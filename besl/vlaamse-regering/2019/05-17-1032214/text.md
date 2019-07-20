@@ -66,9 +66,44 @@ Besluit :
 
 ## HOOFDSTUK 3. Wijzigingen van het besluit van de Vlaamse Regering van 18 juni 2010 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de door het agentschap Jongerenwelzijn erkende voorzieningen en vergunde diensten
 
+### ART 7.
+
+Artikel 3 van het besluit van de Vlaamse Regering van 18 juni 2010 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de door het agentschap Jongerenwelzijn erkende voorzieningen en vergunde diensten, gewijzigd bij de besluiten van de Vlaamse Regering van 5 september 2014 en 5 april 2019, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 3. Om voor een investeringssubsidie in aanmerking te komen, moet de basisinfrastructuur van een residentiële voorziening of van een voorziening van de bijzondere jeugdbijstand met verblijfsmodules ten minste bestaan uit de hierna vermelde ruimtes, waarbij de opgegeven nuttige vloeroppervlakten minima zijn:<br>
+1° per erkende capaciteitseenheid of per erkende verblijfsmodule bedraagt de totale nettovloeroppervlakte van de verblijfsruimten minimaal 30 m<sup>2</sup>&nbsp;per bewoner. Die oppervlakte omvat de kamer van de bewoner, inclusief de individuele sanitaire cel, de gemeenschappelijke zit- en eetruimten en de gemeenschappelijke sanitaire ruimten voor bewoners;<br>
+2° een eenpersoonskamer heeft een nettovloeroppervlakte van ten minste 16 m<sup>2</sup>, sanitair niet inbegrepen, met de mogelijkheid af te wijken naar ten minste 12 m<sup>2</sup>, sanitair niet inbegrepen, als het een eenpersoonskamer voor minderjarigen betreft;<br>
+3° in de nabijheid van de kamers en van de gemeenschappelijke zit- en eetruimten is voldoende sanitair. Dat omvat ten minste:<br>
+a) één bad of douche per vijf bewoners als er geen individuele douches zijn;<br>
+b) ten minste één gemeenschappelijke badkamer met bad, douche en toilet als er individuele douches zijn;<br>
+c) één toilet met wastafel per vijf bewoners als er geen individuele toiletten met wastafel zijn en één toilet met wastafel per tien bewoners als er individuele toiletten met wastafel zijn;<br>
+d) voldoende sanitaire installaties voor bezoekers en personeel;<br>
+4° elke eenpersoonskamer beschikt over een wastafel met warm en koud water;<br>
+5° een kwart van de eenpersoonskamers is integraal toegankelijk en beschikt minstens over een wastafel met warm en koud water;<br>
+6° een kwart van de gemeenschappelijke badkamers is integraal toegankelijk en beschikt minstens over een bad of een douche en een rolstoeltoegankelijk toilet met wastafel met warm en koud water, waarvan minstens één gemeenschappelijke badkamer integraal toegankelijk is en minstens beschikt over een bad, een douche en een rolstoeltoegankelijk toilet met wastafel met warm en koud water;<br>
+7° de nettovloeroppervlakte van de gemeenschappelijke zit- en eetruimten bedraagt minimaal 4 m<sup>2</sup>&nbsp;per gebruiker.<br>
+<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, kan, op verzoek van de voorziening, een afwijking toestaan van de normen, vermeld in het eerste lid, 1°, 2°, 5° en 6°. Minimum moet bij deze afwijking het volgende aanwezig zijn:<br>
+1° één integraal toegankelijke eenpersoonskamer;<br>
+2° één gemeenschappelijke badkamer die integraal toegankelijk is en minstens beschikt over een douche, een bad en een rolstoeltoegankelijk toilet met wastafel met warm en koud water.<br>
+<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de voorwaarden bepalen waaronder de afwijking, vermeld in het tweede lid, kan worden toegestaan.".
+
+### ART 8.
+
+Aan artikel 5 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 5 september 2014 en gewijzigd bij het besluit van de Vlaamse Regering van 5 april 2019, wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"De Vlaamse minister, bevoegd voor de bijstand aan personen, kan, op verzoek van de voorziening, een afwijking toestaan van de normen, vermeld in het eerste en het derde lid. De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de voorwaarden bepalen waaronder die afwijking kan worden toegestaan".
+
 ## HOOFDSTUK 4. Wijzigingen van het besluit van de Vlaamse Regering van 16 juli 2010 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de verzorgingsvoorzieningen
 
 ## HOOFDSTUK 5. Wijzigingen van het besluit van de Vlaamse Regering van 10 september 2010 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de preventieve en de ambulante gezondheidszorg
+
+### ART 18.
+
+In artikel 5, 3°, van het besluit van de Vlaamse Regering van 10 september 2010 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de preventieve en de ambulante gezondheidszorg, vervangen bij het besluit van de Vlaamse Regering van 5 april 2019, wordt punt 5) vervangen door wat volgt:<br>
+<br>
+"5) een multifunctionele ruimte van 25 m<sup>2</sup>&nbsp;die opdeelbaar is in functie van de noden van de voorziening;".
 
 ### ART 22.
 
@@ -79,6 +114,10 @@ Artikel 21 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Reger
 ## HOOFDSTUK 6. Wijzigingen van het besluit van de Vlaamse Regering van 10 september 2010 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor het algemeen welzijnswerk
 
 ## HOOFDSTUK 7. Wijzigingen van het besluit van de Vlaamse Regering van 4 maart 2011 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de sector van de voorzieningen voor gezinnen met kinderen
+
+### ART 26.
+
+Aan artikel 4, 3°, b), 6), van het besluit van de Vlaamse Regering van 4 maart 2011 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de sector van de voorzieningen voor gezinnen met kinderen, vervangen bij het besluit van de Vlaamse Regering van 5 april 2019, wordt de zinsnede ", en met minstens één rolstoeltoegankelijk toilet" toegevoegd.
 
 ## HOOFDSTUK 8. Wijziging van het besluit van de Vlaamse Regering van 9 december 2011 tot vaststelling van de specifieke brandveiligheidsnormen waaraan ouderenvoorzieningen, lokale dienstencentra en centra voor herstelverblijf moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen
 
