@@ -18,7 +18,24 @@ De algemene bouwtechnische en bouwfysische normen waaraan de   infrastructuur me
 
 ### ART. 3.
 
-Om voor een investeringssubsidie in aanmerking te komen, moet de   basisinfrastructuur van een residentiële voorziening of van een voorziening van   de bijzondere jeugdbijstand met verblijfsmodules&nbsp;ten minste bestaan uit de   hierna vermelde ruimtes, waarbij de opgegeven nuttige vloeroppervlakten minima   zijn :<BR>1° per erkende capaciteitseenheid of per erkende verblijfsmodule   hebben de woon- en leefruimtes samen een oppervlakte van 25 m<SUP>2</SUP>, te   vermeerderen met:<BR>a) voor een residentiële voorziening: 10 m<SUP>2</SUP> per   voltijdsequivalent van de maximale personeelsbezetting die in aanmerking komt   voor de subsidiëring van de personeelskosten, vermeld in artikel 30 van het   besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden   en de subsidienormen voor de voorzieningen van de bijzondere   jeugdbijstand;<BR>b) voor een organisatie voor bijzondere jeugdzorg, een centrum   voor integrale gezinszorg of een onthaal-, oriëntatie- en observatiecentrum in   een modulair kader: 10 m<SUP>2</SUP> per voltijdsequivalent van de door de   Vlaamse minister, bevoegd voor de bijstand aan personen, aanvaarde   personeelsformatie;<BR>2° de woonruimte wordt vermeerderd met 10 m2 per   minderjarige voor wie kamertraining wordt georganiseerd;<BR>3° voldoende   administratieve ruimte.
+Om voor een investeringssubsidie in aanmerking te komen, moet de basisinfrastructuur van een residentiële voorziening of van een voorziening van de bijzondere jeugdbijstand met verblijfsmodules ten minste bestaan uit de hierna vermelde ruimtes, waarbij de opgegeven nuttige vloeroppervlakten minima zijn:<br>
+1° per erkende capaciteitseenheid of per erkende verblijfsmodule bedraagt de totale nettovloeroppervlakte van de verblijfsruimten minimaal 30 m2 per bewoner. Die oppervlakte omvat de kamer van de bewoner, inclusief de individuele sanitaire cel, de gemeenschappelijke zit- en eetruimten en de gemeenschappelijke sanitaire ruimten voor bewoners;<br>
+2° een eenpersoonskamer heeft een nettovloeroppervlakte van ten minste 16 m2, sanitair niet inbegrepen, met de mogelijkheid af te wijken naar ten minste 12 m2, sanitair niet inbegrepen, als het een eenpersoonskamer voor minderjarigen betreft;<br>
+3° in de nabijheid van de kamers en van de gemeenschappelijke zit- en eetruimten is voldoende sanitair. Dat omvat ten minste:<br>
+a) één bad of douche per vijf bewoners als er geen individuele douches zijn;<br>
+b) ten minste één gemeenschappelijke badkamer met bad, douche en toilet als er individuele douches zijn;<br>
+c) één toilet met wastafel per vijf bewoners als er geen individuele toiletten met wastafel zijn en één toilet met wastafel per tien bewoners als er individuele toiletten met wastafel zijn;<br>
+d) voldoende sanitaire installaties voor bezoekers en personeel;<br>
+4° elke eenpersoonskamer beschikt over een wastafel met warm en koud water;<br>
+5° een kwart van de eenpersoonskamers is integraal toegankelijk en beschikt minstens over een wastafel met warm en koud water;<br>
+6° een kwart van de gemeenschappelijke badkamers is integraal toegankelijk en beschikt minstens over een bad of een douche en een rolstoeltoegankelijk toilet met wastafel met warm en koud water, waarvan minstens één gemeenschappelijke badkamer integraal toegankelijk is en minstens beschikt over een bad, een douche en een rolstoeltoegankelijk toilet met wastafel met warm en koud water;<br>
+7° de nettovloeroppervlakte van de gemeenschappelijke zit- en eetruimten bedraagt minimaal 4 m2 per gebruiker.<br>
+<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, kan, op verzoek van de voorziening, een afwijking toestaan van de normen, vermeld in het eerste lid, 1°, 2°, 5° en 6°. Minimum moet bij deze afwijking het volgende aanwezig zijn:<br>
+1° één integraal toegankelijke eenpersoonskamer;<br>
+2° één gemeenschappelijke badkamer die integraal toegankelijk is en minstens beschikt over een douche, een bad en een rolstoeltoegankelijk toilet met wastafel met warm en koud water.<br>
+<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de voorwaarden bepalen waaronder de afwijking, vermeld in het tweede lid, kan worden toegestaan.
 
 ### ART. 4.
 
@@ -26,7 +43,21 @@ Om voor een investeringssubsidie in aanmerking te komen, moet de   basisinfrastr
 
 ### ART. 5.
 
-<P>Om voor een investeringssubsidie in aanmerking te komen, moet de   basisinfrastructuur van een ambulante voorziening, van een voorziening met   modules contextbegeleiding of diagnostiek in het kader van een problematische   leefsituatie, of van een organisatie met modules contextbegeleiding,   contextbegeleiding in functie van autonoom wonen of ondersteunende begeleiding,   of van een vergunde dienst voor pleegzorg, ten minste bestaan uit voldoende   administratieve ruimtes.<BR><BR>In het eerste lid wordt verstaan onder ambulante   voorziening: een thuisbegeleidingsdienst, een dienst voor begeleid zelfstandig   wonen, een dienst voor herstelgerichte en constructieve afhandeling of een   dienst voor crisishulp aan huis.</P>
+<p>Om voor een investeringssubsidie in aanmerking te komen, moet de basisinfrastructuur van een ambulante voorziening, van een voorziening met modules contextbegeleiding of diagnostiek in het kader van een problematische leefsituatie, of van een organisatie met modules contextbegeleiding, contextbegeleiding in functie van autonoom wonen of ondersteunende begeleiding, of van een vergunde dienst voor pleegzorg, ten minste bestaan uit de volgende ruimtes, waarbij de opgegeven nettovloeroppervlakten minima zijn :<br>
+1° een sanitaire ruimte van 10 m2, met gescheiden toilet voor mannen en vrouwen en met minstens één rolstoeltoegankelijk toilet;<br>
+2° een wachtruimte van 10 m2;<br>
+3° een administratieve ruimte en ontvangstruimte van 20 m2;<br>
+4° een multifunctionele ruimte van 25 m2 die opdeelbaar is in functie van de noden van de voorziening;<br>
+5° een archief- en bergruimte van 10 m2;<br>
+6° een gespreksruimte van 16 m2;<br>
+7° een bureauruimte van 12 m2;<br>
+8° een vergaderruimte van 20 m2.<br>
+<br>
+In het eerste lid wordt verstaan onder ambulante voorziening: een thuisbegeleidingsdienst, een dienst voor begeleid zelfstandig wonen, een dienst voor herstelgerichte en constructieve afhandeling of een dienst voor crisishulp aan huis.<br>
+<br>
+Als een ambulante voorziening als vermeld in het eerste lid, voorziet in een spelruimte, heeft die een minimum nettovloeroppervlakte van 20 m<sup><span style="font-size: small;">2</span></sup>.<br>
+<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, kan, op verzoek van de voorziening, een afwijking toestaan van de normen, vermeld in het eerste en het derde lid. De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de voorwaarden bepalen waaronder die afwijking kan worden toegestaan</p>
 
 ### ART. 6.
 

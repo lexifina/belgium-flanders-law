@@ -2,16 +2,16 @@
   "codex_id": 1019250,
   "title": "Besluit van de Vlaamse Regering van 2010-06-18 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor [de door het agentschap][Opgroeien regie][ erkende voorzieningen en vergunde diensten]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019250/VolledigDocument?datum=2018-10-11",
-  "source_sha256": "7a761c890b0c38861d8b0684eadd5c576441124dbc1002b1879e10c4627f39a8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019250/VolledigDocument?datum=2019-07-20",
+  "source_sha256": "445b1b8abbb1fedf9d8a305ae257c6a1f5aea9a0607c4ca7b34bd8ce62aa7a51",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019250&param=informatie",
-  "as_of": "2018-10-11",
+  "as_of": "2019-07-20",
   "made": "2010-06-18",
   "gazette": "2010-07-27",
   "numac": 2010035517,
   "document_start": "2010-08-06",
   "document_end": null,
-  "in_force": "2018-10-11",
+  "in_force": "2019-07-20",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2018-10-11; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-07-20; future article versions excluded; article text as the API gives it"
 }
