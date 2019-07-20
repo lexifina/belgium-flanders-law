@@ -18,11 +18,40 @@ De infrastructuur met een functionele bestemming in de sector van het algemeen w
 
 ### ART. 3.
 
-De infrastructuur van een centrum voor algemeen welzijnswerk moet voldoen   aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een   investeringssubsidie in aanmerking te komen : <BR>1° de gebouwen waarover een   centrum voor algemeen welzijnswerk beschikt, moeten gemakkelijk toegankelijk en   bereikbaar zijn, onder meer met het openbaar vervoer;<BR>2° de lokalen die door   een centrum voor algemeen welzijnswerk gebruikt worden, zijn bestemd voor het   algemeen welzijnswerk en moeten afgezonderd zijn van de lokalen waar andere   activiteiten uitgeoefend worden. De lokalen kunnen occasioneel na de diensturen   voor andere activiteiten ter beschikking gesteld worden;<BR>3° de lokalen moeten   aangepast zijn aan de hulp- en dienstverleningsdoeleinden en de lokalen waar de   ontvangst en de hulp- en dienstverlening plaatsvinden of de opvang gebeurt,   moeten voldoende geïsoleerd zijn tegen het geluid;<BR>4° de basisinfrastructuur   van een centrum voor algemeen welzijnswerk bestaat uit de hierna vermelde   lokalen, waarbij de opgegeven nuttige vloeroppervlakten minima zijn : <BR>a)   voor de secretariaatsfunctie : <BR>1) een secretariaat van 20 m2;<BR>2) een   archief van 10 m2;<BR>3) een berging van 5 m2;<BR>b) voor de   hulpverleningsfunctie : <BR>1) een wachtkamer van 10 m2;<BR>2) een of meer   functionele ruimten van samen 25 m², te vermeerderen met 8 m² per erkende   voltijdsequivalent, zoals vermeld in het erkenningsbesluit;<BR>3) een sanitaire   ruimte van 10 m2, met gescheiden wc voor mannen en vrouwen;<BR>5° ingeval een   centrum voor algemeen welzijnswerk voorziet in residentiële opvang, moet het   centrum bovendien beschikken over : <BR>a) gemeenschappelijke kamers met   maximaal 2 bedden per kamer, uitgezonderd voor gezinskamers, en een nuttige   vloeroppervlakte van minstens 8 m2 per bed en individuele kamers met een nuttige   vloeroppervlakte van minstens 12 m2;<BR>b) een multifunctioneel dagverblijf in   een of meer ruimten met een totale nuttige vloeroppervlakte van minstens 4,5 m2   per opvangplaats;<BR>c) degelijke sanitaire installaties, die ten minste   omvatten : <BR>1) 1 wc per 5 opvangplaatsen;<BR>2) 1 badgelegenheid per 5   opvangplaatsen;<BR>3) 1 vaste wastafel per kamer;<BR>4) vaste wastafels in de   nabijheid van de wc's en de eetzalen, om de residenten toe te laten overdag   gemakkelijk hun handen te wassen.
+De infrastructuur van een centrum voor algemeen welzijnswerk moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen :<br>
+1° de gebouwen waarover een centrum voor algemeen welzijnswerk beschikt, moeten gemakkelijk toegankelijk en bereikbaar zijn, onder meer met het openbaar vervoer;<br>
+2° ...;<br>
+3° de lokalen moeten aangepast zijn aan de hulp- en dienstverleningsdoeleinden en de lokalen waar de ontvangst en de hulp- en dienstverlening plaatsvinden of de opvang gebeurt, moeten voldoende geïsoleerd zijn tegen het geluid;<br>
+4° de basisinfrastructuur van een centrum voor algemeen welzijnswerk bestaat uit de volgende ruimtes, waarbij de opgegeven nettovloeroppervlakten minima zijn :<br>
+a) voor de secretariaatsfunctie :<br>
+1) een administratieve ruimte en ontvangstruimte van 20 m2;<br>
+2) een archief- en bergruimte van samen 10 m2;<br>
+b) voor de hulpverleningsfunctie :<br>
+1) een wachtruimte van 10 m2;<br>
+2) een multifunctionele ruimte van 25 m2 die opdeelbaar is in functie van de noden van de voorziening;<br>
+3) een sanitaire ruimte van 10 m2, met gescheiden toilet voor mannen en vrouwen en met minstens één rolstoeltoegankelijk toilet;<br>
+4) een bureauruimte van 12 m2, waar de hulpverlener taken uitvoert zonder dat de cliënt aanwezig is in de ruimte;<br>
+5° als een centrum voor algemeen welzijnswerk voorziet in residentiële opvang, beschikt het centrum, naast de vereisten, vermeld in 4°, over :<br>
+a) gemeenschappelijke kamers met maximaal twee bedden per kamer, uitgezonderd voor gezinskamers, en een nettovloeroppervlakte van minstens 8 m2 per bed en individuele kamers met een nettovloeroppervlakte van 16 m2;<br>
+b) een multifunctioneel dagverblijf in een of meer ruimten met een totale nettovloeroppervlakte van minstens 4 m2 per opvangplaats;<br>
+c) degelijke sanitaire installaties, die ten minste de volgende elementen omvatten :<br>
+1) een toilet per vijf opvangplaatsen, waarvan er minstens één rolstoeltoegankelijk is en uitgerust is met een wastafel;<br>
+2) een badgelegenheid per vijf opvangplaatsen;<br>
+3) een vaste wastafel per kamer;<br>
+4) vaste wastafels in de nabijheid van de toiletten en de eetzalen, om de residenten toe te laten overdag gemakkelijk hun handen te wassen.
 
 ### ART. 4.
 
-De infrastructuur van een centrum voor teleonthaal moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen : <br />1° de lokalen die door een centrum voor teleonthaal gebruikt worden, zijn alleen bestemd voor het algemeen welzijnswerk en moeten afgezonderd zijn van de lokalen waar andere activiteiten uitgeoefend worden;<br />2° de lokalen moeten aangepast zijn aan de hulpverleningsdoeleinden en ze moeten voldoende geïsoleerd zijn tegen het geluid;<br />3° de basisinfrastructuur van een centrum voor teleonthaal bestaat uit de onder vermelde lokalen, waarbij de opgegeven nuttige vloeroppervlakten minima zijn : <br />a) een secretariaat van 20 m2;<br />b) een multifunctionele ruimte van 25 m2;<br />c) een archief van 10 m2; <br />d) een berging van 5 m2;<br />e) een sanitaire ruimte van 5 m2;<br />f) een werkruimte voor vrijwilligers van 20 m2;<br />g) per voltijds equivalent van de door de Vlaamse minister, bevoegd voor de bijstand aan personen, aanvaarde personeelsformatie voor de inhoudelijke medewerkers, 12 m2 werkruimte.
+De infrastructuur van een centrum voor teleonthaal moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen :<br>
+1° ...;<br>
+2° de lokalen moeten aangepast zijn aan de hulpverleningsdoeleinden en ze moeten voldoende geïsoleerd zijn tegen het geluid;<br>
+3° de basisinfrastructuur van een centrum voor teleonthaal bestaat uit de volgende ruimtes, waarbij de opgegeven nettovloeroppervlakten minima zijn :<br>
+a) een administratieve ruimte en ontvangstruimte van 20 m2;<br>
+b) een multifunctionele ruimte van 25 m2 die opdeelbaar is in functie van de noden van de voorziening;<br>
+c) een archief- en bergruimte van samen 10 m2;<br>
+d) een sanitaire ruimte van minimum 10 m2, met gescheiden toilet voor mannen en vrouwen, en met minstens één rolstoeltoegankelijke toilet;<br>
+e) een werkruimte voor vrijwilligers van 20 m2;<br>
+f) per voltijds equivalent van de door de Vlaamse minister bevoegd voor de bijstand aan personen, aanvaarde personeelsformatie voor de inhoudelijke medewerkers, 12 m2 bureauruimte.
 
 ### ART. 5.
 
