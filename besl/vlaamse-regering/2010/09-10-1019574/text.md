@@ -18,19 +18,60 @@ De infrastructuur met een functionele bestemming in de sector van de preventieve
 
 ### ART. 3.
 
-De infrastructuur van een consultatiebureau voor respiratoire aandoeningen moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen : <br />1° een consultatiebureau voor respiratoire aandoeningen bestaat uit de hieronder vermelde lokalen, waarbij de opgegeven nuttige vloeroppervlakten minima zijn : <br />a) een wachtkamer met een goede natuurlijke verluchting en verlichting. De oppervlakte van de wachtkamer moet aangepast zijn aan het aantal onderzoeken;<br />b) een radiografielokaal van 14 m2 met elektriciteitsleidingen die aangepast zijn aan het grote verbruik van de apparatuur. Het radiografielokaal moet voldoende beveiliging bieden tegen radioactieve stralen, zowel voor verpleegkundigen als voor patiënten en bezoekers. Tevens is er koeling voorzien voor de tuberculine;<br />c) een aangepast lokaal voor de ontwikkeling van foto's, als de foto's op analoge wijze ontwikkeld worden;<br />d) één of meer kleedhokjes, waarvan er minstens één hokje aangepast is voor het gebruik door rolstoelgebruikers of door ouders met een kind;<br />e) een archiefruimte;<br />f) voldoende sanitair voor zowel bezoekers als personeel;<br />2° een consultatiebureau voor respiratoire aandoeningen waaraan een mobiele eenheid verbonden is, beschikt bovendien over de hieronder vermelde lokalen, waarbij de opgegeven nuttige vloeroppervlakten minima zijn : <br />a) een bureauruimte van 10 m2 voor de coördinatie van de onderzoeken;<br />b) een garage voor twee grote voertuigen;<br />c) een rustruimte van 10 m2 voor de chauffeurs;<br />d) een vergaderruimte van 20 m2.
+De infrastructuur van een consultatiebureau voor respiratoire aandoeningen moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen :<br>
+1° een consultatiebureau voor respiratoire aandoeningen bestaat uit de volgende ruimtes, waarbij de opgegeven nettovloeroppervlakten minima zijn :<br>
+a) een wachtruimte van 10 m<sup><span style="font-size: small;">2</span></sup>, met een goede natuurlijke verluchting en verlichting. De oppervlakte van de wachtruimte is aangepast aan het aantal onderzoeken;<br>
+b) een consultatieruimte voor radiografie van 16 m<sup><span style="font-size: small;">2</span></sup> met elektriciteitsleidingen die aangepast zijn aan het grote verbruik van de apparatuur. Die consultatieruimte biedt voldoende beveiliging tegen radioactieve stralen, zowel voor verpleegkundigen als voor patiënten en bezoekers. Er is ook koeling voorzien voor de tuberculine;<br>
+c) een aangepaste ruimte voor de ontwikkeling van foto's, als de foto's op analoge wijze ontwikkeld worden;<br>
+d) een of meer kleedhokjes, waarvan er minstens één aangepast is voor het gebruik door rolstoelgebruikers of door ouders met een kind;<br>
+e) een archief- en bergruimte van samen 10 m<sup><span style="font-size: small;">2</span></sup>;<br>
+f) voldoende sanitair voor zowel bezoekers als personeel van samen 10 m<sup><span style="font-size: small;">2</span></sup>, met gescheiden toilet voor mannen en vrouwen, en met minstens één rolstoeltoegankelijk toilet;<br>
+2° een consultatiebureau voor respiratoire aandoeningen waaraan een mobiele eenheid verbonden is, beschikt bovendien over de hieronder vermelde lokalen, waarbij de opgegeven nuttige vloeroppervlakten minima zijn :<br>
+a) een bureauruimte van 12 m<sup>2</sup> voor de coördinatie van de onderzoeken;<br>
+b) een garage voor twee grote voertuigen;<br>
+c) een rustruimte van 12 m<sup>2</sup> voor de chauffeurs;<br>
+d) een vergaderruimte van 20 m<sup>2</sup>.
 
 ### ART. 4.
 
-De infrastructuur van een centrum voor geestelijke gezondheidszorg moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen : <br />1° een centrum voor geestelijke gezondheidszorg of een vestiging van een centrum voor geestelijke gezondheidszorg moet gemakkelijk toegankelijk zijn en bereikbaar zijn, onder meer met het openbaar vervoer;<br />2° de lokalen waarin consulten met patiënten plaatsvinden, moeten voldoende geïsoleerd zijn tegen het geluid;<br />3° de basisinfrastructuur van een centrum voor geestelijke gezondheidszorg bestaat uit de hieronder vermelde lokalen, waarbij de opgegeven nuttige vloeroppervlakten minima zijn : <br />a) een wachtkamer van 10 m2. Als er zorg aan minderjarigen verstrekt wordt, is een afzonderlijke aangepaste wachtruimte nodig;<br />b) een secretariaat van 20 m2;<br />c) een multifunctionele ruimte voor extern gebruik van 25 m2;<br />d) een multifunctionele ruimte voor intern gebruik van 20 m2;<br />e) een archief van 10 m2;<br />f) een berging van 5 m2;<br />g) sanitair van 10 m2, met gescheiden wc voor mannen en vrouwen;<br />h) als in het centrum speltherapie voor kinderen of ergotherapie voor volwassen wordt georganiseerd, is daarvoor telkens een aangepaste ruimte van 20 m2 nodig;<br />i) voldoende bureauruimte voor de psychiatrische, de psychologische, de agogische en de sociale functies, met een minimumoppervlakte van 16 m2 per lokaal.
+De infrastructuur van een centrum voor geestelijke gezondheidszorg moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen :<br>
+1° een centrum voor geestelijke gezondheidszorg of een vestiging van een centrum voor geestelijke gezondheidszorg moet gemakkelijk toegankelijk zijn en bereikbaar zijn, onder meer met het openbaar vervoer;<br>
+2° de lokalen waarin consulten met patiënten plaatsvinden, moeten voldoende geïsoleerd zijn tegen het geluid;<br>
+3° de basisinfrastructuur van een centrum voor geestelijke gezondheidszorg bestaat uit de volgende ruimtes, waarbij de opgegeven nettovloeroppervlakten minima zijn :<br>
+a) een wachtruimte van 10 m<sup><span style="font-size: small;">2</span></sup>. Als er zorg aan minderjarigen verstrekt wordt, is een afzonderlijke aangepaste wachtruimte nodig van 10 m<sup><span style="font-size: small;">2</span></sup>;<br>
+b) een administratieve ruimte en ontvangstruimte van 20 m<sup><span style="font-size: small;">2</span></sup>;<br>
+c) een multifunctionele ruimte van 25 m<sup><span style="font-size: small;">2</span></sup> die opdeelbaar is in functie van de noden van de voorziening;<br>
+e) een archief- en bergruimte van samen 10 m<sup><span style="font-size: small;">2</span></sup>;<br>
+g) sanitair van 10 m<sup><span style="font-size: small;">2</span></sup>, met gescheiden toilet voor mannen en vrouwen, en met minstens één rolstoeltoegankelijk toilet;<br>
+h) een aangepaste spelruimte van 20 m<sup><span style="font-size: small;">2</span></sup>, als in het centrum speltherapie voor kinderen of ergotherapie voor volwassen wordt georganiseerd;<br>
+i) een bureauruimte van 12 m<sup><span style="font-size: small;">2</span></sup>, waar de hulpverlener taken uitvoert zonder dat de cliënt aanwezig is in de ruimte;<br>
+j) voldoende gespreksruimte voor de therapeutische behandeling van de cliënt van 16m<sup><span style="font-size: small;">2</span></sup> per ruimte.
 
 ### ART. 5.
 
-De infrastructuur van een wijkgezondheidscentrum moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen : <br />1° een wijkgezondheidscentrum moet gemakkelijk toegankelijk zijn en bereikbaar zijn, onder meer met het openbaar vervoer;<br />2° de disciplinegebonden lokalen waarin de disciplines worden uitgeoefend, moeten voldoende geïsoleerd zijn tegen geluid;<br />3° de basisinfrastructuur van een wijkgezondheidscentrum bestaat uit de hieronder vermelde lokalen, waarbij de opgegeven nuttige vloeroppervlakten minima zijn : <br />a) algemene lokalen : <br />1) een wachtruimte van 10 m2;<br />2) een secretariaat van 20 m2;<br />3) een archief en berging van samen 10 m2;<br />4) een sanitair voor de patiënten en een afzonderlijk sanitair voor het personeel, van samen minimum 10 m2;<br />5) een vergaderlokaal van 25 m2;<br />b) voldoende, in verhouding tot het aantal ingeschreven patiënten, disciplinegebonden lokalen waarin de disciplines worden uitgeoefend, om de nodige kwaliteitsvolle zorg- en dienstverlening te kunnen bieden. Die lokalen zijn ingericht volgens de noodzakelijkheden van de aangeboden disciplines. In geval van nieuwbouw gaat men uit van het aantal te verwachten inschrijvingen.
+De infrastructuur van een wijkgezondheidscentrum moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen :<br>
+1° een wijkgezondheidscentrum moet gemakkelijk toegankelijk zijn en bereikbaar zijn, onder meer met het openbaar vervoer;<br>
+2° de disciplinegebonden lokalen waarin de disciplines worden uitgeoefend, moeten voldoende geïsoleerd zijn tegen geluid;<br>
+3° de basisinfrastructuur van een wijkgezondheidscentrum bestaat uit de volgende ruimtes, waarbij de opgegeven nettovloeroppervlakten minima zijn :<br>
+a) algemene ruimtes :<br>
+1) een wachtruimte van 10 m<sup>2</sup>;<br>
+2) een administratieve ruimte en ontvangstruimte van 20 m<sup>2</sup>;<br>
+3) een archief- en bergruimte van samen 10 m<sup>2</sup>;<br>
+4) een sanitair voor de patiënten en een afzonderlijk sanitair voor het personeel, van samen minimum 10 m<sup>2</sup>, met gescheiden toilet voor mannen en vrouwen, en met minstens één rolstoeltoegankelijk toilet;<br>
+5) een multifunctionele ruimte van 25 m<sup>2</sup> die opdeelbaar is in functie van de noden van de voorziening;;<br>
+b) voldoende, in verhouding tot het aantal ingeschreven patiënten, disciplinegebonden consultatieruimtes van 16 m<sup>2</sup> waarin de disciplines worden uitgeoefend, om de nodige kwaliteitsvolle zorg- en dienstverlening te kunnen bieden. Die consultatieruimtes zijn ingericht volgens de noodzakelijkheden van de aangeboden disciplines. Bij nieuwbouw gaat men uit van het aantal te verwachten inschrijvingen.
 
 ### ART. 6.
 
-De infrastructuur van een aanloopadres inzake beschut wonen moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen : <br />1° het aanloopadres inzake beschut wonen moet gemakkelijk toegankelijk zijn en bereikbaar zijn, onder meer met het openbaar vervoer;<br />2° het aanloopadres inzake beschut wonen moet in de lokale leefgemeenschap gelokaliseerd zijn en in elk geval op voldoende ruime afstand van het ziekenhuis dat deel uitmaakt van het samenwerkingsverband voor de oprichting en het beheer van initiatieven van beschut wonen, zodat er zeker geen rechtstreekse toegang mogelijk is vanuit het aanloopadres inzake beschut wonen naar het domein waarop het ziekenhuis gevestigd is;<br />3° de lokalen waarin individuele gesprekken en teamvergaderingen plaatsvinden, moeten voldoende geïsoleerd zijn tegen geluid;<br />4° de basisinfrastructuur van een aanloopadres inzake beschut wonen bestaat uit de hieronder vermelde lokalen, waarbij de opgegeven nuttige vloeroppervlakten minima zijn : <br />a) een secretariaat van 20 m2;<br />b) een multifunctionele ruimte van 25 m2;<br />c) een archief- of bergruimte van 5 m2;<br />d) een sanitair van 5 m2.
+De infrastructuur van een aanloopadres inzake beschut wonen moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen :<br>
+1° het aanloopadres inzake beschut wonen moet gemakkelijk toegankelijk zijn en bereikbaar zijn, onder meer met het openbaar vervoer;<br>
+2° het aanloopadres inzake beschut wonen moet in de lokale leefgemeenschap gelokaliseerd zijn en in elk geval op voldoende ruime afstand van het ziekenhuis dat deel uitmaakt van het samenwerkingsverband voor de oprichting en het beheer van initiatieven van beschut wonen, zodat er zeker geen rechtstreekse toegang mogelijk is vanuit het aanloopadres inzake beschut wonen naar het domein waarop het ziekenhuis gevestigd is;<br>
+3° de lokalen waarin individuele gesprekken en teamvergaderingen plaatsvinden, moeten voldoende geïsoleerd zijn tegen geluid;<br>
+4° de basisinfrastructuur van een aanloopadres voor beschut wonen bestaat uit de volgende ruimtes, waarbij de opgegeven nettovloeroppervlakten minima zijn :<br>
+a) een administratieve ruimte en ontvangstruimte van 20 m<sup><span style="font-size: small;">2</span></sup>;<br>
+b) een multifunctionele ruimte van 25 m<sup><span style="font-size: small;">2</span></sup> die opdeelbaar is in functie van de noden van de voorziening;<br>
+c) een archief- en bergruimte van samen 5 m<sup><span style="font-size: small;">2</span></sup>;<br>
+d) een sanitair van 10 m<sup><span style="font-size: small;">2</span></sup>, met gescheiden toilet voor mannen en vrouwen, en met minstens één rolstoeltoegankelijk toilet.
 
 ### ART. 7.
 
