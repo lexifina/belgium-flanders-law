@@ -51,3 +51,13 @@ Het aantal plaatsen in het detentiecentrum voor de categorie van minderjarigen, 
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering van 5 april 2019 tot inrichting van de gemeenschapsinstellingen en tot uitvoering van diverse bepalingen van het decreet betreffende het jeugddelinquentierecht
 
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 6.
+
+Artikel 1 en 2 treden in werking op de dag die volgt op de bekendmaking van dit besluit in het Belgisch Staatsblad.<br>
+<br>
+Artikel 3, 4 en 5 van dit besluit treden in werking op 1 september 2019.
+
+### ART 7.
+
+De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
