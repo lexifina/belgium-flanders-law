@@ -67,7 +67,9 @@ e) Tuigpaard;<br>
 14° de vzw Belgisch Stamboek voor het Miniatuurpaard, met ondernemingsnummer 453.342.366, voor het bijhouden van een stamboek voor het ras Miniatuurpaard;<br>
 15° de vzw Vlaamse Fokkers van het Belgisch Trekpaard, met ondernemingsnummer 461.206.294, voor het bijhouden van een stamboek voor het ras Belgisch Trekpaard;<br>
 16° de vzw Vlaams Paard, met ondernemingsnummer 470.503.052, voor het bijhouden van een stamboek voor het ras Vlaams Paard;<br>
-17° de vzw Belgische Ezel Vrienden, met ondernemingsnummer 476.665.027, voor het bijhouden van een stamboek voor alle rassen van ezels;<br>
+17° de vzw Belgische Ezel Vrienden, met ondernemingsnummer 476.665.027, voor het bijhouden van een stamboek voor de volgende rassen:<br>
+a) Belgische Ezel;<br>
+b) Belgische Miniatuurezel;<br>
 18° de vzw Het Belgisch Mérens Stamboek - Le Studbook belge du Mérens asbl, met ondernemingsnummer 876.489.624, voor het bijhouden van een stamboek voor het ras Merens;<br>
 19° de vzw Europese Arabo-Friezen Stamboek, met ondernemingsnummer 870.957.951, voor het bijhouden van een stamboek voor het ras Arabo-Friese Paard;<br>
 20° de vzw Belgisch Stamboek van het Friese Paard, met ondernemingsnummer 426.528.103, voor het bijhouden van een stamboek voor het ras Friese Paard;<br>
