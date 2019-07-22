@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031906,
+  "title": "Ministerieel besluit van 2019-06-21 tot vastlegging van de periode waarbinnen een aanvraag tot erkenning als verhuurdersorganisatie kan worden ingediend",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031906/VolledigDocument?datum=2019-07-22",
+  "source_sha256": "382aa3c9bb9c508e39054deced4b500a95a910aa2c119bc2eb7144b7cbe5b630",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031906&param=informatie",
+  "as_of": "2019-07-22",
+  "made": "2019-06-21",
+  "gazette": "2019-07-12",
+  "numac": 2019013589,
+  "document_start": "2019-07-22",
+  "document_end": null,
+  "in_force": "2019-07-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
