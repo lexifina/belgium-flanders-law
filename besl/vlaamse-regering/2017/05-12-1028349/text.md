@@ -16,6 +16,69 @@ Op voorstel van de Vlaamse minister van Begroting, Financiën en Energie;<br>
 Na beraadslaging,<br>
 Besluit :
 
+### ART 1.
+
+&nbsp;In artikel 1.1.1, § 2, van het Energiebesluit van 19 november 2010, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 8 januari 2016, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° er wordt een punt 21/1°, 21/2° en 21/3° ingevoegd, die luiden als volgt:<br>
+<br>
+"21/1° dunningen: het selectief of systematisch verwijderen van bomen uit een min of meer gelijkjarig bos met het doel de (dikte)groei en gezondheid van de resterende bomen te bevorderen;<br>
+21/2° dunningshout: hout dat afkomstig is van de bomen die bij de uitvoering van een dunning zijn geveld;<br>
+21/3° duurzaam bosbeheer: het beheer en gebruik van bossen en beboste gebieden op een manier (en met een intensiteit) die hun productiviteit, biologische diversiteit, regeneratiecapaciteit en vitaliteit behouden, evenals het vermogen om nu en in de toekomst de relevante economische, ecologische en sociale functies op lokaal, nationaal en mondiaal niveau te vervullen, waarbij koolstofvoorraden op lange termijn behouden of vergroot worden en geen schade aan andere ecosystemen wordt toegebracht;";<br>
+<br>
+2° punt 42°, opgeheven bij het besluit van de Vlaamse Regering van 23 september 2011, wordt opnieuw opgenomen in de volgende lezing:<br>
+<br>
+"42° gasvormige biomassa: een gasvormige brandstof voor andere energiedoeleinden dan vervoer, waaronder elektriciteit, verwarming en koeling, die geproduceerd is uit biomassa;";<br>
+<br>
+3° er wordt een punt 47/2° ingevoegd, dat luidt als volgt:<br>
+<br>
+"47/2° houtplantage: bos bestaande uit gelijkjarige bomen van één of enkele soorten, meestal exoten, aangelegd in een gelijkmatig verband door planten of zaaien met houtproductie als doel;";<br>
+<br>
+4° er wordt een punt 64/1° ingevoegd, dat luidt als volgt:<br>
+<br>
+"64/1° levering: een hoeveelheid biomassa die wordt ingezet voor energieproductie en waarvoor de fysieke en duurzaamheidseigenschappen voor de gehele levering gelijk zijn. (Een levering is hiermee niet hetzelfde als een fysieke levering. Het is mogelijk dat een levering uit meerdere ladingen van vrachtwagens of schepen bestaat als de genoemde eigenschappen maar gelijk zijn. Ook kan één fysieke lading uit meerdere leveringen bestaan, aangezien de massabalanseisen mengen van gelijke materialen niet verbiedt.);";<br>
+<br>
+5° er wordt een punt 68/2° ingevoegd, dat luidt als volgt:<br>
+<br>
+"68/2° natuurlijk bos: bos dat van nature is ontstaan en zich langs natuurlijke weg heeft ontwikkeld;";<br>
+<br>
+6° er wordt een punt 81/2° ingevoegd, dat luidt als volgt:<br>
+<br>
+"81/2° productiebos: bosgebied dat primair bestemd is voor de productie van hout, vezels, bio-energie of andere bosproducten dan hout;";<br>
+<br>
+7° er wordt een punt 88/1° en 88/2° ingevoegd, die luiden als volgt:<br>
+<br>
+"88/1° rondhout: onbewerkt hout van de stam van een boom; niet van de takken, stronk of wortel;<br>
+88/2° rotatieperiode: in geval van vlaktegewijze kap, de periode tussen aanleg en eindkap. In geval van een uitkapbos, de periode tussen twee oogsten. Deze laatste wordt ook kapcyclus genoemd;";<br>
+<br>
+8° er wordt een punt 92/1° ingevoegd, dat luidt als volgt:<br>
+<br>
+"92/1° semi natuurlijk bos: bos waarbij de natuurlijke processen een belangrijke invloed hebben op de ontwikkeling;";<br>
+<br>
+9° er wordt een punt 98/1° ingevoegd, dat luidt als volgt:<br>
+<br>
+"98/1° stronk: het gedeelte van een boom dat aan de wortel blijft vastzitten nadat de stam is geveld;";<br>
+<br>
+10° er wordt een punt 99/1° ingevoegd, dat luidt als volgt:<br>
+<br>
+"99/1° tak: een uitspruitsel uit een stam of stengel of een secundaire stam of stengel die uit de hoofdstam of -stengel van een plant voortkomt;";<br>
+<br>
+11° er wordt een punt 100/2° ingevoegd, dat luidt als volgt:<br>
+<br>
+"100/2° uitkapbos: ongelijkjarig en meestal meersoortig bos waaruit periodiek bomen worden geoogst terwijl het bos tot in lengte van jaren in stand blijft. Hier vindt dus geen vlaktegewijze eindkap plaats;";<br>
+<br>
+12° er wordt een punt 102/1° ingevoegd, dat luidt als volgt:<br>
+<br>
+"102/1° van landbouw, aquacultuur, visserij of bosbouw afkomstige residuen: de residuen die rechtstreeks afkomstig zijn uit de landbouw, de aquacultuur, de visserij of de bosbouw, met uitsluiting van residuen van aanverwante bedrijfstakken of van verwerking;";<br>
+<br>
+13° er wordt een punt 102/2° ingevoegd, dat luidt als volgt:<br>
+<br>
+"102/2° vaste biomassa: vaste brandstof voor andere energiedoeleinden dan vervoer, waaronder elektriciteit, verwarming en koeling, die geproduceerd is uit biomassa;";<br>
+<br>
+14° er wordt een punt 105/3° toegevoegd, dat luidt als volgt:<br>
+<br>
+"105/3° waterrijke gebieden: de gebieden met moerassen, vennen, veen- of plasgebieden, natuurlijk of kunstmatig, blijvend of tijdelijk, met stilstaand of stromend water, zoet, brak of zout, met inbegrip van zeewater, waarvan de diepte bij eb niet meer dan zes meter bedraagt;".
+
 ### ART 2.
 
 In artikel 1.1.2 van het Energiebesluit van 19 november 2010, ingevoegd bij het besluit van de Vlaamse Regering van 13 januari 2017, wordt een punt 7° toegevoegd, dat luidt als volgt:<br>
@@ -85,6 +148,78 @@ Het auditverslag rapporteert over de mate waarin is voldaan aan de duurzaamheids
 2° groenestroomproductie-installaties met een geïnstalleerd elektrisch vermogen van minder dan 1 MW;<br>
 3° productie-installaties van groene warmte met een geïnstalleerd thermisch vermogen van minder dan 10 MW;<br>
 4° groenestroomproductie-installaties die uitsluitend vaste of gasvormige biomassastromen gebruiken die vervaardigd zijn uit afvalstoffen of residuen die niet afkomstig zijn van landbouw, aquacultuur, visserij, bosbouw of natuurgebieden.".
+
+### ART 7.
+
+In artikel 6.1.16 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 8 april 2011, 21 december 2012, 19 juli 2013 en 9 mei 2014, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 1, 6°, wordt de zinsnede "organisch-biologische stoffen, die in het geval van vloeibare biomassa, voldoen aan de duurzaamheidscriteria, vermeld in paragraaf 1/1" vervangen door de zinsnede "organisch-biologische stoffen of afvalstoffen die voldoen aan de duurzaamheidscriteria, vermeld in paragraaf 1/1";<br>
+<br>
+2° in paragraaf 1, 7°, wordt de zinsnede "organisch-biologische stoffen, die in het geval van vloeibare biomassa, voldoen aan de duurzaamheidscriteria, vermeld in paragraaf 1/1" vervangen door de zinsnede "organisch-biologische stoffen of afvalstoffen die voldoen aan de duurzaamheidscriteria, vermeld in paragraaf 1/1";<br>
+<br>
+3° paragraaf 1/1 wordt vervangen door wat volgt:<br>
+<br>
+" § 1/1. Groenestroomcertificaten, toegekend voor elektriciteit die is opgewekt uit vloeibare biomassa, worden alleen aanvaard voor de certificatenverplichting als de biomassa voldoet aan de duurzaamheidscriteria, vermeld in paragraaf 1/2 tot en met 1/6.<br>
+<br>
+Vloeibare biomassa die vervaardigd is uit afvalstoffen en residuen die niet afkomstig zijn van landbouw, aquacultuur, visserij of bosbouw, hoeft alleen aan de duurzaamheidscriteria, vermeld in paragraaf 1/2, te voldoen.<br>
+<br>
+Groenestroomcertificaten, toegekend voor elektriciteit die is opgewekt uit vaste of gasvormige biomassa die afkomstig is van landbouw, aquacultuur of visserij, worden alleen aanvaard voor de certificatenverplichting als de biomassa voldoet aan de duurzaamheidscriteria, vermeld in paragraaf 1/3 tot en met paragraaf 1/6 en paragraaf 1/8.<br>
+<br>
+Groenestroomcertificaten, toegekend voor elektriciteit die is opgewekt uit vaste of gasvormige biomassa die niet afkomstig is van landbouw, aquacultuur of visserij, worden alleen aanvaard voor de certificatenverplichting als de biomassa voldoet aan de duurzaamheidscriteria, vermeld in paragraaf 1/7 tot en met 1/10.<br>
+<br>
+Vaste of gasvormige biomassa die vervaardigd is uit afvalstoffen en residuen die afkomstig zijn van landbouw, aquacultuur, visserij, bosbouw of natuurgebieden, hoeft alleen te voldoen aan de duurzaamheidscriteria, vermeld in paragraaf 1/8 en paragraaf 1/10.<br>
+<br>
+Vaste of gasvormige biomassa die vervaardigd is uit afvalstoffen en residuen die niet afkomstig zijn van landbouw, aquacultuur, visserij, bosbouw of natuurgebieden, hoeft niet aan de duurzaamheidscriteria, vermeld in dit besluit, te voldoen.<br>
+<br>
+Om aan te tonen dat aan de voorwaarden uit deze paragraaf voldaan wordt, kan een risicogebaseerde methodologie toegepast worden.";<br>
+<br>
+4° in paragraaf 1/2 worden het eerste en het tweede lid vervangen door wat volgt:<br>
+<br>
+"De broeikasgasemissiereductie ten gevolge van het gebruik van vloeibare biomassa bedraagt minstens 60% voor vloeibare biomassa die wordt geproduceerd in installaties die operationeel geworden zijn na 5 oktober 2015. Een installatie wordt geacht operationeel te zijn als de fysieke productie van vloeibare biomassa plaatsvindt.<br>
+<br>
+In geval van installaties die operationeel waren op of vóór 5 oktober 2015, bedraagt de broeikasgasemissiereductie ten gevolge van het gebruik van vloeibare biomassa minstens 35% tot en met 31 december 2017 en minstens 50% vanaf 1 januari 2018.";<br>
+<br>
+5° in paragraaf 1/2 worden het vierde en vijfde lid opgeheven;<br>
+<br>
+6° in paragraaf 1/3 wordt het woord "vloeibare" weggelaten;<br>
+<br>
+7° in paragraaf 1/3 wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+"De graslanden met grote biodiversiteit moeten ook aan de criteria en de geografische grenzen voldoen, vermeld in verordening (EU) nr. 1307/2014 van de Commissie van 8 december 2014 houdende vaststelling van de criteria en geografische grenzen van graslanden met grote biodiversiteit voor de doeleinden van artikel 7 ter, lid 3, onder c), van Richtlijn 98/70/EG van het Europees Parlement en de Raad betreffende de kwaliteit van benzine en van dieselbrandstof en artikel 17, lid 3, onder c), van Richtlijn 2009/28/EG van het Europees Parlement en de Raad ter bevordering van het gebruik van energie uit hernieuwbare bronnen.";<br>
+<br>
+8° in paragraaf 1/4, 1/5 en 1/6 wordt het woord "vloeibare" weggelaten;<br>
+<br>
+9° er worden een paragraaf 1/7, 1/8, 1/9, en 1/10 toegevoegd, die luiden als volgt:<br>
+<br>
+" § 1/7. De vaste of gasvormige biomassa mag niet afkomstig zijn uit de volgende gebieden of bronnen:<br>
+1° waterrijke gebieden, tenzij is aangetoond dat de oogst van de grondstoffen noodzakelijk is voor het behoud of beheer van het waterrijke gebied;<br>
+2° land dat na 1 januari 2008 is geconverteerd van waterrijk gebied naar andere (drogere) ecosystemen;<br>
+3° hout uit productiebossen (inclusief houtplantages) die vanaf 1 januari 2008 zijn aangelegd door middel van conversie van (semi) natuurlijke bossen;<br>
+4° rondhout uit een bos met een rotatieperiode van meer dan veertig jaar, tenzij er gedocumenteerd bewijs is dat alleen een beperkt deel van de waarde van het gekapte hout (i.e. op volumebasis minder dan de helft van het gekapte rondhout op jaarbasis) gebruikt wordt voor de productie van bio-energie (exclusief dunningshout);<br>
+5° stronken, met uitzondering van de stronken die om een andere reden dan de hout- of biomassaproductie moeten worden verwijderd, zoals bijvoorbeeld voor de aanleg van wegen;<br>
+6° houtblokken die geschikt zijn voor verzaging conform de lokale gangbare standaard.<br>
+<br>
+De minister kan nadere regels vastleggen betreffende de manier waarop aangetoond kan worden dat aan de voorwaarden 1° tot en met 6°, vermeld in het eerste lid, wordt voldaan, en legt dit ministerieel besluit voorafgaand aan de ondertekening als mededeling voor aan de Vlaamse Regering.<br>
+<br>
+§ 1/8. De gemiddelde broeikasgasemissiereductie ten gevolge van het gebruik van vaste of gasvormige biomassa bedraagt minstens 70%.<br>
+<br>
+Voor elke levering van biomassa afzonderlijk bedraagt de broeikasgasemissiereductie minstens 60%.<br>
+<br>
+De minister bepaalt de manier waarop de broeikasgasemissiereductie berekend wordt, en legt dit ministerieel besluit voorafgaand aan de ondertekening als mededeling voor aan de Vlaamse Regering.<br>
+<br>
+§ 1/9. De vaste of gasvormige biomassa uit bosbouw is afkomstig van duurzaam beheerde bossen waarbij voldaan is aan de volgende principes:<br>
+1° behoud en gepaste verbetering van de bosbestanden en hun bijdrage tot de mondiale koolstofcyclus;<br>
+2° behoud van de gezondheid en vitaliteit van het ecosysteem van het bos;<br>
+3° behoud, bescherming en geschikte verbetering van de biologische diversiteit in bosecosystemen;<br>
+4° behoud en geschikte verbetering van beschermingsfuncties in bosbeheer (in het bijzonder voor bodem en water);<br>
+5° behoud en geschikte verbetering van de productiefuncties van het bos (hout en niet-hout);<br>
+6° respect voor traditionele dienstverbanden en eigendomsrechten gerelateerd aan het bos.<br>
+<br>
+De minister kan nadere regels vastleggen betreffende de manier waarop aangetoond kan worden dat aan de voorwaarden 1° tot en met 6°, vermeld in het eerste lid, wordt voldaan, en legt dit ministerieel besluit voorafgaand aan de ondertekening als mededeling voor aan de Vlaamse Regering.<br>
+<br>
+§ 1/10. Bij het gebruik van vaste en gasvormige biomassa afkomstig van agrarische afvalstoffen en residuen als ook van afvalstoffen en residuen uit natuurgebieden wordt uitgegaan van beste praktijken voor de instandhouding of verbetering van de bodem en de bodemkwaliteit met het oog op de productie of de beheerdoelstellingen zoals deze zijn vastgelegd in een beheersplan.<br>
+<br>
+De minister kan nadere regels vastleggen betreffende de afbakening van beste praktijken zoals vermeld in het eerste lid, en legt dit ministerieel besluit voorafgaand aan de ondertekening als mededeling voor aan de Vlaamse Regering.".
 
 ### ART 8.
 
@@ -1469,6 +1604,22 @@ In bijlage III/3 bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 "3.1.6 M 3.6<br>
 <br>
 Het VEA legt de waarde vast op basis van het verwachte aandeel zelfafname, en actualiseert dit jaarlijks.".
+
+### ART 27.
+
+In bijlage XI bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 8 april 2011, wordt in deel C punt 7 vervangen door wat volgt:<br>
+<br>
+"7. Op jaarbasis berekende emissies uit wijzigingen van koolstofvoorraden door veranderingen in het landgebruik, el, worden berekend door de totale emissies te delen door twintig jaar. Voor de berekening van die emissies wordt de volgende regel toegepast:<br>
+e<sub>l</sub>&nbsp;= (CS<sub>R</sub>&nbsp;- CS<sub>A</sub>) x 3,664 x 1/20 x 1/P - e<sub>B</sub>, (<sup>*</sup>)<br>
+waarin:<br>
+e<sub>l</sub>&nbsp;= op jaarbasis berekende broeikasgasemissies ten gevolge van wijzigingen van koolstofvoorraden door veranderingen in het landgebruik (gemeten als massa (gram) CO2-equivalent per eenheid energie uit biobrandstoffen (megajoule)). "Akkerland" (<sup>**</sup>) en "land voor vaste gewassen" (<sup>***</sup>) worden beschouwd als één landgebruik;<br>
+CS<sub>R</sub>&nbsp;= de koolstofvoorraad per landeenheid van het referentielandgebruik (gemeten als massa (ton) koolstof per landeenheid, inclusief bodem en vegetatie). Het referentielandgebruik is het landgebruik op het laatste van de volgende twee tijdstippen: in januari 2008 of twintig jaar vóór het verkrijgen van de grondstoffen;<br>
+CS<sub>A</sub>&nbsp;= de koolstofvoorraad per landeenheid van het werkelijke landgebruik (gemeten als massa (ton) koolstof per landeenheid, inclusief bodem en vegetatie). Als vorming van de koolstofvoorraad zich over een periode van meer dan één jaar uitstrekt, wordt de waarde voor CSA de geraamde voorraad per landeenheid na twintig jaar of wanneer het gewas tot volle wasdom komt, als dat eerder is;<br>
+P = de productiviteit van het gewas (gemeten als energie van de biobrandstof per landeenheid per jaar);<br>
+e<sub>B</sub>&nbsp;= bonus van 29 gCO2eq/MJ biobrandstof als de biomassa afkomstig is van hersteld aangetast land, op voorwaarde dat aan de voorwaarden, vermeld in punt 8, is voldaan.<br>
+(<sup>*</sup>)Het resultaat van de deling van het moleculaire gewicht van CO2 (44,010 g/mol) door het moleculaire gewicht van koolstof (12,011 g/mol) is 3,664.<br>
+(<sup>**</sup>)Akkerland als gedefinieerd door het IPCC.<br>
+(<sup>***</sup>)Vaste gewassen worden gedefinieerd als meerjarige gewassen waarvan de stam gewoonlijk niet jaarlijks wordt geoogst, zoals hakhout met een korte omlooptijd en oliepalm.";
 
 ### ART 28.
 
