@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031902,
+  "title": "Besluit van de Vlaamse Regering van 2019-04-05 tot goedkeuring en instelling van het landinrichtingsproject Water-Land-Schap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031902/VolledigDocument?datum=2019-07-22",
+  "source_sha256": "b3ccff504181b613f7a17c268eb7d116d42631bde7d8abe9e13f46259428a7ea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031902&param=informatie",
+  "as_of": "2019-07-22",
+  "made": "2019-04-05",
+  "gazette": "2019-07-12",
+  "numac": 2019013481,
+  "document_start": "2019-07-22",
+  "document_end": null,
+  "in_force": "2019-07-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
