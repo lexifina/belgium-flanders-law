@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032413,
+  "title": "Ministerieel besluit van 2019-05-28 betreffende de samenstelling van de commissie multifunctionele infrastructuur binnen het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032413/VolledigDocument?datum=2019-07-22",
+  "source_sha256": "23e8e80ee1351965872d32591202ac76f562fb6205c017ad206faa668893b771",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032413&param=informatie",
+  "as_of": "2019-07-22",
+  "made": "2019-05-28",
+  "gazette": "2019-07-12",
+  "numac": 2019030587,
+  "document_start": "2019-07-22",
+  "document_end": null,
+  "in_force": "2019-07-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
