@@ -22,7 +22,30 @@ Besluit :
 
 ### ART. 1.
 
-Ter uitvoering van artikel 35 van het Fokkerijbesluit van 19 maart 2010   wordt het centrum Génétique Avenir Belgimex SCRL, rue de la Gâte 44, 6464   Chimay, erkend voor winning en opslag van sperma van rundvee.<BR><BR>Ter   uitvoering van artikel 35 van het Fokkerijbesluit van 19 maart 2010 zijn de   volgende centra erkend voor de opslag van sperma van rundvee:<BR>1° Baanpraktijk   K.I. Van Steendam, Dieter Visserstraat 1, 9070 Destelbergen;<BR>2° Candida   Adriaens, Kortestraat 4, 8470 Snaaskerke;<BR>3° DAP Gecavet bvba, Heerbaan 7,   2310 Rijkevorsel;<BR>4° Geert Tranoit, Kloosterstraat 7, 9680 Maarkedal;<BR>5°   Genes Diffusion bvba, Nekkersvlietweg 2A, 8432 Leffinge;<BR>6° Griet Van de   Woestyne - KI Lugri, Moerwege 35,9991 Adegem;<BR>7° Johan Dielemans,   Schrevelstraat 15, 8650 Houthulst;<BR>8° Koen Leus, Heistraat 102, 9860   Oosterzele;<BR>9° Kurt Van Hulle, Prinsengoeddreef 37A, 9910 Knesselare;<BR>10°   Semenzoo Belgium bvba, Kampstraat 20, 3910 Neerpelt;<BR>11° Team Focus bvba,   Hondenstraat 8, 9150 Kruibeke.<BR><BR>Ter uitvoering van artikel 35 van het   Fokkerijbesluit van 19 maart 2010 worden de volgende centra erkend voor winning   en opslag van embryo's van rundvee :<BR>1° CRV CVBA, Van Thorenburghlaan 14,   9860 Oosterzele;<BR>2° Peter De Swaef, Heerlijkheidstraat 36, 9308   Hofstade.<BR><BR>Ter uitvoering van artikel 35 van het Fokkerijbesluit van 19   maart 2010 worden de volgende centra erkend voor opslag van embryo's van rundvee   :<BR>1° K.I. Samen België bvba, Ambachtstraat 16i, 8820 Torhout;<BR>2° Semex   Holland BUIV, Stationsstraat 44, 8552 Moen.
+Ter uitvoering van artikel 35 van het Fokkerijbesluit van 19 maart 2010 wordt het centrum Génétique Avenir Belgimex SCRL, rue de la Gâte 44, 6464 Chimay, erkend voor winning en opslag van sperma van rundvee.<br>
+<br>
+Ter uitvoering van artikel 35 van het Fokkerijbesluit van 19 maart 2010 zijn de volgende centra erkend voor de opslag van sperma van rundvee:<br>
+1° Baanpraktijk K.I. Van Steendam, Dieter Visserstraat 1, 9070 Destelbergen;<br>
+2° Candida Adriaens, Kortestraat 4, 8470 Snaaskerke;<br>
+3° DAP Gecavet bvba, Heerbaan 7, 2310 Rijkevorsel;<br>
+4° Geert Tranoit, Kloosterstraat 7, 9680 Maarkedal;<br>
+5° Genes Diffusion bvba, Nekkersvlietweg 2A, 8432 Leffinge;<br>
+6° Griet Van de Woestyne - KI Lugri, Moerwege 35,9991 Adegem;<br>
+7° Johan Dielemans, Schrevelstraat 15, 8650 Houthulst;<br>
+8° Koen Leus, Heistraat 102, 9860 Oosterzele;<br>
+9° Kurt Van Hulle, Prinsengoeddreef 37A, 9910 Knesselare;<br>
+10° Semenzoo Belgium bvba, Kampstraat 20, 3910 Neerpelt;<br>
+11° Team Focus bvba, Hondenstraat 8, 9150 Kruibeke;<br>
+14° DAP Verboven - Dewettinck, Mechelsesteenweg 426, 2500 Lier.<br>
+<br>
+Ter uitvoering van artikel 35 van het Fokkerijbesluit van 19 maart 2010 worden de volgende centra erkend voor winning en opslag van embryo's van rundvee :<br>
+1° CRV CVBA, Van Thorenburghlaan 14, 9860 Oosterzele;<br>
+2° Peter De Swaef, Heerlijkheidstraat 36, 9308 Hofstade;<br>
+3° Rudolf De Roover, Gemeenteplein 10, 3806 Sint-Truiden.<br>
+<br>
+Ter uitvoering van artikel 35 van het Fokkerijbesluit van 19 maart 2010 worden de volgende centra erkend voor opslag van embryo's van rundvee :<br>
+1° K.I. Samen België bvba, Ambachtstraat 16i, 8820 Torhout;<br>
+2° Semex Holland BUIV, Stationsstraat 44, 8552 Moen.
 
 ### ART. 2.
 
