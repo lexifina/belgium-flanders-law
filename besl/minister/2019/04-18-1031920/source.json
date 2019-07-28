@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031920,
+  "title": "Ministerieel besluit van 2019-04-18 tot vaststelling van de urencontingenten gezinszorg van de erkende diensten voor gezinszorg en aanvullende thuiszorg voor het jaar 2019",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031920/VolledigDocument?datum=2019-07-28",
+  "source_sha256": "75070eda3bc990fc35c88b555b48a640bbde4e5ed44c2f162f7f2688c08fe798",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031920&param=informatie",
+  "as_of": "2019-07-28",
+  "made": "2019-04-18",
+  "gazette": "2019-07-18",
+  "numac": 2019041313,
+  "document_start": "2019-07-28",
+  "document_end": null,
+  "in_force": "2019-07-28",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2019-07-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
