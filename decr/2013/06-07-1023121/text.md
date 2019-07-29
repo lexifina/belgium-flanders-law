@@ -31,6 +31,7 @@ d) een centrum voor beroepsopleiding als vermeld in artikel 64 van het besluit v
 13° integratie : een dynamisch en interactief proces waarbij individuen, groepen, gemeenschappen en voorzieningen elk vanuit een context van de afdwingbaarheid van rechten en plichten die inherent zijn aan onze democratische rechtsstaat, op een constructieve wijze met elkaar in relatie staan en omgaan met migratie en de gevolgen ervan in de samenleving;<br>
 14° integratiebeleid : het beleid dat met onderling afgestemde initiatieven inspeelt op de situaties en dynamieken die verbonden zijn met de gevolgen van migratie, met als doel zelfstandige en evenredige participatie, toegankelijkheid van alle voorzieningen, actief en gedeeld burgerschap van eenieder en het verkrijgen van sociale samenhang;<br>
 15° kandidaat-inwijkeling : de vreemdeling die in het buitenland een visum tot langdurig verblijf in België heeft verkregen en zijn of haar wil uit om in een gemeente van het Nederlandse taalgebied of van het tweetalige gebied Brussel-Hoofdstad ingeschreven te worden in het Rijksregister, of de niet-visumplichtige vreemdeling die bij de bevoegde diplomatieke of consulaire post in het buitenland zijn of haar wil uit om een langdurig verblijf in België te verkrijgen en om in een gemeente van het Nederlandse taalgebied of van het tweetalige gebied Brussel-Hoofdstad ingeschreven te worden in het Rijksregister;<br>
+15° /1 langdurig verblijf: elk legaal verblijf dat niet beperkt is tot maximaal drie maanden als vermeld in titel I, hoofdstuk II, van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
 16° leefloon : een geïndexeerd inkomen dat wordt uitgekeerd met toepassing van de wetgeving betreffende het recht op maatschappelijke integratie;<br>
 17° levensloopbaan : het volledige traject dat een individuele natuurlijke persoon kan doorlopen gedurende zijn leven en waarbij de verschillende rollen zoals die van onder meer kind, student, burger, werkende, vrijetijdsmens, echtgenoot of echtgenote, gezinsverzorger, ouder of gepensioneerde aan bod kunnen komen;<br>
 18° lokaal bestuur : een gemeente, provincie of een extern verzelfstandigd agentschap van een gemeente of provincie;<br>
@@ -42,14 +43,17 @@ c) onvoldoende de onderwijstaal beheersen om met goed gevolg de lessen te kunnen
 d) maximaal negen maanden ingeschreven zijn in een school met het Nederlands als onderwijstaal (vakantiemaanden juli en augustus niet meegerekend);<br>
 e) maximaal één jaar ononderbroken in België verblijven;<br>
 21° O.C.M.W. : een openbaar centrum voor maatschappelijk welzijn;<br>
+21° /1 persoon van buitenlandse herkomst: een persoon die wettig en langdurig in België verblijft en die bij zijn geboorte niet de Belgische nationaliteit bezat of van wie minstens een van de ouders bij de geboorte niet de Belgische nationaliteit bezat, in het bijzonder diegene die zich in een vaststelbare achterstandspositie bevindt;<br>
 22° reguliere voorziening : een voorziening, inzonderheid in de sectoren onderwijs, tewerkstelling, welzijn en cultuur, die wordt erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap, het Vlaamse Gewest, de Vlaamse Gemeenschapscommissie, het Brusselse Hoofdstedelijke Gewest, de Gemeenschappelijke Gemeenschapscommissie of een lokaal bestuur;<br>
+22° /1 residentieel woonwagenterrein: een terrein dat bestemd en ingericht is voor het sedentaire wonen in een woonwagen en waarop een beperkte ambachtelijke en/of commerciële activiteit kan plaatsvinden in overeenstemming met de geldende wetgeving;<br>
 23° toeleidingstraject : het traject, vermeld in artikel 36;<br>
 24° VDAB : het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
+24° /1 verplicht ingeschreven werkzoekende: de verplicht ingeschreven werkzoekende, vermeld in artikel 2, 11°, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
 25° verplichte inburgeraar : een inburgeraar als vermeld in artikel 27, § 1, voor zover niet vrijgesteld van de inburgeringsplicht;<br>
 26° vormingsprogramma : het programma, vermeld in artikel 29;<br>
 27° vreemdeling met wettig verblijf : een persoon die het bewijs niet levert in het bezit te zijn van de Belgische nationaliteit en die gemachtigd of toegelaten is tot een verblijf of om zich te vestigen in België of die volgens een geldig document in België mag verblijven, met toepassing van de bepalingen van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
-28° wachtuitkering : de wachtuitkering die is ingevoerd in het kader van de wettelijke en reglementaire bepalingen inzake de werkloosheidsreglementering;<br>
-29° werkloosheidsuitkering : de werkloosheidsuitkering die is ingevoerd in het kader van de wettelijke en reglementaire bepalingen inzake de werkloosheidsreglementering;<br>
+28° ...;<br>
+29° ...;<br>
 30° zelfredzaamheid : onder zelfredzaamheid van personen wordt begrepen dat die personen in staat zijn actief hun levensloopbaan uit te bouwen en daarvoor een basistaalvaardigheid van het Nederlands verwerven.<br>
 <br>
 Bij verwijzing naar personen wordt hierna de mannelijke vorm gebruikt. De mannelijke vorm verwijst zowel naar mannen als naar vrouwen.</p>
@@ -58,7 +62,11 @@ Bij verwijzing naar personen wordt hierna de mannelijke vorm gebruikt. De mannel
 
 ### ART. 3.
 
-<P>Het Vlaamse integratiebeleid richt zich op de gehele samenleving en heeft   daarbij, naargelang van het geval, speciale aandacht voor de volgende bijzondere   doelgroepen : <BR>1° personen die legaal en langdurig in België verblijven en   die bij hun geboorte niet de Belgische nationaliteit bezaten of van wie minstens   een van de ouders bij geboorte niet de Belgische nationaliteit bezat, in het   bijzonder diegenen die zich in een vaststelbare achterstandspositie bevinden.   Daarbij is een langdurig verblijf elk legaal verblijf dat niet beperkt is tot   maximaal drie maanden als vermeld in titel I, hoofdstuk II, van de wet van 15   december 1980 betreffende de toegang tot het grondgebied, het verblijf, de   vestiging en de verwijdering van vreemdelingen;<BR>2° personen die legaal in   België verblijven en die wonen of woonden in een woonwagen als vermeld in   artikel 2, 33°, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode,   of waarvan de ouders dat deden, met uitzondering van bewoners van campings of   gebieden met weekendverblijven.<BR></P>  <P>Daarnaast richt het Vlaamse integratiebeleid zich ook op vreemdelingen zonder   wettig verblijf, meer bepaald vreemdelingen die zich in België bevinden zonder   wettig verblijfsstatuut en die wegens een noodsituatie begeleiding   vragen.</P>
+<p>Het Vlaamse integratiebeleid richt zich op de gehele samenleving en heeft daarbij naargelang het geval, speciale aandacht voor de volgende bijzondere doelgroepen:<br>
+1° personen van buitenlandse herkomst;<br>
+2° personen die legaal in België verblijven en die wonen in een woonwagen als vermeld in artikel 2, 33°, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, met uitzondering van personen die verblijven op een residentieel woonwagenterrein en bewoners van campings of gebieden met weekendverblijven.</p>
+
+<p>Daarnaast richt het Vlaamse integratiebeleid zich ook op vreemdelingen zonder wettig verblijf, meer bepaald vreemdelingen die zich in België bevinden zonder wettig verblijfsstatuut en die wegens een noodsituatie begeleiding vragen.</p>
 
 ### ART. 4.
 
@@ -101,11 +109,42 @@ Bij verwijzing naar personen wordt hierna de mannelijke vorm gebruikt. De mannel
 
 ### ART. 5.
 
-<P>§ 1. De Vlaamse Regering stelt binnen twaalf maanden na haar aantreden de   strategische en operationele doelstellingen en beleidsprioriteiten vast waarmee   op elk relevant beleidsdomein de doelstellingen van het Vlaamse   integratiebeleid, vermeld in artikel 4, zullen worden ingevuld.<BR></P>  <P>Binnen zes maanden nadat de Vlaamse Regering de strategische en operationele   doelstellingen heeft vastgelegd, stelt ze een geïntegreerd actieplan op.<BR></P>  <P>Het geïntegreerd actieplan omvat minstens : <BR>1° de beschrijving van de   geformuleerde strategische en operationele doelstellingen binnen elk   beleidsdomein;<BR>2° een analyse per beleidsdomein van de maatschappelijke   context waarbinnen die doelstellingen gerealiseerd moeten worden;<BR>3° de   concrete acties die genomen moeten worden om de geformuleerde doelstellingen te   realiseren;<BR>4° het tijdpad, opgesteld voor de uitvoering van die   acties;<BR>5° de opgave van de indicatoren waarmee de voortgang wordt   gemeten;<BR>6° de ingezette middelen en instrumenten.<BR></P>  <P>§ 2. Het geïntegreerd actieplan wordt na twee jaar geactualiseerd. Die   actualisering omvat minstens : <BR>1° een analyse per beleidsdomein van de   maatschappelijke ontwikkelingen die relevant zijn voor het Vlaamse   integratiebeleid;<BR>2° een beschrijving per beleidsdomein van de voortgang van   de acties, en de eventuele bijsturingen;<BR>3° de nieuwe acties binnen elk   beleidsdomein, met opgave van het tijdpad en de indicatoren waarmee de voortgang   wordt gemeten.<BR></P>  <P>§ 3. De Vlaamse Regering kan het geïntegreerd actieplan, vermeld in paragraaf   1, tweede en derde lid, en de actualisatie van het geïntegreerd actieplan,   vermeld in paragraaf 2, afstemmen op het actieplan, vermeld in artikel 10 van   het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen-   en gelijkebehandelingsbeleid.<BR></P>  <P>§ 4. De relevante beleidsdomeinen houden bij de evaluatie van de Vlaamse   beleidsprioriteiten, vermeld in artikel 4, § 2, van het decreet van 15 juli   2011, rekening met de beleidsprioriteiten, vermeld in paragraaf   1.</P>
+<p>§ 1. De Vlaamse Regering stelt binnen twaalf maanden na haar aantreden de strategische en operationele doelstellingen en beleidsprioriteiten vast waarmee op elk relevant beleidsdomein de doelstellingen van het Vlaamse integratiebeleid, vermeld in artikel 4, zullen worden ingevuld.</p>
+
+<p>Binnen zes maanden nadat de Vlaamse Regering de strategische en operationele doelstellingen heeft vastgelegd, stelt ze een geïntegreerd actieplan op.</p>
+
+<p>Het geïntegreerd actieplan omvat minstens :<br>
+1° de beschrijving van de geformuleerde strategische en operationele doelstellingen binnen elk beleidsdomein;<br>
+2° een analyse per beleidsdomein van de maatschappelijke context waarbinnen die doelstellingen gerealiseerd moeten worden;<br>
+3° de concrete acties die genomen moeten worden om de geformuleerde doelstellingen te realiseren;<br>
+4° het tijdpad, opgesteld voor de uitvoering van die acties;<br>
+5° de opgave van de indicatoren waarmee de voortgang wordt gemeten;<br>
+6° de ingezette middelen en instrumenten.</p>
+
+<p>§ 2. Het geïntegreerd actieplan wordt na twee jaar geactualiseerd. Die actualisering omvat minstens :<br>
+1° een analyse per beleidsdomein van de maatschappelijke ontwikkelingen die relevant zijn voor het Vlaamse integratiebeleid;<br>
+2° een beschrijving per beleidsdomein van de voortgang van de acties, en de eventuele bijsturingen;<br>
+3° de nieuwe acties binnen elk beleidsdomein, met opgave van het tijdpad en de indicatoren waarmee de voortgang wordt gemeten.<br>
+<br>
+De commissie Integratiebeleid, vermeld in artikel 6, rapporteert aan de Vlaamse Regering over de realisatie van het voorgaande actieplan naar aanleiding van het opstellen van de strategische en operationele doelstellingen, vermeld in paragraaf 1. Daarnaast rapporteert de commissie aan de Vlaamse Regering over de realisatie en de voortgang van het gevoerde beleid naar aanleiding van de actualisering van het actieplan, vermeld in het eerste lid. Die rapporten worden door de Vlaamse Regering meegedeeld aan het Vlaams Parlement.<br>
+<br>
+§ 3. De Vlaamse Regering kan het geïntegreerd actieplan, vermeld in paragraaf 1, tweede en derde lid, en de actualisatie van het geïntegreerd actieplan, vermeld in paragraaf 2, afstemmen op het actieplan, vermeld in artikel 10 van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid.</p>
+
+<p>§ 4. De relevante beleidsdomeinen houden bij de evaluatie van de Vlaamse beleidsprioriteiten, vermeld in artikel 4, § 2, van het decreet van 15 juli 2011, rekening met de beleidsprioriteiten, vermeld in paragraaf 1.</p>
 
 ### ART. 6.
 
-<P>§ 1. Binnen de Vlaamse overheid wordt een commissie Integratiebeleid   ingericht met als opdracht : <BR>1° toe te zien op de coherentie, synergie en   coördinatie van het Vlaamse integratiebeleid, vermeld in artikel 4;<BR>2° een   ontwerp van het geïntegreerd actieplan als vermeld in artikel 5, § 1, tweede   lid, op te stellen;<BR>3° de acties van de verschillende beleidsdomeinen op   elkaar af te stemmen;<BR>4° de impact van de acties te analyseren;<BR>5° het   actieplan te evalueren;<BR>6° voorstellen te formuleren voor het actualiseren   van het actieplan, met toepassing van artikel 5, § 2.<BR></P>  <P>§ 2. De commissie rapporteert jaarlijks aan de Vlaamse Regering over de   realisatie en de voortgang van het gevoerde beleid. De Vlaamse Regering legt het   rapport voor aan het Vlaams Parlement.<BR></P>  <P>§ 3. De Vlaamse Regering kan de opdracht van de commissie, vermeld in   paragraaf 1, en de rapportageverplichting, vermeld in paragraaf 2, concretiseren   en aanvullen, alsook de samenstelling en werking van de commissie   regelen.</P>
+<p>§ 1. Binnen de Vlaamse overheid wordt een commissie Integratiebeleid ingericht met als opdracht :<br>
+1° toe te zien op de coherentie, synergie en coördinatie van het Vlaamse integratiebeleid, vermeld in artikel 4;<br>
+2° een ontwerp van het geïntegreerd actieplan als vermeld in artikel 5, § 1, tweede lid, op te stellen;<br>
+3° de acties van de verschillende beleidsdomeinen op elkaar af te stemmen;<br>
+4° de impact van de acties te analyseren;<br>
+5° het actieplan te evalueren;<br>
+6° voorstellen te formuleren voor het actualiseren van het actieplan, met toepassing van artikel 5, § 2.</p>
+
+<p>§ 2. ...</p>
+
+<p>§ 3. De Vlaamse Regering kan de opdracht van de commissie, vermeld in paragraaf 1, en de rapportageverplichting, vermeld in artikel 5, § 2, concretiseren en aanvullen, alsook de samenstelling en werking van de commissie regelen.</p>
 
 ### ART. 7.
 
@@ -113,7 +152,45 @@ Bij verwijzing naar personen wordt hierna de mannelijke vorm gebruikt. De mannel
 
 ## HOOFDSTUK 4. Participatieorganisatie
 
+### ART. 8.
+
+De Vlaamse Regering erkent één participatieorganisatie.<br>
+<br>
+De participatieorganisatie vervult, met het oog op de empowerment en de emancipatie van de personen, vermeld in artikel 3, eerste lid, en de correcte beeldvorming over personen, vermeld in artikel 3, eerste lid, met voldoende lokale spreiding, de volgende algemene opdrachten:<br>
+1° de belangen van personen, vermeld in artikel 3, eerste lid, behartigen;<br>
+2° de personen, vermeld in artikel 3, eerste lid, vertegenwoordigen ten opzichte van de Vlaamse overheid;<br>
+3° beleidsaanbevelingen uitbrengen;<br>
+4° lokale actoren sensibiliseren voor en ondersteunen bij het nemen van initiatieven om de beleidsparticipatie van de personen, vermeld in artikel 3, eerste lid, te bevorderen.<br>
+<br>
+Naast de opdrachten, vermeld in het tweede lid, kan de participatieorganisatie andere initiatieven nemen ter bevordering van de empowerment en de emancipatie van de personen, vermeld in artikel 3, eerste lid, en de correcte beeldvorming over de personen, vermeld in artikel 3, eerste lid.
+
+### ART. 9.
+
+Voor de praktische en concrete uitvoering van de opdrachten, vermeld in artikel 8, tweede lid, sluit de participatieorganisatie voor een periode van vijf jaar een samenwerkingsovereenkomst met de Vlaamse Regering.<br>
+<br>
+Deze samenwerkingsovereenkomst omvat afspraken over de te realiseren opdrachten, met inbegrip van de strategische en operationele doelstellingen en de manier waarop die gemeten of gewaardeerd worden.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze van totstandkoming van de samenwerkingsovereenkomst.
+
+### ART. 10.
+
+<p>De participatieorganisatie wordt erkend onder de volgende voorwaarden :<br>
+1° de participatieorganisatie is een vereniging zonder winstoogmerk;<br>
+2° de participatieorganisatie is bij de uitoefening van zijn opdracht onafhankelijk. Dat behelst onder meer het onafhankelijk formuleren en communiceren van adviezen en aanbevelingen, en de onafhankelijke samenstelling van haar organen.</p>
+
+<p>De Vlaamse Regering bepaalt de nadere voorwaarden en procedure van de erkenning.</p>
+
+### ART. 11.
+
+<p>Binnen de beschikbare begrotingskredieten kent de Vlaamse Regering aan de erkende participatieorganisatie jaarlijks een algemene werkingssubsidie en een investeringssubsidie toe om een werking met voldoende lokale spreiding uit te bouwen.</p>
+
+<p>De subsidies worden toegekend op basis van de samenwerkingsovereenkomst, vermeld in artikel 9. De Vlaamse Regering kan de nadere regels en modaliteiten bepalen betreffende de toekenning, de terugvordering en de verantwoording van de subsidies, de indiening van aanvragen en verantwoordingsstukken, de eenmalige gegevensopvraging en voor de onverenigbaarheden en de procedure voor de controle op de aanwending van de subsidies.</p>
+
 ## HOOFDSTUK 5. Het lokale integratiebeleid
+
+### ART. 12.
+
+<p>Binnen de grenzen van hun grondgebied hebben de steden en gemeenten de regierol over het integratiebeleid. Dat betekent dat ze binnen de grenzen van het subsidiariteitsbeginsel voor de uitwerking, sturing, afstemming en uitvoering van het inclusieve lokale integratiebeleid zorgen. Ze coördineren de relevante actoren in de eigen stad of gemeente en betrekken de personen, vermeld in artikel 3, eerste lid, 1° en 2°, en hun organisaties bij dat beleid.</p>
 
 ### ART. 13.
 
@@ -154,9 +231,9 @@ Binnen de beschikbare begrotingskredieten kan de Vlaamse Regering middelen   toe
 <p>Het EVA heeft tot opdracht de integratie te ondersteunen, te stimuleren en te begeleiden.</p>
 
 <p>Daarvoor vervult het EVA, in overeenstemming met afdeling 3 tot en met 9, de volgende kerntaken :<br>
-1° adviesverstrekking en begeleiding op maat in functie van empowerment van individuele burgers van de bijzondere doelgroepen met het oog op zelfstandige en evenredige participatie, actief burgerschap en sociale samenhang via :<br>
+1° adviesverstrekking en begeleiding op maat in functie van empowerment van personen van buitenlandse herkomst met het oog op zelfstandige en evenredige participatie, actief burgerschap en sociale samenhang via :<br>
 a) het aanbieden van inburgeringstrajecten voor inburgeraars en toeleidingstrajecten voor minderjarige nieuwkomers en anderstalige kleuters;<br>
-b) het aanbieden van een specifiek trajectmatig vormings- en begeleidingsaanbod op maat, hetzij individueel, hetzij in groep, in samenwerking met reguliere voorzieningen, om de personen, vermeld in artikel 3, eerste lid, 1° en 2°, te bereiken en te versterken;<br>
+b) het aanbieden van een specifiek trajectmatig vormings- en begeleidingsaanbod op maat, hetzij individueel, hetzij in groep, in samenwerking met reguliere voorzieningen, om personen van buitenlandse herkomst te bereiken en te versterken;<br>
 2° adviesverstrekking en praktijkondersteuning op maat in functie van structureel werken aan integratie met het oog op zelfstandige en evenredige participatie, toegankelijkheid van alle voorzieningen, actief burgerschap en sociale samenhang via :<br>
 a) dienstverlening sociaal tolken en sociaal vertalen;<br>
 b) taalbeleid;<br>
@@ -210,7 +287,32 @@ e) juridische dienstverlening aangaande de rechtspositie van vreemdelingen;<br>
 
 ### ART. 20.
 
-<P>§ 1. De Vlaamse Regering stelt een uniform computergestuurd cliëntvolgsysteem   ter beschikking van het EVA. Dat systeem moet het EVA toelaten de taken en   kerntaken die aan het EVA zijn toevertrouwd door of krachtens dit decreet te   vervullen en meer in het bijzonder : <BR>1° het EVA ondersteunen bij het   uitvoeren van de inburgeringstrajecten en de toeleidingstrajecten en bij het   oriënteren van de anderstaligen naar het meest gepaste aanbod Nederlands als   tweede taal;<BR>2° het EVA toelaten om het individuele dossier van de   inburgeraar, de anderstalige, de minderjarige nieuwkomer en de anderstalige   kleuter te registreren en het traject van die personen op te volgen en om het   individuele dossier te registreren van de anderstalige die verzoekt om een   bewijs van het taalniveau Nederlands als vermeld in artikel 17, tweede lid,   6°;<BR>3° minstens maandelijks een lijst ter beschikking te stellen van het EVA   waarin de volgende categorieën van personen zijn opgenomen : <BR>a) de   inburgeraars die de afgelopen periode voor het eerst tot die categorie   behoren;<BR>b) de minderjarige nieuwkomers die de afgelopen periode voor het   eerst tot die categorie behoren;<BR>c) de anderstalige kleuters die de afgelopen   periode voor het eerst tot die categorie behoren;<BR>4° eenmalig een lijst ter   beschikking te stellen van het EVA van de inburgeraars die gedurende meer dan   twaalf maanden in het Rijksregister zijn ingeschreven;<BR>5° de   gegevensuitwisseling in het kader van de inburgeringstrajecten, taalkennis   Nederlands en Nederlands als tweede taal-trajecten tussen het EVA, de centra,   vermeld in artikel 2, 4°, de Vlaamse onderwijsadministratie, de VDAB, Actiris en   het OCMW elektronisch te laten verlopen;<BR>6° het EVA, het departement van het   beleidsdomein of het intern verzelfstandigd agentschap zonder   rechtspersoonlijkheid, aangewezen door de Vlaamse Regering, toelaten om de   inburgering, vermeld in afdeling 3, het aanbod Nederlands als tweede taal   verstrekt door de centra, vermeld in artikel 2, 4°, en de dienstverlening ten   aanzien van anderstaligen, vermeld in afdeling 9, op te volgen.<BR></P>  <P>De Vlaamse Regering kan de nadere voorwaarden voor het ter beschikking   stellen, het aanpassen en het gebruiken van het computergestuurd   cliëntvolgsysteem en de elektronische gegevensuitwisseling bepalen.<BR></P>  <P>§ 2. De Vlaamse Regering stelt een uniform registratiesysteem ter beschikking   van het EVA voor de dienstverlening sociaal tolken en sociaal vertalen, vermeld   in artikel 17, tweede lid, 2°, a).<BR></P>  <P>De Vlaamse Regering kan de nadere voorwaarden voor het ter beschikking   stellen, het aanpassen en het gebruiken van registratiesysteem   bepalen.</P>
+<p>§ 1. De Vlaamse Regering stelt een uniform computergestuurd cliëntvolgsysteem ter beschikking van het EVA. Dat systeem moet het EVA toelaten de taken en kerntaken die aan het EVA zijn toevertrouwd door of krachtens dit decreet te vervullen en meer in het bijzonder :<br>
+1° het EVA ondersteunen bij het uitvoeren van de inburgeringstrajecten en de toeleidingstrajecten en bij het oriënteren van de anderstaligen naar het meest gepaste aanbod Nederlands als tweede taal;<br>
+2° het EVA toelaten om het individuele dossier van de inburgeraar, de anderstalige, de minderjarige nieuwkomer en de anderstalige kleuter te registreren en het traject van die personen op te volgen en om het individuele dossier te registreren van de anderstalige die verzoekt om een bewijs van het taalniveau Nederlands als vermeld in artikel 17, tweede lid, 6°;<br>
+3° minstens maandelijks een lijst ter beschikking te stellen van het EVA waarin de volgende categorieën van personen zijn opgenomen :<br>
+a) de inburgeraars die de afgelopen periode voor het eerst tot die categorie behoren;<br>
+b) de minderjarige nieuwkomers die de afgelopen periode voor het eerst tot die categorie behoren;<br>
+c) de anderstalige kleuters die de afgelopen periode voor het eerst tot die categorie behoren;<br>
+4° eenmalig een lijst ter beschikking te stellen van het EVA van de inburgeraars die gedurende meer dan twaalf maanden in het Rijksregister zijn ingeschreven;<br>
+5° de gegevensuitwisseling in het kader van de inburgeringstrajecten, taalkennis Nederlands en Nederlands als tweede taal-trajecten tussen het EVA, de centra, vermeld in artikel 2, 4°, de Vlaamse onderwijsadministratie, de VDAB, Actiris en het OCMW elektronisch te laten verlopen;<br>
+6° het EVA, het departement van het beleidsdomein of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, aangewezen door de Vlaamse Regering, toelaten om de inburgering, vermeld in afdeling 3, het aanbod Nederlands als tweede taal verstrekt door de centra, vermeld in artikel 2, 4°, en de dienstverlening ten aanzien van anderstaligen, vermeld in afdeling 9, op te volgen;<br>
+7° het EVA toelaten om persoonsgegevens van inburgeraars opgenomen in het cliëntvolgsysteem, elektronisch mee te delen aan de gemeenten, met het oog op de inschakeling in het lokaal inclusief integratiebeleid, vermeld in artikel 4, § 4, 2°.<br>
+<br>
+De elektronische mededeling van persoonsgegevens, vermeld in het eerste lid, 7°, is beperkt tot:<br>
+1° de naam, de voornaam en het rijksregisternummer van de inburgeraars die zijn ingeschreven in het Rijksregister in de gemeente aan wie de gegevens worden meegedeeld;<br>
+2° de vermelding of deze inburgeraars een inburgeringscontract hebben ondertekend;<br>
+3° de vermelding of deze inburgeraars een attest van inburgering hebben behaald.<br>
+<br>
+Persoonsgegevens die overeenkomstig het eerste lid, 7°, door het EVA elektronisch zijn meegedeeld aan een gemeente, mogen door de gemeente niet langer dan vijf jaar bewaard worden in een vorm die het mogelijk maakt om de betrokkenen te identificeren.<br>
+<br>
+Het EVA is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens, vermeld in het eerste lid, 7°.<br>
+<br>
+De Vlaamse Regering kan de nadere voorwaarden voor het ter beschikking stellen, het aanpassen en het gebruiken van het computergestuurd cliëntvolgsysteem en de elektronische gegevensuitwisseling bepalen.</p>
+
+<p>§ 2. De Vlaamse Regering stelt een uniform registratiesysteem ter beschikking van het EVA voor de dienstverlening sociaal tolken en sociaal vertalen, vermeld in artikel 17, tweede lid, 2°, a).</p>
+
+<p>De Vlaamse Regering kan de nadere voorwaarden voor het ter beschikking stellen, het aanpassen en het gebruiken van registratiesysteem bepalen.</p>
 
 ### ART. 21.
 
@@ -256,7 +358,25 @@ De samenwerkingsovereenkomst en het jaarverslag van het EVA worden bezorgd   aan
 
 ### ART. 29.
 
-<P>§ 1. Het vormingsprogramma binnen het inburgeringstraject bestaat uit de   vormingspakketten maatschappelijke oriëntatie en opleiding Nederlands als tweede   taal.<BR></P>  <P>Maatschappelijke oriëntatie heeft tot doel in een zo kort mogelijke tijd het   zelfstandiger functioneren te verhogen, enerzijds door de kennis van de rechten   en de plichten en de kennis van en het inzicht in onze samenleving en haar   basiswaarden aan te reiken en anderzijds door een aanzet te geven tot het   ontwikkelen van enkele competenties die noodzakelijk zijn voor de   zelfredzaamheid van de inburgeraars.<BR></P>  <P>Opleiding Nederlands als tweede taal heeft tot doel in een zo kort mogelijke   tijd een basistaalvaardigheid van het Nederlands als opstap naar een   vervolgcursus aan te reiken aan de inburgeraars. Onder basistaalvaardigheid   wordt verstaan : het taalniveau van de opleiding Nederlands als tweede taal dat   de opleiding NT2 Breakthrough/Waystage R1 omvat, vermeld in bijlage 1 bij het   besluit van de Vlaamse Regering van 18 november 2005 betreffende de modulaire   structuur van het secundair onderwijs voor sociale promotie voor het   studiegebied Nederlands tweede taal. Voor inburgeraars die een opleiding van het   leergebied alfabetisering Nederlands tweede taal, vermeld in artikel 6, 1°, van   het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, volgen, zal   de Vlaamse Regering afwijken van de bepalingen vermeld in het derde lid.<BR></P>  <P>De opleiding Nederlands als tweede taal, aangeboden binnen de centra, valt   onder de op deze centra toepasselijke bepalingen inzake   kwaliteitscontrole.<BR></P>  <P>§ 2. Het EVA bepaalt het inburgeringstraject in overleg met de   inburgeraar.<BR></P>  <P>Bij het bepalen van het vormingsprogramma binnen het inburgeringstraject   houdt het EVA rekening met reeds verworven kennis of vaardigheden en met de   kennis of vaardigheden die betrokkene aantoonbaar zal verwerven bij reguliere   voorzieningen. Het EVA kan betrokkene geheel of gedeeltelijk vrijstelling   verlenen.<BR></P>  <P>Inburgeraars die over voldoende vaardigheden beschikken, hebben de   mogelijkheid om meteen in het vervolgaanbod te stappen. Die rechtstreekse instap   gebeurt in onderling overleg tussen het EVA, de inburgeraar en de reguliere   voorziening(en) verantwoordelijk voor het vervolgaanbod.<BR></P>  <P>Het vormingsprogramma, vermeld in het eerste lid, wordt opgenomen in een   inburgeringscontract.<BR></P>  <P>§ 3. In afwijking van paragraaf 2, eerste lid, biedt het EVA aan een   inburgeraar die inkomsten verwerft via een wachtuitkering of een   werkloosheidsuitkering, voor zover hij niet behoort tot de prioritaire   categorieën, vermeld in artikel 26, § 3, die met toepassing van artikel 11,   derde lid, van het decreet van 4 juni 2003 betreffende het inwerkingsbeleid door   de VDAB naar het EVA werd doorverwezen, een vormingsprogramma aan zoals door de   VDAB aangeduid bij de doorverwijzing.<BR></P>  <P>In afwijking van paragraaf 2, eerste lid, biedt het EVA aan een inburgeraar   die inkomsten verwerft via maatschappelijke dienstverlening of een leefloon,   voor zover hij niet behoort tot de prioritaire categorieën, vermeld in artikel   26, § 3, die naar het EVA werd doorverwezen door een OCMW, een vormingsprogramma   aan zoals door het OCMW aangeduid bij de doorverwijzing.</P>
+<p>§ 1. Het vormingsprogramma binnen het inburgeringstraject bestaat uit de vormingspakketten maatschappelijke oriëntatie en opleiding Nederlands als tweede taal.</p>
+
+<p>Maatschappelijke oriëntatie heeft tot doel in een zo kort mogelijke tijd het zelfstandiger functioneren te verhogen, enerzijds door de kennis van de rechten en de plichten en de kennis van en het inzicht in onze samenleving en haar basiswaarden aan te reiken en anderzijds door een aanzet te geven tot het ontwikkelen van enkele competenties die noodzakelijk zijn voor de zelfredzaamheid van de inburgeraars.</p>
+
+<p>Opleiding Nederlands als tweede taal heeft tot doel in een zo kort mogelijke tijd een basistaalvaardigheid van het Nederlands als opstap naar een vervolgcursus aan te reiken aan de inburgeraars. Onder basistaalvaardigheid wordt verstaan : het taalniveau van de opleiding Nederlands als tweede taal dat de opleiding NT2 Breakthrough/Waystage R1 omvat, vermeld in bijlage 1 bij het besluit van de Vlaamse Regering van 18 november 2005 betreffende de modulaire structuur van het secundair onderwijs voor sociale promotie voor het studiegebied Nederlands tweede taal. Voor inburgeraars die een opleiding van het leergebied alfabetisering Nederlands tweede taal, vermeld in artikel 6, 1°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, volgen, zal de Vlaamse Regering afwijken van de bepalingen vermeld in het derde lid.</p>
+
+<p>De opleiding Nederlands als tweede taal, aangeboden binnen de centra, valt onder de op deze centra toepasselijke bepalingen inzake kwaliteitscontrole.</p>
+
+<p>§ 2. Het EVA bepaalt het inburgeringstraject in overleg met de inburgeraar.</p>
+
+<p>Bij het bepalen van het vormingsprogramma binnen het inburgeringstraject houdt het EVA rekening met reeds verworven kennis of vaardigheden en met de kennis of vaardigheden die betrokkene aantoonbaar zal verwerven bij reguliere voorzieningen. Het EVA kan betrokkene geheel of gedeeltelijk vrijstelling verlenen.</p>
+
+<p>Inburgeraars die over voldoende vaardigheden beschikken, hebben de mogelijkheid om meteen in het vervolgaanbod te stappen. Die rechtstreekse instap gebeurt in onderling overleg tussen het EVA, de inburgeraar en de reguliere voorziening(en) verantwoordelijk voor het vervolgaanbod.</p>
+
+<p>Het vormingsprogramma, vermeld in het eerste lid, wordt opgenomen in een inburgeringscontract.</p>
+
+<p>§ 3. In afwijking van paragraaf 2, eerste lid, biedt het EVA aan een inburgeraar die verplicht ingeschreven werkzoekende is en niet behoort tot de prioritaire categorieën, vermeld in artikel 26, § 3, die naar het EVA is doorverwezen door de VDAB, een vormingsprogramma aan zoals de VDAB heeft aangeduid bij de doorverwijzing.</p>
+
+<p>In afwijking van paragraaf 2, eerste lid, biedt het EVA aan een inburgeraar die inkomsten verwerft via maatschappelijke dienstverlening of een leefloon, voor zover hij niet behoort tot de prioritaire categorieën, vermeld in artikel 26, § 3, die naar het EVA werd doorverwezen door een OCMW, een vormingsprogramma aan zoals door het OCMW aangeduid bij de doorverwijzing.</p>
 
 ### ART. 30.
 
@@ -264,7 +384,36 @@ De samenwerkingsovereenkomst en het jaarverslag van het EVA worden bezorgd   aan
 
 ### ART. 31.
 
-<P>§ 1. Het inburgeringstraject duurt vanaf de aanmelding bij het EVA tot het   ogenblik dat de inburgeraar volledig is overgedragen aan het OCMW of aan de   reguliere voorzieningen die belast zijn met het vervolgaanbod.<BR></P>  <P>Het vormingsprogramma wordt opgestart maximaal drie maanden na de aanmelding   bij het EVA. Voor de volgende specifieke categorieën kan de Vlaamse Regering   afwijken van deze termijn : <BR>1° voor de inburgeraars, vermeld in paragraaf   3;<BR>2° voor de inburgeraars die omwille van medische of persoonlijke redenen   deze termijn niet kunnen respecteren. <BR></P>  <P>Het inburgeringstraject wordt hoogstens één jaar na het opstarten van het   vormingsprogramma afgerond. Voor de volgende specifieke categorieën kan de   Vlaamse Regering afwijken van deze termijn : <BR>1° voor de inburgeraars,   vermeld in paragraaf 3;<BR>2° voor de inburgeraars die omwille van medische of   persoonlijke redenen deze termijn niet kunnen respecteren;<BR>3° voor   inburgeraars die een opleiding van het leergebied alfabetisering Nederlands   tweede taal, vermeld in artikel 6, 1°, van het decreet van 15 juni 2007   betreffende het volwassenenonderwijs, volgen.<BR></P>  <P>De Vlaamse Regering kan nader bepalen wat verstaan wordt onder medische en   persoonlijke redenen, vermeld in het tweede lid, 2°, en derde lid, 2°.<BR></P>  <P>§ 2. Met behoud van de toepassing van paragraaf 1 bieden de centra aan de   inburgeraars binnen drie maanden nadat ze zich bij het EVA hebben aangemeld, een   cursus Nederlands als tweede taal op maat aan. De Vlaamse Regering bepaalt de   nadere regels daarvan.<BR></P>  <P>§ 3. Als en zolang een inburgeraar als vermeld in artikel 26, § 1, werkt, en   kan bewijzen dat hij niet in staat is om dat werk te combineren met het volgen   van een inburgeringstraject, heeft hij recht op een flexibel inburgeringstraject   dat hem toelaat zowel te werken als zijn inburgeringstraject te volgen. Daarbij   kan afgeweken worden van de bepalingen, vermeld in paragraaf 1, en van de   bepaling, vermeld in artikel 27, § 3, eerste lid, 1°.<BR></P>  <P>Als en zolang een inburgeraar als vermeld in artikel 26, § 1, een van de   volgende opleidingen volgt en kan bewijzen dat hij niet in staat is om die   opleidingen te combineren met het volgen van een inburgeringstraject, heeft hij   recht op een flexibel inburgeringstraject dat hem toelaat zowel de opleiding als   zijn inburgeringstraject te volgen. Daarbij kan afgeweken worden van de   bepalingen, vermeld in paragraaf 1, en van de bepaling, vermeld in artikel 27, §   3, eerste lid, 1° : <BR>1° een voltijds studietraject als vermeld in artikel 5,   42°, van het decreet van 8 juni 2007 betreffende de studiefinanciering van de   Vlaamse Gemeenschap;<BR>2° een diplomagerichte opleiding in het   volwassenenonderwijs als vermeld in bijlage IX van het besluit van de Vlaamse   Regering van 19 juli 2007 betreffende de studiebekrachtiging in het   volwassenenonderwijs;<BR>3° een hogere beroepsopleiding als vermeld in artikel 4   van het decreet van 30 april 2009 betreffende het secundair na secundair   onderwijs en het hoger beroepsonderwijs;<BR>4° een voltijdse dagopleiding,   georganiseerd door een Syntra vzw.<BR></P>  <P>De Vlaamse Regering regelt de nadere uitvoering van het eerste en tweede   lid.<BR></P>  <P>§ 4. Aan de kandidaat-inwijkeling kan in het land van herkomst een   starterspakket met het oog op inburgering worden aangeboden dat hem in staat   stelt zich beter voorbereid te vestigen in het Nederlandse taalgebied of in het   tweetalige gebied Brussel-Hoofdstad.<BR></P>  <P>De overige bepalingen van dit decreet zijn niet van toepassing op de   kandidaat-inwijkeling, vermeld in het eerste lid.<BR></P>  <P>In het eerste lid wordt verstaan onder starterspakket met het oog op   inburgering : een kosteloos informatiepakket dat ter beschikking wordt gesteld   van de kandidaat-inwijkeling zodat hij zich in het land van herkomst kan   voorbereiden op zijn vestiging in het Nederlandse taalgebied of in het   tweetalige gebied Brussel-Hoofdstad.</P>
+<p>§ 1. Het inburgeringstraject duurt vanaf de aanmelding bij het EVA tot het ogenblik dat de inburgeraar volledig is overgedragen aan het OCMW of aan de reguliere voorzieningen die belast zijn met het vervolgaanbod.</p>
+
+<p>Het vormingsprogramma wordt opgestart maximaal drie maanden na de aanmelding bij het EVA. Voor de volgende specifieke categorieën kan de Vlaamse Regering afwijken van deze termijn :<br>
+1° voor de inburgeraars, vermeld in paragraaf 3;<br>
+2° voor de inburgeraars die omwille van medische of persoonlijke redenen deze termijn niet kunnen respecteren.</p>
+
+<p>Het inburgeringstraject wordt hoogstens één jaar na het opstarten van het vormingsprogramma afgerond. Voor de volgende specifieke categorieën kan de Vlaamse Regering afwijken van deze termijn :<br>
+1° voor de inburgeraars, vermeld in paragraaf 3;<br>
+2° voor de inburgeraars die omwille van medische of persoonlijke redenen deze termijn niet kunnen respecteren;<br>
+3° voor inburgeraars die een opleiding van het leergebied alfabetisering Nederlands tweede taal, vermeld in artikel 6, 1°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, volgen.</p>
+
+<p>De Vlaamse Regering kan nader bepalen wat verstaan wordt onder medische en persoonlijke redenen, vermeld in het tweede lid, 2°, en derde lid, 2°.</p>
+
+<p>§ 2. Met behoud van de toepassing van paragraaf 1 bieden de centra aan de inburgeraars binnen drie maanden nadat ze zich bij het EVA hebben aangemeld, een cursus Nederlands als tweede taal op maat aan. De Vlaamse Regering bepaalt de nadere regels daarvan.</p>
+
+<p>§ 3. Als en zolang een inburgeraar als vermeld in artikel 26, § 1, werkt, en kan bewijzen dat hij niet in staat is om dat werk te combineren met het volgen van een inburgeringstraject, heeft hij recht op een flexibel inburgeringstraject dat hem toelaat zowel te werken als zijn inburgeringstraject te volgen. Daarbij kan afgeweken worden van de bepalingen, vermeld in paragraaf 1, en van de bepaling, vermeld in artikel 27, § 3, eerste lid, 1°.</p>
+
+<p>Als en zolang een inburgeraar als vermeld in artikel 26, § 1, een van de volgende opleidingen volgt en kan bewijzen dat hij niet in staat is om die opleidingen te combineren met het volgen van een inburgeringstraject, heeft hij recht op een flexibel inburgeringstraject dat hem toelaat zowel de opleiding als zijn inburgeringstraject te volgen. Daarbij kan afgeweken worden van de bepalingen, vermeld in paragraaf 1, en van de bepaling, vermeld in artikel 27, § 3, eerste lid, 1° :<br>
+1° een voltijds studietraject als vermeld in artikel 5, 42°, van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap;<br>
+2° een diplomagerichte opleiding in het volwassenenonderwijs als vermeld in bijlage IX van het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de studiebekrachtiging in het volwassenenonderwijs;<br>
+3° een hogere beroepsopleiding als vermeld in artikel 4 van het decreet van 30 april 2009 betreffende het secundair na secundair onderwijs en het hoger beroepsonderwijs;<br>
+4° een voltijdse dagopleiding, georganiseerd door een Syntra vzw.</p>
+
+<p>De Vlaamse Regering regelt de nadere uitvoering van het eerste en tweede lid en kan de lijst met opleidingen, vermeld in het tweede lid, aanvullen.</p>
+
+<p>§ 4. Aan de kandidaat-inwijkeling kan in het land van herkomst een starterspakket met het oog op inburgering worden aangeboden dat hem in staat stelt zich beter voorbereid te vestigen in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad.</p>
+
+<p>De overige bepalingen van dit decreet zijn niet van toepassing op de kandidaat-inwijkeling, vermeld in het eerste lid.</p>
+
+<p>In het eerste lid wordt verstaan onder starterspakket met het oog op inburgering : een kosteloos informatiepakket dat ter beschikking wordt gesteld van de kandidaat-inwijkeling zodat hij zich in het land van herkomst kan voorbereiden op zijn vestiging in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad.</p>
 
 ### ART. 32.
 
@@ -300,7 +449,35 @@ Het uitvoeren van de opdrachten van het EVA en de gemeenten, vermeld in   artike
 
 ### ART. 39.
 
-<P>§ 1. Het EVA controleert of : <BR>1° de verplichte inburgeraar zich heeft   aangemeld bij het EVA;<BR>2° de inburgeraar voor elk onderdeel van zijn   vormingsprogramma hetzij regelmatig heeft deelgenomen, hetzij de doelstellingen   ervan heeft bereikt. <BR></P>  <P>De Vlaamse Regering regelt de controle, vermeld in het eerste lid. <BR></P>  <P>Als een verplichte inburgeraar zich niet heeft aangemeld bij het EVA binnen   de termijn van maximaal drie maanden nadat voor hem de plicht tot inburgering is   ontstaan, of als hij een onderdeel van het vormingsprogramma onrechtmatig   vroegtijdig heeft beëindigd of niet regelmatig heeft gevolgd en daarbij de   doelstellingen van het onderdeel niet heeft bereikt, meldt het EVA dat aan het   departement of het intern verzelfstandigd agentschap zonder   rechtspersoonlijkheid, aangewezen door de Vlaamse Regering met het oog op een   toepassing van de sanctie, vermeld in artikel 40.<BR></P>  <P>Als een inburgeraar een onderdeel van het vormingsprogramma onrechtmatig   vroegtijdig heeft beëindigd en daarbij de doelstellingen van het onderdeel niet   heeft bereikt, meldt het EVA dat aan het departement of het intern   verzelfstandigd agentschap zonder rechtspersoonlijkheid, aangewezen door de   Vlaamse Regering, met het oog op een toepassing van de sanctie, vermeld in   artikel 40.<BR></P>  <P>§ 2. Centra die de opleiding Nederlands als tweede taal aanbieden, zijn   verplicht medewerking te verlenen aan de controle op de regelmatige deelname aan   de opleiding Nederlands als tweede taal door inburgeraars. Het niet naleven van   de verplichtingen kan aanleiding geven tot sancties. De sancties vallen onder de   bepalingen die op die centra toepasselijk zijn, vermeld in artikel 118 en 119   van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<BR></P>  <P>§ 3. In afwijking van paragraaf 1 wordt een inburgeraar die inkomsten   verwerft via een wachtuitkering of werkloosheidsuitkering in de onderstaande   gevallen door het EVA aan de VDAB gemeld, met het oog op een toepassing van de   sancties vermeld in de ter zake relevante regelgeving : <BR>1° de verplichte   inburgeraar, als hij zich niet heeft aangemeld bij het EVA binnen de termijn van   maximaal drie maanden nadat voor hem de plicht tot inburgering is ontstaan of   als hij een onderdeel van het vormingsprogramma onrechtmatig vroegtijdig heeft   beëindigd of niet regelmatig heeft gevolgd en daarbij de doelstellingen van dat   onder- deel niet heeft gehaald;<BR>2° de inburgeraar, als hij een onderdeel van   het vormingsprogramma onrechtmatig vroegtijdig heeft beëindigd en daarbij de   doelstellingen van dat onderdeel niet heeft gehaald.<BR></P>  <P>In afwijking van paragraaf 1 wordt een inburgeraar die inkomsten verwerft via   maatschappelijke dienstverlening of een leefloon in de onderstaande gevallen   door het EVA aan het betrokken OCMW gemeld, met het oog op een toepassing van de   sancties vermeld in de ter zake relevante regelgeving : <BR>1° de verplichte   inburgeraar, als hij zich niet heeft aangemeld bij het EVA binnen de termijn van   maximaal drie maanden nadat voor hem de plicht tot inburgering is ontstaan of   als hij een onderdeel van het vormingsprogramma onrechtmatig vroegtijdig heeft   beëindigd of niet regelmatig heeft gevolgd en daarbij de doelstellingen van dat   onder- deel niet heeft gehaald;<BR>2° de inburgeraar, als hij een onderdeel van   het vormingsprogramma onrechtmatig vroegtijdig heeft beëindigd en daarbij de   doelstellingen van dat onderdeel niet heeft gehaald.<BR></P>  <P>§ 4. Met behoud van de toepassing van artikel 31, § 3, bepaalt de Vlaamse   Regering de criteria aan de hand waarvan het EVA kan bepalen of iemand al dan   niet het onderdeel van het vormingsprogramma onrechtmatig vroegtijdig heeft   beëindigd.<BR></P>  <P>Met behoud van de toepassing van artikel 31, § 3, bepaalt de Vlaamse Regering   de criteria aan de hand waarvan het EVA kan bepalen of iemand al dan niet   regelmatig heeft deelgenomen aan het onderdeel van het   vormingsprogramma.<BR></P>  <P>Voor de inburgeraars vermeld in artikel 31, § 3, eerste en tweede lid, kan de   Vlaamse Regering afwijken van de bepalingen vermeld in het eerste en tweede   lid.<BR></P>  <P>§ 5. In afwijking van artikel 39, § 1, derde en vierde lid, en artikel 39, §   3, moet het EVA niet melden aan het departement of het intern verzelfstandigd   agentschap zonder rechtspersoonlijkheid, vermeld in artikel 39, § 1, derde en   vierde lid, de VDAB of OCMW, dat een inburgeraar de opleiding Nederlands als   tweede taal, vermeld in artikel 29, § 1, derde lid, onrechtmatig vroegtijdig   heeft beëindigd of niet regelmatig heeft gevolgd, voor zover het een inburgeraar   betreft voor wie het omwille van beperkte leercapaciteiten onmogelijk is om het   taalniveau van de opleiding NT2, vermeld in artikel 29, § 1, derde lid, te   behalen.<BR></P>  <P>De Vlaamse Regering regelt de nadere uitvoering van het eerste   lid.</P>
+<p>§ 1. Het EVA controleert of :<br>
+1° de verplichte inburgeraar zich heeft aangemeld bij het EVA;<br>
+2° de inburgeraar voor elk onderdeel van zijn vormingsprogramma hetzij regelmatig heeft deelgenomen, hetzij de doelstellingen ervan heeft bereikt.</p>
+
+<p>De Vlaamse Regering regelt de controle, vermeld in het eerste lid.</p>
+
+<p>Als een verplichte inburgeraar zich niet heeft aangemeld bij het EVA binnen de termijn van maximaal drie maanden nadat voor hem de plicht tot inburgering is ontstaan, of als hij een onderdeel van het vormingsprogramma onrechtmatig vroegtijdig heeft beëindigd of niet regelmatig heeft gevolgd en daarbij de doelstellingen van het onderdeel niet heeft bereikt, meldt het EVA dat aan het departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, aangewezen door de Vlaamse Regering met het oog op een toepassing van de sanctie, vermeld in artikel 40.</p>
+
+<p>Als een inburgeraar een onderdeel van het vormingsprogramma onrechtmatig vroegtijdig heeft beëindigd en daarbij de doelstellingen van het onderdeel niet heeft bereikt, meldt het EVA dat aan het departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, aangewezen door de Vlaamse Regering, met het oog op een toepassing van de sanctie, vermeld in artikel 40.</p>
+
+<p>§ 2. Centra die de opleiding Nederlands als tweede taal aanbieden, zijn verplicht medewerking te verlenen aan de controle op de regelmatige deelname aan de opleiding Nederlands als tweede taal door inburgeraars. Het niet naleven van de verplichtingen kan aanleiding geven tot sancties. De sancties vallen onder de bepalingen die op die centra toepasselijk zijn, vermeld in artikel 118 en 119 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.</p>
+
+<p>§ 3. In afwijking van paragraaf 1 wordt een inburgeraar die door VDAB is doorverwezen naar het EVA, en die verplicht ingeschreven werkzoekende is in de onderstaande gevallen door het EVA aan de VDAB gemeld, met het oog op een toepassing van de sancties vermeld in de ter zake relevante regelgeving :<br>
+1° de verplichte inburgeraar, als hij zich niet heeft aangemeld bij het EVA binnen de termijn van maximaal drie maanden nadat voor hem de plicht tot inburgering is ontstaan of als hij een onderdeel van het vormingsprogramma onrechtmatig vroegtijdig heeft beëindigd of niet regelmatig heeft gevolgd en daarbij de doelstellingen van dat onder- deel niet heeft gehaald;<br>
+2° de inburgeraar, als hij een onderdeel van het vormingsprogramma onrechtmatig vroegtijdig heeft beëindigd en daarbij de doelstellingen van dat onderdeel niet heeft gehaald.</p>
+
+<p>In afwijking van paragraaf 1 wordt een inburgeraar bij wie het volgen van een inburgeringscursus is opgenomen als voorwaarde voor de toekenning of het behoud van inkomsten uit maatschappelijke dienstverlening of een leefloon in de onderstaande gevallen door het EVA aan het betrokken OCMW gemeld, met het oog op een toepassing van de sancties vermeld in de ter zake relevante regelgeving :<br>
+1° de verplichte inburgeraar, als hij zich niet heeft aangemeld bij het EVA binnen de termijn van maximaal drie maanden nadat voor hem de plicht tot inburgering is ontstaan of als hij een onderdeel van het vormingsprogramma onrechtmatig vroegtijdig heeft beëindigd of niet regelmatig heeft gevolgd en daarbij de doelstellingen van dat onder- deel niet heeft gehaald;<br>
+2° de inburgeraar, als hij een onderdeel van het vormingsprogramma onrechtmatig vroegtijdig heeft beëindigd en daarbij de doelstellingen van dat onderdeel niet heeft gehaald.</p>
+
+<p>§ 4. Met behoud van de toepassing van artikel 31, § 3, bepaalt de Vlaamse Regering de criteria aan de hand waarvan het EVA kan bepalen of iemand al dan niet het onderdeel van het vormingsprogramma onrechtmatig vroegtijdig heeft beëindigd.</p>
+
+<p>Met behoud van de toepassing van artikel 31, § 3, bepaalt de Vlaamse Regering de criteria aan de hand waarvan het EVA kan bepalen of iemand al dan niet regelmatig heeft deelgenomen aan het onderdeel van het vormingsprogramma.</p>
+
+<p>Voor de inburgeraars vermeld in artikel 31, § 3, eerste en tweede lid, kan de Vlaamse Regering afwijken van de bepalingen vermeld in het eerste en tweede lid.</p>
+
+<p>§ 5. In afwijking van artikel 39, § 1, derde en vierde lid, en artikel 39, § 3, moet het EVA niet melden aan het departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, vermeld in artikel 39, § 1, derde en vierde lid, de VDAB of OCMW, dat een inburgeraar de opleiding Nederlands als tweede taal, vermeld in artikel 29, § 1, derde lid, onrechtmatig vroegtijdig heeft beëindigd of niet regelmatig heeft gevolgd, voor zover het een inburgeraar betreft voor wie het omwille van beperkte leercapaciteiten onmogelijk is om het taalniveau van de opleiding NT2, vermeld in artikel 29, § 1, derde lid, te behalen.</p>
+
+<p>De Vlaamse Regering regelt de nadere uitvoering van het eerste lid.</p>
 
 ### ART. 40.
 
@@ -356,7 +533,18 @@ De Vlaamse Regering bepaalt de nadere modaliteiten. Dit artikel kan pas in werki
 
 ### ART. 46/3.
 
-De regie over een behoeftedekkend en behoeftegericht aanbod Nederlands als   tweede taal, vermeld in artikel 17, tweede lid, 7°, omvat minstens de volgende   taken:<BR>1° een zo volledig mogelijk overzicht verwerven van de vraag naar   lessen Nederlands als tweede taal, het aanbod, de uitval en de reden tot uitval,   de doorstroom en de wachtlijsten en het optimaliseren van de afstemming van het   aanbod Nederlands als tweede taal tussen de verschillende centra, vermeld in   artikel 2, 4° ;<BR>2° opstellen van objectieve en meetbare criteria van een   behoeftedekkend en behoeftegericht aanbod Nederlands als tweede taal;<BR>3°   signaleren van knelpunten in het aanbod en het formuleren van   verbetervoorstellen;<BR>4° in functie van de taken vermeld in artikel 46/3, 1°,   2° en 3°, organiseert het EVA, op structurele basis, regionaal overleg met de   centra vermeld in artikel 2, 4°. Op Vlaams niveau organiseert het EVA hiervoor   overleg met de onderwijsverstrekkers, de Federatie voor Basiseducatie, de VDAB   en Syntra Vlaanderen. De Vlaamse Regering bepaalt de nadere   modaliteiten.
+De regie over een behoeftedekkend en behoeftegericht aanbod Nederlands als tweede taal, vermeld in artikel 17, tweede lid, 7°, omvat minstens de volgende taken:<br>
+1° een zo volledig mogelijk overzicht verwerven van de vraag naar lessen Nederlands als tweede taal, het aanbod, de uitval en de reden tot uitval, de doorstroom en de wachtlijsten en het optimaliseren van de afstemming van het aanbod Nederlands als tweede taal tussen de verschillende centra, vermeld in artikel 2, 4° ;<br>
+2° opstellen van objectieve en meetbare criteria van een behoeftedekkend en behoeftegericht aanbod Nederlands als tweede taal;<br>
+2° /1 op basis van de criteria, vermeld in punt 2°, voorbereiden van het plan voor een behoeftedekkend aanbod Nederlands als tweede taal in het volgende schooljaar;<br>
+3° signaleren van knelpunten in het aanbod en het formuleren van verbetervoorstellen;<br>
+3° /1 opmaken en vervolgens minstens vijfjaarlijks actualiseren van een Vlaams Afsprakenkader NT2;<br>
+4° met het oog op de taken, vermeld in punt 1°, 2°, 2° /1, 3° en 3° /1, organiseert het EVA, op structurele basis:<br>
+a) regionaal overleg met de centra, vermeld in artikel 2, eerste lid, 4°. Het regionaal overleg keurt het plan, vermeld in punt 2° /1, goed;<br>
+b) overleg op Vlaams niveau met de onderwijsverstrekkers, de Federatie voor Basiseducatie, de centra, vermeld in artikel 2, eerste lid, 4°, b), de VDAB, Syntra Vlaanderen, het beleidsdomein Onderwijs en Vorming, en het departement of intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, vermeld in artikel 16, § 4. Dat overleg keurt het ontwerp van het Vlaams Afsprakenkader NT2 en de actualisering ervan, vermeld in punt 3° /1, goed.<br>
+De Vlaamse Regering kan de nadere modaliteiten bepalen over de organisatie van het regionaal overleg en het overleg op Vlaams niveau.<br>
+<br>
+De pedagogische begeleidingsdiensten, vermeld in artikel 14 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, en het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs, vermeld in artikel 44 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, voorzien samen in een ondersteuningsaanbod voor lesgevers Nederlands als tweede taal. Het voorstel van ondersteuningsaanbod wordt besproken op het regionaal overleg, vermeld in het eerste lid, 4°, a).
 
 ## HOOFDSTUK 7. Aanvullende bepalingen
 
