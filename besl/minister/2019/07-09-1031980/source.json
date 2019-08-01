@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031980,
+  "title": "Ministerieel besluit van 2019-07-09 houdende de interne administratieve overdracht van onroerende goederen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031980/VolledigDocument?datum=2019-08-01",
+  "source_sha256": "d864fa0ab39e5b1fd0c8c5e77196cdf5530d63ee3699e75b02b8678e9cc05f4f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031980&param=informatie",
+  "as_of": "2019-08-01",
+  "made": "2019-07-09",
+  "gazette": "2019-08-01",
+  "numac": 2019041595,
+  "document_start": "2019-08-01",
+  "document_end": null,
+  "in_force": "2019-08-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
