@@ -106,13 +106,264 @@ Bij stopzetting zonder overname van de activiteit door een nieuwe uitbater of bi
 
 ## Afdeling 1. Huisvesting en uitrusting
 
+### ART 9.
+
+De dierenverblijven zijn zo ontworpen en onderhouden dat de dieren in geen enkele omstandigheden kunnen ontsnappen en dat de veiligheid van de dieren, het publiek en het personeel gewaarborgd is.<br>
+<br>
+Er wordt op toegezien dat:<br>
+1° de gevaarlijke dieren die kunnen klimmen of springen, binnen een volledige, ook bovenaan afgesloten, omheining gehouden worden, tenzij het klimmen of springen over de omheining op een andere wijze onmogelijk is of het verblijf omringd is door een voldoende brede en diepe strook water;<br>
+2° de gravende dieren niet via de bodem kunnen ontsnappen;<br>
+3° de omheining en steunpilaren stevig verankerd zijn in de bodem, zodat de dieren ze door hun gewicht of kracht niet kunnen vernielen;<br>
+4° de grachten rond dierenverblijven een voldoende afsluiting vormen;<br>
+5° de deuren of poorten stevig zijn en op slot gehouden worden;<br>
+6° de gebouwen, lokalen of gedeelten van de dierentuin waartoe het publiek geen toegang heeft, afgesloten zijn en voorzien zijn van waarschuwings- of verbodstekens;<br>
+7° direct contact tussen publiek en gevaarlijke dieren onmogelijk gemaakt wordt door barrières die een voldoende afstand creëren;<br>
+8° het publiek ingelicht wordt over eventueel gevaar.
+
+### ART 10.
+
+Een omheining of een muur omsluit de dierentuin.
+
+### ART 11.
+
+De dierenverblijven en de gebruikte materialen worden zo gekozen en onderhouden dat dieren er zich in normale omstandigheden niet aan kunnen verwonden en er geen andere hinder van ondervinden die hun welzijn kan schaden.<br>
+<br>
+De elektriciteitsvoorzieningen worden zo aangebracht dat het risico van elektrocutie vermeden wordt.
+
+### ART 12.
+
+De minister kan na advies van de Vlaamse Dierentuinencommissie bijkomende voorschriften voor de minimale afmetingen, de klimatologische parameters en de inrichting van de dierenverblijven vaststellen.<br>
+<br>
+De normen, vermeld in het eerste lid, gelden voor alle verblijven, ongeacht of de dieren zichtbaar of onzichtbaar zijn voor het publiek, tenzij er diergeneeskundige redenen gelden op verantwoording van de contractdierenarts.
+
+### ART 13.
+
+De dieren die permanent buiten gehouden mogen worden, moeten in hun buitenverblijf altijd beschikken over een natuurlijke beschutting of een schuilhok.<br>
+<br>
+De dieren waarvoor zowel in een binnen- als een buitenverblijf voorzien moet zijn, hebben altijd vrije toegang tot beide verblijven.<br>
+<br>
+In afwijking van het eerste en tweede lid mag de vrije toegang van de dieren tot een deel van het verblijf kortstondig, en niet langer dan strikt noodzakelijk, beperkt worden in het kader van het dagelijks beheer of als dat door de klimatologische omstandigheden noodzakelijk is om het welzijn en de veiligheid van de dieren te garanderen. Een afwijking om andere redenen kan toegestaan worden door de dienst, op basis van een dossier dat de omstandigheden, de reden en de duur van de aangevraagde afwijking beschrijft.
+
+### ART 14.
+
+De dierenverblijven zijn zo ontworpen en ingericht dat ze een zo gevarieerd mogelijk natuurlijk gedrag stimuleren.
+
+### ART 15.
+
+Er wordt bij de huisvesting van de dieren op toegezien dat:<br>
+1° de sociaal levende soorten in sociale groepen gehouden worden, tenzij dat niet aan te bevelen is om diergeneeskundige redenen, op verantwoording van de contractdierenarts;<br>
+2° de solitair levende soorten alleen gehouden worden, tenzij in de periode van en met het oog op de voortplanting;<br>
+3° er zich geen schadelijke interactie voordoet bij en door de samenstelling van een diergroep.
+
+### ART 16.
+
+De minister kan voor bepaalde soorten de uitwerking en toepassing van een verrijkingsplan opleggen.<br>
+<br>
+Het verrijkingsplan bevat de volgende elementen:<br>
+1° de doelstellingen;<br>
+2° de middelen;<br>
+3° een planning;<br>
+4° de uitvoering;<br>
+5° een wetenschappelijke onderbouwing;<br>
+6° een bepaling over de evaluatie en bijsturing van het verrijkingsplan.<br>
+<br>
+De minister kan bepalen voor welke diersoorten of groepen van diersoorten de verrijkingsplannen ter goedkeuring voorgelegd moeten worden aan de dienst.
+
+### ART 17.
+
+De verantwoordelijke stelt een ethische commissie samen waarvan ten minste de uitbater of zijn vertegenwoordiger, de contractdierenarts, een of meer vertegenwoordigers van de verzorgers en een externe deskundige deel uitmaken.<br>
+<br>
+De ethische commissie geeft advies over:<br>
+1° het collectieplan;<br>
+2° de huisvesting en verzorging van de dieren en de inrichting van de verblijven;<br>
+3° het beheer van de dierentuinpopulatie, het kweekbeleid en het beleid aangaande overtallige dieren;<br>
+4° het beheer van de diergroepen en de noodzaak om dieren af te zonderen;<br>
+5° de verrijkingsplannen;<br>
+6° vertoningen met dieren;<br>
+7° het voederen van levende prooidieren;<br>
+8° de interactie tussen dieren en het publiek.
+
+### ART 18.
+
+Het voeder wordt bewaard en bereid in goede hygiënische omstandigheden in ruimten die vrij zijn van schadelijke dieren en die gescheiden zijn van de dierenverblijven. Voor de bewaring van vlees of vis of andere bederfbare waren is een koelinstallatie vereist. Bedorven voedselresten worden zo snel mogelijk verwijderd.
+
+### ART 19.
+
+Voor diergeneeskundig onderzoek van en diergeneeskundige ingrepen bij gewervelde dieren is een schoon, goed geventileerd en goed verlicht lokaal beschikbaar. Dat lokaal is uitgerust met:<br>
+1° een aftappunt voor stromend water;<br>
+2° ontsmettingsproducten;<br>
+3° voldoende verlichting om ingrepen te kunnen uitvoeren;<br>
+4° een onderzoekstafel;<br>
+5° een stopcontact;<br>
+6° muren en een vloer die afwasbaar zijn en ontsmet kunnen worden.<br>
+<br>
+Voor elk van de gehouden soorten is er een geschikte mogelijkheid om dieren af te zonderen om diergeneeskundige redenen.
+
+### ART 20.
+
+Een hulppost met uitrusting om eerste hulp te bieden aan mensen en gepaste gebruiksaanwijzingen is aanwezig en is goed aangeduid.<br>
+<br>
+Als giftige dieren die gevaarlijk zijn voor de mens, gehouden worden, is antiserum binnen gepaste tijd voorhanden. De verantwoordelijke legt de te volgen procedure vast in een noodplan.
+
 ## Afdeling 2. Verzorging, hygiëne en diergeneeskundige begeleiding
+
+### ART 21.
+
+De verantwoordelijke ziet erop toe dat voldoende en bekwaam personeel ter beschikking is om de dieren te verzorgen en om de dierenverblijven te onderhouden.<br>
+<br>
+De personeelsleden, vermeld in het eerste lid, zijn op de hoogte van:<br>
+1° de voedingsvereisten van de dieren die aan hen toevertrouwd zijn;<br>
+2° de ziektebeelden en tekenen die het mogelijk maken om ziektes te ontdekken;<br>
+3° de risico's van ziekteoverdracht;<br>
+4° de gedragsmatige behoeften van de soort, potentiële stressfactoren, verrijking en welzijnsevaluatie;<br>
+5° de te treffen noodmaatregelen als de dieren ontsnappen;<br>
+6° de te nemen maatregelen bij ongevallen.<br>
+<br>
+De verantwoordelijke ziet erop toe dat de kennis van het personeel op peil gehouden wordt. Op eenvoudig verzoek van de dienst legt hij het bewijs voor dat de kennis van de personeelsleden up-to-date is.<br>
+<br>
+De minister kan nadere voorwaarden stellen over het aantal personeelsleden en de opleiding van de personeelsleden.
+
+### ART 22.
+
+De dieren worden ten minste twee keer per dag gecontroleerd. Als de dieren niet gezond blijken te zijn of andere tekenen vertonen die wijzen op een verminderd welzijn, worden onmiddellijk stappen ondernomen om de oorzaak vast te stellen en die te verhelpen. Als dat nodig is, wordt een beroep gedaan op de contractdierenarts, vermeld in artikel 23.
+
+### ART 23.
+
+§ 1. Voor het regelmatige toezicht op de gezondheid en het welzijn van de gewervelde dieren sluit de verantwoordelijke een contract met een dierenarts of een diergeneeskundige rechtspersoon.<br>
+<br>
+Het contract bevat ten minste de volgende gegevens:<br>
+1° de gegevens van de verantwoordelijke, met name voor- en achternaam, adres, telefoonnummer en e-mailadres;<br>
+2° in geval van een dierenarts, zijn voor- en achternaam, adres, ordenummer, telefoonnummer en e-mailadres;<br>
+3° in geval van een diergeneeskundige rechtspersoon, naam, adres, telefoonnummer en e-mailadres van de diergeneeskundige rechtspersoon en naam, adres, ordenummer, telefoonnummer en e-mailadres van de dierenarts via dewelke de diergeneeskundige rechtspersoon de taken voorzien in dit besluit uitvoert;<br>
+4° de gegevens van de plaatsvervangende dierenarts, met name voor- en achternaam, adres, ordenummer, telefoonnummer en e-mailadres;<br>
+5° de taken toegewezen aan de dierenarts op grond van paragraaf 2 en artikel 38, tweede lid.<br>
+<br>
+Het contract wordt door alle betrokken partijen gedateerd en ondertekend.<br>
+<br>
+§ 2. De dierenarts staat in voor de preventieve en diagnostische geneeskundige onderzoeken, de vaccinaties en euthanasie.<br>
+<br>
+De dierenarts onderzoekt nieuw binnengebrachte dieren en bepaalt de duur van een eventuele quarantaineperiode. De dierenarts volgt de gezondheid op van de dieren in quarantaine.<br>
+<br>
+De verantwoordelijke brengt de dierenarts op de hoogte van alle sterfgevallen van dieren. De dierenarts stelt de doodsoorzaak vast en neemt de nodige maatregelen om de gezondheid van de overige dieren te vrijwaren. De dierenarts kan beslissen om bepaalde dieren om diergeneeskundige redenen af te zonderen.<br>
+<br>
+De dierenarts licht de verantwoordelijke in als hij vaststelt dat de gezondheid of het welzijn van de dieren gevaar loopt en stelt maatregelen voor. Als zijn raad en aanbevelingen niet opgevolgd worden, brengt hij de dienst daarvan op de hoogte.<br>
+<br>
+§ 3. Bij verbreking van het contract, vermeld in paragraaf 1, wordt de andere partij daarvan schriftelijk op de hoogte gebracht met een kopie aan de dienst. Het lopende contract blijft gelden tot een nieuw contract ondertekend wordt en maximaal tot dertig dagen na de verbreking.
+
+### ART 24.
+
+In gesloten ruimten waarin dieren worden gehouden, geldt een rookverbod.
+
+### ART 25.
+
+Het verstrekte voedsel is kwalitatief en kwantitatief aangepast, zowel aan de behoeften van de soort als aan de behoeften van het individuele dier. Daarvoor wordt het advies van deskundigen ingewonnen en opgevolgd.<br>
+<br>
+Bij het verstrekken van voeder en drinkwater wordt het sociale gedrag van de dieren in acht genomen opdat, als dat nodig is, alle dieren binnen hetzelfde verblijf gelijktijdig kunnen eten.<br>
+<br>
+Het publiek mag de dieren niet voederen, behalve als er een toelating is gegeven conform artikel 29, tweede lid.<br>
+<br>
+Bij het kweken en het verstrekken van prooidieren worden gepaste maatregelen genomen om onnodig lijden van die dieren te vermijden.<br>
+<br>
+Met uitzondering van ongewervelden mogen geen levende prooidieren verstrekt worden aan dieren, behalve als de dierenarts bevestigt dat dit noodzakelijk is.
+
+### ART 26.
+
+Bij zoogdieren en vogels zijn handopfok en de vroegtijdige scheiding van de jongen van hun ouders alleen toegestaan om diergeneeskundige redenen op verantwoording van de contractdierenarts.
+
+### ART 27.
+
+De dierenverblijven en de uitrusting die erin is aangebracht, worden regelmatig gereinigd en, als dat nodig is, ontsmet.<br>
+<br>
+Alle nodige maatregelen worden getroffen om het binnendringen van ongewenste dieren en ziektevectoren tot een minimum te beperken, en de vermenigvuldiging ervan te voorkomen.
+
+### ART 28.
+
+De gestorven dieren worden zo snel mogelijk uit de dierenverblijven verwijderd.
+
+### ART 29.
+
+Direct fysiek contact tussen de dieren en het publiek is verboden.<br>
+<br>
+In afwijking van het eerste lid kan contact met het publiek worden toegelaten door de dienst, na advies van de Vlaamse Dierentuinencommissie, op basis van een dossier dat de omstandigheden van de interactie van de dieren met het publiek beschrijft. De criteria om het contact toe te laten, zijn:<br>
+1° het pedagogische doel;<br>
+2° de aard van het contact en de duur ervan;<br>
+3° het dierenwelzijn, zowel tijdens het contact als in de boodschap die wordt gegeven;<br>
+4° hygiënische voorzorgsmaatregelen, onder andere tegen ziekteoverdracht;<br>
+5° het toezicht;<br>
+6° de huisvesting van de dieren tijdens het contact;<br>
+7° de mogelijkheid van de dieren om zich terug te trekken.<br>
+<br>
+Doorloopverblijven zijn toegelaten onder toezicht van het personeel en op voorwaarde dat het welzijn van de dieren er niet door geschaad wordt.
+
+### ART 30.
+
+De verantwoordelijke vestigt de aandacht van het publiek op de agressiviteit en het gevaar van sommige dieren door informatieborden te plaatsen als dat nodig is.<br>
+<br>
+In dierentuinen waar het publiek met voertuigen dieren kan benaderen zonder dat enige barrière hen scheidt, worden strikte maatregelen genomen om de veiligheid van de dieren te verzekeren en conflictsituaties met bezoekers te vermijden. Het publiek wordt duidelijk geïnformeerd over de voorschriften waaraan het zich moet houden. In dergelijke inrichtingen kan het toezichthoudend personeel onmiddellijk over een vuurwapen beschikken om in geval van nood een gevaarlijk dier te doden.
+
+### ART 31.
+
+Bij ontsnapping van een gevaarlijk dier brengt de verantwoordelijke de burgerlijke overheid en de ordediensten op de hoogte en verleent de verantwoordelijke bijstand bij de opsporing, de vangst en het terugbrengen van het dier.
 
 ## Afdeling 3. Informatie aan de bezoeker en educatief programma
 
+### ART 32.
+
+Op of in de nabijheid van elk dierenverblijf is duidelijk leesbare, wetenschappelijk en taalkundig correcte basisinformatie aangebracht over de diersoorten die erin zijn ondergebracht. De basisinformatie bevat al de volgende gegevens:<br>
+1° de correcte wetenschappelijke naam van de soort;<br>
+2° de Nederlandse naam van de soort;<br>
+3° een beschrijving van het natuurlijke verspreidingsgebied van de wildsoort en, in voorkomend geval, een verklaring voor de wijziging van de geografische verspreiding in de loop van de tijd;<br>
+4° de biologische kenmerken van de soort en de ecologische context waarin ze geëvolueerd is;<br>
+5° de beschermingsstatus, gegeven door the International Union for Conservation of Nature (IUCN), als dat van toepassing is.<br>
+<br>
+Bij dierenverblijven waarin verschillende diersoorten zijn ondergebracht die moeilijk van elkaar te onderscheiden zijn, wordt de basisinformatie aangevuld met een afbeelding en een aanwijzing om ze te onderscheiden.<br>
+<br>
+De dierentuin plaatst bij het verstrekken van informatie de dieren zo veel mogelijk in hun biologische en ecologische context.
+
+### ART 33.
+
+De dierentuin stelt een informatief en educatief programma voor onder meer schoolkinderen op, dat gebaseerd is op een inleiding in de biologie, de ecologie en het natuurbehoud. Daarvoor wordt het advies ingewonnen van een persoon met biologische, ethologische en pedagogische kennis. Een schriftelijke versie van dat programma moet beschikbaar zijn.
+
+### ART 34.
+
+Als vertoningen met dieren worden georganiseerd, staat het natuurlijke gedrag van de dieren centraal, ook in de commentaar die erbij verstrekt wordt.<br>
+<br>
+De dieren mogen alleen kunsten vertonen die voornamelijk bestaan uit hun soorteigen natuurlijke gedragingen.
+
 ## Afdeling 4. Kweken van dieren en soortbehoudsprogramma
 
+### ART 35.
+
+De dierentuin verleent zijn medewerking aan gecoördineerde internationale kweek- en uitwisselingsprogramma's als er dieren gehouden worden waarop die programma's betrekking hebben. Het dierenbestand wordt doorgegeven aan de coördinatoren of stamboekhouders in kwestie.
+
+### ART 36.
+
+Ongecontroleerd kweken wordt vermeden. Het kweken van hybriden is verboden tenzij dat past in een wetenschappelijk verantwoord kweekprogramma en na goedkeuring door de dienst.<br>
+<br>
+De minister kan een lijst van soorten vaststellen waarvan het kweken in dierentuinen om redenen van dierenwelzijn verboden of beperkt kan worden.
+
+### ART 37.
+
+De dierentuin werkt mee aan onderzoek en aan de uitwisseling van informatie over het behoud van de soorten door actief aan onderzoeksprojecten deel te nemen of door de uitvoering van onderzoeksprojecten over soortenbehoud te vergemakkelijken.
+
 ## Afdeling 5. Registers
+
+### ART 38.
+
+De verantwoordelijke houdt in een register of computerbestand van elk dier of elke diergroep de volgende gegevens bij:<br>
+1° de Nederlandse en de wetenschappelijke benaming van de soort;<br>
+2° het geslacht;<br>
+3° de oorsprong en de datum waarop de dierentuin het dier of de diergroep verkregen heeft, of de geboortedatum in geval van geboorte in de dierentuin;<br>
+4° in geval van vertrek van een dier of diergroep, de naam van de ontvanger en het adres van de bestemming, of, in geval van sterfte, de datum van sterfte;<br>
+5° de identificatie van het specimen met, naargelang het geval, het ring-, tatoeage- of microchipnummer of de bijzondere uitwendige kenmerken.<br>
+<br>
+De gegevens over het dier of de diergroep, vermeld in het eerste lid, worden door de contractdierenarts, vermeld in artikel 23, aangevuld met al de volgende gegevens:<br>
+1° de datum van de controlebezoeken;<br>
+2° de gezondheidstoestand, met inbegrip van vastgestelde ziektes, behandelingen en andere ingrepen;<br>
+3° bij sterfte: de oorzaak;<br>
+4° de gevallen van quarantaine en afzondering van dieren om diergeneeskundige redenen, met vermelding van de reden, de begindatum van de quarantaine of afzondering om diergeneeskundige redenen, de voorziene en vastgestelde einddatum en het verblijf waar het dier zich bevindt.<br>
+<br>
+De gegevens, vermeld in het eerste en het tweede lid, worden bewaard tot ten minste vijf jaar na de dood of het vertrek van het dier en ze worden ter beschikking gehouden van de dienst.
 
 ## HOOFDSTUK 5. Slotbepalingen
 
