@@ -33,7 +33,7 @@ Mevr. Nadine Van Haecke, commissaris, oefent in het academiejaar 2018-2019, het 
 
 ### ART 2.
 
-De heer Jan De Groof, commissaris, oefent in het academiejaar 2018-2019 het toezicht uit op:<br>
+De heer Sebastiaan Deryckere, commissaris, oefent tot het einde van het academiejaar 2018-2019 het toezicht uit op:<br>
 1° Universiteit Antwerpen;<br>
 2° Universitair Ziekenhuis Antwerpen;<br>
 3° Universiteit Hasselt;<br>
@@ -64,7 +64,7 @@ De heer Yannick De Clercq, commissaris, oefent in het academiejaar 2018-2019, he
 
 ### ART 5.
 
-De heer Johan Dhondt, commissaris, oefent in het academiejaar 2018-2019, het toezicht uit op:<br>
+De heer Raf Suys, commissaris, oefent tot het einde van het academiejaar 2018-2019 het toezicht uit op::<br>
 1° Vrije Universiteit Brussel;<br>
 2° Universitair Ziekenhuis Brussel;<br>
 3° LUCA School of Arts;<br>
