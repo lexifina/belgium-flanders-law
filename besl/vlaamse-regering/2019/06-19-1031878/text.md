@@ -49,9 +49,17 @@ d) UC Limburg;<br>
 e) Thomas More Kempen;<br>
 f) Thomas More Mechelen-Antwerpen.
 
+### ART 2.
+
+In artikel 2 van het besluit van de Vlaamse Regering van 18 mei 2018 betreffende het toezicht in het hoger onderwijs in het academiejaar 2018-2019 wordt de zinsnede "De heer Jan De Groof, commissaris, oefent in het academiejaar 2018-2019 het toezicht uit op:" vervangen door de zinsnede "De heer Sebastiaan Deryckere, commissaris, oefent tot het einde van het academiejaar 2018-2019 het toezicht uit op:".
+
 ### ART 3.
 
 In artikel 3 van hetzelfde besluit wordt de zinsnede "De heer Jozef De Cuyper, commissaris, oefent in het academiejaar 2018-2019, het toezicht uit op:" vervangen door de zinsnede "Mevrouw Marleen Deputter, commissaris, oefent tot het einde van het academiejaar 2018-2019 het toezicht uit op:".
+
+### ART 4.
+
+In artikel 5 van hetzelfde besluit wordt de zinsnede "De heer Johan Dhondt, commissaris, oefent in het academiejaar 2018-2019, het toezicht uit op:" vervangen door de zinsnede "De heer Raf Suys, commissaris, oefent tot het einde van het academiejaar 2018-2019 het toezicht uit op:".
 
 ### ART 5.
 
