@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031938,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-17 betreffende het sociaal beheer van woningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031938/VolledigDocument?datum=2019-08-03",
+  "source_sha256": "68a05d555f7bd188bcc6808d705c1e0b96669a2e0b802364b7cd44b29c37eacd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031938&param=informatie",
+  "as_of": "2019-08-03",
+  "made": "2019-05-17",
+  "gazette": "2019-07-24",
+  "numac": 2019041453,
+  "document_start": "2019-08-03",
+  "document_end": "2020-12-31",
+  "in_force": "2019-08-03",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2019-08-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
