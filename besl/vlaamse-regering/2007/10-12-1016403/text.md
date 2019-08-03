@@ -170,7 +170,7 @@ Als het inkomen van het referentiejaar de grens, vermeld in § 2, overschrijdt, 
 3° de woning in het Vlaamse Gewest die onaangepast is en die bewoond wordt door een persoon met een fysieke handicap die zich kandidaat wil stellen;<br>
 4° de woning die bewoond wordt door een persoon met een handicap die ingeschreven is voor een ADL-woning;<br>
 5° de woning die in een ruimtelijke bestemmingszone in België ligt waar wonen niet toegelaten is;<br>
-6° de woning die moet worden ontruimd met toepassing van artikel 18, § 2, tweede lid, artikel 26, 60, § 3, en artikel 90, § 1, vierde lid, van de Vlaamse Wooncode;<br>
+6° de woning die moet worden ontruimd met toepassing van artikel 18, § 2, tweede lid, artikel 26, 60, § 3, en artikel 90, § 6, tweede lid, van de Vlaamse Wooncode;<br>
 7° de woning die bewoond wordt door de persoon die zich wil inschrijven, en die het beheer over zijn woning heeft verloren tengevolge van een faillietverklaring met toepassing van artikel 16 van de Faillissementswet van 8 augustus 1997.<br>
 <br>
 In het geval, vermeld in het eerste lid, 2°, moet de persoon die zich kandidaat wil stellen, de woning bewoond hebben op de datum waarop de woning onbewoonbaar is verklaard met toepassing van artikel 135 van de Nieuwe Gemeentewet of op de datum van het conformiteitsonderzoek dat aanleiding heeft gegeven tot de ongeschikt- of onbewoonbaarverklaring met toepassing van artikel 15 of 16bis van de Vlaamse Wooncode.</p>
@@ -367,7 +367,7 @@ In het eerste toewijzingssysteem is de verhuurder verplicht om achtereenvolgens 
 1° bis de kandidaat-huurder die huurder is van een sociale huurwoning van de verhuurder die niet voldoet aan de normen, vermeld in artikel 5, § 1, derde lid, van de Vlaamse Wooncode;<br>
 1° ter de kandidaat-huurder die huurder is van een sociale huurwoning van de verhuurder en die met toepassing van artikel 92, § 3, eerste lid, 12°, van de Vlaamse Wooncode verplicht is te verhuizen naar een andere sociale huurwoning;<br>
 1° quater de kandidaat-huurder met toepassing van artikel 30, § 1, vierde lid;<br>
-2° de kandidaat-huurder die nog geen huurder is van een sociale huurwoning, en die overeenkomstig artikel 18, § 2, tweede lid, artikel 26, 60, § 3 en artikel 90, § 1, vierde lid, van de Vlaamse Wooncode, moet worden gehuisvest;<br>
+2° de kandidaat-huurder die nog geen huurder is van een sociale huurwoning, en die overeenkomstig artikel 18, § 2, tweede lid, artikel 26, 60, § 3 en artikel 90, § 6, tweede lid, van de Vlaamse Wooncode, moet worden gehuisvest;<br>
 3° de kandidaat-huurder die huurder is van een sociale huurwoning die niet voldoet aan de rationele bezetting, en die wil verhuizen naar een sociale huurwoning van dezelfde verhuurder die aan de rationele bezetting voldoet, als de huurder zijn verplichtingen als kandidaat-huurder, vermeld in artikel 10, vijfde en zesde lid, is nagekomen;<br>
 4° de kandidaat-huurder, vermeld in artikel 18, vierde lid;<br>
 5° de kandidaat-huurder die in de gemeente waar de toe te wijzen woning gelegen is, zijn hoofdverblijfplaats had in een onroerend of roerend goed als vermeld in artikel 20, § 1, tweede lid, van de Vlaamse Wooncode, op de datum waarop dat overeenkomstig artikel 20, § 2, eerste lid, van de Vlaamse Wooncode in een proces-verbaal werd vastgesteld;<br>
