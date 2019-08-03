@@ -335,7 +335,17 @@ Binnen drie maanden na de voorlegging van een gemeentelijke verordening als verm
 
 ### ART. 21.
 
-<P>§ 1. Bij de berekening van het maximumbedrag voor de huurprijs, vermeld in   artikel 18, § 2, van de Vlaamse Wooncode, wordt rekening gehouden met de   volgende objectieve criteria :<BR>1° het geïndexeerd kadastraal inkomen dat van   toepassing is op het ogenblik waarop het onderzoek plaatsvindt;<BR>2° de   geraamde kostprijs van de nodige werkzaamheden;<BR>3° de geraamde einddatum voor   de uitvoering van die werkzaamheden;<BR>4° de einddatum van de   hoofdhuurovereenkomst.<BR></P>  <P>De minister stelt de berekeningswijze voor het maximumbedrag vast.<BR></P>  <P>Als het schriftelijk aanbod om de nodige werkzaamheden, vermeld in artikel   18, § 2, van de Vlaamse Wooncode, uit te voeren, past in een procedure om het   sociaal beheersrecht op de woning te verkrijgen, vermeld in artikel 90 van de   Vlaamse Wooncode, komt de aangeboden jaarlijkse huurprijs minstens overeen met   het geïndexeerd kadastraal inkomen dat van toepassing is op het ogenblik waarop   de hoofdhuurovereenkomst gesloten wordt.<BR></P>  <P>§ 2. De sociale woonorganisaties, vermeld in artikel 18, § 2, van de Vlaamse   Wooncode, verhuren of onderverhuren de woningen, vermeld in paragraaf 1, met   toepassing van titel VII van de Vlaamse Wooncode.<BR></P>  <P>De andere instanties, vermeld in artikel 18, § 2, van de Vlaamse Wooncode,   verhuren of onderverhuren de woningen aan kandidaten die voldoen aan de   voorwaarden, vermeld in artikel 17 van dit besluit. De aan de (onder)huurder   aangerekende jaarlijkse (onder)huurprijs wordt vastgesteld door de   initiatiefnemer, maar mag niet meer bedragen dan de jaarlijkse (huur)kosten van   de initiatiefnemer, verhoogd met de intrestkosten voor de prefinanciering van   een toegekende subsidie, met de jaarkosten voor het onderhoud, het herstel en   het beheer van de woning en met een theoretische intrest- en aflossingsannuïteit   van de kosten voor de renovatie-, verbeterings- en aanpassingswerkzaamheden die   niet door een subsidie gedekt worden.</P>
+<p>§ 1. Bij de berekening van het maximumbedrag voor de huurprijs, vermeld in artikel 18, § 2, van de Vlaamse Wooncode, wordt rekening gehouden met de volgende objectieve criteria :<br>
+1° het geïndexeerd kadastraal inkomen dat van toepassing is op het ogenblik waarop het onderzoek plaatsvindt;<br>
+2° de geraamde kostprijs van de nodige werkzaamheden;<br>
+3° de geraamde einddatum voor de uitvoering van die werkzaamheden;<br>
+4° de einddatum van de hoofdhuurovereenkomst.</p>
+
+<p>De minister stelt de berekeningswijze voor het maximumbedrag vast.<br>
+<br>
+§ 2. De sociale woonorganisaties, vermeld in artikel 18, § 2, van de Vlaamse Wooncode, verhuren of onderverhuren de woningen, vermeld in paragraaf 1, met toepassing van titel VII van de Vlaamse Wooncode.<br>
+<br>
+De andere instanties, vermeld in artikel 18, § 2, van de Vlaamse Wooncode, verhuren of onderverhuren de woningen aan kandidaten die voldoen aan de voorwaarden, vermeld in artikel 17 van dit besluit. De aan de (onder)huurder aangerekende jaarlijkse (onder)huurprijs wordt vastgesteld door de initiatiefnemer, maar mag niet meer bedragen dan de jaarlijkse (huur)kosten van de initiatiefnemer, verhoogd met de intrestkosten voor de prefinanciering van een toegekende subsidie, met de jaarkosten voor het onderhoud, het herstel en het beheer van de woning en met een theoretische intrest- en aflossingsannuïteit van de kosten voor de renovatie-, verbeterings- en aanpassingswerkzaamheden die niet door een subsidie gedekt worden.</p>
 
 ### ART. 22.
 
