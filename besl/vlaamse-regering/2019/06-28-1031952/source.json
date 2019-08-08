@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031952,
+  "title": "Besluit van de Vlaamse Regering van 2019-06-28 tot definitieve vaststelling van het gewestelijk ruimtelijk uitvoeringsplan `Afbakening regionaalstedelijk gebied Leuven'",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031952/VolledigDocument?datum=2019-08-08",
+  "source_sha256": "9388e180f6d9353ae09fde103bf375e809b9f9828a5d107fa91f0c401aa52723",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031952&param=informatie",
+  "as_of": "2019-08-08",
+  "made": "2019-06-28",
+  "gazette": "2019-07-29",
+  "numac": 2019041505,
+  "document_start": "2019-08-08",
+  "document_end": null,
+  "in_force": "2019-08-08",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-08-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
