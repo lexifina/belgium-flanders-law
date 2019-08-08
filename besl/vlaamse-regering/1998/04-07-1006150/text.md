@@ -36,4 +36,16 @@ De Vlaamse minister, bevoegd voor huisvesting, is belast met de uitvoering van d
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/1998/05/28_1S.pdf#page=23">Lijst woningbouwgebieden</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/1998/05/28_1S.pdf#page=23">Lijst woningbouwgebieden</a><br>
+<br>
+* Bij BVR van 28 juni 2019, BS 29 juli 2019, wordt in bijlage 2 de volgende rij opgeheven:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>24062A61</td>
+			<td>Leuven</td>
+			<td>Kareelveld</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
