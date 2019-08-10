@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031957,
+  "title": "Besluit van de Vlaamse Regering van 2019-03-15 tot erkenning van de beroepskwalificatie amateur cineast",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031957/VolledigDocument?datum=2019-08-10",
+  "source_sha256": "1eb13b22c5db5bfc39d8f020aa7b4934311c3348a6c34f6739947bce9a9e4eb9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031957&param=informatie",
+  "as_of": "2019-08-10",
+  "made": "2019-03-15",
+  "gazette": "2019-07-31",
+  "numac": 2019013544,
+  "document_start": "2019-08-10",
+  "document_end": null,
+  "in_force": "2019-08-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
