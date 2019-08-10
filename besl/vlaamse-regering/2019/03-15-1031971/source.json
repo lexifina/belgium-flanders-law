@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031971,
+  "title": "Besluit van de Vlaamse Regering van 2019-03-15 tot erkenning van de beroepskwalificatie chef de partie groenten, fruit en kruiden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031971/VolledigDocument?datum=2019-08-10",
+  "source_sha256": "b30975a6327e258b990d668d81e999d4e6f06cc9ca189ed6ae3f7735488f8193",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031971&param=informatie",
+  "as_of": "2019-08-10",
+  "made": "2019-03-15",
+  "gazette": "2019-07-31",
+  "numac": 2019030628,
+  "document_start": "2019-08-10",
+  "document_end": null,
+  "in_force": "2019-08-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
