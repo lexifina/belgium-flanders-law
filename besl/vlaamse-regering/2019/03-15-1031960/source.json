@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031960,
+  "title": "Besluit van de Vlaamse Regering van 2019-03-15 tot erkenning van de beroepskwalificatie amateur dirigent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031960/VolledigDocument?datum=2019-08-10",
+  "source_sha256": "446c64c5470d15474ce88bd740684a5e42b6fdce3803a0727af78d0963aa63b1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031960&param=informatie",
+  "as_of": "2019-08-10",
+  "made": "2019-03-15",
+  "gazette": "2019-07-31",
+  "numac": 2019013539,
+  "document_start": "2019-08-10",
+  "document_end": null,
+  "in_force": "2019-08-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
