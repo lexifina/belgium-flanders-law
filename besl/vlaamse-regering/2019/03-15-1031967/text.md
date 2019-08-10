@@ -1,0 +1,29 @@
+# Besluit van de Vlaamse Regering van 2019-03-15 tot erkenning van de beroepskwalificatie amateur regisseur podiumkunsten
+
+### Aanhef
+
+DE VLAAMSE REGERING,<br>
+<br>
+Gelet op het decreet van 30 april 2009 betreffende de kwalificatiestructuur, artikel 12, vervangen bij het decreet van 1 juli 2011;<br>
+<br>
+Gelet op het erkenningsadvies van het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, gegeven op 26 februari 2019;<br>
+<br>
+Gelet op het advies van de Inspectie van Financiën, gegeven op 1 maart 2019;<br>
+<br>
+Op voorstel van de Vlaamse minister van Onderwijs en de Vlaamse minister van Werk, Economie, Innovatie en Sport;<br>
+<br>
+Na beraadslaging,<br>
+<br>
+Besluit :
+
+### ART 1.
+
+De beroepskwalificatie van amateur regisseur podiumkunsten, ingeschaald op niveau 5 van de Vlaamse kwalificatiestructuur, waarvan de beschrijving is opgenomen in de bijlage die bij dit besluit is gevoegd, wordt erkend.
+
+### ART 2.
+
+De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/07/31_1.pdf#page=258">Beschrijving als vermeld in artikel 1</a>
