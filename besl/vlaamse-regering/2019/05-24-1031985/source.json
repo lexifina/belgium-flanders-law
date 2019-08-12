@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031985,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-24 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 28 juni 2013 betreffende de omkadering van jonge onderzoekers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031985/VolledigDocument?datum=2019-08-12",
+  "source_sha256": "c7c9c95c10d58b6eba319d7f36d7d0442ae420ffda0fdb7e31e1cdefd326bf46",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031985&param=informatie",
+  "as_of": "2019-08-12",
+  "made": "2019-05-24",
+  "gazette": "2019-08-02",
+  "numac": 2019041457,
+  "document_start": "2019-08-12",
+  "document_end": null,
+  "in_force": "2019-08-12",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2019-08-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
