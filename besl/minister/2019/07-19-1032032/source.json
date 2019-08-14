@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032032,
+  "title": "Ministerieel besluit van 2019-07-19 houdende het verbod op de pulsvisserij in de Belgische twaalfmijlszone",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032032/VolledigDocument?datum=2019-08-14",
+  "source_sha256": "6c343a549de3a51af11bdc14ac2d8bc978768748b079cd45e755d23258fe9920",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032032&param=informatie",
+  "as_of": "2019-08-14",
+  "made": "2019-07-19",
+  "gazette": "2019-08-09",
+  "numac": 2019013793,
+  "document_start": "2019-08-14",
+  "document_end": "2021-06-30",
+  "in_force": "2019-08-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
