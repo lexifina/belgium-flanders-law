@@ -57,6 +57,18 @@ Artikel 7.1./1.4 van hetzelfde decreet, ingevoegd bij het decreet van 13 juli 20
 <br>
 "Art. 7.1./1.4. Een garantie van oorsprong kan alleen worden ingeleverd op de wijze, vermeld in artikel 7.1/1.2, voor de staving van de levering van een hoeveelheid energie uit hernieuwbare energiebronnen of kwalitatieve warmte-krachtkoppeling, als die levering plaatsvindt binnen twaalf maanden na het einde van de productieperiode van de energie waarvoor de garanties van oorsprong werden toegekend.".
 
+### ART 7.
+
+Aan hoofdstuk I/1 van titel VII van hetzelfde decreet, ingevoegd bij het decreet van 13 juli 2012, wordt een artikel 7.1/1.5 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 7.1/1.5. Voor het gebruik van de centrale databank, vermeld in artikel 7.1/1.1, § 3, voor de registratie van een aankoop, import, export, inlevering en vernietiging van een garantie van oorsprong, kan de betaling van een retributie aan de VREG worden vereist.<br>
+<br>
+De retributie is in dat geval verschuldigd door de persoon die de garanties van oorsprong aankoopt, exporteert, importeert, inlevert of laat vernietigen door de VREG.<br>
+<br>
+De VREG bepaalt het tarief van de retributie, alsook de wijze waarop de retributie wordt geïnd. Die retributie kan niet meer bedragen dan 5 eurocent per garantie van oorsprong die wordt aangekocht, geëxporteerd, geïmporteerd, ingeleverd of vernietigd, en ze kan evenmin hoger zijn dan 5% van de gemiddelde marktwaarde van de garanties van oorsprong die gedurende het voorgaande jaar werden verhandeld.<br>
+<br>
+De Vlaamse Regering kan ook een retributie vastleggen voor de verwerking van de aanvraag, de opvolging van de rapportering en de berekening van het aantal toe te kennen garanties van oorsprong.".
+
 ### ART 8.
 
 Hoofdstuk II van titel VII van hetzelfde decreet, gewijzigd bij het decreet van 8 juli 2011, dat bestaat uit artikel 7.2.1 tot en met 7.2.3, wordt opgeheven.

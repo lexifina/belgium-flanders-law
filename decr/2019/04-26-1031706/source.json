@@ -2,16 +2,16 @@
   "codex_id": 1031706,
   "title": "Decreet van 2019-04-26 houdende invoering van een systeem van garanties van oorsprong voor gas, warmte en koude",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031706/VolledigDocument?datum=2019-05-30",
-  "source_sha256": "b1ee99644c2dce4b4663891c3955f223ef7456d25dd6f25a82c416ccf99077f3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031706/VolledigDocument?datum=2019-08-17",
+  "source_sha256": "2bde57f07fa9399fcbc227bddc8d1d73ce948730d276a3f2c7db6d3fbe1e6848",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031706&param=informatie",
-  "as_of": "2019-05-30",
+  "as_of": "2019-08-17",
   "made": "2019-04-26",
   "gazette": "2019-05-20",
   "numac": 2019012376,
   "document_start": "2019-05-30",
   "document_end": null,
-  "in_force": "2019-05-30",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2019-05-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-08-17",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2019-08-17; future article versions excluded; article text as the API gives it"
 }
