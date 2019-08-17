@@ -2268,6 +2268,16 @@ De Vlaamse Regering bepaalt onder welke voorwaarden garanties van oorsprong die 
 
 Een garantie van oorsprong kan alleen worden ingeleverd op de wijze, vermeld in artikel 7.1/1.2, voor de staving van de levering van een hoeveelheid energie uit hernieuwbare energiebronnen of kwalitatieve warmte-krachtkoppeling, als die levering plaatsvindt binnen twaalf maanden na het einde van de productieperiode van de energie waarvoor de garanties van oorsprong werden toegekend.
 
+### ART 7.1/1.5.
+
+Voor het gebruik van de centrale databank, vermeld in artikel 7.1/1.1, § 3, voor de registratie van een aankoop, import, export, inlevering en vernietiging van een garantie van oorsprong, kan de betaling van een retributie aan de VREG worden vereist.<br>
+<br>
+De retributie is in dat geval verschuldigd door de persoon die de garanties van oorsprong aankoopt, exporteert, importeert, inlevert of laat vernietigen door de VREG.<br>
+<br>
+De VREG bepaalt het tarief van de retributie, alsook de wijze waarop de retributie wordt geïnd. Die retributie kan niet meer bedragen dan 5 eurocent per garantie van oorsprong die wordt aangekocht, geëxporteerd, geïmporteerd, ingeleverd of vernietigd, en ze kan evenmin hoger zijn dan 5% van de gemiddelde marktwaarde van de garanties van oorsprong die gedurende het voorgaande jaar werden verhandeld.<br>
+<br>
+De Vlaamse Regering kan ook een retributie vastleggen voor de verwerking van de aanvraag, de opvolging van de rapportering en de berekening van het aantal toe te kennen garanties van oorsprong.
+
 ## [HOOFDSTUK I/2. Werkzaamheden van maatschappelijk belang (ing. decr. 16 november 2018, art. 29, I: 24 december 2018)]
 
 ### ART 7.1/2.1.
