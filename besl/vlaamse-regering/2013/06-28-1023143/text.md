@@ -102,7 +102,15 @@ d) organiseren of aanbieden van trainingsonderdelen in samenwerking met internat
 
 ### ART. 11.
 
-<P>Elke begunstigde heeft in zijn beleid aandacht voor : <BR>1° genderevenwicht   en diversiteit;<BR>2° duurzaamheid;<BR>3° aanmoedigen van ondernemerschap;<BR>4°   interdisciplinariteit en de eigenheid van verschillende disciplines en   verschillende loopbaanprofielen van jonge onderzoekers; <BR>5° de implementatie   van de principes van de aanbeveling van de Europese Commissie van 11 maart 2005   betreffende het Europese Handvest voor Onderzoekers en de Gedragscode voor de   Rekrutering van Onderzoekers, PB L 75 van 22.3.2005;<BR>6° de implementatie van   de principes voor innovatieve doctoraatstraining, goedgekeurd in de Conclusies   van 28 november 2011 van de Raad van de Europese Unie over de modernisering van   het hoger onderwijs, PB C 372 van 20.12.2011 . <BR></P>  <P>Het naleven van de principes, vermeld in het eerste lid, blijkt uit de   inhoudelijke rapportering, vermeld in artikel 15.<BR></P>
+<p>Elke begunstigde heeft in zijn beleid aandacht voor :<br>
+1° genderevenwicht en diversiteit;<br>
+2° duurzaamheid;<br>
+3° aanmoedigen en ontwikkelen van ondernemerschap;<br>
+4° interdisciplinariteit en de eigenheid van verschillende disciplines en verschillende loopbaanprofielen van jonge onderzoekers;<br>
+5° de implementatie van de principes van de aanbeveling van de Europese Commissie van 11 maart 2005 betreffende het Europese Handvest voor Onderzoekers en de Gedragscode voor de Rekrutering van Onderzoekers, PB L 75 van 22.3.2005;<br>
+6° de implementatie van de principes voor innovatieve doctoraatstraining, goedgekeurd in de Conclusies van 28 november 2011 van de Raad van de Europese Unie over de modernisering van het hoger onderwijs, PB C 372 van 20.12.2011 .</p>
+
+<p>Het naleven van de principes, vermeld in het eerste lid, blijkt uit de inhoudelijke rapportering, vermeld in artikel 15.</p>
 
 ### ART. 12.
 
