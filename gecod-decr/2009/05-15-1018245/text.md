@@ -4398,7 +4398,7 @@ De beslissing heeft in voorkomend geval tot gevolg dat de rooilijn, vastgesteld 
 <br>
 De beslissing wordt bij uittreksel gepubliceerd in het Belgisch Staatsblad.<br>
 <br>
-§ 2. Paragraaf 1, derde lid, is van overeenkomstige toepassing op de rooilijnen, vastgelegd voor reservatiestroken die geheel of gedeeltelijk worden opgeheven door een plan van aanleg of een ruimtelijk uitvoeringsplan.
+§ 2. Paragraaf 1, derde lid, is van overeenkomstige toepassing op de rooilijnen, vastgelegd voor reservatiestroken die geheel of gedeeltelijk zijn of worden opgeheven door een plan van aanleg of een ruimtelijk uitvoeringsplan.
 
 ## Afdeling 2 Algemene en bijzondere plannen van aanleg
 
