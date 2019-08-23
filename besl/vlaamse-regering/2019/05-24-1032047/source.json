@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032047,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-24 houdende de herverdeling van het begrotingsartikel JB0-1JBG2AB-PR naar begrotingsartikels JB0-1JDG2AD-WT en JB0-1JDG2AA-WT van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2019",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032047/VolledigDocument?datum=2019-08-23",
+  "source_sha256": "0b9f3189c2f82609fd137176c30a4a3141903c9ebe6bccc1eb40296f8417864e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032047&param=informatie",
+  "as_of": "2019-08-23",
+  "made": "2019-05-24",
+  "gazette": "2019-08-13",
+  "numac": 2019013906,
+  "document_start": "2019-08-23",
+  "document_end": null,
+  "in_force": "2019-08-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
