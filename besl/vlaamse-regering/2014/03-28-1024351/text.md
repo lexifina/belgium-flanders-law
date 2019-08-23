@@ -339,7 +339,27 @@ De organisator bezorgt het agentschap jaarlijks en uiterlijk eind januari   een 
 
 ### ART. 61.
 
-<P>§ 1. Bij de berekening en bij een herberekening van het subsidiebedrag dat   een organisator kan krijgen, houdt het agentschap rekening met:<BR>1° het aantal   minderjarigen in het werkingsgebied van de aanbodsvorm, met uitzondering van het   Brusselse Hoofdstedelijke Gewest waar 30 % van het aantal minderjarigen in   rekening wordt genomen;<BR>2° het aandeel minderjarigen in een kansarm gezin in   dat werkingsgebied;<BR>3° de evolutie van de gemiddelde geldelijke anciënniteit   van alle personeelsleden van één aanbodsvorm.<BR></P>  <P>Het aantal minderjarigen in het werkingsgebied van de aanbodsvorm, vermeld in   het eerste lid, 1°, wordt bepaald door het agentschap op basis van de gegevens   die worden aangeleverd door de dienst Demografie, Algemene Directie Statistiek   en Economische Informatie.<BR></P>  <P>Het aandeel minderjarigen in een kansarm gezin in het werkingsgebied van de   aanbodsvorm, vermeld in het eerste lid, 2°, wordt bepaald door het agentschap   door middel van een samengestelde indicator die is samengesteld op basis van de   volgende gegevens:<BR>1° de kansarmoede-index van Kind en Gezin;<BR>2° het   aantal minderjarige rechthebbenden op een verhoogde tegemoetkoming in de   ziekteverzekering ten opzichte van het totaal aantal minderjarigen;<BR>3° het   aantal minderjarigen in een eenoudergezin ten opzichte van het totaal aantal   minderjarigen.<BR></P>  <P>De evolutie van de gemiddelde geldelijke anciënniteit van alle   personeelsleden van één aanbodsvorm, vermeld in het eerste lid, wordt bepaald   door het agentschap op basis van de situatie op 1 oktober van het voorgaande   jaar, in vergelijking met de situatie op 1 oktober van het daaraan voorafgaande   jaar.<BR></P>  <P>§ 2. De subsidie is uitgedrukt tegen 100 % van de spilindex die van   toepassing is op 1 januari 2014. De bedragen worden geïndexeerd overeenkomstig   de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige   uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van   het Rijk worden gekoppeld. De aanpassing gebeurt telkens vanaf de tweede maand   die volgt op de maand waarin een spilindex wordt bereikt of er op wordt   teruggebracht.<BR></P>  <P>§ 6. De minister kan bijkomende en nadere regels bepalen met betrekking tot   de berekening van het subsidiebedrag.</P>
+<p>§ 1. Het subsidiebedrag dat een organisator kan krijgen, bestaat uit een vast en een variabel deel.<br>
+<br>
+§ 1/1. Bij de berekening en bij een herberekening van het variabel deel van het subsidiebedrag, houdt het agentschap rekening met:<br>
+1° het aantal minderjarigen in het werkingsgebied van de aanbodsvorm, met uitzondering van het Brusselse Hoofdstedelijke Gewest waar 30 % van het aantal minderjarigen in rekening wordt genomen;<br>
+2° het aandeel minderjarigen in een kansarm gezin in dat werkingsgebied;<br>
+3° de evolutie van de gemiddelde geldelijke anciënniteit van alle personeelsleden van één aanbodsvorm.</p>
+
+<p>Het aantal minderjarigen in het werkingsgebied van de aanbodsvorm, vermeld in het eerste lid, 1°, wordt bepaald door het agentschap op basis van de gegevens die worden aangeleverd door de dienst Demografie, Algemene Directie Statistiek en Economische Informatie.</p>
+
+<p>Het aandeel minderjarigen in een kansarm gezin in het werkingsgebied van de aanbodsvorm, vermeld in het eerste lid, 2°, wordt bepaald door het agentschap door middel van een samengestelde indicator die is samengesteld op basis van de volgende gegevens:<br>
+1° de kansarmoede-index van Opgroeien regie;<br>
+2° het aantal minderjarige rechthebbenden op een verhoogde tegemoetkoming in de ziekteverzekering ten opzichte van het totaal aantal minderjarigen;<br>
+3° het aantal minderjarigen in een eenoudergezin ten opzichte van het totaal aantal minderjarigen.</p>
+
+<p>De evolutie van de gemiddelde geldelijke anciënniteit van alle personeelsleden van één aanbodsvorm, vermeld in het eerste lid, wordt bepaald door het agentschap op basis van de situatie op 1 oktober van het voorgaande jaar, in vergelijking met de situatie op 1 oktober van het daaraan voorafgaande jaar.</p>
+
+<p>§ 2. De subsidie is uitgedrukt tegen 100 % van de spilindex die van toepassing is op 1 januari 2014. De bedragen worden geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing gebeurt telkens vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of er op wordt teruggebracht.</p>
+
+<p>§ 3. De minister kan bijkomende en nadere regels bepalen met betrekking tot de berekening van het subsidiebedrag.<br>
+<br>
+De minister bepaalt de hoogte van het vaste bedrag per aanbodsvorm en kan een maximumbedrag bepalen dat per aanbodsvorm wordt toegekend.</p>
 
 ## Afdeling 4. De uitbetaling
 
