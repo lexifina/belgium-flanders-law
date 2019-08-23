@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032048,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-24 betreffende de herverdeling van begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotings-jaar 2019 in het kader van de InvestEU-erkenning van Participatiemaatschappij Vlaanderen als implementerende partner",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032048/VolledigDocument?datum=2019-08-23",
+  "source_sha256": "652b407ab1da3d2ee6d2472b1c9c64aa50711a68008fc64a14da6f5a6c2d7b53",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032048&param=informatie",
+  "as_of": "2019-08-23",
+  "made": "2019-05-24",
+  "gazette": "2019-08-13",
+  "numac": 2019013907,
+  "document_start": "2019-08-23",
+  "document_end": null,
+  "in_force": "2019-08-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
