@@ -37,8 +37,16 @@
 6° module : een duidelijk afgelijnde eenheid van jeugdhulpverlening gebaseerd op één enkele typemodule die afzonderlijk, gelijktijdig of consecutief met andere eenheden kan worden aangeboden;<br>
 7° werkingsgebied : het gebied waarbinnen een CKG begeleidingen aan huis aanbiedt en zijn ambulante trainingen bekend maakt;<br>
 8° vestigingsplaats : elk adres waarop een CKG ambulante of residentiële opvang organiseert;<br>
-9° programmatie : het in kaart brengen van de behoefte aan bepaalde typemodules per zorgregio.<br>
-10° organiserend bestuur : de publieke of private niet-commerciële rechtspersoon die een Centrum voor Kinderzorg en Gezinsondersteuning opricht of organiseert
+9° programmatie : het in kaart brengen van de behoefte aan bepaalde typemodules per zorgregio;<br>
+10° organiserend bestuur : de publieke of private niet-commerciële rechtspersoon die een Centrum voor Kinderzorg en Gezinsondersteuning opricht of organiseert;<br>
+11° decreet van 17 oktober 2003: het decreet van 17 oktober 2003 betreffende de kwaliteit van gezondheids- en welzijnsvoorzieningen;<br>
+12° outputgebieden: de resultaatgerichte aandachtsgebieden die betrekking hebben op de verschillende aspecten van de organisatievoering, met name de gebruikers-, medewerkers- en samenlevingsresultaten;<br>
+13° kernprocessen: de basisprocessen en -procedures volgens welke een organisatie haar hulpverlening vormgeeft, en die bestaan uit:<br>
+a) het onthaal van de gebruiker;<br>
+b) de doelstelling en het handelingsplan;<br>
+c) de afsluiting en de nazorg;<br>
+d) het pedagogische profiel;<br>
+e) het gebruikersdossier.
 
 ### ART. 2.
 
@@ -175,6 +183,53 @@ Als een CKG niet aan de bepalingen van dit besluit voldoet of de doelstellingen 
 <p>Het agentschap betekent de definitieve beslissing tot behoud of opheffing van de erkenning aan het CKG door middel van een aangetekende zending of bij deurwaardersexploot.</p>
 
 ## [Afdeling 4 Kwaliteitsbeleid (ing. BVR 17 mei 2019, art. 2, I: 23 augustus 2019)]
+
+### ART 26/1.
+
+De voorziening heeft een kwaliteitsbeleid als vermeld in artikel 4 en 5, § 1, van het decreet van 17 oktober 2003, dat al de volgende elementen bevat:<br>
+1° de missie van de voorziening;<br>
+2° de visie van de voorziening;<br>
+3° de waarden;<br>
+4° de te creëren maatschappelijke meerwaarde, alsook de strategische doelstellingen om die meerwaarde te realiseren;<br>
+5° de omschrijving van al de volgende aandachtsgebieden:<br>
+a) kwaliteitszorg;<br>
+b) inputgebieden:<br>
+1) leiderschap;<br>
+2) personeelsbeleid;<br>
+3) beleid en strategie;<br>
+4) middelen en partnerschappen;<br>
+c) kernprocessen;<br>
+d) outputgebieden:<br>
+1) gebruikersresultaten;<br>
+2) medewerkersresultaten;<br>
+3) samenlevingsresultaten.<br>
+<br>
+In het eerste lid, 5°, b), wordt verstaan onder inputgebieden: de organisatorisch gerichte aandachtsgebieden die betrekking hebben op de activiteiten die het mogelijk maken dat de organisatie bepaalde resultaten behaalt op het vlak van leiderschap, personeelsbeleid, beleid en strategie, en middelen en partnerschappen.
+
+### ART 26/2.
+
+Met toepassing van artikel 6, § 2, van het decreet van 17 oktober 2003 heeft de voorziening in haar kwaliteitsbeleid aandacht voor de volgende aspecten:<br>
+1° gelijke kansen op het gebied van toegankelijkheid, diversiteit en non-discriminatie;<br>
+2° goed bestuur, in het bijzonder wat betreft de diversiteit in samenstelling, de deskundigheid, de opdrachten en de verantwoordelijkheden van de bestuursorganen.
+
+### ART 26/3.
+
+De voorziening beschikt over een kwaliteitsmanagementsysteem als vermeld in artikel 4 en 5, § 2, van het decreet van 17 oktober 2003, dat minimaal de organisatorische structuur, de bevoegdheden, de verantwoordelijkheden en de processen en procedures in het bijzonder van de aandachtsgebieden, vermeld in artikel 26/1, eerste lid, 5°, van dit besluit, bevat.
+
+### ART 26/4.
+
+Met toepassing van artikel 4 en 5, § 3, van het decreet van 17 oktober 2003 evalueert de voorziening systematisch zelf haar werking en minimaal de aandachtsgebieden kwaliteitszorg, kernprocessen en outputgebieden, vermeld in artikel 26/1, eerste lid, 5°, van dit besluit, op basis van het schema dat opgenomen is in de bijlage die bij dit besluit is gevoegd.<br>
+<br>
+Op basis van de zelfevaluatie, vermeld in het eerste lid, formuleert de voorziening verbeteracties die betrekking kunnen hebben op alle elementen van het kwaliteitsbeleid, vermeld in artikel 26/1.
+
+### ART 26/5.
+
+De voorziening beschikt over een borgend kwaliteitshandboek als vermeld in artikel 5, § 4, en artikel 6 van het decreet van 17 oktober 2003, dat al de volgende elementen bevat:<br>
+1° het kwaliteitsbeleid, vermeld in artikel 26/1 van dit besluit;<br>
+2° het kwaliteitsmanagementsysteem, vermeld in artikel 26/3 van dit besluit;<br>
+3° de zelfevaluatie en de verbeteracties, vermeld in artikel 26/4 van dit besluit.<br>
+<br>
+Het kwaliteitshandboek, vermeld in het eerste lid, is gebruiksvriendelijk en toegankelijk en wordt door alle geledingen van de voorziening gedragen.
 
 ## HOOFDSTUK 4 Procedures met betrekking tot de erkenning
 
@@ -518,3 +573,7 @@ Dit besluit treedt in werking op 1 januari 2013.<BR>
 ### ART. 82.
 
 De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met   de uitvoering van dit besluit.<BR>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/13_1.pdf#page=24">Schema als vermeld in artikel 26/4, eerste lid</a>
