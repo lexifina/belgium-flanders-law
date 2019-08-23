@@ -2,16 +2,16 @@
   "codex_id": 1009440,
   "title": "Ministerieel besluit van 2002-06-10 betreffende de kwaliteitszorg in de centra voor kinderzorg en gezinsondersteuning",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009440/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "7680621c069bcab840546bafbccc22d9eb0943cabf9514b4787435951ea3c110",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009440/VolledigDocument?datum=2019-08-23",
+  "source_sha256": "a5075c82a9cc6d5ce8e97872a62f5a4be711df65ec21aaf4d46e4d477f15ff0d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009440&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2019-08-23",
   "made": "2002-06-10",
   "gazette": "2002-08-15",
   "numac": 2002036003,
   "document_start": "2002-01-01",
   "document_end": "2019-08-22",
-  "in_force": "2006-06-01",
+  "in_force": "2019-08-23",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-08-23; future article versions excluded; article text as the API gives it"
 }
