@@ -8,7 +8,14 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° het decreet : het decreet van   22 december 2000 betreffende de amateurkunsten;<BR>2° de minister : de Vlaamse   minister, bevoegd voor de Culturele Aangelegenheden;<BR>3° de administratie :   het&nbsp;departement van de Vlaamse overheid dat bevoegd is voor de   amateurkunsten;<BR>4° de organisatie : de organisatie voor amateurkunsten,   vermeld in artikel 4 van het decreet;<BR>5° forum: een forum voor   amateurkunsten, zoals opgericht door de erkende organisaties voor   amateurkunsten;<BR>6° ...;<BR>7° de beleidsperiode : de vijfjaarlijkse periode,   vermeld in artikel 9, § 1, van het decreet.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° het decreet : het decreet van 22 december 2000 betreffende de amateurkunsten;<br>
+2° de minister : de Vlaamse minister, bevoegd voor de Culturele Aangelegenheden;<br>
+3° de administratie : het&nbsp;departement van de Vlaamse overheid dat bevoegd is voor de amateurkunsten;<br>
+4° de organisatie : de organisatie voor amateurkunsten, vermeld in artikel 4 van het decreet;<br>
+5° ...;<br>
+6° ...;<br>
+7° de beleidsperiode : de vijfjaarlijkse periode, vermeld in artikel 9, § 1, van het decreet.
 
 ## TITEL II. Erkenningen
 
@@ -24,7 +31,25 @@ In dit besluit wordt verstaan onder :<BR>1° het decreet : het decreet van   22 
 
 ### ART. 4.
 
-§ 1. Het beleidsplan, vermeld in artikel 9, § 2, van het decreet,   omschrijft de missie, de algemene doelstellingen en de uitgangspunten van de   organisatie. Het beleidsplan wordt gesitueerd in een maatschappelijk kader en   geeft een verdere uitwerking van de door de minister aanvaarde punten uit het   financiële behoefteplan.<BR><BR>§ 2. In het beleidsplan worden de volgende   aspecten beschreven :<BR>1° de financiële middelen die worden ingezet voor de   werking, het personeel en de infrastructuur van de organisatie;<BR>2° het   doelpubliek, zowel de in groep georganiseerde als individuele kunstbeoefenaars,   met specifieke aandacht voor de evolutie en veranderingen ten opzichte van de   vorige beleidsperiode;<BR>2° /1 de manier waarop de organisatie haar doelpubliek   bevraagt en inspeelt op haar behoeften;<BR>3° de communicatie met de   kunstbeoefenaars en de geïnteresseerde burgers;<BR>4° de vorming en de   begeleiding van de kunstbeoefenaars en de geïnteresseerde burgers;<BR>5° de   wijze waarop de organisatie aan kwaliteitszorg doet en specifieke aandacht heeft   voor de tevredenheid van de kunstbeoefenaars en de geïnteresseerde burgers over   de werking van de organisatie;<BR>6° de aandacht die besteed wordt aan de   verschillende uitingsvormen van de discipline;<BR>7° de opties inzake   publieksgerichte activiteiten en evenementen;<BR>8° de samenwerking met het   forum&nbsp;voor de disciplineoverschrijdende materies, de   samenwerkingsprojecten, de samenwerking met de aanverwante sectoren;<BR>9° de   participatie en het publieksbereik;<BR>10° de culturele diversiteit en in het   bijzonder de interculturaliteit. De organisaties moeten in hun beleidsplan een   open beleid aantonen voor mensen en groepen met een etnisch-cultureel diverse   achtergrond. Dit weerspiegelt zich in het aanbod, in het vrijwilligersbeleid, in   de samenwerkingsverbanden, in het bereik, in de vertegenwoordiging in de   bestuursorganen en in de personeelssamenstelling;<BR>11° de initiatieven in het   kader van product- of procesgerichte vernieuwing en verbreding;<BR>12° de   intenties in het kader van de semiprofessionele kunstbeoefening;<BR>13° de wijze   waarop de organisatie zich in internationale netwerken engageert en   profileert;<BR>14° de wijze waarop het beleidsplan rekening houdt met de   accenten die de Vlaamse Regering legt in het kader van haar beleidsintenties   voor de amateurkunsten, die bekend zijn bij de opmaak van het   beleidsplan;<BR>15° de manier waarop de organisatie een informatieverwerking   voor de doelgroep opbouwt, al dan niet met inbegrip van een documentatiecentrum   of bibliotheek.<BR>
+§ 1. Het beleidsplan, vermeld in artikel 9, § 2, van het decreet, omschrijft de missie, de algemene doelstellingen en de uitgangspunten van de organisatie. Het beleidsplan wordt gesitueerd in een maatschappelijk kader en geeft een verdere uitwerking van de door de minister aanvaarde punten uit het financiële behoefteplan.<br>
+<br>
+§ 2. In het beleidsplan worden de volgende aspecten beschreven :<br>
+1° de financiële middelen die worden ingezet voor de werking, het personeel en de infrastructuur van de organisatie;<br>
+2° het doelpubliek, zowel de in groep georganiseerde als individuele kunstbeoefenaars, met specifieke aandacht voor de evolutie en veranderingen ten opzichte van de vorige beleidsperiode;<br>
+2° /1 de manier waarop de organisatie haar doelpubliek bevraagt en inspeelt op haar behoeften;<br>
+3° de communicatie met de kunstbeoefenaars en de geïnteresseerde burgers;<br>
+4° de vorming en de begeleiding van de kunstbeoefenaars en de geïnteresseerde burgers;<br>
+5° de wijze waarop de organisatie aan kwaliteitszorg doet en specifieke aandacht heeft voor de tevredenheid van de kunstbeoefenaars en de geïnteresseerde burgers over de werking van de organisatie;<br>
+6° de aandacht die besteed wordt aan de verschillende uitingsvormen van de discipline;<br>
+7° de opties inzake publieksgerichte activiteiten en evenementen;<br>
+8°&nbsp;de samenwerkingsprojecten, de samenwerking met de aanverwante sectoren;<br>
+9° de participatie en het publieksbereik;<br>
+10° de culturele diversiteit en in het bijzonder de interculturaliteit. De organisaties moeten in hun beleidsplan een open beleid aantonen voor mensen en groepen met een etnisch-cultureel diverse achtergrond. Dit weerspiegelt zich in het aanbod, in het vrijwilligersbeleid, in de samenwerkingsverbanden, in het bereik, in de vertegenwoordiging in de bestuursorganen en in de personeelssamenstelling;<br>
+11° de initiatieven in het kader van product- of procesgerichte vernieuwing en verbreding;<br>
+12° de intenties in het kader van de semiprofessionele kunstbeoefening;<br>
+13° de wijze waarop de organisatie zich in internationale netwerken engageert en profileert;<br>
+14° de wijze waarop het beleidsplan rekening houdt met de accenten die de Vlaamse Regering legt in het kader van haar beleidsintenties voor de amateurkunsten, die bekend zijn bij de opmaak van het beleidsplan;<br>
+15° de manier waarop de organisatie een informatieverwerking voor de doelgroep opbouwt, al dan niet met inbegrip van een documentatiecentrum of bibliotheek.
 
 ### ART. 5.
 
