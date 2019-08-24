@@ -84,15 +84,15 @@ De gemeente stelt op verzoek van de minister de beleidsrelevante gegevens   over
 
 ### ART. 16.
 
-De organisaties, vermeld in artikelen 20, 22, 28, 31, 34 en 36 van het   decreet van 6 juli 2012, beschikken uiterlijk op 31 december 2016 over een   website waaraan het AnySurfer-label is toegekend.<BR>
+De organisaties vermeld in artikel 20, 22, 28 en 31 van het decreet van 6 juli 2012 beschikken uiterlijk op 31 december 2016 over een website waaraan het AnySurfer-label is toegekend.
 
 ### ART. 17.
 
-De organisaties, vermeld in artikelen 20, 22, 28, 31, 34 en 36 van het   decreet van 6 juli 2012, zullen in hun werking de basisprincipes van   duurzaamheid en ecologisch bewustzijn inbouwen. Dat behelst onder meer constante   aandacht voor de ecologische impact van de ontwikkelde producten, het gebruik   van energie en uitrusting voor algemene werking, de promotie van en communicatie   over de activiteiten en het kantoorbeheer. Het behelst ook een duurzame werking,   met kennisborging naast kennisdeling.<BR>
+De organisaties vermeld in artikel 20, 22, 28 en 31 van het decreet van 6 juli 2012&nbsp;zullen in hun werking de basisprincipes van duurzaamheid en ecologisch bewustzijn inbouwen. Dat behelst onder meer constante aandacht voor de ecologische impact van de ontwikkelde producten, het gebruik van energie en uitrusting voor algemene werking, de promotie van en communicatie over de activiteiten en het kantoorbeheer. Het behelst ook een duurzame werking, met kennisborging naast kennisdeling.
 
 ### ART. 18.
 
-Bij de uitvoering van de opdrachten zullen de organisaties, vermeld in   artikelen 20, 22, 28, 31, 34 en 36 van het decreet van 6 juli 2012, de steun van   de Vlaamse Gemeenschap duidelijk vermelden door het gebruik van de   standaardlogo's en de bijbehorende tekst, zoals ze door de Vlaamse Regering zijn   vastgelegd op alle publicaties, mededelingen, verklaringen en presentaties   ongeacht de drager.<BR>
+Bij de uitvoering van de opdrachten zullen de organisaties vermeld in artikel 20, 22, 28 en 31 van het decreet van 6 juli 2012&nbsp;de steun van de Vlaamse Gemeenschap duidelijk vermelden door het gebruik van de standaardlogo's en de bijbehorende tekst, zoals ze door de Vlaamse Regering zijn vastgelegd op alle publicaties, mededelingen, verklaringen en presentaties ongeacht de drager.
 
 ## Afdeling 2 [ ... (opgeh. decr. 23 juni 2023, art. 22, I: 1 januari 2024)]
 
@@ -130,11 +130,11 @@ Voor de uitvoering van de opdrachten, vermeld in artikel 26 van het   decreet va
 
 ### ART. 25.
 
-Voor de uitvoering van de opdrachten die geconcretiseerd zijn in een   meerjarenplan als vermeld in artikel 35 van het decreet van 6 juli 2012, kent de   Vlaamse Regering aan de organisatie, vermeld in artikel 34 van het voormelde   decreet, met ingang van 1 januari 2013 een jaarlijkse subsidie toe van 114.000   euro.<BR>
+...
 
 ### ART. 26.
 
-Voor de uitvoering van de opdrachten die geconcretiseerd zijn in een   meerjarenplan als vermeld in artikel 37 van het decreet van 6 juli 2012, kent de   Vlaamse Regering aan de organisatie, vermeld in artikel 36 van het voormelde   decreet, met ingang van 1 januari 2013 een jaarlijkse subsidie toe van 100.000   euro.<BR>
+...
 
 ## Hoofdstuk 6 Intergemeentelijke samenwerking voor afstemming van het cultuuraanbod en de communicatie
 
