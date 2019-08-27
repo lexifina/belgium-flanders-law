@@ -71,6 +71,11 @@ In artikel 663/11, derde lid, van hetzelfde besluit, ingevoegd bij het besluit v
 
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering van 7 december 2018
 
+### ART 9.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten wordt punt 3° vervangen door wat volgt:<br>
+"3° dagverzorgingscentrum: het dagverzorgingscentrum, vermeld in artikel 25 van het Woonzorgdecreet van 13 maart 2009, dat een bijkomende erkenning heeft conform artikel 10/5 van het besluit van de Vlaamse Regering van 24 juli 2009;".
+
 ### ART 10.
 
 &nbsp;In hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 december 2018, wordt een hoofdstuk 3/2, dat bestaat uit artikel 16/3, ingevoegd, dat luidt als volgt:<br>
