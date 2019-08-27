@@ -21,7 +21,7 @@ Besluit :
 In dit besluit wordt verstaan onder:<br>
 1° agentschap: het agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid;<br>
 2° centrum voor kortverblijf: een ouderenvoorziening als vermeld in artikel 30 en 32 van het Woonzorgdecreet van 13 maart 2009, die erkend is door de Vlaamse Regering conform artikel 48 van het voormelde decreet;<br>
-3° dagverzorgingscentrum: een ouderenvoorziening als vermeld in artikel 25 van het Woonzorgdecreet van 13 maart 2009, die erkend is door de Vlaamse Regering conform artikel 48 van het voormelde decreet;<br>
+3° dagverzorgingscentrum: het dagverzorgingscentrum, vermeld in artikel 25 van het Woonzorgdecreet van 13 maart 2009, dat een bijkomende erkenning heeft conform artikel 10/5 van het besluit van de Vlaamse Regering van 24 juli 2009;<br>
 4° decreet van 6 juli 2018: het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
 5° multidisciplinaire begeleidingsequipes voor palliatieve zorg: een begeleidingsequipes als vermeld in artikel 2, 11° van het decreet van 6 juli 2018, die erkend zijn door de Vlaamse Regering conform artikel 96 van het voormelde decreet;<br>
 6° openbare dienst: de plaatselijke of provinciale overheid waar de openbare voorziening van afhangt;<br>
