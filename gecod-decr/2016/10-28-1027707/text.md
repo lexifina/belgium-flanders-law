@@ -249,31 +249,7 @@ De codificatie van sommige bepalingen voor het onderwijs regelt enkel gemeenscha
 
 ### ART II.54.
 
-§1. De tijdelijke projecten regionale netwerken voor expertise-uitwisseling inzake kunst- en cultuureducatie tussen deeltijds kunstonderwijs en kleuter- en leerplichtonderwijs worden verlengd tot de Vlaamse Regering een nieuwe einddatum bepaalt en heten vanaf nu tijdelijke projecten professionalisering inzake muzische vorming, in de volgende scholen :<br>
-1° de Stedelijke Academie voor Podiumkunsten van Aalst;<br>
-2° de Gemeentelijke Academie voor Muziek, Woordkunst en Dans van Hamme;<br>
-3° de Gemeentelijke Academie voor Muziek en Woord van Hemiksem;<br>
-4° de Stedelijke Muziekacademie van Izegem;<br>
-5° het Stedelijk Conservatorium van Kortrijk;<br>
-6° de Koninklijke Academie voor Schone Kunsten van Kortrijk;<br>
-7° de Stedelijke Academie voor Muziek, Woord en Dans van Lier;<br>
-8° de Gemeentelijke Academie voor Muziek en Woord van Schoten;<br>
-9° de Gemeentelijke Muziekacademie van Sint-Agatha-Berchem;<br>
-10° de Haspengouwse Academie voor Muziek, Woord en Dans van Sint-Truiden;<br>
-11° de Haspengouwse Academie voor Beeldende Kunsten van Sint-Truiden;<br>
-12° de Kunstacademie Regio Tienen.<br>
-&nbsp;<br>
-§2. De scholen bedoeld in §1 nemen, samen met scholen deeltijds kunstonderwijs en basisscholen die een tijdelijk project kunstinitiatie organiseren, deel aan een werkgroep die zal onderzoeken hoe de twee projecten via een complementaire werking een structureel netwerk kunnen vormen. Dat netwerk beoogt de expertise-uitwisseling met betrekking tot kunst- en cultuureducatie tussen scholen voor deeltijds kunstonderwijs, basisscholen en andere partners. De expertise-uitwisseling kan als volgt geoperationaliseerd worden :<br>
-1° de vorming van individuele leerkrachten;<br>
-2° de visieontwikkeling in de school in haar geheel.<br>
-&nbsp;<br>
-§3. De Vlaamse Regering bepaalt de werkwijze en de termijn voor het indienen van het eindrapport.<br>
-&nbsp;<br>
-§4. De projectorganisatoren realiseren de aanbevelingen van het eindrapport van de werkgroep, vermeld in §2 en §3.<br>
-&nbsp;<br>
-§5. De voorwaarden met betrekking tot de toekenning van de bijkomende uren-leraar, zoals bekrachtigd in artikel 19 van het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs, blijven van toepassing.<br>
-&nbsp;<br>
-§6. De overige voorwaarden zoals bekrachtigd in artikel 19 van het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs, blijven van toepassing, voor zover zij de realisatie van de aanbevelingen uit het eindrapport niet belemmeren. Desgevallend legt de Vlaamse Regering gewijzigde voorwaarden op, die uiterlijk 6 maanden na de beslissing van de Vlaamse Regering decretaal bekrachtigd worden.
+...
 
 ### ART II.55.
 
@@ -1219,61 +1195,27 @@ De subsidie wordt in twee schijven uitbetaald :<br>
 
 ### ART IV.46.
 
-De Vlaamse Regering kent aan scholen voor basis- en secundair onderwijs een puntenenveloppe en/of werkingsbudget toe in het kader van projecten inzake kunstinitiatie voor kansarme en/of allochtone minderjarigen. Deze projecten hebben als doelstelling :<br>
-1° het zelfbeeld bevorderen bij leerlingen met een risico op schoolse achterstand;<br>
-2° de cultuurcompetentie bij deze doelgroep verhogen;<br>
-3° de betrokkenheid van de buurt en de ouders bij de school te vergroten.
+...
 
 ### ART IV.47.
 
-De doelstelling, bedoeld in artikel IV.46, tweede lid, wordt verwezenlijkt door :<br>
-1° een artistieke begeleiding van de betrokken minderjarigen door kunstenaars; en/of<br>
-2° de professionalisering van leerkrachten van een school voor basisonderwijs of secundair onderwijs inzake de integratie van muzische vorming in een interculturele schoolomgeving; en/of<br>
-3° de organisatie van een kunstinitiatie die nauw aansluit bij de leefwereld van de betrokken minderjarigen.
+...
 
 ### ART IV.48.
 
-§1. De in artikel IV.46, eerste lid, bedoelde ondersteuning wordt toegekend aan een school voor basisonderwijs of secundair onderwijs.<br>
-&nbsp;<br>
-§2. De puntenenveloppe en het werkingsbudget worden ingezet in het kader van een samenwerkingsovereenkomst tussen scholen voor basis- of secundair onderwijs en alle hierna vermelde partners :<br>
-1° een school voor deeltijds kunstonderwijs;<br>
-2° een erkende professionele culturele organisatie;<br>
-3° een buurtgerichte organisatie.<br>
-&nbsp;<br>
-§3. De scholen voor basis- en secundair onderwijs kunnen de toegekende punten in het kader van een samenwerkingsovereenkomst overdragen naar een meewerkende school voor basis- en secundair onderwijs of school voor deeltijds kunstonderwijs, op voorwaarde dat vooraf een akkoord tussen de betrokken schoolbesturen wordt afgesloten.<br>
-&nbsp;<br>
-§4. De puntenenveloppes kunnen omgezet worden in een werkingsbudget bestemd voor materiaalkosten, vervoerskosten en uitrustingskosten of om voordrachtgevers in te zetten.<br>
-&nbsp;<br>
-§5. De Vlaamse Regering bepaalt de puntenwaarden op basis waarvan de betrekkingen in de ambten van het onderwijzend, beleids- en ondersteunend personeel, het ondersteunend personeel, het administratief personeel en het opvoedend hulppersoneel kunnen worden opgericht. Dit aantal punten wordt bepaald op basis van de salarisschaal van het personeelslid dat de betrekking uitoefent. De Vlaamse Regering legt de puntenwaarde vast volgens de salarisschaal.&nbsp;
+...
 
 ### ART IV.49.
 
-De scholen voor basis-, secundair en deeltijds kunstonderwijs kunnen de punten aanwenden voor het oprichten van één of meer betrekkingen in ambten van het onderwijzend, beleids- en ondersteunend personeel, dan wel het ondersteunend personeel en het opvoedend hulppersoneel.<br>
-&nbsp;<br>
-Het personeelslid dat in een school voor basis-, secundair dan wel deeltijds kunstonderwijs wordt aangesteld, wordt steeds aangesteld als tijdelijk personeelslid.<br>
-De bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs en het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, zijn van toepassing, met uitzondering van volgende bepalingen :<br>
-- de betrekking is niet onderworpen aan de reglementering inzake ter beschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling. Het schoolbestuur kan evenwel op vrijwillige basis een personeelslid aanstellen dat ter beschikking gesteld is wegens ontstentenis van betrekking. Deze reaffectatie, wedertewerkstelling of tewerkstelling gebeurt steeds met instemming van het terbeschikking gestelde personeelslid. De tewerkstelling wordt beschouwd als een wedertewerkstelling;<br>
-- het schoolbestuur van de school waar de betrekking wordt opgericht, is niet verplicht om in deze betrekking een personeelslid aan te stellen dat voorrang heeft voor een tijdelijke aanstelling of dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven overeenkomstig de bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs en het decreet personeelsleden gesubsidieerd onderwijs;<br>
-- de betrekking kan niet vacant worden verklaard. Het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekking.<br>
-Het betrokken personeelslid kan, mits zijn instemming, voor de vervulling van zijn opdracht in het kader van het tijdelijk project kunstinitiatie worden ingezet voor en in andere scholen die de in artikel IV.48, §2, vermelde samenwerkingsovereenkomst hebben gesloten.
+...
 
 ### ART IV.50.
 
-De Vlaamse Regering bepaalt :<br>
-1° het bedrag dat toegekend wordt aan elk punt dat omgezet wordt in een werkingsbudget, bestemd voor materiaalkosten, vervoerskosten en uitrustingskosten of om voordrachtgevers in te zetten;<br>
-2° de modaliteiten voor de toekenning en de aanwending van het werkingsbudget.
+...
 
 ### ART IV.51.
 
-§1. De tijdelijke projecten inzake kunstinitiatie voor kansarme en/of allochtone minderjarigen die de onderwijsinspectie in haar eindevaluatie gunstig beoordeelt, worden verlengd tot de Vlaamse Regering een nieuwe einddatum bepaalt.<br>
-&nbsp;<br>
-§2. De bepalingen, vermeld in deze afdeling en in het besluit van de Vlaamse Regering van 31 maart 2006 betreffende tijdelijke projecten inzake kunstinitiatie voor kansarme en/of allochtone minderjarigen, blijven van toepassing voor zover zij de realisatie van de aanbevelingen uit het eindrapport, zoals vermeld in §3, niet belemmeren. Desgevallend legt de Vlaamse Regering gewijzigde voorwaarden op, die uiterlijk 6 maanden na de beslissing van de Vlaamse Regering decretaal bekrachtigd worden en ten vroegste ingaan vanaf het schooljaar 2011-2012.<br>
-&nbsp;<br>
-Bovendien nemen de betrokken scholen voor deeltijds kunstonderwijs en de basisscholen samen met scholen voor deeltijds kunstonderwijs die een tijdelijk project, zoals vermeld in artikel II.54, §1, van deze codificatie, organiseren, deel aan een werkgroep die zal onderzoeken hoe de twee projecten via een complementaire werking een structureel netwerk kunnen vormen. Dat netwerk beoogt de expertise-uitwisseling met betrekking tot kunst- en cultuureducatie tussen scholen voor deeltijds kunstonderwijs, basisscholen en andere partners. De expertise-uitwisseling kan als volgt geoperationaliseerd worden :<br>
-1° de vorming van individuele leerkrachten;<br>
-2° de visieontwikkeling in de school in haar geheel.<br>
-&nbsp;<br>
-§3. De Vlaamse Regering bepaalt de werkwijze en de termijn voor het indienen van het eindrapport.
+...
 
 ## [Hoofdstuk 11. Centrale organisatie synchroon internetonderwijs (ing. decr. 5 april 2019, art. 138, I: 1 september 2019)]
 
