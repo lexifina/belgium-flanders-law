@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032123,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-24 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 29 mei 2009 betreffende de ondersteuning van de Industriële Onderzoeksfondsen en de interfaceactiviteiten van de associaties in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032123/VolledigDocument?datum=2019-08-31",
+  "source_sha256": "a68c7155b726c72892e7069c14ff4c15519817f08c9cf7594d399102b904abe2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032123&param=informatie",
+  "as_of": "2019-08-31",
+  "made": "2019-05-24",
+  "gazette": "2019-08-21",
+  "numac": 2019041812,
+  "document_start": "2019-08-31",
+  "document_end": null,
+  "in_force": "2019-08-31",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2019-08-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
