@@ -16,7 +16,8 @@ Ter uitvoering van artikel 24, § 2, van het voormelde decreet wordt voor bijzon
 2° de uitbreidingsmodule Motorisch-visuele communicatievormen, vastgelegd in de opleidingsprofielen, vermeld in bijlage III en bijlage VI tot en met IX, kan voor snel-lerende cursisten maar 40 lestijden bedragen;<br>
 3° de uitbreidingsmodule Complexe cliëntcontexten, vastgelegd in de opleidingsprofielen, vermeld in bijlage VII en VIII, kan voor snel-lerende cursisten maar 40 lestijden bedragen;<br>
 4° de uitbreidingsmodule Mentor op de werkvloer, vastgelegd in de opleidingsprofielen, vermeld in bijlage I tot en met IV, bijlage VIII en bijlage IX, kan voor snel-lerende cursisten 40 lestijden bedragen;<br>
-5° de uitbreidingsmodule Communicatieve hulmiddelen, vastgelegd in de opleidingsprofielen, vermeld in bijlage III en bijlage VI tot en met IX, kan voor snel-lerende cursisten maar 20 lestijden bedragen.
+5° de uitbreidingsmodule Communicatieve hulmiddelen, vastgelegd in de opleidingsprofielen, vermeld in bijlage III en bijlage VI tot en met IX, kan voor snel-lerende cursisten maar 20 lestijden bedragen;<br>
+6° de opleiding Zorgkundige kan voor bijlerende cursisten 1540 lestijden bedragen, waarbij de module Totaalzorg 90 lestijden bedraagt en de module Individuele praktijkbegeleiding Zorgkundige 90 lestijden bedraagt.
 
 ### ART. 2.
 
