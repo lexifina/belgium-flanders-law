@@ -242,13 +242,11 @@
 
 ### ART. 47.
 
-§ 1. De Vlaamse Regering richt gemeenschapsinstellingen op. De Vlaamse   Regering bepaalt de maximumcapaciteit van elke gemeenschapsinstelling.<BR><BR>§   2. De gemeenschapsinstellingen zijn, tot ze hun maximumcapaciteit bereikt   hebben, belast met :<BR>1° het uitvoeren van opdrachten, als vermeld in artikel   48, § 1, eerste lid, 8°, 9°, 11° en 12°, van het decreet van 12 juli 2013   betreffende de integrale jeugdhulp;<BR>2° het uitvoeren van opdrachten inzake   opvang, oriëntatie, observatie en residentiële begeleiding, bepaald in een wet   betreffende de opgave van maatregelen ten aanzien van minderjarigen die een als   misdrijf omschreven feit hebben gepleegd.<BR><BR>
+...
 
 ### ART 47/1.
 
-De Vlaamse Regering richt Vlaamse detentiecentra op. De Vlaamse Regering bepaalt de maximumcapaciteit van elk Vlaams detentiecentrum.<br>
-<br>
-De Vlaamse detentiecentra zijn, tot ze hun maximumcapaciteit bereikt hebben, belast met de tenlasteneming van personen tot maximaal de leeftijd van drieëntwintig jaar tegen wie een uithandengeving is uitgesproken of die veroordeeld zijn tot een gevangenisstraf na een uithandengeving die uitgesproken is door de jeugdrechtbank met toepassing van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade.
+...
 
 ## Afdeling II Private voorzieningen
 
