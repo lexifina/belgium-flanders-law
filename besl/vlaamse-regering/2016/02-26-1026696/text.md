@@ -358,7 +358,215 @@ De   Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de  
 
 ### BIJLAGE
 
-Tabel   1. De tabel, vermeld in artikel 4, tweede lid<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; TEXT-TRANSFORM: none; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>functie</TD>      <TD>barema</TD>      <TD>functiegroep</TD>      <TD>Punten-<BR>waarde<BR></TD></TR>    <TR>      <TD>&nbsp;</TD>      <TD>&nbsp;</TD>      <TD>1 zorggebonden personeel</TD>      <TD><BR></TD></TR>    <TR>      <TD>1</TD>      <TD>L4</TD>      <TD>logistiek personeel klasse 4</TD>      <TD>53,5<BR></TD></TR>    <TR>      <TD>2</TD>      <TD>L4 ond II</TD>      <TD>logistiek onderhoud categorie II</TD>      <TD>53,5<BR></TD></TR>    <TR>      <TD>3</TD>      <TD>L4 ond III</TD>      <TD>logistiek onderhoud categorie III</TD>      <TD>53,5<BR></TD></TR>    <TR>      <TD>4</TD>      <TD>L3 ond IV</TD>      <TD>logistiek onderhoud categorie IV</TD>      <TD>56<BR></TD></TR>    <TR>      <TD>5</TD>      <TD>L2 ond V</TD>      <TD>logistiek onderhoud categorie V</TD>      <TD>61<BR></TD></TR>    <TR>      <TD>6</TD>      <TD>L3a</TD>      <TD>logistiek klasse 3</TD>      <TD>56<BR></TD></TR>    <TR>      <TD>7</TD>      <TD>L3</TD>      <TD>logistiek klasse 3</TD>      <TD>56<BR></TD></TR>    <TR>      <TD>8</TD>      <TD>L2</TD>      <TD>logistiek personeel klasse 2</TD>      <TD>61<BR></TD></TR>    <TR>      <TD>9</TD>      <TD>A2</TD>      <TD>logistiek personeel klasse 2</TD>      <TD>61<BR></TD></TR>    <TR>      <TD>10</TD>      <TD>A1</TD>      <TD>logistiek personeel klasse 1</TD>      <TD>71<BR></TD></TR>    <TR>      <TD>11</TD>      <TD>MV2</TD>      <TD>verzorgend personeel</TD>      <TD>67<BR></TD></TR>    <TR>      <TD>12</TD>      <TD>B3</TD>      <TD>begeleidend-verzorgend klasse 3</TD>      <TD>57,5<BR></TD></TR>    <TR>      <TD>13</TD>      <TD>B2B</TD>      <TD>begeleidend-verzorgend klasse 2B</TD>      <TD>61<BR></TD></TR>    <TR>      <TD>14</TD>      <TD>B2A</TD>      <TD>begeleidend-verzorgend klasse 2A</TD>      <TD>63,5<BR></TD></TR>    <TR>      <TD>15</TD>      <TD>B1C</TD>      <TD>opvoedend personeel klasse 1</TD>      <TD>71<BR></TD></TR>    <TR>      <TD>16</TD>      <TD>B1b</TD>      <TD>hoofdopvoeder</TD>      <TD>79<BR></TD></TR>    <TR>      <TD>17</TD>      <TD>B1A</TD>      <TD>opvoeder groepschef</TD>      <TD>86<BR></TD></TR>    <TR>      <TD>18</TD>      <TD>MV1</TD>      <TD>sociaal paramedisch en therapeutisch personeel</TD>      <TD>71<BR></TD></TR>    <TR>      <TD>19</TD>      <TD>B1b</TD>      <TD>diensthoofd sociaal paramedisch of therapeutisch personeel</TD>      <TD>79<BR></TD></TR>    <TR>      <TD>20</TD>      <TD>B1A</TD>      <TD>coördinator sociaal paramedisch of therapeutisch personeel</TD>      <TD>86<BR></TD></TR>    <TR>      <TD>21</TD>      <TD>L1</TD>      <TD>licentiaten</TD>      <TD>90<BR></TD></TR>    <TR>      <TD>22</TD>      <TD>G1</TD>      <TD>geneesheer omnipracticus</TD>      <TD>108<BR></TD></TR>    <TR>      <TD>23</TD>      <TD>GS</TD>      <TD>geneesheer specialist</TD>      <TD>143,5<BR></TD></TR>    <TR>      <TD>24</TD>      <TD>B2B</TD>      <TD>adl-assistent</TD>      <TD>61<BR></TD></TR></TBODY></TABLE><BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; TEXT-TRANSFORM: none; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>Barema</TD>      <TD>functiegroep</TD>      <TD>Punten-<BR>waarde<BR></TD></TR>    <TR>      <TD>&nbsp;</TD>      <TD>&nbsp;2 organisatiegebonden personeel</TD>      <TD><BR></TD></TR>    <TR>      <TD>L4</TD>      <TD>logistiek personeel klasse 4</TD>      <TD>53,5<BR></TD></TR>    <TR>      <TD>L4 ond II</TD>      <TD>logistiek onderhoud categorie II</TD>      <TD>53,5<BR></TD></TR>    <TR>      <TD>L4 ond III</TD>      <TD>logistiek onderhoud categorie III</TD>      <TD>53,5<BR></TD></TR>    <TR>      <TD>L3 ond IV</TD>      <TD>logistiek onderhoud categorie IV</TD>      <TD>56 waardewaardewaarde<BR></TD></TR>    <TR>      <TD>L2 ond V</TD>      <TD>logistiek onderhoud categorie V</TD>      <TD>61<BR></TD></TR>    <TR>      <TD>L3a</TD>      <TD>logistiek klasse 3</TD>      <TD>56<BR></TD></TR>    <TR>      <TD>L3</TD>      <TD>logistiek klasse 3</TD>      <TD>56<BR></TD></TR>    <TR>      <TD>L2</TD>      <TD>logistiek personeel klasse 2</TD>      <TD>61<BR></TD></TR>    <TR>      <TD>A2</TD>      <TD>logistiek personeel klasse 2</TD>      <TD>61<BR></TD></TR>    <TR>      <TD>A1</TD>      <TD>logistiek personeel klasse 1</TD>      <TD>71 waardewaarde<BR></TD></TR>    <TR>      <TD>A1</TD>      <TD>administratie klasse 1</TD>      <TD>71<BR></TD></TR>    <TR>      <TD>A2</TD>      <TD>administratie klasse 2</TD>      <TD>61<BR></TD></TR>    <TR>      <TD>A2 boekh kl II</TD>      <TD>administratief personeel boekhouder klasse II</TD>      <TD>61,5<BR></TD></TR>    <TR>      <TD>A3</TD>      <TD>administratief personeel klasse III</TD>      <TD>56<BR></TD></TR>    <TR>      <TD>K5</TD>      <TD>onderdirecteur</TD>      <TD>90 waardewaarde<BR></TD></TR>    <TR>      <TD>K3</TD>      <TD>directeur 30-59 bedden</TD>      <TD>93,5 waardewaarde<BR></TD></TR>    <TR>      <TD>K2</TD>      <TD>directeur 60-89 bedden</TD>      <TD>96,5<BR></TD></TR>    <TR>      <TD>K1</TD>      <TD>directeur +90 bedden</TD>      <TD>100<BR></TD></TR></TBODY></TABLE><BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Tabel   2. Vorken per ondersteuningsfunctie. De tabel, vermeld in artikel 35, derde   lid<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; TEXT-TRANSFORM: none; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>ondersteuningsfunctie<BR></TD></TR>    <TR>      <TD>begeleiding<BR></TD></TR>    <TR>      <TD>schoolaanvullende dagopvang<BR>2-4 dagen per maand<BR>2-3 dagen per         week<BR>4-5 dagen per week<BR>6-7 dagen per week<BR></TD></TR>    <TR>      <TD>schoolvervangende dagopvang<BR>2-4 dagen per maand<BR>2-3 dagen per         week<BR>4-5 dagen per week<BR>6-7 dagen per week<BR></TD></TR>    <TR>      <TD>verblijf<BR>2-4 nachten per maand<BR>2-3 nachten per week<BR>4-5         nachten per week<BR>6-7 nachten per week<BR></TD></TR></TBODY></TABLE><BR   class=Apple-interchange-newline>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Tabel 1. De tabel, vermeld in artikel 4, tweede lid</span></span></span><br>
+&nbsp;
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>barema</td>
+			<td>functiecode</td>
+			<td>Functiegroep</td>
+			<td>puntenwaarde</td>
+		</tr>
+		<tr>
+			<td>barema 1</td>
+			<td>L4</td>
+			<td>logistiek personeel klasse 4</td>
+			<td>53,5</td>
+		</tr>
+		<tr>
+			<td>barema 2</td>
+			<td>L4 ond II</td>
+			<td>logistiek personeel onderhoud cat. II</td>
+			<td>53,5</td>
+		</tr>
+		<tr>
+			<td>barema 3</td>
+			<td>L4 ond III</td>
+			<td>logistiek personeel onderhoud cat. III</td>
+			<td>53,5</td>
+		</tr>
+		<tr>
+			<td>barema 4</td>
+			<td>L3 ond IV</td>
+			<td>logistiek personeel onderhoud cat. IV</td>
+			<td>56</td>
+		</tr>
+		<tr>
+			<td>barema 5</td>
+			<td>L2 ond V</td>
+			<td>logistiek personeel onderhoud cat. V</td>
+			<td>61</td>
+		</tr>
+		<tr>
+			<td>barema 6</td>
+			<td>L3a</td>
+			<td>logistiek personeel klasse 3 (in dienst voor 1/11/93)</td>
+			<td>56</td>
+		</tr>
+		<tr>
+			<td>barema 7</td>
+			<td>L3</td>
+			<td>logistiek personeel klasse 3 (in dienst na 1/11/93)</td>
+			<td>56</td>
+		</tr>
+		<tr>
+			<td>barema 8</td>
+			<td>L2</td>
+			<td>logistiek personeel klasse 2</td>
+			<td>61</td>
+		</tr>
+		<tr>
+			<td>barema 9</td>
+			<td>A1</td>
+			<td>administratief + logistiek personeel klasse 1</td>
+			<td>71</td>
+		</tr>
+		<tr>
+			<td>barema 10</td>
+			<td>A2</td>
+			<td>administratief + logistiek personeel klasse 2</td>
+			<td>61</td>
+		</tr>
+		<tr>
+			<td>barema 11</td>
+			<td>A2 boekh Kl II</td>
+			<td>administratief personeel boekhouder klasse II</td>
+			<td>61,5</td>
+		</tr>
+		<tr>
+			<td>barema 13</td>
+			<td>MV2</td>
+			<td>verzorgend personeel</td>
+			<td>67</td>
+		</tr>
+		<tr>
+			<td>barema 15</td>
+			<td>B2B</td>
+			<td>begeleidend en verzorgend personeel klasse 2B</td>
+			<td>61</td>
+		</tr>
+		<tr>
+			<td>barema 16</td>
+			<td>B2A</td>
+			<td>begeleidend en verzorgend personeel klasse 2A</td>
+			<td>63,5</td>
+		</tr>
+		<tr>
+			<td>barema 17</td>
+			<td>B1c</td>
+			<td>opvoedend personeel klasse 1</td>
+			<td>71</td>
+		</tr>
+		<tr>
+			<td>barema 18</td>
+			<td>B1b</td>
+			<td>hoofdopvoeder</td>
+			<td>79</td>
+		</tr>
+		<tr>
+			<td>barema 19</td>
+			<td>B1a</td>
+			<td>ondersteunend kaderpersoneel</td>
+			<td>86</td>
+		</tr>
+		<tr>
+			<td>barema 19-BIS</td>
+			<td>B1a BIS</td>
+			<td>opvoeder-groepschef-BIS</td>
+			<td>89</td>
+		</tr>
+		<tr>
+			<td>barema 20</td>
+			<td>MV1</td>
+			<td>sociaal paramedisch en therapeutisch personeel</td>
+			<td>71</td>
+		</tr>
+		<tr>
+			<td>barema 21</td>
+			<td>L1</td>
+			<td>licentiaten en tandarts</td>
+			<td>90</td>
+		</tr>
+		<tr>
+			<td>barema 22</td>
+			<td>K5</td>
+			<td>onderdirecteur</td>
+			<td>90</td>
+		</tr>
+		<tr>
+			<td>barema 23</td>
+			<td>K3</td>
+			<td>directeur 30-59 bedden</td>
+			<td>93,5</td>
+		</tr>
+		<tr>
+			<td>barema 24</td>
+			<td>K2</td>
+			<td>directeur 60-89 bedden</td>
+			<td>96,5</td>
+		</tr>
+		<tr>
+			<td>barema 25</td>
+			<td>K1</td>
+			<td>directeur meer dan 90 bedden</td>
+			<td>100</td>
+		</tr>
+		<tr>
+			<td>barema 26</td>
+			<td>G1</td>
+			<td>geneesheer-omnipracticus</td>
+			<td>108</td>
+		</tr>
+		<tr>
+			<td>barema 27</td>
+			<td>GS</td>
+			<td>geneesheer-specialist</td>
+			<td>143,5</td>
+		</tr>
+		<tr>
+			<td>barema 28</td>
+			<td>B2B</td>
+			<td>ADL-assistent</td>
+			<td>61</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<br>
+Tabel 2. Vorken per ondersteuningsfunctie. De tabel, vermeld in artikel 35, derde lid
+<table border="1" style="-webkit-text-stroke-width:0px; font-family:'Times New Roman'; letter-spacing:normal; text-indent:0px; text-transform:none; widows:1; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>ondersteuningsfunctie</td>
+		</tr>
+		<tr>
+			<td>begeleiding</td>
+		</tr>
+		<tr>
+			<td>schoolaanvullende dagopvang<br>
+			2-4 dagen per maand<br>
+			2-3 dagen per week<br>
+			4-5 dagen per week<br>
+			6-7 dagen per week</td>
+		</tr>
+		<tr>
+			<td>schoolvervangende dagopvang<br>
+			2-4 dagen per maand<br>
+			2-3 dagen per week<br>
+			4-5 dagen per week<br>
+			6-7 dagen per week</td>
+		</tr>
+		<tr>
+			<td>verblijf<br>
+			2-4 nachten per maand<br>
+			2-3 nachten per week<br>
+			4-5 nachten per week<br>
+			6-7 nachten per week</td>
+		</tr>
+	</tbody>
+</table>
 
 ### BIJLAGE 2
 
