@@ -106,6 +106,21 @@ In artikel 63 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Re
 <br>
 3° het woord "eenmaal" wordt vervangen door het woord "tweemaal".
 
+### ART 18.
+
+In artikel 64 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 september 2011 en gewijzigd bij het besluit van de Vlaamse Regering van 9 september 2016, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 1, eerste lid, worden de woorden "of halftijdse" vervangen door de zinsnede ", halftijdse of 1/5";<br>
+<br>
+2° in paragraaf 1, tweede en derde lid, wordt tussen het woord "halftijdse" en het woord "loopbaanonderbreking" telkens de zinsnede " of 1/5" ingevoegd;<br>
+<br>
+3° in paragraaf 2, eerste lid, worden de woorden "en halftijdse" vervangen door de zinsnede ", halftijdse of 1/5";<br>
+<br>
+4° in paragraaf 2, eerste lid, wordt tussen het woord "loopbaanonderbreking" en de woorden "Het equivalent" de zinsnede "en vijf maanden 1/5 loopbaanonderbreking" ingevoegd;<br>
+<br>
+5° in paragraaf 3 worden de woorden "of halftijdse" vervangen door de zinsnede ", halftijdse en 1/5".<br>
+&nbsp;
+
 ### ART 21.
 
 Artikel 81/2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 18 juni 2010, wordt vervangen door wat volgt:<br>
@@ -269,3 +284,17 @@ In artikel 29 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Re
 2° de woorden " en halftijdse" worden vervangen door de zinsnede ", halftijdse of 1/5";<br>
 <br>
 3° het woord "eenmaal" wordt vervangen door het woord "tweemaal".
+
+### ART 44.
+
+In artikel 30 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 september 2011 en gewijzigd bij het besluit van de Vlaamse Regering van 9 september 2016, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 1, eerste lid, worden de woorden "of halftijdse" vervangen door de zinsnede ", halftijdse of 1/5";<br>
+<br>
+2° in paragraaf 1, tweede en derde lid, wordt tussen het woord "halftijdse" en het woord "loopbaanonderbreking" telkens de zinsnede " of 1/5" ingevoegd;<br>
+<br>
+3° in paragraaf 2, eerste lid, worden de woorden "en halftijdse " vervangen door de zinsnede ", halftijdse en 1/5";<br>
+<br>
+4° in paragraaf 2, eerste lid, wordt tussen het woord "loopbaanonderbreking" en het woord "Daarbij" de zinsnede " en vijf maanden 1/5 loopbaanonderbreking" ingevoegd;<br>
+<br>
+5° in paragraaf 3 worden de woorden "of halftijdse" vervangen door de zinsnede ", halftijdse en 1/5".
