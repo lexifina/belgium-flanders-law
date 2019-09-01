@@ -400,19 +400,19 @@ De arrondissementscommissaris kan voor een kind geen ouderschapsverlof in de vor
 
 ### ART. 63.
 
-De arrondissementscommissaris heeft recht op voltijdse of halftijdse loopbaanonderbreking om palliatieve verzorging te verstrekken. De duur van de voltijdse en halftijdse loopbaanonderbreking om palliatieve verzorging te verstrekken bedraagt één maand, eenmaal verlengbaar met één maand. Bij verlenging met een maand kan de opnamevorm worden gewijzigd.
+De arrondissementscommissaris heeft recht op voltijdse, halftijdse of 1/5&nbsp; loopbaanonderbreking om palliatieve verzorging te verstrekken. De duur van de voltijdse, halftijdse of 1/5&nbsp; loopbaanonderbreking om palliatieve verzorging te verstrekken bedraagt één maand, eenmaal verlengbaar met één maand. Bij verlenging met een maand kan de opnamevorm worden gewijzigd.
 
 ## HOOFDSTUK 3 [BIJSTAND AAN OF VERZORGING VAN EEN ZWAAR ZIEK GEZINS- OF FAMILIELID (ver. BVR 9 september 2011, art. 1)]
 
 ### ART. 64.
 
-§ 1. De arrondissementscommissaris heeft recht op voltijdse of halftijdse loopbaanonderbreking voor bijstand aan of verzorging van een zwaar ziek gezins- of familielid.<br>
+§ 1. De arrondissementscommissaris heeft recht op voltijdse, halftijdse of 1/5&nbsp; loopbaanonderbreking voor bijstand aan of verzorging van een zwaar ziek gezins- of familielid.<br>
 <br>
-De maximumduur per patiënt bedraagt voor de voltijdse loopbaanonderbreking 12 maanden en voor de halftijdse loopbaanonderbreking 24 maanden.<br>
+De maximumduur per patiënt bedraagt voor de voltijdse loopbaanonderbreking 12 maanden en voor de halftijdse of 1/5&nbsp;loopbaanonderbreking 24 maanden.<br>
 <br>
-Als de arrondissementscommissaris uitsluitend en effectief samenwoont met minstens één kind en het verlof opneemt voor de bijstand aan een zwaar ziek kind van hoogstens 16 jaar, dan bedraagt de maximumduur van de voltijdse loopbaanonderbreking evenwel 24 maanden, en van de halftijdse loopbaanonderbreking 48 maanden.<br>
+Als de arrondissementscommissaris uitsluitend en effectief samenwoont met minstens één kind en het verlof opneemt voor de bijstand aan een zwaar ziek kind van hoogstens 16 jaar, dan bedraagt de maximumduur van de voltijdse loopbaanonderbreking evenwel 24 maanden, en van de halftijdse of 1/5&nbsp;loopbaanonderbreking 48 maanden.<br>
 <br>
-§ 2. De voltijdse en halftijdse loopbaanonderbreking voor de bijstand aan of de verzorging van een zwaar ziek gezins- of familielid kan worden genomen in al dan niet opeenvolgende perioden van minimaal één en maximaal drie maanden. De arrondissementscommissaris kan, bij elke nieuwe periode van loopbaanonderbreking voor de bijstand aan of de verzorging van een zwaar ziek gezins- of familielid veranderen van opnamevorm, overeenkomstig het principe dat één maand voltijdse loopbaanonderbreking gelijkstaat met twee maanden halftijdse loopbaanonderbreking. Het equivalent van, naargelang van het geval, 12 of 24 maanden voltijdse loopbaanonderbreking mag evenwel niet worden overschreden.<br>
+§ 2. De voltijdse, halftijdse of 1/5 loopbaanonderbreking voor de bijstand aan of de verzorging van een zwaar ziek gezins- of familielid kan worden genomen in al dan niet opeenvolgende perioden van minimaal één en maximaal drie maanden. De arrondissementscommissaris kan, bij elke nieuwe periode van loopbaanonderbreking voor de bijstand aan of de verzorging van een zwaar ziek gezins- of familielid veranderen van opnamevorm, overeenkomstig het principe dat één maand voltijdse loopbaanonderbreking gelijkstaat met twee maanden halftijdse loopbaanonderbreking en vijf maanden 1/5 loopbaanonderbreking. Het equivalent van, naargelang van het geval, 12 of 24 maanden voltijdse loopbaanonderbreking mag evenwel niet worden overschreden.<br>
 <br>
 In afwijking van het eerste lid kan een arrondissementscommissaris voor de bijstand of de verzorging van een minderjarig kind, tijdens of vlak na de ziekenhuisopname van het kind als gevolg van een zware ziekte, gedurende een week voltijdse loopbaanonderbreking opnemen, eventueel verlengbaar met een week.<br>
 <br>
@@ -428,7 +428,7 @@ Als de arrondissementscommissarissen, vermeld in het vierde lid, niet kunnen geb
 <br>
 De arrondissementscommissaris die de verlengingsmogelijkheid, vermeld in het tweede lid, heeft uitgeput, kan zijn voltijdse medische-bijstandsverlof nog uitbreiden tot een maand door ook voor de tussenliggende periode voltijds medische-bijstandsverlof te nemen.<br>
 <br>
-§ 3. Het equivalent van de 12 of 24 maanden voltijdse loopbaanonderbreking wordt verminderd met de duur van de voltijdse of halftijdse loopbaanonderbrekingen die de arrondissementscommissaris in om het even welke hoedanigheid bij dezelfde of een andere werkgever voor dezelfde patiënt heeft genoten.
+§ 3. Het equivalent van de 12 of 24 maanden voltijdse loopbaanonderbreking wordt verminderd met de duur van de voltijdse, halftijdse en 1/5&nbsp; loopbaanonderbrekingen die de arrondissementscommissaris in om het even welke hoedanigheid bij dezelfde of een andere werkgever voor dezelfde patiënt heeft genoten.
 
 ## HOOFDSTUK 4 [OUDERSCHAPSVERLOF (verv. BVR 9 september 2011, art. 1)]
 
