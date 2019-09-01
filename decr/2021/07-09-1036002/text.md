@@ -40,6 +40,14 @@ b) een niet-begeleide minderjarige vreemdeling voor wie de voorwaarden, vermeld 
 
 ## HOOFDSTUK 13. Wijzigingen van het decreet van 20 juni 2008 houdende het statuut van de Universiteit Hasselt en de Hoge Raad voor het Hoger Onderwijs in Limburg
 
+### ART 134.
+
+In artikel 6, tweede lid, van het decreet van 20 juni 2008 houdende het statuut van de Universiteit Hasselt en de Hoge Raad voor het Hoger Onderwijs in Limburg wordt de zinsnede ", de regeringscommissaris en de Inspecteur van Financiën" vervangen door de woorden "en de regeringscommissaris".
+
+### ART 135.
+
+In artikel 20, derde lid, van hetzelfde decreet wordt de zinsnede ", de regeringscommissaris en de Inspecteur van Financiën" vervangen door de woorden "en de regeringscommissaris".
+
 ## HOOFDSTUK 14. Wijziging van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap
 
 ## HOOFDSTUK 15. Wijzigingen van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs
@@ -61,6 +69,24 @@ a) een leerling die beschikt over een jeugdhulpverleningsbeslissing als vermeld 
 b) een niet-begeleide minderjarige vreemdeling voor wie de voorwaarden, vermeld in de Programmawet (I) van 24 december 2002, titel XIII, hoofdstuk VI, afdeling 3, artikel 5, vervuld zijn;".
 
 ## HOOFDSTUK 17. Wijzigingen van de Codex Hoger Onderwijs van 11 oktober 2013
+
+### ART 224.
+
+In artikel IV.13, tweede lid, van dezelfde codex, vervangen bij het decreet van 21 maart 2014, worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "De regeringscommissaris en de afgevaardigde van financiën bezorgen hun analyse" worden vervangen door de woorden "De regeringscommissaris bezorgt een analyse";<br>
+2° de woorden "Als de regeringscommissaris en de afgevaardigde van financiën vaststellen" worden vervangen door de woorden "Als de regeringscommissaris vaststelt".
+
+### ART 225.
+
+In artikel IV.17 van dezelfde codex, vervangen bij het decreet van 21 maart 2014, wordt het eerste lid vervangen door wat volgt:<br>
+<br>
+"Als de Vlaamse Regering op basis van het advies en de analyse van de regeringscommissaris de begroting niet kan goedkeuren omdat ze van oordeel is dat die begroting strijdig is met bepalingen die bij of krachtens de wet of decreet zijn vastgesteld of het financieel evenwicht van de universiteit in gevaar brengt, brengt ze binnen dertig dagen na de dag waarop ze het advies van de regeringscommissaris heeft ontvangen de instelling daarvan op de hoogte en brengt ze de instelling op de hoogte van haar bezwaren.".
+
+### ART 226.
+
+In artikel IV.83, § 4, van dezelfde codex, gewijzigd bij het decreet van 16 juni 2017, wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+"Voor de universiteiten wordt de goedkeuring, vermeld in het eerste lid, beschouwd als verworven als de bevoegde regeringscommissaris in de analyse van de jaarrekening, rekening houdend met alle relevante informatie, een gunstig advies uitbrengt.".
 
 ## HOOFDSTUK 18. Wijzigingen van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016
 
