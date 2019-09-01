@@ -2,16 +2,16 @@
   "codex_id": 1028976,
   "title": "Besluit van de Vlaamse Regering van 2017-12-22 tot wijziging van de toelatingsvoorwaarden voor het volwassenenonderwijs, de indeling van studiegebieden in opleidingen van het secundair volwassenenonderwijs en van de regelgeving betreffende de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied bibliotheek-, archief- en documentatiekunde",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028976/VolledigDocument?datum=2017-12-01",
-  "source_sha256": "e0c8371bc8b468f83f30c5f7f45da7eea98098e7e33bc3b9c1f452a36badd9d9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028976/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "ba72b21f36d9cee2f54737141142b95933e53a6dc81774a7ab654cf3e9d5090f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028976&param=informatie",
-  "as_of": "2017-12-01",
+  "as_of": "2019-09-01",
   "made": "2017-12-22",
   "gazette": "2018-02-05",
   "numac": 2018010354,
   "document_start": "2017-12-01",
   "document_end": null,
-  "in_force": "2017-12-01",
-  "article_versions": 13,
-  "record_form": "consolidated version as in force on 2017-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-09-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
 }

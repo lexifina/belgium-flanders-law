@@ -63,6 +63,10 @@ In hetzelfde besluit worden de volgende artikelen opgeheven:<br>
 1° artikel 3, gewijzigd bij het besluit van de Vlaamse Regering van 27 april 2012;<br>
 2° artikel 4 tot en met 6.
 
+### ART 8.
+
+Bijlage I bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 27 april 2012, wordt opgeheven.
+
 ### ART 9.
 
 Aan hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 27 april 2012, wordt een bijlage IV toegevoegd, die als bijlage 2 bij dit besluit is gevoegd.
