@@ -49,6 +49,16 @@ In artikel 16 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<
 4° het derde lid wordt vervangen door wat volgt:<br>
 "De subsidieaanvraag moet uiterlijk tien dagen voor de aanvang van het sportkamp vervolledigd worden met het gedetailleerde programma.".
 
+### ART 4.
+
+In artikel 17 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid, 1°, wordt de zin "het jaarlijks beschikbare krediet wordt in eerste instantie toegekend naar rato van het aantal subsidieerbare deelnemers uit kansengroepen die inschrijven op basis van een voor hen bepaald gunstiger inschrijvingsgeld, waarbij per deelnemer uit een kansengroep een deelnemerssubsidie van 50 euro wordt toegekend." vervangen door de zinnen "het jaarlijks beschikbare krediet wordt in eerste instantie toegekend naar rato van het aantal subsidieerbare deelnemers uit kansengroepen. De sportfederatie toont in dat geval in haar subsidieaanvraag aan dat ze een effectief kansengroepenbeleid voert door de wijze waarop ze actief communiceert naar de kansengroepen en door de bijkomende begeleidende initiatieven voor kansengroepen toe te lichten. Als aan die voorwaarden is voldaan, wordt per deelnemer uit een kansengroep een deelnemerssubsidie van 50 euro toegekend.";<br>
+<br>
+2° aan het eerste lid, 3°, wordt de zinsnede ", met een maximum 50 euro per gesubsidieerde deelnemer uit kansengroepen" toegevoegd;<br>
+<br>
+3° in het tweede lid wordt tussen het woord "kansengroepen" en het woord "in" de woorden "in het kader van de beleidsfocus sportkampen" ingevoegd.
+
 ### ART 5.
 
 Dit besluit treedt in werking op 18 juli 2018, met uitzondering van de artikelen 3, 1°, 3° en 4° en 4, die in werking treden op 1 september 2019.

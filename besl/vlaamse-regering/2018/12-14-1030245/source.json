@@ -2,16 +2,16 @@
   "codex_id": 1030245,
   "title": "Besluit van de Vlaamse Regering van 2018-12-14 tot wijziging van het besluit van 16 september 2016 van de Vlaamse Regering betreffende de uitvoering van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector inzake de vaststelling van de voorwaarden om een subsidie te verkrijgen voor de uitvoering van de beleidsfocussen jeugdsport, laagdrempelig sportaanbod, innovatie en sportkampen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030245/VolledigDocument?datum=2018-07-18",
-  "source_sha256": "fbe33d0bf79f9e0216c8288428931564af803dc8ca0720cd0b59cf7d8d5bdf07",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030245/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "3c6a2e6ff17bb1c87976ce457fc21e60964fe2137fb5312765a11e859d2dcf40",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030245&param=informatie",
-  "as_of": "2018-07-18",
+  "as_of": "2019-09-01",
   "made": "2018-12-14",
   "gazette": "2019-02-11",
   "numac": 2019040127,
   "document_start": "2018-07-18",
   "document_end": null,
-  "in_force": "2018-07-18",
-  "article_versions": 6,
-  "record_form": "consolidated version as in force on 2018-07-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
 }
