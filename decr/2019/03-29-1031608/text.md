@@ -18,6 +18,10 @@ De Vlaamse Regering bepaalt:<br>
 3° de registratievoorwaarden en -procedure voor de opleidingsverstrekkers;<br>
 4° de aankoop- en inleveringsprocedure van de opleidingscheque en de overige nadere voorwaarden en nadere regels.
 
+### ART 3.
+
+Het toezicht en de controle op de uitvoering van artikel 2 van dit decreet en de uitvoeringsbesluiten ervan verlopen overeenkomstig het decreet van 30 april 2004 houdende sociaalrechtelijk toezicht.
+
 ## HOOFDSTUK 3. Wijziging van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen
 
 ### ART 4.
