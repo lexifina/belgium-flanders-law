@@ -310,7 +310,7 @@ c) de module, vermeld in de volgende linkerkolom ambtshalve geconcordeerd naar d
 
 ### BIJLAGE VI.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/20_1.pdf#page=1147">Bijlage VI</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/20_1.pdf#page=1157">Bijlage VI</a>
 
 ### BIJLAGE VII
 
