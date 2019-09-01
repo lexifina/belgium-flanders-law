@@ -546,6 +546,16 @@ Aan artikel 8 van het decreet van 30 april 2009 betreffende de kwalificatiestruc
 <br>
 "Deelkwalificaties zijn samenhangende gehelen van competenties uit eenzelfde beroepskwalificatie die uitstroomkansen bieden in een smaller deel van de arbeidsmarkt dan de volledige beroepskwalificatie. Deelkwalificaties worden afgebakend tijdens de opmaak van een beroepskwalificatie en hebben geen eigen inschalingsniveau.".
 
+### ART 69.
+
+In artikel 14, eerste lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° de woorden "of erkende beroepskwalificaties" worden vervangen door de woorden "erkende beroepskwalificaties of deelkwalificaties";<br>
+<br>
+2° aan punt 2°, b), worden de woorden "of deelkwalificaties" toegevoegd;<br>
+<br>
+3° aan de punten 3°, a), en 4°, d), e), f), g) en h), worden telkens de woorden "al dan niet aangevuld met één of meer deelkwalificaties" toegevoegd.
+
 ## HOOFDSTUK 13. Wijzigingen van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs
 
 ### ART 70.
