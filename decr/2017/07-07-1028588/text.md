@@ -208,11 +208,11 @@ Een personeelslid voldoet aan de taalvereisten voor de onderwijstaal als zijn aa
 
 Een personeelslid dat niet in het bezit is van een bekwaamheidsbewijs als vermeld in artikel 28, moet met betrekking tot de taalvereisten voor de onderwijstaal voldoen aan de voorwaarden, vermeld in het tweede tot en met het vierde lid.<br>
 <br>
-Een personeelslid dat behoort tot het bestuurs-, onderwijzend en ondersteunend personeel, beheerst de onderwijstaal minstens op niveau C1 van het Gemeenschappelijk Europees Referentiekader voor Talen.<br>
+Een personeelslid dat aangesteld is in het ambt van directeur, adjunct-directeur, stafmedewerker of leraar basiseducatie, beheerst de onderwijstaal minstens op niveau C1 van het Gemeenschappelijk Europees Referentiekader voor Talen.<br>
 <br>
-Een personeelslid dat behoort tot een andere personeelscategorie dan de personeelscategorie, vermeld in het tweede lid, beheerst de onderwijstaal minstens op niveau B2 van het Gemeenschappelijk Europees Referentiekader voor Talen.<br>
+Een personeelslid dat aangesteld is in het ambt van beleidsondersteunend administratief medewerker, uitvoerend administratief medewerker of ervaringsdeskundige in de armoede en sociale uitsluiting, beheerst de onderwijstaal minstens op niveau B2 van het Gemeenschappelijk Europees Referentiekader voor Talen.<br>
 <br>
-In afwijking van het tweede lid beheerst een personeelslid dat behoort tot het bestuurs- en onderwijzend personeel en dat uitsluitend een of meer levende vreemde talen onderwijst, de onderwijstaal minstens op niveau B2 van het Gemeenschappelijk Europees Referentiekader voor Talen.
+In afwijking van het tweede lid beheerst een personeelslid aangesteld in het ambt van leraar basiseducatie en dat uitsluitend een of meer levende vreemde talen onderwijst, de onderwijstaal minstens op niveau B2 van het Gemeenschappelijk Europees Referentiekader voor Talen.
 
 ### ART 30.
 
@@ -630,7 +630,7 @@ De financiële bijdrage, vermeld in het eerste lid, wordt uitsluitend gevraagd a
 3° de projecten waarbij er een vervanging is door gesubsidieerde contractuelen, die door het Departement Onderwijs en Vorming worden bezoldigd, of door de personeelsleden, vermeld in artikel V.16 van het besluit van de Vlaamse Regering van 28 oktober 2016 betreffende codificatie sommige bepalingen voor het onderwijs;<br>
 4° een opdracht in de vereniging die de rijdende kleuterschool Vlaanderen organiseert conform artikel 168 en 169 van het decreet van 25 februari 1997 basisonderwijs;<br>
 5° de functie van secretaris van een reaffectatiecommissie;<br>
-6° de examencommissies van de Vlaamse Gemeenschap;<br>
+6° ...;<br>
 7° de projecten die deel uitmaken van door de Vlaamse Gemeenschap onderschreven Europese en bilaterale uitwisselingsprojecten;<br>
 8° de door de Europese Unie ondersteunde Europese onderwijsprojecten;<br>
 9° de begeleiding en ondersteuning van de inspraakstructuren in het onderwijs;<br>
