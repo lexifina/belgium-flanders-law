@@ -69,6 +69,7 @@ i) private actoren, enkel voor CBO-oproepen;<br>
 14° intergemeentelijk project lokaal woonbeleid : een project waaraan een subsidie wordt verleend met toepassing van een van de volgende besluiten :<br>
 a) het besluit van de Vlaamse Regering van 21 september 2007 houdende subsidiëring van projecten ter ondersteuning van het lokaal woonbeleid, zoals van kracht vóór de inwerkingtreding van het besluit, vermeld in b);<br>
 b) het besluit van de Vlaamse Regering van 8 juli 2016 houdende subsidiëring van intergemeentelijke projecten ter ondersteuning van het lokaal woonbeleid;<br>
+c) het besluit van de Vlaamse Regering van 16 november 2018 over het lokaal woonbeleid;<br>
 15° investeringsverrichting : een verrichting als vermeld in punt 28°, d);<br>
 16° jaarbudget : het investeringsvolume dat voor een bepaald begrotingsjaar kan worden ingezet, conform artikel 4, tweede lid, te verdelen over de financieringswijzen, vermeld in punt 9° ;<br>
 17° kortetermijnplanning : de planning van verrichtingen waarvan de uitvoering of plaatsingsprocedure binnen een termijn van vier maanden opgestart kan worden, vermeld in artikel 19;<br>
@@ -108,7 +109,7 @@ Dit besluit wordt aangehaald als : het Procedurebesluit Wonen van 14 juli 2017.
 
 ### ART 3.
 
-§ 1. De normen waaraan sociale woningen en de infrastructuuraanleg voor sociale woonprojecten moeten voldoen, worden vastgesteld onder de vorm van een beveiligd digitaal bestand.<br>
+§ 1. De normen waaraan sociale woningen en bescheiden huurwoningen, en de infrastructuuraanleg voor sociale woonprojecten moeten voldoen, worden vastgesteld onder de vorm van een beveiligd digitaal bestand.<br>
 <br>
 De normen, vermeld in het eerste lid, bevatten :<br>
 1° een inhoudelijke omschrijving en de vereiste dossiersamenstelling voor elk van de volgende ontwerpfasen, zowel van een infrastructuurverrichting als van een bouwverrichting en een investeringsverrichting :<br>
@@ -120,13 +121,15 @@ d) het gunningsdossier;<br>
 3° een simulatietabel om het maximale subsidiabele bedrag voor een investeringsverrichting te bepalen;<br>
 4° het Bouwtechnisch Bestek Woningbouw voor bouwverrichtingen.<br>
 <br>
+Voor een bouw- of investeringsverrichting van sociale koopwoningen of bescheiden huurwoningen, is enkel het Bouwtechnisch Bestek Woningbouw voor bouwverrichtingen, vermeld in het tweede lid, 4°, van toepassing.<br>
+<br>
 De normen zijn te raadplegen op de website van de VMSW, namelijk op http ://www.vmsw.be.<br>
 <br>
 Na advies van de kwaliteitskamer en het Overlegplatform Sociaal Wonen, vermeld in artikel 13 van het besluit van de Vlaamse Regering van 13 januari 2012 tot vaststelling van nadere regels voor de bijdragen van de sociale woonactoren in de financiering van de Vlaamse Maatschappij voor Sociaal Wonen, kan de Vlaamse Regering de simulatietabellen, vermeld in het tweede lid, 2° en 3°, wijzigen.<br>
 <br>
 Na advies van de kwaliteitskamer en het Overlegplatform Sociaal Wonen, vermeld in artikel 13 van het besluit van de Vlaamse Regering van 13 januari 2012 tot vaststelling van nadere regels voor de bijdragen van de sociale woonactoren in de financiering van de Vlaamse Maatschappij voor Sociaal Wonen, kan de minister de omschrijving en dossiersamenstelling, vermeld in het tweede lid, 1°, en het bestek, vermeld in het tweede lid, 4°, wijzigen.<br>
 <br>
-§ 2. De bouwtechnische en conceptuele richtlijnen voor de realisatie en instandhouding van sociale woningen en voor de infrastructuuraanleg voor sociale woonprojecten worden vastgesteld onder de vorm van een beveiligd digitaal bestand. De richtlijnen waarborgen de kwaliteit en het comfort van de woningen op het vlak van veiligheid, gezondheid, energiezuinigheid, milieuvriendelijkheid en bruikbaarheid.<br>
+§ 2. De bouwtechnische en conceptuele richtlijnen voor de realisatie en instandhouding van sociale huurwoningen, en voor de infrastructuuraanleg voor sociale woonprojecten worden vastgesteld onder de vorm van een beveiligd digitaal bestand. De richtlijnen waarborgen de kwaliteit en het comfort van de woningen op het vlak van veiligheid, gezondheid, energiezuinigheid, milieuvriendelijkheid en bruikbaarheid.<br>
 <br>
 De bouwtechnische en conceptuele richtlijnen zijn te raadplegen op de website van de VMSW, namelijk op http ://www.vmsw.be.<br>
 <br>
@@ -207,9 +210,9 @@ Als het advies van de VMSW niet tijdig wordt verleend, wordt de vervangingsbouw 
 ### ART 8.
 
 § 1. Met het oog op hun opname in de Projectenlijst bespreekt de initiatiefnemer de volgende projecten op het lokaal woonoverleg van de gemeente waar ze uitgevoerd worden :<br>
-1° een project dat voorziet in de nieuwbouw van sociale of bescheiden huur- of koopwoningen, met inbegrip van de eventuele aanleg of aanpassing van de wooninfrastructuur;<br>
+1° een project dat voorziet in de nieuwbouw van sociale huur- of koopwoningen of bescheiden huurwoningen, met inbegrip van de eventuele aanleg of aanpassing van de wooninfrastructuur;<br>
 2° een project dat voorziet in een vervangingsbouw of een investeringsverrichting omvat waarvoor een vergunning, een melding of een verhuisbeweging is vereist, met inbegrip van de eventuele aanleg of aanpassing van de wooninfrastructuur, voor elk van de volgende types van onroerende goederen :<br>
-a) eigen sociale of bescheiden huur- of koopwoningen;<br>
+a) eigen sociale huur- of koopwoningen of bescheiden huurwoningen;<br>
 b) verworven bebouwde onroerende goederen;<br>
 3° een project dat voorziet in de verwerving van een of meer goede woningen, met inbegrip van de eventuele aanleg of aanpassing van de wooninfrastructuur.<br>
 <br>
@@ -225,9 +228,10 @@ De gemeente vult de fiche aan met een verslag van de bespreking van het project 
 Voor de bespreking van een project dat enkel voorziet in de verwerving van een of meer goede woningen, met inbegrip van de eventuele aanleg of aanpassing van wooninfrastructuur, vermeld in het eerste lid, 3°, kan de gemeente de sociale woonorganisaties en het OCMW voor overleg samenroepen. Actoren die niet aanwezig kunnen zijn, bezorgen de gemeente hun opmerkingen schriftelijk.<br>
 <br>
 § 2. Op een lokaal woonoverleg worden de volgende zaken meegedeeld :<br>
-1° recente verwervingen van onbebouwde onroerende goederen met het oog op de realisatie van sociale of bescheiden huur- of koopwoningen;<br>
+1° recente verwervingen van onbebouwde onroerende goederen met het oog op de realisatie van sociale huur- of koopwoningen of bescheiden huurwoningen;<br>
 2° recente verwervingen van andere bebouwde onroerende goederen dan goede woningen;<br>
-3° een overzicht van de recent verkochte sociale of bescheiden huurwoningen en van de geplande verkopen van sociale of bescheiden huurwoningen.<br>
+3° een overzicht van de recent verkochte sociale of bescheiden huurwoningen en van de geplande verkopen van sociale of bescheiden huurwoningen;<br>
+4° de omzetting van sociale koopwoningen naar sociale huurwoningen.<br>
 <br>
 § 3. Minstens eenmaal per jaar worden de lokale woonbehoeften en de lijsten van de kandidaat-huurders voor een sociale of bescheiden huurwoning in de gemeente op het lokaal woonoverleg besproken.
 
@@ -247,7 +251,7 @@ Voor de volgende categorieën van projecten neemt de gemeente een beslissing ove
 Voor de volgende categorieën van projecten neemt de gemeente een beslissing over de aangelegenheden, vermeld in het eerste lid, 1° en 3° :<br>
 1° een project dat voorziet in de vervangingsbouw van sociale huurwoningen zonder dat er sprake is van een toename met meer dan 20% ten opzichte van het huidige aantal sociale huurwoningen op projectniveau;<br>
 2° een project dat een investeringsverrichting omvat waarvoor een vergunning, een melding of een verhuisbeweging is vereist zonder dat er sprake is van een toename met meer dan 20% ten opzichte van het huidige aantal sociale huurwoningen op projectniveau;<br>
-3° een project dat alleen voorziet in de realisatie of de instandhouding van sociale koopwoningen of - kavels of van bescheiden huur- of koopwoningen of kavels, met inbegrip van de eventuele aanleg of aanpassing van de wooninfrastructuur.<br>
+3° een project dat alleen voorziet in de realisatie of de instandhouding van sociale koopwoningen of - kavels of van bescheiden huurwoningen, met inbegrip van de eventuele aanleg of aanpassing van de wooninfrastructuur.<br>
 <br>
 Binnen een termijn van dertig kalenderdagen die ingaat op de dag na de bespreking van het project op het lokaal woonoverleg, vermeld in het eerste lid, neemt de gemeente een beslissing. De gemeente voert haar beslissing, samen met de aangevulde fiche, vermeld in artikel 8, § 1, vierde lid, in het Projectportaal in en brengt de initiatiefnemer op de hoogte.<br>
 <br>
@@ -310,7 +314,7 @@ c) een conventioneel recht van voorkoop of recht van wederinkoop, op voorwaarde 
 4° de opmaak van een stedenbouwkundige studie;<br>
 5° de erelonen, als de VMSW optreedt als aanbestedende of medeaanbestedende overheid van een infrastructuurverrichting;<br>
 6° dringende werkzaamheden aan bestaande constructies ten gevolge van niet te voorziene omstandigheden, na een aanvraag van de initiatiefnemer;<br>
-7° de verrichtingen die volledig gefinancierd worden op de wijze, vermeld in artikel 1, 9°, g), uitgezonderd de nieuwbouw of vervangingsbouw van sociale koopwoningen.<br>
+7° de verrichtingen die volledig gefinancierd worden op de wijze, vermeld in artikel 1, 9°, g).<br>
 <br>
 De volgende verrichtingen en deelverrichtingen doorlopen alleen de fase van de toewijzing van middelen op een jaarbudget, vermeld in onderafdeling 4, op voorwaarde dat ze deel uitmaken van een project waarvan de verrichtingen principieel vatbaar zijn voor programmatie :<br>
 1° de verwerving van onbebouwde onroerende goederen en van andere bebouwde onroerende goederen dan goede woningen, uitgezonderd de verwervingen, vermeld in het tweede lid, 1° ;<br>
@@ -322,7 +326,9 @@ De volgende verrichtingen doorlopen achtereenvolgens de fase van de opname in de
 1° de verwerving van goede woningen, uitgezonderd de verwervingen, vermeld in het tweede lid, 1° ;<br>
 2° andere investeringsverrichtingen dan de investeringsverrichtingen, vermeld in het tweede lid, 6°, waarbij de geraamde kostprijs voor de uitvoering van de verrichting maximaal 15.000 euro, exclusief btw, per betrokken sociale huurwoning bedraagt.<br>
 <br>
-Verrichtingen die volledig gefinancierd worden op een van de wijzen, vermeld in artikel 1, 9°, a) of h), of met een combinatie van de voormelde financieringswijzen, uitgezonderd de nieuwbouw of vervangingsbouw van sociale koopwoningen, doorlopen geen van de fasen, vermeld in het eerste lid, ongeacht of ze deel uitmaken van een project waarvan de verrichtingen principieel vatbaar zijn voor programmatie.
+Een bouw- of investeringsverrichting van sociale koopwoningen of bescheiden huurwoningen dat deel uitmaakt van een project waarvan de verrichtingen principieel vatbaar zijn voor programmatie, wordt automatisch opgenomen op de korte termijnplanning, vermeld in onderafdeling 3, en doorloopt alleen de fase van de toewijzing van middelen op een jaarbudget, vermeld in onderafdeling 4.<br>
+<br>
+Verrichtingen die volledig gefinancierd worden op een van de wijzen, vermeld in artikel 1, 9°, a) of h), of met een combinatie van de voormelde financieringswijzen, doorlopen geen van de fasen, vermeld in het eerste lid, ongeacht of ze deel uitmaken van een project waarvan de verrichtingen principieel vatbaar zijn voor programmatie.
 
 ### ART 13.
 
@@ -464,11 +470,13 @@ Als na de opname van een verrichting in de kortermijnplanning de VMSW aantoont d
 <br>
 Als voor een investeringsverrichting waarvoor noch een vergunning of melding noch een verhuisbeweging is vereist, geen voorontwerp is opgemaakt en geadviseerd, verklaart de initiatiefnemer dat het gunningsdossier in overeenstemming is met het geadviseerde uitvoeringsdossier van de verrichting zoals ze werd opgenomen in de kortetermijnplanning en met de normen en de bouwtechnische en conceptuele richtlijnen, uitgezonderd de richtlijnen waarvoor de VMSW of de kwaliteitskamer een afwijking toestaan, en dat de procedure van de wetgeving op de overheidsopdrachten is nageleefd. De VMSW bezorgt de initiatiefnemer een ontvangstbevestiging.<br>
 <br>
+Voor een bouw- of investeringsverrichting van sociale koopwoningen of bescheiden huurwoningen verklaart de initiatiefnemer dat het Bouwtechnisch Bestek Woningbouw voor bouwverrichtingen gevolgd werd bij de basisaanbesteding en dat de procedure van de wetgeving op de overheidsopdrachten is nageleefd.<br>
+<br>
 De initiatiefnemer brengt de VMSW via het Projectportaal op de hoogte van een verzoek tot toewijzing op een jaarbudget voor een verrichting die conform artikel 12, tweede of derde lid, enkel de fase van de toewijzing van middelen op een jaarbudget doorloopt. De VMSW bezorgt de initiatiefnemer een ontvangstbevestiging.<br>
 <br>
 De initiatiefnemer brengt de VMSW via het Projectportaal op de hoogte van een verzoek tot toewijzing op een jaarbudget voor een verwerving van een of meer goede woningen die is opgenomen in de kortetermijnplanning, met het oog op de opmaak van de authentieke akte. De VMSW bezorgt de initiatiefnemer een ontvangstbevestiging.<br>
 <br>
-Na het verstrijken van een termijn van veertien kalenderdagen, die ingaat op de dag na het verzoek, vermeld in het eerste tot en met het vierde lid, is de verrichting vatbaar voor toewijzing op een jaarbudget. De VMSW wijst de middelen voor de financiering van de verrichting toe op een jaarbudget.<br>
+Na het verstrijken van een termijn van veertien kalenderdagen, die ingaat op de dag na het verzoek, vermeld in het eerste tot en met het vijfde lid, is de verrichting vatbaar voor toewijzing op een jaarbudget. De VMSW wijst de middelen voor de financiering van de verrichting toe op een jaarbudget.<br>
 <br>
 § 2. De initiatiefnemer die zelf optreedt als aanbestedende overheid van een infrastructuurverrichting die is opgenomen in de kortetermijnplanning, brengt de VMSW via het Projectportaal op de hoogte van een verzoek tot toewijzing op een jaarbudget voor die infrastructuurverrichting. De initiatiefnemer voegt het gunningsdossier bij zijn verzoek en verklaart dat het gunningsdossier in overeenstemming is met de basisaanbesteding van de verrichting zoals ze werd opgenomen in de kortetermijnplanning en met de normen en de bouwtechnische en conceptuele richtlijnen, uitgezonderd de richtlijnen waarvoor de VMSW of de kwaliteitskamer een afwijking toestaan, en dat de procedure van de wetgeving op de overheidsopdrachten is nageleefd. De VMSW bezorgt de initiatiefnemer een ontvangstbevestiging.<br>
 <br>
