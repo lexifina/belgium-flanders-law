@@ -49,6 +49,7 @@ a) de leerling die gedurende het schooljaar in kwestie minstens vijf maanden ver
 b) de leerling die gedurende het schooljaar in kwestie een huurovereenkomst heeft gesloten voor minstens vijf maanden, voor een woning die zich bevindt op een ander adres dan zijn hoofdverblijfplaats;<br>
 c) de leerling die in het buitenland een opleiding volgt;<br>
 d) de gehuwde, zelfstandige of alleenstaande leerling;<br>
+e) de leerling die gedurende het schooljaar in kwestie minstens 149 dagen residentieel verblijft in een door de Vlaamse overheid erkend multifunctioneel centrum voor minderjarige personen met een handicap;<br>
 22° kleuteronderwijs: het kleuteronderwijs, vermeld in het decreet basisonderwijs van 25 februari 1997;<br>
 23° kleutertoeslagen: toeslagen om de deelname aan het kleuteronderwijs te stimuleren;<br>
 24° ...<br>
@@ -392,29 +393,324 @@ De Vlaamse Regering bepaalt de volkenrechtelijke instellingen waarvan de statuta
 
 ## HOOFDSTUK 1. Rechthebbende leerling
 
+### ART 24.
+
+Een jaarlijkse selectieve participatietoeslag leerling, waarvan het bedrag is bepaald in hoofdstuk 4 van deze titel, wordt toegekend aan de leerling die aan al de volgende voorwaarden voldoet:<br>
+1° de leerling heeft de Belgische nationaliteit, of de leerling van wie het bewijs niet geleverd wordt dat hij de Belgische nationaliteit bezit, is toegelaten of gemachtigd om in het Rijk te verblijven of er zich te vestigen overeenkomstig de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
+2° de pedagogische voorwaarden, vermeld in hoofdstuk 2 van deze titel;<br>
+3° de financiële voorwaarden, vermeld in hoofdstuk 3 van deze titel.<br>
+<br>
+De Vlaamse Regering kan algemene vrijstellingen van het eerste lid, 1°, bepalen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels met betrekking tot de selectieve participatietoeslagen leerling.
+
+### ART 25.
+
+Om de toestand van het gezin waartoe de rechthebbende leerling behoort, te bepalen, wordt bij de toepassing van dit decreet rekening gehouden met de toestand op 31 december van het schooljaar in kwestie.<br>
+<br>
+Om de nationaliteit en de woonplaats van de rechthebbende leerling die niet gekwalificeerd is als een rechtgevend kind als vermeld in artikel 8, te bepalen, wordt bij de toepassing van dit decreet rekening gehouden met de toestand op 31 december van het schooljaar in kwestie.<br>
+<br>
+Om de pedagogische toestand te bepalen, wordt bij de toepassing van dit decreet rekening gehouden met de toestand op de laatste schooldag van juni van het schooljaar in kwestie.
+
 ## HOOFDSTUK 2. Pedagogische voorwaarden
 
 ## Afdeling 1. Selectieve participatietoeslagen kleuteronderwijs
 
+### ART 26.
+
+Een selectieve participatietoeslag kleuteronderwijs kan worden toegekend aan een rechthebbende leerling als vermeld in artikel 24, die is ingeschreven in een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor gewoon of buitengewoon kleuteronderwijs, als de leerling gerechtigd is dat onderwijs te volgen overeenkomstig het decreet basisonderwijs van 25 februari 1997.
+
+### ART 27.
+
+§ 1. Aan een rechthebbende leerling als vermeld in artikel 24, wordt geen selectieve participatietoeslag kleuteronderwijs toegekend in een van de volgende gevallen:<br>
+1° in het schooljaar in kwestie is hij niet ingeschreven in een onderwijsinstelling als vermeld in artikel 26;<br>
+2° gedurende het schooljaar in kwestie en het daaraan voorafgaande schooljaar is hij niet voldoende aanwezig geweest.<br>
+<br>
+§ 2. Een leerling wordt tijdens een schooljaar geacht voldoende aanwezig te zijn als:<br>
+1° hij 150 halve schooldagen aanwezig is op school, in het geval dat de leerling tijdens het jaar waarin het schooljaar in kwestie begint de leeftijd van 3 jaar bereikt. In afwijking hiervan moet de leerling die pas na 31 december van hetzelfde schooljaar de leeftijd van 3 jaar bereikt, 100 halve schooldagen aanwezig zijn op school;<br>
+2° hij 185 halve schooldagen aanwezig is op school, in het geval dat de leerling tijdens het jaar waarin het schooljaar in kwestie begint de leeftijd van 4 jaar bereikt;<br>
+3° hij 250 halve schooldagen aanwezig is op school, in het geval dat de leerling tijdens het jaar waarin het schooljaar in kwestie begint de leeftijd van 5 jaar bereikt;<br>
+4° hij niet meer dan 29 halve schooldagen ongewettigd afwezig is op school, in het geval dat de leerling tijdens het jaar waarin het schooljaar in kwestie begint de leeftijd van 6 of 7 jaar bereikt.<br>
+<br>
+§ 3. Een kleuter wordt geacht een halve dag aanwezig te zijn als dit blijkt uit de registratie in het aanwezigheidsregister van de school.<br>
+<br>
+Een leerplichtige kleuter is ongewettigd afwezig wanneer deze problematisch afwezig is, zoals bedoeld in het besluit van de Vlaamse Regering van 12 november 1997 betreffende de controle op de inschrijvingen van de leerlingen in het basisonderwijs.<br>
+<br>
+§ 4. In afwijking van paragraaf 3, bepaalt de Vlaamse Regering wanneer een leerling geacht wordt voldoende aanwezig te zijn, wanneer de erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor gewoon of buitengewoon basisonderwijs, overeenkomstig artikel 8 van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs en in het deeltijds onderwijs georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap, over een afwijkende uurregeling beschikt.<br>
+<br>
+§ 5. In afwijking van paragraaf 2 en paragraaf 3, eerste lid, wordt een kleuter tijdens het betrokken schooljaar geacht voldoende aanwezig te zijn, indien een attest van een arts, een paramedicus als vermeld in het koninklijk besluit van 2 juli 2009 tot vaststelling van de lijst van de paramedische beroepen, of een houder van een diploma in kinesitherapie als vermeld in artikel 21bis, § 2, van het koninklijk besluit nr. 78 van 10 november 1967 betreffende de uitvoering van de gezondheidsberoepen, voorgelegd wordt. Het attest bevat een verklaring dat de in een school ingeschreven kleuter tijdens het betrokken schooljaar niet of slechts onregelmatig naar school kan gaan. Het attest wordt door de aanvrager of de wettelijke vertegenwoordiger van de leerling bij wie de betrokken leerling zijn hoofdverblijfplaats heeft, teruggestuurd naar de bevoegde dienst van de Vlaamse Regering.<br>
+<br>
+§ 6. In afwijking van paragraaf 3 worden halve dagen aanwezigheid in de rijdende kleuterschool zoals bepaald in artikel 168 van het decreet basisonderwijs van 25 februari 1997 beschouwd als aanwezigheid in de erkende school waar de leerling ingeschreven is.
+
+### ART 28.
+
+§ 1. Om het recht op een selectieve participatietoeslag kleuteronderwijs vast te stellen, meldt het Vlaams Ministerie van Onderwijs en Vorming aan het agentschap Opgroeien regie:<br>
+1° welke leerlingen op de laatste schooldag van juni in een onderwijsinstelling als vermeld in artikel 26, zijn ingeschreven;<br>
+2° welke leerlingen in het kleuteronderwijs gedurende het schooljaar in kwestie en het daaraan voorafgaande schooljaar niet voldoende aanwezig zijn geweest als vermeld in artikel 27, § 2 tot en met § 6.<br>
+<br>
+§ 2. Het agentschap Opgroeien regie meldt aan het Vlaams Ministerie van Onderwijs en Vorming het aantal kinderen dat selectieve participatietoeslagen kleuteronderwijs ontvangt.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de wijze waarop de gegevens, vermeld in paragraaf 1 en 2, moeten worden meegedeeld.
+
 ## Afdeling 2. Selectieve participatietoeslag lager onderwijs
 
+### ART 29.
+
+Een selectieve participatietoeslag lager onderwijs kan worden toegekend aan een rechthebbende leerling als vermeld in artikel 24, die is ingeschreven in een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor gewoon of buitengewoon lager onderwijs, als de leerling gerechtigd is dat onderwijs te volgen overeenkomstig het decreet basisonderwijs van 25 februari 1997.
+
+### ART 30.
+
+§ 1. Aan een rechthebbende leerling als vermeld in artikel 24, wordt geen selectieve participatietoeslag lager onderwijs toegekend in een van de volgende gevallen:<br>
+1° in het schooljaar in kwestie is hij niet ingeschreven in een onderwijsinstelling als vermeld in artikel 29;<br>
+2° hij is ongewettigd afwezig geweest of niet voldoende aanwezig geweest;<br>
+3° uiterlijk vijftien kalenderdagen na de datum van uitschrijving in het lager onderwijs is hij niet opnieuw in het lager onderwijs ingeschreven.<br>
+<br>
+§ 2. Een leerling wordt tijdens een schooljaar geacht niet voldoende aanwezig te zijn als de leerling gedurende het schooljaar in kwestie 30 al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest en het daaraan voorafgaande schooljaar hetzij eveneens 30 al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest, hetzij minder dan 250 halve schooldagen aanwezig is geweest indien de leerling toen nog niet onderworpen was aan de leerplicht maar wel ingeschreven was in een kleuterschool.<br>
+<br>
+§ 3. Een leerling in het lager onderwijs wordt geacht aanwezig te zijn als hij niet als ongewettigd afwezig is geregistreerd in het aanwezigheidsregister van de school.<br>
+<br>
+Een leerling is ongewettigd afwezig wanneer deze problematisch afwezig is, zoals bedoeld in het besluit van de Vlaamse Regering van 12 november 1997 betreffende de controle op de inschrijvingen van de leerlingen in het basisonderwijs.<br>
+<br>
+§ 4. In afwijking van paragraaf 2 bepaalt de Vlaamse Regering het aantal halve schooldagen dat een leerling maximaal per schooljaar ongewettigd afwezig mag zijn, wanneer de erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor gewoon of buitengewoon basisonderwijs, overeenkomstig artikel 8 van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs en in het deeltijds onderwijs, georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap, over een afwijkende uurregeling beschikt.
+
+### ART 31.
+
+§ 1. Om het recht op een selectieve participatietoeslag lager onderwijs vast te stellen, meldt het Vlaams Ministerie van Onderwijs en Vorming aan het agentschap Opgroeien regie:<br>
+1° welke leerlingen op de laatste schooldag van juni in een onderwijsinstelling als vermeld in artikel 29, zijn ingeschreven;<br>
+2° welke leerlingen in het lager onderwijs ongewettigd afwezig zijn geweest of niet voldoende aanwezig zijn geweest als vermeld in artikel 30, § 2 tot en met § 4;<br>
+3° welke leerlingen uiterlijk vijftien kalenderdagen na de datum van uitschrijving in het lager onderwijs niet opnieuw zijn ingeschreven in het lager onderwijs.<br>
+<br>
+§ 2. Het agentschap Opgroeien regie&nbsp;meldt aan het Vlaams Ministerie van Onderwijs en Vorming het aantal kinderen dat selectieve participatietoeslagen lager onderwijs ontvangt.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de wijze waarop de gegevens, vermeld in paragraaf 1 en 2, moeten worden meegedeeld.
+
 ## Afdeling 3. Selectieve participatietoeslag secundair onderwijs
+
+### ART 32.
+
+Een selectieve participatietoeslag secundair onderwijs kan worden toegekend aan een rechthebbende leerling als vermeld in artikel 24, die is ingeschreven in een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor secundair onderwijs of aan een rechthebbende leerling die de leertijd zoals bedoeld in het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap volgt in een door de Vlaamse Regering erkend centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen.
+
+### ART 33.
+
+§ 1. De selectieve participatietoeslag secundair onderwijs is meeneembaar voor rechthebbende leerlingen van het secundair onderwijs die in het buitenland of in een andere gemeenschap secundair onderwijs volgen, op voorwaarde dat er voor de in het buitenland of in een andere gemeenschap gevolgde studierichting of opleiding geen equivalente opleiding bestaat in een onderwijsinstelling of een centrum als vermeld in artikel 32, en op voorwaarde dat de onderwijsinstelling, de studierichting of de opleiding erkend is door de bevoegde overheid in de gemeenschap of het land in kwestie. Onder meeneembaarheid wordt verstaan, het krijgen van een selectieve participatietoeslag secundair onderwijs voor een studieprogramma of opleiding, gevolgd in een andere gemeenschap of in het buitenland.<br>
+<br>
+Artikel 34, 35, tweede lid, en 48, § 3 en § 6, zijn niet van toepassing op rechthebbende leerlingen die in het buitenland secundair onderwijs volgen.<br>
+<br>
+§ 2. Om te bepalen of er een equivalente opleiding bestaat als vermeld in paragraaf 1, baseert de uitbetalingsactor zich op het bindende advies van NARIC-Vlaanderen, vermeld in artikel 5, 26°, van het decreet van 8 juni 2007.
+
+### ART 34.
+
+§ 1. Aan een rechthebbende leerling als vermeld in artikel 24, wordt geen selectieve participatietoeslag secundair onderwijs toegekend in een van de volgende gevallen:<br>
+1° in het schooljaar in kwestie is hij niet ingeschreven in een onderwijsinstelling of centrum als vermeld in artikel 32;<br>
+2° hij is ongewettigd afwezig geweest;<br>
+3° uiterlijk vijftien kalenderdagen na de datum van uitschrijving uit een instelling voor secundair onderwijs of uit de leertijd in een centrum zoals bedoeld in artikel 32 is hij niet opnieuw ingeschreven in een instelling voor secundair onderwijs of in de leertijd in een centrum zoals bedoeld in artikel 32.<br>
+<br>
+In afwijking van het eerste lid, 3°, behoudt de rechthebbende leerling in het secundair onderwijs die op 30 juni van het schooljaar in kwestie niet langer ingeschreven is in een instelling voor secundair onderwijs of een centrum zoals bedoeld in artikel 32, zijn toelage, op voorwaarde dat hij in de loop van dat schooljaar zijn kwalificatie behaalde.<br>
+<br>
+§ 2. Een leerling wordt tijdens een schooljaar geacht niet voldoende aanwezig te zijn als de leerling gedurende het schooljaar in kwestie 30 al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest tijdens de lessen in de erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor voltijds gewoon of buitengewoon secundair onderwijs, en/of het werkplekleren dat deel uitmaakt van de opleiding in de periode van 1 september tot en met 30 juni, en als hij gedurende het schooljaar dat voorafgaat aan het schooljaar in kwestie 30, al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest tijdens de lessen in de erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor voltijds gewoon of buitengewoon secundair onderwijs of de erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor gewoon of buitengewoon basisonderwijs, en/of het werkplekleren dat deel uitmaakt van de opleiding in de periode van 1 september tot en met 30 juni.<br>
+<br>
+§ 3. Een leerling in het secundair onderwijs en het deeltijds leerplichtonderwijs wordt geacht aanwezig te zijn wanneer deze tijdens de lessen of het werkplekleren daadwerkelijk aanwezig is of niet ongewettigd afwezig is.<br>
+<br>
+Een leerling is ongewettigd afwezig wanneer deze problematisch afwezig is, zoals bedoeld in het besluit van de Vlaamse Regering van 16 september 1997 betreffende de controle op de inschrijvingen van leerlingen in het secundair onderwijs of in het stelsel van leren en werken.<br>
+<br>
+In afwijking van het tweede lid is een leerling die met een erkende leerovereenkomst of -verbintenis in het kader van de leertijd een opleiding volgt in een erkend en gesubsidieerd centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, onwettig afwezig wanneer deze problematisch afwezig is als vermeld in de uitvoeringsreglementering aangenomen door de Vlaamse Regering in het kader van de leertijd krachtens artikelen 58 en 59 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap.<br>
+<br>
+§ 4. In afwijking van paragraaf 2, bepaalt de Vlaamse Regering het aantal halve schooldagen dat een leerling in het voltijds secundair onderwijs maximaal per schooljaar ongewettigd afwezig mag zijn, wanneer de onderwijsinstelling in kwestie overeenkomstig artikel 8 van het besluit van de Vlaamse Regering van 31 augustus 2001 houdende de organisatie van het schooljaar in het secundair onderwijs, over een afwijkende uurregeling beschikt.
+
+### ART 35.
+
+Een selectieve participatietoeslag secundair onderwijs wordt toegekend aan een rechthebbende leerling als vermeld in artikel 24, tot en met het schooljaar waarin de leerling tweeëntwintig jaar wordt.<br>
+<br>
+In afwijking van het eerste lid kan voor leerlingen die ingeschreven zijn in het buitengewoon secundair onderwijs en in de opleiding Verpleegkunde van het hoger beroepsonderwijs, een selectieve participatietoeslag worden toegekend zonder dat daarbij een leeftijdsbeperking geldt.
+
+### ART 36.
+
+§ 1. Om het recht op en het bedrag van een selectieve participatietoeslag in het secundair onderwijs vast te stellen, meldt het Vlaams Ministerie van Onderwijs en Vorming aan het agentschap Opgroeien regie:<br>
+1° welke leerlingen in welk structuuronderdeel zijn ingeschreven in een onderwijsinstelling of een centrum als vermeld in artikel 32;<br>
+2° de datum van inschrijving;<br>
+3° de datum van eventuele uitschrijving;<br>
+4° welke leerlingen ongewettigd afwezig zijn geweest als vermeld in artikel 34, § 2 tot en met § 4,.<br>
+<br>
+§ 2. Het agentschap Opgroeien regie meldt aan het Vlaams Ministerie van Onderwijs en Vorming het aantal kinderen dat selectieve participatietoeslagen secundair onderwijs ontvangt.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de wijze waarop de gegevens, vermeld in paragraaf 1 en 2, moeten worden meegedeeld. De Vlaamse Regering bepaalt ook welke instellingen aan het agentschap Opgroeien regie&nbsp;moeten melden dat een leerling een interne leerling is en de wijze waarop ze dat moeten melden.
 
 ## HOOFDSTUK 3. Financiële voorwaarden
 
 ## Afdeling 1. Algemene bepalingen
 
+### ART 37.
+
+Om te bepalen of een rechthebbende leerling als vermeld in artikel 24, in aanmerking komt voor de selectieve participatietoeslagen leerling, wordt uitgegaan van de inkomsten van het gezin waartoe de leerling behoort.<br>
+<br>
+In afwijking van het eerste lid heeft een pleegkind of pleeggast als vermeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, recht op een volledige selectieve participatietoeslag leerling op voorwaarde dat het pleegkind of de pleeggast langer dan één jaar onafgebroken bij hetzelfde pleeggezin verblijft.<br>
+<br>
+Voor de toepassing van het tweede lid is artikel 25, eerste lid, van overeenkomstige toepassing.
+
 ## Afdeling 2. Vaststelling van het gezin waartoe de rechthebbende leerling behoort
+
+### ART 38.
+
+§ 1. Er wordt rekening gehouden met de volgende categorieën van gezinnen:<br>
+1° een gezin waarin de rechthebbende leerling zijn woonplaats heeft bij één ouder of bij beide ouders samen;<br>
+2° een gezin waarin de rechthebbende leerling ingevolge een gerechtelijke uitspraak of een tussenkomst van een publiekrechtelijke overheid of instelling zijn woonplaats heeft bij een andere natuurlijke persoon dan de ouders, of een gezin waarin de rechthebbende leerling op 31 december van het schooljaar in kwestie zijn woonplaats heeft bij een andere natuurlijke persoon dan één ouder of beide ouders;<br>
+3° gehuwde leerlingen;<br>
+4° zelfstandige leerlingen;<br>
+5° alleenstaande leerlingen.<br>
+<br>
+§ 2. De categorie waartoe een gezin behoort, wordt voor elke rechthebbende leerling als vermeld in artikel 24, afzonderlijk bepaald.<br>
+<br>
+§ 3. De Vlaamse Regering geeft een nadere begripsomschrijving van de verschillende categorieën van gezinnen op basis waarvan de selectieve participatietoeslag leerling wordt berekend, en bepaalt met welke inkomsten van welke personen rekening wordt gehouden om de gezinsinkomsten, vermeld in artikel 39, vast te stellen.<br>
+<br>
+§ 4. Om te bepalen tot welke categorie van gezin een rechthebbende leerling als vermeld in artikel 24, behoort, wordt eerst nagegaan of de leerling voldoet aan de voorwaarden voor de categorie van gehuwde leerlingen, vermeld in paragraaf 1, 3°, dan of de leerling voldoet aan de voorwaarden voor de categorie van zelfstandige leerlingen, vermeld in paragraaf 1, 4°, daarna of de leerling voldoet aan de voorwaarden van de categorie van het gezin waarin de leerling zijn woonplaats heeft, vermeld in paragraaf 1, 1°, vervolgens of de leerling voldoet aan de voorwaarden voor de categorie van het gezin, vermeld in paragraaf 1, 2°.<br>
+<br>
+Als wordt vastgesteld dat de leerling niet behoort tot een van de categorieën van gezinnen, vermeld in paragraaf 1, 1°, 2°, 3° of 4°, wordt nagegaan of de leerling voldoet aan de voorwaarden voor de categorie van alleenstaande leerling, vermeld in paragraaf 1, 5°.<br>
+<br>
+Als wordt vastgesteld dat de leerling niet behoort tot een van de categorieën van gezinnen, vermeld in paragraaf 1, wordt de leerling beschouwd als een persoon die behoort tot de categorie van gezin, vermeld in paragraaf 1, 1° of 2°, waarbij, in voorkomend geval, wordt uitgegaan van de laatste woonplaats van de leerling bij één ouder of bij een andere natuurlijke persoon als vermeld in paragraaf 1, 2°.
 
 ## HOOFDSTUK 4. Bedragen van de selectieve participatietoeslagen
 
 ## Afdeling 1. Algemeen
 
+### ART 39.
+
+§ 1. Een rechthebbende leerling als vermeld in artikel 24, heeft recht op een volledige selectieve participatietoeslag als de gezinsinkomsten gelijk zijn aan of lager zijn dan de voor het gezin in aanmerking te nemen minimuminkomensgrens, vermeld in artikel 43.<br>
+<br>
+§ 2. Een rechthebbende leerling als vermeld in artikel 24, heeft geen recht op een selectieve participatietoeslag als de gezinsinkomsten hoger zijn dan de voor het gezin in aanmerking te nemen maximuminkomensgrens, vermeld in artikel 43.<br>
+<br>
+§ 3. Als de in aanmerking te nemen gezinsinkomsten hoger zijn dan de minimuminkomensgrens, vermeld in artikel 43, maar lager zijn dan de maximuminkomensgrens, vermeld in artikel 43, wordt een selectieve participatietoeslag verleend waarvan het bedrag gelijk is aan het bedrag van de volledige selectieve participatietoeslag, vermeld in artikel 47, eerste lid, of artikel 48, vermenigvuldigd met de coëfficiënt van de formule (maximuminkomensgrens min gezinsinkomsten) / (maximuminkomensgrens min minimuminkomensgrens).<br>
+<br>
+§ 4. Een rechthebbende leerling als vermeld in artikel 24, ontvangt in afwijking van de eerste paragraaf een uitzonderlijke selectieve participatietoeslag als de in aanmerking te nemen gezinsinkomsten gelijk zijn aan of lager zijn dan een tiende van de maximuminkomensgrens, vermeld in artikel 43, en als hij voldoet aan een van de volgende voorwaarden:<br>
+1° de in aanmerking te nemen gezinsinkomsten bestaan voor minstens zeventig procent uit vervangingsinkomsten;<br>
+2° de in aanmerking te nemen gezinsinkomsten bestaan voor minstens zeventig procent uit alimentatiegeld;<br>
+3° de in aanmerking te nemen gezinsinkomsten bestaan voor minstens zeventig procent uit leefloon, toegekend in het raam van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, of het equivalent van leefloon, toegekend in het raam van de wet van 2 april 1965 betreffende het ten laste nemen van de steun verleend door de openbare centra voor maatschappelijk welzijn;<br>
+4° de gezinsinkomsten bestaan voor minstens zeventig procent uit een inkomensvervangende tegemoetkoming, toegekend in het raam van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap.<br>
+<br>
+De Vlaamse Regering kan bijkomende categorieën bepalen waarin een rechthebbende leerling als vermeld in artikel 24, een uitzonderlijke selectieve participatietoeslag ontvangt.<br>
+In afwijking van het eerste lid komt een rechthebbende leerling als vermeld in artikel 24, in het secundair onderwijs niet in aanmerking voor een uitzonderlijke selectieve participatietoeslag als hij aan een van de volgende voorwaarden beantwoordt:<br>
+1° de leerling is een interne leerling;<br>
+2° de leerling behoort tot een gezin als vermeld in artikel 38, § 1, 3°, 4° en 5°.<br>
+<br>
+§ 5. Een rechthebbende leerling als vermeld in artikel 24, heeft recht op de minimale selectieve participatietoeslag als de gezinsinkomsten gelijk zijn aan de maximuminkomensgrens, vermeld in artikel 43.
+
+### ART 40.
+
+In afwijking van artikel 39 heeft een rechthebbende leerling als vermeld in artikel 24, in het kleuteronderwijs recht op een selectieve participatietoeslag als de gezinsinkomsten gelijk zijn aan of lager zijn dan de voor het gezin in aanmerking te nemen maximuminkomensgrens, vermeld in artikel 43.
+
+### ART 41.
+
+§ 1. Bij het vastleggen van de minimum- en maximuminkomensgrens wordt rekening gehouden met de volgende factoren:<br>
+1° het aantal personen ten laste in het gezin;<br>
+2° het aantal studenten in het gezin die tijdens het school- of academiejaar in kwestie hoger onderwijs volgen;<br>
+3° het aantal personen in het gezin die fiscaal als gehandicapt worden aangemerkt.<br>
+<br>
+§ 2. De waarde van elke factor wordt uitgedrukt in punten.
+
+### ART 42.
+
+§ 1. De volgende personen en categorieën worden bij de berekening van de minimum- en maximuminkomensgrenzen gelijkgesteld met een punt:<br>
+1° elke persoon in het gezin die fiscaal ten laste is van personen van wie de gezinsinkomsten bij de berekening van de selectieve participatietoeslag in aanmerking worden genomen;<br>
+2° elke leerling of student in het gezin die niet meer fiscaal ten laste is van de personen van wie de gezinsinkomsten bij de berekening van de selectieve participatietoeslag in aanmerking worden genomen, omdat hij bestaansmiddelen heeft gehad, op voorwaarde dat hij niet in aanmerking komt voor het statuut van gehuwde, zelfstandige of alleenstaande leerling of student;<br>
+3° elke persoon van wie de gezinsinkomsten bij de berekening van de selectieve participatietoeslag in aanmerking worden genomen, en die op 31 december van het schooljaar in kwestie fiscaal als gehandicapt wordt aangemerkt;<br>
+4° de categorie van gezin die valt onder het toepassingsgebied van artikel 38, § 1, 1°, 2° of 3°. De categorie van gezin die valt onder het toepassingsgebied van artikel 38, § 1, 4° of 5°, levert een punt op, op voorwaarde dat de gezinsinkomsten van de zelfstandige, respectievelijk alleenstaande leerling in aanmerking genomen kunnen worden bij de berekening van de selectieve participatietoeslag van de persoon, vermeld in paragraaf 1, 1° of 2°.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 wordt elke persoon die valt onder paragraaf 1, 1° of 2°, en die op 31 december van het school- of academiejaar in kwestie fiscaal als gehandicapt wordt aangemerkt, met twee punten gelijkgesteld.<br>
+<br>
+§ 3. Voor elke persoon van wie de gezinsinkomsten in aanmerking genomen worden bij de berekening van de selectieve participatietoeslag, alsook voor elke persoon, vermeld in paragraaf 1, 1° of 2°, van dit artikel, wordt er een punt toegekend als die personen aan een erkende instelling tijdens het school- of academiejaar in kwestie hoger onderwijs, een bachelor-na-bacheloropleiding of een master-na-masteropleiding volgen.<br>
+<br>
+Het totale aantal punten, dat volgt uit de toepassing van het eerste lid, wordt verminderd met één punt.<br>
+<br>
+In afwijking van het tweede lid bedraagt het totale aantal punten, dat volgt uit de toepassing van dit artikel, nooit minder dan nul.<br>
+<br>
+§ 4. In afwijking van paragraaf 1 tot en met 3 bedraagt het aantal punten van het gezin waarvan de leerling deel uitmaakt, nooit minder dan nul.
+
+### ART 43.
+
+§ 1. De minimum- en maximuminkomensgrenzen worden vastgelegd aan de hand van een puntensysteem, gaande van nul tot twintig:<br>
+1° de minimuminkomensgrens stemt voor een gezin met nul punten overeen met 11.808,74 euro en voor een gezin met twintig punten met 47.153,27 euro;<br>
+2° de maximuminkomensgrens stemt voor een gezin met nul punten overeen met 24.153,07 euro en voor een gezin met twintig punten met 103.406,48 euro.<br>
+<br>
+§ 2. De Vlaamse Regering legt de nadere regels vast om de minimum- en maximuminkomensgrenzen te bepalen.
+
+### ART 44.
+
+Bij de berekening van het bedrag van de selectieve participatietoeslag in het secundair onderwijs, zoals bepaald in artikel 48 van dit decreet, wordt er een onderscheid gemaakt naargelang de rechthebbende leerling, vermeld in artikel 24, al dan niet een interne leerling is.
+
+### ART 45.
+
+Het bedrag van de selectieve participatietoeslag is afhankelijk van het door de rechthebbende leerling, vermeld in artikel 24, gevolgde onderwijs, van de hoogte van de gezinsinkomsten en van de puntenlast ten aanzien van de gezinskomsten.
+
 ## Afdeling 2. Selectieve participatietoeslag basisonderwijs
+
+### ART 46.
+
+Voor rechthebbende leerlingen als vermeld in artikel 24, in het kleuteronderwijs bedraagt de selectieve participatietoeslag 103,70 euro.
+
+### ART 47.
+
+§ 1. Voor rechthebbende leerlingen als vermeld in artikel 24, in het lager onderwijs bedraagt een volledige selectieve participatietoeslag 188,19 euro.<br>
+<br>
+De uitzonderlijke selectieve participatietoeslag bedraagt voor rechthebbende leerlingen als vermeld in artikel 24, in het lager onderwijs 244,37 euro.<br>
+<br>
+De minimale selectieve participatietoeslag bedraagt 121,01 euro.<br>
+<br>
+§ 2. Het uiteindelijke bedrag van de selectieve participatietoeslag wordt afgerond tot twee cijfers na de komma.
 
 ## Afdeling 3. Selectieve participatietoeslag secundair onderwijs
 
+### ART 48.
+
+§ 1. Bij de berekening van het bedrag van de selectieve participatietoeslag in het secundair onderwijs wordt eerst nagegaan of de rechthebbende leerling in de opleiding Verpleegkunde van het hoger beroepsonderwijs zit, vervolgens of de rechthebbende leerling, vermeld in artikel 24, voldoet aan de voorwaarden voor de categorie van gehuwde, zelfstandige of alleenstaande leerling, vermeld in artikel 38, vervolgens of de leerling in het derde leerjaar van de derde graad van het technisch secundair onderwijs of beroepsonderwijs zit.<br>
+<br>
+§ 2. Voor gehuwde, zelfstandige of alleenstaande rechthebbende leerlingen als vermeld in artikel 24, in het voltijds secundair onderwijs is het bedrag van de volledige selectieve participatietoeslag gelijk aan 3.268,73 euro.<br>
+<br>
+De minimale selectieve participatietoeslag bedraagt 712,98 euro.<br>
+<br>
+§ 3. Voor rechthebbende leerlingen als vermeld in artikel 24, in het derde leerjaar van de derde graad van het voltijds technisch secundair onderwijs en het voltijds beroepssecundair onderwijs bedraagt de volledige selectieve participatietoeslag:<br>
+1° 1.861,09 euro voor interne leerlingen;<br>
+2° 1.132,07 euro voor externe leerlingen.<br>
+<br>
+De uitzonderlijke selectieve participatietoeslag voor externe leerlingen bedraagt 1.329,23 euro.<br>
+<br>
+De minimale selectieve participatietoeslag bedraagt:<br>
+1° 725,16 euro voor interne leerlingen;<br>
+2° 280,60 euro voor externe leerlingen.<br>
+<br>
+§ 4. Voor andere rechthebbende leerlingen als vermeld in artikel 24, in het voltijds secundair onderwijs dan de leerlingen, vermeld in paragraaf 2 en 3, bedraagt de volledige selectieve participatietoeslag:<br>
+1° 1550,86 euro voor interne leerlingen;<br>
+2° 943,30 euro voor externe leerlingen.<br>
+<br>
+De uitzonderlijke selectieve participatietoeslag voor externe leerlingen bedraagt 1107,57 euro.<br>
+<br>
+De minimale selectieve participatietoeslag bedraagt:<br>
+1° 604,31 euro voor interne leerlingen;<br>
+2° 233,75 euro voor externe leerlingen.<br>
+<br>
+§ 5. Voor rechthebbende leerlingen als vermeld in artikel 24, in stelsel leren en werken zoals bedoeld in het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap bedraagt een volledige selectieve participatietoeslag 537,45 euro.<br>
+<br>
+De uitzonderlijke selectieve participatietoeslag bedraagt 693,34 euro.<br>
+<br>
+De minimale selectieve participatietoeslag bedraagt 196,55 euro.<br>
+<br>
+§ 6. Voor rechthebbende leerlingen als vermeld in artikel 24, ingeschreven in de opleiding Verpleegkunde van het hoger beroepsonderwijs, bedraagt de volledige selectieve participatietoeslag:<br>
+1° 3.640,66 euro voor interne leerlingen;<br>
+2° 1.212,27 euro voor externe leerlingen.<br>
+<br>
+De minimale selectieve participatietoeslag bedraagt 829,80 euro.<br>
+<br>
+§ 7. Het uiteindelijke bedrag van de selectieve participatietoeslag wordt afgerond tot twee cijfers na de komma.
+
 ## Titel 2. Selectieve participatietoeslagen student
+
+### ART 49.
+
+Een selectieve participatietoeslag student wordt toegekend aan de student aan wie, overeenkomstig het decreet van 8 juni 2007, een studietoelage voor hoger onderwijs wordt toegekend.<br>
+<br>
+De Vlaamse Regering kan ook nadere regels met betrekking tot de selectieve participatietoeslagen student nader bepalen.
+
+### ART 50.
+
+Een student als vermeld in artikel 49, eerste lid, heeft recht op een jaarlijkse selectieve participatietoeslag van 50 euro.
 
 ## Deel 3. Andere toelagen
 
@@ -951,7 +1247,7 @@ Voor de kinderopvangtoeslagen, vermeld in deel 3 van boek 2, neemt de termijn va
 <br>
 Voor het startbedrag geboorte neemt de termijn van vijf jaar een aanvang de eerste dag van de maand die volgt op de maand waarin de geboorte plaatsvond. Voor het startbedrag adoptie neemt de termijn van vijf jaar een aanvang de eerste dag van de maand die volgt op de maand waarin het verzoekschrift tot adoptie is ingediend bij de bevoegde rechtbank of, bij gebrek daaraan, de eerste dag van de maand die volgt op de maand waarin de adoptieakte is ondertekend. Als het kind op die datum nog geen deel uitmaakt van het gezin van de adoptant, vangt de voormelde termijn aan op de eerste dag van de maand die volgt op de maand waarin het kind werkelijk deel uitmaakt van dit gezin.<br>
 <br>
-Voor de selectieve participatietoeslagen, vermeld in deel 2 van boek 2, en de kleutertoeslagen, vermeld in deel 3 van boek 2, neemt de termijn van vijf jaar een aanvang op de eerste dag van de maand na de betekening van een beslissing tot weigering, toekenning of terugvordering van een selectieve participatietoeslag of kleutertoeslag.<br>
+Voor de selectieve participatietoeslagen, vermeld in boek 2, deel 2, begint de termijn van vijf jaar op 1 september van het schooljaar waarop de selectieve participatietoeslagen betrekking zouden hebben.<br>
 <br>
 Voor de kleutertoeslagen, vermeld in boek 2, deel 3, titel 2, begint de termijn van vijf jaar op:<br>
 1° de eerste dag van de maand na de derde verjaardag van de leerling voor de kleutertoeslag, vermeld in artikel 54;<br>
