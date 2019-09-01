@@ -55,7 +55,9 @@ Het agentschap subsidieert de personeelskosten conform de voorwaarden, vermeld i
 9° het ministerieel besluit van 18 juni 1975;<br>
 10° het koninklijk besluit van 30 maart 1973, zoals van kracht op 30 december 2016;<br>
 11° het koninklijk besluit van 12 december 1975 tot vaststelling van de voorwaarden voor de erkenning van de centra voor observatie, oriëntering en medische, psychologische en pedagogische behandeling voor gehandicapten evenals van de te volgen bijzondere regels voor de vaststelling van de toelagen per dag, toegekend voor het onderhoud, de opvoeding en de behandeling van de gehandicapten die er geplaatst zijn ten laste van de openbare besturen, zoals van kracht op 30 december 2016;<br>
-12° het ministerieel besluit van 24 april 1973 tot bepaling, wat betreft het Ministerie van Volksgezondheid en van het Gezin, van de te volgen bijzondere regels voor de vaststelling van de toelagen per dag, toegekend voor het onderhoud en de behandeling van de gehandicapten, geplaatst ten laste van de openbare besturen, zoals van kracht op 30 december 2016.
+12° het ministerieel besluit van 24 april 1973 tot bepaling, wat betreft het Ministerie van Volksgezondheid en van het Gezin, van de te volgen bijzondere regels voor de vaststelling van de toelagen per dag, toegekend voor het onderhoud en de behandeling van de gehandicapten, geplaatst ten laste van de openbare besturen, zoals van kracht op 30 december 2016.<br>
+<br>
+In afwijking van het eerste lid, 9° en 12°, zijn de vereiste kwalificaties voor de functiecodes, vermeld in artikel 7, tweede lid, 4°, de kwalificaties die opgenomen zijn in bijlage 2, die bij dit besluit is gevoegd.
 
 ### ART 4.
 
@@ -97,6 +99,18 @@ Het totale aantal personeelspunten dat een subsidie-eenheid in het subsidiedossi
 1° het agentschap bepaalt voor de subsidie-eenheid het aantal personeelspunten dat per element, vermeld in het eerste lid, maximaal kan worden omgezet en maakt daarvan het totaal. Voor die berekening zijn het tweede tot en met het vierde lid niet van toepassing;<br>
 2° van het totale aantal personeelspunten dat een subsidie-eenheid in het subsidiedossier, vermeld in artikel 5 van dit besluit, wil omzetten in werkingsmiddelen, zet het agentschap 40% van het maximale aantal personeelspunten van de subsidie-eenheid dat kan worden omgezet met toepassing van artikel 3, § 3, tweede lid, en § 5, van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders, om in werkingsmiddelen;<br>
 3° het agentschap verdeelt het totale aantal personeelspunten dat een subsidie-eenheid in het subsidiedossier, vermeld in artikel 5 van dit besluit, wil omzetten in werkingsmiddelen, verminderd met het aantal omgezette personeelspunten conform punt 2°, over de elementen, vermeld in het eerste lid, naar rato van het aandeel van elk element in het totaal, vermeld in punt 1°.
+
+### ART 6/1.
+
+De subsidie-eenheden die op 31 augustus 2019 personeelsleden vergoedden conform barema A3, en die vanaf 1 september 2019 vergoed worden conform barema A2, krijgen boven op het aantal personeelspunten, vermeld in artikel 6, eerste lid, per voltijdse omgezette functie van barema A3 in barema A2, jaarlijks 5 personeelspunten bijkomend gesubsidieerd.<br>
+<br>
+Het aantal personeelsleden, vermeld in het eerste lid, wordt bepaald door het gemiddelde aantal personeelsleden dat vergoed is conform barema A3 tussen 1 januari 2019 en 30 juni 2019.<br>
+<br>
+De subsidie-eenheden die op 31 augustus 2019 personeelsleden vergoedden conform barema B3, en die vanaf 1 september 2019 vergoed worden conform barema B2b, krijgen boven op het aantal personeelspunten, vermeld in artikel 6, eerste lid, per voltijdse omgezette functie van barema B3 in barema B2b, jaarlijks 3,5 personeelspunten bijkomend gesubsidieerd.<br>
+<br>
+Het aantal personeelsleden, vermeld in het derde lid, wordt bepaald door het gemiddelde aantal personeelsleden dat vergoed is conform barema B3 tussen 1 januari 2019 en 30 juni 2019.<br>
+<br>
+De subsidie-eenheden die op 31 augustus 2019 personeelsleden vergoedden conform barema B1A, en die vanaf 1 september 2019 vergoed worden conform barema B1ABis, krijgen boven op het aantal personeelspunten, vermeld in artikel 6, eerste lid, per voltijdse omgezette functie van barema B1A in B1ABis, jaarlijks 3 personeelspunten bijkomend gesubsidieerd.
 
 ### ART 7.
 
@@ -141,7 +155,9 @@ Voor de subsidiëring van de extra salarissupplementen voor prestaties op zaterd
 4° het totaalbedrag van het dubbele vakantiegeld op de lonen voor de prestaties, vermeld in punt 2° ;<br>
 5° het totaalbedrag van gewaarborgd loon dat betrekking heeft op prestaties die geleverd zijn op zaterdagen, zon- en feestdagen, alsook op prestaties voor avond- en nachtwerk.<br>
 <br>
-Als het aantal uren, vermeld in het eerste lid, 1°, groter is dan het aantal uren dat gesubsidieerd kan worden conform artikel 8 van het voormelde besluit, beperkt het agentschap de subsidie tot de loonkosten van het aantal uren dat gesubsidieerd kan worden conform artikel 8 van het voormelde besluit.
+In afwijking van artikel 4bis, § 8, van het koninklijk besluit van 30 maart 1973 wordt een salarissupplement van 20 % op basis van het subsidieerbare uurloon toegekend voor de prestaties die verstrekt zijn op zaterdag en tijdens een aangesloten blok van vier uur tussen 18 uur en 22 uur.<br>
+<br>
+Het salarissupplement, vermeld in het tweede lid, wordt niet toegekend aan barema 22 tot en met 25 en wordt niet toegekend aan de personeelsleden van een subsidie-eenheid die is opgericht door een ondergeschikt bestuur zoals een provincie, een gemeente, een intercommunale van gemeenten, een openbaar centrum voor maatschappelijk welzijn of een vereniging als vermeld in artikel 118 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, of door een publiekrechtelijke rechtspersoon of een instelling van openbaar nut.
 
 ### ART 14.
 
@@ -248,6 +264,12 @@ Als het aantal zorggebonden punten dat conform artikel 13 tot en met 23 van het 
 Als het aantal zorggebonden punten dat conform artikel 13 tot en met 23 van het besluit van 24 juni 2016 is vastgesteld op basis van de vertaling conform artikel 14 van het voormelde besluit van de ondersteuning die is geboden op 31 maart 2016, in het jaar 2017 niet volledig is ingezet noch in vouchers noch in cashbudget en lager is dan het aantal zorggebonden punten dat is vastgesteld op basis van de vertaling conform artikel 14 van het besluit van 24 juni 2016 van de ondersteuning die is geboden op 31 december 2016, wordt voor de vaststelling van het aantal zorggebonden personeelspunten, vermeld in artikel 6, 8°, van dit besluit, dat in het jaar 2017 is ingezet door personen met een handicap aan wie conform artikel 13 tot en met 23 van het besluit van 24 juni 2016 zorggebonden punten zijn toegekend, rekening gehouden met het aantal punten dat is ingezet in vouchers in 2017 en wordt dat aantal proportioneel vermeerderd op basis van de verhouding tussen de punten die zijn vastgesteld op basis van de ondersteuning die is geboden op 31 december 2016, en de punten die zijn vastgesteld op basis van de ondersteuning die is geboden op 31 maart 2016.<br>
 <br>
 Als het aantal zorggebonden punten dat conform artikel 13 tot en met 23 van het besluit van 24 juni 2016 is vastgesteld op basis van de vertaling conform artikel 14 van hetzelfde besluit van de ondersteuning die is geboden op 31 maart 2016, in het jaar 2017 niet volledig is ingezet noch in vouchers noch in cashbudget en hoger is dan het aantal zorggebonden punten dat is vastgesteld op basis van de vertaling conform artikel 14 van het besluit van 24 juni 2016 van de ondersteuning die is geboden op 31 december 2016, wordt het aantal zorggebonden punten dat in de vorm van een voucher is ingezet in het jaar 2017, in aanmerking genomen als dat aantal zorggebonden punten het aantal zorggebonden punten dat vastgesteld is op basis van de ondersteuning die is geboden op 31 december 2016, niet overschrijdt.
+
+### ART 20/6.
+
+Als in het jaar 2019, met toepassing van artikel 6/1 en artikel 13, het budget dat daarvoor vastgelegd was in het vijfde Vlaams Intersectoraal Akkoord van 8 juni 2018 voor de social-/non-profitsectoren voor de periode 2018 - 2020, overschreden wordt, wordt, in afwijking van artikel 6/1, per subsidie-eenheid de subsidiëring van de respectieve bijkomende personeelspunten pro rata verminderd tot binnen de perken van de vastgelegde budgetten, en wordt, in afwijking van artikel 13, derde lid, het salarissupplement van 20%, vermeld in artikel 13, derde lid, per subsidie-eenheid pro rata verminderd tot binnen de perken van de voormelde vastgelegde budgetten.<br>
+<br>
+Als vanaf het jaar 2020, met toepassing van artikel 6/1, artikel 9 en artikel 13, derde lid, de budgetten die daarvoor vastgelegd waren in het vijfde Vlaams Intersectoraal Akkoord van 8 juni 2018 voor de social-/non-profitsectoren voor de periode 2018 - 2020 overschreden worden, wordt, in afwijking van artikel 6/1, artikel 9 en artikel 13, derde lid, per subsidie-eenheid de subsidiëring van de respectieve bijkomende personeelspunten, eindejaarspremie of salarissupplement pro rata verminderd tot binnen de perken van de vastgelegde budgetten.
 
 ### ART 21.
 
@@ -525,3 +547,188 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uit
 		</tr>
 	</tbody>
 </table>
+<br>
+<br>
+* Bij BVR van 17 juli 2020, BS 18 augustus 2020 wordt tabel 1 vervangen door wat volgt:<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Tabel 1. De tabel, vermeld in artikel 7, tweede lid, 4°</span></span></span>
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>barema</td>
+			<td>functiecode</td>
+			<td>functiegroep</td>
+			<td>puntenwaarde</td>
+		</tr>
+		<tr>
+			<td>barema 1</td>
+			<td>L4</td>
+			<td>logistiek personeel klasse 4</td>
+			<td>53,5</td>
+		</tr>
+		<tr>
+			<td>barema 2</td>
+			<td>L4 ond II</td>
+			<td>logistiek personeel onderhoud cat. II</td>
+			<td>53,5</td>
+		</tr>
+		<tr>
+			<td>barema 3</td>
+			<td>L4 ond III</td>
+			<td>logistiek personeel onderhoud cat. III</td>
+			<td>53,5</td>
+		</tr>
+		<tr>
+			<td>barema 4</td>
+			<td>L3 ond IV</td>
+			<td>logistiek personeel onderhoud cat. IV</td>
+			<td>56</td>
+		</tr>
+		<tr>
+			<td>barema 5</td>
+			<td>L2 ond V</td>
+			<td>logistiek personeel onderhoud cat. V</td>
+			<td>61</td>
+		</tr>
+		<tr>
+			<td>barema 6</td>
+			<td>L3a</td>
+			<td>logistiek personeel klasse 3 (in dienst voor 1/11/93)</td>
+			<td>56</td>
+		</tr>
+		<tr>
+			<td>barema 7</td>
+			<td>L3</td>
+			<td>logistiek personeel klasse 3 (in dienst na 1/11/93)</td>
+			<td>56</td>
+		</tr>
+		<tr>
+			<td>barema 8</td>
+			<td>L2</td>
+			<td>logistiek personeel klasse 2</td>
+			<td>61</td>
+		</tr>
+		<tr>
+			<td>barema 9</td>
+			<td>A1</td>
+			<td>administratief + logistiek personeel klasse 1</td>
+			<td>71</td>
+		</tr>
+		<tr>
+			<td>barema 10</td>
+			<td>A2</td>
+			<td>administratief + logistiek personeel klasse 2</td>
+			<td>61</td>
+		</tr>
+		<tr>
+			<td>barema 11</td>
+			<td>A2 boekh Kl II</td>
+			<td>administratief personeel boekhouder klasse II</td>
+			<td>61,5</td>
+		</tr>
+		<tr>
+			<td>barema 13</td>
+			<td>MV2</td>
+			<td>verzorgend personeel</td>
+			<td>67</td>
+		</tr>
+		<tr>
+			<td>barema 15</td>
+			<td>B2B</td>
+			<td>begeleidend en verzorgend personeel klasse 2B</td>
+			<td>61</td>
+		</tr>
+		<tr>
+			<td>barema 16</td>
+			<td>B2A</td>
+			<td>begeleidend en verzorgend personeel klasse 2A</td>
+			<td>63,5</td>
+		</tr>
+		<tr>
+			<td>barema 17</td>
+			<td>B1c</td>
+			<td>opvoedend personeel klasse 1</td>
+			<td>71</td>
+		</tr>
+		<tr>
+			<td>barema 18</td>
+			<td>B1b</td>
+			<td>hoofdopvoeder</td>
+			<td>79</td>
+		</tr>
+		<tr>
+			<td>barema 19</td>
+			<td>B1a</td>
+			<td>ondersteunend kaderpersoneel</td>
+			<td>86</td>
+		</tr>
+		<tr>
+			<td>barema 19-BIS</td>
+			<td>B1a BIS</td>
+			<td>opvoeder-groepschef-BIS</td>
+			<td>89</td>
+		</tr>
+		<tr>
+			<td>barema 20</td>
+			<td>MV1</td>
+			<td>sociaal paramedisch en therapeutisch personeel</td>
+			<td>71</td>
+		</tr>
+		<tr>
+			<td>barema 21</td>
+			<td>L1</td>
+			<td>licentiaten en tandarts</td>
+			<td>90</td>
+		</tr>
+		<tr>
+			<td>barema 22</td>
+			<td>K5</td>
+			<td>onderdirecteur</td>
+			<td>90</td>
+		</tr>
+		<tr>
+			<td>barema 23</td>
+			<td>K3</td>
+			<td>directeur 30-59 bedden</td>
+			<td>93,5</td>
+		</tr>
+		<tr>
+			<td>barema 24</td>
+			<td>K2</td>
+			<td>directeur 60-89 bedden</td>
+			<td>96,5</td>
+		</tr>
+		<tr>
+			<td>barema 25</td>
+			<td>K1</td>
+			<td>directeur meer dan 90 bedden</td>
+			<td>100</td>
+		</tr>
+		<tr>
+			<td>barema 26</td>
+			<td>G1</td>
+			<td>geneesheer-omnipracticus</td>
+			<td>108</td>
+		</tr>
+		<tr>
+			<td>barema 27</td>
+			<td>GS</td>
+			<td>geneesheer-specialist</td>
+			<td>143,5</td>
+		</tr>
+		<tr>
+			<td>barema 28</td>
+			<td>B2B</td>
+			<td>ADL-assistent</td>
+			<td>61</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<br>
+<br>
+&nbsp;
+
+### BIJLAGE 2
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/18_1.pdf#page=27">Vereiste kwalificaties en barema's van het personeel als vermeld in artikel 3, tweede lid</a>
