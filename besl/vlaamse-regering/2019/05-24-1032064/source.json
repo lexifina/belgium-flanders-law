@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032064,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-24 tot wijziging van de regelgeving betreffende de bekwaamheidsbewijzen en salarisschalen van de personeelsleden van de onderwijsinstellingen voor gewoon basisonderwijs en buitengewoon onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032064/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "b32d7a126113d40cef05ac006f00d95079ead718054f57d91911676a4b470b06",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032064&param=informatie",
+  "as_of": "2019-09-01",
+  "made": "2019-05-24",
+  "gazette": "2019-08-14",
+  "numac": 2019013700,
+  "document_start": "2019-09-01",
+  "document_end": null,
+  "in_force": "2019-09-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2019-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
