@@ -77,7 +77,7 @@ g) 25 lestijden van 50 minuten als het ambt wordt uitgeoefend in de volgende stu
 2) Huishoudhulp;<br>
 3) Huishoudelijk koken;<br>
 4) Huishoudelijke decoratie- en naaitechnieken;<br>
-2° lector : 20 lestijden van 50 minuten.
+2° ....
 
 ### ART. 3.
 
@@ -85,7 +85,9 @@ Het aantal prestatie-eenheden voor een ambt met volledige prestaties in de selec
 
 ### ART. 4.
 
-Het aantal prestatie-eenheden voor een ambt met volledige prestaties in een wervingsambt van het ondersteunend personeel bedraagt 32 klokuren.
+Het aantal prestatie-eenheden voor een ambt met volledige prestaties in de wervingsambten van het ondersteunend personeel wordt op de volgende wijze vastgesteld:<br>
+1° administratief medewerker: 32 klokuren;<br>
+2° stafmedewerker: 36 klokuren.
 
 ### ART. 5.
 
@@ -99,7 +101,29 @@ Het personeelslid dat zitting heeft in een lokaal inspraakorgaan dat opgericht i
 
 ### ART. 6.
 
-§ 1. Het personeelslid dat aangesteld is in het ambt van directeur, heeft recht op een salaris dat wordt uitgedrukt in twintigsten. <br /><br />§ 2. Het personeelslid dat aangesteld is in het ambt van adjunct-directeur secundair volwassenenonderwijs, adjunct-directeur hoger beroepsonderwijs en specifieke lerarenopleiding, technisch adviseur of technisch adviseur-coördinator, heeft recht op een salaris dat wordt uitgedrukt in zesendertigsten.<br /><br />§ 3. Het personeelslid dat aangesteld is in het ambt van administratief medewerker, heeft recht op een salaris dat wordt uitgedrukt in tweeëndertigsten.<br /><br />§ 4. Het personeelslid dat aangesteld is in het ambt van leraar secundair volwassenenonderwijs of lector heeft recht op een salaris dat wordt toegekend op basis van een opdracht die wordt berekend via de formule T/N.<br /><br />Als het personeelslid wordt aangesteld voor een volledig schooljaar, wordt de formule T/N als volgt toegepast : <br />1° T = het aantal lestijden per module gedeeld door 40;<br />2° N = het aantal prestatie-eenheden voor een ambt met voltijdse prestaties, vermeld in artikel 2.<br /><br />Als het personeelslid wordt aangesteld voor een periode die minder lang is dan een volledig schooljaar, wordt bij elke aanstelling in een module de formule T/N als volgt toegepast : <br />1° T = (X/40) * (300/Y) * (U/V), waarbij : <br />- X gelijk is aan het verplicht aantal te organiseren lestijden volgens het opleidingsprofiel waar de module deel van uitmaakt;<br />- Y gelijk is aan het aantal dagen dat het personeelslid in die module is aangesteld;<br />- U gelijk is aan het aantal lestijden van de module die georganiseerd zijn tijdens de periode van aanstelling van het personeelslid;<br />- V gelijk is aan het totale aantal effectief georganiseerde lestijden van de module;<br />2° N = het aantal prestatie-eenheden voor een ambt met voltijdse prestaties, vermeld in artikel 2.<br /><br />Het personeelslid heeft recht op een volledig salaris als T/N = 1. <br /><br />§ 5. In afwijking van paragraaf 4 heeft het personeelslid dat in het lineair georganiseerd onderwijs aangesteld is in het ambt van leraar secundair volwassenenonderwijs of lector, recht op een salaris dat op weekbasis wordt toegekend op basis van een opdracht die wordt berekend via de formule T/N. In deze formule wordt verstaan onder : <br />1° T = het aantal lestijden per week waarmee de leraar secundair volwassenenonderwijs of lector belast is; <br />2° N = het aantal prestatie-eenheden voor een ambt met voltijdse prestaties, vermeld in artikel 2.
+§ 1. Het personeelslid dat aangesteld is in het ambt van directeur, heeft recht op een salaris dat wordt uitgedrukt in twintigsten.<br>
+<br>
+§ 2. Het personeelslid dat aangesteld is in het ambt van adjunct-directeur secundair volwassenenonderwijs, stafmedewerker, technisch adviseur of technisch adviseur-coördinator, heeft recht op een salaris dat wordt uitgedrukt in zesendertigsten.<br>
+<br>
+§ 3. Het personeelslid dat aangesteld is in het ambt van administratief medewerker, heeft recht op een salaris dat wordt uitgedrukt in tweeëndertigsten.<br>
+<br>
+§ 4. Het personeelslid dat aangesteld is in het ambt van leraar secundair volwassenenonderwijs heeft recht op een salaris dat wordt toegekend op basis van een opdracht die wordt berekend via de formule T/N.<br>
+<br>
+Als het personeelslid wordt aangesteld voor een volledig schooljaar, wordt de formule T/N als volgt toegepast :<br>
+1° T = het aantal lestijden per module gedeeld door 40;<br>
+2° N = het aantal prestatie-eenheden voor een ambt met voltijdse prestaties, vermeld in artikel 2.<br>
+<br>
+Als het personeelslid wordt aangesteld voor een periode die minder lang is dan een volledig schooljaar, wordt bij elke aanstelling in een module de formule T/N als volgt toegepast :<br>
+1° T = (X/40) * (300/Y) * (U/V), waarbij :<br>
+- X gelijk is aan het verplicht aantal te organiseren lestijden volgens het opleidingsprofiel waar de module deel van uitmaakt;<br>
+- Y gelijk is aan het aantal dagen dat het personeelslid in die module is aangesteld;<br>
+- U gelijk is aan het aantal lestijden van de module die georganiseerd zijn tijdens de periode van aanstelling van het personeelslid;<br>
+- V gelijk is aan het totale aantal effectief georganiseerde lestijden van de module;<br>
+2° N = het aantal prestatie-eenheden voor een ambt met voltijdse prestaties, vermeld in artikel 2.<br>
+<br>
+Het personeelslid heeft recht op een volledig salaris als T/N = 1.<br>
+<br>
+§ 5. ...
 
 ## HOOFDSTUK 4. Wijzigingsbepalingen
 
