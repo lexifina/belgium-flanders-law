@@ -95,11 +95,13 @@ Het   Steunpunt Adoptie moet voldoen aan de volgende voorwaarden en voorschrifte
 
 ### ART. 15.
 
-<P>&nbsp;Het Steunpunt Adoptie voorziet in een   laagdrempelig ondersteuningsprogramma voor de nazorg voor alle   adoptiebetrokkenen bij een interlandelijke adoptie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   laagdrempelige ondersteuningsprogramma bestaat minstens in:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   adviesverlening;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   gerichte doorverwijzing naar adoptiealerte hulpverlening;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   ondersteuning.</P>
+Het Steunpunt Adoptie voorziet in een laagdrempelig ondersteuningsprogramma voor de nazorg voor adoptiebetrokkenen. Dat bestaat zowel uit nazorg, individueel en in groep, alsook gerichte doorverwijzing naar adoptiealerte hulpverlening.<br>
+<br>
+Het Steunpunt Adoptie faciliteert de trefgroepen en het lotgenotencontact voor geadopteerden en adoptieouders.
 
 ### ART. 16.
 
-Het   Steunpunt Adoptie biedt regelmatig op eigen initiatief of op verzoek vorming aan   alle partijen en hulpverleners die bij de adoptie betrokken zijn.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+Het Steunpunt Adoptie biedt regelmatig op eigen initiatief of op verzoek, opleiding en intervisie aan de medewerkers van de adoptiediensten en andere hulpverleners die bij adoptie betrokken zijn.
 
 ### ART. 17.
 
