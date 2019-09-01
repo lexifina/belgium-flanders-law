@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032472,
+  "title": "Besluit van de Vlaamse Regering van 2019-10-18 tot vervanging van bijlage 1 en 2 van het besluit van de Vlaamse Regering van 5 april 2019 tot vastlegging van de lijst van de bachelor- en masteropleidingen die per instelling worden aangeboden in het hoger onderwijs in Vlaanderen in het academiejaar 2019-2020",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032472/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "d64d262fdd9a840ad266e2c09fc8443cd6fea7b1ac5f9adea59f8857f0a09256",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032472&param=informatie",
+  "as_of": "2019-09-01",
+  "made": "2019-10-18",
+  "gazette": "2019-12-04",
+  "numac": 2019042532,
+  "document_start": "2019-09-01",
+  "document_end": null,
+  "in_force": "2019-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2019-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
