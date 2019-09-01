@@ -238,11 +238,163 @@ De beslissing wordt binnen een termijn van een week ter kennisgeving naar de opl
 
 ## HOOFDSTUK 3. Opleidingsverlof
 
+### ART 22.
+
+Het Vlaams opleidingsverlof kan worden toegekend aan een werknemer voor maximaal 125 uur per jaar.<br>
+<br>
+Aan de werknemer wordt een aantal uren recht op Vlaams opleidingsverlof toegekend a rato van de contractuele tewerkstellingsbreuk zoals opgenomen in de DmfA van de maand september van het opleidingsjaar, op voorwaarde dat die minstens 50 % bedraagt van een voltijdse tewerkstelling.<br>
+<br>
+In afwijking van het tweede lid heeft de werknemer die in september geen contractuele tewerkstellingsbreuk heeft van minstens 50 %, recht op het aantal uren Vlaams opleidingsverlof a rato van de contractuele tewerkstellingsbreuk zoals opgenomen in de DmfA van de maand waarin de eerste opleiding start, op voorwaarde dat die minstens 50 % bedraagt van een voltijdse tewerkstelling.
+
+### ART 23.
+
+§ 1. Op voorwaarde dat er voldaan wordt aan de verplichtingen, vermeld in artikel 111 en 112 van de wet van 22 januari 1985, heeft de werknemer het recht om maximum het aantal uren, bepaald in artikel 22, afwezig te zijn op het werk.<br>
+<br>
+§ 2. Voor opleidingen die regelmatige aanwezigheid vereisen als vermeld in artikel 116, § 1, van de wet van 22 januari 1985, heeft een werknemer het recht om op het werk afwezig te zijn gedurende het aantal uren van de werkelijke aanwezigheid tijdens de contacturen.<br>
+<br>
+§ 3. Voor de opleidingen die geen regelmatige aanwezigheid van de werknemers vereisen als vermeld in artikel 116, § 2, van de wet van 22 januari 1985, heeft de werknemer het recht om op het werk afwezig te zijn gedurende een vast aantal uren dat afhankelijk is van het type traject of opleiding.<br>
+<br>
+Het afleggen van examens voor de examencommissie secundair onderwijs, vermeld in artikel 256/1 van de Codex Secundair Onderwijs, en de examencommissie basisonderwijs, vermeld in artikel 56 van het decreet basisonderwijs van 25 februari 1997, geeft recht op 8 uur Vlaams opleidingsverlof per examen.<br>
+<br>
+Het afleggen van examens die de Vlaamse Gemeenschap organiseert in het kader van een systeem van erkenning en certificering van verworven competenties, geeft recht op 16 uur Vlaams opleidingsverlof.<br>
+<br>
+Voor de opleidingen waarbij gebruik gemaakt wordt van studiepunten, geeft elk studiepunt recht op 4 uur Vlaams opleidingsverlof.<br>
+<br>
+In afwijking van lid 4 geeft de graduaatsopleiding van het hoger beroepsonderwijs tot en met het opleidingsjaar 2021-2022 per studiepunt recht op 6 uur Vlaams opleidingsverlof.<br>
+<br>
+Voor de opleidingen in het volwassenenonderwijs heeft de werknemer het recht om op het werk afwezig te zijn gedurende het voorziene aantal lestijden van de opleiding.
+
+### ART 24.
+
+De werknemer en de werkgever kunnen in het digitale platform Vlaamse opleidingsincentives het beschikbare aantal uren Vlaams opleidingsverlof per werknemer raadplegen, en in de opleidingsdatabank controleren of de opleiding die de werknemer wil volgen, recht geeft op Vlaams opleidingsverlof.<br>
+<br>
+Nadat de werknemer aan de werkgever gemeld heeft dat hij Vlaams opleidingsverlof wil opnemen, maken beiden, rekening houdend met de collectieve planning, afspraken over de opname van de uren Vlaams opleidingsverlof.
+
+### ART 25.
+
+Het Vlaams opleidingsverlof wordt opgenomen ten vroegste vanaf de dag voorafgaand aan de aanvang van de opleiding en ten laatste twee dagen na de laatste les of het laatste examen.
+
+### ART 26.
+
+Vanaf de datum van de goedkeuring van de registratie van de opleiding kan de werknemer Vlaams opleidingsverlof nemen om de geregistreerde opleiding te volgen.
+
+### ART 27.
+
+Een werknemer die een opleiding volgt die een regelmatige aanwezigheid vereist, volgt de opleiding nauwgezet, zoals bepaald in artikel 116, § 1, van de wet van 22 januari 1985, als hij per jaar niet meer dan 10 % van de contacturen ongewettigd afwezig is en deelneemt aan de eindbeoordeling, als de eindbeoordeling deel uitmaakt van de opleiding. Als reden voor gewettigde afwezigheid voor de contacturen en bij de eindbeoordeling, worden alle redenen die aanleiding geven tot schorsing van de arbeidsovereenkomst in hoofde van de werknemer alsook de afwezigheid om beroepsredenen die geattesteerd wordt door de werkgever aanvaard. De nauwgezetheid wordt bepaald op basis van de ongewettigde afwezigheden die de opleidingsverstrekker attesteert, het totale aantal te volgen contacturen en de deelname aan de eindbeoordeling.<br>
+<br>
+In afwijking van het eerste lid dient de werknemer in geval van gewettigde afwezigheid bij de eindbeoordeling aan de eerstvolgende eindbeoordeling deel te nemen en niet meer dan 10 % ongewettigd afwezig te zijn om nauwgezet de opleiding te volgen.<br>
+<br>
+Een werknemer die een opleiding volgt die geen regelmatige aanwezigheid vereist, volgt de opleiding nauwgezet, zoals bepaald in artikel 116, § 2, van de wet van 22 januari 1985, als hij deelneemt aan de eindbeoordeling. Als reden voor gewettigde afwezigheid voor de contacturen en bij de eindbeoordeling, worden alle redenen die aanleiding geven tot schorsing van de arbeidsovereenkomst in hoofde van de werknemer alsook de afwezigheid om beroepsredenen die geattesteerd wordt door de werkgever aanvaard. De nauwgezetheid wordt bepaald aan de hand van de attestering van de opleidingsverstrekker van de deelname aan de eindbeoordeling.<br>
+<br>
+In afwijking van het derde lid dient de werknemer in geval van gewettigde afwezigheid bij de eindbeoordeling aan de eerstvolgende eindbeoordeling deel te nemen om nauwgezet de opleiding te volgen.
+
+### ART 28.
+
+Als het departement vaststelt dat de werknemer de opleiding, vermeld in artikel 116, § 1 en § 2, niet nauwgezet volgt en meer uren Vlaams opleidingsverlof heeft opgenomen dan de uren waarop hij recht had, zal het departement van rechtswege het eerstvolgende recht op het maximum aantal uren Vlaams opleidingsverlof van de werknemer verminderen met 25 %. Het departement brengt de werknemer daarvan schriftelijk op de hoogte.
+
 ## HOOFDSTUK 4. Attestering door de opleidingsverstrekker
+
+### ART 29.
+
+§ 1. De opleidingsverstrekker, vermeld in artikel 109 van de wet van 22 januari 1985, bezorgt de werknemer het inschrijvingsattest en het certificaat. De minister bepaalt de vermeldingen op deze documenten.<br>
+<br>
+§ 2. De opleidingsverstrekker registreert in het digitale platform Vlaamse opleidingsincentives:<br>
+1° in geval van een opleiding die regelmatige aanwezigheid vereist:<br>
+a) het aantal uren aanwezigheid;<br>
+b) het aantal uren gewettigde afwezigheid;<br>
+c) het aantal uren ongewettigde afwezigheid;<br>
+d) in voorkomend geval, de deelname aan het examen.<br>
+2° in geval van een opleiding in het hoger onderwijs:<br>
+a) de deelname aan het examen;<br>
+b) het aantal verworven studiepunten.<br>
+3° in geval van examens voor de examencommissie, een opleiding in het volwassenonderwijs of examens voor de erkenning en certificering van verworven competenties:<br>
+a) de deelname aan het examen;<br>
+b) de datum van het behalen van het evaluatieresultaat of de aflevering van het certificaat.<br>
+<br>
+§ 3. De minister bepaalt de concrete modaliteiten voor de attestering en de registratie door de opleidingsverstrekker.<br>
+<br>
+§ 4. De verstrekker van een opleiding die regelmatige aanwezigheid vereist, houdt een dagelijkse aanwezigheidslijst of -register ter beschikking van de Vlaamse sociale inspectie.<br>
+<br>
+§ 5. De opleidingsverstrekker brengt het departement op de hoogte van de stopzetting van een opleiding.
+
+### ART 30.
+
+De opleidingsverstrekker verstrekt op verzoek van het departement de inlichtingen die noodzakelijk zijn voor de beoordeling van de erkenning of de terugbetaling aan de werkgever.
+
+### ART 31.
+
+De opleidingsverstrekker die de verplichtingen inzake attestering, vermeld in deze afdeling, niet nakomt, ontvangt een aangetekende aanmaning. Indien de opleidingsverstrekker hieraan geen gevolg geeft binnen een periode van 30 dagen trekt het departement de registratie van zijn geregistreerde opleidingen ambtshalve in.
+
+## HOOFDSTUK 5. Terugbetaling aan de werkgever
+
+## Afdeling 1. Voorwaarden
+
+### ART 32.
+
+De werkgever krijgt een terugbetaling van de lonen en de sociale bijdragen in kader van het Vlaams opleidingsverlof als:<br>
+1° de registratie van de opleiding goedgekeurd is volgens de procedure, vermeld in hoofdstuk 2, afdeling 3;<br>
+2° hij de uren Vlaams opleidingsverlof in de DmfA correct heeft geregistreerd;<br>
+3° de werknemer zijn maximum aantal uren niet heeft overschreden;<br>
+4° de werknemer de opleiding nauwgezet heeft gevolgd.<br>
+<br>
+Voor de terugbetaling van de uren Vlaams opleidingsverlof die opgenomen zijn door een werknemer die halftijds en met een vast uurrooster werkt, geldt als bijkomende voorwaarde dat de uren Vlaams opleidingsverlof samenvallen met de arbeidsuren van de werknemer volgens zijn dienstrooster.<br>
+<br>
+Voor de terugbetaling van de uren Vlaams opleidingsverlof voor een opleiding met werkplekleren bij een andere werkgever, geldt als bijkomende voorwaarde dat noch de werknemer, noch de eigen werkgever worden vergoed voor de gepresteerde arbeid.<br>
+<br>
+Voor de terugbetaling van de uren Vlaams opleidingsverlof voor een opleiding waarbij de eigen werkgever ook de opleidingsverstrekker is, geldt als bijkomende voorwaarde dat de werknemer dankzij de opleiding in staat is een andere dan de huidige functie of een onder invloed van een grondig wijzigende omgeving sterk veranderende functie, uit te oefenen.
+
+## Afdeling 2. Registratie van opgenomen Vlaams opleidingsverlof
+
+### ART 33.
+
+De werkgever dient een aanvraag tot terugbetaling in door de opleiding van de werknemer aan te melden in het digitale platform Vlaamse opleidingsincentives binnen een termijn van drie maanden na de start van de opleiding. De minister bepaalt de verdere modaliteiten van de aanvraag. Het departement bevestigt de ontvangst van de aanvraag aan de werknemer en de werkgever.<br>
+<br>
+Als de werknemer een loopbaangerichte opleiding volgt, bezorgt hij het departement een attest van de loopbaanbegeleider dat in zijn persoonlijke ontwikkelingsplan de noodzakelijke behoefte aan een opleiding is opgenomen, samen met het inschrijvingsbewijs. Het departement bevestigt de ontvangst van dit attest aan de werknemer en de werkgever.
+
+### ART 34.
+
+De werkgever verstrekt op verzoek van het departement de inlichtingen die noodzakelijk zijn om zijn aanvraag te onderzoeken.<br>
+<br>
+Als de werkgever nalaat de inlichtingen te verstrekken binnen een maand, na herhaald verzoek van het departement met een aangetekende brief, vervalt zijn aanvraag tot terugbetaling.
+
+### ART 35.
+
+Het departement beoordeelt de aanvraag tot terugbetaling op basis van:<br>
+1° de ontvangen attestering, vermeld in hoofdstuk 4, van de opleidingsverstrekker;<br>
+2° de registratie door de werkgever van het Vlaams opleidingsverlof in de DmfA;<br>
+3° het maximumaantal uren Vlaams opleidingsverlof waarop de werknemer recht heeft.
+
+### ART 36.
+
+Nadat het departement de aanvraag onderzocht heeft, brengt het de werkgever op de hoogte van de beslissing tot terugbetaling van het Vlaams opleidingsverlof.<br>
+<br>
+De beslissing omvat:<br>
+1° in voorkomend geval, het tijdstip van de terugbetaling;<br>
+2° in voorkomend geval, de motivering voor de niet-terugbetaling.
+
+## Afdeling 3. Berekening van het aantal uren terugbetaling van het Vlaams opleidingsverlof
+
+### ART 37.
+
+De terugbetaling aan de werkgever wordt beperkt tot een forfaitair bedrag per uur Vlaams opleidingsverlof waarvoor aan de terugbetalingsvoorwaarden is voldaan.
+
+### ART 38.
+
+Vanaf het schooljaar 2014-2015 bedraagt het forfaitaire bedrag per uur Vlaams opleidingsverlof voor de terugbetaling aan de werkgevers 21,30 euro.
 
 ## HOOFDSTUK 6. Cumulatie
 
+### ART 39.
+
+Het Vlaams opleidingsverlof kan niet gecumuleerd worden met een aanmoedigingspremie in het kader van opleidingskrediet.
+
 ## HOOFDSTUK 7. Wijzigingen van het besluit van de Vlaamse Regering van 17 mei 2013 betreffende de loopbaanbegeleiding
+
+### ART 40.
+
+In artikel 4 van het besluit van de Vlaamse Regering van 17 mei 2013 betreffende de loopbaanbegeleiding, gewijzigd bij de besluiten van de Vlaamse Regering van 13 februari 2015 en 13 oktober 2017, wordt paragraaf 2 vervangen door wat volgt:<br>
+<br>
+" § 2. De gemandateerde onderneming bezorgt de professioneel actieve persoon een gepersonaliseerd attest als in zijn persoonlijk ontwikkelingsplan de noodzakelijke behoefte is opgenomen aan een opleiding als vermeld in artikel 7, § 1, tweede lid, 2°, en § 2, van het besluit van de Vlaamse Regering van 18 juli 2003 betreffende de opleidingscheques voor werknemers of als vermeld in artikel 109, § 3, van de herstelwet van 25 januari 1985 houdende diverse bepalingen. Dat attest vermeldt ten minste de opleiding die past in het kader van het persoonlijk ontwikkelingsplan. Dit attest heeft een geldigheidsduur van zes jaar, vanaf het beëindigen van de loopbaanbegeleiding.
 
 ## HOOFDSTUK 8. Bepalingen inzake gegevensverwerking
 
@@ -263,3 +415,25 @@ De persoonsgegevens worden beveiligd volgens de dataclassificatie en de richtlij
 De persoonsgegevens die overeenkomstig dit besluit verwerkt worden, worden slechts zo lang bewaard als nodig voor de terugbetaling van de werkgever, conform hoofdstuk 5, het bepalen van de nauwgezetheid, conform artikel 27, en in voorkomend geval de vermindering van het opleidingsverlof, vermeld in artikel 28.
 
 ## HOOFDSTUK 9. Slotbepalingen
+
+### ART 45.
+
+De volgende regelingen worden opgeheven:<br>
+1° het koninklijk besluit van 23 juli 1985 tot uitvoering van afdeling 6 - toekenning van betaald educatief verlof in het kader van de voortdurende vorming van de werknemers - van hoofdstuk IV van de herstelwet van 22 januari 1985 houdende sociale bepalingen, het laatst gewijzigd bij het koninklijk besluit van 17 december 2017, met uitzondering van artikel 14, § 1, 15 en 16;<br>
+2° het koninklijk besluit van 10 november 2001 tot verruiming van het toepassingsgebied van afdeling 6 - toekenning van betaald educatief verlof in het kader van voortdurende vorming van de werknemers - van hoofdstuk IV van de herstelwet van 22 januari 1985 houdende sociale bepalingen;<br>
+3° het koninklijk besluit van 27 augustus 1993 tot wijziging van de lijst van de opleidingen die in aanmerking komen voor betaald educatief verlof, gewijzigd bij het koninklijk besluit van 28 maart 1995;<br>
+4° het koninklijk besluit van 3 mei 1990 waarbij de toepassingsregels voor toekenning van betaald educatief verlof aan werknemers die examens voor de centrale examencommissie voorbereiden en afleggen worden bepaald.<br>
+<br>
+In afwijking van het eerste lid blijven de voormelde besluiten van toepassing voor werknemers die voor 1 september 2019 een opleiding volgen die recht geeft op betaald educatief verlof, tot en met het derde gevolgde jaar van de opleiding, met als uiterlijke datum 31 december 2021, ook als de opleiding de status van arbeidsmarktgerichte opleiding, die recht geeft op Vlaams opleidingsverlof, verliest volgens de regeling die van kracht wordt vanaf 1 mei 2019. Het aantal terugbetaalde uren betaald educatief verlof wordt in mindering gebracht van het aantal uren recht op Vlaams opleidingsverlof, zoals bepaald in artikel 22, voor hetzelfde opleidingsjaar om het aantal uren te bepalen waarop de werknemer recht heeft om afwezig te zijn op het werk, zoals bepaald in artikel 23.
+
+### ART 46.
+
+Met uitzondering van artikel 23, 24 en 25 treedt het decreet van 12 oktober 2018 houdende het Vlaams opleidingsverlof en houdende diverse bepalingen betreffende het beleidsdomein Werk en Sociale Economie in werking op 1 september 2019, met uitzondering van artikel 2, 4, 5 en 6, die in werking treden op 1 mei 2019.
+
+### ART 47.
+
+Dit besluit treedt in werking op 1 september 2019, met uitzondering van hoofdstuk 1, 2 en 8, die in werking treden op 1 mei 2019.
+
+### ART 48.
+
+De Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, is belast met de uitvoering van dit besluit.
