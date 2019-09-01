@@ -18,7 +18,15 @@ Het buitengewoon secundair onderwijs van opleidingsvorm drie verstrekt aan de le
 
 ### ART. 4.
 
-De opleidingsvorm drie omvat drie fasen plus een facultatieve integratiefase:<br />1° de observatiefase: omvat het eerste jaar en is beperkt tot één volledig schooljaar;<br />2° de opleidingsfase: omvat ten minste twee schooljaren;<br />3° de kwalificatiefase: omvat ten minste twee schooljaren;<br />4° de facultatieve integratiefase: is bedoeld voor leerling die het getuigschrift van een opleiding hebben behaald. Deze fase omvat één volledig schooljaar in de vorm van een alternerende beroepsopleiding. Deze facultatieve integratiefase van één schooljaar kan bij wijze van uitzondering door de klassenraad verlengd worden tot een tweede schooljaar, als een leerling door omstandigheden een lange periode gewettigd afwezig was gedurende het eerste schooljaar van de integratiefase en daardoor geen getuigschrift heeft behaald.<br /><br />Bij wijze van uitzondering kan, op gemotiveerd advies van de klassenraad, een leerling die nog geen getuigschrift van de opleiding heeft behaald, toch worden toegelaten tot de integratiefase.
+De opleidingsvorm drie omvat drie fasen plus een facultatieve integratiefase:<br>
+1° de observatiefase: omvat het eerste jaar en is beperkt tot één volledig schooljaar;<br>
+2° de opleidingsfase: omvat ten minste twee schooljaren;<br>
+3° de kwalificatiefase: omvat ten minste twee schooljaren;<br>
+4° de facultatieve integratiefase: is bedoeld voor leerling die het getuigschrift van een opleiding hebben behaald. Deze fase omvat één volledig schooljaar in de vorm van een alternerende beroepsopleiding. Deze facultatieve integratiefase van één schooljaar kan bij wijze van uitzondering door de klassenraad verlengd worden tot een tweede schooljaar in volgende situaties:<br>
+a) als een leerling door omstandigheden een lange periode gewettigd afwezig was gedurende het eerste schooljaar van de integratiefase en daardoor geen getuigschrift heeft behaald;<br>
+b) als een leerling nood blijkt te hebben aan een tweede jaar van de integratiefase op basis van individuele handelingsplanning gedurende het eerste schooljaar van de integratiefase en daardoor geen getuigschrift heeft behaald.<br>
+<br>
+Bij wijze van uitzondering kan, op gemotiveerd advies van de klassenraad, een leerling die nog geen getuigschrift van de opleiding heeft behaald, toch worden toegelaten tot de integratiefase.
 
 ### ART. 5.
 
@@ -102,7 +110,22 @@ De voor iedere opleiding noodzakelijke beroepsgerichte vaardigheden worden bepaa
 
 ### ART. 13.
 
-§ 1. De klassenraad, bijgestaan door de instelling belast met de   begeleiding, beslist over:<BR>- de toelating van een leerling tot een jaar van   een opleiding, rekening houdend met het feit dat als bijzondere   toelatingsvoorwaarde tot de opleiding grootkeukenmedewerker, bakkersgast en   slagersgast, geldt dat de leerling medisch geschikt moet zijn bevonden. Die   geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding,   tenzij er een aanleiding is om de geschiktheid te herevalueren. Een   ongeschiktheidsverklaring in de loop van het schooljaar impliceert de beslissing   van de betrokken personen om de leerling uiterlijk op het einde van dat   schooljaar de opleiding te laten stopzetten;<BR>- de overgang van een leerling   naar een andere opleiding of naar een ander jaar in de loop van het   schooljaar;<BR>- de vrijstelling van een leerling voor één of meer jaren;<BR>-   de toelating tot het volgen van de alternerende beroepsopleiding van een   leerling die een getuigschrift van verworven competenties of een attest van   verworven bekwaamheden heeft behaald<BR>- de duur van de observatiefase, in   functie van de leerling. Zij kan bij gemotiveerde beslissing afwijken van het   bij artikel 4, 1° van onderhavig besluit bepaalde;<BR>- de duur van de   opleidingsfase en de kwalificatiefase.<BR>- de toelating van een leerling tot de   kwalificatieproef.<BR><BR>De beslissingen van de klassenraad moeten gemotiveerd   zijn.<BR><BR>§ 2. Het verlenen van vrijstelling(en) voor een of meer jaren mag   niet tot gevolg hebben dat de leerling vóór de leeftijd van 18 jaar zijn   opleiding in opleidingsvorm drie beëindigt.<BR><BR>§ 3. De vermindering van de   studieduur mag niet voor gevolg hebben dat de opleiding na het eerste jaar van   het secundair onderwijs minder dan vier schooljaren bedraagt. Voor de berekening   van deze vier schooljaren wordt de duur van eventuele vrijstellingen volledig in   aanmerking genomen.<BR><BR>§ 4. Leerlingen in de kwalificatiefase moeten ten   minste twee schooljaren in dezelfde opleiding hebben gevolgd, tenzij de   klassenraad beslist heeft voor een individuele leerling dat de kwalificatiefase   wordt ingekort tot één schooljaar.
+§ 1. De klassenraad, bijgestaan door de instelling belast met de begeleiding, beslist over:<br>
+- de toelating van een leerling tot een jaar van een opleiding;<br>
+- de overgang van een leerling naar een andere opleiding of naar een ander jaar in de loop van het schooljaar;<br>
+- de vrijstelling van een leerling voor één of meer jaren;<br>
+- de toelating tot het volgen van de alternerende beroepsopleiding van een leerling die een getuigschrift van verworven competenties of een attest van verworven bekwaamheden heeft behaald<br>
+- de duur van de observatiefase, in functie van de leerling. Zij kan bij gemotiveerde beslissing afwijken van het bij artikel 4, 1° van onderhavig besluit bepaalde;<br>
+- de duur van de opleidingsfase en de kwalificatiefase.<br>
+- de toelating van een leerling tot de kwalificatieproef.<br>
+<br>
+De beslissingen van de klassenraad moeten gemotiveerd zijn.<br>
+<br>
+§ 2. Het verlenen van vrijstelling(en) voor een of meer jaren mag niet tot gevolg hebben dat de leerling vóór de leeftijd van 18 jaar zijn opleiding in opleidingsvorm drie beëindigt.<br>
+<br>
+§ 3. De vermindering van de studieduur mag niet voor gevolg hebben dat de opleiding na het eerste jaar van het secundair onderwijs minder dan vier schooljaren bedraagt. Voor de berekening van deze vier schooljaren wordt de duur van eventuele vrijstellingen volledig in aanmerking genomen.<br>
+<br>
+§ 4. Leerlingen in de kwalificatiefase moeten ten minste twee schooljaren in dezelfde opleiding hebben gevolgd, tenzij de klassenraad beslist heeft voor een individuele leerling dat de kwalificatiefase wordt ingekort tot één schooljaar.
 
 ## HOOFDSTUK III STUDIESANCTIONERING
 
@@ -130,7 +153,13 @@ Voor een leerling die niet onder de toepassing van het tweede lid valt, is het a
 <br>
 Deze leerling ontvangt dan van de klassenraad, naargelang het geval, ofwel het getuigschrift van de opleiding ofwel het getuigschrift van verworven competenties ofwel het attest van verworven bekwaamheden ofwel het attest beroepsonderwijs. De klassenraad houdt hierbij onder meer rekening met het advies van de kwalificatiecommissie met betrekking tot de kwalificatieproef.<br>
 <br>
-§ 6. Een leerling die in de kwalificatiefase of in de integratiefase een getuigschrift heeft behaald, kan niet meer opnieuw ingeschreven worden in de kwalificatiefase of de integratiefase van dezelfde opleiding. Een leerling die in de kwalificatiefase of in de integratiefase een getuigschrift heeft behaald, kan niet meer opnieuw ingeschreven worden in de kwalificatiefase of de integratiefase van een andere opleiding die niet valt onder het samenhangende geheel van opleidingen.
+§ 6. Een leerling die in de kwalificatiefase of in de integratiefase een getuigschrift heeft behaald, kan niet meer opnieuw ingeschreven worden in de kwalificatiefase of de integratiefase van dezelfde opleiding.<br>
+<br>
+Voor een leerling die in de kwalificatiefase of in de integratiefase een getuigschrift heeft behaald, kan de klassenraad beslissen om deze opnieuw in te schrijven in de kwalificatiefase of de integratiefase van een andere opleiding.<br>
+<br>
+Deze leerling ontvangt dan op het einde van de kwalificatiefase van de klassenraad, naargelang het geval, ofwel het getuigschrift van de opleiding ofwel het getuigschrift van verworven competenties ofwel het attest van verworven bekwaamheden ofwel het attest beroepsonderwijs. De klassenraad houdt hierbij onder meer rekening met het advies van de kwalificatiecommissie met betrekking tot de kwalificatieproef.<br>
+<br>
+Deze leerling ontvangt dan op het einde van de integratiefase ofwel het getuigschrift van alternerende beroepsopleiding ofwel het attest van alternerende beroepsopleiding. Daarnaast ontvangt deze leerling ook nog ofwel het getuigschrift van de opleiding ofwel het getuigschrift van verworven competenties ofwel het attest van verworven bekwaamheden ofwel het attest beroepsonderwijs. De klassenraad houdt hierbij onder meer rekening met het advies van de kwalificatiecommissie met betrekking tot de kwalificatieproef..
 
 ### ART. 15.
 
@@ -150,7 +179,7 @@ Gedurende de integratiefase wordt de leerling begeleid door een begeleidingsteam
 
 ### ART. 19.
 
-De getuigschriften, de attesten en de processen-verbaal worden ondertekend door de directeur en minstens drie leden van de klassenraad. Uitzondering hierop is het attest van alternerende beroepsopleiding dat enkel ondertekend wordt door de directeur.
+De getuigschriften, de attesten en de processen-verbaal worden ondertekend door de directeur en minstens drie leden van de klassenraad. Uitzondering hierop is het attest van alternerende beroepsopleiding dat enkel ondertekend wordt door de directeur. De processen-verbaal worden gedurende vijftig jaar bewaard
 
 ### ART. 20.
 
