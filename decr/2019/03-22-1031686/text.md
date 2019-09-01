@@ -2,15 +2,241 @@
 
 ## HOOFDSTUK 1. Inleidende bepaling
 
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.
+
 ## HOOFDSTUK 2. Wijzigingsbepalingen
 
 ## Afdeling 1. Wijzigingen van het decreet basisonderwijs van 25 februari 1997
 
+### ART 2.
+
+In artikel 3 van het decreet basisonderwijs van 25 februari 1997, het laatst gewijzigd bij het decreet van 6 juli 2018, wordt voor de punten 52° bis/1 en 52° bis/1/1, die punten 52° bis/1/1 en 52° bis/1/2 worden, een nieuw punt 52° bis/1 ingevoegd, dat luidt als volgt:<br>
+"52° bis/1 selectieve participatietoeslagen leerling: de selectieve participatietoeslagen, zoals opgenomen in boek 2, deel 2, titel 1, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid;".
+
+### ART 3.
+
+In artikel 37septies van hetzelfde decreet, ingevoegd bij het decreet van 25 november 2011 en gewijzigd bij het decreet van 25 april 2014, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 3 wordt punt 1° vervangen door wat volgt:<br>
+"1° het gezin, vermeld in artikel 3, § 1, 17°, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid, heeft in het schooljaar dat voorafgaat aan het schooljaar waarop de inschrijving van de leerling betrekking heeft, of in het daaraan voorafgaande schooljaar, minstens één selectieve participatietoeslag leerling ontvangen, of het gezin heeft een beperkt inkomen.<br>
+Voor de schooljaren 2019-2020 en 2020-2021 komen eveneens in aanmerking voor voorrang: de leefeenheid ontving in het schooljaar dat voorafgaat aan het schooljaar waarop de inschrijving van de leerling betrekking heeft, of in het daaraan voorafgaande schooljaar, minstens één schooltoelage zoals bedoeld in het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, ontvangen, of het gezin heeft een beperkt inkomen. Met leefeenheid wordt bedoeld, een of meer meerderjarigen, ongeacht hun geslacht, met eventueel een of meer minderjarigen die hun hoofdverblijfplaats hebben op hetzelfde adres, alsook een of meer minderjarige gehuwde, zelfstandige of alleenstaande leerlingen of studenten, ongeacht hun geslacht, met eventueel een of meer minder- en meerderjarigen die hun hoofdverblijfplaats hebben op hetzelfde adres;";<br>
+2° in paragraaf 4 wordt het woord "schooltoelagen" vervangen door de woorden "de selectieve participatietoeslagen leerling".
+
+### ART 4.
+
+In artikel 78, § 1, van hetzelfde decreet, ingevoegd bij het decreet van 4 juli 2008, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° wordt punt b) vervangen door wat volgt:<br>
+"b) het krijgen van een selectieve participatietoeslag leerling: er wordt een selectieve participatietoeslag leerling uitbetaald ten gunste van de leerling, hierna leerlingenkenmerk 2 te noemen. Voor de toepassing van dit artikel worden de leerlingen die enkel door ongewettigde afwezigheid of onvoldoende aanwezigheid geen recht hadden op een selectieve participatietoeslag, ook meegerekend;";<br>
+2° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"In afwijking van het eerste lid, 1°, b), wordt voor het begrotingsjaar 2020 voor de scholen die tellen conform artikel 87, § 1, onder leerlingenkenmerk 2 begrepen, het krijgen van een schooltoelage: er wordt een schooltoelage gegeven aan de leerling, als vermeld in het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap uitbetaald ten gunste van de leerling, hierna leerlingenkenmerk 2 te noemen. Voor de toepassing van dit artikel worden de leerlingen die alleen door ongewettigde afwezigheid of onvoldoende aanwezigheid geen recht op een schooltoelage hadden, ook meegerekend;".
+
 ## Afdeling 2. Wijzigingen van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap
+
+### ART 6.
+
+Artikel 2 van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap wordt vervangen door wat volgt:<br>
+"Art. 2. Dit decreet regelt de studiefinanciering in het hoger onderwijs van de Vlaamse Gemeenschap, via een stelsel van studietoelagen.".
+
+### ART 7.
+
+In artikel 3 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "Schooltoelagen en" worden opgeheven;<br>
+2° tussen de woorden "de democratisering van het" en het woord "onderwijs" wordt het woord "hoger" ingevoegd.
+
+### ART 8.
+
+In artikel 4 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt opgeheven;<br>
+2° in het bestaande derde lid, dat het tweede lid wordt, worden de woorden "schooltoelagen en" en de zinsnede "de leerling," opgeheven;<br>
+3° in het bestaande derde lid, dat het tweede lid wordt, wordt het woord "hun" vervangen door het woord "zijn".
+
+### ART 9.
+
+In artikel 5 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 4 mei 2018, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° worden de zinsnede "leerling," de woorden "leerling of" en de zinsnede "school- of" opgeheven;<br>
+2° punt 7°, 10° en 11° worden opgeheven;<br>
+3° in punt 21° worden de woorden "leerlingen of" opgeheven;<br>
+4° punt 22° en 23° worden opgeheven;<br>
+5° in punt 25° worden de woorden "een schooltoelage in het secundair onderwijs of" opgeheven;<br>
+6° in punt 30° worden de woorden "leerling en" en de woorden "een school-toelage of" opgeheven;<br>
+7° punt 32°, 33° en 34° worden opgeheven;<br>
+8° in punt 39° worden de woorden "een schooltoelage of" opgeheven;<br>
+9° in punt 40° worden de zinsnede " school- of" en de woorden "leerling of" opgeheven;<br>
+10° punt 44° wordt opgeheven.
+
+### ART 10.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 15 juni 2018, worden in het opschrift van boek II de woorden "Schooltoelagen en" opgeheven.
+
+### ART 11.
+
+In artikel 7, eerste en tweede lid, van hetzelfde decreet wordt de zinsnede "school- of" opgeheven.
+
+### ART 12.
+
+In artikel 8, tweede lid, van hetzelfde decreet, vervangen bij het decreet van 21 december 2012, worden de woorden "leerling of" opgeheven.
+
+### ART 13.
+
+In artikel 9 van hetzelfde decreet, gewijzigd bij de decreten van 8 mei 2009, 16 juni 2017 en 15 juni 2018, worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "leerlingen of" worden telkens opgeheven;<br>
+2° in paragraaf 2, 1°, 2°, 3°, 7° en 8°, wordt de zinsnede "school- of" telkens opgeheven.
+
+### ART 14.
+
+In boek II, titel III, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 17 juni 2016, wordt hoofdstuk I, dat bestaat uit artikelen 10 tot en met 19/1, opgeheven.
+
+### ART 15.
+
+In artikel 33, eerste lid, van hetzelfde decreet, worden de woorden "leerling of" telkens opgeheven.
+
+### ART 16.
+
+In artikel 34 van hetzelfde decreet, gewijzigd bij de decreten van 21 december 2012, 17 juni 2016 en 16 juni 2017, worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "leerling of" worden telkens opgeheven;<br>
+2° in paragraaf 1, 3°, 4° en 5°, en paragraaf 4, eerste lid, worden de woorden "leerlingen of" telkens opgeheven;<br>
+3° in paragraaf 4, derde lid, worden de woorden "of leerling" opgeheven.
+
+### ART 17.
+
+In artikel 36 van hetzelfde decreet worden de woorden "leerling of" opgeheven.
+
+### ART 18.
+
+In artikel 37 van hetzelfde decreet worden de zinsnede "school- of" en de woorden "leerling of" opgeheven.
+
+### ART 19.
+
+In artikel 38 van hetzelfde decreet, gewijzigd bij de decreten van 4 juli 2008 en 1 juli 2011, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste, tweede en vijfde lid worden de woorden "leerling of" opgeheven;<br>
+2° in het vierde lid worden de woorden "leerlingen en" opgeheven;<br>
+3° in het vijfde lid wordt de zinsnede "school- of" opgeheven.
+
+### ART 20.
+
+In artikel 39 van hetzelfde decreet, gewijzigd bij de decreten van 4 juli 2008 en 30 april 2009, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, 2 en 6 worden de woorden "leerling of" opgeheven;<br>
+2° paragraaf 5 wordt opgeheven.
+
+### ART 21.
+
+Artikel 40 van hetzelfde decreet wordt opgeheven.
+
+### ART 22.
+
+In artikel 41, § 1, 2°, van hetzelfde decreet wordt de zinsnede "school- of" opgeheven.
+
+### ART 23.
+
+In artikel 42 van hetzelfde decreet, gewijzigd bij de decreten van 8 mei 2009 en 9 juli 2010, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, 2° en 4°, en paragraaf 4 en 5 worden de woorden "leerling of" telkens opgeheven;<br>
+2° in paragraaf 1, 3°, en paragraaf 2 en 3 wordt de zinsnede "school- of" opgeheven.
+
+### ART 24.
+
+In artikel 44 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "voltijds secundair en", de woorden "leerling of", en de woorden "in een internaat of" opgeheven;<br>
+2° het tweede lid wordt opgeheven.
+
+### ART 25.
+
+In artikel 46 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede "artikelen 43, 48, 49, 50 en 51" vervangen door de zinsnede "artikelen 43 en 51";<br>
+2° in het eerste lid wordt de zinsnede "school- of" opgeheven;<br>
+3° in het derde lid worden de woorden "de leerling en" opgeheven.
+
+### ART 26.
+
+In artikel 47 van hetzelfde decreet wordt de zinsnede "school- of" opgeheven.
+
+### ART 27.
+
+In boek II, titel IV, hoofdstuk V, van hetzelfde decreet, het laatst gewijzigd bij het decreet 9 juli 2010, worden afdeling II, die bestaat uit artikelen 48 en 49, en afdeling III, die bestaat uit artikel 50, opgeheven.
+
+### ART 28.
+
+In artikel 53 van hetzelfde decreet, gewijzigd bij het decreet van 1 juli 2011, wordt de zinsnede "school- of" telkens opgeheven.
+
+### ART 29.
+
+In artikel 53/1 van hetzelfde decreet, ingevoegd bij het decreet van 21 december 2012 en gewijzigd bij de decreten van 25 april 2014 en 15 juni 2018, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "leerling of" opgeheven;<br>
+2° in het eerste en in het tweede lid wordt de zinsnede "school- of" telkens opgeheven;<br>
+3° in het derde en het vierde lid worden de woorden "de leerling of" opgeheven.
+
+### ART 30.
+
+In artikel 54, eerste lid, van hetzelfde decreet, vervangen bij het decreet van 9 juli 2010 en gewijzigd bij het decreet van 21 december 2012, wordt de zinsnede "school- of" telkens opgeheven.
+
+### ART 31.
+
+In artikel 55 van hetzelfde decreet, gewijzigd bij het decreet van 15 juni 2018, wordt de zinsnede "school- of" opgeheven.
+
+### ART 32.
+
+In boek II, titel V, hoofdstuk I, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 25 april 2014, wordt afdeling II, die bestaat uit artikel 56 en 56/1, opgeheven.
+
+### ART 33.
+
+In artikel 59, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 1 juli 2011, wordt de zinsnede "school- of" telkens opgeheven.
+
+### ART 34.
+
+In artikel 60, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 1 juli 2011 en gewijzigd bij het decreet van 21 december 2012, wordt de zinsnede "school- of" telkens opgeheven.
+
+### ART 35.
+
+In boek II, titel V, hoofdstuk III, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 21 december 2012, wordt afdeling II, die bestaat uit artikel 66 en 66/1, opgeheven.
+
+### ART 36.
+
+In artikel 68, eerste lid, 3°, van hetzelfde decreet wordt de zinsnede "vermeld in artikelen 62, 65 en 66" vervangen door de zinsnede "vermeld in artikel 62".
+
+### ART 37.
+
+Artikel 74 van hetzelfde decreet wordt opgeheven.
 
 ## Afdeling 3. Wijzigingen van de Codex Secundair Onderwijs van 17 december 2010
 
+### ART 38.
+
+In artikel 3 van de Codex Secundair Onderwijs van 17 december 2010, het laatst gewijzigd bij het decreet van 6 juli 2018, wordt een punt 37° /1 ingevoegd, dat luidt als volgt:<br>
+"37° /1 selectieve participatietoeslagen leerling: de selectieve participatietoeslagen, zoals opgenomen in boek 2, deel 2, titel 1, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid;".
+
+### ART 39.
+
+In artikel 110/7 van dezelfde codex, ingevoegd bij het decreet van 25 november 2011 en gewijzigd bij het decreet van 25 april 2014, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 3 wordt punt 1° vervangen door wat volgt:<br>
+"1° het gezin, vermeld in artikel 3, § 1, 17°, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid, heeft in het schooljaar, dat voorafgaat aan het schooljaar waarop de inschrijving van de leerling betrekking heeft, of in het daaraan voorafgaande schooljaar, minstens één selectieve participatietoeslag leerling ontvangen, of het gezin heeft een beperkt inkomen.<br>
+Voor de schooljaren 2019-2020 en 2020-2021 komen eveneens in aanmerking voor voorrang: de leefeenheid, ontving in het schooljaar, voorafgaand aan het schooljaar waarop de inschrijving van de leerling betrekking heeft, of in het daaraan voorafgaande schooljaar, minstens één schooltoelage zoals bedoeld in het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, of het gezin heeft een beperkt inkomen. Met leefeenheid wordt bedoeld, een of meer meerderjarigen, ongeacht hun geslacht, met eventueel een of meer minderjarigen die hun hoofdverblijfplaats hebben op hetzelfde adres, alsook een of meer minderjarige gehuwde, zelfstandige of alleenstaande leerlingen of studenten, ongeacht hun geslacht, met eventueel een of meer minder- en meerderjarigen die hun hoofdverblijfplaats hebben op hetzelfde adres;";<br>
+2° in paragraaf 4 wordt het tweede lid opgeheven.
+
+### ART 40.
+
+In artikel 112, derde lid, van dezelfde codex, gewijzigd bij de decreten van 4 april 2014 en 15 juni 2018, wordt het woord "schooltoelagen" vervangen door de woorden "de selectieve participatietoeslagen leerling".
+
+### ART 41.
+
+In artikel 225, § 1, 1°, van dezelfde codex wordt de zinsnede "schooltoelagen zoals bedoeld in artikel 5, 34°, van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap" vervangen door de woorden "selectieve participatietoeslagen leerling".
+
+### ART 42.
+
+In artikel 233, § 1, 1°, van dezelfde codex wordt de zinsnede "schooltoelage(n) zoals bedoeld in artikel 5, 34°, van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap" vervangen door de woorden "selectieve participatietoeslagen leerling".
+
+### ART 43.
+
+In artikel 242, § 1, van dezelfde codex worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° wordt punt b) vervangen door wat volgt:<br>
+"b) het krijgen van een selectieve participatietoeslag leerling: er wordt een selectieve participatietoeslag leerling gegeven aan de leerling als vermeld in het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid, hierna leerlingenkenmerk 2 te noemen. Voor de toepassing van dit artikel worden de leerlingen die alleen door ongewettigde afwezigheid geen recht op een selectieve participatietoeslag leerling hadden, ook meegerekend;";<br>
+2° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"In afwijking van het eerste lid, 1°, b), wordt voor het begrotingsjaar 2020 voor de scholen die tellen conform artikel 169, onder leerlingenkenmerk 2 begrepen, het krijgen van een schooltoelage: er wordt een schooltoelage gegeven aan de leerling als vermeld in het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap uitbetaald ten gunste van de leerling, hierna leerlingenkenmerk 2 te noemen. Voor de toepassing van dit artikel worden de leerlingen die alleen door ongewettigde afwezigheid geen recht op een schooltoelage hadden, ook meegerekend.".
+
 ## Afdeling 4. Wijziging van de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016
+
+### ART 44.
+
+In artikel III.17, § 3, van de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016 wordt het woord "studietoelage" vervangen door de woorden "selectieve participatietoeslag leerling".
 
 ## Afdeling 5. Wijzigingen van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid
 
@@ -54,6 +280,47 @@ Een leerplichtige kleuter is ongewettigd afwezig wanneer deze problematisch afwe
 
 In artikel 28, § 1, 2° van hetzelfde decreet wordt de zinsnede "artikel 13, § 2 tot en met § 6, van het decreet van 8 juni 2007" vervangen door de zinsnede "artikel 27, § 2 tot en met § 6".
 
+### ART 50.
+
+In artikel 30 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in de bestaande tekst, die paragraaf 1 zal vormen, wordt in punt 2° de zinsnede "als vermeld in artikel 14, § 1, 2° juncto § 2 en § 3, van het decreet van 8 juni 2007" opgeheven;<br>
+2° er worden een paragraaf 2 tot en met 4 toegevoegd, die luiden als volgt:<br>
+" § 2. Een leerling wordt tijdens een schooljaar geacht niet voldoende aanwezig te zijn als de leerling gedurende het schooljaar in kwestie 30 al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest en het daaraan voorafgaande schooljaar hetzij eveneens 30 al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest, hetzij minder dan 250 halve schooldagen aanwezig is geweest indien de leerling toen nog niet onderworpen was aan de leerplicht maar wel ingeschreven was in een kleuterschool.<br>
+§ 3. Een leerling in het lager onderwijs wordt geacht aanwezig te zijn als hij niet als ongewettigd afwezig is geregistreerd in het aanwezigheidsregister van de school.<br>
+Een leerling is ongewettigd afwezig wanneer deze problematisch afwezig is, zoals bedoeld in het besluit van de Vlaamse Regering van 12 november 1997 betreffende de controle op de inschrijvingen van de leerlingen in het basisonderwijs.<br>
+§ 4. In afwijking van paragraaf 2 bepaalt de Vlaamse Regering het aantal halve schooldagen dat een leerling maximaal per schooljaar ongewettigd afwezig mag zijn, wanneer de erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor gewoon of buitengewoon basisonderwijs, overeenkomstig artikel 8 van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs en in het deeltijds onderwijs, georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap, over een afwijkende uurregeling beschikt.".
+
+### ART 51.
+
+In artikel 31, § 1, 2°, van hetzelfde decreet wordt de zinsnede "artikel 14, § 1, 2° juncto § 2 en § 3, van het decreet van 8 juni 2007" vervangen door de zinsnede "artikel 30, § 2 tot en met § 4".
+
+### ART 52.
+
+In artikel 33, § 1, eerste lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° tussen de woorden "voor de in het buitenland" en de woorden "of een centrum als vermeld in artikel 32" worden de woorden "of in een andere gemeenschap gevolgde studierichting of opleiding geen equivalente opleiding bestaat in een onderwijsinstelling" ingevoegd;<br>
+2° de zinsnede "de meeneembaarheid van de toelage als vermeld in artikel 5, 25°, van het decreet van 8 juni 2007 waarbij `schooltoelage in het secundair onderwijs' wordt gelezen als `selectieve participatietoeslag secundair onderwijs'" wordt vervangen door de zinsnede "het krijgen van een selectieve participatietoeslag secundair onderwijs voor een studieprogramma of opleiding, gevolgd in een andere gemeenschap of in het buitenland".
+
+### ART 53.
+
+In artikel 34 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in de bestaande tekst, die paragraaf 1 zal vormen, wordt in het eerste lid, 2°, de zinsnede "als vermeld in artikel 16, § 1, 2° juncto § 2 en § 3, van het decreet van 8 juni 2007" opgeheven;<br>
+2° er worden een paragraaf 2 tot en met 4 toegevoegd, die luiden als volgt:<br>
+" § 2. Een leerling wordt tijdens een schooljaar geacht niet voldoende aanwezig te zijn als de leerling gedurende het schooljaar in kwestie 30 al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest tijdens de lessen in de erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor voltijds gewoon of buitengewoon secundair onderwijs, en/of het werkplekleren dat deel uitmaakt van de opleiding in de periode van 1 september tot en met 30 juni, en als hij gedurende het schooljaar dat voorafgaat aan het schooljaar in kwestie 30, al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest tijdens de lessen in de erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor voltijds gewoon of buitengewoon secundair onderwijs of de erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor gewoon of buitengewoon basisonderwijs, en/of het werkplekleren dat deel uitmaakt van de opleiding in de periode van 1 september tot en met 30 juni.<br>
+§ 3. Een leerling in het secundair onderwijs en het deeltijds leerplichtonderwijs wordt geacht aanwezig te zijn wanneer deze tijdens de lessen of het werkplekleren daadwerkelijk aanwezig is of niet ongewettigd afwezig is.<br>
+Een leerling is ongewettigd afwezig wanneer deze problematisch afwezig is, zoals bedoeld in het besluit van de Vlaamse Regering van 16 september 1997 betreffende de controle op de inschrijvingen van leerlingen in het secundair onderwijs of in het stelsel van leren en werken.<br>
+In afwijking van het tweede lid is een leerling die met een erkende leerovereenkomst of -verbintenis in het kader van de leertijd een opleiding volgt in een erkend en gesubsidieerd centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, onwettig afwezig wanneer deze problematisch afwezig is als vermeld in de uitvoeringsreglementering aangenomen door de Vlaamse Regering in het kader van de leertijd krachtens artikelen 58 en 59 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap.<br>
+§ 4. In afwijking van paragraaf 1, eerste lid, 2°, bepaalt de Vlaamse Regering het aantal halve schooldagen dat een leerling in het voltijds secundair onderwijs maximaal per schooljaar ongewettigd afwezig mag zijn, wanneer de onderwijsinstelling in kwestie overeenkomstig artikel 8 van het besluit van de Vlaamse Regering van 31 augustus 2001 houdende de organisatie van het schooljaar in het secundair onderwijs, over een afwijkende uurregeling beschikt.".
+
+### ART 54.
+
+In artikel 36, § 1, 4°, van hetzelfde decreet wordt de zinsnede "artikel 16, § 1, 2°, § 2 en § 3, van het decreet van 8 juni 2007" vervangen door de zinsnede "artikel 34, § 2 tot en met § 4,".
+
+### ART 55.
+
+In artikel 48 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt tussen de woorden "wordt eerst nagegaan of" en de zinsnede "de rechthebbende leerling, vermeld in artikel 24" de zinsnede "de rechthebbende leerling in de opleiding Verpleegkunde van het hoger beroepsonderwijs zit, vervolgens of" ingevoegd;<br>
+2° in paragraaf 4, tweede lid, wordt het bedrag "1550,86" vervangen door het bedrag "1107,57".
+
 ### ART 56.
 
 In artikel 55, § 1, van hetzelfde decreet wordt de zinsnede "artikel 13, § 2, 1°, 2° juncto § 3, § 4, § 5 en § 6, van het decreet van 8 juni 2007" vervangen door de zinsnede "artikel 27, § 2, 1°, 2°, en § 3, § 4, § 5 en § 6".
@@ -86,3 +353,11 @@ Deze samenvoeging gebeurt ten laatste op 30 juni 2019 en zal vanaf 1 januari 201
 Na het verstrijken van een periode van een jaar na de inwerkingtreding van dit decreet kan de bijslagtrekkende uit het eerste lid met een schriftelijk verzoek een andere uitbetalingsactor aanwijzen, overeenkomstig artikel 64 en 65.".
 
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 61.
+
+Op de aanvragen van schooltoelagen in het kleuteronderwijs en het leerplichtonderwijs die betrekking hebben op de schooljaren die voorafgaan aan het schooljaar 2019-2020, zijn de bepalingen, zoals van kracht voor 1 september 2019, van toepassing.
+
+### ART 62.
+
+Dit decreet treedt in werking op 1 september 2019 met uitzondering van artikel 5, dat in werking treedt op 1 november 2020, en met uitzondering van de artikelen 45 tot en met 49 en de artikelen 56 tot en met 60, die uitwerking hebben met ingang van 1 januari 2019.
