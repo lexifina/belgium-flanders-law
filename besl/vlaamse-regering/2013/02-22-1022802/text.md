@@ -18,13 +18,34 @@ In dit besluit wordt verstaan onder :<br>
 7° verblijf : het verblijf met overnachting, met inbegrip van de opvang en ondersteuning gedurende de ochtend en de avonduren;<br>
 8° rechtstreeks toegankelijke hulp : de hulpverlening die is bepaald in artikel 1, 2° tot 7° beperkt in tijd, frequentie en intensiteit en waarvoor de persoon met een handicap geen aanvraag tot ondersteuning bij het agentschap moet indienen;<br>
 9° persoon met een handicap : elke persoon met een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, of elke persoon met een vermoeden van zo'n handicap;<br>
-10° groepsbegeleiding: de algemene psychosociale ondersteuning van minimaal één uur en maximaal twee uur van twee of meer personen met een handicap of hun netwerk.
+10° groepsbegeleiding: de algemene psychosociale ondersteuning van minimaal één uur en maximaal twee uur van twee of meer personen met een handicap of hun netwerk;<br>
+11° globale individuele ondersteuning: de ondersteuning die eerder ruimer is en verschillende levensdomeinen kan omvatten. De aard van de ondersteuning kan verschillen en de verschillende vormen van ondersteuning kunnen door elkaar lopen: stimulatie, coaching, training en assistentie bij activiteiten.
 
 ### ART. 2.
 
 Het agentschap kan conform de bepalingen van dit besluit en binnen de grenzen van de kredieten die daarvoor ingeschreven zijn op zijn begroting, de volgende voorzieningen erkennen en subsidiëren voor de uitbouw van rechtstreeks toegankelijke hulp:<br>
 1° de multifunctionele centra voor minderjarige personen met een handicap, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
-2° de zorgaanbieders die vergund zijn door het agentschap, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap.
+2° de zorgaanbieders die vergund zijn door het agentschap, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap.<br>
+<br>
+Het agentschap kan voorzieningen die conform het eerste lid zijn erkend voor de uitbouw van rechtstreeks toegankelijke hulp, erkennen om globale individuele ondersteuning te bieden aan minderjarige personen met een handicap tot het eerste leerjaar van het lager onderwijs. De globale individuele ondersteuning heeft tot doel om hoofdzakelijk de transitiemomenten in de inclusieve zorg en onderwijs te ondersteunen.<br>
+<br>
+Om erkend te kunnen worden, wordt aangetoond dat er een samenwerkingsverband is aangegaan met:<br>
+1° een organisator van kinderopvang die de subsidie voor centrum inclusieve kinderopvang, vermeld in artikel 1, 14° /1, van het Subsidiebesluit van 22 november 2013, ontvangt;<br>
+2° een organisator van buitenschoolse opvang die de subsidie, vermeld in artikel 1, 18°, c), van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, ontvangt;<br>
+3° scholen voor buitengewoon onderwijs als vermeld in het decreet basisonderwijs van 25 februari 1997, en de ondersteuningsnetwerken, vermeld in artikel 172 quinquies.<br>
+<br>
+Bij de samenwerking, vermeld in het derde lid, staan de volgende principes voorop:<br>
+1° de participatiekansen van kinderen bevorderen;<br>
+2° de regie over de ondersteuning in handen van de ouders geven;<br>
+3° een evenwaardig partnerschap creëren tussen de voorzieningen die rechtstreeks toegankelijke hulp aanbieden, kinderopvang en onderwijs.<br>
+<br>
+Het agentschap lanceert een oproep voor kandidaten via het Intersectoraal Regionaal Overleg Jeugdhulp, vermeld in artikel 2, § 1, 23°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.<br>
+<br>
+Bij het verlenen van een erkenning wordt rekening gehouden met al de volgende criteria:<br>
+1° ervaring in het werken met de beoogde leeftijdsgroep, vermeld in het tweede lid;<br>
+2° een regionale spreiding;<br>
+3° ervaring in en visie op het werken in inclusieve contexten;<br>
+4° netoverstijgend samenwerken binnen onderwijs.
 
 ## HOOFDSTUK 2 Rechtstreeks toegankelijke hulp
 
@@ -32,7 +53,9 @@ Het agentschap kan conform de bepalingen van dit besluit en binnen de grenzen va
 
 ### ART. 3.
 
-De erkenning wordt uitgedrukt in een aantal personeelspunten, met een   minimum van vijfendertig personeelspunten, die moeten worden verantwoord door de   effectief aangeboden ondersteuning.<BR>
+De erkenning wordt uitgedrukt in een aantal personeelspunten, met een minimum van vijfendertig personeelspunten, die moeten worden verantwoord door de effectief aangeboden ondersteuning.<br>
+<br>
+In afwijking van het eerste lid geldt voor de erkenning, vermeld in artikel 2, tweede lid, geen minimum van vijfendertig personeelspunten
 
 ### ART. 4.
 
@@ -48,9 +71,11 @@ Het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling   van 
 
 <p>De voorziening ontvangt 0,22 personeelspunten per mobiele begeleiding en per mobiele outreach, 0,155 personeelspunten per ambulante begeleiding en per ambulante outreach, 0,087 personeelspunten per dag dagopvang, 0,13 personeelspunten per nacht verblijf en 0,087 personeelspunten per groepsbegeleiding.</p>
 
-<p>De personeelspunten, vermeld in het eerste lid, kunnen worden overgedragen aan een andere voorziening, erkend en gesubsidieerd door het agentschap, die in opdracht van de voorziening mobiele of ambulante begeleiding, mobiele of ambulante outreach, dagopvang&nbsp;, verblijf of groepsbegeleiding verstrekt.</p>
-
-<p>Als de som van de personeelspunten die op basis van de geleverde prestaties worden toegekend, meer dan 92% bedraagt van het aantal personeelspunten waarvoor de voorziening is erkend en er maximaal 20 personeelspunten minder worden gepresteerd dan het aantal personeelspunten waarvoor de voorziening is erkend, ontvangt de voorziening, in afwijking van het eerste lid, het aantal personeelspunten waarvoor de voorziening is erkend.</p>
+<p>De personeelspunten, vermeld in het eerste lid, kunnen worden overgedragen aan een andere voorziening, erkend en gesubsidieerd door het agentschap, die in opdracht van de voorziening mobiele of ambulante begeleiding, mobiele of ambulante outreach, dagopvang&nbsp;, verblijf of groepsbegeleiding verstrekt.<br>
+<br>
+De voorziening die is erkend conform artikel 2, tweede tot en met het zesde lid, ontvangt 0,13 personeelspunten per uur voor globale individuele ondersteuning.<br>
+<br>
+Als de som van de personeelspunten die op basis van de geleverde prestaties worden toegekend, meer dan 92 % bedraagt van het aantal personeelspunten waarvoor de voorziening, die is erkend conform artikel 2, eerste lid, of die is erkend conform artikel 2, tweede tot en met het zesde lid, erkend is en er maximaal twintig personeelspunten minder worden gepresteerd dan het aantal personeelspunten waarvoor de voorziening erkend is, ontvangt de voorziening, in afwijking van het eerste of het derde lid, het aantal personeelspunten waarvoor de voorziening is erkend.</p>
 
 ### ART. 7.
 
@@ -70,7 +95,7 @@ De personeelssubsidies worden toegekend op basis van de salarisschalen en   de d
 
 <p>(basisbedrag x index december 20../index december voor het jaar van inwerkingtreding).<br>
 <br>
-§ 3. De voorziening kan maximaal 3% van de personeelspunten waarvoor ze is erkend, omzetten in werkingsmiddelen tegen een bedrag per punt.<br>
+§ 3. De voorziening, de voorziening erkend conform artikel 2, tweede tot en met zesde lid, uitgezonderd, kan maximaal 3% van de personeelspunten waarvoor ze is erkend, omzetten in werkingsmiddelen tegen een bedrag per punt.<br>
 <br>
 Het bedrag per punt bedraagt 834 euro (achthonderdvierendertig euro).<br>
 <br>
@@ -125,7 +150,9 @@ In afwijking van het vijfde lid hoeven de reserves die aangelegd zijn voor het s
 
 ### ART. 11.
 
-<P>&nbsp;In afwijking van artikel 1 van het besluit van de Vlaamse Regering van   24 juli 1991 betreffende de indiening en afhandeling van de aanvraag tot   ondersteuning bij het Vlaams Agentschap voor Personen met een Handicap, is het   niet nodig dat de persoon met een handicap een aanvraag tot inschrijving en tot   het verkrijgen van bijstand tot sociale integratie indient.<BR></P>  <P>In afwijking van artikel 18 van het besluit van de Vlaamse Regering van 17   maart 2006 betreffende de regie van de zorg en bijstand tot sociale integratie   van personen met een handicap en betreffende de erkenning en subsidiëring van   een Vlaams Platform van verenigingen van personen met een handicap, kunnen de   voorzieningen aan elke persoon met een handicap rechtstreeks toegankelijke hulp   bieden. <BR></P>
+<p>In afwijking van artikel 1 van het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de indiening en afhandeling van de aanvraag tot ondersteuning bij het Vlaams Agentschap voor Personen met een Handicap, is het niet nodig dat de persoon met een handicap een aanvraag tot inschrijving en tot het verkrijgen van bijstand tot sociale integratie indient.</p>
+
+<p>&nbsp;</p>
 
 ### ART. 12.
 
@@ -150,7 +177,11 @@ In voorkomend geval wordt het aantal nachten woonondersteuning, dat voor de toep
 <br>
 Als de voorziening een beroep doet op een vrijwilliger voor de ondersteuning van een persoon met een handicap conform artikel 9/1, kan die persoon in afwijking van het eerste lid ambulante begeleiding, mobiele begeleiding, dagopvang, verblijf en groepsbegeleiding combineren tot maximaal zeven personeelspunten per persoon per kalenderjaar.<br>
 <br>
-Voor de berekening van het maximum aantal personeelspunten per persoon per kalenderjaar, als vermeld in het eerste of het tweede&nbsp;lid, wordt rekening gehouden met het aantal personeelspunten, vermeld in artikel 6, per mobiele begeleiding of per ambulante begeleiding of per dag dagopvang of per nacht verblijf.</p>
+Voor de berekening van het maximum aantal personeelspunten per persoon per kalenderjaar, als vermeld in het eerste of het tweede&nbsp;lid, wordt rekening gehouden met het aantal personeelspunten, vermeld in artikel 6, per mobiele begeleiding of per ambulante begeleiding of per dag dagopvang of per nacht verblijf.<br>
+<br>
+Een voorziening die is erkend conform artikel 2, tweede tot en met zesde lid, kan aan een persoon met een handicap voor maximaal vier personeelspunten globale individuele ondersteuning per kalenderjaar bieden.<br>
+<br>
+Voor de berekening van het maximumaantal personeelspunten per persoon per kalenderjaar als vermeld in het derde lid, wordt rekening gehouden met het aantal personeelspunten, vermeld in artikel 6, derde lid, per uur globale individuele ondersteuning.</p>
 
 ### ART. 14.
 
@@ -168,9 +199,10 @@ Voor de berekening van het maximum aantal personeelspunten per persoon per kalen
 <br>
 De voorziening mag voor een groepsbegeleiding een bijdrage vragen van maximaal 5 euro.</p>
 
-<p>De maximumbedragen, vermeld in het eerste tot en met het derde lid, worden jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule :</p>
-
-<p>(basisbedrag x index december 20../index december voor het jaar van inwerkingtreding).</p>
+<p>De maximumbedragen, vermeld in het eerste tot en met het derde lid, worden jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule :<br>
+(basisbedrag x index december 20../index december voor het jaar van inwerkingtreding).<br>
+<br>
+De voorziening mag geen bijdrage voor globale individuele ondersteuning vragen.</p>
 
 ## [HOOFDSTUK 3/1 Organisatie van een pilootfase voor het ontwikkelen en uitproberen van nieuwe mogelijkheden voor rechtstreeks toegankelijke hulp (ing. BVR 16 september 2022, art. 1, I: 1 september 2022)]
 
@@ -347,4 +379,4 @@ De tabel, vermeld in artikel 5<br>
 
 ### Bijlage
 
-De tabel, vermeld in artikel 6.<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>functie       <TD>barema       <TD>functiegroep       <TD>puntenwaarde<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;       <TD>1 zorggebonden personeel       <TD><BR>    <TR>      <TD>1       <TD>L4       <TD>logistiek personeel klasse 4       <TD>53,5<BR>    <TR>      <TD>2       <TD>L4 ond II       <TD>logistiek onderhoud categorie II       <TD>53,5<BR>    <TR>      <TD>3       <TD>L4 ond III       <TD>logistiek onderhoud categorie III       <TD>53,5<BR>    <TR>      <TD>4       <TD>L3 ond IV       <TD>logistiek onderhoud categorie IV       <TD>56<BR>    <TR>      <TD>5       <TD>L2 ond V       <TD>logistiek onderhoud categorie V       <TD>61<BR>    <TR>      <TD>6       <TD>L3a       <TD>logistiek klasse 3       <TD>56<BR>    <TR>      <TD>7       <TD>L3       <TD>logistiek klasse 3       <TD>56<BR>    <TR>      <TD>8       <TD>L2       <TD>logistiek personeel klasse 2       <TD>61<BR>    <TR>      <TD>9       <TD>A2       <TD>logistiek personeel klasse 2       <TD>61<BR>    <TR>      <TD>10       <TD>A1       <TD>logistiek personeel klasse 1       <TD>71<BR>    <TR>      <TD>11       <TD>MV2       <TD>verzorgend personeel       <TD>67<BR>    <TR>      <TD>12       <TD>B3       <TD>begeleidend-verzorgend klasse 3       <TD>57,5<BR>    <TR>      <TD>13       <TD>B2B       <TD>begeleidend-verzorgend klasse 2B       <TD>61<BR>    <TR>      <TD>14       <TD>B2A       <TD>begeleidend-verzorgend klasse 2A       <TD>63,5<BR>    <TR>      <TD>15       <TD>B1C       <TD>opvoedend personeel klasse 1       <TD>71<BR>    <TR>      <TD>16       <TD>B1b       <TD>hoofdopvoeder       <TD>79<BR>    <TR>      <TD>17       <TD>B1A       <TD>opvoeder groepschef       <TD>86<BR>    <TR>      <TD>18       <TD>MV1       <TD>sociaal paramedisch en therapeutisch personeel       <TD>71<BR>    <TR>      <TD>19       <TD>B1b       <TD>diensthoofd sociaal paramedisch of therapeutisch personeel       <TD>79<BR>    <TR>      <TD>20       <TD>B1A       <TD>coördinator sociaal paramedisch of therapeutisch personeel       <TD>86<BR>    <TR>      <TD>21       <TD>L1       <TD>licentiaten       <TD>90<BR>    <TR>      <TD>22       <TD>G1       <TD>geneesheer omnipracticus       <TD>108<BR>    <TR>      <TD>23       <TD>GS       <TD>geneesheer specialist       <TD>143,5<BR>    <TR>      <TD>24       <TD>B2B       <TD>adl-assistent       <TD>61     <TR>      <TD colSpan=2 align=middle>barema       <TD>functiegroep       <TD>puntenwaarde     <TR>      <TD colSpan=2 align=middle>      <TD>2 organisatiegebonden personeel       <TD>&nbsp;     <TR>      <TD colSpan=2 align=middle>L4       <TD>logistiek personeel klasse 4       <TD>53,5     <TR>      <TD colSpan=2 align=middle>L4 ond II       <TD>logistiek onderhoud categorie II       <TD>53,5     <TR>      <TD colSpan=2 align=middle>L4 ond III       <TD>logistiek onderhoud categorie III       <TD>53,5     <TR>      <TD colSpan=2 align=middle>L3 ond IV       <TD>logistiek onderhoud categorie IV       <TD>56     <TR>      <TD colSpan=2 align=middle>L2 ond V       <TD>logistiek onderhoud categorie V       <TD>61     <TR>      <TD colSpan=2 align=middle>L3a       <TD>logistiek klasse 3       <TD>56     <TR>      <TD colSpan=2 align=middle>L3       <TD>logistiek klasse 3       <TD>56     <TR>      <TD colSpan=2 align=middle>L2       <TD>logistiek personeel klasse 2       <TD>61     <TR>      <TD colSpan=2 align=middle>A2       <TD>logistiek personeel klasse 2       <TD>61     <TR>      <TD colSpan=2 align=middle>A1       <TD>logistiek personeel klasse 1       <TD>71     <TR>      <TD colSpan=2 align=middle>A1       <TD>administratie klasse 1       <TD>71     <TR>      <TD colSpan=2 align=middle>2       <TD>administratie klasse 2       <TD>61     <TR>      <TD colSpan=2 align=middle>A2 boekhkl II       <TD>administratief personeel boekhouder klasse II       <TD>61,5     <TR>      <TD colSpan=2 align=middle>A3       <TD>administratief personeel klasse III       <TD>56     <TR>      <TD colSpan=2 align=middle>K5       <TD>onderdirecteur       <TD>90     <TR>      <TD colSpan=2 align=middle>K3       <TD>directeur 30-59 bedden       <TD>93,5     <TR>      <TD colSpan=2 align=middle>K2       <TD>directeur 60-89 bedden       <TD>96,5     <TR>      <TD colSpan=2 align=middle>K1       <TD>directeur +90 bedden       <TD>100<BR></TD></TR></TBODY></TABLE><BR>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/18_1.pdf#page=25">De tabel, vermeld in artikel 5</a>
