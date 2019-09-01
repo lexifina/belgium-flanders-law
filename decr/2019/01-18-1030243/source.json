@@ -2,16 +2,16 @@
   "codex_id": 1030243,
   "title": "Decreet van 2019-01-18 tot wijziging van diverse bepalingen van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030243/VolledigDocument?datum=2019-07-29",
-  "source_sha256": "c84a8210c5e536c4371e0b36f02cadbff99145145dde4a027d0683be93e83e91",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030243/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "fba51feaa5ef459d2cbe24d6d2b0d3a5e82e785a9f5efaaa03a3be228433d6fc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030243&param=informatie",
-  "as_of": "2019-07-29",
+  "as_of": "2019-09-01",
   "made": "2019-01-18",
   "gazette": "2019-02-11",
   "numac": 2019040165,
   "document_start": "2019-07-29",
   "document_end": null,
-  "in_force": "2019-07-29",
-  "article_versions": 16,
-  "record_form": "consolidated version as in force on 2019-07-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-09-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
 }

@@ -117,6 +117,22 @@ In artikel 39, § 3, van hetzelfde decreet worden de volgende wijzigingen aangeb
 <br>
 2° in het tweede lid worden de woorden "die inkomsten verwerft via maatschappelijke dienstverlening of een leefloon" vervangen door de woorden "bij wie het volgen van een inburgeringscursus is opgenomen als voorwaarde voor de toekenning of het behoud van inkomsten uit maatschappelijke dienstverlening of een leefloon".
 
+### ART 15.
+
+In artikel 40, § 2, van hetzelfde decreet wordt het vijfde lid vervangen door wat volgt:<br>
+<br>
+"Tegen de beslissing waarbij hem een administratieve geldboete is opgelegd, kan de betrokkene bij verzoekschrift een beroep instellen bij de politierechtbank. Op straffe van verval wordt het beroep ingediend binnen vijftien dagen vanaf de derde werkdag na de dag waarop de brief, vermeld in het vierde lid, aan de postdiensten overhandigd is. Met werkdag wordt elke dag behalve zaterdag, zondag of een wettelijke feestdag bedoeld. Tegen het vonnis van de politierechtbank kan hoger beroep worden ingesteld bij de rechtbank van eerste aanleg. Het beroep bij de politierechtbank, alsook in voorkomend geval het hoger beroep bij de rechtbank van eerste aanleg, schorst de uitvoering van de beslissing.".
+
+### ART 16.
+
+In artikel 46/1 van hetzelfde decreet, ingevoegd bij het decreet van 29 mei 2015, wordt punt 1° vervangen door wat volgt:<br>
+<br>
+"1° een gecoördineerde en geobjectiveerde intake, eventueel testing en doorverwijzing van de anderstalige naar het meest gepaste aanbod Nederlands als tweede taal, hetzij bij een centrum als vermeld in artikel 2, eerste lid, 4°, hetzij bij een andere aanbieder van Nederlands als tweede taal. Die oriëntering gebeurt op een deskundige en neutrale wijze. Voor die oriëntering gelden de volgende regels:<br>
+a) de oriëntering naar een centrum als vermeld in artikel 2, eerste lid, 4°, a), van anderstaligen die niet beschikken over een studiebewijs Nederlands tweede taal is, minstens op het vlak van niveaubepaling en de snelheid van leren, bindend voor het centrum. Van het bindend karakter kan afgeweken worden in de gevallen bepaald door de Vlaamse Regering. De oriëntering kan de rechtstreekse inschrijving in de meest gepaste module inhouden. Het regionaal overleg, vermeld in artikel 46/3, eerste lid, 4°, a), kan aanvullende afspraken maken;<br>
+b) de oriëntering naar een centrum als vermeld in artikel 2, eerste lid, 4°, b), c) en d), gebeurt overeenkomstig de regels vastgesteld door de Vlaamse Regering;<br>
+c) de oriëntering naar een aanbieder Nederlands als tweede taal kan alleen als het aanbod Nederlands als tweede taal georganiseerd is overeenkomstig de niveaus van taalkennis die vastgelegd zijn in het Gemeenschappelijk Europees Referentiekader voor Talen;<br>
+d) elk centrum, vermeld in artikel 2, eerste lid, 4°, en elke andere aanbieder Nederlands als tweede taal is ervoor verantwoordelijk om binnen het referentiekader voor onderwijskwaliteit Nederlands als tweede taal te voorzien in een kwaliteitsvol aanbod Nederlands als tweede taal;".
+
 ### ART 17.
 
 In artikel 46/3 van hetzelfde decreet, ingevoegd bij het decreet van 29 mei 2015, worden de volgende wijzigingen aangebracht:<br>
