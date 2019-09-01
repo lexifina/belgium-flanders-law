@@ -23,7 +23,7 @@ Besluit :
 
 ### ART 1.
 
-Dit besluit is, tenzij het uitdrukkelijk anders is bepaald, van toepassing op de basis- en secundaire scholen en de centra voor leerlingenbegeleiding die door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd zijn.
+Dit besluit is, tenzij het uitdrukkelijk anders is bepaald, van toepassing op de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde basis- en secundaire scholen, centra voor deeltijds beroepssecundair onderwijs, centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, voor wat de leertijd en het secundair onderwijs betreft, en centra voor leerlingenbegeleiding.
 
 ## HOOFDSTUK II. Operationalisering van de leerlingenbegeleiding
 
@@ -113,7 +113,7 @@ De leerlingen of de ouders bezorgen binnen vijftien dagen na de datum van het sy
 <br>
 § 3. Leerplichtigen in huisonderwijs of hun ouders kunnen zich verzetten tegen de uitvoering van een systematisch contact door een bepaalde medewerker van een centrum. In dat geval wordt het systematische contact uitgevoerd door een andere medewerker van het centrum of door een beroepsbeoefenaar in de gezondheidszorg, bevoegd voor de opdracht in kwestie, die niet tot een centrum behoort.<br>
 <br>
-Het verzet wordt schriftelijk meegedeeld aan de bevoegde diensten van de Vlaamse Regering met een aangetekende brief of tegen afgifte van een ontvangstbewijs of via een beveiligde digitale zending. Het verzet is getekend en gedateerd.<br>
+Het verzet wordt schriftelijk meegedeeld aan de directeur van het centrum dat voor het systematische contact gekozen is met een aangetekende brief of tegen afgifte van een ontvangstbewijs of via een beveiligde digitale zending. Het verzet is getekend en gedateerd.<br>
 <br>
 De leerplichtigen in huisonderwijs of hun ouders die verzet hebben aangetekend, zijn verplicht het systematische contact te laten uitvoeren binnen negentig dagen, met ingang van de datum waarop de aangetekende brief, vermeld in het tweede lid, is verzonden of met ingang van de datum die op het ontvangstbewijs is vermeld.<br>
 <br>
@@ -244,6 +244,44 @@ Het centrum waartoe de leerling behoort, informeert de leerling en de ouders op 
 Medewerkers van het centrum registreren alle leerlinggebonden activiteiten vanuit hun opdracht leerlingenbegeleiding in het multidisciplinaire dossier van de leerling.<br>
 <br>
 Elke medewerker van het centrum is ervoor verantwoordelijk het multidisciplinaire dossier up-to-date te houden met relevante gegevens.
+
+### ART 24/1.
+
+§ 1. Ter uitvoering van artikel 17 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding registreren de centra op elektronische en gestandaardiseerde wijze activiteiten en gegevens in het multidisciplinaire dossier van de leerling, op basis van het rijksregisternummer of bisnummer van de leerling, die betrekking hebben op de volgende thema's:<br>
+1° verslag;<br>
+2° gemotiveerd verslag;<br>
+3° problematische afwezigheden;<br>
+4° overstap naar het lager onderwijs;<br>
+5° overstap naar het secundair onderwijs;<br>
+6° revalidatie tijdens de lestijden;<br>
+7° definitieve uitsluiting;<br>
+8° leerplichtigen met een verklaring huisonderwijs;<br>
+9° lengte;<br>
+10° gewicht;<br>
+11° gehoor;<br>
+12° visus;<br>
+13° pubertaire ontwikkeling;<br>
+14° mondgezondheid.<br>
+<br>
+§ 2. Voor de thema's, vermeld in paragraaf 1, kunnen nomenclatuurfiches opgemaakt worden. Een nomenclatuurfiche is een technische fiche die een exacte beschrijving geeft van welke informatie op welke manier gepseudonimiseerd moet worden.<br>
+<br>
+De bevoegde diensten van de Vlaamse minister, bevoegd voor het onderwijs, de bevoegde diensten van de Vlaamse minister, bevoegd voor het gezondheidsbeleid, en de centrumnetten stellen samen de inhoud van de nomenclatuurfiches vast.<br>
+<br>
+§ 3. De bevoegde diensten van de Vlaamse minister, bevoegd voor het onderwijs, stellen voor de gegevens voor de thema's, vermeld in paragraaf 1, 1° tot en met 8°, het formaat van de gegevensoverdracht vast. De gegevensoverdracht verloopt dagelijks via webservices.<br>
+<br>
+De bevoegde diensten van de Vlaamse minister, bevoegd voor het gezondheidsbeleid, stellen voor de gegevens voor de thema's, vermeld in paragraaf 1, 9° tot en met 14°, het formaat van de gegevensoverdracht vast. De gegevensoverdracht vindt jaarlijks plaats.<br>
+<br>
+§ 4. De centra bezorgen de gegevens voor de thema's vermeld in paragraaf 1, 1°, 2°, 4°, 5°, 6° en 8° aan het Agentschap voor Onderwijsdiensten met vermelding van het rijksregisternummer of bisnummer van de betrokken leerling. Het Agentschap voor Onderwijsdiensten is de verwerkingsverantwoordelijke voor deze gegevens. De gegevensoverdracht heeft tot doel de controle van de toelatingsvoorwaarden tot het onderwijs mogelijk te maken. De gegevens worden bewaard tot de beëindiging van de schoolloopbaan van de leerling.<br>
+<br>
+De centra bezorgen de gegevens voor de thema's vermeld in paragraaf 1, 3° en 7° aan het Departement Onderwijs en Vorming op een dergelijke wijze dat ze uniek zijn, maar niet langer met een geïdentificeerd of identificeerbaar persoon in verband gebracht kunnen worden. Het Departement Onderwijs en Vorming is de verwerkingsverantwoordelijke voor deze gegevens. De gegevensoverdracht heeft tot doel beleidsondersteunende statistische analyses te kunnen formuleren. De bewaartermijn van de gegevens is onbeperkt.<br>
+<br>
+De centra bezorgen de gepseudonimiseerde gegevens voor de thema's vermeld in paragraaf 1, 9°, 10°, 11°, 12°, 13° en 14° aan het Vlaams Agentschap Zorg en Gezondheid. Het Agentschap Zorg en Gezondheid is de verwerkingsverantwoordelijke voor deze gegevens. De gegevensoverdracht heeft tot doel:<br>
+1° beleidsinformatie te ontwikkelen waarmee gezondheidsdoelstellingen en -indicatoren kunnen worden opgevolgd;<br>
+2° inzicht te krijgen in de rol van centra binnen preventieve gezondheidszorg;<br>
+3° de kwaliteit en de bruikbaarheid van de standaarden gebruikt binnen centra te evalueren en zo nodig aan te passen;<br>
+4° epidemiologische gegevens te verkrijgen die inzicht geven over gezondheidsstatus van de Vlaamse leerlingenpopulatie.<br>
+<br>
+De gegevens worden door het Agentschap Zorg en Gezondheid bewaard tot maximaal 30 jaar na ontvangst van deze gegevens.
 
 ### ART 25.
 
