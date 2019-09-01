@@ -245,28 +245,26 @@ De Vlaamse Regering bepaalt een verkorte procedure voor het actualiseren of schr
 
 ### ART. 14.
 
-Onderwijskwalificaties die zich situeren op de niveaus één tot en met vijf bestaan uit eindtermen, specifieke eindtermen of erkende beroepskwalificaties, en zijn als volgt samengesteld :<br>
+Onderwijskwalificaties die zich situeren op de niveaus één tot en met&nbsp;vier bestaan uit eindtermen, specifieke eindtermen erkende beroepskwalificaties of deelkwalificaties, en zijn als volgt samengesteld :<br>
 1° de onderwijskwalificatie op niveau één bestaat uit :<br>
 a) de eindtermen lager onderwijs;<br>
 2° de onderwijskwalificaties op niveau twee bestaan uit :<br>
 a) de eindtermen basiseducatie;<br>
-b) de eindtermen tweede graad bso en één of meer erkende beroepskwalificaties;<br>
+b) de eindtermen tweede graad bso en één of meer erkende beroepskwalificaties of deelkwalificaties;<br>
 3° de onderwijskwalificaties op niveau drie bestaan uit :<br>
-a) de eindtermen voor het tweede leerjaar derde graad bso en één of meer erkende beroepskwalificaties;<br>
+a) de eindtermen voor het tweede leerjaar derde graad bso en één of meer erkende beroepskwalificaties al dan niet aangevuld met één of meer deelkwalificaties;<br>
 4° de onderwijskwalificaties op niveau vier bestaan uit :<br>
 a) de eindtermen derde graad aso, en de specifieke eindtermen voor de derde graad aso die verbonden zijn aan één of meer wetenschapsdomeinen;<br>
 b) de eindtermen derde graad tso, en de specifieke eindtermen voor de derde graad tso die verbonden zijn aan één of meer wetenschapsdomeinen;<br>
 c) de eindtermen derde graad kso, en de specifieke eindtermen voor de derde graad kso die verbonden zijn aan één of meer wetenschapsdomeinen;<br>
-d) de eindtermen derde graad tso of kso en één of meer erkende beroepskwalificaties;<br>
-e) de eindtermen derde leerjaar derde graad bso en één of meer erkende beroepskwalificaties;<br>
-f) de eindtermen voor de aanvullende algemene vorming voor het volwassenenonderwijs en één of meer erkende beroepskwalificaties;<br>
-g) één of meer erkende beroepskwalificaties van niveau vier;<br>
-h) de eindtermen en specifieke eindtermen zoals bepaald in a), b) of c) én één of meer erkende beroepskwalificaties.<br>
+d) de eindtermen derde graad tso of kso en één of meer erkende beroepskwalificaties al dan niet aangevuld met één of meer deelkwalificaties;<br>
+e) de eindtermen derde leerjaar derde graad bso en één of meer erkende beroepskwalificaties al dan niet aangevuld met één of meer deelkwalificaties;<br>
+f) de eindtermen voor de aanvullende algemene vorming voor het volwassenenonderwijs en één of meer erkende beroepskwalificaties al dan niet aangevuld met één of meer deelkwalificaties;<br>
+g) ...;<br>
+h) de eindtermen en specifieke eindtermen zoals bepaald in&nbsp;b) of c) én één of meer erkende beroepskwalificaties al dan niet aangevuld met één of meer deelkwalificaties.<br>
 5° ....<br>
 <br>
-Onder eindtermen en specifieke eindtermen worden in dit artikel ook de gelijkwaardig verklaarde vervangende eindtermen of specifieke eindtermen begrepen zoals bedoeld in artikel 44bis van het decreet betreffende het basisonderwijs van 25 februari 1997,&nbsp;in artikel 147 en artikel 267 van de codificatie betreffende het secundair onderwijs en zoals bedoeld in artikel 15 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br>
-<br>
-Onder beroepskwalificatie worden in dit artikel ook de competenties en basiscompetenties begrepen zoals bedoeld in artikel 145 en artikel 265 van de codificatie betreffende het secundair onderwijs en zoals bedoeld in artikel 12 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br>
+Onder beroepskwalificatie worden in dit artikel ook de basiscompetenties begrepen&nbsp;zoals bedoeld in artikel 12 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br>
 &nbsp;
 
 ### ART. 15.
@@ -288,7 +286,7 @@ Met het oog op een actueel en rationeel onderwijsaanbod bepaalt de Vlaamse   Reg
 6° de mogelijkheid tot samenwerking met andere instellingen en met de arbeidsmarkt;<br>
 7° de continuïteit in de (studie)loopbaan : de inpassing in het bestaande studieaanbod, de aansluiting op vervolgopleidingen of de tewerkstellingsmogelijkheden.<br>
 <br>
-§ 3. Als de bevoegde dienst van de Vlaamse Regering op basis van de criteria, vermeld in paragraaf 2, adviseert dat de ontwikkeling van een onderwijskwalificatie wenselijk is, omvat het advies ook een uitspraak over de studieomvang, uitgedrukt in studiepunten, van de opleiding die leidt tot de desbetreffende onderwijskwalificatie. Daarvoor vraagt de bevoegde dienst van de Vlaamse Regering de inbreng van vertegenwoordigers van de samenwerkingsverbanden, vermeld in artikel 50 van het decreet van 30 april 2009 betreffende het secundair na secundair onderwijs en het hoger beroepsonderwijs.<br>
+§ 3. Als de bevoegde dienst van de Vlaamse Regering op basis van de criteria, vermeld in paragraaf 2, adviseert dat de ontwikkeling van een onderwijskwalificatie wenselijk is, omvat het advies ook een uitspraak over de studieomvang, uitgedrukt in studiepunten, van de opleiding die leidt tot de desbetreffende onderwijskwalificatie. Daarvoor vraagt de bevoegde dienst van de Vlaamse Regering de inbreng van vertegenwoordigers van de&nbsp;hogescholen.<br>
 <br>
 § 4. Als de bevoegde dienst van de Vlaamse Regering op basis van de criteria, vermeld in paragraaf 2, adviseert dat de ontwikkeling van een onderwijskwalificatie wenselijk is en de studieomvang van de opleiding die leidt tot de desbetreffende onderwijskwalificatie, kan worden vastgelegd op 90 of 120 studiepunten, verduidelijkt hij in zijn advies :<br>
 1° welke beroepskwalificatie(s) de onderwijskwalificatie omvat en eventueel de mogelijke (toekomstige) afstudeerrichtingen;<br>
@@ -300,7 +298,7 @@ Met het oog op een actueel en rationeel onderwijsaanbod bepaalt de Vlaamse   Reg
 
 ### ART 15/2.
 
-§ 1. Binnen een termijn van zes maanden vanaf de beslissing van de Vlaamse Regering, vermeld in artikel 15/1, § 6, van dit decreet, schrijven de samenwerkingsverbanden, vermeld in artikel 50 van het decreet van 30 april 2009 betreffende het secundair na secundair onderwijs en het hoger beroepsonderwijs, gezamenlijk de domeinspecifieke leerresultaten uit. Ze organiseren daartoe structureel onderling overleg, waarbij ook de bevoegde dienst van de Vlaamse Regering wordt betrokken. De samenwerkingsverbanden kunnen voor deze opdracht een beroep doen op externe experten.<br>
+§ 1. Binnen een termijn van zes maanden vanaf de beslissing van de Vlaamse Regering, vermeld in artikel 15/1, § 6, van dit decreet, schrijven de hogescholen, gezamenlijk de domeinspecifieke leerresultaten uit. Ze organiseren daartoe structureel onderling overleg, waarbij ook de bevoegde dienst van de Vlaamse Regering wordt betrokken. De&nbsp;hogescholen kunnen voor deze opdracht een beroep doen op externe experten.<br>
 <br>
 Die domeinspecifieke leerresultaten :<br>
 1° clusteren alle competenties uit de beroepskwalificatie(s);<br>
@@ -311,7 +309,7 @@ Die domeinspecifieke leerresultaten :<br>
 <br>
 § 2. Er kunnen extra competenties toegevoegd worden aan de competenties, vermeld in de beroepskwalificatie(s), als ze gerealiseerd kunnen worden binnen de vastgelegde studieomvang.<br>
 <br>
-§ 3. De beschrijving van de domeinspecifieke leerresultaten wordt gevalideerd door de accreditatieorganisatie, vermeld in artikel 12 van het decreet van 30 april 2009 betreffende het secundair na secundair onderwijs en het hoger beroepsonderwijs.<br>
+§ 3. De beschrijving van de domeinspecifieke leerresultaten wordt gevalideerd door de accreditatieorganisatie, vermeld in artikel II.26 van de Codex Hoger Onderwijs van 11 oktober 2013.<br>
 <br>
 De gevalideerde beschrijvingen van de domeinspecifieke leerresultaten worden automatisch als onderwijskwalificatie erkend.<br>
 <br>
