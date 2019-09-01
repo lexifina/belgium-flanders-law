@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 ### ART. 1.
 
-Ter uitvoering van artikel 35, § 1, vierde lid, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs moet de cursist in het kader van de federale regelgeving op de voedselveiligheid beschikken over een medisch geschiktheidsattest om toegelaten te worden tot de aanvangsmodule van de opleidingen van de studiegebieden bakkerij, drankenkennis, horeca en slagerij van het secundair volwassenenonderwijs.
+...
 
 ### ART. 2.
 
