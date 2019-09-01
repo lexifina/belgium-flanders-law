@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032108,
+  "title": "Besluit van de Vlaamse Regering van 2019-06-28 tot erkenning van het educatief graduaat in het secundair onderwijs als nieuwe opleiding van UC Leuven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032108/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "74cf5ec6ba10af40cee2b392524c0e332be3be1ac459d721fb759b0a3996f10b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032108&param=informatie",
+  "as_of": "2019-09-01",
+  "made": "2019-06-28",
+  "gazette": "2019-08-20",
+  "numac": 2019013869,
+  "document_start": "2019-09-01",
+  "document_end": null,
+  "in_force": "2019-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
