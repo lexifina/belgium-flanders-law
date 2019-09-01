@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031995,
+  "title": "Besluit van de Vlaamse Regering van 2019-06-28 tot erkenning van het graduaat in het productiebeheer als nieuwe opleiding van Thomas More Kempen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031995/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "9a956310d8afd3bdf49d1f11df2c1d86d9b0f4c1cd0f8d5fd9877ff372a28b66",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031995&param=informatie",
+  "as_of": "2019-09-01",
+  "made": "2019-06-28",
+  "gazette": "2019-08-02",
+  "numac": 2019041584,
+  "document_start": "2019-09-01",
+  "document_end": null,
+  "in_force": "2019-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
