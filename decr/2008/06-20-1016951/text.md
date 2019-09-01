@@ -40,7 +40,22 @@ De raad van bestuur legt in het organiek reglement of bestuursreglement de funda
 
 ### ART. 6.
 
-De raad van bestuur is samengesteld uit:<BR>1° de voorzitter en de   ondervoorzitter, aangesteld overeenkomstig artikel 26, § 1;<BR>2° de rector en   de twee vicerectoren, aangesteld overeenkomstig artikel 23, § 2 en § 3;<BR>3°   zes personen voorgedragen door de provincieraad van Limburg. Ten minste geldt   dat ten hoogste twee derde van de voorgedragen personen van hetzelfde geslacht   zijn;<BR>4° drie vertegenwoordigers van de sociale sector en drie   vertegenwoordigers van de economische sector;<BR>5° een lid van het zelfstandig   academisch personeel;<BR>6° een lid van het assisterend academisch   personeel;<BR>7° een lid van het administratief en technisch personeel;<BR>8°   drie studenten;<BR>9° vier decanen of vicedecanen van:<BR>a) de faculteiten van   de Universiteit Hasselt;<BR>b) de schools van de transnationale Universiteit   Limburg, indien de decanen of vicedecanen ervan als personeelslid aan de   Universiteit Hasselt zijn benoemd.<BR><BR>De beheerder, de regeringscommissaris   en de Inspecteur van Financiën wonen de vergadering met raadgevende stem   bij.<BR><BR>Een vertegenwoordiger van de Hogeschool PXL, aangeduid door het   bestuursorgaan van de hogeschool, kan de vergaderingen van de raad van bestuur   bijwonen met raadgevende stem.
+De raad van bestuur is samengesteld uit:<br>
+1° de voorzitter en de ondervoorzitter, aangesteld overeenkomstig artikel 26, § 1;<br>
+2° de rector en de twee vicerectoren, aangesteld overeenkomstig artikel 23, § 2 en § 3;<br>
+3° zes personen voorgedragen door de provincieraad van Limburg. Ten minste geldt dat ten hoogste twee derde van de voorgedragen personen van hetzelfde geslacht zijn;<br>
+4° drie vertegenwoordigers van de sociale sector en drie vertegenwoordigers van de economische sector;<br>
+5° een lid van het zelfstandig academisch personeel;<br>
+6° een lid van het assisterend academisch personeel;<br>
+7° een lid van het administratief en technisch personeel;<br>
+8° drie studenten;<br>
+9° vier decanen of vicedecanen van:<br>
+a) de faculteiten van de Universiteit Hasselt;<br>
+b) de schools van de transnationale Universiteit Limburg, indien de decanen of vicedecanen ervan als personeelslid aan de Universiteit Hasselt zijn benoemd.<br>
+<br>
+De beheerder en de regeringscommissaris wonen de vergadering met raadgevende stem bij.<br>
+<br>
+Een vertegenwoordiger van de Hogeschool PXL, aangeduid door het bestuursorgaan van de hogeschool, kan de vergaderingen van de raad van bestuur bijwonen met raadgevende stem.
 
 ### ART. 7.
 
@@ -115,7 +130,14 @@ De raad van bestuur stelt een huishoudelijk reglement op waarin de raad zijn wer
 
 ### ART. 20.
 
-Het bestuurscollege bestaat uit:<br />1° de voorzitter en de ondervoorzitter, aangesteld overeenkomstig artikel 26, § 1; <br />2° de rector en de vicerectoren, aangesteld overeenkomstig artikel 23, § 2 en § 3; <br />3° één student, aangesteld overeenkomstig artikel 7, derde lid. <br /><br />De voorzitter van de raad van bestuur is tevens voorzitter van het bestuurscollege.<br /><br />De beheerder, de regeringscommissaris en de Inspecteur van Financiën wonen de vergaderingen met raadgevende stem bij.
+Het bestuurscollege bestaat uit:<br>
+1° de voorzitter en de ondervoorzitter, aangesteld overeenkomstig artikel 26, § 1;<br>
+2° de rector en de vicerectoren, aangesteld overeenkomstig artikel 23, § 2 en § 3;<br>
+3° één student, aangesteld overeenkomstig artikel 7, derde lid.<br>
+<br>
+De voorzitter van de raad van bestuur is tevens voorzitter van het bestuurscollege.<br>
+<br>
+De beheerder en de regeringscommissaris wonen de vergaderingen met raadgevende stem bij.
 
 ## Onderafdeling 2. Bevoegdheid
 
