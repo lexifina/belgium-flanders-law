@@ -645,7 +645,50 @@ In artikel 88, § 3, van het decreet van 15 juni 2007 betreffende het volwassene
 
 ## Afdeling 16. Aanpassing berekening werkingstoelagen CBE en CVO
 
+### ART 56.
+
+Artikel 89 van hetzelfde decreet, gewijzigd bij de decreten van 4 juli 2008 en 16 maart 2018, wordt vervangen door wat volgt:<br>
+<br>
+"De centra voor basiseducatie ontvangen ten laste van de begroting van de Vlaamse Gemeenschap voor het schooljaar n-1/n een werkingstoelage per lesuurcursist, berekend op basis van het gemiddelde aantal gerealiseerde lesurencursist van de referteperiodes van 1 januari n-4 tot en met 31 december n-2. De Vlaamse Regering bepaalt de werkingstoelage per lesuurcursist.<br>
+<br>
+De werkingstoelage wordt betaald in twee schijven vanaf het begrotingsjaar 2020. De eerste schijf wordt betaald gedurende het eerste trimester van het begrotingsjaar. De eerste schijf bedraagt 50 percent van het totale bedrag waarop het centrum voor het schooljaar n-1/n recht heeft. Het resterende saldo wordt uitbetaald tijdens het tweede semester van het begrotingsjaar.<br>
+<br>
+Het totale volume aan werkingsmiddelen wordt jaarlijks aangepast aan de evolutie van de gezondheidsindex.".
+
+### ART 57.
+
+In artikel 108 van hetzelfde decreet, vervangen bij het decreet van 16 maart 2018, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 1 worden de woorden "het schooljaar n/n+1" vervangen door de woorden "het schooljaar n-1/n";<br>
+<br>
+2° in paragraaf 2 wordt het tweede lid vervangen door wat volgt:<br>
+"De werkingstoelage wordt betaald in twee schijven vanaf het begrotingsjaar 2020. De eerste schijf wordt betaald gedurende het eerste trimester van het begrotingsjaar. De eerste schijf bedraagt 50 percent van het totale bedrag waarop het centrum voor het schooljaar n-1/n recht heeft. Het resterende saldo wordt uitbetaald tijdens het tweede semester van het begrotingsjaar.";<br>
+<br>
+3° er wordt een paragraaf 4 toegevoegd, die luidt als volgt:<br>
+" § 4. Het totale volume aan werkingsmiddelen volgt de evolutie van de gewogen financieringspunten voor het bijkomend bedrag dat berekend wordt op basis van de formule, vermeld in paragraaf 3.<br>
+<br>
+Het totale volume aan werkingsmiddelen wordt jaarlijks aangepast aan de evolutie van de gezondheidsindex.".
+
 ## Afdeling 17. Oprichting begrotingsfonds "Fonds Volwassenenonderwijs"
+
+### ART 58.
+
+Artikel 113decies van hetzelfde decreet, ingevoegd bij het decreet van 16 maart 2018, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 113decies. § 1. Er wordt per 1 september 2019 een begrotingsfonds "Fonds Volwassenenonderwijs" opgericht, hierna genoemd `het fonds'.<br>
+<br>
+§ 2. Het fonds is een begrotingsfonds zoals vermeld in artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
+<br>
+§ 3. Het fonds wordt gespijsd door:<br>
+1° alle ontvangsten die voortvloeien uit de inschrijvingsgelden van het volwassenenonderwijs, vermeld in artikel 113novies. Elk centrumbestuur betaalt daartoe in het jaar n aan het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen voor elk van zijn gesubsidieerde of gefinancierde centra in twee schijven een bedrag dat berekend wordt tegen 100 % van de inschrijvingsgelden van de cursisten die ingeschreven waren in het schooljaar n-2/n-1. De Vlaamse Regering bepaalt de wijze waarop het centrumbestuur de inschrijvingsgelden overmaakt aan het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen;<br>
+2° andere ontvangsten ten behoeve van het volwassenenonderwijs.<br>
+<br>
+§ 4. Het fonds wordt aangewend ter financiering van:<br>
+1° de werkingstoelagen en de werkingsmiddelen in het volwassenenonderwijs;<br>
+2° de premie aan cursisten die een diploma van het secundair onderwijs behaald hebben als vermeld in artikel 41, § 4, 2° en 2° bis. De Vlaamse Regering bepaalt de opleidingen, bekrachtigd met een diploma van het secundair onderwijs, die in aanmerking komen voor het verkrijgen van een premie, het bedrag dat wordt toegekend en de procedure voor de toekenning van de premie;<br>
+3° de betaling van andere uitgaven ten voordele van het volwassenenonderwijs.<br>
+<br>
+§ 5. Het saldo en de vastgestelde rechten vastgesteld op 31 december 2019 op het Fonds Inschrijvingsgelden Centra voor Volwassenenonderwijs zoals bepaald in artikel 110 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, wordt overgedragen naar het fonds, zoals bepaald in het vorige artikel.".
 
 ## Afdeling 18. Toekenning jaarlijkse aanvullende leraarsuren/punten/werkingsmiddelen ten behoeve van de asielproblematiek
 
