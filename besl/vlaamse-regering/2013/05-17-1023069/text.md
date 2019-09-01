@@ -55,7 +55,7 @@ e) het uitvoeren van loopbaanbegeleiding op maat van de kansengroepen, als de ge
 <br>
 De minister kan de voorwaarden, vermeld in het eerste lid, 1° tot en met 3°, verder specificeren.<br>
 <br>
-§ 2. De gemandateerde onderneming bezorgt aan de professioneel actieve persoon een gepersonaliseerd attest als in zijn persoonlijk ontwikkelingsplan de noodzakelijke behoefte is opgenomen aan een opleiding als vermeld in artikel 7, § 1, tweede lid, 2°, en § 2, van het besluit van de Vlaamse regering van 18 juli 2003 betreffende de opleidingscheques voor werknemers. Dat attest vermeldt ten minste de opleiding die past in het kader van het persoonlijk ontwikkelingsplan.
+§ 2. De gemandateerde onderneming bezorgt de professioneel actieve persoon een gepersonaliseerd attest als in zijn persoonlijk ontwikkelingsplan de noodzakelijke behoefte is opgenomen aan een opleiding als vermeld in artikel 7, § 1, tweede lid, 2°, en § 2, van het besluit van de Vlaamse Regering van 18 juli 2003 betreffende de opleidingscheques voor werknemers of als vermeld in artikel 109, § 3, van de herstelwet van 25 januari 1985 houdende diverse bepalingen. Dat attest vermeldt ten minste de opleiding die past in het kader van het persoonlijk ontwikkelingsplan. Dit attest heeft een geldigheidsduur van zes jaar, vanaf het beëindigen van de loopbaanbegeleiding.
 
 ## HOOFDSTUK 4. Voorwaarden
 
