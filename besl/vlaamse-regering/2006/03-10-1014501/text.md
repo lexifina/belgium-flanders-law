@@ -2,7 +2,37 @@
 
 ### ART. 1.
 
-Onverminderd de uren-leraar die worden toegekend op basis van de bepalingen van het besluit van de Vlaamse Regering van 31 juli 1990 tot vastlegging van het pakket "uren-leraar" in het voltijds secundair onderwijs, wordt aan elke door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde instelling voor voltijds gewoon secundair onderwijs die binnen het studiegebied land- en tuinbouw ten minste een van de structuuronderdelen landbouw, tuinbouw, landbouwtechnieken, tuinbouwtechnieken en paardrijden en -verzorgen organiseert, een specifiek aantal uren-leraar toegekend.<br /><br />Dat specifieke aantal uren-leraar, dat overeenstemt met twee dan wel meer voltijdse betrekkingen in het ambt van leraar secundair onderwijs, belast met praktische vakken in de tweede en derde graad van het voltijds gewoon secundair onderwijs, moet de instelling toestaan:<br /><br />1° de culturen, de serres en de veestapel die van de instelling afhangen, uit te baten en te onderhouden;<br /><br />2° tijdens de praktijklessen aan de leerlingen van het studiegebied land- en tuinbouw illustratieve demonstraties te geven die rekening houden met de technische en technologische ontwikkelingen in de sector.
+Onverminderd de uren-leraar die worden toegekend op basis van de bepalingen van het besluit van de Vlaamse regering van 31 juli 1990 tot vastlegging van het pakket "uren-leraar" in het voltijds secundair onderwijs, wordt aan elke instelling voor voltijds gewoon secundair onderwijs die door de Vlaamse Gemeenschap gefinancierd of gesubsidieerd wordt, en die binnen het studiegebied land- en tuinbouw ten minste een van de volgende structuuronderdelen organiseert, een specifiek aantal uren-leraar toegekend:<br>
+1° agrotechnieken dier;<br>
+2° agrotechnieken dier duaal;<br>
+3° agrotechnieken plant;<br>
+4° agrotechnieken plant duaal;<br>
+5° assistent dierlijke productie duaal;<br>
+6° assistent plantaardige productie duaal;<br>
+7° dier- en landbouwtechnische wetenschappen;<br>
+8° dier en milieu;<br>
+9° dier en milieu duaal;<br>
+10° hippisch assistent duaal;<br>
+11° landbouw;<br>
+12° paardrijden en -verzorgen;<br>
+13° paardenhouderij;<br>
+14° paardenhouderij duaal;<br>
+15° plant, dier en milieu;<br>
+16° plant-, dier- en milieutechnieken;<br>
+17° plant en milieu;<br>
+18° plant en milieu duaal;<br>
+19° planttechnische wetenschappen;<br>
+20° productiemedewerker dier;<br>
+21° productiemedewerker dier duaal;<br>
+22° productiemedewerker plant;<br>
+23° productiemedewerker plant duaal;<br>
+24° tuinbouw en groenvoorziening.<br>
+<br>
+Dat specifieke aantal uren-leraar, dat overeenstemt met twee dan wel meer voltijdse betrekkingen in het ambt van leraar secundair onderwijs, belast met praktische vakken in de tweede en derde graad van het voltijds gewoon secundair onderwijs, moet de instelling toestaan:<br>
+<br>
+1° de culturen, de serres en de veestapel die van de instelling afhangen, uit te baten en te onderhouden;<br>
+<br>
+2° tijdens de praktijklessen aan de leerlingen van het studiegebied land- en tuinbouw illustratieve demonstraties te geven die rekening houden met de technische en technologische ontwikkelingen in de sector.
 
 ### ART. 2.
 
@@ -14,7 +44,7 @@ Voor de toepassing van dit besluit worden alle structuuronderdelen van het studi
 
 ### ART. 4.
 
-Als eenmalige overgangsmaatregel voor het schooljaar 2005-2006 blijft het aantal uren-leraar dat overeenkomt met een betrekking die op 31 december 2005 wordt georganiseerd met toepassing van de op dat ogenblik vigerende regelgeving doch die met toepassing van artikel 1, eerste lid, van dit besluit zou verdwijnen, gedurende het schooljaar 2005-2006 toegekend.<br /><br />Deze overgangsmaatregel geldt evenwel niet, indien in de gemeente van de betrokken instelling een andere instelling is gelegen, behorend tot dezelfde inrichtende macht en met een derde graad van het studiegebied land- en tuinbouw, waaraan in toepassing van dit besluit tenminste zoveel betrekkingen meer worden toegekend dan het aantal betrekkingen dat in eerstgenoemde instelling wordt opgeheven.
+...
 
 ### ART. 5.
 
