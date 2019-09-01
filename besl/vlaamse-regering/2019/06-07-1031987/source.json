@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031987,
+  "title": "Besluit van de Vlaamse Regering van 2019-06-07 tot erkenning van de educatieve master in de gezondheidswetenschappen als nieuwe opleiding van de transnationale Universiteit Limburg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031987/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "9d747497c51e4b89debd1754b53841104decade50de80e7128e9010d444cc4e0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031987&param=informatie",
+  "as_of": "2019-09-01",
+  "made": "2019-06-07",
+  "gazette": "2019-08-02",
+  "numac": 2019041549,
+  "document_start": "2019-09-01",
+  "document_end": null,
+  "in_force": "2019-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
