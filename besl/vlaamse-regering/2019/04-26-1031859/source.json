@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031859,
+  "title": "Besluit van de Vlaamse Regering van 2019-04-26 houdende de vastlegging van de maximale groei voor de centra voor basiseducatie en voor de centra voor volwassenenonderwijs voor het schooljaar 2019-2020",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031859/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "57d838d50e04a849ae84aae4cc3204630cc590b259ec4d8d4e88a0f849e77919",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031859&param=informatie",
+  "as_of": "2019-09-01",
+  "made": "2019-04-26",
+  "gazette": "2019-06-28",
+  "numac": 2019013464,
+  "document_start": "2019-09-01",
+  "document_end": null,
+  "in_force": "2019-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
