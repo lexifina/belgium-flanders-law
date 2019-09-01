@@ -2,16 +2,16 @@
   "codex_id": 1029305,
   "title": "Decreet van 2018-03-30 betreffende duaal leren en de aanloopfase",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029305/VolledigDocument?datum=2018-09-01",
-  "source_sha256": "767bce5ed2288a0da2986e9d90961e5db92255b34e406014d0bf0b136b19d9b2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029305/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "7f626487218e0c74bdbe018c980a4ece3efd8388f83f5b4d13f7e884730dc276",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029305&param=informatie",
-  "as_of": "2018-09-01",
+  "as_of": "2019-09-01",
   "made": "2018-03-30",
   "gazette": "2018-05-23",
   "numac": 2018031033,
   "document_start": "2019-09-01",
   "document_end": null,
-  "in_force": "2018-09-01",
-  "article_versions": 45,
-  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-09-01",
+  "article_versions": 126,
+  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
 }

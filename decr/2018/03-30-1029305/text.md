@@ -23,6 +23,13 @@ De bepalingen van deel V/2 van deze codex zijn van toepassing op door de Vlaamse
 In artikel 3, 10°, van dezelfde codex, worden de woorden "die deeltijds beroepssecundair onderwijs organiseert" telkens vervangen door de zinsnede "die deeltijds beroepssecundair onderwijs en, wat het voltijds gewoon secundair onderwijs betreft, duale structuuronderdelen en aanloopstructuuronderdelen organiseert".<br>
 &nbsp;
 
+### ART 4.
+
+In artikel 15, § 1, van dezelfde codex, gewijzigd bij de decreten van 21 december 2012, 12 juli 2013 en 21 maart 2014, worden de volgende wijzigingen aangebracht:<br>
+1° punt 17° wordt opgeheven;<br>
+2° in punt 18° wordt de zinsnede "regionale overlegplatformen als vermeld in artikel 103 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap" vervangen door de zinsnede "overlegfora als vermeld in artikel 357/32 van de Codex Secundair Onderwijs van 17 december 2010;".<br>
+&nbsp;
+
 ### ART 5.
 
 In artikel 123/11 van de Codex Secundair Onderwijs, ingevoegd bij het decreet van 4 april 2014 en gewijzigd bij het decreet van 10 juni 2016, worden de volgende wijzigingen aangebracht:<br>
@@ -56,6 +63,18 @@ In artikel 123/11 van de Codex Secundair Onderwijs, ingevoegd bij het decreet va
 3° het woord "de leertijd" wordt vervangen door het woord "een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen".<br>
 &nbsp;
 
+### ART 9.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt een deel V/1 ingevoegd, dat luidt als volgt:<br>
+"Deel V/1. Specifieke bepalingen over duale structuuronderdelen in het secundair onderwijs".<br>
+&nbsp;
+
+### ART 10.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in deel V/1, ingevoegd bij artikel 9, een titel 1 ingevoegd, die luidt als volgt:<br>
+"Titel 1. Inleidende bepalingen".<br>
+&nbsp;
+
 ### ART 11.
 
 In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in titel 1, ingevoegd bij artikel 10, een artikel 357/1 ingevoegd, dat luidt als volgt:<br>
@@ -87,11 +106,27 @@ In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wo
 19° zijinstromers: jongeren die het onderwijs al hebben verlaten, al dan niet gekwalificeerd, en die zich, na een onderbreking, opnieuw willen inschrijven voor een duaal structuuronderdeel.".<br>
 &nbsp;
 
+### ART 13.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016 wordt in deel V/1, ingevoegd bij artikel 9, een titel 2 ingevoegd, die luidt als volgt:<br>
+"Titel 2. Opzet".
+
 ### ART 14.
 
 In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in titel 2, ingevoegd bij artikel 13, een artikel 357/3 ingevoegd, dat luidt als volgt:<br>
 "Art. 357/3. Een duaal structuuronderdeel combineert voor elke jongere een schoolcomponent en een werkplekcomponent. De combinatie van schoolcomponent met werkplekcomponent omvat minimaal 28 opleidingsuren per week. De werkplekcomponent omvat gemiddeld op schooljaarbasis minstens 14 opleidingsuren per week. De Vlaamse Regering kan beslissen om voor bepaalde structuuronderdelen af te wijken van het gemiddelde, minimale aantal wekelijkse uren op de werkplek.".<br>
 &nbsp;
+
+### ART 15.
+
+&nbsp;In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 2 een artikel 357/4 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/4. Duale structuuronderdelen worden ongeacht de aanbieder duaal leren als voltijds gewoon secundair onderwijs beschouwd.".<br>
+&nbsp;
+
+### ART 16.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in deel V/1, ingevoegd bij artikel 9, een titel 3 ingevoegd, die luidt als volgt:<br>
+"Titel 3. Structuur en organisatie".
 
 ### ART 17.
 
@@ -103,6 +138,14 @@ In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wo
 4° kan voorwaarden of beperkingen verbinden aan de organisatie van deze structuuronderdelen.<br>
 <br>
 § 2. Elk structuuronderdeel kan aangeboden worden door elke aanbieder duaal leren.".<br>
+&nbsp;
+
+### ART 18.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 3 een artikel 357/6 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/6. Een aanbieder duaal leren kan een duaal structuuronderdeel opstarten tot en met de eerste lesdag van oktober. Wanneer dit een structuuronderdeel Se-n-Se betreft, kan dit eveneens opgestart worden op de eerste lesdag van februari van het lopende schooljaar.<br>
+<br>
+In afwijking van het eerste lid kan een duaal structuuronderdeel ook opstarten na de eerste lesdag van oktober als de instroom in het voormelde structuuronderdeel voorbehouden wordt voor leerlingen die bij dezelfde aanbieder duaal leren overstappen van een aanloopstructuuronderdeel als vermeld in deel V/2, naar een duaal structuuronderdeel die allebei op hetzelfde standaardtraject zijn gebaseerd. In voorkomend geval wordt de eerste lesdag van juni als referentiedatum beschouwd voor de vaststelling of het duale structuuronderdeel in het schooljaar in kwestie al dan niet in het studieaanbod van de aanbieder duaal leren in kwestie voorkomt.".<br>
 &nbsp;
 
 ### ART 19.
@@ -126,6 +169,42 @@ Een standaardtraject bevat in elk geval:<br>
 <br>
 § 4. Als de aanbieder een school voor voltijds secundair onderwijs is, dan geldt de verplichting tot organisatie van levensbeschouwelijk onderricht. Deze cursussen vallen buiten het standaardtraject. Als de aanbieder duaal leren een centrum voor deeltijds beroepssecundair onderwijs of een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen is, worden levensbeschouwelijke vakken niet aangeboden.".<br>
 &nbsp;
+
+### ART 20.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in deel V/1, ingevoegd bij artikel 9, een titel 4 ingevoegd, die luidt als volgt:<br>
+"Titel 4. Programmatie".
+
+### ART 21.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in titel 4, ingevoegd bij artikel 20, een artikel 357/8 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/8. Voor een voltijds secundaire school met een daaraan verbonden centrum voor deeltijds beroepssecundair onderwijs heeft elke programmatie van een duaal structuuronderdeel betrekking op zowel de school als het centrum, ongeacht waar het duale structuuronderdeel in kwestie of een of meer van de daaraan verbonden aanloopstructuuronderdelen wordt aangeboden. Als noch een duaal structuuronderdeel noch ten minste één van de eraan verbonden aanloopstructuuronderdelen op de eerste lesdag van oktober of, voor Se-n-Se, de eerste lesdag van maart van twee aansluitende schooljaren wordt ingericht, kan heropstart slechts na programmatie.<br>
+<br>
+De desbetreffende programmatie van een duaal structuuronderdeel wordt door het bestuur van de aanbieder duaal leren bij de bevoegde diensten van de Vlaamse Gemeenschap schriftelijk en gemotiveerd aangevraagd uiterlijk op 30 november van het voorafgaand schooljaar en uiterlijk op 30 september van het lopende schooljaar als het een Se-n-Se betreft die van start gaat op de eerste lesdag van februari van het daaropvolgende jaar. Die termijn geldt als vervaltermijn; aanvragen die later worden ingediend zijn onontvankelijk. De motivering van de aanvraag houdt in elk geval rekening met de criteria, vermeld in het vierde lid, 1° tot en met 8°. Bij de aanvraag zitten, in voorkomend geval, het protocol van de onderhandeling ter zake in het bevoegde lokaal comité en, als de school tot een scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
+<br>
+De Vlaamse Regering neemt een beslissing over de programmatie na advies van:<br>
+1° de onderwijsinspectie en de bevoegde diensten van de Vlaamse Gemeenschap;<br>
+2° de Vlaamse Onderwijsraad;<br>
+3° de Sociaal-Economische Raad van Vlaanderen.<br>
+De Vlaamse Regering houdt bij haar beslissing rekening met al de volgende criteria:<br>
+1° de eventuele beperkingen of voorwaarden die vanuit macrodoelmatigheid aan het aanbod van het structuuronderdeel zijn gekoppeld;<br>
+2° de kwantitatieve en kwalitatieve behoeften voor het aanbod van secundair onderwijs in de onderwijszone in kwestie met het oog op vervolgonderwijs of toetreding tot de arbeidsmarkt;<br>
+3° de keuzevrijheid van ouders en leerlingen;<br>
+4° de studiecontinuïteit van leerlingen binnen de aanbieder duaal leren, of de scholengemeenschap;<br>
+5° de getroffen voorbereidingen op het vlak van materiële infrastructuur en leermiddelen die voldoende en gepast zijn met het oog op de te verwerven competenties van het geprogrammeerde structuuronderdeel;<br>
+6° de aantoonbare samenwerkingsmogelijkheden met lokale arbeidsmarktactoren en de bedrijfswereld;<br>
+7° de afspraken die met andere lokale onderwijsinrichters, binnen en buiten de scholengemeenschap in kwestie, zijn gemaakt over een rationeel en transparant studieaanbod;<br>
+8° de afstemming binnen het overlegforum vermeld in artikel 357/31.<br>
+<br>
+De Vlaamse Regering neemt een beslissing uiterlijk op 31 maart van het voorafgaand schooljaar en uiterlijk op 15 december van het lopende schooljaar als het een Se-n-Se betreft die van start gaat op de eerste lesdag van februari van het daaropvolgende jaar. Bij overschrijding van die termijn is de programmatie van rechtswege goedgekeurd.<br>
+<br>
+Een aanbieder van een duaal structuuronderdeel dat in het schooljaar 2018-2019 experimenteel wordt ingericht, is vrijgesteld van programmatie zolang dit structuuronderdeel geen twee aansluitende schooljaren niet wordt ingericht.".<br>
+&nbsp;
+
+### ART 22.
+
+In dezelfde codex wordt in deel V/1, ingevoegd bij artikel 9, een titel 5 ingevoegd, die luidt als volgt:<br>
+"Titel 5. Leerlingen".
 
 ### ART 23.
 
@@ -169,16 +248,178 @@ Het niet-bindende advies, vermeld in artikel 357/9, wordt gegeven op de volgende
 In afwachting van de progressieve uitrol van de modernisering van het secundair onderwijs vanaf 1 september 2019, wordt het advies, vermeld in punt 1°, gegeven in structuuronderdelen die na concordantie door de Vlaamse Regering beschouwd worden als structuuronderdelen met arbeidsmarktgerichte of dubbele finaliteit.".<br>
 &nbsp;
 
+### ART 25.
+
+&nbsp;In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 5 een artikel 357/11 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/11. Om als regelmatige leerling tot een duaal structuuronderdeel te kunnen worden toegelaten, moeten de volgende voorwaarden vervuld zijn:<br>
+1° voldaan hebben aan de voltijdse leerplicht;<br>
+2° beantwoorden aan de specifieke toelatingsvoorwaarden tot het duale structuuronderdeel in kwestie zoals bepaald in het standaardtraject; in afwijking hiervan geldt voor leerlingen die hetzij houder zijn van studiebewijzen, uitgereikt door andere scholen dan de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde scholen en al dan niet onthaalonderwijs hebben gevolgd, hetzij overstappen van een school voor buitengewoon secundair onderwijs, behoudens opleidingsvorm 4, een gunstige beslissing met betrekking tot vereiste vooropleiding of studiebewijzen van de klassenraad die beslist over de toelating als toelatingsvoorwaarde, zonder afbreuk te doen aan de specifieke toelatingsvoorwaarden van het duale structuuronderdeel;<br>
+3° voor zijinstromers een gunstige beslissing van de klassenraad gekregen hebben.<br>
+<br>
+In afwijking van de voorwaarde, vermeld in het eerste lid, 1°, kan een leerling bijzondere toelating krijgen om vanaf het begin van het schooljaar waarin hij deeltijds leerplichtig wordt, een duaal structuuronderdeel te volgen. Het bestuur van de aanbieder duaal leren geeft die toelating op advies van het centrum voor leerlingenbegeleiding waarmee de instelling voor voltijds onderwijs waar de jongere de lessen volgt, samenwerkt.".<br>
+&nbsp;
+
+### ART 26.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 5 een artikel 357/12 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/12. De klassenraad van een niet-duaal structuuronderdeel beslist over de instap van een leerling die overkomt uit een duaal structuuronderdeel en alleen in het bezit is van een bewijs van beroepskwalificatie, een bewijs van deelkwalificatie of een bewijs van competenties."
+
+### ART 27.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 5 een artikel 357/13 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/13. Tot en met de eerste lesdag van november kan een leerling van rechtswege instappen in een duaal structuuronderdeel als die leerling voldoet aan de toelatingsvoorwaarden. Leerlingen die na de eerste lesdag van november willen instappen, worden toegelaten via een klassenraad.".<br>
+&nbsp;
+
+### ART 28.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 5 een artikel 357/14 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/14. De trajectbegeleider en de mentor zijn ambtshalve stemgerechtigde leden van de klassenraad.<br>
+<br>
+In afwijking van het eerste lid is de mentor geen lid van de klassenraad als die klassenraad zou beslissen over de toelating van leerlingen in het kader van de toelatingsvoorwaarden.<br>
+<br>
+De Vlaamse Regering bepaalt de praktische afspraken over het functioneren van de mentor in de klassenraad.".<br>
+&nbsp;
+
+### ART 29.
+
+&nbsp;In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 5 een artikel 357/15 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/15. Met behoud van de toepassing van de bestaande vrijstellingsmogelijkheden voor bepaalde onderdelen van een structuuronderdeel, kan de klassenraad beslissen om vrijstelling te verlenen voor delen van of voor het geheel van de algemene vorming vanaf het schooljaar dat begint in het kalenderjaar waarin de jongere de leeftijd van achttien jaar bereikt.<br>
+<br>
+Bij een vrijstelling als vermeld in het eerste lid, voorziet de klassenraad in een alternatieve invulling van de vrijgekomen opleidingsuren.".<br>
+&nbsp;
+
+### ART 30.
+
+&nbsp;In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 5 een artikel 357/16 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/16. Als een duaal structuuronderdeel modulair wordt georganiseerd, is studievoortgang van rechtswege toegelaten als een onderliggende beroepskwalificatie behaald wordt, ongeacht of een onderwijskwalificatie behaald wordt.<br>
+<br>
+In het standaardtraject wordt opgenomen wat beschouwd kan worden als een onderliggende beroepskwalificatie voor een duaal structuuronderdeel als vermeld in het eerste lid.".<br>
+&nbsp;
+
+### ART 31.
+
+&nbsp;In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 5 een artikel 357/17 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/17. Het school- of centrumreglement bevat, naast de bepalingen die ook gelden voor niet-duale structuuronderdelen, de volgende specifieke bepalingen voor duale structuuronderdelen:<br>
+1° de leerling schikt zich naar alle mogelijke maatregelen die de aanbieder duaal leren neemt om de component werkplekleren ononderbroken invulling te geven met inbegrip van het intakegesprek en de trajectbegeleiding;<br>
+2° de verduidelijking van het orgaan "klassenraad", met de expliciete vermelding dat de trajectbegeleider en mentor er stemgerechtigd deel van uitmaken;<br>
+3° de omstandigheden waaronder de aanbieder duaal leren, met toepassing van de vigerende decreetgeving, tot de uitschrijving van een leerling kan of moet overgaan.".<br>
+&nbsp;
+
+### ART 32.
+
+&nbsp;In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 5 een artikel 357/18 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/18. Voor een regelmatige leerling die zijn opleiding in de loop van of op het einde van het schooljaar beëindigt, beslist de klassenraad, na evaluatie, over de studiebekrachtiging. De studiebekrachtiging in duale structuuronderdelen is gebaseerd op onderwijskwalificaties en beroepskwalificaties of op onderdelen ervan.<br>
+<br>
+De Vlaamse Regering legt de lijst van studiebewijzen vast die uitgereikt kunnen worden in duale structuuronderdelen.".<br>
+&nbsp;
+
+### ART 33.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 5 een artikel 357/19 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/19. In een duaal structuuronderdeel hebben gepaste en redelijke aanpassingen voor een leerling met specifieke onderwijsbehoeften als vermeld in artikel 136/2, zowel betrekking op de schoolcomponent als op de werkplekcomponent. De klassenraad werkt daarvoor op een systematische, planmatige en transparante wijze samen met het centrum voor leerlingenbegeleiding, de betrokken personen en, voor de aanpassingen op de werkplek, met de onderneming. De Vlaamse Regering kan voorzien in een ondersteuning van de werkgever om eventuele gepaste en redelijke aanpassingen door te voeren.".<br>
+&nbsp;
+
+### ART 34.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in deel V/1, ingevoegd bij artikel 9, een titel 6 ingevoegd, die luidt als volgt:<br>
+"Titel 6. Arbeidsdeelname".
+
 ### ART 35.
 
 In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in titel 6, ingevoegd bij artikel 34, een artikel 357/20 ingevoegd, dat luidt als volgt:<br>
 "Art. 357/20. Het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen staat als regisseur van de werkplekcomponent in voor de uitbouw en het beheer van een duurzaam netwerk van erkende leerondernemingen.".<br>
 &nbsp;
 
+### ART 36.
+
+&nbsp;In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 6 een artikel 357/21 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/21. De aanbieder duaal leren en de leerling kiezen samen een geschikte werkplek. Ze kunnen daarbij een beroep doen op de sector of het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen.<br>
+<br>
+Tussen de onderneming of de vertegenwoordiger van de onderneming en de leerling vindt een intakegesprek plaats, met het oog op het sluiten van een overeenkomst in het kader van een duaal structuuronderdeel. De leerling kan daarbij ondersteund worden door de trajectbegeleider bij onder andere het intakegesprek, de voorbereiding en de opvolging ervan.".<br>
+&nbsp;
+
+### ART 37.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 6 een artikel 357/22 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/22. De leerling heeft twintig opleidingsdagen per schooljaar waarop hij geen overeenkomst hoeft te hebben. Die dagen beginnen te tellen vanaf de eerste lesbijwoning na inschrijving of vanaf de eerste lesbijwoning na de beëindiging van een eerdere overeenkomst, tot het moment dat er een overeenkomst wordt afgesloten. Als die periode van twintig opleidingsdagen opgebruikt is, wordt de leerling uitgeschreven. De Vlaamse Regering kan voorzien in uitzonderingen waarbij die twintig opleidingsdagen kunnen worden verlengd.<br>
+<br>
+In het eerste lid wordt verstaan onder opleidingsdag: een dag waarop opleiding in de vorm van lessen of met lessen gelijkgestelde activiteiten of opleiding op de werkplek wordt georganiseerd.<br>
+<br>
+Zolang er geen overeenkomst loopt, wordt de opleiding altijd volledig georganiseerd via onderwijs bij de aanbieder duaal leren van minstens 28 opleidingsuren.".<br>
+&nbsp;
+
+### ART 38.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 6 een artikel 357/23 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/23. Tijdens de periodes dat de leerling de werkplekcomponent effectief invult, is een vertegenwoordiger van de aanbieder duaal leren waar de leerling is ingeschreven, bereikbaar. Die verplichting kan echter geen afbreuk doen aan de eventuele statutaire rechten van de individuele personeelsleden.<br>
+<br>
+Als de uitvoering van de verplichting, vermeld in het eerste lid, voor personeelsleden verplichtingen met zich meebrengt die er anders niet geweest zouden zijn, voorziet het bestuur van de aanbieder duaal leren in een passende compensatieregeling. In voorkomend geval wordt erover onderhandeld in het bevoegde lokaal comité of in de ondernemingsraad. Die regeling vergt het uitdrukkelijke, schriftelijke en voorafgaande akkoord van het betrokken personeelslid.".<br>
+&nbsp;
+
 ### ART 39.
 
 In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 6 een artikel 357/24 ingevoegd, dat luidt als volgt:<br>
 "Art. 357/24. Tijdens de periode waarin de leerling niet beschikt over een overeenkomst of tijdens de periode van arbeidsdeelname kan er worden voorzien in extra begeleiding voor de leerling. Die extra begeleiding is mogelijk na overleg met de eventuele onderneming, de aanbieder duaal leren en de leerling. De noodzaak ervan wordt opgenomen in het opleidingsplan van de leerling. De extra begeleiding wordt in de eerste plaats geboden door de aanbieder duaal leren. Die aanbieder kan daarvoor ondersteuning vragen van een organisator. Deze extra ondersteuning kan nooit ter vervanging van de voorziene trajectbegeleiding worden ingericht. De Vlaamse Regering kan het verdere kader uitwerken waarbinnen zulke ondersteuning vorm dient te krijgen.".<br>
+&nbsp;
+
+### ART 40.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in deel V/1, ingevoegd bij artikel 9, een titel 7 ingevoegd, die luidt als volgt:<br>
+"Titel 7. Financiering of subsidiëring van de aanbieders".<br>
+&nbsp;
+
+### ART 41.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in titel 7, ingevoegd bij artikel 40, een artikel 357/25 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/25. § 1. De duale structuuronderdelen worden, voor de berekening van de financiering of subsidiëring in de vorm van:<br>
+1° het kader onderwijzend personeel op basis van een pakket uren-leraar;<br>
+2° het kader bestuurspersoneel, met uitzondering van het ambt van directeur, en het kader ondersteunend personeel op basis van een globale puntenenveloppe;<br>
+3° het werkingsbudget;<br>
+zoals bepaald respectievelijk in deze codex en in het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, beschouwd als:<br>
+a) voltijds gewoon secundair onderwijs: als de aanbieder een school voor voltijds gewoon secundair onderwijs is;<br>
+b) deeltijds beroepssecundair onderwijs: als de aanbieder een centrum voor deeltijds beroepssecundair onderwijs is;<br>
+c) deeltijds beroepssecundair onderwijs: als de aanbieder een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen is.<br>
+<br>
+§ 2. Als de aanbieder van een duaal structuuronderdeel een centrum voor deeltijds beroepssecundair onderwijs is, worden aanvullende werkingsmiddelen toegekend op basis van het aantal dagen dat de jongeren effectief gepresteerd hebben binnen de fase arbeidsdeelname of de aanloopfase tijdens het voorafgaande schooljaar. De Vlaamse Regering legt de overeenkomstige financierings- of subsidiebedragen vast en kan bijkomende voorwaarden bepalen.".<br>
+&nbsp;
+
+### ART 42.
+
+&nbsp;In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 7 een artikel 357/26 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/26. Het resultaat van de berekening, uitgedrukt in een pakket uren-leraar, wordt voor elk centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen omgezet in een krediet op basis van de gemiddelde bruto loonkosten op jaarbasis van een uur-leraar in het deeltijds beroepssecundair onderwijs. Het schooljaar dat voorafgaat aan het schooljaar van toekenning, wordt als jaarbasis genomen.<br>
+<br>
+Voor de vaststelling van de subsidiëring van duale structuuronderdelen georganiseerd door centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen worden de regelmatige leerlingen geteld op de eerste lesdag van oktober van het lopende schooljaar voor zolang in die centra ook opleidingen worden georganiseerd die niet duaal zijn maar gebaseerd op het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap. Vanaf het schooljaar dat laatstbedoelde opleidingen niet meer in die centra worden georganiseerd, worden de regelmatige leerlingen geteld op de eerste lesdag van februari van het voorafgaand schooljaar.<br>
+<br>
+Het resultaat van de berekening, uitgedrukt in een globale puntenenveloppe, wordt voor elk centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen omgezet in een krediet op basis van de gemiddelde bruto loonkosten op jaarbasis van een punt in het secundair onderwijs. Het schooljaar dat voorafgaat aan het schooljaar van toekenning, wordt als jaarbasis genomen.<br>
+<br>
+Het aldus toegekende totale krediet kan door een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen uitsluitend voor de personeelsomkadering van duale structuuronderdelen worden aangewend. Het toegekende werkingsbudget kan door een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen uitsluitend voor de werking van duale structuuronderdelen worden aangewend.<br>
+<br>
+Het krediet voor de personeelsomkadering en het werkingsbudget worden aan een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen gelijktijdig toegekend volgens de voorschot- en saldoregeling die van toepassing is voor de werkingsbudgetten in het secundair onderwijs.".<br>
+&nbsp;
+
+### ART 43.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 7 een artikel 357/27 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/27. Met behoud van de aanwendingsmogelijkheden van het pakket uren-leraar, zoals respectievelijk bepaald in of krachtens deze codex en het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, gelden de volgende specifieke en deels afwijkende bepalingen voor duale structuuronderdelen:<br>
+1° een aantal uren-leraar wordt aangewend als uren die geen lesuren zijn in de vorm van trajectbegeleiding en aangeduid als "trajectbegeleiding duaal". De Vlaamse Regering kan voor de voormelde aanwending een minimum bepalen dat kan variëren naargelang van het structuuronderdeel of de groep van structuuronderdelen;<br>
+2° uren-leraar kunnen in alle duale structuuronderdelen worden aangewend voor voordrachtgevers. De Vlaamse Regering kan voor de voormelde aanwending een maximum bepalen dat kan variëren naargelang van het structuuronderdeel of de groep van structuuronderdelen;<br>
+3° onder de voorwaarden die de Vlaamse Regering bepaalt, kunnen uren-leraar door een aanbieder aan een andere aanbieder, ook van een ander net, worden overgedragen voor de organisatie van een deel van duale structuuronderdelen.<br>
+Bij de overdracht van een school voor voltijds gewoon secundair onderwijs of een centrum voor deeltijds beroepssecundair onderwijs aan een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen worden de desbetreffende uren-leraar omgezet in een krediet volgens parameters die de Vlaamse Regering vastlegt. Dezelfde parameters worden toegepast indien een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen uren uitbesteedt aan een school voor voltijds gewoon secundair onderwijs of een centrum voor deeltijds beroepssecundair onderwijs;<br>
+4° onder de voorwaarden die de Vlaamse Regering bepaalt, kunnen uren-leraar door een aanbieder aan een centrum voor volwassenenonderwijs, ook van een ander net, worden overdragen voor de organisatie van een deel van duale structuuronderdelen.".<br>
+&nbsp;
+
+### ART 44.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 7 een artikel 357/28 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/28. Op de personeelsleden van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen die voldoen aan de reglementaire voorwaarden inzake bekwaamheidsbewijzen in het gewoon secundair onderwijs, zijn de overeenkomstige reglementaire salarisschalen van toepassing.<br>
+<br>
+Op de personeelsleden van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen is het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding niet van toepassing.".<br>
+&nbsp;
+
+### ART 45.
+
+&nbsp;In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in deel V/1, ingevoegd bij artikel 9, een titel 8 ingevoegd, die luidt als volgt:<br>
+"Titel 8. Subsidiëring van de organisatoren".<br>
 &nbsp;
 
 ### ART 46.
@@ -195,6 +436,29 @@ De Vlaamse Regering bepaalt:<br>
 6° de evaluatie en duur van de trajecten.".<br>
 &nbsp;
 
+### ART 47.
+
+&nbsp;In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in deel V/1, ingevoegd bij artikel 9, een titel 9 ingevoegd, die luidt als volgt:<br>
+"Titel 9. Kwaliteitstoezicht".
+
+### ART 48.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in titel 9, ingevoegd bij artikel 47, een artikel 357/30 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/30. Het kwaliteitstoezicht op duale structuuronderdelen verloopt conform de bepalingen van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.<br>
+Onverminderd het eerste lid, wordt voor duale structuuronderdelen het kwaliteitstoezicht gezamenlijk uitgevoerd door de onderwijsinspectie en het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen. De onderwijsinspectie neemt de coördinerende rol op voor het geheel van het kwaliteitstoezicht op het leertraject. De onderwijsinspectie coördineert het kwaliteitstoezicht op de schoolcomponent. Het Vlaams Agentschap voor Ondernemersvorming - SYNTRA Vlaanderen - wordt uitgenodigd om deel te nemen aan de doorlichting als extern deskundige, vermeld in artikel 37 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs. Het Vlaams Agentschap voor Ondernemersvorming - SYNTRA Vlaanderen - coördineert het kwaliteitstoezicht van de werkplekcomponent binnen het leertraject. De onderwijsinspectie wordt uitgenodigd voor dat toezicht.<br>
+<br>
+De Vlaamse Regering kan de verdere modaliteiten van het toezicht bepalen.<br>
+<br>
+Tussen de onderwijsinspectie en het Vlaams Agentschap voor Ondernemers-vorming - SYNTRA Vlaanderen - wordt een samenwerkingsovereenkomst over de operationalisering van het toezicht gesloten.<br>
+<br>
+In het tweede lid wordt verstaan onder leertraject: het geheel van de schoolcomponent en de werkplekcomponent.".<br>
+&nbsp;
+
+### ART 49.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in deel V/1, ingevoegd bij artikel 9, een titel 10 ingevoegd, die luidt als volgt:<br>
+"Titel 10. Monitoring".
+
 ### ART 50.
 
 In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in titel 10, ingevoegd bij artikel 49, een artikel 357/31 ingevoegd, dat luidt als volgt:<br>
@@ -202,6 +466,11 @@ In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wo
 <br>
 De Vlaamse Regering bepaalt eveneens de te koppelen gegevens tussen het beleidsdomein Onderwijs en het beleidsdomein Werk die nodig zijn om de monitoring uit te voeren.".<br>
 &nbsp;
+
+### ART 51.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in deel V/1, ingevoegd bij artikel 9, een titel 11 ingevoegd, die luidt als volgt:<br>
+"Titel 11. Overlegforum".
 
 ### ART 52.
 
@@ -249,6 +518,17 @@ In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wo
 "Art. 357/36. Een afgevaardigde van Actiris neemt deel aan het overlegforum van het tweetalige gebied Brussel-Hoofdstad voor wat gewestaangelegenheden betreft.".<br>
 &nbsp;
 
+### ART 57.
+
+&nbsp;In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt een deel V/2 ingevoegd, dat luidt als volgt:<br>
+"Deel V/2. Specifieke bepalingen over de aanloopstructuuronderdelen naar duale structuuronderdelen in het secundair onderwijs".<br>
+&nbsp;
+
+### ART 58.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in deel V/2, ingevoegd bij artikel 57, een titel 1 ingevoegd, die luidt als volgt:<br>
+"Titel 1. Inleidende bepaling".
+
 ### ART 59.
 
 In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in titel 1, ingevoegd bij artikel 58, een artikel 357/37 ingevoegd, dat luidt als volgt:<br>
@@ -268,6 +548,11 @@ In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wo
 8° schoolcomponent: het deel van de opleiding dat lessen bij de aanbieder van de aanloopfase of met lessen gelijkgestelde activiteiten omvat, buiten de aanloopcomponent.".<br>
 &nbsp;
 
+### ART 61.
+
+&nbsp;In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in deel V/2, ingevoegd bij artikel 57, een titel 2 ingevoegd, die luidt als volgt:<br>
+"Titel 2. Opzet".
+
 ### ART 62.
 
 In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in titel 2, ingevoegd bij artikel 61, een artikel 357/39 ingevoegd, dat luidt als volgt:<br>
@@ -276,6 +561,16 @@ In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wo
 Het aanloopstructuuronderdeel wordt concreet ingevuld op maat van de individuele leerling. De doelstelling van een aanloopstructuuronderdeel is een doorstroom naar duaal leren.".<br>
 &nbsp;
 
+### ART 63.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 2 een artikel 357/40 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/40. Een aanloopstructuuronderdeel kan worden ingericht door elke aanbieder van de aanloopfase. Structuuronderdelen die in het kader van de aanloopfase aangeboden worden, worden als voltijds secundair onderwijs beschouwd.".
+
+### ART 64.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in deel V/2, ingevoegd bij artikel 57, een titel 3 ingevoegd, die luidt als volgt:<br>
+"Titel 3. Structuur en organisatie".
+
 ### ART 65.
 
 In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in titel 3, ingevoegd bij artikel 64, een artikel 357/41 ingevoegd, dat luidt als volgt:<br>
@@ -283,6 +578,12 @@ In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wo
 1° legt de lijst van de aanloopstructuuronderdelen, vermeld in artikel 357/39 vast en deelt die structuuronderdelen in studiegebieden en onderwijsvormen van de tweede graad respectievelijk de derde graad in;<br>
 2° bepaalt de omzetting in aanloopstructuuronderdelen van opleidingen die zijn vastgelegd ter uitvoering van artikel 22 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap;<br>
 3° bepaalt de kalender van de omzetting, vermeld in punt 2°. ".<br>
+&nbsp;
+
+### ART 66.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 3 een artikel 357/42 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/42. De aanbieder van de aanloopfase kan op elk moment van het schooljaar een aanloopstructuuronderdeel starten.".<br>
 &nbsp;
 
 ### ART 67.
@@ -295,10 +596,31 @@ De Vlaamse Regering bepaalt de invulling van een aanloopstructuuronderdeel.<br>
 Een aanloopstructuuronderdeel kan modulair worden georganiseerd.".<br>
 &nbsp;
 
+### ART 68.
+
+&nbsp;In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in deel V/2, ingevoegd bij artikel 57, een titel 4 ingevoegd, die luidt als volgt:<br>
+"Titel 4. Programmatie".
+
 ### ART 69.
 
 In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in titel 4, ingevoegd bij artikel 68, een artikel 357/44 ingevoegd, dat luidt als volgt:<br>
 "Art. 357/44. De programmatie van een aanloopstructuuronderdeel in een centrum voor deeltijds beroepssecundair onderwijs of een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, volgt uit de programmatie van een duaal structuuronderdeel. Bij de programmatie van het duale structuuronderdeel, vermeld in artikel 357/9, kan een aanbieder van de aanloopfase ook de bijbehorende aanloopstructuuronderdelen programmeren.".
+
+### ART 70.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in deel V/2, ingevoegd bij artikel 57, een titel 5 ingevoegd, die luidt als volgt:<br>
+"Titel 5. Leerlingen".
+
+### ART 71.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in titel 5, ingevoegd bij artikel 70, een artikel 357/45 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/45. Om als regelmatig leerling tot een aanloopstructuuronderdeel te kunnen worden toegelaten, moeten al de volgende voorwaarden vervuld zijn:<br>
+1° voldaan hebben aan de voltijdse leerplicht;<br>
+2° beantwoorden aan de specifieke toelatingsvoorwaarden tot het duale structuuronderdeel in kwestie zoals bepaald in het standaardtraject; in afwijking hiervan geldt voor leerlingen die hetzij houder zijn van studiebewijzen, uitgereikt door andere scholen dan de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde scholen en al dan niet onthaalonderwijs hebben gevolgd, hetzij overstappen van een school voor buitengewoon secundair onderwijs, behoudens opleidingsvorm 4, een gunstige beslissing met betrekking tot vereiste vooropleiding of studiebewijzen van de klassenraad die beslist over de toelating als toelatingsvoorwaarde, zonder afbreuk te doen aan de specifieke toelatingsvoorwaarden van het duale structuuronderdeel;<br>
+3° niet beschikken over een arbeidsdeelname.<br>
+<br>
+In afwijking van de voorwaarde, vermeld in het eerste lid, 1°, kan een leerling bijzondere toelating krijgen om vanaf het begin van het schooljaar waarin hij deeltijds leerplichtig wordt, het aanloopstructuuronderdeel te volgen. Het bestuur van de aanbieder van de aanloopfase geeft die toelating op advies van het centrum voor leerlingenbegeleiding waarmee de instelling voor voltijds onderwijs waar de jongere de lessen volgt, samenwerkt.".<br>
+&nbsp;
 
 ### ART 72.
 
@@ -321,6 +643,33 @@ De Vlaamse Regering kan aanvullend op de doelstellingen, vermeld in het eerste l
 § 5. In een aanloopstructuuronderdeel hebben gepaste en redelijke aanpassingen voor een leerling met specifieke onderwijsbehoeften als vermeld in artikel 136/2, zowel betrekking op de schoolcomponent als op de aanloopcomponent. De klassenraad werkt hiervoor op een systematische, planmatige en transparante wijze samen met het centrum voor leerlingenbegeleiding, de betrokken personen, de organisator of de onderneming, voor wat de aanpassingen op de werkplek betreft. De Vlaamse Regering kan voorzien in een ondersteuning van de werkgever voor het doorvoeren van eventuele gepaste en redelijke aanpassingen.".<br>
 &nbsp;
 
+### ART 73.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 5 een artikel 357/47 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/47. Na de inschrijving volgt een screening die de klassenraad moet toelaten om te beslissen of de leerling het aanloopstructuuronderdeel al dan niet kan volgen. De screening verloopt op de volgende wijze:<br>
+1° de screening wordt uitgevoerd door de aanbieder van de aanloopfase en heeft betrekking op arbeidsrijpheid, arbeidsbereidheid, studieoriëntatie, interesses, motivatie en eerder verworven competenties;<br>
+2° de screening vindt zo spoedig mogelijk en uiterlijk tien opleidingsdagen na de start van de effectieve lesbijwoning plaats;<br>
+3° de middelen of methodieken voor de screening worden door de Vlaamse Regering gevalideerd met het oog op kwaliteitsborging;<br>
+4° als uit het resultaat van de screening blijkt dat de jongere kan starten in het aanloopstructuuronderdeel, geeft die screening de invulling van de aanloopcomponent aan als vermeld in artikel 357/46;<br>
+5° als de klassenraad op basis van de screening beslist dat de jongere het aanloopstructuuronderdeel niet kan aanvatten, is die beslissing bindend voor de jongere en wordt hij uit het aanloopstructuuronderdeel uitgeschreven.<br>
+<br>
+In het eerste lid, 1° en 2°, wordt verstaan onder:<br>
+1° arbeidsbereid: gemotiveerd om te leren en te participeren op de werkplek;<br>
+2° opleidingsdag: een dag waarop opleiding in de vorm van lessen of met lessen gelijkgestelde activiteiten wordt georganiseerd.".<br>
+&nbsp;
+
+### ART 74.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 5 een artikel 357/48 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/48. Vanaf het moment dat een jongere een tewerkstelling heeft met een overeenkomst als vermeld in artikel 357/21, wordt de inschrijving in het aanloopstructuuronderdeel stopgezet en kan de jongere inschrijven in een duaal structuuronderdeel indien voldaan aan de toelatingsvoorwaarden, vermeld in artikel 357/12.".<br>
+&nbsp;
+
+### ART 75.
+
+&nbsp;In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 5 een artikel 357/49 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/49. Een inschrijving in een aanloopstructuuronderdeel kan gedurende het hele schooljaar.".<br>
+&nbsp;
+
 ### ART 76.
 
 In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 5 een artikel 357/50 ingevoegd, dat luidt als volgt:<br>
@@ -331,6 +680,37 @@ Studievoortgang binnen een aanloopstructuuronderdeel of tussen aanloopstructuuro
 Voor een regelmatige leerling die zijn opleiding in de loop van of op het einde van het schooljaar beëindigt, beslist de klassenraad, na evaluatie, over de studiebekrachtiging. De studiebekrachtiging in aanloopstructuuronderdelen is gebaseerd op onderwijs- en beroepskwalificaties of op onderdelen ervan.<br>
 <br>
 De Vlaamse Regering legt de lijst van studiebewijzen vast die uitgereikt kunnen worden in aanloopstructuuronderdelen.".<br>
+&nbsp;
+
+### ART 77.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in dezelfde titel 5 een artikel 357/51 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/51. Met behoud van de toepassing van de bestaande vrijstellingsmogelijkheden voor bepaalde onderdelen van een structuuronderdeel, kan de klassenraad beslissen om vrijstelling te verlenen voor een deel of het geheel van de algemene vorming vanaf het schooljaar dat begint in het kalenderjaar waarin de jongere de leeftijd van achttien jaar bereikt.<br>
+<br>
+Bij een vrijstelling voorziet de klassenraad in een alternatieve invulling van de vrijgekomen opleidingsuren.".<br>
+&nbsp;
+
+### ART 78.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in deel V/2, ingevoegd bij artikel 57, een titel 6 ingevoegd, die luidt als volgt:<br>
+"Titel 6. Financiering of subsidiëring van de aanbieders en organisatoren".<br>
+&nbsp;
+
+### ART 79.
+
+&nbsp;In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in titel 6, ingevoegd bij artikel 78, een artikel 357/52 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/52. § 1. Voor de berekening van de financiering of subsidiëring in de vorm van:<br>
+1° het kader onderwijzend personeel op basis van een pakket uren-leraar;<br>
+2° het kader bestuurspersoneel, met uitzondering van het ambt van directeur, en het kader ondersteunend personeel op basis van een globale puntenenveloppe;<br>
+3° het werkingsbudget;<br>
+zoals bepaald in respectievelijk deze codex en in het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, worden de aanloopstructuuronderdelen beschouwd als:<br>
+a) voltijds gewoon secundair onderwijs: als de aanbieder een school voor voltijds gewoon secundair onderwijs is;<br>
+b) deeltijds beroepssecundair onderwijs: als de aanbieder een centrum voor deeltijds beroepssecundair onderwijs is;<br>
+c) deeltijds beroepssecundair onderwijs: als de aanbieder een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen is.<br>
+<br>
+Artikel 357/26 tot en met 357/28 over de financiering of subsidiëring van duale structuuronderdelen, zijn ook van toepassing op aanloopstructuuronderdelen.<br>
+<br>
+§ 2. Als de aanbieder van een aanloopstructuuronderdeel een centrum voor deeltijds beroepssecundair onderwijs is, worden aanvullende werkingsmiddelen toegekend op basis van het aantal dagen dat jongeren binnen de fase arbeidsdeelname of de aanloopfase tijdens het voorafgaande schooljaar effectief gepresteerd hebben. De Vlaamse Regering legt de overeenkomstige financierings- of subsidiebedragen vast en kan bijkomende voorwaarden bepalen.".<br>
 &nbsp;
 
 ### ART 80.
@@ -347,7 +727,81 @@ De oproep, vermeld in het eerste lid, omvat minstens de volgende bepalingen:<br>
 6° de evaluatie van de trajecten.".<br>
 &nbsp;
 
+### ART 81.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in deel V/2, ingevoegd bij artikel 57, een titel 7 ingevoegd, die luidt als volgt:<br>
+"Titel 7. Kwaliteitstoezicht".
+
+### ART 82.
+
+&nbsp;In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in titel 7, ingevoegd bij artikel 81, een artikel 357/54 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/54. Het kwaliteitstoezicht op aanloopstructuuronderdelen verloopt conform de bepalingen van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.".
+
+### ART 83.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in deel V/2, ingevoegd bij artikel 57, een titel 8 ingevoegd, die luidt als volgt:<br>
+"Titel 8. Monitoring".
+
+### ART 84.
+
+&nbsp;In dezelfde codex, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in titel 8, ingevoegd bij artikel 83, een artikel 357/55 ingevoegd, dat luidt als volgt:<br>
+"Art. 357/55. De Vlaamse Regering bepaalt de manier van monitoren van leerlingen in aanloopstructuuronderdelen, waarbij minstens de start- en einddatum van elke individuele leerling worden gemonitord. De Vlaamse Regering bepaalt ook de te koppelen gegevens tussen het beleidsdomein Onderwijs en het beleidsdomein Werk, die nodig zijn om de monitoring uit te voeren.".<br>
+&nbsp;
+
 ## HOOFDSTUK 3 Wijzigingen van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap
+
+### ART 85.
+
+In artikel 3 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, het laatst gewijzigd bij het decreet van 17 juni 2016, worden de volgende wijzigingen aangebracht:<br>
+1° voor punt 1°, dat punt 1° bis wordt, wordt een nieuw punt 1° ingevoegd, dat luidt als volgt:<br>
+"1° aanloopcomponent: de invulling van de component werkplekleren die samen met de component leren zorgt voor het voltijds engagement voor arbeidsbereide leerlingen waarvan de arbeidsgerichte, loopbaangerichte of vaktechnische competenties verder dienen te worden versterkt;";<br>
+2° punt 4° wordt opgeheven;<br>
+3° punt 12° wordt opgeheven;<br>
+4° voor punt 10° bis, dat punt 10° ter wordt, wordt een nieuw punt 10° bis ingevoegd, dat luidt als volgt:<br>
+"10° bis NAFT: NAFT zoals bepaald in de vigerende decreet- en regelgeving op de bijzondere jeugdbijstand en de integrale jeugdhulp;";<br>
+5° in punt 19° wordt het woord "voortraject" opgeheven;<br>
+6° in punt 19° wordt het woord "brugproject" vervangen door het woord "aanloopcomponent";<br>
+7° punt 21° wordt opgeheven.<br>
+&nbsp;
+
+### ART 86.
+
+In artikel 6, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 10 juni 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid, 2°, worden de woorden "via een brugproject" vervangen door de woorden "via een aanloopcomponent";<br>
+2° in het tweede lid wordt punt 3° opgeheven;<br>
+3° in het derde lid wordt punt 2° opgeheven;<br>
+4° in het derde lid wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
+"3° via een brugproject.".<br>
+&nbsp;
+
+### ART 87.
+
+In artikel 6, § 2, van hetzelfde decreet, wordt punt 1°, vervangen bij het decreet van 10 juni 2016, vervangen door wat volgt:<br>
+"1° de reguliere tewerkstelling op basis van een overeenkomst vermeld in artikel 3 van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen;".<br>
+&nbsp;
+
+### ART 88.
+
+In artikel 7 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "persoonlijk ontwikkelingstraject" vervangen door het woord "NAFT";<br>
+2° het tweede en derde lid worden opgeheven.<br>
+&nbsp;
+
+### ART 89.
+
+In artikel 11, § 1, van hetzelfde decreet, wordt punt 4° vervangen door wat volgt:<br>
+"4° deelnemen aan en samenwerken binnen een of meer overlegfora als vermeld in artikel 357/32 van de Codex Secundair Onderwijs van 17 december 2010;".<br>
+&nbsp;
+
+### ART 90.
+
+&nbsp;In hetzelfde decreet wordt onderafdeling III, die bestaat uit artikel 17 tot en met 19, opgeheven.<br>
+&nbsp;
+
+### ART 91.
+
+In hoofdstuk III, afdeling II, van hetzelfde decreet, wordt onderafdeling II, die bestaat uit artikel 26, opgeheven.<br>
+&nbsp;
 
 ### ART 92.
 
@@ -355,6 +809,139 @@ In artikel 27 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<
 1° in paragraaf 1 wordt de zinsnede "naar rata van 15 wekelijkse uren" vervangen door de zinsnede "naar rata van 15 of 16 wekelijkse uren";<br>
 2° in paragraaf 2, 2°, wordt de zinsnede "worden 15 wekelijkse uren" vervangen door de zinsnede "worden de 15 of 16 wekelijkse uren, vermeld in paragraaf 1,".<br>
 &nbsp;
+
+### ART 93.
+
+Artikel 31, tweede lid, van hetzelfde decreet, gewijzigd bij het decreet van 10 juni 2016, wordt vervangen door wat volgt:<br>
+"Voor de praktijkopleiding in de leertijd wordt een overeenkomst vermeld in artikel 3 van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen gesloten.".<br>
+&nbsp;
+
+### ART 94.
+
+Artikel 34 van hetzelfde decreet wordt opgeheven.
+
+### ART 95.
+
+Artikel 35 van hetzelfde decreet, gewijzigd bij de decreten van 21 december 2012 en 17 juni 2016, wordt vervangen door wat volgt:<br>
+"Art. 35. Een NAFT wordt georganiseerd naar rata van 28 uur op weekbasis als de NAFT voor de jongere de component leren en de component werkplekleren vervangt. Het centrum bepaalt of het voor een individuele leerling opportuun is om alleen de component leren of alleen de component werkplekleren door een NAFT te vervangen.<br>
+<br>
+Een NAFT kan gespreid worden over een aantal weken, eventueel schooljaaroverschrijdend, zonder afbreuk te doen aan de bedoeling dat een jongere overgaat naar een effectieve invulling van de component leren en de component werkplekleren. Een NAFT kan starten op elk moment van het schooljaar.<br>
+<br>
+De Vlaamse Regering zal bijkomende bepalingen vastleggen voor de organisatie van een NAFT binnen onderwijs, met inachtname van de bepaling dat de inrichting, erkenning of subsidiëring van het onderwijs bij decreet wordt geregeld.".<br>
+&nbsp;
+
+### ART 96.
+
+Artikel 36 van hetzelfde decreet wordt opgeheven.
+
+### ART 97.
+
+&nbsp;In artikel 39 van hetzelfde decreet wordt paragraaf 2 vervangen door wat volgt:<br>
+" § 2. Een jongere die in een centrum voor deeltijds beroepssecundair onderwijs is ingeschreven, maar een NAFT volgt, kan dat traject uiterlijk tot het einde van het schooljaar waarin hij zijn leerplicht beëindigt volgen.".<br>
+&nbsp;
+
+### ART 98.
+
+In artikel 44 van hetzelfde decreet wordt het tweede lid opgeheven.<br>
+&nbsp;
+
+### ART 99.
+
+In artikel 60 van hetzelfde decreet, gewijzigd bij het decreet van 17 juni 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt het woord "voortraject" opgeheven;<br>
+2° in het eerste lid wordt het woord "brugproject" vervangen door het woord "aanloopcomponent";<br>
+3° in het derde lid wordt het woord "voortraject" vervangen door het woord "aanloopcomponent".<br>
+&nbsp;
+
+### ART 100.
+
+In artikel 62 van hetzelfde decreet, gewijzigd bij het decreet van 8 mei 2009, worden de volgende wijzigingen aangebracht:<br>
+1° het derde lid wordt opgeheven;<br>
+2° in het zesde lid wordt het woord "VDAB" vervangen door de woorden "de Vlaamse Regering";<br>
+3° in het zevende lid wordt de zinsnede "hetzij het brugproject" vervangen door de woorden "hetzij de aanloopcomponent";<br>
+4° in het zevende lid wordt de zinsnede "hetzij het voortraject" opgeheven;<br>
+5° in het zevende lid worden de woorden "hetzij persoonlijke ontwikkelingstraject" vervangen door de woorden "hetzij een NAFT" en wordt de zin "Voor inschaling in het persoonlijk ontwikkelingstraject is een gemotiveerd verslag van het centrum voor leerlingenbegeleiding vereist." vervangen door de zinnen "Voor NAFT is een advies van het centrum voor leerlingenbegeleiding vereist. Als een jongere op een door de Vlaamse Regering nader te bepalen datum in een voortraject is ingeschreven, doorloopt die jongere opnieuw een screening met het oog op een inschaling in een NAFT, aanloopcomponent of arbeidsdeelname.".<br>
+&nbsp;
+
+### ART 101.
+
+Artikel 63 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 63. Trajectbegeleiding heeft als ultiem doel de jongere in een aangepast tempo naar de arbeidsdeelname te loodsen.<br>
+<br>
+Bij inschaling in hetzij de arbeidsdeelname, hetzij de aanloopcomponent, wordt een trajectbegeleidingsplan opgesteld door de trajectbegeleider van het centrum voor deeltijds beroepssecundair onderwijs of de trajectbegeleider van het centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, in overleg met de actoren die betrokken zijn bij de invulling van de component leren en de component werkplekleren.<br>
+<br>
+Om de twee maanden is er een overleg tussen de trajectbegeleider van het centrum voor deeltijds beroepssecundair onderwijs of de trajectbegeleider van het centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, het centrum voor leerlingenbegeleiding, en zo nodig de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, ter eventuele bijsturing van het trajectbegeleidingsplan.<br>
+<br>
+De opeenvolgende fasen die de jongere in zijn traject doorloopt, worden geregistreerd in het trajectvolgsysteem van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.<br>
+<br>
+In het vierde lid wordt verstaan onder fasen: de aanloopcomponent en de arbeidsdeelname.<br>
+<br>
+Bij trajectbegeleiding kan er een beroep worden gedaan op tweedelijnsondersteuning door een bemiddelaar van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.".<br>
+&nbsp;
+
+### ART 102.
+
+&nbsp;In artikel 64, eerste lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede ", het brugproject" wordt vervangen door de woorden "de aanloopcomponent";<br>
+2° de woorden "het voortraject" worden opgeheven;<br>
+3° de woorden "het persoonlijk ontwikkelingstraject" worden vervangen door het woord "NAFT".<br>
+&nbsp;
+
+### ART 103.
+
+&nbsp;In hetzelfde decreet wordt onderafdeling III, bestaande uit artikel 85, opgeheven.<br>
+&nbsp;
+
+### ART 104.
+
+In artikel 86, § 1, 3°, van hetzelfde decreet, gewijzigd bij het decreet van 17 juni 2016, worden de woorden "een door de Vlaamse Regering bepaald project dat voorbereidt op arbeidsdeelname" vervangen door de woorden "een door de Vlaamse Regering bepaald project dat of een bepaalde fase die voorbereidt op arbeidsdeelname".<br>
+&nbsp;
+
+### ART 105.
+
+In artikel 90, § 1, worden volgende wijzigingen aangebracht:<br>
+1° punt 4° wordt vervangen door wat volgt:<br>
+"4° overdracht van uren-leraar naar een organisatie die in het schooljaar 2018-2019 erkend was als centrum voor deeltijdse vorming, voor de realisatie van een les- of lesvervangend aanbod ter ondersteuning van de leerling. De Vlaamse Regering bepaalt de wijze van melding van die overdracht aan het Agentschap voor Onderwijsdiensten, de grootte van dat krediet per uur-leraar dat wordt omgezet, de wijze van toekenning ervan en de activiteiten die kunnen worden overgedragen.";<br>
+2° punt 5° wordt opgeheven.
+
+### ART 106.
+
+&nbsp;In artikel 91 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede "organisatie van een persoonlijk ontwikkelingstraject, een voortraject" wordt vervangen door de woorden "organisatie van een NAFT";<br>
+2° de zinsnede ", of een brugproject" wordt opgeheven.<br>
+&nbsp;
+
+### ART 107.
+
+&nbsp;In hoofdstuk III, afdeling V, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 17 juni 2016, wordt onderafdeling III, die bestaat uit artikel 94 tot en met artikel 96, opgeheven.<br>
+&nbsp;
+
+### ART 108.
+
+Artikel 98 van hetzelfde decreet, gewijzigd bij het decreet van 19 juli 2013, wordt opgeheven.<br>
+&nbsp;
+
+### ART 109.
+
+Artikel 99 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 99. De Vlaamse Regering bepaalt welke studiebewijzen er kunnen worden uitgereikt gedurende en na afloop van de aanloopcomponent.".<br>
+&nbsp;
+
+### ART 110.
+
+In hoofdstuk IV, afdeling II, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 17 juni 2016, worden onderafdeling I, die bestaat uit artikel 100, en onderafdeling II, die bestaat uit artikel 101, opgeheven.<br>
+&nbsp;
+
+### ART 111.
+
+&nbsp;In hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 juni 2017, wordt hoofdstuk V, dat bestaat uit artikel 103 tot en met artikel 108, opgeheven.<br>
+&nbsp;
+
+### ART 112.
+
+In hetzelfde decreet worden de volgende artikelen opgeheven:<br>
+1° artikel 140, gewijzigd bij het decreet van 25 april 2014;<br>
+2° artikel 141.
 
 ## HOOFDSTUK 4 Wijzigingen van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen"
 
@@ -411,6 +998,12 @@ In artikel 37 van hetzelfde decreet, gewijzigd bij de decreten van 10 juli 2008,
 3° aan paragraaf 5 worden aan de inleidende zin de woorden "aanloopstructuur-onderdelen en de duale structuuronderdelen" toegevoegd.<br>
 &nbsp;
 
+### ART 119.
+
+In artikel 38, § 3, van hetzelfde decreet wordt punt 1° vervangen door wat volgt:<br>
+"1° deelnemen aan en samenwerken binnen een of meer overlegfora als vermeld in artikel 357/32 van de Codex Secundair Onderwijs van 17 december 2010;".<br>
+&nbsp;
+
 ## HOOFDSTUK 5 Wijzigingsbepalingen van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen
 
 ### ART 120.
@@ -457,3 +1050,7 @@ Aan artikel 23 wordt een punt 10° toegevoegd, dat luidt als volgt:<br>
 &nbsp;
 
 ## HOOFDSTUK 6 Slotbepaling
+
+### ART 126.
+
+Dit decreet treedt in werking op 1 september 2019, met uitzondering van artikel 1, 2, 3, 5 tot en met 8, 11, 12, 14, 17, 19, 23, 24, 35, 39, 46, 50, 52, 53, 54, 55, 56, 59, 60, 62, 65, 67, 69, 72, 76, 80, 82, 86, 4°, 92, 106, 2°, 113 tot en met 118 en 120 tot en met 125, die in werking treden op 1 september 2018.
