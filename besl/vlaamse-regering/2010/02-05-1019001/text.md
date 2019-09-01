@@ -522,7 +522,7 @@ De betaling van het verschil tussen de reële kosten en de forfaitaire vergoedin
 
 Inspecteurs en coördinerend inspecteurs die hun opdracht uitsluitend uitvoeren op het adres van de onderwijsinspectie, kunnen in plaats van de van toepassing zijnde forfaitaire vergoeding voor reis- en verblijfskosten, vermeld in artikel 64, § 1, kiezen voor de terugbetaling van het woon-werkverkeer en een reis-, maaltijd- en hotelvergoeding voor binnenlandse en buitenlandse dienstreizen conform de geldende regeling voor de ambtenaren van de Vlaamse overheid.<br>
 <br>
-De inspecteur-generaal die zijn opdracht uitsluitend uitvoert op het adres van de onderwijsinspectie, kan in plaats van de forfaitaire vergoeding voor reis- en verblijfkosten, vermeld in artikel 64, § 1, tweede alinea kiezen voor de terugbetaling van het woon-werkverkeer conform artikel V 12bis van het Vlaams personeelsstatuut van 13 januari 2006 en een reis-, maaltijd- en hotelvergoeding voor binnenlandse en buitenlandse dienstreizen conform de geldende regeling voor de ambtenaren van de Vlaamse overheid.
+De inspecteur-generaal die zijn opdracht uitsluitend uitvoert op het adres van de onderwijsinspectie, kan in plaats van de forfaitaire vergoeding voor reis- en verblijfkosten, vermeld in artikel 64, § 1, tweede alinea kiezen voor een mobiliteitskrediet zoals uitgewerkt in artikel V 12bis van het Vlaams personeelsstatuut van 13 januari 2006 en een reis-, maaltijd- en hotelvergoeding voor binnenlandse en buitenlandse dienstreizen conform de geldende regeling voor de ambtenaren van de Vlaamse overheid.
 
 ## Afdeling III. ICT-vergoeding
 
