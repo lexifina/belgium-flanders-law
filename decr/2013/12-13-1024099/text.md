@@ -865,7 +865,7 @@ Naast de activiteiten, vermeld in artikel 11, komen ook de creatieve   activitei
 
 ### ART. 103.
 
-<P>§ 1. De door de Vlaamse Regering aangewezen dienst zal een onmiddellijke en   integrale terugbetaling van de toelage opleggen indien:<BR>1° de door de Vlaamse   Regering aangewezen dienst vaststelt dat niet is voldaan aan alle   subsidievoorwaarden, vermeld in artikel 100;<BR>2° de toelageontvanger het   toegekende toelagebedrag niet investeert binnen het afgesproken tijdsplan;<BR>3°   de toelageontvanger gedurende drie opeenvolgende maanden nalaat de terugbetaling   uit te voeren.<BR></P>  <P>§ 2. De door de Vlaamse Regering aangewezen dienst kan een toelageontvanger   gedurende drie jaar uitsluiten van nieuwe aanvragen indien de toelageontvanger   de terugbetalingen te laat of onregelmatig uitvoert.<BR></P>
+...
 
 ### ART. 104.
 
