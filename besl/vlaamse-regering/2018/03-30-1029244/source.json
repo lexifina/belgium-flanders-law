@@ -2,16 +2,16 @@
   "codex_id": 1029244,
   "title": "Besluit van de Vlaamse Regering van 2018-03-30 tot vastlegging van de lijst van de bachelor- en masteropleidingen die per instelling worden aangeboden in het hoger onderwijs in Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029244/VolledigDocument?datum=2018-09-01",
-  "source_sha256": "2543bc7699e1592f96531f087cab55aa0a8a25dad9eac0906526a609190fe926",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029244/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "4bb5ea5b649f851f1108a51dac465673a85e021943e47f93b9a1955547d45025",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029244&param=informatie",
-  "as_of": "2018-09-01",
+  "as_of": "2019-09-01",
   "made": "2018-03-30",
   "gazette": "2018-04-20",
   "numac": 2018040078,
   "document_start": "2018-09-01",
   "document_end": "2019-08-31",
-  "in_force": "2018-09-01",
+  "in_force": "2019-09-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
 }
