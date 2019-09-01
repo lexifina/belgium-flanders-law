@@ -29,7 +29,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 15° /3 gecodeerde persoonsgegevens : de persoonsgegevens die alleen met een code in verband kunnen worden gebracht met een geïdentificeerde of identificeerbare persoon;<br>
 16° geïndiceerde jeugdhulpverlening : enerzijds de jeugdhulpverlening die voor de minderjarige op basis van de hulpvraag en in overleg met de context wordt voorgesteld in het indicatiestellingsverslag, vermeld in artikel 21, eerste lid, 2°, en die in de vorm van inzetbare en combineerbare typemodules wordt beschreven, waarbij flexibiliteit gewaarborgd is, en anderzijds de jeugdhulpverlening die voor de minderjarige wordt voorgesteld in het verzoek van de jeugdrechter om niet rechtstreeks toegankelijke jeugdhulpverlening, vermeld in artikel 55;<br>
 17° gemandateerde voorzieningen : het ondersteuningscentrum Jeugdzorg en de vertrouwenscentra kindermishandeling;<br>
-18° gemeenschapsinstelling : een voorziening als vermeld in artikel 47 van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand;<br>
+18° gemeenschapsinstelling : een instelling als vermeld in artikel 2, 4°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
 19° gerechtelijke jeugdhulpverlening : de jeugdhulpverlening die wordt opgelegd bij rechterlijke beslissing;<br>
 20° hulpprogramma : een voorzieningenoverstijgend en gecoördineerd geheel van jeugdhulpverlening dat bestaat uit een combinatie van modules, afgestemd op de hulpvraag, die al dan niet gelijktijdig ingezet worden met de focus op een specifieke doelgroep of problematiek;<br>
 21° indicatiestelling : het proces, vermeld in artikel 21, dat wordt uitgevoerd door het team Indicatiestelling, vermeld in artikel 17, en dat op basis van de hulpvraag en de gemeenschappelijke analyse vaststelt welke jeugdhulpverlening maximaal wenselijk en als ondersteunend en effectief ingeschat wordt en wat de urgentie ervan is;<br>
@@ -39,7 +39,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 24° Intersectorale Regionale Prioriteitencommissie : het orgaan, vermeld in artikel 26, § 1, eerste lid, 5°, en derde lid, dat in voorkomend geval overgaat tot de prioritering van dossiers op basis van de hulpvraag, de urgentie en de zorgnood en dat met de minderjarige, zijn ouders of opvoedingsverantwoordelijken en de jeugdhulpaanbieders het gemeenschappelijke engagement aangaat om de geïndiceerde jeugdhulpverlening prioritair uit te voeren;<br>
 25° intersectorale registratielijst : systeem waarin al de indicatiestellingsverslagen, vermeld in artikel 21, eerste lid, 2°, en al de verzoeken van de jeugdrechter om niet rechtstreeks toegankelijke jeugdhulpverlening, vermeld in artikel 55, op naam van de minderjarige worden opgenomen met het oog op de jeugdhulpregie, vermeld in artikel 26;<br>
 26° jeugdhulp : het geheel van de jeugdhulpaanbieders, de personeelsleden die de indicatiestelling en de jeugdhulpregie verrichten binnen en voor de toegangspoort, en de personeelsleden die de opdrachten binnen de gemandateerde voorzieningen uitvoeren;<br>
-27° jeugdhulpaanbieder : een natuurlijke persoon of een voorziening die jeugdhulpverlening aanbiedt, in de vorm van rechtstreeks toegankelijke jeugdhulpverlening of niet rechtstreeks toegankelijke jeugdhulpverlening of beide, als vermeld in artikel 3, en het ondersteuningscentrum;<br>
+27° jeugdhulpaanbieder : een natuurlijke persoon of een voorziening die jeugdhulpverlening aanbiedt, in de vorm van rechtstreeks toegankelijke jeugdhulpverlening of niet rechtstreeks toegankelijke jeugdhulpverlening of beide, als vermeld in artikel 3, het ondersteuningscentrum en de gemeenschapsinstelling;<br>
 28° jeugdhulpverleningsbeslissing : het document, opgemaakt door het team Jeugdhulpregie, vermeld in artikel 17, derde lid, dat de geïndiceerde jeugdhulpverlening omzet in een of meer modules niet rechtstreeks toegankelijke jeugdhulpverlening of in een persoonsvolgende financiering die het mogelijk maakt om de geïndiceerde jeugdhulpverlening te realiseren, overeenkomstig artikel 26, § 1, eerste lid, 1° ;<br>
 29° jeugdhulpregie : het proces, vermeld in artikel 26, dat wordt uitgevoerd door het team Jeugdhulpregie, vermeld in artikel 17, en dat de geïndiceerde jeugdhulpverlening omzet in een of meer modules jeugdhulpverlening of in een persoonsvolgende financiering;<br>
 30° jeugdhulpverlening : de vraaggestuurde hulp- en zorgverlening die zich richt tot minderjarigen, of tot minderjarigen en hun ouders, hun opvoedingsverantwoordelijken of personen uit hun leefomgeving;<br>
@@ -48,7 +48,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 33° leefomgeving : de natuurlijke personen, met uitzondering van de ouders en de opvoedingsverantwoordelijken, die bij de minderjarige inwonen of met de minderjarige een familiale of bijzondere affectieve band hebben, onder wie de natuurlijke personen die in de buurt van de minderjarige wonen of met wie de minderjarige geregeld contact heeft, onder meer bij het naar school gaan of tijdens de vrijetijdsbesteding;<br>
 34° maatschappelijke noodzaak : de kwalificatie die na het onderzoek, vermeld in artikel 34, door de gemandateerde voorziening aan een verontrustende situatie wordt gegeven en die de noodzaak vastlegt om jeugdhulpverlening in te schakelen;<br>
 35° ...;<br>
-36° minderjarige : elke natuurlijke persoon die jonger is dan achttien jaar of van wie vermoed wordt dat hij jonger dan achttien jaar is ;<br>
+36° minderjarige : elke natuurlijke persoon die jonger is dan achttien jaarof van wie vermoed wordt dat hij jonger dan achttien jaar is ;<br>
 37° mobiel : de hulp wordt niet in de voorziening maar elders aangeboden (thuis, op school enzovoort);<br>
 38° module : een duidelijk afgelijnde eenheid van jeugdhulpverlening op basis van de hulpvraag, aangeboden door een jeugdhulpaanbieder, gebaseerd op één typemodule, die afzonderlijk, gelijktijdig of consecutief en op een manier waarbij de flexibiliteit met andere eenheden van jeugdhulpverlening gewaarborgd is, kan worden aangeboden;<br>
 39° netwerk : een functioneel samenwerkingsverband van jeugdhulpaanbieders dat afspraken over een integrale uitbouw van de hulpverlening vastlegt in een samenwerkingsprotocol;<br>
@@ -435,6 +435,19 @@ De Vlaamse Regering kan aanvullende erkenningsvoorwaarden bepalen.<br>
 <br>
 De subsidie wordt jaarlijks toegekend op basis van een beleidsplan van drie jaar van de cliëntenorganisatie.
 
+### ART 45/2.
+
+Het onafhankelijke cliëntenforum, vermeld in artikel 45/1, § 1, tweede lid, 8°, bestaat minstens uit de erkende cliëntenorganisaties, vermeld in artikel 45/1, § 1, eerste lid. De Vlaamse Regering bepaalt de voorwaarden waaronder andere organisaties het recht hebben om deel uit te maken van het cliëntenforum.<br>
+<br>
+Het cliëntenforum heeft als opdracht:<br>
+1° het delen van ervaringen en deskundigheid rond een participatieve jeugdhulpverlening mogelijk te maken en een visie rond een participatieve jeugdhulpverlening te ontwikkelen en uit te dragen;<br>
+2° de belangen te behartigen van kinderen en jongeren die een beroep doen op jeugdhulpverlening, van jongeren die een beroep doen op de voortgezette jeugdhulpverlening, vermeld in artikel 18, § 3, en van ouders en opvoedingsverantwoordelijken die een beroep doen op jeugdhulpverlening, onder meer door middel van vertegenwoordiging op beleidsniveau;<br>
+3° cliëntenorganisaties en cliëntenvertegenwoordigers te ondersteunen in hun bijdrage aan een participatieve jeugdhulpverlening.<br>
+<br>
+De Vlaamse Regering kan aanvullende opdrachten aan het cliëntenforum toekennen.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden waaraan het cliëntenforum moet voldoen om voor subsidiëring in aanmerking te komen.
+
 ### ART 45/3.
 
 De toegangspoort, de sociale dienst en de jeugdhulpaanbieders stellen, op verzoek van een erkende cliëntenorganisatie, de informatie van die organisatie die voortvloeit uit haar opdrachten, vermeld in artikel 45/1, § 1, tweede lid, ter beschikking van de volgende twee categorieën van personen of van een van beide categorieën van personen:<br>
@@ -458,7 +471,10 @@ b) alles is in het werk gesteld om vrijwillige jeugdhulpverlening te realiseren 
 2° als het openbaar ministerie aantoont dat cumulatief de volgende voorwaarden zijn vervuld :<br>
 a) een gerechtelijke maatregel is dringend noodzakelijk;<br>
 b) er zijn voldoende aanwijzingen dat de minderjarige onmiddellijk beschermd moet worden tegen een vorm van lichamelijk of geestelijk geweld, letsel of misbruik, lichamelijke of geestelijke verwaarlozing of nalatige behandeling, mishandeling of exploitatie, met inbegrip van seksueel misbruik;<br>
-c) het verlenen van vrijwillige jeugdhulpverlening is niet meteen mogelijk.
+c) het verlenen van vrijwillige jeugdhulpverlening is niet meteen mogelijk;<br>
+3° als het openbaar ministerie aantoont dat cumulatief de volgende voorwaarden zijn vervuld:<br>
+a) er loopt voor de minderjarige een procedure bij de jeugdrechter of jeugdrechtbank op grond van artikel 14 van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
+b) er zijn voldoende aanwijzingen dat de minderjarige, vermeld in a), zich in een verontrustende situatie bevindt.
 
 ## Afdeling 2. De gerechtelijke maatregelen
 
@@ -466,37 +482,44 @@ c) het verlenen van vrijwillige jeugdhulpverlening is niet meteen mogelijk.
 
 ### ART. 48.
 
-<p>§ 1. De jeugdrechtbank en de jeugdrechter kunnen na een vordering als vermeld in artikel 47, 1°, de volgende maatregelen nemen :<br>
+§ 1. De jeugdrechtbank en de jeugdrechter kunnen, na een vordering als vermeld in artikel 47, 1° en 3°, één of een combinatie van alle volgende maatregelen opleggen :<br>
 1° de ouders van de minderjarige of, in voorkomend geval, zijn opvoedingsverantwoordelijken een pedagogische richtlijn verstrekken;<br>
 2° voor ten hoogste één jaar de minderjarige onder toezicht stellen van de sociale dienst;<br>
-3° voor ten hoogste één jaar contextbegeleiding bevelen;<br>
-4° voor ten hoogste zes maanden de minderjarige een opvoedend project opleggen of de minderjarige, eventueel samen met zijn ouders of, in voorkomend geval, zijn opvoedingsverantwoordelijken toevertrouwen aan een project;<br>
-5° voor ten hoogste één jaar de minderjarige een ambulante voorziening doen bezoeken;<br>
-6° voor ten hoogste één jaar de minderjarige die de leeftijd van zeventien jaar heeft bereikt en over voldoende inkomsten beschikt, zelfstandig laten wonen;<br>
-7° voor ten hoogste één jaar de minderjarige die de leeftijd van zeventien jaar heeft bereikt, onder permanent toezicht op kamers laten wonen;<br>
-8° voor ten hoogste dertig dagen de minderjarige onder de begeleiding stellen van een onthaal- en oriëntatiecentrum;<br>
-9° voor ten hoogste zestig dagen de minderjarige onder de begeleiding stellen van een observatiecentrum;<br>
-10° een minderjarige toevertrouwen aan een kandidaat-pleegzorger of een pleegzorger als vermeld in artikel 14, § 1 of § 3, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg ten hoogste tot aan de leeftijd van dertien jaar, al dan niet met toepassing van artikel 5 van voormeld decreet, en een minderjarige die ouder is dan dertien jaar, toevertrouwen aan een kandidaat-pleegzorger of aan een pleegzorger als vermeld in artikel 14, § 1 of § 3, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg voor ten hoogste drie jaar, al dan niet met toepassing van artikel 5 van het voormelde decreet;<br>
-11° uitzonderlijk en voor ten hoogste één jaar de minderjarige toevertrouwen aan een geschikte open inrichting;<br>
-12° uitzonderlijk en voor ten hoogste drie maanden de minderjarige die de leeftijd van veertien jaar heeft bereikt, toevertrouwen aan een geschikte gesloten inrichting, als wordt aangetoond dat de minderjarige zich aan de maatregelen, vermeld in punt 10° en 11°, tweemaal of meer heeft onttrokken en dat die maatregel noodzakelijk is voor het behoud van de integriteit van de persoon van de minderjarige;<br>
-13° voor ten hoogste één jaar de minderjarige toevertrouwen aan een psychiatrische inrichting, als dat na een psychiatrische expertise noodzakelijk blijkt.</p>
-
-<p>De toepassing van de maatregelen, vermeld in het eerste lid, 5° tot en met 13°, moet een contextgerichte werking mogelijk maken, onder meer door de beperking van de afstand tussen de plaats van de uitvoering van de maatregel en de woonplaats van de minderjarige, tenzij wordt aangetoond dat uitsluitend het belang van de minderjarige het anders vereist.</p>
-
-<p>De jeugdrechter motiveert waarom de minderjarige bij toepassing van § 1, 11°, niet kan worden toevertrouwd aan een kandidaat-pleegzorger of pleegzorger als bedoeld in § 1, 10°.</p>
-
-<p>De jeugdrechtbank en de jeugdrechter motiveren waarom meerdere minderjarigen uit eenzelfde gezin bij toepassing van § 1, 10°, ten aanzien van hen niet kunnen worden toevertrouwd aan eenzelfde kandidaat-pleegzorger of pleegzorger.</p>
-
-<p>Een opvoedend project als vermeld in het eerste lid, 4°, moet cumulatief aan de volgende voorwaarden voldoen :<br>
+3° voor ten hoogste zes maanden de minderjarige een opvoedend project opleggen of de minderjarige, eventueel samen met zijn ouders of, in voorkomend geval, zijn opvoedingsverantwoordelijken toevertrouwen aan een project;<br>
+4° voor ten hoogste één jaar de functie begeleiding opleggen;<br>
+5° voor ten hoogste één jaar de functie dagopvang opleggen;<br>
+6° voor ten hoogste één jaar de functie diagnostiek opleggen;<br>
+7° voor ten hoogste één jaar de functie behandeling opleggen;<br>
+8° voor ten hoogste één jaar de functie training opleggen;<br>
+9° voor ten hoogste één jaar de functie verblijf opleggen;<br>
+10° voor ten hoogste één jaar de functie beveiligend verblijf opleggen;<br>
+11° uitzonderlijk en voor ten hoogste één jaar de minderjarige toevertrouwen aan een geschikte open inrichting die niet behoort tot het toepassingsgebied zoals vermeld in artikel 3;<br>
+12° voor ten hoogste één jaar de minderjarige toevertrouwen aan een psychiatrische inrichting, als dat na een psychiatrische expertise noodzakelijk blijkt;<br>
+13° uitzonderlijk en voor ten hoogste één jaar de minderjarige toevertrouwen aan een afdeling van een gemeenschapsinstelling;<br>
+14° uitzonderlijk en voor ten hoogste drie maanden de minderjarige die de leeftijd van veertien jaar heeft bereikt, toevertrouwen aan een geschikte gesloten inrichting, als wordt aangetoond dat de minderjarige zich aan de maatregelen, vermeld in punt 9° tot en met 13°, tweemaal of meer heeft onttrokken en dat die maatregel noodzakelijk is voor het behoud van de integriteit van de persoon van de minderjarige.<br>
+<br>
+De jeugdrechter en de jeugdrechtbank bepalen de jeugdhulpaanbieder bij wie de functie dient opgenomen te worden en, wanneer aangewezen, vermelden zij de bijhorende typemodules.<br>
+<br>
+Voor wat pleegzorg als vermeld in artikel 2, 11°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, betreft, kunnen de jeugdrechtbank en de jeugdrechter een minderjarige toevertrouwen aan een kandidaat-pleegzorger of een pleegzorger als vermeld in artikel 14, § 1 of § 3, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg ten hoogste tot aan de leeftijd van dertien jaar, al dan niet met toepassing van artikel 5 van voormeld decreet, en een minderjarige die ouder is dan dertien jaar, toevertrouwen aan een kandidaat-pleegzorger of aan een pleegzorger als vermeld in artikel 14, § 1 of § 3, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg voor ten hoogste drie jaar, al dan niet met toepassing van artikel 5 van het voormelde decreet.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere invulling van de typemodules die onder de functies, vermeld in punt 4° tot en met 10°, vallen. De Vlaamse Regering kan in afwijking van de termijn bepaald in het eerste lid, 4° tot en met 10°, voor specifieke typemodules andere, kortere, termijnen voorzien.<br>
+<br>
+Een opvoedend project als vermeld in het eerste lid, 3°, moet cumulatief aan de volgende voorwaarden voldoen:<br>
 1° het is gericht tot een specifieke doelgroep of op een bijzondere probleemsituatie;<br>
 2° het is georganiseerd door een jeugdhulpaanbieder of door een organisatie die daarvoor een overeenkomst heeft gesloten met de Vlaamse Regering;<br>
-3° het is gericht op de versterking van de eigen zorg of op de versterking van de zorg in het eigen milieu.</p>
+3° het is gericht op de versterking van de eigen zorg of op de versterking van de zorg in het eigen milieu.<br>
+<br>
+§ 2. Als de jeugdrechtbank beslist tot een combinatie van verschillende van de functies, vermeld in paragraaf 1, eerste lid, moet, in voorkomend geval, in de coördinatie van de maatregelen voorzien worden. De Vlaamse Regering bepaalt welke combinaties niet mogelijk zijn.<br>
+<br>
+Binnen de toepassing van de maatregelen, vermeld in het eerste lid, moet steeds contextgericht gewerkt worden. De uitwerking van contextgericht werken wordt bepaald door de Vlaamse Regering.
 
-<p>Als de jeugdrechtbank beslist tot een combinatie van verschillende van de maatregelen, vermeld in het eerste lid, geldt die beslissing voor maximaal zes maanden en moet, in voorkomend geval, in de coördinatie van de maatregelen voorzien worden.</p>
+### ART 48/1.
 
-<p>§ 2. Bij een combinatie van maatregelen als vermeld in paragraaf 1 kan op hetzelfde ogenblik slechts één maatregel van toepassing zijn.</p>
-
-<p>In afwijking van het eerste lid kan de Vlaamse Regering bepalen welke maatregelen gelijktijdig toegepast kunnen worden.</p>
+De eerste overweging bij uithuisplaatsing moet steeds pleegzorg, zoals omschreven in artikel 2, 11°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, zijn. De jeugdrechter motiveert waarom de minderjarige bij toepassing van artikel 48, 9°, niet kan worden toevertrouwd aan een kandidaat-pleeggezin of pleeggezin als vermeld in artikel 2, 9°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg.<br>
+<br>
+De jeugdrechtbank en de jeugdrechter motiveren waarom meerdere minderjarigen uit eenzelfde gezin bij toepassing van artikel 48, 9°, ten aanzien van hen niet kunnen worden toevertrouwd aan eenzelfde kandidaat-pleeggezin of pleeggezin.<br>
+<br>
+De Vlaamse Regering bepaalt hoe aan dit principe uitvoering moet gegeven worden.
 
 ### ART. 49.
 
@@ -515,9 +538,11 @@ Met behoud van de toepassing van de besluiten die ter uitvoering van artikel 78/
 
 <p>De maatregelen, vermeld in artikel 48, § 1, eerste lid, kunnen zowel tijdens de voorbereidende rechtspleging als tijdens en na de rechtspleging over de grond van de zaak worden genomen. Ze kunnen door de jeugdrechter op elk moment worden ingetrokken of op verzoek van de minderjarige, zijn wettelijke vertegenwoordiger, de sociale dienst of het openbaar ministerie worden vervangen door een andere maatregel die in dat artikel is bepaald.</p>
 
-<p>De maatregelen, vermeld in artikel 48, § 1, eerste lid, 2°, 4°, 5° tot en met 7°, 9°, doelend op pleegzorg als vermeld in artikel 2, 11°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg en 12°, eindigen na het verstrijken van de maximumtermijn, tenzij ze worden verlengd, telkens voor een termijn die de gestelde maximumperiode niet mag overschrijden. De maatregelen, vermeld in artikel 48, § 1, eerste lid, 6° en 14°, kunnen slechts eenmaal worden verlengd.</p>
+<p>De maatregelen, vermeld in artikel 48, § 1, eerste lid, 2°, 4°, 5, 7° tot en met 9° en 11° tot en met 13°, eindigen na het verstrijken van de maximumtermijn, tenzij ze worden verlengd, telkens voor een termijn die de gestelde maximum- periode niet mag overschrijden. De maatregelen, vermeld in artikel 48, § 1, eerste lid, 6°, 10° en 14°, kunnen slechts eenmaal worden verlengd.</p>
 
-<p>Al de maatregelen die tijdens de voorbereidende rechtspleging worden genomen, zijn samen beperkt tot zes maanden. Als een maatregel die na de rechtspleging over de grond van de zaak is genomen, door een andere maatregel wordt vervangen, eindigt die op de dag waarop de vervangen maatregel een einde zou hebben genomen.</p>
+<p>Al de maatregelen die tijdens de voorbereidende rechtspleging worden genomen, zijn samen beperkt tot zes maanden. Als een maatregel die na de rechtspleging over de grond van de zaak is genomen, door een andere maatregel wordt vervangen, eindigt die op de dag waarop de vervangen maatregel een einde zou hebben genomen.<br>
+<br>
+Met behoud van de toepassing van de bij het tweede lid bepaalde maximale termijnen wordt iedere maatregel die bevolen is bij vonnis, met uitzondering van de maatregelen in het kader van pleegzorg als vermeld in artikel 2, 11°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, opnieuw onderzocht om te worden bevestigd, ingetrokken of gewijzigd voor een termijn van een jaar verstreken is vanaf de dag waarop de beslissing definitief is geworden. De voormelde procedure wordt ingeleid door het Openbaar Ministerie conform de vormvereisten, vermeld in artikel 45, 2, b), van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade.</p>
 
 <p>De voorbereidende rechtspleging, vermeld in het eerste en derde lid, is de fase van de rechtspleging voor de jeugdrechter, die loopt vanaf de vordering van het openbaar ministerie en die voorafgaat aan het vonnis van de jeugdrechtbank tot het opleggen van een maatregel ten gronde.</p>
 
@@ -544,7 +569,7 @@ Met behoud van de toepassing van de besluiten die ter uitvoering van artikel 78/
 <p>De jeugdrechter laat een vraag tot niet rechtstreeks toegankelijke jeugdhulpverlening inschrijven op de intersectorale registratielijst voor hij het volgende beveelt:<br>
 1° een of meer van de maatregelen, vermeld in artikel 48 en 53;<br>
 2° een of meer van de maatregelen, vermeld in artikel 10 van de ordonnantie van de Gemeenschappelijke Gemeenschapscommissie van 29 april 2004 inzake hulpverlening aan jongeren;<br>
-3° een van de maatregelen, vermeld in artikel 37, § 2, eerste lid, 7°, en artikel 37, § 2ter, 7°, van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade.</p>
+3° een van de maatregelen of de sancties, vermeld in de artikelen 20, § 2, eerste lid en 29, § 2, eerste lid, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht..</p>
 
 <p>De Vlaamse Regering bepaalt de nadere regels.</p>
 
@@ -562,7 +587,9 @@ Met behoud van de toepassing van de besluiten die ter uitvoering van artikel 78/
 
 ### ART. 57.
 
-<P>De sociale dienst vervult de opdrachten van sociale aard die eraan worden   toevertrouwd door de magistraten, belast met jeugdzaken, ten behoeve van degenen   voor wie een gerechtelijke maatregel wordt genomen ter uitvoering van dit   decreet of van een wet betreffende de opgave van maatregelen voor minderjarigen   die een als misdrijf omschreven feit hebben gepleegd.<BR></P>  <P>De sociale dienst vervult ook, als een wet dat bepaalt, de   navorsingsopdrachten die eraan worden toevertrouwd door de magistraten, vermeld   in het eerste lid, met het oog op het nemen van een gerechtelijke maatregel met   toepassing van de regeling, vermeld in het eerste lid. Bij het vervullen van die   navorsingsopdrachten verricht de sociale dienst een indicatiestelling die   beantwoordt aan de kwaliteitseisen die voor het team Indicatiestelling van de   toegangspoort gesteld worden krachtens artikel 21.</P>
+<p>De sociale dienst vervult de opdrachten van sociale aard die eraan worden toevertrouwd door de magistraten, belast met jeugdzaken, ten behoeve van degenen voor wie een gerechtelijke maatregel wordt genomen ter uitvoering van dit decreet of van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht.</p>
+
+<p>De sociale dienst vervult ook, als een wet dat bepaalt, de navorsingsopdrachten die eraan worden toevertrouwd door de magistraten, vermeld in het eerste lid, met het oog op het nemen van een gerechtelijke maatregel met toepassing van de regeling, vermeld in het eerste lid. Bij het vervullen van die navorsingsopdrachten verricht de sociale dienst een indicatiestelling die beantwoordt aan de kwaliteitseisen die voor het team Indicatiestelling van de toegangspoort gesteld worden krachtens artikel 21.</p>
 
 ### ART. 58.
 
@@ -612,7 +639,9 @@ De Vlaamse Regering bakent de regio's integrale jeugdhulp   af.
 7° een vertegenwoordiger van de toegangspoort in de regio;<br>
 8° een vertegenwoordiger van de gemandateerde voorzieningen in de regio;<br>
 9° ...;<br>
-10° een vertegenwoordiger van de Vlaamse Gemeenschapscommissie voor de regio Brussel.</p>
+10° een vertegenwoordiger van de Vlaamse Gemeenschapscommissie voor de regio Brussel.<br>
+<br>
+Een cliëntenforum als vermeld in artikel 45/2 vaardigt de personen, vermeld in het eerste lid, 1°, 2° en 5°, af.</p>
 
 <p>De Vlaamse Regering regelt de nadere samenstelling en de werking van het Intersectoraal Regionaal Overleg Jeugdhulp.</p>
 
