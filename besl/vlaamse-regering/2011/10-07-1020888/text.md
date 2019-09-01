@@ -26,20 +26,20 @@ Besluit :
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs wordt het opleidingsprofiel voor de modulaire structuur van het studiegebied decoratieve technieken, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage 1, die bij dit besluit is gevoegd.
+...
 
 ### ART. 2.
 
-Het opleidingsprofiel, vermeld in artikel 1, wordt uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.
+...
 
 ### ART. 3.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2011.<br />
+...
 
 ### ART. 4.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
+...
 
 ### BIJLAGE
 
-Modulaire opleiding Reclame- en Decoratieschilder<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/10/31_1.pdf#page=87" title=" " target="_blank" class="pdf"></a>
+...
