@@ -50,6 +50,22 @@ Het aantal plaatsen in het detentiecentrum voor de categorie van minderjarigen, 
 
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering van 5 april 2019 tot inrichting van de gemeenschapsinstellingen en tot uitvoering van diverse bepalingen van het decreet betreffende het jeugddelinquentierecht
 
+### ART 3.
+
+Artikel 12 van het besluit van de Vlaamse Regering van 5 april 2019 tot inrichting van de gemeenschapsinstellingen en tot uitvoering van diverse bepalingen van het decreet betreffende het jeugddelinquentierecht wordt vervangen door wat volgt :<br>
+<br>
+"Art. 12. Er wordt een Vlaams detentiecentrum opgericht voor de opvang van uit handen gegeven jongeren tot de leeftijd van drieëntwintig jaar.".
+
+### ART 4.
+
+Artikel 13 van hetzelfde besluit wordt vervangen door wat volgt :<br>
+<br>
+"Art. 13. De minister bepaalt de afdelingen, de organisatie en de maximumcapaciteit van het Vlaams detentiecentrum.".
+
+### ART 5.
+
+In artikel 19 van hetzelfde besluit wordt tussen de datum "1 september 2019" en de zinsnede ", met uitzondering van" de zinsnede "met uitzondering van artikel 18, 2°, dat in werking treedt op 1 maart 2020, en" ingevoegd.
+
 ## HOOFDSTUK 3. Slotbepalingen
 
 ### ART 6.
