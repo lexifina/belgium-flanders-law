@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032135,
+  "title": "Ministerieel besluit van 2019-07-30 tot uitvoering van het besluit van de Vlaamse Regering van 19 juli 2019 tot toekenning van steun voor de (her)aanleg van bedrijventerreinen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032135/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "a815427d00c664f9398a230f000a3be674bf3e1ad1c0568dae5e18f9f9e7967f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032135&param=informatie",
+  "as_of": "2019-09-01",
+  "made": "2019-07-30",
+  "gazette": "2019-08-22",
+  "numac": 2019041842,
+  "document_start": "2019-09-01",
+  "document_end": null,
+  "in_force": "2019-09-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2019-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
