@@ -62,7 +62,17 @@ Het model van de stageovereenkomst alternerende opleiding en het model van de ov
 
 ### ART 3.
 
-De onderneming en eventueel het sectoraal partnerschap of bij afwezigheid van een sectoraal partnerschap het Vlaams Partnerschap Duaal Leren, nemen de nodige initiatieven voor de professionalisering van de mentor.
+Het sectorale partnerschap of, bij afwezigheid van een sectoraal partnerschap, het Vlaams Partnerschap Duaal Leren bepaalt aan de hand van het uittreksel uit het Strafregister vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering wat moet worden verstaan onder van onberispelijk gedrag zijn als vermeld in artikel 7, § 1, eerste lid, 1°, a), van het decreet van 10 juni 2016. Het Vlaams Partnerschap Duaal Leren bepaalt hiertoe de richtlijnen. De Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, en de Vlaamse minister, bevoegd voor onderwijs bekrachtigen samen deze richtlijnen.<br>
+<br>
+Het uittreksel uit het Strafregister mag echter geen enkele relevante vermelding bevatten betreffende feiten ten aanzien van minderjarigen. Het sectoraal partnerschap of, bij afwezigheid van een sectoraal partnerschap, het Vlaams partnerschap duaal leren, bepaalt wat relevant is.
+
+### ART 3/1.
+
+De onderneming moet de mentor een mentoropleiding laten volgen alsook de bijkomende initiatieven die het sectorale partnerschap of, bij afwezigheid van een sectoraal partnerschap, het Vlaams Partnerschap Duaal Leren eventueel neemt nodig voor de professionalisering van de mentor.<br>
+<br>
+Het sectorale partnerschap of, bij afwezigheid van een sectoraal partnerschap, het Vlaams Partnerschap Duaal Leren bepaalt de termijn waarbinnen de mentoropleiding en de eventuele bijkomende initiatieven vermeld in het eerste lid, moeten worden gevolgd, en beslist over eventuele vrijstellingen. De termijn voor het volgen van de mentoropleiding mag echter niet meer bedragen dan een jaar vanaf de erkenning.<br>
+<br>
+De mentoropleiding moet minstens een opleiding in het coachen, motiveren, bijsturen en evalueren van leerlingen omvatten. Het sectorale partnerschap of, bij afwezigheid van een sectoraal partnerschap, het Vlaams Partnerschap Duaal Leren bepaalt welke opleidingen in aanmerking komen als mentoropleiding.
 
 ### ART 4.
 
@@ -172,6 +182,12 @@ De Vlaamse minister, bevoegd voor onderwijs, en de Vlaamse minister, bevoegd voo
 
 ## [HOOFDSTUK 6/1 Schorsing van de uitvoering van de overeenkomst wegens vakantie (ing. BVR 3 mei 2019, art. 3, I: 1 september 2019)]
 
+### ART 12/1.
+
+De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, keuren samen de structurele afwijkingen, vermeld in artikel 19, eerste lid, 1°, van het decreet van 10 juni 2016, goed.<br>
+<br>
+De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, bepalen samen, op voorstel van het Vlaams Partnerschap Duaal Leren, de criteria, vermeld in artikel 19, eerste lid, 3°, van het decreet van 10 juni 2016. In sectoren waar er een sectoraal partnerschap is, doet het Vlaams Partnerschap Duaal Leren het voorstel op advies van dit sectoraal partnerschap.
+
 ## HOOFDSTUK 7 Wijzigingsbepalingen
 
 ### ART 13.
@@ -232,25 +248,8 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/22_1.pdf#page=27">Overeenkomst van alternerende opleiding</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/29_1.pdf#page=408">Model van een overeenkomst van alternerende opleiding als vermeld in artikel 2</a>
 
 ### BIJLAGE
 
-Model van stageovereenkomst<br>
-<br>
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/08/14_1.pdf#page=141">http://www.ejustice.just.fgov.be/mopdf/2017/08/14_1.pdf#page=141</a><br>
-<br>
-* Bij BVR van 22 juni 2018, BS 22 augustus 2018, werden met ingang van1 juli 2018 de volgende wijzigingen aangebracht:<br>
-<br>
-1° in artikel 2, tweede lid, wordt de zinsnede "als het om een opleiding in het secundair onderwijs gaat, of van het begeleidingsteam als het om een opleiding in de leertijd gaat" opgeheven;<br>
-2° in artikel 5 wordt het derde lid vervangen door wat volgt:<br>
-" De overeenkomst wordt uitgevoerd volgens het uurrooster dat als bijlage bij deze overeenkomst is gevoegd. Het uurrooster vermeldt zowel voor de opleidingsdagen in de school als in de onderneming:<br>
-• het exacte aanvangs- en einduur van de opleidingsdag;<br>
-• het tijdstip en de duur van de pauzes;<br>
-• de gebruikelijke rustdag(en).".<br>
-3° De laatste zin van de overeenkomst wordt vervangen door wat volgt:<br>
-"De onderneming registreert de overeenkomst op www.werkplekduaal.be of bezorgt een kopie van de overeenkomst aan het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, Kanselarijstraat 19, 1000 Brussel.<br>
-<br>
-Syntra Vlaanderen registreert deze overeenkomst in haar opvolgsysteem, om haar decretale functie van kwaliteitstoezicht op de werkplekcomponent te kunnen uitoefenen. De overeenkomst wordt in het systeem bewaard tot twee jaar na het schooljaar waarin de overeenkomst beëindigd is. In het kader van rapportering kan de informatie op geaggregeerd niveau langer worden bewaard.<br>
-<br>
-Overeenkomstig de Algemene Verordening Gegevensbescherming heeft de leerling het recht om in de wettelijk toegelaten gevallen de inzage, wijziging of verwijdering van zijn persoonsgegevens te verzoeken aan Syntra Vlaanderen. In bepaalde gevallen heeft de leerling ook recht op beperking van de verwerking, alsmede het recht tegen die verwerking van zijn gegevens bezwaar te maken en klacht in te dienen bij de Gegevensbeschermingsautoriteit.
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/29_1.pdf#page=414">Model van een overeenkomst van alternerende opleiding als vermeld in artikel 2</a>

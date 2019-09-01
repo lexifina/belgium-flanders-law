@@ -2,16 +2,16 @@
   "codex_id": 1027181,
   "title": "Besluit van de Vlaamse Regering van 2016-07-08 houdende uitvoering van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027181/VolledigDocument?datum=2018-07-01",
-  "source_sha256": "c33192d06542d1d4efcb60df957bf7aa84a2ef9e92480fa1cd56f8005161bab3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027181/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "62ed8a4abcbaaf31293ad5c6e4081172cdddf94489df098b3985ab98446ffed5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027181&param=informatie",
-  "as_of": "2018-07-01",
+  "as_of": "2019-09-01",
   "made": "2016-07-08",
   "gazette": "2016-09-01",
   "numac": 2016036279,
   "document_start": "2016-09-01",
   "document_end": "2020-12-31",
-  "in_force": "2018-07-01",
-  "article_versions": 25,
-  "record_form": "consolidated version as in force on 2018-07-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-09-01",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
 }
