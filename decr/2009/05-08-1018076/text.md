@@ -16,7 +16,9 @@ Het rooilijnplan kan een achteruitbouwstrook vastleggen.<br /><br />De Vlaamse R
 
 ### ART. 3.
 
-Er worden rooilijnplannen opgesteld op twee niveaus :<br />1° gewestelijke rooilijnplannen voor de gewestwegen, met uitzondering van de autosnelwegen zoals bedoeld in de wet van 12 juli 1956 tot vaststelling van het statuut der autosnelwegen;<br />2° gemeentelijke rooilijnplannen voor de gemeentewegen.<br /><br />
+De rooilijnplannen, vermeld in dit decreet, hebben betrekking op de gewestelijke rooilijnplannen voor de gewestwegen, met uitzondering van de autosnelwegen in de zin van de wet van 12 juli 1956 tot vaststelling van het statuut der autosnelwegen.<br>
+<br>
+Dit decreet is niet van toepassing op de gemeentewegen. De rooilijnplannen voor die gemeentewegen worden vastgesteld met toepassing van het decreet van 3 mei 2019 houdende de gemeentewegen.
 
 ### ART. 4.
 
@@ -28,7 +30,7 @@ In afwijking van hoofdstuk II, kan een rooilijnplan tegelijkertijd opgesteld wor
 
 ### ART. 6.
 
-<P>Dit decreet is niet van toepassing op buurtwegen in de zin van de wet van 10   april 1841 op de buurtwegen. Het vaststellen van rooilijnplannen voor deze   buurtwegen gebeurt volgens hoofdstuk III van de wet van 10 april 1841 op de   buurtwegen.</P>
+...
 
 ## HOOFDSTUK II Procedure
 
@@ -46,17 +48,17 @@ Het besluit houdende definitieve vaststelling van het gewestelijk rooilijnplan w
 
 ### ART. 9.
 
-§ 1. De gemeenteraad stelt het ontwerp van gemeentelijk rooilijnplan   voorlopig vast.<BR><BR>Het ontwerp bevat minstens de getroffen percelen en hun   oppervlakte, alsook de actuele en toekomstige rooilijn. Het bevat in voorkomend   geval ook de nutsleidingen die als gevolg van de realisatie van de toekomstige   rooilijn op privaat domein zullen liggen. De Vlaamse Regering kan de inhoud van   het ontwerp nader bepalen.<BR><BR>§ 2. Het college van burgemeester en schepenen   onderwerpt het ontwerp van gemeentelijk rooilijnplan aan een openbaar onderzoek   dat binnen dertig dagen na de voorlopige vaststelling, bedoeld in § 1, minstens   wordt aangekondigd door :<BR>1° aanplakking in de gemeente;<BR>2° een bericht in   het Belgisch Staatsblad ;<BR>3° een afzonderlijke mededeling, bij aangetekende   brief in hun woonplaats, aan de eigenaars van de onroerende goederen die zich   bevinden in het ontwerp van rooilijnplan;<BR>4° een afzonderlijke mededeling aan   de deputatie;<BR>5° een afzonderlijke mededeling aan de beheerders van   aansluitende openbare wegen;<BR>6° een afzonderlijke mededeling aan de   maatschappijen van geregeld vervoer.<BR><BR>Deze aankondiging vermeldt minstens   :<BR>1° waar het ontwerp ter inzage ligt;<BR>2° de begin- en einddatum van het   openbaar onderzoek;<BR>3° het adres waar de opmerkingen en bezwaren dienen toe   te komen of kunnen worden afgegeven en de te volgen formaliteiten;<BR>4° dat een   rooilijnplan ook gevolgen heeft voor werken en handelingen waarvoor geen   omgevingsvergunning voor stedenbouwkundige handelingen is vereist, met   verwijzing naar artikel 16, vierde lid, van dit decreet.<BR><BR>§ 3. Na de   aankondiging wordt het ontwerp van gemeentelijk rooilijnplan gedurende dertig   dagen ter inzage gelegd in het gemeentehuis.<BR><BR>§ 4. Opmerkingen en bezwaren   worden uiterlijk de laatste dag van het openbaar onderzoek naar de gemeente   verstuurd per aangetekende brief of afgegeven tegen ontvangstbewijs.<BR><BR>§ 5.   De gemeenteraad stelt binnen zestig dagen na het einde van het openbaar   onderzoek het gemeentelijk rooilijnplan definitief vast.<BR><BR>Bij de   definitieve vaststelling van het plan kunnen ten opzichte van het voorlopig   vastgestelde plan slechts wijzigingen worden aangebracht, die gebaseerd zijn op   of voortvloeien uit de tijdens het openbaar onderzoek geformuleerde bezwaren en   opmerkingen.<BR><BR>De definitieve vaststelling van het plan kan geen betrekking   hebben op delen van het grondgebied die niet opgenomen zijn in het voorlopig   vastgestelde plan.<BR><BR>§ 6. Indien het gemeentelijk rooilijnplan niet   definitief wordt vastgesteld binnen de termijn bedoeld in § 5, vervalt het   ontwerp van gemeentelijk rooilijnplan.<BR><BR>
+...
 
 ### ART. 10.
 
-Het besluit houdende definitieve vaststelling van het gemeentelijk rooilijnplan wordt bij uittreksel in het Belgisch Staatsblad gepubliceerd binnen zestig dagen na de definitieve vaststelling. Het gemeentelijk rooilijnplan treedt in werking veertien dagen na de bekendmaking.<br /><br />
+...
 
 ## HOOFDSTUK III Realisatie [... (opgeh. decr. 23 maart 2012, art. 14)] van het rooilijnplan
 
 ### ART. 11.
 
-Het gewest en de gemeenten kunnen de onroerende goederen vereist voor de realisatie van de rooilijnplannen verwerven door onteigening in het algemeen belang.
+Het gewest&nbsp;kan de onroerende goederen vereist voor de realisatie van de rooilijnplannen verwerven door onteigening in het algemeen belang.
 
 ### ART. 12.
 
@@ -72,54 +74,29 @@ Het gewest en de gemeenten kunnen de onroerende goederen vereist voor de realisa
 
 ### ART. 15.
 
-Het besluit van de Vlaamse Regering of de gemeente houdende de definitieve vaststelling van het rooilijnplan kan bepalen dat het rooilijnplan slechts kan worden uitgevoerd naarmate de aanvragen voor een omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden worden ingediend. In dat geval is artikel 42 van het Vlaams Onteigeningsdecreet van 24 februari 2017 niet van toepassing.<br>
+Het besluit van de Vlaamse Regering&nbsp;houdende de definitieve vaststelling van het rooilijnplan kan bepalen dat het rooilijnplan slechts kan worden uitgevoerd naarmate de aanvragen voor een omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden worden ingediend. In dat geval is artikel 42 van het Vlaams Onteigeningsdecreet van 24 februari 2017 niet van toepassing.<br>
 &nbsp;
 
 ### ART. 16.
 
-Onverminderd andersluidende wettelijke, decretale of reglementaire bepalingen, is het verboden om een constructie in de zin van de Vlaamse Codex Ruimtelijke Ordening, te bouwen of herbouwen op een stuk grond dat door een nog niet gerealiseerde rooilijn of een achteruitbouwstrook is getroffen, of om verbouwings- of uitbreidingswerken, andere dan stabiliteitswerken, aan een door een nog niet gerealiseerde rooilijn of een achteruitbouwstrook getroffen constructie uit te voeren, tenzij het gaat om :<br>
-1° sloop- of aanpassingswerken die tot gevolg hebben dat de constructie aan de nog niet gerealiseerde rooilijn of de achteruitbouwstrook wordt aangepast;<br>
-2° de verbouwing van een krachtens decreet definitief of voorlopig beschermd monument of een constructie die deel uitmaakt van een krachtens decreet definitief of voorlopig beschermd stads- of dorpsgezicht of landschap;<br>
-3° het aanbrengen van gevelisolatie, met een overschrijding van ten hoogste veertien centimeter. Indien een nog niet gerealiseerde rooilijn wordt overschreden, dan zal deze bij de latere onteigening aan de gevelisolatie worden aangepast.<br>
-<br>
-In afwijking van het eerste lid mag een omgevingsvergunning voor stedenbouwkundige handelingen worden verleend :<br>
-1° die afwijkt van de rooilijn als uit het advies van de wegbeheerder blijkt dat de rooilijn niet binnen vijf jaar na de afgifte van de omgevingsvergunning voor stedenbouwkundige handelingen zal worden gerealiseerd. Als er na het verstrijken van die termijn wordt onteigend, wordt bij het bepalen van de vergoeding geen rekening gehouden met de waardevermeerdering die uit de vergunde handelingen voortvloeit;<br>
-2° die afwijkt van de achteruitbouwstrook als de wegbeheerder een gunstig advies heeft gegeven.<br>
-<br>
-Werken en handelingen waarvoor geen omgevingsvergunning voor stedenbouwkundige handelingen is vereist, mogen onder dezelfde voorwaarden als bepaald in het eerste en tweede lid worden uitgevoerd na machtiging van de wegbeheerder.<br>
-<br>
-Indien het aanbrengen van gevelisolatie, bedoeld in het eerste lid, 3°, de overschrijding betreft van een rooilijn gevormd door de huidige grens tussen de openbare weg en de aangelande eigendommen, dan kan, na gunstig advies van de wegbeheerder, gevelisolatie ook tot 14 centimeter toegestaan worden. In dat geval is, in afwijking van artikel 40 van het decreet van 18 december 1992 houdende bepalingen tot begeleiding van de begroting 1993, geen vergunning vereist voor het privatief gebruik van het openbaar domein.<br>
-<br>
-De Vlaamse Regering kan nadere formele en procedurele regelen voor de toepassing van dit artikel bepalen.<br>
-&nbsp;
+...
 
 ### ART. 17.
 
-§ 1. Wanneer de uitvoering van de rooilijn, bij vernauwing of wijziging   van het tracé van een openbare weg als gevolg heeft de aanpalende eigendommen te   scheiden van de openbare weg, dan hebben de aangelande eigenaars een   voorkooprecht om de tussenliggende strook die deel uitmaakte van de weg, aan te   kopen. De prijs wordt bepaald door het comité tot aankoop van onroerende   goederen op basis van de waarde van het terrein op het ogenblik van de   eigendomsoverdracht.<BR><BR>§ 2. Percelen grond afhangende van gewest- en   gemeentewegen kunnen uit de hand worden verkocht aan de aangelande eigenaars om   aan hen de mogelijkheid te geven om vooruit te komen tot aan de rooilijn die   naar aanleiding van een aanvraag tot verkaveling of omgevingsvergunning voor   stedenbouwkundige handelingen wordt aangegeven ter uitvoering van artikel 57 van   het Gemeentedecreet.<BR><BR>
+§ 1. Wanneer de uitvoering van de rooilijn, bij vernauwing of wijziging van het tracé van een openbare weg als gevolg heeft de aanpalende eigendommen te scheiden van de openbare weg, dan hebben de aangelande eigenaars een voorkooprecht om de tussenliggende strook die deel uitmaakte van de weg, aan te kopen. De prijs wordt bepaald door het comité tot aankoop van onroerende goederen op basis van de waarde van het terrein op het ogenblik van de eigendomsoverdracht.<br>
+<br>
+§ 2. Percelen grond afhangende van gewestwegen kunnen uit de hand worden verkocht aan de aangelande eigenaars om aan hen de mogelijkheid te geven om vooruit te komen tot aan de rooilijn die naar aanleiding van een aanvraag tot verkaveling of omgevingsvergunning voor stedenbouwkundige handelingen wordt aangegeven ter uitvoering van artikel 57 van het Gemeentedecreet.<br>
+&nbsp;
 
 ## HOOFDSTUK IV [... (opgeh. decr. 3 mei 2019, art. 62, I: 1 september 2019)]
 
 ### ART. 18.
 
-Schendingen van artikel 16 van dit decreet en de besluiten ter uitvoering van dit artikel, worden bestraft met een geldboete van 50 euro tot 5.000 euro.<br /><br />Naast de straf beveelt de rechtbank het herstel van de plaats in de oorspronkelijke toestand. De rechtbank bepaalt een termijn voor die maatregelen en beslist dat, bij niet-uitvoering van het vonnis, de wegbeheerder ambtshalve in de uitvoering kan voorzien. De overtreder wordt tot terugbetaling van de uitgave gedwongen op vertoon van een staat, begroot op zijn kosten en uitvoerbaar verklaard door de beslagrechter in de Burgerlijke Rechtbank.<br /><br />De bepalingen van boek I van het Strafwetboek, met inbegrip van hoofdstuk VII en artikel 85, gelden voor de in het eerste lid bedoelde misdrijven.<br /><br />
+...
 
 ### ART. 19.
 
-Onverminderd de bevoegdheden van de agenten en de officieren van gerechtelijke politie, zijn de door de Vlaamse Regering aangewezen ambtenaren, bevoegd om de misdrijven op te sporen en vast te stellen door een proces-verbaal dat geldt tot bewijs van het tegendeel.<br>
-<br>
-Daartoe hebben zij toegang tot de bouwplaats en de gebouwen om alle nodige opsporingen en vaststellingen te verrichten. Als deze verrichtingen de kenmerken van een huiszoeking dragen, mogen ze enkel worden uitgevoerd op voorwaarde dat de politierechter daartoe een machtiging heeft verstrekt.<br>
-<br>
-Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de door de Vlaamse Regering aangewezen ambtenaren, vermeld in het eerste lid, beslissen de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan wordt aan de voorwaarden, vermeld in het vierde tot en met het achtste lid.<br>
-<br>
-De mogelijkheid, vermeld in het derde lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de door de Vlaamse Regering aangewezen ambtenaren, vermeld in het eerste lid, en op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast.<br>
-<br>
-De door de Vlaamse Regering aangewezen ambtenaren, vermeld in het eerste lid, moeten de beslissing, vermeld in het derde lid, in voorkomend geval rechtvaardigen op verzoek van de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming.<br>
-<br>
-Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
-<br>
-Als een dossier dat persoonsgegevens als vermeld in het derde lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mogen de door de Vlaamse Regering aangewezen ambtenaren, vermeld in het eerste lid, op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval de onderzoeksrechter aan de door de Vlaamse Regering aangewezen ambtenaren, vermeld in het eerste lid, heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.<br>
-<br>
-Als de betrokkene in het geval, vermeld in het derde lid, tijdens de periode, vermeld in het vierde lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verwijzen de door de Vlaamse Regering aangewezen ambtenaren, vermeld in het eerste lid, hem door naar de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming. De bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht.
+...
 
 ## HOOFDSTUK V Slotbepalingen
 
