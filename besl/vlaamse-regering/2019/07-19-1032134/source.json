@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032134,
+  "title": "Besluit van de Vlaamse Regering van 2019-07-19 tot erkenning van het graduaat in de orthopedagogie als nieuwe opleiding van de Hogeschool West-Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032134/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "4239df2ba105146100dc47108f052b3ab74c0a55e392ab10f4245d5d47ad06de",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032134&param=informatie",
+  "as_of": "2019-09-01",
+  "made": "2019-07-19",
+  "gazette": "2019-08-22",
+  "numac": 2019041825,
+  "document_start": "2019-09-01",
+  "document_end": null,
+  "in_force": "2019-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
