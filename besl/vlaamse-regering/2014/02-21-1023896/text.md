@@ -863,11 +863,36 @@ Het dossier van een minderjarige wordt door de sociale dienst bewaard tot de bet
 
 ### ART. 86.
 
-<P>Voor de uitvoering van de gerechtelijke maatregelen, vermeld in artikel 48, §   1, eerste lid, 3° tot en met 9°, en 11° tot en met 13°, van het decreet van 12   juli 2013, komen de jeugdhulpaanbieders in aanmerking die jeugdhulpverlening   aanbieden met toepassing van de regelgeving, vermeld in artikel 3, § 1, eerste   lid, 1°, en 3° tot en met 7°, van het decreet van 12 juli 2013.<BR></P>  <P>De volgende voorzieningen worden alleen voor de uitvoering van de   gerechtelijke maatregelen, vermeld in het eerste lid, gelijkgesteld met een   jeugdhulpaanbieder die maatregelen mag uitvoeren:<BR>1° de ziekenhuizen, vermeld   in de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere   verzorgingsinrichtingen;<BR>2° de voorzieningen die buiten het Nederlandse   taalgebied liggen en waarvoor een overeenkomst is gesloten met de Vlaamse   Gemeenschap;<BR>3° de schoolinternaten. <BR></P>
+§ 1. Voor de uitvoering van de gerechtelijke maatregelen, vermeld in artikel 48, § 1, eerste lid, 3° tot en met 14°, van het decreet van 12 juli 2013, komen de jeugdhulpaanbieders in aanmerking die jeugdhulpverlening aanbieden met toepassing van de regelgeving, vermeld in artikel 3, § 1, eerste lid, 1°, en 3° tot en met 7°, van het decreet van 12 juli 2013.<br>
+<br>
+De volgende voorzieningen worden alleen voor de uitvoering van de gerechtelijke maatregelen, vermeld in het eerste lid, gelijkgesteld met een jeugdhulpaanbieder die maatregelen mag uitvoeren:<br>
+1° de ziekenhuizen, vermeld in de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen;<br>
+2° de voorzieningen die buiten het Nederlandse taalgebied liggen en waarvoor een overeenkomst is gesloten met de Vlaamse Gemeenschap;<br>
+3° de schoolinternaten.<br>
+<br>
+§ 2. In afwijking van de termijn, vermeld in artikel 48, § 1, eerste lid, 4° tot en met 10°, van het decreet van 12 juli 2013 bedraagt de maximumtermijn van de typemodules hoogstens:<br>
+1° één jaar, eenmalig verlengbaar met maximaal zes maanden voor de typemodules verblijf in een pleeggezin en begeleiding voor pleeggezinnen, gezinnen en pleegkinderen in een pleeggezin, perspectiefzoekend;<br>
+2° negen maanden voor de typemodule beveiligend verblijf;<br>
+3° zes maanden voor de typemodule contextbegeleiding kortdurend intensief;<br>
+4° vier maanden voor de typemodule contextbegeleiding met het oog op positieve heroriëntering;<br>
+5° drie maanden, telkens verlengbaar met een maand voor de volgende typemodules:<br>
+a) diagnostiek in het kader van de bijzondere jeugdbijstand;<br>
+b) verblijf met het oog op diagnostiek;<br>
+6° drie maanden voor de volgende typemodules:<br>
+a) ondersteunende begeleiding, rechtstreeks toegankelijk;<br>
+b) verblijf en begeleiding voor pleeggezinnen, gezinnen en pleegkinderen in een pleeggezin, ondersteunend en voor korte duur;<br>
+7° zes weken, eenmalig verlengbaar met maximaal zes weken voor de typemodule verblijf voor kinderen, voor korte duur;<br>
+8° achtentwintig dagen, tweemaal verlengbaar met maximaal zeven dagen voor de typemodule contextbegeleiding bij crisis;<br>
+9° twee weken voor de volgende typemodules:<br>
+a) een kortdurend crisisverblijf;<br>
+b) een crisisverblijf en begeleiding voor pleeggezinnen, gezinnen en pleegkinderen in een pleeggezin;<br>
+c) een time-out in de gemeenschapsinstellingen.<br>
+<br>
+§ 3. De minister bepaalt de nadere regels betreffende de organisatie en het aantal plaatsen van de time-outcapaciteit in de gemeenschapsinstellingen, vermeld in paragraaf 2, 9° c).
 
 ### ART. 87.
 
-<P>De volgende gerechtelijke maatregelen kunnen ter uitvoering van artikel 48, §   2, tweede lid, van het decreet van 12 juli 2013, gelijktijdig worden toegepast   ten aanzien van een minderjarige:<BR>1° de maatregel, vermeld in artikel 48,   eerste lid, § 1, 5° en de maatregel, vermeld in artikel 48, eerste lid, § 1,   11°, van het voormelde decreet;<BR>2° de maatregel, vermeld in artikel 48,   eerste lid, § 1, 8° en de maatregelen, vermeld in artikel 48, eerste lid, § 1,   3°, 5°, 6°, 7 °, 10° en 11°, van het voormelde decreet;<BR>3° de maatregel,   vermeld in artikel 48, eerste lid, § 1, 9° en de maatregelen, vermeld in artikel   48, eerste lid, § 1, 3°, 5°, 6°, 7 °, 10° en 11°, van het voormelde   decreet;<BR>4° de maatregel, vermeld in artikel 48, eerste lid, § 1, 10° en de   maatregelen, vermeld in artikel 48, eerste lid, § 1, 3°, 4°, 5°, 8°, 9° en 11°,   van het voormelde decreet;<BR>5° de maatregel, vermeld in artikel 48, eerste   lid, § 1, 11° en de maatregelen, vermeld in artikel 48, eerste lid, § 1, 3° en   11°, van het voormelde decreet;<BR>6° de maatregel, vermeld in artikel 48,   eerste lid § 1, 12° en de maatregel, vermeld in artikel 48, eerste lid, § 1, 3°,   van het voormelde decreet.<BR></P>  <P>De gelijktijdige toepassing van de gerechtelijke maatregelen, vermeld in het   eerste lid, 1°, is beperkt tot een maximale duur van 2   weken.<BR></P>
+De minister bepaalt welke combinaties van typemodules niet mogelijk zijn.
 
 ## HOOFDSTUK 11 Afstemming in de integrale jeugdhulp en een integrale aanpak realiseren
 
