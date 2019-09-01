@@ -31,24 +31,21 @@ In dit besluit wordt verstaan onder :<br>
 5° ...;<br>
 6° ...;<br>
 7° ...;<br>
-8° niet-residentiële ruimte : elk onroerend goed of deel ervan dat niet bestemd is voor de huisvesting van gezinnen of alleenstaanden en dat geen gemeenschapsvoorziening is;<br>
+8° ...;<br>
 9° garage : niet-residentiële ruimte die bestemd is voor het stallen van een voertuig;<br>
 10° referentiedatum :<br>
 a) bij de verkoop van sociale koopwoningen en sociale kavels : naargelang van het geval de datum van inschrijving of de eenzijdige belofte van aankoop;<br>
 b)...;<br>
 c) bij de vrijwillige verkoop van sociale huurwoningen: de datum waarop de raad van bestuur van de sociale huisvestingsmaatschappij ingestemd heeft met de verkoop;<br>
-11° persoon ten laste :<br>
-a) het kind dat op de referentiedatum bij de kandidaat-koper gedomicilieerd is en dat voldoet aan een van de volgende voorwaarden :<br>
-1) het kind is minderjarig of er wordt voor het kind kinderbijslag of wezentoelage uitbetaald;<br>
-2) na voorlegging van bewijzen wordt het kind door de minister als ten laste beschouwd;<br>
-b) het kind van de kandidaat-koper dat op de referentiedatum niet gedomicilieerd is bij de kandidaat-koper, maar bij de kandidaat-koper op regelmatige basis verblijft en dat voldoet aan een van de volgende voorwaarden :<br>
-1) het kind is minderjarig of er wordt voor het kind kinderbijslag uitbetaald;<br>
-2) na voorlegging van bewijzen wordt het kind door de minister als ten laste beschouwd;<br>
-c) de persoon die erkend is als ernstig gehandicapt, of erkend was op het ogenblik van pensionering;<br>
-12° inkomen : de som van de volgende inkomsten van de kandidaat-koper en van alle andere personen die met hem dezelfde woning zullen betrekken :<br>
-a) de op referentiedatum op basis van het laatst beschikbare aanslagbiljet bekende som van de aan de personenbelasting onderworpen inkomsten en niet-belastbare vervangingsinkomsten, alsook het genoten leefloon in dat jaar;<br>
-b) het inkomen dat op basis van supranationale belastingakkoorden niet aan de Belgische personenbelasting onderworpen is;<br>
-c) de inkomsten die door de minister beschouwd worden als inkomsten die in aanmerking kunnen worden genomen als inkomen;<br>
+11° persoon ten laste:<br>
+a) het kind dat op de referentiedatum bij de kandidaat-koper gedomicilieerd is en dat minderjarig is, of voor wie kinderbijslag of wezenbijslag wordt uitbetaald;<br>
+b) het kind van de kandidaat-koper dat niet gedomicilieerd is bij hem, maar op regelmatige basis bij hem verblijft en dat minderjarig is, of voor wie kinderbijslag of wezenbijslag wordt uitbetaald;<br>
+c) de persoon die beschouwd wordt als ernstig gehandicapt, of die op het ogenblik waarop hij met pensioen ging, beschouwd werd als ernstig gehandicapt;<br>
+12° inkomen: de som van de volgende inkomsten van de kandidaat-koper en alle personen die met hem dezelfde woning zullen betrekken, ontvangen in het jaar waarop het laatst beschikbare aanslagbiljet betrekking heeft:<br>
+a) het gezamenlijk belastbaar inkomen en de afzonderlijke belastbare inkomsten;<br>
+b) het leefloon;<br>
+c) de inkomensvervangende tegemoetkoming aan personen met een handicap;<br>
+d) de van belasting vrijgestelde beroepsinkomsten uit het buitenland of de van belasting vrijgestelde beroepsinkomsten die verworven zijn bij een Europese of internationale instelling;<br>
 13° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis van de Vlaamse Wooncode, ingevoegd bij het decreet van 24 maart 2006;<br>
 14° kandidaat-koper : een of meer woonbehoeftige particuliere personen die een woning of kavel willen aankopen;<br>
 15° zittende huurder : een huurder van een sociale huurwoning als vermeld in artikel 2, § 1, eerste lid, 34°, van de Vlaamse Wooncode;<br>
@@ -60,11 +57,17 @@ b) een afgifte tegen ontvangstbewijs;<br>
 c) elke andere door de minister toegestane betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
 19° ...<br>
 <br>
-In afwijking van het eerste lid, 12°, worden de inkomsten van ongehuwde of niet wettelijk samenwonende kinderen die vanaf hun meerderjarigheid zonder onderbreking deel uitmaken van het gezin en die minder dan 25 jaar oud zijn op de referentiedatum, en de inkomsten van de familieleden van de kandidaat-koper van de eerste en de tweede graad die als ernstig gehandicapt erkend zijn of die ten minste 65 jaar oud zijn, niet meegerekend. De inkomsten van de inwonende ascendenten van de kandidaat-koper worden slechts voor de helft meegerekend.<br>
+In afwijking van het eerste lid, 12°, worden de inkomsten van ongehuwde&nbsp;en niet wettelijk samenwonende kinderen die vanaf hun meerderjarigheid zonder onderbreking deel uitmaken van het gezin en die minder dan 25 jaar oud zijn op de referentiedatum, en de inkomsten van de familieleden van de kandidaat-koper van de eerste en de tweede graad die als ernstig gehandicapt erkend zijn of die ten minste 65 jaar oud zijn, niet meegerekend. De inkomsten van de inwonende ascendenten van de kandidaat-koper worden slechts voor de helft meegerekend.<br>
 <br>
-Om als persoon ten laste als vermeld in het eerste lid, 11°, c, te worden beschouwd, gelden dezelfde voorwaarden als vermeld in artikel 1, eerste lid, 22°, van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode.<br>
+Om als persoon ten laste als vermeld in het eerste lid, 11°, c, te worden beschouwd, gelden dezelfde voorwaarden als de voorwaarden die bepaald worden ter uitvoering van artikel 1, eerste lid, 22°, van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode.<br>
 <br>
 Als een persoon beantwoordt aan de definitie van persoon ten laste als gedefinieerd in het eerste lid, 11°, a) of b), en aan de definitie van persoon ten laste als gedefinieerd in het eerste lid, 11°, c), telt die persoon voor twee personen ten laste.<br>
+<br>
+Het aanslagbiljet, vermeld in het eerste lid, 12°, heeft betrekking op de inkomsten van maximaal drie jaar voorafgaand aan de toepassing.<br>
+<br>
+Voor de bepaling van het gezamenlijk belastbaar inkomen, vermeld in het eerste lid, 12°, a), wordt alleen rekening gehouden met de reële eigen beroepsinkomsten.<br>
+<br>
+Het inkomen, vermeld in het eerste lid, 12°, wordt geïndexeerd volgens de gezondheidsindex van de maand juni van het jaar dat aan de toepassing ervan voorafgaat, met als basis de maand juni van het jaar waarop het inkomen betrekking heeft.<br>
 &nbsp;
 
 ### ART. 2.
@@ -88,26 +91,35 @@ In afwijking van artikel 2/1, eerste lid, geldt de voorrang voor de   overdracht
 
 ### ART. 3.
 
-§ 1. Bij de verkoop van sociale koopwoningen en sociale kavels wordt de kandidaat-koper als woonbehoeftig beschouwd als hij op de referentiedatum aan de volgende voorwaarden voldoet :<br>
-1° hij heeft een inkomen, in voorkomend geval de inkomsten die in aanmerking worden genomen overeenkomstig het zevende lid,&nbsp;van minimaal 8789 euro en maximaal :<br>
+§ 1. In deze paragraaf wordt verstaan onder perceel, bestemd voor woningbouw: onbebouwde percelen in het woongebied, met uitsluiting van woonuitbreidingsgebied, vermeld op de ruimtelijke uitvoeringsplannen of op de plannen van aanleg, die aan een uitgeruste weg liggen als vermeld in artikel 4.3.5 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, alsook alle percelen waarvoor een niet-vervallen verkavelingsvergunning of omgevingsvergunning voor het verkavelen van gronden bestaat.<br>
+<br>
+Bij de verkoop van sociale koopwoningen en sociale kavels wordt de kandidaat-koper als woonbehoeftig beschouwd als hij op de referentiedatum aan al de volgende voorwaarden voldoet:<br>
+1° het inkomen, of in voorkomend geval de inkomsten die in aanmerking worden genomen conform het zevende lid, bedragen minimaal 8789 euro en maximaal:<br>
 a) 35.123 euro voor een alleenstaande persoon zonder personen ten laste;<br>
 b) 38.630 euro voor een alleenstaande persoon met een handicap als vermeld in artikel 1, eerste lid, 11°, c), die geen andere personen ten laste heeft;<br>
 c) 52.679 euro, verhoogd met 3507 euro per persoon ten laste voor anderen;<br>
-2° hij of een van zijn gezinsleden&nbsp;heeft geen&nbsp;woning of een perceel dat bestemd is voor woningbouw, volledig of gedeeltelijk in volle eigendom of volledig in vruchtgebruik;<br>
-3° hij of een van zijn gezinsleden is geen zaakvoerder, bestuurder of aandeelhouder van een vennootschap waarin hij of een van zijn gezinsleden een woning of een perceel dat bestemd is voor woningbouw heeft ingebracht.<br>
+2° hij of een van zijn gezinsleden heeft geen woning of perceel, bestemd voor woningbouw, volledig of gedeeltelijk in volle eigendom;<br>
+3° hij of een van zijn gezinsleden heeft geen volledig of gedeeltelijk recht van erfpacht, opstal of vruchtgebruik op een woning of perceel, bestemd voor woningbouw;<br>
+4° hij of een van zijn gezinsleden heeft geen woning die of perceel, bestemd voor woningbouw, dat volledig of gedeeltelijk in erfpacht of opstal is gegeven;<br>
+5° hij of een van zijn gezinsleden heeft geen woning die of perceel, bestemd voor woningbouw, dat hij of een van zijn gezinsleden zelf volledig of gedeeltelijk in vruchtgebruik heeft gegeven;<br>
+6° hij of een van zijn gezinsleden zijn geen zaakvoerder, bestuurder of aandeelhouder van een vennootschap waarin ze zakelijke rechten als vermeld in punt 2° tot en met 5°, hebben ingebracht.<br>
 <br>
-Als de sociale koopwoning of sociale kavel in een van de kernsteden of in een gemeente van het arrondissement Halle-Vilvoorde of in Bertem, Huldenberg, Kortenberg of Tervuren ligt, mag in afwijking van het eerste lid, 1°, het inkomen, in voorkomend geval de inkomsten die in aanmerking worden genomen overeenkomstig het zevende lid, &nbsp;op de referentiedatum niet meer bedragen dan :<br>
+Als de sociale koopwoning of sociale kavel in een gemeente ligt die is opgenomen in cluster 1 of cluster 2 van de lijst die opgenomen is in de bijlage die is gevoegd bij het besluit van de Vlaamse Regering van 13 september 2013 houdende de voorwaarden waaronder de Vlaamse Maatschappij voor Sociaal Wonen en het Vlaams Woningfonds bijzondere sociale leningen aan particulieren kunnen toestaan, mag in afwijking van het tweede lid, 1°, het inkomen, of in voorkomend geval de inkomsten die in aanmerking worden genomen conform het zevende lid, op de referentiedatum niet meer bedragen dan:<br>
 1° 36.795 euro voor een alleenstaande persoon zonder personen ten laste;<br>
 2° 40.469 euro voor een alleenstaande persoon met een handicap als vermeld in artikel 1, eerste lid, 11°, c), die geen andere personen ten laste heeft;<br>
 3° 55.187 euro, verhoogd met 3674 euro per persoon ten laste voor anderen.<br>
 <br>
-Met behoud van de toepassing van het vierde en het vijfde lid, worden voor de toepassing van het eerste en het tweede lid de gezinsleden die de sociale koopwoning of de woning op de sociale kavel niet mee zullen betrekken, niet mee in aanmerking genomen.<br>
+Met behoud van de toepassing van het vijfde lid, worden voor de toepassing van het tweede en het derde lid de gezinsleden die de sociale koopwoning of de woning op de sociale kavel niet mee zullen kopen en niet mee zullen bewonen, niet mee in aanmerking genomen.<br>
 <br>
-De kandidaat-koper voor wie een vordering tot echtscheiding is ingesteld, kan zich inschrijven als hij samen met zijn echtgenoot of echtgenote een woning of een perceel bestemd voor woningbouw volledig of gedeeltelijk&nbsp;in volle eigendom heeft, maar er kan hem geen woning of kavel worden toegewezen. Als de kandidaat-koper bij de overschrijving van het echtscheidingsvonnis of -arrest in de registers van de burgerlijke stand die woning of dat perceel bestemd voor woningbouw volledig of gedeeltelijk&nbsp;in volle eigendom verwerft, wordt hij geschrapt uit het register en krijgt hij het inschrijvingsgeld terug.<br>
+In afwijking van het tweede lid, 2°, 3°, 4° en 5°, kan de kandidaat-koper als woonbehoeftig beschouwd worden als:<br>
+1° hij samen met zijn echtgenoot, de persoon met wie hij wettelijk samenwoont, zijn feitelijke partner, zijn ex-echtgenoot, de persoon met wie hij wettelijk samenwoonde of zijn ex-feitelijke partner een woning of een perceel, bestemd voor woningbouw, volledig in volle eigendom heeft als die persoon de sociale koopwoning of sociale kavel niet mee zal kopen en de woning of de op te richten woning niet mee zal bewonen;<br>
+2° hij samen met zijn echtgenoot, de persoon met wie hij wettelijk samenwoont, zijn feitelijke partner, zijn ex-echtgenoot, de persoon met wie hij wettelijk samenwoonde of zijn ex-feitelijke partner een volledig recht van erfpacht, opstal of vruchtgebruik heeft op een woning of een perceel, bestemd voor woningbouw, als die persoon de sociale koopwoning of sociale kavel niet mee zal kopen en de woning of de op te richten woning niet mee zal bewonen;<br>
+3° hij samen met zijn echtgenoot, de persoon met wie hij wettelijk samenwoont, zijn feitelijke partner, zijn ex-echtgenoot, de persoon met wie hij wettelijk samenwoonde of zijn ex-feitelijke partner een woning of een perceel, bestemd voor woningbouw, volledig in erfpacht, opstal of vruchtgebruik heeft gegeven, als die persoon de sociale koopwoning of sociale kavel niet mee zal kopen en de woning of de op te richten woning niet mee zal bewonen;<br>
+4° hij of een van zijn gezinsleden een woning of een perceel, bestemd voor woningbouw, ten kosteloze titel gedeeltelijk in volle eigendom heeft verworven;<br>
+5° hij of een van zijn gezinsleden een recht van erfpacht, opstal of vruchtgebruik op een woning of een perceel, bestemd voor woningbouw gedeeltelijk ten kosteloze titel heeft verworven;<br>
+6° hij of een van zijn gezinsleden een woning of een perceel, bestemd voor woningbouw, waarop een recht van erfpacht of opstal is gegeven, gedeeltelijk ten kosteloze titel heeft verworven.<br>
 <br>
-De kandidaat-koper voor wie een vordering tot echtscheiding is ingesteld, wordt bij de inschrijving voor de beoordeling van de woonbehoeftigheidsvoorwaarde, vermeld in het eerste lid, 1°, beschouwd als een alleenstaande die in voorkomend geval een of meer personen ten laste heeft.<br>
-<br>
-De kandidaat-koper die kosteloos een woning of een perceel bestemd voor woningbouw gedeeltelijk in volle eigendom heeft verworven, kan zich inschrijven, maar er kan hem geen woning of kavel worden toegewezen zolang hij niet uit onverdeeldheid is getreden.<br>
+Als het vijfde lid van toepassing is, moet de kandidaat-koper, of in voorkomend geval een van zijn gezinsleden, een jaar na het verlijden van de aankoopakte van de woning of kavel voldoen aan de onroerende bezitsvoorwaarde, vermeld in het tweede lid. Als ze daarvoor gegronde redenen kunnen aanvoeren, kunnen ze de verkoper verzoeken om die termijn van een jaar te verlengen. Als de koper, of in voorkomend geval een van zijn gezinsleden, niet voldoet aan de onroerende bezitsvoorwaarde na een jaar of, in voorkomend geval, de verlengde termijn, wordt de koopovereenkomst van rechtswege ontbonden.<br>
 <br>
 Als het inkomen minder dan 8789 euro bedraagt, worden de inkomsten, vermeld in artikel 1, eerste lid, 12°, van drie opeenvolgende maanden voorafgaand aan de referentiedatum, en geëxtrapoleerd naar twaalf maanden, in aanmerking genomen.<br>
 <br>
@@ -115,21 +127,19 @@ Als het inkomen minder dan 8789 euro bedraagt, worden de inkomsten, vermeld in a
 <br>
 § 3. Met betrekking tot de verkoop van sociale huurwoningen met toepassing van artikel 43 van de Vlaamse Wooncode, zoals van kracht vóór 24 april 2017, wordt de kandidaat-koper beschouwd als woonbehoeftig als hij voldoet aan de voorwaarden, vermeld in artikel 43, § 1, eerste lid, 3°, van de Vlaamse Wooncode, zoals van kracht vóór 24 april 2017.<br>
 <br>
-§ 4. Met betrekking tot&nbsp;de vrijwillige verkoop van sociale huurwoningen aan de zittende huurder wordt de kandidaat-koper beschouwd als woonbehoeftig als hij&nbsp;en zijn gezinsleden op de referentiedatum geen woning of een perceel dat bestemd is voor woningbouw volledig of gedeeltelijk&nbsp;in volle eigendom of volledig in vruchtgebruik heeft en geen zaakvoerder, bestuurder of aandeelhouder is van een vennootschap waarin hij een woning of een perceel dat bestemd is voor woningbouw, heeft ingebracht.<br>
+§ 4. Bij de vrijwillige verkoop van sociale huurwoningen aan de zittende huurder wordt de kandidaat-koper beschouwd als woonbehoeftig als hij op de referentiedatum voldoet aan de onroerende bezitsvoorwaarden, vermeld in paragraaf 1, tweede lid. Paragraaf 1, vierde, vijfde en zesde lid, zijn van overeenkomstige toepassing.<br>
 <br>
-§ 5. De kandidaat-koper, vermeld in paragraaf 1 en 4, bewijst met een verklaring op erewoord :<br>
-1° dat hij of zijn gezinsleden geen woning of een perceel dat bestemd is voor woningbouw, volledig of gedeeltelijk&nbsp;in volle eigendom of volledig in vruchtgebruik in het buitenland hebben;<br>
-2° dat hij of zijn gezinsleden geen zaakvoerder, bestuurder of aandeelhouder zijn van een vennootschap waarin hij of zijn gezinsleden een woning of een perceel dat bestemd is voor woningbouw, hebben ingebracht.<br>
+§ 5. De kandidaat-koper, vermeld in paragraaf 1 en 4, kan bewijzen dat hij voldoet aan de onroerende bezitsvoorwaarden, vermeld in paragraaf 1, tweede lid, met een verklaring op erewoord voor de onroerende goederen in het buitenland.<br>
 <br>
-§ 6. De voorwaarden in paragraaf 1, 2°, en 3°, en paragraaf 4, zijn niet van toepassing :<br>
-1° als de kandidaat-koper die woning betrekt op de referentiedatum en als die woning binnen de grenzen van een vastgesteld onteigeningsplan ligt;<br>
+§ 6. De onroerende bezitsvoorwaarden, vermeld in paragraaf 1, tweede lid, en paragraaf 4, zijn niet van toepassing :<br>
+1° ...;<br>
 2° als die&nbsp;woning overbewoond verklaard is of als dusdanig geadviseerd is overeenkomstig artikel 17 van de Vlaamse Wooncode;<br>
 3° als die andere woning onbewoonbaar verklaard is overeenkomstig artikel 135 van de Nieuwe Gemeentewet of als die&nbsp; woning onbewoonbaar verklaard is of als dusdanig geadviseerd is overeenkomstig artikel 15 van de Vlaamse Wooncode;<br>
-4° als de kandidaat-koper op de referentiedatum minstens 55 jaar oud is;<br>
-5° als de aan te kopen sociale koopwoning of sociale kavel in een van de kernsteden gelegen is;<br>
+4° ...;<br>
+5° ...;<br>
 6° als de woning in een ruimtelijke bestemmingszone in België ligt waar wonen niet toegestaan is.<br>
 <br>
-In de gevallen, vermeld in het eerste lid, 2°, 4° en 5°, moet de koper de woning of het perceel verkopen op de vrije markt of aan een sociale huisvestingsmaatschappij binnen een termijn van een jaar vanaf de datum waarop de aankoopakte verleden is.<br>
+In het geval, vermeld in het eerste lid, 2°, moet de koper de woning of het perceel verkopen op de vrije markt of aan een sociale huisvestingsmaatschappij binnen een termijn van een jaar vanaf de datum waarop de aankoopakte verleden is. Als de koper daarvoor gegronde redenen kan aanvoeren, kan hij de verkoper verzoeken om de vermelde termijn van een jaar te verlengen.<br>
 <br>
 De koper kan ook, binnen een termijn van een jaar vanaf de datum waarop de aankoopakte verleden is, die woning voor twintig jaar, in ruil voor een periodieke vergoeding, bij authentieke akte ter beschikking stellen van een sociale woonorganisatie. Alle kosten die verbonden zijn aan die keuzen, zijn ten laste van de koper.<br>
 <br>
@@ -177,15 +187,25 @@ Niet-residentiële ruimten worden verkocht door de VMSW of een sociale huisvesti
 
 ### ART. 7/2.
 
-De verplichtingen en de sancties bij niet-naleving van de verplichtingen voor de kopers van sociale koopwoningen, sociale huurwoningen en&nbsp;sociale kavels&nbsp;zijn bepaald in het reglement van de verplichtingen en sancties voor de kopers van sociale koopwoningen, sociale huurwoningen en&nbsp;sociale kavels, dat als bijlage VI bij dit besluit is gevoegd.
+De verplichtingen en de sancties bij niet-naleving van de verplichtingen voor de kopers van sociale koopwoningen en&nbsp;sociale kavels&nbsp;zijn bepaald in het reglement van de verplichtingen en sancties voor de kopers van sociale koopwoningen en&nbsp;sociale kavels, dat als bijlage VI bij dit besluit is gevoegd.
 
 ### ART. 8.
 
-Als sociale koopwoningen, ondanks voldoende publiciteit, niet verkocht kunnen worden binnen een periode van een jaar na hun voorlopige oplevering aan de personen die voldoen aan de woonbehoeftigheidsvoorwaarden, vermeld in artikel 3, § 1 kunnen ze verhuurd worden volgens het sociaal huurstelsel. Ze kunnen ook in beheer genomen worden door een andere sociale huisvestingsmaatschappij of een erkend sociaal verhuurkantoor of verkocht worden aan een andere sociale huisvestingsmaatschappij. Eventuele subsidies moeten tijdens de verhuur niet terugbetaald worden aan het Vlaamse Gewest.
+Als sociale koopwoningen, ondanks voldoende publiciteit, niet verkocht kunnen worden aan de personen die voldoen aan de woonbehoeftigheidsvoorwaarden, vermeld in artikel 3, § 1, binnen een jaar na de eerste verwittiging, vermeld in artikel 7, § 1, tweede lid, van bijlage I, die bij dit besluit is gevoegd, kunnen ze verhuurd worden conform titel VII van de Vlaamse Wooncode. Ze kunnen daarvoor in beheer genomen worden door een andere sociale huisvestingsmaatschappij of een erkend sociaal verhuurkantoor of daarvoor verkocht worden aan een andere sociale huisvestingsmaatschappij, een gemeente, een autonoom gemeentebedrijf als vermeld in artikel 2bis van de Vlaamse Wooncode, een intergemeentelijk samenwerkingsverband, het Vlaams Woningfonds, een openbaar centrum voor maatschappelijk welzijn of een OCMW-vereniging. Eventuele subsidies hoeven in die gevallen niet terugbetaald te worden aan het Vlaamse Gewest.
 
 ### ART. 9.
 
-...
+§ 1. In dit artikel wordt onder de bevoegde overheden en instellingen verstaan:<br>
+1° het Rijksregister van de natuurlijke personen, vermeld in artikel 1 van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen;<br>
+2° de instellingen van de sociale zekerheid, vermeld in artikel 1 en 2, eerste lid, 2°, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid en de personen waartoe het netwerk van de sociale zekerheid met toepassing van artikel 18 van de voormelde wet wordt uitgebreid;<br>
+3° de Federale Overheidsdienst Financiën;<br>
+4° het intern verzelfstandigd agentschap Informatie Vlaanderen, opgericht bij het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen.<br>
+<br>
+§ 2. Met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, namelijk de regelgeving die specifiek van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd, vraagt de VMSW of een sociale huisvestingsmaatschappij bij de bevoegde overheden en instellingen en bij de lokale besturen de noodzakelijke documenten of gegevens over de voorwaarden en de verplichtingen, vermeld in dit besluit, op.<br>
+<br>
+§ 3. Voor de uitvoering van de bepalingen van dit besluit doet de VMSW of een sociale huisvestingsmaatschappij een beroep op informatie die de bevoegde overheden of instellingen hem elektronisch kunnen bezorgen. Als op die manier geen of onvoldoende gegevens worden verkregen, wordt de kandidaat-koper of koper gevraagd de nodige gegevens te bezorgen. Als via de verkregen informatie van de bevoegde overheden of instellingen blijkt dat de kandidaat-koper of koper niet meer voldoet aan de voorwaarden en de verplichtingen, vermeld in dit besluit, wordt die vaststelling meegedeeld aan de kandidaat-koper of koper. Die kan dan binnen een termijn van vijftien kalenderdagen na de mededeling reageren.<br>
+<br>
+§ 4. De VMSW coördineert de elektronische gegevensstromen en elektronische informatie-uitwisseling tussen de diverse actoren, vermeld in dit besluit. Alle elektronische gegevens mogen in dat kader via de VMSW uitgewisseld worden. De VMSW mag de gegevens ook gebruiken voor statistische verwerking en mag ze ter beschikking stellen van de andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De VMSW benoemt een functionaris voor gegevensbescherming als vermeld in artikel 37 van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).
 
 ### ART. 10.
 
@@ -235,11 +255,11 @@ In de registers worden de volgende gegevens opgenomen :<br>
 1° het inschrijvingsnummer voor het desbetreffende register;<br>
 2° de datum van inschrijving;<br>
 3° de voornamen en de achternaam van de kandidaat-koper;<br>
-4° de geboorteplaats en -datum;<br>
+4° de geboortedatum;<br>
 5° het volledige adres en eventueel het telefoonnummer;<br>
 6° een vermelding of er een prioriteit is of niet;<br>
 7° de (deel)gemeente of gemeenten van het werkgebied waarvoor de kandidaat-koper zich kandidaat stelt;<br>
-8° ...:<br>
+8° de melding dat de sociale huisvestingsmaatschappij of de VMSW de noodzakelijke verklaringen, attesten of gegevens over de voorwaarden en de verplichtingen, vermeld in dit besluit, verkrijgt, overeenkomstig de regelgeving die specifiek van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd;<br>
 9° het rijksregisternummer.<br>
 <br>
 In de registers worden ook de toewijzingen en de schrappingen van het lopende en het voorgaande kalenderjaar vermeld.<br>
@@ -254,7 +274,7 @@ De verkoper deelt aan de kandidaat-koper mee op welke wijze de onderlinge commun
 <br>
 Art. 5. § 1. De inschrijving is definitief na betaling van een inschrijvingsgeld van 50 euro per register.<br>
 <br>
-De sociale huisvestingsmaatschappij of de VMSW gaat over tot schrapping van een kandidaat uit het register in de volgende gevallen :<br>
+De sociale huisvestingsmaatschappij of de VMSW gaat over tot schrapping van een kandidaat uit&nbsp;al haar&nbsp;inschrijvingsregisters in de volgende gevallen :<br>
 1° als aan de kandidaat-koper een woning wordt toegewezen;<br>
 2° als de kandidaat-koper daar schriftelijk om verzoekt;<br>
 3° als op het ogenblik dat de kandidaat-koper wordt gecontroleerd in het kader van de toewijzing van een woning, blijkt dat hij niet meer voldoet aan de woonbehoeftigheidsvoorwaarden, vermeld in artikel 3, § 1, van dit besluit;<br>
@@ -335,11 +355,11 @@ In de registers worden de volgende gegevens opgenomen :<br>
 1° het inschrijvingsnummer voor het desbetreffende register;<br>
 2° de datum van inschrijving;<br>
 3° de voornamen en de achternaam van de kandidaat koper;<br>
-4° de geboorteplaats en -datum;<br>
+4° de geboortedatum;<br>
 5° het volledige adres en eventueel het telefoonnummer;<br>
 6° de vermelding of er een prioriteit is of niet;<br>
 7° de (deel)gemeente of gemeenten van het werkgebied waarvoor de kandidaat-koper zich kandidaat stelt;<br>
-8° ...;<br>
+8° de melding dat de sociale huisvestingsmaatschappij of de VMSW de noodzakelijke verklaringen, attesten of gegevens over de voorwaarden en de verplichtingen, vermeld in dit besluit, verkrijgt, overeenkomstig de regelgeving die specifiek van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd;<br>
 9° het rijksregisternummer.<br>
 <br>
 In de registers worden ook de toewijzingen en de schrappingen van het lopende en het voorgaande kalenderjaar vermeld.<br>
@@ -354,7 +374,7 @@ De verkoper deelt aan de kandidaat-koper mee op welke wijze de onderlinge commun
 <br>
 Art. 5. § 1. De inschrijving is definitief na betaling van een inschrijvingsgeld van 50 euro per register.<br>
 <br>
-De sociale huisvestingsmaatschappij of de VMSW gaat over tot schrapping van een kandidaat uit het register in de volgende gevallen :<br>
+De sociale huisvestingsmaatschappij of de VMSW gaat over tot schrapping van een kandidaat uit al haar inschrijvingsregisters in de volgende gevallen :<br>
 1° als aan de kandidaat-koper een kavel wordt toegewezen;<br>
 2° als de kandidaat-koper daar schriftelijk om verzoekt;<br>
 3° als op het ogenblik dat de kandidaat-koper wordt gecontroleerd in het kader van de toewijzing van een kavel blijkt dat hij niet meer voldoet aan de woonbehoeftigheidsvoorwaarden, vermeld in artikel 3, § 1, van dit besluit;<br>
@@ -421,13 +441,11 @@ HOOFDSTUK 1. - Vrijwillige verkoop van onverhuurbare sociale huurwoningen<br>
 <br>
 Artikel 1. Sociale huurwoningen die niet meer verhuurd kunnen worden omdat ze niet meer voldoen aan de vereisten, vermeld in artikel 5 van de Vlaamse Wooncode, kunnen, als de renovatie van die sociale huurwoningen niet wenselijk is, onmiddellijk verkocht worden.<br>
 <br>
-De sociale huurwoningen, vermeld in het eerste lid, worden openbaar verkocht. De verkoopprijs moet, in voorkomend geval, worden verhoogd met alle belastingen, heffingen, erelonen en kosten met betrekking tot de verkoopakte en de schatting, alsook met de kosten van de afpaling en de opmeting en de administratieve kosten. Het totale bedrag van de afpaling, de opmeting en de administratieve kosten is beperkt tot maximaal 880 euro. De kostprijs van het schattingsverslag dat de sociale huisvestingsmaatschappij aanvraagt bij een instantie als vermeld in artikel 27bis van de Vlaamse Wooncode, bedraagt 260 euro.<br>
+De sociale huurwoningen, vermeld in het eerste lid, worden openbaar verkocht en kunnen toegewezen worden aan de hoogste bieder, ook al levert dat niet de venale waarde op. Als de openbare verkoop niet de venale waarde oplevert of als de kosten van een openbare verkoop niet in verhouding staan tot de venale waarde, kan er onderhands verkocht worden volgens de procedure van een bieding onder gesloten envelop op voorwaarde dat er voldoende publiciteit aan gegeven wordt. De verkoopprijs wordt in beide gevallen verhoogd met alle belastingen, heffingen, erelonen en kosten met betrekking tot de verkoopakte en de schatting, alsook met de kosten van de afpaling en de opmeting en de administratieve kosten. Het totale bedrag van de afpaling, de opmeting en de administratieve kosten is beperkt tot maximaal 880 euro. De kostprijs van het schattingsverslag dat de sociale huisvestingsmaatschappij aanvraagt bij een instantie als vermeld in artikel 27bis van de Vlaamse Wooncode, bedraagt 260 euro.<br>
 <br>
 De bedragen, vermeld in het tweede lid, worden jaarlijks geïndexeerd op de wijze, vermeld in artikel 3, § 2, van dit besluit.<br>
 <br>
-Als de openbare verkoop niet de venale waarde oplevert of als de kosten van een openbare verkoop niet in verhouding staan tot de venale waarde, kan er onderhands verkocht worden volgens de procedure van een bieding onder gesloten envelop op voorwaarde dat er voldoende publiciteit aan gegeven wordt.<br>
-<br>
-Art. 2. § 1. Bij de verkoop van onverhuurbare sociale huurwoningen die gefinancierd zijn met leningskredieten, worden de verkoopopbrengsten in eerste instantie aangewend voor de terugbetaling van de op de verkochte woning nog uitstaande leningen. Als het een leningskrediet van de VMSW betreft, wordt de vervroegde terugbetaling van de lening bij verkoop door de VMSW geboekt op de datum waarop de verkoopakte wordt verleden.<br>
+Art. 2. § 1. Bij de verkoop van onverhuurbare sociale huurwoningen die gefinancierd zijn met leningskredieten, worden de verkoopopbrengsten in eerste instantie aangewend voor de terugbetaling van de op de verkochte woning nog uitstaande leningen.<br>
 <br>
 In afwijking van het eerste lid worden de verkoopopbrengsten van woningen die gefinancierd zijn ter uitvoering van het besluit van de Vlaamse Regering van 23 juli 1992 tot uitvoering van artikel 49 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992, gewijzigd bij de besluiten van de Vlaamse Regering van 3 februari 1993, 7 september 1994, 29 september 1994, 12 juni 1995, 10 december 1996, 11 mei 1999 en 19 november 1999 en opgeheven bij het besluit van de Vlaamse Regering van 30 juni 2006, niet aangewend voor de terugbetaling van de op de verkochte woning nog uitstaande leningen.<br>
 <br>
@@ -465,11 +483,9 @@ Art. 6. De oprichting van niet-residentiële ruimten die geen garages zijn, kan 
 <br>
 Art. 7. De koper van een niet-residentiële ruimte hoeft geen natuurlijke persoon te zijn. Hij is niet onderworpen aan voorwaarden inzake inkomen of bezit.<br>
 <br>
-Art. 8. Niet-residentiële ruimten die oorspronkelijk voor de verkoop bestemd zijn, kunnen enkel openbaar verkocht worden.<br>
+Art. 8. Niet-residentiële ruimten die oorspronkelijk voor de verkoop bestemd zijn, kunnen enkel openbaar verkocht worden en kunnen worden toegewezen aan de hoogste bieder, ook al levert dat niet de venale waarde op. Als de openbare verkoop niet de venale waarde oplevert of de kosten van een openbare verkoop niet in verhouding staan tot de venale waarde, kan er onderhands verkocht worden volgens de procedure van de bieding onder gesloten envelop, mits er voldoende publiciteit aan gegeven wordt.<br>
 <br>
-De koper betaalt in voorkomend geval alle kosten, vermeld in artikel 1, tweede lid, van bijlage III.<br>
-<br>
-Als de openbare verkoop niet de venale waarde oplevert of de kosten van een openbare verkoop niet in verhouding staan tot de venale waarde, kan er onderhands verkocht worden volgens de procedure van de bieding onder gesloten envelop, mits er voldoende publiciteit aan gegeven wordt.<br>
+De koper betaalt de kosten, vermeld in artikel 1, tweede lid, van bijlage III.<br>
 <br>
 Art. 9. Niet residentiële ruimten die oorspronkelijk bestemd zijn voor verhuring, en die verhuurd zijn, kunnen, als ze minstens vijftien jaar als te verhuren niet-residentiële ruimte beschikbaar werden gesteld, onderhands verkocht worden aan de huurder die gedurende ten minste vijf jaar ononderbroken de ruimte heeft gehuurd.<br>
 <br>
@@ -477,11 +493,9 @@ De verkoopprijs van de niet-residentiële ruimten, vermeld in het eerste lid, is
 <br>
 De sociale huisvestingsmaatschappij moet de verkoopopbrengsten van die ruimten op dezelfde manier opnieuw investeren als vermeld in artikel 2, § 2, tweede lid, van bijlage III. De afwijkingsmogelijkheid, vermeld in artikel 2, § 3, van bijlage III, is ook van toepassing.<br>
 <br>
-Art. 10. Leegstaande niet-residentiële ruimten die oorspronkelijk bestemd zijn voor verhuring moeten openbaar verkocht worden.<br>
+Art. 10. Leegstaande niet-residentiële ruimten die oorspronkelijk bestemd zijn voor verhuring moeten openbaar verkocht worden en kunnen worden toegewezen aan de hoogste bieder, ook al levert dat niet de venale waarde op. Als de openbare verkoop niet de venale waarde oplevert of de kosten van een openbare verkoop niet in verhouding staan tot de venale waarde, kan er onderhands verkocht worden volgens de procedure van de bieding onder gesloten envelop, mits er voldoende publiciteit aan gegeven wordt.<br>
 <br>
-De koper betaalt in voorkomend geval alle kosten, vermeld in artikel 1, tweede lid, van bijlage III.<br>
-<br>
-Als de openbare verkoop niet de venale waarde oplevert of de kosten van een openbare verkoop niet in verhouding staan tot de venale waarde,&nbsp;kan er onderhands verkocht worden volgens de procedure van de bieding onder gesloten envelop, mits er voldoende publiciteit aan gegeven wordt.<br>
+De koper betaalt de kosten, vermeld in artikel 1, tweede lid, van bijlage III..<br>
 <br>
 Art. 11. In afwijking van artikel 8 en 10 kunnen garages ook onderhands worden verkocht aan eigenaars of huurders van sociale woningen.<br>
 <br>
@@ -498,11 +512,11 @@ Bijlage VI. - Reglement van de verplichtingen en sancties voor de kopers van soc
 <br>
 HOOFDSTUK 1. - Sociale koopwoningen<br>
 <br>
-Artikel 1. De koper leeft de verplichtingen, vermeld in artikel 84 van de Vlaamse Wooncode, na. Minstens een van de personen die de sociale koopwoning hebben gekocht, of een van de wettelijke erfgenamen woont persoonlijk in de woning.<br>
+Artikel 1. De koper leeft de verplichtingen, vermeld in artikel 84 van de Vlaamse Wooncode, na. Minstens een van de personen die de sociale koopwoning hebben gekocht, of , bij het overlijden van de persoon of personen die de sociale koopwoning hebben gekocht, een van de erfgenamen die een zakelijk recht om de woning te bewonen, heeft geërfd woont persoonlijk in de woning.<br>
 <br>
-De koper die de verplichtingen niet naleeft, betaalt een vergoeding die gelijk is aan het resterende gedeelte van de subsidie, vermeld in artikel 64 van de Vlaamse Wooncode, die in mindering is gebracht om de verkoopprijs te bepalen. Die subsidie wordt gedurende twintig jaar afgeschreven met een twintigste van het oorspronkelijke bedrag van de subsidie. Het bedrag van de verschuldigde vergoeding wordt voor ieder jaar in de authentieke akte vermeld.<br>
+De koper of de erfgenaam die de verplichtingen niet naleeft, betaalt een vergoeding die gelijk is aan het resterende gedeelte van de subsidie, vermeld in artikel 64 van de Vlaamse Wooncode, die in mindering is gebracht om de verkoopprijs te bepalen. Die subsidie wordt gedurende twintig jaar afgeschreven met een twintigste van het oorspronkelijke bedrag van de subsidie. Het bedrag van de verschuldigde vergoeding wordt voor ieder jaar in de authentieke akte vermeld.<br>
 <br>
-Als de verkoper een korting als vermeld in artikel 3/1 van dit besluit, heeft toegestaan en de koper leeft de verplichtingen, vermeld in het eerste lid, niet na, geldt de volgende regeling. Als de verkoopprijs, minder dan 90% van de venale waarde van de sociale koopwoning bedroeg, betaalt de koper een vergoeding aan de verkoper. De vergoeding bedraagt minstens de helft van het resterende gedeelte van het verschil tussen 90% van de venale waarde en de verkoopprijs, van de sociale koopwoning, als die vergoeding gedurende twintig jaar elk jaar wordt afgeschreven met een twintigste van het oorspronkelijke bedrag. Als de verkoopprijs, 90% of meer bedroeg van de venale waarde van de sociale koopwoning, kan de verkoper een vergoeding vragen die maximaal gelijk is aan het resterende gedeelte van het verschil tussen de venale waarde en de verkoopprijs, van de sociale koopwoning, als die vergoeding gedurende twintig jaar elk jaar wordt afgeschreven met een twintigste van het oorspronkelijke bedrag. Het bedrag van de verschuldigde vergoeding wordt voor ieder jaar in de authentieke akte vermeld.<br>
+Als de verkoper een korting als vermeld in artikel 3/1 van dit besluit, heeft toegestaan en de koper of de erfgenaam&nbsp;leeft de verplichtingen, vermeld in het eerste lid, niet na, geldt de volgende regeling. Als de verkoopprijs, minder dan 90% van de venale waarde van de sociale koopwoning bedroeg, betaalt de koper een vergoeding aan de verkoper. De vergoeding bedraagt minstens de helft van het resterende gedeelte van het verschil tussen 90% van de venale waarde en de verkoopprijs, van de sociale koopwoning, als die vergoeding gedurende twintig jaar elk jaar wordt afgeschreven met een twintigste van het oorspronkelijke bedrag. Als de verkoopprijs, 90% of meer bedroeg van de venale waarde van de sociale koopwoning, kan de verkoper een vergoeding vragen die maximaal gelijk is aan het resterende gedeelte van het verschil tussen de venale waarde en de verkoopprijs, van de sociale koopwoning, als die vergoeding gedurende twintig jaar elk jaar wordt afgeschreven met een twintigste van het oorspronkelijke bedrag. Het bedrag van de verschuldigde vergoeding wordt voor ieder jaar in de authentieke akte vermeld.<br>
 <br>
 In de verkoopprijs, vermeld in het derde lid, wordt de btw niet inbegrepen maar in voorkomend geval wel de subsidie, vermeld in artikel 64 van de Vlaamse Wooncode.<br>
 <br>
@@ -516,14 +530,16 @@ HOOFDSTUK 2. - Sociale kavels<br>
 <br>
 Art. 5. De koper van een sociale kavel heeft de volgende verplichtingen :<br>
 1° hij richt op de kavel een woning op en die woning is winddicht binnen een termijn van vier jaar vanaf het ogenblik waarop de aankoopakte verleden wordt;<br>
-2° hij bewoont de woning, vermeld in punt 1°, persoonlijk gedurende tien jaar en hij vervreemdt de sociale kavel en de woning die erop gebouwd is, gedurende die termijn niet en staat er geen zakelijk recht op af. Het persoonlijk bewonen gebeurt door minstens een van de personen die de sociale kavel hebben gekocht, of door een van de wettelijke erfgenamen, en omvat het effectieve en gewoonlijke verblijf als volle eigenaar in de woning;<br>
+2° hij bewoont de woning, vermeld in punt 1°, persoonlijk gedurende tien jaar die ingaat op de datum van de voorlopige oplevering van de woning en hij vervreemdt de sociale kavel en de woning die erop gebouwd is, gedurende die termijn niet en staat er geen zakelijk recht op af. Het persoonlijk bewonen gebeurt door minstens een van de personen die de sociale kavel hebben gekocht, of, bij het overlijden van de persoon of personen die de sociale kavel hebben gekocht, door een van de erfgenamen die een zakelijk recht om de woning te bewonen, heeft geërfd;<br>
 3° hij toont aan dat het volume van de woning, vermeld in punt 1°, niet groter is dan toegelaten in artikel 5, tweede lid, van dit besluit. Daarvoor bezorgt hij binnen twee maanden na de goedkeuring van de omgevingsvergunning voor stedenbouwkundige handelingen een afschrift ervan en van het bijbehorende dossier aan de verkoper.<br>
 <br>
 Als de koper de verplichtingen, vermeld in het eerste lid, 1°, niet nakomt, en er binnen een termijn van vier jaar geen enkele bouwactiviteit is gestart, wordt de verkoopovereenkomst van rechtswege ontbonden. Als er al werkzaamheden zijn gestart, maar de woning is nog niet winddicht, geldt de volgende regeling. Als de verkoopprijs minder dan 90% van de venale waarde van de sociale kavel bedroeg, betaalt de koper jaarlijks een vergoeding aan de verkoper vanaf het vijfde jaar na het verlijden van de aankoopakte zolang de woning niet winddicht is, uiterlijk tot veertien jaar na het verlijden van de aankoopakte. De vergoeding bedraagt 10% van minstens de helft van het verschil tussen 90% van de venale waarde en de verkoopprijs van de sociale kavel. Als de verkoopprijs 90% of meer bedroeg van de venale waarde van de sociale kavel, kan de verkoper jaarlijks een vergoeding vragen vanaf het vijfde jaar na het verlijden van de aankoopakte zolang de woning niet winddicht is, uiterlijk tot veertien jaar na het verlijden van de aankoopakte. De vergoeding bedraagt maximaal 10% van het verschil tussen de venale waarde en de verkoopprijs van de sociale kavel. De venale waarde en het bedrag van de jaarlijkse verschuldigde vergoeding wordt in de authentieke akte vermeld. De termijn van vier jaar wordt geschorst als de vertraging van de bouw van de woning te wijten is aan omstandigheden die buiten de wil van de koper plaatsvinden, voor de duur van die omstandigheden.<br>
 <br>
-Als de koper de verplichting, vermeld in het eerste lid, 2°, niet nakomt, geldt de volgende regeling. Als de verkoopprijs minder dan 90% van de venale waarde van de sociale kavel bedroeg, betaalt de koper een vergoeding aan de verkoper. De vergoeding bedraagt minstens de helft van het resterende gedeelte van het verschil tussen 90% van de venale waarde en de verkoopprijs van de sociale kavel, als die vergoeding gedurende tien jaar elk jaar wordt afgeschreven met een tiende van het oorspronkelijke bedrag. Als de verkoopprijs 90% of meer bedroeg van de venale waarde van de sociale kavel, kan de verkoper een vergoeding vragen die maximaal gelijk is aan het resterende gedeelte van het verschil tussen de venale waarde en de verkoopprijs van de sociale kavel, als die vergoeding gedurende tien jaar elk jaar wordt afgeschreven met een tiende van het oorspronkelijke bedrag. De venale waarde en het bedrag van de vergoeding wordt voor ieder jaar in de authentieke akte vermeld.<br>
+Als de koper of de erfgenaam de verplichting, vermeld in het eerste lid, 2°, niet nakomt, geldt de volgende regeling. Als de verkoopprijs minder dan 90% van de venale waarde van de sociale kavel bedroeg, betaalt de koper of de erfgenaam een vergoeding aan de verkoper. De vergoeding bedraagt minstens de helft van het resterende gedeelte van het verschil tussen 90% van de venale waarde en de verkoopprijs van de sociale kavel, als die vergoeding gedurende tien jaar elk jaar wordt afgeschreven met een tiende van het oorspronkelijke bedrag. Als de verkoopprijs 90% of meer bedroeg van de venale waarde van de sociale kavel, kan de verkoper een vergoeding vragen die maximaal gelijk is aan het resterende gedeelte van het verschil tussen de venale waarde en de verkoopprijs van de sociale kavel, als die vergoeding gedurende tien jaar elk jaar wordt afgeschreven met een tiende van het oorspronkelijke bedrag. De venale waarde en het bedrag van de vergoeding wordt voor ieder jaar in de authentieke akte vermeld.<br>
 <br>
 Als de koper de verplichting, vermeld in het eerste lid, 3°, niet nakomt, geldt de volgende regeling. Als de verkoopprijs minder dan 90% van de venale waarde van de sociale kavel bedroeg, betaalt de koper een vergoeding aan de verkoper. De vergoeding bedraagt minstens de helft van het verschil tussen 90% van de venale waarde en de verkoopprijs van de sociale kavel. Als de verkoopprijs 90% of meer bedroeg van de venale waarde van de sociale kavel, kan de verkoper een vergoeding vragen die maximaal gelijk is aan het verschil tussen de venale waarde en de verkoopprijs van de sociale kavel. De venale waarde en het bedrag van de vergoeding wordt in de authentieke akte vermeld.<br>
+<br>
+Als de koper de sociale kavel voor of tijdens het oprichten van de woning op de sociale kavel vervreemdt, geldt de volgende regeling: als de verkoopprijs minder dan 90 % van de venale waarde van de sociale kavel bedroeg, betaalt de koper een vergoeding die gelijk is aan minstens de helft van het verschil tussen 90 % van de venale waarde en de verkoopprijs van de sociale kavel. Als de verkoopprijs 90 % of meer bedroeg van de venale waarde van de sociale kavel, kan de verkoper een vergoeding vragen die maximaal gelijk is aan het verschil tussen de venale waarde en de verkoopprijs van de sociale kavel. De venale waarde en het bedrag van de vergoeding worden in de authentieke akte vermeld.<br>
 <br>
 HOOFDSTUK 3. - ...<br>
 <br>
