@@ -8,7 +8,9 @@ De Vlaamse Regering,<br /><br />Gelet op artikel 12, § 3, artikel 18, § 2, art
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />decreet : het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap.<br />
+In dit besluit wordt verstaan onder:<br>
+1° decreet van 8 juni 2007: het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap;<br>
+2° dienst: de afdeling Studietoelagen van het Vlaams Ministerie van Onderwijs en Vorming.
 
 ## TITEL II. [... (opgeh. BVR 3 mei 2019, art. 7, I: 1 september 2019)] studietoelagen
 
@@ -18,25 +20,33 @@ In dit besluit wordt verstaan onder :<br />decreet : het decreet van 8 juni 2007
 
 ### ART. 2.
 
-De onderwijsinstellingen, bepaald in artikel 10 van het decreet, bezorgen de gegevens omtrent de in- en uitschrijvingen, de aanwezigheden en de ongewettigde afwezigheden, vermeld in de artikelen 12, 13 en 14 van het decreet aan de dienst via de centrale inschrijvingsdatabank van het kleuter- en het leerplichtonderwijs.<br />
+...
 
 ## Afdeling 2. [... (opgeh. BVR 3 mei 2019, art. 8, I: 1 september 2019)]
 
 ### ART. 3.
 
-De onderwijsinstellingen, bepaald in artikel 15 van het decreet, bezorgen de gegevens omtrent de in- en uitschrijvingen en de ongewettigde afwezigheden, vermeld in artikel 16, § 1 en artikel 18 van het decreet, aan de dienst via de centrale inschrijvingsdatabank van het leerplichtonderwijs.<br />
+...
 
 ## Afdeling 2/1. [... (opgeh. BVR 3 mei 2019, art. 8, I: 1 september 2019)]
 
 ### ART. 3/1.
 
-§ 1. Als de onderwijsinstelling, vermeld in artikel 10 of artikel 15 van het decreet, over een afwijkende uurregeling beschikt, wordt het aantal halve schooldagen, vermeld in artikel 13, § 2, 1° tot en met 4°, in artikel 14, § 1, 2° en in artikel 16, § 1, 2°, van het decreet, dat de leerling aanwezig moet zijn of maximaal ongewettigd afwezig mag zijn, als volgt berekend : AWD x ASDW/SDW<br /><br />In deze formule wordt verstaan onder : <br />1° AWD : de aanwezigheidsdrempel. Dit is het aantal halve schooldagen dat de leerling per schooljaar aanwezig moet zijn of ongewettigd afwezig mag zijn, vermeld in artikel 13, § 2, 1° tot en met 4°, in artikel 14, § 1, 2° en in artikel 16, § 1, 2°, van het decreet;<br />2° ASDW : het aantal halve schooldagen dat de onderwijsinstelling, met toepassing van artikel 8 van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs, in het deeltijds onderwijs en in het onderwijs voor sociale promotie georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap of met toepassing van artikel 8 van het besluit van de Vlaamse Regering van 31 augustus 2001 houdende de organisatie van het schooljaar in het secundair onderwijs, per volledige schoolweek lesactiviteiten organiseert;<br />3° SDW : het aantal halve schooldagen dat een volledige schoolweek standaard telt, namelijk negen.<br /><br />Het resultaat van de berekening, vermeld in het eerste lid, wordt afgerond naar de hogere eenheid.<br /><br />§ 2. In afwijking van artikel 2 en 3 bezorgen de onderwijsinstellingen die over een afwijkende uurregeling beschikken de gegevens, vermeld in § 1, aan de dienst, op de wijze die de dienst bepaalt.
+...
 
 ## Afdeling 3. Studietoelage hoger onderwijs
 
 ### ART. 4.
 
-De onderwijsinstellingen bezorgen de gegevens, vermeld in artikel 27 van het decreet aan de dienst via de centrale databank, zoals bepaald in artikel 113bis van het structuurdecreet, overeenkomstig de bepalingen in de Overeenkomst betreffende de Databank Tertiair Onderwijs, gesloten tussen het Ministerie van de Vlaamse Gemeenschap enerzijds, en de Vlaamse Interuniversitaire Raad en de Vlaamse Hogescholenraad anderzijds.<br />
+De onderwijsinstellingen bezorgen de gegevens, vermeld in artikel 27 van het decreet van 8 juni 2007, aan de dienst via de centrale databank, vermeld in artikel IV.90 van de Codex Hoger Onderwijs van 11 oktober 2013.
+
+### ART 4/1.
+
+Een studietoelage kan worden verleend aan een student die wegens ziekte niet in staat is minstens 27 studiepunten op te nemen, conform artikel 24, § 2, van het decreet van 8 juni 2007, als de student aan de dienst een van onderstaande attesten bezorgt:<br>
+1° een kopie van het attest van Kind en Gezin, vermeld in artikel 26, § 2 en § 5, van het Besluit van de Vlaamse Regering van 5 oktober 2018 tot vaststelling van de diverse hoedanigheden van het rechtgevend kind en betreffende de vrijstellingen van de toekenningsvoorwaarden voor de gezinsbijslagen en de startbedragen geboorte en adoptie en de universele participatietoeslagen;<br>
+2° het attest dat de dienst hiertoe ter beschikking stelt.<br>
+<br>
+Het attest vermeld in het vorige lid, wordt door een arts ingevuld en ondertekend en wordt bezorgd aan de dienst.
 
 ## HOOFDSTUK II. Financiële voorwaarden
 
@@ -46,32 +56,32 @@ De onderwijsinstellingen bezorgen de gegevens, vermeld in artikel 27 van het dec
 
 ### ART. 5.
 
-§ 1. Onder voorbehoud van de toepassing van artikel 6 en artikel 7, wordt voor de berekening van het referentie-inkomen uitgegaan van de leefeenheid waar de leerling of student zijn hoofdverblijfplaats heeft bij één of beide ouders van wie zijn afstamming vaststaat of bij een andere natuurlijke persoon van wie hij ten laste is.<br>
+§ 1. Onder voorbehoud van de toepassing van artikel 6 en artikel 7, wordt voor de berekening van het referentie-inkomen uitgegaan van de leefeenheid waar de student zijn hoofdverblijfplaats heeft bij één of beide ouders van wie zijn afstamming vaststaat of bij een andere natuurlijke persoon van wie hij ten laste is.<br>
 <br>
-§ 2. Indien de leerling of student zijn hoofdverblijfplaats heeft bij een leefeenheid bestaande uit beide ouders van wie zijn afstamming vaststaat, wordt uitgegaan van het referentie-inkomen van deze ouders.<br>
+§ 2. Indien de student zijn hoofdverblijfplaats heeft bij een leefeenheid bestaande uit beide ouders van wie zijn afstamming vaststaat, wordt uitgegaan van het referentie-inkomen van deze ouders.<br>
 <br>
-Indien de leerling of student zijn hoofdverblijfplaats heeft bij een leefeenheid bestaande uit één ouder van wie zijn afstamming vaststaat, wordt uitgegaan van het referentie-inkomen van deze ouder.<br>
+Indien de student zijn hoofdverblijfplaats heeft bij een leefeenheid bestaande uit één ouder van wie zijn afstamming vaststaat, wordt uitgegaan van het referentie-inkomen van deze ouder.<br>
 <br>
-Indien de leerling of student zijn hoofdverblijfplaats heeft bij een leefeenheid bestaande uit één ouder van wie zijn afstamming vaststaat en een partner die als gehuwden in de zin van artikel 5, 15°, van het decreet moeten worden beschouwd, wordt uitgegaan van het referentie-inkomen van de ouder en van de partner.<br>
+Indien de student zijn hoofdverblijfplaats heeft bij een leefeenheid bestaande uit één ouder van wie zijn afstamming vaststaat en een partner die als gehuwden in de zin van artikel 5, 15°, van het decreet van 8 juni 2007&nbsp;moeten worden beschouwd, wordt uitgegaan van het referentie-inkomen van de ouder en van de partner.<br>
 <br>
-§ 3. Indien de leerling of student ingevolge een gerechtelijke uitspraak,&nbsp;een tussenkomst van een publiekrechtelijke overheid of instelling, zijn hoofdverblijfplaats heeft bij een andere natuurlijke persoon dan de ouders of één van de ouders van wie zijn afstamming vaststaat, of al minstens drie jaar fiscaal ten laste is van een andere natuurlijke persoon dan de ouders van wie de afstamming vaststaat, wordt voor de berekening van het referentie-inkomen uitgegaan van de leefeenheid van deze andere natuurlijke persoon.<br>
+§ 3. Indien de student ingevolge een gerechtelijke uitspraak,&nbsp;een tussenkomst van een publiekrechtelijke overheid of instelling, zijn hoofdverblijfplaats heeft bij een andere natuurlijke persoon dan de ouders of één van de ouders van wie zijn afstamming vaststaat, of al minstens drie jaar fiscaal ten laste is van een andere natuurlijke persoon dan de ouders van wie de afstamming vaststaat, wordt voor de berekening van het referentie-inkomen uitgegaan van de leefeenheid van deze andere natuurlijke persoon.<br>
 <br>
-Indien de leerling of student al minstens drie jaar hoofdverblijfplaats heeft bij de leefeenheid van een andere natuurlijke persoon dan de ouders van wie zijn afstamming vaststaat, en waarbij de ten laste neming als dusdanig erkend is door een ziekenfonds of kinderbijslagfonds, wordt voor de berekening van het referentie-inkomen uitgegaan van de leefeenheid van deze andere natuurlijke persoon.<br>
+Indien de student al minstens drie jaar hoofdverblijfplaats heeft bij de leefeenheid van een andere natuurlijke persoon dan de ouders van wie zijn afstamming vaststaat, en waarbij de ten laste neming als dusdanig erkend is door een ziekenfonds of kinderbijslagfonds, wordt voor de berekening van het referentie-inkomen uitgegaan van de leefeenheid van deze andere natuurlijke persoon.<br>
 <br>
 Indien in de gevallen bepaald in het eerste en tweede lid :<br>
-1° de leerling of student hoofdverblijfplaats heeft bij de in het eerste of tweede lid bedoelde natuurlijke persoon, wordt uitgegaan van het referentie-inkomen van deze natuurlijke persoon;<br>
-2° de leerling of student zijn hoofdverblijfplaats heeft bij de in het eerste of tweede lid bedoelde natuurlijke persoon die gehuwd is, wordt uitgegaan van het referentie-inkomen van deze natuurlijke persoon en zijn partner;<br>
-3° de leerling of student zijn hoofdverblijfplaats heeft bij de in het eerste of tweede lid bedoelde natuurlijke persoon en één of meerdere niet-verwanten van deze natuurlijke persoon, wordt uitgegaan van het referentie-inkomen van deze natuurlijke persoon;<br>
+1° de student hoofdverblijfplaats heeft bij de in het eerste of tweede lid bedoelde natuurlijke persoon, wordt uitgegaan van het referentie-inkomen van deze natuurlijke persoon;<br>
+2° de student zijn hoofdverblijfplaats heeft bij de in het eerste of tweede lid bedoelde natuurlijke persoon die gehuwd is, wordt uitgegaan van het referentie-inkomen van deze natuurlijke persoon en zijn partner;<br>
+3° de student zijn hoofdverblijfplaats heeft bij de in het eerste of tweede lid bedoelde natuurlijke persoon en één of meerdere niet-verwanten van deze natuurlijke persoon, wordt uitgegaan van het referentie-inkomen van deze natuurlijke persoon;<br>
 <br>
-§ 4. In geval van feitelijke scheiding in de gevallen bedoeld in § 2, eerste en derde lid en § 3, derde lid, 2° van onderhavig artikel, wordt enkel uitgegaan van het referentie-inkomen van de persoon van wie de leerling of student ten laste is, voorzover een aparte aanslag werd gevestigd.
+§ 4. In geval van feitelijke scheiding in de gevallen bedoeld in § 2, eerste en derde lid en § 3, derde lid, 2° van onderhavig artikel, wordt enkel uitgegaan van het referentie-inkomen van de persoon van wie de student ten laste is, voorzover een aparte aanslag werd gevestigd.
 
 ## Onderafdeling 2. [... (opgeh. BVR 3 mei 2019, art. 12, I: 1 september 2019)] gehuwd student
 
 ### ART. 6.
 
-§ 1. Als de leerling of student uiterlijk op 31 december van het betrokken school- of academiejaar gehuwd is als vermeld in artikel 5, 15°, van het decreet, wordt voor de berekening van de toelage uitgegaan van het referentie-inkomen van beide gehuwden, op voorwaarde dat ze vanaf het ogenblik dat ze als gehuwden in de zin van artikel 5, 15°, van het decreet moeten worden beschouwd tot en met 31 december van het kalenderjaar dat volgt op de aanvang van het betrokken school- of academiejaar, twaalf maanden financiële middelen hebben verworven waarvan het totaal minstens overeenkomt met het leefloon dat op 31 december van het kalenderjaar dat voorafgaat aan het betrokken school- of academiejaar, conform artikel 14, § 1, 1°, eerste lid, 1°, en artikel 15 van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie jaarlijks wordt uitgekeerd aan de persoon die met een of meer personen samenwoont.<br>
+§ 1. Als de student uiterlijk op 31 december van het betrokken academiejaar gehuwd is als vermeld in artikel 5, 15°, van het decreet van 8 juni 2007, wordt voor de berekening van de toelage uitgegaan van het referentie-inkomen van beide gehuwden, op voorwaarde dat ze vanaf het ogenblik dat ze als gehuwden in de zin van artikel 5, 15°, van het decreet van 8 juni 2007 moeten worden beschouwd tot en met 31 december van het kalenderjaar dat volgt op de aanvang van het betrokken academiejaar, twaalf maanden financiële middelen hebben verworven waarvan het totaal minstens overeenkomt met het leefloon dat op 31 december van het kalenderjaar dat voorafgaat aan het betrokken academiejaar, conform artikel 14, § 1, 1°, eerste lid, 1°, en artikel 15 van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie jaarlijks wordt uitgekeerd aan de persoon die met een of meer personen samenwoont.<br>
 <br>
-Het statuut van gehuwde leerling of gehuwd student is verworven vanaf het ogenblik dat wordt voldaan aan deze voorwaarden.<br>
+Het statuut van&nbsp;gehuwd student is verworven vanaf het ogenblik dat wordt voldaan aan deze voorwaarden.<br>
 <br>
 § 2. De in § 1 bedoelde financiële middelen kunnen bestaan uit :<br>
 1° een beroepsinkomen, waarbij onder beroepsinkomen moet worden verstaan het samengestelde bedrag van de beroepsinkomsten na aftrek van de beroepsuitgaven en de beroepsverliezen;<br>
@@ -84,15 +94,46 @@ Het statuut van gehuwde leerling of gehuwd student is verworven vanaf het ogenbl
 8° ...;<br>
 9° het equivalent van leefloon, toegekend in het kader van de wet van 2 april 1965 betreffende het ten laste nemen van de steun, verleend door de openbare centra voor maatschappelijk welzijn.<br>
 <br>
-§ 3. In geval van feitelijke scheiding, wordt enkel uitgegaan van het referentie-inkomen van de leerling of student, voor zover een aparte aanslag werd gevestigd.
+§ 3. In geval van feitelijke scheiding, wordt enkel uitgegaan van het referentie-inkomen van de student, voor zover een aparte aanslag werd gevestigd.
+
+### ART 6/1.
+
+Een student kan het statuut van gehuwde student aantonen conform artikel 6.<br>
+<br>
+Een student of leerling kon voor de inwerkingtreding van dit besluit het statuut van gehuwde student of leerling aantonen conform de voorwaarden, vermeld in de volgende besluiten:<br>
+1° het koninklijk besluit van 23 augustus 1972 tot vaststelling van de minvermogendheid van de kandidaten voor een studietoelage;<br>
+2° het besluit van de Vlaamse regering van 31 augustus 2001 betreffende de studietoelagen voor hoger onderwijs;<br>
+3° het besluit van de Vlaamse regering van 28 mei 2004 betreffende de studiefinanciering en studentenvoorzieningen in het hoger onderwijs van de Vlaamse Gemeenschap.
+
+### ART 6/2.
+
+De student die het statuut van gehuwd leerling of student al heeft aangetoond, behoudt het statuut van gehuwd student, als een van de volgende voorwaarden is vervuld:<br>
+1° de student die nog altijd gehuwd is, of zijn partner, heeft tijdens het kalenderjaar waarin de start van het academiejaar valt, meer financiële middelen verworven dan het nettobedrag, vermeld in artikel 136 van het Wetboek van Inkomstenbelasting;<br>
+2° de student voldoet niet aan de voorwaarden van een andere leefeenheid, vermeld in artikel 5 van dit besluit.<br>
+<br>
+De financiële middelen, vermeld in het eerste lid, kunnen bestaan uit de financiële middelen, vermeld in artikel 6, § 2.
+
+### ART 6/3.
+
+Als de student die het statuut van gehuwde leerling of student al heeft aangetoond, niet aan de voorwaarden voldoet om het statuut te behouden, kan hij het statuut opnieuw verwerven als hij aan al de volgende voorwaarden voldoet:<br>
+1° de student of zijn partner heeft gedurende twaalf maanden financiële middelen verworven;<br>
+2° het totaal van de middelen, vermeld in punt 1°, komt minstens overeen met het leefloon dat op 31 december van het kalenderjaar dat voorafgaat aan het academiejaar in kwestie, jaarlijks wordt uitgekeerd aan de persoon die met een of meer personen samenwoont conform artikel 14, § 1, 1°, en artikel 15 van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie.<br>
+<br>
+De verwerving van financiële middelen gedurende twaalf maanden, vermeld in het eerste lid, 1°, gebeurt tijdens een periode van twee aaneensluitende jaren, die eindigt op 31 december van het jaar waarin het schooljaar in kwestie start.<br>
+<br>
+De financiële middelen, vermeld in het eerste en het tweede lid, kunnen bestaan uit de financiële middelen, vermeld in artikel 6, § 2.
+
+### ART 6/4.
+
+Voor een student die een studietoelage aanvraagt op basis van de voorwaarden om erkend te worden als gehuwde student, en waarbij voorlopig rekening wordt gehouden met attesten van werkgevers, diensten of instellingen, kan een latere verificatie op basis van het door de Federale Overheidsdienst Financiën gecontroleerde inkomen van de kalenderjaren in kwestie aanleiding geven tot het intrekken van het statuut. In dat geval wordt de toelage vervolgens conform artikel 34, § 4, van het decreet van 8 juni 2007 herbekeken en herberekend.
 
 ## Onderafdeling 3. [... (opgeh. BVR 3 mei 2019, art. 15, I: 1 september 2019)] zelfstandig student
 
 ### ART. 7.
 
-§ 1. Wordt beschouwd als zelfstandige leerling of zelfstandig student die een eigen leefeenheid vormt, de leerling of student die niet behoort tot de categorieën omschreven in artikel 5 en artikel 6 en die twaalf maanden financiële middelen heeft verworven waarvan het totaal minstens overeenkomt met het leefloon dat op 31 december van het kalenderjaar voorafgaand aan het betrokken school- of academiejaar overeenkomstig het artikel 14, § 1, 1° en het artikel 15 van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, jaarlijks wordt uitgekeerd aan de persoon die met één of meerdere personen samenwoont.<br>
+§ 1. Wordt beschouwd als zelfstandig student die een eigen leefeenheid vormt, de student die niet behoort tot de categorieën omschreven in artikel 5 en artikel 6 en die twaalf maanden financiële middelen heeft verworven waarvan het totaal minstens overeenkomt met het leefloon dat op 31 december van het kalenderjaar voorafgaand aan het betrokken academiejaar overeenkomstig het artikel 14, § 1, 1° en het artikel 15 van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, jaarlijks wordt uitgekeerd aan de persoon die met één of meerdere personen samenwoont.<br>
 <br>
-Indien de leerling of student voor de eerste keer zijn statuut van zelfstandige leerling of zelfstandig student aantoont, dient de in het eerste lid bedoelde verwerving van twaalf maanden financiële middelen zich te situeren tijdens een periode van twee aaneensluitende kalenderjaren eindigend op 31 december van het kalenderjaar waarin het betrokken school- of academiejaar start of van het school- of academiejaar waarin de aanvatting of de hervatting van de studies viel.<br>
+Indien de student voor de eerste keer zijn statuut van zelfstandig student aantoont, dient de in het eerste lid bedoelde verwerving van twaalf maanden financiële middelen zich te situeren tijdens een periode van twee aaneensluitende kalenderjaren eindigend op 31 december van het kalenderjaar waarin het betrokken academiejaar start of van het academiejaar waarin de aanvatting of de hervatting van de studies viel.<br>
 <br>
 § 2. De in § 1 bedoelde financiële middelen kunnen bestaan uit :<br>
 1° een beroepsinkomen, waarbij onder beroepsinkomen moet worden verstaan het samengestelde bedrag van de beroepsinkomsten na aftrek van de beroepsuitgaven en de beroepsverliezen;<br>
@@ -105,71 +146,66 @@ Indien de leerling of student voor de eerste keer zijn statuut van zelfstandige 
 8° het equivalent van leefloon, toegekend in het kader van de wet van 2 april 1965 betreffende het ten laste nemen van de steun verleend door de openbare centra voor maatschappelijk welzijn;<br>
 9° ...
 
+### ART 7/1.
+
+Een student kan het statuut van zelfstandig student aantonen conform artikel 7.<br>
+<br>
+Een student of leerling kon voor de inwerkingtreding van dit besluit het statuut van zelfstandige student of leerling aantonen conform de voorwaarden, vermeld in de volgende besluiten:<br>
+1° het koninklijk besluit van 23 augustus 1972 tot vaststelling van de minvermogendheid van de kandidaten voor een studietoelage;<br>
+2° het besluit van de Vlaamse regering van 31 augustus 2001 betreffende de studietoelagen voor hoger onderwijs;<br>
+3° het besluit van de Vlaamse regering van 28 mei 2004 betreffende de studiefinanciering en studentenvoorzieningen in het hoger onderwijs van de Vlaamse Gemeenschap.
+
+### ART 7/2.
+
+De student die het statuut van zelfstandige leerling of student al heeft aangetoond, behoudt het statuut van zelfstandige student, als een van de volgende voorwaarden is vervuld:<br>
+1° de student heeft tijdens het kalenderjaar waarin de start van het academiejaar valt, meer financiële middelen verworven dan het nettobedrag, vermeld in artikel 136 van het Wetboek van Inkomstenbelasting;<br>
+2° de student voldoet niet aan de voorwaarden van een andere leefeenheid, vermeld in artikel 5 en 6 van dit besluit.<br>
+<br>
+De financiële middelen, vermeld in het eerste lid, kunnen bestaan uit de financiële middelen, vermeld in artikel 7, § 2.
+
+### ART 7/3.
+
+Als de student die het statuut van zelfstandige leerling of student al heeft aangetoond, niet aan de voorwaarden voldoet om het statuut te behouden, kan hij het statuut opnieuw verwerven als hij aan al de volgende voorwaarden voldoet:<br>
+1° de student heeft gedurende twaalf maanden financiële middelen verworven;<br>
+2° het totaal van de middelen, vermeld in punt 1°, komt minstens overeen met het leefloon dat op 31 december van het kalenderjaar dat voorafgaat aan het academiejaar in kwestie, jaarlijks wordt uitgekeerd aan de persoon die met een of meer personen samenwoont conform artikel 14, § 1, 1°, en artikel 15 van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie.<br>
+<br>
+De verwerving van financiële middelen gedurende twaalf maanden, vermeld in het eerste lid, 1°, gebeurt tijdens een periode van twee aaneensluitende jaren, die eindigt op 31 december van het jaar waarin het schooljaar in kwestie start.<br>
+<br>
+De financiële middelen, vermeld in het eerste en het tweede lid, kunnen bestaan uit de financiële middelen, vermeld in artikel 7, § 2.
+
+### ART 7/4.
+
+Voor een student die een aanvraag voor een studietoelage indient op basis van de voorwaarden om erkend te worden als zelfstandige student, en waarbij voorlopig rekening wordt gehouden met attesten van werkgevers, diensten of instellingen, kan een latere verificatie op basis van de door de Federale Overheidsdienst Financiën gecontroleerde inkomen van de kalenderjaren in kwestie aanleiding geven tot het intrekken van het statuut. In dat geval wordt de toelage vervolgens conform artikel 34, § 4, van het decreet van 8 juni 2007 herbekeken en herberekend.
+
 ## Onderafdeling 4. [... (opgeh. BVR 3 mei 2019, art. 18, I: 1 september 2019)] alleenstaande student
 
 ### ART. 8.
 
-Wordt beschouwd als alleenstaande leerling of student met eigen leefeenheid, de leerling of student die niet behoort tot de categorieën bepaald in artikel 5, artikel 6 en artikel 7, maar die behoort tot één van de volgende categorieën :<br>
-1° de wees van wie beide ouders waarvan zijn afstamming vaststaat overleden zijn, de wees die hoofdverblijfplaats had bij een overleden ouder waarvan de afstamming vaststaat en waarvan de uit de echt gescheiden en overlevende ouder waarvan de afstamming vaststaat een andere hoofdverblijfplaats heeft dan de leerling of student, en de door de kinderbijslag erkende verlaten wees met wie de overlevende ouder waarvan de afstamming vaststaat geen betrekkingen meer onderhoudt en niet geldelijk tussenkomt in de onderhoudskosten van de leerling of student;<br>
+Wordt beschouwd als student met eigen leefeenheid, de student die niet behoort tot de categorieën bepaald in artikel 5, artikel 6 en artikel 7, maar die behoort tot één van de volgende categorieën :<br>
+1° de wees van wie beide ouders waarvan zijn afstamming vaststaat overleden zijn, de wees die hoofdverblijfplaats had bij een overleden ouder waarvan de afstamming vaststaat en waarvan de uit de echt gescheiden en overlevende ouder waarvan de afstamming vaststaat een andere hoofdverblijfplaats heeft dan de student, en de door de kinderbijslag erkende verlaten wees met wie de overlevende ouder waarvan de afstamming vaststaat geen betrekkingen meer onderhoudt en niet geldelijk tussenkomt in de onderhoudskosten van de student;<br>
 2° diegene van wie de langstlevende ouder of beide ouders ontzet is of zijn uit het ouderlijke gezag;<br>
-3° diegene die uiterlijk 31 december van het lopende school- of academiejaar in het kader van de wet van 8 april 1965 betreffende de jeugdbescherming of de gecoördineerde decreten van 4 april 1990 inzake bijzondere jeugdbijstand opgenomen is in een erkende voorziening van categorie 1, 2 of 6 zoals bepaald in artikel 3 van het besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand; en degene die zelfstandig woont en begeleid wordt door een erkende voorziening van categorie 1, 2 of 6, zoals bepaald in artikel 3 van voornoemd besluit;<br>
-3° /1 degene die uiterlijk op 31 december van het betrokken school- of academiejaar verblijft in een organisatie voor bijzondere jeugdzorg, een onthaal-, oriëntatie- en observatiecentrum of een centrum voor integrale gezinszorg, of contextbegeleiding krijgt in het kader van autonoom wonen als vermeld in artikel 53bis, 53duodecies en 53septiesdecies en bijlage 9 van het besluit van de Vlaamse regering van 13 juli 1994 inzake de erkenningsvoorwaarden en subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand, met uitzondering van kortdurend crisisverblijf;<br>
-4° diegene die voor 31 december van het betrokken school- of academiejaar opgenomen werd in een erkende voorziening van categorie 1, 2, 6 of 7 zoals bepaald in artikel 3 van het besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand, doch ingevolge zijn meerderjarigheid ophield onder de bevoegdheid te vallen van een comité voor bijzondere jeugdzorg of een jeugdrechtbank, of in het verleden het voorwerp was van voortgezette hulpverlening na meerderjarigheid ingevolge van artikel 30 van de gecoördineerde decreten van 4 april 1990 inzake bijzondere jeugdbijstand;<br>
-4° /1 degene die in het verleden en uiterlijk op 31 december van het betrokken school- of academiejaar verbleef in een organisatie voor bijzondere jeugdzorg, een onthaal-, oriëntatie- en observatiecentrum of een centrum voor integrale gezinszorg, of contextbegeleiding kreeg in het kader van autonoom wonen als vermeld in artikel 53bis, 53duodecies en 53septiesdecies en bijlage 9 van het besluit van de Vlaamse regering van 13 juli 1994 inzake de erkenningsvoorwaarden en subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand, met uitzondering van kortdurend crisisverblijf, of een pleegkind of een pleeggast als vermeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg;<br>
-5° degene die uiterlijk op 31 december van het betrokken school- of academiejaar ingevolge een beslissing van een jeugdrechter of publiekrechtelijke overheid opgenomen wordt in een multifunctioneel centrum dat erkend is door het Vlaams Agentschap voor Personen met een Handicap, als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
-5° /1 degene die in het verleden en uiterlijk op 31 december van het betrokken school- of academiejaar door een beslissing van een jeugdrechter of publiekrechtelijke overheid opgenomen werd in een multifunctioneel centrum dat erkend is door het Vlaams Agentschap voor Personen met een Handicap, als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
-6° diegene die uiterlijk op 31 december van het betrokken school- of academiejaar valt onder het project voor maatschappelijke integratie bedoeld in artikel 11, § 2, a) en leefloon ontvangt overeenkomstig artikel 14, § 1, 2°, 3° en 4°, van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie;<br>
+3° diegene die uiterlijk 31 december van het lopende academiejaar in het kader van de wet van 8 april 1965 betreffende de jeugdbescherming of de gecoördineerde decreten van 4 april 1990 inzake bijzondere jeugdbijstand opgenomen is in een erkende voorziening van categorie 1, 2 of 6 zoals bepaald in artikel 3 van het besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand; en degene die zelfstandig woont en begeleid wordt door een erkende voorziening van categorie 1, 2 of 6, zoals bepaald in artikel 3 van voornoemd besluit;<br>
+3° /1 degene die uiterlijk op 31 december van het betrokken academiejaar verblijft in een organisatie voor bijzondere jeugdzorg, een onthaal-, oriëntatie- en observatiecentrum of een centrum voor integrale gezinszorg, of contextbegeleiding krijgt in het kader van autonoom wonen als vermeld in artikel 53bis, 53duodecies en 53septiesdecies en bijlage 9 van het besluit van de Vlaamse regering van 13 juli 1994 inzake de erkenningsvoorwaarden en subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand, met uitzondering van kortdurend crisisverblijf;<br>
+4° diegene die voor 31 december van het betrokken academiejaar opgenomen werd in een erkende voorziening van categorie 1, 2, 6 of 7 zoals bepaald in artikel 3 van het besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand, doch ingevolge zijn meerderjarigheid ophield onder de bevoegdheid te vallen van een comité voor bijzondere jeugdzorg of een jeugdrechtbank, of in het verleden het voorwerp was van voortgezette hulpverlening na meerderjarigheid ingevolge van artikel 30 van de gecoördineerde decreten van 4 april 1990 inzake bijzondere jeugdbijstand;<br>
+4° /1 degene die in het verleden en uiterlijk op 31 december van het betrokken&nbsp;academiejaar verbleef in een organisatie voor bijzondere jeugdzorg, een onthaal-, oriëntatie- en observatiecentrum of een centrum voor integrale gezinszorg, of contextbegeleiding kreeg in het kader van autonoom wonen als vermeld in artikel 53bis, 53duodecies en 53septiesdecies en bijlage 9 van het besluit van de Vlaamse regering van 13 juli 1994 inzake de erkenningsvoorwaarden en subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand, met uitzondering van kortdurend crisisverblijf, of een pleegkind of een pleeggast als vermeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg;<br>
+5° degene die uiterlijk op 31 december van het betrokken academiejaar ingevolge een beslissing van een jeugdrechter of publiekrechtelijke overheid opgenomen wordt in een multifunctioneel centrum dat erkend is door het Vlaams Agentschap voor Personen met een Handicap, als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
+5° /1 degene die in het verleden en uiterlijk op 31 december van het betrokken academiejaar door een beslissing van een jeugdrechter of publiekrechtelijke overheid opgenomen werd in een multifunctioneel centrum dat erkend is door het Vlaams Agentschap voor Personen met een Handicap, als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
+6° diegene die uiterlijk op 31 december van het betrokken academiejaar valt onder het project voor maatschappelijke integratie bedoeld in artikel 11, § 2, a) en leefloon ontvangt overeenkomstig artikel 14, § 1, 2°, 3° en 4°, van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie;<br>
 7° slachtoffers van mensenhandel, geattesteerd door een door de overheid erkend centrum dat gespecialiseerd is in het onthaal van slachtoffers van mensenhandel;<br>
-8° de leerling of student die zelf een asielprocedure heeft lopen, zoals bedoeld in artikel 69 van het decreet;<br>
-9° de persoon zoals bedoeld in artikel 9, § 2, 6° van het decreet;<br>
-10° de persoon zoals bedoeld in artikel 9, § 2, 7° van het decreet;<br>
-11° de persoon zoals bedoeld in artikel 9, § 2, 8° van het decreet.
+8° de student die zelf een asielprocedure heeft lopen, zoals bedoeld in artikel 69 van het decreet van 8 juni 2007;<br>
+9° de persoon zoals bedoeld in artikel 9, § 2, 6° van het decreet van 8 juni 2007;<br>
+10° de persoon zoals bedoeld in artikel 9, § 2, 7° van het decreet van 8 juni 2007;<br>
+11° de persoon zoals bedoeld in artikel 9, § 2, 8° van het decreet van 8 juni 2007.
 
 ## Onderafdeling 5. Slotbepalingen
 
 ### ART. 9.
 
-§ 1. De persoon die vóór de inwerkingtreding van dit besluit het statuut van gehuwd of zelfstandig leerling overeenkomstig artikel 5, respectievelijk artikel 4, 1° van het koninklijk besluit van 23 augustus 1972 tot vaststelling van de minvermogendheid van de kandidaten voor een studietoelage heeft aangetoond, wordt eveneens beschouwd als een gehuwde, respectievelijk zelfstandige leerling of student, indien een van de volgende voorwaarden is vervuld :<br>
-1° de nog steeds gehuwde leerling/student en/of zijn partner, respectievelijk de leerling/student, heeft tijdens het kalenderjaar waarbinnen de start van het school- of academiejaar valt, meer financiële middelen verworven dan het in artikel 136 van het Wetboek van Inkomstenbelasting bepaald nettobedrag;<br>
-2° de leerling of student voldoet niet aan de voorwaarden van een andere leefeenheid, opgesomd in artikel 5 en artikel 7, respectievelijk artikel 6 van onderhavig besluit.<br>
-<br>
-§ 2. De persoon die vóór de inwerkingtreding van dit besluit het statuut van gehuwd of zelfstandig student overeenkomstig artikel 6, respectievelijk artikel 7 van het besluit van de Vlaamse Regering van 31 augustus 2001 houdende regeling van de studietoelagen voor het hoger onderwijs van de Vlaamse Gemeenschap heeft aangetoond, wordt eveneens beschouwd als gehuwd, respectievelijk zelfstandig student of leerling, indien een van volgende voorwaarden is vervuld :<br>
-1° de nog steeds gehuwde leerling/student en/of zijn partner, respectievelijk de leerling/student heeft tijdens het kalenderjaar waarbinnen de start van het school- of academiejaar valt meer financiële middelen verworven dan het in artikel 136 van het Wetboek van Inkomstenbelasting bepaald nettobedrag;<br>
-2° de leerling of student voldoet niet aan de voorwaarden van een andere leefeenheid, opgesomd in artikel 5 en 7, respectievelijk 6 van onderhavig besluit.<br>
-<br>
-§ 3. De persoon die vóór de inwerkingtreding van dit besluit het statuut van gehuwd of zelfstandig student overeenkomstig artikel 5, respectievelijk artikel 6 van het besluit van de Vlaamse Regering van 28 mei 2004 betreffende de studiefinanciering en studentenvoorzieningen in het hoger onderwijs van de Vlaamse Gemeenschap aangetoond heeft, en het statuut van gehuwd, respectievelijk zelfstandig student niet verloor, overeenkomstig artikel 8, § 3 van datzelfde besluit, wordt eveneens beschouwd als gehuwd, respectievelijk zelfstandig student of leerling, indien een van de volgende voorwaarden is vervuld :<br>
-1° de nog steeds gehuwde leerling/student en/of zijn partner, respectievelijk de leerling/student heeft tijdens het kalenderjaar waarbinnen de start van het school- of academiejaar valt meer financiële middelen verworven dan het in artikel 136 van het Wetboek van Inkomstenbelasting bepaald nettobedrag;<br>
-2° de leerling of student voldoet niet aan de voorwaarden van een andere leefeenheid, opgesomd in artikel 5 en 7, respectievelijk 6 van onderhavig besluit.<br>
-<br>
-§ 4. De leerling die reeds eerder conform de voorwaarden van dit besluit het statuut van gehuwd of zelfstandig leerling of student heeft aangetoond, behoudt het statuut van gehuwde, respectievelijk zelfstandige leerling, indien een van de volgende voorwaarden is vervuld :<br>
-1° de nog steeds gehuwde leerling en/of zijn partner, respectievelijk de leerling, heeft tijdens het kalenderjaar waarbinnen de start van het schooljaar valt, meer financiële middelen verworven dan het in artikel 136 van het Wetboek van Inkomstenbelasting bepaald nettobedrag;<br>
-2° de leerling voldoet niet aan de voorwaarden van een andere leefeenheid, opgesomd in artikel 5 en 7, respectievelijk 6 van onderhavig besluit.<br>
-<br>
-§ 5. De student die reeds eerder conform de voorwaarden van dit besluit het statuut van gehuwd of zelfstandig leerling of student heeft aangetoond, behoudt het statuut van gehuwd, respectievelijk zelfstandig student, indien een van de volgende voorwaarden is vervuld :<br>
-1° de nog steeds gehuwde student en/of zijn partner, respectievelijk de student heeft tijdens het kalenderjaar waarbinnen de start van het academiejaar valt meer financiële middelen verworven dan het in artikel 136 van het Wetboek van Inkomstenbelasting bepaald nettobedrag;<br>
-2° de student voldoet niet aan de voorwaarden van een andere leefeenheid, opgesomd in artikel 5 en 7, respectievelijk 6.<br>
-<br>
-§ 6. Indien de persoon die reeds eerder conform het koninklijk besluit van 23 augustus 1972 tot vaststelling van de minvermogendheid van de kandidaten voor een studietoelage of conform dit besluit zijn statuut heeft aangetoond op grond van de voorwaarden voor gehuwde, respectievelijk zelfstandige leerling, niet aan de voorwaarden voldoet om het statuut te behouden, zoals bepaald in § 1 en § 4 van dit artikel, kan hij het statuut opnieuw verwerven indien de leerling/student en/of zijn partner, respectievelijk de leerling/student, twaalf maanden financiële middelen heeft verworven, waarvan het totaal minstens overeenkomt met het leefloon dat op 31 december van het kalenderjaar voorafgaand aan het betrokken school- of academiejaar, overeenkomstig het artikel 14, § 1, 1° en het artikel 15 van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie jaarlijks wordt uitgekeerd aan de persoon die met één of meerdere personen samenwoont.<br>
-<br>
-De verwerving van twaalf maanden financiële middelen dient zich te situeren tijdens een periode van twee aaneensluitende kalenderjaren eindigend op 31 december van het kalenderjaar waarin het betrokken schooljaar start.<br>
-<br>
-§ 7. Indien de persoon die reeds eerder conform het besluit van de Vlaamse Regering van 31 augustus 2001 betreffende de studietoelagen voor hoger onderwijs, conform het besluit van de Vlaamse Regering van 28 mei 2004 betreffende de studiefinanciering of studentenvoorzieningen in het hoger onderwijs van de Vlaamse Gemeenschap of conform dit besluit zijn statuut heeft aangetoond op grond van de voorwaarden voor gehuwd, respectievelijk zelfstandig student, niet aan de voorwaarden voldoet om het statuut te behouden, zoals bepaald in §§ 2, 3, en 5, kan hij het statuut opnieuw verwerven indien de leerling/student en/of zijn partner, respectievelijk de leerling/student, twaalf maanden financiële middelen heeft verworven, waarvan het totaal minstens overeenkomt met het leefloon dat op 31 december van het kalenderjaar voorafgaand aan het betrokken school- of academiejaar, overeenkomstig artikel 14, § 1, 1° en het artikel 15 van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie jaarlijks wordt uitgekeerd aan de persoon die met één of meerdere personen samenwoont.<br>
-<br>
-De verwerving van twaalf maanden financiële middelen dient zich te situeren tijdens een periode van twee aaneensluitende kalenderjaren. Deze twee aaneensluitende kalenderjaren eindigen op 31 december van het kalenderjaar waarin het betrokken academiejaar start.<br>
-<br>
-§ 8. Behoudens andersluidende bepaling, kunnen de in dit artikel bedoelde financiële middelen bestaan uit :<br>
-1° een beroepsinkomen, waarbij onder beroepsinkomen moet worden verstaan het samengestelde bedrag van de beroepsinkomsten na aftrek van de beroepsuitgaven en de beroepsverliezen;<br>
-2° een bruto belastbare werkloosheidsuitkering;<br>
-3° een bruto belastbare arbeidsongeschiktheidsuitkering of -vergoeding;<br>
-4° een bruto belastbaar ander vervangingsinkomen verkregen uit eigen beroepsactiviteit;<br>
-5° een inkomensvervangende tegemoetkoming, toegekend in het raam van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan gehandicapten;<br>
-6° een bruto belastbaar rust- of overlevingspensioen;<br>
-7° het leefloon toegekend in het raam van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie;<br>
-8° ...
+...
 
 ### ART. 10.
 
-Voor een leerling of student die een aanvraag voor een school- of een studietoelage indient op basis van de categorie van gehuwde of zelfstandige leerling of student, bepaald in artikel 6, artikel 7 en artikel 9 van dit besluit, waarbij voorlopig rekening wordt gehouden met attesten van werkgevers, diensten of instellingen, kan een latere verificatie op basis van de door de Administratie der Belastingen nageziene inkomen van de betrokken kalenderjaren aanleiding geven tot het intrekken van het statuut. De toelage wordt vervolgens conform artikel 34, § 4 van het decreet herbekeken en herberekend.<br />
+...
 
 ## Afdeling 2. Referentie-inkomen
 
@@ -177,22 +213,30 @@ Voor een leerling of student die een aanvraag voor een school- of een studietoel
 
 ### ART. 11.
 
-§ 1. Het inkomen en kadastraal inkomen waarvan sprake is in artikel 35 en 38 van het decreet, is het inkomen en kadastraal inkomen dat blijkt uit de belastingtoestand van het tweede kalenderjaar dat het jaar voorafgaat waarin het betrokken school- of academiejaar begint.<br /><br />Onder belastingtoestand wordt die toestand verstaan, die blijkt uit de door de Federale Overheidsdienst Financiën nageziene inkomsten met betrekking tot de aanslag van dat jaar, afgeleverd door de fiscale administraties.<br /><br />§ 2. Wanneer naar aanleiding van de latere verificatie de aanslag, bedoeld in § 1, herzien wordt, moet met de herziene aanslag rekening worden gehouden.<br /><br />§ 3. Niet-belastbare inkomsten worden vastgesteld aan de hand van attesten van werkgevers, diensten of instellingen.<br />
+§ 1. Het inkomen en kadastraal inkomen waarvan sprake is in artikel 35 en 38 van het decreet van 8 juni 2007, is het inkomen en kadastraal inkomen dat blijkt uit de belastingtoestand van het tweede kalenderjaar dat het jaar voorafgaat waarin het betrokken&nbsp;academiejaar begint.<br>
+<br>
+Onder belastingtoestand wordt die toestand verstaan, die blijkt uit de door de Federale Overheidsdienst Financiën nageziene inkomsten met betrekking tot de aanslag van dat jaar, afgeleverd door de fiscale administraties.<br>
+<br>
+§ 2. Wanneer naar aanleiding van de latere verificatie de aanslag, bedoeld in § 1, herzien wordt, moet met de herziene aanslag rekening worden gehouden.<br>
+<br>
+§ 3. Niet-belastbare inkomsten worden vastgesteld aan de hand van attesten van werkgevers, diensten of instellingen.
 
 ### ART. 12.
 
-Het inkomen dat in het buitenland of bij een Europese of andere internationale instelling verworven wordt, wordt zowel voor het bepalen van de categorie van leefeenheid waartoe de leerling of student behoort als voor de voorlopige en de definitieve berekening van de toelage, vastgesteld op basis van attesten uitgereikt door de buitenlandse belastingdienst, of, wanneer die ontbreken, door de werkgevers, diensten of instellingen.<br /><br />Voor de omrekening naar het referentie-inkomen in de zin van artikel 35 van het decreet, worden de in het Wetboek van Inkomstenbelastingen geldende regels gevolgd.<br />
+Het inkomen dat in het buitenland of bij een Europese of andere internationale instelling verworven wordt, wordt zowel voor het bepalen van de categorie van leefeenheid waartoe de student behoort als voor de voorlopige en de definitieve berekening van de toelage, vastgesteld op basis van attesten uitgereikt door de buitenlandse belastingdienst, of, wanneer die ontbreken, door de werkgevers, diensten of instellingen.<br>
+<br>
+Voor de omrekening naar het referentie-inkomen in de zin van artikel 35 van het decreet van 8 juni 2007, worden de in het Wetboek van Inkomstenbelastingen geldende regels gevolgd.
 
 ## Onderafdeling 2. Afwijking van het referentiejaar
 
 ### ART. 13.
 
-§ 1. Van het in aanmerking te nemen jaar waarin inkomsten worden verworven, bepaald in artikel 11, § 1, moet worden afgeweken indien de leerling of student slechts na het in artikel 11, § 1, bedoelde in aanmerking te nemen jaar :<br>
+§ 1. Van het in aanmerking te nemen jaar waarin inkomsten worden verworven, bepaald in artikel 11, § 1, moet worden afgeweken indien de student slechts na het in artikel 11, § 1, bedoelde in aanmerking te nemen jaar :<br>
 a) hetzij voldoet aan de voorwaarden van een andere leefeenheid die ressorteert onder artikel 5, waarbij rekening wordt gehouden met het referentie-inkomen van het kalenderjaar waarin aan de voorwaarden van de betrokken leefeenheid, bepaald in artikel 5, wordt voldaan;<br>
 b) hetzij voldoet aan de voorwaarden bepaald in artikel 6 of artikel 7, waarbij rekening wordt gehouden met het referentie-inkomen van het kalenderjaar waarin de in artikel 6 of artikel 7 bedoelde twaalfde maand valt;<br>
 c) hetzij ressorteert onder artikel 8, waarbij rekening wordt gehouden met het referentie-inkomen van het kalenderjaar waarin aan de voorwaarden bepaald in artikel 8, wordt voldaan;<br>
-d) hetzij het statuut van gehuwd of zelfstandig leerling of student behoudt, zoals bedoeld in artikel 9, § 1 tot en met 5, waarbij rekening gehouden wordt met het referentie-inkomen van het kalenderjaar waarin de in artikel 6, artikel 7 of artikel 9, § 6 of § 7 bedoelde twaalfde maand valt;<br>
-e) hetzij het statuut van gehuwd of zelfstandig leerling of student opnieuw verwerft, waarbij rekening gehouden wordt met het referentie-inkomen van het kalenderjaar waarin de in artikel 9, § 6 of 7 bedoelde twaalfde maand valt.<br>
+d) hetzij het statuut van gehuwd of zelfstandig leerling of student behoudt als vermeld in artikel 6 en 7, waarbij rekening gehouden wordt met het referentie-inkomen van het kalenderjaar waarin de twaalfde maand, vermeld in artikel 6 of 7, valt;<br>
+e) hetzij het statuut van gehuwd of zelfstandig leerling of student opnieuw verwerft, waarbij rekening gehouden wordt met het referentie-inkomen van het kalenderjaar waarin de twaalfde maand, vermeld in artikel 6 of 7, valt.<br>
 <br>
 Van het in aanmerking te nemen jaar, vermeld in artikel 11, § 1, van dit besluit, moet ook worden afgeweken als er tegelijkertijd aan al de onderstaande voorwaarden voldaan wordt:<br>
 1° aan een van de personen op wiens inkomen de toelage wordt berekend, wordt pas in de loop van of na het in aanmerking te nemen jaar, vermeld in artikel 11, § 1, van dit besluit, een van de volgende verblijfstitels verleend:<br>
@@ -202,7 +246,7 @@ b) persoon met een buitenlandse nationaliteit die toegelaten is tot een verblijf
 <br>
 In dat geval wordt rekening gehouden met het referentie-inkomen van het eerste kalenderjaar dat volgt op het jaar waarin de verblijfstitel is verkregen.<br>
 <br>
-§ 2. Behalve in geval van de toepassing van hetzij artikel 6 waarbij de twaalfde maand van het verwerven van inkomen na 31 december van het school- of academiejaar in kwestie gebeurt, hetzij artikel 13, § 1, tweede lid, waarbij de verblijfstitel toegekend wordt tijdens het kalenderjaar waarin het school- of academiejaar in kwestie begint, kan van het in aanmerking te nemen jaar waarin inkomsten worden verworven, vermeld in artikel 11 en 13, § 1, worden afgeweken, als het inkomen van het kalenderjaar waarin het school- of academiejaar begint, vermoedelijk lager ligt dan het normaal in aanmerking te nemen inkomstenjaar. In dat geval kan rekening worden gehouden met het vermoedelijke inkomen van het kalenderjaar waarin het school- of academiejaar in kwestie begint.<br>
+§ 2. Behalve in geval van de toepassing van hetzij artikel 6 waarbij de twaalfde maand van het verwerven van inkomen na 31 december van het academiejaar in kwestie gebeurt, hetzij artikel 13, § 1, tweede lid, waarbij de verblijfstitel toegekend wordt tijdens het kalenderjaar waarin het academiejaar in kwestie begint, kan van het in aanmerking te nemen jaar waarin inkomsten worden verworven, vermeld in artikel 11 en 13, § 1, worden afgeweken, als het inkomen van het kalenderjaar waarin het academiejaar begint, vermoedelijk lager ligt dan het normaal in aanmerking te nemen inkomstenjaar. In dat geval kan rekening worden gehouden met het vermoedelijke inkomen van het kalenderjaar waarin het academiejaar in kwestie begint.<br>
 <br>
 § 3. Voor de gevallen bepaald in § 1 en 2, waarbij rekening wordt gehouden met een vermoedelijk inkomen, wordt er voorlopig rekening gehouden met het inkomen van de leefeenheid, zoals dit blijkt uit attesten van werkgevers, diensten of instellingen.<br>
 <br>
@@ -216,7 +260,13 @@ In dat geval wordt rekening gehouden met het referentie-inkomen van het eerste k
 
 ### ART. 15.
 
-In uitvoering van artikel 46 van het decreet, worden de bedragen genoemd in de artikelen 43, 48, 49, 50 en 51 van het decreet aangepast overeenkomstig de procentuele stijging van het indexcijfer bedoeld in het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen voor de maand december (basis 1996) van het tweede kalenderjaar dat het jaar voorafgaat waarin het betrokken academiejaar begint, ten opzichte van het indexcijfer voor de maand december (basis 1996) van het derde kalenderjaar dat het jaar voorafgaat waarin het betrokken academiejaar begint. Deze stijging wordt afgerond naar het hogere tiende.<br /><br />Het resultaat van de indexatie van de bedragen genoemd in de artikelen 43, 48, 49, 50 en 51 wordt afgerond tot op de tweede decimaal.<br />
+De bedragen, vermeld in artikel 43 en 51 van het decreet van 8 juni 2007, worden aangepast overeenkomstig de procentuele stijging van het indexcijfer, vermeld in artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, voor de maand december (basis 1996) van het tweede kalenderjaar dat het jaar voorafgaat waarin het academiejaar in kwestie begint, ten opzichte van het indexcijfer voor de maand december (basis 1996) van het derde kalenderjaar dat het jaar voorafgaat waarin het academiejaar in kwestie begint. Die stijging wordt afgerond naar het hogere tiende.<br>
+<br>
+Het resultaat van de indexatie van de bedragen, vermeld in artikel 43 en 51 van het voormelde decreet, wordt afgerond tot op de tweede decimaal.
+
+### ART 15/1.
+
+De dienst betaalt de selectieve participatietoeslag student, vermeld in artikel 49 en artikel 50 van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid, gelijktijdig met de studietoelage.
 
 ## HOOFDSTUK III. Procedurele voorwaarden
 
@@ -228,7 +278,7 @@ De aanvraag voor een toelage wordt ingediend door middel van een formulier dat t
 
 ### ART. 17.
 
-De meerderjarige leerling of de wettelijke vertegenwoordiger kan de dienst   verzoeken de toelage geheel of gedeeltelijk uit te betalen aan een openbare   instelling die de aanvrager begeleidt ter bescherming van diens financiële   belangen.<BR><BR>De schooltoelage voor een gehuwde, zelfstandige of   alleenstaande leerling, wordt steeds uitbetaald aan de leerling zelf.<BR><BR>De   schooltoelage voor pleegkinderen of pleeggasten die op 31 december van het   schooljaar in kwestie langer dan een jaar onafgebroken bij hetzelfde pleeggezin   verblijven als vermeld in artikel 33, tweede lid, van het decreet, wordt   uitbetaald aan deze pleegouder.<BR>
+...
 
 ## Afdeling 2. Terugvordering
 
