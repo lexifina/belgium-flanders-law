@@ -2,16 +2,16 @@
   "codex_id": 1023062,
   "title": "Besluit van de Vlaamse Regering van 2013-05-24 houdende subsidiëring van bedrijventerreinen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023062/VolledigDocument?datum=2016-07-15",
-  "source_sha256": "ff895f8472af70e6c89c9e183c26dc3259e97e04a95ffa8e27131806af086a46",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023062/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "b989e901b9a03be034afaeb6103a9bc99ac9e56359dd77b2c389e87fa34a2038",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023062&param=informatie",
-  "as_of": "2016-07-15",
+  "as_of": "2019-09-01",
   "made": "2013-05-24",
   "gazette": "2013-07-10",
   "numac": 2013035619,
   "document_start": "2013-07-20",
   "document_end": "2019-08-31",
-  "in_force": "2016-07-15",
+  "in_force": "2019-09-01",
   "article_versions": 70,
-  "record_form": "consolidated version as in force on 2016-07-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
 }
