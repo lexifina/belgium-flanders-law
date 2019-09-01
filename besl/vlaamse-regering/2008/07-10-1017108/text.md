@@ -7,13 +7,13 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 ### ART. 1.
 
 Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het secundair volwassenenonderwijs op de volgende wijze vastgelegd in de volgende bijlagen die bij dit besluit zijn gevoegd:<br>
-1° bijlage V voor het studiegebied huishoudhulp;<br>
+1° bijlage IX voor het studiegebied huishoudhulp;<br>
 2° bijlage VI voor het studiegebied huishoudelijk koken;<br>
 3° bijlage VII en VIII voor het studiegebied huishoudelijke decoratie- en naaitechnieken.
 
 ### ART. 2.
 
-Het opleidingsprofiel, vastgelegd in bijlage VIII, wordt uiterlijk tijdens het schooljaar 2021-2022 geëvalueerd. De resultaten van die evaluatie worden besproken met de pedagogische begeleidingsdiensten en het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs.
+Het opleidingsprofiel, vastgelegd in bijlage VIII, wordt uiterlijk tijdens het schooljaar 2021-2022 geëvalueerd. Het opleidingsprofiel dat vastgelegd is in bijlage IX, wordt uiterlijk tijdens het schooljaar 2022-2023 geëvalueerd. De resultaten van die evaluatie worden besproken met de pedagogische begeleidingsdiensten en het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs.
 
 ### ART. 3.
 
@@ -66,3 +66,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE VIII
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/10_1.pdf#page=179">Bijlage VIII</a>
+
+### BIJLAGE IX
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/27_1.pdf#page=144">Bijlage IX</a>
