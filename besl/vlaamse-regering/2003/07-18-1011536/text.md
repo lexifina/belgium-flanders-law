@@ -10,7 +10,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° de   minister: d
 
 ### ART. 2.
 
-§ 1. Er kan steun worden verleend voor het volgen van opleiding door   werknemers bij een erkende verstrekker. De werknemer kan voor de opleiding   kiezen uit een lijst van erkende verstrekkers.<BR><BR>§ 2. De erkende   verstrekker reikt aan de deelnemer, nadat de opleiding werd beëindigd, een   attest op naam uit, waaruit blijkt dat de werknemer de opleiding heeft gevolgd   en/of welke competenties door de werknemer werden verworven.<BR><BR>De minister   kan, na advies van de raad van bestuur van de VDAB, nadere vormvereisten van het   attest bepalen.
+...
 
 ## HOOFDSTUK III [... (opgeh. BVR 17 mei 2019, art. 17, I: 1 september 2019)]
 
@@ -18,13 +18,13 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° de   minister: d
 
 ### ART. 3.
 
-§ 1. De minister erkent, na advies van de raad van bestuur van de VDAB, een instelling of organisatie als opleidingsverstrekker.<br /><br />§ 2. De minister bepaalt de criteria inzake de toekenning van de erkenning van de opleidingsverstrekkers.<br /><br />§ 3. De volgende opleidingsverstrekkers worden automatisch erkend :<br />1° de dienstverleners die al erkend zijn in de pijler opleiding in het kader van het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten;<br />2° de sectorale instellingen die nog niet erkend zijn in de pijler opleiding in het kader van het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten overeenkomstig artikel 14, § 1, 1°, en die worden beheerd door de sociale partners, op voorwaarde dat ze een aanvraag tot erkenning indienen bij de VDAB;<br />3° de door de VDAB erkende opleidingsverstrekkers in het kader van een uitbesteding of een partnerovereenkomst. »<br /><br /> § 4. De opleidingsverstrekkers die niet vermeld zijn in § 3, kunnen erkend worden, mits zij beschikken over een van de volgende kwaliteitscertificaten:<br />1° Q*for-certificaat;<br />2° ISO-certificaat;<br />3° CEDEO-certificaat;<br />4° Recognised for Excellence;<br />5° K2c, K2b- of K2a-label voor opleiding;<br />6° ESF-label voor opleiding;<br />7° andere certificaten of erkenningen die door de raad van bestuur van de VDAB worden aanvaard.<br /><br />De opleidingsverstrekkers dienen hun aanvraag tot erkenning in bij de VDAB.<br /><br />§ 5. De erkenning kan door de minister worden geschorst of ingetrokken wanneer de opleidingsverstrekker zich niet houdt aan de bepalingen van dit besluit.
+...
 
 ## AFDELING 2 [... (opgeh. BVR 17 mei 2013, art. 25, I: 1 juli 2013)]
 
 ### ART. 4.
 
-<P>...</P>
+<p>...</p>
 
 ## HOOFDSTUK IV [... (opgeh. BVR 17 mei 2019, art. 18, I: 1 september 2020)]
 
@@ -68,13 +68,13 @@ De cheques worden aangevraagd bij de VDAB.
 
 ### ART. 13.
 
-De opleidingscheques voor werknemers kunnen, voor eenzelfde opleiding, niet gecumuleerd worden met de opleidingssteun voor werkgevers vermeld in het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten.
+...
 
 ## [HOOFDSTUK VII/1[... (opgeh. BVR 17 mei 2019, art. 17, I: 1 september 2019)]
 
 ### ART. 12/1.
 
-Het toezicht en de controle op de uitvoering van dit besluit verlopen overeenkomstig de bepalingen van het decreet van 30 april 2004 tot uniformisering van de toezichts-, sanctie- en strafbepalingen die zijn opgenomen in de regelgeving van de sociaalrechtelijke aangelegenheden waarvoor de Vlaamse Gemeenschap en het Vlaamse Gewest bevoegd zijn.
+...
 
 ## HOOFDSTUK VIII [... (opgeh. BVR 17 mei 2019, art. 18, I: 1 september 2020)]
 

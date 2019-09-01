@@ -2,16 +2,16 @@
   "codex_id": 1011536,
   "title": "Besluit van de Vlaamse Regering van 2003-07-18 betreffende de [opleidingscheques] voor werknemers",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011536/VolledigDocument?datum=2015-03-01",
-  "source_sha256": "8a6d6a1c0f4ccc12d711bd955c8bd1ffb360dd3b126c4504d5871c77cbf01b04",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011536/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "11063ea102bcd068f3f05acd8ee3f13eb74350cc9c1c1778ebd036239f22eef8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011536&param=informatie",
-  "as_of": "2015-03-01",
+  "as_of": "2019-09-01",
   "made": "2003-07-18",
   "gazette": "2003-08-25",
   "numac": 2003035905,
   "document_start": "2003-09-01",
   "document_end": null,
-  "in_force": "2015-03-01",
+  "in_force": "2019-09-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2015-03-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
 }
