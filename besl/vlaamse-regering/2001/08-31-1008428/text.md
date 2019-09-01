@@ -12,7 +12,7 @@ Het schooljaar begint op 1 september en eindigt op 31 augustus van het daaropvol
 
 ### ART. 3.
 
-§ 1. In het voltijds gewoon en buitengewoon secundair onderwijs worden de lessen gespreid over 9 halve lesdagen van maandag tot en met vrijdag. De lessen vangen op zijn vroegst om 8 uur aan en eindigen op zijn vroegst om 15 uur en uiterlijk om 17 uur. Er is een middagpauze van ten minste 50 minuten. Deze bepaling geldt niet voor stages. Met toepassing van artikels 357/3 en 357/39 uit de Codex Secundair Onderwijs van 17 december 2010, is dit artikel niet van toepassing op duale structuuronderdelen en aanloopstructuuronderdelen.<br>
+§ 1. In het voltijds gewoon en buitengewoon secundair onderwijs worden de lessen gespreid over 9 halve lesdagen van maandag tot en met vrijdag. De lessen vangen op zijn vroegst om 8 uur aan en eindigen op zijn vroegst om 15 uur en uiterlijk om 17 uur. Er is een middagpauze van ten minste 50 minuten. Deze bepaling geldt niet voor stages. Met toepassing van artikel 357/3, 357/39 en 357/58 van de Codex Secundair Onderwijs van 17 december 2010 is dit artikel niet van toepassing op duale structuuronderdelen en aanloopstructuuronderdelen.<br>
 <br>
 § 2. In het deeltijds beroepssecundair onderwijs worden de lessen gespreid over maximum 4 halve lesdagen van maandag tot en met vrijdag. De lessen vangen op zijn vroegst om 8 uur aan en eindigen op zijn vroegst om 15 uur en uiterlijk om 17 uur. Er is een middagpauze van ten minste 50 minuten.
 
@@ -55,7 +55,14 @@ De volgende vakantieperiodes worden vastgelegd:<br>
 
 ### ART. 8.
 
-De inrichtende macht kan op grond van exceptionele organisatorische, onderwijskundige of levensbeschouwelijke argumenten beslissen om voor alle leerlingen of voor een leerlingengroep af te wijken van de bepalingen van artikel 3 en van artikel 7 voor de vakantieperiodes, vermeld onder 1° tot en met 5°.<br /><br />Een afwijking moet steeds impliceren dat:<br />1° het normaal aantal lessen op schooljaarbasis en de afwerking van de goedgekeurde leerplannen is gewaarborgd;<br />2° aan elke leerling tijdens de maanden juli en augustus ten minste 4 aaneensluitende weken vakantie worden toegekend;<br />3° in afwijking van 2° en voor zover betrekking hebbend op stage : aan elke leerling in de periode juni tot en met augustus ten minste 4 aaneensluitende weken vakantie worden toegekend.
+De inrichtende macht kan op grond van exceptionele organisatorische, onderwijskundige of levensbeschouwelijke argumenten beslissen om voor alle leerlingen of voor een leerlingengroep af te wijken van de bepalingen van artikel 3 en van artikel 7 voor de vakantieperiodes, vermeld onder 1° tot en met 5°.<br>
+<br>
+Een afwijking moet steeds impliceren dat:<br>
+1° het normaal aantal lessen op schooljaarbasis en de afwerking van de goedgekeurde leerplannen is gewaarborgd;<br>
+2° aan elke leerling tijdens de maanden juli en augustus ten minste 4 aaneensluitende weken vakantie worden toegekend;<br>
+3° in afwijking van 2° en voor zover betrekking hebbend op stage : aan elke leerling in de periode juni tot en met augustus ten minste 4 aaneensluitende weken vakantie worden toegekend.<br>
+<br>
+Overeenkomstig artikel 19 van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen gelden de bovenstaande bepalingen niet.
 
 ### ART. 9.
 
