@@ -38,7 +38,7 @@ a) het INSZ;<br>
 b) het opleidingsniveau;<br>
 2° over een cursist bij inschrijving zoals vermeld in artikel 37 van het decreet :<br>
 a) het tarief voor het inschrijvingsgeld dat van toepassing is op de datum van de inschrijving;<br>
-b) bij inschrijving voor een module van het hoger beroepsonderwijs het land waar de cursist zijn hoogst behaalde diploma behaald heeft.<br>
+b) ...<br>
 c) of de cursist al dan niet in het bezit is van een diploma secundair onderwijs, waarbij dit gegeven voor een cursist die niet met een diploma secundair onderwijs in de Leer- en Ervaringsbewijzendatabank is geregistreerd, als volgt wordt aangeleverd:<br>
 1) bij inschrijving voor een module van de basiseducatie of een module van een opleiding NT2 richtgraad 1 van het secundair volwassenenonderwijs op basis van een doorverwijzing door de instanties, vermeld in artikel 36, eerste lid, van het decreet, wordt de doorverwijzing naar een centrum voor basiseducatie of een centrum voor volwassenenonderwijs geregistreerd als "niet in het bezit van een diploma secundair onderwijs";<br>
 2) bij inschrijving voor een andere module dan een van de modules, vermeld in 1), op basis van een verklaring op eer van de cursist;<br>
