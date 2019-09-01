@@ -74,10 +74,11 @@ De onderneming kan om het opleidingsplan van de leerling uit te voeren een onder
 
 ### ART 7.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. Om erkend te kunnen worden, moet de onderneming minimaal voldoen aan de volgende voorwaarden:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. Om erkend te kunnen worden of te blijven, moet de onderneming minimaal voldoen aan de volgende voorwaarden:</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° zij moet binnen de onderneming een mentor aanduiden die:</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) van onberispelijk gedrag is;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) ten volle 25 jaar oud is en ten minste vijf jaar praktijkervaring heeft in het beroep;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) van onberispelijk gedrag is zoals dat blijkt uit een uittreksel uit het strafregister dat niet langer dan één jaar tevoren werd afgegeven;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) ten volle 25 jaar oud is en ten minste vijf jaar praktijkervaring heeft in het beroep;<br>
+c) een mentoropleiding moet volgen;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° zij moet op het vlak van de organisatie en de bedrijfsuitrusting voldoen om de opleiding op de werkplek van een leerling mogelijk te maken overeenkomstig het opleidingsplan;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° zij moet voldoende financiële draagkracht hebben om de continuïteit van de onderneming te waarborgen;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° zij mag geen veroordelingen hebben opgelopen.</span><br>
@@ -257,19 +258,23 @@ Als de onderneming met toepassing van artikel 6bis een onderdeel van de opleidin
 
 ### ART 19.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De leerling heeft, naast de gewone regeling voor het recht op betaalde vakantie, ook recht op twintig niet-betaalde vakantiedagen.</span><br>
+De leerling volgt de schoolvakantieregeling zoals bepaald in artikel 12 van de Codex Secundair Onderwijs van 17 december 2010. In afwijking hiervan:<br>
+1° kan het sectoraal partnerschap in de betrokken sector, of bij afwezigheid van een sectoraal partnerschap, het Vlaams Partnerschap Duaal Leren op verzoek van een onderneming, omwille van seizoensgebonden activiteiten een structurele afwijking op de schoolvakantieregeling vastleggen die door de Vlaamse Regering wordt goedgekeurd;<br>
+2° kunnen de partijen overeenkomen dat de leerling omwille van een leeropportuniteit wordt opgeleid tijdens een schoolvakantie;<br>
+3° kan het sectoraal partnerschap, of bij afwezigheid van een sectoraal partnerschap, het Vlaams Partnerschap Duaal Leren op verzoek van een onderneming, in consensus de schoolvakantieregeling in een opleiding van het deeltijds beroepssecundair onderwijs, de leertijd, de kwalificatiefase en integratiefase van het buitengewoon secundair onderwijs opleidingsvorm 3, in het eerste en tweede leerjaar van de derde graad van het voltijds secundair onderwijs verminderen tot twaalf schoolvakantieweken. De Vlaamse Regering bepaalt hiervoor criteria op voorstel van het Vlaams Partnerschap Duaal Leren. In sectoren waar er een sectoraal partnerschap is, doet het Vlaams Partnerschap Duaal Leren het voorstel na advies van dit Sectoraal partnerschap;<br>
+4° wordt de schoolvakantie gereduceerd tot acht schoolvakantieweken op schooljaarbasis voor leerlingen in een duaal structuuronderdeel ingericht op niveau van Se-n-Se of het derde leerjaar van de derde graad van het voltijds secundair onderwijs, al dan niet ingericht in de vorm van een specialisatie.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Alle vakantiedagen moeten in overleg tussen de leerling en de onderneming opgenomen worden.</span><br>
+De leerling die met toepassing van het eerste lid, 1° of 2°, wordt opgeleid tijdens een schoolvakantie, moet deze opleidingsdagen recupereren tijdens de lesweken op dagen waarop hij volgens het uurrooster in de onderneming moet worden opgeleid en dit binnen hetzelfde schooljaar.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De niet-betaalde vakantiedagen moeten opgenomen worden in de schoolvakanties.</span><br>
+De vakantiedagen zijn onbetaald met uitzondering van de vakantiedagen die de leerling opbouwt conform de regelgeving inzake betaalde vakantie die op hem van toepassing is.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De betaalde vakantiedagen mogen niet worden opgenomen op de lesdagen of op dagen met activiteiten die met lessen gelijkgesteld zijn.</span><br>
-&nbsp;
+De in het derde lid vermelde betaalde vakantiedagen moeten worden opgenomen tijdens de schoolvakanties.
 
 ### ART 20.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van artikel 18, tweede lid, is de onderneming geen leervergoeding verschuldigd bij arbeidsongeschiktheid wegens arbeidsongeval en beroepsziekte.</span><br>
-&nbsp;
+In afwijking van artikel 18, tweede lid, is de onderneming in de volgende gevallen geen leervergoeding verschuldigd:<br>
+1° bij arbeidsongeschiktheid wegens arbeidsongeval en beroepsziekte;<br>
+2° bij arbeidsongeschiktheid wegens ziekte voor arbeidsongeschiktheidsdagen die samenvallen met onbetaalde vakantiedagen zoals vermeld in artikel 19, derde lid.
 
 ### ART 21.
 
@@ -352,12 +357,12 @@ Als de onderneming met toepassing van artikel 6bis een onderdeel van de opleidin
 
 ### ART 28.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Alle bepalingen van hoofdstuk 3 zijn van toepassing op de stageovereenkomst alternerende opleiding met uitzondering van artikel 11, 4°, artikel 17, artikel 18, tweede lid, artikel 19, artikel 20, en artikel 26, § 3, derde lid.</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Alle bepalingen van hoofdstuk 3 zijn van toepassing op de stageovereenkomst alternerende opleiding met uitzondering van artikel 11, 4°, artikel 17, artikel 18, tweede lid, artikel 19, eerste lid, 3°, artikel 20, en artikel 26, § 3, derde lid.</span><br>
 &nbsp;
 
 ### ART 29.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De leerling volgt de schoolvakantieregeling.</span>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">.</span>..
 
 ## HOOFDSTUK 5 Toezicht
 
