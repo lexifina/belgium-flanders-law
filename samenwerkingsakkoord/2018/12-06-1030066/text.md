@@ -313,23 +313,192 @@ IS HET VOLGENDE OVEREENGEKOMEN :
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
+### ART 1.
+
+Dit samenwerkingsakkoord legt de specifieke uitvoeringsbepalingen vast van het samenwerkingsakkoord van 2 februari 2018 tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest, het Brussels-Hoofdstedelijk Gewest en de Duitstalige Gemeenschap met betrekking tot de coördinatie tussen het beleid inzake de toelatingen tot arbeid en het beleid inzake de verblijfsvergunningen en inzake de normen betreffende de tewerkstelling en het verblijf van buitenlandse arbeidskrachten (hierna "samenwerkingsakkoord van 2 februari 2018") en betreft een gedeeltelijke omzetting van:<br>
+- richtlijn 2009/50/EG van de Raad van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan (hierna "de richtlijn 2009/50/EG");<br>
+- richtlijn 2014/36/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op tewerkstelling als seizoenarbeider (hierna " de richtlijn 2014/36/EU");<br>
+- richtlijn 2014/66/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen in het kader van een overplaatsing binnen een onderneming - Intra Corporate Transfer "ICT" (hierna "de richtlijn 2014/66/UE");<br>
+- richtlijn 2016/801/EU van het Europees Parlement en de Raad van11 mei 2016 betreffende de voorwaarden voor toegang en verblijf van derdelanders met het oog op onderzoek, studie, stages, vrijwilligerswerk, scholierenuitwisseling, educatieve projecten of au-pairactiviteiten (hierna "de richtlijn 2016/801/EU").
+
+### ART 2.
+
+Voor de toepassing van dit akkoord dient men te verstaan onder:<br>
+1° « lidstaat »: de lidstaat van de Europese Unie, met uitzondering van het Verenigd Koninkrijk, I<sup>er</sup>land en Denemarken;<br>
+2° « derde land »: een andere staat dan de staat die in punt 1 vermeld wordt.
+
+### ART 3.
+
+De duur van de machtiging tot verblijf stemt overeen met de duur van de toelating tot arbeid.<br>
+<br>
+De geldigheidsduur van de verblijfstitels bedoeld door dit akkoord is gelijk aan de duur van de machtiging tot verblijf met het oog op werk.<br>
+<br>
+De geldigheidsduur van de machtiging tot verblijf met het oog op werk is niet langer dan de maximale periode tijdens welke de onderdanen van derde landen in België mogen verblijven en werken, met toepassing van de richtlijnen die in artikel 1 bedoeld zijn.
+
+### ART 4.
+
+§ 1. De territoriaal bevoegde gewestelijke overheid moet worden kennisgegeven van elke wijziging die van invloed is op de toelatingscriteria omschreven in de regelgeving betreffende de tewerkstelling van buitenlandse werknemers.<br>
+<br>
+Wanneer de territoriaal bevoegde gewestelijke overheid wordt kennisgegeven van een wijziging zoals bedoeld in het vorige lid, brengt zij de Dienst Vreemdelingenzaken daarvan op de hoogte.<br>
+<br>
+Wanneer een gewestelijke overheid wordt kennisgegeven van een wijziging die van invloed is op de toelatingscriteria omschreven in de regelgeving betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen, geeft zij deze wijziging door aan de Dienst Vreemdelingenzaken.<br>
+<br>
+§ 2. De Dienst Vreemdelingenzaken moet worden kennisgegeven van elke wijziging die van invloed is op toelatingscriteria omschreven in de regelgeving betreffende het verblijf van buitenlandse werknemers.<br>
+<br>
+Wanneer de Dienst Vreemdelingenzaken wordt kennisgegeven van een wijziging zoals bedoeld in het vorige lid, brengt hij de territoriaal bevoegde gewestelijke overheid daarvan op de hoogte.<br>
+<br>
+Wanneer de Dienst Vreemdelingenzaken wordt kennisgegeven van een wijziging die van invloed is op de toelatingscriteria omschreven in de regelgeving betreffende de tewerkstelling van buitenlandse werknemers, geeft hij deze wijziging door aan de territoriaal bevoegde gewestelijke overheid.
+
+### ART 5.
+
+In geval van mobiliteit, is het de Dienst Vreemdelingenzaken die alle informatie ontvangt en doorgeeft aan de andere lidstaten aangaande het verkrijgen of intrekken van machtigingen tot verblijf met het oog op werk in het kader van dit akkoord.
+
 ## TITEL II. CATEGORIEEN VAN VERGUNNINGEN
 
 ## Hoofdstuk 1. Europese blauwe kaart voor de hooggekwalificeerde werknemer
 
 ## Afdeling 1. Definitie
 
+### ART 6.
+
+Voor de toepassing van dit hoofdstuk wordt verstaan onder:<br>
+1° "Europese blauwe kaart": de verblijfstitel overeenkomstig het uniforme model dat wordt beschreven in Verordening (EG) nr. 1030/2002, die een vermelding "Europese blauwe kaart" bevat, die de houder het recht geeft op het Belgische grondgebied te verblijven voor een periode van langer dan negentig dagen als hooggekwalificeerde werknemer;<br>
+2° "hooggekwalificeerde werknemer": de werknemer die beschikt over de benodigde adequate en bijzondere vaardigheden, die blijken uit hogere beroepskwalificaties in het kader van de Europese blauwe kaart.<br>
+3° « eerste lidstaat »:<br>
+a) de lidstaat die als eerste de blauwe Europese kaart toekent aan een onderdaan van een derde land, of<br>
+b) de lidstaat die de onderdaan van een derde land verlaat om zich naar een andere lidstaat te begeven in het kader van het recht op mobiliteit;<br>
+4° « tweede lidstaat » : elke lidstaat andere dan de eerste lidstaat waarin de onderdaan van een derde land zijn recht op mobiliteit uitoefent of van plan is het uit te oefenen.
+
 ## Afdeling 2. Toepassingsgebied
 
+### ART 7.
+
+Dit hoofdstuk is van toepassing op elke aanvraag voor een machtiging tot verblijf die door een onderdaan van een derde land wordt ingediend met het oog op een hooggekwalificeerde baan in het kader van de Europese blauwe kaart.
+
 ## Afdeling 3. Bijzondere bepalingen met betrekking tot de Europese blauwe kaart
+
+### ART 8.
+
+§ 1. De aanvraag voor een machtiging tot verblijf met het oog op een hooggekwalificeerde baan kan wordt ingediend wanneer de onderdaan van een derde land zich buiten het grondgebied bevindt.<br>
+<br>
+De onderdaan van een derde land die toegelaten of gemachtigd is op het grondgebied van het Rijk te verblijven voor een periode die negentig dagen niet overschrijdt of voor een periode van meer dan negentig dagen, overeenkomstig de wetgeving inzake de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen, kan een in het eerste lid bedoeld aanvraag indienen.<br>
+<br>
+§ 2. De onderdaan van een derde land die sinds achttien maanden in een andere lidstaat, eerste lidstaat, verblijft, als houder van een Europese blauwe kaart, kan, wanneer hij zich buiten het grondgebied bevindt, een aanvraag indienen voor een machtiging tot verblijf met het oog op een hooggekwalificeerde baan in België, tweede lidstaat, op overlegging van zijn geldige Europese blauwe kaart.<br>
+<br>
+De onderdaan van een derde land die sinds achttien maanden in een andere lidstaat, eerste lidstaat, verblijft als houder van een Europese blauwe kaart, kan, zo spoedig mogelijk en ten laatste een maand na zijn binnenkomst op het Belgische grondgebied, een aanvraag indienen voor een machtiging tot verblijf met het oog op een hooggekwalificeerde baan in België, tweede lidstaat, op overlegging van zijn geldige Europese blauwe kaart.<br>
+<br>
+In afwachting van de beslissing over zijn aanvraag, mag de onderdaan van een derde land niet werken.
+
+### ART 9.
+
+De beslissing met betrekking tot de aanvraag voor een machtiging tot het verblijf met het oog op een hooggekwalificeerde baan wordt ten laatste genomen negentig dagen na de kennisgeving van het feit dat de aanvraag volledig is.<br>
+<br>
+De in eerste lid bedoelde termijn kan in geen geval verlengd worden.
+
+### ART 10.
+
+Wanneer de onderdaan van een derde land wordt gemachtigd op het Belgische grondgebied te verblijven om een hooggekwalificeerde betrekking te vervullen, brengt de Dienst Vreemdelingenzaken de positieve beslissingen ter kennis van de diplomatieke posten en/of gemeenten.<br>
+<br>
+Wanneer de onderdaan van een derde land zich in het buitenland bevindt op de datum van de beslissing tot machtiging tot verblijf en werk, wordt hem, op zijn vraag, een visum afgegeven.<br>
+<br>
+De onderdaan van een derde land, gemachtigd om te verblijven op het Belgische grondgebied met het oog op het vervullen een hooggekwalificeerde baan wordt ingeschreven in het vreemdelingenregister.<br>
+<br>
+Er wordt hem een Europese blauwe kaart afgegeven.<br>
+<br>
+De onderdaan van een derde land, gemachtigd om te verblijven op het Belgische grondgebied met het oog op het vervullen een hooggekwalificeerde baan mag beginnen werken zodra hij in het bezit is van het voorlopig verblijfsdocument dat hem wordt afgegeven in afwachting van de afgifte van de Europese blauwe kaart, of in afwachting van de verlenging of wijziging van deze kaart.
+
+### ART 11.
+
+De geldigheidsduur van de Europese blauwe kaart is een standaard geldigheidsduur die tussen een en vier jaar ligt, in functie van de duur van de toelating tot arbeid die door elk Gewest bepaald wordt.<br>
+<br>
+In afwijking van artikel 3 is de geldigheidsduur van de Europese blauwe kaart, indien de periode die door de arbeidsovereenkomst gedekt wordt korter is dan de in het eerste lid bedoelde duur, gelijk aan de duur van de arbeidsovereenkomst plus drie maanden.
 
 ## Hoofdstuk 2. Vergunning voor de seizoenarbeider
 
 ## Afdeling 1. Definities
 
+### ART 12.
+
+Voor de toepassing van dit hoofdstuk wordt verstaan onder:<br>
+1° "seizoenarbeider": de onderdaan van een derde land die zijn hoofdverblijfplaats in een derde land heeft, maar legaal tijdelijk op het Belgische grondgebied verblijft om een seizoenafhankelijke activiteit uit te oefenen, op basis van één of meer arbeidsovereenkomst(en) voor bepaalde tijd die rechtstreeks tussen die onderdaan van een derde land en de op het Belgische grondgebied gevestigde werkgever zijn gesloten;<br>
+2° "seizoenafhankelijke activiteit": de activiteit die vanwege een zich herhalende gebeurtenis of een zich herhalend patroon van gebeurtenissen, die samenhangen met seizoenomstandigheden, gebonden is aan een bepaalde tijd van het jaar waarin het aantal benodigde arbeidskrachten significant uitstijgt boven het aantal dat nodig is voor de gewoonlijk te verrichten werkzaamheden;<br>
+3° "seizoenarbeidersvergunning": de verblijfstitel overeenkomstig het uniforme model dat wordt beschreven in Verordening (EG) nr. 1030/2002, die een vermelding "seizoenarbeider" bevat en die de houder het recht geeft op het Belgische grondgebied te verblijven en te werken voor een periode van langer dan negentig dagen.
+
 ## Afdeling 2. Toepassingsgebied
 
+### ART 13.
+
+Dit hoofdstuk is van toepassing op elke aanvraag voor een machtiging tot verblijf met het oog op tewerkstelling als seizoenarbeider door een onderdaan van een derde land in één van de zoals in artikel 14 voorziene sectoren voor een periode van meer dan negentig dagen.
+
+### ART 14.
+
+De Gewesten stellen, elk binnen hun eigen bevoegdheden, een limitatieve lijst op van de sectoren waar seizoenafhankelijke activiteiten voorkomen.
+
 ## Afdeling 3. Bijzondere bepalingen met betrekking tot de seizoenarbeidersvergunningen
+
+### ART 15.
+
+De onderdaan van een derde land die als seizoenarbeider op het Belgische grondgebied wenst te worden toegelaten, moet zich op het moment van het indienen van de aanvraag, buiten het grondgebied van de lidstaten bevinden, behoudens de in artikel 21 van dit akkoord bedoelde gevallen.
+
+### ART 16.
+
+De aanvraag bevat een bewijs dat de seizoenarbeider tijdens zijn verblijf op een passende wijze zal worden gehuisvest, zodat hij een gepaste levensstandaard geniet, overeenkomstig de wetgeving inzake de huisvesting.<br>
+<br>
+Indien de huisvesting door of via de werkgever wordt geregeld, verstrekt de aanvrager een huurovereenkomst of een gelijkwaardig document waarin de huurvoorwaarden duidelijk staan vermeld.<br>
+<br>
+De Dienst Vreemdelingenzaken onderzoekt de elementen van het bewijs van huisvesting waar de seizoenarbeiders voor de duur van zijn verblijf zal verblijven op het Belgische grondgebied.
+
+### ART 17.
+
+§ 1. De beslissing met betrekking tot de aanvraag voor een machtiging tot het verblijf met het oog op tewerkstelling als seizoenarbeider wordt ten laatste genomen negentig dagen na de kennisgeving van het feit dat de aanvraag volledig is.<br>
+<br>
+§ 2. Wanneer de onderdaan van een derde land in de loop van de voorafgaande vijf jaar ten minste eenmaal als seizoenarbeider op het Belgische grondgebied werd toegelaten en tijdens elk van zijn verblijven de voorwaarden die gelden voor seizoenarbeiders heeft nageleefd, wordt de beslissing van de aanvraag ten laatste genomen zestig dagen na de kennisgeving van het feit dat de aanvraag volledig is.<br>
+<br>
+§ 3. De beslissing over een aanvraag voor vernieuwing of verlenging, zoals bedoeld in artikel 21, paragrafen 1 en 2, van dit akkoord, wordt ten laatste genomen dertig dagen na de kennisgeving van het feit dat de aanvraag volledig is.<br>
+<br>
+§ 4. De in paragrafen 1, 2 en 3 bedoelde termijnen kunnen in geen geval worden verlengd.
+
+### ART 18.
+
+Wanneer de onderdaan van een derde land gemachtigd wordt om op het Belgische grondgebied te verblijven met het oog op tewerkstelling als seizoenarbeider, brengt de Dienst Vreemdelingenzaken de diplomatieke posten en/of de gemeenten op de hoogte van de positieve beslissing.<br>
+<br>
+Een visum wordt hem op zijn vraag afgegeven.<br>
+<br>
+De onderdaan van een derde land die gemachtigd is om meer dan negentig dagen op het Belgische grondgebied te verblijven met het hoog op tewerkstelling als seizoenarbeider, wordt in het vreemdelingenregister ingeschreven. Een seizoenarbeidersvergunning wordt hem afgegeven.<br>
+<br>
+De onderdaan van een derde land die gemachtigd is op het Belgische grondgebied te verblijven om er te werken als seizoenarbeider, kan beginnen werken zodra hij in het bezit is van een voorlopig verblijfsdocument dat is afgegeven in afwachting van de afgifte van een vergunning voor seizoenarbeid.
+
+### ART 19.
+
+De maximumduur voor de machtiging tot verblijf als seizoenarbeider bedraagt maximaal vijf maanden, per periode van twaalf maanden.
+
+### ART 20.
+
+§ 1. Binnen de maximumduur zoals bepaald in artikel 19, mag de seizoenarbeider zijn arbeidsovereenkomst met dezelfde werkgever en zijn verblijf herhaaldelijk verlengen, onder voorbehoud van de voorwaarden die bepaald zijn in de wetgevende en reglementaire normen van de partijen bij dit akkoord.<br>
+<br>
+§ 2. Binnen de maximumduur zoals bepaald in artikel 19, mag de seizoenarbeider zijn arbeidsovereenkomst met een andere werkgever en zijn verblijf herhaaldelijk verlengen, onder voorbehoud van de voorwaarden die bepaald zijn in de wetgevende en reglementaire normen van de partijen bij dit akkoord.
+
+### ART 21.
+
+§ 1. Een aanvraag voor vernieuwing van de machtiging tot verblijf met het oog op tewerkstelling als seizoenarbeider wordt ten laatste één maand voor het verstrijken van de geldigheidsduur van de vorige machtiging bij de gewestelijke overheid ingediend.<br>
+<br>
+De toekenning van de vernieuwing van de machtiging tot verblijf met het oog op tewerkstelling als seizoenarbeider doet geen afbreuk aan artikel 19.<br>
+<br>
+§ 2. De onderdaan van een derde land die reeds toegelaten is tot een verblijf in de hoedanigheid van een seizoenarbeider voor een periode van ten hoogste 90 dagen en die de duur van zijn verblijf wenst te verlengen voor een periode van meer dan negentig dagen, dient een aanvraag in volgens de procedure voorzien in dit hoofdstuk. Bij een positieve beslissing over de aanvraag, zal een visum lang verblijf aan hem worden afgeleverd met de vermelding "seizoenarbeider".<br>
+<br>
+De toekenning van de machtiging tot verblijf als seizoenarbeider zoals in het eerste lid bepaald, doet geen afbreuk aan artikel 19.
+
+### ART 22.
+
+Wanneer de onderdaan van een derde land niet meer toegelaten is tot arbeid, eindigt zijn machtiging tot verblijf.
+
+### ART 23.
+
+De volgende instellingen kunnen, onder voorbehoud van de toestemming van de betrokkene, optreden, in de rechtsgeschillen waartoe de toepassing van dit hoofdstuk aanleiding kan geven, in rechte optreden ter verdediging van de rechten van de seizoenarbeider die tewerkgesteld is of was:<br>
+1° de representatieve werknemersorganisaties bedoeld in artikel 3 van de wet van 5 december 1968 betreffende de collectieve arbeidsovereenkomsten en de paritaire comités;<br>
+2° de representatieve vakorganisaties bedoeld in de wet van 19 december 1974 tot de regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel;<br>
+3° de representatieve vakorganisaties in het aangewezen orgaan van vakbondsoverleg voor de administraties, diensten of instellingen waarop de wet van 19 december 1974 tot de regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel niet van toepassing is;<br>
+4° elke andere door de bevoegde overheid bepaalde instelling van openbaar nut en vereniging die op de dag van de feiten tenminste drie jaar rechtspersoonlijkheid bezit en zich statutair tot doel stelt de belangen van de onderdanen van een derde land te verdedigen.
 
 ## Hoofdstuk 3. Vergunning voor een binnen een onderneming overgeplaatste persoon en vergunning ICT voor lange-termijnmobiliteit
 
