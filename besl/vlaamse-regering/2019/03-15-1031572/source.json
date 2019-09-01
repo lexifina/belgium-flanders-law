@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031572,
+  "title": "Besluit van de Vlaamse Regering van 2019-03-15 tot wijziging van het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de studiebekrachtiging in het volwassenenonderwijs, wat betreft het hoger beroepsonderwijs en de specifieke lerarenopleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031572/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "e47f3e0ae83d0f44fc3283a9fa1c929968c662ad3dc42ac4b9c2a066ba976e26",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031572&param=informatie",
+  "as_of": "2019-09-01",
+  "made": "2019-03-15",
+  "gazette": "2019-04-18",
+  "numac": 2019011739,
+  "document_start": "2019-09-01",
+  "document_end": null,
+  "in_force": "2019-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2019-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
