@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031947,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-17 tot erkenning van het graduaat in de werforganisatie als nieuwe opleiding van de Hogeschool Gent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031947/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "0b493c1a05426c4d8277fddb924cc0aab8a74b05e63de5c8d3b068584679c1c1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031947&param=informatie",
+  "as_of": "2019-09-01",
+  "made": "2019-05-17",
+  "gazette": "2019-07-29",
+  "numac": 2019041455,
+  "document_start": "2019-09-01",
+  "document_end": null,
+  "in_force": "2019-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
