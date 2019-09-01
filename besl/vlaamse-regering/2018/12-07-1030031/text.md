@@ -270,6 +270,144 @@ De volgende perioden van arbeid komen niet in aanmerking voor de toepassing van 
 
 ## HOOFDSTUK 8. Bijzondere categorieën van werknemers
 
+## Afdeling 1. De Europese blauwe kaart
+
+### ART 20.
+
+Deze afdeling voorziet in de gedeeltelijke omzetting van richtlijn 2009/50/EG van de Raad van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan.<br>
+<br>
+Voor de toepassing van deze afdeling zijn de bepalingen van titel II, hoofdstuk 1 van het uitvoerend samenwerkingsakkoord van 6 december 2018 van toepassing.
+
+### ART 21.
+
+De toelating tot arbeid in het kader van de Europese blauwe kaart wordt toegekend als aan al de volgende voorwaarden is voldaan:<br>
+1° de werkgever heeft met de buitenlandse werknemer een arbeidsovereenkomst gesloten van onbepaalde duur of voor minstens één jaar;<br>
+2° de bezoldiging van de buitenlandse werknemer bedraagt minstens 120% van het gemiddeld bruto jaarloon;<br>
+3° de werknemer toont hogere beroepskwalificaties aan aan de hand van een diploma van het hoger onderwijs.
+
+## Afdeling 2. De seizoenarbeiders
+
+### ART 22.
+
+Deze afdeling voorziet in de gedeeltelijke omzetting van richtlijn 2014/36/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op tewerkstelling als seizoenarbeider.<br>
+<br>
+Voor de toepassing van deze afdeling zijn de bepalingen van titel II, hoofdstuk 2 van het uitvoerend samenwerkingsakkoord van 6 december 2018 van toepassing.
+
+### ART 23.
+
+Onverminderd artikel 18 wordt een toelating tot arbeid voor seizoenarbeiders toegekend als de seizoenarbeider gebonden is door een arbeidsovereenkomst met de werkgever voor seizoenafhankelijke activiteiten in de sectoren landbouw, tuinbouw of horeca, voor maximaal vijf maanden per periode van twaalf maanden.
+
+### ART 24.
+
+De toelating tot arbeid, vermeld in artikel 23, wordt toegekend voor maximum vijf maanden.
+
+## Afdeling 3. De binnen de onderneming overgeplaatste personen
+
+### ART 25.
+
+Deze afdeling voorziet in de gedeeltelijke omzetting van richtlijn 2014/66/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen in het kader van een overplaatsing binnen een onderneming.<br>
+<br>
+Voor de toepassing van deze afdeling zijn de bepalingen van titel II, hoofdstuk 3 van het uitvoerend samenwerkingsakkoord van 6 december 2018 van toepassing.
+
+### ART 26.
+
+De toelating tot arbeid in het kader van de vergunning voor een binnen een onderneming overgeplaatste persoon wordt toegekend als aan al de volgende voorwaarden is voldaan:<br>
+1° de gastentiteit en de in een derde land gevestigde onderneming behoren tot dezelfde onderneming of dezelfde groep van ondernemingen;<br>
+2° de overgeplaatste werknemer is onmiddellijk voorafgaand aan de datum van de overplaatsing ten minste drie ononderbroken maanden in dienst bij die onderneming of groep van ondernemingen als leidinggevende, specialist of als stagiair-werknemer;<br>
+3° de overgeplaatste werknemer toont minimum kwalificaties niveau 5 aan, aan de hand van een diploma van hoger onderwijs voor de leidinggevende-ICT en de specialist-ICT, en minimum kwalificaties niveau 6 aan de hand van een universitair diploma, voor de stagiair-werknemer-ICT;<br>
+4° de bezoldiging van de overgeplaatste werknemer is tijdens de gehele overplaatsing binnen een onderneming niet minder gunstig dan die van vergelijkbare functies overeenkomstig toepasselijke wetten of collectieve overeenkomsten of praktijken, conform artikel 79.
+
+### ART 27.
+
+§ 1. De toelating tot arbeid voor een binnen een onderneming overgeplaatste persoon wordt uitgereikt voor de duur van de overplaatsing, met een maximumduur van drie jaar voor leidinggevende-ICT en specialist-ICT en een maximumduur van één jaar voor stagiair-werknemer-ICT.<br>
+<br>
+De periode, vermeld in het eerste lid, kan eventuele periodes van mobiliteit naar andere Europese lidstaten omvatten.<br>
+<br>
+§ 2. Wanneer de maximumduur van de overplaatsing binnen een onderneming, zoals voorzien in § 1, werd bereikt, kan een nieuwe aanvraag voor een overplaatsing van eenzelfde werknemer pas ingediend worden na verloop van een periode van drie maanden.
+
+### ART 28.
+
+De toelating tot arbeid in het kader van de vergunning voor langetermijnmobiliteit van een binnen een onderneming overgeplaatste persoon wordt toegekend als aan al de volgende voorwaarden is voldaan:<br>
+1° de overgeplaatste werknemer is gedurende de hele procedure houder van een geldige, door de eerste lidstaat afgegeven vergunning voor een binnen een onderneming overgeplaatste persoon;<br>
+2° de gastentiteit en de in een derde land gevestigde onderneming behoren tot dezelfde onderneming of dezelfde groep van ondernemingen;<br>
+3° de bezoldiging van de overgeplaatste werknemer is tijdens de gehele overplaatsing binnen een onderneming niet minder gunstig dan die van vergelijkbare functies overeenkomstig toepasselijke wetten, collectieve overeenkomsten of praktijken, conform artikel 79.
+
+## Afdeling 4. Onderzoekers
+
+### ART 29.
+
+Deze afdeling voorziet in de gedeeltelijke omzetting van richtlijn (EU) 2016/801 van het Europees Parlement en de Raad van 11 mei 2016 betreffende de voorwaarden voor toegang en verblijf van derdelanders met het oog op onderzoek, studie, stages, vrijwilligerswerk, scholierenuitwisseling, educatieve projecten of au-pairactiviteiten.<br>
+<br>
+Voor de toepassing van deze afdeling zijn de bepalingen van titel II, hoofdstuk 4 van het uitvoerend samenwerkingsakkoord van 6 december 2018 van toepassing.
+
+### ART 30.
+
+§ 1. Een erkende onderzoeksinstelling kan een gastovereenkomst met een onderzoeker afsluiten, als aan al de volgende voorwaarden is voldaan:<br>
+1° het onderzoeksproject waarin de onderzoeker wordt tewerkgesteld, is goedgekeurd door de bevoegde organen van de onderzoeksinstelling, na onderzoek van het voorwerp van het onderzoek, de duurtijd ervan en, zo nodig, de beschikbaarheid van de vereiste financiële middelen;<br>
+2° de kwalificaties van de onderzoeker zijn op basis van zijn diploma's en met het oog op het te verrichten onderzoek onderzocht door de bevoegde organen van de onderzoeksinstelling;<br>
+3° als een subsidie toegekend wordt, is die subsidie gelijk aan de subsidie die toegekend wordt aan een nationale onderdaan.<br>
+<br>
+§ 2. De gastovereenkomst wordt opgemaakt conform het model dat de bevoegde overheid ter beschikking stelt. De gastovereenkomst vermeldt:<br>
+1° de persoonlijke gegevens van de onderzoeksinstelling;<br>
+2° de persoonlijke gegevens van de onderzoeker;<br>
+3° de gegevens en de details over het onderzoeksproject en de tewerkstelling van de onderzoeker in het Vlaamse Gewest;<br>
+4° informatie over de voorgenomen mobiliteit in een of meerdere tweede lidstaten, indien die mobiliteit op het moment van de aanvraag bekend is;<br>
+5° de verklaring van de onderzoeksinstelling dat zij de onderzoeker ontvangt met het oog op de voltooiing van het onderzoek;<br>
+6° de verklaring van de onderzoeker dat hij tracht de onderzoeksactiviteit volledig uit te voeren.<br>
+<br>
+De gastovereenkomst neemt van rechtswege een einde als de onderzoeker niet tot het grondgebied wordt toegelaten of als de juridische band met de onderzoeksinstelling wordt beëindigd.
+
+### ART 31.
+
+De toelating tot arbeid in het kader van de vergunning voor onderzoekers wordt toegekend als de onderzoeker met de erkende onderzoeksinstelling, die in het Vlaamse Gewest ligt, verbonden is door een geldige gastovereenkomst als vermeld in artikel 30.
+
+### ART 32.
+
+De toelating tot arbeid in het kader van de vergunning voor langetermijnmobiliteit voor onderzoekers wordt toegekend als aan al de volgende voorwaarden is voldaan:<br>
+1° de onderzoeker is gedurende de hele procedure houder van een geldige, door de eerste lidstaat afgegeven vergunning voor onderzoeker;<br>
+2° de onderzoeker is met de erkende onderzoeksinstelling, die in het Vlaamse Gewest ligt, verbonden door een geldige gastovereenkomst als vermeld in artikel 30, om er een deel uit te voeren van het onderzoeksproject op basis waarvan de vergunning voor onderzoeker is afgegeven door de eerste lidstaat.
+
+### ART 33.
+
+De toelating tot arbeid die is toegekend met toepassing van artikel 31 of 32:<br>
+1° wordt beperkt tot de duur van het onderzoeksproject die wordt vastgelegd in de gastovereenkomst tussen de onderzoeker en de erkende onderzoeksinstelling;<br>
+2° omvat de activiteiten die de onderzoeker in het kader van het onderzoeksproject uitvoert als&nbsp;internationaal docent in een universiteit of in een inrichting van hoger onderwijs.
+
+## Afdeling 5. Stagiairs
+
+### ART 34.
+
+Deze afdeling voorziet in de gedeeltelijke omzetting van richtlijn (EU) 2016/801 van het Europees Parlement en de Raad van 11 mei 2016 betreffende de voorwaarden voor toegang en verblijf van derdelanders met het oog op onderzoek, studie, stages, vrijwilligerswerk, scholierenuitwisseling, educatieve projecten of au-pairactiviteiten.<br>
+<br>
+Voor de toepassing van deze afdeling zijn de bepalingen van titel II, hoofdstuk 5 van het uitvoerend samenwerkingsakkoord van 6 december 2018 van toepassing.
+
+### ART 35.
+
+De toelating tot arbeid in het kader van de vergunning voor stagiair wordt toegekend als aan al de volgende voorwaarden is voldaan:<br>
+1° de stagiair is verbonden met de werkgever door een stageovereenkomst met een maximumduur van zes maanden;<br>
+2° de stagiair toont hogere beroepskwalificaties aan aan de hand van een diploma van hoger onderwijs, verkregen in de twee jaar voor de aanvraag, of toont aan dat hij een opleiding volgt die leidt tot dat diploma;<br>
+3° de stage bevindt zich op het kwalificatieniveau en bestrijkt hetzelfde gebied als het diploma of de studie, vermeld in punt 2°.
+
+### ART 36.
+
+De toelating tot arbeid, vermeld in artikel 35, wordt toegekend voor een maximumduur van zes maanden, en kan één keer verlengd worden.
+
+## Afdeling 6. Vrijwilligers
+
+### ART 37.
+
+Deze afdeling voorziet in de gedeeltelijke omzetting van richtlijn (EU) 2016/801 van het Europees Parlement en de Raad van 11 mei 2016 betreffende de voorwaarden voor toegang en verblijf van derdelanders met het oog op onderzoek, studie, stages, vrijwilligerswerk, scholierenuitwisseling, educatieve projecten of au-pairactiviteiten.<br>
+<br>
+Voor de toepassing van deze afdeling zijn de bepalingen van titel II, hoofdstuk 6 van het uitvoerend samenwerkingsakkoord van 6 december 2018 van toepassing.
+
+### ART 38.
+
+De toelating tot arbeid in het kader van de vergunning voor vrijwilliger wordt toegekend als de vrijwilliger verbonden is met de ontvangende organisatie door een goedgekeurd vrijwilligersprogramma in het kader van Europees vrijwilligerswerk, voor een maximumduur van twaalf maanden.
+
+### ART 39.
+
+De toelating tot arbeid, vermeld in artikel 38, wordt toegekend voor een maximumduur van twaalf maanden.
+
 ## HOOFDSTUK 9. Procedure voor de toelating tot arbeid die deel uitmaakt van een procedure om de gecombineerde vergunning, de Europese blauwe kaart of een andere verblijfstitel te verkrijgen voor werk voor een periode van meer dan negentig dagen
 
 ### ART 40.
@@ -604,6 +742,10 @@ De persoonsgegevens worden beveiligd volgens de dataclassificatie en beveiliging
 De persoonsgegevens die opgevraagd worden in toepassing van dit besluit worden slechts zo lang bewaard als nodig voor het uitreiken van de arbeidsvergunning, de arbeidskaart en de eventuele hernieuwing van de toelating tot arbeid.
 
 ## HOOFDSTUK 13. Wijzigingsbepaling
+
+### ART 82.
+
+In het koninklijk besluit van 8 juni 2007 houdende de voorwaarden voor erkenning van de onderzoeksinstellingen die in het kader van onderzoeksprojecten gastovereenkomsten met onderzoekers uit niet-EU-landen willen afsluiten en tot vaststelling van de voorwaarden waaronder dergelijke gastovereenkomsten kunnen worden afgesloten wordt titel III, die bestaat uit artikel 9 tot en met 11, opgeheven.
 
 ## HOOFDSTUK 14. Slotbepalingen
 
