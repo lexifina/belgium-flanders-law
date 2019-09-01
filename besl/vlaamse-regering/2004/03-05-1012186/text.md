@@ -235,19 +235,19 @@ De gouverneur kan voor een kind geen ouderschapsverlof in de vorm van loopbaanon
 
 ### ART. 29.
 
-De gouverneur heeft recht op voltijdse of halftijdse loopbaanonderbreking om palliatieve verzorging te verstrekken. De duur van de voltijdse en halftijdse loopbaanonderbreking om palliatieve verzorging te verstrekken bedraagt één maand, eenmaal verlengbaar met één maand. Bij verlenging met een maand kan de gouverneur de opnamevorm wijzigen.
+De gouverneur heeft recht op voltijdse , halftijdse of 1/5 loopbaanonderbreking om palliatieve verzorging te verstrekken. De duur van de voltijdse, halftijdse of 1/5 loopbaanonderbreking om palliatieve verzorging te verstrekken bedraagt één maand, eenmaal verlengbaar met één maand. Bij verlenging met een maand kan de gouverneur de opnamevorm wijzigen.
 
 ## [HOOFDSTUK III BIJSTAND AAN OF VERZORGING VAN EEN ZWAAR ZIEK GEZINS- OF FAMILIELID (verv. BVR 9 september 2011, art. 11)]
 
 ### ART. 30.
 
-§ 1. De gouverneur heeft recht op voltijdse of halftijdse loopbaanonderbreking voor bijstand aan of verzorging van een zwaar ziek gezins- of familielid.<br>
+§ 1. De gouverneur heeft recht op voltijdse, halftijdse of 1/5 loopbaanonderbreking voor bijstand aan of verzorging van een zwaar ziek gezins- of familielid.<br>
 <br>
-De maximumduur per patiënt bedraagt voor de voltijdse loopbaanonderbreking 12 maanden en voor de halftijdse loopbaanonderbreking 24 maanden.<br>
+De maximumduur per patiënt bedraagt voor de voltijdse loopbaanonderbreking 12 maanden en voor de halftijdse of 1/5&nbsp;loopbaanonderbreking 24 maanden.<br>
 <br>
-Als de gouverneur uitsluitend en effectief samenwoont met minstens één kind en het verlof opneemt om bijstand te verlenen aan een zwaar ziek kind van hoogstens 16 jaar, bedraagt de maximumduur van de voltijdse loopbaanonderbreking evenwel 24 maanden, en van de halftijdse loopbaanonderbreking 48 maanden.<br>
+Als de gouverneur uitsluitend en effectief samenwoont met minstens één kind en het verlof opneemt om bijstand te verlenen aan een zwaar ziek kind van hoogstens 16 jaar, bedraagt de maximumduur van de voltijdse loopbaanonderbreking evenwel 24 maanden, en van de halftijdse of 1/5&nbsp;loopbaanonderbreking 48 maanden.<br>
 <br>
-§ 2. De gouverneur kan de voltijdse en halftijdse loopbaanonderbreking voor de bijstand aan of de verzorging van een zwaar ziek gezins- of familielid nemen in al dan niet opeenvolgende perioden van minimaal één en maximaal drie maanden. De gouverneur kan bij elke nieuwe periode van loopbaanonderbreking voor de bijstand aan of de verzorging van een zwaar ziek gezins- of familielid veranderen van opnamevorm, overeenkomstig het principe dat één maand voltijdse loopbaanonderbreking gelijkstaat met twee maanden halftijdse loopbaanonderbreking. Daarbij mag de gouverneur het equivalent van, naargelang van het geval, 12 of 24 maanden voltijdse loopbaanonderbreking niet overschrijden.<br>
+§ 2. De gouverneur kan de voltijdse, halftijdse of 1/5&nbsp; loopbaanonderbreking voor de bijstand aan of de verzorging van een zwaar ziek gezins- of familielid nemen in al dan niet opeenvolgende perioden van minimaal één en maximaal drie maanden. De gouverneur kan bij elke nieuwe periode van loopbaanonderbreking voor de bijstand aan of de verzorging van een zwaar ziek gezins- of familielid veranderen van opnamevorm, overeenkomstig het principe dat één maand voltijdse loopbaanonderbreking gelijkstaat met twee maanden halftijdse loopbaanonderbreking en vijf maanden 1/5 loopbaanonderbreking. Daarbij mag de gouverneur het equivalent van, naargelang van het geval, 12 of 24 maanden voltijdse loopbaanonderbreking niet overschrijden.<br>
 <br>
 In afwijking van het eerste lid kan een gouverneur voor de bijstand of de verzorging van een minderjarig kind, tijdens of vlak na de ziekenhuisopname van het kind als gevolg van een zware ziekte, gedurende een week voltijdse loopbaanonderbreking opnemen, eventueel verlengbaar met een week.<br>
 <br>
@@ -263,7 +263,7 @@ Als de gouverneurs, vermeld in het vierde lid, niet kunnen gebruikmaken van de o
 <br>
 De gouverneur die de verlengingsmogelijkheid, vermeld in het tweede lid, heeft uitgeput, kan zijn voltijdse medische-bijstandsverlof nog uitbreiden tot een maand door ook voor de tussenliggende periode voltijds medische-bijstandsverlof te nemen.<br>
 <br>
-§ 3. Het equivalent van 12 of 24 maanden voltijdse loopbaanonderbreking wordt verminderd met de duur van de voltijdse of halftijdse loopbaanonderbrekingen die de gouverneur in om het even welke hoedanigheid bij dezelfde of een andere werkgever voor dezelfde patiënt heeft genoten.
+§ 3. Het equivalent van 12 of 24 maanden voltijdse loopbaanonderbreking wordt verminderd met de duur van de voltijdse, halftijdse en 1/5 loopbaanonderbrekingen die de gouverneur in om het even welke hoedanigheid bij dezelfde of een andere werkgever voor dezelfde patiënt heeft genoten.
 
 ## [HOOFDSTUK IV OUDERSCHAPSVERLOF (verv. BVR 9 september 2011, art. 11)]
 
