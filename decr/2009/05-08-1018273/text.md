@@ -91,7 +91,13 @@ Dit hoofdstuk is, met uitzondering van afdeling II, niet van toepassing op de ba
 
 ### ART. 8.
 
-Elke instelling stelt jaarlijks een nascholingsplan op. Dat nascholingsplan bevat op een samenhangende wijze alle vormingsinspanningen die erop gericht zijn de kennis, vaardigheden en attitudes van de personeelsleden van de instelling te ontwikkelen, te verbreden of te verdiepen en begeleidingsinitiatieven die gericht zijn op organisatieontwikkeling.<br /><br />Het nascholingsplan wordt goedgekeurd door ofwel het lokaal comité ofwel, bij ontstentenis hiervan, door de algemene personeelsvergadering.<br /><br />Onder lokaal comité wordt verstaan : het voor arbeidsvoorwaarden en personeelsaangelegenheden bevoegde lokale overlegorgaan of onderhandelingsorgaan.
+Elke instelling stelt jaarlijks een nascholingsplan op. Dat professionaliseringsplan bevat op een samenhangende wijze alle vormingsinspanningen die erop gericht zijn de kennis, vaardigheden en attitudes van de personeelsleden van de instelling te ontwikkelen, te verbreden of te verdiepen en begeleidingsinitiatieven die gericht zijn op organisatieontwikkeling.<br>
+<br>
+In het professionaliseringsplan worden ook de aanpak en uitwerking opgenomen van de aanvangsbegeleiding voor de personeelsleden die aangesteld zijn voor bepaalde duur als vermeld in artikel 20bis van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 en artikel 20bis van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
+<br>
+Het professionaliseringsplan wordt goedgekeurd door ofwel het lokaal comité ofwel, bij ontstentenis hiervan, door de algemene personeelsvergadering.<br>
+<br>
+Onder lokaal comité wordt verstaan : het voor arbeidsvoorwaarden en personeelsaangelegenheden bevoegde lokale overlegorgaan of onderhandelingsorgaan.
 
 ### ART. 9.
 
@@ -157,7 +163,27 @@ Deze titel is niet van toepassing op de basiseducatie en de Centra voor Volwasse
 
 ### ART. 15.
 
-§ 1. De pedagogische begeleidingsdiensten hebben de volgende opdrachten :   <BR>1° de onderwijsinstellingen in kwestie ondersteunen bij de realisatie van   hun eigen pedagogisch of agogisch project en de CLB's in kwestie ondersteunen   bij de realisatie van hun eigen missie en hun eigen begeleidingsproject;<BR>2°   de onderwijsinstellingen en de CLB's in kwestie ondersteunen bij het bevorderen   van hun onderwijskwaliteit, respectievelijk de kwaliteit van hun   leerlingenbegeleiding en bij hun ontwikkeling tot professionele lerende   organisatie door :<BR>a) netwerkvorming te bevorderen en netwerken te   ondersteunen;<BR>b) leidinggevenden te ondersteunen of te vormen;<BR>c) de   beroepsbekwaamheid van de personeelsleden te ondersteunen binnen een school of   centrum en instellingsoverstijgend met bijzondere aandacht voor beginnende   personeelsleden, personeelsleden met specifieke opdrachten. Daarnaast dient   prioritair aandacht besteed te worden aan de competenties in het kader van het   onderwijs aan leerlingen met specifieke onderwijsbehoeften;<BR>d) het   beleidsvoerend vermogen van instellingen te versterken;<BR>e) de kwaliteitszorg   van instellingen te ondersteunen;<BR>3° op verzoek van het bestuur van de   instelling de instelling ondersteunen en begeleiden bij de uitwerking van de   aangegeven actiepunten na een doorlichting;<BR>4° onderwijsinnovaties aanreiken,   stimuleren en ondersteunen;<BR>5° aanbodgerichte nascholingsactiviteiten   aanreiken en aansturen met inbegrip van de nascholing van directies;<BR>6° met   verscheidene onderwijsactoren op verschillende niveaus overleggen over   onderwijskwaliteit en de kwaliteit van de leerlingenbegeleiding;<BR>7°   participeren aan de aansturing of opvolging van ondersteuningsinitiatieven   georganiseerd of gesubsidieerd door de Vlaamse Regering die als doelstelling het   ondersteunen van instellingen, leerkrachten of begeleiders hebben.<BR><BR>§ 2.   Iedere pedagogische begeleidingsdienst stelt driejaarlijks een begeleidingsplan   op voor de volgende drie schooljaren. De pedagogische begeleidingsdienst deelt   dat begeleidingsplan mee aan de instellingen en aan de Vlaamse   Regering.<BR><BR>Jaarlijks rapporteren de pedagogische begeleidingsdiensten aan   de Vlaamse Regering over de activiteiten van het vorige schooljaar, met inbegrip   van een financiële verantwoording over de ontvangen werkingsmiddelen.<BR><BR>§   3. Iedere pedagogische begeleidingsdienst stelt een werkingscode op en maakt die   bekend bij de instellingen en hun personeelsleden.<BR><BR>§ 4. Elke pedagogische   begeleidingsdienst onderzoekt en bewaakt op systematische wijze haar eigen   kwaliteit. De pedagogische begeleidingsdienst kiest zelf de wijze waarop zij dit   doet.
+§ 1. De pedagogische begeleidingsdiensten hebben de volgende opdrachten :<br>
+1° de onderwijsinstellingen in kwestie ondersteunen bij de realisatie van hun eigen pedagogisch of agogisch project en de CLB's in kwestie ondersteunen bij de realisatie van hun eigen missie en hun eigen begeleidingsproject;<br>
+2° de onderwijsinstellingen en de CLB's in kwestie ondersteunen bij het bevorderen van hun onderwijskwaliteit, respectievelijk de kwaliteit van hun leerlingenbegeleiding en bij hun ontwikkeling tot professionele lerende organisatie door :<br>
+a) netwerkvorming te bevorderen en netwerken te ondersteunen;<br>
+b) leidinggevenden te ondersteunen of te vormen;<br>
+c) de beroepsbekwaamheid van de personeelsleden te ondersteunen binnen een school of centrum en instellingsoverstijgend met bijzondere aandacht voor beginnende personeelsleden, personeelsleden met specifieke opdrachten. Daarnaast dient prioritair aandacht besteed te worden aan de competenties in het kader van het onderwijs aan leerlingen met specifieke onderwijsbehoeften;<br>
+d) het beleidsvoerend vermogen van instellingen te versterken;<br>
+e) de kwaliteitszorg van instellingen te ondersteunen;<br>
+3° op verzoek van het bestuur van de instelling de instelling ondersteunen en begeleiden bij de uitwerking van de aangegeven actiepunten na een doorlichting;<br>
+4° onderwijsinnovaties aanreiken, stimuleren en ondersteunen;<br>
+5° aanbodgerichte nascholingsactiviteiten aanreiken en aansturen met inbegrip van de nascholing van directies;<br>
+6° met verscheidene onderwijsactoren op verschillende niveaus overleggen over onderwijskwaliteit en de kwaliteit van de leerlingenbegeleiding;<br>
+7° participeren aan de aansturing of opvolging van ondersteuningsinitiatieven georganiseerd of gesubsidieerd door de Vlaamse Regering die als doelstelling het ondersteunen van instellingen, leerkrachten of begeleiders hebben.<br>
+<br>
+§ 2. Iedere pedagogische begeleidingsdienst stelt driejaarlijks een begeleidingsplan op voor de volgende drie schooljaren. De pedagogische begeleidingsdienst deelt dat begeleidingsplan mee aan de instellingen en aan de Vlaamse Regering.<br>
+<br>
+Jaarlijks rapporteren de pedagogische begeleidingsdiensten aan de Vlaamse Regering over de activiteiten van het vorige schooljaar. De stukken ter verantwoording van de ontvangen werkingsmiddelen moeten op de zetel van de pedagogische begeleidingsdiensten worden bewaard, waar ze voor controle ter beschikking zijn van de bevoegde diensten.<br>
+<br>
+§ 3. Iedere pedagogische begeleidingsdienst stelt een werkingscode op en maakt die bekend bij de instellingen en hun personeelsleden.<br>
+<br>
+§ 4. Elke pedagogische begeleidingsdienst onderzoekt en bewaakt op systematische wijze haar eigen kwaliteit. De pedagogische begeleidingsdienst kiest zelf de wijze waarop zij dit doet.
 
 ## HOOFDSTUK III. Omkadering en werkingsmiddelen
 
@@ -184,7 +210,7 @@ Een pedagogische begeleidingsdienst die recht heeft op minder dan twintig halfti
 <br>
 § 6. Binnen iedere pedagogische begeleidingsdienst kan, met het oog op de uitoefening van bestuurlijke en organisatorische taken ten behoeve van deze pedagogische begeleidingsdienst, aan maximum drie voltijdse of zes halftijdse vastbenoemde pedagogische adviseurs een verlof wegens opdracht worden toegekend, zoals vermeld in artikel 51quater, § 3, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding of artikel 77quater, § 3, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs.<br>
 <br>
-§ 7. De pedagogische begeleidingsdienst die op 1 februari 2015 voor het eerst 350 of meer organieke betrekkingen telt in een van de niveaus, vermeld in § 1, zal voor het schooljaar 2015-2016&nbsp;tot en met het schooljaar 2018-2019 niet over een personeelsformatie beschikken.
+§ 7. De pedagogische begeleidingsdienst die op 1 februari 2015 voor het eerst 350 of meer organieke betrekkingen telt in een van de niveaus, vermeld in § 1, zal voor het schooljaar 2015-2016&nbsp;tot en met het schooljaar 2019-2020 niet over een personeelsformatie beschikken.
 
 ## Afdeling II. Verloven wegens bijzondere opdracht
 
@@ -477,12 +503,13 @@ Het doorlichtingsteam, met inbegrip van de deelnemende externe deskundigen, stel
 3° advies "erkenning" : dit houdt in dat de nieuwe instelling met ingang van 1 september van het volgende schooljaar erkend is;<br>
 4° advies "geen erkenning" : dit houdt in dat de nieuwe instelling niet erkend wordt.<br>
 <br>
-§ 5. Voor de hele instelling of voor een afzonderlijk structuuronderdeel zijn de volgende adviezen mogelijk :<br>
+§ 5. Voor de hele instelling of voor een afzonderlijk structuuronderdeel, en dit eventueel binnen een vestigingsplaats, zijn de volgende adviezen mogelijk:<br>
 1° gunstig advies : dit houdt in dat de erkenning van de instelling of van structuuronderdelen voortgezet wordt.<br>
 Een gunstig advies kan het bestuur verplichten zich te engageren om aan de tekorten te werken.<br>
 2° ongunstig advies : dit houdt in dat de procedure tot intrekking van de erkenning van de instelling of van structuuronderdelen opgestart wordt, met daarbij de vermelding van :<br>
 a) de mogelijkheid tot opschorting : dit houdt in dat het bestuur kan verzoeken dat de procedure tot intrekking van de erkenning niet opgestart wordt op voorwaarde dat het bestuur het engagement aangaat om zich bij het werken aan de tekorten extern te laten begeleiden;<br>
-b) de onmogelijkheid tot opschorting : dit houdt in dat het bestuur niet kan verzoeken dat de procedure tot intrekking van de erkenning niet opgestart wordt.
+b) de onmogelijkheid tot opschorting : dit houdt in dat het bestuur niet kan verzoeken dat de procedure tot intrekking van de erkenning niet opgestart wordt.<br>
+Een ongunstig advies voor een structuuronderdeel binnen een vestigingsplaats, kan nooit automatisch leiden tot de intrekking van de erkenning van dat structuuronderdeel als datzelfde structuuronderdeel ook aangeboden wordt op andere vestigingsplaatsen.
 
 ### ART. 40.
 
@@ -1024,6 +1051,25 @@ De aanstelling van een personeelslid dat is aangesteld voor bepaalde duur in het
 De Vlaamse Regering kan een tijdelijk personeelslid dat aangesteld is voor bepaalde duur in het ambt van coördinerend inspecteur of inspecteur-generaal zonder opzegging om dringende redenen ontslaan. <br /><br />Onder dringende redenen wordt verstaan de ernstige tekortkoming die het voortduren van de tijdelijke aanstelling onmiddellijk en definitief onmogelijk maakt. Ontslag om dringende reden overeenkomstig de bepalingen van dit artikel kan niet meer worden gegeven, wanneer het feit ter rechtvaardiging ervan sedert ten minste drie werkdagen bekend is bij de Vlaamse Regering.<br /><br />Alleen de dringende redenen waarvan kennis is gegeven per aangetekende brief, verzonden binnen drie werkdagen na het ontslag, kunnen worden aangewend ter rechtvaardiging van het ontslag. Deze brief vermeldt, op straffe van nietigheid, de beroepsmogelijkheden.<br /><br />Het personeelslid kan binnen vijf kalenderdagen na ontvangst van het ontslag om dringende redenen per aangetekende brief beroep aantekenen bij de raad van beroep, vermeld in artikel 135, volgens de procedure, vermeld in artikel 138. Bij ontvangst van het ontslag tijdens een periode van ten minste zeven opeenvolgende vakantiedagen, wordt voornoemde periode van vijf kalenderdagen verlengd met de duur van de vakantieperiode. <br /><br />Het beroep wordt ingesteld bij bezwaarschrift. Het beroep heeft een opschortende werking. Het personeelslid kan tijdens het beroep preventief worden geschorst. <br /><br />De Vlaamse Regering bepaalt de nadere regels voor de preventieve schorsing. Dit besluit garandeert het recht van verdediging.<br /><br />Deze preventieve schorsing beslaat de periode vanaf het ogenblik dat de beslissing aan het betrokken personeelslid wordt meegedeeld en tot de beroepsprocedure is beëindigd, met dien verstande dat de periode alleszins nooit langer kan zijn dan de oorspronkelijke tijdelijke aanstelling waarop het ontslag betrekking heeft.
 
 ## [HOOFDSTUK VI/1. Vastbenoemde personeelsleden die tijdelijk belast zijn met een andere opdracht (ing. decr. 5 april 2019, art. 60, I: 1 september 2019)]
+
+### ART 105/1.
+
+Een vastbenoemd personeelslid van de inspectie kan, met zijn instemming, geheel of gedeeltelijk afzien van de uitoefening van de opdracht waarvoor het vastbenoemd is om tijdelijk belast te worden met een andere opdracht waarvoor het niet vastbenoemd is. Het vastbenoemde personeelslid vraagt daarvoor aan de inspecteur-generaal een verlof om tijdelijk een andere opdracht uit te oefenen. De inspecteur-generaal kan dat verlof toestaan.<br>
+<br>
+Het personeelslid kan het verlof, vermeld in het eerste lid, ook aanvragen aan de inspecteur-generaal om een opdracht op te nemen in een wervings-, selectie- of bevorderingsambt in een instelling als vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 of in artikel 4, § 1, a), van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991, in een centrum voor basiseducatie, in een hogeschool of bij de inspectie en begeleiding van de levensbeschouwelijke vakken. De inspecteur-generaal kan dat verlof toestaan.<br>
+<br>
+Tijdens de periode waarin het personeelslid tijdelijk belast wordt met een andere opdracht en voor de beëindiging ervan, gelden de regels die voor de tijdelijke personeelsleden van toepassing zijn op het ambt waarin het personeelslid tijdelijk aangesteld is.<br>
+<br>
+In afwijking van het derde lid wordt het vastbenoemde personeelslid tijdens de periode van tijdelijke aanstelling verder beschouwd als vastbenoemd personeelslid voor de toepassing van de reglementaire bepalingen over:<br>
+1° het bevallingsverlof;<br>
+2° het verlof wegens een bedreiging door een beroepsziekte en het verlof wegens moederschapsbescherming;<br>
+3° het verlof wegens ziekte of gebrekkigheid, met inbegrip van arbeidsongevallen, van ongevallen op de weg van en naar het werk en van beroepsziekten;<br>
+4° de anciënniteit voor het bepalen van het recht op verlof wegens ziekte of gebrekkigheid;<br>
+5° de toekenning van een vergoeding wegens begrafeniskosten.<br>
+<br>
+Dit lid is niet van toepassing op het personeelslid dat een tijdelijke opdracht uitoefent bij een hogeschool.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regeling van de administratieve en geldelijke toestand van de vastbenoemde personeelsleden van de inspectie die een verlof nemen om tijdelijk een andere opdracht uit te oefenen.
 
 ## HOOFDSTUK VII. Functiebeschrijving en evaluatie
 
