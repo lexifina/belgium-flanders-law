@@ -6,7 +6,39 @@ Dit besluit is toepasselijk op het [voltijds secundair onderwijs  <span class="r
 
 ### ART. 2.
 
-§ 1. Als algemene vakken worden beschouwd, de vakken die in het leerplan voorkomen onder één van de volgende benamingen:<br />- godsdienst, niet confessionele zedenleer, eigen cultuur en religie, cultuurbeschouwing;<br />- Nederlands, Frans, Engels, Duits, Spaans, Italiaans, Russisch;<br />- klassieke studiën, Grieks, Latijn, antieke cultuur;<br />- maatschappelijke vorming, geschiedenis, aardrijkskunde;<br />- media;<br />- kunstgeschiedenis;<br />- wiskunde;<br />- wetenschappelijk tekenen;<br />- natuurwetenschappen, biologie, fysica, chemie, biochemie, wetenschappelijke literatuur, ecologie, wetenschappelijk werk;<br />- economie, socio-economische initiatie;<br />- esthetica;<br />- technisch-wetenschappelijke vorming;<br />- lichamelijke opvoeding;<br />- psychologie, pedagogie;<br />- filosofie;<br />- project algemene vakken;<br />- artistieke opvoeding, muzikale opvoeding, plastische opvoeding;<br />- exploratie;<br />- expressie;<br />- sociale activiteit;<br />- sport vanaf 1 september 2002, ter vervanging van het technisch vak sport bedoeld in artikel 4, § 2; <br />- informatica;<br />- sociologie; <br />- cultuurwetenschappen;<br />- gedragswetenschappen vanaf 1 september 2002; <br />- psychomotorische oefeningen (tot en met 31 augustus 2002)<br />- sportactiviteit (tot en met 31 augustus 2002);<br />- Nederlands voor nieuwkomers.<br /><br />§ 2. De benaming « Nederlands voor nieuwkomers » is voorbehouden aan het onthaalonderwijs voor anderstalige nieuwkomers. <br />
+§ 1. Als algemene vakken worden beschouwd, de vakken die in het leerplan voorkomen onder één van de volgende benamingen:<br>
+- godsdienst, niet confessionele zedenleer, eigen cultuur en religie, cultuurbeschouwing;<br>
+- Nederlands, Frans, Engels, Duits, Spaans, Italiaans, Russisch;<br>
+- klassieke studiën, Grieks, Latijn, antieke cultuur;<br>
+- maatschappelijke vorming, geschiedenis, aardrijkskunde;<br>
+- media;<br>
+- kunstgeschiedenis;<br>
+- wiskunde;<br>
+- wetenschappelijk tekenen;<br>
+- natuurwetenschappen, biologie, fysica, chemie, biochemie, wetenschappelijke literatuur, ecologie, wetenschappelijk werk;<br>
+- economie, socio-economische initiatie;<br>
+- esthetica;<br>
+- technisch-wetenschappelijke vorming;<br>
+- lichamelijke opvoeding;<br>
+- psychologie, pedagogie;<br>
+- filosofie;<br>
+- project algemene vakken;<br>
+- artistieke opvoeding, muzikale opvoeding, plastische opvoeding;<br>
+- exploratie;<br>
+- expressie;<br>
+- sociale activiteit;<br>
+- sport vanaf 1 september 2002, ter vervanging van het technisch vak sport bedoeld in artikel 4, § 2;<br>
+- informatica;<br>
+- sociologie;<br>
+- cultuurwetenschappen;<br>
+- gedragswetenschappen vanaf 1 september 2002;<br>
+- psychomotorische oefeningen (tot en met 31 augustus 2002)<br>
+- sportactiviteit (tot en met 31 augustus 2002);<br>
+- Nederlands voor nieuwkomers.<br>
+<br>
+Alle levende talen worden ook als algemene vakken beschouwd.<br>
+<br>
+§ 2. De benaming « Nederlands voor nieuwkomers » is voorbehouden aan het onthaalonderwijs voor anderstalige nieuwkomers.
 
 ### ART. 3.
 
