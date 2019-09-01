@@ -127,7 +127,15 @@ De   bijstandsorganisaties hebben een collectieve opdracht, zowel voor de   budg
 
 ### ART. 16.
 
-<P>Binnen   de perken van de daarvoor op de begroting vastgelegde kredieten, kent het   agentschap aan vergunde bijstandsorganisaties een jaarlijkse basissubsidie toe   om de collectieve opdracht, vermeld in artikel 10, uit te voeren.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   basissubsidie bedraagt minimaal 40.000 euro. Voor bijstandsorganisaties die   volgens de rapportering, vermeld in artikel 14, meer dan vijfhonderd leden   tellen bedraagt de basissubsidie 90.000 euro. Voor bijstandsorganisaties die   volgens de rapportering, vermeld in artikel 10, minder dan vijfhonderd leden   tellen, wordt de basissubsidie berekend volgens de formule:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Aantal   leden gedeeld door vijfhonderd vermenigvuldigd met 90.000 euro.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Per   aangesloten budgethouder, zoals vastgesteld in de rapportering, vermeld in   artikel 14, kent het agentschap een subsidie van 170 euro toe.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   subsidies, vermeld in het tweede en derde lid, worden jaarlijks voor 1 april van   het kalenderjaar waarop ze betrekking hebben, uitbetaald.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Binnen de perken van de daarvoor op de begroting vastgelegde kredieten, kent het agentschap aan vergunde bijstandsorganisaties een jaarlijkse basissubsidie toe om de collectieve opdracht, vermeld in artikel 10, uit te voeren.</p>
+
+<p>De basissubsidie bedraagt minimaal 40.096&nbsp;euro. Voor bijstandsorganisaties die volgens de rapportering, vermeld in artikel 14, meer dan vijfhonderd leden tellen bedraagt de basissubsidie 90.216&nbsp;euro. Voor bijstandsorganisaties die volgens de rapportering, vermeld in artikel 10, minder dan vijfhonderd leden tellen, wordt de basissubsidie berekend volgens de formule:</p>
+
+<p>Aantal leden gedeeld door vijfhonderd vermenigvuldigd met 90.216 euro.</p>
+
+<p>Per aangesloten budgethouder, zoals vastgesteld in de rapportering, vermeld in artikel 14, kent het agentschap een subsidie van 170,41 euro toe.</p>
+
+<p>De subsidies, vermeld in het tweede en derde lid, worden jaarlijks voor 1 april van het kalenderjaar waarop ze betrekking hebben, uitbetaald.</p>
 
 ### ART 16/1.
 
