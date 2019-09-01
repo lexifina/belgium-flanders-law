@@ -68,6 +68,7 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 57° de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers;<br>
 58° de wet van 19 februari 1965 betreffende de uitoefening van de zelfstandige beroepsactiviteiten der vreemdelingen;<br>
 59° de toekenning van transitiepremies voor ondernemers, vermeld in artikel 3 van het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren.<br>
+60° de opleidingscheques voor werknemers, vermeld in artikel 2 van het decreet van 22 maart 2019 betreffende de opleidingscheques voor werknemers, de invoering van een registratieverplichting voor sportmakelaars en tot wijziging van diverse andere bepalingen inzake het beleidsdomein Werk en Sociale Economie.<br>
 <br>
 De sociaalrechtelijke inspecteurs zijn tevens bevoegd voor de controle en het toezicht op de regelgeving waarvoor het Vlaamse Gewest gemachtigd is krachtens de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waar in artikel 6, § 1, IX, 2°, de bevoegdheid aan de gewesten wordt gegeven met betrekking tot programma's voor wedertewerk-stelling.<br>
 <br>
@@ -435,6 +436,22 @@ b) hebben gebruikgemaakt van die gegevens, terwijl ze weten dat de aldus verkreg
 3° de opdrachtgever, buiten het kader van een onderaanneming, als zijn aannemer een van de inbreuken, vermeld in artikel 12/2 van de voormelde wet, pleegt, als de opdrachtgever, voorafgaand aan de door hem gepleegde inbreuk, op de hoogte is van het feit dat zijn aannemer een of meer illegaal verblijvende onderdanen van derde landen tewerkstelt;<br>
 4° de opdrachtgever, binnen het kader van een onderaanneming, als de na zijn aannemer rechtstreeks of onrechtstreeks komende onderaannemer een inbreuk als vermeld in artikel 12/2 van de voormelde wet, pleegt, als de opdrachtgever, voorafgaand aan de door hem gepleegde inbreuk, op de hoogte is van het feit dat de na zijn aannemer rechtstreeks of onrechtstreeks komende onderaannemer een of meer illegaal verblijvende onderdanen van derde landen tewerkstelt.
 
+### ART 13/7.
+
+§ 1. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op hoofdstuk IV, afdeling 6, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, een administratieve geldboete opgelegd worden van 250 euro tot 2500 euro aan de personen die onjuiste of onvolledige verklaringen hebben afgelegd met het oog op de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet.<br>
+<br>
+§ 2. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op hoofdstuk IV, afdeling 6, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, een administratieve geldboete opgelegd worden van 500 euro tot 5000 euro aan :<br>
+1° de personen die wetens en willens onjuiste of onvolledige verklaringen hebben afgelegd met het oog op de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet;<br>
+2° de personen die wetens en willens hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze gehouden zijn te verstrekken, om de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+3° de personen die wetens en willens de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet, ten onrechte hebben verkregen of behouden waarop ze geen of maar gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+4° de personen die, om de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden :<br>
+a) valsheid in geschrifte hebben gepleegd, hetzij door valse handtekeningen, hetzij door namaking of vervalsing van geschriften of handtekeningen, hetzij door overeenkomsten, beschikkingen, verbintenissen of schuldbevrijdingen valselijk op te maken of in een akte in te voegen, hetzij door toevoeging of vervalsing van bedingen, verklaringen of feiten die in de akte opgenomen of vastgesteld moeten worden;<br>
+b) zich bediend hebben van een valse akte of een vals stuk, terwijl ze weten dat de gebruikte akte of het gebruikte stuk vals is;<br>
+5° de personen die, om de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden :<br>
+a) bedrog hebben gepleegd door gegevens die worden opgeslagen, verwerkt of overgedragen via een informaticasysteem, in te brengen in een informaticasysteem, te wijzigen of te wissen, of met een ander technologisch middel de mogelijke aanwending van gegevens in een informaticasysteem te veranderen, waardoor de juridische draagwijdte van de gegevens verandert;<br>
+b) hebben gebruikgemaakt van die gegevens, terwijl ze weten dat de aldus verkregen gegevens vals zijn;<br>
+6° de personen die, om de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden, hebben gebruikgemaakt van valse namen, valse hoedanigheden of valse adressen of die een andere frauduleuze handeling hebben gesteld om te doen geloven in het bestaan van een fictieve persoon, een fictieve onderneming of een fictieve gebeurtenis, of om op een andere wijze misbruik te maken van het vertrouwen.
+
 ### ART. 14.
 
 Wanneer de inbreuk door zijn aangestelde of lasthebber is begaan, is de administratieve geldboete alleen op het opleidingscentrum, de werkgever of, in voorkomend geval, de gebruiker, van toepassing.
@@ -504,7 +521,7 @@ Onder dezelfde voorwaarden als voorzien voor strafrechtelijke geldboeten,   word
 
 ### ART. 19.
 
-<p>Als binnen vijf jaar, te rekenen vanaf de datum van het proces-verbaal, een nieuwe inbreuk wordt vastgesteld, worden de bedragen, vermeld in artikel 13 tot en met 13/6, verdubbeld. Het bedrag, vermeld in artikel 18, mag in dat geval evenwel 40.000 euro niet overschrijden of het viervoud van de hoogste administratieve geldboete als dat bedrag hoger is.</p>
+<p>Als binnen vijf jaar, te rekenen vanaf de datum van het proces-verbaal, een nieuwe inbreuk wordt vastgesteld, worden de bedragen, vermeld in artikel 13 tot en met 13/7, verdubbeld. Het bedrag, vermeld in artikel 18, mag in dat geval evenwel 40.000 euro niet overschrijden of het viervoud van de hoogste administratieve geldboete als dat bedrag hoger is.</p>
 
 ### ART. 20.
 
@@ -518,7 +535,7 @@ Onder de voorwaarden, vermeld in deze afdeling, kan voor de volgende   inbreuken
 
 ### ART. 21/1.
 
-Onder de voorwaarden, vermeld in deze afdeling, kan voor de volgende   inbreuken op hoofdstuk IV, afdeling 6, van de herstelwet van 22 januari 1985   houdende sociale bepalingen, een administratieve geldboete opgelegd worden van   50 euro tot 500 euro aan:<BR>1° eenieder die onjuiste inlichtingen verschaft met   het oog op de toepassing van de regels over het educatief verlof, vermeld in   hoofdstuk IV, afdeling 6, van de herstelwet van 22 januari 1985 houdende sociale   bepalingen en de uitvoeringsbesluiten ervan;<BR>2° de werkgever, zijn   aangestelde of lasthebber die, in strijd met hoofdstuk IV, afdeling 6, van de   herstelwet van 22 januari 1985 houdende sociale bepalingen, een werknemer die   naar behoren een aanvraag tot educatief verlof heeft ingediend, het recht   weigert afwezig te zijn met het oog op het volgen van de cursus.<BR><BR>Voor de   inbreuken, vermeld in het eerste lid, 1° en 2°, wordt de geldboete   vermenigvuldigd met het aantal betrokken werknemers. De vermenigvuldigde   geldboete mag evenwel niet meer dan het honderdvoud van de maximumgeldboete   bedragen.
+Onder de voorwaarden, vermeld in deze afdeling, kan aan de werknemer die de opleiding niet nauwgezet volgt en die meer opleidingsverlof opneemt dan de uren waarop de werknemer recht heeft volgens artikel 111 en 116 van de herstelwet van 22 januari 1985 houdende sociale bepalingen en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 50 euro tot 500 euro.
 
 ### ART 21/2.
 
