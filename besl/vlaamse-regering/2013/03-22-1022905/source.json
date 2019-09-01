@@ -2,16 +2,16 @@
   "codex_id": 1022905,
   "title": "Besluit van de Vlaamse Regering van 2013-03-22 betreffende het inzagerecht en de bemiddeling bij interlandelijke adoptie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022905/VolledigDocument?datum=2019-04-18",
-  "source_sha256": "2bfb38c5a85f9ab53caba566b8782b5507c0c11f1b103734a6ddddf2b785958e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022905/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "b10719ddafe1e9981d0108a8b83ee6f8fc530a1974b7f184ca59b5303792b715",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022905&param=informatie",
-  "as_of": "2019-04-18",
+  "as_of": "2019-09-01",
   "made": "2013-03-22",
   "gazette": "2013-05-06",
   "numac": 2013035398,
   "document_start": "2013-05-17",
   "document_end": null,
-  "in_force": "2019-04-18",
-  "article_versions": 81,
-  "record_form": "consolidated version as in force on 2019-04-18; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-09-01",
+  "article_versions": 83,
+  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
 }

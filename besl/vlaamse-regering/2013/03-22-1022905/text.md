@@ -54,7 +54,13 @@ Het Vlaams Centrum voor Adoptie brengt de adoptiedienst met een   aangetekende b
 
 ### ART. 9.
 
-<P>§ 1. Wanneer het Vlaams Centrum voor Adoptie het kanaal voorlopig goedkeurt,   geeft het de adoptiedienst de toelating om er minimaal drie proefdossiers op te   starten.<BR></P>  <P>De adoptiedienst deelt het Vlaams Centrum voor Adoptie de namen van de   kandidaat-adoptanten van de proefdossiers mee. De adoptiedienst communiceert op   regelmatige basis over de stand van zaken van de proefdossiers aan het Vlaams   Centrum voor Adoptie.<BR></P>  <P>§ 2. De adoptiedienst neemt, indien nodig, de nodige maatregelen om een   kandidaat-adoptant te heroriënteren naar een ander kanaal. Dit gebeurt steeds in   samenspraak met het Vlaams Centrum voor Adoptie.<BR></P>
+<p>§ 1. Wanneer het Vlaams Centrum voor Adoptie het kanaal voorlopig goedkeurt, geeft het de adoptiedienst de toelating om er minimaal drie proefdossiers op te starten.</p>
+
+<p>De adoptiedienst deelt het Vlaams Centrum voor Adoptie de namen van de kandidaat-adoptanten van de proefdossiers mee. De adoptiedienst communiceert op regelmatige basis over de stand van zaken van de proefdossiers aan het Vlaams Centrum voor Adoptie.</p>
+
+<p>§ 2. Het Vlaams Centrum voor Adoptie kan, in samenspraak met de betrokken adoptiedienst, de kandidaat-adoptant van een proefdossier de toelating geven om gelijktijdig een tweede adoptieprocedure te starten via een ander, lopend kanaal bij dezelfde dienst als van het proefkanaal. Dat kan alleen overwogen worden als er geen plaatsing mogelijk is na het verstrijken van de initieel vooropgestelde wachttijd of als in de loop van de proeffase duidelijk wordt dat het verloop van de adoptieprocedure in de praktijk niet overeenstemt met het goedgekeurde kanaalonderzoek.<br>
+<br>
+§ 3. Als de adoptiedienst in een van beide adoptieprocedures een dossier als vermeld in artikel 361-3, 2°, van het Burgerlijk Wetboek, ontvangt, en het kind na de toewijzing, vermeld in artikel 17 van dit besluit, aanvaard wordt door de kandidaat-adoptant, wordt de andere adoptieprocedure onmiddellijk stopgezet. De bevoegde autoriteit van het tweede herkomstland wordt onmiddellijk en formeel op de hoogte gebracht van de stopzetting door de adoptiedienst, die een afschrift bezorgt van deze mededeling aan het Vlaams Centrum voor Adoptie.</p>
 
 ### ART. 10.
 
@@ -66,7 +72,18 @@ Het Vlaams Centrum voor Adoptie brengt de adoptiedienst met een   aangetekende b
 
 ### ART. 12.
 
-<P>§ 1. De adoptiedienst brengt het Vlaams Centrum voor Adoptie onverwijld op de   hoogte van elke wijziging in het kanaal.<BR></P>  <P>§ 2. Het Vlaams Centrum voor Adoptie kan het kanaal stopzetten, opschorten of   kan bijkomende voorwaarden opleggen aan de adoptiedienst als :<BR>1° de situatie   in het herkomstland dit vereist;<BR>2° de adoptiedienst of zijn contactpersonen   in het buitenland de toepasselijke wetgeving niet naleeft;<BR>3° adoptie via het   kanaal of uit het herkomstland niet langer in het hoger belang van het kind is   of het principe van subsidiariteit niet respecteert.<BR></P>  <P>Het Vlaams Centrum voor Adoptie brengt de adoptiedienst met een aangetekende   brief op de hoogte van haar beslissing. Deze beslissing vermeldt minstens de   elementen, vermeld in artikel 11, tweede lid.<BR></P>
+<p>§ 1. De adoptiedienst brengt het Vlaams Centrum voor Adoptie onverwijld op de hoogte van elke wijziging in het kanaal.</p>
+
+<p>§ 2. Het Vlaams Centrum voor Adoptie kan het kanaal stopzetten, opschorten of kan bijkomende voorwaarden opleggen aan de adoptiedienst als :<br>
+1° de situatie in het herkomstland dit vereist;<br>
+2° de adoptiedienst of zijn contactpersonen in het buitenland de toepasselijke wetgeving niet naleeft;<br>
+3° adoptie via het kanaal of uit het herkomstland niet langer in het hoger belang van het kind is of het principe van subsidiariteit niet respecteert.</p>
+
+<p>Het Vlaams Centrum voor Adoptie brengt de adoptiedienst met een aangetekende brief op de hoogte van haar beslissing. Deze beslissing vermeldt minstens de elementen, vermeld in artikel 11, tweede lid.<br>
+<br>
+§ 3. Als een kanaal wordt geschorst, vermeldt de beslissing tot schorsing ook uitdrukkelijk of er nog dossiers afgewerkt kunnen worden, en zo ja, welke dossiers en onder welke voorwaarden. Het Vlaams Centrum voor Adoptie kan, in samenspraak met de betrokken adoptiedienst, de kandidaat-adoptant aan wie nog geen kind is toegewezen, de toelating geven om een tweede adoptieprocedure te starten via een ander lopend kanaal.<br>
+<br>
+§ 4. Als de adoptiedienst in een van beide adoptieprocedures een dossier als vermeld in artikel 361-3, 2°, van het Burgerlijk Wetboek, ontvangt, en het kind na de toewijzing, vermeld in artikel 17 van dit besluit, aanvaard wordt door de kandidaat-adoptanten, wordt de andere adoptieprocedure onmiddellijk stopgezet. De bevoegde autoriteit van het tweede herkomstland wordt onmiddellijk en formeel door de adoptiedienst op de hoogte gebracht van de stopzetting, die een afschrift bezorgt van deze mededeling aan het Vlaams Centrum voor Adoptie.</p>
 
 ## HOOFDSTUK 3 Bemiddeling bij interlandelijke adoptie
 
@@ -78,7 +95,27 @@ Het Vlaams Centrum voor Adoptie brengt de adoptiedienst met een   aangetekende b
 
 ### ART. 14.
 
-<P>De adoptiedienst heeft een wachtlijst per lopend kanaal. De lengte van de   wachtlijst wordt vastgelegd in samenspraak met het Vlaams Centrum voor   Adoptie.<BR></P>  <P>De adoptiedienst neemt, indien nodig, de nodige maatregelen om een   kandidaat-adoptant te heroriënteren naar een ander kanaal. Dit gebeurt steeds in   samenspraak met het Vlaams Centrum voor Adoptie.<BR></P>  <P>De adoptiedienst bezorgt elk kwartaal een overzicht van de wachtlijsten aan   het Vlaams Centrum voor Adoptie.<BR></P>
+<p>De adoptiedienst heeft een wachtlijst per lopend kanaal. De lengte van de wachtlijst wordt vastgelegd in samenspraak met het Vlaams Centrum voor Adoptie.</p>
+
+<p>De adoptiedienst bezorgt elk kwartaal een overzicht van de wachtlijsten aan het Vlaams Centrum voor Adoptie.</p>
+
+### ART 14/1.
+
+§ 1. Bij sluiting of schorsing van een kanaal, ook in de proeffase, en ook als er uit één bepaald kanaal geen enkel kind kon worden geplaatst tijdens de afgelopen drie jaar, kan het Vlaams Centrum voor Adoptie, in samenspraak met de betrokken adoptiedienst, kandidaat-adoptieouders de toelating geven om opgenomen te worden op een andere wachtlijst.<br>
+<br>
+§ 2. Bij heroriëntering naar een andere wachtlijst in het geval, vermeld in paragraaf 1, informeert de adoptiedienst de kandidaat-adoptant binnen maximaal één maand over de mogelijkheid tot heroriëntering binnen de eigen dienst en over de mogelijkheid om te worden opgenomen op een wachtlijst van een ander herkomstland. Bij de heroriëntatie van de kandidaat-adoptant wordt rekening gehouden met de kenmerken van de kandidaat-adoptant, het profiel van het kind dat hij wil adopteren, en met de mogelijkheden om nieuwe bemiddelingscontracten af te sluiten voor een bepaald herkomstland. De kandidaat-adoptant ontvangt daarnaast informatie over de mogelijke praktische en financiële gevolgen bij de overstap naar een ander kanaal.<br>
+<br>
+Het Vlaams Centrum voor Adoptie faciliteert het nodige overleg tussen de adoptiediensten over de mogelijkheid voor de adoptant tot heroriëntering binnen dezelfde adoptiedienst, of opname op de wachtlijst van een andere adoptiedienst.<br>
+<br>
+De opname op de wachtlijst en de opstart van de begeleiding, vermeld in artikel 16, gebeurt met respect voor de datum van de bemiddelingsovereenkomst van de kandidaat-adoptant met betrekking tot het kanaal dat geschorst of gesloten is en verder in de volgorde van de datum van de bemiddelingsovereenkomsten van de kandidaat-adoptanten op de wachtlijst.<br>
+<br>
+§ 3. De kandidaat-adoptant neemt binnen een maand nadat de adoptiedienst het overzicht over zijn mogelijkheden, vermeld in paragraaf 2, heeft bezorgd, een beslissing over de mogelijkheid tot heroriëntatie naar een kanaal bij dezelfde of een andere adoptiedienst.<br>
+<br>
+§ 4. Gedurende de periode, vermeld in paragraaf 2 en 3, kunnen de adoptiediensten intakegesprekken met nieuwe kandidaat-adoptanten organiseren, maar mogen ze geen nieuwe bemiddelingsovereenkomsten sluiten.<br>
+<br>
+In uitzonderlijke gevallen en na overleg tussen de adoptiediensten en het Vlaams Centrum voor Adoptie kan afgeweken worden van het verbod, vermeld in het eerste lid.<br>
+<br>
+§ 5. Als de kandidaat-adoptant besluit om een contract te sluiten voor een kanaal bij een andere adoptiedienst, vraagt de betrokken adoptiedienst de stukken, vermeld in artikel 361-2 van het Burgerlijk Wetboek, op bij de vorige dienst waarmee de kandidaat-adoptant een bemiddelingsovereenkomst had gesloten. Die stukken worden met toestemming van de kandidaat-adoptant overgedragen naar de andere adoptiedienst en, waar mogelijk, hergebruikt.
 
 ### ART. 15.
 
@@ -88,11 +125,27 @@ De dossiers en wachtlijsten worden met maximale discretie behandeld en   conform
 
 ### ART. 16.
 
-De adoptiedienst begeleidt de kandidaat-adoptant bij het samenstellen van   het dossier dat verzonden moet worden naar het herkomstland. Dit dossier bevat   de stukken, vermeld in artikel 361.2 van het Burgerlijk Wetboek, en alle stukken   vereist door het herkomstland.<BR>
+De adoptiedienst begeleidt de kandidaat-adoptant doorheen de adoptieprocedure en zorgt ook voor de psychosociale ondersteuning tijdens dat proces. De begeleiding en de psychosociale ondersteuning omvatten minstens:<br>
+1° een intakegesprek waarbij het adoptieproject van de kandidaat-adoptant concreet vorm wordt gegeven aan de hand van de keuze voor een bepaald herkomstland en de verkenning van het kindprofiel waarvoor hij openstaat;<br>
+2° een of meer gesprekken voor de kandidaat-adoptant die overweegt om een kindje met specifieke ondersteuningsbehoeften te adopteren over zijn motivatie en draagkracht;<br>
+3° de begeleiding van de kandidaat-adoptant bij het samenstellen van het dossier dat verzonden moet worden naar het herkomstland. Dat dossier bevat de stukken, vermeld in artikel 361-2 van het Burgerlijk Wetboek, en alle stukken die zijn vereist door het herkomstland;<br>
+4° de begeleiding van de kandidaat-adoptant tijdens de wachttijd door hem regelmatig te informeren over de situatie in het herkomstland en de voortgang van de procedure.
 
 ### ART. 17.
 
-<P>Na ontvangst van de stukken, vermeld in artikel 361.3, 2° van het Burgerlijk   Wetboek, motiveert het interdisciplinair team van de adoptiedienst, vermeld in   artikel 31 van dit besluit, aan het Vlaams Centrum voor Adoptie waarom het kind   wordt toegewezen aan een specifieke kandidaat-adoptant. Na de goedkeuring van de   toewijzing van het kind aan de kandidaat-adoptant door de bevoegde instantie in   het herkomstland en het Vlaams Centrum voor Adoptie, licht de adoptiedienst de   kandidaat-adoptant in. De adoptiedienst overloopt het verslag betreffende het   kind met de kandidaat-adoptant. De kandidaat-adoptant kan advies inwinnen van   deskundigen vooraleer te beslissen om het toegewezen kind te aanvaarden.<BR></P>  <P>Na aanvaarding van het toegewezen kind door de kandidaat-adoptant, licht de   adoptiedienst de bevoegde instantie in het herkomstland en het Vlaams Centrum   voor Adoptie hierover in.<BR></P>
+Na de ontvangst van de stukken, vermeld in artikel 361-3, 2° van het Burgerlijk Wetboek, motiveert het multidisciplinaire team van de adoptiedienst, vermeld in artikel 31 van dit besluit, aan het Vlaams Centrum voor Adoptie waarom het kind wordt toegewezen aan een specifieke kandidaat-adoptant. Nadat de bevoegde instantie in het herkomstland en het Vlaams Centrum voor Adoptie de toewijzing van het kind aan de kandidaat-adoptant goedgekeurd hebben, licht de adoptiedienst de kandidaat-adoptant in. De adoptiedienst overloopt het verslag over het kind met de kandidaat-adoptant. De kandidaat-adoptant kan het advies van deskundigen inwinnen voor hij beslist om het toegewezen kind te aanvaarden<br>
+<br>
+Als het om de toewijzing van een kind met specifieke ondersteuningsbehoeften gaat, kan de adoptiedienst, vóór hij de stukken, vermeld in artikel 361-3, 2°, van het Burgerlijk Wetboek, naar het Vlaams Centrum voor Adoptie stuurt, in gesprek gaan met de kandidaat-adoptant over de mogelijkheid om een kind met een bepaald profiel te aanvaarden. Daarbij wordt de kandidaat ingelicht over de specifieke zorgbehoefte of het profiel van het kind of de kinderen, zonder dat identificeerbare informatie wordt meegedeeld. De elementen uit dat gesprek worden meegenomen in de motivering van het multidisciplinaire team, vermeld in het eerste lid.<br>
+<br>
+Nadat de kandidaat-adoptant het toegewezen kind heeft aanvaard, licht de adoptiedienst de bevoegde instantie in het herkomstland en het Vlaams Centrum voor Adoptie daarover in.
+
+### ART 17/1.
+
+Als een adoptiedienst vanuit een herkomstland het voorstel krijgt om een kind te plaatsen waarvoor er op de eigen wachtlijsten geen kandidaat-adoptant gevonden kan worden, licht de dienst de andere adoptiediensten en het Vlaams Centrum voor Adoptie daarover in.<br>
+<br>
+Als het multidisciplinair team van een adoptiedienst van oordeel is dat het kind kan worden toegewezen aan een kandidaat-adoptant op hun wachtlijst, kan het Vlaams Centrum voor Adoptie, in samenspraak met de adoptiedienst die het kind zal plaatsen, de kandidaat-adoptant de toelating verlenen om een tweede adoptieprocedure op te starten. De toelating wordt alleen verleend nadat de kandidaat-adoptant is uitgenodigd voor een gesprek met beide adoptiediensten, waarin concreet wordt nagegaan in hoeverre de overwogen plaatsing valt binnen zijn mogelijkheden, verwachtingen en draagkracht. Daarbij wordt de kandidaat-adoptant ingelicht over de specifieke zorgbehoefte of het profiel van het kind of kinderen, zonder dat evenwel identificeerbare informatie wordt meegedeeld. De elementen uit dat gesprek worden meegenomen in de motivering van het multidisciplinair team, vermeld in artikel 17, § 1.<br>
+<br>
+Zodra de kandidaat-adoptant het kindvoorstel aanvaardt, wordt de eerder geïnitieerde adoptieprocedure onmiddellijk stopgezet. De bevoegde autoriteit van het herkomstland in kwestie wordt onmiddellijk en formeel door de adoptiedienst op de hoogte gesteld van de stopzetting, die een afschrift van deze mededeling bezorgt aan het Vlaams Centrum voor Adoptie.
 
 ### ART. 18.
 
@@ -106,15 +159,21 @@ De adoptiedienst bereidt de kandidaat-adoptant voor op de komst van het   kind. 
 
 ### ART. 20.
 
-<P>De adoptiedienst zorgt voor de begeleiding van het adoptiekind en de   adoptanten na hun aankomst in België. Daarvoor wordt de kandidaat-adoptant door   de adoptiedienst uitgenodigd voor een welkomstbezoek en komt de adoptiedienst,   binnen 15 maanden na aankomst van het kind in België, tweemaal op huisbezoek bij   elke kandidaat-adoptant waarmee het een overeenkomst als vermeld in artikel 28   of 33, eerste lid, heeft afgesloten. De adoptiedienst stelt een rapport op van   elk huisbezoek.<BR></P>  <P>De kandidaat-adoptant betaalt voor deze huisbezoeken een bijdrage van 500   euro. Als het herkomstland de rapporten van deze huisbezoeken moet ontvangen,   dan betaalt de kandidaat-adoptant de vertaal-, legalisatie- en   verzendkosten.<BR></P>
+<p>De adoptiedienst zorgt voor de begeleiding van het adoptiekind en de adoptanten na hun aankomst in België om de eerste hechting en integratie in het nieuwe gezin te ondersteunen. Daarvoor wordt de kandidaat-adoptant door de adoptiedienst uitgenodigd voor een welkomstbezoek en komt de adoptiedienst, binnen 15 maanden na aankomst van het kind in België, tweemaal op huisbezoek bij elke kandidaat-adoptant waarmee het een overeenkomst als vermeld in artikel 28 of 33, eerste lid, heeft afgesloten. De adoptiedienst stelt een rapport op van elk huisbezoek.</p>
+
+<p>De kandidaat-adoptant betaalt voor deze huisbezoeken een bijdrage van 500 euro. Als het herkomstland de rapporten van deze huisbezoeken moet ontvangen, dan betaalt de kandidaat-adoptant de vertaal-, legalisatie- en verzendkosten.</p>
 
 ### ART. 21.
 
-Als het herkomstland meer huisbezoeken of rapporten eist na een adoptie   dan het aantal, vermeld in artikel 20, dan is dit ook een taak van de   adoptiedienst. De kandidaat-adoptant betaalt hiervoor een extra bijdrage van 250   euro per bijkomend huisbezoek waarvan een rapport wordt opgemaakt of een   bijdrage van 65 euro per bijkomend rapport. De vertaal-, legalisatie- en   verzendkosten vallen ten laste van de kandidaat-adoptant.<BR>
+De adoptiedienst staat ook in voor het nazorgaanbod en de follow-uprapportage die wordt opgelegd door het herkomstland. De kandidaat-adoptant betaalt voor die verplichting een extra bijdrage van 250 euro per bijkomend huisbezoek waarvan een rapport wordt opgemaakt, of een bijdrage van 65 euro per bijkomend rapport. De vertaal-, legalisatie- en verzendkosten vallen ten laste van de kandidaat-adoptant.
 
 ### ART. 22.
 
-De adoptiedienst blijft, na aankomst van het kind in België, beschikbaar   voor het adoptiegezin. De adoptiedienst staat open voor vragen van geadopteerden   naar hun roots.<BR>
+Naast de huisbezoeken, vermeld in artikel 20 en 21, blijft de adoptiedienst altijd beschikbaar voor het adoptiegezin. Zo voorziet de adoptiedienst in een laagdrempelig ondersteuningsaanbod, met huisbezoeken of andere activiteiten op een aantal scharnierleeftijden, zowel voor adoptieouders als voor geadopteerden.<br>
+<br>
+De adoptiedienst faciliteert ook de inzage in het adoptiedossier, vermeld in artikel 25 van het decreet van 20 januari 2012, en biedt bijstand bij vragen van de geadopteerde naar zijn roots.<br>
+<br>
+De adoptiedienst organiseert thematische vormingsavonden voor kandidaat- adoptanten, adoptieouders en geadopteerden over adoptiespecifieke thema's en vragen.
 
 ## HOOFDSTUK 4 Zelfstandige adoptie
 
@@ -140,7 +199,7 @@ Het Vlaams Centrum voor Adoptie kan aanvullende informatie vragen aan de   kandi
 
 ### ART. 28.
 
-De kandidaat-adoptant die ervoor kiest om de adoptie zelfstandig tot stand   te brengen, respecteert de vraag van het herkomstland voor het versturen van   opvolgrapporten en de eerste nazorg. Hij sluit hiervoor een contract af met een   erkende adoptiedienst.<BR>
+De kandidaat-adoptant die ervoor kiest om de adoptie zelfstandig tot stand te brengen, respecteert de vraag van het herkomstland voor het versturen van opvolgrapporten en de&nbsp;nazorg. Hij sluit hiervoor een contract af met een erkende adoptiedienst. De regels uit hoofdstuk 3 zijn van overeenkomstige toepassing.
 
 ### ART. 29.
 
@@ -164,7 +223,21 @@ Om erkend te blijven of opnieuw erkend te worden, moet de adoptiedienst   :<BR>1
 
 ### ART. 33.
 
-<P>&nbsp;De schriftelijke overeenkomst, vermeld in artikel 15, § 5, van het   decreet van 20 januari 2012, opgesteld volgens de sjabloon die het Vlaams   Centrum voor Adoptie heeft opgesteld, bevat minstens :<BR>1° de contactgegevens   en identiteit van de betrokken partijen;<BR>2° een gedetailleerde kostenraming,   dit omvat de prestatievergoeding, vermeld in het tweede lid, en de kosten in het   buitenland;<BR>3° een overzicht van de adoptieprocedure en de rol hierin van de   contactpersoon van de adoptiedienst in het herkomstland;<BR>4° de rechten en   plichten van beide partijen;<BR>5° een extra clausule voor kandidaat-adoptanten   die fungeren als proefdossier;<BR>6° de prestatievergoeding, vermeld in het   tweede lid;<BR>7° informatie over de klachtenprocedure.<BR></P>  <P>De kandidaat-adoptant betaalt een prestatievergoeding aan de adoptiedienst.   Deze prestatievergoeding bedraagt maximaal 3.000 euro en omvat de kosten voor de   samenstelling van het administratief en juridisch dossier ter voorbereiding en   afronding van de adoptie en de werkingskosten van de adoptiedienst. De vertaal-,   legalisatie- en verzendkosten betaalt de kandidaat-adoptant op voorlegging van   de facturen.<BR></P>
+<p>&nbsp;De schriftelijke overeenkomst, vermeld in artikel 15, § 5, van het decreet van 20 januari 2012, opgesteld volgens de sjabloon die het Vlaams Centrum voor Adoptie heeft opgesteld, bevat minstens :<br>
+1° de contactgegevens en identiteit van de betrokken partijen;<br>
+2° een gedetailleerde kostenraming, dit omvat de prestatievergoeding, vermeld in het tweede lid, en de kosten in het buitenland;<br>
+3° een overzicht van de adoptieprocedure en de rol hierin van de contactpersoon van de adoptiedienst in het herkomstland;<br>
+4° de rechten en plichten van beide partijen;<br>
+5° een extra clausule voor kandidaat-adoptanten die fungeren als proefdossier;<br>
+6° de prestatievergoeding, vermeld in het tweede lid;<br>
+7° informatie over de klachtenprocedure.</p>
+
+<p>De kandidaat-adoptant betaalt een prestatievergoeding aan de adoptiedienst. Die prestatievergoeding bedraagt maximaal 3000 euro en wordt betaald in de volgende drie schijven:<br>
+1° maximaal 1.000 euro bij de ondertekening van de bemiddelingsovereenkomst;<br>
+2° maximaal 1.000 euro bij de verzending van de stukken, vermeld in artikel 361-2 het Burgerlijk Wetboek en alle andere stukken betreffende de geschiktheid van de kandidaat-adoptant, naar het herkomstland;<br>
+3° maximaal 1.000 euro bij de aanvaarding van het kindvoorstel door de kandidaat-adoptant.<br>
+<br>
+De prestatievergoeding omvat de kosten voor de samenstelling van het administratief en juridisch dossier ter voorbereiding en afronding van de adoptie en de werkingskosten van de adoptiedienst. De vertaal-, legalisatie- en verzendkosten betaalt de kandidaat-adoptant op voorlegging van de facturen. Die kosten, alsook de eigen bijdrage van de kandidaat-adoptieouder voor de adoptieprocedure in het herkomstland, worden door de adoptiedienst pas aangerekend op het ogenblik dat ze effectief betaald moeten worden.</p>
 
 ### ART. 34.
 
@@ -304,7 +377,7 @@ Alle bewijsstukken, waaronder de bewijsstukken die de uitgaven staven   waarvoor
 
 ### ART. 52.
 
-<p>§ 1. Een voorziening kan op elk moment een aanvraag tot erkenning als adoptiedienst of als trefgroep indienen bij het agentschap. Die aanvraag moet met een aangetekende brief of tegen ontvangstbevestiging ingediend worden bij het agentschap.<br>
+<p>§ 1.&nbsp;Een aanvraag tot erkenning als adoptiedienst of als trefgroep wordt met een aangetekende brief of tegen ontvangstbewijs ingediend bij Opgroeien regie. Die aanvraag moet met een aangetekende brief of tegen ontvangstbevestiging ingediend worden bij het agentschap.<br>
 <br>
 De aanvraag tot erkenning als adoptiedienst, opgesteld volgens de sjabloon die het agentschap heeft opgesteld, bevat minstens :<br>
 1° de contactgegevens, identiteit en statuten van de aanvrager;<br>
