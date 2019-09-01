@@ -454,7 +454,7 @@ Dit bedrag wordt jaarlijks geïndexeerd met de aanpassingscoëfficiënt A2, zoal
 <br>
 Dit bedrag wordt jaarlijks vermenigvuldigd met aanpassingscoëfficiënt A2, zoals bedoeld in het artikel III.18.<br>
 <br>
-Dit bedrag wordt verdeeld op basis van het aantal interne leerlingen per internaat in het secundair onderwijs die in het voorafgaande schooljaar een studietoelage bekwamen.
+Dit bedrag wordt verdeeld op basis van het aantal interne leerlingen per internaat in het secundair onderwijs die in het voorafgaande schooljaar een selectieve participatietoeslag leerling bekwamen.
 
 ### ART III.18.
 
@@ -609,7 +609,7 @@ De richtgetallen worden als volgt vastgesteld :<br>
 		</tr>
 		<tr>
 			<td style="width: 400px;">secundair onderwijs</td>
-			<td style="width: 132px;">6,3</td>
+			<td style="width: 132px;">7,3</td>
 		</tr>
 		<tr>
 			<td style="width: 400px;">4. basisonderwijs</td>
@@ -641,7 +641,7 @@ De richtgetallen worden als volgt vastgesteld :<br>
 		</tr>
 		<tr>
 			<td style="width: 400px;">secundair onderwijs</td>
-			<td style="width: 132px;">6,3</td>
+			<td style="width: 132px;">7,3</td>
 		</tr>
 	</tbody>
 </table>
@@ -803,6 +803,52 @@ Ze wordt geïndexeerd overeenkomstig het indexatiemechanisme A2, bedoeld in arti
 
 ## [Hoofdstuk 8. Aanvangsbegeleiding, beleidsondersteuning en professionalisering (verv. decr. 25februari 2022, art. 36, I: 1 september 2021)]
 
+### ART III.46.
+
+§ 1. Aan instellingen voor residentiële en semiresidentiële opvang van leerlingen, hierna instellingen te noemen, worden uren toegekend voor aanvangsbegeleiding.<br>
+<br>
+§ 2. Voor de toepassing van dit hoofdstuk worden als instellingen beschouwd:<br>
+1° internaten als vermeld in de artikelen III.21 en III.35 voor wat betreft hun openstelling op schooldagen;<br>
+2° tehuizen als vermeld in de artikelen III.1, § 1, eerste lid, III.20, III.35, § 1, 2° en III.37, voor wat betreft hun openstelling op niet-schooldagen;<br>
+3° internaten buitengewoon onderwijs, vermeld in hoofdstuk 4, afdeling 1, onderafdeling 2;<br>
+4° internaten met permanente openstelling als vermeld in hoofdstuk 6;<br>
+5° semi-internaten als vermeld in het koninklijk besluit van 21 augustus 1978 houdende organisatie van de semi-internaten in het buitengewoon onderwijs van de Staat en tot vaststelling van de personeelsnormen.
+
+### ART III.47.
+
+§ 1. Het totale aantal uren voor aanvangsbegeleiding bedraagt voor internaten en tehuizen 104 uren.<br>
+<br>
+§ 2. Het aantal uren voor aanvangsbegeleiding waarop een instelling recht heeft, is 104 X B/C, waarbij:<br>
+1° B: het totale aantal toegekende uren van de instelling van het vorige schooljaar;<br>
+2° C: het totale aantal toegekende uren van alle instellingen van het vorige schooljaar van alle instellingen samen.<br>
+<br>
+De uren, vermeld in het eerste lid, worden binnen een instelling als volgt afgerond: als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
+<br>
+§ 3. Voor het bepalen van B en C:<br>
+1° worden de toegekende ambten van studiemeesters-opvoeders omgezet in uren, waarbij een voltijds ambt in 36 uren wordt omgezet;<br>
+2° worden de toegekende ambten in semi-internaten omgezet in uren, waarbij een voltijds ambt in 38 uren wordt omgezet;<br>
+3° wordt voor de toegekende omkadering van internaten buitengewoon onderwijs rekening gehouden met de toepassing van artikel III.29.<br>
+<br>
+§ 4. De uren, vermeld in het eerste lid, kunnen worden samengelegd.<br>
+<br>
+De instellingen die kiezen om de uren samen te leggen, richten daartoe een of meerdere samenwerkingsverbanden `aanvangsbegeleiding' op, waar afspraken worden gemaakt over de aanwending van deze uren.<br>
+<br>
+Een samenwerkingsverband `aanvangsbegeleiding' kan bestaan uit:<br>
+1° een of meerdere internaten als vermeld in artikel III.46, § 2, 1° ; en/of<br>
+2° een of meerdere tehuizen als vermeld in artikel III.46, § 2, 2° ; en/of<br>
+3° een of meerdere internaten buitengewoon onderwijs als vermeld in artikel III.46, § 2, 3° ; en/of<br>
+4° een of meerdere internaten met permanente openstelling als vermeld in artikel III.46, § 2, 4° ; en/of<br>
+5° een of meerdere semi-internaten als vermeld in artikel III.46, § 2, 5.<br>
+<br>
+De Vlaamse Regering kan met betrekking tot het samenwerkingsverband, vermeld in het tweede lid, volgende maatregelen vastleggen:<br>
+1° de duur van de samenwerking;<br>
+2° de vorm van overeenkomst waarmee het samenwerkingsverband wordt opgericht;<br>
+3° de wijze en het tijdstip van mededeling van het samenwerkingsverband aan de overheid.
+
+### ART III.48.
+
+Met de uren kunnen in elke instelling betrekkingen in wervingsambten worden ingericht overeenkomstig de bepalingen die gelden voor de toegekende omkadering als vermeld in artikel III.47, § 2, voor die instelling.
+
 ## Hoofdstuk 9. [... (opgeh. decr. 16 juni 2023, art. 147, I: 1 september 2023)]
 
 ## DEEL IV SPECIFIEKE PROJECTEN OF INSTELLINGEN
@@ -820,7 +866,8 @@ De specifieke projecten of instellingen die in dit deel IV worden behandeld zijn
 6° schoolboekhouding,<br>
 7° speciale onderwijsleermiddelen in het volwassenen- en hoger onderwijs,<br>
 8° Europese en internationale programma’s,<br>
-9° tijdelijke projecten kunstinitiatie.<br>
+9° tijdelijke projecten kunstinitiatie;<br>
+10° centrale organisatie synchroon internet onderwijs.<br>
 &nbsp;
 
 ## Hoofdstuk 2 Diensten met onderwijsbehoeften
@@ -1136,15 +1183,15 @@ l° basisregels met betrekking tot het voeren van een vereenvoudigde boekhouding
 
 ### ART IV.38.
 
-§1. Aan cursisten en leerlingen met specifieke onderwijsbehoeften die een opleiding in het gefinancierd of gesubsidieerd volwassenenonderwijs volgen en daar aan de toelatingsvoorwaarden voldoen, en aan studenten met een functiebeperking die in het gefinancierd of gesubsidieerd hoger onderwijs ingeschreven zijn in een bachelor-, een master-, een bachelor-na-bachelor - of een master-na-masteropleiding, of in een schakel- of voorbereidingsprogramma of in een specifieke lerarenopleiding, kunnen speciale onderwijsleermiddelen ter beschikking worden gesteld.<br>
+§1. Aan cursisten en leerlingen met specifieke onderwijsbehoeften die een opleiding in het gefinancierd of gesubsidieerd volwassenenonderwijs volgen en daar aan de toelatingsvoorwaarden voldoen, en aan studenten met een functiebeperking die in het gefinancierd of gesubsidieerd hoger onderwijs ingeschreven zijn in een graduaatsopleiding van het hoger beroepsonderwijs,&nbsp;in een &nbsp;bachelor-, een master-, een bachelor-na-bachelor - of een master-na-masteropleiding, of in een schakel- of voorbereidingsprogramma of in een specifieke lerarenopleiding, kunnen speciale onderwijsleermiddelen ter beschikking worden gesteld.<br>
 &nbsp;<br>
-§2. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de vorm aannemen van tolken Vlaamse Gebarentaal of schrijftolken, dan bepaalt de Vlaamse Regering :<br>
-1° de procedure voor de aanvraag en toekenning van de schrijftolken en tolken Vlaamse Gebarentaal bij het Agentschap voor Onderwijsdiensten; het Agodi zal hiertoe eveneens een intern beroep voorzien;<br>
-2° de diplomavoorwaarden voor de tolken Vlaamse Gebarentaal en schrijftolken;<br>
-3° de te indexeren loonkost voor de tolken Vlaamse Gebarentaal en de loonkost voor de schrijftolken.<br>
+§2. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de vorm aannemen van tolken Vlaamse Gebarentaal of een andere gebarentaal of schrijftolken, dan bepaalt de Vlaamse Regering :<br>
+1° de procedure voor de aanvraag en toekenning van de schrijftolken en tolken Vlaamse Gebarentaal of een andere gebarentaal bij het Agentschap voor Onderwijsdiensten; het Agodi zal hiertoe eveneens een intern beroep voorzien;<br>
+2° de diplomavoorwaarden voor de tolken Vlaamse Gebarentaal of een andere gebarentaal en schrijftolken;<br>
+3° de te indexeren loonkost voor de tolken Vlaamse Gebarentaal of een andere gebarentaal en de loonkost voor de schrijftolken.<br>
 4° de definitie van de doelgroep.<br>
 &nbsp;<br>
-§3. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de vorm aannemen van tolken Vlaamse gebarentaal of schrijftolken, dan verleent de Vlaamse Regering voor de realisatie van deze tolkuren een subsidie aan een centraal tolkenbureau, die bestaat uit enerzijds werkingsbudget voor dit tolkenbureau en anderzijds lonen en verplaatsingskosten voor de tolken. De Vlaamse Regering bepaalt de verdere voorwaarden voor de werking van dit tolkenbureau.<br>
+§3. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de vorm aannemen van tolken Vlaamse Gebarentaal of een andere gebarentaal of schrijftolken, dan verleent de Vlaamse Regering voor de realisatie van deze tolkuren een subsidie aan een centraal tolkenbureau, die bestaat uit enerzijds werkingsbudget voor dit tolkenbureau en anderzijds lonen en verplaatsingskosten voor de tolken. De Vlaamse Regering bepaalt de verdere voorwaarden voor de werking van dit tolkenbureau.<br>
 &nbsp;<br>
 §4. De procedure voor de aanvraag en toekenning en het intern beroep en de werking van het door de Vlaamse Regering te bepalen centraal tolkenbureau, worden om de drie jaar geëvalueerd. De eerste evaluatie vindt plaats gedurende het schooljaar 2015-2016. Tijdens deze evaluatie wordt de betrokkenheid van de doelgroep verzekerd.<br>
 &nbsp;<br>
@@ -1219,6 +1266,22 @@ De subsidie wordt in twee schijven uitbetaald :<br>
 
 ## [Hoofdstuk 11. Centrale organisatie synchroon internetonderwijs (ing. decr. 5 april 2019, art. 138, I: 1 september 2019)]
 
+### ART IV.52.
+
+De regering garandeert de centrale organisatie van het synchroon internetonderwijs, verder in dit hoofdstuk SIO te noemen, zoals vermeld in artikel 36/1 van het decreet basisonderwijs van 25 februari 1997 en artikel 117/1 van de Codex Secundair Onderwijs.<br>
+<br>
+De regering bepaalt de opdracht van de centrale organisator.<br>
+<br>
+De subsidieovereenkomst heeft maximaal een duurtijd van vier schooljaren.<br>
+<br>
+De centrale organisator neemt een vertegenwoordiging van de regering op in zijn bestuursorganen.
+
+### ART IV. 53.
+
+Een organisatie die de taak van centrale organisator wil opnemen, al dan niet in samenwerking met andere partners voor specifieke deelopdrachten, moet daarvoor, na oproep door de Vlaamse Regering, een aanvraagdossier indienen.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure voor de aanstelling van de centrale organisator en de manier waarop de organisatie haar samenwerking met andere partners voor specifieke deelopdrachten moet beschrijven.
+
 ## [Hoofdstuk 12. Netwerk Islamexperten (ing. decr. 5 april 2019, art. 141, I: 1 mei 2019)]
 
 ### ART IV. 52.
@@ -1247,11 +1310,11 @@ Deze titel is van toepassing op :<br>
 3° de leden van de onderwijsinspectie georganiseerd door de Vlaamse Gemeenschap;<br>
 4° de personeelsleden van de pedagogische begeleidingsdiensten;<br>
 5° de personeelsleden, bedoeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken;<br>
-6° de personeelsleden van de Centra voor Basiseducatie, vermeld in artikel 127, §1, 1° en 2° van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.
+6° de personeelsleden van de Centra voor Basiseducatie, vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie.
 
 ### ART V.2.
 
-De Vlaamse Regering bepaalt de bekwaamheidsbewijzen die toegang verlenen tot elk ambt of voor de basiseducatie tot elke functie.<br>
+De Vlaamse Regering bepaalt de bekwaamheidsbewijzen die toegang verlenen tot elk ambt.<br>
 Zij kan daarbij rekening houden met het te onderwijzen vak of specialiteit, de opleiding, de module, het onderwijsniveau, de onderwijsvorm, de graad, het hoger beroepsonderwijs van kwalificatieniveau 5, de cyclus of de opleidingsvorm.
 
 ### ART V.3.
@@ -1261,7 +1324,7 @@ In het gesubsidieerd vrij onderwijs kan de Vlaamse Regering de hoedanigheid van 
 
 ### ART V .4.
 
-De Vlaamse Regering kan voor een ambt of voor de basiseducatie voor een functie naast vereiste ook voldoende geachte en andere bekwaamheidsbewijzen vastleggen. Zij kan daarbij onder meer rekening houden met de situatie op de onderwijsarbeidsmarkt.<br>
+De Vlaamse Regering kan voor een ambt naast vereiste ook voldoende geachte en andere bekwaamheidsbewijzen vastleggen. Zij kan daarbij onder meer rekening houden met de situatie op de onderwijsarbeidsmarkt.<br>
 <br>
 Aan personen met een ander bekwaamheidsbewijs wordt tijdelijk een financiering of subsidiëring verleend. De Vlaamse Regering bepaalt de voorwaarden waaronder dit gebeurt.
 
@@ -2060,7 +2123,7 @@ Deze middelen bestaan uit :<br>
 
 ### ART VI.5.
 
-§1. De middelen worden toegekend aan iedere school voor gewoon - of buitengewoon basisonderwijs, aan iedere school voor gewoon of buitengewoon secundair onderwijs, aan ieder centrum voor volwassenenonderwijs en aan iedere school voor deeltijds kunstonderwijs. De scholen &nbsp;en centra kunnen de middelen alleen aanwenden als ze deel uit maken van :<br>
+§1. De middelen worden toegekend aan iedere school voor gewoon - of buitengewoon basisonderwijs, aan iedere school voor gewoon of buitengewoon secundair onderwijs, aan ieder centrum voor volwassenenonderwijs en aan iedere academie. De scholen, academies en centra kunnen de middelen alleen aanwenden als ze deel uit maken van :<br>
 1° een scholengemeenschap in het basis- of het secundair onderwijs, of<br>
 2° een scholengroep, of<br>
 3° een samenwerkingsplatform tussen :<br>
@@ -2070,34 +2133,39 @@ c) een of meerdere scholen voor gewoon en/of buitengewoon basisonderwijs, voorzo
 d) een of meerdere scholen voor gewoon secundair onderwijs, voorzover deze niet behoren tot een scholengemeenschap in het secundair onderwijs, en/of<br>
 e) een of meerdere scholen voor buitengewoon secundair onderwijs, en/of<br>
 f) een of meerdere centra voor volwassenenonderwijs en/of<br>
-g) een of meerdere scholen voor deeltijds kunstonderwijs.<br>
+g) een of meerdere academies.<br>
 De scholengemeenschap, de scholengroep, of het samenwerkingsplatform maakt afspraken over de aanwending van de middelen.<br>
 &nbsp;<br>
 §2. Een overeenkomst houdende oprichting van een in §1, 3°, bedoeld samenwerkingsplatform wordt vanaf 1 september 2005 afgesloten steeds voor de duur van zes schooljaren, met uitzondering van de overeenkomst die in werking treedt op 1 september 2011 en slechts geldt voor de duur van drie schooljaren.<br>
 <br>
-Tijdens de betrokken periode kan deze overeenkomst worden gewijzigd ten gevolge van toepassing van artikel 125quinquies, §3 of §6, van het decreet van 25 februari 1997 betreffende het basisonderwijs, van artikel 51, derde lid, van de Codex Secundair Onderwijs, of van artikel 73 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br>
+Tijdens de betrokken periode kan die overeenkomst worden gewijzigd met toepassing van artikel 125quinquies, § 3 of § 4, van het decreet van 25 februari 1997 betreffende het basisonderwijs of van artikel 51, derde lid, van de Codex Secundair Onderwijs van 17 december 2010.<br>
 <br>
 Een wijziging van een overeenkomst treedt in werking op dezelfde datum waarop de wijziging in de scholengemeenschap in werking treedt.<br>
 &nbsp;<br>
-De Vlaamse Regering kan het minimum aantal scholen of centra of leerlingen of lesurencursist bepalen dat bij een samenwerkingsplatform moet worden betrokken. Indien het samenwerkingsplatform een scholengemeenschap en/of een scholengroep omvat, kan van deze regeling worden afgeweken.<br>
+De Vlaamse Regering kan het minimum aantal scholen, academies&nbsp;of centra of leerlingen of lesurencursist bepalen dat bij een samenwerkingsplatform moet worden betrokken. Indien het samenwerkingsplatform een scholengemeenschap en/of een scholengroep omvat, kan van deze regeling worden afgeweken.<br>
 &nbsp;<br>
 Het samenwerkingsplatform wordt door het school- of centrumbestuur in kwestie uiterlijk op 1 mei voorafgaand aan de inwerkingtreding van de samenwerkingsovereenkomst gemeld aan het betrokken Agentschap van het Vlaams Ministerie van Onderwijs en Vorming.
 
 ### ART VI.6.
 
-De middelen worden berekend door per school of centrum, het aantal regelmatige leerlingen/cursisten op de gebruikelijke teldatum, respectievelijk het aantal lesurencursist binnen de referteperiode, te vermenigvuldigen met een coëfficiënt en een wegingsfactor, bepaald door de Vlaamse Regering.
+De middelen worden berekend door per school, academie&nbsp;of centrum, het aantal regelmatige leerlingen/cursisten op de gebruikelijke teldatum, respectievelijk het gemiddelde aantal gerealiseerde lesurencursist van de referteperiodes van 1 januari n-3 tot en met 31 december n-1, te vermenigvuldigen met een coëfficiënt en een wegingsfactor, bepaald door de Vlaamse Regering.<br>
+<br>
+In afwijking van het eerste lid wordt het gemiddelde van het aantal lesurencursist op de volgende wijze berekend:<br>
+1° voor het schooljaar 2020-2021 op basis van de lesurencursist gerealiseerd in de referteperiode 1 januari 2019 tot en met 31 december 2019;<br>
+2° voor het schooljaar 2021-2022 op basis van de lesurencursist gerealiseerd in de referteperiodes 1 januari 2019 tot en met 31 december 2020.
 
 ### ART VI.7.
 
-§1. De punten van de enveloppe kunnen worden aangewend voor het oprichten van één of meer betrekkingen in ambten van het ondersteunend personeel, het beleids- en ondersteunend personeel, administratief personeel, opvoedend hulppersoneel, onderwijzend en/of bestuurspersoneel met uitzondering van de ambten van adjunct-directeur en directeur, rekening houdend met wat volgt :<br>
+§1. De punten van de enveloppe kunnen worden aangewend voor het oprichten van één of meer betrekkingen in ambten van het ondersteunend personeel, het beleids- en ondersteunend personeel,&nbsp;opvoedend hulppersoneel, onderwijzend en/of bestuurspersoneel met uitzondering van de ambten van adjunct-directeur en directeur, rekening houdend met wat volgt :<br>
 1° als in een school voor gewoon of buitengewoon secundair onderwijs een betrekking in een ambt van het ondersteunend personeel wordt opgericht, gebeurt dat volgens artikel 30 of artikel 31 van de Codex Secundair Onderwijs;<br>
-2° als een betrekking in een ambt van het opvoedend hulppersoneel, in een ambt van het administratief personeel of in een ambt van administratief medewerker in een centrum voor volwassenenonderwijs wordt opgericht waarin een personeelslid wordt aangesteld dat recht heeft op salarisschaal 200, 201, 202, 203, 122, worden voor een voltijdse betrekking 63 punten in rekening gebracht. Voor een halftijdse betrekking worden 31,5 punten in rekening gebracht. Voor een deeltijdse betrekking in het deeltijds kunstonderwijs en in een centrum voor volwassenenonderwijs, wordt per uur 1,5 punten in rekening gebracht;<br>
-3° als een betrekking in een ambt van het opvoedend hulppersoneel, in een ambt van het administratief personeel of in een ambt van administratief medewerker in een centrum voor volwassenenonderwijs wordt opgericht waarin een personeelslid wordt aangesteld dat recht heeft op salarisschaal 158, 106, 163, 164, 100, 208, 104, 123, 126, worden voor een voltijdse betrekking 82 punten in rekening gebracht. Voor een halftijdse betrekking worden 41 punten in rekening gebracht. Voor een deeltijdse betrekking in het deeltijds kunstonderwijs en in een centrum voor volwassenenonderwijs, wordt per uur 2,5 punten in rekening gebracht;<br>
+2° als in een academie van het deeltijds kunstonderwijs een betrekking in een ambt van administratief medewerker of studiemeester-opvoeder wordt opgericht waarin een personeelslid wordt aangesteld dat recht heeft op salarisschaal 202 of 122, worden voor een voltijdse betrekking 63 punten in rekening gebracht. Voor een halftijdse betrekking worden 31,5 punten in rekening gebracht. Voor een deeltijdse betrekking worden per uur 1,5 punten in rekening gebracht;<br>
+3° als in een academie van het deeltijds kunstonderwijs een betrekking in een ambt van studiemeester-opvoeder wordt opgericht waarin een personeelslid wordt aangesteld dat recht heeft op salarisschaal 158, worden voor een voltijdse betrekking 82 punten in rekening gebracht. Voor een halftijdse betrekking worden 41 punten in rekening gebracht. Voor een deeltijdse betrekking, worden per uur 2,5 punten in rekening gebracht;<br>
+3° /1 als in een centrum voor volwassenenonderwijs een betrekking in een ambt van het ondersteunend personeel wordt opgericht, gebeurt dat conform de puntenwaarde die de Vlaamse Regering voor het overeenkomende ambt vastlegt;<br>
 4° voor de betrekkingen die worden opgericht in een ambt van het onderwijzend personeel, het bestuurspersoneel of het beleids- en ondersteunend personeel, legt de Vlaamse Regering het aantal punten vast dat in rekening moet worden gebracht voor een personeelslid dat in dit ambt wordt aangesteld.<br>
 &nbsp;<br>
 §2. Het personeelslid dat in de betrekking bedoeld in paragraaf 1, wordt aangesteld, wordt steeds aangesteld als tijdelijk personeelslid. De bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs en het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, blijven verder van toepassing, met uitzondering van volgende bepalingen :<br>
-1° de betrekking is niet onderworpen aan de reglementering inzake ter beschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling. Het bestuur van de school of het centrum waaraan de betrekking wordt toegewezen, kan evenwel op vrijwillige basis een personeelslid aanstellen dat ter beschikking is gesteld wegens ontstentenis van betrekking. Deze aanstelling wordt beschouwd als een reaffectatie of een wedertewerkstelling. Deze reaffectatie of wedertewerkstelling gebeurt steeds met instemming van het ter beschikkinggestelde personeelslid;<br>
-2° het bestuur van de school of het centrum waaraan de betrekking wordt toegewezen, is niet verplicht om in deze betrekking een personeelslid aan te stellen dat voorrang heeft voor een tijdelijke aanstelling of dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven, overeenkomstig artikel 21 en 21bis van het decreet rechtspositie personeelsleden gemeenschapsonderwijs en artikel 23 en 23bis van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs;<br>
+1° de betrekking is niet onderworpen aan de reglementering inzake ter beschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling. Het bestuur van de school, de academie&nbsp;of het centrum waaraan de betrekking wordt toegewezen, kan evenwel op vrijwillige basis een personeelslid aanstellen dat ter beschikking is gesteld wegens ontstentenis van betrekking. Deze aanstelling wordt beschouwd als een reaffectatie of een wedertewerkstelling. Deze reaffectatie of wedertewerkstelling gebeurt steeds met instemming van het ter beschikkinggestelde personeelslid;<br>
+2° het bestuur van de school, de academie&nbsp;of het centrum waaraan de betrekking wordt toegewezen, is niet verplicht om in deze betrekking een personeelslid aan te stellen dat voorrang heeft voor een tijdelijke aanstelling of dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven, overeenkomstig artikel 21 en 21bis van het decreet rechtspositie personeelsleden gemeenschapsonderwijs en artikel 23 en 23bis van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs;<br>
 3° de betrekking kan niet worden vacant verklaard. Het school- of centrumbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekking.<br>
 &nbsp;<br>
 §3. In afwijking op de bepalingen van paragraaf 2, zijn voor de personeelsleden van het beleids- en ondersteunend personeel van het basisonderwijs alle bepalingen van toepassing van het decreet rechtspositie personeelsleden gemeenschapsonderwijs en het decreet rechtspositie personeelsleden gesubsidieerd onderwijs.
@@ -2113,6 +2181,14 @@ De middelen worden berekend door per school of centrum, het aantal regelmatige l
 §3. Binnen de perken van de daartoe op de begroting van de Vlaamse Gemeenschap uitgetrokken kredieten wordt aan voornoemde vzw een toelage verleend
 
 ## [Hoofdstuk 4. Digitale verantwoording van de aanwending van middelen (ing. decr. 5 april 2019, art. 147, I: 1 september 2019)]
+
+### ART VI.9.
+
+Instellingen die gefinancierd of gesubsidieerd worden door het Vlaams Ministerie van Onderwijs en Vorming of het Agentschap voor Infrastructuur in het Onderwijs kunnen verantwoordingsstukken die betrekking hebben op de te verantwoorden subsidie op elektronische wijze beschikbaar stellen en kunnen de analoge documenten die ze opmaken of ontvangen bij de toepassing van wettelijke of reglementaire bepalingen, vervangen door elektronische kopieën.<br>
+<br>
+De Vlaamse Regering stelt de nadere regels vast voor die vervanging.<br>
+<br>
+Elektronische kopieën die worden opgemaakt en bewaard conform het eerste lid, behouden dezelfde geldigheid als de originelen voor de toepassing van de wettelijke en reglementaire bepalingen, vermeld in het eerste lid.
 
 ## [Hoofdstuk 5. Unieke leerlingenaccounts (ing. decr. 7 juli 2023, art. 134, I: 1 september 2023)]
 
