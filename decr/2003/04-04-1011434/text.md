@@ -48,11 +48,9 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 <br>
 § 3. De organen van het UZA zijn de algemene vergadering en de raad van bestuur. De volheid van bevoegdheid berust bij de algemene vergadering.<br>
 <br>
-De regeringscommissaris bij de Universiteit Antwerpen en de bevoegde inspecteur van financiën hebben van ambtswege zitting in de organen, bedoeld in dit decreet.<br>
+De regeringscommissaris belast met het toezicht op de Universiteit Antwerpen heeft van ambtswege zitting in deze organen.<br>
 <br>
-De in het tweede lid bedoelde regeringscommissaris oefent het toezicht uit, vermeld in artikel IV.102, IV.103 en IV.104 van de Codex Hoger Onderwijs, mutatis mutandis.<br>
-<br>
-De in het tweede lid bedoelde inspecteur van financiën oefent de functies uit, vermeld in artikel IV.105 van de Codex Hoger Onderwijs, mutatis mutandis.<br>
+De regeringscommissaris oefent het toezicht uit, vermeld in deel 4, titel 4, van de Codex Hoger Onderwijs van 11 oktober 2013.<br>
 <br>
 § 4. De samenstelling van de algemene vergadering van het UZA, het quorum en de meerderheden voor beslissingen binnen de algemene vergadering worden vooraf vastgelegd door de raad van bestuur van de UA. De leden van de algemene vergadering van het UZA worden aangesteld door de raad van bestuur van de UA. Minstens twee derde van deze leden vertegenwoordigen de Universiteit Antwerpen. De voorzitter van de algemene vergadering van het UZA is de rector van de UA. Hij/zij kan zich als voorzitter laten vervangen door een ander door de Algemene Vergadering aan te wijzen lid.<br>
 <br>
