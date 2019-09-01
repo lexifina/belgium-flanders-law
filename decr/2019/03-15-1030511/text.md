@@ -8,7 +8,15 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ## HOOFDSTUK 2. Wijzigingen van het Wetboek van Strafvordering
 
+### ART 2.
+
+In artikel 606, eerste lid, van het Wetboek van Strafvordering, vervangen bij de wet van 6 januari 2014, wordt de zinsnede "57bis van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade" vervangen door de zinsnede "38 van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht".
+
 ## HOOFDSTUK 3. Wijzigingen van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp
+
+### ART 3.
+
+Aan het opschrift van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp worden de woorden "en binnen het kader van het decreet betreffende het jeugddelinquentierecht" toegevoegd.
 
 ### ART 4.
 
@@ -139,6 +147,51 @@ In artikel 42, § 1, tweede lid, 5°, van hetzelfde decreet worden tussen de woo
 ### ART 22.
 
 In artikel 44, § 2, van hetzelfde decreet wordt de zinsnede "als vermeld in paragraaf 1" opgeheven.
+
+### ART 23.
+
+Artikel 48 van hetzelfde decreet wordt vervangen door wat volgt :<br>
+<br>
+"Art. 48. § 1. De jeugdrechtbank en de jeugdrechter kunnen, na een vordering als vermeld in artikel 47, 1° en 3°, één of een combinatie van alle volgende maatregelen opleggen :<br>
+1° de ouders van de minderjarige of, in voorkomend geval, zijn opvoedingsverantwoordelijken een pedagogische richtlijn verstrekken;<br>
+2° voor ten hoogste één jaar de minderjarige onder toezicht stellen van de sociale dienst;<br>
+3° voor ten hoogste zes maanden de minderjarige een opvoedend project opleggen of de minderjarige, eventueel samen met zijn ouders of, in voorkomend geval, zijn opvoedingsverantwoordelijken toevertrouwen aan een project;<br>
+4° voor ten hoogste één jaar de functie begeleiding opleggen;<br>
+5° voor ten hoogste één jaar de functie dagopvang opleggen;<br>
+6° voor ten hoogste één jaar de functie diagnostiek opleggen;<br>
+7° voor ten hoogste één jaar de functie behandeling opleggen;<br>
+8° voor ten hoogste één jaar de functie training opleggen;<br>
+9° voor ten hoogste één jaar de functie verblijf opleggen;<br>
+10° voor ten hoogste één jaar de functie beveiligend verblijf opleggen;<br>
+11° uitzonderlijk en voor ten hoogste één jaar de minderjarige toevertrouwen aan een geschikte open inrichting die niet behoort tot het toepassingsgebied zoals vermeld in artikel 3;<br>
+12° voor ten hoogste één jaar de minderjarige toevertrouwen aan een psychiatrische inrichting, als dat na een psychiatrische expertise noodzakelijk blijkt;<br>
+13° uitzonderlijk en voor ten hoogste één jaar de minderjarige toevertrouwen aan een afdeling van een gemeenschapsinstelling;<br>
+14° uitzonderlijk en voor ten hoogste drie maanden de minderjarige die de leeftijd van veertien jaar heeft bereikt, toevertrouwen aan een geschikte gesloten inrichting, als wordt aangetoond dat de minderjarige zich aan de maatregelen, vermeld in punt 9° tot en met 13°, tweemaal of meer heeft onttrokken en dat die maatregel noodzakelijk is voor het behoud van de integriteit van de persoon van de minderjarige.<br>
+<br>
+De jeugdrechter en de jeugdrechtbank bepalen de jeugdhulpaanbieder bij wie de functie dient opgenomen te worden en, wanneer aangewezen, vermelden zij de bijhorende typemodules.<br>
+<br>
+Voor wat pleegzorg als vermeld in artikel 2, 11°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, betreft, kunnen de jeugdrechtbank en de jeugdrechter een minderjarige toevertrouwen aan een kandidaat-pleegzorger of een pleegzorger als vermeld in artikel 14, § 1 of § 3, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg ten hoogste tot aan de leeftijd van dertien jaar, al dan niet met toepassing van artikel 5 van voormeld decreet, en een minderjarige die ouder is dan dertien jaar, toevertrouwen aan een kandidaat-pleegzorger of aan een pleegzorger als vermeld in artikel 14, § 1 of § 3, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg voor ten hoogste drie jaar, al dan niet met toepassing van artikel 5 van het voormelde decreet.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere invulling van de typemodules die onder de functies, vermeld in punt 4° tot en met 10°, vallen. De Vlaamse Regering kan in afwijking van de termijn bepaald in het eerste lid, 4° tot en met 10°, voor specifieke typemodules andere, kortere, termijnen voorzien.<br>
+<br>
+Een opvoedend project als vermeld in het eerste lid, 3°, moet cumulatief aan de volgende voorwaarden voldoen:<br>
+1° het is gericht tot een specifieke doelgroep of op een bijzondere probleemsituatie;<br>
+2° het is georganiseerd door een jeugdhulpaanbieder of door een organisatie die daarvoor een overeenkomst heeft gesloten met de Vlaamse Regering;<br>
+3° het is gericht op de versterking van de eigen zorg of op de versterking van de zorg in het eigen milieu.<br>
+<br>
+§ 2. Als de jeugdrechtbank beslist tot een combinatie van verschillende van de functies, vermeld in paragraaf 1, eerste lid, moet, in voorkomend geval, in de coördinatie van de maatregelen voorzien worden. De Vlaamse Regering bepaalt welke combinaties niet mogelijk zijn.<br>
+<br>
+Binnen de toepassing van de maatregelen, vermeld in het eerste lid, moet steeds contextgericht gewerkt worden. De uitwerking van contextgericht werken wordt bepaald door de Vlaamse Regering.".
+
+### ART 24.
+
+In hetzelfde decreet wordt een artikel 48/1 ingevoegd, dat luidt als volgt :<br>
+<br>
+"Art. 48/1. De eerste overweging bij uithuisplaatsing moet steeds pleegzorg, zoals omschreven in artikel 2, 11°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, zijn. De jeugdrechter motiveert waarom de minderjarige bij toepassing van artikel 48, 9°, niet kan worden toevertrouwd aan een kandidaat-pleeggezin of pleeggezin als vermeld in artikel 2, 9°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg.<br>
+<br>
+De jeugdrechtbank en de jeugdrechter motiveren waarom meerdere minderjarigen uit eenzelfde gezin bij toepassing van artikel 48, 9°, ten aanzien van hen niet kunnen worden toevertrouwd aan eenzelfde kandidaat-pleeggezin of pleeggezin.<br>
+<br>
+De Vlaamse Regering bepaalt hoe aan dit principe uitvoering moet gegeven worden.".
 
 ### ART 25.
 
