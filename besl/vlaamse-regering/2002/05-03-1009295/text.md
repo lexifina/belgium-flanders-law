@@ -4,13 +4,54 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° akkoord:   het Vlaams Intersectoraal Akkoord voor de social profitsector 2000-2005,   afgesloten op 29 maart 2000;<BR>2° social profitsector: de private sectoren   zoals opgesomd in de "Algemene doelstelling" van het Vlaams Intersectoraal   Akkoord voor de social profitsector 2000-2005, behorende tot de Vlaamse   gezondheids- en welzijnssector en voor zover ze ressorteren onder een Vlaamse   erkennings- en subsidieregelgeving, en de Vlaamse socio-culturele   sector.<BR>Onder de Vlaamse socio-culturele sector wordt verstaan de sectoren   zoals bedoeld in artikel 1, 1°, 2°, 3°, 4°, 5°, 6°, 7°, 8°, 9°, 10°, 11°, 12°,   13°, 14° en 15° van het koninklijk besluit van 28 oktober 1993 betreffende het   bevoegdheidsgebied van het Paritair Comité voor de socio-culturele sector, zoals   gewijzigd bij het koninklijk besluit van 13 november 1996 en bij het koninklijk   besluit van 13 december 2000;<BR>3° voltijdse arbeidsregeling: de voltijdse   arbeidsregeling van toepassing op de werknemer, rekening houdend met de   leeftijd, en bepaald in het arbeidsreglement dat in de instelling van toepassing   is, of in elk ander document dat hiertoe wordt bijgehouden wanneer de werkgever   geen arbeidsreglement dient op te maken. Voor het bepalen van de voltijdse   arbeidsregeling worden de schorsingen van de arbeidsovereenkomst gelijkgesteld   met arbeidsprestaties zoals deze vóór de schorsing werden geleverd;<BR>4°   volledige loopbaanonderbreking : de onderbreking van de beroepsloopbaan, vermeld   in artikel 100 tot en met 101bis van de herstelwet van 22 januari 1985 houdende   sociale bepalingen, waarvoor een onderbrekingsuitkering wordt toegekend;<BR>5°   gedeeltelijke loopbaanonderbreking : de vermindering van de arbeidsprestaties   met de helft of een vijfde van het normale aantal uren van een voltijdse   betrekking, vermeld in artikel 102 tot en met 103 van de herstelwet van 22   januari 1985 houdende sociale bepalingen, waarvoor een onderbrekingsuitkering   wordt toegekend;<BR>6° tijdskrediet : de volledige schorsing van de   arbeidsprestaties of de vermindering van de arbeidsprestaties tot een halftijdse   betrekking, vermeld in artikel 3, 4 en 5 van de collectieve   arbeidsovereenkomsten nr. 77bis van 19 december 2001 en nr. 103 van 27 juni   2012, waarvoor een uitkering tijdskrediet wordt toegekend;<BR>7° landingsbaan :   de vermindering van de arbeidsprestaties tot een halftijdse betrekking voor   werknemers van vijftig jaar en ouder, vermeld in artikel 9 en 10 van de   collectieve arbeidsovereenkomsten nr. 77bis van 19 december 2001 en nr. 103 van   27 juni 2012 tot invoering van een stelsel van tijdskrediet,   loopbaanvermindering en vermindering van de arbeidsprestaties tot een halftijdse   betrekking;<BR>8° schorsing: de dagen van schorsing van de   arbeidsovereenkomst<BR>- die aanleiding hebben gegeven tot betaling van een   uitkering bij toepassing van de wetgeving op de verplichte ziekte- en   invaliditeitsverzekering, de schadeloosstelling voor arbeidsongevallen en   beroepsziekten, de werkloosheidsverzekering, de jaarlijkse vakantie, de   loopbaanonderbreking en het tijdskrediet;<BR>- waarop niet werd gewerkt en   waarvoor een loon werd betaald waarop sociale zekerheidsbijdragen, met inbegrip   van de sector werkloosheid, werden ingehouden;<BR>- wegens feestdagen waarvoor,   overeenkomstig de wettelijke bepalingen, een loon werd betaald, waarop geen   sociale zekerheidsbijdragen werden ingehouden;<BR>- wegens arbeidsongeschiktheid   waarvoor, overeenkomstig de wettelijke bepalingen, een loon werd betaald, waarop   geen sociale zekerheidsbijdragen werden ingehouden;<BR>- wegens het opnemen van   inhaalrustdagen waarop de werknemer recht heeft ingevolge de arbeidswet van 16   maart 1971 of ingevolge een regeling tot vermindering van de arbeidsduur;<BR>-   wegens staking of lock-out;<BR>- waarop niet werd gewerkt en geen loon werd   betaald als carensdag zoals bedoeld door de wetgeving op de verplichte ziekte-   en invaliditeitsverzekering;<BR>- waarop niet werd gewerkt wegens vorst, die   door het fonds voor bestaanszekerheid van de werklieden uit het bouwbedrijf   werden vergoed;<BR>- waarop de werknemer het ambt van rechter in sociale zaken,   van rechter in handelszaken of van raadsheer in sociale zaken heeft   vervuld;<BR>- wegens verlof om dwingende redenen zoals bedoeld in het koninklijk   besluit van 11 oktober 1991;<BR>9° omkaderingspersoneel: de personeelsleden van   een beschutte of sociale werkplaats die instaan voor de begeleiding van het   doelgroeppersoneel en de personeelsleden van een beschutte of sociale werkplaats   die instaan voor de ondersteuning van de werkplaatsen;<BR>10° opleiding :<BR>a)   elke vorm van onderwijs en opleiding die georganiseerd, gefinancierd,   gesubsidieerd of erkend wordt door de Vlaamse overheid, waarvan het programma   minimaal 120 contacturen of 9 studiepunten op jaarbasis omvat;<BR>b) elke   opleiding die georganiseerd wordt door een opleidingsverstrekker die erkend is   krachtens het besluit van de Vlaamse Regering van 18 juli 2003 betreffende de   opleidings- en begeleidingscheques voor werknemers of het besluit van de Vlaamse   Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote   ondernemingen voor ondernemerschaps-bevorderende diensten, waarvan het programma   minimaal 120 contacturen of 9 studiepunten op jaarbasis omvat;<BR>c) de   opleidingen die georganiseerd, gesubsidieerd of erkend worden door de sectorale   opleidingsfondsen, waarvan het programma minimaal 120 contacturen of 9   studiepunten op jaarbasis omvat; »;<BR>11° tweedekansonderwijs : onderwijs dat   personen van achttien jaar of ouder de kans biedt om een diploma of   getuigschrift van algemeen, beroeps- of technisch secundair onderwijs te behalen   van een hogere graad dan de graad die de betrokkene al bezit;<BR>12° onderneming   in moeilijkheden: de onderneming die in de jaarrekeningen van de twee boekjaren   die de datum van de aanvraag van de erkenning voorafgaan vóór belastingen een   verlies uit de gewone bedrijfsuitoefening boekt, wanneer voor het laatste   boekjaar dit verlies het bedrag van de afschrijvingen en de waardevermindering   op oprichtingskosten, immateriële en materiële vaste activa overschrijdt;<BR>13°   onderneming in herstructurering: de onderneming die zonder de invoering van   verminderde arbeidsduur zou moeten overgaan tot het collectief ontslag dat ten   minste betrekking heeft op:<BR>- 10 % van de werknemers indien zij meer dan 100   werknemers tewerkstelt;<BR>- 10 werknemers als zij meer dan 20 en tot 100   werknemers tewerkstelt;<BR>- 6 werknemers indien zij tussen 12 en 20 werknemers   tewerkstelt;<BR>- de helft van het aantal werknemers indien zij minder dan 12   werknemers tewerkstelt;<BR>14° alleenstaande: de werknemer die alleen woont,   eventueel met één of meerdere kinderen ten laste;<BR>15° minister : de Vlaamse   minister, bevoegd voor het tewerkstellingsbeleid;<BR>16° Departement WSE: het   Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en   Sociale Economie.<BR><BR>De volgende verloven worden gelijkgesteld met het   tijdskrediet, vermeld in het eerste lid, 6° :<BR>1° het ouderschapsverlof,   vermeld in het koninklijk besluit van 29 oktober 1997 tot invoering van een   recht op ouderschapsverlof in het kader van de onderbreking van de   beroepsloopbaan;<BR>2° het verlof voor medische bijstand, vermeld in het   koninklijk besluit van 10 augustus 1998 tot invoering van een recht op   loopbaanonderbreking voor bijstand of verzorging van een zwaar ziek gezins- of   familielid;<BR>3° het verlof voor palliatieve zorgen, vermeld in artikel 100bis   en 102bis van de herstelwet van 22 januari 1985 houdende sociale   bepalingen;<BR>4° de loopbaanonderbrekingen door de Rijksdienst voor   Arbeidsvoorziening die beslist zijn vóór 31 december 2001.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° akkoord: het Vlaams Intersectoraal Akkoord voor de social profitsector 2000-2005, afgesloten op 29 maart 2000;<br>
+2° social profitsector: de private sectoren zoals opgesomd in de "Algemene doelstelling" van het Vlaams Intersectoraal Akkoord voor de social profitsector 2000-2005, behorende tot de Vlaamse gezondheids- en welzijnssector en voor zover ze ressorteren onder een Vlaamse erkennings- en subsidieregelgeving, en de Vlaamse socio-culturele sector.<br>
+Onder de Vlaamse socio-culturele sector wordt verstaan de sectoren zoals bedoeld in artikel 1, 1°, 2°, 3°, 4°, 5°, 6°, 7°, 8°, 9°, 10°, 11°, 12°, 13°, 14° en 15° van het koninklijk besluit van 28 oktober 1993 betreffende het bevoegdheidsgebied van het Paritair Comité voor de socio-culturele sector, zoals gewijzigd bij het koninklijk besluit van 13 november 1996 en bij het koninklijk besluit van 13 december 2000;<br>
+3° voltijdse arbeidsregeling: de voltijdse arbeidsregeling van toepassing op de werknemer, rekening houdend met de leeftijd, en bepaald in het arbeidsreglement dat in de instelling van toepassing is, of in elk ander document dat hiertoe wordt bijgehouden wanneer de werkgever geen arbeidsreglement dient op te maken. Voor het bepalen van de voltijdse arbeidsregeling worden de schorsingen van de arbeidsovereenkomst gelijkgesteld met arbeidsprestaties zoals deze vóór de schorsing werden geleverd;<br>
+4° volledige loopbaanonderbreking : de onderbreking van de beroepsloopbaan, vermeld in artikel 100 tot en met 101bis van de herstelwet van 22 januari 1985 houdende sociale bepalingen, waarvoor een onderbrekingsuitkering wordt toegekend;<br>
+5° gedeeltelijke loopbaanonderbreking : de vermindering van de arbeidsprestaties met de helft of een vijfde van het normale aantal uren van een voltijdse betrekking, vermeld in artikel 102 tot en met 103 van de herstelwet van 22 januari 1985 houdende sociale bepalingen, waarvoor een onderbrekingsuitkering wordt toegekend;<br>
+6° tijdskrediet : de volledige schorsing van de arbeidsprestaties of de vermindering van de arbeidsprestaties tot een halftijdse betrekking, vermeld in artikel 3, 4 en 5 van de collectieve arbeidsovereenkomsten nr. 77bis van 19 december 2001 en nr. 103 van 27 juni 2012, waarvoor een uitkering tijdskrediet wordt toegekend;<br>
+7° landingsbaan : de vermindering van de arbeidsprestaties tot een halftijdse betrekking voor werknemers van vijftig jaar en ouder, vermeld in artikel 9 en 10 van de collectieve arbeidsovereenkomsten nr. 77bis van 19 december 2001 en nr. 103 van 27 juni 2012 tot invoering van een stelsel van tijdskrediet, loopbaanvermindering en vermindering van de arbeidsprestaties tot een halftijdse betrekking;<br>
+8° schorsing: de dagen van schorsing van de arbeidsovereenkomst<br>
+- die aanleiding hebben gegeven tot betaling van een uitkering bij toepassing van de wetgeving op de verplichte ziekte- en invaliditeitsverzekering, de schadeloosstelling voor arbeidsongevallen en beroepsziekten, de werkloosheidsverzekering, de jaarlijkse vakantie, de loopbaanonderbreking en het tijdskrediet;<br>
+- waarop niet werd gewerkt en waarvoor een loon werd betaald waarop sociale zekerheidsbijdragen, met inbegrip van de sector werkloosheid, werden ingehouden;<br>
+- wegens feestdagen waarvoor, overeenkomstig de wettelijke bepalingen, een loon werd betaald, waarop geen sociale zekerheidsbijdragen werden ingehouden;<br>
+- wegens arbeidsongeschiktheid waarvoor, overeenkomstig de wettelijke bepalingen, een loon werd betaald, waarop geen sociale zekerheidsbijdragen werden ingehouden;<br>
+- wegens het opnemen van inhaalrustdagen waarop de werknemer recht heeft ingevolge de arbeidswet van 16 maart 1971 of ingevolge een regeling tot vermindering van de arbeidsduur;<br>
+- wegens staking of lock-out;<br>
+- waarop niet werd gewerkt en geen loon werd betaald als carensdag zoals bedoeld door de wetgeving op de verplichte ziekte- en invaliditeitsverzekering;<br>
+- waarop niet werd gewerkt wegens vorst, die door het fonds voor bestaanszekerheid van de werklieden uit het bouwbedrijf werden vergoed;<br>
+- waarop de werknemer het ambt van rechter in sociale zaken, van rechter in handelszaken of van raadsheer in sociale zaken heeft vervuld;<br>
+- wegens verlof om dwingende redenen zoals bedoeld in het koninklijk besluit van 11 oktober 1991;<br>
+9° omkaderingspersoneel: de personeelsleden van een beschutte of sociale werkplaats die instaan voor de begeleiding van het doelgroeppersoneel en de personeelsleden van een beschutte of sociale werkplaats die instaan voor de ondersteuning van de werkplaatsen;<br>
+10° ...;<br>
+11° ...;<br>
+12° onderneming in moeilijkheden: de onderneming die in de jaarrekeningen van de twee boekjaren die de datum van de aanvraag van de erkenning voorafgaan vóór belastingen een verlies uit de gewone bedrijfsuitoefening boekt, wanneer voor het laatste boekjaar dit verlies het bedrag van de afschrijvingen en de waardevermindering op oprichtingskosten, immateriële en materiële vaste activa overschrijdt;<br>
+13° onderneming in herstructurering: de onderneming die zonder de invoering van verminderde arbeidsduur zou moeten overgaan tot het collectief ontslag dat ten minste betrekking heeft op:<br>
+- 10 % van de werknemers indien zij meer dan 100 werknemers tewerkstelt;<br>
+- 10 werknemers als zij meer dan 20 en tot 100 werknemers tewerkstelt;<br>
+- 6 werknemers indien zij tussen 12 en 20 werknemers tewerkstelt;<br>
+- de helft van het aantal werknemers indien zij minder dan 12 werknemers tewerkstelt;<br>
+14° alleenstaande: de werknemer die alleen woont, eventueel met één of meerdere kinderen ten laste;<br>
+15° minister : de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid;<br>
+16° Departement WSE: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie.<br>
+<br>
+De volgende verloven worden gelijkgesteld met het tijdskrediet, vermeld in het eerste lid, 6° :<br>
+1° het ouderschapsverlof, vermeld in het koninklijk besluit van 29 oktober 1997 tot invoering van een recht op ouderschapsverlof in het kader van de onderbreking van de beroepsloopbaan;<br>
+2° het verlof voor medische bijstand, vermeld in het koninklijk besluit van 10 augustus 1998 tot invoering van een recht op loopbaanonderbreking voor bijstand of verzorging van een zwaar ziek gezins- of familielid;<br>
+3° het verlof voor palliatieve zorgen, vermeld in artikel 100bis en 102bis van de herstelwet van 22 januari 1985 houdende sociale bepalingen;<br>
+4° de loopbaanonderbrekingen door de Rijksdienst voor Arbeidsvoorziening die beslist zijn vóór 31 december 2001.
 
 ## HOOFDSTUK II TOEPASSINGSGEBIED
 
 ### ART. 2.
 
-§ 1. Dit besluit is van toepassing op de werkgevers en werknemers die ressorteren onder de Vlaamse social profitsector. In de beschutte en sociale werkplaatsen is het besluit van toepassing op de personeelsleden die tot het omkaderingspersoneel behoren. De werknemers zijn tewerkgesteld middels een arbeidsovereenkomst van onbepaalde duur.<br /><br />§ 2. De bepalingen van hoofdstuk III, afdeling 1 zijn eveneens van toepassing op de werknemers die tewerkgesteld zijn met andere arbeidsovereenkomsten dan deze van onbepaalde duur.<br /><br />§ 3. De Vlaamse regering kan het toepassingsgebied uitbreiden tot andere categorieën van werkgevers en werknemers en personen die met werkgevers en werknemers worden gelijkgesteld.
+§ 1. Dit besluit is van toepassing op de werkgevers en werknemers die ressorteren onder de Vlaamse social profitsector. In een bedrijf dat erkend is als collectieve maatwerkorganisatie is het besluit van toepassing op de personeelsleden die tot het omkaderingspersoneel behoren. De werknemers zijn tewerkgesteld middels een arbeidsovereenkomst van onbepaalde duur.<br>
+<br>
+§ 2. De bepalingen van hoofdstuk III, afdeling 1 zijn eveneens van toepassing op de werknemers die tewerkgesteld zijn met andere arbeidsovereenkomsten dan deze van onbepaalde duur.<br>
+<br>
+§ 3. ...
 
 ## HOOFDSTUK III MAATREGELEN
 
@@ -68,15 +109,36 @@ De aanmoedigingspremie bedraagt bruto per volledige kalendermaand:<br /><br />- 
 
 ### ART. 14.
 
-§ 1. Aan de werknemer, tewerkgesteld in de sociale profitsector, kan een aanmoedigingspremie worden toegekend indien hij zijn loopbaan volledig of gedeeltelijk onderbreekt in het kader van het tijdskrediet voor het volgen van een opleiding.<br /><br />§ 2. De aanmoedigingspremie in het kader van het opleidingskrediet kan tijdens de beroepsloopbaan gedurende maximum twee jaar worden toegekend. Voor het bepalen van de maximumduur van twee jaar wordt gerekend vanaf de datum van inwerkingtreding van dit besluit.<br /><br />§ 2bis. Voor werknemers met een loopbaananciënniteit van ten minste 20 jaar wordt de maximumduur verhoogd met 6 maanden.<br /><br />§ 3. Voor het bepalen van de in §§ 2 en 2bis vermelde maximumduur wordt de aanmoedigingspremie, toegekend in het kader van het zorgkrediet of het loopbaankrediet, niet meegerekend.<br /><br />§ 4. Onverminderd de bepalingen van §§ 2, 2bis en 3 kan de aanmoedigingspremie worden toegekend voor de volledige duur van de opleiding indien deze gevolgd wordt in het kader van het tweedekansonderwijs of indien de gevolgde opleiding leidt tot een diploma of getuigschrift dat toegang geeft tot de uitoefening van een beroep zoals opgenomen in de lijst van knelpuntberoepen van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding of in de lijst van beroepen waarvoor een significant tekort aan arbeidskrachten bestaat, die voor het Vlaamse Gewest werd vastgesteld in uitvoering van artikel 93 van het koninklijk besluit van 25 november 1991.
+Aan de werknemer in de Vlaamse sociale profitsector kan een aanmoedigingspremie worden toegekend als supplement bij de uitkering van het tijdskrediet dat hij opneemt om een opleiding te volgen, op voorwaarde dat de werknemer over een opleidingskrediet beschikt.<br>
+<br>
+De opleiding, vermeld in het eerste lid, voldoet aan de volgende voorwaarden:<br>
+1° het gaat om een opleiding als vermeld in artikel 4, § 2, derde lid, van de collectieve arbeidsovereenkomst nr. 103 van 27 juni 2012, gesloten in de Nationale Arbeidsraad, tot invoering van een stelsel van tijdskrediet, loopbaanvermindering en landingsbanen;<br>
+2° afhankelijk van de scholingsgraad van de werknemer geldt een van de volgende situaties:<br>
+a) voor kort- en middengeschoolden gaat het om een van de volgende opleidingen:<br>
+1) een arbeidsmarktgerichte opleiding die recht geeft op Vlaams opleidingsverlof volgens de voorwaarden, vermeld in artikel 109, § 2, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, en die onderwijs- of beroepskwalificerend is, een ondernemerschapstraject is of leidt naar een knelpuntberoep;<br>
+2) een loopbaangerichte opleiding die recht geeft op Vlaams opleidingsverlof volgens de voorwaarden, vermeld in artikel 109, § 3, van de voormelde wet;<br>
+b) voor hooggeschoolden gaat het om een loopbaangerichte opleiding die recht geeft op Vlaams opleidingsverlof volgens de voorwaarden, vermeld in artikel 109, § 3, van de voormelde wet.".<br>
+<br>
+In het tweede lid wordt verstaan onder:<br>
+1° hooggeschoold: ten minste beschikken over een diploma van hoger onderwijs;<br>
+2° kortgeschoold: niet beschikken over een diploma van secundair onderwijs;<br>
+3° middengeschoold: ten hoogste beschikken over een diploma van secundair onderwijs.
 
 ### ART. 15.
 
-<P>...</P>
+De werknemer krijgt een opleidingskrediet waarvan de duur gelijk is aan de duur van de opname van zijn recht op voltijds tijdskrediet, halftijdse loopbaanvermindering of loopbaanvermindering met een vijfde om een opleiding te volgen als vermeld in artikel 4, § 2, eerste lid, van de collectieve arbeidsovereenkomst nr. 103 van 27 juni 2012, gesloten in de Nationale Arbeidsraad, tot invoering van een stelsel van tijdskrediet, loopbaanvermindering en landingsbanen.
 
 ### ART. 16.
 
-<P>De werknemer die gedurende twaalf maanden voorafgaand aan de aanvang van het   opleidingskrediet tewerkgesteld is geweest in een arbeidsregeling die minimaal   75 % van de voltijdse arbeidsregeling bedraagt en zijn arbeidsprestaties   volledig schorst, ontvangt per maand een aanmoedigingspremie van 150 euro   bruto.<BR><BR>De werknemer die gedurende twaalf maanden voorafgaand aan de   aanvang van het opleidingskrediet tewerkgesteld is geweest in een   arbeidsregeling die minimaal 50 % van de voltijdse arbeidsregeling bedraagt en   zijn arbeidsprestaties volledig schorst, ontvangt per maand een   aanmoedigingspremie van 100 euro bruto.<BR><BR>De werknemer die gedurende twaalf   maanden voorafgaand aan de aanvang van het opleidingskrediet tewerkgesteld is   geweest in een arbeidsregeling die minimaal 75 % van de voltijdse   arbeidsregeling bedraagt en zijn arbeidsprestaties vermindert tot een halftijdse   betrekking, ontvangt per maand een aanmoedigingspremie van 100 euro   bruto.<BR><BR>De werknemer die gedurende twaalf maanden voorafgaand aan de   aanvang van het opleidingskrediet tewerkgesteld is geweest in een deeltijdse   arbeidsregeling van minimaal 20 % en minder dan 50 % van de voltijdse   arbeidsregeling en zijn arbeidsprestaties volledig schorst, ontvangt per maand   een aanmoedigingspremie van 50 euro bruto.</P>
+<p>De werknemer die gedurende twaalf maanden voorafgaand aan de aanvang van het opleidingskrediet tewerkgesteld is geweest in een arbeidsregeling die minimaal 75 % van de voltijdse arbeidsregeling bedraagt en zijn arbeidsprestaties volledig schorst, ontvangt per maand een aanmoedigingspremie van&nbsp;421 euro bruto.<br>
+<br>
+De werknemer die gedurende twaalf maanden voorafgaand aan de aanvang van het opleidingskrediet tewerkgesteld is geweest in een arbeidsregeling die minimaal 50 % van de voltijdse arbeidsregeling bedraagt en zijn arbeidsprestaties volledig schorst, ontvangt per maand een aanmoedigingspremie van&nbsp;223 euro bruto.<br>
+<br>
+De werknemer die gedurende twaalf maanden voorafgaand aan de aanvang van het opleidingskrediet tewerkgesteld is geweest in een arbeidsregeling die minimaal 75 % van de voltijdse arbeidsregeling bedraagt en zijn arbeidsprestaties vermindert tot een halftijdse betrekking, ontvangt per maand een aanmoedigingspremie van&nbsp;223 euro bruto.<br>
+<br>
+De werknemer die gedurende twaalf maanden voorafgaand aan de aanvang van het opleidingskrediet tewerkgesteld is geweest in een deeltijdse arbeidsregeling van minimaal 20 % en minder dan 50 % van de voltijdse arbeidsregeling en zijn arbeidsprestaties volledig schorst, ontvangt per maand een aanmoedigingspremie van&nbsp;125 euro bruto.<br>
+<br>
+De werknemer die gedurende twaalf maanden vóór de aanvang van het opleidingskrediet voltijds werkt en zijn arbeidsprestaties vermindert met 20% van de gemiddelde wekelijkse arbeidsduur van een voltijdse werknemer, ontvangt per maand een aanmoedigingspremie van 125 euro.</p>
 
 ### ART. 17.
 
@@ -118,21 +180,76 @@ De aanmoedigingspremie bij verminderde arbeidsduur kan niet gecombineerd worden 
 
 ### ART. 25.
 
-§ 1. Vanaf de eerste dag van de maand volgend op de datum waarop de   werknemer op welke gronden dan ook de sector verlaat of niet meer aan de   voorwaarden, waaronder de aanmoedigingspremie werd toegekend, voldoet, verliest   hij het recht op de uitbetaling van de premie.<BR><BR>§ 2. Onrechtmatig   verkregen aanmoedigingspremies worden teruggevorderd van de partij die   aanleiding heeft gegeven tot het onrechtmatig karakter van de uitbetaling van de   premie.<BR><BR>§ 3. De controle op de naleving van de voorwaarden wordt   uitgeoefend door de sociaalrechtelijke inspecteurs van de afdeling Inspectie van   het departement Werk en Sociale Economie.
+§ 1. Vanaf de eerste dag van de maand volgend op de datum waarop de werknemer op welke gronden dan ook de sector verlaat of niet meer aan de voorwaarden, waaronder de aanmoedigingspremie werd toegekend, voldoet, verliest hij het recht op de uitbetaling van de premie.<br>
+<br>
+§ 2. Onrechtmatig verkregen aanmoedigingspremies worden teruggevorderd van de partij die aanleiding heeft gegeven tot het onrechtmatig karakter van de uitbetaling van de premie.<br>
+<br>
+§ 3. De controle op de naleving van de voorwaarden wordt uitgeoefend door de sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van het departement Werk en Sociale Economie.
 
 ## [HOOFDSTUK VI EVALUATIE (verv. BVR 5 april 2019, art. 7, I: 1 september 2019)]
 
 ### ART. 26.
 
-§ 1. Er zal een opvolgingscommissie worden opgericht, bestaande uit vertegenwoordigers van:<br /><br />- de Vlaamse sociale partners uit de sociale profitsector;<br /><br />- de Vlaamse minister bevoegd voor het werkgelegenheidsbeleid;<br /><br />- de Vlaamse minister bevoegd voor het cultuurbeleid;<br /><br />- de Vlaamse minister bevoegd voor het welzijnsbeleid.<br /><br />§ 2. De opvolgingscommissie wordt voorgezeten door de Vlaamse minister bevoegd voor het werkgelegenheidsbeleid.<br /><br />§ 3. De opvolgingscommissie bepaalt de deelsectoren van de Vlaamse gezondheidssector, de Vlaamse welzijnssector en de Vlaamse socio-culturele sector waarop onderhavig besluit van toepassing is. Zij begeleidt verder de uitvoering van dit besluit en zet een monitoringsysteem op.
+§ 1. Er wordt een Opvolgingscommissie opgericht, die bestaat uit vertegenwoordigers van:<br>
+1° de Vlaamse sociale partners uit de sociale profitsector;<br>
+2° de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid;<br>
+3° de Vlaamse minister, bevoegd voor de culturele aangelegenheden;<br>
+4° de Vlaamse minister, bevoegd voor het welzijnsbeleid;<br>
+5° de Vlaamse minister, bevoegd voor het gezondheidsbeleid.<br>
+<br>
+§ 2. De Opvolgingscommissie wordt voorgezeten door de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid.<br>
+<br>
+§ 3. De Opvolgingscommissie bepaalt de deelsectoren van de Vlaamse gezondheidssector, de Vlaamse welzijnssector en de Vlaamse socioculturele sector waarop dit besluit van toepassing is. Ze begeleidt verder de uitvoering van de maatregelen in dit besluit, uitgezonderd de aanmoedigingspremie in het kader van opleidingskrediet, en zet een monitoringssysteem op voor die maatregelen.
+
+### ART 26/1.
+
+Elke drie jaar evalueert het Departement WSE de aanmoedigingspremie in het kader van het opleidingskrediet en voert het onderzoek naar de evolutie van het gebruik van de aanmoedigingspremies, het profiel van de werknemers die ervan gebruikmaken en de inhoud van de gevolgde opleidingen.<br>
+<br>
+De Opleidingscommissie, vermeld in artikel 110, § 1, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, volgt jaarlijks de budgettaire ontwikkeling op van de regeling over de aanmoedigingspremie in het kader van het opleidingskrediet.<br>
+<br>
+De Opleidingscommissie, vermeld in het tweede lid, kan een advies uitbrengen in verband met de vraagstukken over de aanmoedigingspremie in het kader van het opleidingskrediet.
 
 ## [HOOFDSTUK VIBIS BEPALINGEN INZAKE GEGEVENSVERWERKING (ing. BVR 5 april 2019, art. 8, I: 1 september 2019)]
+
+### ART 26bis.
+
+Het Departement WSE treedt op als de verwerkingsverantwoordelijke van persoonsgegevens, zoals bedoeld in artikel 4, 7), van Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), hierna de algemene verordening gegevensbescherming te noemen, voor de verwerking van persoonsgegevens in het kader van de toekenning, de controle en de terugvordering van de aanmoedigingspremies, het monitoringssysteem, vermeld in artikel 26, § 3, en de driejaarlijkse evaluatie, vermeld in artikel 26/1.<br>
+<br>
+De persoonsgegevens die in het kader van het monitoringssysteem en de driejaarlijkse evaluatie worden verwerkt, worden geanonimiseerd.
+
+### ART 26ter.
+
+Het Departement WSE wisselt in het kader van de toekenning, de controle en terugvordering van aanmoedigingspremies de volgende persoonsgegevens uit met de volgende instanties van aanmoedigingspremies de volgende persoonsgegevens uit met de volgende instanties:<br>
+1° de tewerkstellingsgegevens van de werknemer met de Rijksdienst voor Sociale Zekerheid;<br>
+2° het rijksregisternummer, de identificatiegegevens en de gezinssamenstelling van de werknemer met het Rijksregister van de natuurlijke personen;<br>
+3° de opname door de werknemer van het recht op voltijds tijdskrediet, halftijdse loopbaanvermindering of loopbaanvermindering met een vijfde om een opleiding te volgen met de Rijksdienst voor Arbeidsvoorziening;<br>
+4° de scholingsgraad van de werknemer met de leer- en ervaringsbewijzendatabank, vermeld in artikel 19 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur.<br>
+<br>
+De uitwisselingen van persoonsgegevens vinden plaats met tussenkomst van de bevoegde dienstenintegratoren.
+
+### ART 26quater.
+
+Onverminderd artikel 32 van de algemene verordening gegevensbescherming, worden de persoonsgegevens worden beveiligd volgens de dataclassificatie en de richtlijnen van het stuurorgaan Vlaams Informatie- en ICT-beleid, overeenkomstig artikel 3, tweede lid, 3°, van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid.
+
+### ART 26quinquies.
+
+De persoonsgegevens die overeenkomstig dit besluit worden opgevraagd, worden slechts zo lang bewaard als nodig voor de toekenning, de controle en de terugvordering van de aanmoedigingspremie.
 
 ## HOOFDSTUK VII OVERGANGSBEPALINGEN
 
 ### ART. 27.
 
-§ 1. De beslissingen genomen in uitvoering van het besluit van de Vlaamse regering van 8 december 2000 tot instelling van de aanmoedigingspremies bij loopbaanonderbreking in geval van zorgkrediet, blijven hun uitwerking behouden voor de toegekende duur met toepassing van artikel 24, § 3, van dit besluit.<br /><br />§ 2. De beslissingen genomen in uitvoering van het besluit van de Vlaamse regering van 8 december 2000 tot instelling van de aanmoedigingspremies bij loopbaanonderbreking in geval van loopbaankrediet, blijven hun uitwerking behouden voor de toegekende duur en de toegekende bedragen met toepassing van artikel 24, § 3, van dit besluit.<br /><br />§ 3. De beslissingen genomen in uitvoering van het besluit van de Vlaamse regering van 8 december 2000 tot instelling van de aanmoedigingspremies bij loopbaanonderbreking in geval van landingsbanen, blijven hun uitwerking behouden voor de toegekende duur met toepassing vanaf 1 januari 2002 van de bedragen vermeld in artikel 13 van dit besluit en toepassing van artikel 24, § 3, van dit besluit.<br /><br />§ 4. De vervangingsplicht opgelegd door het besluit van de Vlaamse regering van 8 december 2000 tot instelling van de aanmoedigingspremies bij loopbaanonderbreking in geval van zorgkrediet, loopbaankrediet en landingsbanen, vervalt met ingang van 1 januari 2002.<br /><br />§ 5. In afwijking van artikel 24, § 1, van dit besluit is de aanvraag voor het bekomen van de aanmoedigingspremie, met betrekking tot de premie-aanvragen waarvan het tijdskrediet is aangevangen in de periode tussen 1 januari 2002 en 31 mei 2002, geldig als ze ingediend wordt binnen negen maanden na aanvang van de loopbaanonderbreking waarvoor de aanmoedigingspremie wordt aangevraagd.
+§ 1. De beslissingen genomen in uitvoering van het besluit van de Vlaamse regering van 8 december 2000 tot instelling van de aanmoedigingspremies bij loopbaanonderbreking in geval van zorgkrediet, blijven hun uitwerking behouden voor de toegekende duur met toepassing van artikel 24, § 3, van dit besluit.<br>
+<br>
+§ 2. De beslissingen genomen in uitvoering van het besluit van de Vlaamse regering van 8 december 2000 tot instelling van de aanmoedigingspremies bij loopbaanonderbreking in geval van loopbaankrediet, blijven hun uitwerking behouden voor de toegekende duur en de toegekende bedragen met toepassing van artikel 24, § 3, van dit besluit.<br>
+<br>
+§ 3. De beslissingen genomen in uitvoering van het besluit van de Vlaamse regering van 8 december 2000 tot instelling van de aanmoedigingspremies bij loopbaanonderbreking in geval van landingsbanen, blijven hun uitwerking behouden voor de toegekende duur met toepassing vanaf 1 januari 2002 van de bedragen vermeld in artikel 13 van dit besluit en toepassing van artikel 24, § 3, van dit besluit.<br>
+<br>
+§ 4. De vervangingsplicht opgelegd door het besluit van de Vlaamse regering van 8 december 2000 tot instelling van de aanmoedigingspremies bij loopbaanonderbreking in geval van zorgkrediet, loopbaankrediet en landingsbanen, vervalt met ingang van 1 januari 2002.<br>
+<br>
+§ 5. In afwijking van artikel 24, § 1, van dit besluit is de aanvraag voor het bekomen van de aanmoedigingspremie, met betrekking tot de premie-aanvragen waarvan het tijdskrediet is aangevangen in de periode tussen 1 januari 2002 en 31 mei 2002, geldig als ze ingediend wordt binnen negen maanden na aanvang van de loopbaanonderbreking waarvoor de aanmoedigingspremie wordt aangevraagd.<br>
+<br>
+§ 6. Aan een werknemer die een opleiding volgt die vóór 1 september 2019 recht geeft op de toekenning van een aanmoedigingspremie in het kader van het opleidingskrediet, maar geen opleiding is die voldoet aan de voorwaarden, vermeld in artikel 14, tweede lid, kan een aanmoedigingspremie toegekend worden conform de voorwaarden die van kracht waren vóór 1 september 2019, tot en met het derde jaar waarin hij de opleiding volgt, en uiterlijk tot en met 30 juni 2021.
 
 ### ART. 27bis.
 
