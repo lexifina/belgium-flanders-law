@@ -41,39 +41,39 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/cgi/article.pl?caller=summary&numac=2012035245&pub_date=2012-04-06&language=nl&view_ann=1&urlimage=/mopdf/2012/04/06_1.pdf#Page1#page=5" title=" Bijlage 1" target="_blank" class="pdf">Bijlage 1</a>
+...
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/cgi/article.pl?caller=summary&numac=2012035245&pub_date=2012-04-06&language=nl&view_ann=1&urlimage=/mopdf/2012/04/06_1.pdf#Page1#page=29" title=" Bijlage 2" target="_blank" class="pdf">Bijlage 2</a>
+<a title=" Bijlage 2" class="pdf" href="http://www.ejustice.just.fgov.be/cgi/article.pl?caller=summary&amp;numac=2012035245&amp;pub_date=2012-04-06&amp;language=nl&amp;view_ann=1&amp;urlimage=/mopdf/2012/04/06_1.pdf#Page1#page=29" target="_blank">.</a>..
 
 ### BIJLAGE 3
 
-<a href="http://www.ejustice.just.fgov.be/cgi/article.pl?caller=summary&numac=2012035245&pub_date=2012-04-06&language=nl&view_ann=1&urlimage=/mopdf/2012/04/06_1.pdf#Page1#page=53" title=" Bijlage 3" target="_blank" class="pdf">Bijlage 3</a>
+...
 
 ### BIJLAGE 4
 
-<a href="http://www.ejustice.just.fgov.be/cgi/article.pl?caller=summary&numac=2012035245&pub_date=2012-04-06&language=nl&view_ann=1&urlimage=/mopdf/2012/04/06_1.pdf#Page1#page=77" title=" Bijlage 4" target="_blank" class="pdf">Bijlage 4</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/cgi/article.pl?caller=summary&numac=2012035245&pub_date=2012-04-06&language=nl&view_ann=1&urlimage=/mopdf/2012/04/06_1_2.pdf#Page1#page=1" title=" Bijlage 4" target="_blank" class="pdf">Bijlage 4</a>
+...
 
 ### BIJLAGE 5
 
-<a href="http://www.ejustice.just.fgov.be/cgi/article.pl?caller=summary&numac=2012035245&pub_date=2012-04-06&language=nl&view_ann=1&urlimage=/mopdf/2012/04/06_1_2.pdf#Page1#page=3" title=" Bijlage 5" target="_blank" class="pdf">Bijlage 5</a>
+...
 
 ### BIJLAGE 6
 
-<a href="http://www.ejustice.just.fgov.be/cgi/article.pl?caller=summary&numac=2012035245&pub_date=2012-04-06&language=nl&view_ann=1&urlimage=/mopdf/2012/04/06_1_2.pdf#Page1#page=29" title=" Bijlage 6" target="_blank" class="pdf">Bijlage 6</a>
+...
 
 ### BIJLAGE 7
 
-<a href="http://www.ejustice.just.fgov.be/cgi/article.pl?caller=summary&numac=2012035245&pub_date=2012-04-06&language=nl&view_ann=1&urlimage=/mopdf/2012/04/06_1_2.pdf#Page1#page=53" title=" Bijlage 7" target="_blank" class="pdf">Bijlage 7</a>
+...
 
 ### BIJLAGE 8
 
-<a href="http://www.ejustice.just.fgov.be/cgi/article.pl?caller=summary&numac=2012035245&pub_date=2012-04-06&language=nl&view_ann=1&urlimage=/mopdf/2012/04/06_1_2.pdf#Page1#page=80" title=" Bijlage 8" target="_blank" class="pdf">Bijlage 8</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/cgi/article.pl?caller=summary&numac=2012035245&pub_date=2012-04-06&language=nl&view_ann=1&urlimage=/mopdf/2012/04/06_1_3.pdf#Page1#page=1" title=" Bijlage 8" target="_blank" class="pdf">Bijlage 8</a>
+...
 
 ### BIJLAGE 9
 
-<a href="http://www.ejustice.just.fgov.be/cgi/article.pl?caller=summary&numac=2012035245&pub_date=2012-04-06&language=nl&view_ann=1&urlimage=/mopdf/2012/04/06_1_3.pdf#Page1#page=6" title=" Bijlage 9" target="_blank" class="pdf">Bijlage 9</a>
+...
 
 ### BIJLAGE 10
 
