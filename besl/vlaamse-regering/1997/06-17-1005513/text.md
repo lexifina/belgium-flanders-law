@@ -578,6 +578,10 @@ Binnen een termijn van drie maanden na de betekening van de in artikel 26 bedoel
 
 ## HOOFDSTUK 5/1. [... (opgeh. BVR 5 mei 2023, art. 33, I: 1 september 2023)]
 
+### ART 28/1.
+
+In een ondersteuningsnetwerk, als vermeld in artikel 172quinquies, § 8/1, tweede lid, van het decreet basisonderwijs van 25 februari 1997 en artikel 314/8, § 8/1, tweede lid, van de Codex Secundair Onderwijs van 17 december 2010, kan jaarlijks maximaal drie procent van het totaal aantal lestijden, lesuren, uren en begeleidingseenheden die de verschillende scholen voor buitengewoon onderwijs samen ontvangen voor ondersteuning van scholen voor gewoon onderwijs, aangewend worden voor coördinatieopdrachten.
+
 ## HOOFDSTUK 6 OPHEFFINGSBEPALINGEN
 
 ### ART. 29.
