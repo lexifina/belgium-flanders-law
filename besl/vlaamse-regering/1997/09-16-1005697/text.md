@@ -34,11 +34,11 @@ De ouders worden hierbij gewezen op:<br>
 
 ### ART. 5.
 
-Elke directie of Syntra Vlaanderen, naargelang van het geval, vraagt bij de eerste inschrijving van elke leerling het identificatienummer. Als de ouders of de meerderjarige leerling dat identificatienummer niet wensen of niet kunnen geven, vraagt de directie of Syntra Vlaanderen, naargelang van het geval, het identificatienummer aan het Agentschap voor Onderwijsdiensten.
+Elke directie&nbsp;vraagt bij de eerste inschrijving van elke leerling het identificatienummer. Als de ouders of de meerderjarige leerling dat identificatienummer niet wensen of niet kunnen geven, vraagt de directie&nbsp;het identificatienummer aan het Agentschap voor Onderwijsdiensten.
 
 ### ART. 6.
 
-Elke directie of Syntra Vlaanderen, naargelang van het geval, bezorgt voor het betrokken schooljaar aan het Agentschap voor Onderwijsdiensten uiterlijk de dertiende schooldag een lijst met de identificatiegegevens van de leerlingen die uiterlijk de derde schooldag werden ingeschreven.<br>
+Elke directie&nbsp;bezorgt voor het betrokken schooljaar aan het Agentschap voor Onderwijsdiensten uiterlijk de dertiende schooldag een lijst met de identificatiegegevens van de leerlingen die uiterlijk de derde schooldag werden ingeschreven.<br>
 <br>
 Onder identificatiegegevens van de leerling worden verstaan : voornamen, achternaam, geboortedatum, adres, geslacht, identificatienummer (indien mogelijk).
 
@@ -62,13 +62,15 @@ De Vlaamse minister, bevoegd voor het onderwijs, bepaalt op welke wijze de gegev
 
 ### ART. 10bis.
 
-Vanaf het schooljaar 2009-2010 bezorgt elke directie of Syntra Vlaanderen, naargelang van het geval, voor het schooljaar in kwestie aan het Agentschap voor Onderwijsdiensten, overeenkomstig de door dit Agentschap vastgelegde modaliteiten, alle vereiste gegevens die de controle op het werkplekleren mogelijk maken teneinde na te gaan welke jongeren niet voldoen aan de voorwaarde van werkplekleren.<br /><br />Met betrekking tot jongeren die niet voldoen aan de voorwaarde van werkplekleren, gelden dezelfde procedurele bepalingen als die, vermeld in artikel 9 en 10, met dien verstande dat rekening wordt gehouden met de gevallen waarin de component werkplekleren tijdelijk niet wordt ingevuld als vermeld in artikel 6, § 3, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap.
+Vanaf het schooljaar 2009-2010 bezorgt elke directie voor het schooljaar in kwestie aan het Agentschap voor Onderwijsdiensten, overeenkomstig de door dit Agentschap vastgelegde modaliteiten, alle vereiste gegevens die de controle op het werkplekleren mogelijk maken teneinde na te gaan welke jongeren niet voldoen aan de voorwaarde van werkplekleren.<br>
+<br>
+Met betrekking tot jongeren die niet voldoen aan de voorwaarde van werkplekleren, gelden dezelfde procedurele bepalingen als die, vermeld in artikel 9 en 10, met dien verstande dat rekening wordt gehouden met de gevallen waarin de component werkplekleren tijdelijk niet wordt ingevuld als vermeld in artikel 6, § 3, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap.
 
 ## HOOFDSTUK III SANCTIES
 
 ### ART. 11.
 
-De bepalingen van dit hoofdstuk zijn niet van toepassing op de instellingen die niet gefinancierd of gesubsidieerd worden door de Vlaamse Gemeenschap en zijn niet van toepassing op de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen.
+De bepalingen van dit hoofdstuk zijn niet van toepassing op de instellingen die niet gefinancierd of gesubsidieerd worden door de Vlaamse Gemeenschap en zijn voor de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen alleen van toepassing op de duale structuuronderdelen of aanloopstructuuronderdelen.
 
 ### ART. 12.
 
@@ -109,12 +111,16 @@ a) hetzij een attest, uitgereikt door een arts, voorzover het om één van volge
 4) een afwezigheid tijdens evaluatiemomenten buiten examenperiodes, indien de instelling bepaalt dat voor dergelijke afwezigheid een attest, uitgereikt door een arts, is vereist;<br>
 5) ...<br>
 b) hetzij een verklaring van de ouders of van de meerderjarige leerling tot staving van alle afwezigheden wegens ziekte waarvan de periode of de duur niet onder a) valt;<br>
-4° de afwezigheid in het voltijds gewoon secundair onderwijs toegestaan op basis van het globale topsportconvenant dat van kracht is tussen de Vlaamse regering, de representatieve verenigingen van inrichtende machten van het onderwijs, het BLOSO, het Belgisch Olympisch en Interfederaal Comité en de Bond voor Lichamelijke Opvoeding werd gesloten, en die als volgt is bepaald:<br>
+4° de afwezigheid in het voltijds gewoon secundair onderwijs toegestaan op basis van het globale topsportconvenant dat van kracht is tussen de Vlaamse regering, de representatieve verenigingen van inrichtende machten van het onderwijs, Sport Vlaanderen, het Belgisch Olympisch en Interfederaal Comité en de Bond voor Lichamelijke Opvoeding werd gesloten, en die als volgt is bepaald:<br>
 a) maximum honderddertig halve lesdagen per schooljaar voor leerlingen met topsportstatuut A, ingeschreven in een topsportstudierichting;<br>
 b) maximum veertig halve lesdagen per schooljaar voor leerlingen met topsportstatuut B en leerlingen met top-sportstatuut A, niet ingeschreven in een topsportstudierichting;<br>
 c) maximum negentig halve lesdagen per schooljaar voor leerlingen met topsportstatuut A, ingeschreven in de eerste graad in een topsportschool;<br>
+d) maximum honderddertig halve lesdagen per schooljaar voor leerlingen van de tweede of derde graad met een individueel flexibel leertraject als bedoeld in artikel 136/5 van de Codex Secundair Onderwijs;<br>
+e) maximum negentig halve lesdagen per schooljaar voor leerlingen van de eerste graad met een individueel flexibel leertraject als bedoeld in artikel 136/5 van de Codex Secundair Onderwijs.<br>
 De afwezigheid in een structuuronderdeel van het studiegebied ballet van het voltijds gewoon secundair onderwijs om deel te nemen aan balletoptreden, buitenlandse stages, concours of, doch uitsluitend voor het tweede leerjaar van de derde graad, audities af te leggen, op voorwaarde van voorlegging van een verklaring van de organisator tot staving van de afwezigheid. De afwezigheid per leerling is bepaald op maximum veertig halve lesdagen per schooljaar.&nbsp;<br>
-5° De afwezigheid ingevolge maatregelen bij schending van leefregels.
+5° De afwezigheid ingevolge maatregelen bij schending van leefregels.<br>
+<br>
+Afwezigheden tijdens de werkplekcomponent van duale structuuronderdelen of de aanloopcomponent van aanloopstructuuronderdelen, als hier gebruik gemaakt wordt van een begeleide leerervaring in een onderneming, moeten in overeenstemming zijn met het arbeidsreglement.
 
 ### ART. 14quater.
 
@@ -124,10 +130,7 @@ b) alle afwezigheden bij het werkplekleren die niet onder toepassing vallen van 
 <br>
 Wettiging van problematische afwezigheden De als problematisch geregistreerde afwezigheid wordt als gewettigd beschouwd, op voorwaarde dat de instelling in begeleidende maatregelen ten aanzien van de betrokken leerling voorziet.<br>
 <br>
-Vanaf vijf al dan niet gespreide halve lesdagen per schooljaar die als problematische afwezigheid zijn geregistreerd, moet bovendien aan volgende voorwaarden worden voldaan:<br>
-a) de instelling moet de problematische afwezigheden aan het centrum voor leerlingenbegeleiding signaleren;<br>
-b) overeenkomstig artikel 5 van het besluit van de Vlaamse regering van 28 augustus 2000 tot vaststelling van de operationele doelstellingen voor de begeleiding van jongeren met leerplichtproblemen in de centra voor leerlingenbegeleiding moet de school samenwerken met het centrum voor leerlingenbegeleiding inzake de begeleiding van de desbetreffende jongere;<br>
-c) van de in b) vermelde begeleiding moet de school een dossier bijhouden. Dit mag een onderdeel zijn van het leerlingendossier.<br>
+Vanaf vijf al dan niet gespreide halve lesdagen per schooljaar die als problematische afwezigheid zijn geregistreerd, signaleert de instelling bovendien de problematische afwezigheden aan het centrum voor leerlingenbegeleiding en werkt ermee samen rond begeleiding van de jongere in kwestie. Van die begeleiding houdt de school een dossier bij, dat een onderdeel mag zijn van het leerlingendossier.<br>
 <br>
 Van zodra de duur van de als problematisch geregistreerde afwezigheid dertig al dan niet gespreide halve lesdagen per schooljaar overschrijdt, brengt de instelling het Agentschap voor Onderwijsdiensten hiervan op de hoogte. De Vlaamse minister, bevoegd voor het onderwijs, bepaalt de modaliteiten van deze mededeling.
 
@@ -153,7 +156,7 @@ De school beschikt over een dossier dat ten minste de volgende elementen bevat :
 2) een medisch attest waaruit de noodzakelijkheid, de frequentie en de duur van de revalidatie blijkt;<br>
 3) een advies, geformuleerd door het centrum voor leerlingenbegeleiding, na overleg met de begeleidende klassenraad en de ouders. Dat advies moet motiveren waarom revalidatie tijdens de lesuren vereist is;<br>
 4) een toestemming van de directeur voor een periode die de duur van de behandeling, vermeld in het medisch attest, niet kan overschrijden.<br>
-b) in het gewoon onderwijs gedurende maximaal 150 minuten per week, verplaatsing inbegrepen, wegens een stoornis die is vastgelegd in een diagnose als vermeld in artikel 5, 4°, van het besluit van de Vlaamse Regering van 3 juli 2009 tot vaststelling van de operationele doelstellingen van de centra voor leerlingenbegeleiding. Voor leerlingen met een verslag kan de afwezigheid maximaal 250 minuten per week bedragen, verplaatsing inbegrepen.<br>
+b) in het gewoon onderwijs gedurende maximaal 150 minuten per week, verplaatsing inbegrepen, voor leerlingen met een specifieke onderwijsgerelateerde behoefte waarvoor een handelingsgericht advies is gegeven als vermeld in artikel 2, 11°, g), van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding. Voor leerlingen met een verslag kan de afwezigheid maximaal 250 minuten per week bedragen, verplaatsing inbegrepen.<br>
 De school beschikt over een dossier dat ten minste de volgende elementen bevat :<br>
 1) een verklaring van de ouders waarom de revalidatie tijdens de lesuren moet plaatsvinden;<br>
 2) een advies, geformuleerd door het centrum voor leerlingenbegeleiding in overleg met de begeleidende klassenraad en de ouders. Dat advies moet motiveren waarom de problematiek van de leerling van die aard is dat het wettelijk voorziene zorgbeleid van een school daarop geen antwoord kan geven en dat de revalidatietussenkomsten niet beschouwd kunnen worden als schoolgebonden aanbod. Onder schoolgebonden aanbod wordt verstaan : het reguliere pedagogisch-didactische aanbod voor alle leerlingen, de aanvullende zorgmaatregelen op niveau van de school of scholengemeenschap, en de schoolexterne dienstverlening door personeel of diensten, gefinancierd of gesubsidieerd door het Beleidsdomein Onderwijs en Vorming;<br>
@@ -167,15 +170,17 @@ De school beschikt over een dossier dat ten minste de volgende elementen bevat :
 4) een samenwerkingsovereenkomst tussen de school en de revalidatieverstrekker over de manier waarop de revalidatie het onderwijsaanbod voor de leerling in kwestie zal aanvullen en de manier waarop de informatie-uitwisseling zal verlopen. De revalidatieverstrekker bezorgt op het einde van elk schooljaar een evaluatieverslag aan de directie van de school en van het Centrum voor Leerlingenbegeleiding, met inachtneming van de privacywetgeving waaraan hij onderworpen is;<br>
 5) een toestemming van de directeur, die jaarlijks vernieuwd en gemotiveerd moet worden, rekening houdend met het evaluatieverslag waarvan sprake in punt 4).<br>
 <br>
-De bepalingen van dit artikel gelden niet voor de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen.
+De bepalingen van dit artikel zijn voor de centra voor vorming van zelfstandigen en kleine en middelgrote enkel van toepassing op de duale structuuronderdelen of aanloopstructuuronderdelen.
 
 ### ART. 14octies.
 
-Alle wettigingen en overeenkomstige bewijsstukken, die de noodzaak of opportuniteit aantonen, alsook het dossier zoals bedoeld in artikel 14quater , c) , moeten op de instelling ter inzage zijn voor de verificateurs. <br /><br />De bepalingen van dit artikel gelden niet voor de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen.
+Alle wettigingen en overeenkomstige bewijsstukken, die de noodzaak of opportuniteit aantonen, alsook het dossier zoals bedoeld in artikel 14quater , c) , moeten op de instelling ter inzage zijn voor de verificateurs.<br>
+<br>
+De bepalingen van dit artikel zijn voor de centra voor vorming van zelfstandigen en kleine en middelgrote enkel van toepassing op de duale structuuronderdelen of aanloopstructuuronderdelen.
 
 ### ART. 14octies1.
 
-Bij verandering van instelling moet de uitschrijvende school binnen een week de gegevens inzake de problematische afwezigheden van de leerling aan de inschrijvende school bezorgen.
+...
 
 ## [HOOFDSTUK IIITER VOORWAARDEN VOOR HET ORGANISEREN VAN HUISONDERWIJS (ing. B.V.R. 9 mei 2003, art. 4)]
 
