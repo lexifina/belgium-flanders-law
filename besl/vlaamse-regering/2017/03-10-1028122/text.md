@@ -67,6 +67,10 @@ Aan hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 11
 
 In artikel 1, eerste lid, van het besluit van de Vlaamse Regering van 3 februari 2012 betreffende de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied algemene vorming wordt de zinsnede "bijlage 1 tot en met 17" vervangen door de zinsnede "bijlage 13 tot en met 26".
 
+### ART 9.
+
+&nbsp;Bijlage 1 tot en met 9 bij hetzelfde besluit worden opgeheven.
+
 ### ART 10.
 
 &nbsp;Aan hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 3 februari 2012, worden een bijlage 18 tot en met 26 gevoegd, die als bijlage 6 tot en met 14 bij dit besluit zijn gevoegd.
