@@ -2,13 +2,13 @@
 
 ### ART. 1.
 
-Ter uitvoering van artikel 14 en 15, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden in bijlage II tot en met IV en bijlage VI tot en met XXII voor de modulaire structuur van het studiegebied Talen, behorende tot het secundair onderwijs voor sociale promotie, de opleidingsprofielen als volgt vastgelegd:<br>
+Ter uitvoering van artikel 14 en 15, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden in bijlage II tot en met IV en bijlage VII tot en met XXII voor de modulaire structuur van het studiegebied Talen, behorende tot het secundair onderwijs voor sociale promotie, de opleidingsprofielen als volgt vastgelegd:<br>
 1° ...<br>
 2° in bijlage II de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds richtgraad 2 »;<br>
 3° in bijlage III de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds richtgraad 3 »;<br>
 4° in bijlage IV de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds richtgraad 4 »;<br>
 5° ...<br>
-6° in bijlage VI de modulaire opleiding « Grieks, Pools, Russisch, Turks richtgraad 2 »;<br>
+6° ...<br>
 7° in bijlage VII de modulaire opleiding « Arabisch, Chinees, Japans richtgraad 1 »;<br>
 8° in bijlage VIII de modulaire opleiding « Arabisch, Chinees, Japans richtgraad 2 »;<br>
 9° in bijlage IX de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds Professioneel Bedrijfsgericht richtgraad 2 »;<br>
