@@ -54,6 +54,10 @@ In afwijking van het eerste lid mag het bedrag voor de gebruiker die geboren is 
 
 In artikel 20/0 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten, ingevoegd bij het besluit van de Vlaamse Regering van 8 juni 2018, wordt tussen het woord "subsidie-eenheid" en de woorden "zijn berekend" de zinsnede ", met uitzondering van de subsidie-eenheid die is opgericht door een ondergeschikt bestuur zoals een provincie, een gemeente, een intercommunale van gemeenten, een openbaar centrum voor maatschappelijk welzijn of een vereniging als vermeld in artikel 118 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, of door een publiekrechtelijke rechtspersoon of een instelling van openbaar nut.," ingevoegd.
 
+### ART 35.
+
+Aan artikel 13, derde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 17 juli 2020, worden de woorden "en wordt niet toegekend aan de personeelsleden van een subsidie-eenheid die is opgericht door een ondergeschikt bestuur zoals een provincie, een gemeente, een intercommunale van gemeenten, een openbaar centrum voor maatschappelijk welzijn of een vereniging als vermeld in artikel 118 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, of door een publiekrechtelijke rechtspersoon of een instelling van openbaar nut." toegevoegd.
+
 ## HOOFDSTUK 10. Wijzigingen van het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden
 
 ## HOOFDSTUK 11. Wijzigingen van het besluit van de Vlaamse Regering van 20 april 2018 houdende maatregelen voor de uitwerking van de persoonsvolgende budgetten die in het kader van de transitie naar persoonsvolgende financiering ter beschikking zijn gesteld

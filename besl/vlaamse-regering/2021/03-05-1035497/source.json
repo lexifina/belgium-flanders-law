@@ -2,16 +2,16 @@
   "codex_id": 1035497,
   "title": "Besluit van de Vlaamse Regering van 2021-03-05 tot wijziging van een aantal besluiten van de Vlaamse Regering over de ondersteuning van personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035497/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "e1e382da28835860f267164f0a036f84ad87e48bf2a850be852cf6839422c718",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035497/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "5be6a7782572e721e0c3bffc6f720dd5adad726a3f26150c544095d13db29120",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035497&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2019-09-01",
   "made": "2021-03-05",
   "gazette": "2021-04-29",
   "numac": 2021041306,
   "document_start": "2021-05-09",
   "document_end": null,
-  "in_force": "2019-01-01",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
 }
