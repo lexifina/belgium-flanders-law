@@ -30,6 +30,21 @@ De Vlaamse Regering kan aanvullende erkenningsvoorwaarden bepalen.<br>
 <br>
 De subsidie wordt jaarlijks toegekend op basis van een beleidsplan van drie jaar van de cliëntenorganisatie.".
 
+### ART 3.
+
+In hetzelfde decreet, gewijzigd bij de decreten van 25 april 2014, 17 juni 2016, 15 juli 2016, 3 februari 2017, 15 januari 2018 en 16 maart 2018, wordt een artikel 45/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 45/2. Het onafhankelijke cliëntenforum, vermeld in artikel 45/1, § 1, tweede lid, 8°, bestaat minstens uit de erkende cliëntenorganisaties, vermeld in artikel 45/1, § 1, eerste lid. De Vlaamse Regering bepaalt de voorwaarden waaronder andere organisaties het recht hebben om deel uit te maken van het cliëntenforum.<br>
+<br>
+Het cliëntenforum heeft als opdracht:<br>
+1° het delen van ervaringen en deskundigheid rond een participatieve jeugdhulpverlening mogelijk te maken en een visie rond een participatieve jeugdhulpverlening te ontwikkelen en uit te dragen;<br>
+2° de belangen te behartigen van kinderen en jongeren die een beroep doen op jeugdhulpverlening, van jongeren die een beroep doen op de voortgezette jeugdhulpverlening, vermeld in artikel 18, § 3, en van ouders en opvoedingsverantwoordelijken die een beroep doen op jeugdhulpverlening, onder meer door middel van vertegenwoordiging op beleidsniveau;<br>
+3° cliëntenorganisaties en cliëntenvertegenwoordigers te ondersteunen in hun bijdrage aan een participatieve jeugdhulpverlening.<br>
+<br>
+De Vlaamse Regering kan aanvullende opdrachten aan het cliëntenforum toekennen.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden waaraan het cliëntenforum moet voldoen om voor subsidiëring in aanmerking te komen.".
+
 ### ART 4.
 
 In het hetzelfde decreet, gewijzigd bij de decreten van 25 april 2014, 17 juni 2016, 15 juli 2016, 3 februari 2017, 15 januari 2018 en 16 maart 2018, wordt een artikel 45/3 ingevoegd, dat luidt als volgt:<br>
@@ -37,6 +52,18 @@ In het hetzelfde decreet, gewijzigd bij de decreten van 25 april 2014, 17 juni 2
 "Art. 45/3. De toegangspoort, de sociale dienst en de jeugdhulpaanbieders stellen, op verzoek van een erkende cliëntenorganisatie, de informatie van die organisatie die voortvloeit uit haar opdrachten, vermeld in artikel 45/1, § 1, tweede lid, ter beschikking van de volgende twee categorieën van personen of van een van beide categorieën van personen:<br>
 1° de minderjarigen die een beroep doen op jeugdhulpverlening en de jongeren die een beroep doen op de voortgezette jeugdhulpverlening, vermeld in artikel 18, § 3;<br>
 2° de ouders en opvoedingsverantwoordelijken die een beroep doen op jeugdhulpverlening.".
+
+### ART 5.
+
+Aan artikel 62 van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"Een cliëntenforum als vermeld in artikel 45/2 vaardigt de personen, vermeld in het eerste lid, 1° en 2°, af.".
+
+### ART 6.
+
+In artikel 66 van hetzelfde decreet wordt tussen het eerste en het tweede lid een nieuw lid ingevoegd, dat luidt als volgt:<br>
+<br>
+"Een cliëntenforum als vermeld in artikel 45/2 vaardigt de personen, vermeld in het eerste lid, 1°, 2° en 5°, af.".
 
 ### ART 7.
 
