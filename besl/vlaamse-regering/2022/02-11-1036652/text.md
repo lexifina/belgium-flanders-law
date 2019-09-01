@@ -141,4 +141,16 @@ Art. 53/1. Ter uitvoering van artikel 23, derde lid, van het Groeipakketdecreet 
 
 ## HOOFDSTUK 6. Wijzigingen van het besluit van de Vlaamse Regering van 17 mei 2019 betreffende de selectieve participatietoeslagen leerling
 
+### ART 47.
+
+In hetzelfde besluit wordt een hoofdstuk 2/1, dat bestaat uit artikel 2/1, ingevoegd, dat luidt als volgt:<br>
+<br>
+"Hoofdstuk 2/1. Pedagogische voorwaarden<br>
+<br>
+Art. 2/1. § 1. Als de onderwijsinstelling, vermeld in artikel 26, 29 of 32 van het Groeipakketdecreet van 2018, over een afwijkende uurregeling beschikt, wordt het aantal halve schooldagen, vermeld in artikel 27, § 2, 1° tot en met 4°, artikel 30, § 2, en artikel 34, § 2, van het voormelde decreet, dat de leerling aanwezig moet zijn of maximaal ongewettigd afwezig mag zijn, als volgt berekend: AWD x ASDW/SDW, waarbij:<br>
+1° AWD: de aanwezigheidsdrempel. Dit is het aantal halve schooldagen dat de leerling per schooljaar aanwezig moet zijn of ongewettigd afwezig mag zijn, vermeld in artikel 27, § 2, 1° tot en met 4°, artikel 30, § 2, en artikel 34, § 2, van het voormelde decreet;<br>
+2° ASDW: het aantal halve schooldagen dat de onderwijsinstelling, met toepassing van artikel 8 van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs en in het deeltijds onderwijs georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap of met toepassing van artikel 8 van het besluit van de Vlaamse Regering van 31 augustus 2001 houdende de organisatie van het schooljaar in het secundair onderwijs, per volledige schoolweek lesactiviteiten organiseert;<br>
+3° SDW: het aantal halve schooldagen dat een volledige schoolweek standaard telt, namelijk negen.<br>
+Het resultaat van de berekening, vermeld in het eerste lid, wordt afgerond naar de hogere eenheid.".
+
 ## HOOFDSTUK 7. Slotbepalingen
