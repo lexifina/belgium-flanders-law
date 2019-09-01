@@ -18,6 +18,10 @@ Na beraadslaging,<br>
 <br>
 Besluit :
 
+### ART 1.
+
+De Vrije Universiteit Brussel kan een onderzoeksmaster Research Master of Gerontological Sciences organiseren van honderdtwintig studiepunten. De onderwijstaal is het Engels.
+
 ### ART 2.
 
 Artikel 1 treedt in werking vanaf het academiejaar 2019-2020.
