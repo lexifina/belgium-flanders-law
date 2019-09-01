@@ -10,11 +10,30 @@ Dit besluit is van toepassing op de leden van het bestuurs- en onderwijzend pers
 
 ### ART. 2.
 
-De ambten die de leden van het bestuurs- en onderwijzend personeel kunnen uitoefenen in een centrum voor volwassenenonderwijs, worden als volgt vastgelegd en ingedeeld :<br />1° wervingsambten :<br />a) in het secundair volwassenenonderwijs : leraar secundair volwassenenonderwijs;<br />b) in het hoger beroepsonderwijs en de specifieke lerarenopleiding : lector;<br />2° selectieambten :<br />a) technisch adviseur;<br />b) adjunct-directeur secundair volwassenenonderwijs;<br />c) adjunct-directeur hoger beroepsonderwijs en specifieke lerarenopleiding;<br />3° bevorderingsambten :<br />a) technisch adviseur-coördinator;<br />b) directeur. <br /><br />De ambten onder 1° behoren tot het onderwijzend personeel en de ambten onder 2° en 3° behoren tot het bestuurspersoneel.<br /><br />
+De ambten die de leden van het bestuurs- en onderwijzend personeel kunnen uitoefenen in een centrum voor volwassenenonderwijs, worden als volgt vastgelegd en ingedeeld :<br>
+1° wervingsambten :<br>
+a) in het secundair volwassenenonderwijs : leraar secundair volwassenenonderwijs;<br>
+b) ..;<br>
+2° selectieambten :<br>
+a) technisch adviseur;<br>
+b) adjunct-directeur secundair volwassenenonderwijs;<br>
+c) ...;<br>
+3° bevorderingsambten :<br>
+a) technisch adviseur-coördinator;<br>
+b) directeur.<br>
+<br>
+De ambten onder 1° behoren tot het onderwijzend personeel en de ambten onder 2° en 3° behoren tot het bestuurspersoneel.<br>
+&nbsp;
 
 ### ART. 3.
 
-De ambten die de leden van het ondersteunend personeel kunnen uitoefenen in een centrum voor volwassenenonderwijs, worden als volgt vastgelegd en ingedeeld :<br />1° wervingsambten :<br />a) administratief medewerker;<br />2° selectieambten : nihil;<br />3° bevorderingsambten : nihil.<br /><br />
+De ambten die de leden van het ondersteunend personeel kunnen uitoefenen in een centrum voor volwassenenonderwijs, worden als volgt vastgelegd en ingedeeld :<br>
+1° wervingsambten :<br>
+a) administratief medewerker;<br>
+b) stafmedewerker;<br>
+2° selectieambten : nihil;<br>
+3° bevorderingsambten : nihil.<br>
+&nbsp;
 
 ### ART. 4.
 
