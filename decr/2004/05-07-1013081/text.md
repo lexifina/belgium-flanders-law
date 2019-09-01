@@ -487,7 +487,7 @@ De subsidies, vermeld in het eerste lid, 1° en 2°, kunnen de volgende vormen a
 De subsidies, vermeld in het eerste lid, 1° en 2°, worden toegekend op grond van een door het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen goed te keuren organisatieplan.<br>
 <br>
 § 3. Opdat het centrum als vermeld in § 1, voor subsidiëring door de Vlaamse Regering in aanmerking zou komen, moet het in het kader van de leertijd :<br>
-1° deelnemen aan en samenwerken binnen een of meer regionale overlegplatformen als vermeld in artikel 103 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap;<br>
+1° deelnemen aan en samenwerken binnen een of meer overlegfora als vermeld in artikel 357/32 van de Codex Secundair Onderwijs van 17 december 2010;<br>
 2° binnen zijn opdrachten, maximale inspanningen leveren om het voltijds engagement voor elke jongere te realiseren.<br>
 3° deelnemen aan en samenwerken binnen een lokaal overlegplatform opgericht overeenkomstig artikel IV.2, § 2, eerste lid, van het decreet van 28 juni 2002 betreffende gelijke onderwijskansen.<br>
 Onder « samenwerken » wordt verstaan :<br>
