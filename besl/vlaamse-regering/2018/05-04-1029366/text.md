@@ -122,7 +122,7 @@ De oproep wordt bekendgemaakt via de kanalen van het beleidsdomein Onderwijs en 
 
 ### ART 7.
 
-Het voorstel voor een lokaal samenwerkingsinitiatief wordt uiterlijk ingediend op 1 maart van het schooljaar dat voorafgaat aan de opstart van het samenwerkingsinitiatief. Het volledig ingevulde online aanvraagformulier wordt ingediend op de website van de bevoegde dienst van het beleidsdomein Onderwijs en Vorming. Alleen voorstellen die op die wijze zijn ingediend, zijn ontvankelijk.<br>
+Het voorstel voor een lokaal samenwerkingsinitiatief wordt uiterlijk ingediend op 15 februari van het schooljaar dat voorafgaat aan de opstart van het samenwerkingsinitiatief. Het volledig ingevulde online aanvraagformulier wordt ingediend op de website van de bevoegde dienst van het beleidsdomein Onderwijs en Vorming. Alleen voorstellen die op die wijze zijn ingediend, zijn ontvankelijk.<br>
 <br>
 De academie die een voorstel indient, wijst een verantwoordelijke aan die optreedt als contactpersoon voor de bevoegde dienst van het beleidsdomein Onderwijs en Vorming.<br>
 <br>
@@ -155,7 +155,7 @@ De beoordelingscommissie bestaat uit ambtenaren van het beleidsdomein Onderwijs 
 <br>
 Onder externe experts, vermeld in het tweede lid, worden experts verstaan die niet behoren tot de Vlaamse Overheid of de Vlaamse Onderwijsraad.<br>
 <br>
-De beoordelingscommissie maakt voor 15 april een gemotiveerde rangschikking van de voorstellen op basis van de criteria, vermeld in artikel 8 en legt die voor aan de minister. Het verslag bevat de afweging van de voorstellen ten opzichte van de criteria, vermeld in artikel 8.<br>
+De beoordelingscommissie maakt voor 31 maart een gemotiveerde rangschikking van de voorstellen op basis van de criteria, vermeld in artikel 8 en legt die voor aan de minister. Het verslag bevat de afweging van de voorstellen ten opzichte van de criteria, vermeld in artikel 8.<br>
 &nbsp;
 
 ### ART 10.
@@ -168,8 +168,7 @@ De bevoegde dienst van het departement Onderwijs en Vorming deelt uiterlijk op 1
 
 ### ART 11.
 
-De indienende academie en de school voor basis-, secundair of de instelling voor hoger onderwijs sluiten voor 1 maart van het schooljaar dat voorafgaat aan de opstart van het samenwerkingsinitiatief een samenwerkingsovereenkomst af, conform artikel 137, tweede lid, van het decreet van 9 maart 2018.<br>
-&nbsp;
+De indienende academie en de school voor basis-, secundair of de instelling voor hoger onderwijs sluiten voor de opstart van het samenwerkingsinitiatief een samenwerkingsovereenkomst af, conform artikel 137, tweede lid, van het decreet van 9 maart 2018, uitgaande van het ingediende online aanvraagformulier, vermeld in artikel 7.
 
 ### ART 12.
 
@@ -210,7 +209,9 @@ Als de samenwerking met een externe partner stopgezet wordt, kan het samenwerkin
 
 § 1. De academie bezorgt jaarlijks in samenspraak met de betrokkenen in het samenwerkingsinitiatief een verslag aan de bevoegde dienst van het beleidsdomein Onderwijs en Vorming uiterlijk 31 juli voor het begin van het daaropvolgende schooljaar waarop de ondersteuning, vermeld in artikel 3, betrekking heeft.<br>
 <br>
-De verslaggeving gebeurt via een elektronisch formulier, waarvan het model door de minister wordt bepaald. Ze omvat een inhoudelijk en een financieel verslag. Het financieel verslag bevat een overzicht van de gemaakte kosten.<br>
+De verslaggeving gebeurt via een elektronisch formulier, waarvan het model door de minister wordt bepaald.<br>
+<br>
+De academie houdt een overzicht van de kosten en de bewijsstukken van de uitgaven ter beschikking van controle door het Agentschap voor Onderwijsdiensten.<br>
 <br>
 § 2. De onderwijsinspectie kan het samenwerkingsinitiatief evalueren in het licht van een doorlichting, vermeld in artikel 2, 7° /1 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, die zij uitvoert in een academie of school die aan het samenwerkingsinitiatief deelneemt.<br>
 <br>
