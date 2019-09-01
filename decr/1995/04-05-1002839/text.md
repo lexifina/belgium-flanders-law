@@ -127,12 +127,10 @@ De LOC's hebben informatierecht, onderhandelingsbevoegdheid, toezichtsbevoegdhei
 De LOC's hebben tenminste jaarlijks recht op inlichtingen in verband met de tewerkstelling.<br>
 <br>
 Deze inlichtingen hebben betrekking op:<br>
-<br>
 1° inlichtingen over de evolutie van het aantal leerlingen en de weerslag ervan op tewerkstelling en infrastructuur;<br>
-<br>
 2° inlichtingen over de structuur van de scho(o)l(en) inclusief over de fusies, overname, sluiting, uitbreiding, rationalisering of andere belangrijke structuurwijzigingen waarover de inrichtende macht onderhandelingen of besprekingen voert, en de weerslag daarvan op de evolutie van de tewerkstelling;<br>
-<br>
-3° inlichtingen over het personeelsverloop.
+3° inlichtingen over het personeelsverloop;<br>
+4° het aantal tijdelijke personeelsleden met een aanstelling voor bepaalde duur dat het recht op een tijdelijke aanstelling van doorlopende duur verwerft op basis van een positieve beoordeling of dat geen beoordeling heeft gekregen en het aantal tijdelijke personeelsleden met een aanstelling voor bepaalde duur dat op basis van de beoordeling een verslag met werkpunten krijgt, met binnen die laatste groep een opsplitsing tussen de personeelsleden die daarna een nieuwe aanstelling verkrijgen en de personeelsleden die daarna geen nieuwe aanstelling verkrijgen. Die gegevens worden verstrekt per school.
 
 ### ART. 28.
 
