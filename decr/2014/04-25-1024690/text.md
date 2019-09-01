@@ -235,7 +235,24 @@ Voor de kennisneming van en de beslissing over een vergunningsaanvraag voor een 
 
 ### ART. 17.
 
-<P>§ 1. Er bestaan twee onderscheiden procedures voor het verlenen van de   omgevingsvergunning in eerste administratieve aanleg, namelijk:<BR>1° de gewone   vergunningsprocedure, vermeld in afdeling 2;<BR>2° de vereenvoudigde   vergunningsprocedure, vermeld in afdeling 3.<BR></P>  <P>§ 2. De vereenvoudigde vergunningsprocedure is van toepassing voor:<BR>1° een   beperkte verandering van een vergund project;<BR>2° een project dat uitsluitend   tijdelijke inrichtingen of activiteiten omvat als vermeld in artikel 5.1.1, 11°,   van het DABM;<BR>3° de exploitatie van een ingedeelde inrichting of activiteit   die vergunningsplichtig is geworden door aanvulling of wijziging van de   indelingslijst, tenzij de wijziging of aanvulling van de indelingslijst tot   gevolg heeft dat een milieueffectrapport of een omgevingsveiligheidsrapport moet   worden opgesteld of een passende beoordeling moet worden uitgevoerd;<BR>4° de   types van projecten die door de Vlaamse Regering worden aangewezen.<BR></P>  <P>De Vlaamse Regering bepaalt de criteria waaronder de vergunningverlenende   overheid vaststelt dat een verandering van een vergund project beperkt is als   vermeld in het eerste lid, 1°.<BR></P>  <P>§ 3. De vereenvoudigde vergunningsprocedure is niet van toepassing voor   projecten waarvoor de vergunningsaanvraag minstens een van de volgende bijlagen   moet omvatten:<BR>1° een milieueffectrapport;<BR>2° een   veiligheidsrapport;<BR>3° een passende beoordeling als vermeld in artikel 36ter,   § 3, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het   natuurlijk milieu.<BR></P>
+<p>§ 1. Er bestaan twee onderscheiden procedures voor het verlenen van de omgevingsvergunning in eerste administratieve aanleg, namelijk:<br>
+1° de gewone vergunningsprocedure, vermeld in afdeling 2;<br>
+2° de vereenvoudigde vergunningsprocedure, vermeld in afdeling 3.</p>
+
+<p>§ 2. De vereenvoudigde vergunningsprocedure is van toepassing voor:<br>
+1° een beperkte verandering van een vergund project;<br>
+2° een project dat uitsluitend tijdelijke inrichtingen of activiteiten omvat als vermeld in artikel 5.1.1, 11°, van het DABM;<br>
+3° de exploitatie van een ingedeelde inrichting of activiteit die vergunningsplichtig is geworden door aanvulling of wijziging van de indelingslijst, tenzij de wijziging of aanvulling van de indelingslijst tot gevolg heeft dat een milieueffectrapport of een omgevingsveiligheidsrapport moet worden opgesteld of een passende beoordeling moet worden uitgevoerd;<br>
+4° de types van projecten die door de Vlaamse Regering worden aangewezen.</p>
+
+<p>De Vlaamse Regering bepaalt de criteria waaronder de vergunningverlenende overheid vaststelt dat een verandering van een vergund project beperkt is als vermeld in het eerste lid, 1°.</p>
+
+<p>§ 3. De vereenvoudigde vergunningsprocedure is niet van toepassing voor projecten waarvoor de vergunningsaanvraag minstens een van de volgende bijlagen moet omvatten:<br>
+1° een milieueffectrapport;<br>
+2° een veiligheidsrapport;<br>
+3° een passende beoordeling als vermeld in artikel 36ter, § 3, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.<br>
+<br>
+§ 4. De vereenvoudigde vergunningsprocedure is niet van toepassing voor projecten waarvoor met toepassing van artikel 31 een beslissing van de gemeenteraad vereist is over de aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg.</p>
 
 ## Afdeling 2 Gewone vergunningsprocedure
 
@@ -328,7 +345,37 @@ Als een openbaar onderzoek wordt georganiseerd over de gewijzigde vergunningsaan
 
 ### ART. 31.
 
-<P>Als de vergunningsaanvraag wegenwerken omvat waarover de gemeenteraad   beslissingsbevoegdheid heeft en de bevoegde overheid, vermeld in artikel 15,   oordeelt dat de omgevingsvergunning kan worden verleend, neemt de gemeenteraad   een beslissing over de zaak van de wegen voor de bevoegde overheid een   beslissing neemt over de aanvraag.<BR></P>  <P>Als dat nodig is, roept de provinciegouverneur op verzoek van de deputatie   respectievelijk de Vlaamse Regering of de gewestelijke omgevingsambtenaar, de   gemeenteraad samen. De gemeenteraad neemt een beslissing over de zaak van de   wegen en deelt die beslissing mee binnen een termijn van zestig dagen vanaf de   samenroeping door de provinciegouverneur.<BR></P>
+§ 1. Als de aanvraag de aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg omvat, roept het college van burgemeester en schepenen, in voorkomend geval op verzoek van de bevoegde overheid, vermeld in artikel 15, de gemeenteraad samen om te beslissen over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg.<br>
+<br>
+De gemeenteraad spreekt zich uit over de ligging, de breedte en de uitrusting van de gemeenteweg, en over de eventuele opname in het openbaar domein. Hierbij wordt rekening gehouden met de doelstellingen en principes, vermeld in artikel 3 en 4 van het decreet van 3 mei 2019 houdende de gemeentewegen, en in voorkomend geval met het gemeentelijk beleidskader en afwegingskader, vermeld in artikel 6 van het decreet van 3 mei 2019 houdende de gemeentewegen. De gemeenteraad kan daarbij voorwaarden opleggen en lasten verbinden, die de bevoegde overheid in de eventuele vergunning opneemt.<br>
+<br>
+§ 2. Als het college van burgemeester en schepenen niet de bevoegde overheid is die in eerste aanleg over de aanvraag beslist, dan bezorgt de gemeente de beslissing van de gemeenteraad over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg binnen zestig dagen na het verzoek aan de bevoegde overheid, vermeld in artikel 15.
+
+## [Onderafdeling 2/1 Beroep tegen de beslissing van de gemeenteraad over de aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg (ing. decr. 3 mei 2019, art. 71, I: 1 september 2019)]
+
+### ART 31/1.
+
+§ 1. Tegen het besluit van de gemeenteraad over de aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg kan in het kader van een schorsend administratief beroep tegen de vergunningsbeslissing een georganiseerd administratief beroep worden ingesteld bij de Vlaamse Regering door de personen of instanties, vermeld in artikel 53. De vereiste, vermeld in artikel 53, tweede lid, is ook van toepassing op het beroep tegen het besluit van de gemeenteraad.<br>
+<br>
+Het beroep leidt tot de vernietiging van het bestreden besluit of tot de afwijzing van het beroep op grond van de onontvankelijkheid of de ongegrondheid ervan.<br>
+<br>
+§ 2. Het beroep wordt op straffe van onontvankelijkheid met een beveiligde zending ingediend bij de Vlaamse Regering binnen een termijn van dertig dagen, die ingaat op:<br>
+1° de dag na de datum van de betekening van de bestreden beslissing voor die personen of instanties aan wie de beslissing betekend wordt;<br>
+2° de dag na het verstrijken van de beslissingstermijn als de omgevingsvergunning in eerste administratieve aanleg stilzwijgend geweigerd wordt;<br>
+3° de dag na de eerste dag van de aanplakking van de bestreden beslissing in de overige gevallen.<br>
+<br>
+De indiener van het beroep bezorgt op straffe van onontvankelijkheid gelijktijdig met de beveiligde zending van het beroep aan de Vlaamse Regering, een afschrift van het beroepschrift met een beveiligde zending aan het college van burgemeester en schepenen en aan de bevoegde beroepsinstantie, vermeld in artikel 52.<br>
+<br>
+§ 3. Het college van burgemeester en schepenen bezorgt het volledige dossier of een afschrift daarvan onmiddellijk na de ontvangst van het afschrift van het beroepschrift, aan het Departement Mobiliteit en Openbare Werken.<br>
+<br>
+§ 4. De Vlaamse Regering neemt een beslissing over het beroep binnen een termijn van negentig dagen, die ingaat de dag na de ontvangst van het dossier, vermeld in paragraaf 3. Die termijn is een termijn van orde.<br>
+<br>
+De Vlaamse Regering brengt de indiener van het beroepschrift, de bevoegde overheid en de gemeente onmiddellijk op de hoogte van haar beslissing.<br>
+<br>
+§ 5. Het besluit van de gemeenteraad over de aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg kan alleen worden vernietigd:<br>
+1° wegens strijdigheid met het decreet van 3 mei 2019 houdende de gemeentewegen;<br>
+2° wegens strijdigheid met de doelstellingen en principes, vermeld in artikel 3 en 4 van het decreet van 3 mei 2019 houdende de gemeentewegen, en in voorkomend geval het gemeentelijk beleidskader en afwegingskader, vermeld in artikel 6 van hetzelfde decreet;<br>
+3° wegens de niet-naleving van een substantiële vormvereiste.
 
 ## Onderafdeling 3 Beslissing over een vergunningsaanvraag
 
@@ -341,7 +388,7 @@ Als een openbaar onderzoek wordt georganiseerd over de gewijzigde vergunningsaan
 <p>§ 2. De termijnen, vermeld in paragraaf 1, worden van rechtswege eenmalig met zestig dagen verlengd in de volgende gevallen:<br>
 1° als met toepassing van artikel 30, derde lid, een openbaar onderzoek georganiseerd wordt;<br>
 2° als toepassing wordt gemaakt van de administratieve lus, vermeld in artikel 13;<br>
-3° als de vergunningsaanvraag wegenwerken omvat waarover de gemeenteraad beslissingsbevoegdheid heeft.</p>
+3° als de vergunningsaanvraag de aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg omvat waarover de gemeenteraad beslissingsbevoegdheid heeft.</p>
 
 <p>De mededeling van de termijnverlenging wordt aan de aanvrager verzonden vóór de einddatum van de normale beslissingstermijn.</p>
 
@@ -351,7 +398,17 @@ Als een openbaar onderzoek wordt georganiseerd over de gewijzigde vergunningsaan
 
 <p>In afwijking van het eerste lid, worden de termijnen, vermeld in paragraaf 1, als termijnen van orde beschouwd als de vergunningsaanvraag het gevolg is van een wijziging of aanvulling van de indelingslijst waardoor een milieueffectrapport of een omgevingsveiligheidsrapport moet worden opgesteld of een passende beoordeling moet worden uitgevoerd. In voorkomend geval mag de exploitatie worden voortgezet tot een definitieve beslissing wordt genomen over de vergunningsaanvraag.<br>
 <br>
-§ 5. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een gemelde archeologienota werd toegevoegd bij de aanvraag, maar een beslissing nemen als de&nbsp;archeologienota waarvan akte is genomen&nbsp;is bezorgd. Als er geen&nbsp;archeologienota waarvan akte is genomen&nbsp;is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1 tot en met 3, dan moet de omgevingsvergunning worden geweigerd.</p>
+§ 5. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een gemelde archeologienota werd toegevoegd bij de aanvraag, maar een beslissing nemen als de&nbsp;archeologienota waarvan akte is genomen&nbsp;is bezorgd. Als er geen&nbsp;archeologienota waarvan akte is genomen&nbsp;is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1 tot en met 3, dan moet de omgevingsvergunning worden geweigerd.<br>
+<br>
+§ 6. Een vergunning voor aanvragen met aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg kan pas verleend worden na goedkeuring over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg door de gemeenteraad overeenkomstig artikel 31.<br>
+<br>
+Als de gemeenteraad de aanleg, wijziging, verplaatsing of opheffing niet heeft goedgekeurd, dan wordt de omgevingsvergunning geweigerd.<br>
+<br>
+§ 7. Als de bevoegde overheid, vermeld in artikel 15, geen beslissing kan nemen binnen de vastgestelde of in voorkomend geval verlengde termijn doordat de gemeenteraad geen beslissing heeft genomen over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg, is de gemeente aan de aanvrager van de vergunning een eenmalige vergoeding van 5000 euro verschuldigd.<br>
+<br>
+Binnen negentig dagen na het verstrijken van de termijn, vermeld in het eerste lid, vraagt de vergunningsaanvrager met een beveiligde zending de betaling van de eenmalige vergoeding aan de gemeente. Hij verwijst daarbij naar het dossier en naar zijn IBAN- en BIC-gegevens. De gemeente betaalt zonder verdere formaliteiten de eenmalige vergoeding aan de aanvrager.<br>
+<br>
+Als de vergunningsaanvrager de betaling van de eenmalige vergoeding niet vraagt binnen de termijn van negentig dagen, vermeld in het tweede lid, wordt de aanvrager geacht afstand gedaan te hebben van zijn recht op de eenmalige vergoeding.</p>
 
 ### ART. 33.
 
@@ -518,14 +575,16 @@ Het beroep wordt op straffe van onontvankelijkheid ingesteld binnen een   termij
 
 ### ART. 56.
 
-<p>Het beroep wordt op straffe van onontvankelijkheid per beveiligde zending ingesteld bij de bevoegde overheid, vermeld in artikel 52.</p>
-
-<p>Degene die het beroep instelt, bezorgt op straffe van onontvankelijkheid gelijktijdig en per beveiligde zending een afschrift van het beroepschrift aan:<br>
+<p>Het beroep wordt op straffe van onontvankelijkheid per beveiligde zending ingesteld bij de bevoegde overheid, vermeld in artikel 52.<br>
+<br>
+Als met toepassing van artikel 31/1 bij de Vlaamse Regering een georganiseerd administratief beroep werd ingesteld tegen het besluit van de gemeenteraad over de aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg, bevat het beroep op straffe van onontvankelijkheid een afschrift van het beroepschrift bij de Vlaamse Regering.<br>
+<br>
+Degene die het beroep instelt, bezorgt op straffe van onontvankelijkheid gelijktijdig en per beveiligde zending een afschrift van het beroepschrift aan:<br>
 1° de vergunningsaanvrager behalve als hij zelf het beroep instelt;<br>
 2° de deputatie als die in eerste administratieve aanleg de beslissing heeft genomen;<br>
-3° het college van burgemeester en schepenen behalve als het zelf het beroep instelt.</p>
-
-<p>De Vlaamse Regering bepaalt, eventueel met inbegrip van een onontvankelijkheidssanctie, nadere regels met betrekking tot de opbouw en de inhoud van het beroepsschrift en de bewijsstukken die bij het beroep moeten worden gevoegd opdat het op ontvankelijke wijze wordt ingesteld.</p>
+3° het college van burgemeester en schepenen behalve als het zelf het beroep instelt.<br>
+<br>
+De Vlaamse Regering bepaalt, eventueel met inbegrip van een onontvankelijkheidssanctie, nadere regels met betrekking tot de opbouw en de inhoud van het beroepsschrift en de bewijsstukken die bij het beroep moeten worden gevoegd opdat het op ontvankelijke wijze wordt ingesteld.</p>
 
 ### ART. 57.
 
@@ -591,7 +650,11 @@ De provinciale omgevingsambtenaar stelt dit verslag ter beschikking van de deput
 
 ### ART. 65.
 
-Als de gemeenteraad beslissingsbevoegdheid had met toepassing van artikel   31, maar hetzij geen beslissing heeft genomen over de zaak van de wegen hetzij   een weigeringsbeslissing heeft genomen en er beroep is ingesteld tegen de   vergunningsbeslissing, roept de provinciegouverneur op verzoek van de deputatie   respectievelijk de Vlaamse Regering of de gewestelijke omgevingsambtenaar, de   gemeenteraad samen. De gemeenteraad neemt een beslissing over de zaak van de   wegen en deelt die beslissing mee binnen een termijn van zestig dagen vanaf de   samenroeping door de provinciegouverneur.<BR>
+Als de aanvraag de aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg omvat en de bevoegde overheid vaststelt dat de gemeenteraad daarover geen beslissing heeft genomen, roept de gouverneur op verzoek van de deputatie, de Vlaamse Regering of de gewestelijke omgevingsambtenaar, de gemeenteraad samen om te beslissen over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg.<br>
+<br>
+De gemeenteraad spreekt zich uit over de ligging, de breedte en de uitrusting van de gemeenteweg, en over de eventuele opname in het openbaar domein. De gemeenteraad kan daarbij voorwaarden opleggen en lasten verbinden, die de bevoegde overheid in de eventuele vergunning opneemt. De rechtsbescherming met betrekking tot die voorwaarden en lasten is dezelfde als die met betrekking tot de vergunning.<br>
+<br>
+De gemeente bezorgt de beslissing van de gemeenteraad over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg aan de bevoegde overheid binnen zestig dagen na de samenroeping door de gouverneur.
 
 ## Onderafdeling 3 Beslissing over het ingestelde beroep
 
@@ -604,7 +667,7 @@ Als de gemeenteraad beslissingsbevoegdheid had met toepassing van artikel   31, 
 <p>§ 2. Met behoud van de toepassing van paragraaf 2/1 wordt de beslissingstermijn van rechtswege eenmalig met zestig dagen verlengd in de volgende gevallen:<br>
 1° als met toepassing van artikel 64, derde lid, een openbaar onderzoek georganiseerd wordt;<br>
 2° als toepassing wordt gemaakt van de administratieve lus, vermeld in artikel 13;<br>
-3° als de vergunningsaanvraag wegenwerken omvat waarover de gemeenteraad beslissingsbevoegdheid heeft en de gemeenteraad in de loop van de beroepsprocedure samengeroepen wordt met toepassing van artikel 65.<br>
+3° als de vergunningsaanvraag de aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg omvat waarover de gemeenteraad beslissingsbevoegdheid heeft en de gemeenteraad in de loop van de beroepsprocedure samengeroepen wordt met toepassing van artikel 65.<br>
 <br>
 De mededeling van de termijnverlenging wordt aan de aanvrager en de beroepsindiener verzonden vóór de einddatum van de beslissingstermijn.<br>
 <br>
@@ -612,13 +675,25 @@ De mededeling van de termijnverlenging wordt aan de aanvrager en de beroepsindie
 <br>
 De mededeling van de termijnverlenging wordt aan de aanvrager en de beroepsindiener verzonden vóór de einddatum van de beslissingstermijn.<br>
 <br>
+§ 2/2. Met behoud van de toepassing van paragraaf 2 of paragraaf 2/1 wordt de beslissingstermijn van rechtswege opgeschort zolang de Vlaamse Regering geen beslissing heeft genomen over het georganiseerde administratieve beroep tegen de beslissing van de gemeenteraad, vermeld in artikel 31/1.<br>
+<br>
 § 3. De termijnen, vermeld in paragraaf 1, gaan altijd in op de dag na de datum dat het laatste beroep ontvankelijk en volledig wordt verklaard of, bij ontstentenis van een beslissing daarover, de dertigste dag na de datum waarop het laatste beroep is ingediend hetzij na de ontvangst van de ontbrekende gegevens of documenten, waarbij de meest recente datum geldt.<br>
 <br>
 Als geen beslissing is genomen binnen de vastgestelde of in voorkomend geval verlengde termijn, wordt het beroep of worden de beroepen geacht te zijn afgewezen en wordt de bestreden beslissing als definitief aanzien.<br>
 <br>
 § 4. Artikel 33, 34, 47 en 48 zijn van overeenkomstige toepassing op de beslissing.<br>
 <br>
-§ 5. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een gemelde archeologienota werd toegevoegd bij de aanvraag, maar een beslissing nemen als de archeologienota waarvan akte is genomen&nbsp;is bezorgd. Als er geen&nbsp;archeologienota waarvan akte is genomen&nbsp;is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1 tot en met 3, dan moet de omgevingsvergunning worden geweigerd.</p>
+§ 5. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een gemelde archeologienota werd toegevoegd bij de aanvraag, maar een beslissing nemen als de archeologienota waarvan akte is genomen&nbsp;is bezorgd. Als er geen&nbsp;archeologienota waarvan akte is genomen&nbsp;is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1 tot en met 3, dan moet de omgevingsvergunning worden geweigerd.<br>
+<br>
+§ 6. Een vergunning voor aanvragen met aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg kan in beroep pas verleend worden na de goedkeuring van de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg door de gemeenteraad, met toepassing van artikel 31.<br>
+<br>
+Als de gemeenteraad de aanleg, wijziging, verplaatsing of opheffing niet heeft goedgekeurd, of als de Vlaamse Regering de beslissing heeft vernietigd met toepassing van artikel 31/1, wordt de omgevingsvergunning in beroep geweigerd.<br>
+<br>
+§ 7. Als de bevoegde overheid, vermeld in artikel 52, geen beslissing kan nemen binnen de vastgestelde of in voorkomend geval verlengde termijn doordat de gemeenteraad geen beslissing heeft genomen over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg, is de gemeente aan de aanvrager van de vergunning een eenmalige vergoeding van 5000 euro verschuldigd.<br>
+<br>
+Binnen negentig dagen na het verstrijken van de termijn, vermeld in het eerste lid, vraagt de vergunningsaanvrager met een beveiligde zending de betaling van de eenmalige vergoeding aan de gemeente. Hij verwijst in zijn aanvraag naar het dossier en vermeldt zijn IBAN- en BIC-gegevens. De gemeente betaalt zonder verdere formaliteiten de eenmalige vergoeding aan de aanvrager.<br>
+<br>
+Als de vergunningsaanvrager de betaling van de eenmalige vergoeding niet vraagt binnen de termijn van negentig dagen, vermeld in het tweede lid, wordt de aanvrager geacht afstand gedaan te hebben van zijn recht op de eenmalige vergoeding.</p>
 
 ### ART. 67.
 
@@ -682,7 +757,9 @@ De Vlaamse Regering kan voor de toepassing van het tweede lid de minimale en max
 
 ### ART. 71.
 
-Met behoud van de toepassing van de voorwaarde van rechtswege in de zin   van artikel 90bis van het Bosdecreet van 13 juni 1990 kan de bevoegde overheid   voorwaarden verbinden aan de uitvoering van een stedenbouwkundige handeling of   de verkaveling van gronden.<BR>
+Met behoud van de toepassing van de voorwaarde van rechtswege in de zin van artikel 90bis van het Bosdecreet van 13 juni 1990 kan de bevoegde overheid voorwaarden verbinden aan de uitvoering van een stedenbouwkundige handeling of de verkaveling van gronden.<br>
+<br>
+De bevoegde overheid neemt de voorwaarden die de gemeenteraad heeft opgelegd bij de beslissing over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg, vermeld in artikel 31, integraal op in de vergunning.
 
 ### ART. 72.
 
@@ -708,17 +785,19 @@ De bevoegde overheid kan voorwaarden verbinden aan de uitvoering van het wijzige
 
 ### ART. 75.
 
-<p>De bevoegde overheid kan aan een omgevingsvergunning lasten verbinden. Die lasten vinden hun oorsprong in het voordeel dat de begunstigde van de omgevingsvergunning uit die vergunning haalt en in de bijkomende taken die de overheid door de uitvoering van de vergunning op zich moet nemen.</p>
-
-<p>Buiten het voorzien in de nodige financiële waarborgen kunnen lasten onder meer betrekking hebben op:<br>
+<p>De bevoegde overheid kan aan een omgevingsvergunning lasten verbinden. Die lasten vinden hun oorsprong in het voordeel dat de begunstigde van de omgevingsvergunning uit die vergunning haalt en in de bijkomende taken die de overheid door de uitvoering van de vergunning op zich moet nemen.<br>
+<br>
+De bevoegde overheid neemt de lasten die de gemeenteraad heeft opgelegd bij de beslissing over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg, vermeld in artikel 31, integraal op in de vergunning.<br>
+<br>
+Buiten het voorzien in de nodige financiële waarborgen kunnen lasten onder meer betrekking hebben op:<br>
 1° de verwezenlijking of de renovatie van groene ruimten, ruimten voor openbaar nut, openbare gebouwen, infrastructuur met het oog op een verbetering van de mobiliteit, nutsvoorzieningen of woningen op kosten van de vergunninghouder. Vooraleer lasten op te leggen met betrekking tot nutsvoorzieningen worden de nutsmaatschappijen die actief zijn in de gemeente waarin het voorwerp van de vergunning gelegen is, door de bevoegde overheid,&nbsp;de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar of de door hem gemachtigde om advies verzocht. Hierbij wordt gestreefd naar het gelijktijdig aanleggen van nutsvoorzieningen, waardoor de hinder ten gevolge van deze aanleg maximaal wordt beperkt;<br>
-2° de bewerkstelliging van een vermenging van kavels die tegemoetkomen aan de behoeften van diverse maatschappelijke groepen op grond van de grootte van de kavels, respectievelijk de typologie, de kwaliteit, de vloeroppervlakte, het volume of de lokalenindeling van de woningen die erop opgericht worden, of van de op te stellen vaste of verplaatsbare constructies die voor bewoning kunnen worden gebruikt.</p>
-
-<p>Lasten kunnen ook inhouden dat als de werken zijn begonnen, aan de overheid gratis, vrij en onbelast de eigendom wordt overgedragen van de in de vergunningsaanvraag vermelde openbare wegen, groene of verharde ruimten, openbare gebouwen, nutsvoorzieningen, of de gronden waarop die worden of zullen worden aangelegd.</p>
-
-<p>Als voldaan is aan de uitsluitende voorwaarde, vermeld in artikel 4.2.5 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid, verbindt de vergunningverlenende overheid van rechtswege een last aan de omgevingsvergunning met het oog op de verwezenlijking van een bescheiden woonaanbod.</p>
-
-<p>Als de uitvoering van diverse lasten financieel moet worden gewaarborgd, dan hanteert het bestuur één waarborg voor de totaliteit van de lasten in kwestie waarbij aangegeven wordt welk waarborggedeelte betrekking heeft op elk van de lasten afzonderlijk.</p>
+2° de bewerkstelliging van een vermenging van kavels die tegemoetkomen aan de behoeften van diverse maatschappelijke groepen op grond van de grootte van de kavels, respectievelijk de typologie, de kwaliteit, de vloeroppervlakte, het volume of de lokalenindeling van de woningen die erop opgericht worden, of van de op te stellen vaste of verplaatsbare constructies die voor bewoning kunnen worden gebruikt.<br>
+<br>
+Lasten kunnen ook inhouden dat als de werken zijn begonnen, aan de overheid gratis, vrij en onbelast de eigendom wordt overgedragen van de in de vergunningsaanvraag vermelde openbare wegen, groene of verharde ruimten, openbare gebouwen, nutsvoorzieningen, of de gronden waarop die worden of zullen worden aangelegd.<br>
+<br>
+Als voldaan is aan de uitsluitende voorwaarde, vermeld in artikel 4.2.5 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid, verbindt de vergunningverlenende overheid van rechtswege een last aan de omgevingsvergunning met het oog op de verwezenlijking van een bescheiden woonaanbod.<br>
+<br>
+Als de uitvoering van diverse lasten financieel moet worden gewaarborgd, dan hanteert het bestuur één waarborg voor de totaliteit van de lasten in kwestie waarbij aangegeven wordt welk waarborggedeelte betrekking heeft op elk van de lasten afzonderlijk.</p>
 
 ### ART. 76.
 
