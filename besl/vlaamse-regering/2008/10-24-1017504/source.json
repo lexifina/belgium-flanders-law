@@ -2,16 +2,16 @@
   "codex_id": 1017504,
   "title": "Besluit van de Vlaamse Regering van 2008-10-24 houdende uitvoering van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017504/VolledigDocument?datum=2018-10-01",
-  "source_sha256": "166728cbbb624735c8bf4a6cf0609aa8eaf4ade7f2ff2e4b164d92a7c3a85bcf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017504/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "5592eb7fe404e4a2d638d46a8671cca518ad30e5bea51fd11fbd71ba05ddc7f9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017504&param=informatie",
-  "as_of": "2018-10-01",
+  "as_of": "2019-09-01",
   "made": "2008-10-24",
   "gazette": "2009-01-23",
   "numac": 2009,
   "document_start": "2008-09-01",
   "document_end": null,
-  "in_force": "2018-10-01",
-  "article_versions": 93,
-  "record_form": "consolidated version as in force on 2018-10-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-09-01",
+  "article_versions": 94,
+  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
 }

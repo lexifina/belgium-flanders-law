@@ -153,11 +153,48 @@ a) jongeren beneden de achttien jaar kunnen in de kinderopvang alleen als logist
 b) jongeren boven de achttien jaar kunnen als begeleider in de kinderopvang werken, maar niet binnen de verplichte personeelsformatie;<br>
 c) voor werkplekleren komen uitsluitend de erkende kinderopvangsector en de zelfstandige kinderopvangsector die beschikt over de minimale financiële ondersteuning, in aanmerking.
 
+### ART 8ter.
+
+Een jongere die in het schooljaar dat voorafgaat aan het schooljaar 2019-2020, is gescreend naar een voortraject, doorloopt die screening opnieuw. Het resultaat van die nieuwe screening is een inschaling in de aanloopcomponent, de arbeidsdeelname of een NAFT.
+
 ## HOOFDSTUK VI. Toelating
 
 ### ART. 9.
 
-De instapvereisten tot modules in het deeltijds beroepssecundair   onderwijs, vermeld in artikel 41, eerste lid, van het decreet, zijn de volgende   :<BR>1° de vastgelegde volgordes waarin modules, die zich sequentieel tot elkaar   verhouden, moeten worden doorlopen zoals in de opleidingenstructuur zal worden   bepaald;<BR>2° een medische geschiktheidsverklaring : voor de eerste module van   een opleiding waarin de jongere rechtstreeks met voedingswaren of -stoffen in   aanraking komt en die waren kan verontreinigen of besmetten. Die   geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding,   tenzij er aanleiding is om de geschiktheid opnieuw te evalueren. Een   ongeschiktheidsverklaring in de loop van een opleiding impliceert dat de jongere   uiterlijk op het einde van de module die hij volgt, de opleiding in kwestie   stopzet;<BR>3° een medische geschiktheidsverklaring : voor de eerste module van   een van de volgende opleidingen waarin die geschiktheid noodzakelijk is voor de   uitoefening van het beroep :<BR>a) bouwplaatsmachinist;<BR>b)   dakafdichter;<BR>c) dakdekker;<BR>d) dakdekker leien en pannen;<BR>e) dakdekker   metalen daken;<BR>f) dakdekker rieten daken;<BR>g) daktimmerman;<BR>h)   magazijnmedewerker;<BR>i) machinist mobiele kraan;<BR>j)   rigger-monteerder;<BR>k) torenkraanbestuurder;<BR>l)&nbsp; bestuurder mobiele   kraan;;<BR>m) matroos;<BR>n) motorist 221 kW;<BR>o) roerganger;<BR>p) schipper   beperkt vaargebied;<BR>q) bestuurder heftruck;<BR>r) bestuurder   reachtruck;<BR>s) installateur fotovoltaïsche systemen;<BR>t) matroos   binnenvaart;<BR>u) matroos motordrijver binnenvaart;<BR>v) stellingbouwer;   <BR>4° a) een jongere kan alleen worden toegelaten tot de opleiding Industrieel   Maaltijdbereider als hij houder is van een van de volgende studiebewijzen   :<BR>1) een oriënteringsattest van een leerjaar van de derde graad van het   secundair onderwijs, uitgereikt in een opleiding die is gerangschikt in het   studiegebied voeding van het voltijds secundair onderwijs;<BR>2) een   certificaat, uitgereikt in de opleiding Productiemedewerker Voeding van het   deeltijds beroepssecundair onderwijs of de leertijd;<BR>b) een jongere kan   alleen worden toegelaten tot de opleiding Industrieel Vleesproductenbereider als   hij houder is van een van de volgende studiebewijzen : <BR>1) een   oriënteringsattest van een leerjaar van de derde graad van het secundair   onderwijs, uitgereikt in een opleiding die is gerangschikt in het studiegebied   voeding van het voltijds secundair onderwijs;<BR>2) een certificaat, uitgereikt   in de opleiding Industrieel Vleesbewerker van het deeltijds beroepssecundair   onderwijs of de leertijd.<BR><BR>Die geschiktheidsverklaring is eenmalig en   geldt voor de duur van de opleiding. Ze is eveneens vereist voor de eerste   toelating tot een van de opleidingen, vermeld in punt 2° en 3°, die in de   overgangsperiode niet-modulair worden georganiseerd.
+De instapvereisten tot modules in het deeltijds beroepssecundair onderwijs, vermeld in artikel 41, eerste lid, van het decreet, zijn de volgende :<br>
+1° de vastgelegde volgordes waarin modules, die zich sequentieel tot elkaar verhouden, moeten worden doorlopen zoals in de opleidingenstructuur zal worden bepaald;<br>
+2° ...;<br>
+3° een medische geschiktheidsverklaring : voor de eerste module van een van de volgende opleidingen waarin die geschiktheid noodzakelijk is voor de uitoefening van het beroep :<br>
+a) bouwplaatsmachinist;<br>
+b) dakafdichter;<br>
+c) dakdekker;<br>
+d) dakdekker leien en pannen;<br>
+e) dakdekker metalen daken;<br>
+f) dakdekker rieten daken;<br>
+g) daktimmerman;<br>
+h) magazijnmedewerker;<br>
+i) machinist mobiele kraan;<br>
+j) rigger-monteerder;<br>
+k) torenkraanbestuurder;<br>
+l)&nbsp; bestuurder mobiele kraan;;<br>
+m) matroos;<br>
+n) motorist 221 kW;<br>
+o) roerganger;<br>
+p) schipper beperkt vaargebied;<br>
+q) bestuurder heftruck;<br>
+r) bestuurder reachtruck;<br>
+s) installateur fotovoltaïsche systemen;<br>
+t) matroos binnenvaart;<br>
+u) matroos motordrijver binnenvaart;<br>
+v) stellingbouwer;<br>
+4° a) een jongere kan alleen worden toegelaten tot de opleiding Industrieel Maaltijdbereider als hij houder is van een van de volgende studiebewijzen :<br>
+1) een oriënteringsattest van een leerjaar van de derde graad van het secundair onderwijs, uitgereikt in een opleiding die is gerangschikt in het studiegebied voeding van het voltijds secundair onderwijs;<br>
+2) een certificaat, uitgereikt in de opleiding Productiemedewerker Voeding van het deeltijds beroepssecundair onderwijs of de leertijd;<br>
+b) een jongere kan alleen worden toegelaten tot de opleiding Industrieel Vleesproductenbereider als hij houder is van een van de volgende studiebewijzen :<br>
+1) een oriënteringsattest van een leerjaar van de derde graad van het secundair onderwijs, uitgereikt in een opleiding die is gerangschikt in het studiegebied voeding van het voltijds secundair onderwijs;<br>
+2) een certificaat, uitgereikt in de opleiding Industrieel Vleesbewerker van het deeltijds beroepssecundair onderwijs of de leertijd.<br>
+<br>
+Die geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding. Ze is eveneens vereist voor de eerste toelating tot een van de opleidingen, vermeld in punt 2° en 3°, die in de overgangsperiode niet-modulair worden georganiseerd.
 
 ### ART 9bis.
 
@@ -234,11 +271,11 @@ De volgende certificaten gelden als een bewijs van beroepskwalificatie :<br>
 
 ### ART. 17.
 
-De aanvullende werkingsmiddelen voor het schooljaar 2018-2019, toegekend aan een centrum voor deeltijds beroepssecundair onderwijs als vermeld in artikel 86, § 1, 3°, van het decreet, worden als volgt vastgesteld:<br>
-1° 50 euro per jongere die minimaal 96 uur effectief in een voortraject heeft gepresteerd in het schooljaar 2017-2018 en voor zover als dusdanig door de organisator geregistreerd in de chronologische fiche en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd;<br>
-2° 0,50 euro per jongere per effectief gepresteerd uur in een brugproject in het schooljaar 2017-2018 met een maximum van achthonderd uur en voor zover als dusdanig door de organisator geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd;<br>
-3° 20 euro per jongere die deelneemt aan het project `intensieve begeleiding alternerend leren' in het schooljaar 2017-2018, en voor zover als dusdanig geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.<br>
-4° 2,25 euro per kalenderdag voor leerplichtige jongeren die in het schooljaar 2017-2018 contractueel in de fase arbeidsdeelname zitten, en 0,25 euro per kalenderdag voor niet-leerplichtige jongeren die in het schooljaar 2017-2018 contractueel in de fase arbeidsdeelname zitten, en voor zover als dusdanig geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding. Voor arbeidsdeelname, die inhoudelijk moet aansluiten bij de component leren, komen de volgende contracten in aanmerking:<br>
+De aanvullende werkingsmiddelen voor het schooljaar 2019-2020, toegekend aan een centrum voor deeltijds beroepssecundair onderwijs als vermeld in artikel 86, § 1, 3°, van het decreet, worden als volgt vastgesteld:<br>
+1° 50 euro per jongere die minimaal 96 uur effectief in een voortraject heeft gepresteerd in het schooljaar 2018-2019 en voor zover als dusdanig door de organisator geregistreerd in de chronologische fiche en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd;<br>
+2° 0,50 euro per jongere per effectief gepresteerd uur in een brugproject in het schooljaar 2018-2019 met een maximum van achthonderd uur en voor zover als dusdanig door de organisator geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd;<br>
+3° 20 euro per jongere die deelneemt aan het project `intensieve begeleiding alternerend leren' in het schooljaar 2018-2019, en voor zover als dusdanig geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.<br>
+4° 2,25 euro per kalenderdag voor leerplichtige jongeren die in het schooljaar 2018-2019 contractueel in de fase arbeidsdeelname zitten, en 0,25 euro per kalenderdag voor niet-leerplichtige jongeren die in het schooljaar 2018-2019 contractueel in de fase arbeidsdeelname zitten, en voor zover als dusdanig geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding. Voor arbeidsdeelname, die inhoudelijk moet aansluiten bij de component leren, komen de volgende contracten in aanmerking:<br>
 a) deeltijds arbeidscontract;<br>
 b) werknemersleercontract;<br>
 c) contract individuele beroepsopleiding van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
@@ -249,7 +286,7 @@ g) werkervaringsproject cfr. tewerkstelling in het kader van artikel 60, § 7, v
 h) een overeenkomst van alternerende opleiding zoals bedoeld in artikel 3, 1°, van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen;<br>
 i) een stageovereenkomst alternerende opleiding zoals bedoeld in artikel 3, 2°, van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen.<br>
 <br>
-Een jongere waarvoor tijdens de looptijd van zijn contract in het schooljaar 2017-2018 de leerplicht eindigt, wordt voor de toepassing van deze bepaling beschouwd als een leerplichtige jongere.<br>
+Een jongere waarvoor tijdens de looptijd van zijn contract in het schooljaar 2018-2019 de leerplicht eindigt, wordt voor de toepassing van deze bepaling beschouwd als een leerplichtige jongere.<br>
 <br>
 De aanvullende werkingsmiddelen voor de centra voor deeltijds beroepssecundair onderwijs worden gevoegd bij het voorschot op het werkingsbudget.
 
@@ -261,7 +298,7 @@ De aanvullende werkingsmiddelen voor de centra voor deeltijds beroepssecundair o
 
 ### ART. 19.
 
-De aanvullende werkingsmiddelen voor het schooljaar 2018-2019, toegekend aan Syntra Vlaanderen als vermeld in artikel 93, § 2, van het decreet, worden als volgt vastgesteld: 50 euro per jongere die minimaal 96 uur effectief in een voortraject heeft gepresteerd in het schooljaar 2017-2018 en voor zover als dusdanig door de organisator geregistreerd in de chronologische fiche en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd.
+De aanvullende werkingsmiddelen voor het schooljaar 2019-2020, toegekend aan Syntra Vlaanderen als vermeld in artikel 93, § 2, van het decreet, worden als volgt vastgesteld: 50 euro per jongere die minimaal 96 uur effectief in een voortraject heeft gepresteerd in het schooljaar 2018-2019 en voor zover als dusdanig door de organisator geregistreerd in de chronologische fiche en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd.
 
 ## HOOFDSTUK XIII. [... (opgeh. BVR 16 juli 2021, art. 43, I: 1 september 2021)]
 
