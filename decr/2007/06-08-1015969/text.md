@@ -8,15 +8,19 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
 
 ### ART. 2.
 
-Dit decreet regelt de studiefinanciering in het kleuteronderwijs, het leerplichtonderwijs en het hoger onderwijs van de Vlaamse Gemeenschap, via een stelsel van schooltoelagen in het kleuteronderwijs en het leerplichtonderwijs, en via een stelsel van studietoelagen in het hoger onderwijs.<br /><br />
+Dit decreet regelt de studiefinanciering in het hoger onderwijs van de Vlaamse Gemeenschap, via een stelsel van studietoelagen.
 
 ### ART. 3.
 
-Schooltoelagen en studietoelagen hebben tot doel een bijdrage te leveren aan de democratisering van het onderwijs door financiële drempels weg te werken.<br /><br />
+Studietoelagen hebben tot doel een bijdrage te leveren aan de democratisering van het hoger onderwijs door financiële drempels weg te werken.<br>
+&nbsp;
 
 ### ART. 4.
 
-De Vlaamse Regering verleent schooltoelagen aan minvermogende leerlingen in het kleuteronderwijs en het leerplichtonderwijs, overeenkomstig de regelen die bij en krachtens dit decreet zijn vastgesteld.<br /><br />De Vlaamse Regering verleent studietoelagen aan minvermogende studenten in het hoger onderwijs, overeenkomstig de regelen die bij en krachtens dit decreet zijn vastgesteld.<br /><br />De schooltoelagen en studietoelagen mogen alleen worden gebruikt om de kosten te dekken voor het onderhoud van de rechthebbende en het door hem gevolgde onderwijs. Op deze toelagen mag geen beslag worden gelegd wegens schulden die de leerling, de student of hun wettelijke vertegenwoordiger hebben aangegaan en die geen verband houden met deze doeleinden.<br /><br />
+De Vlaamse Regering verleent studietoelagen aan minvermogende studenten in het hoger onderwijs, overeenkomstig de regelen die bij en krachtens dit decreet zijn vastgesteld.<br>
+<br>
+De studietoelagen mogen alleen worden gebruikt om de kosten te dekken voor het onderhoud van de rechthebbende en het door hem gevolgde onderwijs. Op deze toelagen mag geen beslag worden gelegd wegens schulden die&nbsp;de student of&nbsp;zijn wettelijke vertegenwoordiger hebben aangegaan en die geen verband houden met deze doeleinden.<br>
+&nbsp;
 
 ### ART. 4bis.
 
@@ -25,18 +29,18 @@ Schuldvorderingen die rechtstreeks en uitsluitend gerelateerd zijn aan de bested
 ### ART. 5.
 
 In dit decreet wordt verstaan onder :<br>
-1° aanvrager : een leerling, student of de wettelijke vertegenwoordiger bij wie de leerling of student op 31 december van het school- of academiejaar in kwestie zijn hoofdverblijfplaats heeft, die een aanvraag voor een toelage indient;<br>
+1° aanvrager : een&nbsp;student of de wettelijke vertegenwoordiger bij wie de&nbsp;student op 31 december van het&nbsp;academiejaar in kwestie zijn hoofdverblijfplaats heeft, die een aanvraag voor een toelage indient;<br>
 2° academiejaar : periode van één jaar die op zijn vroegst op 1 september en uiterlijk op 1 oktober begint en die eindigt op de dag voor het begin van het volgende academiejaar. Als conform de vigerende wetgeving uitzonderlijk wordt afgeweken van de bovenvermelde definitie, wordt voor de aanvraag van een studietoelage de opleiding die begint na 31 december en eindigt na 30 september beschouwd als behorend tot het academiejaar, zoals hierboven bepaald, waarin de opleiding eindigt;<br>
 3° ...<br>
 4° ambtshalve geregistreerde instelling : instelling als vermeld in artikel II.1 van de Codex Hoger Onderwijs;<br>
 5° ...;<br>
 6° buitenland : gebied buiten het grondgebied van het rijk;<br>
-7° deeltijds leerplichtonderwijs : het door de Vlaamse Gemeenschap gefinancierd, gesubsidieerd of erkend deeltijds secundair onderwijs dat aan een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling gevolgd wordt, evenals de vormingsprogramma's aan instellingen die door de Vlaamse Gemeenschap zijn erkend voor de vervulling van de deeltijdse leerplicht in toepassing van de wet van 29 juni 1983 betreffende de leerplicht;<br>
+7° ...;<br>
 8°&nbsp;afdeling Studietoelagen&nbsp;: de&nbsp;afdeling Studietoelagen&nbsp;van het Vlaams ministerie van Onderwijs en Vorming die verantwoordelijk is voor de studiefinanciering;<br>
 9° diplomacontract : begrip als vermeld in artikel I.3, 20°, van de Codex Hoger Onderwijs;<br>
 9°bis diplomajaar : het academiejaar waarin een student zich met een diplomacontract inschrijft voor een opleiding zoals bedoeld in artikel 21, § 1, en dat academiejaar voor die opleiding een diploma kan behalen of zijn schakel- of voorbereidingsprogramma kan voltooien.<br>
-10° erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor gewoon of buitengewoon basisonderwijs : begrip, gedefinieerd conform hoofdstuk VII van het decreet basisonderwijs van 25 februari 1997, zoals gewijzigd;<br>
-11° erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor voltijds of deeltijds gewoon of buitengewoon secundair onderwijs : begrip, gedefinieerd overeenkomstig de artikel 13 tot en met artikel 15 van de codificatie betreffende het secundair onderwijs;<br>
+10° ...;<br>
+11° ...;<br>
 12° Europese Hogeronderwijsruimte : alle Europese landen en regio's die de Bolognaverklaring, Joint Declaration of the European Ministers of Education Convened in Bologna on the 19th of June 1999, hebben ondertekend, of die de Bolognaverklaring na die datum hebben onderschreven en die op een Bolognafollow-upconferentie van Europese ministers, bevoegd voor het hoger onderwijs, als lid van het Bolognaproces zijn aanvaard;<br>
 13° fiscaal ten laste : ten laste volgens artikelen 136 tot en met 145 van het Wetboek van Inkomstenbelastingen;<br>
 14° ...<br>
@@ -48,36 +52,37 @@ b) ...;<br>
 c) een voorbereidingsprogramma dat al dan niet gevolgd wordt in voorbereiding op het volgen van een voortgezette opleiding;<br>
 d) een schakelprogramma;<br>
 e) het hoger beroepsonderwijs;<br>
+f) een lerarenopleiding als vermeld in artikel II.111 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
 17° hoofdverblijfplaats : begrip zoals, bedoeld in artikel 3, eerste lid, 5°, van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen;<br>
 18° kadastraal inkomen : het kadastraal inkomen overeenkomstig titel IX van het Wetboek van de Inkomstenbelastingen;<br>
 19° kadastraal inkomen vreemd gebruik : kadastraal inkomen van de onroerende goederen die noch als eigen hoofdverblijfplaats, noch voor eigen beroepsdoeleinden worden gebruikt;<br>
 19° /1 kadastraal inkomen voor eigen beroepsdoeleinden : het kadastraal inkomen van de onroerende goederen die voor eigen beroepsdoeleinden gebruikt worden, vermeld op het aanslagbiljet van de personenbelasting;<br>
 20° kalenderjaar : periode van 1 januari tot en met 31 december;<br>
-21° leefeenheid : één of meer meerderjarigen, ongeacht hun geslacht, met eventueel een of meer minderjarigen die hun hoofdverblijfplaats hebben op hetzelfde adres, alsook één of meer minderjarige gehuwde, zelfstandige of alleenstaande leerlingen of studenten, ongeacht hun geslacht, met eventueel één of meer minder- en meerderjarigen die hun hoofdverblijfplaats hebben op hetzelfde adres;<br>
-22° leerling : de persoon, ingeschreven in het kleuteronderwijs of het leerplichtonderwijs;<br>
-23° leerplichtonderwijs : het door de Vlaamse Gemeenschap gefinancierd, gesubsidieerd of erkend voltijds lager onderwijs en voltijds of deeltijds secundair onderwijs dat aan een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling gevolgd wordt, evenals de vormingsprogramma's aan instellingen die door de Vlaamse Gemeenschap zijn erkend voor de vervulling van de leerplicht in toepassing van de wet van 29 juni 1983 betreffende de leerplicht;<br>
+21° leefeenheid : één of meer meerderjarigen, ongeacht hun geslacht, met eventueel een of meer minderjarigen die hun hoofdverblijfplaats hebben op hetzelfde adres, alsook één of meer minderjarige gehuwde, zelfstandige of alleenstaande&nbsp;studenten, ongeacht hun geslacht, met eventueel één of meer minder- en meerderjarigen die hun hoofdverblijfplaats hebben op hetzelfde adres;<br>
+22° ...;<br>
+23° ...;<br>
 24° ...;<br>
-25° meeneembaarheid van de toelage : het krijgen van een schooltoelage in het secundair onderwijs of een studietoelage in het hoger onderwijs voor een studieprogramma of opleiding, gevolgd in een andere gemeenschap of in het buitenland;<br>
+25° meeneembaarheid van de toelage : het krijgen van&nbsp;een studietoelage in het hoger onderwijs voor een studieprogramma of opleiding, gevolgd in een andere gemeenschap of in het buitenland;<br>
 26° NARIC-Vlaanderen : het National Academic (&amp; Professional) Recognition and Information Centre, opgericht bij de Vlaamse Gemeenschap;<br>
 27° niet-verwanten : natuurlijke personen die noch bloedverwanten zijn in de rechte opgaande en nederdalende lijn, of in de zijlijn tot de vierde graad, noch aanverwanten zijn in dezelfde lijn en dezelfde graad;<br>
 28° opgenomen studiepunten : deel van de opleiding, uitgedrukt in het totaal aantal studiepunten dat het omvat, waarvoor een student zich met een diplomacontract aan een hogeronderwijsinstelling heeft ingeschreven voor het volgen van een opleiding, zoals bedoeld in artikel 20, § 1 en § 2, artikel 21, § 1, en artikel 30, § 1;<br>
 29° opleidingsonderdeel : begrip als vermeld in artikel I.3, 49°, van de Codex Hoger Onderwijs;<br>
-30° rechthebbende : de leerling en student die overeenkomstig dit decreet recht hebben op een schooltoelage of een studietoelage van de Vlaamse Gemeenschap;<br>
+30° rechthebbende : de&nbsp;student die overeenkomstig dit decreet recht hebben op&nbsp;een studietoelage van de Vlaamse Gemeenschap;<br>
 31° schakelprogramma : begrip als vermeld in artikel I.3, 56°, van de Codex Hoger Onderwijs;<br>
-32° schooldag : een kalenderdag waarop de leerling dient deel te nemen aan onderwijsactiviteiten, die zowel uit lessen als uit werkplekleren kunnen bestaan;<br>
-33° schooljaar : de periode die begint op 1 september en eindigt op 31 augustus van het daaropvolgende jaar;<br>
-34° schooltoelage : financiële middelen, toegekend door de Vlaamse Gemeenschap, aan minvermogende leerlingen in het kleuteronderwijs en het leerplichtonderwijs;<br>
+32° ...;<br>
+33° ...;<br>
+34° ...;<br>
 35° ...;<br>
 36° student : de persoon, ingeschreven in een onderwijsinstelling voor hoger onderwijs;<br>
 37° ...<br>
 38° studietoelage : financiële middelen, toegekend door de Vlaamse Gemeenschap, aan minvermogende studenten in het hoger onderwijs van de Vlaamse Gemeenschap;<br>
-39° toelage : een schooltoelage of een studietoelage;<br>
-40° uitschrijven : het vroegtijdig stopzetten van dat deel van de opleiding waarvoor de aanvrager, leerling of student&nbsp;zich voor het school- of academiejaar in kwestie heeft ingeschreven, op verzoek van de aanvrager of zijn wettelijke vertegenwoordiger;<br>
+39° toelage :&nbsp;een studietoelage;<br>
+40° uitschrijven : het vroegtijdig stopzetten van dat deel van de opleiding waarvoor de aanvrager,&nbsp;student&nbsp;zich voor het&nbsp;academiejaar in kwestie heeft ingeschreven, op verzoek van de aanvrager of zijn wettelijke vertegenwoordiger;<br>
 41° verworven studiepunten : studiepunten waarvoor aan de student een creditbewijs werd verleend voor het met een diplomacontract volgen van een opleiding zoals bedoeld in artikel 20, § 1 en § 2, artikel 21, § 1, en artikel 30, § 1;<br>
 42° voltijds studietraject : een studietraject in het hoger onderwijs met een studieprogramma van zestig studiepunten;<br>
 43° voorbereidingsprogramma : begrip als vermeld in artikel I.3, 76°, van de Codex Hoger Onderwijs, dat niet gevolgd wordt in voorbereiding op een bachelor-na-bacheloropleiding of een master-na-masteropleiding;<br>
 43°/1 voortgezette opleiding : een bachelor-na-bacheloropleiding, een master-na-masteropleiding, een doctoraat, een doctoraatsopleiding of een postgraduaatsopleiding;<br>
-44° werkplekleren : elke vorm van activiteit, naast de leercomponent, die samen met die leercomponent het voltijds engagement uitmaakt;<br>
+44° ...;<br>
 45° wettig verblijf : de situatie van de vreemdeling die toegelaten is om voor een langere termijn dan drie maanden in het Rijk te verblijven of die gemachtigd is zich er te vestigen, overeenkomstig de bepalingen van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen, alsook de situatie van personen die als slachtoffer van mensenhandel of -smokkel of als niet-begeleide minderjarige door middel van een&nbsp;attest van immatriculatie gemachtigd zijn tot een verblijf in het Rijk van maximaal drie maanden.
 
 ## BOEK II [... (opgeh. decr. 22 maart 2019, art. 10, I: 1 september 2019)] studietoelagen
@@ -90,29 +95,32 @@ Om in aanmerking te komen voor een toelage, moet tegelijkertijd worden voldaan a
 
 ### ART. 7.
 
-Om de nationaliteit, hoofdverblijfplaats en de toestand van de leefeenheid te bepalen, wordt bij de toepassing van dit decreet rekening gehouden met de toestand op 31 december van het school- of academiejaar in kwestie.<br /><br />Om de pedagogische toestand te bepalen, wordt bij de toepassing van dit decreet rekening gehouden met de toestand op 30 juni van het school- of academiejaar in kwestie.<br /><br />
+Om de nationaliteit, hoofdverblijfplaats en de toestand van de leefeenheid te bepalen, wordt bij de toepassing van dit decreet rekening gehouden met de toestand op 31 december van het&nbsp;academiejaar in kwestie.<br>
+<br>
+Om de pedagogische toestand te bepalen, wordt bij de toepassing van dit decreet rekening gehouden met de toestand op 30 juni van het&nbsp;academiejaar in kwestie.<br>
+&nbsp;
 
 ### ART. 8.
 
 <p>De afdeling Studietoelagen kan alle inlichtingen inwinnen die noodzakelijk zijn voor de toepassing van dit decreet. De afdeling Studietoelagen kan eveneens gegevens uitwisselen met de voor studiefinanciering bevoegde overheden uit het buitenland, voor zover deze informatieuitwisseling noodzakelijk is voor de toepassing van de buitenlandse regelgeving en berust op een schriftelijk afsprakenkader tussen de betrokken overheidsdiensten, met inachtname van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
 <br>
-De aanvrager, de persoon die de toelage ontvangt of de persoon die in het onderhoud van de leerling of student voorziet, moet de afdeling Studietoelagen op de hoogte brengen van nieuwe gegevens die relevant zijn voor de behandeling van het dossier.</p>
+De aanvrager, de persoon die de toelage ontvangt of de persoon die in het onderhoud van de student voorziet, moet de afdeling Studietoelagen op de hoogte brengen van nieuwe gegevens die relevant zijn voor de behandeling van het dossier.</p>
 
 ## TITEL II Nationaliteitsvoorwaarde
 
 ### ART. 9.
 
-§ 1. Een toelage kan worden toegekend aan leerlingen of studenten met de Belgische nationaliteit.<br>
+§ 1. Een toelage kan worden toegekend aan studenten met de Belgische nationaliteit.<br>
 <br>
-§ 2. In afwijking van § 1, kan een toelage worden toegekend aan de volgende categorieën van leerlingen of studenten :<br>
-1° kinderen van onderdanen van een lidstaat van de Europese Economische Ruimte die op basis van een arbeidsovereenkomst gedurende een periode van twee jaar en uiterlijk op 31 december van het school- of academiejaar in kwestie minstens twaalf maanden minstens 32 uur per maand in België werken of hebben gewerkt en die zich kunnen beroepen op artikel 12 van Verordening (EEG) 1612/68 van de Raad van 15 oktober 1968 betreffende het vrije verkeer van werknemers binnen de Unie, en kinderen van onderdanen van een lidstaat van de Europese Economische Ruimte die gedurende een periode van twee jaar en uiterlijk op 31 december van het school- of academiejaar in kwestie in België andere werkzaamheden dan werkzaamheden in loondienst verrichten of hebben verricht op basis van een inschrijving in de Kruispuntbank voor Ondernemingen of in het handelsregister;<br>
-2° onderdanen van een lidstaat van de Europese Economische Ruimte die op basis van een arbeidsovereenkomst gedurende een periode van twee jaar, onmiddellijk voorafgaand aan 31 december van het school- of academiejaar in kwestie, minstens twaalf maanden minstens 32 uur per maand in België werken of hebben gewerkt en die zich kunnen beroepen op artikel 7 van Verordening (EEG) 1612/68 van de Raad van 15 oktober 1968 betreffende het vrije verkeer van werknemers binnen de Unie, en onderdanen van een lidstaat van de Europese Economische Ruimte die gedurende een periode van twee jaar, onmiddellijk voorafgaand aan 31 december van het school- of academiejaar in kwestie, in België andere werkzaamheden dan werkzaamheden in loondienst verrichten of hebben verricht op basis van een inschrijving in de Kruispuntbank voor Ondernemingen;<br>
-3° onderdanen van een lidstaat van de Europese Unie die gedurende de periode, onmiddellijk voorafgaand aan 31 december van het school- of academiejaar in kwestie, gedurende vijf jaar onafgebroken in België zijn, waarbij de termijn wordt bewezen door de inschrijving in het Rijksregister of door een gelijkwaardig attest, uit te reiken door het gemeentebestuur;<br>
-4° leerlingen of studenten met een buitenlandse nationaliteit die toegelaten of gemachtigd zijn tot een verblijf van onbeperkte duur in België, zoals bepaald bij de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
+§ 2. In afwijking van § 1, kan een toelage worden toegekend aan de volgende categorieën van studenten :<br>
+1° kinderen van onderdanen van een lidstaat van de Europese Economische Ruimte die op basis van een arbeidsovereenkomst gedurende een periode van twee jaar en uiterlijk op 31 december van het academiejaar in kwestie minstens twaalf maanden minstens 32 uur per maand in België werken of hebben gewerkt en die zich kunnen beroepen op artikel 12 van Verordening (EEG) 1612/68 van de Raad van 15 oktober 1968 betreffende het vrije verkeer van werknemers binnen de Unie, en kinderen van onderdanen van een lidstaat van de Europese Economische Ruimte die gedurende een periode van twee jaar en uiterlijk op 31 december van het academiejaar in kwestie in België andere werkzaamheden dan werkzaamheden in loondienst verrichten of hebben verricht op basis van een inschrijving in de Kruispuntbank voor Ondernemingen of in het handelsregister;<br>
+2° onderdanen van een lidstaat van de Europese Economische Ruimte die op basis van een arbeidsovereenkomst gedurende een periode van twee jaar, onmiddellijk voorafgaand aan 31 december van het academiejaar in kwestie, minstens twaalf maanden minstens 32 uur per maand in België werken of hebben gewerkt en die zich kunnen beroepen op artikel 7 van Verordening (EEG) 1612/68 van de Raad van 15 oktober 1968 betreffende het vrije verkeer van werknemers binnen de Unie, en onderdanen van een lidstaat van de Europese Economische Ruimte die gedurende een periode van twee jaar, onmiddellijk voorafgaand aan 31 december van het academiejaar in kwestie, in België andere werkzaamheden dan werkzaamheden in loondienst verrichten of hebben verricht op basis van een inschrijving in de Kruispuntbank voor Ondernemingen;<br>
+3° onderdanen van een lidstaat van de Europese Unie die gedurende de periode, onmiddellijk voorafgaand aan 31 december van het academiejaar in kwestie, gedurende vijf jaar onafgebroken in België zijn, waarbij de termijn wordt bewezen door de inschrijving in het Rijksregister of door een gelijkwaardig attest, uit te reiken door het gemeentebestuur;<br>
+4° studenten met een buitenlandse nationaliteit die toegelaten of gemachtigd zijn tot een verblijf van onbeperkte duur in België, zoals bepaald bij de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
 5° slachtoffers van mensenhandel, geattesteerd door een door de federale overheid erkend centrum dat gespecialiseerd is in het onthaal van slachtoffers van mensenhandel;<br>
-6° leerlingen of studenten met een buitenlandse nationaliteit die toegelaten zijn tot een verblijf van bepaalde duur in België op basis van de artikelen 49, § 1, of 49/2, § 1, van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
-7° onderdanen van een land dat niet tot de Europese Economische Ruimte behoort die op 31 december van het betrokken school- of academiejaar gedurende een onafgebroken periode van minstens twaalf maanden wettig verblijven in België, en dit wettig verblijf niet verleend werd om in België hoger onderwijs te volgen of te werken, noch verleend werd in afwachting van een uitspraak in een asielprocedure om erkend te worden als vluchteling of als persoon die recht heeft op de subsidiaire bescherming, overeenkomstig de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
-8° personen die op basis van de artikelen 10, 10bis, 40bis of 40ter van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen de toelating hebben gekregen om een persoon zoals bedoeld in § 1 of § 2, 1° tot en met 7°, van onderhavig artikel, of een persoon die op 31 december van het betrokken school- of academiejaar minstens twaalf maanden wettig verblijft in België om hoger onderwijs te volgen of te werken, te begeleiden of vervoegen.<br>
+6° studenten met een buitenlandse nationaliteit die toegelaten zijn tot een verblijf van bepaalde duur in België op basis van de artikelen 49, § 1, of 49/2, § 1, van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
+7° onderdanen van een land dat niet tot de Europese Economische Ruimte behoort die op 31 december van het betrokken academiejaar gedurende een onafgebroken periode van minstens twaalf maanden wettig verblijven in België, en dit wettig verblijf niet verleend werd om in België hoger onderwijs te volgen of te werken, noch verleend werd in afwachting van een uitspraak in een asielprocedure om erkend te worden als vluchteling of als persoon die recht heeft op de subsidiaire bescherming, overeenkomstig de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
+8° personen die op basis van de artikelen 10, 10bis, 40bis of 40ter van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen de toelating hebben gekregen om een persoon zoals bedoeld in § 1 of § 2, 1° tot en met 7°, van onderhavig artikel, of een persoon die op 31 december van het betrokken academiejaar minstens twaalf maanden wettig verblijft in België om hoger onderwijs te volgen of te werken, te begeleiden of vervoegen.<br>
 <br>
 § 3. In afwijking van paragraaf 1 en 2 kan een toelage worden toegekend aan een pleegkind of pleeggast als vermeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, op voorwaarde dat het pleegkind of de pleeggast langer dan een jaar onafgebroken bij hetzelfde pleeggezin verblijft.<br>
 <br>
@@ -126,27 +134,27 @@ De aanvrager, de persoon die de toelage ontvangt of de persoon die in het onderh
 
 ### ART. 10.
 
-Een schooltoelage kan worden toegekend aan de leerling die is ingeschreven in een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor gewoon of buitengewoon basisonderwijs.<br /><br />
+...
 
 ### ART. 11.
 
-Een schooltoelage kan worden toegekend aan leerlingen in het basisonderwijs die gerechtigd zijn om dat onderwijs te volgen overeenkomstig het decreet basisonderwijs van 25 februari 1997.<br /><br />
+...
 
 ### ART. 12.
 
-§ 1. Om het recht op een toelage voor leerlingen in het kleuteronderwijs   vast te stellen, meldt de onderwijsinstelling in kwestie aan de&nbsp;afdeling   Studietoelagen&nbsp; :<BR>1° welke leerlingen zijn ingeschreven op de laatste   schooldag van juni;<BR>2° het aantal halve schooldagen dat de leerlingen   aanwezig waren op school;<BR>3° welke leerlingen die onderworpen zijn aan de   leerplicht, dertig of meer al dan niet gespreide halve schooldagen ongewettigd   afwezig zijn geweest.<BR><BR>§ 2. Om het recht op een toelage voor leerlingen in   het lager onderwijs vast te stellen, meldt de onderwijsinstelling in kwestie aan   de&nbsp;afdeling Studietoelagen&nbsp; :<BR>1° welke leerlingen zijn ingeschreven   op de laatste schooldag van juni;<BR>2° welke leerlingen in het lager onderwijs   dertig of meer al dan niet gespreide halve schooldagen ongewettigd afwezig zijn   geweest.<BR><BR>§ 3. De Vlaamse Regering bepaalt de wijze waarop de gegevens,   vermeld in §§ 1 en 2, moeten worden meegedeeld.<BR><BR>
+...
 
 ## Onderafdeling I [... (opgeh. decr. 22 maart 2019, art. 14, I: 1 september 2019)]
 
 ### ART. 13.
 
-§ 1. Een leerling heeft geen recht op een schooltoelage voor het   kleuteronderwijs als hij :<BR>1° in het schooljaar in kwestie niet ingeschreven   is in een onderwijsinstelling, als vermeld in artikel 10;<BR>2° gedurende het   schooljaar in kwestie en het daaraan voorafgaande schooljaar niet voldoende   aanwezig is geweest.<BR><BR>§ 2. Een leerling wordt tijdens een schooljaar   geacht voldoende aanwezig te zijn als :<BR>1° hij honderd vijftig halve   schooldagen aanwezig is op school, in het geval dat de leerling tijdens het jaar   waarin het schooljaar in kwestie begint de leeftijd van drie jaar bereikt. In   afwijking hiervan moet de leerling die pas na 31 december van hetzelfde   schooljaar de leeftijd van drie jaar bereikt, honderd halve schooldagen aanwezig   zijn op school;<BR>2° hij honderd vijfentachtig halve schooldagen aanwezig is op   school, in het geval dat de leerling tijdens het jaar waarin het schooljaar in   kwestie begint de leeftijd van vier jaar bereikt;<BR>3° hij tweehonderd twintig   halve schooldagen aanwezig is op school, in het geval dat de leerling tijdens   het jaar waarin het schooljaar in kwestie begint de leeftijd van vijf jaar   bereikt;<BR>4° hij niet meer dan 29 halve schooldagen ongewettigd afwezig is op   school, in het geval dat de leerling tijdens het jaar waarin het schooljaar in   kwestie begint de leeftijd van zes of zeven jaar bereikt.<BR><BR>§ 3. Een   kleuter wordt geacht een halve dag aanwezig te zijn als dit blijkt uit de   registratie in het aanwezigheidsregister van de school.<BR><BR>Een leerplichtige   kleuter is ongewettigd afwezig wanneer deze problematisch afwezig is, zoals   bedoeld in het besluit van de Vlaamse Regering van 12 november 1997 betreffende   de controle op de inschrijvingen van de leerlingen in het   basisonderwijs.<BR><BR>§ 4. In afwijking van § 3, bepaalt de Vlaamse Regering   wanneer een leerling geacht wordt voldoende aanwezig te zijn, wanneer de   onderwijsinstelling, vermeld in artikel 10, overeenkomstig artikel 8 van het   besluit van 17 april 1991 tot organisatie van het schooljaar in het   basisonderwijs, in het deeltijds onderwijs en in het onderwijs voor sociale   promotie erkend gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap, over   een afwijkende uurregeling beschikt. <BR><BR>§ 5. In afwijking van § 2 en § 3,   eerste lid, wordt een kleuter tijdens het betrokken schooljaar geacht voldoende   aanwezig te zijn, indien een attest van een arts, een paramedicus, vermeld in   het koninklijk besluit van 2 juli 2009 tot vaststelling van de lijst van de   paramedische beroepen, of een houder van een diploma in kinesitherapie, vermeld   in artikel 21bis, § 2, van het koninklijk besluit nr. 78 van 10 november 1967   betreffende de uitvoering van de gezondheidsberoepen, voorgelegd wordt. Het   attest bevat een verklaring dat de in een school ingeschreven kleuter tijdens   het betrokken schooljaar niet of slechts onregelmatig naar school kan gaan. Het   attest wordt door de aanvragerof de wettelijke vertegenwoordiger van de leerling   bij wie de betrokken leerling zijn hoofdverblijfplaats heeft, teruggestuurd naar   de bevoegde&nbsp;afdeling Studietoelagen&nbsp;van het Vlaams ministerie van   Onderwijs en Vorming.<BR><BR>§ 6. In afwijking van § 3 worden halve dagen   aanwezigheid in de rijdende kleuterschool zoals bepaald in artikel 168 van het   decreet basisonderwijs beschouwd als aanwezigheid in de erkende school waar de   leerling ingeschreven is.
+...
 
 ## Onderafdeling II [... (opgeh. decr. 22 maart 2019, art. 14, I: 1 september 2019)]
 
 ### ART. 14.
 
-§ 1. Een leerling heeft geen recht op een schooltoelage voor het lager onderwijs als hij :<br />1° in het schooljaar in kwestie niet ingeschreven is in een onderwijsinstelling, als vermeld in artikel 10;<br />2° gedurende het schooljaar in kwestie dertig al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest en het daaraan voorafgaande schooljaar hetzij eveneens dertig al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest, hetzij minder dan tweehonderd twintig halve schooldagen aanwezig is geweest indien de leerling toen nog niet onderworpen was aan de leerplicht maar wel ingeschreven was in een kleuterschool.<br /><br />§ 2. Een leerling in het lager onderwijs wordt geacht aanwezig te zijn als hij niet als ongewettigd afwezig is geregistreerd in het aanwezigheidsregister van de school.<br /><br />Een leerling is ongewettigd afwezig wanneer deze problematisch afwezig is, zoals bedoeld in het besluit van de Vlaamse Regering van 12 november 1997 betreffende de controle op de inschrijvingen van de leerlingen in het basisonderwijs.<br /><br />§ 3. In afwijking van § 1, 2°, bepaalt de Vlaamse Regering het aantal halve schooldagen dat een leerling maximaal per schooljaar ongewettigd afwezig mag zijn, wanneer de onderwijsinstelling, vermeld in artikel 10, overeenkomstig artikel 8 van het besluit van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs, in het deeltijds onderwijs en in het onderwijs voor sociale promotie erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap, over een afwijkende uurregeling beschikt.
+...
 
 ## Afdeling II [... (opgeh. decr. 22 maart 2019, art. 14, I: 1 september 2019)]
 
@@ -154,29 +162,29 @@ Een schooltoelage kan worden toegekend aan leerlingen in het basisonderwijs die 
 
 ### ART. 15.
 
-§ 1. Een schooltoelage voor het voltijds secundair onderwijs kan worden toegekend aan de leerling die is ingeschreven in een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor voltijds gewoon of buitengewoon secundair onderwijs.<br /><br />§ 2. Een schooltoelage voor het deeltijdse leerplichtonderwijs kan worden toegekend aan de leerling die is ingeschreven in een door de Vlaamse Gemeenschap gefinancierde, gesubsidieerde of erkende onderwijsinstelling voor deeltijds secundair onderwijs of in een door de Vlaamse Regering erkende instelling voor vormingsprogramma's die zijn erkend voor de vervulling van de leerplicht in toepassing van de wet van 29 juni 1983 betreffende de leerplicht.<br /><br />
+...
 
 ### ART. 16.
 
-§ 1. Een leerling heeft geen recht op een schooltoelage voor het voltijds secundair onderwijs of het deeltijds leerplichtonderwijs als hij :<br />1° in het schooljaar in kwestie niet ingeschreven is in een onderwijsinstelling of instelling voor vormingsprogramma's, als vermeld in artikel 15;<br />of<br />2° gedurende het schooljaar in kwestie dertig al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest tijdens de lessen in de onderwijsinstelling of de instelling voor vormingsprogramma's, vermeld in artikel 15, en/of het werkplekleren dat deel uitmaakt van de opleiding in de periode van 1 september tot en met 30 juni, en als hij gedurende het schooljaar dat voorafgaat aan het schooljaar in kwestie dertig, al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest tijdens de lessen in de onderwijsinstelling of de instelling voor vormingsprogramma's, vermeld in artikel 15 of in artikel 10, en/of het werkplekleren dat deel uitmaakt van de opleiding in de periode van 1 september tot en met 30 juni.<br /><br />§ 2. Een leerling in het secundair onderwijs en het deeltijds leerplichtonderwijs wordt geacht aanwezig te zijn wanneer deze tijdens de lessen of het werkplekleren daadwerkelijk aanwezig is of niet ongewettigd afwezig is.<br /><br />Een leerling is ongewettigd afwezig wanneer deze problematisch afwezig is, zoals bedoeld in het besluit van de Vlaamse Regering van 16 september 1997 betreffende de controle op de inschrijvingen van leerlingen in het secundair onderwijs.<br /><br />In afwijking van het tweede lid is een leerling die met een erkende leerovereenkomst of -verbintenis in het kader van de leertijd een opleiding volgt in een erkend en gesubsidieerd centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, onwettig afwezig wanneer deze problematisch afwezig is als vermeld in de uitvoeringsreglementering aangenomen door de Vlaamse Regering in het kader van de leertijd krachtens artikelen 58 en 59 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap.<br /><br />§ 3. In afwijking van § 1, 2°, bepaalt de Vlaamse Regering het aantal halve schooldagen dat een leerling in het voltijds secundair onderwijs maximaal per schooljaar ongewettigd afwezig mag zijn, wanneer de onderwijsinstelling in kwestie overeenkomstig artikel 8 van het besluit van de Vlaamse Regering van 31 augustus 2001 houdende de organisatie van het schooljaar in het secundair onderwijs, over een afwijkende uurregeling beschikt.
+...
 
 ### ART. 17.
 
-Een leerling heeft recht op een schooltoelage voor het voltijds secundair onderwijs en het deeltijds leerplichtonderwijs tot en met het schooljaar waarin de betrokken leerling 22 jaar wordt.<br /><br />In afwijking van het eerste lid kan voor leerlingen die ingeschreven zijn in het buitengewoon secundair onderwijs , in de vierde graad van het voltijds secundair onderwijs en in de opleiding verpleegkunde van het hoger beroepsonderwijs, een schooltoelage worden toegekend zonder dat hierbij een leeftijdsbeperking geldt.<br /><br />
+...
 
 ### ART. 18.
 
-§ 1. Om het recht op een toelage voor leerlingen in het voltijds secundair   onderwijs of het deeltijds leerplichtonderwijs vast te stellen, meldt de   onderwijsinstelling of de instelling voor vormingsprogramma's, zoals bedoeld in   artikel 15, aan de&nbsp;afdeling Studietoelagen&nbsp;:<BR>1° welke leerlingen   zijn ingeschreven;<BR>2° de datum van inschrijving;<BR>3° de datum van eventuele   uitschrijving;<BR>4° welke leerlingen dertig of meer al dan niet gespreide halve   schooldagen ongewettigd afwezig zijn geweest tijdens de lessen en/of het   werkplekleren in de periode van 1 september tot en met 30 juni. De werkgever van   de leerling deelt hiertoe elke ongewettigde afwezigheid mee aan de   onderwijsinstelling of de instelling voor vormingsprogramma's, zoals bedoeld in   artikel 15.<BR><BR>§ 2. De Vlaamse Regering bepaalt de wijze waarop de gegevens,   vermeld in § 1, moeten worden meegedeeld.<BR><BR>
+...
 
 ## Onderafdeling II [... (opgeh. decr. 22 maart 2019, art. 14, I: 1 september 2019)]
 
 ### ART. 19.
 
-Leerlingen die in het buitenland of in een andere gemeenschap secundair onderwijs volgen, komen in aanmerking voor een schooltoelage als er voor de in het buitenland of in een andere gemeenschap gevolgde studierichting of opleiding geen equivalente opleiding bestaat in een onderwijsinstelling of een instelling voor vormingsprogramma's, zoals bedoeld in artikel 15, en bovendien hetzij de onderwijsinstelling, hetzij de studierichting of opleiding erkend is door de bevoegde overheid in de gemeenschap of het land in kwestie.<br /><br />Artikel 16, artikel 17, tweede lid, artikel 50, §§ 2 en 4, en artikel 66 zijn niet van toepassing op leerlingen die in het buitenland secundair onderwijs volgen.<br /><br />
+...
 
 ### ART. 19/1.
 
-Voor het onderzoek of er een equivalente opleiding bestaat als vermeld in   artikel 19, baseert de afdeling Studietoelagen zich op het advies van NARIc of   op de informatie die NARIC ter beschikking stelt of op het advies van de   betrokken overheid.
+...
 
 ## HOOFDSTUK II Studietoelage hoger onderwijs
 
@@ -198,7 +206,21 @@ De volgende opleidingen worden eveneens beschouwd als opleidingen die vallen ond
 
 ### ART. 21.
 
-§ 1. Iedere student kan een studietoelage krijgen voor het behalen van een diploma voor twee bachelors, een master, een specifieke lerarenopleiding, en voor het voltooien van een voorbereidingsprogramma en een schakelprogramma.<br /><br />§ 2. Elke student heeft een studietoelagekrediet dat op het einde van elk academiejaar aangevuld wordt met het aantal verworven studiepunten dat de student dat academiejaar verworven heeft bij zijn studies, zoals bedoeld in § 1.<br /><br />De verworven studiepunten worden in meerdering aangebracht op het studietoelagekrediet, ongeacht het feit of de student voor deze verworven studiepunten een studietoelage zal aanvragen.<br /><br />§ 3. In afwijking van § 2 kan het studietoelagekrediet nooit meer dan zestig bedragen.<br />
+§ 1. Iedere student kan een studietoelage krijgen voor het behalen van een diploma voor twee bachelors, twee graduaten, een master, een lerarenopleiding en voor het voltooien van een voorbereidingsprogramma en een schakelprogramma.<br>
+<br>
+Als een student een educatieve graduaatsopleiding heeft voltooid of in het betrokken academiejaar ingeschreven is in een educatieve graduaatsopleiding, dan heeft de student recht op een krediet voor een derde graduaatsopleiding.<br>
+<br>
+Als een student een educatieve bacheloropleiding of een bacheloropleiding uit het studiegebied Onderwijs heeft voltooid of in het betrokken academiejaar ingeschreven is in een educatieve bacheloropleiding, dan heeft de student recht op een krediet voor een derde bacheloropleiding.<br>
+<br>
+Als de student een educatieve masteropleiding heeft voltooid of in het betrokken academiejaar ingeschreven is in een educatieve masteropleiding, dan heeft de student recht op een krediet voor een tweede masteropleiding.<br>
+<br>
+De kredieten, vermeld in het tweede tot en met het vierde lid, kunnen niet worden gecumuleerd.<br>
+<br>
+§ 2. Elke student heeft een studietoelagekrediet dat op het einde van elk academiejaar aangevuld wordt met het aantal verworven studiepunten dat de student dat academiejaar verworven heeft bij zijn studies, zoals bedoeld in § 1.<br>
+<br>
+De verworven studiepunten worden in meerdering aangebracht op het studietoelagekrediet, ongeacht het feit of de student voor deze verworven studiepunten een studietoelage zal aanvragen.<br>
+<br>
+§ 3. In afwijking van § 2 kan het studietoelagekrediet nooit meer dan zestig bedragen.
 
 ### ART. 22.
 
@@ -214,21 +236,64 @@ Per academiejaar kan een student maximaal voor zestig studiepunten een studietoe
 <br>
 Het studietoelagekrediet kan nooit minder bedragen dan nul.<br>
 <br>
-§ 3. In afwijking van § 1, eerste lid, kan een student maximum een studietoelage ontvangen voor het aantal opgenomen studiepunten dat gelijk is aan het verschil tussen het aantal studiepunten dat de student voor zijn studietoelagegerechtigdheid maximaal mag verwerven om een diploma te behalen, zoals bedoeld in het tweede, derde en vierde lid, en de som van het aantal verworven studiepunten dat de student op het einde van het laatst gevolgde academiejaar in totaal behaald heeft voor het volgen van de opleiding of opleidingen in kwestie.<br>
+§ 3. In afwijking van paragraaf 1, eerste lid, kan een student maximum een studietoelage ontvangen voor het aantal opgenomen studiepunten dat gelijk is aan het verschil tussen het aantal studiepunten dat de student voor zijn studietoelagegerechtigdheid maximaal mag verwerven om een diploma te behalen, zoals bedoeld in het tweede tot en met het twaalfde lid, en de som van het aantal verworven studiepunten dat de student op het einde van het laatst gevolgde academiejaar in totaal behaald heeft voor het volgen van de opleiding of opleidingen in kwestie.<br>
 <br>
-Een student is studietoelagegerechtigd voor het behalen van zijn eerste bachelordiploma totdat hij maximaal 240 studiepunten verworven heeft voor het volgen van bacheloropleidingen.<br>
+Een student mag voor het behalen van een eerste graduaatsdiploma slechts zo veel studiepunten voor graduaatsopleidingen verwerven dan het aantal studiepunten dat de totale studieomvang van de graduaatsopleiding waarvoor de student zich in het betrokken academiejaar heeft ingeschreven, telt, vermeerderd met zestig.<br>
 <br>
-De student die reeds een bachelordiploma behaald heeft, is studietoelagegerechtigd voor het behalen van zijn tweede bachelordiploma totdat hij in totaal maximaal 420 studiepunten verworven heeft voor het volgen van bacheloropleidingen.<br>
+De student die reeds een graduaatsdiploma behaald heeft, mag voor het behalen van een tweede graduaatsdiploma zo veel studiepunten voor graduaatsopleidingen verwerven als de som van de hierna vermelde studiepunten :<br>
+1° de totale studieomvang die de eerste graduaatsopleiding, waarvoor de kandidaat een diploma behaalde, standaard telt;<br>
+2° de totale studieomvang die de tweede graduaatsopleiding, waarvoor de kandidaat ingeschreven is, standaard telt;<br>
+3° zestig extra studiepunten.<br>
 <br>
-Een student mag voor het behalen van een masterdiploma slechts zo veel studiepunten voor masteropleidingen verwerven dan het aantal studiepunten dat de totale studieomvang van de masteropleiding waarvoor de student zich in het academiejaar in kwestie heeft ingeschreven, telt, vermeerderd met dertig. Indien de student zich in het academiejaar in kwestie voor meerdere masteropleidingen heeft ingeschreven, is het maximum aantal studiepunten dat verworven mag worden voor masteropleidingen, gelijk aan de totale studieomvang van de masteropleiding die het grootst is vermeerderd met dertig.<br>
+De student die reeds twee graduaatsdiploma's behaald heeft en voldoet aan de voorwaarden van artikel 21, § 1, tweede lid, mag voor het behalen van een derde graduaatsdiploma zo veel studiepunten voor graduaatsopleidingen verwerven als de som van de hierna vermelde studiepunten :<br>
+1° de totale studieomvang die de eerste graduaatsopleiding, waarvoor de kandidaat een diploma behaalde, standaard telt;<br>
+2° de totale studieomvang die de tweede graduaatsopleiding, waarvoor de kandidaat een diploma behaalde, standaard telt;<br>
+3° de totale studieomvang die de derde graduaatsopleiding, waarvoor de kandidaat ingeschreven is, standaard telt;<br>
+4° zestig extra studiepunten.<br>
 <br>
-§ 4. In afwijking van § 3 is de student die vanaf het academiejaar 2016-2017 ingeschreven is voor de opleiding verpleegkunde van 240 studiepunten, studietoelagegerechtigd voor het behalen van zijn eerste bachelordiploma totdat hij maximaal 300 studiepunten verworven heeft voor het volgen van bacheloropleidingen.<br>
+Als de student zich in het betrokken academiejaar voor meerdere graduaatsopleidingen heeft ingeschreven, wordt de graduaatsopleiding met de grootste studieomvang in aanmerking genomen voor het bepalen van de verwervingsgrens.<br>
 <br>
-In afwijking van § 3 is de student die reeds een bachelordiploma behaald heeft en vanaf het academiejaar 2016-2017 is ingeschreven voor de opleiding verpleegkunde van 240 studiepunten, studietoelagegerechtigd voor het behalen van zijn tweede bachelordiploma totdat hij in totaal maximaal 480 studiepunten verworven heeft voor het volgen van bacheloropleidingen.
+Een student mag voor het behalen van een eerste bachelordiploma slechts zo veel studiepunten voor bacheloropleidingen verwerven dan het aantal studiepunten dat de totale studieomvang van de bacheloropleiding waarvoor de student zich in het betrokken academiejaar heeft ingeschreven, telt, vermeerderd met zestig.<br>
+<br>
+De student die reeds een bachelordiploma behaald heeft, mag voor het behalen van een tweede bachelordiploma zo veel studiepunten voor bacheloropleidingen verwerven als de som van de hierna vermelde studiepunten :<br>
+1° de totale studieomvang die de eerste bacheloropleiding, waarvoor de kandidaat een diploma behaalde, standaard telt;<br>
+2° de totale studieomvang die de tweede bacheloropleiding, waarvoor de kandidaat ingeschreven is, standaard telt;<br>
+3° zestig extra studiepunten.<br>
+<br>
+De student die reeds twee bachelordiploma's behaald heeft en voldoet aan de voorwaarden van artikel 21, § 1, derde lid, mag voor het behalen van een derde bachelordiploma zo veel studiepunten voor bacheloropleidingen verwerven als de som van de hierna vermelde studiepunten :<br>
+1° de totale studieomvang die de eerste bacheloropleiding, waarvoor de kandidaat een diploma behaalde, standaard telt;<br>
+2° de totale studieomvang die de tweede bacheloropleiding, waarvoor de kandidaat een diploma behaalde, standaard telt;<br>
+3° de totale studieomvang die de derde bacheloropleiding, waarvoor de kandidaat ingeschreven is, standaard telt;<br>
+4° zestig extra studiepunten.<br>
+<br>
+Als de student zich in het betrokken academiejaar voor meerdere bacheloropleidingen heeft ingeschreven, wordt de bacheloropleiding met de grootste studieomvang in aanmerking genomen voor het bepalen van de verwervingsgrens.<br>
+<br>
+Een student mag voor het behalen van een masterdiploma slechts zo veel studiepunten voor masteropleidingen verwerven dan het aantal studiepunten dat de totale studieomvang van de masteropleiding waarvoor de student zich in het betrokken academiejaar heeft ingeschreven, telt, vermeerderd met dertig.<br>
+<br>
+De student die reeds een masterdiploma behaald heeft en voldoet aan de voorwaarden van artikel 21, § 1, vierde lid, mag voor het behalen van een tweede masterdiploma zo veel studiepunten voor masteropleidingen verwerven als de som van de hierna vermelde studiepunten :<br>
+1° de totale studieomvang die de eerste masteropleiding, waarvoor de kandidaat een diploma behaalde, standaard telt;<br>
+2° de totale studieomvang die de tweede masteropleiding, waarvoor de kandidaat ingeschreven is, standaard telt;<br>
+3° dertig extra studiepunten.<br>
+<br>
+Indien de student zich in het betrokken academiejaar voor meerdere masteropleidingen heeft ingeschreven, wordt de masteropleiding met de grootste studieomvang in aanmerking genomen voor het bepalen van de verwervingsgrens..<br>
+<br>
+§ 4. ...
 
 ### ART. 24.
 
-§ 1. Bij de berekening van het bedrag van de studietoelage wordt het aantal opgenomen studiepunten in het academiejaar in kwestie in rekening gebracht, voor zover en in de mate dat het studietoelagekrediet toereikend is.<br /><br />§ 2. Om in aanmerking te komen voor een studietoelage, moet de student minstens 27 studiepunten opnemen, waarbij de studiepunten tegelijkertijd kunnen betrekking hebben op verschillende opleidingen, zoals bedoeld in artikel 21, § 1.<br /><br />In afwijking van het eerste lid komt de student die minder dan 27 studiepunten opneemt in aanmerking voor een studietoelage als hij in zijn diplomajaar zit.<br /><br />§ 3. Als de studieomvang van de opleiding niet wordt uitgedrukt in studiepunten, wordt de studieomvang voor een academiejaar vastgesteld op zestig studiepunten.<br /><br />Als de student kan aantonen dat de door hem gevolgde opleiding, die niet uitgedrukt wordt in studiepunten, niet voltijds is, wordt de studieomvang bepaald op dertig studiepunten.
+§ 1. Bij de berekening van het bedrag van de studietoelage wordt het aantal opgenomen studiepunten in het academiejaar in kwestie in rekening gebracht, voor zover en in de mate dat het studietoelagekrediet toereikend is.<br>
+<br>
+§ 2. Om in aanmerking te komen voor een studietoelage, moet de student minstens 27 studiepunten opnemen, waarbij de studiepunten tegelijkertijd kunnen betrekking hebben op verschillende opleidingen, zoals bedoeld in artikel 21, § 1.<br>
+<br>
+In afwijking van het eerste lid komt de student die minder dan 27 studiepunten opneemt in aanmerking voor een studietoelage als hij in zijn diplomajaar zit.<br>
+<br>
+In afwijking van het eerste lid komt een student die minder dan 27 studiepunten opneemt, in aanmerking voor een studietoelage als het voor die student om medische redenen onmogelijk is om in te schrijven voor 27 studiepunten of meer.<br>
+<br>
+De ziekte van de student wordt aangetoond aan de hand van doktersattesten waarbij een arts attesteert dat de student wegens ziekte niet in staat is meer studiepunten op te nemen. De Vlaamse Regering bepaalt de modaliteiten waarop deze gegevens worden meegedeeld.<br>
+<br>
+§ 3. Als de studieomvang van de opleiding niet wordt uitgedrukt in studiepunten, wordt de studieomvang voor een academiejaar vastgesteld op zestig studiepunten.<br>
+<br>
+Als de student kan aantonen dat de door hem gevolgde opleiding, die niet uitgedrukt wordt in studiepunten, niet voltijds is, wordt de studieomvang bepaald op dertig studiepunten.
 
 ### ART. 25.
 
@@ -261,13 +326,13 @@ Bij horizontale mobiliteit kunnen studenten zowel binnen als buiten de Europese 
 De opleiding die in het verleden voldeed aan de voorwaarden, vermeld in het eerste lid, maar waarvan de erkenning van de opleiding of de instelling vervallen is voor de student binnen de normale opleidingsduur de opleiding heeft voltooid, wordt eveneens beschouwd als een opleiding die voldoet aan de voorwaarden, vermeld in het eerste lid.<br>
 <br>
 § 2. In afwijking van artikel 29 komt de student die in het kader van verticale mobiliteit studies wenst te volgen buiten de Europese Hogeronderwijsruimte, in aanmerking voor studiefinanciering na goedkeuring door de Vlaamse Regering. De Vlaamse Regering neemt haar beslissing op basis van de volgende aanvullende cumulatieve criteria :<br>
-1° voor de te volgen opleiding bestaat geen gelijkwaardige opleiding tussen de volgens de bepalingen van het Structuurdecreet geaccrediteerde, als nieuw erkende of tijdelijk erkende opleidingen;<br>
+1° voor de te volgen opleiding bestaat geen gelijkwaardige opleiding tussen de volgens de bepalingen van de Codex Hoger Onderwijs van 11 oktober 2013 geaccrediteerde, als nieuw erkende of tijdelijk erkende opleidingen;<br>
 2° de opleiding en de organiserende instelling draagt bij aan de verdere uitbouw van de wetenschappelijke discipline. Hierbij wint de Vlaamse Regering het advies in van de Commissie Hoger Onderwijs, vermeld in artikel II.23 van de Codex Hoger Onderwijs.<br>
 <br>
 § 3. Onverminderd het bepaalde in §§ 1 en 2 moet de betrokken student, om in aanmerking te komen voor een studietoelage voor een opleiding in het kader van verticale mobiliteit, voldoen aan een van de volgende voorwaarden :<br>
 1° de student heeft zijn hoofdverblijfplaats in het Vlaamse Gewest;<br>
 2° de student heeft een diploma secundair onderwijs, uitgereikt door een door het Vlaams ministerie van Onderwijs en Vorming gefinancierde, gesubsidieerde of erkende instelling;<br>
-3° de student heeft aan een ambtshalve geregistreerde instelling een diploma hoger onderwijs behaald voor een bacheloropleiding of masteropleiding, als vermeld in de bijlage bij het besluit van de Vlaamse Regering van 13 februari 2004 tot vaststelling van de lijst van de bachelor- en de masteropleidingen in het hoger onderwijs in Vlaanderen, zoals gewijzigd, of voor een hiermee overeenstemmende opleiding, beëindigd voor de inwerkingtreding van het structuurdecreet.<br>
+3° de student heeft aan een ambtshalve geregistreerde instelling een diploma hoger onderwijs behaald voor een bacheloropleiding of masteropleiding, als vermeld in de lijst, vermeld in artikel II.170, § 2, van de Codex Hoger Onderwijs van 11 oktober 2013, of voor een hiermee overeenstemmende opleiding, beëindigd voor de inwerkingtreding van het structuurdecreet.<br>
 &nbsp;
 
 ### ART. 31.
@@ -284,30 +349,34 @@ In afwijking van artikel 27 deelt de student die een opleiding volgt in   het ka
 
 ### ART. 33.
 
-Om te bepalen of een leerling of student in aanmerking komt voor een   toelage, wordt uitgegaan van de leefeenheid van de betrokken leerling of student   en het referentie-inkomen van zijn leefeenheid.<BR><BR>In afwijking van het   eerste lid heeft een pleegkind of pleeggast als vermeld in artikel 2, 8° en 10°,   van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg recht op   een volledige toelage op voorwaarde dat het pleegkind of de pleeggast langer dan   één jaar onafgebroken bij hetzelfde pleeggezin verblijft.<BR><BR>Voor de   toepassing van het tweede lid is artikel 7, eerste lid van overeenkomstige   toepassing.<BR>
+Om te bepalen of een student in aanmerking komt voor een toelage, wordt uitgegaan van de leefeenheid van de betrokken student en het referentie-inkomen van zijn leefeenheid.<br>
+<br>
+In afwijking van het eerste lid heeft een pleegkind of pleeggast als vermeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg recht op een volledige toelage op voorwaarde dat het pleegkind of de pleeggast langer dan één jaar onafgebroken bij hetzelfde pleeggezin verblijft.<br>
+<br>
+Voor de toepassing van het tweede lid is artikel 7, eerste lid van overeenkomstige toepassing.
 
 ## HOOFDSTUK II Categorieën van leefeenheden
 
 ### ART. 34.
 
 § 1. Er wordt rekening gehouden met de volgende categorieën van leefeenheden :<br>
-1° de leefeenheid waar de leerling of student zijn hoofdverblijfplaats heeft bij één of beide ouders van wie zijn afstamming vaststaat;<br>
-2° de leefeenheid waar de leerling of student ingevolge een gerechtelijke uitspraak of een tussenkomst van een publiekrechtelijke overheid of instelling&nbsp;zijn hoofdverblijfplaats heeft bij een andere natuurlijke persoon dan de ouders van wie zijn afstamming vaststaat, of de leefeenheid waar de leerling of student minstens drie jaar zijn hoofdverblijfplaats heeft bij of&nbsp;zijn hoofdverblijfplaats heeft bij een andere natuurlijke persoon dan een of beide ouders van wie zijn afstamming vaststaat;<br>
-3° gehuwde leerlingen of studenten;<br>
-4° zelfstandige leerlingen of studenten;<br>
-5° alleenstaande leerlingen of studenten.<br>
+1° de leefeenheid waar de student zijn hoofdverblijfplaats heeft bij één of beide ouders van wie zijn afstamming vaststaat;<br>
+2° de leefeenheid waar de student ingevolge een gerechtelijke uitspraak of een tussenkomst van een publiekrechtelijke overheid of instelling&nbsp;zijn hoofdverblijfplaats heeft bij een andere natuurlijke persoon dan de ouders van wie zijn afstamming vaststaat, of de leefeenheid waar de student minstens drie jaar zijn hoofdverblijfplaats heeft bij of&nbsp;zijn hoofdverblijfplaats heeft bij een andere natuurlijke persoon dan een of beide ouders van wie zijn afstamming vaststaat;<br>
+3° gehuwde studenten;<br>
+4° zelfstandige studenten;<br>
+5° alleenstaande studenten.<br>
 <br>
-§ 2. De bepaling van de categorie van de leefeenheid gebeurt voor elke leerling of student afzonderlijk.<br>
+§ 2. De bepaling van de categorie van de leefeenheid gebeurt voor elke student afzonderlijk.<br>
 <br>
-§ 3. De Vlaamse Regering geeft een nadere begripsomschrijving van de verschillende categorieën van leefeenheden op basis waarvan de toelage van de leerling of student wordt berekend, en bepaalt de persoon of personen van wie het referentie-inkomen in aanmerking wordt genomen bij de berekening van de toelage.<br>
+§ 3. De Vlaamse Regering geeft een nadere begripsomschrijving van de verschillende categorieën van leefeenheden op basis waarvan de toelage van de student wordt berekend, en bepaalt de persoon of personen van wie het referentie-inkomen in aanmerking wordt genomen bij de berekening van de toelage.<br>
 <br>
-§ 4. Bij het bepalen van de leefeenheid waartoe een leerling of student behoort, wordt eerst nagegaan of de leerling of student voldoet aan de voorwaarden voor de categorie van gehuwde leerlingen of studenten, vermeld in § 1, 3°, zo niet of de leerling of student voldoet aan de voorwaarden voor de categorie van zelfstandige leerlingen of studenten, vermeld in § 1, 4°, zo niet of de leerling of student voldoet aan de voorwaarden van de categorie van leefeenheid waar de leerling of student zijn hoofdverblijfplaats heeft bij één of beide ouders van wie zijn afstamming vaststaat, vermeld in § 1, 1°, zo niet of de leerling of student voldoet aan de voorwaarden voor de categorie van de leefeenheid waar de leerling of student verblijft bij een andere natuurlijke persoon, vermeld in § 1, 2°.<br>
+§ 4. Bij het bepalen van de leefeenheid waartoe een student behoort, wordt eerst nagegaan of de student voldoet aan de voorwaarden voor de categorie van gehuwde studenten, vermeld in § 1, 3°, zo niet of de student voldoet aan de voorwaarden voor de categorie van zelfstandige studenten, vermeld in § 1, 4°, zo niet of de student voldoet aan de voorwaarden van de categorie van leefeenheid waar de student zijn hoofdverblijfplaats heeft bij één of beide ouders van wie zijn afstamming vaststaat, vermeld in § 1, 1°, zo niet of de student voldoet aan de voorwaarden voor de categorie van de leefeenheid waar de student verblijft bij een andere natuurlijke persoon, vermeld in § 1, 2°.<br>
 <br>
-Als wordt vastgesteld dat de leerling of student niet behoort tot een van de categorieën van leefeenheid, vermeld in § 1, 1°, 2°, 3° of 4°, wordt nagegaan of de leerling of student voldoet aan de voorwaarden voor de categorie van alleenstaande leerling of student, vermeld in § 1, 5°.<br>
+Als wordt vastgesteld dat de student niet behoort tot een van de categorieën van leefeenheid, vermeld in § 1, 1°, 2°, 3° of 4°, wordt nagegaan of de student voldoet aan de voorwaarden voor de categorie van alleenstaande student, vermeld in § 1, 5°.<br>
 <br>
-Als wordt vastgesteld dat de leerling of student niet behoort tot een van de categorieën van leefeenheden, vermeld in § 1, wordt de leerling of student beschouwd als een persoon die behoort tot de categorie van leefeenheid, vermeld in § 1, 1° of 2°, waarbij desgevallend wordt uitgegaan van de laatste hoofdverblijfplaats van de student of leerling bij een ouder van wie zijn afstamming vaststaat of bij een andere natuurlijke persoon, als vermeld in § 1, 2°.<br>
+Als wordt vastgesteld dat de student niet behoort tot een van de categorieën van leefeenheden, vermeld in § 1, wordt de student beschouwd als een persoon die behoort tot de categorie van leefeenheid, vermeld in § 1, 1° of 2°, waarbij desgevallend wordt uitgegaan van de laatste hoofdverblijfplaats van de student bij een ouder van wie zijn afstamming vaststaat of bij een andere natuurlijke persoon, als vermeld in § 1, 2°.<br>
 <br>
-§ 5. Als een leerling of student bij zijn aanvraag aangeeft dat hij behoort tot een leefeenheid als vermeld in § 1, 3°, 4° of 5°, maar overeenkomstig § 4 deel uitmaakt van een leefeenheid als vermeld in § 1, 1° of 2°, worden de gegevens over de inkomsten bij de toekenning of afwijzing van de aanvraag niet door de&nbsp;afdeling Studietoelagen&nbsp;meegedeeld aan de aanvrager.<br>
+§ 5. Als een student bij zijn aanvraag aangeeft dat hij behoort tot een leefeenheid als vermeld in § 1, 3°, 4° of 5°, maar overeenkomstig § 4 deel uitmaakt van een leefeenheid als vermeld in § 1, 1° of 2°, worden de gegevens over de inkomsten bij de toekenning of afwijzing van de aanvraag niet door de&nbsp;afdeling Studietoelagen&nbsp;meegedeeld aan de aanvrager.<br>
 &nbsp;
 
 ## HOOFDSTUK III Referentie-inkomen
@@ -331,17 +400,28 @@ Als wordt vastgesteld dat de leerling of student niet behoort tot een van de cat
 
 ### ART. 36.
 
-De leerling of student van wie het referentie-inkomen van de leefeenheid waartoe hij behoort de maximuminkomensgrens, vermeld in artikel 43, niet overschrijdt, wordt voor de toepassing van dit decreet beschouwd als rechthebbende op een toelage.<br /><br />
+De student van wie het referentie-inkomen van de leefeenheid waartoe hij behoort de maximuminkomensgrens, vermeld in artikel 43, niet overschrijdt, wordt voor de toepassing van dit decreet beschouwd als rechthebbende op een toelage.<br>
+&nbsp;
 
 ### ART. 37.
 
-De Vlaamse Regering bepaalt het in aanmerking te nemen kalenderjaar waarop het referentie-inkomen wordt bepaald, de uitzonderingen hierop als het inkomen van het kalenderjaar waarin het school- of academiejaar in kwestie begint vermoedelijk lager ligt dan het inkomen van het in aanmerking te nemen kalenderjaar of als de leerling of student pas na het in aanmerking te nemen kalenderjaar voldoet aan de voorwaarden van de leefeenheid waartoe hij behoort, alsmede de attesten op basis waarvan het referentieinkomen wordt aangetoond.<br /><br />
+De Vlaamse Regering bepaalt het in aanmerking te nemen kalenderjaar waarop het referentie-inkomen wordt bepaald, de uitzonderingen hierop als het inkomen van het kalenderjaar waarin het academiejaar in kwestie begint vermoedelijk lager ligt dan het inkomen van het in aanmerking te nemen kalenderjaar of als de student pas na het in aanmerking te nemen kalenderjaar voldoet aan de voorwaarden van de leefeenheid waartoe hij behoort, alsmede de attesten op basis waarvan het referentieinkomen wordt aangetoond.<br>
+&nbsp;
 
 ## HOOFDSTUK IV Kadastraal inkomen
 
 ### ART. 38.
 
-Het kadastraal inkomen van de leefeenheid wordt gewogen om te bepalen of de leerling of student in aanmerking komt voor een toelage.<br /><br />Indien het geïndexeerd kadastraal inkomen vreemd gebruik van de personen van wie het referentie-inkomen overeenkomstig artikel 34 als uitgangspunt wordt genomen voor de berekening van het referentie-inkomen hoger is dan 1250 euro, heeft een leerling of student geen recht op een toelage als het verdrievoudigd geïndexeerd kadastraal inkomen vreemd gebruik van de personen van wie het referentie-inkomen overeenkomstig artikel 34 als uitgangspunt wordt genomen voor de berekening van het referentie-inkomen hoger is dan twintig procent van het referentie-inkomen, vermeld in artikel 35, verminderd met tweemaal het geïndexeerd kadastraal inkomen vreemd gebruik en eenmaal het geïndexeerd kadastraal inkomen dat voor eigen beroepsdoeleinden wordt aangewend, vermeld in artikel 35, eerste lid, 4°. <br /><br />Het eerste en tweede lid zijn niet van toepassing als het referentie-inkomen van de leefeenheid geheel of gedeeltelijk is samengesteld uit leefloon of het equivalent van leefloon, of voor minstens zeventig procent bestaat uit alimentatiegelden, vervangingsinkomsten, een overlevingspensioen of een inkomensvervangende tegemoetkoming, toegekend in het raam van de wet van 27 februari 1987 betreffende de tegemoetkoming aan gehandicapten.<br /><br />Het eerste en tweede lid zijn evenmin van toepassing op alleenstaande leerlingen en studenten, zoals bedoeld in artikel 34, § 1, 5°.<br /><br />De Vlaamse Regering bepaalt het in aanmerking te nemen kalenderjaar waarop het kadastraal inkomen wordt bepaald, de uitzonderingen hierop als het inkomen van het kalenderjaar waarin het school- of academiejaar in kwestie begint vermoedelijk lager ligt dan het inkomen van het in aanmerking te nemen kalenderjaar of als de leerling of student pas na het in aanmerking te nemen kalenderjaar voldoet aan de voorwaarden van de leefeenheid waartoe hij behoort, alsmede de attesten op basis waarvan het kadastraal inkomen wordt aangetoond.<br /><br />
+Het kadastraal inkomen van de leefeenheid wordt gewogen om te bepalen of de student in aanmerking komt voor een toelage.<br>
+<br>
+Indien het geïndexeerd kadastraal inkomen vreemd gebruik van de personen van wie het referentie-inkomen overeenkomstig artikel 34 als uitgangspunt wordt genomen voor de berekening van het referentie-inkomen hoger is dan 1250 euro, heeft een student geen recht op een toelage als het verdrievoudigd geïndexeerd kadastraal inkomen vreemd gebruik van de personen van wie het referentie-inkomen overeenkomstig artikel 34 als uitgangspunt wordt genomen voor de berekening van het referentie-inkomen hoger is dan twintig procent van het referentie-inkomen, vermeld in artikel 35, verminderd met tweemaal het geïndexeerd kadastraal inkomen vreemd gebruik en eenmaal het geïndexeerd kadastraal inkomen dat voor eigen beroepsdoeleinden wordt aangewend, vermeld in artikel 35, eerste lid, 4°.<br>
+<br>
+Het eerste en tweede lid zijn niet van toepassing als het referentie-inkomen van de leefeenheid geheel of gedeeltelijk is samengesteld uit leefloon of het equivalent van leefloon, of voor minstens zeventig procent bestaat uit alimentatiegelden, vervangingsinkomsten, een overlevingspensioen of een inkomensvervangende tegemoetkoming, toegekend in het raam van de wet van 27 februari 1987 betreffende de tegemoetkoming aan gehandicapten.<br>
+<br>
+Het eerste en tweede lid zijn evenmin van toepassing op alleenstaande studenten, zoals bedoeld in artikel 34, § 1, 5°.<br>
+<br>
+De Vlaamse Regering bepaalt het in aanmerking te nemen kalenderjaar waarop het kadastraal inkomen wordt bepaald, de uitzonderingen hierop als het inkomen van het kalenderjaar waarin het academiejaar in kwestie begint vermoedelijk lager ligt dan het inkomen van het in aanmerking te nemen kalenderjaar of als de student pas na het in aanmerking te nemen kalenderjaar voldoet aan de voorwaarden van de leefeenheid waartoe hij behoort, alsmede de attesten op basis waarvan het kadastraal inkomen wordt aangetoond.<br>
+&nbsp;
 
 ## HOOFDSTUK V Bedrag van de toelage
 
@@ -349,19 +429,56 @@ Het kadastraal inkomen van de leefeenheid wordt gewogen om te bepalen of de leer
 
 ### ART. 39.
 
-§ 1. Een leerling of student heeft recht op een volledige toelage als het referentie-inkomen, vermeld in artikel 35, gelijk is aan of lager is dan de voor zijn leefeenheid in aanmerking te nemen minimuminkomensgrens, vermeld in artikel 43.<br /><br />§ 2. Een leerling of student heeft geen recht op een toelage als het referentie-inkomen, vermeld in artikel 35, hoger is dan de voor zijn leefeenheid in aanmerking te nemen maximuminkomensgrens, vermeld in artikel 43.<br /><br />§ 3. Als het in aanmerking te nemen referentie-inkomen, vermeld in artikel 35, hoger is dan de mini-muminkomensgrens, vermeld in artikel 43, doch lager is dan de maximuminkomensgrens, vermeld in artikel 43, wordt een toelage verleend waarvan het bedrag gelijk is aan het bedrag van de volledige toelage, vermeld in artikel 49, eerste lid, artikel 50, of artikel 51, § 1, vermenigvuldigd met de coëfficiënt van de formule (maximuminkomensgrens min referentie-inkomen)/(maximuminkomensgrens min minimuminkomensgrens).<br /><br />§ 4. De student ontvangt een uitzonderlijke toelage als het in aanmerking te nemen referentie-inkomen, vermeld in artikel 35, gelijk is aan of lager is dan een tiende van de maximuminkomensgrens, vermeld in artikel 43, en als hij voldoet aan een van de volgende voorwaarden :<br />1° de student valt onder het toepassingsgebied van artikel 34, § 1, 3°, 4° en 5°;<br />2° het in aanmerking te nemen referentie-inkomen bestaat voor minstens zeventig procent uit vervangingsinkomsten;<br />3° het in aanmerking te nemen referentie-inkomen bestaat voor minstens zeventig procent uit alimentatiegelden;<br />4° het in aanmerking te nemen referentie-inkomen bestaat voor minstens zeventig procent uit leefloon, toegekend in het raam van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, of het equivalent van leefloon, toegekend in het raam van de wet van 2 april 1965;<br />5° het in aanmerking te nemen referentie-inkomen bestaat voor minstens zeventig procent uit een inkomensvervangende tegemoetkoming, toegekend in het raam van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan gehandicapten.<br /><br />§ 5. De leerling ontvangt een uitzonderlijke toelage als het in aanmerking te nemen referentie-inkomen, vermeld in artikel 35, gelijk is aan of lager is dan een tiende van de maximuminkomensgrens, vermeld in artikel 43, en als hij voldoet aan een van de volgende voorwaarden :<br />1° het in aanmerking te nemen referentie-inkomen bestaat voor minstens zeventig procent uit vervangingsinkomsten;<br />2° het in aanmerking te nemen referentie-inkomen bestaat voor minstens zeventig procent uit alimentatiegelden;<br />3° het in aanmerking te nemen referentie-inkomen bestaat voor minstens zeventig procent uit leefloon, toegekend in het raam van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, of het equivalent van leefloon, toegekend in het raam van de wet van 2 april 1965;<br />4° het referentie-inkomen bestaat voor minstens zeventig procent uit een inkomensvervangende tegemoetkoming, toegekend in het raam van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan gehandicapten.<br /><br />In afwijking van het eerste lid komt de leerling in het voltijds secundair onderwijs niet in aanmerking voor een uitzonderlijke toelage als hij aan een van volgende voorwaarden beantwoordt :<br />1° de leerling is intern, als vermeld in artikel 44, tweede lid;<br />2° de leerling zit in in het eerste of tweede leerjaar van de vierde graad van het secundair onderwijs of in de opleiding verpleegkunde van het hoger beroepsonderwijs; <br />3° de leerling behoort tot een leefeenheid als vermeld in artikel 34, § 1, 3°, 4° en 5°.<br /><br />§ 6. Een leerling of student heeft recht op de minimumtoelage als het referentie-inkomen, vermeld in artikel 35, gelijk is aan de maximuminkomensgrens, vermeld in artikel 43.<br /><br />
+§ 1. Een student heeft recht op een volledige toelage als het referentie-inkomen, vermeld in artikel 35, gelijk is aan of lager is dan de voor zijn leefeenheid in aanmerking te nemen minimuminkomensgrens, vermeld in artikel 43.<br>
+<br>
+§ 2. Een student heeft geen recht op een toelage als het referentie-inkomen, vermeld in artikel 35, hoger is dan de voor zijn leefeenheid in aanmerking te nemen maximuminkomensgrens, vermeld in artikel 43.<br>
+<br>
+§ 3. Als het in aanmerking te nemen referentie-inkomen, vermeld in artikel 35, hoger is dan de mini-muminkomensgrens, vermeld in artikel 43, doch lager is dan de maximuminkomensgrens, vermeld in artikel 43, wordt een toelage verleend waarvan het bedrag gelijk is aan het bedrag van de volledige toelage, vermeld in artikel 49, eerste lid, artikel 50, of artikel 51, § 1, vermenigvuldigd met de coëfficiënt van de formule (maximuminkomensgrens min referentie-inkomen)/(maximuminkomensgrens min minimuminkomensgrens).<br>
+<br>
+§ 4. De student ontvangt een uitzonderlijke toelage als het in aanmerking te nemen referentie-inkomen, vermeld in artikel 35, gelijk is aan of lager is dan een tiende van de maximuminkomensgrens, vermeld in artikel 43, en als hij voldoet aan een van de volgende voorwaarden :<br>
+1° de student valt onder het toepassingsgebied van artikel 34, § 1, 3°, 4° en 5°;<br>
+2° het in aanmerking te nemen referentie-inkomen bestaat voor minstens zeventig procent uit vervangingsinkomsten;<br>
+3° het in aanmerking te nemen referentie-inkomen bestaat voor minstens zeventig procent uit alimentatiegelden;<br>
+4° het in aanmerking te nemen referentie-inkomen bestaat voor minstens zeventig procent uit leefloon, toegekend in het raam van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, of het equivalent van leefloon, toegekend in het raam van de wet van 2 april 1965;<br>
+5° het in aanmerking te nemen referentie-inkomen bestaat voor minstens zeventig procent uit een inkomensvervangende tegemoetkoming, toegekend in het raam van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan gehandicapten.<br>
+<br>
+§ 5. ...<br>
+<br>
+§ 6. Een student heeft recht op de minimumtoelage als het referentie-inkomen, vermeld in artikel 35, gelijk is aan de maximuminkomensgrens, vermeld in artikel 43.<br>
+&nbsp;
 
 ### ART. 40.
 
-In afwijking van artikel 39 heeft een leerling in het kleuteronderwijs recht op een schooltoelage als het referentie-inkomen, vermeld in artikel 35, gelijk is aan of lager is dan de voor zijn leefeenheid in aanmerking te nemen maximuminkomensgrens, vermeld in artikel 43.<br /><br />
+...
 
 ### ART. 41.
 
-§ 1. Bij het vastleggen van de minimum- en maximuminkomensgrens wordt rekening gehouden met de volgende factoren :<br />1° het aantal personen ten laste in de leefeenheid;<br />2° het aantal studenten aanwezig in de leefeenheid die tijdens het school- of academiejaar in kwestie hoger onderwijs volgen;<br />3° het aantal personen aanwezig in de leefeenheid die fiscaal als gehandicapt worden aangemerkt.<br /><br />§ 2. De waarde van elke factor wordt uitgedrukt in punten.<br /><br />
+§ 1. Bij het vastleggen van de minimum- en maximuminkomensgrens wordt rekening gehouden met de volgende factoren :<br>
+1° het aantal personen ten laste in de leefeenheid;<br>
+2° het aantal studenten aanwezig in de leefeenheid die tijdens het&nbsp;academiejaar in kwestie hoger onderwijs volgen;<br>
+3° het aantal personen aanwezig in de leefeenheid die fiscaal als gehandicapt worden aangemerkt.<br>
+<br>
+§ 2. De waarde van elke factor wordt uitgedrukt in punten.<br>
+&nbsp;
 
 ### ART. 42.
 
-§ 1. De volgende personen en categorieën worden voor de berekening van de minimum- en maximuminkomensgrenzen gelijkgesteld met een punt :<br />1° elke persoon in de leefeenheid die fiscaal ten laste is van de persoon of personen van wie het referentie-inkomen voor de berekening van de toelage in aanmerking wordt genomen;<br />2° elke leerling of student in de leefeenheid die niet meer fiscaal ten laste is van de persoon of personen van wie het referentie-inkomen voor de berekening van de toelage in aanmerking wordt genomen omdat hij bestaansmiddelen heeft gehad, op voorwaarde dat hij niet in aanmerking komt voor het statuut van gehuwde, zelfstandige of alleenstaande leerling of student;<br />3° elke persoon van wie het referentie-inkomen voor de berekening van de toelage in aanmerking wordt genomen, en die op 31 december van het school- of academiejaar in kwestie fiscaal als gehandicapt wordt aangemerkt;<br />4° de categorie van leefeenheid die valt onder het toepassingsgebied van artikel 34, § 1, 1°, 2° of 3°.<br />De categorie van leefeenheid die valt onder het toepassingsgebied van artikel 34, § 1, 4° of 5°, levert een punt op, op voorwaarde dat het referentie-inkomen van de zelfstandige, respectievelijk alleenstaande leerling of student in aanmerking genomen kan worden voor de berekening van de toelage van de persoon, vermeld in § 1, 1° of 2°.<br /><br />§ 2. In afwijking van § 1 wordt elke persoon die valt onder § 1, 1° of 2°, en die op 31 december van het school- of academiejaar in kwestie fiscaal als gehandicapt wordt aangemerkt, met twee punten gelijkgesteld.<br /><br />§ 3. Voor elke persoon die valt onder het toepassingsgebied van artikel 42, § 1, 1° of 2°, en die buiten de kandidaat hoger onderwijs volgt tijdens het school- of academiejaar in kwestie, wordt bij de aanvraag van een studietoelage hoger onderwijs één punt bijgeteld en worden bij de aanvraag van een school-toelage zo veel punten bijgeteld als er hogeronder-wijsstudenten aanwezig zijn in de leefeenheid, min een punt.<br /><br />§ 4. Als er in de leefeenheid, vermeld in artikel 34, § 1, waarvan de leerling of student deel uitmaakt tevens één of meerdere niet-verwanten zijn, wordt er voor de berekening van de minimum- en de maximuminkomensgrenzen een punt afgetrokken, tenzij deze niet-verwanten niet beschikken over financiële middelen zoals vermeld in artikel 35, § 1, 1°, 2°, 3°, 4° en 7°. <br /><br />§ 5. In afwijking van de §§ 1 tot en met 4, bedraagt het aantal punten van de leefeenheid waarvan de leerling of student deel uitmaakt nooit minder dan nul.<br /><br />§ 6. ...
+§ 1. De volgende personen en categorieën worden voor de berekening van de minimum- en maximuminkomensgrenzen gelijkgesteld met een punt :<br>
+1° elke persoon in de leefeenheid die fiscaal ten laste is van de persoon of personen van wie het referentie-inkomen voor de berekening van de toelage in aanmerking wordt genomen;<br>
+2° elke student in de leefeenheid die niet meer fiscaal ten laste is van de persoon of personen van wie het referentie-inkomen voor de berekening van de toelage in aanmerking wordt genomen omdat hij bestaansmiddelen heeft gehad, op voorwaarde dat hij niet in aanmerking komt voor het statuut van gehuwde, zelfstandige of alleenstaande student;<br>
+3° elke persoon van wie het referentie-inkomen voor de berekening van de toelage in aanmerking wordt genomen, en die op 31 december van het academiejaar in kwestie fiscaal als gehandicapt wordt aangemerkt;<br>
+4° de categorie van leefeenheid die valt onder het toepassingsgebied van artikel 34, § 1, 1°, 2° of 3°.<br>
+De categorie van leefeenheid die valt onder het toepassingsgebied van artikel 34, § 1, 4° of 5°, levert een punt op, op voorwaarde dat het referentie-inkomen van de zelfstandige, respectievelijk alleenstaande student in aanmerking genomen kan worden voor de berekening van de toelage van de persoon, vermeld in § 1, 1° of 2°.<br>
+<br>
+§ 2. In afwijking van § 1 wordt elke persoon die valt onder § 1, 1° of 2°, en die op 31 december van het academiejaar in kwestie fiscaal als gehandicapt wordt aangemerkt, met twee punten gelijkgesteld.<br>
+<br>
+§ 3. Voor elke persoon die valt onder het toepassingsgebied van artikel 42, § 1, 1° of 2°, en die buiten de kandidaat hoger onderwijs volgt tijdens het academiejaar in kwestie, wordt bij de aanvraag van een studietoelage hoger onderwijs één punt bijgeteld en worden bij de aanvraag van een schooltoelage zo veel punten bijgeteld als er hogeronderwijsstudenten aanwezig zijn in de leefeenheid, min een punt.<br>
+<br>
+§ 4. Als er in de leefeenheid, vermeld in artikel 34, § 1, waarvan de student deel uitmaakt tevens één of meerdere niet-verwanten zijn, wordt er voor de berekening van de minimum- en de maximuminkomensgrenzen een punt afgetrokken, tenzij deze niet-verwanten niet beschikken over financiële middelen zoals vermeld in artikel 35, § 1, 1°, 2°, 3°, 4° en 7°.<br>
+<br>
+§ 5. In afwijking van de §§ 1 tot en met 4, bedraagt het aantal punten van de leefeenheid waarvan de student deel uitmaakt nooit minder dan nul.<br>
+<br>
+§ 6. ...
 
 ### ART. 43.
 
@@ -369,7 +486,15 @@ In afwijking van artikel 39 heeft een leerling in het kleuteronderwijs recht op 
 
 ### ART. 44.
 
-Voor de berekening van het bedrag van de toelage in het voltijds secundair en hoger onderwijs wordt er een onderscheid gemaakt naargelang de leerling of student al dan niet in een internaat of op kamers verblijft.<br /><br />De volgende leerlingen worden beschouwd als interne leerlingen :<br />1° de leerling die gedurende het schooljaar in kwestie minstens vijf maanden verblijft in een door de Vlaamse Gemeenschap gefinancierd of gesubsidieerd internaat;<br />2° de leerling die gedurende het schooljaar in kwestie een huurovereenkomst heeft gesloten voor minstens vijf maanden met betrekking tot een woonst die zich op een ander adres dan zijn hoofdverblijfplaats bevindt;<br />3° de leerling die in het buitenland een opleiding volgt;<br />4° de gehuwde, zelfstandige of alleenstaande leerling.<br /><br />De volgende studenten worden beschouwd als kotstudenten :<br />1° de student die zich overeenkomstig zijn diplomacontract heeft ingeschreven voor respectievelijk een volledig academiejaar of een semester en die een huurovereenkomst heeft gesloten voor respectievelijk minstens acht of vier maanden met betrekking tot een woonst die zich op een ander adres dan zijn hoofdverblijfplaats bevindt;<br />2° de student die een opleiding volgt in het buitenland;<br />3° de gehuwde, zelfstandige of alleenstaande student.<br /><br />De student die zich overeenkomstig zijn diplomacontract heeft ingeschreven voor een periode die korter is dan een semester, wordt beschouwd als niet-kotstudent.<br /><br />
+Voor de berekening van het bedrag van de toelage in het hoger onderwijs wordt er een onderscheid gemaakt naargelang de student al dan niet op kamers verblijft.<br>
+<br>
+De volgende studenten worden beschouwd als kotstudenten :<br>
+1° de student die zich overeenkomstig zijn diplomacontract heeft ingeschreven voor respectievelijk een volledig academiejaar of een semester en die een huurovereenkomst heeft gesloten voor respectievelijk minstens acht of vier maanden met betrekking tot een woonst die zich op een ander adres dan zijn hoofdverblijfplaats bevindt;<br>
+2° de student die een opleiding volgt in het buitenland;<br>
+3° de gehuwde, zelfstandige of alleenstaande student.<br>
+<br>
+De student die zich overeenkomstig zijn diplomacontract heeft ingeschreven voor een periode die korter is dan een semester, wordt beschouwd als niet-kotstudent.<br>
+&nbsp;
 
 ### ART. 45.
 
@@ -377,27 +502,33 @@ Het bedrag van de toelage is afhankelijk van het door de betrokkene gevolgde ond
 
 ### ART. 46.
 
-De bedragen, vermeld in artikelen 43, 48, 49, 50 en 51, worden jaarlijks voor de aanvang van het school- of academiejaar geïndexeerd op basis van het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br /><br />De Vlaamse Regering bepaalt de wijze waarop die indexering wordt toegepast.<br /><br />De Vlaamse Regering onderzoekt minstens om de vijf jaar of de werkelijke kosten voor het onderhoud van de leerling en de student en het door hem gevolgde onderwijs aansluiten bij de uitgekeerde bedragen van de toelagen.<br /><br />
+De bedragen, vermeld in artikelen 43 en 51, worden jaarlijks voor de aanvang van het academiejaar geïndexeerd op basis van het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop die indexering wordt toegepast.<br>
+<br>
+De Vlaamse Regering onderzoekt minstens om de vijf jaar of de werkelijke kosten voor het onderhoud van de student en het door hem gevolgde onderwijs aansluiten bij de uitgekeerde bedragen van de toelagen.<br>
+&nbsp;
 
 ### ART. 47.
 
-Alle bedragen inzake inkomensgrenzen en toelagebedragen gelden voor een volledig school- of academiejaar, ongeacht het ogenblik waarop de betrokkene zijn aanvraag indient.<br /><br />
+Alle bedragen inzake inkomensgrenzen en toelagebedragen gelden voor een volledig academiejaar, ongeacht het ogenblik waarop de betrokkene zijn aanvraag indient.<br>
+&nbsp;
 
 ## Afdeling II [... (opgeh. decr. 22 maart 2019, art. 27, I: 1 september 2019)]
 
 ### ART. 48.
 
-Voor leerlingen in het kleuteronderwijs bedraagt de schooltoelage 80 euro.<br /><br />
+...
 
 ### ART. 49.
 
-§ 1. Voor leerlingen in het lager onderwijs bedraagt een volledige schooltoelage 135 euro.<br />De uitzonderlijke schooltoelage bedraagt voor leerlingen in het lager onderwijs 180 euro.<br />De minimumschooltoelage bedraagt 90 euro.<br /><br />§ 2. Het uiteindelijke bedrag van de schooltoelage wordt afgerond tot twee cijfers na de komma.
+...
 
 ## Afdeling III [... (opgeh. decr. 22 maart 2019, art. 27, I: 1 september 2019)]
 
 ### ART. 50.
 
-§ 1. Bij de berekening van het bedrag van de toelage in het voltijds secundair onderwijs wordt eerst nagegaan of de leerling in het eerste of tweede leerjaar van de vierde graad van het secundair onderwijs of in de opleiding verpleegkunde van het hoger beroepsonderwijs zit, zo niet of hij voldoet aan de voorwaarden voor de categorie van gehuwde, zelfstandige of alleenstaande leerling, vermeld in artikel 34, zo niet of de leerling in het derde leerjaar van de derde graad van het technisch secundair onderwijs of beroepsonderwijs zit.<br /><br />§ 2. Voor leerlingen in het eerste of tweede leerjaar van de vierde graad van het secundair onderwijs of in de opleiding verpleegkunde van het hoger beroepsonderwijs bedraagt de volledige schooltoelage :<br />1° 2683,03 euro voor interne leerlingen;<br />2° 714,32 euro voor externe leerlingen.<br /><br />De minimumschooltoelage voor externe en interne leerlingen bedraagt 595,10 euro.<br /><br />§ 3. Voor gehuwde, zelfstandige en alleenstaande leerlingen in het voltijds secundair onderwijs is het bedrag van de volledige toelage gelijk aan 2475,54 euro.<br /><br />De minimumschooltoelage bedraagt 493,83 euro.<br /><br />§ 4. Voor leerlingen in het derde leerjaar van de derde graad van het voltijds technisch secundair onderwijs en voltijds beroepssecundair onderwijs bedraagt de volledige schooltoelage :<br />1° 1187,49 euro voor interne leerlingen;<br />2° 595,67 euro voor externe leerlingen.<br /><br />De uitzonderlijke toelage bedraagt 753,23 euro.<br /><br />De minimumschooltoelage bedraagt :<br />1° 493,83 euro voor interne leerlingen;<br />2° 134,51 euro voor externe leerlingen.<br /><br />§ 5. Voor andere leerlingen in het voltijds secundair onderwijs dan de leerlingen vermeld in § 2 tot en met § 4, bedraagt de volledige schooltoelage :<br />1° 989,57 euro voor interne leerlingen;<br />2° 496,39 euro voor externe leerlingen.<br /><br />De uitzonderlijke toelage bedraagt 627,70 euro.<br /><br />De minimumschooltoelage bedraagt :<br />1° 411,52 euro voor interne leerlingen;<br />2° 112,09 euro voor externe leerlingen.<br /><br />§ 6. Voor leerlingen in het deeltijds leerplichtonderwijs, bedraagt de volledige schooltoelage 282,85 euro.<br /><br />De uitzonderlijke toelage bedraagt 392,85 euro.<br /><br />De minimumschooltoelage bedraagt 94,28 euro.<br /><br />§ 7. Het uiteindelijke bedrag van de schooltoelage wordt afgerond tot twee cijfers na de komma.
+...
 
 ## Afdeling IV Studietoelage hoger onderwijs
 
@@ -417,17 +548,22 @@ Voor leerlingen in het kleuteronderwijs bedraagt de schooltoelage 80 euro.<br />
 
 ### ART. 53.
 
-De aanvraag voor een toelage wordt door de aanvrager bij de&nbsp;afdeling   Studietoelagen&nbsp;ingediend vanaf 1 augustus en uiterlijk op 1 juni van het   school- of academiejaar in kwestie.<BR><BR>De aanvraag die wordt ingediend na 1   juni van het school- of academiejaar in kwestie wordt niet meer   behandeld.<BR><BR>De Vlaamse Regering bepaalt de wijze waarop de aanvraag voor   een toelage moet worden ingediend.<BR><BR>
+De aanvraag voor een toelage wordt door de aanvrager bij de&nbsp;afdeling Studietoelagen&nbsp;ingediend vanaf 1 augustus en uiterlijk op 1 juni van het academiejaar in kwestie.<br>
+<br>
+De aanvraag die wordt ingediend na 1 juni van het academiejaar in kwestie wordt niet meer behandeld.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop de aanvraag voor een toelage moet worden ingediend.<br>
+&nbsp;
 
 ### ART. 53/1.
 
-Voor de leerling of student die het voorgaande school- of academiejaar in aanmerking kwam voor een school- of studietoelage en waarvoor tijdens het lopende school- of academiejaar geen aanvraag werd ingediend, zal de afdeling Studietoelagen zelf het recht op een school- of studietoelage onderzoeken.<br>
+Voor de student die het voorgaande academiejaar in aanmerking kwam voor een school- of studietoelage en waarvoor tijdens het lopende academiejaar geen aanvraag werd ingediend, zal de afdeling Studietoelagen zelf het recht op een studietoelage onderzoeken.<br>
 <br>
-De afdeling Studietoelagen bepaalt de datum waarop het onderzoek, vermeld in het eerste lid, start. Het onderzoek kan ten vroegste op 1&nbsp;augustus en uiterlijk op 1 meii van het lopende school- of academiejaar starten.<br>
+De afdeling Studietoelagen bepaalt de datum waarop het onderzoek, vermeld in het eerste lid, start. Het onderzoek kan ten vroegste op 1&nbsp;augustus en uiterlijk op 1 meii van het lopende academiejaar starten.<br>
 <br>
-De afdeling Studietoelagen zal de start van het onderzoek melden aan de wettelijke vertegenwoordiger van de leerling of de student.<br>
+De afdeling Studietoelagen zal de start van het onderzoek melden aan de wettelijke vertegenwoordiger van de student.<br>
 <br>
-In afwijking van het eerste lid zal de afdeling Studietoelagen het onderzoek niet starten indien de wettelijke vertegenwoordiger van de leerling of de student dit weigert.<br>
+In afwijking van het eerste lid zal de afdeling Studietoelagen het onderzoek niet starten indien de wettelijke vertegenwoordiger van de student dit weigert.<br>
 <br>
 De wettelijke vertegenwoordiger van de leerling of de student reageert uiterlijk op 1 juni van het lopende schooljaar op de melding van de start van het onderzoek.
 
@@ -437,22 +573,27 @@ De Vlaamse Regering bepaalt de modaliteiten van het onderzoek naar het   recht o
 
 ### ART. 54.
 
-Als een dossier voor de aanvraag van een toelage onvolledig werd   ingediend, moeten de door de afdeling Studietoelagen gevraagde documenten op   straffe van afsluiting zonder gevolg uiterlijk 31 december van het kalenderjaar   waarin het school- of academiejaar in kwestie eindigt aan de&nbsp;afdeling   Studietoelagen&nbsp; worden bezorgd, tenzij :<BR>1° de in aanmerking te nemen   inkomsten nog niet werden nagezien door de Federale Overheidsdienst   Financiën;<BR>2° een bezwaarschrift of een verzoekschrift tot ambtshalve   ontheffing van belasting werd ingediend overeenkomstig artikel 366 tot en met   376 van het Wetboek van Inkomstenbelastingen, of een vordering voor de rechtbank   werd ingeleid;<BR>3° het een aanvraag betreft waarin de aanvrager deel uitmaakt   van of aangeeft deel uit te maken van de leefeenheid, vermeld in artikel 34, §   1, 3°. In dit geval moeten de door de&nbsp;afdeling   Studietoelagen&nbsp;gevraagde documenten op straffe van uitsluiting zonder   gevolg uiterlijk 31 december van het kalenderjaar dat volgt op het einde van het   school- of academiejaar in kwestie aan de&nbsp;afdeling   Studietoelagen&nbsp;worden bezorgd.<BR><BR>In geval van de uitzonderingen,   vermeld in het eerste lid, 1° en 2°, moeten de door de federale overheidsdienst   Financiën in het kader van lid 1, nageziene inkomsten worden overgemaakt aan   de&nbsp;afdeling Studietoelagen&nbsp;uiterlijk zes maanden na het verkrijgen   ervan.
+Als een dossier voor de aanvraag van een toelage onvolledig werd ingediend, moeten de door de afdeling Studietoelagen gevraagde documenten op straffe van afsluiting zonder gevolg uiterlijk 31 december van het kalenderjaar waarin het academiejaar in kwestie eindigt aan de&nbsp;afdeling Studietoelagen&nbsp; worden bezorgd, tenzij :<br>
+1° de in aanmerking te nemen inkomsten nog niet werden nagezien door de Federale Overheidsdienst Financiën;<br>
+2° een bezwaarschrift of een verzoekschrift tot ambtshalve ontheffing van belasting werd ingediend overeenkomstig artikel 366 tot en met 376 van het Wetboek van Inkomstenbelastingen, of een vordering voor de rechtbank werd ingeleid;<br>
+3° het een aanvraag betreft waarin de aanvrager deel uitmaakt van of aangeeft deel uit te maken van de leefeenheid, vermeld in artikel 34, § 1, 3°. In dit geval moeten de door de&nbsp;afdeling Studietoelagen&nbsp;gevraagde documenten op straffe van uitsluiting zonder gevolg uiterlijk 31 december van het kalenderjaar dat volgt op het einde van het academiejaar in kwestie aan de&nbsp;afdeling Studietoelagen&nbsp;worden bezorgd.<br>
+<br>
+In geval van de uitzonderingen, vermeld in het eerste lid, 1° en 2°, moeten de door de federale overheidsdienst Financiën in het kader van lid 1, nageziene inkomsten worden overgemaakt aan de&nbsp;afdeling Studietoelagen&nbsp;uiterlijk zes maanden na het verkrijgen ervan.
 
 ### ART. 55.
 
-De toelage wordt op zijn vroegst uitbetaald vanaf de laatste maandag van augustus van het school- of academiejaar in kwestie.<br>
+De toelage wordt op zijn vroegst uitbetaald vanaf de laatste maandag van augustus van het academiejaar in kwestie.<br>
 &nbsp;
 
 ## Afdeling II [... (opgeh. decr. 22 maart 2019, art. 32, I: 1 september 2019)]
 
 ### ART. 56.
 
-De toelage wordt uitbetaald op een rekening van de wettelijke   vertegenwoordiger van de betrokken leerling bij wie de betrokken leerling op 31   december van het schooljaar in kwestie zijn hoofdverblijfplaats heeft, tenzij   een meerderjarige leerling voorafgaand aan de uitbetaling van de toelage   de&nbsp;afdeling Studietoelagen&nbsp;verzoekt de toelage uit te betalen op een   andere rekening.<BR><BR>De Vlaamse Regering kan gevallen bepalen waarin ter   bescherming van de financiële belangen van de leerling kan worden afgeweken van   het eerste lid.<BR><BR>
+...
 
 ### ART. 56/1.
 
-Als een voorschot op de studietoelage door een OCMW werd betaald aan de   leerling, wordt dat bedrag op verzoek van het OCMW door de afdeling   Studietoelagen terugbetaald aan het OCMW, voor zover de leerling recht heeft op   een studietoelage.<BR><BR>Dat bedrag kan, ongeacht het voorschot, nooit hoger   zijn dan de studietoelage waarop de leerling recht heeft.<BR><BR>Het eventuele   positieve saldo ten voordele van de leerling wordt rechtstreeks aan de   wettelijke vertegenwoordiger van de leerling die in de loop van het betrokken   school- of academiejaar nog niet meerderjarig zal zijn, bij wie de betrokken   leerling op 31 december van het schooljaar in kwestie zijn hoofdverblijfplaats   heeft uitbetaald of rechtstreeks aan de meerderjarige leerling.<BR><BR>Een OCMW   kan de afdeling Studietoelagen verzoeken om het eerste lid tot en met het derde   lid met betrekking tot de door haar betaalde voorschotten niet toe te   passen.
+...
 
 ## Afdeling III Studietoelage hoger onderwijs
 
@@ -468,11 +609,18 @@ Als een voorschot op de studietoelage door een studentenvoorziening of   OCMW we
 
 ### ART. 59.
 
-Als zich met betrekking tot de nationaliteitsvoorwaarde, de pedagogische   voorwaarden of de financiële voorwaarden, vermeld in dit decreet, wijzigingen   voordoen, kan de aanvrager tot zes maanden na de kennisname van de nieuwe feiten   vragen aan de&nbsp;afdeling Studietoelagen&nbsp;om zijn dossier te   herzien.<BR><BR>De vraag tot herziening van een dossier, vermeld in het eerste   lid, kan alleen betrekking hebben op het school- of academiejaar waarin de vraag   gesteld werd, alsook op de vier school- of academiejaren die eraan voorafgaan.
+Als zich met betrekking tot de nationaliteitsvoorwaarde, de pedagogische voorwaarden of de financiële voorwaarden, vermeld in dit decreet, wijzigingen voordoen, kan de aanvrager tot zes maanden na de kennisname van de nieuwe feiten vragen aan de&nbsp;afdeling Studietoelagen&nbsp;om zijn dossier te herzien.<br>
+<br>
+De vraag tot herziening van een dossier, vermeld in het eerste lid, kan alleen betrekking hebben op het academiejaar waarin de vraag gesteld werd, alsook op de vier academiejaren die eraan voorafgaan.
 
 ### ART. 60.
 
-In de volgende gevallen herziet de&nbsp;afdeling Studietoelagen&nbsp;het   dossier op eigen initiatief :<BR>1° als de toelage onjuist werd berekend, al dan   niet op basis van bedrieglijke handelingen, valse verklaringen of willens en   wetens onvolledige verklaringen;<BR>2° als de toelage werd berekend op basis van   een inkomen dat nog niet nagezien werd door de Federale Overheidsdienst   Financiën en als nadien blijkt dat het vermoedelijke inkomen verschillend is van   het nageziene inkomen;<BR>3° na de kennisneming van feiten waaruit blijkt dat   een van de voorwaarden voor toekenning van een toelage niet was   vervuld.<BR><BR>De herziening van een dossier kan alleen betrekking hebben op   het school- of academiejaar waarin de&nbsp;afdeling Studietoelagen&nbsp;tot   herziening beslist, alsook op de vier school- of academiejaren die eraan   voorafgaan.
+In de volgende gevallen herziet de&nbsp;afdeling Studietoelagen&nbsp;het dossier op eigen initiatief :<br>
+1° als de toelage onjuist werd berekend, al dan niet op basis van bedrieglijke handelingen, valse verklaringen of willens en wetens onvolledige verklaringen;<br>
+2° als de toelage werd berekend op basis van een inkomen dat nog niet nagezien werd door de Federale Overheidsdienst Financiën en als nadien blijkt dat het vermoedelijke inkomen verschillend is van het nageziene inkomen;<br>
+3° na de kennisneming van feiten waaruit blijkt dat een van de voorwaarden voor toekenning van een toelage niet was vervuld.<br>
+<br>
+De herziening van een dossier kan alleen betrekking hebben op het academiejaar waarin de&nbsp;afdeling Studietoelagen&nbsp;tot herziening beslist, alsook op de vier academiejaren die eraan voorafgaan.
 
 ### ART. 61.
 
@@ -502,11 +650,11 @@ De Vlaamse Regering bepaalt de voorwaarden voor de terug te vorderen sommen en d
 
 ### ART. 66.
 
-In geval van uitschrijving in het lager onderwijs, het secundair onderwijs of in het deeltijds leerplichtonderwijs, wordt de toelage integraal teruggevorderd als de betrokken leerling uiterlijk vijftien kalenderdagen na de datum van uitschrijving niet opnieuw is ingeschreven in het lager onderwijs, het secundair onderwijs of in het deeltijds leerplichtonderwijs, zoals bedoeld in artikel 10 en artikel 15, §§ 1 en 2.<br /><br />
+...
 
 ### ART. 66/1.
 
-In afwijking van artikel 66, behoudt de leerling in het secundair onderwijs die op 30 juni van het schooljaar in kwestie niet langer ingeschreven is zijn toelage, op voorwaarde dat de leerling in de loop van dat schooljaar zijn opleiding reeds voltooid had.
+...
 
 ## Afdeling III Studietoelage hoger onderwijs
 
@@ -518,7 +666,17 @@ Indien de student zijn aantal opgenomen studiepunten in de loop van het academie
 
 ### ART. 68.
 
-Een georganiseerd beroep kan worden ingediend bij de&nbsp;afdeling   Studietoelagen&nbsp;door :<BR>1° de aanvrager die niet akkoord gaat met een   negatieve beslissing over zijn aanvraag voor een toelage;<BR>2° de aanvrager die   vindt dat het bedrag van de toegekende toelage onjuist berekend is;<BR>3° de   aanvrager die niet akkoord gaat met een terugvordering als vermeld in artikelen   62, 65 en 66.<BR><BR>Het beroep wordt aangetekend ingediend binnen een termijn   van zestig kalenderdagen die ingaat op de dag na de dag waarop het definitieve   bedrag of de weigering van de toelage meegedeeld is, en moet juridische en   feitelijke argumenten vermelden die de betrokkene aanvoert tot staving van zijn   aanspraak.<BR><BR>Beroepen worden beantwoord binnen vijfenveertig kalenderdagen   na de ontvangst ervan door de afdeling Studietoelagen.<BR><BR>In afwijking van   artikel 34, § 5, wordt het inkomen van de oudergerelateerde leefeenheid, vermeld   in artikel 34, § 1, 1° en 2°, in de beroepsbeslissing van de afdeling   Studietoelagen meegedeeld aan de aanvrager die bij zijn aanvraag heeft   aangegeven dat hij behoort tot een leefeenheid als vermeld in artikel 34, § 1,   3°, 4° of 5°, doch met toepassing van artikel 34, § 4, berekend werd op basis   van het inkomen van de leefeenheden vermeld, in artikel 34, § 1, 1° en   2°.<BR><BR>
+Een georganiseerd beroep kan worden ingediend bij de&nbsp;afdeling Studietoelagen&nbsp;door :<br>
+1° de aanvrager die niet akkoord gaat met een negatieve beslissing over zijn aanvraag voor een toelage;<br>
+2° de aanvrager die vindt dat het bedrag van de toegekende toelage onjuist berekend is;<br>
+3° de aanvrager die niet akkoord gaat met een terugvordering als vermeld in artikel 62.<br>
+<br>
+Het beroep wordt aangetekend ingediend binnen een termijn van zestig kalenderdagen die ingaat op de dag na de dag waarop het definitieve bedrag of de weigering van de toelage meegedeeld is, en moet juridische en feitelijke argumenten vermelden die de betrokkene aanvoert tot staving van zijn aanspraak.<br>
+<br>
+Beroepen worden beantwoord binnen vijfenveertig kalenderdagen na de ontvangst ervan door de afdeling Studietoelagen.<br>
+<br>
+In afwijking van artikel 34, § 5, wordt het inkomen van de oudergerelateerde leefeenheid, vermeld in artikel 34, § 1, 1° en 2°, in de beroepsbeslissing van de afdeling Studietoelagen meegedeeld aan de aanvrager die bij zijn aanvraag heeft aangegeven dat hij behoort tot een leefeenheid als vermeld in artikel 34, § 1, 3°, 4° of 5°, doch met toepassing van artikel 34, § 4, berekend werd op basis van het inkomen van de leefeenheden vermeld, in artikel 34, § 1, 1° en 2°.<br>
+&nbsp;
 
 ## TITEL VI Algemene overgangsbepalingen
 
@@ -540,9 +698,7 @@ d) elke voltooide opleiding die bekroond werd met een diploma van de eerste cycl
 a) elke voltooide masteropleiding die bekroond werd met een diploma;<br>
 b) elke voltooide opleiding die bekroond werd met een diploma van de tweede cyclus van het hogeschoolonderwijs van twee cycli;<br>
 c) elke voltooide opleiding die bekroond werd met een diploma van de tweede cyclus van het academisch onderwijs;<br>
-3° met een diploma voor de specifieke lerarenopleiding, zoals bedoeld in artikel 21, § 1, worden de volgende diploma's en voltooide opleidingen gelijkgesteld :<br>
-a) elke voltooide specifieke lerarenopleiding;<br>
-b) elke voltooide lerarenopleiding als vervolgopleiding, bekroond met een diploma voor geaggregeerde voor secundair onderwijs groep 2 of 3;<br>
+3° ...;<br>
 4° de student die voor de inwerkingtreding van dit decreet een voorbereidingsprogramma, respectievelijk een schakelprogramma heeft voltooid, komt niet langer in aanmerking voor een studietoelage voor het volgen van een voorbereidingsprogramma, respectievelijk een schakelprogramma.<br>
 <br>
 § 2. Het jokerkrediet, zoals bedoeld in artikel 26, § 2, wordt verminderd met :<br>
@@ -590,7 +746,7 @@ In artikel 73, 1°, 3° en 7°, van hetzelfde decreet wordt het woord "studiefin
 
 ### ART. 74.
 
-Als een persoon in hetzelfde school- of academiejaar tegelijk voldoet aan de voorwaarden voor een school- en een studietoelage, heeft hij enkel recht op de hoogste toelage.<br /><br />
+...
 
 ## BOEK IV Opheffingsbepalingen
 
