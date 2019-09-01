@@ -2,16 +2,16 @@
   "codex_id": 1031925,
   "title": "Besluit van de Vlaamse Regering van 2019-04-26 tot uitvoering van diverse bepalingen van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid wat betreft de participatieorganisatie en de oriëntering van anderstaligen naar het meest gepaste aanbod NT2, en tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 29 januari 2016 houdende de uitvoering van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031925/VolledigDocument?datum=2019-07-29",
-  "source_sha256": "0d64f327a22a182957b3de9c3f3276105665fefbb97f6e570f5047a9032f6ba7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031925/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "a414911b96a0998988777de7c46867b6c77f70a6803118efd136ebc34b83cb31",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031925&param=informatie",
-  "as_of": "2019-07-29",
+  "as_of": "2019-09-01",
   "made": "2019-04-26",
   "gazette": "2019-07-19",
   "numac": 2019041259,
   "document_start": "2019-07-29",
   "document_end": null,
-  "in_force": "2019-07-29",
-  "article_versions": 23,
-  "record_form": "consolidated version as in force on 2019-07-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-09-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
 }
