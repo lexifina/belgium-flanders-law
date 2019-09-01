@@ -21,11 +21,15 @@ Dit hoofdstuk is van toepassing op de personeelsleden, vermeld in artikel 2 van 
 
 ### ART 2.
 
-In een academie van het deeltijds kunstonderwijs, als vermeld in artikel 3, 1°, van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs, kan op 1 september 2018 een individuele concordantie, als vermeld in artikel 56quater, § 1, van het decreet rechtspositie gemeenschapsonderwijs van 27 maart 1991 en artikel 74quinquies, § 1, van het decreet rechtspositie gesubsidieerd onderwijs van 27 maart 1991 toegekend worden.<br>
+§ 1. In een academie van het deeltijds kunstonderwijs, als vermeld in artikel 3, 1°, van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs, kan op 1 september 2018 een individuele concordantie, als vermeld in artikel 56quater, § 1, van het decreet rechtspositie gemeenschapsonderwijs van 27 maart 1991 en artikel 74quinquies, § 1, van het decreet rechtspositie gesubsidieerd onderwijs van 27 maart 1991 toegekend worden.<br>
 <br>
 Die individuele concordantie, vermeld in het eerste lid, kan toegekend worden aan de personeelsleden, die in het ambt van leraar aangesteld zijn in een vak waarvoor ze aan een van de volgende voorwaarden voldoen:<br>
 1° uiterlijk op 31 augustus 2018 vastbenoemd zijn;<br>
-2° tijdelijk aangesteld geweest zijn of tijdelijk belast geweest zijn met een opdracht tijdens de schooljaren 2015-2016, 2016-2017 en 2017-2018.
+2° tijdelijk aangesteld geweest zijn of tijdelijk belast geweest zijn met een opdracht tijdens de schooljaren 2015-2016, 2016-2017 en 2017-2018.<br>
+<br>
+§ 2. Ook op 1 september 2019 kan in een academie van het deeltijds kunstonderwijs een individuele concordantie toegekend worden. Die individuele concordantie kan toegekend worden aan de personeelsleden, die in het ambt van leraar aangesteld zijn in hetzij het kunstvak atelier musical/muziektheater, hetzij het kunstvak groepsmusiceren vocaal musical/muziektheater, hetzij het kunstvak zang musical/muziektheater, hetzij het algemeen vak muziekgeschiedenis: musical/muziektheater, hetzij het algemeen vak muziekcultuur: musical/muziektheater en aan een van de volgende voorwaarden voldoen:<br>
+1° uiterlijk op 31 augustus 2019 vastbenoemd zijn in een van de hierboven vermelde vakken;<br>
+2° tijdelijk aangesteld geweest zijn of tijdelijk belast geweest zijn met een opdracht in een van de hierboven vermelde vakken tijdens het schooljaar 2018-2019.
 
 ### ART 3.
 
@@ -45,13 +49,13 @@ Voor een individuele concordantie, als vermeld in artikel 2, geldt het volgende:
 
 ### ART 4.
 
-Het individueel ondertekende concordantieformulier moet uiterlijk op 15 september 2018 ingediend worden bij het Agentschap voor Onderwijsdiensten.
+In het geval van een individuele concordantie, als vermeld in artikel 2, § 1 moet het individueel ondertekende concordantieformulier uiterlijk op 15 september 2018 ingediend worden bij het Agentschap voor Onderwijsdiensten. In het geval van een individuele concordantie, als vermeld in artikel 2, § 2 moet het individueel ondertekende concordantieformulier uiterlijk op 15 september 2019 ingediend worden bij het Agentschap voor Onderwijsdiensten.
 
 ### ART 5.
 
 § 1. Als het personeelslid en de inrichtende macht niet tot een akkoord komen, kan het personeelslid het bezwaarschrift, vermeld in artikel 56quater, § 3, van het decreet rechtspositie gemeenschapsonderwijs van 27 maart 1991 en artikel 74quinquies, § 3, van het decreet rechtspositie gesubsidieerd onderwijs van 27 maart 1991, indienen bij de Commissie Bezwaarschriften, vermeld in paragraaf 2, uiterlijk tien kalenderdagen nadat de beslissing hem werd meegedeeld.<br>
 <br>
-Als de inrichtende macht nagelaten heeft een beslissing te nemen, kan het personeelslid tot uiterlijk 5 oktober 2018 een gemotiveerd bezwaarschrift indienen.<br>
+Als de inrichtende macht nagelaten heeft een beslissing te nemen, kan het personeelslid tot uiterlijk 5 oktober 2018 een gemotiveerd bezwaarschrift indienen, wanneer het een individuele concordantie betreft, als vermeld in artikel 2, § 1. Als het een individuele concordantie betreft, als vermeld in artikel 2, § 2, kan het personeelslid dat tot uiterlijk 5 oktober 2019 doen.<br>
 <br>
 § 2. De Commissie Bezwaarschriften bestaat uit de administrateur-generaal van het Agentschap voor Onderwijsdiensten of zijn afgevaardigde, en uit een bevoegde inspecteur. De Commissie Bezwaarschriften beslist collegiaal binnen de dertig kalenderdagen nadat het bezwaarschrift bij de Commissie ingediend werd.
 
@@ -84,7 +88,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/01_1.pdf#page=113">Bijlage 1</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/20_1.pdf#page=1168">Bijlage 1</a>
 
 ### BIJLAGE
 
