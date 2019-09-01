@@ -179,17 +179,17 @@ De minister kan, in het kader van de opvolging en de uitoefening van het toezich
 
 ### ART. 21.
 
-Er worden twee gemeenschapsinstellingen opgericht :<br />1° de gemeenschapsinstelling voor bijzondere jeugdbijstand De Kempen met zetel in Mol, samengesteld uit de gemeenschapsinstelling voor bijzondere jeugdbijstand De Hutten en de gemeenschapsinstelling voor bijzondere jeugdbijstand De Markt;<br />2° de gemeenschapsinstelling voor bijzondere jeugdbijstand De Zande met zetel in Ruiselede, samengesteld uit de gemeenschapsinstelling voor bijzondere jeugdbijstand Ruiselede en de gemeenschapsinstelling voor bijzondere jeugdbijstand Beernem.<br /><br />
+...
 
 ## TITEL II Capaciteit
 
 ### ART. 22.
 
-De maximumcapaciteit van de gemeenschapsinstellingen wordt vastgesteld als   volgt :<BR>1° de gemeenschapsinstelling De Kempen in Mol :<BR>a) 40 gesloten   plaatsen voor jongens in de opvoedingsafdeling De Hutten;<BR>b) 72 open plaatsen   voor jongens in de opvoedingsafdeling De Markt;<BR>c) 10 gesloten plaatsen voor   meisjes in de opvoedingsafdeling De Markt;<BR>2° de gemeenschapsinstelling De   Zande :<BR>a) 54 open plaatsen en 26 gesloten plaatsen voor jongens in de   opvoedingsafdeling in Ruiselede;<BR>b) 36 gesloten plaatsen en 10 open plaatsen   voor meisjes in de opvoedingsafdeling in Beernem.<BR><BR>
+...
 
 ### ART. 23.
 
-Binnen de maximumcapaciteit, vermeld in artikel 22, wordt een buffercapaciteit georganiseerd die voorbehouden wordt om bij voorkeur de maatregelen van opvang in een gesloten opvoedingsafdeling door de jeugdrechter of de jeugdrechtbank, uitgesproken ten aanzien van personen tot de leeftijd van maximaal twintig jaar die een als misdrijf omschreven feit hebben gepleegd, uit te voeren.<br /><br />Voor het efficiënte gebruik van die buffercapaciteit bepaalt de minister op basis van de noodwendigheden, het aantal plaatsen dat als buffercapaciteit wordt gehanteerd.<br />Voor toewijzing van een minderjarige aan een eenheid van de buffercapaciteit moet aan volgende voorwaarden zijn voldaan :<br />1° de persoon is ouder dan twaalf jaar op het ogenblik van het plegen van het als misdrijf omschreven feit en er bestaan voldoende ernstige aanwijzingen van schuld;<br />2° het als misdrijf omschreven feit waarvoor hij vervolgd wordt kan, mocht hij meerderjarig zijn, in de zin van het Strafwetboek of de bijzondere wetten, een straf tot gevolg hebben van :<br />a) opsluiting van vijf jaar tot tien jaar of een zwaardere straf, of<br />b) een correctionele hoofdgevangenisstraf van een jaar of een zwaardere straf indien de jeugdrechtbank tegenover hem een definitieve maatregel heeft genomen als gevolg van een als misdrijf omschreven feit dat strafbaar is met dezelfde straf.<br />3° er bestaan dringende, ernstige en uitzonderlijke omstandigheden die betrekking hebben op de vereisten van bescherming van de openbare veiligheid.<br /><br />
+...
 
 ## BOEK IV VRIJWILLIGE JEUGDBIJSTAND
 
