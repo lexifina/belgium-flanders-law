@@ -46,6 +46,14 @@ Aan bijlage V bij het besluit van de Vlaamse Regering van 1 september 2006 betre
 	</tbody>
 </table>
 
+### ART 3.
+
+In het besluit van de Vlaamse Regering van 23 april 2010 betreffende de bekwaamheidsbewijzen en de salarisschalen voor de personeelsleden van de centra voor volwassenenonderwijs, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 22 december 2017, worden een artikel 20/2 en 20/3 ingevoegd, die luiden als volgt :<br>
+<br>
+"Art. 20/2. De directeurs die, hetzij uiterlijk op 31 augustus 2019 vastbenoemd zijn in een centrum voor volwassenenonderwijs waar ofwel hbo5 ofwel de specifieke lerarenopleiding op 31 augustus 2019 ingericht wordt, hetzij in de loop van de schooljaren 2016-2017, 2017-2018 of 2018-2019 tijdelijk aangesteld waren in een centrum voor volwassenenonderwijs waar ofwel hbo5 ofwel de specifieke lerarenopleiding op 31 augustus 2019 ingericht wordt, behouden voor het ambt van directeur in een centrum voor volwassenenonderwijs de salarisschaal 565 of 511 ten belope van het volume waaraan zij op 31 augustus 2019 bezoldigd werden op basis van artikel 11 van dit besluit, zoals dit tot en met de vooravond van de inwerkingtreding van het decreet betreffende de uitbouw van de graduaatsopleidingen binnen de hogescholen en de versterking van de lerarenopleidingen binnen de hogescholen en universiteiten van 4 mei 2018 gold, tenzij het bekwaamheidsbewijs waarover ze beschikken recht geeft op een hoger salaris."<br>
+<br>
+Art. 20/3. De adjunct-directeurs hoger beroepsonderwijs/specifieke lerarenopleiding die, hetzij uiterlijk op 31 augustus 2019 vastbenoemd zijn in een centrum voor volwassenenonderwijs waar ofwel hbo5 ofwel de specifieke lerarenopleiding op 31 augustus 2019 ingericht wordt, hetzij in de loop van de schooljaren 2016-2017, 2017-2018 of 2018-2019 tijdelijk aangesteld waren in een centrum voor volwassenenonderwijs waar ofwel hbo5 ofwel de specifieke lerarenopleiding op 31 augustus 2019 ingericht wordt, behouden voor het ambt van adjunct-directeur secundair volwassenenonderwijs in een centrum voor volwassenenonderwijs de salarisschaal die hen op 31 augustus 2019 toegekend mocht worden, tenzij het bekwaamheidsbewijs waarover ze beschikken recht geeft op een hoger salaris."
+
 ### ART 4.
 
 De bijlage bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 22 december 2017, wordt vervangen door de bijlage, die als bijlage bij dit besluit is gevoegd.
