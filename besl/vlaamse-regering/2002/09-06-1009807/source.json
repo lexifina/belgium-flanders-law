@@ -2,16 +2,16 @@
   "codex_id": 1009807,
   "title": "Besluit van de Vlaamse Regering van 2002-09-06 betreffende het geïntegreerd ondersteuningsaanbod in het gewoon secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009807/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "7ada79cab490471fdc4c88faf6a8c9f957f8dc6bb05124797d4f51dbde05fd53",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009807/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "8372493969d3aaec2e37770ae7e471596ea23e4ebf855a70710f9c43d87baeda",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009807&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2019-09-01",
   "made": "2002-09-06",
   "gazette": "2002-11-07",
   "numac": 2002036343,
   "document_start": "2002-09-01",
   "document_end": "2021-08-31",
-  "in_force": "2017-01-01",
+  "in_force": "2019-09-01",
   "article_versions": 43,
-  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
 }
