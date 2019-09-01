@@ -29,6 +29,8 @@ a) vast te stellen dat geen milieueffectrapport of ruimtelijk veiligheidsrapport
 b) de inhoudsafbakening van het milieueffectrapport of ruimtelijk veiligheidsrapport te bepalen en het milieueffectrapport of ruimtelijk veiligheidsrapport daaraan te toetsen;<br>
 9° plan van aanleg : een gewestplan, een algemeen plan van aanleg of een bijzonder plan van aanleg;<br>
 9° /1 projectbesluit : een besluit als vermeld in artikel 2, 10°, van het decreet van 25 april 2014 betreffende complexe projecten;<br>
+9° /2 rooilijn: de scheiding tussen de openbare weg en de aangelande eigendommen, vermeld in het decreet van 8 mei 2009 houdende vaststelling en realisatie van de gewestelijke rooilijnen en het decreet van 3 mei 2019 houdende de gemeentewegen;<br>
+9° /3 rooilijnplan: een plan houdende de vaststelling van de rooilijn als vermeld in het decreet van 8 mei 2009 houdende vaststelling en realisatie van de gewestelijke rooilijnen en het decreet van 3 mei 2019 houdende de gemeentewegen;<br>
 10° ruimtelijk kwetsbare gebieden :<br>
 a) de volgende gebieden, aangewezen op plannen van aanleg :<br>
 1) agrarische gebieden met ecologisch belang,<br>
@@ -561,7 +563,8 @@ in voorkomend geval de monitoringsmaatregelen in het kader van de uitgevoerde ef
 11° voor de gewestelijke ruimtelijke uitvoeringsplannen, in voorkomend geval, een overzicht van de geheel of gedeeltelijk gewijzigde of opgeheven erkennings-, rangschikkings- en beschermingsbesluiten inzake onroerend erfgoed, samen met de gegevens, vermeld in artikel 6.2.5 van het Onroerenderfgoeddecreet van 12 juli 2013, met uitzondering van de aanduiding van de plaats van de aanplakking van het bericht over het openbaar onderzoek op het gegeorefereerde plan;<br>
 12° in voorkomend geval, het grondruilplan, vermeld in artikel 2.1.65 van het decreet van 28 maart 2014 betreffende de landinrichting;<br>
 13° in voorkomend geval, de inrichtingsnota, vermeld in artikel 4.2.1 van het decreet van 28 maart 2014 betreffende de landinrichting;<br>
-14° in voorkomend geval, een overzicht van de instrumenten waarover samen met het ruimtelijk uitvoeringsplan een beslissing genomen wordt door de bevoegde overheid om die aspecten te regelen of om de maatregelen of voorwaarden te bepalen die de bevoegde overheid op basis van het planningsproces, in het bijzonder de effectbeoordelingen, noodzakelijk acht voor de vaststelling van het ruimtelijk uitvoeringsplan en die niet geregeld worden met toepassing van punten 1° tot en met 13°.<br>
+14° in voorkomend geval, een overzicht van de instrumenten waarover samen met het ruimtelijk uitvoeringsplan een beslissing genomen wordt door de bevoegde overheid om die aspecten te regelen of om de maatregelen of voorwaarden te bepalen die de bevoegde overheid op basis van het planningsproces, in het bijzonder de effectbeoordelingen, noodzakelijk acht voor de vaststelling van het ruimtelijk uitvoeringsplan en die niet geregeld worden met toepassing van punten 1° tot en met 13°;<br>
+15° in voorkomend geval het rooilijnplan, vermeld in het decreet van 8 mei 2009 houdende vaststelling en realisatie van de gewestelijke rooilijnen en het decreet van 3 mei 2019 houdende de gemeentewegen.<br>
 <br>
 Het grafische plan dat aangeeft voor welk gebied of welke gebieden het plan van toepassing is en de bijbehorende stedenbouwkundige voorschriften hebben verordenende kracht.<br>
 <br>
@@ -1872,7 +1875,8 @@ c) andere verkavelingsvoorschriften dan deze die vermeld zijn onder b), voor zov
 d) een goede ruimtelijke ordening;<br>
 2° indien de weigering genoodzaakt wordt door de decretale beoordelingselementen, vermeld in afdeling 2;<br>
 3° indien het aangevraagde onverenigbaar is met normen en percentages betreffende de verwezenlijking van een ...bescheiden woonaanbod, vastgesteld bij of krachtens het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid;<br>
-4° in de gevallen waarin overeenkomstig&nbsp;artikel 1.3.1.1, van het decreet betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018 geen vergunning kan worden afgeleverd.<br>
+4° in de gevallen waarin overeenkomstig&nbsp;artikel 1.3.1.1, van het decreet betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018 geen vergunning kan worden afgeleverd;<br>
+5° als de aanvraag onverenigbaar is met een voorlopig vastgestelde ontwerp van rooilijnplan. Die weigeringsgrond vervalt als het plan niet definitief werd vastgesteld binnen de termijn die in de procedure is vastgesteld.<br>
 <br>
 In de gevallen, vermeld in het eerste lid, 1° en 2°, kan het vergunningverlenende bestuursorgaan de vergunning toch afleveren, wanneer het van oordeel is dat de overeenstemming van het aangevraagde met het recht en de goede ruimtelijke ordening gewaarborgd kan worden door het opleggen van voorwaarden, met inbegrip van het opleggen van een beperkte aanpassing van de ter beoordeling voorgelegde plannen. Die voorwaarden kunnen niet dienen om de leemten van een onvolledige of vage aanvraag op te vangen.<br>
 <br>
@@ -1942,7 +1946,21 @@ De omgevingsvergunning voor de handelingen, vermeld in artikel 4.2.1, 1°,   6°
 
 ### ART. 4.3.8.
 
-§ 1. Een stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen kan niet worden verleend voor het bouwen, verbouwen, herbouwen of uitbreiden van een constructie op een stuk grond dat door een rooilijn of een achteruitbouwstrook is getroffen, behoudens onder de voorwaarden die worden bepaald bij of krachtens het decreet van 8 mei 2009 houdende vaststelling en realisatie van de rooilijnen.<br>
+§ 1. Onverminderd andersluidende wettelijke, decretale of reglementaire bepalingen, kan geen vergunning verleend worden voor het bouwen, verbouwen, herbouwen of uitbreiden van een constructie op een stuk grond dat door een rooilijn of een achteruitbouwstrook is getroffen, met uitzondering van de gevallen waarin voldaan is aan een van volgende voorwaarden:<br>
+1° de aanvraag heeft louter betrekking op onderhouds- of stabiliteitswerken aan een vergunde of vergund geachte constructie;<br>
+2° de aanvraag heeft louter betrekking op sloop- of aanpassingswerken die tot gevolg hebben dat de constructie aan de rooilijn of achteruitbouwstrook wordt aangepast;<br>
+3° de aanvraag heeft betrekking op de verbouwing van een monument dat bij een decreet definitief of voorlopig beschermd is, of een constructie die deel uitmaakt van een stads- of dorpsgezicht of een cultuurhistorisch landschap dat bij een decreet definitief of voorlopig beschermd is;<br>
+4° de aanvraag heeft louter betrekking op het aanbrengen van gevelisolatie aan een bestaande vergunde of vergund geachte constructie, met een overschrijding van ten hoogste veertien centimeter.<br>
+<br>
+In afwijking van het eerste lid mag een vergunning worden verleend:<br>
+1° die afwijkt van de rooilijn als uit het advies van de wegbeheerder blijkt dat de rooilijn niet binnen vijf jaar na de afgifte van de vergunning zal worden gerealiseerd. Als er na het verstrijken van die termijn wordt onteigend, wordt bij het bepalen van de vergoeding geen rekening gehouden met de waardevermeerdering die uit de vergunde handelingen voortvloeit;<br>
+2° die afwijkt van de achteruitbouwstrook als de wegbeheerder een gunstig advies heeft gegeven.<br>
+<br>
+Werkzaamheden en handelingen waarvoor geen vergunning is vereist, mogen onder dezelfde voorwaarden als vermeld in het eerste en tweede lid worden uitgevoerd na machtiging van de wegbeheerder.<br>
+<br>
+Als het bij het aanbrengen van gevelisolatie als vermeld in het eerste lid, 4°, gaat om de overschrijding van een rooilijn die wordt gevormd door de huidige grens tussen de openbare weg en de aangelande eigendommen, kan na een gunstig advies van de wegbeheerder die gevelisolatie ook tot veertien centimeter toegestaan worden. In dat geval is, in afwijking van artikel 40 van het decreet van 18 december 1992 houdende bepalingen tot begeleiding van de begroting 1993, geen vergunning vereist voor het privatieve gebruik van het openbaar domein.<br>
+<br>
+De Vlaamse Regering kan nadere formele en procedurele regels voor de toepassing van dit artikel bepalen..<br>
 <br>
 § 2. Een omgevingsvergunning kan niet worden verleend voor&nbsp;handelingen, vermeld in artikel 4.2.1, 1°, in een reservatiestrook, behoudens indien voldaan is aan een van volgende voorwaarden :<br>
 1° de aanvraag heeft betrekking op de uitvoering, bescherming of instandhouding van handelingen die betrekking hebben op openbare infrastructuren of openbare wegen of nutsvoorzieningen en kan worden gekaderd binnen de vigerende stedenbouwkundige voorschriften;<br>
