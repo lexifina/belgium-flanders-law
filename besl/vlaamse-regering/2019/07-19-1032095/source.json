@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032095,
+  "title": "Besluit van de Vlaamse Regering van 2019-07-19 tot erkenning van het graduaat in het maatschappelijk werk als nieuwe opleiding van Thomas More Kempen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032095/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "23daa5bfad410723a1ffc696d91c1a8d6a1e6caca06705883b52aac413fa153b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032095&param=informatie",
+  "as_of": "2019-09-01",
+  "made": "2019-07-19",
+  "gazette": "2019-08-19",
+  "numac": 2019041787,
+  "document_start": "2019-09-01",
+  "document_end": null,
+  "in_force": "2019-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
