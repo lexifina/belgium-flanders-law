@@ -69,7 +69,61 @@ In artikel 145<sup>21</sup>, tweede lid, van het Wetboek van de Inkomstenbelasti
 
 ## Afdeling 1. Gelijkschakeling werkingsmiddelen kleuter- en lager onderwijs vanaf 2019-2020
 
+### ART 41.
+
+Artikel 76bis van het decreet basisonderwijs van 25 februari 1997, ingevoegd bij het decreet van 3 mei 2019, wordt opgeheven.
+
+### ART 42.
+
+Aan artikel 79, § 3, derde lid, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 19 december 2014, wordt een punt 8° toegevoegd, dat luidt als volgt:<br>
+"8° het bedrag voor begrotingsjaar 2020 verkregen na toepassing van paragraaf 3, 1° en 2°, wordt verhoogd met 70.282.000 euro.".
+
+### ART 43.
+
+In artikel 80 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 19 december 2014, wordt de zinsnede "4,5 %" telkens vervangen door de zinsnede "3,97 %".
+
+### ART 44.
+
+In artikel 81 van hetzelfde decreet, vervangen bij de decreten van 19 december 1997 en 4 juli 2008, wordt punt 1° vervangen door wat volgt:<br>
+"1° voor de leerlingen van het kleuteronderwijs en van het lager onderwijs wordt het puntengewicht bepaald op 8 punten;".
+
+### ART 45.
+
+Aan artikel 85bis, § 3, derde lid, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 19 december 2014, wordt een punt 8° toegevoegd, dat luidt als volgt:<br>
+"8° het bedrag voor begrotingsjaar 2020 verkregen na toepassing van § 3, 1° en 2°, wordt verhoogd met 994.000 euro.".
+
+### ART 46.
+
+In artikel 85ter van hetzelfde decreet, ingevoegd bij het decreet van 4 juli 2008 en gewijzigd bij het decreet van 18 december 2009, wordt de zinsnede "4,5 %" telkens vervangen door de zinsnede "3,97 %".
+
+### ART 47.
+
+In artikel 85quater van hetzelfde decreet, ingevoegd bij het decreet van 4 juli 2008 en vervangen bij het decreet van 5 april 2019, worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede "9 punten;" wordt vervangen door de zinsnede "13 punten;";<br>
+2° de zinsnede "11 punten;" wordt vervangen door de zinsnede "15 punten;";<br>
+3° de zin "Met dien verstande dat in het buitengewoon kleuteronderwijs het aantal regelmatige leerlingen op de eerste schooldag van februari wordt gewogen met het volgende percentage: 94,5 %." wordt opgeheven.
+
+### ART 48.
+
+In artikel 87bis van hetzelfde decreet, ingevoegd bij het decreet van 22 december 2017 en gewijzigd bij het decreet van 21 december 2018, worden paragraaf 1 en 2 opgeheven.<br>
+&nbsp;
+
+### ART 49.
+
+Het besluit van de Vlaamse Regering van 6 september 2019 betreffende de werkingsmiddelen van het kleuteronderwijs, ter uitvoering van artikel 76bis van het decreet basisonderwijs van 25 februari 1997, wordt opgeheven.
+
 ## Afdeling 2. NVAO - opdracht van een personeelslid van de Vlaamse overheid
+
+### ART 50.
+
+Artikel II.31, 1°, van de Codex Hoger Onderwijs van 11 oktober 2013, wordt aangevuld met:<br>
+"o) de diensten van de Vlaamse overheid".<br>
+&nbsp;
+
+### ART 51.
+
+Aan artikel II.33 van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"Onverminderd het eerste lid worden personeelsleden, bedoeld in artikel II.31, 1°, o), verloond door de entiteit van oorsprong, in de bij de accreditatieorganisatie gebruikelijke loonschaal.".
 
 ## Afdeling 3. Bijkomende middelen wettelijke werkgeversbijdragen
 
