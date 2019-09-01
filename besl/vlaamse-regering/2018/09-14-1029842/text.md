@@ -28,6 +28,23 @@ Besluit :
 
 ## Afdeling 1. Organisatie van duaal leren
 
+### ART 1.
+
+De periode van twintig opleidingsdagen per schooljaar waarin de leerling geen overeenkomst hoeft te hebben, vermeld in artikel 357/22 van de codex secundair onderwijs, wordt in de volgende situaties verlengd :<br>
+1° de leerling is gewettigd afwezig gedurende die periode van twintig opleidingsdagen : de periode wordt verlengd met het aantal dagen van de afwezigheid;<br>
+2° de onderneming wordt erkend gedurende die periode van twintig opleidingsdagen : de periode wordt verlengd met het aantal dagen dat in beslag genomen wordt door de procedure voor de erkenning van de onderneming;<br>
+3° de trajectbegeleider beslist om die periode van twintig opleidingsdagen te verlengen met maximaal dezelfde periode van twintig opleidingsdagen op basis van de inspanningen van de leerling en de specifieke context.
+
+### ART 2.
+
+Met het oog op de leerlingenevaluatie in de duale structuuronderdelen van het voltijds gewoon secundair onderwijs is de organisatie van een geïntegreerde proef als vermeld in artikel 56 van het besluit van de Vlaamse regering van 19 juli 2002 betreffende de organisatie van het voltijds secundair onderwijs, facultatief.
+
+### ART 3.
+
+In zijn hoedanigheid van stemgerechtigd lid van de klassenraad moet de mentor het ambtsgeheim bewaren waartoe de stemgerechtigde leden van het bestuurs- en onderwijzend personeel, waarop de rechtspositieregeling in onderwijs van toepassing is, gehouden zijn. Als de leerling de werkplekcomponent achtereenvolgens op verschillende werkplekken invult en er dus verschillende mentoren bij die leerling zijn betrokken tijdens hetzelfde schooljaar, kunnen die mentoren bij stemming in de klassenraad samen maar één stem uitbrengen. Bij staking van stemmen van de mentoren stemt de trajectbegeleider namens die mentoren, onverminderd zijn eigen stem.<br>
+<br>
+Tussen de aanbieder duaal leren en de werkplek worden praktische afspraken gemaakt over het functioneren van de mentor in de klassenraad, met inbegrip van het al dan niet aanwezig zijn van de mentor op klassenraadsvergaderingen.
+
 ### ART 4.
 
 De Vlaamse minister, bevoegd voor het onderwijs, kan een oproep lanceren bij organisatoren om in een begeleidingstraject te voorzien voor leerlingen tijdens de zoektocht naar een werkplek of op de werkplek.<br>
@@ -43,17 +60,147 @@ De oproep, vermeld in het eerste lid, omvat minstens de volgende elementen :<br>
 
 ## Afdeling 2. Organisatie van de aanloopfase
 
+### ART 5.
+
+De bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming stelt een toolbox van methodieken samen voor de screening van de leerling op arbeidsrijpheid, arbeidsbereidheid, studieoriëntatie, interesses, motivatie en eerder verworven competenties om te bepalen of die toegelaten wordt tot de aanloopfase, waarbinnen de aanbieders van de aanloopfase hun eigen keuzes kunnen maken.
+
+### ART 6.
+
+Een begeleide leerervaring ter invulling van de aanloopcomponent kan bij elke natuurlijke persoon, privaatrechtelijke of publiekrechtelijke rechtspersoon. Daarvoor wordt een opleidingsovereenkomst gesloten tussen de jongere, de aanbieder van de aanloopfase en de desbetreffende natuurlijke persoon of rechtspersoon. Die overeenkomst bevat de wederzijdse verplichtingen, de opvolging en de evaluatie van de aanloopcomponent.<br>
+<br>
+Het model van de overeenkomst wordt vastgelegd door de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming.
+
 ### ART 7.
 
 De oproep bij organisatoren van de aanloopfase wordt gelanceerd door de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming.
 
 ## Afdeling 3. Studiebekrachtiging
 
+### ART 8.
+
+§ 1. In duale structuuronderdelen, behalve bij Se-n-Se, kunnen de volgende studiebewijzen uitgereikt worden:<br>
+1° een diploma van secundair onderwijs;<br>
+2° een studiegetuigschrift van het tweede leerjaar van de derde graad;<br>
+3° een studiegetuigschrift van het derde leerjaar van de derde graad;<br>
+4° een getuigschrift van de tweede graad van het secundair onderwijs;<br>
+5° een bewijs van beroepskwalificatie;<br>
+6° een bewijs van deelkwalificatie;<br>
+7° een bewijs van competenties.<br>
+<br>
+In duale structuuronderdelen Se-n-Se kunnen de studiebewijzen, vermeld in het eerste lid, 5° tot en met 7°, uitgereikt worden.<br>
+<br>
+In aanloopstructuuronderdelen kunnen de studiebewijzen, vermeld in het eerste lid, 4° tot en met 7°, uitgereikt worden. Die studiebekrachtiging gebeurt met in acht name van het gegeven dat, zoals vastgelegd in het standaardtraject in kwestie, de inhoud van een aanloopstructuuronderdeel altijd een onderdeel is van de inhoud van het duaal structuuronderdeel waaraan het is gekoppeld.<br>
+<br>
+Een duaal structuuronderdeel kan op een of meer beroepskwalificaties of deelkwalificaties zijn gebaseerd en bijgevolg tot een of meer bewijzen van beroepskwalificatie of bewijzen van deelkwalificatie leiden. Met behoud van de toepassing van het derde lid kan een aanloopstructuuronderdeel op een of meer beroepskwalificaties of deelkwalificaties zijn gebaseerd en bijgevolg tot een of meer bewijzen van beroepskwalificatie of bewijzen van deelkwalificatie leiden.<br>
+<br>
+De studiebewijzen, vermeld in het eerste lid, 1° tot en met 4°, waarvan het studiebewijs, vermeld in het eerste lid, 4°, alleen als het uitgereikt wordt in het beroepssecundair onderwijs, gelden als een onderwijskwalificatie, met toepassing van artikel 14 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur.<br>
+<br>
+Het studiebewijs, vermeld in het eerste lid, 5°, geldt, met toepassing van artikel 14 van het voormelde decreet, als een beroepskwalificatie.<br>
+<br>
+Het studiebewijs, vermeld in het eerste lid, 6°, geldt, met toepassing van artikel 14 van het voormelde decreet, als een deel van een beroepskwalificatie. Dat wordt expliciet op het model van studiebewijs vermeld, samen met de benaming van de beroepskwalificatie.<br>
+<br>
+Het studiebewijs, vermeld in het eerste lid, 7°, wordt toegekend als de leerling bepaalde competenties heeft verworven uit een erkende kwalificatie, zonder dat hij evenwel in aanmerking komt voor een van de studiebewijzen, vermeld in het eerste lid, 1° tot en met 6°.<br>
+<br>
+§ 2. Een attest van regelmatige lesbijwoning wordt uitgereikt bij vroegtijdige beëindiging van de opleiding zonder dat er attesteerbare competenties verworven zijn of na het eerste leerjaar van een graad. Als het attest wordt uitgereikt na het eerste leerjaar van een graad, verleent het van rechtswege toegang tot het tweede leerjaar van die graad. Het attest kan ook uitgereikt worden in aanloopstructuuronderdelen.<br>
+<br>
+§ 3. De volgende modellen, inclusief invulinstructies, zijn opgenomen in de volgende bijlagen:<br>
+1° het model voor een diploma van secundair onderwijs is opgenomen in bijlage 1, die bij dit besluit is gevoegd;<br>
+2° het model voor een studiegetuigschrift van het tweede leerjaar van de derde graad is opgenomen in bijlage 3, die bij dit besluit is gevoegd;<br>
+3° het model voor een studiegetuigschrift van het derde leerjaar van de derde graad is opgenomen in bijlage 4, die bij dit besluit is gevoegd;<br>
+4° het model voor een getuigschrift van de tweede graad van het secundair onderwijs is opgenomen in bijlage 5, die bij dit besluit is gevoegd;<br>
+5° het model voor een bewijs van beroepskwalificatie is opgenomen in bijlage 6, die bij dit besluit is gevoegd;<br>
+6° het model voor een bewijs van deelkwalificatie is opgenomen in bijlage 7, die bij dit besluit is gevoegd;<br>
+7° het model voor een bewijs van competenties is opgenomen in bijlage 8, die bij dit besluit is gevoegd;<br>
+8° het model voor een attest van regelmatige lesbijwoning is opgenomen in bijlage 9, die bij dit besluit is gevoegd.<br>
+<br>
+Op de modellen van de studiebewijzen, vermeld in het eerste lid, 1° tot en met 4°, waarvan het model van studiebewijs, vermeld in het eerste lid, 4°, alleen als het uitgereikt wordt in het beroepssecundair onderwijs, wordt expliciet vermeld dat het een onderwijskwalificatie betreft en het niveau ervan binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader.<br>
+<br>
+Op het model van het studiebewijs, vermeld in het eerste lid, 5°, wordt expliciet vermeld dat het een beroepskwalificatie betreft, samen met de naam van de beroepskwalificatie en het niveau ervan binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader.<br>
+<br>
+In het model van de studiebewijzen, vermeld in het eerste lid, 1° tot en met 6°, wordt een studiebewijssupplement geïntegreerd.
+
 ## Afdeling 4. Financiering en subsidiëring
+
+### ART 9.
+
+Binnen de beschikbare kredieten bepaalt de Vlaamse minister, bevoegd voor het onderwijs, per schooljaar het bedrag van de aanvullende werkingsmiddelen dat aan een centrum voor deeltijds beroepssecundair onderwijs wordt toegekend per regelmatige leerling die op de eerste lesdag van februari ingeschreven is in een centrum voor deeltijds beroepssecundair onderwijs.<br>
+<br>
+De aanvullende werkingsmiddelen voor de centra voor deeltijds beroepssecundair onderwijs worden bij het voorschot op het werkingsbudget gevoegd.
+
+### ART 10.
+
+§ 1. Dit artikel is van toepassing op duale structuuronderdelen en aanloopstructuuronderdelen.<br>
+<br>
+§ 2. Per week kan gemiddeld maximaal twee uur van het aantal uren-leraar dat de schoolcomponent omvat, voor voordrachtgevers aangewend worden.<br>
+<br>
+§ 3. Bij de overdracht van uren-leraar van een school voor voltijds gewoon secundair onderwijs aan een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen wordt elk overgedragen uur-leraar omgezet in een krediet van 34,27 euro. Dat bedrag wordt gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen conform de bepalingen van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. Dat krediet wordt vanaf 1 januari 1990 aan de spilindex 138,01 gekoppeld. De indexaanpassingen die na 1 oktober van het schooljaar worden doorgevoerd, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar.<br>
+<br>
+Als de overdracht plaatsvindt van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen aan een school voor voltijds gewoon secundair onderwijs, wordt hetzelfde bedrag, vermeld in het eerste lid, gehanteerd per uur-leraar dat aan die school wordt overgedragen.<br>
+<br>
+§ 4. Bij de overdracht van uren-leraar van een centrum voor deeltijds beroepssecundair onderwijs aan een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen wordt elk overgedragen uur-leraar omgezet in een krediet van 29,63 euro. Dat krediet wordt gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen conform de bepalingen van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. Dat krediet wordt vanaf 1 januari 1990 aan de spilindex 138,01 gekoppeld. De indexaanpassingen die na 1 oktober van het schooljaar worden doorgevoerd, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar.<br>
+<br>
+Als de overdracht plaatsvindt van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen aan een centrum voor deeltijds beroepssecundair onderwijs, wordt hetzelfde bedrag, vermeld in het eerste lid, gehanteerd per uur-leraar dat aan dat centrum wordt overgedragen.<br>
+<br>
+§ 5. Bij de overdracht van uren-leraar van een school voor voltijds gewoon secundair onderwijs of een centrum voor deeltijds beroepssecundair onderwijs aan een centrum voor volwassenenonderwijs wordt elk overgedragen uur-leraar omgezet in een leraarsuur als vermeld in het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br>
+<br>
+§ 6. Bij de overdracht van leraarsuren van een centrum voor volwassenenonderwijs aan een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen wordt elk overgedragen leraarsuur omgezet in een krediet van 33,77 euro. Dat krediet wordt gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen conform de bepalingen van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. Dat krediet wordt vanaf 1 januari 1990 aan de spilindex 138,01 gekoppeld. De indexaanpassingen die na 1 oktober van het schooljaar worden doorgevoerd, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar.<br>
+<br>
+Als de overdracht plaatsvindt van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen aan een centrum voor volwassenenonderwijs, wordt hetzelfde bedrag, vermeld in het eerste lid, gehanteerd per uur-leraar dat aan dat centrum wordt overgedragen.
+
+### ART 10/1.
+
+In functie van artikel 123 van Verordening (EG) nummer 1303/2013, wordt voor de volgende categorieën van leerlingen een registratie gedaan in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding:<br>
+1° Leerlingen in een duaal structuuronderdeel waarvoor een beroep gedaan wordt op een organisator voor extra begeleiding;<br>
+2° Leerlingen in een aanloopstructuuronderdeel waarvoor een beroep gedaan wordt op een organisator voor de invulling van de aanloopcomponent.<br>
+<br>
+Deze registratie laat toe om de rechtmatige toekenning van subsidies aan organisatoren na te gaan.<br>
+<br>
+De registratie gebeurt door de organisator of de aanbieder duaal leren en beslaat de volgende gegevens:<br>
+- Identificatiegegevens van de leerling: rijksregisternummer, identificatie van Mijn Loopbaan, schoolnummer en inschrijvingsdatum;<br>
+- Tijdgegevens: de aanwezigheid van de leerling per dagdeel;<br>
+- Prestatiegegevens: de aan- en afwezigheid van de leerling bij de organisator en bij de aanbieder duaal leren.<br>
+<br>
+De verwerking van de gegevens gebeurt door de managementautoriteit als bedoeld in het derde lid van artikel 123 van de Verordening (EG) nummer 1303/2013. De opslagperiode is vastgelegd op 10 jaar. De beveiliging van de gegevens is in lijn met artikel 140 van de Verordening (EG) nummer 1303/2013.
 
 ## HOOFDSTUK 2. Wijzigingsbepalingen
 
 ## Afdeling 1. Wijzigingen van het besluit van de Vlaamse regering van 16 september 1997 betreffende de controle op de inschrijvingen van leerlingen in het secundair onderwijs of in het stelsel van leren en werken
+
+### ART 11.
+
+In artikel 5 van het besluit van de Vlaamse regering van 16 september 1997 betreffende de controle op de inschrijvingen van leerlingen in het secundair onderwijs of in het stelsel van leren en werken, gewijzigd bij de besluiten van de Vlaamse Regering van 6 juli 2007 en 24 oktober 2008, wordt de zinssnede "of Syntra Vlaanderen, naargelang van het geval," telkens opgeheven.
+
+### ART 12.
+
+In artikel 6, eerste lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 6 juli 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 24 oktober 2008, wordt de zinssnede "of Syntra Vlaanderen, naargelang van het geval," opgeheven.
+
+### ART 13.
+
+In artikel 10bis, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 24 oktober 2008, wordt de zinssnede "of Syntra Vlaanderen, naargelang van het geval," opgeheven.
+
+### ART 14.
+
+Artikel 11 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 24 oktober 2008, wordt vervangen door wat volgt :<br>
+<br>
+"Art. 11. De bepalingen van dit hoofdstuk zijn niet van toepassing op de instellingen die niet gefinancierd of gesubsidieerd worden door de Vlaamse Gemeenschap en zijn voor de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen alleen van toepassing op de duale structuuronderdelen of aanloopstructuuronderdelen.".
+
+### ART 15.
+
+Aan artikel 14ter van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 21 maart 2003 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 30 augustus 2016, wordt een tweede lid toegevoegd, dat luidt als volgt :<br>
+<br>
+"Afwezigheden tijdens de werkplekcomponent van duale structuuronderdelen of de aanloopcomponent van aanloopstructuuronderdelen, als hier gebruik gemaakt wordt van een begeleide leerervaring in een onderneming, moeten in overeenstemming zijn met het arbeidsreglement.".
+
+### ART 16.
+
+In artikel 14septies van hetzelfde besluit wordt het tweede lid vervangen door wat volgt :<br>
+<br>
+"De bepalingen van dit artikel zijn voor de centra voor vorming van zelfstandigen en kleine en middelgrote enkel van toepassing op de duale structuuronderdelen of aanloopstructuuronderdelen.".
+
+### ART 17.
+
+In artikel 14octies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 21 maart 2003 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 24 april 2015, wordt het tweede lid vervangen door wat volgt :<br>
+<br>
+"De bepalingen van dit artikel zijn voor de centra voor vorming van zelfstandigen en kleine en middelgrote enkel van toepassing op de duale structuuronderdelen of aanloopstructuuronderdelen.".
 
 ## Afdeling 2. Wijzigingen van het besluit van de Vlaamse regering van 31 augustus 2001 houdende de organisatie van het schooljaar in het secundair onderwijs
 
@@ -162,4 +309,117 @@ Aan artikel 3 van het besluit van de Vlaamse Regering van 10 januari 2014 houden
 <br>
 "Deelkwalificaties die gebruikt worden in een onderwijskwalificatie van niveau 1 tot en met 4, zijn deelkwalificaties die onderdeel uitmaken van een beroepskwalificatie van niveau 1 tot en met 4.".
 
+### ART 35.
+
+In artikel 5 van hetzelfde besluit wordt punt 3° vervangen door wat volgt :<br>
+<br>
+3° "de onderwijsdoelen, meer bepaald de eindtermen en de overige onderdelen waaruit de onderwijskwalificatie is samengesteld met toepassing van artikel 14 van het decreet van 30 april 2009;".
+
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 36.
+
+Dit besluit treedt in werking op 1 september 2019, met uitzondering van artikel 4 en 7, artikel 8, § 1, zevende lid, en artikel 18 tot en met 34, die in werking treden op 1 oktober 2018.
+
+### ART 37.
+
+De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=167">Bijlage 1</a><br>
+<br>
+* Bij BVR van 19 juli 2019, BS 28 augustus 2019, worden met ingang van 1 september 2019, de volgende wijzigingen aangebracht aan bijlage 1:<br>
+<br>
+1° in het studiebewijssupplement wordt de laatste zin vervangen door wat volgt:<br>
+"De inhoud van de opleiding . . . . . duaal (1) is gebaseerd op een standaardtraject (www.kwalificatiesencurriculum.be/duaal-leren) dat de overheid heeft vastgelegd.";<br>
+2° bij de invulinstructies wordt punt (9) en de bijhorende tekst opgeheven.
+
+### BIJLAGE
+
+...
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=171">Bijlage 3</a><br>
+<br>
+* Bij BVR van 19 juli 2019, BS 28 augustus 2019, worden met ingang van 1 september 2019, de volgende wijzigingen aangebracht aan bijlage 3:<br>
+<br>
+1° in het opschrift wordt de zinsnede "3° " vervangen door de zinsnede "2° ";<br>
+2° in het studiebewijssupplement wordt de laatste zin vervangen door wat volgt:<br>
+"De inhoud van de opleiding . . . . . duaal (1) is gebaseerd op een standaardtraject (www.kwalificatiesencurriculum.be/duaal-leren) dat de overheid heeft vastgelegd.";<br>
+3° bij de invulinstructies wordt punt (8) en de bijhorende tekst opgeheven.
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=173">Bijlage 4</a><br>
+<br>
+* Bij BVR van 19 juli 2019, BS 28 augustus 2019, worden met ingang van 1 september 2019, de volgende wijzigingen aangebracht aan bijlage 4:<br>
+<br>
+1° in het opschrift wordt de zinsnede "4° " vervangen door de zinsnede "3° ";<br>
+2° in het studiebewijssupplement wordt de laatste zin vervangen door wat volgt:<br>
+"De inhoud van de opleiding . . . . . duaal (1) is gebaseerd op een standaardtraject (www.kwalificatiesencurriculum.be/duaal-leren) dat de overheid heeft vastgelegd.";<br>
+3° bij de invulinstructies wordt punt (8) en de bijhorende tekst opgeheven.
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=176">Bijlage 5</a><br>
+<br>
+* Bij BVR van 19 juli 2019, BS 28 augustus 2019, worden met ingang van 1 september 2019, de volgende wijzigingen aangebracht aan bijlage 5:<br>
+<br>
+<br>
+1° in het opschrift wordt de zinsnede "5° " vervangen door de zinsnede "4° ";<br>
+2° in het studiebewijssupplement wordt de laatste zin vervangen door wat volgt:<br>
+"De inhoud van de opleiding . . . . . (1) is gebaseerd op een standaardtraject (www.kwalificatiesencurriculum.be/duaal-leren) dat de overheid heeft vastgelegd.";<br>
+3° bij de invulinstructies wordt punt (9) en de bijhorende tekst opgeheven.
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/28_1.pdf#page=165">Bijlage 6</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=181">Bijlage 7</a><br>
+<br>
+* Bij BVR van 19 juli 2019, BS 28 augustus 2019, worden met ingang van 1 september 2019, de volgende wijzigingen aangebracht aan bijlage 7:<br>
+<br>
+1° in het opschrift van wordt de zinsnede "7° " vervangen door de zinsnede "6° ";<br>
+2° in het studiebewijssupplement wordt de laatste zin vervangen door wat volgt:<br>
+"De inhoud van de opleiding . . . . . (6) is gebaseerd op een standaardtraject (www.kwalificatiesencurriculum.be/duaal-leren) dat de overheid heeft vastgelegd.";<br>
+3° bij de invulinstructies wordt punt (10) en de bijhorende tekst opgeheven.
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=183">Bijlage 8</a><br>
+<br>
+* Bij BVR van 19 juli 2019, BS 28 augustus 2019, worden met ingang van 1 september 2019, de volgende wijzigingen aangebracht aan bijlage 8:<br>
+<br>
+In het opschrift van bijlage 8 wordt de zinsnede "8° " vervangen door de zinsnede "7° ".
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=185">Bijlage 9</a><br>
+<br>
+* Bij BVR van 19 juli 2019, BS 28 augustus 2019, worden met ingang van 1 september 2019, de volgende wijzigingen aangebracht aan bijlage 9<br>
+<br>
+In het opschrift van bijlage&nbsp;9wordt de zinsnede "9 " vervangen door de zinsnede "8 ".
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=187">Bijlage 10</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=189">Bijlage 11</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=191">Bijlage 12</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=193">Bijlage 13</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=195">Bijlage 14</a>
