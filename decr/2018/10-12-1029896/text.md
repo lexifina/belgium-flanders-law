@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK 1. Algemene bepalingen
 
+### ART 1.
+
+Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
+
 ## HOOFDSTUK 2. Wijzigingsbepalingen
 
 ## Afdeling 1. Wijzigingen van de herstelwet van 22 januari 1985 houdende sociale bepalingen
@@ -20,6 +24,26 @@ In hoofdstuk IV, afdeling 6, onderafdeling 1, van de herstelwet van 22 januari 1
 7° certificaat : een door de opleidingsverstrekker uitgereikt attest dat de cursist de opleiding met goed gevolg heeft beëindigd en waarop bij voorkeur vermeld staat welke competenties de cursist heeft behaald;<br>
 8° VESOC : Vlaams Economisch Sociaal Overlegcomité;<br>
 9° vestigingseenheid : de vestigingseenheid, vermeld in artikel I.2, 16°, van het Wetboek Economisch Recht.".
+
+### ART 3.
+
+Artikel 108 van dezelfde wet, gewijzigd bij de wetten van 26 maart 1999, 2 augustus 2002 en 30 december 2009, wordt vervangen door wat volgt :<br>
+<br>
+"Art. 108. § 1. Deze afdeling is van toepassing op de werkgevers en de werknemers die onder het toepassingsgebied vallen van de wet van 5 december 1968 betreffende de collectieve arbeidsovereenkomsten en de paritaire comités.<br>
+<br>
+De werknemers, vermeld in het eerste lid, zijn werknemers die op basis van een of meer arbeidsovereenkomsten in een in het Vlaamse Gewest gelegen vestigingseenheid op een van de volgende wijzen tewerkgesteld zijn :<br>
+1° voltijds tewerkgesteld;<br>
+2° ten minste 4/5 tewerkgesteld;<br>
+3° ten minste halftijds tewerkgesteld met een variabele werktijdregeling als vermeld in artikel 11bis van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, of ten minste halftijds tewerkgesteld met een vast uurrooster en die tijdens de werkuren een opleiding volgt.<br>
+<br>
+De volgende personen worden met werknemers als vermeld in het tweede lid gelijkgesteld : de personen die, anders dan krachtens een arbeidsovereenkomst, tegen loon arbeid verrichten onder het gezag van een of meer andere personen.<br>
+<br>
+De werkgevers, vermeld in het eerste lid, zijn de werkgevers met een vestigingseenheid in het Vlaamse Gewest die de personen, vermeld in het eerste en tweede lid, tewerkstellen.<br>
+<br>
+§ 2. De Vlaamse Regering kan, na het advies te hebben ingewonnen van de SERV :<br>
+1° voor bepaalde categorieën van werknemers bijzondere toepassingsregels vaststellen;<br>
+2° het toepassingsgebied verruimen tot andere categorieën van werknemers;<br>
+3° bepaalde categorieën van werknemers uitsluiten van het toepassingsgebied of bepaalde delen ervan.".
 
 ### ART 4.
 
@@ -88,11 +112,141 @@ Aan hoofdstuk IV, afdeling 6, onderafdeling 1, van dezelfde wet, het laatst gewi
 <br>
 Het beroep en de intrekking worden behandeld binnen de termijn en volgens de procedure die de Vlaamse Regering bepaalt.".
 
+### ART 7.
+
+Artikel 111 van dezelfde wet, het laatst gewijzigd bij de wet van 29 maart 2012, wordt vervangen door wat volgt :<br>
+<br>
+"Art. 111. § 1. Het Vlaams opleidingsverlof heeft als doel het volgen van arbeidsmarktgerichte en loopbaangerichte opleidingen door werknemers te stimuleren. Een werknemer heeft daarbij het recht om op het werk afwezig te zijn, met behoud van het geplafonneerde loon dat op het gewone tijdstip moet worden uitbetaald, om opleiding te volgen of om te studeren of om examens af te leggen. De Vlaamse Regering bepaalt de modaliteiten voor de afwezigheid op het werk.<br>
+<br>
+§ 2. Per werknemer wordt een maximum aantal uren voor het volgen van een arbeidsmarktgerichte en loopbaangerichte opleiding vastgelegd, waarop de werknemer een beroep kan doen binnen het Vlaams opleidingsverlof gedurende een bepaalde periode. De Vlaamse Regering bepaalt dat aantal uren, de start- en einddatum van die periode en legt de modaliteiten van toekenning vast.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt met welke steunmaatregelen voor werknemers en werkgevers het Vlaams opleidingsverlof niet gecumuleerd mag worden.".
+
+### ART 8.
+
+Artikel 116 van dezelfde wet wordt vervangen door wat volgt :<br>
+<br>
+"Art. 116. § 1. Het voordeel van het Vlaams opleidingsverlof wordt alleen toegekend aan de werknemer die de opleiding nauwgezet volgt. De Vlaamse Regering bepaalt de normen voor de nauwgezetheid, de wijze van attestering door de opleidingsverstrekker en de procedure nader.<br>
+<br>
+§ 2. Voor de opleidingen die geen regelmatige aanwezigheid van de betrokkenen vereisen, bepaalt de Vlaamse Regering de normen voor de nauwgezetheid waaraan de werknemer moet voldoen, de wijze van attestering door de opleidingsverstrekker of exameninstantie en de procedure nader.<br>
+<br>
+§ 3. Het maximum aantal uren waarop de werknemer een beroep kan doen, vermeld in artikel 111, § 2, kan verminderd worden met 25% voor de werknemer die de opleiding, vermeld in paragraaf 1 en 2, niet nauwgezet volgt en die meer opleidingsverlof opneemt dan de uren waarop de werknemer recht heeft, vermeld in artikel 111, volgens de modaliteiten en de procedure bepaald door de Vlaamse Regering.<br>
+<br>
+§ 4. Het maximum aantal uren waarop de werknemer een beroep kan doen, vermeld in artikel 111, § 2, kan verminderd worden met 25% voor de werknemer die de opleiding, vermeld in paragraaf 2, niet nauwgezet volgt volgens de modaliteiten en de procedure bepaald door de Vlaamse Regering.".
+
+### ART 9.
+
+In artikel 117 van dezelfde wet wordt punt 2° vervangen door wat volgt :<br>
+<br>
+"2° aan de werknemer die meer dan twee keer dezelfde opleiding of hetzelfde opleidingsjaar volgt, tenzij het certificaat telkens niet werd behaald door overmacht. De Vlaamse Regering kan de gevallen van overmacht specificeren en een procedure bepalen.".
+
+### ART 10.
+
+In dezelfde wet worden de volgende artikelen opgeheven :<br>
+<br>
+1° artikel 121, vervangen bij de wet van 27 december 2006 en gewijzigd bij de wetten van 17 mei 2007, 22 december 2008, 23 december 2009 en 25 april 2014;<br>
+<br>
+2° artikel 122, gewijzigd bij het koninklijk besluit van 19 mei 1995 en de wetten van 27 december 2006 en 27 april 2007;<br>
+<br>
+3° artikel 123, gewijzigd bij het koninklijk besluit van 19 mei 1995 en de wet van 19 juli 2001.
+
+### ART 11.
+
+Artikel 131 van dezelfde wet, opgeheven door de wet van 6 juni 2010, wordt opnieuw opgenomen in de volgende lezing :<br>
+<br>
+"Art. 131. Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden gestraft met een gevangenisstraf van acht dagen tot een jaar en een strafrechtelijke geldboete van 125 tot 1250 euro, of met een van die straffen alleen : de personen die onjuiste of onvolledige verklaringen hebben afgelegd met het oog op de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van deze wet.<br>
+<br>
+Voor de inbreuken, vermeld in het eerste lid, die werden begaan door de werkgever, zijn lasthebbers of aangestelden, wordt de geldboete vermenigvuldigd met het aantal betrokken werknemers. De vermenigvuldigde geldboete mag evenwel niet meer dan het honderdvoud van de maximumgeldboete bedragen.".
+
+### ART 12.
+
+Artikel 132 van dezelfde wet, opgeheven door de wet van 6 juni 2010, wordt opnieuw opgenomen in de volgende lezing :<br>
+<br>
+"Art. 132. Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden gestraft met een gevangenisstraf van zes maanden tot drie jaar en met een geldboete van 250 euro tot 2500 euro, of met een van die straffen alleen :<br>
+1° de personen die wetens en willens onjuiste of onvolledige verklaringen hebben afgelegd met het oog op de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van deze wet;<br>
+2° de personen die wetens en willens hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze moeten verstrekken, om de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van deze wet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+3° de personen die wetens en willens de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van deze wet, ten onrechte hebben verkregen of behouden waarop ze geen of maar gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+4° de personen die, om de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van deze wet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden :<br>
+a) valsheid in geschrifte hebben gepleegd, hetzij door valse handtekeningen, hetzij door namaking of vervalsing van geschriften of handtekeningen, hetzij door overeenkomsten, beschikkingen, verbintenissen of schuldbevrijdingen valselijk op te maken of in een akte in te voegen, hetzij door toevoeging of vervalsing van bedingen, verklaringen of feiten die in de akte opgenomen of vastgesteld moeten worden;<br>
+b) zich bediend hebben van een valse akte of een vals stuk, terwijl ze wisten dat de gebruikte akte of het gebruikte stuk vals was;<br>
+5° de personen die, om de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van deze wet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden :<br>
+a) bedrog hebben gepleegd door gegevens die worden opgeslagen, verwerkt of overgedragen via een informaticasysteem, in te brengen in een informaticasysteem, te wijzigen of te wissen, of met een ander technologisch middel de mogelijke aanwending van gegevens in een informaticasysteem te veranderen, waardoor de juridische draagwijdte van de gegevens verandert;<br>
+b) hebben gebruikgemaakt van die gegevens, terwijl ze weten dat de aldus verkregen gegevens vals zijn;<br>
+6° de personen die, om de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van deze wet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden, hebben gebruikgemaakt van valse namen, valse hoedanigheden of valse adressen of die een andere frauduleuze handeling hebben gesteld om te doen geloven in het bestaan van een fictieve persoon, een fictieve onderneming of een fictieve gebeurtenis, of om op een andere wijze misbruik te maken van het vertrouwen.<br>
+<br>
+Voor de inbreuken, vermeld in het eerste lid, die werden begaan door de werkgever, zijn lasthebbers of aangestelden, wordt de geldboete vermenigvuldigd met het aantal werknemers dat betrokken is bij de inbreuk. De vermenigvuldigde geldboete mag evenwel niet meer dan het honderdvoud van de maximumgeldboete bedragen.".
+
+### ART 13.
+
+Artikel 133 van dezelfde wet, opgeheven door de wet van 6 juni 2010, wordt opnieuw opgenomen in de volgende lezing :<br>
+<br>
+"Art. 133. In geval van herhaling binnen vijf jaar kan de maximale straf, vermeld in artikel 131 en 132, op het dubbele van het maximum worden gebracht.".
+
+### ART 14.
+
+Artikel 134 van dezelfde wet, opgeheven door de wet van 6 juni 2010, wordt opnieuw opgenomen in de volgende lezing :<br>
+<br>
+"Art. 134. De werkgever is burgerrechtelijk aansprakelijk voor de betaling van de geldboetes waartoe zijn lasthebbers of aangestelden zijn veroordeeld.".
+
+### ART 15.
+
+Artikel 135 van dezelfde wet, opgeheven door de wet van 6 juni 2010, wordt opnieuw opgenomen in de volgende lezing :<br>
+<br>
+"Art. 135. Onrechtmatig ontvangen vergoedingen of betalingen worden ambtshalve teruggevorderd.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen voor de terugvordering van de onrechtmatig ontvangen vergoedingen of betalingen.".
+
+### ART 16.
+
+Artikel 136 van dezelfde wet, opgeheven door de wet van 6 juni 2010, wordt opnieuw opgenomen in de volgende lezing :<br>
+<br>
+"Art. 136. Alle bepalingen van boek I van het Strafwetboek, uitgezonderd hoofdstuk V, maar met inbegrip van hoofdstuk VII en artikel 85, zijn van toepassing op de bij deze wet vastgestelde overtredingen. In geval van herhaling is artikel 85 van het Strafwetboek niet van toepassing.".
+
+### ART 17.
+
+Aan artikel 137 van dezelfde wet, gewijzigd bij het koninklijk besluit van 19 mei 1995 en de wetten van 24 december 1999 en 3 juli 2005, wordt een vijfde lid toegevoegd, dat luidt als volgt :<br>
+<br>
+"De rechtsvorderingen die ontstaan uit de toepassing van deze wet en de uitvoeringsbesluiten ervan, verjaren na verloop van vijf jaar na het feit waaruit de vordering is ontstaan.".
+
+### ART 18.
+
+In artikel 137bis van dezelfde wet, ingevoegd bij de wet van 22 december 1989 en gewijzigd bij het decreet van 23 december 2016, wordt paragraaf 1 vervangen door wat volgt :<br>
+<br>
+" § 1. Om de terugbetaling te verkrijgen van de uren Vlaams opleidingsverlof, vermeld in artikel 120, dient de werkgever de aanvraag in binnen een termijn en volgens de procedure die de Vlaamse Regering bepaalt.".
+
 ## Afdeling 2. Wijzigingen van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004
 
 ### ART 19.
 
 In artikel 2, § 1, eerste lid, van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004, het laatst gewijzigd bij het decreet van 7 juli 2017, wordt punt 1° opgeheven.
+
+### ART 20.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 7 juli 2017, wordt een artikel 13/7 ingevoegd, dat luidt als volgt :<br>
+<br>
+"Art. 13/7. § 1. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op hoofdstuk IV, afdeling 6, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, een administratieve geldboete opgelegd worden van 250 euro tot 2500 euro aan de personen die onjuiste of onvolledige verklaringen hebben afgelegd met het oog op de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet.<br>
+<br>
+§ 2. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op hoofdstuk IV, afdeling 6, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, een administratieve geldboete opgelegd worden van 500 euro tot 5000 euro aan :<br>
+1° de personen die wetens en willens onjuiste of onvolledige verklaringen hebben afgelegd met het oog op de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet;<br>
+2° de personen die wetens en willens hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze gehouden zijn te verstrekken, om de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+3° de personen die wetens en willens de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet, ten onrechte hebben verkregen of behouden waarop ze geen of maar gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+4° de personen die, om de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden :<br>
+a) valsheid in geschrifte hebben gepleegd, hetzij door valse handtekeningen, hetzij door namaking of vervalsing van geschriften of handtekeningen, hetzij door overeenkomsten, beschikkingen, verbintenissen of schuldbevrijdingen valselijk op te maken of in een akte in te voegen, hetzij door toevoeging of vervalsing van bedingen, verklaringen of feiten die in de akte opgenomen of vastgesteld moeten worden;<br>
+b) zich bediend hebben van een valse akte of een vals stuk, terwijl ze weten dat de gebruikte akte of het gebruikte stuk vals is;<br>
+5° de personen die, om de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden :<br>
+a) bedrog hebben gepleegd door gegevens die worden opgeslagen, verwerkt of overgedragen via een informaticasysteem, in te brengen in een informaticasysteem, te wijzigen of te wissen, of met een ander technologisch middel de mogelijke aanwending van gegevens in een informaticasysteem te veranderen, waardoor de juridische draagwijdte van de gegevens verandert;<br>
+b) hebben gebruikgemaakt van die gegevens, terwijl ze weten dat de aldus verkregen gegevens vals zijn;<br>
+6° de personen die, om de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden, hebben gebruikgemaakt van valse namen, valse hoedanigheden of valse adressen of die een andere frauduleuze handeling hebben gesteld om te doen geloven in het bestaan van een fictieve persoon, een fictieve onderneming of een fictieve gebeurtenis, of om op een andere wijze misbruik te maken van het vertrouwen.".
+
+### ART 21.
+
+In artikel 19 van hetzelfde decreet, vervangen bij het decreet van 24 april 2015 en gewijzigd bij het decreet van 7 juli 2017, wordt de zinsnede "13/6" vervangen door de zinsnede "13/7".
+
+### ART 22.
+
+Artikel 21/1 van hetzelfde decreet, ingevoegd bij het decreet van 24 april 2015, wordt vervangen door wat volgt :<br>
+<br>
+"Art. 21/1. Onder de voorwaarden, vermeld in deze afdeling, kan aan de werknemer die de opleiding niet nauwgezet volgt en die meer opleidingsverlof opneemt dan de uren waarop de werknemer recht heeft volgens artikel 111 en 116 van de herstelwet van 22 januari 1985 houdende sociale bepalingen en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 50 euro tot 500 euro.".
 
 ## Afdeling 3. Wijzigingen van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid
 
@@ -127,3 +281,11 @@ De aanvragen voor een opleiding conform de wet van 1 juli 1963 houdende toekenni
 ### ART 28.
 
 Voor de werknemers die conform de wet van 1 juli 1963 houdende toekenning van een vergoeding voor sociale promotie een opleiding volgen, behouden de aanvragers tot uiterlijk 31 januari 2019 de mogelijkheid om een vergoeding voor sociale promotie te vragen conform de wet van 1 juli 1963 houdende toekenning van een vergoeding voor sociale promotie.
+
+### ART 29.
+
+De Vlaamse Regering bepaalt de maatregelen die nodig zijn om de overgang van de regelgeving, vermeld in artikel 4, 5, 7, 8 en 18 op een coherente manier te laten verlopen.
+
+### ART 30.
+
+Dit decreet treedt in werking op een door de Vlaamse Regering te bepalen datum, met uitzondering van artikel 19, 26, 27 en 28, die in werking treden op 1 december 2018.
