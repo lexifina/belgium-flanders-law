@@ -2,16 +2,16 @@
   "codex_id": 1031847,
   "title": "Besluit van de Vlaamse Regering van 2019-03-22 houdende wijzigingen aan het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031847/VolledigDocument?datum=2019-07-07",
-  "source_sha256": "2723245b0b0f652a74192c7ed36d5d9739420f2da8b264278d094ad92bf2de4c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031847/VolledigDocument?datum=2019-09-01",
+  "source_sha256": "6a904b74d0a2325c5963f0b29f8cab70eb2347d530c3fb7c20a5a1019a7936c4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031847&param=informatie",
-  "as_of": "2019-07-07",
+  "as_of": "2019-09-01",
   "made": "2019-03-22",
   "gazette": "2019-06-27",
   "numac": 2019013315,
   "document_start": "2019-07-07",
   "document_end": null,
-  "in_force": "2019-07-07",
-  "article_versions": 23,
-  "record_form": "consolidated version as in force on 2019-07-07; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-09-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
 }

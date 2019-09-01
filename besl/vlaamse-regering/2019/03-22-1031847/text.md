@@ -217,6 +217,43 @@ De minister kent, met behoud van de toepassing van de sectorale subsidieregels d
 In artikel 79, eerste lid, wordt punt 8° vervangen door wat volgt:<br>
 "8° de aanwending van het resterende bedrag van het derde van de gezinsbijslagen ter uitvoering van artikel 68, § 2, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid.".
 
+### ART 17.
+
+Artikel 86 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+Art. 86. § 1. Voor de uitvoering van de gerechtelijke maatregelen, vermeld in artikel 48, § 1, eerste lid, 3° tot en met 14°, van het decreet van 12 juli 2013, komen de jeugdhulpaanbieders in aanmerking die jeugdhulpverlening aanbieden met toepassing van de regelgeving, vermeld in artikel 3, § 1, eerste lid, 1°, en 3° tot en met 7°, van het decreet van 12 juli 2013.<br>
+<br>
+De volgende voorzieningen worden alleen voor de uitvoering van de gerechtelijke maatregelen, vermeld in het eerste lid, gelijkgesteld met een jeugdhulpaanbieder die maatregelen mag uitvoeren:<br>
+1° de ziekenhuizen, vermeld in de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen;<br>
+2° de voorzieningen die buiten het Nederlandse taalgebied liggen en waarvoor een overeenkomst is gesloten met de Vlaamse Gemeenschap;<br>
+3° de schoolinternaten.<br>
+<br>
+&nbsp;§ 2. In afwijking van de termijn, vermeld in artikel 48, § 1, eerste lid, 4° tot en met 10°, van het decreet van 12 juli 2013 bedraagt de maximumtermijn van de typemodules hoogstens:<br>
+1° één jaar, eenmalig verlengbaar met maximaal zes maanden voor de typemodules verblijf in een pleeggezin en begeleiding voor pleeggezinnen, gezinnen en pleegkinderen in een pleeggezin, perspectiefzoekend;<br>
+2° negen maanden voor de typemodule beveiligend verblijf;<br>
+3° zes maanden voor de typemodule contextbegeleiding kortdurend intensief;<br>
+4° vier maanden voor de typemodule contextbegeleiding met het oog op positieve heroriëntering;<br>
+5° drie maanden, telkens verlengbaar met een maand voor de volgende typemodules:<br>
+a) diagnostiek in het kader van de bijzondere jeugdbijstand;<br>
+b) verblijf met het oog op diagnostiek;<br>
+6° drie maanden voor de volgende typemodules:<br>
+a) ondersteunende begeleiding, rechtstreeks toegankelijk;<br>
+b) verblijf en begeleiding voor pleeggezinnen, gezinnen en pleegkinderen in een pleeggezin, ondersteunend en voor korte duur;<br>
+7° zes weken, eenmalig verlengbaar met maximaal zes weken voor de typemodule verblijf voor kinderen, voor korte duur;<br>
+8° achtentwintig dagen, tweemaal verlengbaar met maximaal zeven dagen voor de typemodule contextbegeleiding bij crisis;<br>
+9° twee weken voor de volgende typemodules:<br>
+a) een kortdurend crisisverblijf;<br>
+b) een crisisverblijf en begeleiding voor pleeggezinnen, gezinnen en pleegkinderen in een pleeggezin;<br>
+c) een time-out in de gemeenschapsinstellingen.<br>
+<br>
+§ 3. De minister bepaalt de nadere regels betreffende de organisatie en het aantal plaatsen van de time-outcapaciteit in de gemeenschapsinstellingen, vermeld in paragraaf 2, 9° c).".
+
+### ART 18.
+
+Artikel 87 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 87. De minister bepaalt welke combinaties van typemodules niet mogelijk zijn.".
+
 ### ART 19.
 
 In hoofdstuk 11 van hetzelfde besluit worden afdeling 1, die bestaat uit artikel 88 tot en met 92, en afdeling 2, die bestaat uit artikel 93 tot en met 96, opgeheven.
