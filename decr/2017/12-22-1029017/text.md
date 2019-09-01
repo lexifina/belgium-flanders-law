@@ -742,7 +742,7 @@ b) over verhuring, concessie, pacht, jacht- en visrechten van meer dan negen jaa
 9° het vertegenwoordigen van de gemeente in gerechtelijke en buitengerechtelijke gevallen en beslissingen over het in rechte optreden namens de gemeente, behalve in geval van toepassing van artikel 297, § 1, tweede lid;<br>
 10° de burgerlijke stand en de politie over de vertoningen overeenkomstig artikel 125, 126, 127, 130 en 132 van de Nieuwe Gemeentewet;<br>
 11° het opleggen van administratieve sancties overeenkomstig artikel 119bis van de Nieuwe Gemeentewet;<br>
-12° de vaststelling van de rooilijnen van de wegen, met inachtneming van de algemene plannen als dergelijke plannen bestaan;<br>
+12° de afpaling van de gemeentewegen, met inachtneming van de rooilijnplannen en eventuele andere plannen als die bestaan, volgens de bepalingen van het decreet van 3 mei 2019 houdende de gemeentewegen;;<br>
 13° het afsluiten van een afsprakennota als vermeld in artikel 171, § 2.<br>
 <br>
 § 4. Als de gemeenteraad geen delegatie gegeven heeft voor de vaststelling van de plaatsingsprocedure en de voorwaarden van overheidsopdrachten, met toepassing van artikel 41, § 1, kan het college van burgemeester en schepenen in gevallen van dwingende en onvoorziene omstandigheden op eigen initiatief die bevoegdheden uitoefenen.<br>
@@ -1549,9 +1549,9 @@ Het districtscollege is belast met:<br>
 <br>
 Het college van burgemeester en schepenen kan de districtscolleges belasten met:<br>
 1° het beheer van gemeentelijke inrichtingen in het district;<br>
-2° de vaststelling van de rooilijnen;<br>
+2° de afpaling van de rooilijnen;<br>
 3° het beheer van eigendommen van de gemeente in het district;<br>
-4° het onderhoud van buurtwegen en waterlopen.<br>
+4° het doen onderhouden van gemeentewegen en waterlopen.<br>
 <br>
 Artikel 125 en 126 van de Nieuwe Gemeentewet zijn van toepassing op het districtscollege, met dien verstande dat de districtsburgemeester optreedt in de plaats van de burgemeester, en met dien verstande dat "het college van burgemeester en schepenen" wordt gelezen als "het districtscollege" en dat "schepen" wordt gelezen als "districtsschepen".
 
