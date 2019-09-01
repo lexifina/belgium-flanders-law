@@ -157,6 +157,14 @@ In artikel 3, § 1, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet
 "1° het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp;";<br>
 2° in punt 4° worden de woorden "Kind en Gezin" vervangen door de woorden "Opgroeien regie".
 
+### ART 32.
+
+In artikel 51 van hetzelfde decreet, gewijzigd bij het decreet van 15 maart 2019, worden de volgende wijzigingen aangebracht:<br>
+1° het tweede lid wordt vervangen door wat volgt:<br>
+"De maatregelen, vermeld in artikel 48, § 1, eerste lid, 2°, 4°, 5, 7° tot en met 9° en 11° tot en met 13°, eindigen na het verstrijken van de maximumtermijn, tenzij ze worden verlengd, telkens voor een termijn die de gestelde maximum- periode niet mag overschrijden. De maatregelen, vermeld in artikel 48, § 1, eerste lid, 6°, 10° en 14°, kunnen slechts eenmaal worden verlengd.";<br>
+2° tussen het derde en het vierde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"Met behoud van de toepassing van de bij het tweede lid bepaalde maximale termijnen wordt iedere maatregel die bevolen is bij vonnis, met uitzondering van de maatregelen in het kader van pleegzorg als vermeld in artikel 2, 11°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, opnieuw onderzocht om te worden bevestigd, ingetrokken of gewijzigd voor een termijn van een jaar verstreken is vanaf de dag waarop de beslissing definitief is geworden. De voormelde procedure wordt ingeleid door het Openbaar Ministerie conform de vormvereisten, vermeld in artikel 45, 2, b), van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade.".
+
 ### ART 33.
 
 In artikel 67, tweede lid, van hetzelfde decreet, vervangen bij het decreet van 15 juli 2016 en gewijzigd bij het decreet van 15 maart 2019, wordt het woord "Jongerenwelzijn" vervangen door het woord "Opgroeien".
@@ -301,6 +309,10 @@ In artikel 31 van hetzelfde decreet, gewijzigd bij het decreet van 22 maart 2019
 1° in paragraaf 1 worden de woorden "Kind en Gezin" vervangen door de woorden "het agentschap Opgroeien regie";<br>
 2° in paragraaf 2 worden de woorden "Kind en Gezin" vervangen door de woorden "Het agentschap Opgroeien regie".
 
+### ART 60.
+
+In artikel 34, § 4, van hetzelfde decreet, ingevoegd bij het decreet van 22 maart 2019, wordt de zinsnede "paragraaf 1, eerste lid, 2° " vervangen door de zinsnede "paragraaf 2".
+
 ### ART 61.
 
 In artikel 36 van hetzelfde decreet, gewijzigd bij het decreet van 22 maart 2019, worden de volgende wijzigingen aangebracht:<br>
@@ -375,6 +387,10 @@ In artikel 21 van hetzelfde decreet, gewijzigd bij decreet van 19 juni 2020 en 1
 1° in paragraaf 1, tweede lid, wordt de zinsnede "paragraaf 4 en 5" vervangen door de zinsnede "paragraaf 4 tot en met 6";<br>
 2° in paragraaf 1, derde lid, wordt de zinsnede ", vermeld in het eerste lid," opgeheven;<br>
 3° in paragraaf 6 wordt het woord "jeugdrechtbank" vervangen door het woord "jeugdrechter" en worden de woorden "bij vonnis" opgeheven.
+
+### ART 85.
+
+In artikel 42, § 3, eerste lid, van hetzelfde decreet wordt het woord "Jongerenwelzijn" vervangen door de woorden "Opgroeien regie".
 
 ## HOOFDSTUK 14. Wijzigingen van het decreet van 26 april 2019 houdende de oprichting van een afstammingscentrum en een DNA-databank
 
