@@ -507,6 +507,37 @@ In artikel 88, § 1, 1°, van hetzelfde decreet worden de woorden "de functie" v
 
 In artikel 90 van hetzelfde decreet wordt het woord "functies" vervangen door het woord "ambten".
 
+### ART V.8.
+
+In artikel 97 van hetzelfde decreet, gewijzigd bij de decreten van 12 juli 2013 en 19 december 2014, worden de volgende wijzigingen aangebracht :<br>
+1° paragraaf 1 wordt vervangen door wat volgt :<br>
+" § 1. Een erkend centrum voor volwassenenonderwijs met onderwijsbevoegdheid voor de studiegebieden als vermeld in artikel 7 komt voor de financiering of subsidiëring voor het schooljaar n/n+1 in aanmerking wanneer het centrum voor volwassenenonderwijs aan één van de volgende voorwaarden voldoet :<br>
+1° het centrum voor volwassenenonderwijs waarvoor een bevolkingsdichtheid van meer dan 300 inwoners per km² wordt in aanmerking genomen, heeft tijdens de referteperiode van 1 april n-1 tot en met 31 maart n ten minste 700.000 lesurencursist in het secundair volwassenenonderwijs behaald, waarbij de lesurencursist die volgens de formule van artikel 98, § 1, aan de basis hebben gelegen van de berekening voor de overdracht van leraarsuren bij een overheveling van een of meer structuuronderdelen op 1 september n naar een ander centrum, niet meegerekend zijn;<br>
+2° het centrum voor volwassenenonderwijs waarvoor een bevolkingsdichtheid van meer dan 300 inwoners per km² wordt in aanmerking genomen, heeft op 1 september n ten minste de som van 700.000 lesurencursist in het secundair volwassenenonderwijs bereikt, waarvan een deel de lesurencursist zijn die door het centrum tijdens de referteperiode van 1 april n-1 tot en met 31 maart n zijn behaald en een deel de lesurencursist die volgens de formule van artikel 98, § 1, aan de basis hebben gelegen van de berekening voor de overdracht van leraarsuren bij een overheveling van een of meer structuuronderdelen op 1 september n;<br>
+3° het centrum voor volwassenenonderwijs waarvoor een bevolkingsdichtheid van 300 of minder inwoners per km² wordt in aanmerking genomen, heeft tijdens de referteperiode van 1 april n-1 tot en met 31 maart n ten minste 360.000 lesurencursist in het secundair volwassenenonderwijs behaald, waarbij de lesurencursist die volgens de formule van artikel 98, § 1, aan de basis hebben gelegen van de berekening voor de overdracht van leraarsuren bij een overheveling van een of meer structuuronderdelen op 1 september n naar een ander centrum, niet meegerekend zijn;<br>
+4° het centrum voor volwassenenonderwijs waarvoor een bevolkingsdichtheid van 300 of minder inwoners per km² wordt in aanmerking genomen, heeft op 1 september n ten minste de som van 360.000 lesurencursist in het secundair volwassenenonderwijs bereikt, waarvan een deel de lesurencursist zijn die door het centrum tijdens de referteperiode van 1 april n-1 tot en met 31 maart n zijn behaald en een deel de lesurencursist die volgens de formule van artikel 98, § 1, aan de basis hebben gelegen van de berekening voor de overdracht van leraarsuren bij een overheveling van een of meer structuuronderdelen op 1 september n;<br>
+5° het centrum voor volwassenenonderwijs waarvan de hoofdvestigingsplaats op 1 januari 2017 in het tweetalige gebied Brussel-Hoofdstad of in de rand- en taalgrensgemeenten of in de voormalige mijngemeente Beringen, Genk, Houthalen-Helchteren, Heusden-Zolder en Maasmechelen ligt, heeft tijdens de referteperiode van 1 april n-1 tot en met 31 maart n ten minste 525.000 lesurencursist behaald, waarbij de lesurencursist die volgens de formule van artikel 98, § 1, aan de basis hebben gelegen van de berekening voor de overdracht van leraarsuren bij een overheveling van een of meer structuuronderdelen op 1 september n naar een ander centrum, niet meegerekend zijn;<br>
+6° het centrum voor volwassenenonderwijs waarvan de hoofdvestigingsplaats op 1 januari 2017 in het tweetalige gebied Brussel-Hoofdstad of in de rand- en taalgrensgemeenten of in de voormalige mijngemeente Beringen, Genk, Houthalen-Helchteren, Heusden-Zolder en Maasmechelen ligt, heeft op 1 september n ten minste de som van 525.000 in het secundair volwassenenonderwijs bereikt, waarvan een deel de lesurencursist zijn die door het centrum tijdens de referteperiode van 1 april n-1 tot en met 31 maart n zijn behaald en een deel de lesurencursist die volgens de formule van artikel 98, § 1, aan de basis hebben gelegen van de berekening voor de overdracht van leraarsuren bij een overheveling van een of meer structuuronderdelen op 1 september n;<br>
+7° het centrum voor volwassenenonderwijs heeft onderwijsbevoegdheid voor maximaal één studiegebied als vermeld in artikel 7 en heeft tijdens de referteperiode van 1 april n-1 tot en met 31 maart n ten minste 200.000 lesurencursist in dit studiegebied behaald;<br>
+8° het centrum voor volwassenenonderwijs heeft onderwijsbevoegdheid voor maximaal één studiegebied als vermeld in artikel 7 en heeft op 1 september n ten minste de som van 200.000 lesurencursist bereikt, waarvan een deel de lesurencursist zijn die door het centrum tijdens de referteperiode van 1 april n-1 tot en met 31 maart n in dit studiegebied zijn behaald en een deel de lesurencursist die volgens de formule van artikel 98, § 1, aan de basis hebben gelegen van de berekening voor de overdracht van leraarsuren bij een overheveling van een of meer structuuronderdelen op 1 september n;<br>
+9° het centrum voor volwassenenonderwijs heeft onderwijsbevoegdheid voor maximaal twee studiegebieden als vermeld in artikel 7, waarvan één studiegebied waarvoor op 1 februari 2017 geen enkel ander centrum voor volwassenenonderwijs onderwijsbevoegdheid heeft, en heeft tijdens de referteperiode van 1 april n-1 tot en met 31 maart n ten minste 200.000 lesurencursist in één van deze studiegebieden behaald.<br>
+<br>
+Een erkend centrum voor volwassenenonderwijs met onderwijsbevoegdheid voor uitsluitend de studiegebieden, vermeld in artikel 8, en/of uitsluitend de specifieke lerarenopleiding komt voor de financiering of subsidiëring voor het schooljaar n/n+1 in aanmerking wanneer het centrum voor volwassenenonderwijs tijdens de referteperiode van 1 april n-1 tot en met 31 maart n ten minste 120.000 lesurencursist heeft behaald.";<br>
+<br>
+2° paragraaf 3 wordt opgeheven;<br>
+<br>
+3° in paragraaf 5 wordt de zinsnede "als het tijdens de referteperiode van 1 april n-1 tot en met 31 maart n ten minste 360.000 lesurencursist heeft behaald" vervangen door de volgende zinnen :<br>
+"wanneer het aan één van de volgende voorwaarden voldoet :<br>
+1° het centrum voor volwassenenonderwijs waarvoor een bevolkingsdichtheid van meer dan 300 inwoners per km² wordt in aanmerking genomen, heeft tijdens de referteperiode van 1 april n-1 tot en met 31 maart n ten minste 850.000 lesurencursist behaald;<br>
+2° het centrum voor volwassenenonderwijs waarvoor een bevolkingsdichtheid van 300 of minder inwoners per km² wordt in aanmerking genomen, heeft tijdens de referteperiode van 1 april n-1 tot en met 31 maart n ten minste 360.000 lesurencursist behaald.";<br>
+<br>
+4° paragraaf 6 wordt vervangen door wat volgt :<br>
+" § 6. Als in de referteperiodes van 1 april n-2 tot en met 31 maart n niet langer voldaan wordt aan de voorwaarden, vermeld in paragraaf 1, wordt de financiering of de subsidiëring van het structuuronderdeel of de structuuronderdelen in kwestie, zoals vermeld in paragraaf 1, van het centrum voor volwassenenonderwijs in kwestie afgebouwd tot nul vanaf het jaar n.<br>
+<br>
+Elk centrum dat de rationalisatienorm gedurende twee opeenvolgende referteperiodes niet bereikt heeft, moet op 1 september van het daaropvolgende schooljaar :<br>
+1° hetzij fusioneren met een andere centrum;<br>
+2° hetzij overgaan tot geleidelijke afbouw waarbij de cursisten, ingeschreven in het centrum voor volwassenenonderwijs op het moment dat beslist wordt tot afbouw, de aangevatte opleiding volledig en binnen een normaal tijdsbestek moeten kunnen beëindigen. Met een normaal tijdsbestek wordt bedoeld zonder onderbreking en zonder herhaling van een module. De afbouw tot nul moet gerealiseerd worden binnen een periode van drie schooljaren.".
+
 ### ART V.9.
 
 In artikel 98, § 1, tweede lid, van hetzelfde decreet, gewijzigd bij het decreet van 23 december 2016, worden de volgende wijzigingen aangebracht :<br>
@@ -1421,13 +1452,6 @@ In artikel 5 van het decreet van 8 juni 2007 betreffende de studiefinanciering v
 
 &nbsp;In artikel 9, § 2, van hetzelfde decreet, gewijzigd bij het decreet van 8 mei 2009, wordt punt 6° vervangen door wat volgt :<br>
 "6° leerlingen of studenten met een buitenlandse nationaliteit die toegelaten zijn tot een verblijf van bepaalde duur in België op basis van de artikelen 49, § 1, of 49/2, § 1, van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;".
-
-### ART IX.11.
-
-In artikel 23 van hetzelfde decreet, gewijzigd met het decreet van 4 juli 2008 en van 1 juli 2011, wordt een paragraaf 4 toegevoegd, die luidt als volgt :<br>
-" § 4. In afwijking van § 3 is de student die vanaf het academiejaar 2016-2017 ingeschreven is voor de opleiding verpleegkunde van 240 studiepunten, studietoelagegerechtigd voor het behalen van zijn eerste bachelordiploma totdat hij maximaal 300 studiepunten verworven heeft voor het volgen van bacheloropleidingen.<br>
-<br>
-In afwijking van § 3 is de student die reeds een bachelordiploma behaald heeft en vanaf het academiejaar 2016-2017 is ingeschreven voor de opleiding verpleegkunde van 240 studiepunten, studietoelagegerechtigd voor het behalen van zijn tweede bachelordiploma totdat hij in totaal maximaal 480 studiepunten verworven heeft voor het volgen van bacheloropleidingen.".
 
 ### ART IX.12.
 
