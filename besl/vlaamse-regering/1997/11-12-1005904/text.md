@@ -101,7 +101,7 @@ De school beschikt over een dossier dat ten minste de volgende elementen bevat :
 2) een medisch attest waaruit de noodzakelijkheid, de frequentie en de duur van de revalidatie blijkt;<br>
 3) een advies, geformuleerd door het centrum voor leerlingenbegeleiding, na overleg met de klassenraad en de ouders. Dat advies moet motiveren waarom revalidatie tijdens de lestijden vereist is;<br>
 4) een toestemming van de directeur voor een periode die de duur van de behandeling, vermeld in het medisch attest, niet kan overschrijden;<br>
-b) in het gewoon onderwijs gedurende maximaal 150 minuten per week, verplaatsing inbegrepen, wegens een stoornis die is vastgelegd in een diagnose als vermeld in artikel 5, 4°, van het besluit van de Vlaamse Regering van 3 juli 2009 tot vaststelling van de operationele doelstellingen van de centra voor leerlingenbegeleiding. In uitzonderlijke omstandigheden kan de maximumduur van 150 minuten uitgebreid worden voor leerplichtige kleuters tot 200 minuten, verplaatsing inbegrepen na gunstig advies van het centrum voor leerlingenbegeleiding in overleg met de klassenraad en de ouders.<br>
+b) in het gewoon onderwijs gedurende maximaal 150 minuten per week, verplaatsing inbegrepen, voor leerlingen met een specifieke onderwijsgerelateerde behoefte waarvoor een handelingsgericht advies is gegeven als vermeld in artikel 2, 11°, g), van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding. In uitzonderlijke omstandigheden kan de maximumduur van 150 minuten uitgebreid worden voor leerplichtige kleuters tot 200 minuten, verplaatsing inbegrepen na gunstig advies van het centrum voor leerlingenbegeleiding in overleg met de klassenraad en de ouders.<br>
 Voor leerlingen met een verslag kan de afwezigheid maximaal 250 minuten per week bedragen, verplaatsing inbegrepen.<br>
 Het advies van het centrum voor leerlingenbegeleiding moet motiveren waarom de behandeling tijdens de lestijden noodzakelijk blijft en moet aantonen dat door die afwezigheid het leerproces van de leerling niet ernstig wordt benadeeld.<br>
 De school beschikt over een dossier dat ten minste de volgende elementen bevat :<br>
@@ -136,10 +136,7 @@ De afspraken over de modaliteiten aangaande het onderwijs op afstand en aangaand
 
 § 1. Alle afwezigheden die niet vallen onder artikel 10ter , 1° tot en met 5°, en artikel 10quater, worden beschouwd als problematische afwezigheden.<br>
 <br>
-§ 2. De als problematisch geregistreerde afwezigheden worden beschouwd als gewettigde afwezigheden, mits de school in begeleidende maatregelen ten aanzien van de betrokken leerling voorziet. Vanaf vijf al dan niet gespreide halve lesdagen per schooljaar die als problematische afwezigheid zijn geregistreerd, moeten bovendien volgende voorwaarden voldaan zijn:<br>
-1° de school moet de problematische afwezigheden aan het centrum voor leerlingenbegeleiding signaleren;<br>
-2° overeenkomstig artikel 5 van het besluit van de Vlaamse regering van 28 augustus 2000 tot vaststelling van de operationele doelstellingen voor de begeleiding van jongeren met leerplichtproblemen in de centra voor leerlingenbegeleiding moet de school samenwerken met het centrum voor leerlingenbegeleiding inzake de begeleiding van de desbetreffende jongere;<br>
-3° van de in 2° vermelde begeleiding moet de school een dossier bijhouden. Dit mag een onderdeel zijn van het leerlingendossier.<br>
+§ 2. De afwezigheden die geregistreerd zijn als problematisch, worden beschouwd als gewettigde afwezigheden, op voorwaarde dat de school in begeleidende maatregelen voor de leerling in kwestie voorziet. Vanaf vijf al dan niet gespreide halve lesdagen per schooljaar die als problematische afwezigheid zijn geregistreerd, signaleert de school bovendien de problematische afwezigheden aan het centrum voor leerlingenbegeleiding en werkt ermee samen rond begeleiding van de jongere in kwestie. Van die begeleiding houdt de school een dossier bij, dat een onderdeel mag zijn van het leerlingendossier.<br>
 <br>
 § 3. De als problematisch geregistreerde afwezigheid van leerlingen waarvoor de school, omwille van hun onbereikbaarheid, in de onmogelijkheid is om in begeleiding te voorzien, worden beschouwd als gewettigde afwezigheden, mits de school kan aantonen dat ze inspanningen gedaan heeft om de betrokken leerling te lokaliseren.<br>
 <br>
@@ -151,7 +148,7 @@ Alle wettigingen, alsook het dossier zoals bedoeld in artikel l0quinquies, § 2,
 
 ### ART. 10sexies1.
 
-Bij schoolverandering moet de uitschrijvende school binnen een week de gegevens inzake de problematische afwezigheden van de leerling aan de inschrijvende school bezorgen.
+...
 
 ### ART. 10septies.
 
