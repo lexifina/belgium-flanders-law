@@ -300,7 +300,7 @@ De Vlaamse Regering bepaalt de nadere regels voor de bekendmaking van het defini
 &nbsp;Een samenlopende procedure is een onteigeningsprocedure die gelijktijdig loopt met een van de volgende ruimtelijkeplanningsprocedures:<br>
 1° de procedure tot vaststelling van een ruimtelijk uitvoeringsplan conform de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, artikel 2.2.6 tot en met 2.2.8, artikel 2.2.9 tot en met 2.2.12 en artikel 2.2.14 tot en met 2.2.18;<br>
 2° de procedure tot vaststelling van een voorkeurs- of projectbesluit conform het decreet van 25 april 2014 betreffende complexe projecten, artikel 13 tot en met 17 en artikel 22 tot en met 27;<br>
-3° de procedure tot vaststelling van een rooilijnplan, conform het decreet van 8 mei 2009 houdende vaststelling en realisatie van de rooilijnen, hoofdstuk 2, artikel 7, 8, 9 en 10.
+3° de procedure tot vaststelling of wijziging van een rooilijnplan, conform het decreet van 8 mei 2009 houdende vaststelling en realisatie van de rooilijnen of het decreet van 3 mei 2019 houdende de gemeentewegen.
 
 ### ART 32.
 
