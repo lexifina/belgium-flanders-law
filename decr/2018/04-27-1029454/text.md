@@ -95,7 +95,7 @@ De Vlaamse Regering kan de verdere operationalisering van de kernactiviteit draa
 <br>
 § 4. Leerplichtigen die huisonderwijs volgen, kunnen zich, al dan niet samen met hun ouders, aanmelden bij een centrum voor de kernactiviteiten onthaal en vraagverheldering.<br>
 <br>
-Leerplichtigen die huisonderwijs volgen, waarvoor een verklaring huisonderwijs moet ingediend worden bij de bevoegde diensten van de Vlaamse Regering, kunnen zich, al dan niet samen met hun ouders, aanmelden bij een centrum voor vaccinaties. Ouders dienen hiervoor toestemming te geven.<br>
+Leerplichtigen die huisonderwijs volgen, waarvoor een verklaring huisonderwijs moet ingediend worden bij de bevoegde diensten van de Vlaamse Regering, kunnen zich, al dan niet samen met hun ouders, aanmelden bij een centrum voor vaccinaties.<br>
 <br>
 Leerplichtigen die huisonderwijs volgen, waarvoor een verklaring huisonderwijs moet ingediend worden bij de bevoegde diensten van de Vlaamse Regering, zijn verplicht deel te nemen aan de systematische contacten die een centrum organiseert, en melden zich daarvoor aan. Deze leerplichtigen en hun ouders kunnen zich niet verzetten tegen de uitvoering van systematische contacten, maar wel tegen de uitvoering ervan door een bepaalde medewerker van een centrum. De Vlaamse Regering bepaalt de procedure voor het voormelde verzet.<br>
 <br>
@@ -140,7 +140,7 @@ Leerlingen en ouders kunnen zich niet verzetten tegen:<br>
 <br>
 De ouders of de bekwame leerling kunnen zich verzetten tegen de uitvoering van een systematisch contact door een bepaalde medewerker van het centrum. De Vlaamse Regering bepaalt de procedure voor het voormelde verzet.<br>
 <br>
-Leerlingen kunnen zich, al dan niet samen met hun ouders, aanmelden bij een centrum voor vaccinaties. Ouders dienen hiervoor toestemming te geven.<br>
+Leerlingen kunnen zich, al dan niet samen met hun ouders, aanmelden bij een centrum voor vaccinaties.<br>
 <br>
 In afwijking van artikel 2, 16°, geldt voor het derde en vierde lid volgende definitie voor ouders: de personen die titularis zijn van het ouderlijk gezag of, bij ontstentenis van deze personen, de wettelijke vertegenwoordiger.<br>
 <br>
@@ -156,7 +156,7 @@ Het multidisciplinaire dossier omvat:<br>
 3° in voorkomend geval de dossiers die de PMS- en MST-centra hebben overgedragen;<br>
 4° een chronologisch overzicht van alle contacten met en tussenkomsten bij de betrokken leerling, met vermelding van de aard van de tussenkomst en de naam van de betrokken medewerker van het centrum.<br>
 <br>
-De opmaak, de bewaring en het gebruik van persoonsgegevens en van de persoonsgegevens die op de gezondheid betrekking hebben in het multidisciplinaire dossier zijn onderworpen aan de verplichtingen die voortvloeien uit de wetgeving tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens en betreffende de rechten van de patiënt.<br>
+De opmaak, de bewaring en het gebruik van persoonsgegevens en van de persoonsgegevens die op de gezondheid betrekking hebben in het multidisciplinaire dossier zijn onderworpen aan de verplichtingen die voortvloeien uit de&nbsp;regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens ten opzichte van de verwerking van persoonsgegevens en betreffende de rechten van de patiënt.<br>
 <br>
 Zodra een leerplichtige die huisonderwijs volgt zich aanmeldt bij een centrum of zodra zijn ouders zich aanmelden bij een centrum, maakt het centrum één multidisciplinair dossier aan indien er voor de leerling nog geen dossier is.<br>
 <br>
@@ -242,13 +242,29 @@ De Vlaamse Regering kan bijkomende thema's bepalen;<br>
 <br>
 Binnen de beschikbare begrotingskredieten kent de Vlaamse Regering jaarlijks middelen toe voor de personeelsomkadering en het werkingsbudget van de netoverstijgende regionale ondersteuningscellen. Deze middelen worden berekend en toegekend per centrum zoals bepaald in artikel 41. Het centrum draagt vervolgens de middelen over aan de cel waartoe het behoort.<br>
 <br>
-Bij de doorlichting van een centrum wordt ook de netoverstijgende regionale ondersteuningscel waaraan het deelneemt betrokken.
+Bij de doorlichting van een centrum wordt ook de netoverstijgende regionale ondersteuningscel waaraan het deelneemt betrokken.<br>
+<br>
+§ 3. De centra maken netoverstijgend afspraken om onafhankelijke bemiddeling mogelijk te maken voor leerlingen of ouders over het ondersteuningsaanbod in functie van de leerling met specifieke onderwijsbehoeften.<br>
+<br>
+De bemiddeling wordt ingezet op verzoek van leerlingen of ouders als ze klachten hebben over:<br>
+1° redelijke aanpassingen door de school;<br>
+2° ondersteuning door het ondersteuningsnetwerk of een school voor buitengewoon onderwijs;<br>
+3° een gemotiveerd verslag of een verslag door het centrum.<br>
+<br>
+De bemiddeling kan alleen ingezet worden als de leerling of de ouders de klacht eerst rechtstreeks met de betrokken medewerker van het centrum hebben besproken:<br>
+1° bij klachten over redelijke aanpassingen wordt eerst de betrokken school voor gewoon onderwijs aangesproken, met ondersteuning van de betrokken medewerker van het centrum;<br>
+2° bij klachten over ondersteuning wordt eerst het betrokken ondersteuningsnetwerk en de school voor buitengewoon onderwijs aangesproken, met ondersteuning van de betrokken medewerker van het centrum;<br>
+3° bij klachten over een gemotiveerd verslag of een verslag wordt eerst de betrokken medewerker van het centrum aangesproken waarbij de klachtenprocedure van het centrum wordt gevolgd.<br>
+<br>
+Een medewerker van een ander centrum die niet betrokken is bij de school waar de leerling ingeschreven is en de betrokken school voor buitengewoon onderwijs die voorziet in een ondersteuningsaanbod en de begeleiding van de leerling, treedt op als onafhankelijke bemiddelaar.<br>
+<br>
+Met behoud van de toepassing van het eerste, tweede en derde lid wordt vanaf 1 september 2023 bemiddeling opgenomen als bijkomend thema voor de netoverstijgende regionale ondersteuningscel.
 
 ### ART 17.
 
 Om de Vlaamse Regering in staat te stellen beleidsopties te formuleren, bepaalt de Vlaamse Regering welke gegevens bezorgd worden, in welke vorm en aan welke diensten. Dat gebeurt na overleg met de centrumnetten.<br>
 <br>
-Het centrum brengt jaarlijks verslag uit over een aantal gegevens uit het multidisciplinair dossier van de leerling, met behoud van de toepassing van de regelgeving over de bescherming bij de verwerking van persoonsgegevens.<br>
+Het centrum brengt jaarlijks verslag uit over een aantal gegevens uit het multidisciplinair dossier van de leerling, met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
 <br>
 Voor de samenwerking wisselen het centrum en de schoolexterne diensten waarmee het samenwerkt de nodige gegevens uit. Ze houden daarbij rekening met hun beroepsgeheim.
 
@@ -450,6 +466,10 @@ De personeelsomkadering van een centrum wordt jaarlijks berekend.
 
 De gegarandeerde omkadering van ieder centrum is gelijk aan de omkaderingsgewichten zoals toegekend aan ieder centrum voor de omkaderingsperiode 2014-2017 door de bevoegde dienst van de Vlaamse Regering.
 
+### ART 39/1.
+
+Een centrum dat de samenwerking met een school stopzet vanuit de intentie om minder leerlingen te begeleiden met de gegarandeerde omkadering, vermeld in artikel 39, verliest 10 % van die gegarandeerde omkadering die het voor de omkaderingsperiode 2014-2017 gekregen heeft. Het verlies van 10 % is recurrent als de samenwerking met die school uitblijft op jaarbasis. Het verlies van 10 % is cumulatief per school waarmee het centrum niet meer samenwerkt. De bevoegde dienst van de Vlaamse overheid beslist tot verlies van omkadering nadat de bemiddelingscommissie, vermeld in artikel 14, § 4, de bemiddelingsprocedure tot samenwerken heeft ingezet.
+
 ### ART 40.
 
 &nbsp;§ 1. De nieuwe omkadering wordt berekend op basis van 2898,85 omkaderingsgewichten met een voorafname voor de permanente ondersteuningscellen, een voorafname van 35 % op basis van de SES-kenmerken van de leerlingen en een lineaire verdeling op basis van gewogen leerlingen.<br>
@@ -496,17 +516,27 @@ Vanaf het schooljaar 2019-2020 worden volgende groei- of dalingsmechanisme in he
 <br>
 § 6. De middelen die de Vlaamse Regering jaarlijks toekent voor de netoverstijgende regionale ondersteuningscellen, worden verdeeld over ieder centrum.
 
+### ART 41/1.
+
+Aan de centra worden voor het schooljaar 2019-2020 globaal 4,6 organieke omkaderingsgewichten aanvangsbegeleiding toegekend. Vanaf het schooljaar 2020-2021 wordt het beschikbaar aantal organieke omkaderingsgewichten evenredig aangepast aan eventuele wijzigingen aan de totaliteit van de reële omkadering van alle centra ten opzichte van het voorafgaande schooljaar.<br>
+<br>
+Die omkaderingsgewichten worden over de centra verdeeld in verhouding tot de reële omkadering van het centrum en het schooljaar in kwestie in de totaliteit van de reële omkadering van alle centra.<br>
+<br>
+De aanwending van de omkaderingsgewichten aanvangsbegeleiding gebeurt in wervingsambten van het technisch personeel of van het ondersteunend personeel.<br>
+<br>
+De omkaderingsgewichten aanvangsbegeleiding die elk centrum ontvangt, kunnen door elk centrum gedeeltelijk of volledig worden overgedragen aan een al dan niet netoverstijgend samenwerkingsverband van centra onderling, naar de permanente ondersteuningscel of een netoverstijgend samenwerkingsverband van de permanente ondersteuningscellen of naar een netoverstijgende regionale ondersteuningscel. Ook in het geval van overdracht kunnen die omkaderingsgewichten alleen voor aanvangsbegeleiding in wervingsambten van het technisch personeel of van het ondersteunend personeel worden aangewend.
+
 ### ART 42.
 
-§ 1. Een centrum kan, na onderhandeling in het lokaal comité, jaarlijks aan een of meer andere centra omkaderingsgewichten als vermeld in artikel 41, overdragen.<br>
+§ 1. Een centrum kan, na onderhandeling in het lokaal comité, jaarlijks aan een of meer andere centra omkaderingsgewichten als vermeld in artikel 41 en 41/1, overdragen.<br>
 <br>
 § 2. Een centrum kan, na onderhandeling in het lokaal comité, de toegekende omkaderingsgewichten, vermeld in artikel 41, geheel of gedeeltelijk overdragen aan de permanente ondersteuningscel, aan een regionale ondersteuningscel en/of aan een netoverstijgende regionale ondersteuningscel voor de duurtijd van de omkaderingsperiode, vermeld in artikel 41.<br>
 <br>
-Met de voormelde omkaderingsgewichten kunnen&nbsp;in de permanente ondersteuningscel betrekkingen worden opgericht in ambten als vermeld in artikel 46, met uitzondering van het bevorderingsambt van directeur.<br>
+Met de voormelde omkaderingsgewichten kunnen in de permanente ondersteuningscel betrekkingen worden opgericht in ambten als vermeld in artikel 46, met uitzondering van het bevorderingsambt van directeur.<br>
 <br>
 Met de voormelde omkaderingsgewichten kunnen voor de regionale ondersteuningscel en de netoverstijgende regionale ondersteuningscel betrekkingen worden opgericht in ambten als vermeld in artikel 46. Aan de regionale ondersteuningscel en de netoverstijgende regionale ondersteuningscel kan met deze omkaderingsgewichten maximaal één voltijdse betrekking van directeur worden opgericht. Voor die betrekking van directeur wordt het desbetreffende omkaderingsgewicht van de overgedragen omkaderingsgewichten, vermeld in paragraaf 1, aangewend.<br>
 <br>
-De betrekkingen die met de overgedragen omkaderingsgewichten worden opgericht voor de regionale ondersteuningscel of netoverstijgende regionale ondersteuningscel, worden administratief verbonden aan een of meer van de centra die deel uitmaken van deze regionale ondersteuningscel of netoverstijgende regionale ondersteuningscel.<br>
+De betrekkingen die met de overgedragen omkaderingsgewichten worden opgericht voor de regionale ondersteuningscel of netoverstijgende regionale ondersteuningscel, worden administratief verbonden aan een of meer van de centra die deel uitmaken van deze regionale ondersteuningscel of netoverstijgende regionale ondersteuningscel..<br>
 <br>
 § 3. Elk centrum mag bij overdracht van omkaderingsgewichten als vermeld in paragraaf 1 en 2, aan een of meer andere centra, aan de permanente ondersteuningscel en/of aan de regionale ondersteuningscel en/of aan de netoverstijgende regionale ondersteuningscel ook het overeenstemmende werkingsbudget geheel of gedeeltelijk overdragen.
 
@@ -557,7 +587,7 @@ Deze personeelsleden vallen onder de toepassing van de wet van 3 juli 1978 betre
 <br>
 Deze personeelsleden vallen onder de toepassing van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.<br>
 <br>
-§ 2. Het bestuur kan ten laste van het werkingsbudget, vermeld in artikel 26, of van de Vlaamse ondersteuningspremie, uitgekeerd door de VDAB, ook personeelsleden aanwerven op basis van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, respectievelijk het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991. In het gemeenschapsonderwijs kan een bestuur het voormelde principe aanwenden voor de personeelscategorieën die van toepassing zijn in de centra voor leerlingenbegeleiding, vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, met uitzondering van het statutaire meesters-, vak- en dienstpersoneel. In het gesubsidieerd onderwijs kan een bestuur het voormelde principe aanwenden voor de personeelscategorieën die van toepassing zijn in de centra voor leerlingenbegeleiding vermeld in artikel 4, § 1, a), van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
+§ 2. Het bestuur kan ten laste van het werkingsbudget, vermeld in artikel 26, van de Vlaamse ondersteuningspremie, uitgekeerd door de VDAB, of van subsidies toegekend door het beleidsdomein Welzijn, Volksgezondheid en Gezin, ook personeelsleden aanwerven op basis van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, respectievelijk het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991. In het gemeenschapsonderwijs kan een bestuur het voormelde principe aanwenden voor de personeelscategorieën die van toepassing zijn in de centra voor leerlingenbegeleiding, vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, met uitzondering van het statutaire meesters-, vak- en dienstpersoneel. In het gesubsidieerd onderwijs kan een bestuur het voormelde principe aanwenden voor de personeelscategorieën die van toepassing zijn in de centra voor leerlingenbegeleiding vermeld in artikel 4, § 1, a), van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
 <br>
 De betrekking die met de middelen, vermeld in het eerste lid, wordt opgericht kan niet vacant worden verklaard en het bestuur kan in geen geval een personeelslid vastbenoemen, affecteren of muteren in die betrekking.<br>
 <br>
