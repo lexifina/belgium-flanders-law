@@ -32,7 +32,22 @@ Het agentschap werkt voorstellen van onderwijskwalificaties uit op eigen   initi
 
 ### ART. 5.
 
-Ieder voorstel van onderwijskwalificatie bevat :<BR>1° de titelen het   niveau;<BR>2° de aanvragers en de actoren die bij de opmaak betrokken   zijn;<BR>3° de eindtermen en/of de specifieke eindtermen en/of al de   competenties van de erkende beroepskwalificatie(s) waaruit de   onderwijskwalificatie is samengesteld;<BR>4° de benaming en het niveau van de   erkende beroepskwalificatie(s) die in voorkomend geval deel uitmaken van de   kwalificatie;<BR>5° ter uitvoering van en overeenkomstig de toepassing van de   criteria, vermeld in artikel 15, tweede lid van het decreet van 30 april 2009   :<BR>a) de maatschappelijke, economische of culturele behoefte;<BR>b) de   onderwijskundige en opvoedkundige context : de aansluiting bij de doelgroep, het   bieden van een duidelijke finaliteit zijnde de arbeidsmarktgerichtheid en/of de   doorstroomgerichtheid, de mate waarin leermotivatie gestimuleerd wordt;<BR>c)   een inschatting van de instroom;<BR>d) een inschatting van de uitstroom;<BR>e)   de noodzakelijke materiële en financiële middelen en expertise;<BR>f) de   noodzakelijke samenwerking, als die vereist is;<BR>g) de beschrijving van de   plaats in de opleidingenstructuur en in voorkomend geval de vereiste   voorkennis;<BR>h) de onderwijsvorm(en), het onderwijsniveau of de   onderwijsniveaus en het studiegebied of de studiegebieden, waarin de   onderwijskwalificatie zal kunnen worden aangeboden;<BR>6° de beschrijving van   het onderscheidend karakter van de onderwijskwalificatie tegenover en de   samenhang met andere voorstellen van onderwijskwalificaties en met erkende   beroeps- en onderwijskwalificaties;<BR>7° welke onderwijskwalificatie of   kwalificaties in voorkomend geval vervangen worden.<BR>
+Ieder voorstel van onderwijskwalificatie bevat :<br>
+1° de titelen het niveau;<br>
+2° de aanvragers en de actoren die bij de opmaak betrokken zijn;<br>
+3° "de onderwijsdoelen, meer bepaald de eindtermen en de overige onderdelen waaruit de onderwijskwalificatie is samengesteld met toepassing van artikel 14 van het decreet van 30 april 2009;<br>
+4° de benaming en het niveau van de erkende beroepskwalificatie(s) die in voorkomend geval deel uitmaken van de kwalificatie;<br>
+5° ter uitvoering van en overeenkomstig de toepassing van de criteria, vermeld in artikel 15, tweede lid van het decreet van 30 april 2009 :<br>
+a) de maatschappelijke, economische of culturele behoefte;<br>
+b) de onderwijskundige en opvoedkundige context : de aansluiting bij de doelgroep, het bieden van een duidelijke finaliteit zijnde de arbeidsmarktgerichtheid en/of de doorstroomgerichtheid, de mate waarin leermotivatie gestimuleerd wordt;<br>
+c) een inschatting van de instroom;<br>
+d) een inschatting van de uitstroom;<br>
+e) de noodzakelijke materiële en financiële middelen en expertise;<br>
+f) de noodzakelijke samenwerking, als die vereist is;<br>
+g) de beschrijving van de plaats in de opleidingenstructuur en in voorkomend geval de vereiste voorkennis;<br>
+h) de onderwijsvorm(en), het onderwijsniveau of de onderwijsniveaus en het studiegebied of de studiegebieden, waarin de onderwijskwalificatie zal kunnen worden aangeboden;<br>
+6° de beschrijving van het onderscheidend karakter van de onderwijskwalificatie tegenover en de samenhang met andere voorstellen van onderwijskwalificaties en met erkende beroeps- en onderwijskwalificaties;<br>
+7° welke onderwijskwalificatie of kwalificaties in voorkomend geval vervangen worden.
 
 ### ART. 6.
 
