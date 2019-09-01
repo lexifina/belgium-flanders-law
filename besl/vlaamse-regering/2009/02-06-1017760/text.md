@@ -18,7 +18,15 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder :<br />1° Decreet : h
 
 ### ART. 3.
 
-Met toepassing van artikel 78, § 3 van het decreet wordt het   leerlingenkenmerk 2 vastgesteld aan de hand van de gegevens over de toegekende   schooltoelagen van de dienst, bevoegd voor studietoelagen.<BR><BR>Voor het   begrotingsjaar 2009 wordt leerlingenkenmerk 2 vastgesteld op basis van de   beschikbare gegevens op 1 mei 2009 m.b.t. de leerlingen die een schooltoelage   krijgen voor het schooljaar 2008-2009.<BR><BR>Vanaf het begrotingsjaar 2010   :<BR>a) Voor de scholen die tellen conform artikel 87, § 1, van het decreet   wordt leerlingenkenmerk 2 vastgesteld op basis van de beschikbare gegevens op 15   november volgend op de teldatum m.b.t. de leerlingen die een schooltoelage   kregen voor het schooljaar waarin deze teldatum valt.<BR>b) Voor de scholen die   tellen conform artikel 87, §§ 2, 3 en 4, van het decreet wordt leerlingenkenmerk   2 vastgesteld op basis van de beschikbare gegevens op 1 mei volgend op de   teldatum m.b.t. de leerlingen die een schooltoelage krijgen voor het schooljaar   waarin de teldatum valt.
+Ter uitvoering van artikel 78, § 3, van het decreet wordt het leerlingenkenmerk 2 vastgesteld aan de hand van de gegevens over de toegekende selectieve participatietoeslag van de bevoegde dienst van de Vlaamse overheid als vermeld in artikel 28, § 2, artikel 31, § 2, en artikel 36, § 2, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid.<br>
+<br>
+Voor de scholen die tellen conform artikel 87, § 1, van het decreet wordt leerlingenkenmerk 2 vastgesteld:<br>
+1° tot en met het begrotingsjaar 2019:<br>
+a) aan de hand van de gegevens over de toegekende schooltoelagen van de dienst;<br>
+b) op basis van de beschikbare gegevens op 15 november 2019 met betrekking tot de leerlingen die een schooltoelage kregen voor het schooljaar 2018-2019;<br>
+2° vanaf het begrotingsjaar 2020: op basis van de beschikbare gegevens op 15 november volgend op de teldatum met betrekking tot de leerlingen die een selectieve participatietoeslag hebben gekregen voor het schooljaar waarin die teldatum valt.<br>
+<br>
+Voor de scholen die tellen conform artikel 87, § 2, § 3 en § 4, van het decreet wordt leerlingenkenmerk 2 vanaf begrotingsjaar 2020 vastgesteld op basis van de beschikbare gegevens op 1 mei volgend op de teldatum met betrekking tot de leerlingen die een selectieve participatietoeslag krijgen voor het schooljaar waarin de teldatum valt.
 
 ### ART. 4.
 
