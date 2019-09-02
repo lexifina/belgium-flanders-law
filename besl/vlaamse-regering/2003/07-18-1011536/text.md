@@ -18,7 +18,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° de   minister: d
 
 ### ART. 3.
 
-...
+De opleidingsverstrekkers zijn erkend als ze geregistreerd zijn conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie
 
 ## AFDELING 2 [... (opgeh. BVR 17 mei 2013, art. 25, I: 1 juli 2013)]
 
