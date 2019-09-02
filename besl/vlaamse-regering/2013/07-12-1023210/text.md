@@ -125,7 +125,7 @@ Met behoud van de toepassing van artikel 17, § 1, en artikel 42, telt een   cen
 
 ### ART. 19.
 
-<P>Om te beantwoorden aan de vereisten van de integrale kwaliteitszorg, vermeld   in artikel 17, § 1, tweede lid, 2°, beschikt een centrum over een   kwaliteitscertificaat. De minister bepaalt welke kwaliteitscertificaten in   aanmerking komen.<BR></P>  <P>Als een centrum, om welke reden dan ook, zijn kwaliteitscertificaat, vermeld   in het eerste lid, verliest of als een voorheen verkregen certificaat niet   verlengd wordt, meldt het centrum dat onmiddellijk aan Syntra Vlaanderen. Het   centrum onderneemt dan de nodige acties voor het behoud van de kwaliteit. Die   acties worden vastgelegd in een actieplan dat ter goedkeuring wordt voorgelegd   aan de raad van bestuur.<BR></P>  <P>Als binnen drie jaar na verlies of niet-verlenging van het   kwaliteitscertificaat geen nieuw kwaliteitscertificaat wordt verkregen, beslist   de Vlaamse Regering, op voorstel van de minister, over de intrekking van de   erkenning of andere dringend te nemen maatregelen.<BR></P>
+Om te beantwoorden aan de vereisten van integrale kwaliteitszorg, vermeld in artikel 17, § 1, tweede lid, 2°, van dit besluit, dient een centrum geregistreerd zijn als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein werk en sociale economie.
 
 ### ART. 20.
 

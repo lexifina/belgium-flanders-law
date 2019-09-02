@@ -2,16 +2,16 @@
   "codex_id": 1023210,
   "title": "Besluit van de Vlaamse Regering van 2013-07-12 betreffende de erkenning en de subsidiëring van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, vermeld in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, bij het verstrekken van diensten van algemeen belang",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023210/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "2110786041888e99874982c12355875b61fc966432bd56859e01481b17309ba7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023210/VolledigDocument?datum=2019-09-02",
+  "source_sha256": "d49ad5df81cb1e51d429fd4378ccc24acc8a5f31b87f083e0f9bd61785be55f3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023210&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2019-09-02",
   "made": "2013-07-12",
   "gazette": "2013-08-26",
   "numac": 2013035757,
   "document_start": "2013-09-01",
   "document_end": "2020-12-31",
-  "in_force": "2019-01-01",
+  "in_force": "2019-09-02",
   "article_versions": 84,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-09-02; future article versions excluded; article text as the API gives it"
 }
