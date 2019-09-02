@@ -72,7 +72,7 @@ De aanvrager wordt op de hoogte gebracht van de beslissing.
 
 ### ART. 7.
 
-De VDAB beslist aan welk outplacementbureau de opdracht wordt toevertrouwd. De outplacementbureaus worden aangewezen conform de wetgeving inzake de overheidsopdrachten.
+De VDAB beslist aan welk outplacementbureau de opdracht wordt toevertrouwd. De outplacementbureaus worden aangewezen conform de regelgeving over de overheidsopdrachten en ze zijn geregistreerd als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie.
 
 ### ART. 8.
 
