@@ -348,7 +348,7 @@ De kandidaat-beoordelingsinstantie die voor een of meer titels van beroepsbekwaa
 <br>
 Voor elke uitbreiding van titels waarvoor ze als erkende beoordelingsinstantie wil optreden, dient de instantie een nieuwe aanvraag in. De kandidaat-beoordelingsinstantie toont daarbij aan dat ze aan de volgende kwaliteitsvoorwaarden voldoet:<br>
 1° op organisatieniveau:<br>
-a) beschikken over een mandaat kosteloze competentieontwikkeling;<br>
+a) geregistreerd zijn als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein werk en sociale economie;<br>
 b) beschikken over een aantoonbare deskundigheid in het beoordelen van competenties die eigen zijn aan de titel van beroepsbekwaamheid waarvoor ze een erkenning als beoordelingsinstantie aanvraagt;<br>
 c) voor alle begeleiders en beoordelaars een actueel of recent vormingsplan hebben dat in samenspraak met hen is opgesteld en dat gericht is op de ontwikkeling van de eigen deskundigheid met betrekking tot het vervullen van de dienstverlening;<br>
 d) in alle faciliteiten voorzien zodat de toegankelijkheid, de beschikbaarheid en de bereikbaarheid zijn gegarandeerd, en die aan alle potentiële aanvragers bekendmaken;<br>
