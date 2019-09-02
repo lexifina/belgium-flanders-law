@@ -52,16 +52,7 @@ De werknemer kan met een opleidingscheque de directe opleidingskosten betalen va
 
 ### ART 3.
 
-§ 1. In dit artikel wordt verstaan onder minister: de Vlaamse minister, bevoegd voor de professionele vorming.<br>
-<br>
-§ 2. Een opleidingsverstrekker wordt geregistreerd als hij aan een van de volgende voorwaarden voldoet:<br>
-1° de opleidingsverstrekker voldoet aan de voorwaarden die de minister bepaalt. De minister bepaalt die voorwaarden met het oog op de kwaliteitsbewaking van de dienstverlener en de geldigheidsduur van de registratie;<br>
-2° de opleidingsverstrekker is geregistreerd om opleidingen te geven in het kader van het besluit van de Vlaamse Regering van 26 februari 2016 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten en kmo-groeitrajecten;<br>
-3° de opleidingsverstrekker die op 31 augustus 2019 door de VDAB geregistreerd is als opleidingsverstrekker voor opleidingscheques.<br>
-<br>
-§ 3. De minister bepaalt de procedure en de aanvullende voorwaarden voor de registratie van de opleidingsverstrekkers, vermeld in paragraaf 2, en de weigering, schorsing en uitsluiting van de dienstverleners.<br>
-<br>
-De minister bepaalt de verplichtingen van de dienstverleners voor de communicatie over de draagwijdte van de registratie.
+De opleiding wordt gegeven door een opleidingsverstrekker die geregistreerd is conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie.
 
 ## HOOFDSTUK 4. Opleidingscheques
 
