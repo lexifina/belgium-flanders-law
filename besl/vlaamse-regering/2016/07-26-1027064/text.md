@@ -122,7 +122,9 @@
 
 <span style="color: rgb(0, 0, 0);">Aan een personeelslid wordt een onderbrekingsuitkering toegekend als het zijn arbeidsprestaties onderbreekt om een opleiding te volgen die voldoet aan een van de volgende vereisten :</span><br>
 <span style="color: rgb(0, 0, 0);">1° elke vorm van onderwijs en opleiding die georganiseerd, gefinancierd, gesubsidieerd of erkend wordt door de Vlaamse overheid, waarvan het programma minimaal 120 contacturen of negen studiepunten op jaarbasis omvat;</span><br>
-<span style="color: rgb(0, 0, 0);">2° elke opleiding die georganiseerd wordt door een opleidingsverstrekker die erkend is krachtens het besluit van de Vlaamse regering van 18 juli 2003 betreffende de opleidingscheques voor werknemers of het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten, waarvan het programma minimaal 120 contacturen of negen studiepunten op jaarbasis omvat.</span><br>
+<span style="color: rgb(0, 0, 0);">2° elke opleiding die georganiseerd wordt door een opleidingsverstrekker die erkend is krachtens het besluit van de Vlaamse regering van 18 juli 2003 betreffende de opleidingscheques voor werknemers of het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten, waarvan het programma minimaal 120 contacturen of negen studiepunten op jaarbasis omvat.<br>
+<br>
+De verstrekker van de opleidingen, vermeld in het eerste lid, 1° en 2°, moet geregistreerd zijn als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie.</span><br>
 &nbsp;
 
 ## Afdeling 2 Duur van het zorgkrediet
