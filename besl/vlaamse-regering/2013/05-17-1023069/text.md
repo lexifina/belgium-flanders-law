@@ -69,22 +69,13 @@ a) het statuut van rechtspersoon, opgericht volgens de rechtsregels van de lidst
 b) het statuut van natuurlijke persoon die beschikt over burgerrechten en politieke rechten;<br>
 2° de onderneming verkeert niet in staat van faillissement of in staat van kennelijk onvermogen, noch maakt ze het voorwerp uit van een procedure tot faillietverklaring of een gelijkaardige wetgeving in de lidstaat van vestiging;<br>
 3° de onderneming is geen achterstallige belastingen, boeten of intresten verschuldigd, noch socialezekerheidsbijdragen, met sociale zekerheid gelijkgestelde bijdragen, boeten of intresten, verschuldigd aan de Rijksdienst voor Sociale Zekerheid;<br>
-4° de onderneming beschikt over een van de kwaliteitscertificaten :<br>
-a) Qfor-certificaat;<br>
-b) ISO-certificaat;<br>
-c) CEDEO-certificaat;<br>
-d) Recognised for Excellence;<br>
-e) K2c, K2b, K2a voor opleiding of begeleiding;<br>
-f) Blik op Werk'-Keurmerk;<br>
-g) CERTO-certificaat;<br>
-h) kmop-norm : de kwaliteitsnorm vastgesteld ter uitvoering van artikel 11 van het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten;<br>
-i) ESF-label;<br>
+4° de onderneming is geregistreerd als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
 5° de onderneming toont haar professionele deskundigheid op het vlak van loopbaanbegeleiding aan. Ze voldoet daarvoor aan al de volgende voorwaarden:<br>
 a) de zaakvoerder, exploitant of verantwoordelijke van de onderneming of haar aangestelden of lasthebbers beschikken over een beroepservaring van ten minste drie jaar in de sector van loopbaanbegeleiding, loopbaanoriëntatie of -coaching, outplacement of werkzoekendenbegeleiding;<br>
 b) de onderneming legt een visie voor over hoe loopbaanbegeleiding strookt met de beleidsdoelstelling en past die toe; de onderneming waarborgt dat de visie van de onderaannemers ook strookt met de beleidsdoelstellingen en dat de onderaannemers die ook toepassen;<br>
 c) de onderneming licht toe hoe ze de expertise over loopbaanbegeleiding, alsook de kennis van de aanpak en methodiek van haar eigen personeelsleden en van onderaannemers systematisch waarborgt;<br>
 6° de onderneming onderschrijft de bepalingen van de gedragscode, opgenomen in de bijlage die bij dit besluit is toegevoegd en de praktische onderrichtingen, uitgevaardigd door de VDAB;<br>
-7° het mandaat van de onderneming werd in de vijf jaar vóór de aanvraag, niet ingetrokken met toepassing van artikel 18;<br>
+7° &nbsp;het mandaat van de onderneming werd in de vijf jaar vóór de aanvraag, niet ingetrokken met toepassing van artikel 18;<br>
 8° de bestuurders, zaakvoerders, lasthebbers, of andere personen die bevoegd zijn om de onderneming te verbinden of te vertegenwoordigen, of de hoofdaandeelhouders van de onderneming, in zoverre zij in de feiten de bevoegdheden van bestuurder uitoefenen, werden tijdens een periode van vijf jaar voorafgaand aan de datum van mandaataanvraag niet :<br>
 a) veroordeeld wegens faillissement, bedrieglijk onvermogen, valsheid in geschrifte, misbruik van vertrouwen, oplichting, omkoping of bedrog;<br>
 b) aansprakelijk gesteld voor de verbintenissen of de schulden van een gefailleerde vennootschap met toepassing van artikelen 229, 5°, 265, 315, 456, 4°, en 530, van het Wetboek van Vennootschappen of een gelijkaardige wetgeving in de lidstaat van vestiging of hebben meermaals een functie van zaakvoerder of gemachtigde uitgeoefend in een gefailleerde vennootschap;<br>
@@ -98,8 +89,6 @@ In het tweede lid wordt verstaan onder :<br>
 2° sociale partners : de representatieve organisaties van de werknemers, de werkgevers, de middenstand en de landbouw die zijn vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen, als vermeld in het decreet van 7 mei 2004 inzake de Sociaal-Economische Raad van Vlaanderen.<br>
 <br>
 De voorwaarde, vermeld in het tweede lid, 1°, a), geldt niet voor de sociale partners.<br>
-<br>
-De VDAB kan de lijst, vermeld in het tweede lid, 4°, met door haar gelijkwaardige geachte certificaten uitbreiden.<br>
 <br>
 § 2. De VDAB gaat na of de onderneming voldoet aan de voorwaarden, vermeld in paragraaf 1, tweede lid.<br>
 <br>
@@ -121,7 +110,7 @@ De minister bepaalt de nadere voorwaarden voor de indiening en behandeling van d
 Met behoud van de toepassing van de voorwaarden, vermeld in artikel 5, § 1, tweede lid, voldoet de gemandateerde onderneming tijdens de looptijd van het mandaat aan de volgende voorwaarden :<br>
 1° de gemandateerde onderneming handelt op een objectieve, respectvolle en niet-discriminerende wijze conform de bepalingen van het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt;<br>
 2° de gemandateerde onderneming eerbiedigt de persoonlijke levenssfeer en verwerkt persoonsgegevens conform de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming );<br>
-3° De gemandateerde organisatie kan voor het uitvoeren van deze dienstverlening een beroep doen op onderaannemers. De gemandateerde onderneming controleert of de onderaannemers voldoen aan de voorwaarden vermeld in artikel 5, § 1, tweede lid met uitzondering van punt 5°, a. Voor de voorwaarde vermeld in artikel 5, § 1, tweede lid, 4°, volstaat het dat de onderaannemers zich beroepen op het kwaliteitscertificaat van de gemandateerde organisatie;<br>
+3° De gemandateerde organisatie kan voor het uitvoeren van deze dienstverlening een beroep doen op onderaannemers. De gemandateerde onderneming controleert of de onderaannemers voldoen aan de voorwaarden vermeld in artikel 5, § 1, tweede lid met uitzondering van punt 5°, a. Voor de voorwaarde vermeld in artikel 5, § 1, tweede lid, 4°, volstaat het dat de onderaannemers zich beroepen op de registratie van de gemandateerde organisatie;<br>
 4° de gemandateerde onderneming hanteert een boekhouding die inkomsten en uitgaven die verband houden met de loopbaanbegeleiding of de stimuleringsfinanciering, alsook de parameters, vermeld in artikel 11, tweede lid, en in artikel 15, § 3, voor de toerekening van de kosten en inkomsten, transparant afzondert;<br>
 5° de gemandateerde onderneming registreert minimaal de volgende gegevens in databank van de VDAB :<br>
 a) de identificatiegegevens van de begeleide persoon;<br>
