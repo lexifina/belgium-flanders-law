@@ -178,7 +178,7 @@ De natuurlijke persoon of rechtspersoon, vermeld in artikel 13, richt aan   de V
 
 ### ART. 15.
 
-Het mandaat om kosteloze arbeidsbemiddeling uit te oefenen, kan door de   raad van bestuur worden verleend als de natuurlijke persoon of rechtspersoon,   vermeld in artikel 13, voldoet aan een van de volgende voorwaarden :<BR>1°   activiteiten als opleidings- of begeleidingsverstrekker verrichten in   overeenstemming met het besluit van de Vlaamse Regering van 18 juli 2003   betreffende de opleidingscheques voor werknemers;<BR>2° activiteiten als   dienstverlener in de pijler opleiding verrichten in overeenstemming met het   besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun   aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende   diensten;<BR>3° een sectorale instelling zijn die beheerd wordt door de sociale   partners;<BR>4° beschikken over een van de volgende kwaliteitscertificaten   :<BR>a) Q*for-certificaat;<BR>b) ISO-certificaat;<BR>c) CEDEO-certificaat;<BR>d)   Recognised for Excellence;<BR>e) K2c-, K2b- of K2a-label voor opleiding of   begeleiding;<BR>f) ESF-label, uitgereikt door de vzw ESF-agentschap;<BR>g)   Borea-keurmerk;<BR>h) andere door de raad van bestuur aanvaarde   certificaten.
+De raad van bestuur kan het mandaat om kosteloze arbeidsbemiddeling uit te oefenen, verlenen als de natuurlijke persoon of de rechtspersoon, vermeld in artikel 13 van dit besluit, geregistreerd is als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie.
 
 ### ART. 16.
 
@@ -208,7 +208,9 @@ De natuurlijke persoon of rechtspersoon, vermeld in artikel 20, richt aan   de V
 
 ### ART. 22.
 
-Het mandaat om kosteloze trajectbegeleiding uit te oefenen, kan door de   raad van bestuur worden verleend als de natuurlijke persoon of rechtspersoon,   vermeld in artikel 20, activiteiten van private arbeidsbemiddeling verricht in   overeenstemming met titel II, hoofdstuk I, afdeling III of in overeenstemming   met het decreet van 10 december 2010 betreffende de private   arbeidsbemiddeling.<BR><BR>De natuurlijke persoon of rechtspersoon, vermeld in   artikel 20, moet bovendien aan een van de volgende voorwaarden voldoen :<BR>1°   activiteiten als opleidings- of begeleidingsverstrekker verrichten in   overeenstemming met het besluit van de Vlaamse Regering van 18 juli 2003   betreffende de opleidingscheques voor werknemers;<BR>2° activiteiten als   dienstverlener in de pijler opleiding verrichten in overeenstemming met het   besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun   aan kleine en middelgrote ondernemingen voor ondernemerschaps-bevorderende   diensten;<BR>3° een sectorale instelling zijn die beheerd wordt door de sociale   partners;<BR>4° beschikken over een van de volgende kwaliteitscertificaten   :<BR>a) Q*for-certificaat;<BR>b) ISO-certificaat;<BR>c) CEDEO-certificaat;<BR>d)   Recognised for Excellence;<BR>e) K2c-, K2b- of K2a-label voor opleiding of   begeleiding;<BR>f) ESF-label, uitgereikt door de vzw ESF-agentschap;<BR>g)   Borea-keurmerk;<BR>h) andere door de raad van bestuur aanvaarde   certificaten.
+Het mandaat om kosteloze trajectbegeleiding uit te oefenen, kan door de raad van bestuur worden verleend als de natuurlijke persoon of rechtspersoon, vermeld in artikel 20, activiteiten van private arbeidsbemiddeling verricht in overeenstemming met titel II, hoofdstuk I, afdeling III of in overeenstemming met het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling.<br>
+<br>
+De natuurlijke persoon of de rechtspersoon, vermeld in artikel 20, moet bovendien geregistreerd zijn als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie.
 
 ### ART. 23.
 
@@ -234,7 +236,7 @@ De natuurlijke persoon of rechtspersoon, vermeld in artikel 26, richt aan   de V
 
 ### ART. 28.
 
-Het mandaat om kosteloze competentieontwikkeling uit te oefenen, kan door   de raad van bestuur worden verleend als de natuurlijke persoon of rechtspersoon,   vermeld in artikel 26, voldoet aan een van de volgende voorwaarden :<BR>1°   activiteiten als opleidings- of begeleidingsverstrekker verrichten in   overeenstemming met het besluit van de Vlaamse Regering van 18 juli 2003   betreffende de opleidingscheques voor werknemers;<BR>2° activiteiten als   dienstverlener in de pijler opleiding verrichten in overeenstemming met het   besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun   aan kleine en middelgrote ondernemingen voor ondernemerschaps-bevorderende   diensten;<BR>3° een sectorale instelling zijn die beheerd wordt door de sociale   partners;<BR>4° beschikken over een van de volgende kwaliteitscertificaten   :<BR>a) Q*for-certificaat;<BR>b) ISO-certificaat;<BR>c) CEDEO-certificaat;<BR>d)   Recognised for Excellence;<BR>e) K2c-, K2b- of K2a-label voor opleiding of   begeleiding;<BR>f) ESF-label, uitgereikt door de vzw ESF-agentschap;<BR>g)   Borea-keurmerk;<BR>h) andere door de raad van bestuur aanvaarde   certificaten.
+De raad van bestuur kan het mandaat om kosteloze competentieontwikkeling uit te oefenen, verlenen als de natuurlijke persoon of de rechtspersoon, vermeld in artikel 26 van dit besluit, geregistreerd is als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie.
 
 ### ART. 29.
 
