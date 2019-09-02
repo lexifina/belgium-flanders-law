@@ -122,7 +122,9 @@ b) voor hooggeschoolden gaat het om een loopbaangerichte opleiding die recht gee
 In het tweede lid wordt verstaan onder:<br>
 1° hooggeschoold: ten minste beschikken over een diploma van hoger onderwijs;<br>
 2° kortgeschoold: niet beschikken over een diploma van secundair onderwijs;<br>
-3° middengeschoold: ten hoogste beschikken over een diploma van secundair onderwijs.
+3° middengeschoold: ten hoogste beschikken over een diploma van secundair onderwijs.<br>
+<br>
+De opleiding wordt gegeven door een dienstverlener die geregistreerd is conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie.
 
 ### ART. 15.
 
