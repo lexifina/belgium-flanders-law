@@ -24,7 +24,19 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° actor : de organisatie, de natuurlijke persoon of rechtspersoon die subsidies of financiële compensaties ontvangt om leertijd-, ondernemerschaps- en toegewezen trajecten te ontwikkelen en te organiseren;<br />2° besluit 2012/21/EU : het besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, lid 2, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen;<br />3° cursist : de persoon die een leertijd-, ondernemerschaps- of toegewezen traject volgt, of meer algemeen deelneemt aan een activiteit in het kader van de ontwikkeling van ondernemerscompetenties in een professioneel perspectief; <br />4° decreet van 7 mei 2004 : het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br />5° doel- en kansengroepen van Syntra Vlaanderen : de groepen van mogelijke cursisten die minder participeren in vorming en opleiding met het oog op het ondernemerschap;<br />6° mandaat : de opdracht, gegeven door de raad van bestuur, aan natuurlijke personen of rechtspersonen, om taken uit te voeren op het vlak van de ontwikkeling en versterking van ondernemerscompetenties;<br />7° minister : de Vlaamse minister, bevoegd voor de professionele vorming;<br />8° oproep : de publicatie van de overheidsopdracht of een andere wijze van bekendmaking als vermeld in het besluit 2012/21/EU;<br />9° organisatie : de representatieve middenstands-, zelfstandigen- en werkgeversorganisatie die voldoet aan de bepalingen van het koninklijk besluit van 28 mei 1979 houdende coördinatie van de wetten betreffende de organisatie van de Middenstand of die vertegenwoordigd is in de SERV;<br />10° raad van bestuur : de raad van bestuur van Syntra Vlaanderen, vermeld in artikel 7 tot en met 12 van het decreet van 7 mei 2004;<br />11° regisseur : de afdeling binnen Syntra Vlaanderen die de taken uitvoert, vermeld in artikel 5, § 1, 2°, van het decreet van 7 mei 2004;<br />12° Syntra Vlaanderen : het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, opgericht bij artikel 3 van het decreet van 7 mei 2004.
+In dit besluit wordt verstaan onder :<br>
+1° actor : de organisatie, de natuurlijke persoon of rechtspersoon die subsidies of financiële compensaties ontvangt om leertijd-, ondernemerschaps- en toegewezen trajecten te ontwikkelen en te organiseren;<br>
+2° besluit 2012/21/EU : het besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, lid 2, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen;<br>
+3° cursist : de persoon die een leertijd-, ondernemerschaps- of toegewezen traject volgt, of meer algemeen deelneemt aan een activiteit in het kader van de ontwikkeling van ondernemerscompetenties in een professioneel perspectief;<br>
+4° decreet van 7 mei 2004 : het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br>
+5° doel- en kansengroepen van Syntra Vlaanderen : de groepen van mogelijke cursisten die minder participeren in vorming en opleiding met het oog op het ondernemerschap;<br>
+6° geregistreerde dienstverlener: een dienstverlener die de Vlaamse Regering registreert en die door kwalificatie aantoont dat hij voldoet aan de minimale kwaliteitsvoorwaarden op het vlak van klantgerichtheid, personeels- en financieel beheer, vermeld in artikel 4 van het decreet van 29 maart 2019 betreffende de kwaliteit op organisatieniveau van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
+7° minister : de Vlaamse minister, bevoegd voor de professionele vorming;<br>
+8° oproep : de publicatie van de overheidsopdracht of een andere wijze van bekendmaking als vermeld in het besluit 2012/21/EU;<br>
+9° organisatie : de representatieve middenstands-, zelfstandigen- en werkgeversorganisatie die voldoet aan de bepalingen van het koninklijk besluit van 28 mei 1979 houdende coördinatie van de wetten betreffende de organisatie van de Middenstand of die vertegenwoordigd is in de SERV;<br>
+10° raad van bestuur : de raad van bestuur van Syntra Vlaanderen, vermeld in artikel 7 tot en met 12 van het decreet van 7 mei 2004;<br>
+11° regisseur : de afdeling binnen Syntra Vlaanderen die de taken uitvoert, vermeld in artikel 5, § 1, 2°, van het decreet van 7 mei 2004;<br>
+12° Syntra Vlaanderen : het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, opgericht bij artikel 3 van het decreet van 7 mei 2004.
 
 ## HOOFDSTUK 2. Toegewezen trajecten
 
@@ -62,27 +74,27 @@ Voor cursisten die een toegewezen traject volgen, wordt een tegemoetkoming in de
 
 ### ART. 9.
 
-Met behoud van de toepassing van artikel 13, worden trajecten uitsluitend toegekend aan natuurlijke personen, rechtspersonen of organisaties die een mandaat van de raad van bestuur hebben gekregen. <br /><br />
+Toegewezen trajecten worden uitsluitend toegekend aan natuurlijke personen, rechtspersonen of organisaties die aantonen dat ze door de Vlaamse Regering geregistreerd zijn als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie.
 
 ### ART. 10.
 
-Een natuurlijke persoon, rechtspersoon of organisatie die de ontwikkeling van ondernemerscompetenties tot doel heeft, kan, onder de voorwaarden, vermeld in artikel 11 tot en met artikel 14, worden gemandateerd om activiteiten op het vlak van de ontwikkeling van ondernemerscompetenties uit te oefenen.<br /><br />De rechtspersonen of organisaties, vermeld in het eerste lid, zijn de volgende : <br />1° de centra;<br />2° de professionele of interprofessionele organisaties;<br />3° andere private of publieke opleidingsverstrekkers.
+...
 
 ### ART. 11.
 
-De natuurlijke persoon, rechtspersoon of organisatie kan op elk moment een aanvraag indienen om een mandaat te verkrijgen in functie van toegewezen trajecten als vermeld in artikel 3. De aanvraagprocedure, die wordt goedgekeurd door de raad van bestuur, wordt vermeld op de website van Syntra Vlaanderen en de documenten zijn elektronisch beschikbaar.
+Een natuurlijke persoon, rechtspersoon of organisatie kan op elk moment bij de Vlaamse Regering een aanvraag indienen om geregistreerd te worden als dienstverlener voor de toegewezen trajecten, vermeld in artikel 3.
 
 ### ART. 12.
 
-De natuurlijke persoon, rechtspersoon of organisatie die een mandaat wil verkrijgen, richt aan de gedelegeerd bestuurder van Syntra Vlaanderen een verzoek waarin de algemene werking, de bestaansredenen, het doel en de opzet worden uiteengezet. De gedelegeerd bestuurder belast de regisseur met het onderzoek.<br /><br />De natuurlijke persoon, vermeld in het eerste lid, voegt bij zijn aanvraag tot mandatering de volgende gegevens :<br />1° bewijsstukken waaruit blijkt dat hij ervaring heeft in de ontwikkeling van ondernemerscompetenties of dat hij over de nodige kwalificaties en kwaliteitsbewijzen beschikt om die activiteiten uit te oefenen, generiek of sectorspecifiek of ten aanzien van doel- en kansengroepen;<br />2° de locaties waar de activiteiten op het vlak van de ontwikkeling van ondernemerscompetenties uitgeoefend worden;<br />3° bewijsstukken waaruit blijkt dat hij beschikt over het nodige materiaal en de nodige accommodatie om de ontwikkeling van ondernemerscompetenties op praktijkvlak te verstrekken;<br />4° een verklaring dat hij bij een eventuele overschakeling naar een rechtspersoon, door een rechtspersoon op te richten of zich aan te sluiten bij een bestaande rechtspersoon, dat onmiddellijk aan Syntra Vlaanderen zal melden en zich zal schikken naar de voorwaarden, vermeld in het derde lid;<br />5° andere bewijsstukken die door de raad van bestuur worden opgelegd en worden vermeld in de oproep.<br /><br />De rechtspersoon of organisatie, vermeld in het eerste lid, voegt bij de aanvraag tot mandatering de volgende gegevens :<br />1° een exemplaar van de statuten of het oprichtingsbesluit, alsook de lijst van de bestuurders. De statuten of het oprichtingsbesluit vermelden de volgende gegevens :<br />a) de benaming van de rechtspersoon, het adres van de hoofdzetel en de locaties waar de activiteiten op het vlak van de ontwikkeling van ondernemerscompetenties zullen worden uitgeoefend;<br />b) het doel waaruit blijkt dat de rechtspersoon ondernemerscompetenties ontwikkelt; <br />c) de samenstelling van de raad van bestuur, de wijze van benoeming van de bestuurders, hun ontslagneming of hun afzetting, hun bevoegdheden en de duur van hun mandaat;<br />d) de organisatie van de controle op de verrichtingen van de rechtspersoon door de leden van de raad van bestuur;<br />2° bewijsstukken waaruit blijkt dat de rechtspersoon of organisatie ervaring heeft in de ontwikkeling van ondernemerscompetenties of over de nodige kwalificaties en kwaliteitsbewijzen beschikt om die activiteiten uit te oefenen, generiek of sectorspecifiek of ten aanzien van doel- en kansengroepen;<br />3° bewijsstukken waaruit blijkt dat de rechtspersoon of organisatie beschikt over het nodige materiaal en de nodige accommodatie om de ontwikkeling van ondernemerscompetenties op praktijkvlak te verstrekken;<br />4° andere bewijsstukken die door de raad van bestuur worden opgelegd en worden vermeld in de oproep.<br /><br />De raad van bestuur kan nadere regels bepalen voor het verzoek om een mandaat te verkrijgen.
+...
 
 ### ART. 13.
 
-De raad van bestuur beslist over de aanvraag tot mandatering. <br /><br />Elke natuurlijke persoon, rechtspersoon of organisatie, die een aanvraag tot mandatering heeft ingediend en waarvan de aanvraag door de raad van bestuur niet gunstig is beoordeeld, kan binnen veertien dagen na de betekening van de beslissing beroep aantekenen bij de minister.
+...
 
 ### ART. 14.
 
-Het mandaat kan door de raad van bestuur geschorst of stopgezet worden als de natuurlijke persoon, rechtspersoon of organisatie : <br />1° de bepalingen van dit besluit overtreedt;<br />2° de voorwaarden, vastgesteld door de raad van bestuur, niet naleeft;<br />3° zijn bedrijf stopzet.<br /><br />Elke natuurlijke persoon, rechtspersoon of organisatie, waarvan het mandaat door de raad van bestuur is geschorst of stopgezet, kan binnen veertien dagen na de betekening van de beslissing beroep aantekenen bij de minister.
+...
 
 ## Afdeling 3. Toewijzing van trajecten
 
@@ -222,7 +234,14 @@ Het toezicht inzake het toegewezen traject omvat :<br />1° het toezicht op de o
 
 ### ART. 44.
 
-Het toezicht inzake het kwaliteitsbeleid van de actoren omvat :<br />1° de uitwerking en vastlegging van de procedures om het kwaliteitsbeleid van de actoren te toetsen;<br />2° de effectieve toetsing van het kwaliteitsbeleid bij de actoren; <br />3° de uitvoering van kwaliteitsaudits bij actoren;<br />4° de afstemming met de onafhankelijke cel van het Agentschap voor Kwaliteitszorg in Onderwijs en Vorming van de ondernemerschapstrajecten die leiden tot een erkende beroepskwalificatie;<br />5° de afstemming van het toezicht op het kwaliteitsbeleid van de leertijdtrajecten met de Inspectie Onderwijs;<br />6° de opvolging van generieke aspecten, zoals milieu, veiligheid en brandveiligheid, uitrusting en HACCP;<br />7° in voorkomend geval, de bepaling van sancties.
+Het toezicht inzake het kwaliteitsbeleid van de actoren omvat :<br>
+1° ...;<br>
+2° ...;<br>
+3° de uitvoering van kwaliteitsaudits bij actoren;<br>
+4° de afstemming met de onafhankelijke cel van het Agentschap voor Kwaliteitszorg in Onderwijs en Vorming van de ondernemerschapstrajecten die leiden tot een erkende beroepskwalificatie;<br>
+5° de afstemming van het toezicht op het kwaliteitsbeleid van de leertijdtrajecten met de Inspectie Onderwijs;<br>
+6° de opvolging van generieke aspecten, zoals milieu, veiligheid en brandveiligheid, uitrusting en HACCP;<br>
+7° in voorkomend geval, de bepaling van sancties.
 
 ## Afdeling 3. Het financiële toezicht
 
