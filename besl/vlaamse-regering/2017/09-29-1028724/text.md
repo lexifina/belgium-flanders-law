@@ -198,6 +198,10 @@ Voor de toepassing van dit artikel wordt verstaan onder gemeente: de gemeente of
 In geval van een vrijwillige samenvoeging van gemeenten blijven de keuzes en de oprichtingen van de oorspronkelijke gemeenten voor de regie en organisatie van het wijk-werken behouden tot het moment dat de nieuwe gemeente een beslissing neemt met toepassing van artikel 13, § 1, 2°, of artikel 14 van het Wijk-werkendecreet van 7 juli 2017.<br>
 &nbsp;
 
+### ART 21/1.
+
+De organisator is geregistreerd als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein werk en sociale economie.
+
 ## Afdeling 2 Werking
 
 ### ART 22.
