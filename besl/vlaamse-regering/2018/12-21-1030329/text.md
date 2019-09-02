@@ -61,7 +61,7 @@ a) basiscompetenties;<br>
 b) beroepsspecifieke competenties;<br>
 c) algemene arbeidsmarktcompetenties;<br>
 2° ze omvat per jaar minstens 32 contacturen of minstens 3 studiepunten, met uitzondering van examencontracten, of minstens 32 lestijden in het volwassenenonderwijs;<br>
-3° ze wordt gegeven door een dienstverlener die geregistreerd is als opleidingsverstrekker volgens artikel 3 van het besluit van de Vlaamse Regering van 18 juli 2003 betreffende de opleidingscheques voor werknemers of geregistreerd is als dienstverlener overeenkomstig artikel 14 van het besluit van de Vlaamse Regering van 26 februari 2016 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten en kmo-groeitrajecten;<br>
+3° ze wordt gegeven door een dienstverlener die geregistreerd is conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
 4° ze is geregistreerd bij het departement volgens de procedure, vermeld in afdeling 3 van dit hoofdstuk.<br>
 <br>
 In afwijking van het eerste lid gelden voor een mentoropleiding uitsluitend de voorwaarden in het eerste lid, 1°, 3° en 4°.<br>
