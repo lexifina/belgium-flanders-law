@@ -42,7 +42,7 @@ In dit besluit wordt verstaan onder:<br>
 3° DAEB-besluit van 20 december 2011: het besluit (EG) nr. 2012/2l/EU van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, lid 2, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen;<br>
 4° decreet van 12 juli 2013: het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
 5° departement: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie;<br>
-6° kwaliteitsmanagementsysteem: een hulpmiddel dat het management van het maatwerkbedrijf ondersteunt bij de kwaliteitsvolle bedrijfsvoering;<br>
+6° kwaliteitsmanagementsysteem: het kwaliteitsmodel, zoals bedoeld in artikel 5 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
 7° minister: de Vlaamse minister, bevoegd voor de sociale economie;<br>
 8° sociale werkplaats: de sociale werkplaats, erkend overeenkomstig het decreet van 14 juli 1998 inzake sociale werkplaatsen, zoals van kracht voor de inwerkingtreding van het decreet van 12 juli 2013;<br>
 &nbsp;9° algemene groepsvrijstellingsverordening: de verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het verdrag met de interne markt verenigbaar worden verklaard.
@@ -107,23 +107,7 @@ De minister bepaalt de methodiek die het departement hanteert zowel voor de beci
 
 ### ART 3.
 
-§ 1. Het maatwerkbedrijf hanteert een actief en eigen kwaliteitsbeleid dat tot doel heeft om op een systematische wijze te voorzien in kwaliteitsvolle bedrijfsvoering op het vlak van onder meer:<br>
-1° het beleid en de strategie van de onderneming;<br>
-2° het bestuur, het algemene en financiële beheer van de onderneming;<br>
-3° de inschakeling, de opleiding en de begeleiding van doelgroepwerknemers ter bevordering van duurzame loopbanen en de doorstroom binnen de sociale economie en naar het normale economische circuit;<br>
-4° het maatschappelijk verantwoord ondernemen;<br>
-5° de maatschappelijke inbedding;<br>
-6° het beheer van middelen;<br>
-7° maximale transparantie over het algemene en financiële beleid, en de betrokkenheid van interne en externe stakeholders.<br>
-<br>
-Met toepassing van het eerste lid:<br>
-1° ontwikkelt het maatwerkbedrijf een missie, waarden en een visie;<br>
-2° formuleert het maatwerkbedrijf zijn activiteiten en strategische doelstellingen;<br>
-3° hanteert het maatwerkbedrijf een kwaliteitsmanagementsysteem.<br>
-<br>
-§ 2. Het maatwerkbedrijf garandeert bij de uitvoering van het kwaliteitsbeleid de betrokkenheid van de medewerkers en de stakeholders.<br>
-<br>
-Het maatwerkbedrijf maakt zijn kwaliteitsbeleid bekend en integreert dat in zijn werking.
+Het maatwerkbedrijf hanteert een kwaliteitsmanagementsysteem.
 
 ### ART 4.
 
@@ -143,31 +127,15 @@ Het maatwerkbedrijf bezorgt het duurzaamheidsverslag jaarlijks uiterlijk op 31 j
 
 ### ART 5.
 
-Het maatwerkbedrijf onderwerpt zijn bedrijfsvoering aan een zelfevaluatie. Die zelfevaluatie heeft minimaal betrekking op:<br>
-1° het beleid en de strategie van de organisatie, met aandacht voor de sociale, economische en milieu-impact;<br>
-2° het bestuur en het management van de organisatie, met aandacht voor stakeholdersbetrokkenheid;<br>
-3° het humanresourcesbeleid, met specifieke aandacht voor de inschakeling, de begeleiding, de opleiding, de duurzame loopbanen en de doorstroom van doelgroepwerknemers;<br>
-4° de sleutel- en ondersteunende processen;<br>
-5° de klantentevredenheid, de medewerkerstevredenheid, de maatschappelijke inbedding, de partnerschappen en de sleutelresultaten;<br>
-6° het beheer van de middelen van de onderneming.<br>
-<br>
-Het departement stelt een zelfevaluatietool met criteria en subcriteria voor de indicatoren en de descriptoren ter beschikking van het maatwerkbedrijf. Het maatwerkbedrijf kan voor de toepassing van een of meer criteria verwijzen naar extern gevalideerde modellen. De minister legt minimaal een keer per jaar een lijst met extern gevalideerde modellen vast die voor de zelfevaluatie in aanmerking komen.<br>
-<br>
-De zelfevaluatie vindt plaats binnen een cyclus van drie jaar. Het maatwerkbedrijf bezorgt zijn zelfevaluatie aan het departement. Binnen drie maanden na de ontvangst voert het departement met het oog op de risicoanalyse een screening van de zelfevaluatie uit. Die risicoanalyse kan bijkomend aanleiding geven tot, in voorkomend geval:<br>
-1° een verbeterassessment dat ter plaatse alle aandachtspunten uit de risicoanalyse toetst;<br>
-2° een vervolgassessment dat ter plaatse de criteria en subcriteria valideert, waarover het maatwerkbedrijf vooruitgang heeft gerapporteerd.<br>
-<br>
-Het maatwerkbedrijf past zijn bedrijfsvoering maximaal aan de bevindingen van de zelfevaluatie aan, waarbij voorrang wordt verleend aan de aandachtspunten uit het assessment.
+...
 
 ### ART 6.
 
-Het departement organiseert ter ondersteuning van het maatwerkbedrijf uiterlijk om de negen jaar een kwaliteitsopvolging. De kwaliteitsopvolging neemt de vorm aan van een kwaliteitsassessment ter plaatse, waarbij alle criteria en subcriteria worden gevalideerd.<br>
-<br>
-De minister kan nadere voorwaarden voor het kwaliteitsassessment en de procedure bepalen.
+...
 
 ### ART 7.
 
-§ 1. Als uit de opvolging van het kwaliteitsbeleid, vermeld in artikel 3 van dit besluit, door het departement blijkt dat de globale tewerkstelling van de doelgroepwerknemers in het gedrang komt wegens welbepaalde economische of financiële resultaten van het maatwerkbedrijf, kan de minister na het advies van het departement bevelen tot managementondersteuning, vermeld in hoofdstuk 3 van het besluit van de Vlaamse Regering van 27 januari 2017 tot bepaling van de voorwaarden voor de toekenning van de subsidie voor managementadvies, vermeld in artikel 12 van het decreet van 17 februari 2012 betreffende de ondersteuning van het ondernemerschap op het vlak van de sociale economie en de stimulering van het maatschappelijk verantwoord ondernemen, of tot de ondersteuning, vermeld in hoofdstuk 4 van het decreet van 17 februari 2012 betreffende de ondersteuning van het ondernemerschap op het vlak van de sociale economie en de stimulering van het maatschappelijk verantwoord ondernemen ten behoeve van het maatwerkbedrijf.<br>
+§ 1. Als uit de opvolging van de bedrijfsvoering via het duurzaamheidsverslag, vermeld in artikel 4 van dit besluit, blijkt dat de globale tewerkstelling van de doelgroepwerknemers in het gedrang komt, kan de minister na het advies van het departement bevelen tot managementondersteuning, vermeld in hoofdstuk 3 van het besluit van de Vlaamse Regering van 27 januari 2017 tot bepaling van de voorwaarden voor de toekenning van de subsidie voor managementadvies, vermeld in artikel 12 van het decreet van 17 februari 2012 betreffende de ondersteuning van het ondernemerschap op het vlak van de sociale economie en de stimulering van het maatschappelijk verantwoord ondernemen, of tot de ondersteuning, vermeld in hoofdstuk 4 van het decreet van 17 februari 2012 betreffende de ondersteuning van het ondernemerschap op het vlak van de sociale economie en de stimulering van het maatschappelijk verantwoord ondernemen ten behoeve van het maatwerkbedrijf.<br>
 <br>
 § 2. De managementondersteuning omvat een deskundig bedrijfsadvies dat specifieke, waardevolle en toekomstgerichte schriftelijke raadgevingen omvat ter verbetering van de financieel-economische situatie van de onderneming. Het voormelde bedrijfsadvies omvat:<br>
 1° een analyse van de probleemstelling;<br>
@@ -190,10 +158,7 @@ De startende maatwerkafdeling voldoet binnen twee jaar vanaf de datum van de toe
 
 ### ART 9.
 
-De maatwerkafdeling hanteert een actief en eigen kwaliteitsbeleid dat tot doel heeft om op een systematische wijze te voorzien in kwaliteitsvolle bedrijfsvoering op het vlak van onder meer:<br>
-1° de inschakeling, opleiding en begeleiding van doelgroepwerknemers ter bevordering van duurzame loopbanen en de doorstroom binnen de sociale economie en naar het normale economische circuit;<br>
-2° het maatschappelijk verantwoord ondernemen;<br>
-3° maximale transparantie over de inschakeling, opleiding en begeleiding van doelgroepwerknemers.
+De maatwerkafdeling hanteert een kwaliteitsmanagementsysteem.
 
 ### ART 10.
 
@@ -210,17 +175,7 @@ De maatwerkafdeling bezorgt het duurzaamheidsverslag jaarlijks uiterlijk op 31 j
 
 ### ART 11.
 
-De maatwerkafdeling onderwerpt haar bedrijfsvoering aan een zelfevaluatie. Die zelfevaluatie heeft minimaal betrekking op:<br>
-1° het humanresourcesbeleid, met specifieke aandacht voor de inschakeling, de begeleiding, de opleiding, de duurzame loopbanen en de doorstroom van doelgroepwerknemers;<br>
-2° de medewerkerstevredenheid van de maatwerkafdeling, de maatschappelijke inbedding en de milieu-impact.<br>
-<br>
-Het departement stelt een zelfevaluatietool met criteria voor de indicatoren en de descriptoren ter beschikking van de maatwerkafdeling. De maatwerkafdeling kan voor een of meer criteria verwijzen naar extern gevalideerde modellen. De minister legt minimaal een keer per jaar de lijst met extern gevalideerde modellen vast die in aanmerking komen voor de zelfevaluatie.<br>
-<br>
-De zelfevaluatie vindt plaats binnen een cyclus van drie jaar. De maatwerkafdeling bezorgt haar zelfevaluatie aan het departement. Binnen drie maanden na de ontvangst voert het departement met het oog op de risicoanalyse een screening van de zelfevaluatie uit. Die risicoanalyse kan bijkomend aanleiding geven tot, in voorkomend geval:<br>
-1° een verbeterassessment dat ter plaatse alle aandachtspunten uit de risicoanalyse toetst;<br>
-2° een vervolgassessment dat ter plaatse de criteria valideert, waarover de onderneming vooruitgang heeft gerapporteerd.<br>
-<br>
-De maatwerkafdeling neemt het engagement op om haar bedrijfsvoering maximaal aan te passen aan de bevindingen van de zelfevaluatie, waarbij voorrang wordt verleend aan de aandachtspunten uit het assessment.
+...
 
 ## HOOFDSTUK 3 Indicering van de doelgroepwerknemers
 
@@ -799,7 +754,7 @@ De externe organisatie die betrokken is bij de beoordeling van de kansen op door
 § 1. De onderneming die doorstroomtrajecten als vermeld in artikel 68, wil uitvoeren, dient een mandaataanvraag in bij de VDAB.<br>
 <br>
 De onderneming toont daarbij minstens aan dat ze aan de volgende voorwaarden voldoet:<br>
-1° de onderneming voert een kwaliteitsvolle bedrijfsvoering;<br>
+1° de onderneming beschikt over een kwaliteitsmodel als bedoeld in artikel 5 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
 2° de onderneming beschikt over de nodige faciliteiten om de dienstverlening uit te voeren;<br>
 3° de onderneming toont haar professionele deskundigheid op het vlak van begeleiding van personen met een arbeidsbeperking, als vermeld in artikel 12, tweede lid;<br>
 4° de onderneming heeft aantoonbare resultaten wat betreft de inschakeling van doelgroepwerknemers in het normaal economisch circuit;<br>
