@@ -20,7 +20,33 @@ In dit decreet wordt verstaan onder :<BR>1° doelgroepwerknemers : de   personen
 
 ### ART. 4.
 
-<P>§ 1. Binnen de perken van het jaarlijks goedgekeurde begrotingskrediet en   volgens de voorwaarden bepaald in dit decreet, kan de Vlaamse Regering   inschakelingstrajecten toewijzen aan   lokalediensteneconomieondernemingen.<BR></P>  <P>De lokalediensteneconomieonderneming moet daarvoor :<BR>1° als werkgever   binnen eenzelfde organisatie op jaarbasis op eenzelfde tewerkstellingsplaats aan   minimaal vijf gesubsidieerde voltijds equivalente doelgroepwerknemers een   inschakelingstraject aanbieden, waarvoor een vergoeding overeenkomstig dit   decreet wordt toegekend;<BR>2° een van de volgende rechtsvormen hebben :<BR>a)   vereniging zonder winstoogmerk;<BR>b) publiekrechtelijke rechtspersoon;<BR>c)   vennootschap met sociaal oogmerk;<BR>d) samenwerkingsverband met   rechtspersoonlijkheid tussen de rechtspersonen bepaald in punt b);<BR>3° een   sui-generisafdeling oprichten ter uitvoering van de diensten in het kader van   het inschakelingstraject, indien zij ook andere activiteiten verricht;<BR>4°   lokale diensten als vermeld in artikel 5 verrichten;<BR>5° een kwaliteitsvolle   bedrijfsvoering hanteren op het vlak van :<BR>a) de inschakeling, opleiding en   begeleiding van doelgroepwerknemers ter bevordering van duurzame   loopbanen;<BR>b) het maatschappelijk verantwoord ondernemen;<BR>c) de   maatschappelijke inbedding;<BR>d) de doorstroom naar het normaal economisch   circuit;<BR>e) maximale transparantie met betrekking tot de inschakeling,   opleiding en begeleiding van doelgroepwerknemers, het beheer van middelen en de   betrokkenheid van interne en externe stakeholders.<BR></P>  <P>De Vlaamse Regering bepaalt de voorwaarden waaronder kan worden afgeweken van   de voorwaarde, vermeld in het tweede lid, 1°. <BR></P>  <P>De sui-generisafdeling, vermeld in het tweede lid, 3°, voldoet minstens aan   de volgende voorwaarden :<BR>a) er is een specifieke verantwoordelijke voor de   activiteiten in het kader van dit decreet;<BR>b) de inhoudelijke en financiële   activiteiten in het kader van het inschakelingstraject worden afzonderlijk   geregistreerd.<BR></P>  <P>Indien een sui-generisafdeling werd opgericht overeenkomstig het tweede lid,   3°, dient aan de voorwaarde, vermeld in het tweede lid, 5°, te worden voldaan op   het niveau van de sui-generisafdeling.<BR></P>  <P>§ 2. In afwijking van paragraaf 1 moet de startende   lokalediensteneconomieonderneming binnen een redelijke termijn na toewijzing van   de inschakelingstrajecten voldoen aan de voorwaarde, vermeld in paragraaf 1,   tweede lid, 1°. <BR></P>  <P>Onder startende lokalediensteneconomieonderneming als vermeld in het eerste   lid, wordt de onderneming verstaan die voor de eerste keer een aanvraag indient   om de inschakelingstrajecten aan te bieden.<BR></P>  <P>De Vlaamse Regering bepaalt de termijn, vermeld in het eerste   lid.<BR></P>
+<p>§ 1. Binnen de perken van het jaarlijks goedgekeurde begrotingskrediet en volgens de voorwaarden bepaald in dit decreet, kan de Vlaamse Regering inschakelingstrajecten toewijzen aan lokalediensteneconomieondernemingen.</p>
+
+<p>De lokalediensteneconomieonderneming moet daarvoor :<br>
+1° als werkgever binnen eenzelfde organisatie op jaarbasis op eenzelfde tewerkstellingsplaats aan minimaal vijf gesubsidieerde voltijds equivalente doelgroepwerknemers een inschakelingstraject aanbieden, waarvoor een vergoeding overeenkomstig dit decreet wordt toegekend;<br>
+2° een van de volgende rechtsvormen hebben :<br>
+a) vereniging zonder winstoogmerk;<br>
+b) publiekrechtelijke rechtspersoon;<br>
+c) vennootschap met sociaal oogmerk;<br>
+d) samenwerkingsverband met rechtspersoonlijkheid tussen de rechtspersonen bepaald in punt b);<br>
+3° een sui-generisafdeling oprichten ter uitvoering van de diensten in het kader van het inschakelingstraject, indien zij ook andere activiteiten verricht;<br>
+4° lokale diensten als vermeld in artikel 5 verrichten;<br>
+5° geregistreerd zijn als dienstverlener als vermeld in artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
+6° jaarlijks over zijn prestaties in het kader van dit decreet en op het vlak van maatschappelijke inbedding en maatschappelijk verantwoord ondernemen rapporteren.</p>
+
+<p>De Vlaamse Regering bepaalt de voorwaarden waaronder kan worden afgeweken van de voorwaarde, vermeld in het tweede lid, 1°.</p>
+
+<p>De sui-generisafdeling, vermeld in het tweede lid, 3°, voldoet minstens aan de volgende voorwaarden :<br>
+a) er is een specifieke verantwoordelijke voor de activiteiten in het kader van dit decreet;<br>
+b) de inhoudelijke en financiële activiteiten in het kader van het inschakelingstraject worden afzonderlijk geregistreerd.</p>
+
+<p>Indien een sui-generisafdeling werd opgericht overeenkomstig het tweede lid, 3°, dient aan de voorwaarde, vermeld in het tweede lid, 5°, te worden voldaan op het niveau van de sui-generisafdeling.</p>
+
+<p>§ 2. In afwijking van paragraaf 1 moet de startende lokalediensteneconomieonderneming binnen een redelijke termijn na toewijzing van de inschakelingstrajecten voldoen aan de voorwaarde, vermeld in paragraaf 1, tweede lid, 1°.</p>
+
+<p>Onder startende lokalediensteneconomieonderneming als vermeld in het eerste lid, wordt de onderneming verstaan die voor de eerste keer een aanvraag indient om de inschakelingstrajecten aan te bieden.</p>
+
+<p>De Vlaamse Regering bepaalt de termijn, vermeld in het eerste lid.</p>
 
 ## Afdeling 2 De lokale diensten
 
