@@ -37,14 +37,8 @@ c) uiterst kwetsbare personen : de werkzoekenden die voorafgaand aan hun tewerks
 2° de rechtsvorm van een vennootschap met een sociaal oogmerk of van een vereniging zonder winstoogmerk hebben;<br>
 3° als maatschappelijke hoofdactiviteit werk en begeleiding op maat aan doelgroepwerknemers verschaffen;<br>
 4° op jaarbasis een werknemersbestand hebben dat voor minstens 65 procent bestaat uit de doelgroepwerknemers, vermeld in artikel 3, 2°, a) en b);<br>
-5° een kwaliteitsvolle bedrijfsvoering hanteren op het vlak van :<br>
-a) de strategie en het bestuur van de organisatie, het algemene en financiële beheer, met een streven naar democratische besluitvorming;<br>
-b) de inschakeling, opleiding en begeleiding van doelgroepwerknemers ter bevordering van duurzame loopbanen;<br>
-c) de doorstroom binnen de sociale economie en naar het normale economische circuit;<br>
-d) het maatschappelijk verantwoord ondernemen;<br>
-e) het beheer van middelen;<br>
-f) maatschappelijke inbedding;<br>
-g) maximale transparantie met betrekking tot het algemene en financiële beleid, en de betrokkenheid van interne en externe stakeholders.</p>
+5° geregistreerd zijn als dienstverlener als vermeld in artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
+6° jaarlijks over zijn prestaties in het kader van dit decreet en op vlak van maatschappelijke inbedding en maatschappelijk verantwoord ondernemen rapporteren.</p>
 
 <p>§ 2. In afwijking van paragraaf 1 moet het startende maatwerkbedrijf binnen een redelijke termijn voldoen aan de voorwaarden, vermeld in paragraaf 1, tweede lid, 1° en 4°.</p>
 
@@ -60,11 +54,8 @@ g) maximale transparantie met betrekking tot het algemene en financiële beleid,
 
 <p>De maatwerkafdeling moet daarvoor :<br>
 1° op jaarbasis op eenzelfde tewerkstellingsplaats aan minimaal vijf gesubsidieerde voltijdsequivalente doelgroepwerknemers werk op maat verschaffen, voor wie ondersteuning overeenkomstig dit decreet wordt toegekend, door middel van nuttig, lonend en individueel passend werk;<br>
-2° een kwaliteitsvolle bedrijfsvoering hanteren op het vlak van :<br>
-a) de inschakeling, opleiding en begeleiding van doelgroepwerknemers ter bevordering van duurzame loopbanen;<br>
-b) de doorstroom binnen de sociale economie en naar het normale economische circuit;<br>
-c) het maatschappelijk verantwoord ondernemen;<br>
-d) maximale transparantie met betrekking tot de inschakeling, opleiding en begeleiding van doelgroepwerknemers.</p>
+2° de organisatie waartoe de maatwerkafdeling behoort, dient geregistreerd te zijn als dienstverlener als vermeld in artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
+3° jaarlijks over zijn prestaties in het kader van dit decreet en op vlak van het maatschappelijk verantwoord ondernemen rapporteren.</p>
 
 <p>§ 2. In afwijking van paragraaf 1 moet de startende maatwerkafdeling binnen een redelijke termijn voldoen aan de voorwaarde, vermeld in paragraaf 1, 1°.</p>
 
@@ -169,7 +160,7 @@ De Vlaamse Regering bepaalt de procedure voor de toekenning en de   vergoeding v
 
 <p>Die subsidie voor organisatieondersteunende maatregelen heeft betrekking op :<br>
 1° de aanpassing van productieprocessen van het maatwerkbedrijf naargelang van de behoeften van de doelgroepwerknemer;<br>
-2° het vervullen van de subsidievoorwaarden, vermeld in artikel 4, 5°, a), d), e), f) en g);<br>
+2° het vervullen van de subsidievoorwaarde, vermeld in artikel 4, 5° ;<br>
 3° het organiseren van sociale dienstverlening voor de doelgroepwerknemer.</p>
 
 <p>Bij de toekenning van de subsidie houdt de Vlaamse Regering rekening met het aantal toegekende werkondersteuningspakketten aan de doelgroepwerknemers, vermeld in artikel 3, 2°, a) en b), in het maatwerkbedrijf.</p>
