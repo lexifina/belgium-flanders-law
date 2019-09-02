@@ -2,16 +2,16 @@
   "codex_id": 1027851,
   "title": "Besluit van de Vlaamse Regering van 2016-12-23 betreffende de tijdelijke werkervaring",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027851/VolledigDocument?datum=2018-09-01",
-  "source_sha256": "70fe6322ab84617a91730a798e408ee4881280c21bc55158cc1ec28c7cf62749",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027851/VolledigDocument?datum=2019-09-02",
+  "source_sha256": "c2693139cc5b3d4b4e191b18588e2d89b8900aaf6317bc7e15e3c6d1e4412547",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027851&param=informatie",
-  "as_of": "2018-09-01",
+  "as_of": "2019-09-02",
   "made": "2016-12-23",
   "gazette": "2017-02-09",
   "numac": 2017010482,
   "document_start": "2017-01-01",
   "document_end": null,
-  "in_force": "2018-09-01",
+  "in_force": "2019-09-02",
   "article_versions": 45,
-  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-09-02; future article versions excluded; article text as the API gives it"
 }

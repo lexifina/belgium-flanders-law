@@ -91,11 +91,13 @@ De leefloongerechtigde die in aanmerking komt voor een traject tijdelijke werker
 
 ### ART 5.
 
-De VDAB of de gemandateerde partnerorganisatie sluit met de werkzoekende die toegelaten is tot het traject tijdelijke werkervaring, uiterlijk op de eerste dag van het traject een werkervaringsovereenkomst.<br>
+§ 1. De VDAB of de gemandateerde partnerorganisatie sluit met de werkzoekende die toegelaten is tot het traject tijdelijke werkervaring, uiterlijk op de eerste dag van het traject een werkervaringsovereenkomst.<br>
 <br>
 In afwijking van het eerste lid sluit het gemandateerde OCMW de werkervaringsovereenkomst als het een werkzoekende betreft die bij de aanvang van het traject leefloongerechtigde is.<br>
 <br>
 De werkervaringsovereenkomst geeft recht op de premies, de vergoedingen en de verzekering, vermeld in titel II, hoofdstuk I, afdeling II, van het besluit van 5 juni 2009, voor zover dat recht wordt geopend door de instrumenten die worden ingezet gedurende de werkervaringsovereenkomst.<br>
+<br>
+§ 2. De gemandateerde partnerorganisatie of het gemandateerde OCMW, vermeld in § 1, is geregistreerd als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein werk en sociale economie.<br>
 &nbsp;
 
 ### ART 6.
