@@ -2,16 +2,16 @@
   "codex_id": 1029994,
   "title": "Decreet van 2018-11-16 houdende diverse bepalingen inzake energie",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029994/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "cc0d1db3c66af3636a9336dfc6e05c7f90a103c3ecb9c46c1dba4140a4602f4e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029994/VolledigDocument?datum=2019-09-07",
+  "source_sha256": "5676c1b4c65c4cc715f78fee01909bfcc3dbdf1058c314086645e3ddc40b2f0b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029994&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2019-09-07",
   "made": "2018-11-16",
   "gazette": "2018-12-14",
   "numac": 2018015257,
   "document_start": "2018-12-24",
   "document_end": null,
-  "in_force": "2019-01-01",
-  "article_versions": 59,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-09-07",
+  "article_versions": 60,
+  "record_form": "consolidated version as in force on 2019-09-07; future article versions excluded; article text as the API gives it"
 }

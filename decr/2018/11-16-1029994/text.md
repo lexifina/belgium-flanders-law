@@ -447,6 +447,10 @@ In artikel 11.1.8 van hetzelfde decreet, gewijzigd bij de decreten van 14 maart 
 <br>
 " § 1/1. Voor andere gebouwen dan de gebouwen, vermeld in paragraaf 1, waarvoor EPB-eisen gelden als vermeld in artikel 11.1.1, § 1, dient de verslaggever namens de aangifteplichtige een EPB-aangifte in bij het Vlaams Energieagentschap binnen een termijn van vijf jaar na het verlenen van de stedenbouwkundige vergunning of de omgevingsvergunning voor stedenbouwkundige handelingen of na het indienen van de melding.".
 
+### ART 41.
+
+In artikel 11.2.1, § 3, van hetzelfde decreet, ingevoegd bij het decreet van 18 november 2011 en gewijzigd bij het decreet van 14 maart 2014, worden tussen het woord "kengetal" en het woord "alsmede" de woorden "of label" ingevoegd.
+
 ## HOOFDSTUK 12. Wijzigingen aan titel XIII van het Energiedecreet van 8 mei 2009
 
 ### ART 46.
