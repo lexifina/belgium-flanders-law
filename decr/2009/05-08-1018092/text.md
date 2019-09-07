@@ -2757,7 +2757,7 @@ Met ingang van 1 januari 2013 wordt in niet-residentiële gebouwen met een total
 <br>
 De Vlaamse Regering bepaalt de nadere regels om de bruikbare vloeroppervlakte te bepalen.<br>
 <br>
-§ 3. Elke verkoper of verhuurder, alsook zijn opdrachthouder,&nbsp;lasthebber of gevolmachtigde, vermeldt het op het energieprestatiecertificaat vermelde kengetal alsmede de unieke code van het energieprestatiecertificaat of het adres van het gebouw in alle commerciële advertenties die hij maakt voor de verkoop of verhuur van een gebouw, dat conform § 1 over een energieprestatiecertificaat dient te beschikken.<br>
+§ 3. Elke verkoper of verhuurder, alsook zijn opdrachthouder,&nbsp;lasthebber of gevolmachtigde, vermeldt het op het energieprestatiecertificaat vermelde kengetal of label alsmede de unieke code van het energieprestatiecertificaat of het adres van het gebouw in alle commerciële advertenties die hij maakt voor de verkoop of verhuur van een gebouw, dat conform § 1 over een energieprestatiecertificaat dient te beschikken.<br>
 <br>
 De Vlaamse Regering kan nadere regels bepalen betreffende de vorm van deze publiciteit.
 
