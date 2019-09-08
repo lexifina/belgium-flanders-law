@@ -150,7 +150,11 @@ f) als het agentschap erom verzoekt, het bewijs dat de voordelen, vermeld in art
 <br>
 De voorziening is verplicht om de voorlopige tegemoetkomingen, vermeld in artikel 8, die eventueel te veel betaald zijn, terug te storten aan het agentschap als blijkt dat ze op geen andere wijze gerecupereerd kunne worden.<br>
 <br>
-Op 30 september nadat de referentieperiode is afgelopen, gaat het agentschap na of voor alle trimesters de elektronische vragenlijst is bezorgd. Als de gegevens, vermeld in paragraaf 1, op 16 oktober nog altijd niet zijn bezorgd, kan het agentschap de terugbetaling eisen van de voorlopige tegemoetkomingen, vermeld in artikel 8.
+Op 30 september nadat de referentieperiode is afgelopen, gaat het agentschap na of voor alle trimesters de elektronische vragenlijst is bezorgd. Als de gegevens, vermeld in paragraaf 1, op 16 oktober nog altijd niet zijn bezorgd, kan het agentschap de terugbetaling eisen van de voorlopige tegemoetkomingen, vermeld in artikel 8.<br>
+<br>
+§ 3. Het agentschap kan jaarlijks de gegevens die meegedeeld zijn in de elektronisch ingevulde vragenlijst, vermeld in paragraaf 2, controleren door de gegevens te vergelijken met de authentieke bronnen van de bevoegde overheidsdiensten die daarvoor beschikbaar zijn. Als het agentschap dat nodig acht, kan het bijkomende informatie opvragen bij de voorziening.<br>
+<br>
+Als het agentschap in het kader van de controles, vermeld in het eerste lid, vaststelt dat er foutieve gegevens meegedeeld zijn in de laatst afgelopen referentieperiode, kan het agentschap de gegevens die de voorziening via de elektronische vragenlijst bezorgd heeft, nadat het informatie ingewonnen heeft bij de voorziening, aanpassen op basis van de reële gegevens voor de referentieperiode. Op basis van de reële gegevens wordt de tegemoetkoming herberekend.
 
 ### ART 6.
 
