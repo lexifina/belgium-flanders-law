@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032166,
+  "title": "Besluit van de Vlaamse Regering van 2019-04-05 tot goedkeuring van de curriculumdossiers voor de eerste graad van het secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032166/VolledigDocument?datum=2019-09-08",
+  "source_sha256": "00bbd3a07c7abc91bb605b5bbd85e420eee5f4029b26d34ae4f6226cbec91a90",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032166&param=informatie",
+  "as_of": "2019-09-08",
+  "made": "2019-04-05",
+  "gazette": "2019-08-29",
+  "numac": 2019041509,
+  "document_start": "2019-09-08",
+  "document_end": "2023-10-11",
+  "in_force": "2019-09-08",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-09-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
