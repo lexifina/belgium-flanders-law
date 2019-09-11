@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032475,
+  "title": "Ministerieel besluit van 2019-11-08 tot erkenning van de vzw Centrum voor Agrarisch Praktijk Opleiding als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032475/VolledigDocument?datum=2019-09-11",
+  "source_sha256": "21a295d9a706e21612987d6934cd4815666fc3cf83ea2544c99b1385223193db",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032475&param=informatie",
+  "as_of": "2019-09-11",
+  "made": "2019-11-08",
+  "gazette": "2019-12-06",
+  "numac": 2019015600,
+  "document_start": "2019-09-11",
+  "document_end": null,
+  "in_force": "2019-09-11",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-09-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
