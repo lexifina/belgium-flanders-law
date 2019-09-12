@@ -2,16 +2,16 @@
   "codex_id": 1017860,
   "title": "Decreet van 2009-04-03 houdende de organisatie van co-existentie van genetisch gemodificeerde gewassen met conventionele gewassen en biologische gewassen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017860/VolledigDocument?datum=2018-05-25",
-  "source_sha256": "a397bd0a8703bd7b1f14d9edd99f04dcade1db7f0e3a92529e6a8e4055b6596c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017860/VolledigDocument?datum=2019-09-12",
+  "source_sha256": "d06f333723c025ad7dcd528736db523832ecb19fe9b78d77955afca342143d4c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017860&param=informatie",
-  "as_of": "2018-05-25",
+  "as_of": "2019-09-12",
   "made": "2009-04-03",
   "gazette": "2009-05-04",
   "numac": 2009035368,
   "document_start": "2009-05-04",
   "document_end": null,
-  "in_force": "2018-05-25",
+  "in_force": "2019-09-12",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-09-12; future article versions excluded; article text as the API gives it"
 }
