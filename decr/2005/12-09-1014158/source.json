@@ -2,16 +2,16 @@
   "codex_id": 1014158,
   "title": "Decreet van 2005-12-09 Provinciedecreet",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014158/VolledigDocument?datum=2019-04-13",
-  "source_sha256": "16dcf465cf3aab03d5959057215ae8cb78b50da6b7cf3531e67c89405953bfb8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014158/VolledigDocument?datum=2019-09-12",
+  "source_sha256": "71b6b38cf363147c183a3b23f517cec2fed3e8ef08a49dbf415393ea3ca9dbbd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014158&param=informatie",
-  "as_of": "2019-04-13",
+  "as_of": "2019-09-12",
   "made": "2005-12-09",
   "gazette": "2005-12-29",
   "numac": 2005036605,
   "document_start": "2006-12-01",
   "document_end": null,
-  "in_force": "2019-04-13",
+  "in_force": "2019-09-12",
   "article_versions": 303,
-  "record_form": "consolidated version as in force on 2019-04-13; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-09-12; future article versions excluded; article text as the API gives it"
 }
