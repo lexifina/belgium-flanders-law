@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032193,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-10 houdende indeling bij de gemeentewegen van de gewestwegen N330-Leopold II-laan tussen kilometerpunt 5,728 en 7,713 en N8h-Jaak van Buggenhoutlaan tussen kilometerpunt 0,000 en 1,127 op het grondgebied van de gemeente Koksijde",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032193/VolledigDocument?datum=2019-09-14",
+  "source_sha256": "ad50807abdf8929b4655e494050da54f16b97c474832439d9aa5eb2661c69e9d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032193&param=informatie",
+  "as_of": "2019-09-14",
+  "made": "2019-05-10",
+  "gazette": "2019-09-04",
+  "numac": 2019014229,
+  "document_start": "2019-09-14",
+  "document_end": null,
+  "in_force": "2019-09-14",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-09-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
