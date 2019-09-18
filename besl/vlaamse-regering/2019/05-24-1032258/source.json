@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032258,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-24 houdende wijziging van artikel 15/2 van het koninklijk besluit van 9 maart 2006 betreffende het activerend beleid bij herstructureringen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032258/VolledigDocument?datum=2019-09-18",
+  "source_sha256": "232543185eb84db95f1ee33673c5770886c6061180cb1d6abf6b905c8b240077",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032258&param=informatie",
+  "as_of": "2019-09-18",
+  "made": "2019-05-24",
+  "gazette": "2019-09-18",
+  "numac": 2019014437,
+  "document_start": "2019-09-18",
+  "document_end": null,
+  "in_force": "2019-09-18",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-09-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
