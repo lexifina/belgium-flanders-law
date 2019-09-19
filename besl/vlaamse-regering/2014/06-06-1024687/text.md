@@ -104,21 +104,89 @@ De landcommissie bezorgt de definitief vastgestelde lijsten aan de   instantie o
 
 ### ART. 2.1.2.1.
 
-<P>§ 1. Een administratieve overheid kan een beheerovereenkomst sluiten voor het   uitvoeren van beheermaatregelen in een gebied als deze beheermaatregelen en het   gebied zijn opgenomen in een door de Vlaamse Regering vastgesteld   landinrichtingsplan, een door de Vlaamse Regering, provinciebestuur of   gemeentebestuur vastgestelde inrichtingsnota, of werden bekend gemaakt conform   de bepaling van artikel 5.1.1.2. van dit besluit.<BR></P>  <P>De administratieve overheid die een beheerovereenkomst kan sluiten is de   instantie of de persoon, vermeld in artikel 3.3.7 en 3.3.8 van het decreet van   28 maart 2014.<BR></P>  <P>§ 2. Een beheerovereenkomst kan worden gesloten voor meerdere   beheermaatregelen en in combinatie met andere beheerovereenkomsten, milieuacties   of maatregelen, op voorwaarde dat ze elkaar aanvullen en onderling verenigbaar   zijn. Een beheervergoeding kan niet gecumuleerd worden met andere vormen van   vergoeding, toegekend voor dezelfde of soortgelijke prestaties.<BR></P>  <P>§ 3. Een beheerovereenkomst kan worden gesloten als de gebruiker of de groep   van gebruikers er zich toe verbindt om vanaf het sluiten van de   beheerovereenkomst de beheerovereenkomst na te leven, zich te onderwerpen aan de   controle van de naleving ervan en alle gegevens die nodig zijn om de evaluatie   van de maatregelen mogelijk te maken, aan de administratieve overheid die de   beheerovereenkomst sluit ter beschikking te stellen.<BR></P>  <P>§ 4. De aanvraag tot het sluiten van de beheerovereenkomst wordt ingediend   bij het agentschap of bij de administratieve overheid die zelf instaat voor het   sluiten van beheerovereenkomsten als vermeld in artikel 2.1.7 van het decreet   van 28 maart 2014. De minister bepaalt de gegevens die de aanvraag tot het   sluiten van een beheerovereenkomst minstens moet bevatten. De minister kan   nadere regels bepalen voor de wijze waarop de aanvraag tot het sluiten van een   beheerovereenkomst wordt ingediend en de termijn waarbinnen de aanvraag wordt   ingediend.<BR></P>  <P>Het agentschap of de administratieve overheid die zelf instaat voor het   sluiten van beheerovereenkomsten als vermeld in artikel 2.1.7 van het decreet   van 28 maart 2014 gaat na of de beheerovereenkomst gesloten kan worden en of de   gevraagde beheerovereenkomst in overeenstemming is met het landinrichtingsplan,   de inrichtingsnota of de beheervisie.<BR></P>  <P>Het agentschap of de administratieve overheid die zelf instaat voor het   sluiten van beheerovereenkomsten als vermeld in artikel 2.1.7 van het decreet   van 28 maart 2014 beslist of een beheerovereenkomst al dan niet gesloten kan   worden. Als de beheerovereenkomst of een deel van de beheerovereenkomst niet   gesloten kan worden, wordt de aanvrager daarvan schriftelijk op de hoogte   gebracht.<BR></P>  <P>§ 5. De gebruiker of groep van gebruikers kan een gemotiveerde aanvraag   indienen om de beheerovereenkomst vervroegd te beëindigen wegens overmacht of   uitzonderlijke omstandigheid. De aanvraag wordt schriftelijk ingediend bij de   administratieve overheid die de beheerovereenkomst gesloten heeft.<BR></P>  <P>De administratieve overheid die de beheerovereenkomst gesloten heeft, beslist   of het meegedeelde geval overmacht of een uitzonderlijke omstandigheid is. In   geval van overmacht of uitzonderlijke omstandigheid eindigt de   beheerovereenkomst.<BR></P>  <P>§ 6. De minister bepaalt de nadere regels met betrekking tot de voorwaarden   van voortijdig beëindigen van een beheerovereenkomst en kan de nodige   modeldocumenten vaststellen.<BR></P>
+<p>§ 1. Een administratieve overheid als vermeld in het tweede lid, kan met een gebruiker van een grond een beheerovereenkomst sluiten om beheermaatregelen uit te voeren in een gebied als die beheermaatregelen en het gebied zijn opgenomen in een landinrichtingsplan, in een inrichtingsnota of in een beheervisie als vermeld in respectievelijk artikel 3.3.1, artikel 4.2.1 of artikel 5.1.1 van het decreet van 28 maart 2014. De minister bepaalt nadere regels over de beheermaatregelen zoals de vereiste afmetingen, de mogelijke activiteiten, de wijze van totstandkoming en beheer en het gebruik van het perceel waarop de beheermaatregelen worden uitgevoerd. De minister bepaalt de bijbehorende beheervergoeding conform artikel 2.1.2.2, § 1.<br>
+<br>
+De administratieve overheden die een beheerovereenkomst kunnen sluiten, zijn het agentschap, de provincies en de gemeenten. De administratieve overheid die de beheerovereenkomst sluit, wordt voor de toepassing van deze afdeling de optredende instantie genoemd. De optredende instantie staat in voor de volledige opvolging van de beheerovereenkomsten, met name de behandeling van aanvragen, het sluiten van beheerovereenkomsten, de beëindiging, wijziging, aanpassing of overname van beheerovereenkomsten, de controle op de naleving van de beheerovereenkomsten, het bepalen van de gevolgen als de beheerovereenkomst niet wordt nageleefd, de betaling van de beheervergoedingen en de terugvordering van ten onrechte betaalde beheervergoedingen.<br>
+<br>
+Als de optredende instantie een gemeente of provincie is, kan die optredende instantie het agentschap verzoeken om de taken uit te voeren waarmee de optredende instantie is belast. Het agentschap rekent daarvoor werkingsmiddelen aan. Het agentschap treedt daarbij op in naam en voor rekening van de gemeente of de provincie.<br>
+<br>
+In deze paragraaf wordt verstaan onder optredende instantie:<br>
+1° het agentschap in de volgende gevallen:<br>
+a) als volgens het landinrichtingsplan het agentschap belast is met de uitvoering van het instrument beheerovereenkomsten;<br>
+b) als de inrichtingsnota wordt goedgekeurd door de Vlaamse Regering conform artikel 4.2.1.1;<br>
+c) als de minister de beheervisie, vermeld in artikel 5.1.1.1, bepaalt;<br>
+2° de provincie in de volgende gevallen:<br>
+a) als volgens het landinrichtingsplan de provincie belast is met de uitvoering van het instrument beheerovereenkomsten;<br>
+b) als de inrichtingsnota wordt goedgekeurd door het provinciebestuur conform artikel 4.2.2.1;<br>
+c) als het provinciebestuur de beheervisie, vermeld in artikel 5.1.1.1, bepaalt;<br>
+3° de gemeente in de volgende gevallen:<br>
+a) als volgens het landinrichtingsplan de gemeente belast is met de uitvoering van het instrument beheerovereenkomsten;<br>
+b) als de inrichtingsnota wordt goedgekeurd door het gemeentebestuur conform artikel 4.2.3.1;<br>
+c) als het gemeentebestuur de beheervisie, vermeld in artikel 5.1.1.1, bepaalt.<br>
+<br>
+§ 1/1. De gebruiker van een grond met wie een beheerovereenkomst gesloten kan worden, behoort niet tot de volgende instanties:<br>
+1° de diensten en agentschappen die afhangen van het Vlaamse Gewest;<br>
+2° de besturen en de publiekrechtelijke en privaatrechtelijke rechtspersonen die in het Vlaamse Gewest belast zijn met taken van openbaar nut.<br>
+<br>
+§ 1/2. Er kunnen geen beheerovereenkomsten gesloten worden voor de volgende percelen:<br>
+1° percelen die liggen binnen terreinen die conform het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu zijn erkend of aangewezen als natuurreservaat;<br>
+2° percelen die liggen binnen terreinen die conform het Bosdecreet van 13 juni 1990 zijn erkend of aangewezen als bosreservaat;<br>
+3° percelen die liggen binnen terreinen waarvoor een goedgekeurd natuurbeheerplan bestaat dat is opgenomen in het register, vermeld in artikel 16octies, § 4, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.<br>
+<br>
+Er kunnen geen beheerovereenkomsten gesloten worden voor percelen die liggen op openbaar domein. Als een perceel belast is met een wettelijke, conventionele of publiekrechtelijke erfdienstbaarheid, kan een beheerovereenkomst gesloten worden als de beheermaatregel verenigbaar is met de erfdienstbaarheid</p>
+
+<p>§ 2. Een beheerovereenkomst kan worden gesloten voor verschillende beheermaatregelen en in combinatie met andere beheerovereenkomsten, milieuacties of maatregelen, op voorwaarde dat ze elkaar aanvullen en onderling verenigbaar zijn. Een beheervergoeding kan niet gecumuleerd worden met andere vormen van vergoeding die toegekend zijn voor dezelfde of soortgelijke prestaties. De aanvraag van een beheerovereenkomst wordt afgewezen als degene die de beheerovereenkomst wil sluiten, een vergoeding ontvangt voor dezelfde of soortgelijke prestaties als de prestaties die hij moet leveren binnen de aangevraagde beheerovereenkomst.<br>
+<br>
+§ 3. Een beheerovereenkomst kan worden gesloten als de gebruiker of de groep van gebruikers er zich toe verbindt om vanaf het sluiten van de beheerovereenkomst de beheerovereenkomst na te leven, zich te onderwerpen aan de controle van de naleving ervan en alle gegevens die nodig zijn om de evaluatie van de maatregelen mogelijk te maken, aan de optredende instantie, vermeld in paragraaf 1, ter beschikking te stellen.<br>
+<br>
+§ 4. De aanvraag van een beheerovereenkomst wordt ingediend bij de optredende instantie, vermeld in paragraaf 1. De minister bepaalt de gegevens die de aanvraag van een beheerovereenkomst minstens moet bevatten zoals de contactgegevens van de aanvrager, de ligging van de percelen waarvoor een beheerovereenkomst wordt gevraagd en de gewenste startdatum. De minister kan nadere regels bepalen voor de wijze waarop en de termijn waarin de aanvraag van een beheerovereenkomst wordt ingediend zoals de datum waarop en de instantie waarbij de aanvraag moet ingediend worden. De minister kan nadere regels bepalen voor de aanvangsdatum en de duur van de beheerovereenkomsten.<br>
+<br>
+De optredende instantie, vermeld in paragraaf 1, gaat na of de beheerovereenkomst gesloten kan worden en of de gevraagde beheerovereenkomst in overeenstemming is met het landinrichtingsplan, de inrichtingsnota of de beheervisie.<br>
+<br>
+De optredende instantie, vermeld in paragraaf 1, beslist of een beheerovereenkomst al dan niet gesloten kan worden. Als de beheerovereenkomst of een deel van de beheerovereenkomst niet gesloten kan worden, wordt de aanvrager daarvan schriftelijk op de hoogte gebracht.<br>
+<br>
+§ 5. De gebruiker of groep van gebruikers kan een gemotiveerde aanvraag indienen om de beheerovereenkomst vervroegd te beëindigen wegens overmacht of uitzonderlijke omstandigheid. De aanvraag wordt schriftelijk ingediend bij de optredende instantie, vermeld in paragraaf 1.<br>
+<br>
+De optredende instantie, vermeld in paragraaf 1, beslist of het meegedeelde geval overmacht of een uitzonderlijke omstandigheid is. In geval van overmacht of uitzonderlijke omstandigheid eindigt de beheerovereenkomst.<br>
+<br>
+§ 6. De minister kan nadere regels bepalen voor de aanpassing of de voortijdige beëindiging van een beheerovereenkomst ten gevolge van de overdracht van een perceel, de wijziging van de basiskwaliteit voor milieu en natuur of een andere wijziging waardoor niet langer voldaan is aan de voorwaarden van de afgesloten beheerovereenkomst.</p>
 
 ### ART. 2.1.2.2.
 
-<P>§ 1. De beheervergoeding voor de geleverde prestatie van de gebruiker of   groep van gebruikers wordt berekend volgens de volgende formule:<BR>A = B + C -   D, waarbij:<BR>1° A: de jaarlijkse vergoeding voor de gebruiker of groep van   gebruikers<BR>2° B: de kosten verbonden aan de prestatie, met inbegrip van   eventuele transactiekosten<BR>3° C: de eventuele gederfde inkomsten<BR>4° D: de   eventuele uitgespaarde kosten en extra gegenereerde inkomsten.<BR></P>  <P>§ 2. De administratieve overheid die de beheerovereenkomst sluit, is de   beheervergoeding verschuldigd en is belast met het toezicht op de naleving van   de beheerovereenkomst. Om na te gaan of de beheerovereenkomst is nageleefd,   voert de administratieve overheid de vereiste controles ter plaatse uit. Ze kan   zich hiertoe laten bijstaan door derden.<BR></P>  <P>Bij vaststelling van niet naleving van de beheerovereenkomst kan de   beheervergoeding geheel of gedeeltelijk worden teruggevorderd.<BR></P>  <P>De minister bepaalt de nadere regels met betrekking tot de organisatie en de   procedure voor de controle en kan de nodige modeldocumenten   vaststellen.<BR></P>
+<p>§ 1. De beheervergoeding voor de geleverde prestatie van de gebruiker of groep van gebruikers wordt berekend volgens de volgende formule:<br>
+A = B + C - D, waarbij:<br>
+1° A: de jaarlijkse vergoeding voor de gebruiker of groep van gebruikers<br>
+2° B: de kosten verbonden aan de prestatie, met inbegrip van eventuele transactiekosten<br>
+3° C: de eventuele gederfde inkomsten<br>
+4° D: de eventuele uitgespaarde kosten en extra gegenereerde inkomsten.</p>
+
+<p>§ 2. De optredende instantie, vermeld in artikel 2.1.2.1, is de beheervergoeding verschuldigd en is belast met het toezicht op de naleving van de beheerovereenkomst. Om na te gaan of de beheerovereenkomst is nageleefd, voert die optredende instantie de vereiste controles ter plaatse uit. Ze kan zich daarvoor laten adviseren door derden die deskundig zijn om te beoordelen of een beheerovereenkomst werd nageleefd.</p>
+
+<p>Bij vaststelling van niet naleving van de beheerovereenkomst kan de beheervergoeding geheel of gedeeltelijk worden teruggevorderd.</p>
+
+<p>De minister bepaalt de nadere regels met betrekking tot de organisatie en de procedure voor de controle en kan de nodige modeldocumenten vaststellen.</p>
 
 ### ART. 2.1.2.3.
 
-<P>Het agentschap berekent de beheervergoeding volgens de formule vermeld in   artikel 2.1.2.2 § 1.<BR></P>  <P>Op vraag van de administratieve overheid die de beheerovereenkomst sluit, kan   het agentschap de beheervergoeding uitbetalen.<BR></P>
+<p>Het agentschap berekent de beheervergoeding volgens de formule vermeld in artikel 2.1.2.2 § 1.</p>
 
 ## Afdeling 2 Dienstenvergoedingen
 
 ### ART. 2.1.2.4.
 
-<P>§ 1. Een jaarlijkse dienstenvergoeding kan worden toegekend voor het leveren   van een bijkomende dienst in een gebied als de bijkomende dienst en het gebied   zijn opgenomen in een door de Vlaamse Regering vastgesteld landinrichtingsplan,   een door de Vlaamse Regering, provinciebestuur of gemeentebestuur vastgestelde   inrichtingsnota, of werden bekend gemaakt conform de bepaling van artikel   5.1.1.2. van dit besluit.<BR></P>  <P>§ 2. Een jaarlijkse dienstenvergoeding kan worden toegekend voor meerdere   diensten en in combinatie met andere milieuacties of maatregelen, op voorwaarde   dat ze elkaar aanvullen en onderling verenigbaar zijn. Een dienstenvergoeding   kan niet gecumuleerd worden met andere vormen van vergoeding, toegekend voor   dezelfde of soortgelijke prestaties.<BR></P>  <P>§ 2. Een dienstenvergoeding wordt uitbetaald als de dienstenvergoeding werd   toegekend en als de gebruiker of de groep van gebruikers er zich bij aanvraag   van de dienstenvergoeding toe verbindt om de bijkomende dienst te leveren, zich   te onderwerpen aan de controle van de naleving ervan en alle gegevens die nodig   zijn om de evaluatie van de dienst mogelijk te maken, aan de instanties of de   personen die de dienstenvergoeding toekent ter beschikking te stellen.<BR></P>  <P>§ 3. De aanvraag van een dienstenvergoeding wordt ingediend bij het   agentschap of bij de administratieve overheid die zelf instaat voor het   uitbetalen en opvolgen van de dienstenvergoeding als vermeld in artikel 2.1.10   van het decreet van 28 maart 2014. De minister kan nadere regels bepalen voor de   gegevens die de aanvraag van de dienstenvergoeding minstens moet bevatten, voor   de wijze waarop de aanvraag van de dienstenvergoeding wordt ingediend en de   termijn waarbinnen de aanvraag wordt ingediend.<BR></P>  <P>Het agentschap of de administratieve overheid die zelf instaat voor het   uitbetalen en opvolgen van de dienstenvergoeding als vermeld in artikel 2.1.10   van het decreet van 28 maart 2014 gaat na of de dienstenvergoeding aangegaan kan   worden en of de gevraagde dienstenvergoeding in overeenstemming is met het   landinrichtingsplan, de inrichtingsnota of de beheervisie.<BR></P>  <P>Het agentschap of de administratieve overheid die zelf instaat voor het   uitbetalen en opvolgen van de dienstenvergoeding als vermeld in artikel 2.1.10   van het decreet van 28 maart 2014 beslist of de dienstenvergoeding al dan niet   aangegaan kan worden. Als de dienstenvergoeding niet aangegaan kan worden, wordt   de aanvrager daarvan schriftelijk op de hoogte gebracht.<BR></P>  <P>§ 4. De minister kan nadere regels bepalen met betrekking tot de voorwaarden   van voortijdige beëindiging van de dienstenvergoeding en kan de nodige   modeldocumenten vaststellen.<BR></P>
+<p>§ 1. Een jaarlijkse dienstenvergoeding kan worden toegekend om een bijkomende dienst te leveren in een gebied als de bijkomende dienst, de toekenningsvoorwaarden waaraan voldaan moet zijn en de verbintenissen die nageleefd moeten worden, het bedrag van de vergoeding voor die bijkomende dienst en het gebied zijn opgenomen in een landinrichtingsplan, in een inrichtingsnota of in een beheervisie als vermeld in respectievelijk artikel 3.3.1, artikel 4.2.1 of artikel 5.1.1 van het decreet van 28 maart 2014.</p>
+
+<p>§ 2. Een jaarlijkse dienstenvergoeding kan worden toegekend voor meerdere diensten en in combinatie met andere milieuacties of maatregelen, op voorwaarde dat ze elkaar aanvullen en onderling verenigbaar zijn. Een dienstenvergoeding kan niet gecumuleerd worden met andere vormen van vergoeding, toegekend voor dezelfde of soortgelijke prestaties.</p>
+
+<p>§ 2/1. Een dienstenvergoeding wordt uitbetaald als de dienstenvergoeding werd toegekend en als de gebruiker of de groep van gebruikers er zich bij aanvraag van de dienstenvergoeding toe verbindt om de bijkomende dienst te leveren, zich te onderwerpen aan de controle van de naleving ervan en alle gegevens die nodig zijn om de evaluatie van de dienst mogelijk te maken, aan de instanties of de personen die de dienstenvergoeding toekent ter beschikking te stellen.</p>
+
+<p>§ 3. De aanvraag van een dienstenvergoeding wordt ingediend bij het agentschap of bij de administratieve overheid die zelf instaat voor het uitbetalen en opvolgen van de dienstenvergoeding als vermeld in artikel 2.1.10 van het decreet van 28 maart 2014. De minister kan nadere regels bepalen voor de gegevens die de aanvraag van de dienstenvergoeding minstens moet bevatten, voor de wijze waarop de aanvraag van de dienstenvergoeding wordt ingediend en de termijn waarbinnen de aanvraag wordt ingediend. De minister kan nadere regels bepalen voor de aanvangsdatum en de duur van de dienstenvergoeding, waaronder de voorwaarden voor het verlengen van de dienstenvergoeding.</p>
+
+<p>Het agentschap of de administratieve overheid die zelf instaat voor het uitbetalen en opvolgen van de dienstenvergoeding als vermeld in artikel 2.1.10 van het decreet van 28 maart 2014 gaat na of de dienstenvergoeding aangegaan kan worden en of de gevraagde dienstenvergoeding in overeenstemming is met het landinrichtingsplan, de inrichtingsnota of de beheervisie.</p>
+
+<p>Het agentschap of de administratieve overheid die zelf instaat voor het uitbetalen en opvolgen van de dienstenvergoeding als vermeld in artikel 2.1.10 van het decreet van 28 maart 2014 beslist of de dienstenvergoeding al dan niet aangegaan kan worden. Als de dienstenvergoeding niet aangegaan kan worden, wordt de aanvrager daarvan schriftelijk op de hoogte gebracht.</p>
+
+<p>§ 4. De minister kan nadere regels bepalen met betrekking tot de voorwaarden van voortijdige beëindiging van de dienstenvergoeding en kan de nodige modeldocumenten vaststellen.</p>
 
 ### ART. 2.1.2.5.
 
@@ -894,11 +962,27 @@ In afwijking van artikel 4.2.3.1 tot en met 4.2.3.6 van dit besluit kan de   inr
 
 ### ART. 5.1.1.1.
 
-De minister bepaalt de beheervisie conform artikel 5.1.1, § 2, eerste lid   van het decreet van 28 maart 2014. Een voorstel van beheervisie kan aangeleverd   worden door het agentschap, een administratieve overheid of door een   privaatrechtelijke rechtspersoon die het beheer of de bescherming van landschap,   natuur of milieu beoogt in samenspraak met het agentschap.<BR>
+De minister, het provinciebestuur of het gemeentebestuur bepaalt de beheervisie conform artikel 5.1.1, § 2, eerste lid van het decreet van 28 maart 2014. Een voorstel van beheervisie kan aangeleverd worden door het agentschap, een administratieve overheid of door een privaatrechtelijke rechtspersoon die het beheer of de bescherming van landschap, natuur of milieu beoogt in samenspraak met het agentschap.
 
 ### ART. 5.1.1.2.
 
-<P>§ 1. Elke beheervisie omvat onder meer de elementen vermeld in artikel 5.1.1,   § 2, eerste lid van het decreet van 28 maart 2014. Het besluit tot bepaling van   de beheervisie bevat ten minste de volgende gegevens:<BR>1° als   dienstenvergoedingen als instrument zijn opgenomen in de beheervisie: de   bijkomende dienst die gewenst is en het gebied waarin de bijkomende dienst   gewenst is;<BR>2° als beheerovereenkomsten als instrument zijn opgenomen in de   beheervisie: de beheermaatregelen die gewenst zijn, en het gebied waarin de   beheermaatregelen gewenst zijn.<BR></P>  <P>Het besluit tot bepaling van de beheervisie wordt door het agentschap   bekendgemaakt in het Belgisch Staatsblad.<BR></P>  <P>§ 2. Het agentschap bezorgt de beheervisie en het besluit tot bepaling van de   beheervisie, voorafgaandelijk aan de bekendmaking in het Belgisch Staatsblad,   aan:<BR>1° de instantie die conform artikel 5.1.1.1 het voorstel van beheervisie   heeft aangeleverd;<BR>2° de gemeenten en provincies waarop de beheervisie   betrekking heeft.<BR></P>  <P>De beheervisie en het besluit tot bepaling van de beheervisie kunnen worden   ingezien bij elke gemeente waarop de beheervisie betrekking   heeft.<BR></P>
+<p>§ 1. Elke beheervisie omvat naast de elementen, vermeld in artikel 5.1.1, § 2, eerste lid, van het decreet van 28 maart 2014, de volgende elementen:<br>
+1° als dienstenvergoedingen als instrument zijn opgenomen in de beheervisie:<br>
+a) de bijkomende dienst die gewenst is en per bijkomende dienst de toekenningsvoorwaarden waaraan voldaan moet zijn en de verbintenissen die nageleefd moeten worden;<br>
+b) het bedrag van de vergoeding voor de bijkomende dienst, vermeld in punt a);<br>
+c) het gebied waarin de bijkomende dienst, vermeld in punt a), gewenst is;<br>
+2° als beheerovereenkomsten als instrument zijn opgenomen in de beheervisie:<br>
+a) de beheermaatregelen die gewenst zijn;<br>
+b) de bijbehorende beheervergoeding en het gebied waarin de beheermaatregelen, vermeld in punt a), gewenst zijn;<br>
+3° een financieringsplan.<br>
+<br>
+Het besluit tot bepaling van de beheervisie wordt bekendgemaakt in het Belgisch Staatsblad door het agentschap als de minister de beheervisie heeft bepaald, en door het provincie- of het gemeentebestuur als het provincie- of gemeentebestuur de beheervisie heeft bepaald.</p>
+
+<p>§ 2. Degene die instaat voor de bekendmaking van het besluit tot bepaling van de beheervisie in het Belgisch Staatsblad als vermeld in paragraaf 1, tweede lid, bezorgt de beheervisie en het besluit tot bepaling van de beheervisie, voorafgaandelijk aan de bekendmaking in het Belgisch Staatsblad, aan:<br>
+1° de instantie die conform artikel 5.1.1.1 het voorstel van beheervisie heeft aangeleverd;<br>
+2° de gemeenten en provincies waarop de beheervisie betrekking heeft.</p>
+
+<p>De beheervisie en het besluit tot bepaling van de beheervisie kunnen worden ingezien bij elke gemeente waarop de beheervisie betrekking heeft.</p>
 
 ## DEEL 6 EVALUATIE
 
