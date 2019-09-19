@@ -474,9 +474,9 @@ Als aan die voorwaarden niet is voldaan is de aanvrager niet langer belast met d
 
 ### ART 28.
 
-§ 1. Minstens om de drie jaar en aansluitend op het twintigjaarlijkse toezicht, vermeld in artikel 27, controleren het Fonds of de personen, belast met het toezicht, de boekhouding van de aanvrager. In de boekhouding van de aanvrager worden de ontvangsten en uitgaven die verband houden met het project transparant afgezonderd.<br>
+§ 1. Minstens om de drie jaar en aansluitend op het twintigjaarlijkse toezicht, vermeld in artikel 27, controleren het Fonds of de personen, belast met het toezicht, de boekhouding van de aanvrager. In de boekhouding van de aanvrager worden de&nbsp;inkomsten en kosten die verband houden met het project transparant afgezonderd.<br>
 <br>
-Als, rekening houdend met een redelijke winst, het totaal van de ontvangsten, vermeld in het eerste lid, hoger is dan de uitgaven, vermeld in eerste lid, en een passend aandeel in de gemeenschappelijke kosten van de aanvrager, vordert het Fonds het verschil terug.<br>
+Als, rekening houdend met een redelijke winst, het totaal van de inkomsten, vermeld in het eerste lid, hoger is dan de kosten, vermeld in eerste lid, en een passend aandeel in de gemeenschappelijke kosten van de aanvrager, vordert het Fonds het verschil terug.<br>
 <br>
 § 2. In deze paragraaf wordt onder ROCE de return on capital employed verstaan.<br>
 <br>
