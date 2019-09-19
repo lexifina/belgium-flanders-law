@@ -219,7 +219,7 @@ De aanvrager bezorgt bij zijn aanvraag, vermeld in het eerste lid, de volgende s
 
 ### ART 12.
 
-§ 1. Het maximale bedrag van de investeringssubsidie per voorziening is vastgesteld op 175.000 euro voor voorzieningen met een verblijfscapaciteit van minder dan 50. Voor voorzieningen met een verblijfscapaciteit van 50 of meer wordt dat maximale bedrag van de investeringssubsidie per voorziening vermeerderd met 2500 euro per verblijfsplaats.<br>
+§ 1. Het maximale bedrag van de investeringssubsidie per voorziening is vastgesteld op 175.000 euro voor voorzieningen met een verblijfscapaciteit van minder dan 50. Voor voorzieningen met een verblijfscapaciteit van 50 of meer wordt dat maximale bedrag van de investeringssubsidie per voorziening vermeerderd met 2500 euro per verblijfsplaats voor de plaatsen vijftig en meer.<br>
 <br>
 Bij een gezamenlijke aanvraag worden de bedragen, vermeld in het eerste lid, per voorziening in rekening gebracht.<br>
 <br>
@@ -279,7 +279,7 @@ Het Fonds bepaalt jaarlijks bij het begin van het jaar de toelaatbare ROCE voor 
 
 ### ART 19.
 
-Met toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof wordt het infrastructuurforfait geheel of ten dele teruggevorderd voor zover daartoe aanleiding bestaat na de controle, vermeld in artikel 18 van dit besluit.
+Met toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof worden de investeringssubsidies geheel of ten dele teruggevorderd voor zover daartoe aanleiding bestaat na de controle, vermeld in artikel 18 van dit besluit.
 
 ### ART 20.
 
