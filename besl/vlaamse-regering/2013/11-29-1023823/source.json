@@ -2,16 +2,16 @@
   "codex_id": 1023823,
   "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie operator textielverzorging",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023823/VolledigDocument?datum=2014-02-23",
-  "source_sha256": "8903d5d02f357e72b7bb3d59b21beeff8289a05bff602ec2d596638124476bfd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023823/VolledigDocument?datum=2019-09-19",
+  "source_sha256": "7c6ff692f0fec49ef3f6b87d1428b8c088b8cefbaa1faa7a9b7e46fe33bac131",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023823&param=informatie",
-  "as_of": "2014-02-23",
+  "as_of": "2019-09-19",
   "made": "2013-11-29",
   "gazette": "2014-02-13",
   "numac": 2014035132,
   "document_start": "2014-02-23",
   "document_end": "2020-05-24",
-  "in_force": "2014-02-23",
+  "in_force": "2019-09-19",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-02-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-09-19; future article versions excluded; article text as the API gives it"
 }
