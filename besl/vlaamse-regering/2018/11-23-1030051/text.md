@@ -419,7 +419,8 @@ De totale som van het basisbedrag van de investeringssubsidie voor uitbreiding, 
 In afwijking van het eerste lid mag het basisbedrag van de totale investeringssubsidie voor verbouwingswerken ten hoogste 100% bedragen van het basisbedrag van de investeringssubsidie voor uitbreiding van de betreffende voorziening, vermeld in artikel 24, § 1 en § 3, als het gaat om een ingrijpende duurzame verbouwing waardoor de realisatie gelijkwaardig wordt aan een nieuwbouw. Die verbouwing voldoet aan al de volgende voorwaarden:<br>
 1° het betreft een renovatie waarbij de technische installaties om een specifiek binnenklimaat te realiseren, volledig worden vervangen en minstens 75% van de bestaande en nieuwe scheidingsconstructies die het beschermde volume omhullen en die grenzen aan de buitenomgeving, worden geïsoleerd, behalve bij erfgoedgebouwen waar een dergelijke renovatie niet haalbaar blijkt;<br>
 2° het project voldoet aan de minimumeisen en de voorwaarden voor comfort en gebruik van energie, water en materialen, zoals bepaald door de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
-3° het gebouw heeft een functionaliteit die gelijkwaardig is aan een nieuwbouw.<br>
+3° het gebouw heeft een functionaliteit die gelijkwaardig is aan een nieuwbouw;<br>
+4° een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening.<br>
 <br>
 In het tweede lid, 1°, wordt verstaan onder erfgoedgebouw:<br>
 1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
@@ -438,7 +439,12 @@ Voor de aankoop kan ten hoogste 60% van de som van de door de Vlaamse Belastingd
 
 ### ART 27.
 
-Tenzij het anders bepaald is, kan er in een periode van twintig jaar na de ingebruikname van een investering die gesubsidieerd is door het Fonds of door zijn rechtsvoorgangers, geen subsidiebelofte worden verkregen voor hetzelfde project of voor een deel van hetzelfde project, ongeacht de sector van de persoonsgebonden aangelegenheden waarin de subsidie is verkregen. Alleen als een verbouwing noodzakelijk wordt wegens gewijzigde regelgeving of wegens gewijzigde en opgelegde veiligheidsvoorschriften, kan binnen die periode een subsidiebelofte voor verbouwing worden verkregen.
+Tenzij het anders bepaald is, kan er in een periode van twintig jaar na de ingebruikname van een investering die gesubsidieerd is door het Fonds of door zijn rechtsvoorgangers, geen subsidiebelofte worden verkregen voor hetzelfde project of voor een deel van hetzelfde project, ongeacht de sector van de persoonsgebonden aangelegenheden waarin de subsidie is verkregen.<br>
+<br>
+In afwijking van het eerste lid kan er binnen de periode van twintig jaar, vermeld in het eerste lid, wel een subsidiebelofte worden verkregen als aan een van de volgende voorwaarden is voldaan:<br>
+1° een verbouwing wordt noodzakelijk door gewijzigde regelgeving of gewijzigde veiligheidsvoorschriften;<br>
+2° de subsidies zijn uitsluitend verleend om brandveiligheidswerkzaamheden uit te voeren;<br>
+3° de subsidies zijn volledig teruggestort of hoeven niet te worden teruggestort, als daarvoor vooraf uitdrukkelijk toestemming is verleend conform artikel 41, § 2, eerste lid, van het besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden.
 
 ### ART 28.
 
@@ -492,7 +498,7 @@ Het Fonds bepaalt jaarlijks bij het begin van het jaar de toelaatbare ROCE voor 
 
 ### ART 34.
 
-Met toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof wordt het infrastructuurforfait geheel of ten dele teruggevorderd voor zover daartoe aanleiding bestaat na de controle, vermeld in artikel 33 van dit besluit.
+Met toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof worden de investeringssubsidies geheel of ten dele teruggevorderd voor zover daartoe aanleiding bestaat na de controle, vermeld in artikel 33 van dit besluit.
 
 ### ART 35.
 
