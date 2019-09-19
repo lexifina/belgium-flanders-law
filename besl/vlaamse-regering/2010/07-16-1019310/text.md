@@ -151,7 +151,8 @@ In afwijking van het tweede lid mag het basisbedrag van de totale investeringssu
 In het derde lid, 1°, wordt verstaan onder erfgoedgebouw:<br>
 1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 2° een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013.
+3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+4° een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening.
 
 ### ART. 14.
 
@@ -169,7 +170,8 @@ In afwijking van het tweede lid mag het basisbedrag van de totale investeringssu
 In het vierde lid, 1°, wordt verstaan onder erfgoedgebouw:<br>
 1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 2° een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013.
+3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+4° een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening.
 
 ### ART. 15.
 
@@ -177,9 +179,17 @@ De investeringssubsidie voor de verbouwing van een rust- en verzorgingstehuis wo
 
 ### ART. 16.
 
-<p>Tenzij het anders bepaald is, kan er in een periode van twintig jaar na de ingebruikname van een investering die gesubsidieerd is door het Fonds of door zijn rechtsvoorgangers, geen subsidiebelofte worden verkregen voor hetzelfde project of voor een deel van hetzelfde project, ongeacht de sector van de persoonsgebonden aangelegenheden waarin de subsidie is verkregen. Alleen als een verbouwing noodzakelijk wordt wegens gewijzigde regelgeving of wegens gewijzigde en opgelegde veiligheidsvoorschriften, kan binnen die periode een subsidiebelofte voor verbouwing worden verkregen.<br>
+<p>Tenzij het anders bepaald is, kan er in een periode van twintig jaar na de ingebruikname van een investering die gesubsidieerd is door het Fonds of door zijn rechtsvoorgangers, geen subsidiebelofte worden verkregen voor hetzelfde project of voor een deel van hetzelfde project, ongeacht de sector van de persoonsgebonden aangelegenheden waarin de subsidie is verkregen.<br>
 <br>
-In afwijking van het eerste lid kan de Vlaamse minister, bevoegd voor de bijstand aan personen en voor het gezondheidsbeleid, voor ziekenhuizen in de periode van twintig jaar na de ingebruikname van een investering die gesubsidieerd is door het Fonds of door zijn rechtsvoorgangers, een subsidiebelofte toestaan voor hetzelfde project of voor een deel van hetzelfde project, op voorwaarde dat het project waarvoor een subsidiebelofte wordt gevraagd, verder bestemd blijft binnen de persoonsgebonden aangelegenheden, vermeld in artikel 2, 3°, van het decreet van 2 juni 2006 tot omvorming van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden. Bij zijn beslissing tot afwijking kan de Vlaamse minister, bevoegd voor de bijstand aan personen en voor het gezondheidsbeleid, rekening houden met functionele elementen, financiële elementen, de opname van de infrastructuur in een grotere ontwikkeling met private of publieke partners, of met de realisatietermijn.</p>
+In afwijking van het eerste lid kan de Vlaamse minister, bevoegd voor de bijstand aan personen en voor het gezondheidsbeleid, voor ziekenhuizen in de periode van twintig jaar na de ingebruikname van een investering die gesubsidieerd is door het Fonds of door zijn rechtsvoorgangers, een subsidiebelofte toestaan voor hetzelfde project of voor een deel van hetzelfde project, op voorwaarde dat het project waarvoor een subsidiebelofte wordt gevraagd, verder bestemd blijft binnen de persoonsgebonden aangelegenheden, vermeld in artikel 2, 3°, van het decreet van 2 juni 2006 tot omvorming van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden. Bij zijn beslissing tot afwijking kan de Vlaamse minister, bevoegd voor de bijstand aan personen en voor het gezondheidsbeleid, rekening houden met functionele elementen, financiële elementen, de opname van de infrastructuur in een grotere ontwikkeling met private of publieke partners, of met de realisatietermijn.<br>
+<br>
+In afwijking van het eerste lid kan er binnen de periode van twintig jaar, vermeld in het eerste lid, wel een subsidiebelofte worden verkregen als aan een van de volgende voorwaarden is voldaan:<br>
+1° een verbouwing wordt noodzakelijk door gewijzigde regelgeving of gewijzigde veiligheidsvoorschriften;<br>
+2° de subsidies zijn uitsluitend verleend om brandveiligheidswerkzaamheden uit te voeren;<br>
+3° de subsidies zijn volledig teruggestort of hoeven niet te worden teruggestort, als daarvoor vooraf uitdrukkelijk toestemming is verleend conform een van de volgende bepalingen:<br>
+a) artikel 41, § 2, eerste lid, van het besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br>
+b) artikel 87, eerste lid, van het besluit van de Vlaamse Regering van 18 maart 2011 tot regeling van de alternatieve investeringssubsidies, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
+c) artikel 51, tweede lid, van het besluit van de Vlaamse Regering van 1 september 2006 tot regeling van de alternatieve investeringssubsidies verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden.</p>
 
 ### ART. 17.
 
@@ -255,7 +265,7 @@ Minstens elke tien jaar vanaf de toekenning van de investeringssubsidie zien de 
 <br>
 Minstens om de drie jaar en aansluitend op het tienjaarlijkse toezicht, vermeld in het derde lid, controleren het Fonds of de personen, belast met het toezicht, vermeld in het derde lid, de boekhouding van het ziekenhuis.<br>
 <br>
-Met behoud van de toepassing van artikel 83 tot en met 85 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen worden in de boekhouding van het ziekenhuis de ontvangsten en uitgaven die verband houden met investeringen in infrastructuur noodzakelijk voor de uitvoering van de verplichtingen, vermeld in het tweede lid, transparant afgezonderd.<br>
+Met behoud van de toepassing van artikel 83 tot en met 85 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen worden in de boekhouding van het ziekenhuis de inkomsten en kosten die verband houden met investeringen in infrastructuur noodzakelijk voor de uitvoering van de verplichtingen, vermeld in het tweede lid, transparant afgezonderd.<br>
 <br>
 Met toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof zullen de investeringssubsidies worden teruggevorderd voor zover daartoe aanleiding bestaat na de afrekening, vermeld in het derde lid, of na de controle, vermeld in het vierde lid.<br>
 <br>
