@@ -92,7 +92,7 @@ Van de maximale subsidiabele oppervlakte, vermeld in lid 2, kan alleen op gemoti
 
 ### ART. 8.
 
-§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw, uitrusting en meubilering inbegrepen, is voor de sector van de voorzieningen van de bijzondere jeugdbijstand en de vergunde diensten voor pleegzorg vastgesteld op 550 euro per m2.<br>
+§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw, uitrusting en meubilering inbegrepen, is voor de sector van de voorzieningen van de bijzondere jeugdbijstand en de vergunde diensten voor pleegzorg vastgesteld op 550 euro per m2. Als een voorziening een erkenning heeft voor de typemodule beveiligd verblijf, wordt het voormelde basisbedrag vastgesteld op 720 euro per m2 voor de infrastructuur die betrekking heeft op die typemodule.<br>
 <br>
 § 2. Voor een nieuwbouw kan een subsidiebelofte worden toegekend voor de projectfasen technische uitrusting, afwerking, uitrusting en meubilering, ook al is de projectfase ruwbouw al aangevat of gerealiseerd voordat de subsidiebelofte voor nieuwbouw wordt aangevraagd. De projectfase ruwbouw wordt dan niet gesubsidieerd. Een subsidiebelofte voor de projectfase uitrusting en meubilering alleen is niet mogelijk. Bij de subsidiebelofte wordt de investeringssubsidie voor nieuwbouw, vermeld in paragraaf 1, dan verdeeld op de volgende wijze:<br>
 1° technische uitrusting: 30%;<br>
@@ -103,7 +103,7 @@ De projectfase ruwbouw, vermeld in het eerste lid, omvat de gevelsluiting, boven
 
 ### ART. 9.
 
-§ 1. Het basisbedrag van de investeringssubsidie voor uitbreiding is voor de sector van de voorzieningen van de bijzondere jeugdbijstand en de vergunde diensten voor pleegzorg vastgesteld op 500 euro per m2.<br>
+§ 1. Het basisbedrag van de investeringssubsidie voor uitbreiding is voor de sector van de voorzieningen van de bijzondere jeugdbijstand en de vergunde diensten voor pleegzorg vastgesteld op 500 euro per m2. Als een voorziening een erkenning heeft voor de typemodule beveiligd verblijf, wordt het voormelde basisbedrag vastgesteld op 670 euro per m2 voor de infrastructuur die betrekking heeft op die typemodule.<br>
 <br>
 § 2. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij uitbreiding is voor de sector van de voorzieningen van de bijzondere jeugdbijstand en de vergunde diensten voor pleegzorg vastgesteld op 60 % van de goedgekeurde raming. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening.<br>
 <br>
@@ -135,7 +135,8 @@ In afwijking van het eerste lid mag het basisbedrag van de totale investeringssu
 In het tweede lid, 1°, wordt verstaan onder erfgoedgebouw:<br>
 1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 2° een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013.<br>
+3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+4° een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening.<br>
 <br>
 § 3. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij verbouwing is vastgesteld op 60 % van de goedgekeurde raming, tot maximaal 50 euro per m2. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening.<br>
 <br>
@@ -145,11 +146,16 @@ De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.
 
 Het basisbedrag van de investeringssubsidie voor aankoop met of zonder verbouwing, uitrusting en meubilering inbegrepen, bedraagt maximaal 75 % van het basisbedrag van de investeringssubsidie, vermeld in artikel 8. Als het gebouw dat het voorwerp uitmaakt van de aankoop, in het tweetalige gebied Brussel-Hoofdstad ligt of in een van de centrumsteden, vermeld in artikel 19ter decies van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, bedraagt het basisbedrag van de investeringssubsidie voor aankoop met of zonder verbouwing, uitrusting en meubilering inbegrepen, maximaal 100 % van het basisbedrag van de investeringssubsidie, vermeld in artikel 8.<br>
 <br>
-Voor de aankoop kan ten hoogste 60 % van de som van de door het comité van aankoop geschatte venale waarde van het gebouw en de aan de aankoop verbonden en bewezen notariskosten en registratiebelasting of registratierechten of btw in aanmerking komen voor de investeringssubsidie.
+Voor de aankoop kan ten hoogste 60 % van de som van de door de Vlaamse Belastingdienst, vermeld in artikel 1 van het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het agentschap Vlaamse Belastingdienst, geschatte venale waarde van het gebouw en de aan de aankoop verbonden en bewezen notariskosten en registratiebelasting of registratierechten of btw in aanmerking komen voor de investeringssubsidie.
 
 ### ART. 12.
 
-<P>Tenzij het anders bepaald is, kan er in een periode van twintig jaar na de   ingebruikname van een investering die gesubsidieerd is door het Fonds of door   zijn rechtsvoorgangers, geen subsidiebelofte worden verkregen voor hetzelfde   project of voor een deel van hetzelfde project, ongeacht de sector van de   persoonsgebonden aangelegenheden waarin de subsidie is verkregen. Alleen als een   verbouwing noodzakelijk wordt wegens gewijzigde regelgeving of wegens gewijzigde   en opgelegde veiligheidsvoorschriften, kan binnen die periode een   subsidiebelofte voor verbouwing worden verkregen.</P>
+Tenzij het anders bepaald is, kan er in een periode van twintig jaar na de ingebruikname van een investering die gesubsidieerd is door het Fonds of door zijn rechtsvoorgangers, geen subsidiebelofte worden verkregen voor hetzelfde project of voor een deel van hetzelfde project, ongeacht de sector van de persoonsgebonden aangelegenheden waarin de subsidie is verkregen.<br>
+<br>
+In afwijking van het eerste lid kan er binnen de periode van twintig jaar, vermeld in het eerste lid, wel een subsidiebelofte worden verkregen als aan een van de volgende voorwaarden is voldaan:<br>
+1° een verbouwing wordt noodzakelijk door gewijzigde regelgeving of gewijzigde veiligheidsvoorschriften;<br>
+2° de subsidies zijn uitsluitend verleend om brandveiligheidswerkzaamheden uit te voeren;<br>
+3° de subsidies zijn volledig teruggestort of hoeven niet teruggestort te worden, als daarvoor vooraf uitdrukkelijk toestemming is verleend conform artikel 41, § 2, eerste lid, van het besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden.
 
 ### ART. 13.
 
