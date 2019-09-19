@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032213,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-10 betreffende de toekenning van een subsidie aan verstrekkers en aan de ondernemingen in opdracht waarvan verstrekkers van mobiliteitshulpmiddelen werken om tegemoet te komen aan de investeringskosten op het vlak van ICT",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032213/VolledigDocument?datum=2019-09-19",
+  "source_sha256": "ed11d437c99063da6587d0217b3dbd048c19cb0e653f059c8fc8ec5cbb2d7c5a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032213&param=informatie",
+  "as_of": "2019-09-19",
+  "made": "2019-05-10",
+  "gazette": "2019-09-09",
+  "numac": 2019014242,
+  "document_start": "2019-09-19",
+  "document_end": null,
+  "in_force": "2019-09-19",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2019-09-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
