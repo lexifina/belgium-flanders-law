@@ -226,15 +226,7 @@ Voor elk georganiseerd terugkommoment registreren de instellingen op de wijze di
 
 Elke instelling gebruikt uitsluitend de gegevensbank die het bestuur ter beschikking stelt en gebruikt die op de wijze die het bestuur bepaalt.<br>
 <br>
-De instellingen voeren de gegevens, vermeld in artikel 22, eerste lid, en 23, in de gegevensbank in. De instellingen zijn verwerkers als vermeld in de algemene verordening gegevensbescherming, en voldoen aan de verplichtingen die in dat verband op hen rusten.<br>
-<br>
-De gegevens worden verzameld en verwerkt voor:<br>
-1° de handhaving, vermeld in hoofdstuk 5 van het decreet van 9 maart 2018;<br>
-2° de controle vermeld in artikel 32, tweede lid;<br>
-3° de controle in het kader van hoofdstuk 7;<br>
-4° het gebruik voor statistische doeleinden.<br>
-<br>
-De gegevens worden voor tien jaar in de gegevensbank bijgehouden.
+De instellingen voeren de gegevens, vermeld in artikel 22, eerste lid, en 23, in de gegevensbank, vermeld in het eerste lid, in.
 
 ### ART 25.
 
@@ -408,7 +400,15 @@ Bij een beslissing tot erkenning levert de minister of zijn gemachtigde een bewi
 
 De lesgever die houder is van het beroepsbekwaamheidsbrevet moet om zijn erkenning te behouden blijvend voldoen aan de voorwaarden van dit besluit en aan de voorwaarden, vermeld in artikel 14, § 1 van het koninklijk besluit van 11 mei 2004.<br>
 <br>
-De lesgever die conform artikel 40, 1°, en 41, 1°, de vereiste relevante beroepservaring bezit of die conform artikel 41, 1°, houder is van een pedagogisch diploma moet om zijn erkenning te behouden blijvend voldoen aan de voorwaarden van dit besluit en binnen elke periode van drie jaar vanaf de erkenning een vorming van twaalf uur volgen over het onderwerp, vermeld in artikel 14, § 2, eerste lid, 2°, van het koninklijk besluit van 11 mei 2004.
+De lesgever die conform artikel 40, 1°, en 41, 1°, de vereiste relevante beroepservaring bezit of die conform artikel 41, 1°, houder is van een pedagogisch diploma moet om zijn erkenning te behouden blijvend voldoen aan de voorwaarden van dit besluit en binnen elke periode van drie jaar vanaf de erkenning een vorming van twaalf uur volgen over het onderwerp, vermeld in artikel 14, § 2, eerste lid, 2°, van het koninklijk besluit van 11 mei 2004.<br>
+<br>
+Na het volgen van de bijscholing, vermeld in het eerste en tweede lid, registreren de lesgevers, op de wijze die het bestuur bepaalt, de volgende gegevens in de gegevensbank:<br>
+1° de datum van de bijscholing;<br>
+2° de benaming van de bijscholing;<br>
+3° het aantal uren bijscholing;<br>
+4° het getuigschrift van de bijscholing.<br>
+<br>
+Elke lesgever gebruikt uitsluitend de gegevensbank die het bestuur ter beschikking stelt en gebruikt die op de wijze die het bestuur bepaalt.
 
 ## Afdeling 5. Retributies
 
@@ -494,7 +494,136 @@ De personeelsleden van niveau A, B en C van de cel Rijopleiding en Vakbekwaamhei
 
 Het afdelingshoofd van de afdeling Vlaams Huis voor de Verkeersveiligheid van het Departement Mobiliteit en Openbare Werken treedt op als handhavingsinstantie als vermeld in artikel 10, § 1, eerste lid, van het decreet van 9 maart 2018.
 
+### ART 55/1.
+
+De nadere voorwaarden van het proces-verbaal, vermeld in artikel 10, § 3, eerste lid, van het decreet van 9 maart 2018, zijn opgenomen in het model dat is opgenomen in bijlage 7, die bij dit besluit is gevoegd.
+
+### ART 55/2.
+
+De handhavingsinstantie, vermeld in artikel 55, int de bestuurlijke geldboete op de wijze die in het betalingsverzoek is bepaald.
+
 ## [HOOFDSTUK IX/1. Verwerking van gegevens (ing. BVR 17 mei 2019, art. 4, I: 21 september 2019)]
+
+### ART 55/3.
+
+De gegevensbank van het bestuur bevat de volgende gegevens:<br>
+1° de gegevens, vermeld in artikel 22, eerste lid, en artikel 23;<br>
+2° de gegevens, vermeld in artikel 43, derde lid;<br>
+3° de gegevens, vermeld in artikel 55/4;<br>
+4° de gegevens, vermeld in artikel 55/5;<br>
+5° de gegevens, vermeld in artikel 55/6;<br>
+6° de gegevens, vermeld in artikel 55/7;<br>
+7° van iedere deelnemer de begin- en einddatum van de termijn, vermeld in artikel 6, eerste of tweede lid;<br>
+8° in voorkomend geval, de gegevens, vermeld in artikel 55/8;<br>
+9° in voorkomend geval, de gegevens, vermeld in artikel 55/9;<br>
+10° in voorkomend geval, de gegevens, vermeld in artikel 55/10;<br>
+11° in voorkomend geval, de gegevens, vermeld in artikel 55/11.<br>
+<br>
+Het bestuur is de verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
+
+### ART 55/4.
+
+Van iedere deelnemer worden de volgende gegevens uit de kruispuntbank van de rijbewijzen verzameld:<br>
+1° het rijksregisternummer;<br>
+2° de plaats van afgifte van het voorlopig rijbewijs B en van het rijbewijs B;<br>
+3° de datum van afgifte van het voorlopig rijbewijs B en van het rijbewijs B;<br>
+4° in geval van toepassing van artikel 5/1, § 2, van het koninklijk besluit van 10 juli 2006 betreffende het rijbewijs voor voertuigen van categorie B: de datum van omwisseling van het voorlopig rijbewijs B;<br>
+5° het soort voorlopig rijbewijs B;<br>
+6° de aanwezigheid op het rijbewijs van de codes 10 tot en met 43 en de code 50, vermeld in bijlage 7 bij het koninklijk besluit van 23 maart 1998 betreffende het rijbewijs.
+
+### ART 55/5.
+
+Van iedere deelnemer worden de volgende gegevens uit het Rijksregister verzameld:<br>
+1° het rijksregisternummer;<br>
+2° de naam en voornamen;<br>
+3° de hoofdverblijfplaats;<br>
+4° de datum van het overlijden.
+
+### ART 55/6.
+
+Van iedere lesgever worden de volgende gegevens verzameld:<br>
+1° het rijksregisternummer;<br>
+2° de naam en voornamen;<br>
+3° het adres;<br>
+4° het e-mailadres;<br>
+5° een kopie van het rijbewijs;<br>
+6° de documenten waaruit blijkt dat de voorwaarden, vermeld in artikel 39, 1°, 2° en 3°, en artikel 40, vervuld zijn of de documenten waaruit blijkt dat de voorwaarden, vermeld in artikel 39, 1°, 2° en 3°, en artikel 41, vervuld zijn;<br>
+7° een bewijs van de erkenning als vermeld in artikel 42, negende lid.
+
+### ART 55/7.
+
+Van iedere instelling worden de volgende gegevens verzameld:<br>
+1° het ondernemingsnummer;<br>
+2° het IBAN-rekeningnummer en de BIC-code;<br>
+3° de naam;<br>
+4° het adres van de instelling, het oefenterrein en de lokalen;<br>
+5° het e-mailadres;<br>
+6° de website;<br>
+7° de naam en voornamen van de verantwoordelijke;<br>
+8° het rijksregisternummer van de verantwoordelijke;<br>
+9° het telefoonnummer en het e-mailadres van de verantwoordelijke;<br>
+10° de documenten, vermeld in artikel 26, tweede lid.
+
+### ART 55/8.
+
+Als conform artikel 6, vijfde lid, een uitstel wordt aangevraagd, worden van de deelnemer de volgende gegevens verzameld:<br>
+1° de postdatum van de aanvraag tot uitstel;<br>
+2° de aangehaalde reden voor de aanvraag tot uitstel;<br>
+3° conform artikel 6, vierde lid, de datum vanaf wanneer de onmogelijkheid om het terugkommoment te volgen start en de datum vanaf wanneer die onmogelijkheid ophoudt;<br>
+4° de datum van de beslissing over de aanvraag tot uitstel;<br>
+5° de beslissing over de aanvraag tot uitstel;<br>
+6° de begin- en einddatum van de termijn waarin de deelnemer het terugkommoment moet volgen als een uitstel wordt toegestaan.
+
+### ART 55/9.
+
+Als conform artikel 10, § 2, eerste lid, van het decreet van 9 maart 2018 een aanmaning wordt verstuurd, worden van de deelnemer de volgende gegevens verzameld:<br>
+1° de datum waarop de aanmaning is verstuurd;<br>
+2° de begin- en einddatum van de termijn waarin de deelnemer het terugkommoment alsnog kan volgen nadat de aanmaning is verstuurd.
+
+### ART 55/10.
+
+Als conform artikel 10, § 3, eerste lid, van het decreet van 9 maart 2018, een proces-verbaal wordt opgesteld, worden de volgende gegevens verwerkt:<br>
+1° de datum van de inbreuk;<br>
+2° de bevoegde procureur des Konings;<br>
+3° het nummer van het proces-verbaal;<br>
+4° de datum waarop het proces-verbaal is verzonden aan de procureur des Konings;<br>
+5° de datum waarop de kopie van het proces-verbaal is verzonden aan de handhavingsinstantie;<br>
+6° de datum waarop conform artikel 10, § 4, eerste lid, van het decreet van 9 maart 2018 de beslissing van de procureur des Konings is ontvangen door de handhavingsinstantie, vermeld in artikel 55;<br>
+7° de beslissing van de procureur des Konings om al dan niet strafvervolging in te stellen.
+
+### ART 55/11.
+
+In het kader van de bestuurlijke beboetingsprocedure, vermeld in artikel 11, § 1, van het decreet van 9 maart 2018, worden de volgende gegevens verwerkt:<br>
+1° de datum waarop de vermoedelijke overtreder op de hoogte is gebracht van het voornemen om een bestuurlijke geldboete op te leggen;<br>
+2° de datum waarop de vermoedelijke overtreder een schriftelijk verweer heeft ingediend;<br>
+3° de datum waarop beslist is om al dan niet een bestuurlijke geldboete op te leggen;<br>
+4° de beslissing om al dan niet een bestuurlijke geldboete op te leggen;<br>
+5° de datum waarop de vermoedelijke overtreder op de hoogte is gebracht van de beslissing;<br>
+6° de datum waarop de vermoedelijke overtreder jurisdictioneel beroep heeft ingesteld bij de politierechtbank, de datum van de uitspraak van die rechtbank en het beschikkend gedeelte van het vonnis;<br>
+7° het bedrag van de te innen bestuurlijke geldboete;<br>
+8° de datum waarop de bestuurlijke geldboete is betaald.
+
+### ART 55/12.
+
+De gegevens worden verzameld en verwerkt voor:<br>
+1° de handhaving, vermeld in hoofdstuk 5 van het decreet van 9 maart 2018;<br>
+2° de controle, vermeld in artikel 32, tweede lid, van dit besluit;<br>
+3° de controle in het kader van hoofdstuk 7 van dit besluit;<br>
+4° de opmaak van algemene en naamloze statistieken door het bestuur met het oog op onderzoek en evaluatie van de beleidsmaatregel.<br>
+<br>
+De gegevens, vermeld in artikel 55/3, eerste lid, 1°, 3°, 4°, 7°, 8° en 9°, worden verzameld en verwerkt voor de doeleinden, vermeld in het eerste lid.<br>
+<br>
+De gegevens, vermeld in artikel 55/3, eerste lid, 2°, 5° en 6°, worden verzameld en verwerkt voor de doeleinden, vermeld in het eerste lid, 2°, 3° en 4°.<br>
+<br>
+De gegevens, vermeld in artikel 55/3, eerste lid, 10° en 11°, worden verzameld en verwerkt voor de doeleinden, vermeld in het eerste lid, 1° en 4°.<br>
+<br>
+De gegevens, die verzameld en verwerkt worden voor het doeleinde vermeld in het eerste lid, 4° worden geanonimiseerd.
+
+### ART 55/13.
+
+De gegevens, vermeld in artikel 55/3, eerste lid, 1°, 3°, 4° en 7° tot en met 11°, worden voor vijf jaar in de gegevensbank bijgehouden.<br>
+<br>
+De gegevens, vermeld in artikel 55/3, eerste lid, 2°, 5° en 6°, worden bijgehouden zolang de erkenning van de instelling of de lesgever behouden blijft.
 
 ## HOOFDSTUK X. Toepassingsgebied in de tijd
 
@@ -539,3 +668,7 @@ De Vlaamse minister, bevoegd voor het verkeersveiligheidsbeleid, is belast met d
 ### BIJLAGE
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2018/11/14_1.pdf#page=33">Bijlage 6</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/09/11_1.pdf#page=44">Bijlage 7. Model van het proces-verbaal als vermeld in artikel 55/1</a>
