@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032231,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-17 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de toekenning van steun voor energetische renovatieprojecten van noodkoopwoningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032231/VolledigDocument?datum=2019-09-22",
+  "source_sha256": "e85d55ae708b4cff6236b8bd997aad8a2559d1120b0864e4e6ac9bc5ebb97bb4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032231&param=informatie",
+  "as_of": "2019-09-22",
+  "made": "2019-05-17",
+  "gazette": "2019-09-12",
+  "numac": 2019014371,
+  "document_start": "2019-09-22",
+  "document_end": null,
+  "in_force": "2019-09-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-09-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
