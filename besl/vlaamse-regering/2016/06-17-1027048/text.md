@@ -20,15 +20,12 @@ Besluit :
 
 ### ART 1.
 
-De netwerken die voor een significant aantal eindgebruikers het belangrijkste middel zijn om omroepprogramma's te ontvangen, zijn:<br>
-1° Nethys, met zetel Rue Louvrex 95, 4000 Luik, ondernemingsnummer 0465.607.720, voor het verzorgingsgebied van de gemeente Voeren;<br>
-2° Coditel Brabant, met zetel Tweekerkenstraat 26, 1000 Brussel, ondernemingsnummer 0403.107.452, voor het verzorgingsgebied van de gemeenten Wemmel en Drogenbos;<br>
-3° Telenet nv, met zetel Liersesteenweg 4, 2800 Mechelen, ondernemingsnummer 0473.416.418, voor het verzorgingsgebied van de andere gemeenten van het Vlaamse Gewest.
+...
 
 ### ART 2.
 
-Het besluit van de Vlaamse Regering van 22 november 2013 houdende vaststelling van de netwerken die voor een significant aantal eindgebruikers het belangrijkste middel zijn om omroepprogramma's te ontvangen wordt opgeheven.
+...
 
 ### ART 3.
 
-De Vlaamse minister, bevoegd voor het mediabeleid, is belast met de uitvoering van dit besluit.
+...
