@@ -52,42 +52,21 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br>
-1° ...<br>
-2° Beschikking 89/503 : Beschikking 89/503/EEG van de Commissie van 18 juli 1989 tot vaststelling van het certificaat voor raszuivere fokvarkens en voor sperma, eicellen en embryo's daarvan;<br>
-3° Beschikking 89/507 : Beschikking 89/507 van de Commissie van 18 juli 1989 tot vaststelling van methoden inzake prestatieonderzoek en bepaling van de fokwaarde van raszuivere en hybride fokvarkens;<br>
-4° Beschikking 90/256 : Beschikking 90/256/EEG van de Commissie van 10 mei 1990 houdende vaststelling van methoden inzake prestatieonderzoek en beoordeling van de genetische waarde van raszuivere fokschapen en -geiten;<br>
-5° Beschikking 90/258 : Beschikking 90/258/EEG van de Commissie van 10 mei 1990 houdende vaststelling van het zoötechnisch certificaat voor raszuivere fokschapen en -geiten en voor sperma, eicellen en embryo's daarvan;<br>
-6° Beschikking 92/353 : Beschikking 92/353/EEG van de Commissie van 11 juni 1992 tot vaststelling van de criteria voor de erkenning van organisaties en verenigingen die stamboeken voor geregistreerde paardachtigen bijhouden of aanleggen;<br>
-7° Beschikking 96/79 : Beschikking 96/79/EG van de Commissie van 12 januari 1996 tot vaststelling van de fokkerijcertificaten voor sperma, eicellen en embryo's van geregistreerde paardachtigen;<br>
-8° Beschikking 2005/379 : Beschikking 2005/379/EG van de Commissie van 17 mei 2005 betreffende stamboekcertificaten en gegevens van raszuivere fokrunderen en sperma, eicellen en embryo's daarvan;<br>
-9° Beschikking 2006/427 : Beschikking 2006/427/EG van de Commissie van 20 juni 2006 houdende vaststelling van methoden inzake prestatieonderzoek en van methoden voor de beoordeling van de genetische waarde van raszuivere fokrunderen;<br>
-10° centrum : natuurlijke persoon of rechtspersoon die sperma, eicellen of embryo's wint of opslaat om ze in de handel te brengen;<br>
-11° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaamse Ministerie van Landbouw en Visserij;<br>
-12° depot : locatie van waaruit sperma verhandeld wordt voor rekening en onder verantwoordelijkheid van een centrum;<br>
-13° geregistreerde paardachtige : paardachtige die in een stamboek is ingeschreven, dan wel in een stamboek is geregistreerd of in aanmerking komt om te worden ingeschreven en die geïdentificeerd is door middel van het identificatiedocument, vermeld in uitvoeringsverordening 2015/262;<br>
-14° ICAR : de organisatie International Committee for Animal Recording die aangewezen is als referentie-instantie voor de verzameling van gegevens (www.icar.org);<br>
-15° minister : de Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij;<br>
-16° paardachtige : elk paard of elke ezel, of een kruising daarvan;<br>
-17° rund : elk rund, inbegrepen de buffel;<br>
-18° sperma : al dan niet behandeld, verdund, gekoeld of diepgevroren ejaculaat van een mannelijk dier;<br>
-19° vereenvoudigd beheer : beheer van een populatie dieren, andere dan runderen, varkens, paardachtigen, schapen en geiten, waarbij ten minste de identificatie, de soort, het ras, de variëteit en de kenmerken van de dieren worden geregistreerd en gecontroleerd;<br>
-20° uitvoeringsverordening 2015/262: uitvoeringsverordening (EU) 2015/262 van de Commissie van 17 februari 2015 tot vaststelling van voorschriften overeenkomstig de richtlijnen 90/427/EEG en 2009/156/EG van de Raad met betrekking tot de methoden voor de identificatie van paardachtigen (verordening paardenpaspoort);<br>
-21° wedstrijd : elke wedstrijd voor paardachtigen, in het bijzonder wedrennen, springconcoursen, dressuurproeven, menproeven en proeven voor model en gangen.
+...
 
 ### ART. 1/1.
 
-Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+...
 
 ## TITEL II. Toepassingsgebied
 
 ### ART. 2.
 
-Dit besluit regelt de organisatie van de fokkerij van : <BR>1°   runderen;<BR>2° varkens;<BR>3° paardachtigen;<BR>4° schapen; <BR>5° geiten;   <BR>6° andere diersoorten. <BR><BR>Onder andere diersoorten, als vermeld in het   eerste lid, 6°, wordt verstaan :<BR>1° hertachtigen;<BR>2° pluimvee;<BR>3°   loopvogels;<BR>4° konijnen;<BR>5° honden.
+...
 
 ### ART. 2/1.
 
-De minister stelt een lijst op van de rassen van honden waarvoor de   genetische diversiteit in het gedrang is. De verenigingen en organisaties van   fokkers die erkend zijn voor het bijhouden van een stamboek van een of meer van   de betreffende rassen, als vermeld in artikel 3, eerste lid, of voor het voeren   van het vereenvoudigd beheer voor een of meer van de betreffende rassen, als   vermeld in artikel 3, vierde lid, doen een gezamenlijk advies voor de lijst. Bij   het ontbreken van een gezamenlijk advies kan de minister deze lijst   opstellen.
+...
 
 ## TITEL III. De erkenning van verenigingen, organisaties en ondernemingen
 
@@ -95,71 +74,63 @@ De minister stelt een lijst op van de rassen van honden waarvoor de   genetische
 
 ### ART. 3.
 
-Elke vereniging of organisatie van fokkers die een stamboek bijhoudt, moet daarvoor erkend zijn in overeenstemming met de bepalingen van dit besluit.<br>
-<br>
-Elke vereniging of organisatie van fokkers of elke onderneming die een register bijhoudt, moet daarvoor erkend zijn in overeenstemming met de bepalingen van dit besluit.<br>
-<br>
-Elke vereniging die coördinerende taken opneemt in de fokkerij, kan daarvoor een erkenning aanvragen in overeenstemming met de bepalingen van dit besluit.<br>
-<br>
-Elke vereniging of organisatie van fokkers die een vereenvoudigd beheer voert voor de fokkerij van andere diersoorten, vermeld in artikel 2, kan daarvoor een erkenning aanvragen in overeenstemming met de bepalingen van dit besluit.<br>
-<br>
-De minister wordt belast met de verlening van de erkenning. De erkenning wordt bekendgemaakt in het Belgisch Staatsblad.
+...
 
 ### ART. 4.
 
-§ 1. Om een erkenning te krijgen voor het bijhouden van een stamboek, als   vermeld in artikel 3, eerste lid, moet de vereniging of organisatie van fokkers   aan al de volgende voorwaarden voldoen :<BR>1° een aanvraag tot erkenning   richten aan de bevoegde entiteit, met vermelding van de diersoort, vermeld in   artikel 2, de naam van het ras en de gebruikte afkorting ervan;<BR>2° wat de   rechtspersoonlijkheid betreft :<BR>a) als vereniging van fokkers opgericht zijn   als vereniging zonder winstoogmerk;<BR>b) als organisatie van fokkers opgericht   zijn als coöperatieve vennootschap met sociaal oogmerk;<BR>3° haar   maatschappelijke zetel hebben in het Vlaamse Gewest;<BR>4° beschikken over   statuten waarin : <BR>a) normen en criteria opgenomen zijn om de toetreding van   de leden, respectievelijk de vennoten, te regelen; <BR>b) de bevoegdheid van het   orgaan dat moet oordelen over de toetreding van de leden, respectievelijk de   vennoten, beperkt wordt tot het verifiëren of aan de normen en criteria voor   toetreding is voldaan; <BR>c) bepaald is dat alle bestuurders lid,   respectievelijk vennoot, zijn;<BR>d) bepaald is dat bij ontbinding het voorstel   tot bestemming van gegevens uit het stamboek, van de zoötechnische kenmerken en   prestaties en van de fokwaardeschattingen en fokwaardebeoordelingen, vooraf ter   goedkeuring aan de minister wordt voorgelegd;<BR>e) bepaald is dat tussen de   leden, respectievelijk de vennoten, niet mag worden gediscrimineerd;<BR>5°   beschikken over voorschriften betreffende :<BR>a) de doelstellingen op   fokgebied;<BR>b) de kenmerken van het ras; <BR>c) de indeling van het   stamboek;<BR>d) het identificatiesysteem;<BR>e) het registratiesysteem van de   afstamming in overeenstemming met de regels die in voorkomend geval zijn   opgelegd door ICAR;<BR>f) de te verzamelen zoötechnische kenmerken en   prestaties;<BR>g) het systeem voor de benutting van de gegevens over de   zoötechnische kenmerken en prestaties;<BR>6° aantonen dat ze : <BR>a)   doeltreffend functioneert; <BR>b) in staat is de controles uit te voeren die   vereist zijn voor het bijhouden van de afstamming; <BR>c) in haar programma voor   de verbetering of instandhouding van het ras voldoende dieren betrekt om de   uitvoering ervan te kunnen garanderen; <BR>d) in staat is om de gegevens over de   zoötechnische kenmerken en prestaties te benutten die voor de uitvoering van het   programma tot verbetering of instandhouding van het ras nodig zijn;<BR>7° als   het een vereniging of organisatie van fokkers van paardachtigen betreft die het   oorspronkelijke stamboek van een ras bijhoudt, aantonen dat ze een nauwe   samenwerking heeft opgezet met de organisaties of verenigingen die stamboeken   voor dat ras bijhouden, meer in het bijzonder om geschillen te vermijden;<BR>8°   als het een vereniging of organisatie van fokkers van paardachtigen betreft die   niet het oorspronkelijke stamboek van dat ras bijhoudt, aantonen dat ze van de   voorschriften, vermeld in 5°, de voorschriften in acht neemt die zijn   vastgesteld door de vereniging of organisatie die het oorspronkelijke stamboek   voor dat ras bijhoudt.<BR>9° als het een vereniging of organisatie van fokkers   van honden betreft, aantonen dat zij bovendien over voorschriften beschikt om de   genetische diversiteit van het ras te waarborgen. <BR><BR>§ 2. Als de vereniging   of organisatie van fokkers een aanvraag indient voor het bijhouden van het   stamboek van meer dan een ras, moet voor elk ras apart, naast de naam en de   gebruikte afkorting, ook de informatie, vermeld in paragraaf 1, 5° en 6°, en, in   voorkomend geval, de informatie, vermeld in paragraaf 1, 7°, 8° of 9°, opgenomen   worden in het aanvraagdossier.<BR><BR>§ 3. Als een vereniging of organisatie van   fokkers, die erkend is voor het bijhouden van het stamboek van een of meer   rassen, het stamboek wil bijhouden van nog een ander ras, moet ze voor dat ras,   naast de naam en de gebruikte afkorting, alleen de informatie, vermeld in   paragraaf 1, 5° en 6°, en, in voorkomend geval, de informatie, vermeld in   paragraaf 1, 7°, 8° of 9°, opnemen in het aanvraagdossier.<BR><BR>§ 4. De   minister kan een erkenning voor het bijhouden van een stamboek voor een nieuw te   vormen ras verlenen aan een vereniging of organisatie van fokkers als die   :<BR>1° voldoet aan de voorwaarden, vermeld in paragraaf 1;<BR>2° bij het   aanvraagdossier de lijst voegt van de rassen die ze toelaat om dat ras te   vormen;<BR>3° in het aanvraagdossier de duur van het vormingsproces   vermeldt.<BR><BR>§ 5. Als een nog niet erkende vereniging of organisatie van   fokkers niet volledig voldoet aan de voorwaarden, vermeld in paragraaf 1, kan de   minister een tijdelijke erkenning verlenen voor het bijhouden van het stamboek   als de vereniging of organisatie van fokkers voldoet aan de voorwaarden, vermeld   in paragraaf 1, 1° tot en met 4°, 5°, a) tot en met f), 6°, a) tot en met c),   en, in voorkomend geval, 7°, 8° of 9°.<BR><BR>Een tijdelijke erkenning kan   worden toegestaan voor een periode die de minister vaststelt en die maximaal   vijf jaar bedraagt. Ze wordt eenmalig toegekend en is niet verlengbaar. De   vereniging of organisatie van fokkers moet voor de afloop van de tijdelijke   erkenning een nieuwe aanvraag indienen als vermeld in paragraaf 1, eerste lid,   1°, en aantonen dat ze voldoet aan alle voorwaarden, vermeld in paragraaf   1.<BR><BR>§ 6. De minister kan de erkenning voor het bijhouden van een stamboek   weigeren als voor het ras, vermeld in de aanvraag, al een vereniging of   organisatie van fokkers is erkend in overeenstemming met dit besluit en als   :<BR>1° de nieuwe erkenning de instandhouding van dat ras of de uitvoering van   het zoötechnische programma van dat ras in gevaar brengt;<BR>2° aanvullend voor   paardachtigen, de dieren van dat ras kunnen worden ingeschreven of geregistreerd   in een bijzondere afdeling van een stamboek dat wordt bijgehouden door een   erkende organisatie of vereniging van fokkers die voor die afdeling de   richtlijnen van het oorspronkelijke stamboek van het ras volgt.
+...
 
 ### ART. 5.
 
-Om een erkenning voor het bijhouden van een register, als vermeld in   artikel 3, tweede lid, te kunnen krijgen, moet de vereniging of organisatie van   fokkers of de onderneming aan al de volgende voorwaarden voldoen :<BR>1° een   aanvraag tot erkenning richten aan de bevoegde entiteit, met vermelding van de   diersoort, vermeld in artikel 2, de naam van het hybride product en de gebruikte   afkorting ervan;<BR>2° beschikken over rechtspersoonlijkheid;<BR>3° haar   maatschappelijke zetel hebben in het Vlaamse Gewest;<BR>4° beschikken over   voorschriften betreffende :<BR>a) de doelstellingen op fokgebied; <BR>b) het   identificatiesysteem;<BR>c) het registratiesysteem van de afstamming;<BR>d) de   te verzamelen zoötechnische kenmerken en prestaties;<BR>e) het systeem voor de   benutting van de gegevens over de zoötechnische kenmerken en prestaties;<BR>5°   aantonen dat ze :<BR>a) doeltreffend functioneert;<BR>b) in staat is de   controles uit te voeren die vereist zijn voor het bijhouden van de   afstamming;<BR>c) in haar verbeteringsprogramma voldoende dieren betrekt om de   uitvoering ervan te kunnen uitvoeren;<BR>d) in staat is om de gegevens over de   zoötechnische kenmerken en prestaties te benutten die voor de uitvoering van het   programma tot verbetering van de hybride lijn nodig zijn;<BR>6° de verenigingen   of organisaties van fokkers moeten aanvullend de voorwaarden, vermeld in artikel   4, paragraaf 1, 2° en 4°, vervullen.
+...
 
 ### ART. 6.
 
-Om een erkenning te kunnen krijgen voor het opnemen van coördinerende   taken in de fokkerij, vermeld in artikel 3, derde lid, moet de vereniging aan al   de volgende voorwaarden voldoen :<BR>1° een aanvraag tot erkenning richten aan   de bevoegde entiteit, met vermelding en omschrijving van de coördinerende taken   die de vereniging zal opnemen;<BR>2° in de aanvraag aangeven dat de coördinatie   betrekking heeft op activiteiten geregeld in dit besluit;<BR>3° opgericht zijn   in de vorm van vereniging zonder winstoogmerk;<BR>4° haar maatschappelijke zetel   hebben in het Vlaamse Gewest;<BR>5° beschikken over statuten waarin :<BR>a) de   diersoorten, vermeld in artikel 2, aangegeven worden waarvoor ze coördinerende   taken zal opnemen;<BR>b) bepaald wordt dat naargelang het voorwerp van   coördinatie alle in overeenstemming met dit besluit erkende verenigingen of   organisaties van fokkers respectievelijk centra van diersoorten, vermeld in a),   lid kunnen worden;<BR>6° beschikken over voorschriften waarin de uitvoering van   de coördinerende taken beschreven wordt;<BR>7° aantonen dat ze in staat is de   coördinerende taken uit te voeren.
+...
 
 ### ART. 7.
 
-Om een erkenning te kunnen krijgen voor het vereenvoudigd beheer van de   fokkerij van andere diersoorten, vermeld in artikel 3, vierde lid, moet de   vereniging of organisatie van fokkers aan al de volgende voorwaarden voldoen   :<BR>1° een aanvraag tot erkenning richten aan de bevoegde entiteit, met   vermelding van de diersoort, vermeld in artikel 2, de naam van de rassen en de   variëteiten ervan;<BR>2° wat de rechtspersoonlijkheid betreft :<BR>a) als   vereniging van fokkers opgericht zijn als vereniging zonder winstoogmerk;<BR>b)   als organisatie van fokkers opgericht zijn als coöperatieve vennootschap met   sociaal oogmerk;<BR>3° haar maatschappelijke zetel hebben in het Vlaamse   Gewest;<BR>4° beschikken over statuten waarin : <BR>a) normen en criteria   opgenomen zijn om de toetreding van de leden, respectievelijk de vennoten, te   regelen; <BR>b) de bevoegdheid van het orgaan dat moet oordelen over de   toetreding van de leden, respectievelijk de vennoten, beperkt wordt tot het   verifiëren of aan de normen en criteria voor toetreding is voldaan; <BR>c)   bepaald is dat alle bestuurders lid, respectievelijk vennoot, zijn;<BR>d)   bepaald is dat bij ontbinding het voorstel tot bestemming van de gegevens van   het vereenvoudigde beheer vooraf ter goedkeuring aan de minister wordt   voorgelegd;<BR>e) bepaald is dat tussen de leden, respectievelijk de vennoten,   niet mag worden gediscrimineerd;<BR>5° beschikken over voorschriften betreffende   :<BR>a) de kenmerken van het ras en de variëteiten ervan; <BR>b) het   identificatiesysteem;<BR>6° aantonen dat ze doeltreffend functioneert.<BR>7° als   het een vereniging of organisatie van fokkers van honden betreft, aantonen dat   ze : <BR>a) over voorschriften beschikt betreffende het registratiesysteem van   de afstamming, de te verzamelen kenmerken voor het voeren van een programma tot   verbetering van de genetische diversiteit van het ras of de variëteit en het   verbeteren van de genetische diversiteit van het ras of de variëteit;<BR>b) in   staat is om de controles uit te voeren die vereist zijn voor het bijhouden van   de afstamming en om de gegevens over de kenmerken te benutten die voor de   uitvoering van het programma tot verbetering van de genetische diversiteit van   het ras of de variëteit nodig zijn.
+...
 
 ### ART. 8.
 
-§ 1. Om haar erkenning te behouden, moet de erkende vereniging,   organisatie of onderneming : <BR>1° voldoen aan de voorwaarden : <BR>a) vermeld   in artikel 4 voor een vereniging of organisatie van fokkers die een stamboek   bijhoudt;<BR>b) vermeld in artikel 5 voor een vereniging of organisatie van   fokkers of een onderneming die een register bijhoudt; <BR>c) vermeld in artikel   6 voor een vereniging die coördinerende taken opneemt; <BR>d) vermeld in artikel   7 voor een vereniging die een vereenvoudigd beheer voert voor de fokkerij van   andere diersoorten;<BR>2° de&nbsp;bevoegde entiteit uitnodigen voor de algemene   vergaderingen, de raden van bestuur en de technische werkgroepen, en haar de   notulen ervan bezorgen; <BR>3° alle voorschriften, vermeld in dit besluit, die   op haar van toepassing zijn, bundelen in een gecoördineerd technisch reglement,   ze uitvoeren en ter beschikking stellen van haar leden of vennoten en van de   bevoegde entiteit;<BR>4° alle wijzigingen in het technisch reglement, vermeld in   3°, voorleggen aan de bevoegde entiteit;<BR>5° als ze een stamboek of een   register bijhoudt voor runderen, varkens, paardachtigen, schapen of geiten, een   afstammingscontrole uitvoeren op 0,4 % van de dieren die het voorgaande jaar   voor dat ras of die lijn werden ingeschreven of geregistreerd met een minimum   van één dier per ras of hybride lijn. De minister kan de voorwaarden vaststellen   waaraan de afstammingscontroles moeten voldoen;<BR>6° jaarlijks, binnen zes   maanden na het afsluiten van haar werkingsjaar, aan de&nbsp;bevoegde entiteit   :<BR>a) een activiteitenverslag van het voorbije werkingsjaar voorleggen.   De&nbsp;bevoegde entiteit kan de elementen ervan vastleggen;<BR>b) aantonen dat   ze voldaan heeft aan de verplichtingen die voortvloeien uit de gekozen   rechtspersoonsvorm.<BR><BR>§ 2. Om haar tijdelijke erkenning te behouden, moet   de vereniging of organisatie van fokkers voldoen aan de voorwaarden, vermeld in   paragraaf 1, 2°,5° en 6° en in artikel 4, paragraaf 1, eerste lid, 2° tot en met   4°, 5°, a) tot en met f), 6°, a) tot en met c), en, in voorkomend geval, 7° of   8°.
+...
 
 ## HOOFDSTUK II. Opheffen van de erkenning
 
 ### ART. 9.
 
-§ 1. De minister heft de erkenning, vermeld in artikel 3, op als de   vereniging, organisatie of onderneming niet langer voldoet aan de voorwaarden   die op haar van toepassing zijn.<BR><BR>§ 2. Als uit controle blijkt dat de   vereniging, organisatie of onderneming niet voldoet aan de voorwaarden in   kwestie, deelt de&nbsp;bevoegde entiteit, de vereniging, organisatie of   onderneming schriftelijk de vastgestelde tekortkomingen mee en roept haar op om   zich binnen een bepaalde periode in orde te stellen. Die periode mag maximaal   drie maanden bedragen.<BR><BR>Als de vereniging, organisatie of onderneming op   het einde van de termijn, vermeld in het eerste lid, nog steeds niet aan de   voorwaarden voor het behoud van de erkenning voldoet, wordt ze door   de&nbsp;bevoegde entiteit per aangetekende brief opgeroepen om binnen één maand   schriftelijk aanvullende inlichtingen te verstrekken of aanvullende   bewijsstukken te overhandigen.<BR><BR>Binnen een maand na afloop van de periode,   vermeld in het tweede lid, of na ontvangst van de inlichtingen of bewijsstukken   maakt de&nbsp;bevoegde entiteit een verslag op.<BR><BR>§ 3. Na afloop van de   procedure, vermeld in paragraaf 2, en nadat gebleken is dat de vereniging,   organisatie of onderneming nog steeds niet voldoet aan de voorwaarden in   kwestie, maakt de&nbsp;bevoegde entiteit voor de minister een met redenen   omkleed advies tot opheffing van de erkenning op.<BR><BR>§ 4. De minister   beslist of de erkenning al dan niet wordt opgeheven. De opheffing van een   erkenning wordt per aangetekende brief meegedeeld aan de vereniging, organisatie   of onderneming in kwestie, met vermelding van de beschikbare rechtsmiddelen. De   opheffing wordt bekendgemaakt in het Belgisch Staatsblad.<BR><BR>§ 5. Alle   certificaten, vermeld in titel VII, die de vereniging, organisatie of   onderneming na de opheffing van de erkenning uitreikt, zijn ongeldig.<BR><BR>§   6. Bij de opheffing van de erkenning moet de vereniging of organisatie de   gegevens uit het stamboek, de zoötechnische kenmerken en prestaties en de   fokwaardeschattingen en fokwaardebeoordelingen van dat ras overdragen aan een   andere erkende vereniging of organisatie van fokkers van dezelfde diersoort, of,   bij ontstentenis ervan, aan de VZW Vlaams Fokkerijcentrum. De minister kan de   erkende vereniging of organisatie die of het centrum dat die gegevens zal   ontvangen, aanwijzen. Hij bepaalt in voorkomend geval de voorwaarden van de   gegevensoverdracht.<BR><BR>§ 7. De vereniging of organisatie aan welke gebouwen   of gronden zijn ter beschikking gesteld met toepassing van artikel 51 moet deze   gebouwen en gronden terug ter beschikking stellen van de Vlaamse overheid binnen   drie maanden na de datum van opheffing van de erkenning.
+...
 
 ### ART. 10.
 
-In overeenstemming met Richtlijn 2008/73/EG van de Raad van 15 juli 2008   tot vereenvoudiging van de procedures voor het opstellen en publiceren van   lijsten met informatie op veterinair en zoötechnisch gebied en tot wijziging van   de Richtlijnen 64/432/EEG, 77/504/EEG, 88/407/EEG, 88/661/EEG, 89/361/EEG,   89/556/EEG, 90/426/EEG, 90/427/EEG, 90/428/EEG, 90/429/EEG, 90/539/EEG,   91/68/EEG, 91/496/EEG, 92/35/EEG, 92/65/EEG, 92/66/EEG, 92/119/EEG, 94/28/EG en   2000/75/EG, Beschikking 2000/258/EG en de Richtlijnen 2001/89/EG, 2002/60/EG en   2005/94/EG, stelt de bevoegde entiteit de Europese Commissie en de andere   lidstaten op de hoogte van de verleende, de geweigerde en de opgeheven   erkenningen. De&nbsp;bevoegde entiteit houdt op de website van de Vlaamse   overheid een actuele lijst bij van de verleende, de geweigerde en de opgeheven   erkenningen.
+...
 
 ## TITEL IV. De opname van dieren in een stamboek of een register
 
 ### ART. 11.
 
-§ 1. De erkende vereniging of organisatie van fokkers kan beslissen om het   stamboek van een ras in te delen. Het ingedeelde stamboek bestaat uit een   hoofdafdeling en een aanvullende afdeling. Elke afdeling kan worden opgedeeld in   klassen in overeenstemming met de eigenschappen van de dieren die erin opgenomen   worden.<BR><BR>Een stamboek dat niet ingedeeld is, bestaat uit slechts één   afdeling die beschouwd wordt als de hoofdafdeling.<BR><BR>De erkende vereniging   of organisatie van fokkers kan beslissen om per afdeling en per klasse een   fokprogramma te definiëren. In dat geval bepaalt ze de voorwaarden voor deelname   aan dat fokprogramma en voor de toewijzing van een dier dat geboren is uit dat   fokprogramma, aan een afdeling en aan een klasse.<BR><BR>§ 2. Ieder ander dier   dan een paardachtige, waarvan de ouders en de grootouders zijn ingeschreven of   geregistreerd in een stamboek voor hetzelfde ras en dat zelf in dat stamboek is   ingeschreven of geregistreerd, en dat geschikt is om erin te worden   ingeschreven, is een raszuiver dier.<BR><BR>De erkende vereniging of organisatie   van fokkers bepaalt de procedure voor registratie en inschrijving in het   stamboek van het ras. Ze bepaalt tevens de voorwaarden volgens welke een dier   geschikt is om in een stamboek te worden ingeschreven als raszuiver fokdier of   als geregistreerde paardachtige. <BR><BR>§ 3. De erkende vereniging of   organisatie van fokkers moet de runderen inschrijven in het stamboek van het ras   met toepassing van de bepalingen van Beschikking 84/419/EEG van de Commissie van   19 juli 1984 tot vaststelling van de criteria voor inschrijving in de   rundveestamboeken.<BR><BR>De erkende vereniging of organisatie van fokkers moet   de varkens inschrijven in het stamboek van het ras met toepassing van de   bepalingen van Beschikking 89/502/EEG van de Commissie van 18 juli 1989 tot   vaststelling van de criteria voor de inschrijving van raszuivere fokvarkens in   de stamboeken. De erkende vereniging of organisatie van fokkers kan beslissen om   ook mannelijke varkens op te nemen in de aanvullende afdeling volgens de   voorwaarden, vermeld in artikel 3 van Beschikking 89/502.<BR><BR>De erkende   vereniging of organisatie van fokkers en de erkende onderneming moeten de   varkens inschrijven in het register van het hybride product met toepassing van   de bepalingen van Beschikking 89/505/EEG van de Commissie van 18 juli 1989 tot   vaststelling van de criteria voor de inschrijving van hybride fokvarkens in de   registers.<BR><BR>De erkende vereniging of organisatie van fokkers moet de   schapen en geiten inschrijven in het stamboek van het ras met toepassing van de   bepalingen van Beschikking 90/255/EEG van de Commissie van 10 mei 1990 tot   vaststelling van de criteria voor de inschrijving van raszuivere fokschapen en   -geiten in de stamboeken.<BR><BR>De erkende vereniging of organisatie van   fokkers moet de paardachtigen inschrijven in het stamboek van het ras met   toepassing van de bepalingen van Beschikking 96/78/EG van de Commissie van 10   januari 1996 tot vaststelling van de criteria voor de inschrijving en de   registratie van paardachtigen in de stamboeken voor de fokkerij.<BR><BR>De   vereniging of organisatie van fokkers die erkend is voor het bijhouden van een   stamboek voor dieren van andere diersoorten, vermeld in artikel 2, moet die   dieren inschrijven in het stamboek van het ras met toepassing van de bepalingen   van het eerste lid.<BR><BR>De vereniging of organisatie van fokkers die erkend   is voor het bijhouden van een vereenvoudigd beheer van dieren van een andere   diersoort, moet die dieren registreren, met vermelding van minstens de   identiteit, de soort, het ras, de variëteit en de kenmerken.<BR><BR>De minister   kan voor de rassen van honden waarvoor de genetische diversiteit in het gedrang   is voorwaarden voor de registratie en de inschrijving in het stamboek opleggen   die afwijken van de bepalingen, vermeld in het zesde en zevende lid. <BR><BR>§   4. Een vereniging of organisatie van fokkers die erkend is voor het bijhouden   van een stamboek voor een te vormen ras van een andere diersoort dan   paardachtigen, neemt in de hoofdafdeling van dat stamboek dieren op die voldoen   aan een van de volgende voorwaarden :<BR>1° ze stammen af van ouders die in de   hoofdafdeling van het stamboek van een ras, dat voorkomt in de lijst, vermeld in   artikel 4, paragraaf 4, 2°, opgenomen zijn;<BR>2° ze stammen af van ouders die   in het stamboek van het te vormen ras opgenomen zijn;<BR>3° ze stammen af van   een ouder die in de hoofdafdeling van het stamboek van een ras dat voorkomt in   de lijst, vermeld in artikel 4, paragraaf 4, 2°, opgenomen is, en van een ouder   die in het stamboek van het te vormen ras opgenomen is.<BR><BR>De dieren,   vermeld in het eerste lid, 1°, of, indien van toepassing, de dieren, vermeld in   het eerste lid, 3°, worden in het stamboek opgenomen, met vermelding van het   stamboek van het ras dat voorkomt in de lijst, vermeld in artikel 4, paragraaf   4, 2°, waarin ze bij de geboorte werden opgenomen, alsook het stamboeknummer en   eventueel de naam die eraan werd toegekend.<BR><BR>§ 5. Op verzoek van de   eigenaar van een raszuiver fokdier, van een geregistreerde paardachtige of van   sperma, eicellen of embryo's ervan moet de erkende vereniging of organisatie van   fokkers die een stamboek bijhoudt voor dat ras, als ervoor een certificaat als   vermeld in titel VII, met uitzondering van het document, vermeld in artikel 29,   kan worden voorgelegd, dat dier, de donor of de donoren opnemen in de gepaste   afdeling en klasse van dat stamboek, met vermelding van alle gegevens die   volgens de Europese beschikking in kwestie minstens moeten worden vermeld op het   certificaat.<BR><BR>De oorspronkelijke naam van een raszuiver fokdier of van een   geregistreerde paardachtige mag worden voorafgegaan of gevolgd door een andere,   zelfs voorlopige naam, op voorwaarde dat, zolang het betrokken dier leeft, de   oorspronkelijke naam tussen haakjes behouden blijft, en mits het land van   geboorte wordt aangegeven met het bij de internationale overeenkomsten erkende   letterwoord.<BR><BR>Een erkende vereniging of organisatie van fokkers of een   erkende onderneming die een raszuiver fokdier opneemt in haar register, moet   telkens als dat dier wordt vermeld, bij dat dier tussen haakjes het stamboek   waarin het bij de geboorte werd opgenomen, het stamboeknummer en eventueel de   naam die eraan werd toegekend, vermelden.<BR><BR>§ 6. Elke erkende vereniging of   organisatie van fokkers of elke erkende onderneming moet alle voorwaarden,   voorschriften, normen, criteria en eisen die voortvloeien uit de toepassing van   paragraaf 1 tot en met 5, omschrijven in een technisch reglement.
+...
 
 ## TITEL V. De uitvoering van prestatieonderzoeken, de berekening van fokwaardeschattingen en de beoordeling van de fokwaarde
 
 ### ART. 12.
 
-§ 1. Een erkende vereniging of organisatie van fokkers of een erkende   onderneming bepaalt voor welke kenmerken ze prestatieonderzoeken organiseert en   voor welke kenmerken ze een fokwaardeschatting berekent of een fokwaarde   beoordeelt.<BR><BR>De minister kan, voor de rassen van honden waarvoor de   genetische diversiteit in het gedrang is, bepalen dat prestatieonderzoeken   worden uitgevoerd en op welke wijze ze worden uitgevoerd. De   prestatieonderzoeken worden uitgevoerd door de verenigingen en organisaties van   fokkers die erkend zijn voor het bijhouden van een stamboek van een of meer van   de betreffende rassen als vermeld in artikel 3, eerste lid, of voor het voeren   van het vereenvoudigd beheer voor een of meer van de betreffende rassen, als   vermeld in artikel 3, vierde lid. <BR><BR>§ 2. Een erkende vereniging of   organisatie van fokkers of een erkende onderneming moet, voor elk   prestatieonderzoek dat ze organiseert, voor elke fokwaardeschatting die ze   berekent en voor elke fokwaarde die ze beoordeelt :<BR>1° een methode kiezen in   overeenstemming met de bepalingen, vermeld in :<BR>a) voor runderen :   Beschikking 2006/427;<BR>b) voor varkens : Beschikking 89/507;<BR>c) voor   schapen en geiten : Beschikking 90/256;<BR>2° die methode uitvoeren volgens de   voorschriften die in voorkomend geval gepubliceerd zijn door Interbull en ICAR.   Interbull is de referentie-instantie die aangewezen is als instantie die   verantwoordelijk is voor het uniformiseren van methoden om raszuivere   fokrunderen te testen en om de testresultaten te evalueren   (www.interbull.slu.se).<BR><BR>Voor andere diersoorten dan de diersoorten,   vermeld in het eerste lid, 1°, moet de vereniging of organisatie van fokkers die   erkend is voor het bijhouden van het stamboek van een ras, een methode kiezen   die wetenschappelijk aanvaardbaar is om de door haar verzamelde   prestatiegegevens te verwerken.<BR><BR>De bevoegde entiteit kan een   wetenschappelijke instelling aanwijzen die de wetenschappelijke aanvaardbaarheid   van de gebruikte methode beoordeelt. De bevoegde entiteit kan op basis van die   beoordeling de vereniging of organisatie van fokkers of de onderneming   verplichten om de methode aan te passen.<BR><BR>Elke erkende vereniging of   organisatie van fokkers en elke erkende onderneming moet de door haar gebruikte   methoden uitschrijven in een technisch reglement.<BR><BR>De bevoegde entiteit   kan genetische commissies oprichten met als doel het coördineren van   foktechnische materies, prestatieonderzoeken en de berekening van   fokwaardeschattingen. De&nbsp;bevoegde entiteit kan de werking ervan   regelen.<BR><BR>§ 3. De vereniging of organisatie van fokkers die erkend is voor   het bijhouden van stamboeken, moet de meest recente door haar of in haar   opdracht voor mannelijke dieren berekende fokwaardeschattingen en beoordeelde   fokwaarden publiceren. Ze kan voor de fokwaardeschattingen   betrouwbaarheidsdrempels vastleggen. In dat geval neemt ze die op in haar   technisch reglement.<BR><BR>De minister kan, voor de rassen van honden waarvoor   de genetische diversiteit in het gedrang is, afwijken van het eerste lid. Hij   kan in dat geval begeleidende maatregelen opleggen.<BR><BR>De vereniging of   organisatie van fokkers die erkend is voor het bijhouden van een stamboek van   paardachtigen, moet voor mannelijke paardachtigen :<BR>1° de beoordeling van de   fokwaarde publiek kenbaar maken op het moment van de beoordeling; <BR>2° de   argumenten waarop de beoordeling van de fokwaarde is gebaseerd, ter beschikking   stellen van de eigenaar van het beoordeelde dier.
+...
 
 ## TITEL VI. De toelating van de fokdieren tot de voortplanting
 
 ### ART. 13.
 
-§ 1. Met behoud van de toepassing van de veterinairrechtelijke   voorschriften mag de toelating tot de voortplanting niet belemmerd, beperkt of   verboden worden voor : <BR>1° raszuivere vrouwelijke fokrunderen, raszuivere of   hybride fokzeugen, raszuivere fokooien, raszuivere fokgeiten, of eicellen van   die dieren;<BR>2° raszuivere mannelijke fokrunderen, raszuivere of hybride   fokberen, raszuivere fokrammen en raszuivere fokbokken, als die dieren   uitsluitend natuurlijk dekken; <BR>3° embryo's die afkomstig zijn van raszuivere   fokrunderen, raszuivere of hybride fokvarkens, raszuivere fokschapen en   raszuivere fokgeiten;<BR>4° geregistreerde hengsten of sperma ervan als die   hengsten tot de voortplanting zijn toegelaten door een vereniging of organisatie   van fokkers die erkend is volgens Beschikking 92/353.<BR><BR>§ 2. Met behoud van   de toepassing van de veterinairrechtelijke voorschriften mag de toelating tot de   kunstmatige inseminatie niet beperkt, belemmerd of verboden worden voor :<BR>1°   raszuivere fokstieren, of het gebruik van hun sperma, als die stieren in een   lidstaat zijn toegelaten tot de kunstmatige inseminatie op basis van tests die   uitgevoerd zijn in overeenstemming met Beschikking 2006/427; <BR>2° raszuivere   fokberen, of het gebruik van hun sperma, als die beren in een lidstaat zijn   toegelaten tot de kunstmatige inseminatie op basis van tests die uitgevoerd zijn   in overeenstemming met Beschikking 89/507;<BR>3° hybride beren, of het gebruik   van hun sperma, als de lijn waartoe de beer behoort, een prestatieonderzoek   heeft ondergaan en is beoordeeld op de genetische waarde op basis van tests die   uitgevoerd zijn in overeenstemming met Beschikking 89/507;<BR>4° raszuivere   fokrammen of fokbokken, of het gebruik van hun sperma, als die dieren in een   lidstaat zijn toegelaten tot de kunstmatige inseminatie op basis van tests die   uitgevoerd zijn in overeenstemming met Beschikking 90/256.<BR><BR>§ 3. Met   behoud van de toepassing van de veterinairrechtelijke voorschriften is   kunstmatige inseminatie toegestaan voor :<BR>1° raszuivere fokstieren, of het   gebruik van hun sperma in de hoeveelheden die noodzakelijk zijn voor de   uitvoering van de tests, vermeld in Beschikking 2006/427; <BR>2° raszuivere   fokberen, hybride beren, of het gebruik van hun sperma in de hoeveelheden die   noodzakelijk zijn voor de uitvoering van de tests, vermeld in Beschikking   89/507;<BR>3° raszuivere fokrammen of -bokken, of het gebruik van hun sperma, in   de hoeveelheden die noodzakelijk zijn voor de uitvoering van de tests, vermeld   in Beschikking 90/256.<BR><BR>De minister kan de hoeveelheden vaststellen die   noodzakelijk zijn voor de uitvoering van de tests.<BR><BR>§ 4. Van de raszuivere   fokstieren, vermeld in paragraaf 2, 1°, en paragraaf 3, 1°, moet vooraf de   genetische identiteit bepaald zijn volgens de richtlijnen die vastgesteld zijn   door ICAR.<BR><BR>De vereniging of organisatie van fokkers die een stamboek   bijhoudt voor andere diersoorten dan runderen, en de vereniging of organisatie   van fokkers of de onderneming die een register bijhoudt, beslissen zelf of de   vaststelling van de genetische identiteit van de mannelijke fokdieren een   voorwaarde is voor toelating tot de voortplanting.<BR><BR>De minister kan voor   de rassen van honden waarvoor de genetische diversiteit in het gedrang is,   afwijken van het tweede lid en de vaststelling van de genetische identiteit van   fokdieren opleggen.
+...
 
 ### ART. 14.
 
-§ 1. De erkende vereniging of organisatie van fokkers die een stamboek   bijhoudt van andere diersoorten dan runderen, varkens, schapen of geiten, en de   vereniging of organisatie van fokkers of de onderneming die een register   bijhoudt, stellen de voorwaarden vast voor de toelating tot de voortplanting. Ze   nemen de voorwaarden op in het technisch reglement.<BR><BR>De minister kan voor   de rassen van honden waarvoor de genetische diversiteit in het gedrang is, de   voorwaarden voor de toelating tot de voortplanting bepalen. <BR><BR>§ 2. Alleen   de hengsten die door een vereniging of organisatie van fokkers, erkend volgens   Beschikking 92/353/EEG, toegelaten zijn tot de voortplanting, mogen merries   dekken die toebehoren aan derden. De minister kan afwijkingen hiervan   toestaan.<BR><BR>§ 3. Alleen de reuen toegelaten tot de voortplanting door een   vereniging of organisatie van fokkers van honden die erkend zijn als vermeld in   artikel 3, eerste of vierde lid, mogen teven dekken die toebehoren aan derden.   De minister kan afwijkingen hiervan toestaan. Dit lid is enkel van toepassing op   reuen geboren na 31 december 2012.<BR><BR>Voor alle honden geboren na 31   december 2014, moet de eigenaar van de hond te allen tijde de identiteit van de   hond en van de ouders van de hond kunnen aantonen.
+...
 
 ### ART. 15.
 
-Elke erkende vereniging of organisatie van fokkers van paardachtigen, schapen of geiten die een stamboek bijhoudt, moet op permanente wijze de lijst met de mannelijke dieren die ze tot de voortplanting heeft toegelaten, ter beschikking stellen van haar leden of vennoten.
+...
 
 ## TITEL VII. De opmaak en uitreiking van certificaten
 
@@ -169,240 +140,226 @@ Elke erkende vereniging of organisatie van fokkers van paardachtigen, schapen of
 
 ### ART. 16.
 
-Bij raszuivere fokrunderen en sperma, eicellen en embryo's daarvan moet in het intracommunautaire handelsverkeer een certificaat gevoegd worden dat wordt afgeleverd door een vereniging of organisatie van fokkers die erkend is volgens artikel 4, § 1.<br /><br />Voor sperma kan het certificaat ook worden afgeleverd door een centrum dat erkend is met toepassing van artikel 37 als dat centrum ook beschikt over een erkenning voor winning of opslag van rundersperma voor het intracommunautaire handelsverkeer als vermeld in artikel 3, paragraaf 1, van het koninklijk besluit van 16 januari 2006 tot vaststelling van de nadere regels van de erkenningen, toelatingen en voorafgaande registraties, afgeleverd door het Federaal Agentschap voor de Veiligheid van de Voedselketen.<br /><br />Voor embryo's kan het certificaat ook worden afgeleverd door een centrum dat erkend is met toepassing van artikel 37 als dat centrum ook beschikt over een erkenning als embryoteam voor runderen voor het intracommunautaire handelsverkeer als vermeld in artikel 3, paragraaf 1, van het koninklijk besluit, vermeld in het tweede lid.<br /><br />Het certificaat wordt opgesteld met toepassing van de bepalingen van artikel 17.
+...
 
 ### ART. 17.
 
-Het certificaat voor raszuivere fokrunderen moet alle gegevens bevatten die vermeld zijn in artikel 2, 1°, van Beschikking 2005/379.<br /><br />Het certificaat voor sperma van raszuivere fokrunderen moet alle gegevens bevatten die vermeld zijn in artikel 3, 1°, van Beschikking 2005/379. <br /><br />Het certificaat voor eicellen van raszuivere fokrunderen moet alle gegevens bevatten die vermeld zijn in artikel 4, 1°, van Beschikking 2005/379.<br /><br />Het certificaat voor embryo's van raszuivere fokrunderen moet alle gegevens bevatten die vermeld zijn in artikel 5, 1°, van Beschikking 2005/379.
+...
 
 ### ART. 18.
 
-Als de gegevens, vermeld in artikel 17, worden opgenomen in een ander document, moet de erkende vereniging of organisatie van fokkers die het stamboek bijhoudt, die documenten certificeren. Voor raszuivere fokrunderen worden de documenten gecertificeerd met de volgende zin : « Ondergetekende verklaart dat de gegevens vereist krachtens artikel 2 van Beschikking 2005/379/EG van de Commissie in de bijgevoegde documenten zijn opgenomen. » <br /><br />Dezelfde zin wordt gebruikt voor de certificatie van sperma, eicellen en embryo's van raszuivere fokrunderen, maar artikel 2 wordt vervangen door artikel 3, respectievelijk artikel 4 of artikel 5.<br /><br />De documenten kunnen aangevuld worden met een exhaustieve lijst van relevante bijlagen.
+...
 
 ## Afdeling II. Certificaten voor raszuivere fokvarkens en sperma, eicellen en embryo's van raszuivere fokvarkens
 
 ### ART. 19.
 
-Bij raszuivere fokvarkens en sperma, eicellen en embryo's daarvan moet in het intracommunautaire handelsverkeer een certificaat gevoegd worden dat wordt afgeleverd door een vereniging of organisatie van fokkers die erkend is met toepassing van artikel 4, § 1. <br /><br />Het certificaat wordt opgesteld met toepassing van de bepalingen van artikel 20.
+...
 
 ### ART. 20.
 
-Het certificaat voor raszuivere fokvarkens moet alle gegevens bevatten die vermeld zijn in artikel 1 van Beschikking 89/503 volgens het model, dat is opgenomen in bijlage I van de beschikking. <br /><br />Het certificaat voor sperma van raszuivere fokvarkens moet alle gegevens bevatten die vermeld zijn in artikel 3 van Beschikking 89/503 volgens het model, dat is opgenomen in bijlage II van de beschikking.<br /><br />Het certificaat voor eicellen van raszuivere fokvarkens moet alle gegevens bevatten die vermeld zijn in artikel 5 van Beschikking 89/503 volgens het model, dat is opgenomen in bijlage III van de beschikking.<br /><br />Het certificaat voor embryo's van raszuivere fokvarkens moet alle gegevens bevatten die vermeld zijn in artikel 7 van Beschikking 89/503 volgens het model, dat is opgenomen in bijlage IV van de beschikking.
+...
 
 ### ART. 21.
 
-Als andere documenten gebruikt worden dan de documenten, vermeld in artikel 20, moet de erkende vereniging of organisatie van fokkers die het stamboek bijhoudt, die documenten certificeren. Voor raszuivere fokvarkens worden de documenten gecertificeerd met de volgende zin : "Ondergetekende verklaart dat deze documenten de in artikel 1 van Beschikking 89/503/EEG van de Commissie genoemde gegevens bevatten. » Dezelfde zin wordt gebruikt voor de certificatie van sperma, eicellen en embryo's van raszuivere fokvarkens, maar artikel 1 wordt vervangen door artikel 3, respectievelijk artikel 5 of artikel 7.
+...
 
 ## Afdeling III. Certificaten voor raszuivere fokschapen en -geiten en sperma, eicellen en embryo's van raszuivere fokschapen en -geiten
 
 ### ART. 22.
 
-Bij raszuivere fokschapen, raszuivere fokgeiten en sperma, eicellen en embryo's van deze dieren moet in het intracommunautaire handelsverkeer een certificaat gevoegd worden dat wordt afgeleverd door een vereniging of organisatie van fokkers die erkend is met toepassing van artikel 4, § 1. <br /><br />Het certificaat wordt opgesteld met toepassing van de bepalingen van artikel 23.
+...
 
 ### ART. 23.
 
-Het certificaat voor raszuivere fokschapen of raszuivere fokgeiten moet alle gegevens bevatten die vermeld zijn in artikel 1 van Beschikking 90/258 volgens het model dat is opgenomen in bijlage I van de beschikking. <br /><br />Het certificaat voor sperma van raszuivere fokschapen of raszuivere fokgeiten moet alle gegevens bevatten die vermeld zijn in artikel 3 van Beschikking 90/258 volgens het model dat is opgenomen in bijlage II van de beschikking.<br /><br />Het certificaat voor eicellen van raszuivere fokschapen of raszuivere fokgeiten moet alle gegevens bevatten die vermeld zijn in artikel 5 van Beschikking 90/258 volgens het model dat is opgenomen in bijlage III van de beschikking.<br /><br />Het certificaat voor embryo's van raszuivere fokschapen of raszuivere fokgeiten moet alle gegevens bevatten die vermeld zijn in artikel 7 van Beschikking 90/258 volgens het model dat is opgenomen in bijlage IV van de beschikking.
+...
 
 ### ART. 24.
 
-Als andere documenten gebruikt worden dan de documenten vermeld in artikel 23, moet de erkende vereniging of organisatie van fokkers die het stamboek bijhoudt, die documenten certificeren. Voor raszuivere fokschapen en raszuivere fokgeiten worden de documenten gecertificeerd met de volgende zin : "Ondergetekende verklaart dat deze documenten de in artikel 1 van Beschikking 90/258/EEG van de Commissie genoemde gegevens bevatten. » Dezelfde zin wordt gebruikt voor de certificatie van sperma, eicellen en embryo's van raszuivere fokschapen of raszuivere fokgeiten, maar artikel 1 wordt vervangen door artikel 3, respectievelijk artikel 5 of artikel 7.
+...
 
 ## [Afdeling IV. Identificatiedocument voor geregistreerde paardachtigen en certificaten voor sperma, eicellen en embryo's van geregistreerde paardachtigen (verv. BVR 13 mei 2016, art. 2, I: 11 juli 2016)]
 
 ### ART. 25.
 
-Bij geregistreerde paardachtigen moet een identificatiedocument gevoegd worden dat wordt afgeleverd door een vereniging of organisatie van fokkers die erkend is met toepassing van beschikking 92/353. Het identificatiedocument wordt opgesteld conform artikel 26, eerste lid, van dit besluit.<br>
-<br>
-Bij sperma, eicellen en embryo's van geregistreerde paardachtigen moet in het intracommunautaire handelsverkeer een certificaat gevoegd worden dat wordt afgeleverd door een vereniging of organisatie van fokkers die erkend is met toepassing van artikel 4, § 1. Het certificaat in kwestie wordt opgesteld met toepassing van de bepalingen van artikel 26, tweede, derde of vierde lid.
+...
 
 ### ART. 26.
 
-Het identificatiedocument voor geregistreerde paardachtigen moet voldoen aan de eisen, vermeld in artikel 8 van uitvoeringsverordening 2015/262.<br>
-<br>
-Het certificaat voor sperma van geregistreerde paardachtigen moet alle gegevens bevatten die vermeld zijn in artikel 1 van Beschikking 96/79 volgens het model dat is opgenomen in bijlage I van de beschikking.<br>
-<br>
-Het certificaat voor eicellen van geregistreerde paardachtigen moet alle gegevens bevatten die vermeld zijn in artikel 3 van Beschikking 96/79 volgens het model dat is opgenomen in bijlage II van de beschikking.<br>
-<br>
-Het certificaat voor embryo's van geregistreerde paardachtigen moet alle gegevens bevatten die vermeld zijn in artikel 5 van Beschikking 96/79 volgens het model dat is opgenomen in bijlage III van de beschikking.
+...
 
 ### ART. 27.
 
-Als andere documenten gebruikt worden dan de documenten vermeld in artikel 26, tweede, derde of vierde lid, moet de erkende vereniging of organisatie van fokkers die het stamboek bijhoudt, die documenten certificeren. Voor sperma van geregistreerde paardachtigen worden de documenten gecertificeerd met de volgende zin : « Ondergetekende verklaart dat in deze documenten de in artikel 1 van Beschikking 96/79/EG van de Commissie bedoelde gegevens zijn vermeld. » Dezelfde zin wordt gebruikt voor de certificatie van eicellen of embryo's van geregistreerde paardachtigen, maar artikel 1 wordt vervangen door artikel 3, respectievelijk artikel 5.
+...
 
 ## Afdeling V. Certificaten of vereenvoudigde documenten voor andere diersoorten
 
 ### ART. 28.
 
-Certificaten voor raszuivere dieren van andere diersoorten, vermeld in   artikel 2, moeten voldoen aan de bepalingen van afdeling I waarbij de   vermeldingen over runderen vervangen worden door vermeldingen die eigen zijn aan   de diersoort in kwestie.<BR><BR>Verenigingen of organisaties van fokkers die   erkend zijn met toepassing van artikel 3, vierde lid, kunnen vereenvoudigde   documenten voor dieren opstellen. Ze nemen de voorwaarden voor het opstellen van   vereenvoudigde documenten op in hun technisch reglement.<BR><BR>De minister kan,   in afwijking van het eerste en tweede lid, voor die rassen van honden waarvoor   de genetische diversiteit in het gedrang is, de voorwaarden bepalen voor het   opstellen en afleveren van certificaten.
+...
 
 ## Afdeling VI. Vereenvoudigd document voor dieren uit stamboek
 
 ### ART. 29.
 
-In afwijking van de bepalingen van afdeling I, II, III en V, mag de vereniging of organisatie van fokkers die erkend is met toepassing van artikel 3, eerste lid, een vereenvoudigd document afgeven voor :<br />1° raszuivere dieren als dat document niet gebruikt wordt in het intracommunautaire handelsverkeer, een ander gewest of voor de inschrijving in een ander stamboek en als de volgende bewoordingen erop zijn aangebracht : « Niet geldig voor de intracommunautaire handel, voor gebruik in een ander gewest en voor opname in een ander stamboek. » ; <br />2° dieren die ze geregistreerd heeft in de aanvullende afdeling als ze de volgende vermelding erop aanbrengt : « Niet geldig voor de intracommunautaire handel, voor gebruik in een ander gewest en voor opname in een ander stamboek. » <br /><br />De erkende vereniging of organisatie van fokkers moet het model van dat vereenvoudigd document opnemen in het technisch reglement.
+...
 
 ## Afdeling VII. Certificaten die gevoegd worden bij uit derde landen ingevoerde dieren, sperma, eicellen of embryo's
 
 ### ART. 30.
 
-§ 1. Met toepassing van Richtlijn 94/28/EG van de Raad van 23 juni 1994   tot vaststelling van de beginselen inzake de zoötechnische en genealogische   voorschriften voor de invoer uit derde landen van dieren, alsmede van sperma,   eicellen en embryo's en tot wijziging van Richtlijn 77/504/EEG betreffende   raszuivere fokrunderen mogen uit derde landen alleen dieren, sperma, eicellen of   embryo's worden ingevoerd waarbij een certificaat of een ander document is   gevoegd als vermeld in Beschikking 96/510/EG van de Commissie van 18 juli 1996   tot vaststelling van de stamboek- en fokkerijcertificaten voor de invoer van   fokdieren en van sperma, eicellen en embryo's daarvan, het laatst gewijzigd bij   Beschikking 2004/186 van de Commissie van 16 februari 2004, dat afgeleverd is   door een instantie als vermeld in artikel 3, eerste lid, van de richtlijn.   <BR><BR>Dieren mogen alleen uit derde landen worden ingevoerd als er een   document bij gevoegd is, waaruit blijkt dat ze in een stamboek of register van   een lidstaat zullen worden ingeschreven of geregistreerd.<BR><BR>§ 2. In   afwijking van paragraaf 1, eerste lid, moeten bij sperma van raszuivere   fokrunderen, fokvarkens, fokschapen en fokgeiten en van hybride fokvarkens,   waarvan de donor niet voldoet aan de voorwaarden, vermeld in artikel 13,   paragraaf 2, de twee certificaten gevoegd worden als vermeld in Beschikking   96/509/EG van de Commissie van 18 juli 1996 tot vaststelling van genealogische   en zoötechnische voorschriften voor de invoer van sperma van bepaalde dieren. De   invoer is beperkt tot de hoeveelheden die noodzakelijk zijn om het   prestatieonderzoek uit te voeren, vermeld in artikel 13, paragraaf 3. <BR><BR>De   minister kan de hoeveelheden vaststellen die noodzakelijk zijn om het   prestatieonderzoek uit te voeren.<BR><BR>Het centrum, vermeld in titel VIII,   moet voor de invoer van het sperma beschikken over een certificaat als vermeld   in bijlage II van Beschikking 96/509. Dat certificaat wordt afgeleverd door de   bevoegde entiteit. De minister kan de voorwaarden daarvoor vaststellen.<BR><BR>§   3. Verenigingen en organisaties van fokkers en ondernemingen mogen uit derde   landen ingevoerde dieren of sperma, eicellen of embryo's ervan, alleen in hun   stamboek of in hun register inschrijven na voorlegging van een certificaat dat   voldoet aan de voorwaarden, vermeld in paragraaf 1 of 2.
+...
 
 ## HOOFDSTUK II. Certificaten voor hybride fokvarkens en sperma, eicellen en embryo's van hybride fokvarkens
 
 ### ART. 31.
 
-Bij hybride fokvarkens en sperma, eicellen en embryo's daarvan moet in het intracommunautaire handelsverkeer een certificaat gevoegd worden dat wordt afgeleverd door een vereniging of organisatie van fokkers of een onderneming die erkend is met toepassing van artikel 5. Het certificaat wordt opgesteld met toepassing van de bepalingen van artikel 32, paragraaf 1.
+...
 
 ### ART. 32.
 
-§ 1. Het certificaat voor hybride fokvarkens moet alle gegevens bevatten die vermeld zijn in artikel 1 van Beschikking 89/506/EEG van de Commissie van 18 juli 1989 tot vaststelling van het certificaat voor hybride fokvarkens en voor sperma, eicellen en embryo's daarvan volgens het model dat is opgenomen in bijlage I van de beschikking. De gegevens van hybride fokvarkens van dezelfde lijn mogen voor partijen dieren met dezelfde herkomst en dezelfde bestemming in hetzelfde certificaat of document worden opgenomen. Het model van certificaat wordt dan op een passende wijze aangepast.<br /><br />Het certificaat voor sperma van hybride fokvarkens moet alle gegevens bevatten die vermeld zijn in artikel 3 van Beschikking 89/506 en volgens het model dat is opgenomen in bijlage II van de voormelde beschikking.<br /><br />Het certificaat voor eicellen van hybride fokvarkens moet alle gegevens bevatten die vermeld zijn in artikel 5 van Beschikking 89/506 en volgens het model dat is opgenomen in bijlage III van de beschikking.<br /><br />Het certificaat voor embryo's van hybride fokvarkens moet alle gegevens bevatten die vermeld zijn in artikel 7 van Beschikking 89/506 en volgens het model dat is opgenomen in bijlage IV van de beschikking.<br /><br />§ 2. Als andere documenten gebruikt worden dan de documenten, vermeld in paragraaf 1, moet de erkende vereniging of organisatie van fokkers of de onderneming die het register bijhoudt, die documenten certificeren. Voor hybride fokvarkens worden de documenten gecertificeerd met de volgende zin : "Ondergetekende verklaart dat deze documenten de in artikel 1 van Beschikking 89/506/EEG van de Commissie genoemde gegevens bevatten. » Dezelfde zin wordt gebruikt voor de certificatie van sperma, eicellen of embryo's van hybride fokvarkens, maar artikel 1 wordt vervangen door artikel 3, respectievelijk artikel 5 of artikel 7.
+...
 
 ## HOOFDSTUK III. Vereenvoudigd document voor dieren uit register
 
 ### ART. 33.
 
-De vereniging of organisatie van fokkers of de onderneming, die erkend is met toepassing van artikel 3, tweede lid, mag een vereenvoudigd document afgeven als dit document niet gebruikt wordt in het intracommunautaire handelsverkeer, in een ander gewest of voor de inschrijving in een ander register, en als de volgende vermelding erop is aangebracht : "Niet geldig voor de intracommunautaire handel, voor gebruik in een ander gewest en voor opname in een ander register. » De erkende vereniging of organisatie van fokkers en de erkende onderneming moeten het model van dat vereenvoudigd document opnemen in het technisch reglement.
+...
 
 ## HOOFDSTUK IV. Dekcertificaat
 
 ### ART. 34.
 
-§ 1. Bij de dekking of inseminatie van een merrie door een hengst die met toepassing van artikel 14 toegelaten is tot de voortplanting, moet op verzoek van de houder van die merrie door de hengstenhouder of de inseminator een dekcertificaat worden uitgereikt, waarin minstens de naam, het stamboek en het UELN-nummer van de hengst, het UELN-nummer van de merrie en de datum van de dekking of inseminatie zijn vermeld. Het UELN-nummer is het unieke levensnummer dat toegekend wordt aan een paardachtige ter uitvoering van uitvoeringsverordening 2015/262.<br>
-<br>
-De gegevens van het dekcertificaat worden vastgesteld door de vereniging die coördinerende taken opneemt voor de fokkerij van paardachtigen en, bij ontstentenis ervan, door de erkende vereniging of organisatie van fokkers die het stamboek bijhoudt van het ras van de hengst. De vereniging in kwestie moet de gegevens van het dekcertificaat opnemen in haar technisch reglement.<br>
-<br>
-&nbsp;§ 2. In toepassing van artikel 14, § 3, levert de houder van een reu bij de dekking of de inseminatie van een teef, een dekcertificaat af aan de houder van de teef. De houder van de teef legt het originele dekcertificaat voor aan een erkende vereniging of organisatie van fokkers voor het bijhouden van een stamboek of het voeren van een vereenvoudigd beheer als vermeld in artikel 3, eerste en vierde lid. Deze verbindt, op basis van het dekcertificaat en ongeacht of de teef of de nakomeling in het stamboek opgenomen wordt, in haar databank ten minste het registratienummer van de beide ouders aan dit van de geïdentificeerde pups.<br>
-<br>
-De minister stelt de gegevens vast die op het dekcertificaat moeten worden vermeld.
+...
 
 ## TITEL VIII. De winning en opslag van sperma, eicellen en embryo's
 
 ### ART. 35.
 
-Voor het winnen of opslaan van sperma, eicellen en embryo's van runderen, varkens, paardachtigen, schapen en geiten, is een erkenning vereist, met het oog op het in de handel brengen ervan onder de vorm van een verkoop, een bezit met het oog op een verkoop, een aanbieding voor verkoop en iedere beschikbaarheidstelling, levering of overdracht aan derden tegen of zonder vergoeding, met het oog op gebruik.<br /><br />De erkenning, vermeld in het eerste lid, is niet vereist voor :<br />1° een depot;<br />2° het winnen van sperma door een verantwoordelijke houder van te testen stamboekberen die beschikt over een toelating als geregeld in artikel 4, paragraaf 2, van het koninklijk besluit van 6 oktober 2006 betreffende de sanitaire voorwaarden inzake de productie, de nationale handel, het intracommunautair handelsverkeer en de invoer van varkenssperma, afgeleverd door het Federaal Agentschap voor de Veiligheid van de Voedselketen.<br /><br />De minister wordt belast met het verlenen van de erkenning en met het opheffen ervan. <br /><br />De verlening en de opheffing van de erkenning worden bekendgemaakt in het Belgisch Staatsblad.
+...
 
 ### ART. 36.
 
-Om een erkenning voor het winnen of opslaan van sperma, eicellen of   embryo's van paardachtigen te kunnen krijgen, moet het centrum :<BR>1° een   aanvraag tot erkenning richten aan de bevoegde entiteit;<BR>2° in de aanvraag   aantonen dat het ingericht is en bekwaam is om sperma, eicellen en embryo's van   hoge kwaliteit te winnen of op te slaan. De minister kan de voorwaarden daarvoor   vaststellen;<BR>3° als het wint of opslaat voor het intracommunautaire   handelsverkeer, bij de erkenningsaanvraag een verklaring voegen waarin het   bevestigt dat het in het bezit is van een erkenning als vermeld in artikel 3,   paragraaf 1, van het koninklijk besluit van 16 januari 2006 tot vaststelling van   de nadere regels van de erkenningen, toelatingen en voorafgaande registraties,   afgeleverd door het Federaal Agentschap voor de Veiligheid van de Voedselketen,   met vermelding van het onderwerp van de erkenning en het toegekende   erkenningsnummer;<BR>4° bij de erkenningsaanvraag een verklaring voegen waarin   het bevestigt dat uitsluitend mannelijke dieren zullen worden ingezet die   toegelaten zijn tot de voortplanting door een vereniging of organisatie die   erkend is volgens Beschikking 92/353.
+...
 
 ### ART. 37.
 
-Om een erkenning te krijgen voor het winnen of opslaan van sperma,   eicellen of embryo's van runderen, varkens, schapen en geiten moet het centrum   :<BR>1° een verzoek richten aan de bevoegde entiteit, waarbij onder meer de aard   van de activiteit of activiteiten wordt vermeld en de locaties waar die   activiteiten plaatsvinden;<BR>2° bij de erkenningsaanvraag een verklaring voegen   waarin het bevestigt dat het in het bezit is van een erkenning als vermeld in   artikel 3, paragraaf 1, van het koninklijk besluit van 16 januari 2006 tot   vaststelling van de nadere regels van de erkenningen, toelatingen en   voorafgaande registraties, afgeleverd door het Federaal Agentschap voor de   Veiligheid van de Voedselketen, met vermelding van het onderwerp van de   erkenning en de toegekende erkenningsnummers;<BR>3° bij de erkenningsaanvraag   een verklaring voegen over de opslag van sperma, eicellen of embryo's, waarin   het centrum bevestigt dat het geen wijzigingen zal aanbrengen aan de   vermeldingen op de recipiënt waarin ze initieel werden opgeslagen;<BR>4° als het   een centrum voor winning of opslag van sperma van runderen is, bij de   erkenningsaanvraag een verklaring voegen waarin het meedeelt of het in   overeenstemming met artikel 16, tweede lid, al dan niet zelf certificaten zal   uitreiken;<BR>5° als het een centrum voor winning of opslag van eicellen of   embryo's van runderen is, bij de erkenningsaanvraag een verklaring voegen waarin   het meedeelt of het in overeenstemming met artikel 16, derde lid, al dan niet   zelf certificaten zal uitreiken;<BR>6° als het een centrum voor winning van   sperma, eicellen of embryo's is, bij de erkenningsaanvraag een verklaring voegen   waarin het meedeelt of het in overeenstemming met artikel 42, paragraaf 2,   tweede lid, al dan niet een eenduidige code voor de donoren zal   gebruiken.
+...
 
 ### ART. 38.
 
-De aanvragen tot erkenning, vermeld in artikel 36 en 37, kunnen per post,   fax of elektronisch worden ingediend bij de bevoegde entiteit.   Standaardmeldingsformulieren zijn terug te vinden op de website van de bevoegde   entiteit (http://lv.vlaanderen.be) en op de formulierenwebsite van de Vlaamse   overheid (www.vlaanderen.be/formulieren).<BR><BR>Elke wijziging van de gegevens,   vermeld in artikel 36 en 37, moet onmiddellijk en op de wijze, vermeld in het   eerste lid, aan de&nbsp;bevoegde entiteit worden   meegedeeld.<BR><BR>De&nbsp;bevoegde entiteit kan aan de erkende centra een code   toekennen.
+...
 
 ### ART. 39.
 
-Het centrum moet voor elke donor die aanwezig is op het centrum, of waarvan sperma, eicellen of embryo's aanwezig zijn op het centrum of in een of meer depots, beschikken over het passende certificaat of document, vermeld in titel VII, hoofdstuk I en II.
+...
 
 ### ART. 40.
 
-Het centrum moet van de volgende gegevens de gegevens registreren die op het centrum van toepassing zijn : <br />1° datum van de spermawinning, identiteit van de donor en aantal geproduceerde dosissen van elke spermawinning;<br />2° datum van de winning van de eicellen, identiteit van de donor en aantal eicellen van elke winning van eicellen;<br />3° een lijst over de aankoop van sperma of eicellen, met vermelding van de datum van aankomst en per donor het aantal en de herkomst;<br />4° een lijst over de verkoop van sperma of eicellen, met vermelding van de datum van verkoop en per donor het aantal en de ontvanger;<br />5° voor de inseminatie van paardachtigen : de identificatie van het sperma, de identiteit van het vrouwelijke dier en de datum van inseminatie;<br />6° een lijst van de opslagcentra en de depots die sperma, eicellen of embryo's uit het wincentrum in de handel brengen;<br />7° de datum van winning of aankomst van de embryo's, in voorkomend geval de coördinaten van het aanleverende centrum voor embryotransplantatie, de identificatie van de embryo's, het aantal aanwezige embryo's, de herkomst en bestemming van de embryo's, de identiteit van de donoren en de identiteit van de receptoren bij embryotransplantatie.
+...
 
 ### ART. 41.
 
-§ 1. Het centrum moet op permanente wijze een catalogus ter beschikking houden van de kopers. Daarin moeten alle donoren worden vermeld waarvan sperma, eicellen of embryo's beschikbaar zijn. Die catalogus moet voor elke donor minstens de eenduidige identificatie, het ras of het hybride product, de afstamming en de actuele status op het gebied van toelating tot de voortplanting vermelden. Alle gegevens moeten geactualiseerd zijn op basis van gegevens die afkomstig zijn van de erkende vereniging of organisatie van fokkers of de onderneming die de donor heeft ingeschreven. <br /><br />§ 2. Het centrum moet op verzoek van de koper van sperma, eicellen of embryo's alle informatie die vermeld is op het certificaat of op het document van de donor, vermeld in artikel 39, ter beschikking stellen.<br /><br />Het centrum mag een begeleidend document voor sperma, eicellen of embryo's afgeven als het document niet gebruikt wordt in het intracommunautaire handelsverkeer of in het handelsverkeer naar een ander gewest, en als de volgende vermelding erop is aangebracht : « Niet geldig voor de intracommunautaire handel en voor gebruik in een ander gewest. » De gegevens in het document moeten gebaseerd zijn op de gegevens van het certificaat of het document van de donor en op de meest recente fokwaardeschatting of beoordeling van de fokwaarde van de donor. Op verzoek van de koper moet het centrum dat document afgeven.<br /><br />Centra, andere dan de centra, vermeld in artikel 16, tweede en derde lid, vragen, op verzoek van de koper van sperma, eicellen of embryo's, het certificaat, vermeld in artikel 17, 20, 23 of 26, op bij de vereniging of organisatie van fokkers die de donor heeft opgenomen in het stamboek. De centra stellen het certificaat ter beschikking van de koper of verzoeken de vereniging of organisatie van fokkers die het certificaat uitreikt, om dat certificaat te bezorgen aan de koper.<br /><br />Het centrum bezorgt het verzoek van de koper van sperma, eicellen of embryo's om een certificaat te verkrijgen als vermeld in artikel 32, aan de vereniging of organisatie van fokkers of de onderneming die de donor heeft opgenomen in het register. Het centrum stelt het certificaat ter beschikking van de koper of verzoekt de vereniging of organisatie van fokkers of de onderneming die het certificaat uitreikt, om het te bezorgen aan de koper.
+...
 
 ### ART. 42.
 
-§ 1. Een recipiënt mag slechts sperma of eicellen bevatten van één donor. Als een recipiënt meer dan één embryo bevat, moeten al die embryo's van dezelfde donor afkomstig zijn.<br /><br />§ 2. Het centrum dat het sperma, de eicellen of de embryo's wint, moet op de recipiënt of op het etiket van de recipiënt minstens de identiteit van de donor of donoren, in het geval van embryo's, vermelden. De vermeldingen op het certificaat en op de recipiënt moeten overeenstemmen.<br /><br />Als het centrum bij de winning een eenduidige code gebruikt voor de identificatie van de donoren, mag de identiteit van de donor weergegeven worden met die eenduidige code. De minister kan de voorwaarden vaststellen waaraan die eenduidige code moet voldoen.<br /><br />Het centrum voor paardachtigen dat het sperma, de eicellen of de embryo's wint, moet op de recipiënt of op het etiket van de recipiënt, naast de vermelding, vermeld in het eerste lid, de volgende vermeldingen aanbrengen :<br />1° de datum van de winning van het sperma, de eicellen of embryo's, of het sprongnummer in geval van sperma;<br />2° de naam van het centrum of de code die aan het centrum werd toegekend bij de erkenning.
+...
 
 ### ART. 43.
 
-De centra zijn verplicht om uiterlijk op 31 maart een activiteitenverslag   van het afgelopen jaar aan de&nbsp;bevoegde entiteit te bezorgen. <BR><BR>Dat   activiteitenverslag moet minstens het aantal verhandelde dosissen sperma,   eicellen of embryo's per ras vermelden. De centra voor paardachtigen moeten de   aantallen per donor geven. De centra voor varkens moeten bij hun gegevens ook   opnemen hoeveel dosissen sperma ze verkocht hebben aan   opslagcentra.
+...
 
 ### ART. 44.
 
-Onverminderd wat vermeld is in artikel 59 kan de erkenning van een centrum worden opgeheven als wordt vastgesteld dat niet voldaan is aan de erkenningsvoorwaarden, vermeld in artikel 36 of 37, of aan de werkingsvoorwaarden, vermeld in artikel 38, tweede lid, en in artikel 39 tot en met 43.
+...
 
 ## TITEL IX. De vaststelling van de voorwaarden voor deelname aan wedstrijden voor paardachtigen
 
 ### ART. 45.
 
-Bij de organisatie van een wedstrijd mogen de wedstrijdbepalingen geen ongelijke behandeling inhouden tussen paardachtigen, ongeacht het gewest of de lidstaat van oorsprong of registratie.
+...
 
 ### ART. 46.
 
-Artikel 45 is van toepassing op :<br />1° de criteria voor toelating tot de wedstrijd, met name op de minimum- en maximumvoorwaarden;<br />2° de beoordeling tijdens de wedstrijd;<br />3° de prijzen, premies of winsten die aan de wedstrijd verbonden zijn.
+...
 
 ### ART. 47.
 
-§ 1. In afwijking van de bepalingen van artikel 45, blijft de organisatie   mogelijk van :<BR>1° wedstrijden, uitsluitend voor paardachtigen die in   hetzelfde stamboek zijn opgenomen, als rasverbetering wordt beoogd;<BR>2°   regionale wedstrijden met het oog op de selectie van paardachtigen;<BR>3°   evenementen met een historisch of traditioneel karakter.<BR><BR>Minstens drie   maanden voor de organisatie van de wedstrijden, vermeld in het eerste lid, moet   de organisator de lijst van de voorgenomen wedstrijden, met vermelding van het   type afwijking, bezorgen aan de bevoegde   entiteit.<BR><BR>Standaardmeldingsformulieren zijn terug te vinden op de website   van de bevoegde entiteit (http://lv.vlaanderen.be) en op de formulierenwebsite   van de Vlaamse overheid (www.vlaanderen.be/formulieren).<BR><BR>De&nbsp;bevoegde   entiteit stelt de andere lidstaten en het publiek vooraf in kennis van elk   voornemen en de redenen daarvoor.<BR><BR>§ 2. De minister kan bepalen om ten   hoogste 20 % van het totaalbedrag van de prijzen, premies of winsten, vermeld in   artikel 46, 3°, te bestemmen voor het behoud, de ontwikkeling en de verbetering   van de fokkerij van paardachtigen. De minister legt in dat geval criteria vast   voor de verdeling van het totale bedrag en deelt die mee aan de Europese   Commissie, de andere lidstaten en het publiek.
+...
 
 ## TITEL X. Subsidies
 
 ### ART. 48.
 
-De minister kan een subsidie verlenen aan de verenigingen en organisaties die erkend zijn met toepassing van artikel 3, eerste, derde en vierde lid. Hij kan voorschotten op de subsidies toekennen.
+...
 
 ### ART. 49.
 
-De vereniging of organisatie moet haar aanvraagdossier indienen bij de   bevoegde entiteit. Het dossier moet minstens de volgende stukken bevatten   :<BR>1° een schriftelijk verzoek om een subsidie te verkrijgen;<BR>2° de   programma's waarvoor subsidies worden aangevraagd, met vermelding van onder meer   de naam, het doel en de draagwijdte van de programma's en alle kwalitatieve en   kwantitatieve aspecten die de vraag naar subsidie ondersteunen;<BR>3° een   financieel deel bij elk programma, met opgave van de begroting en een   verantwoording ervan;<BR>4° een goedgekeurde begroting van de vereniging of   organisatie voor het boekjaar waarop de subsidieaanvraag betrekking   heeft.
+...
 
 ### ART. 50.
 
-§ 1. De vereniging of organisatie die een subsidie ontvangt, is ertoe gehouden verantwoording af te leggen over de aanwending van de toegekende subsidie.<br /><br />De verantwoording impliceert zowel een financiële als een inhoudelijke verantwoording. Voor een gesubsidieerd programma worden uitsluitend werkelijke, rechtstreekse kosten in aanmerking genomen. Recupereerbare btw komt niet in aanmerking.<br /><br />§ 2. Het dossier bevat minstens de volgende stukken :<br />1° de schuldvordering;<br />2° de goedgekeurde jaarrekeningen van het boekjaar, met de balans, de resultatenrekening en een toelichting erbij;<br />3° het activiteitenverslag van het boekjaar van de erkende vereniging of organisatie;<br />4° het activiteitenverslag en resultatenrekening van elk gesubsidieerd programma.<br /><br />§ 3. De verschuldigde subsidie wordt berekend op basis van het dossier.
+...
 
 ## TITEL XI. Gebouwen
 
 ### ART. 51.
 
-De minister kan bestemde gebouwen en gronden die het Vlaamse gewest krachtens artikel 12 van de bijzondere wet hervorming instellingen verworven heeft, ter beschikking stellen van of verhuren aan de verenigingen en organisaties die erkend zijn met toepassing van artikel 3, eerste, derde of vierde lid.<br /><br />De minister kan niet-bestemde gebouwen en gronden die het Vlaamse gewest krachtens artikel 12 van de bijzondere wet hervorming instellingen verworven heeft, ter beschikking stellen van of verhuren aan de verenigingen en organisaties die erkend zijn met toepassing van artikel 3, eerste, derde of vierde lid na het voorafgaande akkoord van de minister bevoegd voor vastgoedbeheer.<br /><br />De Vlaamse Regering kan de voorwaarden van de terbeschikkingstelling of van het huurcontract bepalen.<br /><br />De minister kan gebouwen en gronden ter beschikking stellen van of verhuren aan de verenigingen en organisaties voor de uitvoering van de activiteiten waarvoor ze zijn erkend en voor de duurtijd van hun erkenning.
+...
 
 ## TITEL XII. Toezicht
 
 ### ART. 52.
 
-De&nbsp;bevoegde entiteit wordt belast met het toezicht op de naleving van   dit besluit. De&nbsp;bevoegde entiteit handelt daarbij in overeenstemming met de   bepalingen van Beschikking 92/354/EEG van de Commissie van 11 juni 1992 tot   vaststelling van bepaalde voorschriften voor de coördinatie tussen organisaties   en verenigingen die stamboeken van geregistreerde paardachtigen bijhouden of   aanleggen, het Koninklijk besluit van 28 augustus 1991 betreffende wederzijdse   bijstand tussen de administratieve autoriteiten in veterinaire en zoötechnische   wetgeving en het Koninklijk besluit van 31 december 1992 betreffende de   veterinaire en zoötechnische controles die van toepassing zijn op het   intracommunautaire handelsverkeer van sommige levende dieren en   producten.
+...
 
 ### ART. 53.
 
-Overtredingen van de bepalingen van dit besluit worden opgespoord, vastgesteld, vervolgd en bestraft in overeenstemming met de bepalingen van de wet van 20 juni 1956 betreffende de verbetering van de rassen van voor de landbouw nuttige huisdieren en de wet van 28 maart 1975 betreffende de handel in landbouw-, tuinbouw- en zeevisserijproducten.
+...
 
 ## TITEL XIII. Wijzigingsbepalingen
 
 ### ART. 54.
 
-In artikel 1 van het koninklijk besluit van 2 juni 1998 betreffende de zoötechnische en genealogische voorschriften voor de verbetering en de instandhouding van de pluimvee- en konijnenrassen, gewijzigd bij het besluit van de Vlaamse Regering van 28 april 2006, worden punt 15° tot en met 19° opgeheven.
+...
 
 ### ART. 55.
 
-Hoofdstuk III van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 28 april 2006, en bestaande uit artikel 7 tot en met 10, wordt opgeheven.
+...
 
 ### ART. 56.
 
-Hoofdstuk IV van hetzelfde besluit, bestaande uit artikel 11 tot en met 14, wordt opgeheven.
+...
 
 ### ART. 57.
 
-Hoofdstuk V van hetzelfde besluit, bestaande uit artikel 15 tot en met 17, wordt opgeheven.
+...
 
 ### ART. 58.
 
-Hoofdstuk VI van hetzelfde besluit, bestaande uit artikel 18 tot en met 20, wordt opgeheven.
+...
 
 ## TITEL XIV. Overgangsbepalingen
 
 ### ART. 59.
 
-§ 1. De volgende erkenningen verleend voor de inwerkingtreding van dit   besluit zullen door de minister worden omgezet in een erkenning in uitvoering   van dit besluit zonder dat daarvoor een nieuwe aanvraag moet worden ingediend :   <BR>1° de erkenningen van een vereniging of organisatie van fokkers die een   stamboek bijhoudt;<BR>2° de erkenningen van een vereniging of organisatie van   fokkers of een onderneming die een register bijhoudt; <BR>3° de erkenningen van   een vereniging die coördinerende taken opneemt; <BR>4° de erkenningen van een   vereniging die een vereenvoudigd beheer voert voor de fokkerij van andere   diersoorten.<BR><BR>De vereniging of organisatie van fokkers, vermeld in het   eerste lid, 1°, moeten uiterlijk de eerste dag van de zesde maand volgend op de   maand van inwerkingtreding van dit besluit, voldoen aan de voorwaarde vermeld in   artikel 4, § 1, 4°. Bij het niet voldoen aan deze voorwaarde zal de erkenning   worden opgeheven in overeenstemming met artikel 9.<BR><BR>§ 2. De erkenningen   van centra verleend voor de inwerkingtreding van dit besluit en verleend in   uitvoering van de volgende besluiten zullen door de minister worden omgezet in   een erkenning in uitvoering van dit besluit zonder dat daarvoor een nieuwe   aanvraag moet worden ingediend :<BR>1° het koninklijk besluit van 9 december   1992 betreffende de veterinairrechtelijke en zoötechnische voorwaarden aangaande   de productie, de behandeling, de bewaring, het gebruik, het intracommunautair   handelsverkeer en de invoer van rundersperma, gewijzigd bij de koninklijke   besluiten van 22 september 1993, 12 november 2001, 10 november 2005 en 16   januari 2006, bij de ministeriële besluiten van 13 september 1995 en 24 december   2004, en bij het besluit van de Vlaamse Regering van 28 april 2006;<BR>2° het   koninklijk besluit van 9 december 1992 betreffende de productie, de handel, het   intracommunautair handelsverkeer en de invoer van varkenssperma, gewijzigd bij   het besluit van de Vlaamse Regering van 28 april 2006, en bij het koninklijk   besluit van 6 oktober 2006;<BR>3° het koninklijk besluit van 20 oktober 1992   betreffende de verbetering van de schapen- en geitenrassen, gewijzigd bij de   koninklijke besluiten van 9 januari 1995 en 20 juli 2000, en bij het besluit van   de Vlaamse Regering van 28 april 2006;<BR>4° het koninklijk besluit van 10   december 1992 betreffende de verbetering van paardachtigen, gewijzigd bij de   besluiten van de Vlaamse Regering van 30 september 2005 en 28 april   2006.<BR><BR>De centra, vermeld in het eerste lid, moeten uiterlijk de eerste   dag van de zesde maand volgend op de maand van inwerkingtreding van dit   besluit,aan de&nbsp;bevoegde entiteit de verklaringen overmaken die op het   centrum in kwestie van toepassing zijn en die vermeld worden in de artikelen 36   en 37 van dit besluit. Bij het niet naleven van deze verplichting zal de   minister de erkenning opheffen.
+...
 
 ## TITEL XV. Slotbepalingen
 
 ### ART. 60.
 
-De volgende regelingen worden opgeheven bij de inwerkingtreding van dit besluit : <br />1° het koninklijk besluit van 25 mei 1992 betreffende de zoötechnische en genealogische voorschriften voor de handel in rasdieren;<br />2° het koninklijk besluit van 2 september 1992 betreffende de verbetering van de fokvarkens, gewijzigd bij de koninklijke besluiten van 11 januari 1993 en 13 juli 2001, en bij de besluiten van de Vlaamse Regering van 28 april 2006, 24 november 2006 en 16 maart 2007;<br />3° het koninklijk besluit van 9 december 1992 betreffende de productie, de handel, het intracommunautair handelsverkeer en de invoer van varkenssperma, gewijzigd bij het besluit van de Vlaamse Regering van 28 april 2006, en bij het koninklijk besluit van 6 oktober 2006;<br />4° het koninklijk besluit van 9 december 1992 betreffende de veterinairrechtelijke en zoötechnische voorwaarden aangaande de productie, de behandeling, de bewaring, het gebruik, het intracommunautair handelsverkeer en de invoer van rundersperma, gewijzigd bij de koninklijke besluiten van 22 september 1993, 12 november 2001, 10 november 2005 en 16 januari 2006, bij de ministeriële besluiten van 13 september 1995 en 24 december 2004, en bij het besluit van de Vlaamse Regering van 28 april 2006;<br />5° het koninklijk besluit van 10 december 1992 betreffende de verbetering van paardachtigen, gewijzigd bij de besluiten van de Vlaamse Regering van 30 september 2005 en 28 april 2006; <br />6° het koninklijk besluit van 20 oktober 1992 betreffende de verbetering van de schapen- en geitenrassen, gewijzigd bij de koninklijke besluiten van 9 januari 1995 en 20 juli 2000, en bij het besluit van de Vlaamse Regering van 28 april 2006;<br />7° het koninklijk besluit van 31 januari 1997 betreffende de zoötechnische en genealogische voorschriften voor de invoer uit derde landen van dieren, sperma, eicellen en embryo's;<br />8° het besluit van de Vlaamse Regering van 9 november 2007 betreffende de organisatie van de rundveefokkerij;<br />9° het ministerieel besluit van 3 september 1992 betreffende de verbetering van de fokvarkens, gewijzigd bij het ministerieel besluit van 19 mei 2006; <br />10° het ministerieel besluit van 21 oktober 1992 betreffende de verbetering van de schapen- en geitenrassen, gewijzigd bij de ministeriële besluiten van 10 januari 1995, 8 mei 1998, 21 december 2001, 21 maart 2005 en 19 mei 2006;<br />11° het ministerieel besluit van 10 december 1992 betreffende de productie, de handel, het intracommunautair handelsverkeer en de invoer van varkenssperma, gewijzigd bij het ministerieel besluit van 19 mei 2006;<br />12° het ministerieel besluit van 23 december 1992 betreffende de verbetering van paardachtigen, gewijzigd bij de ministeriële besluiten van 14 oktober 1996, 21 oktober 2005 en 19 mei 2006.
+...
 
 ### ART. 61.
 
-Dit besluit wordt aangehaald als : het Fokkerijbesluit.
+...
 
 ### ART. 62.
 
-Dit besluit treedt in werking op 1 januari 2011.
+...
 
 ### ART. 63.
 
-De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij, is belast met de uitvoering van dit besluit.
+...
