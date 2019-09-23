@@ -18,8 +18,8 @@ Besluit :
 
 ### ART. 1.
 
-De erkenningen van de volgende centra voor varkens worden opgeheven :<br />1° Hypor Belgium NV, Leie Rechteroever 1, 9870 Olsene;<br />2° Geert Lacour, Merkemstraat 32, 8650 Merkem.
+...
 
 ### ART. 2.
 
-Dit besluit heeft uitwerking met ingang van 1 juli 2011.
+...
