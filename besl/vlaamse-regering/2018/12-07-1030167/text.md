@@ -926,6 +926,12 @@ Het dwangbevel, vermeld in artikel 46 van het decreet van 6 juli 2018, wordt gev
 
 ## [Afdeling 3/1. Sancties voor verzekeringsinstellingen (ing. BVR 17 mei 2019, art. 5, I: 27 september 2019)]
 
+### ART 64/1.
+
+De door de Vlaamse Regering aangewezen ambtenaar, vermeld in artikel 9 en 37 van het decreet van 6 juli 2018, is de leidend ambtenaar of de ambtenaar die hij aanwijst.<br>
+<br>
+De beslissing van de leidend ambtenaar, of de ambtenaar die hij aanwijst, bepaalt het bedrag van de geldboete, vermeld in artikel 9 en 37 van het decreet van 6 juli 2018. Bij de beslissing is een uitnodiging gevoegd om de geldboete te betalen binnen drie maanden vanaf de dag van de kennisgeving van de beslissing. De opbrengst van de geldboetes wordt aan het agentschap gestort
+
 ## Afdeling 4. Verplichtingen voor de verzekeringsinstellingen, de zorgvoorzieningen en de rechthebbenden
 
 ### ART 65.
