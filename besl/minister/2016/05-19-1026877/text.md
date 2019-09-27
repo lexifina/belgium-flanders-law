@@ -157,7 +157,117 @@ Dit besluit treedt in werking op de dag van de bekendmaking ervan in het   Belgi
 
 ### BIJLAGE 1.
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2016/06/10_1_2.pdf#page=3">Maximale   steunpercentages bij investeringen in bepaalde roerende en onroerende goederen   als vermeld in artikel 10</A>
+Bijlage 1. Maximale steunpercentages bij investeringen in bepaalde roerende en onroerende goederen als vermeld in artikel 10<br>
+<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Doelstelling of aard van de investering met verwijzing naar het artikel van de EFMZV Verordening</td>
+			<td colspan="6">FIVA-steun</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;individueel project (maximum)</td>
+			<td colspan="5">Toeslagen die onderling niet kunnen samengevoegd worden</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>collectief project<br>
+			(vaste toeslag- Art 95(4))</td>
+			<td>Erkende producentenorganisatie<br>
+			(vaste toeslag- Art 95(4))</td>
+			<td>Erkende visserijvereniging<br>
+			(vaste toeslag- Art 95(4))</td>
+			<td>Kleinschalige kustvisserij<br>
+			(vaste toeslag- Art 95(4))</td>
+			<td>innovatief project met collectieve begunstigde (maximum)<br>
+			(art 95(3)a)</td>
+		</tr>
+		<tr>
+			<td>1) Visserij</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Gezondheid en veiligheid aan boord (art 32)</td>
+			<td>25 %</td>
+			<td>+ 5 %</td>
+			<td>+ 12,5 %</td>
+			<td>+ 5 %</td>
+			<td>+ 15 %</td>
+			<td>+ 25 %</td>
+		</tr>
+		<tr>
+			<td>Beperken van impact van de visserij op het marine milieu (art 38)</td>
+			<td>25 %</td>
+			<td>+ 5 %</td>
+			<td>+ 12,5 %</td>
+			<td>+ 5 %</td>
+			<td>+ 15 %</td>
+			<td>+ 25 %</td>
+		</tr>
+		<tr>
+			<td>Verbeteren van de energie-efficiëntie aan boord (art 41)</td>
+			<td>25 %</td>
+			<td>+ 5 %</td>
+			<td>+ 12,5 %</td>
+			<td>+ 5 %</td>
+			<td>+ 15 %</td>
+			<td>+ 25 %</td>
+		</tr>
+		<tr>
+			<td>2) Commercialisatie en verwerking van vis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Investeringen in veilingen en aanvoerplaatsen (art 43)</td>
+			<td>20 %</td>
+			<td>-</td>
+			<td>+ 12,5 %</td>
+			<td>-</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>visverwerking: investeringen die leiden tot nieuwe of verbeterde producten en processen (art 69)</td>
+			<td>20 %</td>
+			<td>-</td>
+			<td>+ 12,5 %</td>
+			<td>-</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>3) Aquacultuur</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Productieve investeringen in aquacultuur (art 48)</td>
+			<td>20 %</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
 
 ### BIJLAGE 2.
 

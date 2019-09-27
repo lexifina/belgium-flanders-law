@@ -2,16 +2,16 @@
   "codex_id": 1026877,
   "title": "Ministerieel besluit van 2016-05-19 tot uitvoering van het besluit van de Vlaamse Regering van 5 februari 2016 houdende vaststelling van de werking en het beheer van het FIVA en de verrichtingen die voor steun in aanmerking komen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026877/VolledigDocument?datum=2017-11-01",
-  "source_sha256": "246e98f2a6a69b3bdde7d1f814c62c12482329bfa07d0862630f09a3c038fb42",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026877/VolledigDocument?datum=2019-09-27",
+  "source_sha256": "6b68ef41f33532bc8339cb7723b0b07cfb2c04de4092834b3609e25e547c4da8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026877&param=informatie",
-  "as_of": "2017-11-01",
+  "as_of": "2019-09-27",
   "made": "2016-05-19",
   "gazette": "2016-06-10",
   "numac": 2016035929,
   "document_start": "2016-06-10",
   "document_end": "2023-09-20",
-  "in_force": "2017-11-01",
+  "in_force": "2019-09-27",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2017-11-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-09-27; future article versions excluded; article text as the API gives it"
 }
