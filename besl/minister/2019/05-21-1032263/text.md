@@ -55,4 +55,58 @@ In artikel 27, 4°, van hetzelfde besluit, ingevoegd bij het ministerieel beslui
 
 ## HOOFDSTUK 2. Wijzigingen van het ministerieel besluit van 25 november 2016 tot uitvoering van het Vergunningsbesluit van 22 november 2013
 
+### ART 4.
+
+In hoofdstuk 2 van het ministerieel besluit van 25 november 2016 tot uitvoering van het Vergunningsbesluit van 22 november 2013 wordt afdeling 3, die bestaat uit onderafdeling 1, artikel 9, onderafdeling 2, artikel 10 en 11, en onderafdeling 3, artikel 12 tot en met 16, opgeheven.
+
+### ART 5.
+
+In bijlage 3 bij hetzelfde besluit, gewijzigd bij het ministerieel besluit van 11 oktober 2018, worden de volgende wijzigingen aangebracht :<br>
+<br>
+1° in punt 1.5, a), wordt de zinsnede ", uitgereikt vanaf september 2011" opgeheven;<br>
+<br>
+2° in punt 1.6 wordt punt a) vervangen door wat volgt:<br>
+"a) een attest dat bevestigt dat de graduaatsopleiding Orthopedagogie in het hoger onderwijs, inclusief vrijstellingen, met vrucht is voltooid;";<br>
+<br>
+3° in punt 1.7, a), wordt de zinsnede "Toegepaste Psychologie, Verpleegkunde" vervangen door de zinsnede "Toegepaste Psychologie, Verpleegkunde, Vroedkunde";<br>
+<br>
+4° in punt 1.7, b), wordt de zinsnede "vermeld in punt a)" vervangen door de zinsnede "vermeld in punt a), c), d) en e)";<br>
+<br>
+5° in punt 1.7 wordt punt d) vervangen door wat volgt :<br>
+"d) een diploma van een bachelor in de ergotherapie, een diploma van een bachelor in de revalidatiewetenschappen en kinesitherapie of een diploma van een bachelor in de audiologie en logopedie;";<br>
+<br>
+6° aan punt 1.8 wordt een punt f) toegevoegd, dat luidt als volgt :<br>
+"f) een attest dat bevestigt dat ofwel minstens twee derde van de modules van de graduaatsopleiding Orthopedagogie van het volwassenenonderwijs, inclusief vrijstellingen, met vrucht is voltooid, ofwel het eerste en het tweede studiejaar van de graduaatsopleiding Orthopedagogie in het volwassenenonderwijs met vrucht zijn voltooid.";<br>
+<br>
+7° aan rubriek 1 wordt een punt 1.9 toegevoegd, dat luidt als volgt :<br>
+"1.9 van een master of van het hoger onderwijs van verschillende cycli :<br>
+a) een masterdiploma of diploma van het hoger onderwijs van meer dan één cyclus van een afstudeerrichting die behoort tot het studiegebied Psychologie en Pedagogische Wetenschappen;<br>
+b) een masterdiploma of diploma van het hoger onderwijs van meer dan één cyclus, gecombineerd met een diploma van leraar, behaald vanaf het schooljaar 2007-2008;<br>
+c) een diploma van master in de verpleegkunde en de vroedkunde;<br>
+d) een diploma van master in de ergotherapeutische wetenschap of een diploma van master in de revalidatiewetenschappen en kinesitherapie;<br>
+e) een diploma van master of Medicine in de jeugdgezondheidszorg;<br>
+f) een diploma van master of Science in de logopedische en audiologische wetenschappen.";<br>
+<br>
+8° in punt 2.1 wordt de zinsnede "punt 1.7, a), c) en e)" vervangen door de zinsnede "punt 1.7, a), c), d) en e)";<br>
+<br>
+9° punt 2.2 wordt vervangen door wat volgt :<br>
+"2.2 een diploma als vermeld in punt 1.9;";<br>
+<br>
+10° punt 2.4 wordt opgeheven;<br>
+<br>
+11° punt 3.1 en 3.2 worden vervangen door wat volgt:<br>
+"3.1 een kwalificatiebewijs als vermeld in punt 1.1 tot en met 1.9.";<br>
+<br>
+12° in punt 6.4 worden tussen de woorden "een deelcertificaat van" en de woorden "een instantie" de woorden "een taalopleiding Nederlands aangeboden door" ingevoegd.
+
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 6.
+
+Artikel 2, 1°, heeft uitwerking met ingang van 1 januari 2017<br>
+<br>
+Artikel 2, 2°, heeft uitwerking met ingang van 1 januari 2018.<br>
+<br>
+Artikel 3 heeft uitwerking met ingang van 1 juli 2018.<br>
+<br>
+Artikel 1 heeft uitwerking met ingang van 1 januari 2019.

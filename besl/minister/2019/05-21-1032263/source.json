@@ -2,16 +2,16 @@
   "codex_id": 1032263,
   "title": "Ministerieel besluit van 2019-05-21 tot wijziging van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, wat betreft het opvragen van gegevens over de flexibele openingstijden en dringende kinderopvang en wat betreft het individuele verminderde tarief voor tienermoeders, en tot wijziging van het ministerieel besluit van 25 november 2016 tot uitvoering van het Vergunningsbesluit van 22 november 2013, wat betreft de kwalificaties",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032263/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "862c459e46a650a8287c8541cecbd70e575c3ca919e175141d570fb26f268174",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032263/VolledigDocument?datum=2019-09-28",
+  "source_sha256": "4de9e0c57f690688594afb1399b42df481a459295b17d6b1851756bbd8b3cb48",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032263&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2019-09-28",
   "made": "2019-05-21",
   "gazette": "2019-09-18",
   "numac": 2019014503,
   "document_start": "2019-09-28",
   "document_end": null,
-  "in_force": "2019-01-01",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-09-28",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2019-09-28; future article versions excluded; article text as the API gives it"
 }
