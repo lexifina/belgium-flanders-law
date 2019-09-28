@@ -141,99 +141,39 @@ Het bewijs van een kwalificerend traject, vermeld in artikel 43, § 2, eerste li
 
 ### ART 9.
 
-Voor de personen die onderdaan zijn van een andere lidstaat komen de volgende documenten in aanmerking als een bekwaamheidsattest als vermeld in artikel 2, 3, 4, 5 en 6, of als een opleidingstitel als vermeld in artikel 7 :<br>
-1° voor wie op wettige wijze gevestigd is in een andere lidstaat en tijdelijk en incidenteel als kinderbegeleider of als verantwoordelijke wil werken : een schriftelijke verklaring van de betrokken persoon;<br>
-2° voor wie houder is van een opleidingstitel of een bekwaamheidsattest dat op een wettige wijze is uitgereikt in een andere lidstaat, en voldoet aan de voorwaarden, vermeld in het tweede lid : een erkenning van de beroepskwalificatie door Kind en Gezin.<br>
-<br>
-Voor een erkenning van de beroepskwalificatie voldoet de persoon aan de volgende voorwaarden :<br>
-1° als het beroep in de lidstaat van oorsprong gereglementeerd is : de opleidingstitel of het bekwaamheidsattest geeft blijk van een beroepskwalificatieniveau als vermeld in bijlage 1, die bij dit besluit is gevoegd, dat vereist is voor toegang tot het beroep in de lidstaat van oorsprong;<br>
-2° als het beroep in de lidstaat van oorsprong niet gereglementeerd is : de persoon heeft in de voorafgaande tien jaar gedurende een jaar voltijds, of gedurende een periode op deeltijdbasis die in totaal daarmee overeenkomt, beroepservaring in het beroep in kwestie en beschikt over een opleidingstitel of bekwaamheidsattest, afgegeven door een autoriteit die bevoegd is in de lidstaat, dat aantoont dat de persoon voorbereid is op de uitoefening van het beroep.<br>
-&nbsp;
+...
 
 ## Onderafdeling 2 [... (opgeh. MB 21 mei 2019, art. 4, I: 28 september 2019)]
 
 ### ART 10.
 
-De schriftelijke verklaring, vermeld in artikel 9, eerste lid, 1°, bevat de volgende gegevens over de betrokken persoon :<br>
-1° de voornaam, de achternaam en de contactgegevens;<br>
-2° de nationaliteit;<br>
-3° het beroep waarvoor hij in de lidstaat van vestiging op een wettige wijze gevestigd is en het beroep dat hij wil uitoefenen;<br>
-4° informatie over de professionele aansprakelijkheidsverzekering, meer bepaald de verzekeringsmaatschappij en het polisnummer;<br>
-5° de vermelding of het een eerste schriftelijke verklaring in België betreft, of er al een schriftelijke verklaring in België is, het een jaarlijkse vernieuwing van de schriftelijke verklaring is of een schriftelijke verklaring naar aanleiding van wezenlijke veranderingen ten opzichte van een vorige schriftelijke verklaring is.<br>
-<br>
-Bij de schriftelijke verklaring worden de volgende documenten over de betrokken persoon toegevoegd :<br>
-1° het bewijs van nationaliteit;<br>
-2° het bewijs van beroepskwalificaties;<br>
-3° als het beroep in het land van vestiging niet gereglementeerd is, een bewijs dat de persoon het beroep in de tien voorafgaande jaren gedurende ten minste één jaar heeft uitgeoefend op het grondgebied van een of meer lidstaten;<br>
-4° een attest waarin wordt bevestigd dat de persoon geen tijdelijk of permanent beroepsverbod heeft of niet strafrechtelijk is veroordeeld;<br>
-5° een attest dat de persoon in de lidstaat van vestiging op wettige wijze gevestigd is om er als verantwoordelijke of als kinderbegeleider te werken.<br>
-&nbsp;
+...
 
 ### ART 11.
 
-Uiterlijk een maand na de ontvangst van de schriftelijke verklaring en de documenten, vermeld in artikel 10, deelt Kind en Gezin aan de betrokken persoon een van de volgende zaken mee :<br>
-1° de beroepskwalificatie wordt niet gecontroleerd;<br>
-2° Kind en Gezin neemt na controle een van de volgende beslissingen :<br>
-a) de betrokken persoon moet een proeve van bekwaamheid afleggen;<br>
-b) de betrokken persoon kan de diensten verrichten;<br>
-3° er is vertraging en de reden ervan wordt gegeven. In dat geval neemt Kind en Gezin een beslissing uiterlijk twee maanden na de verwittiging van de vertraging;<br>
-4° de persoon valt niet onder het toepassingsgebied van de richtlijn.<br>
-&nbsp;
+...
 
 ## Onderafdeling 3 [... (opgeh. MB 21 mei 2019, art. 4, I: 28 september 2019)]
 
 ### ART 12.
 
-Bij de aanvraag van de erkenning, vermeld in artikel 9, eerste lid, 2°, worden de volgende documenten over de betrokken persoon toegevoegd :<br>
-1° het bewijs van nationaliteit;<br>
-2° het bewijs van beroepskwalificaties;<br>
-3° als dat van toepassing is, de documenten die relevante beroepservaring kunnen aantonen;<br>
-4° een attest waarin wordt bevestigd dat de persoon geen tijdelijk of permanent beroepsverbod heeft of niet strafrechtelijk is veroordeeld.<br>
-&nbsp;
+...
 
 ### ART 13.
 
-Kind en Gezin kan de afgifte van de erkenning van de beroepskwalificatie afhankelijk stellen van het voldoen aan compenserende maatregelen als de volgende vaststellingen worden gedaan :<br>
-1° de opleiding die de aanvrager heeft gevolgd, heeft betrekking op vakken die wezenlijk verschillen van die welke vereist zijn voor de bekwaamheidsattesten en de opleidingstitels, vermeld in artikel 2 tot en met 7;<br>
-2° het beroep van kinderbegeleider of van verantwoordelijke omvat een of meer gereglementeerde beroepswerkzaamheden die niet bestaan in het overeenkomstige beroep in de lidstaat van oorsprong van de aanvrager, en er is een opleiding voor vereist die betrekking heeft op vakken die wezenlijk verschillen van die welke vallen onder het bekwaamheidsattest of de opleidingstitel die de aanvrager voorlegt.<br>
-<br>
-De compenserende maatregelen worden nader uitgewerkt door Kind en Gezin, en bestaan uit hetzij een aanpassingsstage van ten hoogste drie jaar, hetzij een proeve van bekwaamheid, volgens de keuze van de aanvrager.<br>
-<br>
-In afwijking van het tweede lid, kan Kind en Gezin bepalen welke compenserende maatregel wordt opgelegd in de volgende gevallen :<br>
-1° de aanvrager beschikt over een bekwaamheidsattest van het niveau, vermeld in punt 1 van bijlage 1, die bij dit besluit is gevoegd, terwijl dit besluit een beroepskwalificatie van het niveau, vermeld in punt 3 van bijlage 1, die bij dit besluit is gevoegd, oplegt;<br>
-2° de aanvrager beschikt over een certificaat ter afsluiting van een cyclus secundair onderwijs als vermeld in punt 2 van bijlage 1, die bij dit besluit is gevoegd, terwijl dit besluit een beroepskwalificatie van het niveau, vermeld in punt 4 of 5 van bijlage 1, die bij dit besluit is gevoegd, oplegt.<br>
-<br>
-Als de aanvrager beschikt over een bekwaamheidsattest van het niveau, vermeld in punt 1 van bijlage 1, die bij dit besluit is gevoegd, terwijl dit besluit een diploma als vermeld in punt 4 van bijlage 1, die bij dit besluit is gevoegd, oplegt, kan Kind en Gezin beslissen om beide compenserende maatregelen gecombineerd op te leggen.<br>
-&nbsp;
+...
 
 ### ART 14.
 
-Kind en Gezin bezorgt uiterlijk een maand na de ontvangst van de aanvraag van de erkenning van de beroepskwalificatie een ontvangstmelding aan de aanvrager.<br>
-<br>
-Kind en Gezin kan het volgende vragen :<br>
-1° aan de aanvrager of aan de bevoegde autoriteit van de lidstaat in kwestie : aanvullende informatie of documenten;<br>
-2° als de relevante documenten niet in het Nederlands zijn opgesteld, een vertaling van die documenten door een beëdigde vertaler die gevestigd is in een lidstaat.<br>
-&nbsp;
+...
 
 ### ART 15.
 
-Kind en Gezin neemt uiterlijk vier maanden na de ontvangst van de volledige aanvraag van de erkenning van de beroepskwalificatie een van de volgende beslissingen :<br>
-1° een beslissing tot goedkeuring van de aanvraag, zijnde een beslissing tot erkenning van de beroepskwalificatie;<br>
-2° een beslissing tot weigering van de aanvraag om een van de volgende redenen :<br>
-a) de toepassingsvoorwaarden, vermeld in artikel 9, zijn niet vervuld;<br>
-b) de aanvrager moet nog aangeduide tekorten wegwerken via de compenserende maatregelen, vermeld in artikel 13.<br>
-<br>
-De beslissing tot erkenning van de beroepskwalificatie bevat de volgende gegevens over de betrokken persoon :<br>
-1° de voornaam, de achternaam, de geboorteplaats en de geboortedatum;<br>
-2° de redenen waarom de aanvrager al dan niet voldoet aan de voorwaarden van de richtlijn.<br>
-Kind en Gezin informeert de aanvrager.<br>
-<br>
-Als Kind en Gezin geen beslissing heeft genomen of de aanvrager daarvan niet op de hoogte heeft gebracht binnen de termijnen die van toepassing zijn, wordt de aanvraag van een erkenning van beroepskwalificaties geacht toegekend te zijn, op voorwaarde dat de aanvrager een ontvangstmelding van Kind en Gezin heeft ontvangen.<br>
-&nbsp;
+...
 
 ### ART 16.
 
-De beslissing tot erkenning van de beroepskwalificatie kan ingetrokken worden als Kind en Gezin vaststelt dat de beslissing is afgeleverd op basis van foute of onvolledige gegevens of documenten.
+...
 
 ## HOOFDSTUK 4 Voorwaarden voor een veilig bed
 
@@ -311,7 +251,33 @@ Het ministerieel besluit van 27 februari 2014 ter uitvoering van artikel 8, 11, 
 "g) een diploma van het beroepssecundair onderwijs, een bewijs van onderwijskwalificatie "kinderbegeleider duaal" niveau 4 van de Vlaamse kwalificatiestructuur en niveau 4 van het Europese kwalificatiekader, met inbegrip van de beroepskwalificatie "kinderbegeleider baby's en peuters" niveau 4 van de Vlaamse kwalificatiestructuur en de beroepskwalificatie "kinderbegeleider schoolgaande kinderen" niveau 4 van de Vlaamse kwalificatiestructuur;<br>
 h) een studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs, georganiseerd in de vorm van een specialisatiejaar, een bewijs van onderwijskwalificatie "kinderbegeleider duaal" niveau 4 van de Vlaamse kwalificatiestructuur en niveau 4 van het Europese kwalificatiekader, met inbegrip van de beroepskwalificatie "kinderbegeleider baby's en peuters" niveau 4 van de Vlaamse kwalificatiestructuur en de beroepskwalificatie "kinderbegeleider schoolgaande kinderen" niveau 4 van de Vlaamse kwalificatiestructuur;<br>
 i) een certificaat, een bewijs van beroepskwalificatie "kinderbegeleider baby's en peuters" niveau 4 van de Vlaamse kwalificatiestructuur en niveau 4 van het Europese kwalificatiekader;<br>
-j) uitgereikt tot en met december 2021: een diploma van het ondernemerschapstraject kinderbegeleider baby's en peuters, uitgereikt door SYNTRA Vlaanderen;" (Zie MB 11 oktober 2018, art. 2, I: 1 juli 2018).
+j) uitgereikt tot en met december 2021: een diploma van het ondernemerschapstraject kinderbegeleider baby's en peuters, uitgereikt door SYNTRA Vlaanderen;" (Zie MB 11 oktober 2018, art. 2, I: 1 juli 2018).<br>
+<br>
+* Met ingang van 28 september 2019 worden de volgende wijzigingen aangebracht:<br>
+"1° in punt 1.5, a), wordt de zinsnede ", uitgereikt vanaf september 2011" opgeheven;<br>
+2° in punt 1.6 wordt punt a) vervangen door wat volgt:<br>
+"a) een attest dat bevestigt dat de graduaatsopleiding Orthopedagogie in het hoger onderwijs, inclusief vrijstellingen, met vrucht is voltooid;";<br>
+3° in punt 1.7, a), wordt de zinsnede "Toegepaste Psychologie, Verpleegkunde" vervangen door de zinsnede "Toegepaste Psychologie, Verpleegkunde, Vroedkunde";<br>
+4° in punt 1.7, b), wordt de zinsnede "vermeld in punt a)" vervangen door de zinsnede "vermeld in punt a), c), d) en e)";<br>
+5° in punt 1.7 wordt punt d) vervangen door wat volgt :<br>
+"d) een diploma van een bachelor in de ergotherapie, een diploma van een bachelor in de revalidatiewetenschappen en kinesitherapie of een diploma van een bachelor in de audiologie en logopedie;";<br>
+6° aan punt 1.8 wordt een punt f) toegevoegd, dat luidt als volgt :<br>
+"f) een attest dat bevestigt dat ofwel minstens twee derde van de modules van de graduaatsopleiding Orthopedagogie van het volwassenenonderwijs, inclusief vrijstellingen, met vrucht is voltooid, ofwel het eerste en het tweede studiejaar van de graduaatsopleiding Orthopedagogie in het volwassenenonderwijs met vrucht zijn voltooid.";<br>
+7° aan rubriek 1 wordt een punt 1.9 toegevoegd, dat luidt als volgt :<br>
+"1.9 van een master of van het hoger onderwijs van verschillende cycli :<br>
+a) een masterdiploma of diploma van het hoger onderwijs van meer dan één cyclus van een afstudeerrichting die behoort tot het studiegebied Psychologie en Pedagogische Wetenschappen;<br>
+b) een masterdiploma of diploma van het hoger onderwijs van meer dan één cyclus, gecombineerd met een diploma van leraar, behaald vanaf het schooljaar 2007-2008;<br>
+c) een diploma van master in de verpleegkunde en de vroedkunde;<br>
+d) een diploma van master in de ergotherapeutische wetenschap of een diploma van master in de revalidatiewetenschappen en kinesitherapie;<br>
+e) een diploma van master of Medicine in de jeugdgezondheidszorg;<br>
+f) een diploma van master of Science in de logopedische en audiologische wetenschappen.";<br>
+8° in punt 2.1 wordt de zinsnede "punt 1.7, a), c) en e)" vervangen door de zinsnede "punt 1.7, a), c), d) en e)";<br>
+9° punt 2.2 wordt vervangen door wat volgt :<br>
+"2.2 een diploma als vermeld in punt 1.9;";<br>
+10° punt 2.4 wordt opgeheven;<br>
+11° punt 3.1 en 3.2 worden vervangen door wat volgt:<br>
+"3.1 een kwalificatiebewijs als vermeld in punt 1.1 tot en met 1.9.";<br>
+12° in punt 6.4 worden tussen de woorden "een deelcertificaat van" en de woorden "een instantie" de woorden "een taalopleiding Nederlands aangeboden door" ingevoegd." (Zie MB 21 mei 2019, art. 5, I: 28 september 2019).
 
 ## BIJLAGE 4
 
