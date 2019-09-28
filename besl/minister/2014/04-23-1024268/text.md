@@ -218,7 +218,9 @@ De einddatum, vermeld op het attest inkomenstarief, is de laatste dag van het ka
 Voor de berekening van het inkomenstarief wordt het inkomen als volgt vermenigvuldigd met een coëfficiënt:<br>
 1° voor een inkomen tot en met 41.774,97 euro wordt het inkomen vermenigvuldigd met 0,000385. Het verkregen tarief wordt geplafonneerd op 16,11 euro;<br>
 2° voor een inkomen van 41.774,98 euro tot en met 59.772,14 euro wordt het inkomen vermenigvuldigd met 0,000380. Het verkregen tarief wordt geplafonneerd op 20,95 euro;<br>
-3° voor een inkomen van 59.772,15 euro of hoger wordt het tarief van 20,95 euro per begonnen inkomensschijf van 3700 euro, gerekend vanaf 59.772,15, verhoogd met 0,60 euro. Het bekomen tarief wordt geplafonneerd op het maximaal tarief, vermeld in artikel 27.
+3° voor een inkomen van 59.772,15 euro of hoger wordt het tarief van 20,95 euro per begonnen inkomensschijf van 3700 euro, gerekend vanaf 59.772,15, verhoogd met 0,60 euro. Het bekomen tarief wordt geplafonneerd op het maximaal tarief, vermeld in artikel 27.<br>
+<br>
+Het maximumbedrag, vermeld in artikel 25, 1°, is nooit hoger dan het minimumbedrag, vermeld in artikel 25, 2°.
 
 ### ART. 26.
 
