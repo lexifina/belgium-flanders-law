@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032270,
+  "title": "Besluit van de Vlaamse Regering van 2019-06-07 tot aanpassing van de regelgeving betreffende het vervoer van gevaarlijke goederen over de weg aan de wetenschappelijke en technische vooruitgang",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032270/VolledigDocument?datum=2019-09-29",
+  "source_sha256": "ce92cd8e0c99d6cbe21dac40958d5e29bbd5043b8d73c71a971024db2286f9ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032270&param=informatie",
+  "as_of": "2019-09-29",
+  "made": "2019-06-07",
+  "gazette": "2019-09-19",
+  "numac": 2019014425,
+  "document_start": "2019-09-29",
+  "document_end": null,
+  "in_force": "2019-09-29",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2019-09-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
