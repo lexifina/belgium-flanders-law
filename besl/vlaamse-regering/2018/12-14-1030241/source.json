@@ -2,16 +2,16 @@
   "codex_id": 1030241,
   "title": "Besluit van de Vlaamse Regering van 2018-12-14 houdende opheffing van reservatiestroken die in overdruk zijn afgebakend in gewestplannen of algemene plannen van aanleg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030241/VolledigDocument?datum=2019-02-18",
-  "source_sha256": "a5e57ef03ad09bdbfb28a343d9b023fd859d47179846aa7c6c9ba666964d8df9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030241/VolledigDocument?datum=2019-09-30",
+  "source_sha256": "3e6bc0b21b144cf06be6a6559227fb9b2cdd3b9cb2d6d300d953ba7c129dff4f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030241&param=informatie",
-  "as_of": "2019-02-18",
+  "as_of": "2019-09-30",
   "made": "2018-12-14",
   "gazette": "2019-02-08",
   "numac": 2019040214,
   "document_start": "2019-02-18",
   "document_end": null,
-  "in_force": "2019-02-18",
+  "in_force": "2019-09-30",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2019-02-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-09-30; future article versions excluded; article text as the API gives it"
 }

@@ -116,7 +116,7 @@ In de provincie Oost-Vlaanderen:<br>
 - De sluizen op de Boven-Schelde (OVL_34_01, OVL_34_02 en OVL_34_03)<br>
 - N460 Schendelbeke (OVL_37)<br>
 In de provincie Vlaams-Brabant:<br>
-- Het Kanaal Brussel-Charleroi (VLB_01_02 en VLB_02_03)<br>
+- Het Kanaal Brussel-Charleroi (VLB_01_02)<br>
 - A2/E314 (VLB_04_02 en VLB_04_04)<br>
 - Spoorweg Geetbets (VLB_05)<br>
 - De aanleg van de R27 (VLB_09_01)<br>
@@ -221,7 +221,7 @@ Overwegende dat volgende reservatiestroken worden opgeheven aangezien een andere
 6. Beperking van de breedte<br>
 <br>
 Overwegende dat volgende reservatiestroken aan reeds gerealiseerde spoorwegen worden opgeheven aangezien deze breder zijn dan nodig voor eventuele aanpassingenwerken of verbredingen; dat het meer specifiek een gedeeltelijke opheffing van de reservatiestrook betreft door een beperking van de breedte ervan:<br>
-- De spoorweg Brussel- Rijsel (Halle) (VLB_02_01, VLB_02_03 en VLB_01_03)<br>
+- De spoorweg Brussel- Rijsel (Halle) (VLB_02_01 en VLB_02_03)<br>
 - De HSL Brussel - Luik (VLB_03_01)<br>
 - De spoorlijn Brussel - Hasselt (bocht) en de HSL Brussel-Luik (VLB_03_05)<br>
 - De HSL Brussel - Luik (VLB_03_06 en VLB_03_08)<br>
@@ -232,7 +232,7 @@ Overwegende dat volgende reservatiestroken aan reeds gerealiseerde spoorwegen wo
 - Overwegende dat de reservatiestrook voor de aanleg van de N47 tussen N407 en Eksaardebaan (OVL_19) wordt opgeheven aangezien de infrastructuur ten zuiden van de N70 reeds gerealiseerd is en de reservatiestrook voor dit gedeelte derhalve kan opgeheven worden; dat ook het gedeelte van de reservatiestrook ten noorden van de N70 kan opgeheven worden aangezien er geen plannen zijn voor de realisatie van dit gedeelte van de infrastructuur; dat de in het vigerende plan van aanleg aangeduide aan te leggen lijnelement dat gekoppeld is aan deze reservatiestrook, eveneens wordt opgeheven;<br>
 - Overwegende dat de reservatiestrook van de N464 Herzele (OVL_28) kan opgeheven worden vermits een BPA deze strook de facto heeft herbestemd, maar dat een BPA het gewestplan enkel kan verfijnen en niet kan wijzigen; dat deze strook wordt opgeheven om meer rechtszekerheid te geven aan het betreffende BPA;<br>
 <br>
-- Overwegende dat delen van de reservatiestroken voor het Schipdonkkanaal (OVL_02_01, OVL_02_02, WVL_50_01 en WVL_50_02) worden opgeven aangezien uit een nautische analyse over de nautische behoeften bij een opwaardering van het Afleidingskanaal kan worden geconcludeerd dat delen van de huidige reservatiestrook niet nodig zijn voor een eventuele realisatie; dat deze delen worden opgeheven;<br>
+- Overwegende dat delen van de reservatiestroken voor het Schipdonkkanaal (OVL_02_01, OVL_02_02, WVL_50_03 en WVL_50_04) worden opgeven aangezien uit een nautische analyse over de nautische behoeften bij een opwaardering van het Afleidingskanaal kan worden geconcludeerd dat delen van de huidige reservatiestrook niet nodig zijn voor een eventuele realisatie; dat deze delen worden opgeheven;<br>
 <br>
 - Overwegende dat de reservatiestrook voor de Havengeul Nieuwpoort (WVL_06_01) voorzien was om een verbreding van de IJzermonding op linkeroever mogelijk te maken; dat deze behoefte ondertussen achterhaald is; dat vigerende gewestplanbestemming garandeert dat de zone bouwvrij blijft; dat de reservatiestrook derhalve kan opgeheven worden;<br>
 <br>
