@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032709,
+  "title": "Besluit van de Vlaamse Regering van 2020-02-07 houdende toevoeging van de lokale dienstencentra die onder het paritair comité 330 vallen in het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032709/VolledigDocument?datum=2019-10-01",
+  "source_sha256": "934a64fae3982b6c12a00fb6b771a53c53f029f69c67fd4769ec01315caabcc2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032709&param=informatie",
+  "as_of": "2019-10-01",
+  "made": "2020-02-07",
+  "gazette": "2020-03-10",
+  "numac": 2020020448,
+  "document_start": "2019-10-01",
+  "document_end": null,
+  "in_force": "2019-10-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
