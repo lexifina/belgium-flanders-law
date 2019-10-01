@@ -22,10 +22,9 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br>
 3° titel I van het Vlarem : het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning;<br>
 4° titel II van het Vlarem : het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
 5° de toezichthouder : de toezichthouder, vermeld in het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, die het toezicht uitoefent op de toepassing van de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging;<br>
-6° stooktoestel : technisch toestel waarin vaste, vloeibare of gasvormige brandstof verbrand wordt om de gegenereerde warmte te gebruiken voor ruimteverwarming&nbsp;en optioneel&nbsp;voor de aanmaak van warm verbruikswater;
-<p style="text-align: justify;">7° stooktoestel aangesloten als type B (open stooktoestel): een stooktoestel&nbsp; aangesloten op een rookgasafvoerkanaal, waarbij de verbrandingslucht ontnomen wordt uit het stooklokaal;<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
-
-<p style="text-align: justify;">8° stooktoestel aangesloten als type C (gesloten stooktoestel): een stooktoestel, waarvan de verbrandingskamer gesloten is ten opzichte van het stooklokaal. De leidingen voor de aanvoer van de verbrandingslucht en de afvoer van de rookgassen en het eindstuk vormen een geheel met het toestel;</p>
+6° stooktoestel : technisch toestel waarin vaste, vloeibare of gasvormige brandstof verbrand wordt om de gegenereerde warmte te gebruiken voor ruimteverwarming&nbsp;en optioneel&nbsp;voor de aanmaak van warm verbruikswater;<br>
+<span style="text-align:justify">7° stooktoestel aangesloten als type B (open stooktoestel): een stooktoestel&nbsp; aangesloten op een rookgasafvoerkanaal, waarbij de verbrandingslucht ontnomen wordt uit het stooklokaal;</span><br>
+<span style="text-align:justify">8° stooktoestel aangesloten als type C (gesloten stooktoestel): een stooktoestel, waarvan de verbrandingskamer gesloten is ten opzichte van het stooklokaal. De leidingen voor de aanvoer van de verbrandingslucht en de afvoer van de rookgassen en het eindstuk vormen een geheel met het toestel;</span><br>
 9° centraal stooktoestel : een stooktoestel met een centrale stookketel, en, optioneel, een aparte brander, waarbij de gegenereerde warmte via een geleid en gekanaliseerd transportsysteem gedistribueerd wordt naar meerdere, afzonderlijke ruimten waar deze warmte aangewend wordt om het binnenklimaat van de betreffende ruimte te conditioneren en, optioneel, naar een voorziening voor de productie van warm verbruikswater;<br>
 10° nieuw centraal stooktoestel : een centraal stooktoestel dat na de inwerkingtreding van dit besluit een van onderstaande handelingen heeft ondergaan :<br>
 a) het stooktoestel werd voor het eerst in gebruik genomen;<br>
@@ -59,22 +58,21 @@ Bij tegenstrijdigheden is de opgegeven volgorde bepalend;<br>
 29° erkend opleidingscentrum gasvormige brandstof : een opleidingscentrum erkend volgens het besluit van de Vlaamse Regering tot vaststelling van het Vlaams reglement van 19 november 2010 inzake erkenningen met betrekking tot het leefmilieu, voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake gasvormige brandstof;<br>
 30° erkende technicus verwarmingsaudit : een technicus erkend volgens het besluit van de Vlaamse Regering tot vaststelling van het Vlaams reglement van 19 november 2010 inzake erkenningen met betrekking tot het leefmilieu, voor het uitvoeren van een verwarmingsaudit;<br>
 31° erkend opleidingscentrum verwarmingsaudit : een opleidingscentrum erkend volgens het besluit van de Vlaamse Regering tot vaststelling van het Vlaams reglement van 19 november 2010 inzake erkenningen met betrekking tot het leefmilieu, voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de verwarmingsaudit;<br>
-32° reinigingsattest : het attest overeenkomstig het toepasselijke model in bijlage III bij dit besluit, dat opgemaakt wordt na het beëindigen van de reinigingsbeurt van het stooktoestel of het rookgasafvoerkanaal;<br>
-33° verbrandingsattest : het attest overeenkomstig het toepasselijke model in bijlage III bij dit besluit, dat opgemaakt wordt na de verbrandingscontrole van een stooktoestel;<br>
-34° keuringsrapport : verslag van de keuring voor de eerste ingebruikname van een nieuw centraal stooktoestel, dat minstens de toepasselijke gegevens uit bijlage III bij dit besluit bevat;<br>
+32° reinigingsattest: het attest dat opgemaakt wordt na het beëindigen van de reinigingsbeurt van het centrale stooktoestel of het rookgasafvoerkanaal;<br>
+33° verbrandingsattest: het attest dat opgemaakt wordt na de verbrandingscontrole van het centrale stooktoestel;<br>
+34° keuringsrapport: het rapport dat opgemaakt wordt na de keuring voor de eerste ingebruikname van het centrale stooktoestel;<br>
 35° verwarmingsauditrapport : verslag van de verwarmingsaudit van de gehele verwarmingsinstallatie, dat een beoordeling van het rendement van de ketel en van de ketelgrootte vergeleken met de verwarmingsbehoeften van het gebouw bevat, alsook het advies over vervanging van de ketel, over andere wijzigingen van het verwarmingssysteem en alternatieve oplossingen die een significante energiebesparing kunnen realiseren;<br>
 36° ...;<br>
 37° schoorsteenveger : persoon, die vakbekwaam is in het reinigen en controleren van het rookgasafvoerkanaal van een stooktoestel;<br>
 38° geschoolde vakman : persoon die vakbekwaam is in het onderhouden van een centraal stooktoestel, gevoed met vaste brandstof;<br>
 39° energieaudit : audit uitgevoerd conform het besluit van de Vlaamse Regering van 11 januari 2008 houdende de invoering van het energieprestatiecertificaat residentiële gebouwen bij verkoop en verhuur en de uitvoering van de energieaudit;<br>
 40° gebouw : een overdekte constructie met muren waarvoor energie gebruikt wordt om het binnenklimaat te regelen;<br>
-41° nominaal vermogen : het maximale verwarmingsvermogen, uitgedrukt in kW, dat door de fabrikant voor continu gebruik is aangegeven en gegarandeerd, waarbij het door hem aangegeven nuttig rendement wordt gehaald.
-<p style="text-align: justify;">42° niet-premix gasbrander: brander waarbij slechts een deel van de verbrandingslucht gemengd wordt met de gasvormige brandstof voor aanvang van de verbranding;</p>
-
-<p style="text-align: justify;">43° premix gasbrander: brander waarbij alle verbrandingslucht gemengd wordt met de gasvormige brandstof vóór aanvang van de verbranding;</p>
-
-<p style="text-align: justify;">44° gasketel met ventilatorbrander: gasketel met brander die los van de verwarmingsketel verkocht mag worden, waarbij de verbrandingslucht wordt aangevoerd met behulp van een ventilator, en die beantwoordt aan de norm EN 676;</p>
-45° gasunit: centraal stooktoestel met een door de fabrikant ingestelde niet-premix gasbrander of premix gasbrander, waarbij de delen van het geheel onlosmakelijk met elkaar verbonden zijn.
+41° nominaal vermogen : het maximale verwarmingsvermogen, uitgedrukt in kW, dat door de fabrikant voor continu gebruik is aangegeven en gegarandeerd, waarbij het door hem aangegeven nuttig rendement wordt gehaald.<br>
+<span style="text-align:justify">42° niet-premix-brander: een brander waarbij maar een deel van de verbrandingslucht gemengd wordt met de brandstof vóór de aanvang van de verbranding;</span><br>
+<span style="text-align:justify">43° premix-brander: een brander waarbij alle verbrandingslucht gemengd wordt met de brandstof vóór de aanvang van de verbranding;</span><br>
+<span style="text-align:justify">44° ketel met ventilatorbrander: een ketel met brander die los van de verwarmingsketel verkocht mag worden, waarbij de verbrandingslucht wordt aangevoerd met behulp van een ventilator. De ketel beantwoordt aan de norm EN 676 voor gasvormige brandstoffen en aan de norm EN 267 voor vloeibare brandstoffen;</span><br>
+<span style="text-align:justify">45° toestel type B1: toestel type B uitgerust met een valwindafleider/trekonderbreker, dat zijn verbrandingslucht haalt uit het lokaal waar het geplaatst is en dat aangesloten dient te worden op een leiding voor de afvoer voor verbrandingsgassen met natuurlijke trek.</span><br>
+.
 
 ### ART. 3.
 
@@ -87,47 +85,24 @@ Wijzigingsbevoegdheid<br /><br />De minister kan de bepalingen opgenomen in de b
 <p>Goede en veilige staat van werking van een centraal stooktoestel, gevoed met vloeibare brandstof<br>
 <br>
 § 1. Een centraal stooktoestel, gevoed met vloeibare brandstof, wordt geacht in goede staat van werking te zijn, indien het zo is afgesteld dat :<br>
-1° geen zichtbaar oliespoor aanwezig is op het filtreerpapier dat gebruikt wordt bij de bepaling van de rookindex van de rookgassen;<br>
+1° geen spoor van brandstof, rokende roetdeeltjes of samengeklonterde gesuspendeerde deeltjes zichtbaar is op het filterpapier dat gebruikt wordt om de rookindex van de verbrandingsgassen te bepalen, wat kan blijken uit een gele verkleuring van het filterpapier of een afzetting van zwarte deeltjes;<br>
 2° in het rookgasafvoerkanaal geen condensatie optreedt, tenzij het ervoor is voorzien;<br>
-3° voldaan is aan de in de volgende tabel weergegeven eisen voor de rookindex van de rookgassen, het gehalte aan koolstofdioxide (CO2) van de rookgassen, het gehalte aan koolstofmonoxide (CO) van de rookgassen, het verbrandingsrendement en het gehalte aan zuurstof (O2) in de rookgassen. De metingen moeten worden uitgevoerd wanneer het toestel op bedrijfstemperatuur is.&nbsp;</p>
+3° voldaan is aan de in de volgende tabel weergegeven eisen voor de rookindex van de rookgassen, het gehalte aan koolstofmonoxide (CO) van de rookgassen en het verbrandingsrendement op basis van de onderste verbrandingswaarde van de brandstof (Hi). De metingen moeten worden uitgevoerd wanneer het toestel op bedrijfstemperatuur is.<br>
+&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="width:386.7pt">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-color:black windowtext">
-			<p>Maximale rookindex (Bacharach)</p>
-			</td>
-			<td style="background-color:transparent; border-color:black windowtext">
-			<p>Minimaal CO<sub>2</sub>-gehalte (%)</p>
-			</td>
-			<td style="background-color:transparent; border-color:black windowtext">
-			<p>Maximaal CO-gehalte (mg/kWh)</p>
-			</td>
-			<td style="background-color:transparent; border-color:black windowtext">
-			<p>Minimaal Verbrandings rendement (%)</p>
-			</td>
-			<td style="background-color:transparent; border-color:black windowtext">
-			<p>Maximaal O<sub>2</sub>-gehalte (%)</p>
-			</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;maximale rookindex (Bacharach)</td>
+			<td>maximaal CO-gehalte (mg/kWh)</td>
+			<td>minimaal verbrandingsrendement (H<sub>i</sub>) (%)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:black windowtext">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-color:black windowtext">
-			<p>12</p>
-			</td>
-			<td style="background-color:transparent; border-color:black windowtext">
-			<p>155</p>
-			</td>
-			<td style="background-color:transparent; border-color:black windowtext">
-			<p>90</p>
-			</td>
-			<td style="background-color:transparent; border-color:black windowtext">
-			<p>4,4</p>
-			</td>
+			<td>centraal stooktoestel gevoed met vloeibare brandstof</td>
+			<td>1</td>
+			<td>150</td>
+			<td>90</td>
 		</tr>
 	</tbody>
 </table>
@@ -136,11 +111,9 @@ Wijzigingsbevoegdheid<br /><br />De minister kan de bepalingen opgenomen in de b
 
 <p>De berekening van het gehalte aan koolstofmonoxide (CO) gebeurt zoals aangegeven in bijlage II bij dit besluit.<br>
 <br>
-Indien het bouwjaar van het centraal stooktoestel niet bepaald kan worden op de wijze beschreven in de definitie onder artikel 2, 20°, dan wordt het centrale stooktoestel ingedeeld in de eerste groep (gebouwd vóór 1/1/1988).<br>
-<br>
 §2. Een centraal stooktoestel aangesloten als type B, gevoed met vloeibare brandstof, wordt geacht in veilige staat van werking te zijn als:</p>
 
-<p>1° het rookgasafvoerkanaal volgens de code van goede praktijk geplaatst werd en in het rookgasafvoerkanaal steeds voldoende lage druk heerst voor een vlotte afvoer van de rookgassen. Voor centrale stooktoestellen waarbij de rookgassen worden afgevoerd op basis van natuurlijke trek betekent dit een druk van minstens -5 Pa bij werking bij normale weersomstandigheden;</p>
+<p>1° het rookgasafvoerkanaal volgens de code van goede praktijk geplaatst werd en de goede werking ervan altijd verzekerd is, en in het rookgasafvoerkanaal steeds voldoende lage druk heerst voor een vlotte afvoer van de rookgassen. Voor centrale stooktoestellen waarbij de rookgassen worden afgevoerd op basis van natuurlijke trek betekent dit een druk van minstens -5 Pa bij werking bij normale weersomstandigheden;</p>
 
 <p>2° het stooklokaal voldoende verlucht is en er voldoende aanvoer is van verbrandingslucht. Voor stooktoestellen met een vermogen kleiner dan 70 kW betekent dit een lage en hoge verluchting met een nuttige (onbelemmerde) oppervlakte van respectievelijk minstens 3 cm²/kW nominaal geïnstalleerd stooktoestelvermogen en 1 cm²/kW nominaal geïnstalleerd stooktoestelvermogen, welke beiden niet kleiner mogen zijn dan 50 cm², als er geen andere waarden bepaald zijn in de code van goede praktijk. Voor stooktoestellen met een vermogen groter dan of gelijk aan 70 kW betekent dit een verluchting met een nuttige (onbelemmerde) oppervlakte van minstens 150 cm² per 17,5 kW nominaal geïnstalleerd stooktoestelvermogen, als er geen andere waarde bepaald is in de code van goede praktijk.</p>
 
@@ -158,322 +131,36 @@ Indien het bouwjaar van het centraal stooktoestel niet bepaald kan worden op de 
 <br>
 § 1. Een centraal stooktoestel gevoed met gasvormige brandstof, wordt geacht in goede staat van werking te zijn als het zo afgesteld is dat :<br>
 1° er geen condensatie optreedt in het rookgasafvoerkanaal, tenzij het ervoor is voorzien;<br>
-2° voldaan is aan de in de volgende tabel weergegeven eisen voor de temperatuur van de rookgassen, het gehalte aan koolstofmonoxide (CO) in de rookgassen en het verbrandingsrendement. De metingen moeten worden uitgevoerd wanneer het toestel op bedrijfstemperatuur is.<br>
-</p>
+2° voldaan is aan de in de volgende tabel weergegeven eisen voor het gehalte aan koolstofmonoxide (CO) in de rookgassen en het verbrandingsrendement op basis van de onderste verbrandingswaarde van de brandstof (H<sub>i</sub>). De metingen worden uitgevoerd wanneer het toestel op bedrijfstemperatuur is.<br>
+&nbsp;</p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="width:521pt">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent">
-			<p>Centraal stooktoestel gevoed met gasvormige brandstof</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>Benaming (eenheid)</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>Maximale rookgastemperatuur (°C)</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>Maximaal CO-gehalte (mg/kWh)</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>Minimaal verbrandings rendement (%)</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>Minimaal CO<sub>2</sub>-gehalte (%)</p>
-			</td>
+			<td>centraal stooktoestel gevoed met gasvormige brandstof</td>
+			<td>maximaal CO-gehalte (mg/kWh)</td>
+			<td>minimaal verbrandingsrendement (H<sub>i</sub>) (%)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>Categorie gastoestel</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>Bouwjaar</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
+			<td>B1-toestellen</td>
+			<td>150</td>
+			<td>88</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; height:10.5pt">
-			<p>Tot 1 januari 2018</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent">
-			<p>Gasketel met niet-premix brander (GI)</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>Vóór 1/1/1988</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>300</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>300</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>82</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>–</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent">
-			<p>Tussen 1/1/1988 en 31/12/1997</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>250</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>200</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>86</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>–</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent">
-			<p>Vanaf 1/1/1998</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>200</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>150</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>88</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>–</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent">
-			<p>Gasketel met premix brander (GI)</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>Vóór 1/1/1988</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>250</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>270</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>84</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>–</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent">
-			<p>Tussen 1/1/1988 en 31/12/1997</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>200</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>150</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>88</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>–</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent">
-			<p>Vanaf 1/1/1998</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>180</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>110</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>90</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>-</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent">
-			<p>Gasketel met ventilator-brander (GII)</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>Vóór 1/1/1988</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>250</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>270</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>85</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>6,5</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent">
-			<p>Tussen 1/1/1988 en 31/12/1997</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>220</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>150</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>88</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>7,5</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent">
-			<p>Vanaf 1/1/1998</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>200</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>110</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>90</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>8,5</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="6" style="background-color:transparent">
-			<p>Vanaf 1 januari 2018</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent">
-			<p>Gasketel met niet-premix brander (GI)</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>Alle</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>200</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>150</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>88</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>-</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent">
-			<p>Gasketel met premix brander (GI)</p>
-
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>Alle</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>180</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>110</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>90</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>-</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent">
-			<p>Gasketel met premix brander (GI)</p>
-
-			<p>Gasketel met ventilator-brander (GII)</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>Alle</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>200</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>110</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>90</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>8,5</p>
-			</td>
+			<td>niet B1-toestellen</td>
+			<td>150</td>
+			<td>90</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p>In deze tabel wordt de maximaal toegestane temperatuur van de rookgassen gegeven. Deze temperatuur zal de nettowaarde zijn.<br>
-<br>
-De eisen voor het verbrandingsrendement van gasketels met ventilatorbrander gelden niet voor condenserende gasketels.<br>
-<br>
-De berekening van het gehalte aan koolstofmonoxide (CO) gebeurt zoals aangegeven in bijlage II bij dit besluit. Het CO-gehalte is de onverdunde waarde of de waarde bij 0 % restzuurstof. Voor de installaties die LPG als brandstof gebruiken is de CO-waarde met 15 mg/kWh verhoogd.<br>
+<p><br>
+De berekening van het gehalte aan koolstofmonoxide (CO) gebeurt zoals aangegeven in bijlage II bij dit besluit. Het CO-gehalte is de onverdunde waarde of de waarde bij 0 % restzuurstof.<br>
 <br>
 Indien het bouwjaar van het centraal stooktoestel niet bepaald kan worden op de wijze beschreven in de definitie onder artikel 2, 20°, dan wordt het centrale stooktoestel ingedeeld in de eerste groep (gebouwd vóór 1/1/1988).<br>
 <br>
 § 2. Een centraal stooktoestel aangesloten als type B, gevoed met gasvormige brandstof, wordt geacht in veilige staat van werking te zijn als :<br>
-1° het rookgasafvoerkanaal volgens de code van goede praktijk geplaatst werd en in het rookgasafvoerkanaal steeds voldoende lage druk heerst voor een vlotte afvoer van de rookgassen. Voor centrale stooktoestellen waarbij de rookgassen worden afgevoerd op basis van natuurlijke trek betekent dit een druk van minstens -3 Pa bij werking bij normale weersomstandigheden. Bij een druk tussen -3 Pa en -5 Pa wordt dit als opmerking op het reinigings- en verbrandingsattest vermeld;<br>
+1° het rookgasafvoerkanaal volgens de code van goede praktijk geplaatst werd en de goede werking ervan altijd verzekerd is, en in het rookgasafvoerkanaal steeds voldoende lage druk heerst voor een vlotte afvoer van de rookgassen. Voor centrale stooktoestellen waarbij de rookgassen worden afgevoerd op basis van natuurlijke trek betekent dit een druk van minstens -3 Pa bij werking bij normale weersomstandigheden. Bij een druk tussen -3 Pa en -5 Pa wordt dit als opmerking op het reinigings- en verbrandingsattest vermeld;<br>
 2° het stooklokaal voldoende verlucht is en er voldoende aanvoer is van verbrandingslucht; dit betekent een verluchting in overeenstemming met de code van goede praktijk;<br>
 3° de dichtheid van de toevoerleidingen van de gasvormige brandstof altijd verzekerd is.<br>
 <br>
@@ -491,7 +178,7 @@ Goede en veilige staat van werking centraal stooktoestel, gevoed met vaste brand
 § 1. Een centraal stooktoestel, gevoed met vaste brandstof, wordt geacht in goede staat van werking te zijn, indien het voldoet aan de voorwaarde dat het slechts zelden en op kortstondige wijze hinderlijke en milieuverontreinigende rook verspreidt.<br>
 <br>
 § 2. Een centraal stooktoestel, gevoed met vaste brandstof, wordt geacht in veilige staat van werking te zijn, indien :<br>
-1° in het rookgasafvoerkanaal steeds een voldoende&nbsp;lage druk&nbsp;heerst voor een vlotte afvoer van de rookgassen, overeenkomstig de code van goede praktijk;<br>
+1° het rookgasafvoerkanaal volgens de code van goede praktijk geplaatst is en de goede werking ervan altijd verzekerd is, en in het rookgasafvoerkanaal steeds een voldoende&nbsp;lage druk&nbsp;heerst voor een vlotte afvoer van de rookgassen, overeenkomstig de code van goede praktijk;<br>
 2° het lokaal waarin het centrale stooktoestel staat voldoende verlucht is, en er voldoende aanvoer is van verbrandingslucht, dit betekent volgens de code van goede praktijk.
 
 ## HOOFDSTUK III Verplichtingen van de gebruiker en de eigenaar van een centraal stooktoestel
@@ -604,7 +291,7 @@ Ter beschikking houden van attesten en rapporten<br>
 <br>
 § 1. De eigenaar van een centraal stooktoestel zorgt ervoor dat het keuringsrapport&nbsp;of een duplicaat daarvan bij het toestel blijft zolang dat ongewijzigd in gebruik is.<br>
 &nbsp;
-<p style="text-align: justify;">§2. De gebruiker bezorgt een duplicaat van het attest aan de eigenaar. De gebruiker en de eigenaar houden minstens de duplicaten van&nbsp;de attesten van de laatste twee onderhoudsbeurten bij.</p>
+<p style="text-align: justify;">§ 2. De gebruiker en eigenaar houden minstens de duplicaten van het reinigings- en verbrandingsattest van de laatste twee onderhoudsbeurten bij. De gebruiker bezorgt een duplicaat van het reinigings- en verbrandingsattest aan de eigenaar.</p>
 <br>
 § 3. De eigenaar van het centrale stooktoestel houdt het verwarmingsauditrapport bij zolang het toestel in gebruik is en geen nieuwe verwarmingsaudit werd uitgevoerd. De eigenaar bezorgt een duplicaat van het verwarmingsauditrapport aan de gebruiker.<br>
 <br>
@@ -633,7 +320,9 @@ De technicus voert de controleproeven omtrent de goede staat van werking, opgeno
 <br>
 § 4. De persoon die belast is met het uitvoeren van de keuring voor eerste ingebruikname van een nieuw centraal stooktoestel beschikt over een erkenning als :<br>
 1° technicus gasvormige brandstof als het centrale stooktoestel gevoed wordt met gasvormige brandstof;<br>
-2° technicus vloeibare brandstof als het centrale stooktoestel gevoed wordt met vloeibare brandstof.
+2° technicus vloeibare brandstof als het centrale stooktoestel gevoed wordt met vloeibare brandstof.<br>
+<br>
+§ 5. Bij de plaatsing of de vervanging van een stooktoestel moet het ventilatiesysteem in het lokaal waar dit stooktoestel geplaatst wordt, voldoen aan de van toepassing zijnde normen NBN B 61-001, NBN B 61-002, NBN D 51-003, NBN D 51-004 en NBN D 51-006.
 
 ### ART. 13.
 
@@ -646,7 +335,7 @@ De controleproeven omtrent de goede staat van werking, opgenomen in hoofdstuk I 
 <p style="text-align: justify;">§2. Bij een centraal stooktoestel, met een nominaal vermogen van 20 kW of meer en gevoed met vloeibare brandstof, bestaat de onderhoudsbeurt, bedoeld in artikel 8, 4°, uit:<br>
 1° het nazien van de algemene staat en de veilige staat van werking&nbsp;van het centrale stooktoestel, het controleren van de verluchting van het stooklokaal en de aanvoer van verbrandingslucht;<br>
 2° een reinigingsbeurt:<br>
-a) voor een stooktoestel aangesloten als type B: het reinigen en het controleren van het rookgasafvoerkanaal: het mechanisch vegen van het rookgasafvoerkanaal en van het verbindingsstuk tussen het rookgasafvoerkanaal en het stooktoestel, het nakijken van de algemene staat van het rookgasafvoerkanaal en van het verbindingsstuk tussen het rookgasafvoerkanaal en het stooktoestel (onder meer de dichtheid), en het controleren van de goede werking van het rookgasafvoerkanaal (onder meer de druk);<br>
+a) voor een stooktoestel aangesloten als type B: het reinigen en het controleren van het rookgasafvoerkanaal: het mechanisch vegen van het rookgasafvoerkanaal en van het verbindingsstuk tussen het rookgasafvoerkanaal en het centrale stooktoestel voor stooktoestellen die werken door middel van natuurlijke trek, het nakijken van de algemene staat van het rookgasafvoerkanaal en van het verbindingsstuk tussen het rookgasafvoerkanaal en het stooktoestel (onder meer de dichtheid), en het controleren van de goede werking van het rookgasafvoerkanaal (onder meer de druk);<br>
 b) voor een stooktoestel aangesloten als type C: het controleren van de correcte plaatsing volgens de code van goede praktijk en van de rookgaszijdige dichtheid van het rookgasafvoerkanaal.<br>
 c) het reinigen en het controleren van het centrale stooktoestel en de inwendige delen van het centrale stooktoestel, het reinigen en het controleren van de ventilator, en het nakijken van de dichtheid van het centrale stooktoestel;<br>
 3° de verbrandingscontrole: het nazien en het afstellen van de brander, alsook van de inrichtingen en de onderdelen die voor de werking ervan noodzakelijk zijn, gevolgd door de controleproeven omtrent de goede staat van werking.<br>
@@ -654,7 +343,7 @@ c) het reinigen en het controleren van het centrale stooktoestel en de inwendige
 §3. Bij een centraal stooktoestel, met een nominaal vermogen van 20 kW of meer en gevoed met gasvormige brandstof, bestaat de onderhoudsbeurt, vermeld in artikel 8, 4°, uit:<br>
 1° het nazien van de algemene staat en de veilige staat van werking van het centrale stooktoestel, het controleren van de verluchting van het stooklokaal en de aanvoer van de verbrandingslucht;<br>
 2° een reinigingsbeurt:<br>
-a) voor een stooktoestel aangesloten als type B: het reinigen en het controleren van het rookgasafvoerkanaal: het mechanisch vegen van het rookgasafvoerkanaal en van het verbindingsstuk tussen het rookgasafvoerkanaal en het centrale stooktoestel, het nakijken van de algemene staat van het rookgasafvoerkanaal en van het verbindingsstuk tussen het rookgasafvoerkanaal en het centrale stooktoestel (onder meer de dichtheid), en het controleren van de goede werking van het rookgasafvoerkanaal (onder meer de druk);<br>
+a) voor een stooktoestel aangesloten als type B: het reinigen en het controleren van het rookgasafvoerkanaal: het mechanisch vegen van het rookgasafvoerkanaal en van het verbindingsstuk tussen het rookgasafvoerkanaal en het centrale stooktoestel voor stooktoestellen die werken door middel van natuurlijke trek, het nakijken van de algemene staat van het rookgasafvoerkanaal en van het verbindingsstuk tussen het rookgasafvoerkanaal en het centrale stooktoestel (onder meer de dichtheid), en het controleren van de goede werking van het rookgasafvoerkanaal (onder meer de druk);<br>
 b) voor een stooktoestel aangesloten als type C: het controleren van de correcte plaatsing volgens de code van goede praktijk en van de rookgaszijdige dichtheid van het rookgasafvoerkanaal;<br>
 c) het reinigen en het controleren van het centrale stooktoestel: het ontstoffen van het centrale stooktoestel, het reinigen van de branderbedden en de warmtewisselaar, en, voor gasketels met ventilatorbrander, het reinigen van de ventilator en de brander, en het nakijken van de dichtheid van het centrale stooktoestel;<br>
 3° een verbrandingscontrole: dit omvat het uitvoeren van de controleproeven omtrent de goede staat van werking en, voor gasketels met ventilatorbrander, het afregelen van de ventilatorbrander.<br>
@@ -889,9 +578,9 @@ Bij het trekken van het rookgasmonster en tijdens de verbrandingscontroleproeven
 Er worden minstens twee meetreeksen uitgevoerd : een initiële meetreeks en een eindmeetreeks.<br>
 1° Initiële meetreeks : Bij aankomst stelt de erkende technicus het stooktoestel in werking, en meet de verschillende parameters nog voor enige onderhouds- of vervangingsactiviteit heeft plaatsgevonden. De meet- en rekenresultaten worden op het verbrandingsattest genoteerd in de kolom 'Proef I : Initiële meting'.<br>
 2° Eindmeetreeks : Afhankelijk van de brander worden op het einde van de onderhoudsbeurt, na de reinigingsbeurt en de verbrandingscontrole, een of meerdere meetreeksen uitgevoerd :<br>
-a) voor "alles of niets"-branders : een meetreeks tijdens de periode van continue werking van de brander;<br>
-b) voor "alles of weinig"-branders : een meetreeks bij maximaal gebruiksvermogen en een meetreeks bij minimaal gebruiksvermogen;<br>
-c) voor branders met een door de gebruiker regelbaar gebruiksvermogen : een meetreeks bij maximaal gebruiksvermogen, een meetreeks bij minimaal gebruiksvermogen, en drie meetreeksen bij tussenliggend gebruiksvermogen, respectievelijk op 75%, 50% en 25% van het regelbereik.<br>
+a) voor "ketels met een nominaal vermogen lager dan 1 MW en" "alles of niets"-branders : een meetreeks tijdens de periode van continue werking van de brander;<br>
+b) voor "alles of weinig"-branders (ketels met een nominaal vermogen vanaf 1 MW): een meetreeks bij maximaal gebruiksvermogen en een meetreeks bij minimaal gebruiksvermogen;<br>
+c) voor branders met een door de gebruiker regelbaar gebruiksvermogen (ketels met een nominaal vermogen vanaf 1 MW): een meetreeks bij maximaal gebruiksvermogen, een meetreeks bij minimaal gebruiksvermogen, en drie meetreeksen bij tussenliggend gebruiksvermogen, respectievelijk op 75%, 50% en 25% van het regelbereik.<br>
 <br>
 Deze meetreeksen gebeuren in normale bedrijfsomstandigheden, dit wil zeggen bij normale bedrijfstemperatuur, in afgesloten stooklokaal, en, indien van toepassing, met de branderkap of beschermkap geplaatst.<br>
 <br>
@@ -937,8 +626,13 @@ Het verbrandingsattest vermeldt de waarden, gemeten met het elektronische rookga
 <br>
 HOOFDSTUK II. - Technische vereisten meetapparatuur<br>
 <br>
-Voor het opmeten van de verschillende parameters worden uitsluitend meettoestellen gebruikt die voldoen aan de volgende minimale technische specificaties :<br>
-</p>
+De toestellen gebruikt voor het meten van de CO-, O2- en CO2-concentratie in verbrandingsgassen, voor het meten van de temperatuur van de verbrandingsgassen en van de temperatuur van de verbrandingslucht, evenals voor het meten van de onderdruk van de leiding voor de afvoer van verbrandingsgassen voldoen aan de technische eisen van tabel 1 van norm NBN EN 50379-1 voor wat de meting van deze parameters betreft.<br>
+<br>
+De toestellen worden zo ontworpen dat ze aan de volgende voorwaarden voldoen:<br>
+1° het is mogelijk om gelijktijdig twee temperatuursensoren aan te sluiten zodat bij verwarmingsketels type C tegelijkertijd de temperatuur van de verbrandingsgassen en die van de omgevingslucht gemeten kan worden;<br>
+2° de toestellen kunnen ofwel een afdruk maken waarop de resultaten van de uitgevoerde metingen en de datum en het uur waarop deze uitgevoerd werden, vermeld staan, ofwel deze resultaten doorsturen zonder dat ze gewijzigd kunnen worden naar een informaticaprogramma dat verslagen en attesten kan genereren.<br>
+<br>
+Voor het opmeten van de verschillende parameters worden uitsluitend meettoestellen gebruikt die voldoen aan de volgende minimale technische specificaties :</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:447.9pt">
 	<tbody>
@@ -1103,7 +797,7 @@ Eenheden, conversies en berekeningsformules<br>
 		</tr>
 		<tr>
 			<td colspan="10" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:431.7pt">
-			<p>W (g% O<sub>2</sub>) = [ (21-g) / (21 – y)<sub> *</sub> M</p>
+			<p>W (g %O<sub>2</sub>) = [(21-g) / (21 - Y)] * M</p>
 			</td>
 		</tr>
 		<tr>
@@ -1111,13 +805,10 @@ Eenheden, conversies en berekeningsformules<br>
 			<p>met</p>
 			</td>
 			<td colspan="9" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:390.3pt">
-			<p>W = gewenste emissiewaarde bij gewenste zuurstofovermaat g</p>
-
-			<p>M = gemeten emissiewaarde bij de gemeten zuurstofovermaat Y</p>
-
-			<p>y = gemeten zuurstofovermaat</p>
-
-			<p>g = gewenste zuurstofovermaat</p>
+			<p>W = gewenste emissiewaarde bij gewenste zuurstofovermaat g<br>
+			M = gemeten emissiewaarde bij de gemeten zuurstofovermaat y<br>
+			Y = gemeten zuurstofovermaat<br>
+			g = gewenste zuurstofovermaat</p>
 			</td>
 		</tr>
 		<tr>
@@ -1165,9 +856,9 @@ Eenheden, conversies en berekeningsformules<br>
 		</tr>
 		<tr>
 			<td colspan="10" style="background-color:transparent; width:431.7pt">
-			<p>4 Vloeibare brandstof : berekening van het verbrandingsrendement (formule van Siegert)</p>
-
-			<p>Verbrandingsrendement = 100 - k <sub>*</sub> (tg - ta) / %CO<sub>2</sub></p>
+			<p>4 Berekening van het verbrandingsrendement<br>
+			Het verbrandingsrendement (η H<sub>i</sub>) wordt berekend met de volgende formule:<br>
+			η H<sub>i</sub> = 100 - [(tg -ta) * (A2/(21 - %O<sub>2</sub>) + B)]</p>
 			</td>
 		</tr>
 		<tr>
@@ -1175,14 +866,31 @@ Eenheden, conversies en berekeningsformules<br>
 			<p>met</p>
 			</td>
 			<td colspan="9" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:390.3pt">
-			<p>k = 0,48 + 0,008 <sub>*</sub> %CO<sub>2</sub></p>
-
-			<p>%CO<sub>2</sub> = het gemeten percentage aan CO<sub>2</sub> in de rookgassen</p>
-
-			<p>t<sub>g</sub> = temperatuur van de rookgassen</p>
-
-			<p>t<sub>a</sub> = omgevingstemperatuur</p>
+			<p>%O2 = zuurstofpercentage gemeten in de verbrandingsgassen (volumeprocent)<br>
+			tg = temperatuur van de verbrandingsgassen<br>
+			ta = temperatuur van de verbrandingslucht (omgevingstemperatuur)<br>
+			A2 en B = parameters afhankelijk van de brandstof:</p>
 			</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:41.4pt">brandstof</td>
+			<td colspan="3" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:41.4pt">A2</td>
+			<td colspan="2" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:41.4pt">B</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:41.4pt">aardgas</td>
+			<td colspan="3" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:41.4pt">0,65</td>
+			<td colspan="2" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:41.4pt">0,009</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:41.4pt">propaan</td>
+			<td colspan="3" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:41.4pt">0,63</td>
+			<td colspan="2" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:41.4pt">0,008</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:41.4pt">stookolie</td>
+			<td colspan="3" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:41.4pt">0,68</td>
+			<td colspan="2" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:41.4pt">0,007</td>
 		</tr>
 		<tr>
 			<td colspan="10" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:431.7pt">
@@ -1283,45 +991,15 @@ Eenheden, conversies en berekeningsformules<br>
 <p>Modellen van attesten en rapporten<br>
 <br>
 I. Model van het reiningingsattest<br>
-<a href="http://www.ejustice.just.fgov.be/mopdf/2007/04/27_2.pdf#page=88">Bijlage III Model I</a><br>
-<br>
-[<em>Bij besluit van de Vlaamse Regering van 1 maart 2013 worden aan het model van reinigingsattest volgende wijzigingen aangebracht:<br>
-1° de zinsnede « schoorsteenonderdruk (hPa of mbar) : » wordt vervangen door de zinsnede « druk schoorsteen (Pa) : »;<br>
-2° de woorden « Vlaamse regering » worden vervangen door de zinsnede « Vlaamse Regering van 8 december 2006 »;<br>
-3° tussen de woorden « nazicht van » en het woord « stooktoestellen » wordt het woord « centrale » ingevoegd.<br>
-Zie BVR 1 maart 2013, art. 44&nbsp;B.S. 23 april 2013, I: 3 mei 2013</em>)]<br>
-<br>
-[<em>Bij BVR van 18 maart 2016 worden aan het model van reinigingsattest volgende wijzigingen aangebracht:<br>
-<em>1° in punt I wordt de rij<br>
-" atmosferische gasketel gasunit gasketel met ventilatorbrander"<br>
-vervangen door de volgende rij :<br>
-" niet-premix (GI) premix (GI) gasketel met ventilatorbrander (GII)";<br>
-2° in punt I worden de woorden "de toezichthoudende ambtenaren en van de Vlaamse overheid, Departement Leefmilieu, Natuur en Energie" vervangen door de woorden "de toezichthouders</em>";<br>
-Zie BVR 18 maart 2016, art. 204, I: 5 september 2016]</em></p>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/09/26_1.pdf#page=193">Reinigingsattest</a></p>
 
 <p><br>
 II. Model van het verbrandingsattest</p>
-<a href="http://www.ejustice.just.fgov.be/mopdf/2016/08/26_1.pdf#page=98">Tabel</a><br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/09/26_1.pdf#page=194">Verbrandingsattest</a><br>
+&nbsp;
+<p>III. Model van het keuringsrapport<br>
 <br>
-III. Inhoud van het keuringsrapport<br>
-<br>
-Het verslag van de keuring voor de eerste ingebruikname van een nieuw stooktoestel, bevat minstens de volgende gegevens en elementen bevat in duidelijk leesbare alfanumerieke tekens :<br>
-a) de naam en het adres van de eigenaar van het stooktoestel, of van<br>
-zijn aangestelde;<br>
-b) het adres van de plaats waar het stooktoestel staat;<br>
-c) de kenmerken van het stooktoestel;<br>
-d) een overzicht van de verschillende delen van de keuring met de<br>
-vermelding van het resultaat;<br>
-e) de volledige eindbeoordeling van het stooktoestel, het rookgasafvoerkanaal<br>
-en het stooklokaal (conform / niet conform);<br>
-f) de datum van de keuring;<br>
-g) de naam en de handtekening van de keurder;<br>
-h) het erkenningsnummer;<br>
-i) de naam van het keuringsbedrijf, het adres en het ondernemingsnummer;<br>
-j) vastgestelde gebreken en noodzakelijke maatregelen om deze weg te werken<br>
-k) de handtekening van de eigenaar van het stooktoestel, of van zijn<br>
-aangestelde, voorafgegaan door de vermelding "voor kennisname".
-<p>&nbsp;</p>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/09/26_1.pdf#page=195">Keuringsrapport</a></p>
 
 ## Bijlage IV. Erkenning van een opleidingscentrum : Lijst van de technische toestellen en de didactische uitrusting
 
