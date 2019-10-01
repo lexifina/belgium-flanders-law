@@ -23,7 +23,7 @@ De minister kan de bijlagen bij dit besluit wijzigen, met uitzondering van bijla
 § 1. Voor de toepassing van dit besluit wordt verstaan onder :<br>
 1° wet Geluidshinder : de wet van 18 juli 1973 betreffende de bestrijding van de geluidshinder;<br>
 2° decreet Milieubeleid : het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
-3° titel I van het VLAREM : het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning;<br>
+3° ...;<br>
 4° titel II van het VLAREM : het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
 5° besluit inzake het onderhoud en nazicht van centrale stooktoestellen : het besluit van de Vlaamse Regering van 8 december 2006 betreffende het onderhoud en het nazicht van stooktoestellen voor verwarming van gebouwen of voor de aanmaak van warm verbruikswater;<br>
 6° het departement: het Departement Omgeving;<br>
@@ -35,12 +35,12 @@ De minister kan de bijlagen bij dit besluit wijzigen, met uitzondering van bijla
 12° ...<br>
 13° ...<br>
 14° ...<br>
-15° het één-loket : het ondernemersloket, vermeld in het besluit van de Vlaamse Regering van 11 december 2009 tot gedeeltelijke omzetting van artikel 6 en 8 van Richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende diensten op de interne markt;<br>
+15° het één-loket : het ondernemingsloket, vermeld in het besluit van de Vlaamse Regering van 11 december 2009 tot gedeeltelijke omzetting van artikel 6 en 8 van Richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende diensten op de interne markt;<br>
 16° de minister : de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid;<br>
 17° gebruik van de erkenning : het uitvoeren van bepaalde werkzaamheden of keuringen, het uitoefenen van bepaalde functies, het verstrekken van opleidingen, het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses waarvoor de erkenning geldt;<br>
 18° referentielaboratorium : geaccrediteerde organisatie of internationaal of nationaal erkende organisatie die voldoet aan de eisen van ISO/IEC 17043 en die programma's van geschiktheidsbeproeving organiseert voor de laboratoria,&nbsp;vermeld in artikel 6, 5°, voor een gedeelte van een pakket of een volledig pakket als vermeld in bijlage 3, die bij dit besluit is gevoegd, in voorkomend geval op concentratieniveaus die door de minister vastgelegd kunnen worden;<br>
 19° drinkwater : water, bestemd voor menselijke consumptie, als vermeld in het artikel 2.1.2. van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
-20° compendium : bundel met methoden voor het nemen van monsters en het uitvoeren van metingen en analyses, die Europese (EN), internationale (ISO) of andere genormeerde methoden of methoden die door het referentielaboratorium van het Vlaamse Gewest werden gevalideerd in opdracht van de Vlaamse overheid, omvatten. Het compendium wordt goedgekeurd bij ministerieel besluit en de inhoudstafel wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad ;<br>
+20° compendium : bundel met methoden voor het nemen van monsters en het uitvoeren van metingen en analyses, die Europese (EN), internationale (ISO) of andere genormeerde methoden of methoden die door het referentielaboratorium van het Vlaamse Gewest werden gevalideerd in opdracht van de Vlaamse overheid, omvatten, in voorkomend geval met inbegrip van de validatie- en kwaliteitseisen voor die methoden;<br>
 21° code van goede praktijk : door de bevoegde afdeling aanvaarde en voor het publiek toegankelijke geschreven regels met betrekking tot de activiteiten en maatregelen, vermeld in dit besluit;<br>
 22° deeldomein afvalwater : water waarbij de te meten parameters concentratieniveaus bestrijken die representatief zijn met betrekking tot de emissiegrenswaarden voor afvalwater, vermeld in titel II van het VLAREM. Die concentratieniveaus kunnen door de minister vastgelegd worden;<br>
 23° deeldomein oppervlaktewater : water waarbij de te meten parameters concentratieniveaus bestrijken die representatief zijn met betrekking tot de milieukwaliteitsnormen voor oppervlaktewater, vermeld in titel II van het VLAREM. Die concentratieniveaus kunnen door de minister vastgelegd worden;<br>
@@ -64,12 +64,14 @@ De minister kan de bijlagen bij dit besluit wijzigen, met uitzondering van bijla
 41° de afdeling, bevoegd voor het opvolgen van de luchtkwaliteit : de afdeling Lucht, Milieu en Communicatie van de VMM;<br>
 42° agentschap Onroerend Erfgoed : het agentschap Onroerend Erfgoed van het beleidsdomein Omgeving;<br>
 43° bevoegde afdeling :<br>
-a) voor de aanvragen tot erkenning,&nbsp;vermeld in artikel 6, 1°, 2°, 4°, b) tot en met f) en h) tot en met l), 5°, a) tot en met c), 7°, b) en c) en 8° : het departement;<br>
-b) voor de aanvragen tot erkenning, vermeld in artikel 6, 3° en 4°, a) : het departement;<br>
-c) voor de aanvragen tot erkenning, vermeld in artikel 6, 5°, d) : de Mestbank;<br>
-d) voor de aanvragen tot erkenning, vermeld in artikel 6, 5°, e) : de afdeling, bevoegd voor afval- en materialenbeheer;<br>
-e) voor de aanvragen tot erkenning, vermeld in artikel 6, 4°, g), 5°, f), en 6° : de afdeling, bevoegd voor bodembeheer;<br>
-f) voor de aanvragen tot erkenning,&nbsp;vermeld in artikel 6, 7°, a) : de afdeling, bevoegd voor grondwater.<br>
+a) voor de erkenning,&nbsp;vermeld in artikel 6, 1°, 2°, 4°, b) tot en met f) en h) tot en met l), 5°, a) tot en met c), 7°, b) en c) en 8° : het departement;<br>
+b) voor de erkenning, vermeld in artikel 6, 3° en 4°, a) : het departement;<br>
+c) voor de erkenning, vermeld in artikel 6, 5°, d) : de Mestbank;<br>
+d) voor de erkenning, vermeld in artikel 6, 5°, e) : de afdeling, bevoegd voor afval- en materialenbeheer;<br>
+e) voor de erkenning, vermeld in artikel 6, 4°, g), 5°, f), en 6° : de afdeling, bevoegd voor bodembeheer;<br>
+f) voor de erkenning,&nbsp;vermeld in artikel 6, 7°, a) : de afdeling, bevoegd voor grondwater;<br>
+g) voor de registratie als monsternemer in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid: het departement;<br>
+h) voor de registratie als monsternemer in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan: de Mestbank;<br>
 44° ...<br>
 45° titel III van het VLAREM : het besluit van de Vlaamse Regering van 16 mei 2014 houdende bijkomende algemene en sectorale milieuvoorwaarden voor GPBV-installaties;<br>
 46° verordening nr. 1005/2009 : verordening (EG) nr. 1005/2009 van het Europees Parlement en de Raad van 16 september 2009 betreffende de ozonlaag afbrekende stoffen;<br>
@@ -130,17 +132,18 @@ d) MER-deskundige : deskundige voor het opstellen van milieueffectrapporten als 
 8) klimaat;<br>
 9) landschap, bouwkundig erfgoed en archeologie : landschap, bouwkundig erfgoed en archeologie;<br>
 e) VR-deskundige : deskundige voor het opstellen van omgevings- en ruimtelijke veiligheidsrapporten als vermeld in titel IV van het decreet Milieubeleid;<br>
-f) airco-energiedeskundige : deskundige voor het uitvoeren van keuringen aan airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW als vermeld in artikel 5.16.3.3, § 3, eerste lid, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, of artikel 5bis.19.8.4.8.4, § 6, eerste lid, van titel II van het VLAREM;<br>
+f) airco-energiedeskundige : deskundige voor het uitvoeren van keuringen aan airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW als vermeld in artikel 5.16.3.3, § 3, eerste lid, 4°,&nbsp;van titel II van het VLAREM;<br>
+g) MER-coördinator: deskundige die het opstellen van milieueffectrapporten als vermeld in titel IV van het decreet Milieubeleid coördineert;<br>
 2° technici :<br>
 a) technicus vloeibare brandstof als vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
 b) technicus gasvormige brandstof als vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
 c) technicus verwarmingsaudit als vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
 d) stookolietechnicus : de erkende technicus als vermeld in artikel 6.5.6.3 van titel II van het VLAREM;<br>
-e) koeltechnicus van categorie I, II, III of IV als vermeld in artikel 4.4.8.4, artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis, artikel 5bis.15.5.4.5.4, § 1, artikel 5bis.19.8.4.8.4, § 1, artikel 6.8.1.1 of artikel 6.8.6.1 van titel II van het VLAREM;<br>
+e) koeltechnicus van categorie I, II, III of IV als vermeld in artikel 4.4.8.4, artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis, artikel 6.8.1.1 of artikel 6.8.6.1 van titel II van het VLAREM;<br>
 f) technicus voor brandbeveiligingsapparatuur als vermeld in artikel 4.4.8.1 of artikel 6.8.2.1 van titel II van het VLAREM;<br>
 g) technicus voor elektrische schakelinrichtingen als vermeld in artikel 4.4.8.2 of artikel 6.8.3.1 van titel II van het VLAREM;<br>
 h) technicus voor apparatuur die oplosmiddelen bevat als vermeld in artikel 4.4.8.3 of artikel 6.8.4.1 van titel II van het VLAREM;<br>
-i) technicus voor klimaatregelingsapparatuur in bepaalde motorvoertuigen als vermeld in artikel 5.15.0.8, artikel 5bis.15.5.2.3, § 1, of artikel 6.8.5.1 van titel II van het VLAREM of artikel 5.2.4.4 van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br>
+i) technicus voor klimaatregelingsapparatuur in bepaalde motorvoertuigen als vermeld in artikel 5.15.0.8,&nbsp;of artikel 6.8.5.1 van titel II van het VLAREM of artikel 5.2.4.4 van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br>
 3° milieucoördinatoren en milieuverificateurs, belast met de validatie van de decretale milieuaudit :<br>
 a) milieucoördinatoren als vermeld in artikel 4.1.9.1.2, § 2, 2°, d), van titel II van het VLAREM;<br>
 b) milieuverificateurs, belast met de validatie van de decretaal verplichte milieuaudit als vermeld in artikel 4.1.9.2.5, § 3, van titel II van het VLAREM;<br>
@@ -150,25 +153,25 @@ b) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake 
 c) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake gasvormige brandstof, vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale&nbsp;stooktoestellen;<br>
 d) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de verwarmingsaudit, vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
 e) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de controle en het onderhoud van stookolietanks, vermeld in artikel 6.5.6.4 van titel II van het VLAREM;<br>
-f) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW, vermeld in artikel 5.16.3.3, § 3, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, of artikel 5bis.19.8.4.8.4, § 6, eerste lid, van titel II van het VLAREM;<br>
+f) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW, vermeld in artikel 5.16.3.3, § 3, 4°,&nbsp;van titel II van het VLAREM;<br>
 g) voor het verstrekken van de aanvullende vorming voor bodemsaneringsdeskundigen, vermeld in artikel 8 van het Bodemdecreet;<br>
-h) voor het uitreiken van het certificaat van bekwaamheid in de koeltechniek van categorie I, II, III of IV en van het actualisatie-examen, vermeld in artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis, artikel 5bis.15.5.4.5.4, § 1, artikel 5bis.19.8.4.8.4, § 1, of artikel 6.8.1.1 van titel II van het VLAREM;<br>
+h) voor het uitreiken van het certificaat van bekwaamheid in de koeltechniek van categorie I, II, III of IV en van het actualisatie-examen, vermeld in artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis,&nbsp;of artikel 6.8.1.1 van titel II van het VLAREM;<br>
 i) voor het uitreiken van het certificaat van bekwaamheid voor brandbeveiligingsapparatuur, vermeld in artikel 4.4.8.1 of artikel 6.8.2.1 van titel II van het VLAREM;<br>
 j) voor het uitreiken van het certificaat van bekwaamheid voor elektrische schakelinrichtingen, vermeld in artikel 4.4.8.2 of artikel 6.8.3.1 van titel II van het VLAREM;<br>
 k) voor het uitreiken van het certificaat van bekwaamheid voor apparatuur die oplosmiddelen bevat, vermeld in artikel 4.4.8.3 of artikel 6.8.4.1 van titel II van het VLAREM;<br>
-l) voor het uitreiken van het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen, vermeld in artikel 5.15.0.8, artikel 5bis.15.5.2.3, § 1, of artikel 6.8.5.1 van titel II van het VLAREM of artikel 5.2.4.4 van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br>
+l) voor het uitreiken van het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen, vermeld in artikel 5.15.0.8,&nbsp; of artikel 6.8.5.1 van titel II van het VLAREM of artikel 5.2.4.4 van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br>
 5° laboratoria :<br>
-a) laboratorium in de discipline water voor het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses op afvalwater, oppervlaktewater, grondwater en drinkwater in het kader van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer en het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending, en de uitvoeringsbesluiten ervan, en titel I, II en III van het VLAREM, voor een of meer van de pakketten, vermeld in bijlage 3, 1°, die bij dit besluit is gevoegd.<br>
+a) laboratorium in de discipline water voor het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses op afvalwater, oppervlaktewater, grondwater en drinkwater in het kader van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer en het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending, en de uitvoeringsbesluiten ervan, en titel&nbsp;II en III van het VLAREM, voor een of meer van de pakketten, vermeld in bijlage 3, 1°, die bij dit besluit is gevoegd.<br>
 Een laboratorium in de discipline water kan erkend worden voor een of meer van de volgende deeldomeinen :<br>
 1) afvalwater;<br>
 2) oppervlaktewater;<br>
 3) grondwater;<br>
 4) drinkwater;<br>
 De minister kan de deeldomeinen voor een pakket vastleggen;<br>
-b) laboratorium in de discipline lucht voor het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses in het kader van de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging, en de uitvoeringsbesluiten ervan, en titel I, II en III van het VLAREM, voor een of meer van de pakketten, vermeld in bijlage 3, 2°, die bij dit besluit is gevoegd;<br>
+b) laboratorium in de discipline lucht voor het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses in het kader van de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging, en de uitvoeringsbesluiten ervan, en titel II en III van het VLAREM, voor een of meer van de pakketten, vermeld in bijlage 3, 2°, die bij dit besluit is gevoegd;<br>
 c) laboratorium in de discipline bodem, deeldomein bodembescherming, voor het nemen van monsters en het uitvoeren van metingen en analyses in het kader van de bodembescherming,&nbsp;vermeld in artikel 59, § 1 en artikel 60, § 4, van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid voor het pakket, vermeld in bijlage 3, 3°, die bij dit besluit is gevoegd.<br>
 d) laboratorium in de discipline bodem, deeldomein bemesting, de discipline mest en de discipline diervoeder, voor het nemen van monsters en het uitvoeren van analyses op bodem, meststoffen en diervoeders in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan, voor een of meer van de pakketten, vermeld in bijlage 3, 4°, die bij dit besluit is gevoegd;<br>
-e) laboratorium in de discipline afvalstoffen en andere materialen voor het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses ter uitvoering van&nbsp;titel I, II en III van het VLAREM en het Materialendecreet en de uitvoeringsbesluiten ervan, voor een of meer van de pakketten, vermeld in bijlage 3, 5°, die bij dit besluit is gevoegd;<br>
+e) laboratorium in de discipline afvalstoffen en andere materialen voor het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses ter uitvoering van&nbsp;titel&nbsp;II en III van het VLAREM en het Materialendecreet en de uitvoeringsbesluiten ervan, voor een of meer van de pakketten, vermeld in bijlage 3, 5°, die bij dit besluit is gevoegd;<br>
 f) laboratorium in de discipline bodem, deeldomein bodemsanering, voor het uitvoeren van analyses op bodem ter uitvoering van het Bodemdecreet en het VLAREBO en de toepassing van die analyses ter uitvoering van titel II en III van het VLAREM, voor een of meer van de pakketten, vermeld in bijlage 3, 6°, die bij dit besluit is gevoegd;<br>
 6° bodemsaneringsdeskundigen : bodemsaneringsdeskundigen als vermeld in het Bodemdecreet, van type 1 of type 2 :<br>
 Een bodemsaneringsdeskundige van type 1 kan de volgende taken uitvoeren in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan :<br>
@@ -179,13 +182,16 @@ d) het leiden van het opstellen van een studie van de ontvangende grond;<br>
 e) het opstellen van een evaluatierapport als vermeld in artikel 78 van het Bodemdecreet.<br>
 Een bodemsaneringsdeskundige van type 2 kan alle taken uitvoeren die in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan aan een bodemsaneringsdeskundige zijn toegewezen;<br>
 7° bedrijven :<br>
-a) boorbedrijf met betrekking tot een of meer van de volgende disciplines, waarbij de boringen die uitgevoerd worden in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan, funderingsboringen, handboringen en horizontale boringen voor zover die niet vergunningsplichtig zijn, worden uitgesloten van het toepassingsgebied van deze disciplines :<br>
-1) bemalingen en draineringen als vermeld in rubriek 53.2, 53.3, 53.4 en 53.5 van de indelingslijst, vermeld in artikel 5.2.1, § 1, van het decreet Milieubeleid;<br>
+a) boorbedrijf met betrekking tot een of meer van de volgende disciplines, waarbij de boringen die uitgevoerd worden in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan, funderingsboringen, draineringen, handboringen en horizontale boringen voor zover die niet vergunningsplichtig zijn, worden uitgesloten van het toepassingsgebied van deze disciplines :<br>
+1) bemalingen;<br>
 2) andere grondwaterwinningen : andere grondwaterwinningen dan de grondwaterwinningen, vermeld in punt 1);<br>
 3) stabiliteitsboringen en geotechnische boringen, met uitzondering van stabiliteitsboringen en geotechnische boringen als vermeld in rubriek 55.2 en 55.3 van de indelingslijst, vermeld in artikel 5.2.1, § 1, van het decreet Milieubeleid;<br>
-4) verticale boringen : verticale boringen als vermeld in rubriek 55.1 van de indelingslijst, vermeld in artikel 5.2.1, § 1, van het decreet Milieubeleid, met uitzondering van de boringen, vermeld in punt 3);<br>
+4) verticale boringen:<br>
+a) verticale boringen als vermeld in rubriek 55.1 van bijlage 1 bij titel II van het VLAREM, met uitzondering van de boringen, vermeld in punt 3);<br>
+b) boringen die vallen onder de uitzondering, vermeld in rubriek 55.1 van bijlage 1 bij titel II van het VLAREM, met uitzondering van de boringen, vermeld in punt 3);<br>
 5) andere boringen : andere boringen dan de boringen, vermeld in punt 1) tot en met 4);<br>
-b) koeltechnisch bedrijf als vermeld in artikel 5bis.15.5.4.5.4, § 1, artikel 5bis.19.8.4.8.4, § 1, of artikel 6.8.1.1 van titel II van het VLAREM;<br>
+De houders van een erkenning in een van de disciplines, vermeld in het eerste lid, 7°, a), zijn ook erkend voor de aanleg, wijziging en verbouwing van peilputten.<br>
+b) koeltechnisch bedrijf als vermeld in artikel 5.16.3.3, § 1bis, of artikel 6.8.1.1 van titel II van het VLAREM;<br>
 c) bedrijf voor brandbeveiligingsapparatuur als vermeld in artikel 4.4.8.1 of artikel 6.8.2.1 van titel II van het VLAREM;<br>
 8° keuringsinstelling voor het keuren van een koeltechnisch bedrijf als vermeld in artikel 25/4, 4°.
 
@@ -239,6 +245,14 @@ De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de airco-energie
 2° voldoen aan minstens een van de voorwaarden, vermeld in bijlage 13, die bij dit besluit is gevoegd;<br>
 3° in het bezit zijn van het certificaat van bekwaamheid inzake de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, f), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/4, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/4, § 2, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, f). De datum van het slagen voor het examen van de bijscholing mag niet ouder zijn dan vijf jaar, voorafgaand aan de datum van de betaling van de retributie, vermeld in punt 4° ;<br>
 4° een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan&nbsp;het departement&nbsp;of aan een erkend opleidingscentrum als vermeld in artikel 6, 4°, f).
+
+### ART 13/2.
+
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de MER-coördinator, vermeld in artikel 6, 1°, g):<br>
+1° een natuurlijke persoon zijn;<br>
+2° minstens de graad van master, bachelor of een daarmee gelijkgeschakelde graad hebben behaald;<br>
+3° minstens drie jaar praktische ervaring hebben met het meewerken aan de coördinatie van milieueffectrapporten, verworven binnen vijf jaar voorafgaand aan de erkenningsaanvraag;<br>
+4° met gunstig gevolg een opleiding hebben gevolgd waarin minstens de onderwerpen aan bod zijn gekomen, vermeld in bijlage 9, die bij dit besluit is gevoegd.
 
 ## Onderafdeling 2 Erkenningsvoorwaarden voor technici
 
@@ -387,7 +401,7 @@ c) de persoon die de jury bijstaat tijdens het praktijkgedeelte van het examen, 
 ### ART 24/6.
 
 De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid voor apparatuur die oplosmiddelen bevat, vermeld in artikel 6, 4°, k) :<br>
-1° beschikken over degelijke procedures om de opleiding en het examen, vermeld in artikel 43/9, § 1, te organiseren;<br>
+1° beschikken over degelijke procedures om het examen, vermeld in artikel 43/9, § 1, te organiseren;<br>
 2° een examenjury samenstellen, waarbij aan de volgende voorwaarden wordt voldaan :<br>
 a) de voorzitter van de examenjury is master in de ingenieurswetenschappen, master in de bio-ingenieurswetenschappen, master in de industriële wetenschappen of een persoon met minstens drie jaar aantoonbare ervaring in het afnemen van examens met betrekking tot de terugwinning van bepaalde oplosmiddelen op basis van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen;<br>
 b) minstens twee leden van de examenjury zijn specialisten in de materie over het terugwinnen van bepaalde oplosmiddelen op basis van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen uit apparatuur.
@@ -423,7 +437,7 @@ b) hetzij een gunstige beoordeling van het referentielaboratorium van het Vlaams
 In de volgende gevallen is het laboratorium vrijgesteld van de erkenningsvoorwaarde, vermeld in het eerste lid, 2° en 3°, a), op voorwaarde dat het beschikt over een gunstige beoordeling van het referentielaboratorium van het Vlaamse Gewest over de toepassing van ISO/IEC 17025 voor de te volgen methoden, vermeld in artikel 45 :<br>
 1° een laboratorium als vermeld in artikel 6, 5°, a), dat alleen erkend wil worden voor het pakket W.1, vermeld in bijlage 3, 1°, die bij dit besluit is gevoegd;<br>
 2° een laboratorium als vermeld in artikel 6, 5°, b), dat alleen erkend wil worden voor het pakket L.11.1, L.11.2 of L.18, vermeld in bijlage 3, 2°, die bij dit besluit is gevoegd;<br>
-3° een laboratorium als vermeld in artikel 6, 5°, d), dat alleen erkend wil worden voor het pakket M-M1 of M-M3, vermeld in bijlage 3, 4°, die bij dit besluit is gevoegd;<br>
+3° een laboratorium als vermeld in artikel 6, 5°, d), dat alleen erkend wil worden voor het pakket M-M1, M-M3, M-M5 of M-M6, vermeld in bijlage 3, 4°, die bij dit besluit is gevoegd;<br>
 4° een laboratorium als vermeld in artikel 6, 5°, e), dat alleen erkend wil worden voor het pakket MA.1, MA.2, MA.3, MA.4, MA.5, MA.6, MA.7.1 of MA.7.2, vermeld in bijlage 3, 5°, die bij dit besluit is gevoegd.<br>
 <br>
 De gunstige beoordeling, vermeld in het eerste lid, 1°, en 3°, b), en het tweede lid, mag niet ouder zijn dan één jaar, voorafgaand aan de datum van de indiening van de volledige erkenningsaanvraag.<br>
@@ -553,7 +567,7 @@ c) bodem: deeldomeinen:<br>
 d) water, deeldomeinen:<br>
 1) geohydrologie: de personeelsleden van het departement die deskundig zijn op het vlak van natuurlijke rijkdommen, aan de afdeling, bevoegd voor operationeel waterbeheer, en aan de afdeling, bevoegd voor bodembeheer;<br>
 2) oppervlakte- en afvalwater: de afdeling, bevoegd voor operationeel waterbeheer, en aan de afdeling, bevoegd voor het ecologisch toezicht;<br>
-3) mariene waters: de afdeling, bevoegd voor het ecologisch toezicht, en aan het Vlaams Instituut voor de Zee;<br>
+3) mariene waters: de afdeling, bevoegd voor het ecologisch toezicht;<br>
 e) lucht, deeldomeinen:<br>
 1) geur: de personeelsleden van het departement die deskundig zijn op het vlak van luchtverontreiniging;<br>
 2) luchtverontreiniging: de personeelsleden van het departement die deskundig zijn op het vlak van luchtverontreiniging, en aan de afdeling, bevoegd voor het opvolgen van de luchtkwaliteit;<br>
@@ -563,7 +577,8 @@ h) klimaat: de personeelsleden van het departement die deskundig zijn op het vla
 i) landschap, bouwkundig erfgoed en archeologie: het agentschap Onroerend Erfgoed;<br>
 3° voor de aanvragen tot erkenning als VR-deskundige als vermeld in artikel 6, 1°, e): aan de personeelsleden van het departement die deskundig zijn op het vlak van veiligheidsrapportage;<br>
 4° voor de aanvragen tot erkenning als laboratorium als vermeld in artikel 6, 5°, c): aan de personeelsleden van het departement die deskundig zijn op het vlak van bodembescherming;<br>
-5° voor de aanvragen tot erkenning als boorbedrijf als vermeld in artikel 6, 7°, a), voor de disciplines, vermeld in artikel 6, 7°, a), 3) tot en met 5): aan de personeelsleden van het departement die deskundig zijn op het vlak van de natuurlijke rijkdommen.<br>
+5° voor de aanvragen tot erkenning als boorbedrijf als vermeld in artikel 6, 7°, a), voor de disciplines, vermeld in artikel 6, 7°, a), 3) tot en met 5): aan de personeelsleden van het departement die deskundig zijn op het vlak van de natuurlijke rijkdommen;<br>
+6° voor de aanvragen tot erkenning als MER-coördinator als vermeld in artikel 6, 1°, g): de personeelsleden van het departement die deskundig zijn op het vlak van milieueffectrapportage.<br>
 <br>
 De bevoegde afdeling vraagt voor de aanvragen tot erkenning als opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen, vermeld in artikel 6, 4°, l), advies aan een instantie die het sectorale opleidingsbeleid ondersteunt als het opleidingscentrum zich daarmee akkoord heeft verklaard in zijn erkenningsaanvraag. Die instantie keurt dan, samen met de bevoegde afdeling, de opleidingscentra voor het uitreiken van het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen, vermeld in artikel 6, 4°, l), in het Vlaamse Gewest.<br>
 <br>
@@ -575,13 +590,20 @@ De leidend ambtenaar van het departement wijst de personeelsleden, vermeld in he
 <br>
 § 5. Als de aanvrager vraagt om gehoord te worden of de bevoegde afdeling het nuttig acht, organiseert de bevoegde afdeling een hoorzitting waarop de aanvrager wordt uitgenodigd.<br>
 <br>
-§ 6. Voor de aanvraag tot erkenning als vermeld in artikel 6, 1°, a) tot en met e), 3°, a), 4°, a) tot en met f) en h) tot en met l), 5°, a) tot en met d), en 7°, a) en c), geeft de bevoegde afdeling een gemotiveerd eindadvies en maakt ze een voorstel van beslissing.
+§ 6. Voor de aanvraag tot erkenning als vermeld in artikel 6, 1°, a) tot en met e) en g), 3°, a), 4°, a) tot en met f) en h) tot en met l), 5°, a) tot en met d), en 7°, a) en c), geeft de bevoegde afdeling een gemotiveerd eindadvies en maakt ze een voorstel van beslissing.
 
 ## Afdeling 4 De beslissing
 
 ### ART. 29.
 
-§ 1. De leidinggevende ambtenaar van het agentschap of departement waartoe   de bevoegde afdeling behoort, neemt een beslissing tot het volledig of   gedeeltelijk weigeren of verlenen van de erkenning binnen een termijn van   negentig dagen, te rekenen vanaf de dag na de datum van de indiening van het   volledige dossier door de aanvrager.<BR><BR>§ 2. De leidinggevende ambtenaar van   het agentschap of departement waartoe de bevoegde afdeling behoort, kan indien   noodzakelijk de termijn, vermeld in paragraaf 1, met maximaal dertig dagen   verlengen. De bevoegde afdeling, als de aanvraag elektronisch werd ingediend het   één-loket, brengt de aanvrager op de hoogte van de beslissing tot   termijnverlenging voor de normale beslissingstermijn is verstreken.<BR><BR>§ 3.   De beslissingstermijnen, vermeld in&nbsp;paragraaf 1 en 2, worden voor de   toepassing van dit besluit geacht termijnen van orde te zijn.<BR><BR>§ 4. De   erkenning wordt verleend voor onbepaalde termijn.<BR><BR>
+§ 1. De leidinggevende ambtenaar van het agentschap of departement waartoe de bevoegde afdeling behoort of zijn afgevaardigde, neemt een beslissing tot het volledig of gedeeltelijk weigeren of verlenen van de erkenning binnen een termijn van negentig dagen, te rekenen vanaf de dag na de datum van de indiening van het volledige dossier door de aanvrager.<br>
+<br>
+§ 2. De leidinggevende ambtenaar van het agentschap of departement waartoe de bevoegde afdeling behoort of zijn afgevaardigde, kan indien noodzakelijk de termijn, vermeld in paragraaf 1, met maximaal dertig dagen verlengen. De bevoegde afdeling, als de aanvraag elektronisch werd ingediend het één-loket, brengt de aanvrager op de hoogte van de beslissing tot termijnverlenging voor de normale beslissingstermijn is verstreken.<br>
+<br>
+§ 3. De beslissingstermijnen, vermeld in&nbsp;paragraaf 1 en 2, worden voor de toepassing van dit besluit geacht termijnen van orde te zijn.<br>
+<br>
+§ 4. De erkenning wordt verleend voor onbepaalde termijn.<br>
+&nbsp;
 
 ## Afdeling 5 Bekendmaking van de beslissing
 
@@ -593,7 +615,18 @@ De beslissing wordt binnen een termijn van veertien dagen, te rekenen   vanaf de
 
 ### ART. 31.
 
-§ 1. De aanvraag van gelijkwaardigheid van een niet door de Vlaamse   overheid of een door haar erkende organisatie verleende titel met een erkenning   als vermeld in artikel 6, wordt ingediend bij de bevoegde afdeling. De aanvraag   bevat alle bewijsstukken die aantonen dat de titel gelijkwaardig is aan de   erkenning, vermeld in artikel 6.<BR><BR>§ 2. De&nbsp;bevoegde afdeling kan in   het kader van het onderzoek dat ze voert naar aanleiding van de aanvraag,   aanvullende adviezen of inlichtingen van andere overheden en organisaties   inwinnen.<BR><BR>§ 3. De leidinggevende ambtenaar van het agentschap of   departement waartoe de bevoegde afdeling behoort, beslist over de volledige of   gedeeltelijke gelijkwaardigheid van de titel.<BR><BR>§ 4. De beslissing over de   gelijkwaardigheid wordt binnen een termijn van zestig dagen, te rekenen vanaf de   datum van de ontvangst van de aanvraag, door de bevoegde afdeling meegedeeld aan   de aanvrager.<BR><BR>§ 5. De gelijkwaardigheid van een bepaalde titel ten   aanzien van een erkenning geldt voor alle andere identieke titels.<BR><BR>§ 6.   De titel die gelijkwaardig wordt bevonden aan een erkenning als vermeld in   artikel 6, wordt opgenomen in de lijst van gelijkwaardige titels die wordt   gepubliceerd op de website van de bevoegde afdeling.<BR><BR>
+§ 1. De aanvraag van gelijkwaardigheid van een niet door de Vlaamse overheid of een door haar erkende organisatie verleende titel met een erkenning als vermeld in artikel 6, wordt ingediend bij de bevoegde afdeling. De aanvraag bevat alle bewijsstukken die aantonen dat de titel gelijkwaardig is aan de erkenning, vermeld in artikel 6.<br>
+<br>
+§ 2. De&nbsp;bevoegde afdeling kan in het kader van het onderzoek dat ze voert naar aanleiding van de aanvraag, aanvullende adviezen of inlichtingen van andere overheden en organisaties inwinnen.<br>
+<br>
+§ 3. De leidinggevende ambtenaar van het agentschap of departement waartoe de bevoegde afdeling behoort of zijn afgevaardigde, beslist over de volledige of gedeeltelijke gelijkwaardigheid van de titel.<br>
+<br>
+§ 4. De beslissing over de gelijkwaardigheid wordt binnen een termijn van zestig dagen, te rekenen vanaf de datum van de ontvangst van de aanvraag, door de bevoegde afdeling meegedeeld aan de aanvrager.<br>
+<br>
+§ 5. De gelijkwaardigheid van een bepaalde titel ten aanzien van een erkenning geldt voor alle andere identieke titels.<br>
+<br>
+§ 6. De titel die gelijkwaardig wordt bevonden aan een erkenning als vermeld in artikel 6, wordt opgenomen in de lijst van gelijkwaardige titels die wordt gepubliceerd op de website van de bevoegde afdeling.<br>
+&nbsp;
 
 ## HOOFDSTUK 7 Erkenningen van rechtswege
 
@@ -662,18 +695,17 @@ De erkende persoon neemt daarbij een objectieve en onafhankelijke houding aan.<b
 <br>
 § 4. De attesten, vaststellingen, verslagen en andere documenten die door een erkende persoon worden afgeleverd, zijn voldoende duidelijk en uitgebreid zodat het uit de lezing ervan mogelijk is om na te gaan of aan de reglementaire voorschriften is voldaan. Die attesten, vaststellingen, verslagen en andere documenten worden ondertekend door de erkende persoon.<br>
 <br>
-§ 5. De erkende persoon deelt elke wijziging in de identificatiegegevens, elke wijziging van de gegevens die tot de erkenning hebben geleid, waardoor hij niet meer voldoet aan de erkenningsvoorwaarden, of de definitieve stopzetting van het gebruik van de erkenning onverwijld mee aan de bevoegde afdeling.<br>
+§ 5. De erkende persoon deelt elke wijziging in de identificatiegegevens, elke wijziging van de gegevens&nbsp;waardoor hij niet meer voldoet aan de erkenningsvoorwaarden of de gebruikseisen, of de definitieve stopzetting van het gebruik van de erkenning onverwijld mee aan de bevoegde afdeling.<br>
 <br>
 De erkende persoon stelt aan de bevoegde afdeling alle inlichtingen en documenten ter beschikking waar ze om vraagt met betrekking tot de erkenning en richt zich naar de instructies die door de bevoegde afdeling en de toezichthouders worden gegeven.<br>
 <br>
 § 6. Het is de erkende persoon, zelfs na het beëindigen van zijn functie, verboden vertrouwelijke gegevens kenbaar te maken, waarvan hij ten gevolge van zijn opdrachten kennis heeft gekregen.<br>
 <br>
-§ 7.&nbsp;Personeelsleden van de bevoegde afdeling kunnen hun erkenning niet gebruiken als ze met betrekking tot de erkenning of de taken van de erkenninghouder een adviserende, toezichthoudende of beslissende functie uitoefenen.<br>
+§ 7.&nbsp;Overheidspersoneel kan zijn erkenning niet gebruiken als het met betrekking tot de erkenning of de taken van de erkenninghouder een adviserende, toezichthoudende of beslissende functie uitoefent.<br>
 <br>
 § 8. De erkende persoon verleent zijn medewerking aan periodieke evaluaties die door de bevoegde afdeling worden opgezet.<br>
 <br>
-§ 9. De erkende persoon legt vijfjaarlijks een bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, voor aan de bevoegde afdeling of voor de erkende airco-energiedeskundige, vermeld in artikel 6, 1°, f), en de erkende technici, vermeld in artikel 6, 2°, a) tot en met e), aan een erkend opleidingscentrum als vermeld in artikel 6, 4°.<br>
-&nbsp;
+§ 9. De erkende persoon legt vijfjaarlijks&nbsp;een bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, voor aan de bevoegde afdeling of voor de erkende airco-energiedeskundige, vermeld in artikel 6, 1°, f), en de erkende technici, vermeld in artikel 6, 2°, a) tot en met e), aan een erkend opleidingscentrum als vermeld in artikel 6, 4°.
 
 ## Afdeling 3 Bijzondere gebruikseisen
 
@@ -713,7 +745,7 @@ De erkende milieudeskundige in de discipline geluid en trillingen, vermeld in ar
 4° beschikt over de nodige vakliteratuur en gegevens over de uit te voeren taken met betrekking tot de erkenning;<br>
 5° blijft op de hoogte van de recentste ontwikkelingen en wetgeving inzake de discipline geluid en trillingen door jaarlijks een bijscholing van minstens acht uur te volgen;<br>
 6° keurt de sonometers die door de overheden, belast met de controle op de toepassing van de wet Geluidshinder en de uitvoeringsbesluiten ervan, worden aangeboden, en levert daarvan een attest af dat de deugdelijkheid en de nauwkeurigheid van de apparatuur waarborgt voor een periode van twaalf maanden;<br>
-7° heeft geen rechtstreeks belang in een bedrijf dat apparaten of toestellen die met geluidsmeting of lawaaibestrijding te maken hebben, fabriceert of verhandelt.<br>
+7° heeft geen rechtstreeks belang in een bedrijf dat apparaten, toestellen of andere akoestische producten die met geluidsmeting of lawaaibestrijding te maken hebben, fabriceert of verhandelt.<br>
 8° houdt de logboeken en de procedures, vermeld in bijlage 7/1, die bij dit besluit is gevoegd, ten minste vijf jaar bij;<br>
 9° kalibreert de meetapparatuur op de tijdstippen die hieronder aangegeven worden, en houdt de resultaten daarvan bij in een logboek :<br>
 a) eerstelijnskalibratie : ijking van meetapparatuur voor en na elke meting;<br>
@@ -757,13 +789,22 @@ e) hij rechtstreeks of onrechtstreeks, geheel of gedeeltelijk, gecontroleerd of 
 
 De erkende airco-energiedeskundige, vermeld in artikel 6, 1°, f) :<br>
 1° toont op verzoek het materiaal dat hij gebruikt bij de uitvoering van de werkzaamheden met betrekking tot de erkenning;<br>
-2° voert de keuring, vermeld in artikel 5.16.3.3, § 3, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, of artikel 5bis.19.8.4.8.4, § 6, eerste lid, van titel II van het VLAREM correct uit en interpreteert de resultaten correct;<br>
-3° bezorgt na iedere keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW als vermeld in artikel 5.16.3.3, § 3, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, of artikel 5bis.19.8.4.8.4, § 6, eerste lid, van titel II van het VLAREM, een verslag van de keuring aan de exploitant van het gebouw met het airconditioningsysteem. Het keuringsverslag bevat het resultaat van de keuring, alsook aanbevelingen voor een kostenefficiënte verbetering van de energieprestatie van het gekeurde systeem en, in voorkomend geval, de evaluatie van de aanbevelingen die bij de vorige keuring werden geformuleerd;<br>
+2° voert de keuring, vermeld in artikel 5.16.3.3, § 3, 4°,&nbsp;van titel II van het VLAREM correct uit en interpreteert de resultaten correct;<br>
+3° bezorgt na iedere keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW als vermeld in artikel 5.16.3.3, § 3, 4°, van titel II van het VLAREM, een verslag van de keuring aan de exploitant van het gebouw met het airconditioningsysteem. Het keuringsverslag bevat het resultaat van de keuring, alsook aanbevelingen voor een kostenefficiënte verbetering van de energieprestatie van het gekeurde systeem en, in voorkomend geval, de evaluatie van de aanbevelingen die bij de vorige keuring werden geformuleerd;<br>
 4° houdt alle gegevens van de keuring op dusdanige wijze bij dat een controle op het verloop van de keuring mogelijk is. Die gegevens en het keuringsverslag worden gedurende ten minste drie jaar bewaard en worden ter beschikking gehouden van het departement en de keuringsinstelling, vermeld in artikel 58/2;<br>
-5° houdt een overzichtslijst bij van alle keuringen als vermeld in artikel 5.16.3.3, § 3, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, of artikel 5bis.19.8.4.8.4, § 6, eerste lid, van titel II van het VLAREM, die hij in het voorbije kalenderjaar uitgevoerd heeft;<br>
+5° houdt een overzichtslijst bij van alle keuringen als vermeld in artikel 5.16.3.3, § 3, 4°,&nbsp;van titel II van het VLAREM, die hij in het voorbije kalenderjaar uitgevoerd heeft;<br>
 6° volgt vijfjaarlijks de bijscholing en slaagt voor het bijhorende examen, vermeld in artikel 43/4, 2°, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, f).<br>
 <br>
 Als een geldig bewijs van betaling van de retributie, vermeld in artikel 13/1, 4°, na een termijn van vijf jaar na het behalen van het certificaat van bekwaamheid inzake de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW, vermeld in artikel 13/1, 3°, voorgelegd wordt, moet de airco-energiedeskundige de bijscholing gevolgd hebben en voor het bijhorende examen geslaagd zijn, vermeld in het eerste lid, van dit artikel, voor hij de erkenning van rechtswege, vermeld in artikel 32, § 2, eerste lid, 6°, kan gebruiken.
+
+### ART 39/2.
+
+De erkende MER-coördinator, vermeld in artikel 6, 1°, g):<br>
+1° beschikt over de nodige vakliteratuur en gegevens over de uit te voeren taken met betrekking tot de erkenning;<br>
+2° blijft op de hoogte van de recentste ontwikkelingen en wetgeving over milieueffectrapportage door daarvoor jaarlijks een bijscholing van minstens acht uur te volgen;<br>
+3° de erkende MER-coördinator garandeert een kwaliteitsvolle uitvoering van de werkzaamheden, die ook de objectieve en onafhankelijke uitvoering van de dienstverlening omvat.<br>
+<br>
+De MER-coördinator kan geen gebruik maken van zijn erkenning als de objectieve en onafhankelijke uitvoering van de dienstverlening ten aanzien van de opdrachtgever niet kan worden gewaarborgd. De beoordeling of de objectieve en onafhankelijke uitvoering van een dienstverlening kan worden gewaarborgd, gebeurt door de MER-coördinator volgens de werkwijze, opgenomen in de standaardprocedure, vastgesteld door de minister. Deze standaardprocedure bevat een niet-limitatieve opsomming van de gevallen waarin, tot het bewijs van het tegendeel, wordt vermoed dat de MER-coördinator zich in een situatie van onverenigbaarheid bevindt. In afwijking hiervan kan de MER-coördinator toch gebruik maken van zijn erkenning als hij in het kader van de betrokken dienstverlening toepassing maakt van de beheersmaatregelen, opgenomen in de standaardprocedure.
 
 ## Onderafdeling 2 Gebruikseisen voor technici
 
@@ -1055,17 +1096,17 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 De opleiding bestaat uit drie modules :<br>
 1° module 1 : wetgeving;<br>
 2° module 2 : energetische aspecten;<br>
-3° module 3 : de correcte uitvoering van de keuring, vermeld in artikel 5.16.3.3, § 3, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, en artikel 5bis.19.8.4.8.4, § 6, eerste lid, van titel II van het VLAREM.<br>
+3° module 3 : de correcte uitvoering van de keuring, vermeld in artikel 5.16.3.3, § 3, 4°,&nbsp;eerste lid, van titel II van het VLAREM.<br>
 <br>
 Het bijhorende examen bestaat uit twee onderdelen :<br>
 1° een theorieonderdeel over de onderwerpen die in de opleiding aan bod zijn gekomen;<br>
-2° een oefening over de keuring, vermeld in artikel 5.16.3.3, § 3, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, en artikel 5bis.19.8.4.8.4, § 6, eerste lid, van titel II van het VLAREM.<br>
+2° een oefening over de keuring, vermeld in artikel 5.16.3.3, § 3, 4°,&nbsp;van titel II van het VLAREM.<br>
 <br>
 Een persoon is geslaagd voor het examen als hij voor ieder onderdeel minstens zeventig procent van de punten behaalt.<br>
 <br>
 § 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, organiseert de bijscholing met het bijhorende examen voor de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW waarvan de inhoud van de bijscholing en de minimale duur van de bijscholing en het bijhorende examen worden vastgelegd in bijlage 12, 2°, die bij dit besluit is gevoegd.<br>
 <br>
-Het bijhorende examen bestaat uit een oefening met betrekking tot de keuring, vermeld in artikel 5.16.3.3, § 3, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, en artikel 5bis.19.8.4.8.4, § 6, eerste lid, van titel II van het VLAREM.<br>
+Het bijhorende examen bestaat uit een oefening met betrekking tot de keuring, vermeld in artikel 5.16.3.3, § 3, 4°, van titel II van het VLAREM.<br>
 <br>
 Een persoon is geslaagd voor het examen als hij minstens zeventig procent van de punten behaalt.<br>
 <br>
@@ -1249,11 +1290,35 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 
 ### ART. 44.
 
-Het erkende laboratorium neemt&nbsp;deel aan de door de bevoegde afdeling   georganiseerde controle op de kwaliteit van de beproevingen en monsternemingen,   metingen en analyses&nbsp;waarvoor het laboratorium erkend is. Die controle kan   er in bestaan deel te nemen aan het maken van vergelijkingen tussen de   laboratoria, proefmonsters te analyseren en gebruik te maken van standaarden of   referentiemateriaal.<BR><BR>De bevoegde afdeling kan zich voor die controle   laten bijstaan door het referentielaboratorium van het Vlaamse Gewest die het   beoordelingsverslag opstelt. De kosten voor de controle worden voor de helft   gedragen door het Vlaamse Gewest. De andere helft komt voor rekening van de   deelnemende laboratoria. Het referentielaboratorium van het Vlaamse Gewest zorgt   voor de facturatie en de inning van de kosten die niet door het Vlaamse Gewest   worden gedragen.<BR><BR>Een gedeelte van een pakket of een volledig pakket wordt   beoordeeld :<BR>1° in geval van een ringtest op basis van de evaluatie van de   criteria, vermeld in bijlage 10, hoofdstuk 1, die bij dit besluit is   gevoegd;<BR>2° in geval van een technische proef op basis van de evaluatie van   de criteria, vermeld in bijlage 10, hoofdstuk 2, die bij dit besluit is   gevoegd.<BR><BR>Bij de beoordeling kan ook rekening gehouden worden met het   geheel van pakketten waarvoor een laboratorium erkend is binnen een discipline,   of, in voorkomend geval, het deeldomein, of met de resultaten van de ringtesten   of technische proeven van de voorbije twee kalenderjaren.<BR><BR>Het erkende   laboratorium geeft op verzoek van de bevoegde afdeling het nodige gevolg aan het   beoordelingsverslag en legt, in voorkomend geval, een plan van aanpak met   corrigerende maatregelen en termijnen van uitvoering voor aan de bevoegde   afdeling en het referentielaboratorium van het Vlaamse Gewest. Het plan van   aanpak moet door de bevoegde afdeling goedgekeurd worden. Het erkende   laboratorium voert de corrigerende maatregelen uit binnen de termijn die is   opgenomen in het goedgekeurde plan van aanpak.
+Het erkende laboratorium neemt&nbsp;deel aan de door de bevoegde afdeling georganiseerde controle op de kwaliteit van de beproevingen en monsternemingen, metingen en analyses&nbsp;waarvoor het laboratorium erkend is. Die controle kan er in bestaan deel te nemen aan het maken van vergelijkingen tussen de laboratoria, proefmonsters te analyseren en gebruik te maken van standaarden of referentiemateriaal.<br>
+<br>
+De bevoegde afdeling kan zich voor die controle laten bijstaan door het referentielaboratorium van het Vlaamse Gewest die het beoordelingsverslag opstelt. De kosten voor de controle worden voor de helft gedragen door het Vlaamse Gewest. De andere helft komt voor rekening van de deelnemende laboratoria. Het referentielaboratorium van het Vlaamse Gewest zorgt voor de facturatie en de inning van de kosten die niet door het Vlaamse Gewest worden gedragen.<br>
+<br>
+Een gedeelte van een pakket of een volledig pakket wordt beoordeeld :<br>
+1° in geval van een ringtest op basis van de evaluatie van de criteria, vermeld in bijlage 10, hoofdstuk 1, die bij dit besluit is gevoegd;<br>
+2° in geval van een technische proef op basis van de evaluatie van de criteria, vermeld in bijlage 10, hoofdstuk 2, die bij dit besluit is gevoegd.<br>
+<br>
+Het erkende laboratorium geeft op verzoek van de bevoegde afdeling het nodige gevolg aan het beoordelingsverslag en legt, in voorkomend geval, een plan van aanpak met corrigerende maatregelen en termijnen van uitvoering voor aan de bevoegde afdeling en het referentielaboratorium van het Vlaamse Gewest. Het plan van aanpak moet door de bevoegde afdeling goedgekeurd worden. Het erkende laboratorium voert de corrigerende maatregelen uit binnen de termijn die is opgenomen in het goedgekeurde plan van aanpak.
 
 ### ART. 45.
 
-<P>§ 1. Het erkende laboratorium past voor de monsternemingen, beproevingen,   metingen en analyses waarvoor het erkend is, de volgende methoden toe :<BR>1°   een erkend laboratorium als vermeld in artikel 6, 5°, a) : het compendium voor   de monsterneming, meting en analyse van water, afgekort WAC;<BR>2° een erkend   laboratorium als vermeld in artikel 6, 5°, b) : het compendium voor de   monsterneming, meting en analyse van lucht, afgekort LUC;<BR>3° een erkend   laboratorium als vermeld in artikel 6, 5°, c) : het compendium voor de   monsterneming, meting en analyse in het kader van bodembescherming, afgekort   BOC;<BR>4° een erkend laboratorium als vermeld in artikel 6, 5°, d) : het   compendium bemonsterings- en analysemethodes in het kader van het Mestdecreet,   afgekort BAM;<BR>5° een erkend laboratorium als vermeld in artikel 6, 5°, e) en   f) : het compendium voor de monsterneming en analyse in het kader van het   Materialendecreet en het Bodemdecreet, afgekort CMA.<BR><BR>§ 2. Het erkende   laboratorium past voor de monsternemingen, beproevingen, metingen en analyses   waarvoor het erkend is, en waarvoor in de compendia, vermeld onder paragraaf 1,   geen methoden opgenomen zijn, de volgende methoden toe :<BR>1° de methoden,   vermeld in de toepasselijke bepalingen in de wetten, decreten en besluiten die   van toepassing zijn in het Vlaamse Gewest;<BR>2° de methoden, vermeld in   Belgische normen die uitgegeven zijn door het NBN;<BR>3° de methoden, vermeld in   normen die uitgegeven zijn door het Comité Européen de Normalisation   (CEN);<BR>4° de methoden, vermeld in normen die uitgegeven zijn door de   International Organisation for Standardization (ISO);<BR>5° de methoden van een   in die materie onderlegde instelling of erkend laboratorium, die door het   referentielaboratorium van het Vlaamse Gewest en de bevoegde afdeling geschikt   bevonden zijn.<BR><BR>De volgorde, vermeld in het eerste lid, is bepalend. De   minister kan de methoden als vermeld in punt 3° en 4° bepalen.   </P>
+<p>§ 1. Het erkende laboratorium past voor de monsternemingen, beproevingen, metingen en analyses waarvoor het erkend is, de volgende methoden toe :<br>
+1° een erkend laboratorium als vermeld in artikel 6, 5°, a) : het compendium voor de monsterneming, meting en analyse van water, afgekort WAC;<br>
+2° een erkend laboratorium als vermeld in artikel 6, 5°, b) : het compendium voor de monsterneming, meting en analyse van lucht, afgekort LUC;<br>
+3° een erkend laboratorium als vermeld in artikel 6, 5°, c) : het compendium voor de monsterneming, meting en analyse in het kader van bodembescherming, afgekort BOC;<br>
+4° een erkend laboratorium als vermeld in artikel 6, 5°, d) : het compendium bemonsterings- en analysemethodes in het kader van het Mestdecreet, afgekort BAM;<br>
+5° een erkend laboratorium als vermeld in artikel 6, 5°, e) en f) : het compendium voor de monsterneming en analyse in het kader van het Materialendecreet en het Bodemdecreet, afgekort CMA.<br>
+<br>
+Het compendium wordt op voorstel van de bevoegde afdeling goedgekeurd bij ministerieel besluit en de inhoudstafel wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br>
+<br>
+§ 2. Het erkende laboratorium past voor de monsternemingen, beproevingen, metingen en analyses waarvoor het erkend is, en waarvoor in de compendia, vermeld onder paragraaf 1, geen methoden opgenomen zijn, de volgende methoden toe :<br>
+1° de methoden, vermeld in de toepasselijke bepalingen in de wetten, decreten en besluiten die van toepassing zijn in het Vlaamse Gewest;<br>
+2° de methoden, vermeld in Belgische normen die uitgegeven zijn door het NBN;<br>
+3° de methoden, vermeld in normen die uitgegeven zijn door het Comité Européen de Normalisation (CEN);<br>
+4° de methoden, vermeld in normen die uitgegeven zijn door de International Organisation for Standardization (ISO);<br>
+5° de methoden van een in die materie onderlegde instelling of erkend laboratorium, die door het referentielaboratorium van het Vlaamse Gewest en de bevoegde afdeling geschikt bevonden zijn.<br>
+<br>
+De volgorde, vermeld in het eerste lid, is bepalend. De minister kan de methoden als vermeld in punt 3° en 4° bepalen.</p>
 
 ### ART. 46.
 
@@ -1271,12 +1336,12 @@ Het erkende laboratorium beschikt voor ten minste één parameter per discipline
 In de volgende gevallen is het laboratorium vrijgesteld van de gebruikseis, vermeld in het eerste lid, op voorwaarde dat het ISO/IEC 17025 met betrekking tot de te volgen methoden, vermeld in artikel 45, toepast :<br>
 1° een laboratorium als vermeld in artikel 6, 5°, a), dat alleen erkend is voor het pakket W.1, vermeld in bijlage 3, 1°, die bij dit besluit is gevoegd;<br>
 2° een laboratorium als vermeld in artikel 6, 5°, b), dat alleen erkend is voor het pakket L.11.1, L.11.2 of L.18, vermeld in bijlage 3, 2°, die bij dit besluit is gevoegd;<br>
-3° een laboratorium als vermeld in artikel 6, 5°, d), dat alleen erkend is voor het pakket M-M1 of M-M3, vermeld in bijlage 3, 4°, die bij dit besluit is gevoegd;<br>
+3° een laboratorium als vermeld in artikel 6, 5°, d), dat alleen erkend is voor het pakket M-M1, M-M3, M-M5 of M-M6, vermeld in bijlage 3, 4°, die bij dit besluit is gevoegd;<br>
 4° een laboratorium als vermeld in artikel 6, 5°, e), dat alleen erkend is voor het pakket MA.1, MA.2, MA.3, MA.4, MA.5, MA.6, MA.7.1 of MA.7.2, vermeld in bijlage 3, 5°, die bij dit besluit is gevoegd.
 
 ### ART. 49.
 
-<P>Op de verslagen en andere documenten die afgeleverd worden door een erkend   laboratorium, wordt een erkenningslogo aangebracht en wordt duidelijk vermeld   voor welke uitgevoerde monsternemingen, metingen, beproevingen en analyses het   laboratorium erkend is en voor welke niet. Het erkenningslogo kan door de   minister vastgesteld worden. </P>
+<p>Op de verslagen en andere documenten die afgeleverd worden door een erkend laboratorium, wordt een erkenningslogo aangebracht en wordt duidelijk vermeld voor welke uitgevoerde monsternemingen, metingen, beproevingen en analyses het laboratorium erkend is en voor welke niet. Het erkenningslogo kan door de minister vastgesteld worden. De verslagen en andere documenten worden gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en het referentielaboratorium van het Vlaamse Gewest.</p>
 
 ### ART. 50.
 
@@ -1314,13 +1379,53 @@ Voor de gevallen, vermeld in punt 3° en 4°, is het erkende laboratorium verant
 
 ### ART. 53/1.
 
-§ 1. Voor bepaalde door de minister vastgestelde monsternemingen en   analyses die uitgevoerd worden in het kader van het Mestdecreet, wordt een   aanmelding gedaan door het erkende laboratorium, vermeld in artikel 6, 5°, d),   aan de Mestbank via een webapplicatie die de Mestbank ter beschikking stelt. De   minister bepaalt de nadere regels voor de aanmelding en de webapplicatie. Alleen   de analyseresultaten van de monsternemingen die voorafgaand zijn aangemeld bij   de Mestbank, kunnen gebruikt worden om bepaalde rechten te verkrijgen in het   kader van het Mestdecreet of om te voldoen aan bepaalde verplichtingen in het   kader van het Mestdecreet.<BR><BR>§ 2. Het erkende laboratorium, vermeld in   artikel 6, 5°, d), bezorgt van elke aangemelde monsterneming de   analyseresultaten aan de Mestbank. De minister bepaalt de procedure voor die   gegevensoverdracht.<BR><BR>§ 3. Het erkende laboratorium, vermeld in artikel 6,   5°, d), maakt gebruik van een gps-datalogger bij de uitvoering van de   monsternemingen die betrekking hebben op monsterneming en analyse van de bodem   voor het bepalen van :<BR>1° het nitraatresidu, vermeld in artikel 13, § 6,   artikel 14 en 15 van het Mestdecreet;<BR>2° de fosfaatverzadigingsgraad en het   fosfaatbindend vermogen, vermeld in artikel 17, § 3, van het Mestdecreet;<BR>3°   het gehalte aan stikstof uit kunstmest of uit andere specifieke meststoffen bij   de bodemanalyses, vermeld in artikel 4, § 2, van het besluit van de Vlaamse   Regering van 10 oktober 2008 betreffende nadere regels rond tuinbouw ter   uitvoering van het decreet van 22 december 2006 houdende de bescherming van   water tegen de verontreiniging door nitraten uit agrarische bronnen;<BR>4° het   gehalte aan fosfaat uit kunstmest bij de bodemanalyses, vermeld in artikel 6, §   1, van het besluit, vermeld in punt 3° ;<BR>5° het nitraatresidu en het   koolstofgehalte met het oog op het opbrengen van compost op percelen met een te   laag koolstofgehalte, vermeld in artikel 8 van het besluit, vermeld in punt 3°   ;<BR>6° het nitraatresidu, vermeld in artikel 58, 9°, van het ministerieel   besluit van 11 juni 2008 betreffende het sluiten van beheersovereenkomsten en   het toekennen van vergoedingen ter uitvoering van Verordening (EG) nr. 1698/2005   van de Raad van 20 september 2005 inzake steun voor   plattelandsontwikkeling.<BR><BR>De minister kan bijkomende categorieën van   monsternemingen bepalen waarvoor het erkende laboratorium moet gebruikmaken van   een gps-datalogger.<BR><BR>De gps-dataloggegevens worden bezorgd aan de   Mestbank. De minister bepaalt de nadere regels voor het gebruik van de   gps-datalogger en de procedure voor de overdracht van de   gps-dataloggegevens.
+§ 1. Voor bepaalde door de minister vastgestelde monsternemingen en analyses die uitgevoerd worden in het kader van het Mestdecreet of de uitvoeringsbesluiten ervan, wordt een aanmelding gedaan door het erkende laboratorium, vermeld in artikel 6, 5°, d), aan de Mestbank via een webapplicatie die de Mestbank ter beschikking stelt. De minister bepaalt de nadere regels voor de aanmelding en de webapplicatie. Alleen de analyseresultaten van de monsternemingen die voorafgaand zijn aangemeld bij de Mestbank, kunnen gebruikt worden om bepaalde rechten te verkrijgen in het kader van het Mestdecreet of om te voldoen aan bepaalde verplichtingen in het kader van het Mestdecreet.<br>
+<br>
+§ 2. Het erkende laboratorium, vermeld in artikel 6, 5°, d), bezorgt van elke aangemelde monsterneming de analyseresultaten aan de Mestbank. De minister bepaalt de procedure voor die gegevensoverdracht.<br>
+<br>
+§ 3. Het erkende laboratorium, vermeld in artikel 6, 5°, d), zorgt dat er een gps-datalogger gebruikt wordt bij de monsternemingen.<br>
+<br>
+Voor bepaalde door de minister vastgestelde monsternemingen worden de dataloggegevens in gps exchange format (gpx) bezorgd aan de Mestbank via een webapplicatie die de Mestbank ter beschikking stelt. De minister bepaalt de nadere regels voor het gebruik van de gps-datalogger en de procedure voor de overdracht van het gpx-bestand met de dataloggegevens.<br>
+<br>
+§ 4. Het erkende laboratorium, vermeld in artikel 6, 5°, d), bewaart de resultaten van de kwaliteitscontrole als vermeld in het BAM gedurende ten minste vijf jaar en houdt ze ter beschikking van de Mestbank en het referentielaboratorium van het Vlaamse Gewest.<br>
+<br>
+§ 5. Het erkende laboratorium, vermeld in artikel 6, 5°, d), bewaart het gpx-bestand met de dataloggegevens en het monsternameformulier die de monsternemer aanlevert gedurende ten minste vijf jaar en houdt dat bestand en formulier ter beschikking van de Mestbank en het referentielaboratorium van het Vlaamse Gewest.<br>
+<br>
+§ 6. Het erkende laboratorium, vermeld in artikel 6, 5°, d), organiseert een opleiding voor een monsternemer die geregistreerd wil worden. De onderdelen van de inhoud van de opleiding zijn opgenomen in bijlage 23, die bij dit besluit is gevoegd.<br>
+<br>
+Het erkende laboratorium reikt een bevoegdheidsverklaring uit aan een monsternemer nadat hij de opleiding gevolgd heeft en voldoet aan de eisen die het laboratorium vastgelegd heeft in de procedure voor de opleiding die in het kwaliteitssysteem van het erkende laboratorium opgenomen is.<br>
+<br>
+Als het erkende laboratorium een monsternemer die het geregistreerd heeft, niet langer bevoegd acht, meldt het laboratorium dat onmiddellijk aan de Mestbank, met opgave van de reden waarom het de bevoegdheidsverklaring heeft ingetrokken.<br>
+<br>
+§ 7. Het erkende laboratorium, vermeld in artikel 6, 5°, d), zorgt dat de monsternemingen van de bodem uitgevoerd worden door een monsternemer die het geregistreerd heeft als vermeld in artikel 58/3, met toepassing van de gebruikseisen, vermeld in artikel 58/4.<br>
+<br>
+§ 8. Het erkende laboratorium, vermeld in artikel 6, 5°, d), zorgt dat bij de monsternemingen van de bodem de geregistreerde monsternemer conform het kwaliteitssysteem van het erkende laboratorium en het BAM werkt.<br>
+<br>
+§ 9. Het erkende laboratorium, vermeld in artikel 6, 5°, d), zorgt dat de geregistreerde monsternemer gedurende de monsternemingen over het nodige materiaal, vermeld in het BAM, beschikt.
 
 ### ART. 53/2.
 
-Voor bepaalde door de minister vastgelegde monsternemingen en analyses die uitgevoerd worden in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid, moet het erkende laboratorium, vermeld in artikel 6, 5°, c), een rapportering van de analyseresultaten bezorgen aan de subentiteit van het Departement Omgeving, bevoegd voor bodembescherming. De minister bepaalt de procedure voor die rapportering.<br>
+§ 1. Voor alle monsternemingen die uitgevoerd worden in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid doet het erkende laboratorium, vermeld in artikel 6, 5°, c), een aanmelding bij de subentiteit van het departement Omgeving, bevoegd voor bodembescherming. De aanmelding wordt gedaan via een webapplicatie. De minister bepaalt de nadere regels voor de aanmelding en de webapplicatie. Alleen de analyseresultaten van de monsternemingen die voorafgaand zijn aangemeld bij de subentiteit van het departement Omgeving, bevoegd voor bodembescherming, kunnen gebruikt worden in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid.<br>
 <br>
-Voor alle monsternemingen die uitgevoerd worden in het kader van het voormelde besluit, moet het erkende laboratorium gebruikmaken van een gps-datalogger.
+§ 2. Het erkende laboratorium, vermeld in artikel 6, 5°, c), zorgt dat er een gps-datalogger gebruikt wordt bij de monsternemingen.<br>
+<br>
+Het gpx-bestand met de dataloggegevens wordt bezorgd aan de subentiteit van het departement Omgeving, bevoegd voor bodembescherming, via een webapplicatie. De minister bepaalt de nadere regels voor het gebruik van de gps-datalogger en de procedure voor de overdracht van het gpx-bestand met de dataloggegevens.<br>
+<br>
+§ 3. Het erkende laboratorium, vermeld in artikel 6, 5°, c), bewaart de resultaten van de kwaliteitscontrole als vermeld in het BOC gedurende ten minste vijf jaar en houdt ze ter beschikking van het departement en het referentielaboratorium van het Vlaamse Gewest.<br>
+<br>
+§ 4. Het erkende laboratorium, vermeld in artikel 6, 5°, c), bewaart het gpx-bestand met de dataloggegevens en het monsternameformulier die de monsternemer aanlevert, en het advies als vermeld in de Code van goede praktijk bodembescherming gedurende ten minste vijf jaar en houdt dat bestand, formulier en advies ter beschikking van het departement en het referentielaboratorium van het Vlaamse Gewest.<br>
+<br>
+§ 5. Het erkende laboratorium, vermeld in artikel 6, 5°, c), organiseert een opleiding voor een monsternemer die geregistreerd wil worden. De onderdelen van de inhoud van de opleiding zijn opgenomen in bijlage 23, die bij dit besluit is gevoegd.<br>
+<br>
+Het erkende laboratorium reikt een bevoegdheidsverklaring uit aan een monsternemer nadat hij de opleiding gevolgd heeft en voldoet aan de eisen die het laboratorium vastgelegd heeft in de procedure voor de opleiding die in het kwaliteitssysteem van het erkende laboratorium opgenomen is.<br>
+<br>
+Als het erkende laboratorium een monsternemer die het geregistreerd heeft, niet langer bevoegd acht, meldt het laboratorium dat onmiddellijk aan de Mestbank, met opgave van de reden waarom het de bevoegdheidsverklaring heeft ingetrokken.<br>
+<br>
+§ 6. Het erkende laboratorium, vermeld in artikel 6, 5°, c), zorgt dat de monsternemingen van de bodem uitgevoerd worden door een monsternemer die het geregistreerd heeft als vermeld in artikel 58/3, met toepassing van de gebruikseisen, vermeld in artikel 58/4.<br>
+<br>
+§ 7. Het erkende laboratorium, vermeld in artikel 6, 5°, c), zorgt dat bij de monsternemingen van de bodem de geregistreerde monsternemer conform het kwaliteitssysteem van het erkende laboratorium en het BOC werkt.<br>
+<br>
+§ 8. Het erkende laboratorium, vermeld in artikel 6, 5°, c), zorgt ervoor dat de geregistreerde monsternemer gedurende de monsternemingen over het nodige materiaal, vermeld in het BOC, beschikt.
 
 ## [Onderafdeling 6 Gebruikseisen voor bodemsaneringsdeskundigen (ing. BVR 1 maart 2013, art. 126, I: 3 mei 2013)]
 
@@ -1417,7 +1522,8 @@ e) bij een buitendienststelling :<br>
 a) per exploitant en per koelinstallatie : de registraties, vermeld in punt 2° ;<br>
 b) de hoeveelheid gefluoreerde broeikasgassen die werden aangekocht met vermelding van de datum van aankoop en de naam van de leverancier;<br>
 c) de hoeveelheid gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen die werden afgevoerd met vermelding van de datum van afvoer, de naam van de vervoerder en de bestemming van die koelmiddelen;<br>
-4° gaat na iedere bijvulling na of het maximaal relatief lekverlies, vermeld in artikel 5.16.3.3, § 6, artikel 5bis.15.5.4.5.5, artikel 5bis.19.8.4.8.5 en artikel 6.8.1.2 van titel II van het VLAREM, niet overschreden werd. Als blijkt dat het maximaal relatief lekverlies overschreden is en maatregelen moeten worden getroffen, brengt het koeltechnisch bedrijf ten minste de eigenaar of beheerder schriftelijk op de hoogte van de vastgestelde lekkage en formuleert het een voorstel van te nemen maatregelen;<br>
+d) de schriftelijke meldingen over het overschrijden van het maximaal relatief lekverlies als vermeld in punt 4° ;<br>
+4° gaat na iedere bijvulling na of het maximaal relatief lekverlies, vermeld in artikel 5.16.3.3, § 6,&nbsp;en artikel 6.8.1.2 van titel II van het VLAREM, niet overschreden werd. Als blijkt dat het maximaal relatief lekverlies overschreden is en maatregelen moeten worden getroffen, brengt het koeltechnisch bedrijf ten minste de eigenaar of beheerder schriftelijk op de hoogte van de vastgestelde lekkage en formuleert het een voorstel van te nemen maatregelen;<br>
 5° toont op verzoek het materiaal dat gebruikt wordt bij de uitvoering van de werkzaamheden met betrekking tot de erkenning;<br>
 6° zorgt ervoor dat de koeltechnicus gedurende de erkenningsplichtige werkzaamheden aan stationaire koelinstallaties over de nodige apparatuur, instrumenten en materialen beschikt. Die apparatuur bevat gekalibreerde meetapparatuur en ten minste het materiaal, vermeld in bijlage 21, die bij dit besluit is gevoegd;<br>
 7° doet al het mogelijke om lekkage van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen te voorkomen of tot een minimum te beperken;<br>
@@ -1471,7 +1577,7 @@ c) de hoeveelheid gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen die 
 De erkende keuringsinstelling, vermeld in artikel 6, 8° :<br>
 1° is geaccrediteerd als keuringsinstelling van het type A op basis van de criteria van de norm ISO/IEC 17020 voor de keuring, vermeld in artikel 25/4, 4°, of behaalt die accreditatie binnen een termijn van een jaar, te rekenen vanaf de dag nadat de erkenning verkregen is;<br>
 2° wijst een of meer keurders aan die beschikken over een erkenning als koeltechnicus als vermeld in artikel 32, § 2, eerste lid, 7°, van categorie I of die over minstens drie jaar praktijkervaring in de koelsector beschikken;<br>
-3° reikt binnen een maand nadat een bedrijf met goed gevolg gekeurd werd als vermeld in artikel 25/4, 4°, een certificaat uit. Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt de keuringsinstelling de instructies van het departement. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de het departement. Een kopie van het uitgereikte certificaat wordt bezorgd aan het departement;<br>
+3° reikt binnen een maand nadat een bedrijf met goed gevolg gekeurd werd als vermeld in artikel 25/4, 4°, een certificaat uit. Het certificaat bevat minstens de gegevens, vermeld in bijlage 24, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt de keuringsinstelling de instructies van het departement. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de het departement. Een kopie van het uitgereikte certificaat wordt bezorgd aan het departement;<br>
 4° bezorgt maandelijks aan het departement, een overzicht van de bedrijven die met gunstig gevolg gekeurd zijn. Dat overzicht bevat minstens de gegevens, vermeld in bijlage 22, die bij dit besluit is gevoegd;<br>
 5° behandelt en onderzoekt klachten, ingediend door het departement;<br>
 6° moet, als daarom wordt verzocht door&nbsp;het departement personeelsleden de mogelijkheid bieden om de keuring bij te wonen;<br>
@@ -1481,7 +1587,21 @@ De erkende keuringsinstelling, vermeld in artikel 6, 8° :<br>
 
 ### ART. 54.
 
-§ 1. De leidinggevende ambtenaar van het agentschap of departement waartoe   de bevoegde afdeling behoort, kan de erkenning geheel of gedeeltelijk schorsen   of opheffen in een of meer van de volgende gevallen :<BR>1° er is niet meer   voldaan aan een of meer van de algemene of bijzondere   erkenningsvoorwaarden;<BR>2° een of meer van de algemene of bijzondere   gebruikseisen van de erkenning wordt geschonden;<BR>3° bij een controle worden   foutieve resultaten vastgesteld bij de monsternemingen, metingen, beproevingen   of analyses.<BR>4° geen enkele werknemer die geslaagd is voor de ringtest met   betrekking tot het pakket voor een erkend laboratorium als vermeld in artikel 6,   5°, c), of voor de technische proef, vermeld in bijlage 10, hoofdstuk 2, 8°, die   bij dit besluit is gevoegd, werkt nog bij het erkende laboratorium;<BR>5° de   retributie als vermeld in artikel 54/1, § 2, niet betaald wordt. <BR><BR>§ 2. De   bevoegde afdeling brengt de erkende persoon met een aangetekende brief op de   hoogte van het voornemen om de erkenning volledig of gedeeltelijk te schorsen of   op te heffen, met vermelding van de redenen, en nodigt hem tegelijkertijd uit   zijn verweermiddelen in te dienen en aanwezig te zijn op een   hoorzitting.<BR><BR>§ 3. De leidinggevende ambtenaar van het agentschap of   departement waartoe de bevoegde afdeling behoort, neemt een beslissing over de   volledige of gedeeltelijke schorsing of opheffing van de erkenning, rekening   houdend met de eventueel vervulde formaliteiten en meegedeelde   verweermiddelen.<BR><BR>§ 4. Als de erkenning volledig of gedeeltelijk wordt   geschorst of opgeheven, betekent de bevoegde afdeling de beslissing met een   aangetekende brief aan de persoon in kwestie.<BR><BR>§ 5. Als de procedure tot   volledige of gedeeltelijke schorsing of opheffing van de erkenning wordt   stopgezet, wordt de erkende persoon daarvan op de hoogte   gebracht.<BR><BR>
+§ 1. De leidinggevende ambtenaar van het agentschap of departement waartoe de bevoegde afdeling behoort of zijn afgevaardigde, kan de erkenning geheel of gedeeltelijk schorsen of opheffen in een of meer van de volgende gevallen :<br>
+1° er is niet meer voldaan aan een of meer van de algemene of bijzondere erkenningsvoorwaarden;<br>
+2° een of meer van de algemene of bijzondere gebruikseisen van de erkenning wordt geschonden;<br>
+3° bij een controle worden foutieve resultaten vastgesteld bij de monsternemingen, metingen, beproevingen of analyses.<br>
+4° geen enkele werknemer die geslaagd is voor de ringtest met betrekking tot het pakket voor een erkend laboratorium als vermeld in artikel 6, 5°, c), of voor de technische proef, vermeld in bijlage 10, hoofdstuk 2, 8°, die bij dit besluit is gevoegd, werkt nog bij het erkende laboratorium;<br>
+5° ...<br>
+<br>
+§ 2. De bevoegde afdeling brengt de erkende persoon met een aangetekende brief op de hoogte van het voornemen om de erkenning volledig of gedeeltelijk te schorsen of op te heffen, met vermelding van de redenen, en nodigt hem tegelijkertijd uit zijn verweermiddelen in te dienen en aanwezig te zijn op een hoorzitting.<br>
+<br>
+§ 3. De leidinggevende ambtenaar van het agentschap of departement waartoe de bevoegde afdeling behoort of zijn afgevaardigde, neemt een beslissing over de volledige of gedeeltelijke schorsing of opheffing van de erkenning, rekening houdend met de eventueel vervulde formaliteiten en meegedeelde verweermiddelen.<br>
+<br>
+§ 4. Als de erkenning volledig of gedeeltelijk wordt geschorst of opgeheven, betekent de bevoegde afdeling de beslissing met een aangetekende brief aan de persoon in kwestie.<br>
+<br>
+§ 5. Als de procedure tot volledige of gedeeltelijke schorsing of opheffing van de erkenning wordt stopgezet, wordt de erkende persoon daarvan op de hoogte gebracht.<br>
+&nbsp;
 
 ## [HOOFDSTUK 9/1 Retributie (ing. BVR 1 maart 2013, art. 129, I: 3 mei 2013)]
 
@@ -1493,24 +1613,27 @@ De bedragen van die retributie worden vastgesteld in bijlage 18, A, die bij dit 
 <br>
 § 2. Voor de uitoefening van het toezicht op de erkenning wordt een retributie geheven, waarvan de opbrengst rechtstreeks en integraal in het Fonds voor de behandeling van de erkenningsaanvragen en de uitoefening van het toezicht op de erkenningen met betrekking tot het leefmilieu wordt gestort, ten laste van elke natuurlijke persoon of rechtspersoon die in het bezit is van een erkenning als vermeld in artikel 6. Die retributie is op de volgende tijdstippen verschuldigd :<br>
 1° in geval van personen die van rechtswege erkend zijn conform artikel 32, § 2, eerste lid, 1° tot en met 4°, 6° en 7°, of van personen die met toepassing van artikel 32, § 1, op basis van een gelijkwaardige titel van rechtswege erkend worden als technicus als vermeld in artikel 6, 2° : een eerste keer voor het verkrijgen van het erkenningscertificaat en vervolgens vijfjaarlijks, te rekenen vanaf de datum, vermeld op het certificaat, in voorkomend geval bij het volgen van de bijscholing of bij de deelname aan het actualisatie-examen;<br>
-2° in geval van personen die van rechtswege erkend zijn conform artikel 32, § 2, eerste lid, 8° tot en met 11° : een eerste keer voor het verkrijgen van het erkenningscertificaat en vervolgens uiterlijk op 31 december 2019 en vervolgens vijfjaarlijks;<br>
-3° in alle andere gevallen, dan de gevallen, vermeld in punt 1° en 2° : uiterlijk op 31 december 2014 en vervolgens vijfjaarlijks.<br>
+2° in geval van personen die van rechtswege erkend zijn conform artikel 32, § 2, eerste lid, 8° tot en met 11° : voor het verkrijgen van het erkenningscertificaat;<br>
+3° in alle andere gevallen, dan de gevallen, vermeld in punt 1° en 2° : uiterlijk op 31 december 2014.<br>
 <br>
 De bedragen van die retributie worden vastgesteld in bijlage 18, B, die bij dit besluit is gevoegd.<br>
 <br>
-§ 3. De retributies, vermeld in paragraaf 1 en 2, gelden niet voor de volgende categorieën van erkenningen :<br>
+§ 3. De retributies, vermeld in paragraaf 1 en 2, gelden niet voor de volgende categorieën van erkenningen:<br>
 1° de opleidingscentra, vermeld in artikel 6, 4° ;<br>
-2° de laboratoria, vermeld in artikel 6, 5°.<br>
-3° de keuringsinstellingen, vermeld in artikel 6, 8°.<br>
+2° de keuringsinstellingen, vermeld in artikel 6, 8°.<br>
 <br>
 § 4. De retributies, vermeld in paragraaf 1 en 2, gelden ook niet in de volgende gevallen :<br>
 1° bij een uitbreiding van de erkenning van een milieudeskundige als vermeld in artikel 6, 1°, a) en c), in de discipline waarvoor de milieudeskundige erkend is;<br>
 2° bij een uitbreiding van de erkenning van een MER-deskundige in de discipline waarvoor de MER-deskundige erkend is;<br>
 3° bij de erkenning als MER-deskundige in de discipline geluid en trillingen als vermeld in artikel 6, 1°, d), 7);<br>
 4° bij een uitbreiding van de erkenning van een technicus gasvormige brandstof als vermeld in artikel 6, 2°, b), met de module GII.<br>
-5° bij een uitbreiding van de erkenning van een koeltechnicus als vermeld in artikel 6, 2°, e), met een andere categorie.<br>
+5° bij een uitbreiding van de erkenning van een koeltechnicus als vermeld in artikel 6, 2°, e), met een andere categorie;<br>
+7° bij de erkenning als laboratorium als vermeld in artikel 6, 5°, a), b), d), met betrekking tot de discipline diervoeder, e) en f);<br>
+8° bij de erkenning als laboratorium als vermeld in artikel 6, 5°, d), met betrekking tot de discipline mest tenzij het laboratorium alleen erkend is voor het pakket M-M6 als vermeld in bijlage 3, 4°.<br>
 <br>
-§ 5. De retributie, vermeld in paragraaf 1, is niet van toepassing op de personen die van rechtswege erkend zijn conform artikel 32.<br>
+§ 5. De retributie, vermeld in paragraaf 1, is niet van toepassing:<br>
+1° op de personen die van rechtswege erkend zijn conform artikel 32;<br>
+2° voor de eerste aanvraag tot erkenning als laboratorium als vermeld in artikel 6, 5°, d), met betrekking tot de discipline mest voor het pakket M-M6 als vermeld in bijlage 3, 4°.<br>
 <br>
 § 6. In uitzonderlijke gevallen kan het afdelingshoofd van de bevoegde afdeling of diens plaatsvervanger op basis van een gemotiveerde aanvraag beslissen een persoon geheel of gedeeltelijk vrij te stellen van een verschuldigde retributie, vermeld in paragraaf 2.
 
@@ -1524,14 +1647,14 @@ De bedragen van die retributie worden vastgesteld in bijlage 18, B, die bij dit 
 
 § 1. De erkenning vervalt van rechtswege op de dag dat de erkenninghouder aan de bevoegde afdeling de stopzetting van het gebruik van de erkenning meedeelt.<br>
 &nbsp;
-<p style="text-align: justify;">§1/1. De erkenning als laboratorium als vermeld in artikel 6, 5°, a), voor een deeldomein van een pakket vervalt van rechtswege als het deeldomein niet meer vastgelegd is door de minister.<br>
+<p style="text-align:justify">§1/1. De erkenning als laboratorium als vermeld in artikel 6, 5°, a), voor een deeldomein van een pakket vervalt van rechtswege als het deeldomein niet meer vastgelegd is door de minister.<br>
 <br>
 § 2. De erkenning van een airco-energiedeskundige als vermeld in artikel 6, 1°, f), of een technicus als&nbsp;vermeld in artikel 6, 2°, a) tot en met d), vervalt ook in een van de volgende gevallen :<br>
 1° als hij de bijscholing niet heeft gevolgd;<br>
 2° als de erkende persoon niet tijdig slaagt voor de proef inzake de bijscholing.<br>
 In dat geval moet, voor de erkenning opnieuw kan worden verleend, de airco-energiedeskundige of de technicus de bijscholing volgen en slagen voor het bijhorende examen, vermeld in artikel 39/1, eerste lid, 6°, respectievelijk artikel 40, eerste lid, 3°.&nbsp;<br>
 <br>
-§ 2/1. De erkenning van een deskundige als vermeld in artikel 6, 1°, c), d) of e), of een milieucoördinator als vermeld in artikel 6, 3°, a), vervalt ook als hij gedurende twee opeenvolgende kalenderjaren het totale aantal te volgen uren van de bijscholing niet gevolgd heeft.<br>
+§ 2/1. De erkenning van een deskundige als vermeld in artikel 6, 1°, c), d), e)&nbsp;of g), of een milieucoördinator als vermeld in artikel 6, 3°, a), vervalt ook als hij gedurende twee opeenvolgende kalenderjaren het totale aantal te volgen uren van de bijscholing niet gevolgd heeft.<br>
 <br>
 In dat geval moet hij, voor de erkenning opnieuw kan worden verleend, het resterende aantal nog te volgen uren van de bijscholing volgen.<br>
 <br>
@@ -1539,13 +1662,17 @@ Met behoud van de toepassing van hoofdstuk 9 en 13 van dit besluit zijn de bijzo
 <br>
 Met behoud van de toepassing van hoofdstuk 9 en 13 van dit besluit zijn de bijzondere erkenningsvoorwaarden, vermeld in artikel 18, § 1, 3°, of § 2, 3°, niet van toepassing voor milieucoördinatoren die erkend zijn op basis van een aanvraag die is ingediend voor 1 januari 2000, en die opnieuw een erkenning willen verkrijgen nadat hun erkenning van rechtswege is vervallen.<br>
 <br>
-§ 3. In afwijking van paragraaf 2 tot en met 2/1 vervalt de erkenning niet van rechtswege als de bevoegde afdeling beslist, op basis van de door de erkende persoon voor te leggen bewijzen, dat hij om redenen van overmacht niet in staat was de bijscholing te volgen of de proef af te leggen. Als de bevoegde afdeling tot die beslissing komt, zal ze de erkende persoon een nieuwe termijn opleggen waarbinnen die de bijscholing moet volgen of met gunstig gevolg de proef moet afleggen, opdat zijn erkenning niet van rechtswege zou vervallen.<br>
+§ 2/3. De erkenning van een koeltechnicus als vermeld in artikel 6, 2°, e), vervalt ook als hij niet tijdig slaagt voor het actualisatie-examen.<br>
+<br>
+In het geval, vermeld in het eerste lid, moet de koeltechnicus slagen voor het actualisatie-examen, vermeld in artikel 40/1, 4°, voor de erkenning opnieuw kan worden verleend.<br>
+<br>
+§ 3. In afwijking van paragraaf 2, 2/1&nbsp;en 2/3 vervalt de erkenning niet van rechtswege als de bevoegde afdeling beslist, op basis van de door de erkende persoon voor te leggen bewijzen, dat hij om redenen van overmacht niet in staat was de bijscholing te volgen of de proef af te leggen. Als de bevoegde afdeling tot die beslissing komt, zal ze de erkende persoon een nieuwe termijn opleggen waarbinnen die de bijscholing moet volgen of met gunstig gevolg de proef moet afleggen, opdat zijn erkenning niet van rechtswege zou vervallen.<br>
 <br>
 § 3/1. De erkenning van een bodemsaneringsdeskundige als vermeld in artikel 6, 6°, vervalt van rechtswege in de volgende gevallen :<br>
 1° als het gaat om een bodemsaneringsdeskundige van type 1 : hij beschikt gedurende een periode van negentig opeenvolgende dagen niet over minstens één persoon met een individuele handtekeningsbevoegdheid als vermeld in artikel 53/4, § 2, eerste lid;<br>
 2° als het gaat om een bodemsaneringsdeskundige van type 2 : hij beschikt gedurende een periode van negentig opeenvolgende dagen niet over minstens één persoon met een individuele handtekeningsbevoegdheid als vermeld in artikel 53/4, § 2, tweede lid.<br>
 <br>
-§ 4. De bevoegde&nbsp;afdeling brengt de persoon op de hoogte van het verval van rechtswege van zijn erkenning.</p>
+§ 4. De bevoegde&nbsp;afdeling brengt de persoon op de hoogte van de schorsing of het verval van rechtswege van zijn erkenning.</p>
 
 ## HOOFDSTUK 11 Openbaarheid van informatie
 
@@ -1599,6 +1726,74 @@ d) in geval van een keuringsinstelling als vermeld in artikel 58/1, § 4 : een e
 Het departement&nbsp;wijst een keuringsinstelling aan voor een periode van maximaal vier jaar.
 
 ## [HOOFDSTUK 13/3 Registratie van een monsternemer (ing. BVR 3 mei 2019, art. 268, I: 1 oktober 2019)]
+
+### ART 58/3.
+
+§ 1. Een natuurlijk persoon die door een erkend laboratorium geregistreerd wil worden als monsternemer van bodemmonsters in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid of in het kader van het Mestdecreet en de uitvoeringsbesluiten beschikt over een bevoegdheidsverklaring die het erkende laboratorium uitgereikt heeft met toepassing van artikel 53/1, § 6, of artikel 53/2, § 6.<br>
+<br>
+Het erkende laboratorium dat een natuurlijke persoon wil registreren, bezorgt aan de Mestbank:<br>
+1° het registratieformulier, ondertekend door de monsternemer, waarvan het model is vastgesteld door de Mestbank, met de identificatiegegevens, opgenomen in bijlage 19, die bij dit besluit is gevoegd;<br>
+2° de bevoegdheidsverklaring van de monsternemer die het erkende laboratorium uitgereikt heeft met toepassing van artikel 53/1, § 6, of artikel 53/2, § 6.<br>
+<br>
+De registratie wordt geweigerd in een van de volgende gevallen:<br>
+1° de monsternemer heeft in de periode van drie jaar die voorafgaat aan de aanvraag tot registratie in een lidstaat van de Europese Economische Ruimte een strafrechtelijke veroordeling opgelopen voor overtredingen van de milieuwetgeving die verband houden met het gebruik van de registratie;<br>
+2° in de periode van twee jaar die aan de aanvraag tot registratie voorafgaat, is een eerdere registratie van de monsternemer opgeheven met toepassing van artikel 58/5, § 1, 1°, 2° of 5°, of § 2, ongeacht het erkende laboratorium waarvoor de monsternemer geregistreerd was;<br>
+3° een eerdere registratie van de monsternemer is geschorst met toepassing van artikel 58/5, § 1, 1° of 2°, of § 2, ongeacht het erkende laboratorium waarvoor de monsternemer geregistreerd is, zolang die schorsing niet stopgezet wordt.<br>
+<br>
+De Mestbank brengt het erkende laboratorium binnen dertig dagen nadat alle stukken, vermeld in het tweede lid, ingediend zijn op de hoogte van de datum waarop de registratie ingaat of van de weigering van de registratie.<br>
+<br>
+De Mestbank bezorgt de gegevens van de geregistreerde monsternemers voor de erkende laboratoria, vermeld in artikel 6, 5°, c), aan het departement.<br>
+<br>
+§ 2. De bevoegde afdeling publiceert op haar website de lijst van geregistreerde monsternemers met de erkende laboratoria waarvoor de monsternemers geregistreerd zijn. Op vraag van de geregistreerde monsternemer kunnen gegevens van de monsternemer niet gepubliceerd worden op de website van de bevoegde afdeling.
+
+### ART 58/4.
+
+Een geregistreerde monsternemer moet voldoen aan de volgende gebruikseisen:<br>
+1° alleen de monsternemingen uitvoeren in opdracht van het erkende laboratorium waarvoor hij geregistreerd is en werken conform het kwaliteitssysteem van het erkende laboratorium;<br>
+2° het BOC toepassen bij de monsternemingen van de bodem die uitgevoerd worden in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid;<br>
+3° het BAM toepassen bij de monsternemingen van de bodem die uitgevoerd worden in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan;<br>
+4° beschikken over het nodige materiaal, vermeld in het BOC of BAM, om de monsternemingen correct uit te voeren;<br>
+5° gebruikmaken van een gps-datalogger voor alle monsternemingen die uitgevoerd worden. De minister bepaalt de nadere regels voor het gebruik van de gps-datalogger;<br>
+6° het bodemmonster, het bestand met de dataloggegevens en het monsternameformulier bezorgen aan het erkende laboratorium in opdracht waarvan hij de monstername uitgevoerd heeft;<br>
+7° elke wijziging in de identificatiegegevens, elke wijziging van de gegevens waardoor hij niet meer voldoet aan de gebruikseisen, of de definitieve stopzetting van het gebruik van de registratie onverwijld meedelen aan de Mestbank;<br>
+8° aan de bevoegde afdeling en het referentielaboratorium van het Vlaamse Gewest alle inlichtingen en documenten ter beschikking stellen waar ze met betrekking tot de monstername om verzoeken en zich richten naar de instructies die de bevoegde afdeling en de toezichthouders geven;<br>
+9° zijn medewerking verlenen aan periodieke evaluaties die de bevoegde afdeling opzet;<br>
+10° een objectieve en onafhankelijke houding aannemen bij de uitvoering van een monstername. Hij mag geen monsternames uitvoeren als:<br>
+a) hij, in rechte of in feite, bestuursmandaten opneemt of bestuursfuncties uitoefent bij de opdrachtgever;<br>
+b) de opdrachtgever, zelf of met een tussenpersoon, in rechte of in feite bestuursmandaten opneemt of bestuursfuncties uitoefent bij de erkende persoon;<br>
+c) hij bloed- of aanverwant in de rechte lijn tot en met de derde graad en in de zijlijn tot en met de vierde graad is met de opdrachtgever;<br>
+d) er financiële banden zijn tussen hem en de opdrachtgever;<br>
+e) hij rechtstreeks of onrechtstreeks, geheel of gedeeltelijk, gecontroleerd of beheerd wordt door de opdrachtgever.<br>
+<br>
+Voor de toepassing van het eerste lid, 10°, wordt onder opdrachtgever niet het erkende laboratorium verstaan in opdracht waarvan de geregistreerde monsternemer de monstername uitvoert, maar wel de persoon in opdracht van wie de monstername en bijhorende analyse worden uitgevoerd, alsook de gebruikers van de percelen waarop de bemonsteringen uitgevoerd worden.
+
+### ART 58/5.
+
+§ 1. De bevoegde afdeling kan de registratie van een monsternemer geheel of gedeeltelijk schorsen of opheffen in een of meer van de volgende gevallen:<br>
+1° er is niet meer voldaan aan een of meer van de gebruikseisen, vermeld in artikel 58/4;<br>
+2° bij een controle worden foutieve handelingen vastgesteld bij de monsterneming;<br>
+3° de retributie, vermeld in artikel 54/1, § 2, wordt niet betaald;<br>
+4° de monsternemer beschikt niet meer over een bevoegdheidsverklaring als vermeld in artikel 58/3, § 1;<br>
+5° het erkende laboratorium in opdracht waarvan de geregistreerde monsternemer werkt, heeft gemeld dat bij de uitvoering van kwaliteitscontroles als vermeld in het BOC of het BAM, de resultaten van een monsterneming die uitgevoerd is door de betrokken geregistreerde monsternemer, als afwijkend aangemerkt werden;<br>
+6° de monsternemer heeft in een lidstaat van de Europese Economische Ruimte een strafrechtelijke veroordeling opgelopen voor overtredingen van de milieuwetgeving die verband houden met het gebruik van de registratie.<br>
+<br>
+§ 2. Naast de gevallen, vermeld in paragraaf 1, kan de leidinggevende ambtenaar van het agentschap of departement waartoe de bevoegde afdeling behoort, de registratie van een monsternemer als vermeld in artikel 58/3, § 1, geheel of gedeeltelijk schorsen of opheffen als er twee keer in hetzelfde jaar bij een controlebemonstering resultaten worden vastgesteld die niet in overeenstemming gebracht kunnen worden met de resultaten van de monsterneming die de geregistreerde monsternemer heeft uitgevoerd. De resultaten van de controlebemonstering kunnen niet in overeenstemming gebracht worden met de resultaten van de monsterneming die de geregistreerde monsternemer heeft uitgevoerd, als de analyseresultaten van beide bemonsteringen voor een of meer parameters meer verschillen dan de toegestane afwijking van de bemonstering en analyse van de parameter in kwestie, vermeld in het BOC of het BAM.<br>
+<br>
+De minister kan in het BOC of in het BAM voor een of meer parameters de toegestane afwijking, vermeld in het eerste lid, vastleggen.<br>
+<br>
+§ 3. De bevoegde afdeling brengt de geregistreerde monsternemer met een aangetekende brief op de hoogte van het voornemen om de registratie te schorsen of op te heffen, met vermelding van de redenen, en nodigt hem tegelijkertijd uit zijn verweermiddelen in te dienen en aanwezig te zijn op een hoorzitting.<br>
+<br>
+§ 4. De leidinggevende ambtenaar van het agentschap of departement waartoe de bevoegde afdeling behoort, neemt een beslissing over de schorsing of opheffing van de registratie, rekening houdend met de eventueel vervulde formaliteiten en meegedeelde verweermiddelen.<br>
+<br>
+§ 5. Als de registratie wordt geschorst of opgeheven, betekent de bevoegde afdeling de beslissing met een aangetekende brief aan de persoon in kwestie en aan het erkende laboratorium waarvoor de monsternemer geregistreerd is.<br>
+<br>
+De schorsing of opheffing van de registratie geldt zowel voor de registratie als monsternemer van bodemmonsters in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid als voor de registratie als monsternemer van bodemmonsters in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan.<br>
+<br>
+§ 6. Als de procedure tot schorsing of opheffing van de registratie wordt stopgezet, worden de monsternemer en het erkende laboratorium waarvoor de monsternemer geregistreerd is, daarvan op de hoogte gebracht.
+
+### ART 58/6.
+
+De registratie van een monsternemer vervalt van rechtswege op de dag dat de geregistreerde monsternemer of het erkende laboratorium in opdracht waarvan de geregistreerde monsternemer monsternames uitvoert, aan de Mestbank de stopzetting van het gebruik van de registratie meedeelt. De Mestbank brengt de monsternemer en het erkende laboratorium waarvoor de monsternemer geregistreerd is, op de hoogte van het verval van rechtswege van de registratie van de monsternemer.
 
 ## HOOFDSTUK 14 Wijzigingsbepalingen
 
@@ -1822,6 +2017,12 @@ In afwijking van respectievelijk artikel 9, 2°, en artikel 10, 2°, kan op basi
 ### ART. 92.
 
 In afwijking van artikel 12, § 1, 3°, kan op basis van een aanvraag die   moet worden ingediend binnen een termijn van vijf jaar, te rekenen vanaf de   datum van inwerkingtreding van dit besluit, een persoon die de onderwerpen,   vermeld in bijlage 9, die bij dit besluit is gevoegd, niet heeft gevolgd, als   MER-deskundige in de van toepassing zijnde disciplines en deeldomeinen worden   erkend als hij minstens vijf jaar ervaring heeft met het opstellen van   milieueffectstudies.<BR><BR>In afwijking van artikel 12, § 1, 3°, moet die   MER-deskundige van wie de erkenning van rechtswege is vervallen en die zijn   erkenning opnieuw aanvraagt, de opleiding, waarvan de inhoud wordt beschreven in   bijlage 9, 2° of 3°, niet volgen als hij minstens vijf jaar ervaring heeft in de   uitvoering van de opdrachten in het kader van de erkenning.   <BR><BR>
+
+### ART 92/1.
+
+In afwijking van artikel 13/2, 4°, kan op basis van een aanvraag die moet worden ingediend vóór 1 januari 2020 een persoon die de onderwerpen, opgenomen in bijlage 9, die bij dit besluit is gevoegd, niet heeft gevolgd, als MER-coördinator worden erkend als hij minstens vijf jaar ervaring heeft in de coördinatie van milieueffectrapporten.<br>
+<br>
+In afwijking van artikel 13/2, 4°, moet die MER-coördinator van wie de erkenning van rechtswege is vervallen en die zijn erkenning opnieuw aanvraagt, de opleiding, waarvan de inhoud is opgenomen in bijlage 9, die bij dit besluit is gevoegd, niet volgen als hij minstens vijf jaar ervaring heeft in de uitvoering van de opdrachten in het kader van de erkenning.
 
 ### ART. 93.
 
@@ -2124,10 +2325,10 @@ De technische opleiding stookolietechnicus omvat minstens 14 uur   theorielessen
 ### Tekst
 
 Het programma van de opleiding van de Vlaamse wetgeving en de daarin opgenomen terminologie inzake stookolietanks omvat minstens 3 uur :<br>
-1° de relevante wetgeving over de bestrijding van de luchtverontreiniging die veroorzaakt wordt door centrale stooktoestellen, gevoed met vloeibare brandstof, vermeld in het besluit van de Vlaamse Regering betreffende het onderhoud en het nazicht van centrale stooktoestellen voor de verwarming van gebouwen of voor de aanmaak van warm verbruikswater :<br>
+1° de relevante wetgeving over de bestrijding van de luchtverontreiniging die veroorzaakt wordt door stookolietanks, vermeld in titel II van het VLAREM:<br>
 a) definitie waterwingebieden/beschermingszones;<br>
 b) particuliere stookolietanks &lt; 5000&nbsp;kg (hoofdstuk 6.5 van titel II van het VLAREM);<br>
-c) ingedeelde eindopslag van stookolie voor verwarming (hoofdstuk 5.17 van titel II van het VLAREM, voor wat betreft de toegestane taken voor de stookolietechnicus);<br>
+c) ingedeelde eindopslag van stookolie voor verwarming (hoofdstuk 5.6 en 5.17 van titel II van het VLAREM, voor wat betreft de toegestane taken voor de stookolietechnicus);<br>
 d) toegestane wijzen van opslag;<br>
 e) controle bij de plaatsing;<br>
 f) periodieke controles : wanneer, welke, wat, hoe en door wie;<br>
@@ -2632,13 +2833,13 @@ De overgangscursussen van het tweede niveau naar het eerste niveau zijn zo opgev
 
 <p style="text-align: justify;">W.1.3 tijds- en/of debietsgebonden staalname</p>
 
-<p style="text-align: justify;">W.1.4 staalname van grondwater (peilbuizen):</p>
-
-<p style="text-align: justify;">W.1.4.1 met ondiepe ( &lt; 30 m) grondwaterstand</p>
-
-<p style="text-align: justify;">W.1.4.2 met diepe ( ≥ 30 m) grondwaterstand</p>
-
-<p style="text-align: justify;">De pakketten onder W.1.4 zijn telkens een uitbreiding van pakket W.1.5.1 en W.1.5.2.</p>
+<p style="text-align: justify;">W.1.4 staalname van water uit peilbuizen:<br>
+<br>
+W.1.4.1 met ondiepe &lt;30 m) waterstand<br>
+<br>
+W.1.4.2 met diepe (≥ 30 m) waterstand<br>
+<br>
+De pakketten onder W.1.4 zijn telkens een uitbreiding van pakket W.1.5.1 en W.1.5.2.</p>
 
 <p style="text-align: justify;">W.1.5 meting ter plaatse van de volgende parameters:</p>
 
@@ -2656,9 +2857,11 @@ De overgangscursussen van het tweede niveau naar het eerste niveau zijn zo opgev
 
 <p style="text-align: justify;">&nbsp;</p>
 
-<p style="text-align: justify;">W.2. organoleptische parameters in water, bestemd voor menselijke consumptie:</p>
-
-<p style="text-align: justify;">kleur, troebelingsgraad, reuk en smaak</p>
+<p style="text-align: justify;">W.2 organoleptische parameters in water, bestemd voor menselijke consumptie:<br>
+<br>
+W.2.1 kleur, troebelingsgraad en de kwalitatieve bepaling van reuk en smaak<br>
+<br>
+W.2.2 de kwantitatieve bepaling van reuk en smaak</p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
@@ -2670,15 +2873,21 @@ De overgangscursussen van het tweede niveau naar het eerste niveau zijn zo opgev
 
 <p style="text-align: justify;">W.3.3 zuurtegraad en elektrische geleidbaarheid</p>
 
-<p style="text-align: justify;">W.3.6 buffercapaciteit</p>
+<p style="text-align: justify;">W.3.6 alkaliniteit</p>
 
-<p style="text-align: justify;">W.3.7 totaal anorganisch gebonden fluoride</p>
+<p style="text-align: justify;">W.3.7 totaal anorganisch gebonden fluoride<br>
+<br>
+W.3.8. saturatie-index</p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
 <p style="text-align: justify;">W.4 metalen:</p>
 
-<p style="text-align: justify;">W.4.1 standaardreeks: kwik, cadmium, lood, arseen, chroom, nikkel, koper, zink, antimoon, seleen, mangaan, ijzer en aluminium</p>
+<p style="text-align: justify;">W.4.1 standaardreeks:<br>
+<br>
+W.4.1.1 kwik<br>
+<br>
+W.4.1.2 cadmium, lood, arseen, chroom, nikkel, koper, zink, antimoon, seleen, mangaan, ijzer en aluminium</p>
 
 <p style="text-align: justify;">W.4.2 aanvullende elementen:</p>
 
@@ -2697,8 +2906,16 @@ De overgangscursussen van het tweede niveau naar het eerste niveau zijn zo opgev
 <p style="text-align: justify;">W.4.2.7 kobalt</p>
 
 <p style="text-align: justify;">W.4.2.8 boor<br>
+<br>
 W.4.2.9 tin inclusief tindioxide<br>
-W.4.2.10 titanium inclusief titaniumdioxide</p>
+<br>
+W.4.2.10 titanium inclusief titaniumdioxide<br>
+<br>
+W.4.2.11 cerium<br>
+<br>
+W.4.2.12 aluminium inclusief dialuminiumtrioxide<br>
+<br>
+W.4.2.13 cerium inclusief ceriumdioxide</p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
@@ -2730,7 +2947,7 @@ W.4.2.10 titanium inclusief titaniumdioxide</p>
 
 <p style="text-align: justify;">W.5.13 ...</p>
 
-<p style="text-align: justify;">W.5.14 methyleenblauwactieve stoffen (MBAS)</p>
+<p style="text-align: justify;">W.5.14 ...</p>
 
 <p style="text-align: justify;">W.5.15 ...</p>
 
@@ -2782,15 +2999,15 @@ W.6.3 purgeerbare organische halogeenverbindingen (POX)<br>
 
 <p style="text-align: justify;">W.7.17 pesticiden, opgenomen in WAC/IV/A/027 of WAC/IV/A/028, die niet behoren tot de overige pakketten onder W. 7.</p>
 
-<p style="text-align: justify;">W. 7. 19 oppervlakteactieve stoffen:</p>
-
-<p style="text-align: justify;">W. 7. 19. 1 kation ische oppervlakteactieve stoffen</p>
+<p style="text-align: justify;">W. 7. 19 ...<br>
+<br>
+W.7.20 ftalaten</p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
 <p style="text-align: justify;">W.8 bacteriologische parameters:</p>
 
-<p style="text-align: justify;">W.8.1 totaal kiemgetal (22 °C, 37 °C), coliformen, <em>Escherichia coli</em> en enterokokken</p>
+<p style="text-align: justify;">W.8.1 totaal kiemgetal (22 ° C, 36 ° C), coliformen, Escherichia coli en enterokokken</p>
 
 <p style="text-align: justify;">W.8.2 Salmonella</p>
 
@@ -2806,7 +3023,7 @@ W.6.3 purgeerbare organische halogeenverbindingen (POX)<br>
 
 <p style="text-align: justify;">W.9 hydrobiologische parameters:</p>
 
-<p style="text-align: justify;">W. 9.1 biotische index</p>
+<p style="text-align: justify;">W.9.1 biodiversiteitsindexen: Belgische biotische index (BBI) en multimetrische macro-invertebratenindex Vlaanderen (MMIF)</p>
 
 <p style="text-align: justify;">W.9.2 ecotoxiciteit:</p>
 
@@ -2816,13 +3033,19 @@ W.6.3 purgeerbare organische halogeenverbindingen (POX)<br>
 
 <p style="text-align: justify;">W.9.2.3 groei-inhibitie voor eencellige algen</p>
 
-<p style="text-align: justify;">W.9.2.4 inhibitie van de bioluminescentie in <em>Vibrio fischeri</em></p>
+<p style="text-align: justify;">W.9.2.4 inhibitie van de bioluminescentie in <em>Vibrio fischeri</em><br>
+<br>
+W.9.2.5 elimineerbaarheid via de Zahn-Wellens test</p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
 <p style="text-align: justify;">W.10 andere monsternemingen, analyses, metingen of beproevingen :<br>
 W.10.1 chlorofyl A<br>
-W.10.2 kwalitatieve karakterisatie van minerale olie met GC-MS</p>
+W.10.2 kwalitatieve karakterisatie van minerale olie met GC-MS<br>
+W.10.3 oppervlakteactieve stoffen<br>
+W.10.3.1 kationische oppervlakteactieve stoffen<br>
+W.10.3.2 anionische oppervlakteactieve stoffen<br>
+W.10.3.3 niet-ionogene oppervlakteactieve stoffen</p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
@@ -2898,7 +3121,9 @@ W.10.2 kwalitatieve karakterisatie van minerale olie met GC-MS</p>
 
 <p style="text-align: justify;">L.5.13 hydrazine</p>
 
-<p style="text-align: justify;">L.5.14 natchemische bepaling van zwaveltrioxide S0<sub>3</sub></p>
+<p style="text-align: justify;">L.5.14 natchemische bepaling van zwaveltrioxide SO<sub><span style="font-size: small;">3</span></sub>:<br>
+L.5.14.1: voor procesemissies<br>
+L.5.14.2: voor verbrandingsgassen</p>
 
 <p style="text-align: justify;">L.5.15 gasvormige anorganische fluorverbindingen als HF<br>
 <br>
@@ -2972,7 +3197,9 @@ L.6. emissiemetingen - monsterneming en analyse van vluchtige organische stoffen
 
 <p style="text-align: justify;">L.11.2 meting van andere diffuse bronnen: te specificeren</p>
 
-<p style="text-align: justify;">Pakket L.11.2 is een uitbreiding van een pakket onder L.4, L.5, L.6, L.7, L.8, L.9, L.10, L.15 en L.17.</p>
+<p style="text-align: justify;">Pakket L.11.2 is een uitbreiding van een pakket onder L.4, L.5, L.6, L.7, L.8, L.9, L.10, L.15 en L.17.<br>
+<br>
+L.11.3 gebruik van Optical Gas Imaging bij lekdetectie</p>
 
 <p style="text-align: justify;">L.12. immissiemetingen:</p>
 
@@ -3064,7 +3291,11 @@ L.6. emissiemetingen - monsterneming en analyse van vluchtige organische stoffen
 
 <p style="text-align: justify;">L.19 meting van het NH3-verwijderingsrendement van gaswassers, opgenomen in de lijst van ammoniakemissiearme stalsystemen<br>
 <br>
-L.20 monsterneming en analyse van trichlooramine in zwembadlucht"</p>
+L.20 monsterneming en analyse van trichlooramine in zwembadlucht<br>
+<br>
+L.21 monsterneming en analyse van tetrachlooretheen in de lucht van textielreinigingsmachines die gebruikmaken van tetrachlooretheen als reinigingsmiddel<br>
+<br>
+L.22 bepaling van het geurverwijderingsrendement van gaswassers en biofilters bij stallen</p>
 
 <p style="text-align: justify;"><br>
 <u>3° pakket voor een laboratorium als vermeld in artikel 6, 5°, c): uitvoering van de volgende monsternemingen en bodemanalyses:</u></p>
@@ -3129,7 +3360,10 @@ L.20 monsterneming en analyse van trichlooramine in zwembadlucht"</p>
 
 <p style="text-align: justify;">a) bepaling van het organische koolstofgehalte.</p>
 
-<p style="text-align: justify;">M-M1. pakket meststoffen-bemonstering voor anorganische parameters, voor het nemen van monsters van meststoffen met het oog op de analyse van anorganische parameters.</p>
+<p style="text-align: justify;">M-M1 pakket meststoffen - voor het nemen van monsters met het oog op de analyse van anorganische parameters, van volgende meststoffen:<br>
+a) vloeibare mest uit mestkelders;<br>
+b) vloeibare mest bij simulatie van mesttransport;<br>
+c) vaste mest.</p>
 
 <p style="text-align: justify;">M-M2. pakket meststoffen-anorganische parameters, voor het uitvoeren van de volgende anorganische analyses op meststoffen:</p>
 
@@ -3151,7 +3385,13 @@ L.20 monsterneming en analyse van trichlooramine in zwembadlucht"</p>
 
 <p style="text-align: justify;">c) detectie van <em>Salmonella;</em></p>
 
-<p style="text-align: justify;">d) detectie van <em>Clostridium perfringens.</em></p>
+<p style="text-align: justify;">d) detectie van <em>Clostridium perfringens.</em><br>
+<br>
+M-M5 pakket meststoffen - voor het nemen van monsters met het oog op de analyse van anorganische parameters, van volgende meststoffen:<br>
+a) behandelde mest;<br>
+b) vloeibare mest uit een mestopslag andere dan een mestkelder.<br>
+<br>
+M-M6 pakket meststoffen - voor het nemen van monsters met het oog op de analyse van anorganische parameters, van vloeibare mest bij mesttransport.</p>
 
 <p style="text-align: justify;">M-D1. pakket diervoeders, voor het nemen van monsters van diervoeders en het</p>
 
@@ -3603,7 +3843,16 @@ h) discipline landschap, bouwkundig erfgoed en archeologie :<br>
 3) deeldomein archeologie<br>
 3.1 inleiding tot archeologie;<br>
 3.2 milderende maatregelen met betrekking tot het deeldomein archeologie.<br>
-3° ...<br>
+3° Een MER-coördinator als vermeld in artikel 6, 1°, g), heeft met gunstig gevolg een opleiding gevolgd van minstens 140 uur, waarin de volgende onderwerpen en competenties aan bod kwamen:<br>
+a) competenties (minstens 40 uur):<br>
+1) leidinggeven;<br>
+2) plannen en organiseren;<br>
+3) samenwerken;<br>
+4) communicatieve en participatieve vaardigheden;<br>
+5) coachen;<br>
+6) overtuigingskracht;<br>
+7) redactionele vaardigheden;<br>
+b) basiskennis met betrekking tot alle disciplines die aan bod komen in een milieueffectrapport (minstens 100 uur).<br>
 4° Een VR-deskundige als vermeld in artikel 6, 1°, e), heeft met gunstig gevolg een opleiding gevolgd van minstens 60 uur, waarin de volgende onderwerpen aan bod kwamen :<br>
 a) gevaarlijke stoffen en hun eigenschappen en gedrag;<br>
 b) het inventariseren, analyseren en evalueren van risico's voor mens en milieu, bij industriële ongevallen waarbij gevaarlijke stoffen betrokken zijn;<br>
@@ -3745,16 +3994,20 @@ Als uitbestedingen worden toegelaten binnen een pakket, wordt voor elke deelneme
 &nbsp;</p>
 
 <p style="text-align: justify;">8° Beoordeling van ringtestresultaten per pakket met betrekking tot het pakket, vermeld in bijlage 3, 3° :<br>
-a) als voor dezelfde parameter, met uitzondering van de handmatige bepaling van de bodemtextuur, verschillende stalen worden aangeboden, worden de resultaten van de verschillende stalen beoordeeld als volgt :<br>
-1) de parameter krijgt de beoordeling "goed" als van alle stalen voor die parameter niet meer dan 10 % van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" of "twijfelachtig" kreeg en niet meer dan 5% van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" kreeg;<br>
-2) de parameter krijgt de beoordeling "twijfelachtig" als van alle stalen voor die parameter niet meer dan 20 % van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" of "twijfelachtig" kreeg en niet meer dan 10 % van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" kreeg;<br>
-3) de parameter krijgt de beoordeling "slecht" als van alle stalen voor die parameter meer dan 20 % van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" of "twijfelachtig" kreeg of meer dan 10 % van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" kreeg;<br>
-b) als voor de parameter handmatige bepaling van de bodemtextuur verschillende stalen worden aangeboden, worden de resultaten van de verschillende stalen beoordeeld als volgt :<br>
-1) de parameter krijgt de beoordeling "goed" als niet meer dan 10 % van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" kreeg;<br>
-2) de parameter krijgt de beoordeling "slecht" als meer dan 10 % van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" kreeg;<br>
-c) om een gunstige beoordeling voor een pakket als vermeld in bijlage 3, 3°, te krijgen, moet voldaan worden aan de volgende voorwaarden :<br>
-1) voor geen enkele parameter als vermeld in bijlage 3, 3°, a) en b), mag een beoordeling "twijfelachtig" of "slecht" verkregen worden;<br>
-2) wat de parameter, vermeld in bijlage 3, 3°, c), betreft : voor hetzij de handmatige bepaling voor minstens één werknemer, hetzij de granulometrische bepaling, moet een beoordeling "goed" verkregen worden."</p>
+a) als voor de parameters het organische koolstofgehalte en de zuurtegraad verschillende stalen worden aangeboden, worden de resultaten van de verschillende stalen samengenomen en beoordeeld als volgt:<br>
+1) de parameters het organische koolstofgehalte en de zuurtegraad krijgen de beoordeling "goed" als van alle stalen voor die parameters niet meer dan 10% van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" of "twijfelachtig" heeft gekregen, en niet meer dan 5% van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" heeft gekregen;<br>
+2) de parameters het organische koolstofgehalte en de zuurtegraad krijgen de beoordeling "twijfelachtig" als van alle stalen voor die parameters niet meer dan 20% van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" of "twijfelachtig" heeft gekregen en niet meer dan 10% van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" heeft gekregen;<br>
+3) de parameters het organische koolstofgehalte en de zuurtegraad krijgen de beoordeling "slecht" als van alle stalen voor die parameters meer dan 20% van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" of "twijfelachtig" heeft gekregen of meer dan 10% van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" heeft gekregen;<br>
+b) als voor de parameter granulometrische bepaling van de bodemtextuur verschillende stalen worden aangeboden, worden de resultaten van de verschillende stalen beoordeeld als volgt:<br>
+1) de parameter krijgt de beoordeling "goed" als van alle stalen voor die parameter niet meer dan 10% van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" of "twijfelachtig" heeft gekregen en niet meer dan 5% van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" heeft gekregen;<br>
+2) de parameter krijgt de beoordeling "twijfelachtig" als van alle stalen voor die parameter niet meer dan 20% van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" of "twijfelachtig" heeft gekregen en niet meer dan 10% van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" heeft gekregen;<br>
+3) de parameter krijgt de beoordeling "slecht" als van alle stalen voor die parameter meer dan 20% van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" of "twijfelachtig" heeft gekregen of meer dan 10% van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" heeft gekregen;<br>
+c) als voor de parameter handmatige bepaling van de bodemtextuur verschillende stalen worden aangeboden, worden de resultaten van de verschillende stalen beoordeeld als volgt:<br>
+1) de parameter krijgt de beoordeling "goed" als niet meer dan 10% van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" heeft gekregen;<br>
+2) de parameter krijgt de beoordeling "slecht" als meer dan 10% van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" heeft gekregen;<br>
+d) om een gunstige beoordeling voor een pakket als vermeld in bijlage 3, 3°, te krijgen, moet voldaan worden aan de volgende voorwaarden:<br>
+1) voor de samengenomen parameters het organische koolstofgehalte en de zuurtegraad moet een beoordeling "goed" verkregen worden;<br>
+2) wat de parameter, vermeld in bijlage 3, 3°, c), betreft: voor hetzij de handmatige bepaling voor minstens één werknemer, hetzij de granulometrische bepaling, moet een beoordeling "goed" verkregen worden.</p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
@@ -3882,27 +4135,111 @@ Enig artikel. Het niet-voldoen aan de hiernavolgende wettelijke verplichtingen, 
 
 ### BIJLAGE 12.
 
-<P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bijlage   12 bij het VLAREL<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bijlage   12. Opleiding en bijscholing met bijhorend examen als vermeld in artikel 43/4,   1° en 2°</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>1°   De opleiding met het bijhorende examen van een airco-energiedeskundige als   vermeld in artikel 6, 1°, f), bestaat uit minstens 32 uren. In de opleiding   komen de volgende onderwerpen aan bod:</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 11.35pt"   class=MsoNormal>a)   module 1: wetgeving:</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 14.15pt 0pt 22.7pt"   class=MsoNormal>1)   titel 1 en titel Il van het VLAREM inzake   koelinstallaties;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 14.15pt 0pt 22.7pt"   class=MsoNormal>2)   certificeringsplichtige handelingen aan koelinstallaties;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 14.15pt 0pt 22.7pt"   class=MsoNormal>3)   het VLAREL met betrekking tot airco-energiedeskundigen;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 14.15pt 0pt 22.7pt"   class=MsoNormal>4)   Europese regelgeving met betrekking tot energieprestaties van   gebouwen;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 14.15pt 0pt 22.7pt"   class=MsoNormal>5)   energiedeskundigen;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 11.35pt"   class=MsoNormal>b)   module 2: energetische aspecten:</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 22.7pt" class=MsoNormal>1)   inzicht in het energetische concept en beheer van   gebouwen;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 22.7pt" class=MsoNormal>2)   elektriciteit;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 22.7pt" class=MsoNormal>3)   verlichting;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 22.7pt" class=MsoNormal>4)   energetische aspecten van koeltechniek:</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 34pt" class=MsoNormal>-   invloed van verschillende parameters;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 34pt" class=MsoNormal>-   met betrekking tot de verschillende onderdelen van een   koelinstallatie;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 34pt" class=MsoNormal>-   met betrekking tot de werking en regeling van een   koelinstallatie;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 34pt" class=MsoNormal>-   energiebesparing bij koelinstallaties;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 34pt" class=MsoNormal>-   soorten koelafgiftesystemen en hun invloed op het   energieverbruik;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 34pt" class=MsoNormal>-   met betrekking tot directe en indirecte koelsystemen;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 34pt" class=MsoNormal>-   met betrekking tot warmtepompen;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 22.7pt" class=MsoNormal>5)   soorten, opbouw, werking en regeling van luchtbehandelingssystemen en hun   invloed op het energieverbruik;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 22.7pt" class=MsoNormal>6)   warmteafgiftesystemen: soorten warmteafgiftesystemen en hun invloed op het   energieverbruik;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 11.35pt"   class=MsoNormal>c)   module 3: het correct uitvoeren van de keuring, vermeld in artikel 5.16.3.3, §   3, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, en artikel 5bis.19.8.4.8.4, §   6, eerste lid, van titel II van het VLAREM.</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>2°   De bijscholing met het bijhorende examen van een airco-energiedeskundige als   vermeld in artikel 6, 1°, f), bestaat uit minstens 6 uren. De bijscholing   bestaat uit een herhaling van de belangrijkste aspecten, vermeld in punt 1°,   rekening houdend met de evolutie van de regelgeving en de technieken, en   eventuele wijzigingen in de uitvoering van de keuring, vermeld in artikel   5.16.3.3, § 3, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, en artikel   5bis.19.8.4.8.4, § 6, eerste lid, van titel Il van het   VLAREM.</P>
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">Bijlage 12 bij het VLAREL<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">Bijlage 12. Opleiding en bijscholing met bijhorend examen als vermeld in artikel 43/4, 1° en 2°</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">1° De opleiding met het bijhorende examen van een airco-energiedeskundige als vermeld in artikel 6, 1°, f), bestaat uit minstens 32 uren. In de opleiding komen de volgende onderwerpen aan bod:</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 11.35pt;">a) module 1: wetgeving:</p>
+
+<p style="text-align: justify; margin-right: 14.15pt; margin-left: 22.7pt;">1)&nbsp;titel Il van het VLAREM inzake koelinstallaties;</p>
+
+<p style="text-align: justify; margin-right: 14.15pt; margin-left: 22.7pt;">2) certificeringsplichtige handelingen aan koelinstallaties;</p>
+
+<p style="text-align: justify; margin-right: 14.15pt; margin-left: 22.7pt;">3) het VLAREL met betrekking tot airco-energiedeskundigen;</p>
+
+<p style="text-align: justify; margin-right: 14.15pt; margin-left: 22.7pt;">4) Europese regelgeving met betrekking tot energieprestaties van gebouwen;</p>
+
+<p style="text-align: justify; margin-right: 14.15pt; margin-left: 22.7pt;">5) energiedeskundigen;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 11.35pt;">b) module 2: energetische aspecten:</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 22.7pt;">1) inzicht in het energetische concept en beheer van gebouwen;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 22.7pt;">2) elektriciteit;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 22.7pt;">3) verlichting;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 22.7pt;">4) energetische aspecten van koeltechniek:</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 34pt;">- invloed van verschillende parameters;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 34pt;">- met betrekking tot de verschillende onderdelen van een koelinstallatie;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 34pt;">- met betrekking tot de werking en regeling van een koelinstallatie;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 34pt;">- energiebesparing bij koelinstallaties;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 34pt;">- soorten koelafgiftesystemen en hun invloed op het energieverbruik;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 34pt;">- met betrekking tot directe en indirecte koelsystemen;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 34pt;">- met betrekking tot warmtepompen;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 22.7pt;">5) soorten, opbouw, werking en regeling van luchtbehandelingssystemen en hun invloed op het energieverbruik;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 22.7pt;">6) warmteafgiftesystemen: soorten warmteafgiftesystemen en hun invloed op het energieverbruik;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 11.35pt;">c) module 3: het correct uitvoeren van de keuring, vermeld in artikel 5.16.3.3, § 3, 4°,&nbsp;van titel II van het VLAREM.</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">2° De bijscholing met het bijhorende examen van een airco-energiedeskundige als vermeld in artikel 6, 1°, f), bestaat uit minstens 6 uren. De bijscholing bestaat uit een herhaling van de belangrijkste aspecten, vermeld in punt 1°, rekening houdend met de evolutie van de regelgeving en de technieken, en eventuele wijzigingen in de uitvoering van de keuring, vermeld in artikel 5.16.3.3, § 3, 4°,&nbsp;van titel Il van het VLAREM.</p>
 
 ## [BIJLAGE 13 Bijzondere erkenningsvoorwaarde als vermeld in artikel 13/1, 2°, en toelatingsvoorwaarden voor de opleiding voor het behalen van het certificaat van bekwaamheid inzake de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW als vermeld in artikel 24/1, 1° (ing. BVR 1 maart 2013, art. 180)]
 
 ### BIJLAGE 13.
 
-<P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bijlage   13 bij het VLAREL<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bijlage   13. Bijzondere erkenningsvoorwaarde als vermeld in artikel 13/1, 2°, en   toelatingsvoorwaarden voor de opleiding voor het behalen van het certificaat van   bekwaamheid inzake de keuring van airconditioningsystemen met een nominaal   koelvermogen van meer dan 12 kW als vermeld in artikel 24/1,   1°</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Een   airco-energiedeskundige als vermeld in artikel 6, 1°, f), voldoet aan minstens   een van de volgende voorwaarden:</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>1°   een certificaat als vermeld in artikel 14, § 1, 1° en 2°, van het besluit van de   Vlaamse Regering van 4 september 2009 inzake de certificering van koeltechnische   bedrijven en hun koeltechnici, behaald hebben;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>2°   een master in de Ingenieurswetenschappen, een master in de   Bioingenieurswetenschappen, een master in de Industriële Wetenschappen of een   bachelor in de Elektromechanica, afstudeerrichting Klimatisering behaald   hebben;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>3°   een diploma van het secundair onderwijs in koel- en warmtetechnieken,   industriële koeltechnieken of koeltechnische installaties behaald   hebben;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>4°   een van de volgende door de Vlaamse overheid erkende getuigschriften behaald   hebben:</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 11.35pt"   class=MsoNormal>a)   een getuigschrift van technicus klimaatbeheersing -   airconditioning;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 11.35pt"   class=MsoNormal>b)   een getuigschrift van installateur airco- en warmtepompen;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 11.35pt"   class=MsoNormal>c)   een getuigschrift van koeltechnicus;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 11.35pt"   class=MsoNormal>d)   een modulegetuigschrift airco;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>5°   in het volwassenenonderwijs het diploma van koeltechnicus, het certificaat van   aircotechnicus of het certificaat van koeltechnicus behaald   hebben;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>6°   onderdaan zijn van een lidstaat van de Europese Economische Ruimte en in het   bezit zijn van de kwalificatie of erkenning die in het andere gewest of in de   andere lidstaat van de Europese Economische Ruimte verplicht wordt gesteld voor   de keuring van airconditioningsystemen als vermeld in artikel 15 van richtlijn   2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de   energieprestatie van gebouwen (herschikking);</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>7°   minstens drie jaar aantoonbare ervaring hebben in onderhoud en af regelaspecten   van airconditioningsystemen met een nominaal koelvermogen van meer dan 12   kW.</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Een   opleidingscentrum als vermeld in artikel 6, 4°, f), laat alleen personen tot de   opleiding toe die voldoen aan minstens een van de bovenstaande   voorwaarden.</P>
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">Bijlage 13. Bijzondere erkenningsvoorwaarde als vermeld in artikel 13/1, 2°, en toelatingsvoorwaarden voor de opleiding voor het behalen van het certificaat van bekwaamheid inzake de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW als vermeld in artikel 24/1, 1°</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">Een airco-energiedeskundige als vermeld in artikel 6, 1°, f), voldoet aan minstens een van de volgende voorwaarden:</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">1° een certificaat van categorie I of II als vermeld in artikel 3, lid 2, van verordening nr. 2015/2067 behaald hebben;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">2° een master in de Ingenieurswetenschappen, een master in de Bioingenieurswetenschappen, een master in de Industriële Wetenschappen of een bachelor in de Elektromechanica, afstudeerrichting Klimatisering behaald hebben;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">3° een diploma van het secundair onderwijs in koel- en warmtetechnieken, industriële koeltechnieken of koeltechnische installaties behaald hebben;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">4° een van de volgende door de Vlaamse overheid erkende getuigschriften behaald hebben:</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 11.35pt;">a) een getuigschrift van technicus klimaatbeheersing - airconditioning;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 11.35pt;">b) een getuigschrift van installateur airco- en warmtepompen;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 11.35pt;">c) een getuigschrift van koeltechnicus;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 11.35pt;">d) een modulegetuigschrift airco;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">5° in het volwassenenonderwijs het diploma van koeltechnicus, het certificaat van aircotechnicus of het certificaat van koeltechnicus behaald hebben;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">6° onderdaan zijn van een lidstaat van de Europese Economische Ruimte en in het bezit zijn van de kwalificatie of erkenning die in het andere gewest of in de andere lidstaat van de Europese Economische Ruimte verplicht wordt gesteld voor de keuring van airconditioningsystemen als vermeld in artikel 15 van richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen (herschikking);</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">7° minstens drie jaar aantoonbare ervaring hebben in onderhoud en af regelaspecten van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW.</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">Een opleidingscentrum als vermeld in artikel 6, 4°, f), laat alleen personen tot de opleiding toe die voldoen aan minstens een van de bovenstaande voorwaarden.</p>
 
 ## [BIJLAGE 14 Lijst met minimumgegevens van het certificaat als vermeld in artikel 43, § 2, artikel 43/1, § 3, artikel 43/2, § 2, (ing. BVR 1 maart 2013, art. 180)] artikel 43/3, § 2, artikel 43/4, § 3, artikel 43/6, § 3, artikel 43/7, § 2, artikel 43/8, § 2, [artikel 43/9, § 2 en artikel 43/10, § 2 (verv. BVR 3 mei 2019, art. 276, I: 1 oktober 2019)]
 
 ### BIJLAGE 14.
 
-<p style="text-align: justify;">1° de naam, het adres, het telefoon- en faxnummer en het e-mailadres van het opleidingscentrum;<br>
+<p style="text-align: justify;">1° de naam, het adres, het telefoonnummer en het e-mailadres van het opleidingscentrum;<br>
 2° het erkenningsnummer dat is toegekend door de Vlaamse overheid aan het opleidingscentrum;<br>
 3° het logo van het opleidingscentrum;<br>
 4° de voor- en achternaam en de geboortedatum&nbsp;van de geslaagde persoon;<br>
 5° de voor- en achternaam en de handtekening van alle juryleden en van de directeur van het erkende opleidingscentrum en de handtekening van de geslaagde persoon;<br>
 6° in geval van een bijscholing of actualisatie-examen : de datum van de bijscholing of het actualisatie-examen;<br>
 7° in geval van een opleiding of examen : als een persoon voldoet aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 13/1, 14, 15, 16, 17, 17/1, 17/2, 17/3, 17/4 of 17/5 : het erkenningsnummer dat toegekend wordt aan de geslaagde persoon en de aanvangsdatum van de erkenning;<br>
-8° in geval van een koeltechnicus als vermeld in artikel 6, 2°, e) : de categorie van certificaat en de activiteiten die de certificaathouder op grond daarvan mag uitvoeren;<br>
-9° in geval van een technicus als vermeld in artikel 6, 2°, f) tot en met i), of een bedrijf als vermeld in artikel 6, 7°, b) en c) : de activiteiten die de certificaathouder mag verrichten.</p>
+8° in geval van een koeltechnicus als vermeld in artikel 6, 2°, e) : het certificaatnummer, de categorie van certificaat en de activiteiten die de certificaathouder op grond daarvan mag uitvoeren;<br>
+9° in geval van een technicus als vermeld in artikel 6, 2°, f) tot en met i): het certificaatnummer en de activiteiten die de certificaathouder mag verrichten.</p>
 
 ## [BIJLAGE 15 Lijst met minimumgegevens voor het verslag als vermeld in artikel 43, § 3, artikel 43/1, § 4, artikel 43/2, § 3, (ing. BVR 1 maart 2013, art. 180)] [artikel 43/3, § 3, artikel 43/4, § 4, artikel 43/6, § 4, artikel 43/7, § 3, artikel 43/8, § 3, artikel 43/9, § 3, en artikel 43/10, § 3 (verv. BVR 18 maart 2016, art. 280, I: 5 september 2016)]
 
@@ -3912,8 +4249,8 @@ Enig artikel. Het niet-voldoen aan de hiernavolgende wettelijke verplichtingen, 
 2° een lijst van de aanwezige examenjuryleden, met vermelding van de voorzitter van de examenjury;<br>
 3° een aanwezigheidslijst van alle kandidaten, met hun handtekeningen;<br>
 4° voor elke kandidaat, de vermelding van de behaalde percentages per onderdeel van het examen en, in voorkomend geval, het totaalpercentage;<br>
-5° de voor- en achternaam, de geboortedatum en -plaats, het rijksregisternummer, het adres, het telefoonnummer en het e-mailadres van de geslaagde persoon;<br>
-6° de naam, het adres, het telefoon- en faxnummer en het e-mailadres van de werkgever van de geslaagde kandidaat;<br>
+5° de voor- en achternaam, de geboortedatum en -plaats, het rijksregisternummer, het adres, het telefoonnummer en het e-mailadres van de kandidaat;<br>
+6° de naam, het adres, het telefoonnummer en het e-mailadres van de werkgever van de geslaagde kandidaat;<br>
 7° in voorkomend geval, onregelmatigheden of bijzonderheden over het examen;<br>
 8° in geval van een bijscholing of actualisatie-examen : de datum van de bijscholing of het actualisatie-examen;<br>
 9° in geval van een opleiding of examen : als een persoon voldoet aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 13/1, 14, 15, 16, 17, 17/1, 17/2, 17/3, 17/4 of 17/5 : het erkenningsnummer dat toegekend wordt aan de geslaagde persoon en de aanvangsdatum van de erkenning;<br>
@@ -3933,7 +4270,7 @@ De programma's van de algemene opleiding en bijscholing beantwoorden ten minste 
 <br>
 In de algemene opleiding komen, als dat relevant is, de volgende onderwerpen aan bod:<br>
 1° wetgeving:<br>
-a) titel 1 en Il van het VLAREM met betrekking tot de werken, vermeld in artikel 6, 7°, a),&nbsp;van het VLAREL;<br>
+a) titel Il van het VLAREM met betrekking tot de werken, vermeld in artikel 6, 7°, a),&nbsp;van het VLAREL;<br>
 b) het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer en de uitvoeringsbesluiten ervan met betrekking tot de werken, vermeld in artikel 6, 7°, a) van het VLAREL;<br>
 c) VLAREL met betrekking tot boorbedrijven;<br>
 2° de verschillende boortechnieken;<br>
@@ -4110,16 +4447,32 @@ A. Retributie voor de behandeling van de aanvraag tot erkenning<br>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>a) voor een eerste discipline</td>
+			<td>a) voor een eerste discipline indien niet erkend als MER-coördinator</td>
 			<td>500 euro</td>
 		</tr>
 		<tr>
-			<td>b) per bijkomende discipline</td>
+			<td>b) voor een eerste discipline indien erkend als MER-coördinator</td>
+			<td>125 euro</td>
+		</tr>
+		<tr>
+			<td>c) per bijkomende discipline</td>
 			<td>125 euro</td>
 		</tr>
 		<tr>
 			<td>- VR-deskundige</td>
 			<td>500 euro</td>
+		</tr>
+		<tr>
+			<td>- MER-coördinator</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>a) indien niet erkend als MER-deskundige</td>
+			<td>500 euro</td>
+		</tr>
+		<tr>
+			<td>b) indien erkend als MER-deskundige</td>
+			<td>125 euro</td>
 		</tr>
 		<tr>
 			<td>milieucoördinatoren en milieuverificateurs</td>
@@ -4301,12 +4654,12 @@ B. Retributie voor de uitoefening van het toezicht op de erkenning<br>
 
 ### BIJLAGE 19
 
-Identificatiegegevens als vermeld in artikel 27, § 2, 1°, a), en artikel 32<br>
+Identificatiegegevens als vermeld in artikel 27, § 2, 1°, a), artikel 32 en artikel 58/3, § 1<br>
 <br>
 1° in geval van een natuurlijke persoon :<br>
 a) de voor- en achternaam;<br>
 b) het privéadres;<br>
-c) het rijksregisternummer;<br>
+c) het rijksregisternummer of de geboortedatum en -plaats als men niet over een rijksregisternummer beschikt;<br>
 d) in voorkomend geval, de naam, de rechtsvorm, het ondernemingsnummer en het adres van de werkgever;<br>
 e) de contactgegevens van de aanvrager;<br>
 f) als de erkenningsaanvraag uitgaat van een natuurlijke persoon die een zelfstandig beroep uitoefent : het ondernemingsnummer;<br>
@@ -4485,7 +4838,7 @@ Lijst van de apparatuur, instrumenten en materialen die ten minste aanwezig zijn
 
 ### BIJLAGE 21
 
-Minimale technische uitrusting als vermeld in artikel 53/7, 7°<br>
+Minimale technische uitrusting als vermeld in artikel 53/7, 6°<br>
 &nbsp;
 <table border="1">
 	<tbody>
@@ -4596,10 +4949,42 @@ Lijst met minimumgegevens voor het overzicht van de koeltechnische bedrijven die
 <br>
 1° de naam van het bedrijf;<br>
 2° de rechtsvorm van het bedrijf;<br>
-3° het adres van de maatschappelijke zetel en van de exploitatiezetels;<br>
-4° het ondernemingsnummer en het vestigingsnummer;<br>
+3° het adres van de maatschappelijke zetel;<br>
+4° het ondernemingsnummer ;<br>
 5° het telefoonnummer van het bedrijf;<br>
 6° het e-mailadres van het bedrijf;<br>
 7° de voor- en achternaam van de directeur van het bedrijf;<br>
-8° de voor- en achternaam, de geboortedatum en -plaats, het certificaatnummer en de categorie van de koeltechnici;<br>
+8° de voor- en achternaam en het certificaatnummer van de koeltechnici;<br>
 9° het erkenningsnummer dat toegekend wordt aan het bedrijf en de aanvangsdatum van de erkenning.
+
+### BIJLAGE 23
+
+Bijlage 23. Onderdelen van de opleiding voor de monsternemer, vermeld in artikel 53/1, §6, en 53/2, §6<br>
+&nbsp;<br>
+De opleiding bestaat uit ten minste de volgende onderdelen:<br>
+&nbsp;<br>
+1° een theoretisch onderdeel:<br>
+a) de kwaliteitsprocedures en technische procedures van het erkende laboratorium in wiens opdracht de monsternemer monsternames wenst uit te voeren en dit met betrekking tot het nemen van bodemmonsters conform het BOC of het BAM;<br>
+b) het VLAREL inzake de registratie als monsternemer;<br>
+c) het BAM inzake het nemen van bodemmonsters voor een registratie als monsternemer in het kader van het Mestdecreet en de uitvoeringsbesluiten;<br>
+d) het BOC inzake het nemen van bodemmonsters voor een registratie als monsternemer in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid;<br>
+&nbsp;<br>
+2° een praktisch onderdeel:<br>
+a) het correct uitvoeren van een monstername conform het BAM voor een registratie als monsternemer in het kader van het Mestdecreet en de uitvoeringsbesluiten;<br>
+b) het correct uitvoeren van een monstername conform het BOC voor een registratie als monsternemer in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid;<br>
+c) de bewaring en het transport van bodemmonsters;<br>
+d) de bediening en het onderhoud van alle apparatuur in het kader van monsternames.
+
+### BIJLAGE 24
+
+Bijlage 24. Lijst met minimumgegevens van het certificaat als vermeld in artikel 53/9, 3°<br>
+&nbsp;<br>
+1° de naam, het adres, het telefoonnummer en het e-mailadres van de keuringsinstelling;<br>
+2° het erkenningsnummer dat is toegekend door de Vlaamse overheid aan de keuringsinstelling;<br>
+3° het logo van de keuringsinstelling;<br>
+4° de naam van het koeltechnisch bedrijf;<br>
+5° de rechtsvorm van het bedrijf;<br>
+6° het adres van de maatschappelijke zetel van het bedrijf;<br>
+7° de voor- en achternaam en de handtekening van de directeur van de keuringsinstelling;<br>
+8° het certificaat- en erkenningsnummer die toegekend worden aan het bedrijf en de aanvangsdatum van de erkenning;<br>
+9° de activiteiten die de houder mag verrichten.
