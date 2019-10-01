@@ -305,6 +305,11 @@ c) de module, vermeld in de volgende linkerkolom ambtshalve geconcordeerd naar d
 		</tr>
 	</tbody>
 </table>
+<br>
+<br>
+&nbsp;* Bij BVR van&nbsp;24 mei 2019&nbsp;werd met ingang van 1&nbsp;september 2019 aan bijlage V een punt 17° toegevoegd dat luidt als volgt:<br>
+<br>
+"17° Met ingang van 1 september 2019 wordt de opleiding tegelzetter ambtshalve geconcordeerd naar de opleiding vloerder-tegelzetter."&nbsp;
 
 ## BIJLAGE VI
 
