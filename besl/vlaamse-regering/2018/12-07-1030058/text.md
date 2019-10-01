@@ -312,7 +312,57 @@ In afwijking van het eerste lid kan het dagverzorgingscentrum de premies, vermel
 
 ## [HOOFDSTUK 3/2. ... (opgeh. BVR 7 februari 2020, art. 1, I: 1 oktober 2019)]
 
+### ART 16/3.
+
+...
+
+### ART 16/4.
+
+...
+
+### ART 16/5.
+
+...
+
 ## [HOOFDSTUK 3/3. Financiering functieclassificatie ter uitvoering van het Vijfde Vlaams Intersectoraal akkoord van 8 juni 2018 voor de social/nonprofitsectoren voor de periode 2018-2020 (ing. BVR 7 februari 2020, art. 2, I: 1 oktober 2019)]
+
+### ART 16/4.
+
+Voor de toepassing van hoofdstuk 3/3 wordt verstaan onder voorzieningen:<br>
+a) psychiatrische verzorgingstehuizen;<br>
+b) woonzorgcentra;<br>
+c) dagverzorgingscentra;<br>
+d) centra voor kortverblijf;<br>
+e) revalidatievoorzieningen;<br>
+f) initiatieven voor beschut wonen;<br>
+g) multidisciplinaire begeleidingsequipes voor palliatieve zorg;<br>
+h) de lokale dienstencentra die vallen onder het paritair comité 330 en die voldoen aan de subsidievoorwaarden, zoals vermeld in artikel 17, 20, 21 en 24 van het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers.<br>
+<br>
+De voorzieningen, vermeld in 1e lid, betreft alleen de voorzieningen uit de private sector.
+
+### ART 16/5.
+
+In november 2019 stort het agentschap aan de voorzieningen, vermeld in artikel 16/4, een bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen.<br>
+<br>
+Het aan de voorzieningen te storten bedrag zal in oktober 2019 aan het agentschap Zorg en Gezondheid worden meegedeeld door een orgaan of instelling die tot de nodige berekeningen in het licht van de beoogde functieclassificatie kunnen overgaan en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+<br>
+Het totaal van de bedragen die aan de voorzieningen wordt gestort, mag niet hoger zijn dan 4.635.875 euro.<br>
+<br>
+Indien het totaal van de bedragen die aan de voorzieningen wordt gestort, lager ligt dan 4.635.875 euro, wordt het restant gestort aan de verantwoordelijke inrichters van de tweede pensioenpijler als voorschot op de dotatie van het jaar 2020.
+
+### ART 16/6.
+
+In april 2020 stort het agentschap aan de voorzieningen, vermeld in artikel 16/4, een bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen.<br>
+<br>
+Het aan de voorzieningen te storten bedrag zal in maart 2020 aan het agentschap Zorg en Gezondheid worden meegedeeld door een orgaan of instelling die tot de nodige berekeningen in het licht van de beoogde functieclassificatie kunnen overgaan en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit<br>
+<br>
+Het totaal van de bedragen die aan de voorzieningen wordt gestort, mag niet hoger zijn dan 23.269.982 euro (loonkostbasis 2016).<br>
+<br>
+Dit bedrag wordt enerzijds verhoogd met een factor die de stijging van de loonkost tot 2020 uitdrukt op basis van de evolutie van de index, van de anciënniteit en van het aantal VTE.<br>
+<br>
+Dit bedrag wordt anderzijds verminderd met:<br>
+- de voorafname in het kader van de versterking van de tweede pensioenpijler;<br>
+- een bijdrage voor de koopkrachtverhoging via het complement voor leidinggevende functies in de zorg in het instellingsforfait conform artikel 473 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.
 
 ## [HOOFDSTUK 3/4. Financiering functieclassificatie ter uitvoering van het Vijfde Vlaams Intersectoraal akkoord van 8 juni 2018 en het Zesde Vlaams Intersectoraal akkoord van 30 maart 2021 voor de social/non-profitsectoren (ing. BVR 16 juli 2021, art.1, I: 1 juli 2021)]
 
@@ -332,7 +382,7 @@ In artikel 475, § 2, van het besluit van de Vlaamse Regering van 30 november 20
 
 ### ART 18.
 
-De bedragen vermeld in dit besluit, met uitzondering van de bedragen vermeld in artikel 14, derde lid, van dit besluit, en in de bijlage die bij dit besluit is gevoegd, worden geïndexeerd conform artikel 4 en artikel 6 van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld, waarbij de verhoging of de vermindering wordt toegepast vanaf de eerste maand die volgt op de maand waarvan het indexcijfer het cijfer bereikt dat een wijziging rechtvaardigt.<br>
+De bedragen vermeld in dit besluit, met uitzondering van de bedragen vermeld in artikel 14, derde lid en artikel 16/4, laatste lid, van dit besluit, en in de bijlage die bij dit besluit is gevoegd, worden geïndexeerd conform artikel 4 en artikel 6 van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld, waarbij de verhoging of de vermindering wordt toegepast vanaf de eerste maand die volgt op de maand waarvan het indexcijfer het cijfer bereikt dat een wijziging rechtvaardigt.<br>
 <br>
 De koppeling aan het indexcijfer, vermeld in het eerste lid, wordt berekend en toegepast conform artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
 <br>
