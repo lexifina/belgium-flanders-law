@@ -3029,7 +3029,8 @@ De voorwaarden, vermeld in paragraaf 2 tot en met 6, zijn gebaseerd op een punte
 
 Het jaarlijks herrekende budget bestaat uit de volgende onderdelen:<br>
 1° het bedrag ter compensatie van de eindeloopbaanmaatregelen;<br>
-2° het bedrag ter compensatie van het complement van de attractiviteitspremie.
+2° het bedrag ter compensatie van het complement van de attractiviteitspremie;<br>
+3° het bedrag ter compensatie van de functiekwalificatie ter uitvoering van het Vijfde Vlaams Intersectoraal akkoord van 8 juni 2018 voor de social/nonprofitsectoren voor de periode 2018-2020.
 
 ## Afdeling 2. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
@@ -3158,6 +3159,18 @@ Voor de dienstjaren 2014, 2015 en 2016, waarvoor het bedrag ter compensatie van 
 
 ## Afdeling 4. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
+### ART 252/1.
+
+Om de loonsverhoging ter uitvoering van punt 2.1.1. van het Vijfde Vlaams Intersectoraal akkoord van 8 juni 2018 voor de social/non-profitsectoren voor de periode 2018-2020, te financieren, wordt in het jaarlijks herrekende budget van de private revalidatieziekenhuizen in een budget voorzien.<br>
+<br>
+Voor het dienstjaar 2019 bedraagt het budget, vermeld in het eerste lid, 199.728 euro.<br>
+<br>
+Voor het dienstjaar 2020 bedraagt het budget, vermeld in het eerste lid, 1.003.426 euro. Dit bedrag van 1.003.426 euro wordt enerzijds verhoogd met een factor die de stijging van de loonkost tot 2020 uitdrukt op basis van de evolutie van de index, van de anciënniteit en van het aantal vte. Datzelfde bedrag wordt anderzijds verminderd met de voorafname zoals bepaald in punt 1.1.1 van het Vijfde Vlaams Intersectoraal akkoord van 8 juni 2018 in het kader van de versterking van de tweede pensioenpijler.<br>
+<br>
+Het budget, vermeld in het tweede en derde lid, wordt provisioneel verdeeld over de private revalidatieziekenhuizen, rekening houdend met het aantal voltijdse equivalente personeelsleden per revalidatieziekenhuis dat conform artikel 252 in aanmerking komt voor de berekening van het complement van de attractiviteitspremie.<br>
+<br>
+De definitieve verdeling van het budget, vermeld in het tweede en derde lid, per revalidatieziekenhuis, wordt bepaald op basis van de berekening die de vzw IFIC in oktober 2019, maart 2020 en maart 2021 aan het agentschap meedeelt, ermee rekening houdend dat het budget, vermeld in het tweede en derde lid, niet mag worden overschreden. Hiertoe wordt conform artikel 255, § 3, voorzien in een corrigerend bedrag voor de dienstjaren 2020 en 2021.
+
 ## Afdeling 5. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
 ## HOOFDSTUK 5. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
@@ -3183,7 +3196,11 @@ Het bedrag, vermeld in het eerste lid, is het verschil tussen het definitieve en
 <br>
 § 2. Om het complement van de attractiviteitspremie, vermeld in artikel 252, te financieren, wordt, voor de dienstjaren 2014, 2015 en 2016 een inhaalbedrag voorzien in het corrigerende budget.<br>
 <br>
-Het bedrag, vermeld in het eerste lid, is het verschil tussen het bedrag dat inbegrepen is in het budget van financiële middelen voor de jaren, vermeld in het eerste lid, en het bedrag dat voor die jaren wordt berekend conform artikel 79bis van het koninklijk besluit van 25 april 2002, zoals van kracht op 31 december 2018, en op basis van de verstrekte inlichtingen voor dat jaar.
+Het bedrag, vermeld in het eerste lid, is het verschil tussen het bedrag dat inbegrepen is in het budget van financiële middelen voor de jaren, vermeld in het eerste lid, en het bedrag dat voor die jaren wordt berekend conform artikel 79bis van het koninklijk besluit van 25 april 2002, zoals van kracht op 31 december 2018, en op basis van de verstrekte inlichtingen voor dat jaar.<br>
+<br>
+§ 3. Om de loonsverhoging door de functieclassificatie, vermeld in artikel 252/1, te financieren voor de dienstjaren 2019 en 2020, wordt een corrigerend bedrag vastgesteld in respectievelijk het corrigerende budget voor het dienstjaren 2020 en 2021.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, is het verschil tussen het provisionele bedrag dat het revalidatieziekenhuis conform artikel 252/1, vierde lid, ontvangt en het bedrag dat de vzw IFIC voor dat revalidatieziekenhuis conform artikel 252/1, vijfde lid, meedeelt.
 
 ### ART 256.
 
