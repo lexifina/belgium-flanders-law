@@ -2,16 +2,16 @@
   "codex_id": 1026515,
   "title": "Ministerieel besluit van 2016-02-08 tot uitvoering van artikel 13 van het besluit van 19 december 2014 tot uitvoering van het decreet lokale diensteneconomie van 22 november 2013",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026515/VolledigDocument?datum=2016-02-08",
-  "source_sha256": "a60cbccb332026d13c1d391c172e74df384caa5d69d7e8d76f5fdd2fe273e529",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026515/VolledigDocument?datum=2019-10-01",
+  "source_sha256": "628f966fd8bccf2330a1e1a282222018f0082bccf23950391d16ecd00d5c1ccf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026515&param=informatie",
-  "as_of": "2016-02-08",
+  "as_of": "2019-10-01",
   "made": "2016-02-08",
   "gazette": "2016-02-29",
   "numac": 2016035210,
   "document_start": "2016-02-08",
   "document_end": "2019-09-30",
-  "in_force": "2016-02-08",
+  "in_force": "2019-10-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2016-02-08; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-10-01; future article versions excluded; article text as the API gives it"
 }
