@@ -32,6 +32,12 @@ Aan artikel 19septiesdecies van hetzelfde decreet, ingevoegd bij het decreet van
 
 ## Afdeling 1. Aanpassing budget lerarenplatform secundair onderwijs
 
+### ART 7.
+
+In artikel 22/6 van de Codex Secundair Onderwijs van 17 december 2010, ingevoegd bij het decreet van 6 juli 2018 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2018 en gewijzigd bij het decreet van 21 december 2018 houdende bepalingen tot begeleiding van de begroting 2019, worden de volgende wijzigingen aangebracht:<br>
+1° het getal "156.917" wordt vervangen door het getal "167.448";<br>
+2° het getal "369,87" wordt vervangen door het getal "394,69".
+
 ## Afdeling 2. Extra werkingsmiddelen voor technische uitrusting in het secundair onderwijs
 
 ## HOOFDSTUK 6. Werk en Sociale Economie
