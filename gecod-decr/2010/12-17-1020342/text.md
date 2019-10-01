@@ -378,7 +378,7 @@ De deelnemende scholen moeten in het bevoegde lokaal comité onderhandelen over 
 
 ### ART 22/6.
 
-De totale som van de uren-leraar en lesuren zoals bepaald in artikel 22/8 van alle deelnemende scholen mag niet meer bedragen dan 156.917 uren-leraar/lesuren. Het aantal beschikbare voltijdse equivalenten bedraagt 369,87 voor het secundair onderwijs voor het totaal van alle deelnemende scholen. De omzetting van voltijds equivalenten naar lesuren of uren-leraar gebeurt door het aantal voltijdse equivalenten te vermenigvuldigen met 21,47.
+De totale som van de uren-leraar en lesuren zoals bepaald in artikel 22/8 van alle deelnemende scholen mag niet meer bedragen dan 167.448 uren-leraar/lesuren. Het aantal beschikbare voltijdse equivalenten bedraagt 394,69 voor het secundair onderwijs voor het totaal van alle deelnemende scholen. De omzetting van voltijds equivalenten naar lesuren of uren-leraar gebeurt door het aantal voltijdse equivalenten te vermenigvuldigen met 21,47.
 
 ### ART 22/7.
 
