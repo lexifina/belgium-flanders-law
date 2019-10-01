@@ -914,6 +914,19 @@ In artikel 6.1.3.1, derde lid, van hetzelfde besluit, gewijzigd bij het besluit 
 
 In artikel 6.1.3.5 van hetzelfde besluit worden de woorden "aangetekende brief" vervangen door de woorden "beveiligde zending".
 
+### ART 74.
+
+In artikel 6.2.2 van hetzelfde besluit wordt tussen de zinsnede "per fax," en de woorden "of door de uitwisseling van" de zinsnede "via het webloket dat de OVAM beschikbaar stelt via haar website," ingevoegd.
+
+### ART 75.
+
+Artikel 6.2.3 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 23 september 2016, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 6.2.3. De kennisgever kan de kennisgevingen die betrekking hebben op de uitvoer van afvalstoffen op de volgende manieren indienen bij de OVAM:<br>
+1° de kennisgever kan de originele kennisgeving, met minstens één afschrift ervan, per post naar de OVAM sturen. Als er doorvoerlanden zijn, wordt er voor elk doorvoerland een exemplaar toegevoegd. De informatie-uitwisseling tussen de kennisgever en de OVAM in het kader van de behandeling van de kennisgeving gebeurt dan via post of e-mail;<br>
+2° de kennisgever kan, als hij akkoord gaat met de digitale verzending van de bijlagen bij het kennisgevingsdossier en de digitale behandeling van zijn kennisgeving, de bijlagen indienen via het webloket dat de OVAM beschikbaar stelt via haar website. Hij stuurt dan enkel het originele kennisgevingsformulier, het originele vervoersdocument en het originele attest van de bankgarantie, borgsom of gelijkwaardige verzekering met de post naar de OVAM en laadt de andere bijlagen bij het kennisgevingsformulier op in het webloket. De kennisgever voegt dan geen afschrift en geen extra exemplaar voor elk doorvoerland toe. Elke informatie-uitwisseling tussen de kennisgever en de OVAM in het kader van de behandeling van de kennisgeving gebeurt dan via het webloket;<br>
+3° de kennisgever kan, als hij akkoord gaat met de digitale indiening en behandeling van zijn dossier, gebruikmaken van het webloket dat de OVAM via haar website aanbiedt. Het kennisgevingsdocument, het transportdocument, een door de financiële instelling digitaal ondertekende bankgarantie, borgsom of gelijkwaardige verzekering en de nodige bijlagen kunnen dan via het webloket bij de OVAM worden ingediend. Elke informatie-uitwisseling tussen de kennisgever en de OVAM in het kader van de behandeling van de kennisgeving gebeurt dan via het webloket.".
+
 ### ART 77.
 
 In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 22 december 2017, worden de artikelen 6.2.6 tot 6.2.18 toegevoegd die luiden als volgt:<br>
@@ -1030,7 +1043,7 @@ Artikel 2 treedt in werking op 1 juni 2020.
 
 ### ART 88.
 
-Artikel 38, 2°, en artikel 66 treden in werking op 1 januari 2021.
+Artikel 38, 2°, en artikel 68 treden in werking op 1 januari 2021.
 
 ### ART 89.
 
