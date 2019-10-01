@@ -152,6 +152,14 @@ Als door toepassing van het tweede lid, de inschaling gebeurt op de hoogste trap
 <br>
 Jaarlijks wordt de fictieve geldelijke anciënniteit, vermeld in het eerste lid, verhoogd met twaalf maanden tot de fictieve geldelijke anciënniteit gelijk is aan de reële geldelijke anciënniteit. Als het verschil tussen de reële geldelijke anciënniteit en de fictieve geldelijke anciënniteit minder dan twaalf maanden bedraagt, wordt de verhoging van de fictieve geldelijke anciënniteit beperkt tot dat verschil.".
 
+### ART 9.
+
+In hetzelfde besluit, laatst gewijzigd bij het besluit van de Vlaamse Regering van 13 november 2015, wordt een artikel VII 194 bis ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. VII 194bis. In afwijking van artikel VII 109ter krijgt het personeelslid dat vanaf 1 januari 2015 overgeheveld werd in het kader van een staatshervorming, een maaltijdcheque met een nominale waarde van 4 euro waarvan 1,09 euro werknemersbijdrage en 2,91 euro werkgeversbijdrage.<br>
+<br>
+Artikel VII 109ter is van toepassing op het personeelslid vermeld in het eerste lid als het via een procedure van horizontale mobiliteit vermeld in de artikelen VI 18 tot en met VI 22 of via bevordering vermeld in titel 5 van deel VI, als gevolg van een kandidaatstelling voor een vacature op vrijwillige basis een personeelsbeweging maakt.".
+
 ### ART 10.
 
 In de plaats van bijlage 14 en 15 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 13 november 2015, vernietigd bij het arrest nr. 240.654 van 5 februari 2018 van de Raad van State, worden een bijlage 14 en 15 toegevoegd, die als bijlage 1 en 2 bij dit besluit zijn gevoegd.
