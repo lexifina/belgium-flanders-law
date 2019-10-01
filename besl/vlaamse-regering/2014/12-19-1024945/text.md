@@ -78,7 +78,23 @@
 
 ### ART. 4.
 
-<P>§   1. De investeringssteun kan een of meer van de volgende maatregelen omvatten   :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de steun in de vorm van een investeringspremie;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de steun in de vorm van een rentesubsidie;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de steun in de vorm van een waarborg, als vermeld in artikel 12, § 5, van het   decreet van 22 december 1993 houdende bepalingen tot begeleiding van de   begroting 1994.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. In deze paragraaf wordt verstaan onder steunintensiteit : de totale actuele   waarde van de steun, uitgedrukt in een percentage van het subsidiabele   investeringsbedrag.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   steunintensiteit bedraagt maximaal :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   30 % voor investeringen die op basis van de behaalde scores volgens de   selectiecriteria, vermeld in artikel 7, vijfde lid, 2° tot 4°, van dit besluit,   een bovengemiddelde bijdrage leveren aan de verbetering van de duurzaamheid van   de land- en tuinbouwproductie;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   15 % voor de overige subsidiabele investeringen.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   investeringen die voor de investeringssteun in aanmerking komen, en de   steunintensiteit die van toepassing is, zijn opgenomen in de bijlage die bij dit   besluit is gevoegd.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. De consumentencoöperatie of de sociale instelling kan de waarborg, vermeld in   artikel 12, § 5, van het decreet van 22 december 1993 houdende bepalingen tot   begeleiding van de begroting 1994 niet verkrijgen.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   4. De machinecoöperatie kan uitsluitend steun verkrijgen voor machineloodsen en   machines, met inbegrip van machines voor agrarisch natuurbeheer, die   gemeenschappelijk gebruikt worden door de vennoten.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. De investeringssteun kan een of meer van de volgende maatregelen omvatten :<br>
+1° de steun in de vorm van een investeringspremie;<br>
+2° de steun in de vorm van een rentesubsidie;<br>
+3° de steun in de vorm van een waarborg, als vermeld in artikel 12, § 5, van het decreet van 22 december 1993 houdende bepalingen tot begeleiding van de begroting 1994.</p>
+
+<p>§ 2. In deze paragraaf wordt verstaan onder steunintensiteit : de totale actuele waarde van de steun, uitgedrukt in een percentage van het subsidiabele investeringsbedrag.</p>
+
+<p>De steunintensiteit bedraagt maximaal:<br>
+1° 40% voor kleine en middelgrote windturbines en voor investeringen die op basis van de behaalde scores volgens de selectiecriteria, vermeld in artikel 7, vijfde lid, 2° tot en met 4°, een bovengemiddelde bijdrage leveren aan de verbetering van het klimaat in bestaande inrichtingen en vernieuwbouw met een aantoonbare CO2-reductie;<br>
+2° 30% voor investeringen die op basis van de behaalde scores volgens de selectiecriteria, vermeld in artikel 7, vijfde lid, 2° tot en met 4°, een bovengemiddelde bijdrage leveren aan de verbetering van de duurzaamheid van de land- en tuinbouwproductie;<br>
+3° 15% voor de overige subsidiabele investeringen.</p>
+
+<p>De investeringen die voor de investeringssteun in aanmerking komen, en de steunintensiteit die van toepassing is, zijn opgenomen in de bijlage die bij dit besluit is gevoegd.</p>
+
+<p>§ 3. De consumentencoöperatie of de sociale instelling kan de waarborg, vermeld in artikel 12, § 5, van het decreet van 22 december 1993 houdende bepalingen tot begeleiding van de begroting 1994 niet verkrijgen.</p>
+
+<p>§ 4. De machinecoöperatie kan uitsluitend steun verkrijgen voor machineloodsen en machines, met inbegrip van machines voor agrarisch natuurbeheer, die gemeenschappelijk gebruikt worden door de vennoten.</p>
 
 ### ART. 5.
 
@@ -106,7 +122,7 @@ Wanneer een investering uitgevoerd wordt door een groepering van landbouwers kan
 In deze paragraaf wordt verstaan onder een groepering van landbouwers : een vereniging van ten minste twee landbouwers die elk een landbouwbedrijf exploiteren.<br>
 <br>
 Voor het verkrijgen van de investeringssteun gelden voor de volgende investeringen de volgende bijzondere beperkingen :<br>
-1° nieuwe fruitvariëteiten zijn de appelvariëteiten B3F45 (Sweet SurpriseR), BELGICA, BRUGGERS FESTIVALE (SissiredR), FRESCO (WellantR), Gala Mutanten (ALVINA, GALINETTE en ZOUK G1 (Gala One TM)), KIZURI (B3F 33/1/77), MORED (Joly RedR), NICOTER (KanziR), PREMA96 RockitTM, SANTANA, SQ159, VASARA (R1 25 95) en ZOUK 16, en de perenvariëteiten CELINA (QTeeR), CEPUNA (MigoR), CH 201, DICOLOR, GRÄFIN GEPA (Early DesireR), RODE DOYENNE VAN DOORN (Sweet SensationR) en THIMO (Queens's ForelleR);<br>
+1° nieuwe fruitvariëteiten zijn de appelvariëteiten B3F45 (Sweet SurpriseR), BELGICA, BRUGGERS FESTIVALE (SissiredR), FRESCO (WellantR), Gala Mutanten (ALVINA, GALINETTE en ZOUK G1 (Gala One TM)), KIZURI (B3F 33/1/77), MORED (Joly RedR), NICOTER (KanziR), PREMA96 RockitTM, SANTANA, SQ159, VASARA (R1 25 95) en ZOUK 16, en de perenvariëteiten CELINA (QTeeR), CEPUNA (MigoR), CH 201, DICOLOR, GRÄFIN GEPA (Early DesireR), RNA0802 (Red Modoc), RODE DOYENNE VAN DOORN (Sweet SensationR) en THIMO (Queens's ForelleR);<br>
 2° geavanceerde spuitmachines zijn:<br>
 a) een tunnelspuit;<br>
 b) een dwarsstroomspuit met groendetectiesensoren, reflectieschermen, collectors, variabele luchtondersteuning of automatische positionering op basis van gemeten windrichting en -snelheid;<br>
@@ -133,7 +149,7 @@ g) spuit met verlaagde spuitboom, 30 cm of minder, met automatische hoogteregeli
 7° de investeringen in bijkomende mestopslagcapaciteit, tenzij voor de realisatie van een bovenwettelijke mestopslag op het veebedrijf van mest van de veestapel van het bedrijf, tot een opslagcapaciteit voor maximaal één jaar of tenzij in het kader van een emissiebeperkende opslag;<br>
 8° de gewone vervangingsinvesteringen;<br>
 9° het aanleggen van een boorput voor diep grondwater en investeringen die gericht zijn op het gebruik van dat water;<br>
-10° de investeringen in zonnecellen, warmte-krachtinstallaties en vergisting van biomassa op basis van energiegewassen;<br>
+10° de investeringen in zonnecellen, warmte-krachtinstallaties, houtverbrandinginstallaties en vergisting van biomassa op basis van energiegewassen;<br>
 11° de aankoop van dieren;<br>
 12° de aankoop van tweedehandse bedrijfsuitrusting en tweedehands- en demonstratiematerieel;<br>
 13° investeringen die economisch onverantwoord zijn in het licht van de structuur en de financieel-economische toestand van het bedrijf;<br>
@@ -153,8 +169,8 @@ In het eerste lid, 8°, wordt verstaan onder gewone vervangingsinvestering: een 
 3° een win-winlening.</p>
 
 <p>De rentesubsidie bedraagt maximaal 3 %. De steun wordt verleend onder de vorm van :<br>
-1° hetzij een investeringspremie van 15 of 30 % van het subsidiabele investeringsbedrag afhankelijk van de steunintensiteit voor de subsidiabele investering in kwestie;<br>
-2° hetzij een investeringspremie van 15 % van het subsidiabele investeringsbedrag, aangevuld met een rentesubsidie en een investeringspremie, als de kredietinstelling daarom verzoekt voor investeringen waarvoor de steunintensiteit 30% bedraagt en die geheel of gedeeltelijk gefinancierd worden met krediet, aangegaan bij een door het Vlaams Landbouwinvesteringsfonds erkende kredietinstelling. De som van de investeringspremies en de actuele waarde van de rentesubsidie bedraagt 30% van het subsidiabele investeringsbedrag;<br>
+1° hetzij een investeringspremie van 15, 30 %&nbsp;of 40 % van het subsidiabele investeringsbedrag afhankelijk van de steunintensiteit voor de subsidiabele investering in kwestie;<br>
+2° hetzij een investeringspremie van 15 % of 20 % van het subsidiabele investeringsbedrag, aangevuld met een rentesubsidie en een investeringspremie, als de kredietinstelling daarom verzoekt voor investeringen waarvoor de steunintensiteit respectievelijk 30 % of 40 % bedraagt en die geheel of gedeeltelijk gefinancierd worden met krediet dat aangegaan is bij een door het Vlaams Landbouwinvesteringsfonds erkende kredietinstelling. De som van de investeringspremies en de actuele waarde van de rentesubsidie bedraagt 30% of 40% van het subsidiabele investeringsbedrag;<br>
 3° een waarborg voor investeringskredieten, aangegaan bij een door het Vlaams Landbouwinvesteringsfonds erkende kredietinstelling, die aangewend werden voor de financiering van subsidiabele investeringen die in het kader van de aanvraag om steun zijn aangemeld.</p>
 
 <p>In het derde lid, 2°, wordt verstaan onder de actuele waarde van de rentesubsidie : het bedrag aan steun dat verkregen wordt door alle in de tijd gespreide betalingen van rentesubsidie te actualiseren aan de hand van het percentage en de duur van de rentesubsidie, de duur van de vrijstelling van kapitaalaflossing, het aantal kapitaalaflossingen per jaar en een actualisatievoet. De actualisatievoet is gelijk aan de actualisatievoet die door de Europese Unie bepaald wordt voor België en van toepassing was op 1 januari van het jaar van de aanvraag van steun.</p>
@@ -241,7 +257,7 @@ De minimaal noodzakelijke doelmatigheidsscore waaruit de bijdrage aan de realisa
 
 ### ART. 14.
 
-<p>&nbsp;De steun aan de investeringen in de landbouw wordt verleend met inachtneming van de volgende voorwaarden :<br>
+<p>De steun aan de investeringen in de landbouw wordt verleend met inachtneming van de volgende voorwaarden :<br>
 1° de maximale duur van de rentesubsidie bedraagt zeven jaar;<br>
 2° de rentesubsidie houdt geen rekening met vrijstelling van kapitaalaflossing. De erkende kredietinstelling kan, voor kredieten die rentesubsidie genieten, tijdens de periode waarin de steun loopt, ambtshalve maximaal drie jaar vrijstelling van aflossing toestaan zonder bijkomende steun. De rentesubsidie wordt voortgezet zoals werd opgenomen in de definitieve beslissing;<br>
 3° de maximale duur van de waarborg bedraagt tien jaar. Als de financieel-economische toestand van het bedrijf dat verantwoordt, kan de periode waarin de waarborg verleend wordt, met goedkeuring van de minister, maximaal drie keer met één jaar verlengd worden. Over het verlengen van de waarborg, wordt beslist op basis van een gemotiveerde aanvraag;<br>
@@ -251,9 +267,9 @@ De minimaal noodzakelijke doelmatigheidsscore waaruit de bijdrage aan de realisa
 1° de opstartpremie wordt in vijf gelijke delen betaald, gespreid over maximaal vijf jaren die volgen op de toekenning van de opstartsteun, en de betaling ervan. Vóór de betaling van de laatste schijf wordt een controle uitgevoerd op de naleving van de voorwaarden voor het verkrijgen van de steun;<br>
 2° de maximale duur van de waarborg bedraagt tien jaar.</p>
 
-<p>Het minimale bedrag aan subsidiabele investeringskosten bedraagt netto 15.000 euro. Het subsidiabele bedrag moet verantwoord worden met bewijsstukken van de investeringen die vermeld zijn in de steunaanvraag, die gedateerd zijn binnen een termijn van twee jaar na het afsluiten van de blokperiode waarin de aanvraag geregistreerd werd, die betrekking hebben op subsidiabele kosten van meer dan honderd euro en die geen andere vorm van investeringssteun krijgen van de overheid. Investeringskosten die betaald werden met contant geld, met middelen die verkregen zijn bij een vrijwillige verkoop van productiemiddelen of als vergoeding in het kader van een onteigening van het geheel of een deel van het landbouwbedrijf, of met middelen die verkregen zijn als compensatie voor geleden schade, worden niet in rekening gebracht.</p>
+<p>Het minimale bedrag aan subsidiabele investeringskosten bedraagt netto 5.000 euro. Het subsidiabele bedrag moet verantwoord worden met bewijsstukken van de investeringen die vermeld zijn in de steunaanvraag, die gedateerd zijn binnen een termijn van twee jaar na het afsluiten van de blokperiode waarin de aanvraag geregistreerd werd, die betrekking hebben op subsidiabele kosten van meer dan honderd euro en die geen andere vorm van investeringssteun krijgen van de overheid. Investeringskosten die betaald werden met contant geld, met middelen die verkregen zijn bij een vrijwillige verkoop van productiemiddelen of als vergoeding in het kader van een onteigening van het geheel of een deel van het landbouwbedrijf, of met middelen die verkregen zijn als compensatie voor geleden schade, worden niet in rekening gebracht.</p>
 
-<p>De steun verleend in het kader van dit besluit kan niet gecumuleerd worden met andere vormen van overheidssteun. In dat verband legt de landbouwer die de steunmaatregelen, vermeld in dit besluit, wil verkrijgen, een verklaring op erewoord af waarin vermeld wordt dat geen andere steun aangevraagd is of aangevraagd zal worden bij een andere overheidsinstantie van welke aard ook voor de investeringen of de opstartverrichtingen.</p>
+<p>De steun verleend in het kader van dit besluit kan niet gecumuleerd worden met andere vormen van steun. In dat verband legt de landbouwer die de steunmaatregelen, vermeld in dit besluit, wil verkrijgen, een verklaring op erewoord af waarin vermeld wordt dat geen andere steun, van welke aard ook, aangevraagd is of aangevraagd zal worden voor de investeringen of de opstartverrichtingen.</p>
 
 <p>Met betrekking tot de steunverlening, vermeld in artikel 4 en 11, stelt de minister de uiterste termijnen vast om te voldoen aan de voorwaarden, de eventueel in aanmerking te nemen maximale subsidiabele investeringsbedragen per oppervlakte- of volume-eenheid of dierplaats,.</p>
 
@@ -319,4 +335,100 @@ De   Vlaamse minister, bevoegd voor de landbouw, is belast met de uitvoering van
 
 ### BIJLAGE
 
-Overzicht   van de subsidiabele investeringen en de overeenstemmende   steunintensiteit<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Investeringen   met een steunintensiteit van 30 %<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>Investeringen gericht op de verbetering van de   bodemkwaliteit<BR></TD></TR>    <TR>      <TD>Investeringen gericht op de verbetering van de waterkwaliteit of         -kwantiteit<BR></TD></TR>    <TR>      <TD>Investeringen gericht op de verbetering van de   biodiversiteit<BR></TD></TR>    <TR>      <TD>Investeringen die specifiek gericht zijn op de vermindering van de         emissies van ammoniak, fijn stof en stikstofoxiden<BR></TD></TR>    <TR>      <TD>Specifieke investeringen in de biologische landbouw<BR></TD></TR>    <TR>      <TD>Investeringen in hernieuwbare energie<BR></TD></TR>    <TR>      <TD>Materieel en installaties die functioneren op hernieuwbare       energie<BR></TD></TR>    <TR>      <TD>Investeringen die specifiek gericht zijn op de realisatie van een         primaire energiebesparing<BR></TD></TR>    <TR>      <TD>Investeringen gericht op de vermindering van de hoeveelheid afval en         de voedselverliezen<BR></TD></TR>    <TR>      <TD>De extra uitrusting van tractors en landbouwwerktuigen met het oog op         precisielandbouw<BR></TD></TR>    <TR>      <TD>Investeringen gericht op de verbetering van het dierenwelzijn die         verder gaan dan de wettelijke normen<BR></TD></TR>    <TR>      <TD>Investeringen in automatisatie gericht op een verhoging van de         arbeidsproductiviteit<BR></TD></TR>    <TR>      <TD>Investeringen gericht op het uitoefenen van activiteiten met         betrekking tot landbouwverbreding<BR></TD></TR>    <TR>      <TD>Investeringen gericht op de verhoging van de ruimtelijke       kwaliteit<BR></TD></TR>    <TR>      <TD>Investeringen gericht op de verbetering van de     voedselveiligheid<BR></TD></TR>    <TR>      <TD>Investeringen gericht op de verbetering van de arbeidskwaliteit en de         arbeidsveiligheid<BR></TD></TR>    <TR>      <TD>Investeringen gericht op bijzondere dierlijke productie<BR></TD></TR>    <TR>      <TD>Aanplant van nieuwe beloftevolle   fruitvariëteiten<BR></TD></TR></TBODY></TABLE><BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Investeringen   met een steunintensiteit van 15 %<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>Investeringen om te voldoen aan nieuwe wettelijke normen met         betrekking tot dierenwelzijn<BR></TD></TR>    <TR>      <TD>Investeringen in onroerend goed gericht aan voldoen aan wettelijke         normen met betrekking tot mestopslag<BR></TD></TR>    <TR>      <TD>Investeringen in onroerend goed gericht op de realisatie van een         structuurverbetering<BR></TD></TR>    <TR>      <TD>Investeringen in roerend goed met een minimale bijdrage aan de         verduurzaming<BR></TD></TR>    <TR>      <TD>Aankoop meerjarig plantgoed<BR></TD></TR></TBODY></TABLE><BR   class=Apple-interchange-newline>
+Bijlage. Overzicht van de subsidiabele investeringen en de overeenstemmende steunintensiteit<br>
+<br>
+1° Investeringen met een steunintensiteit van 40 %<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Kleine en middelgrote windturbines</td>
+		</tr>
+		<tr>
+			<td>Investeringen met een bovengemiddelde bijdrage aan de klimaatmitigatie in bestaande inrichtingen en vernieuwbouw met een aantoonbare CO-2 reductie</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+2° Investeringen met een steunintensiteit van 30 %<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Investeringen die gericht zijn op de verbetering van de bodemkwaliteit</td>
+		</tr>
+		<tr>
+			<td>Investeringen die gericht zijn op de verbetering van de waterkwaliteit of -kwantiteit</td>
+		</tr>
+		<tr>
+			<td>Investeringen die gericht zijn op de verbetering van de biodiversiteit</td>
+		</tr>
+		<tr>
+			<td>Investeringen die specifiek gericht zijn op de vermindering van de emissies van ammoniak, fijn stof en stikstofoxiden</td>
+		</tr>
+		<tr>
+			<td>Specifieke investeringen in de biologische landbouw</td>
+		</tr>
+		<tr>
+			<td>Investeringen in hernieuwbare energie</td>
+		</tr>
+		<tr>
+			<td>Materieel en installaties die functioneren op hernieuwbare energie</td>
+		</tr>
+		<tr>
+			<td>Investeringen die specifiek gericht zijn op de realisatie van een primaire energiebesparing</td>
+		</tr>
+		<tr>
+			<td>Investeringen die gericht zijn op de vermindering van de hoeveelheid afval en de voedselverliezen</td>
+		</tr>
+		<tr>
+			<td>De extra uitrusting van tractors en landbouwwerktuigen met het oog op precisielandbouw</td>
+		</tr>
+		<tr>
+			<td>Investeringen die gericht zijn op de verbetering van het dierenwelzijn die verder gaan dan de wettelijke normen</td>
+		</tr>
+		<tr>
+			<td>Investeringen in automatisatie die gericht zijn op een verhoging van de arbeidsproductiviteit</td>
+		</tr>
+		<tr>
+			<td>Investeringen die gericht zijn op het uitoefenen van activiteiten met betrekking tot landbouwverbreding</td>
+		</tr>
+		<tr>
+			<td>Investeringen die gericht zijn op de verhoging van de ruimtelijke kwaliteit</td>
+		</tr>
+		<tr>
+			<td>Investeringen die gericht zijn op de verbetering van de voedselveiligheid</td>
+		</tr>
+		<tr>
+			<td>Investeringen die gericht zijn op de verbetering van de arbeidskwaliteit en de arbeidsveiligheid</td>
+		</tr>
+		<tr>
+			<td>Investeringen die gericht zijn op bijzondere dierlijke productie</td>
+		</tr>
+		<tr>
+			<td>Aanplant van nieuwe beloftevolle fruitvariëteiten</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+3° Investeringen met een steunintensiteit van 15 %<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Investeringen om te voldoen aan nieuwe wettelijke normen met betrekking tot dierenwelzijn</td>
+		</tr>
+		<tr>
+			<td>Investeringen in onroerend goed die gericht zijn op het voldoen aan wettelijke normen met betrekking tot mestopslag</td>
+		</tr>
+		<tr>
+			<td>Investeringen in onroerend goed die gericht zijn op de realisatie van een structuurverbetering</td>
+		</tr>
+		<tr>
+			<td>Investeringen in roerend goed met een minimale bijdrage aan de verduurzaming</td>
+		</tr>
+		<tr>
+			<td>Aankoop meerjarig plantgoed</td>
+		</tr>
+	</tbody>
+</table>
