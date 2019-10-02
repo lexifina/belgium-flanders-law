@@ -2,16 +2,16 @@
   "codex_id": 1015644,
   "title": "Omzendbrief van 2006-12-01 2006/26 betreffende openbaarheid van bestuur",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015644/VolledigDocument?datum=2006-12-01",
-  "source_sha256": "34ea352e809ad2813ddf90540cba51584c47a51435fa74d05bed65a1d41630e9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015644/VolledigDocument?datum=2019-10-02",
+  "source_sha256": "62f7d53098eb128e502ddd92ee67a91f961a21b05051af3efa12f0db22c48bf9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015644&param=informatie",
-  "as_of": "2006-12-01",
+  "as_of": "2019-10-02",
   "made": "2006-12-01",
   "gazette": "2007-03-23",
   "numac": 2007035410,
   "document_start": null,
   "document_end": "2019-10-01",
-  "in_force": "2006-12-01",
+  "in_force": "2019-10-02",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-10-02; future article versions excluded; article text as the API gives it"
 }
