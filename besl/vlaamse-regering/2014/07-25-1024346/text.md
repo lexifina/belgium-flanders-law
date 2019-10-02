@@ -8,212 +8,31 @@ DE VLAAMSE REGERING,<BR><BR>Gelet op het bijzonder decreet van 7 juli 2006   ove
 
 ### ART. 1.
 
-Dit hoofdstuk verdeelt de bevoegdheden binnen de Vlaamse Regering, met het   oog op de voorbereiding en de uitvoering van haar beslissingen.
+...
 
 ### ART. 2.
 
-<p>§ 1. Mevrouw Liesbeth Homans, voorzitter van de Vlaamse Regering, is bevoegd voor het beleidsdomein Kanselarij en Bestuur, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, hierna het organisatiebesluit te noemen, met uitzondering van de bestuurszaken, het gelijkekansen- en integratiebeleid en de coördinatie van het beleid met betrekking tot Brussel-Hoofdstad en de Vlaamse Rand rond Brussel.<br>
-<br>
-Zij is bevoegd om, met toepassing van artikel 11bis van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, namens de Vlaamse Regering, de federale minister van Justitie te verzoeken om vervolgingen te bevelen.<br>
-<br>
-Zij draagt de titel "minister-president van de Vlaamse Regering."<br>
-<br>
-§ 2. Mevrouw Liesbeth Homans, lid van de Vlaamse Regering, is bevoegd voor:<br>
-1° de bestuurszaken, vermeld in artikel 3, § 1, 2°, van het organisatiebesluit;<br>
-2° het beleidsveld woonbeleid;<br>
-3° het beleidsveld sociale economie;<br>
-4° het gelijkekansen- en integratiebeleid, vermeld in artikel 3, § 1, 3°, van het organisatiebesluit;<br>
-5° de coördinatie van het armoedebeleid.<br>
-<br>
-Zij draagt de titel "Vlaams minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding".<br>
-<br>
-§ 3. Mevrouw Hilde Crevits, viceminister-president van de Vlaamse Regering, is bevoegd voor het beleidsdomein onderwijs en vorming, vermeld in artikel 8 van het organisatiebesluit.<br>
-<br>
-Zij draagt de titel "Vlaams minister van Onderwijs".<br>
-<br>
-§ 4. Mevrouw Lydia Peeters, viceminister-president van de Vlaamse Regering, is bevoegd voor:<br>
-1° het beleidsdomein financiën en begroting, vermeld in artikel 5 van het organisatiebesluit;<br>
-2° het beleidsveld energie;<br>
-3° het beleidsdomein cultuur, jeugd, sport en media, vermeld in artikel 10 van het organisatiebesluit, met uitzondering van het beleidsveld sport;<br>
-4° het toezicht op de Vlaamse Gemeenschapscommissie overeenkomstig het decreet van 5 juli 1989 tot organisatie van het toezicht op de Vlaamse Gemeenschapscommissie.<br>
-<br>
-Zij draagt de titel "Vlaams minister van Begroting, Financiën, Energie, Cultuur, Media en Jeugd"<br>
-<br>
-§ 5. De heer Ben Weyts, vice-minister-president van de Vlaamse Regering, is bevoegd voor:<br>
-1° het beleidsdomein mobiliteit en openbare werken, vermeld in artikel 14 van het organisatiebesluit;<br>
-2° het beleidsveld coördinatie Vlaamse Rand;<br>
-3° het beleidsveld dierenwelzijn;<br>
-4° het beleidsdomein internationaal Vlaanderen, vermeld in artikel 6 van het organisatiebesluit;<br>
-5° het beleidsveld onroerend erfgoed.<br>
-<br>
-Hij draagt de titel "Vlaams minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Buitenlands Beleid, Onroerend Erfgoed en Dierenwelzijn"<br>
-<br>
-§ 6. ...<br>
-<br>
-§ 7. De heer Jo Vandeurzen is bevoegd voor het beleidsdomein welzijn, volksgezondheid en gezin, vermeld in artikel 9 van het organisatiebesluit.<br>
-<br>
-Hij draagt de titel "Vlaams minister van Welzijn, Volksgezondheid en Gezin".<br>
-<br>
-§ 8. De heer Philippe Muyters is bevoegd voor:<br>
-1° het beleidsdomein economie, wetenschap en innovatie, vermeld in artikel 7 van het organisatiebesluit;<br>
-2° het beleidsveld werkgelegenheid;<br>
-3° het beleidsveld professionele vorming;<br>
-4° het beleidsveld sport.<br>
-<br>
-Hij draagt de titel "Vlaams minister van Werk, Economie, Innovatie en Sport".<br>
-<br>
-§ 9. De heer Sven Gatz is bevoegd voor het beleidsveld coördinatie Brussel, met uitzondering van het toezicht op de Vlaamse Gemeenschapscommissie overeenkomstig het decreet van 5 juli 1989 tot organisatie van het toezicht op de Vlaamse Gemeenschapscommissie.<br>
-<br>
-Hij wordt aangewezen om als Brussels lid van de Vlaamse Regering de vergaderingen van het College van de Vlaamse Gemeenschapscommissie en van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie met raadgevende stem bij te wonen, zoals bepaald in artikel 76 van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen.<br>
-<br>
-Hij draagt de titel "Vlaams minister van Brusselse aangelegenheden".<br>
-<br>
-§ 10. De heer Koen Van den Heuvel is bevoegd voor:<br>
-1° het beleidsdomein landbouw en visserij, vermeld in artikel 12 van het organisatiebesluit;<br>
-2° het beleidsveld leefmilieu en natuur, met inbegrip van de natuurlijke rijkdommen en het plattelandsbeleid;<br>
-3° het beleidsveld ruimtelijke ordening.<br>
-<br>
-Hij draagt de titel "Vlaams minister van Omgeving, Natuur en Landbouw".</p>
+...
 
 ### ART. 3.
 
-Het bestuur van of het toezicht op de hieronder vermelde diensten, instellingen of rechtspersonen wordt als volgt verdeeld:<br>
-1° de minister-president van de Vlaamse Regering is bevoegd voor:<br>
-a) ...;<br>
-b) Audit Vlaanderen, met behoud van de toepassing van artikel 16 van het besluit van de Vlaamse Regering van 18 oktober 2013 tot oprichting van het intern verzelfstandigd agentschap Audit Vlaanderen en tot wijziging van diverse besluiten;<br>
-c) ...<br>
-d) de Sociaal-Economische Raad van Vlaanderen;<br>
-<br>
-2° de Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding is bevoegd voor:<br>
-a) het Agentschap Overheidspersoneel;<br>
-b) het Agentschap Facilitair Bedrijf;<br>
-c) het Agentschap Binnenlands Bestuur, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Buitenlands Beleid, Onroerend Erfgoed en Dierenwelzijn, en met de Vlaamse minister van Brusselse aangelegenheden;<br>
-d) de Vlaamse Vereniging voor ICT-personeel ("Vlaanderen connect.");<br>
-e) het Agentschap Integratie en Inburgering;<br>
-f) Wonen-Vlaanderen;<br>
-g) de Vlaamse Maatschappij voor Sociaal Wonen;<br>
-h) de Vlaamse Woonraad;<br>
-i) het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant ("Vlabinvest");<br>
-j) het Garantiefonds voor de Huisvesting;<br>
-k) Toegankelijk Vlaanderen;<br>
-l) het agentschap Informatie Vlaanderen;<br>
-m) het Eigen Vermogen Informatie Vlaanderen;<br>
-n) het Vlaams Pensioenfonds;<br>
-<br>
-3° de Vlaamse minister van Onderwijs is bevoegd voor:<br>
-a) het Agentschap voor Onderwijsdiensten;<br>
-b) ...;<br>
-c) het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen;<br>
-d) het Agentschap voor Infrastructuur in het Onderwijs;<br>
-e) de Vlaamse Onderwijsraad;<br>
-f) het Gemeenschapsonderwijs;<br>
-g) ...;<br>
-<br>
-4° de Vlaamse minister van Begroting, Financiën, Energie, Cultuur, Media en Jeugd is bevoegd voor:<br>
-a) de Vlaamse Belastingdienst;<br>
-b) het Vlaams Fonds voor de Lastendelging;<br>
-c) het Vlaams Energieagentschap;<br>
-d) de Raad voor Cultuur, Jeugd, Sport en Media, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister bevoegd voor de sport;<br>
-e) het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten Antwerpen;<br>
-f) het Fonds Culturele Infrastructuur;<br>
-g) het Vlaams Fonds voor de Letteren;<br>
-h) het Topstukkenfonds;<br>
-i) de Vlaamse Radio- en Televisieomroep;<br>
-j) de Vlaamse Regulator voor de Media;<br>
-k) het Koninklijk Museum voor Schone Kunsten Antwerpen.<br>
-<br>
-5° de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Buitenlands Beleid, Onroerend Erfgoed en Dierenwelzijn is bevoegd voor:<br>
-a) het Agentschap Wegen en Verkeer;<br>
-b) het Agentschap voor Maritieme Dienstverlening en Kust;<br>
-c) de Vlaamse Vervoermaatschappij - De Lijn;<br>
-d) de Vlaamse Waterweg;<br>
-e) Vlaamse Havens;<br>
-f) de Luchthavenontwikkelingsmaatschappij Oostende-Brugge;<br>
-g) de Luchthavenontwikkelingsmaatschappij Kortrijk-Wevelgem;<br>
-h) de Luchthavenontwikkelingsmaatschappij Antwerpen;<br>
-i) de Mobiliteitsraad van Vlaanderen;<br>
-j) het Pendelfonds;<br>
-k) het Eigen Vermogen Flanders Hydraulics;<br>
-l) de Rand;<br>
-m) Toerisme Vlaanderen;<br>
-n) het Agentschap Binnenlands Bestuur, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding, en met de Vlaamse minister van Brusselse aangelegenheden;<br>
-o) het Vlaams Agentschap voor Internationaal Ondernemen;<br>
-p) Onroerend Erfgoed;<br>
-q) de Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor de ruimtelijke ordening.<br>
-<br>
-6° ...;<br>
-<br>
-7° de Vlaamse minister van Welzijn, Volksgezondheid en Gezin is bevoegd voor:<br>
-a) Zorg en Gezondheid;<br>
-b) Jongerenwelzijn;<br>
-c) ...;<br>
-d) het Openbaar Psychiatrisch Zorgcentrum Geel;<br>
-e) het Openbaar Psychiatrisch Zorgcentrum Rekem;<br>
-f) Kind en Gezin;<br>
-g) het Vlaams Agentschap voor Personen met een Handicap;<br>
-h) het Agentschap voor Vlaamse Sociale Bescherming;<br>
-i) het Fonds Jongerenwelzijn;<br>
-j) het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
-k) het Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg;<br>
-l) de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid;<br>
-m)&nbsp;Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid.<br>
-<br>
-8° de Vlaamse minister van Werk, Economie, Innovatie en Sport is bevoegd voor:<br>
-a) het Agentschap Innoveren en Ondernemen;<br>
-b) de Participatiemaatschappij Vlaanderen;<br>
-c) het Vlaams Energiebedrijf;<br>
-d) de Limburgse Reconversiemaatschappij;<br>
-e) de Vlaamse Participatiemaatschappij;<br>
-f) de Herculesstichting;<br>
-g) het Agentschap voor Innovatie door Wetenschap en Technologie ("IWT");<br>
-h) het Fonds voor Wetenschappelijk Onderzoek-Vlaanderen ("FWO");<br>
-i) het Agentschap Plantentuin Meise;<br>
-j) de Vlaamse Raad voor Wetenschap en Innovatie ("VRWI");<br>
-k) de Vlaamse Instelling voor Technologisch onderzoek;<br>
-l) het Fonds voor het Flankerend Economisch Beleid ("Hermesfonds");<br>
-m) Gimvindus;<br>
-n) de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
-o) het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br>
-p) het ESF-Agentschap;<br>
-q) Sport Vlaanderen;<br>
-r) de Raad voor Cultuur, Jeugd, Sport en Media, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor de cultuur, de jeugd en de media;<br>
-<br>
-9° de Vlaamse minister van Brusselse aangelegenheden is bevoegd voor:<br>
-a) het Vlaams-Brusselfonds;<br>
-b) Muntpunt;<br>
-c) het Agentschap Binnenlands Bestuur, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding, en met de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn;<br>
-<br>
-10° de Vlaamse minister van Omgeving, Natuur en Landbouw is bevoegd voor:<br>
-a) de Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor het onroerend erfgoed;<br>
-b) het Rubiconfonds;<br>
-c) het Agentschap voor Natuur en Bos;<br>
-d) het Instituut voor Natuur- en Bosonderzoek;<br>
-e) de Vlaamse Milieumaatschappij;<br>
-f) de Openbare Vlaamse Afvalstoffenmaatschappij;<br>
-g) de Vlaamse Landmaatschappij;<br>
-h) de Milieu- en Natuurraad van Vlaanderen;<br>
-i) de Vlaamse Milieuholding;<br>
-j) de Vlaamse Maatschappij voor Watervoorziening ("De Watergroep");<br>
-k) het Ondersteunend Centrum van het Agentschap voor Natuur en Bos;<br>
-l) het Eigen Vermogen van het Instituut voor Natuur- en Bosonderzoek;<br>
-m) het Grindfonds;<br>
-n) het Agentschap voor Landbouw en Visserij;<br>
-o) het Instituut voor Landbouw- en Visserijonderzoek;<br>
-p) het Vlaams Centrum voor Agro- en Visserijmarketing;<br>
-q) de Strategische Adviesraad voor Landbouw en Visserij;<br>
-r) het Vlaams Landbouwinvesteringsfonds;<br>
-s) het Financieringsinstrument voor Vlaamse visserij- en aquicultuursector;<br>
-t) het Eigen Vermogen van het Instituut voor Landbouw- en Visserijonderzoek;
+...
 
 ### ART. 4.
 
-De aangelegenheden die bij artikel 2 en 3 zijn toegewezen aan de leden van   de Vlaamse Regering, omvatten ook de middelen en instrumenten waarmee die   aangelegenheden effectief gerealiseerd kunnen worden, onder meer wat   betreft:<BR>1° de relaties en de samenwerking met derden, met de federale   overheid en met de andere gemeenschappen en gewesten;<BR>2° internationale en   Europese initiatieven;<BR>3° de wetenschappelijke onderzoeksprojecten en   wetenschappelijke studies;<BR>4° het specifiek administratief toezicht;<BR>5° de   oprichting van diensten, instellingen en rechtspersonen;<BR>6° het bestuur van   of het toezicht op de diensten, instellingen en rechtspersonen die afhangen van   de Vlaamse Gemeenschap of het Vlaamse Gewest;<BR>7° het specifieke beleid inzake   personeel, organisatieontwikkeling, facilitaire dienstverlening, middelenbeheer,   vastgoedbeheer en informatie- en communicatietechnologie;<BR>8° de interne en   externe communicatie.
+...
 
 ## HOOFDSTUK 2 Delegatie van beslissingsbevoegdheden aan de leden van de Vlaamse Regering
 
 ### ART. 5.
 
-Elk lid van de Vlaamse Regering oefent de in dit hoofdstuk gedelegeerde   beslissingsbevoegdheden uit in de aangelegenheden die hem of haar zijn   toegewezen in hoofdstuk 1 van dit besluit.<BR><BR>De delegaties, toegestaan in   dit hoofdstuk, gelden ook voor beslissingen die betrekking hebben op   aangelegenheden die tot de bevoegdheid behoren van meerdere leden van de Vlaamse   Regering, en dus gezamenlijk moeten worden genomen.<BR><BR>De bij dit hoofdstuk   gedelegeerde beslissingsbevoegdheden worden uitgeoefend binnen de perken en met   inachtneming van de voorwaarden en modaliteiten die zijn vastgelegd in wetten,   decreten, besluiten en omzendbrieven.<BR><BR>De bedragen, vermeld in dit   hoofdstuk, zijn exclusief belasting over de toegevoegde waarde.
+Elk lid van de Vlaamse Regering oefent de in dit hoofdstuk gedelegeerde beslissingsbevoegdheden uit in de aangelegenheden die hem of haar zijn toegewezen.<br>
+<br>
+De delegaties, toegestaan in dit hoofdstuk, gelden ook voor beslissingen die betrekking hebben op aangelegenheden die tot de bevoegdheid behoren van meerdere leden van de Vlaamse Regering, en dus gezamenlijk moeten worden genomen.<br>
+<br>
+De bij dit hoofdstuk gedelegeerde beslissingsbevoegdheden worden uitgeoefend binnen de perken en met inachtneming van de voorwaarden en modaliteiten die zijn vastgelegd in wetten, decreten, besluiten en omzendbrieven.<br>
+<br>
+De bedragen, vermeld in dit hoofdstuk, zijn exclusief belasting over de toegevoegde waarde.
 
 ### ART. 6.
 
@@ -361,7 +180,7 @@ De leden van de Vlaamse Regering hebben delegatie om onteigeningsmachtigingen te
 
 ### ART 13/1.
 
-De Vlaamse minister, bevoegd voor de ruimtelijke ordening, heeft delegatie om te beslissen over de beroepen inzake opening, afschaffing, wijziging of verlegging van buurtwegen, vermeld in artikel 28 van de wet van 10 april 1841 op de buurtwegen.
+De Vlaamse minister, bevoegd voor de weginfrastructuur en het beleid, heeft delegatie om te beslissen over de beroepen inzake gemeentelijke rooilijnplannen of opheffing van gemeentewegen, vermeld in artikel 24 van het decreet van 3 mei 2019 houdende de gemeentewegen en over de beroepen inzake aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg, vermeld in artikel 31/1 van het decreet van 25 april 2014 betreffende de omgevingsvergunning.
 
 ### ART 13/2.
 
@@ -384,6 +203,10 @@ De Vlaamse minister, bevoegd voor de economie, het wetenschapsbeleid en het tech
 
 De Vlaamse minister, bevoegd voor het energiebeleid, heeft delegatie om te beslissen over de startdatum en de verlenging van de civiele noodsituatie, vermeld in artikel 4, eerste lid, 2° en 3°, van het decreet van 17 oktober 2018 houdende afwijkingen op de gewestelijke vergunningsplicht in geval van civiele noodsituatie.
 
+### ART 13/6.
+
+In afwijking van artikel 6, 3°, hebben de leden van de Vlaamse Regering delegatie om een voorstel tot toekenning van onderscheidingen in de Nationale Orden of van burgerlijke eretekens aan personeelsleden, ter beslissing aan de federale overheid voor te leggen.
+
 ## HOOFDSTUK 3 Algemene bepalingen
 
 ### ART. 14.
@@ -402,11 +225,7 @@ Als de minister-president of een lid van de Vlaamse Regering afwezig of   verhin
 
 ### ART 16/1.
 
-§ 1. De beslissingen van de Vlaamse Regering en de documenten waarop ze betrekking hebben, worden systematisch gepubliceerd op de centrale website van de Vlaamse overheid.<br>
-<br>
-Het eerste lid is niet van toepassing op de beslissingen met individuele strekking.<br>
-<br>
-§ 2. Met toepassing van artikel 5/3, § 2, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, kunnen de adviezen van de Raad van State over voorontwerpen van decreet die niet zijn ingediend, de amendementen erop, en de ontwerpen van besluiten die niet zijn bekendgemaakt in het Belgisch Staatsblad, alsook de teksten van die voorontwerpen, amendementen en ontwerpbesluiten worden bekendgemaakt door de Raad van State na de ontbinding van het Vlaams Parlement.
+...
 
 ## HOOFDSTUK 4 Overgangs- en slotbepalingen
 
