@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032282,
+  "title": "Besluit van de Vlaamse Regering van 2019-06-28 houdende indeling bij de gemeentewegen van de gewestwegen R004702 (richting Gent) tussen kilometerpunt 0,000 en 0,500 en R004702 (richting Merelbeke) tussen kilometerpunt 0,000 en 0,281 op het grondgebied van de gemeente Merelbeke",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032282/VolledigDocument?datum=2019-10-03",
+  "source_sha256": "7c8c5b20c4a47215eeb13ac2d9d7886b3a8755bc3a1d592d03238c95c10a6566",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032282&param=informatie",
+  "as_of": "2019-10-03",
+  "made": "2019-06-28",
+  "gazette": "2019-09-23",
+  "numac": 2019014449,
+  "document_start": "2019-10-03",
+  "document_end": null,
+  "in_force": "2019-10-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-10-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
