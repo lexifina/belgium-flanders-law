@@ -24,6 +24,49 @@ Besluit :
 
 ## HOOFDSTUK 1. Wijzigingen van het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de arrondissementscommissarissen en de adjunct-arrondissementscommissaris
 
+### ART 1.
+
+Aan artikel 2 van het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de arrondissementscommissarissen en de adjunct-arrondissementscommissaris, vervangen bij het besluit van de Vlaamse Regering van 18 juni 2010, wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
+<br>
+" 3° beveiligde zending: een van de volgende betekeningswijzen:<br>
+a) een aangetekende brief;<br>
+b) een afgifte tegen ontvangstbewijs.".
+
+### ART 2.
+
+In artikel 10 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 18 juni 2010, wordt punt 4° opgeheven.
+
+### ART 3.
+
+In artikel 12 van hetzelfde besluit worden de woorden "in het Belgisch Staatsblad" vervangen door de woorden "op de website van de VDAB of de website Werken voor Vlaanderen".
+
+### ART 4.
+
+In artikel 26, § 1, eerste lid, van hetzelfde besluit worden de woorden "aangetekende brief" vervangen door de woorden "beveiligde zending".<br>
+&nbsp;
+
+### ART 5.
+
+In artikel 30 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid worden de woorden "aangetekende brief" telkens vervangen door de woorden "beveiligde zending";<br>
+<br>
+2° in het tweede lid worden de woorden "het aangetekend schrijven" vervangen door de woorden "de beveiligde zending".
+
+### ART 6.
+
+In artikel 32 van hetzelfde besluit worden de woorden "aangetekende brief" vervangen door de woorden "beveiligde zending".
+
+### ART 7.
+
+In artikel 33, tweede lid, van hetzelfde besluit wordt het woord "aangetekend" vervangen door de woorden "met een beveiligde zending".
+
+### ART 8.
+
+In deel V, titel 1, van hetzelfde besluit, wordt een artikel 48/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 48/1. De arrondissementscommissaris heeft geen recht op toelagen of inhaalrust voor prestaties buiten de normale arbeidstijdregeling".
+
 ### ART 9.
 
 In artikel 50 van hetzelfde besluit worden tussen het tweede en het derde lid, twee leden ingevoegd, die luiden als volgt:<br>
@@ -37,6 +80,24 @@ In afwijking van het derde lid wordt het jaarlijks vakantieverlof van de arrondi
 n deel V van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 18 juni 2010, 9 september 2011 en 9 september 2016, wordt het opschrift van titel 3 vervangen door wat volgt:<br>
 <br>
 "Titel 3. Moederschapsrust, vader- of meemoederschapsverlof, opvangverlof, pleegzorgverlof en pleegouderverlof".
+
+### ART 11.
+
+In deel V, titel 3, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 18 juni 2010, wordt het opschrift van hoofdstuk 1 vervangen door wat volgt:<br>
+<br>
+" Hoofdstuk 1. Moederschapsrust en vader- of meemoederschapsverlof".
+
+### ART 12.
+
+In artikel 56 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 18 juni 2010, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 1 worden tussen het woord "vader" en het woord "van" de woorden "of meemoeder " ingevoegd en worden tussen het woord "vaderschapsverlof" en de zinsnede "; de duur" de woorden "of meemoederschapsverlof" ingevoegd;<br>
+<br>
+2° in paragraaf 2, eerste lid, worden tussen de woorden "de vader" en de woorden "van het kind" de woorden "of meemoeder" ingevoegd en worden tussen het woord "vaderschapsverlof" en de zinsnede "; dit verlof" de woorden "of meemoederschapsverlof" ingevoegd;<br>
+<br>
+3° in paragraaf 2, tweede lid, worden tussen het woord "vaderschapsverlof" en het woord "verstrijkt" telkens de woorden "of meemoederschapsverlof" ingevoegd;<br>
+<br>
+4° in paragraaf 3 worden tussen het woord "vaderschapsverlof" en het woord "wordt" de woorden "of meemoederschapsverlof" ingevoegd.
 
 ### ART 13.
 
@@ -96,6 +157,16 @@ Het pleegzorgverlof en pleegouderverlof worden aan de arrondissementscommissaris
 <br>
 Het pleegzorgverlof en pleegouderverlof worden gelijkgesteld met dienstactiviteit.".
 
+### ART 15.
+
+In deel V van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 18 juni 2010, 9 september 2011 en 9 september 2016, wordt het opschrift van titel 5 vervangen door wat volgt:<br>
+<br>
+"Titel 5. Loopbaanonderbreking in het kader van een federaal zorgverlof".
+
+### ART 16.
+
+In artikel 61 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 september 2011, worden de woorden "loopbaanonderbreking bevindt" vervangen door de woorden "loopbaanonderbreking in het kader van een federaal zorgverlof bevindt", worden de woorden "loopbaanonderbreking kan" vervangen door de woorden "loopbaanonderbreking in het kader van een federaal zorgverlof kan" en worden de woorden "loopbaanonderbreking worden" vervangen door de woorden "loopbaanonderbreking in het kader van een federaal zorgverlof worden".
+
 ### ART 17.
 
 In artikel 63 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 september 2011, worden de volgende wijzigingen aangebracht:<br>
@@ -120,6 +191,26 @@ In artikel 64 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Re
 <br>
 5° in paragraaf 3 worden de woorden "of halftijdse" vervangen door de zinsnede ", halftijdse en 1/5".<br>
 &nbsp;
+
+### ART 19.
+
+In artikel 77, § 1, van hetzelfde besluit, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° de woorden "en voor" worden vervangen door de zinsnede ", voor";<br>
+<br>
+2° de woorden " en voor de uitoefening van een opdracht binnen of buiten de diensten van de Vlaamse overheid op grond van een beslissing van de Vlaamse Regering" worden toegevoegd.
+
+### ART 20.
+
+In artikel 81 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 18 juni 2010, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 1 wordt punt 2 opgeheven;<br>
+<br>
+2° in punt 4 worden tussen het woord "huwelijk" en de woorden "van een kind" de woorden "of wettelijke samenwoning" ingevoegd;<br>
+<br>
+3° in punt 7 worden tussen het woord "huwelijk" en de woorden "van een" de woorden "of wettelijke samenwoning" ingevoegd;<br>
+<br>
+4° in punt 7 worden de woorden "de dag van het huwelijk" vervangen door de woorden "de dag van de plechtigheid".
 
 ### ART 21.
 
@@ -203,7 +294,70 @@ In artikel 81/7 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse 
 
 In artikel 81/8 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 18 juni 2010, wordt de zinsnede "81/4, eerste lid, 1°, 2° en 3° " vervangen door de zinsnede " 81/4, eerste lid, 1°, 2°, 2° /1 en 3° ".
 
+### ART 27.
+
+In deel V van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 18 juni 2010, 9 september 2011 en 9 september 2016, wordt een titel 7/2, die bestaat uit artikel 81/9, ingevoegd, die luidt als volgt:<br>
+<br>
+"Titel 7/2. Geboorteverlof<br>
+<br>
+Art. 81/9. Een arrondissementscommissaris heeft recht op geboorteverlof naar aanleiding van de geboorte van een kind waarvan de afstamming langs de zijde van de arrondissementscommissaris vaststaat.<br>
+<br>
+Bij ontstentenis van een persoon die geboorteverlof opneemt op grond van de afstamming van het kind, heeft de arrondissementscommissaris die gehuwd is of samenwoont met de moeder van het kind, recht op geboorteverlof.<br>
+<br>
+Het recht op moederschapsverlof, vermeld in artikel 39 van de arbeidswet van 16 maart 1971, sluit voor eenzelfde ouder het recht op geboorteverlof uit.<br>
+<br>
+Het geboorteverlof bedraagt tien werkdagen. Het wordt gelijkgesteld met dienstactiviteit.<br>
+<br>
+Het geboorteverlof wordt binnen vier maanden opgenomen. Die periode start op de dag waarop het kind geboren wordt.<br>
+<br>
+Het geboorteverlof wordt in mindering gebracht van het recht op opvangverlof vermeld in artikel 57.".
+
+### ART 28.
+
+In deel V van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 18 juni 2010, 9 september 2011 en 9 september 2016, wordt het opschrift van titel 8 vervangen door wat volgt :<br>
+<br>
+" Titel 8. Vervanging bij langdurige afwezigheid en waarneming van het ambt".
+
+### ART 29.
+
+Aan artikel 82 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 18 juni 2010, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"Het eerste lid is ook van toepassing in geval van waarneming van het vacante ambt van arrondissementscommissaris. In afwijking van het eerste lid beslist de Vlaamse Regering hiertoe".
+
+### ART 30.
+
+In artikel 83, tweede lid, van hetzelfde besluit wordt het woord "aangetekend "vervangen door de woorden "met een beveiligde zending".
+
+### ART 31.
+
+In artikel 117/6 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 18 juni 2010, worden de woorden "vermeld in een omzendbrief van de minister van Binnenlandse Aangelegenheden" vervangen door de woorden "die gelden voor de personeelsleden van de diensten van de Vlaamse overheid".
+
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de provinciegouverneurs en de adjunct van de gouverneur van de provincie Vlaams-Brabant
+
+### ART 32.
+
+Artikel 2 van het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de provinciegouverneurs en de adjunct van de gouverneur van de provincie Vlaams-Brabant wordt vervangen door wat volgt:<br>
+<br>
+"Art. 2. In dit besluit wordt verstaan onder:<br>
+1° de minister van Binnenlandse Aangelegenheden: het lid van de Vlaamse Regering dat bevoegd is voor de Binnenlandse Aangelegenheden;<br>
+2° beveiligde zending: een van de volgende betekeningswijzen:<br>
+a) een aangetekende brief;<br>
+b) een afgifte tegen ontvangstbewijs.".
+
+### ART 33.
+
+In artikel 8, eerste lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 mei 2014, worden de woorden "in het Belgisch Staatsblad" vervangen door de woorden "op de website van de VDAB of de website Werken voor Vlaanderen".
+
+### ART 34.
+
+In artikel 8/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 mei 2014, wordt punt 4° opgeheven.<br>
+&nbsp;
+
+### ART 35.
+
+In deel IV, titel I, van hetzelfde besluit wordt een artikel 13/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 13/1. De gouverneur heeft geen recht op toelagen of inhaalrust voor prestaties buiten de normale arbeidstijdregeling.".
 
 ### ART 36.
 
@@ -216,6 +370,12 @@ In artikel 15 van hetzelfde besluit wordt, tussen het derde en vierde lid, een l
 In deel IV van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 9 september 2011 en 9 september 2016, wordt het opschrift van titel III vervangen door wat volgt:<br>
 <br>
 "Titel III Moederschapsrust, vader- of meemoederschapsverlof, opvangverlof, pleegzorgverlof en pleegouderverlof".
+
+### ART 38.
+
+In deel IV, titel III, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 9 september 2011, wordt het opschrift van hoofdstuk I vervangen door wat volgt:<br>
+<br>
+"Hoofdstuk I. Moederschapsrust en vader- of meemoederschapsverlof".
 
 ### ART 39.
 
@@ -275,6 +435,17 @@ Het pleegzorgverlof en pleegouderverlof worden aan de gouverneur op overeenkomst
 <br>
 Het pleegzorgverlof en pleegouderverlof worden gelijkgesteld met dienstactiviteit. ".
 
+### ART 41.
+
+In deel IV van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 9 september 2011 en 9 september 2016, wordt het opschrift van titel V vervangen door wat volgt:<br>
+<br>
+"Titel V. Loopbaanonderbreking in het kader van een federaal zorgverlof".<br>
+&nbsp;
+
+### ART 42.
+
+In artikel 27 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 september 2011, worden de woorden "loopbaanonderbreking bevindt" vervangen door de woorden "loopbaanonderbreking in het kader van een federaal zorgverlof bevindt" en worden de woorden "loopbaanonderbreking worden" vervangen door de woorden "loopbaanonderbreking in het kader van een federaal zorgverlof worden".
+
 ### ART 43.
 
 In artikel 29 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 september 2011, worden de volgende wijzigingen aangebracht:<br>
@@ -298,3 +469,66 @@ In artikel 30 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Re
 4° in paragraaf 2, eerste lid, wordt tussen het woord "loopbaanonderbreking" en het woord "Daarbij" de zinsnede " en vijf maanden 1/5 loopbaanonderbreking" ingevoegd;<br>
 <br>
 5° in paragraaf 3 worden de woorden "of halftijdse" vervangen door de zinsnede ", halftijdse en 1/5".
+
+### ART 45.
+
+In deel IV van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 9 september 2011 en 9 september 2016, wordt een titel V/1, die bestaat uit artikel 37/1, ingevoegd, die luidt als volgt :<br>
+<br>
+"TITEL V/1. Geboorteverlof<br>
+<br>
+Art. 37/1. Een gouverneur heeft recht op geboorteverlof naar aanleiding van de geboorte van een kind waarvan de afstamming langs de zijde van de gouverneur vaststaat.<br>
+<br>
+Bij ontstentenis van een persoon die geboorteverlof opneemt op grond van de afstamming van het kind, heeft de gouverneur die gehuwd is of samenwoont met de moeder van het kind, recht op geboorteverlof.<br>
+<br>
+Het recht op moederschapsverlof vermeld in artikel 39 van de arbeidswet van 16 maart 1971 sluit voor eenzelfde ouder het recht op geboorteverlof uit.<br>
+<br>
+Het geboorteverlof bedraagt tien werkdagen. Het wordt gelijkgesteld met dienstactiviteit.<br>
+<br>
+Het geboorteverlof wordt binnen vier maanden opgenomen. Die periode start op de dag waarop het kind geboren wordt.<br>
+<br>
+Het geboorteverlof wordt in mindering gebracht van het recht op opvangverlof vermeld in artikel 23."
+
+### ART 46.
+
+In artikel 38 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 9 september 2011, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 1 wordt punt 2° opgeheven;<br>
+<br>
+2° in punt 4° worden tussen het woord "huwelijk" en de woorden "van een kind" de woorden "of wettelijke samenwoning" ingevoegd;<br>
+<br>
+3° in punt 7° worden tussen het woord "huwelijk" en de woorden " van een" de woorden "of wettelijke samenwoning" ingevoegd;<br>
+<br>
+4° in punt 7° worden de woorden " de dag van het huwelijk" vervangen door de woorden "de dag van de plechtigheid".
+
+### ART 47.
+
+In deel IV van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 9 september 2011 en 9 september 2016, wordt het opschrift van titel VII vervangen door wat volgt:<br>
+<br>
+"Titel VII. Vervanging bij langdurige afwezigheid of waarneming van het ambt".
+
+### ART 48.
+
+Aan artikel 38/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse regering van 9 september 2011, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+" Het eerste lid is ook van toepassing in het geval van waarneming van het vacante ambt van gouverneur".
+
+### ART 49.
+
+In artikel 39, tweede lid, van hetzelfde besluit wordt het woord "aangetekend" vervangen door de woorden "met een beveiligde zending".
+
+### ART 50.
+
+Dit besluit treedt in werking op de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad.<br>
+<br>
+Artikel 9, 10, 13, 14, 36, 37, 39 en 40 hebben uitwerking met ingang van 1 mei 2019.<br>
+<br>
+Artikel 17, 1° en 2°, 18, 43, 1° en 2° en 44 treden in werking op de eerste dag van de maand volgend op het akkoord van de federale ministerraad.<br>
+<br>
+Artikel 21 tot en met 26 hebben uitwerking met ingang van 1 januari 2019.<br>
+<br>
+Artikel 28, 29, 47 en 48 treden in werking op de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad, voor nieuwe aanstellingen vanaf deze datum.<br>
+&nbsp;
+
+### ART 51.
+
+De Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden, is belast met de uitvoering van dit besluit.
