@@ -12,7 +12,11 @@ Dit besluit is van toepassing op:<br /><br />1° de provinciegouverneurs, verder
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder de minister van Binnenlandse Aangele-genheden: het lid van de Vlaamse regering dat bevoegd is voor de binnenlandse aangelegenheden.
+In dit besluit wordt verstaan onder:<br>
+1° de minister van Binnenlandse Aangelegenheden: het lid van de Vlaamse Regering dat bevoegd is voor de Binnenlandse Aangelegenheden;<br>
+2° beveiligde zending: een van de volgende betekeningswijzen:<br>
+a) een aangetekende brief;<br>
+b) een afgifte tegen ontvangstbewijs.
 
 ## DEEL II DEONTOLOGISCHE RECHTEN EN PLICHTEN
 
@@ -44,11 +48,18 @@ Aanbevelingen waaruit een levensbeschouwelijke, ideologische of politieke overtu
 
 ### ART. 8.
 
-<P>De Vlaamse Regering verklaart de betrekking van gouverneur vacant. De oproep   wordt tenminste in het Belgisch Staatsblad gepubliceerd. De oproep regelt de   wijze van kandidaatstelling en bevat een beknopte weergave van de   functiebeschrijving en van het salaris.<BR><BR>De termijn tussen de publicatie   van de vacature en de uiterste datum van kandidaatstelling bedraagt ten minste   twintig werkdagen.</P>
+<p>De Vlaamse Regering verklaart de betrekking van gouverneur vacant. De oproep wordt tenminste op de website van de VDAB of de website Werken voor Vlaanderen gepubliceerd. De oproep regelt de wijze van kandidaatstelling en bevat een beknopte weergave van de functiebeschrijving en van het salaris.<br>
+<br>
+De termijn tussen de publicatie van de vacature en de uiterste datum van kandidaatstelling bedraagt ten minste twintig werkdagen.</p>
 
 ### ART. 8/1.
 
-Voor de toegang tot een ambt van gouverneur gelden de volgende algemene   toelatingsvoorwaarden:<BR>1° Belg zijn;<BR>2° een gedrag hebben dat in   overeenstemming is met de eisen van het ambt van gouverneur;<BR>3° de   burgerlijke en politieke rechten genieten;<BR>4° aan de dienstplichtwetten   voldoen;<BR>5° tien jaar relevante ervaring kunnen aantonen.
+Voor de toegang tot een ambt van gouverneur gelden de volgende algemene toelatingsvoorwaarden:<br>
+1° Belg zijn;<br>
+2° een gedrag hebben dat in overeenstemming is met de eisen van het ambt van gouverneur;<br>
+3° de burgerlijke en politieke rechten genieten;<br>
+4° ...;<br>
+5° tien jaar relevante ervaring kunnen aantonen.
 
 ### ART. 8/2.
 
@@ -89,6 +100,10 @@ Voor de toepassing van dit deel betekent:<br /><br />- "werkdag": de dag waarop 
 ### ART. 13.
 
 De gouverneur mag niet afwezig zijn zonder verlof of vakantie.<br /><br />De gouverneur die zonder verlof of vakantie afwezig is, is in non-activiteit tenzij bij overmacht.
+
+### ART 13/1.
+
+De gouverneur heeft geen recht op toelagen of inhaalrust voor prestaties buiten de normale arbeidstijdregeling.
 
 ## TITEL II JAARLIJKSE VAKANTIEDAGEN EN FEESTDAGEN
 
@@ -225,7 +240,11 @@ Als de tijdelijke arbeidsongeschiktheid minder dan dertig kalenderdagen duurt en
 
 ### ART. 27.
 
-De gouverneur met verlof voor loopbaanonderbreking bevindt zich in dienstactiviteit, maar heeft geen recht op salaris.<br /><br />Ziekteverlof of moederschapsrust maakt geen einde aan de loopbaanonderbreking.<br /><br />De nadere regelen voor de opname van de deeltijdse loopbaanonderbreking worden bepaald in overleg met de minister van Binnenlandse Aangelegenheden en de gouverneur.
+De gouverneur met verlof voor loopbaanonderbreking in het kader van een federaal zorgverlof bevindt zich in dienstactiviteit, maar heeft geen recht op salaris.<br>
+<br>
+Ziekteverlof of moederschapsrust maakt geen einde aan de loopbaanonderbreking.<br>
+<br>
+De nadere regelen voor de opname van de deeltijdse loopbaanonderbreking in het kader van een federaal zorgverlof worden bepaald in overleg met de minister van Binnenlandse Aangelegenheden en de gouverneur.
 
 ### ART. 28.
 
@@ -235,7 +254,7 @@ De gouverneur kan voor een kind geen ouderschapsverlof in de vorm van loopbaanon
 
 ### ART. 29.
 
-De gouverneur heeft recht op voltijdse , halftijdse of 1/5 loopbaanonderbreking om palliatieve verzorging te verstrekken. De duur van de voltijdse, halftijdse of 1/5 loopbaanonderbreking om palliatieve verzorging te verstrekken bedraagt één maand, eenmaal verlengbaar met één maand. Bij verlenging met een maand kan de gouverneur de opnamevorm wijzigen.
+De gouverneur heeft recht op voltijdse, halftijdse of 1/5 &nbsp;loopbaanonderbreking om palliatieve verzorging te verstrekken. De duur van de voltijdse, halftijdse of 1/5&nbsp;loopbaanonderbreking om palliatieve verzorging te verstrekken bedraagt één maand, tweemaal verlengbaar met één maand. Bij verlenging met een maand kan de gouverneur de opnamevorm wijzigen.
 
 ## [HOOFDSTUK III BIJSTAND AAN OF VERZORGING VAN EEN ZWAAR ZIEK GEZINS- OF FAMILIELID (verv. BVR 9 september 2011, art. 11)]
 
@@ -312,23 +331,50 @@ De gouverneur die zijn loopbaan onderbreekt, krijgt onderbrekingsuitkeringen ove
 
 ## [TITEL V/1 GEBOORTEVERLOF (ing. BVR 28 juni 2019, art. 45, I: 4 oktober 2019)]
 
+### ART 37/1.
+
+Een gouverneur heeft recht op geboorteverlof naar aanleiding van de geboorte van een kind waarvan de afstamming langs de zijde van de gouverneur vaststaat.<br>
+<br>
+Bij ontstentenis van een persoon die geboorteverlof opneemt op grond van de afstamming van het kind, heeft de gouverneur die gehuwd is of samenwoont met de moeder van het kind, recht op geboorteverlof.<br>
+<br>
+Het recht op moederschapsverlof vermeld in artikel 39 van de arbeidswet van 16 maart 1971 sluit voor eenzelfde ouder het recht op geboorteverlof uit.<br>
+<br>
+Het geboorteverlof bedraagt tien werkdagen. Het wordt gelijkgesteld met dienstactiviteit.<br>
+<br>
+Het geboorteverlof wordt binnen vier maanden opgenomen. Die periode start op de dag waarop het kind geboren wordt.<br>
+<br>
+Het geboorteverlof wordt in mindering gebracht van het recht op opvangverlof vermeld in artikel 23.
+
 ## TITEL VI OMSTANDIGHEIDSVERLOF
 
 ### ART. 38.
 
-§ 1. De gouverneur heeft recht op omstandigheidsverlof naar aanleiding van de gebeurtenissen en binnen de perken zoals hierna vermeld:<br />1° huwelijk van de gouverneur en het afleggen van een verklaring van wettelijke samenwoning door de gouverneur: 4 werkdagen;<br />2° bevalling van de echtgenoot of samenwonende partner: tien werkdagen;<br />3° overlijden van de echtgenoot of samenwonende partner, een bloed- of aanverwant in de eerste graad van de gouverneur, de echtgenoot of de samenwonende partner: 4 werkdagen;<br />4° huwelijk van een kind van de gouverneur, van de echtgenoot of van de samenwonende partner: 2 werkdagen;<br />5. overlijden van een bloed- of aanverwant van de gouverneur, de echtgenoot of de samenwonende partner, van om het even welke graad, die onder hetzelfde dak woont als de gouverneur, de echtgenoot of de samenwonende partner : twee werkdagen;<br />6. overlijden van een bloed- of aanverwant van de gouverneur, de echtgenoot of de samenwonende partner in de tweede graad, van een overgrootouder of een achterkleinkind, die niet onder hetzelfde dak wonen als de gouverneur, de echtgenoot of de samenwonende partner : één werkdag;<br />7° huwelijk van een bloed- of aanverwant in de eerste graad, die geen kind is, of in de tweede graad, van de gouverneur, de echtgenoot of de samenwonende partner: de dag van het huwelijk.<br /><br />§ 2. De afwezigheden wegens omstandigheidsverlof worden gelijkgesteld met een periode van dienstactiviteit.
+§ 1. De gouverneur heeft recht op omstandigheidsverlof naar aanleiding van de gebeurtenissen en binnen de perken zoals hierna vermeld:<br>
+1° huwelijk van de gouverneur en het afleggen van een verklaring van wettelijke samenwoning door de gouverneur: 4 werkdagen;<br>
+2° ...;<br>
+3° overlijden van de echtgenoot of samenwonende partner, een bloed- of aanverwant in de eerste graad van de gouverneur, de echtgenoot of de samenwonende partner: 4 werkdagen;<br>
+4° huwelijk of wettelijke samenwoning van een kind van de gouverneur, van de echtgenoot of van de samenwonende partner: 2 werkdagen;<br>
+5. overlijden van een bloed- of aanverwant van de gouverneur, de echtgenoot of de samenwonende partner, van om het even welke graad, die onder hetzelfde dak woont als de gouverneur, de echtgenoot of de samenwonende partner : twee werkdagen;<br>
+6. overlijden van een bloed- of aanverwant van de gouverneur, de echtgenoot of de samenwonende partner in de tweede graad, van een overgrootouder of een achterkleinkind, die niet onder hetzelfde dak wonen als de gouverneur, de echtgenoot of de samenwonende partner : één werkdag;<br>
+7° huwelijk of wettelijke samenwoning van een bloed- of aanverwant in de eerste graad, die geen kind is, of in de tweede graad, van de gouverneur, de echtgenoot of de samenwonende partner: de dag van de plechtigheid.<br>
+<br>
+§ 2. De afwezigheden wegens omstandigheidsverlof worden gelijkgesteld met een periode van dienstactiviteit.
 
 ## [TITEL VII VERVANGING BIJ LANGDURIGE AFWEZIGHEID OF WAARNEMING VAN HET AMBT (verv. BVR 28 juni 2019, art. 47, I: 4 oktober 2019)]
 
 ### ART. 38/1.
 
-Bij langdurige afwezigheid kan de Vlaamse Regering de gouverneur vervangen. De vervanger geniet de prerogatieven en het geldelijk statuut van de gouverneur.
+Bij langdurige afwezigheid kan de Vlaamse Regering de gouverneur vervangen. De vervanger geniet de prerogatieven en het geldelijk statuut van de gouverneur.<br>
+<br>
+Het eerste lid is ook van toepassing in het geval van waarneming van het vacante ambt van gouverneur
 
 ## DEEL V VRIJWILLIG ONTSLAG EN OPRUST- STELLING VAN DE GOUVERNEUR
 
 ### ART. 39.
 
-De gouverneur kan vrijwillig zijn ontslag indienen.<br /><br />Hij brengt de minister van Binnenlandse Aangelegenheden hiervan aangetekend op de hoogte.
+De gouverneur kan vrijwillig zijn ontslag indienen.<br>
+<br>
+Hij brengt de minister van Binnenlandse Aangelegenheden hiervan met een beveiligde zending op de hoogte.
 
 ### ART. 40.
 
