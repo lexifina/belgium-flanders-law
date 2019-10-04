@@ -12,7 +12,12 @@ Dit besluit is van toepassing op:<br /><br />1° de arrondissementscommissarisse
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1°de minister van Binnenlandse Aangelegenheden : het lid van de Vlaamse Regering dat bevoegd is voor de Binnenlandse Aangelegenheden;<br />2° gouverneur : de provinciegouverneur van de provincie waar de arrondissementscommissaris of adjunct-arrondissementscommissaris benoemd is.
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1°de minister van Binnenlandse Aangelegenheden : het lid van de Vlaamse Regering dat bevoegd is voor de Binnenlandse Aangelegenheden;<br>
+2° gouverneur : de provinciegouverneur van de provincie waar de arrondissementscommissaris of adjunct-arrondissementscommissaris benoemd is;<br>
+3° beveiligde zending: een van de volgende betekeningswijzen:<br>
+a) een aangetekende brief;<br>
+b) een afgifte tegen ontvangstbewijs.
 
 ## DEEL II DEONTOLOGISCHE RECHTEN EN PLICHTEN
 
@@ -56,7 +61,13 @@ De Vlaamse regering verklaart de betrekking van arrondissementscommissaris of ad
 
 ### ART. 10.
 
-Voor de toegang tot een ambt van arrondissementscommissaris gelden de volgende algemene toelatingsvoorwaarden:<br />1° Belg zijn;<br />2° een gedrag hebben dat in overeenstemming is met de eisen van het ambt van arrondissementscommissaris of adjunct-arrondissementscommissaris;<br />3° de burgerlijke en politieke rechten genieten;<br />4° aan de dienstplichtwetten voldoen;<br />5° een diploma hebben dat toegang geeft tot niveau A bij de diensten van de Vlaamse overheid;<br />6° tien jaar relevante ervaring kunnen aantonen.
+Voor de toegang tot een ambt van arrondissementscommissaris gelden de volgende algemene toelatingsvoorwaarden:<br>
+1° Belg zijn;<br>
+2° een gedrag hebben dat in overeenstemming is met de eisen van het ambt van arrondissementscommissaris of adjunct-arrondissementscommissaris;<br>
+3° de burgerlijke en politieke rechten genieten;<br>
+4° ...;<br>
+5° een diploma hebben dat toegang geeft tot niveau A bij de diensten van de Vlaamse overheid;<br>
+6° tien jaar relevante ervaring kunnen aantonen.
 
 ## TITEL 3 DE SELECTIEPROCEDURE
 
@@ -68,7 +79,7 @@ Voor de toegang tot een ambt van arrondissementscommissaris gelden de volgende a
 
 ### ART. 12.
 
-De minister van Binnenlandse Aangelegenheden kondigt elke selectieprocedure ten minste aan in het Belgisch Staatsblad.
+De minister van Binnenlandse Aangelegenheden kondigt elke selectieprocedure ten minste aan op de website van de VDAB of de website Werken voor Vlaanderen.
 
 ### ART. 13.
 
@@ -136,7 +147,7 @@ De gouverneur roept, binnen vijftien kalenderdagen die volgen op de datum van he
 
 ### ART. 26.
 
-§ 1. De bevoegde overheid roept de arrondissementscommissaris met een aangetekende brief op om hem in zijn verdediging te horen.<br>
+§ 1. De bevoegde overheid roept de arrondissementscommissaris met een&nbsp;beveiligde zending op om hem in zijn verdediging te horen.<br>
 <br>
 De oproeping moet de volgende elementen vermelden:<br>
 1. de ten laste gelegde feiten;<br>
@@ -161,7 +172,9 @@ Indien de minister van Binnenlandse Aangelegenheden de tuchtstraf van de afzetti
 
 ### ART. 30.
 
-De overheid zegt de tuchtstraf aan met een aangetekende brief binnen twee werkdagen na de uitspraak. De straf gaat in op de derde werkdag die volgt op de datum van de aangetekende brief behalve bij afzetting of ontslag van ambtswege.<br /><br />In het geval van afzetting en ontslag van ambtswege schort het beroep, ingesteld door de arrondissementscommissaris tegen deze tuchtstraffen, de uitwerking ervan op. De arrondissementscommissaris wordt in deze gevallen wel van rechtswege geschorst in het belang van de dienst vanaf de derde werkdag volgend op de datum van het aangetekend schrijven waarmee hem de tuchtstraf wordt meegedeeld, tot op de dag dat de tuchtstraf definitief is geworden in toepassing van artikel 31.
+De overheid zegt de tuchtstraf aan met een beveiligde zending binnen twee werkdagen na de uitspraak. De straf gaat in op de derde werkdag die volgt op de datum van de beveiligde zending behalve bij afzetting of ontslag van ambtswege.<br>
+<br>
+In het geval van afzetting en ontslag van ambtswege schort het beroep, ingesteld door de arrondissementscommissaris tegen deze tuchtstraffen, de uitwerking ervan op. De arrondissementscommissaris wordt in deze gevallen wel van rechtswege geschorst in het belang van de dienst vanaf de derde werkdag volgend op de datum van de beveiligde zending waarmee hem de tuchtstraf wordt meegedeeld, tot op de dag dat de tuchtstraf definitief is geworden in toepassing van artikel 31.
 
 ### ART. 31.
 
@@ -171,11 +184,13 @@ De tuchtstraf is definitief de dag nadat de termijn om beroep in te stellen vers
 
 ### ART. 32.
 
-De arrondissementscommissaris tegen wie de gouverneur een tuchtstraf uitspreekt, kan hiertegen gemotiveerd beroep instellen bij de Vlaamse regering binnen vijftien kalenderdagen. Deze termijn gaat in op de dag nadat de overheid de uitspraak met een aangetekende brief heeft meegedeeld.
+De arrondissementscommissaris tegen wie de gouverneur een tuchtstraf uitspreekt, kan hiertegen gemotiveerd beroep instellen bij de Vlaamse regering binnen vijftien kalenderdagen. Deze termijn gaat in op de dag nadat de overheid de uitspraak met een beveiligde zending heeft meegedeeld.
 
 ### ART. 33.
 
-De Vlaamse regering beraadslaagt binnen de dertig kalenderdagen nadat zij het beroepschrift ontvan-gen heeft.<br /><br />Zij stuurt binnen twee werkdagen de beslissing aangetekend aan de betrokken arrondissementscommissaris.
+De Vlaamse regering beraadslaagt binnen de dertig kalenderdagen nadat zij het beroepschrift ontvan-gen heeft.<br>
+<br>
+Zij stuurt binnen twee werkdagen de beslissing met een beveiligde zending aan de betrokken arrondissementscommissaris.
 
 ## HOOFDSTUK 4 ALGEMENE KENMERKEN VAN DE TUCHTPROCEDURE
 
@@ -245,6 +260,10 @@ Voor de toepassing van dit deel betekent:<br /><br />- "werkdag": de dag waarop 
 
 De arrondissementscommissaris mag niet afwezig zijn zonder verlof, vakantie of dienstvrijstelling te hebben gekregen.<br /><br />Onverminderd de eventuele toepassing van een tuchtstraf of van een administratieve maatregel, is de arrondissementscommissaris die zonder toestemming afwezig is, in non-activiteit tenzij bij overmacht.
 
+### ART 48/1.
+
+De arrondissementscommissaris heeft geen recht op toelagen of inhaalrust voor prestaties buiten de normale arbeidstijdregeling.
+
 ## TITEL 2 JAARLIJKSE VAKANTIEDAGEN EN FEESTDAGEN
 
 ### ART. 49.
@@ -289,7 +308,13 @@ De periode waarin de moederschapsrust bezoldigd wordt, mag niet meer dan vijftie
 
 ### ART. 56.
 
-§ 1. Als de moeder overlijdt, heeft de vader van het kind recht op vaderschapsverlof; de duur daarvan mag het deel van de moederschapsrust dat de moeder nog niet opgenomen had bij haar overlijden, niet overschrijden.<br /><br />§ 2. Wanneer de moeder in een ziekenhuis opgenomen wordt, heeft de vader van het kind recht op vaderschapsverlof; dit verlof begint ten vroegste vanaf de achtste dag te rekenen vanaf de geboorte van het kind, op voorwaarde dat de opname van de moeder in het ziekenhuis meer dan zeven kalenderdagen bedraagt en dat de pasgeborene het ziekenhuis verlaten heeft.<br /><br />Het vaderschapsverlof verstrijkt op het moment dat de opname van de moeder in het ziekenhuis een einde neemt; het vaderschapsverlof verstrijkt ten laatste wanneer de periode verstrijkt die overeenstemt met het deel van de moederschapsrust dat de moeder op het ogenblik van haar opname in het ziekenhuis nog niet had opgenomen.<br /><br />§ 3. Dit vaderschapsverlof wordt gelijkgesteld met een periode van dienstactiviteit.
+§ 1. Als de moeder overlijdt, heeft de vader of meemoeder&nbsp; van het kind recht op vaderschapsverlof of meemoederschapsverlof; de duur daarvan mag het deel van de moederschapsrust dat de moeder nog niet opgenomen had bij haar overlijden, niet overschrijden.<br>
+<br>
+§ 2. Wanneer de moeder in een ziekenhuis opgenomen wordt, heeft de vader of meemoeder&nbsp; van het kind recht op vaderschapsverlof of meemoederschapsverlof; dit verlof begint ten vroegste vanaf de achtste dag te rekenen vanaf de geboorte van het kind, op voorwaarde dat de opname van de moeder in het ziekenhuis meer dan zeven kalenderdagen bedraagt en dat de pasgeborene het ziekenhuis verlaten heeft.<br>
+<br>
+Het vaderschapsverlof of meemoederschapsverlof verstrijkt op het moment dat de opname van de moeder in het ziekenhuis een einde neemt; het vaderschapsverlof of meemoederschapsverlof verstrijkt ten laatste wanneer de periode verstrijkt die overeenstemt met het deel van de moederschapsrust dat de moeder op het ogenblik van haar opname in het ziekenhuis nog niet had opgenomen.<br>
+<br>
+§ 3. Dit vaderschapsverlof of meemoederschapsverlof wordt gelijkgesteld met een periode van dienstactiviteit.
 
 ## HOOFDSTUK 2 OPVANGVERLOF
 
@@ -390,7 +415,13 @@ Het verlof voor deeltijdse prestaties wordt voor een periode van vijf jaar gelij
 
 ### ART. 61.
 
-De arrondissementscommissaris met verlof voor loopbaanonderbreking bevindt zich in dienstactiviteit, maar heeft geen recht op salaris.<br /><br />Ziekteverlof of bevallingsverlof maakt geen einde aan de loopbaanonderbreking.<br /><br />De deeltijdse loopbaanonderbreking kan niet gecombineerd worden met verlof voor deeltijdse prestaties.<br /><br />De nadere regelen voor de opname van de deeltijdse loopbaanonderbreking worden bepaald in overleg met de gouverneur en de arrondissementscommissaris.
+De arrondissementscommissaris met verlof voor loopbaanonderbreking in het kader van een federaal zorgverlof bevindt zich in dienstactiviteit, maar heeft geen recht op salaris.<br>
+<br>
+Ziekteverlof of bevallingsverlof maakt geen einde aan de loopbaanonderbreking.<br>
+<br>
+De deeltijdse loopbaanonderbreking in het kader van een federaal zorgverlof kan niet gecombineerd worden met verlof voor deeltijdse prestaties.<br>
+<br>
+De nadere regelen voor de opname van de deeltijdse&nbsp;loopbaanonderbreking in het kader van een federaal zorgverlof worden bepaald in overleg met de gouverneur en de arrondissementscommissaris.
 
 ### ART. 62.
 
@@ -400,7 +431,7 @@ De arrondissementscommissaris kan voor een kind geen ouderschapsverlof in de vor
 
 ### ART. 63.
 
-De arrondissementscommissaris heeft recht op voltijdse, halftijdse of 1/5&nbsp; loopbaanonderbreking om palliatieve verzorging te verstrekken. De duur van de voltijdse, halftijdse of 1/5&nbsp; loopbaanonderbreking om palliatieve verzorging te verstrekken bedraagt één maand, eenmaal verlengbaar met één maand. Bij verlenging met een maand kan de opnamevorm worden gewijzigd.
+De arrondissementscommissaris heeft recht op voltijdse, halftijdse of 1/5 loopbaanonderbreking om palliatieve verzorging te verstrekken. De duur van de voltijdse, halftijdse of 1/5 loopbaanonderbreking om palliatieve verzorging te verstrekken bedraagt één maand, tweemaal verlengbaar met één maand. Bij verlenging met een maand kan de opnamevorm worden gewijzigd.
 
 ## HOOFDSTUK 3 [BIJSTAND AAN OF VERZORGING VAN EEN ZWAAR ZIEK GEZINS- OF FAMILIELID (ver. BVR 9 september 2011, art. 1)]
 
@@ -503,7 +534,13 @@ Onder opdracht wordt verstaan:<br /><br />1. de uitoefening van de nationale en 
 
 ### ART. 77.
 
-§ 1. Het karakter van algemeen belang wordt van rechtswege erkend voor de opdrachten in een ontwikkelingsland en voor de opdrachten die de als nationale deskundige aangewezen arrondissementscommissaris uitvoert ingevolge het besluit van de Europese Commissie van 7 januari 1998 houdende regeling van toepassing op de nationale deskundigen die bij de diensten van de Commissie zijn gedetacheerd.<br /><br />§ 2. De minister van Binnenlandse Aangelegenheden erkent het karakter van algemeen belang voor de overige opdrachten.<br /><br />De minister geeft zijn toestemming voor de opdracht indien hij de opdracht van overwegend belang acht voor het land, de Vlaamse regering of de Vlaamse administratie.<br /><br />§ 3. In afwijking van de §§ 1 en 2 van dit artikel, verliest iedere opdracht van rechtswege haar karakter van algemeen belang vanaf de eerste dag van de maand die volgt op die waarin de arrondissementscommissaris een dienstanciënniteit heeft bereikt die volstaat om aanspraak te kunnen maken op het bekomen van een onmiddellijk ingaand of uitgesteld pensioen ten laste van de buitenlandse regering, het buitenlands openbaar bestuur of de internationale instelling voor wie hij de opdracht vervulde.
+§ 1. Het karakter van algemeen belang wordt van rechtswege erkend voor de opdrachten in een ontwikkelingsland, voor de opdrachten die de als nationale deskundige aangewezen arrondissementscommissaris uitvoert ingevolge het besluit van de Europese Commissie van 7 januari 1998 houdende regeling van toepassing op de nationale deskundigen die bij de diensten van de Commissie zijn gedetacheerd en voor de uitoefening van een opdracht binnen of buiten de diensten van de Vlaamse overheid op grond van een beslissing van de Vlaamse Regering.<br>
+<br>
+§ 2. De minister van Binnenlandse Aangelegenheden erkent het karakter van algemeen belang voor de overige opdrachten.<br>
+<br>
+De minister geeft zijn toestemming voor de opdracht indien hij de opdracht van overwegend belang acht voor het land, de Vlaamse regering of de Vlaamse administratie.<br>
+<br>
+§ 3. In afwijking van de §§ 1 en 2 van dit artikel, verliest iedere opdracht van rechtswege haar karakter van algemeen belang vanaf de eerste dag van de maand die volgt op die waarin de arrondissementscommissaris een dienstanciënniteit heeft bereikt die volstaat om aanspraak te kunnen maken op het bekomen van een onmiddellijk ingaand of uitgesteld pensioen ten laste van de buitenlandse regering, het buitenlands openbaar bestuur of de internationale instelling voor wie hij de opdracht vervulde.
 
 ### ART. 78.
 
@@ -521,7 +558,16 @@ Bij het einde van zijn opdracht stelt de arrondissementscommissaris zich opnieuw
 
 ### ART. 81.
 
-§ 1. Aan de arrondissementscommissaris wordt omstandigheidsverlof toegekend naar aanleiding van de gebeurtenissen en binnen de perken zoals hierna vermeld:<br />1. huwelijk van de arrondissementscommissaris en verklaring van wettelijke samenwoning door de arrondissementscommissaris: 4 werkdagen;<br />2. bevalling van de echtgenote of samenwonende partner: 10 werkdagen;<br />3. overlijden van de echtgenoot of samenwonende partner, een bloed- of aanverwant in de eerste graad van de arrondissementscommissaris, de echtgenoot of de samenwonende partner: 4 werkdagen;<br />4. huwelijk van een kind van de arrondissementscommissaris, van de echtgenoot of van de samenwonende partner: 2 werkdagen;<br />5. overlijden van een bloed- of aanverwant van de arrondissementscommissaris of van de samenwonende partner in om het even welke graad maar onder eenzelfde dak wonend als de arrondissementscommissaris: 2 werkdagen;<br />6. overlijden van een bloed- of aanverwant van de arrondissementscommissaris of van de samenwonende partner in de tweede graad, een overgrootouder of een achterkleinkind maar niet onder eenzelfde dak wonend als de arrondissementscommissaris: 1 werkdag;<br />7. huwelijk van een bloed- of aanverwant in de eerste graad, die geen kind is, of in de tweede graad, van de arrondissementscommissaris, de echtgenoot of de samenwonende partner: de dag van het huwelijk.<br /><br />§ 2. De afwezigheden wegens omstandigheidsverlof worden gelijkgesteld met een periode van dienstactiviteit.
+§ 1. Aan de arrondissementscommissaris wordt omstandigheidsverlof toegekend naar aanleiding van de gebeurtenissen en binnen de perken zoals hierna vermeld:<br>
+1. huwelijk van de arrondissementscommissaris en verklaring van wettelijke samenwoning door de arrondissementscommissaris: 4 werkdagen;<br>
+2. ...;<br>
+3. overlijden van de echtgenoot of samenwonende partner, een bloed- of aanverwant in de eerste graad van de arrondissementscommissaris, de echtgenoot of de samenwonende partner: 4 werkdagen;<br>
+4. huwelijk of wettelijke samenwoning van een kind van de arrondissementscommissaris, van de echtgenoot of van de samenwonende partner: 2 werkdagen;<br>
+5. overlijden van een bloed- of aanverwant van de arrondissementscommissaris of van de samenwonende partner in om het even welke graad maar onder eenzelfde dak wonend als de arrondissementscommissaris: 2 werkdagen;<br>
+6. overlijden van een bloed- of aanverwant van de arrondissementscommissaris of van de samenwonende partner in de tweede graad, een overgrootouder of een achterkleinkind maar niet onder eenzelfde dak wonend als de arrondissementscommissaris: 1 werkdag;<br>
+7. huwelijk of wettelijke samenwoning van een bloed- of aanverwant in de eerste graad, die geen kind is, of in de tweede graad, van de arrondissementscommissaris, de echtgenoot of de samenwonende partner: de dag van de plechtigheid.<br>
+<br>
+§ 2. De afwezigheden wegens omstandigheidsverlof worden gelijkgesteld met een periode van dienstactiviteit.
 
 ## [TITEL 7/1 POLITIEK VERLOF (ing. BVR 18 juni 2010, art. 20, I: 13 juli 2010)]
 
@@ -638,17 +684,37 @@ Vanaf dat ogenblik herkrijgt de betrokkene alle statutaire rechten.<br>
 
 ## [TITEL 7/2 GEBOORTEVERLOF (ing. BVR 28 juni 2019, art. 27, I: 4 oktober 2019)]
 
+### ART 81/9.
+
+Een arrondissementscommissaris heeft recht op geboorteverlof naar aanleiding van de geboorte van een kind waarvan de afstamming langs de zijde van de arrondissementscommissaris vaststaat.<br>
+<br>
+Bij ontstentenis van een persoon die geboorteverlof opneemt op grond van de afstamming van het kind, heeft de arrondissementscommissaris die gehuwd is of samenwoont met de moeder van het kind, recht op geboorteverlof.<br>
+<br>
+Het recht op moederschapsverlof, vermeld in artikel 39 van de arbeidswet van 16 maart 1971, sluit voor eenzelfde ouder het recht op geboorteverlof uit.<br>
+<br>
+Het geboorteverlof bedraagt tien werkdagen. Het wordt gelijkgesteld met dienstactiviteit.<br>
+<br>
+Het geboorteverlof wordt binnen vier maanden opgenomen. Die periode start op de dag waarop het kind geboren wordt.<br>
+<br>
+Het geboorteverlof wordt in mindering gebracht van het recht op opvangverlof vermeld in artikel 57.
+
 ## [TITEL 8 VERVANGING BIJ LANGDURIGE AFWEZIGHEID EN WAARNEMING VAN HET AMBT (verv. BVR 28 juni 2019, art. 28, I: 4 oktober 2019)]
 
 ### ART. 82.
 
-Bij langdurige afwezigheid kan de gouverneur de arrondissementscommissaris vervangen door een ambtenaar van niveau A van de Vlaamse ministeries, van een agentschap met rechtspersoonlijkheid of Vlaamse openbare instelling, van een lokaal bestuur of van de federale overheid. De vervanger geniet de prerogatieven en het geldelijk statuut van de arrondissementscommissaris.
+Bij langdurige afwezigheid kan de gouverneur de arrondissementscommissaris vervangen door een ambtenaar van niveau A van de Vlaamse ministeries, van een agentschap met rechtspersoonlijkheid of Vlaamse openbare instelling, van een lokaal bestuur of van de federale overheid. De vervanger geniet de prerogatieven en het geldelijk statuut van de arrondissementscommissaris.<br>
+<br>
+Het eerste lid is ook van toepassing in geval van waarneming van het vacante ambt van arrondissementscommissaris. In afwijking van het eerste lid beslist de Vlaamse Regering hiertoe.
 
 ## DEEL VI VRIJWILLIG ONTSLAG VAN ARRONDISSE-MENTSCOMMISSARIS OF ADJUNCT- ARRONDISSEMENTSCOMMISSARIS EN DEFINITIEVE AMBTSNEERLEGGING
 
 ### ART. 83.
 
-De arrondissementscommissaris kan vrijwillig zijn ontslag indienen.<br /><br />Hij brengt de minister van Binnenlandse Aangelegenheden hiervan aangetekend op de hoogte, en zendt de provinciegouverneur een kopie van deze brief.<br /><br />Het ontslag wordt definitief wanneer de Vlaamse regering dit aanvaardt.
+De arrondissementscommissaris kan vrijwillig zijn ontslag indienen.<br>
+<br>
+Hij brengt de minister van Binnenlandse Aangelegenheden hiervan met een beveiligde zending op de hoogte, en zendt de provinciegouverneur een kopie van deze brief.<br>
+<br>
+Het ontslag wordt definitief wanneer de Vlaamse regering dit aanvaardt.
 
 ### ART. 84.
 
@@ -871,7 +937,7 @@ Er is geen recht op maaltijdcheques in geval van tuchtschorsing als vermeld in a
 
 ### ART. 117/6.
 
-De arrondissementscommissarissen die door derden gerechtelijk vervolgd worden, krijgen daarvoor rechtsbijstand onder de voorwaarden, vermeld in een omzendbrief van de minister van Binnenlandse Aangelegenheden.
+De arrondissementscommissarissen die door derden gerechtelijk vervolgd worden, krijgen daarvoor rechtsbijstand onder de voorwaarden, die gelden voor de personeelsleden van de diensten van de Vlaamse overheid.
 
 ## DEEL VIII OPHEFFINGS-, OVERGANGS- EN SLOTBEPALINGEN
 
