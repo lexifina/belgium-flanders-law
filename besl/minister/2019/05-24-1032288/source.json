@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032288,
+  "title": "Ministerieel besluit van 2019-05-24 tot vaststelling van het onroerenderfgoedrichtplan voor hoogstamboomgaarden in Haspengouw en Voeren",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032288/VolledigDocument?datum=2019-10-04",
+  "source_sha256": "cfa0c6582e27b2d69cbad61264de658554490fa2811339a41eb76a5d66e718c0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032288&param=informatie",
+  "as_of": "2019-10-04",
+  "made": "2019-05-24",
+  "gazette": "2019-09-24",
+  "numac": 2019014421,
+  "document_start": "2019-10-04",
+  "document_end": null,
+  "in_force": "2019-10-04",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-10-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
