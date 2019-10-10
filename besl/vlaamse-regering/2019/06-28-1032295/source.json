@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032295,
+  "title": "Besluit van de Vlaamse Regering van 2019-06-28 tot erkenning van de beroepskwalificatie natuursteenbewerker",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032295/VolledigDocument?datum=2019-10-10",
+  "source_sha256": "6b4cb21b451e868584c4379b5e3d22aa75704289019de739124352744753b760",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032295&param=informatie",
+  "as_of": "2019-10-10",
+  "made": "2019-06-28",
+  "gazette": "2019-09-30",
+  "numac": 2019014385,
+  "document_start": "2019-10-10",
+  "document_end": null,
+  "in_force": "2019-10-10",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-10-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
