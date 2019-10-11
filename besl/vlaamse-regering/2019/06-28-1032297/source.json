@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032297,
+  "title": "Besluit van de Vlaamse Regering van 2019-06-28 houdende subsidiëring van grondwaardeverlies bij bebossing, ondersteund door de inkomsten van de bosbehoudsbijdrage in geval van ontbossing",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032297/VolledigDocument?datum=2019-10-11",
+  "source_sha256": "1dd91df9099c77b8f0029b5c9a6dead853794eb3bb51952aa199962dd2e050f2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032297&param=informatie",
+  "as_of": "2019-10-11",
+  "made": "2019-06-28",
+  "gazette": "2019-10-01",
+  "numac": 2019014646,
+  "document_start": "2019-10-11",
+  "document_end": "2020-10-31",
+  "in_force": "2019-10-11",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2019-10-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
