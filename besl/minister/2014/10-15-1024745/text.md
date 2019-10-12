@@ -2,24 +2,24 @@
 
 ### Aanhef
 
-<P>DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID EN GEZIN,<BR></P>  <P>Gelet op het decreet van 21 november 2003 betreffende het preventieve   gezondheidsbeleid, artikel 39 tot en met 43;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 9 februari 2007 betreffende   de preventie van de veteranenziekte op publiek toegankelijke plaatsen, artikel   19 tot en met 21,<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 25 juli 2014 tot bepaling   van de bevoegdheden van de leden van de Vlaamse Regering,<BR></P>  <P>Besluit :<BR></P>
+...
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° afdeling Preventie : de   afdeling Preventie van het Agentschap Zorg en Gezondheid, opgericht bij het   besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern   verzelfstandigd agentschap "Zorg en Gezondheid", die het toezicht uitoefent op   de naleving van het Legionellabesluit.<BR>2° beheersmaatregelen : maatregelen   die bestaan uit controlemaatregelen, voorkomingsmaatregelen en correctieve   maatregelen;<BR>3° BIFIPROR : apparaat op basis van koper-zilver-ionisatie dat   ontwikkeld werd door de firma Holland Water, voorheen Holland Water Technology :   HWT;<BR>4° controlemaatregelen : maatregelen die het mogelijk maken na te gaan   of de werkingsvoorwaarden van de installatie die aerosol produceert van die aard   zijn dat er geen omstandigheden optreden die de ontwikkeling van   legionellabacteriën bevorderen;<BR>5° correctieve maatregelen : maatregelen die   moeten worden genomen om het gevaar te reduceren tot een aanvaardbaar niveau als   rond legionellagroei een ongewenste toestand vastgesteld wordt;<BR>6°   Legionellabesluit : het besluit van de Vlaamse Regering van 9 februari 2007   betreffende de preventie van de veteranenziekte op publiek toegankelijke   plaatsen;<BR>7° preventiemaatregelen : het deel van de exploitatiemethoden dat   bestaat uit structurele maatregelen en beheersmaatregelen om het   legionelloserisico terug te dringen;<BR>8° structurele maatregelen : maatregelen   om de aerosolproducerende installatie aan te passen zodat de legionellagroei   wordt tegengegaan;<BR>9° voorkomingsmaatregelen : maatregelen die vermijden dat   bepaalde werkingsvoorwaarden leiden tot een risicosituatie voor de groei van   legionellakiemen;<BR>10° watervoorziening : een distributiesysteem voor water,   vanaf het punt van de levering of, als het privaat putwater is, vanaf het punt   van waterwinning tot en met elk tappunt, met inbegrip van alle onderdelen die   ermee in verbinding staan, met uitzondering van de systemen waarop alleen   toiletten of wastafels zonder douchesystemen aangesloten zijn.<BR>
+...
 
 ### ART. 2.
 
-BIFIPROR wordt goedgekeurd als alternatieve beheersmaatregel ter   beheersing van Legionella pneumophila in watervoorzieningen.<BR>BIFIPROR mag   niet gebruikt worden indien de sanitaire installatie gegalvaniseerde (verzinkte)   stalen leidingen omvat.<BR>BIFIPROR mag alleen worden toegepast als aan al de   volgende voorwaarden wordt voldaan :<BR>a. er wordt een nauwkeurig beheersplan   opgesteld in het kader van de plaatsing van het BIFIPROR-toestel. Het   beheersplan omvat minimaal :<BR>aa. een grondige evaluatie van de   watervoorziening die resulteert in een risicoanalyse;<BR>ab. een opsomming van   de algemene preventiemaatregelen in het kader van de legionellaproblematiek en   in het bijzonder de preventiemaatregelen die genomen moeten worden om de   efficiënte werking van het BIFIPROR-toestel te garanderen. Waar nodig moeten   structurele maatregelen worden doorgevoerd onder meer met het oog op een   continue doorspoeling van alle elementen van de installatie;<BR>ac. een   zorgvuldig onderzoek naar de waterdebieten in de installatie met het oog op een   adequate dimensionering van het BIFIPROR-toestel en een juiste dosering van   koper (Cu) en zilver (Ag);<BR>ad. een gedetailleerd register waarin de   uitvoering en opvolging van alle beheersmaatregelen, die opgesomd zijn in het   beheersplan, worden geregistreerd;<BR>b. de watervoorziening en het   BIFIPROR-toestel moeten regelmatig onderhouden worden en de werking van het   toestel wordt continu opgevolgd. Er moet kunnen aangetoond worden dat de pH van   het sanitaire water max. 8,5 bedraagt en dat de concentraties aan Cu en Ag   beneden de normwaarden van 2 mg/l voor Cu en 100µg/l voor Ag gehouden worden. De   BIFIPROR-installatie wordt aangepast aan de eventuele infrastructurele   aanpassingen van de sanitaire installatie;<BR>c. de waterleverancier wordt   onmiddellijk op de hoogte gebracht als het BIFIPROR-toestel in de   watervoorziening wordt geplaatst;<BR>d. bij gebruik van het BIFIPROR-toestel   moet op elk ogenblik voldaan worden aan de drinkwaternormen, vermeld in bijlage   1 van het besluit van de Vlaamse Regering van 13 december 2002 houdende   reglementering inzake de kwaliteit en levering van water, bestemd voor   menselijke consumptie. Een nauwgezette opvolging van de waterkwaliteit moet   beschreven worden in het beheersplan;<BR>e. als uit de analyseresultaten blijkt   dat er meer dan 1000 kolonievormende eenheden, afgekort KVE, Legionella   pneumophila per liter aanwezig zijn in de watervoorziening, moet de oorzaak   daarvan opgespoord worden en moeten de nodige maatregelen genomen worden om het   aantal legionellabacteriën te doen dalen tot onder 1000 KVE per   liter.<BR>
+...
 
 ### ART. 3.
 
-Als de veiligheid of de kwaliteit van het BIFIPROR-toestel niet meer   gegarandeerd kan worden of als de afdeling Preventie problemen met het   BIFIPROR-toestel vaststelt, kan de goedkeuring worden   opgeheven.<BR>
+...
 
 ### ART. 4.
 
-De goedkeuring van het BIFIPROR-toestel als alternatieve beheersmaatregel   ter beheersing van Legionella pneumophila in watervoorzieningen ontslaat de   exploitant van de toepassing van artikel 6, § 5, of artikel 13, § 5, van het   Legionellabesluit.<BR>
+...
 
 ### ART. 5.
 
-Dit besluit treedt in werking op de dag die volgt op de bekendmaking ervan   in het Belgisch Staatsblad.<BR>
+...

@@ -2,16 +2,16 @@
   "codex_id": 1024745,
   "title": "Ministerieel besluit van 2014-10-15 tot goedkeuring van BIFIPROR als alternatieve beheersmaatregel in het kader van het Legionellabesluit",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024745/VolledigDocument?datum=2014-11-11",
-  "source_sha256": "3ba887446ed9737cb8c608b4cae863d934471f9bb38737686a946e7c71788a64",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024745/VolledigDocument?datum=2019-10-12",
+  "source_sha256": "ffdf86e8c5c6649d35819f8045bd974f8d2a0f1226da3cc0903eba8135176624",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024745&param=informatie",
-  "as_of": "2014-11-11",
+  "as_of": "2019-10-12",
   "made": "2014-10-15",
   "gazette": "2014-11-10",
   "numac": 2014036813,
   "document_start": "2014-11-11",
   "document_end": "2019-10-11",
-  "in_force": "2014-11-11",
+  "in_force": "2019-10-12",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2014-11-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-10-12; future article versions excluded; article text as the API gives it"
 }
