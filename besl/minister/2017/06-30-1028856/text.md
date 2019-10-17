@@ -42,11 +42,17 @@ In dit besluit wordt verstaan onder:<br>
 
 Een erkenningsaanvraag als vermeld in artikel 4, tweede lid, van het besluit van 21 april 2017 wordt elektronisch ingediend via het e-loket.
 
+### ART 2/1.
+
+Ter uitvoering van artikel 5, vierde lid, van het besluit van de Vlaamse Regering van 21 april 2017 betreffende de ondersteuning van de verstrekking van groenten, fruit en melk aan leerlingen in onderwijsinstellingen wordt voor de verstrekking van melk, in afwijking van artikel 5, tweede lid, van hetzelfde besluit, de steun, vermeld in artikel 5, eerste lid, van hetzelfde besluit, verleend voor de verstrekking van maximaal drie porties per leerling en per week in de periode van 1 september tot en met 31 januari.<br>
+<br>
+Ter uitvoering van artikel 5, vierde lid, van hetzelfde besluit wordt voor de verstrekking van melk, in afwijking van artikel 5, derde lid, van hetzelfde besluit, de steun, vermeld in artikel 5, eerste lid, van hetzelfde besluit, verleend voor de verstrekking van maximaal drie porties per leerling en per week in de eerste en de tweede periode van verstrekking.
+
 ### ART 3.
 
-Het maximale steunbedrag, vermeld in artikel 6, tweede lid, van het besluit van 21 april 2017, bedraagt drie euro voor de verstrekking van groenten en fruit en twee euro voor de verstrekking van melk. Er worden niet meer leerlingen meegerekend dan het aantal leerlingen dat de onderwijsinstelling doorgegeven heeft in de deelnameverklaring, vermeld in artikel 7, eerste lid, van het besluit van 21 april 2017.<br>
+Het maximale steunbedrag, vermeld in artikel 6, tweede lid, van het besluit van 21 april 2017, bedraagt drie euro voor de verstrekking van groenten en fruit en&nbsp;zes euro voor de verstrekking van melk. Er worden niet meer leerlingen meegerekend dan het aantal leerlingen dat de onderwijsinstelling doorgegeven heeft in de deelnameverklaring, vermeld in artikel 7, eerste lid, van het besluit van 21 april 2017.<br>
 <br>
-Het maximale steunbedrag, vermeld in artikel 6, derde lid, van het besluit van 21 april 2017, bedraagt zes euro voor de verstrekking van groenten en fruit en vier euro voor de verstrekking van melk.<br>
+Het maximale steunbedrag, vermeld in artikel 6, derde lid, van het besluit van 21 april 2017, bedraagt zes euro voor de verstrekking van groenten en fruit en&nbsp;twaalf euro voor de verstrekking van melk.<br>
 <br>
 De documenten, vermeld in artikel 6, vierde lid, van het besluit van 21 april 2017, zijn de facturen en betaalbewijzen. Op deze facturen staan de soorten aangeleverde groenten, fruit en melk, de hoeveelheid, het totaal bedrag, het btw-bedrag en de datum van levering.
 
