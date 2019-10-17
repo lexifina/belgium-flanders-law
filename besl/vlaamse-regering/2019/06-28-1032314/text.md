@@ -62,3 +62,11 @@ Aan artikel 10 van bijlage 1 bij hetzelfde besluit wordt een tweede lid toegevoe
 ### ART 7.
 
 In punt 4° van bijlage 2 bij hetzelfde besluit wordt het woord "budgethouder" vervangen door de woorden "persoon met een handicap".
+
+### ART 8.
+
+Artikel 1, 2 en 3, 1°, 2°, 4° en 5°, en artikel 4, 5, 6 en 7 hebben uitwerking met ingang van 19 oktober 2018.
+
+### ART 9.
+
+De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
