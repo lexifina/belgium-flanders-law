@@ -47,6 +47,7 @@ b) het transport- en distributienetwerk, inclusief verbindingen met aangrenzende
 c) de capaciteit en levering onder niet-verstoorde omstandigheden;<br>
 d) de beschikbare reservecapaciteit en verbindingsmogelijkheden met andere gebieden voor gebruik bij verstoringen;<br>
 e) de aansluitingsgraad binnen het gebied;<br>
+f) de dekkingsgraad van het openbaar waterdistributienetwerk met opgave van zones waar geen openbaar distributienetwerk aanwezig is;<br>
 2° een synthese van de aanpak om de verplichtingen voor de levering conform artikel 2.1.1, § 2, van het decreet in te vullen, zowel in niet-verstoorde als in verstoorde omstandigheden.<br>
 <br>
 De exploitant van het openbaar waterdistributienetwerk houdt het leveringsplan actueel.<br>
@@ -116,7 +117,7 @@ Nadat de waterleverancier een aanvraag ingediend heeft bij de bevoegde entiteit 
 <br>
 De operationele monitoring heeft als doel op te volgen of zowel het onttrokken water dat gebruikt wordt voor de productie van water, bestemd voor menselijke consumptie, als het water van het zuiveringsproces en van het openbaar waterdistributienetwerk van die aard is dat het water dat geleverd wordt aan de verbruiker, voldoet aan de bepalingen, vermeld in artikel 2.<br>
 <br>
-De operationele monitoring inclusief de te meten parameters en frequenties worden afgestemd op de risico-evaluatie- en risicobeheerstrategie, vermeld in artikel 3/1, § 3, waarbij er bijkomend rekening gehouden wordt met de parameters waarvoor een richtwaarde werd vastgesteld met toepassing van artikel 2, § 1/1.</p>
+De operationele monitoring inclusief de te meten parameters en frequenties worden afgestemd op de risico-evaluatie- en risicobeheerstrategie, vermeld in artikel 3/1, § 3, waarbij er bijkomend rekening gehouden wordt met de parameters waarvoor een richtwaarde werd vastgesteld met toepassing van artikel 2, § 1/1 en de parameters die zijn geëvalueerd met toepassing van artikel 10, § 6.</p>
 
 ### ART. 10.
 
@@ -138,7 +139,15 @@ De waterleverancier is vrijgesteld van de verplichtingen in de alinea's 1 en 2 i
 <br>
 § 4. Voor micro-organismen, parasieten of andere stoffen&nbsp;als vermeld in artikel 2, § 2, 1°, waarvoor geen parameterwaarden of richtwaarden zijn vastgesteld, zorgt de waterleverancier per geval voor aanvullende controle als er reden is om aan te nemen dat deze aanwezig kunnen zijn in hoeveelheden of aantallen die een gevaar voor de volksgezondheid kunnen opleveren.<br>
 <br>
-§ 5. De abonnee, hetzij de verbruiker, hetzij de eigenaar, is in geval van een nabehandeling of een tijdelijke opslag van het water, bestemd voor menselijke consumptie, zelf verantwoordelijk voor een passende bijkomende controle, die de impact evalueert van die nabehandeling of die tijdelijke opslag op de conformiteit van het water, bestemd voor menselijke consumptie met de voorwaarden, vermeld in artikel 2, § 2.
+§ 5. De abonnee, hetzij de verbruiker, hetzij de eigenaar, is in geval van een nabehandeling of een tijdelijke opslag van het water, bestemd voor menselijke consumptie, zelf verantwoordelijk voor een passende bijkomende controle, die de impact evalueert van die nabehandeling of die tijdelijke opslag op de conformiteit van het water, bestemd voor menselijke consumptie met de voorwaarden, vermeld in artikel 2, § 2.<br>
+<br>
+§ 6. Als de waterleverancier micro-organismen, parasieten of chemische stoffen waarvoor geen parameterwaarde of geen richtwaarde is vastgelegd, vaststelt in het water bestemd voor menselijke consumptie, meldt de waterleverancier dat aan de bevoegde entiteit Leefmilieu en de bevoegde entiteit Volksgezondheid.<br>
+<br>
+De bevoegde entiteit Leefmilieu en de bevoegde entiteit Volksgezondheid evalueren in onderling overleg de noodzaak om een parameterwaarde of een richtwaarde vast te leggen. Ze rapporteren hun bevindingen aan de bevoegde ministers en maken die bekend aan de waterleveranciers.<br>
+<br>
+Als het is aangewezen om een parameterwaarde of richtwaarde vast te leggen, leggen de bevoegde entiteiten een voorstel van parameterwaarde of richtwaarde voor aan de bevoegde ministers.<br>
+<br>
+In het tweede en derde lid wordt verstaan onder bevoegde ministers: de minister en de minister bevoegd voor het gezondheidsbeleid.
 
 ### ART. 11.
 
@@ -194,6 +203,34 @@ De abonnee licht de verbruikers in behalve wanneer de bevoegde entiteit Leefmili
 ### ART. 14.
 
 § 1. In het geval van een ernstige bedreiging voor de volksgezondheid,   ongeacht of al dan niet aan de kwaliteitseisen wordt voldaan, onderbreekt de   waterleverancier de levering van water, bestemd voor menselijke consumptie,   beperkt hij het gebruik ervan of neemt hij andere maatregelen om de   volksgezondheid te beschermen.<BR><BR>De waterleverancier beslist welke   maatregelen noodzakelijk zijn en houdt daarbij rekening met de risico's die de   onderbreking van de levering of de inperking van het gebruik van water bestemd   voor menselijke consumptie kunnen opleveren voor de volksgezondheid. Deze   beslissing wordt onmiddellijk ter informatie bezorgd aan de bevoegde entiteit   Leefmilieu en de bevoegde entiteit Volksgezondheid die ook te allen tijde op   eigen initiatief advies kunnen verstrekken over deze maatregelen.<BR><BR>De   waterleverancier informeert de abonnees en de verbruikers onmiddellijk over de   situatie en voorziet hen van het nodige advies. De abonnee verleent zijn   medewerking aan de waterleverancier voor het informeren van de   verbruikers.<BR><BR>§ 2. De bevoegde entiteit Leefmilieu en de bevoegde entiteit   Volksgezondheid<BR>kunnen samen richtsnoeren voor de informatieoverdracht en   crisiscommunicatie opstellen om de waterleverancier bij de vervulling van de   door dit artikel opgelegde verplichtingen te ondersteunen.<BR><BR>De bevoegde   entiteit Leefmilieu en de bevoegde entiteit Volksgezondheid bepalen in overleg   en samen met de exploitant van het openbaar waterdistributienetwerk de noodzaak   om een nooddrinkwatervoorziening of een noodwatervoorziening te   organiseren.
+
+### ART 14/1.
+
+§ 1. De exploitant van het openbaar waterdistributienetwerk meldt aan de bevoegde entiteit Leefmilieu elke situatie die een ernstige bedreiging voor de continuïteit van de waterlevering kan inhouden.<br>
+<br>
+De exploitant van het openbaar waterdistributienetwerk onderzoekt de aangemelde situatie en neemt de nodige maatregelen om de continuïteit van de waterlevering te verzekeren. De exploitant brengt de bevoegde entiteit Leefmilieu op de hoogte van maatregelen die gepland en genomen zijn.<br>
+<br>
+§ 2. Alleen op verzoek van de bevoegde entiteit Leefmilieu en in overleg met de exploitant van het openbaar waterdistributienetwerk kunnen de volgende personen, rekening houdend met het advies van de bevoegde entiteit Leefmilieu, beslissen om tijdelijke beperkingen op het gebruik van het water bestemd voor menselijke consumptie dat wordt geleverd vanuit het openbaar waterdistributienetwerk in een distributiegebied of in een deel van een distributiegebied op te leggen of die op te heffen:<br>
+1° de minister;<br>
+2° de gouverneur, als de bedreiging voor de continuïteit van de waterlevering zich beperkt tot het provinciale niveau;<br>
+3° de burgemeester, als de bedreiging voor de continuïteit van de waterlevering zich beperkt tot het gemeentelijke niveau.<br>
+<br>
+De personen vermeld in het eerste lid, 1° tot 3°, kunnen op eigen initiatief en gekoppeld aan een situatie met een mogelijke impact op de continuïteit van de waterlevering, de bevoegde entiteit Leefmilieu vragen om de noodzaak tot het opleggen van tijdelijke beperkingen op het gebruik van water bestemd voor menselijke consumptie te evalueren. De bevoegde entiteit Leefmilieu evalueert in samenspraak met de betrokken exploitanten van het waterdistributienetwerk de situatie en richt desgevallend een verzoek tot het opleggen van tijdelijke beperkingen aan de meest gepaste persoon, vermeld in het eerste lid, 1° tot 3°.<br>
+<br>
+De beslissing om een gebruiksbeperking in te stellen of op te heffen, wordt onmiddellijk bekend gemaakt door de volgende personen aan de volgende personen:<br>
+1° de minister aan de betrokken gouverneurs, burgemeesters en exploitanten van het openbaar waterdistributienetwerk;<br>
+2° de gouverneur aan de minister en de betrokken burgemeesters en exploitanten van het openbaar waterdistributienetwerk;<br>
+3° de burgemeester aan de minister en de betrokken gouverneur en exploitant van het openbaar waterdistributienetwerk.<br>
+<br>
+De exploitant van het openbaar waterdistributiewerk maakt de beslissing om een gebruiksbeperking in te stellen of op te heffen onmiddellijk aan de gebruikers bekend via passende kanalen.<br>
+<br>
+Beslissingen van de minister vervangen eventueel al eerder genomen beslissingen door een gouverneur of een burgemeester.<br>
+<br>
+Beslissingen van een gouverneur vervangen eventueel al eerder genomen beslissingen door een burgemeester.<br>
+<br>
+Beslissingen genomen op een lager niveau kunnen niet in minder strenge wijze afwijken van beslissingen genomen op hoger niveau<br>
+<br>
+§ 3. De bevoegde entiteit Leefmilieu kan richtlijnen opstellen om de exploitant van het openbaar waterdistributienetwerk te ondersteunen bij de vervulling van verplichtingen vermeld in paragraaf 1 en 2. Deze richtlijnen hebben betrekking op de informatieoverdracht van gegevens tussen de exploitant en de bevoegde entiteit, en op het afstemmen van de communicatie.
 
 ## HOOFDSTUK V INFORMATIE- EN RAPPORTAGEVERPLICHTINGEN
 
@@ -253,7 +290,24 @@ De bevoegde entiteit Leefmilieu kan op elk moment het leveringsplan en het lange
 1° na te gaan of de plannen de minimale inhoud, vermeld in artikel 3/1, § 1, bevatten;<br>
 2° inhoudelijk advies te verstrekken.<br>
 <br>
-De bevoegde entiteit Leefmilieu en de exploitant van het openbaar waterdistributienetwerk bepalen onderling de wijze waarop de gegevens uit het leveringsplan of het langetermijnvoorzieningsplan worden uitgewisseld en maken afspraken over de verdere verspreiding ervan.
+De bevoegde entiteit Leefmilieu en de exploitant van het openbaar waterdistributienetwerk bepalen onderling de wijze waarop de gegevens uit het leveringsplan of het langetermijnvoorzieningsplan worden uitgewisseld en maken afspraken over de verdere verspreiding ervan.<br>
+<br>
+§ 7. De exploitant van het openbaar waterdistributienetwerk stelt voor de volgende situaties een evaluatienota op:<br>
+1° een afwijking van de kwaliteitseisen als vermeld in artikel 13, § 2 en § 3;<br>
+2° een ernstige bedreiging voor de volksgezondheid als vermeld in artikel 14;<br>
+3° een ernstige bedreiging voor de continuïteit van de waterlevering als vermeld in artikel 14/1.<br>
+<br>
+Die evaluatienota wordt binnen dertig dagen na de volgende gebeurtenissen opgesteld en bezorgd aan de bevoegde entiteit Leefmilieu:<br>
+1° de afwijkingen aan de kwaliteit van het water bestemd voor menselijke consumptie als vermeld in artikel 13, § 2 en § 3, zijn verdwenen;<br>
+2° de ernstige bedreiging voor de volksgezondheid, vermeld in artikel 14, valt weg;<br>
+3° de ernstige bedreiging voor de continuïteit van de waterlevering, vermeld in artikel 14/1, valt weg.<br>
+<br>
+Die evaluatienota wordt opgesteld in het kader van hetzij de risico-evaluatie- en risicobeheerstrategie, vermeld in artikel 3/1, § 3, hetzij het verzekeren van de waterlevering, vermeld in artikel 3/1, § 1 en § 2, en bevat steeds:<br>
+1° een analyse van de oorzaak van de situatie;<br>
+2° het verloop en de evaluatie van de genomen acties en herstelmaatregelen en in voorkomend geval de bijbehorende communicatie;<br>
+3° maatregelen die de waterleverancier in voorkomend geval neemt om gelijkaardige situaties in de toekomst te voorkomen of te beperken.<br>
+<br>
+De exploitant kan ook andere gegevens opnemen in de evaluatienota.
 
 ## [HOOFDSTUK VI AANSLUITRECHT (verv. BVR 5 februari 2016, art. 14, I: 1 januari 2016)]
 
