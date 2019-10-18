@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032320,
+  "title": "Ministerieel besluit van 2019-07-17 houdende wijziging van het ministerieel besluit van 24 april 2019 houdende vastlegging van het model en de inhoud van de brieven in het kader van de procedure om de toevoer van elektriciteit en aardgas af te sluiten voor regularisatie in geval van energiefraude",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032320/VolledigDocument?datum=2019-10-18",
+  "source_sha256": "0a70c6b8ae7fb06fcb922edd1bbe5ac9470d864064828e28c80d03dce6a21ee2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032320&param=informatie",
+  "as_of": "2019-10-18",
+  "made": "2019-07-17",
+  "gazette": "2019-10-08",
+  "numac": 2019041974,
+  "document_start": "2019-10-18",
+  "document_end": null,
+  "in_force": "2019-10-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-10-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
