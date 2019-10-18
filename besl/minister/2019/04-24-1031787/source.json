@@ -2,16 +2,16 @@
   "codex_id": 1031787,
   "title": "Ministerieel besluit van 2019-04-24 houdende vastlegging van het model en de inhoud van de brieven in het kader van de procedure om de toevoer van [elektriciteit, aardgas of thermische energie (verv. MB 17 juli 2019, art. 1, I: 18 oktober 2019)] af te sluiten voor regularisatie in geval van energiefraude",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031787/VolledigDocument?datum=2019-06-24",
-  "source_sha256": "13231e3a04ea107e99795dda4e504af41bdc45f78757ecf843aafcdbd119048a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031787/VolledigDocument?datum=2019-10-18",
+  "source_sha256": "04e4dc66da21fa4412092d384f16da3cfcbf76735db4de82c93808bd5fadf02a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031787&param=informatie",
-  "as_of": "2019-06-24",
+  "as_of": "2019-10-18",
   "made": "2019-04-24",
   "gazette": "2019-06-14",
   "numac": 2019012891,
   "document_start": "2019-06-24",
   "document_end": null,
-  "in_force": "2019-06-24",
-  "article_versions": 6,
-  "record_form": "consolidated version as in force on 2019-06-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-10-18",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2019-10-18; future article versions excluded; article text as the API gives it"
 }
