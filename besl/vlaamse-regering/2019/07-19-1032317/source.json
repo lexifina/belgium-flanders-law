@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032317,
+  "title": "Besluit van de Vlaamse Regering van 2019-07-19 tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, wat betreft bepaalde transitiemaatregelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032317/VolledigDocument?datum=2019-10-18",
+  "source_sha256": "64eae387769dba1f49f326ae2ee7867fb70e92ea18b343ddb58e6d7935d691fb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032317&param=informatie",
+  "as_of": "2019-10-18",
+  "made": "2019-07-19",
+  "gazette": "2019-10-08",
+  "numac": 2019014721,
+  "document_start": "2019-10-18",
+  "document_end": null,
+  "in_force": "2019-10-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-10-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
