@@ -2,16 +2,16 @@
   "codex_id": 1028201,
   "title": "Ministerieel besluit van 2017-02-03 tot bepaling van de voorwaarden voor een traceerbaarheidssysteem houdende de uitvoering van artikel 4.3.5, § 3 van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028201/VolledigDocument?datum=2019-03-10",
-  "source_sha256": "f290a0f24382e168bc6791fa771eae54251b65619b2d98119489985eb0b659ac",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028201/VolledigDocument?datum=2019-10-20",
+  "source_sha256": "b6a730c01866f45875b6a8dffd66eb0d688fd5bbcd19c417c08611176c7627d0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028201&param=informatie",
-  "as_of": "2019-03-10",
+  "as_of": "2019-10-20",
   "made": "2017-02-03",
   "gazette": "2017-05-04",
   "numac": 2017011851,
   "document_start": "2017-05-14",
   "document_end": null,
-  "in_force": "2019-03-10",
+  "in_force": "2019-10-20",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2019-03-10; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-10-20; future article versions excluded; article text as the API gives it"
 }
