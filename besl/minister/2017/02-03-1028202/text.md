@@ -16,4 +16,4 @@ Besluit :
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/05/05_1.pdf#page=35">http://www.ejustice.just.fgov.be/mopdf/2017/05/05_1.pdf#page=35</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/10/10_1.pdf#page=234">Standaardprocedure voor opmaak van een sloopopvolgingsplan en controleverslag</a>
