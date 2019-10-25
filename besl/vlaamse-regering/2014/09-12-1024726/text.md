@@ -22,18 +22,18 @@
 
 <p>§ 2. De elf stemgerechtigde leden zijn:<br>
 1° de minister;<br>
-2° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Omgeving, Natuur en Landbouw;<br>
-3° één vertegenwoordiger, voorgedragen door de minister-president van de Vlaamse Regering en Vlaams minister van Buitenlands Beleid en Onroerend Erfgoed;<br>
-4° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Onderwijs;<br>
-5° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Begroting, Financiën en Energie;<br>
-6° één vertegenwoordiger, voorgedragen door Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding;<br>
-7° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn;<br>
-8° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Welzijn, Volksgezondheid en Gezin;<br>
-9° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Werk, Economie, Innovatie en Sport;<br>
-10° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Cultuur, Media, Jeugd en Brussel;<br>
-11° de secretaris-generaal van het Departement Landbouw en Visserij, tevens ondervoorzitter van het comité.</p>
-
-<p>§ 3. De tien raadgevende leden zijn:<br>
+2° één vertegenwoordiger, voorgedragen door de minister-president van de Vlaamse Regering en Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management;<br>
+3° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw;<br>
+4° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen;<br>
+5° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand;<br>
+6° één vertegenwoordiger, voorgedragen door Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme;<br>
+7° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding;<br>
+8° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Financiën en Begroting, Wonen en Onroerend Erfgoed;<br>
+9° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Mobiliteit en Openbare Werken;<br>
+10° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Brussel, Jeugd en Media;<br>
+11° de secretaris-generaal van het Departement Landbouw en Visserij, tevens ondervoorzitter van het comité.<br>
+<br>
+§ 3. De tien raadgevende leden zijn:<br>
 1° één vertegenwoordiger, voorgedragen door de Europese Commissie, directoraat-generaal Landbouw;<br>
 2° één vertegenwoordiger, voorgedragen door de Milieu- en Natuurraad van Vlaanderen;<br>
 3° één vertegenwoordiger, voorgedragen door de Sociaal-Economische Raad van Vlaanderen;<br>
