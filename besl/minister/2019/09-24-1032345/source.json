@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032345,
+  "title": "Ministerieel besluit van 2019-09-24 betreffende de wijziging van artikel 50 en 52, en bijlage 2 en 3 van het ministerieel besluit van 15 mei 2019 betreffende de uitvoering van de Vlaamse sociale bescherming, wat betreft de tegemoetkoming voor zorg in een woonzorgcentrum, centrum voor kortverblijf of dagverzorgingscentrum",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032345/VolledigDocument?datum=2019-10-26",
+  "source_sha256": "09eb382d8646e5f4da6e2c843461bfe9023bd35933282534c21dc85007132b08",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032345&param=informatie",
+  "as_of": "2019-10-26",
+  "made": "2019-09-24",
+  "gazette": "2019-10-16",
+  "numac": 2019042152,
+  "document_start": "2019-10-26",
+  "document_end": null,
+  "in_force": "2019-10-26",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-10-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
