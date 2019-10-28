@@ -1,0 +1,210 @@
+# Besluit van de Vlaamse Regering van 2019-10-02 tot herlibellering in de begroting van de Vlaamse Gemeenschap van namen van entiteiten en programma's betrekking hebbend op kabinetsbegrotingen en aanduiding van de kenletter van ordonnancerend minister in begrotingsdocumenten
+
+### Aanhef
+
+DE VLAAMSE REGERING,<br>
+<br>
+Gelet op het decreet van 21 december 2018 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2019;<br>
+<br>
+Gelet op het decreet van 21 december 2018 houdende de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2019;<br>
+<br>
+Gelet op het besluit van de Vlaamse Regering van 2 oktober 2019 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering;<br>
+<br>
+Op het gezamenlijk voorstel van de leden van de Vlaamse Regering,<br>
+<br>
+Na beraadslaging,<br>
+<br>
+Besluit :
+
+### ART 1.
+
+De omschrijving en/of codes van volgende entiteiten en programma's worden in de begroting van de Vlaamse Gemeenschap als volgt aangepast:
+<table border="1" style="width:1000px">
+	<tbody>
+		<tr>
+			<td>Oude<br>
+			Entiteits-Code</td>
+			<td>Oude Benaming Entiteit</td>
+			<td>Nieuwe<br>
+			Entiteits-<br>
+			Code</td>
+			<td>Nieuwe Benaming Entiteit</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;PR<br>
+			Code</td>
+			<td>Oude Benaming PR</td>
+			<td>Nieuwe Benaming PR</td>
+		</tr>
+		<tr>
+			<td>VK0</td>
+			<td>KABINET VAN DE MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDS BELEID EN ONROEREND ERFGOED</td>
+			<td>VW0</td>
+			<td>KABINET VAN DE MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDSE ZAKEN, CULTUUR, ICT, EN FACILITAIR MANAGEMENT</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;VF</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDS BELEID EN ONROEREND ERFGOED</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDSE ZAKEN, CULTUUR, ICT, EN FACILITAIR MANAGEMENT</td>
+		</tr>
+		<tr>
+			<td>VL0</td>
+			<td>KABINET VAN DE VLAAMSE MINISTER VAN ONDERWIJS, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+			<td>VX0</td>
+			<td>KABINET VAN DE VLAAMSE MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;VM</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE VLAAMSE MINISTER VAN ONDERWIJS, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE VLAAMSE MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+		</tr>
+		<tr>
+			<td>VM0</td>
+			<td>KABINET VAN DE VLAAMSE MINISTER VAN BEGROTING, FINANCIEN EN ENERGIE</td>
+			<td>VY0</td>
+			<td>KABINET VAN DE VLAAMSE MINISTER VAN MOBILITEIT EN OPENBARE WERKEN</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;VH</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE VLAAMSE MINISTER VAN BEGROTING, FINANCIEN EN ENERGIE</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE VLAAMSE MINISTER VAN MOBILITEIT EN OPENBARE WERKEN</td>
+		</tr>
+		<tr>
+			<td>VN0</td>
+			<td>KABINET VAN DE VLAAMSE MINISTER VAN BINNENLANDS BESTUUR, INBURGERING, WONEN, GELIJKE KANSEN EN ARMOEDEBESTRIJDING, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+			<td>VZ0</td>
+			<td>KABINET VAN DE VLAAMSE MINISTER VAN ONDERWIJS, SPORT, DIERENWELZIJN EN VLAAMSE RAND, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;VJ</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE VLAAMSE MINISTER VAN BINNENLANDS BESTUUR, INBURGERING, WONEN, GELIJKE KANSEN EN ARMOEDEBESTRIJDING, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE VLAAMSE MINISTER VAN ONDERWIJS, SPORT, DIERENWELZIJN EN VLAAMSE RAND, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+		</tr>
+		<tr>
+			<td>VQ0</td>
+			<td>KABINET VAN DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID EN GEZIN</td>
+			<td>V10</td>
+			<td>KABINET VAN DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID, GEZIN EN ARMOEDEBESTRIJDING</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;VI</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID EN GEZIN</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID, GEZIN EN ARMOEDEBESTRIJDING</td>
+		</tr>
+		<tr>
+			<td>VS0</td>
+			<td>KABINET VAN DE VLAAMSE MINISTER VAN OMGEVING, NATUUR EN LANDBOUW</td>
+			<td>V20</td>
+			<td>KABINET VAN DE VLAAMSE MINISTER VAN BRUSSEL, JEUGD EN MEDIA</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;VN</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE VLAAMSE MINISTER VAN OMGEVING, NATUUR EN LANDBOUW</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE VLAAMSE MINISTER VAN BRUSSEL, JEUGD EN MEDIA</td>
+		</tr>
+		<tr>
+			<td>VT0</td>
+			<td>KABINET VAN DE VLAAMSE MINISTER VAN CULTUUR, MEDIA, JEUGD EN BRUSSEL, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+			<td>V30</td>
+			<td>KABINET VAN DE VLAAMSE MINISTER VAN BINNENLANDS BESTUUR, BESTUURSZAKEN, INBURGERING EN GELIJKE KANSEN, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;VK</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE VLAAMSE MINISTER VAN CULTUUR, MEDIA, JEUGD EN BRUSSEL, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE VLAAMSE MINISTER VAN BINNENLANDS BESTUUR, BESTUURSZAKEN, INBURGERING EN GELIJKE KANSEN, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+		</tr>
+		<tr>
+			<td>VU0</td>
+			<td>KABINET VAN DE VLAAMSE MINISTER VAN MOBILITEIT, OPENBARE WERKEN, VLAAMSE RAND, TOERISME EN DIERENWELZIJN</td>
+			<td>V40</td>
+			<td>KABINET VAN DE VLAAMSE MINISTER VAN FINANCIEN EN BEGROTING, WONEN EN ONROEREND ERFGOED</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;VO</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE VLAAMSE MINISTER VAN MOBILITEIT, OPENBARE WERKEN, VLAAMSE RAND, TOERISME EN DIERENWELZIJN</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE VLAAMSE MINISTER VAN FINANCIEN EN BEGROTING, WONEN EN ONROEREND ERFGOED</td>
+		</tr>
+		<tr>
+			<td>VV0</td>
+			<td>KABINET VAN DE VLAAMSE MINISTER VAN WERK, ECONOMIE, INNOVATIE EN SPORT</td>
+			<td>V50</td>
+			<td>KABINET VAN DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;VG</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE VLAAMSE MINISTER VAN WERK, ECONOMIE, INNOVATIE EN SPORT</td>
+			<td>APPARAATSKREDIETEN KABINET VAN DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME</td>
+		</tr>
+	</tbody>
+</table>
+
+### ART 2.
+
+De namen verbonden aan onderstaande kenletters voor aanduiding van de bevoegde ordonnancerend Vlaamse minister worden als volgt gewijzigd :
+<table border="1" style="width:1000px">
+	<tbody>
+		<tr>
+			<td>MIN</td>
+			<td>OUDE BENAMING</td>
+			<td>NIEUWE BENAMING</td>
+		</tr>
+		<tr>
+			<td>A</td>
+			<td>DE MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDS BELEID EN ONROEREND ERFGOED</td>
+			<td>DE MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDSE ZAKEN, CULTUUR, ICT, EN FACILITAIR MANAGEMENT</td>
+		</tr>
+		<tr>
+			<td>B</td>
+			<td>DE VLAAMSE MINISTER VAN BEGROTING, FINANCIEN EN ENERGIE</td>
+			<td>DE VLAAMSE MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+		</tr>
+		<tr>
+			<td>C</td>
+			<td>DE VLAAMSE MINISTER VAN BINNENLANDS BESTUUR, INBURGERING, WONEN, GELIJKE KANSEN EN ARMOEDEBESTRIJDING, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+			<td>DE VLAAMSE MINISTER VAN BINNENLANDS BESTUUR, BESTUURSZAKEN, INBURGERING EN GELIJKE KANSEN, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+		</tr>
+		<tr>
+			<td>D</td>
+			<td>DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID EN GEZIN</td>
+			<td>DE VLAAMSE MINISTER VAN ONDERWIJS, SPORT, DIERENWELZIJN EN VLAAMSE RAND, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+		</tr>
+		<tr>
+			<td>E</td>
+			<td>DE VLAAMSE MINISTER VAN ONDERWIJS, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+			<td>DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME</td>
+		</tr>
+		<tr>
+			<td>F</td>
+			<td>DE VLAAMSE MINISTER VAN MOBILITEIT, OPENBARE WERKEN, VLAAMSE RAND, TOERISME EN DIERENWELZIJN</td>
+			<td>DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID, GEZIN EN ARMOEDEBESTRIJDING</td>
+		</tr>
+		<tr>
+			<td>G</td>
+			<td>DE VLAAMSE MINISTER VAN WERK, ECONOMIE, INNOVATIE EN SPORT</td>
+			<td>DE VLAAMSE MINISTER VAN FINANCIEN EN BEGROTING, WONEN EN ONROEREND ERFGOED</td>
+		</tr>
+		<tr>
+			<td>H</td>
+			<td>DE VLAAMSE MINISTER VAN OMGEVING, NATUUR EN LANDBOUW</td>
+			<td>DE VLAAMSE MINISTER VAN MOBILITEIT EN OPENBARE WERKEN</td>
+		</tr>
+		<tr>
+			<td>I</td>
+			<td>DE VLAAMSE MINISTER VAN CULTUUR, MEDIA, JEUGD EN BRUSSEL, EN VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING</td>
+			<td>DE VLAAMSE MINISTER VAN BRUSSEL, JEUGD EN MEDIA</td>
+		</tr>
+		<tr>
+			<td>J</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>X</td>
+			<td>DE VLAAMSE BEVOEGDE MINISTER(S)</td>
+			<td>DE VLAAMSE BEVOEGDE MINISTER(S)</td>
+		</tr>
+	</tbody>
+</table>
+
+### ART 3.
+
+De vastleggings- en vereffeningskredieten, de genomen reserveringen in de vorm van vastleggingen, de vereffeningen en de beschikbare middelen op de basisallocaties en de begrotingsartikelen van de kabinetsbegrotingen van de legislatuur 2014-2019 worden op datum van de inwerkingtreding van het besluit van de Vlaamse Regering van 2 oktober 2019 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering overgeheveld naar de volgens de bevoegdheidsverdeling overeenstemmende basisallocaties en begrotingsartikelen.<br>
+&nbsp;
+
+### ART 4.
+
+Een afschrift van dit besluit wordt ter kennisgeving verstuurd aan het Rekenhof, het Vlaams Parlement en het Vlaams Ministerie van Financiën en Begroting.
+
+### ART 5.
+
+De leden van de Vlaamse Regering zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.

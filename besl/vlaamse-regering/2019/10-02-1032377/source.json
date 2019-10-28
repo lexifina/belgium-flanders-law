@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032377,
+  "title": "Besluit van de Vlaamse Regering van 2019-10-02 tot herlibellering in de begroting van de Vlaamse Gemeenschap van namen van entiteiten en programma's betrekking hebbend op kabinetsbegrotingen en aanduiding van de kenletter van ordonnancerend minister in begrotingsdocumenten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032377/VolledigDocument?datum=2019-10-28",
+  "source_sha256": "b438811ab54ed086273c2803e8cda87b0c6f1f43b1033382ae3dd5383f414a44",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032377&param=informatie",
+  "as_of": "2019-10-28",
+  "made": "2019-10-02",
+  "gazette": "2019-10-18",
+  "numac": 2019014963,
+  "document_start": "2019-10-28",
+  "document_end": null,
+  "in_force": "2019-10-28",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2019-10-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
