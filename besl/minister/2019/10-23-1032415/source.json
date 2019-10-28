@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032415,
+  "title": "Ministerieel besluit van 2019-10-23 tot wijziging van artikel 4 van het ministerieel besluit van 17 september 2019 houdende de herbenoeming van de leden en de plaatsvervangende leden van de beroepsinstantie inzake openbaarheid van bestuur en hergebruik van overheidsinformatie, afdeling openbaarheid van bestuur",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032415/VolledigDocument?datum=2019-10-28",
+  "source_sha256": "931b0133e55e5a9a1f30feb13f6b1f737c2e6c25cd14b2c9ab4baf5ed8906732",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032415&param=informatie",
+  "as_of": "2019-10-28",
+  "made": "2019-10-23",
+  "gazette": "2019-11-12",
+  "numac": 2019042332,
+  "document_start": "2019-10-28",
+  "document_end": null,
+  "in_force": "2019-10-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-10-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
