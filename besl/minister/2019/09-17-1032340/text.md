@@ -14,7 +14,7 @@ Mevr. Liesbet DE WEDER, jurist bij de afdeling Lokale Organisatie en Werking van
 
 ### ART 4.
 
-Mevr. Nele WATERSCHOOT, jurist bij de afdeling Lokale Organisatie en Werking van het Agentschap Binnenlands Bestuur, wordt herbenoemd voor een termijn van vijf jaar als plaatsvervangend lid van de beroepsinstantie inzake openbaarheid van bestuur en hergebruik van overheidsinformatie, afdeling openbaarheid van bestuur.
+De heer Jonas Van den Storme, adjunct van de directeur bij het Team Lokale Organisatie en Werking van het Agentschap Binnenlands Bestuur, wordt benoemd voor een termijn van vijf jaar als plaatsvervangend lid van de beroepsinstantie inzake openbaarheid van bestuur en hergebruik van overheidsinformatie, afdeling openbaarheid van bestuur.
 
 ### ART 5.
 
