@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032519,
+  "title": "Besluit van de Vlaamse Regering van 2019-11-22 tot toekenning van een herbevolkingsvergoeding aan pluimveehouders die getroffen zijn door de uitbraak van aviaire influenza",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032519/VolledigDocument?datum=2019-11-01",
+  "source_sha256": "67dda6a4ddcd5d9d39fc951fc03448ef8f9c4c6d746649cd7fa53120345318f0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032519&param=informatie",
+  "as_of": "2019-11-01",
+  "made": "2019-11-22",
+  "gazette": "2019-12-20",
+  "numac": 2019031086,
+  "document_start": "2019-11-01",
+  "document_end": null,
+  "in_force": "2019-11-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2019-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
