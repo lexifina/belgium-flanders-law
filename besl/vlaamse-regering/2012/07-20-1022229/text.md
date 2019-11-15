@@ -173,6 +173,7 @@ Voor sociale verhuurkantoren die een opstartsubsidie of voor de eerste keer een 
 7° het sociaal verhuurkantoor heeft minstens vijftig woningen in huur;<br>
 8° het sociaal verhuurkantoor verbindt zich ertoe aan het agentschap en aan de ondersteuningsstructuur elke wijziging in de statuten, het huishoudelijk reglement, de vervanging van de coördinator en elke wijziging waardoor niet meer voldaan wordt aan de subsidievoorwaarden, mee te delen;<br>
 9° het sociaal verhuurkantoor dient een gemotiveerde planning in van de woningaangroei die het verwacht te realiseren in de komende vijf jaar;<br>
+10° het sociaal verhuurkantoor dat de juridische structuur van een vzw heeft, stelt een bedrijfsrevisor aan. De bedrijfsrevisor kan door het sociaal verhuurkantoor worden aangetrokken uit een pool van bedrijfsrevisoren die wordt samengesteld op initiatief van de ondersteuningsstructuur;<br>
 11° het sociaal verhuurkantoor maakt een financiële planning op, zoals vermeld in artikel 7.<br>
 <br>
 Voor de toepassing van het eerste lid, 7° wordt geen rekening gehouden met de sociale huurwoningen vermeld in artikel 2, § 1, eerste lid, 22°, a), c), e) en f) van de Vlaamse Wooncode.<br>
