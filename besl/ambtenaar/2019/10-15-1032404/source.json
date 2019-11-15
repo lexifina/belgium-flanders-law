@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032404,
+  "title": "Besluit van een ambtenaar van 2019-10-15 houdende goedkeuring van de wijziging van het huishoudelijk reglement van Watering Zomergem-Lovendegem",
+  "type": "Besluit van een ambtenaar",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032404/VolledigDocument?datum=2019-11-15",
+  "source_sha256": "7d6ed541da88b907bf4a1fcbd6d693af9a827a5e1cdbe8ad493eb75f0f11ff87",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032404&param=informatie",
+  "as_of": "2019-11-15",
+  "made": "2019-10-15",
+  "gazette": "2019-11-05",
+  "numac": 2019042273,
+  "document_start": "2019-11-15",
+  "document_end": null,
+  "in_force": "2019-11-15",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2019-11-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
