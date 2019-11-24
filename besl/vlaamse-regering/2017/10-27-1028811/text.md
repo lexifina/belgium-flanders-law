@@ -663,6 +663,305 @@ Besluit :<br>
 
 ## HOOFDSTUK 1 Wijzigingen van titel II van het VLAREM
 
+### ART 1.
+
+In artikel 1.1.2 van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 18 maart 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in definities afvalstoffenverwerking (Hoofdstuk 5.2) onder de tussentitel verbrandings- en meeverbrandingsinstallaties voor biomassa-afval worden de definities "directe spaandroger", "indirecte spaandroger", "hybride droger", "type-droger", "bestaande droger" en "nieuwe droger" opgeheven;<br>
+2° er wordt een subtitel "Definities hout (Hoofdstuk 5.19)" toegevoegd, die luidt als volgt:<br>
+"DEFINITIES HOUT (Hoofdstuk 5.19)<br>
+1° direct verwarmde droger: een droger waarbij hete gassen, afkomstig van een stookinstallatie of enige andere bron, in rechtstreeks contact staan met de te drogen deeltjes, strengen of vezels. Het drogen gebeurt door convectie;<br>
+2° indirect verwarmde droger: een droger waarbij het drogen uitsluitend wordt bereikt door stralings- en geleidingswarmte;<br>
+3° hybride verwarmde droger: indirect verwarmde droger waarbij een beperkt deel warme gassen van de verbrandingsinstallatie rechtstreeks over de deeltjes, strengen of vezels gevoerd wordt om de waterdamp af te voeren;<br>
+4° type droger: ofwel direct verwarmde, ofwel indirect verwarmde, ofwel hybride verwarmde droger;<br>
+5° bestaande droger: de som van alle types drogers van de inrichting die vóór 28 december 2002 zijn vergund en waarbij de som van de individuele capaciteiten bepalend is voor de capaciteitscategorie;<br>
+6° nieuwe droger: de individuele drooginstallatie die op of na 28 december 2002 is vergund en waarbij de individuele capaciteit bepalend is voor de capaciteitscategorie.".<br>
+&nbsp;
+
+### ART 2.
+
+In artikel 5.2.3bis.4.11 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 juni 2013 en 18 maart 2016, worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "gestookte spaandroger" worden telkens vervangen door de woorden "verwarmde droger";<br>
+2° in paragraaf 1 worden de woorden "in afwijking en" opgeheven;<br>
+3° in paragraaf 2 worden de woorden "in afwijking en" opgeheven.<br>
+&nbsp;
+
+### ART 3.
+
+In artikel 5.19.1.4 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 18 maart 2016, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 2 wordt opgeheven;<br>
+2° paragraaf 3 wordt vervangen door wat volgt:<br>
+" § 3. Met uitsluiting van alle algemene emissiegrenswaarden, vermeld in hoofdstuk 4.4, zijn de volgende emissiegrenswaarden, die betrekking hebben op een referentiezuurstofgehalte van 18 %, van toepassing op de geloosde afgassen van direct verwarmde spaan- en OSB-drogers:<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>parameter</td>
+			<td colspan="4">emissiegrenswaarde (mg/Nm®, tenzij anders is vermeld)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;≤ 5 MW</td>
+			<td>5 tot 20 MW</td>
+			<td>20 tot 50 MW</td>
+			<td>≥ 50 MW</td>
+		</tr>
+		<tr>
+			<td>totaal stof</td>
+			<td>110</td>
+			<td>35</td>
+			<td>22</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>NO<sub>X</sub>, uitgedrukt als NO<sub>2</sub></td>
+			<td>240</td>
+			<td>240</td>
+			<td>240</td>
+			<td>150</td>
+		</tr>
+		<tr>
+			<td>CO (1)</td>
+			<td>75</td>
+			<td>60</td>
+			<td>60</td>
+			<td>30</td>
+		</tr>
+		<tr>
+			<td>TOC</td>
+			<td>400</td>
+			<td>400</td>
+			<td>400</td>
+			<td>400</td>
+		</tr>
+		<tr>
+			<td>dioxinen en furanen (ng TEQ/Nm®) (2)</td>
+			<td>0,15</td>
+			<td>0,07</td>
+			<td>0,07</td>
+			<td>0,07</td>
+		</tr>
+		<tr>
+			<td>formaldehyde</td>
+			<td>50</td>
+			<td>50</td>
+			<td>50</td>
+			<td>50</td>
+		</tr>
+		<tr>
+			<td>gasvormige anorganische chloriden, uitgedrukt als HCl</td>
+			<td>15</td>
+			<td>15</td>
+			<td>15</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>gasvormige anorganische fluoriden, uitgedrukt als HF</td>
+			<td>0,60</td>
+			<td>0,60</td>
+			<td>0,60</td>
+			<td>0,30</td>
+		</tr>
+		<tr>
+			<td>SO<sub>2</sub></td>
+			<td>90</td>
+			<td>90</td>
+			<td>90</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td colspan="5">zware metalen</td>
+		</tr>
+		<tr>
+			<td>Som (3)</td>
+			<td>0,45</td>
+			<td>0,45</td>
+			<td>0,45</td>
+			<td>0,15</td>
+		</tr>
+		<tr>
+			<td>Hg</td>
+			<td>0,03</td>
+			<td>0,03</td>
+			<td>0,03</td>
+			<td>0,01</td>
+		</tr>
+		<tr>
+			<td>Cd + Tl</td>
+			<td>0,03</td>
+			<td>0,03</td>
+			<td>0,03</td>
+			<td>0,01</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+(1) uurgemiddelde na verbranding<br>
+(2) gemiddelden, bepaald over een bemonsteringsperiode van minimaal zes uur en maximaal acht uur. De emissiegrenswaarde heeft betrekking op de totale concentratie van dioxinen en furanen, berekend aan de hand van het begrip 'toxische equivalentie'.<br>
+(3) som = Sb, As, Pb, Cr, Co, Cu, Sn, Ni, V, Mn<br>
+<br>
+Bij toepassing van vaste of vloeibare brandstoffen in direct verwarmde spaan- en OSB-drogers mag het massagehalte aan zwavel 1 %, bij vaste brandstoffen ten opzichte van een onderste stookwaarde van 29,3 MJ/kg, niet overschrijden of de afgassen worden gelijkwaardig gereinigd.<br>
+<br>
+De normen voor HCl, HF en de zware metalen (Sb + As + Pb + Cr + Co + Cu + Sn + Ni + V + Mn, Hg en Cd + Tl) zijn alleen van toepassing als niet-verontreinigd behandeld houtafval wordt gestookt of als brandstof wordt meegestookt.";<br>
+3° paragraaf 4 wordt vervangen door wat volgt:<br>
+" § 4. Met uitsluiting van alle algemene emissiegrenswaarden, vermeld in hoofdstuk 4.4, zijn de volgende emissiegrenswaarden van toepassing op de geloosde afgassen van indirect verwarmde spaan- en OSB-drogers en hybride verwarmde spaan- en OSB-drogers:<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>parameter</td>
+			<td colspan="3">emissiegrenswaarde (mg/Nm®)</td>
+		</tr>
+		<tr>
+			<td>stofmassastroom</td>
+			<td>≤ 500 g/h</td>
+			<td>500 t/m 5000 g/h</td>
+			<td>&gt; 5000 g/h</td>
+		</tr>
+		<tr>
+			<td>totaal stof<br>
+			- nieuw<br>
+			- bestaand</td>
+			<td>150<br>
+			150</td>
+			<td>20<br>
+			50 (1)</td>
+			<td>20<br>
+			20</td>
+		</tr>
+		<tr>
+			<td>formaldehyde (nat gas)</td>
+			<td>50</td>
+			<td>50</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>TOC (nat gas)</td>
+			<td>300</td>
+			<td>300</td>
+			<td>300</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+(1) Voor hybride verwarmde spaan- en OSB-drogers waarbij de gebruikte gassen niet vooraf gereinigd zijn, wordt dat 20 mg/Nm®.<br>
+In afwijking van artikel 4.4.3.1, § 1, hebben de emissiegrenswaarden, vermeld in het eerste lid, betrekking op nat gas als dat expliciet vermeld wordt.";<br>
+4° in paragraaf 5 wordt tussen de woorden "de productie van houtvezelplaten" en de woorden "of spaanplaten" de zinsnede ", OSB-platen " ingevoegd;<br>
+5° paragraaf 6 wordt vervangen door wat volgt:<br>
+" § 6. Voor de organische stoffen, vermeld in paragraaf 5, geldt in de afgassen van de persen voor de productie van houtvezelplaten, OSB-platen of spaanplaten een halfjaarlijkse meetfrequentie.";<br>
+6° paragraaf 7 wordt vervangen door wat volgt:<br>
+" § 7. Voor de afgassen die afkomstig zijn van direct verwarmde spaan-, OSB- en houtvezelplaatdrogers, indirect verwarmde spaan-, OSB- en houtvezelplaatdrogers en hybride verwarmde spaan-, OSB- en houtvezelplaatdrogers, gelden de volgende meetfrequenties:<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;stof</td>
+			<td>CO</td>
+			<td>dioxinen<br>
+			en furanen</td>
+			<td>TOC</td>
+			<td>formal- dehyde</td>
+			<td>NO<sub>X</sub></td>
+			<td>HCl</td>
+			<td>HF</td>
+			<td>zware metalen: som (1) Hg Cd + Tl</td>
+		</tr>
+		<tr>
+			<td colspan="10">meetfrequenties voor direct verwarmde spaan-, OSB- en houtvezelplaatdrogers</td>
+		</tr>
+		<tr>
+			<td>&lt; 50 MW</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- onbehandeld hout en onbehandeld houtafval</td>
+			<td>3-mdl</td>
+			<td>3-mdl</td>
+			<td>jaarlijks</td>
+			<td>6-mdl</td>
+			<td>6-mdl</td>
+			<td>3-mdl</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td>- niet-verontreinigd behandeld houtafval</td>
+			<td>3-mdl</td>
+			<td>3-mdl</td>
+			<td>jaarlijks</td>
+			<td>6-mdl</td>
+			<td>6-mdl</td>
+			<td>3-mdl</td>
+			<td>6-mdl</td>
+			<td>6-mdl</td>
+			<td>6-mdl</td>
+		</tr>
+		<tr>
+			<td>≥ 50 MW</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- onbehandeld hout en onbehandeld houtafval</td>
+			<td>3-mdl</td>
+			<td>3-mdl</td>
+			<td>6-mdl</td>
+			<td>3-mdl</td>
+			<td>3-mdl</td>
+			<td>continu</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td>- niet-verontreinigd behandeld houtafval</td>
+			<td>3-mdl</td>
+			<td>3-mdl</td>
+			<td>6-mdl</td>
+			<td>3-mdl</td>
+			<td>3-mdl</td>
+			<td>continu</td>
+			<td>3-mdl</td>
+			<td>3-mdl</td>
+			<td>6-mdl</td>
+		</tr>
+		<tr>
+			<td colspan="10">meetfrequenties voor indirect verwarmde spaan-, OSB- en houtvezelplaatdrogers en hybride verwarmde spaan-, OSB- en houtvezelplaatdrogers</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;6-mdl</td>
+			<td>-</td>
+			<td>-</td>
+			<td>6-mdl</td>
+			<td>6-mdl</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+(1) som = Sb, As, Pb, Cr, Co, Cu, Sn, Ni, V, Mn".<br>
+&nbsp;
+
 ## HOOFDSTUK 2 Wijzigingen van titel III van het VLAREM
 
 ### ART 4.
