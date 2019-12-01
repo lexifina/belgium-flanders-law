@@ -16,7 +16,14 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° de VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30 van de Vlaamse Wooncode;<br />2° het agentschap : het agentschap Wonen-Vlaanderen van het Vlaamse Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br />3° ...<br />4° inschrijvingsregister : het register, vermeld in artikel 7, eerste lid, van het kaderbesluit sociale huur;<br />5° kaderbesluit sociale huur : het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode;<br />6° openbaar inschrijvingsregister : het register, vermeld in artikel 7, derde lid, van het kaderbesluit sociale huur;<br />7° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.
+In dit besluit wordt verstaan onder :<br>
+1° de VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30 van de Vlaamse Wooncode;<br>
+2° ...<br>
+3° ...<br>
+4° inschrijvingsregister : het register, vermeld in artikel 93, § 1, eerste lid, van de Vlaamse Wooncode;<br>
+5° kaderbesluit sociale huur : het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode;<br>
+6° openbaar inschrijvingsregister : het register, vermeld in artikel 7, derde lid, van het kaderbesluit sociale huur;<br>
+7° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.
 
 ## HOOFDSTUK II. De vorm, de inhoud en de wijze van bijhouden van het inschrijvingsregister
 
