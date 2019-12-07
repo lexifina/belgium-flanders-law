@@ -889,6 +889,15 @@ De minister kan bijkomende uitzonderingen voorzien om rekening te houden met mil
 <br>
 § 3. Het gebruik van kunststoffen afvalzakken zonder gerecycleerde kunststoffen wordt voor bestaande voorraden die aangekocht werden voor de ingangsdatum van het verbod, toegelaten tot maximaal 6 maanden na de ingang van het verbod.".
 
+### ART 69.
+
+In artikel 6.1.1.2 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 23 mei 2014, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 1, eerste lid, wordt in punt 9° het woord "containerpark" vervangen door het woord "recyclagepark";<br>
+<br>
+2° in paragraaf 1, eerste lid, wordt een punt 10° toegevoegd, dat luidt als volgt:<br>
+"10° de afvalstoffenproducent die in het kader van een collectieve regeling met andere bedrijven die gevestigd zijn op hetzelfde bedrijventerrein, de eigen bedrijfsafvalstoffen vervoert naar een inzamelpunt van afvalstoffen op het bedrijventerrein waar hij zelf gevestigd is, en dat alleen voor die bedrijven bedoeld is, waarbij tijdens het transport het terrein niet verlaten wordt of de kortste route genomen wordt. Het bedrijventerrein is officieel ruimtelijk bestemd als bedrijventerrein en bevindt zich niet in een zeehavengebied.".
+
 ### ART 70.
 
 In artikel 6.1.1.4 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 4 mei 2012, 23 mei 2014, 23 september 2016 en 22 december 2017, worden de volgende wijzigingen aangebracht:<br>
