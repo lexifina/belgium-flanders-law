@@ -46,3 +46,7 @@ In artikel 5 van hetzelfde ministerieel besluit worden de volgende wijzigingen a
 3° in 10°, j), 6), iii wordt de zinssnede "door de netbeheerder" vervangen door "door het Vlaams Energieagentschap".
 
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 6.
+
+Artikel 25, 2° en artikel 64 van het besluit van de Vlaamse Regering van 30 november 2018 houdende wijziging van het Energiebesluit van 19 november 2010, wat betreft diverse bepalingen over energie, treden in werking.
