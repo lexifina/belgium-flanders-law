@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032478,
+  "title": "Decreet van 2019-11-22 houdende instemming met het samenwerkingsakkoord van 7 september 2018 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de uitvoering van een aantal bepalingen van het protocol bij het verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, ter bestrijding van verzuring, eutrofiëring en ozon op leefniveau, met bijlagen, ondertekend in Göteborg op 30 november 1999, zoals gewijzigd op 4 mei 2012 te Genève",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032478/VolledigDocument?datum=2019-12-19",
+  "source_sha256": "139c8d250c4ef04636224ed5a4437caca3c5c12202987da2a8f3ee8d009d0d8a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032478&param=informatie",
+  "as_of": "2019-12-19",
+  "made": "2019-11-22",
+  "gazette": "2019-12-09",
+  "numac": 2019015604,
+  "document_start": "2019-12-19",
+  "document_end": null,
+  "in_force": "2019-12-19",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2019-12-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
