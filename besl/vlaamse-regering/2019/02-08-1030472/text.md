@@ -49,7 +49,7 @@ Een dienst beschikt minimaal over één vergunde ziekenwagen niet-dringend ligge
 
 De dienst stelt een medisch verantwoordelijke aan. De medisch verantwoordelijke is een arts die de volgende taken heeft:<br>
 1° de procedures voor medische handelingen en hygiënische maatregelen voor het niet-dringend liggend ziekenvervoer opstellen en valideren;<br>
-2° toezicht houden op de inhoud en frequentie van de permanente vorming van de ambulanciers niet-kritiek patiëntenvervoer;<br>
+2° toezicht houden op de inhoud en frequentie van de permanente vorming van de ambulanciers niet-dringend patiëntenvervoer;<br>
 3° de ontsmettingsmiddelen, vermeld in artikel 19, 27°, en de decontaminatiemiddelen, vermeld in artikel 19, 28°, waarmee de dienst werkt, bepalen;<br>
 4° interne audits organiseren om na te gaan of de opgestelde procedures worden nageleefd en, in voorkomend geval, de vastgestelde problemen oplossen.<br>
 <br>
@@ -59,39 +59,39 @@ Een arts kan voor verschillende diensten de functie van medisch verantwoordelijk
 
 De dienst stelt een algemeen verantwoordelijke aan die de volgende opdrachten heeft:<br>
 1° erop toezien dat alle activiteiten van de dienst beantwoorden aan de vergunningsvoorwaarden van dit besluit;<br>
-2° het register bijhouden met alle verbintenissen tussen de dienst en de ambulanciers niet-kritiek patiëntenvervoer die aan de dienst verbonden zijn;<br>
-3° het register bijhouden met de medische attesten van rijgeschiktheid en alle opleidingen en bijscholingen van de ambulanciers niet-kritiek patiëntenvervoer die aan de dienst verbonden zijn;<br>
+2° het register bijhouden met alle verbintenissen tussen de dienst en de ambulanciers niet-dringend patiëntenvervoer die aan de dienst verbonden zijn;<br>
+3° het register bijhouden met de medische attesten van rijgeschiktheid en alle opleidingen en bijscholingen van de ambulanciers niet-dringend patiëntenvervoer die aan de dienst verbonden zijn;<br>
 4° het register met alle standplaatsen bijhouden;<br>
 5° het register bijhouden met alle voertuigen met daarin per voertuig een kopie van het inschrijvingsbewijs, het gelijkvormigheidsattest, het geldende verzekeringsbewijs, het geldige keuringsbewijs en een document waaruit blijkt op welke wijze de aansprakelijkheid ten aanzien van de patiënt verzekerd is;<br>
-6° het register bijhouden met, per rit, de identiteitsgegevens van de ambulanciers niet-kritiek patiëntenvervoer, alsook van de patiënt die is vervoerd;<br>
+6° het register bijhouden met, per rit, de identiteitsgegevens van de ambulanciers niet-dringend patiëntenvervoer, alsook van de patiënt die is vervoerd;<br>
 7° het klachtenregister bijhouden;<br>
 8° toezicht houden op de kwaliteit van het ziekenvervoer, inclusief de klachtbehandeling;<br>
-9° de conformiteit van de ziekenwagens, de uitrusting en de opleiding en bijscholing van de ambulanciers niet-kritiek patiëntenvervoer met de vergunningsvoorwaarden, vermeld in dit hoofdstuk, controleren.
+9° de conformiteit van de ziekenwagens, de uitrusting en de opleiding en bijscholing van de ambulanciers niet-dringend patiëntenvervoer met de vergunningsvoorwaarden, vermeld in dit hoofdstuk, controleren.
 
 ### ART 6.
 
 De personeelsleden van de dienst zijn deskundig, voorkomend, beleefd en behulpzaam tegen de patiënt.<br>
 <br>
-De interventiekledij van de ambulanciers niet-kritiek patiëntenvervoer mag alleen bestaan uit de volgende kleuren: geel, conform EN 20471, en enamel blauw, pantone 18-4733 TCX. De interventiekledij kan de volgende onderdelen bevatten:<br>
+De interventiekledij van de ambulanciers niet-dringend patiëntenvervoer mag alleen bestaan uit de volgende kleuren: geel, conform EN 20471, en enamel blauw, pantone 18-4733 TCX. De interventiekledij kan de volgende onderdelen bevatten:<br>
 1° een jas;<br>
 2° een broek;<br>
 3° een T-shirt of polo;<br>
 4° een kazuifel.<br>
 <br>
-De ambulancier niet-kritiek patiëntenvervoer mag zelf bepalen welke combinatie hij draagt, zolang de kledij voldoet aan EN ISO 20471:2013 zichtbaarheid klasse 3.<br>
+De ambulancier niet-dringend patiëntenvervoer mag zelf bepalen welke combinatie hij draagt, zolang de kledij voldoet aan EN ISO 20471:2013 zichtbaarheid klasse 3.<br>
 <br>
 In het derde lid wordt verstaan onder zichtbaarheid klasse 3: de mate van zichtbaarheid, vermeld in de Europese norm 20471 en ISO 20471:2013 betreffende hoge zichtbaarheidskleding.<br>
 <br>
-Op de kledij van de ambulancier niet-kritiek patiëntenvervoer bevindt zich een zilvergrijze "Star of Life" met een grootte van 75 mm op 75 mm op de rechterborst en 150 mm op 150 mm centraal op de rugzijde.<br>
+Op de kledij van de ambulancier niet-dringend patiëntenvervoer bevindt zich een zilvergrijze "Star of Life" met een grootte van 75 mm op 75 mm op de rechterborst en 150 mm op 150 mm centraal op de rugzijde.<br>
 <br>
-De ambulanciers niet-kritiek patiëntenvervoer:<br>
+De ambulanciers niet-dringend patiëntenvervoer:<br>
 1° kunnen een gesprek in het Nederlands voeren met een Nederlandstalige patiënt;<br>
 2° begeleiden de patiënt van de verblijfplaats naar de afgesproken plaats en terug als dat zo is afgesproken;<br>
 3° verrichten de noodzakelijke administratie binnen de voorwaarden van hun vervoersopdracht.
 
 ### ART 7.
 
-Er mag altijd een naaste of mantelzorger van de patiënt meerijden als de patiënt wordt getransporteerd. Dat leidt niet tot bijkomende kosten als die persoon geen extra zorgaandacht van de ambulanciers niet-kritiek patiëntenvervoer vraagt.<br>
+Er mag altijd een naaste of mantelzorger van de patiënt meerijden als de patiënt wordt getransporteerd. Dat leidt niet tot bijkomende kosten als die persoon geen extra zorgaandacht van de ambulanciers niet-dringend patiëntenvervoer vraagt.<br>
 <br>
 In het eerste lid wordt verstaan onder:<br>
 1° mantelzorger: een mantelzorger als vermeld in artikel 2, 7°, van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming;<br>
@@ -122,7 +122,7 @@ a) de vervoerskosten;<br>
 b) de kosten voor farmaceutische noodzakelijke verstrekkingen;<br>
 8° de betalingsvoorwaarden met onder meer een maximumpercentage van schadebeding of interesten in geval van niet-betaling binnen de vooropgestelde termijn.<br>
 <br>
-Betaling in cash wordt beperkt en is alleen mogelijk als de ontvangende ambulancier niet-kritiek patiëntenvervoer het bedrag onmiddellijk int bij het vervoer. Hij overhandigt dan een betalingsbewijs aan de patiënt waarop hij het betaalde bedrag vermeldt. Op de factuur wordt het cash ontvangen bedrag achteraf ook duidelijk vermeld.
+Betaling in cash wordt beperkt en is alleen mogelijk als de ontvangende ambulancier niet-dringend patiëntenvervoer het bedrag onmiddellijk int bij het vervoer. Hij overhandigt dan een betalingsbewijs aan de patiënt waarop hij het betaalde bedrag vermeldt. Op de factuur wordt het cash ontvangen bedrag achteraf ook duidelijk vermeld.
 
 ### ART 10.
 
@@ -130,7 +130,7 @@ De dienst beschikt over een procedure voor hygiënische maatregelen. Die procedu
 1° de reiniging en decontaminatie van de ziekenwagen en het materiaal dat opnieuw wordt gebruikt;<br>
 2° het vervoer van besmette patiënten;<br>
 3° de afvalbehandeling;<br>
-4° de hygiëne van de ambulancier niet-kritiek patiëntenvervoer en zijn kledij.<br>
+4° de hygiëne van de ambulancier niet-dringend patiëntenvervoer en zijn kledij.<br>
 <br>
 In de ziekenwagen geldt voor personeel en patiënten altijd een algemeen rookverbod en een algemeen alcohol- en drugsverbod.
 
@@ -160,7 +160,7 @@ De dienst sluit een afdoende burgerlijke aansprakelijkheidsverzekering voor de p
 
 ### ART 14.
 
-De ziekenwagen wordt gedurende het volledige transport van de patiënt bemand door twee ambulanciers niet-kritiek patiëntenvervoer. Een ambulancier niet-kritiek patiëntenvervoer begeleidt de patiënt in de sanitaire cel van de ziekenwagen.
+De ziekenwagen wordt gedurende het volledige transport van de patiënt bemand door twee ambulanciers niet-dringend patiëntenvervoer. Een ambulancier niet-dringend patiëntenvervoer begeleidt de patiënt in de sanitaire cel van de ziekenwagen.
 
 ### ART 17.
 
@@ -168,26 +168,57 @@ In elke ziekenwagen worden de tarieven en maximumtarieven duidelijk zichtbaar ge
 
 ### ART 18.
 
-De ziekenwagen heeft alleen de uiterlijke kenmerken, vermeld in het tweede tot en met het achtste lid.<br>
+§ 1. De ziekenwagen heeft alleen de uiterlijke kenmerken, vermeld in dit artikel.<br>
 <br>
-De basiskleur van de ziekenwagen is wit.<br>
+De technische specificaties van de materialen, vermeld in dit artikel, zijn opgenomen in bijlage 1, die bij dit besluit is gevoegd.<br>
 <br>
-De sectorale kleuren geel en groen worden aangebracht in retroreflecterend materiaal (klasse 2) in een dubbele rij van vierkante blokken (zijde 100 mm) afwisselend fluorescerend geel of groen en groen, evenwijdig aan het grondoppervlak op een hoogte waarbij de bovenrand van de bovenste rij blokken overeenkomt met de gemiddelde hoogte van de onderrand van het venster van de voordeur.<br>
+De grafische weergave van de uiterlijke kenmerken, vermeld in dit artikel, is opgenomen in bijlage 2, die bij dit besluit is gevoegd.<br>
 <br>
-De ziekenwagen is aan beide zijkanten voorzien van witte contourmarkering van 50 millimeter breed in retroreflecterend materiaal.<br>
+§ 2. De basiskleur van de ziekenwagen is wit.<br>
 <br>
-Op de achterkant van de ziekenwagen wordt een visgraatmotief aangebracht van aan de onderste rand van het voertuig tot een hoogte die overeenstemt met de bovenste rand van de dubbele rij blokken. Het visgraatmotief wordt aangebracht in retroreflecterend materiaal van 100 mm breedte, afwisselend in de kleuren fluorescent geel of groen en fluorescent oranje.<br>
+In het eerste lid wordt verstaan onder wit : de kleur met RAL-nummer 9010.<br>
 <br>
-De aanduiding `ambulance' wordt aangebracht in rood retroreflecterend materiaal op de achterkant van het voertuig.<br>
+§ 3. Op elke zijkant van de ziekenwagen wordt een dubbele rij vierkante blokken aangebracht in een blokpatroon.<br>
 <br>
-Op de achterkant van de ziekenwagen staat in de rechterbenedenhoek van het voertuig het unieke identificatienummer van de vergunning die het agentschap heeft verleend. Het unieke identificatienummer wordt voorafgegaan door het logo voor niet-dringend liggend ziekenvervoer.<br>
+De blokken, vermeld in het eerste lid, hebben een zijde van 100 millimeter. Het blokpatroon bestaat afwisselend uit blokken microprismatisch retroreflecterend, fluorescent geel/groen (basiskleur) en blokken microprismatisch retroreflecterend groen (contrasterende kleur).<br>
 <br>
-Optioneel kunnen de volgende uiterlijke kenmerken worden aangebracht op de ziekenwagen:<br>
-1° op de zijkant van de ziekenwagen kan:<br>
-a) net boven de dubbele rij blokken de naam van de dienst vermeld worden;<br>
-b) binnen een vlak van 400 mm op 400 mm het logo van de ziekenwagendienst vermeld worden;<br>
-2° op de achterkant van de ziekenwagen kan het telefoonnummer van de ziekenwagendienst vermeld worden;<br>
-3° op de voorkant van de ziekenwagen kan het telefoonnummer van de ziekenwagendienst vermeld worden.
+Het blokpatroon wordt zo aangebracht dat de bovenzijde ervan op dezelfde hoogte komt als de gemiddelde hoogte van de onderzijde van het venster in het portier aan de voorzijde.<br>
+<br>
+§ 4. Op de ziekenwagen wordt op de achterzijde en de zijkanten een microprismatisch retroreflecterende witte omtrekmarkering aangebracht die parallel verloopt met de omtreklijnen van het voertuig. De zelfklevende omtrekmarkering heeft een breedte van 50 millimeter.<br>
+<br>
+In de rand van de deuren worden ook microprismatisch retroreflecterende witte markeringen aangebracht, zodat de omtrek van openstaande deuren altijd duidelijk zichtbaar is, ook bij duisternis en in minder gunstige weersomstandigheden.<br>
+<br>
+§ 5. Op de achterzijde van de ziekenwagen worden over een zo groot mogelijk oppervlak chevrons aangebracht. Het minimale oppervlak van het koetswerk van de achterzijde van het voertuig dat voorzien moet zijn van chevrons is dat gedeelte van de onderzijde van het voertuig dat in de hoogte overeenkomt met de bovenzijde van de rij blokken aan de zijkant van het voertuig.<br>
+<br>
+In het eerste lid wordt verstaan onder chevrons : schuine strepen van 100 millimeter breedte.<br>
+<br>
+De zelfklevende chevrons worden aangebracht onder een hoek gevormd door twee lijnen die enerzijds allebei vertrekken vanuit het middelpunt van de achterzijde van het voertuig en anderzijds elk lopen naar een onderste, buitenste hoek van het voertuig. Boven de voormelde lijnen wordt een streep microprismatisch retroreflecterend fluorescent geel/groen aangebracht. Onder de lijnen wordt een streep microprismatisch retroreflecterend, fluorescent oranje aangebracht.<br>
+<br>
+§ 6. Op de achterzijde van de ziekenwagen worden het telefoonnummer en het woord "AMBULANCE" onder elkaar aangebracht, uitgevoerd in rode retroreflecterende zelfklevende alfanumerieke tekens in het lettertype Segoe UI bold met een hoogte van 100 millimeter. De afstand tussen de onderrand van de cijfers van het telefoonnummer en de bovenrand van de letters is gelijk aan 100 millimeter.<br>
+<br>
+Het telefoonnummer en het woord "AMBULANCE" worden allebei gekleefd volgens een rechte lijn loodrecht op en gecentreerd ten opzichte van de middellijn van de breedte van het voertuig, gezien vanaf de achterzijde.<br>
+<br>
+Op de achterzijde van de ziekenwagen wordt de combinatie van het telefoonnummer en de aanduiding van de functie aangebracht gecentreerd tussen de rand van het dak van het voertuig en de bovenzijde van het venster of de vensters achteraan.<br>
+<br>
+§ 7. Op de achterzijde van de ziekenwagen wordt rechts onderaan het identificatienummer gekleefd dat het agentschap toekent. Dat identificatienummer wordt uitgevoerd in zwarte zelfklevende cijfers in het lettertype Segoe UI bold en heeft een hoogte van 75 millimeter. Het identificatienummer wordt aangebracht zodat er rechts en onder dat nummer 50 millimeter afstand is ten opzichte van de dichtstbij gelegen rand van het koetswerk.<br>
+<br>
+§ 8. Optioneel kan op de beide zijkanten van de ziekenwagen het logo van de ziekenwagendienst en/of de naam van de ziekenwagendienst worden aangebracht.<br>
+<br>
+Het logo en de naam, vermeld in het eerste lid, worden uitgevoerd in zelfklevende folie die geen retroreflecterende of fluorescente eigenschappen heeft.<br>
+<br>
+De grootte van het logo mag de afmetingen van een vierkant met een zijde van 400 millimeter niet overschrijden.<br>
+<br>
+Het logo van de ziekenwagendienst wordt horizontaal zo geplaatst dat er 100 millimeter ruimte is tussen het voorste punt van het logo en de achterste dakstijl (B-stijl of C-stijl, afhankelijk van het model van het voertuig) van het laatste portier aan de zijkant. Verticaal gezien wordt het logo van de ziekenwagendienst op een afstand gelijk aan een vierde van de hoogte van het voertuig, gemeten vanaf het grondoppervlak tot aan de dakrand ter hoogte van het eerder bepaalde horizontale middelpunt, en dat vanaf de dakrand. Het logo van de ziekenwagendienst mag nooit over het blokpatroon komen. Als het nodig is, wordt het logo van de ziekenwagendienst opgeschoven, zodat hieraan voldaan wordt, er wel voor zorgend dat er minimaal 100 millimeter vrije ruimte blijft rond het logo van de ziekenwagendienst.<br>
+<br>
+De tekens die worden gebruikt voor de naam van de ziekenwagendienst zijn uitgevoerd in het lettertype Segoe UI bold en mogen niet groter zijn dan 100 millimeter. De kleur van de tekens in de naam van de ziekenwagendienst is dezelfde als de contrasterende kleur in het blokpatroon, of wit als de naam van de ziekenwagendienst aangebracht moet worden ter hoogte van een venster, rekening houdend met de positionering, vermeld in het vierde lid.<br>
+<br>
+De naam van de ziekenwagendienst is gecentreerd tussen de verticale lijnen gevormd door enerzijds de voorzijde van het logo van de ziekenwagendienst en anderzijds de verticale lijn die zich 150 millimeter naar de achterzijde bevindt ten opzichte van het midden van de afstand tussen de achterzijde van het voertuig en de as van de achterste wielen. De afstand tussen de onderrand van de naam van de ziekenwagendienst en de bovenzijde van het blokpatroon bedraagt 100 millimeter. Er is minimaal 50 millimeter afstand tussen de bovenzijde van de letters in de naam van de ziekenwagendienst en de onderzijde van een logo dat eventueel wordt aangebracht.<br>
+<br>
+§ 9. Optioneel kan op de motorkap van de ziekenwagen het woord "AMBULANCE" opgenomen worden. De functie wordt opgenomen in rode retroreflecterende zelfklevende letters, uitgevoerd in het lettertype Segoe UI bold, met een hoogte van 100 millimeter. De letters van het woord "AMBULANCE" worden gekleefd volgens een rechte lijn loodrecht op en gecentreerd ten opzichte van de middellijn van de motorkap in de breedte van het voertuig, gezien vanaf de voorzijde. De afstand tussen de onderste rand van de letters en het dichtstbij gelegen punt van de voorste rand van de motorkap bedraagt 100 millimeter.<br>
+<br>
+Optioneel kan op de motorkap van de ziekenwagen het telefoonnummer van de ziekenwagendienst worden aangebracht. Het telefoonnummer wordt uitgevoerd in rode zelfklevende cijfers in het lettertype Segoe UI bold met een hoogte van 100 millimeter. Het telefoonnummer wordt gekleefd volgens een rechte lijn loodrecht op en gecentreerd ten opzichte van de middellijn van de motorkap in de breedte van het voertuig, gezien vanaf de voorzijde. De afstand tussen de onderrand van de cijfers van het telefoonnummer en de bovenrand van de letters van het woord "AMBULANCE", is 100 millimeter.<br>
+<br>
+Als er onvoldoende plaats is op de motorkap van het voertuig, mag het telefoonnummer boven de voorruit worden aangebracht, gecentreerd enerzijds ten opzichte van de breedte van het voertuig en anderzijds ten opzichte van de hoogte tussen de rand van het dak en de bovenzijde van de voorruit.
 
 ### ART 19.
 
@@ -245,9 +276,11 @@ Een dienst die een vergunning voor niet-dringend liggend ziekenvervoer wil verkr
 Bij een aanvraag tot controle zijn al de volgende documenten gevoegd:<br>
 1° een nota met de vermelding van de maatschappelijke zetel van de dienst, de naam van de medisch verantwoordelijke, vermeld in artikel 4, en de naam van de algemeen verantwoordelijke, vermeld in artikel 5. De medisch verantwoordelijke en de algemeen verantwoordelijke ondertekenen die nota;<br>
 2° een lijst met het aantal ziekenwagens en de standplaats ervan;<br>
-3° een beschrijvende nota waarin wordt vermeld op welke wijze voldaan is aan de vergunningsvoorwaarden, vermeld in hoofdstuk 2.<br>
+3° ...<br>
 <br>
-Als het dossier onvolledig is, deelt de gemachtigde controleorganisatie dat mee aan de aanvrager, met vermelding van de ontbrekende gegevens, binnen een maand nadat ze het dossier heeft ontvangen.
+De aanvraag van een eerste vergunning betreft altijd de vergunning voor de ziekenwagendienst en alle ziekenwagens die behoren tot de ziekenwagendienst.<br>
+<br>
+Als het dossier onvolledig is, deelt de gemachtigde controleorganisatie dat mee aan de aanvrager en het agentschap, met vermelding van de ontbrekende gegevens, binnen een maand nadat ze het dossier heeft ontvangen.
 
 ### ART 21.
 
@@ -255,7 +288,7 @@ Uiterlijk binnen een maand nadat ze een ontvankelijk dossier heeft ontvangen, co
 <br>
 In het eisenkader, vermeld in het eerste lid, zijn de te controleren vergunningsvoorwaarden vertaald naar concrete en objectieve vaststellingen. Het eisenkader wordt gepubliceerd op de website van het agentschap. Het agentschap bepaalt voor elk van de vergunningsvoorwaarden, vermeld in het eisenkader, na advies van de onafhankelijke commissie, de waarde op basis waarvan het oordeel, vermeld in artikel 22, moet worden gegeven.<br>
 <br>
-De ziekenwagendienst wordt ter plaatse gecontroleerd. De ziekenwagens worden steekproefsgewijs gecontroleerd. De grootte van de steekproef bedraagt 10% van het aantal ziekenwagens van de ziekenwagendienst, met een minimum van drie en een maximum van tien. De steekproef bevat ziekenwagens die at random door de gemachtigde controleorganisatie zijn geselecteerd. De gemachtigde controleorganisatie kan op het moment van de controle beslissen dat de steekproef wordt uitgebreid. In dat geval motiveert ze die beslissing in het verslag, vermeld in artikel 22.<br>
+De ziekenwagendienst wordt ter plaatse gecontroleerd. De ziekenwagens worden steekproefsgewijs gecontroleerd. De grootte van de steekproef bedraagt 10% van het aantal ziekenwagens van de ziekenwagendienst, met een minimum van drie en een maximum van tien. De steekproef bevat ziekenwagens die at random door de gemachtigde controleorganisatie zijn geselecteerd. De gemachtigde controleorganisatie kan op het moment van de controle beslissen dat de steekproef wordt uitgebreid. In dat geval motiveert ze die beslissing in het verslag, vermeld in artikel 22. De dienst die de controle heeft aangevraagd, kan tijdens de controle de gemachtigde controleorganisatie ook vragen om de steekproefsgewijze controle te vervangen door een controle van alle ziekenwagens.<br>
 <br>
 De dienst stelt aan de gemachtigde controleorganisatie alle gegevens ter beschikking die voor de controle noodzakelijk zijn, en de dienst verleent de toegang tot de dienst en alle ziekenwagens om de controle te laten uitvoeren.
 
@@ -277,31 +310,60 @@ Een vergunning is maximaal zes jaar geldig.<br>
 <br>
 Een voorlopige vergunning geldt voor zes maanden en is twee keer met telkens maximaal zes maanden verlengbaar.<br>
 <br>
-§ 2. Als het verslag, vermeld in artikel 22, een gunstige beoordeling van de ziekenwagens en een gunstige beoordeling met voorbehoud van de dienst bevat, bezorgt het agentschap een voorlopige vergunning van de dienst en een voorlopige vergunning met bijbehorend voorlopige uniek identificatienummer voor alle ziekenwagens aan de dienst, tenzij de administrateur-generaal op grond van bevindingen na een bijkomende controle als vermeld in artikel 30, anders beslist.<br>
+In het voornemen tot weigering van een vergunning voor de dienst of voor een of meer ziekenwagens, vermeld in paragraaf 4, worden de mogelijkheid en de nadere regels om een bezwaarschrift in te dienen vermeld.<br>
 <br>
-§ 3. Als het verslag, vermeld in artikel 22, een gunstige beoordeling van de dienst en een gunstige beoordeling met voorbehoud voor een of meer ziekenwagens van die dienst bevat, bezorgt het agentschap een voorlopige vergunning voor de dienst en een voorlopige vergunning met bijbehorend voorlopig uniek identificatienummer voor alle ziekenwagens aan de dienst, tenzij de administrateur-generaal op grond van bevindingen na een bijkomende controle als vermeld in artikel 30, anders beslist.<br>
+Nadat de dienst een voorlopige vergunning heeft ontvangen voor de dienst of voor een of meer ziekenwagens, heeft de dienst drie maanden de tijd om de vastgestelde tekorten weg te werken. Uiterlijk binnen drie maanden nadat de dienst het verslag, vermeld in artikel 22, heeft ontvangen, vraagt ze een tweede controle aan bij de gemachtigde controleorganisatie die de voorgaande controle heeft uitgevoerd. Uiterlijk binnen een maand vanaf de dag waarop de controleorganisatie de tweede aanvraag tot controle heeft ontvangen, controleert ze of de vastgestelde tekortkomingen zijn weggewerkt. Binnen een maand na het beëindigen van de controle maakt de controleorganisatie een verslag als vermeld in artikel 22. Dat verslag wordt naar de dienst gestuurd met een kopie aan het agentschap.<br>
 <br>
-Vanaf het moment dat één ziekenwagen in de steekproef als gunstig met voorbehoud wordt beoordeeld, worden alle ziekenwagens van de ziekenwagendienst als gunstig met voorbehoud beschouwd.<br>
+Als bij een steekproefsgewijze controle een of meer ziekenwagens als ongunstig worden beoordeeld, worden alle ziekenwagens als ongunstig beoordeeld. Als bij een steekproefsgewijze controle een of meer ziekenwagens als gunstig met voorbehoud worden beoordeeld en geen enkele ziekenwagen als ongunstig, worden alle ziekenwagens als gunstig met voorbehoud beoordeeld.<br>
 <br>
-Na een gunstige beoordeling met voorbehoud heeft de dienst drie maanden de tijd om de vastgestelde tekorten weg te werken. Uiterlijk binnen drie maanden nadat de dienst het verslag, vermeld in artikel 22, heeft ontvangen, vraagt hij een tweede controle aan bij de gemachtigde controleorganisatie die de voorgaande controle heeft uitgevoerd. In de aanvraag vermeldt de dienst op welke wijze de vastgestelde tekortkomingen zijn weggewerkt. Uiterlijk binnen een maand nadat de controleorganisatie de tweede aanvraag tot controle heeft ontvangen, controleert ze of de vastgestelde tekortkomingen op afdoende wijze zijn weggewerkt. Binnen een maand na de controle maakt de controleorganisatie een verslag als vermeld in artikel 22. Dat verslag wordt naar de dienst gestuurd met een kopie naar het agentschap.<br>
+Een tweede controle van ziekenwagens na een steekproefsgewijze controle heeft zowel betrekking op de eerder gecontroleerde ziekenwagens waarbij effectief tekorten werden vastgesteld, als op een nieuwe steekproef.<br>
 <br>
-§ 4. Als het verslag, vermeld in artikel 22, een gunstige beoordeling bevat van de dienst en van de ziekenwagens die aan de dienst verbonden zijn, bezorgt het agentschap een vergunning met bijbehorend uniek identificatienummer van de ziekenwagens aan de dienst, tenzij de administrateur-generaal op grond van bevindingen na een bijkomende controle als vermeld in artikel 30, anders beslist.<br>
+Een tweede controle van ziekenwagens na een controle van alle ziekenwagens beperkt zich tot de ziekenwagens waarbij effectief tekorten werden vastgesteld.<br>
 <br>
-§ 5. Als het verslag, vermeld in artikel 22, een ongunstige beoordeling of een derde opeenvolgende gunstige beoordeling met voorbehoud bevat, bezorgt het agentschap aan de dienst een voornemen tot weigering van vergunning voor de dienst en voor alle ziekenwagens die aan de dienst verbonden zijn, tenzij de administrateur-generaal op grond van bevindingen na een bijkomende controle als vermeld in artikel 30, anders beslist. De verleende vergunning blijft geldig zolang de bezwaartermijn, vermeld in artikel 24, eerste lid, loopt of, als een ontvankelijk bezwaarschrift is ingediend, tot de datum van de definitieve beslissing over de aangevraagde vergunning.<br>
+§ 2. Als het verslag, vermeld in artikel 22, een gunstige beoordeling bevat van de dienst en een gunstige beoordeling van de gecontroleerde ziekenwagens, bezorgt het agentschap een vergunning voor de dienst en een vergunning met bijbehorend uniek identificatienummer voor alle ziekenwagens aan de dienst, tenzij de administrateur-generaal anders beslist op grond van bevindingen na een bijkomende controle als vermeld in artikel 30.<br>
 <br>
-Vanaf het moment dat één ziekenwagen in de steekproef als ongunstig wordt beoordeeld, worden alle ziekenwagens van de ziekenwagendienst als ongunstig beschouwd. In dat geval kan de ziekenwagendienst ervoor kiezen dat de steekproefsgewijze controle wordt vervangen door een controle van iedere ziekenwagen die tot de ziekenwagendienst behoort.<br>
+§ 3. Als het verslag, vermeld in artikel 22, een gunstige beoordeling met voorbehoud van de dienst bevat, en na een steekproefsgewijze controle een gunstige beoordeling of een gunstige beoordeling met voorbehoud van de ziekenwagens bevat, bezorgt het agentschap een voorlopige vergunning voor de dienst en een voorlopige vergunning met bijbehorend voorlopig uniek identificatienummer voor alle ziekenwagens aan de dienst, tenzij de administrateur-generaal anders beslist op grond van bevindingen na een bijkomende controle als vermeld in artikel 30.<br>
 <br>
-In het voornemen tot weigering van vergunning, vermeld in het eerste lid, worden de mogelijkheid en de nadere regels om een bezwaarschrift in te dienen vermeld.
+§ 4. Als het verslag, vermeld in artikel 22, een ongunstige beoordeling bevat van de dienst of een derde opeenvolgende gunstige beoordeling met voorbehoud van de dienst bevat, bezorgt het agentschap aan de dienst een voornemen tot weigering van vergunning voor de dienst en voor alle ziekenwagens die aan de dienst verbonden zijn, tenzij de administrateur-generaal anders beslist op grond van bevindingen na een bijkomende controle als vermeld in artikel 30. Een eerder verleende voorlopige vergunning blijft geldig zolang de bezwaartermijn, vermeld in artikel 24, eerste lid, loopt, of, als een ontvankelijk bezwaarschrift is ingediend, tot de datum van de definitieve beslissing over de aangevraagde vergunning.<br>
+<br>
+§ 5. Als het verslag, vermeld in artikel 22, een gunstige beoordeling van de dienst en, na een steekproefsgewijze controle, een gunstige beoordeling met voorbehoud voor de ziekenwagens bevat, bezorgt het agentschap een voorlopige vergunning voor de dienst en een voorlopige vergunning met bijbehorend voorlopig uniek identificatienummer voor alle ziekenwagens aan de dienst, tenzij de administrateur-generaal anders beslist op grond van bevindingen na een bijkomende controle als vermeld in artikel 30.<br>
+<br>
+§ 6. Als het verslag, vermeld in artikel 22, na een steekproefsgewijze controle, een ongunstige beoordeling voor de ziekenwagens bevat of een derde opeenvolgende gunstige beoordeling met voorbehoud voor de ziekenwagens bevat, of na een controle van alle ziekenwagens, alle ziekenwagens een ongunstige beoordeling hebben gekregen of een derde opeenvolgende gunstige beoordeling met voorbehoud voor de ziekenwagens hebben gekregen, bezorgt het agentschap aan de dienst een voornemen tot weigering van vergunning voor de dienst en voor alle ziekenwagens die aan de dienst verbonden zijn, tenzij de administrateur-generaal anders beslist op grond van bevindingen na een bijkomende controle als vermeld in artikel 30. Een eerder verleende voorlopige vergunning blijft geldig zolang de bezwaartermijn, vermeld in artikel 24, eerste lid, loopt, of, als een ontvankelijk bezwaarschrift is ingediend, tot de datum van de definitieve beslissing over de aangevraagde vergunning.<br>
+<br>
+§ 7. Als het verslag, vermeld in artikel 22, een gunstige beoordeling van de dienst bevat en, na een controle van alle ziekenwagens, minstens één ziekenwagen met een gunstige beoordeling, bezorgt het agentschap aan de dienst :<br>
+1° een vergunning voor de dienst;<br>
+2° naargelang de beoordeling van de afzonderlijke ziekenwagens :<br>
+a) een vergunning met bijbehorend uniek identificatienummer voor de ziekenwagens die een gunstige beoordeling hebben gekregen;<br>
+b) een voorlopige vergunning met bijbehorend voorlopig uniek identificatienummer voor de ziekenwagens die een gunstige beoordeling met voorbehoud hebben gekregen;<br>
+c) een voornemen tot weigering van vergunning voor de ziekenwagens die ofwel een ongunstige beoordeling, ofwel een derde opeenvolgende gunstige beoordeling met voorbehoud hebben gekregen.<br>
+<br>
+Een eerder verleende voorlopige vergunning voor een ziekenwagen die in het verslag, vermeld in het eerste lid, een ongunstige beoordeling of derde opeenvolgende gunstige beoordeling met voorbehoud voor de ziekenwagens heeft gekregen, blijft geldig zolang de bezwaartermijn, vermeld in artikel 24, eerste lid, loopt, of, als een ontvankelijk bezwaarschrift is ingediend, tot de datum van de definitieve beslissing over de aangevraagde vergunning.<br>
+<br>
+§ 8. Als het verslag, vermeld in artikel 22, een gunstige beoordeling met voorbehoud van de dienst bevat en, na een controle van alle ziekenwagens, minstens één ziekenwagen met een gunstige beoordeling of een gunstige beoordeling met voorbehoud voor de ziekenwagens bevat, bezorgt het agentschap aan de dienst :<br>
+1° een voorlopige vergunning voor de dienst;<br>
+2° naargelang de beoordeling van de afzonderlijke ziekenwagens :<br>
+a) een voorlopige vergunning met bijbehorend voorlopig uniek identificatienummer voor de ziekenwagens die een gunstige beoordeling of een gunstige beoordeling met voorbehoud hebben gekregen;<br>
+b) een voornemen tot weigering van vergunning voor de ziekenwagens die ofwel een ongunstige beoordeling, ofwel een derde opeenvolgende gunstige beoordeling met voorbehoud hebben gekregen.<br>
+<br>
+Een eerder verleende voorlopige vergunning blijft geldig zolang de bezwaartermijn, vermeld in artikel 24, eerste lid, loopt, of, als een ontvankelijk bezwaarschrift is ingediend, tot de datum van de definitieve beslissing over de aangevraagde vergunning.<br>
+<br>
+§ 9. Als het verslag, vermeld in artikel 22, een gunstige beoordeling van de dienst bevat en, na een controle van alle ziekenwagens, geen enkele ziekenwagen met een gunstige beoordeling en minstens één ziekenwagen met een gunstige beoordeling met voorbehoud bevat, bezorgt het agentschap aan de dienst :<br>
+1° een voorlopige vergunning voor de dienst;<br>
+2° naargelang de beoordeling van de afzonderlijke ziekenwagens :<br>
+a) een voorlopige vergunning met bijbehorend voorlopig uniek identificatienummer voor de ziekenwagens die een gunstige beoordeling met voorbehoud hebben gekregen;<br>
+b) een voornemen tot weigering van vergunning voor de ziekenwagens die ofwel een ongunstige beoordeling, ofwel een derde opeenvolgende gunstige beoordeling met voorbehoud hebben gekregen.<br>
+<br>
+Een eerder verleende voorlopige vergunning blijft geldig zolang de bezwaartermijn, vermeld in artikel 24, eerste lid, loopt, of, als een ontvankelijk bezwaarschrift is ingediend, tot de datum van de definitieve beslissing over de aangevraagde vergunning.
 
 ### ART 24.
 
-Op straffe van onontvankelijkheid kan de dienst tot uiterlijk dertig dagen nadat hij het voornemen, vermeld in artikel 23, § 5, heeft ontvangen, met een aangetekende zending of tegen ontvangstbewijs een gemotiveerd bezwaarschrift bij het agentschap indienen. Hij kan daarin uitdrukkelijk vragen om te worden gehoord.<br>
+Op straffe van onontvankelijkheid kan de dienst tot uiterlijk dertig dagen nadat hij het voornemen tot weigering vermeld in artikel 23, § 4, heeft ontvangen, met een aangetekende zending of tegen ontvangstbewijs een gemotiveerd bezwaarschrift bij het agentschap indienen. Hij kan daarin uitdrukkelijk vragen om te worden gehoord.<br>
 <br>
-Binnen een maand nadat het agentschap het gemotiveerde bezwaarschrift heeft ontvangen, bezorgt het agentschap het bezwaarschrift, het voornemen tot weigering en het verslag, vermeld in artikel 23, § 3, derde lid, aan de onafhankelijke commissie voor advies. De onafhankelijke commissie behandelt het bezwaar conform de werkwijze, vermeld in het huishoudelijk reglement. Binnen twee maanden nadat de onafhankelijke commissie een bezwaarschrift heeft ontvangen, formuleert ze een advies aan de administrateur-generaal.
+Binnen een maand nadat het agentschap het gemotiveerde bezwaarschrift heeft ontvangen, bezorgt het agentschap het bezwaarschrift, het voornemen tot weigering, vermeld in artikel 23, § 4, en het verslag, vermeld in artikel 22, aan de onafhankelijke commissie voor advies. De onafhankelijke commissie behandelt het bezwaar conform de werkwijze, vermeld in het huishoudelijk reglement. Binnen twee maanden nadat de onafhankelijke commissie een bezwaarschrift heeft ontvangen, formuleert ze een advies aan de administrateur-generaal.
 
 ### ART 25.
 
-Binnen twee maanden nadat de administrateur-generaal het advies van de onafhankelijke commissie, vermeld in artikel 24, heeft ontvangen, of, als het advies hem niet bereikt binnen de termijn, vermeld in artikel 24, binnen een maand nadat die termijn verstreken is, wordt de voorlopige vergunning, vermeld in artikel 23, § 2, of de voorlopige vergunning, vermeld in artikel 23, § 3, of de vergunning, vermeld in artikel 23, § 4, verleend, of wordt de beslissing om de vergunning te weigeren, met een aangetekende zending aan de dienst betekend.<br>
+Binnen twee maanden nadat de administrateur-generaal het advies van de onafhankelijke commissie, vermeld in artikel 24, heeft ontvangen, of, als het advies hem niet bereikt binnen de termijn, vermeld in artikel 24, binnen een maand nadat die termijn verstreken is, wordt de vergunning, de voorlopige vergunning of de beslissing om de vergunning te weigeren, met een aangetekende zending aan de dienst betekend.<br>
 <br>
 Als het advies van de onafhankelijke commissie, vermeld in artikel 24, tweede lid, ontbreekt, kan de administrateur-generaal geen beslissing nemen zonder dat hij de dienst heeft gehoord, als die daarom heeft verzocht in zijn bezwaarschrift. De termijn, vermeld in het eerste lid, wordt in dat geval met een maand verlengd.<br>
 <br>
@@ -315,7 +377,7 @@ Het agentschap brengt de dienst binnen een maand nadat de termijn, vermeld in he
 
 ### ART 27.
 
-Het agentschap publiceert op zijn website een lijst van voorlopig vergunde en vergunde diensten niet-dringend liggend ziekenvervoer, hun ziekenwagens met bijbehorende uniek identificatienummers, en de begin- en einddatum van de vergunningen.
+Het agentschap publiceert op zijn website een lijst van voorlopig vergunde en vergunde diensten niet-dringend liggend ziekenvervoer, hun vergunde en voorlopig vergunde ziekenwagens met bijbehorende uniek identificatienummers, en de begin- en einddatum van de vergunningen.
 
 ## Afdeling 2. Verlenging van vergunning
 
@@ -325,7 +387,7 @@ Het agentschap publiceert op zijn website een lijst van voorlopig vergunde en ve
 <br>
 Bij een aanvraag tot controle zijn de documenten, vermeld in artikel 20, tweede lid, gevoegd als er veranderingen zijn doorgevoerd sinds de laatste controle.<br>
 <br>
-§ 2. Voor het einde van de periode van de lopende vergunning wordt de procedure, vermeld in artikel 21, 22 en 23, § 1, doorlopen.<br>
+§ 2. Voor het einde van de periode van de lopende vergunning wordt de procedure, vermeld in artikel 21, 22 en 23, doorlopen.<br>
 <br>
 § 3. Als er een gunstige beoordeling is, wordt de vergunning met bijbehorende uniek identificatienummer van de ziekenwagens verlengd.<br>
 <br>
@@ -349,9 +411,9 @@ Binnen vijftien dagen nadat de gemachtigde controleorganisatie de aanvraag ontva
 <br>
 Binnen vijftien dagen na de controle maakt de gemachtigde controleorganisatie een verslag. In het verslag wordt een conclusie van de beoordeling vermeld. Die conclusie is gunstig, gunstig met voorbehoud of ongunstig. Dat verslag wordt naar de dienst en naar het agentschap gestuurd.<br>
 <br>
-§ 3. Als er een gunstige beoordeling met voorbehoud is, bezorgt het agentschap een voorlopige vergunning voor het voertuig in kwestie. Artikel 23, § 3, is van overeenkomstige toepassing.<br>
+§ 3. Als er een gunstige beoordeling met voorbehoud is, bezorgt het agentschap een voorlopige vergunning voor het voertuig in kwestie. Artikel 23, is van overeenkomstige toepassing.<br>
 <br>
-§ 4. Als er een ongunstige beoordeling is, bezorgt het agentschap een voornemen tot weigering van vergunning voor het desbetreffende voertuig. Artikel 23, § 5, artikel 23, 34 en 35 zijn van overeenkomstige toepassing.<br>
+§ 4. Als er een ongunstige beoordeling is, bezorgt het agentschap een voornemen tot weigering van vergunning voor het desbetreffende voertuig. Artikel 23, 24, 34 en 35 zijn van overeenkomstige toepassing.<br>
 <br>
 § 5. Als er een gunstige beoordeling is, bezorgt het agentschap een vergunning van het voertuig in kwestie met bijbehorend uniek identificatienummer van de ziekenwagen aan de dienst. De vergunning voor het bijkomende voertuig vermeldt de begin- en einddatum. Het agentschap vermeldt de vergunning voor het bijkomende voertuig, met bijbehorend uniek identificatienummer, op de lijst van vergunde diensten niet-dringend liggend ziekenvervoer, zoals gepubliceerd op de website van het agentschap.<br>
 <br>
@@ -403,7 +465,7 @@ Het agentschap bezorgt de persoon die de klacht heeft gemeld, uiterlijk binnen d
 
 ### ART 35.
 
-§ 1. De administrateur-generaal kan organisaties machtigen om controles uit te voeren op de naleving van de vergunningsvoorwaarden, vermeld in hoofdstuk 4. Die organisaties stellen zich daarvoor kandidaat bij het agentschap.<br>
+§ 1. De administrateur-generaal kan organisaties machtigen om controles uit te voeren op de naleving van de vergunningsvoorwaarden, vermeld in hoofdstuk 2. Die organisaties stellen zich daarvoor kandidaat bij het agentschap.<br>
 <br>
 § 2. Om een machtiging van de administrateur-generaal als vermeld in paragraaf 1, te verkrijgen, voldoet een organisatie aan al de volgende criteria:<br>
 1° ze beschikt over een accreditatie conform ISO 17021-1 bij BELAC voor de certificatie van kwaliteitsmanagementsystemen;<br>
@@ -414,7 +476,7 @@ b) 38A: gezondheid en maatschappelijke dienstverlening;<br>
 4° ze beschikt over een schriftelijke procedure om certificatie-audits bij ziekenwagendiensten uit te voeren. Die procedure bevat het engagement dat controles worden uitgevoerd op basis van een eisenkader dat daarvoor ontworpen is, en dat de onafhankelijke commissie heeft opgesteld;<br>
 5° ze beschikt over voldoende middelen om de controles binnen de vastgelegde termijnen te kunnen uitvoeren.<br>
 <br>
-§ 3. Het agentschap bezorgt de kandidatuur voor advies aan de onafhankelijke commissie. De onafhankelijke commissie adviseert op basis van de criteria, vermeld in paragraaf 2, binnen twee maanden nadat ze de kandidatuur, vermeld in paragraaf 1, heeft ontvangen, of de kandidaat geschikt is om de controles, vermeld in artikel 21, 23, § 3, en artikel 29, § 2, op kwaliteitsvolle wijze uit te voeren. De onafhankelijke commissie bezorgt haar advies schriftelijk aan het agentschap en de aanvrager.
+§ 3. Het agentschap bezorgt de kandidatuur voor advies aan de onafhankelijke commissie. De onafhankelijke commissie adviseert op basis van de criteria, vermeld in paragraaf 2, binnen twee maanden nadat ze de kandidatuur, vermeld in paragraaf 1, heeft ontvangen, of de kandidaat geschikt is om de controles, vermeld in artikel 21, 23, en artikel 29, § 2, op kwaliteitsvolle wijze uit te voeren. De onafhankelijke commissie bezorgt haar advies schriftelijk aan het agentschap en de aanvrager.
 
 ### ART 36.
 
@@ -436,11 +498,11 @@ Als het advies van de onafhankelijke commissie, vermeld in het derde lid, ontbre
 
 ### ART 37.
 
-Een controle van een dienst niet-dringend liggend ziekenvervoer als vermeld in artikel 21 en 23, § 3, en een controle van een of meer ziekenwagens als vermeld in artikel 29, § 2, door een gemachtigde controleorganisatie resulteert altijd in een verslag, volgens een model dat het agentschap heeft bepaald, dat wordt bezorgd aan het agentschap.
+Een controle van een dienst niet-dringend liggend ziekenvervoer als vermeld in artikel 21 en 23, en een controle van een of meer ziekenwagens als vermeld in artikel 29, § 2, door een gemachtigde controleorganisatie resulteert altijd in een verslag, volgens een model dat het agentschap heeft bepaald, dat wordt bezorgd aan het agentschap.
 
 ### ART 38.
 
-§ 1. Als een gemachtigde controleorganisatie niet langer voldoet aan de criteria, vermeld in artikel 35, § 2, of als een gemachtigde controleorganisatie de termijnen, vermeld in artikel 21, 22, 23, § 3, artikel 28 en 29, § 2, niet respecteert, of in andere gevallen van disfunctioneren kan de administrateur-generaal, op eigen initiatief of op advies van de onafhankelijke commissie, de machtiging van een controleorganisatie, vermeld in artikel 35, intrekken. De administrateur-generaal deelt het voornemen om de machtiging in te trekken, schriftelijk mee aan de organisatie in kwestie. In die brief worden de voorgenomen datum en de reden van de intrekking vermeld.<br>
+§ 1. Als een gemachtigde controleorganisatie niet langer voldoet aan de criteria, vermeld in artikel 35, § 2, of als een gemachtigde controleorganisatie de termijnen, vermeld in artikel 21, 22, 23, artikel 28 en 29, § 2, niet respecteert, of in andere gevallen van disfunctioneren kan de administrateur-generaal, op eigen initiatief of op advies van de onafhankelijke commissie, de machtiging van een controleorganisatie, vermeld in artikel 35, intrekken. De administrateur-generaal deelt het voornemen om de machtiging in te trekken, schriftelijk mee aan de organisatie in kwestie. In die brief worden de voorgenomen datum en de reden van de intrekking vermeld.<br>
 <br>
 § 2. Op straffe van onontvankelijkheid kan de organisatie, vermeld in paragraaf 1, tot uiterlijk dertig dagen nadat ze het voornemen tot intrekking van de machtiging heeft ontvangen, met een aangetekende brief of tegen ontvangstbewijs een bezwaarschrift tegen het voornemen tot intrekking indienen met haar opmerkingen en, als die organisatie dat wil, met het uitdrukkelijke verzoek om gehoord te worden.<br>
 <br>
@@ -462,7 +524,11 @@ Het agentschap publiceert de lijst van gemachtigde controleorganisaties op zijn 
 
 Alle ziekenwagens die na de publicatie van dit besluit in dienst worden genomen, moeten, vanaf de zesde maand na de publicatie van dit besluit, voldoen aan de uiterlijke kenmerken, vermeld in artikel 18.<br>
 <br>
-De ziekenwagens die al in dienst zijn genomen op het ogenblik van de publicatie van dit besluit, moeten uiterlijk vijf jaar na de publicatie van dit besluit voldoen aan de uiterlijke kenmerken, vermeld in artikel 18.
+De ziekenwagens die al in dienst zijn genomen op het ogenblik van de publicatie van dit besluit, moeten uiterlijk vijf jaar na de publicatie van dit besluit voldoen aan de uiterlijke kenmerken, vermeld in artikel 18.<br>
+<br>
+De ziekenwagens die in dienst worden genomen tussen de publicatiedatum van dit besluit en de zes daarop volgende maanden, mogen voldoen aan de uiterlijke kenmerken, vermeld in artikel 18. Ze mogen ook beschouwd worden als vallend onder de toepassing van het tweede lid.<br>
+<br>
+Tweedehands ziekenwagens die door een ziekenwagendienst in dienst worden genomen vanaf het ogenblik van de publicatie van dit besluit moeten uiterlijk vijf jaar na de publicatie van dit besluit voldoen aan de uiterlijke kenmerken, vermeld in artikel 18. Tweedehands ziekenwagens die door een ziekenwagendienst in dienst worden genomen vanaf het ogenblik van de publicatie van dit besluit mogen niet de uiterlijke kenmerken hebben van de ziekenwagens voor de dringende medische hulpverlening, vermeld in het koninklijk besluit van 12 november 2017 houdende vaststelling van de uiterlijke kenmerken van de voertuigen die ingezet worden in de dringende geneeskundige hulpverlening.
 
 ### ART 41.
 
@@ -478,3 +544,11 @@ Artikel 16 is niet van toepassing als de erkenningsplicht van het paramedisch be
 ### ART 42.
 
 De Vlaamse minister, bevoegd voor het gezondheidsbeleid, is belast met de uitvoering van dit besluit.
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/12/17_1.pdf#page=56">Bijlage 1</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/12/17_1.pdf#page=58">Bijlage 2 </a>
