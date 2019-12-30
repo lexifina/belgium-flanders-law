@@ -14,7 +14,7 @@ Besluit :
 
 ### ART 1.
 
-De provincie Antwerpen wordt gemachtigd om haar betrokkenheid in en de ondersteuning van De Warande voort te zetten tot en met 31 december 2019.
+De provincie Antwerpen wordt gemachtigd om haar betrokkenheid in en de ondersteuning van De Warande voort te zetten tot en met 31 december 2024.
 
 ### ART 2.
 
