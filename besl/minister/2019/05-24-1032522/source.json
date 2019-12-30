@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032522,
+  "title": "Ministerieel besluit van 2019-05-24 tot aanpassing van het ministerieel besluit van 12 mei 2014 tot vaststelling van een code van goede praktijk ter uitvoering van artikel 11 van het Soortenschadebesluit van 3 juli 2009 en ter uitvoering van artikel 28 en artikel 41 van het Jachtvoorwaardenbesluit van 25 april 2014",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032522/VolledigDocument?datum=2019-12-30",
+  "source_sha256": "94c48bfee73794a05b93b40bbea45eecf0e770ead29e5325b3f864f648667a6a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032522&param=informatie",
+  "as_of": "2019-12-30",
+  "made": "2019-05-24",
+  "gazette": "2019-12-20",
+  "numac": 2019031037,
+  "document_start": "2019-12-30",
+  "document_end": null,
+  "in_force": "2019-12-30",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2019-12-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
