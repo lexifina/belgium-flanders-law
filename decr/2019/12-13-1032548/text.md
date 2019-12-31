@@ -40,6 +40,65 @@ In artikel 22/6 van de Codex Secundair Onderwijs van 17 december 2010, ingevoegd
 
 ## Afdeling 2. Extra werkingsmiddelen voor technische uitrusting in het secundair onderwijs
 
+### ART 8.
+
+Ten laste van de begroting 2019 ontvangen de scholen van het voltijds gewoon of buitengewoon secundair onderwijs, die gefinancierd of gesubsidieerd worden door de Vlaamse Gemeenschap, een forfaitair bedrag per regelmatige leerling die op 1 februari 2019 is ingeschreven in een van de structuuronderdelen die hierna worden vermeld. Dat bedrag per leerling wordt vastgesteld door het beschikbaar krediet van 10 miljoen euro te delen door het totaal aantal regelmatige leerlingen op 1 februari 2019 van de in aanmerking genomen structuuronderdelen.<br>
+Structuuronderdelen:<br>
+1° alle structuuronderdelen van de volgende studiegebieden van het Nederlandstalig voltijds gewoon secundair onderwijs en van opleidingsvorm 4 van het Nederlandstalig buitengewoon secundair onderwijs:<br>
+a) auto;<br>
+b) bouw;<br>
+c) chemie;<br>
+d) grafische communicatie en media;<br>
+e) hout;<br>
+f) koeling en warmte;<br>
+g) land- en tuinbouw;<br>
+h) mechanica-elektriciteit;<br>
+i) personenzorg, met uitzondering van Gezondheids- en Welzijnswetenschappen TSO en Sociale en Technische Wetenschappen TSO;<br>
+j) textiel;<br>
+k) voeding;<br>
+2° structuuronderdelen van opleidingsvorm 3 van het Nederlandstalig buitengewoon secundair onderwijs:<br>
+a) aluminium- en kunststofschrijnwerker;<br>
+b) auto-hulpmechanicien;<br>
+c) bakkersgast;<br>
+d) betonstaalvlechter;<br>
+e) groen- en tuinbeheer duaal;<br>
+f) grootkeukenhulp;<br>
+g) grootkeukenmedewerker;<br>
+h) hoeklasser;<br>
+i) hulpkelner;<br>
+j) hulpwever;<br>
+k) interieurbouwer;<br>
+l) keukenhulp;<br>
+m) keukenmedewerker;<br>
+n) lasser monteerder;<br>
+o) lasser monteerder BMBE;<br>
+p) lasser monteerder MIG/MAG;<br>
+q) lasser monteerder TIG;<br>
+r) loodgieter;<br>
+s) machinaal houtbewerker;<br>
+t) medewerker fastfood duaal;<br>
+u) metselaar;<br>
+v) meubelstoffeerder;<br>
+w) onderhoudsassistent;<br>
+x) plaatbewerker;<br>
+y) plaatslager;<br>
+z) puntlasser;<br>
+aa) schilder-decorateur;<br>
+ab) slagersgast;<br>
+ac) stratenmaker;<br>
+ad) tuinbouwarbeider;<br>
+ae) traiteurmedewerker;<br>
+af) vloerder-tegelzetter;<br>
+ag) werfbediener ruwbouw;<br>
+ah) werkplaatsschrijnwerker;<br>
+ai) zeefdrukker.<br>
+<br>
+De school gebruikt de middelen, vermeld in het eerste lid, alleen voor de aankoop van didactische uitrusting of de beveiliging van al aanwezige didactische uitrusting voor de structuuronderdelen die die middelen hebben gegenereerd. Die uitrustingsgoederen zijn noodzakelijk, duurzaam en direct gerelateerd aan het leerplan, het opleidingsprofiel of het standaardtraject in kwestie.<br>
+<br>
+De schriftelijke bewijsstukken van de aanwending liggen in de school ter controle voor de verificatie en inspectie van het Vlaams Ministerie van Onderwijs en Vorming. De middelen, vermeld in het eerste lid, die niet zijn aangewend conform dit artikel, worden teruggevorderd.<br>
+<br>
+Het extra werkingsbudget wordt aan de schoolbesturen uitbetaald uiterlijk op 31 december 2019.
+
 ## HOOFDSTUK 6. Werk en Sociale Economie
 
 ## Afdeling 1. Verlenging van de samenwerkingsovereenkomsten met de structurele partners in het kader van spoor 3 van het Focus op Talentbeleid

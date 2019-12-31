@@ -2,16 +2,16 @@
   "codex_id": 1032548,
   "title": "Decreet van 2019-12-13 programmadecreet bij de aanpassing van de begroting 2019",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032548/VolledigDocument?datum=2019-10-01",
-  "source_sha256": "32e90bcf2c3a64558ed2726f5d53e8ec9326f1a6212e23a17b6c6d2859d592c3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032548/VolledigDocument?datum=2019-12-31",
+  "source_sha256": "a779b12edc0d34ffd672e3132459c22f84c154a1433d99bbb81abcccef42069a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032548&param=informatie",
-  "as_of": "2019-10-01",
+  "as_of": "2019-12-31",
   "made": "2019-12-13",
   "gazette": "2020-01-09",
   "numac": 2019042930,
   "document_start": "2020-01-19",
   "document_end": null,
-  "in_force": "2019-10-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2019-10-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-12-31",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2019-12-31; future article versions excluded; article text as the API gives it"
 }
