@@ -116,3 +116,8 @@ In artikel 8, eerste lid, van hetzelfde besluit, vervangen bij het besluit van d
 ## HOOFDSTUK 8. Wijziging van het besluit van de Vlaamse Regering van 9 december 2011 tot vaststelling van de specifieke brandveiligheidsnormen waaraan ouderenvoorzieningen, lokale dienstencentra en centra voor herstelverblijf moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen
 
 ## HOOFDSTUK 9. Slotbepalingen
+
+### ART 34.
+
+Artikel 36 van het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers wordt opgeheven.<br>
+&nbsp;
