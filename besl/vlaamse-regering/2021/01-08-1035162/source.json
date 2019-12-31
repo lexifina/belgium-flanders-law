@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035162,
+  "title": "Besluit van de Vlaamse Regering van 2021-01-08 tot wijziging van het besluit van 28 maart 2014 van de Vlaamse Regering houdende toekenning van compensatie aan verschillende actoren en aan gemeenten voor milieugerelateerde taken, uitgevoerd door doelgroepwerknemers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035162/VolledigDocument?datum=2019-12-31",
+  "source_sha256": "92e6442866a7a65608898be433f76ff388e79db3c2b8a998aed4795d9ddc7ff4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035162&param=informatie",
+  "as_of": "2019-12-31",
+  "made": "2021-01-08",
+  "gazette": "2021-02-03",
+  "numac": 2021020221,
+  "document_start": "2019-12-31",
+  "document_end": null,
+  "in_force": "2019-12-31",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
