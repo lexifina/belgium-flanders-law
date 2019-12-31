@@ -64,9 +64,10 @@ In uitzondering van artikel 6 wordt niet vergoed:<br>
 3° louter esthetische schade aan goederen;<br>
 4° schade aan goederen die veroorzaakt is door de schuld, nalatigheid of onvoorzichtigheid van de schadelijder of een derde;<br>
 5° schade aan private goederen die verzekerbaar zijn met toepassing van artikel 123 tot en met 132 van de wet van 4 april 2014 betreffende de verzekeringen en artikel 1 tot en met 15 van het koninklijk besluit van 24 december 1992 betreffende de verzekering tegen brand en andere gevaren wat de eenvoudige risico's betreft of verzekerbaar zijn tegen dezelfde risico's op basis van buitenlands recht, met uitzondering van:<br>
-a) de niet-binnengehaalde oogsten, de levende veestapel buiten het gebouw, de bodem en de teelten, wat de risico's brand, bliksem, ontploffing, storm, ijs- en sneeuwdruk, overstroming, het overlopen of opstuwen van openbare riolen, aardverschuiving of grondverzakking en aardbeving betreft;<br>
+a)&nbsp;de levende veestapel buiten het gebouw, de bodem, wat de risico's brand, bliksem, ontploffing, storm, ijs- en sneeuwdruk, overstroming, het overlopen of opstuwen van openbare riolen, aardverschuiving of grondverzakking en aardbeving betreft;<br>
 b) de levende veestapel buiten het gebouw, wat het risico hagelschade betreft;<br>
-c) de goederen die niet verzekerd zijn door de financiële toestand van de houder van het verzekeringsbelang. De schadelijder bewijst met een attest van het bevoegde Openbaar Centrum voor Maatschappelijk Welzijn dat hij op de dag van de algemene ramp een leefloon of een gelijkwaardige financiële hulp ontving of daarvoor in aanmerking kwam.
+c) de goederen die niet verzekerd zijn door de financiële toestand van de houder van het verzekeringsbelang. De schadelijder bewijst met een attest van het bevoegde Openbaar Centrum voor Maatschappelijk Welzijn dat hij op de dag van de algemene ramp een leefloon of een gelijkwaardige financiële hulp ontving of daarvoor in aanmerking kwam;<br>
+6° schade aan teelten of oogsten.
 
 ### ART 8.
 
@@ -82,7 +83,7 @@ Een persoon heeft recht op de tegemoetkoming als hij op het ogenblik van de scha
 1° eigenaar;<br>
 2° titularis van een recht van erfpacht of opstal;<br>
 3° huurder of koper van een goed volgens een contract van huurkoop of een contract van verkoop op afbetaling;<br>
-4° uitbater van het geteisterde goed, wat schade aan teelten of oogsten betreft.<br>
+4° ...<br>
 <br>
 Bij samenloop van meerdere titels heeft de persoon, vermeld in het eerste lid, 2° en 3°, voorrang op de persoon, vermeld in het eerste lid, 1°, bij het toekennen van de tegemoetkoming.
 
