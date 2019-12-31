@@ -69,3 +69,7 @@ Aan artikel 13, derde lid, van hetzelfde besluit, ingevoegd bij het besluit van 
 ## HOOFDSTUK 14. Wijzigingen van het besluit van de Vlaamse Regering van 21 december 2018 betreffende de huur van hulpmiddelen voor communicatie, computerbediening en omgevingsbedieningen voor personen met een snel degeneratieve aandoening
 
 ## HOOFDSTUK. 15. Slotbepalingen
+
+### ART 50.
+
+Voor de toepassing van artikel 639, § 2, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming worden de personen met een handicap die conform artikel 11/1, § 2, van het besluit van de Vlaamse Regering van 20 april 2018 houdende maatregelen voor de uitwerking van de persoonsvolgende budgetten die in het kader van de transitie naar persoonsvolgende financiering ter beschikking zijn gesteld met ingang van 1 januari 2020 en die toegeleid zijn naar rechtstreeks toegankelijke hulp, van rechtswege beschouwd als personen die het gebruik van de niet rechtstreeks toegankelijke zorg en ondersteuning, vrijwillig hebben stopgezet vóór 1 januari 2020.
