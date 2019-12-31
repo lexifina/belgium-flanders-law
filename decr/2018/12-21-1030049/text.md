@@ -76,6 +76,19 @@ In artikel 19septies decies, eerste lid, van het decreet van 5 juli 2002 tot vas
 
 ## Afdeling 3. Wijziging algemeen rampenfonds - uitsluiten teelt- of oogstschade
 
+### ART 11.
+
+In artikel 7 van het decreet van 3 juni 2016 betreffende de tegemoetkoming voor schade, aangericht door algemene rampen in het Vlaamse Gewest, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in punt 5°, a), worden de zinsnede "de niet-binnengehaalde oogsten," en de woorden "en de teelten", opgeheven;<br>
+<br>
+2° er wordt een punt 6° toegevoegd, dat luidt als volgt:<br>
+"6° schade aan teelten of oogsten.".
+
+### ART 12.
+
+In artikel 9, eerste lid, van hetzelfde decreet wordt punt 4° opgeheven.
+
 ## HOOFDSTUK 7. Mobiliteit en Openbare Werken
 
 ## Afdeling 1. Verkeersveiligheidsfonds - subsidies veilige schoolomgevingen
