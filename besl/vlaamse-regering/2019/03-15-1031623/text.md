@@ -43,6 +43,10 @@ In afwijking van artikel 3 worden de inschrijvingsgelden van het volwassenenonde
 
 In het besluit van de Vlaamse Regering van 12 oktober 2007 tot regeling van een aantal aangelegenheden voor de Centra voor Basiseducatie ter uitvoering van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 27 april 2018, wordt hoofdstuk IIIsexies, dat bestaat uit artikel 6decies, opgeheven.
 
+### ART 6.
+
+Het besluit van de Vlaamse Regering van 17 oktober 2008 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer van het Fonds Inschrijvingsgelden Centra voor Volwassenenonderwijs, gewijzigd bij de besluiten van de Vlaamse Regering van 1 juni 2012 en 3 juli 2015, wordt opgeheven.
+
 ### ART 7.
 
 Dit besluit treedt in werking op 1 september 2019, met uitzondering van artikel 6, dat in werking treedt op 31 december 2019.
