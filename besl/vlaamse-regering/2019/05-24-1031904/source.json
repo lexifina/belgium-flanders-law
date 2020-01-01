@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031904,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-24 over de bouwstenen voor de uitwerking van een persoonsvolgend budget voor niet- rechtstreeks toegankelijke zorg en ondersteuning voor minderjarige personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031904/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "ec8c7886743b514b737e5001728182ad3e987246542c0b8030efb01342e6d178",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031904&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2019-05-24",
+  "gazette": "2019-07-12",
+  "numac": 2019013447,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
