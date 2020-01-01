@@ -954,7 +954,7 @@ De organisator, vermeld in het eerste lid, krijgt een maandelijkse subsidie die 
 <br>
 § 2. Bovenop de subsidies, vermeld in paragraaf 1, krijgt de organisator, vermeld in paragraaf 1, met arts-bedienden nog een bijkomende subsidie tot uitvoering van het vierde Vlaamse Intersectoraal Akkoord van 2 december 2011 voor de private social- en non-profitsectoren voor de periode 2011 tot 2015 en het vijfde Vlaams Intersectoraal Akkoord van 8 juni 2018 voor de social/non profitsectoren voor de periode 2018-2020.<br>
 <br>
-De subsidie, vermeld in het eerste lid, bedraagt 2,79 euro per uur uitgevoerd door een arts-bediende. Dat bedrag wordt geïndexeerd conform artikel 41, § 1, derde lid.<br>
+De subsidie, vermeld in het eerste lid, bedraagt 2,95 euro per uur uitgevoerd door een arts-bediende. Dat bedrag wordt geïndexeerd conform artikel 41, § 1, derde lid.<br>
 <br>
 § 3. De organisatoren die een beroep willen doen op de overgangsbepaling, vermeld in paragraaf 1, eerste lid, melden dat uiterlijk vóór 1 februari 2019 aan het agentschap. Als er een einde komt aan hun overeenkomst met de arts-bediende, melden ze dat onmiddellijk aan het agentschap. Vanaf 1 januari 2019 mogen geen nieuwe bediendencontracten met artsen afgesloten worden.
 
