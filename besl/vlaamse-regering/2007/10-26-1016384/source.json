@@ -2,16 +2,16 @@
   "codex_id": 1016384,
   "title": "Besluit van de Vlaamse Regering van 2007-10-26 betreffende de voorwaarden om de waarborg te verkrijgen van het Agentschap voor Infrastructuur in het Onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016384/VolledigDocument?datum=2006-04-01",
-  "source_sha256": "828f591fb8497273d4e475bb9e3dcfa6ec7d2557f56330eb5ca3970759b6e34a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016384/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "4dde7c87a53c0a2a10e2b16e76f8470794461519f77546974390bbd89d883740",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016384&param=informatie",
-  "as_of": "2006-04-01",
+  "as_of": "2020-01-01",
   "made": "2007-10-26",
   "gazette": "2007-12-03",
   "numac": 2007037082,
   "document_start": "2006-04-01",
   "document_end": null,
-  "in_force": "2006-04-01",
+  "in_force": "2020-01-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }

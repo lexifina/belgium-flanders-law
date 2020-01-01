@@ -10,7 +10,8 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° het decreet :
 
 ### ART. 2.
 
-AGIOn verleent waarborg voor de terugbetaling van kapitaal, intresten en bijbehorende onkosten van leningen die aangegaan zijn met het oog op de financiering van het niet door toelage gedekte deel van het totale bedrag van de investering onder de voorwaarden vermeld in artikel 8 van het decreet van 7 mei 2004 houdende bepalingen inzake kas-, schuld- en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest.<br /><br />
+AGIOn verleent waarborg voor de terugbetaling van kapitaal, intresten en bijbehorende onkosten van leningen die aangegaan zijn met het oog op de financiering van het niet door toelage gedekte deel van het totale bedrag van de investering onder de voorwaarden vermeld in artikel 99 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 en artikel 90 van het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019.<br>
+&nbsp;
 
 ### ART. 3.
 
