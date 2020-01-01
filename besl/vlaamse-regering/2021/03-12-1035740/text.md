@@ -281,6 +281,20 @@ In artikel 79, § 2, van hetzelfde besluit worden de woorden "Kind en Gezin" ver
 In artikel 1 van het besluit van de Vlaamse Regering van 22 maart 2013 betreffende het inzagerecht en de bemiddeling bij interlandelijke adoptie wordt voor punt 1°, dat punt 1° /1 wordt, een nieuw punt 1° ingevoegd, dat luidt als volgt:<br>
 "1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie.".
 
+### ART 51.
+
+In hetzelfde besluit, wordt een artikel 16/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 16/1. Het rapport, vermeld in artikel 361-2/1 van het Oud Burgerlijk Wetboek, wordt overeenkomstig artikel 15, § 2, 10° van het decreet van 20 januari 2012, opgesteld door de adoptiedienst. Het is inhoudelijk gebaseerd op het verslag, vermeld in artikel 1231-1/4, tweede lid, van het Gerechtelijk Wetboek.<br>
+<br>
+Het Vlaams Centrum voor Adoptie superviseert de opmaak van het rapport door de adoptiedienst vermeld in het eerste lid. Als dit rapport op geen enkel punt afwijkt van het verslag, vermeld in artikel 1231-1/4, tweede lid, van het Gerechtelijk Wetboek, wordt het geacht te zijn goedgekeurd door het Vlaams Centrum voor Adoptie.<br>
+<br>
+Als de adoptiedienst en het Vlaams Centrum voor Adoptie bij de opmaak van dit rapport, van oordeel zijn dat inhoudelijk moet worden afgeweken van het verslag, vermeld in artikel 1231-1/4, tweede lid, van het Gerechtelijk Wetboek, omdat dat belangrijk kan zijn bij de indiening van het ouderdossier in het herkomstland, overlegt de adoptiedienst daarover met de dienst voor maatschappelijk onderzoek, vermeld in artikel 11 van het decreet van 20 januari 2012. In voorkomend geval kan het rapport pas worden ingediend bij het herkomstland nadat het Vlaams Centrum voor Adoptie daarvoor zijn goedkeuring heeft gegeven.<br>
+<br>
+De medische toestand van de kandidaat-adoptant wordt beschreven door een arts naar keuze en is inhoudelijk gebaseerd op de bevindingen van de arts in de medische checklist, waarvan het Vlaams Centrum voor Adoptie een model ter beschikking stelt van de adoptiedienst.<br>
+<br>
+Het Vlaams centrum voor Adoptie stelt een model van rapport ter beschikking van de adoptiedienst.
+
 ### ART 52.
 
 In artikel 30 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse regering van 14 juli 2017, worden de woorden "Kind en Gezin" vervangen door de woorden "Het agentschap".

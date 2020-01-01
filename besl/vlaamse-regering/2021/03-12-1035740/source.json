@@ -2,16 +2,16 @@
   "codex_id": 1035740,
   "title": "Besluit van de Vlaamse Regering van 2021-03-12 tot wijziging van diverse besluiten over welzijn, volksgezondheid en gezin naar aanleiding van de integratie van de agentschappen Kind en Gezin en Jongerenwelzijn in het kader van het geïntegreerd gezinsbeleid en tot wijziging van het besluit van de Vlaamse Regering van 22 maart 2013 wat betreft het opstellen van het verslag van de kandidaat-adoptanten, dienstig voor het herkomstland, vermeld in artikel 15 van het Haags Adoptieverdrag",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035740/VolledigDocument?datum=2019-04-18",
-  "source_sha256": "71ca360e227e94f654d1409018d8aa33ab455d5eb1cb3ccfac56dc0f1804bc70",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035740/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "0ea5098b306661cfa1941ec742a3847dcbe858b7a0f844a31248d95d6487773e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035740&param=informatie",
-  "as_of": "2019-04-18",
+  "as_of": "2020-01-01",
   "made": "2021-03-12",
   "gazette": "2021-06-25",
   "numac": 2021031677,
   "document_start": "2019-04-18",
   "document_end": null,
-  "in_force": "2019-04-18",
-  "article_versions": 538,
-  "record_form": "consolidated version as in force on 2019-04-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-01-01",
+  "article_versions": 539,
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
