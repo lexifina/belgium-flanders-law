@@ -230,7 +230,9 @@ De pedagogische begeleidingsdiensten ontvangen jaarlijks 84.000 euro aan aanvull
 
 ### ART. 20.
 
-Om nascholings- en begeleidingsactiviteiten te organiseren voor de eigen   personeelsleden en voor de personeelsleden van de door hen begeleide   instellingen ontvangen de pedagogische begeleidingsdiensten jaarlijks een bedrag   van 1.221.000 euro.<BR><BR>De middelen worden verdeeld over de pedagogische   begeleidingsdiensten naar rato van het aantal organieke   betrekkingen.
+Om nascholings- en begeleidingsactiviteiten te organiseren voor de eigen personeelsleden en voor de personeelsleden van de door hen begeleide instellingen ontvangen de pedagogische begeleidingsdiensten jaarlijks een bedrag van 1.148.000 euro.<br>
+<br>
+De middelen worden verdeeld over de pedagogische begeleidingsdiensten naar rato van het aantal organieke betrekkingen.
 
 ### ART. 21.
 
@@ -245,6 +247,10 @@ De werkingsmiddelen, vermeld in het eerste lid, worden verdeeld over deze pedago
 ### ART. 22.
 
 De bedragen vermeld in de artikelen 18 en 19 in deze afdeling hebben   betrekking op het begrotingsjaar 2012. Vanaf het begrotingsjaar 2014 worden deze   bedragen aangepast aan de evolutie van de gezondheidsindex.<BR><BR>De bedragen   vermeld in de artikelen 20 en 21/1 in deze afdeling hebben betrekking op het   begrotingsjaar 2015. Vanaf het begrotingsjaar 2016 worden deze bedragen   aangepast aan de evolutie van de gezondheidsindex.
+
+### ART 22/1.
+
+De bedragen verkregen door toepassing van de artikelen 18, 19, 21/1, 22, 27/2 en 28 worden vanaf het begrotingsjaar 2020 verminderd met 580.000 euro.
 
 ### ART. 23.
 
