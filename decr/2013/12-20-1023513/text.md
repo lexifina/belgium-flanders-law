@@ -118,13 +118,38 @@ In artikel 12, § 1, derde lid, van hetzelfde decreet, gewijzigd bij de   decret
 
 ### ART. 20.
 
-<P>§ 1. Er wordt bij het Agentschap Ondernemen een Fonds voor de   Waarborgregeling van de NV Waarborgbeheer opgericht, hierna genoemd `het   fonds'.<BR></P>  <P>§ 2. Het fonds is een begrotingsfonds in de zin van artikel 12 van het   decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de   toekenning van subsidies en de controle op de aanwending ervan, en de controle   door het Rekenhof.<BR></P>  <P>§ 3. Het fonds wordt gespijsd door enerzijds de ontvangen premies voor de   verstrekte waarborgen en anderzijds de financiële recuperaties ingevolge de   uitwinning van gestelde zekerheden bij de verleende waarborgen.<BR></P>  <P>§ 4. Het fonds wordt aangewend voor de verliesfinanciering ingevolge de   verleende waarborgen door de NV Waarborgbeheer.<BR></P>  <P>§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks   over de kredieten van het fonds.</P>
+<p>§ 1. Er wordt bij het Agentschap Ondernemen een Fonds voor de Waarborgregeling van de NV Waarborgbeheer opgericht, hierna genoemd `het fonds'.</p>
+
+<p>§ 2. Het fonds is een begrotingsfonds als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.</p>
+
+<p>§ 3. Het fonds wordt gespijsd door enerzijds de ontvangen premies voor de verstrekte waarborgen en anderzijds de financiële recuperaties ingevolge de uitwinning van gestelde zekerheden bij de verleende waarborgen.</p>
+
+<p>§ 4. Het fonds wordt aangewend voor de verliesfinanciering ingevolge de verleende waarborgen door de NV Waarborgbeheer.</p>
+
+<p>§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.</p>
 
 ## HOOFDSTUK 9 Fonds Bestuursrechtscolleges
 
 ### ART. 21.
 
-<P>§ 1. Er wordt een begrotingsfonds Fonds Bestuursrechtscolleges opgericht,   hierna genoemd `het fonds'.<BR></P>  <P>§ 2. Het fonds is een begrotingsfonds in de zin van artikel 12 van het   decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de   toekenning van subsidies en de controle op de aanwending ervan, en de controle   door het Rekenhof.<BR></P>  <P>§ 3. Het fonds wordt gespijsd door de ontvangsten die gerealiseerd worden bij   de Raad voor Vergunningsbetwistingen, het Milieuhandhavingscollege en de Raad   voor Verkiezingsbetwistingen.<BR></P>  <P>Deze ontvangsten vloeien voort uit :<BR>1° het rolrecht;<BR>2° het   getuigengeld;<BR>3° de kosten en erelonen van het onderzoek van de   deskundigen;<BR>4° de vergoeding voor de afgifte of zending van een afschrift of   uittreksel door de griffier;<BR>5° de geldboetes voor een ongegrond bezwaar   ingediend met het oogmerk om te schaden;<BR>6° de geldboete wegens kennelijk   onrechtmatig beroep;<BR>7° de overige gedingkosten.<BR></P>  <P>§ 4. Het fonds wordt aangewend ter financiering van diverse werkingskosten   van de Dienst van de Bestuursrechtscolleges.<BR></P>  <P>§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks   over de kredieten van het fonds.</P>
+<p>§ 1. Er wordt een begrotingsfonds Fonds Bestuursrechtscolleges opgericht, hierna genoemd `het fonds'.</p>
+
+<p>§ 2. Het fonds is een begrotingsfonds als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.</p>
+
+<p>§ 3. Het fonds wordt gespijsd door de ontvangsten die gerealiseerd worden bij de Raad voor Vergunningsbetwistingen, het Milieuhandhavingscollege en de Raad voor Verkiezingsbetwistingen.</p>
+
+<p>Deze ontvangsten vloeien voort uit :<br>
+1° het rolrecht;<br>
+2° het getuigengeld;<br>
+3° de kosten en erelonen van het onderzoek van de deskundigen;<br>
+4° de vergoeding voor de afgifte of zending van een afschrift of uittreksel door de griffier;<br>
+5° de geldboetes voor een ongegrond bezwaar ingediend met het oogmerk om te schaden;<br>
+6° de geldboete wegens kennelijk onrechtmatig beroep;<br>
+7° de overige gedingkosten.</p>
+
+<p>§ 4. Het fonds wordt aangewend ter financiering van diverse werkingskosten van de Dienst van de Bestuursrechtscolleges.</p>
+
+<p>§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.</p>
 
 ## HOOFDSTUK 10 Machtiging verkoop aan de NMBS
 
@@ -230,7 +255,7 @@ In artikel 14, tweede lid, van hetzelfde decreet worden de woorden "samen   met 
 <br>
 In afwijking van het eerste lid, draagt het begrotingsfonds met ingang van 1 april 2014 de naam begrotingsfonds Departement Onderwijs en Vorming.<br>
 <br>
-§ 2. Het fonds is een begrotingsfonds in de zin van artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
+§ 2. Het fonds is een begrotingsfonds als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
 <br>
 § 3. Het fonds wordt gespijsd door alle ontvangsten die voortvloeien uit :<br>
 1° de publiciteit in, de abonnementen op en andere ontvangsten met betrekking tot het tijdschrift Klasse;<br>
