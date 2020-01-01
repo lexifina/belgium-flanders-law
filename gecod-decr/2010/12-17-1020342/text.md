@@ -2076,16 +2076,17 @@ Voor de toepassing van artikel 116 tot en met 120 en artikel 122/1° wordt verst
 a) in het voltijds secundair onderwijs, het derde leerjaar van het algemeen en het kunstsecundair onderwijs aangeduid als voorbereidend jaar op het hoger onderwijs, de Se-n-Se van het technisch en het kunstsecundair onderwijs, de vierde graad van het secundair onderwijs, het hoger beroepsonderwijs;<br>
 b) het deeltijds beroepssecundair onderwijs;<br>
 c) de alternerende beroepsopleiding in het buitengewoon secundair onderwijs;<br>
+De Vlaamse Regering kan beslissen de punten a, b of c toch te beschouwen als secundair onderwijs.<br>
 2° ...;<br>
 3° toelatingsvoorwaarden : de toelatingsvoorwaarden bepaald in artikel 291 tot en met 295. (115)
 
 ### ART. 117.
 
-§ 1. Leerlingen voor wie het door ziekte of ongeval tijdelijk onmogelijk is om secundair onderwijs te volgen in hun school hebben recht op tijdelijk onderwijs aan huis.<br>
+§ 1. Leerlingen voor wie het door ziekte of ongeval tijdelijk onmogelijk is om secundair onderwijs te volgen in hun school hebben recht op tijdelijk onderwijs aan huis. De Vlaamse Regering kan bijkomend mogelijke redenen van de afwezigheid bepalen. Deze redenen dienen gerechtvaardigd en gegrond te zijn en worden gemotiveerd en geattesteerd door een bevoegde derde.<br>
 <br>
-§ 2. De Vlaamse Regering legt de voorwaarden vast om in aanmerking te komen voor tijdelijk onderwijs aan huis. De regering maakt hierbij een onderscheid tussen een veelvuldige afwezigheid omwille van een chronische ziekte en een langdurige afwezigheid.<br>
+§ 2. De Vlaamse Regering legt de voorwaarden vast om in aanmerking te komen voor tijdelijk onderwijs aan huis. De regering maakt hierbij een onderscheid tussen een veelvuldige afwezigheid en een langdurige afwezigheid.<br>
 <br>
-Een afwezigheid van minder dan eenentwintig kalenderdagen is geen langdurige afwezigheid voor de toepassing van dit artikel tenzij het gaat om een veelvuldige afwezigheid vanwege een chronische ziekte.<br>
+Een afwezigheid van minder dan eenentwintig kalenderdagen is geen langdurige afwezigheid voor de toepassing van dit artikel tenzij het gaat om een veelvuldige afwezigheid.<br>
 <br>
 § 3. De regering bepaalt hoe het onderwijs aan huis georganiseerd wordt, welke vorm van hulp de school krijgt om het onderwijs aan huis te organiseren en de voorwaarden tot het verkrijgen van uren-leraar en lesuren tijdelijk onderwijs aan huis, alsook het aantal en de wijze van berekening ervan.<br>
 <br>
@@ -2099,12 +2100,12 @@ De verplichting om tijdelijk onderwijs aan huis in te richten, vervalt voor de s
 
 ### ART. 117/1.
 
-§ 1. Synchroon internetonderwijs, verder in dit hoofdstuk SIO te noemen, biedt leerlingen voor wie het door ziekte of ongeval tijdelijk onmogelijk is om onderwijs te volgen in hun school de mogelijkheid om op afstand, via digitale toepassingen, rechtstreeks en in interactie met de leerkrachten en klasgenoten de lessen te volgen.<br>
+§ 1. Synchroon internetonderwijs, verder in dit hoofdstuk SIO te noemen, biedt leerlingen voor wie het&nbsp;tijdelijk onmogelijk is om onderwijs te volgen in hun school de mogelijkheid om op afstand, via digitale toepassingen, rechtstreeks en in interactie met de leerkrachten en klasgenoten de lessen te volgen.<br>
 <br>
 SIO ondersteunt het leerproces, beperkt de leerachterstand en bereidt de terugkeer naar school voor. Door SIO blijft de band van de afwezige leerling met de school, leerkrachten en medeleerlingen behouden.<br>
 <br>
 § 2. Leerlingen komen in aanmerking voor SIO als aan volgende voorwaarden voldaan is:<br>
-1° de school beschikt over bewijsstukken voor de afwezigheid van de leerling ten gevolge van ziekte of ongeval;<br>
+1° de leerling is afwezig wegens ziekte of ongeval en de school beschikt over de bewijsstukken;<br>
 2° het gebruik van SIO is verenigbaar met de medische toestand van de leerling. De betrokken personen brengen de behandelende arts op de hoogte; de school informeert de CLB-arts;<br>
 3° SIO is voor de betrokken leerling haalbaar en zinvol:<br>
 a) SIO komt tegemoet aan de ondersteuningsbehoefte van de leerling conform paragraaf 1, tweede lid. SIO wordt niet aangewend als permanent alternatief voor onderwijs op school;<br>
@@ -2112,6 +2113,8 @@ b) op basis van het ziektebeeld en de inschatting van het ziekteverloop mag aang
 c) de leerling en de school maken er optimaal gebruik van. Het CLB is betrokken.<br>
 <br>
 De regering kan bijkomende criteria met betrekking tot zinvolheid en haalbaarheid voor de leerling vastleggen.<br>
+<br>
+§ 2/1. De Vlaamse Regering kan bijkomende in aanmerking komende leerlingen en de respectieve voorwaarden bepalen. De redenen voor de afwezigheid op school dienen gerechtvaardigd en gegrond te zijn en worden gemotiveerd en geattesteerd door een bevoegde derde.<br>
 <br>
 § 3. Het schoolbestuur is verplicht om de betrokken personen bij leerlingen die recht hebben of zullen hebben op SIO te informeren over het recht op, de mogelijkheden en de modaliteiten van SIO.<br>
 <br>
@@ -2879,7 +2882,7 @@ De voor een structuuronderdeel toepasbare eindtermen of ontwikkelingsdoelen vorm
 
 ### ART. 143.
 
-§ 1. De ontwikkeling van eindtermen met inbegrip van eindtermen basisgeletterdheid, uitbreidingsdoelen Nederlands, ontwikkelingsdoelen en specifieke eindtermen wordt gecoördineerd door de Vlaamse Regering. De Vlaamse Regering stelt daartoe een of meerdere ontwikkelcommissies samen die ten minste bestaan uit leerkrachten uit de betrokken graad en de aansluitende graden of onderwijsniveaus, de vertegenwoordigers van het Gemeenschapsonderwijs en de verenigingen van schoolbesturen van het gesubsidieerd onderwijs en vak- en andere experten uit het hoger onderwijs. De ontwikkelcommissie formuleert een beperkt aantal sober geformuleerde, duidelijke, competentiegerichte en evalueerbare eindtermen, uitbreidingsdoelen Nederlands, ontwikkelingsdoelen en specifieke eindtermen waar de aspecten kennis, vaardigheden, inzichten en, indien van toepassing, attitudes aan bod komen. Ze duidt ook het belang en de uitgangspunten ervan aan.<br>
+§ 1. De ontwikkeling van eindtermen met inbegrip van eindtermen basisgeletterdheid, uitbreidingsdoelen Nederlands, ontwikkelingsdoelen en specifieke eindtermen wordt gecoördineerd door de Vlaamse Regering. De Vlaamse Regering stelt daartoe een of meerdere ontwikkelcommissies samen die ten minste bestaan uit leerkrachten uit de betrokken graad en de aansluitende graden of onderwijsniveaus, de vertegenwoordigers van het Gemeenschapsonderwijs en de verenigingen van schoolbesturen van het gesubsidieerd onderwijs en vak- en andere experten uit het hoger onderwijs. De ontwikkelcommissie formuleert een beperkt aantal sober geformuleerde, duidelijke, competentiegerichte en evalueerbare eindtermen, uitbreidingsdoelen Nederlands, ontwikkelingsdoelen en specifieke eindtermen waar de aspecten kennis, vaardigheden, inzichten en, indien van toepassing, attitudes aan bod komen. Ze duidt ook het belang en de uitgangspunten ervan aan. Ze bewaakt de haalbaarheid.<br>
 <br>
 De ontwikkelde eindtermen uitbreidingsdoelen Nederlands, ontwikkelingsdoelen en specifieke eindtermen worden vervolgens door de Vlaamse Regering voorgelegd aan een valideringscommissie. De valideringscommissie valideert of stuurt de ontwikkelde eindtermen, uitbreidingsdoelen Nederlands, ontwikkelingsdoelen of specifieke eindtermen terug naar de ontwikkelcommissie met het oog op bijsturing, waarna ze finaal ter validering aan de valideringscommissie worden voorgelegd.<br>
 <br>
@@ -4565,7 +4568,7 @@ Voor het onderwijs in godsdienst, niet-confessionele zedenleer, cultuurbeschouwi
 
 ### ART. 264.
 
-De ontwikkeling van ontwikkelingsdoelen wordt gecoördineerd door de Vlaamse Regering. De Vlaamse Regering stelt daartoe een of meerdere ontwikkelcommissies samen die ten minste bestaan uit leerkrachten, de vertegenwoordigers van het Gemeenschapsonderwijs en de verenigingen van schoolbesturen van het gesubsidieerd onderwijs, vak- en andere experten uit het hoger onderwijs. De ontwikkelcommissie formuleert een beperkt aantal aan sober geformuleerde duidelijke, competentiegerichte en evalueerbare ontwikkelingsdoelen waar de aspecten kennis, vaardigheden, inzichten en indien van toepassing, attitudes aan bod komen. Ze duidt tevens het belang en de uitgangspunten ervan aan.<br>
+De ontwikkeling van ontwikkelingsdoelen wordt gecoördineerd door de Vlaamse Regering. De Vlaamse Regering stelt daartoe een of meerdere ontwikkelcommissies samen die ten minste bestaan uit leerkrachten, de vertegenwoordigers van het Gemeenschapsonderwijs en de verenigingen van schoolbesturen van het gesubsidieerd onderwijs, vak- en andere experten uit het hoger onderwijs. De ontwikkelcommissie formuleert een beperkt aantal aan sober geformuleerde duidelijke, competentiegerichte en evalueerbare ontwikkelingsdoelen waar de aspecten kennis, vaardigheden, inzichten en indien van toepassing, attitudes aan bod komen. Ze duidt tevens het belang en de uitgangspunten ervan aan. Ze bewaakt de haalbaarheid.<br>
 <br>
 De ontwikkelde ontwikkelingsdoelen worden door de Vlaamse Regering voorgelegd aan een valideringscommissie. De valideringscommissie valideert of stuurt de ontwikkelde ontwikkelingsdoelen terug naar de ontwikkelcommissie met het oog op bijsturing, waarna ze finaal ter validering aan de valideringscommissie worden voorgelegd. De valideringscommissie bestaat uit leden van de onderwijsinspectie en andere experten. De valideringscommissie bewaakt de coherentie, consistentie, en evalueerbaarheid van de ontwikkelingsdoelen.<br>
 <br>
