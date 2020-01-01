@@ -27,6 +27,10 @@ In artikel 1 van het besluit van de Vlaamse Regering van 7 december 2012 tot uit
 
 In hoofdstuk 2 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 27 maart 2015, wordt afdeling 1, die bestaat uit artikel 3 tot en met 9, afdeling 2, die bestaat uit artikel 10, en afdeling 3, die bestaat uit artikel 11, opgeheven.
 
+### ART 3.
+
+In hoofdstuk 2 van hetzelfde besluit, gewijzigd bij artikel 2 van dit besluit, wordt hoofdstuk 2, dat bestaat uit afdeling 4, die bestaat uit artikel 12, en afdeling 5, die bestaat uit artikel 13 en 14, opgeheven.
+
 ### ART 4.
 
 In hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 29 november 2013, wordt het opschrift van hoofdstuk 3 vervangen door wat volgt:<br>
