@@ -86,19 +86,19 @@ De   subsidie wordt bepaald op basis van de bevolkingscijfers op 1 januari   voo
 
 ### ART. 16.
 
-Een   huisartsenkring ontvangt jaarlijks een forfaitaire subsidie voor de   werkingskosten. Die forfaitaire subsidie bedraagt 0,2260 euro per inwoner van de   huisartsenzone in kwestie.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Een huisartsenkring ontvangt jaarlijks een forfaitaire subsidie voor de werkingskosten. Die forfaitaire subsidie bedraagt 0,2136 euro per inwoner van de huisartsenzone in kwestie.
 
 ### ART. 17.
 
-Als   een huisartsenkring voor de gehele bevolking van de huisartsenzone een systeem   van centraal oproepnummer operationeel maakt, ontvangt die huisartsenkring   jaarlijks een aanvullende financiering van 0,1977 euro per inwoner van de   huisartsenzone in kwestie. Het agentschap stelt op basis van de voorwaarden,   vermeld in het koninklijk besluit van 4 juni 2003 tot vaststelling van de   voorwaarden overeenkomstig dewelke de verplichte verzekering voor geneeskundige   verzorging en uitkeringen een financiële tegemoetkoming verleent in de werking   van de huisartsenkringen erkend overeenkomstig de normen vastgesteld op basis   van artikel 9 van het koninklijk besluit nr. 78 betreffende de uitoefening van   de gezondheidszorgberoepen, een formulier ter beschikking waarmee de   huisartsenkring die subsidie kan aanvragen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Als een huisartsenkring voor de gehele bevolking van de huisartsenzone een systeem van centraal oproepnummer operationeel maakt, ontvangt die huisartsenkring jaarlijks een aanvullende financiering van 0,1868 euro per inwoner van de huisartsenzone in kwestie. Het agentschap stelt op basis van de voorwaarden, vermeld in het koninklijk besluit van 4 juni 2003 tot vaststelling van de voorwaarden overeenkomstig dewelke de verplichte verzekering voor geneeskundige verzorging en uitkeringen een financiële tegemoetkoming verleent in de werking van de huisartsenkringen erkend overeenkomstig de normen vastgesteld op basis van artikel 9 van het koninklijk besluit nr. 78 betreffende de uitoefening van de gezondheidszorgberoepen, een formulier ter beschikking waarmee de huisartsenkring die subsidie kan aanvragen.
 
 ### ART. 18.
 
-Bij   ontstentenis van een systeem van centraal oproepnummer kan een huisartsenkring   aanspraak maken op een aanvullende forfaitaire financiering van 0,1412 euro per   inwoner van een gemeente binnen de huisartsenzone in kwestie waarvan de   bevolkingsdensiteit onder de 125 inwoners per km<SUP   style="LINE-HEIGHT: normal; WIDOWS: 1; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT-FAMILY: 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); FONT-WEIGHT: normal; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2</SUP>&nbsp;ligt.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Bij ontstentenis van een systeem van centraal oproepnummer kan een huisartsenkring aanspraak maken op een aanvullende forfaitaire financiering van 0,1334 euro per inwoner van een gemeente binnen de huisartsenzone in kwestie waarvan de bevolkingsdensiteit onder de 125 inwoners per km<sup>2</sup>&nbsp;ligt.
 
 ### ART. 19.
 
-Vanaf   het werkingsjaar 2015 worden alle subsidiebedragen, vermeld in dit besluit,   jaarlijks aangepast op grond van de evolutie, tussen 30 juni van het voorlaatste   jaar en 30 juni van het vorige jaar, van de waarde van de gezondheidsindex,   vermeld in artikel 1 van het koninklijk besluit van 8 december 1997 tot bepaling   van de toepassingsmodaliteiten voor de indexering van de prestaties in de   regeling van de verplichte verzekering voor geneeskundige   verzorging.
+Vanaf het werkingsjaar 2021 worden alle subsidiebedragen, vermeld in dit besluit, jaarlijks aangepast op grond van de evolutie, tussen 30 juni van het voorlaatste jaar en 30 juni van het vorige jaar, van de waarde van de gezondheidsindex, vermeld in artikel 1 van het koninklijk besluit van 8 december 1997 tot bepaling van de toepassingsmodaliteiten voor de indexering van de prestaties in de regeling van de verplichte verzekering voor geneeskundige verzorging.
 
 ### ART. 20.
 
