@@ -131,7 +131,11 @@ De beslissing om de politieke jongerenbeweging te erkennen, niet te erkennen of 
 
 ### ART. 7.
 
-De verenigingen, vermeld in artikel 8, § 1 tot en met § 5, van het decreet van 20 januari 2012, dienen uiterlijk op 1 januari van het laatste jaar dat voorafgaat aan de vierjarige periode waarvoor de subsidie wordt gevraagd, een beleidsnota in bij de administratie.<br /><br />De minister deelt de betrokken verenigingen zijn beslissing mee uiterlijk op 30 juni. Bij een beslissing die gunstig is voor de vereniging wordt ook het jaarlijks toe te kennen subsidiebedrag meegedeeld. Indien de beslissing van de minister niet tijdig wordt meegedeeld, ontvangt de vereniging nog een jaar een subsidie ten belope van ten minste het equivalent van het subsidiebedrag dat haar werd toegekend in het lopende jaar.<br /><br />Voor 1 januari van het eerste jaar van de vierjarige periode sluiten de minister en de te subsidiëren vereniging de vierjaarlijkse overeenkomst, vermeld in artikel 8, § 8, van het decreet van 20 januari 2012.
+De verenigingen, vermeld in artikel 8, § 1 tot en met § 5, van het decreet van 20 januari 2012, dienen uiterlijk op 1 juli van het laatste jaar dat voorafgaat aan de&nbsp;periode waarvoor de subsidie wordt gevraagd, een beleidsnota in bij de administratie.<br>
+<br>
+De minister deelt de betrokken verenigingen zijn beslissing mee uiterlijk op&nbsp;15 oktober. Bij een beslissing die gunstig is voor de vereniging wordt ook het jaarlijks toe te kennen subsidiebedrag meegedeeld. Indien de beslissing van de minister niet tijdig wordt meegedeeld, ontvangt de vereniging nog een jaar een subsidie ten belope van ten minste het equivalent van het subsidiebedrag dat haar werd toegekend in het lopende jaar.<br>
+<br>
+Voor 1 januari van het eerste jaar van de vijfjarige periode sluiten de minister en de te subsidiëren vereniging de&nbsp;overeenkomst, vermeld in artikel 8, § 8, van het decreet van 20 januari 2012.
 
 ### ART. 8.
 
