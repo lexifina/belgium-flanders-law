@@ -87,7 +87,7 @@ Het agentschap bepaalt het maximale aantal personeelspunten van een subsidie-een
 11° de personeelspunten, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 8 december 2017 over de erkenning van observatie-, diagnose- en behandelingsunits;<br>
 12° de personeelspunten, vermeld in artikel 10, § 1, van het besluit van de Vlaamse Regering van 28 september 2018 over de zorg en ondersteuning voor personen met een niet-aangeboren hersenletsel of tetraplegie ten gevolge van een hoge dwarslaesie met de hoogste zorg- en ondersteuningsnood;<br>
 13° de personeelspunten, die conform artikel 12 van het besluit van de Vlaamse Regering van 14 december 2018 over de zorg en ondersteuning voor geïnterneerde personen met een handicap door vergunde zorgaanbieders, gesubsidieerd kunnen worden;<br>
-14° de personeelspunten die conform artikel 7 van het besluit van de Vlaamse Regering van 26 april 2019 over de ondersteuning van meerderjarige personen met een dubbeldiagnose en tot wijziging van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten, gesubsidieerd kunnen worden.<br>
+14° ...<br>
 <br>
 Het totale aantal zorggebonden personeelspunten, vermeld in het eerste lid, 8°, wordt per vergunde zorgaanbieder verminderd met een aantal zorggebonden personeelspunten. De tabel 4, opgenomen in de bijlage, die bij dit besluit is gevoegd, bepaalt per vergunde zorgaanbieder het aantal zorggebonden personeelspunten dat in mindering gebracht wordt.<br>
 <br>
@@ -132,7 +132,9 @@ Het agentschap berekent op basis van de gegevens, vermeld in artikel 7, voor elk
 
 ### ART 9.
 
-Het agentschap berekent voor elk personeelslid het bedrag van de eindejaarspremie conform artikel 6 van het besluit van de Vlaamse Regering van 15 december 1993 houdende de subsidiëring van de personeelskosten in bepaalde voorzieningen van de welzijnssector, op basis van het jaarlijkse brutoloon van het personeelslid, vermeld in artikel 8 van dit besluit.
+Het agentschap subsidieert voor de werknemers die het volledige kalenderjaar tewerkgesteld zijn, de eindejaarspremie die bestaat uit het geïndexeerde brutomaandloon van de maand oktober van het kalenderjaar, met inbegrip van de haard- of standplaatstoelage, maar met uitsluiting van andere toeslagen.<br>
+<br>
+Voor de werknemers, vermeld in het eerste lid, die niet het volledige kalenderjaar tewerkgesteld zijn, wordt de eindejaarspremie, vermeld in het eerste lid, toegekend naar rato van het aantal maanden tewerkstelling in het kalenderjaar.
 
 ### ART 10.
 
