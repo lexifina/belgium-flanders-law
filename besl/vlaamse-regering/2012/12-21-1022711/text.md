@@ -12,7 +12,11 @@ In dit besluit wordt verstaan onder : <BR>1° wet van 16 mei 2003 : wet van   16
 
 ### ART. 2.
 
-<P>Binnen de perken van de daartoe bestemde kredieten, ingeschreven op zijn   begroting, kan Toerisme Vlaanderen toerismesubsidies toekennen.<BR></P>  <P>Een toerismesubsidie kan de vorm aannemen van een algemene werkingssubsidie,   een investeringssubsidie of een projectsubsidie als vermeld in artikel 56 van   het decreet van 8 juli 2011. <BR></P>  <P>De gesubsidieerde activiteit moet passen in het door de Vlaamse Regering   goedgekeurde strategische beleidsplan voor het toerisme in Vlaanderen-Brussel en   in de beleidsprioriteiten van de minister, vermeld in de beleidsnota toerisme.   Toerisme Vlaanderen stelt dit plan en de beleidsnota digitaal ter   beschikking.<BR></P>
+<p>Binnen de perken van de daartoe bestemde kredieten, ingeschreven op zijn begroting, kan Toerisme Vlaanderen toerismesubsidies toekennen.</p>
+
+<p>Een toerismesubsidie kan worden verleend voor de algemene werking, een investering of een project.</p>
+
+<p>De gesubsidieerde activiteit moet passen in het door de Vlaamse Regering goedgekeurde strategische beleidsplan voor het toerisme in Vlaanderen-Brussel en in de beleidsprioriteiten van de minister, vermeld in de beleidsnota toerisme. Toerisme Vlaanderen stelt dit plan en de beleidsnota digitaal ter beschikking.</p>
 
 ## HOOFDSTUK 2. Bepalingen inzake investeringssubsidies en projectsubsidies
 
@@ -104,7 +108,7 @@ Als de Vlaamse overheid voor dezelfde activiteit meer dan een subsidie   heeft t
 
 ### ART. 21.
 
-<P>Met behoud van de toepassing van andere verbodsbepalingen die voortvloeien   uit een wet, decreet, ordonnantie, reglement of statuut, is het elke ambtenaar,   openbare gezagsdrager of andere persoon die belast is met een functie bij de   Vlaamse overheid of die tussenpersoon als vermeld in artikel 55, § 2, 2°, van   het decreet van 8 juli 2011, verboden een subsidie te behandelen, toe te kennen   of de aanwending ervan goed te keuren zodra hij daardoor, persoonlijk of via een   tussenpersoon, zou kunnen terechtkomen in een toestand van   belangenvermenging.<BR></P>  <P>Als de bepalingen van dit artikel niet worden nageleefd is de beslissing tot   toekenning van een subsidie nietig. Eventueel reeds uitgekeerde bedragen worden   volledig teruggestort.</P>
+...
 
 ## HOOFDSTUK 5. Beroep bij de minister
 
