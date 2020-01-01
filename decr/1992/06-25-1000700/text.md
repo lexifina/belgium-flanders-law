@@ -74,7 +74,7 @@ Het Investeringsfonds voor grond- en woonbeleid voor Vlaams-Brabant,   opgericht
 
 ### ART. 17.
 
-<P>Het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant   heeft rechtspersoonlijkheid. Het wordt opgericht als een Vlaamse openbare   instelling van het type A in de zin van het decreet van 8 juli 2011 houdende   regeling van de begroting, de boekhouding, de toekenning van subsidies en de   controle op de aanwending ervan, en de controle door het Rekenhof. De bepalingen   van het voormelde decreet zijn op het fonds van toepassing voor zover er in dit   decreet niet wordt van afgeweken.</P>
+<p>Het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant heeft rechtspersoonlijkheid. Het wordt opgericht als een Vlaamse openbare instelling van het type A. De Vlaamse Codex Overheidsfinanciën van 29 maart 2019 is op het fonds van toepassing voor zover er in dit decreet niet wordt van afgeweken.</p>
 
 ### ART. 18.
 
@@ -282,7 +282,7 @@ Onverminderd de regelen inzake delegatie en inzake administratieve en begrotings
 
 ### ART. 61.
 
-Wordt opgericht als dienst met afzonderlijk beheer: de beheersdienst van het Koninklijk Museum voor Schone Kunsten te Antwerpen.
+...
 
 ### ART. 62.
 
