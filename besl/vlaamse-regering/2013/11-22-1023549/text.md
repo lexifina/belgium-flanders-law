@@ -15,7 +15,7 @@ In dit besluit wordt verstaan onder :<br>
 1°/1 basissubsidie : de subsidie voor de realisatie van een basisaanbod met een werking, vermeld in artikel 7 van het decreet van 20 april 2012;<br>
 2° contracthouder : de persoon uit het gezin waarmee de organisator een schriftelijke overeenkomst voor kinderopvang heeft;<br>
 3° decreet van 20 april 2012 : het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
-3° /1 flexibele openingstijden: een openingstijd van minstens 30 minuten voor 7 uur, minstens 30 minuten na 18 uur, op een weekenddag, op een feestdag, of, voor groepsopvang, op een of meer dagen boven op de 220 openingsdagen die minimaal vereist zijn voor een basissubsidie;<br>
+3° /1 ...;<br>
 3° /2 formeel document: hetzij een inkomensbewijs, hetzij een formele bevestiging van het inkomen door een instantie of de organisator die voorzien is van een datum en een handtekening;<br>
 4° gesubsidieerde kinderopvangplaats : een kinderopvangplaats waarvoor het agentschap een subsidie betaalt aan de organisator;<br>
 5° gezin : een of meer personen in het thuismilieu van het opgevangen kind die de verantwoordelijkheid voor dat kind dragen;<br>
@@ -32,26 +32,28 @@ b) wat de financiële situatie betreft, een inkomen hebben dat lager is dan een 
 c) wat de gezinssamenstelling betreft, alleenstaand zijn, meer bepaald niet gehuwd zijn of geen domicilie hebben met een persoon van wie het inkomen in aanmerking komt voor de bepaling van het inkomenstarief;<br>
 d) wat de gezondheid en zorgsituatie betreft, beantwoorden aan minstens een van de volgende drie kenmerken :<br>
 1) een gezinslid met een handicap hebben, waaronder wordt verstaan : voor volwassenen, de handicap vermeld in artikel 135, eerste lid, 1°, van het Wetboek van de Inkomstenbelastingen, en voor minderjarigen, het in aanmerking komen voor verhoogde kinderbijslag;<br>
-2) een gezinslid hebben dat gebruik maakt van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming;<br>
+2) een gezinslid hebben dat gebruik maakt van een of meer van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 1° en 3°, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 3) in de context van hulpverlening aan het gezin of van inburgering van het gezin, is het voor de kinderen om sociale of pedagogische redenen wenselijk dat ze overdag opgevangen worden in de kinderopvang;<br>
 e) wat het opleidingsniveau betreft, geen diploma secundair onderwijs hebben;<br>
 11° minister : de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
 12° openingsdag : een dag waarop er minstens één opgevangen kind is;<br>
-13° opgevangen kind : een kind voor wie er minstens één kinderopvangprestatie is;<br>
+13° opgevangen kind: een kind voor wie er minstens één kinderopvangprestatie is. Er zijn twee soorten opgevangen kinderen:<br>
+a) opgevangen kind met inkomenstarief: het opgevangen kind waarvoor de organisator het systeem inkomenstarief toepast;<br>
+b) opgevangen kind met vrije prijs: het opgevangen kind waarvoor de organisator een vrije prijs vraagt;<br>
 14° plussubsidie : de subsidie voor de realisatie van kinderopvangopdrachten ter ondersteuning van kwetsbare gezinnen en voor de realisatie van toegang voor die gezinnen, vermeld in artikel 9 van het decreet van 20 april 2012;<br>
 14° /1 subsidie voor Centrum inclusieve kinderopvang: de subsidie voor het voeren van een proactief opnamebeleid, de realisatie van inclusieve kinderopvang, de verspreiding van expertise en sensibiliseren inzake inclusieve kinderopvang, in samenwerking met andere actoren die instaan voor inclusie, aan een organisator met minstens 22 gesubsidieerde kinderopvangplaatsen met een subsidie voor inkomenstarief binnen die zorgregio;<br>
+14° /2 subsidie voor dringende kinderopvang: de subsidie voor de realisatie van een specifieke opdracht als vermeld in artikel 10, 3°, van het decreet van 20 april 2012, meer bepaald de organisatie van kinderopvang op heel korte termijn en in afwachting van doorstroming van het kind naar de reguliere kinderopvang, als dat nodig is;<br>
 15° subsidie voor inclusieve kinderopvang : de subsidie voor de realisatie van opdrachten in het kader van inclusieve kinderopvang van kinderen met een specifieke zorgbehoefte, vermeld in artikel 10, 2°, van het decreet van 20 april 2012;<br>
 16° subsidie voor individuele inclusieve kinderopvang : de subsidie voor de realisatie van inclusieve kinderopvang van een individueel kind met een specifieke zorgbehoefte voor wie het agentschap een specifieke toekenning van bepaalde duur deed;<br>
 17° subsidie voor inkomenstarief : de subsidie voor de realisatie van kinderopvang waarvoor de gezinnen een prijs betalen op basis van het inkomen, en voor de realisatie van toegang tot de kinderopvang voor bepaalde gezinnen, vermeld in artikel 8 van het decreet van 20 april 2012;<br>
-17° /1 subsidie voor kinderopvang met flexibele openingstijden: de subsidie voor de realisatie van kinderopvang op flexibele openingstijden, vermeld in artikel 10, 1°, van het decreet van 20 april 2012. Binnen die subsidie zijn er drie vormen te onderscheiden;<br>
-a) subsidie flexibele gezinsopvang: de subsidie voor kinderopvang op flexibele openingstijden in een kinderopvanglocatie voor gezinsopvang;<br>
-b) subsidie flexibele groepsopvang: de subsidie voor kinderopvang op flexibele openingstijden in een kinderopvanglocatie voor groepsopvang;<br>
-c) subsidie flexibele urenpakketten groepsopvang: de subsidie voor kinderopvangprestaties op flexibele openingstijden, voor een door Kind en Gezin toegekend aantal urenpakketten;<br>
+17° /1 subsidie voor kinderopvang met flexibele openingstijden: de subsidie voor de realisatie van kinderopvang op flexibele openingstijden, vermeld in artikel 10, 1°, van het decreet van 20 april 2012. Binnen die subsidie zijn de volgende vormen te onderscheiden:<br>
+a) subsidie flexibele gezinsopvang: de subsidie voor kinderopvang op atypische openingsmomenten in een kinderopvanglocatie voor gezinsopvang;<br>
+b) subsidie voor ruimere openingsmomenten: de subsidie voor kinderopvang op atypische openingsmomenten in een kinderopvanglocatie voor groepsopvang;<br>
 18° subsidie voor structurele inclusieve kinderopvang : de subsidie voor de realisatie van de structurele uitbouw van inclusieve kinderopvang binnen een kinderopvanglocatie;<br>
 19° subsidieerbare kinderopvangplaats : een kinderopvangplaats waarvoor de organisator over een beslissing tot toekenning van een subsidie van het agentschap beschikt;<br>
 20° subsidiegroep : een groep van kinderopvanglocaties van hetzij gezinsopvang, hetzij groepsopvang, van dezelfde organisator binnen een geografisch afgebakend gebied. Voor gezinsopvang is dat gebied de zorgregio. Voor groepsopvang is dat gebied de gemeente, met uitzondering van het tweetalige gebied Brussel Hoofdstad waar dit gebied de zorgregio is;<br>
 21° 's nachts : tussen 20 uur en 6 uur;<br>
-22° urenpakket: een gesubsidieerd pakket dat de organisator moet inzetten voor kinderopvang op flexibele openingstijden.
+22° ...
 
 ### ART. 1/1.
 
@@ -89,7 +91,17 @@ Dit besluit wordt aangehaald als: Subsidiebesluit van 22 november   2013.
 
 ### ART. 6.
 
-<P>De subsidies worden toegekend binnen een subsidiegroep, wat onder meer   impliceert dat :<BR>1° de subsidieerbare kinderopvangplaatsen toegekend worden   aan de organisator op het niveau van een subsidiegroep;<BR>2° de subsidies   berekend en betaald worden aan de organisator per subsidiegroep;<BR>3° de   organisator moet voldoen aan de voorwaarden voor de realisatie van specifieke   dienstverlening zodra een subsidieerbare kinderopvangplaats omgezet wordt in een   gesubsidieerde kinderopvangplaats, met uitzondering van de voorwaarde, vermeld   in artikel 24, waaraan de organisator moet voldoen voor de aanvraag van de   subsidie. De organisator bepaalt in welke kinderopvanglocaties van de   subsidiegroep hij de specifieke dienstverlening zal realiseren. De voorwaarden   voor de realisatie van specifieke dienstverlening gelden voor alle   kinderopvangplaatsen van die kinderopvanglocatie;<BR>4° de subsidies alleen   betaald worden aan kinderopvanglocaties waarbij de vergunning geen statuut   niet-actief heeft.<BR></P>  <P>De subsidieerbare kinderopvangplaatsen blijven behouden binnen een   subsidiegroep :<BR>1° in geval van verhuizing van een kinderopvanglocatie binnen   dezelfde subsidiegroep;<BR>2° als het aantal vergunde kinderopvangplaatsen lager   wordt dan het aantal subsidieerbare kinderopvangplaatsen. De subsidieerbare   kinderopvangplaatsen zijn dan voorbehouden gedurende een bepaalde   termijn.<BR></P>  <P>De minister bepaalt de nadere regels, onder meer de invulling van het   voorbehoud.<BR></P>
+<p>De subsidies worden toegekend binnen een subsidiegroep, wat onder meer impliceert dat :<br>
+1° de subsidieerbare kinderopvangplaatsen toegekend worden aan de organisator op het niveau van een subsidiegroep;<br>
+2° de subsidies berekend en betaald worden aan de organisator per subsidiegroep;<br>
+3° de organisator moet voldoen aan de voorwaarden voor de realisatie van specifieke dienstverlening zodra een subsidieerbare kinderopvangplaats wordt omgezet in een gesubsidieerde kinderopvangplaats, met uitzondering van de voorwaarde vermeld in artikel 21 die niet geldt voor de kinderopvangplaatsen die de organisator met een vrije prijs organiseert in dezelfde kinderopvanglocatie, en met uitzondering van de voorwaarde, vermeld in artikel 24, waaraan de organisator moet voldoen voor de aanvraag van de subsidie. De organisator bepaalt in welke kinderopvanglocaties van de subsidiegroep hij de specifieke dienstverlening realiseert. De voorwaarden voor de realisatie van specifieke dienstverlening gelden voor alle kinderopvangplaatsen van die kinderopvanglocatie;<br>
+4° de subsidies alleen betaald worden aan kinderopvanglocaties waarbij de vergunning geen statuut niet-actief heeft.</p>
+
+<p>De subsidieerbare kinderopvangplaatsen blijven behouden binnen een subsidiegroep :<br>
+1° in geval van verhuizing van een kinderopvanglocatie binnen dezelfde subsidiegroep;<br>
+2° als het aantal vergunde kinderopvangplaatsen lager wordt dan het aantal subsidieerbare kinderopvangplaatsen. De subsidieerbare kinderopvangplaatsen zijn dan voorbehouden gedurende een bepaalde termijn.</p>
+
+<p>De minister bepaalt de nadere regels, onder meer de invulling van het voorbehoud.</p>
 
 ### ART. 7.
 
@@ -201,7 +213,7 @@ De basissubsidie voor groepsopvang bedraagt&nbsp;752,28 euro per gesubsidieerde 
 
 <p>Het deel op basis van kinderopvangprestaties, vermeld in het eerste lid, 1°, wordt als volgt berekend :<br>
 1° de subsidie bedraagt 23,24 euro voor een kinderopvangprestatie die vijf tot elf uur duurt, en bedraagt 60% van dat bedrag voor een kinderopvangprestatie die minder dan vijf uur duurt;<br>
-2° alle kinderopvangprestaties van elke kinderopvanglocatie gezinsopvang uit de subsidiegroep die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36, tellen mee, met uitzondering van de volgende kinderopvangprestaties :<br>
+2° alle kinderopvangprestaties van elke kinderopvanglocatie gezinsopvang uit de subsidiegroep die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1, tellen mee, met uitzondering van de volgende kinderopvangprestaties :<br>
 a) de kinderopvangprestaties 's nachts;<br>
 b) de kinderopvangprestaties voor de kinderen die tot het thuismilieu van de kinderbegeleider gezinsopvang behoren, en voor wie de kinderbegeleider de verantwoordelijkheid draagt;<br>
 c) de kinderopvangprestaties waarvoor de organisator ervoor kiest om niet met het systeem inkomenstarief te werken als vermeld in artikel 27, tweede lid;<br>
@@ -222,12 +234,14 @@ De minister bepaalt de nadere regels, onder meer op welke wijze de verantwoordel
 
 <p>Het deel op basis van kinderopvangprestaties, vermeld in het eerste lid, 1°, wordt als volgt berekend :<br>
 1° de subsidie bedraagt 23,37 euro voor een kinderopvangprestatie die vijf tot elf uur duurt, en bedraagt 60% van dat bedrag voor een kinderopvangprestatie die minder dan vijf uur duurt;<br>
-2° alle kinderopvangprestaties, met uitzondering van kinderopvangprestaties 's nachts, van elke kinderopvanglocatie groepsopvang uit de subsidiegroep die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36, tellen mee;<br>
+2° alle kinderopvangprestaties van elke kinderopvanglocatie groepsopvang uit de subsidiegroep die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1, tellen mee, met uitzondering van de volgende kinderopvangprestaties:<br>
+a) de kinderopvangprestaties 's nachts;<br>
+b) de kinderopvangprestaties waarvoor de organisator ervoor kiest om niet met het systeem inkomenstarief te werken als vermeld in artikel 27, tweede lid;<br>
 3° er worden niet meer kinderopvangprestaties gesubsidieerd dan 120% van het aantal gesubsidieerde kinderopvangplaatsen, vermenigvuldigd met het minimum aantal verplichte openingsdagen, vermeld in artikel 14. Voor de berekening van dat percentage tellen kinderopvangprestaties die vijf tot elf uur duren, mee voor 100%, en kinderopvangprestaties die minder dan vijf uur duren, voor 60%.</p>
 
 <p>Het deel op basis van de leeftijd van de personen, vermeld in het eerste lid, 2°, wordt als volgt berekend :<br>
-1° de subsidie bedraagt 5355,75 euro per gesubsidieerde kinderopvangplaats per kalenderjaar als de gemiddelde leeftijd van deze personen twintig jaar is;<br>
-2° voor elk jaar boven op de gemiddelde leeftijd van twintig jaar wordt de subsidie verhoogd met 96,76 euro per gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van zestig jaar;<br>
+1° de subsidie bedraagt&nbsp;5286,12 euro per gesubsidieerde kinderopvangplaats per kalenderjaar als de gemiddelde leeftijd van deze personen twintig jaar is;<br>
+2° voor elk jaar boven op de gemiddelde leeftijd van twintig jaar wordt de subsidie verhoogd met 95,5 euro per gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van zestig jaar;<br>
 3° de gemiddelde leeftijd wordt berekend op basis van alle leeftijden en de werkregeling van deze personen.</p>
 
 <p>De minister bepaalt de nadere regels, onder meer op welke wijze de verantwoordelijken, de kinderbegeleiders en de medewerkers, vermeld in het eerste lid, 2°, meetellen voor de berekening van de gemiddelde leeftijd en hoe hun werkregeling in rekening gebracht wordt.</p>
@@ -248,7 +262,11 @@ Op de minimale openingsdagen, vermeld in het eerste lid en in artikel 14, eerste
 
 ### ART. 21.
 
-<P>De organisator heeft een bezetting van minstens 80% per kalenderjaar. De   bezetting wordt berekend op basis van 220 openingsdagen en het aantal   gesubsidieerde kinderopvangplaatsen waarvoor de organisator de subsidie voor   inkomenstarief krijgt.<BR></P>  <P>Voor de berekening van de bezetting worden alle kinderopvangprestaties van de   opgevangen kinderen van de kinderopvanglocaties van dezelfde subsidiegroep, die   voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 36, in aanmerking   genomen.<BR></P>  <P>De minister bepaalt de nadere regels, onder meer de berekening van de   bezetting.<BR></P>
+<p>De organisator heeft een bezetting van minstens 80% per kalenderjaar. De bezetting wordt berekend op basis van 220 openingsdagen en het aantal gesubsidieerde kinderopvangplaatsen waarvoor de organisator de subsidie voor inkomenstarief krijgt.</p>
+
+<p>Voor de berekening van de bezetting worden alle kinderopvangprestaties van de opgevangen kinderen met inkomenstarief van de kinderopvanglocaties van dezelfde subsidiegroep, die voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 36/1, in aanmerking genomen.</p>
+
+<p>De minister bepaalt de nadere regels, onder meer de berekening van de bezetting.</p>
 
 ## Afdeling 2 Toegang bepaalde gezinnen
 
@@ -280,73 +298,47 @@ De organisator met meer dan achttien subsidieerbare plaatsen op het niveau   van
 
 ### ART. 27.
 
-<P>De organisator werkt met het systeem inkomenstarief, vermeld in artikel 28   tot en met 36, voor alle kinderopvangplaatsen van de kinderopvanglocatie,   uitgezonderd voor de kinderen die tot het thuismilieu van de kinderbegeleider   gezinsopvang behoren, en voor wie de kinderbegeleider de verantwoordelijkheid   draagt.<BR><BR>De organisator kan ervoor kiezen om niet met het systeem   inkomenstarief te werken voor :<BR>1° de kinderen die met de kinderbegeleider   gezinsopvang of met de partner van de kinderbegeleider gezinsopvang verwant zijn   tot en met de vierde graad;<BR>2° de gereserveerde kinderopvangdagen binnen het   recht van het gezin op wennen met toepassing van artikel 29/1.</P>
+<p>De organisator werkt met het systeem inkomenstarief, vermeld in artikel 28 tot en met 36/1, voor alle kinderopvangplaatsen van de kinderopvanglocatie, uitgezonderd voor de kinderen die tot het thuismilieu van de kinderbegeleider gezinsopvang behoren, en voor wie de kinderbegeleider de verantwoordelijkheid draagt.<br>
+<br>
+De organisator kan ervoor kiezen om niet met het systeem inkomenstarief te werken voor :<br>
+1° de kinderen die met de kinderbegeleider gezinsopvang of met de partner van de kinderbegeleider gezinsopvang verwant zijn tot en met de vierde graad;<br>
+2° de gereserveerde kinderopvangdagen binnen het recht van het gezin op wennen met toepassing van artikel 29/1;<br>
+3° de kinderen die hij opvangt op de kinderopvangplaatsen bovenop de subsidieerbare kinderopvangplaatsen met subsidie voor inkomenstarief. Dat geldt niet voor de organisator die werkt met kinderbegeleiders in het sociaal statuut van de aangesloten onthaalouders.</p>
 
 ### ART 27/1.
 
-Het agentschap kan bij wijze van experiment beslissen om aan de organisator toe te laten om in afwijking van artikel 27 niet voor alle kinderopvangplaatsen op zijn kinderopvanglocatie te werken volgens het systeem inkomenstarief, vermeld in artikel 28 tot en met 36. De afwijking geldt voor de bijkomende kinderopvangplaatsen boven op de bestaande subsidieerbare kinderopvangplaatsen.<br>
+De organisator die een beroep doet op de mogelijkheid, vermeld in artikel 27, tweede lid, 3°, kan voor de kinderopvang van de kinderen, vermeld in artikel 27, tweede lid, 3°, een vrije prijs vragen aan de gezinnen.<br>
 <br>
-In het kader van een algemene oproep tot experiment via UnieKO, het Vlaams Welzijnsverbond, SOM, VVSG, VoorZet, 't OpZet en Unizo worden maximaal tien kinderopvanglocaties van tien verschillende organisatoren toegelaten tot het experiment, vermeld in het eerste lid, waarbij ernaar gestreefd wordt om de volgende types kinderopvanglocatie aan bod te laten komen:<br>
-1° kinderopvanglocaties waarvan de organisator groepsopvang maar één kinderopvanglocatie in de gemeente in kwestie heeft of de organisator gezinsopvang maar één kinderopvanglocatie in de zorgregio in kwestie heeft;<br>
-2° kinderopvanglocaties waarvan de organisator groepsopvang twee of meer kinderopvanglocaties in de gemeente in kwestie heeft of de organisator gezinsopvang twee of meer kinderopvanglocaties in de zorgregio in kwestie heeft;<br>
-3° kinderopvanglocaties die gebruikmaken van een systeem waarbij de betaling van de vrije prijs gebeurt door een persoon of instantie die niet de contracthouder zelf is;<br>
-4° kinderopvanglocaties die voor de inwerkingtreding van het decreet van 20 april 2012 een erkenning hadden van Kind en Gezin;<br>
-5° kinderopvanglocaties die ook op de plaatsen met vrije prijs het systeem van inkomenstarief toepassen.<br>
+In het geval, vermeld in het eerste lid, voldoet de organisator aan al de volgende voorwaarden:<br>
+1° voldoende beleidsvoerend vermogen hebben om kwaliteitsvol met twee prijssystemen in één kinderopvanglocatie te werken;<br>
+2° een duidelijk beleid uitgewerkt hebben over zijn aanpak van de combinatie van twee prijssystemen in de kinderopvanglocatie en het gebruik van de vrije prijs. Dat beleid is opgenomen in het huishoudelijk reglement en vermeldt de mogelijkheid en de criteria voor gezinnen om door te schuiven van een vrije prijs naar het systeem inkomenstarief of omgekeerd;<br>
+3° met elke contracthouder voor een bepaald kind maar één schriftelijke overeenkomst hebben. Daarbij kan niet gelijktijdig met het systeem inkomenstarief en met een vrije prijs worden gewerkt;<br>
+4° voor alle opgevangen kinderen met inkomenstarief en alle opgevangen kinderen met vrije prijs eenzelfde dienstverlening bieden;<br>
+5° op een subsidieerbare plaats met subsidie voor inkomenstarief voorrang geven aan een kind uit een gezin dat beantwoordt aan ten minste twee van de kenmerken, vermeld in artikel 22, eerste lid, 1° tot en met 4°.<br>
 <br>
-Het agentschap geeft een score aan elke aanvraag op basis van de volgende criteria:<br>
-1° de organisator heeft een plan om binnen het experiment een mix van kinderen uit gezinnen met diverse socio-economische en culturele achtergronden, te realiseren;<br>
-2° de organisator heeft een strategie om met de gezinnen te communiceren over het experiment, onder meer over het hanteren van de verschillende prijssystemen;<br>
-3° de organisator heeft een strategie om met andere organisatoren van kinderopvang in de buurt, het lokaal bestuur en het Lokaal Overleg Kinderopvang te communiceren over de aanpak van het experiment;<br>
-4° de organisator heeft een duidelijk zicht op de te verwachten evolutie in zijn financiële toestand door het deelnemen aan het experiment.<br>
+Voor de contracthouders van opgevangen kinderen met vrije prijs zijn artikel 28 tot en met 36/1, artikel 40/3 en 40/10 niet van toepassing.<br>
 <br>
-Het agentschap geeft op de criteria, vermeld in het derde lid, de volgende scores:<br>
-1° nul punten als het antwoord op de vraag naast de kwestie of niet beargumenteerd is;<br>
-2° twee punten als het antwoord op de vraag erg vaag en onvoldoende beargumenteerd is;<br>
-3° vier punten als het antwoord op de vraag volstaat, maar slechts net voldoende beargumenteerd is;<br>
-4° zes punten als het antwoord op de vraag goed beargumenteerd of innovatief is.<br>
-<br>
-Een aanvraag die op een of meerdere van de criteria nul punten scoort of een aanvraag die in totaal minder dan 50 % scoort, wordt uitgesloten.<br>
-<br>
-Als er meer dan twee aanvragers zijn voor één van de types kinderopvanglocaties, vermeld in het tweede lid, komen de aanvragen met de hoogste score in aanmerking.<br>
-<br>
-Als een kandidaat bij de twee hoogste scores tot verschillende categorieën behoort of als er een ex aequo bij de twee hoogste scores is, dan streeft het agentschap naar een zo divers mogelijke staalkaart. Daarbij worden de volgende criteria gebruikt:<br>
-1° de grootte van de opvanglocatie;<br>
-2° de verhouding van de opvangplaatsen met inkomenstarief en de opvangplaatsen met vrije prijs binnen de opvanglocatie;<br>
-3° de nood aan opvang in de regio op basis van het aantal beschikbare opvangplaatsen ten opzichte van het aantal kinderen uit de doelgroep;<br>
-4° het aantal en het percentage opvangplaatsen met inkomenstarief en vrije prijs in de gemeente;<br>
-5° de socio-economische context.<br>
-<br>
-Een afwijking is mogelijk voor schriftelijke overeenkomsten die in het kader van het experiment gesloten of aangepast zijn vóór 1 april 2018 en kan duren tot het opgevangen kind naar de basisschool gaat, tenzij als het kind niet naar de basisschool gaat, dan kan het duren tot dat kind drie en een half jaar is.
+Als de organisator niet voldoet aan de voorwaarden, vermeld in het tweede lid, kan het agentschap beslissen dat de organisator geen gebruik kan maken van de mogelijkheid, vermeld in artikel 27, tweede lid, 3°.
 
 ### ART 27/2.
 
-De organisator zorgt voor de aanvang van het experiment, vermeld in artikel 27/1, voor een beleid over de vrije prijs, waarbij de volgende elementen aan bod komen:<br>
-1° de manier waarop de vrije prijs voor de kinderopvang ten aanzien van elke contracthouder die betrokken is bij het voormelde experiment, wordt bepaald;<br>
-2° het aandeel kinderopvangplaatsen met een vrije prijs ten opzichte van de kinderopvangplaatsen met inkomenstarief;<br>
-3° de criteria die worden gehanteerd om een kinderopvangplaats met vrije prijs of een kinderopvangplaats met inkomenstarief toe te kennen.
+...
 
 ### ART 27/3.
 
-De organisator zorgt voor de aanvang van het experiment, vermeld in artikel 27/1, voor een aangepaste schriftelijke overeenkomst ten aanzien van de contracthouder die betrokken is bij het voormelde experiment, waarbij elke contracthouder maar één schriftelijke overeenkomst kan hebben en waarbij de volgende elementen zijn opgenomen:<br>
-1° de start van de vrije prijs;<br>
-2° de verbintenis om binnen de schriftelijke overeenkomst niet gelijktijdig zowel met inkomenstarief als zonder inkomenstarief te werken.<br>
-<br>
-De organisator zorgt voor de aanvang van het voormelde experiment voor een aangepast huishoudelijk reglement ten aanzien van alle contracthouders van de kinderopvanglocatie, waarbij het beleid, vermeld in artikel 27/3, voor het voormelde experiment wordt opgenomen.
+...
 
 ### ART 27/4.
 
-De organisator houdt de volgende gegevens bij gedurende het experiment, vermeld in artikel 27/1, volgens de administratieve richtlijnen van Kind en Gezin:<br>
-1° de globale financiële situatie van de kinderopvanglocatie, meer bepaald welke persoon of instantie de vrije prijs effectief betaalt en welke kosten verbonden zijn aan het vragen van een vrije prijs;<br>
-2° de contactgegevens van de contracthouders die meestappen in het voormelde experiment en van de andere contracthouders binnen de kinderopvanglocatie, met het oog op een tevredenheidsbevraging door Kind en Gezin;<br>
-3° het aantal kinderopvangprestaties met vrije prijs.
+...
 
 ### ART 27/5.
 
-De organisator informeert het lokaal bestuur en het Lokaal Overleg Kinderopvang van de gemeente van zijn kinderopvanglocatie over de deelname aan het experiment, vermeld in artikel 27/1, voor de aanvang ervan en neemt actief deel aan het Lokaal Overleg Kinderopvang.
+...
 
 ### ART 27/6.
 
-Kind en Gezin kan de afwijkingsbeslissing intrekken als de voorwaarden, vermeld in artikel 27/1 tot en met 27/6, niet nageleefd worden.
+...
 
 ## [Onderafdeling 2 Betalen voor gereserveerde kinderopvangdagen (verv. BVR 4 april 2014, art. 22, I: 1 april 2014)]
 
@@ -541,10 +533,10 @@ De organisator heeft procedures en processen voor de dienstverlening,   vermeld 
 ### ART. 40/1.
 
 De subsidie flexibele gezinsopvang bedraagt:<br>
-1° per kinderopvangprestatie op&nbsp;atypische openingsmomenten met een maximum van één subsidie per kind per dag: 2,87 euro;<br>
+1° per kinderopvangprestatie van een opgevangen kind met inkomenstarief op atypische openingsmomenten met een maximum van één subsidie per kind per dag: 2,87 euro;<br>
 2° per gesubsidieerde kinderopvangplaats met een subsidie voor inkomenstarief per kalenderjaar: 10,75 euro.<br>
 <br>
-Bovendien bedraagt de subsidie, vermeld in artikel 17, tweede lid, 1°, 160% van dat bedrag voor een kinderopvangprestatie die langer dan elf uur duurt of voor een kinderopvangprestatie 's nachts. In afwijking van artikel 17, tweede lid, 2°, tellen alle kinderopvangprestaties mee, met inbegrip van kinderopvangprestaties 's nachts.<br>
+Bovendien bedraagt de subsidie, vermeld in artikel 17, tweede lid, 1°, 160% van dat bedrag voor een kinderopvangprestatie die langer dan elf uur duurt of voor een kinderopvangprestatie 's nachts. In afwijking van artikel 17, tweede lid, 2°, tellen, met uitzondering van de kinderopvangprestaties vermeld in artikel 17, tweede lid, 2°, c), alle kinderopvangprestaties mee, met inbegrip van kinderopvangprestaties 's nachts.<br>
 <br>
 Als binnen de perken van de daarvoor vastgelegde kredieten binnen de begroting nog budget overblijft na de betaling van de subsidie flexibele gezinsopvang per kinderopvangprestatie, vermeld in het eerste lid, 1°, en na de betaling van de subsidie flexibele gezinsopvang per gesubsidieerde kinderopvangplaats, vermeld in het eerste lid, 2°, wordt dit resterende budget als volgt verdeeld:<br>
 1° het bedrag per kinderopvangprestatie, vermeld in het eerste lid, 1°, wordt verhoogd met maximaal 0,50 euro;<br>
@@ -608,7 +600,7 @@ De organisator met meer dan achttien vergunde kinderopvangplaatsen neemt in het 
 
 ### ART. 40/10.
 
-Gezinnen betalen het inkomenstarief voor de opvang op ruimere openingsmomenten, vermeld in artikel 40/6, met inbegrip van de kinderopvangprestaties `s nachts, indien de organisator deze ruimere openingsmomenten realiseert in een kinderopvanglocatie waarvoor hij subsidies voor inkomenstarief krijgt. In dat geval tellen de kinderopvangprestaties mee voor de subsidie voor inkomenstarief, meer bepaald het deel op basis van kinderopvangprestaties, en in afwijking van hetgeen bepaald wordt in artikel 18, tweede lid, 2° geldt dit ook voor de kinderopvangprestaties `s nachts.
+Gezinnen betalen het inkomenstarief voor de opvang op ruimere openingsmomenten, vermeld in artikel 40/6, met inbegrip van de kinderopvangprestaties `s nachts, indien de organisator deze ruimere openingsmomenten realiseert in een kinderopvanglocatie waarvoor hij subsidies voor inkomenstarief krijgt. In dat geval tellen de kinderopvangprestaties van de opgevangen kinderen met inkomenstarief mee voor de subsidie voor inkomenstarief, meer bepaald het deel op basis van kinderopvangprestaties, en in afwijking van hetgeen bepaald wordt in artikel 18, tweede lid, 2° geldt dit ook voor de kinderopvangprestaties `s nachts.
 
 ## [TITEL 4/2 Subsidie voor dringende kinderopvang (ing. BVR 9 november 2018, art. 9, I: 1 januari 2019)]
 
