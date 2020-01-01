@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032626,
+  "title": "Ministerieel besluit van 2020-01-14 met betrekking tot de organisatie en de vergoeding bij cliëntoverleg en bemiddeling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032626/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "edae814a4869bbe550859b4778681db09aada8bcba6d8fea6bc75a17138f63f2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032626&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2020-01-14",
+  "gazette": "2020-01-30",
+  "numac": 2020010274,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
