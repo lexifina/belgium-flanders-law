@@ -627,7 +627,8 @@ Bij het&nbsp;beleidsdomein Omgeving wordt een Dienst met Afzonderlijk Beheer opg
 
 ### ART. 59.
 
-De Vlaamse Regering regelt, in toepassing van artikel 3 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, de werking en het beheer van het Fonds.<br /><br />
+De Vlaamse Regering regelt, in toepassing van artikel 109 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, de werking en het beheer van het Fonds.<br>
+&nbsp;
 
 ### ART. 60.
 
