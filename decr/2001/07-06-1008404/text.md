@@ -204,13 +204,13 @@ De indirecte schuld, zoals gedefinieerd in artikel 2, 2°, van het decreet van 1
 
 ### ART. 33.
 
-§ 1. Bij elk op 1 januari 2007 bestaand Vlaams ministerie wordt er een fonds, in de zin van artikel 45 van de gecoördineerde wetten op de Rijkscomptabiliteit, opgericht voor de aanwending van de terugbetaling van salarissen van personeelsleden binnen het Vlaams ministerie die ten laste genomen worden door andere overheden of vakorganisaties.<br>
+§ 1. Bij elk op 1 januari 2007 bestaand Vlaams ministerie wordt er een fonds, in de zin van artikel 15, § 2 en § 3, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, opgericht voor de aanwending van de terugbetaling van salarissen van personeelsleden binnen het Vlaams ministerie die ten laste genomen worden door andere overheden of vakorganisaties.<br>
 <br>
 § 2. Aan ieder fonds worden toegewezen :<br>
 - alle terugvorderingen van wedden en ermee samenhangende vergoedingen of kosten met betrekking tot personeelsleden van het betrokken Vlaams ministerie die ten laste genomen worden door andere overheden of vakorganisaties;<br>
 - een gedeelte van het vastleggings- en ordonnanceringssaldo op 31 december 2006 dat bij besluit van de Vlaamse Regering zal worden vastgesteld.<br>
 <br>
-§ 3. De middelen van ieder fonds dienen aangewend te worden voor de betaling van wedden en weddentoelagen van de ter vervanging aangeworven personeelsleden.<br>
+§ 3. De middelen van ieder fonds dienen aangewend te worden voor de betaling van wedden en weddentoelagen van de ter vervanging aangeworven personeelsleden of van de personeelsleden binnen het Vlaams ministerie die ten laste genomen worden door andere overheden of organisaties.<br>
 <br>
 § 4. Aan het fonds van het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin worden toegewezen :<br>
 - alle terugvorderingen van wedden en ermee samenhangende vergoedingen of kosten met betrekking tot personeelsleden welke op basis van het decreet van 15 december 2006 betreffende de aanstelling van bedienaars der erediensten en moreel consulenten bij sommige rechtspersonen worden aangesteld bij instellingen van het beleidsdomein Welzijn, Volksgezondheid en Gezin.<br>
