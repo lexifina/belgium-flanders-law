@@ -126,21 +126,15 @@
 
 ### ART. 24.
 
-§ 1. De intern verzelfstandigde agentschappen met rechtspersoonlijkheid en de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen kunnen verplicht worden hun financiële rekeningen te hebben en hun beleggingen onder te brengen bij een door de Vlaamse regering aan te wijzen kredietinstelling.<br>
-<br>
-§ 2. De Vlaamse regering wordt ertoe gemachtigd de modaliteiten van § 1 te bepalen.<br>
-<br>
-§ 3. De middelen die vanuit de begroting van de Vlaamse Gemeenschap aan&nbsp;de intern verzelfstandigde agentschappen met rechtspersoonlijkheid of de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen toegekend worden, mogen gestort worden via rekeningen die hiertoe door de Vlaamse Gemeenschap bij haar financiële instelling en op haar naam geopend worden.
+...
 
 ### ART. 25.
 
-Intern verzelfstandigde agentschappen met rechtspersoonlijkheid en publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen kunnen verplicht worden de Vlaamse Gemeenschap als lasthebber aan te wijzen voor hun financieringen.<br>
-<br>
-De Vlaamse regering stelt de lijst vast van de agentschappen waarvoor de Vlaamse Gemeenschap kan optreden als lasthebber bij het aangaan van leningen.
+...
 
 ### ART. 26.
 
-De Vlaamse Regering kan intern verzelfstandigde agentschappen met rechtspersoonlijkheid en publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen verplichten om verzekeringen aan te gaan bij een of meer instellingen die de Vlaamse Regering aanwijst.
+...
 
 ## ONDERAFDELING 6 DIVERSE BEPALINGEN
 
