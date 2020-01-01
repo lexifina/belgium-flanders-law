@@ -282,7 +282,7 @@ Deze bepaling is niet van toepassing op het provincieraadslid dat zich in bovenv
 1° het om aangelegenheden gaat die de persoonlijke levenssfeer raken. Zodra een dergelijk punt aan de orde is, beveelt de voorzitter de behandeling in besloten vergadering;<br>
 2° de provincieraad met twee derde van de aanwezige leden en op gemotiveerde wijze beslist tot behandeling in besloten vergadering, in het belang van de openbare orde of op grond van ernstige bezwaren tegen de openbaarheid.<br>
 <br>
-De vergaderingen over&nbsp;het meerjarenplan en de aanpassingen ervan, het budget, een budgetwijziging of de jaarrekening zijn in elk geval openbaar.<br>
+De vergaderingen over&nbsp;de beleidsrapporten, vermeld in artikel 141, zijn in elk geval openbaar.<br>
 <br>
 § 2. De besloten vergadering kan enkel plaatsvinden na de openbare vergadering, uitgezonderd in tuchtzaken. Als tijdens de openbare vergadering blijkt dat de behandeling van een punt in besloten vergadering moet worden voortgezet, kan de openbare vergadering, enkel met dit doel, worden onderbroken. Als tijdens de besloten vergadering blijkt dat de behandeling van een punt in openbare vergadering moet worden behandeld, wordt dat punt opgenomen op de agenda van de eerstvolgende provincieraad. In geval van dringende noodzakelijkheid van het punt of in geval van de eed-aflegging van een personeelslid&nbsp;kan de besloten vergadering, enkel met dat doel, worden onderbroken.
 
@@ -1316,7 +1316,7 @@ Als er nog geen jaarrekening is vastgesteld op 30 juni van het jaar dat volgt op
 
 ### ART. 143.
 
-De provincieraad past jaarlijks indien nodig het meerjarenplan aan voor hij beraadslaagt over het budget voor het volgende financiële boekjaar.<br /><br />De aanpassing van het meerjarenplan is facultatief bij de vaststelling van het budget met betrekking tot het laatste financiële boekjaar van de zesjaarlijkse periode, vermeld in artikel 142, § 1, tweede lid.<br /><br />De provincieraad houdt bij de aanpassing van het meerjarenplan rekening met de termijn waarop het meerjarenplan betrekking heeft.  Artikel 142, § 1, derde lid, is van overeenkomstige toepassing.<br /><br />Met behoud van de toepassing van het derde lid beschrijft de financiële nota de financiële consequenties voor ten minste drie en ten hoogste zes financiële boekjaren.<br /><br />Het ontwerp van de jaarlijkse aanpassing van het meerjarenplan wordt op zijn minst veertien dagen vóór de vergadering waarop het wordt besproken aan ieder lid van de provincieraad bezorgd.
+In de beleidsrapporten wordt een onderscheid gemaakt tussen de exploitatie, de investeringen en de financiering.
 
 ### ART. 144.
 
@@ -1324,31 +1324,49 @@ Het boekjaar begint op 1 januari en eindigt op 31 december van hetzelfde jaar.
 
 ### ART. 145.
 
-Het budget van de provincie omvat een beleidsnota en een financiële nota.
+Elke provincie voert een algemene en een budgettaire boekhouding, aangepast aan de aard en de omvang van hun activiteiten.
 
 ## [Afdeling II Het meerjarenplan (ing. decr. 6 juli 2018, art. 94, I: 3 december 2018)]
 
 ### ART. 146.
 
-De beleidsnota verwoordt het beleid dat de provincie gedurende het financiële boekjaar zal voeren en concretiseert de beleidsdoelstellingen. De beleidsnota omvat een toelichting over de financiële toestand van de provincie en verwoordt de aansluiting met de financiële nota.
+Voor het einde van het jaar dat volgt op de provincieraadsverkiezingen wordt een meerjarenplan vastgesteld. Dat meerjarenplan bestaat uit een strategische nota, een financiële nota en een toelichting.<br>
+<br>
+Het meerjarenplan start in het tweede jaar dat volgt op de provincieraadsverkiezingen en loopt af op het einde van het jaar na de daaropvolgende provincieraadsverkiezingen.
 
 ### ART. 147.
 
-<P>§ 1. De financiële nota bevat minstens het exploitatiebudget, het   investeringsbudget en het liquiditeitenbudget.<BR><BR>§ 2. Het exploitatiebudget   is een financieel plan van de exploitatie van de provincie.<BR><BR>§ 3. Het   liquiditeitenbudget is een financieel plan van de geldstromen van de   provincie.<BR><BR>§ 4. Het investeringsbudget is een financieel plan van de   uitgaven en ontvangsten, en van de kosten en opbrengsten die verbonden zijn aan   de aanschaf, het gebruik en de vervreemding van duurzame middelen.<BR><BR>Een   investeringsbudget bestaat uit een of meer investeringsenveloppen. Als een   investeringsenveloppe eenmaal in het budget is goedgekeurd, blijft ze geldig tot   wanneer de provincieraad deze investeringsenveloppe bij budget of bij   budgetwijziging annuleert of tot de provincieraad de rekening van deze   investeringsenveloppe vaststelt.</P>
+In de strategische nota van het meerjarenplan worden de beleidsdoelstellingen en de beleidsopties voor het extern en intern te voeren beleid geïntegreerd weergegeven.<br>
+<br>
+In de financiële nota van het meerjarenplan wordt de financiële vertaling van de beleidsopties van de strategische nota weergegeven en wordt verduidelijkt hoe het financiële evenwicht wordt gehandhaafd.<br>
+<br>
+De toelichting van het meerjarenplan bevat alle informatie over de verrichtingen in het ontwerp van meerjarenplan die relevant is voor de raadsleden om met kennis van zaken een beslissing te kunnen nemen.
 
 ### ART. 148.
 
-Tot het budget van de provincie is vastgesteld, kan de provincie enkel beschikken over voorlopige kredieten onder de voorwaarden en binnen de grenzen die de Vlaamse Regering bepaalt.
+De ramingen voor de exploitatie, de investeringen en de financiering in het eerste jaar van de financiële nota van het meerjarenplan omvatten ook de kredieten voor de provincie voor dat boekjaar.
 
 ## [Afdeling III Aanpassingen van het meerjarenplan (ing. decr. 6 juli 2018, art. 98, I: 3 december 2018)]
 
 ### ART. 149.
 
-Als verscheidene provincies betrokken zijn bij een uitgave die door of krachtens wettelijke of decretale bepalingen aan de provincie is opgelegd, dragen ze allemaal daarin bij naar evenredigheid van het belang dat ze erbij kunnen hebben. In geval van weigering of van onenigheid over de verhouding van dat belang en van de te dragen lasten, beslist de Vlaamse Regering.
+§ 1. Minstens een keer per jaar wordt het meerjarenplan aangepast, waarbij in elk geval de kredieten voor het volgende boekjaar worden vastgesteld. Als dat nodig is, kunnen daarbij ook de kredieten voor het lopende boekjaar worden aangepast.<br>
+<br>
+Daarnaast kan het meerjarenplan, als dat nodig is, ook worden aangepast om alleen de kredieten voor het lopende boekjaar aan te passen.<br>
+<br>
+Als voor 1 januari van het jaar dat volgt op de provincieraadsverkiezingen de kredieten voor dat boekjaar nog niet werden vastgesteld, worden, in afwijking van het eerste lid, op die datum de kredieten voor dat boekjaar automatisch vastgesteld op basis van de ramingen voor dat boekjaar in de financiële nota van het meerjarenplan.<br>
+<br>
+Bij elke aanpassing van het meerjarenplan wordt het resultaat van de intussen vastgestelde jaarrekeningen verwerkt.<br>
+<br>
+De periode van het meerjarenplan blijft altijd de periode, vermeld in artikel 146, tweede lid, maar de financiële nota beschrijft altijd de financiële consequenties voor ten minste drie toekomstige boekjaren.<br>
+<br>
+§ 2. Een aanpassing van het meerjarenplan omvat minstens een aangepaste financiële nota, een toelichting en de eventuele wijzigingen van de strategische nota.
 
 ### ART. 150.
 
-§ 1. Budgetwijzigingen zijn die kredietaanpassingen aan het budget die niet door middel van een interne kredietaanpassing kunnen worden doorgevoerd.<br /><br />§ 2. De provincieraad stelt de budgetwijzigingen vast op basis van de voorgelegde cijfers en de verklarende nota ervan.<br /><br />Het ontwerp van budgetwijziging wordt uiterlijk samen met de agenda voor de vergadering waarop het wordt besproken, aan ieder lid van de provincieraad bezorgd.<br /><br />Op de budgetwijzigingen is artikel 144, vierde lid, van overeenkomstige toepassing.
+De deputatie bepaalt, voor 1 maart van het lopende boekjaar, welk gedeelte van de kredieten voor de provincie voor investeringen en financiering, die voor het vorige boekjaar opgenomen waren in het meerjarenplan maar nog niet zijn aangewend, overgedragen worden naar het lopende boekjaar.<br>
+<br>
+De provincie bezorgt de gegevens over de stand van het meerjarenplan na de overdrachten, vermeld in het eerste lid, onmiddellijk in digitale vorm aan de Vlaamse Regering.
 
 ## [Afdeling IV Bijzondere bepaling over het bestuurlijk toezicht op het meerjarenplan (ing. decr. 6 juli 2018, art. 101, I: 3 december 2018)]
 
@@ -1392,7 +1410,9 @@ Als de toezichthoudende overheid geen besluit heeft verzonden naar de provincie 
 
 ### ART. 155.
 
-§ 1. Het budgethouderschap komt toe aan de deputatie, behoudens de uitzonderingen, vermeld in dit decreet en onverminderd de toepassing van § 2 en § 3.<br /><br />§ 2. De deputatie kan het budgethouderschap voor aangelegenheden van dagelijks bestuur toekennen aan de provinciegriffier, die verantwoordelijk is voor de uitvoering ervan.<br /><br />De provincieraad bepaalt, op voorstel van de deputatie, wat onder dagelijks bestuur wordt begrepen.<br /><br />De provinciegriffier kan deze bevoegdheid met betrekking tot bepaalde budgetten delegeren aan andere personeelsleden. Bij de delegatie wordt rekening gehouden met het organogram van de provinciale diensten.De betrokken personeelsleden kunnen de aan hen gedelegeerde bevoegdheid niet weigeren als hun functieomschrijving erin voorziet. Zij zijn persoonlijk verantwoordelijk voor de uitvoering van het aan hen gedelegeerde budgethouderschap.<br /><br />§ 3. Onder de voorwaarden die door de provincieraad vastgesteld worden en na advies van de provinciegriffier kan de deputatie het budgethouderschap met betrekking tot bepaalde budgetten betreffende activiteitencentra of projecten delegeren aan bepaalde personeelsleden van de provincie, ook voor aangelegenheden die het dagelijks bestuur te boven gaan. De deputatie houdt daarbij rekening met het organogram van de provinciale diensten. De betrokken personeelsleden kunnen de aan hen gedelegeerde bevoegdheid niet weigeren als hun functieomschrijving erin voorziet. Zij zijn persoonlijk verantwoordelijk voor de uitvoering van het aan hen gedelegeerde budgethouderschap.<br /><br />De provinciegriffier brengt het advies, vermeld in het eerste lid, uit binnen dertig dagen na daarom te zijn verzocht ter kennis van de deputatie. Bij gebrek aan kennisgeving van het advies binnen de voormelde termijn kan aan die adviesvereiste worden voorbijgegaan.<br /><br />Dergelijke delegatie vervalt in ieder geval zes maanden na de algehele vernieuwing van de provincieraad.
+De provincieraad bepaalt wanneer hem een opvolgingsrapportering, met een stand van zaken van de uitvoering van het meerjarenplan, wordt voorgelegd.<br>
+<br>
+Er wordt minstens voor het einde van het derde kwartaal een opvolgingsrapportering over het eerste semester van het boekjaar voorgelegd.
 
 ### ART. 156.
 
@@ -2165,7 +2185,20 @@ De deelname is onderworpen aan de voorwaarde dat aan het autonoom provinciebedri
 
 ### ART. 236.
 
-Het autonoom provinciebedrijf maakt een meerjarenplan en een budget op   overeenkomstig de regels die krachtens artikelen 141, 142, 143, 145, 146, 147 en   175, gelden voor het meerjarenplan en het budget van de provincie.&nbsp;De   boekhouding wordt gevoerd en de jaarrekening wordt opgesteld overeenkomstig de   regelen die krachtens artikelen 160, 168 en 175 worden gesteld voor de   boekhouding en de jaarrekening van de provincie. Het autonoom provinciebedrijf   doet uiterlijk op 31 december van ieder jaar de nodige opnemingen, verificaties,   opzoekingen en waarderingen om de inventaris op te maken van al de bezittingen,   vorderingen, schulden en verplichtingen van het autonoom provinciebedrijf, van   welke aard ook.<BR><BR>De boekhouding wordt gevoerd onder de   verantwoordelijkheid en het toezicht van de raad van bestuur.<BR><BR>De raad van   bestuur stelt het meerjarenplan en het budget vast en legt ze ter goedkeuring   voor aan de provincieraad.&nbsp;<BR><BR>De Vlaamse Regering bepaalt de nadere   voorschriften voor de toepassing van de bepalingen van het eerste lid op de   autonome provinciebedrijven.
+De bepalingen van titel 4, met uitzondering van hoofdstuk 3 en artikel 148, artikel 152, derde lid, en artikel 154, § 1, tweede lid, zijn van toepassing op de autonome provinciebedrijven, met dien verstande dat de volgende woorden worden gelezen als volgt:<br>
+1° "de provincie" als "het autonoom provinciebedrijf";<br>
+2° "elke provincie" als "elk autonoom provinciebedrijf";<br>
+3° "de provincieraad" als "de raad van bestuur";<br>
+4° "raadsleden" als "leden van de raad van bestuur";<br>
+5° "de deputatie" als "de raad van bestuur".<br>
+<br>
+De boekhouding wordt gevoerd onder de verantwoordelijkheid en het toezicht van de raad van bestuur.<br>
+<br>
+De raad van bestuur stelt het meerjarenplan en de aanpassingen ervan vast en legt ze ter goedkeuring voor aan de provincieraad.&nbsp;<br>
+<br>
+De Vlaamse Regering bepaalt de nadere voorschriften voor de toepassing van de bepalingen van het eerste lid op de autonome provinciebedrijven.<br>
+<br>
+De ramingen voor de exploitatie, de investeringen en de financiering in het eerste jaar van de financiële nota van het meerjarenplan omvatten ook de kredieten voor dat boekjaar.
 
 ### ART. 236bis.
 
