@@ -2,16 +2,16 @@
   "codex_id": 1026463,
   "title": "Ministerieel besluit van 2016-01-15 betreffende de regels voor de erkenning en de subsidiëring van expertisecentra kraamzorg",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026463/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "35eeb2ee00d0100fa3952eec0874431b15bb7e37acea796de66f1e046e4578b8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026463/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "6adf76389ca88654015231b967e1bd5920a985274ece9411430dea961fd9b7ad",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026463&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2020-01-01",
   "made": "2016-01-15",
   "gazette": "2016-02-11",
   "numac": 2016035144,
   "document_start": "2016-01-01",
   "document_end": null,
-  "in_force": "2016-01-01",
+  "in_force": "2020-01-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
