@@ -43,20 +43,24 @@ f) vanaf 1 januari 2028: een van de volgende soorten motorvoertuigen:<br>
 a) vanaf 1 januari 2016 tot en met 31 december 2019: motorvoertuigen waarvan de motor ten minste voldoet aan emissienorm van fase IIIa;<br>
 b) vanaf 1 januari 2020 tot en met 31 december 2024: motorvoertuigen waarvan de motor ten minste voldoet aan emissienorm van fase IIIb;<br>
 c) vanaf 1 januari 2025: motorvoertuigen waarvan de motor ten minste voldoet aan de emissienorm van fase IV;<br>
+d) vanaf 1 januari 2028: motorvoertuigen waarvan de motor ten minste voldoet aan de emissienorm van fase V;<br>
 4° in afwijking van punt 1°, 2° en 3° zijn alle voertuigen behorende tot de hiernavolgende opsomming steeds toegelaten:<br>
 a) de elektrische voertuigen, plug-in-hybridevoertuigen met een maximale CO<sub>2</sub>-uitstoot van 50 gram per kilometer of met waterstof aangedreven voertuigen;<br>
 b) de prioritaire voertuigen, vermeld in artikel 37 van de Wegcode;<br>
 c) uitzonderlijke voertuigen, vermeld in artikel 3 van het Koninklijk besluit van 2 juni 2010 betreffende het wegverkeer van uitzonderlijke voertuigen, die beschikken over een geldige vergunning;<br>
 d) de voertuigen van de krijgsmacht;<br>
-e) de voertuigen waarvan de titularis van de nummerplaat of een persoon die gedomicilieerd is op hetzelfde adres als de titularis van de nummerplaat, recht heeft op een verhoogde tegemoetkoming en houder is van de speciale kaart, vermeld in artikel 27.4.3 van de Wegcode. De toegang kan slechts voor één voertuig per speciale kaart aangevraagd worden en geldt tot de eerstvolgende wijziging van de toegangsvoorwaarden, vermeld in punt 2° ;<br>
-f) de voertuigen die aangepast zijn voor het vervoer van personen met een handicap, waarvoor een goedkeuring van de aanpassing van een voertuig is afgeleverd door de bevoegde overheidsinstantie en waarvan de titularis van de nummerplaat of een persoon, gedomicilieerd op het adres van de titularis van de nummerplaat, houder is van de speciale kaart, vermeld in artikel 27.4.3 van de Wegcode, of van een daarmee gelijkgesteld document als vermeld in artikel 27.4.1 van de Wegcode. De toegang kan alleen aangevraagd worden voor voertuigen die vóór de invoering van de toegangsvoorwaarden, vermeld in punt 2°, ingeschreven zijn op naam van de betrokken titularis van de nummerplaat, en geldt tot de eerstvolgende wijziging van de toegangsvoorwaarden, vermeld in punt 2° ;<br>
+e) de voertuigen waarvan de titularis van de nummerplaat of een persoon die gedomicilieerd is op hetzelfde adres als de titularis van de nummerplaat, recht heeft op een verhoogde tegemoetkoming en houder is van de speciale kaart, vermeld in artikel 27.4.3 van de Wegcode. De toegang geldt voor vijf jaar;<br>
+f) de voertuigen die aangepast zijn voor het vervoer van personen met een handicap of voor het besturen door een persoon met een handicap, waarvoor een goedkeuring van de aanpassing van een voertuig is afgeleverd door de bevoegde overheidsinstantie en waarvan de titularis van de nummerplaat of een persoon, gedomicilieerd op het adres van de titularis van de nummerplaat, houder is van de speciale kaart, vermeld in artikel 27.4.3 van de Wegcode, of van een daarmee gelijkgesteld document als vermeld in artikel 27.4.1 van de Wegcode. De toegang geldt voor vijf jaar ;<br>
 g) de voertuigen die aangepast zijn voor het vervoer van personen met een handicap en die worden ingeschakeld in het kader van het decreet van 21 december 2012 tot compensatie van de openbare dienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit;<br>
-h) de voertuigen die uitgerust zijn met een rolstoellift en die geen voertuigen zijn als vermeld in punt e), f) of g). De toegang geldt tot de eerstvolgende wijziging van de toegangsvoorwaarden, vermeld in punt 2° ;<br>
-i) mobiele kranen als vermeld in artikel 1, § 1, 9, van het koninklijk besluit van 15 maart 1968.<br>
+h) de voertuigen die uitgerust zijn met een geïntegreerd systeem dat in of aan het voertuig gemonteerd is en dat bestemd is om te worden gebruikt om de rolstoel samen met de gebruiker in het voertuig te plaatsen en die geen voertuigen zijn als vermeld in punt e), f) of g). De toegang geldt tot de eerstvolgende wijziging van de toegangsvoorwaarden, vermeld in punt 2° ;<br>
+i) mobiele kranen als vermeld in artikel 1, § 1, 9, van het koninklijk besluit van 15 maart 1968;<br>
+j) tot en met 31 december 2028 de motorvoertuigen van de categorie T met een vermogen lager dan 130kW.<br>
+<br>
+Voor de toepassing van dit besluit worden voertuigen die werken op lpg of bio-ethanol, gelijkgesteld met een voertuig met een benzinemotor.<br>
 <br>
 § 2. Voor de voertuigen, vermeld in paragraaf 1, 2°, geldt dat de EEV-norm gelijkgesteld wordt aan de euro V-norm. EEV is de formele Europese term voor een schoon voertuig van categorie N2 en N3, zwaarder dan 3,5 ton.<br>
 <br>
-§ 3. Voor de voertuigen, vermeld in paragraaf 1, 2° en 3°, geldt dat, als de emissienorm van het voertuig niet bekend is, die norm wordt bepaald aan de hand van de datum van de eerste inschrijving van het voertuig. Voor binnenlandse voertuigen is de emissienorm niet bekend als die norm niet is opgenomen in de databank van DIV. Voor buitenlandse voertuigen is de emissienorm niet bekend als die norm niet op het inschrijvingsbewijs staat. De volgende data worden gebruikt om de norm te bepalen als die niet bekend is:<br>
+§ 3. Voor de voertuigen, vermeld in paragraaf 1, 2° en 3°, geldt dat, als de emissienorm van het voertuig niet bekend is, die norm wordt bepaald aan de hand van de datum van de eerste inschrijving van het voertuig. Voor binnenlandse voertuigen is de emissienorm niet bekend als die norm niet is opgenomen in de Kruispuntbank. Voor buitenlandse voertuigen is de emissienorm niet bekend als die norm niet op het inschrijvingsbewijs staat of als de emissienorm niet is opgenomen in de gegevens uit de buitenlandse kentekenregisters die via het nationaal contactpunt toegankelijk zijn voor het beheer en de handhaving van een LEZ. De volgende data worden gebruikt om de norm te bepalen als die niet bekend is:<br>
 1° voor voertuigen van de categorie M1:<br>
 &nbsp;
 <table border="1">
@@ -256,7 +260,7 @@ i) mobiele kranen als vermeld in artikel 1, § 1, 9, van het koninklijk besluit 
 	</tbody>
 </table>
 <br>
-6° voor voertuigen van de categorie T:<br>
+6° voor voertuigen van de categorie T met een vermogen gelijk aan of hoger dan 130 kW:<br>
 &nbsp;
 <table border="1">
 	<tbody>
@@ -281,25 +285,30 @@ i) mobiele kranen als vermeld in artikel 1, § 1, 9, van het koninklijk besluit 
 			<td>fase IIIb</td>
 		</tr>
 		<tr>
-			<td>vanaf 1 januari 2014</td>
+			<td>vanaf 1 januari 2014 tot en met 31 december 2018</td>
 			<td>fase IV</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 2019</td>
+			<td>fase V</td>
 		</tr>
 	</tbody>
 </table>
 <br>
+<br>
 § 4. De emissienorm die op basis van de datum van de eerste inschrijving van het voertuig werd afgeleid, wordt opgenomen in de LEZ-databank.<br>
 <br>
-§ 5. Als uit het EEG-certificaat van overeenstemming of uit een ander document dat door een overheidsinstantie is aanvaard, een andere emissienorm, een andere categorie of een ander brandstoftype voor het voertuig kan worden afgeleid dan de emissienorm, de categorie of het brandstoftype die in de LEZ-databank is opgenomen, dan kan de titularis van het voertuig de emissienorm, de categorie of het brandstoftype in de LEZ-databank laten aanpassen aan de hand van de voormelde documenten. Dat gebeurt door registratie bij de gemeente die een LEZ op haar grondgebied invoert, uiterlijk 24 uur na het betreden van een LEZ. Deze registratie gebeurt enkel in functie van de LEZ en wijzigt de gegevens in de databank van DIV niet.<br>
+§ 5. Als uit het EEG-certificaat van overeenstemming of uit een ander document dat door een overheidsinstantie is aanvaard, een andere emissienorm, een andere categorie of een ander brandstoftype voor het voertuig kan worden afgeleid dan de emissienorm, de categorie of het brandstoftype die in de LEZ-databank is opgenomen, dan kan de titularis van het voertuig de emissienorm, de categorie of het brandstoftype in de LEZ-databank laten aanpassen aan de hand van de voormelde documenten. Dat gebeurt door registratie bij de gemeente die een LEZ op haar grondgebied invoert, uiterlijk&nbsp;de dag&nbsp;na het betreden van een LEZ. Deze registratie gebeurt enkel in functie van de LEZ en wijzigt de gegevens in de Kruispuntbank niet.<br>
 <br>
 § 6. In dit artikel wordt verstaan onder:<br>
-1° emissienorm van fase I, II, IIIa, IIIb en IV: de norm voor motorvoertuigen die niet voor de weg bestemd zijn en die voldoen aan de emissiestandaarden, vermeld in richtlijn nr. 97/68/EG van het Europees Parlement en de Raad van 16 december 1997 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door inwendige verbrandingsmotoren die worden gemonteerd in niet voor de weg bestemde mobiele machines;<br>
+1° emissienorm van fase I, II, IIIa, IIIb, IV en V: de norm voor motorvoertuigen die niet voor de weg bestemd zijn en die voldoen aan de emissiestandaarden, vermeld in richtlijn nr. 97/68/EG van het Europees Parlement en de Raad van 16 december 1997 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door inwendige verbrandingsmotoren die worden gemonteerd in niet voor de weg bestemde mobiele machines en verordening (EU) 2016/1628 van het Europees Parlement en de Raad van 14 september 2016 inzake voorschriften met betrekking tot emissiegrenswaarden voor verontreinigende gassen en deeltjes en typegoedkeuring voor in niet voor de weg bestemde mobiele machines gemonteerde interne verbrandingsmotoren, tot wijziging van Verordeningen (EU) nr. 1024/2012 en (EU) nr. 167/2013, en tot wijziging en intrekking van Richtlijn 97/68/EG;<br>
 2° Euronorm I, II, III, IV, V, EEV en VI: de norm voor zwaar vervoer dat voldoet aan de emissiestandaarden, vermeld in richtlijn nr. 88/77/EEG van de Raad van 3 december 1987 inzake de onderlinge aanpassing van de wetgevingen der Lidstaten met betrekking tot maatregelen tegen de emissie van verontreinigende gassen en deeltjes door dieselmotoren bestemd voor het aandrijven van voertuigen, richtlijn 2005/55/EG van het Europees Parlement en de Raad van 28 september 2005 inzake de onderlinge aanpassing van de wetgevingen van de lidstaten met betrekking tot maatregelen tegen de emissie van verontreinigende gassen en deeltjes door voertuigmotoren met compressieontsteking en de emissie van verontreinigende gassen door op aardgas of vloeibaar petroleumgas lopende voertuigmotoren met elektrische ontsteking, en verordening (EG) nr. 595/2009 van het Europees Parlement en de Raad van 18 juni 2009 betreffende de typegoedkeuring van motorvoertuigen en motoren met betrekking tot emissies van zware bedrijfsvoertuigen (Euro VI) en de toegang tot reparatie- en onderhoudsinformatie, tot wijziging van verordening (EG) nr. 715/2007 en richtlijn 2007/46/EG en tot intrekking van de richtlijnen 80/1269/EEG, 2005/55/EG en 2005/78/EG;<br>
 3° Euronorm 1, 2, 3, 4, 5, 6, 6d-temp en 6d: de norm voor personenwagens en lichte vrachtauto's die voldoen aan de bijbehorende emissiestandaarden, vermeld in richtlijn (EEG) nr. 70/220 van de Raad van 20 maart 1970 inzake de onderlinge aanpassing van de wetgevingen der Lidstaten met betrekking tot maatregelen tegen luchtverontreiniging door emissies van motorvoertuigen, verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad van 20 juni 2007 betreffende de typegoedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie, en verordening (EG) nr. 692/2008 wat de emissies van lichte personen- en bedrijfsvoertuigen (Euro 6) betreft;<br>
 4° gewichtsklasse I, II en III: de gewichtsklasse van een bestelwagen, vermeld in bijlage I van de voormelde verordening (EG) nr. 715/2007;<br>
 5° referentiemassa: de referentiemassa, vermeld in artikel 3, 3, van de voormelde verordening (EG) nr. 715/2007;<br>
 6° koninklijk besluit van 15 maart 1968: het koninklijk besluit van 15 maart 1968 houdende algemeen reglement op de technische eisen waaraan de auto's, hun aanhangwagens, hun onderdelen en hun veiligheidstoebehoren moeten voldoen;<br>
 7° plug-in-hybridevoertuig: een voertuig, aangedreven door een elektrische motor en een verbrandingsmotor, waarvoor de energie geleverd wordt aan de elektrische motor door batterijen die volledig opgeladen kunnen worden via een aansluiting aan een externe energiebron buiten het voertuig;<br>
-8° rolstoellift: een liftsysteem dat in of aan het voertuig gemonteerd is en dat gebruikt wordt om de rolstoel samen met de gebruiker in het voertuig te plaatsen.".<br>
+8° ...<br>
 <br>
 De emissiestandaarden, als vermeld in paragraaf 1, punt 1° tot en met 3°, zijn opgenomen in bijlage.
 
