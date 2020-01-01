@@ -55,15 +55,24 @@ Onder de integrale jeugdhulp valt de volgende jeugdhulpverlening die met toepass
 
 ### ART. 4.
 
-Onder de integrale jeugdhulp valt de volgende jeugdhulpverlening die met toepassing van het decreet van 12 maart 2013 wordt aangeboden door:<br>
+Onder de integrale jeugdhulp valt de volgende jeugdhulpverlening die met toepassing van het decreet van 12 juli 2013 wordt aangeboden door:<br>
 1° de gemeenschapsinstellingen, vermeld in artikel 2, 4° van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
-2° de erkende voorzieningen, vermeld in artikel 1, 15° van het besluit van de Vlaamse Regering van 5 april 2019 inzake de erkenningsvoorwaarden en de subsidienormen voor voorzieningen voor jeugdhulp.<br>
+2° de erkende voorzieningen, vermeld in artikel 1, 15° van het besluit van de Vlaamse Regering van 5 april 2019 inzake de erkenningsvoorwaarden en de subsidienormen voor voorzieningen voor jeugdhulp;<br>
+3° de centra voor ontwikkelingsstoornissen, vermeld in hoofdstuk II van het besluit van de Vlaamse regering van 16 juni 1998 tot regeling van de erkenning en de subsidiëring van de centra voor ontwikkelingsstoornissen.<br>
 <br>
 Onder de integrale jeugdhulp valt ook de jeugdhulpverlening in het raam van projecten als vermeld in artikel 70 van het besluit van de Vlaamse Regering van 5 april 2019 inzake de erkenningsvoorwaarden en de subsidienormen voor voorzieningen voor jeugdhulp.
 
 ### ART. 5.
 
-Onder de integrale jeugdhulp valt de volgende jeugdhulpverlening die met   toepassing van het decreet van 7 mei 2004 tot oprichting van het intern   verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor   Personen met een Handicap wordt aangeboden door:<BR>1° de   thuisbegeleidingsdiensten, vermeld in artikel 2 van het besluit van de Vlaamse   Regering van 17 december 1996 betreffende de erkenning en subsidiëring van   thuisbegeleidingsdiensten voor personen met een handicap;<BR>2° de diensten   ondersteuningsplan, vermeld in artikel 2 van het besluit van de Vlaamse Regering   van 30 september 2011 betreffende de erkenning en subsidiëring van diensten   Ondersteuningsplan en een mentororganisatie voor het voortraject van personen   met een handicap;<BR>3° de semi-internaten, vermeld in artikel 3, § 1, van het   koninklijk besluit nr. 81 van 10 november 1967 tot instelling van een Fonds voor   medische, sociale en pedagogische zorg voor gehandicapten;<BR>4° de internaten   voor minderjarigen, vermeld in artikel 3, § 1, van het koninklijk besluit,   vermeld in punt 3° ;<BR>5° de observatie- en behandelingscentra, vermeld in   artikel 1 van het koninklijk besluit van 12 december 1975 tot vaststelling van   de voorwaarden voor de erkenning van de centra voor observatie, oriëntering en   medische, psychologische en pedagogische behandeling voor gehandicapten evenals   van de te volgen bijzondere regels voor de vaststelling van de toelagen per dag,   toegekend voor het onderhoud, de opvoeding en de behandeling van de   gehandicapten die er geplaatst zijn ten laste van de openbare besturen;<BR>6° de   tehuizen voor kortverblijf, vermeld in artikel 1 van het koninklijk besluit van   25 januari 1971 tot vaststelling van de voorwaarden voor de erkenning van de   tehuizen van kort verblijf ten behoeve van gehandicapten;<BR>7° de centra voor   ontwikkelingsstoornissen, vermeld in artikel 2 van het besluit van de Vlaamse   Regering van 16 juni 1998 tot regeling van de erkenning en de subsidiëring van   de centra voor ontwikkelingsstoornissen;<BR>8° de budgethouderverenigingen,   vermeld in artikel 16, 6°, van het decreet van 7 mei 2004 tot oprichting van het   intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap   voor Personen met een Handicap, die het Vlaams Agentschap voor Personen met een   Handicap met toepassing van artikel 15 van het besluit van de Vlaamse Regering   van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van   een persoonlijke-assistentiebudget aan personen met een handicap, heeft erkend   als zorgconsulent.<BR>
+Onder de integrale jeugdhulp valt de volgende jeugdhulpverlening die met toepassing van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap wordt aangeboden door:<br>
+1° de thuisbegeleidingsdiensten, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 17 december 1996 betreffende de erkenning en subsidiëring van thuisbegeleidingsdiensten voor personen met een handicap;<br>
+2° de diensten ondersteuningsplan, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 30 september 2011 betreffende de erkenning en subsidiëring van diensten Ondersteuningsplan en een mentororganisatie voor het voortraject van personen met een handicap;<br>
+3° de multifunctionele centra voor minderjarige personen met een handicap, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
+4° ... ;<br>
+5° ...;<br>
+6° ...;<br>
+7° ...;<br>
+8° de budgethouderverenigingen, vermeld in artikel 16, 6°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, die het Vlaams Agentschap voor Personen met een Handicap met toepassing van artikel 15 van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap, heeft erkend als zorgconsulent.
 
 ### ART. 6.
 
@@ -82,7 +91,7 @@ Onder de integrale jeugdhulp valt de jeugdhulpverlening die wordt   aangeboden b
 
 ### ART. 9.
 
-Onder de integrale jeugdhulp valt de jeugdhulpverlening die wordt   aangeboden door de diensten maatschappelijk werk van de ziekenfondsen, vermeld   in artikel 2, 14° en artikel 14 van het Woonzorgdecreet van 13 maart   2009.<BR>
+Onder de integrale jeugdhulp valt de jeugdhulpverlening die wordt aangeboden door de diensten maatschappelijk werk van de ziekenfondsen, vermeld in artikel 19 van het Woonzorgdecreet van 15 februari 2019.
 
 ### ART. 10.
 
@@ -272,7 +281,7 @@ De kennisgeving voldoet minstens aan de volgende voorwaarden:<BR>1° ze is   zo 
 <p>§ 1. De volgende voorzieningen die jeugdhulpverlening aanbieden worden beschouwd als een erkend multidisciplinair team als vermeld in artikel 22 van het decreet van 12 juli 2013:<br>
 1° de centra voor ontwikkelingsstoornissen, vermeld in artikel 1, 3°, van het besluit van de Vlaamse Regering van 16 juni 1998 tot regeling van de erkenning en de subsidiëring van de centra voor ontwikkelingsstoornissen;<br>
 2° : de onthaal-, observatie- en oriëntatiecentra, vermeld in artikel 5 van het besluit van de Vlaamse Regering van 5 april 2019 inzake de erkenningsvoorwaarden en de subsidienormen voor voorzieningen voor jeugdhulp;<br>
-3° de observatie- en behandelingscentra, vermeld in artikel 1 van het koninklijk besluit van 12 december 1975 tot vaststelling van de voorwaarden voor de erkenning van de centra voor observatie, oriëntering en medische, psychologische en pedagogische behandeling voor gehandicapten evenals van de te volgen bijzondere regels voor de vaststelling van de toelagen per dag, toegekend voor het onderhoud, de opvoeding en de behandeling van de gehandicapten die er geplaatst zijn ten laste van de openbare besturen.</p>
+3° de observatie- en behandelingscentra, vermeld in artikel 8/1 van het besluit van de Vlaamse Regering van 5 april 2019 inzake de erkenningsvoorwaarden en de subsidienormen voor voorzieningen voor jeugdhulp.</p>
 
 <p>§ 2. Voorzieningen die jeugdhulpverlening aanbieden en samenwerkingsverbanden van voorzieningen die jeugdhulpverlening aanbieden, die niet opgenomen zijn in de lijst van voorzieningen, vermeld in paragraaf 1, kunnen als multidisciplinair team erkend worden en kunnen de opdrachten, vermeld in artikel 22, derde lid, van het decreet van 12 juli 2013, uitvoeren, als ze voldoen aan de volgende voorwaarden:<br>
 1° ze hebben een aanbod voor de ruime doelgroep van de jeugdhulpverlening, voor een bijzondere doelgroep met specifieke hulpvragen of voor een combinatie van beide, hetzij voor minderjarigen, of voor personen die een voortzetting van jeugdhulpverlening vragen aan de toegangspoort als vermeld in artikel 18, § 3, van het decreet van 12 juli 2013 of voor beiden;<br>
@@ -995,7 +1004,7 @@ De minister bepaalt welke combinaties van typemodules niet mogelijk zijn.
 
 ### ART. 100.
 
-<p>Het Intersectoraal Regionaal Overleg Jeugdhulp voert de opdrachten, vermeld in artikel 65, tweede lid, van het decreet van 12 juli 2013, uit door een actieplan op te stellen op basis van het kader dat is opgesteld door het agentschap Opgroeien regie met toepassing van artikel 96, eerste lid, van dit besluit. Het actieplan van het Intersectoraal Regionaal Overleg Jeugdhulp is geldig voor een periode van drie jaar en wordt goedgekeurd door het agentschap Opgroeien regie.</p>
+<p>Het Intersectoraal Regionaal Overleg Jeugdhulp voert de opdrachten, vermeld in artikel 65, tweede lid, van het decreet van 12 juli 2013, uit door een actieplan op te stellen op basis van het kader dat is opgesteld door het agentschap Opgroeien regie. Het actieplan van het Intersectoraal Regionaal Overleg Jeugdhulp is geldig voor een periode van drie jaar en wordt goedgekeurd door het agentschap Opgroeien regie.</p>
 
 <p>Het Intersectoraal Regionaal Overleg Jeugdhulp beschikt over werkingsmiddelen om het actieplan, vermeld in het eerste lid, uit te voeren. De ministers bepalen de nadere regels daarvoor. De werkingsmiddelen vallen ten laste van de begroting van de Vlaamse Gemeenschap.</p>
 
