@@ -549,6 +549,14 @@ Als uit de beoordeling van een werkingsjaar blijkt dat de subsidie onterecht is 
 
 ## HOOFDSTUK 6. Slotbepalingen
 
+### ART 33.
+
+Het besluit van de Vlaamse Regering van 8 juli 2016 houdende subsidiëring van intergemeentelijke projecten ter ondersteuning van het lokaal woonbeleid, gewijzigd bij de besluiten van de Vlaamse Regering van 24 februari 2017 en 25 mei 2018, wordt opgeheven.
+
+### ART 34.
+
+Op de projecten waaraan een subsidie is verleend met toepassing van het besluit van de Vlaamse Regering van 8 juli 2016 houdende subsidiëring van intergemeentelijke projecten ter ondersteuning van het lokaal woonbeleid of het besluit van de Vlaamse Regering van 21 september 2007 houdende subsidiëring van projecten ter ondersteuning van het lokaal woonbeleid en waarvan de subsidiëringsperiode loopt, tot en met de beslissing van het agentschap over de rapportering van het laatste werkingsjaar van de subsidiëringsperiode blijft het voormelde besluit van 8 juli 2016 van toepassing, zoals van kracht op 31 december 2019.
+
 ### ART 35.
 
 Dit besluit treedt in werking op 1 januari 2019, met uitzondering van artikel 33 en 34, die in werking treden op 1 januari 2020.
