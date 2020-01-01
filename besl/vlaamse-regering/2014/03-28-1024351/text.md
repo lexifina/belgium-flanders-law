@@ -104,7 +104,9 @@ Het samenwerkingsverband is in staat om, op eenvoudig verzoek van het   agentsch
 
 ### ART. 17.
 
-<P>Als het samenwerkingsverband de vorm heeft van een feitelijke vereniging,   wijst het samenwerkingsverband een rechtspersoon die lid is van de feitelijke   vereniging, aan, die ten aanzien van het agentschap zal optreden als   vertegenwoordiger van de feitelijke vereniging. De vertegenwoordiger fungeert   als ontvanger van de subsidie en is onderworpen aan de regels, vermeld in   artikel 55, § 1, eerste lid, 2°, van het decreet van 8 juli 2011 houdende   regeling van de begroting, de boekhouding, de toekenning van subsidies en de   controle op de aanwending ervan, en de controle door het Rekenhof.<BR></P>  <P>Als de vertegenwoordiger, vermeld in het eerste lid, vervangen wordt door een   andere vertegenwoordiger, brengt het samenwerkingsverband het agentschap daarvan   onmiddellijk van op de hoogte. Die vervanging maakt vervolgens het voorwerp uit   van een wijziging aan de oorspronkelijke subsidiebeslissing.</P>
+<p>Als het samenwerkingsverband de vorm heeft van een feitelijke vereniging, wijst het samenwerkingsverband een rechtspersoon die lid is van de feitelijke vereniging, aan, die ten aanzien van het agentschap zal optreden als vertegenwoordiger van de feitelijke vereniging. De vertegenwoordiger fungeert als ontvanger van de subsidie en is onderworpen aan de regels, vermeld in art. 73, eerste lid, 2° en tweede lid van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.</p>
+
+<p>Als de vertegenwoordiger, vermeld in het eerste lid, vervangen wordt door een andere vertegenwoordiger, brengt het samenwerkingsverband het agentschap daarvan onmiddellijk van op de hoogte. Die vervanging maakt vervolgens het voorwerp uit van een wijziging aan de oorspronkelijke subsidiebeslissing.</p>
 
 ### ART. 18.
 
@@ -311,7 +313,9 @@ De organisator rapporteert jaarlijks over de werking en het   kwaliteitsbeleid m
 
 ### ART. 55.
 
-<P>Als de organisator de vorm heeft van een feitelijke vereniging, wijst de   organisator een rechtspersoon aan die lid is van de feitelijke vereniging, die   ten aanzien van het agentschap zal optreden als vertegenwoordiger van de   feitelijke vereniging. De vertegenwoordiger fungeert als ontvanger van de   subsidie en is onderworpen aan de regels, vermeld in artikel 55, § 1, eerste   lid, 2°, van het decreet van 8 juli 2011 houdende regeling van de begroting, de   boekhouding, de toekenning van subsidies en de controle op de aanwending ervan,   en de controle door het Rekenhof.<BR></P>  <P>Als de vertegenwoordiger, vermeld in het eerste lid, vervangen wordt door een   andere vertegenwoordiger, brengt de organisator het agentschap daarvan   onmiddellijk op de hoogte. De vervanging maakt vervolgens het voorwerp uit van   een wijziging van de oorspronkelijke subsidiebeslissing.</P>
+<p>Als de organisator de vorm heeft van een feitelijke vereniging, wijst de organisator een rechtspersoon aan die lid is van de feitelijke vereniging, die ten aanzien van het agentschap zal optreden als vertegenwoordiger van de feitelijke vereniging. De vertegenwoordiger fungeert als ontvanger van de subsidie en is onderworpen aan de regels, vermeld in art. 73, eerste lid, 2° en tweede lid van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.</p>
+
+<p>Als de vertegenwoordiger, vermeld in het eerste lid, vervangen wordt door een andere vertegenwoordiger, brengt de organisator het agentschap daarvan onmiddellijk op de hoogte. De vervanging maakt vervolgens het voorwerp uit van een wijziging van de oorspronkelijke subsidiebeslissing.</p>
 
 ### ART. 56.
 
@@ -355,7 +359,7 @@ De organisator bezorgt het agentschap jaarlijks en uiterlijk eind januari   een 
 
 <p>De evolutie van de gemiddelde geldelijke anciënniteit van alle personeelsleden van één aanbodsvorm, vermeld in het eerste lid, wordt bepaald door het agentschap op basis van de situatie op 1 oktober van het voorgaande jaar, in vergelijking met de situatie op 1 oktober van het daaraan voorafgaande jaar.</p>
 
-<p>§ 2. De subsidie is uitgedrukt tegen 100 % van de spilindex die van toepassing is op 1 januari 2014. De bedragen worden geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing gebeurt telkens vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of er op wordt teruggebracht.</p>
+<p>§ 2. ...</p>
 
 <p>§ 3. De minister kan bijkomende en nadere regels bepalen met betrekking tot de berekening van het subsidiebedrag.<br>
 <br>
