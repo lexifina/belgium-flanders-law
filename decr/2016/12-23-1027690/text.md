@@ -522,7 +522,7 @@ Aan artikel 3.18.0.0.11 van de Vlaamse Codex Fiscaliteit van 13 december 2013, i
 
 ### ART 44.
 
-§ 1. Er wordt een fonds met betrekking tot audits Europese Structuurfondsen opgericht conform artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
+§ 1. Er wordt een fonds met betrekking tot audits Europese Structuurfondsen opgericht conform artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
 <br>
 § 2. Aan het fonds met betrekking tot audits Europese Structuurfondsen worden de ontvangsten van technische bijstand in het kader van de auditwerkzaamheden door de Vlaamse Auditautoriteit toegewezen (in het kader van de programma's welke door de Vlaamse Regering aan de Vlaamse Auditautoriteit worden toebedeeld) alsook mogelijke andere ontvangsten die dienen als tegemoetkoming voor het uitvoeren van audits ten behoeve van de Europese structuurfondsen.<br>
 <br>
