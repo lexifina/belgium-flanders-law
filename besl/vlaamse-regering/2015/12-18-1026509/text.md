@@ -237,7 +237,11 @@ De   minister kan de volgende elementen in de procedure wijzigen :<BR   style="W
 
 ### ART. 42.
 
-<P>Artikel   4, § 1, artikel 5, § 1, eerste lid, § 3, § 4 en § 5, artikel 7, § 1, artikel 8   en 19 van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de   algemene regels inzake subsidiëring zijn van toepassing op de subsidies,   verleend bij dit besluit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Artikel   5, § 3, tweede lid, van het voormelde besluit is van toepassing vanaf 1 januari   2022.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Artikel   7, § 1, van het voormelde besluit is van toepassing, met dien verstande dat de   reserves aangewend mogen worden voor het sociaal passief.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Artikel 4, § 1, artikel 5, § 1, eerste lid, § 3, § 4 en § 5, artikel 7, § 1, artikel 8 en 19 van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring zijn van toepassing op de subsidies, verleend bij dit besluit.</p>
+
+<p>Artikel 72, § 1, tweede lid, van het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019 is van toepassing vanaf 1 januari 2022.</p>
+
+<p>Artikel 72, § 2, van het besluit, vermeld in het tweede lid, is van toepassing, met dien verstande dat de reserves aangewend mogen worden voor het sociaal passief.</p>
 
 ## Hoofdstuk 7 Overgangs- en slotbepalingen
 
