@@ -2,16 +2,16 @@
   "codex_id": 1031648,
   "title": "Decreet van 2019-03-29 tot wijziging van diverse bepalingen betreffende het woonbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031648/VolledigDocument?datum=2019-05-18",
-  "source_sha256": "fc4864445706852860d98af1e65273637f0fd23b1dfb6902b48dd3c24ab60faf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031648/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "1c822835b640f028e37ed7bee32c2b0da783a69e2016401f89060c018c605f20",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031648&param=informatie",
-  "as_of": "2019-05-18",
+  "as_of": "2020-01-01",
   "made": "2019-03-29",
   "gazette": "2019-05-08",
   "numac": 2019012091,
   "document_start": "2019-05-18",
   "document_end": null,
-  "in_force": "2019-05-18",
-  "article_versions": 29,
-  "record_form": "consolidated version as in force on 2019-05-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-01-01",
+  "article_versions": 41,
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
