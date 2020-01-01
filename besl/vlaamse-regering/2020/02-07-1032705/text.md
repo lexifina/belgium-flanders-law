@@ -29,6 +29,14 @@ DE VLAAMSE REGERING BESLUIT :
 
 ## HOOFDSTUK 1. Wijziging van het besluit van de Vlaamse Regering van 9 november 2012 inzake erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning
 
+### ART 1.
+
+In het besluit van de Vlaamse Regering van 9 november 2012 inzake erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 mei 2019, wordt een artikel 54/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 54/1. Aan elk CKG wordt, bovenop de subsidie-enveloppe, een bijkomende subsidie toegekend tot uitvoering van het vierde Vlaamse Intersectoraal Akkoord van 2 december 2011 voor de private social- en non-profitsectoren voor de periode 2011 tot 2015 en het vijfde Vlaams Intersectoraal Akkoord van 8 juni 2018 voor de social/non profitsectoren voor de periode 2018-2020.<br>
+<br>
+Bij de pro-rata verdeling van de beschikbare middelen over de CKG's houdt het agentschap rekening met het aantal voltijdse equivalenten per CKG.".
+
 ## HOOFDSTUK 2. Wijziging van het besluit van de Vlaamse Regering van 22 maart 2013 betreffende het inzagerecht en de bemiddeling bij interlandelijke adoptie
 
 ### ART 2.
@@ -41,6 +49,10 @@ In artikel 37, § 2, van het besluit van de Vlaamse Regering van 22 maart 2013 b
 
 ## HOOFDSTUK 3. Wijziging van het besluit van de Vlaamse Regering van 28 maart 2014 tot uitvoering van het decreet van 29 november 2013 houdende de organisatie van preventieve gezinsondersteuning
 
+### ART 3.
+
+In artikel 61 van het besluit van de Vlaamse Regering van 28 maart 2014 tot uitvoering van het decreet van 29 november 2013 houdende de organisatie van preventieve gezinsondersteuning, gewijzigd bij het besluit van de Vlaamse Regering van 17 mei 2019, wordt paragraaf 2 opgeheven.
+
 ## HOOFDSTUK 4. Wijziging van het besluit van de Vlaamse Regering van 19 februari 2016 betreffende de voorbereiding bij adoptie
 
 ### ART 4.
@@ -49,6 +61,10 @@ In artikel 20, eerste lid, van het besluit van de Vlaamse Regering van 19 februa
 1° het bedrag "473.828,60 euro" wordt vervangen door het bedrag "504.733,09euro";<br>
 2° het bedrag "504.733,09 euro" wordt vervangen door het bedrag "478.244,90 euro".<br>
 &nbsp;
+
+### ART 5.
+
+In artikel 31, § 1, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 25 november 2016 en gewijzigd bij het besluit van de Vlaamse Regering van 24 mei 2019, wordt het bedrag "464.479,37 euro" vervangen door het bedrag "465.705,48 euro".
 
 ## HOOFDSTUK 5. Wijziging van het besluit van de Vlaamse Regering van 19 februari 2016 betreffende de bemiddeling, nazorg en inzage bij binnenlandse adoptie
 
@@ -85,6 +101,12 @@ In artikel 5, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van d
 ### ART 11.
 
 In artikel 6 van hetzelfde besluit wordt het bedrag "14,08 euro" vervangen door het bedrag "14,94 euro".
+
+### ART 12.
+
+In artikel 7 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° wordt het bedrag "110,94 euro" vervangen door het bedrag "137,83 euro";<br>
+2° in punt 2° wordt het bedrag "2,28 euro" vervangen door het bedrag "2,79 euro".
 
 ### ART 13.
 
@@ -123,6 +145,13 @@ In artikel 16 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<
 2° in punt 2° wordt het bedrag "3,24 euro" vervangen door het bedrag "3,44 euro";<br>
 3° in punt 3° wordt het bedrag "2,82 euro" vervangen door het bedrag "3,00 euro".<br>
 &nbsp;
+
+### ART 20.
+
+In artikel 17 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° wordt het bedrag "33,04 euro" vervangen door het bedrag "40,01 euro";<br>
+2° in punt 2° wordt het bedrag "19,57 euro" vervangen door het bedrag "23,70 euro";<br>
+3° in punt 3° wordt het bedrag "16,98 euro" vervangen door het bedrag "20,61 euro".
 
 ### ART 21.
 
@@ -191,6 +220,10 @@ In hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 6 ok
 "Art. 24/1. Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD voor zieke kinderen krijgt, die geen openbaar bestuur is, ontvangt van het agentschap Opgroeien regie een subsidie voor eindejaarspremie. De subsidie bedraagt 1141,86 euro per voltijds equivalent.".<br>
 &nbsp;
 
+### ART 28.
+
+In artikel 24/1 van hetzelfde besluit, ingevoegd bij artikel 27, wordt het bedrag "1141,86 euro" vervangen door het bedrag "1227,02 euro".
+
 ### ART 29.
 
 In hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 6 oktober 2017, wordt een artikel 24/2 ingevoegd, dat luidt als volgt:<br>
@@ -213,6 +246,10 @@ In artikel 28 van hetzelfde besluit wordt het bedrag "27,32 euro" vervangen door
 ### ART 33.
 
 In artikel 29 van hetzelfde besluit wordt het bedrag "9,99 euro" vervangen door het bedrag "10,60 euro".
+
+### ART 34.
+
+In artikel 30 van hetzelfde besluit wordt het bedrag "82,16 euro" vervangen door het bedrag "102,60 euro".
 
 ### ART 35.
 
@@ -288,6 +325,10 @@ De subsidie, vermeld in het eerste lid, bedraagt 2,79 euro per uur uitgevoerd do
 2° in paragraaf 2, tweede lid, wordt het bedrag "2,79 euro" vervangen door het bedrag "2,95 euro".
 
 ## HOOFDSTUK 9. Slotbepalingen
+
+### ART 45.
+
+Artikel 16, 3°, van het besluit van de Vlaamse Regering van 24 mei 2019 tot wijziging van het besluit van de Vlaamse Regering van 22 maart 2013 betreffende het inzagerecht en de bemiddeling bij interlandelijke adoptie, het besluit van de Vlaamse Regering van 19 februari 2016 betreffende de bemiddeling, nazorg en inzage bij binnenlandse adoptie en het besluit van de Vlaamse Regering van 19 februari 2016 betreffende de voorbereiding bij adoptie wordt opgeheven.
 
 ### ART 46.
 
