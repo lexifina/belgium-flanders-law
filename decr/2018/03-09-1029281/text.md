@@ -1382,6 +1382,8 @@ waarbij :<br>
 2° CX-2 : de gezondheidsindex van de maand januari van het begrotingsjaar X-2.<br>
 <br>
 De A-coëfficiënt wordt voor 100% in rekening gebracht.<br>
+<br>
+Vanaf het begrotingsjaar 2020 wordt het totale werkingsbudget verminderd met 170.000 euro. Dit bedrag wordt over de academies gespreid a rato van het aantal toegekende lestijden zoals hierboven vermeld.<br>
 &nbsp;
 
 ### ART 84.
@@ -1397,6 +1399,8 @@ waarbij :<br>
 De A-coëfficiënt wordt voor 100% in rekening gebracht.<br>
 <br>
 § 2. De Vlaamse Regering regelt de wijze waarop het bedrag, berekend conform paragraaf 1, uitbetaald wordt aan de academies.<br>
+<br>
+§ 3. Vanaf het begrotingsjaar 2020 wordt het bedrag, vermeld in paragraaf 1, verminderd met 104.000 euro.<br>
 &nbsp;
 
 ### ART 85.
@@ -2655,6 +2659,8 @@ B : de werkingsmiddelen voor het deeltijds kunstonderwijs voor het schooljaar (X
 Daarbij worden de werkingsmiddelen telkens berekend conform de bepalingen in artikel 83 tot en met 84.<br>
 <br>
 De totaliteit van het volume aan punten wordt berekend conform artikel 140, § 4.<br>
+<br>
+§ 6. Vanaf het begrotingsjaar 2020 worden de werkingsmiddelen, vermeld in de paragrafen 2 en 3, verminderd met 13.000 euro.<br>
 &nbsp;
 
 ### ART 141.
@@ -2665,7 +2671,7 @@ Voor de berekening van het werkingsbudget per samenwerkingsinitiatief wordt het 
 <br>
 § 2. Het maximale puntenvolume per samenwerkingsinitiatief bedraagt 35 punten.<br>
 <br>
-Het maximale werkingsbudget per samenwerkingsinitiatief bedraagt 1059 euro.<br>
+Het maximale werkingsbudget per samenwerkingsinitiatief bedraagt&nbsp;995 euro.<br>
 <br>
 Het globale volume aan werkingsmiddelen wordt berekend conform artikel 140, § 5.<br>
 &nbsp;
