@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032513,
+  "title": "Ministerieel besluit van 2019-12-05 tot wijziging van diverse bepalingen van het ministerieel besluit van 28 december 2018 houdende algemene bepalingen inzake de energieprestatieregelgeving, energieprestatiecertificaten en de certificering van aannemers en installateurs",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032513/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "61b7a9fe9afb4019e27b1eb3d96ea2d9406487da4a0950bb114fe25eb696ee62",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032513&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2019-12-05",
+  "gazette": "2019-12-18",
+  "numac": 2019042847,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
