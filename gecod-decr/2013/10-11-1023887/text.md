@@ -7789,11 +7789,13 @@ Vanaf het begrotingsjaar 2015 wordt in een bijkomende financiering   voorzien vo
 <br>
 De gegenereerde middelen, vermeld in punt 1° en 2°, zijn het aantal leraarsuren voor de hbo5-opleidingen in het desbetreffende centrum of centra voor volwassenenonderwijs voor het schooljaar 2018-2019, berekend conform de artikelen 98 en 99 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, vermenigvuldigd met 98,39 euro. Dit bedrag van 98,39 euro wordt tot en met het begrotingsjaar 2019 aangepast aan de evolutie van de gezondheidsindex. De referentiedatum voor de aanpassing is 1 september 2017.<br>
 <br>
-§ 2. De middelen, vermeld in paragraaf 1, 2°, worden cumulatief vermenigvuldigd met het volgende percentage :<br>
-1° voor het begrotingsjaar 2020 : het percentage van de evolutie tussen het aantal lestijden waarvoor werd ingeschreven gedeeld door 12 van het schooljaar 2018-2019 en het aantal lestijden waarvoor werd ingeschreven gedeeld door 12 van het schooljaar 2017-2018 van de betrokken centra voor volwassenenonderwijs;<br>
-2° voor het begrotingsjaar 2021 : het percentage van de evolutie tussen het aantal opgenomen studiepunten van het academiejaar 2019-2020 in de hogeschool en het aantal lestijden waarvoor werd ingeschreven gedeeld door 12 van het schooljaar 2018-2019 van de betrokken centra voor volwassenenonderwijs;<br>
-3° voor het begrotingsjaar 2022 : het percentage van de evolutie tussen het aantal opgenomen studiepunten in de graduaatsopleidingen van het academiejaar 2020-2021 en het aantal opgenomen studiepunten van het academiejaar 2019-2020 in de hogeschool;<br>
-4° voor de begrotingsjaren 2023 en 2024 monitort de Vlaamse Regering budgettaire effecten van de open-end financiering van de graduaatsopleidingen tweemaal per jaar in functie van begrotingsopmaak en begrotingscontrole. Op basis van deze monitoring kan de regering ingrijpen in het groeimechanisme om deze effecten onder controle te houden en eventueel beslissen om over te stappen op een budgetbeheersbaar financieringssysteem.<br>
+§ 2. De som van de middelen zoals toegekend aan de hogescholen overeenkomstig paragraaf 1, 2°, wordt cumulatief vermenigvuldigd met het volgende percentage:<br>
+1° voor het begrotingsjaar 2020: het percentage van de evolutie tussen het aan- tal lestijden waarvoor werd ingeschreven gedeeld door 12 van het schooljaar 2018-2019 en het aantal lestijden waarvoor werd ingeschreven gedeeld door 12 van het schooljaar 2017-2018 van alle betrokken centra voor volwassenen- onderwijs;<br>
+2° voor het begrotingsjaar 2021: het percentage van de evolutie tussen het aan- tal opgenomen studiepunten in de graduaatsopleidingen van het academiejaar 2019-2020 in de hogescholen en het aantal lestijden waarvoor werd inge schreven gedeeld door 12 van het schooljaar 2018-2019 van alle betrokken centra voor volwassenenonderwijs;<br>
+3° voor het begrotingsjaar 2022: het percentage van de evolutie tussen het aan- tal opgenomen studiepunten in de graduaatsopleidingen van het academie- jaar 2020-2021 en het aantal opgenomen studiepunten van het academiejaar 2019-2020 in de hogescholen;<br>
+4° voor de begrotingsjaren 2023 en 2024 monitort de Vlaamse Regering bud- gettaire effecten van de open-endfinanciering van de graduaatsopleidingen tweemaal per jaar in functie van begrotingsopmaak en begrotingscontrole. Op basis van deze monitoring kan de regering ingrijpen in het groeimechanisme om deze effecten onder controle te houden en eventueel beslissen om over te stappen op een budgetbeheersbaar financieringssysteem.<br>
+<br>
+De groei berekend overeenkomstig het eerste lid wordt jaarlijks onder de betrokken hogescholen verdeeld op basis van hun aandeel in de groei van het aan- tal lestijden gedeeld door 12 respectievelijk het aantal opgenomen studiepunten.<br>
 <br>
 § 3. De middelen, vermeld in paragraaf 1, worden vanaf het begrotingsjaar 2020 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.<br>
 <br>
@@ -8475,7 +8477,7 @@ Het aantal gewogen opgenomen studiepunten per universiteit is gelijk aan de som 
 <br>
 § 5. Indien de Hogere Zeevaartschool gebruik maakt van de bepaling, vermeld in artikel 50, § 2, van het decreet betreffende het secundair na secundair onderwijs en het hoger beroepsonderwijs, kan ze geen aanspraak maken op de werkingstoelage als vermeld in paragraaf 1.<br>
 <br>
-§ 6. In afwijking van paragraaf 3 is het bedrag van de werkingstoelage van een hogeschool in het begrotingsjaar 2020 gelijk aan het conform artikel III.5, § 9, geïndexeerde bedrag van de werkingsuitkering dat de hogeschool ontvangen heeft in het begrotingsjaar 2019. Dit bedrag wordt in het begrotingsjaar 2020 toegevoegd aan het bedrag dat de hogescholen ontvangen van de centra voor volwassenenonderwijs, zoals vermeld in artikel III.42/1.</p>
+§ 6. In afwijking van paragraaf 3 is het bedrag van de werkingstoelage van een hogeschool in het begrotingsjaar 2020 en 2021 gelijk aan het conform artikel III.5, § 9, geïndexeerde bedrag van de werkingsuitkering dat de hogeschool ontvangen heeft in het begrotingsjaar 2019. Vanaf het begrotingsjaar 2022 worden deze middelen toegevoegd aan het variabel onderwijsdeel voor de graduaatsopleidingen VOWhbo, vermeld in artikel III.5.</p>
 
 ### ART. III.56.
 
@@ -8620,7 +8622,33 @@ b) Vrije Universiteit Brussel 236.277,78<br>
 c) Universiteit Antwerpen 40.159,42<br>
 d) Universiteit Hasselt 9.010,96.<br>
 <br>
-Vanaf het begrotingsjaar 2020 volgen deze bedragen de evolutie van de gezondheidsindex.</p>
+Vanaf het begrotingsjaar 2020 volgen deze bedragen de evolutie van de gezondheidsindex.<br>
+<br>
+§ 8. Naast de bedragen, vermeld in paragraaf 1, 2, 5, 6 en 7, ontvangen vanaf het begrotingsjaar 2020 de volgende universiteiten de hierna vermelde bijkomende uitkering, uitgedrukt in euro, als bijdrage in het dekken van de kosten, vermeld in paragraaf 1 en 2:</p>
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>a) Katholieke Universiteit Leuven</td>
+			<td>714.551,84</td>
+		</tr>
+		<tr>
+			<td>b) Vrije Universiteit Brussel</td>
+			<td>236.277,78</td>
+		</tr>
+		<tr>
+			<td>c) Universiteit Antwerpen</td>
+			<td>40.159,42</td>
+		</tr>
+		<tr>
+			<td>d) Universiteit Hasselt</td>
+			<td>9.010,96</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+Vanaf het begrotingsjaar 2021 volgen deze bedragen de evolutie van de gezondheidsindex.</p>
 
 <p>&nbsp;</p>
 
@@ -8754,7 +8782,9 @@ Deze bedragen gelden als basis voor de berekeningen, vermeld in paragraaf 1.<br>
 
 ### ART. III.75.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De   basissubsidie die de Vlaamse Gemeenschap beschikbaar stelt van het bijzonder   universitair instituut worden voor de toepassing van artikel IV.18 en IV.19   beschouwd als werkingsuitkering.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>De   loonkosten voor in artikel V.228 bedoelde personeelsleden worden vooraf genomen   van de basissubsidie. Elk bijzonder universitair instituut kan het saldo   aanwenden voor het dekken van werkingskosten en voor de aanwerving van   personeelsleden buiten de personeelsformatie van de Initiërende Universiteit   onder marktconforme voorwaarden, maar alleen in het kader van overeenkomsten van   bepaalde duur van ten hoogste 6 jaar.</P>
+<p style="margin-right: 0cm; margin-left: 0cm;">De basissubsidie die de Vlaamse Gemeenschap beschikbaar stelt van het bijzonder universitair instituut worden voor de toepassing van artikel IV.18&nbsp;beschouwd als werkingsuitkering.<br>
+<br>
+De loonkosten voor in artikel V.228 bedoelde personeelsleden worden vooraf genomen van de basissubsidie. Elk bijzonder universitair instituut kan het saldo aanwenden voor het dekken van werkingskosten en voor de aanwerving van personeelsleden buiten de personeelsformatie van de Initiërende Universiteit onder marktconforme voorwaarden, maar alleen in het kader van overeenkomsten van bepaalde duur van ten hoogste 6 jaar.</p>
 
 ## Hoofdstuk 4 Universitaire steunpunten
 
@@ -9068,7 +9098,31 @@ De instellingen voor postinitieel onderwijs kunnen aan de personeelsleden van de
 
 ### ART. III.118.
 
-<P style="MARGIN: 0cm 0cm 0pt">§1. De basissubsidie van de Vlaamse Gemeenschap   aan het Instituut voor Tropische Geneeskunde wordt vanaf het begrotingsjaar 2007   vastgesteld op 9.776.000 euro.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§2. De basissubsidie van de Vlaamse Gemeenschap   aan de Vlerick Business School wordt vanaf het begrotingsjaar 2002 vastgesteld   op 1.665.000 euro.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§3. De basissubsidie van de Vlaamse Gemeenschap   aan de Antwerp Management School wordt vanaf het begrotingsjaar 2008 vastgesteld   op 1.000.000 euro.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§4. Door middel van een subsidie van 591.000 euro   draagt de Vlaamse Regering vanaf het begrotingsjaar 2007 bij in het dekken van   de investeringskosten van het Instituut voor Tropische Geneeskunde.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§5. De bedragen vermeld in paragraaf 1, 2 en 3   worden binnen de perken van de begroting van de Vlaamse Gemeenschap jaarlijks   geïndexeerd aan de hand van de indexeringsformule vermeld in artikel III.5,   §9.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het bedrag vermeld in paragraaf 4 wordt binnen de   perken van de begroting van de Vlaamse Gemeenschap vanaf het begrotingsjaar 2008   geïndexeerd overeenkomstig artikel III.54, §2.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Voor de begrotingsjaren 2012, 2013 en 2015 worden   de bedragen vermeld in paragraaf 1, 2 en 3 van dit artikel, binnen de perken van   de begroting van de Vlaamse Gemeenschap, geïndexeerd aan de hand van de   indexeringsformule vermeld in artikel III.5, §9, tweede lid.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§6. De bovengenoemde subsidies worden in gelijke   maandelijkse termijnen uitbetaald, behoudens de investeringssubsidies die per   kwartaal worden betaald.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§7. De Vlaamse Regering kan de hoogte van de   basissubsidies herzien afhankelijk van de mate waarin de in de   beheersovereenkomst afgesproken doelstellingen worden gehaald of niet.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§8. De Vlaamse Regering kan een deel van de   maandelijkse termijnen inhouden en desgevallend terugvorderen indien de Vlaamse   Regering vaststelt dat de instellingen de beheersovereenkomst niet   naleven.<BR><BR>§ 9. De bedragen voor de instellingen voor postinitieel   onderwijs, met uitzondering van de bedragen vermeld in paragraaf 4 berekend   overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 2 %   verminderd.</P>
+<p style="margin-right: 0cm; margin-left: 0cm;">§1. De basissubsidie van de Vlaamse Gemeenschap aan het Instituut voor Tropische Geneeskunde wordt vanaf het begrotingsjaar 2007 vastgesteld op 9.776.000 euro.<br>
+<br>
+§2. De basissubsidie van de Vlaamse Gemeenschap aan de Vlerick Business School wordt vanaf het begrotingsjaar 2002 vastgesteld op 1.665.000 euro.<br>
+<br>
+§3. De basissubsidie van de Vlaamse Gemeenschap aan de Antwerp Management School wordt vanaf het begrotingsjaar 2008 vastgesteld op 1.000.000 euro.<br>
+<br>
+§4. Door middel van een subsidie van 591.000 euro draagt de Vlaamse Regering vanaf het begrotingsjaar 2007 bij in het dekken van de investeringskosten van het Instituut voor Tropische Geneeskunde.<br>
+<br>
+§5. De bedragen vermeld in paragraaf 1, 2 en 3 worden binnen de perken van de begroting van de Vlaamse Gemeenschap jaarlijks geïndexeerd aan de hand van de indexeringsformule vermeld in artikel III.5, §9.<br>
+<br>
+Het bedrag vermeld in paragraaf 4 wordt binnen de perken van de begroting van de Vlaamse Gemeenschap vanaf het begrotingsjaar 2008 geïndexeerd overeenkomstig artikel III.54, §2.<br>
+<br>
+Voor de begrotingsjaren 2012, 2013 en 2015 worden de bedragen vermeld in paragraaf 1, 2 en 3 van dit artikel, binnen de perken van de begroting van de Vlaamse Gemeenschap, geïndexeerd aan de hand van de indexeringsformule vermeld in artikel III.5, §9, tweede lid.<br>
+<br>
+§6. De bovengenoemde subsidies worden in gelijke maandelijkse termijnen uitbetaald, behoudens de investeringssubsidies die per kwartaal worden betaald.<br>
+<br>
+§7. De Vlaamse Regering kan de hoogte van de basissubsidies herzien afhankelijk van de mate waarin de in de beheersovereenkomst afgesproken doelstellingen worden gehaald of niet.<br>
+<br>
+§8. De Vlaamse Regering kan een deel van de maandelijkse termijnen inhouden en desgevallend terugvorderen indien de Vlaamse Regering vaststelt dat de instellingen de beheersovereenkomst niet naleven.<br>
+<br>
+§ 9. De bedragen voor de instellingen voor postinitieel onderwijs, met uitzondering van de bedragen vermeld in paragraaf 4 berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 2 % verminderd.<br>
+<br>
+§ 10. Het bedrag voor de Vlerick Business School, berekend overeenkomstig dit artikel, wordt vanaf het begrotingsjaar 2020 met 121.000 euro verminderd.<br>
+<br>
+Het bedrag voor de Antwerp Management School, berekend overeenkomstig dit artikel, wordt vanaf het begrotingsjaar 2020 met 63.000 euro verminderd.</p>
 
 ## Hoofdstuk 5 Hogere instituten en andere instellingen voor Schone Kunsten
 
@@ -9118,7 +9172,9 @@ De besluiten die de Vlaamse Regering neemt in uitvoering van de bepalingen van d
 <br>
 §5. In afwijking van het bepaalde in paragraaf 3 kunnen lopende beheersovereenkomsten maximaal 2 keer met ten hoogste 1 jaar verlengd worden, in geval de evaluatie van de wijze waarop de lopende beheersovereenkomst werd uitgevoerd, onvoldoende positief is om een nieuwe beheersovereenkomst met een looptijd van 5 jaar af te sluiten. Indien na deze verlenging(en) naar het oordeel van de Vlaamse Regering de betrokken instelling een deugdelijk beleidsplan heeft voorgelegd, kan een nieuwe beheersovereenkomst met een looptijd van maximaal 4 jaar worden gesloten.<br>
 <br>
-§ 6. De bedragen voor de hogere instituten voor schone kunsten en voor de instellingen die excellente kunstopleidingen organiseren, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 2 % verminderd. Voor de berekening van de 2 % worden de bijkomende toelagen van 250.000 euro in 2015 en 2016 en van 400.000 euro vanaf 2018 niet in rekening gebracht.</p>
+§ 6. De bedragen voor de hogere instituten voor schone kunsten en voor de instellingen die excellente kunstopleidingen organiseren, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 2 % verminderd. Voor de berekening van de 2 % worden de bijkomende toelagen van 250.000 euro in 2015 en 2016 en van 400.000 euro vanaf 2018 niet in rekening gebracht.<br>
+<br>
+§ 7. De bedragen voor de hogere instituten voor schone kunsten en voor de instellingen die excellente kunstopleidingen organiseren, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2020 met 265.000 euro verminderd.</p>
 
 ## TITEL 4 Evaluatie
 
@@ -9252,7 +9308,7 @@ Als de in het eerste en derde lid bepaalde termijnen verstreken zijn, wordt de b
 
 ### ART. IV.19.
 
-<P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: -72.0pt -36.0pt"   class=MsoNormal>Indien de volgens artikel IV.18 begrote bezettingsgraad vermeerderd met   de bezoldigingskosten van de gastprofessoren, met uitzondering van de   gastprofessoren bezoldigd met daartoe bestemde giften of ten laste van   overeenkomsten met derden die uitdrukkelijk in deze bezoldiging voorzien, en de   plaatsvervangers, leidt tot uitgaven die in een bepaald begrotingsjaar meer dan   80% van jaarlijkse werkingsuitkering opslorpen, is de universiteit ertoe   gehouden om deze bepaling van de begrote bezetting ten aanzien van de Vlaamse   Regering te verantwoorden. <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: -72.0pt -36.0pt"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: -72.0pt -36.0pt"   class=MsoNormal>Indien de volgens artikel IV.18 begrote bezettingsgraad vermeerderd met   de bezoldigingskosten van de gastprofessoren, met uitzondering van de   gastprofessoren bezoldigd met daartoe bestemde giften of ten laste van   overeenkomsten met derden die uitdrukkelijk in deze bezoldiging voorzien, en de   plaatsvervangers, leidt tot uitgaven die in een bepaald begrotingsjaar meer dan   85% van de jaarlijkse werkingsuitkering opslorpen, is de universiteit ertoe   gehouden samen met de begroting een financieringsplan in te dienen waarbij wordt   aangegeven op welke wijze en binnen welke termijn de financiële herstructurering   van de universiteit met de beschikbare reserves zal worden gerealiseerd. Zolang   de Vlaamse Regering dit financieringsplan niet heeft goedgekeurd, kan er in de   universiteit niemand meer worden benoemd of aangesteld ten laste van de   werkingsuitkeringen. </P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: -72.0pt -36.0pt"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: -72.0pt -36.0pt"   class=MsoNormal>De   Vlaamse Regering bepaalt de wijze waarop de 80-85 %norm moet berekend   worden.</P>
+...
 
 ## Hoofdstuk 4 Vaststelling van de begroting en de personeelsformatie van de hogescholen
 
@@ -9315,17 +9371,7 @@ Een benoeming of aanstelling in een ambt van het onderwijzend personeel is slech
 
 ### ART. IV.32.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. De geraamde bezoldigingskosten - met inbegrip van de mandaatvergoedingen en premies - van de geraamde personeelsformatie, van de contractuele personeelsleden bezoldigd ten laste van de werkingsuitkering en van de plaatsvervangers kunnen maximaal 5% variëren in min of in plus op de norm 80% van de jaarlijkse werkingsuitkering.<br>
-<br>
-In geval van een herstructurering zoals bedoeld in artikel I.3, 34°, kunnen de herstructurerende instellingen op gemotiveerde wijze afwijken van de in de eerste alinea bedoelde variatie.<br>
-<br>
-Hogescholen die met ingang van het academiejaar 2019-2020 opleidingen van het hoger beroepsonderwijs aanbieden kunnen tot en met het begrotingsjaar 2025 op gemotiveerde wijze afwijken van de in de eerste alinea bedoelde variatie.<br>
-<br>
-§2. Als de bezoldigingskosten zoals bepaald in paragraaf 1 hoger worden geraamd dan 85% van de jaarlijkse werkingsuitkering, dient de hogeschool samen met de begroting een financieringsplan in, dat aangeeft op welke wijze en binnen welke termijn zij met de beschikbare reserves de financiële herstructurering zal realiseren. De hogeschool kan niemand benoemen of aanstellen ten laste van de werkingsuitkering voordat de Vlaamse Regering dit financieringsplan heeft goedgekeurd.<br>
-<br>
-§3. Als de bezoldigingskosten zoals bepaald in paragraaf 1 lager worden geraamd dan 75% van de jaarlijkse werkingsuitkering, stelt de hogeschool samen met de begroting een personeelsstructuurplan op om het minimumniveau van 75% te bereiken. Dit personeelsstructuurplan behoeft de goedkeuring van het hogeschoolonderhandelingscomité.<br>
-<br>
-§4. De Vlaamse Regering legt de wijze vast voor het berekenen van de procentnormen zoals bepaald in de voorgaande paragrafen.</p>
+<p style="margin-right: 0cm; margin-left: 0cm;">...</p>
 
 ### ART. IV.33.
 
@@ -10253,7 +10299,17 @@ Met het oog op de opname van het personeelslid in de werkloosheidsverzekering, d
 
 ### ART. V.60.
 
-<P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>De   Vlaamse Regering bepaalt de graden en de niveaus en stelt de daaraan verbonden   salarisschalen van het administratief en technisch personeel vast.   <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Het   universiteitsbestuur schaalt de leden van het administratief en technisch   personeel bij eerste aanstelling of benoeming in de overeenstemmende   salarisschaal, rekening houdend, geheel of gedeeltelijk, met de verworven   ervaring, de doorlopen beroepscarrière en de verworven kwalificaties.   </P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Het   salaris van een lid van het administratief en technisch personeel in deeltijds   dienstverband is een evenredig deel van het salaris van een lid van het   administratief en technisch personeel in voltijds dienstverband.   </P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>De   anciënniteitsopbouw in een salarisschaal is gelijk aan de nominale   aanstellingsduur, ongeacht de omvang van het dienstverband.   </P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Het   universiteitsbestuur kan aan door hem bepaalde categorieën van het   administratief en technisch personeel een arbeidsmarktschaarstetoeslag toekennen   van maximaal 20% van het jaarsalaris voor een periode van maximum 2 jaar. Deze   toeslag is hernieuwbaar zolang de arbeidsmarktkrapte voortduurt.   </P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Het   universiteitsbestuur kan jaarlijks een premie toekennen aan leden van het   administratief en technisch personeel na evaluatie van de geleverde prestaties.   De premies worden aangerekend op de personeelsuitgaven voor het administratief   en technisch personeel. Het totaal bedrag aan voorziene premies beloopt ten   hoogste 1% van de geraamde personeelsuitgaven voor het administratief en   technisch personeel zoals die blijken uit afdeling I van de begroting bedoeld in   artikel IV.14. De premies worden meegerekend als personeelsuitgaven voor het   bepalen van de in artikel IV.19 bedoelde 80%- of 85%   norm.</P>
+<p style="margin-right: 0cm; margin-left: 0cm;">De Vlaamse Regering bepaalt de graden en de niveaus en stelt de daaraan verbonden salarisschalen van het administratief en technisch personeel vast.<br>
+<br>
+Het universiteitsbestuur schaalt de leden van het administratief en technisch personeel bij eerste aanstelling of benoeming in de overeenstemmende salarisschaal, rekening houdend, geheel of gedeeltelijk, met de verworven ervaring, de doorlopen beroepscarrière en de verworven kwalificaties.<br>
+<br>
+Het salaris van een lid van het administratief en technisch personeel in deeltijds dienstverband is een evenredig deel van het salaris van een lid van het administratief en technisch personeel in voltijds dienstverband.<br>
+<br>
+De anciënniteitsopbouw in een salarisschaal is gelijk aan de nominale aanstellingsduur, ongeacht de omvang van het dienstverband.<br>
+<br>
+Het universiteitsbestuur kan aan door hem bepaalde categorieën van het administratief en technisch personeel een arbeidsmarktschaarstetoeslag toekennen van maximaal 20% van het jaarsalaris voor een periode van maximum 2 jaar. Deze toeslag is hernieuwbaar zolang de arbeidsmarktkrapte voortduurt.<br>
+<br>
+Het universiteitsbestuur kan jaarlijks een premie toekennen aan leden van het administratief en technisch personeel na evaluatie van de geleverde prestaties. De premies worden aangerekend op de personeelsuitgaven voor het administratief en technisch personeel. Het totaal bedrag aan voorziene premies beloopt ten hoogste 1% van de geraamde personeelsuitgaven voor het administratief en technisch personeel zoals die blijken uit afdeling I van de begroting bedoeld in artikel IV.14.</p>
 
 ### ART. V.61.
 
@@ -10304,7 +10360,13 @@ Het universiteitsbestuur betaalt de werkgevers- en werknemersbijdragen die nodig
 
 ### ART. V.64.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Een   universiteit die academische hogeschoolopleidingen integreert, neemt met ingang   van 1 oktober 2013 de personeelsleden in het integratiekader over van die   hogeschool of hogescholen die academische opleidingen overdragen aan de   desbetreffende universiteit, en dit voor de omvang van de opdracht, zoals   opgenomen in de lijst vermeld in artikel V.209, §7, 7°.<?xml:namespace prefix =   o ns = "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De   personeelsleden in het integratiekader worden vanaf 1 oktober 2013   personeelsleden van de desbetreffende universiteit, en dit voor de omvang van de   opdracht, zoals opgenomen in de lijst vermeld in artikel V.209, §7,   7°.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De   universiteit treedt ten opzichte van de personeelsleden in het integratiekader   vanaf 1 oktober 2013 in de rechten en verplichtingen van de hogeschool die voor   de integratie de betrokken personeelsleden tewerkstelde. In deze overdracht zijn   alle rechten en verplichtingen verbonden aan hangende en toekomstige procedures   inbegrepen.</P>
+<p style="margin-right: 0cm; margin-left: 0cm;">Een universiteit die academische hogeschoolopleidingen integreert, neemt met ingang van 1 oktober 2013 de personeelsleden in het integratiekader over van die hogeschool of hogescholen die academische opleidingen overdragen aan de desbetreffende universiteit, en dit voor de omvang van de opdracht, zoals opgenomen in de lijst vermeld in artikel V.209, §7, 7°.<br>
+<br>
+De personeelsleden in het integratiekader worden vanaf 1 oktober 2013 personeelsleden van de desbetreffende universiteit, en dit voor de omvang van de opdracht, zoals opgenomen in de lijst vermeld in artikel V.209, §7, 7°.<br>
+<br>
+Een universiteit kan vanaf 1 oktober 2019 de personeelsleden die opgenomen zijn op de lijst, vermeld in artikel 103ter decies, § 1, eerste lid, 2°, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, of artikel 84vicies ter, § 1, eerste lid, 2°, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991, opnemen in het integratiekader als een hogeschool die personeelsleden op grond van artikel V.206/1, eerste lid, van deze codex overgenomen heeft en de personeelsleden op grond van de overeenkomst, vermeld in artikel V.79/2, § 2, van deze codex aan de universiteit zijn toegewezen.<br>
+<br>
+De universiteit treedt ten opzichte van de personeelsleden in het integratiekader vanaf&nbsp;hun opname in het integratiekader in de rechten en verplichtingen van de hogeschool die voor de integratie de betrokken personeelsleden tewerkstelde. In deze overdracht zijn alle rechten en verplichtingen verbonden aan hangende en toekomstige procedures inbegrepen.</p>
 
 ### ART. V.65.
 
