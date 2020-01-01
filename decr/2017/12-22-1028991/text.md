@@ -76,6 +76,33 @@ Het beleidsplan, vermeld in het eerste lid, 7°, bevat een planning voor vier ja
 
 ## HOOFDSTUK 3. Subsidies voor jeugdwerk met maatschappelijk kwetsbare kinderen en jongeren
 
+### ART 5.
+
+§ 1. De Vlaamse Regering kan om de zes jaar werkingssubsidies toekennen aan geprofessionaliseerd jeugdwerk met maatschappelijk kwetsbare kinderen en jongeren om de participatie van de kinderen en jongeren te creëren of te stimuleren, waardoor de betrokken kinderen en jongeren aansluiting vinden bij instellingen of organisaties die hen kunnen helpen te integreren in de samenleving om zo hun achterstelling of uitsluiting weg te werken.<br>
+<br>
+§ 2. Om in aanmerking te komen voor werkingssubsidies, voldoet de werking met maatschappelijk kwetsbare kinderen en jongeren op het moment van de aanvraag aan al de volgende specifieke voorwaarden:<br>
+1° de initiatiefnemer is gevestigd in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br>
+2° de initiatiefnemer geeft uitvoering aan de opdracht, vermeld in paragraaf 1;<br>
+3° de initiatiefnemer organiseert zowel tijdens het schooljaar als tijdens de schoolvakanties een jeugdwerkaanbod;<br>
+4° de initiatiefnemer sensibiliseert voor mechanismen die afbreuk doen aan de rechten en gelijke kansen van kinderen en jongeren, op basis van zijn eigen praktijkervaring;<br>
+5° de initiatiefnemer dient een beleidsplan in voor een periode van zes jaar;<br>
+6° de initiatiefnemer bezit een privaatrechtelijke rechtspersoonlijkheid met een niet-commercieel karakter.<br>
+<br>
+In het beleidsplan, vermeld in het eerste lid, 5°, neemt de werking met maatschappelijk kwetsbare kinderen en jongeren de volgende elementen op:<br>
+1° de doelgroep die de initiatiefnemer bereikt;<br>
+2° het werkingsgebied van de initiatiefnemer;<br>
+3° de wijze waarop de initiatiefnemer invulling geeft aan de verschillende opdrachten, vermeld in paragraaf 2, 2° tot en met 4° ;<br>
+4° de wijze waarop de initiatiefnemer bij de uitvoering van de verschillende opdrachten samenwerkt met, dan wel ondersteund wordt door andere actoren met deskundigheid in de opdrachten, vermeld in paragraaf 2, 2° tot en met 4° ;<br>
+5° de wijze waarop de initiatiefnemer het personeels- en vrijwilligersbeleid vorm geeft.<br>
+<br>
+Het beleidsplan, vermeld in het eerste lid, 5°, bevat een planning voor zes jaar, met een concreet uitgewerkte inhoudelijke en financiële planning voor de eerste drie jaar. Na afloop van het derde jaar wordt het beleidsplan verder geconcretiseerd in een aan de administratie voor te leggen voortgangsrapport. Na afloop van het zesde jaar bezorgt de initiatiefnemer de administratie een werkingsverslag. De eerste periode van zes jaar loopt van 1 januari 2021 tot en met 31 december 2026.<br>
+<br>
+Alleen initiatiefnemers met een minimumaantal beroepskrachten dat de Vlaamse Regering bepaalt, komen in aanmerking voor de toekenning van subsidies op basis van dit artikel.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de nadere voorwaarden en de procedure voor de indiening van het beleidsplan, het voortgangsrapport en het werkingsverslag, alsook voor de beoordeling, de toekenning en de uitbetaling van de subsidies en het toezicht op de naleving van de algemene en specifieke subsidiëringsvoorwaarden.<br>
+<br>
+§ 4. De verenigingen, vermeld in artikel 13, eerste lid, ontvangen voor de eerste beleidsplanperiode een subsidie die ten minste 75 % bedraagt van de subsidie die aan die verenigingen in 2018 is toegekend, op voorwaarde dat ze beantwoorden aan de subsidiëringsvoorwaarden, vermeld in artikel 3 en 5, § 1 tot en met § 3.
+
 ## HOOFDSTUK 4. Subsidies voor jeugdwerk met kinderen en jongeren met een handicap
 
 ### ART 6.
@@ -113,6 +140,25 @@ De Vlaamse Regering bepaalt de nadere voorwaarden voor de indiening van de subsi
 
 ## HOOFDSTUK 5. Subsidies voor structurele intergemeentelijke samenwerking
 
+### ART 8.
+
+§ 1. De Vlaamse Regering kan om de zes jaar een werkingssubsidie toekennen aan intergemeentelijke projectverenigingen die de samenwerking en de netwerking stimuleren tussen de lokale besturen en het jeugdwerk binnen hun werkingsgebied.<br>
+<br>
+§ 2. Om in aanmerking te komen voor werkingssubsidies, voldoet de intergemeentelijke projectvereniging op het moment van de aanvraag aan al de volgende specifieke voorwaarden:<br>
+1° uitvoering geven aan de opdracht, vermeld in paragraaf 1;<br>
+2° een beleidsplan indienen voor een periode van zes jaar.<br>
+<br>
+In het beleidsplan, vermeld in het eerste lid, 2°, neemt de intergemeentelijke projectvereniging de volgende elementen op:<br>
+1° het werkingsgebied van de intergemeentelijke projectvereniging;<br>
+2° de wijze waarop de intergemeentelijke projectvereniging het personeelsbeleid vorm geeft;<br>
+3° de cofinanciering door de lokale besturen die minimaal 50 % van de werkingsmiddelen van de intergemeentelijke projectvereniging bedraagt.<br>
+<br>
+Het beleidsplan, vermeld in het eerste lid, 2°, bevat een planning voor zes jaar, met een concreet uitgewerkte inhoudelijke en financiële planning voor de eerste drie jaar.<br>
+<br>
+Na afloop van het derde jaar wordt het beleidsplan verder geactualiseerd in een aan de administratie voor te leggen voortgangsrapport. Na afloop van het zesde jaar bezorgt de intergemeentelijke projectvereniging de administratie een werkingsverslag. De eerste periode van zes jaar loopt van 1 januari 2021 tot en met 31 december 2026.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de nadere voorwaarden en de procedure voor de indiening van het beleidsplan, het voortgangsrapport en het werkingsverslag, alsook voor de beoordeling, de toekenning en de uitbetaling van de subsidie en het toezicht op de naleving van de algemene en specifieke subsidiëringsvoorwaarden.
+
 ## HOOFDSTUK 6. Wijzigingen van het decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid
 
 ### ART 9.
@@ -144,6 +190,20 @@ Aan artikel 17, § 1, van het decreet van 20 januari 2012 houdende een vernieuwd
 3° intergemeentelijke projectverenigingen.".
 
 ## HOOFDSTUK 7. Wijzigingen van het decreet van 7 mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele sector
+
+### ART 11.
+
+In artikel 12 van het decreet van 7 mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele sector, gewijzigd bij de decreten van 22 maart 2013 en 20 mei 2016, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° het tweede lid wordt vervangen door wat volgt:<br>
+<br>
+"De Vlaamse Regering legt voor de sectoren, vermeld in artikel 9, 1°, 3°, 4° en 5°, de objectieve parameters vast en bepaalt de nadere regels met betrekking tot de verdeling van de middelen binnen elke sector na voorafgaand advies van de betrokken adviesraden en na consultatie van de sociale partners.";<br>
+<br>
+2° het derde lid wordt opgeheven.
+
+### ART 12.
+
+In hoofdstuk III van hetzelfde decreet worden in het opschrift van afdeling 2 de woorden "gemeentelijk jeugdwerkbeleid en" opgeheven.
 
 ## HOOFDSTUK 8. Slotbepalingen
 
