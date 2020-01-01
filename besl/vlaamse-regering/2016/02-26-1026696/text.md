@@ -14,24 +14,22 @@ In dit besluit wordt verstaan onder :<br>
 3° collectieve inspraak : de collectieve inspraak, vermeld in artikel 30 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap;<br>
 4° decreet van 12 juli 2013 : het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
 5° gebruiker : de minderjarige persoon met een handicap die beschikt over een indicatiestelling als vermeld in artikel 20 van het decreet van 12 juli 2013;<br>
-5° /1 GES+ : ernstig externaliserend of internaliserend storend gedrag, in combinatie met een handicap, waarvan de impact dermate groot is dat er nood is aan continue, hoofdzakelijk residentiële ondersteuning met een semi-gesloten karakter;<br>
+5° /1 ...;<br>
 6° MFC : een multifunctioneel centrum voor minderjarige personen met een handicap als vermeld in artikel 2 van dit besluit;<br>
-6° /1 MFC GES+ : een multifunctioneel centrum voor minderjarige personen met GES+ als vermeld in artikel 2, tweede lid, van dit besluit;<br>
+6° /1 ...;<br>
 7° ministerieel besluit van 1 maart 2012 : het ministerieel besluit van 1 maart 2012 houdende vaststelling van de ondersteuningsvelden;<br>
 8° module : een duidelijk afgelijnde eenheid van jeugdhulpverlening als vermeld in artikel 2, § 1, 38°, van het decreet van 12 juli 2013, en in artikel 2 van het besluit van de Vlaamse Regering van 9 december 2005 betreffende de modulering in de integrale jeugdhulp;<br>
 9° residentiële ondersteuning : de voltijdse combinatie van de ondersteuningsfuncties verblijf met schoolaanvullende dagopvang of schoolvervangende dagopvang.
 
 ### ART. 2.
 
-Het agentschap kan binnen de grenzen van de kredieten die daarvoor ingeschreven zijn op de begroting, multifunctionele centra voor minderjarige personen met een handicap erkennen en subsidiëren.<br>
-<br>
-Het agentschap kan, binnen de grenzen van de kredieten die daarvoor ingeschreven zijn op de begroting, ook multifunctionele centra voor minderjarige personen met een handicap met GES+ erkennen en subsidiëren.
+Het agentschap kan binnen de grenzen van de kredieten die daarvoor ingeschreven zijn op de begroting, multifunctionele centra voor minderjarige personen met een handicap erkennen en subsidiëren.
 
 ## HOOFDSTUK 2 Erkenning
 
 ### ART. 3.
 
-Om erkend te worden en te blijven, moet een MFC en MFC GES+ voldoen aan de bepalingen, vermeld in dit hoofdstuk en hoofdstuk 3, 4 en 5 van dit besluit.
+Om erkend te worden en te blijven, moet een MFC voldoen aan de bepalingen, vermeld in dit hoofdstuk en hoofdstuk 3, 4 en 5 van dit besluit.
 
 ### ART. 4.
 
@@ -43,20 +41,7 @@ Om erkend te worden en te blijven, moet een MFC en MFC GES+ voldoen aan de bepal
 
 ### ART 5/1.
 
-Om erkend te worden en te blijven als MFC GES+, moet een MFC aan al de volgende erkenningsnormen voldoen :<br>
-1° ondersteuning bieden aan gebruikers met een normale begaafdheid tot licht verstandelijke handicap en GES+ of gebruikers met een matige of ernstige verstandelijke handicap en GES+;<br>
-2° aan minimaal zes gebruikers met GES+ residentiële ondersteuning kunnen bieden. Organisaties die nog niet beschikken over die capaciteit bij aanvang van de erkenning engageren zich om daar binnen drie jaar aan te voldoen;<br>
-3° beschikken over de module voor de ondersteuning van minderjarigen met GES+;<br>
-4° een aangepaste infrastructuur hebben zodat er bescherming en veiligheid kan worden geboden, als de problematiek van de gebruiker dat vereist. Organisaties die nog niet beschikken over die capaciteit bij aanvang van de erkenning engageren zich om daar binnen drie jaar aan te voldoen ;<br>
-5° kunnen voorzien in een besloten aanbod als de problematiek van de gebruiker dat vereist;<br>
-6° kunnen voorzien in voltijdse residentiële ondersteuning, zeven dagen op zeven, als de problematiek van de gebruiker dat vereist;<br>
-7° de gebruiker de ondersteuning, vermeld in artikel 9, § 2, kunnen aanbieden;<br>
-8° samenwerken met andere MFC GES+ uit de regio om ervoor te zorgen dat er residentiële ondersteuning kan worden geboden tot en met de leeftijd van 21 jaar als de problematiek van de gebruiker dat vereist;<br>
-9° samenwerken met andere MFC GES+ uit de regio om ervoor te zorgen dat 50% van de totale capaciteit voor MFC GES+ prioritair wordt ingezet voor uitstroom uit de gemeenschapsinstellingen;<br>
-10° sectoraal en intersectoraal samenwerken;<br>
-11° overdragen van specifieke knowhow aan andere actoren die betrokken zijn bij de ondersteuning van gebruikers met GES+.<br>
-<br>
-In het eerste lid wordt verstaan onder besloten aanbod : een veilige en beveiligde leefomgeving met individuele kamers en de mogelijkheid tot afzonderingsmaatregelen als vermeld in artikel 45 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap.
+...
 
 ## HOOFDSTUK 3 Doelgroep
 
@@ -70,13 +55,17 @@ Een   MFC kan gebruikers opnemen tot en met de leeftijd van eenentwintig   jaar.
 
 ### ART. 8.
 
-<P>&nbsp;Een MFC biedt ondersteuning aan   gebruikers die beschikken over een jeugdhulpverleningsbeslissing als vermeld in   artikel 26, § 1, eerste lid, 3°, van het decreet van 12 juli 2013, voor de niet   rechtstreeks toegankelijke modules dagopvang, verblijf of begeleiding of   diagnostiek voor voorzieningen met een specifieke diagnostische   opdracht.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Een   MFC continueert de ondersteuning van de opgenomen gebruikers met een beslissing   tot toewijzing van ondersteuningsveld Z11, Z25, Z30 of Z35 als vermeld in het   ministerieel besluit van 1 maart 2012.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Er   kan ook ondersteuning geboden worden aan gebruikers die van modules gebruikmaken   waarvoor alleen een indicatiestellingsverslag van niet rechtstreeks   toegankelijke hulp nodig is als vermeld in artikel 21, eerste lid, 2°, van het   decreet van 12 juli 2013.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Een MFC biedt ondersteuning aan gebruikers die beschikken over een jeugdhulpverleningsbeslissing als vermeld in artikel 26, § 1, eerste lid, 3°, van het decreet van 12 juli 2013, voor de niet rechtstreeks toegankelijke modules dagopvang, verblijf of begeleiding.</p>
+
+<p>Een MFC continueert de ondersteuning van de opgenomen gebruikers met een beslissing tot toewijzing van ondersteuningsveld Z11, Z25, Z30 of Z35 als vermeld in het ministerieel besluit van 1 maart 2012.</p>
+
+<p>Er kan ook ondersteuning geboden worden aan gebruikers die van modules gebruikmaken waarvoor alleen een indicatiestellingsverslag van niet rechtstreeks toegankelijke hulp nodig is als vermeld in artikel 21, eerste lid, 2°, van het decreet van 12 juli 2013.</p>
 
 ### ART. 9.
 
 <p>§ 1. In dit artikel wordt verstaan onder het besluit van 27 november 2015 het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget.</p>
 
-<p>§ 2. De gebruiker die in een MFC of MFC GES+ verblijft en de leeftijd van eenentwintig jaar heeft bereikt, kan verder ondersteund worden door een MFC of MFC GES+ tot en met de leeftijd van vijfentwintig jaar in de volgende gevallen :<br>
+<p>§ 2. De gebruiker die in een MFC&nbsp;verblijft en de leeftijd van eenentwintig jaar heeft bereikt, kan verder ondersteund worden door een MFC&nbsp;tot en met de leeftijd van vijfentwintig jaar in de volgende gevallen :<br>
 1° de gebruiker komt niet in aanmerking voor een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in artikel 17, eerste lid, van het besluit van 27 november 2015;<br>
 2° ...;<br>
 3° de gebruiker is een budgetcategorie toegekend met toepassing van artikel 17, eerste lid, van het besluit van 27 november 2015, heeft een zware ondersteuningsnood en kan geen zorg of ondersteuning krijgen bij een vergunde zorgaanbieder als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap.</p>
@@ -86,21 +75,48 @@ Een   MFC kan gebruikers opnemen tot en met de leeftijd van eenentwintig   jaar.
 2° de versterking van het netwerk van de jongvolwassene, met het oog op een zo groot mogelijke autonomie en zelfzorg en op een zo inclusief mogelijke opvang;<br>
 3° de begeleide doorstroom naar gezondheids- of welzijnsvoorzienigen.<br>
 <br>
-Indien de ondersteuning van de gebruiker, vermeld in paragraaf 2, 1°, niet het afronden van de schoolloopbaan tot doel heeft, gebeurt de ondersteuning in de vorm van de begeleiding, vermeld in artikel 10, § 5.</p>
-
-<p>De gebruiker die in een MFC met module diagnostiek verblijft en de leeftijd van eenentwintig jaar heeft bereikt, kan in dat MFC blijven ter afronding van zijn traject dat maximaal zesendertig maanden duurt.</p>
-
-<p>§ 4. In het geval, vermeld in paragraaf 2, 3°, moet de gebruiker beschikken over een toewijzing van minimaal budgetcategorie V als vermeld in artikel 17 van het besluit van 27 november 2015.</p>
+Indien de ondersteuning van de gebruiker, vermeld in paragraaf 2, 1°, niet het afronden van de schoolloopbaan tot doel heeft, gebeurt de ondersteuning in de vorm van de begeleiding, vermeld in artikel 10, § 5.<br>
+<br>
+§ 4. In het geval, vermeld in paragraaf 2, 3°, moet de gebruiker beschikken over een toewijzing van minimaal budgetcategorie V als vermeld in artikel 17 van het besluit van 27 november 2015.</p>
 
 ## HOOFDSTUK 4 Opdracht
 
 ### ART. 10.
 
-<P>§   1. Multifunctionele centra kunnen modules met de volgende ondersteuningsfuncties   aanbieden :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   verblijf;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   schoolaanvullende dagopvang;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   schoolvervangende dagopvang;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   begeleiding;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   diagnostiek.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Verblijf als vermeld in paragraaf 1, 1°, is een verblijf met overnachting in   een multifunctioneel centrum, met inbegrip van opvang en ondersteuning gedurende   de ochtend- en avonduren.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Verblijf   wordt uitgedrukt in nachten.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. Schoolaanvullende dagopvang als vermeld in paragraaf 1, 2°, is het aanbieden   van handicapspecifieke opvang overdag zonder schoolvervangend karakter, gericht   op het stimuleren van de ontwikkelingskansen en van de   ontwikkelingsmogelijkheden van de gebruiker.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Schoolaanvullende   dagopvang wordt uitgedrukt in dagdelen. Een dagdeel is de voor- of de   namiddag.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   4. Schoolvervangende dagopvang als vermeld in paragraaf 1, 3°, is de dagopvang   waarbij er een alternatief programma wordt aangeboden, zo veel mogelijk in   samenwerking en in afstemming met een onderwijsinstelling.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Schoolvervangende   dagopvang wordt uitgedrukt in dagdelen. Een dagdeel is de voor- of de   namiddag.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   5. Begeleiding als vermeld in paragraaf 1, 4°, omvat de algemene psychosociale   ondersteuning of ADL-ondersteuning, zowel mobiel als ambulant, aan de gebruiker   of zijn context. Onder mobiele begeleiding wordt verstaan dat de begeleiding van   een multifunctioneel centrum zich verplaatst naar de gebruiker of zijn context.   Onder ambulante begeleiding wordt verstaan dat de gebruiker of context zich   verplaatst naar een multifunctioneel centrum.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Elk   MFC moet minimaal ambulante of mobiele begeleiding aanbieden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Begeleiding   wordt uitgedrukt in uren.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   6. Diagnostiek als vermeld in paragraaf 1, 5°, omvat het uitvoeren van   handelingsgerichte diagnostiek al dan niet met classificatie bij de gebruiker en   zijn context.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Om   de typemodule diagnostiek te kunnen aanbieden, moet een multifunctioneel centrum   beschikken over een (kinder)psychiater of (kinder)neuroloog.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   het tweede lid wordt verstaan onder typemodule : een afgelijnde eenheid van   jeugdhulpverlening als vermeld in artikel 2, § 1, 53°, van het decreet van 12   juli 2013, en artikel 4 van het besluit van de Vlaamse Regering van 9 december   2005 betreffende de modulering in de integrale jeugdhulp.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   7. De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de   ondersteuningsfuncties, vermeld in dit artikel, wijzigen of kan nieuwe   ondersteuningsfuncties bepalen ingevolge wijzigingen van de modules met   toepassing van artikel 4 van het besluit van de Vlaamse Regering van 9 december   2005 betreffende de modulering in de integrale jeugdhulp.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. Multifunctionele centra kunnen modules met de volgende ondersteuningsfuncties aanbieden :<br>
+1° verblijf;<br>
+2° schoolaanvullende dagopvang;<br>
+3° schoolvervangende dagopvang;<br>
+4° begeleiding;<br>
+5° ...</p>
+
+<p>§ 2. Verblijf als vermeld in paragraaf 1, 1°, is een verblijf met overnachting in een multifunctioneel centrum, met inbegrip van opvang en ondersteuning gedurende de ochtend- en avonduren.</p>
+
+<p>Verblijf wordt uitgedrukt in nachten.</p>
+
+<p>§ 3. Schoolaanvullende dagopvang als vermeld in paragraaf 1, 2°, is het aanbieden van handicapspecifieke opvang overdag zonder schoolvervangend karakter, gericht op het stimuleren van de ontwikkelingskansen en van de ontwikkelingsmogelijkheden van de gebruiker.</p>
+
+<p>Schoolaanvullende dagopvang wordt uitgedrukt in dagdelen. Een dagdeel is de voor- of de namiddag.</p>
+
+<p>§ 4. Schoolvervangende dagopvang als vermeld in paragraaf 1, 3°, is de dagopvang waarbij er een alternatief programma wordt aangeboden, zo veel mogelijk in samenwerking en in afstemming met een onderwijsinstelling.</p>
+
+<p>Schoolvervangende dagopvang wordt uitgedrukt in dagdelen. Een dagdeel is de voor- of de namiddag.</p>
+
+<p>§ 5. Begeleiding als vermeld in paragraaf 1, 4°, omvat de algemene psychosociale ondersteuning of ADL-ondersteuning, zowel mobiel als ambulant, aan de gebruiker of zijn context. Onder mobiele begeleiding wordt verstaan dat de begeleiding van een multifunctioneel centrum zich verplaatst naar de gebruiker of zijn context. Onder ambulante begeleiding wordt verstaan dat de gebruiker of context zich verplaatst naar een multifunctioneel centrum.</p>
+
+<p>Elk MFC moet minimaal ambulante of mobiele begeleiding aanbieden.</p>
+
+<p>Begeleiding wordt uitgedrukt in uren.</p>
+
+<p>§ 6. ...</p>
+
+<p>§ 7. De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de ondersteuningsfuncties, vermeld in dit artikel, wijzigen of kan nieuwe ondersteuningsfuncties bepalen ingevolge wijzigingen van de modules met toepassing van artikel 4 van het besluit van de Vlaamse Regering van 9 december 2005 betreffende de modulering in de integrale jeugdhulp.</p>
 
 ### ART. 11.
 
-<P>&nbsp;Een MFC maakt, binnen de   geldigheidsduur van de toegewezen modules, een vlotte combinatie of overgang   mogelijk tussen de ondersteuningsfuncties verblijf, schoolaanvullende dagopvang,   schoolvervangende dagopvang, begeleiding of diagnostiek.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Naargelang   de behoeften in een individueel traject kunnen modules ook gecombineerd   worden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Een MFC maakt, binnen de geldigheidsduur van de toegewezen modules, een vlotte combinatie of overgang mogelijk tussen de ondersteuningsfuncties verblijf, schoolaanvullende dagopvang, schoolvervangende dagopvang of begeleiding.</p>
+
+<p>Naargelang de behoeften in een individueel traject kunnen modules ook gecombineerd worden.</p>
 
 ### ART. 12.
 
@@ -131,13 +147,7 @@ De   Vlaamse minister, bevoegd voor de bijstand aan personen, kan bepalen dat ee
 2° de werkingssubsidies van een MFC;<br>
 3° in voorkomend geval het hoogste bedrag voor de werkingssubsidies voor vervoer waarop het MFC gedurende de drie kalenderjaren voorafgaand aan de datum van inwerkingtreding van dit besluit recht had met toepassing van artikel 2 § 5 van het ministerieel besluit van 18 juni 1975 tot bepaling van de te volgen regels voor de vaststelling van het bedrag van de tegemoetkoming uit het Fonds voor medische, sociale en pedagogische zorg voor gehandicapten in de kosten voor onderhoud, opvoeding en behandeling van gehandicapten die geplaatst zijn in inrichtingen die onder het stelsel van het semi-internaat werken;</p>
 
-<p>Het agentschap bepaalt per MFC het aantal begeleidingsovereenkomsten die geregistreerd zijn tijdens het jaar voor de instap in het experiment MFC, dat opgezet werd vanaf 2012 en werd georganiseerd op basis van beheersovereenkomsten als vermeld in artikel 7/1, § 3, van het besluit van de Vlaamse Regering van 26 april 1995 tot vaststelling van de voorwaarden en maatregelen volgens welke het Vlaams Agentschap voor Personen met een Handicap bijzondere subsidies aan voorzieningen kan toekennen. Dat aantal geldt als referentie voor het te realiseren aantal begeleidingsovereenkomsten, vermeld in artikel 36 van dit besluit. Bij de bepaling van het aantal begeleidingsovereenkomsten wordt geen rekening gehouden met de gebruikers die opgenomen zijn via een persoonsvolgend convenant dat gesloten is met toepassing van artikel 3 van het besluit van de Vlaamse Regering van 19 juli 2002 houdende maatregelen om tegemoet te komen aan de noodzaak tot leniging van dringende behoeften van personen met een handicap.<br>
-<br>
-Een MFC GES+ ontvangt bijkomend op het aantal personeelspunten, vermeld in het eerste lid, 1°, 23, 60 personeelspunten voor de ondersteuning van één gebruiker met GES+. Die 23,60 personeelspunten worden toegevoegd aan de maximale personeelsnorm die bepaald is voor opvoedend en verzorgend personeel voor de doelgroep van gehandicapten met karakterstoornissen, vermeld in tabel 2 van bijlage II bij het ministerieel besluit van 24 april 1973 tot bepaling, wat betreft het Ministerie van Volksgezondheid en van het Gezin, van de te volgen bijzondere regels voor de vaststelling van de toelagen per dag, toegekend voor het onderhoud en de behandeling van de gehandicapten, geplaatst ten laste van de openbare besturen, zoals van kracht op 31 december 2015. Vanaf 1 september 2018 ontvangt dit MFC GES+ nog bijkomend 8,85 personeelspunten voor de ondersteuning van één gebruiker met GES+.<br>
-<br>
-In afwijking van het derde lid ontvangt een MFC GES+ 2,95 personeelspunten voor de ondersteuning van één gebruiker met GES+ als het MFC GES+ al een hogere personeelsomkadering heeft gekregen voor de opvang van zes gebruikers met GES+ conform de bepalingen van bijlage 2, Tabel I, Personeelsnormen voor inrichtingen die werken onder het internaatsstelsel, punt (9), van het ministerieel besluit van 24 april 1973 tot bepaling, wat betreft het Ministerie van Volksgezondheid en van het Gezin, van de te volgen bijzondere regels voor de vaststelling van de toelagen per dag, toegekend voor het onderhoud en de behandeling van de gehandicapten, geplaatst ten laste van de openbare besturen, zoals van kracht op 31 december 2015. Vanaf 1 september 2018 ontvangt dit MFC GES+ nog bijkomend 8,85 personeelspunten voor de ondersteuning van één gebruiker met GES+.<br>
-<br>
-Artikel 18 en 19 zijn niet van toepassing op de personeelspunten, vermeld in het derde tot en met vierde lid.</p>
+<p>Het agentschap bepaalt per MFC het aantal begeleidingsovereenkomsten die geregistreerd zijn tijdens het jaar voor de instap in het experiment MFC, dat opgezet werd vanaf 2012 en werd georganiseerd op basis van beheersovereenkomsten als vermeld in artikel 7/1, § 3, van het besluit van de Vlaamse Regering van 26 april 1995 tot vaststelling van de voorwaarden en maatregelen volgens welke het Vlaams Agentschap voor Personen met een Handicap bijzondere subsidies aan voorzieningen kan toekennen. Dat aantal geldt als referentie voor het te realiseren aantal begeleidingsovereenkomsten, vermeld in artikel 36 van dit besluit. Bij de bepaling van het aantal begeleidingsovereenkomsten wordt geen rekening gehouden met de gebruikers die opgenomen zijn via een persoonsvolgend convenant dat gesloten is met toepassing van artikel 3 van het besluit van de Vlaamse Regering van 19 juli 2002 houdende maatregelen om tegemoet te komen aan de noodzaak tot leniging van dringende behoeften van personen met een handicap.</p>
 
 ### ART. 17.
 
@@ -312,11 +322,7 @@ In afwijking van het vijfde lid hoeven de reserves die aangelegd zijn voor het s
 
 ### ART 36/1.
 
-Als een MFC GES+ gedurende twee opeenvolgende jaren niet aan de erkenningsnormen, vermeld in artikel 5/1, voldoet, of op jaarbasis geen bezettingsgraad van 75% van de zes gebruikers met GES+ behaalt, dan wordt vanaf het derde jaar het aantal personeelspunten dat het MFC conform artikel 16, derde lid, ontvangt, verminderd met 25 %.<br>
-<br>
-Als het MFC GES+ gedurende twee jaren na de jaren, vermeld in het eerste lid, nog steeds niet aan de erkenningsnormen, vermeld in artikel 5/1, voldoet, of op jaarbasis geen bezettingsgraad van 75% van de zes gebruikers met GES+ behaalt, dan wordt zijn erkenning als MFC GES+ ingetrokken.<br>
-<br>
-Tegen de intrekking van de erkenning als MFC GES+, vermeld in het tweede lid, kan het MFC GES+ beroep aantekenen conform artikel 17 van het besluit van de Vlaamse regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap.
+...
 
 ## HOOFDSTUK 6 Toezicht
 
