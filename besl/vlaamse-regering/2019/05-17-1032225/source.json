@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032225,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-17 tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032225/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "6a13e6d297073be4bbd28ded9b3d2b7ff6ab80198e080afbdc5b9a3b3bf9aa9b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032225&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2019-05-17",
+  "gazette": "2019-09-11",
+  "numac": 2019014302,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
