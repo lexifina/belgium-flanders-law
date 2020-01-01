@@ -65,17 +65,17 @@
 
 ### ART. 12.
 
-<P>&nbsp;§ 1. De gemeenten of de samenwerkingsverbanden, vermeld in artikel 7, §   2, uit het tweetalige gebied Brussel-Hoofdstad dienen hun subsidieaanvraag in   bij de minister uiterlijk op 15 januari van het eerste jaar van de lokale   beleidscyclus.<BR></P>  <P>Uiterlijk op 30 april van dat jaar brengt de minister de gemeenten of   samenwerkingsverbanden ervan op de hoogte of de subsidieaanvraag aanvaard is, en   van de hoogte van het toe te kennen jaarlijkse subsidiebedrag. <BR></P>  <P>§ 2. Het subsidiebedrag dat toegekend is voor een bepaald jaar, wordt   uitgekeerd in maximaal twee gelijke delen, uiterlijk op 30 juni en 30 november   van elk jaar.<BR></P>  <P>§ 3. De gemeenten of samenwerkingsverbanden uit het tweetalige gebied   Brussel-Hoofdstad rapporteren uiterlijk op 31 juli van elk jaar over de   uitvoering van hun meerjarenplanning. <BR></P>  <P>Ze maken daarbij gebruik van een standaardformulier voor   voortgangsrapportering.<BR></P>  <P>Ze bezorgen aan de minister de relevante onderdelen van de jaarrekening van   het voorafgaande jaar die door hun raden goedgekeurd is. Daarin geven ze aan   welke activiteiten en prestaties verricht zijn of welke effecten bereikt zijn in   het kader van de Vlaamse beleidsprioriteiten. <BR></P>  <P>§ 4. Als een gemeente of een samenwerkingsverband niet voldoet aan de   rapporteringsverplichtingen, als de rapportering manifest onduidelijk is, of als   onvoldoende wordt aangetoond dat de vooropgestelde doelstellingen zijn   nagestreefd, maakt de minister uiterlijk drie maanden na de ontvangst van de   rapportering bezwaar. <BR></P>  <P>De gemeente of het samenwerkingsverband bezorgt, binnen twee maanden na de   ontvangst van het bezwaar, de minister ofwel een aangepaste rapportering, ofwel   een motiverende nota waarom bepaalde verbintenissen niet konden worden   nagekomen. <BR></P>  <P>De minister bezorgt daaropvolgend zijn beslissing aan de gemeente of het   samenwerkingsverband in kwestie binnen twee maanden na de ontvangst van de   aangepaste rapportering of motiverende nota. Hij kan die termijn eenmalig   verlengen met een maand.<BR></P>  <P>De gemeente of het samenwerkingsverband is gehouden tot onmiddellijke   terugbetaling van de subsidie indien de controle wordt verhinderd of indien uit   de aangepaste rapportering of uit de bijkomende motivering blijkt dat : <BR>1°   de voorwaarden niet werden nageleefd waaronder de subsidie werd verleend;<BR>2°   de subsidie niet werd aangewend voor de doeleinden waarvoor zij werd verleend.   <BR></P>  <P>De minister keert in dat geval verdere toegezegde subsidies in eerste   instantie niet uit en vordert in tweede instantie reeds toegekende subsidies   terug ten belope van het deel dat niet werd verantwoord.<BR></P>
+...
 
 ## Afdeling 5 [... (opgeh. BVR 12 oktober 2018, art. 3, I: 1 januari 2020)]
 
 ### ART. 13.
 
-De minister wordt gemachtigd om in het kader van het impulsbeleid   ontwikkelingssamenwerking de bevoegdheden uit te oefenen die toekomen aan de   Vlaamse Regering met toepassing van artikel 11 van het decreet van 15 juli 2011   houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap   en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale   besturen kunnen worden opgelegd.<BR>
+...
 
 ### ART. 14.
 
-De minister stelt modellen op voor : <BR>1° het formulier voor de   indiening van de meerjarenplanning door gemeenten en samenwerkingsverbanden uit   het tweetalige gebied Brussel-Hoofdstad;<BR>2° het formulier voor de jaarlijkse   voortgangsrapportering door gemeenten en samenwerkingsverbanden uit het   tweetalige gebied Brussel-Hoofdstad.<BR>
+...
 
 ## [HOOFDSTUK 3 De verankering van de internationale ontwikkelingsagenda in Vlaanderen (verv. BVR 12 oktober 2018, art. 4, I: 1 januari 2019)]
 
