@@ -609,6 +609,19 @@ In hetzelfde decreet wordt het opschrift van hoofdstuk I van titel IV vervangen 
 In titel IV, hoofdstuk I, van hetzelfde decreet wordt een afdeling I, die bestaat uit artikel 141 tot en met 145, ingevoegd, die luidt als volgt:<br>
 "Afdeling I. Algemene bepalingen".
 
+### ART 87.
+
+Artikel 141 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt vervangen door wat volgt:<br>
+"Art. 141. § 1. De beleidsrapporten van de provincie zijn het meerjarenplan, de aanpassingen van het meerjarenplan en de jaarrekening.<br>
+<br>
+Met het begrip begroting uit de Provinciewet wordt bedoeld: het meerjarenplan en de aanpassingen ervan.<br>
+<br>
+§ 2. Elk ontwerp van beleidsrapport wordt op zijn minst veertien dagen voor de vergadering waarop het wordt besproken aan ieder lid van de provincieraad bezorgd.<br>
+<br>
+Vanaf het ogenblik dat het ontwerp van het beleidsrapport bezorgd is aan de raadsleden, wordt aan hen ook de bijbehorende documentatie ter beschikking gesteld.<br>
+<br>
+§ 3. De provincieraad stemt over elk beleidsrapport in zijn geheel. Elk raadslid kan echter de afzonderlijke stemming eisen over een of meer onderdelen van het beleidsrapport die hij aanwijst. In dat geval mag er over het geheel pas gestemd worden na de stemming over die aangewezen onderdelen. Als de stemming over een onderdeel van een beleidsrapport tot gevolg heeft dat het ontwerp van beleidsrapport moet worden gewijzigd, dan wordt de stemming over het geheel verdaagd tot de eerstvolgende vergadering van de provincieraad.".
+
 ### ART 88.
 
 In hetzelfde decreet wordt het opschrift van hoofdstuk II van titel IV opgeheven.
@@ -622,6 +635,11 @@ Het vastgestelde beleidsrapport is pas uitvoerbaar als de digitale rapportering 
 <br>
 Als er nog geen jaarrekening is vastgesteld op 30 juni van het jaar dat volgt op het boekjaar in kwestie, bezorgt de provincie de gegevens over het ontwerp van jaarrekening in digitale vorm aan de Vlaamse Regering.".
 
+### ART 90.
+
+Artikel 143 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 143. In de beleidsrapporten wordt een onderscheid gemaakt tussen de exploitatie, de investeringen en de financiering.".
+
 ### ART 91.
 
 In hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 juni 2017, wordt het opschrift van hoofdstuk III van titel IV opgeheven.
@@ -631,15 +649,63 @@ In hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 juni 2017, wor
 Artikel 144 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt vervangen door wat volgt:<br>
 "Art. 144. Het boekjaar begint op 1 januari en eindigt op 31 december van hetzelfde jaar.".
 
+### ART 93.
+
+Artikel 145 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 145. Elke provincie voert een algemene en een budgettaire boekhouding, aangepast aan de aard en de omvang van hun activiteiten.".
+
 ### ART 94.
 
 In titel IV, hoofdstuk I van hetzelfde decreet wordt een afdeling II, die bestaat uit artikel 146 tot en met 148, ingevoegd, die luidt als volgt:<br>
 "Afdeling II. Het meerjarenplan".
 
+### ART 95.
+
+Artikel 146 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt vervangen door wat volgt:<br>
+"Art. 146. Voor het einde van het jaar dat volgt op de provincieraadsverkiezingen wordt een meerjarenplan vastgesteld. Dat meerjarenplan bestaat uit een strategische nota, een financiële nota en een toelichting.<br>
+<br>
+Het meerjarenplan start in het tweede jaar dat volgt op de provincieraadsverkiezingen en loopt af op het einde van het jaar na de daaropvolgende provincieraadsverkiezingen.".
+
+### ART 96.
+
+Artikel 147 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 147. In de strategische nota van het meerjarenplan worden de beleidsdoelstellingen en de beleidsopties voor het extern en intern te voeren beleid geïntegreerd weergegeven.<br>
+<br>
+In de financiële nota van het meerjarenplan wordt de financiële vertaling van de beleidsopties van de strategische nota weergegeven en wordt verduidelijkt hoe het financiële evenwicht wordt gehandhaafd.<br>
+<br>
+De toelichting van het meerjarenplan bevat alle informatie over de verrichtingen in het ontwerp van meerjarenplan die relevant is voor de raadsleden om met kennis van zaken een beslissing te kunnen nemen.".
+
+### ART 97.
+
+Artikel 148 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 148. De ramingen voor de exploitatie, de investeringen en de financiering in het eerste jaar van de financiële nota van het meerjarenplan omvatten ook de kredieten voor de provincie voor dat boekjaar.".
+
 ### ART 98.
 
 In titel IV, hoofdstuk I, van hetzelfde decreet wordt een afdeling III, die bestaat uit artikel 149 en 150, ingevoegd, die luidt als volgt:<br>
 "Afdeling III. Aanpassingen van het meerjarenplan".
+
+### ART 99.
+
+Artikel 149 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 149. § 1. Minstens een keer per jaar wordt het meerjarenplan aangepast, waarbij in elk geval de kredieten voor het volgende boekjaar worden vastgesteld. Als dat nodig is, kunnen daarbij ook de kredieten voor het lopende boekjaar worden aangepast.<br>
+<br>
+Daarnaast kan het meerjarenplan, als dat nodig is, ook worden aangepast om alleen de kredieten voor het lopende boekjaar aan te passen.<br>
+<br>
+Als voor 1 januari van het jaar dat volgt op de provincieraadsverkiezingen de kredieten voor dat boekjaar nog niet werden vastgesteld, worden, in afwijking van het eerste lid, op die datum de kredieten voor dat boekjaar automatisch vastgesteld op basis van de ramingen voor dat boekjaar in de financiële nota van het meerjarenplan.<br>
+<br>
+Bij elke aanpassing van het meerjarenplan wordt het resultaat van de intussen vastgestelde jaarrekeningen verwerkt.<br>
+<br>
+De periode van het meerjarenplan blijft altijd de periode, vermeld in artikel 146, tweede lid, maar de financiële nota beschrijft altijd de financiële consequenties voor ten minste drie toekomstige boekjaren.<br>
+<br>
+§ 2. Een aanpassing van het meerjarenplan omvat minstens een aangepaste financiële nota, een toelichting en de eventuele wijzigingen van de strategische nota.".
+
+### ART 100.
+
+Artikel 150 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt vervangen door wat volgt:<br>
+"Art. 150. De deputatie bepaalt, voor 1 maart van het lopende boekjaar, welk gedeelte van de kredieten voor de provincie voor investeringen en financiering, die voor het vorige boekjaar opgenomen waren in het meerjarenplan maar nog niet zijn aangewend, overgedragen worden naar het lopende boekjaar.<br>
+<br>
+De provincie bezorgt de gegevens over de stand van het meerjarenplan na de overdrachten, vermeld in het eerste lid, onmiddellijk in digitale vorm aan de Vlaamse Regering.".
 
 ### ART 101.
 
@@ -701,6 +767,13 @@ Als de toezichthoudende overheid geen besluit heeft verzonden naar de provincie 
 
 &nbsp;In titel IV van hetzelfde decreet wordt een hoofdstuk II, dat bestaat uit artikel 155 en 156, ingevoegd, dat luidt als volgt:<br>
 "Hoofdstuk II. Andere rapporteringen".
+
+### ART 111.
+
+Artikel 155 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt vervangen door wat volgt:<br>
+"Art. 155. De provincieraad bepaalt wanneer hem een opvolgingsrapportering, met een stand van zaken van de uitvoering van het meerjarenplan, wordt voorgelegd.<br>
+<br>
+Er wordt minstens voor het einde van het derde kwartaal een opvolgingsrapportering over het eerste semester van het boekjaar voorgelegd.".
 
 ### ART 112.
 
