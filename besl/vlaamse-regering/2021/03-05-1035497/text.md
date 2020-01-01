@@ -48,6 +48,10 @@ In afwijking van het eerste lid mag het bedrag voor de gebruiker die geboren is 
 
 ## HOOFDSTUK 8. Wijzigingen van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders
 
+### ART 33.
+
+In artikel 25, vijfde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 10 maart 2017, wordt de zin "Deze regeling is van toepassing tot en met 31 december 2019." opgeheven.
+
 ## HOOFDSTUK 9. Wijzigingen van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten
 
 ### ART 34.
@@ -61,6 +65,20 @@ Aan artikel 13, derde lid, van hetzelfde besluit, ingevoegd bij het besluit van 
 ## HOOFDSTUK 10. Wijzigingen van het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden
 
 ## HOOFDSTUK 11. Wijzigingen van het besluit van de Vlaamse Regering van 20 april 2018 houdende maatregelen voor de uitwerking van de persoonsvolgende budgetten die in het kader van de transitie naar persoonsvolgende financiering ter beschikking zijn gesteld
+
+### ART 37.
+
+Aan artikel 10 van het besluit van de Vlaamse Regering van 20 april 2018 houdende maatregelen voor de uitwerking van de persoonsvolgende budgetten die in het kader van de transitie naar persoonsvolgende financiering ter beschikking zijn gesteld, vervangen bij het besluit van de Vlaamse Regering van 10 mei 2019, wordt een paragraaf 4 toegevoegd, die luidt als volgt:<br>
+<br>
+" § 4. Als het aantal zorggebonden punten dat conform paragraaf 1 tot en met 3 is vastgesteld, voor de personen met een handicap voor wie met toepassing van paragraaf 1 tot en met 3 een budgetcategorie is vastgesteld, meer dan 15 % lager is dan het aantal zorggebonden punten, vermeld in artikel 2, in voorkomend geval verhoogd conform hoofdstuk 2, wordt het aantal zorggebonden punten dat conform paragraaf 1 tot en met 3 is vastgesteld, verhoogd totdat het verschil met de zorggebonden punten, vermeld in artikel 2, in voorkomend geval verhoogd conform hoofdstuk 2, 15 % bedraagt.".
+
+### ART 38.
+
+In artikel 11, § 2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 10 mei 2019, worden de woorden "of lager" telkens opgeheven.
+
+### ART 39.
+
+In artikel 11/1, § 1, vierde lid, 2° en 3°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 10 mei 2019, worden de woorden "of lager" opgeheven.
 
 ## HOOFDSTUK 12. Wijzigingen van het besluit van de Vlaamse Regering van 28 september 2018 over de zorg en ondersteuning voor personen met een niet-aangeboren hersenletsel of tetraplegie ten gevolge van een hoge dwarslaesie met de hoogste zorg- en ondersteuningsnood
 
