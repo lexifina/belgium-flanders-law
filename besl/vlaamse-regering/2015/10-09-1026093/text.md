@@ -8,7 +8,16 @@
 
 ### ART. 1.
 
-In   dit besluit wordt verstaan onder:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   administrateur-generaal: het personeelslid, vermeld in artikel 1, 3°, van het   besluit van de Vlaamse Regering van 21 februari 2014;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   besluit van de Vlaamse Regering van 21 februari 2014: het besluit van de Vlaamse   Regering van 21 februari 2014 betreffende de integrale jeugdhulp;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   decreet van 12 juli 2013: het decreet van 12 juli 2013 betreffende de integrale   jeugdhulp;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   intersectoraal zorgnetwerk: het samenwerkingsverband dat op basis van de oproep   is gekozen, waarmee een overeenkomst is gesloten als vermeld in artikel   18;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   jongere: een minderjarige als vermeld in artikel 2, 36°, van het decreet van 12   juli 2013, of een persoon die daarmee wordt gelijkgesteld conform artikel 18, §   3, van het voormelde decreet;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   Managementcomité Integrale Jeugdhulp: het comité, opgericht bij artikel 61 van   het decreet van 12 juli 2013;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   regiocoördinator: de leidinggevende toegangspoort voor het team   Indicatiestelling en Jeugdhulpregie, vermeld in artikel 17 van het besluit van   de Vlaamse Regering van 21 februari 2014;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">8°   oproep: de oproep, vermeld in artikel 15, met het oog op de toekenning van het   kwaliteitslabel "intersectoraal zorgnetwerk";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">9°   team Jeugdhulpregie: het team, vermeld in artikel 1, 26°, van het besluit van de   Vlaamse Regering van 21 februari 2014.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+In dit besluit wordt verstaan onder:<br>
+1° administrateur-generaal: het personeelslid, vermeld in artikel 1, 3°, van het besluit van de Vlaamse Regering van 21 februari 2014;<br>
+2° besluit van de Vlaamse Regering van 21 februari 2014: het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp;<br>
+3° decreet van 12 juli 2013: het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
+4° intersectoraal zorgnetwerk: het samenwerkingsverband dat op basis van de oproep is gekozen, waarmee een overeenkomst is gesloten als vermeld in artikel 18;<br>
+5° jongere: een minderjarige als vermeld in artikel 2, 36°, van het decreet van 12 juli 2013, of een persoon die daarmee wordt gelijkgesteld conform artikel 18, § 3, van het voormelde decreet;<br>
+6° ...;<br>
+7° regiocoördinator: de leidinggevende toegangspoort voor het team Indicatiestelling en Jeugdhulpregie, vermeld in artikel 17 van het besluit van de Vlaamse Regering van 21 februari 2014;<br>
+8° oproep: de oproep, vermeld in artikel 15, met het oog op de toekenning van het kwaliteitslabel "intersectoraal zorgnetwerk";<br>
+9° team Jeugdhulpregie: het team, vermeld in artikel 1, 26°, van het besluit van de Vlaamse Regering van 21 februari 2014.
 
 ## HOOFDSTUK 2 Het intersectorale zorgnetwerk
 
@@ -52,7 +61,7 @@ Het   intersectorale zorgnetwerk neemt de zorgcoördinatie op zich. Dat houdt mi
 
 ### ART. 10.
 
-Het   intersectorale zorgnetwerk brengt jaarlijks een financiële en inhoudelijke   rapportage aan het Managementcomité Integrale Jeugdhulp.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Het intersectorale zorgnetwerk brengt jaarlijks een financiële en inhoudelijke rapportage aan het agentschap Opgroeien regie, vermeld in artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie.
 
 ### ART. 11.
 
@@ -99,11 +108,11 @@ De   administrateur-generaal sluit, na goedkeuring door de Vlaamse Regering, een
 
 ### ART. 19.
 
-&nbsp;Het Managementcomité Integrale   Jeugdhulp adviseert de administrateur-generaal over de uitvoering van dit   besluit.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 20.
 
-Het   Managementcomité Integrale Jeugdhulp heeft de volgende taken:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het monitoren van het budget voor de subsidies in het kader van de   intersectorale zorgnetwerken;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het geven van feedback aan de teams Jeugdhulpregie en aan de intersectorale   zorgnetwerken over de uitvoering van hun taken, vermeld in dit   besluit;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   het signaleren van punten ter verbetering van het beleid rond de intersectorale   zorgnetwerken.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ## HOOFDSTUK 3 Wijzigingsbepalingen
 
