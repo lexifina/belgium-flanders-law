@@ -2,16 +2,16 @@
   "codex_id": 1029434,
   "title": "Besluit van de Vlaamse Regering van 2018-05-04 betreffende het opleidingsaanbod, de structuur, organisatie en financiering van de Koninklijke Beiaardschool Jef Denyn in Mechelen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029434/VolledigDocument?datum=2018-09-01",
-  "source_sha256": "31eb2c03c5cebccf3eee2a6d8558deba147d7c4d9880e2037ae0ee897c9f24c0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029434/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "3fdec6dccf1faf816404ddcd62a39d346fac849e4f14e41fc3897e043e484006",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029434&param=informatie",
-  "as_of": "2018-09-01",
+  "as_of": "2020-01-01",
   "made": "2018-05-04",
   "gazette": "2018-06-18",
   "numac": 201812518,
   "document_start": "2018-09-01",
   "document_end": null,
-  "in_force": "2018-09-01",
+  "in_force": "2020-01-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }

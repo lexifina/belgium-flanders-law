@@ -101,7 +101,9 @@ Vanaf het schooljaar 2019-2020 worden de bedragen van het voorgaande schooljaar 
 1° Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
 2° Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
 <br>
-De A-coëfficiënt wordt voor 100% in rekening gebracht.
+De A-coëfficiënt wordt voor 100% in rekening gebracht.<br>
+<br>
+Vanaf het begrotingsjaar 2020 wordt het bedrag, vermeld in het eerste lid, verminderd met 2000 euro. De Vlaamse Regering wordt gemachtigd dit artikel in de toekomst te wijzigen.
 
 ### ART 9.
 
