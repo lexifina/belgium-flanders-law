@@ -51,6 +51,16 @@ In artikel 4 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<b
 In artikel 5, § 1, tweede lid, van hetzelfde besluit worden de woorden "formeel betekend" vervangen door het woord "meegedeeld".<br>
 &nbsp;
 
+### ART 5.
+
+In artikel 7 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de datum "1 januari" vervangen door de datum "1 juli";<br>
+2° in het eerste lid wordt het woord "vierjarige" opgeheven;<br>
+3° in het tweede lid wordt de datum "30 juni" vervangen door de datum "15 oktober";<br>
+4° in het derde lid wordt het woord "vierjarige" vervangen door het woord "vijfjarige";<br>
+5° in het derde lid wordt het woord "vierjaarlijkse" opgeheven.<br>
+&nbsp;
+
 ### ART 6.
 
 Artikel 9 van hetzelfde besluit wordt vervangen door wat volgt:<br>
