@@ -18,12 +18,12 @@ In   dit decreet wordt verstaan onder:<BR   style="TEXT-TRANSFORM: none; TEXT-IN
 
 ### ART. 4.
 
-<p>&nbsp;§ 1. De Vlaamse Belastingdienst kan onroerende goederen verwerven en vervreemden voor rekening en op verzoek van de volgende openbare instellingen zonder daarbij tegenover derden van een bijzondere lastgeving te moeten doen blijken:<br>
+<p>§ 1. De Vlaamse Belastingdienst kan onroerende goederen verwerven en vervreemden voor rekening en op verzoek van de volgende openbare instellingen zonder daarbij tegenover derden van een bijzondere lastgeving te moeten doen blijken:<br>
 1° intern of extern verzelfstandigde agentschappen met rechtspersoonlijkheid;<br>
 2° de LRM, voor zover het Vlaamse Gewest rechtstreeks of onrechtstreeks enige aandeelhouder is;<br>
 3° de PMV, voor zover het Vlaamse Gewest rechtstreeks of onrechtstreeks enige aandeelhouder is;<br>
 4° de VPM, voor zover het Vlaamse Gewest rechtstreeks of onrechtstreeks enige aandeelhouder is;<br>
-5° de Vlaamse openbare instellingen type A, type B, en sui generis, vermeld in artikel 4, § 1, 2°, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.</p>
+5° de Vlaamse openbare instellingen type A, type B, en sui generis.</p>
 
 <p>Daarnaast kan de Vlaamse Belastingdienst onroerende goederen verwerven en vervreemden voor rekening van elke andere openbare instelling met rechtspersoonlijkheid, als dat door een decreet is voorgeschreven, zonder daarbij tegenover derden van een bijzondere lastgeving te moeten doen blijken.</p>
 
@@ -94,7 +94,7 @@ b) de enige aandeelhouders zijn het Vlaamse Gewest en LRM, PMV of VPM;<br>
 c) de enige aandeelhouders zijn LRM en één of meer van haar dochtervennootschappen;<br>
 d) de enige aandeelhouders zijn PMV en één of meer van haar dochtervennootschappen;<br>
 e) de enige aandeelhouders zijn VPM en één of meer van haar dochtervennootschappen;<br>
-6° de Vlaamse openbare instellingen type A, type B, en sui generis, vermeld in artikel 4, § 1, 2°, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof;<br>
+6° de Vlaamse openbare instellingen type A, type B, en sui generis;<br>
 7° een ondergeschikt bestuur als vermeld in artikel 6, § 1, VIII, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
 8° een openbaar centrum voor maatschappelijk welzijn;<br>
 9° een entiteit die aan de controle of het administratief toezicht van een van de voornoemde overheden onderworpen is of een dochterentiteit van die entiteit.
