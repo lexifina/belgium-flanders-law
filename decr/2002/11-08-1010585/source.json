@@ -2,16 +2,16 @@
   "codex_id": 1010585,
   "title": "Decreet van 2002-11-08 houdende controle op grote infrastructuurprojecten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010585/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "153430467cbbad17878794c4e60c07c199f692366d6e1c35abb00b24fd11c66c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010585/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "fda282e7934edd7b3b50845969308d6934b77f924dcb7be58c6c85b963ceb4f2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010585&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2020-01-01",
   "made": "2002-11-08",
   "gazette": "2003-02-10",
   "numac": 2003035119,
   "document_start": null,
   "document_end": "2019-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2020-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
