@@ -55,7 +55,7 @@ Tot de taak van de DBFM-vennootschap behoort de terbeschikkingstelling van schoo
 
 ### ART. 7bis.
 
-De bepalingen van het decreet van 7 mei 2004 houdende bepalingen inzake kas- schuld-, en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest zijn niet van toepassing op de verbintenissen opgenomen in dit decreet.
+De bepalingen van hoofdstuk 10, afdeling 4, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 zijn niet van toepassing op de verbintenissen opgenomen in dit decreet.
 
 ### ART. 7ter.
 
@@ -238,7 +238,7 @@ De Vlaamse Regering is gemachtigd om een gemeenschapswaarborg te stellen voor de
 
 ### ART. 39.
 
-De Vlaamse Regering kan de nadere regels bepalen met betrekking tot de voorwaarden of modaliteiten voor het stellen van de waarborgen bedoeld in artikelen 37 en 38, met inbegrip van de mogelijkheid om hierbij af te wijken van het interest maximum zoals bepaald in artikel 6, § 4, van het decreet van 7 mei 2004 houdende bepalingen inzake kas-, schuld- en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest.
+De Vlaamse Regering kan de nadere regels bepalen met betrekking tot de voorwaarden of modaliteiten voor het stellen van de waarborgen bedoeld in artikelen 37 en 38.
 
 ## [HOOFDSTUK IX Begeleidende maatregelen (ing. decr. 8 mei 2009, art. IX.25, I: 28 augustus 2009)]
 
