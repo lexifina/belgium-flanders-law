@@ -33,7 +33,7 @@ Per huisartsenkring worden de gebieden opgesomd die deel uitmaken van het werkin
 18° Huisartsenkring Antwerpen Oost : Antwerpen (2100, 2140), Borsbeek, Wommelgem;<br>
 19° Huisartsenkring Antwerpen Zuid : Antwerpen (2020, 2610, 2660);<br>
 20° Huisartsenkring Brasschaat : Brasschaat;<br>
-21° Huisartsenkring Bree - Meeuwen - Gruitrode : Bree, Oudsbergen;<br>
+21° Huisartsenkring Bree - Oudsbergen : Bree, Oudsbergen;<br>
 22° Huisartsenkring Denderland : Denderleeuw, Liedekerke;<br>
 23° Huisartsenkring Diest : Diest;<br>
 24° Huisartsenkring Dijle &amp; Netevallei : Bonheiden, Heist-op-den-Berg, Keerbergen, Mechelen, Putte, Sint-Katelijne-Waver;<br>
