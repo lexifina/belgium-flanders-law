@@ -36,14 +36,19 @@ Besluit :<br>
 ### ART. 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° ouderenvoorziening : een dagverzorgingscentrum, een centrum voor kortverblijf, een groep van assistentiewoningen of een woonzorgcentrum;<br>
-2° centrum voor herstelverblijf : een thuiszorgvoorziening als vermeld in artikel 28 van het Woonzorgdecreet van 13 maart 2009;<br>
-3° voorziening : een ouderenvoorziening, een lokaal dienstencentrum of een centrum voor herstelverblijf;<br>
+1° ...;<br>
+2° centrum voor herstelverblijf : een thuiszorgvoorziening als vermeld in artikel 28 van het Woonzorgdecreet van 15 februari 2019;<br>
+3° voorziening: een lokaal dienstencentrum, een centrum voor dagverzorging, een centrum voor dagopvang, een centrum voor kortverblijf, een centrum voor herstelverblijf, een groep van assistentiewoningen, een woonzorgcentrum;<br>
 4° beheersinstantie : de persoon of de personen die een voorziening vertegenwoordigen en die de voorziening juridisch kunnen binden;<br>
 5° agentschap : het intern verzelfstandigd agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004;<br>
-6° lokaal dienstencentrum : een thuiszorgvoorziening als vermeld in artikel 16 van het Woonzorgdecreet van 13 maart 2009;<br>
+6° lokaal dienstencentrum: een woonzorgvoorziening als vermeld in artikel 9 van het Woonzorgdecreet van 15 februari 2019;<br>
 7° hulpverleningszone : de bevoegde hulpverleningszone, vermeld in het koninklijk besluit van 2 februari 2009 tot vaststelling van de territoriale afbakening van de hulpverleningszones, of in voorkomend geval de Brusselse Hoofdstedelijke dienst voor brandweer en dringende medische hulp;<br>
-8° brandpreventieverslag: een brandpreventieverslag als vermeld in artikel 1, 4°, van het koninklijk besluit van 19 december 2014 tot vastlegging van de organisatie van de brandpreventie in de hulpverleningszones.<br>
+8° brandpreventieverslag: een brandpreventieverslag als vermeld in artikel 1, 4°, van het koninklijk besluit van 19 december 2014 tot vastlegging van de organisatie van de brandpreventie in de hulpverleningszones;<br>
+9° centrum voor dagverzorging: een thuiszorgvoorziening als vermeld in artikel 23 van het Woonzorgdecreet van 15 februari 2019;<br>
+10° centrum voor dagopvang: een dienst voor gezinszorg die een bijkomende erkenning als een centrum voor dagopvang heeft verkregen conform artikel 13 en 14 van het Woonzorgdecreet van 15 februari 2019;<br>
+11° centrum voor kortverblijf: een thuiszorgvoorziening als vermeld in artikel 25 van het Woonzorgdecreet van 15 februari 2019;<br>
+12° groep van assistentiewoningen: een woonzorgvoorziening als vermeld in artikel 30 van het Woonzorgdecreet van 15 februari 2019;<br>
+13° woonzorgcentrum: een woonzorgvoorziening als vermeld in artikel 33 van het Woonzorgdecreet van 15 februari 2019;<br>
 &nbsp;
 
 ## HOOFDSTUK 2 Bepaling van de specifieke brandveiligheidsnormen
@@ -58,6 +63,10 @@ De groepen van assistentiewoningen die te beschouwen zijn als bestaande gebouwen
 <br>
 De groepen van assistentiewoningen die te beschouwen zijn als bestaande gebouwen als vermeld in artikel 1, derde lid, van het koninklijk besluit van 7 juli 1994 tot vaststelling van de basisnormen voor de preventie van brand en ontploffing waaraan de gebouwen moeten voldoen, en waarvoor nog geen erkenning werd aangevraagd vóór de respectievelijke data, moeten bovendien voldoen aan de brandveiligheidsnormen, vermeld in de bijlagen bij het voormelde koninklijk besluit.<br>
 &nbsp;
+
+### ART 2/1.
+
+&nbsp;De bepalingen van dit besluit zijn van toepassing op de lokale dienstencentra voor wat betreft het hoofdgebouw.
 
 ## HOOFDSTUK 3 Attesten
 
