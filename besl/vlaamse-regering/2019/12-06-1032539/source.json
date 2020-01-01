@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032539,
+  "title": "Besluit van de Vlaamse Regering van 2019-12-06 tot overdracht van personeelsleden van het Autonoom Provinciebedrijf Lemberge",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032539/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "8943d03ba814057ac8f2941ca8407b6bba13117533894b17ab8ec6a81418771a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032539&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2019-12-06",
+  "gazette": "2019-12-31",
+  "numac": 2019015831,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
