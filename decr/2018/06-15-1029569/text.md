@@ -461,7 +461,7 @@ Het intergemeentelijk samenwerkingsverband bezorgt op eenvoudig verzoek van de a
 
 ### ART 57.
 
-§ 1. Organisaties kunnen met subsidies die op basis van dit decreet zijn toegekend, een reserve aanleggen conform het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
+§ 1. Organisaties kunnen met subsidies die op basis van dit decreet zijn toegekend, een reserve aanleggen conform artikel 75 en 76&nbsp;van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
 <br>
 § 2. De Vlaamse Regering kan nader bepalen op welke wijze en wanneer een aanvraagdossier wordt ingediend, en op welke wijze en wanneer beslissingen worden genomen en bekendgemaakt.<br>
 <br>
@@ -480,6 +480,10 @@ In afwijking van artikel 8 maakt de Vlaamse Regering de beleidsprioriteiten voor
 ### ART 59.
 
 In afwijking van artikel 38, derde lid, bepaalt de Vlaamse Regering de begindatum en de periode van de eerste beheersovereenkomst met het steunpunt.
+
+### ART 60.
+
+Artikel 38 en 39 van het decreet van 6 juli 2012 betreffende het Lokaal Cultuurbeleid worden opgeheven.
 
 ### ART 61.
 
