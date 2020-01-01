@@ -94,7 +94,7 @@ In artikel 37 van het decreet van 19 december 2008 houdende bepalingen tot begel
 
 ### ART. 18.
 
-<p>Bij het Departement Cultuur, Jeugd en Media wordt een fonds, het `Fonds CED-ECP' genoemd, opgericht, in de zin van artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
+<p>Bij het Departement Cultuur, Jeugd en Media wordt een fonds, het `Fonds CED-ECP' genoemd, opgericht, in de zin van artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
 <br>
 De middelen van het fonds kunnen uitsluitend aangewend worden voor de kosten die ontstaan in het kader van de werking van de Creative Europe Desk (CED) en het Burgerschapscontactpunt (ECP).<br>
 <br>
