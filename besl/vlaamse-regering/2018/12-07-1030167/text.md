@@ -2143,7 +2143,9 @@ b) 1,71 euro per zorggebruiker om de valorisatie van ongemakkelijke prestaties u
 13° een vergoeding voor de geregulariseerde DAC functies in de initiatieven van beschut wonen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 16 maart 2018 tot toekenning van de DAC subsidies aan enkele initiatieven van beschut wonen;<br>
 14° een vergoeding voor de regularisatie van de gesubsidieerde contractuelen in initiatieven van beschut wonen: de minister bepaalt het bedrag per initiatief van beschut wonen.<br>
 <br>
-In dit artikel wordt verstaan onder gesubsidieerde contractueel: de gesubsidieerde contractueel, tewerkgesteld krachtens een overeenkomst als vermeld in artikel 1, 12°, 14°, 15° en 36°, van het besluit van de Vlaamse Regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen.
+In dit artikel wordt verstaan onder gesubsidieerde contractueel: de gesubsidieerde contractueel, tewerkgesteld krachtens een overeenkomst als vermeld in artikel 1, 12°, 14°, 15° en 36°, van het besluit van de Vlaamse Regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen.<br>
+<br>
+§ 3. De prijs per verblijfdag, vermeld in paragraaf 1, eerste lid, wordt vanaf 1 januari 2020 verminderd met 1,3%.
 
 ### ART 154.
 
@@ -2161,7 +2163,7 @@ De tegemoetkoming voor zorg in de prijs per verblijfdag in een initiatief van be
 <br>
 De tegemoetkoming, vermeld in het eerste lid, dekt het aanbod van zorg, vermeld in artikel 153, § 2, van dit besluit.<br>
 <br>
-Een erkend initiatief van beschut wonen dat na 1 januari 2019 en vóór 1 januari 2022 ontstaan is uit de samenvoeging van twee of meer vóór 1 januari 2019 erkende initiatieven van beschut wonen, ontvangt een tegemoetkoming voor zorg die minstens evenveel bedraagt als de som van de geïndexeerde tegemoetkomingen voor zorg die de afzonderlijk erkende initiatieven van beschut wonen ontvingen in het boekjaar vóór de samenvoeging.
+Een erkend initiatief van beschut wonen dat vanaf 1 januari 2020 en vóór 1 januari 2021 ontstaan is uit de samenvoeging van twee of meer vóór 1 januari 2019 erkende initiatieven van beschut wonen, ontvangt een tegemoetkoming voor zorg die minstens evenveel bedraagt als de som van de geïndexeerde tegemoetkomingen voor zorg die de afzonderlijk erkende initiatieven van beschut wonen ontvingen in het boekjaar vóór de samenvoeging, verminderd met 1,3%. Een erkend initiatief van beschut wonen dat na 1 januari 2019 en vóór 1 januari 2020 of vanaf 1 januari 2021 en vóór 1 januari 2022 ontstaan is uit de samenvoeging van twee of meer vóór 1 januari 2019 erkende initiatieven van beschut wonen, ontvangt een tegemoetkoming voor zorg die minstens evenveel bedraagt als de som van de geïndexeerde tegemoetkomingen voor zorg die de afzonderlijk erkende initiatieven van beschut wonen ontvingen in het boekjaar vóór de samenvoeging.
 
 ## Titel 5. Bijzondere verzekeringsstelsels
 
@@ -2408,7 +2410,9 @@ Bij onmiddellijk, reëel en ernstig gevaar voor de gezondheid en de veiligheid v
 <br>
 Voor zorggebruikers die in de voorbije zes maanden vóór de verstrekking door de arts van dezelfde revalidatievoorziening behandeld zijn, bedraagt de tegemoetkoming voor revalidatieverstrekkingen 158,00 euro. Voor alle andere zorggebruikers bedraagt de tegemoetkoming voor revalidatieverstrekkingen 258,53 euro.<br>
 <br>
-§ 7. De revalidatievoorziening leeft de vereisten na vermeld in het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin.
+§ 7. De revalidatievoorziening leeft de vereisten na vermeld in het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin.<br>
+<br>
+&nbsp;§ 8. De eenheidsprijs, vermeld in paragraaf 1, 1°, en de tegemoetkomingen voor revalidatieverstrekkingen, vermeld in paragraaf 6, worden vanaf 1 januari 2020 verminderd met 1,3%.
 
 ### ART 192.
 
@@ -2911,7 +2915,9 @@ Het basisbudget dekt de kosten van de bestanddelen, vermeld in bijlage 3, die bi
 
 Het basisbudget voor het dienstjaar dat op 1 januari 2019 begint bestaat uit het budget van financiële middelen, dat is vastgesteld conform het koninklijk besluit van 25 april 2002, zoals van kracht op 31 december 2018, en toegekend op 1 juli 2018, als het de kosten dekt, vermeld in artikel 241 van dit besluit.<br>
 <br>
-Het basisbudget voor het dienstjaar dat op 1 januari 2020 begint, en voor elk van de daarop volgende dienstjaren bestaat uit het basisbudget voor het dienstjaar dat begint op 1 januari 2019, zoals geïndexeerd conform artikel 258.
+Het basisbudget voor het dienstjaar dat op 1 januari 2020 begint, en voor elk van de daarop volgende dienstjaren bestaat uit het basisbudget voor het dienstjaar dat begint op 1 januari 2019, zoals geïndexeerd conform artikel 258.<br>
+<br>
+Het basisbudget dat berekend is met toepassing van het tweede lid, wordt vanaf 1 januari 2020 verminderd met 1,3%.
 
 ## HOOFDSTUK 3. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
