@@ -159,14 +159,13 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met   de u
 
 ### BIJLAGE 1
 
-<p><strong>Forfaitaire subsidies als vermeld in artikel 23, eerste lid</strong><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Bijlage 1. Forfaitaire subsidies als vermeld in artikel 23, eerste lid</span></span></span><br>
 <br>
-De ondersteuningsteams ontvangen voor het geheel van hun werking een forfaitaire subsidie.<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">1. De ondersteuningsteams ontvangen voor het geheel van hun werking een forfaitaire subsidie.</span></span></span><br>
 <br>
-De subsidie voor de ondersteuningsteams bedraagt jaarlijks 753.071 euro. Dat bedrag wordt toegekend als volgt :</p>
-&nbsp;
-
-<table border="1">
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">2. De subsidie voor de ondersteuningsteams bedraagt jaarlijks 785.153 euro.</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Dat bedrag wordt op de volgende wijze toegekend:</span></span></span>
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
 	<tbody>
 		<tr>
 			<td>voor de werking in de provincie</td>
@@ -174,35 +173,30 @@ De subsidie voor de ondersteuningsteams bedraagt jaarlijks 753.071 euro. Dat bed
 		</tr>
 		<tr>
 			<td>Antwerpen</td>
-			<td>240.427</td>
+			<td>250.688</td>
 		</tr>
 		<tr>
 			<td>Limburg</td>
-			<td>196.713</td>
+			<td>205.093</td>
 		</tr>
 		<tr>
-			<td>Oost-Vlaanderen</td>
-			<td>80.474</td>
+			<td>Oost- en West-Vlaanderen</td>
+			<td>167.804</td>
 		</tr>
 		<tr>
-			<td>West-Vlaanderen</td>
-			<td>80.474</td>
+			<td>Vlaams-Brabant en Brussels Hoofdstedelijk Gewest</td>
+			<td>161.588</td>
 		</tr>
 		<tr>
-			<td>Vlaams-Brabant en Brussels-Hoofdstedelijk Gewest</td>
-			<td>154.986</td>
-		</tr>
-		<tr>
-			<td>Totaal Vlaanderen</td>
-			<td>753.074</td>
+			<td>totaal Vlaanderen</td>
+			<td>785.153</td>
 		</tr>
 	</tbody>
 </table>
 <br>
-De subsidie van het ondersteuningsteam wordt vermeerderd met een supplement van 1,8 % van het basisbedrag voor elk jaar dat de gemiddelde anciënniteit van alle personeelsleden de basisanciënniteit van vijf jaar overschrijdt. Die anciënniteit wordt berekend op 1 januari van het betreffende jaar en afgerond op 1 decimaal.<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">3. De subsidie van het ondersteuningsteam wordt vermeerderd met een supplement van 1,8% van het basisbedrag voor elk jaar dat de gemiddelde anciënniteit van alle personeelsleden de basisanciënniteit van vijf jaar overschrijdt. Die anciënniteit wordt berekend op 1 januari van het betreffende jaar en afgerond op 1 decimaal.</span></span></span><br>
 <br>
-De voormelde bedragen zijn gekoppeld aan de spilindex van kracht op 1 januari 2015.
-<p>&nbsp;</p>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">4. De bedragen, vermeld in punt 2, zijn gekoppeld aan de spilindex die van kracht is op 1 januari 2020.</span></span></span>
 
 ### BIJLAGE 2
 
