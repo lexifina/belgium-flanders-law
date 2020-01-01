@@ -718,25 +718,11 @@ Een verkozene die meer dan één voordrachtsakte ondertekent, kan voor de duur v
 
 ### ART. 146.
 
-§ 1. Voor het einde van het jaar dat volgt op de gemeenteraadsverkiezingen en voor hij beraadslaagt over het budget voor het volgende financiële boekjaar, stelt de raad voor maatschappelijk welzijn een meerjarenplan vast. Dat meerjarenplan bestaat uit een strategische nota en een financiële nota.<br>
-<br>
-Het meerjarenplan start in het tweede jaar dat volgt op de gemeenteraadsverkiezingen en&nbsp;loopt af op het einde van het jaar na de daaropvolgende gemeenteraadsverkiezingen.<br>
-<br>
-De raad voor maatschappelijk welzijn stemt over het meerjarenplan in zijn geheel. Elk lid van de raad voor maatschappelijk welzijn kan echter de afzonderlijke stemming eisen over een of meer onderdelen van het meerjarenplan die hij aanwijst. In dat geval mag over het geheel pas gestemd worden na de stemming over een of meer onderdelen die aldus zijn aangewezen. De stemming over het geheel heeft dan betrekking op de onderdelen waarover geen enkel lid van de raad voor maatschappelijk welzijn afzonderlijk wil stemmen, en op de onderdelen die al bij een afzonderlijke stemming zijn aangenomen.<br>
-<br>
-§ 2. In de strategische nota worden de beleidsdoelstellingen en de beleidsopties voor het extern en intern te voeren beleid van het openbaar centrum voor maatschappelijk welzijn op elkaar afgestemd en geïntegreerd weergegeven. De beleidsdoelstellingen en beleidsopties worden afgestemd op het lokaal sociaal beleidsplan overeenkomstig het decreet van 9&nbsp;februari 2018 betreffende het lokaal sociaal beleid.<br>
-<br>
-§ 3. In de financiële nota wordt de vermoedelijke gemeentelijke bijdrage opgenomen, wordt verduidelijkt hoe het financiële evenwicht wordt gehandhaafd en worden de financiële consequenties van de beleidsopties van de strategische nota weergegeven.<br>
-<br>
-§ 4. Het ontwerp van meerjarenplan wordt op zijn minst veertien dagen voor de vergadering waarop het wordt besproken, aan ieder lid van de raad voor maatschappelijk welzijn bezorgd.
+...
 
 ### ART. 147.
 
-§ 1. De raad voor maatschappelijk welzijn past jaarlijks waar nodig het meerjarenplan aan voor hij beraadslaagt over het budget voor het volgende financiële boekjaar.<br>
-<br>
-De raad voor maatschappelijk welzijn houdt bij de aanpassing van het meerjarenplan rekening met de termijn waarop het meerjarenplan betrekking heeft. Artikel 146, § 1, derde lid, is van overeenkomstige toepassing.<br>
-<br>
-§ 2. Het ontwerp van de jaarlijkse aanpassing van het meerjarenplan wordt op zijn minst veertien dagen voor de vergadering waarop het wordt besproken, aan ieder lid van de raad voor maatschappelijk welzijn bezorgd.
+...
 
 ### ART. 148.
 
@@ -746,15 +732,7 @@ De raad voor maatschappelijk welzijn houdt bij de aanpassing van het meerjarenpl
 
 ### ART. 149.
 
-§ 1. Voor het begin van ieder financieel boekjaar stelt de raad voor maatschappelijk welzijn op basis van het meerjarenplan het budget van het openbaar centrum voor maatschappelijk welzijn vast.<br>
-<br>
-§ 2. In afwijking van § 1 kan de raad voor maatschappelijk welzijn het budget voor het eerste volledige financiële boekjaar van de zesjaarlijkse periode waarvoor de raad voor maatschappelijk welzijn is verkozen, vaststellen in de loop van het eerste kwartaal van dat boekjaar.<br>
-<br>
-Het budget voor het eerste volledige financiële boekjaar van de zesjaarlijkse periode hoeft niet te passen in het meerjarenplan.<br>
-<br>
-§ 3. De raad voor maatschappelijk welzijn stemt over het budget in zijn geheel. Elk lid van de raad voor maatschappelijk welzijn kan echter de afzonderlijke stemming eisen over een of meer onderdelen van het budget die hij aanwijst. In dat geval mag over het geheel pas gestemd worden na de stemming over een of meer onderdelen die aldus zijn aangewezen. De stemming over het geheel heeft dan betrekking op de onderdelen waarover geen enkel lid van de raad voor maatschappelijk welzijn afzonderlijk wil stemmen, en op de onderdelen die al bij een afzonderlijke stemming zijn aangenomen.<br>
-<br>
-§ 4. Het ontwerp van budget wordt op zijn minst veertien dagen vóór de vergadering waarop het wordt besproken, aan ieder lid van de raad voor maatschappelijk welzijn bezorgd.
+...
 
 ### ART. 150.
 
@@ -770,7 +748,7 @@ Het budget voor het eerste volledige financiële boekjaar van de zesjaarlijkse p
 
 ### ART. 153.
 
-§ 1. De financiële nota bevat minstens het exploitatiebudget, het investeringsbudget, het liquiditeitenbudget en de gebudgetteerde gemeentelijke bijdrage.<br /><br />§ 2. Het exploitatiebudget is een financieel plan van de exploitatie van het openbaar centrum voor maatschappelijk welzijn.<br /><br />§ 3. Het liquiditeitenbudget is een financieel plan van de geldstromen van het openbaar centrum voor maatschappelijk welzijn.<br /><br />§ 4. Het investeringsbudget is een financieel plan van de uitgaven en ontvangsten, en van de kosten en opbrengsten die verbonden zijn aan de aanschaf, het gebruik en de vervreemding van duurzame middelen.<br /><br />Een investeringsbudget bestaat uit een of meer investeringsenveloppen. Als een investeringsenveloppe eenmaal in het budget is goedgekeurd, blijft ze geldig tot de raad voor maatschappelijk welzijn de investeringsenveloppe bij budget of bij budgetwijziging annuleert of tot de raad voor maatschappelijk welzijn de rekening van de investeringsenveloppe vaststelt.
+...
 
 ### ART. 154.
 
@@ -830,7 +808,7 @@ Het budget voor het eerste volledige financiële boekjaar van de zesjaarlijkse p
 
 ### ART. 166.
 
-Elk openbaar centrum voor maatschappelijk welzijn voert een voor de aard en de omvang van zijn activiteiten passende boekhouding, volgens de methode van het dubbel boekhouden.
+...
 
 ### ART. 167.
 
@@ -874,7 +852,7 @@ De samenvatting van de algemene rekeningen omvat de balans en de staat van opbre
 
 ### ART. 175.
 
-Op de stemming door de raad voor maatschappelijk welzijn over de jaarrekening, is artikel 149, § 3, van overeenkomstige toepassing.<br /><br />Het ontwerp van de jaarrekening wordt op zijn minst veertien dagen voor de vergadering waarop het wordt besproken, aan ieder lid van de raad voor maatschappelijk welzijn bezorgd.
+...
 
 ### ART. 176.
 
@@ -1160,7 +1138,7 @@ Op de stemming door de raad voor maatschappelijk welzijn over de jaarrekening, i
 
 ### ART. 230.
 
-De boekhouding wordt gevoerd onder de verantwoordelijkheid en het toezicht van de raad van beheer.
+...
 
 ### ART. 231.
 
