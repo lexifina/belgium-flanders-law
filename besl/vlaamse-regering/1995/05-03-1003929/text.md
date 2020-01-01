@@ -163,7 +163,13 @@ Het jaarverslag bevat tenminste volgende elementen:<br /><br />1° de resultaten
 
 ### ART. 35.
 
-§ 1. Erkende palliatieve netwerken ontvangen binnen de perken van de   begrotingskredieten jaarlijks een subsidie van 8959,34 euro (achtduizend   negenhonderdnegenenvijftig euro vierendertig cent) per volledige schijf van   60.000 bereikte inwoners.<BR><BR>§ 2. Het subsidiebedrag, vermeld in artikel 35,   § 1 wordt vanaf subsidiejaar 2016 elk subsidiejaar op 1 januari aangepast   volgens de volgende formule :<BR>[75 % bedrag subsidiejaar(x-1)GI (10/x-1)/GI   (10/x2)] + 25 % bedrag subsidiejaar (x-1),<BR>waarbij :<BR>1° x = het   subsidiejaar;<BR>2° GI = de gezondheidsindex.
+§ 1. Erkende palliatieve netwerken ontvangen binnen de perken van de begrotingskredieten jaarlijks een subsidie van 8830,19 euro (achtduizend achthonderddertig euro negentien cent) per volledige schijf van 60.000 bereikte inwoners.<br>
+<br>
+§ 2. Het subsidiebedrag, vermeld in artikel 35, § 1 wordt vanaf subsidiejaar 2021 elk subsidiejaar op 1 januari aangepast volgens de volgende formule :<br>
+[75 % bedrag subsidiejaar(x-1)GI (10/x-1)/GI (10/x2)] + 25 % bedrag subsidiejaar (x-1),<br>
+waarbij :<br>
+1° x = het subsidiejaar;<br>
+2° GI = de gezondheidsindex.
 
 ### ART. 36.
 
