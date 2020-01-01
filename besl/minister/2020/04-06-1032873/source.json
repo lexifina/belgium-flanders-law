@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032873,
+  "title": "Ministerieel besluit van 2020-04-06 tot wijziging van het ministerieel besluit van 21 december 2018 tot nadere invulling van de boekhoudkundige organisatie en de financiële rapportering aan de Vlaamse overheid van de sociale verhuurkantoren",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032873/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "b8fadd13610a6360255bb7c5cc57e406b905c3ad686315b0d0933bc605c3c74b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032873&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2020-04-06",
+  "gazette": "2020-04-20",
+  "numac": 2020020808,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
