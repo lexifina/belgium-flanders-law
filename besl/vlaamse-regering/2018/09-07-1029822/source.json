@@ -2,16 +2,16 @@
   "codex_id": 1029822,
   "title": "Besluit van de Vlaamse Regering van 2018-09-07 houdende de instelling van een gemeenschapswaarborg in het kader van het projectspecifieke DBFM-programma",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029822/VolledigDocument?datum=2018-11-01",
-  "source_sha256": "5c92c43f02ded19b9aa3d3e1704179a638681f42a98cb2be2fa08c3918482db5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029822/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "4061d00ec16d701d6473af8083f66dfe0b67094ab45c820c832c74dbaa126082",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029822&param=informatie",
-  "as_of": "2018-11-01",
+  "as_of": "2020-01-01",
   "made": "2018-09-07",
   "gazette": "2018-10-16",
   "numac": 2018014184,
   "document_start": "2018-11-01",
   "document_end": null,
-  "in_force": "2018-11-01",
+  "in_force": "2020-01-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2018-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }

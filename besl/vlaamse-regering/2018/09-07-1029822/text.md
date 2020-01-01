@@ -59,7 +59,7 @@ Het Departement Financiën en Begroting bezorgt een afschrift van de lijst van d
 
 ### ART 5.
 
-Voor de toekenning van de gemeenschapswaarborg voor de gewaarborgde verplichtingen, vermeld in artikel 2, is geen waarborgpremie verschuldigd als vermeld in artikel 8 van het decreet van 7 mei 2004 houdende bepalingen inzake kas-, schuld- en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest.
+Voor de toekenning van de gemeenschapswaarborg voor de gewaarborgde verplichtingen, vermeld in artikel 2, is geen waarborgpremie verschuldigd als vermeld in artikel 99 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 en artikel 90 van het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019.
 
 ### ART 6.
 
