@@ -240,7 +240,7 @@ In geval van niet-naleving van de voorwaarden, vermeld in dit besluit of in de s
 
 ### ART 20.
 
-De subsidie wordt geheel of gedeeltelijk teruggevorderd met inachtneming van de bepalingen van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof en de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaringen af te leggen in verband met subsidies, vergoedingen en toelagen.
+De subsidie wordt geheel of gedeeltelijk teruggevorderd met inachtneming van de bepalingen van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, hoofdstuk 8 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 en de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaringen af te leggen in verband met subsidies, vergoedingen en toelagen.
 
 ### ART 21.
 
