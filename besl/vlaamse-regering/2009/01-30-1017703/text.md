@@ -238,70 +238,65 @@ Elk werkingsjaar wordt aan een Logo een subsidie toegekend. <br /><br />
 
 ### ART. 24.
 
-<p>De subsidie voor een Logo, vermeld in artikel 23, met uitzondering van het Logo voor het tweetalige gebied Brussel-Hoofdstad, bedraagt 0,5952 euro per inwoner in het werkgebied van een Logo, en een bedrag per Logo als vermeld in de volgende tabel:</p>
+De subsidie voor een Logo, vermeld in artikel 23, met uitzondering van het Logo voor het tweetalige gebied Brussel-Hoofdstad, bedraagt 0,6187 euro per inwoner in het werkgebied van een Logo, en een bedrag per Logo als vermeld in de volgende tabel:<br>
 &nbsp;
-
 <table border="1">
 	<tbody>
 		<tr>
-			<td>gebied van een regionale stad</td>
-			<td>bedrag in euro</td>
+			<td>vzw Logo Antwerpen</td>
+			<td>226.415,00</td>
 		</tr>
 		<tr>
-			<td>1° Antwerpen</td>
-			<td>268.283</td>
+			<td>Logo Mechelen vzw</td>
+			<td>154.879,00</td>
 		</tr>
 		<tr>
-			<td>2° Mechelen</td>
-			<td>174.347</td>
+			<td>vzw Logo Kempen</td>
+			<td>154.259,00</td>
 		</tr>
 		<tr>
-			<td>3° Turnhout</td>
-			<td>175.170</td>
+			<td>Logo Zenneland</td>
+			<td>151.092,00</td>
 		</tr>
 		<tr>
-			<td>4° Genk</td>
-			<td>129.751</td>
+			<td>Logo Oost-Brabant</td>
+			<td>153.708,00</td>
 		</tr>
 		<tr>
-			<td>5° Hasselt</td>
-			<td>219.892</td>
+			<td>Logo Brugge</td>
+			<td>116.359,00</td>
 		</tr>
 		<tr>
-			<td>6° Aalst</td>
-			<td>131.583</td>
+			<td>Logo Midden-West-Vlaanderen</td>
+			<td>115.594,00</td>
 		</tr>
 		<tr>
-			<td>7° Gent</td>
-			<td>267.298</td>
+			<td>Logo Leieland</td>
+			<td>116.283,00</td>
 		</tr>
 		<tr>
-			<td>8° Sint-Niklaas</td>
-			<td>129.387</td>
+			<td>Logo Oostende</td>
+			<td>118.365,00</td>
 		</tr>
 		<tr>
-			<td>9° Leuven</td>
-			<td>176.004</td>
+			<td>Logo Dender vzw</td>
+			<td>115.675,00</td>
 		</tr>
 		<tr>
-			<td>10° Brussel - behalve het tweetalige gebied Brussel-Hoofdstad</td>
-			<td>178.833</td>
+			<td>Logo Gezond+ (Gent)</td>
+			<td>227.585,00</td>
 		</tr>
 		<tr>
-			<td>11° Brugge</td>
-			<td>131.102</td>
+			<td>Logo-Waasland vzw</td>
+			<td>117.418,00</td>
 		</tr>
 		<tr>
-			<td>12° Oostende</td>
-			<td>128.355</td>
+			<td>Logo regio Genk</td>
+			<td>117.321,00</td>
 		</tr>
 		<tr>
-			<td>13° Kortrijk</td>
-			<td>131.104</td>
-		</tr>
-		<tr>
-			<td>14° Roeselare</td>
-			<td>132.005</td>
+			<td>Logo regio Hasselt</td>
+			<td>192.148,00</td>
 		</tr>
 	</tbody>
 </table>
@@ -317,11 +312,28 @@ De Vlaamse Regering kan de bedragen voor de bijkomende subsidie, vermeld in het 
 
 ### ART. 25.
 
-<P>De subsidie voor het Logo van het tweetalige gebied Brussel-Hoofdstad wordt   vastgelegd op 259.060 euro.</P>
+<p>De subsidie voor het Logo van het tweetalige gebied Brussel-Hoofdstad wordt vastgelegd op 253.151,00 euro.</p>
 
 ### ART. 26.
 
-<P>De subsidie, vermeld in artikel 23, die berekend wordt per Logo conform   artikel 24, wordt elk werkingsjaar in januari geïndexeerd volgens de   ontwikkeling van de gezondheidsindex door de bedragen, vermeld in artikel 24 en   25, aan te passen volgens de volgende formule:<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD rowSpan=2>bedrag Y = bedrag Y-1 x       <TD>gezondheidsindex december Y-1 gezondheidsindex december     Y-2<BR></TD></TR></TBODY></TABLE><BR>In de formule, vermeld in het eerste lid,   wordt verstaan onder:<BR>1° Y: het kalenderjaar waarop de subsidie betrekking   heeft;<BR>2° gezondheidsindex: het prijsindexcijfer dat berekend en benoemd   wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24   december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's   lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende   sociale bepalingen.<BR><BR>De aanpassing van de bedragen, vermeld in het eerste   lid, gebeurt voor het bedrag per inwoner tot vier cijfers na de komma en voor de   overige bedragen tot twee cijfers na de komma. Het subsidiebedrag voor een   bepaald werkingsjaar wordt afgerond tot op de euro. Bij alle afrondingen wordt   het laatste cijfer vanaf de waarde vijf naar boven afgerond, cijfers met een   waarde lager dan vijf worden naar beneden afgerond.</P>
+<p>De subsidie, vermeld in artikel 23, die berekend wordt per Logo conform artikel 24, wordt elk werkingsjaar in januari geïndexeerd volgens de ontwikkeling van de gezondheidsindex door de bedragen, vermeld in artikel 24 en 25,&nbsp;&nbsp;en die berekend zijn op basis van de afgevlakte gezondheidsindex, aan te passen volgens de volgende formule:</p>
+&nbsp;
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td rowspan="2">bedrag Y = bedrag Y-1 x</td>
+			<td>gezondheidsindex december Y-1 gezondheidsindex december Y-2</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+In de formule, vermeld in het eerste lid, wordt verstaan onder:<br>
+1° Y: het kalenderjaar waarop de subsidie betrekking heeft;<br>
+2° gezondheidsindex: het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende sociale bepalingen.<br>
+<br>
+De aanpassing van de bedragen, vermeld in het eerste lid, gebeurt voor het bedrag per inwoner tot vier cijfers na de komma en voor de overige bedragen tot twee cijfers na de komma. Het subsidiebedrag voor een bepaald werkingsjaar wordt afgerond tot op de euro. Bij alle afrondingen wordt het laatste cijfer vanaf de waarde vijf naar boven afgerond, cijfers met een waarde lager dan vijf worden naar beneden afgerond.
+<p>&nbsp;</p>
 
 ### ART. 27.
 
