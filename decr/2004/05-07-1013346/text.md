@@ -72,9 +72,7 @@ De subsidies voor de loonkosten kunnen nooit meer bedragen dan 35.510 euro per v
 
 Op basis van objectieve parameters wordt, telkens voor het begin van een nieuwe beleidsplanperiode, de omvang bepaald van het contingent waarop de organisaties een beroep mogen doen in het kader van hun beleidsplan.<br>
 <br>
-De Vlaamse regering legt de objectieve parameters vast en bepaalt de nadere regels met betrekking tot de verdeling van de middelen binnen elke sector na voorafgaand advies van de betrokken adviesraden en na consultatie van de sociale partners.<br>
-<br>
-De Vlaamse Regering bepaalt na consultatie van de sociale partners en na advies van de Vlaamse Jeugdraad en van de Sectorraad Sociaal-Cultureel Werk van de Strategische Adviesraad voor Cultuur, Jeugd, Sport en Media de nadere regels voor de verdeling van de middelen voor de subsector niet-landelijk jeugdwerk.
+De Vlaamse Regering legt voor de sectoren, vermeld in artikel 9, 1°, 3°, 4° en 5°, de objectieve parameters vast en bepaalt de nadere regels met betrekking tot de verdeling van de middelen binnen elke sector na voorafgaand advies van de betrokken adviesraden en na consultatie van de sociale partners.
 
 ### ART. 13.
 
