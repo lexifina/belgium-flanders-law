@@ -92,7 +92,7 @@ a) de naam en het adres van de kinderopvanglocatie;<br>
 b) het gevraagde aantal kinderopvangplaatsen;<br>
 c) het feit of er kinderopvang 's nachts wordt georganiseerd;<br>
 d) het feit of er kinderen buitenschools worden opgevangen;<br>
-e) het feit of de kinderopvanglocatie zal voldoen aan de voorwaarden voor bepaalde subsidies;<br>
+e) het feit of en voor hoeveel plaatsen de kinderopvanglocatie zal voldoen aan de voorwaarden voor bepaalde subsidies;<br>
 6° de toestemming van alle meerderjarige natuurlijke personen die de lokalen bewonen, om controlebezoeken te laten uitvoeren in de bewoonde lokalen die voor kinderopvang dienen;<br>
 7° de gegevens over de verantwoordelijke van de kinderopvanglocatie:<br>
 a) de identiteitsgegevens en de contactgegevens van de verantwoordelijke, waaronder minstens de voor- en achternaam, het rijksregisternummer of het vreemdelingennummer, de geboortedatum, het geslacht, het telefoonnummer en het e-mailadres;<br>
