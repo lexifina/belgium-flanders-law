@@ -489,7 +489,7 @@ De deelnemer arbeidsmatige activiteiten verricht onbezoldigd arbeidsmatige activ
 Het Departement WVG erkent de begeleiders arbeidsmatige activiteiten, als aan de volgende voorwaarden wordt voldaan:<br>
 1° het gaat om een van de volgende voorzieningen:<br>
 a) een centrum voor algemeen welzijnswerk;<br>
-b) een dienst maatschappelijk werk van het ziekenfonds, erkend conform het Woonzorgdecreet van 13 maart 2009;<br>
+b) een dienst maatschappelijk werk van het ziekenfonds, erkend conform het Woonzorgdecreet van 15 februari 2019;<br>
 c) een centrum voor geestelijke gezondheidszorg;<br>
 d) een initiatief voor beschut wonen;<br>
 e) een psychiatrisch ziekenhuis;<br>
