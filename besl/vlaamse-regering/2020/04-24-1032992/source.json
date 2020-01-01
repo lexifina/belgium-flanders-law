@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032992,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-24 tot wijziging van artikel 2 en 6 van het besluit van de Vlaamse Regering van 17 februari 2017 tot toekenning van aanwervingsincentives voor langdurig werkzoekenden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032992/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "fdcb534ecfb192eb560e489b705a865ac44bf13943e9c8dcb34900b72d2ef919",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032992&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2020-04-24",
+  "gazette": "2020-05-11",
+  "numac": 2020041049,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
