@@ -66,7 +66,7 @@ De subsidie, vermeld in het eerste lid, wordt als volgt beschikbaar gesteld:<br>
 1° voor het eerste en tweede tertiaal een voorschot van 35 % van het subsidiebedrag dat voor dat jaar toegekend wordt, en voor het derde tertiaal een voorschot van 25 % van het subsidiebedrag dat voor dat jaar toegekend wordt;<br>
 2° een saldo van maximaal 5 % van het subsidiebedrag dat voor dat jaar toegekend wordt. Het saldo wordt uitbetaald in de loop van het jaar dat volgt op het gesubsidieerde jaar nadat de administratie vaststelt dat de vereniging de in artikel 5 vermelde doelstelling heeft verwezenlijkt en de administratie de financiële afrekening en het jaarverslag van het voorbije gesubsidieerde jaar goedgekeurd heeft.<br>
 <br>
-Met de subsidie, vermeld in het eerste lid, kan een reserve worden aangelegd conform het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle ervan, en de controle door het Rekenhof.<br>
+Met de subsidie, vermeld in het eerste lid, kan een reserve worden aangelegd conform artikel 75 en 76 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
 <br>
 De Vlaamse Regering sluit, samen met het Koninkrijk der Nederlanden, met de voormelde vereniging een beheersovereenkomst af voor een duur van maximum vijf jaar. Die beheersovereenkomst bevat de concrete uitwerking, op praktisch vlak, van de bij dit hoofdstuk vastgestelde regels, zoals de missie, de invulling van de kerntaken en de strategische en operationele doelstellingen en de modaliteiten voor de werking en de evaluatie.
 
