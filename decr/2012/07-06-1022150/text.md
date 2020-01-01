@@ -197,17 +197,11 @@ In aanvulling op de documenten, vermeld in artikel 16, moeten de organisaties, v
 
 ### ART. 38.
 
-Met het oog op een structurele samenwerking voor een afstemming van het cultuuraanbod en de cultuurcommunicatie kunnen gemeenten een intergemeentelijk samenwerkingsverband met rechtspersoonlijkheid oprichten.<br>
-<br>
-Een samenwerkingsverband als vermeld in het eerste lid kan een jaarlijkse subsidie verkrijgen van 0,33 euro per inwoner, met een maximum van 82.500 euro, op voorwaarde dat het voldoet aan de volgende voorwaarden :<br>
-1° minimaal bestaan uit vier aangrenzende gemeenten, waarvan er één behoort tot de lijst van steden en gemeenten, die als bijlage bij dit decreet is gevoegd;<br>
-2° door alle aangesloten gemeenten samen jaarlijks een bedrag inbrengen dat minstens gelijk is aan de jaarlijkse subsidie van de Vlaamse Regering;<br>
-3° voor een periode die loopt tot en met het eerste jaar van een nieuwe gemeentelijke legislatuur een cultuurnota indienen die beschrijft welke activiteiten het intergemeentelijk samenwerkingsverband zal opzetten in het kader van de afstemming van het cultuuraanbod en de cultuurcommunicatie voor alle deelnemende gemeenten.<br>
-&nbsp;
+...
 
 ### ART. 39.
 
-De Vlaamse Regering bepaalt de procedure die moet worden gevolgd voor het aanvragen en de toekenning van de subsidie.<br /><br />
+...
 
 ## HOOFDSTUK 6 Grootstedelijke gebieden
 
