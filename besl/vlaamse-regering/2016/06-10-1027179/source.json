@@ -2,16 +2,16 @@
   "codex_id": 1027179,
   "title": "Besluit van de Vlaamse Regering van 2016-06-10 houdende de transitie van personen met een handicap met een actieve zorgvraag naar persoonsvolgende financiering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027179/VolledigDocument?datum=2018-05-01",
-  "source_sha256": "a35720fa70b57f6f6fc7406091c759ccc33e9c7592f91074f2a1b3dbd90a6655",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027179/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "359c580c5d24947cb5ba1a0706444d15e6ad08a2384a7512996fc0c598f95c85",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027179&param=informatie",
-  "as_of": "2018-05-01",
+  "as_of": "2020-01-01",
   "made": "2016-06-10",
   "gazette": "2016-09-01",
   "numac": 2016036128,
   "document_start": "2016-04-01",
   "document_end": null,
-  "in_force": "2018-05-01",
+  "in_force": "2020-01-01",
   "article_versions": 32,
-  "record_form": "consolidated version as in force on 2018-05-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }

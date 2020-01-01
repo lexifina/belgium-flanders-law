@@ -195,19 +195,7 @@ Als de persoon met een handicap niet akkoord gaat met de beslissing tot toewijzi
 
 ### ART 16.
 
-Behalve als de zorgvraag die met toepassing van hoofdstuk 1 van dit besluit werd weerhouden voor vertaling naar een budget, een persoonlijke-assistentiebudget of een combinatie van een persoonlijke-assistentiebudget met begeleid werken of met een dagcentrum betreft of als een herziening is gevraagd als vermeld in artikel 15, stelt het agentschap een budget dat is toegewezen met toepassing van artikel 3 tot en met artikel 14, ter beschikking voor een periode van maximaal twaalf maanden vanaf de datum, vermeld in de beslissing tot terbeschikkingstelling.<br>
-<br>
-Als de persoon met een handicap na de periode, vermeld in het eerste lid, verder wil gebruikmaken van zijn budget, moet hij binnen de periode, vermeld in het eerste lid, zijn nood aan zorg en ondersteuning op basis van de ondersteuningsfuncties en frequenties, vermeld in de beslissing tot toewijzing van een budget, vermeld in artikel 14, tweede, derde of zesde lid, laten objectiveren door een multidisciplinair team, als vermeld in artikel 1, 9°, van het besluit van 27 november 2015. Het multidisciplinair team objectiveert de nood aan zorg en ondersteuning conform artikel 13 van het besluit van 27 november 2015.<br>
-<br>
-Als de objectivering van de nood aan zorg en ondersteuning, vermeld in het tweede lid, als gevolg van overmacht, ingeroepen door de betrokkenen of het multidisciplinaire team, vermeld in artikel 1, 9°, van het besluit van 27 november 2015, niet kan worden gefinaliseerd binnen de termijn, vermeld in het eerste lid, kan het agentschap de termijn eenmalig verlengen met drie maanden.<br>
-<br>
-Als het multidisciplinair team, vermeld in artikel 1, 9°, van het besluit van 27 november 2015, niet binnen de periode, vermeld in het eerste lid, in voorkomend geval verlengd met drie maanden, een objectivering van de zorg en ondersteuning als vermeld in het tweede lid heeft bezorgd aan het agentschap, vervalt de beslissing tot toewijzing van een budget die is genomen met toepassing van artikel 3 tot en met artikel 14, met ingang van de eerst dag die volgt op de periode, vermeld in het eerste lid, in voorkomend geval verlengd met drie maanden conform het derde lid.<br>
-<br>
-Het agentschap stelt op basis van de ondersteuningsfuncties en frequenties vermeld in de beslissing tot toewijzing van een budget, vermeld in artikel 14, tweede, derde of zesde lid, en op basis van het resultaat van de objectivering van de nood aan zorg en ondersteuning, vermeld in het tweede lid, een budgetcategorie vast conform artikel 19 tot en met artikel 21 van het besluit van 27 november 2015 met dien verstande dat in die artikels de vraag wordt gelezen als de ondersteuningsfuncties en frequenties vermeld in de beslissing tot toewijzing van een budget, vermeld in artikel 14, tweede, derde of zesde lid en de gevraagde ondersteuningsfuncties als de ondersteuningsfuncties, vermeld in de in de beslissing tot toewijzing van een budget, vermeld in artikel 14, tweede, derde of zesde lid.<br>
-<br>
-Als de budgetcategorie, die wordt vastgesteld conform artikel 16, vijfde lid, lager is dan de budgetcategorie, vermeld in de beslissing tot toewijzing, vermeld in artikel 14, tweede, derde of zesde lid, heeft de beslissing tot toewijzing van de budgetcategorie die is vastgesteld conform artikel 16, vijfde lid, uitwerking vanaf de eerste dag van de vierde maand na de datum die opgenomen is in de beslissing tot toewijzing en wordt die budgetcategorie met ingang van de eerste dag van de vierde maand na de datum die opgenomen is in de beslissing tot toewijzing ter beschikking gesteld.<br>
-<br>
-Als de budgetcategorie, die wordt vastgesteld conform artikel 16, vijfde lid, hoger is dan de budgetcategorie, vermeld in de beslissing tot toewijzing, vermeld in artikel 14, tweede, derde of zesde lid, wordt die budgetcategorie onmiddellijk na de beslissing tot toewijzing ervan ter beschikking gesteld
+...
 
 ### ART 17.
 
