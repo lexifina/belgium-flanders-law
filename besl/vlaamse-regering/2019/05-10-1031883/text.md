@@ -93,6 +93,30 @@ In artikel 10, tweede lid, van hetzelfde besluit worden tussen de woorden "een d
 
 In artikel 11 van hetzelfde besluit worden tussen de woorden "een dienst Ondersteuningsplan" en de woorden "of als het oordeelt" de woorden "of van een dienst maatschappelijk werk " ingevoegd.
 
+### ART 9.
+
+Artikel 19 van hetzelfde besluit wordt opgeheven.
+
+### ART 10.
+
+Artikel 20 en 21 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 20. Voor elk van de gevraagde ondersteuningsfuncties, met uitzondering van oproepbare permanentie, waarvoor de persoon met een handicap financiering vraagt aan het agentschap wordt op basis van de frequenties, vermeld in het ondersteuningsplan persoonsvolgende financiering een aantal zorggebonden punten vastgesteld conform tabel 3 tot en met 7 die zijn opgenomen in de bijlage die bij dit besluit is gevoegd.<br>
+<br>
+Als psychosociale begeleiding wordt gevraagd, wordt voor de berekening van het overeenstemmende aantal zorggebonden punten, voor maximaal twee uren een aantal zorggebonden punten vastgesteld conform tabel 6, die is opgenomen in de bijlage die bij dit besluit is gevoegd, en wordt in afwijking van het eerste lid, het aantal zorggebonden punten voor de overige uren vastgesteld conform tabel 7, die is opgenomen in de bijlage die bij dit besluit is gevoegd.<br>
+<br>
+In afwijking van het eerste lid wordt geen aantal zorggebonden punten vastgesteld voor woonondersteuning of dagondersteuning als de budgetcategorie die overeenstemt met de resultaten van de afname van het zorgzwaarte-instrument voor de parameters begeleiding en permanentie, lager is dan budgetcategorie 3, conform tabel 2 die is opgenomen in bijlage 1 die bij dit besluit is gevoegd.<br>
+<br>
+Als er verschillende ondersteuningsfuncties worden gevraagd, wordt het aantal zorggebonden punten dat is vastgesteld voor de verschillende gevraagde ondersteuningsfuncties, opgeteld.<br>
+<br>
+Als oproepbare permanentie wordt gevraagd, wordt het aantal zorggebonden punten voor oproepbare permanentie, vermeld in tabel 8, die is opgenomen in de bijlage die bij dit besluit is gevoegd, opgeteld bij het resultaat van de optelsom, vermeld in het derde lid.<br>
+<br>
+Art. 21. De budgetcategorie die maximaal kan worden toegekend, wordt bepaald door de budgetcategorie die conform tabel 2 die is opgenomen in de bijlage die bij dit besluit is gevoegd correspondeert met het totaal van de zorggebonden punten die zijn vastgesteld conform artikel 20, te vergelijken met de budgetcategorie die conform de voormelde tabel 2 overeenstemt met de resultaten van de afname van het zorgzwaarte-instrument voor de parameters begeleiding en permanentie.<br>
+<br>
+Als de budgetcategorie voor het totaal aantal zorggebonden punten van de vraag hoger is dan de budgetcategorie voor de resultaten van de afname van het zorgzwaarte-instrument voor de parameters begeleiding en permanentie, kan maximaal de budgetcategorie die overeenstemt met de vastgestelde waarden voor de parameters begeleiding en permanentie worden toegekend.<br>
+<br>
+Als de budgetcategorie voor het totaal aantal zorggebonden punten van de vraag lager is dan de budgetcategorie voor de resultaten van de afname van het zorgzwaarte-instrument voor de parameters begeleiding en permanentie, kan maximaal de budgetcategorie die overeenstemt met het totaal aantal zorggebonden punten van de vraag worden toegekend.".
+
 ### ART 11.
 
 Aan artikel 37, § 1, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 4 maart 2016 en 24 februari 2017, wordt een tweede lid toegevoegd dat luidt als volgt:<br>
@@ -108,6 +132,10 @@ In artikel 56 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse R
 <br>
 2° er wordt een achtste lid toegevoegd dat luidt als volgt:<br>
 "Artikel 37/1 en 37/2 treden in werking op een door de Vlaamse Regering vast te stellen datum.".
+
+### ART 14.
+
+De bijlage bij hetzelfde besluit wordt vervangen door bijlage 1 die bij dit besluit is gevoegd.
 
 ## HOOFDSTUK 4. Wijzigingen van het besluit van de Vlaamse Regering van 10 juni 2016 houdende de transitie van personen met een handicap met een actieve zorgvraag naar persoonsvolgende financiering
 
@@ -299,7 +327,9 @@ In artikel 17 van het besluit van de Vlaamse Regering van 14 december 2018 over 
 
 ### ART 25.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2019 met uitzondering van artikel 11, 13 en 15 die uitwerking hebben met ingang van 1 januari 2018 en artikel 9, 10, en 14, die in werking treden op 1 januari 2020 en artikel 12 dat in werking treedt op de datum die de Vlaamse Regering bepaalt.
+Dit besluit heeft uitwerking met ingang van 1 januari 2019 met uitzondering van artikel 11, 13 en 15 die uitwerking hebben met ingang van 1 januari 2018 en artikel 9, 10, en 14, die in werking treden op 1 januari 2020 en artikel 12 dat in werking treedt op de datum die de Vlaamse Regering bepaalt.<br>
+<br>
+De bepalingen van artikel 19, 20 en 21 van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget en de bijlage bij dat besluit, zoals van kracht voor 1 januari 2020, zijn van toepassing op de aanvragen die conform artikel 1 tot en met artikel 15 van het voormelde besluit zijn ingediend voor 17 maart 2020.
 
 ### ART 26.
 
