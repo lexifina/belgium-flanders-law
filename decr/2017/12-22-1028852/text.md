@@ -62,6 +62,11 @@ De Vlaamse Regering bepaalt de regels voor de vaststelling en de toekenning van 
 In artikel 2 van het kaderdecreet van 22 juni 2007 inzake ontwikkelingssamenwerking, het laatst gewijzigd bij het decreet van 22 januari 2016, wordt punt 17° opgeheven.<br>
 &nbsp;
 
+### ART 10.
+
+&nbsp;In hetzelfde decreet wordt het opschrift van titel VII opgeheven.<br>
+&nbsp;
+
 ### ART 11.
 
 &nbsp;In hetzelfde decreet worden de volgende artikelen opgeheven:<br>
@@ -69,16 +74,6 @@ In artikel 2 van het kaderdecreet van 22 juni 2007 inzake ontwikkelingssamenwerk
 2° artikel 16/1 tot en met 16/3, ingevoegd bij het decreet van 13 juli 2012;<br>
 3° artikel 16/4, eerste lid, ingevoegd bij het decreet van 13 juli 2012;<br>
 4° artikel 16/5, ingevoegd bij het decreet van 13 juli 2012.<br>
-&nbsp;
-
-### ART 12.
-
-Aan artikel 16/4 van hetzelfde decreet, ingevoegd bij het decreet van 13 juli 2012, worden een tweede en een derde lid toegevoegd, die luiden als volgt:<br>
-"De gemeentelijke ontwikkelingssamenwerking heeft als doel:<br>
-1° de gemeente aan te moedigen om ontwikkelingssamenwerking op te nemen in het reguliere gemeentelijke beleid;<br>
-2° een brede sensibilisering voor gemeentelijke ontwikkelingssamenwerking en de Noord-Zuidproblematiek binnen de gemeente te bewerkstelligen.<br>
-<br>
-De Vlaamse Regering bepaalt de Vlaamse beleidsprioriteiten voor het beleid gemeentelijke ontwikkelingssamenwerking binnen het kader van de doelstellingen, vermeld in het tweede lid. De Vlaamse Regering bepaalt de procedure voor de beoordeling en de goedkeuring van de aanvragen.".<br>
 &nbsp;
 
 ### ART 13.
@@ -1984,7 +1979,7 @@ Het eerste lid is van toepassing op organisaties die een werkingssubsidie ontvan
 
 Er wordt een begrotingsfonds Vlaams Cultureel Centrum Voeren opgericht, hierna genoemd "het fonds".<br>
 <br>
-Het fonds is een begrotingsfonds als vermeld in artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
+Het fonds is een begrotingsfonds als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
 <br>
 Het fonds wordt gespijsd door alle ontvangsten, die voortvloeien uit activiteiten die het Vlaams Cultureel Centrum Voeren uitoefent, zoals opbrengsten uit de verhuur van lokalen, inrichten van culturele manifestaties, verkoop van voedsel en drank, verkoop van publicaties en verkoop van producten.<br>
 <br>
