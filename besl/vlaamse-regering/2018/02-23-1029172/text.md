@@ -94,7 +94,7 @@ Bij de bepaling van de mogelijke prijs, vermeld in het eerste lid, 3°, geldt vo
 
 ### ART 6.
 
-&nbsp;De subsidie bedraagt 3.187.315 euro op jaarbasis.
+&nbsp;De subsidie bedraagt&nbsp;2.996.076,1 euro op jaarbasis.
 
 ### ART 7.
 
@@ -247,7 +247,7 @@ De organisaties, vermeld in het eerste lid :<br>
 
 ### ART 26.
 
-In de samenwerkingsovereenkomst, vermeld in artikel 5, wordt bepaald hoe de middelen van het voormalige project `Ondersteuning van de kwaliteitszorg in de kinderopvang' van de provincie Limburg aan de vzw Limburgs Steunpunt Kinderopvang, meer bepaald 100.000 euro van het bedrag, vermeld in artikel 6, worden ingezet, gedurende een overgangstermijn van drie jaar.<br>
+In de samenwerkingsovereenkomst, vermeld in artikel 5, wordt bepaald hoe de middelen van het voormalige project `Ondersteuning van de kwaliteitszorg in de kinderopvang' van de provincie Limburg aan de vzw Limburgs Steunpunt Kinderopvang, meer bepaald&nbsp;94.000 euro van het bedrag, vermeld in artikel 6, worden ingezet, gedurende een overgangstermijn van drie jaar.<br>
 &nbsp;
 
 ## HOOFDSTUK 7 Opheffingsbepaling
