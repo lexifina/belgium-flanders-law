@@ -574,7 +574,7 @@ Het decreet van 29 april 1991 betreffende het Vlaams Provinciefonds,   gewijzigd
 
 ### ART. 104.
 
-Met   toepassing van artikel 62 van het decreet van 8 juli 2011 houdende regeling van   de begroting, de boekhouding, de toekenning van subsidies en de controle op de   aanwending ervan, en de controle door het Rekenhof, wordt het niet-herbruikt   meubilair van de gebouwen die verlaten worden door de buitendiensten van het   Agentschap Jongerenwelzijn met het oog op hun herhuisvesting en dat toebehoort   aan de Vlaamse Gemeenschap, geschonken aan voorzieningen die erkend zijn binnen   het beleidsdomein Welzijn, Volksgezondheid en Gezin. Bij de verdeling van de   gift zal rekening worden gehouden met het aantal voorzieningen en het aantal   personeelsleden.
+Met toepassing van artikel 77 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, wordt het niet-herbruikt meubilair van de gebouwen die verlaten worden door de buitendiensten van het Agentschap Jongerenwelzijn met het oog op hun herhuisvesting en dat toebehoort aan de Vlaamse Gemeenschap, geschonken aan voorzieningen die erkend zijn binnen het beleidsdomein Welzijn, Volksgezondheid en Gezin. Bij de verdeling van de gift zal rekening worden gehouden met het aantal voorzieningen en het aantal personeelsleden.
 
 ## Afdeling 3 Geestelijke gezondheidszorg
 
@@ -590,7 +590,7 @@ Artikel   31 van hetzelfde decreet wordt vervangen door wat volgt:<BR   style="T
 
 ### ART. 107.
 
-<p>§ 1. Er wordt een `Vlaams Dierenwelzijnsfonds' opgericht, hierna genoemd `het Fonds'. Het Fonds is een begrotingsfonds in de zin van artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.</p>
+<p>§ 1. Er wordt een `Vlaams Dierenwelzijnsfonds' opgericht, hierna genoemd `het Fonds'. Het Fonds is een begrotingsfonds als vermeld in&nbsp;artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.</p>
 
 <p>§ 2. Het fonds wordt gespijsd met :<br>
 1° de opbrengsten voortvloeiend uit de bepalingen van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, met name :<br>
