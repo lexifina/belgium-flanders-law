@@ -46,7 +46,9 @@ Tegen de beslissing genomen door de bevoegde overheid of bij gebrek aan een besl
 
 ### ART. 11.
 
-Zonder afbreuk te doen aan de bepalingen van het huidige decreet, zijn de bepalingen van titel VII, hoofdstukken 1, 3, 4, 6 tot en met 9bis, van het Wetboek van de inkomstenbelastingen en artikelen 126 tot en met 175 van het uitvoeringsbesluit van dat wetboek van toepassing op de provincie- en gemeentebelastingen, voor zover ze niet specifiek de belastingen op de inkomsten betreffen.
+Zonder afbreuk te doen aan het huidige decreet, zijn van overeenkomstige toepassing op de provincie- en gemeentebelastingen:<br>
+1° de bepalingen van titel VII, hoofdstuk 1, 3, 4, 6, 7 en 8, van het Wetboek van de Inkomstenbelastingen 1992, voor zover deze niet specifiek de belastingen op de inkomsten betreffen;<br>
+2° het Wetboek van de minnelijke en gedwongen invordering van fiscale en niet- fiscale schuldvorderingen van 13 april 2019, met uitzondering van artikel 43 tot en met 48.
 
 ### ART. 12.
 
