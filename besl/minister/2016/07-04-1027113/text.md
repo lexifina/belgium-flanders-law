@@ -27,7 +27,7 @@
 
 ### ART 2.
 
-<span style="color: rgb(0, 0, 0);">De financiële tegemoetkoming voor het sportmedische geschiktheidsonderzoek van de getalenteerde sporters wordt voor het jaar 2019 vastgesteld op maximaal 350 euro op jaarbasis voor elke getalenteerde sporter.</span>
+<span style="color:#000000">De financiële tegemoetkoming voor het sportmedische geschiktheidsonderzoek van de getalenteerde sporters wordt voor het jaar 2020 vastgesteld op maximaal 335 euro op jaarbasis voor elke getalenteerde sporter.</span>
 
 ### ART 3.
 
