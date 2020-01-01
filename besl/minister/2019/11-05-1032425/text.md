@@ -24,6 +24,10 @@ Besluit :
 
 In artikel 18 van het besluit van de Vlaamse Regering van 26 februari 2016 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten en kmo-groeitrajecten wordt de zinsnede "30 %" vervangen door de zinsnede "20%" en wordt de zinsnede "40%" vervangen door de zinsnede "30 %".
 
+### ART 2.
+
+In artikel 19, eerste lid, van hetzelfde besluit wordt de zin "Het maximale subsidiebedrag bedraagt 15.000 euro per kalenderjaar voor een middelgrote onderneming en 10.000 euro per kalenderjaar voor een kleine onderneming." vervangen door de zin "Het maximale subsidiebedrag bedraagt 7500 euro per kalenderjaar voor een kleine en middelgrote onderneming.".
+
 ### ART 3.
 
 Op de subsidieaanvragen die zijn ingediend vóór de inwerkingtreding van dit besluit, blijft het besluit van de Vlaamse Regering van 26 februari 2016 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten en kmo-groeitrajecten van toepassing, zoals het gold voor de inwerkingtreding van dit besluit.<br>
