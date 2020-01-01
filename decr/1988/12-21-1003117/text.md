@@ -270,7 +270,7 @@ De raad van bestuur is, voor het bestuur van het agentschap, met de meest uitvoe
 2° hij beslist over de leningen, geeft de waarborgen voor de verplichtingen die door het agentschap worden aangegaan en aanvaardt de aangeboden waarborg voor de tegenover hem genomen verbintenissen;<br>
 3° hij bepaalt bij algemeen reglement en met de goedkeuring van de Vlaamse regering de rentevoet en de voorwaarden van de leningen van het agentschap;<br>
 4° hij stelt de programma's vast voor de verwerving, het beheer en de overdracht van gronden, gebouwen en bedrijven;<br>
-5° hij maakt het ontwerp van de begroting en het ontwerp van de aanpassing van de begroting op, alsook de verantwoordende ramingstaten en de memorie van toelichting, hij stelt de algemene rekening van het agentschap vast en oefent de bevoegdheden uit die hem worden toegekend door het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof;<br>
+5° hij maakt het ontwerp van de begroting en het ontwerp van de aanpassing van de begroting op, alsook de verantwoordende ramingstaten en de memorie van toelichting, hij stelt de algemene rekening van het agentschap vast en oefent de bevoegdheden uit die hem worden toegekend door de Vlaamse Codex Overheidsfinanciën van 29 maart 2019;<br>
 6° hij sluit de overeenkomsten voor aannemingen van werken, leveringen en diensten;<br>
 7° hij oefent de bevoegdheden uit die hem krachtens het besluit van de Vlaamse regering houdende de regeling van de rechtspositie van het personeel, alsmede krachtens alle andere op het personeel van toepassing zijnde wettelijke, decretale of reglementaire bepalingen, worden toegekend;<br>
 8° hij neemt alle sommen en waarden in ontvangst die aan het agentschap toekomen, of hij belast zijn vertegenwoordigers met de inning ervan;<br>
@@ -353,7 +353,17 @@ Ter uitvoering van de aan het agentschap opgedragen missie, taken en bevoegdhede
 
 ### ART. 18quinquies.
 
-Met behoud van de toepassing van het decreet van 8 juli 2011 houdende   regeling van de begroting, de boekhouding, de toekenning van subsidies en de   controle op de aanwending ervan, en de controle door het Rekenhof, wordt de   controle op de financiële toestand, op de jaarrekening en op de regelmatigheid,   ten aanzien van de wetten, decreten en de statuten van de vennootschap, van de   in de jaarrekening weergegeven verrichtingen opgedragen aan een commissaris,   natuurlijke of rechtspersoon, ingeschreven in het openbaar register van het   Instituut van de Bedrijfsrevisoren.<BR><BR>Met behoud van de toepassing van het   decreet, vermeld in het eerste lid, heeft de commissaris de rechten,   verplichtingen, taken en bevoegdheden die in het Wetboek van Vennootschappen   zijn bepaald.<BR><BR>Als de publiekrechtelijke aard van de VLM dat vereist, kan   de Vlaamse Regering de opdracht en de actiemiddelen van de commissaris   uitbreiden.<BR><BR>Met behoud van de toepassing van het decreet, vermeld in het   eerste lid, wordt de commissaris benoemd voor een hernieuwbare termijn van drie   jaar door de algemene vergadering die ook de bezoldiging van de commissaris   bepaalt. Deze bezoldiging is ten laste van de vennootschap.<BR><BR>Met behoud   van de toepassing van andere onverenigbaarheden die op de functie van   commissaris toepassing vinden, gelden voor de commissaris dezelfde   onverenigbaarheden als voor het mandaat van regeringsafgevaardigde bij het   agentschap. Daarenboven is de functie van commissaris onverenigbaar met het   mandaat van regeringsafgevaardigde bij het agentschap.<BR><BR>De boekhouding van   het agentschap wordt gevoerd volgens de wetgeving op de boekhouding en de   jaarrekeningen van de ondernemingen. Het agentschap voert een economische   boekhouding met een analytische component.
+Met behoud van de toepassing van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, wordt de controle op de financiële toestand, op de jaarrekening en op de regelmatigheid, ten aanzien van de wetten, decreten en de statuten van de vennootschap, van de in de jaarrekening weergegeven verrichtingen opgedragen aan een commissaris, natuurlijke of rechtspersoon, ingeschreven in het openbaar register van het Instituut van de Bedrijfsrevisoren.<br>
+<br>
+Met behoud van de toepassing van het decreet, vermeld in het eerste lid, heeft de commissaris de rechten, verplichtingen, taken en bevoegdheden die in het Wetboek van Vennootschappen zijn bepaald.<br>
+<br>
+Als de publiekrechtelijke aard van de VLM dat vereist, kan de Vlaamse Regering de opdracht en de actiemiddelen van de commissaris uitbreiden.<br>
+<br>
+Met behoud van de toepassing van het decreet, vermeld in het eerste lid, wordt de commissaris benoemd voor een hernieuwbare termijn van drie jaar door de algemene vergadering die ook de bezoldiging van de commissaris bepaalt. Deze bezoldiging is ten laste van de vennootschap.<br>
+<br>
+Met behoud van de toepassing van andere onverenigbaarheden die op de functie van commissaris toepassing vinden, gelden voor de commissaris dezelfde onverenigbaarheden als voor het mandaat van regeringsafgevaardigde bij het agentschap. Daarenboven is de functie van commissaris onverenigbaar met het mandaat van regeringsafgevaardigde bij het agentschap.<br>
+<br>
+De boekhouding van het agentschap wordt gevoerd volgens de wetgeving op de boekhouding en de jaarrekeningen van de ondernemingen. Het agentschap voert een economische boekhouding met een analytische component.
 
 ## [HOOFDSTUK XI PENSIOENREGELING (ing. decr. 7 mei 2004, art. 33)]
 
@@ -365,7 +375,7 @@ Met behoud van de toepassing van het decreet van 8 juli 2011 houdende   regeling
 
 ### ART. 18septies.
 
-Tot de inwerkingtreding van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, zijn de artikelen 2, 3, 4, 5, 6, 6bis en 13 van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut van toepassing op het agentschap. Voor de toepassing van voormelde wetsbepalingen wordt het agentschap beschouwd als een organisme van categorie B.
+...
 
 ### ART. 18octies.
 
