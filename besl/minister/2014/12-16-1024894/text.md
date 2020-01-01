@@ -54,7 +54,15 @@ De   opdrachten, vermeld in artikel 40 van het besluit van 28 maart 2014, worden
 
 ### ART. 9.
 
-<P>Het   subsidiebedrag voor het aanbod opvoedingsondersteuning door vrijwilligers   bedraagt 60.000,00 euro (zestigduizend euro nul cent), vermeerderd met een   variabel bedrag, tot een plafond van maximaal 96.000,00 euro   (zesennegentigduizend euro nul cent).<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   agentschap beslist over de toekenning van het subsidiebedrag na een oproep als   vermeld in artikel 89 van het besluit van 28 maart 2014.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   de berekening van het variabele bedrag, vermeld in het eerste lid, geldt een   basisbedrag van 2,5 eurocent per minderjarige in het werkingsgebied. Het   basisbedrag wordt vermeerderd met het bedrag dat verkregen wordt door de   vermenigvuldiging te maken van 20% van het basisbedrag, met de samengestelde   indicator.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Om het subsidiebedrag, vermeld in artikel 61 van het besluit van 28 maart 2014, voor elk erkend en gesubsidieerd groepsgericht aanbod opvoedingsondersteuning door vrijwilligers vast te stellen, wordt een vast bedrag vermeerderd met een variabel bedrag.<br>
+<br>
+Het vaste bedrag, vermeld in het eerste lid, bedraagt voor een groepsgericht aanbod opvoedingsondersteuning door vrijwilligers 69.375,08 euro (negenenzestigduizend driehonderdvijfenzeventig euro acht cent).<br>
+<br>
+Om het variabele bedrag, vermeld in het eerste lid, te berekenen, geldt een basisbedrag dat bestaat uit het aantal minderjarigen in het werkingsgebied, vermenigvuldigd met 0,04 euro (vier cent). Het basisbedrag wordt vermeerderd met het bedrag dat verkregen wordt door de samengestelde indicator te vermenigvuldigen met 20% van het basisbedrag en met een bedrag dat rekening houdt met de evolutie van de geldelijke anciënniteit, vermeld in artikel 61, § 1/1, eerste lid, 3°, van het besluit van 28 maart 2014.<br>
+<br>
+Het maximale subsidiebedrag dat aan een groepsgericht aanbod opvoedingsondersteuning door vrijwilligers kan worden toegekend, rekening houdend met de beschikbare begrotingskredieten, bedraagt 123.395,58 euro (honderddrieëntwintigduizend driehonderdvijfennegentig euro achtenvijftig cent).<br>
+<br>
+De subsidie, vermeld in dit artikel, is gekoppeld aan de spilindex die van toepassing is op 1 januari 2019. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.</p>
 
 ## HOOFDSTUK 3 Procedures
 
