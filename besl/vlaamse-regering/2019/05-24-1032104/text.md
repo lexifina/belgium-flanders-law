@@ -133,8 +133,7 @@ In artikel 37 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Re
 1° paragraaf 1 wordt opgeheven;<br>
 2° In paragraaf 2 wordt het eerste lid vervangen door wat volgt:<br>
 "De erkende adoptiediensten ontvangen binnen het beschikbare begrotingskrediet jaarlijks een basissubsidie voor personeels- en werkingskosten van 307.077 euro"<br>
-3° in paragraaf 2 wordt het eerste lid vervangen door wat volgt:<br>
-"De erkende adoptiedienst ontvangt binnen het beschikbare begrotingskrediet jaarlijks een basissubsidie voor personeels- en werkingskosten van 685.020 euro";<br>
+3° ...;<br>
 4° aan paragraaf 2 wordt een punt 4° toegevoegd dat luidt als volgt:<br>
 "4° het subsidiebedrag van 231.230 euro voor het laagdrempelig ondersteuningsaanbod, vermeld in artikel 22, eerste lid.";<br>
 5° in paragraaf 3 wordt de zinsnede "die een subsidie bekomt," opgeheven.
