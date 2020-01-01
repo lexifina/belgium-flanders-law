@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032248,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-03 tot regeling van de VDAB-opleiding tot verzorgende en zorgkundige",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032248/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "6745040900bbd8198726486984ca0b947a65ac2a0439fbf6295ab179854f9b13",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032248&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2019-05-03",
+  "gazette": "2019-09-17",
+  "numac": 2019014364,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
