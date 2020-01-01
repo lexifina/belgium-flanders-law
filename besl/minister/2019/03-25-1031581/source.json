@@ -2,16 +2,16 @@
   "codex_id": 1031581,
   "title": "Ministerieel besluit van 2019-03-25 houdende de bepaling van de klassen van bijdrageplichtige veebedrijven en nadere bepalingen over het abonnement voor de financiering van de ophaling en verwerking van krengen voor 2019",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031581/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "ecaa886cb7f4d81a532c0fd911be8ec92dda9f53733e0d3b926d93b5f52a03bd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031581/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "0ff6ba567358a02f209679175883d67a93bd3959aa0c7dc958c47633190c08ec",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031581&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2020-01-01",
   "made": "2019-03-25",
   "gazette": "2019-04-19",
   "numac": 2019011792,
   "document_start": "2019-01-01",
   "document_end": "2019-12-31",
-  "in_force": "2019-01-01",
+  "in_force": "2020-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
