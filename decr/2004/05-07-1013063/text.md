@@ -416,7 +416,22 @@ De Vlaamse Regering bepaalt na advies van de raad van bestuur van de VDAB de nad
 
 ### ART. 23.
 
-§ 1. Het agentschap kan beschikken over volgende ontvangsten:<br />1° dotaties;<br />2° leningen;<br />3° fiscale heffingen voorzover bij decreet toegewezen aan het agentschap;<br />4° retributies voorzover bij decreet toegewezen aan het agentschap;<br />5° ontvangsten voortvloeiend uit daden van beheer of beschikking met betrekking tot eigen domeingoederen;<br />6° schenkingen en legaten in speciën;<br />7° inkomsten uit eigen participaties en uit door het agentschap verstrekte leningen aan derden;<br />8° opbrengsten uit de verkoop van eigen participaties;<br />9° de subsidies waarvoor het agentschap als begunstigde in aanmerking komt;<br />10° terugvorderingen van ten onrechte gedane uitgaven;<br />11° vergoedingen voor prestaties aan derden, volgens de modaliteiten bepaald in de beheersovereenkomst.<br /><br />§ 2. Tot de inwerkingtreding van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, zijn de artikelen 2, 3, 4, 5, 6, 6bis en 13 van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut van toepassing op het agentschap. Voor de toepassing van voormelde wetsbepalingen wordt het agentschap beschouwd als een organisme van categorie B. <br /><br />§ 3. Het agentschap kan schenkingen of legaten aanvaarden. Het daartoe gemandateerde orgaan beoordeelt vooraf de opportuniteit en de risico's van de aanvaarding.
+§ 1. Het agentschap kan beschikken over volgende ontvangsten:<br>
+1° dotaties;<br>
+2° leningen;<br>
+3° fiscale heffingen voorzover bij decreet toegewezen aan het agentschap;<br>
+4° retributies voorzover bij decreet toegewezen aan het agentschap;<br>
+5° ontvangsten voortvloeiend uit daden van beheer of beschikking met betrekking tot eigen domeingoederen;<br>
+6° schenkingen en legaten in speciën;<br>
+7° inkomsten uit eigen participaties en uit door het agentschap verstrekte leningen aan derden;<br>
+8° opbrengsten uit de verkoop van eigen participaties;<br>
+9° de subsidies waarvoor het agentschap als begunstigde in aanmerking komt;<br>
+10° terugvorderingen van ten onrechte gedane uitgaven;<br>
+11° vergoedingen voor prestaties aan derden, volgens de modaliteiten bepaald in de beheersovereenkomst.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. Het agentschap kan schenkingen of legaten aanvaarden. Het daartoe gemandateerde orgaan beoordeelt vooraf de opportuniteit en de risico's van de aanvaarding.
 
 ## [HOOFDSTUK VII/1. TOEZICHT, KWALITEIT EN SANCTIES (ing. decr. 19 juni 2020, art. 21, I: 1 januari 2021)]
 
