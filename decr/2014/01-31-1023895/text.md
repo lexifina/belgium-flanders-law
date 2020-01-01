@@ -70,7 +70,7 @@ De onroerende goederen, vermeld in artikel 6/1, worden kosteloos toegewezen aan 
 
 ### ART. 7.
 
-<p>Op 1 februari van ieder kalenderjaar wordt een subsidie ten laste van de begroting van het Vlaamse Gewest van 736.000 euro aan Vlabinvest apb overgemaakt. Dit subsidie- bedrag wordt met ingang van het begrotingsjaar 2014 jaarlijks minstens aangepast met de indexatieparameters die de Vlaamse Regering hanteert bij de opmaak van de begroting van het Vlaamse Gewest.<br>
+<p>Op 1 februari van ieder kalenderjaar wordt een subsidie ten laste van de begroting van het Vlaamse Gewest van 696.000 euro aan Vlabinvest apb overgemaakt. Dit subsidie- bedrag wordt met ingang van het begrotingsjaar 2020&nbsp;jaarlijks minstens aangepast met de indexatieparameters die de Vlaamse Regering hanteert bij de opmaak van de begroting van het Vlaamse Gewest.<br>
 <br>
 De VMSW vult het subsidiebedrag, vermeld in het eerste lid, aan met de winsten die gerealiseerd werden bij de verkoop van onroerende goederen vanuit het Rollend Grondfonds als bepaald door de Vlaamse Regering, aan particulieren in het kader van projecten uitgevoerd door Vlabinvest apb en put daarvoor de nodige middelen uit het vermelde Rollend Grondfonds. Als er verliezen zijn bij de verkoop van onroerende goederen aan particulieren in het kader van projecten uitgevoerd door Vlabinvest apb, vult Vlabinvest apb die aan in het vermelde Rollend Grondfonds.</p>
 
@@ -82,7 +82,7 @@ De interesten, vermeld in artikel 19, tweede lid, van het decreet van 25 juni 19
 
 ### ART 7/2.
 
-Uiterlijk op 1 februari van ieder kalenderjaar ontvangt Vlabinvest apb een subsidie ten laste van de begroting van de Vlaamse Gemeenschap van 2.500.000 euro. Dat subsidiebedrag wordt met ingang van het begrotingsjaar 2018 jaarlijks minstens aangepast op basis van de indexatieparameters die de Vlaamse Regering hanteert bij de opmaak van de begroting van de Vlaamse Gemeenschap.<br>
+Uiterlijk op 1 februari van ieder kalenderjaar ontvangt Vlabinvest apb een subsidie ten laste van de begroting van de Vlaamse Gemeenschap van 2.350.000 euro. Dat subsidiebedrag wordt met ingang van het begrotingsjaar 2020 jaarlijks minstens aangepast op basis van de indexatieparameters die de Vlaamse Regering hanteert bij de opmaak van de begroting van de Vlaamse Gemeenschap.<br>
 <br>
 De subsidie, vermeld in het eerste lid, wordt door Vlabinvest apb geboekt in het intern financieringsfonds Zorg.
 
