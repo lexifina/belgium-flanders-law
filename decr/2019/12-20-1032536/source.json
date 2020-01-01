@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032536,
+  "title": "Decreet van 2019-12-20 houdende de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2020",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032536/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "2ace6c3ccb4f3013ee86207bf08a96b4e07e8e91908b54c6e4f3b128c75043c5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032536&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2019-12-20",
+  "gazette": "2019-12-30",
+  "numac": 2019031215,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
