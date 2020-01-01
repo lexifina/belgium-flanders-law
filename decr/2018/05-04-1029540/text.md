@@ -278,7 +278,7 @@ In artikel 5 van het decreet van 8 juni 2007 betreffende de studiefinanciering v
 <br>
 1° in punt 16° /1 wordt punt b) opgeheven;<br>
 <br>
-2° in punt 16° /1, e), wordt de zinsnede ", met uitzondering van de opleiding vermeld in artikel 4, § 3, derde lid, van het decreet van 30 april 2009 betreffende het secundair na secundair onderwijs en het hoger beroepsonderwijs" opgeheven;<br>
+2°...;<br>
 <br>
 3° aan punt 16° /1 wordt een punt f) toegevoegd, dat luidt als volgt :<br>
 "f) een lerarenopleiding als vermeld in artikel II.111 van de Codex Hoger Onderwijs van 11 oktober 2013;";<br>
