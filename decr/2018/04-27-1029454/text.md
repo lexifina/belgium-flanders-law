@@ -391,7 +391,7 @@ De vereenvoudigde boekhouding, vermeld in paragraaf 1, omvat:<br>
 
 ### ART 29.
 
-Het werkingsbudget van de gefinancierde en de gesubsidieerde centra wordt vastgesteld in de jaarlijkse begroting.<br>
+§ 1. Het werkingsbudget van de gefinancierde en de gesubsidieerde centra wordt vastgesteld in de jaarlijkse begroting.<br>
 <br>
 Voor de permanente ondersteuning wordt het bedrag per omkaderingsgewicht per jaar vastgelegd op 2 390 euro.<br>
 <br>
@@ -403,7 +403,9 @@ Het werkingsbudget wordt vanaf het begrotingsjaar 2020 geïndexeerd conform de v
 B x (Cx-1/Cx-2), waarbij:<br>
 1° B gelijk is aan het voormelde bedrag voor het begrotingsjaar 2019;<br>
 2° Cx-1 gelijk is aan de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
-3° Cx-2 gelijk is aan de gezondheidsindex van de maand januari van het begrotingsjaar x-2.
+3° Cx-2 gelijk is aan de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
+<br>
+§ 2. De werkingsbudgetten die worden vastgesteld in toepassing van paragraaf 1 worden vanaf het begrotingsjaar 2020 met 909.000 euro verminderd.
 
 ### ART 30.
 
