@@ -26,7 +26,9 @@ Besluit :
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de volgende personen die activiteiten als   vermeld in artikel 2 verrichten:<BR>1° de verzorgende personeelsleden die werken   in de diensten voor gezinszorg en aanvullende thuiszorg, erkend door de Vlaamse   overheid, en de personen, vermeld in artikel 6/1, eerste lid;<BR>2° alle andere   personen die beroepshalve die activiteiten verrichten in het natuurlijke   thuismilieu van de gebruiker, ongeacht of ze bij een welzijnsvoorziening als   vermeld in artikel 2, 3°, van het decreet van 18 juli 2008 betreffende de zorg-   en bijstandsverlening werken of niet.
+Dit besluit is van toepassing op de volgende personen die activiteiten als vermeld in artikel 2 verrichten:<br>
+1° de verzorgende personeelsleden die werken in de diensten voor gezinszorg, erkend door de Vlaamse overheid, en de personen, vermeld in artikel 6/1, eerste lid;<br>
+2° alle andere personen die beroepshalve die activiteiten verrichten in het natuurlijke thuismilieu van de gebruiker, ongeacht of ze bij een welzijnsvoorziening als vermeld in artikel 2, 3°, van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening werken of niet.
 
 ## HOOFDSTUK II. Activiteiten die behoren tot de zorgdimensies
 
@@ -58,11 +60,19 @@ De personen, vermeld in artikel 1, 2°, die niet werken bij een welzijnsvoorzien
 
 ### ART. 6.
 
-De personen, vermeld in artikel 1, 1° en 2°, moeten aan een van de volgende voorwaarden voldoen:<br />1° ze beantwoorden aan de kwalificatievereisten voor het verzorgend personeel van de diensten voor gezinszorg en aanvullende thuiszorg, vermeld in artikel 4, B, 2°, van bijlage I bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers;<br />2° ze zijn in het bezit van een conformiteitsattest dat werd uitgereikt met toepassing van artikelen 7 tot en met 11, met behoud van de toepassing van artikel 12.
+De personen, vermeld in artikel 1, 1° en 2°, moeten aan een van de volgende voorwaarden voldoen:<br>
+1° ze beantwoorden aan de kwalificatievereisten voor het verzorgend personeel van de diensten voor gezinszorg, vermeld in artikel 29, tweede lid, van bijlage 2 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers;<br>
+2° ze zijn in het bezit van een conformiteitsattest dat werd uitgereikt met toepassing van artikelen 7 tot en met 11, met behoud van de toepassing van artikel 12.
 
 ### ART. 6/1.
 
-Artikel 6 is niet van toepassing op stagiairs. Onder een stagiair wordt   verstaan: een leerling, student of cursist die in het kader van een   leerprogramma dat georganiseerd wordt door een onderwijsinstelling of een   opleidingscentrum, arbeid verricht bij een dienst voor gezinszorg en aanvullende   thuiszorg, in vergelijkbare omstandigheden als de personeelsleden van die   dienst, om beroepservaring op te doen.<BR><BR>De stage die de stagiair, vermeld   in het eerste lid, loopt, moet deel uitmaken van een opleiding die leidt tot een   van de studiebewijzen, vermeld in artikel 4, B, 2°, a) tot en met e), van   bijlage I bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende   de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor   woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers.<BR><BR>De   stage, vermeld in het tweede lid, moet aan de volgende voorwaarden   voldoen:<BR>1° ze wordt gelopen bij een dienst voor gezinszorg en aanvullende   thuiszorg die erkend is met toepassing van het Woonzorgdecreet van 13 maart   2009;<BR>2° ze bestaat uit twee delen. Tijdens het eerste deel loopt de stagiair   mee met een verzorgend personeelslid, en verricht hij de activiteiten van zorg-   en bijstandsverlening onder toezicht van dat personeelslid. Na dat eerste deel   volgt er een tussentijdse evaluatie door de dienst voor gezinszorg en   aanvullende thuiszorg en de onderwijsinstelling of het opleidingscentrum waar de   stagiair een opleiding volgt. De dienst bewaart een schriftelijk verslag van die   evaluatie. Alleen bij een positieve tussentijdse evaluatie mag de stagiair het   tweede deel van de stage aanvatten, waarin hij de activiteiten van zorg- en   bijstandsverlening zelfstandig mag verrichten onder verwijderd   toezicht.
+Artikel 6 is niet van toepassing op stagiairs. Onder een stagiair wordt verstaan: een leerling, student of cursist die in het kader van een leerprogramma dat georganiseerd wordt door een onderwijsinstelling of een opleidingscentrum, arbeid verricht bij een dienst voor gezinszorg, in vergelijkbare omstandigheden als de personeelsleden van die dienst, om beroepservaring op te doen.<br>
+<br>
+De stage die de stagiair, vermeld in het eerste lid, loopt, moet deel uitmaken van een opleiding die leidt tot een van de studiebewijzen, vermeld in artikel 29, tweede lid, 1° tot en met 5°, van bijlage 2 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers.<br>
+<br>
+De stage, vermeld in het tweede lid, moet aan de volgende voorwaarden voldoen:<br>
+1° ze wordt gelopen bij een dienst voor gezinszorg die erkend is met toepassing van het Woonzorgdecreet van 15 februari 2019;<br>
+2° ze bestaat uit twee delen. Tijdens het eerste deel loopt de stagiair mee met een verzorgend personeelslid, en verricht hij de activiteiten van zorg- en bijstandsverlening onder toezicht van dat personeelslid. Na dat eerste deel volgt er een tussentijdse evaluatie door de dienst voor gezinszorg en de onderwijsinstelling of het opleidingscentrum waar de stagiair een opleiding volgt. De dienst bewaart een schriftelijk verslag van die evaluatie. Alleen bij een positieve tussentijdse evaluatie mag de stagiair het tweede deel van de stage aanvatten, waarin hij de activiteiten van zorg- en bijstandsverlening zelfstandig mag verrichten onder verwijderd toezicht.
 
 ## Afdeling II. Erkenning van beroepskwalificaties van onderdanen van lidstaten van de Europese Economische Ruimte
 
