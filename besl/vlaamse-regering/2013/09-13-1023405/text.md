@@ -65,7 +65,7 @@ Voor de bepaling van het gezamenlijk belastbaar inkomen, vermeld in het eerste l
 <br>
 Het inkomen, vermeld in het eerste lid, 3°, wordt geïndexeerd volgens de gezondheidsindex van de maand juni van het jaar dat aan de toepassing ervan voorafgaat, met als basis de maand juni van het jaar waarop het inkomen betrekking heeft.<br>
 <br>
-Om als persoon ten laste als vermeld in het eerste lid, 12°, c), te worden beschouwd, gelden dezelfde voorwaarden als de voorwaarden die bepaald worden ter uitvoering van artikel 1, eerste lid, 22°, c), van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode.</p>
+Om als persoon ten laste als vermeld in het eerste lid, 12°, c), te worden beschouwd, gelden dezelfde voorwaarden als de voorwaarden die bepaald worden ter uitvoering van artikel 1, eerste lid, 19°, c), van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode.</p>
 
 <p>Als een persoon beantwoordt aan de definitie van persoon ten laste, vermeld in het eerste lid, 12°, a), of b) en aan de definitie van persoon ten laste, vermeld in het eerste lid, 12°, c), telt die persoon voor twee personen ten laste.</p>
 
