@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032264,
+  "title": "Ministerieel besluit van 2019-05-27 tot wijziging van het ministerieel besluit van 6 april 2014 betreffende de regels voor de erkenning en de subsidiëring van inloopteams, wat betreft de subsidieregeling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032264/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "48c911710989c774813c9f97c6c3d9a94ee8d0406f6022dffe3f06d29634c13d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032264&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2019-05-27",
+  "gazette": "2019-09-18",
+  "numac": 2019014400,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
