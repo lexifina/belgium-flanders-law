@@ -33,3 +33,23 @@ In artikel VII 70ter van hetzelfde besluit, ingevoegd bij het besluit van de Vla
 1° de proeftijd sluit aan op een contractuele tewerkstelling in dezelfde functie;<br>
 2° het personeelslid heeft het opleidingstraject met goed gevolg doorlopen en wordt operationeel ingezet.";<br>
 2° in paragraaf 3 worden tussen het woord "de" en het woord "nautisch" de woorden "verkeersleiders en de" ingevoegd.
+
+### ART 18.
+
+In artikel X 10 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 6 september 2019, worden de volgende wijzigingen aangebracht:<br>
+1° aan het vierde lid wordt een punt 7° toegevoegd, dat luidt als volgt:<br>
+"7° het onbetaalde verlof wegens een prestatie als militair van het reservekader bij de krijgsmacht.";<br>
+2° het vijfde lid wordt vervangen door wat volgt:<br>
+"In afwijking van het derde lid wordt het jaarlijkse vakantieverlof van de ambtenaar niet evenredig verminderd in geval van:<br>
+1° pleegzorg;<br>
+2° pleegouderverlof;<br>
+3° het geboorteverlof waarin de ambtenaar geen recht heeft op een volledig salaris;<br>
+4° het onbetaald verlof wegens een prestatie als militair van het reservekader bij de krijgsmacht.".
+
+### ART 19.
+
+In hetzelfde besluit, het laatst gewijzigd bij besluit van de Vlaamse Regering van 30 april 2021, wordt een artikel X 63bis ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. X 63bis. Als een personeelslid een prestatie vervult als militair van het reservekader bij de krijgsmacht, krijgt het personeelslid onbetaald verlof voor de duur van de prestaties.<br>
+<br>
+Het onbetaalde verlof, vermeld in het eerste lid, wordt met dienstactiviteit gelijkgesteld. Tijdens het onbetaalde verlof heeft het personeelslid geen recht op salaris.".
