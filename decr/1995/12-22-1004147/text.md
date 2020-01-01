@@ -389,7 +389,17 @@ De Vlaamse regering kan eenmalig de personeelsleden van het Ministerie van de Vl
 
 ### ART. 59.
 
-<P>§ 1. Er wordt een "fonds voor wetenschappelijk onderzoek inzake Welzijn,   Volksgezondheid en Gezin" opgericht, hierna genoemd "het fonds". Het fonds is   een begrotingsfonds in de zin van artikel 12 van het decreet van 8 juli 2011   houdende regeling van de begroting, de boekhouding, de toekenning van subsidies   en de controle op de aanwending ervan, en de controle door het   Rekenhof.<BR><BR>§ 2. Het fonds wordt gespijsd met volgende middelen:<BR>1° de   middelen die in uitvoering van een overeenkomst tussen de Vlaamse Gemeenschap en   derden worden betaald voor contractonderzoek door het Departement Welzijn,   Volksgezondheid en Gezin;<BR>2° de middelen van derden met het oog op het   subsidiëren van onderzoeken uitgevoerd door een steunpunt voor beleidsrelevant   onderzoek;<BR>3° de middelen afkomstig uit de verkoop van onderzoekspublicaties   van het Departement Welzijn, Volksgezondheid en Gezin of uit de medewerking aan   dergelijke publicaties van derden door het Departement Welzijn, Volksgezondheid   en Gezin.<BR><BR>§ 3. Ten laste van dit fonds worden alle soorten uitgaven van   het Departement Welzijn, Volksgezondheid en Gezin aangerekend, zowel voor   personeel als voor werking of uitrusting, als voor subsidies, voor zover deze   uitgaven strikt verband houden met volgende elementen:<BR>1° het onderzoek van   het Departement Welzijn, Volksgezondheid en Gezin dat door derden wordt   betaald;<BR>2° de middelen om voor derden gesubsidieerd onderzoek te laten   uitvoeren door een steunpunt voor beleidsrelevant onderzoek;<BR>3°   onderzoekspublicaties van het Departement Welzijn, Volksgezondheid en   Gezin.</P>
+<p>§ 1. Er wordt een "fonds voor wetenschappelijk onderzoek inzake Welzijn, Volksgezondheid en Gezin" opgericht, hierna genoemd "het fonds". Het fonds is een begrotingsfonds in de zin van artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
+<br>
+§ 2. Het fonds wordt gespijsd met volgende middelen:<br>
+1° de middelen die in uitvoering van een overeenkomst tussen de Vlaamse Gemeenschap en derden worden betaald voor contractonderzoek door het Departement Welzijn, Volksgezondheid en Gezin;<br>
+2° de middelen van derden met het oog op het subsidiëren van onderzoeken uitgevoerd door een steunpunt voor beleidsrelevant onderzoek;<br>
+3° de middelen afkomstig uit de verkoop van onderzoekspublicaties van het Departement Welzijn, Volksgezondheid en Gezin of uit de medewerking aan dergelijke publicaties van derden door het Departement Welzijn, Volksgezondheid en Gezin.<br>
+<br>
+§ 3. Ten laste van dit fonds worden alle soorten uitgaven van het Departement Welzijn, Volksgezondheid en Gezin aangerekend, zowel voor personeel als voor werking of uitrusting, als voor subsidies, voor zover deze uitgaven strikt verband houden met volgende elementen:<br>
+1° het onderzoek van het Departement Welzijn, Volksgezondheid en Gezin dat door derden wordt betaald;<br>
+2° de middelen om voor derden gesubsidieerd onderzoek te laten uitvoeren door een steunpunt voor beleidsrelevant onderzoek;<br>
+3° onderzoekspublicaties van het Departement Welzijn, Volksgezondheid en Gezin.</p>
 
 ## HOOFDSTUK XV CULTUUR
 
