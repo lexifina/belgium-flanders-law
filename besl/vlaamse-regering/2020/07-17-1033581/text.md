@@ -410,6 +410,14 @@ Het aantal personeelsleden, vermeld in het derde lid, wordt bepaald door het gem
 <br>
 De subsidie-eenheden die op 31 augustus 2019 personeelsleden vergoedden conform barema B1A, en die vanaf 1 september 2019 vergoed worden conform barema B1ABis, krijgen boven op het aantal personeelspunten, vermeld in artikel 6, eerste lid, per voltijdse omgezette functie van barema B1A in B1ABis, jaarlijks 3 personeelspunten bijkomend gesubsidieerd.".
 
+### ART 8.
+
+Artikel 9 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 9. Het agentschap subsidieert voor de werknemers die het volledige kalenderjaar tewerkgesteld zijn, de eindejaarspremie die bestaat uit het geïndexeerde brutomaandloon van de maand oktober van het kalenderjaar, met inbegrip van de haard- of standplaatstoelage, maar met uitsluiting van andere toeslagen.<br>
+<br>
+Voor de werknemers, vermeld in het eerste lid, die niet het volledige kalenderjaar tewerkgesteld zijn, wordt de eindejaarspremie, vermeld in het eerste lid, toegekend naar rato van het aantal maanden tewerkstelling in het kalenderjaar.".
+
 ### ART 9.
 
 In artikel 13 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
