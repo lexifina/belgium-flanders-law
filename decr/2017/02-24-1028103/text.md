@@ -303,7 +303,7 @@ De door de Vlaamse Regering aangewezen dienst oefent een jaarlijks toezicht uit 
 
 ### ART 38.
 
-Gedurende de beleidsperiode kan een cultureelerfgoedorganisatie of een bestuur, vermeld in artikel 57, die een werkingssubsidie ontvangt, een reserve aanleggen conform de bepalingen van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.
+Gedurende de beleidsperiode kan een cultureelerfgoedorganisatie of een bestuur, vermeld in artikel 57, die een werkingssubsidie ontvangt, een reserve aanleggen conform artikel 75 en 76 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
 ### ART 39.
 
