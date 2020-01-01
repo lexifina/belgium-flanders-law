@@ -2,16 +2,16 @@
   "codex_id": 1025687,
   "title": "Decreet van 2015-07-03 houdende regeling van de binnenlandse adoptie van kinderen en houdende wijziging van het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen [citeeropschrift: \"decreet Binnenlandse Adoptie van 3 juli 2015\"]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025687/VolledigDocument?datum=2019-04-18",
-  "source_sha256": "7fee5d461f5f1e06d9a538cb0ae0f32053de34fb3a07da5a3c7392d453f91580",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025687/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "b2891da654749d6145d984642a785eb09954251c7a13aba4b12c952bafd138c3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025687&param=informatie",
-  "as_of": "2019-04-18",
+  "as_of": "2020-01-01",
   "made": "2015-07-03",
   "gazette": "2015-08-07",
   "numac": 2015035974,
   "document_start": "2016-03-24",
   "document_end": null,
-  "in_force": "2019-04-18",
+  "in_force": "2020-01-01",
   "article_versions": 40,
-  "record_form": "consolidated version as in force on 2019-04-18; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }

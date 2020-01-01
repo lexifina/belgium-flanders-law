@@ -25,7 +25,8 @@ In dit decreet wordt verstaan onder :<br>
 10° Steunpunt Adoptie : een door de Vlaamse Regering erkende instelling als vermeld in artikel 7 van het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen;<br>
 11° adoptie van een gekend kind : de adoptie van een kind dat met de adoptant, met diens echtgenoot of echtgenote, of met de persoon met wie de adoptant samenwoont, zelfs overleden, verwant is tot in de derde graad; of met de adoptant reeds het dagelijkse leven deelt of met wie de adoptant reeds een sociale en affectieve band heeft;<br>
 12° decreet van 20 januari 2012 : het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen;<br>
-13° instroombeheer : het systeem waarbij kandidaat-adoptieouders worden toegelaten tot de voorbereiding afhankelijk van het aantal kinderen waarvoor, door de dienst voor binnenlandse adoptie, bemiddeld kan worden en afhankelijk van het aantal kandidaat-adoptieouders dat, binnen een redelijke termijn, een kind zal kunnen adopteren.
+13° instroombeheer : het systeem waarbij kandidaat-adoptieouders worden toegelaten tot de voorbereiding afhankelijk van het aantal kinderen waarvoor, door de dienst voor binnenlandse adoptie, bemiddeld kan worden en afhankelijk van het aantal kandidaat-adoptieouders dat, binnen een redelijke termijn, een kind zal kunnen adopteren;<br>
+14° afstammingscentrum: het afstammingscentrum, vermeld in het decreet van 26 april 2019 houdende de oprichting van een afstammingscentrum en een DNA-databank.
 
 ## HOOFDSTUK 2 Aanmelding, informatiesessie en voorbereiding
 
@@ -73,7 +74,7 @@ Indien   de binnenlandse adoptie een volle adoptie van een gekend kind betreft, 
 
 ### ART. 11.
 
-Het   maatschappelijk onderzoek dat wordt bevolen krachtens artikel 346-2 van het   Burgerlijk Wetboek en artikel 1231-29, eerste lid, van het Gerechtelijk Wetboek   door de familierechtbank, wordt gevoerd door een door de Vlaamse Regering   erkende dienst voor maatschappelijk onderzoek als vermeld in artikel 11 van het   decreet van 20 januari 2012.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Het maatschappelijk onderzoek dat wordt bevolen krachtens artikel 1231-1/4&nbsp;van het Gerechtelijk Wetboek door de familierechtbank, wordt gevoerd door een door de Vlaamse Regering erkende dienst voor maatschappelijk onderzoek als vermeld in artikel 11 van het decreet van 20 januari 2012.
 
 ### ART. 12.
 
@@ -91,7 +92,11 @@ Nadat   de familierechtbank de opdracht tot maatschappelijk onderzoek heeft bevo
 
 <p>§ 1. De dienst voor binnenlandse adoptie treedt op als tussenpersoon inzake adoptie met als taak te bemiddelen, de nazorg te verstrekken en de kandidaat-adoptant en afstandsouder te begeleiden en te informeren.</p>
 
-<p>De dienst voor binnenlandse adoptie stelt een adoptiedossier samen dat uit de volgende drie bestanddelen bestaat : een dossier met informatie over de geadopteerde, een dossier met informatie over de afstandsouder en een dossier met informatie over de kandidaat-adoptant.</p>
+<p>De dienst voor binnenlandse adoptie stelt een adoptiedossier samen dat alle stukken bevat die met de adoptie verband houden. Dat dossier bevat minstens:<br>
+1° het dossier van het kind, dat gegevens bevat over zijn identiteit, zijn adopteerbaarheid, zijn persoonlijke achtergrond, zijn gezinssituatie, zijn medisch verleden en het medische verleden van zijn familie, zijn sociale milieu en de levensbeschouwelijke opvattingen ervan, alsook zijn bijzondere behoeften;<br>
+2° de documenten die betrekking hebben op de gerechtelijke en administratieve procedure waarbij de adoptie tot stand komt;<br>
+3° de documenten in verband met de nazorg;<br>
+4° het dossier met informatie over de kandidaat-adoptant.</p>
 
 <p>§ 2. De taken inzake adoptiebemiddeling zijn :<br>
 1° de kindstudie opstellen en daarin de juridische en sociaalpsychologische adopteerbaarheid van het kind beschrijven;<br>
@@ -99,7 +104,9 @@ Nadat   de familierechtbank de opdracht tot maatschappelijk onderzoek heeft bevo
 3° de voortgang van de individuele adoptiedossiers begeleiden;<br>
 4° op gemotiveerde wijze een kind voorstellen aan de kandidaat-adoptant na advies van het multidisciplinair team van de dienst voor binnenlandse adoptie;<br>
 5° zorgen voor een gepaste opvang van het kind, totdat er een definitieve oplossing gevonden is;<br>
-6° het onderzoek voeren, vermeld in artikel 1231.10, 3°, van het Gerechtelijk Wetboek.</p>
+6° het onderzoek voeren, vermeld in artikel 1231.10, 3°, van het Gerechtelijk Wetboek.<br>
+7° het onderzoek voeren, vermeld in artikel 1231-35, van het Gerechtelijk Wetboek;<br>
+8° het onderzoek voeren over het belang van het in de procedure bedoelde kind om te worden geadopteerd, vermeld in artikel 1231-6, van het Gerechtelijk Wetboek.</p>
 
 <p>De gepaste opvang van een kind totdat er een definitieve oplossing gevonden is, kan zijn een directe plaatsing waarbij het te adopteren kind rechtstreeks wordt geplaatst bij de kandidaat-adoptanten, of in een tijdelijke pleegzorgplaatsing. De dienst voor binnenlandse adoptie motiveert de keuze voor een directe plaatsing dan wel een tijdelijke pleegzorgplaatsing omstandig en schriftelijk, rekening houdend met de specifieke situatie, wensen en belangen van het kind, de afstandsouder en de kandidaat-adoptant.</p>
 
@@ -172,15 +179,39 @@ De   Vlaamse Regering kan, na gemotiveerd advies van het Vlaams Centrum voor Ado
 
 ### ART. 25.
 
-<p>§ 1. Elke geadopteerde heeft, afhankelijk van zijn leeftijd en maturiteit, recht op informatie over zijn afkomst, waaronder de identiteit van zijn afstandsouders. Vanaf de leeftijd van twaalf jaar heeft elke geadopteerde recht op inzage in dat onderdeel van het adoptiedossier met informatie over zichzelf. Over het verzoek tot inzage van een geadopteerde die de leeftijd van twaalf jaar nog niet heeft bereikt, wordt door de dienst voor binnenlandse adoptie beslist, rekening houdend met de maturiteit van de geadopteerde. Elke geadopteerde kan zich bij inzage laten bijstaan door een vertrouwenspersoon.</p>
-
-<p>§ 2. Elke inzage moet schriftelijk aan de dienst voor binnenlandse adoptie worden gevraagd. Uiterlijk binnen een maand na de ontvangst van de aanvraag verleent de dienst voor binnenlandse adoptie inzage in het dossier met informatie over de geadopteerde, of brengt hij de verzoeker op de hoogte van zijn gemotiveerde weigering om inzage te verlenen in bepaalde onderdelen van het dossier conform de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming).</p>
-
-<p>§ 3. Een geadopteerde kan bezwaar aantekenen bij de Vlaamse adoptieambtenaar tegen een weigering van de dienst voor binnenlandse adoptie om inzage te verlenen in bepaalde onderdelen van het adoptiedossier van geadopteerde. Dit bezwaar moet schriftelijk worden gericht aan de Vlaamse adoptieambtenaar. Binnen één maand na ontvangst neemt de Vlaamse adoptieambtenaar een gemotiveerde beslissing.</p>
-
-<p>§ 4. Afstandsouders hebben recht op niet-identificeerbare informatie over de geadopteerde. Indien zij andere informatie wensen, kan dat enkel met respect voor de regelgeving ter bescherming van de persoonlijke levenssfeer en de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, en indien de adoptanten, of na het bereiken van de leeftijd van meerderjarigheid, de geadopteerde, daarmee instemmen. De geïnformeerde toestemming van een minderjarige geadopteerde is noodzakelijk zodra die de nodige maturiteit heeft bereikt en in ieder geval vanaf de leeftijd van twaalf jaar.</p>
-
-<p>§ 5. De Vlaamse Regering bepaalt de nadere regels voor de uitoefening van het inzagerecht en de samenstelling van het adoptiedossier.</p>
+§ 1. Elke geadopteerde heeft recht op informatie over zijn afkomst en over zijn adoptie. Als de geadopteerde minderjarig is, wordt de inhoud van de verstrekte informatie aangepast aan zijn leeftijd en maturiteit.<br>
+<br>
+§ 2. Vanaf de leeftijd van twaalf jaar heeft de geadopteerde recht op inzage in zijn adoptiedossier als vermeld in paragraaf 3.<br>
+<br>
+Als de geadopteerde minderjarig is, gebeurt de inzage met professionele begeleiding van een medewerker van het afstammingscentrum of de binnenlandse adoptiedienst en in aanwezigheid van zijn ouder, voogd of een meerderjarige vertrouwenspersoon.<br>
+<br>
+§ 3. De geadopteerde heeft recht op inzage in de stukken van het adoptiedossier, vermeld in artikel 14, § 1, tweede lid, 1° tot en met 3°. De geadopteerde heeft daarnaast toegang tot het deel van het dossier met gegevens over de adoptant, vermeld in artikel 14, § 1, tweede lid, 4°, die betrekking hebben op de motivatie voor de adoptie, de redenen voor de aanvaarding van de kandidaat-adoptant en de reden tot plaatsing bij de adoptant.<br>
+<br>
+§ 4. De geadopteerde heeft recht op toelichting bij de gegevens uit zijn adoptiedossier. Als bepaalde gegevens ook betrekking hebben op een derde en een volledige inzage in de gegevens door de geadopteerde afbreuk zou doen aan het recht van die derde op bescherming van zijn persoonlijke levenssfeer, wordt de toegang tot die gegevens verstrekt via een gesprek, gedeeltelijke inzage of rapportage.<br>
+<br>
+§ 5. De geadopteerde dient zijn verzoek tot inzage schriftelijk in bij het afstammingscentrum. Het afstammingscentrum registreert de aanvraag en stuurt binnen een maand na de datum van de aanvraag een ontvangstbevestiging aan de aanvrager met informatie over het verdere verloop van de aanvraag.<br>
+<br>
+De inzage kan, naar keuze van de geadopteerde, worden verleend door het afstammingscentrum, door de vergunde dienst voor binnenlandse adoptie of door het Vlaams Centrum voor Adoptie.<br>
+<br>
+Als de inzage door het afstammingscentrum wordt verleend, bezorgt het Vlaams Centrum voor Adoptie of de dienst voor binnenlandse adoptie zo snel mogelijk een kopie van de stukken van het adoptiedossier aan het afstammingscentrum. Het afstammingscentrum werkt bij elke inzage die het verstrekt, nauw samen met het Vlaams Centrum voor Adoptie en met de dienst voor binnenlandse adoptie.<br>
+<br>
+§ 6. De inzage wordt verleend binnen een maand nadat het afstammingscentrum aan de aanvrager een ontvangstbevestiging heeft gestuurd.<br>
+<br>
+De termijn, vermeld in het eerste lid, geldt niet als de dienst voor binnenlandse adoptie of het Vlaams Centrum voor Adoptie het adoptiedossier niet in het bezit hebben en er verder moet worden nagegaan waar de stukken over de adoptie zich bevinden. De geadopteerde wordt daarvan op de hoogte gebracht. Als er maar een beperkt aantal stukken over de adoptie beschikbaar zijn, wordt al inzage in die stukken verleend.<br>
+<br>
+§ 7. Als door de kennisgeving van bepaalde gegevens uit het dossier de fysieke of psychische integriteit van een derde persoon in het gedrang kan komen, wordt vooraf contact met de betrokken persoon genomen om hem te informeren over het verzoek tot inzage en om na te gaan welke informatie aan de geadopteerde kan worden verstrekt. Dat gebeurt bij voorkeur door de binnenlandse adoptiedienst die de afstandsouder heeft begeleid. Als er geen contact kan worden opgenomen met de betrokkene, maakt de instantie die de inzage verleent een afweging tussen de verschillende belangen alvorens te beslissen of, hoe en in welke mate de geadopteerde op de hoogte kan worden gebracht van die informatie. Die afweging wordt beschreven en in het adoptiedossier bewaard.<br>
+<br>
+§ 8. Elke geadopteerde kan het afstammingscentrum verzoeken om verdere informatie over die geadopteerde op te vragen. Het afstammingscentrum werkt daarvoor samen met het Vlaams Centrum voor Adoptie en de dienst voor binnenlandse adoptie, in het bijzonder als die dienst bemiddeld heeft voor de totstandkoming van de adoptie. Het afstammingscentrum wijst de geadopteerde in voorkomend geval door naar de personen, diensten of instellingen die hem verdere informatie kunnen verstrekken.<br>
+<br>
+Het afstammingscentrum is gerechtigd om bij elke instantie die daarover beschikt, in naam van de geadopteerde alle informatie of stukken op te vragen die betrekking hebben op zijn afstamming en zijn adoptie.<br>
+<br>
+§ 9. Een geadopteerde die contact wil opnemen met leden van zijn biologische familie, kan het afstammingscentrum daarvoor om bijstand verzoeken. Het afstammingscentrum werkt daarvoor samen met het Vlaams Centrum voor Adoptie en de binnenlandse adoptiedienst. Het afstammingscentrum gaat na of er contact mogelijk is en op welke wijze dat contact tot stand kan worden gebracht. Waar mogelijk gebeurt dit steeds via de dienst die de adoptie heeft gerealiseerd. Het verwijst in voorkomend geval door naar andere diensten of instellingen die de geadopteerde verder kunnen begeleiden om het contact tot stand te brengen.<br>
+<br>
+§ 10. Afstandsouders en biologische verwanten tot de derde graad van de geadopteerde hebben recht op algemene en niet-identificeerbare informatie over de geadopteerde.<br>
+<br>
+Als verzoekers concretere informatie wensen waardoor de identificatie van de geadopteerde of zijn familieleden mogelijk wordt, kan dat pas na uitdrukkelijke, geïnformeerde toestemming van de geadopteerde en, als hij nog minderjarig is, van de adoptanten. De uitdrukkelijke geïnformeerde toestemming van de minderjarige geadopteerde is vereist als hij over de nodige maturiteit beschikt en steeds vanaf de leeftijd van twaalf jaar.<br>
+<br>
+§ 11. De Vlaamse Regering kan de nadere regels bepalen voor de uitoefening van het inzagerecht en voor de wijze waarop het afstammingscentrum de geadopteerde bijstaat als hij meer informatie over zichzelf wil verkrijgen of contact wil opnemen met leden van zijn biologische familie.
 
 ## HOOFDSTUK 8 Het toezicht
 
