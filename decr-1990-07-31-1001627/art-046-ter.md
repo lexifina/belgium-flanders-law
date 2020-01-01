@@ -1,2 +1,0 @@
-# Art. 46ter
-Tot de inwerkingtreding van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, zijn de artikelen 6 en 6bis van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut van toepassing op de Maatschappij. Voor de toepassing van voormelde wetsbepaling wordt de Maatschappij beschouwd als een organisme van categorie B.
