@@ -2,16 +2,16 @@
   "codex_id": 1026405,
   "title": "Decreet van 2016-01-15 houdende [...] de oprichting van het Eigen Vermogen [Digitaal] Vlaanderen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026405/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "484e7dd88a4fa720f00bbef967c9e82f80957a5abccacf0d447022250dfd4405",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026405/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "a5aa89a974b7dac6eeaaa8024f49e66763f9e431543c9bf7d5170e8cc82e7417",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026405&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2020-01-01",
   "made": "2016-01-15",
   "gazette": "2016-02-05",
   "numac": 2016035094,
   "document_start": "2016-01-01",
   "document_end": null,
-  "in_force": "2016-01-01",
+  "in_force": "2020-01-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
