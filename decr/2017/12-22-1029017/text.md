@@ -2533,6 +2533,14 @@ Artikel 221 tot en met 223 en de bepalingen van titel 4 zijn van toepassing op d
 <br>
 De Vlaamse Regering bepaalt de nadere voorwaarden voor de toepassing van de bepalingen van het eerste lid op de autonome gemeentebedrijven.
 
+### ART 242.
+
+De boekhouding wordt gevoerd onder de verantwoordelijkheid en het toezicht van de raad van bestuur.<br>
+<br>
+De raad van bestuur stelt het meerjarenplan en de aanpassingen ervan vast en legt ze ter goedkeuring voor aan de gemeenteraad.<br>
+<br>
+De ramingen voor de exploitatie, de investeringen en de financiering in het eerste jaar van de financiële nota van het meerjarenplan omvatten ook de kredieten voor dat boekjaar.
+
 ### ART 243.
 
 § 1. De raad van bestuur spreekt zich uit over de vaststelling van de jaarrekening voor 30 juni van het boekjaar dat volgt op het boekjaar waarop de rekening betrekking heeft.<br>
@@ -2619,6 +2627,22 @@ Met uitzondering van artikel 226 zijn de bepalingen van dit decreet niet van toe
 
 ## Afdeling 1. Algemene bepalingen
 
+### ART 249.
+
+§ 1. De beleidsrapporten van de gemeente en het openbaar centrum voor maatschappelijk welzijn zijn het meerjarenplan, de aanpassingen van het meer-jarenplan en de jaarrekening.<br>
+<br>
+De beleidsrapporten van de gemeente en het openbaar centrum voor maatschappelijk welzijn vormen een geïntegreerd geheel.<br>
+<br>
+§ 2. Elk ontwerp van beleidsrapport wordt op zijn minst veertien dagen voor de vergadering waarop het wordt besproken aan ieder lid van de gemeenteraad of de raad voor maatschappelijk welzijn bezorgd.<br>
+<br>
+Vanaf het ogenblik dat het ontwerp van het beleidsrapport bezorgd is aan de raadsleden, wordt aan hen ook de bijbehorende documentatie ter beschikking gesteld.<br>
+<br>
+§ 3. De gemeenteraad en de raad voor maatschappelijk welzijn stemmen over hun deel van elk beleidsrapport. Nadat de raden zo het beleidsrapport elk voor hun deel hebben vastgesteld, keurt de gemeenteraad het deel van het beleidsrapport zoals vastgesteld door de raad voor maatschappelijk welzijn goed. Door die goedkeuring wordt het beleidsrapport in zijn geheel geacht definitief vastgesteld te zijn.<br>
+<br>
+De gemeenteraad kan het deel van het beleidsrapport zoals vastgesteld door de raad voor maatschappelijk welzijn niet goedkeuren als dat de financiële belangen van de gemeente bedreigt. In dat geval vervalt de eventuele vaststelling van het deel van het beleidsrapport zoals vastgesteld door de gemeenteraad.<br>
+<br>
+§ 4. Elke raad stemt telkens over het geheel van zijn deel van het beleidsrapport. In afwijking daarvan kan elk raadslid de afzonderlijke stemming eisen over een of meer onderdelen die hij aanwijst. In dat geval mag de betrokken raad pas over het geheel van zijn deel van het beleidsrapport stemmen na de afzonderlijke stemming. Als deze afzonderlijke stemming tot gevolg heeft dat het ontwerp van beleidsrapport moet worden gewijzigd, wordt de stemming over het geheel verdaagd tot een volgende vergadering van de raad. Als de andere raad voordien zijn deel van het beleidsrapport al had vastgesteld, vervalt die vaststelling en stelt die raad het gewijzigde ontwerp van beleidsrapport vast op een volgende vergadering.
+
 ### ART 250.
 
 Onmiddellijk na de definitieve vaststelling van een beleidsrapport bezorgt de gemeente de gegevens over het vastgestelde beleidsrapport in digitale vorm aan de Vlaamse Regering.<br>
@@ -2626,13 +2650,57 @@ Het vastgestelde beleidsrapport is pas uitvoerbaar als de digitale rapportering 
 <br>
 Als er nog geen jaarrekening is vastgesteld op 30 juni van het jaar dat volgt op het boekjaar in kwestie bezorgt de gemeente de gegevens over het ontwerp van jaarrekening in digitale vorm aan de Vlaamse Regering.
 
+### ART 251.
+
+In de beleidsrapporten wordt een onderscheid gemaakt tussen de exploitatie, de investeringen en de financiering.
+
 ### ART 252.
 
 Het boekjaar begint op 1 januari en eindigt op 31 december van hetzelfde jaar.
 
+### ART 253.
+
+Elke gemeente en elk openbaar centrum voor maatschappelijk welzijn voeren een algemene en een budgettaire boekhouding, aangepast aan de aard en de omvang van hun activiteiten.
+
 ## Afdeling 2. Het meerjarenplan
 
+### ART 254.
+
+Voor het einde van het jaar dat volgt op de gemeenteraadsverkiezingen wordt een meerjarenplan vastgesteld. Dat meerjarenplan bestaat uit een strategische nota, een financiële nota en een toelichting.<br>
+<br>
+Het meerjarenplan start in het tweede jaar dat volgt op de gemeenteraadsverkiezingen en loopt af op het einde van het jaar na de daaropvolgende gemeenteraadsverkiezingen.
+
+### ART 255.
+
+In de strategische nota van het meerjarenplan worden de beleidsdoelstellingen en de beleidsopties voor het extern en intern te voeren beleid geïntegreerd weergegeven.<br>
+<br>
+In de financiële nota van het meerjarenplan wordt de financiële vertaling van de beleidsopties van de strategische nota weergegeven en wordt verduidelijkt hoe het financiële evenwicht wordt gehandhaafd.<br>
+<br>
+De toelichting van het meerjarenplan bevat alle informatie over de verrichtingen in het ontwerp van meerjarenplan die relevant is voor de raadsleden om met kennis van zaken een beslissing te kunnen nemen.
+
+### ART 256.
+
+De ramingen voor de exploitatie, de investeringen en de financiering in het eerste jaar van de financiële nota van het meerjarenplan omvatten ook de kredieten voor de gemeente en de kredieten voor het openbaar centrum voor maatschappelijk welzijn voor dat boekjaar.
+
 ## Afdeling 3. Aanpassingen van het meerjarenplan
+
+### ART 257.
+
+§ 1. Minstens een keer per jaar wordt het meerjarenplan aangepast, waarbij in elk geval de kredieten voor het volgende boekjaar worden vastgesteld. Als dat nodig is, kunnen daarbij ook de kredieten voor het lopende boekjaar worden aangepast. Daarnaast kan het meerjarenplan, als dat nodig is, ook worden aangepast om alleen de kredieten voor het lopende boekjaar aan te passen.<br>
+<br>
+Als voor 1 januari van het jaar dat volgt op de gemeenteraadsverkiezingen de kredieten voor dat boekjaar nog niet werden vastgesteld, worden, in afwijking van het eerste lid, op die datum de kredieten voor dat boekjaar automatisch vastgesteld op basis van de ramingen voor dat boekjaar in de financiële nota van het meerjarenplan.<br>
+<br>
+Bij elke aanpassing van het meerjarenplan wordt het resultaat van de intussen vastgestelde jaarrekeningen verwerkt.<br>
+<br>
+De periode van het meerjarenplan blijft altijd de periode, vermeld in artikel 254, tweede lid, maar de financiële nota beschrijft altijd de financiële consequenties voor ten minste drie toekomstige boekjaren.<br>
+<br>
+§ 2. Een aanpassing van het meerjarenplan omvat minstens een aangepaste financiële nota, een toelichting en de eventuele wijzigingen van de strategische nota.
+
+### ART 258.
+
+Het college van burgemeester en schepenen bepaalt, voor 1 maart van het lopende boekjaar, welk gedeelte van de kredieten voor de gemeente voor investeringen en financiering, die voor het vorige boekjaar opgenomen waren in het meerjarenplan maar nog niet zijn aangewend, overgedragen worden naar het lopende boekjaar. Het vast bureau doet hetzelfde voor het openbaar centrum voor maatschappelijk welzijn.<br>
+<br>
+De gemeente bezorgt de gegevens over de stand van het meerjarenplan na de overdrachten, vermeld in het eerste lid, onmiddellijk in digitale vorm aan de Vlaamse Regering.
 
 ## Afdeling 4. Bijzondere bepaling over het bestuurlijk toezicht op het meerjarenplan
 
@@ -2671,6 +2739,12 @@ Als de toezichthoudende overheid geen besluit heeft verzonden naar de gemeente e
 § 2. De toezichthoudende overheid kan bij de goedkeuring bepaalde verrichtingen als onregelmatig bestempelen en beslist dan over de aansprakelijkheid van de actoren die betrokken zijn bij die verrichtingen. Ze brengt de betrokkenen onmiddellijk op de hoogte van haar beslissing met een aangetekende brief of een andere melding die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens. In voorkomend geval wordt daarbij een verzoek gevoegd om het vastgestelde bedrag aan de gemeente of het openbaar centrum voor maatschappelijk welzijn te betalen. Een afschrift van de beslissing van de toezichthoudende overheid wordt bezorgd aan de gemeente of het openbaar centrum voor maatschappelijk welzijn, al naargelang het geval.
 
 ## HOOFDSTUK 2. Andere rapporteringen
+
+### ART 263.
+
+De gemeenteraad en de raad voor maatschappelijk welzijn bepalen wanneer hen een opvolgingsrapportering, met een stand van zaken van de uitvoering van het meerjarenplan, wordt voorgelegd.<br>
+<br>
+Er wordt minstens voor het einde van het derde kwartaal een opvolgingsrapportering over het eerste semester van het boekjaar voorgelegd.
 
 ### ART 264.
 
