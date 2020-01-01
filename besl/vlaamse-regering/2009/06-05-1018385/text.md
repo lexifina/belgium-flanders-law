@@ -22,7 +22,15 @@ De beslissing over een verzoek tot afwijking van Vlaamse normen voor brandveilig
 
 ### ART. 5.
 
-De technische commissie is samengesteld als volgt :<br />1° een ambtenaar met minstens rang A1 van het departement Welzijn, Volksgezondheid en Gezin, Afdeling Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, die de commissie voorzit;<br />2° een persoon met de kwalificatie van preventieadviseur;<br />3° twee officieren van de brandweer als vertegenwoordigers voor de brandweerdiensten van het Vlaamse Gewest<br />4° een persoon uit de academische wereld met een bijzondere kwalificatie voor brandveiligheid.<br />5° een persoon als vertegenwoordiger van de sectoren van Welzijn, Volksgezondheid en Gezin.<br /><br />Voor elk lid als vermeld in het eerste lid, wordt een plaatsvervanger aangewezen. Die vervangt het lid bij verhindering.<br /><br />
+De technische commissie is samengesteld als volgt :<br>
+1° een ambtenaar met minstens rang A1 van het departement Welzijn, Volksgezondheid en Gezin, Afdeling Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, die de commissie voorzit;<br>
+2° een persoon met de kwalificatie van preventieadviseur;<br>
+3° twee brandveiligheidsdeskundigen die actief deel uitmaken van een hulpverleningszone, als vertegenwoordigers voor de brandweerdiensten van het Vlaamse Gewest;<br>
+4° een persoon uit de academische wereld met een bijzondere kwalificatie voor brandveiligheid;<br>
+5° een persoon als vertegenwoordiger van de sectoren van Welzijn, Volksgezondheid en Gezin.<br>
+<br>
+Voor elk lid als vermeld in het eerste lid, wordt een plaatsvervanger aangewezen. Die vervangt het lid bij verhindering.<br>
+&nbsp;
 
 ### ART. 6.
 
@@ -70,7 +78,7 @@ De adviezen van de technische commissie worden met volstrekte meerderheid van st
 
 Het advies, vermeld in artikel 3. 1°, wordt aan de bevoegde entiteit ter kennis gebracht binnen een termijn van&nbsp;zes maanden na de ontvangst van de adviesvraag.<br>
 <br>
-In afwijking van het eerste lid wordt voor de toepassing van artikel 11 van het besluit van de Vlaamse Regering van 9 december 2011 tot vaststelling van de specifieke brandveiligheidsnormen waaraan ouderenvoorzieningen en centra voor herstelverblijf moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen de bevoegde entiteit binnen zes maanden na de datum van de ontvankelijkheid van de aanvraag van afwijking op de hoogte gebracht van het advies, vermeld in artikel 3, 1°.<br>
+In afwijking van het eerste lid wordt voor de toepassing van artikel 11 van het besluit van de Vlaamse Regering van 9 december 2011 tot vaststelling van de specifieke brandveiligheidsnormen waaraan lokale dienstencentra, centra voor dagverzorging, centra voor dagopvang, centra voor kortverblijf, centra voor herstelverblijf, groepen van assistentiewoningen en, woonzorgcentra moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen de bevoegde entiteit binnen zes maanden na de datum van de ontvankelijkheid van de aanvraag van afwijking op de hoogte gebracht van het advies, vermeld in artikel 3, 1°.<br>
 &nbsp;
 
 ### ART. 14.
