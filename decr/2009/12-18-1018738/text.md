@@ -250,7 +250,12 @@ In dit hoofdstuk wordt verstaan onder :<br />1° DBFM-project Brabo 1 : het eers
 
 ### ART. 43.
 
-De Vlaamse Regering is gemachtigd om, overeenkomstig hoofdstuk IV van het decreet van 7 mei 2004 houdende bepalingen inzake kas-, schuld- en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest en onder de nadere uitvoeringsmodaliteiten die zij bepaalt, een gewestwaarborg toe te kennen voor de terugbetaling van maximaal zeventig percent van het vreemd vermogen.<br /><br />De gebeurlijke kosten van beëindiging van de renteswap die aan het vreemd vermogen is gekoppeld ter indekking van het renterisico vallen eveneens onder de dekking van de gewestwaarborg, tot het maximum waarborgbedrag of maximum waarborgpercentage bepaald door de Vlaamse Regering.<br /><br />Verwijlinteresten, vergoedingen voor wederbelegging en alle andere kosten toegepast bij de opeisbaarheid van het vreemd vermogen, worden niet gewaarborgd, evenmin als gederfde, nog niet vervallen toekomstige intresten.<br /><br />
+De Vlaamse Regering is gemachtigd om, overeenkomstig&nbsp;hoofdstuk 10, afdeling 4, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 en onder de nadere uitvoeringsmodaliteiten die zij bepaalt, een gewestwaarborg toe te kennen voor de terugbetaling van maximaal zeventig percent van het vreemd vermogen.<br>
+<br>
+De gebeurlijke kosten van beëindiging van de renteswap die aan het vreemd vermogen is gekoppeld ter indekking van het renterisico vallen eveneens onder de dekking van de gewestwaarborg, tot het maximum waarborgbedrag of maximum waarborgpercentage bepaald door de Vlaamse Regering.<br>
+<br>
+Verwijlinteresten, vergoedingen voor wederbelegging en alle andere kosten toegepast bij de opeisbaarheid van het vreemd vermogen, worden niet gewaarborgd, evenmin als gederfde, nog niet vervallen toekomstige intresten.<br>
+&nbsp;
 
 ## HOOFDSTUK XIX Slotbepalingen
 
