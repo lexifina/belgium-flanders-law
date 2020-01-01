@@ -25,12 +25,12 @@ Besluit :
 ### ART 1.
 
 § 1. In dit besluit wordt verstaan onder:<br>
-1° centrum voor ontwikkelingsstoornissen: een erkende dienst als vermeld in het besluit van de Vlaamse Regering van 16 juni 1998 tot regeling van de erkenning en de subsidiëring van de centra voor ontwikkelingsstoornissen;<br>
+1° ...;<br>
 2° dienst voor zelfstandig wonen: een dienst voor personen met een fysieke handicap die nu vergund is conform het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap en die tot en met 31 december 2015 erkend was door het Vlaams Agentschap voor Personen met een Handicap als vermeld in het besluit van de Vlaamse Regering van 31 juli 1990 houdende de vaststelling van de erkenningsvoorwaarden, de werkings- en subsidiëringsmodaliteiten voor diensten voor zelfstandig wonen van gehandicapte personen zoals bedoeld in artikel 3, § 1bis, van het koninklijk besluit nr. 81 van 10 november 1967 tot instelling van een Fonds voor medische, sociale en pedagogische zorg voor gehandicapten;<br>
 3° gebruiker: de persoon met een handicap die gebruikmaakt van de ondersteuning door een voorziening voor personen met een handicap;<br>
 4° internaat voor minderjarigen: een voorziening die nu erkend is als een multifunctioneel centrum als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap en die tot en met 31 december 2015 erkend was door het Vlaams Agentschap voor Personen met een Handicap, en die onder het internaatstelsel zorgt voor huisvesting, onderhoud, behandeling en opvoeding van de personen met een handicap die jonger zijn dan 21 jaar, vermeld in het koninklijk besluit van 23 december 1970 tot vaststelling van de erkenningsvoorwaarden van de residentiële en semiresidentiële voorzieningen voor personen met een handicap;<br>
 5° multifunctioneel centrum: een multifunctioneel centrum voor minderjarige personen met een handicap als vermeld in het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
-6° oriëntatie- en behandelingscentrum: een centrum voor observatie, oriëntering en medische, psychologische en pedagogische begeleiding van minderjarige personen met een handicap dat nu erkend is als een multifunctioneel centrum met ondersteuningsfunctie diagnostiek als vermeld in artikel 10, § 6, van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, en dat tot en met 31 december 2015 erkend was door het Vlaams Agentschap voor Personen met een Handicap als vermeld in het koninklijk besluit van 12 december 1975 tot vaststelling van de voorwaarden voor de erkenning van de centra voor observatie, oriëntering en medische, psychologische en pedagogische behandeling voor gehandicapten, evenals van de te volgen bijzondere regels voor de vaststelling van de toelagen per dag, toegekend voor het onderhoud, de opvoeding en de behandeling van de gehandicapten die er geplaatst zijn ten laste van de openbare besturen;<br>
+6° ...;<br>
 7° revalidatiecentrum: een door het Vlaams Agentschap voor Personen met een Handicap erkend extramuraal centrum of erkende extramurale dienst voor de functionele revalidatie van personen met een handicap als vermeld in het besluit van de Vlaamse Regering van 17 december 1996 tot vaststelling van de erkenningsvoorwaarden en -modaliteiten van de centra of diensten voor revalidatie;<br>
 8° semi-internaat: een voorziening die nu erkend is als een multifunctioneel centrum als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, en die tot en met 31 december 2015 erkend was door het Vlaams Agentschap voor Personen met een Handicap, die onder het semi-internaatstelsel zorgt voor huisvesting, onderhoud, behandeling en opvoeding van de personen met een handicap die jonger zijn dan 21 jaar en die niet schoolgaand zijn, alsook een voorziening die over geen andere erkenning beschikt dan die van semi-internaat voor schoolgaanden als vermeld in het koninklijk besluit van 23 december 1970 tot vaststelling van de erkenningsvoorwaarden van de residentiële en semi-residentiële voorzieningen voor personen met een handicap;<br>
 9° subsidiabele oppervlakte: de som van de per bouwlaag berekende nuttige vloeroppervlakte, buitenmuren inbegrepen, die in aanmerking wordt genomen voor subsidiëring;<br>
@@ -42,9 +42,9 @@ Besluit :
 15° Vlaams Agentschap voor Personen met een Handicap: het Vlaams Agentschap voor Personen met een Handicap, vermeld in het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.<br>
 <br>
 § 2. Dit besluit is van toepassing op de volgende voorzieningen voor personen met een handicap:<br>
-1° centra voor ontwikkelingsstoornissen;<br>
+1° ...;<br>
 2° internaten voor minderjarigen;<br>
-3° oriëntatie- en behandelingscentra;<br>
+3° ...;<br>
 4° revalidatiecentra;<br>
 5° semi-internaten;<br>
 6° tehuizen van kort verblijf;<br>
@@ -72,7 +72,7 @@ De algemene bouwtechnische en bouwfysische normen waaraan de infrastructuur van 
 
 ### ART 3.
 
-§ 1. De infrastructuur van de centra voor ontwikkelingsstoornissen en de revalidatiecentra moet voldoen aan de specifieke bouwtechnische en bouwfysische normen, vermeld in paragraaf 2 tot en met 5, om voor een investeringssubsidie in aanmerking te komen.<br>
+§ 1. De infrastructuur van de revalidatiecentra moet voldoen aan de specifieke bouwtechnische en bouwfysische normen, vermeld in paragraaf 2 tot en met 5, om voor een investeringssubsidie in aanmerking te komen.<br>
 <br>
 § 2. Algemeen gelden voor de infrastructuur de volgende normen:<br>
 1° de ligging en het concept van het gebouw zijn aangepast aan de behoeften en de mogelijkheden van de doelgroep;<br>
@@ -120,11 +120,13 @@ Op verzoek van de aanvrager kan het Fonds bij een verbouwing een afwijking toest
 15° de minimale verdiepingshoogte is 2,50 meter (vloer tot afgewerkt plafond);<br>
 16° de signalisatie is aangepast aan de doelgroep.
 
+## Afdeling 3. Specifieke bouwtechnische en bouwfysische normen voor de internaten voor minderjarigen, [... (opgeh. BVR 20 maart 2020, art. 42, I: 1 januari 2020)] de semi-internaten, de tehuizen van kort verblijf, de units voor geïnterneerden en de units voor observatie, diagnose en behandeling
+
 ## Onderafdeling 1. Gemeenschappelijke normen
 
 ### ART 4.
 
-De infrastructuur van de internaten voor minderjarigen, de oriëntatie- en behandelingscentra, de semi-internaten, de tehuizen van kort verblijf, de units voor geïnterneerden en de units voor observatie, diagnose en behandeling moet voldoen aan de specifieke bouwtechnische en bouwfysische normen, vermeld in artikel 5 tot en met artikel 14, om voor een investeringssubsidie in aanmerking te komen.
+De infrastructuur van de internaten voor minderjarigen, de semi-internaten, de tehuizen van kort verblijf, de units voor geïnterneerden en de units voor observatie, diagnose en behandeling moet voldoen aan de specifieke bouwtechnische en bouwfysische normen, vermeld in artikel 5 tot en met artikel 14, om voor een investeringssubsidie in aanmerking te komen.
 
 ### ART 5.
 
@@ -247,7 +249,7 @@ Als personen met ernstige gedragsproblemen of geïnterneerden tot de doelgroep b
 
 ### ART 15.
 
-De infrastructuur van de internaten voor minderjarigen, de oriëntatie- en behandelingscentra, de tehuizen van kort verblijf, de units voor geïnterneerden en de units voor observatie, diagnose en behandeling moet voldoen aan de specifieke bouwtechnische en bouwfysische normen betreffende de verblijfsfunctie, vermeld in artikel 16 tot en met artikel 19, om voor een investeringssubsidie in aanmerking te komen.
+De infrastructuur van de internaten voor minderjarigen, de tehuizen van kort verblijf, de units voor geïnterneerden en de units voor observatie, diagnose en behandeling moet voldoen aan de specifieke bouwtechnische en bouwfysische normen betreffende de verblijfsfunctie, vermeld in artikel 16 tot en met artikel 19, om voor een investeringssubsidie in aanmerking te komen.
 
 ### ART 16.
 
@@ -261,7 +263,7 @@ Op verzoek van de aanvrager kan het Fonds een afwijking toestaan van de normen, 
 
 ### ART 17.
 
-§ 1. Voor de kamers en het sanitair van de infrastructuur van de internaten voor minderjarigen, de oriëntatie- en behandelingscentra en de tehuizen van kort verblijf gelden de volgende normen:<br>
+§ 1. Voor de kamers en het sanitair van de infrastructuur van de internaten voor minderjarigen en de tehuizen van kort verblijf gelden de volgende normen:<br>
 1° de totale netto-oppervlakte van de verblijfsruimten bedraagt minimaal 30 m<sup>2</sup>&nbsp;per bewoner. Die oppervlakte omvat de kamer van de bewoner, inclusief de individuele sanitaire cel, de gemeenschappelijke zit- en eetruimten en de gemeenschappelijke sanitaire ruimten voor bewoners;<br>
 2° alle kamers zijn eenpersoonskamers, eventueel koppelbaar;<br>
 3° een eenpersoonskamer heeft een nettovloeroppervlakte van ten minste 12 m<sup>2</sup>, sanitair niet inbegrepen;<br>
@@ -350,10 +352,10 @@ De subsidiabele oppervlakte bedraagt maximaal:<br>
 2° voor een internaat voor minderjarigen: 65 m<sup>2</sup>&nbsp;per plaats;<br>
 3° voor een semi-internaat: 45 m<sup>2</sup>&nbsp;per plaats;<br>
 4° voor een tehuis van kort verblijf: 65 m<sup>2</sup>&nbsp;per plaats, aanvaard door de functioneel bevoegde administratie;<br>
-5° voor een oriëntatie- en behandelingscentrum: 65 m<sup>2</sup>&nbsp;per plaats;<br>
+5° ...;<br>
 6° voor een unit voor geïnterneerden: 65 m<sup>2</sup>&nbsp;per plaats;<br>
 7° voor een unit voor observatie, diagnose en behandeling: 65 m<sup>2</sup>&nbsp;per plaats;<br>
-8° voor een centrum voor ontwikkelingsstoornissen: 65 m<sup>2</sup>&nbsp;per voltijdsequivalent voor een personeelslid, aanvaard door de functioneel bevoegde administratie.<br>
+8° ...<br>
 <br>
 Van de maximale subsidiabele oppervlakte, vermeld in het eerste lid, kan alleen op gemotiveerd verzoek afgeweken worden als de erkennings- en exploitatievoorwaarden dat vereisen of omdat vanwege kleinschaligheid of de bijzonderheid van de doelgroep een meeroppervlakte vereist is om een efficiënte werking te garanderen. De afwijking kan maximaal 30% bedragen.
 
@@ -366,12 +368,10 @@ Van de maximale subsidiabele oppervlakte, vermeld in het eerste lid, kan alleen 
 2° voor een internaat voor minderjarigen: 550 per m<sup>2</sup>;<br>
 3° voor een semi-internaat: 550 per m<sup>2</sup>;<br>
 4° voor een tehuis van kort verblijf: 550 per m<sup>2</sup>;<br>
-5° voor een oriëntatie- en behandelingscentrum: 550 per m<sup>2</sup>;<br>
-6° voor een centrum voor ontwikkelingsstoornissen: 550 euro per m<sup>2</sup>;<br>
+5° ...;<br>
+6° ...;<br>
 7° voor een unit voor geïnterneerden: 720 euro per m<sup>2</sup>;<br>
 8° voor een unit voor observatie, diagnose en behandeling: 600 euro per m<sup>2</sup>.<br>
-<br>
-Als een voorziening, vermeld in het eerste lid, een erkenning heeft als MFC GES+ als vermeld in het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, wordt, in afwijking van het eerste lid, het basisbedrag van de investeringssubsidie voor de GES+ plaatsen vastgesteld op 720 euro per m<sup>2</sup>.<br>
 <br>
 § 2. Voor een nieuwbouw kan een subsidiebelofte worden toegekend voor de projectfasen technische uitrusting, afwerking, uitrusting en meubilering, ook al is de projectfase ruwbouw al aangevat of gerealiseerd voordat de subsidiebelofte voor nieuwbouw wordt aangevraagd. De projectfase ruwbouw wordt dan niet gesubsidieerd. Een subsidiebelofte voor de projectfase uitrusting en meubilering alleen is niet mogelijk. Bij de subsidiebelofte wordt de investeringssubsidie voor nieuwbouw, vermeld in paragraaf 1, dan verdeeld op de volgende wijze:<br>
 1° technische uitrusting: 30%;<br>
@@ -387,12 +387,10 @@ De projectfase ruwbouw, vermeld in het eerste lid, omvat de gevelsluiting, boven
 2° voor een internaat voor minderjarigen: 500 euro per m<sup>2</sup>;<br>
 3° voor een semi-internaat: 500 euro per m<sup>2</sup>;<br>
 4° voor een tehuis van kort verblijf: 500 euro per m<sup>2</sup>;<br>
-5° voor een oriëntatie- en behandelingscentrum: 500 euro per m<sup>2</sup>;<br>
-6° voor een centrum voor ontwikkelingsstoornissen: 500 euro per m<sup>2</sup>;<br>
+5° ...;<br>
+6° ...;<br>
 7° voor een unit voor geïnterneerden: 670 euro per m<sup>2</sup>;<br>
 8° voor een unit voor observatie, diagnose en behandeling: 550 euro per m<sup>2</sup>.<br>
-<br>
-Als een voorziening, vermeld in het eerste lid, een erkenning heeft als MFC GES+ als vermeld in het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, wordt, in afwijking van het eerste lid, het basisbedrag van de investeringssubsidie voor de GES+ plaatsen vastgesteld op 670 euro per m<sup>2</sup>.<br>
 <br>
 § 2. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij uitbreiding is vastgesteld op 60% van de goedgekeurde raming. Dat basisbedrag wordt verminderd op basis van de eindafrekening als dat nodig is.<br>
 <br>
@@ -524,7 +522,7 @@ Het besluit van de Vlaamse Regering van 19 juni 2009 tot vaststelling van de inv
 
 Voor de voorzieningen voor personen met een handicap waarvan de aanvraag van een subsidiebelofte of een definitief principieel akkoord ontvankelijk is verklaard voor de datum van de inwerkingtreding van dit besluit en waarbij nog geen subsidiebelofte of een definitief principieel akkoord is gegeven voor de datum van de inwerkingtreding van dit besluit, gelden de bouwtechnische en bouwfysische normen van het besluit van de Vlaamse Regering van 19 juni 2009 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de voorzieningen voor personen met een handicap die van toepassing waren voor de datum van de inwerkingtreding van dit besluit.<br>
 <br>
-Voor de dossiers waarvan de subsidiebelofte of het definitieve principiële akkoord is gegeven voor de datum van de inwerkingtreding van dit besluit, gelden de bepalingen die van toepassing waren voor de datum van de inwerkingtreding van dit besluit. In afwijking hiervan kunnen de voorzieningen die beschikken over een erkenning als MFC GES+ als vermeld in het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap en die na 31 december 2017 een subsidiebelofte hebben verkregen, een aanvullende subsidiebelofte verkrijgen voor de GES+ plaatsen op basis van de basisbedragen van de investeringssubsidie, vermeld in artikel 23, § 1, tweede lid, of artikel 24, § 1, tweede lid, van dit besluit.
+Voor de dossiers waarvan de subsidiebelofte of het definitieve principiële akkoord is gegeven voor de datum van de inwerkingtreding van dit besluit, gelden de bepalingen die van toepassing waren voor de datum van de inwerkingtreding van dit besluit.&nbsp;
 
 ## Afdeling 3. Uitvoeringsbepaling
 
