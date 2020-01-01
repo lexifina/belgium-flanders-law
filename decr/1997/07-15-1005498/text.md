@@ -36,7 +36,7 @@ c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de d
 19° bis vervangingsbouw: een gebouw of woning volledig afbreken en op hetzelfde perceel een of meer nieuwe woningen oprichten;<br>
 20° sociale huisvestingsmaatschappij : de erkende sociale huisvestingsmaatschappijen, vermeld in artikel 40;<br>
 21° erkende huurdiensten : huurdersbonden of sociale verhuurkantoren die door de Vlaamse Regering erkend zijn overeenkomstig artikel 56;<br>
-22° sociale huurwoning : een woning die niet behoort tot het bescheiden woonaanbod, vermeld in artikel 1.2, eerste lid, 1°, van het decreet Grond- en Pandenbeleid,&nbsp;die als hoofdverblijfplaats verhuurd of onderverhuurd wordt door :<br>
+22° sociale huurwoning : een woning die niet behoort tot het bescheiden woonaanbod, vermeld in artikel 1.2, eerste lid, 1°, van het decreet Grond- en Pandenbeleid, die als hoofdverblijfplaats verhuurd of onderverhuurd wordt door :<br>
 a) de Vlaamse Maatschappij voor Sociaal Wonen of een sociale huisvestingsmaatschappij;<br>
 b) de sociale verhuurkantoren die overeenkomstig artikel 56 erkend zijn als huurdienst;<br>
 c) het Vlaams Woningfonds, een gemeente, een intergemeentelijk samenwerkingsverband, een OCMW of een welzijnsvereniging, voor zover er voor die woning een van de volgende subsidies werd verleend :<br>
@@ -64,22 +64,22 @@ c) een gemeente, voor zover het perceel verworven werd met toepassing van het re
 30° verbetering : de uitvoering van beperkte ingrepen aan een woning, vooral met betrekking tot het comfort, de toegankelijkheid, de energie-efficiëntie of de privacy ten aanzien van de onmiddellijke woonomgeving;<br>
 31° woning : elk onroerend goed of het deel ervan dat hoofdzakelijk bestemd is voor de huisvesting van een gezin of alleenstaande;<br>
 32° woonproject : een sociaal woonproject of een ander woonproject dat wordt opgezet om te voorzien in de huisvesting van gezinnen of alleenstaanden of om hun woonsituatie te verbeteren.<br>
-Een woonproject is sociaal wanneer het de realisatie van sociale huurwoningen, sociale koopwoningen of sociale kavels, met inbegrip van de eventuele gemeenschappelijke voorzieningen betreft.<br>
+Een woonproject is sociaal wanneer het de realisatie van sociale huurwoningen, sociale koopwoningen of sociale kavels, met inbegrip van de eventuele gemeenschappelijke voorzieningen en bescheiden huurwoningen&nbsp;betreft.<br>
 Een sociaal woonproject is gemengd wanneer aan minstens één van de volgende voorwaarden is voldaan :<br>
-a) het woonproject omvat of realiseert een menging van sociale huur- en sociale koopwoningen;<br>
+a) het woonproject omvat of realiseert een menging van sociale huurwoningen met sociale koopwoningen en/of bescheiden huurwoningen;<br>
 b) de sociale huurwoningen en/of sociale koopwoningen worden zodanig geïntegreerd in de bestaande woonstructuur dat er een menging ontstaat met woningen van de privésector;<br>
 33° woonwagen : een woongelegenheid, gekenmerkt door flexibiliteit en verplaatsbaarheid, bestemd voor permanente en niet-recreatieve bewoning;<br>
-34° huurder van een sociale huurwoning :<br>
-a) de persoon die zich bij de inschrijving voor een sociale huurwoning heeft opgegeven als referentiehuurder, en de persoon die bij aanvang van de huurovereenkomst met hem gehuwd is of wettelijk samenwoont of die bij aanvang van de huurovereenkomst zijn feitelijke partner is;<br>
-b) de persoon die na de aanvang van de huurovereenkomst huwt of wettelijk gaat samenwonen met de persoon, vermeld in punt a), en die met die persoon op duurzame wijze samenwoont, of de feitelijke partner die een jaar als huurder als vermeld in punt c), op duurzame wijze samenwoont met de persoon, vermeld in punt a);<br>
-c) alle andere personen dan de personen, vermeld in punt a) en b), met uitzondering van de minderjarige kinderen, die op duurzame wijze in de sociale huurwoning samenwonen met de personen, vermeld in punt a) of b);<br>
+34° ...;<br>
 35° de Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen;<br>
 36° niet-residentiële ruimte : elk onroerend goed of deel ervan dat niet bestemd is voor de huisvesting van een gezin of een alleenstaande en dat geen gemeenschapsvoorziening is noch een specifieke voorziening zoals bedoeld in artikel 72, eerste lid, 2°.<br>
 37° landmeter-expert: de landmeter-expert, ingeschreven op het tableau van de beoefenaars van het beroep als bedoeld in de wet van 11 mei 2003 tot bescherming van de titel en van het beroep van landmeter-expert en op wie het koninklijk besluit van 15 december 2005 tot vaststelling van de voorschriften inzake de plichtenleer van de landmeter-expert van toepassing is.<br>
 38° welzijnsvereniging: een vereniging als vermeld in deel 3, titel 4, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur;<br>
 39° venale waarde : de prijs die de meestbiedende kandidaat-koper bereid zou zijn te betalen als een onroerend goed te koop gesteld zou worden onder de meest gunstige voorwaarden en na een degelijke voorbereiding;<br>
 40° Vlabinvest apb: het Agentschap voor Woon- en Zorginfrastructuurbeleid voor Vlaams-Brabant, opgericht als het Agentschap voor Grond- en Woonbeleid voor Vlaams-Brabant bij artikel 1 van het besluit van de provincieraad van Vlaams-Brabant van 22 oktober 2013, en omgevormd tot het Agentschap voor Woon- en Zorginfrastructuurbeleid voor Vlaams-Brabant bij besluit van de provincieraad van Vlaams-Brabant.<br>
+41° NBN EN 14604: Belgische norm inzake rookmelders, waarvan de registratie door het Belgisch Instituut voor Normalisatie werd bekendgemaakt in het Belgisch Staatsblad van 22 februari 2006, en de later bekendgemaakte wijzigingen ervan. Het is de omzetting van de Europese geharmoniseerde norm CE EN 14604;<br>
+42° rookmelder: een apparaat conform NBN EN 14604 dat reageert op de rookontwikkeling bij brand door het produceren van een scherp geluidssignaal, en dat niet van het ionische type is.<br>
 43° gemeenschappelijk wonen: een woonvorm in een gebouw of gebouwencomplex dat wonen als hoofdfunctie heeft en uit verschillende woongelegenheden bestaat, waarbij minimaal twee huishoudens op vrijwillige basis minimaal één leefruimte delen en daarnaast elk over minimaal één private leefruimte beschikken en waarbij de bewoners samen instaan voor het beheer;<br>
+44° bescheiden huuraanbod: de huurwoningen die deel uitmaken van het bescheiden woonaanbod, vermeld in artikel 1.2, eerste lid, 1°, van het decreet Grond- en Pandenbeleid;<br>
 45° werkdag: elke kalenderdag, behalve een zaterdag, een zondag of een wettelijke feestdag.<br>
 <br>
 De Vlaamse regering kan de betekenis van bovengenoemde begrippen nader omschrijven.<br>
@@ -96,7 +96,7 @@ De Vlaamse Regering kan een bijzondere regeling treffen ten aanzien van de huurd
 1° nutsbedrijven : de instanties die in het kader van de openbare nutsvoorziening instaan voor de levering van water;<br>
 2° distributienetbeheerders : de natuurlijke personen of rechtspersonen, vermeld in artikel 2, 8°, van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt, en artikel 1, 31°, van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen.<br>
 <br>
-Met behoud van de toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd; kan de toezichthouder, vermeld in artikel 29bis, of de wooninspecteur, vermeld in artikel 20, § 2, in het kader van een onderzoek naar effectieve bewoning met het oog op de vaststelling van de misdrijven, vermeld in artikel 20 en 102bis, § 9, de verbruiksgegevens van water, elektriciteit en gas opvragen bij de nutsbedrijven of de distributienetbeheerders.<br>
+Met behoud van de toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd, kan de toezichthouder, vermeld in artikel 29bis, of de wooninspecteur, vermeld in artikel 20, § 2, in het kader van een onderzoek naar effectieve bewoning met het oog op de vaststelling van de misdrijven, vermeld in artikel 20 en 102bis, § 9, de verbruiksgegevens van water, elektriciteit en gas opvragen bij de nutsbedrijven of de distributienetbeheerders.<br>
 <br>
 De nutsbedrijven of de distributienetbeheerders moeten de verbruiksgegevens binnen een termijn van 14 dagen na ontvangst van de aanvraag aan de toezichthouder of de wooninspecteur bezorgen.<br>
 <br>
@@ -212,7 +212,7 @@ Het Woonbeleidsplan Vlaanderen moet de realisatie van de doelstellingen, vermeld
 9° de minimale energetische prestaties;<br>
 10° de aanwezigheid van drinkbaar water.<br>
 <br>
-Elke woning moet voldoen aan de vereisten van brandveiligheid, met inbegrip van de specifieke en aanvullende veiligheidsnormen die de Vlaamse Regering vaststelt.<br>
+Elke woning moet voldoen aan de vereisten van brandveiligheid, met inbegrip van de specifieke en aanvullende veiligheidsnormen die de Vlaamse Regering vaststelt. Een woning moet uitgerust zijn met één of meer rookmelders geplaatst op de wijze bepaald door de Vlaamse Regering of moet beschikken over een brand|Updetectiesysteem dat gekeurd en gecertificeerd is door een daartoe erkend organisme.<br>
 <br>
 De omvang van de woning moet minstens beantwoorden aan de woningbezetting. De Vlaamse Regering stelt de normen voor de vereiste minimale omvang van de woning vast in relatie tot de gezinssamenstelling.<br>
 <br>
@@ -680,8 +680,6 @@ Bij het opleggen van de administratieve geldboete mag er geen kennelijke wanverh
 <br>
 De VMSW heeft rechtspersoonlijkheid en zal, zonder haar burgerlijk karakter te verliezen, in de vorm van een naamloze vennootschap worden opgericht. De VMSW is de rechtsopvolger van de Vlaamse Huisvestingsmaatschappij, opgericht bij het decreet van 21 december 1988 houdende oprichting van de Vlaamse Huisvestingsmaatschappij.<br>
 <br>
-Artikel 25 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 is niet van toepassing op de VMSW.<br>
-<br>
 De rechtspositie van de VMSW wordt geregeld door het Bestuursdecreet, dit decreet en haar statuten. De bepalingen van het Wetboek van vennootschappen met betrekking tot de naamloze vennootschappen zijn van toepassing op de VMSW voor alles wat niet geregeld is door het Bestuursdecreet, door dit decreet, door de wetten en decreten die voor het Vlaamse Gewest en de eronder ressorterende instellingen een regeling inzake begroting, boekhouding, organisatie van de controle en controle op subsidies invoeren, of door haar statuten, en dit voorzover die bepalingen met betrekking tot de naamloze vennootschappen niet in strijd zijn met voormelde decretale of wettelijke regelingen.<br>
 <br>
 Het Vlaamse Gewest, de provincies en de gemeenten die in het Vlaamse Gewest liggen kunnen inschrijven op het kapitaal van de VMSW. Alle aandelen zijn en blijven op naam.<br>
@@ -801,7 +799,7 @@ Als het sociaal verhuurkantoor de bedragen die de VMSW met toepassing van het ee
 
 ### ART. 34.
 
-§ 1. Om doeleinden die te maken hebben met het sociaal woonaanbod, het bescheiden woonaanbod, of de realisatie van gemeenschapsvoorzieningen die een identificeerbare band hebben met nabijgelegen reeds bestaande of nog te realiseren sociale woningen, bedoeld in artikel 33, § 3, te realiseren kan de VMSW:<br>
+§ 1. Om doeleinden die te maken hebben met het sociaal woonaanbod, het bescheiden huuraanbod, of de realisatie van gemeenschapsvoorzieningen die een identificeerbare band hebben met nabijgelegen reeds bestaande of nog te realiseren sociale woningen, bedoeld in artikel 33, § 3, te realiseren kan de VMSW:<br>
 1° zakelijke rechten verwerven op alle onroerende goe&shy;de&shy;ren die nodig zijn voor de sociale huisvesting en voor de verwerving van onroerende goederen, of on&shy;roeren&shy;de goe&shy;deren huren;<br>
 2° aan&nbsp;de initiatiefnemers, vermeld in artikel 33, § 1, eerste lid, finan&shy;ciële mid&shy;delen voorschieten;<br>
 3° gebouwen slopen en oprichten;<br>
@@ -814,7 +812,7 @@ Als het sociaal verhuurkantoor de bedragen die de VMSW met toepassing van het ee
 Onder de voorwaarden die de Vlaamse Regering bepaalt, kan de VMSW in het kader van haar opdracht, vermeld in artikel 33, § 1, vierde lid, 6°, :<br>
 1° zakelijke rechten vestigen op alle onroerende goederen die nodig zijn om projecten te verwezenlijken waarbij een vermenging wordt gerealiseerd van enerzijds sociale huurwoningen, sociale koopwoningen of sociale kavels, en anderzijds :<br>
 a) huurwoningen, koopwoningen of kavels die gefinancierd worden door Vlabinvest apb;<br>
-b) een bescheiden woonaanbod als vermeld in artikel 1.2, eerste lid, 1°, van het decreet&nbsp;Grond- en Pandenbeleid;<br>
+b) een bescheiden huuraanbod;<br>
 c) studentenkamers;<br>
 d) zorgvoorzieningen als vermeld in artikel 1.2, eerste lid, 29°, van het decreet&nbsp;Grond- en Pandenbeleid;<br>
 e) woningen van de privésector;<br>
@@ -832,8 +830,8 @@ De VMSW en de sociale huisvestingsmaatschappijen kunnen voor het uitvoeren van h
 § 3. De VMSW verkoopt haar onroerende goederen openbaar. Ze kan ze enkel uit de hand verkopen aan:<br>
 1° de sociale huisvestingsmaatschappijen;<br>
 2° aan gezinnen of alleenstaanden ter uitvoering van de opdrachten, vermeld in artikel 33, waarbij ze rekening houdt met de prijsnormen, met de chronologie van de aanvragen en met de prioriteiten en andere voorwaarden die de Vlaamse Regering dienaangaande vaststelt;<br>
-2° /1 aan gezinnen en alleenstaanden ter uitvoering van de opdrachten met betrekking tot het bescheiden woonaanbod in de zin van artikel 41, § 2;<br>
-3° gemeenten, autonome gemeentebedrijven als vermeld in titel VII, hoofdstuk II, afdeling II, van het Gemeentedecreet van 15 juli 2005, intergemeentelijke samenwerkingsverbanden, het Vlaams Woningfonds, openbare centra voor maatschappelijk welzijn of OCMW-verenigingen, voor doeleinden die te maken hebben met sociaal woonaanbod, het bescheiden woonaanbod of de realisatie van gemeenschapsvoorzieningen die een identificeerbare band hebben met nabijgelegen reeds bestaande of nog te realiseren sociale woningen;<br>
+2° /1 ...<br>
+3° gemeenten, autonome gemeentebedrijven als vermeld in titel VII, hoofdstuk II, afdeling II, van het Gemeentedecreet van 15 juli 2005, intergemeentelijke samenwerkingsverbanden, het Vlaams Woningfonds, openbare centra voor maatschappelijk welzijn of welzijnsverenigingen, voor doeleinden die te maken hebben met sociaal woonaanbod, het bescheiden huuraanbod of de realisatie van gemeenschapsvoorzieningen die een identificeerbare band hebben met nabijgelegen reeds bestaande of nog te realiseren sociale woningen;<br>
 3° /1 initiatiefnemers van en partners in projecten als vermeld in paragraaf 1, tweede lid, 1° ; onder de voorwaarden die de Vlaamse Regering bepaalt;<br>
 4° andere personen, voor zover de onroerende goederen in kwestie niet meer van nut zijn voor huisvesting, en een openbare verkoop niet de venale waarde oplevert of de kosten van een openbare verkoop niet in verhouding staan tot de venale waarde en voor zover voldaan is aan de voorwaarden die de Vlaamse Regering bepaalt;<br>
 5° Vlabinvest apb.<br>
@@ -955,7 +953,11 @@ Als het Vlaamse Gewest, een provincie, gemeenten en openbare centra voor maatsch
 <br>
 Een gedeelte van de sociale huurwoningen moet aangepast zijn aan de behoeften van grote gezinnen, bejaarden en personen met een handicap.<br>
 <br>
-§ 2. De sociale huisvestingsmaatschappijen kunnen ten belope van ten hoogste 20 procent van hun jaarlijkse investeringsvolume een bescheiden woonaanbod in de zin van artikel 1.2, eerste lid, 1°, van het decreet Grond- en Pandenbeleid, verwerven, verwezenlijken en vervreemden. Dat bescheiden woonaanbod wordt verhuurd of vervreemd aan woonbehoeftigen die geen andere woning volledig in volle eigendom of volledig in vruchtgebruik hebben. De sociale huisvestingsmaatschappijen kunnen voor deze autonome taken met betrekking tot een bescheiden woonaanbod geen subsidies of tegemoetkomingen in de zin van titel VI of in de zin van artikelen 80, 94, 95 of 96, van de Huisvestingscode, gevoegd bij het koninklijk besluit van 10 december 1970 en bekrachtigd door de wet van 2 juli 1971 ontvangen of aanwenden. Zij hanteren gescheiden boekhoudingen voor hun taken met betrekking tot het bescheiden woonaanbod en hun taken met betrekking tot het sociaal woonaanbod. De middelen die voortkomen uit hun taken met betrekking tot het bescheiden woonaanbod worden wederaangewend voor deze taken of voor hun taken met betrekking tot het sociaal woonaanbod.<br>
+§ 2. De sociale huisvestingsmaatschappijen kunnen ten belope van ten hoogste 20 procent van hun jaarlijkse investeringsvolume een bescheiden huuraanbod verwerven en verwezenlijken. Dat bescheiden huuraanbod wordt bij voorrang verhuurd aan woonbehoeftige gezinnen of alleenstaanden die zich tijdelijk in een bijzondere of moeilijke situatie bevinden. De sociale huisvestingsmaatschappijen hanteren gescheiden boekhoudingen voor hun taken met betrekking tot het bescheiden huuraanbod en hun taken met betrekking tot het sociaal woonaanbod. De middelen die voortkomen uit hun taken met betrekking tot het bescheiden huuraanbod worden opnieuw aangewend voor die taken of voor hun taken met betrekking tot het sociaal woonaanbod.<br>
+<br>
+Bij de toewijzing van een bescheiden huurwoning kunnen de sociale huisvestingsmaatschappijen de toewijzing van een woning weigeren als zij vaststellen dat het inkomen van de kandidaat-huurder niet in verhouding staat tot de hoogte van de huurprijs. De Vlaamse Regering kan nadere regels bepalen op welke wijze de sociale huisvestingsmaatschappijen dat kunnen toepassen.<br>
+<br>
+De Vlaamse Regering bakent de woonbehoeftigheidsvoorwaarde, vermeld in het eerste lid, af op basis van het inkomen en het onroerend bezit.<br>
 <br>
 § 3. Sociale huisvestingsmaatschappijen kunnen alleen niet-residentiële ruimten verwerven, realiseren, verhuren en verkopen als dat aangewezen is in het kader van de realisatie van sociale woonprojecten en de noodzaak ervan wordt verantwoord aan de hand van ruimere omgevingsfactoren die van invloed zijn op collectieve woonbehoeften of aan de hand van stedenbouwkundige voorschriften of aan de hand van de architectonische en ruimtelijke aspecten die de voorziening minder geschikt maken voor de uitoefening van het recht op wonen in al haar subcomponenten zoals voorzien in artikel 3. De verrichtingen in dat verband hebben steeds een subsidiair en accessoir karakter ten opzichte van de algemene en bijzondere doelstellingen van het sociaal woonbeleid en kaderen in de ruimere integratie van het woonbeleid in andere beleidsvelden. Deze verrichtingen komen niet in aanmerking voor subsidies die worden verstrekt in het kader van het sociaal woonbeleid. De inkomsten en uitgaven worden op een transparante wijze afgezonderd van de andere financiële stromen van de sociale huisvestingsmaatschappij. De sociale huisvestingsmaatschappij wendt de netto-opbrengst van verkoop of verhuring aan in het kader van haar opdrachten, vermeld in artikel 41. De Vlaamse Regering kan de voorwaarden waaronder sociale huisvestingsmaatschappijen niet-residentiële ruimten kunnen verwerven, realiseren, verhuren en verkopen nader regelen.<br>
 <br>
@@ -1162,7 +1164,7 @@ De Vlaamse Regering kan aan de vzw Huurpunt of haar rechtsopvolger een subsidie 
 
 Onverminderd andersluidende bepalingen worden de terugbetalingen van subsidie of van tegemoet-komingen die krachtens de Vlaamse Wooncode&nbsp;of krachtens het decreet van 28 maart 2014 houdende een subsidie voor investeringen in residentiële woonwagenterreinen en doortrekkersterreinen voor woonwagenbewoners verleend werden en die teruggevorderd worden omdat de begunstigden de aangegane verbintenissen of gestelde voorwaarden niet naleven, toegewezen aan het Fonds voor de Huisvesting ...<br>
 <br>
-Het Fonds voor de huisvesting wordt opgericht als een begrotingsfonds als vermeld in artikel 12, § 1, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof .<br>
+Het Fonds voor de huisvesting wordt opgericht als een begrotingsfonds als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
 <br>
 Aan het Fonds voor de huisvesting worden eveneens de netto-ontvangsten toegewezen die voortvloeien uit de toepassing van het Heffingsdecreet met ingang van het heffingsjaar 2005 en de ontvangsten voortvloeiend uit Europese cofinanciering.<br>
 <br>
@@ -1305,7 +1307,11 @@ De Vlaamse regering kan de waarborg van het Vlaamse Gewest hechten aan de lening
 
 ### ART. 77bis.
 
-Er wordt een Garantiefonds voor Huisvesting opgericht.<BR><BR>Het   Garantiefonds voor Huisvesting heeft rechtspersoonlijkheid. Het wordt opgericht   als een Vlaamse openbare instelling van het type A in de zin van het decreet van   8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning   van subsidies en de controle op de aanwending ervan, en de controle door het   Rekenhof. De bepalingen van dat decreet zijn op het fonds van toepassing voor   zover daar in dit decreet niet van afgeweken wordt. <BR><BR>Het Garantiefonds   voor Huisvesting wordt beheerd door de Vlaamse Regering. Tussen het   Garantiefonds voor Huisvesting en de VMSW wordt een overeenkomst gesloten met   betrekking tot de terbeschikkingstelling aan het Garantiefonds voor Huisvesting   van de nodige diensten, uitrusting, installaties en personeelsleden. De VMSW   ontvangt daarvoor jaarlijks een kostenvergoeding lastens de begroting van het   Garantiefonds voor Huisvesting.
+Er wordt een Garantiefonds voor Huisvesting opgericht.<br>
+<br>
+Het Garantiefonds voor Huisvesting heeft rechtspersoonlijkheid. Het wordt opgericht als een Vlaamse openbare instelling van het type A. De Vlaamse Codex Overheidsfinanciën van 29 maart 2019 is op het fonds van toepassing voor zover daar in dit decreet niet van afgeweken wordt.<br>
+<br>
+Het Garantiefonds voor Huisvesting wordt beheerd door de Vlaamse Regering. Tussen het Garantiefonds voor Huisvesting en de VMSW wordt een overeenkomst gesloten met betrekking tot de terbeschikkingstelling aan het Garantiefonds voor Huisvesting van de nodige diensten, uitrusting, installaties en personeelsleden. De VMSW ontvangt daarvoor jaarlijks een kostenvergoeding lastens de begroting van het Garantiefonds voor Huisvesting.
 
 ### ART. 77ter.
 
@@ -1366,7 +1372,7 @@ Binnen de perken van de kredieten die daarvoor op de begroting van het Vlaamse G
 1° de kredietmaatschappijen die, onder de voorwaarden die de Vlaamse regering bepaalt, door de Vlaamse regering of door de rechtsvoorganger van de VMSW erkend zijn;<br>
 2° elke kredietinstelling, hiertoe erkend bij besluit van de Vlaamse regering.<br>
 <br>
-De waarborg van het Vlaamse Gewest heeft ten hoogste betrekking op het gedeelte van de lening dat 60 % van de verkoopwaarde van de woning overschrijdt. De kredietinstelling houdt op de geleende bedragen een bijdrage in ten voordele van het « Waarborgfonds sociale leningen » dat wordt opgericht als een begrotingsfonds als vermeld in artikel 12, § 1, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
+De waarborg van het Vlaamse Gewest heeft ten hoogste betrekking op het gedeelte van de lening dat 60 % van de verkoopwaarde van de woning overschrijdt. De kredietinstelling houdt op de geleende bedragen een bijdrage in ten voordele van het « Waarborgfonds sociale leningen » dat wordt opgericht als een begrotingsfonds als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
 <br>
 Aan het Waarborgfonds sociale leningen worden benevens voormelde bijdragen ook de ontvangsten die voortvloeien uit terugwinningen, de inkomsten uit de wederverkoop van ingekochte onroerende goederen en de intresten op belegde sommen toegewezen.<br>
 <br>
@@ -1585,10 +1591,18 @@ Als de zittende huurder het aanbod weigert, kan de woning vrij te huur aangebode
 
 ### ART. 91.
 
-§ 1. De bepalingen van deze titel zijn van toepassing op de sociale huurwoningen, met uitzondering van de woningen die :<br>
+§ 1. In deze titel en de besluiten die genomen worden ter uitvoering ervan, wordt verstaan onder:<br>
+1° huurder:<br>
+a) de persoon die zich vóór de toewijzing had opgegeven als referentiehuurder;<br>
+b) de persoon die met de referentiehuurder gehuwd is en die in de sociale huurwoning woont, of die met de referentiehuurder wettelijk samenwoont;<br>
+c) de feitelijke partner van de referentiehuurder bij de aanvang van de huurovereenkomst, die in de sociale huurwoning woont of die na de aanvang van de huurovereenkomst in de sociale huurwoning is gaan bijwonen en die overeenkomstig artikel 95, § 1, vierde lid, van rechtswege huurder wordt;<br>
+2° rationele bezetting: de passende bezetting van een woning, waarbij rekening wordt gehouden met het aantal personen die de sociale huurwoning op duurzame wijze bewonen of gaan bewonen en de fysieke toestand van die personen;<br>
+3° welzijns- of gezondheidsvoorziening: een voorziening die werkzaam is in het kader van de aangelegenheden die vallen onder het beleidsdomein Welzijn, Volksgezondheid en Gezin. Een OCMW wordt gelijkgesteld met een welzijns- of gezondheidsvoorziening.<br>
+<br>
+De bepalingen van deze titel zijn van toepassing op de sociale huurwoningen, met uitzondering van de woningen die :<br>
 1° als serviceflats beschikbaar worden gesteld in het kader van het VIaams Welzijnsbeleid;<br>
 2° gefinancierd zijn met middelen van Vlabinvest apb of gefinancierd werden met middelen van het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, vermeld in artikel 16 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992;<br>
-3° onder de voorwaarden, gesteld door de Vlaamse Regering, worden verhuurd aan openbare besturen, aan welzijnsorganisaties of aan organisaties die de Vlaamse Regering daartoe erkent;<br>
+3° onder de voorwaarden, gesteld door de Vlaamse Regering, worden verhuurd aan openbare besturen, aan&nbsp;welzijns- of gezondheidsvoorzieningen of aan organisaties die de Vlaamse Regering daartoe erkent;<br>
 4° worden verhuurd of ter beschikking worden gesteld aan de categorieën van personen die de Vlaamse Regering bepaalt.<br>
 <br>
 § 2. De Vlaamse Regering stelt de voorwaarden vast voor de verhuring van sociale huurwoningen, met inachtneming van de bepalingen van deze titel. De Vlaamse Regering kan specifieke voorwaarden vaststellen voor de woningen die worden verhuurd door :<br>
@@ -1602,55 +1616,82 @@ Als de zittende huurder het aanbod weigert, kan de woning vrij te huur aangebode
 
 ### ART. 92.
 
-§ 1. Een sociale huurwoning wordt verhuurd op grond van een schriftelijke huurovereenkomst die ten minste de hierna vermelde gegevens en regelingen bevat :<br>
-1° de datum waarop de woning beschikbaar wordt gesteld en waarop de huurovereenkomst ingaat;<br>
-2° de identiteit van de huurder van de sociale huurwoning, alsmede van de inwonende minderjarige kinderen;<br>
-3°&nbsp;de duur van de huur en de mogelijkheid tot opzegging van de huurovereenkomst, alsook, onder de door de Vlaamse Regering te bepalen voorwaarden, de proefperiode van maximaal twee jaar. De proefperiode heeft als doel tijdens de duur van de proefperiode de huurder te evalueren, nauwgezet op te volgen en eventueel bij te sturen. Artikel 98, § 3, geldt onverkort tijdens de proefperiode;<br>
-4° de verplichtingen van enerzijds de verhuurder en anderzijds de huurder van de sociale huurwoning;<br>
-5° de elementen voor de berekening van de bedragen die de huurder van de sociale huurwoning moet betalen, aan wie en de manier waarop die betaling plaatsvindt;<br>
-6° ...<br>
-7° de territoriaal bevoegde rechtbank bij geschil.<br>
+§ 1. Een sociale huurwoning wordt verhuurd op grond van een schriftelijke huurovereenkomst die minstens de hierna vermelde gegevens bevat:<br>
+1° de datum waarop de huurovereenkomst ingaat;<br>
+2° de identiteit van de huurder en van de verhuurder;<br>
+3° het adres van de sociale huurwoning en de aanwijzing van alle ruimtes en gedeelten van het gebouw die het voorwerp van de verhuur zijn;<br>
+4° de duur van de huurovereenkomst;<br>
+5° de basishuurprijs en in voorkomend geval de huurprijs die overeenkomstig artikel 99 berekend wordt bij de aanvang van de huurovereenkomst, en de manier waarop de huurprijs betaald wordt;<br>
+6° het bedrag van de kosten en vergoedingen die betrekking hebben op diensten of leveringen aan de huurder bij de aanvang van de huurovereenkomst;<br>
+7° het bedrag van de waarborg;<br>
+8° in voorkomend geval de vermelding van het reglement van inwendige orde;<br>
+9° een verwijzing naar de toelichting, vermeld in het derde lid.<br>
 <br>
 De Vlaamse Regering stelt een typehuurovereenkomst vast. Van de typehuurovereenkomst kan enkel worden afgeweken in de gevallen die de Vlaamse Regering bepaalt.<br>
 <br>
-De huurders, vermeld in artikel 2, § 1, eerste lid, 34°, a), b) en c), met uitzondering van de inwonende kinderen die meerderjarig worden, ondertekenen de huurovereenkomst. De feitelijke partner die de huurovereenkomst in de hoedanigheid van huurder als vermeld in artikel 2, § 1, eerste lid, 34°, c), heeft ondertekend, hoeft de huurovereenkomst niet opnieuw te ondertekenen als huurder als vermeld in artikel 2, § 1, eerste lid, 34°, b).<br>
+Er wordt een toelichting op maat van de huurder gemaakt over de regelgevende bepalingen die van toepassing zijn op de verhouding tussen de huurder en de verhuurder. De verhuurder bezorgt de toelichting aan de huurder bij de ondertekening van de huurovereenkomst. De toelichting bevat minstens informatie over de volgende elementen:<br>
+1° de verplichtingen van de verhuurder en de huurder;<br>
+2° de plaatsbeschrijving;<br>
+3° de duur van de huurovereenkomst;<br>
+4° de huurprijsberekening en huurprijsherziening;<br>
+5° de kosten en vergoedingen die betrekking hebben op diensten of leveringen aan de huurder;<br>
+6° de mogelijkheden inzake vermindering van de onroerende voorheffing voor huurders;<br>
+7° de waarborg;<br>
+8° de brandverzekering;<br>
+9° de regeling met betrekking tot de huurherstellingen;<br>
+10° de beëindiging van de huurovereenkomst;<br>
+11° de mogelijkheden voor de huurder om zijn rechten of belangen te beschermen tegenover de verhuurder.<br>
 <br>
-§ 2. De verhuurder van een sociale huurwoning leeft de volgende verplichtingen na :<br>
-1° bij het aangaan van de huurovereenkomst te goeder trouw en onverwijld aan de huurder de te betalen huurprijs meedelen en een indicatie geven van de huurlasten;<br>
-2° de sociale huurwoning die voldoet aan de vereisten, vermeld in artikel 5, ter beschikking stellen van de huurder en ervoor zorgen dat de sociale huurwoning tijdens de volledige duur van de huurovereenkomst blijft voldoen aan de vereisten, vermeld in artikel 5;<br>
-3° de sociale huurwoning onderhouden in zodanige staat dat ze kan dienen tot het gebruik waartoe ze is bestemd en de herstellingen uitvoeren waarvoor de verhuurder verantwoordelijk is volgens de typeovereenkomst.<br>
+De toelichting, vermeld in het derde lid, wordt aangepast als de regelgeving wijzigt. De verhuurder zorgt ervoor dat de huurder op een toegankelijke manier van de gewijzigde toelichting kennis kan nemen.<br>
 <br>
-§ 3. De huurder van een sociale huurwoning leeft de volgende verplichtingen na :<br>
-1° in de sociale huurwoning zijn hoofdverblijfplaats hebben en er gedomicilieerd zijn, in voorkomend geval samen met de aan hem toegewezen minderjarige kinderen;<br>
-2° alleen toestaan dat een persoon op duurzame wijze in de sociale huurwoning komt bijwonen als dat in overeenstemming is met de vereiste, vermeld in artikel 95, § 1, tweede lid, en de duurzame bijwoonst melden aan de verhuurder;<br>
-2° bis alleen een tijdelijke bijwoonst, waarbij de persoon zijn hoofdverblijfplaats vestigt in de sociale huurwoning of er zich domicilieert, toestaan als dat niet leidt tot een sociale huurwoning die een onaangepaste woning is, en de tijdelijke bijwoonst melden aan de verhuurder;<br>
-3° de huurprijs betalen;<br>
+§ 2. Naast de verplichtingen van de verhuurder, vermeld in het Vlaams Woninghuurdecreet, leeft de verhuurder van een sociale huurwoning de volgende verplichtingen na:<br>
+1° hij deelt aan de huurder de te betalen huurprijs mee en geeft bij het aangaan van de huurovereenkomst een indicatie van de kosten en vergoedingen die betrekking hebben op diensten of leveringen aan de huurder;<br>
+2° hij voert de basisbegeleidingstaken die de Vlaamse Regering vaststelt, uit;<br>
+3° als hij de huurovereenkomst wil opzeggen wegens een tekortkoming als vermeld in artikel 98, § 3, eerste lid, 2°, verwittigt hij vooraf het OCMW, dat op de meest aangewezen wijze en binnen zijn wettelijke opdracht hulp aanbiedt.<br>
+<br>
+§ 3. Naast de verplichtingen van de huurder, vermeld in het Vlaams Woninghuurdecreet, leeft de huurder de volgende verplichtingen na :<br>
+1° in de sociale huurwoning zijn hoofdverblijfplaats hebben en er gedomicilieerd zijn;<br>
+2° alleen toestaan dat een persoon in de sociale huurwoning zijn hoofdverblijfplaats vestigt als dat niet leidt tot een onaangepaste woning en die bijwoonst melden aan de verhuurder;<br>
+3° alleen toestaan dat de persoon, vermeld in artikel 95, § 1, derde of vierde lid, in de sociale huurwoning bijwoont als dat in overeenstemming is met de voorwaarden, vermeld in artikel 95, § 1, derde of vierde lid;<br>
 4° de elementen die nodig zijn voor de huurprijsberekening meedelen als de verhuurder hierom verzoekt;<br>
-5° de sociale huurwoning onderhouden als een goede huisvader;<br>
+5° ...<br>
 6° voor zover de huurder een sociale woning betrekt, die niet gelegen is in een rand- of taalgrensgemeente als vermeld in de gecoördineerde wetten van 18 juli 1966 op het gebruik van de talen in bestuurszaken, over een taalvaardigheid van het Nederlands beschikken die overeenstemt met niveau A1 van het Europees Referentiekader voor Moderne Vreemde Talen. De Vlaamse Regering bepaalt vanaf wanneer de huurder aan de verplichting moet voldoen en de wijze waarop de taalvaardigheid wordt vastgesteld;<br>
 7° voor zover de huurder een sociale woning betrekt, gelegen in een rand- of taalgrensgemeente als vermeld in de gecoördineerde wetten van 18 juli 1966 op het gebruik van de talen in bestuurszaken, zonder afbreuk te doen aan de taalfaciliteiten, over een taalvaardigheid van het Nederlands beschikken die overeenstemt met niveau A1 van het Europees Referentiekader voor Moderne Vreemde Talen. De Vlaamse Regering bepaalt vanaf wanneer de huurder aan de verplichting moet voldoen en de wijze waarop de taalvaardigheid wordt vastgesteld;<br>
 8° ...;<br>
 9° de sociale huurwoning op zodanige wijze bewonen dat de leefbaarheid niet in het gedrang komt en dat geen overmatige hinder wordt veroorzaakt voor de buren en de naaste omgeving.<br>
-10° voor zover de huurder een begeleidingsovereenkomst als vermeld in artikel 95, § 1, vijfde lid, heeft ondertekend, de afspraken naleven die opgenomen zijn in die overeenkomst;<br>
-11° instemmen met een verhuis naar een andere sociale huurwoning als de verhuurder dat wegens renovatie-, aanpassings- of sloopwerkzaamheden aan de bewoonde sociale huurwoning noodzakelijk acht;<br>
-12° instemmen met een verhuis naar een andere sociale huurwoning als de sociale huurwoning die aangepast is aan de fysieke mogelijkheden van personen met een handicap, niet langer wordt bewoond door een persoon die daar nood aan heeft, of als de sociale huurwoning een sociale assistentiewoning is als bepaald door de Vlaamse Regering, en niet langer wordt bewoond door een persoon die minstens 65 jaar oud is, tenzij de verhuurder een gemotiveerde afwijking toestaat.<br>
-<br>
-Als de verplichtingen, vermeld in het eerste lid, niet worden nagekomen, dan kan de verhuurder, onder de door de Vlaamse Regering te bepalen voorwaarden, de huurder van een sociale huurwoning, mits de laatstgenoemde daarmee instemt, begeleiden of laten begeleiden bij het naleven van zijn verplichtingen.<br>
+10° voor zover de huurder een begeleidingsovereenkomst&nbsp;met een welzijns- of gezondheidsvoorziening heeft ondertekend, de afspraken naleven die opgenomen zijn in die overeenkomst;<br>
+11° instemmen met een verhuizing naar een andere sociale huurwoning in de volgende gevallen:<br>
+a) als de verhuurder dat wegens renovatie-, aanpassings- of sloopwerkzaamheden aan de bewoonde sociale huurwoning noodzakelijk acht of als de sociale huurwoning wordt verkocht;<br>
+b) als de huurder een onaangepaste woning bewoont;<br>
+c) als de sociale huurwoning die aangepast is aan de fysieke mogelijkheden van personen met een handicap, niet langer wordt bewoond door een persoon die daar nood aan heeft, tenzij de verhuurder een gemotiveerde afwijking toestaat;<br>
+d) als de sociale huurwoning een sociale assistentiewoning is als bepaald door de Vlaamse Regering, en niet langer wordt bewoond door een persoon die minstens 65 jaar oud is, tenzij de verhuurder een gemotiveerde afwijking toestaat;<br>
+12° voor zover de huurder een huurder is van een sociale assistentiewoning, instemmen met een verhuizing naar een meer passende zorgvoorziening als naar het oordeel van de behandelende arts, na overleg met de huurder, de familie van de huurder en andere betrokken zorgverleners, de lichamelijke of geestelijke gezondheidstoestand van de huurder van die aard is dat een opname in een meer passende zorgvoorziening noodzakelijk is, op voorwaarde dat de beheersinstantie als bepaald door de Vlaamse Regering, in overleg met de huurder en zijn familie of mantelzorgers, dat passend verblijf voorziet;<br>
+13° voor zover de huurder een huurder is van een sociale assistentiewoning, of een woning als vermeld in artikel 72, eerste lid, 2°, de afspraken naleven die opgenomen zijn in de zorg- en dienstverleningsovereenkomst, bepaald door de Vlaamse Regering.<br>
 <br>
 Als de huurder aantoont dat hij blijvend niet kan voldoen aan de verplichting, vermeld in het eerste lid, 6° en 7°, omdat hij ernstig ziek is of een mentale of fysieke handicap heeft of over beperkte cognitieve vaardigheden beschikt, wordt hij vrijgesteld van die verplichting. De Vlaamse Regering bepaalt de wijze waarop de huurder dat kan aantonen. De Vlaamse Regering bepaalt een uitstelregeling voor de huurder die om beroepsmatige, medische of persoonlijke redenen tijdelijk niet kan voldoen aan de verplichting.
 
 ### ART. 93.
 
-§ 1. De verhuurder houdt een kandidatenregister bij dat de identiteit vermeldt van alle kandidaat-huurders, alsook van de huurders aan wie in de loop van het lopende en het vorige kalenderjaar een sociale huurwoning werd toegewezen. De inschrijving gebeurt in volgorde van de indiening van de aanvragen.<br>
+§ 1. De verhuurder houdt een inschrijvingsregister bij dat de identiteit vermeldt van alle kandidaat-huurders, alsook van de huurders aan wie in de loop van het lopende en het vorige kalenderjaar een sociale huurwoning werd toegewezen. De inschrijving gebeurt in volgorde van de indiening van de aanvragen. Het inschrijvingsregister maakt verder melding van het bestaan van eventuele voorrangen die de kandidaat-huurder geniet.<br>
 <br>
-Op het ogenblik van de inschrijving moet de kandidaat-huurder, onder de door de Vlaamse Regering te bepalen voorwaarden, aantonen dat hij :<br>
-1° voldoet aan de voorwaarden inzake onroerend bezit en inkomen die de Vlaamse Regering vaststelt;<br>
-2° ...;<br>
-3° ...;<br>
-4° ...<br>
-5° ingeschreven is in de bevolkingsregisters, vermeld in artikel 1, § 1, eerste lid, 1°, van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten en tot wijziging van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen, of ingeschreven is op een referentieadres als vermeld in artikel 1, § 2, van de voormelde wet.<br>
+Om zich voor een sociale huurwoning in te schrijven, voldoen de personen, vermeld in het zesde lid, aan de volgende voorwaarden:<br>
+1° ze zijn minstens 18 jaar;<br>
+2° ze voldoen aan de voorwaarden met betrekking tot het onroerend bezit en het inkomen die de Vlaamse Regering vaststelt;<br>
+3° ze zijn ingeschreven in de bevolkingsregisters, vermeld in artikel 1, § 1, eerste lid, 1°, van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten en tot wijziging van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen, of ze zijn ingeschreven op een referentieadres als vermeld in artikel 1, § 2, van de voormelde wet.<br>
 <br>
-Het register maakt verder melding van het bestaan van eventuele prioriteiten en toewijzingsregels als vermeld in artikel 95.<br>
+De Vlaamse Regering kan uitzonderingen bepalen op de voorwaarde, vermeld in het tweede lid, 1°.<br>
+<br>
+Als de sociale huurwoning een sociale assistentiewoning is als bepaald door de Vlaamse Regering, moet een van de personen, vermeld in het zesde lid, bovendien minstens 65 jaar zijn.<br>
+<br>
+Als de sociale huurwoning een woning als vermeld in artikel 72, eerste lid, 2°, is, moet een van de personen, vermeld in het zesde lid, een zorg- en dienstverleningsovereenkomst sluiten met de zorgaanbieder van de nabijgelegen voorziening onder de voorwaarden die de Vlaamse Regering bepaalt.<br>
+<br>
+De personen, vermeld in het tweede lid, zijn:<br>
+1° de persoon die zich opgeeft als toekomstige referentiehuurder;<br>
+2° de persoon die de sociale huurwoning mee gaat bewonen en met de toekomstige referentiehuurder gehuwd is, of die met hem wettelijk samenwoont, of die zijn feitelijke partner is.<br>
+<br>
+Als de personen, vermeld in het zesde lid, ingeschreven zijn, worden ze beschouwd als kandidaat-huurders.<br>
+<br>
+In afwijking van het tweede lid moeten personen die zich inschrijven voor een sociale huurwoning, niet voldoen aan de inschrijvingsvoorwaarden als ze op het moment van de kandidaatstelling al huurder zijn van een andere sociale huurwoning van dezelfde verhuurder of, bij gedwongen herhuisvesting omwille van renovatie, aanpassing, sloop of verkoop, van een andere verhuurder.<br>
 <br>
 Behalve wanneer de kandidaat-huurder uitdrukkelijk en schriftelijk te kennen geeft dat zijn kandidatuur enkel betrekking heeft op sociale huurwoningen in een welbepaald gebied of op sociale huurwoningen die voldoen aan specifieke kenmerken, geldt de inschrijving voor alle sociale huurwoningen van de verhuurder, dat wil zeggen voor zover deze sociale huurwoningen overeenstemmen met het door de kandidaat-huurder gewenste type van woning.<br>
 <br>
@@ -1664,55 +1705,74 @@ In dat geval bezorgen de sociale woonorganisaties, de gemeenten, de intergemeent
 
 ### ART. 94.
 
-De Vlaamse regering bepaalt de vorm en de inhoud van de registers bedoeld in artikel 93, de wijze waarop deze registers worden bijgehouden en periodiek bijgewerkt en hoe het toezicht erop wordt georganiseerd.<br /><br />Elke huurder en kandidaat-huurder van een sociale huurwoning beschikt over een inzagerecht met betrekking tot de registers waarin hij is ingeschreven en hij kan zich daarvoor laten bijstaan. De Vlaamse regering regelt het inzagerecht.
+De Vlaamse regering bepaalt de vorm en de inhoud van de registers bedoeld in artikel 93, de wijze waarop deze registers worden bijgehouden en periodiek bijgewerkt en hoe het toezicht erop wordt georganiseerd.<br>
+<br>
+De bewaartermijn van individuele inschrijvingsdossiers van kandidaat-huurders, die uit het inschrijvingsregister geschrapt zijn, bedraagt dertig maanden, die ingaan vanaf de schrapping van de inschrijving. Na die bewaartermijn worden de dossiers vernietigd.<br>
+<br>
+Elke huurder en kandidaat-huurder van een sociale huurwoning beschikt over een inzagerecht met betrekking tot de registers waarin hij is ingeschreven en hij kan zich daarvoor laten bijstaan. De Vlaamse regering regelt het inzagerecht.
 
 ### ART. 95.
 
-§ 1. De kandidaat-huurder kan alleen worden toegelaten tot een sociale huurwoning als hij aantoont dat hij :<br>
-1° voldoet aan de voorwaarden inzake onroerend bezit en inkomen die de Vlaamse Regering vaststelt;<br>
-2° ...;<br>
-3° ...;<br>
-4° ...<br>
-5° ingeschreven is in de bevolkingsregisters, vermeld in artikel 1, § 1, eerste lid, 1°, van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten en tot wijziging van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen, of ingeschreven is op een referentieadres als vermeld in artikel 1, § 2, van de voormelde wet.<br>
+§ 1. De kandidaat-huurder kan alleen worden toegelaten tot een sociale huurwoning als hij voldoet aan de voorwaarden, vermeld in artikel 93, § 1.<br>
 <br>
-Een persoon kan alleen toetreden tot een lopende huurovereenkomst als hij aantoont dat hij voldoet aan de voorwaarden, vermeld in het eerste lid, met uitzondering van de voorwaarde met betrekking tot het inkomen, en als de toetreding niet leidt tot een sociale huurwoning die een onaangepaste woning is.<br>
+In afwijking van het eerste lid moeten kandidaat-huurders niet voldoen aan de toelatingsvoorwaarden als ze op het moment van de toewijzing al huurder zijn van een andere sociale huurwoning van dezelfde verhuurder of, bij gedwongen herhuisvesting omwille van renovatie, aanpassing, sloop of verkoop, van een andere verhuurder.<br>
 <br>
-De verhuurder verleent voorrang aan degenen die hij opnieuw moet huisvesten overeenkomstig de bepalingen van artikel 18, § 2, tweede lid, artikel 26, en artikel 60, § 3, en aan de personen, vermeld in artikel 90, § 1, vierde lid.<br>
+Als een persoon huwt of gehuwd is met een referentiehuurder en hij wil met de referentiehuurder gaan samenwonen in de sociale huurwoning na de aanvang van de huurovereenkomst, kan dat alleen als hij samen met de referentiehuurder voldoet aan de voorwaarden, vermeld in het eerste lid, en als de bijwoonst niet leidt tot een onaangepaste woning. Als die voorwaarden zijn vervuld, wordt de echtgenoot van rechtswege huurder. Hetzelfde geldt voor een persoon die wettelijk gaat samenwonen met een referentiehuurder na de aanvang van de huurovereenkomst.<br>
 <br>
-De sociale huurwoningen worden toegewezen door het bevoegd orgaan van de verhuurder, rekening houdend met :<br>
-1° de keuze van de kandidaat-huurder van een sociale huurwoning qua type, ligging, huurprijs en vaste huurlasten&nbsp;van de woning;<br>
-2° de bijzondere doelstellingen van het woonbeleid, vermeld in artikel 4, § 2;<br>
-3° het toewijzingsreglement dat in voorkomend geval een lokale invulling geeft aan de prioriteiten en toewijzingsregels die de Vlaamse Regering vaststelt.<br>
+De feitelijke partner van de referentiehuurder die na de aanvang van de huurovereenkomst in de sociale huurwoning is komen bijwonen, kan na een jaar met de referentiehuurder te hebben samengewoond, de woning slechts blijven bewonen als hij samen met de referentiehuurder voldoet aan de voorwaarden, vermeld in het eerste lid. Als die voorwaarden zijn vervuld, wordt de feitelijke partner van rechtswege huurder.<br>
 <br>
-De Vlaamse Regering bepaalt de nadere regels voor de uitvoering van het vierde lid en besteedt bij de vaststelling van de prioriteiten en regels voor de toewijzing van sociale huurwoningen extra aandacht aan kandidaat-huurders die behoren tot de meest behoeftige gezinnen of alleenstaanden en aan bewoners van een sociale huurwoning die willen of moeten verhuizen naar een aangepaste woning. De Vlaamse Regering kan een toewijzing afhankelijk maken van een begeleidingsovereenkomst die gesloten wordt tussen de kandidaat-huurder en een welzijnsorganisatie.<br>
+De sociale huurwoningen worden toegewezen door het beslissingsorgaan van de verhuurder of door de persoon of de personen die hij daartoe aanstelt, rekening houdend met:<br>
+1° de keuze van de kandidaat-huurder van een sociale huurwoning qua type, ligging, huurprijs en vaste huurlasten van de woning;<br>
+2° de rationele bezetting;<br>
+3° de voorrangs- en toewijzingsregels die de Vlaamse Regering vaststelt, waarbij ze rekening houdt met de bijzondere doelstellingen van het woonbeleid, vermeld in artikel 4, § 2;<br>
+4° in voorkomend geval het toewijzingsreglement dat de gemeente of het intergemeentelijk samenwerkingsverband heeft opgemaakt onder de voorwaarden die de Vlaamse Regering vaststelt.<br>
 <br>
-Bij de toewijzing van een sociale huurwoning door een sociaal verhuurkantoor kan het sociaal verhuurkantoor de toewijzing van een woning weigeren als het vaststelt dat het inkomen van de kandidaat-huurder niet in verhouding staat tot de hoogte van de huurprijs. De Vlaamse Regering kan nader bepalen op welke wijze het sociaal verhuurkantoor die weigering kan toepassen.<br>
+De voorkeur van de kandidaat-huurder, vermeld in het vijfde lid, 1°, mag niet leiden tot een te beperkte keuze, tenzij de kandidaat-huurder daarvoor gegronde redenen aanvoert die geen afbreuk doen aan zijn woonbehoeftigheid.<br>
 <br>
-De Vlaamse Regering stelt een verhaalprocedure in voor kandidaat-huurders die zich benadeeld achten bij de toewijzing van een sociale huurwoning. Die procedure bepaalt de termijn en de vorm van het indienen van een bezwaarschrift door de kandidaathuurder, alsook de mogelijkheid om gehoord te worden en de behandeling van het bezwaarschrift.<br>
+De Vlaamse Regering bepaalt de nadere regels voor de uitvoering van het vijfde lid en besteedt bij de vaststelling van de voorrangs- en toewijzingsregels van sociale huurwoningen extra aandacht aan kandidaat-huurders die behoren tot de meest behoeftige gezinnen of alleenstaanden, en aan bewoners van een sociale huurwoning die willen of moeten verhuizen naar een aangepaste woning.<br>
 <br>
-§ 2. Het toewijzingsreglement, vermeld in § 1, vierde lid, 3°, komt tot stand in overleg met de gemeente of binnen een intergemeentelijk samenwerkingsverband. De gemeente of het intergemeentelijk samenwerkingsverband legt de procedure van de totstandkoming vast. Ze betrekken bij de totstandkoming de relevante lokale actoren.<br>
+De Vlaamse Regering stelt een verhaalprocedure in voor de kandidaat-huurder die meent dat hij benadeeld is door een beslissing van de verhuurder. Die procedure bepaalt de termijn en de vorm van het indienen van een bezwaarschrift door de kandidaat-huurder, alsook de mogelijkheid om gehoord te worden en de behandeling van het bezwaarschrift.<br>
 <br>
-Het toewijzingsreglement wordt samen met het administratieve dossier ter goedkeuring voorgelegd aan de Vlaamse Regering.<br>
+§ 2. Bij de opmaak van het toewijzingsreglement, vermeld in paragraaf 1, vijfde lid, 4°, betrekt de gemeente of het intergemeentelijk samenwerkingsverband via het lokaal woonoverleg, vermeld in artikel 28, § 2, tweede lid, de verhuurders en de relevante lokale huisvestings- en welzijnsactoren.<br>
 <br>
-De goedkeuring wordt geweigerd als het toewijzingsreglement de wetten en decreten en de uitvoeringsbesluiten ervan of het algemeen belang schaadt. De beslissing tot goedkeuring of tot weigering van de goedkeuring wordt gemotiveerd. Ze wordt genomen binnen negentig kalenderdagen na de ontvangst van het verzoek tot goedkeuring.<br>
+De gemeente of het intergemeentelijk samenwerkingsverband bezorgt het toewijzingsreglement en het administratief dossier aan de Vlaamse Regering met een beveiligde zending.<br>
 <br>
-Als binnen die termijn geen beslissing aan de gemeente is betekend, is de goedkeuring verworven.<br>
+De Vlaamse Regering beschikt over een termijn van vijfenveertig kalenderdagen, die volgt op de datum van de kennisgeving van het toewijzingsreglement en het administratief dossier, om het toewijzingsreglement geheel of gedeeltelijk te vernietigen als zij het toewijzingsreglement in strijd acht met de wetten, decreten en de uitvoeringsbesluiten ervan of het algemeen belang. Als het toewijzingsreglement per aangetekend schrijven wordt bezorgd, gaat de termijn in vanaf de derde werkdag na de datum waarop het toewijzingsreglement is afgegeven op de post.<br>
 <br>
-Bij ontstentenis van een toewijzingsreglement gelden de door de Vlaamse Regering vastgestelde prioriteiten en toewijzingsregels.
+De Vlaamse Regering kan de termijn, vermeld in het derde lid, eenmalig verlengen met vijftien kalenderdagen. Ze geeft daarvan kennis aan de gemeente of het intergemeentelijk samenwerkingsverband voordat de oorspronkelijke termijn afloopt.<br>
+<br>
+Voor de berekening van de termijn, vermeld in het derde en vierde lid, is de vervaldag in de termijn begrepen. Als de vervaldag een zaterdag, een zondag, een wettelijke of decretale feestdag is, wordt die verplaatst naar de eerstvolgende werkdag.<br>
+<br>
+De Vlaamse Regering bezorgt de vernietigingsbeslissing met een beveiligde zending aan de gemeente of het intergemeentelijk samenwerkingsverband.<br>
+<br>
+Het toewijzingsreglement kan ten vroegste in werking treden na het verstrijken van de termijn, vermeld in het derde lid, of de verlengde termijn, vermeld in het vierde lid.<br>
+<br>
+De gemeente of het intergemeentelijk samenwerkingsverband bezorgt een afschrift van het toewijzingsreglement aan de toezichthouder en aan de verhuurders die het zullen toepassen nadat de termijn, vermeld in het derde of vierde lid, is verstreken en er geen vernietiging is uitgesproken.<br>
+<br>
+§ 3. Een verhuurder kan een toewijzing afhankelijk maken van een begeleidingsovereenkomst tussen de huurder en een welzijns- of gezondheidsvoorziening in de door de Vlaamse Regering bepaalde gevallen als hij in overleg met de welzijns- of gezondheidsvoorziening op basis van persoonsgegevens, verstrekt door de welzijns- of gezondheidsvoorziening, dat noodzakelijk acht. De persoonsgegevens hebben betrekking op gedragskenmerken van de kandidaat-huurder die doen vermoeden dat ondersteuning of begeleiding noodzakelijk is om het wonen succesvol te laten verlopen. De begeleidingsovereenkomst heeft als doel de huurder te begeleiden naar het zelfstandig kunnen wonen. De begeleiding richt zich minimaal tot aspecten die met het behoud van de woning te maken hebben, zoals het ondersteunen en eventueel trainen en aanleren van woonvaardigheden. De begeleiding is onder meer naar aard, tijdstip, duur en intensiteit aangepast aan de noden en mogelijkheden van de huurder.<br>
+<br>
+Als een kandidaat-huurder huurder is of maximaal 1 jaar geleden huurder geweest is van een andere verhuurder van een sociale huurwoning en hij heeft volgens die andere verhuurder begeleiding als vermeld in het eerste lid nodig, kan de verhuurder de toewijzing afhankelijk maken van een begeleidingsovereenkomst als vermeld in het eerste lid, als de volgende voorwaarden zijn vervuld:<br>
+1° de andere verhuurder toont de persoonsgegevens, vermeld in het eerste lid, aan met bewijsstukken;<br>
+2° de verhuurder geeft aan de kandidaat-huurder de mogelijkheid om mondeling of schriftelijk gehoord te worden;<br>
+3° de welzijns- of gezondheidsvoorziening is van oordeel dat begeleiding en ondersteuning noodzakelijk is.<br>
+<br>
+De bewijsstukken van de persoonsgegevens die aanleiding hebben gegeven tot het sluiten van een begeleidingsovereenkomst, worden bewaard tot het begeleidingstraject succesvol is afgerond.<br>
+<br>
+De welzijns- of gezondheidsvoorziening waarmee de begeleidingsovereenkomst is gesloten, brengt de verhuurder op de hoogte als de begeleidingsovereenkomst met de huurder wordt beëindigd.
 
 ### ART. 96.
 
-§ 1. De huurder van een sociale huurwoning moet tijdens de hele duur van de huurovereenkomst voldoen aan de voorwaarden inzake onroerend bezit, bedoeld in artikel 95. De Vlaamse regering kan daarop evenwel algemene uitzonderingen toestaan voor bijzondere en tijdelijke situaties.<br /><br />De Vlaamse regering bepaalt de overige voorwaarden waaraan de huurder van een sociale huurwoning blijvend moet voldoen.<br /><br />§ 2. De huurder mag de bestemming, vermeld in de huurovereenkomst, niet wijzigen, tenzij met instemming van de verhuurder. Hij mag de huur niet overdragen, noch zijn woning geheel of, behalve met instemming van de verhuurder, gedeeltelijk onderverhuren.
+§ 1. De huurder van een sociale huurwoning moet tijdens de hele duur van de huurovereenkomst voldoen aan de voorwaarden inzake onroerend bezit, bedoeld in artikel 95. De Vlaamse regering kan daarop evenwel algemene uitzonderingen toestaan voor bijzondere en tijdelijke situaties.<br>
+<br>
+De Vlaamse regering bepaalt de overige voorwaarden waaraan de huurder van een sociale huurwoning blijvend moet voldoen.<br>
+<br>
+§&nbsp;2. De huurder mag de huur niet overdragen, noch zijn woning geheel of gedeeltelijk onderverhuren.
 
 ### ART. 97.
 
-§ 1. De huurder stelt bij de toewijzing van de sociale huurwoning een waarborg ter nakoming van zijn verbintenissen. De opbrengst van de waarborg is bestemd voor de huurder. De Vlaamse Regering bepaalt de voorwaarden dienaangaande.<br>
+§ 1. De huurder stelt bij de toewijzing van de sociale huurwoning een waarborg ter nakoming van zijn verbintenissen. De Vlaamse Regering bepaalt de voorwaarden dienaangaande.<br>
 <br>
-§ 2. De Vlaamse Regering bepaalt, met inachtneming van de navolgende bepalingen, welke kosten en vergoedingen ten laste van de verhuurder en de huurder kunnen worden gelegd en welke regels gelden voor de inning en de controle erop.<br>
-<br>
-Alle kosten en vergoedingen die betrekking hebben op diensten of leveringen aan de huurder, die in de huurovereenkomst zijn omschreven, komen ten laste van de huurder ten bedrage van de reële uitgaven waarmee ze overeenstemmen. Ze zijn niet begrepen in de huurprijs.<br>
-<br>
-Alle lasten die betrekking hebben op het bezit en de uitoefening van zakelijke rechten op het onroerend goed komen ten laste van de verhuurder.<br>
+§ 2. De Vlaamse Regering bepaalt welke kosten en vergoedingen ten laste van de verhuurder en de huurder kunnen worden gelegd en welke regels gelden voor de inning en de controle erop.<br>
 <br>
 § 3. De verhuurder kan een billijk deel van het financiële voordeel dat de huurder geniet door het gebruik van hernieuwbare energiebronnen als vermeld in artikel 1.1.3, 65°, van het Energiedecreet van 8 mei 2009, recupereren via een periodieke vergoeding. Die vergoeding kan pas worden aangerekend nadat de installatie in gebruik is genomen.<br>
 <br>
@@ -1724,9 +1784,9 @@ Als de verhuurder een vergoeding ontvangt die hoger is dan het maximale bedrag, 
 <br>
 De Vlaamse Regering bepaalt de berekeningswijze van de periodieke vergoeding, alsook de gevallen waarbij de periodieke vergoeding verminderd of niet aangerekend wordt.<br>
 <br>
-§ 4. De verhuurder of een door hem aangestelde onafhankelijke deskundige stelt een omstandige plaatsbeschrijving op zowel bij de aanvang als bij de beëindiging van de huurovereenkomst. De plaatsbeschrijving bij de aanvang wordt bij de huurovereenkomst gevoegd. De plaatsbeschrijving wordt tegensprekelijk door ondertekening door de verhuurder en de huurder. Als de partijen geen overeenstemming bereiken, kan de vrederechter een deskundige aanwijzen die een plaatsbeschrijving opmaakt. Het vonnis is uitvoerbaar niettegenstaande verzet en is niet vatbaar voor hoger beroep.<br>
+§ 4. De verhuurder of een door hem aangestelde onafhankelijke deskundige stelt een gedetailleerde plaatsbeschrijving op zowel bij de aanvang als bij de beëindiging van de huurovereenkomst.<br>
 <br>
-De huurder betaalt maximaal de helft van de kosten van de plaatsbeschrijving, vermeld in het eerste lid, geplafonneerd tot een bedrag dat de Vlaamse Regering vaststelt.
+Als de partijen overeenstemming bereiken over de plaatsbeschrijving, betaalt de huurder maximaal de helft van de kosten van de plaatsbeschrijving, geplafonneerd tot een bedrag dat de Vlaamse Regering vaststelt.
 
 ### ART 97bis.
 
@@ -1738,22 +1798,18 @@ Als de huurovereenkomst betrekking heeft op een woning waarover de verhuurder ge
 <br>
 De Vlaamse Regering kan uitzonderingen toestaan op de duur van de huurovereenkomst, onder meer voor de tijdelijke opvang van gezinnen die in een noodsituatie verkeren of die wachten op een aangepaste woning, of als er een renovatie van de woning in kwestie gepland is.<br>
 <br>
-In afwijking van het eerste lid wordt een huurovereenkomst gesloten voor onbepaalde duur als de huurder, vermeld in artikel 2, § 1, eerste lid, 34°, a) en b), een nieuwe huurovereenkomst sluit ten gevolge van een verhuizing naar een andere sociale huurwoning van dezelfde verhuurder, of van een andere verhuurder in het kader van een renovatieproject, op voorwaarde dat de initiële huurovereenkomst in werking trad voor de datum, vermeld in het eerste lid.<br>
+In afwijking van het eerste lid wordt een huurovereenkomst gesloten voor onbepaalde duur als de huurder een nieuwe huurovereenkomst sluit ten gevolge van een verhuizing naar een andere sociale huurwoning van dezelfde verhuurder, of, in het kader van gedwongen herhuisvesting omwille van renovatie, aanpassing, sloop of verkoop, van een andere verhuurder, op voorwaarde dat de initiële huurovereenkomst gesloten werd voor de datum, vermeld in het eerste lid.<br>
 <br>
-Als een huurder met een initiële huurovereenkomst die gesloten is na de datum, vermeld in het eerste lid, een nieuwe huurovereenkomst sluit ten gevolge van een verhuizing naar een andere sociale huurwoning van dezelfde verhuurder, mag de duur van die laatste huurovereenkomst, vermeerderd met de duur van de initiële huurovereenkomst, niet langer zijn dan negen jaar of negen jaar, vermeerderd met een aangevatte verlengperiode, met dien verstande dat de nieuwe huurovereenkomst minimaal een duur van drie jaar heeft.<br>
+Als een huurder met een initiële huurovereenkomst die gesloten is na de datum, vermeld in het eerste lid, een nieuwe huurovereenkomst sluit ten gevolge van een verhuizing naar een andere sociale huurwoning van dezelfde verhuurder, is de duur van de nieuwe huurovereenkomst gelijk aan de resterende duur waarop de huurder nog recht had ingevolge de initiële en eventueel daaropvolgende huurovereenkomsten, met dien verstande dat de nieuwe huurovereenkomst minimaal een duur van drie jaar heeft. Paragraaf 3, vijfde lid, is vervolgens van toepassing.<br>
 <br>
-§ 3. De huurovereenkomst neemt een einde bij het verstrijken van de periode van negen jaar als het rekenkundig gemiddelde van het inkomen van de huurder, vermeld in artikel 2, § 1, eerste lid, 34°, dat in aanmerking wordt genomen bij de drie laatste jaarlijkse huurprijsaanpassingen 125% of meer bedraagt van de inkomensgrens die van toepassing is bij de drie laatste jaarlijkse huurprijsaanpassingen.<br>
-<br>
-In afwijking van het eerste lid wordt de duur van negen jaar eenmalig verlengd met drie jaar als er een huurder als vermeld in artikel 2, § 1, eerste lid, 34°, c), in de woning verblijft uitsluitend als de grens, vermeld in het eerste lid, bereikt of overschreden wordt door het in rekening brengen van zijn inkomen.<br>
-<br>
-In afwijking van het eerste en het tweede lid wordt de duur van de huurovereenkomst telkens met drie jaar verlengd als een huurder, vermeld in artikel 2, § 1, eerste lid, 34°, c), mantelzorg als vermeld in artikel 2, 11°, van het Woonzorgdecreet van 13 maart 2009, verleent aan of ontvangt van een huurder als vermeld in artikel 2, § 1, eerste lid, 34°, a) of b), uitsluitend als de grens, vermeld in het eerste lid, bereikt of overschreden wordt door het in rekening brengen van het inkomen van de huurder, vermeld in artikel 2, § 1, eerste lid, 34°, c).<br>
+§ 3. De huurovereenkomst neemt een einde bij het verstrijken van de periode van negen jaar als het rekenkundig gemiddelde van het inkomen van de huurder dat in aanmerking wordt genomen bij de drie laatste jaarlijkse huurprijsaanpassingen 125% of meer bedraagt van de inkomensgrens die van toepassing is bij de drie laatste jaarlijkse huurprijsaanpassingen.<br>
 <br>
 Als de voorwaarde, vermeld in het eerste lid, vervuld is, betekent de verhuurder een opzegging met een opzeggingstermijn van zes maanden waarvan de laatste dag samenvalt met de vervaldag van de huurovereenkomst.<br>
 <br>
 Als de voorwaarde, vermeld in het eerste lid, niet vervuld is, wordt de huurovereenkomst automatisch verlengd voor een duur van drie jaar. De huurovereenkomst wordt vervolgens telkens met drie jaar verlengd als de voorwaarde, vermeld in het eerste lid, niet vervuld is. Als de voorwaarde, vermeld in het eerste lid, vervuld is, betekent de verhuurder een opzegging met een opzeggingstermijn van zes maanden waarvan de laatste dag samenvalt met de vervaldag van een verlengde periode.<br>
 <br>
-De huurder, vermeld in artikel 2, § 1, eerste lid, 34°, a) of b), kan de verhuurder verzoeken om de opzegging in te trekken als:<br>
-1° hij aantoont dat het huidige inkomen van de huurder, vermeld in artikel 2, § 1, eerste lid, 34°, berekend over drie opeenvolgende maanden en geëxtrapoleerd naar twaalf maanden, die voorafgaan aan het moment van het ingaan van de opzeggingstermijn, onder het plafond van 125% ligt;<br>
+De huurder kan de verhuurder verzoeken om de opzegging in te trekken als:<br>
+1° hij aantoont dat zijn huidige inkomen, berekend over drie opeenvolgende maanden en geëxtrapoleerd naar twaalf maanden, die voorafgaan aan het moment van het ingaan van de opzeggingstermijn, onder het plafond van 125% ligt;<br>
 2° hij aantoont dat hij zijn pensioen heeft aangevraagd of de wettelijke pensioenleeftijd zal bereiken uiterlijk drie jaar na de vervaldag van de huurovereenkomst en dat hij ten gevolge van de pensionering een inkomen zal hebben dat onder het plafond van 125% ligt;<br>
 3° hij van oordeel is dat de intrekking van de opzegging billijk is wegens redenen die te maken hebben met woonbehoeftigheid.<br>
 <br>
@@ -1763,7 +1819,7 @@ Als de huurder geen onderbezette woning bewoont of hij krijgt geen aangepast aan
 <br>
 De huurder kan de verhuurder verzoeken om de opzegging in te trekken als de huurder van oordeel is dat de intrekking van de opzegging billijk is wegens redenen die te maken hebben met woonbehoeftigheid.<br>
 <br>
-§ 5. Als de verhuurder niet ingaat op het verzoek, vermeld in paragraaf 3, zesde lid, en paragraaf 4, derde lid, kan de huurder beroep instellen bij de toezichthouder. De Vlaamse Regering bepaalt de termijnen en de procedure voor het instellen van het verzoek tot intrekking van de opzegging en van het beroep.
+§ 5. Als de verhuurder niet ingaat op het verzoek, vermeld in paragraaf 3, vierde lid, en paragraaf 4, derde lid, kan de huurder beroep instellen bij de toezichthouder. De Vlaamse Regering bepaalt de termijnen en de procedure voor het instellen van het verzoek tot intrekking van de opzegging en van het beroep.
 
 ### ART 97ter.
 
@@ -1771,41 +1827,43 @@ De duur van de huurovereenkomst die een sociaal verhuurkantoor sluit met een huu
 
 ### ART. 98.
 
-§ 1. De huurovereenkomst wordt in de volgende gevallen van rechtswege ontbonden :<br>
-1° als de laatste huurder, vermeld in artikel 2, § 1, eerste lid, 34°, a) en b), overlijdt;<br>
-2° als de laatste huurder, vermeld in artikel 2, § 1, eerste lid, 34°, a) en b), de huurovereenkomst heeft opgezegd of de woning niet langer als hoofdverblijfplaats betrekt zonder de huurovereenkomst te hebben opgezegd.<br>
-3° als de laatste huurder, vermeld in artikel 2, § 1, eerste lid, 34°, a) en b), samen met zijn gezinsleden, ten gevolge van een verhuis naar een andere sociale huurwoning van dezelfde verhuurder, voor die woning een nieuwe huurovereenkomst sluit.<br>
+§ 1. De huurovereenkomst wordt van rechtswege beëindigd:<br>
+1° als de laatste huurder overlijdt;<br>
+2° ten aanzien van de huurder die de woning niet langer als hoofdverblijfplaats betrekt zonder de huurovereenkomst te hebben opgezegd, als er nog een andere huurder overblijft;<br>
+3° als de laatste huurder, samen met zijn gezinsleden, verhuist naar een andere sociale huurwoning van dezelfde verhuurder en voor die woning een nieuwe huurovereenkomst sluit.<br>
 <br>
-Als er bij een ontbinding als vermeld in het eerste lid, 1° en 2°, nog een huurder als vermeld in artikel 2, § 1, eerste lid, 34°, c), overblijft, vindt de ontbinding plaats op de laatste dag van de zesde maand die volgt op de datum waarop de verhuurder het overlijden of de opzegging van de laatste huurder, vermeld in artikel 2, § 1, eerste lid, 34°, a) en b), heeft vernomen of waarop de verhuurder heeft vastgesteld dat die huurder de woning niet langer als hoofdverblijfplaats betrekt zonder dat hij de huurovereenkomst heeft op gezegd. De verhuurder kan om billijkheidsredenen beslissen om de voormelde termijn te verlengen tot maximaal vijf jaar.<br>
+Als het eerste lid, 1°, van toepassing is, wordt de huurovereenkomst van rechtswege beëindigd op het einde van de tweede maand na het overlijden van de laatste huurder. Als er nog een of meer bewoners overblijven, hebben zij het recht om de woning tijdelijk te betrekken na de beëindiging van de huurovereenkomst tot de laatste dag van de zesde maand die volgt op de datum waarop de verhuurder het overlijden van de laatste huurder heeft vernomen. De verhuurder kan om billijkheidsredenen beslissen om de termijn van zes maanden te verlengen tot maximaal vijf jaar. Het is niet toegestaan dat er tijdens de afgesproken termijn extra personen in de sociale huurwoning komen wonen. De verhuurder sluit in dat geval een overeenkomst met de bewoner waarin de voorwaarden en de wederzijdse verbintenissen zijn opgenomen, zoals de vergoeding voor het bewonen, de indexatie, de waarborgregeling, de plaatsbeschrijving, het onderhoud en de herstellingen, de kosten en lasten, en de verzekeringen en aansprakelijkheden. De vergoeding voor het bewonen wordt op dezelfde wijze berekend als de huurprijs, rekening houdend met het inkomen, gezinssamenstelling en de kwaliteit van de sociale huurwoning, alsmede met de specificiteit van de verhuurder, vermeld in artikel 91, § 2.<br>
 <br>
-De huurder, vermeld in artikel 2, § 1, eerste lid, 34°, c), kan melden aan de verhuurder dat de ontbinding sneller moet plaatsvinden dan de termijnen, vermeld in het tweede lid, op voorwaarde dat hij dat ten minste drie maanden voor de gewenste datum van ontbinding van de huurovereenkomst aan de verhuurder meldt en er minimaal drie maanden verlopen tussen de eerste dag van de maand die volgt op de datum van het overlijden, de opzegging of de vaststelling dat de huurwoning niet meer als hoofdverblijfplaats wordt betrokken, en de ontbinding van de huurovereenkomst. Het is niet toegestaan dat er tijdens de termijn in afwachting van de ontbinding van de huurovereenkomst extra personen in de sociale huurwoning komen wonen.<br>
+Als het eerste lid, 2°, van toepassing is, wordt de huurovereenkomst van rechtswege beëindigd op de eerste dag van de tweede maand die volgt op de maand waarin de overblijvende huurder de verhuurder op de hoogte heeft gebracht van het feit dat de andere huurder de woning niet meer als hoofdverblijfplaats betrekt. Als het adres bekend is, brengt de verhuurder de huurder die de woning niet meer als hoofdverblijfplaats betrekt, onmiddellijk op de hoogte van de verklaring van de overblijvende huurder en van de mogelijkheid om de feiten te weerleggen binnen de termijn die hij vastlegt, maar in ieder geval voordat de huurovereenkomst wordt beëindigd.<br>
 <br>
-Als het eerste lid, 1°, van toepassing is en er blijft geen huurder als vermeld in artikel 2, § 1, eerste lid, 34°, c), over, vindt de ontbinding plaats op de eerste dag van de maand die volgt op datum van het overlijden.<br>
+Als het eerste lid, 3°, van toepassing is, wordt de huurovereenkomst beëindigd op het moment dat de nieuwe huurovereenkomst ingaat.<br>
 <br>
-Als de huurovereenkomst opgezegd is conform artikel 97bis, § 3 en § 4, geldt in afwijking van het tweede lid als datum van beëindiging van de huurovereenkomst de vervaldag van de huurovereenkomst of van de verlenging van de huurovereenkomst.<br>
+§ 2. Een huurder kan de huurovereenkomst op elk moment opzeggen met een aangetekende brief. De opzegging geldt enkel voor de huurder.<br>
 <br>
-De Vlaamse Regering bepaalt onder welke voorwaarden een huurovereenkomst van rechtswege wordt ontbonden ten aanzien van de huurder die de sociale huurwoning niet langer als hoofdverblijfplaats betrekt en die geen opzegging heeft gegeven.<br>
+Voor de laatste huurder die de huurovereenkomst opzegt, geldt een opzeggingstermijn van drie maanden, voor de andere huurder die de huurovereenkomst opzegt, geldt geen opzeggingstermijn.<br>
 <br>
-Als het eerste lid, 3°, van toepassing is, vindt de ontbinding plaats op het moment dat de nieuwe huurovereenkomst ingaat.<br>
-<br>
-§ 2. Een huurder kan te allen tijde de huurovereenkomst opzeggen met een aangetekende brief. De opzegging geldt enkel in zijn hoofde.<br>
-<br>
-Voor de laatste huurder, vermeld in artikel 2, § 1, eerste lid, 34°, a) en b), die de huurovereenkomst opzegt, geldt een opzeggingstermijn van drie maanden, voor de andere huurders die de huurovereenkomst opzeggen, geldt geen opzeggingstermijn. De opzeggingstermijn begint te lopen op de eerste dag van de maand die volgt op de maand waarin de opzegging werd gegeven.<br>
-<br>
-In afwijking van het tweede lid geldt voor de laatste huurder, vermeld in artikel 2, § 1, eerste lid, 34°, a) en b), een opzeggingstermijn van een maand als hij opgenomen wordt in een woonzorgcentrum als vermeld in artikel 37 van het Woonzorgdecreet van 13 maart 2009 of in een voorziening met residentiële opvang als bepaald door de Vlaamse Regering.<br>
+In afwijking van het tweede lid geldt voor de laatste huurder een opzeggingstermijn van een maand in de volgende gevallen:<br>
+1° hij wordt opgenomen in een woonzorgcentrum als vermeld in artikel 33 van het Woonzorgdecreet van 15 februari 2019;<br>
+2° hij maakt gebruik van woonondersteuning bij een aanbieder van niet rechtstreeks toegankelijke zorg of ondersteuning als bepaald door de Vlaamse Regering.<br>
 <br>
 § 3. Met behoud van de toepassing van artikel 97bis kan de verhuurder de huurovereenkomst opzeggen in de hierna vermelde gevallen :<br>
 1° als de huurder van een sociale huurwoning niet meer voldoet aan de voorwaarden, gesteld overeenkomstig artikel 96, § 1;<br>
-2° bij een ernstige of blijvende tekortkoming van de huurder van een sociale huurwoning met betrekking tot zijn verplichtingen, met uitzondering van de verplichting, vermeld in artikel 92, § 3, eerste lid, 6° en 7°. Een inbreuk van de bepalingen, vermeld in artikel 92, § 3, eerste lid, 1°, 2° en 9°, wordt gelijkgesteld met een ernstige tekortkoming;<br>
+2° bij een ernstige of blijvende tekortkoming van de huurder van een sociale huurwoning met betrekking tot zijn verplichtingen, met uitzondering van de verplichting, vermeld in artikel 92, § 3, eerste lid, 6° en 7°. Een inbreuk van de bepalingen, vermeld in artikel 92, § 3, eerste lid, 1°, 2°, 3°&nbsp;en 9°, wordt gelijkgesteld met een ernstige tekortkoming;<br>
 3° als de huurder ingevolge onjuiste of onvolledige verklaringen, afgelegd te kwader trouw, onrechtmatig voordelen, verleend bij de bepalingen van deze titel, heeft genoten of onrechtmatig tot een sociale huurwoning is toegelaten.<br>
 <br>
-De opzeggingstermijn bedraagt zes maanden. In de gevallen, vermeld in het eerste lid, 2° en 3°, bedraagt de opzeggingstermijn drie maanden.<br>
-<br>
-Als de tekortkoming, vermeld in het eerste lid, 2°, het gevolg is van het feit dat de huurder van een sociale huurwoning onvermogend is, dan kan de huurovereenkomst alleen beëindigd worden na overleg met het OCMW.
+De opzeggingstermijn bedraagt zes maanden. In de gevallen, vermeld in het eerste lid, 2° en 3°, bedraagt de opzeggingstermijn drie maanden.
 
 ### ART. 99.
 
-§ 1. De Vlaamse Regering bepaalt de wijze van berekening en aanpassing van de te betalen huurprijs, rekening houdend met het gezinsinkomen, gezinssamenstelling en de kwaliteit van de sociale huurwoning, alsmede met de specificiteit van de verhuurder zoals bepaald in artikel 91, § 2.<br /><br />§ 2. ...<br /><br />§ 3. Voor het gebruik van ruimten die van de woning afgezonderd zijn, kan een huurprijs worden aangerekend waarvoor de regeling van § 1 niet geldt.<br /><br />§ 4. De verhuurder informeert de huurder jaarlijks over de manier waarop het te betalen bedrag wordt berekend en geeft, op eenvoudig verzoek van de huurder, de noodzakelijke toelichting.<br /><br />§ 5. Als de verhuurder een subsidie voor de verhuring krijgt met toepassing van artikel 72, eerste lid, 3°, en die subsidie verleend wordt met het oog op een huurvermindering die niet wegens gezinslast wordt toegekend, heeft dat geen invloed op de huurprijsberekening, vastgesteld in § 1.
+§ 1. De Vlaamse Regering bepaalt de wijze van berekening en aanpassing van de te betalen huurprijs, rekening houdend met het gezinsinkomen, gezinssamenstelling en de kwaliteit van de sociale huurwoning, alsmede met de specificiteit van de verhuurder zoals bepaald in artikel 91, § 2.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. Voor het gebruik van ruimten die van de woning afgezonderd zijn, kan een huurprijs worden aangerekend waarvoor de regeling van § 1 niet geldt.<br>
+<br>
+§ 4. ...<br>
+<br>
+§ 5. Als de verhuurder een subsidie voor de verhuring krijgt met toepassing van artikel 72, eerste lid, 3°, en die subsidie verleend wordt met het oog op een huurvermindering die niet wegens gezinslast wordt toegekend, heeft dat geen invloed op de huurprijsberekening, vastgesteld in § 1.
 
 ## HOOFDSTUK II SPECIFIEKE BEPALINGEN
 
@@ -1837,11 +1895,11 @@ De administratieve maatregelen kunnen de vorm aannemen van een bevel of een feit
 <br>
 De Vlaamse Regering kan de nadere regels bepalen inzake de vorm en de inhoud van de administratieve maatregelen.<br>
 <br>
-§ 2. De toezichthouders, vermeld in artikel 29bis, zijn bevoegd voor de controle op de naleving van de verplichtingen, opgelegd op basis van deze titel en op basis van de uitvoeringsbesluiten die genomen zijn ter uitvoering van deze titel, alsook voor het opleggen van de administratieve geldboetes. De ambtenaren die met toepassing van artikel 20, § 2, door de Vlaamse Regering zijn aangewezen als wooninspecteur of als ambtenaar met opsporings- en vaststellingsbevoegdheid, zijn bevoegd voor de controle op de naleving van de verplichtingen, vermeld in artikel 92, § 3, eerste lid, 1° en 2°. De ambtenaren, vermeld in artikel 20, § 2, en 29bis, kunnen aan de betrokkenen alle gegevens en inlichtingen vragen die nodig zijn voor de uitoefening van hun taken. Zonder afbreuk te doen aan de rechten van verdediging, moet de betrokkene aan wie een vraag is gericht om gegevens en inlichtingen te verstrekken, binnen de door de bevoegde ambtenaren bepaalde redelijke termijn alle medewerking verlenen.<br>
+§ 2. De toezichthouders, vermeld in artikel 29bis, zijn bevoegd voor de controle op de naleving van de verplichtingen, opgelegd op basis van deze titel en op basis van de uitvoeringsbesluiten die genomen zijn ter uitvoering van deze titel, alsook voor het opleggen van de administratieve geldboetes. De ambtenaren die met toepassing van artikel 20, § 2, door de Vlaamse Regering zijn aangewezen als wooninspecteur of als ambtenaar met opsporings- en vaststellingsbevoegdheid, zijn bevoegd voor de controle op de naleving van de verplichtingen, vermeld in artikel 92, § 3, eerste lid, 1°, 2°&nbsp;en 3°. De ambtenaren, vermeld in artikel 20, § 2, en 29bis, kunnen aan de betrokkenen alle gegevens en inlichtingen vragen die nodig zijn voor de uitoefening van hun taken. Zonder afbreuk te doen aan de rechten van verdediging, moet de betrokkene aan wie een vraag is gericht om gegevens en inlichtingen te verstrekken, binnen de door de bevoegde ambtenaren bepaalde redelijke termijn alle medewerking verlenen.<br>
 <br>
 Deze ambtenaren krijgen voor de uitoefening van die bevoegdheid de hoedanigheid van officier van gerechtelijke politie.<br>
 <br>
-§ 3. Een administratieve geldboete kan worden opgelegd aan de huurder van een sociale huurwoning die een verplichting als vermeld in artikel 92, § 3, niet naleeft. De administratieve geldboete kan alleen worden opgelegd als de huurder na ingebrekestelling en aanmaning om zijn verplichtingen binnen de opgelegde termijn na te komen, verzuimt om dat te doen. In afwijking daarvan kan voor een inbreuk op de verplichtingen, vermeld in artikel 92, § 3, eerste lid, 1°, 2° en 9°, ook nog een administratieve geldboete worden opgelegd, ook al is de inbreuk al beëindigd. Als de toezichthouder een administratieve geldboete heeft opgelegd, zal hij als dat nodig is een nieuwe redelijke termijn bepalen waarbinnen de huurdersverplichting alsnog moet zijn nagekomen. De Vlaamse Regering kan de maximale termijn bepalen.<br>
+§ 3. Een administratieve geldboete kan worden opgelegd aan de huurder van een sociale huurwoning die een verplichting als vermeld in artikel 92, § 3, niet naleeft. De administratieve geldboete kan alleen worden opgelegd als de huurder na ingebrekestelling en aanmaning om zijn verplichtingen binnen de opgelegde termijn na te komen, verzuimt om dat te doen. In afwijking daarvan kan voor een inbreuk op de verplichtingen, vermeld in artikel 92, § 3, eerste lid, 1°, 2°, 3°&nbsp;en 9°, ook nog een administratieve geldboete worden opgelegd, ook al is de inbreuk al beëindigd. Als de toezichthouder een administratieve geldboete heeft opgelegd, zal hij als dat nodig is een nieuwe redelijke termijn bepalen waarbinnen de huurdersverplichting alsnog moet zijn nagekomen. De Vlaamse Regering kan de maximale termijn bepalen.<br>
 <br>
 De administratieve geldboete mag niet lager zijn dan 25 euro en niet hoger dan 5000 euro. Bij het opleggen van de administratieve geldboete mag er geen kennelijke wanverhouding bestaan tussen de feiten die aan de administratieve geldboete ten grondslag liggen, en de boete die op grond van die feiten wordt opgelegd.<br>
 <br>
@@ -1879,7 +1937,7 @@ Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot of met een aangete
 Op het dwangbevel zijn de bepalingen van toepassing van het vijfde deel van het Gerechtelijk Wetboek houdende bewarend beslag en middelen tot tenuitvoerlegging.<br>
 <br>
 § 9. Met behoud van de toepassing van de strafbepalingen van artikelen 269 tot 274 van het Strafwetboek wordt een persoon gestraft met :<br>
-1° een gevangenisstraf van acht dagen tot drie maanden of een werkstraf met een maximale duur van 250 uren of met een geldboete van 26 tot 500 euro als hij de verplichtingen, vermeld in artikel 92, § 3, eerste lid, 1° of 2°, niet nakomt;<br>
+1° een gevangenisstraf van acht dagen tot drie maanden of een werkstraf met een maximale duur van 250 uren of met een geldboete van 26 tot 500 euro als hij de verplichtingen, vermeld in artikel 92, § 3, eerste lid, 1°, 2°&nbsp;of 3°, niet nakomt;<br>
 2° een gevangenisstraf van acht dagen tot één jaar of een werkstraf met een maximale duur van 250 uren of met een geldboete van 1.000 tot 5.000 euro, als hij, het krachtens hoofdstuk III van titel VII en de uitvoeringsbesluiten ervan geregelde toezicht verhindert.
 
 ## TITEL VIII OPHEFFINGS-, OVERGANGS- EN SLOTBEPALINGEN
