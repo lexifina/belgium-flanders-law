@@ -78,7 +78,7 @@ Het agentschap kan in de volgende gevallen beslissen om de vergunning op te heff
 
 ### ART. 7.
 
-Het agentschap&nbsp;beslist tot terugvordering van de subsidie overeenkomstig artikel 57 van het Rekendecreet, artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, en artikel 18 van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring.
+Het agentschap&nbsp;beslist tot terugvordering van de subsidie overeenkomstig artikel 75 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, en artikel 76 van het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019.
 
 ## Afdeling 5 Beslissing tot vermindering van de subsidie
 
