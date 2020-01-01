@@ -20,12 +20,12 @@
 
 ### ART. 1.
 
-De digitale rapportering van de gegevens van de vastgestelde   beleidsrapporten van de beleids- en beheerscyclus, vermeld in artikel 10, eerste   lid, van het besluit van de Vlaamse Regering van 25 juni 2010 betreffende de   beleids- en beheerscyclus van de gemeenten, de provincies en de openbare centra   voor maatschappelijk welzijn, van de gegevens van het ontwerp van de   jaarrekening, vermeld in artikel 10, derde lid, van het voormelde besluit, en   van de kwartaalrapportering, vermeld in artikel 104/1 van het voormelde besluit   bevat de gegevens van de inschrijvingen in de dagboeken, vermeld in artikel 105   en 106 van het voormelde besluit, van de aanrekeningen, vermeld in artikel 108   van het voormelde besluit, en van de boekingen, vermeld in artikel 112 van het   voormelde besluit, in het formaat zoals beschreven in de technische voorwaarden   die kunnen worden geraadpleegd op de website van het Agentschap voor Binnenlands   Bestuur.<BR>
+...
 
 ### ART. 2.
 
-<P>De digitale rapportering, vermeld in artikel 1, kan worden aangeleverd op het   digitale loket op de website van het Agentschap voor Binnenlands   Bestuur.<BR></P>  <P>De digitale rapportering kan ook rechtstreeks worden aangeleverd vanuit de   lokale applicaties, als voldaan wordt aan de technische voorwaarden die kunnen   worden geraadpleegd op de website van het Agentschap voor Binnenlands   Bestuur.<BR></P>
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking op het ogenblik dat het besluit van de   Vlaamse Regering van 25 juni 2010 betreffende de beleids- en beheerscyclus van   de gemeenten, de provincies en de openbare centra voor maatschappelijk welzijn   in werking treedt.<BR>
+...
