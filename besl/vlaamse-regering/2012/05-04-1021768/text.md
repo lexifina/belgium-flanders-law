@@ -47,7 +47,7 @@ In dit besluit wordt verstaan onder :<br>
 9° /4 overbewoond verklaarde woning: de woning die overeenkomstig artikel 17 van de Vlaamse Wooncode overbewoond is verklaard;<br>
 10° potentieel rechthebbende : de kandidaat-huurder die op basis van de gegevens waarover het agentschap of de sociale huisvestingsmaatschappij beschikt, op korte termijn blijkt te kunnen voldoen aan de voorwaarden, vermeld in dit besluit;<br>
 11° rechthebbende : de kandidaat-huurder die minstens vier jaar ingeschreven is in het inschrijvingsregister en die voldoet aan de voorwaarden, vermeld in dit besluit;<br>
-12° referentiebestand: het uittreksel uit het actualisatiebestand dat alle kandidaat-huurders bevat van wie het inkomen, rekening houdende met het aantal personen ten laste conform het Kaderbesluit Sociale Huur van 12 oktober 2007, de grenzen vermeld in artikel 3, § 2 van het Kaderbesluit Sociale Huur van 12 oktober 2007, niet overschrijdt;<br>
+12° referentiebestand: het uittreksel uit het actualisatiebestand dat alle kandidaat-huurders bevat van wie het inkomen, rekening houdende met het aantal personen ten laste conform het Kaderbesluit Sociale Huur van 12 oktober 2007, de grenzen vermeld in artikel 3, §&nbsp;3 van het Kaderbesluit Sociale Huur van 12 oktober 2007, niet overschrijdt;<br>
 13° Kaderbesluit Sociale Huur van 12 oktober 2007: het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociaal huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode;<br>
 14° sociale huisvestingsmaatschappij : een sociale huisvestingsmaatschappij als vermeld in artikel 2, § 1, eerste lid, 20°, van de Vlaamse Wooncode;<br>
 15° startdatum: de jongste van de volgende data waarop het recht op tegemoetkoming ontstaat:<br>
@@ -60,7 +60,6 @@ d) de eerste dag van de maand waarin de kandidaat-huurder een andere woning huur
 18° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30 van de Vlaamse Wooncode.<br>
 <br>
 De VMSW bezorgt het agentschap een lijst waarop per gemeente de sociale huisvestingsmaatschappij of -maatschappijen vermeld zijn, die voor de kandidaat-huurder als domiciliemaatschappij kunnen beschouwd worden. Die lijst wordt bij elke wijziging van een werkgebied geactualiseerd.<br>
-<br>
 &nbsp;
 
 ## HOOFDSTUK 2 De tegemoetkoming voor kandidaat-huurders
@@ -235,7 +234,7 @@ De tegemoetkoming wordt stopgezet :<br>
 3° zodra de uitbetaling van de tegemoetkoming negen maanden opgeschort is met toepassing van artikel 8, eerste lid punt 3° ;<br>
 4° zodra de rechthebbende met behoud van de toepassing van artikel 12, § 1, vierde lid, van het Kaderbesluit Sociale Huur van 12 oktober 2007, het aanbod weigert van een sociale huurwoning die beantwoordt aan zijn voorkeur als vermeld in artikel 10 van het Kaderbesluit Sociale Huur van 12 oktober 2007;<br>
 5° zodra wordt vastgesteld dat de kandidaat-huurder niet voldoet aan de eigendomsvoorwaarde vermeld in artikel 3 van het Kaderbesluit Sociale huur van 12 oktober 2007;<br>
-6° zodra het inkomen van de kandidaat-huurder, vermeerderd met het inkomen van de inwonende gezinsleden, bij de jongste herberekening de grenzen, vermeld in artikel 3, § 2 van het Kaderbesluit Sociale Huur van 12 oktober 2007, overschrijdt;<br>
+6° zodra het inkomen van de kandidaat-huurder, vermeerderd met het inkomen van de inwonende gezinsleden, bij de jongste herberekening de grenzen, vermeld in artikel 3, §&nbsp;3 van het Kaderbesluit Sociale Huur van 12 oktober 2007, overschrijdt;<br>
 7° als de huurprijs na een verhuizing hoger blijkt te zijn dan het maximum, vermeld in artikel 2, vierde lid, 4°.<br>
 <br>
 Sociale huisvestingsmaatschappijen, vullen binnen een maand de data die betrekking hebben op de feiten, vermeld in het eerste lid, aan in het referentiebestand. Het agentschap brengt de huisvestingsmaatschappijen in kwestie en het OCMW op de hoogte van de stopzettingen.<br>
