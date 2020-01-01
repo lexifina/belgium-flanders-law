@@ -131,6 +131,18 @@ De adoptiedienst begeleidt de kandidaat-adoptant doorheen de adoptieprocedure en
 3° de begeleiding van de kandidaat-adoptant bij het samenstellen van het dossier dat verzonden moet worden naar het herkomstland. Dat dossier bevat de stukken, vermeld in artikel 361-2 van het Burgerlijk Wetboek, en alle stukken die zijn vereist door het herkomstland;<br>
 4° de begeleiding van de kandidaat-adoptant tijdens de wachttijd door hem regelmatig te informeren over de situatie in het herkomstland en de voortgang van de procedure.
 
+### ART 16/1.
+
+Het rapport, vermeld in artikel 361-2/1 van het Oud Burgerlijk Wetboek, wordt overeenkomstig artikel 15, § 2, 10° van het decreet van 20 januari 2012, opgesteld door de adoptiedienst. Het is inhoudelijk gebaseerd op het verslag, vermeld in artikel 1231-1/4, tweede lid, van het Gerechtelijk Wetboek.<br>
+<br>
+Het Vlaams Centrum voor Adoptie superviseert de opmaak van het rapport door de adoptiedienst vermeld in het eerste lid. Als dit rapport op geen enkel punt afwijkt van het verslag, vermeld in artikel 1231-1/4, tweede lid, van het Gerechtelijk Wetboek, wordt het geacht te zijn goedgekeurd door het Vlaams Centrum voor Adoptie.<br>
+<br>
+Als de adoptiedienst en het Vlaams Centrum voor Adoptie bij de opmaak van dit rapport, van oordeel zijn dat inhoudelijk moet worden afgeweken van het verslag, vermeld in artikel 1231-1/4, tweede lid, van het Gerechtelijk Wetboek, omdat dat belangrijk kan zijn bij de indiening van het ouderdossier in het herkomstland, overlegt de adoptiedienst daarover met de dienst voor maatschappelijk onderzoek, vermeld in artikel 11 van het decreet van 20 januari 2012. In voorkomend geval kan het rapport pas worden ingediend bij het herkomstland nadat het Vlaams Centrum voor Adoptie daarvoor zijn goedkeuring heeft gegeven.<br>
+<br>
+De medische toestand van de kandidaat-adoptant wordt beschreven door een arts naar keuze en is inhoudelijk gebaseerd op de bevindingen van de arts in de medische checklist, waarvan het Vlaams Centrum voor Adoptie een model ter beschikking stelt van de adoptiedienst.<br>
+<br>
+Het Vlaams centrum voor Adoptie stelt een model van rapport ter beschikking van de adoptiedienst.
+
 ### ART. 17.
 
 Na de ontvangst van de stukken, vermeld in artikel 361-3, 2° van het Burgerlijk Wetboek, motiveert het multidisciplinaire team van de adoptiedienst, vermeld in artikel 31 van dit besluit, aan het Vlaams Centrum voor Adoptie waarom het kind wordt toegewezen aan een specifieke kandidaat-adoptant. Nadat de bevoegde instantie in het herkomstland en het Vlaams Centrum voor Adoptie de toewijzing van het kind aan de kandidaat-adoptant goedgekeurd hebben, licht de adoptiedienst de kandidaat-adoptant in. De adoptiedienst overloopt het verslag over het kind met de kandidaat-adoptant. De kandidaat-adoptant kan het advies van deskundigen inwinnen voor hij beslist om het toegewezen kind te aanvaarden<br>
@@ -261,7 +273,7 @@ Om de kwaliteit van de dienstverlening te garanderen en te bestendigen   voldoen
 
 <p>Het agentschap houdt daarbij rekening met de bepalingen van artikel 75.</p>
 
-<p>§ 2. De erkende adoptiediensten ontvangen binnen het beschikbare begrotingskrediet jaarlijks een basissubsidie voor personeels- en werkingskosten van 308.035,66&nbsp;euro.<br>
+<p>§ 2. De erkende adoptiediensten ontvangen binnen het beschikbare begrotingskrediet jaarlijks een basissubsidie voor personeels- en werkingskosten van 313.480,46&nbsp;euro.<br>
 <br>
 De basissubsidie wordt, binnen het jaarlijks beschikbaar begrotingskrediet, vermeerderd met:<br>
 1° 3000 euro per voorlopig goedgekeurd kanaal, vermeld in artikel 9, § 1, gedurende de eerste drie jaar na goedkeuring door het Vlaams Centrum voor Adoptie, op voorwaarde dat bij herkomstlanden waar een accreditatie vereist is, die ook verkregen is;<br>
