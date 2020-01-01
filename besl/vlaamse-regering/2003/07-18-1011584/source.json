@@ -2,16 +2,16 @@
   "codex_id": 1011584,
   "title": "Besluit van de Vlaamse Regering van 2003-07-18 betreffende de taxidiensten en de diensten voor het verhuren van voertuigen met bestuurder",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011584/VolledigDocument?datum=2011-07-01",
-  "source_sha256": "667bb92a66fa57ebe5ab9defbf1ab470db7fe44f250290417ed75f5a48df7375",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011584/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "4aaa2b708120d6b872485d44c997f527ec47bf3526ed9e85ec4a49bb7dd5bcf7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011584&param=informatie",
-  "as_of": "2011-07-01",
+  "as_of": "2020-01-01",
   "made": "2003-07-18",
   "gazette": "2003-09-19",
   "numac": 2003200915,
   "document_start": "2004-06-01",
   "document_end": "2019-12-31",
-  "in_force": "2011-07-01",
+  "in_force": "2020-01-01",
   "article_versions": 103,
-  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
