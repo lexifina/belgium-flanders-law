@@ -92,7 +92,26 @@ In dit decreet wordt verstaan onder:<BR>1° activeringstraject: het werk-   en z
 
 ### ART. 10.
 
-<P>§ 1. De Vlaamse Regering mandateert welzijns- en zorgvoorzieningen met de   functie van casemanager Zorg.<BR></P>  <P>De mandaatvoorwaarden zijn:<BR>1° het gaat om een van de volgende welzijns-   en zorgvoorzieningen:<BR>a) een centrum voor algemeen welzijnswerk;<BR>b) een   dienst maatschappelijk werk van het ziekenfonds, erkend conform het   Woonzorgdecreet van 13 maart 2009;<BR>c) een centrum voor geestelijke   gezondheidszorg;<BR>d) een initiatief voor beschut wonen;<BR>e) een   psychiatrisch ziekenhuis;<BR>f) een psychiatrische afdeling van een algemeen   ziekenhuis;<BR>g) een welzijns- en zorgvoorziening, erkend door het VAPH of het   agentschap Jongerenwelzijn, om ondersteuning te bieden;<BR>h) een   revalidatiecentrum;<BR>i) een OCMW;<BR>2° de welzijns- en zorgvoorziening,   vermeld in punt 1°, a) tot en met i), heeft voor het casemanagement Zorg een of   meerdere medewerkers ter beschikking die over professionele deskundigheid   beschikken en zorgt ervoor dat de continuïteit van het casemanagement Zorg ten   aanzien van de deelnemer verzekerd is.<BR></P>  <P>De Vlaamse Regering bepaalt wat onder professionele deskundigheid, vermeld in   § 1, tweede lid, 2°, wordt verstaan.<BR></P>  <P>De Vlaamse Regering kan aanvullende mandaatvoorwaarden bepalen.<BR></P>  <P>§ 2. De Vlaamse Regering bepaalt de procedure voor de aanvraag, goedkeuring   en toekenning van het mandaat en bepaalt de duur ervan.<BR></P>
+<p>§ 1. De Vlaamse Regering mandateert welzijns- en zorgvoorzieningen met de functie van casemanager Zorg.</p>
+
+<p>De mandaatvoorwaarden zijn:<br>
+1° het gaat om een van de volgende welzijns- en zorgvoorzieningen:<br>
+a) een centrum voor algemeen welzijnswerk;<br>
+b) een dienst maatschappelijk werk van het ziekenfonds, erkend conform het Woonzorgdecreet van 15 februari 2019 ;<br>
+c) een centrum voor geestelijke gezondheidszorg;<br>
+d) een initiatief voor beschut wonen;<br>
+e) een psychiatrisch ziekenhuis;<br>
+f) een psychiatrische afdeling van een algemeen ziekenhuis;<br>
+g) een welzijns- en zorgvoorziening, erkend door het VAPH of het agentschap Jongerenwelzijn, om ondersteuning te bieden;<br>
+h) een revalidatiecentrum;<br>
+i) een OCMW;<br>
+2° de welzijns- en zorgvoorziening, vermeld in punt 1°, a) tot en met i), heeft voor het casemanagement Zorg een of meerdere medewerkers ter beschikking die over professionele deskundigheid beschikken en zorgt ervoor dat de continuïteit van het casemanagement Zorg ten aanzien van de deelnemer verzekerd is.</p>
+
+<p>De Vlaamse Regering bepaalt wat onder professionele deskundigheid, vermeld in § 1, tweede lid, 2°, wordt verstaan.</p>
+
+<p>De Vlaamse Regering kan aanvullende mandaatvoorwaarden bepalen.</p>
+
+<p>§ 2. De Vlaamse Regering bepaalt de procedure voor de aanvraag, goedkeuring en toekenning van het mandaat en bepaalt de duur ervan.</p>
 
 ### ART. 11.
 
