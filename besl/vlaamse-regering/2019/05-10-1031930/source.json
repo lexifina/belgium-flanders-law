@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031930,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-10 tot wijziging van het Financieringsbesluit, het besluit van de Vlaamse Regering van 18 oktober 2013 tot reglementering van de verhuring van bescheiden huurwoningen van sociale huisvestingsmaatschappijen en het besluit van de Vlaamse Regering van 7 december 2018 tot instelling van een huurwaarborglening",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031930/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "86dbc27724cfb7ea199de26078bf5e69fbf1693ece1c0ad7874d6c3311d463a5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031930&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2019-05-10",
+  "gazette": "2019-07-22",
+  "numac": 201041343,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
