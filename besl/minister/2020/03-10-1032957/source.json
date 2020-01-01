@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032957,
+  "title": "Ministerieel besluit van 2020-03-10 tot wijziging van diverse ministeriële besluiten betreffende de erkenning en subsidiëring van aanbodsvormen preventieve gezinsondersteuning",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032957/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "35a97504938ef53b2bd97ed719cb8d300785856ba77449ee962f33da8fee2c62",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032957&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2020-03-10",
+  "gazette": "2020-05-04",
+  "numac": 2020010373,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
