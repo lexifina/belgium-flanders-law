@@ -70,7 +70,7 @@ In artikel 18 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderw
 
 ### ART. 14.
 
-§ 1. Er wordt een 'Vlaams Klimaatfonds' opgericht, hierna 'genoemd het Fonds'. Het Fonds is een begrotingsfonds, in de zin van artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
+§ 1. Er wordt een 'Vlaams Klimaatfonds' opgericht, hierna 'genoemd het Fonds'. Het Fonds is een begrotingsfonds, als vermeld in&nbsp;artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
 <br>
 § 2. Met betrekking tot de Kyotoperiode worden aan het Fonds de volgende inkomsten toegewezen :<br>
 - de opbrengsten uit de veiling van emissierechten uit de toewijzingsreserve voor de eerste verbintenisperiode, zoals bedoeld in het besluit van de Vlaamse Regering van 7 december 2007 inzake verhandelbare emissierechten voor broeikasgassen;<br>
@@ -94,7 +94,7 @@ In artikel 18 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderw
 - de remediëring van competitiviteitsverlies bij de Vlaamse bedrijven ten gevolge van Europees of internationaal klimaatbeleid;<br>
 - alle beleidskosten die verband houden met de voorbereiding, organisatie of bijdragen in het kader van klimaatveilingen.<br>
 <br>
-Ter uitvoering hiervan is het voor het Fonds in afwijking van het Rekendecreet toegestaan om middelen te storten richting AGION, het GO! en andere begrotingsfondsen binnen de Vlaamse overheid, én worden deze begrotingsfondsen gemachtigd om deze middelen te ontvangen vanuit het Vlaams Klimaatfonds. De Vlaamse Regering wordt gemachtigd om hiertoe de passende begrotingsartikelen te creëren.<br>
+Ter uitvoering hiervan is het voor het Fonds in afwijking van artikel 15, §3, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 toegestaan om middelen te storten richting AGION, het GO! en andere begrotingsfondsen binnen de Vlaamse overheid, én worden deze begrotingsfondsen gemachtigd om deze middelen te ontvangen vanuit het Vlaams Klimaatfonds. De Vlaamse Regering wordt gemachtigd om hiertoe de passende begrotingsartikelen te creëren.<br>
 <br>
 § 6. De Vlaamse Regering beschikt over de kredieten van het Fonds voor de financiering van de onder paragraaf 3 en paragraaf 5 vermelde taken.
 
@@ -180,7 +180,9 @@ In artikel 212ter van hetzelfde wetboek worden de volgende wijzigingen aangebrac
 
 ### ART. 30.
 
-Er wordt een dienst met afzonderlijk beheer opgericht, zoals bedoeld in   artikel 3 van het decreet van 8 juli 2011 houdende de regeling van de begroting,   de boekhouding, de toekenning van subsidies en de controle op de aanwending   ervan, en de controle door het Rekenhof met als naam DAB Audit Vlaanderen die   belast wordt met het uitvoeren van auditopdrachten.<BR><BR>De Vlaamse Regering   bepaalt de organieke regels die van toepassing zijn op het financieel en   materieel beheer van de dienst met afzonderlijk beheer Audit   Vlaanderen.
+Er wordt een dienst met afzonderlijk beheer opgericht, als vermeld in artikel 109 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 met als naam DAB Audit Vlaanderen die belast wordt met het uitvoeren van auditopdrachten.<br>
+<br>
+De Vlaamse Regering bepaalt de organieke regels die van toepassing zijn op het financieel en materieel beheer van de dienst met afzonderlijk beheer Audit Vlaanderen.
 
 ## HOOFDSTUK 14. Slotbepalingen
 
