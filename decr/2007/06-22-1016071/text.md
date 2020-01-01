@@ -158,7 +158,7 @@ De Vlaamse Regering kan de voorwaarden voor de financiering, vermeld in het eers
 
 ### ART. 16.
 
-De bepalingen van het decreet van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen worden opgelegd zijn van toepassing op deze titel.
+...
 
 ### ART. 16/1.
 
@@ -174,13 +174,7 @@ De bepalingen van het decreet van 15 juli 2011 houdende vaststelling van de alge
 
 ### ART. 16/4.
 
-Gemeenten van het tweetalige gebied Brussel-Hoofdstad komen, wat de gemeenschapsaangelegenheden betreft, in aanmerking voor subsidiëring in het kader van het Vlaamse beleid inzake gemeentelijke ontwikkelingssamenwerking. De Vlaamse Regering bepaalt de nadere regels daarvoor.<br>
-<br>
-De gemeentelijke ontwikkelingssamenwerking heeft als doel:<br>
-1° de gemeente aan te moedigen om ontwikkelingssamenwerking op te nemen in het reguliere gemeentelijke beleid;<br>
-2° een brede sensibilisering voor gemeentelijke ontwikkelingssamenwerking en de Noord-Zuidproblematiek binnen de gemeente te bewerkstelligen.<br>
-<br>
-De Vlaamse Regering bepaalt de Vlaamse beleidsprioriteiten voor het beleid gemeentelijke ontwikkelingssamenwerking binnen het kader van de doelstellingen, vermeld in het tweede lid. De Vlaamse Regering bepaalt de procedure voor de beoordeling en de goedkeuring van de aanvragen.
+...
 
 ### ART. 16/5.
 
@@ -229,7 +223,7 @@ Met het oog op de verwezenlijking van de doelstelling, vermeld in artikel 3, § 
 
 &nbsp;§ 1. Er wordt een fonds voor de ondersteuning van inclusieve financiering in&nbsp;ontwikkelingslanden opgericht, verder « Fonds inclusieve financiering » te noemen.<br>
 <br>
-Overeenkomstig artikel 3 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, wordt het Fonds inclusieve financiering opgericht als een dienst met afzonderlijk beheer.<br>
+Overeenkomstig artikel 109 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, wordt het Fonds inclusieve financiering opgericht als een dienst met afzonderlijk beheer.<br>
 <br>
 § 2. De ontvangsten van het Fonds inclusieve financiering bestaan uit :<br>
 1° een dotatie ten laste van de uitgavenbegroting van de Vlaamse Gemeenschap;<br>
@@ -294,7 +288,15 @@ De bedragen en de goederen bestemd voor de Vlaamse   ontwikkelingssamenwerking z
 
 ### ART. 22/2.
 
-Er wordt een Fonds Ontwikkelingssamenwerking opgericht als een   begrotingsfonds zoals vermeld in artikel 12 van het decreet van 8 juli 2011   houdende regeling van de begroting, de boekhouding, de toekenning van subsidies   en de controle op de aanwending ervan, en de controle door het   Rekenhof.<BR><BR>Het fonds wordt gespijsd door :<BR>1° de terugvordering van   subsidies of bedragen voor de financiering van overeenkomsten voor   ontwikkelingssamenwerking die door de begunstigden niet of op onrechtmatige   wijze werden aangewend of waarvan de aanwending onvoldoende wordt   verantwoord;<BR>2° vergoedingen van andere publieke donoren voor de realisatie   van gezamenlijke programma's en projecten.<BR><BR>Het fonds kan worden aangewend   voor allerhande initiatieven inzake ontwikkelingssamenwerking. De aandacht zal   hierbij voornamelijk gaan naar het versterken van lopende programma's of   projecten en het uitwerken en uitvoeren van flankerende acties.<BR><BR>De   rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de   kredieten van het fonds.
+Er wordt een Fonds Ontwikkelingssamenwerking opgericht als een begrotingsfonds als vermeld in artikel 15, § 2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
+<br>
+Het fonds wordt gespijsd door :<br>
+1° de terugvordering van subsidies of bedragen voor de financiering van overeenkomsten voor ontwikkelingssamenwerking die door de begunstigden niet of op onrechtmatige wijze werden aangewend of waarvan de aanwending onvoldoende wordt verantwoord;<br>
+2° vergoedingen van andere publieke donoren voor de realisatie van gezamenlijke programma's en projecten.<br>
+<br>
+Het fonds kan worden aangewend voor allerhande initiatieven inzake ontwikkelingssamenwerking. De aandacht zal hierbij voornamelijk gaan naar het versterken van lopende programma's of projecten en het uitwerken en uitvoeren van flankerende acties.<br>
+<br>
+De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.
 
 ### ART. 23.
 

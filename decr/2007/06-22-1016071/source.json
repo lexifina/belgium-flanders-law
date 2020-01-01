@@ -2,16 +2,16 @@
   "codex_id": 1016071,
   "title": "Decreet van 2007-06-22 kaderdecreet inzake ontwikkelingssamenwerking",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016071/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "dc2bb22f06c4268525d1c484c4654e0718fdbac0f6b51030be538ccb0775eefb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016071/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "2d9e613dcd5aff7882cb8a10da624bfd39809783f69bc7ed53a9e040b80c4bb6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016071&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2020-01-01",
   "made": "2007-06-22",
   "gazette": "2007-08-14",
   "numac": 2007036209,
   "document_start": "2007-08-24",
   "document_end": null,
-  "in_force": "2019-01-01",
+  "in_force": "2020-01-01",
   "article_versions": 39,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
