@@ -103,13 +103,19 @@ c) de andere toelagen die de overheid toekent in het kader van het gezinsbeleid,
 <br>
 Die bedragen zijn gekoppeld aan het spilindexcijfer 103,04 (basis 2013 = 100).<br>
 <br>
+De koppeling aan de afgevlakte gezondheidsindex uit het eerste lid wordt beëindigd vanaf 1 januari 2020.<br>
+<br>
+De bedragen van de toelagen in het kader van het gezinsbeleid, en in voorkomend geval, de inkomensgrenzen, vermeld in delen 1 en 3 van boek 2 en deel 2 van boek 5, die ingevolge de koppeling uit het eerste lid en de toepassing van het tweede lid, werden bekomen op 31 december 2019, worden vanaf 1 januari 2020 jaarlijks op 1 september verhoogd met een index van 2 %.<br>
+<br>
+In afwijking van het voorgaande lid start de jaarlijkse verhoging met een index van 2 %, zoals opgenomen in het vorige lid, voor het bedrag voor het derde jongste kind en oudere kinderen, vermeld in artikel 210, § 2, tweede lid, en het bedrag van de leeftijdsbijslagen, vermeld in artikel 212, § 1 en § 2, en artikel 213, zoals die voor deze bedragen ingevolge de koppeling uit het eerste lid werden bekomen op 31 december 2019, vanaf 1 september 2025.<br>
+<br>
 § 2. Als ingevolge de toepassing van paragraaf 1 de bedragen van de toelagen eindigen op een gedeelte van een cent, wordt het uit te betalen bedrag vastgesteld zonder rekening te houden met het gedeelte van een cent als dat minder dan 0,5 cent bedraagt. Als het gedeelte 0,5 cent of meer bedraagt, wordt het voor een cent gerekend.<br>
 <br>
 De afronding op een cent naar boven of naar beneden wordt gedaan op het totaal uit te betalen bedrag voor het rechtgevende kind, het rechthebbende kind of de rechthebbende leerling.<br>
 <br>
 § 3. De bedragen en de inkomensgrenzen van de selectieve participatietoeslagen worden geïndexeerd zoals de bedragen, vermeld in artikel 46 van het decreet van 8 juni 2007. De bedragen en inkomensgrenzen die in de artikelen 43, 46, 47 en 48 van dit decreet zijn opgenomen, zijn deze voor het schooljaar 2019-2020.<br>
 <br>
-§ 4. De bedragen bepaald door de Vlaamse Regering in uitvoering van artikel 103, § 2, worden, met toepassing van paragraaf 1, tweede lid, en paragraaf 2, tweede lid, gekoppeld aan de afgevlakte gezondheidsindex.
+§ 4. De bedragen bepaald door de Vlaamse Regering in uitvoering van artikel 103, § 2, worden, met toepassing van paragraaf 1, tweede lid, en paragraaf 2, tweede lid, gekoppeld aan de indexmechanismen uit het eerste lid, rekening houdend met de toepassing van het derde lid van de eerste paragraaf, en het vierde lid van de eerste paragraaf.
 
 ### ART 5.
 
@@ -1897,7 +1903,7 @@ De Vlaamse Regering bepaalt de nadere regels voor de vermindering of stopzetting
 
 ### ART 174.
 
-Met inachtneming van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof en artikel 57 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof is de private uitbetalingsactor gehouden tot de terugbetaling van de subsidie ten bedrage van het deel waarvoor een inbreuk is vastgesteld.<br>
+Met inachtneming van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof en artikel 75 en 76&nbsp;van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 is de private uitbetalingsactor gehouden tot de terugbetaling van de subsidie ten bedrage van het deel waarvoor een inbreuk is vastgesteld.<br>
 <br>
 De Vlaamse Regering wijst de personeelsleden aan die belast zijn met de terugvordering van de onverschuldigde subsidies.
 
