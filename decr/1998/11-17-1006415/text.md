@@ -18,7 +18,9 @@ Hiervoor wordt een rekening voor orde geopend met als nummer 83.20 op het progra
 
 ### ART. 5.
 
-Voor elk OCMW wordt een financiële rekening bij de NV Gemeentekrediet geopend. Deze financiële rekeningen zullen deel uitmaken van de kastoestand van de Vlaamse Gemeenschap zoals gedefinieerd in artikel 2 van het decreet van 16 december 1997 houdende bepalingen inzake het kas-, schuld- en waarborgbeheer van de Vlaamse Gemeenschap.<br /><br />De OCMW's kunnen vanuit deze financiële rekeningen een voorschot betalen aan de slachtoffers in afwachting van de eventuele uitbetaling door het Rampenfonds. Het saldo van de financiële rekening mag negatief zijn en wordt bepaald door de bedragen vastgesteld overeenkomstig artikel 6.
+Voor elk OCMW wordt een financiële rekening bij de NV Gemeentekrediet geopend.<br>
+<br>
+De OCMW's kunnen vanuit deze financiële rekeningen een voorschot betalen aan de slachtoffers in afwachting van de eventuele uitbetaling door het Rampenfonds. Het saldo van de financiële rekening mag negatief zijn en wordt bepaald door de bedragen vastgesteld overeenkomstig artikel 6.
 
 ### ART. 6.
 
