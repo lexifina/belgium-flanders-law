@@ -16,7 +16,7 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br>
 
 ### ART. 2.
 
-De strategische adviesraad is onderworpen aan de bepalingen van het besluit van de Vlaamse Regering van 3 februari 2006 houdende de modaliteiten tot invoering van het centraal kasbeheer voor de Vlaamse verzelfstandigde agentschappen.
+...
 
 ## HOOFDSTUK II. Begroting en boekhouding
 
