@@ -268,6 +268,16 @@ In afwijking van het eerste lid verkrijgen de grachten die reeds het statuut van
 
 ## HOOFDSTUK 4. Wijzigingen van de Pachtwet van 4 november 1969
 
+### ART 27.
+
+In artikel 2 van de Pachtwet van 4 november 1969, vervangen bij de wet van 7 november 1988, wordt punt 5° vervangen door wat volgt:<br>
+"5° op de overeenkomsten tot oprichting van een erkende landbouwonderneming als vermeld in artikel 8:2 van het Wetboek van Vennootschappen en Verenigingen waarop de bepalingen van deze afdeling normaal van toepassing zouden zijn, maar die werd opgericht voor een duur van ten minste 27 jaar;".
+
+### ART 28.
+
+In artikel 9 van dezelfde wet, vervangen bij de wet van 7 november 1988 en gewijzigd bij de wet van 3 mei 2003, wordt in het vijfde lid de eerste zin vervangen door wat volgt:<br>
+"De rechtspersonen, vermeld in dit artikel, moeten zijn erkend als landbouwonderneming als vermeld in artikel 8:2 van het Wetboek van Vennootschappen en Verenigingen.".
+
 ## HOOFDSTUK 5. Wijzigingen van de wet van 22 juli 1970 op de ruilverkaveling van landeigendommen uit kracht van de wet
 
 ### ART 29.
