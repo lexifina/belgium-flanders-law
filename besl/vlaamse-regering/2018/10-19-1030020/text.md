@@ -443,51 +443,21 @@ De ingediende erkennings- en omzettingskalenders worden behandeld en beoordeeld 
 
 ### ART 41.
 
-&nbsp;Het maximale aantal te erkennen woongelegenheden in woonzorgcentra en centra voor kortverblijf voor de periode 2015-2025 wordt als volgt bepaald:<br>
+Het maximale aantal te erkennen woongelegenheden in woonzorgcentra en centra voor kortverblijf voor de periode 2015-2025 wordt als volgt bepaald:<br>
 &nbsp;
 <table border="1">
 	<tbody>
 		<tr>
-			<td>jaartal</td>
-			<td>maximale erkenningscapaciteit woongelegenheden woonzorgcentra</td>
-			<td>maximale erkenningscapaciteit woongelegenheden centra voor kortverblijf</td>
-			<td>maximale omzettingscapaciteit</td>
+			<td>Jaartal</td>
+			<td>maximale erkennings-<br>
+			capaciteit woongenlegen-<br>
+			heden woonzorgcentra</td>
+			<td>maximale erkenningscapaciteit woongelegen-<br>
+			heden centra voor kort-<br>
+			verblijf</td>
+			<td>maximale omzettings-<br>
+			capaciteit</td>
 			<td>totaal</td>
-		</tr>
-		<tr>
-			<td>2015</td>
-			<td>2192</td>
-			<td>156</td>
-			<td>0</td>
-			<td>2348</td>
-		</tr>
-		<tr>
-			<td>2016</td>
-			<td>3159</td>
-			<td>128</td>
-			<td>0</td>
-			<td>3287</td>
-		</tr>
-		<tr>
-			<td>2017</td>
-			<td>1652</td>
-			<td>105</td>
-			<td>0</td>
-			<td>1757</td>
-		</tr>
-		<tr>
-			<td>2018</td>
-			<td>2020</td>
-			<td>132</td>
-			<td>0</td>
-			<td>2152</td>
-		</tr>
-		<tr>
-			<td>2019</td>
-			<td>126</td>
-			<td>0</td>
-			<td>0</td>
-			<td>126</td>
 		</tr>
 		<tr>
 			<td>2020</td>
@@ -520,16 +490,16 @@ De ingediende erkennings- en omzettingskalenders worden behandeld en beoordeeld 
 		<tr>
 			<td>2024</td>
 			<td>599</td>
-			<td>46</td>
+			<td>22</td>
 			<td>599</td>
-			<td>1244</td>
+			<td>1220</td>
 		</tr>
 		<tr>
 			<td>2025</td>
 			<td>598</td>
-			<td>46</td>
-			<td>598</td>
-			<td>1242</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;512</td>
+			<td>1110</td>
 		</tr>
 	</tbody>
 </table>
