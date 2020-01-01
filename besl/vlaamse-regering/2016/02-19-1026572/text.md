@@ -121,7 +121,7 @@ Het   Steunpunt Adoptie bezorgt jaarlijks, uiterlijk op 31 maart, een jaarversla
 
 ### ART. 20.
 
-<p>Het Steunpunt Adoptie ontvangt jaarlijks, binnen de marge van de begrotingskredieten, een subsidie van 504.733,09&nbsp;euro voor personeels- en werkingskosten.</p>
+<p>Het Steunpunt Adoptie ontvangt jaarlijks, binnen de marge van de begrotingskredieten, een subsidie van&nbsp;478.244,90 euro voor personeels- en werkingskosten.</p>
 
 <p>Het Steunpunt Adoptie behoudt zijn recht op subsidie zolang het erkend is door het agentschap en voldoet aan de subsidievoorschriften, vermeld in artikel 22 tot en met 26.</p>
 
@@ -189,7 +189,7 @@ Overeenkomstig   artikel 11, § 3, van het decreet van 20 januari 2012 voldoet d
 
 ### ART. 31.
 
-<p>§ 1. De erkende dienst voor maatschappelijk onderzoek ontvangt jaarlijks vanaf 2017, binnen het jaarlijks beschikbaar begrotingskrediet, een basissubsidie voor personeels- en werkingskosten van 464.479,37 euro. Die basissubsidie stelt de dienst voor maatschappelijk onderzoek in staat om 165 onderzoeken per jaar te realiseren.<br>
+<p>§ 1. De erkende dienst voor maatschappelijk onderzoek ontvangt jaarlijks vanaf 2017, binnen het jaarlijks beschikbaar begrotingskrediet, een basissubsidie voor personeels- en werkingskosten van 465.705,48&nbsp;euro. Die basissubsidie stelt de dienst voor maatschappelijk onderzoek in staat om 165 onderzoeken per jaar te realiseren.<br>
 <br>
 De basissubsidie wordt, binnen het jaarlijks beschikbaar begrotingskrediet, vermeerderd met 2319,50 euro per extra gerealiseerd maatschappelijk onderzoek, bovenop 165 gerealiseerde maatschappelijke onderzoeken als vermeld in artikel 1231-29 van het Gerechtelijk Wetboek.</p>
 
