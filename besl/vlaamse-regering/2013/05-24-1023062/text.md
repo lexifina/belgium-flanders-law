@@ -260,10 +260,6 @@
 
 ## Afdeling 3 Samenstelling van het basisdossier
 
-### ART. 42.
-
-...
-
 ## Afdeling 4 Aanvullende stukken bij het basisdossier ter staving van de verhoogde subsidie
 
 ### ART. 43.
