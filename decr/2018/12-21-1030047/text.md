@@ -396,6 +396,10 @@ Artikel 3.4.8.0.1 van het besluit Vlaamse Codex Fiscaliteit van 20 december 2013
 
 ## HOOFDSTUK 4. Wijziging van het Wetboek van de Inkomstenbelastingen 1992
 
+### ART 58.
+
+In artikel 145<sup>23</sup>, § 2, tweede lid, van het Wetboek van de Inkomsten-belastingen 1992, gecoördineerd op 10 april 1992, vervangen bij de wet van 8 mei 2014, wordt de zinsnede "het in artikel 131, eerste lid, 1°, bedoelde bedrag overschrijdt" vervangen door de zinsnede "het bedrag van 28.605 euro overschrijdt".
+
 ## HOOFDSTUK 5. Slotbepalingen
 
 ### ART 59.
