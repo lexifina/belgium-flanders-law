@@ -410,8 +410,8 @@ Het belastingkrediet, vermeld in het eerste lid, geldt vanaf de inwerkingtreding
 ### ART. 2.1.5.0.7.
 
 Aan de belastingplichtige rechtspersoon wordt een belastingkrediet toegekend dat gelijk is aan :<br>
-1° 2,5 % van het kadastraal inkomen als het tarief, vermeld in artikel 2.1.4.0.1, § 1, van toepassing is;<br>
-2° 1,6 % van het kadastraal inkomen als het tarief, vermeld in artikel 2.1.4.0.1, § 2 of § 2/1, van toepassing is;<br>
+1° ...;<br>
+2° ...;<br>
 3° 2,5 % van het kadastraal inkomen vermenigvuldigd met de coëfficiënt, vermeld in artikel 2.1.4.0.1, § 3, tweede lid, als het tarief, vermeld in artikel 2.1.4.0.1, § 3, van toepassing is.<br>
 <br>
 Het belastingkrediet, vermeld in het eerste lid, kan nooit meer bedragen dan de onroerende voorheffing, na toepassing van vrijstellingen en verminderingen.<br>
@@ -1568,7 +1568,7 @@ Dit artikel is alleen van toepassing op wegvoertuigen, de lichte vrachtauto's, v
 1° de voertuigen die uitsluitend gebruikt worden voor een openbare dienst van de staat, de gemeenschappen, de gewesten, de provincies, de agglomeraties, de federaties van gemeenten of de gemeenten;<br>
 2° de voertuigen die uitsluitend gebruikt worden voor gemeenschappelijk vervoer van personen krachtens :<br>
 a) een machtiging uitgereikt voor de exploitatie van openbare autobusdiensten of van bijzondere autobusdiensten, ter uitvoering van de besluitwet van 30 december 1946 betreffende het bezoldigd vervoer van personen over de weg met autobussen en met autocars;<br>
-b) een machtiging afgeleverd ter uitvoering van het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg;<br>
+b) een machtiging afgeleverd ter uitvoering van het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg of een vergunning afgeleverd ter uitvoering van het decreet van 29 maart 2019 betreffende het individuele bezoldigd personenvervoer;<br>
 c) een concessie van de openbare machten;<br>
 3° de ziekenauto's die uitsluitend worden gebruikt voor het vervoer van gewonden en zieken;<br>
 4° de personenauto's die als persoonlijk vervoermiddel worden gebruikt door grootoorlogsinvaliden of door personen met een handicap;<br>
@@ -1588,7 +1588,7 @@ c) een concessie van de openbare machten;<br>
 2° een invaliditeitsattest, uitgereikt door de FOD Sociale Zekerheid, met de vermelding dat de betrokkene recht heeft op vrijstelling van de verkeersbelasting, of dat hij is getroffen door volledige blindheid of volledige verlamming van de bovenste ledematen, of dat die ledematen geamputeerd zijn, of dat hij is aangetast door een blijvende invaliditeit die rechtstreeks toe te schrijven is aan de onderste ledematen en ten minste 50 % bedraagt.</p>
 
 <p>De volgende voertuigen komen in aanmerking voor de toepassing van de vrijstelling, vermeld in het eerste lid, 11° :<br>
-1° de autovoertuigen die uitsluitend worden gebruikt voor taxidiensten onder de voorwaarden, vermeld in het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg, en die ingericht zijn krachtens een vergunning die regelmatig afgeleverd is ter uitvoering van het voormelde decreet;<br>
+1° de autovoertuigen die uitsluitend worden gebruikt voor taxidiensten onder de voorwaarden, vermeld in het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg of in het decreet van 29 maart 2019 betreffende het individuele bezoldigd personenvervoer, en die ingericht zijn krachtens een vergunning die regelmatig afgeleverd is ter uitvoering van de voormelde decreten;<br>
 2° de autovoertuigen die, naar constructie en uitrusting, geschikt zijn voor het vervoer van ten hoogste negen personen, de bestuurder inbegrepen, en die, met uitsluiting van elk ander gebruik, met bestuurder worden verhuurd om personen te vervoeren, op voorwaarde dat de duur van elke verhuring niet meer dan één dag bedraagt en dat de verhuring op het voertuig en niet op elk van de plaatsen slaat;<br>
 3° de autovoertuigen die tegelijk worden gebruikt voor taxidiensten als vermeld in 1°, en voor verhuring met bestuurder als vermeld in 2°.</p>
 
@@ -3714,7 +3714,7 @@ Het voordeel van de toepassing van de tariefvermindering uit dit artikel kan nie
 
 ### ART 2.9.4.2.11.
 
-§ 1. In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 7 % voor overeenkomsten houdende zuivere aankoop, waarbij door een of meer natuurlijke personen samen en gelijktijdig de geheelheid volle eigendom van een woning wordt verkregen om er hun hoofdverblijfplaats te vestigen.<br>
+§ 1. In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht&nbsp;6 % voor overeenkomsten houdende zuivere aankoop, waarbij door een of meer natuurlijke personen samen en gelijktijdig de geheelheid volle eigendom van een woning wordt verkregen om er hun hoofdverblijfplaats te vestigen.<br>
 <br>
 § 2. Om het verlaagde tarief, vermeld in paragraaf 1, te kunnen toepassen, moeten alle volgende voorwaarden vervuld zijn:<br>
 1° de verkrijger is op de datum van de authentieke aankoopakte niet voor de geheelheid volle eigenaar van een andere woning of bouwgrond. Als er verschillende verkrijgers zijn, zijn ze op de vermelde datum niet samen voor de geheelheid volle eigenaar van een andere woning of bouwgrond;<br>
@@ -3735,7 +3735,7 @@ De koper die de voorwaarden, vermeld in het eerste lid, 1° of 2°, niet is nage
 
 ### ART 2.9.4.2.12.
 
-§ 1. Het verlaagde tarief, vermeld in artikel 2.9.4.2.11, wordt verminderd tot 6 % als aan al de volgende voorwaarden is voldaan:<br>
+§ 1. Het verlaagde tarief, vermeld in artikel 2.9.4.2.11, wordt verminderd tot&nbsp;5 % als aan al de volgende voorwaarden is voldaan:<br>
 1° de verkrijger verbindt zich ertoe aan de aangekochte woning een ingrijpende energetische renovatie uit te voeren als vermeld in artikel 1.1.1, § 2, 50°, van het Energiebesluit van 19 november 2010;<br>
 2° de verkrijger moet binnen een termijn van vijf jaar vanaf de datum van de authentieke aankoopakte een energieprestatiecertificaat bouw als vermeld in artikel 9.2.11 van het Energiebesluit van 19 november 2010, bekomen waaruit blijkt dat de renovatiewerken die aan de aangekochte woning uitgevoerd zijn, betrekking hebben op werken als vermeld in punt 1° ;<br>
 3° de verkrijger is op de datum van de authentieke aankoopakte niet voor de geheelheid volle eigenaar van een andere woning of bouwgrond. Als er verschillende verkrijgers zijn, zijn ze op de vermelde datum niet samen voor de geheelheid volle eigenaar van een andere woning of bouwgrond;<br>
@@ -3771,7 +3771,7 @@ De koper die de voorwaarden, vermeld in het eerste lid, 1° en 2°, niet is nage
 
 § 1. Het verlaagde tarief, vermeld in artikel 2.9.4.2.11, wordt verminderd tot 1 % wanneer deze verkrijging naast de voorwaarden, vermeld in artikel 2.9.4.2.11, § 2, eerste lid, ook voldoet aan de voorwaarden, vermeld in artikel 2.9.4.2.10.<br>
 <br>
-§ 2. Voor de toepassing van het verlaagde tarief, vermeld in paragraaf 1, is het bedrag, vermeld in artikel 2.9.4.2.10, § 2, 1°, en in afwijking daarvan, minstens gelijk aan 6 % van de belastbare grondslag, ongeacht de eventuele toepassing van paragraaf 7.<br>
+§ 2. Voor de toepassing van het verlaagde tarief, vermeld in paragraaf 1, is het bedrag, vermeld in artikel 2.9.4.2.10, § 2, 1°, minstens het bedrag dat overeenkomt met het verschil tussen het verkooprecht, geheven met toepassing van artikel 2.9.4.2.14, § 1, en het verkooprecht, verschuldigd bij toepassing van artikel 2.9.4.2.11, § 1, en dit ongeacht de eventuele toepassing van paragraaf 7.<br>
 <br>
 De verkrijgers dienen voor de toepassing van het tarief, vermeld in paragraaf 1, en in afwijking van artikel 2.9.4.2.10, § 2, 3°, te voldoen aan de verplichting, vermeld in artikel 3.12.3.0.1, § 1 en § 5, tiende lid.<br>
 <br>
