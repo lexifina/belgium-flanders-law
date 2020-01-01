@@ -18,7 +18,7 @@ Het departement heeft volgende taken :<br>
 1° de taken waarmee het departement is belast overeenkomstig artikel 30 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot organisatie van de Vlaamse administratie voor wat betreft de bevoegdheden opgesomd in artikel 10, § 1, 1°, 3°, 4° en 5°, van hetzelfde besluit;<br>
 2° de taken van beleidsuitvoering betreffende materies die tot het beleidsdomein Cultuur, Jeugd, Sport en Media behoren die niet werden toevertrouwd aan een verzelfstandigd agentschap van dat beleidsdomein;<br>
 3° het organiseren van de managementondersteunende dienstverlening voor het departement, en het extern verzelfstandigd agentschap Vlaamse Regulator voor de Media;<br>
-4° het beheer van de wetenschappelijke instelling Koninklijk Museum voor Schone Kunsten Antwerpen;<br>
+4° ...;<br>
 5° de uitvoering van het beleid inzake professionele kunsten en cultureel erfgoed:<br>
 a) erkennen, subsidiëren, adviseren, inspecteren, controleren en evalueren van actoren;<br>
 b) ondersteunen van de beleidsuitvoerende commissies die een niet-bindend advies geven over de inhoudelijke beoordeling van individuele dossiers;<br>
