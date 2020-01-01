@@ -124,7 +124,20 @@ De provinciale omgevingsambtenaar oefent de taken, vermeld in dit decreet, onafh
 
 ### ART. 11.
 
-<P>§ 1. Er wordt een Omgevingsfonds opgericht. Het Omgevingsfonds is een   begrotingsfonds in de zin van de bepalingen van artikel 12 van het Rekendecreet   van 8 juli 2011.<BR></P>  <P>§ 2. De middelen waarover het Omgevingsfonds beschikt zijn:<BR>1° het per 31   december van het jaar voorafgaand aan het begrotingsjaar beschikbare saldo van   het Omgevingsfonds;<BR>2° alle ontvangsten voortvloeiend uit de toepassing van   dit decreet;<BR>3° andere middelen aan het fonds toegewezen krachtens wettelijke   en decretale bepalingen.<BR></P>  <P>§ 3. De middelen van het Omgevingsfonds worden aangewend voor beleidskosten   die verband houden met de voorbereiding, organisatie en uitvoering van dit   decreet.<BR></P>  <P>§ 4. De Vlaamse Regering beheert het Omgevingsfonds.<BR></P>  <P>Ze stelt de nodige administratieve en logistieke ondersteuning ter   beschikking van het Omgevingsfonds en kan, overeenkomstig de geldende regels,   sommige van haar bevoegdheden delegeren aan de leidend ambtenaar die ze daartoe   aanwijst.<BR></P>  <P>§ 5. De Vlaamse Regering bepaalt de organieke regels die van toepassing zijn   op het financiële en materiële beheer van het   Omgevingsfonds.<BR></P>
+<p>§ 1. Er wordt een Omgevingsfonds opgericht. Het Omgevingsfonds is een begrotingsfonds in de zin van de bepalingen van artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.</p>
+
+<p>§ 2. De middelen waarover het Omgevingsfonds beschikt zijn:<br>
+1° het per 31 december van het jaar voorafgaand aan het begrotingsjaar beschikbare saldo van het Omgevingsfonds;<br>
+2° alle ontvangsten voortvloeiend uit de toepassing van dit decreet;<br>
+3° andere middelen aan het fonds toegewezen krachtens wettelijke en decretale bepalingen.</p>
+
+<p>§ 3. De middelen van het Omgevingsfonds worden aangewend voor beleidskosten die verband houden met de voorbereiding, organisatie en uitvoering van dit decreet.</p>
+
+<p>§ 4. De Vlaamse Regering beheert het Omgevingsfonds.</p>
+
+<p>Ze stelt de nodige administratieve en logistieke ondersteuning ter beschikking van het Omgevingsfonds en kan, overeenkomstig de geldende regels, sommige van haar bevoegdheden delegeren aan de leidend ambtenaar die ze daartoe aanwijst.</p>
+
+<p>§ 5. De Vlaamse Regering bepaalt de organieke regels die van toepassing zijn op het financiële en materiële beheer van het Omgevingsfonds.</p>
 
 ### ART. 12.
 
