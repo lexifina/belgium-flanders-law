@@ -90,7 +90,9 @@ Het   krediet waarvoor de waarborg verleend wordt of een waarborgadvies gevraagd
 
 ### ART. 18.
 
-<P>De   VLIF-waarborg is afhankelijk van het betalen van een bijdrage als vermeld in   artikel 8 van het decreet van 7 mei 2004 houdende bepalingen inzake kas-,   schuld- en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse   Gewest.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   afwijking van artikel 8 van het voormelde decreet wordt de bijdrage binnen   dertig kalenderdagen na de mededeling aan de kredietinstelling van de toekenning   van de waarborg aan het VLIF betaald. Als het VLIF de bijdrage niet binnen die   termijn ontvangt, wordt de toekenning van de waarborg van rechtswege   ingetrokken.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De VLIF-waarborg is afhankelijk van het betalen van een bijdrage als vermeld in artikel 99 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 en artikel 90 van het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019.</p>
+
+<p>In afwijking van artikel 8 van het voormelde decreet wordt de bijdrage binnen dertig kalenderdagen na de mededeling aan de kredietinstelling van de toekenning van de waarborg aan het VLIF betaald. Als het VLIF de bijdrage niet binnen die termijn ontvangt, wordt de toekenning van de waarborg van rechtswege ingetrokken.</p>
 
 ### ART. 19.
 
