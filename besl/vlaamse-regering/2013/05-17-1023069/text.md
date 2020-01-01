@@ -37,7 +37,15 @@ b) de natuurlijke persoon, vermeld in artikel 3 van het koninklijk besluit nr. 3
 
 ### ART. 3.
 
-§ 1. Binnen de perken van de jaarlijks goedgekeurde begrotingskredieten en   volgens de voorwaarden, bepaald in dit besluit, komt de Vlaamse Regering   tegemoet in de kosten van Nederlandstalige loopbaanbegeleiding voor   professioneel actieve personen.<BR><BR>De professioneel actieve persoon voldoet   aan de volgende voorwaarden :<BR>1° hij vraagt op eigen verzoek en op eigen   initiatief loopbaanbegeleiding aan;<BR>2° hij is werkzaam op het ogenblik van   zijn aanvraag van loopbaanbegeleiding;<BR>3° hij heeft werkervaring van minimaal   twaalf maanden opgebouwd in de loop van de 24 maanden voorafgaand aan de   aanvraag van de loopbaancheque. Als zijn werkervaring een periode van vier weken   ononderbroken tewerkstelling omvat als uitzendkracht als vermeld in de wet van   24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter   beschikking stellen van werknemers ten behoeve van gebruikers, volstaat een   werkervaring van negen maanden in de loop van de 24 maanden voorafgaand aan de   aanvraag van de loopbaancheque. De individuele beroepsopleiding als   werkzoekende, vermeld in titel III, hoofdstuk III, van het besluit van de   Vlaamse Regering van 5 juni 2009 houdende de organisatie van de   arbeidsbemiddeling en de beroepsopleiding en de tewerkstelling krachtens het   besluit van de Vlaamse regering van 10 juli 2008 betreffende de werkervaring,   wordt gelijkgesteld met werkervaring. Werkervaring in het buitenland wordt door   de professioneel actieve persoon aangetoond via een attest van de werkgever of   een gelijkwaardig attest;<BR>4° hij heeft geen loopbaanbegeleiding genoten die   door het Vlaamse Gewest werd gesubsidieerd in een periode van zes jaar voor zijn   aanvraag van de loopbaancheque;<BR><BR>§ 2. De professioneel actieve persoon kan   beschikken over maximaal twee loopbaancheques gedurende een periode van zes   jaar, die ingaat op de datum van de aanvang van de   loopbaanbegeleiding.
+§ 1. Binnen de perken van de jaarlijks goedgekeurde begrotingskredieten en volgens de voorwaarden, bepaald in dit besluit, komt de Vlaamse Regering tegemoet in de kosten van Nederlandstalige loopbaanbegeleiding voor professioneel actieve personen.<br>
+<br>
+De professioneel actieve persoon voldoet aan de volgende voorwaarden :<br>
+1° hij vraagt op eigen verzoek en op eigen initiatief loopbaanbegeleiding aan;<br>
+2° hij is werkzaam op het ogenblik van zijn aanvraag van loopbaanbegeleiding;<br>
+3° hij heeft werkervaring van minimaal 84 maanden opgebouwd. De individuele beroepsopleiding als werkzoekende, vermeld in titel III, hoofdstuk III, van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding, en de tewerkstelling krachtens het besluit van de Vlaamse Regering van 10 juli 2008 betreffende de werkervaring worden gelijkgesteld met de voormelde werkervaring. Werkervaring in het buitenland toont de professioneel actieve persoon aan met een attest van de werkgever of met een gelijkwaardig attest;<br>
+4° hij heeft geen loopbaanbegeleiding genoten die door het Vlaamse Gewest werd gesubsidieerd in een periode van zes jaar voor zijn aanvraag van de loopbaancheque;<br>
+<br>
+§ 2. De professioneel actieve persoon kan beschikken over maximaal twee loopbaancheques gedurende een periode van zes jaar, die ingaat op de datum van de aanvang van de loopbaanbegeleiding. De eerste loopbaancheque geeft recht op vier uur loopbaanbegeleiding, de tweede loopbaancheque geeft recht op drie uur loopbaanbegeleiding.
 
 ## HOOFDSTUK 3. Loopbaanbegeleiding
 
@@ -45,7 +53,7 @@ b) de natuurlijke persoon, vermeld in artikel 3 van het koninklijk besluit nr. 3
 
 § 1. De gemandateerde onderneming moet per aangeboden loopbaancheque :<br>
 1° een pakket loopbaanbegeleiding aanbieden, dat minimaal bestaat uit :<br>
-a) het uitvoeren van loopbaanbegeleiding op maat van de professioneel actieve persoon gedurende vier uur. De loopbaanbegeleiding vindt hoofdzakelijk individueel plaats en is verspreid over minimaal twee dagen;<br>
+a) het uitvoeren van loopbaanbegeleiding op maat van de professioneel actieve persoon gedurende vier uur voor de eerste loopbaancheque en gedurende drie uur voor de tweede loopbaancheque. De loopbaanbegeleiding vindt hoofdzakelijk individueel plaats en is verspreid over minimaal twee dagen;<br>
 b) het uitvoeren van de verschillende stappen loopbaanbegeleiding, vermeld in artikel 102, derde lid, a) tot en met d), van het decreet van 19 december 2003 houdende bepalingen tot begeleiding van de begroting 2004, die resulteren in de opmaak van een persoonlijk ontwikkelingsplan. Het persoonlijk ontwikkelingsplan stelt de reflecties over de loopbaan, de competenties en het benoemen van een loopbaandoel centraal en kan resulteren in de opmaak van een actieplan;<br>
 c) duidelijke informatieverstrekking over de aanvang, de procedure, de inhoud en het verloop van de loopbaanbegeleiding;<br>
 d) het verstrekken van nazorg aan een professioneel actieve persoon die daarom verzoekt. Onder nazorg wordt verstaan, de behandeling van aanvullende vragen bij de bestaande loopbaanvraag en de al genoten begeleiding met het oog op de versterking van de realisatiegraad van het persoonlijk ontwikkelingsplan. De nazorg is niet begrepen in het contingent uren, vermeld in punt 1°, a), en wordt door de gemandateerde onderneming verstrekt tot een jaar na de beëindiging van het afsluitende gesprek. De nazorg omvat maximaal dertig minuten per begonnen pakket of maximaal 1 uur per acht uur begeleiding. De gemandateerde onderneming kan de vorm van nazorg vrij kiezen;<br>
@@ -145,7 +153,7 @@ Na registratie van de geleverde loopbaanbegeleiding bezorgt de   gemandateerde o
 
 Binnen de perken van de goedgekeurde jaarlijkse begroting en volgens de voorwaarden, vermeld in dit besluit, krijgt de gemandateerde onderneming een vergoeding voor de loopbaanbegeleiding, verstrekt aan de professioneel actieve persoon.<br>
 <br>
-De vergoeding per pakket loopbaanbegeleiding bedraagt maximaal 550 euro exclusief BTW en vertegenwoordigt :<br>
+De vergoeding per uur loopbaanbegeleiding bedraagt 140,25 euro exclusief btw en vertegenwoordigt:<br>
 1° de personeelskosten van de loopbaanbegeleider voor de loopbaanbegeleiding, vermeld in artikel 4;<br>
 2° werkingskosten die maximaal 25 procent van de personeelskosten bedragen;<br>
 3° een winstaandeel van maximaal 6 procent van de loon- en werkingskosten.<br>
@@ -233,7 +241,9 @@ e) ontheven van hun burgerrechten en politieke rechten.<br>
 <br>
 De termijnen, vermeld in het eerste lid, vangen aan de dag nadat het voornemen aan de gemandateerde onderneming ter kennisgeving is verzonden per aangetekende brief.<br>
 <br>
-§ 3. Bij de beslissing tot intrekking van het mandaat deelt&nbsp;de raad van bestuur van de VDAB mee binnen welke termijn de gemandateerde onderneming of de zaakvoerder opnieuw een mandaat mag aanvragen.
+§ 3. Bij de beslissing tot intrekking van het mandaat deelt&nbsp;de raad van bestuur van de VDAB mee binnen welke termijn de gemandateerde onderneming of de zaakvoerder opnieuw een mandaat mag aanvragen. De raad van bestuur van de VDAB kan aan de gemandateerde onderneming of aan de zaakvoerder voorwaarden opleggen om de kwaliteit van de loopbaanbegeleiding te waarborgen.<br>
+<br>
+Als de gemandateerde onderneming of de zaakvoerder zelf zijn mandaat stopzet voor de raad van bestuur van de VDAB een beslissing tot intrekking heeft genomen, deelt de raad van bestuur van de VDAB mee binnen welke termijn de gemandateerde onderneming of de zaakvoerder opnieuw een mandaat mag aanvragen. De raad van bestuur van de VDAB kan aan de gemandateerde onderneming of de zaakvoerder voorwaarden opleggen om de kwaliteit van de loopbaanbegeleiding te waarborgen.
 
 ### ART. 19.
 
@@ -330,7 +340,7 @@ b) de wetgeving betreffende de gelijke behandeling van mannen en vrouwen ten aan
 c) de wet van 30 juli 1981 tot bestraffing van bepaalde door racisme of xenofobie ingegeven daden;<br>
 d) de wet van 10 mei 2007 ter bestrijding van discriminatie.<br>
 <br>
-2. De gemandateerde organisatie gaat het engagement aan om alles in het werk te stellen om een effectieve loopbaanbegeleiding te bieden met het oog op de opmaak van een persoonlijk ontwikkelingsplan voor de deelnemers. De loopbaanbegeleider streeft er naar de vier uur begeleiding per pakket in te zetten op maat van de deelnemer. De loopbaanbegeleiding is in hoofdzaak een individueel proces (in dialoog - facetoface of e-coaching - tussen loopbaanbegeleider en klant).<br>
+2. De gemandateerde organisatie gaat het engagement aan om alles in het werk te stellen om een effectieve loopbaanbegeleiding te bieden met het oog op de opmaak van een persoonlijk ontwikkelingsplan voor de deelnemers. De loopbaanbegeleider streeft er naar de uren begeleiding, vermeld in artikel 4, § 1, eerste lid, 1°, a), per pakket in te zetten op maat van de deelnemer. De loopbaanbegeleiding is in hoofdzaak een individueel proces (in dialoog - facetoface of e-coaching - tussen loopbaanbegeleider en klant).<br>
 <br>
 3. De gemandateerde organisatie verbindt er zich toe de grootst mogelijke beroepsbekwaamheid, integriteit en vakkennis aan te bieden en op elk moment de hoogst mogelijke ethische normen in acht te nemen bij de uitvoering van haar opdrachten.<br>
 <br>
@@ -386,11 +396,11 @@ Bij de aanvang van de dienstverlening zorgt de dienstverlener ervoor dat de klan
 <br>
 19. Tijdens de loopbaanbegeleiding respecteert de loopbaanbegeleider de eigen verantwoordelijkheid, zelfsturing en autonomie van de klant. Dat uit zich als volgt :<br>
 • De loopbaanbegeleider beslist niet in de plaats van de klant en dringt geen keuzes op. Hij helpt de klant bij het zelf maken van keuzes die van belang zijn voor zijn verdere (levens)loopbaan. Bij het aanreiken van mogelijkheden van dienstverlening en opleiding treedt de loopbaanbegeleider strikt neutraal op. Daarbij is zijn enige doelstelling een traject te bepalen dat het beste aansluit bij de behoeften en aspiraties van de klant, rekening houdend met zijn gezins- en familiesituatie;<br>
-• De klant neemt vrijwillig deel aan de loopbaanbegeleiding. De zelfbeschikking van de klant komt tot uiting in het recht om de professionele relatie met de loopbaanbegeleider al dan niet aan te gaan, voort te zetten of te beëindigen. De loopbaanbegeleider laat de begeleiding niet langer duren dan nodig is voor de klant, rekening houdend met het feit dat de klant recht heeft op vier uur per pakket. Er wordt geen intensieve dienstverlening aangeboden als een korte, eenvoudige dienstverlening volstaat.<br>
+• De klant neemt vrijwillig deel aan de loopbaanbegeleiding. De zelfbeschikking van de klant komt tot uiting in het recht om de professionele relatie met de loopbaanbegeleider al dan niet aan te gaan, voort te zetten of te beëindigen. De loopbaanbegeleider laat de begeleiding niet langer duren dan nodig is voor de klant, rekening houdend met het feit dat de klant recht heeft op vier uur voor het eerste pakket en drie uur voor het tweede pakket. Er wordt geen intensieve dienstverlening aangeboden als een korte, eenvoudige dienstverlening volstaat.<br>
 <br>
 20. De loopbaanbegeleider erkent zijn professionele en persoonlijke grenzen beperkingen en verwijst de klant door indien nodig. Hij doet indien nodig een beroep op professioneel advies en ondersteuning. Hij hanteert alleen die methoden waarvoor hij de vereiste competenties heeft.<br>
 <br>
-Screenings- en testinstrumenten zijn slechts een ondersteuning van de methodiek die gehanteerd wordt in de loopbaandienstverlening en vormen geen doel op zich. De dienstverlener zorgt voor een voldoende balans tussen een aanbod dat ondersteunend en informatief is voor de deelnemer (informatie, schema's, processen, individueel of in groep) en een activerend aanbod (effectieve en actiegerichte begeleiding).<br>
+Screenings- en testinstrumenten en methodieken zijn maar een ondersteuning van de aanpak die gehanteerd wordt in de loopbaandienstverlening en vormen geen doel op zich. De dienstverlener zorgt voor een voldoende balans tussen een aanbod dat ondersteunend en informatief is voor de deelnemer (informatie, schema's, processen, individueel of in groep) en een activerend aanbod (effectieve en actiegerichte begeleiding). Als een aanpak niet bijdraagt tot de doelstellingen zoals die in de definitie van de loopbaanbegeleiding zijn beschreven, kan VDAB de aanpak verbieden in het kader van de dienstverlening met de loopbaancheques.<br>
 <br>
 21. De loopbaanbegeleider laat zich bij doorverwijzingen (naar opleiding, arbeidsbemiddeling, hulpverlening enzovoort) op geen enkele wijze leiden door de belangen of behoeften van de eigen organisatie of van andere organisaties. Hij dringt geen keuze op. In het persoonlijk ontwikkelingsplan en de daaraan verbonden acties staat het belang van de klant voorop.<br>
 <br>
