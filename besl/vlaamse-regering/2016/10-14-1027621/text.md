@@ -195,7 +195,7 @@ Het totaalbedrag van de subsidie voor werkingskosten van de zorgtickets en de mo
 
 ### ART 13/2.
 
-§ 1. Het agentschap kent aan de erkende zorgkassen een jaarlijkse subsidie voor werkingskosten voor de tegemoetkomingen voor mobiliteitshulpmiddelen toe. De subsidie bedraagt 7.584.694 euro.<br>
+§ 1. Het agentschap kent aan de erkende zorgkassen een jaarlijkse subsidie voor werkingskosten voor de tegemoetkomingen voor mobiliteitshulpmiddelen toe. De subsidie bedraagt&nbsp;6.790.615 euro.<br>
 <br>
 Dat bedrag wordt verdeeld onder de erkende zorgkassen op basis van het percentage personen met een dossier mobiliteitshulpmiddelen per zorgkas ten opzichte van het totaal aantal personen met een dossier mobiliteitshulpmiddelen bij alle erkende zorgkassen. Het gaat om het percentage personen met een dossier mobiliteitshulpmiddelen in het voorgaande jaar, behalve voor het jaar 2019 waar het om het percentage personen in het jaar in kwestie gaat.<br>
 <br>
@@ -209,9 +209,7 @@ Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas 
 <br>
 Dat bedrag wordt verdeeld onder de erkende zorgkassen op basis van het percentage personen met een dossier mobiliteitshulpmiddelen per zorgkas ten opzichte van het totaal aantal personen met een dossier mobiliteitshulpmiddelen bij alle erkende zorgkassen. Het gaat om het percentage personen met een dossier mobiliteitshulpmiddelen in het jaar in kwestie.<br>
 <br>
-De helft van het bedrag, vermeld in het eerste lid, wordt in 2019 toegekend op basis van een door de zorgkassen aangeleverde lijst van werkzaamheden naar aanleiding van de ontbrekende IT. Het Agentschap levert hiervoor het sjabloon. Het Agentschap beoordeelt bij de definitieve afrekening, vermeld in art 14 par 2, of de uitbetaling van dit bedrag voldoende is gestaafd door de aangeleverde lijst, in welk geval zij kan beslissen tot gehele of gedeeltelijke toekenning ervan.<br>
-<br>
-De Vlaamse Regering oordeelt na tussentijdse evaluatie in 2019 en globale evaluatie in 2020 over de noodzaak tot een bijkomende subsidie.
+De helft van het bedrag, vermeld in het eerste lid, wordt in 2019 toegekend op basis van een door de zorgkassen aangeleverde lijst van werkzaamheden naar aanleiding van de ontbrekende IT. Het Agentschap levert hiervoor het sjabloon. Het Agentschap beoordeelt bij de definitieve afrekening, vermeld in art 14 par 2, of de uitbetaling van dit bedrag voldoende is gestaafd door de aangeleverde lijst, in welk geval zij kan beslissen tot gehele of gedeeltelijke toekenning ervan.
 
 ## [Onderafdeling 3. Subsidie voor werkingskosten voor de tegemoetkomingen voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra (ing. BVR 14 december 2018, art. 19, I: 1 januari 2019)]
 
@@ -227,9 +225,7 @@ Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas 
 <br>
 Dat bedrag wordt verdeeld onder de erkende zorgkassen op basis van het percentage personen met een tegemoetkoming voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra per zorgkas ten opzichte van het totaal aantal personen met een tegemoetkoming voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra bij de erkende zorgkassen. Het gaat om het percentage personen met een tegemoetkoming voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra op 31 juli 2019.<br>
 <br>
-De helft van het bedrag, vermeld in het eerste lid, wordt in 2019 toegekend op basis van een door de zorgkassen aangeleverde lijst van werkzaamheden naar aanleiding van de ontbrekende IT. Het Agentschap levert hiervoor het sjabloon. Het Agentschap beoordeelt bij de definitieve afrekening, vermeld in art 14 par 2, of de uitbetaling van dit bedrag voldoende is gestaafd door de aangeleverde lijst, in welk geval zij kan beslissen tot gehele of gedeeltelijke toekenning ervan.<br>
-<br>
-De Vlaamse Regering oordeelt na tussentijdse evaluatie in 2019 en globale evaluatie in 2020 over de noodzaak tot een bijkomende subsidie.
+De helft van het bedrag, vermeld in het eerste lid, wordt in 2019 toegekend op basis van een door de zorgkassen aangeleverde lijst van werkzaamheden naar aanleiding van de ontbrekende IT. Het Agentschap levert hiervoor het sjabloon. Het Agentschap beoordeelt bij de definitieve afrekening, vermeld in art 14 par 2, of de uitbetaling van dit bedrag voldoende is gestaafd door de aangeleverde lijst, in welk geval zij kan beslissen tot gehele of gedeeltelijke toekenning ervan.
 
 ## [Onderafdeling 3/1. Subsidie voor werkingskosten voor de tegemoetkomingen voor revalidatieziekenhuizen en de tegemoetkomingen voor het multidisciplinair overleg (ing. BVR 17 december 2021, art. 12, I: 1 januari 2022)]
 
@@ -299,7 +295,7 @@ De verzekeringsinstelling bezorgt aan het agentschap Zorg en Gezondheid de verei
 
 § 1. Het Agentschap Zorg en Gezondheid stelt de vergoeding voor werkingskosten vast.<br>
 <br>
-§ 2. De subsidie voor alle verzekeringsinstellingen tezamen bedraagt per jaar 5.600.001 euro.<br>
+§ 2. De subsidie voor alle verzekeringsinstellingen tezamen bedraagt per jaar 5.264.000 euro.<br>
 <br>
 § 3. Dat bedrag wordt verdeeld onder de verzekeringsinstellingen op basis van het totaal aantal unieke opnames of aanvragen van patiënten van alle voorzieningen per verzekeringsinstelling van het voorgaande jaar voor wie een tegemoetkoming werd uitbetaald voor de zorg, vermeld in artikel 3 van het overnamedecreet.<br>
 <br>
@@ -327,7 +323,9 @@ Het percentage dat jaarlijks toekomt aan een bepaalde verzekeringsinstelling is 
 
 De bedragen, vermeld in artikel 8, eerste lid, artikel 9, tweede lid, artikel 10, eerste lid en artikel 11, eerste, vijfde en zesde lid, worden, met ingang van het kalenderjaar 2018, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in 2016.<br>
 <br>
-De bedragen, vermeld in artikel 13/2, § 1 eerste lid, in artikel 13/3, § 1 eerste lid, en in artikel 15/2, § 2 eerste lid worden, met ingang van het kalenderjaar 2020, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in 2018.
+Het bedrag, vermeld in artikel 13/2, § 1, eerste lid, wordt, met ingang van het kalenderjaar 2021, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in 2019.<br>
+<br>
+De bedragen, vermeld in artikel 13/3, § 1, eerste lid, en in artikel 15/2, § 2, worden, met ingang van het kalenderjaar 2020, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in 2018.
 
 ## [HOOFDSTUK 6. Toezicht op de subsidie of vergoedingen voor de werkingskosten en de tegemoetkomingen aan de zorgkassen en de verzekeringsinstellingen (verv. BVR 14 december 2018, art. 31, I: 1 januari 2019)]
 
