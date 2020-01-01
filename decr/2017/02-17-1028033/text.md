@@ -88,7 +88,7 @@ Binnen de beschikbare begrotingskredieten kent de Vlaamse Regering aan de organi
 
 ### ART 11.
 
-De regels betreffende de aanwending van de subsidie, betreffende de verantwoording van die aanwending en betreffende de aanleg en de aanwending van reserves, die bepaald zijn ter uitvoering van artikel 57 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, zijn van toepassing op de subsidie, vermeld in artikel 10.
+De regels betreffende de aanwending van de subsidie, betreffende de verantwoording van die aanwending en betreffende de aanleg en de aanwending van reserves, die bepaald zijn ter uitvoering van artikel 75 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, zijn van toepassing op de subsidie, vermeld in artikel 10.
 
 ### ART 12.
 
@@ -96,7 +96,7 @@ De regels betreffende de aanwending van de subsidie, betreffende de verantwoordi
 1° de bepalingen van dit decreet, van de uitvoeringsbesluiten ervan of van de overeenkomst, vermeld in artikel 10, eerste lid, niet naleeft;<br>
 2° niet meewerkt aan het toezicht, vermeld in artikel 14.<br>
 <br>
-De Vlaamse Regering beslist tot terugvordering van de subsidie conform artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof en de regels, bepaald ter uitvoering van artikel 57 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.
+De Vlaamse Regering beslist tot terugvordering van de subsidie conform artikel 75 en 76&nbsp;van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
 ### ART 13.
 
