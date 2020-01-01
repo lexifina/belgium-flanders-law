@@ -607,15 +607,14 @@ De bedrijfsrevisor, aangeduid overeenkomstig het eerste lid, controleert de fina
 <br>
 Bij het uitvoeren van hun opdracht passen het Rekenhof en de bedrijfsrevisor de regels inzake single audit toe.<br>
 <br>
-§ 5. Het ontwerp van begroting van de VREG wordt opgemaakt door de algemeen directeur. Het ontwerp van begroting van de VREG, vergezeld van een ontwerp van ondernemingsplan, wordt na goedkeuring door de raad van bestuur van het jaar voorafgaand aan dit waarop het betrekking heeft, overgemaakt aan het Vlaams Parlement, ter bespreking.<br>
+§ 5. De VREG dient jaarlijks een ontwerp van begroting met een voorstel van dotatie voor het volgende begrotingsjaar, samen met een ontwerp van ondernemingsplan, bij het Vlaams Parlement in.<br>
+Het Vlaams Parlement bepaalt de dotatie die de VREG voor zijn werking tijdens het volgende begrotingsjaar uit het Energiefonds ontvangt en deelt dit ter uitvoering mee aan de Vlaamse Regering.<br>
 <br>
-Na de hoorzitting in het Vlaams Parlement stelt de VREG zijn definitieve begroting en ondernemingsplan vast.<br>
-<br>
-Op basis van deze definitieve begroting stelt de Vlaamse Regering de dotatie voor de VREG vast.<br>
+Vervolgens stelt de VREG zijn definitieve begroting en ondernemingsplan vast.<br>
 <br>
 De VREG zendt de jaarrekening, vergezeld van het verslag van de bedrijfsrevisor opgesteld op basis van paragraaf 4, tweede lid, voor 31 maart van het jaar volgend op het betrokken jaar, over aan het Vlaams Parlement en aan het Rekenhof. Het Rekenhof controleert de jaarrekening van de VREG en zendt zijn auditverslag over aan het Vlaams Parlement.<br>
 <br>
-§ 6. De VREG is onderworpen aan de bepalingen zoals opgenomen in titel 6 van het Rekendecreet van 8 juli 2011.<br>
+§ 6. ...<br>
 <br>
 § 7. De algemeen directeur staat in voor de noodzakelijke informatie-uitwisseling met de Vlaamse Regering voor de opmaak van de algemene uitgavenbegroting en de opmaak van de ESR-consolidatie.<br>
 <br>
@@ -644,13 +643,7 @@ De raad van bestuur evalueert de interne controlesystemen van de VREG, gaat na o
 
 ### ART 3.1.15.
 
-§ 1. De algemene rekeningen bestaan uit:<br>
-1° een jaarrekening die de volgende elementen bevat:<br>
-a) de balans op 31 december;<br>
-b) de resultatenrekening, opgesteld op basis van de kosten en de opbrengsten van het afgelopen boekjaar;<br>
-2° een jaarrapport over de uitvoering van de begroting, opgesteld in dezelfde vorm als de begroting;<br>
-3° een rapportering die de aansluiting tussen de jaarrekening, vermeld in punt 1°, en de rapportering, vermeld in punt 2°, bevat;<br>
-4° een toelichting bij de balans, de resultatenrekening en de rapportering over de begroting.<br>
+§ 1. ...<br>
 <br>
 § 2. De VREG volgt bij het opstellen van de rekeningen de boekhoudkundige regels zoals bepaald in artikel 10 tot en met 15 van het besluit van de Vlaamse Regering betreffende de begroting en de boekhouding van de Vlaamse rechtspersonen.
 
@@ -3549,7 +3542,7 @@ Voor wat betreft de productie-installaties waarvoor reeds groenestroomcertificat
 
 ### ART. 15.3.4.
 
-Behoudens andersluidende bepalingen worden de begroting en rekeningen van   de VREG opgemaakt en goedgekeurd en wordt de controle uitgevoerd overeenkomstig   de bepalingen van het decreet van 8 juli 2011 houdende regeling van de   begroting, de boekhouding, de toekenning van subsidies en de controle op de   aanwending ervan, en de controle door het Rekenhof .
+...
 
 ### ART. 15.3.5.
 
@@ -3573,7 +3566,11 @@ Groenestroomcertificaten en warmte-krachtcertificaten, afgeleverd voor 1 januari
 
 ### ART. 15.3.5/5.
 
-<P>§ 1. De Vlaamse Regering wordt gemachtigd waarborgen te verlenen ten gunste   van de elektriciteitsdistributienetbeheerders, de beheerder van het plaatselijk   vervoernet van elektriciteit en de netbeheerder die overeenkomstig de federale   Elektriciteitswet ook als transmissienetbeheerder is aangewezen, met het oog op   de gedeeltelijke dekking van het verlies dat deze netbeheerders gebeurlijk   dragen als gevolg van het banken van groenestroomcertificaten en   warmte-krachtcertificaten.<BR><BR>§ 2. De Vlaamse Regering bepaalt de   voorwaarden en modaliteiten waaronder deze waarborg kan worden toegekend en   uitgekeerd. In afwijking van artikel 8 van het decreet van 7 mei 2004 houdende   bepalingen inzake kas-, schuld- en waarborgbeheer van de Vlaamse Gemeenschap en   het Vlaamse Gewest kan de Vlaamse Regering bepalen om de toekenning van de   waarborg niet afhankelijk te maken van de betaling van een bijdrage.<BR><BR>§ 3.   De Vlaamse Regering bepaalt voor ieder begrotingsjaar de maximale omloop van de   uitstaande verbintenissen waarop de waarborg van het Vlaamse Gewest betrekking   heeft. </P>
+<p>§ 1. De Vlaamse Regering wordt gemachtigd waarborgen te verlenen ten gunste van de elektriciteitsdistributienetbeheerders, de beheerder van het plaatselijk vervoernet van elektriciteit en de netbeheerder die overeenkomstig de federale Elektriciteitswet ook als transmissienetbeheerder is aangewezen, met het oog op de gedeeltelijke dekking van het verlies dat deze netbeheerders gebeurlijk dragen als gevolg van het banken van groenestroomcertificaten en warmte-krachtcertificaten.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de voorwaarden en modaliteiten waaronder deze waarborg kan worden toegekend en uitgekeerd. De Vlaamse Regering kan&nbsp;bepalen om de toekenning van de waarborg niet afhankelijk te maken van de betaling van een bijdrage.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt voor ieder begrotingsjaar de maximale omloop van de uitstaande verbintenissen waarop de waarborg van het Vlaamse Gewest betrekking heeft.</p>
 
 ### ART. 15.3.5/6.
 
