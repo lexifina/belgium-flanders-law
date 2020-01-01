@@ -8,11 +8,34 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<br />1° geregeld vervoer: stads- of streekvervoer van personen met een bepaalde regelmaat en op een bepaald traject, waarbij op vooraf vastgestelde halteplaatsen reizigers mogen worden opgenomen of mogen worden afgezet en dit ongeacht de tractiewijze van de aangewende vervoermiddelen. Dit vervoer is voor iedereen toegankelijk, ongeacht in voorkomend geval, de verplichting om de reis te boeken. Een aanpassing van de exploitatievoorwaarden voor het vervoer doet geen afbreuk aan het geregelde karakter van het vervoer;<br />2° bijzondere vormen van geregeld vervoer: geregeld vervoer van bepaalde categorieën reizigers met uitsluiting van andere reizigers, met een bepaalde regelmaat en op een bepaald traject, waarbij op vooraf vastgestelde halteplaatsen reizigers mogen worden opgenomen of mogen worden afgezet.<br />De bijzondere vormen van geregeld vervoer omvatten onder meer:<br />a) vervoer van werknemers van en naar het werk;<br />b) vervoer van scholieren en studenten van en naar hun onderwijsinstellingen;<br />c) vervoer van militairen en hun gezinnen van en naar hun plaats van legering.<br />Aan het geregelde karakter van de bijzondere vorm van geregeld vervoer wordt geen afbreuk gedaan door het feit dat bij de organisatie van het vervoer rekening wordt gehouden met de wisselende behoeften van de gebruiker.<br />3° vervoer voor eigen rekening: vervoer voor niet-lucratieve en niet-commerciële doeleinden dat verricht wordt door een natuurlijke persoon of rechtspersoon;<br />4° taxidiensten: de bezoldigde vervoerdiensten van personen door middel van voertuigen met bestuurder die aan de volgende eisen voldoen:<br />a) het voertuig is, naar constructie en uitrusting, geschikt voor het vervoer van ten hoogste negen personen - de bestuurder inbegrepen - en is daartoe bestemd;<br />b) het voertuig wordt ter beschikking gesteld van het publiek, hetzij op een bepaalde standplaats op de openbare weg in de zin van het algemeen reglement op de politie van het wegverkeer, hetzij op eender welke andere plaats die niet voor het openbaar verkeer is opengesteld, en waarover de exploitant beschikt;<br />c) de terbeschikkingstelling heeft betrekking op het voertuig en niet op elk van de plaatsen ervan wanneer het voertuig ingezet wordt als taxidienst, of op elk van de plaatsen van het voertuig en niet op het voertuig zelf wanneer het ingezet wordt als collectieve taxidienst;<br />d) de bestemming wordt door de cliënt bepaald;<br />4°bis : onwettig ronselen : hetzij kandidaat-klanten aanspreken op openbare plaatsen op het grondgebied van een gemeente waar men niet vergund is, hetzij met het voertuig heen en weer rijden op het grondgebied van een gemeente waar men niet vergund is, hetzij daar stationeren, telkens met het oogmerk om klanten te vervoeren;<br />5° diensten voor het verhuren van voertuigen met bestuurder: alle bezoldigde vervoerdiensten van personen, door middel van voertuigen met bestuurder, die noch geregeld vervoer noch taxidiensten zijn en die naar bouw en uitrusting geschikt zijn voor het vervoer van ten hoogste 9 personen, de bestuurder inbegrepen;<br />6° afstand: de afstand in vogelvlucht;<br />7° VVM: de Vlaamse Vervoermaatschappij, opgericht bij decreet van 31 juli 1990 tot oprichting van de Vlaamse Vervoermaatschappij;<br />8° ...<br />9° woonzone: een gebied met als bestemming wonen volgens de gewestplannen en de gewestelijke en de provinciale ruimtelijke uitvoeringsplannen;<br />10° grootstedelijke gebieden: de door de Vlaamse regering aangeduide delen van de grootstedelijke gebieden van Antwerpen en Gent;<br />11° stedelijke gebieden: de door de Vlaamse regering aangeduide delen van de regionaal-stedelijke gebieden van de gemeenten Brugge, Hasselt-Genk, Kortrijk, Leuven, Mechelen, Oostende, Sint-Niklaas, Aalst, Roeselare, Turnhout;<br />12° randstedelijke gebieden: de door de Vlaamse regering aangeduide delen van de randstedelijke gebieden van de gemeenten Aartselaar, Asse, Boechout, Borsbeek, Edegem, Hemiksem, Hove, Kontich, Lint, Mortsel, Niel, Schelle, Wijnegem, Wommelgem, Zwijndrecht, Evergem, De Pinte, Destelbergen, Melle, Merelbeke, Beersel, Dilbeek, Drogenbos, Grimbergen, Kraainem, Linkebeek, Machelen, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Tervuren, Vilvoorde, Wemmel, Wezembeek-Oppem, Zaventem, Damme, Jabbeke, Oostkamp, Zedelgem, Diepenbeek, Zonhoven, Deerlijk, Harelbeke, Kuurne, Wevelgem, Zwevegem, Sint-Katelijne-Waver, Bredene, Middelkerke, Denderleeuw, Ingelmunster, Izegem, Beerse, Oud-Turnhout, Vosselaar;<br />13° kleinstedelijke gebieden: de door de Vlaamse regering aangeduide delen van de kleinstedelijke gebieden van de gemeenten Aarschot, Deinze, Dendermonde, Diest, Eeklo, Geraardsbergen, Halle, Ieper, Lier, Lokeren, Ninove, Oudenaarde, Ronse, Sint-Truiden, Vilvoorde, Temse, Tienen, Tongeren, Waregem, Beveren, Bilzen, Blankenberge, Boom, Bree, Geel, Herentals, Knokke-Heist, Leopoldsburg, Maaseik, Maasmechelen, Menen, Mol, Neerpelt-Overpelt, Tielt, Torhout, Veurne, Wetteren, Zottegem, Diksmuide, Heist-op-den-Berg, Hoogstraten, Lommel, Poperinge;<br />14° buitengebieden: de gemeenten en/of delen van gemeenten die niet afgebakend zijn als grootstedelijk, stedelijk, randstedelijk of kleinstedelijk gebied.
+In dit decreet wordt verstaan onder:<br>
+1° geregeld vervoer: stads- of streekvervoer van personen met een bepaalde regelmaat en op een bepaald traject, waarbij op vooraf vastgestelde halteplaatsen reizigers mogen worden opgenomen of mogen worden afgezet en dit ongeacht de tractiewijze van de aangewende vervoermiddelen. Dit vervoer is voor iedereen toegankelijk, ongeacht in voorkomend geval, de verplichting om de reis te boeken. Een aanpassing van de exploitatievoorwaarden voor het vervoer doet geen afbreuk aan het geregelde karakter van het vervoer;<br>
+2° bijzondere vormen van geregeld vervoer: geregeld vervoer van bepaalde categorieën reizigers met uitsluiting van andere reizigers, met een bepaalde regelmaat en op een bepaald traject, waarbij op vooraf vastgestelde halteplaatsen reizigers mogen worden opgenomen of mogen worden afgezet.<br>
+De bijzondere vormen van geregeld vervoer omvatten onder meer:<br>
+a) vervoer van werknemers van en naar het werk;<br>
+b) vervoer van scholieren en studenten van en naar hun onderwijsinstellingen;<br>
+c) vervoer van militairen en hun gezinnen van en naar hun plaats van legering.<br>
+Aan het geregelde karakter van de bijzondere vorm van geregeld vervoer wordt geen afbreuk gedaan door het feit dat bij de organisatie van het vervoer rekening wordt gehouden met de wisselende behoeften van de gebruiker.<br>
+3° vervoer voor eigen rekening: vervoer voor niet-lucratieve en niet-commerciële doeleinden dat verricht wordt door een natuurlijke persoon of rechtspersoon;<br>
+4° ...;<br>
+4°bis : onwettig ronselen : hetzij kandidaat-klanten aanspreken op openbare plaatsen op het grondgebied van een gemeente waar men niet vergund is, hetzij met het voertuig heen en weer rijden op het grondgebied van een gemeente waar men niet vergund is, hetzij daar stationeren, telkens met het oogmerk om klanten te vervoeren;<br>
+5° ...;<br>
+6° afstand: de afstand in vogelvlucht;<br>
+7° VVM: de Vlaamse Vervoermaatschappij, opgericht bij decreet van 31 juli 1990 tot oprichting van de Vlaamse Vervoermaatschappij;<br>
+8° ...<br>
+9° woonzone: een gebied met als bestemming wonen volgens de gewestplannen en de gewestelijke en de provinciale ruimtelijke uitvoeringsplannen;<br>
+10° grootstedelijke gebieden: de door de Vlaamse regering aangeduide delen van de grootstedelijke gebieden van Antwerpen en Gent;<br>
+11° stedelijke gebieden: de door de Vlaamse regering aangeduide delen van de regionaal-stedelijke gebieden van de gemeenten Brugge, Hasselt-Genk, Kortrijk, Leuven, Mechelen, Oostende, Sint-Niklaas, Aalst, Roeselare, Turnhout;<br>
+12° randstedelijke gebieden: de door de Vlaamse regering aangeduide delen van de randstedelijke gebieden van de gemeenten Aartselaar, Asse, Boechout, Borsbeek, Edegem, Hemiksem, Hove, Kontich, Lint, Mortsel, Niel, Schelle, Wijnegem, Wommelgem, Zwijndrecht, Evergem, De Pinte, Destelbergen, Melle, Merelbeke, Beersel, Dilbeek, Drogenbos, Grimbergen, Kraainem, Linkebeek, Machelen, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Tervuren, Vilvoorde, Wemmel, Wezembeek-Oppem, Zaventem, Damme, Jabbeke, Oostkamp, Zedelgem, Diepenbeek, Zonhoven, Deerlijk, Harelbeke, Kuurne, Wevelgem, Zwevegem, Sint-Katelijne-Waver, Bredene, Middelkerke, Denderleeuw, Ingelmunster, Izegem, Beerse, Oud-Turnhout, Vosselaar;<br>
+13° kleinstedelijke gebieden: de door de Vlaamse regering aangeduide delen van de kleinstedelijke gebieden van de gemeenten Aarschot, Deinze, Dendermonde, Diest, Eeklo, Geraardsbergen, Halle, Ieper, Lier, Lokeren, Ninove, Oudenaarde, Ronse, Sint-Truiden, Vilvoorde, Temse, Tienen, Tongeren, Waregem, Beveren, Bilzen, Blankenberge, Boom, Bree, Geel, Herentals, Knokke-Heist, Leopoldsburg, Maaseik, Maasmechelen, Menen, Mol, Neerpelt-Overpelt, Tielt, Torhout, Veurne, Wetteren, Zottegem, Diksmuide, Heist-op-den-Berg, Hoogstraten, Lommel, Poperinge;<br>
+14° buitengebieden: de gemeenten en/of delen van gemeenten die niet afgebakend zijn als grootstedelijk, stedelijk, randstedelijk of kleinstedelijk gebied.
 
 ### ART. 3.
 
-De bepalingen van dit decreet zijn niet van toepassing op:<br /><br />1° old-timers, voor zover ze voldoen aan de technische voorwaarden zoals bepaald door de Vlaamse regering en voor zover ze niet voor commerciële doeleinden worden gebruikt;<br /><br />2° de diensten ingericht op eigen initiatief ter gelegenheid van onvoorziene gebeurtenissen of om in de toevallige ontoereikendheid of de momentele schorsing van openbare vervoerdiensten te voorzien;<br /><br />3° diensten voor niet-dringend liggend ziekenvervoer.
+De bepalingen van dit decreet zijn niet van toepassing op:<br>
+1° ...;<br>
+2° de diensten ingericht op eigen initiatief ter gelegenheid van onvoorziene gebeurtenissen of om in de toevallige ontoereikendheid of de momentele schorsing van openbare vervoerdiensten te voorzien;<br>
+3° ...
 
 ## HOOFDSTUK II HET GEREGELD VERVOER
 
@@ -152,79 +175,79 @@ Ieder die vervoer voor eigen rekening verricht dient de statistische gegevens hi
 
 ### ART. 25.
 
-Niemand mag, zonder vergunning, een taxidienst exploiteren door middel van één of meer voertuigen van op de openbare weg of op elke andere niet voor het openbaar verkeer opengestelde plaats die zich op het grondgebied van het Vlaamse Gewest bevindt.
+...
 
 ### ART. 26.
 
-§ 1. De voorwaarden voor het exploiteren van een taxidienst worden door de gemeenteraad vastge-legd, binnen de door de Vlaamse regering bepaalde grenzen.<br /><br />§ 2. Onder de voorwaarden bepaald door de gemeenteraad wordt de vergunning of de hernieuwing van de vergunning voor het exploiteren van een taxidienst afgegeven door het college van burgemeester en schepenen van de gemeente waar de exploitant zijn taxidienst wil exploiteren, hierna 'het bevoegde college' te noemen.<br /><br />§ 3. De exploitant van een dienst voor het verhuren van voertuigen met bestuurder, die overeenkomstig artikel 42, § 2, een vergunning bezit, mag de in de vergunning vermelde voertuigen inzetten als een taxidienst, mits een vergunning bedoeld in artikel 25 van het bevoegde college en betaling van een belasting overeenkomstig artikel 36, § 3.<br /><br />§ 4. De gemeenteraad stelt de toepasselijke tarieven vast. Als de algemene vergunningsvoorwaarden geen tarieven voorschrijven, stelt het bevoegde college de tarieven vast op voorstel van de exploitant. <br /><br />§ 5. Het bevoegde college kan slechts één vergunning afgeven per exploitant. De vergunning vermeldt het aantal voertuigen waarvoor ze afgegeven werd en of er al dan niet gebruik gemaakt mag worden van standplaatsen op de openbare weg.
+...
 
 ### ART. 27.
 
-De Vlaamse regering bepaalt de modaliteiten waarbinnen het bevoegde college de vergunningen kan afleveren.
+...
 
 ### ART. 28.
 
-§ 1. De vergunning wordt afgegeven na een onderzoek door de bevoegde gemeente omtrent de door de aanvrager gegeven zedelijke waarborgen, zijn beroepsbekwaamheid en zijn solvabiliteit.<br /><br />§ 2. Wanneer de vergunning aan een rechtspersoon wordt afgegeven, moet de zaakvoerder van de rechtspersoon voldoen aan de voorwaarden opgelegd aan een natuurlijke persoon om houder te worden van de vergunning, en dit gedurende de hele duur van de exploitatie.
+...
 
 ### ART. 29.
 
-§ 1. De vergunning wordt slechts afgegeven aan een natuurlijke persoon of rechtspersoon die hetzij eigenaar is van het of de voertuigen, hetzij er de beschikking over heeft door een contract van aankoop op afbetaling, hetzij door een leasingovereenkomst.<br /><br />§ 2. De vergunninghouder van wie een voertuig tijdelijk niet beschikbaar is ten gevolge van een ongeval, een ernstig mechanisch defect, brand of diefstal, kan, in afwijking van § 1, op zijn verzoek, gemachtigd worden zijn dienst te verrichten door middel van een vervangingsvoertuig dat hij niet in eigendom heeft en waarvoor hij evenmin een contract van aankoop op afbetaling of een leasingovereenkomst kan voorleggen.<br /><br />De machtiging kan slechts voor ten hoogste drie maanden worden verleend en is niet hernieuwbaar.<br /><br />De gemeenteraad bepaalt de wijze waarop deze machtiging moet worden aangevraagd en de vereisten waaraan het voertuig moet voldoen, binnen de door de Vlaamse regering bepaalde grenzen.<br /><br />§ 3. De verhuring door de exploitant, onder welke vorm dan ook van het of de voertuigen aan enigerlei persoon die het of de voertuigen zelf bestuurt of laat besturen, is verboden.
+...
 
 ### ART. 30.
 
-§ 1. De vergunning is persoonlijk en onoverdraagbaar.<br /><br />§ 2. Mits de voorafgaande machtiging van het bevoegde college en onverminderd de bepaling van § 3:<br /><br />1° mag de echtgeno(o)t(e) of de duurzaam samenwonende partner of mogen bloed- of aanverwanten tot de tweede graad bij overlijden of permanente werkonbekwaamheid van de vergunninghouder, onder dezelfde voorwaarden de exploitatie van de dienst voortzetten tot het einde van de in de vergunning gestelde termijn;<br /><br />2° kan een rechtspersoon de exploitatie van een natuurlijke persoon die houder is van een vergunning voortzetten wanneer deze houder zijn vergunning inbrengt in deze rechtspersoon die hij opricht en waarvan hij de meerderheidsvennoot is, alsook de zaakvoerder.<br /><br />§ 3. Een rechtspersoon kan zijn vergunning verdelen onder de personeelsleden van zijn onderneming mits voorafgaande toestemming van het bevoegde college en op voorwaarde dat:<br /><br />1° de vergunning in zijn geheel wordt overgedragen en de rechtspersoon zijn activiteiten als taxi-exploitant volledig stopzet;<br /><br />2° de personeelsleden onder wie de vergunning wordt verdeeld, op datum van de vraag tot verdeling van de vergunning, sedert tenminste drie jaar actief en ononderbroken aan de exploitatie van een taxidienst deelnemen, en die sedert tenminste één jaar als werknemer zijn ingeschreven in het personeelsregister van de rechtspersoon die zijn vergunning wenst te verdelen;<br /><br />3° de rechtspersoon die zijn exploitatie stopzet de nodige bewijsstukken voorlegt waarbij wordt aangetoond dat voldaan is aan de sociale en fiscale verplichtingen.<br /><br />Met uitzondering van de gevallen bedoeld in artikel 31, § 2 en 32, kan een vergunninghouder die zijn taxi-exploitatie stopzet, gedurende een periode van tenminste drie jaar na datum van de akteneming hiervan door het bevoegde college, geen vergunning verwerven, noch meerderheidsvennoot worden in een rechtspersoon die houder is van een vergunning voor het exploiteren van een taxidienst of deze heeft aangevraagd.
+...
 
 ### ART. 31.
 
-§ 1. De duur van de vergunning is vijf jaar. De vergunning kan voor dezelfde duur hernieuwd worden. Zij kan voor minder dan vijf jaar verleend of hernieuwd worden als bijzondere, in de vergunning of hernieuwingsakte vermelde omstandigheden, die afwijking wettigen.<br /><br />§ 2. De hernieuwing van vergunning zal geweigerd worden in volgende gevallen:<br /><br />1° indien de exploitant [of de taxibestuurder  <span class="reference">(ing. decr. 13 februari 2004, art. 5, I: 9 april 2004)</span> ] de bepalingen van dit decreet, de uitvoeringsbesluiten ervan of de exploitatievoorwaarden niet naleeft;<br /><br />2° indien de exploitant niet langer voldoet aan de voorwaarden inzake zedelijkheid, beroepsbekwaamheid of solvabiliteit;<br /><br />3° indien de exploitant de, op hem van toepassing zijnde wetgeving in het kader van zijn beroepsuitoefening, niet naleeft.
+...
 
 ### ART. 32.
 
-Bij een met redenen omklede beslissing van het bevoegde college kan de in artikel 26 bedoelde vergunning ingetrokken of voor een bepaalde duur geschorst worden wegens één van de in artikel 31, § 2, genoemde redenen.
+...
 
 ### ART. 32bis.
 
-In geval van oneigenlijk gebruik van de vergunning in een andere Vlaamse gemeente dan de vergunningverlenende gemeente, bedoeld in artikel 26, § 2, kan de gemeente of een aldaar vergunde exploitant een klacht indienen. Dat gebeurt met een aangetekende brief aan de provinciegouverneur van de provincie waar de gemeente gelegen is die de vergunning heeft uitgereikt aan de exploitant die ze oneigenlijk heeft gebruikt. Onder oneigenlijk gebruik wordt verstaan het onwettig ronselen van klanten.<br /><br />De provinciegouverneur stelt een onderzoek in. De exploitant die ervan beschuldigd wordt zijn vergunning oneigenlijk te gebruiken, wordt gehoord.<br /><br />Als uit het onderzoek blijkt dat de exploitant in een andere gemeente zijn vergunning oneigenlijk gebruikt, verplicht de provinciegouverneur, door middel van een aangetekende brief, de bevoegde gemeente een van de volgende sancties op te leggen aan de exploitant:<br />1° het aantal voertuigen van de betrokken exploitant te verlagen;<br />2° zijn vergunning voor een bepaalde tijd te schorsen;<br />3° zijn vergunning in te trekken.<br /><br />De provinciegouverneur deelt zijn beslissing, met vermelding van de sanctie, met een aangetekende brief mee aan de exploitant en aan beide gemeenten binnen drie maanden na de datum van de indiening van de klacht.<br /><br />De beslissing van de provinciegouverneur moet worden uitgevoerd door de bevoegde gemeente binnen een maand na de datum van de aangetekende brief, bedoeld in het derde lid.<br /><br />De bevoegde gemeente brengt de indiener van de klacht en de provinciegouverneur schriftelijk op de hoogte van de uitvoering van de beslissing binnen twee weken. Als de gemeente in gebreke blijft, zal de provinciegouverneur de opgelegde sanctie zelf uitvoeren binnen een maand.
+...
 
 ### ART. 33.
 
-§ 1. De houder van een vergunning kan te allen tijde het bevoegde college verzoeken het aantal voertuigen dat het voorwerp uitmaakt van zijn vergunning voor een taxidienst, te verhogen of te verlagen.<br /><br />§ 2. De beslissingen van het bevoegde college, genomen krachtens dit artikel, worden genomen volgens de procedure en de voorwaarden die van toepassing zijn op de aanvraag van een vergunning voor een taxidienst.
+...
 
 ### ART. 34.
 
-De exploitanten van taxidiensten mogen ertoe gemachtigd worden om voor de exploitatie van hun diensten over reservevoertuigen te beschikken waarvan ze eigenaar zijn of waarover ze beschikken bij een contract van verkoop op afbetaling of een leasingovereenkomst.<br /><br />De reservevoertuigen moeten ten minste uitgerust zijn om een taxidienst te verzekeren.<br /><br />Overeenkomstig artikel 29, § 3, mogen deze voertuigen niet verhuurd worden.<br /><br />De vergunning vermeldt, in voorkomend geval, het aantal reservevoertuigen waarover de exploitant mag beschikken.
+...
 
 ### ART. 35.
 
-De tarieven moeten in elk voertuig zichtbaar uitgehangen worden.
+...
 
 ### ART. 36.
 
-§ 1. De op basis van artikel 26, §§ 2 en 3 afgegeven vergunningen mogen aanleiding geven tot een jaarlijkse gemeentebelasting ten laste van de natuurlijke of rechtspersoon, die houder is van de vergunning.<br /><br />§ 2. Het bedrag van de belasting voor vergunningen afgeleverd op grond van artikel 26, § 2, bedraagt hoogstens 250 euro per jaar en per in de akte van de vergunning vermeld voertuig.<br /><br />In afwijking van het eerste lid bedraagt de belasting hoogstens 450 euro per jaar en per in de akte van de vergunning vermeld voertuig wanneer de exploitant gebruik maakt van standplaatsen op de openbare weg.<br /><br />§ 3. Het bedrag van de belasting voor vergunningen afgeleverd op grond van artikel 26, § 3, bedraagt 250 euro per jaar, verhoogd met het bedrag van de belasting, verschuldigd op grond van artikel 36, § 2, per in de akte van de vergunning vermeld voertuig.<br /><br />§ 4. Een bijkomende belasting van hoogstens 75 euro per jaar en per in de akte van de vergunning vermeld voertuig mag ge´nd worden ten laste van de exploitanten van taxidiensten zonder standplaats op de openbare weg maar waarvan de voertuigen voorzien zijn van radiotelefonie.<br /><br />§ 5. ...<br /><br />§ 6. De bedragen vermeld in §§ 2, 3 en 4 van dit artikel worden aangepast volgens de schommelingen van het indexcijfer van de consumptieprijzen. Deze aanpassing gebeurt door middel van de coÙfficiÙnt die wordt bekomen door het indexcijfer van de maand december van het jaar voorafgaand aan het belastingjaar te delen door het indexcijfer van de maand december 2000.
+...
 
 ### ART. 37.
 
-§ 1. De op basis van dit hoofdstuk genomen weigeringsbeslissingen of beslissingen houdende de intrekking of de schorsing van vergunning worden omstandig gemotiveerd.<br /><br />§ 2. Tegen in § 1 genoemde beslissingen, of in voorkomend geval bij ontstentenis van beslissing binnen drie maanden na de indiening van de aanvraag, kan beroep ingesteld worden bij de provinciegouverneur, die bij een met redenen omklede beslissing uitspraak doet binnen drie maanden na het ontvangen van het beroepsschrift.<br /><br />Het beroep moet worden ingediend bij aangetekend schrijven binnen vijftien dagen na de betekening van de beslissing tot weigering of binnen vijftien dagen na de datum waarop de termijn van drie maanden verstrijkt die op de indiening van de aanvraag volgt.<br /><br />Indien de provinciegouverneur geen beslissing genomen heeft binnen de in het eerste lid bedoelde termijn kan de aanvrager bij aangetekend schrijven, vragen om binnen de dertig dagen na de verzending, een beslissing te nemen.<br /><br />Indien binnen deze termijn de provinciegouverneur niet heeft beslist, wordt het beroep geacht te zijn ingewilligd.
+...
 
 ### ART. 37bis.
 
-§ 1. Het Vlaams Ministerie van Mobiliteit en Openbare Werken stelt een gegevensbank ter beschikking die de volgende gegevens over de taxidiensten kan bevatten :<br />1° alle informatie omtrent de uitgereikte vergunningen, evenals de gegevens van de aan de vergunning verbonden voertuigen;<br />2° de geweigerde vergunningsaanvragen, evenals de reden van weigering;<br />3° de geschorste vergunningen, de duur van de schorsing en de reden ervan;<br />4° de ingetrokken vergunningen, de datum waarop de beslissing tot intrekking is genomen en de reden ervan;<br />5° de beroepen tegen de schorsingen en de intrekkingen, evenals de beslissingen die genomen zijn over die beroepen.<br /><br />De gegevens worden verzameld en verwerkt met het oog op :<br />1° het vergemakkelijken van het administratief beheer van het vergunningssysteem door de Vlaamse steden en gemeenten;<br />2° het verhogen van de controle door een betere communicatie met de bevoegde Vlaamse en federale diensten.<br /><br />§ 2. De gemeenten, respectievelijk de provincies, voeren de nodige gegevens in de gegevensbank in.<br /><br />De Vlaamse Regering bepaalt tot welke gegevens uit de gegevensbank de gemeenten, de provincies, de VVM, de politie en de overheidsdiensten die belast zijn met het administratieve beheer en de controle van de taxidiensten, toegang hebben. Deze toegang blijft beperkt tot die gegevens die noodzakelijk zijn voor de toepassing van dit decreet en de uitvoeringsbesluiten ervan.<br /><br />§ 3. De Vlaamse Regering bepaalt de nadere regels omtrent de gegevensbank, de gegevensinvoer en -verwerking.
+...
 
 ## AFDELING 2 [... (opgeh. decr. 29 maart 2019, art. 39, I: 1 januari 2020)]
 
 ### ART. 38.
 
-§ 1. De vergunning voor het exploiteren van een taxidienst omvat de toelating voor het stationeren op eender welke standplaats die niet op de openbare weg gelegen is maar waarover de exploitant beschikt, of op eender welke standplaats op de openbare weg in de vergunningverlenende gemeente die voorbehouden wordt voor de taxi 's en vrij is mits de vergunning overeenkomstig artikel 26, § 5, het gebruik hiervan expliciet vermeldt.<br /><br />§ 2. Verschillende ondernemingen mogen de niet op de openbare weg gelegen standplaatsen waarover ze beschikken gemeenschappelijk gebruiken op voorwaarde dat de bevoegde colleges erin toe stemmen. Deze voorafgaande toestemming is niet vereist als het standplaatsen betreft die gelegen zijn op het grondgebied van een enkele gemeente.<br /><br />§ 3. Het aantal voertuigen dat aanwezig is op een bepaalde standplaats op de openbare weg mag in geen geval het aantal beschikbare plaatsen overschrijden.
+...
 
 ### ART. 39.
 
-Het voorzien, het wijzigen en het afschaffen van standplaatsen op de openbare weg in een bepaalde gemeente gebeurt in overleg met de VVM en met de taxi-exploitanten met een vergunning van de betrokken gemeente. De wijze van overlog wordt door de Vlaamse regering bepaald.
+...
 
 ## AFDELING 3 [... (opgeh. decr. 29 maart 2019, art. 39, I: 1 januari 2020)]
 
 ### ART. 40.
 
-De Vlaamse regering bepaalt de gegevens betreffende de exploitatie die de gemeente haar moet verstrekken, evenals de frequentie van de mededeling.  <span class="reference">(verv. decr. 13 februari 2004, art. 8, I: 9 april 2004)</span> ]<br /><br />Deze gegevens zijn vertrouwelijk en slechts bestemd voor statistische doeleinden betreffende het personenvervoer.
+...
 
 ## HOOFDSTUK VI [... (opgeh. decr. 29 maart 2019, art. 39, I: 1 januari 2020)]
 
@@ -232,59 +255,59 @@ De Vlaamse regering bepaalt de gegevens betreffende de exploitatie die de gemeen
 
 ### ART. 41.
 
-§ 1. Niemand mag, zonder vergunning, een dienst voor het verhuren van voertuigen met bestuurder op het grondgebied van het Vlaamse Gewest exploiteren door middel van één of meer voertuigen.<br /><br />§ 2. De vergunning wordt afgeleverd door de gemeente op wiens grondgebied de exploitatiezetel van de kandi-daat-vergunninghouder gevestigd is en is geldig op het grondgebied van het Vlaamse Gewest.<br /><br />§ 3. De Vlaamse regering bepaalt de voorwaarden waaronder een vergunning, afgeleverd door een ander Gewest, erkend wordt voor het grondgebied van het Vlaamse Gewest.
+...
 
 ### ART. 42.
 
-§ 1. De voorwaarden voor het exploiteren van een dienst voor het verhuren   van voertuigen met bestuurder worden door de gemeenteraad vastgelegd. Hierbij   worden minstens de volgende beginselen toegepast:<BR>1° het voertuig dat ingezet   wordt voor de exploitatie van een dienst, moet het door het clinteel vereiste   comfort en accessoires bieden aan passagiers. De Vlaamse regering kan deze   criteria nader bepalen;<BR>2° het voertuig moet periodiek geschouwd worden ten   einde na te gaan of het nog voldoet aan alle exploitatievoorwaarden;<BR>3° elke   verhuring geeft aanleiding tot een inschrijving in een register, dat gehouden   wordt op de zetel van de onderneming en waarin de datum en het uur van de   bestelling voorkomen alsook het precieze voorwerp van het verhuurcontract en de   prijs ervan. Dit register dient gedurende vijf jaar vanaf de ingebruikname   ervan, op de zetel van de onderneming te worden bewaard;<BR>4° het voertuig mag   slechts ter beschikking gesteld worden van een welbepaalde natuurlijke of   rechtspersoon krachtens een schriftelijke overeenkomst naar het model vastgelegd   door de Vlaamse regering, waarvan een exemplaar zich op de zetel van de   onderneming bevindt, en een kopie aan boord van het voertuig, wanneer de   ondertekening van de overeenkomst voorafgaat aan het instappen van de klant, of   waarvan het origineel zich aan boord van het voertuig bevindt, in de andere   gevallen. De schriftelijke overeenkomst vermeldt in elk geval dat het voertuig   ter beschikking gesteld wordt van [de natuurlijke persoon of rechtspersoon voor   een duur van ten minste drie uren;<BR>5° het voertuig mag zich noch op de   openbare weg begeven noch erop stilstaan, indien het niet vooraf op de zetel van   de onderneming verhuurd is;<BR>6° het huurcontract slaat enkel op het voertuig   en niet op de zitplaatsen ervan;<BR>7° de voertuigen moeten voorzien zijn van   een herkenningsteken, conform het model dat door de Vlaamse regering vastgesteld   wordt. De aanvrager dient voor het verkrij-gen van dit herkenningsteken de   vergunning en een uittreksel uit het handelsregister voor te leggen, waaruit   blijkt dat hij ingeschreven werd als exploitant van diensten voor het verhuren   van voertuigen met bestuurder;<BR>8° kentekens die kenmerkend zijn voor als taxi   ingezette voertuigen of die hieraan herinneren, mogen noch in noch op het   voertuig aangebracht worden;<BR>9° het voertuig dat in dienst is, met   uitzondering van de vervangingsvoertuigen, is uitgerust met een kentekenplaat   als vermeld in artikel 4, § 4, van het ministerieel besluit van 23 juli 2001   betreffende de inschrijving van voertuigen, gewijzigd bij de ministeriële   besluiten van 19 december 2007 en 8 november 2010, voor taxidiensten en diensten   voor het verhuren van voertuigen met bestuurder;<BR>10° de exploitanten mogen   voor de diensten voor het verhuren van voertuigen met bestuurder geen reclame   maken onder de benaming "taxi" of onder een motto waarin aan dit woord wordt   herinnerd.<BR><BR>§ 2. Onder de voorwaarden bepaald door de gemeenteraad wordt   de vergunning of de hernieuwing van de vergunning voor het exploiteren van een   dienst voor het verhuren van voertuigen met bestuurder verleend door het college   van burgemeester en schepenen van de gemeente bedoeld in artikel 41, § 2, hierna   'het bevoegde college, te noemen.<BR><BR>§ 3. De exploitant van een taxidienst,   die overeenkomstig artikel 26, § 2, een vergunning bezit, mag een taxi inzetten   als dienst voor het verhuren van voertuigen met bestuurder als het bevoegde   college een vergunning verleent als vermeld in artikel 42, § 2, en als de   onderneming een belasting betaalt als vermeld in artikel 49, § 3.<BR><BR>In   afwijking van § 1, eerste lid, 8°, mag de taxi die ingezet wordt als dienst voor   het verhuren van voertuigen met bestuurder overeenkomstig het eerste lid van dit   artikel, een taximeter houden aan boord van het voertuig.<BR><BR>§ 4. De   gemeenteraad stelt de toepasselijke tarieven vast. Als de algemene   vergunningsvoorwaarden geen tarieven voorschrijven, stelt het bevoegde college   de tarieven vast op voorstel van de exploitant. <BR><BR>§ 5. Het bevoegde   college kan slechts één vergunning afgeven per exploitant. De vergunning wordt   afgegeven aan elke natuurlijke of rechtspersoon die erom verzoekt. De vergunning   vermeldt het aantal voertuigen waarvoor ze afgegeven werd.
+...
 
 ### ART. 43.
 
-§ 1. De vergunning wordt afgegeven na een onderzoek door de bevoegde gemeente omtrent de door de aanvrager gegeven zedelijke waarborgen, zijn beroepsbekwaamheid en zijn solvabiliteit.<br /><br />Het onderzoek mag worden toevertrouwd aan de gemeente op het grondgebied waarvan de aanvrager hetzij zijn maatschappelijke zetel, hetzij zijn exploitatie heeft.<br /><br />§ 2. Wanneer de vergunning aan een rechtspersoon wordt afgegeven, moet de zaakvoerder voldoen aan de voorwaarden opgelegd aan een natuurlijke persoon om houder te worden van de vergunning, en dit gedurende de hele duur van de exploitatie.
+...
 
 ### ART. 44.
 
-§ 1. De vergunning wordt slechts afgegeven aan een natuurlijke persoon of rechtspersoon die hetzij eigenaar is van het voertuig of de voertuigen, hetzij er de beschikking over heeft door een contract van aankoop op afbetaling, hetzij door een leasingovereenkomst.<br /><br />§ 2. De vergunninghouder van wie een voertuig tijdelijk niet beschikbaar is ten gevolge van een ongeval, een ernstig mechanisch defect, brand of diefstal, kan, in afwijking van § 1, op zijn verzoek, gemachtigd worden zijn dienst te verrichten door middel van een vervangingsvoertuig dat hij niet in eigendom heeft en waarvoor hij evenmin een contract van aankoop op afbetaling of een leasingovereenkomst kan voorleggen.<br /><br />Deze machtiging kan slechts voor ten hoogste drie maanden verleend worden en is niet hernieuwbaar.<br /><br />De gemeenteraad bepaalt de wijze waarop deze machtiging moet worden aangevraagd en de vereisten waaraan het voertuig moet voldoen, binnen de door de Vlaamse regering vastgestelde grenzen.<br /><br />§ 3. De verhuring door de exploitant, onder welke vorm dan ook van het voertuig of de voertuigen aan enigerlei persoon die het of de voertuigen zelf bestuurt of laat besturen, is verboden.
+...
 
 ### ART. 45.
 
-De vergunning is persoonlijk en onoverdraagbaar.
+...
 
 ### ART. 46.
 
-§ 1. De duur van de vergunning is vijf jaar. De vergunning kan voor dezelfde duur hernieuwd worden. Zij kan voor minder dan vijf jaar verleend of hernieuwd worden als bijzondere, in de vergunning of hernieuwingsakte vermelde omstandigheden, die afwijking wettigen.<br /><br />§ 2. De hernieuwing van de vergunning kan voor alle of sommige voertuigen geweigerd worden in volgende gevallen:<br /><br />1° indien de exploitant de bepalingen van dit decreet, de uitvoeringsbesluiten ervan of de exploitatievoorwaarden niet naleeft;<br /><br />2° als de exploitant niet langer voldoet aan de voorwaarden inzake zedelijkheid, beroepsbekwaamheid of solvabiliteit;<br /><br />3° indien de exploitant de, op hem van toepassing zijnde wetgeving in het kader van zijn beroepsuitoefening, niet naleeft.
+...
 
 ### ART. 47.
 
-Bij een met redenen omklede beslissing van het bevoegde college, kan de vergunning bedoeld in artikel 42, ingetrokken worden of voor een bepaalde duur geschorst worden wegens één van de in artikel 46, § 2, genoemde redenen.
+...
 
 ### ART. 48.
 
-Indien de exploitant het aantal voertuigen, dat ingezet wordt gedurende de geldigheidsduur van de vergunning, wenst te verhogen of te verlagen, wijzigt het bevoegde college, op zijn aanvraag en tot het aflopen van de vergunning, het aantal voertuigen, dat in de vergunningsakte vermeld wordt.<br /><br />De beslissing wordt genomen volgens de procedure en de voorwaarden die van toepassing zijn op de vergun-ningsaanvraag.
+...
 
 ### ART. 49.
 
-§ 1. De vergunningen die uitgereikt zijn op basis van artikel 42, § 2 en § 3, geven aanleiding tot een jaarlijkse gemeentebelasting ten laste van de natuurlijke persoon of rechtspersoon die houder is van de vergunning.<br /><br />§ 2. Het bedrag van de belasting voor vergunningen afgeleverd op grond van artikel 42, § 2, bedraagt 250 euro per jaar en per in de akte van de vergunning vermeld voertuig.<br /><br />§ 3. Het bedrag van de belasting voor vergunningen afgeleverd op grond van artikel 42, § 3, bedraagt 250 euro per jaar, verhoogd met het bedrag van de belasting, verschuldigd op grond van artikel 36, § 2, per in de akte van de vergunning vermeld voertuig.<br /><br />§ 4. De belasting, vermeld in § 2, en het gedeelte van de belasting, vermeld in § 3, en in artikel 36, § 3, dat betrekking heeft op de vergunning voor een dienst voor het verhuren van voertuigen met bestuurder, zijn verschuldigd voor het hele jaar, onafhankelijk van het moment waarop de vergunning wordt afgegeven. De vergunninghouder is de eerste jaarlijkse belasting verschuldigd op het ogenblik van de afgifte van de vergunning en nadien telkens op 1 januari van het kalenderjaar.<br /><br />De vermindering van het aantal voertuigen of de opschorting van de exploitatie met een of meer voertuigen geeft geen aanleiding tot een belastingteruggave. Dit geldt eveneens voor de opschorting of de intrekking van een vergunning of het buiten werking stellen van een of meer voertuigen voor welke reden dan ook.<br /><br />§ 5. De bedragen vermeld in §§ 2, 3 en 4 van dit artikel worden aangepast volgens de schommelingen van het indexcijfer van de consumptieprijzen. Deze aanpassing gebeurt door middel van de coëfficiënt die wordt bekomen door het indexcijfer van de maand december van het jaar voorafgaand aan het belastingjaar te delen door het indexcijfer van de maand decem-ber 2000.
+...
 
 ### ART. 50.
 
-§ 1. De op basis van dit hoofdstuk genomen weigeringsbeslissingen of beslissingen houdende de intrekking of de schorsing van vergunning worden omstandig gemotiveerd.<br /><br />§ 2. Tegen de in § 1 bedoelde beslissingen, of in voorkomend geval bij ontstentenis van beslissing binnen drie maanden na de indiening van de aanvraag, kan beroep ingesteld worden bij de provinciegouverneur, die bij een met redenen omklede beslissing uitspraak doet binnen drie maanden na het ontvangen van het beroepsschrift.<br /><br />Het beroep moet worden ingediend bij aangetekend schrijven binnen een termijn van vijftien dagen na de betekening van de beslissing tot weigering of binnen een termijn van vijftien dagen na de datum waarop de termijn van drie maanden verstrijkt die op de indiening van de aanvraag volgt.<br /><br />Indien de provinciegouverneur geen beslissing genomen heeft binnen de in het eerste lid bedoelde termijn kan de aanvrager bij aangetekend schrijven, vragen om binnen de dertig dagen na de verzending, een beslissing te nemen.<br /><br />Indien binnen deze termijn de provinciegouverneur niet heeft beslist, wordt het beroep geacht te zijn ingewilligd.
+...
 
 ### ART. 50bis.
 
-§ 1. Het Vlaams Ministerie van Mobiliteit en Openbare Werken stelt een gegevensbank ter beschikking die de volgende gegevens over de diensten voor het verhuren van voertuigen met bestuurder kan bevatten :<br />1° alle informatie omtrent de uitgereikte vergunningen, evenals de gegevens van de aan de vergunning verbonden voertuigen;<br />2° de geweigerde vergunningsaanvragen, evenals de reden van de weigering;<br />3° de geschorste vergunningen, de duur van de schorsing en de reden ervan;<br />4° de ingetrokken vergunningen, de datum waarop de beslissing tot intrekking is genomen en de reden ervan;<br />5° de beroepen tegen de schorsingen en de intrekkingen, evenals de beslissingen die genomen zijn over die beroepen.<br /><br />De gegevens worden verzameld en verwerkt met het oog op :<br />1° het vergemakkelijken van het administratief beheer van het vergunningssysteem door de Vlaamse steden en gemeenten;<br />2° het verhogen van de controle door een betere communicatie met de bevoegde Vlaamse en federale diensten.<br /><br />§ 2. De gemeenten, respectievelijk de provincies, voeren de nodige gegevens in de gegevensbank in.<br /><br />De Vlaamse Regering bepaalt tot welke gegevens uit de gegevensbank de gemeenten, de provincies, de VVM, de politie en de overheidsdiensten die belast zijn met het administratieve beheer en de controle van de diensten voor het verhuren van voertuigen met bestuurder, toegang hebben. Deze toegang blijft beperkt tot die gegevens die noodzakelijk zijn voor de toepassing van dit decreet en de besluiten genomen in uitvoering van dit decreet.<br /><br />§ 3. De Vlaamse Regering bepaalt de nadere regels omtrent de gegevensbank, de gegevensinvoer en -verwerking.
+...
 
 ## AFDELING 2 [... (opgeh. decr. 29 maart 2019, art. 39, I: 1 januari 2020)]
 
 ### ART. 51.
 
-De exploitant, die door het bevoegde college ertoe gemachtigd wordt een dienst voor het verhuren van voertuigen te exploiteren, mag de voertuigen, die niet in dienst zijn, slechts laten stationeren op plaatsen die zich bevinden op het privé-terrein bestemd voor de exploitatie van een dienst van bezoldigd vervoer van personen waarvan de exploitant van de dienst eigenaar is of erover beschikt en zijnde de zetel van de exploitatie van de onderneming.
+...
 
 ## AFDELING 3 [... (opgeh. decr. 29 maart 2019, art. 39, I: 1 januari 2020)]
 
 ### ART. 52.
 
-[De Vlaamse regering bepaalt de gegevens betreffende de exploitatie die de gemeente haar moet verstrekken, evenals de frequentie van de mededeling.  <span class="reference">(verv. decr. 13 februari 2004, art. 10, I: 9 april 2004)</span> ]<br /><br />De gegevens zijn vertrouwelijk en slechts bestemd voor statistische doeleinden betreffende het personenvervoer.
+...
 
 ## HOOFDSTUK VII MOBILITEITSRAAD VAN VLAANDEREN
 
@@ -348,12 +371,12 @@ De exploitant, die door het bevoegde college ertoe gemachtigd wordt een dienst v
 2° zonder vergunning of overeenkomst als vermeld in artikel 19, een dienst voor de bijzondere vormen van geregeld vervoer exploiteren;<br>
 3° zonder attest als vermeld in artikel 23, aan vervoer voor eigen rekening doen;<br>
 4° zonder vergunning voor toegang tot het beroep als vermeld in artikel 24bis, een dienst voor het geregeld vervoer of een dienst voor de bijzondere vormen van geregeld vervoer, exploiteren;<br>
-5° zonder vergunning als vermeld in artikel 25, een taxidienst exploiteren;<br>
-6° zonder vergunning als vermeld in artikel 25, onwettig ronselen;<br>
-7° zonder vergunning als vermeld in artikel 41, een dienst voor het verhuren van voertuigen met bestuurder exploiteren;<br>
-8° de vergunning oneigenlijk gebruiken als vermeld in artikel 32bis ;<br>
-9° de door de gemeenteraad of de door de algemene vergunningsvoorwaarden vastgestelde tarieven als vermeld in artikel 26, § 4, niet respecteren;<br>
-10° artikel 42, § 1, 3°, 4°, 5° of 7°, overtreden.<br>
+5° ...;<br>
+6° ...;<br>
+7° ...;<br>
+8° ...;<br>
+9° ...;<br>
+10° ...<br>
 <br>
 § 2. Onverminderd de schadevergoeding, wordt gestraft met een gevangenisstraf van acht dagen tot drie maanden en met een geldboete van 26 euro tot 10 000 euro, of met een van deze straffen alleen degene die een andere inbreuk pleegt op de bepalingen van dit decreet of de uitvoeringsbepalingen ervan, andere dan deze bedoeld in artikel 66, § 1 en artikel 66bis.<br>
 <br>
@@ -428,7 +451,57 @@ De personen, bedoeld in artikel 64, § 1 stellen de overtredingen vast bij proce
 
 ### ART. 70.
 
-(niet opgenomen)<br /><br />(Heft op:<br /><br />1° de wet van 9 juli 1875 houdende de tramwegen met uitzondering van artikelen 7 en 11;<br /><br />2° de wet van 24 juni 1885 op de buurtspoorwegen;<br /><br />3° het koninklijk besluit van 6 juli 1885 houdende de vaststelling van de voorwaarden waartegen de staat tegenover derden de obligatiedienst van de N.M.V.B. waarborgt;<br /><br />4° het koninklijk besluit van 22 juli 1885 betreffende de aan de N.M.V.B. te vergunnen concessies;<br /><br />5° de wet van 11 augustus 1924 waarbij de Nationale Maatschappij van Buurtspoorwegen vergunning kan bekomen autovervoerdiensten in te richten en in bedrijf te nemen;<br /><br />6° de wet van 20 juli 1927 waarbij de regering gemachtigd wordt zekere wijzigingen goed te keuren aan de statuten van de Nationale Maatschappij van Buurtspoorwegen;<br /><br />7° de wet van 29 augustus 1931 houdende uitbreiding tot de "Trolley-bussen" van de bepalingen van de wet van 24 juni 1885 op de Buurtspoorwegen en van de wetten van 9 juli 1875 en 15 augustus 1897 op de tramwegen;<br /><br />8° de wet van 29 augustus 1931 waarbij de Nationale Maatschappij van Buurtspoorwegen gemachtigd wordt tot in bedrijf nemen van een autobusdienst met het doel de exploitatievoorwaarden van een vergunde buurtspoorweg te verbeteren;<br /><br />9° de wet van 3 mei 1936 houdende machtiging voor de Nationale Maatschappij van Buurtspoorwegen tot het beheren van de Nationale Autovervoerdienst;<br /><br />10° het koninklijk besluit van 25 november 1939 tot verlening van 's Rijks waarborg aan een lening der Nationale Maatschappij van Buurtspoorwegen;<br /><br />11° de besluitwet van 8 juli 1946 waarbij het aan de Nationale Maatschappij van Buurtspoorwegen is toegelaten autodiensten voor het vervoer van goederen over de weg in te richten;<br /><br />12° artikel 1, voor wat het geregeld vervoer en de bijzondere vormen van geregeld vervoer betreft, de artikelen 3 tot en met 13, 16, derde lid, 17, tweede lid, 19, derde en vierde lid, de artikelen 20 en 21, voor wat de Nationale Maatschappij van Buurtspoorwegen betreft, artikel 22 voor wat het geregeld vervoer en de bijzondere vormen van geregeld vervoer betreft en de artikelen 31bis, 32 en 33 van de besluitwet van 30 december 1946 betreffende het bezoldigd vervoer van personen over de weg met autobussen en met autocars, zoals tot op heden gewijzigd;<br /><br />13° het besluit van de Regent van 15 maart 1947 betreffende het bezoldigd vervoer van personen door middel van automobielen;<br /><br />14° artikel 23, derde lid, van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut;<br /><br />15° de wet van 22 februari 1961 betreffende de oprichting van Maatschappijen voor Stedelijk Gemeenschappelijk Vervoer;<br /><br />16° artikel 50 van de wet van 28 december 1973 betreffende de budgettaire voorstellen 1973-1974 :<br /><br />17° de wet van 27 december 1974 betreffende de taxidiensten;<br /><br />18° het koninklijk besluit van 19 maart 1975 betreffende de diensten voor het verhuren van voertuigen met chauffeur;<br /><br />19° het koninklijk besluit van 7 juli 1975 betreffende de regionale comités van advies voor de taxi's;<br /><br />20° het ministerieel besluit van 24 december 1976 betreffende de aanstelling en de bevoegdheden van de opdrachtgelastigde van de regering bij de Nationale Maatschappij der Buurtspoorwegen en van (sic) de Maatschappij voor Intercommunaal vervoer;<br /><br />21° het koninklijk besluit nr. 140 van 30 december 1982 betreffende saneringsmaatregelen toepasselijk op sommige instellingen van openbaar nut behorend tot het Ministerie van Verkeerswezen, in zover die betrekking hebben op de Nationale Maatschappij van Buurtspoorwegen en de Maatschappijen voor het Intercommunaal Vervoer;<br /><br />22° het koninklijk besluit van 25 september1984 betreffende het Comité van advies voor de personenvervoerdiensten over de weg;<br /><br />23° het ministerieel besluit van 30 augustus 1985 houdende oprichting van subcomités in de schoot van het Comité van advies voor de personenvervoerdiensten over de weg;<br /><br />24° het koninklijk besluit van 18 augustus 1988 inzake de verlenging voor onbeperkte duur van de aan de Maatschappijen voor Intercommunaal vervoer verleende concessies en machtigingen)
+(niet opgenomen)<br>
+<br>
+(Heft op:<br>
+<br>
+1° de wet van 9 juli 1875 houdende de tramwegen met uitzondering van artikelen 7 en 11;<br>
+<br>
+2° de wet van 24 juni 1885 op de buurtspoorwegen;<br>
+<br>
+3° het koninklijk besluit van 6 juli 1885 houdende de vaststelling van de voorwaarden waartegen de staat tegenover derden de obligatiedienst van de N.M.V.B. waarborgt;<br>
+<br>
+4° het koninklijk besluit van 22 juli 1885 betreffende de aan de N.M.V.B. te vergunnen concessies;<br>
+<br>
+5° de wet van 11 augustus 1924 waarbij de Nationale Maatschappij van Buurtspoorwegen vergunning kan bekomen autovervoerdiensten in te richten en in bedrijf te nemen;<br>
+<br>
+6° de wet van 20 juli 1927 waarbij de regering gemachtigd wordt zekere wijzigingen goed te keuren aan de statuten van de Nationale Maatschappij van Buurtspoorwegen;<br>
+<br>
+7° de wet van 29 augustus 1931 houdende uitbreiding tot de "Trolley-bussen" van de bepalingen van de wet van 24 juni 1885 op de Buurtspoorwegen en van de wetten van 9 juli 1875 en 15 augustus 1897 op de tramwegen;<br>
+<br>
+8° de wet van 29 augustus 1931 waarbij de Nationale Maatschappij van Buurtspoorwegen gemachtigd wordt tot in bedrijf nemen van een autobusdienst met het doel de exploitatievoorwaarden van een vergunde buurtspoorweg te verbeteren;<br>
+<br>
+9° de wet van 3 mei 1936 houdende machtiging voor de Nationale Maatschappij van Buurtspoorwegen tot het beheren van de Nationale Autovervoerdienst;<br>
+<br>
+10° het koninklijk besluit van 25 november 1939 tot verlening van 's Rijks waarborg aan een lening der Nationale Maatschappij van Buurtspoorwegen;<br>
+<br>
+11° de besluitwet van 8 juli 1946 waarbij het aan de Nationale Maatschappij van Buurtspoorwegen is toegelaten autodiensten voor het vervoer van goederen over de weg in te richten;<br>
+<br>
+12° artikel 1, voor wat het geregeld vervoer en de bijzondere vormen van geregeld vervoer betreft, de artikelen 3 tot en met 13, 16, derde lid, 17, tweede lid, 19, derde en vierde lid, de artikelen 20 en 21, voor wat de Nationale Maatschappij van Buurtspoorwegen betreft, artikel 22 voor wat het geregeld vervoer en de bijzondere vormen van geregeld vervoer betreft en de artikelen 31bis, 32 en 33 van de besluitwet van 30 december 1946 betreffende het bezoldigd vervoer van personen over de weg met autobussen en met autocars, zoals tot op heden gewijzigd;<br>
+<br>
+13° het besluit van de Regent van 15 maart 1947 betreffende het bezoldigd vervoer van personen door middel van automobielen;<br>
+<br>
+14° artikel 23, derde lid, van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut;<br>
+<br>
+15° de wet van 22 februari 1961 betreffende de oprichting van Maatschappijen voor Stedelijk Gemeenschappelijk Vervoer;<br>
+<br>
+16° artikel 50 van de wet van 28 december 1973 betreffende de budgettaire voorstellen 1973-1974 :<br>
+<br>
+17° de wet van 27 december 1974 betreffende de taxidiensten;<br>
+<br>
+18° het koninklijk besluit van 19 maart 1975 betreffende de diensten voor het verhuren van voertuigen met chauffeur;<br>
+<br>
+19° ...;<br>
+<br>
+20° het ministerieel besluit van 24 december 1976 betreffende de aanstelling en de bevoegdheden van de opdrachtgelastigde van de regering bij de Nationale Maatschappij der Buurtspoorwegen en van (sic) de Maatschappij voor Intercommunaal vervoer;<br>
+<br>
+21° het koninklijk besluit nr. 140 van 30 december 1982 betreffende saneringsmaatregelen toepasselijk op sommige instellingen van openbaar nut behorend tot het Ministerie van Verkeerswezen, in zover die betrekking hebben op de Nationale Maatschappij van Buurtspoorwegen en de Maatschappijen voor het Intercommunaal Vervoer;<br>
+<br>
+22° het koninklijk besluit van 25 september1984 betreffende het Comité van advies voor de personenvervoerdiensten over de weg;<br>
+<br>
+23° het ministerieel besluit van 30 augustus 1985 houdende oprichting van subcomités in de schoot van het Comité van advies voor de personenvervoerdiensten over de weg;<br>
+<br>
+24° het koninklijk besluit van 18 augustus 1988 inzake de verlenging voor onbeperkte duur van de aan de Maatschappijen voor Intercommunaal vervoer verleende concessies en machtigingen)
 
 ## AFDELING 3 OVERGANGSBEPALINGEN
 
@@ -446,25 +519,25 @@ De personen, bedoeld in artikel 64, § 1 stellen de overtredingen vast bij proce
 
 ### ART. 73.
 
-[De vergunningen die werden uitgereikt op basis van artikel 3, § 2, van de   wet van 27 december 1974 betreffende de taxidiensten blijven maximaal vijf jaar   geldig na de inwerkingtreding van dit decreet.  <span class="reference">(verv. decr. 13 februari 2004, art. 12,   I:&nbsp;1 juni 2004)</span> ]
+...
 
 ### ART. 74.
 
-De houders van vergunningen voor een taxidienst, die afgegeven werden krachtens de wet van 27 december 1974 betreffende de taxidiensten, worden, overeenkomstig artikel 7 van voormelde wet, ertoe gemachtigd, tot twee jaar na de inwerkingtreding van dit decreet, hun vergunningen over te dragen.
+...
 
 ### ART. 75.
 
-[De houders van een vergunning die zonder onderbreking een taxidienst   hebben geëxploiteerd ten minste gedurende vijf jaar voorafgaand aan de   inwerkingtreding van dit decreet en die de exploitatie van deze dienst   definitief stopzetten, worden er toe gemachtigd hun vergunningen over te dragen   volgens de voorwaarden bedoeld in artikel 7 van de wet van 27 december 1974   betreffende de taxidiensten.  <span class="reference">(verv. decr. 13 februari 2004, art. 13, I:&nbsp;1 juni 2004)</span> ]
+...
 
 ### ART. 76.
 
-De artikelen 10 en 18 van de wet van 27 december 1974 betreffende de taxidiensten, blijven van toepassing tot de dag van de inwerkingtreding van het besluit van de Vlaamse regering dat in uitvoering van artikel 26 van dit decreet genomen wordt.
+...
 
 ## ONDERAFDELING C [... (opgeh. decr. 29 maart 2019, art. 42, I: 1 januari 2020)]
 
 ### ART. 77.
 
-De natuurlijke of rechtspersonen die daadwerkelijk een dienst voor het verhuren van voertuigen met bestuurder exploiteren op de dag van inwerkingtreding van het decreet, zijn ertoe gehouden hun onderneming bekend te maken bij het bevoegde college binnen de zes maanden na de inwerkingtreding van dit decreet en volgens de modaliteiten die door de Vlaamse regering vastgelegd worden.<br /><br />In dit geval wordt aan deze exploitanten een eerste vergunning afgegeven voor de duur van één jaar.<br /><br />Bij gebrek aan een dergelijke bekendmaking binnen de termijn, bedoeld in het eerste lid, wordt de exploitant geacht een dienst voor het verhuren van voertuigen met bestuurder te exploiteren zonder vergunning.
+...
 
 ## ONDERAFDELING D EURO
 
