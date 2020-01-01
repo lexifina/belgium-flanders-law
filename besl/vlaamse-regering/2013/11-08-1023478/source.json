@@ -2,16 +2,16 @@
   "codex_id": 1023478,
   "title": "Besluit van de Vlaamse Regering van 2013-11-08 betreffende de algemene regels inzake subsidiëring",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023478/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "6d74a3b3c0f3699dabfc7eb884c3abdef90c1a31ac8f57cbb6279524f54b73e1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023478/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "85ba988bf9cb14cb917c0c9f9ea13e3c4a834a989f77f543cb057f0bef07536b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023478&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2020-01-01",
   "made": "2013-11-08",
   "gazette": "2013-12-18",
   "numac": 2013206869,
   "document_start": "2014-01-01",
   "document_end": "2019-12-31",
-  "in_force": "2014-01-01",
+  "in_force": "2020-01-01",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
