@@ -282,6 +282,7 @@ Subsidieerbare sporttakken topsport voor de olympiade Tokyo 2017-2020<br>
 - gymnastiek<br>
 - handbal<br>
 - hockey<br>
+- ijsschaatsen<br>
 - judo<br>
 - kano - kajak<br>
 - paardrijden<br>
