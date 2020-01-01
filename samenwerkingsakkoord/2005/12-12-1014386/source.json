@@ -2,16 +2,16 @@
   "codex_id": 1014386,
   "title": "Samenwerkingsakkoord van 2005-12-12 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie inzake de tenuitvoerlegging van de wet van 24 april 2003 tot hervorming van de adoptie",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014386/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "a2aa7a86a2943ed2bf5f7d717cb08aac9ed611d8751ef6e9aecb11a23a64f4a0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014386/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "e2e6ddd68996ecee412415d35cf323bfb0b84a6f985533911e19530e96e807d3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014386&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2020-01-01",
   "made": "2005-12-12",
   "gazette": "2006-03-23",
   "numac": 0,
   "document_start": "2005-09-01",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 14,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-01-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
