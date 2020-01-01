@@ -101,9 +101,9 @@ In dit artikel wordt verstaan onder verzamelaanvraag : de verzamelaanvraag, verm
 <br>
 De landbouwer, vermeld in artikel 7, § 1, vraagt de subsidie, vermeld in artikel 2, aan via de verzamelaanvraag voor de uiterste indieningsdatum ervan.<br>
 <br>
-In de verzamelaanvraag geeft de landbouwer aan wat de verzekerde percelen en de teelten erop zijn.<br>
+Bij zijn aanvraag duidt de landbouwer, vermeld in artikel 7, § 1, de door hem afgesloten erkende brede weersverzekeringen aan.<br>
 <br>
-De minister kan de aanvraagprocedure, vermeld in het tweede lid, wijzigen.
+De minister kan de aanvraagprocedure, vermeld in het tweede en derde lid, wijzigen.
 
 ### ART 9.
 
