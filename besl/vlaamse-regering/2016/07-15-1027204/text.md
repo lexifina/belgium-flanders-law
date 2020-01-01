@@ -37,7 +37,7 @@ In dit besluit wordt verstaan onder:<br>
 
 Het agentschap kent met ingang van 1 januari 2016 een subsidie toe:<br>
 1° aan een project FCUD;<br>
-2° voor hetzelfde bedrag als in 2014 is uitbetaald door het Federaal Agentschap voor de Kinderbijslag conform het koninklijk besluit 19 augustus 1997 en het bijzonder reglement;<br>
+2° voor hetzelfde bedrag als in 2014 is uitbetaald door het Federaal Agentschap voor de Kinderbijslag conform het koninklijk besluit 19 augustus 1997 en het bijzonder reglement; Dat bedrag kan bestaan uit een component opvang zieke kinderen en een component buitenschoolse opvang. Op de component zieke kinderen wordt een vermindering van 1,3 % toegepast;<br>
 3° conform de volgende voorwaarden:<br>
 a) de voorwaarden, vermeld in het koninklijk besluit 19 augustus 1997 en het bijzonder reglement;<br>
 b) het project FCUD heeft minstens 80% bezetting per kalenderjaar. Voor de berekening van de bezetting geldt het aantal aanwezigheidsdagen als basis;<br>
