@@ -852,7 +852,7 @@ De steunintensiteit bij de waarborgpremie, zoals bepaald in artikel 63/25/3, wor
 
 ### ART 63/25/3.
 
-In afwijking van artikel 8, vijfde lid, van het decreet van 7 mei 2004 houdende bepalingen inzake kas-, schuld- en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest, betaalt de ontvanger van de waarborg bij de aanvraag en dus voorafgaand aan de start van het aardwarmteproject in de diepe ondergrond een premie als percentage van het maximale uitkeringsbedrag.
+De ontvanger van de waarborg betaalt&nbsp;bij de aanvraag en dus voorafgaand aan de start van het aardwarmteproject in de diepe ondergrond een premie als percentage van het maximale uitkeringsbedrag.
 
 ### ART 63/25/4.
 
