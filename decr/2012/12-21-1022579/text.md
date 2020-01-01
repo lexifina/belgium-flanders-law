@@ -124,7 +124,7 @@ Aan artikel 10 van het decreet van 29 juni 2012 betreffende de   studentenvoorzi
 <br>
 In afwijking van het eerste lid draagt het begrotingsfonds met ingang van 1 juli 2015 de naam "Begrotingsfonds Dienstverlening AHOVOKS".</p>
 
-<p>§ 2. Het fonds is een begrotingsfonds zoals vermeld in artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.</p>
+<p>§ 2. Het fonds is een begrotingsfonds als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.</p>
 
 <p>§ 3. Het fonds wordt gespijsd door alle ontvangsten die voortvloeien uit :<br>
 1° de inschrijvingsgelden van het toelatingsexamen Arts en Tandarts vermeld in artikel II.187, § 2, van de Codex Hoger Onderwijs;<br>
@@ -295,7 +295,15 @@ Het besluit van de Vlaamse Regering van 14 september 2012 tot wijziging   van bi
 
 ### ART. 57.
 
-<P>§ 1. Er wordt een Fonds Administratieve Toeristische boeten opgericht, hierna   genoemd « het fonds ».<BR></P>  <P>§ 2. Het fonds is een begrotingsfonds in de zin van artikel 12 van het   decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de   toekenning van subsidies en de controle op de aanwending ervan, en de controle   door het Rekenhof.<BR></P>  <P>§ 3. Het fonds wordt gespijsd door de invordering van de administratieve   boeten bepaald in artikel 22 van het decreet van 10 juli 2008 betreffende de   toeristische logies.<BR></P>  <P>§ 4. Het fonds wordt aangewend voor de uitvoering en handhaving van de   Vlaamse toeristische vergunningenregelgeving en voor initiatieven om de Vlaamse   toeristische sector te sensibiliseren van het nut en de kwaliteit van een   toeristische vergunning.<BR></P>  <P>§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks   over de kredieten van het fonds.<BR></P>
+<p>§ 1. Er wordt een Fonds Administratieve Toeristische boeten opgericht, hierna genoemd « het fonds ».</p>
+
+<p>§ 2. Het fonds is een begrotingsfonds als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.</p>
+
+<p>§ 3. Het fonds wordt gespijsd door de invordering van de administratieve boeten bepaald in artikel 22 van het decreet van 10 juli 2008 betreffende de toeristische logies.</p>
+
+<p>§ 4. Het fonds wordt aangewend voor de uitvoering en handhaving van de Vlaamse toeristische vergunningenregelgeving en voor initiatieven om de Vlaamse toeristische sector te sensibiliseren van het nut en de kwaliteit van een toeristische vergunning.</p>
+
+<p>§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.</p>
 
 ## HOOFDSTUK 16 Kas-, schuld- en waarborgbeheer
 
