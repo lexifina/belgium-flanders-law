@@ -14,7 +14,9 @@ Er wordt een Auditcel opgericht bij de Auditautoriteit.<br /><br />De leden van 
 
 ### ART. 3.
 
-In hun hoedanigheid van Auditautoriteit en Auditinstantie maken de aangewezen Inspecteurs van Financiën gebruik van de bevoegdheden waarover zij beschikken krachtens het besluit van de Vlaamse Regering van 19 januari 2001 houdende regeling van de begrotingscontrole en -opmaak,  van de bevoegdheden die voortvloeien uit de voormelde Verordening (EG) nr. 1083/2006 van 11 juli 2006 en van de bevoegdheden die voortvloeien uit de voormelde Beschikking 2007/435/EG van 25 juni 2007.<br /><br />De activiteiten van de Auditautoriteit en van de Auditinstantie worden gelijkgesteld met de activiteiten die worden uitgevoerd op grond van het besluit van de Vlaamse Regering van 19 januari 2001 houdende regeling van de begrotingscontrole.<br />
+In hun hoedanigheid van Auditautoriteit en Auditinstantie maken de aangewezen Inspecteurs van Financiën gebruik van de bevoegdheden waarover zij beschikken krachtens hoofdstuk 6, afdeling 2, onderafdeling 2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, van de bevoegdheden die voortvloeien uit de voormelde Verordening (EG) nr. 1083/2006 van 11 juli 2006 en van de bevoegdheden die voortvloeien uit de voormelde Beschikking 2007/435/EG van 25 juni 2007.<br>
+<br>
+De activiteiten van de Auditautoriteit en van de Auditinstantie worden gelijkgesteld met de activiteiten die worden uitgevoerd op grond van hoofdstuk 6, afdeling 2, onderafdeling 2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
 ### ART. 4.
 
