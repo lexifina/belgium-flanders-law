@@ -60,7 +60,7 @@ Voor de bepaling van het gezamenlijk belastbaar inkomen, vermeld in het eerste l
 <br>
 Het inkomen, vermeld in het eerste lid, 8°, wordt geïndexeerd volgens de gezondheidsindex van de maand juni van het jaar dat aan de toepassing ervan voorafgaat, met als basis de maand juni van het jaar waarop het inkomen betrekking heeft.<br>
 <br>
-Om als persoon ten laste als vermeld in het eerste lid, 17°, c), te worden beschouwd, gelden dezelfde voorwaarden als de voorwaarden die bepaald zijn ter uitvoering van artikel 1, eerste lid, 22°, c), van het Kaderbesluit Sociale Huur van 12 oktober 2007.<br>
+Om als persoon ten laste als vermeld in het eerste lid, 17°, c), te worden beschouwd, gelden dezelfde voorwaarden als de voorwaarden die bepaald zijn ter uitvoering van artikel 1, eerste lid, 19°, c), van het Kaderbesluit Sociale Huur van 12 oktober 2007.<br>
 <br>
 Als een persoon zowel beantwoordt aan de definitie van persoon ten laste, vermeld in het eerste lid, 17°, a) of b), als aan de definitie van persoon ten laste, vermeld in het eerste lid, 17°, c), telt die persoon voor twee personen ten laste.</p>
 
@@ -131,7 +131,7 @@ De maximale huurprijs, vermeld in het tweede en derde lid, wordt gekoppeld aan h
 
 ### ART. 5.
 
-<p>§ 1. Het inkomen van de huurder, vermeerderd met het inkomen van de inwonende gezinsleden, mag de grenzen vermeld in artikel 3, § 2 van het Kaderbesluit Sociale Huur van 12 oktober 2007, niet overschrijden.<br>
+<p>§ 1. Het inkomen van de huurder, vermeerderd met het inkomen van de inwonende gezinsleden, mag de grenzen vermeld in artikel 3, §&nbsp;3 van het Kaderbesluit Sociale Huur van 12 oktober 2007, niet overschrijden.<br>
 <br>
 De huurder die jonger is dan 25 jaar beschikt op de aanvraagdatum over andere inkomsten dan kinderbijslag of wezentoelage, waarmee het saldo van de huurprijs kan worden betaald.<br>
 <br>
@@ -139,7 +139,7 @@ De huurder die jonger is dan 25 jaar beschikt op de aanvraagdatum over andere in
 <br>
 In afwijking van het eerste lid geldt de verplichting tot inschrijving niet voor:<br>
 1° de huurder als vermeld in artikel 2, § 1, eerste lid, 2° en 3° ;<br>
-2° de huurder van een assistentiewoning als vermeld in artikel 33 van het decreet Woonzorgdecreet van 13 maart 2009;<br>
+2° de huurder van een assistentiewoning in een groep van assistentiewoningen als vermeld in artikel 30 van het Woonzorgdecreet van 15 februari 2019;<br>
 3° de huurder die op de aanvraagdatum een tegemoetkoming ontving overeenkomstig dit besluit en waarvan de aanvraag werd ingediend voor 1 mei 2014.<br>
 <br>
 In het eerste lid wordt verstaan onder inschrijvingsregister: het register waarin personen als kandidaat-huurder ingeschreven worden conform het Kaderbesluit Sociale Huur van 12 oktober 2007.<br>
