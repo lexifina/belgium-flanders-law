@@ -2,16 +2,16 @@
   "codex_id": 1028521,
   "title": "Besluit van de Vlaamse Regering van 2017-06-20 houdende de uitvoering van het Cultureelerfgoeddecreet van 24 februari 2017",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028521/VolledigDocument?datum=2017-08-17",
-  "source_sha256": "ce3c4d05bcc142e3d38be3e887d26bf642e579965ac57ff5bf53fa06cef796fc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028521/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "3b88a43662e1c98642678e5ce49e464babef58eae8a2de8edad672d51c12381c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028521&param=informatie",
-  "as_of": "2017-08-17",
+  "as_of": "2020-01-01",
   "made": "2017-06-20",
   "gazette": "2017-08-07",
   "numac": 2017030860,
   "document_start": "2017-08-17",
   "document_end": "2022-11-06",
-  "in_force": "2017-08-17",
+  "in_force": "2020-01-01",
   "article_versions": 103,
-  "record_form": "consolidated version as in force on 2017-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }

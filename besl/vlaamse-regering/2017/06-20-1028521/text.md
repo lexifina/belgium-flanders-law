@@ -688,7 +688,7 @@ De administratie kan alle initiatieven nemen die ze nodig acht voor de uitoefeni
 
 Bij het jaarlijks toezicht, vermeld in artikel 56, stelt de administratie de reserves vast die ten laste van subsidies zijn aangelegd.<br>
 <br>
-Na afloop van de beleidsperiode worden de reserves, vermeld in het eerste lid, die niet voldoen aan de bepalingen van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring, ingehouden of teruggestort aan de Vlaamse overheid.
+Na afloop van de beleidsperiode worden de reserves, vermeld in het eerste lid, die niet voldoen aan de bepalingen van de bepalingen van hoofdstuk 8 van het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019, ingehouden of teruggestort aan de Vlaamse overheid.
 
 ## Onderafdeling 6 Evaluatie van de uitvoering van de beheersovereenkomst of het cultureelerfgoedconvenant
 
