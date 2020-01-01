@@ -293,7 +293,7 @@ Het agentschap kan de subsidie verminderen, schorsen of stopzetten als de organi
 1° de bepalingen, vermeld in dit decreet of de uitvoeringsbesluiten ervan, niet naleeft;<br>
 2° het door of krachtens dit decreet geregelde toezicht verhindert.<br>
 <br>
-Het agentschap beslist tot terugvordering van de subsidie overeenkomstig artikel 57 van het Rekendecreet, artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, en artikel 18 van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring.<br>
+Het agentschap beslist tot terugvordering van de subsidie overeenkomstig artikel 75 en 76 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels, die minstens de mogelijkheid bevatten om een bezwaar in te dienen.
 
