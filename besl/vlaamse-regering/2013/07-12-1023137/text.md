@@ -523,7 +523,14 @@ De Vlaamse minister, bevoegd voor de huisvesting, is belast met de uitvoering va
 
 Technisch verslag van het onderzoek van de kwaliteit van kamers<br>
 <br>
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/23_1.pdf#page=25">http://www.ejustice.just.fgov.be/mopdf/2017/10/23_1.pdf#page=25</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/23_1.pdf#page=25">http://www.ejustice.just.fgov.be/mopdf/2017/10/23_1.pdf#page=25</a><br>
+<br>
+* Bij besluit van de Vlaamse Regering van 24 mei 2019, BS 30 augustus 2019, wordt met ingang van 1 januari 2020 de volgende wijziging aangebracht in bijlage 1:<br>
+- In rubriek 9 "Energetische prestatie" van het model van technisch verslag voor woningen, wordt item 91 met betrekking tot dakisolatie, niet gequoteerd wanneer het energieprestatiecertificaat van de woning, naargelang het geval, een energiescore vermeldt gelijk aan of lager dan:<br>
+1° 600 voor open bebouwing;<br>
+2° 550 voor half open bebouwing;<br>
+3° 450 voor gesloten bebouwing;<br>
+4° 400 voor een appartement.
 
 ### BIJLAGE
 
