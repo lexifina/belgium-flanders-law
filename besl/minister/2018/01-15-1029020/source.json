@@ -2,16 +2,16 @@
   "codex_id": 1029020,
   "title": "Ministerieel besluit van 2018-01-15 betreffende de regels voor de erkenning en de subsidiëring van kind- en ouderactiviteiten voor lokale armoedebestrijding",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029020/VolledigDocument?datum=2017-10-01",
-  "source_sha256": "c326f3f6eeae331a4e83cca7f1450897e359ab92120dbb2e07ef957853962141",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029020/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "177c3b2485a3d5fa1051751fe1c2d8b7b91a640b068cb4adcbafd74bfca794cc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029020&param=informatie",
-  "as_of": "2017-10-01",
+  "as_of": "2020-01-01",
   "made": "2018-01-15",
   "gazette": "2018-02-15",
   "numac": 2018030303,
   "document_start": "2017-10-01",
   "document_end": null,
-  "in_force": "2017-10-01",
+  "in_force": "2020-01-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2017-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
