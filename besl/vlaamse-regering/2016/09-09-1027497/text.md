@@ -58,7 +58,7 @@ De toelage bestaat uit:<br>
 <br>
 De bij de berekening van de toelage, vermeld in het tweede lid, 1° en 2°, in rekening te brengen componenten en de rapporteringsvereisten, worden bepaald in gezamenlijk overleg tussen de Vlaamse minister, bevoegd voor de huisvesting, en de Vlaamse minister, bevoegd voor de financiën en de begrotingen.<br>
 <br>
-De uitgavenkredieten in de begroting van het VWF zijn limitatief. Overschrijdingen van deze limitatieve kredieten kunnen door de Vlaamse minister, bevoegd voor de huisvesting, worden toegestaan overeenkomstig de regels vastgesteld in hoofdstuk 2, afdeling 4, van het besluit van de Vlaamse Regering van 14 oktober 2011 betreffende de begroting en de boekhouding van de Vlaamse rechtspersonen.<br>
+De uitgavenkredieten in de begroting van het VWF zijn limitatief. Overschrijdingen van deze limitatieve kredieten kunnen door de Vlaamse minister, bevoegd voor de huisvesting, worden toegestaan.<br>
 &nbsp;
 
 ## HOOFDSTUK 4 Wijzigingsbepalingen
