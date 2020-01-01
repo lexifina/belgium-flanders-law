@@ -86,7 +86,7 @@ De   reis- en verblijfskosten van de leden van de beheerscommissie worden voor  
 
 ### ART. 14.
 
-&nbsp;Inzake begroting en boekhouding is het   besluit van de Vlaamse Regering van 14 oktober 2011 betreffende de begroting en   de boekhouding van de Vlaamse rechtspersonen van toepassing, als daarvan door   het decreet of dit besluit niet wordt afgeweken.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 15.
 
@@ -98,7 +98,7 @@ Het   saldo maakt deel uit van de middelen van het volgende jaar en kan dienen t
 
 ### ART. 17.
 
-Het EV IV is onderworpen aan de bepalingen van het besluit van de Vlaamse Regering van 3 februari 2006 houdende de modaliteiten tot invoering van het centraal kasbeheer voor de Vlaamse verzelfstandigde agentschappen.
+...
 
 ### ART. 18.
 
