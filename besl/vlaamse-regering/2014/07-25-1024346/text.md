@@ -184,7 +184,7 @@ De Vlaamse minister, bevoegd voor de weginfrastructuur en het beleid, heeft dele
 
 ### ART 13/2.
 
-De Vlaamse minister, bevoegd voor de culturele aangelegenheden, heeft delegatie om de diensten met afzonderlijk beheer Landcommanderij Alden Biesen, Kasteel van Gaasbeek en Koninklijk Museum voor Schone Kunsten Antwerpen toestemming te geven om bijkomende verbintenissen aan te gaan ten belope van de door de diensten gerealiseerde meerontvangsten, als dat is toegestaan in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
+De Vlaamse minister, bevoegd voor de culturele aangelegenheden, heeft delegatie om de diensten met afzonderlijk beheer Landcommanderij Alden Biesen en&nbsp;Kasteel van Gaasbeek toestemming te geven om bijkomende verbintenissen aan te gaan ten belope van de door de diensten gerealiseerde meerontvangsten, als dat is toegestaan in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
 
 ### ART 13/3.
 
