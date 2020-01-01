@@ -222,7 +222,7 @@ Artikel   14.1.2 van hetzelfde decreet wordt vervangen door wat volgt :<BR   sty
 
 <p>§ 1. Er wordt een Verkeersveiligheidsfonds opgericht, hierna genoemd `het fonds'.</p>
 
-<p>§ 2. Het fonds is een begrotingsfonds in de zin van artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.</p>
+<p>§ 2. Het fonds is een begrotingsfonds als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.</p>
 
 <p>§ 3. Het fonds wordt gespijsd door de volgende ontvangsten :<br>
 1° de bijdragen van de instellingen belast met de controle van de in het verkeer gebrachte voertuigen zoals opgenomen in artikel 1, § 1, derde lid, van de wet van 21 juni 1985 betreffende de technische eisen waaraan elk voertuig voor vervoer te land, de onderdelen ervan, evenals het veiligheidstoebehoren moeten voldoen, in de mate dat deze jaarlijkse ontvangsten het bedrag van 5.539.000 euro overschrijden;<br>
