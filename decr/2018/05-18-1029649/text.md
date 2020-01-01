@@ -55,7 +55,7 @@ In dit decreet wordt verstaan onder:<br>
 38° Vlaamse Zorgkas: de vzw Vlaamse Zorgkas opgericht door het Vlaams Zorgfonds;<br>
 39° welzijnsbeleid: het beleid inzake de bijstand aan personen met betrekking tot het geheel van aangelegenheden, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van het beleid inzake onthaal en integratie van inwijkelingen, vermeld in artikel 5, § 1, II, 3°, van de voormelde bijzondere wet;<br>
 40° wonen: ingeschreven zijn in het bevolkingsregister of in het vreemdelingenregister, of ingeschreven zijn in het wachtregister voor personen die jonger zijn dan achttien jaar;<br>
-41° Woonzorgdecreet: woonzorgdecreet van 13 maart 2009, gewijzigd bij de decreten van 18 november 2011, 21 juni 2013, 15 juli 2016, 22 december 2016 en 20 januari 2017;<br>
+41° Woonzorgdecreet: Woonzorgdecreet van 15 februari 2019;<br>
 42° zelfzorg: de beslissingen en de acties die een natuurlijke persoon in het dagelijkse leven uitvoert om te voldoen aan zijn basisbehoeften, en de bijbehorende activiteiten. Die activiteiten kunnen onder meer betrekking hebben op de uitvoering van huishoudelijke activiteiten, het leggen van sociale contacten en de mogelijkheid om zich te ontplooien en zich te oriënteren in tijd en ruimte;<br>
 43° Ziekteverzekeringswet: de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
 44° zorg: alle vormen van zorg en ondersteuning gefinancierd in uitvoering van dit decreet, inclusief revalidatie;<br>
@@ -139,7 +139,7 @@ De Vlaamse sociale bescherming heeft de volgende doelstellingen:<br>
 8° een toegang tot één loket voor alle vragen over dossiers en rechten bij de zorgkas voor wat de tegemoetkomingen in het kader van de Vlaamse sociale bescherming betreft;<br>
 9° het realiseren van zorgcontinuïteit en waar nodig aanklampende zorg, onder andere door middel van een organisatiegebonden financiering die complementair is aan de persoonsvolgende financiering van de zorg.<br>
 <br>
-Voor de toepassing van het tweede lid wordt verstaan onder aanklampende zorg: ongevraagde zorg vanuit betrokkenheid, gericht op het verbeteren van de kwaliteit van leven en het functioneren of op het vermijden van overlast, bij personen die zelf of, in het geval van kinderen en jongeren, bij wie de omgeving zorg op een zorgwekkende manier mijden.<br>
+Voor de toepassing van het tweede lid wordt verstaan onder aanklampende zorg: de ongevraagde zorg vanuit betrokkenheid op basis van signalen uit de omgeving, die er in uitzonderlijke omstandigheden op gericht is de gezondheids- en welzijnssituatie te verbeteren of overlast te vermijden, en specifieke doelgroepen die zorg op een zorgwekkende manier mijden of van wie de omgeving dat doet, te motiveren om zorg en ondersteuning te aanvaarden.<br>
 <br>
 § 2. Bij de start van elke legislatuur stelt de Vlaamse Regering, op basis van een analyse van de evolutie van de zorgnoden en rekening houdend met de budgettaire marges, een indicatieve meerjarenraming op met betrekking tot de pijlers van de Vlaamse sociale bescherming waarvoor het beschikbaar aanbod geprogrammeerd is. De Vlaamse Regering legt deze indicatieve meerjarenraming ter bespreking voor aan het Vlaams Parlement.<br>
 <br>
@@ -372,7 +372,7 @@ Een zorgkas is verantwoordelijk voor het financiële evenwicht tussen haar inkom
 <br>
 De Vlaamse Regering bepaalt de voorwaarden voor de vaststelling en uitbetaling van de subsidies en van het financiële evenwicht. Deze hebben betrekking op transparantie, financiële responsabilisering en kwaliteitsvolle dienstverlening.<br>
 <br>
-De Vlaamse Regering kan voorwaarden bepalen voor de terugvordering van de subsidies die afwijken van of aanvullend zijn op hetgeen bepaald wordt ter uitvoering van artikel 57 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.
+De Vlaamse Regering kan voorwaarden bepalen voor de terugvordering van de subsidies die afwijken van of aanvullend zijn op hetgeen bepaald wordt ter uitvoering van artikel 75&nbsp;van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
 ### ART 27.
 
@@ -748,7 +748,7 @@ De gegevens, vermeld in het eerste lid, kunnen onder meer betrekking hebben op:<
 <br>
 De adviserend artsen, vermeld in artikel 154 van de Ziekteverzekeringswet, hebben toegang tot de gegevens van gebruikers die verwerkt worden in het kader van dit decreet en die dienstig zijn voor de uitoefening van hun opdrachten, vermeld in artikel 153 van de Ziekteverzekeringswet en in het kader van dit decreet.<br>
 <br>
-De diensten maatschappelijk werk van de ziekenfondsen, vermeld in artikel 14 van het Woonzorgdecreet, hebben toegang tot de gegevens van gebruikers die verwerkt worden in het kader van dit decreet en die dienstig zijn voor de uitoefening van hun opdrachten, vermeld in artikel 15 van het Woonzorgdecreet.<br>
+De diensten maatschappelijk werk van de ziekenfondsen, vermeld in artikel 19 van het Woonzorgdecreet, hebben toegang tot de gegevens van gebruikers die verwerkt worden in het kader van dit decreet en die dienstig zijn voor de uitoefening van hun opdrachten, vermeld in artikel&nbsp;20 van het Woonzorgdecreet.<br>
 <br>
 De openbare centra voor maatschappelijk welzijn, vermeld in artikel 1 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, hebben toegang tot de gegevens van gebruikers die verwerkt worden in het kader van dit decreet en die dienstig zijn voor de uitoefening van hun opdrachten, vermeld in hoofdstuk IV van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn.<br>
 <br>
@@ -1507,7 +1507,7 @@ In het kader van de uitvoering van de sociale akkoorden die betrekking hebben op
 
 ### ART 140.
 
-In deze titel wordt verstaan onder dagverzorgingscentrum: een dagverzorgingscentrum als vermeld in het Woonzorgdecreet van 13 maart 2009, met uitzondering van de dagverzorgingscentra die erkend zijn voor het verstrekken van zorg- en dienstverlening aan uitsluitend gebruikers aan wie gezinszorg of aanvullende thuiszorg wordt verleend, conform artikel 51 van bijlage IX van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers.
+In deze titel wordt verstaan onder centrum voor dagverzorging: een centrum voor dagverzorging als vermeld in het Woonzorgdecreet van 13 maart 2009, met uitzondering van de&nbsp;centra voor dagverzorging die erkend zijn voor het verstrekken van zorg- en dienstverlening aan uitsluitend gebruikers aan wie gezinszorg of wordt verleend, conform artikel 51 van bijlage IX van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers.
 
 ## HOOFDSTUK 2. Tijdelijke bepalingen voor de woonzorgcentra, de [centra voor dagverzorging (verv. decr. 15 februari 2019, art. 86, I: 1 januari 2020)] en de centra voor kortverblijf
 
@@ -1515,7 +1515,7 @@ In deze titel wordt verstaan onder dagverzorgingscentrum: een dagverzorgingscent
 
 ### ART 141.
 
-De Vlaamse Regering bepaalt de wederzijdse rechten en verplichtingen van de gebruiker en het woonzorgcentrum, het dagverzorgingscentrum en het centrum voor kortverblijf met betrekking tot de dagprijs en de extra vergoedingen die kunnen worden aangerekend en bepaalt de nadere regeling voor de controle daarop.<br>
+De Vlaamse Regering bepaalt de wederzijdse rechten en verplichtingen van de gebruiker en het woonzorgcentrum, het centrum voor dagverzorging en het centrum voor kortverblijf met betrekking tot de dagprijs en de extra vergoedingen die kunnen worden aangerekend en bepaalt de nadere regeling voor de controle daarop.<br>
 <br>
 De Vlaamse Regering bepaalt onder meer:<br>
 1° het bedrag en de samenstelling van de dagprijs, de diensten en leveringen die aanleiding kunnen geven tot aanrekening van een extra vergoeding;<br>
@@ -1526,20 +1526,20 @@ De Vlaamse Regering bepaalt onder meer:<br>
 6° de regeling voor de transparantie van de bewonersfactuur.<br>
 <br>
 In dit artikel wordt verstaan onder:<br>
-1° dagprijs: de prijs per dag die de bewoner of zijn vertegenwoordiger moet betalen en die minimaal de kostprijselementen voor huisvesting en verzorging van de bewoner omvat, die beschouwd worden als deel van de normale activiteiten van een woonzorgcentrum, dagverzorgingscentrum of centrum voor kortverblijf;<br>
-2° voorschotten ten gunste van derden: elke uitgave die een woonzorgcentrum, dagverzorgingscentrum of centrum voor kortverblijf op naam van de gebruiker doen en die de gebruiker of zijn vertegenwoordiger voor hetzelfde bedrag terugbetaalt.
+1° dagprijs: de prijs per dag die de bewoner of zijn vertegenwoordiger moet betalen en die minimaal de kostprijselementen voor huisvesting en verzorging van de bewoner omvat, die beschouwd worden als deel van de normale activiteiten van een woonzorgcentrum, centrum voor dagverzorging of centrum voor kortverblijf;<br>
+2° voorschotten ten gunste van derden: elke uitgave die een woonzorgcentrum, centrum voor dagverzorging of centrum voor kortverblijf op naam van de gebruiker doen en die de gebruiker of zijn vertegenwoordiger voor hetzelfde bedrag terugbetaalt.
 
 ## Afdeling 2. Financiële beheersing van de uitgaven
 
 ### ART 142.
 
-De Vlaamse Regering kan regels en criteria bepalen voor de beheersing van de uitgaven voor zorg in woonzorgcentra, in dagverzorgingscentra met een bijkomende erkenning of in centra voor kortverblijf. Daarbij kan rekening worden gehouden met het aantal woongelegenheden waarvoor de betreffende zorgvoorziening is erkend en met de bezettingsgraad.&nbsp; De Vlaamse Regering kan ook een quotum aan verblijfsdagen vaststellen.
+De Vlaamse Regering kan regels en criteria bepalen voor de beheersing van de uitgaven voor zorg in woonzorgcentra, in centra voor dagverzorging met een bijkomende erkenning of in centra voor kortverblijf. Daarbij kan rekening worden gehouden met het aantal woongelegenheden waarvoor de betreffende zorgvoorziening is erkend en met de bezettingsgraad.&nbsp; De Vlaamse Regering kan ook een quotum aan verblijfsdagen vaststellen.
 
 ## Afdeling 3. [... (opgeh. decr. 18 juni 2021, art. 64, I: 1 januari 2022)]
 
 ### ART 143.
 
-In het kader van de uitvoering van de sociale akkoorden die betrekking hebben op de gezondheidssector en in de mate dat de sociale akkoorden betrekking hebben op de woonzorgcentra, dagverzorgingscentra en centra voor kortverblijf, bepaalt de Vlaamse Regering de maatregelen waarvan de Vlaamse Gemeenschap de financiële weerslag ten laste neemt en legt de Vlaamse Regering de voorwaarden en de procedure vast met het oog op de vaststelling van de financiële weerslag, het bedrag en de betaling van de financiële tegemoetkoming.
+In het kader van de uitvoering van de sociale akkoorden die betrekking hebben op de gezondheidssector en in de mate dat de sociale akkoorden betrekking hebben op de woonzorgcentra, centra voor dagverzorging en centra voor kortverblijf, bepaalt de Vlaamse Regering de maatregelen waarvan de Vlaamse Gemeenschap de financiële weerslag ten laste neemt en legt de Vlaamse Regering de voorwaarden en de procedure vast met het oog op de vaststelling van de financiële weerslag, het bedrag en de betaling van de financiële tegemoetkoming.
 
 ### ART 144.
 
@@ -1666,9 +1666,9 @@ De Vlaamse Regering bepaalt de inhoud van het pakket aan zorg dat gedekt wordt d
 
 ### ART 150.
 
-§ 1. De Vlaamse Regering bepaalt het bedrag van de tegemoetkoming voor zorg in dagverzorgingscentra met een bijkomende erkenning.<br>
+§ 1. De Vlaamse Regering bepaalt het bedrag van de tegemoetkoming voor zorg in centra voor dagverzorging met een bijkomende erkenning.<br>
 <br>
-De tegemoetkoming wordt uitbetaald aan de dagverzorgingscentra, vermeld in het eerste lid, in de vorm van een dagelijkse tegemoetkoming.<br>
+De tegemoetkoming wordt uitbetaald aan de centra voor dagverzorging, vermeld in het eerste lid, in de vorm van een dagelijkse tegemoetkoming.<br>
 <br>
 § 2. De Vlaamse Regering legt de voorwaarden vast waaronder de tegemoetkoming wordt verleend. Die voorwaarden kunnen onder meer betrekking hebben op de fysieke en op de psychische afhankelijkheid van de gebruiker, bepaald aan de hand van een evaluatie-instrument dat de Vlaamse Regering bepaalt.<br>
 <br>
@@ -1678,7 +1678,7 @@ Voor de controles, vermeld in het tweede lid, wordt een beroep gedaan op de Zorg
 <br>
 In het kader van de controles die worden verricht met het oog op de toepassing van deze paragraaf, hebben de gegevens over de zorgbehoefte die de Zorgkassencommissie verzameld heeft, bewijswaarde tot bewijs van het tegendeel.<br>
 <br>
-Artikel 146 is van overeenkomstige toepassing op de dagverzorgingscentra, vermeld in dit artikel.<br>
+Artikel 146 is van overeenkomstige toepassing op de centra voor dagverzorging, vermeld in dit artikel.<br>
 <br>
 § 3. De zorgkassen worden belast met de uitbetaling van de tegemoetkomingen aan de centra voor dagverzorging, vermeld in paragraaf 1, eerste lid. De Vlaamse Regering bepaalt de procedure voor de uitbetaling van de tegemoetkomingen door de zorgkassen.
 
@@ -1706,7 +1706,7 @@ De Vlaamse Regering bepaalt de inhoud van het pakket aan zorg dat gedekt wordt d
 
 ### ART 152.
 
-§ 1. De Vlaamse Regering bepaalt het bedrag van de tegemoetkoming voor zorg in centra voor kortverblijf.<br>
+§ 1. De Vlaamse Regering bepaalt het bedrag van de tegemoetkoming voor zorg in centra voor kortverblijf met en zonder bijkomende erkenning als oriënterend kortverblijf.<br>
 <br>
 De tegemoetkoming wordt uitbetaald aan de centra voor kortverblijf, vermeld in het eerste lid, in de vorm van een dagelijkse tegemoetkoming.<br>
 <br>
@@ -2015,7 +2015,7 @@ De Vlaamse Regering bepaalt de overgangsmaatregelen voor de voorwaarden waaronde
 
 ### ART 181.
 
-Tot op een door de Vlaamse Regering te bepalen datum, moet `zorgticket' worden gelezen als `tegemoetkoming voor zorg in een woonzorgcentrum, een dagverzorgingscentrum of een centrum voor kortverblijf'.
+Tot op een door de Vlaamse Regering te bepalen datum, moet `zorgticket' worden gelezen als `tegemoetkoming voor zorg in een woonzorgcentrum, een centrum voor dagverzorging of een centrum voor kortverblijf'.
 
 ### ART 182.
 
@@ -2031,7 +2031,7 @@ De adviserend artsen voeren verder de controles uit conform artikel 153, § 1, e
 
 ### ART 185.
 
-De Vlaamse Regering kan overgangsmaatregelen bepalen voor de behandeling van dossiers in verband met tegemoetkomingen voor zorg in woonzorgcentra, dagverzorgingscentra of centra voor kortverblijf, voor revalidatie, voor geestelijke gezondheidszorg, voor thuiszorg of voor mobiliteitshulpmiddelen, die betrekking hebben op de periode vóór de inwerkingtreding van de betreffende bepalingen van dit decreet.<br>
+De Vlaamse Regering kan overgangsmaatregelen bepalen voor de behandeling van dossiers in verband met tegemoetkomingen voor zorg in woonzorgcentra, centra voor dagverzorging of centra voor kortverblijf, voor revalidatie, voor geestelijke gezondheidszorg, voor thuiszorg of voor mobiliteitshulpmiddelen, die betrekking hebben op de periode vóór de inwerkingtreding van de betreffende bepalingen van dit decreet.<br>
 <br>
 De Vlaamse Regering kan voorwaarden en procedures bepalen voor de behandeling van en de beslissing over de aanvragen, vermeld in het eerste lid en, in voorkomend geval, voor de uitbetaling van de tegemoetkomingen. Daarvoor kan een overeenkomst worden gesloten tussen de Vlaamse Gemeenschap en de verzekeringsinstellingen bedoeld in artikel 2, i), van de Ziekteverzekeringswet.
 
