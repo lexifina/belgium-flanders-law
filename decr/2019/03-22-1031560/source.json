@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031560,
+  "title": "Decreet van 2019-03-22 houdende een kader voor grote projecten en programma's",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031560/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "5cebf75934cf17ead9db7296dc0983e440871aa070a1f9b28d6ad7497abbba1c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031560&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2019-03-22",
+  "gazette": "2019-04-17",
+  "numac": 2019011710,
+  "document_start": "2020-01-01",
+  "document_end": "2029-12-31",
+  "in_force": "2020-01-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
