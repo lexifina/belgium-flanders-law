@@ -48,13 +48,16 @@ In dit besluit wordt verstaan onder:<br>
 ### ART 2.
 
 § 1. Binnen de perken van de jaarlijks goedgekeurde begroting kan&nbsp;het departement een aanwervingsincentive toekennen aan ondernemingen die aan de volgende voorwaarden voldoen:<br>
-1° de onderneming werft vanaf 1 januari 2017 een niet-werkende werkzoekende aan die op het ogenblik van zijn indiensttreding aan de volgende voorwaarden voldoet:<br>
+1° de onderneming werft vanaf 1 januari 2017 tot en met 31 december 2019 een niet-werkende werkzoekende aan die op het ogenblik van zijn indiensttreding aan de volgende voorwaarden voldoet:<br>
 a) hij is gedurende minstens twee jaar als niet-werkende werkzoekende bij de VDAB ingeschreven;<br>
 b) op het einde van het kwartaal van de indiensttreding is hij minstens 25 jaar en heeft hij de leeftijd van 55 jaar nog niet bereikt.<br>
+1° bis de onderneming werft vanaf 1 januari 2020 een niet-werkende werkzoekende aan die op het ogenblik van zijn indiensttreding aan al de volgende voorwaarden voldoet:<br>
+a) hij is gedurende minstens twee jaar als niet-werkende werkzoekende bij de VDAB ingeschreven;<br>
+b) op het einde van het kwartaal van de indiensttreding is hij minstens 25 jaar en heeft hij de leeftijd van 56 jaar nog niet bereikt;<br>
 2° de onderneming sluit met de niet-werkende werkzoekende een arbeidsovereenkomst van onbepaalde duur die voldoet aan de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;<br>
 3° de onderneming stelt de niet-werkende werkzoekende tewerk in een exploitatiezetel in het Vlaamse Gewest.<br>
 <br>
-Voor de bepaling van de periode, vermeld in het eerste lid, 1°, a), kan de minister periodes van inactiviteit gelijkstellen met de inschrijving als niet- werkende werkzoekende.<br>
+Voor de bepaling van de periode, vermeld in het eerste lid, 1°, a), en 1° bis, a), kan de minister periodes van inactiviteit gelijkstellen met de inschrijving als niet- werkende werkzoekende.<br>
 <br>
 In afwijking van de voorwaarde, vermeld in het eerste lid, 2°, kan de onderneming een of meer opeenvolgende arbeidsovereenkomsten afsluiten die minstens een tewerkstelling van drie maanden bedragen. De onderneming toont daarbij aan dat die tijdelijke arbeidsovereenkomsten overeenstemmen met het gangbare wervingsbeleid van de onderneming. De minister kan nader bepalen wat onder gangbare wervingsbeleid moet worden verstaan.<br>
 <br>
@@ -119,6 +122,8 @@ In het tweede lid, 2°, wordt verstaan onder onderneming waarin ten minste een a
 In afwijking van het eerste lid dienen ondernemingen voor aanwervingen gebeurd tussen 1 januari 2017 en de datum van inwerkingtreding van dit besluit, een aanvraag voor de aanwervingsincentive in binnen de drie maanden te rekenen vanaf de datum van inwerkingtreding van dit besluit.<br>
 <br>
 In afwijking van het eerste lid kan de minister een afwijkende termijn vaststellen als de behandeling van de aanvragen door het departement om administratief-technische redenen niet tijdig kan plaatsvinden.<br>
+<br>
+In afwijking van het eerste en het tweede lid dienen ondernemingen voor de aanwervingen van 55-jarigen in de periode van 1 januari 2020 tot en met 31 mei 2020 uiterlijk op 1 september 2020 een aanvraag in voor de aanwervingsincentive.<br>
 <br>
 De aanvraag vermeldt de volgende gegevens:<br>
 1° de identiteitsgegevens van de onderneming;<br>
