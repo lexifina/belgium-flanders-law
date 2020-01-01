@@ -26,7 +26,7 @@ In   dit besluit wordt verstaan onder:<BR   style="WHITE-SPACE: normal; WORD-SPA
 
 ### ART. 5.
 
-Een   bijstandsorganisatie kan reserves aanleggen conform artikel 5, § 3 en § 4, van   het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene   regels inzake subsidiëring, en die besteden conform artikel 7 en 8 van het   voormelde besluit.
+Een bijstandsorganisatie kan reserves aanleggen conform artikel 72, § 1, van het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019, en die besteden conform artikel 7 en 8 van het besluit van 8 november 2013 betreffende de algemene regels inzake subsidiëring.
 
 ## HOOFDSTUK 3 Vergunningsvoorwaarden en vergunningsvoorschriften
 
