@@ -99,8 +99,8 @@ Een organisator groepsopvang met basissubsidie die geen openbaar bestuur is, ont
 ### ART 7.
 
 Een organisator groepsopvang met een subsidie voor inkomenstarief T2a die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor de eindejaarspremie. De subsidie bedraagt:<br>
-1° 110,94 euro per gesubsidieerde kinderopvangplaats T2a als de gemiddelde leeftijd van de medewerkers, vermeld in artikel 5, vierde lid, twintig jaar is;<br>
-2° voor elk jaar boven de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar tot maximaal een gemiddelde leeftijd van zestig jaar, wordt het bedrag, vermeld in punt 1°, verhoogd met 2,28 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie voor inkomenstarief T2a ontvangt.
+1° 137,83 euro per gesubsidieerde kinderopvangplaats T2a als de gemiddelde leeftijd van de medewerkers, vermeld in artikel 5, vierde lid, twintig jaar is;<br>
+2° voor elk jaar boven de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar tot maximaal een gemiddelde leeftijd van zestig jaar, wordt het bedrag, vermeld in punt 1°, verhoogd met 2,79 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie voor inkomenstarief T2a ontvangt.
 
 ### ART 8.
 
@@ -120,7 +120,7 @@ Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a of T2b die
 
 Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor de eindejaarspremie. De subsidie bedraagt:<br>
 1° 4,55 euro per gesubsidieerde kinderopvangplaats T2a als de gemiddelde leeftijd van de medewerkers, vermeld in artikel 5, vierde lid, twintig jaar is;<br>
-2° voor elk jaar boven de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar tot maximaal een gemiddelde leeftijd van zestig jaar, wordt het bedrag, vermeld in punt 1°, verhoogd met 0,11 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie voor inkomenstarief T2a ontvangt.
+2° voor elk jaar boven de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar tot maximaal een gemiddelde leeftijd van zestig jaar, wordt het bedrag, vermeld in punt 1°, verhoogd met 0,15 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie voor inkomenstarief T2a ontvangt.
 
 ### ART 12.
 
@@ -158,16 +158,16 @@ Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die 
 ### ART 17.
 
 Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor de eindejaarspremie. De subsidie bedraagt :<br>
-1° 33,04 euro per equivalentvolle opvangplaats voor de eerste 21 equivalentvolle opvangplaatsen;<br>
-2° 19,57 euro per equivalentvolle opvangplaats vanaf de 22ste equivalentvolle opvangplaats;<br>
-3° 16,98 euro per equivalentvolle opvangplaats vanaf de 232ste equivalentvolle opvangplaats.
+1° 40,01 euro per equivalentvolle opvangplaats voor de eerste 21 equivalentvolle opvangplaatsen;<br>
+2° 23,70 euro per equivalentvolle opvangplaats vanaf de 22ste equivalentvolle opvangplaats;<br>
+3° 20,61 euro per equivalentvolle opvangplaats vanaf de 232ste equivalentvolle opvangplaats.
 
 ### ART 18.
 
-Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die een openbaar bestuur is, ontvangt van het agentschap Opgroeien regie een subsidie voor de coördinatiefunctie. De subsidie bedraagt:<br>
-1° 22,13 euro per equivalentvolle opvangplaats voor de eerste 21 equivalentvolle opvangplaatsen;<br>
-2° 11,06 euro per equivalentvolle opvangplaats vanaf de 22ste equivalentvolle opvangplaats;<br>
-3° 6,83 euro per equivalentvolle opvangplaats vanaf de 232ste equivalentvolle opvangplaats.
+Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die geen openbaar bestuur is, ontvangt van het agentschap Opgroeien regie een subsidie voor de coördinatiefunctie. De subsidie bedraagt:<br>
+1° 64,66 euro per equivalentvolle opvangplaats voor de eerste 21 equivalentvolle opvangplaatsen;<br>
+2° 32,33 euro per equivalentvolle opvangplaats vanaf de 22ste equivalentvolle opvangplaats;<br>
+3° 21,01 euro per equivalentvolle opvangplaats vanaf de 232ste equivalentvolle opvangplaats.
 
 ### ART 19.
 
@@ -198,9 +198,9 @@ Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD
 ### ART 22.
 
 Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD krijgt, met uitzondering van de projecten FCUD voor zieke kinderen, en die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor de eindejaarspremie. De subsidie bedraagt :<br>
-1° 135,93 euro per equivalentvolle FCUD-opvangplaats voor de eerste 21 equivalentvolle opvangplaatsen;<br>
-2° 84,96 euro per equivalentvolle FCUD-opvangplaats vanaf de 22ste equivalentvolle opvangplaats;<br>
-3° 80,08 euro per equivalentvolle FCUD-opvangplaats vanaf de 232ste equivalentvolle opvangplaats.
+1° 146,07 euro per equivalentvolle FCUD-opvangplaats voor de eerste 21 equivalentvolle opvangplaatsen;<br>
+2° 91,3 euro per equivalentvolle FCUD-opvangplaats vanaf de 22ste equivalentvolle opvangplaats;<br>
+3° 86,08 euro per equivalentvolle FCUD-opvangplaats vanaf de 232ste equivalentvolle opvangplaats.
 
 ### ART 23.
 
@@ -220,7 +220,7 @@ Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD
 
 ### ART 24/1.
 
-Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD voor zieke kinderen krijgt, die geen openbaar bestuur is, ontvangt van het agentschap Opgroeien regie een subsidie voor eindejaarspremie. De subsidie bedraagt 1141,86 euro per voltijds equivalent.
+Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD voor zieke kinderen krijgt, die geen openbaar bestuur is, ontvangt van het agentschap Opgroeien regie een subsidie voor eindejaarspremie. De subsidie bedraagt 1227,02 euro per voltijds equivalent.
 
 ### ART 24/2.
 
@@ -252,7 +252,7 @@ Een organisator met een subsidie voor lokale diensten, die geen openbaar bestuur
 
 ### ART 30.
 
-Een organisator met een subsidie voor lokale diensten, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor de eindejaarspremie van 82,16 euro per gesubsidieerde opvangplaats.
+Een organisator met een subsidie voor lokale diensten, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor de eindejaarspremie van 102,60 euro per gesubsidieerde opvangplaats.
 
 ### ART 31.
 
@@ -280,7 +280,7 @@ Een organisator met een subsidie voor flexibele opvangpool, die geen openbaar be
 
 ### ART 34.
 
-&nbsp;Een organisator met een subsidie voor flexibele opvangpool, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor de eindejaarspremie van 775,73 euro per voltijdsequivalent doelgroepwerknemer.
+&nbsp;Een organisator met een subsidie voor flexibele opvangpool, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor de eindejaarspremie van 908,36 euro per voltijdsequivalent doelgroepwerknemer.
 
 ### ART 35.
 
@@ -295,7 +295,7 @@ Een organisator met een subsidie voor flexibele opvangpool, die een openbaar bes
 ### ART 37.
 
 &nbsp;Een organisator met een subsidie voor een project gesco ontvangt van het agentschap een subsidie tot uitvoering van het Vlaams Intersectoraal Akkoord. De subsidie bedraagt :<br>
-1° voor een organisator die geen openbaar bestuur is, 4078,84 euro per voltijdsequivalent weerwerkgesco;<br>
+1° voor een organisator die geen openbaar bestuur is, 4164,00 euro per voltijdsequivalent weerwerkgesco;<br>
 2° voor een organisator die een openbaar bestuur is, 1371,93 euro per voltijdsequivalent weerwerkgesco.<br>
 <br>
 In het eerste lid wordt verstaan onder subsidie voor een project gesco: een subsidie voor een project gesco als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 15 juli 2016 betreffende subsidiëring van projecten vanuit het vroegere Fonds voor Collectieve Uitrustingen en Diensten en voor personeelsleden met een gewezen gescostatuut.
