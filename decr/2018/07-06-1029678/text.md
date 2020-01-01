@@ -633,7 +633,7 @@ In artikel 20 van het decreet van 30 juni 2017 houdende bepalingen tot begeleidi
 
 ### ART 49.
 
-Bij het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin wordt een begrotingsfonds als vermeld in artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof opgericht voor de aanwending van de betaling van salarissen, vergoedingen en toelagen van personeelsleden die ter uitvoering van artikel 264bis van het Provinciedecreet werden overgedragen aan de Vlaamse Gemeenschap en die vanaf 1 januari 2018 via het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin ter beschikking worden gesteld van specifieke voorzieningen in de gezondheids- of welzijnssector.<br>
+Bij het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin wordt een begrotingsfonds als vermeld in&nbsp;artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 opgericht voor de aanwending van de betaling van salarissen, vergoedingen en toelagen van personeelsleden die ter uitvoering van artikel 264bis van het Provinciedecreet werden overgedragen aan de Vlaamse Gemeenschap en die vanaf 1 januari 2018 via het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin ter beschikking worden gesteld van specifieke voorzieningen in de gezondheids- of welzijnssector.<br>
 <br>
 Aan het fonds worden toegewezen alle terugvorderingen van salarissen, vergoedingen en toelagen met betrekking tot de personeelsleden, vermeld in het eerste lid.<br>
 <br>
