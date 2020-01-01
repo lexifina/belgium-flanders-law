@@ -123,20 +123,9 @@ a) de uitgaven zijn betaald aan een van de volgende instellingen:<br>
 4) kleuter- of lagere scholen, of instellingen of opvangvoorzieningen die verbonden zijn aan de school of de inrichtende macht;<br>
 b) de cursist verantwoordt het bedrag van de uitgaven met betalingsbewijzen.<br>
 <br>
-§ 3. De volgende categorieën van cursisten hebben recht op een stimulanspremie van 100 euro:<br>
-1° de leefloongerechtigde, vermeld in artikel 2, 13° van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding", en de behoeftige, vermeld in artikel 2, 13° van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, die een of meer personen ten laste hebben;<br>
-2° de uitkeringsgerechtigde werkloze die volgens de werkloosheidsreglementering wordt beschouwd als werknemer met gezinslast en die bij de start van de opleiding minstens een jaar bij de VDAB is ingeschreven als niet-werkende werkzoekende. Voor de berekening van de periode van een jaar geldt de termijn vanaf de inschrijving als niet-werkende werkzoekende, die niet langer dan drie maanden onderbroken mag worden door een voltijdse tewerkstelling tijdens het jaar dat voorafgaat aan de opleiding, gerekend van datum tot datum;<br>
-3° de niet-werkende werkzoekende en de verplicht ingeschreven werkzoekende die een of meer personen ten laste hebben, die niet behoren tot de personen, vermeld in 1° of 2°, en die ofwel een inkomensvervangende tegemoetkoming ontvangen als vermeld in artikel 2 en 6 van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap, ofwel een invaliditeitsuitkering ontvangen als vermeld in titel III, hoofdstuk III, afdeling VI van het koninklijk besluit van 3 juli 1996 tot uitvoering van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994.<br>
+§ 3. ...<br>
 <br>
-De stimulanspremie wordt uitbetaald als aan de volgende twee voorwaarden is voldaan:<br>
-1° de cursist voldoet aan al de volgende voorwaarden:<br>
-a) de cursist volgt ten minste acht weken beroepsopleiding;<br>
-b) de cursist volgt ten minste twintig uur per week beroepsopleiding;<br>
-2° de cursist heeft ten minste acht weken beroepsopleiding gevolgd.<br>
-<br>
-Vanaf de vijfde week krijgt de cursist de premie.<br>
-<br>
-§ 4. De vergoedingen en de premie, vermeld in paragraaf 1 tot en met 3, zijn ten laste van de VDAB.<br>
+§ 4. De vergoedingen en de premie, vermeld in paragraaf 1 en 2, zijn ten laste van de VDAB.<br>
 <br>
 § 5. De vergoedingen en de premie, vermeld in dit artikel, worden één keer per maand betaald. Ze worden overgeschreven op een bankrekening.
 
