@@ -25,21 +25,21 @@ Besluit :<br>
 
 In dit besluit wordt verstaan onder:<br>
 1° agentschap: het intern verzelfstandigd Agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
-2° beheersinstantie: een of meer personen die een centrum voor kortverblijf en een erkende groep van assistentiewoningen vertegenwoordigen en juridisch kunnen binden;<br>
-3° flexibel kortverblijf: een of meer woongelegenheden kortverblijf die conform artikel 36, § 2, eerste lid, 1°, van het Woonzorgdecreet van 13 maart 2009 worden ingezet in een erkende groep van assistentiewoningen;<br>
+2° beheersinstantie: een of meer personen die een centrum voor kortverblijf type 1 en een erkende groep van assistentiewoningen vertegenwoordigen en juridisch kunnen binden;<br>
+3° flexibel kortverblijf: een of meer woongelegenheden kortverblijf die conform artikel 32, § 2, eerste lid, van het Woonzorgdecreet van 15 februari 2019 worden ingezet in een erkende groep van assistentiewoningen;<br>
 4° vestiging: een of meer gebouwen die in elkaars onmiddellijke nabijheid gevestigd zijn en die als woonzorgcentrum, centrum voor kortverblijf en erkende groep van assistentiewoningen worden uitgebaat.<br>
 &nbsp;
 
 ### ART 2.
 
-Een centrum voor kortverblijf dat met toepassing van artikel 36, § 2, van het Woonzorgdecreet van 13 maart 2009 de toelating wil krijgen om flexibel kortverblijf aan te bieden, moet aan de volgende voorwaarden voldoen:<br>
-1° het centrum voor kortverblijf en de groep van assistentiewoningen worden uitgebaat door dezelfde beheersinstantie of door verschillende beheersinstanties op voorwaarde dat ze een samenwerkingsovereenkomst hebben gesloten;<br>
-2° het centrum voor kortverblijf voldoet aan de voorwaarden, vermeld in artikel 36, § 2, eerste lid, van het Woonzorgdecreet van 13 maart 2009;<br>
+Een centrum voor kortverblijf type 1 dat met toepassing van artikel 32, § 2, eerste lid, van het Woonzorgdecreet van 15 februari 2019 de toelating wil krijgen om flexibel kortverblijf aan te bieden, moet aan de volgende voorwaarden voldoen:<br>
+1° het centrum voor kortverblijf type 1 en de groep van assistentiewoningen worden uitgebaat door dezelfde beheersinstantie of door verschillende beheersinstanties op voorwaarde dat ze een samenwerkingsovereenkomst hebben gesloten;<br>
+2° het centrum voor kortverblijf type 1 voldoet aan de voorwaarden, vermeld in artikel 32, § 2, eerste lid, van het Woonzorgdecreet van 15 februari 2019;<br>
 3° de groep van assistentiewoningen waarbinnen het flexibele kortverblijf wordt ingezet, heeft een erkenning;<br>
-4° het centrum voor kortverblijf bevindt zich in of aan het woonzorgcentrum dat minstens twee actieve nachtdiensten organiseert;<br>
-5° het centrum voor kortverblijf en de groep van assistentiewoningen maken deel uit van dezelfde vestiging;<br>
-6° het flexibele kortverblijf voldoet aan de bepalingen, vermeld in artikel 6, 7 en 8 van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, en aan de erkenningsvoorwaarden, vermeld in bijlage XI bij het voormelde besluit;<br>
-7° het flexibele kortverblijf past binnen de erkende capaciteit van het centrum voor kortverblijf;<br>
+4° het centrum voor kortverblijf type 1 bevindt zich in of aan het woonzorgcentrum dat minstens twee actieve nachtdiensten organiseert;<br>
+5° het centrum voor kortverblijf type 1 en de groep van assistentiewoningen maken deel uit van dezelfde vestiging;<br>
+6° het flexibele kortverblijf voldoet aan de bepalingen, vermeld in artikel 8 tot en met 14 van het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers, en aan de erkenningsvoorwaarden, vermeld in bijlage 8 bij het voormelde besluit;<br>
+7° het flexibele kortverblijf past binnen de erkende capaciteit van het centrum voor kortverblijf type 1;<br>
 8° de dagprijs van de assistentiewoning blijft behouden en wordt aangevuld met de prijs van het gedeelte van de zorg- en dienstverlening dat vervat zit in de dagprijs van het centrum voor kortverblijf. Dat gedeelte van de dagprijs van het flexibele kortverblijf moet goedgekeurd worden door het agentschap.<br>
 &nbsp;
 
@@ -49,7 +49,7 @@ Een aanvraag van toelating om flexibel kortverblijf in te zetten wordt aangeteke
 <br>
 De aanvraag is alleen ontvankelijk als ze wordt ingediend met het formulier dat het agentschap ter beschikking stelt. De aanvraag bevat minstens de volgende gegevens en stukken:<br>
 1° de identiteitsgegevens van de beheersinstantie en van de voorzieningen;<br>
-2° een plan van de vestiging waaruit blijkt dat het woonzorgcentrum, het centrum voor kortverblijf en de groep van assistentiewoningen in elkaars onmiddellijke nabijheid gevestigd zijn;<br>
+2° een plan van de vestiging waaruit blijkt dat het woonzorgcentrum, het centrum voor kortverblijf type 1 en de groep van assistentiewoningen in elkaars onmiddellijke nabijheid gevestigd zijn;<br>
 3° een beslissing van de raad van bestuur, waarbij de visie op en de organisatie van het flexibel inzetten van kortverblijf in de groep van assistentiewoningen wordt bevestigd;<br>
 4° een toelichting, waarin de volgende elementen aan bod komen over de flexibele inzet van kortverblijf:<br>
 a) de visie op en de organisatie van het flexibel inzetten van kortverblijf in de groep van assistentiewoningen;<br>
