@@ -57,6 +57,25 @@ d) omvat, in het geval van open erfgoed, indicatoren die specifiek inspelen op d
 
 In artikel 3.1.5 van hetzelfde besluit worden de woorden "binnen de drie maanden" vervangen door de zinsnede "binnen een termijn van negentig dagen, die ingaat op de dag".
 
+### ART 3.
+
+In artikel 3.2.1 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 16 december 2016, wordt het eerste lid vervangen door wat volgt:<br>
+<br>
+"Om erkend te worden en te blijven als onroerenderfgoedgemeente moet de onroerenderfgoedgemeente voldoen aan al de volgende Vlaamse beleidsprioriteiten voor het onroerenderfgoedbeleid:<br>
+1° de gemeente beschikt over een onderbouwde beleidsvisie die het actief behoud, het gebruik en de herbestemming van het onroerend erfgoed op haar grondgebied voor ogen heeft en die complementair is aan het Vlaamse onroerenderfgoedbeleid en die al de volgende voorwaarden vervult:<br>
+a) de beleidsvisie is integraal en omvat een visie op de zorg voor het geheel van archeologische sites, monumenten, cultuurhistorische landschappen en stads- en dorpsgezichten;<br>
+b) de beleidsvisie is geïntegreerd en is dus afgestemd met andere beleidsvelden die raakvlakken hebben met de onroerenderfgoedzorg;<br>
+c) de beleidsvisie houdt rekening met de noden van de aanwezige onroerenderfgoedactoren;<br>
+2° de gemeente ondersteunt en betrekt de erfgoedgemeenschappen die zich inzetten voor het duurzame behoud en beheer en voor de ontsluiting van het onroerend erfgoed op haar grondgebied en neemt acties om een lokaal draagvlak voor de onroerenderfgoedzorg te creëren;<br>
+3° de gemeente neemt een voorbeeldfunctie op met betrekking tot het duurzame behoud en het beheer van het onroerend erfgoed in haar eigendom of onder haar beheer, en integreert de visie op dat onroerend erfgoed in de beslissingen en plannen van de gemeente;<br>
+4° de gemeente bouwt voor expertiseverwerving een consultatienetwerk uit met de diensten en organisaties die betrokken zijn bij de zorg voor het onroerend erfgoed en betrekt een door de gemeenteraad erkende adviesraad, waarin de aanwezige onroerenderfgoedactoren vertegenwoordigd zijn, bij de voorbereiding, de uitvoering en de evaluatie van het gemeentelijk onroerenderfgoedbeleid;<br>
+5° de gemeente houdt de toelatingen, de bekrachtiging en de aktename van de archeologienota's en de nota's en de meldingen, afgeleverd in het kader van het Onroerenderfgoeddecreet van 12 juli 2013 en dit besluit, bij in een register dat digitaal raadpleegbaar is door het agentschap. Een beslissing wordt opgenomen in het register binnen een ordetermijn van tien dagen, die ingaat op de dag na de beslissing;<br>
+6° de gemeente inventariseert het onroerend erfgoed op het gemeentelijk grondgebied en zet instrumenten in om het duurzame behoud en beheer ervan te stimuleren.".
+
+### ART 4.
+
+In artikel 3.2.9 van hetzelfde besluit wordt de datum "31 juli" vervangen door de datum "30 juni".
+
 ### ART 5.
 
 In artikel 3.2.10 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
@@ -107,6 +126,19 @@ In afwijking van het tweede lid, kan een gemeente op het moment van een aanvraag
 <br>
 Binnen een intergemeentelijk samenwerkingsverband kan slechts één intergemeentelijke onroerenderfgoeddienst erkend worden.".
 
+### ART 11.
+
+In artikel 3.3.2, eerste lid, van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in punt 2° wordt punt a) vervangen door wat volgt:<br>
+"a) het onroerenderfgoedbeleidsplan stelt een gezamenlijke visie en een gezamenlijk plan van aanpak voorop voor het actieve behoud, het gebruik en de herbestemming van het onroerend erfgoed op zijn grondgebied die complementair zijn aan het Vlaamse onroerenderfgoedbeleid;";<br>
+<br>
+2° in punt 2° wordt punt b) vervangen door wat volgt:<br>
+"b) het onroerenderfgoedbeleidsplan is integraal en omvat dus de zorg voor het geheel van archeologische sites, monumenten, cultuurhistorische landschappen en stads- en dorpsgezichten;";<br>
+<br>
+3° punt 3° wordt vervangen door wat volgt:<br>
+"3° het intergemeentelijk samenwerkingsverband ondersteunt en betrekt de erfgoedgemeenschappen die zich inzetten voor het duurzame behoud en beheer en voor de ontsluiting van het onroerend erfgoed op zijn grondgebied en neemt acties om een lokaal draagvlak voor de onroerenderfgoedzorg te creëren;".
+
 ### ART 12.
 
 In artikel 3.3.3 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
@@ -118,6 +150,10 @@ In artikel 3.3.3 van hetzelfde besluit worden de volgende wijzigingen aangebrach
 ### ART 13.
 
 In artikel 3.3.6, 3.5.4, 3.6.6, 1°, artikel 3.7.4, 3.7.6, 3.7.13, tweede lid, 6.3.3, tweede lid, artikel 10.1.2, tweede lid, artikel 10.1.13, derde lid, artikel 10.1.14, eerste lid, artikel 10.1.27, derde lid, artikel 10.1.28, eerste lid, artikel 10.3.10, § 4, tweede lid, artikel 10.3.11, 11.2.21, 11.2.27, derde lid, artikel 11.2.31, 11.2.33, 11.2.40, 11.3.14, artikel 11.4.8, tweede lid, artikel 11.4.9, 11.4.14, derde lid en artikel 11.6.1 van hetzelfde besluit worden de woorden "per beveiligde zending" telkens vervangen door het woord "schriftelijk".
+
+### ART 14.
+
+In artikel 3.3.9 van hetzelfde besluit wordt het woord "juli" vervangen door het woord "mei".
 
 ### ART 15.
 
@@ -167,6 +203,10 @@ Als de intergemeentelijke onroerenderfgoeddienst door de wijziging niet meer vol
 
 In artikel 3.4.2, eerste lid, van hetzelfde besluit worden de woorden "Om erkend te worden" vervangen door de woorden "Om erkend te worden en te blijven".
 
+### ART 20.
+
+In artikel 3.4.3 van hetzelfde besluit wordt het woord "maart" vervangen door het woord "januari".
+
 ### ART 21.
 
 In artikel 3.4.4 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
@@ -174,6 +214,14 @@ In artikel 3.4.4 van hetzelfde besluit worden de volgende wijzigingen aangebrach
 1° in het tweede lid wordt de zinsnede "per beveiligde zending," vervangen door het woord "schriftelijk";<br>
 <br>
 2° in het tweede lid wordt de zin "Als de aanvrager geen melding van ontvankelijkheid heeft ontvangen, de aanvraag geacht ontvankelijk te zijn." wordt opgeheven.
+
+### ART 22.
+
+In artikel 3.4.8 van hetzelfde besluit wordt het woord "juli" vervangen door het woord "mei".
+
+### ART 23.
+
+In artikel 3.4.12 van hetzelfde besluit wordt de datum "1 oktober" vervangen door de datum "31 mei".
 
 ### ART 24.
 
@@ -811,6 +859,16 @@ Aan artikel 10.1.3 van hetzelfde besluit wordt een derde lid toegevoegd, dat lui
 <br>
 "Als de samenstelling van een intergemeentelijke onroerenderfgoeddienst gedurende de looptijd van de samenwerkingsovereenkomst gewijzigd wordt als vermeld in artikel 3.3.17, blijft de lopende samenwerkingsovereenkomst ongewijzigd gelden.".
 
+### ART 94.
+
+In artikel 10.1.5, eerste lid, van hetzelfde besluit worden volgende wijzigingen aangebracht:<br>
+<br>
+1° punt 2° wordt vervangen door wat volgt:<br>
+"2° een meerjarenbegroting waarin alle verwachte kosten en opbrengsten die betrekking hebben op de gesubsidieerde activiteiten opgenomen zijn, met vermelding van de inbreng van de gemeenten die deel uitmaken van de intergemeentelijke onroerenderfgoeddienst;";<br>
+<br>
+2° er wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
+"3° een geactualiseerd onroerenderfgoedbeleidsplan, tenzij bij de eerste subsidieaanvraag na de erkenning.".
+
 ### ART 95.
 
 Artikel 10.1.6 van hetzelfde besluit wordt vervangen door wat volgt:<br>
@@ -821,11 +879,56 @@ Als het agentschap vaststelt dat de aanvraag niet alle vereiste elementen, verme
 <br>
 Als de aanvrager het dossier niet aanvult binnen een termijn van veertien dagen, die ingaat op de dag na de kennisgeving van het verzoek tot aanvulling, wordt de subsidieaanvraag onontvankelijk verklaard. Het agentschap brengt de aanvrager schriftelijk op de hoogte van de beslissing.".
 
+### ART 96.
+
+Artikel 10.1.8 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 10.1.8. Uiterlijk op 1 oktober van het jaar waarin de ontvankelijke subsidieaanvraag is ingediend, beslist de minister over de toekenning en het bedrag van de subsidie.<br>
+<br>
+Het agentschap brengt de erkende intergemeentelijke onroerenderfgoeddienst schriftelijk op de hoogte van de beslissing, vermeld in het eerste lid.".
+
+### ART 97.
+
+In artikel 10.1.9, eerste lid, van hetzelfde besluit wordt de datum "1 oktober" vervangen door de datum "15 oktober".
+
+### ART 98.
+
+In artikel 10.1.10 van hetzelfde besluit wordt de volgende wijzigingen aangebracht:<br>
+<br>
+1° het tweede lid wordt vervangen door wat volgt:<br>
+"De jaarlijkse basissubsidie bedraagt minstens 85.000 euro en wordt vermeerderd met een bedrag dat is gekoppeld aan de volgende criteria, met als referentiedatum 1 januari van het jaar waarin de ontvankelijke subsidieaanvraag is ingediend:<br>
+1° het aantal inwoners, ingeschreven in het bevolkingsregister van de gemeenten die deel uitmaken van het werkingsgebied van de intergemeentelijke onroerenderfgoeddienst;<br>
+2° de oppervlakte van het werkingsgebied van de erkende intergemeentelijke onroerenderfgoeddienst;<br>
+3° in voorkomend geval, het aanwezige onroerend erfgoed dat zich bevindt op het grondgebied van een erkende onroerenderfgoedgemeente binnen het werkingsgebied. Dat bijkomende subsidiebedrag wordt bepaald op basis van:<br>
+a) de oppervlakte van het grondgebied van de erkende onroerenderfgoedgemeente;<br>
+b) de grondoppervlakte van de beschermde goederen die binnen het grondgebied van de erkende onroerenderfgoedgemeente liggen;<br>
+c) het aantal onroerende goederen, dat opgenomen is in de vastgestelde inventaris van het bouwkundig erfgoed of in de vastgestelde inventaris van houtige beplantingen met erfgoedwaarde en dat binnen het grondgebied van de erkende onroerenderfgoedgemeente ligt.";<br>
+<br>
+2° in het derde lid worden de woorden "per beveiligde zending" vervangen door het woord "schriftelijk";<br>
+<br>
+3° tussen het derde en vierde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"Als de erkenning van een erkende onroerenderfgoedgemeente die in het werkingsgebied ligt gedurende de looptijd van de samenwerkingsovereenkomst ingetrokken wordt overeenkomstig het artikel 3.2.12, vijfde lid of 3.2.13, wordt de subsidie verminderd met het bedrag, vermeld in het tweede lid, 3°, vanaf het jaar dat volgt op het jaar waarin de erkenning als onroerenderfgoedgemeente ingetrokken is. Het agentschap brengt de erkende intergemeentelijke onroerenderfgoeddienst schriftelijk op de hoogte van de vermindering van de toegekende subsidie.".
+
+### ART 99.
+
+In artikel 10.1.12 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° tussen het eerste en tweede lid een lid ingevoegd, dat luidt als volgt:<br>
+"Met het oog op het toezicht, vermeld in het eerste lid, dient de erkende intergemeentelijke onroerenderfgoeddienst een financiële rapportering in bij het agentschap voor 31 mei.";<br>
+<br>
+2° in het bestaande derde lid, dat het vierde lid wordt, worden de woorden "per beveiligde zending" vervangen door het woord "schriftelijk".
+
 ### ART 100.
 
 Aan artikel 10.1.17 van hetzelfde besluit wordt een derde lid toegevoegd, dat luidt als volgt:<br>
 <br>
 "Als gedurende de looptijd van de samenwerkingsovereenkomst de receptieve functie van gemeentegrensoverschrijdend belang, vermeld in het eerste lid, 2°, vervalt door een fusie van de gemeente waar het erkende onroerenderfgoeddepot zich bevindt met een of meer gemeenten waarvoor het erkende onroerenderfgoeddepot een receptieve functie vervult, blijft de lopende samenwerkingsovereenkomst ongewijzigd gelden.".
+
+### ART 101.
+
+&nbsp;In artikel 10.1.18 van hetzelfde besluit wordt het eerste lid vervangen door wat volgt:<br>
+<br>
+"De aanvrager dient de subsidieaanvraag schriftelijk in bij het agentschap vanaf 1 januari tot 1 juli van elk jaar.".
 
 ### ART 102.
 
@@ -843,6 +946,13 @@ Als het agentschap vaststelt dat de aanvraag niet alle vereiste elementen, verme
 <br>
 Als de aanvrager het dossier niet aanvult binnen een termijn van veertien dagen, die ingaat op da dag na de kennisgeving van het verzoek tot aanvulling, wordt de subsidieaanvraag onontvankelijk verklaard. Het agentschap brengt de aanvrager schriftelijk op de hoogte van de beslissing.".
 
+### ART 104.
+
+Artikel 10.1.22 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 10.1.22. Uiterlijk op 1 oktober van het jaar waarin de ontvankelijke subsidieaanvraag is ingediend, beslist de minister over de toekenning en het bedrag van de subsidie.<br>
+Het agentschap brengt het erkende onroerenderfgoeddepot schriftelijk op de hoogte van de beslissing, vermeld in het eerste lid.".
+
 ### ART 105.
 
 In artikel 10.1.23, eerste lid van hetzelfde besluit wordt de datum "1 december" vervangen door de datum "15 oktober".
@@ -855,6 +965,15 @@ In artikel 10.1.24 van hetzelfde besluit wordt het tweede lid vervangen door wat
 1° het aantal inwoners, ingeschreven in het bevolkingsregister van de gemeenten die deel uitmaken van het gebied waar het onroerenderfgoeddepot zijn receptieve diensten verleent;<br>
 2° de oppervlakte van het gebied waar het onroerenderfgoeddepot zijn receptieve diensten verleent;<br>
 3° de grootte van de collectie.".
+
+### ART 107.
+
+In artikel 10.1.26 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° tussen het eerste en tweede lid wordt een lid ingevoegd dat luidt als volgt:<br>
+"Met het oog op het toezicht, vermeld in het eerste lid, dient het erkende onroerenderfgoeddepot een financiële rapportering in bij het agentschap uiterlijk op 31 mei.";<br>
+<br>
+2° in het bestaande derde lid, dat het vierde lid wordt, worden de woorden "per beveiligde zending" vervangen door het woord "schriftelijk".
 
 ### ART 108.
 
