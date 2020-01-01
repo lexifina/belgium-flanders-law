@@ -228,6 +228,8 @@ De Zorgkassencommissie verwerkt de persoonsgegevens die noodzakelijk zijn voor d
 <br>
 De Vlaamse Regering kan, na advies van de bevoegde toezichthoudende autoriteit, nadere regels bepalen voor de vorm waarin en de wijze waarop de persoonsgegevens, inclusief de gegevens over de gezondheid worden uitgewisseld.<br>
 <br>
+De Vlaamse Regering kan, na advies van de bevoegde toezichthoudende autoriteit, de persoonsgegevens, vermeld in deze paragraaf, die door een agentschap dat de Vlaamse Regering aanwijst, de verzekeringsinstellingen, de zorgvoorzieningen, de Zorgkassencommissie of de Expertencommissie worden verwerkt, bepalen.<br>
+<br>
 § 3. De verwerkingsverantwoordelijken in de zin van artikel 4.7 van de algemene verordening gegevensbescherming zijn:<br>
 1° het agentschap dat de Vlaamse Regering aanwijst, in het kader van de aansturing van de Zorgkassencommissie en de werking van de Expertencommissie, in het kader van het toezicht, vermeld in artikel 41 en in het kader van de opvraging van de lijsten, vermeld in artikel 49;<br>
 2° de verzekeringsinstellingen, in het kader van de opdrachten voortvloeiend uit dit decreet.<br>
@@ -1247,3 +1249,7 @@ In het geval er op 1 januari 2019 bepaalde uitvoeringsbesluiten nog niet voorhan
 ### ART 114.
 
 Dit decreet treedt in werking op 1 januari 2019.
+
+### ART 115.
+
+Dit decreet treedt buiten werking op een door de Vlaamse Regering per bepaling te bepalen datum.
