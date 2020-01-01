@@ -12,7 +12,7 @@ De gewestelijke aangelegenheden met betrekking tot welke het invorderen van onbe
 7° de werkgelegenheid;<br>
 8° ...<br>
 9° de toeristische logiessector;<br>
-10° de financiële tegemoetkoming naar aanleiding van schade, veroorzaakt door algemene rampen.<br>
+10° de financiële tegemoetkoming naar aanleiding van schade, veroorzaakt door algemene rampen als vermeld in artikel 2, 1°, van het decreet van 3 juni 2016 betreffende de tegemoetkoming voor schade, aangericht door algemene rampen in het Vlaamse Gewest en door rampen als vermeld in artikel 2, 1°, van het decreet van 5 april 2019 houdende de tegemoetkoming in de schade die aangericht is door rampen in het Vlaamse Gewest.<br>
 <br>
 De onbetwiste en opeisbare niet-fiscale schuldvorderingen en de toebehoren&nbsp;inzake de toekenning van subsidies die voortvloeien uit het decreet van 13 december 2002 tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds, inzake de toekenning van facultatieve subsidies door het Agentschap voor Binnenlands Bestuur, en inzake afrekeningen die voortvloeien uit het besluit van de Vlaamse Regering van 17 oktober 2008 betreffende de bijdrage van de besturen in de uitgaven die verbonden zijn aan de gewestelijk ontvangers, worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
