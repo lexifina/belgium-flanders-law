@@ -420,6 +420,10 @@ De begrotingsjaren 2023 en 2024 worden meegenomen in de monitoring, vermeld in a
 <br>
 Artikel III.42/1, § 3 en § 4, zijn van overeenkomstige toepassing op de middelen die overeenkomstig dit artikel worden gegenereerd.".
 
+### ART 40.
+
+In artikel III.75, eerste lid, van dezelfde codex wordt de zinsnede "en IV.19" opgeheven.
+
 ### ART 41.
 
 In deel 3, titel 3, van dezelfde codex, het laatst gewijzigd bij het decreet van 18 mei 2018, wordt het opschrift van hoofdstuk 3 vervangen door wat volgt :<br>
@@ -440,9 +444,17 @@ In artikel III.114 van dezelfde codex, gewijzigd bij het decreet van 19 december
 
 In artikel III.119, § 3, eerste lid, van dezelfde codex wordt punt 6° opgeheven.
 
+### ART 44.
+
+Artikel IV.19 van dezelfde codex wordt opgeheven.
+
 ### ART 45.
 
 In artikel IV.28, § 1, eerste lid, 1°, van dezelfde codex wordt het getal "5" vervangen door het getal "8".
+
+### ART 46.
+
+Artikel IV.32 van dezelfde codex wordt opgeheven.
 
 ### ART 47.
 
@@ -724,6 +736,20 @@ In deel 4, titel 4, van dezelfde codex, gewijzigd bij de decreten van 21 maart 2
 
 In artikel V.39, tweede lid, van dezelfde codex, gewijzigd bij het decreet van 25 april 2014, wordt de zin "De salaristoeslagen worden meegerekend als personeelsuitgaven voor het bepalen van de in artikel IV.19 bedoelde 80%- of 85%-norm." opgeheven.
 
+### ART 87.
+
+In artikel V.60, zesde lid, van dezelfde codex wordt de zin "De premies worden meegerekend als personeelsuitgaven voor het bepalen van de in artikel IV.19 bedoelde 80%- of 85% norm." opgeheven.
+
+### ART 88.
+
+In artikel V.64 van dezelfde codex worden de volgende wijzigingen aangebracht :<br>
+<br>
+1° tussen het tweede en het derde lid wordt een lid ingevoegd, dat luidt als volgt :<br>
+<br>
+"Een universiteit kan vanaf 1 oktober 2019 de personeelsleden die opgenomen zijn op de lijst, vermeld in artikel 103ter decies, § 1, eerste lid, 2°, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, of artikel 84vicies ter, § 1, eerste lid, 2°, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991, opnemen in het integratiekader als een hogeschool die personeelsleden op grond van artikel V.206/1, eerste lid, van deze codex overgenomen heeft en de personeelsleden op grond van de overeenkomst, vermeld in artikel V.79/2, § 2, van deze codex aan de universiteit zijn toegewezen.";<br>
+<br>
+2° in het bestaande derde lid, dat het vierde lid wordt, wordt de datum "1 oktober 2013" vervangen door de woorden "hun opname in het integratiekader".
+
 ### ART 89.
 
 Artikel V.79/4 van dezelfde codex, ingevoegd bij het decreet van 4 mei 2018, wordt vervangen door wat volgt :<br>
@@ -787,6 +813,10 @@ In artikel V.244, § 1, derde lid, van dezelfde codex, gewijzigd bij de decreten
 In artikel 9 van het decreet van 4 mei 2018 betreffende de uitbouw van de graduaatsopleidingen binnen de hogescholen en de versterking van de lerarenopleidingen binnen de hogescholen en universiteiten wordt de datum "1 september 2009" vervangen door de datum "1 september 2019".
 
 ## HOOFDSTUK 7. Wijziging aan het decreet van 4 mei 2018 betreffende de uitbouw van de graduaatsopleidingen binnen de hogescholen en de versterking van de lerarenopleidingen binnen de hogescholen en universiteiten
+
+### ART 99.
+
+Artikel 30, 2°, van het decreet van 4 mei 2018 betreffende de uitbouw van de graduaatsopleidingen binnen de hogescholen en de versterking van de lerarenopleidingen binnen de hogescholen en universiteiten wordt opgeheven.
 
 ### ART 100.
 
