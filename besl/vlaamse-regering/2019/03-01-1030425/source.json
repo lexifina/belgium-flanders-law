@@ -2,16 +2,16 @@
   "codex_id": 1030425,
   "title": "Besluit van de Vlaamse Regering van 2019-03-01 houdende de regels voor de erkenning en subsidiëring van een partnerorganisatie als Vlaams Instituut voor de Eerste Lijn",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030425/VolledigDocument?datum=2019-03-29",
-  "source_sha256": "5353ac13b5cf1d0075e157e6629196f04ced6071d45d62b363dd18016a70c4d5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030425/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "e69d9e2f1ef4225b1122010d1889979c2af26b407349043e906a10dfc26b5dd5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030425&param=informatie",
-  "as_of": "2019-03-29",
+  "as_of": "2020-01-01",
   "made": "2019-03-01",
   "gazette": "2019-03-19",
   "numac": 2019040767,
   "document_start": "2019-03-29",
   "document_end": "2021-12-31",
-  "in_force": "2019-03-29",
+  "in_force": "2020-01-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2019-03-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }

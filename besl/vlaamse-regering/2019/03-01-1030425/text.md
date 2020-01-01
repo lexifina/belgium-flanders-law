@@ -188,7 +188,7 @@ Om in aanmerking te komen voor subsidiëring moet het VIVEL :<br>
 
 ### ART 15.
 
-Binnen de beschikbare begrotingskredieten ontvangt het VIVEL voor de opdrachten, vermeld in artikel 2, een subsidie van 650.000 (zeshonderdvijftigduizend) euro per werkingsjaar.<br>
+Binnen de beschikbare begrotingskredieten ontvangt het VIVEL voor de opdrachten, vermeld in artikel 2, een subsidie van 611.000 (zeshonderdenelfduizend) euro per werkingsjaar.<br>
 <br>
 Een werkingsjaar loopt van 1 januari tot en met 31 december. Het eerste werkingsjaar kan korter zijn dan een volledig werkingsjaar.<br>
 <br>
