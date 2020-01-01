@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032529,
+  "title": "Besluit van de Vlaamse Regering van 2019-12-13 tot wijziging van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding, wat betreft de stimulanspremie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032529/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "3043ba25a1014eb9c399b4ce2f3d763793fbb45b7081f7ecac80170289922ccc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032529&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2019-12-13",
+  "gazette": "2019-12-24",
+  "numac": 2019031140,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
