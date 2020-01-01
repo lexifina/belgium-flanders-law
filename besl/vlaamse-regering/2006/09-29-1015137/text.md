@@ -48,7 +48,7 @@ c) de inkomensvervangende tegemoetkoming aan personen met een handicap;<br>
 d) de van belasting vrijgestelde beroepsinkomsten uit het buitenland of de van belasting vrijgestelde beroepsinkomsten die verworven zijn bij een Europese of internationale instelling;<br>
 13° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis van de Vlaamse Wooncode, ingevoegd bij het decreet van 24 maart 2006;<br>
 14° kandidaat-koper : een of meer woonbehoeftige particuliere personen die een woning of kavel willen aankopen;<br>
-15° zittende huurder : een huurder van een sociale huurwoning als vermeld in artikel 2, § 1, eerste lid, 34°, van de Vlaamse Wooncode;<br>
+15° zittende huurder : een huurder van een sociale huurwoning als vermeld in artikel 91, § 1, eerste lid, 1°, van de Vlaamse Wooncode;<br>
 16° kernsteden : Aalst, Antwerpen, Boom, Brugge, Dendermonde, Genk, Gent, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas, Turnhout en Vilvoorde;<br>
 17° sociaal huurstelsel : het besluit van de Vlaamse Regering tot reglementering van het sociale huurstelsel, genomen ter uitvoering van titel VII van de Vlaamse Wooncode;<br>
 18° beveiligde zending : een van de volgende betekeningswijzen :<br>
@@ -59,7 +59,7 @@ c) elke andere door de minister toegestane betekeningswijze waarbij de datum van
 <br>
 In afwijking van het eerste lid, 12°, worden de inkomsten van ongehuwde&nbsp;en niet wettelijk samenwonende kinderen die vanaf hun meerderjarigheid zonder onderbreking deel uitmaken van het gezin en die minder dan 25 jaar oud zijn op de referentiedatum, en de inkomsten van de familieleden van de kandidaat-koper van de eerste en de tweede graad die als ernstig gehandicapt erkend zijn of die ten minste 65 jaar oud zijn, niet meegerekend. De inkomsten van de inwonende ascendenten van de kandidaat-koper worden slechts voor de helft meegerekend.<br>
 <br>
-Om als persoon ten laste als vermeld in het eerste lid, 11°, c, te worden beschouwd, gelden dezelfde voorwaarden als de voorwaarden die bepaald worden ter uitvoering van artikel 1, eerste lid, 22°, van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode.<br>
+Om als persoon ten laste als vermeld in het eerste lid, 11°, c, te worden beschouwd, gelden dezelfde voorwaarden als de voorwaarden die bepaald worden ter uitvoering van artikel 1, eerste lid, 19°, c)&nbsp;van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode.<br>
 <br>
 Als een persoon beantwoordt aan de definitie van persoon ten laste als gedefinieerd in het eerste lid, 11°, a) of b), en aan de definitie van persoon ten laste als gedefinieerd in het eerste lid, 11°, c), telt die persoon voor twee personen ten laste.<br>
 <br>
