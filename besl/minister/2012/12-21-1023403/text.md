@@ -26,7 +26,7 @@ Een CKG dat een module kiest binnen de typemodules in dit besluit, voert   die u
 
 <p>Het CKG besteedt zijn gehele subsidie-enveloppe, verminderd met een bedrag voor basissubsidie, aan modules binnen de typemodules in dit besluit. Deze basissubsidie dient om de kosten, die verbonden zijn aan de overkoepelende werking, te dekken. De basissubsidie hangt af van de subsidie-enveloppe van het respectievelijk CKG.</p>
 
-<p>Elk CKG krijgt een startbedrag van 218.350 euro (tweehonderdachttienduizend driehonderdvijftig euro). Van zodra de subsidie-enveloppe van een CKG het grensbedrag van&nbsp;1.786.500 euro (een miljoen zevenhonderdzesentachtigduizend vijfhonderd euro) overschrijdt, groeit het startbedrag aan met 5 % van het verschil van de subsidie-enveloppe met dat grensbedrag.</p>
+<p>Elk CKG krijgt een startbedrag van 215.511,45 euro (tweehonderdvijftienduizend vijfhonderdenelf euro vijfenveertig cent). Van zodra de subsidie-enveloppe van een CKG het grensbedrag van&nbsp;1.763.275,50 euro (een miljoen zevenhonderddrieënzestigduizend tweehonderdvijfenzeventig euro vijftig cent) overschrijdt, groeit het startbedrag aan met 5 % van het verschil van de subsidie-enveloppe met dat grensbedrag.</p>
 
 ## HOOFDSTUK 2 Mobiele begeleiding
 
@@ -62,7 +62,7 @@ Als de MIH voor verschillende typemodules wordt gebruikt, moet de kostprijs word
 
 ### ART. 10.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 9, eerste lid, is 60.443,25 euro (zestigduizend vierhonderddrieënveertig euro vijfentwintig cent).
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 9, eerste lid, is 59.657,49 euro (negenenvijftigduizend zeshonderdzevenenvijftig euro negenenveertig cent).
 
 ## Afdeling 3 Lange licht mobiele pedagogische begeleiding voor kinderen en hun gezin
 
@@ -80,7 +80,7 @@ Als de MIH voor verschillende typemodules wordt gebruikt, moet de kostprijs word
 
 ### ART. 13.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 12, eerste lid, is 235.818 euro (tweehonderdvijfendertigduizend achthonderdachttien euro).
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 12, eerste lid, is 232.752,37 euro (tweehonderdtweeëndertigduizend zevenhonderdtweeënvijftig euro zevenendertig cent).
 
 ## Afdeling 4 Zeer korte intensieve mobiele pedagogische begeleiding voor kinderen en hun gezin
 
@@ -94,7 +94,7 @@ De MIH is&nbsp;één begeleiding en kan aangevuld worden met minimaal één frac
 
 ### ART. 16.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 15, eerste lid, is 4.482,79 euro (vierduizend vierhonderdtweeëntachtig euro negenenzeventig cent).
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 15, eerste lid, is 4.424,51 euro (vierduizend vierhonderdvierentwintig euro eenenvijftig cent).
 
 ## Afdeling 5 Korte intensieve mobiele pedagogische begeleiding voor kinderen en hun gezin
 
@@ -108,7 +108,7 @@ De MIH is&nbsp;één begeleiding en kan aangevuld worden met minimaal één frac
 
 ### ART. 19.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 18, eerste lid, is 6.715,92 euro (zesduizend zevenhonderdvijftien euro tweeënnegentig cent).
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 18, eerste lid, is 6.628,61 euro (zesduizend zeshonderdachtentwintig euro eenenzestig cent).
 
 ## Afdeling 6 Middellange intensieve mobiele pedagogische begeleiding voor kinderen en hun gezin
 
@@ -122,7 +122,7 @@ De MIH is&nbsp;één begeleiding en kan aangevuld worden met minimaal één frac
 
 ### ART. 22.
 
-&nbsp;Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 21, eerste, lid is 13.018,29 euro (dertienduizend achttien euro negenentwintig cent).
+&nbsp;Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 21, eerste, lid is 12.849,05 euro (twaalfduizend achthonderdnegenenveertig euro vijf cent).
 
 ## HOOFDSTUK 3 Ambulante opvang
 
@@ -148,7 +148,7 @@ De typemodule ambulante opvang bestaat erin dat een kind twee tot vijf   keer pe
 
 ### ART. 27.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 26, eerste paragraaf, is 118.306 euro (honderdachttienduizend driehonderdenzes euro).
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 26, eerste paragraaf, is 116.768,02 euro (honderdzestienduizend zevenhonderdachtenzestig euro twee cent).
 
 ## HOOFDSTUK 4 Ambulante pedagogische training
 
@@ -177,7 +177,7 @@ Een fractie bestaat uit één gezin. De kostprijs van een fractie is 1/12 van he
 
 ### ART. 31.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 30, eerste lid, is 154.532,25 euro (honderdvierenvijftigduizend vijfhonderdtweeëndertig euro vijfentwintig cent).
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 30, eerste lid, is 152.523,33 euro (honderdtweeënvijftigduizend vijfhonderddrieëntwintig euro drieëndertig cent).
 
 ## Afdeling 3 Ambulante pedagogische training in groepsverband van ouders en van kinderen
 
@@ -191,7 +191,7 @@ De typemodule ambulante pedagogische training in groepsverband van ouders   en v
 
 ### ART. 34.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 33, eerste lid, is 94.783,75 euro (vierennegentigduizend zevenhonderddrieëntachtig euro vijfenzeventig cent).
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 33, eerste lid, is 93.551,56 euro (drieënnegentigduizend vijfhonderdeenenvijftig euro zesenvijftig cent).
 
 ## Afdeling 4 Ambulante pedagogische training van ouders in groepsverband
 
@@ -205,7 +205,7 @@ De typemodule ambulante pedagogische training van ouders in groepsverband   best
 
 ### ART. 37.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 36, eerste lid, is 18.956,75 euro (achttienduizend negenhonderdzesenvijftig euro vijfenzeventig cent).
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 36, eerste lid, is 18.710,31 euro (achttienduizend zevenhonderdentien euro eenendertig cent).
 
 ## Afdeling 5 Ambulante pedagogische training of begeleiding van ouders individueel
 
@@ -219,7 +219,7 @@ De typemodule ambulante pedagogische training van ouders individueel   bestaat u
 
 ### ART. 40.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 39, eerste lid, is 40.295,50 euro (veertigduizend tweehonderdvijfennegentig euro vijftig cent).
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 39, eerste lid, is 39.771,66 euro (negenendertigduizend zevenhonderdeenenzeventig euro zesenzestig cent).
 
 ## HOOFDSTUK 5 Residentiële opvang
 
@@ -263,7 +263,7 @@ De typemodule crisisopvang heeft de volgende kenmerken : <BR>1° ze is   rechtst
 
 ### ART. 48.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 47, eerste paragraaf, is 281.076 euro (tweehonderdeenentachtigduizend zesenzeventig euro).
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 47, eerste paragraaf, is 277.422,01 euro (tweehonderdzevenenzeventigduizend vierhonderdtweeëntwintig euro een cent).
 
 ## Afdeling 3 Zeer korte residentiële opvang
 
@@ -287,7 +287,7 @@ De typemodule zeer korte residentiële opvang heeft de volgende kenmerken :   <B
 
 ### ART. 52.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 51, eerste paragraaf, is 281.076 euro (tweehonderdeenentachtigduizend zesenzeventig euro).
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 51, eerste paragraaf, is 277.422,01 euro (tweehonderdzevenenzeventigduizend vierhonderdtweeëntwintig euro een cent).
 
 ## Afdeling 4 Lange residentiële opvang
 
@@ -320,7 +320,7 @@ Perspectiefbiedende opvang heeft volgende kenmerken :<br>
 
 ### ART. 55.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 54, eerste paragraaf, is 281.076 euro (tweehonderdeenentachtigduizend zesenzeventig euro).
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 54, eerste paragraaf, is 277.422,01 euro (tweehonderdzevenenzeventigduizend vierhonderdtweeëntwintig euro een cent).
 
 ## [HOOFDSTUK 6 Innovatiemodule (verv. MB 16 november 2017, art. 33, I: 16 november 2017)]
 
