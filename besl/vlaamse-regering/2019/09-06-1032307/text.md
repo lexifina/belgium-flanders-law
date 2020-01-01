@@ -28,6 +28,74 @@ In artikel 1 van het besluit van de Vlaamse Regering van 26 februari 2016 betref
 2° er wordt een punt 11° toegevoegd, dat luidt als volgt:<br>
 "11° nationaal contactpunt: het Nationaal contactpunt, vermeld in artikel 2, 16°, van de wet van 19 mei 2010 houdende oprichting van de Kruispuntbank van de voertuigen.".
 
+### ART 2.
+
+In artikel 2 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 31 maart 2017, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° aan paragraaf 1, 3°, wordt een punt d) toegevoegd, dat luidt als volgt:<br>
+"d) vanaf 1 januari 2028: motorvoertuigen waarvan de motor ten minste voldoet aan de emissienorm van fase V;";<br>
+<br>
+2° in paragraaf 1, 4°, e), wordt de zin "De toegang kan slechts voor één voertuig per speciale kaart aangevraagd worden en geldt tot de eerstvolgende wijziging van de toegangsvoorwaarden, vermeld in punt 2° ;" vervangen door de zin "De toegang geldt voor vijf jaar;";<br>
+<br>
+3° in paragraaf 1, 4°, f), worden tussen de woorden "personen met een handicap" en de zinsnede ", waarvoor" de woorden "of voor het besturen door een persoon met een handicap" ingevoegd;<br>
+<br>
+4° in paragraaf 1, 4°, f), wordt de zin "De toegang kan alleen aangevraagd worden voor voertuigen die vóór de invoering van de toegangsvoorwaarden, vermeld in punt 2°, ingeschreven zijn op naam van de betrokken titularis van de nummerplaat, en geldt tot de eerstvolgende wijziging van de toegangsvoorwaarden, vermeld in punt 2° ;" vervangen door de zin "De toegang geldt voor vijf jaar;";<br>
+<br>
+5° in paragraaf 1, 4°, h), worden de woorden "een rolstoellift" vervangen door de woorden "een geïntegreerd systeem dat in of aan het voertuig gemonteerd is en dat bestemd is om te worden gebruikt om de rolstoel samen met de gebruiker in het voertuig te plaatsen";<br>
+<br>
+6° in paragraaf 1, 4°, wordt een punt j) toegevoegd dat luidt als volgt:<br>
+"j) tot en met 31 december 2028 de motorvoertuigen van de categorie T met een vermogen lager dan 130kW.<br>
+<br>
+7° aan paragraaf 1 wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"Voor de toepassing van dit besluit worden voertuigen die werken op lpg of bio-ethanol, gelijkgesteld met een voertuig met een benzinemotor.";<br>
+<br>
+8° in paragraaf 3 worden de woorden "databank van DIV" vervangen door het woord "Kruispuntbank";<br>
+<br>
+9° in paragraaf 3 worden tussen het woord "staat" en de woorden "De volgende" de woorden "of als de emissienorm niet is opgenomen in de gegevens uit de buitenlandse kentekenregisters die via het nationaal contactpunt toegankelijk zijn voor het beheer en de handhaving van een LEZ" ingevoegd;<br>
+<br>
+10° in paragraaf 3 wordt punt 6° vervangen door wat volgt:<br>
+"6° voor voertuigen van de categorie T met een vermogen gelijk aan of hoger dan 130 kW:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>datum van de eerste inschrijving van het voertuig in het binnen- of buitenland</td>
+			<td>emissienorm</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 1999 tot en met 31 december 2001</td>
+			<td>fase I</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 2002 tot en met 31 december 2005</td>
+			<td>fase II</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 2006 tot en met 31 december 2010</td>
+			<td>fase IIIa</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 2011 tot en met 31 december 2013</td>
+			<td>fase IIIb</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 2014 tot en met 31 december 2018</td>
+			<td>fase IV</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 2019</td>
+			<td>fase V</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+11° in paragraaf 5 wordt de zinsnede "24 uur" vervangen door de woorden "de dag" en worden de woorden "databank van DIV" vervangen door het woord "Kruispuntbank";<br>
+<br>
+12° in paragraaf 6, 1°, wordt de zinsnede "en IV" vervangen door de zinsnede ", IV en V";<br>
+<br>
+13° aan paragraaf 6, 1°, wordt de zinsnede "en verordening (EU) 2016/1628 van het Europees Parlement en de Raad van 14 september 2016 inzake voorschriften met betrekking tot emissiegrenswaarden voor verontreinigende gassen en deeltjes en typegoedkeuring voor in niet voor de weg bestemde mobiele machines gemonteerde interne verbrandingsmotoren, tot wijziging van Verordeningen (EU) nr. 1024/2012 en (EU) nr. 167/2013, en tot wijziging en intrekking van Richtlijn 97/68/EG" toegevoegd;<br>
+<br>
+14° in paragraaf 6 wordt punt 8° opgeheven.
+
 ### ART 3.
 
 Artikel 4 van hetzelfde besluit wordt vervangen door wat volgt:<br>
