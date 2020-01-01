@@ -24,6 +24,10 @@ Aan artikel 30 van de wet van 5 juni 1972 op de veiligheid van de vaartuigen, ge
 
 ## Afdeling 3. Wijziging van de wet van 10 april 1990 tot regeling van de private en bijzondere veiligheid
 
+### ART 4.
+
+In artikel 1, § 1, eerste lid, van de wet van 10 april 1990 tot regeling van de private en bijzondere veiligheid, gewijzigd bij wet van 28 april 2010, wordt punt 8° opgeheven.
+
 ### ART 5.
 
 Aan artikel 16 van dezelfde wet, gewijzigd bij de wetten van 28 april 2010 en 13 januari 2014, worden een tiende tot en met negentiende lid toegevoegd, die luiden als volgt:<br>

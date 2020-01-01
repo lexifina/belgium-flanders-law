@@ -2,16 +2,16 @@
   "codex_id": 1031829,
   "title": "Decreet van 2019-04-26 houdende diverse bepalingen over het mobiliteitsbeleid, de openbare werken en het vervoer, het verkeersveiligheidsbeleid en VVM - De Lijn",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031829/VolledigDocument?datum=2019-07-04",
-  "source_sha256": "c7225c9370de86c0cfcd1d4de908a5fef6b7baf5aa05d8cb9b5cde74b1cefe74",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031829/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "b148692db45301c93e4069d848c7c404ebf7ee3e1d5ecffd1db9bb834850cfc9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031829&param=informatie",
-  "as_of": "2019-07-04",
+  "as_of": "2020-01-01",
   "made": "2019-04-26",
   "gazette": "2019-06-24",
   "numac": 2019013067,
   "document_start": "2019-07-04",
   "document_end": null,
-  "in_force": "2019-07-04",
-  "article_versions": 51,
-  "record_form": "consolidated version as in force on 2019-07-04; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-01-01",
+  "article_versions": 52,
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
