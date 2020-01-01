@@ -297,58 +297,58 @@ Als een dienst voor pleegzorg niet aan de bepalingen van dit besluit   voldoet, 
 
 ### ART. 51.
 
-Vergunde diensten voor pleegzorg ontvangen per module begeleiding of behandeling die ze inzetten, een forfaitaire subsidie die op jaarbasis wordt vastgesteld volgens de volgende tabel:<br>
-&nbsp;
-<table border="1">
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Vergunde diensten voor pleegzorg ontvangen per module begeleiding of behandeling die ze inzetten, een forfaitaire subsidie die op jaarbasis wordt vastgesteld volgens de volgende tabel:</span></span></span>
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
 	<tbody>
 		<tr>
 			<td>module</td>
 			<td>personeel (P)</td>
-			<td>anciënniteit extra boven 5 jaar (A)</td>
+			<td>anciënniteit extra boven vijf jaar (A)</td>
 			<td>werking (W)</td>
 			<td>totaal (T=P+W)</td>
 		</tr>
 		<tr>
 			<td>ondersteunend verblijf in een pleeggezin - lage frequentie, vermeld in artikel 3, eerste lid, 2°</td>
-			<td>4.217,65</td>
-			<td>101,68</td>
-			<td>794,80</td>
-			<td>5.012,45</td>
+			<td>4175,85</td>
+			<td>100,67</td>
+			<td>784,47</td>
+			<td>4960,32</td>
 		</tr>
 		<tr>
 			<td>ondersteunend verblijf in een pleeggezin - korte duur, vermeld in artikel 3, eerste lid, 3°</td>
-			<td>4.217,65</td>
-			<td>101,68</td>
-			<td>794,80</td>
-			<td>5.012,45</td>
+			<td>4175,85</td>
+			<td>100,67</td>
+			<td>784,47</td>
+			<td>4960,32</td>
 		</tr>
 		<tr>
 			<td>crisisverblijf in een pleeggezin, vermeld in artikel 3, eerste lid, 1°</td>
-			<td>25.305,90</td>
-			<td>610,08</td>
-			<td>4.768,80</td>
-			<td>30.074,70</td>
+			<td>25.054,72</td>
+			<td>604,04</td>
+			<td>4706,81</td>
+			<td>29.761,53</td>
 		</tr>
 		<tr>
 			<td>perspectiefzoekend verblijf in een pleeggezin, vermeld in artikel 4</td>
-			<td>4.217,65</td>
-			<td>101,68</td>
-			<td>794,80</td>
-			<td>5.012,45</td>
+			<td>4175,85</td>
+			<td>100,67</td>
+			<td>784,47</td>
+			<td>4960,32</td>
 		</tr>
 		<tr>
 			<td>perspectiefbiedend verblijf in een pleeggezin, vermeld in artikel 5</td>
-			<td>4.217,65</td>
-			<td>101,68</td>
-			<td>794,80</td>
-			<td>5.012,45</td>
+			<td>4175,85</td>
+			<td>100,67</td>
+			<td>784,47</td>
+			<td>4960,32</td>
 		</tr>
 		<tr>
 			<td>behandelingspleegzorg, vermeld in artikel 6, § 1</td>
-			<td>7.908,09</td>
-			<td>190,65</td>
-			<td>1.490,25</td>
-			<td>9.398,34</td>
+			<td>7829,72</td>
+			<td>188,76</td>
+			<td>1470,88</td>
+			<td>9300,60</td>
 		</tr>
 	</tbody>
 </table>
