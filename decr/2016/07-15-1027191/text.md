@@ -56,7 +56,7 @@ In functie van de beschikbare begrotingskredieten kan de Vlaamse Regering de hoo
 
 ### ART 7.
 
-De Vlaamse Regering kan de gevallen van terugvordering bepalen met behoud van de toepassing van de bepalingen in de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof en de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaringen te doen in verband met subsidies, vergoedingen en toelagen van elke aard, die geheel of gedeeltelijk ten laste zijn van de Staat.<br>
+De Vlaamse Regering kan de gevallen van terugvordering bepalen met behoud van de toepassing van artikel 75 en artikel 76 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 en de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaringen te doen in verband met subsidies, vergoedingen en toelagen van elke aard, die geheel of gedeeltelijk ten laste zijn van de Staat.<br>
 <br>
 De Vlaamse Regering bepaalt de intrestvoet die in geval van terugvordering verschuldigd is.<br>
 <br>
