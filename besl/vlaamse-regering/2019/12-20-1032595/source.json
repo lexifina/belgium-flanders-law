@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032595,
+  "title": "Besluit van de Vlaamse Regering van 2019-12-20 over tot de toekenning van een subsidie aan VLHORA",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032595/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "e73abb69f988a78b79825e0287db1f2697cbd7ab045b00d7a13d888210fb035b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032595&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2019-12-20",
+  "gazette": "2020-01-22",
+  "numac": 2020010076,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
