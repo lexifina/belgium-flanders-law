@@ -28,6 +28,10 @@ Besluit :
 
 ## HOOFDSTUK 1. Wijzigingen van het koninklijk besluit van 30 januari 1979 betreffende de toekenning van een vakantiegeld aan het personeel van 's lands algemeen bestuur
 
+### ART 2.
+
+In artikel 4 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 28 maart 2014 en gewijzigd bij het besluit van de Vlaamse Regering van 19 januari 2018, wordt de zinsnede "in 2018 en 2019" vervangen door de zinsnede "in 2020".
+
 ### ART 4.
 
 Artikel 9 van hetzelfde besluit, vervangen bij het koninklijk besluit van 23 maart 1984, wordt vervangen door wat volgt:<br>
