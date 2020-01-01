@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033962,
+  "title": "Besluit van de Vlaamse Regering van 2020-11-27 tot vaststelling van het totale aantal subsidiabele uren gezinszorg voor de diensten voor gezinszorg voor het jaar 2020, de subsidiabele uren gezinszorg voor de nieuwe initiatieven gezinszorg 2020, en het bedrag voor de maatregelen uit de Vlaamse Intersectorale Akkoorden voor de social/non profitsectoren voor de diensten voor gezinszorg, de diensten voor logistieke hulp en de centra voor dagopvang",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033962/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "f2430c2f5a224178948c25fc2939513021406ccc9e806ff1780534835c340d53",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033962&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2020-11-27",
+  "gazette": "2020-12-18",
+  "numac": 2020044266,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
