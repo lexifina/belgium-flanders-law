@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032222,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-24 tot wijziging van diverse bepalingen betreffende het woonbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032222/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "ef5ca8276ceffa8376d9ba43ed8d99fbaf749737ce9df7eb6623bb95fba403fe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032222&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2019-05-24",
+  "gazette": "2019-09-10",
+  "numac": 2019014216,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 70,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
