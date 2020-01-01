@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032509,
+  "title": "Ministerieel besluit van 2019-05-14 tot wijziging van het ministerieel besluit van 24 februari 2014 met betrekking tot de crisisjeugdhulpverlening in de integrale jeugdhulp, wat betreft het bepalen van een norm voor de personeelsbezetting",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032509/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "272be1d326372c174816b1583649b637a008080974a14376010fd851d728a66d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032509&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2019-05-14",
+  "gazette": "2019-12-17",
+  "numac": 2019015769,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
