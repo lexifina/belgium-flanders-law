@@ -54,7 +54,15 @@ Een spel- en ontmoetingsinitiatief streeft een sociale mix na die de   populatie
 
 ### ART. 9.
 
-<P>Het subsidiebedrag voor een spel- en ontmoetingsinitiatief bedraagt 28.631,95   euro (achtentwintigduizend zeshonderdeenendertig euro vijfennegentig cent),   vermeerderd met een variabel bedrag, tot een plafond van maximaal 35.789,93 euro   (vijfendertigduizend zevenhonderdnegenentachtig euro drieënnegentig   cent).<BR></P>  <P>Voor de berekening van het variabele bedrag, vermeld in het eerste lid, geldt   een basisbedrag van 0,50 euro per minderjarige in het werkingsgebied van het   spel- en ontmoetingsinitiatief. Het variabele bedrag wordt vermeerderd met het   bedrag dat verkregen wordt door twee keer het variabele bedrag te   vermenigvuldigen met de samengestelde indicator.<BR></P>
+<p>Om het subsidiebedrag, vermeld in artikel 61 van het besluit van 28 maart 2014, voor elk erkend en gesubsidieerd spel- en ontmoetingsinitiatief vast te stellen, wordt een vast bedrag vermeerderd met een variabel bedrag.<br>
+<br>
+Het vaste bedrag, vermeld in het eerste lid, bedraagt voor een spel- en ontmoetingsinitiatief 30.125,03 euro (dertigduizend honderdvijfentwintig euro drie cent).<br>
+<br>
+Om het variabele bedrag, vermeld in het eerste lid, te berekenen, geldt een basisbedrag dat bestaat uit het aantal minderjarigen in het werkingsgebied, vermenigvuldigd met 0,70 euro (zeventig cent). Het basisbedrag wordt vermeerderd met het bedrag dat verkregen wordt door de samengestelde indicator te vermenigvuldigen met 20% van het basisbedrag en met een bedrag dat rekening houdt met de evolutie van de geldelijke anciënniteit, vermeld in artikel 61, § 1/1, eerste lid, 3°, van het besluit van 28 maart 2014.<br>
+<br>
+Het maximale subsidiebedrag dat aan een spel- en ontmoetingsinitiatief kan worden toegekend, rekening houdend met de beschikbare begrotingskredieten, bedraagt 37.771,45 euro (zevenendertigduizend zevenhonderdeenenzeventig euro vijfenveertig cent).<br>
+<br>
+De subsidie, vermeld in dit artikel, is gekoppeld aan de spilindex die van toepassing is op 1 januari 2019. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.</p>
 
 ## HOOFDSTUK 4 Procedures
 
