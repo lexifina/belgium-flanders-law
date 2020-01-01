@@ -22,7 +22,7 @@ Instemming wordt betuigd met het samenwerkingsakkoord van 16 december 2003 tusse
 
 ### ART. 4.
 
-Het debetsaldo van de centralisatierekening van het Investeringsfonds, zoals gedefinieerd in artikel 4 van de overeenkomst van 1 juli 1997 tussen de Vlaamse Gemeenschap en het Gemeentekrediet van België, in uitvoering van het besluit van 20 maart 1991 houdende uitvoering van het decreet op het investeringsfonds, gewijzigd bij het besluit van de Vlaamse Regering van 1 juni 1995, wordt voor een maximum bedrag van 288.000.000,00 euro opgenomen in de directe schuld. Voor de omschrijving van de directe schuld wordt verwezen naar artikel 2, 1°, van het decreet van 7 mei 2004 houdende bepalingen inzake kas-, schuld- en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest. De verschuldigde interesten op dit debetsaldo worden verrekend op programma 24.4 basisallocatie 21.01.
+...
 
 ## HOOFDSTUK V VLAAMS INFRASTRUCTUURFONDS
 

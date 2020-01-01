@@ -2,16 +2,16 @@
   "codex_id": 1013937,
   "title": "Decreet van 2005-06-24 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2005",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013937/VolledigDocument?datum=2016-09-01",
-  "source_sha256": "663d9619710b80aab10c82647e617dc5407701b2fde635933ab756bd278df356",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013937/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "9ca507f27068665d94448fe674748c54eba13d416b3bd06980d2a0dc2ff72a6b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013937&param=informatie",
-  "as_of": "2016-09-01",
+  "as_of": "2020-01-01",
   "made": "2005-06-24",
   "gazette": "2005-08-24",
   "numac": 2005035971,
   "document_start": null,
   "document_end": null,
-  "in_force": "2016-09-01",
+  "in_force": "2020-01-01",
   "article_versions": 48,
-  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
