@@ -46,7 +46,7 @@ In   het decreet van 23 december 2010 houdende bepalingen tot begeleiding van de
 
 ### ART. 9.
 
-<p>Er wordt een begrotingsfonds Departement Kanselarij en Bestuur opgericht. Dat fonds is een begrotingsfonds als vermeld in artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.</p>
+<p>Er wordt een begrotingsfonds Departement Kanselarij en Bestuur opgericht. Dat fonds is een begrotingsfonds als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.</p>
 
 <p>Het fonds wordt gespijsd met ontvangsten uit:<br>
 1° de verkoop van publicaties uit het elektronische bestelloket voor publicaties en van andere publicaties die verspreid worden door het Departement Kanselarij en Bestuur;<br>
@@ -205,7 +205,7 @@ In   artikel 39 van het decreet van 16 maart 2012 betreffende het economisch   o
 
 ### ART. 35.
 
-<p>Er wordt een fonds opgericht in de zin van artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.</p>
+<p>Er wordt een fonds opgericht in de zin van artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.</p>
 
 <p>Het Fonds wordt gespijsd met de winstuitkering van de Limburgse Reconversiemaatschappij (LRM).</p>
 
@@ -267,7 +267,11 @@ Aan   artikel 18, derde lid, van het decreet van 8 juli 2011 houdende bepalingen
 
 ### ART. 45.
 
-<P>&nbsp;§ 1. Er wordt een fonds opgericht   binnen het Departement WSE voor de uitvoering van projecten die tot stand komen   met cofinanciering van de Europese Unie. Dit fonds is een begrotingsfonds als   bedoeld in artikel 12 van het decreet van 8 juli 2011 houdende regeling van de   begroting, de boekhouding, de toekenning van subsidies en de controle op de   aanwending ervan, en de controle door het Rekenhof, hierna het fonds te   noemen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De inkomsten van het fonds worden gespijsd door de terugvorderingen van   subsidies of bedragen voor de financiering van overeenkomsten betreffende de   Vlaamse cofinanciering van ESF-projecten, die door de begunstigden niet of op   onrechtmatige wijze werden aangewend of waarvan de aanwending onvoldoende wordt   verantwoord.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. De inkomsten van het fonds mogen aangewend worden voor uitgaven voor   diensten, werking, exploitatie en uitrusting, voor zover deze uitgaven verband   houden met de realisatie van de projecten met cofinanciering van de   EU.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>&nbsp;§ 1. Er wordt een fonds opgericht binnen het Departement WSE voor de uitvoering van projecten die tot stand komen met cofinanciering van de Europese Unie. Dit fonds is een begrotingsfonds als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, hierna het fonds te noemen.</p>
+
+<p>§ 2. De inkomsten van het fonds worden gespijsd door de terugvorderingen van subsidies of bedragen voor de financiering van overeenkomsten betreffende de Vlaamse cofinanciering van ESF-projecten, die door de begunstigden niet of op onrechtmatige wijze werden aangewend of waarvan de aanwending onvoldoende wordt verantwoord.</p>
+
+<p>§ 3. De inkomsten van het fonds mogen aangewend worden voor uitgaven voor diensten, werking, exploitatie en uitrusting, voor zover deze uitgaven verband houden met de realisatie van de projecten met cofinanciering van de EU.</p>
 
 ## HOOFDSTUK 9 Onderwijs en Vorming
 
@@ -319,7 +323,7 @@ In   artikel 17 van het decreet van 15 juni 2007 betreffende het volwassenenonde
 
 <p>§ 1. Er wordt een begrotingsfonds opgericht voor de aanwending van teruggevorderde salarissen en salaristoelagen en andere ontvangsten van de sector Onderwijs, hierna genoemd `het middelenfonds'.</p>
 
-<p>§ 2. Het middelenfonds is een begrotingsfonds in de zin van artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.</p>
+<p>§ 2. Het middelenfonds is een begrotingsfonds als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.</p>
 
 <p>§ 3. Het middelenfonds wordt gespijsd door alle ontvangsten die voortvloeien uit de terugvorderingen van salarissen en salaristoelagen en andere onderwijsgerelateerde ontvangsten.</p>
 
