@@ -53,7 +53,7 @@ c) de persoon die beschouwd wordt als ernstig gehandicapt, of die op het ogenbli
 12° sociale huurwoning: een woning als vermeld in artikel 2, § 1, eerste lid, 22°, van de Vlaamse Wooncode;<br>
 13° toezichthouder: de toezichthouder, vermeld in artikel 29bis van de Vlaamse Wooncode;<br>
 14° Vlaamse Wooncode: het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
-15° werkdag: elke kalenderdag, behalve een zaterdag, een zondag of een wettelijke feestdag.<br>
+15° ....<br>
 <br>
 Het aanslagbiljet, vermeld in het eerste lid, 4°, heeft betrekking op de inkomsten van maximaal drie jaar voorafgaand aan de toepassing.<br>
 <br>
@@ -61,7 +61,7 @@ Voor de bepaling van het gezamenlijk belastbaar inkomen, vermeld in het eerste l
 <br>
 Het inkomen, vermeld in het eerste lid, 4°, wordt geïndexeerd volgens de gezondheidsindex van de maand juni van het jaar dat aan de toepassing ervan voorafgaat, met als basis de maand juni van het jaar waarop het inkomen betrekking heeft.<br>
 <br>
-Om als persoon ten laste als vermeld in het eerste lid, 10°, c), te worden beschouwd, gelden dezelfde voorwaarden als die bepaald zijn ter uitvoering van artikel 1, eerste lid, 22°, c), van het Kaderbesluit Sociale Huur.<br>
+Om als persoon ten laste als vermeld in het eerste lid, 10°, c), te worden beschouwd, gelden dezelfde voorwaarden als die bepaald zijn ter uitvoering van artikel 1, eerste lid, 19°, c), van het Kaderbesluit Sociale Huur.<br>
 <br>
 Als een persoon zowel beantwoordt aan de definitie van persoon ten laste als gedefinieerd in het eerste lid, 10°, a) of b), als aan de definitie van persoon ten laste als gedefinieerd in het eerste lid, 10°, c), telt die persoon voor twee personen ten laste.<br>
 <br>
@@ -85,7 +85,7 @@ De kredietgever wordt voor de toepassing van dit besluit erkend als kredietgever
 
 De aanvrager komt in aanmerking voor een huurwaarborglening als op het ogenblik van de beoordeling door de kredietgever de volgende voorwaarden vervuld zijn:<br>
 1° hij is ingeschreven in de bevolkingsregisters, vermeld in artikel 1, § 1, eerste lid, 1°, van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten en tot wijziging van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen, of hij is ingeschreven op een referentieadres als vermeld in artikel 1, § 2, van de voormelde wet;<br>
-2° hij beschikt over een inkomen dat de grenzen, vermeld in artikel 3, § 3, van het besluit van de Vlaamse Regering van 18 oktober 2013 tot reglementering van de verhuring van bescheiden huurwoningen van sociale huisvestingsmaatschappijen, niet overschrijdt;<br>
+2° hij beschikt over een inkomen dat de grenzen, vermeld in artikel 3, § 4, van het besluit van de Vlaamse Regering van 18 oktober 2013 tot reglementering van de verhuring van bescheiden huurwoningen van sociale huisvestingsmaatschappijen, niet overschrijdt;<br>
 3° hij heeft geen woning of perceel, bestemd voor woningbouw, volledig of gedeeltelijk in volle eigendom;<br>
 4° hij heeft geen volledig of gedeeltelijk recht van erfpacht, opstal of vruchtgebruik op een woning of perceel, bestemd voor woningbouw;<br>
 5° hij heeft geen woning die of perceel, bestemd voor woningbouw, dat volledig of gedeeltelijk in erfpacht of opstal is gegeven;<br>
