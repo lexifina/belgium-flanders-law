@@ -704,31 +704,17 @@
 
 ### ART. 146.
 
-§ 1. Voor het einde van het jaar dat volgt op de gemeenteraadsverkiezingen en vóór hij beraadslaagt over het budget voor het volgende financiële boekjaar, stelt de gemeenteraad een meerjarenplan vast. Dat meerjarenplan bestaat uit een strategische nota en een financiële nota.<br>
-<br>
-Het meerjarenplan start in het tweede jaar dat volgt op de gemeenteraadsverkiezingen en loopt af op het einde van het jaar na de daaropvolgende gemeenteraadsverkiezingen.<br>
-<br>
-De gemeenteraad stemt over het meerjarenplan in zijn geheel. Elk gemeenteraadslid kan echter de afzonderlijke stemming eisen over een of meer onderdelen van het meerjarenplan die hij aanwijst. In dat geval mag over het geheel pas gestemd worden na de stemming over een of meer onderdelen die aldus zijn aangewezen. De stemming over het geheel heeft dan betrekking op de onderdelen waarover geen enkel gemeenteraadslid afzonderlijk wil stemmen, en op de onderdelen die al bij een afzonderlijke stemming zijn aangenomen.<br>
-<br>
-§ 2. In de strategische nota worden de beleidsdoelstellingen en de beleidsopties voor het extern en intern te voeren gemeentebeleid op elkaar afgestemd en geïntegreerd weergegeven.<br>
-<br>
-§ 3. In de financiële nota wordt verduidelijkt hoe het financiële evenwicht wordt gehandhaafd en worden de financiële consequenties van de beleidsopties van de strategische nota weergegeven.<br>
-<br>
-§ 4. Het ontwerp van meerjarenplan wordt op zijn minst veertien dagen vóór de vergadering waarop het wordt besproken aan ieder lid van de gemeenteraad bezorgd.
+...
 
 ### ART. 147.
 
-§ 1. De gemeenteraad past jaarlijks waar nodig het meerjarenplan aan voor hij beraadslaagt over het budget voor het volgende financiële boekjaar.<br /><br />De aanpassing van het meerjarenplan is facultatief bij de vaststelling van het budget met betrekking tot het laatste financiële boekjaar van de zesjaarlijkse periode, vermeld in artikel 146, § 1, tweede lid.<br /><br />De gemeenteraad houdt bij de aanpassing van het meerjarenplan rekening met de termijn waarop het meerjarenplan betrekking heeft. Artikel 146, § 1, derde lid, is van overeenkomstige toepassing.<br /><br />Met behoud van de toepassing van het derde lid beschrijft de financiële nota de financiële consequenties voor ten minste drie en ten hoogste zes financiële boekjaren. <br /><br />§ 2. Het ontwerp van de jaarlijkse aanpassing van het meerjarenplan wordt op zijn minst veertien dagen vóór de vergadering waarop het wordt besproken aan ieder lid van de gemeenteraad bezorgd.
+...
 
 ## HOOFDSTUK III Het budget
 
 ### ART. 148.
 
-§ 1. Voor het begin van ieder financieel boekjaar stelt de gemeenteraad op basis van het meerjarenplan het budget van de gemeente vast.<br>
-<br>
-§ 2. In afwijking van de eerste paragraaf kan de gemeenteraad het budget voor het eerste volledige financiële boekjaar van de zesjaarlijkse periode waarvoor de gemeenteraad is verkozen, vaststellen in de loop van het eerste kwartaal van dat boekjaar.<br>
-<br>
-Het budget voor het eerste volledige financiële boekjaar van de zesjaarlijkse periode hoeft niet te passen in het meerjarenplan.
+...
 
 ### ART. 149.
 
@@ -740,7 +726,7 @@ Het budget voor het eerste volledige financiële boekjaar van de zesjaarlijkse p
 
 ### ART. 151.
 
-§ 1. De financiële nota bevat minstens het exploitatiebudget, het investeringsbudget, en het liquiditeitenbudget.<br /><br />§ 2. Het exploitatiebudget is een financieel plan van de exploitatie van de gemeente. <br /><br />§ 3. Het liquiditeitenbudget is een financieel plan van de geldstromen van de gemeente.<br /><br />§ 4. Het investeringsbudget is een financieel plan van de uitgaven en ontvangsten, en van de kosten en opbrengsten die verbonden zijn aan de aanschaf, het gebruik en de vervreemding van duurzame middelen.<br /><br />Een investeringsbudget bestaat uit een of meer investeringsenveloppen. Als een investeringsenveloppe eenmaal in het budget is goedgekeurd, blijft ze geldig tot de gemeenteraad deze investeringsenveloppe bij budget of bij budgetwijziging annuleert of tot de gemeenteraad de rekening van deze investeringsenveloppe vaststelt.
+...
 
 ### ART. 152.
 
@@ -800,7 +786,7 @@ Het budget voor het eerste volledige financiële boekjaar van de zesjaarlijkse p
 
 ### ART. 164.
 
-Elke gemeente voert een voor de aard en de omvang van haar activiteiten passende boekhouding, volgens de methode van het dubbel boekhouden.
+...
 
 ### ART. 165.
 
@@ -848,7 +834,7 @@ De samenvatting van de algemene rekeningen omvat de balans en de staat van opbre
 
 ### ART. 174.
 
-§ 1. Artikel 148, § 3, is van overeenkomstige toepassing op de stemming door de gemeenteraad over de jaarrekening.<br /><br />§ 2. Het ontwerp van de jaarrekening wordt op zijn minst veertien dagen vóór de vergadering waarop het wordt besproken aan ieder lid van de gemeenteraad bezorgd.
+...
 
 ### ART. 175.
 
