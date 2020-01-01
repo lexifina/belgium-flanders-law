@@ -2,16 +2,16 @@
   "codex_id": 1031591,
   "title": "Decreet van 2019-04-05 houdende de tegemoetkoming in de schade die aangericht is door rampen in het Vlaamse Gewest",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031591/VolledigDocument?datum=2019-05-03",
-  "source_sha256": "6497ed0d5577d1119616ba9993df5418cff14f8bf831a39927a31402feaec64d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031591/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "9a14cd97554125ebb2422a4926d6edc8f4f9daaa069e716af6af0080276f8433",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031591&param=informatie",
-  "as_of": "2019-05-03",
+  "as_of": "2020-01-01",
   "made": "2019-04-05",
   "gazette": "2019-04-23",
   "numac": 2019011959,
   "document_start": "2020-01-01",
   "document_end": null,
-  "in_force": "2019-05-03",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-05-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-01-01",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
