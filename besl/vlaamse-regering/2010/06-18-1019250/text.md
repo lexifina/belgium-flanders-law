@@ -8,18 +8,34 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 februari 1994 inzake
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° residentiële voorziening : een   begeleidingstehuis, een gezinstehuis of een onthaal-, oriëntatie- en   observatiecentrum;<BR>2° semiambulante voorziening : een dagcentrum;<BR>3°   voorzieningen van de bijzondere jeugdbijstand: de erkende voorzieningen,   organisaties en inrichtingen, vermeld in het besluit van de Vlaamse Regering van   13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de   voorzieningen van de bijzondere jeugdbijstand, meer bepaald de   begeleidingstehuizen, de gezinstehuizen, de onthaal-, oriëntatie- en   observatiecentra, de dagcentra, de thuisbegeleidingsdiensten, de diensten voor   begeleid zelfstandig wonen, de diensten voor herstelgerichte en constructieve   afhandeling, de diensten voor crisishulp aan huis, de organisaties voor   bijzondere jeugdzorg, de centra voor integrale gezinszorg en de onthaal-,   oriëntatie- en observatiecentra in een modulair kader;<BR>4° vergunde diensten   voor pleegzorg: de vergunde diensten, vermeld in artikel 10 van het decreet van   29 juni 2012 houdende de organisatie van pleegzorg.
+In dit besluit wordt verstaan onder :<br>
+1° residentiële voorziening: een voorziening die erkend is voor typemodule verblijf conform de bijlage 1 bij het besluit van 5 april 2019;<br>
+2° centrum voor ontwikkelingsstoornissen: een voorziening die erkend is conform artikel 4 van het besluit van de Vlaamse regering van 16 juni 1998 tot regeling van de erkenning en de subsidiëring van de centra voor ontwikkelingsstoornissen;<br>
+3° voorzieningen in de jeugdhulp: de erkende voorzieningen, vermeld in artikel 2 van het besluit van 5 april 2019;<br>
+4° vergunde diensten voor pleegzorg: de vergunde diensten, vermeld in artikel 10 van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg;<br>
+5° Fonds: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
+6° besluit van 5 april 2019: het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp.
 
 ## HOOFDSTUK 2. Bouwtechnische en bouwfysische normen
 
 ### ART. 2.
 
-De algemene bouwtechnische en bouwfysische normen waaraan de   infrastructuur met een functionele bestemming in de sector van de voorzieningen   van de bijzondere jeugdbijstand en de vergunde diensten voor pleegzorg moet   voldoen om voor een investeringssubsidie in aanmerking te komen, zijn :<BR>1° de   regelgeving over de brandveiligheid;<BR>2° de regelgeving over de toegang van   gehandicapten tot gebouwen die toegankelijk zijn voor het publiek;<BR>3° de   regelgeving over de eisen en handhavingsmaatregelen op het vlak van de   energieprestaties en het binnenklimaat voor gebouwen en tot invoering van een   energieprestatiecertificaat;<BR>4° het algemeen reglement inzake elektrische   installaties;<BR>5° de typebestekken, opgesteld door het Vlaams Ministerie van   Mobiliteit en Openbare Werken;<BR>6° de regelgeving over de stedenbouw en de   ruimtelijke ordening;<BR>7° de regelgeving over de milieuvergunningen;<BR>8°   indien van toepassing, de regelgeving houdende integratie van kunstwerken in   gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de   overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot de   Vlaamse Gemeenschap behoren.<BR><BR>De gebouwen waarover een voorziening van de   bijzondere jeugdbijstand of een vergunde dienst voor pleegzorg beschikt, moeten   gemakkelijk toegankelijk en bereikbaar zijn, onder meer met het openbaar   vervoer.
+De algemene bouwtechnische en bouwfysische normen waaraan de infrastructuur met een functionele bestemming in de sector van de voorzieningen in de jeugdhulp, de centra voor ontwikkelingsstoornissen en de vergunde diensten voor pleegzorg moet voldoen om voor een investeringssubsidie in aanmerking te komen, zijn :<br>
+1° de regelgeving over de brandveiligheid;<br>
+2° de regelgeving over de toegang van gehandicapten tot gebouwen die toegankelijk zijn voor het publiek;<br>
+3° de regelgeving over de eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat voor gebouwen en tot invoering van een energieprestatiecertificaat;<br>
+4° het algemeen reglement inzake elektrische installaties;<br>
+5° de typebestekken, opgesteld door het Vlaams Ministerie van Mobiliteit en Openbare Werken;<br>
+6° de regelgeving over de stedenbouw en de ruimtelijke ordening;<br>
+7° de regelgeving over de milieuvergunningen;<br>
+8° indien van toepassing, de regelgeving houdende integratie van kunstwerken in gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot de Vlaamse Gemeenschap behoren.<br>
+<br>
+De gebouwen waarover een voorziening in de jeugdhulp of een centrum voor ontwikkelingsstoornissen of een vergunde dienst voor pleegzorg beschikt, moeten gemakkelijk toegankelijk en bereikbaar zijn, onder meer met het openbaar vervoer.
 
 ### ART. 3.
 
-Om voor een investeringssubsidie in aanmerking te komen, moet de basisinfrastructuur van een residentiële voorziening of van een voorziening van de bijzondere jeugdbijstand met verblijfsmodules ten minste bestaan uit de hierna vermelde ruimtes, waarbij de opgegeven nuttige vloeroppervlakten minima zijn:<br>
-1° per erkende capaciteitseenheid of per erkende verblijfsmodule bedraagt de totale nettovloeroppervlakte van de verblijfsruimten minimaal 30 m2 per bewoner. Die oppervlakte omvat de kamer van de bewoner, inclusief de individuele sanitaire cel, de gemeenschappelijke zit- en eetruimten en de gemeenschappelijke sanitaire ruimten voor bewoners;<br>
+Om voor een investeringssubsidie in aanmerking te komen, moet de basisinfrastructuur van een residentiële voorziening ten minste bestaan uit de hierna vermelde ruimtes, waarbij de opgegeven nuttige vloeroppervlakten minima zijn:<br>
+1° per erkende module verblijf bedraagt de totale nettovloeroppervlakte van de verblijfsruimten minimaal 30 m2 per bewoner. Die oppervlakte omvat de kamer van de bewoner, inclusief de individuele sanitaire cel, de gemeenschappelijke zit- en eetruimten en de gemeenschappelijke sanitaire ruimten voor bewoners;<br>
 2° een eenpersoonskamer heeft een nettovloeroppervlakte van ten minste 16 m2, sanitair niet inbegrepen, met de mogelijkheid af te wijken naar ten minste 12 m2, sanitair niet inbegrepen, als het een eenpersoonskamer voor minderjarigen betreft;<br>
 3° in de nabijheid van de kamers en van de gemeenschappelijke zit- en eetruimten is voldoende sanitair. Dat omvat ten minste:<br>
 a) één bad of douche per vijf bewoners als er geen individuele douches zijn;<br>
@@ -39,11 +55,13 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de voorwaarden b
 
 ### ART. 4.
 
-Om voor een investeringssubsidie in aanmerking te komen, moet de   basisinfrastructuur van een semiambulante voorziening of van een organisatie met   modules dagbegeleiding in groep ten minste bestaan uit de volgende ruimtes,   waarbij de opgegeven nuttige vloeroppervlakten minima zijn:<BR>1° per erkende   capaciteitseenheid of per erkende module dagbegeleiding in groep heeft de   leefruimte een oppervlakte van 15 m<SUP>2</SUP>, te vermeerderen met:<BR>a) voor   een semiambulante voorziening: 10 m<SUP>2</SUP> per voltijdsequivalent van de   maximale personeelsbezetting die in aanmerking komt voor de subsidiëring van de   personeelskosten, vermeld in artikel 30 van het besluit van de Vlaamse Regering   van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de   voorzieningen van de bijzondere jeugdbijstand;<BR>b) voor een organisatie met   modules dagbegeleiding in groep: 10 m<SUP>2</SUP> per voltijdsequivalent van de   door de Vlaamse minister, bevoegd voor de bijstand aan personen, aanvaarde   personeelsformatie;<BR>2° voldoende administratieve ruimte.
+Om voor een investeringssubsidie in aanmerking te komen, moet de basisinfrastructuur van een voorziening in de jeugdhulp die erkend is voor de typemodule voor dagbegeleiding in groep, of de typemodule begeleiding in functie van onderwijs-welzijnstrajecten, vermeld in bijlage 1 bij het besluit van 5 april 2019, ten minste bestaan uit de volgende ruimtes, waarbij de opgegeven nuttige vloeroppervlakten minima zijn:<br>
+1° per erkende module dagbegeleiding in groep of typemodule begeleiding in functie van onderwijs-welzijnstrajecten als vermeld in de voormelde bijlage, heeft de leefruimte een oppervlakte van 15 m<sup>2</sup>, te vermeerderen met 10 m<sup>2</sup>&nbsp;per voltijdsequivalent van de personeelsformatie die de Vlaamse minister, bevoegd voor opgroeien, vaststelt;<br>
+2° voldoende administratieve ruimte.
 
 ### ART. 5.
 
-<p>Om voor een investeringssubsidie in aanmerking te komen, moet de basisinfrastructuur van een ambulante voorziening, van een voorziening met modules contextbegeleiding of diagnostiek in het kader van een problematische leefsituatie, of van een organisatie met modules contextbegeleiding, contextbegeleiding in functie van autonoom wonen of ondersteunende begeleiding, of van een vergunde dienst voor pleegzorg, ten minste bestaan uit de volgende ruimtes, waarbij de opgegeven nettovloeroppervlakten minima zijn :<br>
+<p>Om voor een investeringssubsidie in aanmerking te komen, moet de basisinfrastructuur van een voorziening in de jeugdhulp die erkend is voor de typemodule contextbegeleiding, vermeld in bijlage 1 bij het besluit van 5 april 2019, of van een vergunde dienst voor pleegzorg, ten minste bestaan uit de volgende ruimtes, waarbij de opgegeven nettovloeroppervlakten minima zijn :<br>
 1° een sanitaire ruimte van 10 m2, met gescheiden toilet voor mannen en vrouwen en met minstens één rolstoeltoegankelijk toilet;<br>
 2° een wachtruimte van 10 m2;<br>
 3° een administratieve ruimte en ontvangstruimte van 20 m2;<br>
@@ -53,15 +71,63 @@ Om voor een investeringssubsidie in aanmerking te komen, moet de   basisinfrastr
 7° een bureauruimte van 12 m2;<br>
 8° een vergaderruimte van 20 m2.<br>
 <br>
-In het eerste lid wordt verstaan onder ambulante voorziening: een thuisbegeleidingsdienst, een dienst voor begeleid zelfstandig wonen, een dienst voor herstelgerichte en constructieve afhandeling of een dienst voor crisishulp aan huis.<br>
+Als een voorziening in de jeugdhulp als vermeld in het eerste lid, voorziet in een spelruimte, heeft die een minimum nettovloeroppervlakte van 20 m<sup><span style="font-size:small">2</span></sup>.<br>
 <br>
-Als een ambulante voorziening als vermeld in het eerste lid, voorziet in een spelruimte, heeft die een minimum nettovloeroppervlakte van 20 m<sup><span style="font-size: small;">2</span></sup>.<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, kan, op verzoek van de voorziening, een afwijking toestaan van de normen, vermeld in de voorgaande leden. De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de voorwaarden bepalen waaronder die afwijking kan worden toegestaan</p>
+
+### ART 5/1.
+
+§ 1. Een centrum voor ontwikkelingsstoornissen komt in aanmerking voor een investeringssubsidie als de basisinfrastructuur voldoet aan de specifieke bouwtechnische en bouwfysische normen, vermeld in paragraaf 2 tot en met 5.<br>
 <br>
-De Vlaamse minister, bevoegd voor de bijstand aan personen, kan, op verzoek van de voorziening, een afwijking toestaan van de normen, vermeld in het eerste en het derde lid. De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de voorwaarden bepalen waaronder die afwijking kan worden toegestaan</p>
+§ 2. Voor de algemene infrastructuur gelden de volgende normen:<br>
+1° de ligging en het concept van het gebouw zijn aangepast aan de behoeften en de mogelijkheden van de doelgroep;<br>
+2° de inrichting en uitrusting van het gebouw en de omgeving houden rekening met de leeftijd en de specifieke behoeften van de doelgroep. Het ontwerp en de uitvoering van de sanitaire installaties, de leuningen aan trappen en de inrichting van binnen- en buitenruimten houden daar voldoende rekening mee;<br>
+3° het gebouw is zo geconcipieerd dat er voldoende zicht is op het binnenkomen en het verlaten van het gebouw;<br>
+4° het gebouw is vlot bereikbaar met het openbaar vervoer;<br>
+5° er is voldoende parkeergelegenheid die rekening houdt met de behoeften van de gebruikers. Er is de mogelijkheid om personen dicht bij de ingang af te zetten of op te halen als dat noodzakelijk is;<br>
+6° de infrastructuur laat toe dat de privacy van elke gebruiker gewaarborgd is en dat het altijd mogelijk is om de gepaste zorg te bieden en hulp te verlenen;<br>
+7° de infrastructuur laat toe dat de veiligheid gewaarborgd is;<br>
+8° de gebouwen en de lokalen worden regelmatig onderhouden en volgens het goedehuisvaderprincipe beheerd;<br>
+9° de infrastructuur en de omgeving die toegankelijk is voor gebruikers en bezoekers, is integraal toegankelijk. De integrale toegankelijkheid wordt gegarandeerd door bij het ontwerp en de uitvoering ervan rekening te houden met het advies van Toegankelijk Vlaanderen, opgericht bij artikel 3 van het decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen in de vorm van een private stichting.<br>
+<br>
+Op verzoek van de aanvrager kan het Fonds een afwijking toestaan van de norm, vermeld in het eerste lid, 4°.<br>
+<br>
+§ 3. Voor de specifieke ruimtes van de infrastructuur gelden de volgende normen:<br>
+1° minstens 75% van de netto-oppervlakte van de functionele ruimten is ingericht voor therapie of diagnosestelling. De circulatieruimten, algemene bergingen en technische ruimten behoren niet tot de functionele ruimten;<br>
+2° er zijn voldoende medewerkerslokalen. Elke voorziening beschikt minimaal over een lokaal waar medewerkers met elkaar kunnen overleggen;<br>
+3° er zijn voldoende sanitaire installaties voor bezoekers en personeel;<br>
+4° er is een verzorgingsruimte of -zone in het sanitair;<br>
+5° er is voldoende bergruimte.<br>
+<br>
+§ 4. Voor de circulatie van de infrastructuur gelden de volgende normen:<br>
+1° elk gebouw met twee of meer bouwlagen die toegankelijk zijn voor de gebruikers, beschikt over een aangepaste lift;<br>
+2° in alle ruimten die voor de gebruikers toegankelijk zijn, worden niveauverschillen, zoals treden, trappen en andere hindernissen, vermeden;<br>
+3° het gebouw is zo geconcipieerd dat een vlotte en veilige circulatie mogelijk is;<br>
+4° de deuropeningen zijn voldoende breed en hoog.<br>
+<br>
+Op verzoek van de aanvrager kan het Fonds bij een verbouwing een afwijking toestaan van de norm, vermeld in het eerste lid, 1°.<br>
+<br>
+§ 5. Voor het gebruikerscomfort van de infrastructuur gelden de volgende normen:<br>
+1° aan de trappen zijn leuningen aangebracht;<br>
+2° in alle lokalen zijn de verwarming, ventilatie en verlichting aangepast aan de bestemming van het lokaal;<br>
+3° in alle verblijfsruimten, met uitzondering van het sanitair, zijn opengaande raamdelen aanwezig. Er wordt voor de bediening ervan rekening gehouden met de veiligheid van de bewoners;<br>
+4° in verblijfsruimten is de CO2-concentratie maximaal 1200 ppm;<br>
+5° ruimten voor gebruikers worden zo veel mogelijk met daglicht verlicht. In de verblijfsruimten waar in een raam moet worden voorzien, bedraagt het raamoppervlak ten minste een zesde van de nettovloeroppervlakte;<br>
+6° de verlichting houdt rekening met de veiligheid en de behoeften van de gebruikers. In de verblijfsruimten is er een basisverlichting, aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
+7° in alle verblijfsruimten waar in een raam voorzien moet worden, begint het glasoppervlak van het raam op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak. Er is zittend altijd een ongehinderd zicht naar buiten mogelijk;<br>
+8° de inkijk van buitenaf kan worden beperkt als de gebruiker dat wil;<br>
+9° er is een centraal verwarmingssysteem. Verwarmingssystemen met open vuur zijn verboden;<br>
+10° in alle verblijfsruimten kan de temperatuur overdag minstens 20 ° C bedragen;<br>
+11° alle nuttige maatregelen worden genomen om er in alle verblijfsruimten en in normale meteorologische omstandigheden voor te zorgen dat de temperatuur nooit hoger is dan 27 ° C;<br>
+12° de binnentemperatuur is regelbaar per verblijfsruimte, al dan niet via een centraal gebouwbeheersysteem;<br>
+13° aangepaste zonnewering, waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, wordt aangebracht waar dat nodig is. Zonnewering wordt als aangepast beschouwd als het zicht op de buitenwereld niet wordt verstoord, oververhitting van de bewoners wordt vermeden en verblinding van bewoners door direct zonlicht wordt vermeden;<br>
+14° het akoestische comfort wordt gegarandeerd in alle verblijfsruimten;<br>
+15° de minimale verdiepingshoogte is 2,50 meter, gemeten van de vloer tot aan het afgewerkte plafond;<br>
+16° de signalisatie is aangepast aan de doelgroep.
 
 ### ART. 6.
 
-De bouwfysische normen, vermeld in artikel 2 tot en met 5, gelden met behoud van de toepassing van de wetgeving over veiligheid, hygiëne, comfort en bescherming van de arbeid.
+De bouwfysische normen, vermeld in artikel 2 tot en met 5/1, gelden met behoud van de toepassing van de wetgeving over veiligheid, hygiëne, comfort en bescherming van de arbeid.
 
 ## HOOFDSTUK 3. Subsidiabele oppervlakte
 
@@ -69,30 +135,20 @@ De bouwfysische normen, vermeld in artikel 2 tot en met 5, gelden met behoud van
 
 In dit artikel wordt verstaan onder subsidiabele oppervlakte : de som van de per bouwlaag berekende nuttige vloeroppervlakte, buitenmuren inbegrepen, die in aanmerking wordt genomen voor subsidiëring.<br>
 <br>
-De subsidiabele oppervlakte bedraagt maximaal :<br>
-1° voor een residentiële voorziening : 65 m2 per erkende capaciteitseenheid;<br>
-2° voor een semiambulante voorziening : 45 m2 per erkende capaciteitseenheid;<br>
-3° voor een thuisbegeleidingsdienst of een dienst voor begeleid zelfstandig wonen: 20 m2 per voltijds equivalent van de maximale personeelsbezetting die in aanmerking komt voor de subsidiëring van de personeelskosten, vermeld in het besluit van de Vlaamse Regering inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand;<br>
-4° voor een dienst voor herstelgerichte en constructieve afhandeling of een dienst voor crisishulp aan huis : 20 m2 per voltijds equivalent van de door de Vlaamse minister, bevoegd voor de bijstand aan personen, aanvaarde personeelsformatie.<br>
-5° voor een organisatie voor bijzondere jeugdzorg :<br>
-a) 65 m² per erkende verblijfsmodule;<br>
-b) 45 m² per erkende module dagbegeleiding in groep;<br>
-c) 20 m² per voltijdsequivalent van de personeelsformatie die de Vlaamse minister, bevoegd voor de bijstand aan personen, aanvaard heeft voor de modules contextbegeleiding, contextbegeleiding in functie van autonoom wonen en ondersteunende begeleiding;<br>
-6° voor een centrum voor integrale gezinszorg:<br>
-a) 65 m<sup>2</sup> per gebruiker die het centrum volgens zijn erkenning kan opnemen;<br>
-b) 20 m<sup>2</sup> per voltijdsequivalent van de personeelsformatie die de Vlaamse minister, bevoegd voor de bijstand aan personen, aanvaard heeft voor de modules contextbegeleiding;<br>
-7° voor een onthaal-, oriëntatie- en observatiecentrum in een modulair kader:<br>
-a) 65 m<sup>2</sup> per verblijfsmodule;<br>
-b) 20 m<sup>2</sup> per voltijdsequivalent van de personeelsformatie die de Vlaamse minister, bevoegd voor de bijstand aan personen, aanvaard heeft voor de modules diagnostiek in het kader van een problematische leefsituatie;<br>
-8° voor een vergunde dienst voor pleegzorg: 20 m<sup>2</sup> per voltijdsequivalent van de door de Vlaamse minister, bevoegd voor de bijstand aan personen, aanvaarde personeelsformatie.<br>
+De subsidiabele oppervlakte bedraagt maximaal:<br>
+1° voor een voorziening in de jeugdhulp die erkend is voor een typemodule verblijf als vermeld in bijlage 1 bij het besluit van 5 april 2019: 65 m<sup>2</sup>&nbsp;per erkende module verblijf;<br>
+2° voor een voorziening in de jeugdhulp die erkend is voor de typemodule dagbegeleiding in groep, vermeld in de voormelde bijlage: 45 m<sup>2</sup>&nbsp;per erkende module dagbegeleiding in groep;<br>
+3° voor een voorziening in de jeugdhulp die erkend is voor een typemodule diagnostiek of een typemodule begeleiding of een typemodule behandeling als vermeld in de voormelde bijlage: 20 m<sup>2</sup>&nbsp;per voltijds equivalent van de maximale personeelsbezetting die in aanmerking komt voor de subsidiëring van de personeelskosten, vermeld in het voormelde besluit;<br>
+4° voor een dienst voor herstelgerichte en constructieve afhandeling als vermeld in artikel 7 van het voormelde besluit, en voor een vergunde dienst voor pleegzorg: 20 m<sup>2</sup>&nbsp;per voltijds equivalent van de personeelsformatie die de Vlaamse minister, bevoegd voor opgroeien, vaststelt;<br>
+5° voor een centrum voor ontwikkelingsstoornissen: 65 m<sup>2</sup>&nbsp;per voltijds equivalent van de personeelsformatie die de Vlaamse minister, bevoegd voor opgroeien, vaststelt.<br>
 <br>
-Van de maximale subsidiabele oppervlakte, vermeld in lid 2, kan alleen op gemotiveerd verzoek afgeweken worden bij verbouwing of uitbreiding, voor zover de erkennings- en exploitatievoorwaarden dat vereisen.
+Van de maximale subsidiabele oppervlakte, vermeld in het tweede lid, kan alleen op gemotiveerd verzoek afgeweken worden als de erkennings- en exploitatievoorwaarden dat vereisen of omdat vanwege kleinschaligheid of de bijzonderheid van de doelgroep een meeroppervlakte vereist is om een efficiënte werking te garanderen. De afwijking kan maximaal 30% bedragen.
 
 ## HOOFDSTUK 4. Investeringssubsidie
 
 ### ART. 8.
 
-§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw, uitrusting en meubilering inbegrepen, is voor de sector van de voorzieningen van de bijzondere jeugdbijstand en de vergunde diensten voor pleegzorg vastgesteld op 550 euro per m2. Als een voorziening een erkenning heeft voor de typemodule beveiligd verblijf, wordt het voormelde basisbedrag vastgesteld op 720 euro per m2 voor de infrastructuur die betrekking heeft op die typemodule.<br>
+§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw, uitrusting en meubilering inbegrepen, is voor de sector van de voorzieningen in de jeugdhulp, de centra voor ontwikkelingsstoornissen en de vergunde diensten voor pleegzorg vastgesteld op 550 euro per m2. Als een voorziening een erkenning heeft voor de typemodule beveiligend verblijf of de typemodule verblijf in een voorziening van categorie 8 als vermeld in bijlage 1 bij het besluit van 5 april 2019, wordt het voormelde basisbedrag vastgesteld op 720 euro per m2 voor de infrastructuur die betrekking heeft op die typemodule.<br>
 <br>
 § 2. Voor een nieuwbouw kan een subsidiebelofte worden toegekend voor de projectfasen technische uitrusting, afwerking, uitrusting en meubilering, ook al is de projectfase ruwbouw al aangevat of gerealiseerd voordat de subsidiebelofte voor nieuwbouw wordt aangevraagd. De projectfase ruwbouw wordt dan niet gesubsidieerd. Een subsidiebelofte voor de projectfase uitrusting en meubilering alleen is niet mogelijk. Bij de subsidiebelofte wordt de investeringssubsidie voor nieuwbouw, vermeld in paragraaf 1, dan verdeeld op de volgende wijze:<br>
 1° technische uitrusting: 30%;<br>
@@ -103,9 +159,9 @@ De projectfase ruwbouw, vermeld in het eerste lid, omvat de gevelsluiting, boven
 
 ### ART. 9.
 
-§ 1. Het basisbedrag van de investeringssubsidie voor uitbreiding is voor de sector van de voorzieningen van de bijzondere jeugdbijstand en de vergunde diensten voor pleegzorg vastgesteld op 500 euro per m2. Als een voorziening een erkenning heeft voor de typemodule beveiligd verblijf, wordt het voormelde basisbedrag vastgesteld op 670 euro per m2 voor de infrastructuur die betrekking heeft op die typemodule.<br>
+§ 1. Het basisbedrag van de investeringssubsidie voor uitbreiding is voor de sector van de voorzieningen in de jeugdhulp, de centra voor ontwikkelingsstoornissen en de vergunde diensten voor pleegzorg vastgesteld op 500 euro per m2. Als een voorziening een erkenning heeft voor de typemodule beveiligend verblijf of de typemodule verblijf in een voorziening van categorie 8 als vermeld in bijlage 1 bij het besluit van 5 april 2019, wordt het voormelde basisbedrag vastgesteld op 670 euro per m2 voor de infrastructuur die betrekking heeft op die typemodule.<br>
 <br>
-§ 2. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij uitbreiding is voor de sector van de voorzieningen van de bijzondere jeugdbijstand en de vergunde diensten voor pleegzorg vastgesteld op 60 % van de goedgekeurde raming. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening.<br>
+§ 2. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij uitbreiding is voor de sector van de voorzieningen in de jeugdhulp, de centra voor ontwikkelingsstoornissen en de vergunde diensten voor pleegzorg vastgesteld op 60 % van de goedgekeurde raming. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening.<br>
 <br>
 De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br>
 <br>
