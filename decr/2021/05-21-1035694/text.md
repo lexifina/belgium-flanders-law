@@ -54,6 +54,11 @@ In artikel 10 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<
 2° in het tweede lid wordt het woord "jeugdrechtbank" vervangen door het woord "familierechtbank";<br>
 3° in het derde lid wordt de zinsnede "artikel 1231.29, eerste lid" vervangen door de zinsnede "artikel 1231-1/4".
 
+### ART 10.
+
+Aan artikel 15, § 2, van hetzelfde decreet, gewijzigd bij de decreten van 21 juni 2013 en 16 maart 2018, wordt een punt 10° toegevoegd, dat luidt als volgt:<br>
+"10° het rapport, vermeld in artikel 361-2/1 van het Oud Burgerlijk Wetboek, opmaken op de wijze die de Vlaamse Regering bepaalt.".
+
 ### ART 12.
 
 In artikel 20 van hetzelfde decreet, gewijzigd bij de decreten van 21 juni 2013, 16 maart 2018, 8 juni 2018 en 7 december 2018, worden de woorden "Kind en Gezin" telkens vervangen door de woorden "het agentschap".
@@ -227,6 +232,16 @@ In artikel 19 van hetzelfde decreet, gewijzigd bij het decreet van 8 juni 2018, 
 
 In artikel 3, 8°, van het decreet Binnenlandse Adoptie van 3 juli 2015 worden de woorden "Kind en Gezin" vervangen door de zinsnede "het agentschap Opgroeien regie dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie".
 
+### ART 43.
+
+In artikel 11 van hetzelfde decreet wordt de zinsnede "artikel 346-2 van het Burgerlijk Wetboek en artikel 1231-29, eerste lid" vervangen door de zinsnede "artikel 1231-1/4".
+
+### ART 44.
+
+Aan artikel 14, § 2, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, worden een punt 7° en een punt 8° toegevoegd, die luiden als volgt:<br>
+"7° het onderzoek voeren, vermeld in artikel 1231-35, van het Gerechtelijk Wetboek;<br>
+8° het onderzoek voeren over het belang van het in de procedure bedoelde kind om te worden geadopteerd, vermeld in artikel 1231-6, van het Gerechtelijk Wetboek.".
+
 ## HOOFDSTUK 11. Wijzigingen van het decreet van 7 juli 2017 tot oprichting van een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid, tot vaststelling van vergunningsnormen voor private uitbetalingsactoren en tot wijziging van het decreet van 30 april 2004 betreffende de oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin
 
 ### ART 45.
@@ -394,8 +409,61 @@ In artikel 42, § 3, eerste lid, van hetzelfde decreet wordt het woord "Jongeren
 
 ## HOOFDSTUK 14. Wijzigingen van het decreet van 26 april 2019 houdende de oprichting van een afstammingscentrum en een DNA-databank
 
+### ART 87.
+
+In artikel 2 van het decreet van 26 april 2019 houdende de oprichting van een afstammingscentrum en een DNA-databank worden de volgende wijzigingen aangebracht:<br>
+1° er wordt een punt 1° /1 ingevoegd, dat luidt als volgt:<br>
+"1° /1 agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;";<br>
+2° punt 7° wordt opgeheven;<br>
+3° in punt 11° worden de woorden "Kind en Gezin" vervangen door de woorden "het agentschap".
+
+### ART 88.
+
+In artikel 5 van hetzelfde decreet worden de woorden "Kind en Gezin" vervangen door de woorden "het agentschap".
+
+### ART 89.
+
+In artikel 9 van hetzelfde decreet worden de woorden "Kind en Gezin" vervangen door de woorden "Het agentschap".
+
+### ART 90.
+
+In artikel 10, 3°, van hetzelfde decreet worden de woorden "Kind en Gezin" vervangen door de woorden "het agentschap".
+
+### ART 91.
+
+In artikel 37 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "Kind en Gezin" telkens vervangen door de woorden "het agentschap";<br>
+2° in het derde lid worden de woorden "Kind en Gezin" vervangen door de woorden "Het agentschap".
+
+### ART 92.
+
+In artikel 38 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "Kind en Gezin" vervangen door de woorden "Het agentschap";<br>
+2° in het tweede lid worden de woorden "Kind en Gezin" telkens vervangen door de woorden "het agentschap".
+
+### ART 93.
+
+In artikel 46, 47 en 48 van hetzelfde decreet worden de woorden "Kind en Gezin" telkens vervangen door de woorden "het agentschap".
+
+### ART 94.
+
+In artikel 49 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "Kind en Gezin bezorgt" vervangen door de woorden "Het agentschap bezorgt" en worden de woorden "Kind en Gezin aan" vervangen door de woorden "het agentschap aan";<br>
+2° in het tweede lid worden de woorden "Kind en Gezin" telkens vervangen door de woorden "het agentschap".
+
+### ART 95.
+
+In artikel 50 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "Kind en Gezin" vervangen door de woorden "Het agentschap";<br>
+2° in het tweede lid worden de woorden "Kind en Gezin" telkens vervangen door de woorden "het agentschap".
+
 ## HOOFDSTUK 15. Wijzigingen van het decreet van 3 mei 2019 houdende de organisatie van buitenschoolse opvang en de afstemming tussen buitenschoolse activiteiten
 
 ## HOOFDSTUK 16. Wijzigingen van het programmadecreet van 20 december 2019 bij de begroting 2020
+
+### ART 101.
+
+In artikel 39, § 1, tweede lid, van het programmadecreet van 20 december 2019 bij de begroting 2020 wordt punt 4° vervangen door wat volgt:<br>
+"4° de tarieven voor zakgeld, vermeld in bijlage 3 bij het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp;".
 
 ## HOOFDSTUK 17. Werking en toepassing in de tijd
