@@ -2,16 +2,16 @@
   "codex_id": 1021937,
   "title": "Besluit van de Vlaamse Regering van 2012-06-08 voor de toekenning van een facultatieve projectsubsidie aan het ARBOR-project",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021937/VolledigDocument?datum=2012-07-27",
-  "source_sha256": "4a661c4625f3b78163f5b270395e3929a578ca987e84eff1c922883cf8910518",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021937/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "19e8271da0cc5d64d81f450ffda649162736a62ebbe6eb47c0e569737e924b34",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021937&param=informatie",
-  "as_of": "2012-07-27",
+  "as_of": "2020-01-01",
   "made": "2012-06-08",
   "gazette": "2012-07-17",
   "numac": 2012203826,
   "document_start": "2012-07-27",
   "document_end": null,
-  "in_force": "2012-07-27",
+  "in_force": "2020-01-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2012-07-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }

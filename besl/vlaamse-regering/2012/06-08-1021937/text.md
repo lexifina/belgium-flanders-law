@@ -26,7 +26,10 @@ De projectverantwoordelijke verzekert de coördinatie van het project en is fina
 
 ### ART. 6.
 
-De projectverantwoordelijke houdt een gedetailleerde boekhouding bij van alle uitgaven verbonden aan het project. De werkelijkheid van de uitgaven dient te worden aangetoond aan de hand van bewijskrachtige facturen, aangevuld met bewijzen van kwijting. <br /><br />Onverminderd de bepalingen in artikelen 53 tot en met 57 van het Rekendecreet over de toekenning van subsidies en de controle op de aanwending ervan, alsook de bepalingen in artikelen 63 tot en met 67 van hetzelfde decreet over de controle door het Rekenhof, dient de boekhouding steeds ter inzage te zijn van de vertegenwoordigers van de Vlaamse overheid welke ter plaatse controle kunnen uitoefenen over de aanwending van de toegekende bedragen.<br /><br />
+De projectverantwoordelijke houdt een gedetailleerde boekhouding bij van alle uitgaven verbonden aan het project. De werkelijkheid van de uitgaven dient te worden aangetoond aan de hand van bewijskrachtige facturen, aangevuld met bewijzen van kwijting.<br>
+<br>
+Onverminderd de bepalingen van hoofdstuk 6, afdeling 3 en hoofdstuk 8 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, dient de boekhouding steeds ter inzage te zijn van de vertegenwoordigers van de Vlaamse overheid welke ter plaatse controle kunnen uitoefenen over de aanwending van de toegekende bedragen.<br>
+&nbsp;
 
 ### ART. 7.
 
