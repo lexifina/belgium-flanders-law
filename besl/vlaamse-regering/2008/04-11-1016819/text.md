@@ -30,7 +30,7 @@ Besluit :
 
 ### ART. 1.
 
-Dit besluit regelt het financiële en materiële beheer van de dienst met afzonderlijkheid beheer Beheersdienst van het Koninklijk Museum voor Schone Kunsten in Antwerpen, hierna het Koninklijk Museum voor Schone Kunsten in Antwerpen te noemen.
+...
 
 ## HOOFDSTUK II. De begroting
 
@@ -44,7 +44,7 @@ Dit besluit regelt het financiële en materiële beheer van de dienst met afzond
 
 ### ART. 4.
 
-De ontvangsten hebben betrekking op : <br />1° het overgedragen saldo; <br />2° de dotatie, zoals ingeschreven op de begroting van de algemene uitgaven van de Vlaamse Gemeenschap; <br />3° de eigen inkomsten; <br />4° de schenkingen en de legaten.
+...
 
 ### ART. 5.
 
@@ -62,7 +62,7 @@ De ontvangsten hebben betrekking op : <br />1° het overgedragen saldo; <br />2�
 
 ### ART. 8.
 
-<p>De lijnmanager van het Departement Cultuur, Jeugd en Media of zijn gemandateerde is beheerder en gedelegeerd ordonnateur van het Koninklijk Museum voor Schone Kunsten in Antwerpen.</p>
+...
 
 ### ART. 9.
 
@@ -88,15 +88,15 @@ De ontvangsten hebben betrekking op : <br />1° het overgedragen saldo; <br />2�
 
 ### ART. 14.
 
-De ordonnateur is gemachtigd om alle verbintenissen aan te gaan die noodzakelijk zijn voor de culturele en administratieve werking, met behoud van de toepassing van de reglementaire bepalingen daarover en afhankelijk van de beschikbare kredieten.
+...
 
 ### ART. 15.
 
-De Vlaamse Regering zorgt voor de werving en bezoldiging van het   statutaire en contractuele personeel, noodzakelijk voor de ondersteuning van de   structurele werking van het Koninklijk Museum voor Schone Kunsten in Antwerpen.   <BR><BR>Het Koninklijk Museum voor Schone Kunsten in Antwerpen zorgt voor de   indienstneming en bezoldiging van aanvullend contractueel personeel met het oog   op behoud, beheer, onderzoek en ontsluiting, en voor tijdelijke projecten.
+...
 
 ### ART. 16.
 
-Met behoud van toepassing van de bepalingen van artikel 14 en 15 worden de uitgaven - al naargelang de uitgavenveroorzakende rechtshandeling gesteld wordt uit hoofde van het beheer van de diensten algemeen bestuur van de Vlaamse Gemeenschap, of uit hoofde van het beheer van het Koninklijk Museum voor Schone Kunsten in Antwerpen - respectievelijk gedragen door de begroting van de Vlaamse Gemeenschap of door de begroting van het Koninklijk Museum voor Schone Kunsten in Antwerpen.
+...
 
 ### ART. 17.
 
@@ -112,7 +112,7 @@ Met behoud van toepassing van de bepalingen van artikel 14 en 15 worden de uitga
 
 ### ART. 20.
 
-De ordonnateur bepaalt de tarieven voor het entreegeld voor het Koninklijk Museum voor Schone Kunsten in Antwerpen, de verkoopprijs van reproducties en publicaties, het entreegeld voor voorstellingen, exposities, lezingen, en andere tarieven.
+...
 
 ### ART. 21.
 
@@ -120,7 +120,7 @@ De ordonnateur bepaalt de tarieven voor het entreegeld voor het Koninklijk Museu
 
 ### ART. 22.
 
-De bij dit besluit verleende delegaties aan de ordonnateur worden tevens verleend aan het personeelslid dat de ordonnateur vervangt bij tijdelijke afwezigheid of verhindering. In geval van tijdelijke afwezigheid of verhindering plaatst het betrokken personeelslid, boven de vermelding van zijn graad en zijn handtekening, de formule "voor de ordonnateur, afwezig". Het personeelslid wordt aangewezen door de ordonnateur.
+...
 
 ## HOOFDSTUK V. [... (opgeh. BVR 1 juni 2012, art. 17)]
 
@@ -132,12 +132,12 @@ De bij dit besluit verleende delegaties aan de ordonnateur worden tevens verleen
 
 ### ART. 24.
 
-Het besluit van de Vlaamse Regering van 8 juni 1994 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer Beheersdienst van het Koninklijk Museum voor Schone Kunsten in Antwerpen, gewjizigd bij het besluit van de Vlaamse Regering van 13 december 2002, wordt opgeheven.
+...
 
 ### ART. 25.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2008.
+...
 
 ### ART. 26.
 
-De Vlaamse minister, bevoegd voor de Financiën en de Begrotingen en de Vlaamse minister, bevoegd voor de Culturele Aangelegenheden, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
+...

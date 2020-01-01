@@ -2,16 +2,16 @@
   "codex_id": 1016819,
   "title": "Besluit van de Vlaamse Regering van 2008-04-11 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer Beheersdienst van het Koninklijk Museum voor Schone Kunsten in Antwerpen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016819/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "df51deb17186f62251a6d0b4f79ec1aaea03f832561a5f62de72643c95a05cb2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016819/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "1bc40af4c236128e694f98dc7e85c712571e059212be7bb28414d5ab692669db",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016819&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2020-01-01",
   "made": "2008-04-11",
   "gazette": "2008-06-11",
   "numac": 2008201999,
   "document_start": "2008-01-01",
   "document_end": "2019-12-31",
-  "in_force": "2017-01-01",
+  "in_force": "2020-01-01",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
