@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032540,
+  "title": "Besluit van de Vlaamse Regering van 2019-12-06 tot regeling van de eigendomsoverdracht van gebouwen ter uitvoering van artikel 265bis van het Provinciedecreet",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032540/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "2c9325ccd7cd7eaafbf1a91b57de6bd4d4d83e903b57999d08ac5740dcb032cb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032540&param=informatie",
+  "as_of": "2020-01-01",
+  "made": "2019-12-06",
+  "gazette": "2019-12-31",
+  "numac": 2019031104,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2020-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
