@@ -6,7 +6,7 @@
 
 Voor de toepassing van dit besluit wordt verstaan onder:<br>
 1° de Vlaamse minister: het lid van de Vlaamse regering, bevoegd voor de bijstand aan personen;<br>
-2° het agentschap : het Vlaams Agentschap voor Personen met een Handicap;<br>
+2° het agentschap : het agentschap Opgroeien regie, opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 3° het centrum: het centrum voor ontwikkelingsstoornissen dat de opdrachten, bedoeld in artikel 2, vervult ten aanzien van haar clinten;<br>
 4° de cliënt: de minderjarige bij wie een hoog risico op een ontwikkelingsstoornis blijkt, of bij wie dergelijke stoornis wordt vermoed of vastgesteld en bij wie een multidisciplinair onderzoek wordt opgestart, alsmede zijn/haar ouders of de wettelijke vertegenwoordigers;<br>
 5° het kind: de minderjarige of verlengd minderjarig verklaarde persoon;<br>
@@ -38,21 +38,14 @@ Om als centrum voor ontwikkelingsstoornissen erkend te kunnen worden of erkend t
 3° het is verbonden aan een dienst kindergeneeskunde van een universitaire medische faculteit;<br>
 4° het beschikt over een multidisciplinair team dat bestaat uit ten minste vertegenwoordigers van de medische, psychologische en pedagogische, paramedische en sociale disciplines;<br>
 5° ...<br>
-6° a) het een financiële bijdrage vraagt van de cliënt, die niet hoger mag zijn dan&nbsp;69,42 euro per opgestart multidisciplinair onderzoek;<br>
-b) uit de rekening van het afgelopen werkjaar van het centrum blijkt dat een gemiddelde bijdrage van meer dan&nbsp;34,71 euro per opgestart multidisciplinair onderzoek werd geïnd;<br>
+6° a) het een financiële bijdrage vraagt van de cliënt, die niet hoger mag zijn dan&nbsp;70,80 euro per opgestart multidisciplinair onderzoek;<br>
+b) uit de rekening van het afgelopen werkjaar van het centrum blijkt dat een gemiddelde bijdrage van meer dan&nbsp;35,40 euro per opgestart multidisciplinair onderzoek werd geïnd;<br>
 7° het bevordert de betrokkenheid van de cliënt bij beoordeling, oriëntatie en therapeutische en opvoedkundige aanpak, om na inschatting van de mogelijkheden en de draagkracht van het gezin, in overleg met de betrokkenen te komen tot een optimale verdeling van taken en verantwoordelijkheden tussen het gezin en andere, al dan niet professionele hulpverleners;<br>
-8° voldoen aan de bepalingen van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen.<br>
-De Vlaamse minister bepaalt de minimale kwaliteitseisen en de minimale vereisten waaraan het kwaliteitshandboek en het kwaliteitssysteem moeten voldoen.<br>
-Het centrum moet een kwaliteitshandboek opmaken overeenkomstig de door de Vlaamse minister vastgestelde componenten en moet de sectorspecifieke minimale kwaliteitseisen die de Vlaamse minister heeft vastgesteld, naleven.<br>
-Vanaf het jaar dat volgt op het jaar waarin het kwaliteitshandboek wordt opgemaakt en voor het eerst in het jaar 2004, bezorgt het centrum voor ontwikkelingsstoornissen jaarlijks vóór 1 april de kwaliteitsplanning voor het lopende jaar aan het agentschap;<br>
+8° ...;<br>
 9° het voert onderzoek uit ongeacht ras, politieke, filosofische of godsdienstige overtuiging van de cliënt;<br>
-10° de bepalingen over de herkenbaarheid van de financiering door het agentschap, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 6 december 2002 houdende diverse maatregelen inzake de herkenbaarheid van de financiering door het Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, nakomen.<br>
+10° ...<br>
 <br>
-De Vlaamse minister bepaalt de minimale kwaliteitseisen en de minimale vereisten waaraan het kwaliteitshandboek en het kwaliteitssysteem moeten voldoen.<br>
-<br>
-Vanaf het jaar dat volgt op het jaar waarin het kwaliteitshandboek werd ingeleverd, en voor de eerste keer in het jaar 2004, bezorgt het centrum voor ontwikkelingsstoornissen jaarlijks voor 1 april de volgende documenten aan de administratie:<br>
-1° de kwaliteitsplanning voor het lopende jaar;<br>
-2° eventuele wijzigingen aan het kwaliteitshandboek.
+De Vlaamse minister bepaalt de minimale kwaliteitseisen en de minimale vereisten waaraan het kwaliteitshandboek en het kwaliteitssysteem moeten voldoen.
 
 ### ART. 4bis.
 
@@ -74,15 +67,34 @@ De programmatienorm wordt voor het jaar 2008 bepaald op 4 172 multidisciplinaire
 <br>
 De programmatienorm wordt vanaf 1 januari 2009 bepaald op 4 322 multidisciplinaire onderzoeken als maximale totale erkende capaciteit.<br>
 <br>
-De programmatienorm wordt vanaf 1 januari 2018 bepaald op 5.689 multidisciplinaire onderzoeken als maximale totale erkende capaciteit.
+De programmatienorm wordt vanaf 1 januari 2018 bepaald op 5.689 multidisciplinaire onderzoeken als maximale totale erkende capaciteit.<br>
+<br>
+De programmatienorm wordt vanaf 1 januari 2020 bepaald op 5.770 multidisciplinaire onderzoeken als maximale totale erkende capaciteit.
 
 ### ART. 7.
 
-[De aanvraag voor erkenning dient de volgende gegevens en stukken te bevatten:  <span class="reference">(verv. B.V.R. 15 juli 2002, art. 3, I: 1 januari 2002)</span> ]<br /><br />1° een schriftelijke bewijsvoering waaruit blijkt dat aan de erkenningsvoorwaarden, bedoeld in artikel 4 is voldaan, of een planning in dat verband;<br /><br />2° een verslag van de activiteiten van het centrum tijdens het jaar dat aan de aanvraag voorafgaat;<br /><br />3° een behoeftestudie en verantwoordingsnota;<br /><br />4° een afsprakennota met de andere erkende centra over het territoriale werkgebied van de diverse centra;<br /><br />5° [het kwaliteitshandboek, voor iedere aanvraag die na 1 januari 2003 wordt ingediend.  <span class="reference">(verv. B.V.R. 25 februari 2000, art. 2, I: 1 januari 2000)</span> ]
+De aanvraag voor erkenning dient de volgende gegevens en stukken te bevatten:<br>
+1° een schriftelijke bewijsvoering waaruit blijkt dat aan de erkenningsvoorwaarden, bedoeld in artikel 4 is voldaan, of een planning in dat verband;<br>
+2° een verslag van de activiteiten van het centrum tijdens het jaar dat aan de aanvraag voorafgaat;<br>
+3° een behoeftestudie en verantwoordingsnota;<br>
+4° een afsprakennota met de andere erkende centra over het territoriale werkgebied van de diverse centra;<br>
+5° ...
 
 ### ART. 8.
 
-§ 1. De administratie van het agentschap onderzoekt de aanvraag en kan indien nodig verzoeken om extra inlichtingen of ambtenaren aanwijzen die die inlichtingen inwinnen.<br /><br />§ 2. Het agentschap beslist over de erkenning binnen drie maanden nadat het aanvraagdossier volledig is.<br /><br />§ 3. Bij weigering van de erkenning wordt de beslissing met redenen omkleed.<br /><br />§ 4. De beslissing houdende erkenning of weigering wordt bij aangetekende zending betekend aan de aanvrager vóór het einde van de maand die volgt op de beslissing.<br /><br />§ 5. In geval van weigering van erkenning kan het centrum beroep aantekenen volgens de bepalingen van artikel 17 van het besluit van de Vlaamse regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een handicap.
+§ 1. De administratie van het agentschap onderzoekt de aanvraag en kan indien nodig verzoeken om extra inlichtingen of ambtenaren aanwijzen die die inlichtingen inwinnen.<br>
+<br>
+§ 2. Het agentschap beslist over de erkenning binnen drie maanden nadat het aanvraagdossier volledig is.<br>
+<br>
+§ 3. Bij weigering van de erkenning wordt de beslissing met redenen omkleed.<br>
+<br>
+§ 4. De beslissing houdende erkenning of weigering wordt bij aangetekende zending betekend aan de aanvrager vóór het einde van de maand die volgt op de beslissing.<br>
+<br>
+§ 5. Als het agentschap de erkenning weigert, kan het centrum tegen die beslissing bezwaar aantekenen binnen dertig dagen na de dag waarop ze de beslissing heeft ontvangen. De termijn van dertig dagen is voorgeschreven op straffe van verval.<br>
+<br>
+Het bezwaarschrift wordt met een aangetekende brief ingediend bij het agentschap. Het vermeldt duidelijk de motieven waarop het gesteund is en is vergezeld van de nodige bewijsstukken.<br>
+<br>
+Het bezwaar wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers..
 
 ### ART. 9.
 
@@ -114,15 +126,17 @@ Elk centrum dient jaarlijks minimaal 90 % en maximaal 110 % van de haar toegeken
 <br>
 Indien de bezettingsgraad gedurende twee opeenvolgende jaren minder dan 90 % bedraagt, wordt de erkende capaciteit verminderd tot 110 % van de gemiddelde bezetting tijdens deze twee opeenvolgende jaren.<br>
 <br>
-§ 2. Het subsidiebedrag per capaciteitseenheid wordt vastgesteld op&nbsp;865,00 euro.<br>
+§ 2. Het subsidiebedrag per capaciteitseenheid wordt vastgesteld op&nbsp;723,81 euro.<br>
 <br>
 § 2bis. ...<br>
 <br>
-§ 2ter. Om het effect van de anciënniteitsstijging, namelijk de ontwikkeling van het verloop van de gemiddelde geldelijke anciënniteit die de personeelsleden jaarlijks hebben opgebouwd, op te vangen, kunnen de bedragen, vermeld in § 2 en § 2bis, binnen de perken van de begrotingskredieten, met ingang van 1 januari 2009 aangepast worden, rekening houdend met een anciënniteitsparameter. De stijging van de anciënniteit kan niet meer dan twaalf maanden per jaar bedragen.<br>
+§ 2ter. Per jaar dat de gemiddelde anciënniteit van de gesubsidieerde personeelsleden van het centrum hoger ligt dan vijf jaar, wordt het subsidiebedrag, vermeld in paragraaf 2, per capaciteitseenheid verhoogd met 15,74 euro.<br>
 <br>
 De anciënniteitsparameter wordt vastgesteld door de Vlaamse minister, bevoegd voor de bijstand aan personen.<br>
 <br>
-§ 3. Het agentschap bepaalt per centrum de erkende capaciteit.<br>
+§ 3. De situatie van 1 januari van het jaar in kwestie wordt als basis genomen om de gemiddelde anciënniteit, vermeld in paragraaf 2ter, te bepalen.<br>
+<br>
+Om de berekening, vermeld in het eerste lid, te doen, dient het centrum uiterlijk op 15 januari van het jaar in kwestie een overzicht in van het tewerkgestelde personeel op een formulier dat het agentschap ter beschikking stelt.<br>
 <br>
 § 4. Het bedrag, vermeld in paragraaf 2, bestaat voor 85% uit personeelssubsidies en voor 15% uit werkingssubsidies.
 
@@ -138,9 +152,7 @@ De reserves kunnen uitsluitend worden aangewend om uitgaven te financieren die b
 
 ### ART. 17.
 
-De bedragen, vermeld in artikel 4, 6°, en in artikel 14, § 2, zijn gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De basisindex is de spilindex die van toepassing is op 1 januari 2018.<br>
-<br>
-De bedragen, vermeld in het eerste lid, worden aangepast overeenkomstig de aanpassing die bepaald is in de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld, voor de toelagen, tegemoetkomingen en vergoedingen, vermeld in artikel 1, § 1, a), 5) en 6), van de voormelde wet.
+De bedragen, vermeld in artikel 4, eerste lid, 6°, en artikel 14, § 2 zijn gekoppeld aan de index van de consumptieprijzen die van toepassing is op 1 januari 2020.
 
 ### ART. 18.
 
@@ -156,11 +168,30 @@ De personeelsleden van het bevoegde agentschap controleren ter plaatse of op stu
 
 ### ART. 20.
 
-[Als een centrum niet langer voldoet aan één of meer erkenningsvoorwaarden, kan de erkenning worden opgeschort of ingetrokken.<br /><br />De beslissing tot opschorting of intrekking wordt met redenen omkleed en in een aangetekende brief aan het centrum meegedeeld.<br /><br />Tegen een beslissing tot opschorting of intrekking kan beroep worden aangetekend overeenkomstig de bepalingen van artikel 17 van voormeld besluit van de Vlaamse regering van 15 december 1993.  <span class="reference">(verv. B.V.R. 15 juli 2002, art. 9, I: 1 januari 2002)</span> ]
+§ 1. Als een centrum niet langer voldoet aan een of meer erkenningsvoorwaarden, kan de erkenning worden opgeschort of ingetrokken.<br>
+<br>
+De beslissing tot opschorting of intrekking wordt in een aangetekende brief aan het centrum meegedeeld.<br>
+<br>
+§ 2. Tegen een beslissing tot opschorting of intrekking kan het centrum bezwaar aantekenen binnen dertig dagen na de dag waarop ze de beslissing heeft ontvangen. De termijn van dertig dagen is voorgeschreven op straffe van verval.<br>
+<br>
+Het bezwaarschrift wordt met een aangetekende brief ingediend bij het agentschap. Het vermeldt duidelijk de motieven waarop het gesteund is en is vergezeld van de nodige bewijsstukken.<br>
+<br>
+Het bezwaar wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
+<br>
+§ 3. Het bezwaar werkt schorsend vanaf de datum waarop de aangetekende brief, vermeld in paragraaf 1, tweede lid, wordt verzonden, tot aan de kennisgeving van de beslissing over het bezwaar aan de inrichtende macht.<br>
+<br>
+Het eerste lid is niet van toepassing als het een dringende beslissing tot schorsing of intrekking van de erkenning betreft wegens manifeste overtreding van de erkenningsvoorwaarden of wegens een ernstige overtreding van de veiligheids- of gezondheidsnormen die een duidelijk gevaar betekenen voor de fysieke of psychische gezondheid van de bewoners.
 
 ### ART. 21.
 
-[In afwijking van de bepalingen van artikel 19 en 20, de bepalingen van Hoofdstuk III van het besluit van de Vlaamse regering van 15 december 2000 betreffende de kwaliteitszorg in de voorzieningen voor de sociale integratie van personen met een handicap gelden, voor wat het toezicht op de naleving van de erkenningsvoorwaarden inzake kwaliteitszorg,bedoeld in artikel 4, 8°, betreft.  <span class="reference">(verv. B.V.R. 15 juli 2002, art. 10, I: 1 januari 2002)</span> ]
+Het centrum dient jaarlijks voor 1 juni bij het agentschap een kwaliteitsverslag in over het voorbije jaar. Dat verslag bevat al de volgende gegevens:<br>
+1° de resultaten van de zelfevaluatie;<br>
+2° de geformuleerde verbeteracties;<br>
+3° de wijze waarop de verbeteracties zijn uitgevoerd;<br>
+4° de kwaliteitsplanning voor het lopende jaar;<br>
+5° een inhoudelijk en kwantitatief activiteitenverslag over het voorgaande jaar.<br>
+<br>
+Artikel 28 tot 32 van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp zijn van toepassing.
 
 ### ART. 22.
 
