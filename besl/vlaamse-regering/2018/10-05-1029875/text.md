@@ -76,12 +76,10 @@ Vanaf 2021 wordt, binnen de beschikbare begrotingskredieten, het totale bedrag a
 
 ### ART 8.
 
-Om na vijf jaar een efficiëntiewinst van 5 % te realiseren, wordt het bedrag van de subsidie voor de werkingskosten voor de private uitbetalingsactoren, berekend conform artikel 7, vanaf 2020, als volgt samengesteld:<br>
-1° in 2020: 99 % van de werkingsmiddelen;<br>
-2° in 2021: 98 % van de werkingsmiddelen;<br>
-3° in 2022: 97 % van de werkingsmiddelen;<br>
-4° in 2023: 96 % van de werkingsmiddelen;<br>
-5° vanaf 2024: 95 % van de werkingsmiddelen.
+Om na drie jaar een efficiëntiewinst van 10% te realiseren, wordt het bedrag van de subsidie voor de werkingskosten voor de private uitbetalingsactoren, berekend conform artikel 7, vanaf 2020, als volgt samengesteld:<br>
+1° in 2020: 94 % van de werkingsmiddelen;<br>
+2° in 2021: 92,5 % van de werkingsmiddelen;<br>
+3° vanaf 2022: 90 % van de werkingsmiddelen.
 
 ## Onderafdeling 2. Regeling betreffende de voorschotten en definitieve vaststelling van de subsidie voor de werkingskosten
 
