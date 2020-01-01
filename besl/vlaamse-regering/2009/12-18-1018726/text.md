@@ -12,7 +12,7 @@ De Vlaamse Regering,<br /><br />Gelet op artikel 20 van de bijzondere wet van 8 
 
 ### ART. 2.
 
-Overeenkomstig de bepalingen van hoofdstuk IV van het decreet van 7 mei 2004 en de bepalingen van hoofdstuk XIX van het decreet van 18 december 2009, en op de wijze nader bepaald in dit besluit wordt een gewestwaarborg
+Overeenkomstig Hoofdstuk 10, afdeling 4 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 en de bepalingen van hoofdstuk XIX van het decreet van 18 december 2009, en op de wijze nader bepaald in dit besluit wordt een gewestwaarborg
 
 ## HOOFDSTUK II. Omvang van de dekking onder de gewestwaarborg
 
@@ -32,7 +32,11 @@ De gewestwaarborg kan enkel worden afgeroepen nadat alle zakelijke en persoonlij
 
 ### ART. 6.
 
-Het per post aangetekend verzoek tot afroep van de zekerheidsagent aan de minister moet omvatten :<br />1° een kopie van de aangetekende opzegbrief en de aanmaningsbrief waaruit blijkt dat de zekerheidsagent en alle kredietverstrekkers alle overeenkomsten met betrekking tot het vreemd vermogen en de daaraan gekoppelde rente-indekkingsverrichtingen formeel hebben opgezegd en de DBFM-vennootschap hebben aangemaand over te gaan tot nakoming van de integrale terugbetalingsverplichtingen die voortvloeien uit die onderliggende contracten;<br />2° een berekening van het bedrag waarvoor de gewestwaarborg wordt afgeroepen conform artikel 3 en 4;<br />3° een omstandig bewijs van de vervulling van de formaliteiten opgenomen onder artikel 5;<br />4° een schriftelijke verklaring dat alle bepalingen van dit besluit en van het decreet van 7 mei 2004 werden nageleefd.
+Het per post aangetekend verzoek tot afroep van de zekerheidsagent aan de minister moet omvatten :<br>
+1° een kopie van de aangetekende opzegbrief en de aanmaningsbrief waaruit blijkt dat de zekerheidsagent en alle kredietverstrekkers alle overeenkomsten met betrekking tot het vreemd vermogen en de daaraan gekoppelde rente-indekkingsverrichtingen formeel hebben opgezegd en de DBFM-vennootschap hebben aangemaand over te gaan tot nakoming van de integrale terugbetalingsverplichtingen die voortvloeien uit die onderliggende contracten;<br>
+2° een berekening van het bedrag waarvoor de gewestwaarborg wordt afgeroepen conform artikel 3 en 4;<br>
+3° een omstandig bewijs van de vervulling van de formaliteiten opgenomen onder artikel 5;<br>
+4° een schriftelijke verklaring dat alle bepalingen van dit besluit en van Hoofdstuk 10, afdeling 4 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 werden nageleefd.
 
 ### ART. 7.
 
