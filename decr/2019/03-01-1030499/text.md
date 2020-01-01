@@ -359,7 +359,7 @@ De subsidieaanvragen voor projectsubsidies als vermeld in artikel 14 en 15 worde
 
 ### ART 25.
 
-§ 1. De organisaties, vermeld in artikel 11, 12, 13 en 16, kunnen met subsidies die op basis van dit decreet zijn toegekend, een reserve aanleggen conform het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
+§ 1. De organisaties, vermeld in artikel 11, 12, 13 en 16, kunnen met subsidies die op basis van dit decreet zijn toegekend, een reserve aanleggen conform artikel 75 en 76 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
 <br>
 § 2. De Vlaamse Regering kan voor de subsidies, vermeld in artikel 20 en 21, nader bepalen op welke wijze en wanneer een aanvraagdossier wordt ingediend, en op welke wijze en wanneer beslissingen worden genomen en bekendgemaakt.<br>
 <br>

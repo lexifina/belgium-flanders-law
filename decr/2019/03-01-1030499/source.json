@@ -2,16 +2,16 @@
   "codex_id": 1030499,
   "title": "Decreet van 2019-03-01 houdende een circusbeleid (citeeropschrift: \"Circusdecreet van 1 maart 2019\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030499/VolledigDocument?datum=2019-04-12",
-  "source_sha256": "cca8f0872e33f086b17db9ecfb36112cd8f0e024938cefd9f256aa8ec4da3cb5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030499/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "85db5fbae81c2994bf91dffe516596021b8eea5ed308a358227e264cb39ad4ef",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030499&param=informatie",
-  "as_of": "2019-04-12",
+  "as_of": "2020-01-01",
   "made": "2019-03-01",
   "gazette": "2019-04-02",
   "numac": 2019011326,
   "document_start": "2019-04-12",
   "document_end": null,
-  "in_force": "2019-04-12",
+  "in_force": "2020-01-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2019-04-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
