@@ -585,6 +585,10 @@ In artikel 2 van het decreet van 30 november 2007 houdende de oprichting van de 
 
 ## HOOFDSTUK 15. Wijzigingen van het Participatiedecreet van 18 januari 2008
 
+### ART 51.
+
+In artikel 10, eerste lid, 4°, van het Participatiedecreet van 18 januari 2008, ingevoegd bij het decreet van 21 maart 2014, wordt punt a) opgeheven.
+
 ### ART 52.
 
 In hetzelfde decreet worden de volgende artikelen opgeheven:<br>
