@@ -56,4 +56,5 @@ Indien (één van) de DBFM-opdrachtgever(s) zijn rechten en verplichtingen onder
 
 ### ART. 12.
 
-De bepalingen van het decreet van 7 mei 2004 houdende bepalingen inzake kas- schuld-, en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest zijn niet van toepassing op dit decreet.<br /><br />
+De bepalingen van hoofdstuk 10, afdeling 4, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 zijn niet van toepassing op dit decreet.<br>
+&nbsp;
