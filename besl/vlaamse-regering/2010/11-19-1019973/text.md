@@ -244,7 +244,7 @@ De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de airco-energie
 1° een natuurlijke persoon zijn;<br>
 2° voldoen aan minstens een van de voorwaarden, vermeld in bijlage 13, die bij dit besluit is gevoegd;<br>
 3° in het bezit zijn van het certificaat van bekwaamheid inzake de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, f), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/4, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/4, § 2, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, f). De datum van het slagen voor het examen van de bijscholing mag niet ouder zijn dan vijf jaar, voorafgaand aan de datum van de betaling van de retributie, vermeld in punt 4° ;<br>
-4° een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan&nbsp;het departement&nbsp;of aan een erkend opleidingscentrum als vermeld in artikel 6, 4°, f).
+4° ...
 
 ### ART 13/2.
 
@@ -262,14 +262,14 @@ De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus vl
 1° een natuurlijke persoon zijn;<br>
 2° in het bezit zijn van een certificaat van bekwaamheid inzake vloeibare brandstof, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, b), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het examen, vermeld in artikel 43, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 40, eerste lid, 3°, in een erkend opleidingscentrum als vermeld in artikel 6,<br>
 4°, b). De datum van het slagen voor het examen van de bijscholing mag niet ouder zijn dan vijf jaar, voorafgaand aan de datum van de betaling van de retributie, vermeld in punt 3° ;<br>
-3° een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan&nbsp;het departement&nbsp;of aan een erkend opleidingscentrum als vermeld in artikel 6, 4°, b).
+3° ...
 
 ### ART. 15.
 
 De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus gasvormige brandstof als vermeld in artikel 6, 2°, b) :<br>
 1° een natuurlijke persoon zijn;<br>
 2° in het bezit zijn van een certificaat van bekwaamheid inzake gasvormige brandstof, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, c), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het examen, vermeld in artikel 43/1, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 40, eerste lid, 3°, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, c). De datum van het slagen voor het examen van de bijscholing mag niet ouder zijn dan vijf jaar, voorafgaand aan de datum van de betaling van de retributie, vermeld in punt 3° ;<br>
-3° een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan&nbsp;het departement&nbsp;of aan een erkend opleidingscentrum als vermeld in artikel 6, 4°, c).
+3°&nbsp;...
 
 ### ART. 16.
 
@@ -277,49 +277,49 @@ De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus ve
 1° een natuurlijke persoon zijn;<br>
 2° erkend zijn als technicus vloeibare brandstof of als technicus gasvormige brandstof als vermeld in artikel 6, 2°, a) respectievelijk b) ;<br>
 3°&nbsp;in het bezit zijn van een certificaat van bekwaamheid inzake de verwarmingsaudit, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, d), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/2, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 40, eerste lid, 3°, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, d). De datum van het slagen voor het examen van de bijscholing mag niet ouder zijn dan vijf jaar, voorafgaand aan de datum van de betaling van de retributie, vermeld in punt 4°&nbsp;<br>
-4° een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan het departement of aan een erkend opleidingscentrum als vermeld in artikel 6, 4°, d).
+4° ...
 
 ### ART. 17.
 
 De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een stookolietechnicus als vermeld in artikel 6, 2°, d) :<br>
 1° een natuurlijke persoon zijn;<br>
 2° in het bezit zijn van een certificaat van bekwaamheid inzake de controle en het onderhoud van stookolietanks, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, e), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/3, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 40, eerste lid, 3°, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, e). De datum van het slagen voor het examen van de bijscholing mag niet ouder zijn dan vijf jaar, voorafgaand aan de datum van de betaling van de retributie, vermeld in punt 3° ;<br>
-3° een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan&nbsp;het departement&nbsp;of aan een erkend opleidingscentrum als vermeld in artikel 6, 4°, e).
+3° ...
 
 ### ART 17/1.
 
 De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een koeltechnicus als vermeld in artikel 6, 2°, e) :<br>
 1° een natuurlijke persoon zijn;<br>
 2° in het bezit zijn van een certificaat van bekwaamheid in de koeltechniek van categorie I, II, III of IV, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, h), nadat de persoon geslaagd is voor het examen, vermeld in artikel 43/6, § 1;<br>
-3° een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan&nbsp;het departement&nbsp;of aan een erkend opleidingscentrum als vermeld in artikel 6, 4°, h).
+3° ...
 
 ### ART 17/2.
 
 De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus voor brandbeveiligingsapparatuur als vermeld in artikel 6, 2°, f) :<br>
 1° een natuurlijke persoon zijn;<br>
 2° in het bezit zijn van een certificaat van bekwaamheid voor brandbeveiligingsapparatuur, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, i), nadat de persoon geslaagd is voor het examen, vermeld in artikel 43/7, § 1;<br>
-3° een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan&nbsp;het departement&nbsp;of aan een erkend opleidingscentrum als vermeld in artikel 6, 4°, i).
+3° ...
 
 ### ART 17/3.
 
 De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus voor elektrische schakelinrichtingen als vermeld in artikel 6, 2°, g) :<br>
 1° een natuurlijke persoon zijn;<br>
 2° in het bezit zijn van een certificaat van bekwaamheid voor elektrische schakelinrichtingen, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, j), nadat de persoon geslaagd is voor het examen, vermeld in artikel 43/8, § 1;<br>
-3° een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan het departement of aan een erkend opleidingscentrum als vermeld in artikel 6, 4°, j).
+3° ...
 
 ### ART 17/4.
 
 De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus voor apparatuur die oplosmiddelen bevat als vermeld in artikel 6, 2°, h) :<br>
 1° een natuurlijke persoon zijn;<br>
 2° in het bezit zijn van een certificaat van bekwaamheid voor apparatuur die oplosmiddelen bevat, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, k), nadat de persoon geslaagd is voor het examen, vermeld in artikel 43/9, § 1;<br>
-3° een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan&nbsp;het departement&nbsp;of aan een erkend opleidingscentrum als vermeld in artikel 6, 4°, k).
+3° ...
 
 ### ART 17/5.
 
 De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus voor klimaatregelingsapparatuur in bepaalde motorvoertuigen als vermeld in artikel 6, 2°, i) :<br>
 1° een natuurlijke persoon zijn;<br>
 2° in het bezit zijn van een certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, l), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/10, § 1;<br>
-3° een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan&nbsp;het departement&nbsp;of aan een erkend opleidingscentrum als vermeld in artikel 6, 4°, l).
+3° ...
 
 ## Onderafdeling 3 Erkenningsvoorwaarden voor milieucoördinatoren en verificateurs
 
@@ -331,7 +331,7 @@ De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus vo
 
 <p>De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de milieuverificateur die belast is met de validatie van de decretale milieuaudit, vermeld in artikel 6, 3°, b) :<br>
 1° houder zijn van de titel van milieuverificateur, vermeld in Verordening nr. 1221/2009 van het Europees Parlement en de Raad van 25 november 2009 inzake de vrijwillige deelneming van organisaties aan een communautair milieubeheer- en milieuauditsysteem (EMAS), tot intrekking van Verordening (EG) nr. 761/2001 en van de Beschikkingen 2001/681/EG en 2006/193/EG van de Commissie;<br>
-2° een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan het departement.</p>
+2° ...</p>
 
 ## Onderafdeling 4 Erkenningsvoorwaarden voor opleidingscentra
 
@@ -634,7 +634,7 @@ De beslissing wordt binnen een termijn van veertien dagen, te rekenen   vanaf de
 
 § 1. Personen die houder zijn van een titel die krachtens artikel 31 gelijkwaardig is bevonden aan een erkenning als vermeld in artikel 6, zijn voor die laatste erkenning van rechtswege erkend.<br>
 <br>
-De erkenning gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan de bevoegde afdeling, de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan de bevoegde afdeling en een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, wordt voorgelegd aan de bevoegde afdeling.<br>
+De erkenning gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan de bevoegde afdeling, de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan de bevoegde afdeling.<br>
 <br>
 § 2. De volgende personen zijn van rechtswege erkend als :<br>
 1° technicus vloeibare brandstof als vermeld in artikel 6, 2°, a) : de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 14;<br>
@@ -664,9 +664,9 @@ b) de bedrijven die in een ander gewest in België of in een andere lidstaat van
 13° bedrijf voor brandbeveiligingsapparatuur als vermeld in artikel 6, 7°, c) : de bedrijven die in een ander gewest in België of in een andere lidstaat van de Europese Economische Ruimte conform artikel 8 van verordening nr. 304/2008 een geldig certificaat hebben behaald;<br>
 14° keuringsinstelling als vermeld in artikel 6, 8° : de instellingen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 25/6.<br>
 <br>
-De erkenning, vermeld in het eerste lid, 5°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan het departement, en een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, wordt voorgelegd aan het departement.<br>
+De erkenning, vermeld in het eerste lid, 5°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan het departement.<br>
 <br>
-De erkenning, vermeld in het eerste lid, 7°, b), 8°, b), 9°, b), 10°, b), 11°, b), 12°, b) en 13°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan&nbsp;het departement,&nbsp;de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan het departement, en een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, wordt voorgelegd aan het departement. De persoon of het bedrijf, vermeld in het eerste lid, 7°, b), 8°, b), 9°, b), 10°, b), 11°, b), 12°, b), en 13°, beschikt over een vertaling van zijn certificaat naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven, en legt zijn certificaat en, in voorkomend geval, de vertaling ervan voor aanhet departement, bij de melding van het gebruik van de erkenning.<br>
+De erkenning, vermeld in het eerste lid, 7°, b), 8°, b), 9°, b), 10°, b), 11°, b), 12°, b) en 13°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan&nbsp;het departement,&nbsp;de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan het departement. De persoon of het bedrijf, vermeld in het eerste lid, 7°, b), 8°, b), 9°, b), 10°, b), 11°, b), 12°, b), en 13°, beschikt over een vertaling van zijn certificaat naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven, en legt zijn certificaat en, in voorkomend geval, de vertaling ervan voor aanhet departement, bij de melding van het gebruik van de erkenning.<br>
 <br>
 De erkenning, vermeld in het eerste lid, 14°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan het departement, de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan de afdeling, bevoegd voor milieuvergunningen, en de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan het departement.<br>
 <br>
@@ -705,7 +705,7 @@ De erkende persoon stelt aan de bevoegde afdeling alle inlichtingen en documente
 <br>
 § 8. De erkende persoon verleent zijn medewerking aan periodieke evaluaties die door de bevoegde afdeling worden opgezet.<br>
 <br>
-§ 9. De erkende persoon legt vijfjaarlijks&nbsp;een bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, voor aan de bevoegde afdeling of voor de erkende airco-energiedeskundige, vermeld in artikel 6, 1°, f), en de erkende technici, vermeld in artikel 6, 2°, a) tot en met e), aan een erkend opleidingscentrum als vermeld in artikel 6, 4°.
+§ 9. De erkende persoon legt&nbsp;jaarlijks en dit ten laatste op 31 mei van het betreffende jaar&nbsp;een bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, voor aan de bevoegde afdeling.
 
 ## Afdeling 3 Bijzondere gebruikseisen
 
@@ -795,7 +795,7 @@ De erkende airco-energiedeskundige, vermeld in artikel 6, 1°, f) :<br>
 5° houdt een overzichtslijst bij van alle keuringen als vermeld in artikel 5.16.3.3, § 3, 4°,&nbsp;van titel II van het VLAREM, die hij in het voorbije kalenderjaar uitgevoerd heeft;<br>
 6° volgt vijfjaarlijks de bijscholing en slaagt voor het bijhorende examen, vermeld in artikel 43/4, 2°, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, f).<br>
 <br>
-Als een geldig bewijs van betaling van de retributie, vermeld in artikel 13/1, 4°, na een termijn van vijf jaar na het behalen van het certificaat van bekwaamheid inzake de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW, vermeld in artikel 13/1, 3°, voorgelegd wordt, moet de airco-energiedeskundige de bijscholing gevolgd hebben en voor het bijhorende examen geslaagd zijn, vermeld in het eerste lid, van dit artikel, voor hij de erkenning van rechtswege, vermeld in artikel 32, § 2, eerste lid, 6°, kan gebruiken.
+Als het certificaat van bekwaamheid inzake de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW, vermeld in artikel 13/1, 3°, ouder is dan vijf jaar na de afgiftedatum, vermeld op het certificaat, moet de airco-energiedeskundige de bijscholing gevolgd hebben en voor het bijhorende examen geslaagd zijn, vermeld in het eerste lid, van dit artikel, voor hij de erkenning van rechtswege, vermeld in artikel 32, § 2, eerste lid, 6°, kan gebruiken.
 
 ### ART 39/2.
 
@@ -817,7 +817,7 @@ De erkende technicus,&nbsp;vermeld in artikel 6, 2°, a) tot en met d) :<br>
 4° voert de keuring, onderhoudsbeurt of verwarmingsaudit, vermeld in artikel 12, 13, en 14 van het besluit inzake het onderhoud en nazicht van stooktoestellen, correct uit;<br>
 5° levert de attesten en rapporten af en houdt die ter beschikking, zoals bepaald in artikel 15 van het besluit inzake het onderhoud en nazicht van stooktoestellen.&nbsp;<br>
 <br>
-Als een geldig bewijs van betaling van de desbetreffende retributie, vermeld in artikel 14, 3°, artikel 15, 3°, artikel 16, 4°, of artikel 17, 3°, na een termijn van vijf jaar na het behalen van het desbetreffende certificaat van bekwaamheid, vermeld in artikel 14, 2°, artikel 15, 2°, artikel 16, 3°, of artikel 17, 2°, voorgelegd wordt, moet de technicus de bijscholing, vermeld in het eerste lid, 3°, gevolgd hebben, en voor het bijhorende examen, vermeld in het eerste lid, 3°, geslaagd zijn voor hij de desbetreffende erkenning van rechtswege, vermeld in artikel 32, § 2, eerste lid, 1° tot en met 4°, kan gebruiken.<br>
+Als het certificaat van bekwaamheid, vermeld in artikel 14, 2°, artikel 15, 2°, artikel 16, 3°, of artikel 17, 2°, ouder is dan vijf jaar na de afgiftedatum, vermeld op het certificaat, moet de technicus de bijscholing, vermeld in het eerste lid, 3°, gevolgd hebben, en voor het bijhorende examen, vermeld in het eerste lid, 3°, geslaagd zijn voor hij de desbetreffende erkenning van rechtswege, vermeld in artikel 32, § 2, eerste lid, 1° tot en met 4°, kan gebruiken.<br>
 &nbsp;
 
 ### ART 40/1.
@@ -854,7 +854,7 @@ e) bij een buitendienststelling :<br>
 3) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de installatie buiten dienst gesteld heeft;<br>
 4) de naam en het erkenningsnummer van het koeltechnisch bedrijf waar de technicus werkt;<br>
 3° toont op verzoek het materiaal dat hij gebruikt bij de uitvoering van de werkzaamheden met betrekking tot de erkenning;<br>
-4° slaagt vijfjaarlijks voor het actualisatie-examen in een erkend opleidingscentrum als vermeld in artikel 6, 4°, h), of voor een gelijkwaardig examen dat aanvaard is door het departement. Als het certificaat van bekwaamheid als vermeld in artikel 17/1, 2°, of artikel 32, § 2, eerste lid, 7°, b), ouder is dan vijf jaar na de afgiftedatum, vermeld op het certificaat, slaagt hij voor het actualisatie-examen of voor een gelijkwaardig examen vóór hij de erkenning kan gebruiken. De examens die gelijkwaardig worden bevonden, worden gepubliceerd op de website van het departement. De datum van het slagen voor het actualisatie-examen of een gelijkwaardig examen mag niet ouder zijn dan vijf jaar, voorafgaand aan de datum van de betaling van de retributie, vermeld in artikel 17/1, 3°, of artikel 32, § 2, derde lid;<br>
+4° slaagt vijfjaarlijks voor het actualisatie-examen in een erkend opleidingscentrum als vermeld in artikel 6, 4°, h), of voor een gelijkwaardig examen dat aanvaard is door het departement. Als het certificaat van bekwaamheid als vermeld in artikel 17/1, 2°, of artikel 32, § 2, eerste lid, 7°, b), ouder is dan vijf jaar na de afgiftedatum, vermeld op het certificaat, slaagt hij voor het actualisatie-examen of voor een gelijkwaardig examen vóór hij de erkenning kan gebruiken. De examens die gelijkwaardig worden bevonden, worden gepubliceerd op de website van het departement;<br>
 5° doet al het mogelijke om lekkage van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen te voorkomen of tot een minimum te beperken;<br>
 6° doet al het nodige voor de recycling, regeneratie of vernietiging van gefluoreerde broeikasgassen als een cilinder met dat broeikasgas verwijderd moet worden;<br>
 7° beschikt over een vertaling van zijn certificaat van categorie I, II, III of IV naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven;<br>
@@ -977,13 +977,13 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
-§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat door de geslaagde kandidaat een geldig bewijs van betaling van de retributie, vermeld in artikel 14, 3°, of artikel 34, § 9, voorgelegd is, een kopie van dat bewijs aan het departement.<br>
+§ 4. ...<br>
 <br>
 § 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de infrastructuur en het materiaal, vermeld in bijlage 1, hoofdstuk 1, afdeling 1, die bij dit besluit is gevoegd, om de opleiding, theoretische en praktische oefeningen, examens en, in voorkomend geval, de bijscholing te organiseren. De infrastructuur biedt elke leerling de mogelijkheid om zelf proefnemingen uit te voeren.<br>
 <br>
 § 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
 <br>
-§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;het departement minstens een maand voor een opleiding of, in voorkomend geval, de bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of, in voorkomend geval, van de bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door het departement,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen.&nbsp;Het departement&nbsp;kan zetelen in de examenjury.<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;het departement minstens een maand voor een opleiding of, in voorkomend geval, de bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of, in voorkomend geval, van de bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de afdeling, bevoegd voor erkenningen,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen.&nbsp;Het departement&nbsp;kan zetelen in de examenjury.<br>
 <br>
 § 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door het departement.</p>
 
@@ -1021,7 +1021,7 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
-§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van de betaling van de retributie, vermeld in artikel 15, 3°, of artikel 34, § 9, voorgelegd heeft, een kopie van dat bewijs aan het departement.<br>
+§ 5. ...<br>
 <br>
 § 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de infrastructuur en het materiaal, vermeld in bijlage 1, hoofdstuk 1, afdeling 2, die bij dit besluit is gevoegd, om de opleiding, theoretische en praktische oefeningen, examens en, in voorkomend geval, de bijscholing te organiseren. De infrastructuur biedt elke leerling de mogelijkheid om zelf proefnemingen uit te voeren.<br>
 <br>
@@ -1049,7 +1049,7 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
-§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van de betaling van de retributie, vermeld in artikel 16, 4°, of artikel 34, § 9, voorgelegd heeft, een kopie van dat bewijs aan het departement.<br>
+§ 4. ...<br>
 <br>
 § 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de infrastructuur en het materiaal, vermeld in bijlage 1, hoofdstuk 1, afdeling 3, die bij dit besluit is gevoegd, om de opleiding, theoretische en praktische oefeningen, examens en, in voorkomend geval, de bijscholing te organiseren. De infrastructuur biedt elke leerling de mogelijkheid om zelf proefnemingen uit te voeren.<br>
 <br>
@@ -1079,7 +1079,7 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
-§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van de betaling van de retributie, vermeld in artikel 17, 3°, of artikel 34, § 9, voorgelegd heeft, een kopie van dat bewijs aan het departement.<br>
+§ 4. ...<br>
 <br>
 § 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de infrastructuur en het materiaal, vermeld in bijlage 1, hoofdstuk 1, afdeling 4, die bij dit besluit is gevoegd, om de opleiding, theoretische en praktische oefeningen, examens en, in voorkomend geval, de bijscholing te organiseren. De infrastructuur biedt elke leerling de mogelijkheid om zelf proefnemingen uit te voeren.<br>
 <br>
@@ -1116,7 +1116,7 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
-§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van betaling van de retributie, vermeld in artikel 13/1, 4°, of artikel 34, § 9, voorgelegd heeft, een kopie van dat bewijs aan het departement.<br>
+§ 5. ....<br>
 <br>
 § 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de nodige infrastructuur en apparatuur om de opleiding, bijscholing en examens, vermeld in paragraaf 1 en 2, te organiseren.<br>
 <br>
@@ -1160,7 +1160,7 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
-§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van betaling van de retributie, vermeld in artikel 17/1, 3°, of artikel 34, § 9, voorgelegd heeft, een kopie van dat bewijs aan het departement.<br>
+§ 5. ...<br>
 <br>
 § 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de nodige infrastructuur, apparatuur, instrumenten en materialen om de examens, vermeld in paragraaf 1 en 2, te organiseren. Voor het praktische gedeelte zijn de apparatuur, instrumenten en materialen, vermeld in bijlage 20, die bij dit besluit is gevoegd, minimaal aanwezig.<br>
 <br>
@@ -1188,7 +1188,7 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
-§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van betaling van de retributie, vermeld in artikel 17/2, 3°, voorgelegd heeft, een kopie van dat bewijs aan het departement.<br>
+§ 4. ...<br>
 <br>
 § 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de nodige infrastructuur, apparatuur, instrumenten en materialen om het examen, vermeld in paragraaf 1, te organiseren.<br>
 <br>
@@ -1216,7 +1216,7 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
-§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van betaling van de retributie, vermeld in artikel 17/3, 3°, voorgelegd heeft, een kopie van dat bewijs aan het departement.<br>
+§ 4. ...<br>
 <br>
 § 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de nodige infrastructuur, apparatuur, instrumenten en materialen om het examen, vermeld in paragraaf 1, te organiseren.<br>
 <br>
@@ -1244,7 +1244,7 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
-§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van betaling van de retributie, vermeld in artikel 17/4, 3°, voorgelegd heeft, een kopie van dat bewijs aan het departement.<br>
+§ 4. ...<br>
 <br>
 § 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de nodige infrastructuur, apparatuur, instrumenten en materialen om het examen, vermeld in paragraaf 1, te organiseren.<br>
 <br>
@@ -1274,7 +1274,7 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
-§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van betaling van de retributie, vermeld in artikel 17/5, 3°, voorgelegd heeft, een kopie van dat bewijs aan het departement.<br>
+§ 4. ...<br>
 <br>
 § 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de nodige infrastructuur, apparatuur, instrumenten en materialen om de opleiding en het examen, vermeld in paragraaf 1, te organiseren.<br>
 <br>
@@ -1612,9 +1612,9 @@ De erkende keuringsinstelling, vermeld in artikel 6, 8° :<br>
 De bedragen van die retributie worden vastgesteld in bijlage 18, A, die bij dit besluit is gevoegd.<br>
 <br>
 § 2. Voor de uitoefening van het toezicht op de erkenning wordt een retributie geheven, waarvan de opbrengst rechtstreeks en integraal in het Fonds voor de behandeling van de erkenningsaanvragen en de uitoefening van het toezicht op de erkenningen met betrekking tot het leefmilieu wordt gestort, ten laste van elke natuurlijke persoon of rechtspersoon die in het bezit is van een erkenning als vermeld in artikel 6. Die retributie is op de volgende tijdstippen verschuldigd :<br>
-1° in geval van personen die van rechtswege erkend zijn conform artikel 32, § 2, eerste lid, 1° tot en met 4°, 6° en 7°, of van personen die met toepassing van artikel 32, § 1, op basis van een gelijkwaardige titel van rechtswege erkend worden als technicus als vermeld in artikel 6, 2° : een eerste keer voor het verkrijgen van het erkenningscertificaat en vervolgens vijfjaarlijks, te rekenen vanaf de datum, vermeld op het certificaat, in voorkomend geval bij het volgen van de bijscholing of bij de deelname aan het actualisatie-examen;<br>
-2° in geval van personen die van rechtswege erkend zijn conform artikel 32, § 2, eerste lid, 8° tot en met 11° : voor het verkrijgen van het erkenningscertificaat;<br>
-3° in alle andere gevallen, dan de gevallen, vermeld in punt 1° en 2° : uiterlijk op 31 december 2014.<br>
+1° in geval van personen die van rechtswege erkend zijn conform artikel 32, § 2, eerste lid, 1° tot en met 10°, 12°, b), en 13°, of van personen die met toepassing van artikel 32, § 1, op basis van een gelijkwaardige titel van rechtswege erkend zijn als technicus als vermeld in artikel 6, 2° : jaarlijks, te beginnen vanaf het jaar nadat het erkenningsbewijs verkregen is, uiterlijk op 31 mei van het betreffende jaar;<br>
+2° in geval van een laboratorium in de discipline bodem, deeldomein bodembescherming of bemesting: jaarlijks, te beginnen vanaf het jaar nadat de registratie van de monsternemer verkregen is, uiterlijk op 31 mei van het betreffende jaar;<br>
+3° in alle andere gevallen dan de gevallen, vermeld in punt 1° en 2° : jaarlijks, te beginnen vanaf het jaar nadat de erkenning verleend is, uiterlijk op 31 mei van het betreffende jaar.<br>
 <br>
 De bedragen van die retributie worden vastgesteld in bijlage 18, B, die bij dit besluit is gevoegd.<br>
 <br>
@@ -1628,6 +1628,7 @@ De bedragen van die retributie worden vastgesteld in bijlage 18, B, die bij dit 
 3° bij de erkenning als MER-deskundige in de discipline geluid en trillingen als vermeld in artikel 6, 1°, d), 7);<br>
 4° bij een uitbreiding van de erkenning van een technicus gasvormige brandstof als vermeld in artikel 6, 2°, b), met de module GII.<br>
 5° bij een uitbreiding van de erkenning van een koeltechnicus als vermeld in artikel 6, 2°, e), met een andere categorie;<br>
+6° bij de erkenning als technicus voor klimaatregelingsapparatuur in bepaalde motorvoertuigen als vermeld in artikel 6, 2°, i);<br>
 7° bij de erkenning als laboratorium als vermeld in artikel 6, 5°, a), b), d), met betrekking tot de discipline diervoeder, e) en f);<br>
 8° bij de erkenning als laboratorium als vermeld in artikel 6, 5°, d), met betrekking tot de discipline mest tenzij het laboratorium alleen erkend is voor het pakket M-M6 als vermeld in bijlage 3, 4°.<br>
 <br>
@@ -1662,11 +1663,17 @@ Met behoud van de toepassing van hoofdstuk 9 en 13 van dit besluit zijn de bijzo
 <br>
 Met behoud van de toepassing van hoofdstuk 9 en 13 van dit besluit zijn de bijzondere erkenningsvoorwaarden, vermeld in artikel 18, § 1, 3°, of § 2, 3°, niet van toepassing voor milieucoördinatoren die erkend zijn op basis van een aanvraag die is ingediend voor 1 januari 2000, en die opnieuw een erkenning willen verkrijgen nadat hun erkenning van rechtswege is vervallen.<br>
 <br>
+§ 2/2. Een erkenning is van rechtswege geschorst als de retributie, vermeld in artikel 54/1, § 2, na ingebrekestelling van de erkende persoon niet wordt betaald. De schorsing van de erkenning gaat in dertig dagen na de datum van de verzending van de ingebrekestelling en duurt tot de dag waarop de retributie betaald wordt. De erkenning vervalt van rechtswege als de retributie nog altijd niet betaald is dertig dagen na de datum van de aanvang van de schorsing van de erkenning.<br>
+<br>
+Met behoud van de toepassing van hoofdstuk 9 en 13 van dit besluit zijn de bijzondere erkenningsvoorwaarden, vermeld in artikel 18, § 1, 2°, of § 2, 2°, niet van toepassing voor milieucoördinatoren die erkend zijn op basis van een aanvraag die is ingediend voor 1 januari 2016, en die opnieuw een erkenning willen verkrijgen nadat hun erkenning van rechtswege is vervallen.<br>
+<br>
+Met behoud van de toepassing van hoofdstuk 9 en 13 van dit besluit zijn de bijzondere erkenningsvoorwaarden, vermeld in artikel 18, § 1, 3°, of § 2, 3°, niet van toepassing voor milieucoördinatoren die erkend zijn op basis van een aanvraag die is ingediend voor 1 januari 2000, en die opnieuw een erkenning willen verkrijgen nadat hun erkenning van rechtswege is vervallen.<br>
+<br>
 § 2/3. De erkenning van een koeltechnicus als vermeld in artikel 6, 2°, e), vervalt ook als hij niet tijdig slaagt voor het actualisatie-examen.<br>
 <br>
 In het geval, vermeld in het eerste lid, moet de koeltechnicus slagen voor het actualisatie-examen, vermeld in artikel 40/1, 4°, voor de erkenning opnieuw kan worden verleend.<br>
 <br>
-§ 3. In afwijking van paragraaf 2, 2/1&nbsp;en 2/3 vervalt de erkenning niet van rechtswege als de bevoegde afdeling beslist, op basis van de door de erkende persoon voor te leggen bewijzen, dat hij om redenen van overmacht niet in staat was de bijscholing te volgen of de proef af te leggen. Als de bevoegde afdeling tot die beslissing komt, zal ze de erkende persoon een nieuwe termijn opleggen waarbinnen die de bijscholing moet volgen of met gunstig gevolg de proef moet afleggen, opdat zijn erkenning niet van rechtswege zou vervallen.<br>
+§ 3. In afwijking van paragraaf 2, 2/1 en 2/3 vervalt de erkenning niet van rechtswege als de bevoegde afdeling beslist, op basis van de door de erkende persoon voor te leggen bewijzen, dat hij om redenen van overmacht niet in staat was de bijscholing te volgen of de proef af te leggen. Als de bevoegde afdeling tot die beslissing komt, zal ze de erkende persoon een nieuwe termijn opleggen waarbinnen die de bijscholing moet volgen of met gunstig gevolg de proef moet afleggen, opdat zijn erkenning niet van rechtswege zou vervallen.<br>
 <br>
 § 3/1. De erkenning van een bodemsaneringsdeskundige als vermeld in artikel 6, 6°, vervalt van rechtswege in de volgende gevallen :<br>
 1° als het gaat om een bodemsaneringsdeskundige van type 1 : hij beschikt gedurende een periode van negentig opeenvolgende dagen niet over minstens één persoon met een individuele handtekeningsbevoegdheid als vermeld in artikel 53/4, § 2, eerste lid;<br>
@@ -1708,7 +1715,7 @@ Een willekeurige selectie van ten minste een statistisch relevant percentage van
 &nbsp;
 <p style="text-align: justify;">§3.&nbsp;Het departement kan een stookolietank die door een erkende stookolietechnicus gecontroleerd, onderhouden of buiten gebruik gesteld is als vermeld in afdeling 5.17.2, 5.17.3, 6.5.4 en 6.5.5 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door het departement.<br>
 <br>
-§ 4.&nbsp;Het departement kan een koelinstallatie&nbsp;of een koeleenheid op koelwagens en koelaanhangwagens die door een erkende koeltechnicus of een erkend koeltechnisch bedrijf geïnstalleerd, onderhouden, gerepareerd of buiten dienst gesteld werd, die door een erkende koeltechnicus gecontroleerd werd op lekkage of waaruit gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden teruggewonnen door een erkende koeltechnicus als vermeld in&nbsp;artikel 4.4.8.4, artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis, artikel 5bis.15.5.4.5.4, § 1, artikel 5bis.19.8.4.8.4, § 1, artikel 6.8.1.1 of artikel 6.8.6.1 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door het departement. Bovendien kan&nbsp;het departement het gebruik van de erkenning als koeltechnicus of als koeltechnisch bedrijf onderwerpen aan een controle door een keuringsinstelling die aangewezen is door het departement.</p>
+§ 4.&nbsp;Het departement kan een koelinstallatie&nbsp;of een koeleenheid op koelwagens en koelaanhangwagens die door een erkende koeltechnicus of een erkend koeltechnisch bedrijf geïnstalleerd, onderhouden, gerepareerd of buiten dienst gesteld werd, die door een erkende koeltechnicus gecontroleerd werd op lekkage of waaruit gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden teruggewonnen door een erkende koeltechnicus als vermeld in&nbsp;artikel 4.4.8.4, artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis,&nbsp;artikel 6.8.1.1 of artikel 6.8.6.1 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door het departement. Bovendien kan&nbsp;het departement het gebruik van de erkenning als koeltechnicus of als koeltechnisch bedrijf onderwerpen aan een controle door een keuringsinstelling die aangewezen is door het departement.</p>
 
 ## [HOOFDSTUK 13/2 Keuringsinstelling (ing. BVR 1 maart 2013, art. 133, I: 3 mei 2013)]
 
@@ -4531,15 +4538,15 @@ B. Retributie voor de uitoefening van het toezicht op de erkenning<br>
 		</tr>
 		<tr>
 			<td>- milieudeskundige in de discipline houders voor gassen of gevaarlijke stoffen</td>
-			<td>500 euro</td>
+			<td>100 euro</td>
 		</tr>
 		<tr>
 			<td>- milieudeskundige in de discipline bodemcorrosie</td>
-			<td>500 euro</td>
+			<td>100 euro</td>
 		</tr>
 		<tr>
 			<td>- milieudeskundige in de discipline geluid en trillingen</td>
-			<td>500 euro</td>
+			<td>100 euro</td>
 		</tr>
 		<tr>
 			<td>- MER-deskundige</td>
@@ -4547,19 +4554,31 @@ B. Retributie voor de uitoefening van het toezicht op de erkenning<br>
 		</tr>
 		<tr>
 			<td>a) voor een eerste discipline</td>
-			<td>500 euro</td>
+			<td>100 euro</td>
 		</tr>
 		<tr>
 			<td>b) per bijkomende discipline</td>
-			<td>125 euro</td>
+			<td>25 euro</td>
 		</tr>
 		<tr>
 			<td>- VR-deskundige</td>
-			<td>500 euro</td>
+			<td>100 euro</td>
 		</tr>
 		<tr>
 			<td>- airco-energiedeskundige</td>
-			<td>125 euro</td>
+			<td>25 euro</td>
+		</tr>
+		<tr>
+			<td>- MER-coördinator</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>a) indien niet erkend als MER-deskundige</td>
+			<td>100 euro</td>
+		</tr>
+		<tr>
+			<td>b) indien erkend als MER-deskundige</td>
+			<td>25 euro</td>
 		</tr>
 		<tr>
 			<td>technici</td>
@@ -4567,35 +4586,35 @@ B. Retributie voor de uitoefening van het toezicht op de erkenning<br>
 		</tr>
 		<tr>
 			<td>- technicus vloeibare brandstof</td>
-			<td>125 euro</td>
+			<td>25 euro</td>
 		</tr>
 		<tr>
 			<td>- technicus gasvormige brandstof</td>
-			<td>125 euro</td>
+			<td>25 euro</td>
 		</tr>
 		<tr>
 			<td>- technicus verwarmingsaudit</td>
-			<td>125 euro</td>
+			<td>25 euro</td>
 		</tr>
 		<tr>
 			<td>- technicus stookolietanks</td>
-			<td>125 euro</td>
+			<td>25 euro</td>
 		</tr>
 		<tr>
 			<td>- koeltechnicus</td>
-			<td>125 euro</td>
+			<td>25 euro</td>
 		</tr>
 		<tr>
 			<td>- technicus voor brandbeveiligingsapparatuur</td>
-			<td>125 euro</td>
+			<td>25 euro</td>
 		</tr>
 		<tr>
 			<td>- technicus voor elektrische schakelinrichtingen</td>
-			<td>125 euro</td>
+			<td>25 euro</td>
 		</tr>
 		<tr>
 			<td>- technicus voor apparatuur die oplosmiddelen bevat</td>
-			<td>125 euro</td>
+			<td>25 euro</td>
 		</tr>
 		<tr>
 			<td>- technicus voor klimaatregelingsapparatuur in bepaalde motorvoertuigen</td>
@@ -4607,11 +4626,23 @@ B. Retributie voor de uitoefening van het toezicht op de erkenning<br>
 		</tr>
 		<tr>
 			<td>- milieucoördinatoren</td>
-			<td>250 euro</td>
+			<td>50 euro</td>
 		</tr>
 		<tr>
 			<td>- milieuverificateurs</td>
-			<td>250 euro</td>
+			<td>50 euro</td>
+		</tr>
+		<tr>
+			<td>laboratoria</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- laboratorium in de discipline bodem, deeldomein bodembescherming of bemesting: per geregistreerd monsternemer</td>
+			<td>50 euro</td>
+		</tr>
+		<tr>
+			<td>- laboratorium in de discipline mest voor het pakket M-M6</td>
+			<td>100 euro</td>
 		</tr>
 		<tr>
 			<td>bodemsaneringsdeskundigen</td>
@@ -4619,11 +4650,11 @@ B. Retributie voor de uitoefening van het toezicht op de erkenning<br>
 		</tr>
 		<tr>
 			<td>a) type 1</td>
-			<td>250 euro</td>
+			<td>50 euro</td>
 		</tr>
 		<tr>
 			<td>b) type 2</td>
-			<td>500 euro</td>
+			<td>100 euro</td>
 		</tr>
 		<tr>
 			<td>bedrijven</td>
@@ -4635,19 +4666,19 @@ B. Retributie voor de uitoefening van het toezicht op de erkenning<br>
 		</tr>
 		<tr>
 			<td>a) voor een eerste discipline</td>
-			<td>500 euro</td>
+			<td>100 euro</td>
 		</tr>
 		<tr>
 			<td>b) per bijkomende discipline</td>
-			<td>125 euro</td>
+			<td>25 euro</td>
 		</tr>
 		<tr>
 			<td>- koeltechnisch bedrijf</td>
-			<td>500 euro</td>
+			<td>100 euro</td>
 		</tr>
 		<tr>
 			<td>- bedrijf voor brandbeveiligingsapparatuur</td>
-			<td>500 euro</td>
+			<td>100 euro</td>
 		</tr>
 	</tbody>
 </table>
