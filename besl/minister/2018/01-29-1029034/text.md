@@ -98,15 +98,15 @@ Het agentschap werkt, in overleg met het werkveld, de nadere richtlijnen uit.
 
 ### ART 11.
 
-§ 1. Het subsidiebedrag voor een mobiel aanbod aan taal- en ontwikkelingsstimulering in de voor- en vroegschoolse periode, voor een werkingsgebied met minimaal veertig kansarme geboortes, bedraagt 30.000 euro.<br>
+Om het subsidiebedrag, vermeld in artikel 61 van het besluit van 28 maart 2014, voor elk erkend en gesubsidieerd mobiel aanbod aan taal- en ontwikkelingsstimulering in de voor- en vroegschoolse periode vast te stellen, wordt een vast bedrag vermeerderd met een variabel bedrag.<br>
 <br>
-Binnen de gemeentegrenzen kan het subsidiebedrag, vermeld in het eerste lid, maximaal vijf keer worden aangevraagd.<br>
+Het vaste bedrag, vermeld in het eerste lid, bedraagt voor een erkend en gesubsidieerd mobiel aanbod aan taal- en ontwikkelingsstimulering in de voor- en vroegschoolse periode 46.000 euro (zesenveertigduizend euro) per gemeente in het werkingsgebied.<br>
 <br>
-Het totale beschikbare budget voor de subsidie bedraagt 570.000 euro.<br>
+Om het variabele bedrag, vermeld in het eerste lid, te berekenen, geldt een basisbedrag dat bestaat uit het aantal minderjarigen in het werkingsgebied, vermenigvuldigd met 0,60 euro (zestig cent). Het basisbedrag wordt vermeerderd met het bedrag dat verkregen wordt door de samengestelde indicator te vermenigvuldigen met 20% van het basisbedrag en met een bedrag dat rekening houdt met de evolutie van de geldelijke anciënniteit, vermeld in artikel 61, § 1/1, eerste lid, 3°, van het besluit van 28 maart 2014.<br>
 <br>
-§ 2. Het subsidiebedrag, vermeld in paragraaf 1, eerste lid, wordt op gemeentelijk niveau vermeerderd met een variabel bedrag, met een plafond van 6.600 euro. Voor de berekening van het variabele bedrag geldt een basisbedrag van 1,00 euro per minderjarige die woont in de gemeente in kwestie. Het variabele bedrag wordt nog vermeerderd met 1,00 euro per minderjarige, vermenigvuldigd met 20% van de samengestelde indicator.<br>
+Het maximale subsidiebedrag dat aan een erkend en gesubsidieerd mobiel aanbod aan taal- en ontwikkelingsstimulering in de voor- en vroegschoolse periode kan worden toegekend, rekening houdend met de beschikbare begrotingskredieten, bedraagt 652.701,82 euro (zeshonderdtweeënvijftigduizend zevenhonderdeneen euro tweeëntachtig cent).<br>
 <br>
-Het totale beschikbare budget voor het variabele deel van de subsidie bedraagt 70.000 euro. Als de som van de toegekende subsidiebedragen het beschikbare budget zou overschrijden, worden de subsidiebedragen proportioneel verminderd.
+De subsidie, vermeld in dit artikel, is gekoppeld aan de spilindex die van toepassing is op 1 januari 2019. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
 
 ## HOOFDSTUK 4. Procedures
 
