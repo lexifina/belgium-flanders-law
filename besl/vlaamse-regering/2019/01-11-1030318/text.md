@@ -73,6 +73,38 @@ In het eerste en het derde jaar van de vierjaarlijkse periode wordt per kwartaal
 
 ## HOOFDSTUK 3. Subsidies voor jeugdwerk met maatschappelijk kwetsbare kinderen en jongeren
 
+### ART 3.
+
+§ 1. Het jeugdwerkinitiatief stelt ten minste acht voltijdse equivalenten met een inhoudelijke taakstelling tewerk om als jeugdwerkinitiatief met maatschappelijk kwetsbare kinderen en jongeren een werkingssubsidie te verkrijgen als vermeld in artikel 5, § 1, van het decreet van 22 december 2017.<br>
+<br>
+§ 2. Het beleidsplan, vermeld in artikel 5, § 2, eerste lid, 5°, van het decreet van 22 december 2017, wordt uiterlijk op 1 juni van het laatste jaar dat voorafgaat aan de zesjarige periode ingediend bij de administratie.<br>
+<br>
+Het beleidsplan wordt opgesteld en ingediend conform de leidraad die de administratie ter beschikking stelt.<br>
+<br>
+Het beleidsplan bevat een planning voor zes jaar, met een concreet uitgewerkte inhoudelijke en financiële planning voor de eerste drie jaar.<br>
+<br>
+§ 3. De administratie formuleert aan de hand van de elementen, vermeld in artikel 5, § 2, tweede lid, van het decreet van 22 december 2017, een advies over de ingediende beleidsplannen aan de minister tegen 1 september van datzelfde jaar.<br>
+<br>
+§ 4. De minister beslist uiterlijk op 1 oktober van datzelfde jaar. Bij een beslissing die gunstig is voor het jeugdwerkinitiatief wordt ook het jaarlijks toe te kennen subsidiebedrag meegedeeld.<br>
+<br>
+§ 5. Vanaf het ogenblik dat het jeugdwerkinitiatief werkingssubsidies ontvangt, voldoet het aan de volgende voorwaarden:<br>
+1° neemt het logo van de Vlaamse Gemeenschap op op alle informatiedragers;<br>
+2° het voert een boekhouding zodat de aanwending van de subsidies op elk ogenblik financieel kan worden gecontroleerd. De administratie stelt daarvoor een boekhoudschema ter beschikking;<br>
+3° het staat toe dat de administratie en het Rekenhof de boekhouding, zo nodig ter plaatse, kunnen onderzoeken;<br>
+4° het besteedt bijzondere aandacht aan de communicatie over de gesubsidieerde initiatieven.<br>
+<br>
+§ 6. Het jeugdwerkinitiatief bezorgt de administratie uiterlijk op 31 maart van het vierde jaar van de zesjaarlijkse periode een voortgangsrapport. Het voortgangsrapport omvat een financieel en inhoudelijk verslag van de werking van de voorbije drie jaar en een concreet uitgewerkte inhoudelijke en financiële planning voor het vierde, vijfde en zesde jaar. Het voortgangsrapport wordt opgesteld en ingediend conform de leidraad die de administratie ter beschikking stelt.<br>
+<br>
+Als blijkt uit het voortgangsrapport dat de toegekende subsidies hoger zijn dan de door het jeugdwerkinitiatief verantwoorde uitgaven, wordt het teveel ingehouden van het nog uit te keren saldo van de subsidie en wordt het bedrag dat eventueel daarna nog resteert, in mindering gebracht op de nog uit te betalen subsidies, tot maximaal het bedrag van de subsidie dat toegekend is voor het derde jaar van de zesjaarlijkse periode.<br>
+<br>
+Het jeugdwerkinitiatief bezorgt de administratie uiterlijk op 31 maart van het jaar na de zesjaarlijkse periode een werkingsverslag. Het werkingsverslag omvat een financieel en inhoudelijk verslag van de werking van de voorbije drie jaar. Het werkingsverslag wordt opgesteld en ingediend conform de leidraad die de administratie ter beschikking stelt.<br>
+<br>
+Als blijkt uit het werkingsverslag dat de toegekende subsidies hoger zijn dan de door het jeugdwerkinitiatief verantwoorde uitgaven, wordt het teveel ingehouden van het nog uit te keren saldo van de subsidie en wordt het bedrag dat eventueel daarna nog resteert, in mindering gebracht op de nog uit te betalen subsidies, tot maximaal het bedrag van de subsidie dat toegekend is voor het zesde jaar van de zesjaarlijkse periode.<br>
+<br>
+In het eerste, tweede, vierde en vijfde jaar van de zesjaarlijkse periode wordt per kwartaal 25 % van het toegezegde subsidiebedrag uitbetaald. In het derde en zesde jaar van de zesjaarlijkse periode wordt per kwartaal 20 % van het toegezegde subsidiebedrag uitbetaald. Het saldo van 20 % wordt uitbetaald voor 1 juli van het jaar dat volgt op het werkjaar.<br>
+<br>
+§ 7. Als twee of meer organisaties, vermeld in artikel 13 van het decreet van 22 december 2017, uiterlijk op 1 mei 2020 fuseren, is de regeling, vermeld in artikel 5, § 4, van het voormelde decreet van 22 december 2017 van toepassing op de fusieorganisatie.
+
 ## HOOFDSTUK 4. Subsidies voor jeugdwerk met kinderen en jongeren met een handicap
 
 ### ART 4.
@@ -138,6 +170,34 @@ Als uit de bewijsstukken van het projectverslag blijkt dat de uitgekeerde subsid
 4° het besteedt bijzondere aandacht aan de communicatie over het gesubsidieerde project.
 
 ## HOOFDSTUK 5. Subsidies voor structurele intergemeentelijke samenwerking
+
+### ART 6.
+
+§ 1. Het beleidsplan, vermeld in artikel 8, § 2, 2°, van het decreet van 22 december 2017, wordt uiterlijk op 1 juni van het laatste jaar dat voorafgaat aan de zesjarige periode ingediend bij de administratie.<br>
+<br>
+Het beleidsplan wordt opgesteld en ingediend conform de leidraad die de administratie ter beschikking stelt.<br>
+<br>
+Het beleidsplan bevat een planning voor zes jaar, met een concreet uitgewerkte inhoudelijke en financiële planning voor de eerste drie jaar.<br>
+<br>
+§ 2. De administratie formuleert aan de hand van de elementen, vermeld in artikel 8, § 2, tweede lid, van het decreet van 22 december 2017, een advies over de ingediende beleidsplannen aan de minister tegen 1 september van datzelfde jaar.<br>
+<br>
+§ 3. De minister beslist uiterlijk op 1 oktober van datzelfde jaar. Bij een beslissing die gunstig is voor de projectvereniging wordt ook het jaarlijks toe te kennen subsidiebedrag meegedeeld.<br>
+<br>
+§ 4. Vanaf het ogenblik dat de projectvereniging werkingssubsidies ontvangt, voldoet ze aan de volgende voorwaarden:<br>
+1° ze neemt het logo van de Vlaamse Gemeenschap op op alle informatiedragers;<br>
+2° ze voert een boekhouding zodat de aanwending van de subsidies op elk ogenblik financieel kan worden gecontroleerd. De administratie stelt daarvoor een boekhoudschema ter beschikking.<br>
+3° ze staat toe dat de administratie en het Rekenhof de boekhouding, zo nodig ter plaatse, kunnen onderzoeken;<br>
+4° ze besteedt bijzondere aandacht aan de communicatie over de gesubsidieerde initiatieven.<br>
+<br>
+§ 5. De projectvereniging bezorgt de administratie uiterlijk op 31 maart van het vierde jaar van de zesjaarlijkse periode een voortgangsrapport. Het voortgangsrapport omvat een financieel en inhoudelijk verslag van de werking van de voorbije drie jaar en een concreet uitgewerkte inhoudelijke en financiële planning voor het vierde, vijfde en zesde jaar. Het voortgangsrapport wordt opgesteld en ingediend conform de leidraad die de administratie ter beschikking stelt.<br>
+<br>
+Als blijkt uit het voortgangsrapport dat de toegekende subsidies hoger zijn dan de door de projectvereniging verantwoorde uitgaven, wordt het teveel ingehouden van het nog uit te keren saldo van de subsidie en wordt het bedrag dat eventueel daarna nog resteert, in mindering gebracht op de nog uit te betalen subsidies, tot maximaal het bedrag van de subsidie dat toegekend is voor het derde jaar van de zesjaarlijkse periode.<br>
+<br>
+De projectvereniging bezorgt de administratie uiterlijk op 31 maart van het jaar na de zesjaarlijkse periode een werkingsverslag. Het werkingsverslag omvat een financieel en inhoudelijk verslag van de werking van de voorbije drie jaar. Het werkingsverslag wordt opgesteld en ingediend conform de leidraad die de administratie ter beschikking stelt.<br>
+<br>
+Als blijkt uit het werkingsverslag dat de toegekende subsidies hoger zijn dan de door de projectvereniging verantwoorde uitgaven, wordt het teveel ingehouden van het nog uit te keren saldo van de subsidie en wordt het bedrag dat eventueel daarna nog resteert, in mindering gebracht op de nog uit te betalen subsidies, tot maximaal het bedrag van de subsidie dat toegekend is voor het zesde jaar van de zesjaarlijkse periode.<br>
+<br>
+In het eerste, tweede, vierde en vijfde jaar van de zesjaarlijkse periode wordt per kwartaal 25 % van het toegezegde subsidiebedrag uitbetaald. In het derde en zesde jaar van de zesjaarlijkse periode wordt per kwartaal 20 % van het toegezegde subsidiebedrag uitbetaald. Het saldo van 20 % wordt uitbetaald voor 1 juli van het jaar dat volgt op het werkjaar.
 
 ## HOOFDSTUK 6. Bezwaar en reservevorming
 
