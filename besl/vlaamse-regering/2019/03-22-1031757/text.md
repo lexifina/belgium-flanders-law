@@ -759,6 +759,55 @@ In artikel 4.3.9 van hetzelfde besluit, ingevoegd bij besluit van de Vlaams Rege
 
 In artikel 4.3.10 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 23 mei 2014, worden de woorden "aangetekende brief" vervangen door de woorden "beveiligde zending".
 
+### ART 46.
+
+Artikel 4.5.1 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 4 mei 2012, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 4.5.1. Voor de volgende afvalstoffen zijn de verwerkingshandelingen "D1 - storten op of in de bodem" en "D5 - verwijderen op speciaal ingerichte locaties", alsook de afvoer voor het toepassen van de verwijderingshandeling "D1 - storten op of in de bodem" en "D5 - verwijderen op speciaal ingerichte locaties", verboden:<br>
+1° afvalstoffen waarvoor conform artikel 4.5.2 van dit besluit een verbrandingsverbod geldt;<br>
+2° oude en vervallen geneesmiddelen;<br>
+3° andere brandbare afvalstoffen zoals wordt verstaan onder artikel 46, § 1, van het Materialendecreet.<br>
+<br>
+In afwijking van het eerste lid vallen brandbare recyclageresidu's waarvoor conform artikel 46, § 2, van het Materialendecreet een verlaagde heffing geldt voor het storten ervan en recyclageresidu's van fysicochemische grondreiniging conform artikel 46, § 1, 6° tot en met 8°, niet onder het stortverbod.".
+
+### ART 47.
+
+In artikel 4.5.2 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 23 mei 2014 en 22 december 2017, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° paragraaf 1 wordt vervangen door wat volgt:<br>
+" § 1. Onverminderd artikel 6.11.1 van titel II van het VLAREM, zijn voor de volgende afvalstoffen de verwerkingshandelingen "R1 - hoofdgebruik als brandstof of als ander middel voor energieopwekking" en "D10 - verbranding op het land", alsook de afvoer voor het toepassen van de verwerkingshandelingen "R1 - hoofdgebruik als brandstof of als ander middel voor energieopwekking" en "D10 - verbranding op het land", verboden:<br>
+1° afvalstoffen die voor de recyclage ervan afzonderlijk zijn ingezameld;<br>
+2° afvalstoffen die door hun aard of hun hoeveelheid of hun homogeniteit overeenkomstig de meest geschikte en beschikbare technieken in aanmerking komen voor hergebruik of recyclage, al dan niet na voorbehandeling of verdere uitsortering;<br>
+3° huishoudelijk restafval dat niet conform artikel 4.3.1 werd ingezameld;<br>
+4° bedrijfsrestafval dat niet conform artikel 4.3.2 werd ingezameld. De minister kan hiervoor een code van goede praktijk opstellen waarin de minimale wijze van inzameling, van uitsorteren en resultaatsvoorschriften worden vastgelegd. Wanneer de code van goede praktijk wordt nageleefd, kunnen deze afvalstoffen alsnog verbrand worden;<br>
+5° grofvuil dat nog niet werd gesorteerd met als doel de recycleerbare materialen te valoriseren.".<br>
+<br>
+2° er wordt een paragraaf 3 toegevoegd, die luidt als volgt:<br>
+" § 3. In afwijking van paragraaf 1 vallen de volgende afvalstoffen niet onder het verbrandingsverbod:<br>
+1° onbehandeld houtafval dat in de houtverwerkende industrie wordt geproduceerd en dat door de producent in de eigen onderneming nuttig wordt toegepast als energiebron;<br>
+2° de houtige fractie afkomstig van het behandelen van plagsel en choppermateriaal;<br>
+3° recyclageresidu's waarvoor conform artikel 46, § 1, van het Materialendecreet een verlaagde heffing geldt voor het verbranden of meeverbranden ervan.".
+
+### ART 48.
+
+In artikel 4.5.3 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 4 mei 2012 en 22 december 2017, worden paragraaf 1 en 2 vervangen door wat volgt:<br>
+<br>
+" § 1. De minister kan bij gemotiveerd besluit individuele afwijkingen toestaan van de verbodsbepalingen, vermeld in artikel 4.5.1, eerste lid, en artikel 4.5.2, § 1.<br>
+<br>
+§ 2. De afwijking wordt schriftelijk aan de OVAM aangevraagd door de exploitant van de stortplaats of verbrandingsinstallatie of, in geval van uitvoer van de afvalstoffen, door de afvalstoffenproducent, -makelaar of -handelaar.<br>
+<br>
+De OVAM bepaalt de vorm van de afwijkingsaanvraag. De afwijkingsaanvraag bevat de volgende elementen:<br>
+1° de identificatie van de aanvrager;<br>
+2° de identificatie van de afvalstof;<br>
+3° de motivering voor de afwijkingsaanvraag;<br>
+4° de periode waarvoor de afwijking wordt aangevraagd.<br>
+<br>
+De OVAM verleent binnen 45 kalenderdagen na de ontvangst van de volledig verklaarde aanvraag een advies aan de minister. De minister doet uitspraak over de afwijkingsaanvraag binnen negentig kalenderdagen na de indiening ervan. De beslissing van de minister wordt met een beveiligde zending bezorgd aan de aanvrager binnen veertien kalenderdagen na de datum van de beslissing.<br>
+<br>
+De afwijkingen kunnen voor maximaal vijf jaar worden toegestaan.<br>
+<br>
+De verleende afwijkingen worden bekendgemaakt in het Belgisch Staatsblad en op de website van de OVAM.".
+
 ### ART 49.
 
 In artikel 5.1.3, lid 1, punt 6 van hetzelfde besluit wordt het woord "containerparken" vervangen door het woord "recyclageparken".
