@@ -173,7 +173,7 @@ In artikel 64, § 3, van het decreet van 15 juli 1997 houdende de Vlaamse Woonco
 
 ### ART. 19.
 
-<p>§ 1. Er wordt een begrotingsfonds als vermeld in artikel 12, § 1, van het decreet van 8 juli 2011 houdende de regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof opgericht, genaamd Fonds voor de Wooninspectie.<br>
+<p>§ 1. Er wordt een begrotingsfonds&nbsp;als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 opgericht, genaamd Fonds voor de Wooninspectie.<br>
 <br>
 De ontvangsten die gerealiseerd worden op grond van de artikelen 20bis tot en met 20quater, artikel 29bis en 102bis van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode worden toegewezen aan het Fonds voor de Wooninspectie.<br>
 <br>
