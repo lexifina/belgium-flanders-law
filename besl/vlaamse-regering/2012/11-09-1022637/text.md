@@ -414,6 +414,12 @@ Het agentschap houdt daarbij rekening met de bepalingen van artikel 80.</p>
 
 <P>Binnen de marge van de begrotingskredieten kan er een tegemoetkoming voor de   anciënniteitsontwikkeling worden gegeven aan het organiserend bestuur van het   CKG die een meerkost ervaart doordat de gemiddelde geldelijke anciënniteit van   het geheel van het personeel van het CKG 10 jaar overschrijdt.<BR></P>  <P>De minister legt de nadere bepalingen vast met betrekking tot de berekening   en de uitbetaling van de tegemoetkoming. Met betrekking tot de berekening houdt   de minister minstens rekening met de toepasselijke salarisschaal, het aantal   jaar geldelijke anciënniteit en het percentage voltijds equivalent volgens   dewelke elk personeelslid in een CKG werkzaam is.<BR></P>
 
+### ART 54/1.
+
+Aan elk CKG wordt, bovenop de subsidie-enveloppe, een bijkomende subsidie toegekend tot uitvoering van het vierde Vlaamse Intersectoraal Akkoord van 2 december 2011 voor de private social- en non-profitsectoren voor de periode 2011 tot 2015 en het vijfde Vlaams Intersectoraal Akkoord van 8 juni 2018 voor de social/non profitsectoren voor de periode 2018-2020.<br>
+<br>
+Bij de pro-rata verdeling van de beschikbare middelen over de CKG's houdt het agentschap rekening met het aantal voltijdse equivalenten per CKG.
+
 ### ART. 55.
 
 <P>Aan elk CKG worden, bovenop de subsidie-enveloppe, subsidies toegekend om aan   de minderjarigen die minimaal één maand residentieel in het CKG verblijven,   zakgeld te betalen. De bedragen van het zakgeld worden, naargelang de leeftijd   van de minderjarigen als volgt vastgesteld :<BR>1° voor minderjarigen van 6 tot   8 jaar : 5,62 euro per maand;<BR>2° voor minderjarigen van 8 tot 12 jaar : 11,19   euro per maand;<BR>3° voor minderjarigen van 12 tot 14 jaar : 22,39 euro per   maand.<BR></P>  <P>Bij wijziging van leeftijdsgroep gaat het hoger tarief in vanaf de maand die   volgt op de verjaardag.<BR></P>  <P>Het zakgeld wordt op het einde van de maand van het verblijf uitbetaald en   wordt door de voorziening gestaafd aan de hand van een ontvangstbewijs dat door   de minderjarigen wordt gedateerd en ondertekend.<BR></P>
