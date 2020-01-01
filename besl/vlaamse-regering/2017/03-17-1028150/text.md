@@ -66,6 +66,20 @@ Art. 17/1. Binnen de beschikbare begrotingskredieten kunnen aan erkende centra v
 
 Aan hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 26 februari 2016, wordt een bijlage XVII toegevoegd, die bij dit besluit is gevoegd.
 
+### ART 9.
+
+In bijlage XVII van hetzelfde besluit, toegevoegd bij artikel 8 van dit besluit, worden de volgende wijzigingen aangebracht:<br>
+1° in artikel 1 wordt punt 3° opgeheven;<br>
+2° in artikel 2:<br>
+a) worden in het eerste lid de woorden "het VIPA" vervangen door de woorden "de administrateur-generaal";<br>
+b) wordt in het vijfde lid het woord "VIPA" vervangen door het woord "agentschap";<br>
+c) worden in het zesde lid de woorden "leidend ambtenaar van het VIPA" vervangen door het woord "administrateur-generaal" en wordt in dat lid het woord "VIPA" vervangen door het woord "agentschap";<br>
+d) worden in het zevende lid de woorden "leidend ambtenaar van het VIPA" telkens vervangen door het woord "administrateur-generaal" en wordt in dat lid het woord "VIPA" vervangen door "agentschap";<br>
+e) wordt in het achtste lid het woord "VIPA" vervangen door het woord "agentschap";<br>
+3° in artikel 5, § 2, wordt in het eerste lid het woord "VIPA" vervangen door het woord "agentschap";<br>
+4° artikel 7 wordt opgeheven;<br>
+5° een artikel 10 wordt toegevoegd, dat luidt als volgt:
+
 ## HOOFDSTUK 2 Wijziging van het ministerieel besluit van 12 augustus 2005 houdende bijzondere bepalingen inzake prijzen voor de sector van de instellingen voor bejaardenopvang
 
 ### ART 10.
