@@ -182,7 +182,7 @@ De volgende centra en diensten kunnen erkend worden als multidisciplinair team:<
 1° de centra voor leerlingenbegeleiding georganiseerd, gesubsidieerd of erkend door de Vlaamse Gemeenschap. Leerlingen of studenten richten zich, conform de organieke wetgeving en reglementering betreffende deze instanties, tot het centrum aan wiens begeleiding zij werden toevertrouwd;<br>
 2° de door de Vlaamse Gemeenschap erkende en gesubsidieerde centra voor maatschappelijk werk die wegens hun organisatie en hun werking behoren tot een landsbond of verbond van ziekenfondsen en de diensten voor geestelijke gezondheidszorg;<br>
 3° de centra of diensten voor revalidatie die door het Fonds erkend zijn, of die met het RIZIV een revalidatieovereenkomst gesloten hebben als referentiecentrum of voor motorische of respiratoire revalidatie bij kinderen, de door het agentschap erkende centra voor observatie, oriëntering, medische, psychologische en pedagogische behandeling van gehandicapten;<br>
-4° de centra voor ontwikkelingsstoornissen, gesubsidieerd door het agentschap;<br>
+4° de centra voor ontwikkelingsstoornissen, erkend door het agentschap Opgroeien regie, opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 5° de observatiecentra, erkend of georganiseerd door de Vlaamse Gemeenschap in het kader van de gecoördineerde decreten inzake bijzondere jeugdbijstand;<br>
 6° de subregionale tewerkstellingsdiensten van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
 7° de kinderpsychiatrische ziekenhuisdiensten, erkend onder de kenletter K.<br>
