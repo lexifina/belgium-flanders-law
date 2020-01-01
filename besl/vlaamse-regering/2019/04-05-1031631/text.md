@@ -410,7 +410,7 @@ In artikel 2 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Re
 <br>
 7° in het derde lid, dat het vierde lid wordt, wordt punt 3° vervangen door wat volgt:<br>
 <br>
-"3° als het inkomen van de kandidaat-huurder, vermeerderd met het inkomen van de inwonende gezinsleden en rekening houdende met het aantal personen ten laste, de grenzen vermeld in artikel 3, § 2 van het Kaderbesluit Sociale Huur van 12 oktober 2007, overschrijdt;";<br>
+"3° als het inkomen van de kandidaat-huurder, vermeerderd met het inkomen van de inwonende gezinsleden en rekening houdende met het aantal personen ten laste, de grenzen vermeld in artikel 3, §&nbsp;3 van het Kaderbesluit Sociale Huur van 12 oktober 2007, overschrijdt;";<br>
 <br>
 8° in het derde lid, dat het vierde lid wordt, wordt punt 4° vervangen door wat volgt:<br>
 <br>

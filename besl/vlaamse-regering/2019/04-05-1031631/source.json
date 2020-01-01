@@ -2,16 +2,16 @@
   "codex_id": 1031631,
   "title": "Besluit van de Vlaamse Regering van 2019-04-05 tot wijziging van het besluit van de Vlaamse Regering van 2 februari 2007 tot instelling van een tegemoetkoming in de huurprijs voor woonbehoeftige huurders en het besluit van de Vlaamse Regering van 4 mei 2012 tot instelling van een tegemoetkoming voor kandidaat-huurders",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031631/VolledigDocument?datum=2019-05-01",
-  "source_sha256": "0e377525f7703d9ea54653e401ad66e8f7a47e8e59b8b1c34698674173e0badf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031631/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "df7c864a92b329317eb9430d1f07a1fe8d29eeb75865c63a17c22de7f39edb61",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031631&param=informatie",
-  "as_of": "2019-05-01",
+  "as_of": "2020-01-01",
   "made": "2019-04-05",
   "gazette": "2019-04-30",
   "numac": 2019041051,
   "document_start": "2019-05-01",
   "document_end": null,
-  "in_force": "2019-05-01",
+  "in_force": "2020-01-01",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2019-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
