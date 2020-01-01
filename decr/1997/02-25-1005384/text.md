@@ -646,11 +646,11 @@ Tegen deze beslissing is beroep mogelijk zoals voorzien in artikel 37/4.
 
 ### ART. 34.
 
-§ 1. Leerlingen voor wie het door ziekte of ongeval tijdelijk onmogelijk is om onderwijs te volgen in hun school hebben recht op tijdelijk onderwijs aan huis.<br>
+§ 1. Leerlingen voor wie het door ziekte of ongeval tijdelijk onmogelijk is om onderwijs te volgen in hun school hebben recht op tijdelijk onderwijs aan huis. De regering kan bijkomend mogelijke redenen van de afwezigheid bepalen. Deze redenen dienen gerechtvaardigd en gegrond te zijn en worden gemotiveerd en geattesteerd door een bevoegde derde.<br>
 <br>
-§ 2. De regering legt de voorwaarden vast om in aanmerking te komen voor tijdelijk onderwijs aan huis. De regering maakt hierbij een onderscheid tussen een veelvuldige afwezigheid omwille van een chronische ziekte en een langdurige afwezigheid.<br>
+§ 2. De regering legt de voorwaarden vast om in aanmerking te komen voor tijdelijk onderwijs aan huis. De regering maakt hierbij een onderscheid tussen een veelvuldige afwezigheid&nbsp;en een langdurige afwezigheid.<br>
 <br>
-Een afwezigheid van minder dan eenentwintig kalenderdagen is geen langdurige afwezigheid voor de toepassing van dit artikel tenzij het gaat om een veelvuldige afwezigheid vanwege een chronische ziekte.<br>
+Een afwezigheid van minder dan eenentwintig kalenderdagen is geen langdurige afwezigheid voor de toepassing van dit artikel tenzij het gaat om een veelvuldige afwezigheid.<br>
 <br>
 § 3. De regering bepaalt hoe het onderwijs aan huis georganiseerd wordt, welke vorm van hulp de school krijgt om het onderwijs aan huis te organiseren en de voorwaarden tot het verkrijgen van lestijden tijdelijk onderwijs aan huis, alsook het aantal en de wijze van berekening ervan.<br>
 <br>
@@ -676,12 +676,12 @@ De regering bepaalt op welke wijze het permanent onderwijs aan huis georganiseer
 
 ### ART 36/1.
 
-§ 1. Synchroon internetonderwijs, verder in deze onderafdeling SIO te noemen, biedt leerlingen voor wie het door ziekte of ongeval tijdelijk onmogelijk is om onderwijs te volgen in hun school de mogelijkheid om op afstand, via digitale toepassingen, rechtstreeks en in interactie met de leerkrachten en klasgenoten de lessen te volgen.<br>
+§ 1. Synchroon internetonderwijs, verder in deze onderafdeling SIO te noemen, biedt leerlingen voor wie het&nbsp;tijdelijk onmogelijk is om onderwijs te volgen in hun school de mogelijkheid om op afstand, via digitale toepassingen, rechtstreeks en in interactie met de leerkrachten en klasgenoten de lessen te volgen.<br>
 SIO ondersteunt het leerproces, beperkt de leerachterstand en bereidt de terugkeer naar school voor. Door SIO blijft de band van de afwezige leerling met de school, leerkrachten en medeleerlingen behouden.<br>
 <br>
 § 2. Leerlingen komen in aanmerking voor SIO als aan volgende voorwaarden voldaan is:<br>
 1° de leerling wordt minstens 5 jaar vóór 1 januari van het lopende schooljaar;<br>
-2° de school beschikt over bewijsstukken voor de afwezigheid van de leerling ten gevolge van ziekte of ongeval;<br>
+2° de leerling is afwezig wegens ziekte of ongeval en de school beschikt over de bewijsstukken;<br>
 3° het gebruik van SIO is verenigbaar met de medische toestand van de leerling. De ouders brengen de behandelende arts op de hoogte; de school informeert de CLB-arts;<br>
 4° SIO is voor de betrokken leerling haalbaar en zinvol:<br>
 a) SIO komt tegemoet aan de ondersteuningsbehoefte van de leerling conform paragraaf 1, tweede lid. SIO wordt niet aangewend als permanent alternatief voor onderwijs op school;<br>
@@ -689,6 +689,8 @@ b) op basis van het ziektebeeld en de inschatting van het ziekteverloop mag aang
 c) de leerling en de school maken er optimaal gebruik van. Het CLB is betrokken.<br>
 <br>
 De regering kan bijkomende criteria met betrekking tot zinvolheid en haalbaarheid voor de leerling vastleggen.<br>
+<br>
+§ 2/1. De Vlaamse Regering kan bijkomende in aanmerking komende leerlingen en de respectieve voorwaarden bepalen. De redenen voor de afwezigheid op school dienen gerechtvaardigd en gegrond te zijn en worden gemotiveerd en geattesteerd door een bevoegde derde.<br>
 <br>
 § 3. Het schoolbestuur is verplicht om de ouders van leerlingen die recht hebben of zullen hebben op SIO te informeren over het recht op, de mogelijkheden en de modaliteiten van SIO.<br>
 <br>
@@ -1817,7 +1819,7 @@ b) Cx-2 : de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<b
 5° in afwijking van punt 2° is voor het begrotingsjaar 2013 de coëfficiënt A2 = 0,6(Cx-1/Cx-2) + 0,4.<br>
 6° in afwijking van punt 2° is voor het begrotingsjaar 2015 de coëfficiënt A2 = 0,6(Cx-1/Cx-2) + 0,4;<br>
 7° het bedrag voor begrotingsjaar 2015 verkregen na toepassing van § 3, 1°, en § 3, 6°, wordt verminderd met 8.101.000 euro;<br>
-8° het bedrag voor begrotingsjaar 2020 verkregen na toepassing van paragraaf 3, 1° en 2°, wordt verhoogd met 70.282.000 euro.<br>
+8° het bedrag voor begrotingsjaar 2020 verkregen na toepassing van paragraaf 3, 1° en 2°, wordt verhoogd met 69.545.000 euro.<br>
 <br>
 De A2-coëfficiënt wordt voor 100 % in rekening gebracht.<br>
 <br>
@@ -1974,7 +1976,7 @@ b) Cx-2 : de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<b
 5° in afwijking van punt 2° is voor het begrotingsjaar 2013 de coëfficiënt A2 = 0,6(Cx-1/Cx-2) + 0,4.<br>
 6° in afwijking van punt 2° is voor het begrotingsjaar 2015 de coëfficiënt A2 = 0,6(Cx-1/Cx-2) + 0,4;<br>
 7° het bedrag voor begrotingsjaar 2015, verkregen na toepassing van § 3, 1°, en § 3, 6°, wordt verminderd met 731.000 euro;<br>
-8° het bedrag voor begrotingsjaar 2020 verkregen na toepassing van § 3, 1° en 2°, wordt verhoogd met 994.000 euro.<br>
+8° het bedrag voor begrotingsjaar 2020 verkregen na toepassing van § 3, 1° en 2°, wordt verhoogd met 983.000 euro.<br>
 <br>
 De A2-coëfficiënt wordt voor 100 % in rekening gebracht.<br>
 <br>
