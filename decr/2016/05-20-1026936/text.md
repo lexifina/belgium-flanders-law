@@ -40,7 +40,7 @@ De subsidie, vermeld in artikel 2/1, § 1, wordt als volgt beschikbaar gesteld:<
 
 ### ART 2/4.
 
-Met de subsidie, vermeld in artikel 2/1, § 1, kan een reserve worden aangelegd conform het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle ervan, en de controle door het Rekenhof.
+Met de subsidie, vermeld in artikel 2/1, § 1, kan een reserve worden aangelegd conform artikel 75 en 76 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
 ## HOOFDSTUK 3. - Wijziging van het decreet van 21 december 1994 houdende bepalingen tot begeleiding van de begroting 1995
 
