@@ -2,16 +2,16 @@
   "codex_id": 1021862,
   "title": "Decreet van 2012-06-01 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2012",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021862/VolledigDocument?datum=2012-05-01",
-  "source_sha256": "218d86e5b265ed4ba2163aa23867f8f7bf991062c4f340c7ef014dad88b37f77",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021862/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "f9d2156916aaad8628ce51632a5514650511295cc3e363182a27b0748dcf5a3a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021862&param=informatie",
-  "as_of": "2012-05-01",
+  "as_of": "2020-01-01",
   "made": "2012-06-01",
   "gazette": "2012-06-22",
   "numac": 2012203372,
   "document_start": "2012-01-01",
   "document_end": null,
-  "in_force": "2012-05-01",
+  "in_force": "2020-01-01",
   "article_versions": 33,
-  "record_form": "consolidated version as in force on 2012-05-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
