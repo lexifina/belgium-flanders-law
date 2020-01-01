@@ -877,9 +877,12 @@ De specifieke projecten of instellingen die in dit deel IV worden behandeld zijn
 ### ART IV.2.
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder :<br>
-1° dienst : een dienst neuropsychiatrie voor kinderen, zoals bedoeld in artikel 2 van het koninklijk besluit van 23 oktober 1964 tot bepaling van de normen die door de ziekenhuizen en hun diensten moeten worden nageleefd;<br>
+1° dienst:<br>
+a) dienst neuropsychiatrie voor kinderen, zoals bedoeld in artikel 2 van het koninklijk besluit van 23 oktober 1964 tot bepaling van de normen die door de ziekenhuizen en hun diensten moeten worden nageleefd;<br>
+b) door de Vlaamse Regering bepaalde categorie van diensten of voorzieningen waarvan de werking veroorzaakt dat de jongeren die er verblijven niet naar een school kunnen gaan;<br>
 2° ouders : de personen die het ouderlijk gezag uitoefenen of in rechte of in feite een jongere onder hun bewaring hebben. In het geval de jongere meerderjarig is, wordt onder dit begrip de meerderjarige verstaan;<br>
-3° pedagogisch personeelslid : personeelslid van een dienst dat instaat voor het verstrekken van onderwijs.
+3° pedagogisch personeelslid : personeelslid van een dienst dat instaat voor het verstrekken van onderwijs;<br>
+4° plaats: plaats die of bed dat aanleiding geeft tot een verblijf overdag in de dienst, vermeld in punt 1°.
 
 ## Afdeling 2 Subsidiëring
 
@@ -900,7 +903,7 @@ De subsidie-enveloppes worden toegekend op voorwaarde dat :<br>
 
 ### ART IV.5.
 
-De subsidie-enveloppes worden vastgesteld door het aantal bedden voor dag- en nachthospitalisatie en plaatsen voor daghospitalisatie te vermenigvuldigen met een door de Vlaamse Regering bepaald bedrag. Voor het begrotingsjaar 2002 is het bedrag vastgelegd op 3.000 euro.
+De subsidie-enveloppes worden vastgesteld door het aantal&nbsp;plaatsen te vermenigvuldigen met een door de Vlaamse Regering bepaald bedrag. Voor het begrotingsjaar 2002 is het bedrag vastgelegd op 3.000 euro.
 
 ### ART IV.6.
 
