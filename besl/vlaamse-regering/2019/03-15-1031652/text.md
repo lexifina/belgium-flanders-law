@@ -39,12 +39,26 @@ Besluit :
 Aan artikel 24, § 2, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, vervangen bij het besluit van de Vlaamse Regering van 24 april 2009 en gewijzigd bij het besluit van de Vlaamse Regering van 15 juli 2016, wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
 "3° Koninklijk Museum voor Schone Kunsten Antwerpen.".
 
+### ART 2.
+
+In artikel 3 van het besluit van de Vlaamse Regering van 31 maart 2006 tot operationalisering van het beleidsdomein Cultuur, Jeugd, Sport en Media, gewijzigd bij de besluiten van de Vlaamse Regering van 4 juli 2014, 27 februari 2015 en 15 juli 2016, wordt punt 4° opgeheven.
+
 ### ART 3.
 
 Aan artikel 3, 4°, van het besluit van de Vlaamse Regering van 25 juli 2014 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten van de Vlaamse Regering van 13 maart 2015, 27 februari 2015 en 31 december 2018 wordt een punt k) toegevoegd, dat luidt als volgt:<br>
 "k) het Koninklijk Museum voor Schone Kunsten Antwerpen.".
 
+### ART 4.
+
+In artikel 13/2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 22 december 2017, worden de volgende wijzigingen aangebracht:<br>
+1° tussen het woord "Biesen" en het woord "Kasteel" wordt de komma vervangen door het woord "en";<br>
+2° de woorden "en Koninklijk Museum voor Schone Kunsten Antwerpen" worden opgeheven.
+
 ## HOOFDSTUK 2. Slotbepalingen
+
+### ART 5.
+
+Het besluit van de Vlaamse Regering van 11 april 2008 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer Beheersdienst van het Koninklijk Museum voor Schone Kunsten in Antwerpen, gewijzigd bij de besluiten van de Vlaamse Regering van 28 oktober 2011, 1 juni 2012, 4 juli 2014 en 28 april 2017, wordt opgeheven.
 
 ### ART 6.
 
