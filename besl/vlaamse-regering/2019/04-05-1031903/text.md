@@ -36,6 +36,8 @@ In dit besluit wordt verstaan onder:<br>
 1° administrateur-generaal: het personeelslid dat belast is met de leiding van de administratie en van het fonds;<br>
 2° administratie: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 3° afdeling: een gedeelte van een voorziening of van een organisatie voor bijzondere jeugdzorg dat qua vestigingsplaats, organisatie, materiële infrastructuur of pedagogisch beleid verschilt van een ander gedeelte van de voorziening of van de organisatie voor bijzondere jeugdzorg;<br>
+3° /1 afzondering: het verblijf van een minderjarige in een individuele afzonderingskamer die daarvoor speciaal voorzien is, of in een andere individuele ruimte, die de minderjarige niet zelfstandig kan verlaten;<br>
+3° /2 afzonderingskamer: een specifiek veilig ingerichte, hoog beveiligde ruimte die de minderjarige niet zelfstandig kan verlaten;<br>
 4° bemiddeling: de bemiddeling, vermeld in artikel 2, 1°, van het decreet van 15 februari 2019;<br>
 5° betrokken partij: de minderjarige, de ouders, en in voorkomend geval zijn opvoedingsverantwoordelijken, betrokken personen uit zijn leefomgeving en de betrokken jeugdhulpaanbieders;<br>
 6° capaciteit: het aantal minderjarigen dat een erkende voorziening mag opnemen of begeleiden;<br>
@@ -44,7 +46,7 @@ In dit besluit wordt verstaan onder:<br>
 9° dagbegeleiding: de breedsporige ondersteuning van de minderjarige gedurende een bepaald deel van de dag in een aangepaste omgeving;<br>
 10° decreet van 17 oktober 2003: het decreet van 17 oktober 2003 betreffende de kwaliteit van gezondheids- en welzijnsvoorzieningen;<br>
 11° decreet van 7 mei 2004: het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp;<br>
-12° decreet van XX: het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
+12° decreet van 15 februari 2019: het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
 13° decreet van 12 juli 2013: het decreet van 12 juli 2013 betreffende integrale jeugdhulp ;<br>
 14° departement Onderwijs en Vorming: het departement opgericht bij artikel 22 § 1 van het besluit van de Vlaamse regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 15° erkende voorzieningen: de voorzieningen die conform de bepalingen van hoofdstuk 2 van dit besluit zijn erkend;<br>
@@ -52,6 +54,7 @@ In dit besluit wordt verstaan onder:<br>
 17° gebruiker: een gebruiker als vermeld in artikel 2, 3°, van het decreet van 17 oktober 2003;<br>
 18° gemeenschapsdienst: de gemeenschapsdienst, vermeld in artikel 2, 3°, van het decreet van 15 februari 2019 ;<br>
 19° gemeenschapsinstelling: een door de overheid ingerichte instelling met een gesloten aanbod, als vermeld in artikel 2, 4° van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
+19° /1 GES+: ernstig externaliserend of internaliserend storend gedrag, in combinatie met een handicap, waarvan de impact dermate groot is dat er nood is aan continue, hoofdzakelijke residentiële ondersteuning met een semi-gesloten karakter;<br>
 20° handelingsplan: een document als vermeld in artikel 58 van het decreet van 12 juli 2013, dat wordt opgemaakt door een jeugdhulpaanbieder;<br>
 21° herstelgericht groepsoverleg: het overleg, vermeld in artikel 2, 6°, van het decreet van 15 februari 2019;<br>
 22° inputgebieden: de organisatorisch gerichte aandachtsgebieden die betrekking hebben op de activiteiten die het mogelijk maken dat de organisatie bepaalde resultaten behaalt op het vlak van leiderschap, personeelsbeleid, beleid en strategie en middelen en partnerschappen;<br>
@@ -95,7 +98,9 @@ e) gebruikersdossier;<br>
 3° categorie 3: de onthaal-, oriëntatie- en observatiecentra;<br>
 4° categorie 4: de diensten voor crisishulp aan huis;<br>
 5° categorie 5: de diensten voor herstelgerichte en constructieve afhandeling;<br>
-6° categorie 6: de organisaties voor naadloze flexibele trajecten onderwijs - welzijn.<br>
+6° categorie 6: de organisaties voor naadloze flexibele trajecten onderwijs - welzijn;<br>
+7° categorie 7: de observatie- en behandelcentra;<br>
+8° categorie 8: de centra voor ernstige gedrags- en emotionele stoornissen.<br>
 <br>
 § 2. De administrateur-generaal legt van elke erkende voorziening, met uitzondering van de voorzieningen van de categorie 5, voor elke typemodule waarvoor ze erkend is de capaciteit vast.
 
@@ -105,7 +110,7 @@ Een organisatie voor bijzondere jeugdzorg organiseert, al dan niet op beslissing
 <br>
 De hulpverlening die wordt georganiseerd door een organisatie voor bijzondere jeugdzorg heeft als finaliteit de ontwikkelings- en ontplooiingskansen van de minderjarige te vrijwaren en te versterken, en zijn maatschappelijke integratie te bevorderen. Daarbij worden zijn gezin en zijn ruimer familiaal, sociaal en professioneel netwerk betrokken.<br>
 <br>
-Een organisatie voor bijzondere jeugdzorg organiseert haar aanbod op basis van de typemodules verblijf voor -12-jarigen, verblijf voor +12-jarigen, verblijf voor 0-25-jarigen, beveiligend verblijf, contextbegeleiding kortdurend krachtgericht, contextbegeleiding laagintensief, contextbegeleiding breedsporig, contextbegeleiding kortdurend intensief, dagbegeleiding in groep, contextbegeleiding in functie van autonoom wonen basisintensiteit, contextbegeleiding in functie autonoom wonen middenintensiteit, ondersteunende begeleiding en delictgerichte contextbegeleiding, vermeld in bijlage 1, die bij dit besluit is gevoegd.<br>
+Een organisatie voor bijzondere jeugdzorg organiseert haar aanbod op basis van de typemodules verblijf voor -12-jarigen, verblijf voor +12-jarigen, verblijf voor 0-25-jarigen, beveiligend verblijf, contextbegeleiding kortdurend krachtgericht, contextbegeleiding laagintensief, contextbegeleiding breedsporig, contextbegeleiding kortdurend intensief, dagbegeleiding in groep, contextbegeleiding in functie van autonoom wonen basisintensiteit, contextbegeleiding in functie van autonoom wonen middenintensiteit, ondersteunende begeleiding en delictgerichte contextbegeleiding, vermeld in bijlage 1, die bij dit besluit is gevoegd.<br>
 <br>
 Een organisatie voor bijzondere jeugdzorg die erkend is om modules contextbegeleiding en modules contextbegeleiding in functie van autonoom wonen aan te bieden, kan, op basis van de reële noden van de gebruikers, zelf de verhouding tussen het effectieve aantal ingezette modules contextbegeleiding en contextbegeleiding in functie van autonoom wonen bepalen.<br>
 <br>
@@ -147,6 +152,18 @@ Een naadloos flexibel traject wordt altijd doorlopen met een of meer leerlingen,
 <br>
 Een organisatie voor naadloze flexibele trajecten onderwijs - welzijn wordt erkend op basis van de typemodule begeleiding in functie van onderwijs-welzijnstrajecten, vermeld in bijlage 1, die bij dit besluit is gevoegd.
 
+### ART 8/1.
+
+Een observatie- en behandelcentrum organiseert behandeling met geïntegreerde diagnostiek van minderjarigen die hem al dan niet op beslissing van een jeugdrechter of een jeugdrechtbank toevertrouwd zijn en kan een deel van zijn capaciteit inzetten voor diagnostiek als vermeld in artikel 2, § 1, 12°, van het decreet van 12 juli.<br>
+<br>
+Een observatie- en behandelcentrum wordt erkend op basis van de typemodules handelingsgerichte diagnostiek, behandeling met geïntegreerde diagnostiek, verblijf 7 dagen per week, verblijf 5 dagen per week, vermeld in bijlage 1, die bij dit besluit is gevoegd.
+
+### ART 8/2.
+
+Een centrum voor ernstige gedrags- en emotionele stoornissen organiseert verblijf en begeleiding voor minderjarigen met een normale begaafdheid tot licht verstandelijke handicap en GES+ of met een matige of ernstige verstandelijke handicap en GES+, die hem al dan niet op beslissing van een jeugdrechter of een jeugdrechtbank toevertrouwd zijn.<br>
+<br>
+Een centrum voor ernstige gedrags- en emotionele stoornissen wordt erkend op basis van de typemodules verblijf in een voorziening van categorie 8, contextbegeleiding kortdurend intensief en ondersteunende begeleiding, vermeld in bijlage 1, die bij dit besluit gevoegd is.
+
 ### ART 9.
 
 Een voorziening kan een aanvraag indienen om maximaal 10 % van haar erkende capaciteit flexibel of innovatief in te zetten.<br>
@@ -180,7 +197,7 @@ Om erkend te worden en te blijven, moet een voorziening aan al de volgende algem
 3° alleen als het door de individuele situatie van een minderjarige pedagogisch wenselijk is, mag een voorziening een minderjarige, van wie de leeftijd en het geslacht niet in overeenstemming is met haar erkenning, opnemen of begeleiden. Een dergelijke opname of begeleiding geeft geen aanspraak op een aanpassing van de subsidie;<br>
 4° de voorziening waakt erover dat haar personeelsleden van goed zedelijk gedrag zijn en dat hun gezondheidstoestand geen gevaar inhoudt voor de minderjarigen met wie ze in contact komen. Ze vraagt daarvoor minstens bij de aanwerving van elke nieuwe medewerker een attest van medische geschiktheid en een uittreksel uit het strafregister dat een model als vermeld in artikel 596, tweede lid van het Wetboek van Strafvordering omvat. Een gelijkwaardig document als het voormelde uittreksel uit het strafregister dat is verleend door andere lidstaten van de Europese Unie of door staten die ermee gelijkgesteld zijn op het vlak van de toegang tot het uitoefenen van beroepswerkzaamheden, wordt ook in aanmerking genomen;<br>
 5° de voorziening maakt op basis van de gegevens waarover ze beschikt, binnen vijfenveertig dagen na de opname van de minderjarige in de voorziening of vanaf de begeleiding, een handelingsplan op met de betrokken partijen.<br>
-Deze verplichting is niet van toepassing op de voorzieningen van de categorieën 4 tot en met 6;<br>
+Deze verplichting is niet van toepassing op de voorzieningen van de categorieën 4 tot en met 6;&nbsp;Voorzieningen van categorieën 3 en 7 maken een handelingsplan op binnen negentig dagen na de opname van de minderjarige in de voorziening of vanaf de begeleiding.<br>
 6° het handelingsplan, dat de leidraad vormt voor het pedagogisch handelen door de voorziening, bevat de volgende delen:<br>
 a) de identiteit van de minderjarige en van de andere partijen die betrokken zijn bij de hulpverlening;<br>
 b) de tussentijdse en concrete doelstellingen, in voorkomend geval ter uitvoering van de algemene doelstellingen die geformuleerd zijn in het jeugdhulpverleningsplan;<br>
@@ -191,7 +208,7 @@ f) de taakverdeling en de samenwerkingsafspraken tussen de betrokken partijen;<b
 7° een kopie van het handelingsplan wordt gecommuniceerd aan de minderjarige, rekening houdend met de bepalingen in het decreet van 7 mei 2004 en wordt, als hij jonger dan 18 jaar is, bezorgd aan zijn ouders of opvoedingsverantwoordelijken. In voorkomend geval wordt een kopie van het handelingsplan onmiddellijk opgestuurd naar de gemandateerde voorziening of naar de jeugdrechtbank en de sociale dienst;<br>
 8° het handelingsplan kan binnen de voorziening, na evaluatie en samenspraak met de betrokken partijen, worden bijgestuurd. Die bijsturing wordt schriftelijk vastgelegd. Punt 7° is van overeenkomstige toepassing;<br>
 9° de voorziening maakt minstens om de zes maanden een evolutieverslag op, dat aan de minderjarige gecommuniceerd wordt, rekening houdend met de bepalingen in het decreet van 7 mei 2004 en bezorgt het verslag aan de ouders of opvoedingsverantwoordelijken indien de minderjarige jonger is dan achttien jaar. In voorkomend geval wordt het evolutieverslag verstuurd naar de gemandateerde voorziening of naar de jeugdrechter of de jeugdrechtbank en de sociale dienst.<br>
-Deze verplichting is niet van toepassing op de voorzieningen van de categorieën 3 tot en met 6, en in situaties waarin alleen een module contextbegeleiding kortdurend krachtgericht wordt ingezet in de voorzieningen van de categorie 1;<br>
+Deze verplichting is niet van toepassing op de voorzieningen van de categorieën 3 tot en met 6, en in situaties waarin alleen een module contextbegeleiding kortdurend krachtgericht&nbsp;of een module delictgerichte contextbegeleiding wordt ingezet in de voorzieningen van de categorie 1;<br>
 10° de voorziening zorgt ervoor dat de minderjarigen de gelegenheid hebben om zich moreel te verdiepen en hun eventuele godsdienst te beoefenen volgens de voorschriften en de verplichtingen ervan;<br>
 11° sancties worden aangepast aan de persoonlijkheid van de minderjarige. Ze zijn er altijd op gericht de opvoeding te bevorderen en hebben geen traumatische uitwerking. Lichamelijke straffen en geestelijk geweld, alsook onthouding van maaltijden, zijn verboden;<br>
 12° de voorziening legt over elke minderjarige en eventueel over het gezin waartoe hij behoort, een dossier aan dat alle nuttige gegevens voor de hulp- en dienstverlening bevat. In dat dossier worden de volgende gegevens en documenten opgenomen:<br>
@@ -275,6 +292,11 @@ e) onderwijs- en tewerkstellingsactoren;<br>
 f) vrijetijdsactoren;<br>
 g) partners uit de gezondheidszorg;<br>
 7° de voorziening neemt infrastructurele en personeelsmatige maatregelen die drempelverhogend zijn voor ontvluchtingen;<br>
+7/1° de voorziening die het noodzakelijk vindt om minderjarigen soms tijdelijk af te zonderen of andere vrijheidsbeperkende maatregelen te nemen, om hun eigen veiligheid, de veiligheid van andere minderjarigen of die van het personeel te verzekeren, beschikt daarvoor over een huishoudelijk reglement. Het huishoudelijk reglement wordt bij de opname bekendgemaakt aan de betrokken partijen. In het huishoudelijk reglement worden minstens de volgende elementen beschreven:<br>
+a) de inrichting van de afzonderingskamer;<br>
+b) de wijze van registratie van elke afzondering;<br>
+c) de duur van de afzondering;<br>
+d) het toezicht op en de mogelijkheden tot contact van de minderjarige in kwestie;<br>
 8° de voorziening voert een duidelijk beleid rond de veiligheid van het personeel en de minderjarigen;<br>
 9° de voorziening zorgt voor een professionalisering door intensieve coaching, vorming en permanente ondersteuning van het personeel.
 
@@ -282,7 +304,8 @@ g) partners uit de gezondheidszorg;<br>
 
 Een voorziening van de categorie 1 die erkend is om de typemodule delictgerichte contextbegeleiding aan te bieden, moet aan al de volgende bijzondere voorwaarden voldoen:<br>
 1° de voorziening zet de typemodule alleen in voor minderjarige delictplegers of minderjarige verdachten;<br>
-2° de voorziening gebruikt onderbouwde methodieken die de criminogene noden van de minderjarige centraal stellen en die responsief en contextgericht zijn.
+2° de voorziening gebruikt onderbouwde methodieken die de criminogene noden van de minderjarige centraal stellen en die responsief en contextgericht zijn;<br>
+3° de voorziening stelt een verslag op over de uitvoering van de delictgerichte contextbegeleiding overeenkomstig het decreet van 15 februari 2019 en zijn uitvoeringsbesluiten, en stuurt dat verslag naar de minderjarige verdachte of delictpleger, zijn ouders of opvoedingsverantwoordelijke, de jeugdrechter of de jeugdrechtbank, en de sociale dienst. Het verslag wordt besproken met de ouders of, in voorkomend geval, de opvoedingsverantwoordelijken van de minderjarige verdachte of de minderjarige delictpleger. Die personen worden ertoe uitgenodigd om hun bedenkingen te formuleren, die bij het verslag worden gevoegd.
 
 ## Onderafdeling 2. Centra voor integrale gezinszorg
 
@@ -315,8 +338,12 @@ Een voorziening van de categorie 3 moet aan al de volgende bijzondere voorwaarde
 2° de voorziening voert diagnostiek in residentieel of mobiel verband uit, overeenkomstig de beslissing van de verwijzende instantie;<br>
 3° de voorziening hanteert actuele en wetenschappelijk onderbouwde instrumenten om haar diagnostische opdracht uit te voeren;<br>
 4° het team dat belast is met de diagnostiek van de minderjarigen, is multidisciplinair samengesteld en bestaat minimaal uit een master in de psychologische of pedagogische wetenschappen en een bachelor in het sociaal werk;<br>
-5° de voorziening die het vanuit haar pedagogisch concept noodzakelijk vindt om minderjarigen soms tijdelijk af te zonderen of in hun vrijheid te beperken, om hun eigen veiligheid, de veiligheid van andere minderjarigen of die van het personeel te verzekeren, beschikt daarvoor over een door de administratie goedgekeurd huishoudelijk reglement. In dat reglement worden minstens de volgende elementen beschreven: de inrichting van de beveiligingskamer, het aanleggen van een beveiligingsdossier voor elke beveiliging die zich voordoet, de duur van de beveiligingssituatie en het toezicht op en de mogelijkheden tot contact van de minderjarige in kwestie. Het huishoudelijk reglement wordt bij de opname bekendgemaakt aan de betrokken partijen;<br>
-6° elke minderjarige wordt na zijn opname in de voorziening medisch onderzocht.
+5° de voorziening die het noodzakelijk vindt om minderjarigen soms tijdelijk af te zonderen of andere vrijheidsbeperkende maatregelen te nemen, om hun eigen veiligheid, de veiligheid van andere minderjarigen of die van het personeel te verzekeren, beschikt daarvoor over een huishoudelijk reglement. Het huishoudelijk reglement wordt bij de opname bekendgemaakt aan de betrokken partijen. In het huishoudelijk reglement worden minstens de volgende elementen beschreven:<br>
+a) de inrichting van de afzonderingskamer;<br>
+b) de wijze van registratie van elke afzondering;<br>
+c) de duur van de afzondering;<br>
+d) het toezicht op en de mogelijkheden tot contact van de minderjarige in kwestie;<br>
+6° elke minderjarige die in residentieel verband wordt opgevangen wordt na zijn opname in de voorziening medisch onderzocht.
 
 ## Onderafdeling 4. Diensten voor crisishulp aan huis
 
@@ -356,20 +383,20 @@ c) de jeugdrechter of de jeugdrechtbank en de sociale dienst inlichten zodra bli
 3) de bemiddeling heeft geen aanvang genomen omdat de betrokken personen al een akkoord hebben of het slachtoffer geen eisen meer formuleert;<br>
 4) de bemiddeling heeft geen aanvang genomen omdat een van de voorwaarden voor een bemiddeling niet meer is vervuld;<br>
 5) de bemiddeling heeft geen resultaat opgeleverd. In dat geval vermeldt het verslag de naam van de betrokken personen die gecontacteerd zijn, met de informatie dat tussen hen geen overeenkomst is bereikt;<br>
-d) binnen twee maanden na haar aanwijzing door de jeugdrechter of de jeugdrechtbank, een bondig verslag over de voortgang van de bemiddeling richten aan de jeugdrechter of de jeugdrechtbank en aan de sociale dienst. Dat verslag verduidelijkt dat de bemiddeling een aanvang heeft genomen, maar nog niet afgerond is. De informatie die schade kan berokkenen aan de minderjarige verdachte of aan de minderjarige delictpleger, wordt niet opgenomen;<br>
-e) het door de betrokken partijen ondertekende akkoord bezorgen aan de jeugdrechter of de jeugdrechtbank, opdat die het zou homologeren, en aan de sociale dienst;<br>
-f) een bondig verslag opstellen over de uitvoering van het akkoord en dat richten aan de jeugdrechter of de jeugdrechtbank, opdat die het zou homologeren, en aan de sociale dienst. Het verslag wordt besproken met de ouders of, in voorkomend geval, met de opvoedingsverantwoordelijken van de minderjarige verdachte of de minderjarige delictpleger. Aldus worden ze ertoe uitgenodigd om hun bedenkingen te formuleren, die, met akkoord van alle partijen, bij het verslag worden toegevoegd;<br>
+d) binnen twee maanden na haar aanwijzing door de jeugdrechter of de jeugdrechtbank, een bondig verslag over de voortgang van de bemiddeling richten aan de minderjarige verdachte of delictpleger, zijn ouders of opvoedingsverantwoordelijke, de jeugdrechter of de jeugdrechtbank en aan de sociale dienst. Dat verslag verduidelijkt dat de bemiddeling een aanvang heeft genomen, maar nog niet afgerond is. De informatie die schade kan berokkenen aan de minderjarige verdachte of aan de minderjarige delictpleger, wordt niet opgenomen;<br>
+e) het door de betrokken partijen ondertekende akkoord bezorgen aan de minderjarige verdachte of delictpleger, zijn ouders of opvoedingsverantwoordelijke, de jeugdrechter of de jeugdrechtbank, opdat die het zou homologeren, en aan de sociale dienst;<br>
+f) een bondig verslag opstellen over de uitvoering van het akkoord en dat richten aan de minderjarige verdachte of delictpleger, zijn ouders of opvoedingsverantwoordelijke, de jeugdrechter of de jeugdrechtbank, opdat die het zou homologeren, en aan de sociale dienst. Het verslag wordt besproken met de ouders of, in voorkomend geval, met de opvoedingsverantwoordelijken van de minderjarige verdachte of de minderjarige delictpleger. Aldus worden ze ertoe uitgenodigd om hun bedenkingen te formuleren, die, met akkoord van alle partijen, bij het verslag worden toegevoegd;<br>
 3° in het kader van het herstelgerichte groepsoverleg dat is voorgesteld door de jeugdrechter of door de jeugdrechtbank, moet de voorziening:<br>
 a) contact opnemen met de betrokken personen als die zelf nog geen enkel initiatief genomen hebben ten aanzien van de voorziening binnen tien kalenderdagen na de ontvangst van het afschrift van het voorstel van de jeugdrechter of de jeugdrechtbank;<br>
 b) zich gedurende het gehele herstelgerichte groepsoverleg verzekeren van de uitdrukkelijke en onvoorwaardelijke instemming van de personen die eraan deelnemen;<br>
-c) de jeugdrechter of de jeugdrechtbank en de sociale dienst inlichten zodra blijkt dat herstelgericht groepsoverleg niet of niet langer mogelijk is, onmiddellijk en uiterlijk binnen twee maanden. In dat geval richt de voorziening een bondig verslag aan de jeugdrechter of de jeugdrechtbank en aan de sociale dienst, dat een van de volgende vermeldingen bevat:<br>
+c) de jeugdrechter of de jeugdrechtbank en de sociale dienst inlichten zodra blijkt dat herstelgericht groepsoverleg niet of niet langer mogelijk is, onmiddellijk en uiterlijk binnen twee maanden. In dat geval richt de voorziening een bondig verslag aan de minderjarige verdachte of delictpleger, zijn ouders of opvoedingsverantwoordelijke, de jeugdrechter of de jeugdrechtbank en aan de sociale dienst, dat een van de volgende vermeldingen bevat:<br>
 1) het herstelgerichte groepsoverleg zal geen aanvang nemen omdat minstens een van de betrokken personen niet is bereikt;<br>
 2) het herstelgerichte groepsoverleg zal geen aanvang nemen omdat minstens één van de betrokken personen niet wil dat de bemiddeling een aanvang neemt;<br>
 3) het herstelgerichte groepsoverleg zal geen aanvang nemen omdat de betrokken personen al een akkoord hebben of het slachtoffer geen eisen meer formuleert;<br>
 4) het herstelgerichte groepsoverleg zal geen aanvang nemen omdat een van de voorwaarden voor een herstelgericht groepsoverleg niet meer is vervuld;<br>
 5) het herstelgerichte groepsoverleg heeft geen resultaat opgeleverd. In dat geval vermeldt het verslag de naam van de betrokken personen die gecontacteerd werden, met de informatie dat tussen hen geen overeenkomst is bereikt, en elke andere informatie waarvan de mededeling voor akkoord getekend is door alle partijen. De informatie die schade kan berokkenen aan de minderjarige verdachte of aan het slachtoffer, wordt niet opgenomen;<br>
-d) als het herstelgerichte groepsoverleg afgerond wordt, het door de betrokken partijen ondertekende akkoord, bezorgen aan de jeugdrechter of de jeugdrechtbank, opdat die het zou homologeren, en aan de sociale dienst. Een intentieverklaring van de minderjarige verdachte of aan de minderjarige delictpleger wordt ook toegevoegd. Daarin verklaart die welke stappen hij zal ondernemen om de relationele en materiële schade en de schade aan de gemeenschap te herstellen en om verdere feiten in de toekomst te voorkomen. De intentieverklaring wordt voor akkoord door alle betrokken partijen ondertekend;<br>
-e) een bondig verslag opstellen over de uitvoering van het akkoord en dat richten aan de jeugdrechter of de jeugdrechtbank en aan de sociale dienst. Het verslag wordt besproken met de ouders of, in voorkomend geval, met de opvoedingsverantwoordelijken van de minderjarige verdachte of de minderjarige delictpleger. Aldus worden ze ertoe uitgenodigd om hun bedenkingen te formuleren, die bij het verslag worden toegevoegd;<br>
+d) als het herstelgerichte groepsoverleg afgerond wordt, het door de betrokken partijen ondertekende akkoord, bezorgen aan de minderjarige verdachte of delictpleger, zijn ouders of opvoedingsverantwoordelijke, de jeugdrechter of de jeugdrechtbank, opdat die het zou homologeren, en aan de sociale dienst. Een intentieverklaring van de minderjarige verdachte of aan de minderjarige delictpleger wordt ook toegevoegd. Daarin verklaart die welke stappen hij zal ondernemen om de relationele en materiële schade en de schade aan de gemeenschap te herstellen en om verdere feiten in de toekomst te voorkomen. De intentieverklaring wordt voor akkoord door alle betrokken partijen ondertekend;<br>
+e) een bondig verslag opstellen over de uitvoering van het akkoord en dat richten aan de minderjarige verdachte of delictpleger, zijn ouders of opvoedingsverantwoordelijke, de jeugdrechter of de jeugdrechtbank en aan de sociale dienst. Het verslag wordt besproken met de ouders of, in voorkomend geval, met de opvoedingsverantwoordelijken van de minderjarige verdachte of de minderjarige delictpleger. Aldus worden ze ertoe uitgenodigd om hun bedenkingen te formuleren, die bij het verslag worden toegevoegd;<br>
 4° de voorziening legt een dossier aan dat de volgende gegevens en documenten bevat:<br>
 a) inlichtingen van administratieve aard, met inbegrip van de stukken die ter beschikking gesteld zijn door de administratie, de jeugdrechtbank en de sociale dienst;<br>
 b) de gegevens over de toestand van de minderjarige en het gezin waartoe hij behoort en hun mening daarover;<br>
@@ -409,14 +436,14 @@ Bij de uitvoering van gemeenschapsdiensten moet de voorziening voldoen aan al de
 a) de identiteit van de minderjarige;<br>
 b) het aantal uren gemeenschapsdienst dat is opgelegd;<br>
 c) afspraken over de uitvoering van de gemeenschapsdienst, rekening houdend met de eventuele beslissingen van de jeugdrechtbank;<br>
-2° de voorziening stelt een verslag op over de uitvoering van de gemeenschapsdienst overeenkomstig het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht en haar uitvoeringsbesluiten, en stuurt dat verslag naar de jeugdrechter of de jeugdrechtbank en de sociale dienst. Het verslag wordt besproken met de ouders of, in voorkomend geval, de opvoedingsverantwoordelijken van de minderjarige verdachte of de minderjarige delictpleger. Die personen worden ertoe uitgenodigd om hun bedenkingen te formuleren, die bij het verslag worden gevoegd;<br>
+2° de voorziening stelt een verslag op over de uitvoering van de gemeenschapsdienst overeenkomstig het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht en haar uitvoeringsbesluiten, en stuurt dat verslag naar de jeugdrechter of de minderjarige verdachte of delictpleger, zijn ouders of opvoedingsverantwoordelijke, de jeugdrechtbank en de sociale dienst. Het verslag wordt besproken met de ouders of, in voorkomend geval, de opvoedingsverantwoordelijken van de minderjarige verdachte of de minderjarige delictpleger. Die personen worden ertoe uitgenodigd om hun bedenkingen te formuleren, die bij het verslag worden gevoegd;<br>
 3° de voorziening legt, in overeenstemming met de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, een dossier aan dat de volgende gegevens en documenten bevat:<br>
 a) inlichtingen van administratieve aard, met inbegrip van de stukken die ter beschikking gesteld zijn door de administratie, de jeugdrechtbank en de sociale dienst;<br>
 b) de gegevens over de toestand van de minderjarige en het gezin waartoe hij behoort, en hun mening daarover;<br>
 c) het rapport, vermeld in punt 1° ;<br>
 d) het verslag over de uitvoering van de gemeenschapsdienst, vermeld in punt 2°.<br>
 <br>
-Een kopie van het rapport, vermeld in het eerste lid, 1°, wordt onmiddellijk opgestuurd naar de jeugdrechtbank en de sociale dienst.
+Een kopie van het rapport, vermeld in het eerste lid, 1°, wordt onmiddellijk opgestuurd naar de minderjarige verdachte of delictpleger, zijn ouders of opvoedingsverantwoordelijke, de jeugdrechtbank en de sociale dienst.
 
 ### ART 25.
 
@@ -425,14 +452,14 @@ Voor de uitvoering van leerprojecten moet de voorziening voldoen aan al de volge
 a) de identiteit van de minderjarige;<br>
 b) het aantal uren leerproject dat is opgelegd;<br>
 c) afspraken over de uitvoering van het leerproject, rekening houdend met de eventuele beslissingen van de verwijzende instantie;<br>
-2° de voorziening stelt een verslag op over de uitvoering van het leerproject en de inzet van de minderjarige overeenkomstig het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht en haar uitvoeringsbesluiten, en stuurt dat verslag, in voorkomend geval, naar de procureur des Konings, de jeugdrechter of de jeugdrechtbank en de sociale dienst. Het verslag wordt besproken met de personen die het ouderlijk gezag uitoefenen ten aanzien van de minderjarige verdachte, en met zijn ouders of, in voorkomend geval, opvoedingsverantwoordelijken. Die personen worden ertoe uitgenodigd om hun bedenkingen te formuleren, die bij het verslag worden gevoegd;<br>
+2° de voorziening stelt een verslag op over de uitvoering van het leerproject en de inzet van de minderjarige overeenkomstig het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht en haar uitvoeringsbesluiten, en stuurt dat verslag, in voorkomend geval, naar de procureur des Konings, de jeugdrechter of de jeugdrechtbank, de minderjarige verdachte of delictpleger, zijn ouders of opvoedingsverantwoordelijke, en de sociale dienst. Het verslag wordt besproken met de personen die het ouderlijk gezag uitoefenen ten aanzien van de minderjarige verdachte, en met zijn ouders of, in voorkomend geval, opvoedingsverantwoordelijken. Die personen worden ertoe uitgenodigd om hun bedenkingen te formuleren, die bij het verslag worden gevoegd;<br>
 3° de voorziening legt, in overeenstemming met de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, een dossier aan dat de volgende gegevens en documenten bevat:<br>
 a) inlichtingen van administratieve aard, met inbegrip van de stukken die ter beschikking gesteld zijn door de administratie, de jeugdrechtbank en de sociale dienst;<br>
 b) de gegevens over de toestand van de minderjarige en het gezin waartoe hij behoort en hun mening daarover;<br>
 c) het rapport, vermeld in punt 1° ;<br>
 d) het verslag over de uitvoering van het leerproject en de inzet van de minderjarige, vermeld in punt 2° ;<br>
 <br>
-Een kopie van het rapport, vermeld in het eerste lid, 1°, wordt onmiddellijk opgestuurd naar de jeugdrechtbank en de sociale dienst.
+Een kopie van het rapport, vermeld in het eerste lid, 1°, wordt onmiddellijk opgestuurd naar de minderjarige verdachte of delictpleger, zijn ouders of opvoedingsverantwoordelijke, de jeugdrechtbank en de sociale dienst.
 
 ### ART 26.
 
@@ -444,8 +471,8 @@ c) ze waarborgt de opvolging tijdens de uitvoeringsfase;<br>
 2° ze neemt contact op met de betrokken personen als die zelf nog geen enkel initiatief genomen hebben ten aanzien van de voorziening binnen acht dagen na de ontvangst van het afschrift van het voorstel van de, in voorkomend geval, de procureur des Konings, de jeugdrechter of de jeugdrechtbank;<br>
 3° ze verzekert zich gedurende de volledige uitvoering van het positieve project van de uitdrukkelijke en onvoorwaardelijke instemming van de personen die eraan deelnemen;<br>
 4° in voorkomend geval licht ze de procureur des Konings, de jeugdrechter of de jeugdrechtbank erover in dat de minderjarige verdachte of de minderjarige delictpleger geen positief project zal voorstellen;<br>
-5° ze bezorgt het positieve project onmiddellijk aan de procureur des Konings, de jeugdrechter of de jeugdrechtbank;<br>
-6° ze stelt een bondig verslag op over de uitvoering van het positieve project en de inzet van de minderjarige overeenkomstig het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht en haar uitvoeringsbesluiten en richt dat aan, in voorkomend geval, de procureur des Konings, de jeugdrechter of de jeugdrechtbank en de sociale dienst. Het verslag wordt besproken met de ouders of, in voorkomend geval, met de opvoedingsverantwoordelijken van de minderjarige verdachte of de minderjarige delictpleger. Aldus worden ze ertoe uitgenodigd om hun bedenkingen te formuleren, die bij het verslag worden toegevoegd.
+5° ze bezorgt het positieve project onmiddellijk aan de minderjarige verdachte of delictpleger, zijn ouders of opvoedingsverantwoordelijke, de procureur des Konings, de jeugdrechter of de jeugdrechtbank;<br>
+6° ze stelt een bondig verslag op over de uitvoering van het positieve project en de inzet van de minderjarige overeenkomstig het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht en haar uitvoeringsbesluiten en richt dat aan, in voorkomend geval, de procureur des Konings, de jeugdrechter of de jeugdrechtbank, de minderjarige verdachte of delictpleger, zijn ouders of opvoedingsverantwoordelijke en de sociale dienst. Het verslag wordt besproken met de ouders of, in voorkomend geval, met de opvoedingsverantwoordelijken van de minderjarige verdachte of de minderjarige delictpleger. Aldus worden ze ertoe uitgenodigd om hun bedenkingen te formuleren, die bij het verslag worden toegevoegd.
 
 ## Onderafdeling 6. Diensten voor naadloze flexibele trajecten onderwijs - welzijn
 
@@ -459,7 +486,38 @@ Een voorziening van de categorie 6 moet aan al de volgende bijzondere voorwaarde
 
 ## [Onderafdeling 7. Observatie- en behandelcentra (ing. BVR 20 maart 2020, art. 60, I: 1 januari 2020)]
 
+### ART 27/1.
+
+Een voorziening van de categorie 7 voldoet aan al de volgende bijzondere voorwaarden:<br>
+1° de voorziening voldoet aan al de voorwaarden, vermeld in artikel 12 en 13;<br>
+2° de voorziening voert diagnostiek en behandeling met geïntegreerde diagnostiek in residentieel of mobiel verband uit, overeenkomstig de beslissing van de verwijzende instantie;<br>
+3° de voorziening hanteert actuele en wetenschappelijk onderbouwde instrumenten om haar opdracht uit te voeren;<br>
+4° de teams die belast zijn met de diagnostiek en behandeling van de minderjarigen, zijn multidisciplinair samengesteld en bestaan minimaal uit een master in de psychologische of pedagogische wetenschappen, een bachelor in het sociaal werk en een kinder- en jeugdpsychiater;<br>
+5° de voorziening die het noodzakelijk vindt om minderjarigen soms tijdelijk af te zonderen of andere vrijheidsbeperkende maatregelen te nemen, om hun eigen veiligheid, de veiligheid van andere minderjarigen of die van het personeel te verzekeren, beschikt daarvoor over een huishoudelijk reglement. Het huishoudelijk reglement wordt bij de opname bekendgemaakt aan de betrokken partijen. In het huishoudelijk reglement worden minstens de volgende elementen beschreven:<br>
+a) de inrichting van de afzonderingskamer;<br>
+b) de wijze van registratie van elke afzondering;<br>
+c) de duur van de afzondering;<br>
+d) het toezicht op en de mogelijkheden tot contact van de minderjarige in kwestie;<br>
+6° elke minderjarige die in residentieel verband wordt opgevangen, wordt na zijn opname in de voorziening medisch onderzocht.
+
 ## [Onderafdeling 8. Centra voor ernstige gedrags- en emotionele stoornissen (ing. BVR 20 maart 2020, art. 60, I: 1 januari 2020)]
+
+### ART 27/2.
+
+Een voorziening van de categorie 8 voldoet aan de volgende bijzondere voorwaarden:<br>
+1° de voorziening voldoet aan al de voorwaarden, vermeld in artikel 12 en 13;<br>
+2° de voorziening kan voor minimaal zes minderjarigen residentiële ondersteuning aanbieden;<br>
+3° de voorziening beschikt over een aangepaste infrastructuur zodat er bescherming en beveiliging kan worden geboden als de problematiek van de minderjarige dat vereist;<br>
+4° de voorziening voorziet in een veilige leefomgeving met individuele kamers en de mogelijkheid tot afzondering;<br>
+5° de voorziening die het noodzakelijk vindt om minderjarigen soms tijdelijk af te zonderen of andere vrijheidsbeperkende maatregelen te nemen, om hun eigen veiligheid, de veiligheid van andere minderjarigen of die van het personeel te verzekeren, beschikt daarvoor over een huishoudelijk reglement. Het huishoudelijk reglement wordt bij de opname bekendgemaakt aan de betrokken partijen. In het huishoudelijk reglement worden minstens de volgende elementen beschreven:<br>
+a) de inrichting van de afzonderingskamer;<br>
+b) de wijze van registratie van elke afzondering;<br>
+c) de duur van de afzondering;<br>
+d) het toezicht op en de mogelijkheden tot contact van de minderjarige in kwestie;<br>
+6° de voorziening kan voorzien in een voltijdse residentiële ondersteuning als de problematiek van de minderjarige dat vereist;<br>
+7° de voorziening neemt deel aan het instroomoverleg dat de toegangspoort organiseert met het oog op een gepaste toewijzing;<br>
+8° de voorziening werkt met andere voorzieningen van de categorie 8 in de regio samen om ervoor te zorgen dat de helft van de totale capaciteit in de regio prioritair ingezet wordt voor uitstroom uit de gemeenschapsinstellingen;<br>
+9° de voorziening draagt specifieke knowhow over aan andere actoren die betrokken zijn bij de ondersteuning van minderjarigen met GES+.
 
 ## [Onderafdeling 9. Centra voor kinderzorg en gezinsondersteuning (ing. BVR 27 oktober 2023, art. 5, I: 1 januari 2024)]
 
@@ -516,7 +574,7 @@ Het kwaliteitshandboek, vermeld in het eerste lid, is gebruiksvriendelijk en toe
 
 ### ART 33.
 
-Voor de uitvoering van hun opdrachten ontvangen de voorzieningen van categorie 1 tot en met 4 en 6 per module waarvoor ze erkend zijn, een forfaitaire subsidie, als vermeld in bijlage 1, die bij dit besluit is gevoegd
+Voor de uitvoering van hun opdrachten ontvangen de voorzieningen van categorie 1 tot en met 4 en de voorzieningen van categorie 6 tot en met 8 per module waarvoor ze erkend zijn, een forfaitaire subsidie, als vermeld in bijlage 1, die bij dit besluit is gevoegd
 
 ### ART 34.
 
@@ -531,7 +589,7 @@ Een erkende voorziening van de categorie 2 ontvangt 88,1 % van de forfaitaire su
 2° drie punten voor elke gemeenschapsdienst waarvoor de jeugdrechter of de jeugdrechtbank een aanmelding heeft gedaan of dat in een door de jeugdrechtbank of de jeugdrechter gehomologeerd positief project is opgenomen;<br>
 3° vier punten voor elk positief project waarvoor de procureur des Konings, de jeugdrechter of de jeugdrechtbank een aanmelding van een minderjarige heeft gedaan;<br>
 4° vijf punten voor elk herstelgericht groepsoverleg waarvoor de jeugdrechter of de jeugdrechtbank een aanmelding heeft gedaan.<br>
-5° vijf punten voor elk leerproject van maximaal dertig uur waarvoor de procureur des Konings een aanmelding heeft gedaan of dat in een door de jeugdrechter of jeugdrechtbank gehomologeerd positief project opgenomen is;<br>
+5° vijf punten voor elk leerproject van maximaal dertig uur waarvoor de procureur des Konings, de jeugdrechter of de jeugdrechtbank een aanmelding hebben gedaan of dat in een door de jeugdrechter of jeugdrechtbank gehomologeerd positief project opgenomen is;<br>
 6° negen punten voor elk leerproject van maximaal zestig uur waarvoor de jeugdrechter of de jeugdrechtbank een aanmelding heeft gedaan of dat in een door de jeugdrechter of jeugdrechtbank gehomologeerd positief project opgenomen is;<br>
 7° dertien punten voor elk leerproject van maximaal 220 uur waarvoor de jeugdrechtbank een aanmelding heeft gedaan of dat in een door de jeugdrechter of jeugdrechtbank gehomologeerd positief project opgenomen is.<br>
 <br>
@@ -539,7 +597,7 @@ Een erkende voorziening van de categorie 2 ontvangt 88,1 % van de forfaitaire su
 <br>
 § 4. Als de som van de punten van het effectieve aantal aangemelde dossiers van een dienst voor herstelgerichte en constructieve afhandeling, opgeteld met toepassing van paragraaf 2, twee jaar na elkaar meer dan 105 % bedraagt van het aantal waarvoor de dienst erkend is, wordt, binnen de beschikbare begrotingskredieten, het aantal punten waarvoor hij erkend is, het volgende jaar verhoogd tot het gemiddelde van de voorbije twee jaar.<br>
 <br>
-§ 5. Een dienst voor herstelgerichte en constructieve afhandeling ontvangt per punt waarvoor hij erkend is, een forfaitaire subsidie van 563,15 euro. Per jaar dat de gemiddelde anciënniteit van de gesubsidieerde personeelsleden van een dienst voor herstelgerichte en constructieve afhandeling hoger ligt dan vijf jaar, wordt deze subsidie per punt verhoogd met 12,32 euro.<br>
+§ 5. Een dienst voor herstelgerichte en constructieve afhandeling ontvangt per punt waarvoor hij erkend is, een forfaitaire subsidie van 557,41 euro. Per jaar dat de gemiddelde anciënniteit van de gesubsidieerde personeelsleden van een dienst voor herstelgerichte en constructieve afhandeling hoger ligt dan vijf jaar, wordt deze subsidie per punt verhoogd met 12,20 euro.<br>
 <br>
 De bedragen, vermeld in het eerste lid, zijn gekoppeld aan de index van de consumptieprijzen, die van toepassing is op 1 januari 2019.
 
@@ -583,7 +641,7 @@ Om in aanmerking te komen voor de subsidie, vermeld in het eerste lid, dient de 
 
 ### ART 42.
 
-Aan erkende voorzieningen van de categorieën 1 en 3 worden op maandbasis subsidies toegekend om zakgeld te betalen aan minderjarigen bij wie een module met de functie verblijf geactiveerd is door een beslissing van een toegangspoort of een doorverwijzing van een centraal permanent crisismeldpunt. De tarieven van het zakgeld zijn opgenomen in bijlage 3, die bij besluit is gevoegd.<br>
+Aan erkende voorzieningen van de categorieën 1, 3, 7 en 8 worden op maandbasis subsidies toegekend om zakgeld te betalen aan minderjarigen bij wie een module met de functie verblijf geactiveerd is door een beslissing van een toegangspoort of een doorverwijzing van een centraal permanent crisismeldpunt. De tarieven van het zakgeld zijn opgenomen in bijlage 3, die bij besluit is gevoegd.<br>
 <br>
 De betaling van het zakgeld wordt gestaafd met een ontvangstbewijs dat door de minderjarigen wordt gedateerd en ondertekend.<br>
 <br>
@@ -597,11 +655,11 @@ De subsidies, vermeld in het eerste lid, worden verminderd met de eigen inkomste
 
 ### ART 44.
 
-Aan erkende voorzieningen van de categorieën 1 tot en met 3 kan een subsidie voor bijzondere kosten toegekend worden om bijzondere kosten te vergoeden voor verstrekte buitengewone medische en paramedische verzorging aan minderjarigen bij wie een verblijfsmodule geactiveerd is.<br>
+Aan erkende voorzieningen van de categorieën 1 tot en met 3 en van de categorieën 7 en 8 kan een subsidie voor bijzondere kosten toegekend worden om bijzondere kosten te vergoeden voor verstrekte buitengewone medische en paramedische verzorging aan minderjarigen bij wie een verblijfsmodule geactiveerd is.<br>
 <br>
-Aan de erkende voorzieningen van categorieën 1 en 3 kunnen, onder de voorwaarden, vermeld in artikel 46, ook subsidies worden toegekend om de kosten te vergoeden voor het herstellen van schade die is veroorzaakt door minderjarigen in crisissituatie.<br>
+Aan de erkende voorzieningen van categorieën 1 en 3 en van de categorieën 7 en 8 kunnen, onder de voorwaarden, vermeld in artikel 46, ook subsidies worden toegekend om de kosten te vergoeden voor het herstellen van schade die is veroorzaakt door minderjarigen in crisissituatie.<br>
 <br>
-De administrateur-generaal kan in uitzonderlijke omstandigheden, om de fysieke of psychische integriteit van de betrokken minderjarige te behouden of te herstellen, aan de erkende voorzieningen van categorie 1 tot en met 3 subsidies verlenen voor bijzondere uitgaven die niet vermeld zijn in het eerste of het tweede lid.<br>
+De administrateur-generaal kan in uitzonderlijke omstandigheden, om de fysieke of psychische integriteit van de betrokken minderjarige te behouden of te herstellen, aan de erkende voorzieningen van categorie 1 tot en met 3 en van de categorieën 7 en 8 subsidies verlenen voor bijzondere uitgaven die niet vermeld zijn in het eerste of het tweede lid.<br>
 <br>
 Geen enkele subsidie voor bijzondere kosten kan worden verleend:<br>
 1° als een natuurlijke of rechtspersoon, wettelijk, bij overeenkomst of door een rechterlijke beslissing, verplicht is om die kosten te betalen of terug te betalen;<br>
@@ -884,14 +942,13 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minist
 
 ### BIJLAGE
 
-Bijlage 1. Forfaitaire subsidies als vermeld in artikel 33<br>
-<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Bijlage 1. Forfaitaire subsidies als vermeld in artikel 33</span></span></span><br>
 &nbsp;
-<table border="1">
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
 	<tbody>
 		<tr>
 			<td>typemodule</td>
-			<td>subsidie aan gemiddelde anciënniteit van 5 jaar</td>
+			<td>subsidie voor gemiddelde anciënniteit van 5 jaar</td>
 			<td>subsidie per bijkomend jaar anciënniteit</td>
 			<td>punten</td>
 		</tr>
@@ -903,116 +960,134 @@ Bijlage 1. Forfaitaire subsidies als vermeld in artikel 33<br>
 		</tr>
 		<tr>
 			<td>verblijf voor -12-jarigen</td>
-			<td>43.566,66</td>
-			<td>881,55</td>
+			<td>44.124,94</td>
+			<td>894,99</td>
 			<td>4,0</td>
 		</tr>
 		<tr>
 			<td>verblijf voor +12-jarigen</td>
-			<td>44.272,26</td>
-			<td>881.55</td>
+			<td>44.830,54</td>
+			<td>894,99</td>
 			<td>4,0</td>
 		</tr>
 		<tr>
 			<td>verblijf 0-25-jarigen</td>
-			<td>43.919,46</td>
-			<td>881,55</td>
+			<td>44.477,74</td>
+			<td>894,99</td>
 			<td>4,0</td>
 		</tr>
 		<tr>
 			<td>bijkomende subsidie voor verblijfsmodules, erkend met toepassing van artikel 14 van dit besluit</td>
-			<td>4.004,99</td>
-			<td>96.56</td>
+			<td>4017,53</td>
+			<td>96.86</td>
 			<td>0,5</td>
 		</tr>
 		<tr>
 			<td>beveiligend verblijf</td>
-			<td>88.544,52</td>
-			<td>1.763,10</td>
+			<td>89.661,11</td>
+			<td>1789,98</td>
 			<td>8,0</td>
 		</tr>
 		<tr>
+			<td>verblijf in het kader van diagnostiek</td>
+			<td>47.929,01</td>
+			<td>989,42</td>
+			<td>4,5</td>
+		</tr>
+		<tr>
+			<td>verblijf 7 dagen per week</td>
+			<td>47.929,01</td>
+			<td>989,42</td>
+			<td>4,5</td>
+		</tr>
+		<tr>
+			<td>verblijf 5 dagen per week</td>
+			<td>35.946,76</td>
+			<td>742,07</td>
+			<td>3,5</td>
+		</tr>
+		<tr>
+			<td>verblijf in een voorziening van categorie 8</td>
+			<td>69.496,48</td>
+			<td>1398,41</td>
+			<td>6,25</td>
+		</tr>
+		<tr>
 			<td>dagbegeleiding in groep</td>
-			<td>18.475,10</td>
-			<td>386,24</td>
+			<td>18.326,85</td>
+			<td>384,61</td>
 			<td>2,0</td>
 		</tr>
 		<tr>
 			<td>contextbegeleiding kortdurend krachtgericht</td>
-			<td>8.887,33</td>
-			<td>193,12</td>
+			<td>8817,75</td>
+			<td>192,31</td>
 			<td>1,0</td>
 		</tr>
 		<tr>
 			<td>contextbegeleiding laagintensief</td>
-			<td>8.887,33</td>
-			<td>193,12</td>
+			<td>8817,75</td>
+			<td>192,31</td>
 			<td>1,0</td>
 		</tr>
 		<tr>
-			<td>contextbegeleiding middenintensiteit</td>
-			<td>17.774,66</td>
-			<td>386,24</td>
+			<td>contextbegeleiding breedsporig</td>
+			<td>17.635,53</td>
+			<td>384,61</td>
 			<td>2,0</td>
 		</tr>
 		<tr>
 			<td>contextbegeleiding kortdurend intensief</td>
-			<td>26.661,99</td>
-			<td>579,36</td>
-			<td>3,0</td>
-		</tr>
-		<tr>
-			<td>delictgerichte contextbegeleiding</td>
-			<td>26.661,99</td>
-			<td>579,36</td>
+			<td>26.453,28</td>
+			<td>576,92</td>
 			<td>3,0</td>
 		</tr>
 		<tr>
 			<td>contextbegeleiding in functie van autonoom wonen basisintensiteit</td>
-			<td>8.887,33</td>
-			<td>193,12</td>
+			<td>8817,75</td>
+			<td>192,31</td>
 			<td>1,0</td>
 		</tr>
 		<tr>
 			<td>contextbegeleiding in functie van autonoom wonen middenintensiteit</td>
-			<td>17.774,66</td>
-			<td>386,24</td>
+			<td>17.635,53</td>
+			<td>384,61</td>
 			<td>2,0</td>
 		</tr>
 		<tr>
 			<td>ondersteunende begeleiding</td>
-			<td>44.436,65</td>
-			<td>965,60</td>
+			<td>44.088,81</td>
+			<td>961,53</td>
 			<td>5,0</td>
 		</tr>
 		<tr>
 			<td>contextbegeleiding in functie van crisis</td>
-			<td>7.053,84</td>
-			<td>146,21</td>
+			<td>6981,79</td>
+			<td>144,76</td>
 			<td>0,8</td>
 		</tr>
 		<tr>
-			<td>verblijf in het kader van diagnostiek</td>
-			<td>47.299,87</td>
-			<td>974,28</td>
+			<td>handelingsgerichte diagnostiek</td>
+			<td>39.642,61</td>
+			<td>873,97</td>
 			<td>4,5</td>
 		</tr>
 		<tr>
-			<td>handelingsgerichte diagnostiek</td>
-			<td>39.954,06</td>
-			<td>877,73</td>
-			<td>4,5</td>
+			<td>behandeling met geïntegreerde diagnostiek</td>
+			<td>31.383,73</td>
+			<td>691,90</td>
+			<td>3,5</td>
 		</tr>
 		<tr>
 			<td>begeleiding in functie van onderwijs-welzijnstrajecten</td>
-			<td>2592,00</td>
-			<td>55,30</td>
+			<td>2565,50</td>
+			<td>54,75</td>
 			<td>0,30</td>
 		</tr>
 	</tbody>
 </table>
 <br>
-De subsidiebedragen zijn gekoppeld aan de index van de consumptieprijzen die van kracht is op 1 januari 2019.
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">De subsidiebedragen zijn gekoppeld aan de index van de consumptieprijzen die van toepassing is op 1 januari 2020.</span></span></span>
 
 ### BIJLAGE
 
