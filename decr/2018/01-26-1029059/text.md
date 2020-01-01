@@ -149,11 +149,19 @@ In geval van ontbinding van het EVA wordt het actief, na aanzuivering van het pa
 
 ## HOOFDSTUK 8. Wijzigingsbepaling
 
+### ART 15.
+
+Artikel 61 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992 wordt opgeheven.
+
 ## HOOFDSTUK 9. Slotbepalingen
 
 ### ART 16.
 
 De saldi op de rekeningen van de Dienst met Afzonderlijk Beheer Beheersdienst van het Koninklijk Museum voor Schone Kunsten te Antwerpen, alsook de rechten en verplichtingen die eraan verbonden zijn, worden uiterlijk op 31 december 2019 overgedragen aan het EVA.
+
+### ART 17.
+
+Het EVA treedt in de rechten en verplichtingen van de Vlaamse Gemeenschap, die betrekking hebben op het doel en de taken, vermeld in artikel 4 en 5, met inbegrip van de rechten en verplichtingen die voortvloeien uit de hangende en toekomstige gerechtelijke procedures over die opdrachten en bevoegdheden.
 
 ### ART 18.
 

@@ -2,16 +2,16 @@
   "codex_id": 1029059,
   "title": "Decreet van 2018-01-26 tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Koninklijk Museum voor Schone Kunsten Antwerpen in de vorm van een vereniging zonder winstoogmerk",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029059/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "5710a6674840247f85fa14b98b37385d78755c719f52627fad0fb5146dd44ba3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029059/VolledigDocument?datum=2020-01-01",
+  "source_sha256": "502bf26df25ff0eef3f64bddd7ffbedee7977965f6dda3bdbf0618e90b18d6c7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029059&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2020-01-01",
   "made": "2018-01-26",
   "gazette": "2018-02-23",
   "numac": 2018030509,
   "document_start": "2018-02-23",
   "document_end": null,
-  "in_force": "2019-01-01",
-  "article_versions": 16,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-01-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
 }
