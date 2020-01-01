@@ -121,6 +121,12 @@ De minister bepaalt de nadere regels voor de samenstelling en de werking van de 
 
 ## Afdeling 4. Eigendomsoverdracht
 
+### ART 11.
+
+De Vlaamse Gemeenschap draagt aan het agentschap Opgroeien regie de volle eigendom over van het volgende gebouw en zijn aanhorigheden : Kortenberg (Everberg) - Hollestraat 78, gekadastreerd KORTENBERG 4e afdeling sectie B, nr. 187/F,187/K, 189/A en 192/L.<br>
+<br>
+Het onroerend goed, vermeld in het eerste lid, wordt kosteloos overgedragen in de staat waarin het zich bevindt, met actieve en passieve erfdienstbaarheden, de bijzondere lasten en verplichtingen die verbonden zijn aan de verwerving, alsook de rechten die mogelijk toegestaan zijn aan derden.
+
 ## HOOFDSTUK 4. Vlaams detentiecentrum
 
 ### ART 12.
@@ -130,6 +136,12 @@ Er wordt een Vlaams detentiecentrum opgericht voor de opvang van uit handen gege
 ### ART 13.
 
 De minister bepaalt de afdelingen, de organisatie en de maximumcapaciteit van het Vlaams detentiecentrum.
+
+### ART 14.
+
+De Vlaamse Gemeenschap draagt aan het agentschap Opgroeien regie de volle eigendom over van het volgende gebouw en zijn aanhorigheden : Tongeren - Wijngaardstraat, 65, gekadastreerd TONGEREN, 1<sup>e</sup>&nbsp;afdeling, sectie C, nr. 469/F.<br>
+<br>
+Het onroerend goed, vermeld in het eerste lid, wordt kosteloos overgedragen, in de staat waarin het zich bevindt, met actieve en passieve erfdienstbaarheden, de bijzondere lasten en verplichtingen die verbonden zijn aan de verwerving, alsook de rechten die mogelijk toegestaan zijn aan derden.
 
 ## HOOFDSTUK 5. Onderwijs en vorming
 
