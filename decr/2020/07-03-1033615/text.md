@@ -101,6 +101,18 @@ In artikel 138 van dezelfde codex, vervangen bij het decreet van 26 januari 2018
 2° per 1 september 2024: in het tweede leerjaar van de eerste graad, het tweede leerjaar van de tweede graad en het tweede leerjaar van de derde graad;<br>
 3° per 1 september 2025: in het derde leerjaar van de derde graad".
 
+### ART 106.
+
+Aan artikel 143, § 1, eerste lid, van dezelfde codex, ingevoegd bij het decreet van 26 januari 2018, wordt de volgende zin toegevoegd:<br>
+<br>
+"Ze bewaakt de haalbaarheid.".
+
+### ART 111.
+
+Aan artikel 264, eerste lid, van dezelfde codex wordt de volgende zin toegevoegd:<br>
+<br>
+"Ze bewaakt de haalbaarheid.".
+
 ## HOOFDSTUK 12. Wijzigingen van de Codex Hoger Onderwijs van 11 oktober 2013
 
 ### ART 123.
