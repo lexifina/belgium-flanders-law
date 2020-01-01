@@ -20,7 +20,7 @@ De Vlaamse Regering kan een Vlaams Instituut voor Kwaliteit van Zorg oprichten o
 <br>
 Er wordt verstaan onder:<br>
 1° gezondheidszorg: zorg die verstrekt wordt in het raam van de aangelegenheden, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
-2° woonzorg: woonzorg als vermeld in artikel 2, 1°, van het Woonzorgdecreet van 13 maart 2009.<br>
+2° woonzorg: woonzorg als vermeld in artikel 2, § 1, 18°, van het Woonzorgdecreet van 15 februari 2019.<br>
 <br>
 De Vlaamse Regering kan de opdrachten, vermeld in het eerste lid, nader regelen.
 
@@ -121,6 +121,58 @@ In artikel 76, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 20 maa
 ## Onderafdeling 2. Impulseo
 
 ## Onderafdeling 3. Geïntegreerde diensten voor thuisverzorging
+
+### ART 21.
+
+Aan artikel 2 van het decreet van 3 maart 2004 betreffende de eerstelijnsgezondheidszorg en de samenwerking tussen de zorgaanbieders, gewijzigd bij de decreten van 13 maart 2009 en 21 juni 2013, wordt een punt 20° toegevoegd, dat luidt als volgt:<br>
+"20° geïntegreerde dienst voor thuisverzorging: een door de Vlaamse Regering erkend samenwerkingsverband, dat gericht is op de versterking van het geheel van de patiëntenzorg, onder meer via praktische organisatie en ondersteuning van verstrekkingen in het kader van de thuisverzorging, waarbij de tussenkomst van beroepsbeoefenaars van verschillende disciplines vereist is.".
+
+### ART 22.
+
+In hetzelfde decreet, gewijzigd bij de decreten van 18 juli 2008, 13 maart 2009, 20 maart 2009 en 21 juni 2013, wordt een hoofdstuk IVbis ingevoegd, dat luidt als volgt:<br>
+"HOOFDSTUK IVbis. - Geïntegreerde diensten voor thuisverzorging".
+
+### ART 23.
+
+In hetzelfde decreet wordt in hoofdstuk IVbis, ingevoegd bij artikel 22, een artikel 13bis ingevoegd, dat luidt als volgt:<br>
+"Art. 13bis. De Vlaamse Regering erkent en subsidieert geïntegreerde diensten voor thuisverzorging. De Vlaamse Regering bepaalt hun werkgebied en stemt dat af op het werkgebied van de samenwerkingsinitiatieven eerstelijnsgezondheidszorg. De Vlaamse Regering bepaalt de erkenningsvoorwaarden en de regels voor de duur, de schorsing en de intrekking van de erkenning.<br>
+De Vlaamse Regering bepaalt de opdrachten en taken van de geïntegreerde diensten voor thuisverzorging. De Vlaamse Regering bepaalt de subsidie en de subsidievoorwaarden.<br>
+Geïntegreerde diensten voor thuisverzorging hebben de vorm van een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen.".
+
+### ART 24.
+
+In artikel 16, § 2, van hetzelfde decreet, gewijzigd bij het decreet van 21 juni 2013, wordt tussen het woord "De" en het woord "samenwerkingsverbanden" de zinsnede "geïntegreerde diensten voor thuisverzorging," ingevoegd.
+
+### ART 25.
+
+In artikel 17, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 21 juni 2013, wordt tussen de zinsnede "bedoeld in artikel 16," en het woord "samenwerkingsverbanden" de zinsnede "geïntegreerde diensten voor thuisverzorging," ingevoegd.
+
+### ART 26.
+
+In artikel 18 van hetzelfde decreet, gewijzigd bij het decreet van 21 juni 2013, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt tussen het woord "Alle" en het woord "samenwerkingsverbanden" de zinsnede "geïntegreerde diensten voor thuisverzorging," ingevoegd;<br>
+2°...;<br>
+3°....
+
+### ART 27.
+
+In artikel 19 van hetzelfde decreet, gewijzigd bij het decreet van 21 juni 2013, wordt tussen het woord "aan" en het woord "samenwerkingsverbanden" de zinsnede "geïntegreerde diensten voor thuisverzorging," ingevoegd.
+
+### ART 28.
+
+In artikel 20, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 21 juni 2013, wordt tussen het woord "alle" en het woord "samenwerkingsverbanden" de zinsnede "geïntegreerde diensten voor thuisverzorging," ingevoegd.
+
+### ART 29.
+
+In artikel 21, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 21 juni 2013, wordt tussen het woord "van" en de woorden "een samenwerkingsverband" de zinsnede "een geïntegreerde dienst voor thuisverzorging," ingevoegd.
+
+### ART 30.
+
+In artikel 22 van hetzelfde decreet, gewijzigd bij het decreet van 21 juni 2013, wordt tussen het woord "van" en de woorden "een samenwerkingsverband" de zinsnede "een geïntegreerde dienst voor thuisverzorging," ingevoegd.
+
+### ART 31.
+
+In artikel 24, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 21 juni 2013, wordt tussen het woord "tot" en de woorden "de samenwerkingsverbanden" de zinsnede "de geïntegreerde diensten voor thuisverzorging," ingevoegd.
 
 ### ART 32.
 
@@ -618,7 +670,7 @@ In artikel 16 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<
 
 De Vlaamse Regering kan projecten over de geïntegreerde zorg voor chronisch zieken toestaan.<br>
 <br>
-De Vlaamse Regering kan, voor de projecten vermeld in het eerste lid, afwijkingen toestaan op de bepalingen over de erkenning en financiering die door haar werden uitgevaardigd in uitvoering van het decreet van 3 maart 2004 betreffende de eerstelijnsgezondheidszorg en de samenwerking tussen de zorgaanbieders en het Woonzorgdecreet van 13 maart 2009.<br>
+De Vlaamse Regering kan, voor de projecten vermeld in het eerste lid, afwijkingen toestaan op de bepalingen over de erkenning en financiering die door haar werden uitgevaardigd in uitvoering van het decreet van 3 maart 2004 betreffende de eerstelijnsgezondheidszorg en de samenwerking tussen de zorgaanbieders en het Woonzorgdecreet van 15 februari 2019 .<br>
 <br>
 Bij het toekennen van een afwijking moet in ieder geval de veiligheid en de kwaliteit van de zorg voldoende gewaarborgd blijven.<br>
 <br>
