@@ -18,11 +18,19 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In artikel 1, 17°, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming wordt het woord "dagverzorgingscentrum" vervangen door de woorden "centrum voor dagverzorging".
+
 ### ART 2.
 
 Aan artikel 424 van hetzelfde besluit wordt een paragraaf 3 toegevoegd, die luidt als volgt:<br>
 <br>
 " § 3. De minister bepaalt de regels om de scores, vermeld in paragraaf 1 en 2, te bepalen.".
+
+### ART 6.
+
+In artikel 431, tweede lid, van het hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 28 juni 2019, wordt punt 17° opgeheven.
 
 ### ART 7.
 
@@ -40,6 +48,14 @@ In artikel 434 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse R
 6° er wordt een paragraaf 4 toegevoegd, die luidt als volgt:<br>
 " § 4. Paragraaf 2 is niet van toepassing op de verplichting om te beschikken over de diensten van een arts, vermeld in artikel 433, § 4, derde lid.<br>
 Als het centrum voor dagverzorging tijdens de referentieperiode niet voldoet aan de verplichting, vermeld in het eerste lid, wordt, vooraleer paragraaf 2 wordt toegepast, de tegemoetkoming, vermeld in artikel 506, 2°, verminderd met een bedrag dat gelijk is aan: 5,46 euro * (aantal aanwezige uren per week tijdens de referentieperiode / minimum aantal uren per week als vermeld in artikel 433, § 4, derde lid).".
+
+### ART 9.
+
+In artikel 435, § 3, van hetzelfde besluit wordt het woord "geneesheer-specialist" vervangen door het woord "arts-specialist".
+
+### ART 11.
+
+In artikel 456, § 1, vijfde lid, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 17 mei 2019 en 28 juni 2019, wordt het woord "dagverzorgingscentrum" telkens vervangen door de woorden "centrum voor dagverzorging".
 
 ### ART 12.
 
@@ -72,3 +88,29 @@ Aan artikel 507 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse 
 
 Aan artikel 521, § 1, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 28 juni 2019, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
 "De minister bepaalt de instructies voor de digitale facturatie die betrekking hebben op de algemene procedure, de recordtekening en de beschrijving van de velden.".
+
+### ART 30.
+
+In artikel 662/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 7 december 2018 en gewijzigd bij het besluit van de Vlaamse Regering van 29 maart 2019, wordt het woord "dagverzorgingscentra" vervangen door de woorden "centra voor dagverzorging".
+
+### ART 31.
+
+In artikel 662/3 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 7 december 2018, vervangen bij het besluit van de Vlaamse Regering van 29 maart 2019 en gewijzigd bij het besluit van de Vlaamse Regering van 28 juni 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, en paragraaf 2, eerste lid en derde lid, wordt het woord "dagverzorgingscentra" vervangen door de woorden "centra voor dagverzorging";<br>
+2° in paragraaf 1, tweede lid, en paragraaf 3 wordt het woord "dagverzorgingscentrum" vervangen door de woorden "centrum voor dagverzorging".
+
+### ART 32.
+
+In artikel 662/6 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 7 december 2018 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 13 december 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, en paragraaf 4, eerste lid, wordt het woord "dagverzorgingscentra" vervangen door de woorden "centra voor dagverzorging";<br>
+2° in paragraaf 4, eerste en derde lid, wordt het woord "dagverzorgingscentrum" vervangen door de woorden "centrum voor dagverzorging".
+
+### ART 33.
+
+In artikel 662/7 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 7 december 2018 en gewijzigd bij de besluiten van de Vlaamse Regering van 29 maart 2019 en 28 juni 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt het woord "dagverzorgingscentra" vervangen door de woorden "centra voor dagverzorging";<br>
+2° in paragraaf 2, eerste lid, wordt het woord "dagverzorgingscentra" vervangen door de woorden "centra voor dagverzorging".
+
+### ART 34.
+
+In 662/8, zesde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 13 december 2019, wordt het woord "dagverzorgingscentrum" telkens vervangen door de woorden "centrum voor dagverzorging".
