@@ -50,8 +50,8 @@ Dit besluit treedt in werking op de dag van de bekendmaking in het Belgisch Staa
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/02/27_1.pdf#page=92">Bijlage 1</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/04/20_1.pdf#page=344">Bijlage 1 </a>
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/02/27_1.pdf#page=99">Bijlage 2</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/04/20_1.pdf#page=351">Bijlage 2</a>
