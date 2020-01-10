@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032629,
+  "title": "Besluit van de Vlaamse Regering van 2020-01-10 met betrekking tot de voordracht van Vlaamse leden voor de klachtencommissie voor de classificatie van films",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032629/VolledigDocument?datum=2020-01-10",
+  "source_sha256": "94ecb2f18f3a618db44926615375be60c8b8e2bc589bdbe65df9afa9e3f5c739",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032629&param=informatie",
+  "as_of": "2020-01-10",
+  "made": "2020-01-10",
+  "gazette": "2020-01-31",
+  "numac": 2020010268,
+  "document_start": "2020-01-10",
+  "document_end": "2023-01-09",
+  "in_force": "2020-01-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-01-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
