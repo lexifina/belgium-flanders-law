@@ -327,7 +327,27 @@ Bij de vaststelling van een inbreuk op de verplichting tot individuele bemeterin
 <br>
 De exploitant kan de plaatsing weigeren of voorwaarden voor zowel de plaatsing als de werking van de drukverhogingsinstallatie opleggen aan de klant of de titularis. Als de klant of de titularis de weigering van de plaatsing of de voorwaarden voor de plaatsing of werking niet respecteert, legt de exploitant de nodige herstelmaatregelen met bijbehorende uitvoeringstermijnen op. Als de klant of de titularis de opgelegde herstelmaatregelen niet uitvoert binnen de opgelegde termijnen, kan de exploitant de verbinding van de binneninstallatie met het openbaar waterdistributienetwerk weigeren of ongedaan maken waarbij er in het onroerend goed ten minste één afnamepunt voor water, bestemd voor menselijke consumptie, behouden wordt. Bij verzet van de titularis of de klant tegen die handelingen kan de exploitant een aanvraag tot begrenzing van het debiet of afsluiting van de waterlevering in het onroerend goed indienen bij de toezichthoudende ambtenaar Leefmilieu. De effectieve begrenzing van het debiet of afsluiting van de waterlevering wordt uitgevoerd op bevel van de toezichthoudende ambtenaar Leefmilieu. De bepalingen over de kennisgeving aan de klant en de verbruikers, vermeld in artikel 5, zijn van toepassing.<br>
 <br>
-§ 4. Tijdens de bouwfase kan water afgenomen worden via een gekeurd eentappunt of via een eentappunt dat de exploitant heeft geplaatst.
+§ 4. Tijdens de bouwfase kan water afgenomen worden via een gekeurd eentappunt of via een eentappunt dat de exploitant heeft geplaatst.<br>
+<br>
+§ 5. Om de volksgezondheid te beschermen en om kwaliteitsproblemen met het water bestemd voor menselijke consumptie door terugstroming in de binneninstallatie of terugstroming naar het openbaar waterdistributienetwerk te voorkomen, wordt iedere binneninstallatie in de volgende gevallen aan een keuring onderworpen:<br>
+1° vóór de eerste ingebruikname;<br>
+2° als er belangrijke wijzigingen zijn aangebracht;<br>
+3° bij een heringebruikname nadat de exploitant een afsluiting vraagt wegens een onmiddellijke bedreiging voor de gezondheid van de verbruiker of voor de volksgezondheid en de veiligheid van de drinkwatervoorziening;<br>
+4° na de vaststelling van een inbreuk op de wettelijke en technische voorschriften, ter preventie van terugstroming, op verzoek van de exploitant.<br>
+<br>
+De exploitant of zijn aangestelde is verantwoordelijk voor de keuring van de binneninstallatie.<br>
+<br>
+De klant of titularis kan de exploitant verzoeken een keuring van de binneninstallatie uit te voeren.<br>
+<br>
+De keuring ontslaat de klant of de titularis niet van zijn verantwoordelijkheid om de waterkwaliteit in de binneninstallatie te verzekeren.<br>
+<br>
+De kosten die verbonden zijn aan de keuring van de binneninstallatie, zijn ten laste van de aanvrager.<br>
+<br>
+Als de exploitant of zijn aangestelde naar aanleiding van een keuring vaststelt dat de binneninstallatie niet voldoet aan de wettelijke en technische voorschriften ter preventie van terugstroming, kan hij ter bescherming van het openbaar waterdistributienetwerk een verbinding van de binneninstallatie met het openbaar waterdistributienetwerk weigeren of de binneninstallatie ontkoppelen van het openbaar waterdistributienetwerk.<br>
+<br>
+Als de klant zich verzet tegen de handelingen ter bescherming van het openbaar waterdistributienetwerk, vermeld in het vorige lid, kan de exploitant een aanvraag tot afsluiting van de waterlevering in het onroerend goed indienen bij de toezichthoudende ambtenaar Leefmilieu. De effectieve afsluiting van de waterlevering wordt uitgevoerd op bevel van de toezichthoudende ambtenaar Leefmilieu. De bepalingen over de kennisgeving aan de klant en de verbruikers, vermeld in artikel 5, zijn van toepassing.<br>
+<br>
+De minister kan nadere regels bepalen met betrekking tot de keuring.
 
 ## HOOFDSTUK 3 Sanering
 
@@ -430,7 +450,21 @@ De klant gebruikt de privéwaterafvoer zodanig dat de goede werking ervan behoud
 <br>
 § 3. De exploitant kan de klant of titularis verplichten om de privéwaterafvoer te herstellen of te wijzigen als de exploitant dat noodzakelijk acht om die in overeenstemming te brengen met de wettelijke en reglementaire bepalingen.<br>
 <br>
-De exploitant kan, als de voorschriften voor de privéwaterafvoer met het oog op de veiligheid, gezondheid of bescherming van het leefmilieu niet worden nageleefd, de dienstverlening schorsen of beperken.
+De exploitant kan, als de voorschriften voor de privéwaterafvoer met het oog op de veiligheid, gezondheid of bescherming van het leefmilieu niet worden nageleefd, de dienstverlening schorsen of beperken.<br>
+<br>
+§ 4. De privéwaterafvoer moet in de volgende gevallen gekeurd worden:<br>
+1° vóór de eerste ingebruikname;<br>
+2° als er belangrijke wijzigingen zijn aangebracht;<br>
+3° op verzoek van de exploitant na de vaststelling van een inbreuk op de gelijkvormigheid;<br>
+4° bij de aanleg van gescheiden riolering op het openbaar domein, met de verplichting om af te koppelen op privédomein, conform de bepalingen van Vlarem.<br>
+<br>
+De exploitant of diens aangestelde is verantwoordelijk voor de keuring van de privéwaterafvoer.<br>
+<br>
+De klant of titularis kan de exploitant verzoeken een keuring van de privéwaterafvoer uit te voeren.<br>
+<br>
+De keuring ontslaat de klant respectievelijk titularis evenwel niet van zijn verantwoordelijkheid voor de staat van de privéwaterafvoer.<br>
+<br>
+De minister kan nadere regels bepalen met betrekking tot de keuring.
 
 ## [HOOFDSTUK 3/1. Installatie voor tweedecircuitwater en de niet-aangesloten binneninstallatie (ing. BVR 24 mei 2019, art. 20, I: 1 januari 2021)]
 

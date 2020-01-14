@@ -2,16 +2,16 @@
   "codex_id": 1020295,
   "title": "Besluit van de Vlaamse Regering van 2011-04-08 houdende bepalingen van rechten en plichten van de exploitanten van een openbaar waterdistributienetwerk en hun klanten met betrekking tot de levering van water bestemd voor menselijke consumptie, de uitvoering van de saneringsverplichting [de niet-aangesloten binneninstallatie en installaties voor tweedecircuitwater in onroerende goederen die niet aangesloten zijn of worden op het openbaar waterdistributienetwerk,] en het algemeen waterverkoopreglement",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020295/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "09b96aa3f6d289dcb61b6c746e00f4e7644281be8fa33af486a254523bde9b73",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020295/VolledigDocument?datum=2020-01-14",
+  "source_sha256": "e1d1a300258fae4ebb5c372798bd38c7417a4bc99f1947161b7ce7f7e9ec0775",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020295&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2020-01-14",
   "made": "2011-04-08",
   "gazette": "2011-06-10",
   "numac": 2011035447,
   "document_start": "2011-07-01",
   "document_end": null,
-  "in_force": "2020-01-01",
+  "in_force": "2020-01-14",
   "article_versions": 39,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-14; future article versions excluded; article text as the API gives it"
 }
