@@ -2,9 +2,27 @@
 
 ## HOOFDSTUK 1. Algemeen
 
+### ART 1.
+
+Dit decreet regelt een gewest- en gemeenschapsaangelegenheid.
+
 ## HOOFDSTUK 2. Mobiliteit en Openbare Werken
 
 ## Afdeling 1. Wijziging van artikel 27 van de wet van 16 maart 1968 betreffende de politie over het wegverkeer
+
+### ART 2.
+
+In artikel 27 van de wet betreffende de politie over het wegverkeer, gecoördineerd op 16 maart 1968, vervangen bij de wet van 9 juli 1976 en gewijzigd bij de wet van 18 juli 1990, worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "De Koning bepaalt het tarief van de ten bate van de Staat of van de erkende instellingen" worden vervangen door de zinsnede "De Vlaamse Regering kan, wat haar bevoegdheden betreft, regels bepalen in verband met de";<br>
+2° er worden een tweede, derde en vierde lid toegevoegd, die luiden als volgt:<br>
+"In het bijzonder kan de Vlaamse Regering ten laste van de aanvrager een retributie bepalen voor:<br>
+1° het behandelen van een aanvraag tot erkenning van de rijscholen en hun personeel, evenals van de lokalen en de oefenterreinen van de rijscholen;<br>
+2° het afleggen van de examens en het uitoefenen van de stage voor het behalen van een getuigschrift van beroepsbekwaamheid door het personeel van de rijscholen;<br>
+3° het behandelen van een aanvraag tot het uitoefenen van het beroep van rijschooldirecteur, rijschoollesgever of kantoorverantwoordelijke.<br>
+<br>
+Tevens kan de Vlaamse Regering periodieke retributies bepalen voor de uitoefening van het toezicht op de erkenning van de rijscholen en hun personeel.<br>
+<br>
+De Vlaamse Regering kan de bedragen en de wijze waarop de retributies moeten worden voldaan evenals de procedure bij niet-naleving bepalen.".
 
 ## HOOFDSTUK 3. Kanselarij en Bestuur
 
@@ -27,6 +45,10 @@ Aan artikel 19septiesdecies van hetzelfde decreet, ingevoegd bij het decreet van
 ## HOOFDSTUK 4. Economie, Wetenschap en Innovatie
 
 ## Afdeling 1. Opheffing van artikel III.100 van de Codex Hoger Onderwijs van 11 oktober 2013
+
+### ART 6.
+
+Artikel III.100 van de Codex Hoger Onderwijs van 11 oktober 2013 wordt opgeheven.
 
 ## HOOFDSTUK 5. Onderwijs en Vorming
 
@@ -108,3 +130,10 @@ Het extra werkingsbudget wordt aan de schoolbesturen uitbetaald uiterlijk op 31 
 De Vlaamse Regering kan binnen het toegekende budget op begrotingsartikel JB0-1JDG2IC-WT, subsidies verlenen aan UNIZO, VOKA, ABVV, ACV, ACLVB, GRIP vzw en Minderhedenforum voor de verlenging met maximum 1 jaar van de samenwerkingsovereenkomsten, afgesloten met de structurele partners binnen spoor 3 van het Focus op Talentbeleid.
 
 ## HOOFDSTUK 7. Inwerkingtreding
+
+### ART 10.
+
+Dit decreet treedt in werking tien dagen na publicatie, met uitzondering van:<br>
+1° de artikelen 3, 4, 5 en 9 die uitwerking hebben vanaf 1 januari 2019;<br>
+2° het artikel 7 dat uitwerking heeft vanaf 1 oktober 2019;<br>
+3° het artikel 8 dat in werking treedt op 31 december 2019.
