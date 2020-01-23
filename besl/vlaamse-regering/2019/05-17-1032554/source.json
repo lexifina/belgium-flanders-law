@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032554,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-17 houdende de werkwijze en de voorwaarden inzake de verkoop en exploitatie van hout en andere bosproducten uit openbare bossen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032554/VolledigDocument?datum=2020-01-23",
+  "source_sha256": "6f984d90ec84c52df0499cadc9afaef4ce6dabc08289d62fe29421c4911330af",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032554&param=informatie",
+  "as_of": "2020-01-23",
+  "made": "2019-05-17",
+  "gazette": "2020-01-13",
+  "numac": 2019014365,
+  "document_start": "2020-01-23",
+  "document_end": null,
+  "in_force": "2020-01-23",
+  "article_versions": 34,
+  "record_form": "consolidated version as in force on 2020-01-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
