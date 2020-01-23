@@ -2,16 +2,16 @@
   "codex_id": 1009281,
   "title": "Besluit van de Vlaamse Regering van 2002-06-07 betreffende de verkoop uit de hand van hout en andere bosproducten afkomstig uit openbare bossen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009281/VolledigDocument?datum=2008-05-21",
-  "source_sha256": "88ef7479ecd031b6a85cefee75f4cb4a75820f9feb8a9e7e984336eb12e44b70",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009281/VolledigDocument?datum=2020-01-23",
+  "source_sha256": "ead6d852d2307b5df0eae9ee8b752eb045dbc642e5da9aa5ab119d5844867048",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009281&param=informatie",
-  "as_of": "2008-05-21",
+  "as_of": "2020-01-23",
   "made": "2002-06-07",
   "gazette": "2002-07-20",
   "numac": 2002035903,
   "document_start": null,
   "document_end": "2020-01-22",
-  "in_force": "2008-05-21",
+  "in_force": "2020-01-23",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-23; future article versions excluded; article text as the API gives it"
 }
