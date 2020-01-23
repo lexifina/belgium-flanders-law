@@ -2,16 +2,16 @@
   "codex_id": 1009282,
   "title": "Besluit van de Vlaamse Regering van 2002-06-07 houdende de werkwijze en de voorwaarden inzake de openbare verkopingen van hout en andere bosproducten afkomstig uit openbare bossen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009282/VolledigDocument?datum=2011-07-25",
-  "source_sha256": "9632aea0d6d986c8a63d5bb9e5561b73709c7fb6d5700cc29847809179bd6563",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009282/VolledigDocument?datum=2020-01-23",
+  "source_sha256": "3c68bb87cfb7a17bdfd901d83040cdcb31fc7ec6d87be4a57a097c97ef10ae1a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009282&param=informatie",
-  "as_of": "2011-07-25",
+  "as_of": "2020-01-23",
   "made": "2002-06-07",
   "gazette": "2002-07-20",
   "numac": 2002035904,
   "document_start": null,
   "document_end": "2020-01-22",
-  "in_force": "2011-07-25",
+  "in_force": "2020-01-23",
   "article_versions": 55,
-  "record_form": "consolidated version as in force on 2011-07-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-01-23; future article versions excluded; article text as the API gives it"
 }
