@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032584,
+  "title": "Besluit van de Vlaamse Regering van 2019-12-06 houdende indeling bij de gemeentewegen van de gewestweg N115 tussen kmp. 17,80 en kmp. 18,85 op het grondgebied van de gemeente Brecht",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032584/VolledigDocument?datum=2020-01-31",
+  "source_sha256": "755297006d04e01d990b7f8a7dff6d7fba5a6ffd0d0b2d43d6dad9161956fc99",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032584&param=informatie",
+  "as_of": "2020-01-31",
+  "made": "2019-12-06",
+  "gazette": "2020-01-21",
+  "numac": 2020010009,
+  "document_start": "2020-01-31",
+  "document_end": null,
+  "in_force": "2020-01-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-01-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
