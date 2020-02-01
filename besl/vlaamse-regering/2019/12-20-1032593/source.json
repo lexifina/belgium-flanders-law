@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032593,
+  "title": "Besluit van de Vlaamse Regering van 2019-12-20 tot herverdeling van het provisionele krediet ingeschreven onder begrotingsartikel FC0-1FBD2AA-PR basisallocatie 1FB101 van de algemene uitgavenbegroting van de Vlaamse gemeenschap voor het begrotingsjaar 2019",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032593/VolledigDocument?datum=2020-02-01",
+  "source_sha256": "748c6ca3a48f485a7c37152f65621f4adb9fab7c333147d23edb7aa738fcbdac",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032593&param=informatie",
+  "as_of": "2020-02-01",
+  "made": "2019-12-20",
+  "gazette": "2020-01-22",
+  "numac": 2020020028,
+  "document_start": "2020-02-01",
+  "document_end": null,
+  "in_force": "2020-02-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
