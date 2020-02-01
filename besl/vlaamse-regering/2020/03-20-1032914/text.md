@@ -24,6 +24,39 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+Bijlage III bij het besluit van de Vlaamse regering van 7 oktober 1997 betreffende de nuttige ervaring als bekwaamheidsbewijs voor personeelsleden van het onderwijs, toegevoegd bij het besluit van de Vlaamse Regering van 12 maart 2010 en vervangen bij het besluit van de Vlaamse Regering van 24 mei 2019, wordt vervangen door de bijlage, die als bijlage 1 bij dit besluit is gevoegd.
+
+### ART 2.
+
+Aan bijlage V bij het besluit van de Vlaamse Regering van 1 september 2006 betreffende de ambtshalve concordantie, toegevoegd bij het besluit van de Vlaamse Regering van 19 maart 2010, vervangen bij het besluit van de Vlaamse Regering van 8 juli 2016 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 24 mei 2019, wordt een punt 18° toegevoegd, dat luidt als volgt:<br>
+"18° Met ingang van 1 februari 2020 wordt:<br>
+a) de module restauratietechnieken fineer meubel ambtshalve geconcordeerd naar de opleiding restauratievakman meubel;<br>
+b) de module restauratietechnieken massief meubel ambtshalve geconcordeerd naar de opleiding restauratievakman meubel;<br>
+c) de opleiding begeleid(st)er buitenschoolse kinderopvang ambtshalve geconcordeerd naar de opleiding kinderbegeleider schoolgaande kinderen;<br>
+d) de opleiding begeleider in de kinderopvang ambtshalve geconcordeerd naar de opleiding kinderbegeleider baby's en peuters."
+
 ### ART 3.
 
 In artikel 15/6, eerste en tweede lid, van het besluit van de Vlaamse Regering van 23 april 2010 betreffende de bekwaamheidsbewijzen en de salarisschalen voor de personeelsleden van de centra voor volwassenenonderwijs, ingevoegd bij het besluit van de Vlaamse Regering van 24 mei 2019, worden de woorden "module AAV Nederlands Basis" telkens vervangen door de woorden "module AAV Nederlands Basis of de module AAV Nederlands M1 of de module AAV Nederlands M2".
+
+### ART 4.
+
+De bijlage bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 24 mei 2019, wordt vervangen door de bijlage, die als bijlage 2 bij dit besluit is gevoegd.
+
+### ART 5.
+
+Dit besluit heeft uitwerking met ingang van 1 februari 2020, met uitzondering van artikel 3, dat uitwerking heeft met ingang van 1 september 2019.
+
+### ART 6.
+
+De Vlaamse minister, bevoegd voor onderwijs en vorming, is belast met de uitvoering van dit besluit.
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/04/28_1.pdf#page=179">Bijlage 1</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/04/28_1.pdf#page=215">Bijlage 2</a>
