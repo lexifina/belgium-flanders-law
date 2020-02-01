@@ -309,7 +309,15 @@ c) de module, vermeld in de volgende linkerkolom ambtshalve geconcordeerd naar d
 <br>
 &nbsp;* Bij BVR van&nbsp;24 mei 2019&nbsp;werd met ingang van 1&nbsp;september 2019 aan bijlage V een punt 17° toegevoegd dat luidt als volgt:<br>
 <br>
-"17° Met ingang van 1 september 2019 wordt de opleiding tegelzetter ambtshalve geconcordeerd naar de opleiding vloerder-tegelzetter."&nbsp;
+"17° Met ingang van 1 september 2019 wordt de opleiding tegelzetter ambtshalve geconcordeerd naar de opleiding vloerder-tegelzetter."&nbsp;<br>
+<br>
+* Bij BVR van 20 maart 2020 werd met ingang van 1 februari 2020 aan bijlage V een punt 18° toegevoegd dat luidt als volgt:<br>
+<br>
+"18° Met ingang van 1 februari 2020 wordt:<br>
+a) de module restauratietechnieken fineer meubel ambtshalve geconcordeerd naar de opleiding restauratievakman meubel;<br>
+b) de module restauratietechnieken massief meubel ambtshalve geconcordeerd naar de opleiding restauratievakman meubel;<br>
+c) de opleiding begeleid(st)er buitenschoolse kinderopvang ambtshalve geconcordeerd naar de opleiding kinderbegeleider schoolgaande kinderen;<br>
+d) de opleiding begeleider in de kinderopvang ambtshalve geconcordeerd naar de opleiding kinderbegeleider baby's en peuters."
 
 ## BIJLAGE VI
 
