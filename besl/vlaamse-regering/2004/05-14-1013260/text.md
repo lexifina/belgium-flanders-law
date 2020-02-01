@@ -304,7 +304,15 @@ Het is niet toegestaan :<br />1° de infrastructuur, de installaties of de appar
 
 ### ART. 66.
 
-<P>§ 1. Zodra de reiziger in het voertuig plaatsneemt, moet hij in het bezit   zijn van een vervoerbewijs dat geldig is of geldig is gemaakt voor de rit. Het   vervoerbewijs moet geldig zijn voor de volledige rit die hij ermee   aflegt.<BR><BR>§ 1/1. De reiziger valideert, zodra hij in het voertuig stapt,   het geldige vervoerbewijs.<BR><BR>§ 1/2. De reiziger moet het gevalideerde   vervoerbewijs tijdens de reis op elk moment kunnen tonen aan de personen die met   de controle zijn belast.<BR><BR>De reiziger moet op elk moment zijn identiteit   kunnen bewijzen.<BR><BR>§ 2. De reiziger zonder geld of zonder gepast geld moet   dat aan de bestuurder melden als hij in het voertuig stapt. De reiziger moet het   voor die rit verschuldigde bedrag en de administratiekosten betalen aan de VVM   binnen een termijn van veertien dagen. Als hij niet betaalt binnen die termijn,   wordt dat gelijkgesteld met een overtreding van § 1.<BR><BR>De minister bepaalt   vanaf welk bedrag de bestuurder bankbiljetten mag weigeren als het onmogelijk is   om ervan terug te geven.</P>
+<p>§ 1. Zodra de reiziger in het voertuig plaatsneemt, moet hij in het bezit zijn van een vervoerbewijs dat geldig is of geldig is gemaakt voor de rit. Het vervoerbewijs moet geldig zijn voor de volledige rit die hij ermee aflegt.<br>
+<br>
+§ 1/1. De reiziger valideert, zodra hij in het voertuig stapt, het geldige vervoerbewijs.<br>
+<br>
+§ 1/2. De reiziger moet het gevalideerde vervoerbewijs tijdens de reis op elk moment kunnen tonen aan de personen die met de controle zijn belast.<br>
+<br>
+De reiziger moet op elk moment zijn identiteit kunnen bewijzen.<br>
+<br>
+§ 2. Op de voertuigen van VVM kunnen vervoerbewijzen vanaf 1 juli 2020 niet met cash geld betaald worden.</p>
 
 ### ART. 67.
 
