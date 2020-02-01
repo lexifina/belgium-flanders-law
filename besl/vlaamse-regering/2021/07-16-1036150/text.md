@@ -25,6 +25,37 @@ DE VLAAMSE REGERING BESLUIT:
 
 In artikel VII 20, § 2, 1°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 29 mei 2009, wordt de zinsnede "zoals bedoeld in artikel VII 6 § 2" vervangen door de zinsnede ", vermeld in artikel VII 6, § 2, § 2bis, § 2ter en § 3.".
 
+### ART 10.
+
+Aan deel VII, titel 2, hoofdstuk 2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 6 september 2019, wordt een afdeling 13, die bestaat uit artikel VII 44quater, toegevoegd, die luidt als volgt:<br>
+<br>
+"Afdeling 13. Vervangende toelage maaltijdcheques<br>
+<br>
+Art. VII 44quater. Een personeelslid ontvangt de volgende toelage per maaltijdcheque, die niet binnen de door de RSZ-reglementering voorgeschreven termijn is toegekend:
+<table border="1" style="width:800px">
+	<tbody>
+		<tr>
+			<td>nominale waarde maaltijdcheque</td>
+			<td>statutairen</td>
+			<td>contractuelen</td>
+			<td>vakantiewerkers</td>
+		</tr>
+		<tr>
+			<td>7 euro</td>
+			<td>10,82 euro</td>
+			<td>12,01 euro</td>
+			<td>6,07 euro</td>
+		</tr>
+		<tr>
+			<td>4 euro</td>
+			<td>5,33 euro</td>
+			<td>5,91 euro</td>
+			<td>-</td>
+		</tr>
+	</tbody>
+</table>
+".
+
 ### ART 11.
 
 In artikel VII 70ter van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 september 2008 en gewijzigd bij de besluiten van de Vlaamse Regering van 29 mei 2009 en 22 september 2017, worden de volgende wijzigingen aangebracht:<br>
