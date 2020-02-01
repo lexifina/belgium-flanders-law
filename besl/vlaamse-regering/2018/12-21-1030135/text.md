@@ -18,20 +18,20 @@ Besluit :
 
 ### ART 1.
 
-De maximumtarieven en de categorieën van personen die in aanmerking komen voor gratis vervoer die voorgesteld worden door de raad van bestuur van de Vlaamse Vervoermaatschappij - De Lijn en die opgenomen zijn in de bijlage die bij dit besluit is gevoegd, worden goedgekeurd.
+...
 
 ### ART 2.
 
-Het besluit van de Vlaamse Regering van 22 december 2017 tot goedkeuring van de maximumtarieven van de Vlaamse Vervoermaatschappij - De Lijn en de categorieën van personen die in aanmerking komen voor gratis vervoer wordt opgeheven.
+...
 
 ### ART 3.
 
-Dit besluit treedt in werking op 1 februari 2019.
+...
 
 ### ART 4.
 
-De Vlaamse minister, bevoegd voor het mobiliteitsbeleid, de openbare werken en het vervoer, is belast met de uitvoering van dit besluit.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/01/23_1.pdf#page=237">Bijlage</a>
+...
