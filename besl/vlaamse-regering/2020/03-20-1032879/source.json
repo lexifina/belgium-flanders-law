@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032879,
+  "title": "Besluit van de Vlaamse Regering van 2020-03-20 tot wijziging van de regelgeving over de indeling van studiegebieden in opleidingen van het secundair volwassenenonderwijs, de studiebekrachtiging en de modulaire structuur van het secundair volwassenenonderwijs voor de studiegebieden meubelmakerij, schrijnwerkerij en specifieke personenzorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032879/VolledigDocument?datum=2020-02-01",
+  "source_sha256": "ca148452531ee663b8be7c944bd616e071c803a04959ea3a8687cdc0702320f0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032879&param=informatie",
+  "as_of": "2020-02-01",
+  "made": "2020-03-20",
+  "gazette": "2020-04-22",
+  "numac": 2020030637,
+  "document_start": "2020-02-01",
+  "document_end": null,
+  "in_force": "2020-02-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2020-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
