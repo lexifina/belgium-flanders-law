@@ -8,16 +8,20 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het secundair volwassenenonderwijs op de volgende wijze vastgelegd in de volgende bijlagen die bij dit besluit zijn gevoegd :<br>
 1° bijlage VI tot en met VIII voor het studiegebied algemene personenzorg;<br>
-2° bijlage IV en bijlage X tot en met XIV voor het studiegebied assistentie vrije zorgberoepen;<br>
-3° bijlage I tot en met III, bijlage V en bijlage IX voor het studiegebied specifieke personenzorg.<br>
+2° bijlage X tot en met XIV voor het studiegebied assistentie vrije zorgberoepen;<br>
+3° bijlage I tot en met III, bijlage V, bijlage IX, bijlage XV en bijlage XVI voor het studiegebied specifieke personenzorg.<br>
 <br>
 Ter uitvoering van artikel 24, § 2, van het voormelde decreet wordt voor bijzondere doelgroepen als volgt afgeweken van het minimale aantal lestijden van de volgende opleidingen :<br>
-1° de opleiding Begeleider in de Kinderopvang kan voor snel-lerende cursisten 1260 lestijden bedragen, waarbij de module Zorg in de kinderopvang 1 maar 20 lestijden bedraagt;<br>
+1° ...;<br>
 2° de uitbreidingsmodule Motorisch-visuele communicatievormen, vastgelegd in de opleidingsprofielen, vermeld in bijlage III en bijlage VI tot en met IX, kan voor snel-lerende cursisten maar 40 lestijden bedragen;<br>
 3° de uitbreidingsmodule Complexe cliëntcontexten, vastgelegd in de opleidingsprofielen, vermeld in bijlage VII en VIII, kan voor snel-lerende cursisten maar 40 lestijden bedragen;<br>
-4° de uitbreidingsmodule Mentor op de werkvloer, vastgelegd in de opleidingsprofielen, vermeld in bijlage I tot en met IV, bijlage VIII en bijlage IX, kan voor snel-lerende cursisten 40 lestijden bedragen;<br>
+4° de uitbreidingsmodule Mentor op de werkvloer, vastgelegd in de opleidingsprofielen, vermeld in bijlage III, bijlage VIII tot en met bijlage X, bijlage XV en bijlage XVI, kan voor snellerende cursisten 40 lestijden bedragen;<br>
 5° de uitbreidingsmodule Communicatieve hulmiddelen, vastgelegd in de opleidingsprofielen, vermeld in bijlage III en bijlage VI tot en met IX, kan voor snel-lerende cursisten maar 20 lestijden bedragen;<br>
-6° de opleiding Zorgkundige kan voor bijlerende cursisten 1540 lestijden bedragen, waarbij de module Totaalzorg 90 lestijden bedraagt en de module Individuele praktijkbegeleiding Zorgkundige 90 lestijden bedraagt.
+6° de opleiding Zorgkundige kan voor bijlerende cursisten 1540 lestijden bedragen, waarbij de module Totaalzorg 90 lestijden bedraagt en de module Individuele praktijkbegeleiding Zorgkundige 90 lestijden bedraagt;<br>
+7° de opleiding Kinderbegeleider Baby's en Peuters kan voor snel lerende cursisten 668 lestijden bedragen, waarbij de module EHBO en levensreddend handelen maar 8 lestijden bedraagt en de module Stage Kinderbegeleider Baby's en Peuters maar 40 lestijden bedraagt;<br>
+8° de opleiding Kinderbegeleider Schoolgaande Kinderen kan voor snel lerende cursisten 628 lestijden bedragen, waarbij de module EHBO en levensreddend handelen maar 8 lestijden bedraagt en de module Stage Kinderbegeleider Schoolgaande Kinderen maar 40 lestijden bedraagt;<br>
+9° de opleiding Kinderbegeleider Baby's en Peuters kan voor traag lerende cursisten 1030 lestijden bedragen, waarbij de modules De kinderopvang en ik, Basis verzorging, Samenwerken in het team en interdisciplinair en Indeling tijd en ruimte baby's en peuters 40 lestijden bedragen, de modules Basisprincipes van pedagogisch handelen en Voeding baby's en peuters 60 lestijden bedragen, de modules Pedagogisch handelen baby's en peuters, Omgaan met diversiteit in de kinderopvang, Verzorging baby's en peuters, Kwaliteitsvol werken in de kinderopvang en Samenwerken met gezinnen en hun context 80 lestijden bedragen, de module Spel baby's en peuters 120 lestijden bedraagt en de module Stage Kinderbegeleider Baby's en Peuters 160 lestijden bedraagt;<br>
+10° de opleiding Kinderbegeleider Schoolgaande Kinderen kan voor traag lerende cursisten 970 lestijden bedragen, waarbij de modules De kinderopvang en ik, Basis verzorging, Samenwerken in het team en interdisciplinair, Indeling tijd en ruimte schoolgaande kinderen, Zorg schoolgaande kinderen en Voeding schoolgaande kinderen 40 lestijden bedragen, de module Basisprincipes van pedagogisch handelen 60 lestijden bedraagt, de modules Pedagogisch handelen schoolgaande kinderen, Omgaan met diversiteit in de kinderopvang, Kwaliteitsvol werken in de kinderopvang en Samenwerken met gezinnen en hun context 80 lestijden bedragen, de module Spel schoolgaande kinderen 120 lestijden bedraagt en de module Stage Kinderbegeleider Schoolgaande kinderen 160 lestijden bedraagt.
 
 ### ART. 2.
 
@@ -112,3 +116,11 @@ Bijlage XIII<br>
 Bijlage XIV<br>
 <br>
 <a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=515">http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=515</a>
+
+### BIJLAGE XV
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/04/22_1.pdf#page=111">Bijlage XV</a>
+
+### BIJLAGE XVI
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/04/22_1.pdf#page=142">Bijlage XVI</a>
