@@ -42,9 +42,9 @@ In dit besluit wordt verstaan onder:<br>
 6° ICES-gebieden: de beschrijving van gebieden en sectoren, vermeld in bijlage III van Verordening (EG) nr. 218/2009 van het Europees parlement en de Raad van 11 maart 2009 inzake de verstrekking van statistieken van de nominale vangsten van Lidstaten die in het noordoostelijke gedeelte van de Atlantische Oceaan vissen;<br>
 7° KVS: klein vlootsegment, waaronder de vissersvaartuigen met een motorvermogen van 221 kW of minder ressorteren;<br>
 8° motorvermogen: het vermogen zoals bepaald in de Officiële lijst der Belgische zeeschepen 2020 eventueel verhoogd met het bijkomend motorvermogen, vermeld op de visvergunning;<br>
-9° teruggooiplan Noordzee: teruggooiplan zoals vermeld in gedelegeerde verordening (EU) nr. 2019/ van de Commissie tot vaststelling van nadere bepalingen ter uitvoering van de aanlandingsverplichting voor bepaalde demersale visserijen in de Noordzee voor de periode 2020-2021;<br>
-10° teruggooiplan noordwestelijke wateren: teruggooiplan zoals bepaald bij gedelegeerde verordening (EU) nr. 2019/ van de Commissie tot vaststelling van een teruggooiplan voor bepaalde demersale visserijen in de noordwestelijke wateren voor de periode 2020-2021;<br>
-11° teruggooiplan zuidwestelijke wateren: teruggooiplan zoals bepaald bij gedelegeerde verordening (EU) nr. 2019/ van de Commissie tot vaststelling van een teruggooiplan voor bepaalde demersale visserijen in de zuidwestelijke wateren voor de periode 2020-2021;<br>
+9° teruggooiplan Noordzee: teruggooiplan zoals vermeld in gedelegeerde verordening (EU) nr. 2019/2238 van de Commissie tot vaststelling van nadere bepalingen ter uitvoering van de aanlandingsverplichting voor bepaalde demersale visserijen in de Noordzee voor de periode 2020-2021;<br>
+10° teruggooiplan noordwestelijke wateren: teruggooiplan zoals bepaald bij gedelegeerde verordening (EU) nr. 2019/2239 van de Commissie tot vaststelling van een teruggooiplan voor bepaalde demersale visserijen in de noordwestelijke wateren voor de periode 2020-2021;<br>
+11° teruggooiplan zuidwestelijke wateren: teruggooiplan zoals bepaald bij gedelegeerde verordening (EU) nr. 2019/2237 van de Commissie tot vaststelling van een teruggooiplan voor bepaalde demersale visserijen in de zuidwestelijke wateren voor de periode 2020-2021;<br>
 12° vaartdag: de aanwezigheid op zee van ten minste vier uur in de loop van een dag. Het uitvaren van een vissersschip voor een duur die 24 uur niet overschrijdt, wordt als één vaartdag beschouwd. Het uitvaren van een vissersschip voor een duur die 24 uur of een veelvoud van 24 uur overschrijdt, levert telkens een nieuwe vaartdag op;<br>
 13° vismachtiging: het visdocument, vermeld in artikel 7 van Verordening (EG) nr. 1224/2009 van de Raad van 20 november 2009 tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen, tot wijziging van verordeningen (EG) nr. 847/96, (EG) nr. 2371/2002, (EG) nr. 811/2004, (EG) nr. 768/2005, (EG) nr. 2115/2005, (EG) nr. 2166/2005, (EG) nr. 388/2006, (EG) nr. 509/2007, (EG) nr. 676/2007, (EG) nr. 1098/2007, (EG) nr. 1300/2008, (EG) nr. 1342/2008 en tot intrekking van verordeningen (EEG) nr. 2847/93, (EG) nr. 1627/94 en (EG) nr. 1966/2006;<br>
 14° vissersvaartuig: elk vaartuig dat uitgerust is voor de commerciële exploitatie van visbestanden en vermeld is in de Officiële lijst der Belgische zeeschepen 2020;<br>
@@ -135,11 +135,11 @@ In afwijking van het eerste lid, punt 10, is de aanvoerlengte van 25 cm voor ton
 
 Voor de visserij op tong in de ICES-gebieden II en IV, VIIa, VIId, VIIe, VIIf, g, VIIh, j, k en VIIIa, b, wordt gebruik gemaakt van de de-minimisvoorwaarden beschreven in respectievelijk het teruggooiplan Noordzee, het teruggooiplan noordwestelijke wateren en het teruggooiplan zuidwestelijke wateren.<br>
 <br>
-Voor de visserij op tarbot in de ICES-gebieden II en IV met BT2 wordt gebruik gemaakt van de hoge overlevingsvoorwaarden beschreven in het teruggooiplan Noordzee.<br>
+Voor de visserij op tarbot in de ICES-gebieden II en IV met boomkorren met een kuil van meer dan 80 mm (TBB) wordt gebruik gemaakt van de hoge overlevingsvoorwaarden beschreven in het teruggooiplan voor de Noordzee.<br>
 <br>
 Voor de visserij op kabeljauw en wijting met vistuig TR2 in het ICES-gebied IV en de visserij op Noorse kreeft in de ICES-gebieden II, IV kan worden gebruik gemaakt van de de-minimisvoorwaarden beschreven in het teruggooiplan voor de Noordzee.<br>
 <br>
-Voor de visserij op kabeljauw en voor de visserij op schelvis in de ICES-gebieden VIIe-k kan worden gebruik gemaakt van de de-minimisvoorwaarden beschreven in het teruggooiplan voor de noordwestelijke wateren.<br>
+Voor de visserij op schelvis in de ICES-gebieden VIIe-k kan worden gebruik gemaakt van de de-minimisvoorwaarden beschreven in het teruggooiplan voor de noordwestelijke wateren.<br>
 <br>
 Voor de visserij op wijting in de ICES-gebieden II, IV; VIIb-k kan worden gebruik gemaakt van de de-minimisvoorwaarden beschreven in de teruggooiplannen voor de Noordzee en de noordwestelijke wateren.<br>
 <br>
@@ -149,7 +149,7 @@ Voor de visserij op schartong, schol, zeeduivel, wijting, vlaswijting in de ICES
 <br>
 De teruggegooide hoeveelheden worden in het elektronisch logboek gerapporteerd.<br>
 <br>
-Indien een in artikel 14, 16, 17, 18, 22, 25 § 7, 26 en 28 § 9 bepaalde drempelwaarde tijdens een zeereis dreigt te worden overschreden, wordt de visserijactiviteit onmiddellijk opgeschort en worden de activiteiten minimaal tien nautische mijl verlegd. Voor de visserij uitgevoerd met vaartuigen met een brutotonnage kleiner dan 70 BT worden de activiteiten minimaal drie nautische mijl verlegd.
+Indien een in artikel 14, 16, 17, 18, 22, 27 § 9 bepaalde drempelwaarde tijdens een zeereis dreigt te worden overschreden, wordt de visserijactiviteit onmiddellijk opgeschort en worden de activiteiten minimaal tien nautische mijl verlegd. Voor de visserij uitgevoerd met vaartuigen met een brutotonnage kleiner dan 70 BT worden de activiteiten minimaal drie nautische mijl verlegd.
 
 ### ART 9.
 
@@ -219,9 +219,9 @@ In afwijking van het eerste lid is het in de periode van 1 januari 2020 tot en m
 
 ### ART 15.
 
-§ 1. Het totale scholquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen van het KVS, bedraagt 619 ton voor de periode van 1 januari 2020 tot en met 31 december 2020. Bij uitputting van dat quotum, is het voor die vissersvaartuigen verboden nog schol aan te voeren uit die ICES-gebieden.<br>
+§ 1. Het totale scholquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen van het KVS, bedraagt&nbsp;585 ton voor de periode van 1 januari 2020 tot en met 31 december 2020. Bij uitputting van dat quotum, is het voor die vissersvaartuigen verboden nog schol aan te voeren uit die ICES-gebieden.<br>
 <br>
-Het totale scholquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen van het GVS, bedraagt 4541 ton voor de periode van 1 januari 2020 tot en met 31 december 2020. Bij uitputting van dat quotum, is het voor die vissersvaartuigen verboden nog schol aan te voeren uit die ICES-gebieden.<br>
+Het totale scholquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen van het GVS, bedraagt 4295 ton voor de periode van 1 januari 2020 tot en met 31 december 2020. Bij uitputting van dat quotum, is het voor die vissersvaartuigen verboden nog schol aan te voeren uit die ICES-gebieden.<br>
 <br>
 § 2. Van 1 januari 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 60 kg per kW voor 15 maart 2020 worden opgevist.<br>
 <br>
@@ -265,9 +265,9 @@ Het de-minimisquotum bedraagt 22 ton tong. De drempelwaarde vermeld in artikel 8
 
 ### ART 18.
 
-§ 1. Het totale kabeljauwquotum in de ICES-gebieden II, IV, dat gereserveerd is voor de vissersvaartuigen van het KVS, bedraagt 65ton voor de periode van 1 januari 2020 tot en met 31 december 2020. Bij uitputting van dat quotum, is het voor die vissersvaartuigen verboden nog kabeljauw aan te voeren uit die ICES-gebieden.<br>
+§ 1. Het totale kabeljauwquotum in de ICES-gebieden II, IV, dat gereserveerd is voor de vissersvaartuigen van het KVS, bedraagt 55 ton voor de periode van 1 januari 2020 tot en met 31 december 2020. Bij uitputting van dat quotum, is het voor die vissersvaartuigen verboden nog kabeljauw aan te voeren uit die ICES-gebieden.<br>
 <br>
-Het totale kabeljauwquotum in de ICES-gebieden II, IV, dat gereserveerd is voor de vissersvaartuigen van het GVS, bedraagt 355 ton voor de periode van 1 januari 2020 tot en met 31 december 2020. Bij uitputting van dat quotum, is het voor die vissersvaartuigen verboden nog kabeljauw aan te voeren uit die ICES-gebieden.<br>
+Het totale kabeljauwquotum in de ICES-gebieden II, IV, dat gereserveerd is voor de vissersvaartuigen van het GVS, bedraagt 313 ton voor de periode van 1 januari 2020 tot en met 31 december 2020. Bij uitputting van dat quotum, is het voor die vissersvaartuigen verboden nog kabeljauw aan te voeren uit die ICES-gebieden.<br>
 <br>
 De drempelwaarde bedoeld in artikel 8 wordt voor de kabeljauwvisserij met vistuig TR2 in de ICES-gebied IVc vastgelegd op maximaal 4% van de reeds in de visreis in kwestie gerealiseerde kabeljauwvangst in het gebied in kwestie. Bij uitputting van het de-minimisquotum, is het voor die vissersvaartuigen TR2 verboden nog gebruik te maken van de-minimis voor kabeljauw afkomstig uit dit ICES-gebied.<br>
 <br>
@@ -315,7 +315,7 @@ Vaartuigen die in 2019 werden uitgeloot om te genieten van het wetenschappelijk 
 <br>
 Het wetenschappelijk quotum van maximaal 3000 kg tong per visreis moet in maximaal 5 opeenvolgende zeedagen worden opgevist. Het niet opgevist deel is definitief verloren. Indien meer gevist wordt, komt dit in mindering van de normaal toegekende hoeveelheden aan het vaartuig.<br>
 <br>
-De visreis moet volledig in ICES-gebied VIIa plaatsvinden en gedurende de volledige visreis dient minstens één wetenschapper van ILVO aan boord te zijn. Bovendien moet de eigenaar van het vaartuig toelaten dat desgevallend een wetenschapper inscheept tijdens reguliere visreizen ter opname van de toewijzing vermeld in lid 2.<br>
+De visreis moet volledig in ICES-gebied VIIa plaatsvinden en gedurende de volledige visreis dient minstens één wetenschapper van ILVO aan boord te zijn. De aanvrager moet voor de aanmonstering van de wetenschapper de nodige maatregelen voorzien om tijdens de visreis de veiligheid van de wetenschapper te garanderen. Bovendien moet de eigenaar van het vaartuig toelaten dat desgevallend een wetenschapper inscheept tijdens reguliere visreizen ter opname van de toewijzing vermeld in lid 2.<br>
 <br>
 Indien een eigenaar van een vaartuig, aangeduid conform lid 4, behoudens geval van overmacht niet deelneemt aan het wetenschappelijk onderzoek, komt het vaartuig niet langer in aanmerking voor analoog wetenschappelijk onderzoek tot en met 2020 en wordt de toegekende hoeveelheid tong, vermeld in lid 2, voor betreffende toewijsperiode met 3000 kg tong verminderd.<br>
 <br>
@@ -331,7 +331,9 @@ In de periode van 1 januari 2020 tot en met 31 december 2020 is het voor een vis
 <br>
 In de periode van 1 januari 2020 tot en met 31 oktober 2020 is het in het ICES-gebied VIIe voor een vissersvaartuig van het KVS verboden een totale tongvangst te realiseren die groter is dan 1200 kg.<br>
 <br>
-In de periode van 1 januari 2020 tot en met 31 oktober 2020 is het in het ICES-gebied VIIe voor een vissersvaartuig van het GVS verboden een totale tongvangst te realiseren die groter is dan 2400 kg.
+In de periode van 1 januari 2020 tot en met 31 oktober 2020 is het in het ICES-gebied VIIe voor een vissersvaartuig van het GVS verboden een totale tongvangst te realiseren die groter is dan 2400 kg.<br>
+<br>
+Ingeval van gemengde visreizen met aanwezigheid in de ICES-gebieden VIIe en VIIf, g, is het in ICES-gebied VIIe verboden een hoeveelheid te overschrijden van 300 kg, gerealiseerd tijdens die zeereis in dat ICES-gebied.
 
 ## Onderafdeling 2 Tong en schol Zuidwest-Ierland, zijnde ICES-gebieden VIIh, j, k
 
@@ -339,7 +341,9 @@ In de periode van 1 januari 2020 tot en met 31 oktober 2020 is het in het ICES-g
 
 De tongvangst in ICES-gebieden VIIh,j,k is verboden in de periode van 1 januari 2020 tot en met 31 januari 2020.<br>
 <br>
-In de periode van 1 februari 2020 tot en met 31 december 2020 is het in de ICES-gebieden VIIh, j, k voor een vissersvaartuig van het GVS verboden een totale scholvangst te realiseren die groter is dan 500 kg.
+Vanaf 1 februari 2020 tot en met 30 juni 2020 is het in de ICES-gebieden VIIh,j,k voor een vissersvaartuig van het GVS verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In de periode van 1 februari 2020 tot en met 31 december 2020 is het in de ICES-gebieden VIIh, j, k voor een vissersvaartuig van het GVS verboden een totale scholvangst te realiseren die groter is dan 250 kg.
 
 ## Onderafdeling 3. Schol
 
@@ -379,9 +383,19 @@ In de periode van 1 januari 2020 tot en met 31 december 2020 is het in de ICES-g
 <br>
 § 6. De paragrafen een tot en met drie zijn niet van toepassing op de vissersvaartuigen waarvoor een toewijzing van vangstmogelijkheden in functie van het motorvermogen werd aangevraagd, als vermeld in artikel 19.<br>
 <br>
-§ 7. De de-minimis voor kabeljauw in de ICES-gebieden VIIe-k bedraagt 1 ton. De drempelwaarde vermeld in artikel 8 bedraagt voor de kabeljauwvisserij in het ICES-gebieden VIIe-k maximaal 10% van de reeds in de visreis in kwestie gerealiseerde kabeljauwvangst in het gebied in kwestie. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor kabeljauw afkomstig uit dat ICES-gebied VIIe-k.
+§ 7. ...
 
 ## [Onderafdeling 4/1. Schelvis (ing. MB 22 januari 2020, art. 8, I: 1 februari 2020)]
+
+### ART 25/1.
+
+In de periode van 1 januari 2020 tot en met 31 december 2020 is het in de ICES-gebieden VII, VIII voor een vissersvaartuig van het KVS verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 25 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In de periode van 1 januari 2020 tot en met 31 december 2020 is het in de ICES-gebieden VII, VIII voor een vissersvaartuig van het GVS verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In afwijking van het eerste en tweede lid zijn de vangsthoeveelheden 100 kg per dag op reisbasis, voor vangsten die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2020 uitsluitend uitgerust is met de planken.<br>
+<br>
+De de-minimis voor schelvis in de ICES-gebieden VIIe-k, bedraagt 5 ton. De drempelwaarde vermeld in artikel 8 bedraagt voor de schelvisvisserij in de ICES-gebieden VIIe-k, maximaal 10 % van de reeds in de visreis in kwestie gerealiseerde schelvisvangst in het gebied in kwestie. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor schelvis afkomstig uit dat ICES-gebied VIIe-k.
 
 ## Onderafdeling 5. Rog
 
@@ -441,7 +455,7 @@ In afwijking van het tweede en derde lid worden de maximaal toegelaten vangsthoe
 <br>
 § 9. De de-minimis voor wijting in de ICES-gebieden II, IV bedraagt 2% van het tong en schol quotum in deze gebieden.<br>
 <br>
-De de-minimis voor wijting in de ICES-gebieden VIIb-k bedraagt 32 ton.<br>
+De de-minimis voor wijting in de ICES-gebieden VIIb-k bedraagt&nbsp;15 ton.<br>
 <br>
 De drempelwaarde vermeld in artikel 8 bedraagt voor de wijting in de ICES-gebieden II, IV en ICES-gebieden VIIb-k maximaal 10% van de reeds in de visreis in kwestie gerealiseerde wijtingvangst in het gebied in kwestie. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor wijting uit deze ICES-gebieden.<br>
 <br>
@@ -457,17 +471,17 @@ De beperkingen vermeld in het eerste en tweede lid zijn niet van toepassing zola
 <br>
 De beperkingen, vermeld in het eerste lid, zijn niet van toepassing zolang geen 60% van het quotum in kwestie, inclusief quotaruilen, is opgebruikt.<br>
 <br>
-§ 12. De de-minimis voor Noorse kreeft in de ICES-gebieden II, IV bedraagt 20 ton.<br>
+§ 12. ...<br>
 <br>
-§ 13. In de periode van 1 januari 2020 tot en met 31 december 2020 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de tarbot- en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 13. In de periode van 1 januari 2020 tot en met 31 december 2020 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de tarbot- en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 In de periode van 1 januari 2020 tot en met 31 december 2020 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de tarbot en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-§ 14. De de-minimis voor makreel in het ICES-gebied II, IV bedraagt 10 ton.<br>
+§ 14. De de-minimis voor makreel in het ICES-gebied II, IV bedraagt&nbsp;7 ton.<br>
 <br>
-De de-minimis voor makreel in het ICES-gebieden VII, VIII bedraagt 4 ton.<br>
+De de-minimis voor makreel in het ICES-gebieden VII, VIII bedraagt&nbsp;3 ton.<br>
 <br>
-§ 15. De de-minimis voor horsmakreel in het ICES-gebieden II, IV, VIId bedraagt 3 ton.<br>
+§ 15. De de-minimis voor horsmakreel in het ICES-gebieden II, IV, VIId bedraagt&nbsp;4 ton.<br>
 <br>
 De de-minimis voor horsmakreel in het ICES-gebieden VII bedraagt 1 ton.
 
@@ -499,7 +513,7 @@ Er wordt met gemiddelde forfaitaire prijzen gewerkt, gebaseerd op de gemiddelde 
 
 ### ART 30.
 
-§ 1. Bij overtreding van artikel 10 tot en met 12, van artikel 14 tot en met 27 of van artikel 29, of bij overtreding van de beperkingen, aangebracht aan de visvergunningen, kan de visvergunning die aan het vissersvaartuig werd afgeleverd, voor een periode van minstens vijf opeenvolgende dagen worden ingetrokken.<br>
+§ 1. Bij overtreding van artikel 10 tot en met 12, van artikel 14 tot en met 27 of van artikel 28, of bij overtreding van de beperkingen, aangebracht aan de visvergunningen, kan de visvergunning die aan het vissersvaartuig werd afgeleverd, voor een periode van minstens vijf opeenvolgende dagen worden ingetrokken.<br>
 <br>
 De bevoegde entiteit deelt de eigenaar van het vissersvaartuig de beslissing tot intrekking van de visvergunning per aangetekende brief mee. De intrekking treedt in werking op de derde dag die volgt op de dag van de notificatie. Tijdens de periode van intrekking moet het vissersvaartuig inactief in een Belgische vissershaven liggen. Het maximum aantal vaartdagen, vermeld in artikel 12, wordt verminderd met het aantal dagen waarop de visvergunning ingetrokken was.<br>
 <br>
