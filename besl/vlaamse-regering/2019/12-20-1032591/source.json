@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032591,
+  "title": "Besluit van de Vlaamse Regering van 2019-12-20 houdende de herverdeling van begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2019",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032591/VolledigDocument?datum=2020-02-01",
+  "source_sha256": "f11d2ced1af6529338a752d965503b2eb4704bf3e8e0fc9ee03d7feee1d1ae8a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032591&param=informatie",
+  "as_of": "2020-02-01",
+  "made": "2019-12-20",
+  "gazette": "2020-01-22",
+  "numac": 2020010026,
+  "document_start": "2020-02-01",
+  "document_end": null,
+  "in_force": "2020-02-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
