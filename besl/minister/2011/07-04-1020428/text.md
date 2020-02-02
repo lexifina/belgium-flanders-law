@@ -24,8 +24,7 @@ Het ministerieel besluit van 2 februari 2009 tot aanwijzing van sociaalrechtelij
 
 ### BIJLAGE
 
-De sociaalrechtelijke inspecteurs van de afdeling Toezicht en Handhaving van het Departement Werk en Sociale Economie zijn :<br>
-<br>
+De sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie zijn:<br>
 &nbsp;
 <table border="1">
 	<tbody>
@@ -35,14 +34,10 @@ De sociaalrechtelijke inspecteurs van de afdeling Toezicht en Handhaving van het
 		</tr>
 		<tr>
 			<td>Bergiers Jean-Marc</td>
-			<td>Linskens Caroline</td>
-		</tr>
-		<tr>
-			<td>Botteldoorn Kristof</td>
 			<td>Marchand Thalassa</td>
 		</tr>
 		<tr>
-			<td>Breynaert Katleen</td>
+			<td>Botteldoorn Kristof</td>
 			<td>Mariën Lieven</td>
 		</tr>
 		<tr>
@@ -58,24 +53,28 @@ De sociaalrechtelijke inspecteurs van de afdeling Toezicht en Handhaving van het
 			<td>Nollet Bart</td>
 		</tr>
 		<tr>
-			<td>Costermans Cornelia</td>
+			<td>Chaïbi Abdellah</td>
 			<td>Paternoster Johanna</td>
 		</tr>
 		<tr>
-			<td>Crals Myriam</td>
+			<td>Costermans Cornelia</td>
 			<td>Peeraer Hans</td>
 		</tr>
 		<tr>
-			<td>Cretskens Luc</td>
+			<td>Crals Myriam</td>
 			<td>Rossie Thomas</td>
 		</tr>
 		<tr>
-			<td>Cuypers Ines</td>
+			<td>Cretskens Luc</td>
 			<td>Segers Tom</td>
 		</tr>
 		<tr>
-			<td>De Wilde Hedwig</td>
+			<td>Cuypers Ines</td>
 			<td>Smits Elke</td>
+		</tr>
+		<tr>
+			<td>De Wilde Hedwig</td>
+			<td>Tothezan Otilia</td>
 		</tr>
 		<tr>
 			<td>De Wit Jurgen</td>
@@ -86,40 +85,36 @@ De sociaalrechtelijke inspecteurs van de afdeling Toezicht en Handhaving van het
 			<td>Van Duppen Nick</td>
 		</tr>
 		<tr>
-			<td>Dhaeze Steven</td>
+			<td>Dhondt Nathalie</td>
 			<td>Van Neygen Elke</td>
 		</tr>
 		<tr>
-			<td>Dhondt Nathalie</td>
+			<td>Dumeez Nele</td>
 			<td>Van Osselaer Koenraad</td>
 		</tr>
 		<tr>
-			<td>Dumeez Nele</td>
+			<td>Feremans David</td>
 			<td>Van Parys Willem</td>
 		</tr>
 		<tr>
-			<td>Feremans David</td>
+			<td>Gijsel Lize</td>
 			<td>Vandaele Chris</td>
 		</tr>
 		<tr>
-			<td>Gijsel Lize</td>
+			<td>Haerinck Frank</td>
 			<td>Vandenameele Vincent</td>
 		</tr>
 		<tr>
-			<td>Haerinck Frank</td>
+			<td>Heirman Alexander</td>
 			<td>Vandenbussche Stefanie</td>
 		</tr>
 		<tr>
-			<td>Heirman Alexander</td>
+			<td>Herman Katrien</td>
 			<td>Verhaegen Jelle</td>
 		</tr>
 		<tr>
-			<td>Herman Katrien</td>
-			<td>Verhofstadt Jan</td>
-		</tr>
-		<tr>
 			<td>Joosten Guy</td>
-			<td>Willems Marc</td>
+			<td>Verstraaten Katty</td>
 		</tr>
 	</tbody>
 </table>
