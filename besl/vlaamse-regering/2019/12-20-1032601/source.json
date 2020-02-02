@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032601,
+  "title": "Besluit van de Vlaamse Regering van 2019-12-20 tot herverdeling van begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2019 in het kader van het Vlaams Open Science beleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032601/VolledigDocument?datum=2020-02-02",
+  "source_sha256": "815dc88380b8a02f612c928bff3f6dbfa6d1e91c541aa0f5a534af30cc9b0a19",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032601&param=informatie",
+  "as_of": "2020-02-02",
+  "made": "2019-12-20",
+  "gazette": "2020-01-23",
+  "numac": 2020020013,
+  "document_start": "2020-02-02",
+  "document_end": null,
+  "in_force": "2020-02-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-02-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
