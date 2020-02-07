@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032624,
+  "title": "Ministerieel besluit van 2019-12-19 tot wijziging van het ministerieel besluit van 25 juli 2011 houdende de goedkeuring van het eenheidsreglement gerecycleerde granulaten en het ministerieel besluit van 3 juli 2018 tot wijziging van de bijlage bij het ministerieel besluit van 25 juli 2011 houdende de goedkeuring van het eenheidsreglement gerecycleerde granulaten wat betreft de toetsingswaarde van de fysische verontreiniging",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032624/VolledigDocument?datum=2020-02-07",
+  "source_sha256": "c93aa6e7d8352d2eb0d2b0c0afef3187be4b6066822819a04ddc680e5fa07661",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032624&param=informatie",
+  "as_of": "2020-02-07",
+  "made": "2019-12-19",
+  "gazette": "2020-01-28",
+  "numac": 2020020032,
+  "document_start": "2020-02-07",
+  "document_end": null,
+  "in_force": "2020-02-07",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2020-02-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
