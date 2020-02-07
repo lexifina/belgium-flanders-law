@@ -43,8 +43,8 @@ In afwijking van de bepalingen van artikel 7.6.3.E van de bijlage bij hetzelfde 
 
 ### ART 7.
 
-In afwijking van de bepalingen van artikel 7.6.4.2 van de bijlage bij hetzelfde besluit mogen tot 31 december 2019 uitgekeurde en conforme zeefzanden en granulaten, afkomstig van de bewerking van HMRP-puin, met het oog op de afvoer gevoegd worden bij de uitgekeurde en conforme zeefzanden en granulaten afkomstig van LMRP-puin.
+In afwijking van de bepalingen van artikel 7.6.4.2 van de bijlage bij hetzelfde besluit mogen tot 31 december 2021 uitgekeurde en conforme zeefzanden en granulaten, afkomstig van de bewerking van HMRP-puin, met het oog op de afvoer gevoegd worden bij de uitgekeurde en conforme zeefzanden en granulaten afkomstig van LMRP-puin.
 
 ### ART 8.
 
-De bepalingen van artikel 7.6.4.3 van de bijlage bij hetzelfde besluit treden in werking op 1 januari 2020.
+De bepalingen van artikel 7.6.4.3 van de bijlage bij hetzelfde besluit treden in werking op 1 januari 2023.
