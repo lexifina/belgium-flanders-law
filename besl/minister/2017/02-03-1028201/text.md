@@ -16,4 +16,7 @@ De standaardprocedure traceerbaarheid voor bouw- en sloopmateriaal, gevoegd in b
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/10/10_1.pdf#page=283">Standaardprocedure traceerbaarheid sloopmateriaal via een sloopbeheerorganisatie</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/10/10_1.pdf#page=283">Standaardprocedure traceerbaarheid sloopmateriaal via een sloopbeheerorganisatie</a><br>
+<br>
+Bij MB van 19 december 2019, BS 28 januari 2020 wordt met ingang van 7 februari 2020 de volgende wijziging aangebracht aan punt 1.3 van hoofdstuk VII van de bijlage:<br>
+de zinsnede "Voormeld puin met verwerkingstoelating type C kan tot en met 31 december 2019 als LMRP bij een puinbreker worden aangeleverd", wordt&nbsp;vervangen door de zinsnede "Voormeld puin met verwerkingstoelating type C kan tot en met 31 december 2021 als LMRP bij een puinbreker worden aangeleverd".
