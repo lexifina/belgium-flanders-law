@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032627,
+  "title": "Besluit van de Vlaamse Regering van 2019-12-20 tot toekenning van een projectsubsidie van maximaal 585.000 euro voor de organisatie van gezamenlijke digitale aanmeldingsprocedures voor inschrijvingen voor het schooljaar 2020-2021 in het basis- en secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032627/VolledigDocument?datum=2020-02-10",
+  "source_sha256": "76bd3b983dc59a963dcd9e1b48c58f7256248187943ec1b3b15fe5dddc663850",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032627&param=informatie",
+  "as_of": "2020-02-10",
+  "made": "2019-12-20",
+  "gazette": "2020-01-31",
+  "numac": 2020010250,
+  "document_start": "2020-02-10",
+  "document_end": null,
+  "in_force": "2020-02-10",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2020-02-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
