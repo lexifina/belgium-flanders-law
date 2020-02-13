@@ -213,7 +213,9 @@ Het de-minimisquotum bedraagt 73 ton tong. De drempelwaarde bedoeld in artikel 8
 <br>
 § 3. Van 1 januari 2020 tot en met 30 juni 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5500 kg, vermeerderd met een hoeveelheid die gelijk is aan 16 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
-In afwijking van het eerste lid is het in de periode van 1 januari 2020 tot en met 31 oktober 2020 in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat uitsluitend de passieve visserij bedrijft, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 6500 kg, vermeerderd met een hoeveelheid die gelijk is aan 40 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.
+In afwijking van het eerste lid is het in de periode van 1 januari 2020 tot en met 31 oktober 2020 in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat uitsluitend de passieve visserij bedrijft, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 6500 kg, vermeerderd met een hoeveelheid die gelijk is aan 40 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+<br>
+§ 4. Er worden geen gecombineerde visreizen toegestaan tussen ICES-gebieden II, IV en VIIf,g.
 
 ## Onderafdeling 2. Schol Noordzee - ICES-gebieden II, IV
 
@@ -443,13 +445,7 @@ In afwijking van het eerste en tweede lid worden de maximaal toegelaten vangstho
 <br>
 § 6. Het totale wijtingquotum in de ICES-gebieden VIIb-k, dat gereserveerd is voor de vissersvaartuigen die volgens de Officiële lijst der Belgische zeeschepen 2020 uitgerust zijn met de planken of met de zegen, bedraagt maximaal 40 % van het beschikbaar quotum voor de periode van 1 januari 2020 tot en met 31 december 2020. Bij uitputting van dat segmentsquotum, is het voor die vissersvaartuigen verboden nog wijting aan te voeren uit de ICES-gebieden VIIb-k.<br>
 <br>
-§ 7. In de periode van 1 januari 2020 tot en met 31 december 2020 is het in de ICES-gebieden VIIb-k voor een vissersvaartuig van het KVS verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-In de periode van 1 januari 2020 tot en met 31 december 2020 is het in de ICES-gebieden VIIb-k voor een vissersvaartuig van het GVS verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-De maximaal toegelaten vangsthoeveelheden die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2020 uitsluitend uitgerust is met de planken worden vastgesteld op 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd in die ICES-gebieden.<br>
-<br>
-In afwijking van het tweede en derde lid worden de maximaal toegelaten vangsthoeveelheden die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2020 uitsluitend uitgerust is met de zegen, vastgesteld op 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd in die ICES-gebieden.<br>
+§ 7. In de periode van 1 januari 2020 tot en met 31 december 2020 is het in de ICES-gebieden VIIb-k voor een vissersvaartuig verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 § 8. In de periode van 1 januari 2020 tot en met 31 december 2020 is het in het ICES-gebied VIIa voor een vissersvaartuig van het GVS verboden bij wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 20 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES gebied.<br>
 <br>
