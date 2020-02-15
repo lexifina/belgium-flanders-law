@@ -46,7 +46,7 @@ a) er is een gemotiveerde aanvraag op schriftelijke of elektronische wijze inged
 b) de wijziging brengt geen budgettaire meerkosten teweeg;<br>
 c) de wijziging van de periode wordt voor het verstrijken van de periode op schriftelijke of elektronische wijze goedgekeurd;<br>
 3° verschuivingen tussen de kostenrubrieken goed te keuren binnen het voorziene totale project- of werkingsbudget, tot maximaal 10% van dat totale budget;<br>
-4° de subsidie geheel of gedeeltelijk terug te vorderen of niet uit te betalen in de gevallen, vermeld in artikel 13 en 14 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof en in het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring;<br>
+4° de subsidie geheel of gedeeltelijk terug te vorderen of niet uit te betalen in de gevallen, vermeld in artikel 13 en 14 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, in het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring en in het besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019;<br>
 5° uitzonderingen op het ter beschikking gestelde logo toe te staan.
 
 ## HOOFDSTUK 4 Delegatie inzake vertegenwoordiging
