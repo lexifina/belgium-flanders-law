@@ -48,34 +48,30 @@ Aanbevelingen waaruit een levensbeschouwelijke, ideologische of politieke overtu
 
 ### ART. 8.
 
-<p>De Vlaamse Regering verklaart de betrekking van gouverneur vacant. De oproep wordt tenminste op de website van de VDAB of de website Werken voor Vlaanderen gepubliceerd. De oproep regelt de wijze van kandidaatstelling en bevat een beknopte weergave van de functiebeschrijving en van het salaris.<br>
-<br>
-De termijn tussen de publicatie van de vacature en de uiterste datum van kandidaatstelling bedraagt ten minste twintig werkdagen.</p>
+...
 
 ### ART. 8/1.
 
 Voor de toegang tot een ambt van gouverneur gelden de volgende algemene toelatingsvoorwaarden:<br>
 1° Belg zijn;<br>
 2° een gedrag hebben dat in overeenstemming is met de eisen van het ambt van gouverneur;<br>
-3° de burgerlijke en politieke rechten genieten;<br>
-4° ...;<br>
-5° tien jaar relevante ervaring kunnen aantonen.
+3° de burgerlijke en politieke rechten genieten.
 
 ### ART. 8/2.
 
-In de selectieprocedure wordt onderzocht in welke mate de kandidaten   voldoen aan het vereiste competentieprofiel voor de functie.<BR><BR>De Vlaamse   Regering stelt de functiebeschrijving vast.<BR>
+...
 
 ### ART. 8/3.
 
-§ 1. De kandidaten worden door een onafhankelijk selectiebureau   geselecteerd op basis van de criteria, vermeld in artikel 8/1 en 8/2.<BR><BR>§   2. Het onafhankelijk selectiebureau stelt aan de minister van Binnenlandse   Aangelegenheden een lijst met geschikte kandidaten voor.
+...
 
 ### ART. 8/4.
 
-De Vlaamse Regering kiest de meest geschikte kandidaat uit de lijst,   vermeld in artikel 8/3, § 2.
+...
 
 ### ART. 8/5.
 
-Wanneer de geselecteerde kandidaat voor een hoorzitting in de daartoe   bevoegde Commissie van het Vlaams Parlement wordt uitgenodigd, dient hij daaraan   gevolg te geven met het oog op zijn benoeming.
+...
 
 ## DEEL IV HET VERLOF EN DE ADMINISTRATIEVE TOESTAND TIJDENS VERLOF
 
