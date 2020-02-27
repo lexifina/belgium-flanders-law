@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032666,
+  "title": "Besluit van de Vlaamse Regering van 2020-01-24 houdende indeling bij de gemeentewegen van de gewestweg N133 Nieuwmoersesteenweg tussen kmp. 0,0 en kmp. 0,1 op het grondgebied van de gemeente Essen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032666/VolledigDocument?datum=2020-02-27",
+  "source_sha256": "86ad2fbc5d7a763d4c774547f4beb62f0f6bd698ac32920ecebb85fea78c5ad4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032666&param=informatie",
+  "as_of": "2020-02-27",
+  "made": "2020-01-24",
+  "gazette": "2020-02-17",
+  "numac": 2020030038,
+  "document_start": "2020-02-27",
+  "document_end": null,
+  "in_force": "2020-02-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-02-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
