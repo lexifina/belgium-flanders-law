@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032698,
+  "title": "Ministerieel besluit van 2020-02-27 over de verlenging van de periode waarin gedurende de winter 2019-2020 de toevoer van elektriciteit en aardgas niet mag worden afgesloten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032698/VolledigDocument?datum=2020-02-29",
+  "source_sha256": "9b81f3231c6abb6a06d0b8e64c5638f1d432e5cf0ca4969e9a48fd791ade51d8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032698&param=informatie",
+  "as_of": "2020-02-29",
+  "made": "2020-02-27",
+  "gazette": "2020-03-04",
+  "numac": 2020020447,
+  "document_start": "2020-02-29",
+  "document_end": null,
+  "in_force": "2020-02-29",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-02-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
