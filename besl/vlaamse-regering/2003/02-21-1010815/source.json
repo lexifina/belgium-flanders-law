@@ -2,16 +2,16 @@
   "codex_id": 1010815,
   "title": "Besluit van de Vlaamse Regering van 2003-02-21 betreffende het verlof wegens moederschapsbescherming voor de personeelsleden van het onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010815/VolledigDocument?datum=2018-01-01",
-  "source_sha256": "a797f0a097ef790f94522f3a793a25f0304464017c76fb5cb43ffb65727b1aba",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010815/VolledigDocument?datum=2020-03-01",
+  "source_sha256": "21a0ca5a6bf69f0eebf0d591d8b8975f547697c98e5b7c8667df5c9ae9780277",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010815&param=informatie",
-  "as_of": "2018-01-01",
+  "as_of": "2020-03-01",
   "made": "2003-02-21",
   "gazette": "2003-03-28",
   "numac": 2003200503,
   "document_start": null,
   "document_end": null,
-  "in_force": "2018-01-01",
+  "in_force": "2020-03-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-03-01; future article versions excluded; article text as the API gives it"
 }

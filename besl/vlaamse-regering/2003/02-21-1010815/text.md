@@ -15,7 +15,7 @@
 
 ### ART. 2.
 
-[Het vrouwelijk personeelslid dat, bij toepassing van de artikelen 42 en 43 van de arbeidswet van 16 maart 1971 vrijgesteld is van arbeid, is ambtshalve met verlof voor de nodige periode. Het verlof eindigt van zodra het personeelslid recht heeft op prenataal verlof.<em> (verv. B.V.R. 25 september 2005, art. 7, I : 1 juli 2004)</em> ]<br>
+Het vrouwelijk personeelslid dat, bij toepassing van de artikelen 42 en 43 van de arbeidswet van 16 maart 1971 vrijgesteld is van arbeid, is ambtshalve met verlof voor de nodige periode. Het verlof eindigt van zodra het bevallingsverlof start.<br>
 <br>
 Als de gerechtigde borstvoeding geeft zoals bedoeld in artikel 7, 2°, van het koninklijk besluit van 2 mei 1995 inzake moederschapsbescherming, mag het verlof een periode van vijf maanden vanaf de dag van de bevalling niet overschrijden.<br>
 <br>
