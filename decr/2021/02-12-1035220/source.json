@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035220,
+  "title": "Decreet van 2021-02-12 tot het nemen van dringende tijdelijke maatregelen in het onderwijs naar aanleiding van de coronacrisis (VI)",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035220/VolledigDocument?datum=2020-03-01",
+  "source_sha256": "5261c3ddd4c610fe88db2f53c75cb0715e2213476e04ba03f6e224967bd9aa85",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035220&param=informatie",
+  "as_of": "2020-03-01",
+  "made": "2021-02-12",
+  "gazette": "2021-02-17",
+  "numac": 2021030376,
+  "document_start": "2021-02-18",
+  "document_end": null,
+  "in_force": "2020-03-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2020-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
