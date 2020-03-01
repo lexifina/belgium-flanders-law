@@ -18,7 +18,7 @@ Het personeelslid, vermeld in artikel 1, krijgt het verlof dat met het oog op de
 
 ### ART. 3.
 
-De periode van afwezigheid wegens ziekte of gebrekkigheid gedurende de periode van het prenataal verlof wordt omgezet in bevallingsverlof.<br /><br />De omzetting naar bevallingsverlof gebeurt enkel voorzover er geen werkhervatting is geweest.Als de voormelde afwezigheid langer duurt dan de periode waarvoor het tijdelijke personeelslid werd aangesteld, geldt de bepaling van het eerste lid niet voor de periode na de datum waarop de tijdelijke aanstelling geëindigd is.
+Het koninklijk besluit van 11 oktober 1991 tot gelijkstelling van sommige periodes met periodes van arbeid met het oog op de verlenging van de periode van arbeidsonderbreking na de achtste week na de bevalling is van toepassing. Weekends en feestdagen worden ook beschouwd als gewerkte periodes.
 
 ### ART. 4.
 
