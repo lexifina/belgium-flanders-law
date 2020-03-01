@@ -182,7 +182,7 @@ De volgende koninklijke besluiten worden opgeheven :<br>
 
 ### ART 19.
 
-Dit besluit in werking op 1 september 2019 met uitzondering van artikel 18, 2°, dat in werking treedt op 1 maart 2020, en, met uitzondering van de artikelen 11 en 14 die in werking treden op 1 januari 2020.
+Dit besluit in werking op 1 september 2019 met uitzondering van artikel 18, 2°, dat in werking treedt op 1 juni 2020, en, met uitzondering van de artikelen 11 en 14 die in werking treden op 1 januari 2020.
 
 ### ART 20.
 
