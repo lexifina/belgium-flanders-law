@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032689,
+  "title": "Ministerieel besluit van 2020-02-07 houdende vastlegging van de bandingfactoren van groenestroomcertificaten en warmte-krachtcertificaten voor projecten met een startdatum vanaf 1 april 2020",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032689/VolledigDocument?datum=2020-03-02",
+  "source_sha256": "e500b9a51bfb4ecd35e2aa46944403f2fd63d9fdd81040b14f5396a3e81a6d2c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032689&param=informatie",
+  "as_of": "2020-03-02",
+  "made": "2020-02-07",
+  "gazette": "2020-03-02",
+  "numac": 20200403,
+  "document_start": "2020-03-02",
+  "document_end": null,
+  "in_force": "2020-03-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-03-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
