@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032676,
+  "title": "Besluit van de Vlaamse Regering van 2019-10-25 tot ontwikkeling van de onderwijskwalificatie `graduaat in het systeem- en netwerkbeheer'",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032676/VolledigDocument?datum=2020-03-06",
+  "source_sha256": "4e0e2c8f7c911014c9addafc97603c73255baa6228ab19f318b4ac5398a47368",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032676&param=informatie",
+  "as_of": "2020-03-06",
+  "made": "2019-10-25",
+  "gazette": "2020-02-25",
+  "numac": 2020040240,
+  "document_start": "2020-03-06",
+  "document_end": null,
+  "in_force": "2020-03-06",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-03-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
