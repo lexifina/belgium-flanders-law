@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032680,
+  "title": "Besluit van de Vlaamse Regering van 2020-01-31 tot wijziging van de VLAREME van 28 oktober 2016, wat betreft het AGR-GPS-systeem voor burenregelingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032680/VolledigDocument?datum=2020-03-08",
+  "source_sha256": "e5d30c41f6c49c35e99465eec5124b62d6224aab54c393ccbbd13f88414f0e44",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032680&param=informatie",
+  "as_of": "2020-03-08",
+  "made": "2020-01-31",
+  "gazette": "2020-02-27",
+  "numac": 2020040405,
+  "document_start": "2020-03-08",
+  "document_end": null,
+  "in_force": "2020-03-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-03-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
