@@ -33,7 +33,8 @@ In dit besluit wordt verstaan onder:<br>
 1° activiteitenlijst: de lijst die wordt vastgesteld door de raad van bestuur van de VDAB met toepassing van artikel 27 van het Wijk-werkendecreet van 7 juli 2017, met inbegrip van de gemeentelijke afwijkingen van de lijst;<br>
 2° platform: het platform wijk-werken, vermeld in hoofdstuk 2, afdeling 9, van het Wijk-werkendecreet van 7 juli 2017;<br>
 3° uitgiftemaatschappij: de maatschappij die is aangewezen voor de uitgifte van wijk-werkcheques overeenkomstig de wetgeving over de overheidsopdrachten;<br>
-4° vzw: een vereniging zonder winstoogmerk als vermeld in titel I van de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen.<br>
+4° vzw: een vereniging zonder winstoogmerk als vermeld in titel I van de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen;<br>
+5° coronavirusmaatregelen: de maatregelen van de Nationale Veiligheidsraad van 12 maart 2020 inzake het coronavirus en de daaruit voortvloeiende maatregelen van de bevoegde autoriteiten inzake burgerlijke veiligheid.<br>
 &nbsp;
 
 ## HOOFDSTUK 2 Wijk-werker
@@ -49,7 +50,8 @@ De volgende organisaties kunnen werkzoekenden toeleiden naar wijk-werken:<br>
 De werkzoekende die reeds in het verleden activiteiten heeft verricht in wijk-werken, kan niet opnieuw toegeleid worden, tenzij in een van de volgende situaties:<br>
 1° de werkzoekende kan aantonen dat hij in de laatste twaalf maanden geen activiteiten in wijk-werken heeft verricht;<br>
 2° de werkzoekende kan aantonen dat zijn wijk-werkovereenkomst werd geschorst of is stopgezet om redenen buiten zijn wil om, voor meer dan de helft van de toegekende duurtijd;<br>
-3° de werkzoekende kan aantonen dat hij in het verleden aanspraak kon maken op de overgangsmaatregel vermeld in artikel 9, tweede lid, van het Wijk-werkendecreet van 7 juli 2017, en dat hij zijn prestaties in wijk-werken niet heeft onderbroken voor een periode langer dan twaalf maanden.<br>
+3° de werkzoekende kan aantonen dat hij in het verleden aanspraak kon maken op de overgangsmaatregel vermeld in artikel 9, tweede lid, van het Wijk-werkendecreet van 7 juli 2017, en dat hij zijn prestaties in wijk-werken niet heeft onderbroken voor een periode langer dan twaalf maanden;<br>
+4° de werkzoekende kan aantonen dat zijn wijk-werkovereenkomst geschorst werd ten gevolge van de coronavirusmaatregelen of stopgezet werd tijdens de periode waarin de coronavirusmaatregelen golden. In deze gevallen kan de werkzoekende opnieuw toegeleid worden voor een maximale duurtijd van drie maanden.<br>
 &nbsp;
 
 ### ART 3.
@@ -135,6 +137,16 @@ De wijk-werker dient de wijk-werkcheques die hij ontvangt, in bij de organisator
 <br>
 Een cheque wordt als geldig beschouwd als aan alle voorwaarden, vermeld in artikel 36, is voldaan, en als de cheque tijdig is ingediend.<br>
 &nbsp;
+
+### ART 13bis.
+
+Tijdens de coronavirusmaatregelen ontvangt de wijk-werker die in de maand waarop de vergoeding betrekking heeft gewoonlijk ook in de mogelijkheid was om wijk-werkprestaties te verrichten, een vergoeding.<br>
+<br>
+De vergoeding bedraagt 70% van een gemiddelde vergoeding, vermeld in artikel 13. Dit gemiddelde is gebaseerd op de prestaties, vermeld in artikel 24 tweede lid, die de wijk-werker leverde in de maanden augustus 2019 tot en met januari 2020.<br>
+<br>
+De vergoeding is gelijkgesteld aan de vergoeding verkregen voor de prestaties geleverd in het kader van wijk-werken als vermeld in artikel 34 van het decreet van 7 juli 2017 betreffende wijk-werken en diverse bepalingen in het kader van de zesde staatshervorming.<br>
+<br>
+De vergoeding wordt maandelijks uitgekeerd. De vergoeding wordt toegekend voor de initiële duurtijd, vermeld in artikel 9, eerste lid. Deze periode wordt, indien zij ten einde loopt na 24 april 2020, beperkt tot en met 24 april 2020.
 
 ### ART 14.
 
@@ -324,6 +336,12 @@ De wijk-werkcheque wordt als geldig beschouwd als hij al de gegevens, vermeld in
 ### ART 37.
 
 De wijk-werkcheque heeft een geldigheidsduur van twaalf maanden. De cheque moet gebruikt worden tijdens de geldigheidsduur.<br>
+<br>
+In afwijking van het eerste lid heeft een geldige wijk-werkcheque met een uitgiftedatum tot en met 13 maart 2020 een geldigheidsduur van vijftien maanden.<br>
+<br>
+Met behoud van toepassing van artikel 42 en onder voorbehoud van het tweede lid, wordt de geldigheidsduur van een wijk-werkcheque met een vervaldatum vanaf 12 maart 2020 tot en met 12 juni 2020 verlengd met drie maanden.<br>
+<br>
+De Vlaamse minister, bevoegd voor werk, kan de uitgifte- en vervaldatum alsook de termijnen van verlenging, zoals vermeld in lid twee en drie, aanpassen.<br>
 &nbsp;
 
 ## Afdeling 2 Aankoop
