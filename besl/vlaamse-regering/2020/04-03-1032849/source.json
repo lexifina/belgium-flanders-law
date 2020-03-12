@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032849,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-03 tot wijziging van het besluit van de Vlaamse Regering van 29 september 2017 betreffende wijk-werken, wat betreft de genomen maatregelen voor wijk-werken ingevolge het coronavirus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032849/VolledigDocument?datum=2020-03-12",
+  "source_sha256": "71cd668eb294a1472b3893a4a04e3515911ca3d45e3ca8aa4baa054dbe0c5d0d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032849&param=informatie",
+  "as_of": "2020-03-12",
+  "made": "2020-04-03",
+  "gazette": "2020-04-09",
+  "numac": 2020020763,
+  "document_start": "2020-03-12",
+  "document_end": null,
+  "in_force": "2020-03-12",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2020-03-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
