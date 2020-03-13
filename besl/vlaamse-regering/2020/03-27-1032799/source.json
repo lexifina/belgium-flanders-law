@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032799,
+  "title": "Besluit van de Vlaamse Regering van 2020-03-27 tot toekenning van een premie aan de cursist die een individuele beroepsopleiding volgde zoals vermeld in artikel 90 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032799/VolledigDocument?datum=2020-03-13",
+  "source_sha256": "a153eb7838a1ac133338ab0981eea7cbae38e3c016a7db3e5b1907cb890e6ab5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032799&param=informatie",
+  "as_of": "2020-03-13",
+  "made": "2020-03-27",
+  "gazette": "2020-03-31",
+  "numac": 2020030448,
+  "document_start": "2020-03-13",
+  "document_end": "2020-04-24",
+  "in_force": "2020-03-13",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2020-03-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
