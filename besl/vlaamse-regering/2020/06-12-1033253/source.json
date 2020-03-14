@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033253,
+  "title": "Besluit van de Vlaamse Regering van 2020-06-12 tot toekenning van steun aan ondernemingen die een omzetdaling hebben ondanks de versoepelde coronavirusmaatregelen, tot wijziging van de artikelen 1, 9 en 11 van het besluit van de Vlaamse Regering van 10 april 2020 tot toekenning van steun aan ondernemingen die een omzetdaling hebben ten gevolge van de exploitatiebeperkingen opgelegd door de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus, en tot wijziging van de artikelen 1, 6, 9 en 12 van het besluit van de Vlaamse Regering van 20 maart 2020 tot toekenning van steun aan ondernemingen die verplicht moeten sluiten ten gevolge van de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033253/VolledigDocument?datum=2020-03-14",
+  "source_sha256": "271dcca1943c8d0c76a1a686cc9875de45182231048054d8ad1d0bf66cf58675",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033253&param=informatie",
+  "as_of": "2020-03-14",
+  "made": "2020-06-12",
+  "gazette": "2020-06-22",
+  "numac": 2020031024,
+  "document_start": "2020-06-22",
+  "document_end": null,
+  "in_force": "2020-03-14",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-03-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
