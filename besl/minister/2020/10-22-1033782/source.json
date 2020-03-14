@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033782,
+  "title": "Ministerieel besluit van 2020-10-22 over de vaststelling van de einddatum van de periode COVID-19 en de verhoging van het percentage voor budgetoverschrijding als gevolg van COVID-19",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033782/VolledigDocument?datum=2020-03-14",
+  "source_sha256": "090522358acdc8142f22da52f06b80b5d9313f89c9b679abb5232c5c05706416",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033782&param=informatie",
+  "as_of": "2020-03-14",
+  "made": "2020-10-22",
+  "gazette": "2020-10-30",
+  "numac": 2020031613,
+  "document_start": "2020-08-31",
+  "document_end": null,
+  "in_force": "2020-03-14",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2020-03-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
