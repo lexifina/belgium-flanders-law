@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032985,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-30 over de financiële gevolgen van de maatregelen ter bestrijding van COVID-19 voor voorzieningen voor personen met een handicap en voor personen met een handicap die ondersteuning hebben van het Vlaams Agentschap voor Personen met een Handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032985/VolledigDocument?datum=2020-03-14",
+  "source_sha256": "50bc836703dac8fe390aa65473dcab37f3f70b767d2749541c4ed3bb18409e90",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032985&param=informatie",
+  "as_of": "2020-03-14",
+  "made": "2020-04-30",
+  "gazette": "2020-05-08",
+  "numac": 2020041223,
+  "document_start": "2020-03-14",
+  "document_end": null,
+  "in_force": "2020-03-14",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2020-03-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
