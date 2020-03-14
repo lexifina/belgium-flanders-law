@@ -56,9 +56,23 @@ Het bezoek aan personen die woonondersteuning krijgen in een multifunctioneel ce
 3° de bezoekers nemen bij het betreden van de gebouwen de nodige hygiënische maatregelen zoals handen wassen of ontsmettende handgel gebruiken;<br>
 4° de toegang tot de lokalen van het multifunctioneel centrum door personen jonger dan 16 jaar en die geen bewoner zijn van het multifunctioneel centrum is verboden.
 
+### ART 5.
+
+De centra voor dagverzorging vermeld in artikel 23 van het Woonzorgdecreet van 15 februari 2019, worden gesloten.
+
+### ART 6.
+
+Een dienst voor gezinszorg mag geen centrum voor dagopvang als vermeld in artikel 13 van het Woonzorgdecreet van 15 februari 2019 meer organiseren. De infrastructuur van het centrum voor dagopvang moet worden gesloten.
+
+### ART 7.
+
+De volgende revalidatievoorzieningen, als vermeld in artikel 2, 16°, van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging worden gesloten:<br>
+1° de respijteenheid Limmerik, van VZW Revalidatiecentrum Pulderbos, te Zandhoven;<br>
+2° de respijteenheid Villa Rozerood, van VZW Villa Rozerood, te De Panne.
+
 ### ART 8.
 
-De maatregelen, vermeld in artikel 1 tot en met 7, gelden tot 4 april 2020.<br>
+De maatregelen, vermeld in artikel 1 tot en met 7, gelden tot 19 april 2020.<br>
 <br>
 De Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, kan de maatregelen, vermeld in het eerste lid, verlengen.
 
