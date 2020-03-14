@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032983,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-30 tot toekenning van een projectsubsidie aan de Huizen van het Kind ter compensatie van de aankoop van vrijetijdsmateriaal voor kinderen in een maatschappelijk kwetsbare positie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032983/VolledigDocument?datum=2020-03-14",
+  "source_sha256": "ecee57e05b63ff7d930b3cede60d9140c81de40e5fa4b6190aef477044bb9814",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032983&param=informatie",
+  "as_of": "2020-03-14",
+  "made": "2020-04-30",
+  "gazette": "2020-05-08",
+  "numac": 2020041219,
+  "document_start": "2020-03-14",
+  "document_end": null,
+  "in_force": "2020-03-14",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2020-03-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
