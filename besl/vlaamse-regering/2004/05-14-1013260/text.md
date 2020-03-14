@@ -312,7 +312,9 @@ Het is niet toegestaan :<br />1° de infrastructuur, de installaties of de appar
 <br>
 De reiziger moet op elk moment zijn identiteit kunnen bewijzen.<br>
 <br>
-§ 2. Op de voertuigen van VVM kunnen vervoerbewijzen vanaf 1 juli 2020 niet met cash geld betaald worden.</p>
+§ 2. Op de voertuigen van VVM kunnen vervoerbewijzen vanaf 1 juli 2020 niet met cash geld betaald worden.<br>
+<br>
+In afwijking van het eerste lid, kunnen, vanaf 14 maart 2020 en tot op de datum dat de Nationale Veiligheidsraad beslist om de noodmaatregelen op te heffen, vervoerbewijzen niet met cash geld betaald worden.</p>
 
 ### ART. 67.
 
