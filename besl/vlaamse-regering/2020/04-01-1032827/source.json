@@ -2,16 +2,16 @@
   "codex_id": 1032827,
   "title": "Besluit van de Vlaamse Regering van 2020-04-01 tot bestrijding van de negatieve gevolgen van het Covid-19 virus voor de gezinnen en de organisatoren in de buitenschoolse opvang, in de opvang van zieke kinderen en in de preventieve gezinsondersteuning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032827/VolledigDocument?datum=2020-03-11",
-  "source_sha256": "0bac49d7f5e5d6425d76db9384fd73a9bafc156c0cb00b47c6b3701736a98f7c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032827/VolledigDocument?datum=2020-03-14",
+  "source_sha256": "58c03b4d308e6ab5b761cddf3b6a4e955e65b7bf38a3947cd2af77c15bc466d8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032827&param=informatie",
-  "as_of": "2020-03-11",
+  "as_of": "2020-03-14",
   "made": "2020-04-01",
   "gazette": "2020-04-03",
   "numac": 2020020668,
   "document_start": "2020-03-14",
   "document_end": null,
-  "in_force": "2020-03-11",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2020-03-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-03-14",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2020-03-14; future article versions excluded; article text as the API gives it"
 }
