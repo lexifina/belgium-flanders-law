@@ -28,7 +28,7 @@ In dit besluit wordt verstaan onder :<br>
 1° bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
 2° besluit van 22 januari 2010 : het besluit van de Vlaamse Regering van 22 januari 2010 betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt;<br>
 3° CAC : Conformitas Agraria Communitatis;<br>
-4° document van de leverancier : het document, vermeld in artikel 6, eerste lid, van dit besluit;<br>
+4° document van de leverancier : het document, vermeld in artikel 8, §1, van dit besluit;<br>
 5° teeltmateriaal : het teeltmateriaal van fruitgewassen die behoren tot de geslachten en de soorten, vermeld in de bijlage bij het besluit van 22 januari 2010;<br>
 6° fruitgewassen : de fruitgewassen die behoren tot de geslachten en de soorten, vermeld in de bijlage bij het besluit van 22 januari 2010 en die voor de fruitteelt worden gebruikt;<br>
 7° plomberen : in geval van een verpakking of container, dusdanig sluiten dat de verpakking of container niet kan worden geopend zonder de sluiting te beschadigen. In geval van een bundel, dusdanig samenbinden dat de planten of de delen van de planten waaruit de bundel is samengesteld niet kunnen worden losgemaakt zonder het bindsel te beschadigen. De verpakking, container of bundel moet dusdanig worden geëtiketteerd dat de verwijdering van het etiket het ongeldig maakt.<br>
