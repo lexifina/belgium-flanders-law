@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033279,
+  "title": "Besluit van de Vlaamse Regering van 2020-06-12 over de regels voor de erkenning en de subsidiëring van een schakelzorgcentrum als project in de woonzorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033279/VolledigDocument?datum=2020-03-15",
+  "source_sha256": "b7e8cf3498c84aec7c8e365a673d30793c2a3131006664ff57a0fd1b0a3ffa69",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033279&param=informatie",
+  "as_of": "2020-03-15",
+  "made": "2020-06-12",
+  "gazette": "2020-06-26",
+  "numac": 2020041902,
+  "document_start": "2020-03-15",
+  "document_end": null,
+  "in_force": "2020-03-15",
+  "article_versions": 38,
+  "record_form": "consolidated version as in force on 2020-03-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
