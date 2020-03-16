@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032812,
+  "title": "Ministerieel besluit van 2020-02-28 tot aanduiding van de leden van de beheerscommissie van het Eigen Vermogen van het Instituut voor Landbouw- en Visserijonderzoek",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032812/VolledigDocument?datum=2020-03-16",
+  "source_sha256": "2849fc8e2599bdfaaf9caf3f49cf44fa560bf1c299b2f801c171abfa6ce5d986",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032812&param=informatie",
+  "as_of": "2020-03-16",
+  "made": "2020-02-28",
+  "gazette": "2020-03-16",
+  "numac": 2020020602,
+  "document_start": "2020-03-16",
+  "document_end": "2025-01-01",
+  "in_force": "2020-03-16",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-03-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
