@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032865,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-10 houdende noodmaatregelen inzake het decreet van 3 mei 2019 houdende de gemeentewegen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032865/VolledigDocument?datum=2020-03-16",
+  "source_sha256": "0cb0974e4aca9a87ade5e9780ca80b80aba0195aef13039e4b92218c2efdd2a4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032865&param=informatie",
+  "as_of": "2020-03-16",
+  "made": "2020-04-10",
+  "gazette": "2020-04-16",
+  "numac": 2020030632,
+  "document_start": "2020-03-16",
+  "document_end": null,
+  "in_force": "2020-03-16",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2020-03-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
