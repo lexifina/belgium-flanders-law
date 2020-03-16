@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033120,
+  "title": "Besluit van de Vlaamse Regering van 2020-05-29 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006 en het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet, wat betreft loopbaanonderbreking",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033120/VolledigDocument?datum=2020-03-16",
+  "source_sha256": "db1f3f0eb1348591b40a27c11aa1f12e7fbda61b25e6f660a2754f6a8ba2cb85",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033120&param=informatie",
+  "as_of": "2020-03-16",
+  "made": "2020-05-29",
+  "gazette": "2020-06-09",
+  "numac": 2020010394,
+  "document_start": "2020-03-16",
+  "document_end": null,
+  "in_force": "2020-03-16",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2020-03-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
