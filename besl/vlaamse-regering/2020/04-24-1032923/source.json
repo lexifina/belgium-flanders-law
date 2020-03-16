@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032923,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-24 houdende noodmaatregelen inzake scholing, examens, terugkommoment en subsidies aan gemeenten in het kader van veilige schoolomgevingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032923/VolledigDocument?datum=2020-03-16",
+  "source_sha256": "68b0b578586046fa2cea413702f0b95e7f490c1c570c4600d4e491d57e117902",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032923&param=informatie",
+  "as_of": "2020-03-16",
+  "made": "2020-04-24",
+  "gazette": "2020-04-29",
+  "numac": 2020010386,
+  "document_start": "2020-03-16",
+  "document_end": null,
+  "in_force": "2020-03-16",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2020-03-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
