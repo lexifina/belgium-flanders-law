@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032845,
+  "title": "Besluit van de Vlaamse Regering van 2020-03-27 houdende wijziging van artikel 2, § 2 van het koninklijk besluit van 26 augustus 1980 tot instelling van een controlemerk voor de melk",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032845/VolledigDocument?datum=2020-03-18",
+  "source_sha256": "1997e5a27b675dd709a58ba4db46f83f808c7551cb7d7d89a3c385468206088a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032845&param=informatie",
+  "as_of": "2020-03-18",
+  "made": "2020-03-27",
+  "gazette": "2020-04-09",
+  "numac": 2020030516,
+  "document_start": "2020-03-18",
+  "document_end": null,
+  "in_force": "2020-03-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-03-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
