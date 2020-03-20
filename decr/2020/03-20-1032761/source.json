@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032761,
+  "title": "Decreet van 2020-03-20 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032761/VolledigDocument?datum=2020-03-20",
+  "source_sha256": "10a620a9d98152518574e378ee2983de324ab34c17fceec54affb038357c99d8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032761&param=informatie",
+  "as_of": "2020-03-20",
+  "made": "2020-03-20",
+  "gazette": "2020-03-24",
+  "numac": 2020040710,
+  "document_start": "2020-03-20",
+  "document_end": null,
+  "in_force": "2020-03-20",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2020-03-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
