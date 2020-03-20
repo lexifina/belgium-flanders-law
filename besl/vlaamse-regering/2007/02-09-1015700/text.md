@@ -93,7 +93,9 @@ Het Fonds beslist over het verlenen van de investeringswaarborg. De initiatiefne
 
 ### ART. 18.
 
-Als de investeringswaarborg wordt verleend, wordt de financieringsovereenkomst meeondertekend door het Fonds, met vermelding van de volgende clausule : « Het Fonds verbindt er zich toe de investeringswaarborg te geven onder de voorwaarden, bepaald in het besluit van de Vlaamse Regering tot regeling van de investeringswaarborg voor woonzorgcentra, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden ».<br />
+Als de investeringswaarborg wordt verleend, wordt de financieringsovereenkomst meeondertekend door het Fonds, met vermelding van de volgende clausule : « Het Fonds verbindt er zich toe de investeringswaarborg te geven onder de voorwaarden, bepaald in het besluit van de Vlaamse Regering tot regeling van de investeringswaarborg voor woonzorgcentra, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden ».<br>
+<br>
+Voor de verlenging van de gewaarborgde looptijd in de financieringsovereenkomst en de pari-passuovereenkomst volstaat het dat het Fonds samen met de financier mee tekent op een document dat wordt opgesteld in overleg met het Fonds. Dat document kan betrekking hebben op financieringsovereenkomsten van verschillende projecten, aanvragers en financiers.
 
 ### ART. 19.
 
