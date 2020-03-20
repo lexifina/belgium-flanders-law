@@ -22,9 +22,7 @@ De bedragen, vermeld in dit besluit, worden ieder jaar in de maand januari   geÃ
 
 <p>De openbaredienstverplichting wordt opgelegd voor een periode van vijf jaar.<br>
 <br>
-De minister kan bij de aanduiding van nieuwe vervoerders met het oog op de invoering van basisbereikbaarheid de termijn van de openbaredienstverplichting, vermeld in het eerste lid, inperken tot uiterlijk 31 december 2019.<br>
-<br>
-De minister kan met het oog op de invoering van basisbereikbaarheid en na akkoord van de betrokken vervoerder de termijn van de openbaredienstverplichting verlengen tot uiterlijk 31 december 2019.<br>
+De minister kan met het oog op de invoering van basisbereikbaarheid en na akkoord van de betrokken vervoerder de termijn van de openbaredienstverplichting, vermeld in het eerste lid, inperken of verlengen tot uiterlijk 31 december 2021<br>
 <br>
 Om de continuÃ¯teit van de dienstverlening te verzekeren, bepaalt de minister de datum waarop de openbaredienstverlening aanvangt.</p>
 

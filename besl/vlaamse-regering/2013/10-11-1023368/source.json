@@ -2,16 +2,16 @@
   "codex_id": 1023368,
   "title": "Besluit van de Vlaamse Regering van 2013-10-11 tot compensatie van de openbaredienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023368/VolledigDocument?datum=2018-11-05",
-  "source_sha256": "9bd1f494b79b3e54f23a1477f284c4114dde48d0fec42a6e4ae97b7244ce0669",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023368/VolledigDocument?datum=2020-03-20",
+  "source_sha256": "6bb788a7bcdd1776f25223dadc7543497e6a0d0279a53c6d5fc866eeded89170",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023368&param=informatie",
-  "as_of": "2018-11-05",
+  "as_of": "2020-03-20",
   "made": "2013-10-11",
   "gazette": "2013-11-04",
   "numac": 2013036030,
   "document_start": "2013-11-14",
   "document_end": null,
-  "in_force": "2018-11-05",
+  "in_force": "2020-03-20",
   "article_versions": 44,
-  "record_form": "consolidated version as in force on 2018-11-05; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-03-20; future article versions excluded; article text as the API gives it"
 }
