@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032944,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-24 tot remediëring van inhoudelijke, administratieve, en procedurele verplichtingen tijdens een civiele noodsituatie binnen het beleidsveld Landbouw en Visserij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032944/VolledigDocument?datum=2020-03-20",
+  "source_sha256": "c0ae7d40910c6953b06868da1cdbbd9072ba75dc28eabcee3cd5dc872d04c97c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032944&param=informatie",
+  "as_of": "2020-03-20",
+  "made": "2020-04-24",
+  "gazette": "2020-04-30",
+  "numac": 2020041022,
+  "document_start": "2020-03-20",
+  "document_end": null,
+  "in_force": "2020-03-20",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2020-03-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
