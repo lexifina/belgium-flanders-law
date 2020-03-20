@@ -357,6 +357,10 @@ De invulling in het jaar in kwestie wordt gemeten aan de hand van de contractuel
 <br>
 De beslissing, vermeld in het tweede en het vijfde lid, heeft ingang de eerste dag van het vierde kwartaal.
 
+### ART 31/1.
+
+In geval van een crisis met een ernstige sociale en economische impact kan de minister afwijken van de automatische vermindering van het contingent aan werkondersteunende maatregelen zoals vermeld in artikel 31.
+
 ## HOOFDSTUK 6 Werkondersteunende maatregelen
 
 ### ART 32.
@@ -628,6 +632,10 @@ Om te onderzoeken of en in welke mate de betrokkene recht heeft op een subsidie,
 
 Het teveel aan toegekende subsidies wordt automatisch, zonder ingebrekestelling, ingehouden op de eerstvolgende uitbetaling.
 
+### ART 63/1.
+
+Ingeval van een crisis met een ernstige sociale en economische impact kan de minister beslissen om het teveel aan toegekende subsidies in afwijking van artikel 63 niet automatisch terug te vorderen.
+
 ### ART 64.
 
 Het maatwerkbedrijf en de maatwerkafdeling brengen het departement onmiddellijk op de hoogte van:<br>
@@ -676,7 +684,7 @@ In het eerste lid wordt verstaan onder extern doorstroomtraject: de doorstroombe
 <br>
 De VDAB bepaalt de datum van de aanvang van het doorstroomtraject in overleg met de doelgroepwerknemer, het maatwerkbedrijf of de maatwerkafdeling en de dienstverlener.<br>
 <br>
-Het doorstroomtraject vangt aan binnen drie maanden nadat de kansen op doorstroom door de VDAB gunstig werden beoordeeld, behalve in het geval, vermeld in artikel 65, eerste lid, 2°.
+Het doorstroomtraject vangt aan binnen drie maanden nadat de kansen op doorstroom door de VDAB gunstig werden beoordeeld, behalve in het geval, vermeld in artikel 65, eerste lid, 2° en in het geval van een crisis met een ernstige sociale en economische impact die als dusdanig door de minister is erkend.
 
 ## Onderafdeling 1 Doorstroombegeleiding
 
@@ -706,7 +714,9 @@ g) de actualisering van het persoonlijk ontwikkelingsplan van de doelgroepwerkne
 <br>
 De stage, vermeld in paragraaf 1, 3°, wordt beëindigd met een evaluatiegesprek tussen de betrokken partijen. De gemandateerde dienstverlener brengt de VDAB op de hoogte van de stageresultaten.<br>
 <br>
-§ 3. Op verzoek van de doorstroombegeleider kan de VDAB na motivering een verlenging van de fases, vermeld in paragraaf 1, 1° tot en met 3°, toestaan, op voorwaarde dat de totale duur van die drie fases niet meer bedraagt dan zes maanden.
+§ 3. Op verzoek van de doorstroombegeleider kan de VDAB na motivering een verlenging van de fases, vermeld in paragraaf 1, 1° tot en met 3°, toestaan, op voorwaarde dat de totale duur van die drie fases niet meer bedraagt dan zes maanden.<br>
+<br>
+§ 4. Met behoud van de toepassing van § 1, § 2, en § 3, kan de VDAB de duur van de doorstroomtrajecten tijdelijk opschorten in geval van een crisis met een ernstige sociale en economische impact die als dusdanig door de minister is erkend.
 
 ### ART 69.
 
