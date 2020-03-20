@@ -2,16 +2,16 @@
   "codex_id": 1023494,
   "title": "Besluit van de Vlaamse Regering van 2013-11-08 tot facilitering van de infrastructuurfinanciering via de alternatieve investeringswaarborg, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023494/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "76900d50e9c14302048cd9b1188d60d492381385abc35889d8bf8d11669f4d71",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023494/VolledigDocument?datum=2020-03-20",
+  "source_sha256": "26b86f0467a6c995d6b3538b995be99d7cb29cf64da1112828c1a697544f2e80",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023494&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2020-03-20",
   "made": "2013-11-08",
   "gazette": "2013-12-19",
   "numac": 2013206794,
   "document_start": "2013-12-29",
   "document_end": null,
-  "in_force": "2020-01-01",
+  "in_force": "2020-03-20",
   "article_versions": 47,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-03-20; future article versions excluded; article text as the API gives it"
 }
