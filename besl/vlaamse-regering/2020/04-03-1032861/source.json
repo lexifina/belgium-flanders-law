@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032861,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-03 tot regeling van bepaalde tijdelijke maatregelen in het beleidsveld cultuur door de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge het coronavirus COVID-19",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032861/VolledigDocument?datum=2020-03-20",
+  "source_sha256": "1e486bdb4dc281740cf07282d65df81018bee6a96e557878bfe5320206df745f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032861&param=informatie",
+  "as_of": "2020-03-20",
+  "made": "2020-04-03",
+  "gazette": "2020-04-15",
+  "numac": 2020030634,
+  "document_start": "2020-03-20",
+  "document_end": null,
+  "in_force": "2020-03-20",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2020-03-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
