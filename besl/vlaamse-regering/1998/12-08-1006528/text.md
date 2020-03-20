@@ -125,7 +125,35 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 
 ### ART. 20bis.
 
-§ 1. In toepassing van artikel 12, §§ 2 en 3, van het decreet en binnen de perken van een begro-tingskrediet kunnen de erkende sociale werkplaatsen, aan wie minimaal 10 voltijds equivalente doelgroepwerknemers toegekend zijn, aanspraak maken op een omkaderingssubsidie à rato van een tegemoetkoming in de loonkost van één voltijds equivalent omkaderingspersoneelslid per 5 voltijds equivalente arbeidszorgmedewerkers die arbeidsmatige activiteiten uitvoeren in de sociale werkplaats.<br /><br />Het maximum aantal arbeidszorgmedewerkers waarmee rekening gehouden wordt voor het bepalen van deze omkaderingssubsidie bedraagt 1 voltijds equivalente arbeidszorgmedewerker per 5 voltijds equivalente erkende doelgroepwerknemers.<br /><br />§ 2. Het jaarbedrag van de omkaderingssubsidie zoals bepaald in § 1 wordt vastgesteld op 22.000 euro per voltijds equivalent omkaderingspersoneelslid.<br /><br />§ 3. De arbeidszorgmedewerkers worden toegeleid door de geïntegreerde basisdienstverlening van de Lokale Werkwinkel of de toeleider op basis van een verslag waaruit blijkt dat de arbeidszorgmedewerker omwille van persoonsgebonden redenen niet of niet meer kan werken onder een arbeidscontract in het regulier of beschermd tewerkstellingscircuit;<br /><br />§ 4. Om aanspraak te kunnen maken op de omkaderingssubsidie zoals bepaald in § 1 verbindt de sociale werkplaats zich ertoe:<br /><br />1° een arbeidszorgovereenkomst af te sluiten met elke arbeidszorgmedewerker die aan de sociale werkplaats werd toegewezen en toegeleid werd door de geïntegreerde basisdienstverlening van de Lokale Werkwinkel of de toeleider;<br /><br />2° een verzekering aan te gaan voor de burgerlijke aansprakelijkheid van elke arbeidszorgmedewerker voor schade toegebracht tijdens de arbeidsmatige activiteiten uitgevoerd in de sociale werkplaats of op weg naar en van de sociale werkplaats;<br /><br />3° een verzekering aan te gaan voor de lichamelijke en materiële schade geleden door elke arbeidszorgmedewerker tijdens de arbeidsmatige activiteiten uitgevoerd in de sociale werkplaats of op weg naar en van de sociale werkplaats;<br /><br />4° binnen de 3 maanden na het sluiten van de arbeidszorgovereenkomst in overleg met de toeleider een individueel begeleidingsplan op maat van de arbeidszorgmedewerker op te stellen, waarin een overzicht gegeven wordt van de inspanningen waartoe de werkgever zich verplicht op het vlak van de begeleiding;<br /><br />5° de omkaderingssubsidie uitsluitend in te zetten voor de begeleiding van de arbeidszorgmedewerkers;<br /><br />6° externe doelgroepbewaking van de arbeidszorgmedewerkers te aanvaarden;<br /><br />7° zich in te schakelen in een regionaal netwerk van arbeidszorginitiatieven.<br /><br />§ 5. Om aanspraak te kunnen maken op de omkaderingssubsidie zoals bepaald in § 1 dient de sociale werkplaats een aanvraag in op een door de administratie ter beschikking gesteld formulier. Het onderzoek van de aanvraag gebeurt door de administratie die ten aanzien van de minister een advies verleent. De minister bepaalt de maximale omkaderingssubsidie op basis van het aantal voltijds equivalente arbeidszorgmedewerkers zoals bepaald in het tweede lid van § 1.  <span class="reference">(ing. B.V.R. 14 december 2001, art. 3, I: 1 november 2001)</span> ]
+§ 1. In toepassing van artikel 12, §§ 2 en 3, van het decreet en binnen de perken van een begro-tingskrediet kunnen de erkende sociale werkplaatsen, aan wie minimaal 10 voltijds equivalente doelgroepwerknemers toegekend zijn, aanspraak maken op een omkaderingssubsidie à rato van een tegemoetkoming in de loonkost van één voltijds equivalent omkaderingspersoneelslid per 5 voltijds equivalente arbeidszorgmedewerkers die arbeidsmatige activiteiten uitvoeren in de sociale werkplaats.<br>
+<br>
+Het maximum aantal arbeidszorgmedewerkers waarmee rekening gehouden wordt voor het bepalen van deze omkaderingssubsidie bedraagt 1 voltijds equivalente arbeidszorgmedewerker per 5 voltijds equivalente erkende doelgroepwerknemers.<br>
+<br>
+Met behoud van de toepassing van het eerste en tweede lid, kan de minister, in geval van een crisis met een ernstige sociale en economische impact de periode van tijdelijke schorsing van de arbeidszorgactiviteiten gelijkstellen met de uitvoering van arbeidsmatige activiteiten a rato van de gemiddelde prestaties gedurende een periode van twee maanden die voorafgaat aan die schorsing.<br>
+<br>
+De minister bepaalt de voorwaarde en procedure voor de aanvraag en toepassing van die gelijkstelling nader, rekening houdend met de voorwaarden, vermeld in § 4, 5°<br>
+<br>
+§ 2. Het jaarbedrag van de omkaderingssubsidie zoals bepaald in § 1 wordt vastgesteld op 22.000 euro per voltijds equivalent omkaderingspersoneelslid.<br>
+<br>
+§ 3. De arbeidszorgmedewerkers worden toegeleid door de geïntegreerde basisdienstverlening van de Lokale Werkwinkel of de toeleider op basis van een verslag waaruit blijkt dat de arbeidszorgmedewerker omwille van persoonsgebonden redenen niet of niet meer kan werken onder een arbeidscontract in het regulier of beschermd tewerkstellingscircuit;<br>
+<br>
+§ 4. Om aanspraak te kunnen maken op de omkaderingssubsidie zoals bepaald in § 1 verbindt de sociale werkplaats zich ertoe:<br>
+<br>
+1° een arbeidszorgovereenkomst af te sluiten met elke arbeidszorgmedewerker die aan de sociale werkplaats werd toegewezen en toegeleid werd door de geïntegreerde basisdienstverlening van de Lokale Werkwinkel of de toeleider;<br>
+<br>
+2° een verzekering aan te gaan voor de burgerlijke aansprakelijkheid van elke arbeidszorgmedewerker voor schade toegebracht tijdens de arbeidsmatige activiteiten uitgevoerd in de sociale werkplaats of op weg naar en van de sociale werkplaats;<br>
+<br>
+3° een verzekering aan te gaan voor de lichamelijke en materiële schade geleden door elke arbeidszorgmedewerker tijdens de arbeidsmatige activiteiten uitgevoerd in de sociale werkplaats of op weg naar en van de sociale werkplaats;<br>
+<br>
+4° binnen de 3 maanden na het sluiten van de arbeidszorgovereenkomst in overleg met de toeleider een individueel begeleidingsplan op maat van de arbeidszorgmedewerker op te stellen, waarin een overzicht gegeven wordt van de inspanningen waartoe de werkgever zich verplicht op het vlak van de begeleiding;<br>
+<br>
+5° de omkaderingssubsidie uitsluitend in te zetten voor de begeleiding van de arbeidszorgmedewerkers;<br>
+<br>
+6° externe doelgroepbewaking van de arbeidszorgmedewerkers te aanvaarden;<br>
+<br>
+7° zich in te schakelen in een regionaal netwerk van arbeidszorginitiatieven.<br>
+<br>
+§ 5. Om aanspraak te kunnen maken op de omkaderingssubsidie zoals bepaald in § 1 dient de sociale werkplaats een aanvraag in op een door de administratie ter beschikking gesteld formulier. Het onderzoek van de aanvraag gebeurt door de administratie die ten aanzien van de minister een advies verleent. De minister bepaalt de maximale omkaderingssubsidie op basis van het aantal voltijds equivalente arbeidszorgmedewerkers zoals bepaald in het tweede lid van § 1. (ing. B.V.R. 14 december 2001, art. 3, I: 1 november 2001) ]
 
 ### ART. 20ter.
 
