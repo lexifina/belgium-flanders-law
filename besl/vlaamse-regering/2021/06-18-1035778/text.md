@@ -1,0 +1,172 @@
+# Besluit van de Vlaamse Regering van 2021-06-18 tot bepaling van afwijkingen van de administratieve procedures en de termijnen in de regelgeving van het beleidsdomein Welzijn, Volksgezondheid en Gezin door de uitbraak van COVID-19 en tot wijziging van diverse besluiten van de Vlaamse Regering van het beleidsdomein Welzijn, Volksgezondheid en Gezin
+
+### Aanhef
+
+Rechtsgronden<br>
+Dit besluit is gebaseerd op:<br>
+- het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, artikel 12, gewijzigd bij de decreten van 1 maart 2019 en 3 mei 2019;<br>
+- het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, artikel 14, eerste lid;<br>
+- het decreet van 20 maart 2009 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin, artikel 29, gewijzigd bij het decreet van 6 juli 2018, en artikel 30, § 2, eerste lid;<br>
+- het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters, artikel 4, zesde lid en artikel 6, § 1, 2°, § 5 en § 6, tweede lid;<br>
+- het Woonzorgdecreet van 15 februari 2019, artikel 7, § 1, eerste lid, 3° en 4°, artikel 38, tweede, vierde en zesde lid, artikel 50, eerste en tweede lid, artikel 52, § 1, eerste lid, artikel 64, 92, 97 en 98;<br>
+- het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid, artikel 5.<br>
+<br>
+Vormvereisten<br>
+De volgende vormvereisten zijn vervuld:<br>
+- De Inspectie van Financiën heeft advies gegeven op 25 januari 2021.<br>
+- De Raad van State heeft advies 68.879/3 gegeven op 15 maart 2021, met toepassing van artikel 84, § 1, eerste lid, 2°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;<br>
+- Het Rekenhof heeft verslag gegeven op 26 mei 2021.<br>
+<br>
+Juridisch kader<br>
+Dit besluit sluit aan bij de volgende regelgeving:<br>
+- het koninklijk besluit van 6 november 1979 tot vaststelling van de normen inzake beveiliging tegen brand en paniek waaraan ziekenhuizen moeten voldoen;<br>
+- het besluit van de Vlaamse Regering van 5 juni 2009 tot vaststelling van de regels voor het verlenen van de voorafgaande vergunning voor sommige woonzorgvoorzieningen;<br>
+- het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers;<br>
+- het besluit van de Vlaamse Regering van 9 december 2011 tot vaststelling van de specifieke brandveiligheidsnormen waaraan lokale dienstencentra, centra voor dagverzorging, centra voor dagopvang, centra voor kortverblijf, centra voor herstelverblijf, groepen van assistentiewoningen en woonzorgcentra moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen;<br>
+- het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers;<br>
+- het besluit van de Vlaamse Regering van 25 april 2014 tot vaststelling van de procedures voor de gezondheidszorgvoorzieningen;<br>
+- het Procedurebesluit van 9 mei 2014;<br>
+- het Procedurebesluit Buitenschoolse Opvang van 19 december 2014;<br>
+- Besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers<br>
+- het besluit van de Vlaamse Regering van 8 mei 2020 tot aanpassing van administratieve procedures en termijnen in de regelgeving van het beleidsdomein Welzijn, Volksgezondheid en Gezin door de uitbraak van COVID-19 en tot wijziging van diverse besluiten van de Vlaamse Regering van dat beleidsdomein;<br>
+- het besluit van de Vlaamse Regering van 30 oktober 2020 houdende vaststelling van een civiele noodsituatie met betrekking tot de volksgezondheid, zoals vermeld in het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid, naar aanleiding van de heropleving van het COVID-19-virus;<br>
+- het besluit van de Vlaamse Regering van 18 december 2020 tot vastlegging van de procedure voor het verlenen van voorafgaande vergunningen en planningsvergunningen voor lokale dienstencentra, centra voor dagopvang van een dienst voor gezinszorg, centra voor dagverzorging, centra voor kortverblijf, centra voor herstelverblijf of woonzorgcentra, en tot bepaling van de elementen van de globale zorgstrategische visie voor deze voorafgaande vergunningen.<br>
+<br>
+Initiatiefnemer<br>
+Dit besluit wordt voorgesteld door de Vlaamse minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding.<br>
+<br>
+Na beraadslaging,<br>
+<br>
+DE VLAAMSE REGERING BESLUIT:
+
+## HOOFDSTUK 1. Definities
+
+## HOOFDSTUK 2. Zorg en Gezondheid
+
+## Afdeling 1. Woonzorgdecreet van 15 februari 2019
+
+### ART 2.
+
+In afwijking van artikel 7, § 1, eerste lid, 1° en 2° van het Woonzorgdecreet van 15 februari 2019 heeft het gebrek aan de indiening van een administratief basisdossier of een financieel plan niet tot gevolg dat er geen voorafgaande vergunning of, als er geen voorafgaande vergunning moet worden aangevraagd, geen eerste erkenning kan worden verleend voor aanvragen die zijn ingediend in de periode van 20 maart 2020 tot en met 31 december 2022.<br>
+<br>
+Het administratief basisdossier en het financieel plan wordt in het geval, vermeld in het eerste lid, uiterlijk op 1 januari 2023 aan het agentschap Zorg en Gezondheid bezorgd.
+
+## Afdeling 2. Koninklijk besluit van 6 november 1979 tot vaststelling van de normen inzake beveiliging tegen brand en paniek waaraan ziekenhuizen moeten voldoen
+
+## Afdeling 3. Besluit van de Vlaamse Regering van 5 juni 2009 tot vaststelling van de regels voor het verlenen van de voorafgaande vergunning voor sommige woonzorgvoorzieningen
+
+## Afdeling 4. Besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers
+
+### ART 10.
+
+In afwijking van artikel 10, eerste lid, 7°, van het besluit van 5 juni 2009 leidt het gebrek aan bewijs dat de voorziening voldoende brandveiligheidsmaatregelen heeft getroffen niet tot de onontvankelijkheid van de aanvragen tot voorlopige erkenning die zijn ingediend in de periode van 20 maart 2020 tot en met 30 september 2021.<br>
+<br>
+Het bewijs dat de voorziening voldoende brandveiligheidsmaatregelen heeft getroffen, wordt in voorkomend geval uiterlijk op 31 december 2021 aan het agentschap Zorg en Gezondheid bezorgd. In de tussenliggende periode moet de initiatiefnemer de veiligheid maximaal waarborgen in overeenstemming met de brandveiligheidsvoorschriften.
+
+## Afdeling 5. Besluit van de Vlaamse Regering van 9 december 2011 tot vaststelling van de specifieke brandveiligheidsnormen waaraan lokale dienstencentra, centra voor dagverzorging, centra voor dagopvang, centra voor kortverblijf, centra voor herstelverblijf, groepen van assistentiewoningen en woonzorgcentra moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen
+
+## Afdeling 6. Besluit van de Vlaamse Regering van 25 april 2014 tot vaststelling van de procedures voor de gezondheidszorgvoorzieningen
+
+### ART 16.
+
+In afwijking van artikel 4, tweede lid, 6°, van het besluit van 25 april 2014 heeft het ontbreken van een geldig attest niet tot gevolg dat geen erkenning kan worden verleend voor de aanvragen tot voorlopige erkenning als ziekenhuis of ziekenhuisdienst die zijn ingediend in de periode van 20 maart 2020 tot en met 30 september 2021.<br>
+<br>
+In de gevallen, vermeld in het eerste lid, wordt het attest uiterlijk op 31 december 2021 aan het agentschap Zorg en Gezondheid bezorgd. In de tussenliggende periode moet de ziekenhuisbeheerder de veiligheid maximaal waarborgen in overeenstemming met de brandveiligheidsvoorschriften.<br>
+<br>
+Voor de toepassing van artikel 12, § 1, en artikel 13 van het voormelde besluit, gelden de afwijkingen, vermeld in het eerste en het tweede lid.
+
+### ART 17.
+
+In afwijking van artikel 15, § 2, b), van het besluit van 25 april 2014 heeft het ontbreken van een geldig attest niet tot gevolg dat geen verlenging van een erkenning kan worden verleend voor de aanvragen tot verlenging van de erkenning van psychiatrische ziekenhuizen, ziekenhuisdiensten van psychiatrische ziekenhuizen, ziekenhuisonderdelen van psychiatrische ziekenhuizen en samenwerkingsvormen tussen psychiatrische ziekenhuizen die zijn ingediend in de periode van 20 maart 2020 tot en met 30 september 2021.<br>
+<br>
+In de gevallen, vermeld in het eerste lid, wordt het attest uiterlijk op 31 december 2021 aan het agentschap Zorg en Gezondheid bezorgd. In de tussenliggende periode moet de beheersinstantie de veiligheid maximaal waarborgen in overeenstemming met de brandveiligheidsvoorschriften.
+
+### ART 18.
+
+In afwijking van artikel 32, tweede lid, 2°, g), van het besluit van 25 april 2014 heeft het ontbreken van een verklaring van de burgemeester en een verslag van de brandweer niet tot gevolg dat geen erkenning kan worden verleend voor de erkenningsaanvragen als psychiatrisch verzorgingstehuis die zijn ingediend in de periode van 20 maart 2020 tot en met 30 september 2021.<br>
+<br>
+In de gevallen, vermeld in het eerste lid, wordt het attest uiterlijk op 31 december 2021 aan het agentschap Zorg en Gezondheid bezorgd. In de tussenliggende periode moet de voorziening de veiligheid maximaal waarborgen in overeenstemming met de brandveiligheidsvoorschriften.
+
+### ART 19.
+
+In afwijking van artikel 39, § 2, van het besluit van 25 april 2014 heeft het ontbreken van een verklaring van de burgemeester en een verslag van de brandweer niet tot gevolg dat geen verlenging van een erkenning kan worden verleend voor de aanvragen tot de verlenging van de erkenning als psychiatrisch verzorgingstehuis die zijn ingediend in de periode van 20 maart 2020 tot en met 30 september 2021.<br>
+<br>
+In de gevallen, vermeld in het eerste lid, wordt het attest uiterlijk op 31 december 2021 aan het agentschap Zorg en Gezondheid bezorgd. In de tussenliggende periode moet de voorziening de veiligheid maximaal waarborgen in overeenstemming met de brandveiligheidsvoorschriften.
+
+### ART 20.
+
+§ 1. Voor de ziekenhuizen die met toepassing van artikel 55, § 2, eerste lid van het besluit van 25 april 2014 van het agentschap Zorg en Gezondheid een erkenning van onbepaalde duur hebben verkregen, wordt de geldigheidsduur van de attesten die vóór 1 januari 2022 om een andere reden dan de uitreiking van een nieuw attest voor hetzelfde ziekenhuis van rechtswege vervallen, verlengd tot en met 31 maart 2022.<br>
+<br>
+In afwijking van het eerste lid worden de attesten maar verlengd tot de datum van de uitreiking van een nieuw attest voor het ziekenhuis in kwestie als het nieuwe attest vóór 31 maart 2022 uitgereikt wordt.<br>
+<br>
+§ 2. In de periode waarvoor de geldigheidsduur van attesten conform paragraaf 1 is verlengd, leeft de initiatiefnemer de toepasselijke brandveiligheidsvoorschriften na.
+
+## Afdeling 7. Besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers
+
+### ART 21.
+
+Artikel 13 en 14 van het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers, zijn niet van toepassing in de periode van 20 maart 2020 tot en met 31 december 2022.<br>
+<br>
+De initiatiefnemer meldt uiterlijk op 31 januari 2023 aan het agentschap Zorg en Gezondheid belangrijke strategische beslissingen als vermeld in artikel 14 van het voormelde besluit, die in de periode, vermeld in het eerste lid, goedgekeurd worden.
+
+## Afdeling 8. Besluit van de Vlaamse Regering van 18 december 2020 tot vastlegging van de procedure voor het verlenen van voorafgaande vergunningen en planningsvergunningen voor lokale dienstencentra, centra voor dagopvang van een dienst voor gezinszorg, centra voor dagverzorging, centra voor kortverblijf, centra voor herstelverblijf of woonzorgcentra, en tot bepaling van de elementen van de globale zorgstrategische visie voor deze voorafgaande vergunningen
+
+## HOOFDSTUK 3. Opgroeien
+
+## Afdeling 1. Procedurebesluit van 9 mei 2014
+
+### ART 25.
+
+In afwijking van artikel 14, 5°, van het Procedurebesluit van 9 mei 2014 leidt het gebrek aan brandveiligheidsattest A of B niet tot de onontvankelijkheid van de aanvraag van een vergunning die is ingediend in de periode van 20 maart 2020 tot en met 30 september 2021.<br>
+<br>
+In voorkomend geval bezorgt de organisator het bewijs dat hij aan de specifieke brandveiligheidsvoorschriften voldoet aan het agentschap Opgroeien regie onmiddellijk nadat hij het brandveiligheidsattest van de burgemeester ontvangt en uiterlijk op 31 december 2021. In de tussenliggende periode moet de organisator de veiligheid maximaal waarborgen in overeenstemming met de brandveiligheidsvoorschriften.
+
+### ART 27.
+
+§ 1. In afwijking van de geldigheidsduur, vermeld in artikel 36, 1° en 2°, van het Procedurebesluit van 9 mei 2014, geldt naar aanleiding van de periode van civiele noodsituatie de regeling, vermeld in paragraaf 2 tot en met 6, voor de geldigheidsduur van het brandveiligheidsattest.<br>
+<br>
+§ 2. De geldigheidsduur van het brandveiligheidsattest A, dat vóór 1 januari 2022 om een andere reden dan de uitreiking van een nieuw brandveiligheidsattest voor dezelfde kinderopvanglocatie van rechtswege vervalt of vervallen is, wordt verlengd tot en met 31 maart 2022, ook als de totale geldigheidsduur door die verlenging langer dan acht jaar is.<br>
+<br>
+In afwijking van het eerste lid wordt het brandveiligheidsattest maar verlengd tot de datum van de uitreiking van een nieuw brandveiligheidsattest voor de kinderopvanglocatie in kwestie als het nieuwe brandveiligheidsattest vóór 31 maart 2022 uitgereikt wordt.<br>
+<br>
+§ 3. De geldigheidsduur van het brandveiligheidsattest B dat vóór 1 januari 2022 om een andere reden dan de uitreiking van een nieuw brandveiligheidsattest voor dezelfde kinderopvanglocatie van rechtswege vervalt, wordt verlengd tot en met 31 maart 2022, ook als de totale geldigheidsduur door die verlenging langer dan acht jaar is.<br>
+<br>
+In afwijking van het eerste lid wordt het brandveiligheidsattest maar verlengd tot de datum van de uitreiking van een nieuw brandveiligheidsattest voor de kinderopvanglocatie in kwestie als het nieuwe brandveiligheidsattest vóór 31 maart 2022 uitgereikt wordt.<br>
+<br>
+§ 4. In de periode waarvoor de verlenging van de geldigheidsduur van het brandveiligheidsattest conform paragraaf 2 en 3 is verlengd, leeft de organisator de toepasselijke brandveiligheidsvoorschriften na.<br>
+<br>
+§ 5. In de gevallen, vermeld in paragraaf 2 en 3, bezorgt de organisator, in afwijking van artikel 38, eerste lid, van het Procedurebesluit van 9 mei 2014, uiterlijk op 30 september 2021 een aanvraag aan de burgemeester om een nieuw onderzoek te laten uitvoeren door de bevoegde brandweerdienst, als dat voor die datum nog niet gebeurd is. Daarbij worden, in voorkomend geval, een geactualiseerde stand van zaken van het stappenplan met de nog uit te voeren werken en een verdere planning meegestuurd.<br>
+<br>
+§ 6. In de gevallen, vermeld in paragraaf 2 en 3, bezorgt de burgemeester het brandveiligheidsattest met het bijbehorende verslag, in afwijking van artikel 37 en 40 van het Procedurebesluit van 9 mei 2014, uiterlijk tegen 1 maart 2022.
+
+## Afdeling 2. Procedurebesluit Buitenschoolse Opvang van 19 december 2014.
+
+### ART 28.
+
+In afwijking van artikel 15, 3° van het Procedurebesluit Buitenschoolse Opvang van 19 december 2014 leidt het gebrek aan brandveiligheidsattest A of B niet tot de onontvankelijkheid van de aanvraag van een erkenning die of een attest van toezicht dat is ingediend in de periode van 20 maart 2020 tot en met 30 september 2021.<br>
+<br>
+In voorkomend geval bezorgt de organisator het bewijs dat hij voldoet aan de specifieke brandveiligheidsvoorschriften aan het agentschap Opgroeien regie onmiddellijk nadat hij het brandveiligheidsattest van de burgemeester ontvangt en uiterlijk op 31 december 2021. In de tussenliggende periode moet de organisator de veiligheid maximaal waarborgen in overeenstemming met de brandveiligheidsvoorschriften.
+
+### ART 30.
+
+§ 1. In afwijking van de geldigheidsduur, vermeld in de artikelen 43, 1° en 2°, van het Procedurebesluit Buitenschoolse Opvang van 19 december 2014, geldt naar aanleiding van de periode van civiele noodsituatie de regeling, vermeld in paragraaf 2 tot en met 6, voor de geldigheidsduur van het brandveiligheidsattest.<br>
+<br>
+§ 2. De geldigheidsduur van het brandveiligheidsattest A dat vóór 1 januari 2022 om een andere reden dan de uitreiking van een nieuw brandveiligheidsattest voor dezelfde opvanglocatie van rechtswege vervalt of vervallen is, wordt verlengd tot en met 31 december 2021, ook als de totale geldigheidsduur door die verlenging langer dan acht jaar is.<br>
+<br>
+In afwijking van het eerste lid worden het brandveiligheidsattest maar verlengd tot de datum van de uitreiking van een nieuw brandveiligheidsattest voor de opvanglocatie in kwestie als het nieuwe brandveiligheidsattest vóór 31 december 2021 uitgereikt wordt.<br>
+<br>
+§ 3. De geldigheidsduur van het brandveiligheidsattest B dat vóór 1 januari 2022 om een andere reden dan de uitreiking van een nieuw brandveiligheidsattest voor dezelfde opvanglocatie van rechtswege vervalt, wordt verlengd tot en met 31 december 2021, ook als de totale geldigheidsduur door die verlenging langer dan acht jaar is.<br>
+<br>
+In afwijking van het eerste lid worden het brandveiligheidsattest maar verlengd tot de datum van de uitreiking van een nieuw brandveiligheidsattest voor de opvanglocatie in kwestie als het nieuwe brandveiligheidsattest vóór 31 december 2021 uitgereikt wordt.<br>
+<br>
+§ 4. In de periode waarvoor de verlenging van de geldigheidsduur van het brandveiligheidsattest conform paragraaf 2 en 3 is verlengd, leeft de organisator de toepasselijke brandveiligheidsvoorschriften na.
+
+## HOOFDSTUK 4. Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat)pleegzorgers
+
+## HOOFDSTUK 5. Wijzigingsbepalingen
+
+## Afdeling 1. Wijzigingen van het besluit van de Vlaamse Regering van 9 december 2011 tot vaststelling van de specifieke brandveiligheidsnormen waaraan lokale dienstencentra, centra voor dagverzorging, centra voor dagopvang, centra voor kortverblijf, centra voor herstelverblijf, groepen van assistentiewoningen en woonzorgcentra moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen
+
+## Afdeling 2. Wijzigingen van het besluit van de Vlaamse Regering van 8 mei 2020 tot aanpassing van administratieve procedures en termijnen in de regelgeving van het beleidsdomein Welzijn, Volksgezondheid en Gezin door de uitbraak van COVID-19 en tot wijziging van diverse besluiten van de Vlaamse Regering van dat beleidsdomein
+
+## HOOFDSTUK 6. Slotbepalingen
