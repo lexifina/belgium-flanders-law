@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032722,
+  "title": "Besluit van de Vlaamse Regering van 2020-02-21 houdende indeling bij de gemeentewegen van de gewestweg N148 tussen kilometerpunt 10,603 en kilometerpunt 12,909 op het grondgebied van de gemeente Niel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032722/VolledigDocument?datum=2020-03-26",
+  "source_sha256": "726d776e04dea971338ab7efbf7b0d2738fbd42ac3adda8f3a5d36c6a6d94747",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032722&param=informatie",
+  "as_of": "2020-03-26",
+  "made": "2020-02-21",
+  "gazette": "2020-03-16",
+  "numac": 2020020485,
+  "document_start": "2020-03-26",
+  "document_end": null,
+  "in_force": "2020-03-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
