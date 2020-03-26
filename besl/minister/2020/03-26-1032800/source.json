@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032800,
+  "title": "Ministerieel besluit van 2020-03-26 tot wijziging van artikel 1 en 7 van het ministerieel besluit van 23 juni 2015 houdende vaststelling van de verzamelaanvraag en de nadere regels voor de gemeenschappelijke identificatie van percelen, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032800/VolledigDocument?datum=2020-03-26",
+  "source_sha256": "f1b4032335b7ada39b5eeecfe470ceb0fc2bf552b6aaab3ac93bf0a90aef2cc7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032800&param=informatie",
+  "as_of": "2020-03-26",
+  "made": "2020-03-26",
+  "gazette": "2020-03-31",
+  "numac": 2020030430,
+  "document_start": "2020-03-26",
+  "document_end": null,
+  "in_force": "2020-03-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
