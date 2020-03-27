@@ -689,7 +689,9 @@ De beslissing vermeldt de mogelijkheid van beroep, de bevoegde instanties die er
 
 ### ART 75.
 
-De onderdaan van een derde land die toegelaten is tot arbeid voor een periode van maximum negentig dagen, en die de duur van zijn verblijf met het oog op werk wil verlengen, waarbij de totale periode de negentig dagen overschrijdt, dient een aanvraag in conform de procedure vermeld in hoofdstuk 9.
+De onderdaan van een derde land die toegelaten is tot arbeid voor een periode van maximum negentig dagen, en die de duur van zijn verblijf met het oog op werk wil verlengen, waarbij de totale periode de negentig dagen overschrijdt, dient een aanvraag in conform de procedure vermeld in hoofdstuk 9.<br>
+<br>
+Het eerste lid is niet van toepassing indien de onderdaan van een derde land om uitzonderlijke reden onafhankelijk van zijn wil het land niet kan verlaten.
 
 ## HOOFDSTUK 11. Bepalingen over de bezoldiging van buitenlandse arbeidskrachten
 
