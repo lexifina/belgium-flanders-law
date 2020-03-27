@@ -162,6 +162,10 @@ De dienst sluit een afdoende burgerlijke aansprakelijkheidsverzekering voor de p
 
 De ziekenwagen wordt gedurende het volledige transport van de patiënt bemand door twee ambulanciers niet-dringend patiëntenvervoer. Een ambulancier niet-dringend patiëntenvervoer begeleidt de patiënt in de sanitaire cel van de ziekenwagen.
 
+### ART 15.
+
+De ambulancier niet-dringend patiëntenvervoer is houder van het certificaat van een opleiding eerste hulp van minstens 24 uur, tenzij hij zich kan beroepen op eerder verworven kwalificaties. Dat certificaat is op het moment waarop hij de functie opneemt, niet ouder dan drie jaar. Een organisatie die bekrachtigd is door de gemengde werkgroep opleiding, reikt het certificaat uit. De lijst van de bekrachtigde organisaties wordt gepubliceerd op de website van het agentschap.
+
 ### ART 17.
 
 In elke ziekenwagen worden de tarieven en maximumtarieven duidelijk zichtbaar geafficheerd.
