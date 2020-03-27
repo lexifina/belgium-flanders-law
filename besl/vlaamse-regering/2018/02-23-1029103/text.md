@@ -58,7 +58,9 @@ Voor de toepassing van deze voorwaarde wordt de overgang van de hoedanigheid van
 Als de ondernemer een beroepsbezigheid als zaakvoerder, vennoot of bestuurder van een vennootschap start, dan is deze voorwaarde van toepassing op die vennootschap;<br>
 8° de hoedanigheid van zelfstandige in hoofdberoep behouden gedurende de hele periode waarin de transitiepremie toegekend wordt;<br>
 9° zich ertoe verbinden gedurende de hele periode waarin de transitiepremie toegekend wordt voor de laatste werkgever bij wie de ondernemer in dienst was, geen diensten te verrichten als zelfstandige ten voordele van of in opdracht van, die werkgever of van de groep waartoe die werkgever behoort;<br>
-10° gedurende de afgelopen zes jaar vanaf de datum van de laatste uitbetaling van een transitiepremie tot de datum waarop de transitiepremie opnieuw wordt aangevraagd het voordeel van de transitiepremie voor ondernemers niet hebben gekregen.
+10° gedurende de afgelopen zes jaar vanaf de datum van de laatste uitbetaling van een transitiepremie tot de datum waarop de transitiepremie opnieuw wordt aangevraagd het voordeel van de transitiepremie voor ondernemers niet hebben gekregen.<br>
+<br>
+In geval van een crisis met een ernstige sociale en economische impact die als dusdanig door de minister is erkend, wordt de termijn van zes maanden, vermeld in het eerste lid, 2°, automatisch verlengd met telkens 3 maanden tot zolang de minister dit niet meer noodzakelijk acht.
 
 ## HOOFDSTUK 3. Bedrag en looptijd van de transitiepremie
 
@@ -148,6 +150,8 @@ Bij de aanvraag van de transitiepremie worden al de volgende stukken gevoegd :<b
 6° een verklaring op erewoord dat de ondernemer geen subsidie of premie voor beginnende zelfstandigen krijgt die toegekend wordt door andere gewestoverheden dan de Vlaamse overheid.<br>
 <br>
 Het departement beoordeelt de aanvraag op basis van een tijdig ingediend, volledig en correct ingevuld aanvraagformulier waarbij de vereiste documenten zijn gevoegd.<br>
+<br>
+In geval van een crisis met een ernstige sociale en economische impact die als dusdanig door de minister is erkend, wordt de termijn van drie maanden, vermeld in het eerste lid, automatisch verlengd met telkens 3 maanden tot zolang de minister dit niet meer noodzakelijk acht.<br>
 <br>
 § 2. Het departement kan alle noodzakelijke gegevensbronnen raadplegen om de aanvraag te verwerken. Als het departement via digitale gegevensbronnen beschikt over bepaalde gegevens en documenten vermeld in paragraaf 1, verstrekt de aanvrager die gegevens niet en voegt hij de documenten niet bij zijn aanvraag.<br>
 <br>
