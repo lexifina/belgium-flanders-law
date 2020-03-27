@@ -170,6 +170,8 @@ In afwijking van het eerste lid kan het departement de subsidie uitbetalen als d
 <br>
 Als de aangiftegegevens, vermeld in het eerste lid, niet beschikbaar zijn uiterlijk drie maanden na het tijdstip van de vastgelegde uitbetaling van de tweede schijf, vervalt het recht op de uitbetaling van de tweede schijf.<br>
 <br>
+Met behoud van de toepassing van het eerste en tweede lid, kan het departement in geval van een crisis met een ernstige sociale en economische impact die als dusdanig door de minister is erkend, de uitbetaling van de tweede schijf van de subsidie vaststellen via de contractuele tewerkstellingsbreuk van de aangiftes voorafgaand aan die crisis. De minister bepaalt de voorwaarden en de procedure van de aanvraag.<br>
+<br>
 § 4. Het departement kan alle noodzakelijk gegevensbronnen raadplegen met het oog op de vaststelling van de tewerkstellingsperiode en de verwerking van de uitbetaling.
 
 ### ART 10.
