@@ -543,6 +543,8 @@ Het departement kan aan de zelfstandige met een arbeidshandicap die gedurende mi
 <br>
 Als de zelfstandige er niet in slaagt om voldoende bedrijfsactiviteit te realiseren door stopzetting of een volledige onderbreking van de zelfstandige activiteiten door ziekte, wordt de bedrijfsactiviteit pro rata berekend. De VOP wordt alleen uitbetaald voor de periode waarin de zelfstandige zijn activiteiten heeft uitgevoerd.<br>
 <br>
+Als de zelfstandige er niet in slaagt om voldoende bedrijfsresultaten te realiseren tijdens een crisis met een ernstige sociale en economische impact die de minister als dusdanig erkent, wordt met behoud van de toepassing van het eerste en tweede lid, de bedrijfsactiviteit pro rata berekend.<br>
+<br>
 § 4. Als de zelfstandige niet voldoende bedrijfsactiviteit realiseert, worden de toekomstige betalingen van de VOP opgeschort. De zelfstandige kan, nadat hij aangetoond heeft dat hij voldoende bedrijfsactiviteit realiseert, een voortzetting van de betaling van de VOP vragen.<br>
 <br>
 § 5. De zelfstandige brengt het departement onmiddellijk en op eigen initiatief op de hoogte van elke wijziging die betrekking heeft of kan hebben op het realiseren van voldoende bedrijfsactiviteit.
