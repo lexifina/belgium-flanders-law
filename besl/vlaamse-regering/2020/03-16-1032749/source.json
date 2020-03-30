@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032749,
+  "title": "Besluit van de Vlaamse Regering van 2020-03-16 houdende de herverdeling van begrotingsartikel CB0-1CBG2AB-PR van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2020",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032749/VolledigDocument?datum=2020-03-30",
+  "source_sha256": "8ca3dcdcf331f51287ca088330ed1835a90462ecb865f510357223c5c39192ca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032749&param=informatie",
+  "as_of": "2020-03-30",
+  "made": "2020-03-16",
+  "gazette": "2020-03-20",
+  "numac": 2020040683,
+  "document_start": "2020-03-30",
+  "document_end": null,
+  "in_force": "2020-03-30",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-03-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
