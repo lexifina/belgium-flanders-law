@@ -47,6 +47,14 @@ b) sluiten een schoolbestuur, verschillende schoolbesturen samen of het LOP alsn
 § 2. Aan artikel 37vicies quinquies, § 1, van hetzelfde decreet wordt een derde lid toegevoegd, dat luidt als volgt:<br>
 "In afwijking van het eerste lid kunnen een schoolbestuur, verschillende schoolbesturen samen of het LOP uiterlijk op 15 november 2020 een voorstel van aanmeldingsprocedure voor de inschrijvingen voor het schooljaar 2021-2022 aan de CLR voorleggen.".
 
+### ART 13.
+
+In afwijking van artikel 63, § 1, van hetzelfde decreet dient het schoolbestuur dat voor de school de voorlopige erkenning voor het schooljaar 2020-2021 wil verkrijgen, uiterlijk op 1 juni 2020 een aanvraag in bij AGODI.
+
+### ART 14.
+
+In afwijking van artikel 68, § 2, van hetzelfde decreet dient het schoolbestuur dat voor de school financiering of subsidiëring voor het schooljaar 2020-2021 wil verkrijgen, uiterlijk op 1 juni 2020 een aanvraag in bij AGODI.
+
 ## HOOFDSTUK 3. Afwijking van het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad
 
 ### ART 16.
@@ -64,6 +72,14 @@ In afwijking van artikel 21, 7°, a), van het decreet van 2 april 2004 betreffen
 In afwijking van artikel 215, § 2, tweede lid, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs geldt de termijn van negentig kalenderdagen in de periode van 16 maart 2020 tot en met 31 december 2020 niet voor instellingen en CLB's die een nieuwe doorlichting zouden krijgen. De onderwijsinspectie bepaalt in overleg met de betrokken instelling of het betrokken CLB een datum voor de nieuwe doorlichting, die volgt na de periode van opschorting van de procedure tot intrekking van de erkenning die de Vlaamse Regering aan het bestuur heeft meegedeeld. De doorlichting vindt uiterlijk plaats op 31 december 2020.
 
 ## HOOFDSTUK 7 . Afwijking van de Codex Secundair Onderwijs van 17 december 2010
+
+### ART 20.
+
+In afwijking van artikel 14, § 2, van de Codex Secundair Onderwijs van 17 december 2010 dient het schoolbestuur uiterlijk op 1 juni 2020 een aanvraag in tot erkenning en eventueel financiering van structuuronderdelen in het kader van de oprichting per 1 september 2020 van een school die niet het gevolg is van een herstructurering van bestaande scholen.
+
+### ART 21.
+
+In afwijking van artikel 15, § 2, van dezelfde codex dient het schoolbestuur uiterlijk op 1 juni 2020 een aanvraag in tot financiering van structuuronderdelen in het kader van de oprichting per 1 september 2020 van een school die niet het gevolg is van een herstructurering van bestaande scholen.
 
 ### ART 23.
 
