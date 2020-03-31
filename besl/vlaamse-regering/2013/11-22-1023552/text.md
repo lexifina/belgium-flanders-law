@@ -16,7 +16,8 @@
 5° minister : de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
 6° 's nachts : tussen 20 uur en 6 uur;<br>
 7° vergunning : een vergunning voor gezinsopvang of een vergunning voor groepsopvang als vermeld in artikel 4, eerste lid, 1° en 2°, van het decreet van 20 april 2012;<br>
-8° wennen : het geleidelijk aan laten verlopen van de overgang van het thuismilieu van het kind naar de kinderopvanglocatie waarbij er extra aandacht is voor de wisselwerking tussen de kinderen, de gezinnen en de kinderbegeleiders en voor de uitwisseling met de gezinnen.</p>
+8° wennen : het geleidelijk aan laten verlopen van de overgang van het thuismilieu van het kind naar de kinderopvanglocatie waarbij er extra aandacht is voor de wisselwerking tussen de kinderen, de gezinnen en de kinderbegeleiders en voor de uitwisseling met de gezinnen;<br>
+9° agentschap: het intern verzelfstandigd agentschap, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie.</p>
 
 <p>De naleving van de startvoorwaarden, vermeld in dit besluit, heeft betrekking op het toekennen van een vergunning door het agentschap, en de naleving van de werkingsvoorwaarden, vermeld in dit besluit, heeft betrekking op het behouden van een vergunning.</p>
 
@@ -57,7 +58,7 @@ De organisator heeft een ondernemingsnummer als vermeld in artikel 52. Dat   bli
 
 ### ART. 7.
 
-Als de organisator georganiseerd is als feitelijke vereniging, heeft hij   een samenwerkingsovereenkomst als vermeld in artikel 53. Dat blijkt uit de   samenwerkingsovereenkomst.<BR>
+...
 
 ### ART. 8.
 
@@ -454,7 +455,20 @@ De organisator heeft een ondernemingsnummer. Als de organisator   georganiseerd 
 
 ### ART. 53.
 
-De organisator die georganiseerd is als feitelijke vereniging, heeft een   samenwerkingsovereenkomst waarin minstens de volgende aspecten zijn opgenomen   :<BR>1° de exacte samenstelling van de feitelijke vereniging;<BR>2° de persoon   of personen die handelingsbekwaam zijn om de feitelijke vereniging te   vertegenwoordigen;<BR>3° de persoon die de verantwoordelijke, vermeld in artikel   39, eerste lid, 1°, is;<BR>4° de verdeelsleutel tussen de personen die deel   uitmaken van de feitelijke vereniging;<BR>5° werkregime van alle personen die   deel uitmaken van de feitelijke vereniging.<BR>
+De organisator zorgt voor bestuurlijke weerbaarheid en transparantie.<br>
+<br>
+De organisator die georganiseerd is als feitelijke vereniging of maatschap, heeft in het kader van de verplichting, vermeld in het eerste lid, de opdracht om een samenwerkingsovereenkomst te sluiten.<br>
+<br>
+De organisator met meer dan achttien vergunde kinderopvangplaatsen heeft in het kader van de verplichting, vermeld in het eerste lid, minstens de volgende opdrachten:<br>
+1° de kennis, vermeld in artikel 8, actueel houden en in de praktijk brengen;<br>
+2° problemen of ontwikkelingen die een impact kunnen hebben op de continuïteit van de kinderopvang voor de gezinnen aan het agentschap melden.<br>
+<br>
+De organisator met meer dan vijfhonderd vergunde kinderopvangplaatsen heeft, naast de opdrachten, vermeld in het tweede en het derde lid, ook de volgende opdrachten:<br>
+1° zorgen voor voldoende controlemechanismes tussen de raad van bestuur, de algemene vergadering en de directie waardoor elkaars werking en beslissingen op onafhankelijke en kritische wijze beoordeeld kunnen worden;<br>
+2° zorgen voor een evenwichtige samenstelling van die organen waarbij de leden complementair zijn ten opzichte van elkaar wat competentie en expertise betreft;<br>
+3° belangrijke strategische beslissingen over de structuur, de werking en het bestuur van de organisator aan het agentschap te melden.<br>
+<br>
+De verplichtingen, vermeld in het vierde lid, 1° en 2°, zijn niet van toepassing op lokale besturen.
 
 ### ART. 54.
 
