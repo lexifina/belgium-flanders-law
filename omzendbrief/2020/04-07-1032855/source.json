@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032855,
+  "title": "Omzendbrief van 2020-04-07 OMG/W 2020/2 betreffende het tijdelijk verbod op uithuiszettingen omwille van de coronavirusmaatregelen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032855/VolledigDocument?datum=2020-03-31",
+  "source_sha256": "9cc739f3d0215287909fd58b6a3259d4d7ecc841369ac9358c3353d03b3f3205",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032855&param=informatie",
+  "as_of": "2020-03-31",
+  "made": "2020-04-07",
+  "gazette": "2020-04-14",
+  "numac": 2020020782,
+  "document_start": "2020-03-31",
+  "document_end": null,
+  "in_force": "2020-03-31",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2020-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
