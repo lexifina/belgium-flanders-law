@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032878,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-10 tot wijziging van het Vergunningsbesluit van 22 november 2013, wat betreft de bestuurlijke weerbaarheid en transparantie van organisatoren, en tot wijziging van het Subsidiebesluit van 22 november 2013, wat betreft verplichtingen in het kader van de subsidies",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032878/VolledigDocument?datum=2020-03-31",
+  "source_sha256": "ce64b0f2956d88d91671b294528b626f51303b0e71d601a47df935df7c56176b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032878&param=informatie",
+  "as_of": "2020-03-31",
+  "made": "2020-04-10",
+  "gazette": "2020-04-21",
+  "numac": 2020030665,
+  "document_start": "2020-03-31",
+  "document_end": null,
+  "in_force": "2020-03-31",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2020-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
