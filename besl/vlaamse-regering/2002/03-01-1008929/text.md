@@ -67,7 +67,7 @@ Worden met werknemers gelijkgesteld : de personen die, anders dan krachtens een 
 
 ### ART. 3.
 
-De in artikel 2 genoemde werknemers kunnen slechts aanspraak maken op de aanmoedigingspremie als bedoeld in de artikelen 10 en 13 van dit besluit voor zover het sectorakkoord, het bedrijfsakkoord of de toetredingsakte de toepassing van de maatregel van de desbetreffende afdeling heeft voorzien.
+De in artikel 2 genoemde werknemers kunnen slechts aanspraak maken op de aanmoedigingspremie als bedoeld in de artikel 10 van dit besluit voor zover het sectorakkoord, het bedrijfsakkoord of de toetredingsakte de toepassing van de maatregel van de desbetreffende afdeling heeft voorzien.
 
 ### ART. 4.
 
@@ -143,11 +143,25 @@ Aan de werknemer, tewerkgesteld in een onderneming in moeilijkheden of in herstr
 
 ### ART. 14.
 
-Het bewijs van onderneming in moeilijkheden of in herstructurering moet blijken uit:<br /><br />- hetzij het attest van erkenning als onderneming in moeilijkheden afgeleverd door de federale Minister van Tewerkstelling en Arbeid, overeenkomstig het koninklijk besluit van 7 december 1992 betreffende de toekenning van werkloosheidsuitkeringen in geval van conventioneel brugpensioen, of overeenkomstig het koninklijk besluit van 21 maart 1997 houdende uitvoering van artikel 9 van het koninklijk besluit van 24 februari 1997 houdende nadere voorwaarden met betrekking tot de tewerkstellingsakkoorden in toepassing van de artikelen 7, § 2, 30, § 2 en 33 van de wet van 26 juli 1996 tot bevordering van de werkgelegenheid en tot preventieve vrijwaring van het concurrentievermogen;<br /><br />- hetzij het attest van erkenning als onderneming in herstructurering afgeleverd door de federale Minister van Tewerkstelling en Arbeid, overeenkomstig het koninklijk besluit van 21 maart 1997 houdende uitvoering van artikel 9 van het koninklijk besluit van 24 februari 1997 houdende nadere voorwaarden met betrekking tot de tewerkstellingsakkoorden in toepassing van de artikelen 7, § 2, 30, § 2 en 33 van de wet van 26 juli 1996 tot bevordering van de werkgelegenheid en tot preventieve vrijwaring van het concurrentievermogen;<br /><br />- hetzij een herstructureringsplan, dat voor advies is voorgelegd aan de ondernemingsraad, of bij gebreke daaraan, aan de syndicale afvaardiging, of bij gebreke daaraan, aan het comité voor preventie en bescherming op het werk, of bij gebreke daaraan, aan de vertegenwoordigers van de representatieve werknemersorganisaties.
+Het bewijs van onderneming in moeilijkheden of in herstructurering moet blijken uit:<br>
+<br>
+- hetzij het attest van erkenning als onderneming in moeilijkheden afgeleverd door de federale Minister van Tewerkstelling en Arbeid, overeenkomstig het koninklijk besluit van 7 december 1992 betreffende de toekenning van werkloosheidsuitkeringen in geval van conventioneel brugpensioen, of overeenkomstig het koninklijk besluit van 21 maart 1997 houdende uitvoering van artikel 9 van het koninklijk besluit van 24 februari 1997 houdende nadere voorwaarden met betrekking tot de tewerkstellingsakkoorden in toepassing van de artikelen 7, § 2, 30, § 2 en 33 van de wet van 26 juli 1996 tot bevordering van de werkgelegenheid en tot preventieve vrijwaring van het concurrentievermogen;<br>
+<br>
+- hetzij het attest van erkenning als onderneming in herstructurering afgeleverd door de federale Minister van Tewerkstelling en Arbeid, overeenkomstig het koninklijk besluit van 21 maart 1997 houdende uitvoering van artikel 9 van het koninklijk besluit van 24 februari 1997 houdende nadere voorwaarden met betrekking tot de tewerkstellingsakkoorden in toepassing van de artikelen 7, § 2, 30, § 2 en 33 van de wet van 26 juli 1996 tot bevordering van de werkgelegenheid en tot preventieve vrijwaring van het concurrentievermogen;<br>
+<br>
+- hetzij een plan met opgave van de substantiële daling van de economische activiteiten van de onderneming ten gevolge van de impact van de Corona-virusmaatregelen, dat werd goedgekeurd door de ondernemingsraad of bij gebrek daaraan, door de vakbondsafvaardiging of bij gebrek daaraan, door het comité voor preventie en bescherming op het werk, of bij gebrek daaraan, dat werd opgenomen in het arbeidsreglement.<br>
+In dit besluit wordt verstaan onder substantiële daling van de economische activiteiten: een daling met minimum 20% van de omzet, de productie of het aantal bestellingen in de maand waarin de arbeidsduurvermindering start, ten opzichte van dezelfde maand van het jaar voordien.<br>
+Het plan bevat:<br>
+1° de opgave van de arbeidsherverdelingsmaatregelen en de link met het impact van de Corona-virusmaatregelen<br>
+2° de opgave van het aantal arbeidsplaatsen die het voorwerp uitmaken van de maatregelen;<br>
+3° de opgave van de periode van de maatregelen;<br>
+4° de btw-aangiften van alle maanden.
 
 ### ART. 15.
 
-Het recht op de aanmoedigingspremie bij verminderde arbeidsduur wordt verworven vanaf het ogenblik dat de onderneming, conform de in artikel 14 beschreven procedure, het statuut verkrijgt van onderneming in moeilijkheden of in herstructurering. Na opening van het recht kan de premie gedurende maximum 2 jaar worden toegekend.
+Het recht op de aanmoedigingspremie bij verminderde arbeidsduur wordt verworven vanaf het ogenblik dat de onderneming, conform de in artikel 14 beschreven procedure, het statuut verkrijgt van onderneming in moeilijkheden of in herstructurering. Na opening van het recht kan de premie gedurende maximum 2 jaar worden toegekend.<br>
+<br>
+Als het bewijs van onderneming in moeilijkheden of in herstructureringen blijkt uit een plan, zoals vermeld in artikel 14, derde gedachtestreepje, kan de aanmoedigingspremie bij verminderde arbeidsduur slechts worden toegekend gedurende de periode van de maatregelen vermeld in het plan en uiterlijk tot 30 juni 2020 en kan de terugwerking, vermeld in artikel 21, in afwijking van het voormelde artikel op zijn vroegst op 1 april 2020 beginnen.
 
 ### ART. 16.
 
@@ -155,7 +169,13 @@ De aanmoedigingspremie bij verminderde arbeidsduur kan niet gecombineerd worden 
 
 ### ART. 17.
 
-§ 1. De werknemer die gedurende het jaar voorafgaand aan de aanvang van de verminderde arbeidsduur, tewerkgesteld is geweest in een voltijdse arbeidsregeling en zijn arbeidsprestaties vermindert tot een halftijdse betrekking, ontvangt een aanmoedigingspremie van 125 euro per maand.<br /><br />§ 2. De werknemer die zijn arbeidsprestaties vermindert met minimum 20 % van het aantal uren van de gemiddelde wekelijkse arbeidsduur van een voltijdse werknemer, ontvangt per maand een aanmoedigingspremie van 75 euro.<br /><br />§ 3. De werknemer die zijn arbeidsprestaties vermindert met minimum 10 % en minder dan 20 % van het aantal uren van de gemiddelde wekelijkse arbeidsduur van een voltijdse werknemer, ontvangt per maand een aanmoedigingspremie van 50 euro.
+§ 1. De werknemer die gedurende het jaar voorafgaand aan de aanvang van de verminderde arbeidsduur, tewerkgesteld is geweest in een voltijdse arbeidsregeling en zijn arbeidsprestaties vermindert tot een halftijdse betrekking, ontvangt een aanmoedigingspremie van 125 euro per maand.<br>
+<br>
+§ 2. De werknemer die zijn arbeidsprestaties vermindert met minimum 20 % van het aantal uren van de gemiddelde wekelijkse arbeidsduur van een voltijdse werknemer, ontvangt per maand een aanmoedigingspremie van 75 euro.<br>
+<br>
+§ 3. De werknemer die zijn arbeidsprestaties vermindert met minimum 10 % en minder dan 20 % van het aantal uren van de gemiddelde wekelijkse arbeidsduur van een voltijdse werknemer, ontvangt per maand een aanmoedigingspremie van 50 euro.<br>
+<br>
+§ 4. Een wijziging van de arbeidsduurvermindering geldend voor de werknemers aan wie de aanmoedigingspremie wordt toegekend moet binnen de 30 dagen door de werknemer worden gemeld aan de administratie. De werkgever van de betrokken werknemers kan namens deze werknemers de wijzigingen aan de administratie meedelen, mits de werkgever daartoe uitdrukkelijk door de werknemers werd gemandateerd.
 
 ## AFDELING 4 SUPPLETIEVE REGELING
 
