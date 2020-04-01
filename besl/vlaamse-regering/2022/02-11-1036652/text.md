@@ -21,6 +21,10 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## HOOFDSTUK 1. Vaststelling van maatregelen voor gelegenheidsarbeiders voor de periode van 1 april 2020 tot en met 30 september 2021 ten gevolge van de uitbraak van het COVID-19-virus
 
+### ART 1.
+
+Voor de toepassing van de maandelijkse uurnorm van tachtig uren, vermeld in artikel 14, § 2, eerste lid, 2°, artikel 29, § 1, eerste lid, 2°, en artikel 41, eerste lid, 2°, van het besluit van de Vlaamse Regering van 5 oktober 2018 tot vaststelling van de diverse hoedanigheden van het rechtgevend kind en betreffende de vrijstellingen van de toekenningsvoorwaarden voor de gezinsbijslagen, de startbedragen geboorte en adoptie en de universele participatietoeslagen, wordt geen rekening gehouden met de prestaties die geleverd zijn onder het statuut van gelegenheidsarbeider, vermeld in artikel 2/1, § 1, van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, tijdens de periode van 1 april 2020 tot en met 30 september 2021.
+
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering van 29 juni 2018 houdende nadere regels betreffende de aanwijzing van de begunstigden van de gezinsbijslagen en de uitbetaling van de toelagen in het kader van het gezinsbeleid
 
 ## HOOFDSTUK 3. Wijzigingen van het besluit van de Vlaamse Regering van 13 juli 2018 tot vaststelling van de nadere regels over de rechten en plichten van begunstigden in hun contacten met uitbetalingsactoren en tot vaststelling van de regels voor de ambtshalve en gedwongen herziening van een beslissing tot toekenning van toelagen in het kader van het gezinsbeleid
