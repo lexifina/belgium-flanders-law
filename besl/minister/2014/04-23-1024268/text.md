@@ -300,7 +300,10 @@ De volgende regelingen worden opgeheven:<BR>1° het ministerieel besluit   van 9
 
 ### ART. 36.
 
-De omzetting bij diensten voor onthaalouders die voordien werkten met   samenwerkende onthaalouders waarvoor er nu een vergunning groepsopvang nodig is,   naar een afzonderlijke subsidiegroep per zorgregio, gebeurt als volgt:<BR>1° de   afzonderlijke subsidiegroep geldt gedurende een overgangsperiode van zes   jaar;<BR>2° Kind en Gezin doet voor elke betrokken organisator een elektronisch   voorstel voor het aantal gesubsidieerde kinderopvangplaatsen in de subsidiegroep   op basis van een bevraging bij de betrokken organisator;<BR>3° de organisator   kan met betrekking tot het voorstel, vermeld in punt 2°, een elektronisch   voorstel tot correctie indienen bij Kind en Gezin, waarna in onderling overleg   met Kind en Gezin tot een definitief voorstel voor het aantal gesubsidieerde   kinderopvangplaatsen in de subsidiegroep beslist wordt, op basis van objectieve   gegevens.<BR>
+De omzetting bij diensten voor onthaalouders die voordien werkten met samenwerkende onthaalouders waarvoor er nu een vergunning groepsopvang nodig is, naar een afzonderlijke subsidiegroep per zorgregio, gebeurt als volgt:<br>
+1° de afzonderlijke subsidiegroep geldt gedurende een overgangsperiode van&nbsp;twaalf jaar;<br>
+2° Kind en Gezin doet voor elke betrokken organisator een elektronisch voorstel voor het aantal gesubsidieerde kinderopvangplaatsen in de subsidiegroep op basis van een bevraging bij de betrokken organisator;<br>
+3° de organisator kan met betrekking tot het voorstel, vermeld in punt 2°, een elektronisch voorstel tot correctie indienen bij Kind en Gezin, waarna in onderling overleg met Kind en Gezin tot een definitief voorstel voor het aantal gesubsidieerde kinderopvangplaatsen in de subsidiegroep beslist wordt, op basis van objectieve gegevens.
 
 ## Afdeling 2 Overgangsperiode voor bedrag subsidie voor inkomenstarief
 
