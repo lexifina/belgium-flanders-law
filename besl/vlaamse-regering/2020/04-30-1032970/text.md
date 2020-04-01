@@ -25,6 +25,10 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT :
 
+### ART 1.
+
+Voor de toepassing van de uurnorm van 475 uur in het kader van arbeidsovereenkomsten voor studenten, vermeld in artikel 14, § 2, lid 1, 1°, artikel 29, § 1, lid 1, 1° en artikel 41, lid 1, 1° van het besluit van de Vlaamse Regering van 5 oktober 2018 tot vaststelling van de diverse hoedanigheden van het rechtgevend kind en betreffende de vrijstellingen van de toekenningsvoorwaarden voor de gezinsbijslagen, de startbedragen geboorte en adoptie en de universele participatietoeslagen, wordt geen rekening gehouden met de prestaties geleverd onder dergelijke arbeidsovereenkomst tijdens de periode van 1 april 2020 tot en met 30 juni 2020.
+
 ### ART 2.
 
 In afwijking van artikel 14, § 2, tweede lid, van hetzelfde besluit wordt de maandelijkse zorgtoeslag voor het kind met een specifieke ondersteuningsbehoefte niet geschorst tot en met 30 juni 2020 als het kind omwille van het COVID-19-virus een sociale uitkering ten gevolge van een tijdelijke werkloosheid wegens overmacht of economische redenen ontvangt, conform het koninklijk besluit van 25 november 1991 houdende de werkloosheidsuitkering.

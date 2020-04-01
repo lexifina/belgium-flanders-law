@@ -2,16 +2,16 @@
   "codex_id": 1032970,
   "title": "Besluit van de Vlaamse Regering van 2020-04-30 tot vaststelling van maatregelen ten gevolge van de uitbraak van het COVID-19-virus, wat betreft de toelagen in het kader van het gezinsbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032970/VolledigDocument?datum=2020-03-14",
-  "source_sha256": "6567df9d5846843beb1faeaf2f9c923f335e7b63399a5d16f20f0a5baa300ab5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032970/VolledigDocument?datum=2020-04-01",
+  "source_sha256": "25eb93e97dfdf0a287572f2c9773c849320691d5b67d2fef28814c4f2de0879c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032970&param=informatie",
-  "as_of": "2020-03-14",
+  "as_of": "2020-04-01",
   "made": "2020-04-30",
   "gazette": "2020-05-07",
   "numac": 2020041194,
   "document_start": "2020-03-14",
   "document_end": null,
-  "in_force": "2020-03-14",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2020-03-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-04-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2020-04-01; future article versions excluded; article text as the API gives it"
 }
