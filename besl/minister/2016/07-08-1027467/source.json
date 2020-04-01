@@ -2,16 +2,16 @@
   "codex_id": 1027467,
   "title": "Ministerieel besluit van 2016-07-08 betreffende de voorschriften voor het etiketteren, plomberen en verpakken van teeltmateriaal van fruitgewassen, alsook van fruitgewassen die voor de fruitteelt worden gebruikt",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027467/VolledigDocument?datum=2020-03-15",
-  "source_sha256": "0fb26e54985f8ba605b81a38547dd39fbd081302750a5c7281f2c21d998c5ebf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027467/VolledigDocument?datum=2020-04-01",
+  "source_sha256": "6933ff0f0b2b7319d43eaa3c56248d1c7b41fe892352b327a2d1f2c6b6de1587",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027467&param=informatie",
-  "as_of": "2020-03-15",
+  "as_of": "2020-04-01",
   "made": "2016-07-08",
   "gazette": "2016-10-11",
   "numac": 2016036444,
   "document_start": "2017-01-01",
   "document_end": null,
-  "in_force": "2020-03-15",
+  "in_force": "2020-04-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2020-03-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-01; future article versions excluded; article text as the API gives it"
 }

@@ -110,25 +110,23 @@ Planten of delen van planten die deel uitmaken van dergelijke partijen, voldoen 
 
 ### ART 8.
 
-§ 1. Bij het in de handel brengen van CAC-materiaal maakt de leverancier een document op conform paragraaf 2 en 3.<br>
+§ 1. Als CAC-materiaal in de handel wordt gebracht, maakt de leverancier een document van de leverancier op. Dat document wordt conform paragraaf 2, 3 en 4 opgemaakt.<br>
+De bevoegde entiteit stelt het model van het document van de leverancier vast en zorgt ervoor dat het document van de leverancier niet op het begeleidende document, vermeld in artikel 6, lijkt zodat geen verwarring tussen beide documenten mogelijk is.<br>
 <br>
-Om elke mogelijke verwarring tussen het document van de leverancier en het etiket, vermeld in artikel 5, of het begeleidende document, vermeld in artikel 6, te voorkomen, ziet de bevoegde entiteit erop toe dat het document van de leverancier niet op de twee andere documenten lijkt. Het model van document van de leverancier moet aan de bevoegde entiteit ter goedkeuring worden voorgelegd.<br>
-<br>
-§ 2. Het document van de leverancier bevat ten minste de volgende informatie :<br>
+§ 2. Het document van de leverancier bevat de volgende informatie:<br>
 1° de vermelding "EU-regelgeving en -normen";<br>
 2° de vermelding "België" of de code "BE";<br>
-3° de bevoegde entiteit of de desbetreffende code;<br>
-4° de naam van de leverancier of zijn registratienummer dat of zijn code die door de bevoegde entiteit is toegekend;<br>
+3° de bevoegde entiteit of de code in kwestie;<br>
+4° de naam van de leverancier of zijn registratienummer dat of zijn code die de bevoegde entiteit heeft toegekend;<br>
 5° een individueel volgnummer, weeknummer of partijnummer;<br>
 6° de botanische naam;<br>
-7° CAC-materiaal;<br>
-8° de benaming van het ras en, in voorkomend geval, de kloon. In geval van onderstammen die niet tot een ras behoren, de naam van de desbetreffende soort of interspecifieke hybride. Voor geënte fruitgewassen wordt die informatie voor de onderstam en het erop geënte ras vermeld. Bij rassen waarvoor een aanvraag tot officiële registratie of een aanvraag van kwekersrecht in behandeling is, wordt het volgende vermeld : "voorgestelde benaming" en "aanvraag in behandeling";<br>
-9° de hoeveelheid;<br>
-10° het land van productie en de desbetreffende code, als dat niet de lidstaat is waar het document van de leverancier is opgesteld;<br>
-11° de datum van afgifte van het document.<br>
+7° de vermelding "CAC-materiaal";<br>
+8° de benaming van het ras en, in voorkomend geval, de kloon. In geval van onderstammen die niet tot een ras behoren, wordt de naam van de soort in kwestie of de interspecifieke hybride vermeld. Voor geënte fruitgewassen wordt die informatie vermeld voor de onderstam en voor het ras dat erop geënt is. Bij rassen waarvoor een aanvraag tot officiële registratie of een aanvraag van een kweekproduct in behandeling is, wordt het volgende vermeld: "voorgestelde benaming" en "aanvraag in behandeling";<br>
+9° de afgiftedatum van het document van de leverancier.<br>
 <br>
-§ 3. Het document van de leverancier wordt in onuitwisbare letters in één van de officiële talen van België en in voorkomend geval, in één van de officiële talen van de Unie gedrukt en is makkelijk zichtbaar en leesbaar.<br>
-&nbsp;
+§ 3. Als het document van de leverancier op het CAC-materiaal wordt aangebracht, is de kleur van het document geel.<br>
+<br>
+§ 4. Het document van de leverancier wordt in onuitwisbare letters in een van de officiële talen van de Unie gedrukt en is makkelijk zichtbaar en leesbaar.
 
 ### ART 9.
 
