@@ -381,7 +381,7 @@ Vanaf 1 januari 2020 tot en met 31 december 2020 komen de volgende openbare dien
 			<td>255</td>
 			<td>OCMW Tielt-Winge</td>
 			<td>5,7</td>
-			<td>1</td>
+			<td>0</td>
 		</tr>
 		<tr>
 			<td>257</td>
