@@ -133,6 +133,12 @@ In afwijking van artikel 256/4, § 5, van dezelfde codex wordt de geldigheidsduu
 
 In afwijking van artikel 294, § 2, 1°, e), en 2°, f), van dezelfde codex is de opmaak van een tijdelijk verslag mogelijk als het handelingsgericht diagnostisch traject dat nodig is voor de opmaak van een verslag, niet tijdig en volledig tegen de start van het schooljaar 2020-2021 gefinaliseerd kon worden met de vereiste diagnostiek. Het tijdelijke verslag is op het moment van de eerste lesbijwoning van het schooljaar 2020-2021 beschikbaar. Voor de opmaak van een tijdelijk verslag hoeft niet voldaan te worden aan de voorwaarden betreffende de diagnostiek, vermeld in artikel 259, § 1, 2°, 3°, 4°, 6°, 7° en 8°, van dezelfde codex. Het tijdelijke verslag kan opgemaakt worden voor een instap in het buitengewoon onderwijs of de opstart van een IAC in het gewoon onderwijs bij de start van het schooljaar 2020-2021, of ingeval het type of de opleidingsvorm van een al bestaand verslag gewijzigd wordt met het oog op de start van het schooljaar 2020-2021. Het tijdelijke verslag wordt omgezet in een definitief verslag zodra de vereiste diagnose beschikbaar is. Als de vereiste diagnose niet wordt afgeleverd, wordt het tijdelijke verslag van rechtswege opgeheven bij de start van het schooljaar 2021-2022.
 
+### ART 35.
+
+In afwijking van artikel 357/22 van dezelfde codex kan een leerling in het schooljaar 2019-2020 ingeschreven blijven in een duale opleiding, ook als die leerling tussen 16 maart en 30 juni geen overeenkomst heeft. In dat geval wordt de opleiding volledig georganiseerd via onderwijs bij de aanbieder duaal leren en bedraagt ze minstens 28 opleidingsuren.<br>
+<br>
+De afwijking, vermeld in het eerste lid, is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4. Voor opleidingsvorm 3 bedraagt de opleiding bij de aanbieder minstens 32 opleidingsuren.
+
 ## HOOFDSTUK 8. Afwijking van de Codex Hoger Onderwijs van 11 oktober 2013
 
 ## HOOFDSTUK 9. Wijziging van het decreet van 17 mei 2019 houdende wijziging van het decreet basisonderwijs van 25 februari 1997, van de Codex Secundair Onderwijs van 17 december 2010 en van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, wat het inschrijvingsrecht betreft
