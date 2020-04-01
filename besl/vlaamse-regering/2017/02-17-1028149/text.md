@@ -411,6 +411,12 @@ Voor de maatwerkbedrijven wordt het geplafonneerde referteloon verhoogd met:<br>
 2° alle supplementaire werkgeversbijdragen van de Rijksdienst voor Sociale Zekerheid, met uitzondering van de solidariteitsbijdrage wegens het ontbreken van Dimona en de solidariteitsbijdrage in de door de werkgever terugbetaalde verkeersboetes;<br>
 3° de loonkosten ten laste van de werkgever, veroorzaakt door arbeidsongeschiktheid ingevolge ziekte, ongeval van gemeen recht, arbeidsongeval of beroepsziekte conform artikel 52, 54, 70, 71, 72 van de wet van 3 juli 1978 betreffende arbeidsovereenkomsten en artikel 3 en 10 van de collectieve arbeidsovereenkomst nr. 12bis tot aanpassing van de collectieve arbeidsovereenkomst nr. 12 van 28 juni 1973 betreffende het toekennen van een gewaarborgd maandloon aan de werklieden in geval van arbeidsongeschiktheid ingevolge ziekte, ongeval van gemeen recht, arbeidsongeval of beroepsziekte, aan de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten en artikel 3 en 10 van de collectieve arbeidsovereenkomst nr. 13bis tot aanpassing van de collectieve arbeidsovereenkomst nr. 13 van 28 juni 1973 betreffende het toekennen van een gewaarborgd maandloon aan sommige bedienden in geval van arbeidsongeschiktheid ingevolge ziekte, ongeval van gemeen recht, arbeidsongeval of beroepsziekte, aan de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.
 
+### ART 37/1.
+
+Voor de periode van 1 april 2020 tot en met 30 juni 2020 wordt de loonpremie van de doelgroepwerknemer verhoogd met een percentage van 4 % met als doelstelling de tewerkstelling van doelgroepwerknemers en begeleiders op een veilige manier te organiseren rekening houdend met de regels rond social distancing en andere voorzorgsmaatregelen om de verspreiding van het coronavirus zoveel als mogelijk tegen te gaan.<br>
+<br>
+In het kader van deze verhoogde loonpremie wordt op het niveau van de onderneming sociaal overleg gepleegd over de invoering van extra beschermende maatregelen ingevolge het coronavirus
+
 ### ART 38.
 
 § 1. De loonpremie voor de doelgroepwerknemer is cumuleerbaar met andere steunmaatregelen als een dergelijke cumulatie er niet toe leidt dat de met toepassing van dit besluit geïndiceerde steunintensiteit wordt overschreden als vermeld in artikel 1/6.<br>
@@ -429,6 +435,10 @@ Als de geïndiceerde steunintensiteit wordt overschreden, worden de buiten dit b
 De loonpremie wordt berekend op basis van de gegevens, vermeld in de aangifte bij de Rijksdienst voor Sociale Zekerheid, vermeld in artikel 21 van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, en de uitvoeringsbesluiten ervan.<br>
 <br>
 Een wijziging in de aangifte bij de Rijksdienst voor Sociale Zekerheid, ressorteert automatisch in een herberekening van de loonpremie bij de jaarafrekening van het jaar waarop de wijziging die doorgegeven is aan de Rijksdienst voor Sociale Zekerheid betrekking heeft. Wijzigingen die niet via de Rijksdienst voor Sociale Zekerheid meegedeeld worden, komen niet of niet meer in aanmerking voor herberekening van de loonpremie.
+
+### ART 39/1.
+
+Onverminderd de bepalingen in artikel 39 zal een wijziging in de aangifte bij de Rijksdienst voor Sociale Zekerheid niet ressorteren in een herberekening van de tijdelijk verhoogde loonpremie, zoals bepaald in artikel 37/1.
 
 ## Afdeling 2 Begeleiding op de werkvloer
 
@@ -618,7 +628,7 @@ Het recht op de steun voor de werkondersteunende maatregelen neemt een aanvang v
 
 ### ART 61.
 
-&nbsp;Het maatwerkbedrijf en de maatwerkafdeling krijgen een maandelijks voorschot dat is gebaseerd op het voortschrijdend gemiddelde van de vier voorgaande kwartaalafrekeningen en dat rekening houdt met de evolutie van de gezondheidsindex.<br>
+&nbsp;Het maatwerkbedrijf en de maatwerkafdeling krijgen een maandelijks voorschot dat is gebaseerd op het voortschrijdend gemiddelde van de vier voorgaande kwartaalafrekeningen en dat rekening houdt met de evolutie van de gezondheidsindex.&nbsp;De tijdelijk verhoogde loonpremie, zoals bepaald in artikel 37/1 maakt geen deel uit van de kwartaalafrekening die als basis geldt voor de berekening van het maandelijks voorschot.<br>
 <br>
 In voorkomend geval wordt het maandelijkse voorschot verhoogd met het nieuw toegekende contingent aan ondersteuningspakketten, vermenigvuldigd met een refertebedrag.<br>
 <br>
