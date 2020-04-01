@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032762,
+  "title": "Besluit van de Vlaamse Regering van 2020-03-18 tot wijziging van het besluit van de Vlaamse regering van 1 maart 2002 houdende hervorming van het stelsel van de aanmoedigingspremies in de privé-sector en van het besluit van de Vlaamse Regering van 3 mei 2002 tot instelling van de aanmoedigingspremies in de Vlaamse private sociale profitsector",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032762/VolledigDocument?datum=2020-04-01",
+  "source_sha256": "e036e0cb9ae21c48dd24d94c2e92860984c302195925572b124992ac24ca5dcf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032762&param=informatie",
+  "as_of": "2020-04-01",
+  "made": "2020-03-18",
+  "gazette": "2020-03-24",
+  "numac": 2020040702,
+  "document_start": "2020-04-01",
+  "document_end": "2020-06-30",
+  "in_force": "2020-04-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2020-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
