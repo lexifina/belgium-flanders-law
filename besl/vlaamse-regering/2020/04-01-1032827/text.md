@@ -58,8 +58,10 @@ In dit besluit wordt verstaan onder:<br>
 19° ministerieel besluit van 23 maart 2020: het ministerieel besluit van 23 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken;<br>
 20° ondernemingen van cruciale sectoren en essentiële diensten: de ondernemingen van cruciale sectoren en essentiële diensten, zoals vermeld in artikel 3 en opgenomen in de bijlage van het ministerieel besluit van 23 maart 2020;<br>
 21° openingsdag: de dag waarop men beschikbaar is om kinderen op te vangen in de periode dat de coronamaatregelen gelden;<br>
-22° opvang op een schooldag: de opvang vóór schooltijd, na schooltijd of op woensdagnamiddag;<br>
-23° opvang op een schoolvrije dag: de opvang op een schoolvrije dag of gedurende de schoolvakantie;<br>
+22° opvang op een schooldag : de buitenschoolse opvang vóór schooltijd, na schooltijd of op een woensdagnamiddag;<br>
+23° opvang op een schoolvrije dag : de buitenschoolse opvang op een vrije dag, een pedagogische studiedag of een weekenddag, waarop de school voor een kind niet toegankelijk is. Binnen de schoolvrije dagen zijn de volgende soorten te onderscheiden :<br>
+a) schoolvrije dagen tijdens de Paasvakantie : de buitenschoolse opvang tijdens de paasvakantie van 4 april tot en met 19 april 2020, weekenddagen inbegrepen;<br>
+b) schoolvrije dagen buiten de Paasvakantie : de buitenschoolse opvang buiten de paasvakantie van 4 april tot en met 19 april 2020;<br>
 24° organisator van een erkend consultatiebureau: een natuurlijke persoon, feitelijke vereniging of rechtspersoon met een erkenning, zoals bepaald in artikel 2 van het besluit van 12 oktober 2018;<br>
 25° preventieve gezondheidszorg : het deel van de gezondheidszorg dat maatregelen en acties omvat die tot doel hebben de gezondheid te bevorderen, te beschermen of te behouden, vermeld in artikel 2, 24°, van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br>
 26° project FCUD buitenschoolse opvang: het project, vermeld in artikel 1, 4° van het besluit van de Vlaamse Regering van 15 juli 2016 betreffende subsidiëring van projecten vanuit het vroegere Fonds voor Collectieve Uitrustingen en Diensten en voor personeelsleden met een gewezen gescostatuut, dat buitenschoolse opvang organiseert;<br>
@@ -86,7 +88,7 @@ De afwezigheidsdagen mogen niet afgetrokken worden:<br>
 1° door de organisator die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, van het aantal gerechtvaardigde afwezigheidsdagen, zoals vermeld in artikel 29 van het Subsidiebesluit van 22 november 2013, waarop een gezin recht heeft op basis van de schriftelijke overeenkomst of het huishoudelijk reglement;<br>
 2° door de organisator die niet voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, van het aantal dagen waarop een gezin recht heeft op basis van de schriftelijke overeenkomst of het huishoudelijk reglement om het kind afwezig te laten zijn in de opvang zonder dat het gezin ervoor moet betalen.<br>
 <br>
-In afwijking van wat de schriftelijke overeenkomst en het huishoudelijk reglement, vermeld in artikel 25 en 27 van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014, bepaalt, en in afwijking van artikel 28 van het Subsidiebesluit van 22 november 2013, betalen de gezinnen niets voor de opvang van het kind op opvangdagen op schoolvrije dagen, juli en augustus uitgezonderd.
+In afwijking van wat de schriftelijke overeenkomst en het huishoudelijk reglement, vermeld in artikel 25 en 27 van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014 en in artikel 34 en 36 van het Vergunningsbesluit van 22 november 2013, bepaalt, en in afwijking van artikel 28 van het Subsidiebesluit van 22 november 2013, betalen de gezinnen niets voor de buitenschoolse opvang op een schoolvrije dag tijdens de Paasvakantie in de periode dat de coronamaatregelen gelden.
 
 ## Afdeling 2. Maatregelen voor de organisatoren en de medewerkers
 
@@ -102,7 +104,8 @@ De organisator van buitenschoolse opvang met erkenning zonder subsidie van het a
 <br>
 De subsidie bedraagt:<br>
 1° voor opvang op een schooldag: 8,75 euro per openingsdag per plaats voor 80% van de plaatsen op de erkenning of het attest van toezicht;<br>
-2° voor opvang op een schoolvrije dag: 17,50 euro per openingsdag per plaats voor 100% van de plaatsen op de erkenning of het attest van toezicht.
+2° voor opvang op een schoolvrije dag tijdens de Paasvakantie: 17,50 euro per openingsdag per plaats voor 100% van de plaatsen op de erkenning of het attest van toezicht;<br>
+3° voor opvang op een schoolvrije dag buiten de Paasvakantie : 17,50 euro per openingsdag per plaats voor 80 % van de plaatsen op de erkenning of het attest van toezicht.
 
 ### ART 6.
 
@@ -110,15 +113,24 @@ De organisator van buitenschoolse opvang die de subsidie voor initiatief buitens
 <br>
 De subsidie bedraagt:<br>
 1° voor opvang op een schooldag: 7 euro per openingsdag per plaats voor 80% van de erkende plaatsen of plaatsen met toestemming;<br>
-2° voor opvang op een schoolvrije dag: 14 euro per openingsdag per plaats voor 100% van de erkende plaatsen of plaatsen met toestemming;
+2° voor opvang op een schoolvrije dag tijdens de Paasvakantie: 14 euro per openingsdag per plaats voor 100% van de erkende plaatsen of plaatsen met toestemming;<br>
+3° voor opvang op een schoolvrije dag buiten de Paasvakantie : 14 euro per openingsdag per plaats voor 80 % van de erkende plaatsen of plaatsen met toestemming.
 
 ### ART 7.
 
-De organisator van buitenschoolse opvang die groepsopvang met samenwerkende onthaalouders in het sociaal statuut van de aangesloten onthaalouders of gezinsopvang organiseert en die de subsidie voor inkomenstarief ontvangt, kan bij het agentschap een subsidie aanvragen zoals vermeld in artikel 6 van het besluit van 24 maart 2020.
+De organisator van buitenschoolse opvang die groepsopvang met samenwerkende onthaalouders in het sociaal statuut van de aangesloten onthaalouders of gezinsopvang organiseert en die de subsidie voor inkomenstarief ontvangt, kan bij het agentschap een subsidie aanvragen zoals vermeld in artikel 6 van het besluit van 24 maart 2020.<br>
+<br>
+Bovenop de subsidie vermeld in het eerste lid, kan de organisator bij het agentschap een subsidie aanvragen voor de compensatie van de buitenschoolse opvang op een schoolvrije dag tijdens de Paasvakantie waarvoor de gezinnen niets betalen, in toepassing van artikel 3 van dit besluit.<br>
+<br>
+De subsidie is de som van wat de gezinnen aan de organisator zouden betaald hebben voor de buitenschoolse opvang op de schoolvrije dagen tijdens de Paasvakantie op basis van de schriftelijke overeenkomst en het huishoudelijk reglement.
 
 ### ART 8.
 
-De organisator van buitenschoolse opvang die groepsopvang organiseert en die de subsidie voor inkomenstarief ontvangt, kan bij het agentschap een subsidie aanvragen zoals vermeld in artikel 7 van het besluit van 24 maart 2020.
+De organisator van buitenschoolse opvang die groepsopvang organiseert en die de subsidie voor inkomenstarief ontvangt, kan bij het agentschap een subsidie aanvragen zoals vermeld in artikel 7 van het besluit van 24 maart 2020.<br>
+<br>
+Bovenop de subsidie vermeld in het eerste lid, kan de organisator bij het agentschap een subsidie aanvragen voor de compensatie van de buitenschoolse opvang op een schoolvrije dag tijdens de Paasvakantie waarvoor de gezinnen niets betalen, in toepassing van artikel 3 van dit besluit.<br>
+<br>
+De subsidie is de som van wat de gezinnen aan de organisator zouden betaald hebben voor de buitenschoolse opvang op de schoolvrije dagen tijdens de Paasvakantie op basis van de schriftelijke overeenkomst en het huishoudelijk reglement.
 
 ### ART 9.
 
@@ -126,9 +138,15 @@ De organisator die de subsidie voor project FCUD zieke kinderen ontvangt, kan bi
 <br>
 De subsidie bedraagt 12 euro per aanwezigheidsdag van minstens 3 uren en 4,5 euro voor een aanwezigheidsdag van minder dan 3 uren, voor het aantal aanwezigheidsdagen dat de organisator tijdens de periode dat de coronamaatregelen gelden minder realiseert dan in dezelfde periode in 2019.
 
+### ART 9/1.
+
+De organisator met een vergunning voor kinderopvang van baby's en peuters kan bij het agentschap een subsidie aanvragen voor de buitenschoolse opvang op een schoolvrije dag tijdens de Paasvakantie tijdens de periode dat de coronamaatregelen gelden waarvoor het gezin niets betaalt, in toepassing van artikel 3 van dit besluit als dit kind opgevangen wordt op een kinderopvangplaats waarvoor de organisator niet moet voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013.<br>
+<br>
+De subsidie is de som van wat de gezinnen aan de organisator zouden betaald hebben voor de buitenschoolse opvang op de schoolvrije dagen tijdens de Paasvakantie op basis van de schriftelijke overeenkomst en het huishoudelijk reglement.
+
 ### ART 10.
 
-De organisator die de subsidie, vermeld in artikel 5 tot en met 9, wil ontvangen, voldoet aan volgende voorwaarden:<br>
+De organisator die de subsidie, vermeld in artikel 5 tot en met 9/1, wil ontvangen, voldoet aan volgende voorwaarden:<br>
 1° de organisator is beschikbaar om de dienstverlening verder te zetten voor de gezinnen die hier nood aan hebben omdat minstens één van de ouders werkzaam is bij een onderneming van cruciale sectoren en essentiële diensten, en voor kinderen in een kwetsbare thuissituatie. Deze voorwaarde is niet van toepassing indien de organisator kan aantonen dat hij door overmacht de dienstverlening niet kan verderzetten en moet sluiten;<br>
 2° de organisator past zijn dienstverlening, wat openingsuren en -dagen betreft, zo maximaal mogelijk aan op basis van de behoeften van de gezinnen die hier nood aan hebben omdat ze werkzaam zijn bij ondernemingen van cruciale sectoren en essentiële diensten, en doet desgevraagd inspanningen om beschikbare medewerkers ruimer in te zetten dan het huidige opvangaanbod.<br>
 3° de organisator betaalt correcte lonen of vergoedingen voor de medewerkers in de periode dat de coronamaatregelen gelden, waardoor die medewerkers in staat zijn een gezonde en toekomstgerichte sociaalrechtelijke situatie uit te bouwen in de opvanglocatie;<br>
@@ -138,10 +156,11 @@ De organisator die de subsidie, vermeld in artikel 5 tot en met 9, wil ontvangen
 
 ### ART 11.
 
-De aanvraag voor de subsidie, vermeld in artikel 5 tot en met 9, wordt uiterlijk 3 maanden na het aflopen van de coronamaatregelen volgens de richtlijnen van het agentschap ingediend met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
+De aanvraag voor de subsidie, vermeld in artikel 5 tot en met 9/1, wordt uiterlijk 3 maanden na het aflopen van de coronamaatregelen volgens de richtlijnen van het agentschap ingediend met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
 1° identificatiegegevens;<br>
-2° voor de subsidie vermeld in artikel 5 tot en met 8: het aantal openingsdagen voor opvang op een schooldag en voor opvang op een schoolvrije dag;<br>
+2° voor de subsidie vermeld in artikel 5 en 6, artikel 7, eerste lid, en artikel 8, eerste lid : het aantal openingsdagen voor opvang op een schooldag en voor opvang op een schoolvrije dag;<br>
 3° voor de subsidie, vermeld in artikel 9: het aantal aanwezigheidsdagen in de periode dat de coronamaatregelen gelden en het aantal aanwezigheidsdagen in dezelfde periode in 2019;<br>
+3/1° voor de subsidie, vermeld in artikel 7, tweede lid, artikel 8, tweede lid en artikel 9/1 : de som van wat de gezinnen zouden betaald hebben voor de buitenschoolse opvang op de schoolvrije dagen tijdens de Paasvakantie op basis van de schriftelijke overeenkomst en het huishoudelijk reglement;<br>
 4° verklaring op erewoord over het feit dat de organisator de voorwaarden vermeld in artikel 10 naleeft;<br>
 5° de datum en ondertekening.
 
