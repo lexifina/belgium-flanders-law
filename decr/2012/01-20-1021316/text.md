@@ -395,80 +395,45 @@ Enkel kosten die gemaakt zijn in de looptijd van het project komen in aanmerking
 <br>
 De Vlaamse Regering kan de nadere regels bepalen.
 
-### ART. 17.
-
-§ 1. Om te worden gesubsidieerd in het kader van dit decreet moet de begunstigde :<br>
-1° een vereniging zonder winstoogmerk zijn;<br>
-2° in zijn werking de principes en de regels van de democratie aanvaarden en ook de rechten van het kind en het Europees Verdrag tot bescherming van de Rechten van de Mens en de fundamentele vrijheden onderschrijven en uitdragen;<br>
-3° zijn zetel hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br>
-4° ervoor zorgen dat alle gegevens die verband houden met de erkennings- en subsidiëringsvoorwaarden op de zetel voorhanden zijn in het Nederlands en die ter beschikking stellen voor onderzoek door de administratie;<br>
-5° de bevoegdheden die wettelijk toekomen aan de algemene vergadering of aan de raad van bestuur, niet overdragen aan een derde;<br>
-6° op zelfstandige wijze de financiën beheren en het eigen beleid bepalen, wat blijkt uit het feit dat de vereniging :<br>
-a) over een eigen secretariaat beschikt dat duidelijk kan worden onderscheiden van elke andere rechtspersoon; het secretariaat van de vereniging is ondergebracht op de zetel van de vereniging;<br>
-b) werkgever en opdrachtgever is van haar personeel;<br>
-c) de programmering van de vereniging bepaalt en uitvoert;<br>
-d) over een eigen post- of bankrekening beschikt;<br>
-e) activiteiten organiseert of diensten verleent in eigen naam.<br>
-<br>
-Vanaf het ogenblik dat hij erkend wordt of een belofte van subsidiëring ontvangt, moet elke begunstigde ook :<br>
-1° meewerken aan onderzoek dat door of namens de Vlaamse Regering wordt georganiseerd met het oog op het voeren van een jeugd- en kinderrechtenbeleid;<br>
-2° het logo van de Vlaamse Gemeenschap opnemen op alle informatiedragers die betrekking hebben op initiatieven die gesubsidieerd worden in het kader van dit decreet;<br>
-3° een financieel verslag en een werkingsverslag indienen, goedgekeurd door de algemene vergadering van de vereniging;<br>
-4° een boekhouding voeren en die zo organiseren dat de aanwending van de subsidies op elk ogenblik financieel kan worden gecontroleerd;<br>
-5° toestaan dat de administratie en het Rekenhof de werking en de boekhouding, zo nodig ter plaatse, onderzoeken.<br>
-<br>
-De verenigingen die op basis van dit decreet een werkingssubsidie ontvangen, die nen jaarlijks, samen met het financiële verslag, bij de administratie een verslag in van een bedrijfsrevisor die lid is van het Instituut van de Bedrijfsrevisoren of van een extern accountant die geen andere opdrachten vervult voor de vereniging. De Vlaamse Regering bepaalt de datum van indiening en de vormvereisten.<br>
-<br>
-In afwijking van § 1, 1°, komen voor de toekenning van subsidies zoals bedoeld in artikel 16, § 3, eerste lid, 4°, in aanmerking:<br>
-1° feitelijke verenigingen;<br>
-2° privaatrechtelijke rechtspersonen met een niet-commercieel karakter;<br>
-3° intergemeentelijke projectverenigingen.<br>
-<br>
-§ 2. Om de hoogte van de subsidiebedragen voor de verenigingen, vermeld in artikel 8, te bepalen, om de hoogte van de variabele subsidies, vermeld in artikel 13, te bepalen en om de hoogte van de projectsubsidies, vermeld in artikel 16, te bepalen, worden, rekening houdend met de specificiteit van de organisatie, de volgende beoordelingscriteria gehanteerd, als die relevant zijn voor de beoordeling van de gesubsidieerde initiatieven :<br>
-1° profilering en positionering;<br>
-2° langetermijnvisie;<br>
-3° inhoudelijk concept en concrete uitwerking;<br>
-4° samenwerking en netwerking met andere actoren in binnen- of buitenland;<br>
-5° haalbaarheid;<br>
-6° bereik;<br>
-7° gelijkekansenbeleid;<br>
-8° financiële onderbouw van de werking;<br>
-9° transparantie die wordt verschaft over de relatie van de initiatieven van de vereniging die voor subsidiëring worden voorgesteld enerzijds met andere initiatieven van deze vereniging anderzijds, en de wijze waarop die initiatieven gefinancierd worden;<br>
-10° het onderschrijven en uitdragen van de rechten van het kind.<br>
-<br>
-Als de vereniging al eerder op basis van het decreet gesubsidieerd werd, wordt ook rekening gehouden met de wijze waarop de vereniging invulling heeft gegeven aan haar verplichtingen.<br>
-<br>
-Ter aanvulling van de genoemde beoordelingscriteria mag de Vlaamse Regering aanvullende beoordelingscriteria bepalen. De lijst van aanvullende criteria moet uiterlijk zes maanden voor de uiterste indieningsdatum van de aanvraag tot subsidiëring kenbaar gemaakt worden.<br>
-<br>
-§ 3. Met het oog op de advisering inzake de toekenning van variabele subsidies aan de verenigingen, vermeld in artikelen 9, 10 en 11, en de toekenning van projectsubsidies, vermeld in artikel 16, paragrafen 2 en 3, stelt de Vlaamse Regering een of meer adviescommissies samen met personen die aanwijsbaar over de nodige expertise beschikken.<br>
-<br>
-Een adviescommissie kan alle initiatieven nemen die ze nodig acht. Ze kan onder meer de organisatie die de aanvraag tot subsidiëring heeft ingediend horen, deskundigen horen, aanvullende documenten en gegevens opvragen en een bezoek ter plaatse brengen of aan de administratie vragen een onderzoek ter plaatse uit te voeren.<br>
-<br>
-De leden van een adviescommissie ontvangen een vergoeding voor hun werkzaamheden en verplaatsingen. De Vlaamse Regering bepaalt de nadere modaliteiten van deze vergoedingen.<br>
-<br>
-Het lidmaatschap van een adviescommissie is niet verenigbaar met de hoedanigheid van lid van de jeugdraad, personeelslid of lid van de raad van bestuur van de vereniging, vermeld in artikel 8, paragraaf 1, of de hoedanigheid van personeelslid of lid van de raad van bestuur van een organisatie waarvan de beleidsnota of de subsidieaanvraag moet worden behandeld door de adviescommissie. Een lid van een adviescommissie wordt aangesteld voor een termijn van vier jaar. Dat mandaat kan slechts eenmaal verlengd worden. Het lidmaatschap van dezelfde commissie kan maximaal acht jaar bedragen.<br>
-<br>
-De adviescommissies worden bijgestaan door de administratie.<br>
-<br>
-§ 4. Een vereniging die op basis van dit decreet een werkingssubsidie ontvangt, kan gedurende de periode waarin die vereniging haar beleidsnota uitvoert, onbeperkt een reserve aanleggen met eigen inkomsten en subsidies.<br>
-<br>
-Als reserve moet het resultaat beschouwd worden van de optelling van rekening 13, bestemde fondsen, en rekening 14, overgedragen resultaat, van de balans, zoals omschreven in de minimumindeling van het algemeen rekeningenstelsel, als bijlage gevoegd bij het koninklijk besluit van 19 december 2003 betreffende de boekhoudkundige verplichtingen en de openbaarmaking van de jaarrekening van bepaalde verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk en stichtingen.<br>
-<br>
-Als de vereniging op het einde van de beleidsperiode nog beschikt over een reserve, dan kan ze die reserve overdragen naar de volgende beleidsperiode op voorwaarde dat, ten opzichte van de bestaande reserve bij het begin van de beleidsperiode, de aangroei niet meer bedraagt dan twintig percent van de gemiddelde jaarlijkse kosten berekend over de beleidsperiode. De Vlaamse Regering kan een afwijking toestaan van het bepaalde percentage, op voorwaarde dat de vereniging daartoe aan de administratie een gemotiveerd bestedingsplan bezorgt voor de te veel opgebouwde reserve of voor de gehele reserve.<br>
-<br>
-Als bij de afrekening van het laatste werkingsjaar van de beleidsperiode de aangroei van de reserve meer bedraagt dan hetgeen bepaald werd in het derde lid, dan wordt het teveel ingehouden op het nog uit te keren saldo van de werkingssubsidie en wordt het eventueel daarna nog resterende bedrag in mindering gebracht op de subsidies van de volgende beleidsperiode, tot maximaal het bedrag van de werkingssubsidie die toegekend is voor het laatste jaar voorafgaand aan de nieuwe beleidsperiode.<br>
-<br>
-Als aan de vereniging na afloop van de beleidsperiode waarop de beleidsnota betrekking heeft, geen werkingssubsidie meer wordt verleend, dan is de vereniging verplicht een gemotiveerd bestedingsplan voor alle reserves die op basis van dit artikel werden aangelegd, in te dienen bij de administratie. Die reserves moeten, in voorkomend geval, prioritair aangewend worden om te voldoen aan de arbeidsrechtelijke verplichtingen.<br>
-<br>
-De regeling voor reserves is ook van toepassing op de verenigingen die op basis van dit decreet een werkingssubsidie ontvangen, maar geen beleidsnota indienen, met dien verstande dat voor die verenigingen de beleidsperiode de periode van vier jaar is vanaf het eerste jaar van subsidiëring op basis van dit decreet, en daarna elke volgende periode van vier jaar.<br>
-<br>
-§ 5.&nbsp;De&nbsp;verenigingen waarvan werd vastgesteld dat zij aan alle voorwaarden voldoen voor de toekenning van een werkingssubsidie, ontvangen per kwartaal een voorschot van 22,5 percent van het subsidiebedrag dat voor dat jaar toegekend wordt.<br>
-<br>
-Het saldo wordt uitbetaald voor 1 juli van het volgende jaar.
-
 ### ART. 17/1.
 
-§ 1. In dit artikel wordt verstaan onder:<BR>1° animator: jeugdwerker die   kinderen en jongeren bij hun activiteiten binnen het jeugdwerk begeleidt;<BR>2°   attest: een door de Vlaamse Gemeenschap erkend bewijs dat een individu een   kadervormingstraject heeft doorlopen;<BR>3° competentieprofiel: een afgerond   geheel van competenties die een persoon in een bepaalde maatschappelijke context   hanteert om de te verwachten resultaten in die maatschappelijke rol te   realiseren;<BR>4° hoofdanimator: jeugdwerker die verantwoordelijkheid opneemt   binnen een groep van jeugdwerkers;<BR>5° instructeur: jeugdwerker die   verantwoordelijkheid opneemt in het vormingsproces van jeugdwerkers;<BR>6°   kadervormingstraject: een specifiek vormingstraject dat wordt opgezet met het   oog op de vorming van animatoren, hoofdanimatoren en instructeurs.<BR><BR>§ 2.   Een vereniging die op basis van dit decreet een werkingssubsidie ontvangt, kan   kadervormingstrajecten organiseren die leiden tot de uitreiking van attesten aan   jeugdwerkers. Die kadervormingstrajecten hebben specifiek tot doel de deelnemers   te begeleiden bij het verwerven van de competenties van de competentieprofielen   van respectievelijk animator, hoofdanimator en instructeur.<BR><BR>De Vlaamse   Regering bepaalt de competenties en bijhorende indicatoren met betrekking tot de   drie competentieprofielen.<BR><BR>§ 3. Elk kadervormingstraject bestaat uit:   <BR>1° een theoretisch gedeelte;<BR>2° een begeleide stage; <BR>3° een   evaluatie.<BR><BR>De Vlaamse Regering bepaalt de duur, de inhoud, de toelatings-   en begeleidingsvoorwaarden en de specifieke regels waaraan moet worden   voldaan.<BR><BR>§ 4. Met het oog op de erkenning van een kadervormingstraject   dient de vereniging bij de administratie een aanvraagdossier in dat ten minste   volgende onderdelen beschrijft:<BR>1° de manier waarop de vereniging het   kadervormingstraject organiseert en begeleidt;<BR>2° de manier waarop de   vereniging ondersteunt, stimuleert en garandeert dat deelnemers kansen krijgen   om de competenties te verwerven;<BR>3° de manier waarop de vereniging alle   begeleiders van het traject vormt en opvolgt.<BR><BR>De Vlaamse Regering bepaalt   de termijnen, de inhoud en de procedure voor de aanvraag en de erkenning van het   kadervormingstraject.<BR><BR>§ 5. Nadat een aanvraag door de administratie is   goedgekeurd, heeft de vereniging een meldingsplicht voor de afzonderlijke   kadervormingstrajecten.<BR><BR>De Vlaamse Regering bepaalt de termijnen, de   inhoud en de procedure.<BR><BR>De Vlaamse Regering bepaalt de wijze waarop de   erkende kadervormingstrajecten worden bekendgemaakt.<BR><BR>§ 6. Aan de   deelnemer die met positief gevolg een kadervormingstraject heeft doorlopen,   wordt een attest uitgereikt.<BR><BR>De Vlaamse Regering bepaalt de termijnen en   de vereisten voor de uitreiking van de attesten.<BR><BR>Met het oog op de   beleidsuitvoering, -handhaving en -evaluatie wordt door de administratie een   databestand beheerd dat volgende gegevens bevat: voornaam, naam, geboortedatum   en rijksregisternummer van de houder van het attest. Dit databestand kan enkel   geraadpleegd worden door de administratie.
+§ 1. In dit artikel wordt verstaan onder:<br>
+1° animator: jeugdwerker die kinderen en jongeren bij hun activiteiten binnen het jeugdwerk begeleidt;<br>
+2° attest: een door de Vlaamse Gemeenschap erkend bewijs dat een individu een kadervormingstraject heeft doorlopen;<br>
+3° competentieprofiel: een afgerond geheel van competenties die een persoon in een bepaalde maatschappelijke context hanteert om de te verwachten resultaten in die maatschappelijke rol te realiseren;<br>
+4° hoofdanimator: jeugdwerker die verantwoordelijkheid opneemt binnen een groep van jeugdwerkers;<br>
+5° instructeur: jeugdwerker die verantwoordelijkheid opneemt in het vormingsproces van jeugdwerkers;<br>
+6° kadervormingstraject: een specifiek vormingstraject dat wordt opgezet met het oog op de vorming van animatoren, hoofdanimatoren en instructeurs.<br>
+<br>
+§ 2. Een vereniging die op basis van dit decreet een werkingssubsidie ontvangt, kan kadervormingstrajecten organiseren die leiden tot de uitreiking van attesten aan jeugdwerkers. Die kadervormingstrajecten hebben specifiek tot doel de deelnemers te begeleiden bij het verwerven van de competenties van de competentieprofielen van respectievelijk animator, hoofdanimator en instructeur.<br>
+<br>
+De Vlaamse Regering bepaalt de competenties en bijhorende indicatoren met betrekking tot de drie competentieprofielen.<br>
+<br>
+§ 3. Elk kadervormingstraject bestaat uit:<br>
+1° een theoretisch gedeelte;<br>
+2° een begeleide stage;<br>
+3° ...<br>
+<br>
+De Vlaamse Regering bepaalt de duur, de inhoud, de toelatings- en begeleidingsvoorwaarden en de specifieke regels waaraan moet worden voldaan.<br>
+<br>
+§ 4. Met het oog op de erkenning van een kadervormingstraject dient de vereniging bij de administratie een aanvraagdossier in dat ten minste volgende onderdelen beschrijft:<br>
+1° de manier waarop de vereniging het kadervormingstraject organiseert en begeleidt;<br>
+2° de manier waarop de vereniging ondersteunt, stimuleert en garandeert dat deelnemers kansen krijgen om de competenties te verwerven;<br>
+3° de manier waarop de vereniging alle begeleiders van het traject vormt en opvolgt.<br>
+<br>
+De Vlaamse Regering bepaalt de termijnen, de inhoud en de procedure voor de aanvraag en de erkenning van het kadervormingstraject.<br>
+<br>
+§ 5. Nadat een aanvraag door de administratie is goedgekeurd, heeft de vereniging een meldingsplicht voor de afzonderlijke kadervormingstrajecten.<br>
+<br>
+De Vlaamse Regering bepaalt de termijnen, de inhoud en de procedure.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop de erkende kadervormingstrajecten worden bekendgemaakt.<br>
+<br>
+§ 6. Aan de deelnemer die met positief gevolg een kadervormingstraject heeft doorlopen, wordt een attest uitgereikt.<br>
+<br>
+De Vlaamse Regering bepaalt de termijnen en de vereisten voor de uitreiking van de attesten.<br>
+<br>
+Met het oog op de beleidsuitvoering, -handhaving en -evaluatie wordt door de administratie een databestand beheerd dat volgende gegevens bevat: voornaam, naam, geboortedatum en rijksregisternummer van de houder van het attest. Dit databestand kan enkel geraadpleegd worden door de administratie.
 
 ### ART 17/2.
 
