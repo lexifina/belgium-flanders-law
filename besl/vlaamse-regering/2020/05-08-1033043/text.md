@@ -583,6 +583,19 @@ Aan artikel 13 van hetzelfde besluit wordt een vierde lid toegevoegd, dat luidt 
 
 ## Afdeling 6. Wijzigingen van het besluit van de Vlaamse Regering van 3 april 2020 tot subsidiëring voor tijdelijke managementondersteuning inzake crisisbeheer bij een COVID-19 uitbraak in residentiële voorzieningen in het beleidsdomein Welzijn, Volksgezondheid en Gezin
 
+### ART 82.
+
+In het besluit van de Vlaamse Regering van 3 april 2020 tot subsidiëring voor tijdelijke managementondersteuning inzake crisisbeheer bij een COVID-19 uitbraak in residentiële voorzieningen in het beleidsdomein Welzijn, Volksgezondheid en Gezin wordt een artikel 1/1 ingevoegd, dat luidt als volgt:<br>
+"Art. 1/1. In dit besluit wordt verstaan onder agentschap: het agentschap binnen het beleidsdomein Welzijn, Volksgezondheid en Gezin, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, dat is aangewezen om het Vlaamse overheidsbeleid over de voorziening in kwestie uit te voeren.".
+
+### ART 83.
+
+In artikel 2, tweede lid, van hetzelfde besluit wordt het woord "éénmaal" vervangen door het woord "tweemaal".
+
+### ART 84.
+
+In artikel 3, eerste lid, van hetzelfde besluit wordt het woord "woonzorgcentrum" vervangen door het woord "voorziening".
+
 ## HOOFDSTUK 9. Slotbepalingen
 
 ### ART 85.
