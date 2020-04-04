@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032768,
+  "title": "Besluit van de Vlaamse Regering van 2020-02-21 tot wijziging van artikel 7 van het besluit van de Vlaamse Regering van 16 december 2005 tot de instelling van een visvergunning en houdende tijdelijke maatregelen voor de uitvoering van de communautaire regeling inzake de instandhouding en de duurzame exploitatie van de visbestanden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032768/VolledigDocument?datum=2020-04-04",
+  "source_sha256": "a6ccce0095e92a967d9825920096491334cb27b51e1f45f178568024c858632a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032768&param=informatie",
+  "as_of": "2020-04-04",
+  "made": "2020-02-21",
+  "gazette": "2020-03-25",
+  "numac": 2020030264,
+  "document_start": "2020-04-04",
+  "document_end": null,
+  "in_force": "2020-04-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-04-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
