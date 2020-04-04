@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032767,
+  "title": "Besluit van de Vlaamse Regering van 2020-02-21 houdende de erkenning van bvba Interim Vastgoedbeheer als een organisatie als vermeld in artikel 91, § 1, tweede lid, 3°, van de Vlaamse Wooncode",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032767/VolledigDocument?datum=2020-04-04",
+  "source_sha256": "f40714c40d9c715753cce1bea762f903eb89977cad763261db091d37af3e0550",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032767&param=informatie",
+  "as_of": "2020-04-04",
+  "made": "2020-02-21",
+  "gazette": "2020-03-25",
+  "numac": 2020020600,
+  "document_start": "2020-04-04",
+  "document_end": null,
+  "in_force": "2020-04-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-04-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
