@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032769,
+  "title": "Besluit van de Vlaamse Regering van 2020-02-21 tot uitvoering van artikel 34, § 1, derde lid, van het decreet van 26 april 2019 betreffende de basisbereikbaarheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032769/VolledigDocument?datum=2020-04-04",
+  "source_sha256": "82e3108fda4674910fae5e7dbc8c11990b9d6b1b9c96cc9a74be00eea14324c7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032769&param=informatie",
+  "as_of": "2020-04-04",
+  "made": "2020-02-21",
+  "gazette": "2020-03-25",
+  "numac": 2020040634,
+  "document_start": "2020-04-04",
+  "document_end": null,
+  "in_force": "2020-04-04",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2020-04-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
