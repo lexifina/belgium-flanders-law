@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032783,
+  "title": "Besluit van de Vlaamse Regering van 2020-02-14 tot organisatie van een oproep om voorstellen in te dienen voor de toekenning van steun voor energetische renovatieprojecten van noodkoopwoningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032783/VolledigDocument?datum=2020-04-05",
+  "source_sha256": "a6e5f4d101ecad772178140c1897ab9c61b1c6ef4b024dd602d9b48b1b0c41bb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032783&param=informatie",
+  "as_of": "2020-04-05",
+  "made": "2020-02-14",
+  "gazette": "2020-03-26",
+  "numac": 2020020521,
+  "document_start": "2020-04-05",
+  "document_end": null,
+  "in_force": "2020-04-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-04-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
