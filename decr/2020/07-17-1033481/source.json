@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033481,
+  "title": "Decreet van 2020-07-17 tot invoeging van een artikel 2/1 in het decreet van 3 april 2020 tot afwijking van diverse bepalingen van het Energiedecreet van 8 mei 2009, het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, en de uitvoeringsbesluiten ervan, en tot dekking van de kosten voor elektriciteitsverbruik, verwarming of waterverbruik voor de eerste maand van tijdelijke werkloosheid ten gevolge van de coronacrisis en tot wijziging van artikel 7 van hetzelfde decreet, wat de zeevarenden en de toepassing van de federale vrijstelling betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033481/VolledigDocument?datum=2020-04-08",
+  "source_sha256": "e0c49db169addbdd328d338d1730d758cf6c27e5db0ee533d5e6d3aeffef2dcf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033481&param=informatie",
+  "as_of": "2020-04-08",
+  "made": "2020-07-17",
+  "gazette": "2020-07-28",
+  "numac": 2020015292,
+  "document_start": "2020-04-08",
+  "document_end": null,
+  "in_force": "2020-04-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-04-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
