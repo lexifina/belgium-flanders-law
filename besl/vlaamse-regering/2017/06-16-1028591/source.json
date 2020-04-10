@@ -2,16 +2,16 @@
   "codex_id": 1028591,
   "title": "Besluit van de Vlaamse Regering van 2017-06-16 tot erkenning van de beroepskwalificatie boekhoudkundig assistent",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028591/VolledigDocument?datum=2017-09-25",
-  "source_sha256": "cf664180712eef161149403b165f5bcbdf8e00ffeb5ec28acaf168f607a77466",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028591/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "6cc342e6bfe02f0785eec3052254a156a5b89930c814603d0e4f756deb6603ab",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028591&param=informatie",
-  "as_of": "2017-09-25",
+  "as_of": "2020-04-10",
   "made": "2017-06-16",
   "gazette": "2017-09-15",
   "numac": 2017013063,
   "document_start": "2017-09-25",
   "document_end": null,
-  "in_force": "2017-09-25",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2017-09-25; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }
