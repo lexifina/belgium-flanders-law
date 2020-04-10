@@ -2,16 +2,16 @@
   "codex_id": 1029324,
   "title": "Besluit van de Vlaamse Regering van 2018-01-26 tot erkenning van de beroepskwalificatie installateur gebouwenautomatisering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029324/VolledigDocument?datum=2018-06-11",
-  "source_sha256": "7bfab57138c75684bbc93786ede42a0b66212d774cc36c879d43ac5d4e2f17e4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029324/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "f3210864bbbfa741baa48ea784beeb5df8cf531530a817bd1f07873b89cc3a91",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029324&param=informatie",
-  "as_of": "2018-06-11",
+  "as_of": "2020-04-10",
   "made": "2018-01-26",
   "gazette": "2018-06-01",
   "numac": 2018031068,
   "document_start": "2018-06-11",
   "document_end": null,
-  "in_force": "2018-06-11",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }

@@ -26,4 +26,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### Bijlage
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/06/01_1.pdf#page=888">Bijlage</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/03/31_1.pdf#page=545">Bijlage. Beschrijving van de beroepskwalificatie van installateur gebouwenautomatisering.</a>
