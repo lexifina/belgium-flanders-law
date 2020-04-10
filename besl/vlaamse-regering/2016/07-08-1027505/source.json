@@ -2,16 +2,16 @@
   "codex_id": 1027505,
   "title": "Besluit van de Vlaamse Regering van 2016-07-08 tot erkenning van de beroepskwalificatie pijplasser",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027505/VolledigDocument?datum=2016-10-31",
-  "source_sha256": "606cb3ffbfdacb2018fcb9a33627f74cc0d132e98842897b88ab1a4006fbf817",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027505/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "f6a8667cb78cad69231f5abe31505980f8b884def0d86f436f36c89054e35087",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027505&param=informatie",
-  "as_of": "2016-10-31",
+  "as_of": "2020-04-10",
   "made": "2016-07-08",
   "gazette": "2016-10-21",
   "numac": 2016036388,
   "document_start": "2016-10-31",
   "document_end": null,
-  "in_force": "2016-10-31",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }
