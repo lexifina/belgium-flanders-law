@@ -2,16 +2,16 @@
   "codex_id": 1031680,
   "title": "Besluit van de Vlaamse Regering van 2019-01-25 tot erkenning van de beroepskwalificatie flexodrukker",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031680/VolledigDocument?datum=2019-05-23",
-  "source_sha256": "96368e99c2c40a5739feb2dcc17aab43096f0e2d785d85a2eec7584444fe478f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031680/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "db80c49b4b0612b72b7f2d4784dc70c1265e7748c495db5bc0adab98a621cb8d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031680&param=informatie",
-  "as_of": "2019-05-23",
+  "as_of": "2020-04-10",
   "made": "2019-01-25",
   "gazette": "2019-05-13",
   "numac": 2019040975,
   "document_start": "2019-05-23",
   "document_end": null,
-  "in_force": "2019-05-23",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-05-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }
