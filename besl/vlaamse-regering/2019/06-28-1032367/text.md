@@ -26,4 +26,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/10/18_2.pdf#page=500">Beschrijving van de beroepskwalificatie medisch administratief assistent</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/03/31_1.pdf#page=868">Bijlage</a>
