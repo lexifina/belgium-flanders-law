@@ -2,16 +2,16 @@
   "codex_id": 1025139,
   "title": "Besluit van de Vlaamse Regering van 2014-12-05 tot erkenning van de beroepskwalificatie tuinaanlegger/groenbeheerder",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025139/VolledigDocument?datum=2015-03-30",
-  "source_sha256": "b06445bf129fe9ed9c07ac6f7d63090432f4054d1acf87799799e3fe43f7e11c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025139/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "6637c121207117d207e9182469418b525854c2abbd2dd85f59105729ca10a39e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025139&param=informatie",
-  "as_of": "2015-03-30",
+  "as_of": "2020-04-10",
   "made": "2014-12-05",
   "gazette": "2015-03-20",
   "numac": 2015035181,
   "document_start": "2015-03-30",
   "document_end": null,
-  "in_force": "2015-03-30",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2015-03-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }
