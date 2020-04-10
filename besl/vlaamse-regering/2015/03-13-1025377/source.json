@@ -2,16 +2,16 @@
   "codex_id": 1025377,
   "title": "Besluit van de Vlaamse Regering van 2015-03-13 tot erkenning van de beroepskwalificatie onderhoudsmecanicien personenwagens en lichte bedrijfsvoertuigen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025377/VolledigDocument?datum=2015-06-06",
-  "source_sha256": "bf9ee2e1ad40130cc2646b5b1147ee7fad3c99b7492fccf94ed2a13a0fb096a7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025377/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "d75599fa3940a66bf1efb5647323e3a20f0e9455a006b62181bb422e2f96edc7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025377&param=informatie",
-  "as_of": "2015-06-06",
+  "as_of": "2020-04-10",
   "made": "2015-03-13",
   "gazette": "2015-05-27",
   "numac": 2015035567,
   "document_start": "2015-06-06",
   "document_end": null,
-  "in_force": "2015-06-06",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2015-06-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }
