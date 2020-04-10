@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033345,
+  "title": "Ministerieel besluit van 2020-07-02 tot wijziging van artikel 10 van het besluit van de Vlaamse Regering van 10 april 2020 tot toekenning van steun aan ondernemingen die een omzetdaling hebben ten gevolge van de exploitatiebeperkingen opgelegd door de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033345/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "bd429444b828eae753fe92f5ea2f625267f09cac45102ea7531477c318191372",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033345&param=informatie",
+  "as_of": "2020-04-10",
+  "made": "2020-07-02",
+  "gazette": "2020-07-08",
+  "numac": 2020015114,
+  "document_start": "2020-04-10",
+  "document_end": null,
+  "in_force": "2020-04-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-04-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
