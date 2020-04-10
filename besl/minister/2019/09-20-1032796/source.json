@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032796,
+  "title": "Ministerieel besluit van 2019-09-20 tot wijziging van diverse besluiten van de Vlaamse Regering tot erkenning van beroepskwalificaties",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032796/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "9253e65a5d773765262b2da51e692e8803b9da1ad9349dd09e61b997ddf04b98",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032796&param=informatie",
+  "as_of": "2020-04-10",
+  "made": "2019-09-20",
+  "gazette": "2020-03-31",
+  "numac": 2020030342,
+  "document_start": "2020-04-10",
+  "document_end": null,
+  "in_force": "2020-04-10",
+  "article_versions": 125,
+  "record_form": "consolidated version as in force on 2020-04-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
