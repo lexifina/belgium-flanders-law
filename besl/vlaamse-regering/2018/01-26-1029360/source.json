@@ -2,16 +2,16 @@
   "codex_id": 1029360,
   "title": "Besluit van de Vlaamse Regering van 2018-01-26 tot erkenning van de beroepskwalificatie specialist hernieuwbare energietechnieken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029360/VolledigDocument?datum=2018-06-11",
-  "source_sha256": "3c716c6443eac3b280386ecaccaf961bd3baede61b27a285147b05c8b4188971",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029360/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "06ddbfa8c73a523437a6604a644045c0e4727fb474a1b2aea3ef405fecec1a5f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029360&param=informatie",
-  "as_of": "2018-06-11",
+  "as_of": "2020-04-10",
   "made": "2018-01-26",
   "gazette": "2018-06-01",
   "numac": 2018030998,
   "document_start": "2018-06-11",
   "document_end": null,
-  "in_force": "2018-06-11",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }
