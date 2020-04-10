@@ -2,16 +2,16 @@
   "codex_id": 1023999,
   "title": "Besluit van de Vlaamse Regering van 2014-01-31 tot erkenning van de beroepskwalificatie decor- en standenbouwer",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023999/VolledigDocument?datum=2014-04-20",
-  "source_sha256": "ed8257dc0adc18960806d1e26beab783b27caf31a6350036221e56552ac03463",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023999/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "91fd2aaebc894523b86adb76cc23c80a443621e9c1979b04987e9de3cfa44dc2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023999&param=informatie",
-  "as_of": "2014-04-20",
+  "as_of": "2020-04-10",
   "made": "2014-01-31",
   "gazette": "2014-04-10",
   "numac": 2014035309,
   "document_start": "2014-04-20",
   "document_end": null,
-  "in_force": "2014-04-20",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-04-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }
