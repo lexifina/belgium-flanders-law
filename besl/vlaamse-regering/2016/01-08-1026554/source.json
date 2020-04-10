@@ -2,16 +2,16 @@
   "codex_id": 1026554,
   "title": "Besluit van de Vlaamse Regering van 2016-01-08 tot erkenning van de beroepskwalificatie polyvalent administratief ondersteuner",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026554/VolledigDocument?datum=2016-03-26",
-  "source_sha256": "f1305b4c24c32b4487218fedae5e99e1f0015eb51e6193a7908b4466d65a4365",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026554/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "b398e081534c8288ef9d29b8113091002f3f28d85e3b4b6189141eda4139bbcf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026554&param=informatie",
-  "as_of": "2016-03-26",
+  "as_of": "2020-04-10",
   "made": "2016-01-08",
   "gazette": "2016-03-16",
   "numac": 2016035271,
   "document_start": "2016-03-26",
   "document_end": null,
-  "in_force": "2016-03-26",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }
