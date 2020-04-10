@@ -2,16 +2,16 @@
   "codex_id": 1028454,
   "title": "Besluit van de Vlaamse Regering van 2017-04-21 tot erkenning van de beroepskwalificatie kinderbegeleider schoolgaande kinderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028454/VolledigDocument?datum=2017-07-29",
-  "source_sha256": "383a7951739db489c64aac6a26b8e3d92942fe6f1388cad2326fdee622fe6ffa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028454/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "a36f01ea013ea567ca168f915a69d585756c916fd1abf41117a5bcc4d8521f3b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028454&param=informatie",
-  "as_of": "2017-07-29",
+  "as_of": "2020-04-10",
   "made": "2017-04-21",
   "gazette": "2017-07-19",
   "numac": 2017012850,
   "document_start": "2017-07-29",
   "document_end": null,
-  "in_force": "2017-07-29",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2017-07-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }
