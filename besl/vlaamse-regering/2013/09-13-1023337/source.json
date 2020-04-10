@@ -2,16 +2,16 @@
   "codex_id": 1023337,
   "title": "Besluit van de Vlaamse Regering van 2013-09-13 tot erkenning van de beroepskwalificatie buitenschrijnwerker",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023337/VolledigDocument?datum=2013-11-02",
-  "source_sha256": "9fc663be73561cd9d2275a2285abcb683dc1e8aa36bbc07271c4e4a2a60a3e64",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023337/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "7c321b2da8c5ba0050b240daa398a399d8ae01840d2af03cfe28125cf803019d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023337&param=informatie",
-  "as_of": "2013-11-02",
+  "as_of": "2020-04-10",
   "made": "2013-09-13",
   "gazette": "2013-10-23",
   "numac": 2013035964,
   "document_start": "2013-11-02",
   "document_end": null,
-  "in_force": "2013-11-02",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-11-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }
