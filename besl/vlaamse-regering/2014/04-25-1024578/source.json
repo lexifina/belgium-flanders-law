@@ -2,16 +2,16 @@
   "codex_id": 1024578,
   "title": "Besluit van de Vlaamse Regering van 2014-04-25 tot erkenning van de beroepskwalificatie plaatwerker carrosserie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024578/VolledigDocument?datum=2014-09-29",
-  "source_sha256": "44f84e608baf4cf97bc26a1e031915804dc980d024c35c4ecaaafbf6d4b60495",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024578/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "ced9d3b140d6178788b90182a9c3359d7857b6eea078606b6afd6c4ecf81fecf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024578&param=informatie",
-  "as_of": "2014-09-29",
+  "as_of": "2020-04-10",
   "made": "2014-04-25",
   "gazette": "2014-09-19",
   "numac": 2014035781,
   "document_start": "2014-09-29",
   "document_end": null,
-  "in_force": "2014-09-29",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-09-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }
