@@ -2,16 +2,16 @@
   "codex_id": 1031963,
   "title": "Besluit van de Vlaamse Regering van 2019-03-15 tot erkenning van de beroepskwalificatie amateur beeldend kunstenaar",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031963/VolledigDocument?datum=2019-08-10",
-  "source_sha256": "87f57066064dbf48d2fe1474e615fa74b7bf3033422389fc356a704f421bd56d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031963/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "f744da7a3d4940bf3347b731e1734a91bdfa45dbc7198cbb1e221d8bb24139ee",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031963&param=informatie",
-  "as_of": "2019-08-10",
+  "as_of": "2020-04-10",
   "made": "2019-03-15",
   "gazette": "2019-07-31",
   "numac": 2019030633,
   "document_start": "2019-08-10",
   "document_end": null,
-  "in_force": "2019-08-10",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }
