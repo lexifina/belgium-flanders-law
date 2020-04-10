@@ -2,16 +2,16 @@
   "codex_id": 1025133,
   "title": "Besluit van de Vlaamse Regering van 2014-12-05 tot erkenning van de beroepskwalificatie medewerker groen- en tuinbeheer",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025133/VolledigDocument?datum=2015-03-30",
-  "source_sha256": "0618d77ed5d89b5e21979450dddc3eb522edb59afa549b6d878a18cf491ada87",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025133/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "2c641575c1182cd17f6c87f7974a870c2c1ea77455ea2e99ed8f67b0526b7c59",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025133&param=informatie",
-  "as_of": "2015-03-30",
+  "as_of": "2020-04-10",
   "made": "2014-12-05",
   "gazette": "2015-03-20",
   "numac": 2015035172,
   "document_start": "2015-03-30",
   "document_end": null,
-  "in_force": "2015-03-30",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2015-03-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }
