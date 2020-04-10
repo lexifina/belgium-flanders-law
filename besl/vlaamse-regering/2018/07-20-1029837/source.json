@@ -2,16 +2,16 @@
   "codex_id": 1029837,
   "title": "Besluit van de Vlaamse Regering van 2018-07-20 tot erkenning van de beroepskwalificatie restauratievakman schrijnwerk",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029837/VolledigDocument?datum=2018-10-27",
-  "source_sha256": "ffbbdf8507f93f4dacb37641eb2bde2377c239864dd607ca11f034592fe4e52d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029837/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "e6ba8cff61d72570ab7cbea06bbf5c0c13226e61be23d296991b31c9ab1b99e2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029837&param=informatie",
-  "as_of": "2018-10-27",
+  "as_of": "2020-04-10",
   "made": "2018-07-20",
   "gazette": "2018-10-17",
   "numac": 2018014023,
   "document_start": "2018-10-27",
   "document_end": null,
-  "in_force": "2018-10-27",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-10-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }
