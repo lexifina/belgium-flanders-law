@@ -2,16 +2,16 @@
   "codex_id": 1026883,
   "title": "Besluit van de Vlaamse Regering van 2016-03-25 tot erkenning van de beroepskwalificatie groepsfitnessbegeleider",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026883/VolledigDocument?datum=2016-06-23",
-  "source_sha256": "5aba5dab351e8ca92f3b95e23423e3d9df724fffa3cde813f81c4269728efb4b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026883/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "2b36a4f5432d315cdb3cf3741b72ef8aa2e036a8521f64bc0c125abf1dffb5a3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026883&param=informatie",
-  "as_of": "2016-06-23",
+  "as_of": "2020-04-10",
   "made": "2016-03-25",
   "gazette": "2016-06-13",
   "numac": 2016035840,
   "document_start": "2016-06-23",
   "document_end": null,
-  "in_force": "2016-06-23",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }
