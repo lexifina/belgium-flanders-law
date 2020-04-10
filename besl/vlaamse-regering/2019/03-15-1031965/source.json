@@ -2,16 +2,16 @@
   "codex_id": 1031965,
   "title": "Besluit van de Vlaamse Regering van 2019-03-15 tot erkenning van de beroepskwalificatie amateur vertolkend muzikant",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031965/VolledigDocument?datum=2019-08-10",
-  "source_sha256": "3a545962b7c3d11441daf3f8ea1905b78e950a42ecef5fdfc0360a2a5be79fb4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031965/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "5f99e622c326fb2df65a7104f0054b6305bd422de6a1564a6047f313c08bf9dc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031965&param=informatie",
-  "as_of": "2019-08-10",
+  "as_of": "2020-04-10",
   "made": "2019-03-15",
   "gazette": "2019-07-31",
   "numac": 2019013521,
   "document_start": "2019-08-10",
   "document_end": null,
-  "in_force": "2019-08-10",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }
