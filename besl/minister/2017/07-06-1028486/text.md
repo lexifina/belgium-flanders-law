@@ -40,7 +40,7 @@ De volgende sportorganisaties zijn voor onbepaalde duur erkend als Vlaamse sport
 16° Liga van Vlaamse Zweefvliegclubs vzw, Termikkelaan 9, 2530 Boechout, met ondernemingsnummer 0415.865.526;<br>
 17° Nederlandstalige Liga voor Onderwateronderzoek en -Sport vzw, Brusselsesteenweg 313-315, 2800 Mechelen, met ondernemingsnummer 0418.461.463;<br>
 18° OKRA-SPORT + vzw, Haachtsesteenweg 579, 1031 Schaarbeek, met ondernemingsnummer 0434.918.207;<br>
-19° Padel Vlaanderen vzw, Jovastraat 10, 9000 Gent, met ondernemingsnummer 0879.644.005 (erkend vanaf 1 januari 2017);<br>
+19° ...;<br>
 20° Parantee-Psylos vzw, Zuiderlaan 13, 9000 Gent, met ondernemingsnummer 0417.754.155;<br>
 21° Petanque Federatie Vlaanderen vzw, Zuiderlaan 13, 9000 Gent, met ondernemingsnummer 0418.483.437;<br>
 22° Rugby Vlaanderen vzw, Boomgaardstraat 22, bus 20, 2600 Berchem, met ondernemingsnummer 0417.871.842;<br>
