@@ -2,16 +2,16 @@
   "codex_id": 1029832,
   "title": "Besluit van de Vlaamse Regering van 2018-07-20 tot erkenning van de beroepskwalificatie technicus installatietechnieken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029832/VolledigDocument?datum=2018-10-27",
-  "source_sha256": "687c3a7b200b0c1e7c5f99df08776f95562526a6cd786e5202d55fd3b53c060e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029832/VolledigDocument?datum=2020-04-10",
+  "source_sha256": "d5f752c3c41e2b647eaabe37cedcb9c8a5e440c3c5be7c6859ea4a06cc9796f8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029832&param=informatie",
-  "as_of": "2018-10-27",
+  "as_of": "2020-04-10",
   "made": "2018-07-20",
   "gazette": "2018-10-17",
   "numac": 2018014037,
   "document_start": "2018-10-27",
   "document_end": null,
-  "in_force": "2018-10-27",
+  "in_force": "2020-04-10",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-10-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
 }
