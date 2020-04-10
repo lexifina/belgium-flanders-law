@@ -33,6 +33,19 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## HOOFDSTUK 2. Wijziging van het besluit van de Vlaamse Regering van 10 april 2020 tot toekenning van steun aan ondernemingen die een omzetdaling hebben ten gevolge van de exploitatiebeperkingen opgelegd door de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart inzake het coronavirus
 
+### ART 13.
+
+Aan artikel 1, 4° van het besluit van de Vlaamse Regering van 10 april 2020 tot toekenning van steun aan ondernemingen die een omzetdaling hebben ten gevolge van de exploitatiebeperkingen opgelegd door de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart inzake het coronavirus wordt een zevende lid toegevoegd, dat luidt als volgt:<br>
+"Een startende zelfstandige die in 2019 geen volledig beroepsinkomen heeft, wordt gelijkgesteld met één van bovenstaande gevallen gelet op het verwachte beroepsinkomen, vermeld in het financieel plan."
+
+### ART 14.
+
+In artikel 9, eerste lid van hetzelfde besluit wordt tussen de woorden "de achtergestelde lening" en "en de Gigarantwaarborg" de zinsnede "van meer dan 75.000 euro" ingevoegd.
+
+### ART 15.
+
+In artikel 11, eerste lid, van hetzelfde besluit worden tussen de woorden "van" en "door" het woord "de", en tussen de woorden "basis" en "administratieve" de woorden "van de" ingevoegd.
+
 ## HOOFDSTUK 3. Wijziging van het besluit van de Vlaamse Regering van 20 maart 2020 tot toekenning van steun aan ondernemingen die verplicht moeten sluiten ten gevolge van de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus
 
 ### ART 16.
