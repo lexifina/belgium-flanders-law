@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032815,
+  "title": "Besluit van de Vlaamse Regering van 2020-03-06 tot bepaling van de tewerkstellingstrajecten en hun doelgroepwerknemers, vermeld in artikel 32bis van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032815/VolledigDocument?datum=2020-04-13",
+  "source_sha256": "0130b6a8e85887d463d3acf7956a407a105b1d6ca763f01d9b42d5e4ea2c94ca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032815&param=informatie",
+  "as_of": "2020-04-13",
+  "made": "2020-03-06",
+  "gazette": "2020-04-03",
+  "numac": 2020040923,
+  "document_start": "2020-04-13",
+  "document_end": null,
+  "in_force": "2020-04-13",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-04-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
