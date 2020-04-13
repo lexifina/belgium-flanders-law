@@ -45,7 +45,7 @@
 4° LPIS : het landbouwperceelidentificatiesysteem; dat is het identificatiesysteem voor landbouwpercelen, vermeld in artikel 68, lid 1, b), van verordening (EU) nr. 1306/2013, aangevuld met niet-landbouwbedrijfsareaal;<br>
 5° nateelt : de teelt die in het campagnejaar ingezaaid of geplant wordt na het oogsten van de hoofdteelt of die gelijktijdig met de hoofdteelt als onderzaai ingezaaid is;<br>
 6° onderzaai : de inzaai van een gewas&nbsp;in dezelfde periode als&nbsp;de inzaai of aanplant van de hoofdteelt, waarbij de onderzaai niet het primaire teeltdoel is van het perceel en pas na de oogst van de hoofdteelt ten volle tot ontwikkeling komt;<br>
-6° /1 uiterste indieningsdatum: 21 april, tenzij het gaat om de handelingen, vermeld in artikel 12 van gedelegeerde verordening (EU) nr. 640/2014 van de Commissie van 11 maart 2014 tot aanvulling van Verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad wat betreft het geïntegreerd beheers- en controlesysteem en de voorwaarden voor weigering of intrekking van betalingen en voor administratieve sancties in het kader van rechtstreekse betalingen, plattelandsontwikkelingsbijstand en de randvoorwaarden. In dat geval kan de datum van 21 april verschoven worden naar de eerstvolgende werkdag als vermeld in het voormelde artikel.&nbsp;In afwijking van het voormelde is 15 mei de uiterste indieningsdatum voor het kalenderjaar 2020.<br>
+6° /1 uiterste indieningsdatum: 30 april, tenzij het gaat om de handelingen, vermeld in artikel 12 van gedelegeerde verordening (EU) nr. 640/2014 van de Commissie van 11 maart 2014 tot aanvulling van Verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad wat betreft het geïntegreerd beheers- en controlesysteem en de voorwaarden voor weigering of intrekking van betalingen en voor administratieve sancties in het kader van rechtstreekse betalingen, plattelandsontwikkelingsbijstand en de randvoorwaarden. In dat geval kan de datum van 30 april verschoven worden naar de eerstvolgende werkdag als vermeld in het voormelde artikel.&nbsp;In afwijking van het voormelde is 15 mei de uiterste indieningsdatum voor het kalenderjaar 2020.<br>
 7° verordening (EU) nr. 1307/2013 : verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EG) nr. 637/2008 van de Raad en Verordening (EG) nr. 73/2009 van de Raad;<br>
 8° verordening (EU) nr. 639/2014 : gedelegeerde verordening (EU) nr. 639/2014 van de Commissie van 11 maart 2014 tot aanvulling van Verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en tot wijziging van bijlage X bij die verordening;<br>
 9° verordening (EU) nr. 640/2014 : gedelegeerde verordening (EU) nr. 640/2014 van de Commissie van 11 maart 2014 tot aanvulling van Verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad wat betreft het geïntegreerd beheers- en controlesysteem en de voorwaarden voor weigering of intrekking van betalingen en voor administratieve sancties in het kader van rechtstreekse betalingen, plattelandsontwikkelingsbijstand en de randvoorwaarden;<br>
@@ -90,7 +90,7 @@ Het bewijs om aan te tonen dat men actieve landbouwer is, vermeld in artikel 8, 
 
 ### ART. 7.
 
-<p>De verzamelaanvraag wordt uiterlijk op 21 april van het kalenderjaar waarop de aangifte betrekking heeft, ingediend.&nbsp;In afwijking daarvan wordt de verzamelaanvraag in het kalenderjaar 2020 uiterlijk op 15 mei ingediend.</p>
+<p>De verzamelaanvraag wordt uiterlijk op 30&nbsp;april van het kalenderjaar waarop de aangifte betrekking heeft, ingediend.&nbsp;In afwijking daarvan wordt de verzamelaanvraag in het kalenderjaar 2020 uiterlijk op 15 mei ingediend.</p>
 
 <p>Als het formulier van de verzamelaanvraag wordt ingediend via het e-loket, geldt, conform artikel 67, § 1, tweede lid, van het besluit van 24 oktober 2014, het tijdstip van elektronische ontvangst dat in de databank van de bevoegde entiteit geregistreerd is als indieningsdatum.</p>
 
@@ -194,11 +194,10 @@ Het   ministerieel besluit van 19 augustus 2009 tot instelling van een   bedrijf
 
 ### BIJLAGE 1
 
-Bijlage 1. - Agromilieu- en klimaatmaatregelen en andere maatregelen als vermeld in artikel 15<br>
 <br>
-1. Agromilieu- en klimaatmaatregelen en andere maatregelen waarvoor de verzamelaanvraag dient als betalingsaanvraag en in voorkomend geval als verbintenisaanvraag<br>
-&nbsp;
-<table border="1">
+<span style="color:#000000">Bijlage 1. Agromilieu- en klimaatmaatregelen en andere maatregelen als vermeld in artikel 15</span><br>
+<span style="color:#000000">1. Agromilieu- en klimaatmaatregelen en andere maatregelen waarvoor de verzamelaanvraag dient als betalingsaanvraag en in voorkomend geval als verbintenisaanvraag</span>
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
 	<tbody>
 		<tr>
 			<td>&nbsp;</td>
@@ -233,7 +232,7 @@ Bijlage 1. - Agromilieu- en klimaatmaatregelen en andere maatregelen als vermeld
 		<tr>
 			<td>7°</td>
 			<td>BOS</td>
-			<td>bebossing van landbouwgrond - onderhoud en inkomenscompensatie</td>
+			<td>bebossing van landbouwgrond - onderhoud en inkomenscompensatie (PDPO2)</td>
 		</tr>
 		<tr>
 			<td>9°</td>
@@ -275,12 +274,17 @@ Bijlage 1. - Agromilieu- en klimaatmaatregelen en andere maatregelen als vermeld
 			<td>HVN</td>
 			<td>hamstervriendelijke nateelt</td>
 		</tr>
+		<tr>
+			<td>26°</td>
+			<td>BOS3</td>
+			<td>bebossing van landbouwgrond - onderhoud en inkomenscompensatie (PDPO3)</td>
+		</tr>
 	</tbody>
 </table>
 <br>
-2. Agromilieu- en klimaatmaatregelen en andere maatregelen waarvoor de verzamelaanvraag dient als melding van percelen<br>
-&nbsp;
-<table border="1">
+<span style="font-size:medium"><span style="color:#000000">2. Agromilieu- en klimaatmaatregelen en andere maatregelen waarvoor de verzamelaanvraag dient als melding van percelen</span></span>
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
 	<tbody>
 		<tr>
 			<td>&nbsp;</td>
@@ -457,9 +461,30 @@ Bijlage 1. - Agromilieu- en klimaatmaatregelen en andere maatregelen als vermeld
 			<td>SBP33</td>
 			<td>SBP</td>
 		</tr>
+		<tr>
+			<td>50°</td>
+			<td>onderhoud houtkant (50% afzetten)</td>
+			<td>PDPO3</td>
+			<td>KLE37</td>
+			<td>HKW</td>
+		</tr>
+		<tr>
+			<td>51°</td>
+			<td>onderhoud houtkant (25% afzetten)</td>
+			<td>PDPO3</td>
+			<td>KLE38</td>
+			<td>HKW</td>
+		</tr>
+		<tr>
+			<td>52°</td>
+			<td>onderhoud houtsingel</td>
+			<td>PDPO3</td>
+			<td>KLE39</td>
+			<td>HKW</td>
+		</tr>
 	</tbody>
 </table>
 
 ### BIJLAGE 2
 
-&nbsp;<a href="http://www.ejustice.just.fgov.be/mopdf/2019/04/08_1.pdf#page=211">Voorbereidingsblad voor de verzamelaanvraag als vermeld in artikel 3, tweede lid</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/04/03_1.pdf#page=81">Voorbereidingsblad voor de verzamelaanvraag als vermeld in artikel 3, tweede lid</a>
