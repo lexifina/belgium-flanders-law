@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032833,
+  "title": "Decreet van 2020-03-20 houdende instemming met de overeenkomst tussen het Koninkrijk België en de Republiek Senegal betreffende het luchtvervoer, gedaan te Dakar op 18 januari 2013",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032833/VolledigDocument?datum=2020-04-17",
+  "source_sha256": "1e60c9e1b7a52a2bd22b90207730c9cdf3611f09b0c8037846a252270dac7227",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032833&param=informatie",
+  "as_of": "2020-04-17",
+  "made": "2020-03-20",
+  "gazette": "2020-04-07",
+  "numac": 2020040935,
+  "document_start": "2020-04-17",
+  "document_end": null,
+  "in_force": "2020-04-17",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-04-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
