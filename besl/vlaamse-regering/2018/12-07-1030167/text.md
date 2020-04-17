@@ -412,7 +412,7 @@ De verzekeringsinstellingen controleren per kwartaal en maandelijks of de uitbet
 ### ART 22.
 
 § 1. De verzekeringsinstelling wordt belast met de betaling van:<br>
-1° de tegemoetkomingen, vermeld in artikel 119, 120, 155, 156, 191, 194 en 196, 262, 324 en 327;<br>
+1° de tegemoetkomingen, vermeld in artikel 119, 120, 155, 156, 191, 193/1, 194 en 196, 261/1, 262, 324 en 327;<br>
 2° het vast gedeelte van het budget van de revalidatieziekenhuizen, conform artikel 261.<br>
 <br>
 De verzekeringsinstelling betaalt de tegemoetkoming, vermeld in het eerste lid, 1°, rechtstreeks aan de zorgvoorziening.<br>
@@ -2458,6 +2458,18 @@ Als het agentschap de termijn, vermeld in het zesde lid, niet naleeft, ontvangt 
 <br>
 In afwijking van het eerste lid wordt het aandeel van de personeelskosten in de tegemoetkoming voor revalidatieverstrekkingen, vermeld in artikel 191, niet aangepast aan de reële personeelskosten voor de revalidatievoorzieningen waarvan het erkenningsnummer begint met het nummer 9.69, 7.74.6 of 7.90.
 
+### ART 193/1.
+
+De in dit artikel vermelde maatregel is van toepassing op de revalidatievoorzieningen waarvan het in bijlage 9 bij dit besluit vermelde erkenningsnummer begint met nummer 7.71, 7.72, 7.73, 7.74, 7.76, 9.53, 9.65 of 9.69.<br>
+<br>
+Vanaf april 2020 wordt een budgetgarantie voorzien als bepaald in dit artikel.<br>
+<br>
+Vanaf 15 april 2020 wordt maandelijks een compenserend budget ingevolge de COVID-19 pandemie betaald. Het compenserend budget is het verschil tussen het het bedrag dat gefactureerd wordt op basis van een reguliere activiteit en het bedrag dat, met respect voor de bepalingen van dit besluit, aan de verzekeringsinstellingen gefactureerd werd voor de gerealiseerde revalidatieprestaties in de voorbije maand. Het bedrag dat gefactureerd wordt op basis van een reguliere activiteit wordt door het agentschap berekend en is het product van het aantal eenheidsprestaties in de overeenstemmende maand van het voorbije jaar met de vigerende eenheidsprijs zoals vermeld in artikel 191, § 1, 1°. Als de revalidatievoorziening staaft dat in de overeenstemmende maand van het voorbije jaar uitzonderlijke omstandigheden waren, waardoor de overeenstemmende maand niet representatief is en significante afwijkingen van de normale activiteitsgraad bestaan, kan het aantal eenheidsprestaties worden bijgesteld na onderzoek door het agentschap.<br>
+<br>
+Wat betreft het persoonlijk aandeel van de zorggebruikers kan het compenserend budget, vermeld in het tweede lid, niet worden gewijzigd.<br>
+<br>
+De minister bepaalt het tijdstip waarop deze maatregel eindigt.
+
 ## HOOFDSTUK 2. Tegemoetkomingen voor reiskosten
 
 ## Afdeling 1. [... (opgeh. BVR 8 september 2023, art. 51, I: 1 oktober 2023)]
@@ -3267,6 +3279,16 @@ Zodra het dienstjaar is beëindigd, wordt de opsplitsing van het vaste en variab
 Voor de patiënten, vermeld in artikel 115 van de gecoördineerde wet van 10 juli 2008, wordt het vaste gedeelte, vermeld in artikel 260, § 1, eerste lid, van dit besluit, door de verzekeringsinstellingen in twaalfden vereffend, en dat in evenredigheid met hun respectievelijk aandeel van de gerealiseerde verpleegdagen in de loop van het laatst bekende dienstjaar voor het revalidatieziekenhuis in kwestie, binnen de termijn, vastgesteld door de minister.<br>
 <br>
 Voor de patiënten, vermeld in het eerste lid, wordt het variabele gedeelte, vermeld in artikel 260, § 1, tweede lid, volledig vereffend volgens een prijs per verpleegdag. De prijs per verpleegdag wordt bepaald door het variabele gedeelte te delen door de verpleegdagen die tijdens het laatst bekende dienstjaar gerealiseerd zijn voor patiënten die onder dit hoofdstuk vallen.
+
+### ART 261/1.
+
+Vanaf april 2020 wordt een budgetgarantie voorzien als bepaald in dit artikel.<br>
+<br>
+Vanaf 15 april 2020 wordt maandelijks een compenserend budget ingevolge de COVID-19 pandemie betaald. Het compenserend budget is het verschil tussen een twaalfde van het variabel gedeelte van het budget, vermeld in artikel 260, § 1, tweede lid van dit besluit en het bedrag dat, met respect voor de bepalingen van dit besluit, aan de verzekeringsinstellingen gefactureerd werd voor de gerealiseerde verpleegdagen in de voorbije maand.<br>
+<br>
+Wat betreft het persoonlijk aandeel van de zorggebruikers kan het compenserend budget, vermeld in het tweede lid, niet worden gewijzigd.<br>
+<br>
+De minister bepaalt het tijdstip waarop deze maatregel eindigt.
 
 ## HOOFDSTUK 3. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
