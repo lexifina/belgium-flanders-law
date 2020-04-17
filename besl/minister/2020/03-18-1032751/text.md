@@ -28,7 +28,7 @@ Artikel 5, 6 en 7 van het besluit van de Vlaamse Regering van 13 maart 2020 tot 
 
 ### ART 2.
 
-De maatregelen, vermeld in artikel 1 tot en met 7 van hetzelfde besluit, gelden tot 19 april 2020.
+De maatregelen, vermeld in artikel 1 tot en met 7 van hetzelfde besluit, gelden tot 3 mei 2020.
 
 ### ART 3.
 
