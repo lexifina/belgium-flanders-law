@@ -2,16 +2,16 @@
   "codex_id": 1032736,
   "title": "Besluit van de Vlaamse Regering van 2020-03-13 over erkenning van de Corona crisis en tot afwijking van de waarborgregeling voor kleine, middelgrote en grote ondernemingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032736/VolledigDocument?datum=2020-03-19",
-  "source_sha256": "02e2e170cd3d11bbc21ad8ecb9e40290af04f11ae5ba717959fe75d52e70b063",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032736/VolledigDocument?datum=2020-04-17",
+  "source_sha256": "ae3e354669b8226fd690abd815a54b12cda69fda8632ff1a56cdd89d4af92595",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032736&param=informatie",
-  "as_of": "2020-03-19",
+  "as_of": "2020-04-17",
   "made": "2020-03-13",
   "gazette": "2020-03-18",
   "numac": 2020030321,
   "document_start": "2020-03-19",
   "document_end": "2023-01-27",
-  "in_force": "2020-03-19",
+  "in_force": "2020-04-17",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2020-03-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-17; future article versions excluded; article text as the API gives it"
 }
