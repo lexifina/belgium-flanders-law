@@ -72,6 +72,8 @@ De onderneming moet de mentor een mentoropleiding laten volgen alsook de bijkome
 <br>
 Het sectorale partnerschap of, bij afwezigheid van een sectoraal partnerschap, het Vlaams Partnerschap Duaal Leren bepaalt de termijn waarbinnen de mentoropleiding en de eventuele bijkomende initiatieven vermeld in het eerste lid, moeten worden gevolgd, en beslist over eventuele vrijstellingen. De termijn voor het volgen van de mentoropleiding mag echter niet meer bedragen dan een jaar vanaf de erkenning.<br>
 <br>
+In afwijking van het tweede lid mag voor ondernemingen waarvoor de erkenning is verleend in de periode van 1 september 2019 tot en met 31 maart 2020 de termijn waarbinnen de mentoropleiding moet worden gevolgd niet meer bedragen dan achttien maanden vanaf de erkenning.<br>
+<br>
 De mentoropleiding moet minstens een opleiding in het coachen, motiveren, bijsturen en evalueren van leerlingen omvatten. Het sectorale partnerschap of, bij afwezigheid van een sectoraal partnerschap, het Vlaams Partnerschap Duaal Leren bepaalt welke opleidingen in aanmerking komen als mentoropleiding.
 
 ### ART 4.
