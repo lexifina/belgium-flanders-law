@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032933,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-24 tot wijziging van het koninklijk besluit van 12 december 2001 betreffende de dienstencheques, wat betreft de verlenging van de maatregelen inzake de tegemoetkoming door de overheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032933/VolledigDocument?datum=2020-04-19",
+  "source_sha256": "ede81d3e01481f9437f4ce18416ec806135edb970333eade4683560cd4320957",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032933&param=informatie",
+  "as_of": "2020-04-19",
+  "made": "2020-04-24",
+  "gazette": "2020-04-30",
+  "numac": 2020041012,
+  "document_start": "2020-04-19",
+  "document_end": null,
+  "in_force": "2020-04-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-04-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
