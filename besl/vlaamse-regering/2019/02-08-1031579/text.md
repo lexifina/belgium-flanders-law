@@ -100,7 +100,7 @@ De overeenkomsten voor het huren van woningen of kamers op de private huurmarkt 
 
 ### ART 8.
 
-§ 1. Binnen de perken van de beschikbare begrotingskredieten kan de minister een subsidie voor de personeels- en werkingskosten, vermeld in artikel 58bis van de Vlaamse Wooncode, toekennen van maximaal 350.000 euro voor een volledig werkingsjaar. De subsidie wordt besteed aan de werkings- en personeelskosten die verbonden zijn aan de uitvoering van de hierna opgesomde opdrachten van VZW HUURpunt of haar rechtsopvolger:<br>
+§ 1. Binnen de perken van de beschikbare begrotingskredieten kan de minister een subsidie voor de personeels- en werkingskosten, vermeld in artikel 58bis van de Vlaamse Wooncode, toekennen van maximaal 329.000 euro voor een volledig werkingsjaar. De subsidie wordt besteed aan de werkings- en personeelskosten die verbonden zijn aan de uitvoering van de hierna opgesomde opdrachten van VZW HUURpunt of haar rechtsopvolger:<br>
 1° de sociale verhuurkantoren ondersteunen bij de uitvoering van hun opdrachten, door de volgende taken op te nemen:<br>
 a) in samenspraak met VMSW het overleg en de ervaringsuitwisseling tussen de sociale verhuurkantoren voorbereiden, organiseren en coördineren;<br>
 b) vorming en intervisie uitwerken en aanbieden, en tools aanreiken, behalve over regelgeving, financieel beheer, ICT en databeheer;<br>
