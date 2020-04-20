@@ -159,7 +159,7 @@ De minister kan in het begrotingsjaar 2016 een subsidie toekennen bestemd voor h
 <br>
 Het sociaal verhuurkantoor dient jaarlijks, uiterlijk op 15 november, een overzichtstabel van de woningen die het in beheer heeft op 1 november, bij het agentschap in, om aan te tonen dat het voldoet aan het vooropgestelde groeitraject. Indien blijkt dat het vooropgestelde groeitraject niet gerealiseerd is, moet worden aangetoond op welke wijze de beoogde einddoelstelling zal worden gehaald.<br>
 <br>
-De opstartsubsidie is een forfaitaire subsidie die kan worden aangewend voor alle kosten die verbonden zijn aan de uitvoering van de opdrachten van een sociaal verhuurkantoor. Ze bedraagt 32.335 euro per jaar. Een sociaal verhuurkantoor kan in aanmerking komen voor een opstartsubsidie gedurende maximaal vier jaar. In het jaar van toekenning wordt de opstartsubsidie uitbetaald binnen de maand die volgt op de goedkeuring van de aanvraag. De opstartsubsidie wordt jaarlijks uitbetaald in de maand van de verjaardag van de eerste uitbetaling van de opstartsubsidie. Vanaf de toekenning van de basissubsidie-enveloppe, vermeld in paragraaf 2, wordt de laatst toegekende opstartsubsidie verminderd in verhouding tot het aantal volledige maanden waarvoor het sociaal verhuurkantoor al een basissubsidie-enveloppe wordt toegekend. Deze vermindering wordt ingehouden op de basissubsidie-enveloppe.<br>
+De opstartsubsidie is een forfaitaire subsidie die kan worden aangewend voor alle kosten die verbonden zijn aan de uitvoering van de opdrachten van een sociaal verhuurkantoor. Ze bedraagt 33.426,95 euro per jaar. Een sociaal verhuurkantoor kan in aanmerking komen voor een opstartsubsidie gedurende maximaal vier jaar. In het jaar van toekenning wordt de opstartsubsidie uitbetaald binnen de maand die volgt op de goedkeuring van de aanvraag. De opstartsubsidie wordt jaarlijks uitbetaald in de maand van de verjaardag van de eerste uitbetaling van de opstartsubsidie. Vanaf de toekenning van de basissubsidie-enveloppe, vermeld in paragraaf 2, wordt de laatst toegekende opstartsubsidie verminderd in verhouding tot het aantal volledige maanden waarvoor het sociaal verhuurkantoor al een basissubsidie-enveloppe wordt toegekend. Deze vermindering wordt ingehouden op de basissubsidie-enveloppe.<br>
 <br>
 Voor sociale verhuurkantoren die een opstartsubsidie of voor de eerste keer een basissubsidie-enveloppe toegekend krijgen, is artikel 13, § 2, tweede en derde lid niet van toepassing.<br>
 <br>
@@ -214,15 +214,15 @@ De groeisubsidie wordt jaarlijks door de minister of zijn gemachtigde toegekend 
 
 ### ART. 13.
 
-§ 1. De basissubsidie-enveloppe bedraagt maximaal 117.171 euro per kalenderjaar voor een sociaal verhuurkantoor dat minstens 50 woningen en maximaal 99 woningen in huur heeft. De aanvullende subsidie-enveloppe bedraagt per kalenderjaar 1534,50 euro per woning voor de 51ste tot en met de 99ste woning.<br>
+§ 1. De basissubsidie-enveloppe bedraagt maximaal 121.127,86 euro per kalenderjaar voor een sociaal verhuurkantoor dat minstens 50 woningen en maximaal 99 woningen in huur heeft. De aanvullende subsidie-enveloppe bedraagt per kalenderjaar 1.586,32 euro per woning voor de 51ste tot en met de 99ste woning.<br>
 <br>
-De basissubsidie-enveloppe bedraagt maximaal 209.736 euro per kalenderjaar voor een sociaal verhuurkantoor dat minstens 100 woningen in huur heeft, en de aanvullende subsidie-enveloppe bedraagt per kalenderjaar 1.534,50 euro per woning vanaf de 101ste woning tot de 199ste woning.<br>
+De basissubsidie-enveloppe bedraagt maximaal 216.818,78 euro per kalenderjaar voor een sociaal verhuurkantoor dat minstens 100 woningen in huur heeft, en de aanvullende subsidie-enveloppe bedraagt per kalenderjaar 1.586,32 euro per woning vanaf de 101ste woning tot de 199ste woning.<br>
 <br>
-De basissubsidie-enveloppe bedraagt maximaal 372.424 euro per kalenderjaar voor een sociaal verhuurkantoor dat minstens 200 woningen in huur heeft, en de aanvullende subsidie-enveloppe bedraagt per kalenderjaar 1.534,50 euro per woning vanaf de 201ste woning tot de 250ste woning. Vanaf de 251ste woning bedraagt de aanvullende subsidie per kalenderjaar 1.584 euro.<br>
+De basissubsidie-enveloppe bedraagt maximaal 385.000,76 euro per kalenderjaar voor een sociaal verhuurkantoor dat minstens 200 woningen in huur heeft, en de aanvullende subsidie-enveloppe bedraagt per kalenderjaar 1.586,32 euro per woning vanaf de 201ste woning tot de 250ste woning. Vanaf de 251ste woning bedraagt de aanvullende subsidie per kalenderjaar 1.637,49 euro.<br>
 <br>
-De groeisubsidie bedraagt 1.534,50 euro per woning.<br>
+De groeisubsidie bedraagt 1.586,32 euro per woning.<br>
 <br>
-De in het eerste, tweede, derde en vierde lid vermelde subsidie-enveloppes worden verhoogd met een subsidie bestemd voor de volledige kost van de beheersvergoeding, bestaande uit en geplafonneerd op de bedragen zoals vermeld in artikel 5 paragraaf 4 van het besluit van de Vlaamse Regering van 13 januari 2012 tot vaststelling van nadere regels voor de bijdragen van de sociale woonactoren in de financiering van de Vlaamse Maatschappij voor Sociaal Wonen, verhoogd met de hierop verschuldigde btw.<br>
+De in het eerste, tweede, derde en vierde lid vermelde subsidie-enveloppes worden verhoogd met een subsidie bestemd voor de volledige kost van de beheersvergoeding, bestaande uit en geplafonneerd op de bedragen zoals vermeld in artikel 5, § 4 van het besluit van de Vlaamse Regering van 13 januari 2012 tot vaststelling van nadere regels voor de bijdragen van de sociale woonactoren in de financiering van de Vlaamse Maatschappij voor Sociaal Wonen, verhoogd met de hierop verschuldigde btw..<br>
 <br>
 § 2. Een erkend en gesubsidieerd sociaal verhuurkantoor met minder dan 100 woningen in huur moet vanaf 1 november van het derde kalenderjaar nadat de periode van de eerste basissubsidie-enveloppe is ingegaan, minstens 100 woningen inhuren. Een erkend en gesubsidieerd sociaal verhuurkantoor dat op 1 januari 2013 al minstens 50 woningen maar minder dan 100 woningen in huur had, moet vanaf 1 november 2015 minstens 100 woningen inhuren.<br>
 <br>
@@ -254,7 +254,7 @@ Het sociaal verhuurkantoor kan voor de motivering, vermeld in het vijfde lid, al
 2° kosten voor de uitbesteding van de boekhouding aan een boekhouder, die erkend is door het Beroepsinstituut van Erkende Boekhouders en Fiscalisten.<br>
 <br>
 § 6. De bedragen, vermeld in dit artikel en in artikel 9, § 1 van dit besluit worden jaarlijks geïndexeerd. Het loonaandeel wordt geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld,<br>
-zoals gewijzigd door het koninklijk besluit nr. 178 van 30 december 1982 en onverminderd artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. Het is gekoppeld aan de spilindex die van toepassing is op 1 januari 2012. Het niet-loonaandeel wordt geïndexeerd volgens de indexatieparameter voor de werkingskredieten die in de begrotingsinstructies is opgenomen.
+zoals gewijzigd door het koninklijk besluit nr. 178 van 30 december 1982 en onverminderd artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. Het is gekoppeld aan de spilindex die van toepassing is op 1 januari 2019. Het niet-loonaandeel wordt geïndexeerd volgens de indexatieparameter voor de werkingskredieten die in de begrotingsinstructies is opgenomen.
 
 ### ART. 14.
 
