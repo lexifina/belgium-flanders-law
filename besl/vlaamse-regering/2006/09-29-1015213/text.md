@@ -68,12 +68,12 @@ Een erkende huurdersorganisatie kan één regionaal steunpunt uitbouwen met het 
 
 Binnen de perken van de daartoe op de begroting van de Vlaamse Gemeenschap beschikbare kredieten wordt er onder de voorwaarden, gesteld in dit besluit, een basissubsidie-enveloppe toegekend aan de erkende huurdersorganisatie.<br>
 <br>
-De basissubsidie-enveloppe voor de huurdersorganisaties van de provincies Limburg en Vlaams-Brabant bedraagt 214.957,14 euro per kalenderjaar en voor de huurdersorganisatie van de provincie West-Vlaanderen 280.026,65 euro per kalenderjaar. Voor de huurdersorganisaties van de provincies Oost-Vlaanderen en Antwerpen bedraagt de subsidie 265.119,88 euro per kalenderjaar.<br>
+De basissubsidie-enveloppe voor de huurdersorganisaties van de provincies Limburg en Vlaams-Brabant bedraagt 202.059,71 euro per kalenderjaar en voor de huurdersorganisatie van de provincie West-Vlaanderen 263.225,05 euro per kalenderjaar. Voor de huurdersorganisaties van de provincies Oost-Vlaanderen en Antwerpen bedraagt de subsidie 249.212,69 euro per kalenderjaar.<br>
 &nbsp;
 
 ### ART. 8.
 
-Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kan, met ingang van 1 januari 2010, aan een erkende huurdersorganisatie een aanvullende subsidie-enveloppe ten bedrage van 130.084,55 euro per kalenderjaar worden toegekend voor de werking van een nieuw regionaal steunpunt als vermeld in artikel 6.<br>
+Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kan, met ingang van 1 januari 2010, aan een erkende huurdersorganisatie een aanvullende subsidie-enveloppe ten bedrage van 122.279,48 euro per kalenderjaar worden toegekend voor de werking van een nieuw regionaal steunpunt als vermeld in artikel 6.<br>
 <br>
 Om voor de aanvullende subsidie-enveloppe in aanmerking te komen, moet het regionaal steunpunt aan de volgende voorwaarden voldoen :<br>
 1° de voorwaarden, vermeld in artikel 3, tweede lid, 1°, vervullen;<br>
