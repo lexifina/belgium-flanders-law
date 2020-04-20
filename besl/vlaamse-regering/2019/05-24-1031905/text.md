@@ -117,9 +117,9 @@ Binnen de perken van de kredieten die daarvoor beschikbaar zijn op de algemene u
 <br>
 De basissubsidie-enveloppe wordt gedurende de erkenningsperiode, vermeld in artikel 5, § 1, jaarlijks toegekend nadat het agentschap aan de hand van de stukken, vermeld in artikel 14, tweede lid, heeft vastgesteld dat de verhuurdersorganisatie aan de erkenningsvoorwaarden, vermeld in artikel 3, derde lid, voldoet. Als het agentschap vaststelt, na de verhuurdersorganisatie te hebben gehoord, dat de verhuurdersorganisatie niet voldoet aan de erkenningsvoorwaarden, vermeld in artikel 3, derde lid, toont de verhuurdersorganisatie binnen drie maanden, te rekenen vanaf de vaststelling, aan dat zij opnieuw aan de erkenningsvoorwaarden, vermeld in artikel 3, derde lid, voldoet.<br>
 <br>
-De basissubsidie-enveloppe voor een verhuurdersorganisatie die private verhuurders vertegenwoordigt, bedraagt 175.000 euro per kalenderjaar.<br>
+De basissubsidie-enveloppe voor een verhuurdersorganisatie die private verhuurders vertegenwoordigt, bedraagt 164.500 euro per kalenderjaar.<br>
 <br>
-De basissubsidie-enveloppe voor de verhuurdersorganisatie die vastgoedmakelaars vertegenwoordigt, bedraagt 105.000 euro per kalenderjaar.
+De basissubsidie-enveloppe voor de verhuurdersorganisatie die vastgoedmakelaars vertegenwoordigt, bedraagt 98.700 euro per kalenderjaar.
 
 ### ART 7.
 
