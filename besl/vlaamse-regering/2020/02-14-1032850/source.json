@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032850,
+  "title": "Besluit van de Vlaamse Regering van 2020-02-14 houdende implementatie van een generieke besparingsmaatregel in de subsidies aan gewezen DAC-werknemers, erkende huurdiensten en verhuurdersorganisaties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032850/VolledigDocument?datum=2020-04-20",
+  "source_sha256": "33495496402043e8e5e5174b27bea1c29a33f8b194db4e11940dcb9ce39b3103",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032850&param=informatie",
+  "as_of": "2020-04-20",
+  "made": "2020-02-14",
+  "gazette": "2020-04-10",
+  "numac": 2020030478,
+  "document_start": "2020-04-20",
+  "document_end": null,
+  "in_force": "2020-04-20",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2020-04-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
