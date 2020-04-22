@@ -2,16 +2,16 @@
   "codex_id": 1032791,
   "title": "Besluit van de Vlaamse Regering van 2020-03-24 tot uitvoering van artikel 5 van het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid, wat betreft de omgevingsvergunning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032791/VolledigDocument?datum=2020-03-24",
-  "source_sha256": "7b34b13a58624aaff45490fd807e3c86d8034f65073ae8c5ce5e9e9799fafaaa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032791/VolledigDocument?datum=2020-04-22",
+  "source_sha256": "65bb49798bb88bd29f2ccf7b7bc158e8cda5a07c1974a91a8bfd890db63bc15f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032791&param=informatie",
-  "as_of": "2020-03-24",
+  "as_of": "2020-04-22",
   "made": "2020-03-24",
   "gazette": "2020-03-30",
   "numac": 2020030365,
   "document_start": "2020-03-24",
   "document_end": null,
-  "in_force": "2020-03-24",
-  "article_versions": 16,
-  "record_form": "consolidated version as in force on 2020-03-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-04-22",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2020-04-22; future article versions excluded; article text as the API gives it"
 }

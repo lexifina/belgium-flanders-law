@@ -83,7 +83,11 @@ De termijn om een beslissing te nemen over een administratief beroep, zoals bedo
 
 ### ART 7.
 
-De termijn om een administratief beroep in te stellen als vermeld in artikel 54 en 90 van het Omgevingsvergunningsdecreet, wordt verlengd met dertig dagen voor de administratieve beroepen die onder het toepassingsgebied vallen van artikel 3.
+De termijn om een administratief beroep in te stellen als vermeld in artikel 54 en 90 van het Omgevingsvergunningsdecreet, wordt verlengd met dertig dagen voor de administratieve beroepen die onder het toepassingsgebied vallen van artikel 3.<br>
+<br>
+De voormelde verlenging van de beroepstermijn vindt slechts toepassing in zoverre de beslissing over de vergunningsaanvraag in eerste aanleg wordt genomen uiterlijk op 24 april 2020.<br>
+<br>
+De affiche, bedoeld in artikel 59 van het Omgevingsvergunningsbesluit, blijft, in afwijking van artikel 59, § 2, van het Omgevingsvergunningsbesluit aangeplakt tot het einde van de beroepstermijn.
 
 ### ART 8.
 
@@ -100,6 +104,12 @@ Het ministerieel besluit tot verlenging van de termijnen vermeld in het eerste l
 2° een publicatie op de website van het departement Omgeving;<br>
 3° een publicatie op de website van de Dienst van de Bestuursrechtscolleges.
 
+### ART 9/1.
+
+De vervaltermijn van omgevingsvergunningen en meldingen van onbepaalde duur, die in toepassing van artikel 99, § 1, van het Omgevingsvergunningsdecreet zou verstrijken op een datum van 20 maart 2020 tot en met 31 december 2020, wordt van rechtswege met zes maanden verlengd.<br>
+<br>
+De geldigheidsduur van omgevingsvergunningen en meldingen van bepaalde duur of van omgevingsvergunningen op proef, uiterlijk verleend op 24 april 2020 in toepassing van artikel 68, tweede lid, respectievelijk artikel 69 van het Omgevingsvergunningsdecreet, die zou verstrijken op een datum van 20 maart 2020 tot en met 31 augustus 2020, wordt van rechtswege met drie maanden verlengd.
+
 ## HOOFDSTUK 3. Procedurele aanpassingen
 
 ### ART 10.
@@ -109,6 +119,11 @@ De openbare onderzoeken die lopen op de datum van inwerkingtreding van dit beslu
 Bezwaren die ingediend worden tijdens de periode van schorsing worden als ontvankelijk beschouwd.<br>
 <br>
 De organisatie van nieuwe openbare onderzoeken kan slechts plaatsvinden na 24 april 2020.<br>
+<br>
+De volgende regels worden in acht genomen bij de verderzetting van het openbaar onderzoek op een datum na 24 april 2020 :<br>
+1° de einddatum van het verdergezette openbaar onderzoek wordt door toedoen van de gemeente aangepast op de affiche, bedoeld in artikel 20 van het Omgevingsvergunningsbesluit. Deze affiche blijft minstens aangeplakt tot de laatste dag van het verdergezette openbaar onderzoek;<br>
+2° de verderzetting dient niet te worden gepubliceerd in een dag- of weekblad, bedoeld in artikel 22 van het Omgevingsvergunningsbesluit;<br>
+3° de individuele kennisgeving, bedoeld in artikel 23 van het Omgevingsvergunningsbesluit, dient niet te worden overgedaan.<br>
 <br>
 Op de website van de gemeente wordt de informatie in verband met start- en einddata van de openbare onderzoeken actueel gehouden. Als de gemeente met toepassing van artikel 67 van het Omgevingsvergunningsdecreet opdracht heeft gekregen een openbaar onderzoek in te stellen, houdt zij het bevoegd bestuur op de hoogte van deze informatie in verband met start- en einddata van de openbare onderzoeken;<br>
 <br>
@@ -124,7 +139,9 @@ Het ministerieel besluit tot verlenging van de termijnen vermeld in het derde li
 
 Bij de behandeling van de vergunningsaanvragen of de administratieve beroepen die onder het toepassingsgebied vallen van artikel 3, kan de bevoegde overheid, de provinciale of gewestelijke omgevingsambtenaar of de voorzitter van de omgevingsvergunningscommissie beslissen om de hoorzittingen in voorkomend geval alleen schriftelijk, via teleconferentie of via videoconferentie te houden.<br>
 <br>
-De voorzitter van de omgevingsvergunningscommissie kan bij de behandeling van de vergunningsaanvragen of de administratieve beroepen die onder het toepassingsgebied vallen van artikel 3, in voorkomend geval beslissen om via teleconferentie of via videoconferentie te vergaderen.
+De voorzitter van de omgevingsvergunningscommissie kan bij de behandeling van de vergunningsaanvragen of de administratieve beroepen die onder het toepassingsgebied vallen van artikel 3, in voorkomend geval beslissen om via teleconferentie of via videoconferentie te vergaderen.<br>
+<br>
+De bevoegde overheid kan bij de behandeling van de vergunningsaanvragen of de administratieve beroepen in voorkomend geval beslissen om de informatievergadering, vermeld in artikel 25 van het Omgevingsvergunningsbesluit, via elektronische middelen te houden. Alle bepalingen van artikel 25 van het Omgevingsbesluit blijven onverminderd van toepassing.
 
 ### ART 12.
 
