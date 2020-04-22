@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032881,
+  "title": "Ministerieel besluit van 2020-04-14 tot wijziging van het ministerieel besluit van 4 maart 2020 houdende de organisatie van een call voor het indienen van steunaanvragen voor kleine en middelgrote windturbines",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032881/VolledigDocument?datum=2020-04-22",
+  "source_sha256": "e137a04283335c9ba65c0e85a80188922d9913cb47c070a71b115612996f27d8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032881&param=informatie",
+  "as_of": "2020-04-22",
+  "made": "2020-04-14",
+  "gazette": "2020-04-22",
+  "numac": 202030733,
+  "document_start": "2020-04-22",
+  "document_end": null,
+  "in_force": "2020-04-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-04-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
