@@ -170,7 +170,9 @@ De   landbouwer die de jonge landbouwersbetaling aanvraagt, voegt de bewijsstukk
 
 <p>§ 1. De landbouwer kan tot 31 mei van het jaar in kwestie individuele, voor de landbouw gebruikte landbouwpercelen, ecologische aandachtsgebieden en betalingsrechten die nog niet in de verzamelaanvraag waren aangegeven, toevoegen, en wijzigingen met betrekking tot het gebruik ervan aanbrengen conform artikel 15, lid 1 en 2, van verordening (EU) nr. 809/2014.<br>
 <br>
-De wijzigingen die na 31 mei van het jaar in kwestie worden meegedeeld, worden conform artikel 13 en 14 van verordening (EU) nr. 640/2014 en artikel 16 van verordening (EU) nr. 809/2014 behandeld.<br>
+In afwijking van het eerste lid is 12 juni de uiterste wijzigingsdatum voor het kalenderjaar 2020.<br>
+<br>
+De wijzigingen die na 31 mei van het jaar in kwestie worden meegedeeld,&nbsp;en in het kalenderjaar 2020 na 12 juni worden conform artikel 13 en 14 van verordening (EU) nr. 640/2014 en artikel 16 van verordening (EU) nr. 809/2014 behandeld.<br>
 <br>
 In afwijking van het eerste lid kunnen:<br>
 1° ...;<br>
