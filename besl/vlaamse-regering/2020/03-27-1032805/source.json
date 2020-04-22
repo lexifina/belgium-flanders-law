@@ -2,16 +2,16 @@
   "codex_id": 1032805,
   "title": "Besluit van de Vlaamse Regering van 2020-03-27 tot uitvoering van artikel 5 van het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid, wat betreft ruimtelijke planning, complexe projecten, plan-milieueffectrapportage en leegstaande en verwaarloosde bedrijfsruimten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032805/VolledigDocument?datum=2020-03-27",
-  "source_sha256": "26904dcf4a705f90e404ab4bc17bba6f4392eb9680a7a86509f4ac8787c96c3e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032805/VolledigDocument?datum=2020-04-22",
+  "source_sha256": "40367c5dc873d1c957ea44b794f29a56a3ded8859de67c65fc28deab7312c599",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032805&param=informatie",
-  "as_of": "2020-03-27",
+  "as_of": "2020-04-22",
   "made": "2020-03-27",
   "gazette": "2020-04-01",
   "numac": 2020030473,
   "document_start": "2020-03-27",
   "document_end": null,
-  "in_force": "2020-03-27",
+  "in_force": "2020-04-22",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2020-03-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-04-22; future article versions excluded; article text as the API gives it"
 }

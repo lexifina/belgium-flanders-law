@@ -111,7 +111,11 @@ Reacties, opmerkingen en bezwaren die ingediend worden tijdens de periode van sc
 <br>
 De organisatie van nieuwe openbare onderzoeken en raadplegingen van het publiek, vermeld in het eerste lid, kan slechts plaatsvinden na 24 april 2020.<br>
 <br>
-Op de website van de bevoegde overheden wordt de informatie in verband met start- en einddata van de raadplegingen van het publiek en van de openbare onderzoeken actueel gehouden.
+Op de website van de bevoegde overheden wordt de informatie in verband met start- en einddata van de raadplegingen van het publiek en van de openbare onderzoeken actueel gehouden.<br>
+<br>
+De bekendmakingen en kennisgevingen, uitgevoerd voor de start van de schorsing dienen niet te worden hernomen bij de verderzetting van de inspraakverplichtingen op een datum na 24 april 2020.<br>
+<br>
+De bevoegde overheid kan in voorkomend geval beslissen om participatiemomenten, informatie- en inspraakvergaderingen, via elektronische middelen te houden.
 
 ## Afdeling 2. Inspraakprocedures in kader van complexe projecten
 
@@ -127,7 +131,11 @@ Reacties, opmerkingen en bezwaren die ingediend worden tijdens de periode van sc
 <br>
 De organisatie van nieuwe openbare onderzoeken, terinzageleggingen en raadplegingen van het publiek, vermeld in het eerste lid, kan slechts plaatsvinden na 24 april 2020.<br>
 <br>
-Op de website van de bevoegde overheden wordt de informatie in verband met start- en einddata van de openbare onderzoeken, terinzageleggingen en raadplegingen van het publiek actueel gehouden.
+Op de website van de bevoegde overheden wordt de informatie in verband met start- en einddata van de openbare onderzoeken, terinzageleggingen en raadplegingen van het publiek actueel gehouden.<br>
+<br>
+De bekendmakingen en kennisgevingen, uitgevoerd voor de start van de schorsing dienen niet te worden hernomen bij de verderzetting van de inspraakverplichtingen op een datum na 24 april 2020.<br>
+<br>
+De bevoegde overheid kan in voorkomend geval beslissen om participatiemomenten, informatie- en inspraakvergaderingen, via elektronische middelen te houden.
 
 ## Afdeling 3. Inspraakprocedures in kader van ruimtelijke beleidsplanningsprocessen
 
@@ -141,7 +149,11 @@ Reacties, opmerkingen en bezwaren die ingediend worden tijdens de periode van sc
 <br>
 De organisatie van nieuwe informatie-, inspraak- en participatiemomenten, vermeld in het eerste lid, kan slechts plaatsvinden na 24 april 2020.<br>
 <br>
-Op de website van de bevoegde overheden wordt de informatie in verband met start- en einddata van de informatie-, inspraak- en participatiemomenten actueel gehouden.
+Op de website van de bevoegde overheden wordt de informatie in verband met start- en einddata van de informatie-, inspraak- en participatiemomenten actueel gehouden.<br>
+<br>
+De bekendmakingen en kennisgevingen, uitgevoerd voor de start van de schorsing dienen niet te worden hernomen bij de verderzetting van de inspraakverplichtingen op een datum na 24 april 2020.<br>
+<br>
+De bevoegde overheid kan in voorkomend geval beslissen om participatiemomenten, informatie- en inspraakvergaderingen, via elektronische middelen te houden.
 
 ## Afdeling 4. Inspraakprocedures in kader van plan-milieueffectrapportage
 
@@ -155,7 +167,11 @@ Reacties, opmerkingen en bezwaren die ingediend worden tijdens de periode van sc
 <br>
 De organisatie van nieuwe openbare onderzoeken en raadplegingen zoals vermeld in het eerste lid kan slechts plaatsvinden na 24 april 2020.<br>
 <br>
-Op de website van de bevoegde overheden wordt de informatie in verband met start- en einddata van de openbare onderzoeken en raadplegingen van het publiek actueel gehouden.
+Op de website van de bevoegde overheden wordt de informatie in verband met start- en einddata van de openbare onderzoeken en raadplegingen van het publiek actueel gehouden.<br>
+<br>
+De bekendmakingen en kennisgevingen, uitgevoerd voor de start van de schorsing dienen niet te worden hernomen bij de verderzetting van de inspraakverplichtingen op een datum na 24 april 2020.<br>
+<br>
+De bevoegde overheid kan in voorkomend geval beslissen om participatiemomenten, informatie- en inspraakvergaderingen, via elektronische middelen te houden.
 
 ## Afdeling 5. Adviesinstanties
 
