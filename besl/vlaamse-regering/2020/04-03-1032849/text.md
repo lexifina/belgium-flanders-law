@@ -66,7 +66,7 @@ De Vlaamse minister, bevoegd voor werk, kan de uitgifte- en vervaldatum alsook d
 
 Dit besluit heeft uitwerking met ingang van 12 maart 2020.<br>
 <br>
-Artikel 3 treedt buitenwerking op 24 april 2020.<br>
+Artikel 3 treedt buitenwerking op 3 mei 2020.<br>
 <br>
 De Vlaamse minister, bevoegd voor werk, kan de datum van buitenwerkingtreding, vermeld in het tweede lid en de datum in artikel 3, vierde lid, aanpassen.
 
