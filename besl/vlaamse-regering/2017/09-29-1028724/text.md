@@ -146,7 +146,7 @@ De vergoeding bedraagt 70% van een gemiddelde vergoeding, vermeld in artikel 13.
 <br>
 De vergoeding is gelijkgesteld aan de vergoeding verkregen voor de prestaties geleverd in het kader van wijk-werken als vermeld in artikel 34 van het decreet van 7 juli 2017 betreffende wijk-werken en diverse bepalingen in het kader van de zesde staatshervorming.<br>
 <br>
-De vergoeding wordt maandelijks uitgekeerd. De vergoeding wordt toegekend voor de initiële duurtijd, vermeld in artikel 9, eerste lid. Deze periode wordt, indien zij ten einde loopt na 24 april 2020, beperkt tot en met 24 april 2020.
+De vergoeding wordt maandelijks uitgekeerd. De vergoeding wordt toegekend voor de initiële duurtijd, vermeld in artikel 9, eerste lid. Deze periode wordt, indien zij ten einde loopt na 3 mei 2020, beperkt tot en met 3 mei 2020.
 
 ### ART 14.
 
