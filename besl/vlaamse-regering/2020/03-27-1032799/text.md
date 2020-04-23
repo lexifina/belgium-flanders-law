@@ -44,7 +44,7 @@ De premie bedraagt 70% van de IBO-premie waarop de IBO-cursist recht had op het 
 <br>
 De premie wordt maandelijks toegekend. Een maand loopt van de dertiende tot en met de twaalfde van de volgende maand.<br>
 <br>
-De premie wordt toegekend voor de initiële duurtijd van de IBO-overeenkomst. Deze periode wordt, indien zij ten einde loopt na 12 juni 2020, beperkt tot 12 juni 2020.
+De premie wordt toegekend voor de initiële duurtijd van de IBO-overeenkomst. Deze periode wordt, indien zij ten einde loopt na 14 mei 2020, beperkt tot 14 mei 2020.
 
 ### ART 3.
 
@@ -54,7 +54,7 @@ De premie wordt maandelijks uitgekeerd.
 
 ### ART 4.
 
-Dit besluit heeft uitwerking met ingang van 13 maart 2020 en treedt buiten werking op 24 april 2020.<br>
+Dit besluit heeft uitwerking met ingang van 13 maart 2020 en treedt buiten werking op 14 mei 2020.<br>
 <br>
 De Vlaamse minister, bevoegd voor werk, kan de datum van buitenwerkingtreding, vermeld in het eerste lid en de datum in artikel 2, vierde lid, aanpassen.
 
