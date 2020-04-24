@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032966,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-24 tot vaststelling van nadere regels over het beheer van medisch afval gedurende de crisis ingevolge COVID-19",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032966/VolledigDocument?datum=2020-04-24",
+  "source_sha256": "b36806f6594d1de1350250635e0a1f8774a719c89d2a03bd7758fdc0377009c5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032966&param=informatie",
+  "as_of": "2020-04-24",
+  "made": "2020-04-24",
+  "gazette": "2020-05-06",
+  "numac": 2020041105,
+  "document_start": "2020-04-24",
+  "document_end": null,
+  "in_force": "2020-04-24",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2020-04-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
