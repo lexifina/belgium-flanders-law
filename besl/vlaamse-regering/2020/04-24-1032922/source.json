@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032922,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-24 tot vaststelling van de einddatum van de noodmaatregelen voor het besluit van de Vlaamse Regering van 10 april 2020 houdende de noodmaatregelen inzake het decreet van 3 mei 2019 houdende de gemeentewegen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032922/VolledigDocument?datum=2020-04-24",
+  "source_sha256": "5cd013933ceb223fde460fd81130cf8867212dc5ff927d156b22045148e89953",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032922&param=informatie",
+  "as_of": "2020-04-24",
+  "made": "2020-04-24",
+  "gazette": "2020-04-29",
+  "numac": 2020030834,
+  "document_start": "2020-04-24",
+  "document_end": null,
+  "in_force": "2020-04-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-04-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
