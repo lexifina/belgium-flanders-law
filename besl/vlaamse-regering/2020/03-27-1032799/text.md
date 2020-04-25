@@ -29,12 +29,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-In dit besluit wordt verstaan onder:<br>
-1° Coronavirusmaatregelen: de maatregelen van de Nationale Veiligheidsraad van 12 maart 2020 inzake het coronavirus en de daaruit voortvloeiende maatregelen van de bevoegde autoriteiten inzake burgerlijke veiligheid;<br>
-2° IBO: de individuele beroepsopleiding, vermeld in artikel 90 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding;<br>
-3° de VDAB: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, vermeld in artikel 3, § 1, van het decreet van 7 mei 2004;<br>
-4° IBO-premie: de premie, vermeld in artikel 93 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding;<br>
-5° IBO-cursist: een cursist zoals vermeld in artikel 1, 9° van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding die verbonden was met een IBO-overeenkomst op 12 maart 2020 en voor de IBO-overeenkomsten die zijn opgestart na 12 maart 2020.
+...
 
 ### ART 2.
 
@@ -48,9 +43,7 @@ De premie wordt toegekend voor de initiële duurtijd van de IBO-overeenkomst. De
 
 ### ART 3.
 
-Het recht op de premie wordt toegekend voor de IBO-overeenkomsten die liepen op 12 maart 2020 en voor de IBO-overeenkomsten die zijn opgestart na 12 maart 2020.<br>
-<br>
-De premie wordt maandelijks uitgekeerd.
+...
 
 ### ART 4.
 
@@ -60,4 +53,4 @@ De Vlaamse minister, bevoegd voor werk, kan de datum van buitenwerkingtreding, v
 
 ### ART 5.
 
-De Vlaamse minister, bevoegd voor werk, is belast met de uitvoering van dit besluit.
+...
