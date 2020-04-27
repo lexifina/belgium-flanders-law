@@ -355,7 +355,7 @@ De minister kan nadere regels bepalen met betrekking tot de keuring.
 
 Overeenkomstig artikel 2.3.5, § 1, van het decreet van&nbsp;18 juli 2003&nbsp;is de exploitant belast met de saneringsverplichting voor het door hem geleverde water voor menselijke consumptie dit met het oog op het behoud van de kwaliteit van het geleverde water.<br>
 <br>
-Overeenkomstig artikel&nbsp;2.3.3 van het decreet van 18 juli 2003 kan de exploitant aan zijn gemeentelijke saneringsverplichting voldoen door een contract af te sluiten met de gemeente, het gemeentebedrijf, de intercommunale of het intergemeentelijk samenwerkingsverband of een door de gemeente na publieke marktbevraging aangestelde entiteit.<br>
+Overeenkomstig artikel&nbsp;2.6.1.3.3, § 2 van het decreet van 18 juli 2003 kan de exploitant aan zijn gemeentelijke saneringsverplichting voldoen door een contract af te sluiten met de gemeente, het gemeentebedrijf, de intercommunale of het intergemeentelijk samenwerkingsverband of een door de gemeente na publieke marktbevraging aangestelde entiteit.<br>
 <br>
 Wanneer de exploitant een contract sluit zoals bedoeld in het tweede lid, dient het begrip exploitant, in afwijking van de bepalingen van artikel 1, 6° van dit besluit, verder in dit hoofdstuk 3 gelezen te worden als de betrokken gemeente, het betrokken gemeentebedrijf, de betrokken intercommunale of het betrokken intergemeentelijk samenwerkingsverband of de betrokken door de gemeente na een publieke marktbevraging aangestelde entiteit, desgevallend beperkt tot die aangelegenheden waarvoor deze contractueel verantwoordelijk zijn.<br>
 &nbsp;
@@ -366,13 +366,7 @@ Wanneer de exploitant een contract sluit zoals bedoeld in het tweede lid, dient 
 
 ### ART. 10.
 
-§ 1. Alleen de exploitant of zijn aangestelde mag de huisaansluiting plaatsen, wijzigen, versterken, verplaatsen, wegnemen, onderhouden, herstellen, in dienst stellen en buiten dienst stellen, of werkzaamheden daarvoor laten uitvoeren. De huisaansluiting is eigendom van de exploitant, zonder afbreuk te doen aan bestaande zakelijke rechten die voor de inwerkingtreding van dit besluit zijn gevestigd.<br>
-<br>
-De exploitant of zijn aangestelde zorgt voor de goede uitvoering ervan en draagt de kosten. Als de werkzaamheden door de klant of titularis aangevraagd worden of als ze noodzakelijk zijn door schade of storing die de klant of titularis heeft aangericht, kan de exploitant daarvoor een bijdrage van de klant vragen.<br>
-<br>
-Principieel wordt per onroerend goed in één huisaansluiting voor de afvoer van afvalwater en, als dat van toepassing is, in één huisaansluiting voor de afvoer van niet-verontreinigd hemelwater voorzien. Als de aanvrager meer huisaansluitingen wil, bepaalt de exploitant in overleg met hem het aantal huisaansluitingen en legt hij de voorwaarden vast.<br>
-<br>
-Een verzoek tot aansluiting op het openbaar saneringsnetwerk moet altijd worden gericht tot de exploitant. Afhankelijk van de situatie verwijst de exploitant de aanvrager door naar de gemeente voor een voorafgaande goedkeuring tot aansluiting.<br>
+§ 1.&nbsp;Een verzoek tot aansluiting op het openbaar saneringsnetwerk moet altijd worden gericht tot de exploitant. Afhankelijk van de situatie verwijst de exploitant de aanvrager door naar de gemeente voor een voorafgaande goedkeuring tot aansluiting.<br>
 <br>
 Behoudens uitdrukkelijke en voorafgaande weigering van de titularis acht de exploitant het bewezen dat de aanvrager van een verzoek tot aansluiting op het openbaar saneringsnetwerk het akkoord van de titularis daarvoor heeft verkregen.<br>
 <br>
@@ -416,27 +410,67 @@ Ten aanzien van de betrokken gemeente, het betrokken gemeentebedrijf, de betrokk
 
 ### ART. 11.
 
-§ 1. De bepalingen van dit artikel gelden als de exploitant de saneringsverplichting op het vlak van individuele sanering uitvoert.<br>
+§ 1. Alleen de exploitant mag de huisaansluiting plaatsen, wijzigen, versterken, verplaatsen, wegnemen, onderhouden, herstellen, in dienst stellen en buiten dienst stellen of de werkzaamheden daarvoor laten uitvoeren.<br>
 <br>
-§ 2. De aansluiting op het openbaar saneringsnetwerk dient conform de voorschriften van de exploitant te worden aangelegd en onderhouden.<br>
+De huisaansluiting is eigendom van de exploitant, zonder afbreuk te doen aan bestaande zakelijke rechten die voor 1 juli 2011 zijn gevestigd. De exploitant zorgt voor de goede uitvoering ervan en draagt de kosten. Als de klant of titularis de werkzaamheden aanvraagt of als ze noodzakelijk zijn door schade of storing die de klant of titularis heeft aangericht, kan de exploitant daarvoor een bijdrage aan de klant vragen.<br>
 <br>
-Alleen de exploitant of zijn aangestelde mag de individuele behandelingsinstallatie (IBA) plaatsen, wijzigen, versterken, verplaatsen, wegnemen, onderhouden, herstellen, in dienst stellen en buiten dienst stellen, of werkzaamheden daarvoor laten uitvoeren. De IBA is eigendom van de exploitant, zonder afbreuk te doen aan bestaande zakelijke rechten die voor de inwerkingtreding van dit besluit zijn gevestigd.<br>
+Principieel wordt per onroerend goed in één huisaansluiting voor de afvoer van afvalwater en, als dat van toepassing is, in één huisaansluiting voor de afvoer van niet-verontreinigd hemelwater voorzien. Als de aanvrager meer huisaansluitingen wil, bepaalt de exploitant in overleg met hem het aantal huisaansluitingen en legt hij de voorwaarden vast.<br>
 <br>
-De exploitant of zijn aangestelde zorgt voor de goede uitvoering ervan en draagt de kosten. Als de werkzaamheden door de klant of titularis aangevraagd worden of als ze noodzakelijk zijn door schade of storing die de klant of titularis heeft aangericht, kan de exploitant daarvoor een bijdrage van de klant vragen.<br>
+De exploitant bepaalt, in overleg met de aanvrager, het traject van de huisaansluiting zodat de algemene veiligheid, de instandhouding en de normale werking van de elementen van de huisaansluiting verzekerd zijn en dat het toezicht, de controle en het onderhoud gemakkelijk uitgevoerd kunnen worden.<br>
+<br>
+§ 2. De exploitant stelt de prijsofferte op voor elke nieuwe, te herstellen of te wijzigen huisaansluiting. Hij gebruikt daarvoor een document dat al de volgende gegevens bevat:<br>
+1° de uitvoeringsmodaliteiten voor de werkzaamheden;<br>
+2° de totale geraamde prijs;<br>
+3° de samenstellende elementen van de prijs;<br>
+4° de betalingsmodaliteiten;<br>
+5° de nodige informatie over de samenstelling van de huisaansluiting.<br>
+<br>
+De samenstellende elementen van het totale werk worden niet meegedeeld als een forfaitaire prijsberekening per eenheid wordt uitgevoerd.<br>
+<br>
+De exploitant stelt de prijsofferte gratis op. De prijsofferte wordt in principe bezorgd binnen vijftien werkdagen nadat de aanvrager alle nodige gegevens en inlichtingen aan de exploitant heeft verstrekt. De prijsofferte is ten minste twee maanden geldig. De huisaansluiting, de herstelling op het gedeelte tussen de rooilijn en de aansluiting op het openbaar saneringsnetwerk, en andere werkzaamheden om de afvoer te verzekeren, worden aangerekend aan de aanvrager tegen de prijzen die gelden op het moment dat de prijsofferte wordt opgemaakt. Buitengewone en uitzonderlijke werkzaamheden om de afvoer te verzekeren, kunnen worden aangerekend aan de aanvrager tegen de prijzen die gelden op het moment van de uitvoering.<br>
+<br>
+De werkzaamheden aan de huisaansluiting worden uitgevoerd binnen de periode die met de aanvrager is afgesproken, rekening houdend met eventuele noodzakelijke planaanvragen, toestemmingen en vergunningen, nadat de aanvrager zich uitdrukkelijk akkoord heeft verklaard met de prijsofferte en nadat hij alle overeengekomen formaliteiten en werken correct heeft uitgevoerd, en dat ook aan de exploitant heeft gemeld.<br>
+<br>
+§ 3. De exploitant waarschuwt de klant of, bij afwezigheid ervan, de titularis, als er werkzaamheden aan de huisaansluiting zullen plaatsvinden, zodat de klant, respectievelijk de titularis de mogelijkheid heeft om zelf, in voorkomend geval, de nodige werkzaamheden uit te voeren, meer bepaald om de toegang tot de privéwaterafvoer mogelijk te maken.<br>
+Als de klant of titularis de nodige werkzaamheden niet heeft uitgevoerd binnen de periode die met de exploitant is afgesproken, of als hij weigert de werkzaamheden uit te voeren binnen een redelijke termijn die de exploitant voorstelt, mag de exploitant de nodige werkzaamheden zelf uitvoeren.<br>
+<br>
+In geval van dringende noodzakelijkheid mag de exploitant de nodige werkzaamheden en inzonderheid de werkzaamheden om de toegang tot de huisaansluiting op privé-eigendom mogelijk te maken, altijd zelf uitvoeren zonder de klant of titularis daarvan vooraf op de hoogte te brengen.<br>
+<br>
+§ 4. De wijzigingen die de exploitant verplicht is aan te brengen door het specifieke gebruik van de huisaansluiting door de klant, zijn ten laste van de klant.<br>
+<br>
+De klant of titularis die al een huisaansluiting heeft, verbindt er zich toe de exploitant binnen een zo kort mogelijke tijd in te lichten over elk aan hem toe te schrijven feit dat aanpassingen aan de huisaansluiting tot gevolg kan hebben.<br>
+<br>
+De klant bezorgt alle nodige informatie over zijn installatie en afvoerstelsel aan de exploitant opdat die een huisaansluiting of een wijziging in de huisaansluiting kan uitvoeren.<br>
+<br>
+Het is verboden een huisaansluiting van een onroerend goed op het openbaar saneringsnetwerk of een privéwaterafvoer te verbinden of te laten verbinden met die van een ander onroerend goed, behalve na een uitdrukkelijk en voorafgaand akkoord van de exploitant.<br>
+<br>
+De klant of titularis treft als een goed huisvader de nodige schikkingen om iedere oorzaak van beschadiging en verontreiniging van de huisaansluiting en van het openbaar saneringsnetwerk te vermijden. Hij brengt de exploitant onmiddellijk op de hoogte van elke onregelmatigheid of beschadiging, en van elke afwijking van of strijdigheid met de wettelijke en technische voorschriften die hij redelijkerwijze kan vaststellen. Als die het gevolg zijn van een tussenkomst of nalatigheid van de klant of titularis, zijn de kosten voor de herstelling of vervanging voor zijn rekening.
+
+### ART 11/1.
+
+§ 1. Dit artikel is van toepassing als de exploitant de saneringsverplichting op het vlak van individuele sanering uitvoert.<br>
+<br>
+In dit artikel wordt verstaan onder IBA: de individuele behandelingsinstallatie.<br>
+<br>
+§ 2. De aansluiting op het openbaar saneringsnetwerk wordt aangelegd en onderhouden conform de technische voorschriften van de exploitant.<br>
+<br>
+Alleen de exploitant of zijn aangestelde mag de IBA plaatsen, wijzigen, versterken, verplaatsen, wegnemen, onderhouden, herstellen, in dienst stellen en buiten dienst stellen, of werkzaamheden daarvoor laten uitvoeren. De IBA is eigendom van de exploitant, zonder afbreuk te doen aan bestaande zakelijke rechten die voor 1 januari 2020 zijn gevestigd. De individuele behandelingsinstallatie wordt geplaatst binnen de periode die met de aanvrager is afgesproken.<br>
+<br>
+De exploitant of zijn aangestelde zorgt voor de goede uitvoering ervan en draagt de kosten. Als de klant of titularis de werkzaamheden aanvraagt of als ze noodzakelijk zijn door schade of storing die de klant of titularis heeft aangericht, kan de exploitant daarvoor een bijdrage van de klant vragen.<br>
 <br>
 § 3. Als de klant of titularis verplicht is om een IBA te plaatsen, kan die een verzoek tot aansluiting op het openbaar saneringsnetwerk richten tot de exploitant. Afhankelijk van de situatie verwijst de exploitant de aanvrager door naar de gemeente voor een voorafgaande goedkeuring tot aansluiting.<br>
 <br>
 Behalve bij uitdrukkelijke en voorafgaande weigering van de titularis acht de exploitant het bewezen dat de aanvrager van een verzoek tot aansluiting op het openbaar saneringsnetwerk het akkoord van de titularis daarvoor heeft verkregen.<br>
 <br>
-§ 4. In het individueel te optimaliseren buitengebied kan de exploitant, om zijn saneringsplicht te vervullen, aanbieden om een IBA te plaatsen die hij zelf beheert. Als de klant of titularis niet ingaat op dat verzoek, is hij verplicht zelf in te staan voor de sanering van het afvalwater.<br>
+§ 4. Om zijn saneringsplicht te vervullen in het individueel te optimaliseren buitengebied, kan de exploitant aanbieden om een IBA te plaatsen die hij zelf beheert. Als de klant of titularis niet ingaat op dat verzoek, is hij verplicht zelf in te staan voor de sanering van het afvalwater.<br>
 <br>
 § 5. De exploitant gaat over tot effectieve aansluiting op het openbaar saneringsnetwerk nadat de aanvrager van een verzoek tot aansluiting op het openbaar saneringsnetwerk zich akkoord heeft verklaard met de wijze van aanrekening van de kosten, het algemeen waterverkoopreglement en, als dat van toepassing is, het bijzonder waterverkoopreglement.<br>
 <br>
-De kosten die verbonden zijn aan de aanleg van aan- en afvoerleidingen naar de IBA zijn ten laste van de klant of titularis.<br>
+De kosten die verbonden zijn aan de aanleg van aan- en afvoerleidingen naar de IBA, zijn ten laste van de klant of titularis.<br>
 <br>
 Een onroerend goed kan alleen aangesloten worden op een collectief beheerde IBA als de oorsprong, hoeveelheid, samenstelling en continuïteit van het huishoudelijk afvalwater dat toelaten. De klant of titularis blijft zelf verantwoordelijk voor de sanering van alle afvalwaterstromen die niet aangesloten zijn op de IBA voor huishoudelijk afvalwater.<br>
 <br>
-De klant of titularis geeft hierbij aan de exploitant toestemming tot toegang tot zijn perceel en het uitvoeren van de noodzakelijke werken of handelingen in het kader van de levering en de plaatsing van de huisaansluiting of de IBA. Dat recht van toegang geldt ook na de uitvoering van de huisaansluiting of de eigenlijke plaatsing van de IBA, voor de inspectie van de installatie, het onderhoud van de IBA, de herstellingen en de eventuele verwijdering van de installatie.<br>
+De klant of titularis geeft daarbij aan de exploitant toestemming voor toegang tot zijn perceel en de uitvoering van de noodzakelijke werken of handelingen in het kader van de levering en de plaatsing van de huisaansluiting of de IBA. Dat recht van toegang geldt ook na de uitvoering van de huisaansluiting of de eigenlijke plaatsing van de IBA, voor de inspectie van de installatie, het onderhoud van de IBA, de herstellingen en de eventuele verwijdering van de installatie.<br>
 <br>
 Bij een collectief beheerde IBA blijft de IBA in volle eigendom van de exploitant. De klant of titularis staat in voor de aanleg van alle toevoer- en afvoerleidingen van en naar de IBA. Het beheer en het onderhoud om de goede werking te garanderen, is op elk moment mogelijk. Anders kan de exploitant gepaste maatregelen treffen voor en op kosten van de klant of titularis. De klant of titularis is verplicht om elke belangrijke wijziging die mogelijk invloed heeft op de goede werking van de IBA, onmiddellijk mee te delen aan de exploitant. Kosten van beheer en onderhoud zijn alleen ten laste van de klant of titularis als aangetoond kan worden dat de kosten voortvloeien uit een niet-correct gebruik van de IBA.
 
@@ -520,11 +554,13 @@ Voor abonnees waarvan het betreffende onroerend goed geen wooneenheden heeft, pa
 <br>
 Voor abonnees waarvan het betreffende onroerend goed één of meerdere wooneenheden heeft, past de exploitant, conform artikel 4.4.1 van het decreet van 18 juli 2003, een progressieve tariefstructuur toe met twee schijven om de variabele prijs te bepalen. De schijfgrens ligt op een verbruik van 30 m³ per wooneenheid per jaar, vermeerderd met 30 m® per gedomicilieerde per wooneenheid per jaar. Het verbruik in de tweede schijf wordt aangerekend tegen het dubbel van het tarief, uitgedrukt in euro/m³, van de eerste schijf.<br>
 <br>
-Van de indeling, vermeld in het tweede en het derde lid, kan afgeweken worden als de abonnee of de exploitant kan aantonen dat de abonnee op basis van het al dan niet aanwezig zijn van huishoudelijke of bedrijfsactiviteiten tot de ene dan wel de andere groep behoort. De exploitanten kunnen zich hiervoor onder andere baseren op de indeling conform artikel 35quater, 35quinquies en 35septies van de wet van 26 maart 1971 en op de aanwezigheid van een onderneming.<br>
+Van de indeling, vermeld in het tweede en het derde lid, kan afgeweken worden als de abonnee of de exploitant kan aantonen dat de abonnee op basis van het al dan niet aanwezig zijn van huishoudelijke of bedrijfsactiviteiten tot de ene dan wel de andere groep behoort. De exploitanten kunnen zich hiervoor onder andere baseren op de indeling conform artikel 4.2.2.2.1 tot en met 4.2.2.2.3, artikel 4.2.2.3.1 tot en met 4.2.2.3.9 en artikel 4.2.2.5.1 en 4.2.2.5.2 van het decreet van 18 juli 2003 en op de aanwezigheid van een onderneming.<br>
 <br>
 § 4. De tarieven van het vastrecht en de variabele prijs die van kracht zijn op het moment van het verbruik, worden toegepast op basis van de periode waarop de verbruiksfactuur of de eindfactuur betrekking heeft. De tarieven van de variabele prijs worden vastgelegd zoals bepaald in artikel 2.5.2.3.2 van het decreet van 18 juli 2003 en in het besluit van de Vlaamse Regering van 5 februari 2016 houdende tariefregulering van de integrale waterfactuur.<br>
 <br>
-§ 5. Het aantal gedomicilieerde personen is het aantal gedomicilieerden van de wooneenheid op 1 januari van het jaar waarop het waterverbruik betrekking heeft of het aantal gedomicilieerden op de datum van verklaring van keuze van woonplaats bij het gemeentebestuur voor abonnees van wie het domicilieadres wijzigt na 1 januari.
+§ 5. Het aantal gedomicilieerde personen is het aantal gedomicilieerden van de wooneenheid op 1 januari van het jaar waarop het waterverbruik betrekking heeft of het aantal gedomicilieerden op de datum van verklaring van keuze van woonplaats bij het gemeentebestuur voor abonnees van wie het domicilieadres wijzigt na 1 januari.<br>
+<br>
+Als de aansluiting van de abonnee op het openbare waterdistributienetwerk van een exploitant geen volledig jaar bestrijkt, worden zowel het vastrecht en de capaciteitsvergoeding als de schijfgrenzen van de variabele prijs pro rata temporis berekend.
 
 ### ART. 14/2.
 
@@ -796,7 +832,22 @@ Wanneer de exploitant een contract sluit zoals bedoeld in artikel 8, tweede lid,
 
 ### ART. 27.
 
-De exploitant informeert en rapporteert jaarlijks aan de Vlaamse   Milieumaatschappij over de volgende aspecten :<BR>1° de toepassing van artikel 4   paragraaf 1;<BR>2° de toepassing van artikel 5;<BR>3° de toepassing van artikel   7, paragraaf 3;<BR>4° de toepassing van artikel 12, paragraaf 1;<BR>5° de   toepassing van artikel 17, paragrafen 5, 6 en 8;<BR>6° de toepassing van artikel   19;<BR>7° de klachtenbehandeling zoals bedoeld in artikel 26;<BR>8° de   gerechtelijke procedures met betrekking tot de inning van uitstaande   schulden;<BR>9° de toepassing van de sociale openbare dienstverplichtingen uit   hoofdstuk 7/1.<BR><BR>De Vlaamse milieumaatschappij legt jaarlijks aan de   minister een verslag over de informering en rapportering door de exploitanten   voor.<BR><BR>De minister kan nadere regels bepalen met betrekking tot de   rapportering en informering.<BR><BR>
+De exploitant informeert en rapporteert jaarlijks aan de Vlaamse Milieumaatschappij over de volgende aspecten :<br>
+1° de toepassing van artikel 4 paragraaf 1;<br>
+2° de toepassing van artikel 5;<br>
+3° de toepassing van artikel 7, § 5;<br>
+4° de toepassing van artikel 12, paragraaf 1;<br>
+4/2° de toepassing van artikel 13;<br>
+5° de toepassing van artikel 17, § 4, § 5, § 6, § 7 en § 8;<br>
+6° de toepassing van artikel 19;<br>
+7° de klachtenbehandeling zoals bedoeld in artikel 26;<br>
+8° de gerechtelijke procedures met betrekking tot de inning van uitstaande schulden;<br>
+9° de toepassing van de sociale openbare dienstverplichtingen uit hoofdstuk 7/1.<br>
+<br>
+De Vlaamse milieumaatschappij legt jaarlijks aan de minister een verslag over de informering en rapportering door de exploitanten voor.<br>
+<br>
+De minister kan nadere regels bepalen met betrekking tot de rapportering en informering.<br>
+&nbsp;
 
 ## [HOOFDSTUK 7/1 Sociale openbare dienstverplichtingen (ing. BVR 6 december 2013, art. 25, I: 1 januari 2014)]
 
