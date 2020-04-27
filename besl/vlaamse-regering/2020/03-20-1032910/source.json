@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032910,
+  "title": "Besluit van de Vlaamse Regering van 2020-03-20 tot wijziging van het besluit van de Vlaamse Regering van 8 april 2011 houdende bepalingen van rechten en plichten van de exploitanten van een openbaar waterdistributienetwerk en hun klanten met betrekking tot de levering van water bestemd voor menselijke consumptie, de uitvoering van de saneringsverplichting, de niet-aangesloten binneninstallatie en installaties voor tweedecircuitwater in onroerende goederen die niet aangesloten zijn of worden op het openbaar waterdistributienetwerk, en het algemeen waterverkoopreglement en tot wijziging van het besluit van de Vlaamse Regering van 16 september 1997 betreffende de samenstelling en de werking van de lokale adviescommissie omtrent de minimale levering van elektriciteit, gas en water en de levering van thermische energie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032910/VolledigDocument?datum=2020-04-27",
+  "source_sha256": "d5dcf0e88b40ee717f9a54615e43ee6eedfe8c1b1c69132c4027ed2edc817ec7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032910&param=informatie",
+  "as_of": "2020-04-27",
+  "made": "2020-03-20",
+  "gazette": "2020-04-27",
+  "numac": 2020030664,
+  "document_start": "2020-04-27",
+  "document_end": null,
+  "in_force": "2020-04-27",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2020-04-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
