@@ -2,16 +2,16 @@
   "codex_id": 1026584,
   "title": "Besluit van de Vlaamse Regering van 2016-02-05 houdende vaststelling van de werking en het beheer van het Financieringsinstrument voor de Vlaamse visserij- en aquacultuursector (FIVA) en de verrichtingen die voor steun in aanmerking komen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026584/VolledigDocument?datum=2018-10-13",
-  "source_sha256": "ff6c939b552d44b98c50bf34df3d4a62cb6b3eee08342915c8e35926c497d3a8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026584/VolledigDocument?datum=2020-05-01",
+  "source_sha256": "f14d4c99fad938d228b7fa53bcf723394363b6fa272e685448209e2e9fd4b63c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026584&param=informatie",
-  "as_of": "2018-10-13",
+  "as_of": "2020-05-01",
   "made": "2016-02-05",
   "gazette": "2016-03-29",
   "numac": 2016035330,
   "document_start": "2016-03-30",
   "document_end": "2023-09-20",
-  "in_force": "2018-10-13",
-  "article_versions": 40,
-  "record_form": "consolidated version as in force on 2018-10-13; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-05-01",
+  "article_versions": 48,
+  "record_form": "consolidated version as in force on 2020-05-01; future article versions excluded; article text as the API gives it"
 }

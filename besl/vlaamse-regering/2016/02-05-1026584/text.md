@@ -81,7 +81,12 @@ o) provinciale extern verzelfstandigde agentschappen;<br>
 22° jaarlijkse aanlanding: de hoeveelheid vis vermarktbaar voor directe menselijke consumptie, uitgedrukt in gewicht, gevangen en aangeland door een vissersvaartuig in een kalenderjaar, conform artikel 4, 22 van Verordening (EU) nr. 1224/2009 van de Raad van 20 november 2009 tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen, tot wijziging van Verordeningen (EG) nr. 847/96, (EG) nr. 2371/2002, (EG) nr. 811/2004, (EG) nr. 768/2005, (EG) nr. 2115/2005, (EG) nr. 2166/2005, (EG) nr. 388/2006, (EG) nr. 509/2007, (EG) nr. 676/2007, (EG) nr. 1098/2007, (EG) nr. 1300/2008, (EG) nr. 1342/2008 en tot intrekking van Verordeningen (EEG) nr. 2847/93, (EG) nr. 1627/94 en (EG) nr. 1966/2006;<br>
 23° blokperiode: een periode van drie maanden die door de managementautoriteit tot maximaal zes maanden verlengd kan worden waarin aanvragen voor steun in de Vlaamse visserij- en aquacultuursector ingediend kunnen worden;<br>
 24° maatregel: een geheel aan subsidieerbare concrete acties uit de acties, vermeld in de EFMZV-verordening en in het Belgisch Operationeel Programma goedgekeurd bij besluit van de Europese Commissie;<br>
-25° besluit van 16 december 2005: besluit van de Vlaamse Regering van 16 december 2005 tot de instelling van een visvergunning en houdende tijdelijke maatregelen voor de uitvoering van de communautaire regeling inzake de instandhouding en de duurzame exploitatie van de visbestanden.
+25° besluit van 16 december 2005: besluit van de Vlaamse Regering van 16 december 2005 tot de instelling van een visvergunning en houdende tijdelijke maatregelen voor de uitvoering van de communautaire regeling inzake de instandhouding en de duurzame exploitatie van de visbestanden;<br>
+26° kustvisserssegment: het kustvisserssegment, vermeld in artikel 1, 8°, van het besluit van 16 december 2005;<br>
+27° GVS: het groot vlootsegment, zoals omschreven in artikel 1, 6° van het besluit van de Vlaamse Regering van 16 december 2005;<br>
+28° KVS: het klein vlootsegment, zoals omschreven in artikel 1, 7° van het besluit van de Vlaamse Regering van 16 december 2005;<br>
+29° stilligvergoeding: de steun, vermeld in artikel 19/1;<br>
+30° VMS: het V.M.S., vermeld in artikel 1, 5°, van het besluit van de Vlaamse Regering van 9 december 2011 houdende de installatie van de satellietvolgapparatuur en het elektronische registratie- en meldsysteem op vissersvaartuigen.
 
 ### ART. 2.
 
@@ -115,7 +120,7 @@ Het   Departement Landbouw en Visserij stelt personeel, uitrusting en installati
 
 <p>Per jaar dat niet aan een van de volgende voorwaarden voldaan is, wordt een vijfde van de FIVA-steun en de er aan gekoppelde EFMZV-steun teruggevorderd :<br>
 1° het vissersvaartuig voldoet gedurende vier jaar na het jaar van de indiening van de steunaanvraag aan de economische band;<br>
-2° de begunstigde, met uitzondering van de vaartuigen die behoren tot het kustvisserssegment, vermeld in artikel 1, 8°, van het besluit van 16 december 2005, of waarvan op jaarbasis minstens 75 % van de visserijactiviteiten plaatsvinden in de Schelde of in het Schelde-estuarium, biedt gedurende de vier kalenderjaren die volgen op het jaar van de indiening van de aanvaarde steunaanvraag, 50 % van de jaarlijkse aanlanding van zijn gesubsidieerde vissersvaartuig in een Belgische veiling aan.</p>
+2° de begunstigde, met uitzondering van de vaartuigen die behoren tot het kustvisserssegment, of waarvan op jaarbasis minstens 75 % van de visserijactiviteiten plaatsvinden in de Schelde of in het Schelde-estuarium, biedt gedurende de vier kalenderjaren die volgen op het jaar van de indiening van de aanvaarde steunaanvraag, 50 % van de jaarlijkse aanlanding van zijn gesubsidieerde vissersvaartuig in een Belgische veiling aan.</p>
 
 <p>De minister kan de objectieve criteria bedoeld in artikel 31(3) van de EFMZV-verordening bepalen alsook nadere voorwaarden voor de terugvordering van de steun, vermeld in het eerste lid indien de begunstigde het vaartuig overdraagt of binnen 5 jaar na de betaling van de steun definitief uit de vaart neemt.</p>
 
@@ -146,7 +151,7 @@ Als een vissersvaartuig door overmacht wordt vervangen stelt de minister de aanv
 <br>
 Er wordt een vijfde van de FIVA-steun en de er aan gekoppelde EFMZV-steun teruggevorderd, per jaar dat niet aan een van de volgende voorwaarden voldaan is:<br>
 1° het vissersvaartuig voldoet gedurende het jaar van de indiening van de steunaanvraag en vier jaar na het jaar van de indiening van de steunaanvraag aan de economische band;<br>
-2° de begunstigde, met uitzondering van vaartuigen behorende tot het kustvisserssegment, vermeld in artikel 1, 8°, van het besluit van 16 december 2005, of waarvan op jaarbasis minstens 75 % van de visserijactiviteiten in de Schelde of in het Schelde estuarium plaatsvinden, biedt gedurende het jaar van de indiening van de steunaanvraag en de vier kalenderjaren die volgen op het jaar van de indiening van de steunaanvraag, minstens 50 % van de jaarlijkse aanlanding van zijn gesubsidieerde vissersvaartuig in een Belgische veiling aan.<br>
+2° de begunstigde, met uitzondering van vaartuigen behorende tot het kustvisserssegment, of waarvan op jaarbasis minstens 75 % van de visserijactiviteiten in de Schelde of in het Schelde estuarium plaatsvinden, biedt gedurende het jaar van de indiening van de steunaanvraag en de vier kalenderjaren die volgen op het jaar van de indiening van de steunaanvraag, minstens 50 % van de jaarlijkse aanlanding van zijn gesubsidieerde vissersvaartuig in een Belgische veiling aan.<br>
 <br>
 In afwijking van het vijfde lid, 2°, is, voor de kalenderjaren 2015 en 2016, aan de voorwaarde, vermeld in het vijfde lid, 2°, voldaan als minstens 50 % van de jaarlijkse aanlanding of minstens 50 % van de jaarlijkse besomming van het gesubsidieerde vissersvaartuig, in een Belgische veiling verwezenlijkt is.<br>
 <br>
@@ -284,6 +289,70 @@ d) de presentatie en verpakking van producten;<br>
 <P>De   begunstigde, vermeld in artikel 1, 3°, c), d) of f), kan binnen de voorwaarden,   vermeld in artikel 46 en 56 van de EFMZV-verordening, steun aanvragen om acties   uit te voeren als vermeld in artikel 56 van de EFMZV-verordening, die gericht   zijn op het bevorderen van het dierenwelzijn in aquacultuurbedrijven.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   financiële bijdrage vanuit het FIVA voor een project als vermeld in het eerste   lid, bedraagt maximaal 50 % van de totale projectkosten, exclusief btw, en is   begrensd op 25.000 euro.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
 
 ## [Afdeling 13. Steun voor tijdelijke stopzetting van visserijactiviteiten (ing. BVR 15 mei 2020, art. 4, I: 1 mei 2020)]
+
+### ART 19/1.
+
+Het FIVA kan aan de begunstigde, vermeld in artikel 1, 3°, a), b) of b/1), van dit besluit, binnen de gevallen en voorwaarden, vermeld in artikel 33 van de EFMZV-verordening, steun verlenen voor de tijdelijke stopzetting van visserijactiviteiten in de periode van 1 mei 2020 tot en met 31 augustus 2020.
+
+### ART 19/2.
+
+De stilligvergoeding bedraagt:<br>
+1° 1.500 euro per week voor een begunstigde die behoort tot het kustvisserssegment;<br>
+2° 2.250 euro per week voor een begunstigde die behoort tot het KVS;<br>
+3° 6.000 euro per week voor een begunstigde die behoort tot het GVS.<br>
+<br>
+De financiële bijdrage vanuit het FIVA voor een stilligvergoeding bedraagt maximaal 25% van de bedragen, vermeld in het eerste lid, en is begrensd op een totaalbedrag van 250.000 euro.
+
+### ART 19/3.
+
+De begunstigde vraagt de stilligvergoeding aan per week.<br>
+<br>
+Een week als vermeld in het eerste lid, bestaat uit minimaal één ononderbroken periode van zeven dagen.<br>
+<br>
+De begunstigde kan de startdag van de periode, vermeld in het tweede lid, vrij kiezen.<br>
+<br>
+De periode, vermeld in het tweede lid, neemt een aanvang om 00.00 uur van de eerste dag en eindigt om 23.59 uur van de zevende dag.<br>
+<br>
+De begunstigde kan de stilligvergoeding aanvragen voor een maximum van drie weken.
+
+### ART 19/4.
+
+Een begunstigde komt in aanmerking voor een stilligvergoeding als aan al de volgende voorwaarden is voldaan:<br>
+1° tijdens de periode van tijdelijke stopzetting van visserijactiviteiten oefent de begunstigde geen enkele vaaractiviteit uit;<br>
+2° de begunstigde kiest als startdag van de periode als vermeld in artikel 19/3, derde lid, van dit besluit, een dag die valt in de week voorzien in het rotatieschema, vermeld in artikel 19/6 van dit besluit;<br>
+3° de begunstigde vraagt de stilligvergoeding aan bij de managementautoriteit met een formulier dat de managementautoriteit ter beschikking stelt;<br>
+4° de begunstigde verstuurt met de post of via e-mail het aanvraagformulier, vermeld in punt 3°, uiterlijk op 30 september 2020 naar de managementautoriteit;<br>
+5° de begunstigde heeft minimaal 120 dagen visserijactiviteiten op zee verricht in de twee kalenderjaren vóór de datum van de indiening van de steunaanvraag. Als de begunstigde nog geen twee kalenderjaren actief is op het moment van de aanvraag, worden de voormelde 120 dagen a rato verminderd volgens artikel 33, lid 3bis, van de EFMZV-verordening;
+
+### ART 19/5.
+
+De managementautoriteit controleert de tijdelijke stopzetting van visserijactiviteiten aan de hand van de VMS-satellietgegevens.<br>
+<br>
+Het VMS van de begunstigde is continu geactiveerd tijdens de volledige stilligperiode waarvoor steun wordt aangevraagd.<br>
+<br>
+Als er in de stilligperiode van zeven dagen een onderbreking wordt vastgesteld in de VMS-satellietgegevens, wordt er geen stilligvergoeding uitbetaald voor die periode, tenzij de begunstigde een voldoende gewichtige externe oorzaak kan aantonen. De managementautoriteit onderzoekt en beoordeelt elke ingeroepen oorzaak.<br>
+<br>
+De managementautoriteit kan altijd bijkomende bewijsstukken opvragen bij de betrokken begunstigde.<br>
+<br>
+Als onregelmatigheden worden vastgesteld, wordt er geen stilligvergoeding toegekend voor de week waarin de onregelmatigheid is vastgesteld.
+
+### ART 19/6.
+
+§ 1. Voor de organisatie van de opstart van een stilligvergoeding stelt de erkende producentenorganisatie, Rederscentrale CVBA, een ontwerp van rotatieschema op.<br>
+<br>
+Het rotatieschema, vermeld in het eerste lid, voldoet aan al de volgende voorwaarden:<br>
+1° maximaal 40% van de totale vloot kan op hetzelfde moment stilliggen;<br>
+2° per veilweek wordt een inschatting gemaakt van het aantal begunstigden die het voornemen hebben om stil te liggen.<br>
+<br>
+§ 2. De erkende producentenorganisatie, Rederscentrale CVBA, legt het rotatieschema, vermeld in paragraaf 1, binnen een week na de bekendmaking van het besluit van de Vlaamse Regering van 15 mei 2020 tot wijziging van het besluit van de Vlaamse Regering van 5 februari 2016 houdende vaststelling van de werking en het beheer van het Financieringsinstrument voor de Vlaamse visserij- en aquacultuursector (FIVA) en de verrichtingen die voor steun in aanmerking komen in het Belgisch Staatsblad ter goedkeuring voor aan de minister.
+
+### ART 19/7.
+
+Voor de periode waarin de begunstigden vrijwillig tijdelijk stilliggen, hoeven er geen vaartdagen te worden ingeruild.
+
+### ART 19/8.
+
+De minister kan de regels over de procedure, de inhoud, de voorwaarden, de vorm van de stilligging, de indiening van de aanvraag, het onderzoek van de aanvraag, de toekenning en de uitbetaling van de stilligvergoeding, de controle en het toezicht, vermeld in dit besluit, nader bepalen.
 
 ## HOOFDSTUK 3 FIVA-middelen
 
