@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033150,
+  "title": "Besluit van de Vlaamse Regering van 2020-05-29 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006 en het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet, wat betreft de invoering van het corona ouderschapsverlof",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033150/VolledigDocument?datum=2020-05-01",
+  "source_sha256": "26deda505456b13fc3758a7386d3e7fe458e2f6c4934201fdc8638b666bfc18e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033150&param=informatie",
+  "as_of": "2020-05-01",
+  "made": "2020-05-29",
+  "gazette": "2020-06-11",
+  "numac": 2020021250,
+  "document_start": "2020-05-01",
+  "document_end": null,
+  "in_force": "2020-05-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2020-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
