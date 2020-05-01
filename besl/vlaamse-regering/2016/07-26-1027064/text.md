@@ -169,6 +169,16 @@ Een tijdelijk personeelslid als vermeld in artikel 2, eerste lid, 2°, 3°, 4°,
 
 ## [Afdeling 3 Omzetting naar corona-ouderschapsverlof (ing. BVR 29 mei 2020, art. 3, I: 1 mei 2020)]
 
+### ART 10/1.
+
+Als een personeelslid een lopend zorgkrediet omzet naar corona-ouderschapsverlof, wordt de lopende onderbrekingsuitkering gedurende de opname van het corona-ouderschapsverlof geschorst. De periode van schorsing wordt niet aangerekend op de termijnen, vermeld in artikel 8, eerste lid.<br>
+<br>
+Als de lopende onderbrekingsuitkering een voorziene duur heeft tot na de einddatum van het corona-ouderschapsverlof, wordt de onderbrekingsuitkering vanaf de dag na het corona-ouderschapsverlof hernomen tot en met de oorspronkelijk aangevraagde einddatum.<br>
+<br>
+Het personeelslid kan de resterende duur van het omgezette zorgkrediet op een later moment opnemen. In afwijking van artikel 9, eerste lid, is dit ook mogelijk als de resterende periode minder dan drie maanden bedraagt.<br>
+<br>
+In dit artikel wordt verstaan onder corona-ouderschapsverlof: het corona-ouderschapsverlof, vermeld in artikel X 97 van het Vlaams personeelsstatuut van 13 januari 2006.
+
 ## HOOFDSTUK 4 Onderbrekingsuitkeringen
 
 ### ART 11.
