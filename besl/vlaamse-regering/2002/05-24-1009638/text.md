@@ -112,6 +112,56 @@ Aan de voorwaarde van de twaalfde of de eenentwintigste verjaardag moet zijn vol
 
 ## [SUBAFDELING 3/1 - LOOPBAANONDERBREKING VOOR CORONA-OUDERSCHAPSVERLOF (ing. BVR 17 juli 2020, art. 6, I: 1 mei 2020 )]
 
+### ART 14/1.
+
+Tijdens de periode die loopt van 1 mei 2020 tot en met 30 juni 2020 kan een personeelslid corona-ouderschapsverlof opnemen om voor zijn kind te zorgen. Het personeelslid kan :<br>
+1° ofwel zijn loopbaan gedeeltelijk onderbreken tot een halftijdse betrekking, op voorwaarde dat het personeelslid belast is met een of meer betrekkingen die samen ten minste 75% van het aantal prestatie-eenheden omvatten die vereist zijn voor een ambt met volledige prestaties;<br>
+2° ofwel zijn loopbaan gedeeltelijk onderbreken door hun prestaties te verminderen met een vijfde, op voorwaarde dat het personeelslid een ambt met volledige prestaties uitoefent.<br>
+<br>
+In afwijking van het eerste lid kunnen nieuwe aanvragen voor corona-ouderschapsverlof ingaan vanaf 11 mei 2020.<br>
+<br>
+Het corona-ouderschapsverlof kan enkel worden opgenomen met akkoord van het hogeschoolbestuur.
+
+### ART 14/2.
+
+Het corona-ouderschapsverlof kan worden genomen:<br>
+1° naar aanleiding van de geboorte van zijn kind tot het kind twaalf jaar wordt;<br>
+2° naar aanleiding van de adoptie van zijn kind, gedurende een periode die loopt vanaf de inschrijving van het kind als deel uitmakend van zijn gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het personeelslid zijn verblijfplaats heeft, en dit uiterlijk tot het kind twaalf jaar wordt.<br>
+3° door een pleegouder aangesteld als pleegouder door de rechtbank of door een door de gemeenschap erkende dienst, en dit uiterlijk tot het kind twaalf jaar wordt.<br>
+<br>
+De leeftijdsgrens wordt vastgesteld op 21 jaar als het kind een gehandicapt kind is.<br>
+<br>
+In afwijking van het vorige lid, is er geen leeftijdsgrens als een kind of volwassene met een handicap opgevangen wordt door zijn ouders indien hij geniet van een intramurale of extramurale dienstverlening of behandeling georganiseerd of erkend door de Gemeenschappen.
+
+### ART 14/3.
+
+De opname van het corona ouderschapsverlof gebeurt met een periode van één week, een veelvoud daarvan of een kalendermaand.
+
+### ART 14/4.
+
+§ 1. Een personeelslid dat conform subafdeling 2, 3 of 4 van dit besluit of conform hoofdstuk 3, afdeling 3 van het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet zijn loopbaan gedeeltelijk onderbreekt tot een halftijdse betrekking of zijn loopbaan gedeeltelijk onderbreekt door zijn prestaties te verminderen met een vijfde, kan, met akkoord van zijn hogeschoolbestuur, die loopbaanonderbreking of dat zorgkrediet omzetten in het corona-ouderschapsverlof.<br>
+<br>
+Als de loopbaanonderbreking of dat zorgkrediet een voorziene duurtijd heeft die langer is dan die van het corona-ouderschapsverlof, dan wordt de loopbaanonderbreking of het zorgkrediet onmiddellijk na afloop van het corona-ouderschapsverlof hernomen tot de oorspronkelijk aangevraagde einddatum.<br>
+<br>
+§ 2. Een personeelslid dat conform subafdeling 2, 3 of 4 van dit besluit of conform hoofdstuk 3, afdeling 3 van het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet zijn loopbaan volledig onderbreekt of zijn loopbaan gedeeltelijk onderbreekt tot een halftijdse betrekking of zijn loopbaan gedeeltelijk onderbreekt door zijn prestaties te verminderen met een vijfde, kan, met akkoord van zijn hogeschoolbestuur, die loopbaanonderbreking of dat zorgkrediet schorsen met het oog op het opnemen van het corona-ouderschapsverlof.<br>
+<br>
+Als de loopbaanonderbreking of het zorgkrediet een voorziene duurtijd heeft die langer is dan die van het corona-ouderschapsverlof, dan wordt de loopbaanonderbreking of het zorgkrediet onmiddellijk na afloop van het corona-ouderschapsverlof hernomen tot de oorspronkelijk aangevraagde einddatum.<br>
+<br>
+§ 3. De periode waarin de loopbaanonderbreking wordt omgezet in een corona-ouderschapsverlof volgens de paragrafen 1 of 2, wordt niet aangerekend voor de maximale duur van de loopbaanonderbreking.
+
+### ART 14/5.
+
+§ 1. Het personeelslid dat gebruik wenst te maken van het corona-ouderschapsverlof, doet een aanvraag bij zijn hogeschoolbestuur overeenkomstig de volgende bepalingen:<br>
+1° het personeelslid brengt ten minste drie werkdagen op voorhand zijn hogeschoolbestuur hiervan schriftelijk op de hoogte;<br>
+2° de kennisgeving gebeurt door middel van een aangetekend schrijven of de overhandiging van het in 1° van deze paragraaf bedoelde geschrift waarvan het duplicaat voor ontvangst wordt ondertekend door het hogeschoolbestuur, hetzij op elektronische wijze mits ontvangstbevestiging van het bericht door het hogeschoolbestuur;<br>
+3° het in 1° van deze paragraaf bedoelde geschrift vermeldt de begin- en einddatum van het ouderschapsverlof.<br>
+<br>
+§ 2. Het hogeschoolbestuur geeft het personeelslid schriftelijk zijn akkoord binnen een termijn van maximaal drie werkdagen na aanvraag en in ieder geval ten laatste voor de aanvang van het corona-ouderschapsverlof. Het geeft binnen dezelfde termijn zijn akkoord met, naar gelang het geval, de omzetting van de loopbaanonderbreking in corona-ouderschapsverlof of met de schorsing van de loopbaanonderbreking in toepassing van artikel 14/4.<br>
+<br>
+§ 3. De onderbrekingsuitkering wordt aangevraagd met toepassing van de ter zake geldende federale regels.<br>
+<br>
+De omzetting van de loopbaanonderbreking en de schorsing van de loopbaanonderbreking, zoals voorzien in artikel 14/4, worden schriftelijk meegedeeld aan de Rijksdienst voor Arbeidsvoorziening.
+
 ## SUBAFDELING 4 LOOPBAANONDERBREKING VOOR DE VERZORGING VAN EEN ZIEK GEZINSLID OF ZIEK FAMILIELID
 
 ### ART. 15.
