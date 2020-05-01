@@ -37,7 +37,11 @@ In dit besluit wordt verstaan onder :<br>
 3° /2 conformiteitsonderzoek: het onderzoek als vermeld in artikel 3 van het Kwaliteitsbesluit van 12 juli 2013;<br>
 4° domiciliemaatschappij : een sociale huisvestingsmaatschappij waarvan het werkgebied zich uitstrekt tot de woonplaats van de kandidaat-huurder of, als zijn woonplaats in Herstappe ligt, een sociale huisvestingsmaatschappij met een werkgebied waarin een aangrenzende of de meest nabije Vlaamse gemeente ligt;<br>
 5° Huursubsidiebesluit : het besluit van de Vlaamse Regering van 2 februari 2007 tot instelling van een tegemoetkoming in de huurprijs voor woonbehoeftige huurders;<br>
-6° inkomen : het inkomen van de kandidaat-huurder dat vastgesteld wordt overeenkomstig het Socialehuurbesluit;<br>
+6° inkomen: de som van de volgende inkomsten, die ontvangen zijn in het jaar waarop het laatst beschikbare aanslagbiljet betrekking heeft:<br>
+a) het gezamenlijk belastbaar inkomen en de afzonderlijke belastbare inkomsten;<br>
+b) het leefloon;<br>
+c) de inkomensvervangende tegemoetkoming aan personen met een handicap;<br>
+d) de van belasting vrijgestelde beroepsinkomsten uit het buitenland of verworven bij een Europese of internationale instelling;<br>
 7° inschrijvingsregister : het register van een sociale huisvestingsmaatschappij waarin personen overeenkomstig het Kaderbesluit Sociale Huur van 12 oktober 2007 ingeschreven worden als kandidaat-huurder volgens de orde van de indiening van de aanvraag tot inschrijving;<br>
 8° ...;<br>
 9° kandidaat-huurder : de kandidaat-huurder die overeenkomstig het Kaderbesluit Sociale Huur van 12 oktober 2007 als referentiehuurder ingeschreven is in het inschrijvingsregister;<br>
@@ -45,9 +49,13 @@ In dit besluit wordt verstaan onder :<br>
 9° /2 onbewoonbaar verklaarde woning: de woning die hetzij met toepassing van artikel 15, § 1, of artikel 16bis, eerste lid, van de Vlaamse Wooncode, hetzij met toepassing van artikel 135 van de Nieuwe Gemeentewet onbewoonbaar is verklaard;<br>
 9° /3 ongeschikt verklaarde woning: de woning die met toepassing van artikel 15, § 1, of artikel 16bis, eerste lid, van de Vlaamse Wooncode ongeschikt is verklaard;<br>
 9° /4 overbewoond verklaarde woning: de woning die overeenkomstig artikel 17 van de Vlaamse Wooncode overbewoond is verklaard;<br>
+9° /5 persoon ten laste:<br>
+a) het kind dat bij de kandidaat-huurder gedomicilieerd is en dat minderjarig is of voor wie kinderbijslag of wezenbijslag wordt uitbetaald;<br>
+b) het kind van de kandidaat-huurder dat niet gedomicilieerd is bij hem, maar op regelmatige basis bij hem verblijft en dat minderjarig is of voor wie kinderbijslag wordt uitbetaald;<br>
+c) de persoon die beschouwd wordt als ernstig gehandicapt of die op het ogenblik waarop hij met pensioen ging, beschouwd werd als ernstig gehandicapt;<br>
 10° potentieel rechthebbende : de kandidaat-huurder die op basis van de gegevens waarover het agentschap of de sociale huisvestingsmaatschappij beschikt, op korte termijn blijkt te kunnen voldoen aan de voorwaarden, vermeld in dit besluit;<br>
 11° rechthebbende : de kandidaat-huurder die minstens vier jaar ingeschreven is in het inschrijvingsregister en die voldoet aan de voorwaarden, vermeld in dit besluit;<br>
-12° referentiebestand: het uittreksel uit het actualisatiebestand dat alle kandidaat-huurders bevat van wie het inkomen, rekening houdende met het aantal personen ten laste conform het Kaderbesluit Sociale Huur van 12 oktober 2007, de grenzen vermeld in artikel 3, §&nbsp;3 van het Kaderbesluit Sociale Huur van 12 oktober 2007, niet overschrijdt;<br>
+12° referentiebestand: het uittreksel uit het actualisatiebestand dat alle kandidaat-huurders bevat van wie het inkomen, rekening houdende met het aantal personen ten laste conform het Kaderbesluit Sociale Huur van 12 oktober 2007, de grenzen vermeld in artikel 3, § 2 van het Kaderbesluit Sociale Huur van 12 oktober 2007, niet overschrijdt;<br>
 13° Kaderbesluit Sociale Huur van 12 oktober 2007: het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociaal huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode;<br>
 14° sociale huisvestingsmaatschappij : een sociale huisvestingsmaatschappij als vermeld in artikel 2, § 1, eerste lid, 20°, van de Vlaamse Wooncode;<br>
 15° startdatum: de jongste van de volgende data waarop het recht op tegemoetkoming ontstaat:<br>
@@ -60,7 +68,16 @@ d) de eerste dag van de maand waarin de kandidaat-huurder een andere woning huur
 18° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30 van de Vlaamse Wooncode.<br>
 <br>
 De VMSW bezorgt het agentschap een lijst waarop per gemeente de sociale huisvestingsmaatschappij of -maatschappijen vermeld zijn, die voor de kandidaat-huurder als domiciliemaatschappij kunnen beschouwd worden. Die lijst wordt bij elke wijziging van een werkgebied geactualiseerd.<br>
-&nbsp;
+<br>
+Het aanslagbiljet, vermeld in het eerste lid, 6°, moet betrekking hebben op de inkomsten van maximaal drie jaar voorafgaand aan de aanvraagdatum, of in het geval van een herberekening conform artikel 7, § 2, maximaal drie jaar voorafgaand de datum waarop de tegemoetkoming wordt herberekend. Het aanslagbiljet mag niet dateren van na de datum waarop het agentschap de beslissing tot het verlenen of weigeren van de tegemoetkoming aan de huurder meedeelt, vermeld in artikel 6, § 1, derde lid.<br>
+<br>
+Voor de bepaling van het gezamenlijk belastbaar inkomen, vermeld in het eerste lid, 6°, wordt rekening gehouden met de reële eigen beroepsinkomsten.<br>
+<br>
+Het inkomen, vermeld in het eerste lid, 6°, wordt geïndexeerd volgens de gezondheidsindex van de maand juni van het jaar dat aan de toepassing ervan voorafgaat, met als basis de maand juni van het jaar waarop het inkomen betrekking heeft.<br>
+<br>
+Om als persoon ten laste als vermeld in het eerste lid, 9° /5°, c), te worden beschouwd, gelden dezelfde voorwaarden als de voorwaarden die bepaald zijn ter uitvoering van artikel 1, eerste lid, 19°, c), van het Kaderbesluit Sociale Huur van 12 oktober 2007.<br>
+<br>
+Als een persoon zowel beantwoordt aan de definitie van persoon ten laste, vermeld in het eerste lid, 9° /5°, a) of b), als aan de definitie van persoon ten laste, vermeld in het eerste lid, 9° /5°, c), telt die persoon voor twee personen ten laste.
 
 ## HOOFDSTUK 2 De tegemoetkoming voor kandidaat-huurders
 
@@ -78,9 +95,9 @@ Het agentschap gaat uitsluitend op basis van de gegevens van bewoning vermeld in
 Als de kandidaat-huurder behoort tot een gezin met meer dan een referentiehuurder als vermeld in het Kaderbesluit Sociale Huur van 12 oktober 2007, wordt de tegemoetkoming verleend aan de persoon die als begunstigde wordt opgegeven op het invulformulier, vermeld in artikel 5.<br>
 <br>
 In afwijking van het eerste lid wordt de tegemoetkoming niet verleend :<br>
-1° als de woning van de kandidaat-huurder een sociale huurwoning is als vermeld in artikel 2, § 1, eerste lid, 22°, a) of c), van de Vlaamse Wooncode;<br>
+1° als de woning van de kandidaat-huurder een sociale huurwoning is als vermeld in artikel 2, § 1, eerste lid, 22°, a), b)&nbsp;of c), van de Vlaamse Wooncode;<br>
 2° als de woning van de kandidaat-huurder verhuurd wordt door een familielid tot en met de tweede graad dat op hetzelfde adres woont;<br>
-3° als het inkomen van de kandidaat-huurder, waarmee overeenkomstig het Socialehuurbesluit rekening gehouden is bij de jongste actualisatie, hoger is dan het maximumbedrag dat geldt voor de toepassing van het Huursubsidiebesluit, rekening houdend met het aantal personen ten laste overeenkomstig het Socialehuurbesluit;<br>
+3° als het inkomen van de kandidaat-huurder, vermeerderd met het inkomen van de inwonende gezinsleden en rekening houdende met het aantal personen ten laste, de grenzen vermeld in artikel 3, §&nbsp;3 van het Kaderbesluit Sociale Huur van 12 oktober 2007, overschrijdt;<br>
 4° als de huurprijs meer bedraagt dan de maximale huurprijs, vermeld in artikel 4, § 1, tweede en derde lid in voorkomend geval verhoogd conform artikel 4, § 1, vierde lid en aangepast conform artikel 4, § 1, vijfde lid, van het Huursubsidiebesluit;<br>
 5° als er voor de kandidaat-huurder al een tegemoetkoming verleend is met toepassing van dit besluit, die stopgezet werd met toepassing van artikel 9, eerste lid, 1° tot en met 5°.<br>
 <br>
@@ -191,8 +208,6 @@ De domiciliemaatschappij waarbij de rechthebbende ingeschreven is, kan binnen ee
 ### ART. 7.
 
 § 1. De tegemoetkoming bedraagt 75% van de maximale huurprijs, vermeld in artikel 4, § 1, tweede en derde lid, in voorkomend geval verhoogd conform artikel 4, § 1, vierde lid en aangepast conform artikel 4, § 1, vijfde lid van het Huursubsidiebesluit, verminderd met 1/55 van het inkomen van de kandidaat-huurder. De tegemoetkoming bedraagt maximaal 150 euro, te verhogen met 25 euro per persoon ten laste, tot en met de vierde persoon ten laste.<br>
-<br>
-Om het inkomen en de personen ten laste van de kandidaat-huurder vermeld in het eerste lid te bepalen, wordt rekening gehouden met het inkomen van de kandidaat-huurder en de personen ten laste van de kandidaat-huurder, waarmee overeenkomstig het Kaderbesluit Sociale Huur van 12 oktober 2007 rekening gehouden is bij de jongste actualisatie.<br>
 <br>
 De bedragen van 150 euro en 25 euro, vermeld in het eerste lid, worden verhoogd met 10% als de woning op het grondgebied ligt van een van de gemeenten, vermeld in artikel 4, § 1, vierde lid van het Huursubsidiebesluit.<br>
 <br>
