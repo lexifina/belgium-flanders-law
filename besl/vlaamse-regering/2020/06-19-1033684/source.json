@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033684,
+  "title": "Besluit van de Vlaamse Regering van 2020-06-19 tot goedkeuring van de wijziging van het organiek reglement tot vaststelling van de regeling inzake het personeel van de Sociaal-Economische Raad van Vlaanderen en van de personeelsformatie, wat betreft de invoering van het corona-ouderschapsverlof",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033684/VolledigDocument?datum=2020-05-01",
+  "source_sha256": "ce9c6807c66dd88d650c41842c8b06c22ee14101497b236abad1e97dc2aacb97",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033684&param=informatie",
+  "as_of": "2020-05-01",
+  "made": "2020-06-19",
+  "gazette": "2020-10-07",
+  "numac": 2020015734,
+  "document_start": "2020-05-01",
+  "document_end": null,
+  "in_force": "2020-05-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
