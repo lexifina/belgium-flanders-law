@@ -117,7 +117,7 @@ Het ziekteverlof, het bevallingsverlof, de afwezigheid wegens arbeidsongeval, we
 
 ### ART 6.
 
-Het zorgkrediet moet worden opgenomen overeenkomstig de bepalingen van hoofdstuk 3, afdeling 2 van het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet.<br>
+Het zorgkrediet moet worden opgenomen overeenkomstig de bepalingen van hoofdstuk 3, afdeling 2 en afdeling 3 van het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet.<br>
 <br>
 Met behoud van de toepassing van artikel 9, vierde lid van het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet, kan het personeelslid zelf beslissen om zijn zorgkrediet stop te zetten vooraleer de termijn van zes maanden is verstreken.<br>
 &nbsp;
