@@ -41,18 +41,6 @@ Aan artikel 2 van hetzelfde besluit wordt punt 4° toegevoegd, dat luidt als vol
 <br>
 "4° de werkzoekende kan aantonen dat zijn wijk-werkovereenkomst geschorst werd ten gevolge van de coronavirusmaatregelen of stopgezet werd tijdens de periode waarin de coronavirusmaatregelen golden. In deze gevallen kan de werkzoekende opnieuw toegeleid worden voor een maximale duurtijd van drie maanden.".
 
-### ART 3.
-
-In hetzelfde besluit wordt een artikel 13bis ingevoegd, dat luidt als volgt:<br>
-<br>
-"Tijdens de coronavirusmaatregelen ontvangt de wijk-werker die in de maand waarop de vergoeding betrekking heeft gewoonlijk ook in de mogelijkheid was om wijk-werkprestaties te verrichten, een vergoeding.<br>
-<br>
-De vergoeding bedraagt 70% van een gemiddelde vergoeding, vermeld in artikel 13. Dit gemiddelde is gebaseerd op de prestaties, vermeld in artikel 24 tweede lid, die de wijk-werker leverde in de maanden augustus 2019 tot en met januari 2020.<br>
-<br>
-De vergoeding is gelijkgesteld aan de vergoeding verkregen voor de prestaties geleverd in het kader van wijk-werken als vermeld in artikel 34 van het decreet van 7 juli 2017 betreffende wijk-werken en diverse bepalingen in het kader van de zesde staatshervorming.<br>
-<br>
-De vergoeding wordt maandelijks uitgekeerd. De vergoeding wordt toegekend voor de initiële duurtijd, vermeld in artikel 9, eerste lid. Deze periode wordt, indien zij ten einde loopt na 24 april 2020, beperkt tot en met 24 april 2020.".
-
 ### ART 4.
 
 Aan artikel 37 van hetzelfde besluit worden een tweede en derde lid toegevoegd, die luiden als volgt:<br>
