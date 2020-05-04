@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032888,
+  "title": "Besluit van de Vlaamse Regering van 2020-01-24 tot erkenning van de beroepskwalificatie syndicus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032888/VolledigDocument?datum=2020-05-04",
+  "source_sha256": "2ab9f25e2a2a9a8458abceb02237127b9dd6a082d4980d829699c4f9e875e52b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032888&param=informatie",
+  "as_of": "2020-05-04",
+  "made": "2020-01-24",
+  "gazette": "2020-04-24",
+  "numac": 2020030216,
+  "document_start": "2020-05-04",
+  "document_end": null,
+  "in_force": "2020-05-04",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-05-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
