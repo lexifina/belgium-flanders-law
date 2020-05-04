@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032883,
+  "title": "Besluit van de Vlaamse Regering van 2020-01-24 tot erkenning van de beroepskwalificatie vastgoedbemiddelaar overnames",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032883/VolledigDocument?datum=2020-05-04",
+  "source_sha256": "a989be5e2264c66c167a024a0d5c20c45787517d199a40a4bf30c16fb7a7243e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032883&param=informatie",
+  "as_of": "2020-05-04",
+  "made": "2020-01-24",
+  "gazette": "2020-04-24",
+  "numac": 2020020499,
+  "document_start": "2020-05-04",
+  "document_end": null,
+  "in_force": "2020-05-04",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-05-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
