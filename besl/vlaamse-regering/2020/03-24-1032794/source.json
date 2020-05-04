@@ -2,16 +2,16 @@
   "codex_id": 1032794,
   "title": "Besluit van de Vlaamse Regering van 2020-03-24 tot bestrijding van de negatieve gevolgen van het COVID-19 virus voor de gezinnen en de organisatoren in de kinderopvang",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032794/VolledigDocument?datum=2020-03-14",
-  "source_sha256": "7316469c6dd89eea54e8433ceeb2f30fabd7f7e5de9e9e77fb7b4388489da3f7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032794/VolledigDocument?datum=2020-05-04",
+  "source_sha256": "00079beaca014803cca681fa81aca4054afd78dbbcf053f06349508eb41d3da0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032794&param=informatie",
-  "as_of": "2020-03-14",
+  "as_of": "2020-05-04",
   "made": "2020-03-24",
   "gazette": "2020-03-31",
   "numac": 2020040934,
   "document_start": "2020-03-14",
   "document_end": null,
-  "in_force": "2020-03-14",
+  "in_force": "2020-05-04",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2020-03-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-05-04; future article versions excluded; article text as the API gives it"
 }

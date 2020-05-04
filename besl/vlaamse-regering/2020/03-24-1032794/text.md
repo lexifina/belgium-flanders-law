@@ -38,14 +38,14 @@ In dit besluit wordt verstaan onder:<br>
 1° agentschap: het intern verzelfstandigd agentschap, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 2° afwezigheidsdag: de opvangdag die besteld is door het gezin in het opvangplan in de schriftelijke overeenkomst tussen de organisator en het gezin, en waarop het kind afwezig is of waarop de opvang gesloten is door overmacht, in de periode dat de coronamaatregelen gelden;<br>
 3° basissubsidie: de basissubsidie, vermeld in artikel 1, 1° van het Subsidiebesluit van 22 november 2013;<br>
-4° coronamaatregelen: de maatregelen opgenomen in het ministerieel besluit van 13 maart 2020 en 18 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken;<br>
+4° coronamaatregelen: de maatregelen opgenomen in het ministerieel besluit van 23 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken;<br>
 5° decreet van 20 april 2012: het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
 6° gezinsopvang: de kinderopvang met vergunning voor gezinsopvang, vermeld in artikel 4, 1° van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
 7° groepsopvang: de kinderopvang met vergunning voor groepsopvang, vermeld in artikel 4, 2° van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters.<br>
 8° kinderopvang: de kinderopvang, vermeld in artikel 2 van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
 9° kwetsbare thuissituatie: de situatie in de thuisomgeving van het kind die van die aard is dat het voor de kinderen om sociale of pedagogische redenen wenselijk is dat ze overdag opgevangen worden in de kinderopvang;<br>
-10° ministerieel besluit van 18 maart 2020: het ministerieel besluit van 18 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken;<br>
-11° ondernemingen van cruciale sectoren en essentiële diensten: de ondernemingen van cruciale sectoren en essentiële diensten, zoals vermeld in artikel 3 en opgenomen in de bijlage van het ministerieel besluit van 18 maart 2020;<br>
+10° ministerieel besluit van 23 maart 2020: het ministerieel besluit van 23 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken;<br>
+11° ondernemingen van cruciale sectoren en essentiële diensten: de ondernemingen van cruciale sectoren en essentiële diensten, zoals vermeld in artikel 3 en opgenomen in de bijlage van het ministerieel besluit van 23 maart 2020;<br>
 12° subsidie voor inkomenstarief: de subsidie voor inkomenstarief, vermeld in artikel 1, 17° van het Subsidiebesluit van 22 november 2013.
 
 ### ART 2.
@@ -75,7 +75,11 @@ Het agentschap kan de subsidie alleen toekennen als de organisator vanaf de eers
 &nbsp;§ 1. De organisator kan voor de kinderopvangplaatsen waarvoor hij niet moet voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, bij het agentschap een subsidie aanvragen voor de afwezigheidsdagen.<br>
 <br>
 De organisator voldoet hiervoor aan de volgende voorwaarden:<br>
-1° de organisator is beschikbaar om de dienstverlening verder te zetten voor de gezinnen die hier nood aan hebben omdat minstens één van de ouders werkzaam is bij een onderneming van cruciale sectoren en essentiële diensten, en voor kinderen in een kwetsbare thuissituatie. Deze voorwaarde is niet van toepassing indien de organisator kan aantonen dat hij door overmacht de dienstverlening niet kan verderzetten en moet sluiten;<br>
+1° de organisator is beschikbaar om de dienstverlening verder te zetten :<br>
+a) voor de kinderen van gezinnen die hier nood aan hebben omdat minstens één van de ouders werkzaam is bij een onderneming van cruciale sectoren en essentiële diensten en voor de kinderen in een kwetsbare thuissituatie;<br>
+b) vanaf 4 mei 2020 bijkomend voor de kinderen van gezinnen die hier nood aan hebben omdat beide ouders aan het werk zijn en minstens één van hen hierbij geen telethuiswerk kan toepassen, voor kinderen van een alleenstaande werkende ouder, ongeacht of die telethuiswerk kan toepassen en voor kinderen van gezinnen die hier nood aan hebben en waarvoor geen andere opvangmogelijkheid is;<br>
+c) vanaf 18 mei voor de kinderen van alle gezinnen die hier nood aan hebben waarbij het moment van de herstart van een kind in overleg met het gezin bepaald wordt.<br>
+Deze voorwaarde is niet van toepassing als de organisator kan aantonen dat hij door overmacht de dienstverlening niet kan verderzetten en moet sluiten.;<br>
 2° de organisator past zijn dienstverlening, wat openingsuren en -dagen betreft, zo maximaal mogelijk aan op basis van de behoeften van de gezinnen die hier nood aan hebben omdat ze werkzaam zijn bij ondernemingen van cruciale sectoren en essentiële diensten, en doet desgevraagd inspanningen om beschikbare medewerkers ruimer in te zetten dan het huidige opvangaanbod.<br>
 3° de organisator betaalt correcte lonen of vergoedingen voor de medewerkers in de periode dat de coronamaatregelen gelden, waardoor die medewerkers in staat zijn een gezonde en toekomstgerichte sociaalrechtelijke situatie uit te bouwen in de kinderopvanglocatie;<br>
 4° de organisator voldoet aan artikel 3;<br>
@@ -87,7 +91,7 @@ De subsidie bedraagt:<br>
 <br>
 De organisator ontvangt de volledige subsidie, vermeld in het derde lid, voor een afwezigheidsdag op een gereserveerde opvangdag die vijf uur of meer duurt, 60% van dat bedrag voor een opvangdag die minder dan vijf uur en minstens drie uur duurt en 40% voor een opvangdag die minder dan drie uur duurt.<br>
 <br>
-§ 2. De aanvraag voor deze subsidie wordt uiterlijk 6 maanden na het aflopen van de coronamaatregelen volgens de richtlijnen van het agentschap en ingediend met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
+§ 2. De aanvraag voor deze subsidie wordt uiterlijk 1 oktober 2020 gedaan volgens de richtlijnen van het agentschap en ingediend met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
 1° identificatiegegevens;<br>
 2° het aantal en de duur van de afwezigheidsdagen;<br>
 3° verklaring op erewoord over het feit dat:<br>
@@ -104,7 +108,11 @@ In afwijking van het eerste lid, zal het agentschap de subsidie betalen uiterlij
 § 1. De organisator die groepsopvang met samenwerkende onthaalouders in het sociaal statuut van de aangesloten onthaalouders of gezinsopvang organiseert en die de subsidie voor inkomenstarief ontvangt van het agentschap, ontvangt als compensatie voor de afwezigheidsdagen op de kinderopvangplaatsen waar men voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, een subsidie.<br>
 <br>
 De organisator voldoet hiervoor aan volgende voorwaarden:<br>
-1° de organisator is beschikbaar om de dienstverlening verder te zetten voor de gezinnen die hier nood aan hebben omdat minstens één van de ouders werkzaam is bij ondernemingen van cruciale sectoren en essentiële diensten, zoals vermeld in artikel 3 van het ministerieel besluit van 18 maart 2020, en voor kinderen in een kwetsbare thuissituatie. Deze voorwaarde is niet van toepassing indien de organisator kan aantonen dat hij door overmacht de dienstverlening niet kan verderzetten en moet sluiten;<br>
+1° de organisator is beschikbaar om de dienstverlening verder te zetten :<br>
+a) voor de kinderen van gezinnen die hier nood aan hebben omdat minstens één van de ouders werkzaam is bij een onderneming van cruciale sectoren en essentiële diensten en voor de kinderen in een kwetsbare thuissituatie;<br>
+b) vanaf 4 mei 2020 bijkomend voor de kinderen van gezinnen die hier nood aan hebben omdat beide ouders aan het werk zijn en minstens één van hen hierbij geen telethuiswerk kan toepassen, voor kinderen van een alleenstaande werkende ouder, ongeacht of die telethuiswerk kan toepassen en voor kinderen van gezinnen die hier nood aan hebben en waarvoor geen andere opvangmogelijkheid is;<br>
+c) vanaf 18 mei voor de kinderen van alle gezinnen die hier nood aan hebben waarbij het moment van de herstart van een kind in overleg met het gezin bepaald wordt.<br>
+Deze voorwaarde is niet van toepassing als de organisator kan aantonen dat hij door overmacht de dienstverlening niet kan verderzetten en moet sluiten;<br>
 2° de organisator past zijn dienstverlening, wat openingsuren en -dagen betreft, zo maximaal mogelijk aan op basis van de behoeften van de gezinnen die hier nood aan hebben omdat ze werkzaam zijn bij een onderneming van cruciale sectoren en essentiële diensten, zoals vermeld in artikel 3 van het ministerieel besluit van 18 maart 2020, en doet desgevraagd inspanningen om beschikbare medewerkers ruimer in te zetten dan het huidige opvangaanbod;<br>
 3° de organisator die werkt met kinderbegeleiders in het sociaal statuut van de aangesloten onthaalouders betaalt, in afwijking van artikel 65 van het Subsidiebesluit van 22 november 2013, een kostenvergoeding aan de kinderbegeleider ten belope van 17,50 euro per volledige afwezigheidsdag in de kinderopvanglocatie bij de kinderbegeleider of een herleid bedrag zoals bepaald in artikel 6, § 1, vierde lid;<br>
 4° de organisator voldoet aan artikel 3;<br>
@@ -116,7 +124,7 @@ De subsidie bedraagt:<br>
 <br>
 De organisator ontvangt de volledige subsidie, vermeld in het derde lid, voor een afwezigheidsdag op een gereserveerde opvangdag die vijf uur of meer duurt, 60% van dat bedrag voor een gereserveerde opvangdag die minder dan vijf uur en minstens drie uur duurt en 40% voor een gereserveerde opvangdag die minder dan drie uur duurt.<br>
 <br>
-§ 2. De aanvraag voor deze subsidie wordt uiterlijk 6 maanden na het aflopen van de coronamaatregelen ingediend volgens de richtlijnen van het agentschap en met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
+§ 2. De aanvraag voor deze subsidie wordt uiterlijk 1 oktober 2020 gedaan ingediend volgens de richtlijnen van het agentschap en met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
 1° identificatiegegevens;<br>
 2° het aantal en de duur van de afwezigheidsdagen;<br>
 3° verklaring op erewoord over het feit dat:<br>
@@ -131,7 +139,11 @@ b) de organisator voldoet aan de voorwaarden vermeld in artikel 6 § 1, tweede l
 § 1. De organisator die groepsopvang organiseert en die de subsidie voor inkomenstarief ontvangt van het agentschap, ontvangt als compensatie voor de afwezigheidsdagen op de kinderopvangplaatsen waar men voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, een subsidie.<br>
 <br>
 De organisator voldoet hiervoor aan volgende voorwaarden:<br>
-1° de organisator is beschikbaar om de dienstverlening verder te zetten voor de gezinnen die hier nood aan hebben omdat minstens één van de ouders werkzaam is bij een onderneming van cruciale sectoren en essentiële diensten, en voor kinderen in een kwetsbare thuissituatie. Deze voorwaarde is niet van toepassing indien de organisator kan aantonen dat hij door overmacht de dienstverlening niet kan verderzetten en moet sluiten;<br>
+1° de organisator is beschikbaar om de dienstverlening verder te zetten :<br>
+a) voor de kinderen van gezinnen die hier nood aan hebben omdat minstens één van de ouders werkzaam is bij een onderneming van cruciale sectoren en essentiële diensten en voor de kinderen in een kwetsbare thuissituatie;<br>
+b) vanaf 4 mei 2020 bijkomend voor de kinderen van gezinnen die hier nood aan hebben omdat beide ouders aan het werk zijn en minstens één van hen hierbij geen telethuiswerk kan toepassen, voor kinderen van een alleenstaande werkende ouder, ongeacht of die telethuiswerk kan toepassen en voor kinderen van gezinnen die hier nood aan hebben en waarvoor geen andere opvangmogelijkheid is;<br>
+c) vanaf 18 mei voor de kinderen van alle gezinnen die hier nood aan hebben waarbij het moment van de herstart van een kind in overleg met het gezin bepaald wordt.<br>
+Deze voorwaarde is niet van toepassing als de organisator kan aantonen dat hij door overmacht de dienstverlening niet kan verderzetten en moet sluiten;<br>
 2° de organisator past zijn dienstverlening, wat openingsuren en -dagen betreft, zo maximaal mogelijk aan op basis van de behoeften van de gezinnen die hier nood aan hebben omdat ze werkzaam zijn bij ondernemingen van cruciale sectoren en essentiële diensten, en doet desgevraagd inspanningen om beschikbare medewerkers ruimer in te zetten dan het huidige opvangaanbod;<br>
 3° de organisator betaalt correcte lonen of vergoedingen voor de medewerkers in de periode dat de coronamaatregelen gelden, waardoor die medewerkers in staat zijn een gezonde en toekomstgerichte sociaalrechtelijke situatie uit te bouwen in de kinderopvanglocatie;<br>
 4° de organisator voldoet aan artikel 3;<br>
@@ -141,7 +153,7 @@ De subsidie bedraagt 20 euro per afwezigheidsdag.<br>
 <br>
 De organisator ontvangt de volledige subsidie, vermeld in het derde lid, voor een afwezigheidsdag op een gereserveerde opvangdag die vijf uur of meer duurt, 60% van dat bedrag voor een gereserveerde opvangdag die minder dan vijf uur en minstens drie uur duurt en 40% voor een gereserveerde opvangdag die minder dan drie uur duurt.<br>
 <br>
-§ 2. De aanvraag voor deze subsidie wordt uiterlijk 6 maanden na het aflopen van de coronamaatregelen ingediend volgens de richtlijnen van het agentschap en met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
+§ 2. De aanvraag voor deze subsidie wordt uiterlijk 1 oktober 2020 gedaan ingediend volgens de richtlijnen van het agentschap en met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
 1° identificatiegegevens;<br>
 2° het aantal en de duur van de afwezigheidsdagen;<br>
 3° verklaring op erewoord over het feit dat:<br>
