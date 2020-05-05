@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032960,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-30 tot regeling van bepaalde tijdelijke maatregelen in het beleidsveld energie omwille van de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge COVID-19",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032960/VolledigDocument?datum=2020-05-05",
+  "source_sha256": "f61faa4f56107f156e1a129f371e89708f671a63d56525b0832060551c2ac335",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032960&param=informatie",
+  "as_of": "2020-05-05",
+  "made": "2020-04-30",
+  "gazette": "2020-05-05",
+  "numac": 2020041098,
+  "document_start": "2020-05-05",
+  "document_end": null,
+  "in_force": "2020-05-05",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2020-05-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
