@@ -30,7 +30,29 @@ Voor de toepassing van dit decreet wordt verstaan onder :<BR>1°   bestuursinsta
 
 ### ART. 4.
 
-[§ 1. Het Vlaams Parlement benoemt de Vlaamse ombudsman na een openbare oproep tot kandidaatstelling en op basis van een vergelijkende selectie, voor een termijn van zes jaar. De selectievoorwaarden en de selectieprocedure worden vastgesteld door het Vlaams Parlement. De selectie wordt uitgevoerd door of in opdracht van het Vlaams Parlement.<br /><br />Een persoon kan maximaal gedurende twee termijnen, al dan niet aaneensluitend, het ambt van Vlaams ombudsman bekleden.<br /><br />§ 2. De Vlaamse ombudsman moet aan de volgende voorwaarden voldoen :<br /><br />1° Belg zijn;<br /><br />2° van onberispelijk gedrag zijn;<br /><br />3° de burgerlijke en politieke rechten genieten;<br /><br />4° houder zijn van een diploma dat toegang verleent tot een ambt van niveau A bij de diensten van het Vlaams Parlement;<br /><br />5° drie jaar voor de oproep tot kandidaatstelling geen bij verkiezing verleend openbaar mandaat hebben vervuld. Voor de toepassing van deze bepaling wordt met een bij verkiezing verleend openbaar mandaat gelijkgesteld : het ambt van buiten de gemeenteraad benoemde burgemeester, een mandaat van bestuurder in een instelling van openbaar nut, het ambt van regeringscommissaris, het ambt van gouverneur, adjunct-gouverneur of vice-gouverneur, het ambt van federaal minister,<br /><br />gemeenschaps- of gewestminister, het ambt van staatssecretaris of gewestelijk staatssecretaris of een politiek mandaat bij de Europese Unie;<br /><br />6° ten minste vijf jaar nuttige beroepservaring hebben, hetzij op juridisch, administratief of sociaal gebied, hetzij op een ander gebied dat dienstig is voor de uitoefening van het ambt.<br /><br />§ 3. Bij de eerste benoeming doorloopt de Vlaamse ombudsman een proefperiode van 1 jaar, te rekenen vanaf de dag waarop de betrokkene het ambt effectief opneemt.<br /><br />Uiterlijk vijfenveertig dagen voor het verstrijken van die proefperiode evalueert het Vlaams Parlement de Vlaamse ombudsman. Bij ontstentenis van een evaluatie op dat ogenblik wordt de evaluatie geacht gunstig te zijn.<br /><br />§ 4. Uiterlijk negentig dagen voor het verstrijken van het mandaat evalueert het Vlaams Parlement de Vlaamse ombudsman.<br /><br />Indien de Vlaamse ombudsman gunstig geëvalueerd wordt, wordt zijn mandaat van rechtswege eenmaal verlengd met een nieuwe termijn van zes jaar.<br /><br />Bij ontstentenis van een evaluatie negentig dagen voor het verstrijken van het mandaat, wordt de evaluatie geacht gunstig te zijn.  <span class="reference">(verv. decr. 15 juli 2005, art. 2, I: 19 september 2005)</span>
+§ 1. Het Vlaams Parlement benoemt de Vlaamse ombudsman na een openbare oproep tot kandidaatstelling en op basis van een vergelijkende selectie, voor een termijn van zes jaar. Het Vlaams Parlement of een door het parlement aangewezen parlementair orgaan stelt de selectievoorwaarden en de selectieprocedure vast.&nbsp;De selectie wordt uitgevoerd door of in opdracht van het Vlaams Parlement.<br>
+<br>
+Een persoon kan maximaal gedurende twee termijnen, al dan niet aaneensluitend, het ambt van Vlaams ombudsman bekleden.<br>
+<br>
+§ 2. De Vlaamse ombudsman moet aan de volgende voorwaarden voldoen :<br>
+1° Belg zijn;<br>
+2° van onberispelijk gedrag zijn;<br>
+3° de burgerlijke en politieke rechten genieten;<br>
+4° houder zijn van een diploma dat toegang verleent tot een ambt van klasse III bij de diensten van het Vlaams Parlement;<br>
+5° drie jaar voor de oproep tot kandidaatstelling geen bij verkiezing verleend openbaar mandaat hebben vervuld. Voor de toepassing van deze bepaling wordt met een bij verkiezing verleend openbaar mandaat gelijkgesteld : het ambt van buiten de gemeenteraad benoemde burgemeester, een mandaat van bestuurder in een instelling van openbaar nut, het ambt van regeringscommissaris, het ambt van gouverneur, adjunct-gouverneur of vice-gouverneur, het ambt van federaal minister, gemeenschaps- of gewestminister, het ambt van staatssecretaris of gewestelijk staatssecretaris of een politiek mandaat bij de Europese Unie;<br>
+6° ten minste vijf jaar nuttige beroepservaring hebben, hetzij op juridisch, administratief of sociaal gebied, hetzij op een ander gebied dat dienstig is voor de uitoefening van het ambt.<br>
+<br>
+§ 3. Bij de eerste benoeming doorloopt de Vlaamse ombudsman een proefperiode van 1 jaar, te rekenen vanaf de dag waarop de betrokkene het ambt effectief opneemt.<br>
+<br>
+Uiterlijk vijfenveertig dagen voor het verstrijken van die proefperiode evalueert het Vlaams Parlement of een door het parlement aangewezen parlementair orgaan de Vlaamse ombudsman. Bij ontstentenis van een evaluatie op dat ogenblik wordt de evaluatie geacht gunstig te zijn.<br>
+<br>
+§ 4. Uiterlijk negentig dagen voor het verstrijken van het mandaat evalueert het Vlaams Parlement de Vlaamse ombudsman.<br>
+<br>
+Indien de Vlaamse ombudsman gunstig geëvalueerd wordt, wordt zijn mandaat van rechtswege eenmaal verlengd met een nieuwe termijn van zes jaar.<br>
+<br>
+Bij ontstentenis van een evaluatie negentig dagen voor het verstrijken van het mandaat, wordt de evaluatie geacht gunstig te zijn.<br>
+<br>
+§ 5. Het Vlaams Parlement of een door het parlement aangewezen parlementair orgaan stelt de procedure voor de evaluaties, vermeld in paragraaf 3 en 4, vast.
 
 ### ART. 5.
 
@@ -46,11 +68,30 @@ Voor de toepassing van dit decreet wordt verstaan onder :<BR>1°   bestuursinsta
 
 ### ART. 7.
 
-[Het mandaat van de Vlaamse ombudsman eindigt van rechtswege :<br /><br />1° na een ongunstige evaluatie van de proefperiode, bij het verstrijken van die proefperiode;<br /><br />2° na een ongunstige evaluatie van het mandaat, bij het verstrijken van het mandaat;<br /><br />3° wanneer hij definitief arbeidsongeschikt wordt verklaard ingevolge de toepassing van artikel 11, tweede lid.<br /><br />Het Vlaams Parlement beëindigt het mandaat van de Vlaamse ombudsman :<br /><br />1° op zijn verzoek;<br /><br />2° wanneer hij de regels inzake onverenigbaarheden, zoals bedoeld in artikel 6, niet naleeft;<br /><br />3° wanneer hij niet langer voldoet aan de voorwaarden, bedoeld in artikel 4, § 2, 1° en 3°.<br /><br />Het Vlaams Parlement kan het mandaat van de Vlaamse ombudsman beëindigen :<br /><br />1° mits akkoord van de betrokkene;<br /><br />2° wanneer hij de leeftijd van 65 jaar bereikt;<br /><br />3° om ernstige redenen.  <span class="reference">(verv. decr. 15 juli 2005, art. 5, I : 19 september 2005)</span> ]
+Het mandaat van de Vlaamse ombudsman eindigt van rechtswege :<br>
+1° door kennisgeving van een ongunstige evaluatie van de proefperiode aan de Vlaamse ombudsman;<br>
+2° na een ongunstige evaluatie van het mandaat, bij het verstrijken van het mandaat;<br>
+3° wanneer hij definitief arbeidsongeschikt wordt verklaard ingevolge de toepassing van artikel 11, tweede lid.<br>
+<br>
+Het Vlaams Parlement beëindigt het mandaat van de Vlaamse ombudsman :<br>
+1° op zijn verzoek;<br>
+2° wanneer hij de regels inzake onverenigbaarheden, zoals bedoeld in artikel 6, niet naleeft;<br>
+3° wanneer hij niet langer voldoet aan de voorwaarden, bedoeld in artikel 4, § 2, 1° en 3°.<br>
+<br>
+Het Vlaams Parlement kan het mandaat van de Vlaamse ombudsman beëindigen :<br>
+1° mits akkoord van de betrokkene;<br>
+2° op het moment dat hij de wettelijke pensioenleeftijd van een personeelslid van het Vlaams Parlement bereikt;<br>
+3° om ernstige redenen.<br>
+<br>
+De kennisgeving van de ongunstige evaluatie, vermeld in het eerste lid, 1°, gebeurt met een ter post aangetekende brief en heeft uitwerking op de derde werkdag na de datum van verzending. Onder werkdag wordt elke dag van de week verstaan, behalve zaterdag, zondag en wettelijke en decretale feestdagen. De Vlaamse ombudsman behoudt tot het einde van de proefperiode, vermeld in artikel 47, § 3, eerste lid, de vergoedingen en voordelen vermeld in artikel 11, eerste lid.
 
 ### ART. 7bis.
 
-Bij het openvallen van het ambt van Vlaams ombudsman start het Vlaams Parlement zo spoedig mogelijk de selectieprocedure met het oog op de benoeming van een nieuwe Vlaamse ombudsman.<br /><br />Wanneer het mandaat van de Vlaamse ombudsman verstrijkt, en er is nog geen opvolger benoemd, of de opvolger heeft zijn ambt nog niet effectief opgenomen, dan blijft de Vlaamse ombudsman zijn ambt uitoefenen tot de opvolger zijn ambt effectief opneemt, in voorkomend geval in afwijking van artikel 4, § 1, tweede lid.<br /><br />In de gevallen, bedoeld in artikel 7, of in geval van overlijden van de Vlaamse ombudsman, kan het Vlaams Parlement één van de personeelsleden van de Vlaamse ombudsdienst die beantwoordt aan de voorwaarden, bepaald in artikel 4, § 2, 1°, 2°, 3° en 4°, tot Vlaams ombudsman ad interim aanwijzen, na vergelijking van de titels en de verdiensten van de kandidaten. Die regeling geldt ook ingeval de Vlaamse ombudsman wegens ziekte gedurende ten minste twee opeenvolgende maanden afwezig is of wanneer vaststaat dat hij wegens ziekte gedurende ten minste twee opeenvolgende maanden afwezig zal zijn.  <span class="reference">(ing. decr. 15 juli 2005, art. 6, I : 19 september 2005)</span> ]
+Bij het openvallen van het ambt van Vlaams ombudsman wordt de selectieprocedure met het oog op de benoeming van een nieuwe Vlaamse ombudsman zo spoedig mogelijk opgestart.<br>
+<br>
+Wanneer het mandaat van de Vlaamse ombudsman verstrijkt, en er is nog geen opvolger benoemd, of de opvolger heeft zijn ambt nog niet effectief opgenomen, dan blijft de Vlaamse ombudsman zijn ambt uitoefenen tot de opvolger zijn ambt effectief opneemt, in voorkomend geval in afwijking van artikel 4, § 1, tweede lid.<br>
+<br>
+In de gevallen, bedoeld in artikel 7, of in geval van overlijden van de Vlaamse ombudsman, kan het Vlaams Parlement één van de personeelsleden van de Vlaamse ombudsdienst die beantwoordt aan de voorwaarden, bepaald in artikel 4, § 2, 1°, 2°, 3° en 4°, tot Vlaams ombudsman ad interim aanwijzen, na vergelijking van de titels en de verdiensten van de kandidaten. Die regeling geldt ook ingeval de Vlaamse ombudsman wegens ziekte gedurende ten minste twee opeenvolgende maanden afwezig is of wanneer vaststaat dat hij wegens ziekte gedurende ten minste twee opeenvolgende maanden afwezig zal zijn.&nbsp;
 
 ## AFDELING 5 AMBTELIJK STATUUT
 
@@ -70,7 +111,9 @@ Indien hij een belangrijke tekortkoming vaststelt bij de uitoefening van zijn fu
 
 ### ART. 11.
 
-[De Vlaamse ombudsman ontvangt het salaris, het vakantiegeld, de eindejaarspremie en de sociale voordelen van een statutair personeelslid van rang A3 van het Vlaams Parlement.<br /><br />Wanneer de Vlaamse ombudsman wegens ziekte of gebrekkigheid niet meer in staat is zijn ambt te vervullen, en hij de wettelijke pensioenleeftijd nog niet bereikt heeft, stelt het Vlaams Parlement aan de Administratieve Gezondheidsdienst voor om de ombudsman definitief arbeidsongeschikt te verklaren.  <span class="reference">(verv. decr. 15 juli 2005, art. 8, I : 19 september 2005)</span> ]
+De Vlaamse ombudsman ontvangt het salaris, het vakantiegeld, de eindejaarspremie en de sociale voordelen van een statutair personeelslid van klasse V van het Vlaams Parlement.<br>
+<br>
+Wanneer de Vlaamse ombudsman wegens ziekte of gebrekkigheid niet meer in staat is zijn ambt te vervullen, en hij de wettelijke pensioenleeftijd nog niet bereikt heeft, stelt het Vlaams Parlement aan de Administratieve Gezondheidsdienst voor om de ombudsman definitief arbeidsongeschikt te verklaren.&nbsp;
 
 ### ART. 11bis.
 
@@ -171,6 +214,18 @@ De Vlaamse ombudsman is verantwoordelijk voor de zorg en organiseert het   behee
 ### ART. 22quinquies.
 
 Voor de geschillen en de handelingen waarvan het voorwerp tot de   bevoegdheid behoort van de Vlaamse ombudsman wordt de Vlaamse Gemeenschap of het   Vlaamse Gewest in en buiten rechte vertegenwoordigd door de Vlaamse   ombudsman.
+
+### ART 22sexies.
+
+Een conflict over de uitvoering van een private huurovereenkomst met betrekking tot een woning of een deel van een woning waarin de huurder zijn hoofdverblijfplaats heeft, kan door de huurder of verhuurder voor bemiddeling aan de ombudsman worden voorgelegd. De ombudsman is alleen bevoegd als de verzoekende partij motiveert dat het conflict aan de coronacrisis te wijten is.<br>
+<br>
+De bemiddeling van de ombudsman is een aanvulling op de bestaande dienstverlening van instanties die actief zijn op het gebied van huurbemiddeling.<br>
+<br>
+Het bemiddelingsmandaat is beperkt tot problemen die voor 1 oktober 2020 bij de ombudsman worden aangemeld.
+
+### ART 22septies.
+
+De Vlaamse ombudsman die in dienst is op de dag van de inwerkingtreding van het decreet van 8 mei 2020 tot wijziging van enkele bepalingen in verband met de selectie en de evaluatie van de kinderrechtencommissaris, de Vlaamse ombudsman en de directeur van het Vlaams Vredesinstituut en tot instelling bij de Vlaamse ombudsdienst van een coronagebonden bemiddelingsopdracht inzake woninghuurovereenkomsten, behoudt het salaris van een statutair personeelslid van rang A3 van het Vlaams Parlement tot hij uit dienst treedt.
 
 ### ART. 23.
 
