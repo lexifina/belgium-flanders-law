@@ -2,16 +2,16 @@
   "codex_id": 1005609,
   "title": "Decreet van 1997-07-15 [houdende oprichting van een Kinderrechtencommissariaat en instelling van het ambt van Kinderrechtencommissaris en houdende oprichting van een Commissie van toezicht met betrekking tot voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren)]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005609/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "b6365de646d878d0766de4cb415deed5a06f248dd545bf0299b94820f79b1e93",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005609/VolledigDocument?datum=2020-05-08",
+  "source_sha256": "db1b1cf5eb6c161af1fd78c51189a0eda5bbe0955d3cdfc29917cdd8178b4e56",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005609&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2020-05-08",
   "made": "1997-07-15",
   "gazette": "1997-10-07",
   "numac": 1997036204,
   "document_start": null,
   "document_end": null,
-  "in_force": "2019-01-01",
-  "article_versions": 31,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-05-08",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2020-05-08; future article versions excluded; article text as the API gives it"
 }

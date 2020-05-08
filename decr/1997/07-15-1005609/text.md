@@ -15,14 +15,14 @@ In dit decreet wordt verstaan onder:<br>
 4° de administratieve overheid: de administratieve overheid in de zin van artikel 14 van de gecoördineerde wetten op de Raad van State, afhangend van de Vlaamse Gemeenschap of het Vlaamse Gewest;<br>
 5° de voorzieningen: alle door de Vlaamse regering of door de Vlaamse openbare instellingen erkende particuliere organisaties;<br>
 6° de voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren:<br>
-a) de gemeenschapsinstellingen als bedoeld in artikel 47 van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand;<br>
-b) de volgende afdelingen van organisaties voor de bijzondere jeugdzorg als bedoeld in artikel 1, 4°, van het besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand:<br>
+a) de gemeenschapsinstellingen als bedoeld in artikel 40 van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
+b) de volgende afdelingen van organisaties voor de bijzondere jeugdzorg als bedoeld in artikel 1, 3°, van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp:<br>
 i. Proeftuin De Overstap als afdeling van vzw Vereniging voor Jeugdbijstand Wingerdbloei;<br>
 ii. De Switch als afdeling van De Wissel;<br>
 iii. Proeftuin JEZ11 als afdeling van de Vereniging Ons Tehuis voor Zuid-West-Vlaanderen;<br>
 iv. De Leemwinning als afdeling van vzw Emmaüs;<br>
 c) het Centrum voor voorlopige plaatsing van minderjarigen die een als misdrijf omschreven feit hebben gepleegd als bedoeld in artikel 2 van de wet van 1 maart 2002 betreffende de voorlopige plaatsing van minderjarigen die een als misdrijf omschreven feit hebben gepleegd;<br>
-d) de Vlaamse detentiecentra als bedoeld in artikel 2, 22°, van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand.
+d) de Vlaamse detentiecentra als bedoeld in artikel 41 van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht.
 
 ## [HOOFDSTUK 2. Het Kinderrechtencommissariaat (ing. decr. 3 februari 2017, art. 5, I: 1 maart 2017)]
 
@@ -44,25 +44,19 @@ Bij de uitoefening van de in artikel 4 bepaalde opdrachten is de Commissaris bev
 
 ### ART. 7.
 
-[§ 1. Het Vlaams Parlement benoemt de Commissaris na een openbare oproep tot kandidaatstelling en op basis van een vergelijkende selectie, voor een termijn van zes jaar. De selectievoorwaarden en de selectieprocedure worden vastgesteld door het Vlaams Parlement. De selectie wordt uitgevoerd door of in opdracht van het Vlaams Parlement.<br>
+§ 1. Het Vlaams Parlement benoemt de Commissaris na een openbare oproep tot kandidaatstelling en op basis van een vergelijkende selectie, voor een termijn van zes jaar. Het Vlaams Parlement of een door het parlement aangewezen parlementair orgaan stelt de selectievoorwaarden en de selectieprocedure vast.<br>
 <br>
 Een persoon kan maximaal gedurende twee termijnen, al dan niet aaneensluitend, het ambt van Commissaris bekleden.<br>
 <br>
 § 2. De Commissaris moet aan de volgende voorwaarden voldoen :<br>
-<br>
 1° Belg zijn;<br>
-<br>
 2° van onberispelijk gedrag zijn;<br>
-<br>
 3° de burgerlijke en politieke rechten genieten;<br>
-<br>
-4° houder zijn van een diploma dat toegang verleent tot een ambt van niveau A bij de diensten van het Vlaams Parlement;<br>
-<br>
+4° houder zijn van een diploma dat toegang verleent tot een ambt van klasse III bij de diensten van het Vlaams Parlement;<br>
 5° drie jaar voor de oproep tot kandidaatstelling geen bij verkiezing verleend openbaar mandaat hebben vervuld. Voor de toepassing van deze bepaling wordt met een bij verkiezing verleend openbaar mandaat gelijkgesteld : het ambt van buiten de gemeenteraad benoemde burgemeester, een mandaat van bestuurder in een instelling van openbaar nut, het ambt van regeringscommissaris, het ambt van gouverneur, adjunct-gouverneur of vice-gouverneur, het ambt van federaal minister, gemeenschaps- of gewestminister, het ambt van staatssecretaris of gewestelijk staatssecretaris of een politiek mandaat bij de Europese Unie;<br>
-<br>
 6° ten minste vijf jaar nuttige beroepservaring hebben, die dienstig is voor de uitoefening van het ambt.<br>
 <br>
-§ 3. Bij de eerste benoeming doorloopt de Commissaris een proefperiode van 1 jaar, te rekenen vanaf de dag waarop de betrokkene het ambt effectief opneemt. Uiterlijk vijfenveertig dagen voor het verstrijken van die proefperiode evalueert het Vlaams Parlement de Commissaris. Bij ontstentenis van een evaluatie op dat ogenblik wordt de evaluatie geacht gunstig te zijn.<br>
+§ 3. Bij de eerste benoeming doorloopt de Commissaris een proefperiode van 1 jaar, te rekenen vanaf de dag waarop de betrokkene het ambt effectief opneemt. Uiterlijk vijfenveertig dagen voor het verstrijken van die proefperiode evalueert het Vlaams Parlement&nbsp;of door een parlementair orgaan dat het parlement aanwijst, de Commissaris. Bij ontstentenis van een evaluatie op dat ogenblik wordt de evaluatie geacht gunstig te zijn.<br>
 <br>
 § 4. Uiterlijk negentig dagen voor het verstrijken van het mandaat evalueert het Vlaams Parlement de Commissaris.<br>
 <br>
@@ -70,29 +64,50 @@ Indien de Commissaris gunstig geëvalueerd wordt, wordt zijn mandaat van rechtsw
 <br>
 Bij ontstentenis van een evaluatie negentig dagen voor het verstrijken van het mandaat, wordt de evaluatie geacht gunstig te zijn.<br>
 <br>
-§ 5. Alvorens in dienst te treden, legt de Commissaris in handen van de voorzitter van het Vlaams Parlement de volgende eed af : "Ik zweer getrouwheid aan de Koning, gehoorzaamheid aan de Grondwet en aan de wetten van het Belgische volk". (verv. decr. 15 juli 2005, art. 13, I : 19 september 2005) ]
+§ 4bis. Het Vlaams Parlement of een door het parlement aangewezen parlementair orgaan stelt de procedure voor de evaluaties, vermeld in paragraaf 3 en 4, vast.<br>
+<br>
+§ 5. Alvorens in dienst te treden, legt de Commissaris in handen van de voorzitter van het Vlaams Parlement de volgende eed af : "Ik zweer getrouwheid aan de Koning, gehoorzaamheid aan de Grondwet en aan de wetten van het Belgische volk".&nbsp;
 
 ### ART. 8.
 
-§ 1. [Het ambt van Commissaris is onverenigbaar met een bij verkiezing verleend openbaar mandaat of een overeenkomstig artikel 7, § 2, 5°, daarmee gelijkgesteld mandaat of ambt, en met een openbaar ambt of enige andere functie of activiteit, waardoor de waardigheid van het ambt of de goede, onafhankelijke en onpartijdige uitoefening van het ambt in het gedrang kan komen;<br>
+§ 1. Het ambt van Commissaris is onverenigbaar met een bij verkiezing verleend openbaar mandaat of een overeenkomstig artikel 7, § 2, 5°, daarmee gelijkgesteld mandaat of ambt, en met een openbaar ambt of enige andere functie of activiteit, waardoor de waardigheid van het ambt of de goede, onafhankelijke en onpartijdige uitoefening van het ambt in het gedrang kan komen;<br>
 <br>
-§ 2. De Commissaris ontvangt het salaris, het vakantiegeld, de eindejaarspremie en de sociale voordelen van een statutair personeelslid van rang A2 van het Vlaams Parlement.<br>
+§ 2. De Commissaris ontvangt het salaris, het vakantiegeld, de eindejaarspremie en de sociale voordelen van een statutair personeelslid van klasse IV van het Vlaams Parlement.<br>
 <br>
-Wanneer de Commissaris wegens ziekte of gebrekkigheid niet meer in staat is zijn ambt te vervullen, en hij de wettelijke pensioenleeftijd nog niet bereikt heeft, stelt het Vlaams Parlement aan de Administratieve Gezondheidsdienst voor om hem definitief arbeidsongeschikt te verklaren; (verv. decr. 15 juli 2005, art. 14, I : 19 september 2005) ]<br>
+Wanneer de Commissaris wegens ziekte of gebrekkigheid niet meer in staat is zijn ambt te vervullen, en hij de wettelijke pensioenleeftijd nog niet bereikt heeft, stelt het Vlaams Parlement aan de Administratieve Gezondheidsdienst voor om hem definitief arbeidsongeschikt te verklaren;&nbsp;<br>
 <br>
-[§ 2bis. De Kinderrechtencommissaris ad interim, zoals bedoeld in artikel 9bis, derde lid, geniet voor de duur van zijn aanstelling een toelage die gelijk is aan het verschil tussen het salaris van de Commissaris en zijn salaris als personeelslid van het Kinderrechtencommissariaat. Die tijdelijke toelage komt niet in aanmerking voor de berekening van het vakantiegeld en de eindejaarstoelage; (ing. decr. 15 juli 2005, art. 14, I : 19 september 2005) ]<br>
+§ 2bis. De Kinderrechtencommissaris ad interim, zoals bedoeld in artikel 9bis, derde lid, geniet voor de duur van zijn aanstelling een toelage die gelijk is aan het verschil tussen het salaris van de Commissaris en zijn salaris als personeelslid van het Kinderrechtencommissariaat. Die tijdelijke toelage komt niet in aanmerking voor de berekening van het vakantiegeld en de eindejaarstoelage.<br>
 <br>
 § 3. Binnen de grenzen van zijn bevoegdheid ontvangt de Commissaris van geen enkele overheid instructies. De Commissaris werkt in de uitoefening van het ambt volledig onafhankelijk.<br>
 <br>
-[Het mandaat van de Commissaris kan niet beëindigd worden wegens meningen geuit of daden gesteld in de normale uitoefening van zijn ambt. (verv. decr. 15 juli 2005, art. 14, I : 19 september 2005) ]
+Het mandaat van de Commissaris kan niet beëindigd worden wegens meningen geuit of daden gesteld in de normale uitoefening van zijn ambt.&nbsp;
 
 ### ART. 9.
 
-[Het mandaat van de Commissaris eindigt van rechtswege :<br /><br />1° na een ongunstige evaluatie van de proefperiode, bij het verstrijken van die proefperiode;<br /><br />2° na een ongunstige evaluatie van het mandaat, bij het verstrijken van het mandaat;<br /><br />3° wanneer hij definitief arbeidsongeschikt wordt verklaard ingevolge de toepassing van artikel 8, § 2, derde lid.<br /><br />Het Vlaams Parlement beëindigt het mandaat van de Commissaris :<br /><br />1° op zijn verzoek;<br /><br />2° wanneer hij de regels inzake onverenigbaarheden, zoals bedoeld in artikel 8, § 1, niet naleeft;<br /><br />3° wanneer hij niet langer voldoet aan de voorwaarden, bedoeld in artikel 7, § 2, 1° en 3°.<br /><br />Het Vlaams Parlement kan het mandaat van de Commissaris beëindigen :<br /><br />1° mits akkoord van de betrokkene;<br /><br />2° wanneer hij de leeftijd van 65 jaar bereikt;<br /><br />3° om ernstige redenen.  <span class="reference">(verv. decr. 15 juli 2005, art. 15, I : 19 september 2005)</span> ]
+Het mandaat van de Commissaris eindigt van rechtswege :<br>
+1° door kennisgeving van een ongunstige evaluatie van de proefperiode aan de commissaris;<br>
+2° na een ongunstige evaluatie van het mandaat, bij het verstrijken van het mandaat;<br>
+3° wanneer hij definitief arbeidsongeschikt wordt verklaard ingevolge de toepassing van artikel 8, § 2, derde lid.<br>
+<br>
+Het Vlaams Parlement beëindigt het mandaat van de Commissaris :<br>
+1° op zijn verzoek;<br>
+2° wanneer hij de regels inzake onverenigbaarheden, zoals bedoeld in artikel 8, § 1, niet naleeft;<br>
+3° wanneer hij niet langer voldoet aan de voorwaarden, bedoeld in artikel 7, § 2, 1° en 3°.<br>
+<br>
+Het Vlaams Parlement kan het mandaat van de Commissaris beëindigen :<br>
+1° mits akkoord van de betrokkene;<br>
+2° op het moment dat hij de wettelijke pensioenleeftijd van een personeelslid van het Vlaams Parlement bereikt;<br>
+3° om ernstige redenen.<br>
+<br>
+De kennisgeving van de ongunstige evaluatie, vermeld in het eerste lid, 1°, gebeurt met een ter post aangetekende brief en heeft uitwerking op de derde werkdag na de datum van verzending. Onder werkdag wordt elke dag van de week verstaan, behalve zaterdag, zondag en wettelijke en decretale feestdagen. De commissaris behoudt tot het einde van de proefperiode, vermeld in artikel 7, § 3, eerste lid, de vergoedingen en voordelen, vermeld in artikel 8, § 2, eerste lid.
 
 ### ART. 9bis.
 
-Bij het openvallen van het ambt van Commissaris start het Vlaams Parlement zo spoedig mogelijk de selectieprocedure met het oog op de benoeming van een nieuwe Commissaris.<br /><br />Wanneer het mandaat van de Commissaris verstrijkt, en er is nog geen opvolger benoemd, of de opvolger heeft zijn ambt nog niet effectief opgenomen, dan blijft de Commissaris zijn ambt uitoefenen tot de opvolger zijn ambt effectief opneemt, in voorkomend geval in afwijking van artikel 7, § 1, tweede lid, van dit decreet.<br /><br />In de gevallen bedoeld in artikel 9 van dit decreet, of in geval van overlijden van de Commissaris, kan het Vlaams Parlement één van de personeelsleden van het Kinderrechtencommissariaat dat beantwoordt aan de voorwaarden, bepaald in artikel 7, § 2, 1°, 2°, 3° en 4°, van dit decreet, tot Kinderrechtencommissaris ad interim aanwijzen, na vergelijking van de titels en de verdiensten van de kandidaten. Die regeling geldt ook ingeval de Commissaris wegens ziekte gedurende ten minste twee opeenvolgende maanden afwezig is of wanneer vaststaat dat hij wegens ziekte gedurende ten minste twee opeenvolgende maanden afwezig zal zijn.  <span class="reference">(ing. decr. 15 juli 2005, art. 16, I : 19 september 2005)</span> ]
+Bij het openvallen van het ambt van commissaris wordt de selectieprocedure met het oog op de benoeming van een nieuwe commissaris zo spoedig mogelijk opgestart..<br>
+<br>
+Wanneer het mandaat van de Commissaris verstrijkt, en er is nog geen opvolger benoemd, of de opvolger heeft zijn ambt nog niet effectief opgenomen, dan blijft de Commissaris zijn ambt uitoefenen tot de opvolger zijn ambt effectief opneemt, in voorkomend geval in afwijking van artikel 7, § 1, tweede lid, van dit decreet.<br>
+<br>
+In de gevallen bedoeld in artikel 9 van dit decreet, of in geval van overlijden van de Commissaris, kan het Vlaams Parlement één van de personeelsleden van het Kinderrechtencommissariaat dat beantwoordt aan de voorwaarden, bepaald in artikel 7, § 2, 1°, 2°, 3° en 4°, van dit decreet, tot Kinderrechtencommissaris ad interim aanwijzen, na vergelijking van de titels en de verdiensten van de kandidaten. Die regeling geldt ook ingeval de Commissaris wegens ziekte gedurende ten minste twee opeenvolgende maanden afwezig is of wanneer vaststaat dat hij wegens ziekte gedurende ten minste twee opeenvolgende maanden afwezig zal zijn. (ing. decr. 15 juli 2005, art. 16, I : 19 september 2005) ]
 
 ### ART. 10.
 
@@ -143,7 +158,7 @@ Bij het Kinderrechtencommissariaat wordt een Commissie van toezicht met betrekki
 ### ART 17.
 
 § 1. De Commissie van toezicht heeft de volgende opdrachten die ze in volle onafhankelijkheid uitvoert:<br>
-1° toezien op de bejegening in ruime zin van kinderen en jongeren in voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren waaronder de eerbiediging van de rechten zoals bedoeld in onder meer het Verdrag inzake de Rechten van het Kind, aangenomen in New York op 20 november 1989, en het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp;<br>
+1° toezien op de bejegening in ruime zin van kinderen en jongeren in voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren waaronder de eerbiediging van de rechten zoals bedoeld in onder meer het Verdrag inzake de Rechten van het Kind, aangenomen in New York op 20 november 1989, en het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp en binnen het kader van het decreet betreffende het jeugddelinquentierecht;<br>
 2° kennisnemen van grieven over de bejegening van een of meer kinderen of jongeren in voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren;<br>
 3° bemiddelen wanneer de grieven als bedoeld in punt 2° vatbaar zijn voor bemiddeling en geen omstandig onderzoek behelzen;<br>
 4° personen toeleiden naar het Kinderrechtencommissariaat om hun klachtrecht uit te oefenen;<br>
@@ -221,7 +236,7 @@ De rechten als bedoeld in het derde lid, 1°, en het vierde lid, 1°, worden zel
 
 De verantwoordelijken en de personeelsleden van een voorziening voor vrijheidsbenemende opvang van kinderen en jongeren zijn ertoe gehouden aan een maandcommissaris, voor zover hij dit noodzakelijk acht in het kader van zijn opdrachten en behoudens wettelijk bepaalde uitzonderingen, alle op de voorziening voor vrijheidsbenemende opvang van kinderen en jongeren betrekking hebbende documenten en informatiedragers te laten inzien.<br>
 <br>
-Als anonieme gegevens beschikbaar en actueel zijn, vraagt een maandcommissaris in eerste instantie inzage in die gegevens. Voor zover dat noodzakelijk is in het kader van zijn opdrachten, kan een maandcommissaris inzage vorderen in persoonsgegevens, als daarvoor, als het gaat om gezondheidsgegevens, een principiële machtiging aan de Commissie van toezicht is verleend door het sectoraal comité als bedoeld in artikel 42, § 2, 3°, van de wet van 13 december 2006 betreffende gezondheid.
+Als anonieme gegevens beschikbaar en actueel zijn, vraagt een maandcommissaris in eerste instantie inzage in die gegevens. Voor zover dat noodzakelijk is in het kader van zijn opdrachten, kan een maandcommissaris inzage vorderen in persoonsgegevens, als daarvoor, als het gaat om gezondheidsgegevens, een principiële machtiging aan de Commissie van toezicht is verleend door de kamer sociale zekerheid en gezondheid van het informatieveiligheidscomité als bedoeld in artikel 42, § 2, 3°, van de wet van 13 december 2006 houdende diverse bepalingen betreffende gezondheid.
 
 ### ART 22.
 
@@ -236,7 +251,7 @@ Een maandcommissaris moet aan de volgende voorwaarden voldoen:<br>
 Ten hoogste twee derde van de maandcommissarissen mag van hetzelfde geslacht zijn.<br>
 <br>
 § 2. De functie van maandcommissaris van de Commissie van toezicht is onverenigbaar met:<br>
-1° werkzaam zijn in een jeugdhulpvoorziening als bedoeld in artikel 2, § 1, 13°, van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp;<br>
+1° werkzaam zijn in een jeugdhulpvoorziening als bedoeld in artikel 2, § 1, 13°, van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp en binnen het kader van het decreet betreffende het jeugddelinquentierecht;<br>
 2° de uitoefening van een bij verkiezing verleend openbaar mandaat;<br>
 3° een functie in overheidsdienst, behalve als leerkracht;<br>
 4° het ambt als magistraat van de rechterlijke orde die niet in rust gesteld is en die na de inruststelling niet het ambt van plaatsvervangend magistraat uitoefent als bedoeld in artikel 383 van het Gerechtelijk Wetboek;<br>
@@ -286,3 +301,9 @@ De begroting van de Commissie van toezicht vormt een onderdeel van de begroting 
 1° de onkostenvergoedingen van de maandcommissarissen;<br>
 2° de premies voor de verzekering tegen ongevallen die zich tijdens verplaatsingen van de maandcommissarissen voordoen en voor hun burgerlijke aansprakelijkheid;<br>
 3° de werkingsmiddelen van de Commissie van toezicht en haar secretariaat.
+
+## [HOOFDSTUK 4. Overgangsbepaling (ing. decr. 8 mei 2020, art. 10, I: 8 mei 2020)]
+
+### ART 27.
+
+De kinderrechtencommissaris die in dienst is op de dag van de inwerkingtreding van het decreet van 8 mei 2020 tot wijziging van enkele bepalingen in verband met de selectie en de evaluatie van de kinderrechtencommissaris, de Vlaamse ombudsman en de directeur van het Vlaams Instituut en tot instelling bij de Vlaamse ombudsdienst van een coronagebonden bemiddelingsopdracht inzake woninghuurovereenkomsten, behoudt het salaris van een statutair personeelslid van rang A2 van het Vlaams Parlement tot hij uit dienst treedt.
