@@ -20,7 +20,8 @@ De wegingsfactor, zoals bedoeld in artikel VI.6 van de Codificatie sommige bepal
 
 De coëfficiënt, bedoeld in artikel VI.6 van de Codificatie sommige bepalingen voor het onderwijs, wordt als volgt vastgesteld:<br>
 1° 0,03969 voor de berekening van de puntenenveloppen;<br>
-2° 0,7163 voor de berekening van de werkingsmiddelen.
+2° 0,7163 voor de berekening van de werkingsmiddelen;<br>
+3° voor het schooljaar 2019-2020 worden er extra werkingsmiddelen toegekend aan de scholen voor gewoon en buitengewoon basisonderwijs en de instellingen voor voltijds secundair onderwijs, deeltijds beroepssecundair onderwijs en buitengewoon secundair onderwijs. Hierbij bedraagt de coëfficiënt 3,0698. Deze middelen kunnen ook aangewend worden voor het aanstellen van ICT-coördinatoren overeenkomstig artikel 154, § 2 van het decreet basisonderwijs van 25 februari 1997 en artikel 251/1 van de codex secundair onderwijs. De middelen kunnen ook gebruikt worden tijdens het eerste semester van het schooljaar 2020-2021.
 
 ## HOOFDSTUK III Het samenwerkingsplatform
 
