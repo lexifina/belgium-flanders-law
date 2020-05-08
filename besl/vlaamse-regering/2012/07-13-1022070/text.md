@@ -53,7 +53,7 @@ Het model van inschrijvingsregister vermeldt naast de gegevens, vermeld in artik
 4° het geboortedatum van de leerling;<br>
 5° in voorkomend geval, de contingenten.<br>
 <br>
-In afwijking van het eerste lid bepaalt de administrateur-generaal van AGODI het model van inschrijvingsregister voor inschrijvingen voor het schooljaar 2019-2020 in uitvoering van artikel 37duodecies, § 3, van het decreet basisonderwijs van 25 februari 1997 en artikel 110/12, § 3, van de codex secundair onderwijs. In afwijking van het tweede lid vermeldt het model van het inschrijvingsregister voor inschrijvingen voor het schooljaar 2019-2020, naast de gegevens in 1° tot en met 5°, de gegevens vermeld in artikel 37duodecies, § 1, van het decreet basisonderwijs van 25 februari 1997 en artikel 110/12, § 1, van de codex secundair onderwijs.
+In afwijking van het eerste lid bepaalt de administrateur-generaal van AGODI het model van inschrijvingsregister voor inschrijvingen voor het schooljaar 2019-2020, 2020-2021 en 2021-2022 in uitvoering van artikel 37duodecies, § 3, van het decreet basisonderwijs van 25 februari 1997 en artikel 110/12, § 3, van de codex secundair onderwijs. In afwijking van het tweede lid vermeldt het model van het inschrijvingsregister voor inschrijvingen voor het schooljaar 2019-2020, 2020-2021 en 2021-2022, naast de gegevens in 1° tot en met 5°, de gegevens vermeld in artikel 37duodecies, § 1, van het decreet basisonderwijs van 25 februari 1997 en artikel 110/12, § 1, van de codex secundair onderwijs.
 
 ### ART. 4.
 
@@ -67,7 +67,7 @@ Het model vermeldt naast de gegevens, vermeld in artikel 37/30, § 2, en 37/66, 
 5° het geboortedatum van de leerling;<br>
 6° de reden van niet-gerealiseerde inschrijving.<br>
 <br>
-In afwijking van het eerste lid bepaalt de administrateur-generaal van AGODI het model waarmee het schoolbestuur de niet-gerealiseerde inschrijving meedeelt aan de ouders en aan AGODI voor het schooljaar 2019-2020 in uitvoering van artikel 37terdecies, § 2, van het decreet basisonderwijs van 25 februari 1997 en artikel 110/13, § 2, van de codex secundair onderwijs. In afwijking van het tweede lid vermeldt het model waarmee het schoolbestuur de niet-gerealiseerde inschrijving meedeelt aan de ouders en aan AGODI voor het schooljaar 2019-2020, naast de gegevens in 1° tot en met 6°, de gegevens vermeld in artikel 37terdecies, § 2, van het decreet basisonderwijs van 25 februari 1997 en artikel 110/13, § 2, van de codex secundair onderwijs.
+In afwijking van het eerste lid bepaalt de administrateur-generaal van AGODI het model waarmee het schoolbestuur de niet-gerealiseerde inschrijving meedeelt aan de ouders en aan AGODI voor het schooljaar 2019-2020, 2020-2021 en 2021-2022 in uitvoering van artikel 37terdecies, § 2, van het decreet basisonderwijs van 25 februari 1997 en artikel 110/13, § 2, van de codex secundair onderwijs. In afwijking van het tweede lid vermeldt het model waarmee het schoolbestuur de niet-gerealiseerde inschrijving meedeelt aan de ouders en aan AGODI voor het schooljaar 2019-2020, 2020-2021 en 2021-2022, naast de gegevens in 1° tot en met 6°, de gegevens vermeld in artikel 37terdecies, § 2, van het decreet basisonderwijs van 25 februari 1997 en artikel 110/13, § 2, van de codex secundair onderwijs.
 
 ## Hoofdstuk 4 Bemiddelingscel buiten een werkingsgebied van een LOP
 
