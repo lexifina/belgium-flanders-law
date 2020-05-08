@@ -54,7 +54,30 @@ Het Vredesinstituut formuleert op eigen initiatief of op verzoek van het   Vlaam
 
 ### ART. 9.
 
-§ 1. De directeur is belast met het goed beheer van de instelling en   regelt de samenwerking tussen de Raad van Bestuur, de Wetenschappelijke Raad en   het Wetenschappelijk Secretariaat, voorzover dat niet in het huishoudelijk   reglement bepaald is.<BR><BR>§ 2. Het Vlaams Parlement benoemt de directeur na   een openbare oproep tot kandidaatstelling en op basis van een vergelijkende   selectie, voor een termijn van zes jaar. De selectievoorwaarden en de   selectieprocedure worden vastgesteld door het Vlaams Parlement op voorstel van   de raad van bestuur. De selectie wordt uitgevoerd door of in opdracht van het   Vlaams Parlement.<BR><BR>Een persoon kan maximaal gedurende twee termijnen, al   dan niet aaneensluitend, het ambt van directeur bekleden.<BR><BR>§ 3. De   directeur moet aan de volgende voorwaarden voldoen :<BR>1° Belg of onderdaan van   een lid-Staat van de Europese Economische Ruimte zijn;<BR>2° van onberispelijk   gedrag zijn;<BR>3° de burgerlijke en politieke rechten genieten;<BR>4° houder   zijn van een diploma dat toegang verleent tot een ambt van niveau A bij de   diensten van het Vlaams Parlement;<BR>5° ten minste vijf jaar nuttige   beroepservaring hebben. <BR><BR>§ 4. Bij de eerste benoeming doorloopt de   directeur een proefperiode van 1 jaar, te rekenen vanaf de dag waarop de   betrokkene het ambt effectief opneemt.<BR><BR>Uiterlijk vijfenveertig dagen voor   het verstrijken van de proefperiode evalueert het Vlaams Parlement de directeur,   na hierover tijdig het advies van de raad van bestuur ingewonnen te hebben. Bij   ontstentenis van een evaluatie op dat ogenblik wordt de evaluatie geacht gunstig   te zijn.<BR><BR>§ 5. Uiterlijk negentig dagen voor het verstrijken van het   mandaat evalueert het Vlaams Parlement de directeur, na hierover tijdig het   advies van de raad van bestuur ingewonnen te hebben.<BR><BR>Indien de directeur   gunstig geëvalueerd wordt, wordt zijn mandaat van rechtswege eenmaal verlengd   met een nieuwe termijn van zes jaar.<BR><BR>Bij ontstentenis van een evaluatie   negentig dagen voor het verstrijken van het mandaat, wordt de evaluatie geacht   gunstig te zijn.
+§ 1. De directeur is belast met het goed beheer van de instelling en regelt de samenwerking tussen de Raad van Bestuur, de Wetenschappelijke Raad en het Wetenschappelijk Secretariaat, voorzover dat niet in het huishoudelijk reglement bepaald is.<br>
+<br>
+§ 2. Het Vlaams Parlement benoemt de directeur na een openbare oproep tot kandidaatstelling en op basis van een vergelijkende selectie, voor een termijn van zes jaar. Het Vlaams Parlement of een door het parlement aangewezen parlementair orgaan stelt de selectievoorwaarden en de selectieprocedure vast op voorstel van de raad van bestuur.<br>
+<br>
+Een persoon kan maximaal gedurende twee termijnen, al dan niet aaneensluitend, het ambt van directeur bekleden.<br>
+<br>
+§ 3. De directeur moet aan de volgende voorwaarden voldoen :<br>
+1° Belg of onderdaan van een lid-Staat van de Europese Economische Ruimte zijn;<br>
+2° van onberispelijk gedrag zijn;<br>
+3° de burgerlijke en politieke rechten genieten;<br>
+4° houder zijn van een diploma dat toegang verleent tot een ambt van klasse III bij de diensten van het Vlaams Parlement;<br>
+5° ten minste vijf jaar nuttige beroepservaring hebben.<br>
+<br>
+§ 4. Bij de eerste benoeming doorloopt de directeur een proefperiode van 1 jaar, te rekenen vanaf de dag waarop de betrokkene het ambt effectief opneemt.<br>
+<br>
+Uiterlijk vijfenveertig dagen voor het verstrijken van de proefperiode evalueert het Vlaams Parlement&nbsp;of een door het parlement aangewezen parlementair orgaan de directeur, na hierover tijdig het advies van de raad van bestuur ingewonnen te hebben. Bij ontstentenis van een evaluatie op dat ogenblik wordt de evaluatie geacht gunstig te zijn.<br>
+<br>
+§ 5. Uiterlijk negentig dagen voor het verstrijken van het mandaat evalueert het Vlaams Parlement de directeur, na hierover tijdig het advies van de raad van bestuur ingewonnen te hebben.<br>
+<br>
+Indien de directeur gunstig geëvalueerd wordt, wordt zijn mandaat van rechtswege eenmaal verlengd met een nieuwe termijn van zes jaar.<br>
+<br>
+Bij ontstentenis van een evaluatie negentig dagen voor het verstrijken van het mandaat, wordt de evaluatie geacht gunstig te zijn.<br>
+<br>
+§ 6. Het Vlaams Parlement of een door het parlement aangewezen parlementair orgaan stelt de procedure voor de evaluaties, vermeld in paragraaf 4 en 5, vast.
 
 ### ART. 9bis.
 
@@ -62,15 +85,45 @@ Alvorens in dienst te treden legt de directeur in handen van de voorzitter van h
 
 ### ART. 9ter.
 
-§ 1. De directeur ontvangt het salaris, het vakantiegeld, de eindejaarspremie en de sociale voordelen van een statutair personeelslid van rang A2 van het Vlaams Parlement.<br /><br />De directeur heeft voor elke volledige maand diensttijd recht op aanvullende voordelen inzake rustpensioen die overeenstemmen met het verschil tussen enerzijds 1/720e van het referentiesalaris, en anderzijds het rustpensioen ten laste van de werknemers waarop hij aanspraak kan maken voor de uitoefening van deze functie. Het referentiesalaris is het gemiddelde jaarsalaris van de laatste 5 jaar van het uitgeoefende mandaat van directeur, of, indien het mandaat minder dan 5 jaar uitgeoefend werd, het gemiddelde jaarsalaris berekend over het volledige mandaat.<br /><br />In geval van ziekte of invaliditeit heeft de directeur recht op aanvullende voordelen die overeenstemmen met het verschil tussen enerzijds zijn salaris en anderzijds de uitkering die hij ontvangt.<br /><br />§ 2. Het ambt van directeur is onverenigbaar met een bij verkiezing verleend openbaar mandaat. Met een bij verkiezing verleend openbaar mandaat wordt gelijkgesteld : het ambt van buiten de gemeenteraad benoemde burgemeester, een mandaat van bestuurder in een instelling van openbaar nut, het ambt van regeringscommissaris, het ambt van gouverneur, adjunct-gouverneur of vice-gouverneur, het ambt van federaal minister, gemeenschaps- of gewestminister, het ambt van staatssecretaris of gewestelijk staatssecretaris of een politiek mandaat bij de Europese Unie.<br /><br />Bovendien mag de directeur geen openbaar ambt of enige andere functie vervullen, en geen enkele activiteit verrichten, waardoor de waardigheid van het ambt of de goede, onafhankelijke en onpartijdige uitoefening van het ambt in het gedrang kan komen.  <span class="reference">(ing. decr. 15 juli 2005, art. 29, I : 19 september 2005)</span> ]
+§ 1. De directeur ontvangt het salaris, het vakantiegeld, de eindejaarspremie en de sociale voordelen van een statutair personeelslid van klasse IV van het Vlaams Parlement.<br>
+<br>
+De directeur heeft voor elke volledige maand diensttijd recht op aanvullende voordelen inzake rustpensioen die overeenstemmen met het verschil tussen enerzijds 1/720e van het referentiesalaris, en anderzijds het rustpensioen ten laste van de werknemers waarop hij aanspraak kan maken voor de uitoefening van deze functie. Het referentiesalaris is het gemiddelde jaarsalaris van de laatste 5 jaar van het uitgeoefende mandaat van directeur, of, indien het mandaat minder dan 5 jaar uitgeoefend werd, het gemiddelde jaarsalaris berekend over het volledige mandaat.<br>
+<br>
+In geval van ziekte of invaliditeit heeft de directeur recht op aanvullende voordelen die overeenstemmen met het verschil tussen enerzijds zijn salaris en anderzijds de uitkering die hij ontvangt.<br>
+<br>
+§ 2. Het ambt van directeur is onverenigbaar met een bij verkiezing verleend openbaar mandaat. Met een bij verkiezing verleend openbaar mandaat wordt gelijkgesteld : het ambt van buiten de gemeenteraad benoemde burgemeester, een mandaat van bestuurder in een instelling van openbaar nut, het ambt van regeringscommissaris, het ambt van gouverneur, adjunct-gouverneur of vice-gouverneur, het ambt van federaal minister, gemeenschaps- of gewestminister, het ambt van staatssecretaris of gewestelijk staatssecretaris of een politiek mandaat bij de Europese Unie.<br>
+<br>
+Bovendien mag de directeur geen openbaar ambt of enige andere functie vervullen, en geen enkele activiteit verrichten, waardoor de waardigheid van het ambt of de goede, onafhankelijke en onpartijdige uitoefening van het ambt in het gedrang kan komen. (ing. decr. 15 juli 2005, art. 29, I : 19 september 2005) ]
 
 ### ART. 9quater.
 
-Het mandaat van de directeur eindigt van rechtswege :<br /><br />1° na een ongunstige evaluatie van de proefperiode, bij het verstrijken van die proefperiode;<br /><br />2° na een ongunstige evaluatie van het mandaat, bij het verstrijken van het mandaat;<br /><br />3° wanneer hij definitief arbeidsongeschikt wordt verklaard.<br /><br />Het Vlaams Parlement beëindigt het mandaat van de directeur :<br /><br />1° op zijn verzoek;<br /><br />2° wanneer hij een mandaat, zoals bedoeld in artikel 9ter, § 2, eerste lid, aanvaardt;<br /><br />3° wanneer hij een openbaar ambt of enige andere functie vervult, of een activiteit verricht, zoals bedoeld in artikel 9ter, § 2, tweede lid. De beslissing tot beëindiging wordt in dit geval genomen op voorstel van de raad van bestuur;<br /><br />4° wanneer hij niet langer voldoet aan de voorwaarden, bedoeld in artikel 9, § 3, 1° en 3°.<br /><br />Het Vlaams Parlement kan, uitsluitend na advies van de raad van bestuur, het mandaat van de directeur beëindigen :<br /><br />1° mits akkoord van de betrokkene;<br /><br />2° wanneer hij de leeftijd van 65 jaar bereikt;<br /><br />3° om ernstige redenen.  <span class="reference">(ing. decr. 15 juli 2005, art.30, I : 19 september 2005)</span> ]
+Het mandaat van de directeur eindigt van rechtswege :<br>
+1° door kennisgeving van een ongunstige evaluatie van de proefperiode aan de directeur;<br>
+2° na een ongunstige evaluatie van het mandaat, bij het verstrijken van het mandaat;<br>
+3° wanneer hij definitief arbeidsongeschikt wordt verklaard.<br>
+<br>
+Het Vlaams Parlement beëindigt het mandaat van de directeur :<br>
+1° op zijn verzoek;<br>
+2° wanneer hij een mandaat, zoals bedoeld in artikel 9ter, § 2, eerste lid, aanvaardt;<br>
+3° wanneer hij een openbaar ambt of enige andere functie vervult, of een activiteit verricht, zoals bedoeld in artikel 9ter, § 2, tweede lid. De beslissing tot beëindiging wordt in dit geval genomen op voorstel van de raad van bestuur;<br>
+4° wanneer hij niet langer voldoet aan de voorwaarden, bedoeld in artikel 9, § 3, 1° en 3°.<br>
+<br>
+Het Vlaams Parlement kan, uitsluitend na advies van de raad van bestuur, het mandaat van de directeur beëindigen :<br>
+1° mits akkoord van de betrokkene;<br>
+2° op het moment dat hij de wettelijke pensioenleeftijd van een personeelslid van het Vlaams Parlement bereikt;<br>
+3° om ernstige redenen.&nbsp;<br>
+<br>
+De kennisgeving van de ongunstige evaluatie, vermeld in het eerste lid, 1°, gebeurt met een ter post aangetekende brief en heeft uitwerking op de derde werkdag na de datum van verzending. Onder werkdag wordt elke dag van de week verstaan, behalve zaterdag, zondag en wettelijke en decretale feestdagen. De directeur behoudt tot het einde van de proefperiode, vermeld in artikel 9, § 4, eerste lid, de vergoedingen en voordelen vermeld in artikel 9ter, § 1, eerste lid.
 
 ### ART. 9quinquies.
 
-Bij het openvallen van het ambt van directeur start het Vlaams Parlement zo spoedig mogelijk de selectieprocedure met het oog op de benoeming van een nieuwe directeur.<br /><br />Wanneer het mandaat van de directeur verstrijkt, en er is nog geen opvolger benoemd, of de opvolger heeft zijn ambt nog niet effectief opgenomen, blijft de directeur zijn ambt uitoefenen tot de opvolger zijn ambt effectief opneemt, in voorkomend geval in afwijking van artikel 9, § 2, tweede lid.<br /><br />In de gevallen bedoeld in artikel 9quater, of in geval van overlijden van de directeur, kan het Vlaams Parlement één van de personeelsleden van het Vredesinstituut dat beantwoordt aan de voorwaarden, bepaald in artikel 9, § 3, 1°, 2°, 3° en 4°, tot directeur ad interim aanwijzen. Die regeling geldt ook ingeval de directeur wegens ziekte gedurende ten minste twee opeenvolgende maanden afwezig is, of wanneer vaststaat dat hij wegens ziekte gedurende ten minste twee opeenvolgende maanden afwezig zal zijn. De aanwijzing van een directeur ad interim gebeurt op voordracht van de raad van bestuur, na vergelijking van de titels en de verdiensten van de kandidaten.<br /><br />De directeur ad interim geniet voor de duur van zijn aanstelling een toelage die gelijk is aan het verschil tussen het salaris van de directeur en zijn salaris als personeelslid van het Vredesinstituut. Die tijdelijke toelage komt niet in aanmerking voor de berekening van het vakantiegeld en de eindejaarstoelage.  <span class="reference">(ing. decr. 15 juli 2005, art.31, I : 19 september 2005)</span> ]
+Bij het openvallen van het ambt van directeur wordt de selectieprocedure met het oog op de benoeming van een nieuwe directeur zo spoedig mogelijk opgestart.<br>
+<br>
+Wanneer het mandaat van de directeur verstrijkt, en er is nog geen opvolger benoemd, of de opvolger heeft zijn ambt nog niet effectief opgenomen, blijft de directeur zijn ambt uitoefenen tot de opvolger zijn ambt effectief opneemt, in voorkomend geval in afwijking van artikel 9, § 2, tweede lid.<br>
+<br>
+In de gevallen bedoeld in artikel 9quater, of in geval van overlijden van de directeur, kan het Vlaams Parlement één van de personeelsleden van het Vredesinstituut dat beantwoordt aan de voorwaarden, bepaald in artikel 9, § 3, 1°, 2°, 3° en 4°, tot directeur ad interim aanwijzen. Die regeling geldt ook ingeval de directeur wegens ziekte gedurende ten minste twee opeenvolgende maanden afwezig is, of wanneer vaststaat dat hij wegens ziekte gedurende ten minste twee opeenvolgende maanden afwezig zal zijn. De aanwijzing van een directeur ad interim gebeurt op voordracht van de raad van bestuur, na vergelijking van de titels en de verdiensten van de kandidaten.<br>
+<br>
+De directeur ad interim geniet voor de duur van zijn aanstelling een toelage die gelijk is aan het verschil tussen het salaris van de directeur en zijn salaris als personeelslid van het Vredesinstituut. Die tijdelijke toelage komt niet in aanmerking voor de berekening van het vakantiegeld en de eindejaarstoelage.&nbsp;
 
 ### ART. 10.
 
@@ -123,6 +176,10 @@ Het Vlaams Parlement bepaalt de vestigingsplaats van het Vredesinstituut.  <span
 ### ART. 16.
 
 Vijf jaar na de eerste volledige samenstelling van de Raad van Bestuur, wordt de werking van het Vredesinstituut door het Vlaams Parlement gevalueerd.
+
+### ART 16bis.
+
+De directeur die in dienst is op de dag van de inwerkingtreding van het decreet van 8 mei 2020 tot wijziging van enkele bepalingen in verband met de selectie en de evaluatie van de kinderrechtencommissaris, de Vlaamse ombudsman en de directeur van het Vlaams Vredesinstituut en tot instelling bij de Vlaamse ombudsdienst van een coronagebonden bemiddelingsopdracht inzake woninghuurovereenkomsten, behoudt het salaris van een statutair personeelslid van rang A2 van het Vlaams Parlement tot hij uit dienst treedt.
 
 ### ART. 17.
 
