@@ -2,16 +2,16 @@
   "codex_id": 1033076,
   "title": "Besluit van de Vlaamse Regering van 2020-05-08 houdende diverse dringende maatregelen in onderwijs ingevolge COVID-19",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033076/VolledigDocument?datum=2020-03-16",
-  "source_sha256": "5b1ff2936bd164ed979c64e729c723326d5532b47083063f269ae171d6e3be26",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033076/VolledigDocument?datum=2020-05-08",
+  "source_sha256": "7ca2c97c1bd64de1879c5cb98c25446303cd3a394d507d39dd77bc1eb9b4c60b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033076&param=informatie",
-  "as_of": "2020-03-16",
+  "as_of": "2020-05-08",
   "made": "2020-05-08",
   "gazette": "2020-06-02",
   "numac": 2020041539,
   "document_start": "2020-05-08",
   "document_end": null,
-  "in_force": "2020-03-16",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2020-03-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-05-08",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2020-05-08; future article versions excluded; article text as the API gives it"
 }

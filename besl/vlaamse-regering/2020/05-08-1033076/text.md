@@ -36,6 +36,108 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT :
 
+### ART 1.
+
+In afwijking van artikel 11 van het besluit van de Vlaamse Regering van 24 november 1998 betreffende de regels voor het uitreiken van het getuigschrift van basisonderwijs en het vastleggen van de vorm ervan, zoals gewijzigd bij besluit van 16 juni 2000, wordt het getuigschrift basisonderwijs in het schooljaar 2019-2020 aan de deelnemers uitgereikt uiterlijk op 31 augustus 2020.
+
+### ART 2.
+
+In afwijking van artikel 6 van het besluit van het besluit van de Vlaamse Regering van 19 juli 2002 betreffende de organisatie van het voltijds secundair onderwijs, worden voor het schooljaar 2020-2021 als regelmatige leerlingen tot het eerste leerjaar A toegelaten :<br>
+1° houders van het getuigschrift basisonderwijs;<br>
+2° leerlingen die het zesde leerjaar van het gewoon lager onderwijs hebben beëindigd doch niet met vrucht, onder de volgende voorwaarden :<br>
+a) gunstige beslissing van de toelatingsklassenraad;<br>
+b) akkoord van de betrokken personen.
+
+### ART 3.
+
+In afwijking van artikel 7 van het besluit van de Vlaamse Regering van 19 juli 2002 betreffende de organisatie van het voltijds secundair onderwijs, worden voor het schooljaar 2020-2021 als regelmatige leerlingen tot het eerste leerjaar B toegelaten :<br>
+1° leerlingen die het zesde leerjaar van het gewoon lager onderwijs hebben beëindigd doch niet met vrucht;<br>
+2° leerlingen die het zesde leerjaar van het gewoon lager onderwijs niet hebben gevolgd of niet hebben beëindigd, onder de volgende voorwaarde : uiterlijk op 31 december volgend op de aanvang van het schooljaar de leeftijd van 12 jaar bereiken;<br>
+3° leerlingen die het getuigschrift basisonderwijs in het schooljaar 2019-2020 hebben behaald, onder de volgende voorwaarden :<br>
+a) gunstige beslissing van de toelatingsklassenraad;<br>
+b) akkoord van de betrokken personen.
+
+### ART 4.
+
+In afwijking van artikel 37, § 2, van het besluit van de Vlaamse Regering van 19 juli 2002 betreffende de organisatie van het voltijds secundair onderwijs, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 1 juni 2018, worden de in § 1 van hetzelfde artikel bedoelde beslissingen voor het schooljaar 2019-2020 in beginsel genomen uiterlijk op 7 juli 2020, doch deze termijn kan voor individuele gevallen worden verlengd tot uiterlijk 1 september 2020.<br>
+<br>
+De termijn wordt verlengd als de delibererende klassenraad van oordeel is dat hij op 7 juli 2020 nog niet over voldoende informatie beschikt om een gedegen beslissing te nemen. De delibererende klassenraad beslist met welke maatregelen de nodige informatie ingewonnen kan worden. De school onderzoekt hierbij hoe ze de leerling kan ondersteunen als een dergelijke maatregel door de klassenraad wordt opgelegd.<br>
+<br>
+De in het eerste lid vermelde afwijking vereist een voorafgaand overleg met de bevoegde lokale personeelsvertegenwoordiging.
+
+### ART 5.
+
+In afwijking van artikel 56 van het besluit van de Vlaamse Regering van 19 juli 2002 betreffende de organisatie van het voltijds secundair onderwijs :<br>
+1° is de organisatie van een geïntegreerde proef in het schooljaar 2019-2020 facultatief;<br>
+2° doet, in voorkomend geval, de afwezigheid door overmacht van deskundigen bij de beoordeling van de in 1° vermelde proef, geen afbreuk aan de rechtsgeldigheid van die beoordeling.
+
+### ART 6.
+
+In afwijking van artikel 17 van het besluit van de Vlaamse Regering van 6 december 2002 betreffende de organisatie van het buitengewoon secundair onderwijs van opleidingsvorm 3 :<br>
+1° is de organisatie van een kwalificatieproef in het schooljaar 2019-2020 facultatief;<br>
+2° doet, in voorkomend geval, de afwezigheid door overmacht van deskundigen bij de beoordeling van de in 1° vermelde proef in de kwalificatiecommissie, geen afbreuk aan de rechtsgeldigheid van die beoordeling.
+
+### ART 7.
+
+In afwijking van artikel 1, § 3 van het besluit van de Vlaamse Regering van 30 augustus 2016 betreffende de organisatie van stages en sociaal-maatschappelijke trainingen in het buitengewoon secundair onderwijs, dient voor het schooljaar 2019-2020 niet voldaan te worden aan de minimale duur van de verplichte individuele leerlingenstage tijdens de kwalificatiefase in opleidingsvorm 3.
+
+### ART 8.
+
+In afwijking van Bijlage 2 van het Besluit van de Vlaamse Regering van 12 oktober 2018 tot vastlegging van structuuronderdelen duaal en standaardtrajecten in het secundair onderwijs, geldt voor het schooljaar 2019-2020 dat leerlingen in de opleiding kinderbegeleider duaal en in de opleiding zorgkundige duaal geen twee werkplekken moeten hebben, en er niet voldaan moet worden aan de minimumtermijnen die in de respectievelijke standaardtrajecten worden opgelegd.
+
+### ART 9.
+
+In afwijking van artikel 3, 5°, c), van het besluit van de Vlaamse Regering van 13 februari 2015 tot bepaling van de inhoud van het gemotiveerd verslag en van het attest bij het verslag voor toegang tot een individueel aangepast curriculum in een school voor gewoon onderwijs of tot het buitengewoon onderwijs, kan in het schooljaar 2020-2021 de ingangsdatum van een attestwijziging ook in de loop van dat schooljaar.
+
+### ART 10.
+
+§ 1. In artikel 3 van het besluit van de Vlaamse Regering van 13 juli 2012 betreffende het inschrijvingsrecht in het basis- en secundair onderwijs, ingevoegd bij het besluit van 19 juli 2019, wordt telkens de zinsnede "het schooljaar 2019-2020" vervangen door de zinsnede "het schooljaar 2019-2020, 2020-2021 en 2021-2022".<br>
+<br>
+§ 2. In artikel 4 van hetzelfde besluit, ingevoegd bij het besluit van 19 juli 2019, wordt telkens de zinsnede "het schooljaar 2019-2020" vervangen door de zinsnede "het schooljaar 2019-2020, 2020-2021 en 2021-2022".
+
+### ART 11.
+
+In afwijking van artikel 10 van het besluit van de Vlaamse Regering van 2 februari 2018 houdende de organisatie van het toelatingsexamen arts en het toelatingsexamen tandarts deelt in het jaar 2020 de voorzitter in september alle individuele kandidaten voor het toelatingsexamen arts en voor het toelatingsexamen tandarts mee welke score de kandidaat behaalde en tot welke van de volgende categorieën de kandidaat behoort :<br>
+1° geslaagd en gunstig gerangschikt;<br>
+2° geslaagd maar ongunstig gerangschikt;<br>
+3° geslaagd maar zonder rangschikking;<br>
+4° niet geslaagd.
+
+### ART 12.
+
+In afwijking van artikel 11, tweede lid, van hetzelfde besluit, wordt in het jaar 2020 de lijst voor de artsen en de lijst voor de tandartsen met de gunstig gerangschikte kandidaten in alfabetische volgorde uiterlijk op 15 september door de voorzitter bezorgd aan elke universiteit in de Vlaamse Gemeenschap, die gemachtigd is de opleiding tot arts en/of de opleiding tot tandarts te organiseren.
+
+### ART 13.
+
+In afwijking van artikel 14, derde lid, van hetzelfde besluit, kunnen de tot 15 mei 2020 ingeschreven kandidaten zich uiterlijk op 29 mei 2020 weer uitschrijven en wordt hun inschrijvingsgeld terugbetaald. Kandidaten die zich niet uiterlijk op 29 mei 2020 hebben uitgeschreven, hebben geen recht op de terugbetaling van het inschrijvingsgeld.
+
+### ART 14.
+
+In afwijking van artikel 19 van hetzelfde besluit, wordt in het jaar 2020 het toelatingsexamen arts georganiseerd op 25 augustus en het toelatingsexamen tandarts op 26 augustus.
+
+### ART 15.
+
+In afwijking van artikel 31, derde lid, van hetzelfde besluit, worden in het jaar 2020 materiële vergissingen die de grondslag vormen voor een beslissing van de examencommissie, ten laatste op 11 september gemeld.
+
+### ART 16.
+
+In afwijking van artikel 32 van hetzelfde besluit, heeft in het jaar 2020 de inzage plaats, volgens de modaliteiten die de examencommissie bepaalt, vanaf 4 september tot en met vrijdag 11 september.
+
 ### ART 17.
 
 In afwijking van artikel 33 van hetzelfde besluit, kan in het jaar 2020 de kandidaat een verzoek tot heroverweging van de individuele beslissing van de examencommissie instellen tot en met 11 september. De examencommissie heeft 30 dagen de tijd voor de behandeling van elk individueel beroep en de periode voor behandeling van de interne beroepen start op 12 september 2020. Deze beslissingen worden aan de kandidaat ter kennis gebracht ten laatste op 9 oktober 2020.
+
+### ART 18.
+
+Aan artikel 3, van het besluit van de Vlaamse regering van 5 december 2003 betreffende ict-coördinatie in het onderwijs, wordt een punt 3° toegevoegd dat luidt als volgt :<br>
+"3° voor het schooljaar 2019-2020 worden er extra werkingsmiddelen toegekend aan de scholen voor gewoon en buitengewoon basisonderwijs en de instellingen voor voltijds secundair onderwijs, deeltijds beroepssecundair onderwijs en buitengewoon secundair onderwijs. Hierbij bedraagt de coëfficiënt 3,0698. Deze middelen kunnen ook aangewend worden voor het aanstellen van ICT-coördinatoren overeenkomstig artikel 154, § 2 van het decreet basisonderwijs van 25 februari 1997 en artikel 251/1 van de codex secundair onderwijs. De middelen kunnen ook gebruikt worden tijdens het eerste semester van het schooljaar 2020-2021.".
+
+### ART 19.
+
+Dit besluit treedt in werking op de datum van de goedkeuring.<br>
+<br>
+In afwijking op het eerste lid heeft artikel 17 uitwerking met ingang van 16 maart 2020.
+
+### ART 20.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
