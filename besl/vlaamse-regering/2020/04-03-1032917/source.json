@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032917,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-03 houdende indeling bij de gemeentewegen van weggedeelten van de gewestwegen Vanneputstraat, Sint-Elooiswinkelstraat, Meerlaanstraat, Heerweg, Warandestraat en Ter Poperenweg op het grondgebied van de gemeente Wevelgem",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032917/VolledigDocument?datum=2020-05-08",
+  "source_sha256": "a01b5d9ddde0a17ff6134a50e8f117225df37e90f1456c0059c3d106b38098ec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032917&param=informatie",
+  "as_of": "2020-05-08",
+  "made": "2020-04-03",
+  "gazette": "2020-04-28",
+  "numac": 2020030667,
+  "document_start": "2020-05-08",
+  "document_end": null,
+  "in_force": "2020-05-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-05-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
