@@ -547,7 +547,17 @@ Televisieprogramma's mogen worden onderbroken voor reclame of telewinkelen, met 
 
 ### ART. 81.
 
-§ 1. Uitzendingen van televisiefilms, cinematografische producties en nieuwsprogramma's mogen een keer per geprogrammeerd tijdvak van ten minste dertig minuten worden onderbroken voor reclame en/of telewinkelen.<br /><br />§ 2. Het aandeel van televisiereclame- en telewinkelspots mag per klokuur niet meer dan 20 percent bedragen.<br /><br />§ 3. Voor de berekening van het percentage, vermeld in paragraaf 2, bestaat een klokuur uit een periode van zestig opeenvolgende minuten en begint het klokuur in principe bij minuut 0 en eindigt het bij minuut 59.<br /><br />Als een lineaire televisieomroeporganisatie het begin van het klokuur op een ander tijdstip dan minuut 0 wil laten aanvangen, deelt hij voor het begin van het programma aan de Vlaamse Regulator voor de Media mee op welk tijdstip de klokuren zullen starten voor de berekening van de grenzen, vermeld in het eerste lid.<br /><br />De bepalingen van paragraaf 2 zijn niet van toepassing op boodschappen van de lineaire televisieomroeporganisaties over hun eigen programma's en rechtstreeks daarvan afgeleide ondersteunende producten, op sponsorboodschappen en op productplaatsing.<br /><br />§ 4. De openbare omroeporganisatie van de Vlaamse Gemeenschap en de aanbieders van lineaire omroepdiensten delen de Vlaamse Regulator voor de Media mee welke boodschappen van algemeen nut ze gratis uitzenden.<br /><br />§ 5. De regionale en private lineaire televisieomroeporganisaties mogen publi-reportages uitzenden die niet worden in aanmerking genomen bij de berekening van de percentages vermeld in § 2 van dit artikel, mits deze publi-reportages in overeenstemming zijn met alle bepalingen van dit hoofdstuk.<br /><br />Onder publi-reportages wordt begrepen commerciële communicatie die meer tijd in beslag neemt dan reclamespots omdat het accent ligt op redactionele en informatieve inhoud.
+§ 1. Uitzendingen van televisiefilms, cinematografische producties en nieuwsprogramma's mogen een keer per geprogrammeerd tijdvak van ten minste dertig minuten worden onderbroken voor reclame en/of telewinkelen.<br>
+<br>
+§ 2. Het aandeel televisiereclame- en telewinkelspots bedraagt tussen 6 uur 's ochtends en 18 uur 's avonds niet meer dan 20 percent van dat tijdvak. Het aandeel televisiereclame- en telewinkelspots bedraagt tussen 18 uur 's avonds en middernacht niet meer dan 20 percent van dat tijdvak.<br>
+<br>
+§ 3. Paragraaf 2 is niet van toepassing op boodschappen van de lineaire televisieomroeporganisaties over hun eigen programma's en rechtstreeks daarvan afgeleide ondersteunende producten, op sponsorboodschappen en op productplaatsing.<br>
+<br>
+§ 4. De openbare omroeporganisatie van de Vlaamse Gemeenschap en de aanbieders van lineaire omroepdiensten delen de Vlaamse Regulator voor de Media mee welke boodschappen van algemeen nut ze gratis uitzenden.<br>
+<br>
+§ 5. De regionale en private lineaire televisieomroeporganisaties mogen publi-reportages uitzenden die niet worden in aanmerking genomen bij de berekening van de percentages vermeld in § 2 van dit artikel, mits deze publi-reportages in overeenstemming zijn met alle bepalingen van dit hoofdstuk.<br>
+<br>
+Onder publi-reportages wordt begrepen commerciële communicatie die meer tijd in beslag neemt dan reclamespots omdat het accent ligt op redactionele en informatieve inhoud.
 
 ### ART. 82.
 
