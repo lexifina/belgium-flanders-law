@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032940,
+  "title": "Ministerieel besluit van 2020-02-28 tot erkenning van de EVC-standaard medewerker groen- en tuinbeheer",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032940/VolledigDocument?datum=2020-05-10",
+  "source_sha256": "1f9d0a59722959db20e4a4ac2ee6cf6f4ab265817fe9718b2d66eb85e77574cf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032940&param=informatie",
+  "as_of": "2020-05-10",
+  "made": "2020-02-28",
+  "gazette": "2020-04-30",
+  "numac": 2020030645,
+  "document_start": "2020-05-10",
+  "document_end": null,
+  "in_force": "2020-05-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-05-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
