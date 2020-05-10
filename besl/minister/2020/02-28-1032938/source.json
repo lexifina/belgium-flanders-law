@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032938,
+  "title": "Ministerieel besluit van 2020-02-28 tot erkenning van de EVC-standaard kinderbegeleider schoolgaande kinderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032938/VolledigDocument?datum=2020-05-10",
+  "source_sha256": "7b4e9942ae6d9f3fb1dc7343b4f713e6c4b5999a4bbb28447575d9874cde129a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032938&param=informatie",
+  "as_of": "2020-05-10",
+  "made": "2020-02-28",
+  "gazette": "2020-04-30",
+  "numac": 2020030643,
+  "document_start": "2020-05-10",
+  "document_end": null,
+  "in_force": "2020-05-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-05-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
