@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032943,
+  "title": "Ministerieel besluit van 2020-02-28 tot erkenning van de EVC-standaard uitbener - uitsnijder",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032943/VolledigDocument?datum=2020-05-10",
+  "source_sha256": "2e2cd4c3c737cf1081971b710b35ca7bd58f478f49aabe3bdd6d1d3cd919f423",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032943&param=informatie",
+  "as_of": "2020-05-10",
+  "made": "2020-02-28",
+  "gazette": "2020-04-30",
+  "numac": 2020030648,
+  "document_start": "2020-05-10",
+  "document_end": null,
+  "in_force": "2020-05-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-05-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
