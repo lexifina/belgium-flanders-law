@@ -2,16 +2,16 @@
   "codex_id": 1035222,
   "title": "Besluit van de Vlaamse Regering van 2020-11-27 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de opname van een aantal agentschapsspecifieke bepalingen ingevolge de opheffing van het publiekrechtelijk vormgegeven extern verzelfstandigd Vlaams Agentschap voor Ondernemersvorming - SYNTRA Vlaanderen en andere bepalingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035222/VolledigDocument?datum=2020-03-01",
-  "source_sha256": "b0f977143a6d7cd0fb0b96e68ca9a5d41a0b3cf87ebd6f59603e5880baf4493d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035222/VolledigDocument?datum=2020-05-11",
+  "source_sha256": "36fac427379e5bbd2e31aa431566517404dca01a1f7e7c782c4247cf244e5435",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035222&param=informatie",
-  "as_of": "2020-03-01",
+  "as_of": "2020-05-11",
   "made": "2020-11-27",
   "gazette": "2021-02-17",
   "numac": 2021020285,
   "document_start": "2021-01-01",
   "document_end": null,
-  "in_force": "2020-03-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2020-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-05-11",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-05-11; future article versions excluded; article text as the API gives it"
 }
