@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033327,
+  "title": "Besluit van de Vlaamse Regering van 2020-06-26 tot tijdelijke verlenging van de betalingstermijn voor loodsgelden en loodsvergoedingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033327/VolledigDocument?datum=2020-05-15",
+  "source_sha256": "5daea405065b64d0029099dcf70bc53432e2980e175a52b380e5ec98bff0a281",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033327&param=informatie",
+  "as_of": "2020-05-15",
+  "made": "2020-06-26",
+  "gazette": "2020-07-01",
+  "numac": 2020042022,
+  "document_start": "2020-05-15",
+  "document_end": null,
+  "in_force": "2020-05-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-05-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
