@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032997,
+  "title": "Ministerieel besluit van 2020-05-08 tot wijziging van het ministerieel besluit van 23 december 2019 houdende tijdelijke aanvullende maatregelen voor het jaar 2020 tot het behoud van de visbestanden in zee",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032997/VolledigDocument?datum=2020-05-15",
+  "source_sha256": "8c9a9229366fa8bf2803c0a10c6ecd0074224038710e933294a226c32f770c5b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032997&param=informatie",
+  "as_of": "2020-05-15",
+  "made": "2020-05-08",
+  "gazette": "2020-05-13",
+  "numac": 2020030854,
+  "document_start": "2020-05-15",
+  "document_end": "2020-12-31",
+  "in_force": "2020-05-15",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2020-05-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
