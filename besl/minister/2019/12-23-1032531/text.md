@@ -209,13 +209,15 @@ Het totale tongquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-est
 <br>
 Het de-minimisquotum bedraagt 73 ton tong. De drempelwaarde bedoeld in artikel 8 wordt voor de tongvisserij in de ICES-gebieden II, IV vastgelegd op maximaal 10% van de reeds in de visreis in kwestie gerealiseerde tongvangst in het gebied in kwestie. Bij uitputting van dat de minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit die ICES-gebieden.<br>
 <br>
-§ 2. Van 1 januari 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5500 kg, vermeerderd met een hoeveelheid die gelijk is aan 55 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+§ 2. Van 1 januari 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5500 kg, vermeerderd met een hoeveelheid die gelijk is aan 85 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
 § 3. Van 1 januari 2020 tot en met 30 juni 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5500 kg, vermeerderd met een hoeveelheid die gelijk is aan 16 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
 In afwijking van het eerste lid is het in de periode van 1 januari 2020 tot en met 31 oktober 2020 in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat uitsluitend de passieve visserij bedrijft, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 6500 kg, vermeerderd met een hoeveelheid die gelijk is aan 40 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
-§ 4. Er worden geen gecombineerde visreizen toegestaan tussen ICES-gebieden II, IV en VIIf,g.
+§ 4. Er worden geen gecombineerde visreizen toegestaan tussen ICES-gebieden II, IV en VIIf,g.<br>
+<br>
+Er worden ook geen gecombineerde visreizen toegestaan tussen de ICES-gebieden IV en VIIa.
 
 ## Onderafdeling 2. Schol Noordzee - ICES-gebieden II, IV
 
@@ -353,6 +355,10 @@ In de periode van 1 januari 2020 tot en met 31 december 2020 is het voor een vis
 <br>
 In de periode van 1 januari 2020 tot en met 31 december 2020 is het voor een vissersvaartuig van het GVS, die gemengde zeereizen in de ICES-gebieden VIId en II, IV maakt, verboden bij de tongvangst in de ICES-gebieden II, IV een hoeveelheid te overschrijden die gelijk is aan 660 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de ICES-gebieden II, IV.<br>
 <br>
+In de periode van 15 mei 2020 tot en met 31 december 2020 is het voor een vissersvaartuig van het KVS, die gemengde zeereizen in de ICES-gebieden VIId, en VIIf, g maakt, verboden bij de tongvangst in het ICES-gebied VIId per zeereis een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het ICES gebied VIId.<br>
+<br>
+In de periode van 15 mei 2020 tot en met 31 december 2020 is het voor een vissersvaartuig van het GVS, die gemengde zeereizen in de ICES-gebieden VIId, en VIIf, g maakt, verboden bij de tongvangst in het ICES-gebied VIId per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het ICES gebied VIId.<br>
+<br>
 § 3. Het de-minimisquotum voor tong in het ICES-gebied VIIe bedraagt 1 ton tong. De drempelwaarde vermeld in artikel 8 bedraagt voor de tongvisserij in het ICES-gebied VIIe maximaal 5% van de reeds in de visreis in kwestie gerealiseerde tongvangst in het gebied in kwestie. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit dat ICES-gebied VIIe.<br>
 <br>
 In de periode van 1 januari 2020 tot en met 31 oktober 2020 is het in het ICES-gebied VIIe voor een vissersvaartuig van het KVS verboden een totale tongvangst te realiseren die groter is dan 1200 kg.<br>
@@ -367,7 +373,7 @@ Ingeval van gemengde visreizen met aanwezigheid in de ICES-gebieden VIIe en VIIf
 
 De tongvangst in ICES-gebieden VIIh,j,k is verboden in de periode van 1 januari 2020 tot en met 31 januari 2020.<br>
 <br>
-Vanaf 1 februari 2020 tot en met 30 juni 2020 is het in de ICES-gebieden VIIh,j,k voor een vissersvaartuig van het GVS verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen tijdens die zeereis in die ICES-gebieden.<br>
+Vanaf 1 februari 2020 tot en met 30 juni 2020 is het in de ICES-gebieden VIIh,j,k voor een vissersvaartuig van het GVS verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 In de periode van 1 februari 2020 tot en met 31 december 2020 is het in de ICES-gebieden VIIh, j, k voor een vissersvaartuig van het GVS verboden een totale scholvangst te realiseren die groter is dan 250 kg.
 
@@ -409,7 +415,7 @@ In de periode van 1 januari 2020 tot en met 31 december 2020 is het in de ICES-g
 <br>
 § 6. De paragrafen een tot en met drie zijn niet van toepassing op de vissersvaartuigen waarvoor een toewijzing van vangstmogelijkheden in functie van het motorvermogen werd aangevraagd, als vermeld in artikel 19.<br>
 <br>
-De hoeveelheden, vermeld in de paragrafen een tot en met drie, worden van 1 april 2020 tot en met 30 juni 2020 tot 300 kg per vaartdag verhoogd, als het vaartuig in kwestie gedurende de gehele visreis actief was met een TR1- of BT1-vistuig.<br>
+De hoeveelheden, vermeld in de paragrafen een tot en met drie, worden van 1 april 2020 tot en met 30 juni 2020 tot 500 kg per vaartdag verhoogd, als het vaartuig in kwestie gedurende de gehele visreis actief was met een TR1- of BT1-vistuig.<br>
 <br>
 § 7. ...
 
@@ -521,13 +527,15 @@ Als voor het vissersvaartuig in kwestie gedurende het jaar in kwestie dagen werd
 <br>
 § 4. Voor ieder visbestand wordt het overschreden volume gedeeld door de toegekende hoeveelheden per vaartdag, wat resulteert in een aantal surplusdagen. Van het maximum aantal vaartdagen voor 2020, vermeld in paragraaf 2, wordt het aantal surplusdagen afgetrokken.<br>
 <br>
-§ 5. Het aantal inruildagen wordt beperkt tot 3 indien het nationaal quotum voor een gequoteerde soort, na ruil, reeds voor 80% is opgevist.
+§ 5. Het aantal inruildagen wordt beperkt tot 3 indien het nationaal quotum voor een gequoteerde soort, na ruil, reeds voor 80% is opgevist.<br>
+<br>
+§ 6. De paragrafen 2 tot en met 5 zijn niet van toepassing in het ICES-gebied VIId en specifiek voor kabeljauw in de ICES-gebieden II en IV.
 
 ## TITEL 3. Handhaving
 
 ### ART 29.
 
-§ 1. Overminderd de bepalingen van artikel 28 worden de opbrengsten van de overschrijdingen van de maximum toegekende valoriseerbare hoeveelheden onder de vorm van dagplafonds vermeld in artikel 25 paragraaf 4 en 5, artikel 26 en artikel 27 paragraaf 1, 2, 3, 5, 6, 7, 9 en 10 ingehouden ten voordele van de rekening voor opvangvis van de producentenorganisatie Rederscentrale.<br>
+§ 1. Overminderd de bepalingen van artikel 28 worden de opbrengsten van de overschrijdingen van de maximum toegekende valoriseerbare hoeveelheden vermeld in artikel 19, en onder de vorm van dagplafonds vermeld in artikel 25 paragraaf 4 en 5, artikel 25/1 en artikel 27 paragraaf 1, 2, 3, 5, 6, 7, 8, 9, 10 en 11, ingehouden ten voordele van de rekening voor opvangvis van de producentenorganisatie Rederscentrale.<br>
 <br>
 § 2. Voor de uitvoering van de bepalingen van dit artikel verzorgt de P.O. Rederscentrale toezicht uit in de visafslagen volgens modaliteiten die met de bevoegde entiteit zijn overeengekomen in het kader van Verordening (EU) nr. 1379/2013 van het Europees Parlement en de Raad van 11 december 2013 houdende een gemeenschappelijke marktordening voor visserijproducten en aquacultuurproducten.<br>
 <br>
