@@ -50,8 +50,8 @@ In dit besluit wordt verstaan onder:<br>
 11° coronamaatregelen: de maatregelen opgenomen in de ministeriële besluiten van 13 maart 2020 en 23 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken;<br>
 12° decreet van 30 april 2004: het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 13° gerealiseerde zittingsuren: zittingsuren waarin het consultaanbod in werkelijkheid uitgevoerd werd;<br>
-14° gezinsopvang: de gezinsopvang, vermeld in artikel 1, 4° van het Kwaliteitsdecreet Buitenschoolse Opvang van 16 mei 2014;<br>
-15° groepsopvang: de groepsopvang, vermeld in artikel 1, 5° van het Kwaliteitsdecreet Buitenschoolse Opvang van 16 mei 2014;<br>
+14° gezinsopvang: de gezinsopvang, vermeld in artikel 1, 4° van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
+15° groepsopvang: de groepsopvang, vermeld in artikel 1, 5° van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
 16° kwetsbare thuissituatie: de situatie in de thuisomgeving van het kind die van die aard is dat het voor de kinderen om sociale of pedagogische redenen wenselijk is dat ze opgevangen worden in de buitenschoolse opvang;<br>
 17° lokaal bestuur: het gemeentebestuur en voor de gemeenten uit het tweetalige gebied Brussel-Hoofdstad wordt de opdracht van het lokaal bestuur opgenomen door de Vlaamse Gemeenschapscommissie;<br>
 18° lokale dienst: de lokale dienst, vermeld in artikel 1, 15° van het besluit van de Vlaamse Regering van 27 november 2015 houdende de voorwaarden voor de erkenning en de subsidiëring van gemandateerde voorzieningen, coördinatiepunten en flexibele opvangpools van doelgroepwerknemers, de voorwaarden voor de toestemming en de subsidiëring van lokale diensten buurtgerichte buitenschoolse opvang, en de voorwaarden voor een aanvullende subsidie voor organisatoren met een vergunning groepsopvang en een plussubsidie;<br>
@@ -62,6 +62,7 @@ In dit besluit wordt verstaan onder:<br>
 23° opvang op een schoolvrije dag : de buitenschoolse opvang op een vrije dag, een pedagogische studiedag of een weekenddag, waarop de school voor een kind niet toegankelijk is. Binnen de schoolvrije dagen zijn de volgende soorten te onderscheiden :<br>
 a) schoolvrije dagen tijdens de Paasvakantie : de buitenschoolse opvang tijdens de paasvakantie van 4 april tot en met 19 april 2020, weekenddagen inbegrepen;<br>
 b) schoolvrije dagen buiten de Paasvakantie : de buitenschoolse opvang buiten de paasvakantie van 4 april tot en met 19 april 2020;<br>
+23° /1 opvang tijdens de schooltijd : de opvang, vermeld in artikel 1, 9° van het besluit van de Vlaamse Regering van 15 mei 2020 tot toekenning van een projectsubsidie ter compensatie van de kosten voor opvang van schoolkinderen tijdens de schooluren;<br>
 24° organisator van een erkend consultatiebureau: een natuurlijke persoon, feitelijke vereniging of rechtspersoon met een erkenning, zoals bepaald in artikel 2 van het besluit van 12 oktober 2018;<br>
 25° preventieve gezondheidszorg : het deel van de gezondheidszorg dat maatregelen en acties omvat die tot doel hebben de gezondheid te bevorderen, te beschermen of te behouden, vermeld in artikel 2, 24°, van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br>
 26° project FCUD buitenschoolse opvang: het project, vermeld in artikel 1, 4° van het besluit van de Vlaamse Regering van 15 juli 2016 betreffende subsidiëring van projecten vanuit het vroegere Fonds voor Collectieve Uitrustingen en Diensten en voor personeelsleden met een gewezen gescostatuut, dat buitenschoolse opvang organiseert;<br>
@@ -88,13 +89,15 @@ De afwezigheidsdagen mogen niet afgetrokken worden:<br>
 1° door de organisator die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, van het aantal gerechtvaardigde afwezigheidsdagen, zoals vermeld in artikel 29 van het Subsidiebesluit van 22 november 2013, waarop een gezin recht heeft op basis van de schriftelijke overeenkomst of het huishoudelijk reglement;<br>
 2° door de organisator die niet voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, van het aantal dagen waarop een gezin recht heeft op basis van de schriftelijke overeenkomst of het huishoudelijk reglement om het kind afwezig te laten zijn in de opvang zonder dat het gezin ervoor moet betalen.<br>
 <br>
-In afwijking van wat de schriftelijke overeenkomst en het huishoudelijk reglement, vermeld in artikel 25 en 27 van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014 en in artikel 34 en 36 van het Vergunningsbesluit van 22 november 2013, bepaalt, en in afwijking van artikel 28 van het Subsidiebesluit van 22 november 2013, betalen de gezinnen niets voor de buitenschoolse opvang op een schoolvrije dag tijdens de Paasvakantie in de periode dat de coronamaatregelen gelden.
+In afwijking van wat de schriftelijke overeenkomst en het huishoudelijk reglement, vermeld in artikel 25 en 27 van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014 en in artikel 34 en 36 van het Vergunningsbesluit van 22 november 2013, bepaalt, en in afwijking van artikel 28 van het Subsidiebesluit van 22 november 2013, betalen de gezinnen niets voor de buitenschoolse opvang op een schoolvrije dag tijdens de Paasvakantie in de periode dat de coronamaatregelen gelden.<br>
+<br>
+Het eerste en tweede lid zijn van toepassing in de periode van 14 maart 2020 tot de datum die de minister bepaalt.
 
 ## Afdeling 2. Maatregelen voor de organisatoren en de medewerkers
 
 ### ART 4.
 
-Het agentschap kan, overeenkomstig artikel 5, § 2, 2°, a) en artikel 13, § 2 van het decreet van 30 april 2004, aan de organisator een subsidie toekennen aan de organisator van buitenschoolse opvang als ondersteuning van de specifieke opdracht om in de periode dat de coronamaatregelen gelden beschikbaar te blijven voor gezinnen op een manier die zo maximaal mogelijk aansluit op de behoeften van gezinnen die hier nood aan hebben, zoals bepaald in dit besluit en voor de naleving van artikel 3.<br>
+Het agentschap kan, overeenkomstig artikel 5, § 2, 2°, a) en artikel 13, § 2 van het decreet van 30 april 2004, aan de organisator een subsidie toekennen aan de organisator van buitenschoolse opvang als ondersteuning van de specifieke opdracht om in de periode dat de coronamaatregelen gelden&nbsp;tussen 14 maart 2020 en de datum die de minister bepaalt, beschikbaar te blijven voor gezinnen op een manier die zo maximaal mogelijk aansluit op de behoeften van gezinnen die hier nood aan hebben, zoals bepaald in dit besluit en voor de naleving van artikel 3.<br>
 <br>
 Het agentschap kan de subsidie alleen toekennen als de organisator vanaf de eerste aanvraag van de subsidie ononderbroken aan de subsidievoorwaarden, vermeld in artikel 10 voldoet.
 
@@ -103,9 +106,13 @@ Het agentschap kan de subsidie alleen toekennen als de organisator vanaf de eers
 De organisator van buitenschoolse opvang met erkenning zonder subsidie van het agentschap of met een attest van toezicht kan bij het agentschap een subsidie aanvragen voor de compensatie van de daling van het aantal aanwezigheden in de opvanglocatie in de periode dat de coronamaatregelen gelden en voor de naleving van artikel 3.<br>
 <br>
 De subsidie bedraagt:<br>
-1° voor opvang op een schooldag: 8,75 euro per openingsdag per plaats voor 80% van de plaatsen op de erkenning of het attest van toezicht;<br>
+1° voor opvang op een schooldag: 8,75 euro per openingsdag per plaats voor een bepaald percentage van de plaatsen op de erkenning of het attest van toezicht, zoals vermeld in het derde lid;<br>
 2° voor opvang op een schoolvrije dag tijdens de Paasvakantie: 17,50 euro per openingsdag per plaats voor 100% van de plaatsen op de erkenning of het attest van toezicht;<br>
-3° voor opvang op een schoolvrije dag buiten de Paasvakantie : 17,50 euro per openingsdag per plaats voor 80 % van de plaatsen op de erkenning of het attest van toezicht.
+3° voor opvang op een schoolvrije dag buiten de Paasvakantie : 17,50 euro per openingsdag per plaats voor een bepaald percentage van de plaatsen op de erkenning of het attest van toezicht, zoals vermeld in het derde lid.<br>
+<br>
+Het percentage, vermeld in het tweede lid, 1° en 3° bedraagt :<br>
+1° 80% in de periode van 14 maart 2020 tot en met 31 mei 2020;<br>
+2° een door de minister te bepalen percentage in de periode vanaf 1 juni 2020, waarbij het percentage en de periode waarin het percentage geldt, rekening houden met de evolutie van de aanwezigheden in de opvang vanaf 1 juni 2020 en waarbij een onderscheid kan gemaakt worden naargelang de organisator opvang tijdens de schooltijd organiseert of niet.
 
 ### ART 6.
 
@@ -147,16 +154,16 @@ De subsidie is de som van wat de gezinnen aan de organisator zouden betaald hebb
 ### ART 10.
 
 De organisator die de subsidie, vermeld in artikel 5 tot en met 9/1, wil ontvangen, voldoet aan volgende voorwaarden:<br>
-1° de organisator is beschikbaar om de dienstverlening verder te zetten voor de gezinnen die hier nood aan hebben omdat minstens één van de ouders werkzaam is bij een onderneming van cruciale sectoren en essentiële diensten, en voor kinderen in een kwetsbare thuissituatie. Deze voorwaarde is niet van toepassing indien de organisator kan aantonen dat hij door overmacht de dienstverlening niet kan verderzetten en moet sluiten;<br>
-2° de organisator past zijn dienstverlening, wat openingsuren en -dagen betreft, zo maximaal mogelijk aan op basis van de behoeften van de gezinnen die hier nood aan hebben omdat ze werkzaam zijn bij ondernemingen van cruciale sectoren en essentiële diensten, en doet desgevraagd inspanningen om beschikbare medewerkers ruimer in te zetten dan het huidige opvangaanbod.<br>
+1° de organisator is beschikbaar om de dienstverlening verder te zetten voor de kinderen van gezinnen die hier nood aan hebben omdat beide ouders aan het werk zijn en zij hierbij beiden geen telethuiswerk kunnen toepassen en voor de kinderen in een kwetsbare thuissituatie. Deze voorwaarde is niet van toepassing als de organisator kan aantonen dat hij door overmacht de dienstverlening niet kan verderzetten en moet sluiten;<br>
+2° de organisator past zijn dienstverlening, wat openingsuren en -dagen betreft, zo maximaal mogelijk aan op basis van de behoeften van de gezinnen die hier nood aan hebben en doet desgevraagd inspanningen om beschikbare medewerkers ruimer in te zetten dan het huidige opvangaanbod, ook voor opvang tijdens schooltijd, bij voorrang voor kleuters.<br>
 3° de organisator betaalt correcte lonen of vergoedingen voor de medewerkers in de periode dat de coronamaatregelen gelden, waardoor die medewerkers in staat zijn een gezonde en toekomstgerichte sociaalrechtelijke situatie uit te bouwen in de opvanglocatie;<br>
 4° de organisator voldoet aan artikel 3;<br>
 5° de organisator zorgt ervoor dat alle kinderbegeleiders actief en beschikbaar zijn en activeert geen enkel systeem waarbij hij zijn medewerkers tijdelijk niet moet vergoeden tijdens de periode dat de coronamaatregelen gelden;<br>
-6° de organisator werkt samen met het lokaal bestuur dat voor de opvang in de schoolvakanties de opvangvragen en het opvangaanbod coördineren.
+6° de organisator werkt samen met het lokaal bestuur dat voor de opvang op schoolvrije dagen tijdens de Paasvakantie en opvang tijdens de schooltijd de opvangvragen en het opvangaanbod coördineren.
 
 ### ART 11.
 
-De aanvraag voor de subsidie, vermeld in artikel 5 tot en met 9/1, wordt uiterlijk 3 maanden na het aflopen van de coronamaatregelen volgens de richtlijnen van het agentschap ingediend met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
+De aanvraag voor de subsidie, vermeld in artikel 5 tot en met 9/1, wordt uiterlijk 1 oktober 2020 gedaan volgens de richtlijnen van het agentschap ingediend met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
 1° identificatiegegevens;<br>
 2° voor de subsidie vermeld in artikel 5 en 6, artikel 7, eerste lid, en artikel 8, eerste lid : het aantal openingsdagen voor opvang op een schooldag en voor opvang op een schoolvrije dag;<br>
 3° voor de subsidie, vermeld in artikel 9: het aantal aanwezigheidsdagen in de periode dat de coronamaatregelen gelden en het aantal aanwezigheidsdagen in dezelfde periode in 2019;<br>
