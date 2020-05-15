@@ -240,7 +240,7 @@ De middelen worden verdeeld over de pedagogische begeleidingsdiensten naar rato 
 
 ### ART. 21/1.
 
-<p>De pedagogische begeleidingsdiensten die beschikken over een personeelsformatie als vermeld in artikel 16, ontvangen jaarlijks 4.584.000 euro aan aanvullende werkingsmiddelen.<br>
+<p>De pedagogische begeleidingsdiensten die beschikken over een personeelsformatie als vermeld in artikel 16, ontvangen jaarlijks 4.584.000 euro aan aanvullende werkingsmiddelen.&nbsp;Van het voormelde bedrag, wordt voor het schooljaar 2019-2020 en schooljaar 2020-2021 478.000 euro gebruikt voor de begeleiding van leerkrachten bij de remediëring van leerlingen in de klas vanaf de opening van de scholen in het derde trimester van het schooljaar 2019-2020 tot en met 30 juni 2021.<br>
 <br>
 De werkingsmiddelen, vermeld in het eerste lid, worden verdeeld over deze pedagogische begeleidingsdiensten naar rato van het aantal organieke betrekkingen in de instellingen verbonden aan de pedagogische begeleidingsdienst.</p>
 
