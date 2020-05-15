@@ -84,13 +84,15 @@
 
 ### ART 5.
 
-<span style="color: rgb(0, 0, 0);">De loodsgelden en de loodsvergoedingen moeten betaald worden binnen één maand na de factuurdatum, en in elk geval voor het eerstvolgende vertrek van het vaartuig naar zee of naar het buitenland, aan de ontvanger van de loodsgelden, tenzij er bij de ontvanger voldoende geachte zekerheid is gesteld.</span><br>
+<span style="color:#000000">De loodsgelden en de loodsvergoedingen moeten betaald worden binnen één maand na de factuurdatum, en in elk geval voor het eerstvolgende vertrek van het vaartuig naar zee of naar het buitenland, aan de ontvanger van de loodsgelden, tenzij er bij de ontvanger voldoende geachte zekerheid is gesteld.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0);">Alle loodsgelden en de loodsvergoedingen die voortvloeien uit een uitgaande reis van een vaartuig, moeten door de exploitant in de vertrekhaven betaald worden. Dat geldt ook voor reizen tussen de havens van Gent en Antwerpen of havens of ligplaatsen die op de Boven-Zeeschelde liggen of omgekeerd.</span><br>
+<span style="color:#000000">Alle loodsgelden en de loodsvergoedingen die voortvloeien uit een uitgaande reis van een vaartuig, moeten door de exploitant in de vertrekhaven betaald worden. Dat geldt ook voor reizen tussen de havens van Gent en Antwerpen of havens of ligplaatsen die op de Boven-Zeeschelde liggen of omgekeerd.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0);">In het tweede lid wordt verstaan onder uitgaande reis: een reis vanaf een Vlaamse haven naar zee of tot het vaartuig afgemeerd is in een volgende Vlaamse haven.</span><br>
+<span style="color:#000000">In het tweede lid wordt verstaan onder uitgaande reis: een reis vanaf een Vlaamse haven naar zee of tot het vaartuig afgemeerd is in een volgende Vlaamse haven.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0);">Voor reizen van Oostende en Zeebrugge naar Antwerpen of Gent of naar havens of ligplaatsen die op de Boven-Zeeschelde liggen (of omgekeerd) betaalt de exploitant in de vertrekhaven de loodsgelden en loodsvergoedingen tot Vlissingen rede en betaalt de exploitant in de haven van bestemming de loodsgelden en loodsvergoedingen vanaf Vlissingen rede.</span><br>
+<span style="color:#000000">Voor reizen van Oostende en Zeebrugge naar Antwerpen of Gent of naar havens of ligplaatsen die op de Boven-Zeeschelde liggen (of omgekeerd) betaalt de exploitant in de vertrekhaven de loodsgelden en loodsvergoedingen tot Vlissingen rede en betaalt de exploitant in de haven van bestemming de loodsgelden en loodsvergoedingen vanaf Vlissingen rede.</span><br>
+<br>
+In afwijking van de termijn bedoeld in het eerste lid moeten de loodsgelden en de loodsvergoedingen worden betaald binnen 45 kalenderdagen. Deze afwijking gaat in vanaf 15 mei 2020 en treedt buiten werking 3 maanden na het verstrijken van de laatste dag van de civiele noodsituatie met betrekking tot de volksgezondheid zoals bepaald door de Vlaamse Regering.<br>
 &nbsp;
 
 ### ART 6.
