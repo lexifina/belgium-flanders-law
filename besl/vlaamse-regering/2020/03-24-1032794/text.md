@@ -60,13 +60,15 @@ In afwijking van wat de schriftelijke overeenkomst, vermeld in artikel 36 van he
 <br>
 De afwezigheidsdagen mogen niet afgetrokken worden:<br>
 1° door de organisator die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, van het aantal gerechtvaardigde afwezigheidsdagen, zoals vermeld in artikel 29 van het Subsidiebesluit van 22 november 2013, waarop een gezin recht heeft op basis van de schriftelijke overeenkomst of het huishoudelijk reglement;<br>
-2° door de organisator die niet voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, van het aantal dagen waarop een gezin recht heeft op basis van de schriftelijke overeenkomst of het huishoudelijk reglement om het kind afwezig te laten zijn in de opvang zonder dat het gezin ervoor moet betalen.
+2° door de organisator die niet voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, van het aantal dagen waarop een gezin recht heeft op basis van de schriftelijke overeenkomst of het huishoudelijk reglement om het kind afwezig te laten zijn in de opvang zonder dat het gezin ervoor moet betalen.<br>
+<br>
+Het eerste en tweede lid zijn van toepassing in de periode van 14 maart 2020 tot de datum die de minister bepaalt.
 
 ## HOOFDSTUK 3. Maatregelen voor de organisatoren en medewerkers
 
 ### ART 4.
 
-Het agentschap kan, overeenkomstig artikel 10, 3° van het decreet van 20 april 2012, aan de organisator een subsidie toekennen als ondersteuning van de specifieke opdrachten om in de periode dat de coronamaatregelen gelden, beschikbaar te blijven voor gezinnen op een manier die zo maximaal mogelijk aansluit op de behoeften van gezinnen die hier nood aan hebben, zoals bepaald in dit besluit.<br>
+Het agentschap kan, overeenkomstig artikel 10, 3° van het decreet van 20 april 2012, aan de organisator een subsidie toekennen als ondersteuning van de specifieke opdrachten om in de periode dat de coronamaatregelen gelden&nbsp;tussen 14 maart 2020 en de datum die de minister bepaalt, beschikbaar te blijven voor gezinnen op een manier die zo maximaal mogelijk aansluit op de behoeften van gezinnen die hier nood aan hebben, zoals bepaald in dit besluit.<br>
 <br>
 Het agentschap kan de subsidie alleen toekennen als de organisator vanaf de eerste aanvraag van de subsidie ononderbroken aan de subsidievoorwaarden, vermeld in artikel 5, § 1, artikel 6, § 1 en artikel 7, § 1 voldoet.
 
