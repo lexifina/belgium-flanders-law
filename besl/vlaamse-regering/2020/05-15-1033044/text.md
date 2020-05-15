@@ -34,6 +34,15 @@ In artikel 1 van het besluit van de Vlaamse Regering van 24 maart 2020 tot bestr
 2° in punt 10° wordt het getal "18" telkens vervangen door het getal "23";<br>
 3° in punt 11° wordt het getal "18" vervangen door het getal "23".
 
+### ART 2.
+
+In artikel 3 van hetzelfde besluit wordt een derde lid ingevoegd dat luidt als volgt :<br>
+"Het eerste en tweede lid zijn van toepassing in de periode van 14 maart 2020 tot de datum die de minister bepaalt.".
+
+### ART 3.
+
+In artikel 4 van hetzelfde besluit wordt tussen het woord "gelden" en het woord "beschikbaar" de zinsnede "tussen 14 maart 2020 en de datum die de minister bepaalt," ingevoegd.
+
 ### ART 4.
 
 In artikel 5 van hetzelfde besluit worden volgende wijzigingen aangebracht :<br>
@@ -69,4 +78,53 @@ Deze voorwaarde is niet van toepassing als de organisator kan aantonen dat hij d
 
 ## HOOFDSTUK 2. Wijzigingen in het besluit van 1 april 2020 tot bestrijding van de negatieve gevolgen van het COVID-19 virus voor de gezinnen en de organisatoren in de buitenschoolse opvang, in de opvang van zieke kinderen en preventieve gezinsondersteuning
 
+### ART 7.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 1 april 2020 tot bestrijding van de negatieve gevolgen van het COVID-19 virus voor de gezinnen en de organisatoren in de buitenschoolse opvang, in de opvang van zieke kinderen en preventieve gezinsondersteuning worden volgende wijzigingen aangebracht :<br>
+1° in punt 14 wordt het woord "Kwaliteitsdecreet" vervangen door het woord "Kwaliteitsbesluit";<br>
+2° in punt 15 wordt het woord "Kwaliteitsdecreet" vervangen door het woord "Kwaliteitsbesluit";<br>
+3° er wordt een punt 23° /1 ingevoegd dat luidt als volgt :<br>
+"23° /1 opvang tijdens de schooltijd : de opvang, vermeld in artikel 1, 9° van het besluit van de Vlaamse Regering van 15 mei 2020 tot toekenning van een projectsubsidie ter compensatie van de kosten voor opvang van schoolkinderen tijdens de schooluren.".
+
+### ART 8.
+
+In artikel 3 van hetzelfde besluit wordt een vierde lid ingevoegd dat luidt als volgt :<br>
+"Het eerste en tweede lid zijn van toepassing in de periode van 14 maart 2020 tot de datum die de minister bepaalt.".
+
+### ART 9.
+
+In artikel 4 van hetzelfde besluit wordt tussen het woord "gelden" en het woord "beschikbaar" de zinsnede "tussen 14 maart 2020 en de datum die de minister bepaalt," ingevoegd.
+
+### ART 10.
+
+In artikel 5, tweede lid van hetzelfde besluit worden volgende wijzigingen aangebracht :<br>
+1° in punt 1° wordt de zinsnede "80% van de plaatsen op de erkenning of het attest van toezicht" vervangen door de zinsnede "een bepaald percentage van de plaatsen op de erkenning of het attest van toezicht, zoals vermeld in het derde lid";<br>
+2° in punt 3° wordt de zinsnede "80% van de plaatsen op de erkenning of het attest van toezicht" vervangen door de zinsnede "een bepaald percentage van de plaatsen op de erkenning of het attest van toezicht, zoals vermeld in het derde lid";<br>
+3° er wordt een derde lid ingevoegd dat luidt als volgt :<br>
+"Het percentage, vermeld in het tweede lid, 1° en 3° bedraagt :<br>
+1° 80% in de periode van 14 maart 2020 tot en met 31 mei 2020;<br>
+2° een door de minister te bepalen percentage in de periode vanaf 1 juni 2020, waarbij het percentage en de periode waarin het percentage geldt, rekening houden met de evolutie van de aanwezigheden in de opvang vanaf 1 juni 2020 en waarbij een onderscheid kan gemaakt worden naargelang de organisator opvang tijdens de schooltijd organiseert of niet.".
+
+### ART 11.
+
+In artikel 10 van hetzelfde besluit worden volgende wijzigingen aangebracht :<br>
+1° het punt 1° wordt vervangen door wat volgt :<br>
+"1° de organisator is beschikbaar om de dienstverlening verder te zetten voor de kinderen van gezinnen die hier nood aan hebben omdat beide ouders aan het werk zijn en zij hierbij beiden geen telethuiswerk kunnen toepassen en voor de kinderen in een kwetsbare thuissituatie. Deze voorwaarde is niet van toepassing als de organisator kan aantonen dat hij door overmacht de dienstverlening niet kan verderzetten en moet sluiten.";<br>
+2° in punt 2° worden volgende wijzigingen aangebracht :<br>
+a) de zinsnede "omdat ze werkzaam zijn bij ondernemingen van cruciale sectoren en essentiële diensten" wordt opgeheven;<br>
+b) achter het woord "opvangaanbod" wordt de zinsnede ", ook voor opvang tijdens schooltijd, bij voorrang voor kleuters" ingevoegd;<br>
+3° in punt 6° wordt de zinsnede "in de schoolvakanties" vervangen door de zinsnede "op schoolvrije dagen tijdens de Paasvakantie en opvang tijdens de schooltijd".
+
+### ART 12.
+
+In artikel 11 van hetzelfde besluit wordt de zinsnede "3 maanden na het aflopen van de coronamaatregelen" vervangen door de zinsnede "1 oktober 2020 gedaan".
+
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 13.
+
+Dit besluit heeft uitwerking met ingang van 15 mei 2020, met uitzondering van artikelen 1, 4, 5 en 6 van dit besluit die uitwerking hebben met ingang van 4 mei 2020.
+
+### ART 14.
+
+De Vlaamse minister, bevoegd voor opgroeien, is belast met de uitvoering van dit besluit.
