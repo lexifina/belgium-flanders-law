@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032961,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-10 houdende indeling bij de gemeentewegen van de gewestweg N148 tussen kilometerpunt 5,842 en kilometerpunt 8,903 op het grondgebied van de gemeente Hemiksem",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032961/VolledigDocument?datum=2020-05-15",
+  "source_sha256": "e0a1db6d7d723e5b03abe575739fca880d0b9134809b40852e9a39bab3e0675b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032961&param=informatie",
+  "as_of": "2020-05-15",
+  "made": "2020-04-10",
+  "gazette": "2020-05-05",
+  "numac": 2020010367,
+  "document_start": "2020-05-15",
+  "document_end": null,
+  "in_force": "2020-05-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-05-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
