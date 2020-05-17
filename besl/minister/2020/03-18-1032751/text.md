@@ -28,11 +28,13 @@ Artikel 5, 6 en 7 van het besluit van de Vlaamse Regering van 13 maart 2020 tot 
 
 ### ART 2.
 
-De maatregelen, vermeld in artikel 1 van het besluit van de Vlaamse Regering van 13 maart 2020 tot het nemen van tijdelijke maatregelen om de verspreiding van COVID-19 tegen te gaan, gelden tot en met 7 juni 2020.<br>
+De maatregelen, vermeld in artikel 1 van het besluit van de Vlaamse Regering van 13 maart 2020 tot het nemen van tijdelijke maatregelen om de verspreiding van COVID-19 tegen te gaan, gelden tot en met 24 mei 2020.<br>
 <br>
 De maatregelen, vermeld in artikel 3 van hetzelfde besluit, gelden tot en met 10 mei 2020.<br>
 <br>
-De maatregelen, vermeld in artikel 2 en in artikel 5 tot en met 7 van hetzelfde besluit, gelden tot en met 17 mei 2020.
+De maatregelen vermeld in artikel 2, tweede lid, en in artikel 7 van hetzelfde besluit, gelden tot en met 14 juni 2020.<br>
+<br>
+De maatregelen vermeld in artikel 5 en 6 van hetzelfde besluit, gelden tot en met 24 mei 2020.
 
 ### ART 3.
 
