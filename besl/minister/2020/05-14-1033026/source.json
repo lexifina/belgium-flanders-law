@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033026,
+  "title": "Ministerieel besluit van 2020-05-14 tot wijziging van het ministerieel besluit van 18 maart 2020 tot vaststelling van de datum van inwerkingtreding van artikel 5, 6 en 7 van het besluit van de Vlaamse Regering van 13 maart 2020 tot het nemen van tijdelijke maatregelen om de verspreiding van COVID-19 tegen te gaan en tot verlenging van de maatregelen, vermeld in artikel 1 tot en met 7 van hetzelfde besluit",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033026/VolledigDocument?datum=2020-05-17",
+  "source_sha256": "acb9c91a6bd732d15ec777cbd59073024d93479146c5a17b30456222c1e97ceb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033026&param=informatie",
+  "as_of": "2020-05-17",
+  "made": "2020-05-14",
+  "gazette": "2020-05-19",
+  "numac": 2020020984,
+  "document_start": "2020-05-17",
+  "document_end": null,
+  "in_force": "2020-05-17",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-05-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
