@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032969,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-10 houdende indeling bij de gemeentewegen van de gewest- weg R11 Krijgsbaan tussen kilometerpunt 12,9 en kilometerpunt 13,8 op het grondgebied van de stad Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032969/VolledigDocument?datum=2020-05-17",
+  "source_sha256": "843a97def1feb45424d344c0922c812af5e621bbb8c38689f7308d24653a92bf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032969&param=informatie",
+  "as_of": "2020-05-17",
+  "made": "2020-04-10",
+  "gazette": "2020-05-07",
+  "numac": 2020010368,
+  "document_start": "2020-05-17",
+  "document_end": null,
+  "in_force": "2020-05-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-05-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
