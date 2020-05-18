@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033143,
+  "title": "Ministerieel besluit van 2020-05-18 tot uitvoering van het besluit van de Vlaamse Regering van 20 maart 2020 tot toekenning van steun aan ondernemingen die verplicht moeten sluiten ten gevolge van de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033143/VolledigDocument?datum=2020-05-18",
+  "source_sha256": "6bb507d68eb565e020779e44aaa215a1c9a8f6a391ae77438b38e103d575e46a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033143&param=informatie",
+  "as_of": "2020-05-18",
+  "made": "2020-05-18",
+  "gazette": "2020-06-10",
+  "numac": 2020010400,
+  "document_start": "2020-05-18",
+  "document_end": null,
+  "in_force": "2020-05-18",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-05-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
