@@ -2,16 +2,16 @@
   "codex_id": 1026884,
   "title": "Besluit van de Vlaamse Regering van 2016-03-25 tot erkenning van de beroepskwalificatie helpdeskoperator",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026884/VolledigDocument?datum=2016-06-23",
-  "source_sha256": "6f9f412a919d3cf77f6d268488a04a701d839e044681e222de59d4aa1ea95900",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026884/VolledigDocument?datum=2020-05-18",
+  "source_sha256": "dfccf26c5558c360162651fee5aa89714ffe760a99f5038e73f99feac29261c9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026884&param=informatie",
-  "as_of": "2016-06-23",
+  "as_of": "2020-05-18",
   "made": "2016-03-25",
   "gazette": "2016-06-13",
   "numac": 2016035778,
   "document_start": "2016-06-23",
   "document_end": "2020-05-17",
-  "in_force": "2016-06-23",
+  "in_force": "2020-05-18",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-05-18; future article versions excluded; article text as the API gives it"
 }
