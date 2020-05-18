@@ -2,16 +2,16 @@
   "codex_id": 1023186,
   "title": "Besluit van de Vlaamse Regering van 2013-06-21 tot erkenning van de beroepskwalificatie Sanitarist",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023186/VolledigDocument?datum=2013-08-24",
-  "source_sha256": "53aea8e5088381598e979297d003e94530cc5596efd80e3cfef9a7b225132f4d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023186/VolledigDocument?datum=2020-05-18",
+  "source_sha256": "be90c8b82629ce6e79e006dc38e41f2e247cec42a0538e1b37a1e70ef087e910",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023186&param=informatie",
-  "as_of": "2013-08-24",
+  "as_of": "2020-05-18",
   "made": "2013-06-21",
   "gazette": "2013-08-14",
   "numac": 2013035698,
   "document_start": "2013-08-24",
   "document_end": "2020-05-17",
-  "in_force": "2013-08-24",
+  "in_force": "2020-05-18",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-08-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-05-18; future article versions excluded; article text as the API gives it"
 }
