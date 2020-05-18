@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032984,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-30 houdende een herverdeling vanuit begrotingsartikel JB0-1JBB2AB-PR naar begrotingsartikel JB0-1JEB2HA-WT van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2020",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032984/VolledigDocument?datum=2020-05-18",
+  "source_sha256": "bc41c980144e83179996b77cf108aba561d91fc1ee8b2ff5deafd550defd3d8b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032984&param=informatie",
+  "as_of": "2020-05-18",
+  "made": "2020-04-30",
+  "gazette": "2020-05-08",
+  "numac": 2020041241,
+  "document_start": "2020-05-18",
+  "document_end": null,
+  "in_force": "2020-05-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-05-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
