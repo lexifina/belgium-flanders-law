@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032980,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-10 tot opheffing van het besluit van de Vlaamse Regering van 29 november 2013 tot erkenning van de beroepskwalificatie winkelverkoper doe-het-zelf",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032980/VolledigDocument?datum=2020-05-18",
+  "source_sha256": "49afb03a24314fe987fbda438c709dc9ac01630cde73e8b32ad94a9677eca56f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032980&param=informatie",
+  "as_of": "2020-05-18",
+  "made": "2020-04-10",
+  "gazette": "2020-05-08",
+  "numac": 2020030723,
+  "document_start": "2020-05-18",
+  "document_end": null,
+  "in_force": "2020-05-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-05-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
