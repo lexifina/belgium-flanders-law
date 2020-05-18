@@ -2,16 +2,16 @@
   "codex_id": 1023805,
   "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie winkelverkoper voeding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023805/VolledigDocument?datum=2014-02-20",
-  "source_sha256": "b8917bd9f24f2e341c47d16e0069fbda88ee93fca0b7b23ecfcf4777dd5cfa21",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023805/VolledigDocument?datum=2020-05-18",
+  "source_sha256": "524c5c8326b44213676414849dfcd10266a9377f09ec0346b3d0629a5e80cd9d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023805&param=informatie",
-  "as_of": "2014-02-20",
+  "as_of": "2020-05-18",
   "made": "2013-11-29",
   "gazette": "2014-02-10",
   "numac": 2014035140,
   "document_start": "2014-02-20",
   "document_end": "2020-05-17",
-  "in_force": "2014-02-20",
+  "in_force": "2020-05-18",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-02-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-05-18; future article versions excluded; article text as the API gives it"
 }
