@@ -2,16 +2,16 @@
   "codex_id": 1023172,
   "title": "Besluit van de Vlaamse Regering van 2013-06-21 tot erkenning van de beroepskwalificatie Dakdekker",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023172/VolledigDocument?datum=2013-08-22",
-  "source_sha256": "e4b62c60696a9fe142de3475e3cb7c8321116907180c290f8e9347f985df52fa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023172/VolledigDocument?datum=2020-05-18",
+  "source_sha256": "5c7a999a6c8c58d86ac9a7fdc31df7db34e598dd93c2e62bcf415ec8c125e13b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023172&param=informatie",
-  "as_of": "2013-08-22",
+  "as_of": "2020-05-18",
   "made": "2013-06-21",
   "gazette": "2013-08-12",
   "numac": 2013035696,
   "document_start": "2013-08-22",
   "document_end": "2020-05-17",
-  "in_force": "2013-08-22",
+  "in_force": "2020-05-18",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-08-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-05-18; future article versions excluded; article text as the API gives it"
 }
