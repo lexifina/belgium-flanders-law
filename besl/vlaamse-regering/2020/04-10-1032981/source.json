@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032981,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-10 tot opheffing van het besluit van de Vlaamse Regering van 5 december 2014 tot erkenning van de beroepskwalificatie koeltechnicus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032981/VolledigDocument?datum=2020-05-18",
+  "source_sha256": "1331c3bd2ea305d2f146fbc59f8ac661219f9358a8efa7ab8a790503c8374341",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032981&param=informatie",
+  "as_of": "2020-05-18",
+  "made": "2020-04-10",
+  "gazette": "2020-05-08",
+  "numac": 2020030726,
+  "document_start": "2020-05-18",
+  "document_end": null,
+  "in_force": "2020-05-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-05-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
