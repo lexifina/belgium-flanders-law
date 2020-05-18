@@ -4,6 +4,12 @@
 
 ## HOOFDSTUK 2. Afwijking van het decreet basisonderwijs van 25 februari 1997
 
+### ART 2.
+
+Er wordt voor het schooljaar 2020-2021 als volgt afgeweken van artikel 37vicies quater, § 2, van het decreet basisonderwijs van 25 februari 1997:<br>
+1° in afwijking van het vierde lid duurt de periode waarin de ouders de aangemelde leerling kunnen inschrijven, minimaal veertien kalenderdagen;<br>
+2° in afwijking van het negende lid duurt de periode waarin de ouders de aangemelde leerling kunnen inschrijven, minimaal vijf kalenderdagen.
+
 ## HOOFDSTUK 3. Afwijking van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs
 
 ### ART 3.
@@ -11,6 +17,12 @@
 In afwijking van artikel 37, tweede lid, 3°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs kan het centrumbestuur of de gemandateerde ervan na de schorsing van de lessen en activiteiten met ingang van 16 maart 2020 als gevolg van de federale maatregelen, voor de resterende periode van het schooljaar 2019-2020 zonder akkoord van de cursist evaluatiemaatregelen nemen die verschillen van de bepalingen in het centrumreglement. Als die gewijzigde evaluatiemaatregelen gevolgen hebben voor het personeel, wordt er vooraf overleg gepleegd met de lokale personeelsvertegenwoordiging. De cursisten worden schriftelijk of elektronisch van de maatregelen op de hoogte gebracht.
 
 ## HOOFDSTUK 4. Afwijking van de Codex Secundair Onderwijs van 17 december 2010
+
+### ART 7.
+
+Er wordt voor het schooljaar 2020-2021 als volgt afgeweken van artikel 110/24, § 2, van dezelfde codex:<br>
+1° in afwijking van het vierde lid duurt de periode waarin de ouders de aangemelde leerling kunnen inschrijven, minimaal veertien kalenderdagen;<br>
+2° in afwijking van het negende lid duurt de periode waarin de ouders de aangemelde leerling kunnen inschrijven, minimaal veertien kalenderdagen.
 
 ## HOOFDSTUK 5. Afwijking van de Codex Hoger Onderwijs van 11 oktober 2013
 
