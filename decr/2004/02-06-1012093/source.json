@@ -2,16 +2,16 @@
   "codex_id": 1012093,
   "title": "Decreet van 2004-02-06 [houdende ad-hocwaarborgen voor ondernemingen en waarborgen voor financieringsfondsen en kredietportefeuilles]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012093/VolledigDocument?datum=2013-09-14",
-  "source_sha256": "92af8b4986d69e68e71189f7fbd4679013b0054d7aeb0c4f1eaab441be41a6ca",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012093/VolledigDocument?datum=2020-05-19",
+  "source_sha256": "91ed30198c7ada07e7cfc16b283215342221cd5009ab85d1d82de11794099f75",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012093&param=informatie",
-  "as_of": "2013-09-14",
+  "as_of": "2020-05-19",
   "made": "2004-02-06",
   "gazette": "2004-02-20",
   "numac": 2004035282,
   "document_start": null,
   "document_end": null,
-  "in_force": "2013-09-14",
-  "article_versions": 39,
-  "record_form": "consolidated version as in force on 2013-09-14; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-05-19",
+  "article_versions": 41,
+  "record_form": "consolidated version as in force on 2020-05-19; future article versions excluded; article text as the API gives it"
 }
