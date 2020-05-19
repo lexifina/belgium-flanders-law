@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033013,
+  "title": "Decreet van 2020-05-15 tot wijziging van het decreet van 6 februari 2004 betreffende een waarborgregeling voor kleine, middelgrote en grote ondernemingen, wat betreft de COVID-19-waarborg",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033013/VolledigDocument?datum=2020-05-19",
+  "source_sha256": "2c6e203f049edcd03d434d2cbf815e7cdd898b159fee03da06fa225046fa8837",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033013&param=informatie",
+  "as_of": "2020-05-19",
+  "made": "2020-05-15",
+  "gazette": "2020-05-18",
+  "numac": 2020041349,
+  "document_start": "2020-05-19",
+  "document_end": null,
+  "in_force": "2020-05-19",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2020-05-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
