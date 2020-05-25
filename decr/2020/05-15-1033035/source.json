@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033035,
+  "title": "Decreet van 2020-05-15 tot bekrachtiging van het besluit van de Vlaamse Regering van 7 februari 2020 tot erkenning van Thor Park in Genk als regelluwe zone voor energie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033035/VolledigDocument?datum=2020-05-25",
+  "source_sha256": "2b30b8af5f4bf906a957e77909664e693c7e066f8ee65b14fdb259224d940d01",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033035&param=informatie",
+  "as_of": "2020-05-25",
+  "made": "2020-05-15",
+  "gazette": "2020-05-25",
+  "numac": 2020041347,
+  "document_start": "2020-05-25",
+  "document_end": null,
+  "in_force": "2020-05-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-05-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
