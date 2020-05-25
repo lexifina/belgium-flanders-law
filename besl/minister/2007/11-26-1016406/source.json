@@ -2,16 +2,16 @@
   "codex_id": 1016406,
   "title": "Ministerieel besluit van 2007-11-26 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016406/VolledigDocument?datum=2020-04-28",
-  "source_sha256": "4b79ad77bd508af22d3b5dc3c0b415c4fb898c12fdf55db336e13f9198e168e7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016406/VolledigDocument?datum=2020-05-25",
+  "source_sha256": "714d6e47b151c7fcd85e1b3df8596c86e686760834c4e90728b5480513da2f5a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016406&param=informatie",
-  "as_of": "2020-04-28",
+  "as_of": "2020-05-25",
   "made": "2007-11-26",
   "gazette": "2007-12-11",
   "numac": 2007037167,
   "document_start": "2007-12-21",
   "document_end": null,
-  "in_force": "2020-04-28",
+  "in_force": "2020-05-25",
   "article_versions": 38,
-  "record_form": "consolidated version as in force on 2020-04-28; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-05-25; future article versions excluded; article text as the API gives it"
 }

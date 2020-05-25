@@ -51,7 +51,11 @@ Bij de berekening van de subsidie van cursussen kunnen afwezigheden wegens ziekt
 
 ### ART. 8.
 
-Het minimaal vereiste aantal deelnemers, vermeld in artikel 14 van het   besluit, wordt teruggebracht tot zes voor de volgende opleidingen :<BR>1°   opleidingen over thema's die specifiek bestemd zijn voor de sectoren van de   biologische landbouw en de wijnbouw;<BR>2° opleidingen over de korte keten voor   de sectoren die landbouwproducten via de korte keten rechtstreeks afzetten van   de producent aan de consument.<BR><BR>
+Het minimaal vereiste aantal deelnemers, vermeld in artikel 14 van het besluit, wordt teruggebracht tot zes voor de volgende opleidingen :<br>
+1° opleidingen over thema's die specifiek bestemd zijn voor de sectoren van de biologische landbouw en de wijnbouw;<br>
+2° opleidingen over de korte keten voor de sectoren die landbouwproducten via de korte keten rechtstreeks afzetten van de producent aan de consument;<br>
+3° korte vormingsactiviteiten die gevolgd worden in het kader van lerende netwerken, namelijk reeksen van opeenvolgende vormingsmomenten met vaste leden die bedrijfsleiders zijn van minstens zes verschillende landbouwbedrijven, die onder begeleiding van een facilitator kennis en ervaringen delen en inzichten uitwisselen over de bedrijfsvoering of specifieke vragen rond thema's die eigen zijn aan de bedrijfstak met de bedoeling om in de eigen bedrijfsvoering verbeteringen aan te brengen, nieuwe methoden in te voeren en aanpassingen door te voeren. De facilitator is een lesgever die conform artikel 30 van het besluit erkend is en die onderlegd is in de materie in kwestie.<br>
+&nbsp;
 
 ### ART. 9.
 
