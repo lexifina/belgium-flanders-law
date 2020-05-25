@@ -22,6 +22,12 @@ Dit besluit is gebaseerd op het volgende motief:<br>
 <br>
 DE VLAAMSE MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW BESLUIT:
 
+### ART 1.
+
+Aan artikel 8 van het ministerieel besluit van 26 november 2007 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector, vervangen bij het ministerieel besluit van 14 januari 2014, wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
+<br>
+"3° korte vormingsactiviteiten die gevolgd worden in het kader van lerende netwerken, namelijk reeksen van opeenvolgende vormingsmomenten met vaste leden die bedrijfsleiders zijn van minstens zes verschillende landbouwbedrijven, die onder begeleiding van een facilitator kennis en ervaringen delen en inzichten uitwisselen over de bedrijfsvoering of specifieke vragen rond thema's die eigen zijn aan de bedrijfstak met de bedoeling om in de eigen bedrijfsvoering verbeteringen aan te brengen, nieuwe methoden in te voeren en aanpassingen door te voeren. De facilitator is een lesgever die conform artikel 30 van het besluit erkend is en die onderlegd is in de materie in kwestie.".
+
 ### ART 2.
 
 In hetzelfde besluit, het laatst gewijzigd bij het ministerieel besluit van 24 februari 2015, worden een artikel 17/1 tot en met 17/2 ingevoegd, die luiden als volgt:<br>
