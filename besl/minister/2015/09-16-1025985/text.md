@@ -17,16 +17,16 @@ Besluit :
 
 ### ART. 1.
 
-Het hoofd van de afdeling beleid Steden, Brussel en Vlaamse   Rand van het Agentschap Binnenlands Bestuur is gemachtigd om binnen de perken   van de in de begroting voorziene kredieten, facultatieve subsidies te verlenen   voor bijzondere initiatieven voor de Vlaamse Rand rond Brussel, voor een bedrag   van maximum 7.000 euro, na de voorafgaande goedkeuring door de minister, bevoegd   voor de coördinatie van het beleid voor de Vlaamse Rand rond   Brussel.
+...
 
 ### ART. 2.
 
-Het hoofd van de afdeling kan deze bevoegdheid subdelegeren   aan personeelsleden van de afdeling tot op het meest functionele niveau. Elke   subdelegatie wordt meegedeeld aan de minister, bevoegd voor de coördinatie van   het beleid met betrekking tot de Vlaamse Rand rond Brussel, en aan het hoofd van   het Agentschap Binnenlands Bestuur.
+...
 
 ### ART. 3.
 
-Het ministerieel besluit van 1 april 2006 houdende delegatie   van sommige bevoegdheden inzake bijzondere initiatieven voor de Vlaamse Rand   rond Brussel wordt opgeheven.
+...
 
 ### ART. 4.
 
-Dit besluit treedt in werking op 1 september   2015.
+...
