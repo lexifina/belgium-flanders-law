@@ -76,7 +76,7 @@ Aan een sociaal verhuurkantoor als vermeld in artikel 56 van de Vlaamse Wooncode
 
 ### ART 8.
 
-De kredietgever, vermeld in artikel 1, eerste lid, 6°, van het besluit van de Vlaamse Regering van 13 september 2013 houdende de voorwaarden waaronder de Vlaamse Maatschappij voor Sociaal Wonen en het Vlaams Woningfonds bijzondere sociale leningen aan particulieren kunnen toestaan, kan aan de ontlener kosteloos betalingsuitstel toestaan als de ontlener aantoont dat zijn inkomsten zijn gedaald als gevolg van de coronavirusmaatregelen. De ontlener krijgt dan een betalingsuitstel van maximum 6 maanden waarbij geen kapitaal of interesten worden afgelost en dit tot ten laatste 31 oktober 2020. De interesten tijdens de periode van betalingsuitstel zijn achteraf niet verschuldigd. Na de periode van betalingsuitstel wordt de looptijd van de lening verlengd met het aantal maanden van betalingsuitstel.<br>
+De kredietgever, vermeld in artikel 1, eerste lid, 6°, van het besluit van de Vlaamse Regering van 13 september 2013 houdende de voorwaarden waaronder de Vlaamse Maatschappij voor Sociaal Wonen en het Vlaams Woningfonds bijzondere sociale leningen aan particulieren kunnen toestaan, kan aan de ontlener kosteloos betalingsuitstel toestaan als de ontlener aantoont dat zijn inkomsten zijn gedaald als gevolg van de coronavirusmaatregelen of als gevolg van het ziekteverlof door het coronavirus. De ontlener krijgt dan een betalingsuitstel van maximum 6 maanden waarbij geen kapitaal of interesten worden afgelost en dit tot ten laatste 31 oktober 2020. De interesten tijdens de periode van betalingsuitstel zijn achteraf niet verschuldigd. Na de periode van betalingsuitstel wordt de looptijd van de lening verlengd met het aantal maanden van betalingsuitstel.<br>
 <br>
 In afwijking van artikel 9, eerste lid, van het voormelde besluit, kan na het toestaan van betalingsuitstel de looptijd van de lening meer dan 360 maanden bedragen, met een maximum van 366 maanden en moet de lening volledig zijn terugbetaald in het jaar waarin de jongste ontlener 76 jaar wordt.<br>
 <br>
@@ -86,7 +86,7 @@ Een ontlener die al betalingsachterstand heeft opgelopen voor de start van de pe
 
 ### ART 9.
 
-De kredietgever aanvaardt tijdelijke werkloosheid van de ontlener wegens overmacht (reden `coronavirus') als uitzonderlijk geval om een uitstel van betaling als vermeld in artikel 10, § 2, tweede lid, van het besluit van de Vlaamse Regering van 7 december 2018 tot instelling van een huurwaarborglening, toe te staan.<br>
+De kredietgever aanvaardt een daling van het inkomen als gevolg van de coronavirusmaatregelen of als gevolg van het ziekteverlof door het coronavirus als uitzonderlijk geval om een uitstel van betaling als vermeld in artikel 10, § 2, tweede lid, van het besluit van de Vlaamse Regering van 7 december 2018 tot instelling van een huurwaarborglening, toe te staan.<br>
 <br>
 De ontlener herneemt de terugbetaling van de huurwaarborglening vanaf de tweede maand na de beëindiging van de coronavirusmaatregelen. De kredietgever bezorgt de ontlener een aangepaste aflossingstabel.
 
