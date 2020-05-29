@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033025,
+  "title": "Besluit van de Vlaamse Regering van 2020-03-13 tot wijziging van de ligging van de installaties om gas te vervoeren door leidingen van de naamloze vennootschap Fluxys, op de terreinen van de voormalige Fordfabriek in Genk, die eigendom is van de naamloze vennootschap De Vlaamse Waterweg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033025/VolledigDocument?datum=2020-05-29",
+  "source_sha256": "440d79206abf92ada16b21378bff65ace7bad800ba40a2e30f0a559585e724d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033025&param=informatie",
+  "as_of": "2020-05-29",
+  "made": "2020-03-13",
+  "gazette": "2020-05-19",
+  "numac": 2020041289,
+  "document_start": "2020-05-29",
+  "document_end": null,
+  "in_force": "2020-05-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-05-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
