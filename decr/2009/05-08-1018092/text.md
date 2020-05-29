@@ -3642,6 +3642,14 @@ De VREG kan bepalen dat een elektriciteitsproductie-eenheid in gespecifieerde om
 <br>
 De VREG kan bepalen dat een distributiesysteem of een verbruikseenheid in gespecifieerde omstandigheden als bestaand, dan wel als nieuw wordt beschouwd in het kader van de Netcode voor aansluiting van verbruikers, als bedoeld in verordening 2016/1388/EU.
 
+### ART 15.3.5/22.
+
+Voor projecten die op 20 maart 2020 over een geldige startdatum beschikken en waarvan die startdatum in 2020 of 2021 vervalt, wordt de geldigheidsduur van de startdatum die van toepassing is op het project, geschorst voor de periode van 20 maart 2020 tot en met 17 juli 2020. De Vlaamse Regering kan de periode van die schorsing driemaal met een maand verlengen.<br>
+<br>
+In afwijking van het eerste lid kan de Vlaamse Regering, op aanvraag van de projectontwikkelaar, voor projecten die op 20 maart 2020 over een geldige startdatum beschikken en waarvan die startdatum vanaf 1 januari 2022 vervalt, de geldigheidsduur van de startdatum die op het project van toepassing is, schorsen voor de periode van 20 maart 2020 tot en met 17 juli 2020, op voorwaarde dat de projectontwikkelaar kan aantonen dat het project niet binnen die geldigheidsduur kan worden verwezenlijkt wegens een overmachtsituatie die te wijten is aan COVID-19.<br>
+<br>
+Als de Vlaamse Regering beslist om de schorsing van de geldigheidsduur van de startdatum, overeenkomstig het eerste lid, tweede zin, te verlengen, dan wordt de schorsing, toegekend overeenkomstig het tweede lid, met dezelfde termijn verlengd.
+
 ### ART. 15.3.6.
 
 Dit decreet wordt aangehaald als : het Energiedecreet.
