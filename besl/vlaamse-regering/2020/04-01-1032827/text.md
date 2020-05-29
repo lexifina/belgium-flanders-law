@@ -119,9 +119,13 @@ Het percentage, vermeld in het tweede lid, 1° en 3° bedraagt :<br>
 De organisator van buitenschoolse opvang die de subsidie voor initiatief buitenschoolse opvang, de subsidie voor lokale dienst, de subsidie voor project FCUD buitenschoolse opvang of de subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte ontvangt, kan bij het agentschap een subsidie aanvragen voor de compensatie van de daling van het aantal aanwezigheden in de opvanglocatie in de periode dat de coronamaatregelen gelden en voor de naleving van artikel 3.<br>
 <br>
 De subsidie bedraagt:<br>
-1° voor opvang op een schooldag: 7 euro per openingsdag per plaats voor 80% van de erkende plaatsen of plaatsen met toestemming;<br>
+1° voor opvang op een schooldag: 7 euro per openingsdag per plaats voor een bepaald percentage van de plaatsen op de erkenning of van de plaatsen met toestemming, zoals vermeld in het derde lid;<br>
 2° voor opvang op een schoolvrije dag tijdens de Paasvakantie: 14 euro per openingsdag per plaats voor 100% van de erkende plaatsen of plaatsen met toestemming;<br>
-3° voor opvang op een schoolvrije dag buiten de Paasvakantie : 14 euro per openingsdag per plaats voor 80 % van de erkende plaatsen of plaatsen met toestemming.
+3° voor opvang op een schoolvrije dag buiten de Paasvakantie : 14 euro per openingsdag per plaats voor een bepaald percentage van de plaatsen op de erkenning of van de plaatsen met toestemming, zoals vermeld in het derde lid.<br>
+<br>
+Het percentage, vermeld in het tweede lid, 1° en 3° bedraagt :<br>
+1° 80 % in de periode van 14 maart 2020 tot en met 31 mei 2020;<br>
+2° een door de minister te bepalen percentage in de periode vanaf 1 juni 2020, waarbij het percentage en de periode waarin het percentage geldt, rekening houden met de evolutie van de aanwezigheden in de opvang vanaf 1 juni 2020 en waarbij een onderscheid kan gemaakt worden naargelang de organisator opvang tijdens de schooltijd organiseert of niet.
 
 ### ART 7.
 
