@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033029,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-10 houdende de goedkeuring van het huishoudelijk reglement van de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033029/VolledigDocument?datum=2020-05-30",
+  "source_sha256": "e998dc05df76059b97b0d222e27ff1658f72eae9c4af3b5b8b3b124131a74d6c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033029&param=informatie",
+  "as_of": "2020-05-30",
+  "made": "2020-04-10",
+  "gazette": "2020-05-20",
+  "numac": 2020020910,
+  "document_start": "2020-05-30",
+  "document_end": null,
+  "in_force": "2020-05-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-05-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
