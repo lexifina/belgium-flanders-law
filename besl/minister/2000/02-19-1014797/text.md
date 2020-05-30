@@ -24,7 +24,15 @@ Het materiaal moet in voorkomend geval voldoen aan de relevante fytosanitaire ei
 
 ### ART. 4.
 
-§ 1. Onverminderd het bepaalde in artikel 3 van dit besluit moet het materiaal vrij zijn van, althans met het blote oog waarneembare, schadelijke organismen en ziekten die de kwaliteit van het materiaal aantasten, en van tekenen of symptomen van die schadelijke organismen of ziekten die de gebruikswaarde van het teeltmateriaal en plantgoed van groentegewassen schaden, en vooral van deze die in bijlage I van dit besluit voor de betrokken soorten of geslachten worden vermeld.<br /><br />§ 2. Alle materiaal met, in het stadium van staand gewas, zichtbare tekenen of symptomen van de in § 1 van dit artikel bedoelde schadelijke organismen of ziekten moet, zodra deze tekenen of symptomen optreden, op adequate wijze worden behandeld of, zo nodig, worden verwijderd.<br /><br />§ 3. Voor bollen van sjalot of knoflook moet bovendien aan de volgende eisen worden voldaan : het teeltmateriaal moet rechtstreeks afkomstig zijn van materiaal dat in het stadium van staand gewas een controle heeft ondergaan op de aanwezigheid van de in § 1 bedoelde schadelijke organismen en ziekten en van tekenen of symptomen daarvan, en vooral van die welke in de bijlage van dit besluit worden vermeld.<br /><br />
+Het teeltmateriaal en het plantgoed van groentegewassen zijn, althans bij visuele inspectie, op de productieplaats nagenoeg vrij van alle plaagorganismen met betrekking tot het respectieve teeltmateriaal en plantgoed die opgenomen zijn in bijlage 1, die bij dit besluit is gevoegd.<br>
+<br>
+De aanwezigheid van gereguleerde niet-quarantaineorganismen op teeltmateriaal en plantgoed van groentegewassen die in de handel worden gebracht, overschrijdt, althans bij visuele inspectie, de respectievelijke drempelwaarden die zijn opgenomen in de bijlage 1, die bij dit besluit is gevoegd, niet.<br>
+<br>
+Het teeltmateriaal en het plantgoed van groentegewassen zijn bij visuele inspectie nagenoeg vrij van andere plaagorganismen dan de plaagorganismen met betrekking tot het respectieve teeltmateriaal en plantgoed die opgenomen zijn in bijlage 1, die bij dit besluit is gevoegd, en die de bruikbaarheid en de kwaliteit van dat teeltmateriaal en dat plantgoed van groentegewassen schaden.<br>
+<br>
+Het teeltmateriaal en het plantgoed van groentegewassen voldoet naast de eisen, vermeld in het eerste tot en met het derde lid, aan de volgende eisen:<br>
+1° de eisen voor EU-quarantaineorganismen, plaagorganismen met quarantainestatus voor een beschermd gebied en gereguleerde niet-quarantaineorganismen, vermeld in verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/2013, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad en tot intrekking van de Richtlijnen 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad en de uitvoeringshandelingen die krachtens die verordening zijn vastgesteld;<br>
+2° de eisen, vermeld in de maatregelen die krachtens artikel 30, lid 1, van de voormelde verordening zijn vastgesteld
 
 ### ART. 5.
 
