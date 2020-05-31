@@ -998,29 +998,28 @@ De Vlaamse minister, bevoegd voor het landbouwbeleid is belast met de uitvoering
 2. Het gewas moet voldoen aan de onderstaande normen betreffende de afstand tot dicht in de buurt gelegen<br>
 <br>
 bestuivingsbronnen die tot ongewenste kruisbestuiving kunnen leiden:<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>Gewas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>minimumafstand</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>2</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>Brassica spp. Phacelia tanacetifolia:</p>
 
 			<p>- voor de produktie van basiszaad;</p>
@@ -1039,7 +1038,7 @@ bestuivingsbronnen die tot ongewenste kruisbestuiving kunnen leiden:<br>
 
 			<p>- voor de produktie van zaad bestemd voor de 50 m voortbrenging van groenvoedergewassen, percelen groter dan 2 ha.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 
 			<p>400 m</p>
@@ -1102,7 +1101,39 @@ b) 4 per 10 m2 voor de productie van gecertificeerd zaad.<br>
 <br>
 Voor rassen die volgens erkende procedures officieel worden ingedeeld als "van één kloon afkomstige apomictische rassen", kan een aantal planten die kennelijk niet tot het betrokken ras behoren en waarvan het aantal niet meer bedraagt dan 6 per 10 m2, als in overeenstemming worden beschouwd met voornoemde normen voor de productie van gecertificeerd zaad.<br>
 <br>
-5. De aanwezigheid van schadelijke organismen, die de gebruikswaarden van het zaaizaad verminderen, moet zoveel mogelijk beperkt zijn.<br>
+5. Het gewas is nagenoeg vrij van plaagorganismen die de bruikbaarheid en de kwaliteit van de zaden verminderen. Het gewas voldoet ook aan de volgende eisen:<br>
+1° de eisen voor EU-quarantaineorganismen, plaagorganismen met quarantainestatus voor een beschermd gebied en gereguleerde niet-quarantaineorganismen die zijn opgenomen in de uitvoeringsmaatregelen die zijn vastgesteld krachtens verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/2013, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad en tot intrekking van de Richtlijnen 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad;<br>
+2° de eisen, vermeld in de maatregelen die krachtens artikel 30, lid 1, van de voormelde verordening zijn vastgesteld.<br>
+De aanwezigheid van gereguleerde niet-quarantaineorganismen op het gewas en de respectieve categorieën voldoet aan de eisen, vermeld in de volgende tabel:</p>
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>gereguleerde niet-quarantaine-organismen of symptomen veroorzaakt door gereguleerde nietquarantaineorganismen</td>
+			<td>voor opplant bestemde planten (geslacht of soort)</td>
+			<td>drempel-waarden voor de productie van prebasiszaad</td>
+			<td>drempel-waarden voor de productie van basiszaad</td>
+			<td>drempel-waarden voor de productie van gecertificeerd zaad</td>
+		</tr>
+		<tr>
+			<td>Clavibacter michiganensis ssp. insidiosus (McCulloch 1925) Davis et al. [CORBIN]</td>
+			<td>Medicago sativa L.</td>
+			<td>0 %</td>
+			<td>0 %</td>
+			<td>0 %</td>
+		</tr>
+		<tr>
+			<td>Ditylenchus dipsaci (Kuehn) Filipjev [DITYDI]</td>
+			<td>Medicago sativa L.</td>
+			<td>0 %</td>
+			<td>0 %</td>
+			<td>0 %</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+Onder de voormelde gereguleerde niet-quarantaineorganismen wordt verstaan: de door de EU gereguleerde niet-quarantaineorganismen, vermeld in artikel 36 van de voormelde verordening.<br>
 <br>
 6. [Of aan de bovengenoemde normen of eisen is voldaan, wordt voor basiszaad en gecertificeerd zaad vastgesteld door middel van hetzij officiële veldkeuringen, hetzij veldkeuringen die uitgevoerd zijn onder officieel toezicht. (verv. B.V.R. 16 december 2005, art. 12, I: 4 februari 2006) ]<br>
 <br>
@@ -1144,7 +1175,7 @@ A. Tabel.<br>
 <table border="1">
 	<tbody>
 		<tr>
-			<td rowspan="2" colspan="1">soort</td>
+			<td colspan="1" rowspan="2">soort</td>
 			<td colspan="2">kiemkracht</td>
 			<td rowspan="2">minimale mechanische zuiverheid<br>
 			(% van het gewicht)</td>
@@ -2657,7 +2688,40 @@ o) Het percentage van het aantal zaden Lupinus spp. van een andere kleur mag nie
 -in andere Lupinus spp. dan bittere lupinen : 1 %.<br>
 p) Het percentage van het aantal bittere zaden in rassen van Lupinus spp. mag niet meer bedragen dan 2,5 %.<br>
 <br>
-3. De aanwezigheid van schadelijke organismen die de gebruikswaarde van het zaaizaad verminderen, moet zo veel mogelijk beperkt zijn.<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">3. Het zaad is nagenoeg vrij van plaagorganismen die de bruikbaarheid en de kwaliteit van het zaad verminderen. Het zaad voldoet ook aan de volgende eisen:</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">1° de eisen voor EU-quarantaineorganismen, plaagorganismen met quarantainestatus voor een beschermd gebied en gereguleerde niet-quarantaineorganismen die zijn opgenomen in de uitvoeringshandelingen die zijn vastgesteld krachtens verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/2013, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad en tot intrekking van de Richtlijnen 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad;</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">2° de eisen, vermeld in de maatregelen die krachtens artikel 30, lid 1, van de voormelde verordening zijn vastgesteld.</span></span></span><br>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">De aanwezigheid van gereguleerde niet-quarantaineorganismen op het zaad en de respectieve categorieën voldoet aan de eisen, vermeld in de volgende tabel:</span></span></span></p>
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>gereguleerde niet-quarantaine-organismen of symptomen veroorzaakt door gereguleerde niet quarantaineorganismen</td>
+			<td>voor opplant bestemde planten (geslacht of soort)</td>
+			<td>drempel-waarden voor prebasiszaad</td>
+			<td>drempel-waarden voor basiszaad</td>
+			<td>drempel-waarden voor gecertificeerd zaad</td>
+		</tr>
+		<tr>
+			<td>Clavibacter michiganensis ssp. insidiosus (McCulloch 1925) Davis et al. [CORBIN]</td>
+			<td>Medicago sativa L.</td>
+			<td>0 %</td>
+			<td>0 %</td>
+			<td>0 %</td>
+		</tr>
+		<tr>
+			<td>Ditylenchus dipsaci (Kuehn) Filipjev [DITYDI]</td>
+			<td>Medicago sativa L.</td>
+			<td>0 %</td>
+			<td>0 %</td>
+			<td>0 %</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Onder de voormelde gereguleerde niet-quarantaineorganismen wordt verstaan: de door de EU gereguleerde niet-quarantaineorganismen, vermeld in artikel 36 van de voormelde verordening.</span></span></span><br>
 <br>
 II. BASISZAAD<br>
 Voor basiszaad gelden de voorwaarden, vermeld in deel I, tenzij het hieronder anders is bepaald :<br>
@@ -2673,12 +2737,12 @@ A. Tabel :<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>ste
 <table border="1">
 	<tbody>
 		<tr>
-			<td rowspan="3" colspan="1">soorten</td>
+			<td colspan="1" rowspan="3">soorten</td>
 			<td colspan="6">maximumgehalte aan zaden van andere plantensoorten</td>
 			<td rowspan="3">overige normen of eisen</td>
 		</tr>
 		<tr>
-			<td rowspan="2" colspan="1">totaal<br>
+			<td colspan="1" rowspan="2">totaal<br>
 			(% van het gewicht)</td>
 			<td colspan="5">aantallen in een monster waarvan het gewicht is aangegeven in bijlage II, kolom 4 (totaal per kolom)</td>
 		</tr>
@@ -3504,7 +3568,7 @@ A. Tabel :<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>ste
 	</tbody>
 </table>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">B. Andere normen of voorwaarden waaraan moet worden voldaan als daarnaar wordt verwezen in de tabel, vermeld in deel II, punt 2, A :<br>
+<p style="margin-left:0cm; margin-right:0cm">B. Andere normen of voorwaarden waaraan moet worden voldaan als daarnaar wordt verwezen in de tabel, vermeld in deel II, punt 2, A :<br>
 a) De aanwezigheid van in totaal 80 zaden van Poa spp. geldt niet als onzuiverheid.<br>
 b) De voorwaarde, vermeld in kolom 3, is niet van toepassing op zaaizaad van Poa spp. Het totale maximale aantal zaden van andere Poa spp. dan de soort die onderzocht wordt, mag niet meer dan 1 bedragen in een monster van 500 zaden.<br>
 c) De aanwezigheid van in totaal 20 zaden van Poa spp. geldt niet als onzuiverheid.<br>
