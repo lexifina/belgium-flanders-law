@@ -2,16 +2,16 @@
   "codex_id": 1015564,
   "title": "Besluit van de Vlaamse Regering van 2007-01-19 houdende de reglementering van de handel in en de keuring van pootaardappelen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015564/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "a0739a029a3585504754ced15dfd07b8127f3340240fd92d541f50425a617b1e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015564/VolledigDocument?datum=2020-05-31",
+  "source_sha256": "c638f8cd9cc5fc8909d528ec38a73ee22533b53673b3d35caa9e4a8c39203b4a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015564&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2020-05-31",
   "made": "2007-01-19",
   "gazette": "2007-02-26",
   "numac": 2007035249,
   "document_start": "2007-03-08",
   "document_end": null,
-  "in_force": "2017-04-01",
+  "in_force": "2020-05-31",
   "article_versions": 40,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-05-31; future article versions excluded; article text as the API gives it"
 }
