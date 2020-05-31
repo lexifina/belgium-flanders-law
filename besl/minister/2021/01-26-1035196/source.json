@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035196,
+  "title": "Ministerieel besluit van 2021-01-26 tot wijziging van het ministerieel besluit van 22 oktober 2020 over de vaststelling van de einddatum van de periode COVID-19 en de verhoging van het percentage voor budgetoverschrijding als gevolg van COVID-19",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035196/VolledigDocument?datum=2020-05-31",
+  "source_sha256": "50d929b4f88d3efd6238994218dfe0763e39952d92211d5995c8d91ebac3cba4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035196&param=informatie",
+  "as_of": "2020-05-31",
+  "made": "2021-01-26",
+  "gazette": "2021-02-09",
+  "numac": 2021040496,
+  "document_start": "2020-05-31",
+  "document_end": null,
+  "in_force": "2020-05-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-05-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
