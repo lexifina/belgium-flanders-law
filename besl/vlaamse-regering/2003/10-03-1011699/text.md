@@ -887,7 +887,36 @@ D. Hybriden van Gossypium hirsutum en Gossypium barbadense :<br>
 a) in gewassen voor de productie van basiszaad van ouderlijnen van Gossypium hirsutum en Gossypium barbadense moet de minimale raszuiverheid van zowel de vrouwelijke als de mannelijke ouderlijn 99,8 % bedragen wanneer 5 % of meer van de zaaddragende planten kan worden bevrucht. De mate van mannelijke steriliteit van de zaaddragende ouderlijn moet worden bepaald door de bloemen te onderzoeken op de aanwezigheid van steriele helmknoppen, en mag niet minder bedragen dan 99,9 %.<br>
 b) in gewassen voor de productie van gecertificeerd zaad van hybriderassen van Gossypium hirsutum en/of Gossypium barbadense moet de minimale raszuiverheid van zowel de zaaddragende ouderlijn als de stuifmeelouderlijn 99,5 % bedragen wanneer 5 % of meer van de zaaddragende planten kan worden bevrucht. De mate van mannelijke steriliteit van de zaaddragende ouderlijn moet worden bepaald door de bloemen te onderzoeken op de aanwezigheid van steriele helmknoppen, en mag niet minder bedragen dan 99,7 %.<br>
 <br>
-4. De aanwezigheid van schadelijke organismen die de gebruikswaarde van het zaaizaad verminderen, moet zo veel mogelijk beperkt zijn. Voor Glycine max geldt die voorwaarde in het bijzonder voor de organismen Pseudomonas syringae pv. Glycinea, Diaporthe phaseolorum var. caulivora en var. sojae, Phialophora gregata en Phytophthora megasperma f.sp. glycinea.<br>
+4. Het gewas is nagenoeg vrij van plaagorganismen die de bruikbaarheid en de kwaliteit van het teeltmateriaal verminderen. Het gewas voldoet ook aan de volgende eisen:<br>
+1° de eisen voor EU-quarantaineorganismen, plaagorganismen met quarantainestatus voor een beschermd gebied en gereguleerde niet-quarantaineorganismen die zijn opgenomen in de uitvoeringshandelingen die zijn vastgesteld krachtens verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/2013, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad en tot intrekking van de Richtlijnen 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad;<br>
+2° de eisen, vermeld in de maatregelen die krachtens artikel 30, lid 1, van de voormelde verordening zijn vastgesteld.<br>
+<br>
+De aanwezigheid van gereguleerde niet-quarantaineorganismen op de gewassen voldoet aan de eisen, vermeld in de volgende tabel:</p>
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td colspan="5">schimmels en oömyceten</td>
+		</tr>
+		<tr>
+			<td>gereguleerde niet-quarantaine-organismen of symptomen veroorzaakt door gereguleerde niet quarantaineorganismen</td>
+			<td>voor opplant bestemde planten (geslacht of soort)</td>
+			<td>drempel-waarden voor de productie van prebasiszaad</td>
+			<td>drempel-waarden voor de productie van basiszaad</td>
+			<td>drempel-waarden voor de productie van gecertificeerd zaad</td>
+		</tr>
+		<tr>
+			<td>Plasmopara halstedii (Farlow) Berlese &amp; de Toni [PLASHA]</td>
+			<td>Helianthus annuus L.</td>
+			<td>0 %</td>
+			<td>0 %</td>
+			<td>0 %</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+Onder de voormelde gereguleerde niet-quarantaineorganismen wordt verstaan: de door de EU gereguleerde niet-quarantaineorganismen, vermeld in artikel 36 van de voormelde verordening..<br>
 <br>
 5. Of aan de bovenvermelde andere normen of voorwaarden is voldaan, wordt voor basiszaad vastgesteld door middel van officiële veldkeuringen, en voor gecertificeerd zaad door middel van officiële veldkeuringen of veldkeuringen uitgevoerd onder officieel toezicht. Bij de veldkeuringen moeten de volgende punten in acht worden genomen :<br>
 <br>
@@ -1843,194 +1872,124 @@ b) het totale aantal zaden van andere plantensoorten wordt alleen bepaald als er
 c) het aantal zaden van Cuscuta spp. wordt alleen bepaald als er twijfel over bestaat of aan de voorwaarden, vermeld in kolom 7, is voldaan;<br>
 d) de aanwezigheid van één zaadkorrel van Cuscuta spp. in een monster van het voorgeschreven gewicht geldt niet als onzuiverheid als een tweede monster van hetzelfde gewicht vrij is van zaden van Cuscuta spp.;<br>
 e) het zaad moet volledig vrij zijn van Orobanche spp. : de aanwezigheid van één zaadkorrel van Orobanche spp. in een monster van 100 g geldt evenwel niet als onzuiverheid als een tweede monster van 200 g volledig vrij is van Orobanche spp.<br>
-<br>
-5. De aanwezigheid van schadelijke organismen die de gebruikswaarde van het zaaizaad verminderen, moet zo veel mogelijk beperkt zijn. Het zaaizaad moet met name voldoen aan de volgende andere normen of voorwaarden :<br>
-<br>
-A. Tabel :<br>
-<br>
-</p>
+&nbsp;</p>
 
-<table border="1" cellpadding="0">
+<p>5. Het zaad is nagenoeg vrij van plaagorganismen die de bruikbaarheid en de kwaliteit van het teeltmateriaal verminderen. Het zaad voldoet ook aan de volgende eisen:<br>
+1° de eisen voor EU-quarantaineorganismen, plaagorganismen met quarantainestatus voor een beschermd gebied en gereguleerde niet-quarantaineorganismen die zijn opgenomen in de uitvoeringshandelingen die zijn vastgesteld krachtens verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/2013, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad en tot intrekking van de Richtlijnen 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad;<br>
+2° de eisen, vermeld in de maatregelen die krachtens artikel 30, lid 1, van de voormelde verordening zijn vastgesteld.<br>
+<br>
+De aanwezigheid van gereguleerde niet-quarantaineorganismen op het zaad en de respectieve categorieën voldoet aan de eisen, vermeld in de volgende tabel:</p>
+
+<table border="1">
 	<tbody>
 		<tr>
-			<td rowspan="3" style="background-color:transparent">
-			<p>soort</p>
-			</td>
-			<td colspan="4" style="background-color:transparent">
-			<p>schadelijke organismen</p>
-			</td>
+			<td colspan="5">schimmels en oömyceten</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent">
-			<p>maximumaantal door schadelijke organismen aangetaste zaden (in %) (totaal per kolom)</p>
-			</td>
-			<td rowspan="2" style="background-color:transparent">
-			<p>Sclerotinia sclerotiorum (maximumaantal sclerotiën of delen van sclerotiën in een monster van het gewicht, vermeld in bijlage III, kolom 4)</p>
-			</td>
+			<td>gereguleerde niet-quarantaine-organismen of symptomen veroorzaakt door gereguleerde niet-quarantaine-organismen</td>
+			<td>voor opplant bestemde planten (geslacht of soort)</td>
+			<td>drempel waarden voor prebasiszaad</td>
+			<td>drempel waarden voor basiszaad</td>
+			<td>drempel waarden voor gecertificeerd zaad</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>Botrytis spp.</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>Alternaria linicola, Phoma exigua var. linicola, Colletortrichum linicola, Fusarium spp.</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>Platyedra gossypiella</p>
-			</td>
+			<td>Alternaria linicola Groves &amp; Skolko [ALTELI]</td>
+			<td>Linum usitatissimum L.</td>
+			<td>5 %<br>
+			5% aangetast door Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini en Fusarium spp.</td>
+			<td>5 %<br>
+			5 % aangetast door Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini en Fusarium spp.</td>
+			<td>5 %<br>
+			5 % aangetast door Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini en Fusarium spp.</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>4</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>5</p>
-			</td>
+			<td>Boeremia exigua var. linicola (Naumov &amp; Vassiljevsky) Aveskamp, Gruyter &amp; Verkley [PHOMEL]</td>
+			<td>Linum usitatissimum L. - vezelvlas</td>
+			<td>1 %<br>
+			5 % aangetast door Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini en Fusarium spp.</td>
+			<td>1 %<br>
+			5 % aangetast door Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini en Fusarium spp.</td>
+			<td>1 %<br>
+			5 % aangetast door Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini en Fusarium spp.</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>Brassica napus</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;10 (b)</p>
-			</td>
+			<td>Boeremia exigua var. Linicola (Naumov &amp; Vassiljevsky) Aveskamp, Gruyter &amp; Verkley [PHOMEL]</td>
+			<td>Linum usitatissimum L. - lijnzaad</td>
+			<td>5 %<br>
+			5 % aangetast door Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini en Fusarium spp.</td>
+			<td>5 %<br>
+			5 % aangetast door Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini en Fusarium spp.</td>
+			<td>5 %<br>
+			5 % aangetast door Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini en Fusarium spp.</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>Brassica rapa</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;5 (b)</p>
-			</td>
+			<td>Botrytis cinerea de Bary [BOTRCI]</td>
+			<td>Helianthus annuus L., Linum usitatissimum L.</td>
+			<td>5 %</td>
+			<td>5 %</td>
+			<td>5 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>Cannabis sativa</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>5</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
+			<td>Colletotrichum lini Westerdijk [COLLLI]</td>
+			<td>Linum usitatissimum L.</td>
+			<td>5 %<br>
+			5 % aangetast door Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini en Fusarium spp.</td>
+			<td>5 %<br>
+			5 % aangetast door Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini en Fusarium spp.</td>
+			<td>5 %<br>
+			5 % aangetast door Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini en Fusarium spp.</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>Gossypium spp.</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
+			<td>Diaporthe caulivora (Athow &amp; Caldwell) J.M. Santos, Vrandecic &amp; A.J.L. Phillips [DIAPPC]<br>
+			Diaporthe phaseolorum var. sojae Lehman [DIAPPS]</td>
+			<td>Glycine max (L.) Merr</td>
+			<td>15 % voor besmetting met het Phomopsis-complex</td>
+			<td>15 % voor besmetting met het Phomopsis-complex</td>
+			<td>15 % voor besmetting met het Phomopsis-complex</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>Helianthus annuus</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>5</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>10 (b)</p>
-			</td>
+			<td>Fusarium (anamorf geslacht) Link [1FUSAG]<br>
+			met uitzondering van Fusarium oxysporum f. sp. albedinis (Kill. &amp; Maire) W.L. Gordon [FUSAAL] en Fusarium circinatum Nirenberg &amp; O'Donnell [GIBBCI]</td>
+			<td>Linum usitatissimum L.</td>
+			<td>5 %<br>
+			5 % aangetast door Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini en Fusarium spp.</td>
+			<td>5 %<br>
+			5 % aangetast door Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini en Fusarium spp.</td>
+			<td>5 %<br>
+			5 % aangetast door Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini en Fusarium spp.</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>Linum usitatissimum</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>5</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>5 (a)</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
+			<td>Plasmopara halstedii (Farlow) Berlese &amp; de Toni [PLASHA]</td>
+			<td>Helianthus annuus L.</td>
+			<td>0 %</td>
+			<td>0 %</td>
+			<td>0 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>Sinapis alba</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>&nbsp;5 (b)</p>
-			</td>
+			<td>Sclerotinia sclerotiorum (Libert) de Bary [SCLESC]</td>
+			<td>Brassica rapa L. var. silvestris (Lam.) Briggs,</td>
+			<td>niet meer dan vijf sclerotiën of delen van sclerotiën aangetroffen bij een laboratorium-onderzoek van een representatief monster van elke partij zaad, van een in bijlage III, kolom 4, aangegeven formaat</td>
+			<td>niet meer dan vijf sclerotiën of delen van sclerotiën aangetroffen bij een laboratorium-onderzoek van een representatief monster van elke partij zaad, van een in bijlage III, kolom 4, aangegeven formaat</td>
+			<td>niet meer dan vijf sclerotiën of delen van sclerotiën aangetroffen bij een laboratorium-onderzoek van een representatief monster van elke partij zaad, van een in bijlage III, kolom 4, aangegeven formaat</td>
+		</tr>
+		<tr>
+			<td>Sclerotinia sclerotiorum (Libert) de Bary [SCLESC]</td>
+			<td>Brassica napus L. (partim), Helianthus annuus L.</td>
+			<td>niet meer dan tien sclerotiën of delen van sclerotiën aangetroffen bij een laboratorium-onderzoek van een representatief monster van elke partij zaad, van een in bijlage III, kolom 4, aangegeven formaat</td>
+			<td>niet meer dan tien sclerotiën of delen van sclerotiën aangetroffen bij een laboratorium-onderzoek van een representatief monster van elke partij zaad, van een in bijlage III, kolom 4, aangegeven formaat</td>
+			<td>niet meer dan tien sclerotiën of delen van sclerotiën aangetroffen bij een laboratorium-onderzoek van een representatief monster van elke partij zaad, van een in bijlage III, kolom 4, aangegeven formaat</td>
+		</tr>
+		<tr>
+			<td>Sclerotinia sclerotiorum (Libert) de Bary [SCLESC]</td>
+			<td>Sinapis alba L.</td>
+			<td>niet meer dan vijf sclerotiën of delen van sclerotiën aangetroffen bij een laboratorium-onderzoek van een representatief monster van elke partij zaad, van een in bijlage III, kolom 4, aangegeven formaat</td>
+			<td>niet meer dan vijf sclerotiën of delen van sclerotiën aangetroffen bij een laboratorium-onderzoek van een representatief monster van elke partij zaad, van een in bijlage III, kolom 4, aangegeven formaat</td>
+			<td>niet meer dan vijf sclerotiën of delen van sclerotiën aangetroffen bij een laboratorium-onderzoek van een representatief monster van elke partij zaad, van een in bijlage III, kolom 4, aangegeven formaat".</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>B. Andere normen of voorwaarden waaraan moet worden voldaan, als daarnaar wordt verwezen in de tabel, vermeld in deel I, punt 5, A :<br>
-a) voor Linum usitatissimum - vlas mag het maximumpercentage aan zaden die door Phoma exigua vard. linicola zijn besmet, niet meer bedragen dan één;<br>
-b) het aantal sclerotiën of delen van sclerotiën van Sclerotinia sclerotiorum wordt alleen bepaald als er twijfel over bestaat of aan de voorwaarden, vermeld in kolom 5, is voldaan.<br>
-<br>
-C. Bijzondere normen of andere voorwaarden die van toepassing zijn op Glycine max :<br>
-a) van de vijf deelmonsters waarin een monster van minimaal 5 000 zaden per partij is onderverdeeld, mogen er hoogstens vier besmet zijn met Pseudomonas syringae pv. Glycinea.<br>
-Als in alle vijf deelmonsters verdachte kolonies worden geïdentificeerd, mogen, ter bevestiging, op de verdachte kolonies die van elk deelmonster op een daartoe geschikt medium zijn geïsoleerd, passende biochemische tests worden uitgevoerd;<br>
-b) het maximumaantal met Diaporthe phaseolorum var. phaseolorum besmette zaden mag niet meer bedragen dan 15 %;<br>
-c) het percentage aan stof, gedefinieerd met gangbare internationale testmethoden, mag ten hoogste 0,3 gewichtspercent bedragen.<br>
+<p><br>
 <br>
 II. HANDELSZAAD<br>
 <br>
