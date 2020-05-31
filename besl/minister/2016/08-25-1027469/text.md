@@ -189,24 +189,27 @@ Die prebasismoederplant is, bij visuele inspectie van de faciliteiten, velden en
 
 ### ART 12.
 
-§ 1. Een prebasismoederplant of prebasismateriaal is vrij van de plaagorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1, deel A, en bijlage 2, die bij dit besluit zijn gevoegd.<br>
+§ 1. Een prebasismoederplant of prebasismateriaal voldoet aan al de volgende voorwaarden:<br>
+1° bij visuele inspectie van de faciliteiten, velden en partijen vrijzijn van de gereguleerde niet-quarantaineorganismen, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd;<br>
+2° in overeenstemming zijn met de voorschriften voor het geslacht of de soort in kwestie, vermeld in bijlage 4, die bij dit besluit is gevoegd.<br>
 <br>
-De desbetreffende prebasismoederplant of het desbetreffende prebasismateriaal is bij visuele inspectie van de faciliteiten, velden en partijen vrij bevonden van de plaagorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1, deel A, en bijlage 2, die bij dit besluit zijn gevoegd. De bevoegde entiteit voert die visuele inspectie uit.<br>
+De visuele inspectie, vermeld in het eerste lid, wordt door de bevoegde entiteit en, in voorkomend geval, door de leverancier uitgevoerd.<br>
 <br>
-Het percentage prebasismoederplanten of prebasismateriaal, dat door de plaagorganismen, vermeld in bijlage 1, deel B, die bij dit besluit is gevoegd, wordt aangetast, mag niet hoger zijn dan de daarin vermelde tolerantieniveaus. Van de desbetreffende prebasismoederplanten of het desbetreffende prebasismateriaal wordt bij visuele inspectie van de faciliteiten, velden en partijen vastgesteld dat ze aan die niveaus voldoen. De bevoegde entiteit voert die visuele inspectie uit.<br>
+Conform de voorschriften voor het geslacht of de soort in kwestie en de categorie, vermeld in bijlage 4, die bij dit besluit is gevoegd, voeren de bevoegde entiteit en, in voorkomend geval, de leverancier bemonstering en toetsing uit bij de prebasismoederplant of het prebasismateriaal voor de gereguleerde niet-quarantaineorganismen, vermeld in bijlage 2, die bij dit besluit is gevoegd.<br>
 <br>
-Bij twijfel over de aanwezigheid van die plaagorganismen voert de bevoegde entiteit bemonstering en toetsing uit van de prebasismoederplant of het prebasismateriaal in kwestie.<br>
+Bij twijfel over de aanwezigheid van de gereguleerde niet-quarantaineorganismen, vermeld in bijlage 1, die bij dit besluit is gevoegd, voeren de bevoegde entiteit en, in voorkomend geval, de leverancier bemonstering en toetsing uit van de prebasismoederplant of het prebasismateriaal in kwestie.<br>
 <br>
-§ 2. De bevoegde entiteit voert visuele inspectie, bemonstering en toetsing uit van een prebasismoederplant of prebasismateriaal voor het geslacht of de soort in kwestie, vermeld in bijlage 4, die bij dit besluit is gevoegd.<br>
+§ 2. Voor de bemonstering en toetsing, vermeld in paragraaf 1, worden de protocollen van de EPPO of andere internationaal erkende protocollen toegepast.<br>
 <br>
-§ 3. Voor de bemonstering en de toetsing, vermeld in paragraaf 1, past de bevoegde entiteit de protocollen van de Plantenbeschermingsorganisatie voor Europa en het gebied van de Middellandse Zee (EPPO) of andere internationaal erkende protocollen toe. Als dergelijke protocollen niet bestaan, worden de protocollen toegepast die door de Vlaamse minister die bevoegd is voor landbouw zijn vastgesteld. In dat geval stelt de bevoegde entiteit de protocollen op verzoek ter beschikking aan de andere gewesten, lidstaten en de Commissie.<br>
+Als de protocollen, vermeld in het eerste lid, niet bestaan, past de bevoegde entiteit de protocollen in kwestie toe die op gewestelijk niveau zijn vastgesteld. In dat geval stelt de bevoegde entiteit die protocollen op verzoek ter beschikking aan de andere lidstaten en de Commissie.<br>
 <br>
-De geactualiseerde tekst van de protocollen van de Plantenbeschermingsorganisatie voor Europa en het gebied van de Middellandse Zee (EPPO), vermeld in het eerste lid, is opgenomen op de EPPO website, www.eppo.int. en is op verzoek kosteloos te bekomen via de bevoegde entiteit.<br>
+De bevoegde entiteit en, in voorkomend geval, de leverancier zenden de monsters ter toetsing aan laboratoria die door de bevoegde entiteit officieel zijn erkend.<br>
 <br>
-De bevoegde entiteit zendt de monsters ter toetsing aan de laboratoria die door de bevoegde entiteit zijn erkend.<br>
+§ 3. Als er een positief toetsingsresultaat is voor een of meer van de gereguleerde niet-quarantaineorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd, verwijdert de leverancier de aangetaste prebasismoederplant of het prebasismateriaal uit de nabijheid van andere prebasismoederplanten en ander prebasismateriaal met toepassing van artikel 5, § 3, of artikel 6, § 3, of neemt de leverancier de passende maatregelen conform bijlage 4, die bij dit besluit is gevoegd.<br>
 <br>
-§ 4. Paragraaf 1 is niet van toepassing op prebasismoederplanten en prebasismateriaal tijdens cryobewaring.<br>
-&nbsp;
+§ 4. De maatregelen om ervoor te zorgen dat de eisen van paragraaf 1 worden nageleefd, zijn opgenomen in bijlage 4 voor het geslacht of de soort in kwestie en de categorie.<br>
+<br>
+§ 5. Paragraaf 1 is niet van toepassing op prebasismoederplanten en prebasismateriaal tijdens cryobewaring.
 
 ### ART 13.
 
@@ -292,24 +295,27 @@ In plaats van de onderstam te verwijderen, mag de leverancier passende maatregel
 
 ### ART 18.
 
-§ 1. Een basismoederplant of basismateriaal is vrij van de plaagorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1, deel A, en bijlage 2, die bij dit besluit zijn gevoegd.<br>
+§ 1. Een basismoederplant of basismateriaal voldoet aan al de volgende voorwaarden:<br>
+1° Bij visuele inspectie van de faciliteiten, velden en partijen vrij zijn van de gereguleerde niet-quarantaineorganismen, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd;<br>
+2° in overeenstemming zijn met de voorschriften voor het geslacht of de soort in kwestie, vermeld in bijlage 4, die bij dit besluit is gevoegd.<br>
 <br>
-De desbetreffende basismoederplant of het desbetreffende basismateriaal is bij visuele inspectie van de faciliteiten, velden en partijen, door de bevoegde entiteit uitgevoerd, vrij bevonden van de plaagorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1, deel A, en bijlage 2, die bij dit besluit zijn gevoegd.<br>
+De visuele inspectie, vermeld in het eerste lid, wordt door de bevoegde entiteit en, in voorkomend geval, door de leverancier uitgevoerd.<br>
 <br>
-Het percentage basismoederplanten of basismateriaal, dat door de plaagorganismen, vermeld in bijlage 1, deel B, die bij dit besluit is gevoegd, wordt aangetast, mag niet hoger zijn dan de vermelde tolerantieniveaus. Van de desbetreffende basismoederplanten of het desbetreffende basismateriaal wordt bij visuele inspectie van de faciliteiten, velden en partijen, uitgevoerd door de bevoegde entiteit, vastgesteld dat ze aan die niveaus voldoen.<br>
+Conform de voorschriften voor het geslacht of de soort in kwestie en de categorie, vermeld in bijlage 4, die bij dit besluit is gevoegd, voeren de bevoegde entiteit en, in voorkomend geval, de leverancier bemonstering en toetsing uit bij de basismoederplant of het basismateriaal voor de niet-quarantaineorganismen, vermeld in in bijlage 2, die bij dit besluit is gevoegd.<br>
 <br>
-Bij twijfel over de aanwezigheid van plaagorganismen voert de bevoegde entiteit bemonstering en toetsing uit van de basismoederplant of het basismateriaal in kwestie.<br>
+Bij twijfel over de aanwezigheid van de gereguleerde niet-quarantaineorganismen, vermeld in bijlage 1, die bij dit besluit is gevoegd, voeren de bevoegde entiteit en, in voorkomend geval, de leverancier bemonstering en toetsing uit van de basismoederplant of het basismateriaal in kwestie.<br>
 <br>
-§ 2. De bevoegde entiteit voert visuele inspectie, bemonstering en toetsing uit van een basismoederplant of het basismateriaal voor het geslacht of de soort in kwestie, vermeld in bijlage 4, die bij dit besluit is gevoegd.<br>
+§ 2. Voor de bemonstering en toetsing, vermeld in in paragraaf 1, worden de protocollen van de EPPO of andere internationaal erkende protocollen toegepast.<br>
 <br>
-§ 3. Voor de bemonstering en toetsing, vermeld in paragraaf 1, past de bevoegde entiteit de protocollen van de Plantenbeschermingsorganisatie voor Europa en het gebied van de Middellandse Zee (EPPO) of andere internationaal erkende protocollen toe. Als dergelijke protocollen niet bestaan, worden de protocollen toegepast die door de Vlaamse minister die bevoegd is voor landbouw zijn vastgesteld. In dat geval stelt de bevoegde entiteit de protocollen op verzoek ter beschikking aan de andere gewesten, lidstaten en de Commissie.<br>
+Als de protocollen, vermeld in het eerste lid, niet bestaan, past de bevoegde entiteit de protocollen in kwestie toe die op gewestelijk niveau zijn vastgesteld. In dat geval stelt de bevoegde entiteit die protocollen op verzoek ter beschikking aan de andere lidstaten en de Commissie.<br>
 <br>
-De geactualiseerde tekst van de protocollen van de Plantenbeschermingsorganisatie voor Europa en het gebied van de Middellandse Zee (EPPO), vermeld in het eerste lid, is opgenomen op de EPPO website, www.eppo.int. en is op verzoek kosteloos te bekomen via de bevoegde entiteit.<br>
+De bevoegde entiteit en, in voorkomend geval, de leverancier zenden monsters ter toetsing aan laboratoria die door de bevoegde entiteit officieel zijn erkend.<br>
 <br>
-De bevoegde entiteit zendt de monsters ter toetsing aan de laboratoria die door de bevoegde entiteit zijn erkend.<br>
+§ 3. Als er een positief toetsingsresultaat is voor een of meer van de gereguleerde niet-quarantaineorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd, verwijdert de leverancier de aangetaste basismoederplant of het basismateriaal uit de nabijheid van andere basismoederplanten en ander basismateriaal met toepassing van artikel 17, § 7, of artikel 17, § 8, of neemt de leverancier passende maatregelen conform bijlage 4, die bij dit besluit is gevoegd.<br>
 <br>
-§ 4. Paragraaf 1 is niet van toepassing op basismoederplanten en basismateriaal tijdens cryobewaring.<br>
-&nbsp;
+§ 4. De maatregelen om ervoor te zorgen dat de eisen van paragraaf 1 worden nageleefd, zijn opgenomen in bijlage 4 voor het geslacht of de soort in kwestie en de categorie.<br>
+<br>
+§ 5. Paragraaf 1 is niet van toepassing op basismoederplanten en basismateriaal tijdens cryobewaring.
 
 ### ART 19.
 
@@ -376,24 +382,27 @@ In plaats van de onderstam te verwijderen, mag de leverancier passende maatregel
 
 ### ART 23.
 
-§ 1. Een gecertificeerde moederplant of gecertificeerd materiaal is vrij van de plaagorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1, deel A, en bijlage 2, die bij dit besluit zijn gevoegd.<br>
+§ 1. een gecertificeerde moederplant of gecertificeerd materiaal voldoet aan al de volgende voorwaarden:<br>
+1° Bij visuele inspectie van de faciliteiten, velden en partijen vrij zijn van de gereguleerde niet-quarantaineorganismen, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd;<br>
+2° in overeenstemming zijn met de de voorschriften voor het geslacht of de soort in kwestie, vermeld in bijlage 4, die bij dit besluit is gevoegd.<br>
 <br>
-De desbetreffende gecertificeerde moederplant of het desbetreffende gecertificeerd materiaal is bij visuele inspectie van de faciliteiten, velden en partijen vrij bevonden van de plaagorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1, deel A, en bijlage 2, die bij dit besluit zijn gevoegd. Die visuele inspectie wordt door de bevoegde entiteit of door de leverancier uitgevoerd.<br>
+De visuele inspectie, vermeld in het eerste lid, wordt door de bevoegde entiteit en, in voorkomend geval, door de leverancier uitgevoerd.<br>
 <br>
-Het percentage gecertificeerde moederplanten of gecertificeerd materiaal dat door de plaagorganismen, vermeld in bijlage 1, deel B, die bij dit besluit is gevoegd, wordt aangetast, mag niet hoger zijn dan de vermelde tolerantieniveaus. Van de desbetreffende gecertificeerde moederplanten of het desbetreffende gecertificeerde materiaal wordt bij visuele inspectie van de faciliteiten, velden en partijen vastgesteld dat ze aan de niveaus voldoen. Die visuele inspectie wordt door de bevoegde entiteit uitgevoerd.<br>
+Conform de voorschriften voor het geslacht of de soort in kwestie en de categorie, vermeld in bijlage 4, die bij dit besluit is gevoegd, voeren de bevoegde entiteit en, in voorkomend geval, de leverancier bemonstering en toetsing uit bij de gecertificeerde moederplant of het gecertificeerd materiaal voor de gereguleerde niet-quarantaineorganismen, vermeld in bijlage 2, die bij dit besluit is gevoegd.<br>
 <br>
-Bij twijfel over de aanwezigheid van die plaagorganismen voert de bevoegde entiteit bemonstering en toetsing uit van de gecertificeerde moederplant of het gecertificeerde materiaal in kwestie.<br>
+Bij twijfel over de aanwezigheid van de gereguleerde niet-quarantaineorganismen, vermeld in bijlage 1, die bij dit besluit is gevoegd, voeren de bevoegde entiteit en, in voorkomend geval, de leverancier bemonstering en toetsing uit van de gecertificeerde moederplant of het gecertificeerd materiaal in kwestie.<br>
 <br>
-§ 2. De bevoegde entiteit voert visuele inspectie, bemonstering en toetsing uit van een gecertificeerde moederplant of gecertificeerd materiaal voor het geslacht of de soort in kwestie, vermeld in bijlage 4, die bij dit besluit is gevoegd.<br>
+§ 2. Voor de bemonstering en toetsing, vermeld in paragraaf 1, worden de protocollen van de EPPO of andere internationaal erkende protocollen toegepast.<br>
 <br>
-§ 3. Voor de bemonstering en toetsing, vermeld in paragraaf 1, past de bevoegde entiteit de protocollen van de Plantenbeschermingsorganisatie voor Europa en het gebied van de Middellandse Zee (EPPO) of andere internationaal erkende protocollen toe. Als dergelijke protocollen niet bestaan, worden de protocollen toegepast die door de Vlaamse minister die bevoegd is voor landbouw zijn vastgesteld. In dat geval stelt de bevoegde entiteit de protocollen op verzoek ter beschikking aan de andere gewesten, lidstaten en de Commissie.<br>
+Als de protocollen, vermeld in het eerste lid, niet bestaan, past de bevoegde entiteit de protocollen in kwestie toe die op gewestelijk niveau zijn vastgesteld. In dat geval stelt de bevoegde entiteit die protocollen op verzoek ter beschikking aan de andere lidstaten en de Commissie.<br>
 <br>
-De geactualiseerde tekst van de protocollen van de Plantenbeschermingsorganisatie voor Europa en het gebied van de Middellandse Zee (EPPO), vermeld in het eerste lid, is opgenomen op de EPPO website, www.eppo.int. en is op verzoek kosteloos te bekomen via de bevoegde entiteit.<br>
+De bevoegde entiteit en, in voorkomend geval, de leverancier zenden monsters ter toetsing aan laboratoria die door de bevoegde entiteit officieel zijn erkend.<br>
 <br>
-De bevoegde entiteit zendt de monsters ter toetsing aan de laboratoria die door de bevoegde entiteit zijn erkend.<br>
+§ 3. Als er een positief toetsingsresultaat is voor een of meer van de gereguleerde niet-quarantaineorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd, verwijdert de leverancier de aangetaste gecertificeerde moederplant of het gecertificeerd materiaal uit de nabijheid van andere gecertificeerde moederplanten en ander gecertificeerd materiaal met toepassing van artikel 22, § 7, of artikel 22, § 8, of neemt de leverancier passende maatregelen conform bijlage 4, die bij dit besluit is gevoegd.<br>
 <br>
-§ 4. Paragraaf 1 is niet van toepassing op gecertificeerde moederplanten en gecertificeerd materiaal tijdens cryobewaring.<br>
-&nbsp;
+§ 4. De maatregelen om ervoor te zorgen dat de eisen van paragraaf 1 worden nageleefd, zijn opgenomen in bijlage 4 voor het geslacht of de soort in kwestie en de categorie.<br>
+<br>
+§ 5. Paragraaf 1 is niet van toepassing op gecertificeerde moederplanten en gecertificeerd materiaal tijdens cryobewaring.
 
 ### ART 24.
 
@@ -409,7 +418,7 @@ Bij de uitvoering van de bemonstering en toetsing wordt rekening gehouden met de
 <br>
 Er wordt geen bemonstering en toetsing uitgevoerd als de bevoegde entiteit op basis van een officiële inspectie concludeert dat de grond vrij is van de plaagorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 3, die bij dit besluit is gevoegd, die virussen bij zich dragen die voor dat geslacht of die soort schadelijk zijn.<br>
 <br>
-Bij gecertificeerde fruitgewassen worden geen bemonstering en toetsing uitgevoerd.<br>
+Tenzij anders aangegeven, worden bij gecertificeerde fruitgewassen geen bemonstering en toetsing uitgevoerd.<br>
 <br>
 § 3. Voor de bemonstering en toetsing, vermeld in paragraaf 1, past de bevoegde entiteit de protocollen van de Plantenbeschermingsorganisatie voor Europa en het gebied van de Middellandse Zee (EPPO) of andere internationaal erkende protocollen toe. Als dergelijke protocollen niet bestaan, worden de protocollen toegepast die door de Vlaamse minister die bevoegd is voor landbouw zijn vastgesteld. In dat geval stelt de bevoegde entiteit de protocollen op verzoek ter beschikking aan de andere gewesten, lidstaten en de Commissie.<br>
 <br>
@@ -460,24 +469,25 @@ De rasechtheid van het CAC-materiaal wordt regelmatig gecontroleerd door de expr
 
 ### ART 28.
 
-§ 1. CAC-materiaal is nagenoeg vrij van de plaagorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd.<br>
+§ 1. Bij visuele inspectie van de faciliteiten, velden en partijen tijdens de productiefase stelt de leverancier van CAC-materiaal vast dat het materiaal nagenoeg vrij is van de plaagorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1 en 2, die bij dit besluit zijn vermeld, tenzij in bijlage 4, die bij dit besluit is gevoegd, anders is bepaald.<br>
 <br>
-De leverancier van het desbetreffende CAC-materiaal heeft het materiaal bij visuele inspectie van de faciliteiten, velden en partijen nagenoeg vrij bevonden van de plaagorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1 en 2, die bij dt besluit zijn gevoegd.<br>
+Conform de voorschriften voor het geslacht of de soort in kwestie en de categorie, vermeld in bijlage 4, die bij dit besluit is gevoegd, voert de leverancier van CAC-materiaal bemonstering en toetsing uit van de geïdentificeerde bron van het materiaal of het CAC-materiaal voor de gereguleerde niet-quarantaineorganismen, vermeld in bijlage 2, die bij dit besluit is gevoegd.<br>
 <br>
-Bij twijfel over de aanwezigheid van de plaagorganismen voert de leverancier bemonstering en toetsing uit van het desbetreffende CAC-materiaal.<br>
+Bij twijfel over de aanwezigheid van de gereguleerde niet-quarantaineorganismen, vermeld in bijlage 1, die bij dit besluit is gevoegd, voert de leverancier bemonstering en toetsing uit van de geïdentificeerde bron van materiaal of CAC-materiaal in kwestie.<br>
 <br>
-§ 2. De leverancier voert visuele inspectie, bemonstering en toetsing uit van het CAC-materiaal voor het geslacht of de soort in kwestie, vermeld in bijlage 4, die bij dit besluit is gevoegd.<br>
+CAC-teeltmateriaal en CAC-fruitgewassen in partijen, na de productiefase, worden alleen in de handel gebracht als ze na visuele inspectie door de leverancier vrij zijn bevonden van tekenen of symptomen van de plaagorganismen, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd.<br>
 <br>
-§ 3. Paragraaf 1 is niet van toepassing op CAC-materiaal tijdens cryobewaring.<br>
+De leverancier voert de maatregelen uit om ervoor te zorgen dat de eisen van deze paragraaf worden nageleefd conform de voorschriften voor het geslacht of de soort in kwestie en de categorie, vermeld in bijlage 4, die bij dit besluit is gevoegd.<br>
 <br>
-§ 4. Naast de voorschriften, vermeld in paragraaf 1 en 2, voldoet CAC-materiaal dat tot de soorten Citrus L., Fortunella Swingle en Poncirus Raf. behoort, aan al de onderstaande voorschriften :<br>
-1° het is uit een geïdentificeerde bron van materiaal geproduceerd, die op basis van bemonstering en toetsing vrij is bevonden van de plaagorganismen voor de soorten in kwestie, vermeld in bijlage 2, die bij dit besluit is gevoegd;<br>
-2° sinds het begin van de laatste vegetatiecyclus is het op basis van visuele inspectie, bemonstering en toetsing nagenoeg vrij bevonden van de plaagorganismen voor de soort in kwestie, vermeld in bijlage 2, die bij dit besluit is gevoegd.<br>
-&nbsp;
+§ 2. Paragraaf 1 is niet van toepassing op CAC-materiaal tijdens cryobewaring.
 
 ### ART 29.
 
 CAC-materiaal is op basis van visuele inspectie nagenoeg vrij van gebreken bevonden. Beschadigingen, verkleuringen, littekenweefsel of uitdroging worden als gebreken beschouwd als ze de kwaliteit en bruikbaarheid als teeltmateriaal aantasten.
+
+### ART 29/1.
+
+Om de aanwezigheid van de in die bijlage vermelde gereguleerde niet-quarantaineorganismen voor het geslacht of de soort in kwestie te beperken, worden teeltmateriaal en fruitgewassen met behoud van de toepassing van de gezondheidsvoorschriften en voorschriften voor de grond, vermeld in artikel 11, 12, 13, 18, 19, 23, 24 en 28, geproduceerd conform de voorschriften voor productielocaties, productieplaatsen of gebieden, vermeld in bijlage 4, die bij dit besluit is gevoegd.
 
 ## HOOFDSTUK 3 Specifieke voorschriften voor leveranciers die bij de productie of vermeerdering van teeltmateriaal en fruitgewassen betrokken zijn
 
@@ -530,19 +540,19 @@ Tot en met 31 december 2022 mogen op het Vlaamse grondgebied het teeltmateriaal 
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2016/10/11_1.pdf#page=60">http://www.ejustice.just.fgov.be/mopdf/2016/10/11_1.pdf#page=60</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/17_1.pdf#page=72">Bijlage 1</a>
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2016/10/11_1.pdf#page=68">http://www.ejustice.just.fgov.be/mopdf/2016/10/11_1.pdf#page=68</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/17_1.pdf#page=81">Bijlage 2</a>
 
 ### BIJLAGE 3
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2016/10/11_1.pdf#page=74">http://www.ejustice.just.fgov.be/mopdf/2016/10/11_1.pdf#page=74</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/17_1.pdf#page=88">Bijlage 3</a>
 
 ### BIJLAGE 4
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2016/10/11_1.pdf#page=76">http://www.ejustice.just.fgov.be/mopdf/2016/10/11_1.pdf#page=76</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/17_1.pdf#page=90">Bijlage 4</a>
 
 ### BIJLAGE 5
 
