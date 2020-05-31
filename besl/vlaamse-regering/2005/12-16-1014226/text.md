@@ -443,15 +443,10 @@ De minimumafstanden in de bovenstaande tabel hoeven niet in acht te worden genom
 <br>
 Gewassen van Oryza sativa, Phalaris canariensis, Secale cereale (andere dan hybriden), Sorghum spp. en Zea mays moeten met name aan de volgende andere normen of voorwaarden voldoen :<br>
 <br>
-A. Oryza sativa :<br>
-Het aantal planten dat duidelijk als besmet met Fusarium fujikuroi kan worden herkend, mag niet meer bedragen dan :<br>
-1) 2 per 200 m2 voor de productie van basiszaad,<br>
-2) 4 per 200 m2 voor de productie van gecertificeerd zaad van de eerste nabouw,<br>
-3) 8 per 200 m2 voor de productie van gecertificeerd zaad van de tweede nabouw.<br>
-<br>
-Het aantal planten dat duidelijk als wilde planten of als planten met rode zaden kan worden herkend, mag niet meer bedragen dan :<br>
-1) 0 voor de productie van basiszaad;<br>
-2) 1 per 100 m2 voor de productie van gecertificeerd zaad van de eerste en de tweede nabouw.<br>
+A. Oryza sativa:<br>
+Het aantal planten dat duidelijk als wilde planten of als planten met rode zaden kan worden herkend, bedraagt niet meer dan:<br>
+a) 0 voor de productie van basiszaad;<br>
+b) 1 per 100 m<sup>2</sup>&nbsp;voor de productie van gecertificeerd zaad van de eerste en de tweede generatie.<br>
 <br>
 B. Phalaris canariensis, Secale cereale (andere dan hybriden) :<br>
 het aantal planten van de soorten die duidelijk niet tot het betrokken ras behoren, mag niet meer bedragen dan :<br>
@@ -601,7 +596,54 @@ b) Het gewas moet voldoende rasecht en raszuiver zijn wat de kenmerken van de kr
 &nbsp;3) De eisen van de punten i) en ii) worden via officiële nacontroles onderzocht.<br>
 c) Gecertificeerd zaad mag in gemengde teelt worden geproduceerd van een vrouwelijke of mannelijke steriele kruisingspartner met een mannelijke kruisingspartner die de fertiliteit herstelt.<br>
 <br>
-6. De aanwezigheid van schadelijke organismen die de gebruikswaarde van het zaaizaad verminderen, in het bijzonder van Ustilaginaceae, moet zo veel mogelijk beperkt zijn.<br>
+6. Het gewas is nagenoeg vrij van plaagorganismen die de bruikbaarheid en de kwaliteit van het zaad verminderen. Het gewas voldoet ook aan de volgende eisen:<br>
+1° de eisen voor EU-quarantaineorganismen, plaagorganismen met quarantainestatus voor een beschermd gebied en gereguleerde niet-quarantaineorganismen die zijn opgenomen in de uitvoeringshandelingen die zijn vastgesteld krachtens verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/2013, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad en tot intrekking van de Richtlijnen 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad;<br>
+2° de eisen, vermeld in de maatregelen die krachtens artikel 30, lid 1, van de voormelde verordening zijn vastgesteld.<br>
+<br>
+De aanwezigheid van gereguleerde niet-quarantaineorganismen op de gewassen voldoet aan de eisen, vermeld in de volgende tabel:
+<table border="1">
+	<tbody>
+		<tr>
+			<td colspan="5">schimmels en oömyceten</td>
+		</tr>
+		<tr>
+			<td>gereguleerde niet-quarantaine-organismen of symptomen veroorzaakt door gereguleerde niet-quarantaine-organismen</td>
+			<td>voor opplant bestemde planten (geslacht of soort)</td>
+			<td>drempel waarden voor de productie van prebasiszaad</td>
+			<td>drempel waarden voor de productie van basiszaad</td>
+			<td>drempel waarden voor de productie van gecertificeerd zaad</td>
+		</tr>
+		<tr>
+			<td>Gibberella fujikuroi Sawada [GIBBFU]</td>
+			<td>Oryza sativa L.</td>
+			<td>niet meer dan 2 planten met symptomen per 200 m<sup>2</sup>&nbsp;geconstateerd tijdens veldkeuringen op gepaste tijdstippen van een representatief monster van de planten in elk gewas</td>
+			<td>niet meer dan 2 planten met symptomen per 200 m<sup>2</sup>&nbsp;geconstateerd tijdens veldkeuringen op gepaste tijdstippen van representatief monster van de planten in elk gewas</td>
+			<td>gecertificeerd zaad van de eerste generatie (C1):<br>
+			niet meer dan 4 planten met symptomen per 200 m<sup>2</sup>&nbsp;geconstateerd tijdens veldkeuringen op gepaste tijdstippen van een representatief monster van de planten in elk gewas<br>
+			gecertificeerd zaad van de tweede generatie (C2):<br>
+			niet meer dan 8 planten met symptomen per 200 m<sup>2</sup>&nbsp;geconstateerd tijdens veldkeuringen op gepaste tijdstippen van een representatief monster van de planten in elk gewas</td>
+		</tr>
+		<tr>
+			<td colspan="5">Nematoden</td>
+		</tr>
+		<tr>
+			<td>gereguleerde niet-quarantaine-organismen of symptomen veroorzaakt door gereguleerde niet-quarantaine-organismen</td>
+			<td>voor opplant bestemde planten (geslacht of soort)</td>
+			<td>drempel waarden voor de productie van prebasiszaad</td>
+			<td>drempel waarden voor de productie van basiszaad</td>
+			<td>drempel waarden voor de productie van gecertificeerd zaad</td>
+		</tr>
+		<tr>
+			<td>Aphelenchoides besseyi Christie [APLOBE]</td>
+			<td>Oryza sativa L.</td>
+			<td>0 %</td>
+			<td>0 %</td>
+			<td>0 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Onder de voormelde gereguleerde niet-quarantaineorganismen wordt verstaan: de door de EU gereguleerde niet-quarantaineorganismen, vermeld in artikel 36 van de voormelde verordening.<br>
 <br>
 7. Of aan de bovenvermelde andere normen of voorwaarden is voldaan, wordt voor basiszaad vastgesteld door middel van officiële veldkeuringen, en voor gecertificeerd zaad door middel van hetzij officiële veldkeuringen hetzij onder officieel toezicht uitgevoerde keuringen.<br>
 <br>
@@ -636,34 +678,34 @@ A. Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Oryza sativa, Trit
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:195.35pt">
+			<td style="background-color:transparent; width:195.35pt">
 			<p>Categorie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:114.75pt">
+			<td style="background-color:transparent; width:114.75pt">
 			<p>Minimale raszuiverheid %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:195.35pt">
+			<td style="background-color:transparent; width:195.35pt">
 			<p>basiszaad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:114.75pt">
+			<td style="background-color:transparent; width:114.75pt">
 			<p>99,9</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:195.35pt">
+			<td style="background-color:transparent; width:195.35pt">
 			<p>gecertificeerd zaad, eerste vermeerdering</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:114.75pt">
+			<td style="background-color:transparent; width:114.75pt">
 			<p>99,7</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:195.35pt">
+			<td style="background-color:transparent; width:195.35pt">
 			<p>gecertificeerd zaad, tweede vermeerdering</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:114.75pt">
+			<td style="background-color:transparent; width:114.75pt">
 			<p>99,0</p>
 			</td>
 		</tr>
@@ -682,34 +724,34 @@ B. Zelfbestuivende rassen van xTriticosecale andere dan hybriden :<br>
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:195.35pt">
+			<td style="background-color:transparent; width:195.35pt">
 			<p>Categorie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:114.75pt">
+			<td style="background-color:transparent; width:114.75pt">
 			<p>Minimale raszuiverheid %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:195.35pt">
+			<td style="background-color:transparent; width:195.35pt">
 			<p>basiszaad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:114.75pt">
+			<td style="background-color:transparent; width:114.75pt">
 			<p>99,7</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:195.35pt">
+			<td style="background-color:transparent; width:195.35pt">
 			<p>gecertificeerd zaad, eerste vermeerdering</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:114.75pt">
+			<td style="background-color:transparent; width:114.75pt">
 			<p>99,0</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:195.35pt">
+			<td style="background-color:transparent; width:195.35pt">
 			<p>gecertificeerd zaad, tweede vermeerdering</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:114.75pt">
+			<td style="background-color:transparent; width:114.75pt">
 			<p>98,0</p>
 			</td>
 		</tr>
@@ -748,744 +790,744 @@ A. Tabel :<br>
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td rowspan="2" style="background-color:transparent; width:81.25pt">
 			<p>soorten en categorieën</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td rowspan="2" style="background-color:transparent; width:48.2pt">
 			<p>minimum kiemkracht (% zuiver zaad)</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td rowspan="2" style="background-color:transparent; width:48.2pt">
 			<p>minimale mechanische zuiverheid (gewichts- %)</p>
 			</td>
-			<td colspan="7" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td colspan="7" style="background-color:transparent; width:48.2pt">
 			<p>maximumgehalte - in aantallen - aan zaden van andere plantensoorten, met inbegrip van rode zaden van Oryza sativa, in een monster waarvan het gewicht is aangegeven in bijlage III, kolom 4<br>
 			(totaal per kolom)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>andere planten- soorten (a)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>rode zaden van Oryza sativa</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>andere graansoorten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>Planten- soorten andere dan granen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>Avena fatua, Avena starilis, Lolium temulentum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>Raphanus raphanistrum, Agrostemma githago</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>Panicum spp.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>9</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>Avena sativa, Avena strigosa, Hordeum vulgare, Triticum aestivum, Triticum durum, Triticum spelta :</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>- basiszaad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>85</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>99</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>1 (b)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>0 (c)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>- gecertificeerd zaad, eerste en tweede vermeerdering</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>85 (d)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>0 (c)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>Avena nuda :</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>- basiszaad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>75</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>99</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>1 (b)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>0 (c)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>- gecertificeerd zaad, eerste en tweede vermeerdering</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>75 (d)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>0 (c)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>Oryza sativa :</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>- basiszaad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>80</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>- gecertificeerd zaad, eerste vermeerdering</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>80</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>3</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>- gecertificeerd zaad, tweede vermeerdering</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>80</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>3</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>Secale cereale :</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>- basiszaad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>85</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>1 (b)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>0 (c)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>- gecertificeerd zaad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>85</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>0 (c)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>Phalaris canariensis :</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>- basiszaad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>75</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>1 (b)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>0 (c)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>- gecertificeerd zaad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>75</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>0 (c)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>Sorghum spp.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>80</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>0</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>xTriticosecale :</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>- basiszaad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>80</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>1 (b)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>0 (c)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>- gecertificeerd zaad, eerste en tweede vermeerdering</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>80</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>0 (c)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:81.25pt">
+			<td style="background-color:transparent; width:81.25pt">
 			<p>Zea mays</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>90</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>0</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:48.2pt">
+			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -1504,77 +1546,83 @@ c) de aanwezigheid van één zaadkorrel van Avena fatua, Avena sterilis of Loliu
 <br>
 d) voor rassen van Hordeum vulgare (naakte gerst) wordt de vereiste minimumkiemkracht verlaagd tot 75 % van zuiver zaad. Op het officiële etiket wordt de vermelding « Minimumkiemkracht 75 % » aangebracht.<br>
 <br>
-2. De aanwezigheid van schadelijke organismen die de gebruikswaarde van het zaaizaad verminderen, moet zo veel mogelijk beperkt zijn.<br>
-<br>
-Het zaad moet in het bijzonder voldoen aan de volgende normen betreffende Claviceps purpurea (maximumaantal sclerotiën of delen van sclerotiën in een monster van het gewicht, vermeld in bijlage III, kolom 3).<br>
-</p>
+2. Het zaad is nagenoeg vrij van plaagorganismen die de bruikbaarheid en de kwaliteit van het zaad verminderen. Het zaad voldoet ook aan de volgende eisen:<br>
+1° de eisen voor EU-quarantaineorganismen, plaagorganismen met quarantainestatus voor een beschermd gebied en gereguleerde niet-quarantaineorganismen die zijn opgenomen in de uitvoeringshandelingen die zijn vastgesteld krachtens verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/2013, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad en tot intrekking van de Richtlijnen 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad;<br>
+2° de eisen, vermeld in de maatregelen die krachtens artikel 30, lid 1, van de voormelde verordening zijn vastgesteld.<br>
+De aanwezigheid van gereguleerde niet-quarantaineorganismen op het zaad en de respectieve categorieën voldoet aan de eisen, vermeld in de volgende tabel:<br>
+&nbsp;</p>
 
-<table border="1" cellpadding="0">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
-			<p>Categorie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:114.95pt">
-			<p>Claviceps purpurea</p>
-			</td>
+			<td colspan="5">Nematoden</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
-			<p>granen andere dan hybriden van Secale cereale:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:114.95pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>gereguleerde niet-quarantaine-organismen of symptomen veroorzaakt door gereguleerde niet-quarantaine-organismen</td>
+			<td>voor opplant bestemde planten (geslacht of soort)</td>
+			<td>drempel waarden voor prebasiszaad</td>
+			<td>drempel waarden voor basiszaad</td>
+			<td>drempel waarden voor gecertificeerd zaad</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
-			<p>- basiszaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:114.95pt">
-			<p>1</p>
-			</td>
+			<td>Aphelenchoides besseyi Christie [APLOBE]</td>
+			<td>Oryza sativa L.</td>
+			<td>0 %</td>
+			<td>0 %</td>
+			<td>0 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
-			<p>- gecertificeerd zaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:114.95pt">
-			<p>3</p>
-			</td>
+			<td colspan="5">Schimmels</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
-			<p>hybriden van Secale cereale :</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:114.95pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
-			<p>- basiszaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:114.95pt">
-			<p>1</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
-			<p>- gecertificeerd zaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:114.95pt">
-			<p>4 (*)</p>
-			</td>
+			<td>Gibberella fujikuroi Sawada [GIBBFU]</td>
+			<td>Oryza sativa L.</td>
+			<td>nagenoeg vrij</td>
+			<td>nagenoeg vrij</td>
+			<td>nagenoeg vrij</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
+<p>Onder de voormelde gereguleerde niet-quarantaineorganismen wordt verstaan: de door de EU gereguleerde niet-quarantaineorganismen, vermeld in artikel 36 van de voormelde verordening.<br>
+<br>
+3. De aanwezigheid van schimmelstructuren op het zaad en de respectieve categorieën voldoet aan de eisen, vermeld in de volgende tabel:</p>
 
-<p>&nbsp;</p>
+<table border="1">
+	<tbody>
+		<tr>
+			<td>categorie</td>
+			<td>maximumaantal schimmelstructuren zoals sclerotiën, of moederkoren, in een monster waarvan het gewicht is aangegeven in bijlage III, kolom 3</td>
+		</tr>
+		<tr>
+			<td>granen andere dan hybriden van Secale cereale:</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>basiszaad</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>gecertificeerd zaad</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>hybriden van Secale cereale:</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>basiszaad</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>gecertificeerd zaad</td>
+			<td>4 (*)</td>
+		</tr>
+	</tbody>
+</table>
 
-<p>(*) De aanwezigheid van vijf sclerotiën of delen van sclerotiën in een monster van het voorgeschreven gewicht wordt niet in strijd met de normen geacht, indien een tweede monster van hetzelfde gewicht niet meer dan vier sclerotiën of delen van sclerotiën bevat.</p>
+<p><br>
+(*) De aanwezigheid van vijf schimmelstructuren zoals sclerotiën of delen van sclerotiën, of moederkoren, in een monster van het voorgeschreven gewicht wordt niet in strijd met de normen geacht, als een tweede monster van hetzelfde gewicht niet meer dan vier schimmelstructuren bevat.</p>
 
 ## Bijlage III Gewicht van een partij zaaizaad en van een monster
 
