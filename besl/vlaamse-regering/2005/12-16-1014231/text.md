@@ -613,20 +613,21 @@ Bij gewassen van genetisch eenkiemige rassen wordt ervan uitgegaan dat alle gewa
 <br>
 2° Beta vulgaris L. var. vulgaris, snijbiet.<br>
 <br>
-Onverminderd het bepaalde onder 1° worden de snijbietrassen volgens hun kenmerken ingedeeld in vijf groepen, namelijk:</p>
+Onverminderd het bepaalde onder 1° worden de snijbietrassen volgens hun kenmerken ingedeeld in vijf groepen, namelijk:<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:59.4pt">
+			<td style="background-color:transparent; vertical-align:top; width:59.4pt">
 			<p>Groep (1)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:401.2pt">
+			<td style="background-color:transparent; vertical-align:top; width:401.2pt">
 			<p>Kenmerken (2)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
+			<td style="background-color:transparent; vertical-align:top; width:59.4pt">
 			<p>1</p>
 
 			<p>2</p>
@@ -637,7 +638,7 @@ Onverminderd het bepaalde onder 1° worden de snijbietrassen volgens hun kenmerk
 
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
+			<td style="background-color:transparent; vertical-align:top; width:401.2pt">
 			<p>Rassen met witte bladsteel en lichtgroene bladschijf zonder anthocyaankleuring</p>
 
 			<p>Rassen met witte bladsteel en middel- of donkergroene bladschijf zonder anthocyaankleuring</p>
@@ -658,20 +659,21 @@ Onverminderd het bepaalde onder 1° worden de snijbietrassen volgens hun kenmerk
 
 <p>3° Beta vulgaris L. var. conditiva Alef., rode bieten of kroten.<br>
 <br>
-Onverminderd het bepaalde onder 1° worden de krotenrassen volgens hun kenmerken ingedeeld in zes groepen, namelijk:</p>
+Onverminderd het bepaalde onder 1° worden de krotenrassen volgens hun kenmerken ingedeeld in zes groepen, namelijk:<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:59.4pt">
+			<td style="background-color:transparent; vertical-align:top; width:59.4pt">
 			<p>Groep (1)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:401.2pt">
+			<td style="background-color:transparent; vertical-align:top; width:401.2pt">
 			<p>Kenmerken (2)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
+			<td style="background-color:transparent; vertical-align:top; width:59.4pt">
 			<p>1</p>
 
 			<p>2</p>
@@ -684,7 +686,7 @@ Onverminderd het bepaalde onder 1° worden de krotenrassen volgens hun kenmerken
 
 			<p>6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
+			<td style="background-color:transparent; vertical-align:top; width:401.2pt">
 			<p>Rassen met platte of platronde, inwendig rode of paarse knol</p>
 
 			<p>Rassen met ronde of hoogronde, inwendig witte knol</p>
@@ -731,7 +733,9 @@ bb) voor gecertificeerd zaad 100 m;<br>
 <br>
 Die afstanden hoeven niet in acht genomen te worden, als er voldoende bescherming tegen ongewenste vreemdbestuiving aanwezig is.<br>
 <br>
-5. De aanwezigheid van ziekten en schadelijke organismen die de waarde voor het gebruik als zaad verminderen, moet zo veel mogelijk beperkt zijn.</p>
+5. Het gewas is nagenoeg vrij van plaagorganismen die de bruikbaarheid en de kwaliteit van het teeltmateriaal verminderen. Het gewas voldoet ook aan de volgende eisen:<br>
+1° de eisen voor EU-quarantaineorganismen, plaagorganismen met quarantainestatus voor een beschermd gebied en gereguleerde niet-quarantaineorganismen die zijn opgenomen in de uitvoeringshandelingen die zijn vastgesteld krachtens verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/2013, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad en tot intrekking van de Richtlijnen 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad;<br>
+2° de eisen, vermeld in de maatregelen die krachtens artikel 30, lid 1, van de voormelde verordening zijn vastgesteld.</p>
 
 ## Bijlage II Voorwaarden waaraan het zaad moet voldoen
 
@@ -741,7 +745,9 @@ Die afstanden hoeven niet in acht genomen te worden, als er voldoende beschermin
 <br>
 1. Het zaad moet voldoende rasecht en raszuiver zijn.<br>
 <br>
-2. De aanwezigheid van ziekten en schadelijke organismen die de waarde voor het gebruik als zaad verminderen, moet zo veel mogelijk beperkt zijn.<br>
+2. Het zaad is nagenoeg vrij van plaagorganismen die de bruikbaarheid en de kwaliteit van het teeltmateriaal verminderen. Het zaad voldoet ook aan de volgende eisen:<br>
+1° de eisen voor EU-quarantaineorganismen, plaagorganismen met quarantainestatus voor een beschermd gebied en gereguleerde niet-quarantaineorganismen die zijn opgenomen in de uitvoeringshandelinge die zijn vastgesteld krachtens verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/2013, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad en tot intrekking van de Richtlijnen 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad;<br>
+2° de eisen, vermeld in de maatregelen die krachtens artikel 30, lid 1, van de voormelde verordening zijn vastgesteld.<br>
 <br>
 3. Het zaad moet bovendien aan de volgende voorwaarden voldoen.<br>
 <br>
@@ -751,580 +757,580 @@ A. Normen :<br>
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Soorten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>Minimale mechanische zuiverheid (% van het gewicht)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>Maximale percentage zaden van andere plantensoorten (% van het gewicht)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>Minimale kiemkracht (% van de zuivere zaden of kluwens)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Allium cepa</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Allium fistulosum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Allium porrum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Allium sativum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Allium schoenoprasum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Anthriscus cerefolium</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>96</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Apium graveolens</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Asparagus officinalis</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>96</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Beta vulgaris (Cheltenham beet)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>50<br>
 			(kluwens)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Beta vulgaris (andere soorten dan Cheltenham Beet)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>70<br>
 			(kluwens)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Brassica oleracea (bloemkool)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Brassica oleracea (met uitzondering van bloemkool)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Brassica rapa (Chinese kool)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Brassica rapa (meiraap/stoppelknol)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>80</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Capsicum annuum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Cichorium intybus (partim)<br>
 			(witloof, bladcichorei)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>95</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>1,5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Cichorium intybus (partim)<br>
 			(cichorei voor de industrie)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>80</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Cichorum endivia</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>95</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Citrullus lanatus</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Cucumis melo</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Cucumis sativus</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>80</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Cucurbita maxima</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>80</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Cucurbita pepo</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Cynara cardunculus</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>96</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Daucus carota</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>95</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Foeniculum vulgare</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>96</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Lactuca sativa</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>95</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Solanum lycopersicum L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Petroselinum crispum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Phaseolus coccineus</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>80</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Phaseolus vulgaris</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Pisum sativum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>80</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Raphanus sativus</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Rheum rhabarbarum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Scorzonera hispanica</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>95</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Solanum melongena</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>96</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Spinacia oleracea</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Valerianella locusta</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>95</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Vicia faba</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>80</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
+			<td style="background-color:transparent; width:127.6pt">
 			<p>Zea mays</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>0,1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
+			<td style="background-color:transparent; width:99.25pt">
 			<p>85</p>
 			</td>
 		</tr>
@@ -1333,17 +1339,112 @@ A. Normen :<br>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<p>B. De aanwezigheid van gereguleerde niet-quarantaineorganismen op groentezaad mag, althans bij visuele inspectie, de drempelwaarden, vermeld in de volgende tabel, niet overschrijden:</p>
 
-<p>B. Aanvullende voorwaarden :<br>
-<br>
-a) zaad van vlinderbloemigen mag niet door de volgende levende insecten zijn aangetast :<br>
-- Acanthoscelides obtectus sag.;<br>
-- Bruchus affinis Froel.;<br>
-- Bruchus atomarius L.;<br>
-- Bruchus pisorium L.;<br>
-- Bruchus rufimanus Boh;<br>
-b) het zaad mag niet door levende mijten zijn aangetast.<br>
+<table border="1">
+	<tbody>
+		<tr>
+			<td colspan="3">Bacteriën</td>
+		</tr>
+		<tr>
+			<td>gereguleerde niet-quarantaineorganismen of symptomen veroorzaakt door gereguleerde niet-quarantaineorganismen</td>
+			<td>geslacht of soort van groentezaad</td>
+			<td>drempelwaarde voor de aanwezigheid van gereguleerde niet-quarantaineorganismen op het groentezaad</td>
+		</tr>
+		<tr>
+			<td>Clavibacter michiganensis ssp. michiganensis (Smith) Davis et al. [CORBMI]</td>
+			<td>Solanum lycopersicum L.</td>
+			<td>0 %</td>
+		</tr>
+		<tr>
+			<td>Xanthomonas axonopodis pv. phaseoli (Smith) Vauterin et al. [XANTPH]</td>
+			<td>Phaseolus vulgaris L.</td>
+			<td>0 %</td>
+		</tr>
+		<tr>
+			<td>Xanthomonas euvesicatoria Jones et al. [XANTEU]</td>
+			<td>Capsicum annuum L., Solanum lycopersicum L.</td>
+			<td>0 %</td>
+		</tr>
+		<tr>
+			<td>Xanthomonas fuscans subsp. fuscans Schaad et al. [XANTFF]</td>
+			<td>Phaseolus vulgaris L.</td>
+			<td>0 %</td>
+		</tr>
+		<tr>
+			<td>Xanthomonas gardneri (ex Sutic 1957) Jones et al. [XANTGA]</td>
+			<td>Capsicum annuum L., Solanum lycopersicum L.</td>
+			<td>0 %</td>
+		</tr>
+		<tr>
+			<td>Xanthomonas perforans Jones et al. [XANTPF]</td>
+			<td>Capsicum annuum L., Solanum lycopersicum L.</td>
+			<td>0 %</td>
+		</tr>
+		<tr>
+			<td>Xanthomonas vesicatoria (ex Doidge) Vauterin et al. [XANTVE]</td>
+			<td>Capsicum annuum L., Solanum lycopersicum L.</td>
+			<td>0 %</td>
+		</tr>
+		<tr>
+			<td colspan="3">insecten en mijten</td>
+		</tr>
+		<tr>
+			<td>gereguleerde niet-quarantaineorganismen of symptomen veroorzaakt door gereguleerde niet-quarantaineorganismen</td>
+			<td>geslacht of soort van groentezaad</td>
+			<td>drempelwaarde voor de aanwezigheid van gereguleerde niet-quarantaineorganismen op het groentezaad</td>
+		</tr>
+		<tr>
+			<td>Acanthoscelides obtectus (Say) [ACANOB]</td>
+			<td>Phaseolus coccineus L., Phaseolus vulgaris L.</td>
+			<td>0 %</td>
+		</tr>
+		<tr>
+			<td>Bruchus pisorum (Linnaeus) [BRCHPI]</td>
+			<td>Pisum sativum L.</td>
+			<td>0 %</td>
+		</tr>
+		<tr>
+			<td>Bruchus rufimanus Boheman [BRCHRU]</td>
+			<td>Vicia faba L.</td>
+			<td>0 %</td>
+		</tr>
+		<tr>
+			<td colspan="3">Nematoden</td>
+		</tr>
+		<tr>
+			<td>gereguleerde niet-quarantaineorganismen of symptomen veroorzaakt door gereguleerde niet-quarantaineorganismen</td>
+			<td>geslacht of soort van groentezaad</td>
+			<td>drempelwaarde voor de aanwezigheid van gereguleerde niet-quarantaineorganismen op het groentezaad</td>
+		</tr>
+		<tr>
+			<td>Ditylenchus dipsaci (Kuehn) Filipjev [DITYDI]</td>
+			<td>Allium cepa L., Allium sativum L.</td>
+			<td>0 %</td>
+		</tr>
+		<tr>
+			<td colspan="3">virussen, viroïden, virusachtige ziekten en fytoplasma's</td>
+		</tr>
+		<tr>
+			<td>gereguleerde niet-quarantaineorganismen of symptomen veroorzaakt door gereguleerde niet-quarantaineorganismen</td>
+			<td>geslacht of soort van het groentezaad</td>
+			<td>drempelwaarde voor de aanwezigheid van de gereguleerde niet-quarantaineorganismen op het groentezaad</td>
+		</tr>
+		<tr>
+			<td>Pepino mosaic virus [PEPMV0]</td>
+			<td>Solanum lycopersicum L.</td>
+			<td>0 %</td>
+		</tr>
+		<tr>
+			<td>Potato spindle tuber viroid [PSTVD0]</td>
+			<td>Capsicum annuum L., Solanum lycopersicum L.</td>
+			<td>0 %</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+Onder de voormelde gereguleerde niet-quarantaineorganismen wordt verstaan: de door de EU gereguleerde niet-quarantaineorganismen, vermeld in artikel 36 van verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/2013, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad en tot intrekking van de Richtlijnen 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad..<br>
 <br>
 C. Andere normen of voorwaarden waaraan moet worden voldaan, als daarnaar wordt verwezen in de tabel onder punt A) :<br>
 <br>
