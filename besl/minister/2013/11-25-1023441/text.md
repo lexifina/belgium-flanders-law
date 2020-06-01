@@ -14,8 +14,8 @@
 
 ### ART. 1.
 
-<P>De in artikel 3, § 1, derde lid, van het decreet van 24 juli 1996 tot   vaststelling van het statuut van de niet-professionele sportbeoefenaar bepaalde   data voor de opzegging van de overeenkomst worden voor Vlaamse Bowlingsport   Federatie vzw, Kolonel Bourgstraat 123-125, bus 16 te 1140 Evere, als volgt   bepaald : <BR>1 mei-31 mei.</P>  <P><BR>De vrijheidsaanvraag heeft uitwerking op 1 juni.</P>
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het   Belgisch Staatsblad.
+...
