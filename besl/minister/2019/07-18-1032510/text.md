@@ -16,7 +16,7 @@ Besluit :
 
 ### ART 1.
 
-De maximumcapaciteit van de gemeenschapsinstellingen en het Vlaams Detentiecentrum bedraagt 318 plaatsen, die als volgt worden vastgesteld:<br>
+De maximumcapaciteit van de gemeenschapsinstellingen bedraagt 308 plaatsen, die als volgt worden vastgesteld:<br>
 1° de gemeenschapsinstelling De Kempen in Mol:<br>
 a) 42 gesloten plaatsen voor jongens in de campus De Hutten;<br>
 b) 53 open plaatsen voor jongens in de campus De Markt;<br>
@@ -25,7 +25,7 @@ c) 27 plaatsen voor meisjes in de campus De Markt;<br>
 a) 35 gesloten plaatsen voor jongens in de campus Wingene;<br>
 b) 53 open plaatsen voor jongens in de campus Ruiselede;<br>
 c) 53 plaatsen voor meisjes in de campus Beernem;<br>
-3° de gemeenschapsinstelling De Grubbe in Kortenberg: 40 gesloten plaatsen voor jongens.
+3° de gemeenschapsinstelling De Grubbe in Kortenberg: 45 gesloten plaatsen voor jongens.
 
 ### ART 2.
 
