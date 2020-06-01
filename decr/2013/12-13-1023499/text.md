@@ -3718,7 +3718,7 @@ Het voordeel van de toepassing van de tariefvermindering uit dit artikel kan nie
 <br>
 § 2. Om het verlaagde tarief, vermeld in paragraaf 1, te kunnen toepassen, moeten alle volgende voorwaarden vervuld zijn:<br>
 1° de verkrijger is op de datum van de authentieke aankoopakte niet voor de geheelheid volle eigenaar van een andere woning of bouwgrond. Als er verschillende verkrijgers zijn, zijn ze op de vermelde datum niet samen voor de geheelheid volle eigenaar van een andere woning of bouwgrond;<br>
-2° de verkrijger verbindt zich ertoe zijn inschrijving in het bevolkingsregister of het vreemdelingenregister te nemen op het adres van de aangekochte woning binnen twee jaar na de datum van de authentieke aankoopakte;<br>
+2° de verkrijger verbindt zich ertoe zijn inschrijving in het bevolkingsregister of het vreemdelingenregister te nemen op het adres van de aangekochte woning binnen drie jaar na de datum van de authentieke aankoopakte;<br>
 3° de verplichting, vermeld in artikel 3.12.3.0.1, § 1, is nageleefd.<br>
 <br>
 De koper die de voorwaarde, vermeld in het eerste lid, 2°, niet is nagekomen, is aanvullende rechten verschuldigd.<br>
@@ -3769,11 +3769,13 @@ De koper die de voorwaarden, vermeld in het eerste lid, 1° en 2°, niet is nage
 
 ### ART 2.9.4.2.14.
 
-§ 1. Het verlaagde tarief, vermeld in artikel 2.9.4.2.11, wordt verminderd tot 1 % wanneer deze verkrijging naast de voorwaarden, vermeld in artikel 2.9.4.2.11, § 2, eerste lid, ook voldoet aan de voorwaarden, vermeld in artikel 2.9.4.2.10.<br>
+§ 1. Het verlaagde tarief, vermeld in artikel 2.9.4.2.11, wordt verminderd tot 1 % wanneer deze verkrijging naast de voorwaarde, vermeld in artikel 2.9.4.2.11, § 2, eerste lid, 1°, ook voldoet aan de voorwaarden, vermeld in artikel 2.9.4.2.10.<br>
 <br>
 § 2. Voor de toepassing van het verlaagde tarief, vermeld in paragraaf 1, is het bedrag, vermeld in artikel 2.9.4.2.10, § 2, 1°, minstens het bedrag dat overeenkomt met het verschil tussen het verkooprecht, geheven met toepassing van artikel 2.9.4.2.14, § 1, en het verkooprecht, verschuldigd bij toepassing van artikel 2.9.4.2.11, § 1, en dit ongeacht de eventuele toepassing van paragraaf 7.<br>
 <br>
-De verkrijgers dienen voor de toepassing van het tarief, vermeld in paragraaf 1, en in afwijking van artikel 2.9.4.2.10, § 2, 3°, te voldoen aan de verplichting, vermeld in artikel 3.12.3.0.1, § 1 en § 5, tiende lid.<br>
+Om het tarief, vermeld in paragraaf 1, te kunnen toepassen, voldoen de verkrijgers aan al de volgende voorwaarden :<br>
+1° ze verbinden zich ertoe om binnen vijf jaar na de datum van de authentieke aankoopakte hun inschrijving in het bevolkingsregister of het vreemdelingenregister op het adres van de aangekochte woning te nemen;<br>
+2° ze voldoen aan de verplichtingen, vermeld in artikel 3.12.3.0.1, § 1 en § 5, achtste lid.<br>
 <br>
 § 3. Het bedrag, vermeld in paragraaf 2, eerste lid, is exclusief btw.<br>
 <br>
@@ -3789,7 +3791,7 @@ De koper die de voorwaarden, vermeld in het eerste lid, 1° of 2°, niet is nage
 <br>
 § 6. In geval van een overdracht, die aan een opschortende voorwaarde is onderworpen die nog niet is vervuld op datum van de authentieke akte, wordt voor de toepassing van dit artikel de datum van de vervulling van de voorwaarde in de plaats gesteld van de datum van de authentieke akte.<br>
 <br>
-§ 7. De koper die de voorwaarden, vermeld in artikel 2.9.4.2.11, § 2, 1° en 2°, niet is nagekomen, is aanvullende rechten verschuldigd.
+§ 7. De koper die de voorwaarden, vermeld in paragraaf 2, tweede lid, 1°, en artikel 2.9.4.2.11, § 2, eerste lid, 1°, niet is nagekomen, is aanvullende rechten verschuldigd.
 
 ## [Afdeling 5. Verminderingen (ing. Decr. 19 december 2014, art. 144, I: 1 januari 2015)]
 
@@ -6279,7 +6281,7 @@ Een belastingverhoging van 20 % van de registratiebelasting, respectievelijk van
 7° /2 de verkrijger, als het verlaagde tarief, vermeld in artikel 2.9.4.2.12, § 1, vervalt bij gebrek aan tijdige uitvoering van de renovatie, vermeld in artikel 2.9.4.2.12, § 1, eerste lid, 1°, of bij gebrek aan naleving van de voorwaarde, vermeld in artikel 2.9.4.2.12, § 1, eerste lid, 2° ;<br>
 7° /3 de verkrijger, als het verlaagde tarief, vermeld in artikel 2.9.4.2.12, § 1, vervalt bij gebrek aan vervreemding van de woning of de bouwgrond en waarmee voor de toepassing van artikel 2.9.4.2.12, § 2, 1°, geen rekening is gehouden binnen de termijn, vermeld in artikel 2.9.4.2.12, § 2, 1° ;<br>
 7° /4 de verkrijger, als het verlaagd tarief, vermeld in artikel 2.9.4.2.13, § 1, vervalt bij gebrek aan tijdige verhuring als vermeld in artikel 2.9.4.2.13, § 1, eerste lid, 1°, of bij gebrek aan tijdige indiening van de bewijsstukken, vermeld in artikel 2.9.4.2.13, § 1, eerste lid, 2°, of bij vroegtijdige beëindiging van de huurovereenkomst of bij gebrek aan tijdige kennisgeving hiervan als vermeld in artikel 2.9.4.2.13, § 4;<br>
-7° /5 de verkrijger, als het verlaagd tarief, vermeld in artikel 2.9.4.2.14, § 1, vervalt bij gebrek aan inschrijving binnen de termijn, vermeld in artikel 2.9.4.2.11, § 2, eerste lid, 2° ;<br>
+7° /5 de verkrijger, als het verlaagd tarief, vermeld in artikel 2.9.4.2.14, § 1, vervalt bij gebrek aan inschrijving binnen de termijn, vermeld in artikel 2.9.4.2.14, § 2, tweede lid, 1°&nbsp;;<br>
 7° /6 de verkrijger, als het verlaagde tarief, vermeld in artikel 2.9.4.2.14, § 1, vervalt bij gebrek aan vervreemding van de woning of de bouwgrond en waarmee voor de toepassing van artikel 2.9.4.2.11, § 2, eerste lid, 1°, geen rekening is gehouden binnen de termijn, vermeld in artikel 2.9.4.2.14, § 5, 1° ;<br>
 8° de persoon die een beroepsverklaring heeft ondertekend, als hij bij het verstrijken van een termijn van vijf jaar na die verklaring niet bij machte is om door een reeks wederverkopen te laten blijken dat hij het aangegeven beroep werkelijk uitoefent, zoals voorgeschreven door artikel 2.9.4.2.4, § 4;<br>
 9° de verkrijger, als toepassing gemaakt wordt van artikel 2.9.4.2.5;<br>
@@ -6545,6 +6547,10 @@ De belastingen, vermeld in artikel 3, eerste lid, 4° en 6° tot en met 8°,   v
 ### ART. 5.0.0.0.13.
 
 ...
+
+### ART 5.0.0.0.14.
+
+De termijn van drie jaar, vermeld in artikel 2.9.4.2.11, § 2, eerste lid, 2°, en de termijn van vijf jaar, vermeld in artikel 2.9.4.2.14, § 2, tweede lid, 1°, geldt van rechtswege ook voor de verkoopovereenkomsten die zijn gesloten vanaf 1 juni 2018 en voor 1 juni 2020 met toepassing van het tarief, vermeld in respectievelijk artikel 2.9.4.2.11 en 2.9.4.2.14.
 
 ### ART 5.1.0.0.14.
 
