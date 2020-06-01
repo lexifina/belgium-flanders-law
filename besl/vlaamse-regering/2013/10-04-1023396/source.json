@@ -2,16 +2,16 @@
   "codex_id": 1023396,
   "title": "Besluit van de Vlaamse Regering van 2013-10-04 houdende instelling van een tegemoetkoming van het Fonds ter bestrijding van de uithuiszettingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023396/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "e172b4d6629d46627c968e9f0297173a11e9927247f8191ecbd5023927d87b7c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023396/VolledigDocument?datum=2020-06-01",
+  "source_sha256": "211d54d771a0d6110703f9ed573717999fa62ca734f948bec6bda5ad2e2c40a2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023396&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2020-06-01",
   "made": "2013-10-04",
   "gazette": "2013-11-25",
   "numac": 2013206219,
   "document_start": "2014-01-01",
   "document_end": "2020-05-31",
-  "in_force": "2019-01-01",
+  "in_force": "2020-06-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-01; future article versions excluded; article text as the API gives it"
 }
