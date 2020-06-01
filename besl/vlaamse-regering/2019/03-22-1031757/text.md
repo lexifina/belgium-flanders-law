@@ -389,6 +389,10 @@ Dit besluit voorziet in de gedeeltelijke omzetting van:<br>
 
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne
 
+### ART 2.
+
+In artikel 5.2.1.2, § 5, tweede lid, van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, gewijzigd bij de besluiten van de Vlaamse Regering van 13 juli 2001 en 27 november 2015, wordt tussen de woorden "visueel geïnspecteerd" en de woorden "De exploitant bevestigt" de zin "Bij vaststelling van non-conformiteiten moet de exploitant handelen volgens een interne non-conformiteitsprocedure." ingevoegd.
+
 ## HOOFDSTUK 3. Wijzigingen van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid
 
 ### ART 3.

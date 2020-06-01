@@ -2,16 +2,16 @@
   "codex_id": 1031757,
   "title": "Besluit van de Vlaamse Regering van 2019-03-22 tot wijziging van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen en het besluit van de Vlaamse Regering van 21 juni 2013 betreffende dierlijke bijproducten en afgeleide producten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031757/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "ff9b1e5a7a06917a83fe99c9073a729f71be757994b3723232507dd98f9f6e15",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031757/VolledigDocument?datum=2020-06-01",
+  "source_sha256": "aa7e744f0b1e3863609dbff60b4c9cc0e264a813f55b61ebc92bbc4df9a6acb4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031757&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2020-06-01",
   "made": "2019-03-22",
   "gazette": "2019-06-07",
   "numac": 2019012797,
   "document_start": "2019-06-17",
   "document_end": null,
-  "in_force": "2020-01-01",
-  "article_versions": 94,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-06-01",
+  "article_versions": 95,
+  "record_form": "consolidated version as in force on 2020-06-01; future article versions excluded; article text as the API gives it"
 }
