@@ -30,13 +30,13 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 
 ### BIJLAGE I.
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2019/06/05_1.pdf#page=138">Lijst van gewassen die moeten voldoen aan de CBP-testprotocollen</a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/04/10_1.pdf#page=31">Lijst van gewassen die moeten voldoen aan de CBP-testprotocollen</a></p>
 
 <p>&nbsp;</p>
 
 ### BIJLAGE II.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/06/05_1.pdf#page=142">Lijst van gewassen die moeten voldoen aan de UPOV-testrichtsnoeren</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/04/10_1.pdf#page=35">Lijst van gewassen die moeten voldoen aan de UPOV-testrichtsnoeren</a>
 
 ### BIJLAGE
 
