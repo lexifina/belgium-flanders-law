@@ -14,6 +14,10 @@ Aan artikel 3 van het decreet rechtspositie personeelsleden gemeenschapsonderwij
 <br>
 "44° aanvangsbegeleiding: de structureel verankerde ondersteuning van een tijdelijk personeelslid dat aangesteld is voor bepaalde duur. De aanvangsbegeleiding ondersteunt het tijdelijke personeelslid in het leren beheersen van zijn kerntaken, in het zichzelf verder leren ontwikkelen als persoon en professional en in het leren vinden van zijn weg in zijn instelling als werkplek en lerende organisatie.".
 
+### ART 3.
+
+In artikel 4, § 4, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018, wordt het getal "720" vervangen door het getal "580".
+
 ### ART 4.
 
 Aan artikel 20 van hetzelfde decreet, vervangen bij het decreet van 18 mei 1999, wordt een paragraaf 4 toegevoegd, die luidt als volgt:<br>
@@ -244,6 +248,10 @@ Het recht op een tijdelijke aanstelling voor doorlopende duur geldt niet voor de
 Aan artikel 5 van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991, het laatst gewijzigd bij het decreet van 6 juli 2018, wordt een punt 33° toegevoegd, dat luidt als volgt:<br>
 <br>
 "33° aanvangsbegeleiding: de structureel verankerde ondersteuning van een tijdelijk personeelslid dat aangesteld is voor bepaalde duur. De aanvangsbegeleiding ondersteunt het tijdelijke personeelslid in het leren beheersen van zijn kerntaken, in het zichzelf verder leren ontwikkelen als persoon en professional en in het leren vinden van zijn weg in zijn instelling als werkplek en lerende organisatie.".
+
+### ART 17.
+
+In artikel 6, § 4, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018, wordt het getal "720" vervangen door het getal "580".
 
 ### ART 18.
 
