@@ -2,16 +2,16 @@
   "codex_id": 1000846,
   "title": "Besluit van de Vlaamse Regering van 1992-04-29 betreffende [de verdeling van betrekkingen], de terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie, de wedertewerkstelling en de toekenning van een wachtgeld of wachtgeldtoelage",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000846/VolledigDocument?datum=2019-09-01",
-  "source_sha256": "6775cf1c1cff87713d29be679199afe73da7279cd9049f9c3ea67d30ec9b3779",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000846/VolledigDocument?datum=2020-06-01",
+  "source_sha256": "7b1c8da9e9d32d8f965acab27d939f97ce7199b5bfc9a136a82a9eef4d22ae2f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000846&param=informatie",
-  "as_of": "2019-09-01",
+  "as_of": "2020-06-01",
   "made": "1992-04-29",
   "gazette": "1992-07-01",
   "numac": 1992035686,
   "document_start": null,
   "document_end": null,
-  "in_force": "2019-09-01",
+  "in_force": "2020-06-01",
   "article_versions": 70,
-  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-01; future article versions excluded; article text as the API gives it"
 }
