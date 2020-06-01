@@ -29,6 +29,12 @@ Cursisten betalen eenmalig geen inschrijvingsgeld voor de inschrijving in een mo
 2° het moment van de module, vermeld in punt 1°, waarop een derde van het minimumaantal lestijden dat is vastgelegd ter uitvoering van artikel 24 en artikel 24bis van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, voorbij was, situeerde zich tussen 9 maart 2020 en 31 augustus 2020;<br>
 3° de cursist heeft geen deelcertificaat voor de module, vermeld in punt 1°, behaald.
 
+### ART 9.
+
+Tijdens het schooljaar 2019-2020 kunnen in de centra voor volwassenenonderwijs reguliere vervangingen als vermeld in artikel 22/2, 1°, van de Codex Secundair Onderwijs van 17 december 2010 in een wervingsambt van het onderwijzend personeel worden toegestaan als de afwezigheid start op of na 1 juni 2020.<br>
+<br>
+De vervanging eindigt uiterlijk op 30 juni 2020.
+
 ## HOOFDSTUK 4. Afwijkingen van de Codex Secundair Onderwijs van 17 december 2010
 
 ### ART 10.
