@@ -8,8 +8,8 @@
 
 <p>De volgende personen worden aangewezen als Vlaamse commissarissen als vermeld in het decreet van 19 december 2014 houdende de Vlaamse vastgoedcodex:<br>
 1° ...;<br>
-2° Robert Bielen;<br>
-3° Martina Broothaerts;<br>
+2° ...;<br>
+3° ...;<br>
 4° Dirk Conruyt;<br>
 5° Lydia De Cremer;<br>
 6° Christine De Pus;<br>
@@ -35,7 +35,7 @@
 26° Nathalie Quintelier;<br>
 27° Anne-Marie Reyskens;<br>
 28° Inge Snoeck;<br>
-29° Joris Teirlinck;<br>
+29° ...;<br>
 30° Patrick Van Bever;<br>
 31° Dirk Van Bockstal;<br>
 32° Dirk Van Buylaere;<br>
@@ -66,7 +66,10 @@
 58° Gert Vanhengel;<br>
 59° Rita Snijders;<br>
 60° Henri Roseleth;<br>
-61° Ward Schoenmaekers.</p>
+61° Ward Schoenmaekers;<br>
+62° Immanuel Taets;<br>
+63° Jeroen De Corte;<br>
+64° Pieter Verbeeck.</p>
 
 ### ART. 2.
 
