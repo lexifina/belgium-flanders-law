@@ -177,8 +177,9 @@ In afwijking van artikel 294, § 2, 1°, e), en 2°, f), van dezelfde codex is d
 
 In afwijking van artikel 299, 2°, van dezelfde codex wordt in het type 5 het aantal bepaald op basis van de gemiddelde aanwezigheid van de regelmatige leerlingen:<br>
 1° in het schooljaar 2020-2021:<br>
-a) voor scholen die vanaf het schooljaar 2019-2020 of het schooljaar 2020-2021 in de financiering of subsidiëring zijn opgenomen, gedurende de periode van dertig kalenderdagen die voorafgaat aan 1 oktober 2020;<br>
-b) voor alle andere scholen, gedurende de periode van twaalf maanden die voorafgaat aan 1 februari 2020 als het type tijdens de volledige duur van die periode georganiseerd was of als de school onder de toepassing van artikel 288 valt;<br>
+a) voor scholen die vanaf het schooljaar 2019-2020 in de financiering of subsidiëring zijn opgenomen, gedurende de periode van vijf maanden die voorafgaat aan 1 februari 2020;<br>
+b) voor scholen die vanaf het schooljaar 2020-2021 in de financiering of subsidiëring zijn opgenomen, gedurende de periode van dertig kalenderdagen die voorafgaat aan 1 oktober 2020;<br>
+c) voor alle andere scholen, gedurende de periode van twaalf maanden die voorafgaat aan 1 februari 2020, als het type tijdens de volledige duur van die periode georganiseerd was of als de school onder de toepassing van artikel 288 van dezelfde codex valt;<br>
 2° in het schooljaar 2021-2022:<br>
 a) voor scholen die vanaf het schooljaar 2021-2022 in de financiering of subsidiëring zijn opgenomen, gedurende de periode van dertig kalenderdagen die voorafgaat aan 1 oktober 2021;<br>
 b) voor scholen die vanaf het schooljaar 2019-2020 of het schooljaar 2020-2021 in de financiering of subsidiëring zijn opgenomen, gedurende de periode van twaalf maanden die voorafgaat aan 1 oktober 2021;<br>
@@ -211,10 +212,12 @@ In afwijking van artikel II.288, § 2, van dezelfde codex duurt het mandaat van 
 ### ART 43.
 
 Dit decreet treedt in werking op de dag na bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van<br>
-1° artikel 9, 10, 22, 26, 27, 38, 39, 40, 41 en 42, die in werking treden op 1 september 2020;<br>
+1° artikel 9, § 2, 10, 22, 26, § 2, 27, 38, 39, 40, 41 en 42, die in werking treden op 1 september 2020;<br>
 2° artikel 2, 3, 7, 24, 30 en 33, die uitwerking hebben met ingang van 1 februari 2020;<br>
 3° artikel 4, 6, 8, 9, § 1, 16, 19, 23, 25, 26, § 1, 28, 29 en 31, die uitwerking hebben met ingang van 16 maart 2020;<br>
 4° artikel 13, 14, 20 en 21, die uitwerking hebben met ingang van 31 maart 2020;<br>
 5° artikel 35, dat uitwerking heeft met ingang van 1 april 2020.<br>
+<br>
+<br>
 <br>
 &nbsp;
