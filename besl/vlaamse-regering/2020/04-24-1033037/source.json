@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033037,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-24 houdende de erkenning van bvba Prevenda als een organisatie als vermeld in artikel 91, § 1, tweede lid, 3°, van de Vlaamse Wooncode",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033037/VolledigDocument?datum=2020-06-04",
+  "source_sha256": "0a8ba03789fc4f36918ad2f10a6120c3edba26743773b09dbcb5c7fca4c226fb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033037&param=informatie",
+  "as_of": "2020-06-04",
+  "made": "2020-04-24",
+  "gazette": "2020-05-25",
+  "numac": 2020041299,
+  "document_start": "2020-06-04",
+  "document_end": null,
+  "in_force": "2020-06-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-06-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
