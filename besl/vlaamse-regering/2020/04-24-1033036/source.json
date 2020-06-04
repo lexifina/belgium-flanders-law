@@ -2,16 +2,16 @@
   "codex_id": 1033036,
   "title": "Besluit van de Vlaamse Regering van 2020-04-24 tot aanpassing van een aantal besluiten van de Vlaamse Regering over de ondersteuning van personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033036/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "eb67aa9ff257d178499b95dddd2f26ca0d81ea96288956590dd7bdf9313e32c4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033036/VolledigDocument?datum=2020-06-04",
+  "source_sha256": "4e602f40d922a7d184ea9f029f05a6fe35f1e55d883803e57341a54ad97ead02",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033036&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2020-06-04",
   "made": "2020-04-24",
   "gazette": "2020-05-25",
   "numac": 2020041268,
   "document_start": "2020-01-01",
   "document_end": null,
-  "in_force": "2020-01-01",
-  "article_versions": 13,
-  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-06-04",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2020-06-04; future article versions excluded; article text as the API gives it"
 }

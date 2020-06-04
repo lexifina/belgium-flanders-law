@@ -24,6 +24,18 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## HOOFDSTUK 1. Wijzigingen van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget
 
+### ART 1.
+
+In artikel 31, tweede lid, van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget, gewijzigd bij het besluit van de Vlaamse Regering van 8 juni 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° wordt de zinsnede "budgetcategorie VIII" vervangen door de zinsnede "budgetcategorie 12";<br>
+2° in punt 2° wordt de zinsnede "budgetcategorie III" vervangen door de zinsnede "budgetcategorie 4";<br>
+3° in punt 3° wordt de zinsnede "budgetcategorie IV" vervangen door de zinsnede "budgetcategorie 6".<br>
+4° in punt 4° wordt de zinsnede "budgetcategorie I" vervangen door de zinsnede "budgetcategorie 2".
+
+### ART 2.
+
+In artikel 33, § 2, eerste lid, van hetzelfde besluit wordt de zinsnede "budgetcategorie X als vermeld in artikel 16" vervangen door de zinsnede "budget categorie 16 als vermeld in tabel 1, die opgenomen is in de bijlage die bij dit besluit is gevoegd".
+
 ### ART 3.
 
 In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 10 mei 2019, wordt hoofdstuk 6, dat bestaat uit artikel 34, opgeheven.
@@ -88,6 +100,10 @@ In artikel 11/1, § 2, tweede lid, van het besluit van de Vlaamse Regering van 2
 2° er wordt een zinsnede toegevoegd, die luidt als volgt:<br>
 "ongeacht of voldaan is aan de voorwaarde, vermeld in artikel 3 van het besluit van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap.".
 
+### ART 11.
+
+In hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 mei 2019, wordt hoofdstuk 4, dat bestaat uit artikel 13 tot en met artikel 16, opgeheven.
+
 ### ART 12.
 
 In hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 mei 2019, worden een artikel 19/1 tot en met 19/4 ingevoegd, die luiden als volgt:<br>
@@ -128,6 +144,22 @@ Aan artikel 25 van het besluit van de Vlaamse Regering van 10 mei 2019 tot wijzi
 "De bepalingen van artikel 19, 20 en 21 van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget en de bijlage bij dat besluit, zoals van kracht voor 1 januari 2020, zijn van toepassing op de aanvragen die conform artikel 1 tot en met artikel 15 van het voormelde besluit zijn ingediend voor 17 maart 2020.".
 
 ## HOOFDSTUK 7. Slotbepalingen
+
+### ART 14.
+
+Het besluit van de Vlaamse Regering van 26 april 2019 over de ondersteuning van meerderjarige personen met een dubbeldiagnose en tot wijziging van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten wordt opgeheven.
+
+### ART 15.
+
+De bepalingen van artikel 31 van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget, zoals van kracht voor de inwerkingtreding van artikel 1 van dit besluit, zijn van toepassing op de aanvragen die conform artikel 29 van het voormelde besluit van 27 november 2015 zijn ingediend voor de datum van inwerkingtreding van artikel 1 van dit besluit.
+
+### ART 16.
+
+De bepalingen van artikel 33, § 2, van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget, zoals van kracht voor de inwerkingtreding van artikel 2 van dit besluit, zijn van toepassing op de aanvragen die conform artikel 33, § 1, eerste lid, van het voormelde besluit van 27 november 2015 zijn ingediend voor de datum van inwerkingtreding van artikel 2 van dit besluit.
+
+### ART 17.
+
+De bepalingen van artikel 13 tot en met artikel 16 van het besluit van de Vlaamse Regering van 20 april 2018 houdende maatregelen voor de uitwerking van de persoonsvolgende budgetten die in het kader van de transitie naar persoonsvolgende financiering ter beschikking zijn gesteld, zoals van kracht voor de inwerkingtreding van artikel 11 van dit besluit, zijn van toepassing op de aanvragen in het kader van garantie op ondersteuning zeven dagen per week dag en nacht die zijn ingediend voor de datum van inwerkingtreding van artikel 11 van dit besluit.
 
 ### ART 18.
 
