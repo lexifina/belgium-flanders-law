@@ -226,52 +226,19 @@ De vergunde zorgaanbieders zijn in afwijking van het eerste lid niet gehouden to
 
 ### ART 13.
 
-De personen met een handicap aan wie het agentschap een aantal zorggebonden punten heeft toegekend als vermeld in artikel 2, eerste lid, kunnen, als ze zeven dagen per week behoefte hebben aan woon- en dagondersteuning, maar daarvoor over onvoldoende zorggebonden punten of onvoldoende budget beschikken, conform artikel 15 tot en artikel 16, aanspraak maken op dagondersteuning en woonondersteuning zeven dagen per week als ze aan al de volgende voorwaarden voldoen:<br>
-1° ze maakten op 31 december 2016 gebruik van woon- en dagondersteuning;<br>
-2° de individuele dienstverleningsovereenkomst die van toepassing was op 31 december 2016, voorzag in minstens 3,75 nachten per week woonondersteuning;<br>
-3° ze dienen conform artikel 14 een aanvraag in tot herziening van het aantal zorggebonden punten, vermeld in artikel 2, eerste lid, of, in voorkomend geval, van het budget dat het agentschap heeft toegewezen of ter beschikking heeft gesteld;<br>
-4° ze maken vanaf de datum waarop het aanvraagformulier, vermeld in artikel 14, is bezorgd aan het agentschap, onafgebroken effectief gebruik van woonondersteuning zeven nachten per week en dagondersteuning zeven dagen per week;<br>
-5° het agentschap heeft hen geen budget ter beschikking gesteld op basis van een ondersteuningsplan persoonsvolgende financiering als vermeld in artikel 1, 15°, van het besluit van 27 november 2015 waarin financiering wordt gevraagd voor woonondersteuning zeven nachten per week en dagondersteuning zeven dagen per week.<br>
-&nbsp;
+...
 
 ### ART 14.
 
-§ 1. Om aanspraak te kunnen maken op woon- en dagondersteuning zeven dagen per week conform artikel 15 en 16 van dit besluit, dient de aanvrager, vermeld in artikel 1, 1°, van het besluit van 27 november 2015, een aanvraag in bij het agentschap.<br>
-<br>
-De aanvraag, vermeld in het eerste lid, omvat een aanvraagformulier waarvan het agentschap de inhoud vaststelt, en een multidisciplinair verslag als vermeld in artikel 12, tweede lid, van het besluit van 27 november 2015, dat al de volgende elementen bevat:<br>
-1° een objectivering van de behoefte aan zorg en ondersteuning op basis van de vraag;<br>
-2° een budgetcategorie;<br>
-3° de opmerkingen van de aanvrager als hij niet akkoord gaat met de wijze waarop de objectivering is gebeurd of met het resultaat van de objectivering;<br>
-4° de verklaring van de aanvrager dat hij heeft kennisgenomen van de inhoud van het multidisciplinaire verslag dat aan het agentschap wordt bezorgd.<br>
-<br>
-De indieningsdatum van het aanvraagformulier is de datum van de poststempel of de datum waarop het aanvraagformulier elektronisch is verstuurd.<br>
-<br>
-§ 2. Voor personen met een handicap die voldoen aan de voorwaarden, vermeld in artikel 13, 1°, 2°, en 5°, van dit besluit, en aan wie het agentschap een budget heeft toegewezen op basis van een ondersteuningsplan persoonsvolgende financiering als vermeld in artikel 1, 15°, van het besluit van 27 november 2015, waarin financiering van zeven nachten per week woonondersteuning en zeven dagen per week dagondersteuning wordt gevraagd, kan de aanvraag in afwijking van het tweede lid uitsluitend bestaan uit een aanvraagformulier als vermeld in paragraaf 1, tweede lid.<br>
-<br>
-§ 3. De budgetcategorie die aan de betrokken persoon met een handicap kan worden toegewezen na een aanvraag tot herziening als vermeld in artikel 13, 3°, van dit besluit, wordt bepaald conform hoofdstuk 3, afdeling 2, van het besluit van 27 november 2015. Voor de toepassing van deze bepalingen wordt voor de berekening van het gewicht van de vraag rekening gehouden met zeven nachten per week woonondersteuning en zeven dagen per week dagondersteuning.<br>
-&nbsp;
+...
 
 ### ART 15.
 
-De vergunde zorgaanbieder biedt vanaf de datum waarop het aanvraagformulier, vermeld in artikel 14, § 1, tweede lid, aan het agentschap is bezorgd, gedurende een periode van zes maanden vanaf de voormelde datum waarop het aanvraagformulier, vermeld in artikel 14, § 1, tweede lid, aan het agentschap is bezorgd, zeven dagen per week woon- en dagondersteuning zonder dat de vergunde zorgaanbieder daarvoor een hogere vergoeding kan vragen dan het aantal zorggebonden punten, vermeld in artikel 2, eerste lid, of dan het budget dat het agentschap ter beschikking heeft gesteld.<br>
-<br>
-De vergunde zorgaanbieders, vermeld in het eerste lid, schrijven binnen twee weken vanaf de datum waarop het aanvraagformulier, vermeld in artikel 14, § 1, tweede lid, is bezorgd aan het agentschap, zeven dagen per week woon- en dagondersteuning in, in de individuele dienstverleningsovereenkomst met de betrokken persoon met een handicap en registreren die individuele dienstverleningsovereenkomst binnen dezelfde periode bij het agentschap op de wijze die het agentschap bepaalt.<br>
-<br>
-Het agentschap kan ter staving van het onafgebroken effectieve gebruik, vermeld in artikel 13, 4°, van dit besluit, aan de vergunde zorgaanbieders vragen om aan te tonen dat de betrokken persoon met een handicap financiële bijdragen als vermeld in artikel 22 van het besluit van besluit van 26 februari 2016, zoals van toepassing op 31 december 2016, betaalt of woon- en leefkosten als vermeld in artikel 9 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap, voor zeven dagen per week dag- en woonondersteuning heeft betaald.<br>
-&nbsp;
+...
 
 ### ART 16.
 
-§ 1. Als aan de voorwaarden, vermeld in artikel 13 en 15, is voldaan en als de aanvraag tot herziening, vermeld in artikel 13, 3°, vóór de periode van zes maanden is afgelopen, volledig is afgehandeld en als het agentschap vóór die periode is afgelopen, een beslissing tot toewijzing van het budget dat resulteert uit de aanvraag tot herziening, heeft genomen, stelt het agentschap het budget dat resulteert uit de aanvraag tot herziening, vermeld in artikel 13, 3°, onmiddellijk na afloop van de periode van zes maanden, vermeld in artikel 15, eerste lid, ter beschikking.<br>
-<br>
-Als aan de voorwaarden, vermeld in artikel 13 en 15, is voldaan, maar de aanvraag tot herziening, vermeld in artikel 13, 3°, niet volledig is afgehandeld na afloop van de periode van zes maanden, vermeld in artikel 16, eerste lid, wordt het budget dat resulteert uit de aanvraag tot herziening, ter beschikking gesteld op het moment van de beslissing van het agentschap tot toewijzing van dat budget. Het budget wordt ter beschikking gesteld met ingang van de eerste dag die volgt op de periode van zes maanden, vermeld in artikel 16, eerste lid.<br>
-<br>
-§ 2. Als het agentschap vaststelt dat niet voldaan is aan de voorwaarden, vermeld in artikel 13, 1°, 2°, of 4°, van dit besluit, of aan de voorwaarden, vermeld in artikel 15 van dit besluit, kan de aanvrager, vermeld in artikel 1, 1°, van het besluit van 27 november 2015, op verzoek van het agentschap een ondersteuningsplan persoonsvolgende financiering als vermeld in artikel 1, 15°, van het voormelde besluit, aan het agentschap bezorgen.<br>
-<br>
-Als een ondersteuningsplan persoonsvolgende financiering aan het agentschap wordt bezorgd, wordt de aanvraag tot herziening afgehandeld conform hoofdstuk 2 en 3 van het besluit van 27 november 2015.<br>
-<br>
-Om te voldoen aan de vereisten, vermeld in artikel 12 van het besluit van 27 november 2015, volstaat het om het multidisciplinaire verslag, vermeld in artikel 14, § 1, tweede lid, van dit besluit, aan te vullen met de informatie over de dringendheid van de vraag, vermeld in artikel 12, tweede lid, 4°, van het voormelde besluit.<br>
-&nbsp;
+...
 
 ## HOOFDSTUK 5 Wijzigingsbepalingen
 
