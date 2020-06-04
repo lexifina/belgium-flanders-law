@@ -39,7 +39,7 @@ In dit besluit wordt verstaan onder:<br>
 
 Het recht op gezinsbijslagen van een kind dat de Belgische nationaliteit niet bezit als vermeld in artikel 8, § 1, eerste lid, 1°, van het decreet van 27 april 2018, ontstaat vanaf de datum waarop de beslissing tot toekenning van het verblijfsrecht conform de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen wordt genomen.<br>
 <br>
-In afwijking van het eerste lid ontstaat het recht op gezinsbijslagen voor het kind dat vluchteling is in de zin van de voormelde wet, vanaf de datum van de aanvraag van de vluchtelingenstatus.<br>
+Met behoud van de toepassing van de in het vierde lid vermelde bevoegdheid van de minister, ontstaat het recht op gezinsbijslagen voor het kind dat erkend vluchteling is, vanaf de datum waarop de beslissing van erkenning van de vluchtelingenstatus, overeenkomstig artikel 48/3 van de voormelde wet, wordt genomen.<br>
 <br>
 Als voor het rechtgevend kind zelf niet aangetoond kan worden dat het de toelating heeft of dat het gemachtigd is in België te verblijven of er zich te vestigen conform de voormelde wet, wordt die voorwaarde gecontroleerd via de persoon die het verblijfsrecht van het kind opent als vermeld in het Rijksregister.<br>
 <br>
