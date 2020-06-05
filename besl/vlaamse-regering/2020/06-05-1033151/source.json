@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033151,
+  "title": "Besluit van de Vlaamse Regering van 2020-06-05 tot regeling van bepaalde tijdelijke maatregelen in de beleidsvelden economie, wetenschappelijk onderzoek, innovatie en wetenschapscommunicatie door de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge van het coronavirus COVID-19",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033151/VolledigDocument?datum=2020-06-05",
+  "source_sha256": "d04188ecae7027ff0414b53ce7c83841c9be5e43c5d459631635eecb627d2249",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033151&param=informatie",
+  "as_of": "2020-06-05",
+  "made": "2020-06-05",
+  "gazette": "2020-06-11",
+  "numac": 2020010402,
+  "document_start": "2020-06-05",
+  "document_end": null,
+  "in_force": "2020-06-05",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2020-06-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
