@@ -2,16 +2,16 @@
   "codex_id": 1023852,
   "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie barman",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023852/VolledigDocument?datum=2014-02-28",
-  "source_sha256": "8dc21a86124724db6689d29d964d6edcb8c96e2895ed6b3b4106d23b95ac0223",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023852/VolledigDocument?datum=2020-06-05",
+  "source_sha256": "f352d30fee3c9cba53edc118387ce32b4de968921cf4bce74e518527d2847064",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023852&param=informatie",
-  "as_of": "2014-02-28",
+  "as_of": "2020-06-05",
   "made": "2013-11-29",
   "gazette": "2014-02-18",
   "numac": 2014035134,
   "document_start": "2014-02-28",
   "document_end": null,
-  "in_force": "2014-02-28",
+  "in_force": "2020-06-05",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-02-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-05; future article versions excluded; article text as the API gives it"
 }
