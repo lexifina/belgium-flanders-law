@@ -51,7 +51,9 @@ Ten hoogste 10 % van de IOF-middelen kan worden aangewend ter dekking van de kos
 <br>
 De overige IOF-middelen kunnen besteed worden aan :<br>
 1° de werkingsuitgaven, uitrustingskosten en loonlasten voor onderzoeksprojecten, met een minimale looptijd van één jaar en een projectbedrag van ten minste 25.000&nbsp;euro per jaar;<br>
-2° projectkostenvergoedingen ter ondersteuning van IOF-mandaten.
+2° projectkostenvergoedingen ter ondersteuning van IOF-mandaten.<br>
+<br>
+In afwijking van het eerste lid kan een associatie in het jaar 2020 een gemotiveerde aanvraag doen bij de bevoegde administratie om af te wijken van het op basis van het eerste lid geldende minimum percentage, indien de associatie ten gevolge van de civiele noodsituatie ingevolge van het coronavirus COVID-19 daaraan niet kan voldoen.
 
 ### ART. 5.
 
@@ -276,7 +278,9 @@ De middelen uit het IOF worden toegekend door het associatiebestuur, na gemotive
 <br>
 De aan het IOF toekomende middelen die na afloop van het kalenderjaar in kwestie niet zijn toegewezen, kunnen met behoud van bestemming worden overgedragen naar de begroting van de associatie van het daaropvolgende jaar voor een maximum conform artikel 5, § 3 en § 4, van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring.<br>
 <br>
-In afwijking van het tweede lid kunnen de aan het IOF toekomende middelen die na afloop van het kalenderjaar 2019 niet zijn toegewezen, met behoud van bestemming worden overgedragen naar de begroting van de associatie van het jaar 2020 voor een maximum van 50 % van de in 2019 aan de associatie toegekende IOF-middelen.
+In afwijking van het tweede lid kunnen de aan het IOF toekomende middelen die na afloop van het kalenderjaar 2019 niet zijn toegewezen, met behoud van bestemming worden overgedragen naar de begroting van de associatie van het jaar 2020 voor een maximum van 50 % van de in 2019 aan de associatie toegekende IOF-middelen.<br>
+<br>
+In afwijking van het tweede lid kan een associatie een gemotiveerde aanvraag doen bij de bevoegde administratie om af te wijken van de op basis van het tweede lid geldende maximum percentages voor overdracht van reserves en totale gecumuleerde reserves, indien de associatie ten gevolge van de civiele noodsituatie ingevolge het coronavirus COVID-19 daaraan niet kan voldoen.
 
 ### ART. 16.
 
