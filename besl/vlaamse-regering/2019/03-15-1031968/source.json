@@ -2,16 +2,16 @@
   "codex_id": 1031968,
   "title": "Besluit van de Vlaamse Regering van 2019-03-15 tot erkenning van de beroepskwalificatie boomtechnisch raadgever",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031968/VolledigDocument?datum=2019-08-10",
-  "source_sha256": "b181823f9f351433e8909f29bc046d3d9404bcdc7677598f37e097c1e96f7119",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031968/VolledigDocument?datum=2020-06-05",
+  "source_sha256": "71d4114e3b30a6e3a9383fa67ee1326f6c12e396d4d31175f69207f367f3ddf2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031968&param=informatie",
-  "as_of": "2019-08-10",
+  "as_of": "2020-06-05",
   "made": "2019-03-15",
   "gazette": "2019-07-31",
   "numac": 2019030631,
   "document_start": "2019-08-10",
   "document_end": null,
-  "in_force": "2019-08-10",
+  "in_force": "2020-06-05",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-05; future article versions excluded; article text as the API gives it"
 }
