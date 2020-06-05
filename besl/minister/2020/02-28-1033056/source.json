@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033056,
+  "title": "Ministerieel besluit van 2020-02-28 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 27 april 2018 tot erkenning van de beroepskwalificatie assistent florist",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033056/VolledigDocument?datum=2020-06-05",
+  "source_sha256": "0023f5fbfa0cd04e38021857b9b00098eed0f554c4224f8e6c8ea5ddc104b587",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033056&param=informatie",
+  "as_of": "2020-06-05",
+  "made": "2020-02-28",
+  "gazette": "2020-05-26",
+  "numac": 2020040886,
+  "document_start": "2020-06-05",
+  "document_end": null,
+  "in_force": "2020-06-05",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-06-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
