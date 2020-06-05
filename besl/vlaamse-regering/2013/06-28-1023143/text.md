@@ -60,7 +60,9 @@ De bestedingstermijn van de middelen voor jaar t loopt van 1 januari van het jaa
 <br>
 De middelen van de toegekende subsidie die na afloop van het kalenderjaar in kwestie niet zijn besteed, kunnen met behoud van bestemming worden overgedragen naar de begroting van de universiteit van het volgende jaar voor een maximum conform artikel 5, § 3 en § 4, van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring.<br>
 <br>
-In afwijking van het tweede lid kunnen de middelen van de toegekende subsidie die na afloop van het kalenderjaar 2019 niet zijn besteed, met behoud van bestemming worden overgedragen naar de begroting van de universiteit van het jaar 2020 voor een maximum van 50% van de middelen van de in 2019 toegekende subsidie.
+In afwijking van het tweede lid kunnen de middelen van de toegekende subsidie die na afloop van het kalenderjaar 2019 niet zijn besteed, met behoud van bestemming worden overgedragen naar de begroting van de universiteit van het jaar 2020 voor een maximum van 50% van de middelen van de in 2019 toegekende subsidie.<br>
+<br>
+In afwijking van het tweede lid kan een universiteit in het jaar 2020 een gemotiveerde aanvraag doen bij de bevoegde administratie om af te wijken van de op basis van het tweede lid geldende maximum percentages voor overdracht van reserves en totale gecumuleerde reserves, indien de universiteit ten gevolge van de civiele noodsituatie ingevolge het coronavirus COVID-19 daaraan niet kan voldoen.
 
 ### ART. 8.
 

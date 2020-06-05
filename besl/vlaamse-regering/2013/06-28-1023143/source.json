@@ -2,16 +2,16 @@
   "codex_id": 1023143,
   "title": "Besluit van de Vlaamse Regering van 2013-06-28 betreffende de omkadering van jonge onderzoekers",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023143/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "d55c904bf43ee54e299383a30a7c59980a50410ec35750b2e09415825846090b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023143/VolledigDocument?datum=2020-06-05",
+  "source_sha256": "5ca1d12be9fcf0adb5617216c1d0857f135010f216c69676e38d0ac1ebce71f3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023143&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2020-06-05",
   "made": "2013-06-28",
   "gazette": "2013-08-02",
   "numac": 2013035676,
   "document_start": "2013-08-12",
   "document_end": null,
-  "in_force": "2020-01-01",
+  "in_force": "2020-06-05",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-05; future article versions excluded; article text as the API gives it"
 }
