@@ -712,7 +712,9 @@ De leden van het ZAP, van wie de loonkosten ter uitvoering van artikel 21,   eer
 
 <p>De junior onderzoekers die werken aan projecten die gefinancierd worden ten laste van het Bijzondere Onderzoeksfonds, vermeld in het eerste lid, 1° en 2°, worden in de mogelijkheid gesteld een doctoraatsproefschrift voor te bereiden en, in voorkomend geval, de doctoraatsopleiding te volgen.</p>
 
-<p>Als blijkt dat de bedragen overeenstemmend met het percentage, vermeld in het eerste lid, gemeten aan de aan projecten toegekende middelen, niet integraal zijn toegekend op 31 oktober van het jaar (t+1), blijft het verschil met behoud van bestemming ter beschikking van het universiteitsbestuur.</p>
+<p>Als blijkt dat de bedragen overeenstemmend met het percentage, vermeld in het eerste lid, gemeten aan de aan projecten toegekende middelen, niet integraal zijn toegekend op 31 oktober van het jaar (t+1), blijft het verschil met behoud van bestemming ter beschikking van het universiteitsbestuur.<br>
+<br>
+In afwijking van het eerste lid kan een universiteit in het jaar 2020 een gemotiveerde aanvraag doen bij de bevoegde administratie om af te wijken van het minimum percentage vermeld in het eerste lid dat aan projecten van fundamenteel onderzoek moet gespendeerd worden, indien de universiteit ten gevolge van de civiele noodsituatie ingevolge COVID-19 daaraan niet kan voldoen.</p>
 
 ### ART 49/1.
 
