@@ -2,16 +2,16 @@
   "codex_id": 1025383,
   "title": "Besluit van de Vlaamse Regering van 2015-03-13 tot erkenning van de beroepskwalificatie behandelaar luchtvracht- en bagage",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025383/VolledigDocument?datum=2015-06-06",
-  "source_sha256": "9fde625dfbcc4c1f2b1073e907a21ec4e4804f8b79f7bae66cc62b8383ee76ec",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025383/VolledigDocument?datum=2020-06-05",
+  "source_sha256": "ddef6b36e991f82c2a9bd9542e3ddf2777a0c28e69fb9e7bd32bc285f7f61ff8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025383&param=informatie",
-  "as_of": "2015-06-06",
+  "as_of": "2020-06-05",
   "made": "2015-03-13",
   "gazette": "2015-05-27",
   "numac": 2015035511,
   "document_start": "2015-06-06",
   "document_end": null,
-  "in_force": "2015-06-06",
+  "in_force": "2020-06-05",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2015-06-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-05; future article versions excluded; article text as the API gives it"
 }
