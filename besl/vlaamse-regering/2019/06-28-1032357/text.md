@@ -26,4 +26,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/10/18_2.pdf#page=291">Beschrijving van de beroepskwalificatie art-handler</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/05/26_1.pdf#page=390">Bijlage</a>
