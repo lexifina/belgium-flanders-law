@@ -2,16 +2,16 @@
   "codex_id": 1027515,
   "title": "Besluit van de Vlaamse Regering van 2016-07-08 tot erkenning van de beroepskwalificatie assistent podiumtechnicus",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027515/VolledigDocument?datum=2016-10-31",
-  "source_sha256": "305c84eec56fba6d049c9dcd0fae500a63ab9460d9a423476f5867726b665387",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027515/VolledigDocument?datum=2020-06-05",
+  "source_sha256": "5d0bc2e8a470e4b940687e44debbcdcd87c1539f49f13b8917b499b423d2cd86",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027515&param=informatie",
-  "as_of": "2016-10-31",
+  "as_of": "2020-06-05",
   "made": "2016-07-08",
   "gazette": "2016-10-21",
   "numac": 2016036396,
   "document_start": "2016-10-31",
   "document_end": null,
-  "in_force": "2016-10-31",
+  "in_force": "2020-06-05",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-05; future article versions excluded; article text as the API gives it"
 }
