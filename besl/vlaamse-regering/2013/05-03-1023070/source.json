@@ -2,16 +2,16 @@
   "codex_id": 1023070,
   "title": "Besluit van de Vlaamse Regering van 2013-05-03 tot erkenning van de beroepskwalificatie bakker",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023070/VolledigDocument?datum=2013-07-22",
-  "source_sha256": "8647e2b44019cc5eb81122f0a3bb3d52ee1cfba27f6ef38646db874a7cd870dd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023070/VolledigDocument?datum=2020-06-05",
+  "source_sha256": "b55028209548d205bcbe573efccd7eed257a2e52fd11cab9ee995c9ca1bd8754",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023070&param=informatie",
-  "as_of": "2013-07-22",
+  "as_of": "2020-06-05",
   "made": "2013-05-03",
   "gazette": "2013-07-12",
   "numac": 2013203921,
   "document_start": "2013-07-22",
   "document_end": null,
-  "in_force": "2013-07-22",
+  "in_force": "2020-06-05",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-05; future article versions excluded; article text as the API gives it"
 }
