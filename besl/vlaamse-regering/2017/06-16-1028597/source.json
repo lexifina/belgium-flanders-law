@@ -2,16 +2,16 @@
   "codex_id": 1028597,
   "title": "Besluit van de Vlaamse Regering van 2017-06-16 tot erkenning van de beroepskwalificatie assistent dierlijke productie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028597/VolledigDocument?datum=2017-09-25",
-  "source_sha256": "d71fda8aec64f1cfcd09b7d7cb5bc94bb506f73faacb8d1db78824da87059250",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028597/VolledigDocument?datum=2020-06-05",
+  "source_sha256": "cabe148f5c8993679e93aa30e4a80f39c20a4f8c42841e9e1db5326eb0d16fbe",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028597&param=informatie",
-  "as_of": "2017-09-25",
+  "as_of": "2020-06-05",
   "made": "2017-06-16",
   "gazette": "2017-09-15",
   "numac": 2017013056,
   "document_start": "2017-09-25",
   "document_end": null,
-  "in_force": "2017-09-25",
+  "in_force": "2020-06-05",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2017-09-25; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-05; future article versions excluded; article text as the API gives it"
 }
