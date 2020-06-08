@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033070,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-24 tot wijziging van artikel 19 van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033070/VolledigDocument?datum=2020-06-08",
+  "source_sha256": "ded1c4c4875a6859dda4c894eb213be6cca6abab89ac8cadbdd702d2a29d1b71",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033070&param=informatie",
+  "as_of": "2020-06-08",
+  "made": "2020-04-24",
+  "gazette": "2020-05-29",
+  "numac": 2020041408,
+  "document_start": "2020-06-08",
+  "document_end": null,
+  "in_force": "2020-06-08",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-06-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
