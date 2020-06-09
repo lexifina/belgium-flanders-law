@@ -399,13 +399,7 @@ Als de grens van 745 euro, vermeld in artikel 2.1.5.0.1, § 1, 1°, wordt   over
 
 ### ART. 2.1.5.0.6.
 
-Voor de onbebouwde onroerende goederen in het Vlaams Ecologisch Netwerk, vermeld in artikel 17 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, wordt aan de belastingplichtige een belastingkrediet toegekend dat gelijk is aan 2,5% van het kadastraal inkomen.<br>
-<br>
-Het belastingkrediet, vermeld in het eerste lid, kan nooit meer bedragen dan de onroerende voorheffing, na toepassing van vrijstellingen en verminderingen.<br>
-<br>
-Het belastingkrediet, vermeld in het eerste lid, komt volledig ten laste van het Vlaamse Gewest.<br>
-<br>
-Het belastingkrediet, vermeld in het eerste lid, geldt vanaf de inwerkingtreding van het definitief vastgestelde plan, vermeld in artikel 21, § 9, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, of van het gewestelijk ruimtelijk uitvoeringsplan, vermeld in artikel 2.2.11 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.
+...
 
 ### ART. 2.1.5.0.7.
 
@@ -429,7 +423,7 @@ Het belastingkrediet, vermeld in het eerste lid, komt volledig ten laste van het
 4° de nieuwe onroerende goederen, vermeld in artikel 471, § 3, van het federale WIB 92, waarvoor overeenkomstig artikel 472, § 2, van het federale WIB 92 een kadastraal inkomen wordt vastgesteld vanaf 1 januari 2008;<br>
 5° de nieuwe onroerende goederen, vermeld in artikel 471, § 3, van het federale WIB 92, die overeenkomstig artikel 472, § 2, van het federale WIB 92 na 1 januari 1998 en voor 1 januari 2008 aanleiding hebben gegeven tot een verhoogd kadastraal inkomen in vergelijking met het kadastraal inkomen per 1 januari 1998;<br>
 6° de nieuwe onroerende goederen, vermeld in artikel 471, § 3, van het federale WIB 92, waarvoor voor de eerste keer, overeenkomstig artikel 472, § 2, van het federale WIB 92, een kadastraal inkomen is vastgesteld na 1 januari 1998 en voor 1 januari 2008;<br>
-7° de onroerende goederen die onder de toepassing van het Bosdecreet van 13 juni 1990 vallen en die met toepassing van artikel 16 van het voormelde decreet als milieubeschermend bos zijn erkend, of die met toepassing van artikel 22 van het voormelde decreet als bosreservaat zijn erkend of aangewezen, of die erkend zijn voor de productie van bosbouwkundig teeltmateriaal als vermeld in artikel 42 van het voormelde decreet;<br>
+7° de onroerende goederen die onder de toepassing van het Bosdecreet van 13 juni 1990 vallen en die erkend zijn voor de productie van bosbouwkundig teeltmateriaal als vermeld in artikel 42 van het voormelde decreet;<br>
 8° de als monument beschermde onroerende goederen of delen ervan die de Vlaamse Regering in erfpacht heeft gegeven of in volle eigendom heeft afgestaan aan een vereniging of stichting die is opgericht overeenkomstig de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen, en waarvan de hoofddoelstelling erin bestaat een of meer beschermde onroerende goederen waarvan ze eigenaar of erfpachter is, in stand te houden, te beheren en te ontsluiten;<br>
 9° de onroerende goederen, vermeld in artikel 471, § 3, van het federale WIB 92 voor het gedeelte dat overeenstemt met het kadastraal inkomen van de nieuwe onroerende goederen waarvoor overeenkomstig artikel 472, § 2, van het federale WIB 92 een kadastraal inkomen wordt vastgesteld vanaf 1 januari 2014 en voor 1 januari 2020. Die vrijstelling kan cumulatief worden genoten met de vrijstellingen, vermeld in punt 4° tot en met punt 6°;<br>
 10° de onbebouwde onroerende goederen waarvoor een natuurbeheerplan als vermeld in artikel 16ter, § 1, 4°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, is goedgekeurd conform de bepalingen en uitvoeringsbepalingen van het voormelde decreet.</p>
@@ -3013,13 +3007,11 @@ Het verkooprecht en het verdeelrecht dat geheven wordt bij de registratie   van 
 
 ### ART. 2.7.6.0.2.
 
-De waarde van de onbebouwde onroerende goederen in het Vlaams Ecologisch Netwerk, vermeld in het artikel 17 tot en met het artikel 26bis van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, wordt van de erfbelasting vrijgesteld.<br>
-<br>
-De vrijstelling geldt vanaf de inwerkingtreding van het definitief vastgestelde plan, vermeld in artikel 21, § 9, van hetzelfde decreet, of van het gewestelijk ruimtelijk uitvoeringsplan, vermeld in artikel 2.2.11 van de Vlaamse Codex Ruimtelijke Ordening.
+...
 
 ### ART. 2.7.6.0.3.
 
-De waarde van de onroerende goederen die te beschouwen zijn als bos als   vermeld in artikel 3 van het bosdecreet van 13 juni 1990 wordt van de   erfbelasting vrijgesteld. De vrijstelling geldt zowel voor de grond- als voor de   opstandswaarde.<BR><BR>De vrijstelling wordt alleen toegepast als voor het bos   een door het bosbeheer goedgekeurd beheersplan is opgemaakt overeenkomstig de   bepalingen en uitvoeringsbepalingen van het Bosdecreet van 13 juni 1990, dat ook   voldoet aan de door de Vlaamse Regering vast te stellen criteria als vermeld in   artikel 41, tweede lid, van hetzelfde decreet.
+...
 
 ### ART. 2.7.6.0.4.
 
@@ -4628,10 +4620,11 @@ c) de vermindering, vermeld in artikel 2.7.5.0.3;<br>
 d) de vermindering, vermeld in artikel 2.7.5.0.4;<br>
 e) de aftrek, vermeld in artikel 2.7.5.0.5;<br>
 f) de vrijstelling, vermeld in artikel 2.7.6.0.1, waarbij tevens de maatschappelijke rechten moeten worden vermeld in de aangifte van de nalaten|Upschap die deel uitmaken van de nalatenschap van de inschrijver, of belastbaar zijn overeenkomstig artikel 2.7.1.0.4. In voorkomend geval moet bij de aangifte ook het attest, vermeld in artikel 2.7.6.0.1, § 4, worden gevoegd;<br>
-g) de vrijstelling, vermeld in artikel 2.7.6.0.2;<br>
-h) de vrijstelling, vermeld in artikel 2.7.6.0.3. In voorkomend geval moeten de verzoekers in de aangifte verklaren dat ze kennis hebben van het bepaalde in artikel 13bis van het Bosdecreet van 13 juni 1990 en dat voldaan is aan de voorwaarden van artikel 2.7.6.0.3, tweede lid;<br>
+g) ...;<br>
+h) ...;<br>
 i) de vrijstelling, vermeld in artikel 2.7.6.0.4;<br>
-j) de vrijstelling, vermeld in artikel 2.7.4.1.1, § 2, derde lid.<br>
+j) de vrijstelling, vermeld in artikel 2.7.4.1.1, § 2, derde lid;<br>
+k) de vrijstelling, vermeld in artikel 2.7.6.0.5. In voorkomend geval moeten de verzoekers in de aangifte verklaren dat ze kennis hebben van het bepaalde in artikel 16septiesdecies, eerste lid, 1°, en het tweede tot en met het vierde lid van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu. In voorkomend geval wordt hetzij een afschrift van de beslissing tot goedkeuring van het natuurbeheerplan, vermeld in artikel 16octies, § 1, eerste lid, 5°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, hetzij een afschrift van de overeenkomst, vermeld in artikel 2.7.6.0.5, § 2, tweede lid, gevoegd bij de aangifte;<br>
 15° in voorkomend geval de erfovereenkomst, vermeld in artikel 1100/7 van het Burgerlijk Wetboek. In dat geval wordt een kopie van die notariële erfovereenkomst bij de aangifte gevoegd;<br>
 16° in voorkomend geval de verkrijgingen van vruchtgebruik met toepassing van artikel 858bis van het Burgerlijk Wetboek. In dat geval wordt een kopie van de akte van schenking bij de aangifte gevoegd. In geval van verzaking aan het vruchtgebruik op een ander tijdstip wordt het stuk gevoegd waaruit die verzaking blijkt;<br>
 17° in voorkomend geval welke schenkingen, levensverzekeringen en legaten aan inbreng of inkorting zijn onderworpen en in bevestigend geval op welke wijze de inbreng of inkorting gebeurt.<br>
