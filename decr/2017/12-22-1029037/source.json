@@ -2,16 +2,16 @@
   "codex_id": 1029037,
   "title": "Decreet van 2017-12-22 betreffende de fiscale gunstmaatregelen die verbonden zijn aan natuurbeheerplannen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029037/VolledigDocument?datum=2018-06-09",
-  "source_sha256": "045cab3decb705d750783cec4ec0d770344708b177c577b6d0090b8b646b8cd7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029037/VolledigDocument?datum=2020-06-09",
+  "source_sha256": "b854c9700612c026d4187bda745177661a6f7af01cbfcd6a383cf9c03cd55c08",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029037&param=informatie",
-  "as_of": "2018-06-09",
+  "as_of": "2020-06-09",
   "made": "2017-12-22",
   "gazette": "2018-02-21",
   "numac": 2018030234,
   "document_start": "2018-06-09",
   "document_end": null,
-  "in_force": "2018-06-09",
-  "article_versions": 17,
-  "record_form": "consolidated version as in force on 2018-06-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-06-09",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2020-06-09; future article versions excluded; article text as the API gives it"
 }

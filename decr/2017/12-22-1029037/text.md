@@ -8,6 +8,10 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ## HOOFDSTUK 2. Wijziging van het Bosdecreet van 13 juni 1990
 
+### ART 2.
+
+Artikel 13bis van het Bosdecreet van 13 juni 1990, ingevoegd bij het decreet van 9 mei 2003 en gewijzigd bij het decreet van 19 december 2014, wordt opgeheven.
+
 ## HOOFDSTUK 3. Wijzigingen van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu
 
 ### ART 3.
@@ -75,6 +79,10 @@ Iedere verkrijger is op zijn beurt ertoe gehouden een verdere verkrijger op deze
 
 ## HOOFDSTUK 4. Wijzigingen van de Vlaamse Codex Fiscaliteit van 13 december 2013
 
+### ART 8.
+
+Artikel 2.1.5.0.6 van de Vlaamse Codex Fiscaliteit van 13 december 2013 wordt opgeheven.
+
 ### ART 9.
 
 In artikel 2.1.6.0.1, eerste lid, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2016, worden de volgende wijzigingen aangebracht:<br>
@@ -94,6 +102,14 @@ Aan artikel 2.7.3.2.9, tweede lid, van hetzelfde decreet, ingevoegd bij het decr
 ### ART 11.
 
 In artikel 2.7.3.5.2, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij het decreet van 17 juli 2015, wordt de zinsnede ", vermeld in artikel 2.7.4.1.1, § 2, en artikel 2.7.4.2.2, § 1" vervangen door de zinsnede ", vermeld in artikel 2.7.4.1.1, § 2, artikel 2.7.4.2.2, § 1, en artikel 2.7.6.0.5".
+
+### ART 12.
+
+Artikel 2.7.6.0.2 van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, wordt opgeheven.
+
+### ART 13.
+
+Artikel 2.7.6.0.3 van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, wordt opgeheven.
 
 ### ART 14.
 
