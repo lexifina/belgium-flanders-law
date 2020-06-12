@@ -51,6 +51,19 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## HOOFDSTUK 1. Algemene bepalingen
 
+### ART 1.
+
+Voor dit besluit wordt verstaan onder:<br>
+1° civiele noodsituatie: de civiele noodsituatie met betrekking tot de volksgezondheid zoals vastgesteld door de Vlaamse Regering in toepassing van artikel 4, § 1, 1° van het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid en dit in artikel 1 van het besluit van de Vlaamse Regering van 20 maart 2020 houdende vaststelling van een civiele noodsituatie met betrekking tot de volksgezondheid, zoals vermeld in het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid;<br>
+2° startdatum van de civiele noodsituatie: de datum bepaald in artikel 2 van het besluit van de Vlaamse Regering van 20 maart 2020 houdende vaststelling van een civiele noodsituatie met betrekking tot de volksgezondheid, zoals vermeld in het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid, zijnde 20 maart 2020;<br>
+3° duurtijd van de civiele noodsituatie: duurtijd van de civiele noodsituatie zoals vastgesteld in artikel 3 van het besluit van de Vlaamse Regering van 20 maart 2020 houdende vaststelling van een civiele noodsituatie met betrekking tot de volksgezondheid, zoals vermeld in het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid;<br>
+4° DABM: decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
+5° Milieuhandhavingsbesluit: Besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.
+
+### ART 2.
+
+De bepalingen van dit besluit verhinderen de behandeling van het dossier niet.
+
 ## HOOFDSTUK 2. Maatregelen inzake omgevingshandhaving
 
 ### ART 3.
@@ -76,4 +89,40 @@ In afwijking van paragraaf 2 en 2/3 van artikel 55 van het VLAREL van 19 novembe
 
 ## HOOFDSTUK 4. Maatregelen inzake subsidiëring
 
+### ART 6.
+
+In afwijking van artikel 15, § 1, vierde lid, artikel 20, § 1, derde lid en artikel 30, § 1, derde lid van het besluit van de Vlaamse Regering van 18 december 2015 houdende de erkenning en subsidiëring van milieu- en natuurverenigingen, dient voor wat betreft de subsidieperiode 2022-2026 de aanvraag tot erkenning en/of subsidiëring bij de administratie worden ingediend voor 1 mei 2021.
+
+### ART 7.
+
+In afwijking van artikel 22, § 1, eerste lid en artikel 31, § 1, eerste lid van het besluit van de Vlaamse Regering van 18 december 2015 houdende de erkenning en subsidiëring van milieu- en natuurverenigingen, dient voor wat betreft de subsidieperiode 2022-2026 het resultaat van het onderzoek aan de vereniging bezorgd te worden voor 1 juni 2021.
+
+### ART 8.
+
+In afwijking van artikel 24 en artikel 34 van het besluit van de Vlaamse Regering van 18 december 2015 houdende de erkenning en subsidiëring van milieu- en natuurverenigingen, dient voor wat betreft de subsidieperiode 2022-2026 de gemotiveerde beslissing aan de vereniging bezorgd te worden voor 1 oktober 2021.
+
+### ART 9.
+
+Als een strategisch project in de zin van hoofdstuk II, afdeling I, van het besluit van de Vlaamse Regering van 5 oktober 2007 tot bepaling van de voorwaarden voor de toekenning van subsidies voor strategische projecten ter uitvoering van het Ruimtelijk Structuurplan Vlaanderen, vertraging oploopt ten gevolge van de civiele noodsituatie, brengt de aanvrager van de subsidie het departement Omgeving daarvan op de hoogte uiterlijk drie maanden na het verstrijken van de civiele noodsituatie.<br>
+<br>
+Binnen drie weken na de ontvangst van de melding vermeld in het eerste lid, kan dit departement beslissen om de subsidieperiode te verlengen met een termijn die maximaal de duurtijd van de civiele noodsituatie kan bedragen. Deze verlenging kan niet leiden tot een verhoging van het toegekende subsidiebedrag.
+
+### ART 10.
+
+Als een lopend project, waaraan subsidies zijn toegewezen door een regeling als vermeld in het derde lid, vertraging oploopt ten gevolge van de civiele noodsituatie, brengt de aanvrager van de subsidie het Agentschap voor Natuur en Bos daarvan op de hoogte uiterlijk drie maanden na het verstrijken van de civiele noodsituatie.<br>
+<br>
+Binnen drie weken na de ontvangst van de melding vermeld in het eerste lid, kan het Agentschap voor Natuur en Bos beslissen om de subsidieperiode te verlengen met een termijn die maximaal de duurtijd van de civiele noodsituatie kan bedragen. Deze verlenging kan niet leiden tot een verhoging van het toegekende subsidiebedrag.<br>
+<br>
+Als een regeling, vermeld in het eerste lid, wordt beschouwd een besluit van de Vlaamse Regering, een ministerieel besluit, een besluit van de administrateur-generaal van het Agentschap voor Natuur en Bos of een samenwerkingsovereenkomst die een rechtsgrond hebben in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, het Bosdecreet van 13 juni 1990 of het Jachtdecreet van 24 juli 1991 of in de uitvoeringsbesluiten van deze decreten of in het decreet van 20 december 2019 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2020.
+
 ## HOOFDSTUK 5. Slotbepalingen
+
+### ART 11.
+
+Dit besluit treedt in werking op de datum van ondertekening ervan.<br>
+<br>
+De artikelen 3 tot en met 5 van dit besluit hebben uitwerking vanaf de startdatum van de civiele noodsituatie.
+
+### ART 12.
+
+De Vlaamse minister, bevoegd voor omgeving is belast met de uitvoering van dit besluit.

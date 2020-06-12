@@ -2,16 +2,16 @@
   "codex_id": 1033252,
   "title": "Besluit van de Vlaamse Regering van 2020-06-12 tot verlenging van de termijnen inzake omgevingsmateries ingeval van een civiele noodsituatie met betrekking tot de volksgezondheid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033252/VolledigDocument?datum=2020-03-20",
-  "source_sha256": "cd7c4daa57888b7ad1a3f4c8cb3b778794a3d4737fb40d6985c2d88b274ee007",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033252/VolledigDocument?datum=2020-06-12",
+  "source_sha256": "c1fa7fa8c1fc2418ed4fc3e020408f97a30a07c604c1401b40fcaf3f5c81487c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033252&param=informatie",
-  "as_of": "2020-03-20",
+  "as_of": "2020-06-12",
   "made": "2020-06-12",
   "gazette": "2020-06-22",
   "numac": 2020031031,
   "document_start": "2020-06-12",
   "document_end": null,
-  "in_force": "2020-03-20",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2020-03-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-06-12",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2020-06-12; future article versions excluded; article text as the API gives it"
 }
