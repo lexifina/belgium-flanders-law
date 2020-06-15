@@ -29,4 +29,4 @@ De beroepskwalificatie van hr assistent, ingeschaald op niveau 4 van de Vlaamse 
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/06/01_1.pdf#page=336">http://www.ejustice.just.fgov.be/mopdf/2018/06/01_1.pdf#page=336</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/05_1.pdf#page=315">Bijlage</a>
