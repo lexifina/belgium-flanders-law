@@ -2,16 +2,16 @@
   "codex_id": 1029339,
   "title": "Besluit van de Vlaamse Regering van 2018-01-26 tot erkenning van de beroepskwalificatie bouwkundig tekenaar",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029339/VolledigDocument?datum=2018-06-11",
-  "source_sha256": "391c23e55a59adf66ae8624ca0e07aec5b502a8a45104ca5c9c25a175dfca97a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029339/VolledigDocument?datum=2020-06-15",
+  "source_sha256": "e91fe94c32950175fae53f1f3e402420e4a2f8c64a5ea2c508dc63278b163127",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029339&param=informatie",
-  "as_of": "2018-06-11",
+  "as_of": "2020-06-15",
   "made": "2018-01-26",
   "gazette": "2018-06-01",
   "numac": 2018031051,
   "document_start": "2018-06-11",
   "document_end": null,
-  "in_force": "2018-06-11",
+  "in_force": "2020-06-15",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-15; future article versions excluded; article text as the API gives it"
 }
