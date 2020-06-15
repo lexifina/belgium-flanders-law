@@ -2,16 +2,16 @@
   "codex_id": 1028446,
   "title": "Besluit van de Vlaamse Regering van 2017-04-21 tot erkenning van de beroepskwalificatie beveiligingstechnicus",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028446/VolledigDocument?datum=2017-07-29",
-  "source_sha256": "940aad15301072e81a105f41c607ac4cabde33ada089b9c6d11a1b932c675a1d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028446/VolledigDocument?datum=2020-06-15",
+  "source_sha256": "60ac6101fa4abf9650ac4e890cd96fba57908f90e0451637033c9701fb1f764c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028446&param=informatie",
-  "as_of": "2017-07-29",
+  "as_of": "2020-06-15",
   "made": "2017-04-21",
   "gazette": "2017-07-19",
   "numac": 2017012830,
   "document_start": "2017-07-29",
   "document_end": null,
-  "in_force": "2017-07-29",
+  "in_force": "2020-06-15",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2017-07-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-15; future article versions excluded; article text as the API gives it"
 }
