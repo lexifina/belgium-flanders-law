@@ -2,16 +2,16 @@
   "codex_id": 1032365,
   "title": "Besluit van de Vlaamse Regering van 2019-06-28 tot erkenning van de beroepskwalificatie bouwer van historische strijk- en tokkelinstrumenten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032365/VolledigDocument?datum=2019-10-28",
-  "source_sha256": "fb7b2999b10acc147b5b77f615c79388034ad4ac98d683642ab503580ce84801",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032365/VolledigDocument?datum=2020-06-15",
+  "source_sha256": "98f6d0f89dc0a70f5a563c5ee94201435c3ea7132b77df63409568b1d61b025f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032365&param=informatie",
-  "as_of": "2019-10-28",
+  "as_of": "2020-06-15",
   "made": "2019-06-28",
   "gazette": "2019-10-18",
   "numac": 2019014914,
   "document_start": "2019-10-28",
   "document_end": null,
-  "in_force": "2019-10-28",
+  "in_force": "2020-06-15",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-10-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-15; future article versions excluded; article text as the API gives it"
 }

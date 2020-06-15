@@ -26,4 +26,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/10/18_2.pdf#page=465">Beschrijving van de&nbsp;beroepskwalificatie van bouwer van historische strijk- en tokkelinstrumenten</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/05_1.pdf#page=186">Bijlage</a>
