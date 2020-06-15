@@ -2,16 +2,16 @@
   "codex_id": 1027502,
   "title": "Besluit van de Vlaamse Regering van 2016-07-08 tot erkenning van de beroepskwalificatie bandenmonteur",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027502/VolledigDocument?datum=2016-10-31",
-  "source_sha256": "c3c54f842cd67c0a78e3f078ff0652e01d90c37e6dfeea4c20c396fead126a13",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027502/VolledigDocument?datum=2020-06-15",
+  "source_sha256": "ff93e8485056e97628de72fadfbbb09f751f35d3f56622755cb9dc941ea4b8cc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027502&param=informatie",
-  "as_of": "2016-10-31",
+  "as_of": "2020-06-15",
   "made": "2016-07-08",
   "gazette": "2016-10-21",
   "numac": 2016036349,
   "document_start": "2016-10-31",
   "document_end": null,
-  "in_force": "2016-10-31",
+  "in_force": "2020-06-15",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-15; future article versions excluded; article text as the API gives it"
 }
