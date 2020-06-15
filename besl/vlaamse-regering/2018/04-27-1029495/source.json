@@ -2,16 +2,16 @@
   "codex_id": 1029495,
   "title": "Besluit van de Vlaamse Regering van 2018-04-27 tot erkenning van de beroepskwalificatie hr deskundige",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029495/VolledigDocument?datum=2018-07-16",
-  "source_sha256": "d80945f94ba5a1c1c3742298becf3f859954996bce2604c1e2874c3595b976ff",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029495/VolledigDocument?datum=2020-06-15",
+  "source_sha256": "8aac49bae94139ee123ab31aa5a3ff701e836fc4c5c892aef91f30f378d02927",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029495&param=informatie",
-  "as_of": "2018-07-16",
+  "as_of": "2020-06-15",
   "made": "2018-04-27",
   "gazette": "2018-07-06",
   "numac": 2018012905,
   "document_start": "2018-07-16",
   "document_end": null,
-  "in_force": "2018-07-16",
+  "in_force": "2020-06-15",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-15; future article versions excluded; article text as the API gives it"
 }
