@@ -2,16 +2,16 @@
   "codex_id": 1029058,
   "title": "Besluit van de Vlaamse Regering van 2017-10-27 tot erkenning van de beroepskwalificatie chauffeur in de brandstoffenhandel",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029058/VolledigDocument?datum=2018-03-04",
-  "source_sha256": "40211fc217fad5e739e8df81646658641c89266c6350b78005936054d3c4bfe5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029058/VolledigDocument?datum=2020-06-15",
+  "source_sha256": "e42a5bf281a761daae4ee3bfe631ee1c86d32ede54a960342951d0a61afb577c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029058&param=informatie",
-  "as_of": "2018-03-04",
+  "as_of": "2020-06-15",
   "made": "2017-10-27",
   "gazette": "2018-02-22",
   "numac": 2018010298,
   "document_start": "2018-03-04",
   "document_end": null,
-  "in_force": "2018-03-04",
+  "in_force": "2020-06-15",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-03-04; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-15; future article versions excluded; article text as the API gives it"
 }
