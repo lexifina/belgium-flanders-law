@@ -2,16 +2,16 @@
   "codex_id": 1024517,
   "title": "Besluit van de Vlaamse Regering van 2014-04-25 tot erkenning van de beroepskwalificatie fietshersteller",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024517/VolledigDocument?datum=2014-09-13",
-  "source_sha256": "6a658de16c7687de2815a7ffa2aaea7c6e5456dccbbee1f5769d1a3c2b35c96b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024517/VolledigDocument?datum=2020-06-15",
+  "source_sha256": "ad6570313e5c9fcb3eeb9ab532a99c5efa2559dd1c987b0addcb9dec661f3d3d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024517&param=informatie",
-  "as_of": "2014-09-13",
+  "as_of": "2020-06-15",
   "made": "2014-04-25",
   "gazette": "2014-09-03",
   "numac": 2014035778,
   "document_start": "2014-09-13",
   "document_end": null,
-  "in_force": "2014-09-13",
+  "in_force": "2020-06-15",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-09-13; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-15; future article versions excluded; article text as the API gives it"
 }
