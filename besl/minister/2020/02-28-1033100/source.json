@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033100,
+  "title": "Ministerieel besluit van 2020-02-28 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 28 juni 2019 tot erkenning van de beroepskwalificatie bouwer van historische klavierinstrumenten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033100/VolledigDocument?datum=2020-06-15",
+  "source_sha256": "942507692fe31457685b799534606194f77976d77166557f6d72f807a9b18830",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033100&param=informatie",
+  "as_of": "2020-06-15",
+  "made": "2020-02-28",
+  "gazette": "2020-06-05",
+  "numac": 2020040594,
+  "document_start": "2020-06-15",
+  "document_end": null,
+  "in_force": "2020-06-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-06-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
