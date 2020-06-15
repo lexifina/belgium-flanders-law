@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033096,
+  "title": "Ministerieel besluit van 2020-02-28 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 27 april 2018 tot erkenning van de beroepskwalificatie bestuurder interne transportmiddelen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033096/VolledigDocument?datum=2020-06-15",
+  "source_sha256": "4319d020527b1aebe70a382d22a00a6c9aae3b2de636f23cd801db7d9c64e5d8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033096&param=informatie",
+  "as_of": "2020-06-15",
+  "made": "2020-02-28",
+  "gazette": "2020-06-05",
+  "numac": 2020020729,
+  "document_start": "2020-06-15",
+  "document_end": null,
+  "in_force": "2020-06-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-06-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
