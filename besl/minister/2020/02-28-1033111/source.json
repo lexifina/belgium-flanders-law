@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033111,
+  "title": "Ministerieel besluit van 2020-02-28 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 27 april 2018 tot erkenning van de beroepskwalificatie hr deskundige",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033111/VolledigDocument?datum=2020-06-15",
+  "source_sha256": "b728dad8f8718994f5ef5d9af7f475de44564e1c06b582a74327627487da0389",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033111&param=informatie",
+  "as_of": "2020-06-15",
+  "made": "2020-02-28",
+  "gazette": "2020-06-05",
+  "numac": 2020040717,
+  "document_start": "2020-06-15",
+  "document_end": null,
+  "in_force": "2020-06-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-06-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
