@@ -2,16 +2,16 @@
   "codex_id": 1029493,
   "title": "Besluit van de Vlaamse Regering van 2018-04-27 tot erkenning van de beroepskwalificatie communicatie deskundige",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029493/VolledigDocument?datum=2018-07-16",
-  "source_sha256": "715dee0fd899eb27c156051768a2b5a7e2914803f37af653d8590881dc9ed998",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029493/VolledigDocument?datum=2020-06-15",
+  "source_sha256": "dd23a7489a124d2466a5a04d06032fd315b05518e6a2926b292f0a94650758b6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029493&param=informatie",
-  "as_of": "2018-07-16",
+  "as_of": "2020-06-15",
   "made": "2018-04-27",
   "gazette": "2018-07-06",
   "numac": 2018012903,
   "document_start": "2018-07-16",
   "document_end": null,
-  "in_force": "2018-07-16",
+  "in_force": "2020-06-15",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-15; future article versions excluded; article text as the API gives it"
 }
