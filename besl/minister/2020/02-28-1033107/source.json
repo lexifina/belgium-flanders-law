@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033107,
+  "title": "Ministerieel besluit van 2020-02-28 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 21 februari 2014 tot erkenning van de beroepskwalificatie diamantbewerker",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033107/VolledigDocument?datum=2020-06-15",
+  "source_sha256": "c3cd55b4b9f921c63bd082037138876c9c3e0b6ba32e4772753de577a3be812d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033107&param=informatie",
+  "as_of": "2020-06-15",
+  "made": "2020-02-28",
+  "gazette": "2020-06-05",
+  "numac": 2020030297,
+  "document_start": "2020-06-15",
+  "document_end": null,
+  "in_force": "2020-06-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-06-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
