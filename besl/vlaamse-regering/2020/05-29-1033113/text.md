@@ -44,3 +44,48 @@ In dit besluit wordt verstaan onder:<br>
 7° Modelovereenkomst: de overeenkomst ter beschikking gesteld door het agentschap Innoveren en Ondernemen;<br>
 8° PMV/z-Leningen nv: de dochtervennootschap van PMV met ondernemingsnummer 0553.802.890 zoals bedoeld in de beslissing van de Vlaamse Regering van 20 juni 2014 betreffende de overdracht van aandelen Participatiefonds (PF) Vlaanderen aan PMV en beheervergoeding 2014.<br>
 9° Verhuurder: de verhuurder zoals bepaald in de huurovereenkomst en de modelovereenkomst.
+
+### ART 2.
+
+Deze regelgeving valt onder de toepassing van de verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (Publicatieblad van 24 december 2013, L 352, blz. 1-8), en de latere wijzigingen ervan.
+
+### ART 3.
+
+PMV/z-Leningen nv kan in naam en voor rekening van het Vlaamse Gewest een Handelshuurlening toekennen aan Huurders die dit bij het agentschap Innoveren en Ondernemen aanvragen.
+
+### ART 4.
+
+PMV/z-Leningen nv hanteert minstens volgende voorwaarden bij het toekennen van de handelshuurlening:<br>
+1° de Huurder en Verhuurder ondertekenen de Modelovereenkomst, ter beschikking gesteld door het agentschap Innoveren en Ondernemen. De Huurder en Verhuurder moeten dezelfde zijn als in de Huurovereenkomst, of hun respectieve rechtsopvolgers ten algemene of ten bijzondere titel. Deze Modelovereenkomst bevat minstens<br>
+a) Het identificatienummer van de geregistreerde Huurovereenkomst(en);<br>
+b) Een vervallen van de verplichting voor de Huurder tot betaling van de Handelshuur per pand, inclusief lasten voor een periode van 4 maanden en ten minste drie maanden, met ingang van ten vroegste de huur die in de maand april verviel. Indien de huur niet maandelijks betaald wordt, voorziet de overeenkomst in een verrekening pro rata temporis;<br>
+c) De kwijtschelding per pand van twee maanden en minimaal één maand huur, inclusief lasten door de Verhuurder;<br>
+d) Een verklaring op eer dat er geen achterstand was in de betaling van de huurgelden op 15 maart 2020 en dat de huur nog lopende is;<br>
+e) Een verklaring op eer dat de Huurovereenkomst(en) op eenvoudig verzoek van het agentschap Innoveren en Ondernemen of van PMV/z-leningen nv zal overgemaakt worden.<br>
+2° Voor één onderneming bedraagt de waarde van de Handelshuurlening maximaal twee maanden huur per pand, inclusief lasten, en nooit meer dan 35.000 euro voor al de panden samen;<br>
+3° de Handelshuurlening wordt volledig terugbetaald ten laatste 24 maanden na toekenning van het krediet. De terugbetalingen moeten maar starten zes maanden na toekenning van de Handelshuurlening. De terugbetalingen worden gelijkmatig gespreid in de 18 maanden volgend op de eerste zes maanden waarin geen terugbetalingen plaatsvinden.<br>
+4° een rente van 2 procent per jaar.
+
+### ART 5.
+
+De Huurder dient een aanvraag in via de website van het Agentschap Innoveren en Ondernemen voor 1 oktober 2020. Een aanvraag kan betrekking hebben op meerdere panden van eenzelfde Verhuurder, waarvoor de Huurder één Handelshuurlening vraagt. De Huurder vermeldt daarbij haar KBO-nummer. De aanvraag wordt elektronisch afgehandeld. Het Agentschap Innoveren en Ondernemen onderzoekt de naleving van de voorwaarden die zijn opgelegd bij dit besluit.
+
+### ART 6.
+
+Het agentschap Innoveren en Ondernemen informeert de aanvragers over de (on)ontvankelijkheid van hun aanvraag.
+
+### ART 7.
+
+Het Agentschap Innoveren en Ondernemen geeft de gegevens van Huurders van wie de aanvraag ontvankelijk bevonden wordt door aan PMV/z-Leningen nv. Deze legt in naam en voor rekening van het Vlaamse Gewest aan die Huurders een leningovereenkomst voor. De Huurders ondertekenen die leningovereenkomst en bezorgen deze terug aan de diensten van PMV/z-Leningen. Van zodra PMV/z-Leningen nv de ondertekende leningovereenkomst ontvangen heeft, betaalt het de verschuldigde huur op een Belgisch rekeningnummer op naam van de Verhuurder. Deze betaling geldt als een betaling van de Huurder.
+
+### ART 8.
+
+PMV/z-Leningen betaalt de kredieten uit, ontvangt de terugbetalingen van kapitaal en intresten in naam en voor rekening van het Vlaamse Gewest op rekeningen van het Vlaamse Gewest. De eventueel opgelopen netto verliezen, alsook de opstart- en beheerskosten die verbonden zijn aan dit instrument, zijn voor rekening van het Vlaams Gewest.
+
+### ART 9.
+
+De Vlaamse minister, bevoegd voor de economie, kan bijkomende modaliteiten en preciseringen bepalen.
+
+### ART 10.
+
+De Vlaamse minister, bevoegd voor Economie is belast met de uitvoering van dit besluit.
