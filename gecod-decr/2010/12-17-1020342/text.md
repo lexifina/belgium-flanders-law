@@ -1583,6 +1583,7 @@ b) hetzij als (semi-)internen verblijven in een (semi-)internaat verbonden aan d
 c) hetzij opgenomen zijn in een voorziening van residentiële opvang;<br>
 2° ...;<br>
 3° voor de toelating van leerlingen in het eerste leerjaar van de eerste graad van het voltijds gewoon secundair onderwijs en in het buitengewoon secundair onderwijs die behoren tot dezelfde leefentiteit, indien de ouders deze leerlingen wensen in te schrijven in hetzelfde niveau, vermeld in paragraaf 1 of 2, naargelang van het geval, en slechts een van de leerlingen ingeschreven kan worden omwille van de capaciteit.<br>
+4° voor de toelating van leerlingen in het gewoon secundair onderwijs, die beschikken over een verslag als bedoeld in artikel 294.<br>
 <br>
 § 6bis. Een schoolbestuur moet, ook bij overschrijding van een vastgelegde capaciteit in volgende situaties toch overgaan tot een inschrijving :<br>
 1° voor de terugkeer van leerlingen in het buitengewoon secundair onderwijs die in het lopende of de twee voorafgaande schooljaren in de school ingeschreven waren en die met toepassing van artikel 294 of 352, in een school voor gewoon secundair onderwijs ingeschreven waren;<br>
