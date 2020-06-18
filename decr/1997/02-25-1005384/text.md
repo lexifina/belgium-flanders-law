@@ -961,6 +961,7 @@ c) hetzij opgenomen zijn in een voorziening van residentiële opvang;<br>
 5° voor de toelating van leerlingen die verblijven in een centrum voor kinderzorg en gezinsondersteuning;<br>
 6° voor de toelating van leerlingen die behoren tot dezelfde leefentiteit, indien de ouders deze leerlingen wensen in te schrijven in hetzelfde niveau, vermeld in paragraaf 1, en slechts één van de leerlingen ingeschreven kan worden omwille van de capaciteit, vermeld in paragraaf 1.<br>
 7° voor leerlingen van scholen, gelegen in een gemeente waar alle scholen de inschrijvingen laten voorafgaan door een aanmeldingsprocedure, wiens continuïteit van de schoolloopbaan niet gegarandeerd kan worden omwille van het feit dat de enige school van een schoolbestuur ophoudt te bestaan, waarbij dit niet kadert in een herstructurering, op voorwaarde dat alle leerlingen van de betrokken school een plaats in andere scholen aangeboden wordt.<br>
+8° voor de toelating van leerlingen in het gewoon basisonderwijs, die beschikken over een verslag als bedoeld in artikel 15 van dit decreet.<br>
 <br>
 § 5bis. In afwijking van paragraaf 4 moet een schoolbestuur in volgende situaties toch overgaan tot een inschrijving :<br>
 1° voor de terugkeer van leerlingen in het buitengewoon onderwijs die in het lopende of de twee voorafgaande schooljaren in de school ingeschreven waren en die met toepassing van artikel 15 of 16, in een school voor gewoon onderwijs ingeschreven waren;<br>
