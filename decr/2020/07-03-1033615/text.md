@@ -39,6 +39,11 @@ In artikel 37 van hetzelfde decreet, vervangen bij het decreet van 13 juli 2001 
 2° aan paragraaf 2 wordt een punt 13° toegevoegd, dat luidt als volgt:<br>
 "13° richtlijnen over aanwezigheden, in het bijzonder voor de leerplichtige kleuters, en te laat komen.".
 
+### ART 40.
+
+Aan artikel 37novies, § 5, van hetzelfde decreet, ingevoegd bij het decreet van 25 november 2011 en gewijzigd bij de decreten van 19 juli 2013, 25 april 2014 en 6 juli 2018, wordt een punt 8° toegevoegd, dat luidt als volgt:<br>
+"8° voor de toelating van leerlingen in het gewoon basisonderwijs, die beschikken over een verslag als bedoeld in artikel 15 van dit decreet.".
+
 ### ART 42.
 
 In artikel 48, § 3, van hetzelfde decreet, ingevoegd bij het decreet van 13 juli 2001, worden de woorden "een ziekenhuisschool" vervangen door de woorden "een vestigingsplaats bij een ziekenhuis en bij categorieën van residentiële settings die de regering bepaalt".
@@ -91,6 +96,11 @@ In artikel 62 van hetzelfde decreet, gewijzigd bij de decreten van 8 mei 2009 en
 ## HOOFDSTUK 10. Wijzigingen van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs
 
 ## HOOFDSTUK 11. Wijzigingen van de Codex Secundair Onderwijs van 17 december 2010
+
+### ART 101.
+
+Aan artikel 110/9, § 6, van dezelfde codex, ingevoegd bij het decreet van 25 november 2011 en gewijzigd bij de decreten van 25 april 2014 en 6 juli 2018, wordt een punt 4° toegevoegd, dat luidt als volgt:<br>
+"4° voor de toelating van leerlingen in het gewoon secundair onderwijs, die beschikken over een verslag als bedoeld in artikel 294.".
 
 ### ART 105.
 
