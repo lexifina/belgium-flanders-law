@@ -43,13 +43,21 @@ Het protocol voor sportkampen - volwassenen en senioren, opgenomen in bijlage 6 
 
 Het protocol voor organisatoren van sportevenementen, opgenomen in bijlage 7 die bij dit besluit is gevoegd, wordt vastgesteld.
 
+### ART 7/1.
+
+Het protocol voor zwembadexploitanten, opgenomen in bijlage 8 die bij dit besluit is gevoegd, wordt vastgesteld.
+
+### ART 7/2.
+
+Het protocol voor exploitanten van zwemgelegenheden in recreatiedomeinen, opgenomen in bijlage 9 die bij dit besluit is gevoegd, wordt vastgesteld.
+
 ### ART 8.
 
 Dit besluit treedt in werking op 8 juni 2020.
 
 ### BIJLAGE 1.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/24_1.pdf#page=52">Leidraad voor een verantwoorde heropstart van de sportsector</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/25_1.pdf#page=100">Bijlage 1</a>
 
 ### BIJLAGE 2.
 
@@ -73,4 +81,12 @@ Dit besluit treedt in werking op 8 juni 2020.
 
 ### BIJLAGE 7.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/24_1.pdf#page=149">Protocol voor organisatoren van sportevenementen</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/25_1.pdf#page=113">Bijlage 7</a>
+
+### BIJLAGE 8.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/25_1.pdf#page=128">Bijlage 8</a>
+
+### BIJLAGE 9.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/25_1.pdf#page=152">Bijlage 9</a>
