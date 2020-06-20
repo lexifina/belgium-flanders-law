@@ -2,16 +2,16 @@
   "codex_id": 1031972,
   "title": "Besluit van de Vlaamse Regering van 2019-03-15 tot erkenning van de beroepskwalificatie chef de partie vis, schaal- en schelpdieren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031972/VolledigDocument?datum=2019-08-10",
-  "source_sha256": "ddec2d80a8c10128f32b5cc75ded1cb2707f1f39b31ff6c7583fd7c1c8c0bd09",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031972/VolledigDocument?datum=2020-06-20",
+  "source_sha256": "48e488de98dd2f9fa17f73c732e76a5e9dbb648c9bb8040589553296e95c8fcb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031972&param=informatie",
-  "as_of": "2019-08-10",
+  "as_of": "2020-06-20",
   "made": "2019-03-15",
   "gazette": "2019-07-31",
   "numac": 2019030627,
   "document_start": "2019-08-10",
   "document_end": null,
-  "in_force": "2019-08-10",
+  "in_force": "2020-06-20",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-20; future article versions excluded; article text as the API gives it"
 }
