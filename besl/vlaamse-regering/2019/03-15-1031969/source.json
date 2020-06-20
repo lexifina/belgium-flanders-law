@@ -2,16 +2,16 @@
   "codex_id": 1031969,
   "title": "Besluit van de Vlaamse Regering van 2019-03-15 tot erkenning van de beroepskwalificatie boomverzorger",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031969/VolledigDocument?datum=2019-08-10",
-  "source_sha256": "79e17985c71e024deab0d7eb14c0f8806eb09ad86175bb70e2b4529f4b7850da",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031969/VolledigDocument?datum=2020-06-20",
+  "source_sha256": "9e27438440c9e4f56bb37777a9681e53f880c9d1f50ab1bc1607f7fa19cf3b36",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031969&param=informatie",
-  "as_of": "2019-08-10",
+  "as_of": "2020-06-20",
   "made": "2019-03-15",
   "gazette": "2019-07-31",
   "numac": 2019030630,
   "document_start": "2019-08-10",
   "document_end": null,
-  "in_force": "2019-08-10",
+  "in_force": "2020-06-20",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-20; future article versions excluded; article text as the API gives it"
 }
