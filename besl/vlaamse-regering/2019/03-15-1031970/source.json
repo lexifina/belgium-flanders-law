@@ -2,16 +2,16 @@
   "codex_id": 1031970,
   "title": "Besluit van de Vlaamse Regering van 2019-03-15 tot erkenning van de beroepskwalificatie chef de partie desserten, gebak en brood",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031970/VolledigDocument?datum=2019-08-10",
-  "source_sha256": "40aaf2cc78e5afc8e701747b11961ae562c495dd880fd45988757698c20dfd1e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031970/VolledigDocument?datum=2020-06-20",
+  "source_sha256": "7fcb870ee83c4c670a7bf5ee26a6e0054618096ea8d54988e61db9b5a443fd88",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031970&param=informatie",
-  "as_of": "2019-08-10",
+  "as_of": "2020-06-20",
   "made": "2019-03-15",
   "gazette": "2019-07-31",
   "numac": 2019030629,
   "document_start": "2019-08-10",
   "document_end": null,
-  "in_force": "2019-08-10",
+  "in_force": "2020-06-20",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-20; future article versions excluded; article text as the API gives it"
 }
