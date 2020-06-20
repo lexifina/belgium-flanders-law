@@ -2,16 +2,16 @@
   "codex_id": 1023801,
   "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie kelner",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023801/VolledigDocument?datum=2014-02-20",
-  "source_sha256": "d1a67eeedcd8bab19b523686469da2021ec23f3c9184b1e0a55e905dbeafd072",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023801/VolledigDocument?datum=2020-06-20",
+  "source_sha256": "15f20357ecf3e5e9aa2e8e3760eeb7b9be59338d73050bd66d6dfeb73ca61d58",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023801&param=informatie",
-  "as_of": "2014-02-20",
+  "as_of": "2020-06-20",
   "made": "2013-11-29",
   "gazette": "2014-02-10",
   "numac": 2014035121,
   "document_start": "2014-02-20",
   "document_end": null,
-  "in_force": "2014-02-20",
+  "in_force": "2020-06-20",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-02-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-20; future article versions excluded; article text as the API gives it"
 }
