@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033136,
+  "title": "Ministerieel besluit van 2020-02-28 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 22 februari 2019 tot erkenning van de beroepskwalificatie lager officier bij defensie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033136/VolledigDocument?datum=2020-06-20",
+  "source_sha256": "f1e3de41a907b0010103a0d577647c1f279de5d938851b61c347e2a6edaed9f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033136&param=informatie",
+  "as_of": "2020-06-20",
+  "made": "2020-02-28",
+  "gazette": "2020-06-10",
+  "numac": 2020040729,
+  "document_start": "2020-06-20",
+  "document_end": null,
+  "in_force": "2020-06-20",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-06-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
