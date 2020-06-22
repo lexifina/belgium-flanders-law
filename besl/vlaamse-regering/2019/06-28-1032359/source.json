@@ -2,16 +2,16 @@
   "codex_id": 1032359,
   "title": "Besluit van de Vlaamse Regering van 2019-06-28 tot erkenning van de beroepskwalificatie culinair slager",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032359/VolledigDocument?datum=2019-10-28",
-  "source_sha256": "71bdb290c695441cb3a115d4d86b7683aed31c780798563f0119e6fe3018ffae",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032359/VolledigDocument?datum=2020-06-22",
+  "source_sha256": "107e59a991dcaadb4f51dd77bdc2b93affb21aaec30edee081d9831573cd8562",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032359&param=informatie",
-  "as_of": "2019-10-28",
+  "as_of": "2020-06-22",
   "made": "2019-06-28",
   "gazette": "2019-10-18",
   "numac": 2019042130,
   "document_start": "2019-10-28",
   "document_end": null,
-  "in_force": "2019-10-28",
+  "in_force": "2020-06-22",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-10-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-22; future article versions excluded; article text as the API gives it"
 }
