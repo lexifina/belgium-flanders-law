@@ -17,8 +17,22 @@ De volgende vormvereiste zijn vervuld:<br>
 <br>
 DE VLAAMSE MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW BESLUIT:
 
+### ART 1.
+
+In artikel 1, 6°, van het besluit van de Vlaamse Regering van 12 juni 2020 tot toekenning van steun aan ondernemingen die een omzetdaling hebben ondanks de versoepelde coronavirusmaatregelen, tot wijziging van de artikelen 1, 9 en 11 van het besluit van de Vlaamse Regering van 10 april 2020 tot toekenning van steun aan ondernemingen die een omzetdaling hebben ten gevolge van de exploitatiebeperkingen opgelegd door de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus, en tot wijziging van de artikelen 1, 6, 9 en 12 van het besluit van de Vlaamse Regering van 20 maart 2020 tot toekenning van steun aan ondernemingen die verplicht moeten sluiten ten gevolge van de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede "respectievelijk 11 mei, 18 mei of 8 juni 2020" wordt vervangen door de zinsnede "respectievelijk 18 april, 20 april, 4 mei, 11 mei, 18 mei, 8 juni of 1 juli";<br>
+2° de woorden "uiterlijk binnen een week na de bekendmaking in het Belgisch Staatsblad van dit besluit" worden vervangen door de woorden "uiterlijk binnen een week na de bekendmaking in het Belgisch Staatsblad van dit besluit of de bekendmaking van een besluit ter uitvoering van dit besluit".
+
+### ART 2.
+
+In artikel 5 van hetzelfde besluit worden de woorden "uiterlijk binnen de periode van een week na de bekendmaking in het Belgisch Staatsblad van dit besluit" vervangen door de woorden "uiterlijk binnen de periode van een week na de bekendmaking in het Belgisch Staatsblad van dit besluit of de bekendmaking van een besluit ter uitvoering van dit besluit".
+
 ### ART 3.
 
 In artikel 1 van het ministerieel besluit van 18 mei 2020 tot uitvoering van het besluit van de Vlaamse Regering van 20 maart 2020 tot toekenning van steun aan ondernemingen die verplicht moeten sluiten ten gevolge van de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus, gewijzigd bij het ministerieel besluit van 23 juni 2020, wordt het tweede lid vervangen door wat volgt:<br>
 <br>
 "Deze verlenging geldt voor de periode vanaf 18 mei 2020 tot en met 30 juni 2020.".
+
+### ART 4.
+
+Dit besluit heeft uitwerking met ingang van 22 juni 2020, met uitzondering van artikel 3 dat uitwerking heeft met ingang van 18 mei 2020.
