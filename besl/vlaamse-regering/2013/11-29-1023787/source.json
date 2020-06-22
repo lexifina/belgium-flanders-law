@@ -2,16 +2,16 @@
   "codex_id": 1023787,
   "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie machinaal houtbewerker",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023787/VolledigDocument?datum=2014-02-16",
-  "source_sha256": "47148e12d847f07ef2f949fec66860785d97eec53d0a33e0c168a7493003a8cd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023787/VolledigDocument?datum=2020-06-22",
+  "source_sha256": "9557a62578eb7c84d966c64f69806e45d5567a443e7c23fb0a3c437b30f5ddda",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023787&param=informatie",
-  "as_of": "2014-02-16",
+  "as_of": "2020-06-22",
   "made": "2013-11-29",
   "gazette": "2014-02-06",
   "numac": 2014035118,
   "document_start": "2014-02-16",
   "document_end": null,
-  "in_force": "2014-02-16",
+  "in_force": "2020-06-22",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-02-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-22; future article versions excluded; article text as the API gives it"
 }
