@@ -2,16 +2,16 @@
   "codex_id": 1026541,
   "title": "Besluit van de Vlaamse Regering van 2016-01-08 tot erkenning van de beroepskwalificatie medewerker spoelkeuken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026541/VolledigDocument?datum=2016-03-26",
-  "source_sha256": "a468207aa0f90f09277c788464741a57159e9daaff3cccb64f817cb82cc22e47",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026541/VolledigDocument?datum=2020-06-22",
+  "source_sha256": "628f99c5bf73a784ddfb5fb9c09edde796c7d25bf696b859dccd4c59f71884d0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026541&param=informatie",
-  "as_of": "2016-03-26",
+  "as_of": "2020-06-22",
   "made": "2016-01-08",
   "gazette": "2016-03-16",
   "numac": 2016035240,
   "document_start": "2016-03-26",
   "document_end": null,
-  "in_force": "2016-03-26",
+  "in_force": "2020-06-22",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-22; future article versions excluded; article text as the API gives it"
 }
