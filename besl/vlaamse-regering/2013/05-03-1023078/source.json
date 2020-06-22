@@ -2,16 +2,16 @@
   "codex_id": 1023078,
   "title": "Besluit van de Vlaamse Regering van 2013-05-03 tot erkenning van de beroepskwalificatie elektromecanicien",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023078/VolledigDocument?datum=2013-07-22",
-  "source_sha256": "57d9633405362c62e74b9d6f8d0bc8e8696158ece3289fb39c8f8bae17e1e094",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023078/VolledigDocument?datum=2020-06-22",
+  "source_sha256": "974c6d20f8c1f53d2b1d83a7d95040f6a3e507659174f471a94d1d64869c9d56",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023078&param=informatie",
-  "as_of": "2013-07-22",
+  "as_of": "2020-06-22",
   "made": "2013-05-03",
   "gazette": "2013-07-12",
   "numac": 2013203946,
   "document_start": "2013-07-22",
   "document_end": null,
-  "in_force": "2013-07-22",
+  "in_force": "2020-06-22",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-22; future article versions excluded; article text as the API gives it"
 }
