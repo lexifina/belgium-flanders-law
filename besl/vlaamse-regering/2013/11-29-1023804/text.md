@@ -6,8 +6,12 @@
 
 ### ART. 1.
 
-De beroepskwalificatie van werfbediener ruwbouw, ingeschaald op niveau 2   van de Vlaamse kwalificatiestructuur, wordt erkend. De beschrijving, opgenomen   in de bijlage die bij dit besluit is gevoegd, omvat de definitie en de   bijbehorende competenties.<BR>
+De beroepskwalificatie van medewerker ruwbouw, ingeschaald op niveau 2 van de Vlaamse kwalificatiestructuur, wordt erkend. De beschrijving, opgenomen in de bijlage die bij dit besluit is gevoegd, omvat de definitie en de bijbehorende competenties.
 
 ### ART. 2.
 
 De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister,   bevoegd voor het tewerkstellingsbeleid, zijn, ieder wat hem of haar betreft,   belast met de uitvoering van dit besluit.<BR>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/12_1.pdf#page=94">Bijlage</a>
