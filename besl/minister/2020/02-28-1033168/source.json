@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033168,
+  "title": "Ministerieel besluit van 2020-02-28 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 10 februari 2017 tot erkenning van de beroepskwalificatie mecanicien tuin-, park- en bosmachines",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033168/VolledigDocument?datum=2020-06-22",
+  "source_sha256": "04c7b424e5610837fc99984cb240e064a878b0f63337a25f09cf313a8d2bf1d2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033168&param=informatie",
+  "as_of": "2020-06-22",
+  "made": "2020-02-28",
+  "gazette": "2020-06-12",
+  "numac": 2020041237,
+  "document_start": "2020-06-22",
+  "document_end": null,
+  "in_force": "2020-06-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-06-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
