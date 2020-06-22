@@ -2,16 +2,16 @@
   "codex_id": 1032370,
   "title": "Besluit van de Vlaamse Regering van 2019-06-28 tot erkenning van de beroepskwalificatie orthopedagogisch begeleider",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032370/VolledigDocument?datum=2019-10-28",
-  "source_sha256": "7819cb4ec69e61a1d450a374b93719b16511a18e3f4d96c3dccb6c99a0230b1a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032370/VolledigDocument?datum=2020-06-22",
+  "source_sha256": "264ce94e492bcd005a545162a0908181941789d8d363ca99cf445c4d3bf3135b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032370&param=informatie",
-  "as_of": "2019-10-28",
+  "as_of": "2020-06-22",
   "made": "2019-06-28",
   "gazette": "2019-10-18",
   "numac": 2019042120,
   "document_start": "2019-10-28",
   "document_end": null,
-  "in_force": "2019-10-28",
+  "in_force": "2020-06-22",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-10-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-22; future article versions excluded; article text as the API gives it"
 }

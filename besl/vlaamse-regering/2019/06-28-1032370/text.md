@@ -26,4 +26,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/10/18_2.pdf#page=577">Beschrijving van de&nbsp;beroepskwalificatie van orthopedagogisch begeleider</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/12_1.pdf#page=429">Bijlage</a>
