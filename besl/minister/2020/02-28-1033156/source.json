@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033156,
+  "title": "Ministerieel besluit van 2020-02-28 tot wijziging van het besluit van de Vlaamse Regering van 29 november 2013 tot erkenning van de beroepskwalificatie werfbediener ruwbouw",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033156/VolledigDocument?datum=2020-06-22",
+  "source_sha256": "37dc085ffafa8263d7511168e4a28d3e42f50c0d2568915a8292f0ccdf3798a6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033156&param=informatie",
+  "as_of": "2020-06-22",
+  "made": "2020-02-28",
+  "gazette": "2020-06-12",
+  "numac": 2020020904,
+  "document_start": "2020-06-22",
+  "document_end": null,
+  "in_force": "2020-06-22",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-06-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
