@@ -2,16 +2,16 @@
   "codex_id": 1029500,
   "title": "Besluit van de Vlaamse Regering van 2018-04-27 tot erkenning van de beroepskwalificatie marketing deskundige",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029500/VolledigDocument?datum=2018-07-16",
-  "source_sha256": "2ebfb144ff89d5358c4e538ba4f7c0f60287b9617ab9186067c3d010dcdf1574",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029500/VolledigDocument?datum=2020-06-22",
+  "source_sha256": "1f90c1e8e4207d92305b8be4eb88d4979be0ce425fde1886b0f29759ea3773cd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029500&param=informatie",
-  "as_of": "2018-07-16",
+  "as_of": "2020-06-22",
   "made": "2018-04-27",
   "gazette": "2018-07-06",
   "numac": 2018012910,
   "document_start": "2018-07-16",
   "document_end": null,
-  "in_force": "2018-07-16",
+  "in_force": "2020-06-22",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-22; future article versions excluded; article text as the API gives it"
 }
