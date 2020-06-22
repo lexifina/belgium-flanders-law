@@ -2,16 +2,16 @@
   "codex_id": 1032371,
   "title": "Besluit van de Vlaamse Regering van 2019-06-28 tot erkenning van de beroepskwalificatie persoonsbegeleider",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032371/VolledigDocument?datum=2019-10-28",
-  "source_sha256": "0bd1904801732b51931d7de2947915b5de732377ead32356915339bedefcf224",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032371/VolledigDocument?datum=2020-06-22",
+  "source_sha256": "a8e88a6bfd1b86b7d9e97e63df877c4a887754c54ca5c7c6d2a22cb829c8b8da",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032371&param=informatie",
-  "as_of": "2019-10-28",
+  "as_of": "2020-06-22",
   "made": "2019-06-28",
   "gazette": "2019-10-18",
   "numac": 2019042118,
   "document_start": "2019-10-28",
   "document_end": null,
-  "in_force": "2019-10-28",
+  "in_force": "2020-06-22",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-10-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-22; future article versions excluded; article text as the API gives it"
 }
