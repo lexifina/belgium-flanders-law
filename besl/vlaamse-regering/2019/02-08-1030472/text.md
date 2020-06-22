@@ -537,7 +537,7 @@ Tweedehands ziekenwagens die door een ziekenwagendienst in dienst worden genomen
 ### ART 41.
 
 Op de tiende dag na de bekendmaking van dit besluit in het Belgisch Staatsblad treden in werking:<br>
-1° het decreet van 18 mei 2018 betreffende het niet-dringend liggend ziekenvervoer, met uitzondering van artikel 4, dat in werking treedt vijftien maanden na de bekendmaking van dit besluit in het Belgisch Staatsblad;<br>
+1° het decreet van 18 mei 2018 betreffende het niet-dringend liggend ziekenvervoer, met uitzondering van artikel 4, dat in werking treedt op 1 januari 2021;<br>
 2° dit besluit, met uitzondering van<br>
 - artikel 6, tweede, derde en vijfde lid, dat in werking treedt vijf jaar na bekendmaking van dit besluit in het Belgisch Staatsblad;<br>
 - artikel 15, dat in werking treedt één jaar na bekendmaking van dit besluit in het Belgisch Staatsblad;<br>
