@@ -2,16 +2,16 @@
   "codex_id": 1028141,
   "title": "Besluit van de Vlaamse Regering van 2017-02-10 tot erkenning van de beroepskwalificatie mecanicien tuin-, park- en bosmachines",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028141/VolledigDocument?datum=2017-04-24",
-  "source_sha256": "5a1a468b68cb9e1014b075ee5440fb3af429bc65d073fa0cca1f0fda6eb60b40",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028141/VolledigDocument?datum=2020-06-22",
+  "source_sha256": "ef0d19a1760c7fcb96f4bac61b8f8a99cdfaf3cfd0bb217fc83f0e414d5b8721",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028141&param=informatie",
-  "as_of": "2017-04-24",
+  "as_of": "2020-06-22",
   "made": "2017-02-10",
   "gazette": "2017-04-14",
   "numac": 2017020303,
   "document_start": "2017-04-24",
   "document_end": null,
-  "in_force": "2017-04-24",
+  "in_force": "2020-06-22",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2017-04-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-22; future article versions excluded; article text as the API gives it"
 }
