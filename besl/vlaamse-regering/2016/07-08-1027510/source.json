@@ -2,16 +2,16 @@
   "codex_id": 1027510,
   "title": "Besluit van de Vlaamse Regering van 2016-07-08 tot erkenning van de beroepskwalificatie medewerker kamerdienst",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027510/VolledigDocument?datum=2016-10-31",
-  "source_sha256": "5aac7e4693da32d958a5e94d948d5bdfa48c1747f1cf615e4a00b9627f887b6e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027510/VolledigDocument?datum=2020-06-22",
+  "source_sha256": "0e3fe07a38c263718d45b40201ca30b45cf444d3c8705c004345cd120449d0f2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027510&param=informatie",
-  "as_of": "2016-10-31",
+  "as_of": "2020-06-22",
   "made": "2016-07-08",
   "gazette": "2016-10-21",
   "numac": 2016036361,
   "document_start": "2016-10-31",
   "document_end": null,
-  "in_force": "2016-10-31",
+  "in_force": "2020-06-22",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-22; future article versions excluded; article text as the API gives it"
 }
