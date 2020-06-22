@@ -2,16 +2,16 @@
   "codex_id": 1029498,
   "title": "Besluit van de Vlaamse Regering van 2018-04-27 tot erkenning van de beroepskwalificatie maatschappelijk assistent",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029498/VolledigDocument?datum=2018-07-16",
-  "source_sha256": "23ac219c43108d53bed007477742e68c97b6988dc819f0d9c86233c1a389e933",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029498/VolledigDocument?datum=2020-06-22",
+  "source_sha256": "d3a3a076dc82bb2032b9736e66a2f9f55ad2347ea620798d9011911f4689f898",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029498&param=informatie",
-  "as_of": "2018-07-16",
+  "as_of": "2020-06-22",
   "made": "2018-04-27",
   "gazette": "2018-07-06",
   "numac": 2018012908,
   "document_start": "2018-07-16",
   "document_end": null,
-  "in_force": "2018-07-16",
+  "in_force": "2020-06-22",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-22; future article versions excluded; article text as the API gives it"
 }
