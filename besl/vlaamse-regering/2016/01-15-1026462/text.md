@@ -8,15 +8,29 @@
 
 ### ART. 1.
 
-In   dit besluit wordt verstaan onder:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   agentschappen: AgODi en het VAPH;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   AgODi: het Agentschap voor Onderwijsdiensten, opgericht bij het besluit van de   Vlaamse Regering van 2 september 2005 tot oprichting van het intern   verzelfstandigd agentschap Agentschap voor Onderwijsdiensten;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   centraal tolkenbureau: de vzw Vlaams Communicatie Assistentie Bureau voor   Doven;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   samenwerkingsovereenkomst: de overeenkomst die elk van de agentschappen   afzonderlijk afsluit met het centraal tolkenbureau vermeld in artikel   2;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   VAPH: het Vlaams Agentschap voor Personen met een Handicap, opgericht bij het   decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap   met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een   Handicap.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">6°   vlindertolk: de contractuele tolk die door het centraal tolkenbureau kan worden   ingeschakeld voor een opdracht als er voor die opdracht geen tolk Vlaamse   Gebarentaal als vermeld in artikel 7, § 1, voorhanden is.
+In dit besluit wordt verstaan onder:<br>
+1° agentschappen: AgODi en het VAPH;<br>
+2° AgODi: het Agentschap voor Onderwijsdiensten, opgericht bij het besluit van de Vlaamse Regering van 2 september 2005 tot oprichting van het intern verzelfstandigd agentschap Agentschap voor Onderwijsdiensten;<br>
+3° centraal tolkenbureau: de vzw Vlaams Communicatie Assistentie Bureau voor Doven;<br>
+4° samenwerkingsovereenkomst: de overeenkomst die elk van de agentschappen afzonderlijk afsluit met het centraal tolkenbureau vermeld in artikel 2;<br>
+5° VAPH: het Vlaams Agentschap voor Personen met een Handicap, opgericht bij het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.<br>
+6° vlindertolk: de contractuele tolk die door het centraal tolkenbureau kan worden ingeschakeld voor een opdracht als er voor die opdracht geen tolk&nbsp;Gebarentaal als vermeld in artikel 7, § 1, voorhanden is.
 
 ### ART. 2.
 
-De   agentschappen sluiten afzonderlijk een samenwerkingsovereenkomst met het   centraal tolkenbureau. De samenwerkingsovereenkomst omvat:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de modaliteiten voor het inzetten van vlindertolken, teletolken en   afstandstolken;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de uitbetaling van de vergoeding voor de tolken Vlaamse Gebarentaal en   schrijftolken;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de wijze en de periodiciteit van de rapportering;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   de modaliteiten voor de vergoeding van de verplaatsingskosten, vermeld in   artikel 11;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   de concretisering en eventueel de uitbreiding van de opdracht van het centraal   tolkenbureau, vermeld in artikel 12;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">6°   de uitbetaling en de indexering van de vergoeding van de ten laste genomen   dienstverlening, de personeels- en werkingskosten en de kosten voor   vlindertolken, vermeld in artikel 15.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+De agentschappen sluiten afzonderlijk een samenwerkingsovereenkomst met het centraal tolkenbureau. De samenwerkingsovereenkomst omvat:<br>
+1° de modaliteiten voor het inzetten van vlindertolken, teletolken en afstandstolken;<br>
+2° de uitbetaling van de vergoeding voor de tolken&nbsp;Gebarentaal en schrijftolken;<br>
+3° de wijze en de periodiciteit van de rapportering;<br>
+4° de modaliteiten voor de vergoeding van de verplaatsingskosten, vermeld in artikel 11;<br>
+5° de concretisering en eventueel de uitbreiding van de opdracht van het centraal tolkenbureau, vermeld in artikel 12;<br>
+6° de uitbetaling en de indexering van de vergoeding van de ten laste genomen dienstverlening, de personeels- en werkingskosten en de kosten voor vlindertolken, vermeld in artikel 15.
 
 ### ART. 3.
 
-<P>De   agentschappen nemen binnen de perken van de daarvoor op hun begroting   ingeschreven kredieten en binnen de perken van het urencontingent, vermeld in   het tweede lid, de kosten ten laste van de dienstverlening, verstrekt door   tolken Vlaamse Gebarentaal en schrijftolken via het centraal tolkenbureau   conform dit besluit en de voorwaarden die opgenomen zijn in de   samenwerkingsovereenkomst.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd   voor de bijstand aan personen, bepalen afzonderlijk het urencontingent van de   dienstverlening, ten laste genomen door respectievelijk AgODi en het   VAPH.</P>
+<p>De agentschappen nemen binnen de perken van de daarvoor op hun begroting ingeschreven kredieten en binnen de perken van het urencontingent, vermeld in het tweede lid, de kosten ten laste van de dienstverlening, verstrekt door tolken&nbsp;Gebarentaal en schrijftolken via het centraal tolkenbureau conform dit besluit en de voorwaarden die opgenomen zijn in de samenwerkingsovereenkomst.</p>
+
+<p>De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd voor de bijstand aan personen, bepalen afzonderlijk het urencontingent van de dienstverlening, ten laste genomen door respectievelijk AgODi en het VAPH.</p>
 
 ## HOOFDSTUK 2 Doelgroep
 
@@ -32,42 +46,51 @@ De   agentschappen betalen de kosten van de door hen ten laste genomen   dienstv
 
 ### ART. 6.
 
-<p>§ 1. AgODi neemt voor de regelmatige leerlingen met specifieke onderwijsbehoeften in het gewoon gefinancierd of gesubsidieerd basis- en secundair onderwijs, hoger onderwijs en volwassenenonderwijs of basiseducatie, die tot de doelgroep, vermeld in artikel 4, behoren, de dienstverlening door een tolk Vlaamse Gebarentaal of een schrijftolk ten laste in de situaties die deel uitmaken van het normale onderwijsleerproces van de gebruiker.</p>
+<p>§ 1. AgODi neemt voor de regelmatige leerlingen met specifieke onderwijsbehoeften in het gewoon gefinancierd of gesubsidieerd basis- en secundair onderwijs, hoger onderwijs en volwassenenonderwijs of basiseducatie, die tot de doelgroep, vermeld in artikel 4, behoren, de dienstverlening door een tolk&nbsp;Gebarentaal of een schrijftolk ten laste in de situaties die deel uitmaken van het normale onderwijsleerproces van de gebruiker.</p>
 
 <p>De ten laste genomen dienstverlening wordt op jaarbasis beperkt tot het maximumaantal lesuren voor een gebruiker per lesniveau. Dat maximumaantal wordt per onderwijsniveau vastgelegd door de Vlaamse minister, bevoegd voor het onderwijs.</p>
 
-<p>§ 2. Het VAPH neemt voor de personen die tot de doelgroep, vermeld in artikel 4, behoren en erkend zijn als persoon met een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, de dienstverlening door een tolk Vlaamse Gebarentaal of een schrijftolk ten laste in leefsituaties die tot het gebruikelijke maatschappelijke patroon behoren, en waarvoor, met het oog op noodzakelijke optimale communicatie, technische bijstand door een deskundig opgeleide tolk vereist is.</p>
+<p>§ 2. Het VAPH neemt voor de personen die tot de doelgroep, vermeld in artikel 4, behoren en erkend zijn als persoon met een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, de dienstverlening door een tolk&nbsp;Gebarentaal of een schrijftolk ten laste in leefsituaties die tot het gebruikelijke maatschappelijke patroon behoren, en waarvoor, met het oog op noodzakelijke optimale communicatie, technische bijstand door een deskundig opgeleide tolk vereist is.</p>
 
 <p>De ten laste genomen dienstverlening wordt op jaarbasis beperkt tot maximaal 80 uur of 220 uur voor gebruikers die ook een van de volgende verminderingen van hun gezichtsvermogen hebben:<br>
 1° een gezichtsscherpte van minder dan 1/20 (0,05) aan het beste oog en met de best mogelijke correctie met bril of contactlens;<br>
 2° een gezichtsveld dat gemiddeld niet groter is dan 10° aan beide ogen.</p>
 
-<p>Het VAPH kan een afwijking die geldt voor het hele lopende jaar, toestaan tot maximaal het dubbele aantal uren van het maximum, vermeld in tweede lid. Om die afwijking te kunnen genieten, moet aan al de volgende voorwaarden voldaan zijn:<br>
-1° de afwijking wordt schriftelijk aangevraagd met een omstandige motivatie van het dwingende karakter, gestaafd met alle nuttige attesten en documenten in functie van de bijzondere situatie. De aanvraag bevat ook een opgave van het nodige aantal uren op jaarbasis;<br>
-2° de aanvraag, vermeld in punt 1°, wordt jaarlijks hernieuwd.</p>
-
 ## HOOFDSTUK 4 Diplomavoorwaarden
 
 ### ART. 7.
 
-<p>§ 1. De ten laste genomen dienstverlening wordt uitgevoerd door tolken Vlaamse Gebarentaal en schrijftolken die ingeschreven zijn bij het centraal tolkenbureau.</p>
+<p>§ 1. De ten laste genomen dienstverlening wordt uitgevoerd door tolken&nbsp;Gebarentaal en schrijftolken die ingeschreven zijn bij het centraal tolkenbureau.</p>
 
-<p>§ 2. Een tolk Vlaamse Gebarentaal moet in het bezit zijn van een van de volgende diploma's, behaald aan een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling:<br>
-1° "Tolk voor Doven";<br>
-2° "Tolk voor Doven - optie Tolk Vlaamse Gebarentaal";<br>
-3° "Master in het Tolken" met Vlaamse Gebarentaal in het talenpakket.</p>
+<p>§ 2. Een tolk Gebarentaal is in het bezit van een diploma Tolk Vlaamse Gebarentaal of Tolk voor Doven, behaald aan een onderwijsinstelling die door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd is.</p>
 
-<p>In afwijking van het eerste lid kunnen de toegekende tolkuren ook worden uitgevoerd door een tolk die een verklaring van NARIC-Vlaanderen kan voorleggen. Uit die verklaring moet blijken dat het buitenlandse diploma erkend is in het land van uitreiking.</p>
+<p>De schrijftolk is in het bezit van een A1-diploma of van een bachelordiploma.</p>
 
 <p>In afwijking van het eerste lid kunnen de tolken die op 1 januari 2004 een erkenning hadden overeenkomstig artikel 15 van het besluit van de Vlaamse Regering van 20 juli 1994 houdende vaststelling van de regels volgens dewelke het Vlaams Agentschap voor Personen met een Handicap de kosten van bijstand door tolken voor doven en slechthorenden ten laste nemen, zoals van toepassing op 1 januari 2004, ook ten laste genomen tolkuren uitvoeren.</p>
 
-<p>§ 3. De schrijftolk moet in het bezit zijn van een A1-diploma of van een bachelordiploma.</p>
+<p>§ 3. Een tolk Gebarentaal die een tolkdiploma behaald heeft aan een onderwijsinstelling die door de Franstalige Gemeenschap of de Duitstalige Gemeenschap erkend, gefinancierd of gesubsidieerd is, kan de ten laste genomen tolkuren uitvoeren, op voorwaarde dat de tolk een verklaring van het Ministerie van Onderwijs van de Franstalige Gemeenschap of van de Duitstalige Gemeenschap kan voorleggen waaruit blijkt dat het diploma erkend is.<br>
+<br>
+In afwijking van het eerste lid kunnen de tolken Gebarentaal die erkend zijn door AVIQ, PHARE of de daartoe bevoegde instantie van de Duitstalige Gemeenschap, ook ten laste genomen tolkuren uitvoeren.<br>
+<br>
+In het tweede lid wordt verstaan onder :<br>
+1° AVIQ : L'Agence wallonne de la Santé, de la Protection sociale, du Handicap et des Familles, opgericht bij het decreet van het Waalse Gewest van 3 december 2015 betreffende l'Agence wallonne de la Santé, de la Protection sociale, du Handicap et des Familles;<br>
+2° PHARE : de dienst Personne Handicapée Autonomie Recherchée, een dienst met afzonderlijk beheer die opgericht is bij de Diensten van het College van de Franse Gemeenschapscommissie door het decreet van de Franse Gemeenschapscommissie van 18 december 1998 betreffende de oprichting van een dienst met afzonderlijk beheer tot uitvoering van het beleid inzake de sociale integratie en de inschakeling in het arbeidsleven van mindervaliden.<br>
+<br>
+§ 4. Een tolk Gebarentaal die in het bezit is van een buitenlands tolkdiploma, kan de ten laste genomen tolkuren uitvoeren, op voorwaarde dat de tolk een verklaring kan voorleggen van het Ministerie van Onderwijs van het land waarin het diploma uitgereikt is, waaruit blijkt dat het diploma erkend is.<br>
+<br>
+§ 5. Een tolk Gebarentaal die geen diploma kan voorleggen als vermeld in paragraaf 2, 3 of 4, kan een gemotiveerde aanvraag indienen bij een van de agentschappen om in aanmerking te komen voor de uitvoering van de ten laste genomen tolkuren. In de aanvraag toont de tolk aan, op straffe van niet-ontvankelijkheid, dat hij minstens vijf jaar tolkervaring heeft en minstens vijftig tolkopdrachten heeft uitgevoerd tijdens de laatste vijf jaar.<br>
+<br>
+AgODi of VAPH onderzoekt de aanvraag en kan, als dat nodig is, bijkomende inlichtingen vragen of inwinnen.<br>
+<br>
+AgODi of VAPH deelt haar beslissing schriftelijk mee aan de tolk Gebarentaal binnen een maand die volgt op de datum waarop de agentschappen de volledige gemotiveerde aanvraag, vermeld in het eerste lid, ontvangen hebben.</p>
 
 ## HOOFDSTUK 5 Contractuele tolken, afstandstolken en teletolken
 
 ### ART. 8.
 
-<P>Het   centraal tolkenbureau zet een vlindertolk in om moeilijk te bemiddelen tolkuren   in te vullen, overeenkomstig de modaliteiten die vastgelegd zijn in de   samenwerkingsovereenkomst.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Een   vlindertolk kan pas door het centraal tolkenbureau worden ingeschakeld voor een   opdracht als er voor die opdracht geen tolk Vlaamse Gebarentaal als vermeld in   artikel 7, § 1, voorhanden is.</P>
+<p>Het centraal tolkenbureau zet een vlindertolk in om moeilijk te bemiddelen tolkuren in te vullen, overeenkomstig de modaliteiten die vastgelegd zijn in de samenwerkingsovereenkomst.</p>
+
+<p>Een vlindertolk kan pas door het centraal tolkenbureau worden ingeschakeld voor een opdracht als er voor die opdracht geen tolk&nbsp;Gebarentaal als vermeld in artikel 7, § 1, voorhanden is.</p>
 
 ### ART. 9.
 
@@ -77,17 +100,29 @@ De   agentschappen betalen de kosten van de door hen ten laste genomen   dienstv
 
 ### ART. 10.
 
-&nbsp;De vergoeding van de tolken Vlaamse   Gebarentaal en schrijftolken wordt hen rechtstreeks door het centraal   tolkenbureau uitbetaald, overeenkomstig de bepalingen die opgenomen zijn in de   samenwerkingsovereenkomst.
+De vergoeding van de tolken&nbsp;Gebarentaal en schrijftolken wordt hen rechtstreeks door het centraal tolkenbureau uitbetaald, overeenkomstig de bepalingen die opgenomen zijn in de samenwerkingsovereenkomst.
 
 ### ART. 11.
 
-<P>De   uren dienstverlening die de tolken Vlaamse Gebarentaal effectief hebben   gepresteerd en die zijn aanvaard door het centraal tolkenbureau, de tijd van de   verplaatsing niet inbegrepen, worden vergoed naar rato van 36,35 euro per   gefactureerd vol of begonnen uur.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   verplaatsingskosten van de tolken worden vergoed conform de modaliteiten,   vermeld in de samenwerkingsovereenkomst. Verplaatsingen met de wagen worden   vergoed tegen 0,25 euro per werkelijk afgelegde kilometer.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   bedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast   volgens de formule: 36,35 x [index december jaar x-1/index december   2014].<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De uren dienstverlening die de tolken Gebarentaal effectief hebben gepresteerd en die zijn aanvaard door het centraal tolkenbureau, de tijd van de verplaatsing niet inbegrepen, worden vergoed naar rato van 36,35 euro per gefactureerd vol of begonnen uur.</p>
+
+<p>De verplaatsingskosten van de tolken worden vergoed conform de modaliteiten, vermeld in de samenwerkingsovereenkomst. Verplaatsingen met de wagen worden vergoed tegen 0,25 euro per werkelijk afgelegde kilometer.</p>
+
+<p>Het bedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast volgens de formule: 36,35 x [index december jaar x-1/index december 2014].</p>
 
 ## HOOFDSTUK 7 Het centraal tolkenbureau
 
 ### ART. 12.
 
-<P>&nbsp;Het centraal tolkenbureau heeft als   opdracht voor elk van de agentschappen om:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   als bemiddelaar op te treden tussen de aanvrager en de tolken Vlaamse   Gebarentaal en schrijftolken;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   als klachtenbemiddelaar op te treden voor de tolkendienstverlening in het   algemeen en misbruiken zo nodig aan de agentschappen te signaleren;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   voldoende uitgerust te zijn om:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">a)   te kunnen voorzien in een optimale bereikbaarheid voor de gebruikers en daarvoor   over een aangepast oproepsysteem beschikken;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">b)   te kunnen voorzien in een optimale dienstverlening voor de gebruikers en   daarvoor een online overzicht voor de opvolging van de beschikbare tolkuren ter   beschikking stellen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">c)   de ideologische, filosofische of godsdienstige overtuiging van de gebruikers te   eerbiedigen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Elk   van de agentschappen kan voor de dienstverlening die het ten laste heeft genomen   in de samenwerkingsovereenkomst de opdracht, vermeld in het eerste lid, verder   concretiseren en eventueel uitbreiden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>&nbsp;Het centraal tolkenbureau heeft als opdracht voor elk van de agentschappen om:<br>
+1° als bemiddelaar op te treden tussen de aanvrager en de tolken&nbsp;Gebarentaal en schrijftolken;<br>
+2° als klachtenbemiddelaar op te treden voor de tolkendienstverlening in het algemeen en misbruiken zo nodig aan de agentschappen te signaleren;<br>
+3° voldoende uitgerust te zijn om:<br>
+a) te kunnen voorzien in een optimale bereikbaarheid voor de gebruikers en daarvoor over een aangepast oproepsysteem beschikken;<br>
+b) te kunnen voorzien in een optimale dienstverlening voor de gebruikers en daarvoor een online overzicht voor de opvolging van de beschikbare tolkuren ter beschikking stellen;<br>
+c) de ideologische, filosofische of godsdienstige overtuiging van de gebruikers te eerbiedigen.</p>
+
+<p>Elk van de agentschappen kan voor de dienstverlening die het ten laste heeft genomen in de samenwerkingsovereenkomst de opdracht, vermeld in het eerste lid, verder concretiseren en eventueel uitbreiden.</p>
 
 ### ART. 13.
 
