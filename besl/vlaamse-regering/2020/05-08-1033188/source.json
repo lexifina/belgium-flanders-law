@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033188,
+  "title": "Besluit van de Vlaamse Regering van 2020-05-08 tot uitvoering van het decreet van 26 april 2019 houdende de oprichting van een afstammingscentrum en een DNA-databank",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033188/VolledigDocument?datum=2020-06-26",
+  "source_sha256": "29ef024ddc08136cd6726aa8145c07c7e3290a05259624ec07607b2807450ecb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033188&param=informatie",
+  "as_of": "2020-06-26",
+  "made": "2020-05-08",
+  "gazette": "2020-06-16",
+  "numac": 2020021199,
+  "document_start": "2020-06-26",
+  "document_end": null,
+  "in_force": "2020-06-26",
+  "article_versions": 41,
+  "record_form": "consolidated version as in force on 2020-06-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
