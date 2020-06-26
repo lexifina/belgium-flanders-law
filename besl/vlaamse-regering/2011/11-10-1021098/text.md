@@ -202,8 +202,8 @@ Het programma voor bilaterale onderzoekssamenwerking heeft tot doel bilaterale o
 
 ### ART. 18.
 
-Het FWO is belast met het operationeel en financieel beheer van het Odysseusprogramma, vermeld in artikel III.100 van de Codex Hoger Onderwijs van 11 oktober 2013. Het Odysseusprogramma omvat twee types startfinanciering :<br>
-1° Odysseus Groep I - Internationaal toonaangevend onderzoek : voor onderzoekers die internationaal erkend worden als toonaangevend en die een aanstelling aan een buitenlandse universiteit hebben. Van die onderzoekers kan verwacht worden dat ze in de instelling waaraan ze verbonden zijn, een eigen onderzoeksgroep leiden die uit een vaste staf, meerdere postdocs en een aantal doctoraatsstudenten bestaat;<br>
+Het FWO is belast met het operationeel en financieel beheer van het Odysseusprogramma, overeenkomstig artikel 18, § 1, 5°, van het decreet van 30 april 2009. Het Odysseusprogramma omvat twee types startfinanciering :<br>
+1° Odysseus Groep I - Internationaal toonaangevend onderzoek : voor onderzoekers die internationaal erkend worden als toonaangevend en die&nbsp;al een permanente academische aanstelling van minimaal 80% aan een buitenlandse&nbsp;onderzoeksinstelling hebben. Van die onderzoekers kan verwacht worden dat ze in de instelling waaraan ze verbonden zijn, een eigen onderzoeksgroep leiden die uit een vaste staf, meerdere postdocs en een aantal doctoraatsstudenten bestaat;<br>
 2° Odysseus Groep II - Onderzoekers met het potentieel om door te groeien tot internationaal toonaangevende status : voor onderzoekers die minimaal 3 jaar postdoctorale ervaring in het buitenland hebben en van wie het wetenschappelijk werk vooraanstaande vakgenoten ervan overtuigt dat ze het potentieel hebben om door te groeien tot een internationaal vooraanstaande positie. Van die onderzoekers kan verwacht worden dat ze binnen een onderzoeksgroep een klein team leiden, dat uit een of meer doctoraatsstudenten en eventueel een of enkele post-docs bestaat. Zij hebben enige ervaring met het verwerven van externe onderzoeksfinanciering. Binnen enkele jaren kunnen zij doorgroeien naar het niveau dat vereist is voor een aanstelling in het zelfstandig academisch personeel.<br>
 &nbsp;
 
@@ -211,48 +211,76 @@ Het FWO is belast met het operationeel en financieel beheer van het Odysseusprog
 
 ### ART. 19.
 
-Het FWO lanceert in samenwerking met de universiteiten periodiek een Odysseusoproep om zo de continuïteit van het Odysseusinitiatief te garanderen. De beschikbare middelen worden bij de opeenvolgende oproepen evenwichtig verdeeld. <br /><br />
+Het FWO lanceert in samenwerking met de universiteiten periodiek een Odysseusoproep om zo de continuïteit van het Odysseusinitiatief te garanderen.
 
 ### ART. 20.
 
-§ 1. Het staat de universiteiten vrij om de middelen voor het Odysseusprogramma te verdelen over groep I en groep II. <br /><br />§ 2. Voor de selectie van de kandidaten legt elk universiteitsbestuur een procedure vast, die voor groep I kan verschillen van groep II.<br /><br />§ 3. Een of meer universiteiten kunnen het initiatief nemen om een kandidaat voor te dragen voor het Odysseusprogramma.<br /><br />§ 4. Kandidaten moeten : <br />1° uiterlijk één jaar voor de datum van de aanvraag een hoofdaanstelling aan een buitenlandse instelling hebben; <br />2° gedurende minstens drie jaar in de afgelopen vijf jaar aan een buitenlandse instelling verbonden zijn geweest;<br />3° aan de criteria van excellentie voldoen, zoals blijkt uit het CV en de bibliografie;<br />4° een onderzoeksplan bij de betreffende universiteit of universiteiten indienen dat een begroting bevat met een indicatieve verdeling van de geplande uitgaven over een periode van vijf jaar. De universiteit of universiteiten moeten dat onderzoeksplan goedkeuren. Het onderzoeksplan moet passen in het universitaire onderzoeksbeleid.<br /><br />§ 5. Bij de voordracht van een kandidaat moet de universiteit : <br />1° bevestigen dat ze een ZAP-kaderplaats (groep I), respectievelijk een postdoctoraal mandaat (groep II) met een looptijd van vijf jaar, evenals de nodige infrastructuur ter beschikking heeft;<br />2° het onderzoeksplan goedkeuren en aangeven hoe het past in het onderzoeksbeleid.<br /><br />Als twee of meer universiteiten een kandidaat voordragen, moeten ze een gemeenschappelijk voorstel formuleren. <br /><br />
+§ 1. ...<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. Kandidaten moeten :<br>
+1° uiterlijk één jaar voor de datum van de aanvraag een hoofdaanstelling aan een buitenlandse instelling hebben;<br>
+2° gedurende minstens drie jaar in de afgelopen vijf jaar aan een buitenlandse instelling verbonden zijn geweest;<br>
+3° aan de criteria van excellentie voldoen, zoals blijkt uit het CV en de bibliografie;<br>
+4° een onderzoeksplan bij de betreffende universiteit of universiteiten indienen dat een begroting bevat met een indicatieve verdeling van de geplande uitgaven over een periode van vijf jaar. De universiteit of universiteiten moeten dat onderzoeksplan goedkeuren. Het onderzoeksplan moet passen in het universitaire onderzoeksbeleid.<br>
+<br>
+§ 4/1. Kandidaten mogen per aanvraagronde maar één keer voorgedragen worden.<br>
+<br>
+§ 5. Bij de voordracht van een kandidaat moet de universiteit :<br>
+1° bevestigen dat ze een ZAP-kaderplaats (groep I), respectievelijk&nbsp;minstens een ZAP-tenure trackmandaat of gelijkwaardig mandaat (groep II), evenals de nodige infrastructuur ter beschikking heeft;<br>
+2° het onderzoeksplan goedkeuren en aangeven hoe het past in het onderzoeksbeleid.<br>
+<br>
+Als een kandidaat het onderzoek in twee of meer universiteiten wil uitvoeren, wordt één gezamenlijk onderzoeksvoorstel ingediend.<br>
+&nbsp;
 
 ### ART. 21.
 
-§ 1. De universiteiten bezorgen de voordrachten aan het FWO dat via een internationale, multidisciplinaire commissie onderzoekt :<br>
+§ 1. De universiteiten bezorgen de voordrachten aan het FWO dat via een internationale, multidisciplinaire panel onderzoekt :<br>
 1° of de door de universiteiten voorgestelde onderzoekers aan de gestelde eisen van excellentie voldoen;<br>
 2° of het onderzoeksplan van de voorgestelde onderzoekers van hoge kwaliteit is;<br>
 3° of het onderzoeksplan uitvoerbaar is met de daarvoor aangevraagde middelen.<br>
 <br>
-§ 2. De commissie bestaat uit leden die niet verbonden zijn aan een Belgische universiteit en een algemene internationale erkenning genieten. Ten hoogste twee derde van de leden zijn van hetzelfde geslacht.<br>
+§ 2. Het panel bestaat uit leden die niet verbonden zijn aan een Belgische universiteit en een algemene internationale erkenning genieten. Ten hoogste twee derde van de leden zijn van hetzelfde geslacht.<br>
 <br>
-§ 3. Voor de evaluatie van elke kandidaat zal de commissie een beroep doen op het wetenschappelijke advies van twee internationale referenten. Zij moeten beschikken over de specifieke expertise die vereist is voor het ingediende dossier. Als de meningen van de twee referenten uiteenlopen, is het advies van een derde internationale referent vereist.<br>
+§ 3. Voor de evaluatie van elke kandidaat zal het panel een beroep doen op het wetenschappelijke advies van minstens&nbsp;twee internationale referenten. Zij moeten beschikken over de specifieke expertise die vereist is voor het ingediende dossier. Als de meningen van de twee referenten uiteenlopen, is het advies van een derde internationale referent vereist.<br>
 <br>
 § 4. Een geanonimiseerde samenvatting van de referentenrapporten wordt samen met de beslissing meegedeeld aan de kandidaten.<br>
 <br>
-§ 5. De commissie kan aanpassingen voorstellen die richtinggevend zijn voor de omvang van de voorgestelde startfinanciering. De raad van bestuur beslist over de toekenning van de financiering.<br>
+§ 5. Het panel kan aanpassingen voorstellen die richtinggevend zijn voor de omvang van de voorgestelde startfinanciering. De raad van bestuur beslist over de toekenning van de financiering.<br>
 &nbsp;
 
 ### ART. 22.
 
-Onderzoekers die de financiering ontvangen, worden door hun onthaalinstelling geëvalueerd : <br />1° Voor groep I vindt die evaluatie plaats in de loop van het vierde jaar. Daarbij wordt onderzocht hoe de uitvoering van het onderzoeksplan vordert en welke middelen via projectfinanciering verworven zijn of binnen enkele maanden verwacht mogen worden. Onderzoekers kunnen een aangepast onderzoeksplan opstellen en aangeven hoe zij de resterende middelen willen besteden;<br />2° Voor groep II nemen de universiteiten uiterlijk in de loop van het vierde jaar een beslissing over de loopbaan van de onderzoekers. Bij een nieuwe aanstelling, kunnen zij een aangepast onderzoeksplan opstellen en aangeven hoe zij de resterende middelen willen besteden.<br /><br />In beide gevallen deelt de betrokken onthaalinstelling het FWO het aangepaste onderzoeksplan mee.<br /><br />
+De universiteit voert de intermediaire en ex-postevaluatie uit van de onderzoeker die de financiering ontvangt. De wetenschappelijke intermediaire en ex-post beoordeling van het Odysseusonderzoeksproject valt onder de verantwoordelijkheid van het FWO.
 
 ## HOOFDSTUK 3 Aanwending
 
 ### ART. 23.
 
-§ 1. Het FWO verdeelt 80 % van de besteedbare middelen over de universiteiten op basis van het gemiddelde over vijf jaar, van de BOF-sleutel, voorafgaand aan het begrotingsjaar waarop het Odysseusprogramma betrekking heeft. De resterende 20 % vormt de eigen beleidsruimte waarover de raad van bestuur in het kader van dit initiatief beschikt.<br>
+§ 1. ...<br>
 <br>
-§ 2. De universiteiten hoeven de voor hen bestemde middelen die in een bepaald begrotingsjaar zijn toegekend niet helemaal te gebruiken, maar kunnen ze geheel of gedeeltelijk overdragen naar het volgende jaar en op die manier trekkingsrechten opbouwen.<br>
+§ 2. ...<br>
 <br>
-§ 3. De universiteiten die in een bepaald begrotingsjaar over onvoldoende trekkingsrechten beschikken kunnen met eigen middelen voorfinancieren, zolang dat beperkt blijft tot het bedrag dat zij in het kader van het Odysseusprogramma zullen ontvangen.<br>
+§ 3. ...<br>
 <br>
-§ 4. De raad van bestuur beslist over de aanwending van de eigen beleidsruimte, bedoeld in § 1, en kan de middelen geheel of gedeeltelijk overdragen naar het volgende begrotingsjaar.<br>
+§ 4. De raad van bestuur van het FWO beslist over de aanwending van de besteedbare middelen en kan de middelen geheel of gedeeltelijk overdragen naar het volgende begrotingsjaar.<br>
 &nbsp;
 
 ### ART. 24.
 
-§ 1. De onderzoeker ontvangt gedurende vijf jaar financiering en zal in die periode progressief via projectfinanciering middelen verwerven.<br /><br />§ 2. De omvang van het bedrag van de steun is afhankelijk van de discipline en variabel : <br />1° Voor Groep I geldt een bedrag van minimaal 400.000 euro en maximaal 1.500.000 euro per jaar, of tussen 2.000.000 en 7.500.000 euro voor de volledige vijf jaar;<br />2° Voor Groep II geldt een bedrag van minimaal 100.000 euro en maximaal 200.000 euro per jaar, of tussen 500.000 en 1.000.000 euro voor de volledige vijf jaar. <br /><br />§ 3. De onderzoeker kan de middelen besteden aan werking, personeel en uitrusting. Hij kan de middelen niet gebruiken voor de eigen salariskosten.<br /><br />§ 4. Financiering door het Odysseusprogramma kan afgestemd worden op andere vormen van onderzoeksfinanciering en de onderzoekers kunnen de middelen daarom besteden over een periode van acht jaar, die niet verlengbaar is. <br /><br />
+§ 1. De onderzoeker ontvangt gedurende vijf jaar financiering en zal in die periode progressief via projectfinanciering middelen verwerven.<br>
+<br>
+§ 2. De omvang van het bedrag van de steun is afhankelijk van de discipline en variabel :<br>
+1° Voor Groep I geldt een bedrag van minimaal 400.000 euro en maximaal 1.000.000 euro per jaar, of tussen 2.000.000 en 5.000.000 euro voor de volledige vijf jaar;<br>
+2° Voor Groep II geldt een bedrag van minimaal 100.000 euro en maximaal 200.000 euro per jaar, of tussen 500.000 en 1.000.000 euro voor de volledige vijf jaar.<br>
+<br>
+§ 3. De onderzoeker kan de middelen besteden aan werking, personeel en uitrusting. Hij kan de middelen niet gebruiken voor de eigen salariskosten.<br>
+<br>
+§ 4. Financiering door het Odysseusprogramma kan afgestemd worden op andere vormen van onderzoeksfinanciering en de onderzoekers kunnen de middelen daarom besteden over een periode van acht jaar, die niet verlengbaar is.<br>
+&nbsp;
 
 ## TITEL 6 Het verlenen van wetenschappelijke prijzen
 
