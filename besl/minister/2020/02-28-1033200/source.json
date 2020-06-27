@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033200,
+  "title": "Ministerieel besluit van 2020-02-28 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 29 november 2013 tot erkenning van de beroepskwalificatie procesoperator kleding, confectie en meubelstoffering prototypes",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033200/VolledigDocument?datum=2020-06-27",
+  "source_sha256": "d889a410db45eaf6614b2d797f9599c7cf5277f6b1be5b58bd9379433475f79f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033200&param=informatie",
+  "as_of": "2020-06-27",
+  "made": "2020-02-28",
+  "gazette": "2020-06-17",
+  "numac": 2020041325,
+  "document_start": "2020-06-27",
+  "document_end": null,
+  "in_force": "2020-06-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-06-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
