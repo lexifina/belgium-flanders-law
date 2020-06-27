@@ -2,16 +2,16 @@
   "codex_id": 1026542,
   "title": "Besluit van de Vlaamse Regering van 2016-01-08 tot erkenning van de beroepskwalificatie keukenmedewerker",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026542/VolledigDocument?datum=2016-03-26",
-  "source_sha256": "5a77f76649471db74d9c39f6cc4029e822574727a495e6dc8f8eb4ed63f5dc93",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026542/VolledigDocument?datum=2020-06-27",
+  "source_sha256": "9c450935f30db140453a2130a5d5a699603318009fac0c84eb533f932a6049b0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026542&param=informatie",
-  "as_of": "2016-03-26",
+  "as_of": "2020-06-27",
   "made": "2016-01-08",
   "gazette": "2016-03-16",
   "numac": 2016035241,
   "document_start": "2016-03-26",
   "document_end": null,
-  "in_force": "2016-03-26",
+  "in_force": "2020-06-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-27; future article versions excluded; article text as the API gives it"
 }
