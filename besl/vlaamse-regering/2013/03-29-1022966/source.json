@@ -2,16 +2,16 @@
   "codex_id": 1022966,
   "title": "Besluit van de Vlaamse Regering van 2013-03-29 tot erkenning van de beroepskwalificatie procesoperator Chemische en farmaceutische industrie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022966/VolledigDocument?datum=2013-06-21",
-  "source_sha256": "6321fc86366f9f6fccb81840cefd2c06b4e7670a05dd099268cbe37b638b85c1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022966/VolledigDocument?datum=2020-06-27",
+  "source_sha256": "e3af340b25a3eeb90ce56d65aad88f0e5450a29df7a1042b1bf33cac03ca5bcd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022966&param=informatie",
-  "as_of": "2013-06-21",
+  "as_of": "2020-06-27",
   "made": "2013-03-29",
   "gazette": "2013-06-11",
   "numac": 2013035497,
   "document_start": "2013-06-21",
   "document_end": null,
-  "in_force": "2013-06-21",
+  "in_force": "2020-06-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-06-21; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-27; future article versions excluded; article text as the API gives it"
 }
