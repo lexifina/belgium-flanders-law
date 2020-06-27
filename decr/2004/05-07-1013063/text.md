@@ -16,12 +16,13 @@ In dit decreet wordt verstaan onder:<br>
 5° dienstenwerkgelegenheid: de werkgelegenheid die bijdraagt tot het vervullen van nog niet ingevulde maatschappelijke behoeften die betrekking kunnen hebben op zowel individuele, gezinsgebonden als collectieve aangelegenheden;<br>
 6° werkwinkel: een vlot bereikbaar en toegankelijk fysisch loket dat wordt ingericht door de in artikel 20, § 2, bedoelde partijen en tot taak heeft, enerzijds, het verzorgen van de geïntegreerde dienstverlening en, anderzijds, het verschaffen aan alle rechtsonderhorigen van de basisinformatie inzake dienstenwerkgelegenheid;<br>
 7° arbeidsbemiddeling: de activiteiten die erop gericht zijn werkzoekenden en werknemers bij te staan bij het zoeken van een nieuwe tewerkstelling of werkgevers bij het zoeken van werkzoekenden of werknemers;<br>
-8° traject: een geplande, efficiënte en flexibele aaneenschakeling van verschillende stappen in een logische volgorde met als doel de kansen op duurzame werkgelegenheid te verhogen;<br>
+8° traject: een op maat gerichte, geplande, efficiënte en flexibele aaneenschakeling van verschillende stappen in een logische volgorde met als doel de kansen op een job en een duurzame loopbaan te verhogen;<br>
 9° statuut van de werkzoekende: het geheel van de bepalingen inzake de rechten en plichten van de werkzoekende;<br>
 10° doelgroepwerknemer : de persoon, vermeld in artikel 3, 3°, van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
 11° verplicht ingeschreven werkzoekende: de werkzoekende die is ingeschreven bij de VDAB met het oog op het verkrijgen van een werkloosheidsuitkering of een inschakelingsuitkering.<br>
 12° persoon met een arbeidshandicap : een persoon met een langdurig en belangrijk probleem van deelname aan het arbeidsleven dat te wijten is aan het samenspel tussen functiestoornissen van mentale, psychische, lichamelijke of zintuiglijke aard, beperkingen bij het uitvoeren van activiteiten en persoonlijke en externe factoren. De Vlaamse Regering bepaalt de voorwaarden en de procedure aan de hand waarvan de VDAB bepaalt of een persoon al dan niet een arbeidshandicap heeft;<br>
-13° leefloongerechtigde: iedere persoon die recht heeft op een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, of die recht heeft op financiële maatschappelijke steun, equivalent aan het leefloon, vermeld in artikel 60, § 3, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, met uitzondering van de personen voor wie tewerkstelling niet haalbaar is om gezondheids- of billijkheidsredenen.
+13° leefloongerechtigde: iedere persoon die recht heeft op een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, of die recht heeft op financiële maatschappelijke steun, equivalent aan het leefloon, vermeld in artikel 60, § 3, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, met uitzondering van de personen voor wie tewerkstelling niet haalbaar is om gezondheids- of billijkheidsredenen.<br>
+14° persoon op beroepsactieve leeftijd: alle personen tussen vijftien jaar en de pensioengerechtigde leeftijd die niet meer onderworpen zijn aan de voltijdse leerplicht, met inbegrip van gepensioneerden die zich vrijwillig inschrijven als werkzoekende.
 
 ## HOOFDSTUK II OPRICHTING
 
@@ -45,11 +46,14 @@ De raad van bestuur van het agentschap kan beslissen één of meer regionale ves
 
 ### ART. 4.
 
-De VDAB heeft als missie om, in het belang van werkgevers, werknemers en   werkzoekenden, enerzijds de arbeidsbemiddeling en anderzijds de begeleiding en   de opleiding met het oog op de levenslange en duurzame inschakeling op de   arbeidsmarkt van werkzoekenden en werknemers te verzekeren, te organiseren en te   bevorderen.<BR><BR>De missie, vermeld in het eerste lid, houdt ook de controle   op de beschikbaarheid voor de arbeidsmarkt van de verplicht ingeschreven   werkzoekende in.
+De VDAB heeft als missie om, in het belang van werkgevers, werknemers, werkzoekenden en iedere andere persoon op beroepsactieve leeftijd:<br>
+1° voor iedere persoon op beroepsactieve leeftijd de arbeidsbemiddeling, begeleiding en opleiding met het oog op een duurzame loopbaan te verzekeren, te organiseren en te bevorderen, en ook zijn loopbaanperspectief en loopbaaneigenaarschap te faciliteren;<br>
+2° voor elke werkgever perspectief op talent te verschaffen door instrumenten, arbeidsmarktinformatie, advies en ondersteuning aan te bieden om vacatures en leerwerkplekken te vervullen;<br>
+3° te controleren of de verplicht ingeschreven werkzoekende beschikbaar is voor de arbeidsmarkt.
 
 ### ART 4/1.
 
-De VDAB verwerkt persoonsgegevens van werkzoekenden om de arbeidsbemiddeling, de begeleiding en de opleiding voor een levenslange en duurzame inschakeling op de arbeidsmarkt te verzekeren, te organiseren en te bevorderen. De volgende gegevens worden verwerkt :<br>
+De VDAB verwerkt persoonsgegevens van werkzoekenden en iedere persoon op beroepsactieve leeftijd om de arbeidsbemiddeling, de begeleiding en de opleiding voor een levenslange en duurzame inschakeling op de arbeidsmarkt te verzekeren, te organiseren en te bevorderen. De volgende gegevens worden verwerkt :<br>
 1° identificatiegegevens;<br>
 2° studie- en beroepsverleden;<br>
 3° beroepskwalificaties met de eventuele vermelding van de behaalde titel of titels van beroepsbekwaamheid;<br>
@@ -65,7 +69,11 @@ Voor de gegevensuitwisseling gebruiken de VDAB en de dienstverleners, vermeld in
 
 ### ART. 5.
 
-§ 1. Teneinde de in artikel 4 bedoelde missie waar te maken, vervult de VDAB de volgende taken:<br>
+§ 1. In dit artikel wordt verstaan onder:<br>
+1° activeren: acties ondernemen om werk te verkrijgen of te behouden of stappen zetten richting werk in het kader van een duurzame loopbaan. Dat omvat ook acties om de personen te bereiken die behoren tot de doel- groep, vermeld in paragraaf 1/1, 12° en 13° ;<br>
+2° regisseur: de instantie die op permanente wijze voor een uniform referentiekader zorgt om de opdrachten, vermeld in paragraaf 1/1, 12°, 13° en 14°, te kunnen uitvoeren.<br>
+<br>
+§ 1/1. Teneinde de in artikel 4 bedoelde missie waar te maken, vervult de VDAB de volgende taken:<br>
 <br>
 1° algemene taken:<br>
 a) het bevorderen van en bijdragen tot de betere werking van de arbeidsmarkt;<br>
@@ -85,12 +93,12 @@ a) de organisatie en bevordering van de aanwerving en de plaatsing van werkzoeke
 b) de toekenning van tegemoetkomingen met als doel de aanwerving en de plaatsing van werkzoekenden en werknemers te bevorderen;<br>
 c) het waarborgen en faciliteren van een goede beroeps- en loopbaanoriëntering;<br>
 d) de inrichting van tewerkstellingscellen bij herstructurering en sluiting van ondernemingen in overleg met de werknemersorganisaties en conform de voorwaarden en modaliteiten nader bepaald door de Vlaamse regering;<br>
-e) de inrichting van een herplaatsingsfonds met als doel de herplaatsing te bevorderen van werknemers die werkloos zijn gesteld :<br>
-1° ingevolge een faillissement van een onderneming;<br>
+e) de inrichting van een herplaatsingsfonds met als doel de herplaatsing te bevorderen van werknemers die werkloos zijn gesteld :
+<div style="margin-left:40px">1° ingevolge een faillissement van een onderneming;<br>
 2° ingevolge een gerechtelijke ontbinding van een vereniging zonder winstoogmerk wegens kennelijk onvermogen;<br>
 3° in een onderneming waaraan een gerechtelijke reorganisatie werd toegestaan;<br>
 4° in een onderneming in moeilijkheden die voldoet aan de voorwaarde, gesteld in artikel 23, eerste en derde lid, van de wet van 31 januari 2009 betreffende de continuïteit van de ondernemingen, ook al is het verzoekschrift, vermeld in artikel 17, § 1, van diezelfde wet, nog niet neergelegd, waarbij het bewijs geleverd wordt dat de onderneming onvoldoende financiële middelen heeft om zelf een outplacementbegeleiding te financieren. De Vlaamse Regering bepaalt, na advies van de raad van bestuur van de VDAB, de nadere regels voor het leveren van het bewijs dat voldaan is aan de voormelde voorwaarden;<br>
-5° ingevolge de vrijwillige vereffening van een vereniging zonder winstoogmerk wegens kennelijk onvermogen, waarbij het bewijs geleverd wordt dat de vereniging onvoldoende financiële middelen heeft om zelf een outplacementbegeleiding te financieren.<br>
+5° ingevolge de vrijwillige vereffening van een vereniging zonder winstoogmerk wegens kennelijk onvermogen, waarbij het bewijs geleverd wordt dat de vereniging onvoldoende financiële middelen heeft om zelf een outplacementbegeleiding te financieren.</div>
 De VDAB staat in voor de betaling van de kosten die aan de activiteiten inzake herplaatsing verbonden zijn. De Vlaamse Regering bepaalt, na advies van de Sociaal-Economische Raad van Vlaanderen, welke activiteiten kunnen bijdragen tot de herplaatsing van de in het voorgaande lid bedoelde werknemers, welke categorieën van personen met werknemers kunnen worden gelijkgesteld, alsook de voorwaarden en regels met betrekking tot de betaling van de kosten.<br>
 De Vlaamse Regering bepaalt de procedure voor de aanvraag tot tegemoetkoming.<br>
 <br>
@@ -123,7 +131,6 @@ a) ze zijn jonger dan 25 jaar;<br>
 b) ze hebben het onderwijs verlaten en beschikken niet over een diploma of getuigschrift;<br>
 c) ze volgen geen opleiding;<br>
 d) ze verrichten geen beroepsarbeid of zelfstandige activiteit.<br>
-<br>
 De Vlaamse Regering bepaalt, na advies van de raad van bestuur, wat onder passend aanbod en diploma of getuigschrift moet worden verstaan.<br>
 <br>
 10° de VDAB is bevoegd voor de controle op de openbare centra voor maatschappelijk welzijn wat betreft de toekenning en aanwending van toelagen voor tewerkstelling in het kader van artikel 57quater, 60, § 7, en 61 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn. De VDAB is ook bevoegd om de ten onrechte toegekende toelagen terug te vorderen van de openbare centra voor maatschappelijk welzijn.<br>
@@ -134,6 +141,26 @@ a) de situaties waarin de kosten terugbetaald kunnen worden;<br>
 b) de voorwaarden om voor een terugbetaling in aanmerking te komen;<br>
 c) de hoogte van de bedragen van de terugbetaling;<br>
 d) de wijze waarop de aanvraag tot terugbetaling ingediend wordt en de formaliteiten waaraan ze moet voldoen.<br>
+<br>
+12° taken als activeringsregisseur. De VDAB heeft als regisseur de volgende taken:<br>
+a) iedere persoon op beroepsactieve leeftijd activeren, ongeacht zijn statuut, socialezekerheids- of socialebijstandsstelsel of zijn inschrijving als werkzoekende;<br>
+b) een uniform referentiekader bepalen om de doelgroep, vermeld in punt a), te activeren;<br>
+c) proactief personen detecteren en contacteren die behoren tot de doelgroep, vermeld in punt a);<br>
+d) gegevens verzamelen, analyseren, verwerken en bijhouden die noodzakelijk zijn om de doelstelling, vermeld in punt a), te bereiken. De regisseur wisselt die gegevens ook uit met actoren en partners die nodig zijn om de doelstelling, vermeld in punt a), te bereiken;<br>
+<br>
+13° taken als loopbaanregisseur. De VDAB heeft als regisseur de volgende taken:<br>
+a) iedere persoon op beroepsactieve leeftijd activeren en verder begeleiden om zijn werk te behouden;<br>
+b) een uniform referentiekader bepalen om de doelgroep, vermeld in punt a), te activeren;<br>
+c) proactief personen detecteren en contacteren die behoren tot de doelgroep, vermeld in punt a);<br>
+d) gegevens verzamelen, analyseren, verwerken en bijhouden die noodzakelijk zijn om de doelstelling, vermeld in punt a), te bereiken. De regisseur wisselt die gegevens ook uit met actoren en partners die nodig zijn om de doelstelling, vermeld in punt a), te bereiken;<br>
+<br>
+14° taken als dataregisseur. De VDAB heeft als regisseur de taak om proactief gegevens te verzamelen, analyseren en verwerken. Dat is noodzakelijk om:<br>
+a) de doelstellingen in dit artikel te bereiken;<br>
+b) de verhoging van de werkzaamheidsgraad te faciliteren of een duurzame loopbaan te realiseren van de personen op beroepsactieve leeftijd die in het Vlaamse Gewest gedomicilieerd zijn;<br>
+c) transparante en betrouwbare arbeidsmarktinformatie te verschaffen;<br>
+d) in een relevant aanbod op maat voor werkgevers en personen te kunnen voorzien.<br>
+<br>
+De Vlaamse Regering bepaalt de verschillende categorieën van de doelgroep, vermeld in het eerste lid, 12°, a).<br>
 <br>
 § 2. De Vlaamse regering kan nadere regels uitvaardigen betreffende de in artikel 5, § 1, vermelde aangelegenheden. In deze regels kunnen de taken van het agentschap verder worden gepreciseerd en/of geconcretiseerd.<br>
 <br>
