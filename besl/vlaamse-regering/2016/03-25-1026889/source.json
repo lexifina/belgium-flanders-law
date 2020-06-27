@@ -2,16 +2,16 @@
   "codex_id": 1026889,
   "title": "Besluit van de Vlaamse Regering van 2016-03-25 tot erkenning van de beroepskwalificatie schoonmaker",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026889/VolledigDocument?datum=2016-06-23",
-  "source_sha256": "9b83c6009a554aaa5d69dfd192e2f9da664c41c4bc19038295a2c6098ab7f908",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026889/VolledigDocument?datum=2020-06-27",
+  "source_sha256": "9942fe3ad0e73223bf930b441033828f5b548e03180edf2e4cb34cfc7a335917",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026889&param=informatie",
-  "as_of": "2016-06-23",
+  "as_of": "2020-06-27",
   "made": "2016-03-25",
   "gazette": "2016-06-13",
   "numac": 2016035815,
   "document_start": "2016-06-23",
   "document_end": null,
-  "in_force": "2016-06-23",
+  "in_force": "2020-06-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-27; future article versions excluded; article text as the API gives it"
 }
