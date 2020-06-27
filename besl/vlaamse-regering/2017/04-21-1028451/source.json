@@ -2,16 +2,16 @@
   "codex_id": 1028451,
   "title": "Besluit van de Vlaamse Regering van 2017-04-21 tot erkenning van de beroepskwalificatie insteller plaatbewerking",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028451/VolledigDocument?datum=2017-07-29",
-  "source_sha256": "f1a013356e08fb039fef8828703807c7335a1f13f6a69b7ea33a1a9f3e0cbd9c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028451/VolledigDocument?datum=2020-06-27",
+  "source_sha256": "2f149bf51efe2f3e19dbf1bcd1fe73d93f8c307ea92b3ca984ca41372b7f7bdf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028451&param=informatie",
-  "as_of": "2017-07-29",
+  "as_of": "2020-06-27",
   "made": "2017-04-21",
   "gazette": "2017-07-19",
   "numac": 2017012837,
   "document_start": "2017-07-29",
   "document_end": null,
-  "in_force": "2017-07-29",
+  "in_force": "2020-06-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2017-07-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-27; future article versions excluded; article text as the API gives it"
 }
