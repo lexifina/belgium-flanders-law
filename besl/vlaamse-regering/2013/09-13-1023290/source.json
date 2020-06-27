@@ -2,16 +2,16 @@
   "codex_id": 1023290,
   "title": "Besluit van de Vlaamse Regering van 2013-09-13 tot erkenning van de beroepskwalificatie reachtruckchauffeur",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023290/VolledigDocument?datum=2013-10-19",
-  "source_sha256": "eed8c47dcb0bc9b0cad238413dc5ccf568d8207bb2bf50dccd978d171b155aa5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023290/VolledigDocument?datum=2020-06-27",
+  "source_sha256": "5539a3b794057235aba713af9656cb148fe55a7e8649262029e338975f56c7a7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023290&param=informatie",
-  "as_of": "2013-10-19",
+  "as_of": "2020-06-27",
   "made": "2013-09-13",
   "gazette": "2013-10-09",
   "numac": 2013035857,
   "document_start": "2013-10-19",
   "document_end": null,
-  "in_force": "2013-10-19",
+  "in_force": "2020-06-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-10-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-27; future article versions excluded; article text as the API gives it"
 }
