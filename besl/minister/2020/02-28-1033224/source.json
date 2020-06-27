@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033224,
+  "title": "Ministerieel besluit van 2020-02-28 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 28 juni 2019 tot erkenning van de beroepskwalificatie productiemedewerker plant",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033224/VolledigDocument?datum=2020-06-27",
+  "source_sha256": "e8ac4fcf0655b5f88515b409c70464849eaf7942a4509512fbe0b9a59c6361dd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033224&param=informatie",
+  "as_of": "2020-06-27",
+  "made": "2020-02-28",
+  "gazette": "2020-06-17",
+  "numac": 2020041332,
+  "document_start": "2020-06-27",
+  "document_end": null,
+  "in_force": "2020-06-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-06-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
