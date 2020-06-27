@@ -2,16 +2,16 @@
   "codex_id": 1023802,
   "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie procesoperator kleding, confectie en meubelstoffering prototypes",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023802/VolledigDocument?datum=2014-02-20",
-  "source_sha256": "6cffd09b43ce6f085dcd7fc7a8168d6e3300ecb59ad891d4d7154c86a823fc7e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023802/VolledigDocument?datum=2020-06-27",
+  "source_sha256": "91d4f1ae870ad39f8ebe4c44496fe2aad832984382c1c7ee391db7fa21624c6c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023802&param=informatie",
-  "as_of": "2014-02-20",
+  "as_of": "2020-06-27",
   "made": "2013-11-29",
   "gazette": "2014-02-10",
   "numac": 2014035122,
   "document_start": "2014-02-20",
   "document_end": null,
-  "in_force": "2014-02-20",
+  "in_force": "2020-06-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-02-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-27; future article versions excluded; article text as the API gives it"
 }
