@@ -2,16 +2,16 @@
   "codex_id": 1032368,
   "title": "Besluit van de Vlaamse Regering van 2019-06-28 tot erkenning van de beroepskwalificatie productiemedewerker dier",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032368/VolledigDocument?datum=2019-10-28",
-  "source_sha256": "5cd845ea856c33761858a39b2adc3a6b3a65212677038de807a2a0e829101444",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032368/VolledigDocument?datum=2020-06-27",
+  "source_sha256": "3826c07280bd53a7984e283e5d98a8bd3bfabfd2f03214fcaf2300242467e754",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032368&param=informatie",
-  "as_of": "2019-10-28",
+  "as_of": "2020-06-27",
   "made": "2019-06-28",
   "gazette": "2019-10-18",
   "numac": 2019014918,
   "document_start": "2019-10-28",
   "document_end": null,
-  "in_force": "2019-10-28",
+  "in_force": "2020-06-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-10-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-27; future article versions excluded; article text as the API gives it"
 }
