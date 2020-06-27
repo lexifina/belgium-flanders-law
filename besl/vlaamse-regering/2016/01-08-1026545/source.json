@@ -2,16 +2,16 @@
   "codex_id": 1026545,
   "title": "Besluit van de Vlaamse Regering van 2016-01-08 tot erkenning van de beroepskwalificatie [operator textielproducten]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026545/VolledigDocument?datum=2016-03-26",
-  "source_sha256": "40a73dc00179b92fa19b8498f5cb3c274af30800105037160ac4fc2b90f5893c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026545/VolledigDocument?datum=2020-06-27",
+  "source_sha256": "15a8a0cc7f52049b140d8fe2f00056635f5ca773a2f7b0aeb5c25f2b3e54c947",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026545&param=informatie",
-  "as_of": "2016-03-26",
+  "as_of": "2020-06-27",
   "made": "2016-01-08",
   "gazette": "2016-03-16",
   "numac": 2016035268,
   "document_start": "2016-03-26",
   "document_end": null,
-  "in_force": "2016-03-26",
+  "in_force": "2020-06-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-27; future article versions excluded; article text as the API gives it"
 }
