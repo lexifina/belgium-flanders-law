@@ -26,4 +26,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/10/18_2.pdf#page=548">Beschrijving van de&nbsp;beroepskwalificatie van productiemedewerker plant</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/17_1.pdf#page=779">Bijlage</a>
