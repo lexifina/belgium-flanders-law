@@ -33,6 +33,7 @@ a) te beslissen over de aanvragen tot afwijking, vermeld in artikel 18, § 2, 4�
 b) de voorafgaande schriftelijke toestemming te verlenen en te beslissen over de aard van de afwijking, vermeld in artikel 24bis, tweede lid, van het voormelde besluit van 23 juli 1992;<br>
 7° beroepen over de ongeschikt- en onbewoonbaarverklaring en het sociaal beheer ontvankelijk te verklaren en de indieners van beroepen mondeling te horen;<br>
 8° beroepen over de verzegeling met toepassing van artikel 20, § 4, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode te behandelen.<br>
+9° de bevoegdheid die aan de Vlaamse minister, bevoegd voor de huisvesting, is toegekend met toepassing van artikel 26, § 2, vierde lid, van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode, uit te oefenen.<br>
 &nbsp;
 
 ### ART 3.
