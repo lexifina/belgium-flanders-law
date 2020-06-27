@@ -2,16 +2,16 @@
   "codex_id": 1029331,
   "title": "Besluit van de Vlaamse Regering van 2018-01-26 tot erkenning van de beroepskwalificatie natuurbeheerder",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029331/VolledigDocument?datum=2018-06-11",
-  "source_sha256": "e2c3fbf0b7947a1f7f108ba8ac07f1b9b2ec72939c9deb598e454fd20e913ad7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029331/VolledigDocument?datum=2020-06-27",
+  "source_sha256": "9423dc59d7d880a2ec21d735e15149ea56357c778ce330d911f79a26fb591764",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029331&param=informatie",
-  "as_of": "2018-06-11",
+  "as_of": "2020-06-27",
   "made": "2018-01-26",
   "gazette": "2018-06-01",
   "numac": 2018031064,
   "document_start": "2018-06-11",
   "document_end": null,
-  "in_force": "2018-06-11",
+  "in_force": "2020-06-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-27; future article versions excluded; article text as the API gives it"
 }
