@@ -2,16 +2,16 @@
   "codex_id": 1023822,
   "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie metselaar",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023822/VolledigDocument?datum=2014-02-23",
-  "source_sha256": "2317d6f05b687f8a4ee4886c994d1b0ff90cb1a41f5bcc7236a0b5df35d4515c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023822/VolledigDocument?datum=2020-06-27",
+  "source_sha256": "c4acc937bece9f339ce88260f2b5a2a375f6880581d6241a34f1a679e1c73a48",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023822&param=informatie",
-  "as_of": "2014-02-23",
+  "as_of": "2020-06-27",
   "made": "2013-11-29",
   "gazette": "2014-02-13",
   "numac": 2014035143,
   "document_start": "2014-02-23",
   "document_end": null,
-  "in_force": "2014-02-23",
+  "in_force": "2020-06-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-02-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-27; future article versions excluded; article text as the API gives it"
 }
