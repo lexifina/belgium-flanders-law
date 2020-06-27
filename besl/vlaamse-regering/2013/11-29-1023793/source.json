@@ -2,16 +2,16 @@
   "codex_id": 1023793,
   "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie hulpkelner",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023793/VolledigDocument?datum=2014-02-17",
-  "source_sha256": "70f62f1769f81cc6c61d104a3a33a41036656139da93648a21fda8b6a7e3dd2e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023793/VolledigDocument?datum=2020-06-27",
+  "source_sha256": "d0de31fa7e73d1ff4b9228a1637ed9b5d26dd2fd7567522876858d2d721d5089",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023793&param=informatie",
-  "as_of": "2014-02-17",
+  "as_of": "2020-06-27",
   "made": "2013-11-29",
   "gazette": "2014-02-07",
   "numac": 2014035120,
   "document_start": "2014-02-17",
   "document_end": null,
-  "in_force": "2014-02-17",
+  "in_force": "2020-06-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-02-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-27; future article versions excluded; article text as the API gives it"
 }
