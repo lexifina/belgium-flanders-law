@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033196,
+  "title": "Ministerieel besluit van 2020-02-28 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 25 maart 2016 tot erkenning van de beroepskwalificatie schoonmaker",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033196/VolledigDocument?datum=2020-06-27",
+  "source_sha256": "285bafaa9d75c7ace69f41ec6b421c8cc0d88b381c3aed0de4ddf20e21f38aab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033196&param=informatie",
+  "as_of": "2020-06-27",
+  "made": "2020-02-28",
+  "gazette": "2020-06-17",
+  "numac": 2020041378,
+  "document_start": "2020-06-27",
+  "document_end": null,
+  "in_force": "2020-06-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-06-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
