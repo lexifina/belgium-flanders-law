@@ -2,16 +2,16 @@
   "codex_id": 1023791,
   "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie hulpbarman",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023791/VolledigDocument?datum=2014-02-17",
-  "source_sha256": "3f6014db30cf5ade630607849beac3cf073db1a9a166caa5db9ff55a513c535b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023791/VolledigDocument?datum=2020-06-27",
+  "source_sha256": "1f23b77eb37a27e23f8da2aca1bb77d23597b5017f4a9c774b7e709fe36c8201",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023791&param=informatie",
-  "as_of": "2014-02-17",
+  "as_of": "2020-06-27",
   "made": "2013-11-29",
   "gazette": "2014-02-07",
   "numac": 2014035119,
   "document_start": "2014-02-17",
   "document_end": null,
-  "in_force": "2014-02-17",
+  "in_force": "2020-06-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-02-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-06-27; future article versions excluded; article text as the API gives it"
 }
