@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033242,
+  "title": "Besluit van de Vlaamse Regering van 2020-02-07 tot erkenning van de beroepskwalificatie operator voedings-, chemische en farmaceutische industrie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033242/VolledigDocument?datum=2020-06-29",
+  "source_sha256": "bef555e3c85bb1b6439b6f7423cf96323936c7f2640e3e0ebc4e0651d63ef5dc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033242&param=informatie",
+  "as_of": "2020-06-29",
+  "made": "2020-02-07",
+  "gazette": "2020-06-19",
+  "numac": 2020030623,
+  "document_start": "2020-06-29",
+  "document_end": null,
+  "in_force": "2020-06-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
