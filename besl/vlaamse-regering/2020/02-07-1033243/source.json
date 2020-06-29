@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033243,
+  "title": "Besluit van de Vlaamse Regering van 2020-02-07 tot erkenning van de beroepskwalificatie sport- en spelleider",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033243/VolledigDocument?datum=2020-06-29",
+  "source_sha256": "9cff4657347ee936f39011f4dbaef324e01ac0f1ce210e2c94b3c4de6a582210",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033243&param=informatie",
+  "as_of": "2020-06-29",
+  "made": "2020-02-07",
+  "gazette": "2020-06-19",
+  "numac": 2020030799,
+  "document_start": "2020-06-29",
+  "document_end": null,
+  "in_force": "2020-06-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
