@@ -78,7 +78,7 @@ Aan een sociaal verhuurkantoor als vermeld in artikel 56 van de Vlaamse Wooncode
 
 De kredietgever, vermeld in artikel 1, eerste lid, 6°, van het besluit van de Vlaamse Regering van 13 september 2013 houdende de voorwaarden waaronder de Vlaamse Maatschappij voor Sociaal Wonen en het Vlaams Woningfonds bijzondere sociale leningen aan particulieren kunnen toestaan, kan aan de ontlener kosteloos betalingsuitstel toestaan als de ontlener aantoont dat zijn inkomsten zijn gedaald als gevolg van de coronavirusmaatregelen of als gevolg van het ziekteverlof door het coronavirus. De ontlener krijgt dan een betalingsuitstel van maximum 6 maanden waarbij geen kapitaal of interesten worden afgelost en dit tot ten laatste 31 oktober 2020. De interesten tijdens de periode van betalingsuitstel zijn achteraf niet verschuldigd. Na de periode van betalingsuitstel wordt de looptijd van de lening verlengd met het aantal maanden van betalingsuitstel.<br>
 <br>
-In afwijking van artikel 9, eerste lid, van het voormelde besluit, kan na het toestaan van betalingsuitstel de looptijd van de lening meer dan 360 maanden bedragen, met een maximum van 366 maanden en moet de lening volledig zijn terugbetaald in het jaar waarin de jongste ontlener 76 jaar wordt.<br>
+In afwijking van artikel 9, eerste lid, van het voormelde besluit, kan na het toestaan van betalingsuitstel de looptijd van de lening meer dan 360 maanden bedragen, met een maximum van 369 maanden en moet de lening volledig zijn terugbetaald in het jaar waarin de jongste ontlener 76 jaar wordt.<br>
 <br>
 Een ontlener die al betalingsachterstand heeft opgelopen voor de start van de periode van de coronavirusmaatregelen, kan ook in aanmerking komen voor het betalingsuitstel, vermeld in het eerste lid. De nalatigheidsintresten op deze achterstand zijn gedurende de periode van betalingsuitstel niet verschuldigd.
 
@@ -167,7 +167,7 @@ Voor de toepassing van artikel 12 van het voormelde besluit gelden de volgende b
 
 Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br>
 <br>
-Artikel 2 tot en met 4, artikel 7 tot en met 20 en artikel 22, 2°, treden buiten werking op 18 juli 2020.<br>
+Artikel 2 tot en met 4, artikel 7, artikel 10 tot en met 20 en artikel 22, 2°, treden buiten werking op 18 juli 2020. Artikel 8 en 9 treden buiten werking op 31 december 2020..<br>
 <br>
 De Vlaamse minister, bevoegd voor het woonbeleid, kan de buitenwerkingtreding, vermeld in het tweede lid, naar een latere datum in 2020 verplaatsen.
 
