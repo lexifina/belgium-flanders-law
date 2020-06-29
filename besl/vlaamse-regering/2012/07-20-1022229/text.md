@@ -151,7 +151,9 @@ Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap vast
 <br>
 Bij een dreigend budgettekort kan een proratering van de subsidies, vermeld in het eerste lid, doorgevoerd worden.<br>
 <br>
-De minister kan in het begrotingsjaar 2016 een subsidie toekennen bestemd voor het aanzuiveren van het overgedragen verlies en voor het opvangen van de verliezen ingevolge het oninvorderbaar worden van huurvorderingen.
+De minister kan in het begrotingsjaar 2016 een subsidie toekennen bestemd voor het aanzuiveren van het overgedragen verlies en voor het opvangen van de verliezen ingevolge het oninvorderbaar worden van huurvorderingen.<br>
+<br>
+De minister kan in het begrotingsjaar 2020 een subsidie van ten hoogste 25.000 euro toekennen bij aanwerving van een bijkomend halftijds personeelslid dat gedurende 12 maanden zal ingezet worden om prospecties uit te voeren met het oog op nieuwe inhuurnemingen. De minister bepaalt de wijze waarop de bijkomende personeelskost verbonden aan de aanwerving door het sociaal verhuurkantoor worden aangetoond en stelt de uitbetalingsvoorwaarden vast.
 
 ### ART. 9.
 
