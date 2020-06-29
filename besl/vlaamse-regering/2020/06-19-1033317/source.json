@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033317,
+  "title": "Besluit van de Vlaamse Regering van 2020-06-19 houdende maatregelen voor de bijzondere sociale leningen, de huurwaarborgleningen, de studentenhuurcontracten en de sociale verhuurkantoren ten gevolge van de beperkende coronavirusmaatregelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033317/VolledigDocument?datum=2020-06-29",
+  "source_sha256": "1108c9ffd2ea267601feb74d0ac24abc4a0b3931f5e7ce3fcd1245fba5759cab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033317&param=informatie",
+  "as_of": "2020-06-29",
+  "made": "2020-06-19",
+  "gazette": "2020-06-29",
+  "numac": 2020041952,
+  "document_start": "2020-06-29",
+  "document_end": null,
+  "in_force": "2020-06-29",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2020-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
