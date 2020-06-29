@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033238,
+  "title": "Besluit van de Vlaamse Regering van 2020-02-07 tot erkenning van de beroepskwalificatie marokijnbewerker",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033238/VolledigDocument?datum=2020-06-29",
+  "source_sha256": "7d7b9a108474b9e8522bae2bd588657526ac46db7704539b5840d4a2d1ae5304",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033238&param=informatie",
+  "as_of": "2020-06-29",
+  "made": "2020-02-07",
+  "gazette": "2020-06-19",
+  "numac": 2020041050,
+  "document_start": "2020-06-29",
+  "document_end": null,
+  "in_force": "2020-06-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
