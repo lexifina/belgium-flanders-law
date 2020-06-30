@@ -403,7 +403,7 @@ Met toepassing van artikel 37 zijn omroeporganisaties vrij in het op enige wijze
 
 ### ART. 49.
 
-Het is toegestaan om tegen betaling aan politieke mandatarissen of kandidaat-mandatarissen en aan politieke partijen commerciële communicatie ter beschikking te stellen tijdens de sperperiode voor de verkiezingen mits naleving van de wetgeving betreffende de verkiezingsuitgaven.
+...
 
 ### ART. 50.
 
