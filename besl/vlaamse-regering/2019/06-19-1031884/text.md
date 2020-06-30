@@ -62,9 +62,9 @@ De minister kan de uiterste indieningsdatum van de erkenningsaanvraag, vermeld i
 
 ### ART 5.
 
-De verzekeraars dienen elk jaar voor 1 juli bij de bevoegde entiteit een aanvraag in tot verlenging in het daaropvolgende jaar van de erkenning, vermeld in artikel 4, tweede lid, als het standaardmodel van de verzekeringspolis en eventuele andere verzekeringsvoorwaarden ongewijzigd blijven of als de wijzigingen geen betrekking hebben op de voorwaarden, vermeld in artikel 3 van dit besluit. De verzekeraars bezorgen de bevoegde entiteit daarbij een exhaustieve lijst van alle aangebrachte wijzigingen.<br>
+De verzekeraars dienen elk jaar voor 21 juli bij de bevoegde entiteit een aanvraag in tot verlenging in het daaropvolgende jaar van de erkenning, vermeld in artikel 4, tweede lid, als het standaardmodel van de verzekeringspolis en eventuele andere verzekeringsvoorwaarden ongewijzigd blijven of als de wijzigingen geen betrekking hebben op de voorwaarden, vermeld in artikel 3 van dit besluit. De verzekeraars bezorgen de bevoegde entiteit daarbij een exhaustieve lijst van alle aangebrachte wijzigingen.<br>
 <br>
-De bevoegde entiteit beslist uiterlijk op 30 september van het jaar van de aanvraag tot verlenging van de erkenning van de brede weersverzekering of ze subsidiabel is.<br>
+De bevoegde entiteit beslist uiterlijk op 23 september van het jaar van de aanvraag tot verlenging van de erkenning van de brede weersverzekering of ze subsidiabel is.<br>
 <br>
 De minister kan de uiterste indieningsdatum van de verlengingsaanvraag, vermeld in het eerste lid, en de duur van de beslissingstermijn, vermeld in het tweede lid, wijzigen.
 
