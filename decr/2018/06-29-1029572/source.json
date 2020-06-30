@@ -2,16 +2,16 @@
   "codex_id": 1029572,
   "title": "Decreet van 2018-06-29 houdende wijziging van diverse bepalingen van het decreet van 27 maart 2009 betreffende radio-omroep en televisie",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029572/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "8128d14baee1910a6a483950864640d96eee56ca70b9fef301ec8427285bcf65",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029572/VolledigDocument?datum=2020-06-30",
+  "source_sha256": "667941e885fb9a865aec937ca3ae6445c85fb871e7377ff030d1ccd54cb93168",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029572&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2020-06-30",
   "made": "2018-06-29",
   "gazette": "2018-07-26",
   "numac": 2018040490,
   "document_start": "2018-08-05",
   "document_end": null,
-  "in_force": "2019-01-01",
-  "article_versions": 21,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-06-30",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2020-06-30; future article versions excluded; article text as the API gives it"
 }

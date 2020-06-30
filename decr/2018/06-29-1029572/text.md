@@ -42,6 +42,10 @@ In artikel 18 van hetzelfde decreet, gewijzigd bij de decreten van 13 juli 2012 
 <br>
 § 3. De Vlaamse Regering bepaalt nadere regels voor de toepassing van dit artikel.".
 
+### ART 8.
+
+Artikel 49 van hetzelfde decreet wordt opgeheven.
+
 ### ART 9.
 
 In artikel 133, § 1, van hetzelfde decreet, ingevoegd bij het decreet van 23 december 2016, wordt het vierde lid vervangen door wat volgt:<br>
