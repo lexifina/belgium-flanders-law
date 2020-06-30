@@ -114,11 +114,15 @@ Aan de voorwaarde van de twaalfde of de eenentwintigste verjaardag moet zijn vol
 
 ### ART 14/1.
 
-Tijdens de periode die loopt van 1 mei 2020 tot en met 30 juni 2020 kan een personeelslid corona-ouderschapsverlof opnemen om voor zijn kind te zorgen. Het personeelslid kan :<br>
+Tijdens de periode die loopt van 1 mei 2020 tot en met 30 september 2020 kan een personeelslid corona-ouderschapsverlof opnemen om voor zijn kind te zorgen. Het personeelslid kan :<br>
 1° ofwel zijn loopbaan gedeeltelijk onderbreken tot een halftijdse betrekking, op voorwaarde dat het personeelslid belast is met een of meer betrekkingen die samen ten minste 75% van het aantal prestatie-eenheden omvatten die vereist zijn voor een ambt met volledige prestaties;<br>
 2° ofwel zijn loopbaan gedeeltelijk onderbreken door hun prestaties te verminderen met een vijfde, op voorwaarde dat het personeelslid een ambt met volledige prestaties uitoefent.<br>
 <br>
 In afwijking van het eerste lid kunnen nieuwe aanvragen voor corona-ouderschapsverlof ingaan vanaf 11 mei 2020.<br>
+<br>
+Tijdens de periode die loopt van 1 juli 2020 tot en met 30 september 2020 kan een personeelslid voltijds corona-ouderschapsverlof opnemen om voor zijn kind te zorgen:<br>
+1° als het kind een gehandicapt kind is als bedoeld in artikel 14/2, tweede of derde lid, of,<br>
+2° als de ouder van het kind alleenwonend is. Onder alleenwonende ouder wordt verstaan, de persoon die uitsluitend samenwoont met één of meerdere kinderen die hij ten laste heeft.<br>
 <br>
 Het corona-ouderschapsverlof kan enkel worden opgenomen met akkoord van het hogeschoolbestuur.
 
