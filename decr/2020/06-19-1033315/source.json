@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033315,
+  "title": "Decreet van 2020-06-19 tot het nemen van dringende maatregelen met betrekking tot de noodfondsen voor cultuur, jeugd, sport, media en de lokale besturen, en met betrekking tot de armoedebestrijding naar aanleiding van de COVID-19-pandemie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033315/VolledigDocument?datum=2020-06-30",
+  "source_sha256": "ba6359a5ea4272bf80d26ecfd919823e1d00999d09eb1ab772f81d2232aab31b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033315&param=informatie",
+  "as_of": "2020-06-30",
+  "made": "2020-06-19",
+  "gazette": "2020-06-29",
+  "numac": 2020031056,
+  "document_start": "2020-06-30",
+  "document_end": null,
+  "in_force": "2020-06-30",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2020-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
