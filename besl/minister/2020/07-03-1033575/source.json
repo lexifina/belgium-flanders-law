@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033575,
+  "title": "Ministerieel besluit van 2020-07-03 tot wijziging van artikel 5 van het besluit van de Vlaamse Regering van 19 juni 2019 betreffende de premiesubsidie voor een brede weersverzekering in de landbouwsector",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033575/VolledigDocument?datum=2020-06-30",
+  "source_sha256": "fa73999bd8f2163faa31baf35ef15c097610c83dd2a8ada77d677fb7907b8bbc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033575&param=informatie",
+  "as_of": "2020-06-30",
+  "made": "2020-07-03",
+  "gazette": "2020-08-17",
+  "numac": 2020042592,
+  "document_start": "2020-06-30",
+  "document_end": null,
+  "in_force": "2020-06-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
