@@ -5,358 +5,279 @@
 ### ART. 1.
 
 <p>Voor de toepassing van dit besluit wordt verstaan onder:<br>
-1° groenten : planten van de volgende gewassen, bestemd voor land- of tuinbouw, met uitzondering van de sierteelt :<br>
-</p>
+1° groenten : planten van de volgende gewassen, bestemd voor land- of tuinbouw, met uitzondering van de sierteelt :</p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p>Allium cepa L.</p>
-
-			<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cepa-groep</p>
-
-			<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Aggregatum-groep</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p>Ui</p>
-
-			<p>Echalion</p>
-
-			<p>Sjalot</p>
-			</td>
+			<td>Allium cepa L.<br>
+			- Cepa Groep<br>
+			- Aggregatum Groep</td>
+			<td><br>
+			ui, echalion<br>
+			sjalot</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Allium fistulosum L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Stengelui</p>
-			</td>
+			<td>Allium fistulosum L.<br>
+			- alle rassen</td>
+			<td><br>
+			stengelui</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Allium porrum L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Prei</p>
-			</td>
+			<td>Allium porrum L.<br>
+			- alle rassen</td>
+			<td><br>
+			Prei</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Allium sativum L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Knoflook</p>
-			</td>
+			<td>Allium sativum L.<br>
+			- alle rassen</td>
+			<td><br>
+			knoflook</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Allium schoenoprasum L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Bieslook</p>
-			</td>
+			<td>Allium schoenoprasum L.<br>
+			- alle rassen</td>
+			<td><br>
+			bieslook</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Antrhiscus cerefolium (L.) Hoffm.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Kervel</p>
-			</td>
+			<td>Anthriscus cerefolium (L.) Hoffm.<br>
+			- alle rassen</td>
+			<td><br>
+			Kervel</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Apium graveolens L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Bleekselderij</p>
-
-			<p>Knolselderij</p>
-			</td>
+			<td>Apium graveolens L.<br>
+			- Bleekselderij Groep<br>
+			- Knolselderij Groep</td>
+			<td><br>
+			bleekselderij<br>
+			knolselderij</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>&nbsp;Asparagus officinalis L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Asperge</p>
-			</td>
+			<td>Asparagus officinalis L.<br>
+			- alle rassen</td>
+			<td><br>
+			asperge</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>&nbsp;Beta vilgaris L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Rode biet, inclusief Cheltenham biet</p>
-
-			<p>Snijbiet</p>
-			</td>
+			<td>Beta vulgaris L.<br>
+			- Rode Biet Groep<br>
+			- Snijbiet Groep</td>
+			<td><br>
+			rode biet, inclusief Cheltenham beet<br>
+			snijbiet</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Brassica oleracea L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Boerenkool</p>
-
-			<p>Bloemkool</p>
-
-			<p>Broccoli</p>
-
-			<p>Spruitkool</p>
-
-			<p>Savooiekool</p>
-
-			<p>Witte kool</p>
-
-			<p>Rode kool</p>
-
-			<p>Koolrabi</p>
-			</td>
+			<td>Brassica oleracea L.<br>
+			- Boerenkool Groep<br>
+			- Bloemkool Groep<br>
+			- Wittekool Groep<br>
+			- Spruitkool Groep<br>
+			- Koolrabi Groep<br>
+			- Savooiekool Groep<br>
+			- Broccoli Groep<br>
+			- Palmkool Groep<br>
+			- Tronchuda Groep</td>
+			<td><br>
+			boerenkool<br>
+			bloemkool<br>
+			rode en wittekool<br>
+			spruitkool<br>
+			koolrabi<br>
+			savooiekool<br>
+			broccoli, Calabrese- en ontkiemingstype<br>
+			palmkool<br>
+			Portugese kool</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Brassica rapa L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Chinese kool</p>
-
-			<p>Meiraap/stoppenknol</p>
-			</td>
+			<td>Brassica rapa L.<br>
+			- Chinese kool Groep<br>
+			- Knolraap Groep</td>
+			<td><br>
+			Chinese kool<br>
+			knolraap</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Capsicum annuum L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Paprika of Spaanse peper</p>
-			</td>
+			<td>Capsicum annuum L.<br>
+			- alle rassen</td>
+			<td><br>
+			paprika of Spaanse peper</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Cichorium endivia L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Krulandijvie</p>
-
-			<p>Andijvie</p>
-			</td>
+			<td>Cichorium endivia L.<br>
+			- alle rassen</td>
+			<td><br>
+			krulandijvie/andijvie</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Cichorium intybus L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Witlof</p>
-
-			<p>Bladcichorei</p>
-
-			<p>Cichorei voor de industrie</p>
-			</td>
+			<td>Cichorium intybus L.<br>
+			- Witlof Groep<br>
+			- Bladcichorei Groep<br>
+			- Industriële Cichorei Groep</td>
+			<td><br>
+			witlof<br>
+			bladcichorei<br>
+			wortelcichorei</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Citrulus lanatus (Thunb.) Matsum. et Nakai</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Watermeloen</p>
-			</td>
+			<td>Citrullus lanatus (Thunb.) Matsum. et Nakai<br>
+			- alle rassen</td>
+			<td><br>
+			watermeloen</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Cucumis melo L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Meloen</p>
-			</td>
+			<td>Cucumis melo L.<br>
+			- alle rassen</td>
+			<td><br>
+			meloen</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Cucumis sativus L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Komkommer</p>
-
-			<p>Augurk</p>
-			</td>
+			<td>Cucumis sativus L.<br>
+			- Komkommer Groep<br>
+			- Augurk Groep</td>
+			<td><br>
+			komkommer<br>
+			augurk</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Cucurbita maxima Duchesne</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Pompoen</p>
-			</td>
+			<td>Cucurbita maxima Duchesne<br>
+			- alle rassen</td>
+			<td><br>
+			pompoen</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Cucurbita pepo L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Courgette</p>
-			</td>
+			<td>Cucurbita pepo L.<br>
+			- alle rassen</td>
+			<td><br>
+			courgette, met inbegrip van rijpe pompoen en al dan niet rijpe patissons</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Cynara cardunculus L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Artisjok</p>
-
-			<p>Cardoen</p>
-			</td>
+			<td>Cynara cardunculus L.<br>
+			- Artisjok Groep<br>
+			- Kardoen Groep</td>
+			<td><br>
+			artisjok<br>
+			kardoen</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Daucus carota L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Wortel</p>
-
-			<p>Voederwortel</p>
-			</td>
+			<td>Daucus carota L.<br>
+			- alle rassen</td>
+			<td><br>
+			wortel en voederwortel</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Foeniculum&nbsp; vulgare Mill.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Knolvenkel</p>
-			</td>
+			<td>Foeniculum vulgare Mill.<br>
+			- Azoricum Groep</td>
+			<td><br>
+			knolvenkel</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Lactuca sativa L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Sla</p>
-			</td>
+			<td>Lactuca sativa L.<br>
+			- alle rassen</td>
+			<td><br>
+			sla</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Solanum lycopersicum L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Tomaat</p>
-			</td>
+			<td>Solanum lycopersicum L.<br>
+			- alle rassen</td>
+			<td><br>
+			tomaat</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Petroselinum crispum (Mill.) Nyman ex A.W. Hill</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Peterselie</p>
-			</td>
+			<td>Petroselinum crispum (Mill.) Nyman ex A.W. Hill<br>
+			- Bladpeterselie Groep<br>
+			- Wortelpeterselie Groep</td>
+			<td><br>
+			bladpeterselie<br>
+			wortelpeterselie</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Phaseolus coccineus L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Pronkboon</p>
-			</td>
+			<td>Phaseolus coccineus L.<br>
+			- alle rassen</td>
+			<td><br>
+			pronkboon</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Phaseolus vulgaris L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Stamboon</p>
-
-			<p>Stokboon</p>
-			</td>
+			<td>Phaseolus vulgaris L.<br>
+			- Stamboon Groep<br>
+			- Stokboon Groep</td>
+			<td><br>
+			stamboon<br>
+			stokboon</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Pisum sativum L. (partim)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Kreukzadige doperwt</p>
-
-			<p>Rondzadige doperwt</p>
-
-			<p>Peul</p>
-			</td>
+			<td>Pisum sativum L.<br>
+			- Rondzadige Doperwt Groep<br>
+			- Kreukzadige Doperwt Groep<br>
+			- Peul Groep</td>
+			<td><br>
+			rondzadige doperwt<br>
+			kreukzadige doperwt<br>
+			peulerwt</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Raphanus sativus L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Radijs</p>
-
-			<p>Ramenas</p>
-			</td>
+			<td>Raphanus sativus L.<br>
+			- Radijs Groep<br>
+			- Rammenas Groep</td>
+			<td><br>
+			radijs<br>
+			rammenas</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Rheum rhabarbarum L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Rabarber</p>
-			</td>
+			<td>Rheum rhabarbarum L.<br>
+			- alle rassen</td>
+			<td><br>
+			rabarber</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Scorzonera hispanica L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Schorseneer</p>
-			</td>
+			<td>Scorzonera hispanica L.<br>
+			- alle rassen</td>
+			<td><br>
+			schorseneer</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Solanum melongena L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Aubergine</p>
-			</td>
+			<td>Solanum melongena L.<br>
+			- alle rassen</td>
+			<td><br>
+			aubergine</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Spinacia oleracea L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Spinazie</p>
-			</td>
+			<td>Spinacia oleracea L.<br>
+			- alle rassen</td>
+			<td><br>
+			spinazie</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Valerianella locusta (L.) Laterr.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Veldsla</p>
-			</td>
+			<td>Valerianella locusta (L.) Laterr.<br>
+			- alle rassen</td>
+			<td><br>
+			veldsla</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Vicia faba L. (partim)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Tuinboon</p>
-			</td>
+			<td>Vicia faba L.<br>
+			- alle rassen</td>
+			<td><br>
+			tuinboon</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Zea mays L. (partim)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Suikermaïs</p>
-
-			<p>Pofmaïs</p>
-			</td>
+			<td>Zea mays L.<br>
+			- Suikermaïs Groep<br>
+			- Pofmaïs Groep</td>
+			<td><br>
+			suikermaïs<br>
+			pofmaïs</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>2° prebasiszaad: kwekerszaad van generaties die aan het basiszaad voorafgaan, dat door een tot keuring bevoegde entiteit officieel is onderzocht en goedgekeurd volgens de voor de keuring van basiszaad geldende voorschriften;<br>
+<p><br>
+Alle hybriden van de hierboven vermelde soorten en Groepen.<br>
 <br>
+2° prebasiszaad: kwekerszaad van generaties die aan het basiszaad voorafgaan, dat door een tot keuring bevoegde entiteit officieel is onderzocht en goedgekeurd volgens de voor de keuring van basiszaad geldende voorschriften;</p>
+
+<p><br>
 3° basiszaad:<br>
 <br>
 a) zaad dat is voortgebracht onder de verantwoordelijkheid van de kweker volgens de regels voor de instandhouding met betrekking tot het ras;<br>
@@ -417,11 +338,11 @@ Onder « in de handel brengen » wordt niet verstaan de handel in zaaizaad die n
 <br>
 Onder « in de handel brengen » wordt niet verstaan het leveren van zaaizaad onder bepaalde voorwaarden aan verleners van diensten voor de productie van bepaalde landbouwgrondstoffen voor industriële doeleinden, of voor vermeerdering van zaaizaad voor dat doel, voorzover de verlener van diensten geen rechten op het geleverde zaaizaad verwerft, noch op het product van de oogst. De leverancier van het zaaizaad verstrekt de certificeringsdienst een afschrift van de delen in kwestie van het contract met de dienstverlener, en daarin wordt vermeld aan welke normen en voorwaarden het verstrekte zaaizaad op dat moment voldoet.<br>
 <br>
-De voorwaarden voor de uitvoering van deze bepalingen worden vastgesteld door de minister overeenkomstig de beslissingen van de instellingen van de Europese Gemeenschap.</p>
+De voorwaarden voor de uitvoering van deze bepalingen en de aanvullingen of wijzigingen van de tabel onder het eerste lid, 1° worden vastgesteld door de minister overeenkomstig de beslissingen van de instellingen van de Europese Gemeenschap.</p>
 
 ### ART. 1/1.
 
-Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+...
 
 ### ART. 2.
 
@@ -884,7 +805,7 @@ A. Normen :<br>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; width:127.6pt">
-			<p>Beta vulgaris (Cheltenham beet)</p>
+			<p>Beta vulgaris (Rode Biet Groep)</p>
 			</td>
 			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
@@ -899,7 +820,7 @@ A. Normen :<br>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; width:127.6pt">
-			<p>Beta vulgaris (andere soorten dan Cheltenham Beet)</p>
+			<p>Beta vulgaris (andere dan de Rode Biet Groep)</p>
 			</td>
 			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
@@ -914,7 +835,7 @@ A. Normen :<br>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; width:127.6pt">
-			<p>Brassica oleracea (bloemkool)</p>
+			<p>Brassica oleracea (Bloemkool Groep)</p>
 			</td>
 			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
@@ -928,7 +849,7 @@ A. Normen :<br>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; width:127.6pt">
-			<p>Brassica oleracea (met uitzondering van bloemkool)</p>
+			<p>Brassica oleracea (andere dan de Bloemkool Groep)</p>
 			</td>
 			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
@@ -942,7 +863,7 @@ A. Normen :<br>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; width:127.6pt">
-			<p>Brassica rapa (Chinese kool)</p>
+			<p>Brassica rapa (Chinese Kool Groep)</p>
 			</td>
 			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
@@ -956,7 +877,7 @@ A. Normen :<br>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; width:127.6pt">
-			<p>Brassica rapa (meiraap/stoppelknol)</p>
+			<p>Brassica rapa (Knolraap Groep)</p>
 			</td>
 			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
@@ -984,8 +905,7 @@ A. Normen :<br>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; width:127.6pt">
-			<p>Cichorium intybus (partim)<br>
-			(witloof, bladcichorei)</p>
+			<p>Cichorium intybus (Witlof Groep, Bladcichorei Groep)</p>
 			</td>
 			<td style="background-color:transparent; width:99.25pt">
 			<p>95</p>
@@ -999,8 +919,7 @@ A. Normen :<br>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; width:127.6pt">
-			<p>Cichorium intybus (partim)<br>
-			(cichorei voor de industrie)</p>
+			<p>Cichorium intybus (Industriële Cichorei Groep (Wortelcichorei))</p>
 			</td>
 			<td style="background-color:transparent; width:99.25pt">
 			<p>97</p>
@@ -1339,6 +1258,8 @@ A. Normen :<br>
 
 <p>&nbsp;</p>
 
+<p>&nbsp;</p>
+
 <p>B. De aanwezigheid van gereguleerde niet-quarantaineorganismen op groentezaad mag, althans bij visuele inspectie, de drempelwaarden, vermeld in de volgende tabel, niet overschrijden:</p>
 
 <table border="1">
@@ -1444,7 +1365,7 @@ A. Normen :<br>
 </table>
 
 <p><br>
-Onder de voormelde gereguleerde niet-quarantaineorganismen wordt verstaan: de door de EU gereguleerde niet-quarantaineorganismen, vermeld in artikel 36 van verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/2013, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad en tot intrekking van de Richtlijnen 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad..<br>
+Onder de voormelde gereguleerde niet-quarantaineorganismen wordt verstaan: de door de EU gereguleerde niet-quarantaineorganismen, vermeld in artikel 36 van verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/2013, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad en tot intrekking van de Richtlijnen 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad.<br>
 <br>
 C. Andere normen of voorwaarden waaraan moet worden voldaan, als daarnaar wordt verwezen in de tabel onder punt A) :<br>
 <br>
@@ -1468,308 +1389,306 @@ Het maximumgewicht van een partij mag ten hoogste met 5 % worden overschreden.<b
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Soort</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>Gewicht (in g)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Allium cepa</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Allium fistulosum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>15</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Allium porrum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Allium sativum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Allium schoenoprasum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>15</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Anthriscus cerefolium</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Apium graveolens</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Asparagus officinalis</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>100</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Beta vulgaris</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>100</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Brassica oleracea</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Brassica rapa</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Capsicum annuum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>40</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
-			<p>Cichorium intybus (partim)<br>
-			(witloof, bladcichorei)</p>
+			<td style="background-color:transparent; width:144.25pt">
+			<p>Cichorium intybus (Witlof Groep, Bladcichorei Groep)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>15</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
-			<p>Cichorium intybus (partim)<br>
-			(cichorei voor de industrie)</p>
+			<td style="background-color:transparent; width:144.25pt">
+			<p>Cichorium intybus (Industriële Cichorei Groep (Wortelcichorei))</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Cichorum endivia</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>15</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Citrullus lanatus</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>250</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Cucumis melo</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>100</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Cucumis sativus</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Cucurbita maxima</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>250</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Cucurbita pepo</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>150</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Cynara cardunculus</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Daucus carota</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Foeniculum vulgare</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Lactuca sativa</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Solanum lycopersicum L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Petroselinum crispum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Phaseolus coccineus</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>1000</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Phaseolus vulgaris</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>700</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Pisum sativum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>500</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Raphanus sativus</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Rheum rhabarbarum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>135</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Scorzonera hispanica</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>30</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Solanum melongena</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Spinancia oleracea</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Valerianella locusta</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Vicia faba</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>1.000</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
+			<td style="background-color:transparent; width:144.25pt">
 			<p>Zea mays</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
+			<td style="background-color:transparent; width:78.75pt">
 			<p>1000</p>
 			</td>
 		</tr>
