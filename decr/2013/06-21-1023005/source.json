@@ -2,16 +2,16 @@
   "codex_id": 1023005,
   "title": "Decreet van 2013-06-21 betreffende de administratieve samenwerking op het gebied van belastingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023005/VolledigDocument?datum=2018-05-25",
-  "source_sha256": "4211979d84720606689033ac38ed6d321649ea885506b7e3cd390694f0676bd5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023005/VolledigDocument?datum=2020-07-01",
+  "source_sha256": "f29a24efc834ea5cb092508b458aba3848e83bcfcf08f273456994eae688cfc3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023005&param=informatie",
-  "as_of": "2018-05-25",
+  "as_of": "2020-07-01",
   "made": "2013-06-21",
   "gazette": "2013-06-26",
   "numac": 2013035544,
   "document_start": "2013-06-27",
   "document_end": null,
-  "in_force": "2018-05-25",
-  "article_versions": 40,
-  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-07-01",
+  "article_versions": 56,
+  "record_form": "consolidated version as in force on 2020-07-01; future article versions excluded; article text as the API gives it"
 }
