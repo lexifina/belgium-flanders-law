@@ -352,17 +352,33 @@ Indien het totaal van de bedragen die aan de voorzieningen wordt gestort, lager 
 
 ### ART 16/6.
 
-In april 2020 stort het agentschap aan de voorzieningen, vermeld in artikel 16/4, een bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen.<br>
+Het agentschap stort aan de voorzieningen, vermeld in artikel 16/4, met uitzondering van de voorzieningen, vermeld in artikel 16/4, eerste lid, g), voor de rechten van november en december 2019, het saldo van het bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, of vordert het bedrag dat in december 2019 te veel is ontvangen, terug.<br>
 <br>
-Het aan de voorzieningen te storten bedrag zal in maart 2020 aan het agentschap Zorg en Gezondheid worden meegedeeld door een orgaan of instelling die tot de nodige berekeningen in het licht van de beoogde functieclassificatie kunnen overgaan en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit<br>
+Het aan de voorzieningen te storten bedrag zal uiterlijk 30 juni 2020 aan het agentschap Zorg en Gezondheid worden meegedeeld door een orgaan of instelling die tot de nodige berekeningen in het licht van de beoogde functieclassificatie kunnen overgaan en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit<br>
 <br>
-Het totaal van de bedragen die aan de voorzieningen wordt gestort, mag niet hoger zijn dan 23.269.982 euro (loonkostbasis 2016).<br>
+Het totaalbedrag dat aan de voorzieningen wordt gestort, mag niet hoger zijn dan 896.046,27 euro.
+
+### ART 16/7.
+
+In 2020 stort het agentschap aan de voorzieningen, vermeld in artikel 16/4, eerste lid, g), een bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2019.<br>
 <br>
-Dit bedrag wordt enerzijds verhoogd met een factor die de stijging van de loonkost tot 2020 uitdrukt op basis van de evolutie van de index, van de anciënniteit en van het aantal VTE.<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt aan het agentschap meegedeeld door een orgaan dat of instelling die de nodige berekeningen kan uitvoeren in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
 <br>
-Dit bedrag wordt anderzijds verminderd met:<br>
-- de voorafname in het kader van de versterking van de tweede pensioenpijler;<br>
-- een bijdrage voor de koopkrachtverhoging via het complement voor leidinggevende functies in de zorg in het instellingsforfait conform artikel 473 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.
+Het totaalbedrag dat aan de voorzieningen wordt gestort, mag niet hoger zijn dan 20.000 euro.
+
+### ART 16/8.
+
+Uiterlijk tegen 31 juli 2020 stort het agentschap aan de voorzieningen, vermeld in artikel 16/4, een bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2020. Het totaal van de bedragen die aan de voorzieningen wordt gestort, mag niet hoger zijn dan 23.114.185 euro.<br>
+<br>
+In 2021 stort het agentschap aan de voorzieningen, vermeld in artikel 16/4, het saldo van het bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2020, of vordert het te veel betaalde bedrag terug.<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt aan het agentschap meegedeeld door een orgaan dat of instelling die de nodige berekeningen kan uitvoeren in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+<br>
+Het totaalbedrag dat aan de voorzieningen wordt gestort met toepassing van het eerste en het tweede lid, mag niet hoger zijn dan 23.114.185 euro.
+
+### ART 16/9.
+
+De voorziening die weigert zich aan de controle van het agentschap te onderwerpen, verliest de rechten, vermeld in dit hoofdstuk.
 
 ## [HOOFDSTUK 3/4. Financiering functieclassificatie ter uitvoering van het Vijfde Vlaams Intersectoraal akkoord van 8 juni 2018 en het Zesde Vlaams Intersectoraal akkoord van 30 maart 2021 voor de social/non-profitsectoren (ing. BVR 16 juli 2021, art.1, I: 1 juli 2021)]
 
