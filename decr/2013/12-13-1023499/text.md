@@ -1635,7 +1635,7 @@ De Vlaamse Regering bepaalt de wijze van de aanvraag van de terugbetaling, verme
 
 Op voertuigen die uitsluitend aangedreven worden door een elektrische motor of waterstof wordt geen belasting geheven.<br>
 <br>
-Dit artikel is alleen van toepassing op wegvoertuigen, de lichte vrachtauto's, de lijkwagens, en de alleenrijdende trekkers, als het andere voertuigen zijn dan de voertuigen, vermeld in artikel 2.2.4.0.1, § 6, van natuurlijke personen en andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.
+Dit artikel is niet van toepassing op de voertuigen, vermeld in artikel 2.2.4.0.1, § 6.
 
 ### ART. 2.2.6.0.7.
 
@@ -1696,7 +1696,7 @@ Overeenkomstig artikel 94 van het federale Wetboek van 23 november 1965   van de
 
 ### ART. 2.3.4.1.1.
 
-De belasting op de personenauto's, auto's voor dubbel gebruik en de   minibussen, vermeld in artikel 1.1.0.0.2, vierde lid, 1°, die worden geacht in   het verkeer te zijn gesteld in het Vlaamse Gewest, met uitzondering van de   voertuigen die worden geacht in het verkeer te zijn gesteld door   vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend   doel, met leasingactiviteiten, wordt berekend op de wijze, vermeld in artikel   2.3.4.1.2 tot en met 2.3.4.1.7, artikel 2.3.6.0.2 en   2.3.6.0.3.<BR>
+De belasting op de personenauto's, auto's voor dubbel gebruik en de minibussen, vermeld in artikel 1.1.0.0.2, vierde lid, 1°, die worden geacht in het verkeer te zijn gesteld in het Vlaamse Gewest, met uitzondering van de voertuigen die worden geacht in het verkeer te zijn gesteld door vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, wordt berekend op de wijze, vermeld in artikel 2.3.4.1.2 tot en met 2.3.4.1.7 en artikel 2.3.6.0.3.
 
 ### ART. 2.3.4.1.2.
 
@@ -1991,9 +1991,7 @@ In het eerste lid wordt verstaan onder op afstand bestuurde luchtvaartuigsysteme
 
 ### ART. 2.3.6.0.2.
 
-<p>Op voertuigen die uitsluitend aangedreven worden door een elektrische motor of waterstof wordt geen belasting geheven.<br>
-<br>
-Dit artikel is alleen van toepassing op wegvoertuigen van natuurlijke personen en andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.</p>
+<p>Op voertuigen die uitsluitend aangedreven worden door een elektrische motor of waterstof wordt geen belasting geheven.</p>
 
 ### ART. 2.3.6.0.3.
 
@@ -2047,7 +2045,7 @@ De hoogte van het tarief Tz, vermeld in artikel 2.4.4.0.1, 1°, uitgedrukt in eu
 Tz = F x (Bt + a X A + b X G + c X En + d X Et + e X Ep + f X Ex),<br>
 waarbij :<br>
 1° F = factor, die 1 is voor de wegen of wegsegmenten, vermeld in punt 3°, die limitatief opgesomd zijn in bijlage 2, en 0 voor alle andere wegen of wegsegmenten;<br>
-2° Bt = basistarief van de heffing, met waarde 11,3 eurocent;<br>
+2° Bt = basistarief van de heffing, met waarde 13 eurocent;<br>
 3° A = variatie in functie van wegtype W met een tarief dat hoger is dan nul eurocent, gedifferentieerd volgens de volgende tabel :<br>
 &nbsp;
 <table border="1">
@@ -2081,16 +2079,16 @@ De wegen of wegsegmenten die onder een van de wegtypes, vermeld in de bovenstaan
 			<td>G</td>
 		</tr>
 		<tr>
-			<td>maximaal toegestane totaalgewicht hoger dan 3,5 ton enlager dan 12 ton</td>
-			<td>- 5,0</td>
+			<td>maximaal toegestane totaalgewicht hoger dan 3,5 ton en lager dan 12 ton</td>
+			<td>-9,8</td>
 		</tr>
 		<tr>
 			<td>maximaal toegestane totaalgewicht hoger dan of gelijk aan 12 ton en niet hoger dan of gelijk aan 32 ton</td>
-			<td>0</td>
+			<td>-1,7</td>
 		</tr>
 		<tr>
 			<td>maximaal toegestane totaalgewicht hoger dan 32 ton</td>
-			<td>0,4</td>
+			<td>0,7</td>
 		</tr>
 	</tbody>
 </table>
