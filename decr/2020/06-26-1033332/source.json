@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033332,
+  "title": "Decreet van 2020-06-26 tot wijziging van het decreet van 21 juni 2013 betreffende de administratieve samenwerking op het gebied van de belastingen, wat betreft de verplichte automatische uitwisseling van inlichtingen op belastinggebied met betrekking tot meldingsplichtige grensoverschrijdende constructies",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033332/VolledigDocument?datum=2020-07-01",
+  "source_sha256": "d0e08af4f18f4a31aa38249f592c67aa07229e8d4609c3920b54b25f6cfdc73e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033332&param=informatie",
+  "as_of": "2020-07-01",
+  "made": "2020-06-26",
+  "gazette": "2020-07-03",
+  "numac": 2020042000,
+  "document_start": "2020-07-01",
+  "document_end": null,
+  "in_force": "2020-07-01",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2020-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
