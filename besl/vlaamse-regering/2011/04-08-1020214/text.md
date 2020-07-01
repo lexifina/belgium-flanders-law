@@ -6,8 +6,8 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 27 maart 2009 betreffen
 
 ### ART. 1.
 
-De erkenning als regionale televisieomroeporganisatie van de VZW Regionale Televisie Aalst- Dendermonde-Sint-Niklaas, Dagelijkse Regionale Informatie en Educatie, gevestigd te Vosmeer 16, 9200 Dendermonde, wordt verlengd van 1 juli 2011 tot en met 30 juni 2020.
+...
 
 ### ART. 2.
 
-De Vlaamse minister, bevoegd voor het Mediabeleid, is belast met de uitvoering van dit besluit.
+...
