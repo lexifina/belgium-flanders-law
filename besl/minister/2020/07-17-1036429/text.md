@@ -19,3 +19,10 @@ In artikel 1 van het ministerieel besluit van 18 juli 2019 tot vaststelling van 
 1° de inleidende zin wordt vervangen door wat volgt:<br>
 "De maximumcapaciteit van de gemeenschapsinstellingen bedraagt 308 plaatsen, die als volgt worden vastgesteld:";<br>
 2° in punt 3° wordt het getal "40" vervangen door het getal "45".
+
+### ART 2.
+
+In artikel 3 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° wordt de zinsnede "1 plaats" vervangen door de zinsnede "5 plaatsen";<br>
+2° aan punt 2° wordt de zinsnede "en 5 plaatsen voor jongens" toegevoegd;<br>
+3° in punt 4 ° wordt de zinsnede "1 plaats" vervangen door de zinsnede "10 plaatsen".
