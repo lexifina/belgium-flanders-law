@@ -440,7 +440,7 @@ De maatregel wordt jaarlijks opgevolgd en gemonitord in de gemeenschappelijke ve
 
 ### ART 22/17.
 
-Deze afdeling treedt in werking op 1 september 2018 en houdt op uitwerking te hebben op een door de Vlaamse Regering te bepalen datum.
+Deze afdeling treedt in werking op 1 september 2018 en houdt op uitwerking te hebben op 1 juli 2020.
 
 ## [Onderafdeling 2/3 Aanvangsbegeleiding (ing. decr. 15 maart 2019, art. 38, I: 1 september 2019)]
 
