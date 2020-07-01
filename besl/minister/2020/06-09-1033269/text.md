@@ -57,36 +57,36 @@ Dit besluit treedt in werking op 8 juni 2020.
 
 ### BIJLAGE 1.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/25_1.pdf#page=100">Bijlage 1</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/03_2.pdf#page=40">Bijlage 1</a>
 
 ### BIJLAGE 2.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/24_1.pdf#page=65">Protocol voor beheerders van sportinfrastructuur en openbare ruimtes</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/03_2.pdf#page=52">Bijlage 2</a>
 
 ### BIJLAGE 3.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/24_1.pdf#page=81">Protocol voor gemeenten</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/03_2.pdf#page=81">Bijlage 3</a>
 
 ### BIJLAGE 4.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/24_1.pdf#page=86">Protocol voor de fitnesscentra</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/03_2.pdf#page=86">Bijlage 4</a>
 
 ### BIJLAGE 5.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/24_1.pdf#page=102">Protocol voor sportkampen - kinderen en jongeren</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/03_2.pdf#page=104">Bijlage 5</a>
 
 ### BIJLAGE 6.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/24_1.pdf#page=126">Protocol voor sportkampen - volwassenen en senioren</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/03_2.pdf#page=133">Bijlage 6</a>
 
 ### BIJLAGE 7.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/25_1.pdf#page=113">Bijlage 7</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/03_2.pdf#page=157">Bijlage 7</a>
 
 ### BIJLAGE 8.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/25_1.pdf#page=128">Bijlage 8</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/03_2.pdf#page=174">Bijlage 8</a>
 
 ### BIJLAGE 9.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/25_1.pdf#page=152">Bijlage 9</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/03_2.pdf#page=199">Bijlage 9</a>
