@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032863,
+  "title": "Besluit van de Vlaamse Regering van 2020-03-13 tot wijziging van het besluit van de Vlaamse Regering van 16 december 2005 houdende de reglementering van de handel in en van de keuring van groentezaad en zaad van cichorei voor de industrie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032863/VolledigDocument?datum=2020-07-01",
+  "source_sha256": "702497d9bc6ab7cbbd140b32dfcd011d6044ef871114f6b7992e5ab0301ae6cd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032863&param=informatie",
+  "as_of": "2020-07-01",
+  "made": "2020-03-13",
+  "gazette": "2020-04-16",
+  "numac": 2020020726,
+  "document_start": "2020-07-01",
+  "document_end": null,
+  "in_force": "2020-07-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2020-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
