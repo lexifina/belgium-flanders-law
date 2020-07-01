@@ -210,6 +210,33 @@ In artikel 2.1.5.0.7, eerste lid, van de Vlaamse Codex Fiscaliteit van 13 decemb
 
 ## Afdeling 2. Kilometerheffing - aanpassing aan de tarieven kilometerheffing
 
+### ART 31.
+
+In artikel 2.4.4.0.2, eerste lid, van hetzelfde decreet, vervangen bij het decreet van 3 juli 2015, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 2° wordt de zinsnede "11,3 eurocent" vervangen door de zinsnede "13 eurocent";<br>
+2° in punt 4° wordt de tabel vervangen door wat volgt:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>maximaal toegestane totaalgewicht</td>
+			<td>G</td>
+		</tr>
+		<tr>
+			<td>maximaal toegestane totaalgewicht hoger dan 3,5 ton en lager dan 12 ton</td>
+			<td>- 9,8</td>
+		</tr>
+		<tr>
+			<td>maximaal toegestane totaalgewicht hoger dan of gelijk aan 12 ton en niet hoger dan of gelijk aan 32 ton</td>
+			<td>- 1,7</td>
+		</tr>
+		<tr>
+			<td>maximaal toegestane totaalgewicht hoger dan 32 ton</td>
+			<td>0,7</td>
+		</tr>
+	</tbody>
+</table>
+".
+
 ## Afdeling 3. Registratiebelasting verdere verlaging van de tarieven enige eigen woning
 
 ### ART 32.
