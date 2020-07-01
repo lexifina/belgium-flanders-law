@@ -28,6 +28,26 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## HOOFDSTUK 1. Wijzigingen in het besluit van de Vlaamse Regering van 24 maart 2020 tot bestrijding van de negatieve gevolgen van het COVID-19 virus voor de gezinnen en de organisatoren in de kinderopvang
 
+### ART 1.
+
+In artikel 3 van het besluit van de Vlaamse Regering van 24 maart 2020 tot bestrijding van de negatieve gevolgen van het COVID-19 virus voor de gezinnen en de organisatoren in de kinderopvang worden volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid wordt na het woord "kinderopvanglocatie" de zinsnede "en voor sluitingsdagen van de kinderopvanglocatie wegens vakantie" ingevoegd;<br>
+<br>
+2° in het derde lid wordt na het woord "bepaalt" de volgende zinsnede ingevoegd:<br>
+"en gelden enkel als de organisator de subsidie vermeld in artikel 4 tot en met 7 ontvangt voor die afwezigheidsdagen.".<br>
+<br>
+3° er wordt een vierde en vijfde lid ingevoegd dat luidt als volgt:<br>
+<br>
+"Per volledige kalendermaand waarin de maatregelen voor de gezinnen, vermeld in het eerste en het tweede lid, van toepassing zijn vanaf 1 juli 2020, kan de organisator in 2020, in afwijking van de bepalingen in de schriftelijke overeenkomst, een vermindering van maximaal één twaalfde toepassen op:<br>
+1° het totaal aantal gerechtvaardigde afwezigheidsdagen voor het kalenderjaar, zoals vermeld in artikel 29, 2° van het Subsidiebesluit van 22 november 2013, voor de organisator die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013;<br>
+2° het totaal aantal dagen waarop een gezin voor het kalenderjaar recht heeft om het kind afwezig te laten zijn in de opvang zonder dat het gezin ervoor moet betalen op basis van de schriftelijke overeenkomst, voor de organisator die niet voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013.<br>
+<br>
+Voor de berekening van het aantal dagen waarop een gezin recht heeft bij toepassing van de vermindering, vermeld in het vierde lid, worden volgende afrondingsregels gebruikt:<br>
+1° als het resultaat eindigt op minder dan 25 honderdsten, wordt het eindresultaat naar het geheel getal beneden afgerond;<br>
+2° als het resultaat eindigt op minstens 25 honderdsten of minder dan 75 honderdsten, wordt het eindresultaat afgerond op het geheel getal met 50 honderdsten;<br>
+3° als het resultaat eindigt op minstens 75 honderdsten, wordt het eindresultaat naar het eerstvolgend geheel getal afgerond.".
+
 ### ART 2.
 
 In artikel 4 van hetzelfde besluit wordt een tweede lid ingevoegd dat luidt als volgt:<br>
@@ -36,6 +56,26 @@ In artikel 4 van hetzelfde besluit wordt een tweede lid ingevoegd dat luidt als 
 
 ## HOOFDSTUK 2. Wijzigingen in het besluit van 1 april 2020 tot bestrijding van de negatieve gevolgen van het COVID-19 virus voor de gezinnen en de organisatoren in de buitenschoolse opvang, in de opvang van zieke kinderen en preventieve gezinsondersteuning
 
+### ART 3.
+
+In artikel 3 van het besluit van de Vlaamse Regering van 1 april 2020 tot bestrijding van de negatieve gevolgen van het COVID-19 virus voor de gezinnen en de organisatoren in de buitenschoolse opvang, in de opvang van zieke kinderen en preventieve gezinsondersteuning worden volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid wordt na het woord "opvanglocatie" de zinsnede "en voor sluitingsdagen van de opvanglocatie wegens vakantie" ingevoegd;<br>
+<br>
+2° in het vierde lid wordt na het woord "bepaalt" de volgende zinsnede ingevoegd:<br>
+"en gelden enkel als de organisator de subsidie vermeld in artikel 4 tot en met 9 ontvangt.".<br>
+<br>
+3° er wordt een vijfde en zesde lid ingevoegd dat luidt als volgt:<br>
+<br>
+"Per volledige kalendermaand waarin de maatregelen voor de gezinnen, vermeld in het eerste en het tweede lid, van toepassing zijn vanaf 1 juli 2020, kan de organisator in 2020, in afwijking van de bepalingen in de schriftelijke overeenkomst, een vermindering van maximaal één twaalfde toepassen op:<br>
+1° het totaal aantal gerechtvaardigde afwezigheidsdagen voor het kalenderjaar, zoals vermeld in artikel 29, 2° van het Subsidiebesluit van 22 november 2013, voor de organisator die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013;<br>
+2° het totaal aantal dagen waarop een gezin voor het kalenderjaar recht heeft om het kind afwezig te laten zijn in de opvang zonder dat het gezin ervoor moet betalen op basis van de schriftelijke overeenkomst, voor de organisator die niet voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013.<br>
+<br>
+Voor de berekening van het aantal dagen waarop een gezin recht heeft bij toepassing van de vermindering, vermeld in het vijfde lid, worden volgende afrondingsregels gebruikt:<br>
+1° als het resultaat eindigt op minder dan 25 honderdsten, wordt het eindresultaat naar het geheel getal beneden afgerond;<br>
+2° als het resultaat eindigt op minstens 25 honderdsten of minder dan 75 honderdsten, wordt het eindresultaat afgerond op het geheel getal met 50 honderdsten;<br>
+3° als het resultaat eindigt op minstens 75 honderdsten, wordt het eindresultaat naar het eerstvolgend geheel getal afgerond.".
+
 ### ART 4.
 
 In artikel 4 van hetzelfde besluit wordt een tweede lid ingevoegd dat luidt als volgt:<br>
@@ -43,3 +83,11 @@ In artikel 4 van hetzelfde besluit wordt een tweede lid ingevoegd dat luidt als 
 "Het agentschap kan de subsidie alleen toekennen als de organisator vanaf de eerste aanvraag van de subsidie ononderbroken aan de subsidievoorwaarden, vermeld in artikel 10 voldoet.".
 
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 5.
+
+Dit besluit treedt in werking op 1 juli 2020, met uitzondering van artikelen 2 en 4 van dit besluit die uitwerking hebben met ingang van 14 maart 2020.
+
+### ART 6.
+
+De Vlaamse minister, bevoegd voor opgroeien, is belast met de uitvoering van dit besluit.
