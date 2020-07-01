@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033747,
+  "title": "Ministerieel besluit van 2020-10-02 over een financiële compensatie voor de derving van vergoedingen voor woonkosten als gevolg van COVID-19",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033747/VolledigDocument?datum=2020-07-01",
+  "source_sha256": "14abe5e35b8cdd8083d8167f765ac0e5dff0a7d25f71f7beb54d1780f0c34881",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033747&param=informatie",
+  "as_of": "2020-07-01",
+  "made": "2020-10-02",
+  "gazette": "2020-10-16",
+  "numac": 2020015760,
+  "document_start": "2020-07-01",
+  "document_end": null,
+  "in_force": "2020-07-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
