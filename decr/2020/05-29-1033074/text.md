@@ -9,7 +9,10 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 In dit decreet wordt verstaan onder:<br>
 1° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
 2° decreet van 21 november 2003: het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br>
-3° koninklijk besluit nr. 18 van 4 mei 2020: het koninklijk besluit nr. 18 van 4 mei 2020 tot oprichting van een databank bij Sciensano in het kader van de strijd tegen de verspreiding van COVID-19.
+3° koninklijk besluit nr. 18 van 4 mei 2020: het koninklijk besluit nr. 18 van 4 mei 2020 tot oprichting van een databank bij Sciensano in het kader van de strijd tegen de verspreiding van COVID-19.<br>
+<br>
+3° [... (vernietigd bij&nbsp;<a href="https://www.const-court.be/public/n/2023/2023-026n.pdf">arrest Grondwettelijk Hof 2023/026 van 16 februari 2023</a>&nbsp;];<br>
+4° [... (vernietigd bij&nbsp;<a href="https://www.const-court.be/public/n/2023/2023-026n.pdf">arrest Grondwettelijk Hof 2023/026 van 16 februari 2023</a>&nbsp;].
 
 ### ART 3.
 
