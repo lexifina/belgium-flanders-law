@@ -989,6 +989,23 @@ Artikel 6.2.3 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Re
 2° de kennisgever kan, als hij akkoord gaat met de digitale verzending van de bijlagen bij het kennisgevingsdossier en de digitale behandeling van zijn kennisgeving, de bijlagen indienen via het webloket dat de OVAM beschikbaar stelt via haar website. Hij stuurt dan enkel het originele kennisgevingsformulier, het originele vervoersdocument en het originele attest van de bankgarantie, borgsom of gelijkwaardige verzekering met de post naar de OVAM en laadt de andere bijlagen bij het kennisgevingsformulier op in het webloket. De kennisgever voegt dan geen afschrift en geen extra exemplaar voor elk doorvoerland toe. Elke informatie-uitwisseling tussen de kennisgever en de OVAM in het kader van de behandeling van de kennisgeving gebeurt dan via het webloket;<br>
 3° de kennisgever kan, als hij akkoord gaat met de digitale indiening en behandeling van zijn dossier, gebruikmaken van het webloket dat de OVAM via haar website aanbiedt. Het kennisgevingsdocument, het transportdocument, een door de financiële instelling digitaal ondertekende bankgarantie, borgsom of gelijkwaardige verzekering en de nodige bijlagen kunnen dan via het webloket bij de OVAM worden ingediend. Elke informatie-uitwisseling tussen de kennisgever en de OVAM in het kader van de behandeling van de kennisgeving gebeurt dan via het webloket.".
 
+### ART 76.
+
+Artikel 6.2.4 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 16 november 2012, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 6.2.4. § 1. Het bedrag van de administratieve kosten, verbonden aan de uitvoering van de kennisgevings- en toezichtprocedure, vermeld in artikel 14 van het Materialendecreet, is afhankelijk van het type dossier en de gekozen indienings- en behandelingswijze. De administratieve kosten worden als volgt vastgesteld:<br>
+1° voor uitvoerdossiers die ingediend en behandeld worden volgens de methode, vermeld in artikel 6.2.3, 1°, van dit besluit, bedraagt het bedrag van de administratieve kosten 550 euro per kennisgeving;<br>
+2° voor uitvoerdossiers die ingediend en behandeld worden volgens de methode, vermeld in artikel 6.2.3, 2° en 3°, van dit besluit, bedraagt het bedrag van de administratieve kosten 400 euro per kennisgeving;<br>
+3° voor de invoerdossiers bedraagt het bedrag van de administratieve kosten 550 euro per kennisgeving.<br>
+<br>
+Er wordt voor alle dossiers een korting op het bedrag van de administratieve kosten van 200 euro toegekend als de transportmeldingen van het dossier digitaal worden aangeleverd volgens de technische specificaties die door de minister worden vastgesteld in een standaardprocedure. Als achteraf blijkt dat de transportmeldingen niet digitaal zijn verzonden, wordt het bedrag van de administratieve kosten van een volgend kennisgevingsdossier van dezelfde kennisgever vermeerderd met 200 euro.<br>
+<br>
+Het bedrag van de administratieve kosten wordt verhoogd met de openstaande administratieve kosten van voorgaande kennisgevingsdossiers van dezelfde kennisgever.<br>
+<br>
+Na de ontvangst van de betaalinformatie, inclusief de gestructureerde mededeling, wordt het bedrag, vrij van alle bankonkosten, aan de OVAM betaald volgens de specificaties opgenomen in de betaalinformatie. Bij de betaling wordt de gestructureerde mededeling vermeld die de OVAM heeft opgenomen in de betaalinformatie. Betalingen waarin die gestructureerde mededeling niet wordt vermeld, worden niet aanvaard en teruggestort.<br>
+<br>
+§ 2. De kennisgevings- en vervoersdocumenten worden gratis door de OVAM ter beschikking gesteld, als de OVAM ze kan afleveren binnen de bepalingen van de verordening. Kennisgevingsdocumenten en transportdocumenten met een uniek kennisgevingsnummer worden altijd besteld via het webloket dat de OVAM via haar website ter beschikking stelt.".
+
 ### ART 77.
 
 In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 22 december 2017, worden de artikelen 6.2.6 tot 6.2.18 toegevoegd die luiden als volgt:<br>
