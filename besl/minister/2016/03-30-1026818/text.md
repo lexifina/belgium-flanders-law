@@ -143,7 +143,8 @@ De   kleine of middelgrote onderneming bewaart, in geval van een subsidieaanvraa
 2° de personen die als zaakvoerder of actieve vennoot aangesloten zijn bij een sociaal verzekeringsfonds voor zelfstandigen;<br>
 3° de natuurlijke personen die koopman zijn of een zelfstandig vrij beroep uitoefenen;<br>
 4° de helper of helpster van een zelfstandige die aangesloten is bij een sociaal verzekeringsfonds voor zelfstandigen;<br>
-5° de meewerkende echtgenoot of echtgenote die aangesloten is bij een sociaal verzekeringsfonds voor zelfstandigen.<br>
+5° de meewerkende echtgenoot of echtgenote die aangesloten is bij een sociaal verzekeringsfonds voor zelfstandigen;<br>
+6° de natuurlijke persoon, die in de Kruispuntbank van Ondernemingen is aangesteld als vaste vertegenwoordiger van de rechtspersoon, die zaakvoerder of bestuurder is van de kleine of middelgrote onderneming.<br>
 <br>
 De werkenden in de onderneming bewaren het vormingsattest van de opleiding gedurende tien jaar na de subsidieaanvraag en overhandigen een afschrift bij een controle als vermeld in artikel 26 van het voormelde besluit</p>
 
@@ -153,8 +154,8 @@ De ondernemerschapsbevorderende diensten worden aan de kleine of middelgrote ond
 1° de kleine of middelgrote onderneming heeft rechtstreeks of onrechtstreeks stemrechten of kapitaal van de dienstverlener in handen;<br>
 2° de dienstverlener heeft rechtstreeks of onrechtstreeks stemrechten of kapitaal van de kleine of middelgrote onderneming in handen;<br>
 3° de dienstverlener en de kleine of middelgrote onderneming hebben minstens één gemeenschappelijke zaakvoerder, bestuurder, werknemer of aandeelhouder;<br>
-4° de zaakvoerders, bestuurders of aandeelhouders van de kleine of middelgrote onderneming en de dienstverlener zijn met elkaar verbonden als echtgenoten, als bloedverwanten tot en met de tweede graad of door samenwoning.<br>
-&nbsp;
+4° de zaakvoerders, bestuurders of aandeelhouders van de kleine of middelgrote onderneming en de dienstverlener zijn met elkaar verbonden als echtgenoten, als bloedverwanten tot en met de tweede graad of door samenwoning;<br>
+5° de kleine of middelgrote onderneming heeft in het jaar waarin de subsidieaanvraag conform artikel 20 van het besluit van 26 februari 2016 is ingediend en het jaar ervoor hoofdzakelijk diensten uitgevoerd als onderaannemer van de dienstverlener.
 
 ### ART. 29.
 
