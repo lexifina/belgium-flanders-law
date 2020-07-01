@@ -62,9 +62,17 @@ In artikel 2 van het decreet van 7 juli 1998 houdende bepalingen tot begeleiding
 
 ## Afdeling 2. Stopzetting omzetting niet-ingevulde vervangingen basisonderwijs
 
+### ART 24.
+
+In artikel 153duodetricies van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018, wordt de zinsnede "een door de regering te bepalen datum." vervangen door de zinsnede "1 juli 2020.".
+
 ## Afdeling 3. Zorgtijdgarantie brede types basisonderwijs
 
 ## Afdeling 4. Stopzetting omzetting niet-ingevulde vervangingen secundair onderwijs
+
+### ART 26.
+
+In artikel 22/17 van de Codex Secundair Onderwijs van 17 december 2010, ingevoegd bij het decreet van 6 juli 2018, wordt de zinsnede "een door de regering te bepalen datum." vervangen door de zinsnede "1 juli 2020.".
 
 ## Afdeling 5. Afschaffen herberekening van het aantal uren-leraar op basis van de leerlingenpopulatie van het eerste leerjaar A en B
 
@@ -117,6 +125,20 @@ In artikel 21/1, eerste lid, van het decreet van 8 mei 2009 betreffende de kwali
 
 ## Afdeling 1. Verkeersbelasting
 
+### ART 61.
+
+In artikel 2.2.6.0.6 van hetzelfde decreet, ingevoegd bij het decreet van 18 december 2015 en gewijzigd bij het decreet van 16 juni 2017, wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+"Dit artikel is niet van toepassing op de voertuigen, vermeld in artikel 2.2.4.0.1, § 6.".
+
 ## Afdeling 2. Belasting op de inverkeerstelling
+
+### ART 62.
+
+In artikel 2.3.4.1.1 van hetzelfde decreet, gewijzigd bij het decreet van 18 december 2015, wordt de zinsnede ", artikel 2.3.6.0.2 en" vervangen door de woorden "en artikel".
+
+### ART 64.
+
+Artikel 2.3.6.0.2, tweede lid, van hetzelfde decreet, vervangen bij het decreet van 21 december 2018, wordt opgeheven.
 
 ## HOOFDSTUK 9. Inwerkingtreding
