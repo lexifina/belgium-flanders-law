@@ -47,7 +47,7 @@ In dit besluit wordt verstaan onder:<br>
 8° consultaanbod: een aanbod van geijkte momenten waarop preventief medisch, psychosociaal of pedagogisch consult of begeleiding uitgevoerd wordt door een consultatiebureauarts en een verpleegkundige, die een medewerker is van het agentschap, aan aanstaande ouders en kinderen tussen nul en drie jaar of tot schoolgaande leeftijd en hun gezin;<br>
 9° consultatiebureau: de voorziening waar het preventief of prenataal consultaanbod wordt verstrekt aan aanstaande ouders en kinderen tussen nul en drie jaar of tot schoolgaande leeftijd en hun gezin;<br>
 10° consultatiebureauarts: een arts die conform artikel 65 van 12 oktober 2018, een erkenning als consultatiebureauarts heeft;<br>
-11° coronamaatregelen: de maatregelen opgenomen in de ministeriële besluiten van 13 maart 2020 en 23 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken;<br>
+11° coronamaatregelen: de maatregelen opgenomen in de ministeriële besluiten van 13 maart 2020 en 23 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken en het ministerieel besluit van 30 juni 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken;<br>
 12° decreet van 30 april 2004: het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 13° gerealiseerde zittingsuren: zittingsuren waarin het consultaanbod in werkelijkheid uitgevoerd werd;<br>
 14° gezinsopvang: de gezinsopvang, vermeld in artikel 1, 4° van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
@@ -83,7 +83,7 @@ De subsidies worden toegekend met inachtneming van het besluit 2012/21/EU van de
 
 ### ART 3.
 
-In afwijking van wat de schriftelijke overeenkomst en het huishoudelijk reglement, vermeld in artikel 25 en 27 van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014, bepaalt, en in afwijking van artikel 28 van het Subsidiebesluit van 22 november 2013, betalen de gezinnen niets voor de afwezigheidsdagen van het kind in de opvanglocatie.<br>
+In afwijking van wat de schriftelijke overeenkomst en het huishoudelijk reglement, vermeld in artikel 25 en 27 van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014, bepaalt, en in afwijking van artikel 28 van het Subsidiebesluit van 22 november 2013, betalen de gezinnen niets voor de afwezigheidsdagen van het kind in de opvanglocatie en voor sluitingsdagen van de opvanglocatie wegens vakantie.<br>
 <br>
 De afwezigheidsdagen mogen niet afgetrokken worden:<br>
 1° door de organisator die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, van het aantal gerechtvaardigde afwezigheidsdagen, zoals vermeld in artikel 29 van het Subsidiebesluit van 22 november 2013, waarop een gezin recht heeft op basis van de schriftelijke overeenkomst of het huishoudelijk reglement;<br>
@@ -91,7 +91,16 @@ De afwezigheidsdagen mogen niet afgetrokken worden:<br>
 <br>
 In afwijking van wat de schriftelijke overeenkomst en het huishoudelijk reglement, vermeld in artikel 25 en 27 van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014 en in artikel 34 en 36 van het Vergunningsbesluit van 22 november 2013, bepaalt, en in afwijking van artikel 28 van het Subsidiebesluit van 22 november 2013, betalen de gezinnen niets voor de buitenschoolse opvang op een schoolvrije dag tijdens de Paasvakantie in de periode dat de coronamaatregelen gelden.<br>
 <br>
-Het eerste en tweede lid zijn van toepassing in de periode van 14 maart 2020 tot de datum die de minister bepaalt.
+Het eerste en tweede lid zijn van toepassing in de periode van 14 maart 2020 tot de datum die de minister bepaalt en gelden enkel als de organisator de subsidie vermeld in artikel 4 tot en met 9 ontvangt.<br>
+<br>
+Per volledige kalendermaand waarin de maatregelen voor de gezinnen, vermeld in het eerste en het tweede lid, van toepassing zijn vanaf 1 juli 2020, kan de organisator in 2020, in afwijking van de bepalingen in de schriftelijke overeenkomst, een vermindering van maximaal één twaalfde toepassen op:<br>
+1° het totaal aantal gerechtvaardigde afwezigheidsdagen voor het kalenderjaar, zoals vermeld in artikel 29, 2° van het Subsidiebesluit van 22 november 2013, voor de organisator die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013;<br>
+2° het totaal aantal dagen waarop een gezin voor het kalenderjaar recht heeft om het kind afwezig te laten zijn in de opvang zonder dat het gezin ervoor moet betalen op basis van de schriftelijke overeenkomst, voor de organisator die niet voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013.<br>
+<br>
+Voor de berekening van het aantal dagen waarop een gezin recht heeft bij toepassing van de vermindering, vermeld in het vijfde lid, worden volgende afrondingsregels gebruikt:<br>
+1° als het resultaat eindigt op minder dan 25 honderdsten, wordt het eindresultaat naar het geheel getal beneden afgerond;<br>
+2° als het resultaat eindigt op minstens 25 honderdsten of minder dan 75 honderdsten, wordt het eindresultaat afgerond op het geheel getal met 50 honderdsten;<br>
+3° als het resultaat eindigt op minstens 75 honderdsten, wordt het eindresultaat naar het eerstvolgend geheel getal afgerond.
 
 ## Afdeling 2. Maatregelen voor de organisatoren en de medewerkers
 
