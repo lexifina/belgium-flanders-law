@@ -36,11 +36,19 @@ Besluit :
 
 ### ART 1.
 
-Dit besluit is van toepassing op communautaire zeelieden die door reders met een exploitatiezetel op het grondgebied van het Vlaamse Gewest worden tewerkgesteld op zeeschepen die geregistreerd zijn in een lidstaat van de Europese Economische Ruimte.<br>
+Dit besluit is van toepassing op communautaire zeelieden die door reders met een exploitatiezetel op het grondgebied van het Vlaamse Gewest of met een exploitatiezetel in een andere lidstaat van de EER worden tewerkgesteld op zeeschepen met eigen voorstuwing waarvoor een zeebrief wordt voorgelegd en die geregistreerd zijn in een lidstaat van de Europese Economische Ruimte.<br>
 <br>
 In het eerste lid wordt verstaan onder communautaire zeelieden:<br>
 1° burgers van de Europese Unie of van de Europese Economische Ruimte als het zeelieden betreft die werken aan boord van schepen, met inbegrip van roroveerboten, die geregelde passagiersdiensten tussen havens van de Europese Unie verzorgen;<br>
-2° in alle andere gevallen dan de gevallen vermeld in punt 1°, alle zeelieden die in een lidstaat van de Europese Unie belastingen en/of sociale zekerheidsbijdragen moeten betalen.
+2° burgers van de Europese Unie of van de Europese Economische Ruimte als het zeelieden betreft die werken aan boord van schepen die gespecialiseerd zijn in de volgende activiteiten:<br>
+a) kabels leggen op de voorbereide zeebodem;<br>
+b) pijpen leggen op de voorbereide zeebodem;<br>
+c) takel- en hefwerkzaamheden van infrastructuur in het kader van installatie- en onderhoudswerken op zee;<br>
+d) onderzoek van de zeebodem in het kader van installatie- en onderhoudswerken;<br>
+e) gericht storten van stenen op de zeebodem in het kader van installatie- en onderhoudswerken op zee;<br>
+f) vervoeren van onderdelen op zee in het kader van installatie- en onderhoudswerken op zee;<br>
+g) vervoeren en accommoderen van personen in het kader van installatie- en onderhoudswerken op zee;<br>
+3° in alle andere gevallen dan de gevallen, vermeld in punt 1° en 2°, alle zeelieden die in een lidstaat van de Europese Unie sociale zekerheidsbijdragen moeten betalen.
 
 ### ART 2.
 
@@ -48,9 +56,11 @@ De reders, vermeld in artikel 2, § 1, 2°, van de besluitwet van 7 februari 194
 
 ### ART 3.
 
-§ 1. De reders waarborgen minimaal zestig arbeidsplaatsen voor de zeelieden en shoregangers die ingeschreven zijn op de Poollijst van de Zeelieden ter Koopvaardij, en 256 arbeidsplaatsen voor de officieren die ingeschreven zijn op de Poollijst van de Zeelieden ter Koopvaardij.<br>
+§ 1. De reders waarborgen minimaal zestig arbeidsplaatsen voor de zeelieden en shoregangers die tewerkgesteld zijn aan boord van koopvaardijschepen en schepen die geregelde passagiersdiensten tussen havens van de Europese Unie verzorgen, met inbegrip van roroveerboten,&nbsp;die ingeschreven zijn op de Poollijst van de Zeelieden ter Koopvaardij, en 256 arbeidsplaatsen voor de officieren die tewerkgesteld zijn aan boord van koopvaardijschepen en schepen die geregelde passagiersdiensten tussen havens van de Europese Unie verzorgen, met inbegrip van roroveerboten, die ingeschreven zijn op de Poollijst van de Zeelieden ter Koopvaardij. De reders waarborgen minimaal 48 arbeidsplaatsen voor de zeelieden die tewerkgesteld zijn aan boord van zeeschepen, vermeld in artikel 1, tweede lid, 2°. Dat aantal wordt vermeerderd met 40 arbeidsplaatsen over een periode van vier jaar, die begint op 1 juli 2020.<br>
 <br>
 In het eerste lid wordt verstaan onder arbeidsplaats: een vacante plaats gedurende 365 dagen per jaar voor een varend koopvaardijpersoneelslid. Dat betekent 60 x 1,7 = 102 tewerkstellingen voor zeelieden en shoregangers, en 256 x 1,7 = 435 tewerkstellingen voor officieren.<br>
+<br>
+In het tweede lid wordt verstaan onder arbeidsplaats voor de zeelieden die tewerkgesteld zijn aan boord van zeeschepen, vermeld in artikel 1, tweede lid, 2° : een vacante plaats gedurende 365 dagen per jaar voor een varend personeelslid. Dat betekent 48 x 2,5 = 120 tewerkstellingen voor zeelieden.<br>
 <br>
 § 2. Bij de evaluatie van de naleving van de tewerkstellingsnorm, vermeld in paragraaf 1, wordt geen rekening gehouden met de varende werknemers, vermeld in artikel 2quater van de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid van de zeelieden ter koopvaardij.<br>
 <br>
@@ -58,7 +68,9 @@ In het eerste lid wordt verstaan onder arbeidsplaats: een vacante plaats geduren
 <br>
 § 4. Als de reders overmacht inroepen, kan van de naleving van de tewerkstellingsnorm, vermeld in paragraaf 1, worden afgeweken. In dat geval bevat het verslag van het paritair comité de gronden voor overmacht.<br>
 <br>
-§ 5. De Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, beschikt over een termijn van dertig kalenderdagen om zich uit te spreken over het respecteren van de tewerkstellingsnorm, vermeld in paragraaf 1, en over de eventuele gehele of gedeeltelijke invordering van de vrijgestelde bijdragen voor het afgelopen jaar in kwestie. Die termijn begint te lopen de dag nadat de voorzitter van het bevoegde paritair comité het jaarlijkse evaluatierapport heeft bezorgd, en op 30 april als de voorzitter van het bevoegde comité het jaarlijkse evaluatierapport niet of niet tijdig heeft bezorgd. Als de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, binnen die termijn geen beslissing neemt, wordt de beslissing geacht positief te zijn.
+§ 5. De Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, beschikt over een termijn van dertig kalenderdagen om zich uit te spreken over het respecteren van de tewerkstellingsnorm, vermeld in paragraaf 1, en over de eventuele gehele of gedeeltelijke invordering van de vrijgestelde bijdragen voor het afgelopen jaar in kwestie. Die termijn begint te lopen de dag nadat de voorzitter van het bevoegde paritair comité het jaarlijkse evaluatierapport heeft bezorgd, en op 30 april als de voorzitter van het bevoegde comité het jaarlijkse evaluatierapport niet of niet tijdig heeft bezorgd. Als de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, binnen die termijn geen beslissing neemt, wordt de beslissing geacht positief te zijn.<br>
+<br>
+§ 6. Na de periode van vier jaar, vermeld in paragraaf 1, eerste lid, wordt de tewerkstellingsdrempel opnieuw geëvalueerd, waarbij rekening wordt gehouden met de economische en technologische ontwikkelingen binnen de sector.
 
 ### ART 4.
 
