@@ -44,10 +44,10 @@ b)10 plaatsen voor jongens in de campus Ruiselede.
 ### ART 3.
 
 Binnen de maximumcapaciteit, vermeld in artikel 1,1° en 2° wordt respectievelijk volgende buffercapaciteit georganiseerd:<br>
-1° in de campus De Hutten: 1 plaats voor jongens<br>
-2° in de campus De Markt: 1 plaats voor meisjes;<br>
+1° in de campus De Hutten: 5 plaatsen voor jongens<br>
+2° in de campus De Markt: 1 plaats voor meisjes en 5 plaatsen voor jongens;<br>
 3° in de campus Beernem: 1 plaats voor meisjes;<br>
-4° in de campus Wingene: 1 plaats voor jongens.
+4° in de campus Wingene: 10 plaatsen voor jongens.
 
 ### ART 4.
 
