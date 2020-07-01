@@ -343,6 +343,13 @@ Artikel 8 van het Besluit van de Vlaamse Regering van 5 oktober 2018 houdende de
 
 ## HOOFDSTUK 15. Wijzigingen van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming
 
+### ART 25.
+
+In artikel 473, § 3, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, gewijzigd bij de besluiten van 7 december 2018 en 10 mei 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid, wordt de zinsnede "((A1+A2+A3+B1+B2+C+D+E1+E2+E3+F+G+H) * 0,995696 * 1,022318) + E4 + I + J + K + L + M" vervangen door de zinsnede "((A1+A2+A3+B1+B2+C+D+E1+E2+E3+F+G+H) * aanpassingscoëfficiënt * 1,022318) + E4 + I + J + K + L + M";<br>
+2 ° in het eerste lid, wordt een punt 21° toegevoegd dat luidt als volgt:<br>
+"21° aanpassingscoëfficiënt: de aanpassingscoëfficiënt bedraagt 0,99361. De minister kan deze op basis van de middelen die vrijkomen door de toepassing van artikel 663/3 en artikel 663/6 jaarlijks naar boven bijstellen en de ingangsdatum van deze bijstelling bepalen.
+
 ### ART 26.
 
 In artikel 663/3 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, gewijzigd bij de besluiten van 7 december 2018 en 10 mei 2019, wordt paragraaf 2 opgeheven.<br>

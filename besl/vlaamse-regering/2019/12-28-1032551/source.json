@@ -2,16 +2,16 @@
   "codex_id": 1032551,
   "title": "Besluit van de Vlaamse Regering van 2019-12-28 tot wijziging van de regelgeving in het beleidsdomein Welzijn, Volksgezondheid en Gezin, wat betreft de uitvoering van besparingen in het kader van het regeerakkoord 2019-2024",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032551/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "021581b73c7210abd056ec4735e8979713174ed83548eac0632875eecff3904a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032551/VolledigDocument?datum=2020-07-01",
+  "source_sha256": "996a176c31fe92ae9be6b5c4900f0778481e19ace1551ec3fa16a3850d87cf73",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032551&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2020-07-01",
   "made": "2019-12-28",
   "gazette": "2020-01-10",
   "numac": 2020010025,
   "document_start": "2020-01-01",
   "document_end": null,
-  "in_force": "2020-01-01",
-  "article_versions": 36,
-  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-07-01",
+  "article_versions": 37,
+  "record_form": "consolidated version as in force on 2020-07-01; future article versions excluded; article text as the API gives it"
 }
