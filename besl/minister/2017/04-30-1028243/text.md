@@ -97,4 +97,43 @@ de zin " De ontleding mag niet meer dan twee maanden geleden uitgevoerd zijn." w
 
 ### BIJLAGE 7
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/05/19_2.pdf#page=320">http://www.ejustice.just.fgov.be/mopdf/2017/05/19_2.pdf#page=320</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/05/19_2.pdf#page=320">http://www.ejustice.just.fgov.be/mopdf/2017/05/19_2.pdf#page=320</a><br>
+<br>
+Bij MB van 6 maart 2020, BS 16 april 2020 worden met ingang van 1 juli 2020 de volgende wijzigingen aangebracht:<br>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">In de tabel wordt de rij<br>
+"</span></span></span>
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>Brassica rapa L.</td>
+			<td>Chinese kool,</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;Meiraap, stoppelknol</td>
+		</tr>
+	</tbody>
+</table>
+"<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">vervangen door de rij<br>
+"</span></span></span>
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>Brassica rapa L.</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>(1) Chinese kool Groep</td>
+			<td>Chinese kool</td>
+		</tr>
+		<tr>
+			<td>(2) Knolraap Groep</td>
+			<td>Knolraap</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">".</span></span></span>
