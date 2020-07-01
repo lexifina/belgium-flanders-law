@@ -110,7 +110,8 @@ De volgende ministeriële besluiten worden opgeheven :<br />1° Ministerieel bes
 
 ### BIJLAGE 1
 
-<p style="margin-left:0cm; margin-right:0cm"><a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/17_1.pdf#page=69">Gereguleerde niet-quarantaineorganismen betreffende teeltmateriaal en plantgoed van groentegewassen</a></p>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/17_1.pdf#page=69">Gereguleerde niet-quarantaineorganismen betreffende teeltmateriaal en plantgoed van groentegewassen</a>
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
 
 ## Bijlage 2
 

@@ -2,16 +2,16 @@
   "codex_id": 1014797,
   "title": "Ministerieel besluit van 2000-02-19 tot vaststelling van de schema's met de voorwaarden waaraan teeltmateriaal en plantgoed van groenten, met uitzondering van zaad, moeten voldoen, van de uitvoeringsbepalingen met betrekking tot het toezicht op en de controle van leveranciers van deze materialen, van hun bedrijven en van de laboratoria, en van de erkenning van de laboratoria",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014797/VolledigDocument?datum=2020-05-31",
-  "source_sha256": "27c9f7c36a4bbdcd801109c8a5ab4e5b9ee44ce3bed9eac5ef35ae518c8ff4a5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014797/VolledigDocument?datum=2020-07-01",
+  "source_sha256": "ff3f1fd9fb2571be279a7d3e963ca6d85a89ab915d9968c14ed64cc7d529bf3a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014797&param=informatie",
-  "as_of": "2020-05-31",
+  "as_of": "2020-07-01",
   "made": "2000-02-19",
   "gazette": "2000-05-04",
   "numac": 0,
   "document_start": "2000-05-14",
   "document_end": null,
-  "in_force": "2020-05-31",
+  "in_force": "2020-07-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2020-05-31; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-01; future article versions excluded; article text as the API gives it"
 }
