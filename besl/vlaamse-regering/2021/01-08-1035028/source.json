@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035028,
+  "title": "Besluit van de Vlaamse Regering van 2021-01-08 tot uitvoering van artikel 34/1, tweede lid, [...] van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid en tot wijziging van het besluit van de Vlaamse Regering van 12 juni 2020 tot uitvoering van het decreet van 29 mei 2020 tot organisatie van de meldingsplicht en het contactonderzoek in het kader van COVID-19",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035028/VolledigDocument?datum=2020-07-01",
+  "source_sha256": "7d13c09de0f40a5d3851a96957d8869a2668c885df9778e2d2abb36a7edba245",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035028&param=informatie",
+  "as_of": "2020-07-01",
+  "made": "2021-01-08",
+  "gazette": "2021-01-11",
+  "numac": 2021020067,
+  "document_start": "2021-01-12",
+  "document_end": null,
+  "in_force": "2020-07-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2020-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
