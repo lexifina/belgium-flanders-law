@@ -22,3 +22,41 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 In artikel 4, tweede lid, van het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten worden punt 4° en punt 6° opgeheven.
+
+### ART 2.
+
+In artikel 16/6 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 7 februari 2020, worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"Het agentschap stort aan de voorzieningen, vermeld in artikel 16/4, met uitzondering van de voorzieningen, vermeld in artikel 16/4, eerste lid, g), voor de rechten van november en december 2019, het saldo van het bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, of vordert het bedrag dat in december 2019 te veel is ontvangen, terug.";<br>
+2° in het tweede lid wordt de zinsnede "in maart 2020" vervangen door de zinsnede "uiterlijk 30 juni 2020";<br>
+3° het derde lid wordt vervangen door wat volgt:<br>
+"Het totaalbedrag dat aan de voorzieningen wordt gestort, mag niet hoger zijn dan 896.046,27 euro.";<br>
+4° het vierde en het vijfde lid worden opgeheven.
+
+### ART 3.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 7 februari 2020, worden een artikel 16/7 tot en met 16/9 ingevoegd, die luiden als volgt:<br>
+<br>
+"Art. 16/7. In 2020 stort het agentschap aan de voorzieningen, vermeld in artikel 16/4, eerste lid, g), een bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2019.<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt aan het agentschap meegedeeld door een orgaan dat of instelling die de nodige berekeningen kan uitvoeren in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+<br>
+Het totaalbedrag dat aan de voorzieningen wordt gestort, mag niet hoger zijn dan 20.000 euro.<br>
+<br>
+Art. 16/8. Uiterlijk tegen 31 juli 2020 stort het agentschap aan de voorzieningen, vermeld in artikel 16/4, een bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2020. Het totaal van de bedragen die aan de voorzieningen wordt gestort, mag niet hoger zijn dan 23.114.185 euro.<br>
+<br>
+In 2021 stort het agentschap aan de voorzieningen, vermeld in artikel 16/4, het saldo van het bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2020, of vordert het te veel betaalde bedrag terug.<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt aan het agentschap meegedeeld door een orgaan dat of instelling die de nodige berekeningen kan uitvoeren in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+<br>
+Het totaalbedrag dat aan de voorzieningen wordt gestort met toepassing van het eerste en het tweede lid, mag niet hoger zijn dan 23.114.185 euro.<br>
+<br>
+Art. 16/9. De voorziening die weigert zich aan de controle van het agentschap te onderwerpen, verliest de rechten, vermeld in dit hoofdstuk.".
+
+### ART 4.
+
+Dit besluit heeft uitwerking met ingang van 1 juli 2020, met uitzondering van artikel 1, dat uitwerking heeft met ingang van 1 juli 2019.
+
+### ART 5.
+
+De Vlaamse minister, bevoegd voor het welzijn, is belast met de uitvoering van dit besluit.
