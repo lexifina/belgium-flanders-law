@@ -32,7 +32,7 @@ INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW BESLUIT:
 De coronaviruspandemie COVID-19 is een crisis met een ernstige sociale en economische impact als vermeld in de volgende reglementering:<br>
 1° het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap, art.36, § 3, derde lid;<br>
 2° het besluit van de Vlaamse Regering van 17 februari 2017 tot toekenning van aanwervingsincentives voor langdurig werkzoekenden, art. 9, § 3, derde lid;<br>
-3° het besluit van de Vlaamse Regering van 23 februari 2018 tot uitvoering van het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren, art. 2 en 7.
+3°....
 
 ### ART 2.
 

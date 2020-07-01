@@ -2,16 +2,16 @@
   "codex_id": 1033441,
   "title": "Ministerieel besluit van 2020-03-31 tot erkenning van de coronaviruspandemie ten gevolge van het COVID-19-virus als een crisis met een ernstige sociale en economische impact",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033441/VolledigDocument?datum=2020-03-27",
-  "source_sha256": "f9ef7779b3b1cd09736e061f4361e573de1abec406efe157c7dff244cd411690",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033441/VolledigDocument?datum=2020-07-01",
+  "source_sha256": "918dda188fcfe703f8227d7d344739b88546fe140994d18727f21ba150171e46",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033441&param=informatie",
-  "as_of": "2020-03-27",
+  "as_of": "2020-07-01",
   "made": "2020-03-31",
   "gazette": "2020-07-20",
   "numac": 2020042359,
   "document_start": "2020-03-27",
   "document_end": null,
-  "in_force": "2020-03-27",
+  "in_force": "2020-07-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2020-03-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-01; future article versions excluded; article text as the API gives it"
 }
