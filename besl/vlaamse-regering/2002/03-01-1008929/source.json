@@ -2,16 +2,16 @@
   "codex_id": 1008929,
   "title": "Besluit van de Vlaamse Regering van 2002-03-01 houdende hervorming van het stelsel van de aanmoedigingspremies in de privé-sector",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008929/VolledigDocument?datum=2020-04-01",
-  "source_sha256": "25c8429e7cc99a805329d80af85220e49a4dff7bc64c0280654fccb3ec7c42aa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008929/VolledigDocument?datum=2020-07-01",
+  "source_sha256": "e26aa605b328dfd1955deb4f07bc007f37ce507c7eb5d4eefadebc4929e7d8c7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008929&param=informatie",
-  "as_of": "2020-04-01",
+  "as_of": "2020-07-01",
   "made": "2002-03-01",
   "gazette": "2002-03-20",
   "numac": 2002035414,
   "document_start": "2002-01-01",
   "document_end": null,
-  "in_force": "2020-04-01",
+  "in_force": "2020-07-01",
   "article_versions": 32,
-  "record_form": "consolidated version as in force on 2020-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-01; future article versions excluded; article text as the API gives it"
 }

@@ -149,19 +149,21 @@ Het bewijs van onderneming in moeilijkheden of in herstructurering moet blijken 
 <br>
 - hetzij het attest van erkenning als onderneming in herstructurering afgeleverd door de federale Minister van Tewerkstelling en Arbeid, overeenkomstig het koninklijk besluit van 21 maart 1997 houdende uitvoering van artikel 9 van het koninklijk besluit van 24 februari 1997 houdende nadere voorwaarden met betrekking tot de tewerkstellingsakkoorden in toepassing van de artikelen 7, § 2, 30, § 2 en 33 van de wet van 26 juli 1996 tot bevordering van de werkgelegenheid en tot preventieve vrijwaring van het concurrentievermogen;<br>
 <br>
-- hetzij een plan met opgave van de substantiële daling van de economische activiteiten van de onderneming ten gevolge van de impact van de Corona-virusmaatregelen, dat werd goedgekeurd door de ondernemingsraad of bij gebrek daaraan, door de vakbondsafvaardiging of bij gebrek daaraan, door het comité voor preventie en bescherming op het werk, of bij gebrek daaraan, dat werd opgenomen in het arbeidsreglement.<br>
-In dit besluit wordt verstaan onder substantiële daling van de economische activiteiten: een daling met minimum 20% van de omzet, de productie of het aantal bestellingen in de maand waarin de arbeidsduurvermindering start, ten opzichte van dezelfde maand van het jaar voordien.<br>
+- hetzij een plan met opgave van de substantiële daling van de economische activiteiten van de onderneming ten gevolge van de impact van de coronavirusmaatregelen, dat werd goedgekeurd door de ondernemingsraad of bij gebrek daaraan, door de vakbondsafvaardiging of bij gebrek daaraan, door het comité voor preventie en bescherming op het werk, of bij gebrek daaraan, dat werd opgenomen in het arbeidsreglement.<br>
+<br>
+In dit besluit wordt verstaan onder substantiële daling van de economische activiteiten: een daling met minimum 20 % van de omzet, de productie of het aantal bestellingen in de maand waarin de arbeidsduurvermindering start, ten opzichte van dezelfde maand van het jaar voordien.<br>
+<br>
 Het plan bevat:<br>
-1° de opgave van de arbeidsherverdelingsmaatregelen en de link met het impact van de Corona-virusmaatregelen<br>
+1° de opgave van de arbeidsherverdelingsmaatregelen en de link met het impact van de coronavirusmaatregelen;<br>
 2° de opgave van het aantal arbeidsplaatsen die het voorwerp uitmaken van de maatregelen;<br>
 3° de opgave van de periode van de maatregelen;<br>
-4° de btw-aangiften van alle maanden.
+4° de btw-aangiften van alle maanden..
 
 ### ART. 15.
 
 Het recht op de aanmoedigingspremie bij verminderde arbeidsduur wordt verworven vanaf het ogenblik dat de onderneming, conform de in artikel 14 beschreven procedure, het statuut verkrijgt van onderneming in moeilijkheden of in herstructurering. Na opening van het recht kan de premie gedurende maximum 2 jaar worden toegekend.<br>
 <br>
-Als het bewijs van onderneming in moeilijkheden of in herstructureringen blijkt uit een plan, zoals vermeld in artikel 14, derde gedachtestreepje, kan de aanmoedigingspremie bij verminderde arbeidsduur slechts worden toegekend gedurende de periode van de maatregelen vermeld in het plan en uiterlijk tot 30 juni 2020 en kan de terugwerking, vermeld in artikel 21, in afwijking van het voormelde artikel op zijn vroegst op 1 april 2020 beginnen.
+Als het bewijs van onderneming in moeilijkheden of in herstructureringen blijkt uit een plan, zoals vermeld in artikel 14, derde gedachtestreepje, kan de terugwerking, vermeld in artikel 21, in afwijking van het voormelde artikel op zijn vroegst op 1 april 2020 beginnen.
 
 ### ART. 16.
 
