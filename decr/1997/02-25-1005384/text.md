@@ -3653,21 +3653,15 @@ Deze afdeling treedt in werking op 1 oktober 2018 en houdt op uitwerking te hebb
 
 ### ART 153viciessexies.
 
-Vanaf het schooljaar 2018-2019 krijgen schoolbesturen van het basisonderwijs de mogelijkheid om de betrekkingen in een wervingsambt van het bestuurs- en onderwijzend personeel die in aanmerking komen voor een reguliere vervanging zoals gedefinieerd in afdeling 3quater, artikel 153ter decies, 1°, a), om te zetten in vervangingseenheden. Deze omzetting is enkel mogelijk op voorwaarde dat geen geschikt kandidaat kan worden gevonden die de betrokken vervanging kan uitoefenen. Het schoolbestuur ondertekent hiertoe een verklaring op eer.<br>
-<br>
-Voor het bepalen van het aantal vervangingseenheden wordt de teller van de opdrachtbreuk van het afwezige personeelslid vermenigvuldigd met het aantal kalenderdagen afwezigheid van het afwezige personeelslid.<br>
-<br>
-Deze vervangingseenheden kunnen worden opgespaard en later tijdens het schooljaar worden aangewend. Voor de verrekening van de aanwending worden de vervangingseenheden gedeeld door de teller van de opdrachtbreuk van de vervanger. De wettelijke feestdagen, de weekends en de herfst-, kerst-, krokus- en paasvakantie die, geheel of gedeeltelijk, onmiddellijk aansluiten bij een periode van omzetting naar vervangingseenheden, en die een nieuwe periode van omzetting naar vervangingseenheden onmiddellijk voorafgaan, moeten eveneens worden aangerekend op de vervangingseenheden.<br>
-<br>
-De scholen onderhandelen in het bevoegde lokaal comité over de nadere modaliteiten van de aanwending.
+...
 
 ### ART 153viciessepties.
 
-De maatregel wordt jaarlijks opgevolgd en gemonitord in de gemeenschappelijke vergadering van Sectorcomité X, van onderafdeling Vlaamse Gemeenschap van afdeling 2 van het Comité voor de provinciale en plaatselijke overheidsdiensten en van het overkoepelend onderhandelingscomité met de overheid en de sociale partners, met het oog op continuering en een eventuele uitbreiding naar andere ambten en personeelscategorieën.
+...
 
 ### ART 153duodetricies.
 
-Deze afdeling treedt in werking op 1 september 2018 en houdt op uitwerking te hebben op een door de regering te bepalen datum.
+Deze afdeling treedt in werking op 1 september 2018 en houdt op uitwerking te hebben op 1 juli 2020.
 
 ## AFDELING 4 PERSONEEL TEN LASTE VAN HET WERKINGSBUDGET
 
