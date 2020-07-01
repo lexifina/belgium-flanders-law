@@ -38,7 +38,7 @@ In dit besluit wordt verstaan onder:<br>
 1° agentschap: het intern verzelfstandigd agentschap, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 2° afwezigheidsdag: de opvangdag die besteld is door het gezin in het opvangplan in de schriftelijke overeenkomst tussen de organisator en het gezin, en waarop het kind afwezig is of waarop de opvang gesloten is door overmacht, in de periode dat de coronamaatregelen gelden;<br>
 3° basissubsidie: de basissubsidie, vermeld in artikel 1, 1° van het Subsidiebesluit van 22 november 2013;<br>
-4° coronamaatregelen: de maatregelen opgenomen in het ministerieel besluit van 23 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken;<br>
+4° coronamaatregelen: de maatregelen opgenomen in het ministerieel besluit van 23 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken en het ministerieel besluit van 30 juni 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken;<br>
 5° decreet van 20 april 2012: het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
 6° gezinsopvang: de kinderopvang met vergunning voor gezinsopvang, vermeld in artikel 4, 1° van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
 7° groepsopvang: de kinderopvang met vergunning voor groepsopvang, vermeld in artikel 4, 2° van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters.<br>
@@ -56,13 +56,22 @@ De subsidies worden toegekend met inachtneming van het besluit 2012/21/EU van de
 
 ### ART 3.
 
-In afwijking van wat de schriftelijke overeenkomst, vermeld in artikel 36 van het Vergunningsbesluit van 22 november 2013, bepaalt, en in afwijking van artikel 28 van het Subsidiebesluit van 22 november 2013, betalen de gezinnen niets voor de afwezigheidsdagen van het kind in de kinderopvanglocatie.<br>
+In afwijking van wat de schriftelijke overeenkomst, vermeld in artikel 36 van het Vergunningsbesluit van 22 november 2013, bepaalt, en in afwijking van artikel 28 van het Subsidiebesluit van 22 november 2013, betalen de gezinnen niets voor de afwezigheidsdagen van het kind in de kinderopvanglocatie en voor sluitingsdagen van de kinderopvanglocatie wegens vakantie.<br>
 <br>
 De afwezigheidsdagen mogen niet afgetrokken worden:<br>
 1° door de organisator die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, van het aantal gerechtvaardigde afwezigheidsdagen, zoals vermeld in artikel 29 van het Subsidiebesluit van 22 november 2013, waarop een gezin recht heeft op basis van de schriftelijke overeenkomst of het huishoudelijk reglement;<br>
 2° door de organisator die niet voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, van het aantal dagen waarop een gezin recht heeft op basis van de schriftelijke overeenkomst of het huishoudelijk reglement om het kind afwezig te laten zijn in de opvang zonder dat het gezin ervoor moet betalen.<br>
 <br>
-Het eerste en tweede lid zijn van toepassing in de periode van 14 maart 2020 tot de datum die de minister bepaalt.
+Het eerste en tweede lid zijn van toepassing in de periode van 14 maart 2020 tot de datum die de minister bepaalt en gelden enkel als de organisator de subsidie vermeld in artikel 4 tot en met 7 ontvangt voor die afwezigheidsdagen.<br>
+<br>
+Per volledige kalendermaand waarin de maatregelen voor de gezinnen, vermeld in het eerste en het tweede lid, van toepassing zijn vanaf 1 juli 2020, kan de organisator in 2020, in afwijking van de bepalingen in de schriftelijke overeenkomst, een vermindering van maximaal één twaalfde toepassen op:<br>
+1° het totaal aantal gerechtvaardigde afwezigheidsdagen voor het kalenderjaar, zoals vermeld in artikel 29, 2° van het Subsidiebesluit van 22 november 2013, voor de organisator die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013;<br>
+2° het totaal aantal dagen waarop een gezin voor het kalenderjaar recht heeft om het kind afwezig te laten zijn in de opvang zonder dat het gezin ervoor moet betalen op basis van de schriftelijke overeenkomst, voor de organisator die niet voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013.<br>
+<br>
+Voor de berekening van het aantal dagen waarop een gezin recht heeft bij toepassing van de vermindering, vermeld in het vierde lid, worden volgende afrondingsregels gebruikt:<br>
+1° als het resultaat eindigt op minder dan 25 honderdsten, wordt het eindresultaat naar het geheel getal beneden afgerond;<br>
+2° als het resultaat eindigt op minstens 25 honderdsten of minder dan 75 honderdsten, wordt het eindresultaat afgerond op het geheel getal met 50 honderdsten;<br>
+3° als het resultaat eindigt op minstens 75 honderdsten, wordt het eindresultaat naar het eerstvolgend geheel getal afgerond.
 
 ## HOOFDSTUK 3. Maatregelen voor de organisatoren en medewerkers
 
