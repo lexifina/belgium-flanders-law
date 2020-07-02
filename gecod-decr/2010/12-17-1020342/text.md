@@ -426,17 +426,11 @@ Het pilootproject lerarenplatform wordt opgevolgd en gemonitord in de gemeenscha
 
 ### ART 22/15.
 
-Vanaf het schooljaar 2018-2019 krijgen schoolbesturen van het secundair onderwijs de mogelijkheid om de betrekkingen in een wervingsambt van het bestuurs- en onderwijzend personeel die in aanmerking komen voor een reguliere vervanging zoals gedefinieerd in onderafdeling 2/1, artikel 22/2, 1°, a), om te zetten in vervangingseenheden. Deze omzetting is enkel mogelijk op voorwaarde dat geen geschikt kandidaat kan worden gevonden die de betrokken vervanging kan uitoefenen. Het schoolbestuur ondertekent hiertoe een verklaring op eer.<br>
-<br>
-Voor het bepalen van het aantal vervangingseenheden wordt de teller van de opdrachtbreuk van het afwezige personeelslid vermenigvuldigd met de kalenderdagen afwezigheid van het afwezige personeelslid.<br>
-<br>
-Deze vervangingseenheden kunnen worden opgespaard en later tijdens het schooljaar worden aangewend. Voor de verrekening van de aanwending worden de vervangingseenheden gedeeld door de teller van de opdrachtbreuk van de vervanger. De wettelijke feestdagen, de weekends en de herfst-, kerst-, krokus- en paasvakantie die, geheel of gedeeltelijk, onmiddellijk aansluiten bij een periode van omzetting naar vervangingseenheden, en die een nieuwe periode van omzetting naar vervangingseenheden onmiddellijk voorafgaan, moeten eveneens worden aangerekend op de vervangingseenheden.<br>
-<br>
-De scholen onderhandelen in het bevoegde lokaal comité over de nadere modaliteiten van de aanwending.
+...
 
 ### ART 22/16.
 
-De maatregel wordt jaarlijks opgevolgd en gemonitord in de gemeenschappelijke vergadering van Sectorcomité X, van onderafdeling Vlaamse Gemeenschap van afdeling 2 van het Comité voor de provinciale en plaatselijke overheidsdiensten en van het overkoepelend onderhandelingscomité met de overheid en de sociale partners, met het oog op continuering en een eventuele uitbreiding naar andere ambten en personeelscategorieën.
+...
 
 ### ART 22/17.
 
