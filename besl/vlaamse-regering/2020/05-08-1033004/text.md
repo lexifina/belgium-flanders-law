@@ -31,14 +31,12 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Aan hoofdstuk Vbis van het koninklijk besluit van 16 mei 2003 tot uitvoering van het Hoofdstuk 7 van Titel IV van de programmawet van 24 december 2002 (I), betreffende de harmonisering en vereenvoudiging van de regelingen inzake verminderingen van de sociale zekerheidsbijdragen, het laatst gewijzigd bij het besluit van de Brusselse Hoofdstedelijke Regering van 7 juni 2018, wordt een artikel 20/5 toegevoegd, dat luidt als volgt:<br>
-<br>
-"Art. 20/5. De termijnen die overeenkomstig artikel 20/3, § 2, eerste lid, 6°, en tweede lid, en artikel 20/4, tweede lid, op 31 maart 2020 eindigen, worden wegens de coronacrisis verlengd tot en met 30 juni 2020.".
+...
 
 ### ART 2.
 
-Dit besluit heeft uitwerking met ingang van 1 maart 2020 en treedt buiten werking op 1 juli 2020.
+...
 
 ### ART 3.
 
-De Vlaamse minister, bevoegd voor werk, is belast met de uitvoering van dit besluit.
+...
