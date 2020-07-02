@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033250,
+  "title": "Besluit van de Vlaamse Regering van 2020-05-08 tot erkenning van de beroepskwalificatie opticien",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033250/VolledigDocument?datum=2020-07-02",
+  "source_sha256": "6b224fcb20cdac3e310d22fb09d72fb1c5a73b7e2e80b6da501d035dfa0a19f6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033250&param=informatie",
+  "as_of": "2020-07-02",
+  "made": "2020-05-08",
+  "gazette": "2020-06-22",
+  "numac": 2020041715,
+  "document_start": "2020-07-02",
+  "document_end": null,
+  "in_force": "2020-07-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-07-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
