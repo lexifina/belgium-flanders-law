@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033257,
+  "title": "Besluit van de Vlaamse Regering van 2020-02-07 tot erkenning van de beroepskwalificatie crossmedia assistent in interactieve producties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033257/VolledigDocument?datum=2020-07-03",
+  "source_sha256": "d762ac23716c10a165fb2174a1c7631e45d65e589babc9f3f3424e9e5c754936",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033257&param=informatie",
+  "as_of": "2020-07-03",
+  "made": "2020-02-07",
+  "gazette": "2020-06-23",
+  "numac": 2020030460,
+  "document_start": "2020-07-03",
+  "document_end": null,
+  "in_force": "2020-07-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-07-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
