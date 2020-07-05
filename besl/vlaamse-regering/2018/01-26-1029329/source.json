@@ -2,16 +2,16 @@
   "codex_id": 1029329,
   "title": "Besluit van de Vlaamse Regering van 2018-01-26 tot erkenning van de beroepskwalificatie medewerker fastfood",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029329/VolledigDocument?datum=2018-06-11",
-  "source_sha256": "e4a9278418404539b6118d74321371499142b898163a2307f0d24e82ca5a694e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029329/VolledigDocument?datum=2020-07-05",
+  "source_sha256": "4991a1f8ca0cf08d573be93beeb1f1bef2fb5ba549e1b65a49ee45334c247b47",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029329&param=informatie",
-  "as_of": "2018-06-11",
+  "as_of": "2020-07-05",
   "made": "2018-01-26",
   "gazette": "2018-06-01",
   "numac": 2018031065,
   "document_start": "2018-06-11",
   "document_end": null,
-  "in_force": "2018-06-11",
+  "in_force": "2020-07-05",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-05; future article versions excluded; article text as the API gives it"
 }
