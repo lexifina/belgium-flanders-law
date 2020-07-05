@@ -2,16 +2,16 @@
   "codex_id": 1027517,
   "title": "Besluit van de Vlaamse Regering van 2016-07-08 tot erkenning van de beroepskwalificatie siersmid/kunstsmid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027517/VolledigDocument?datum=2016-10-31",
-  "source_sha256": "39d30e6fc86c66539f50fc5985ef02f7c22639bdefeb00c90742c4fd05eeb13a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027517/VolledigDocument?datum=2020-07-05",
+  "source_sha256": "4a9545274854a342db4efd42bad76d043e5c85408e0fd35a8b5abbb56ac13905",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027517&param=informatie",
-  "as_of": "2016-10-31",
+  "as_of": "2020-07-05",
   "made": "2016-07-08",
   "gazette": "2016-10-21",
   "numac": 2016036423,
   "document_start": "2016-10-31",
   "document_end": null,
-  "in_force": "2016-10-31",
+  "in_force": "2020-07-05",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-05; future article versions excluded; article text as the API gives it"
 }
