@@ -2,16 +2,16 @@
   "codex_id": 1023312,
   "title": "Besluit van de Vlaamse Regering van 2013-09-13 tot erkenning van de beroepskwalificatie uitbener-uitsnijder",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023312/VolledigDocument?datum=2013-10-26",
-  "source_sha256": "4dc2edcfa37670645f967c4bc597fe38af0350d5b44a7b83736601b743ea744d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023312/VolledigDocument?datum=2020-07-05",
+  "source_sha256": "c0171ca79b33ae5d2f1bdd35f520cf413e80c7aec119eb50c9a2b049c32948bd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023312&param=informatie",
-  "as_of": "2013-10-26",
+  "as_of": "2020-07-05",
   "made": "2013-09-13",
   "gazette": "2013-10-16",
   "numac": 2013035872,
   "document_start": "2013-10-26",
   "document_end": null,
-  "in_force": "2013-10-26",
+  "in_force": "2020-07-05",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-10-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-05; future article versions excluded; article text as the API gives it"
 }
