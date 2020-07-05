@@ -2,16 +2,16 @@
   "codex_id": 1032362,
   "title": "Besluit van de Vlaamse Regering van 2019-06-28 tot erkenning van de beroepskwalificatie bouwer van historische klavierinstrumenten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032362/VolledigDocument?datum=2020-06-15",
-  "source_sha256": "5b3609e7004d1f0a3984ca5eff3eb998caebd3e1e7edccdd99fa6e4f6cf5955c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032362/VolledigDocument?datum=2020-07-05",
+  "source_sha256": "ec9ad3a98ac6c50a72e1e5c73398b0188903ae20c2866f17252ccd82b12c2587",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032362&param=informatie",
-  "as_of": "2020-06-15",
+  "as_of": "2020-07-05",
   "made": "2019-06-28",
   "gazette": "2019-10-18",
   "numac": 2019014915,
   "document_start": "2019-10-28",
   "document_end": null,
-  "in_force": "2020-06-15",
+  "in_force": "2020-07-05",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2020-06-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-05; future article versions excluded; article text as the API gives it"
 }
