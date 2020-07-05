@@ -2,16 +2,16 @@
   "codex_id": 1029354,
   "title": "Besluit van de Vlaamse Regering van 2018-01-26 tot erkenning van de beroepskwalificatie regeltechnicus klimatisatie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029354/VolledigDocument?datum=2018-06-11",
-  "source_sha256": "41ffefd2567838a5ca0f7778c7bd9a98996b073eacc1c88a262e6d1e3c9adaf2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029354/VolledigDocument?datum=2020-07-05",
+  "source_sha256": "711bad125e4cf804a509c909324b339632da83c58143672cebac2463aaad24f0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029354&param=informatie",
-  "as_of": "2018-06-11",
+  "as_of": "2020-07-05",
   "made": "2018-01-26",
   "gazette": "2018-06-01",
   "numac": 2018031042,
   "document_start": "2018-06-11",
   "document_end": null,
-  "in_force": "2018-06-11",
+  "in_force": "2020-07-05",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-05; future article versions excluded; article text as the API gives it"
 }
