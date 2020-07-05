@@ -2,16 +2,16 @@
   "codex_id": 1024051,
   "title": "Besluit van de Vlaamse Regering van 2014-01-31 tot erkenning van de beroepskwalificatie magazijnier",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024051/VolledigDocument?datum=2014-05-09",
-  "source_sha256": "70719579b51317c0902190c74cf070c9a0b8b7880c5c79d9c1c8d1205423da6a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024051/VolledigDocument?datum=2020-07-05",
+  "source_sha256": "f6e72a8081ba6644286f7e6e260c4af326cafb29680c16567979c90ab6267d0a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024051&param=informatie",
-  "as_of": "2014-05-09",
+  "as_of": "2020-07-05",
   "made": "2014-01-31",
   "gazette": "2014-04-29",
   "numac": 2014035320,
   "document_start": "2014-05-09",
   "document_end": null,
-  "in_force": "2014-05-09",
+  "in_force": "2020-07-05",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-05-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-05; future article versions excluded; article text as the API gives it"
 }
