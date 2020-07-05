@@ -2,16 +2,16 @@
   "codex_id": 1023820,
   "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie medewerker productielijn kleding, confectie en meubelstoffering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023820/VolledigDocument?datum=2014-02-23",
-  "source_sha256": "21284a1c7357ca30371042a204b0b7744683b6b8102e33fe521b956c01df329f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023820/VolledigDocument?datum=2020-07-05",
+  "source_sha256": "252a1dd1401f96cc6c7a8d7118bd346f365be23a6a8ece31dfa6ac4d37fcc022",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023820&param=informatie",
-  "as_of": "2014-02-23",
+  "as_of": "2020-07-05",
   "made": "2013-11-29",
   "gazette": "2014-02-13",
   "numac": 2014035137,
   "document_start": "2014-02-23",
   "document_end": null,
-  "in_force": "2014-02-23",
+  "in_force": "2020-07-05",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-02-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-05; future article versions excluded; article text as the API gives it"
 }
