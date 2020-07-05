@@ -2,16 +2,16 @@
   "codex_id": 1028978,
   "title": "Ministerieel besluit van 2017-12-14 betreffende de toekenning van een subsidie aan organisaties met geregulariseerde gesco-projecten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028978/VolledigDocument?datum=2018-02-15",
-  "source_sha256": "cda4bee9fdb29775a90ee30ed8681953ea11695d6092d90b2e69564818721a88",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028978/VolledigDocument?datum=2020-07-05",
+  "source_sha256": "ca93ef595e9ddb5a4bd825c217beebdda91c7635d28b5e3a078ede1ddd9580f2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028978&param=informatie",
-  "as_of": "2018-02-15",
+  "as_of": "2020-07-05",
   "made": "2017-12-14",
   "gazette": "2018-02-05",
   "numac": 2018010198,
   "document_start": "2018-02-15",
   "document_end": null,
-  "in_force": "2018-02-15",
+  "in_force": "2020-07-05",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2018-02-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-05; future article versions excluded; article text as the API gives it"
 }

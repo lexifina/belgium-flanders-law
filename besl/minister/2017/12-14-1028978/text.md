@@ -22,85 +22,85 @@ Aan de hierna vermelde begunstigden kan een subsidie toegekend worden die niet h
 		<tr>
 			<td>KBO nr.</td>
 			<td>Werkgever</td>
-			<td>Subsidie<sub>max</sub></td>
-			<td>VTE<sub>max</sub></td>
+			<td>Subsidie max</td>
+			<td>VTE max</td>
 		</tr>
 		<tr>
 			<td>432220320</td>
 			<td>De Poort vzw, voor wonen en werk</td>
-			<td>123.253,22</td>
-			<td>4</td>
+			<td>117.827,61</td>
+			<td>4,00</td>
 		</tr>
 		<tr>
 			<td>415128623</td>
 			<td>Huurdersbond Oost-Vlaanderen vzw</td>
-			<td>85.746,78</td>
-			<td>3</td>
+			<td>81.972,21</td>
+			<td>3,00</td>
 		</tr>
 		<tr>
 			<td>405007464</td>
-			<td>Bouwmaatschappij van Temse cvba</td>
-			<td>8.202,75</td>
-			<td>0,5</td>
+			<td>WoonAnker Waas</td>
+			<td>7.841,67</td>
+			<td>0,50</td>
 		</tr>
 		<tr>
 			<td>400032156</td>
 			<td>WoninGent cvba</td>
-			<td>115.366,33</td>
-			<td>10</td>
+			<td>110.287,91</td>
+			<td>10,00</td>
 		</tr>
 		<tr>
 			<td>400629794</td>
 			<td>Elk zijn Huis cvba</td>
-			<td>38.952,03</td>
-			<td>3</td>
+			<td>37.237,36</td>
+			<td>3,00</td>
 		</tr>
 		<tr>
 			<td>400979489</td>
-			<td>Gewestelijke Sociale Bouwmaat-schappij Woonzo cvba</td>
-			<td>35.601,47</td>
-			<td>2,8</td>
+			<td>Gewestelijke Sociale Bouwmaatschappij Woonzo cvba</td>
+			<td>34.034,29</td>
+			<td>2,80</td>
 		</tr>
 		<tr>
 			<td>401314140</td>
 			<td>Kempisch Tehuis cvba</td>
-			<td>5.999,29</td>
+			<td>5.735,20</td>
 			<td>0,44</td>
 		</tr>
 		<tr>
 			<td>401033236</td>
 			<td>Meetjeslandse Bouwmaatschappij voor Volkswoningen cvba</td>
-			<td>17.531,15</td>
-			<td>3</td>
+			<td>16.759,43</td>
+			<td>3,00</td>
 		</tr>
 		<tr>
 			<td>400335826</td>
 			<td>Volkswelzijn bv cvba</td>
-			<td>5.962,05</td>
+			<td>5.699,60</td>
 			<td>0.52</td>
 		</tr>
 		<tr>
 			<td>405031913</td>
 			<td>Waasse Landmaatschappij cvba</td>
-			<td>17.562,55</td>
-			<td>1</td>
+			<td>16.789,44</td>
+			<td>1,00</td>
 		</tr>
 		<tr>
-			<td>405336175</td>
-			<td>Zuid-West-Vlaamse Sociale Huisvestingsmaatschappij cbva</td>
-			<td>16.004,97</td>
-			<td>1</td>
+			<td>405342610</td>
+			<td>CBVA Wonen Regio Kortrijk</td>
+			<td>15.300,43</td>
+			<td>1,00</td>
 		</tr>
 		<tr>
 			<td>236506487</td>
 			<td>Vlaamse Maatschappij voor Sociaal Wonen</td>
-			<td>5.817,41</td>
-			<td>1,5</td>
+			<td>5.561,33</td>
+			<td>1,50</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>476.000,00</td>
+			<td>455.046,47</td>
 			<td>&nbsp;</td>
 		</tr>
 	</tbody>
@@ -130,7 +130,9 @@ VTE<sub>max</sub>&nbsp;= Maximum aantal VTE, als vermeld in de vierde kolom van 
 
 ### ART 6.
 
-De subsidie, vermeld in artikel 5, wordt geïndexeerd volgens de in de begrotingsinstructies opgenomen indexatieparameters voor loon en werking.
+De subsidie voor begrotingsjaar i, vermeld in artikel 5, wordt jaarlijks op 1 juni aangepast aan de evolutie van de gezondheidsindex (basis 2003) naar het gezondheidsindexcijfer van de maand mei die voorafgaat, met als basis het gezondheidsindexcijfer van 108,89 voor mei 2019. Het cijfer wordt afgerond tot op twee cijfers na de komma.<br>
+<br>
+Het eerste lid is niet van toepassing als in de begrotingsinstructies andere indexatieparameters zijn opgenomen voor loon en werking.
 
 ### ART 7.
 
