@@ -2,16 +2,16 @@
   "codex_id": 1023975,
   "title": "Besluit van de Vlaamse Regering van 2014-01-31 tot erkenning van de beroepskwalificatie taxidermist",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023975/VolledigDocument?datum=2014-04-14",
-  "source_sha256": "bfb5eebff35f435b3cbc50c4926496c36bba4c0826d7fad2418a967562a68716",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023975/VolledigDocument?datum=2020-07-05",
+  "source_sha256": "a3c37b428d060684e18f7a4359b3afc2d77b704dde00c94a4cc5ef38eff32133",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023975&param=informatie",
-  "as_of": "2014-04-14",
+  "as_of": "2020-07-05",
   "made": "2014-01-31",
   "gazette": "2014-04-04",
   "numac": 2014035352,
   "document_start": "2014-04-14",
   "document_end": null,
-  "in_force": "2014-04-14",
+  "in_force": "2020-07-05",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-04-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-05; future article versions excluded; article text as the API gives it"
 }
