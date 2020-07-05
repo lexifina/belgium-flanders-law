@@ -2,16 +2,16 @@
   "codex_id": 1023072,
   "title": "Besluit van de Vlaamse Regering van 2013-05-03 tot erkenning van de beroepskwalificatie medewerker bakkerij",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023072/VolledigDocument?datum=2013-07-22",
-  "source_sha256": "8a0cceb45629b55a1f90b592e6d36b823fe80386b70322d3b6a00b972dd2a0d3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023072/VolledigDocument?datum=2020-07-05",
+  "source_sha256": "c7c4bcdcef0b90245fdc3d1141525c7e7d843cfd357a8a95e92521524247e4d2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023072&param=informatie",
-  "as_of": "2013-07-22",
+  "as_of": "2020-07-05",
   "made": "2013-05-03",
   "gazette": "2013-07-12",
   "numac": 2013203928,
   "document_start": "2013-07-22",
   "document_end": null,
-  "in_force": "2013-07-22",
+  "in_force": "2020-07-05",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-05; future article versions excluded; article text as the API gives it"
 }
