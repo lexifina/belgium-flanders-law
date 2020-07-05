@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033296,
+  "title": "Ministerieel besluit van 2020-02-28 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 21 april 2017 tot erkenning van de beroepskwalificatie matroos binnenscheepvaart",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033296/VolledigDocument?datum=2020-07-05",
+  "source_sha256": "e8ac7e0a5b67f099818377d94ad698837c5a693876522e2aea6583d0f58cf8ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033296&param=informatie",
+  "as_of": "2020-07-05",
+  "made": "2020-02-28",
+  "gazette": "2020-06-25",
+  "numac": 2020021087,
+  "document_start": "2020-07-05",
+  "document_end": null,
+  "in_force": "2020-07-05",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-07-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
