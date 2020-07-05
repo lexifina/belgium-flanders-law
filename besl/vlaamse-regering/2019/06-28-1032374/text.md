@@ -18,7 +18,7 @@ Besluit :
 
 ### ART 1.
 
-De beroepskwalificatie van uurwerk-/klokkenmaker, ingeschaald op niveau 4 van de Vlaamse kwalificatiestructuur, waarvan de beschrijving is opgenomen in de bijlage die bij dit besluit is gevoegd, wordt erkend.
+De beroepskwalificatie van uurwerkhersteller, ingeschaald op niveau 4 van de Vlaamse kwalificatiestructuur, waarvan de beschrijving is opgenomen in de bijlage die bij dit besluit is gevoegd, wordt erkend.
 
 ### ART 2.
 
@@ -26,4 +26,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/10/18_2.pdf#page=674">Beschrijving van de&nbsp;beroepskwalificatie van uurwerk-/klokkenmaker</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/25_1.pdf#page=510">Bijlage</a>
