@@ -14,4 +14,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister   bevoeg
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/03/31_1.pdf#page=124">Bijlage. Beschrijving van de beroepskwalificatie van schrijnwerker houtbouw</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/06/25_1.pdf#page=232">Bijlage</a>
