@@ -27,7 +27,7 @@ In dit decreet wordt verstaan onder:<br>
 16° positief project: de deelname aan een activiteit, een programma of een opleiding of het uitvoeren van een taak of een project. De minderjarige verdachte of delictpleger neemt zelf initiatief voor de invulling van het positief project en wordt bij de uitvoering ervan begeleid door een erkende dienst. Het positief project is gericht op het herstel van de gevolgen van het gedrag of het jeugddelict en/of de veroorzaakte schade;<br>
 17° reactie: de maatregel of sanctie als maatschappelijk antwoord op een jeugddelict;<br>
 18° rechtspleging ten gronde: de rechtspleging met het oog op de toepassing van een van de sancties, vermeld in hoofdstuk 4, afdeling 3;<br>
-19° sanctie: het maatschappelijk antwoord op een jeugddelict tijdens de rechtspleging ten gronde, met uitsluiting van het herstelrechtelijk aanbod, de uithandengeving en het toevertrouwen van een minderjarige aan een afdeling van een jeugdpsychiatrische dienst;<br>
+19° sanctie: het maatschappelijk antwoord op een jeugddelict tijdens de rechtspleging ten gronde, met uitsluiting van het herstelrechtelijk aanbod, de uithandengeving en het toevertrouwen van een minderjarige aan een afdeling van een jeugdpsychiatrische dienst als vermeld in artikel 39;<br>
 20° slachtoffer: de persoon die verklaart morele of materiële schade te hebben geleden die veroorzaakt is door een jeugddelict;<br>
 21° sociale dienst: de Sociale Dienst voor Gerechtelijke Jeugdhulpverlening, vermeld in artikel 56 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
 22° voorbereidende rechtspleging: de rechtspleging met het oog op de toepassing van een van de maatregelen, vermeld in hoofdstuk 4, afdeling 2;<br>
@@ -92,7 +92,9 @@ Indien uit de debatten voor de rechtbanken, vermeld in het voorgaande lid, blijk
 
 ### ART 6.
 
-Behalve in het geval van de sancties, vermeld in de artikelen 29, § 2, eerste lid, 1° en 2°, en 37, §§ 1 en 2, en de terbeschikkingstelling, vermeld in artikel 37, § 8, nemen alle reacties, vermeld in hoofdstuk 4, uiterlijk een einde als de minderjarige verdachte of de minderjarige delictpleger de volle leeftijd van drieëntwintig jaar bereikt. Ook de afhandeling op niveau van het openbaar ministerie, vermeld in hoofdstuk 3, neemt een einde op het moment dat de minderjarige de volle leeftijd van drieëntwintig jaar bereikt.<br>
+Behalve in het geval van de maatregel, vermeld in artikel 20, § 2, eerste lid, 3° /1, en de sancties, vermeld in de artikelen 29, § 2, eerste lid, 1° , 2° en 5° /1, en 37, §§ 1 en 2, en de terbeschikkingstelling, vermeld in artikel 37, § 8, nemen alle reacties, vermeld in hoofdstuk 4, uiterlijk een einde als de minderjarige verdachte of de minderjarige delictpleger de volle leeftijd van drieëntwintig jaar bereikt. Ook de afhandeling op niveau van het openbaar ministerie, vermeld in hoofdstuk 3, neemt een einde op het moment dat de minderjarige de volle leeftijd van drieëntwintig jaar bereikt.<br>
+<br>
+De maatregel, vermeld in artikel 20, § 2, eerste lid, 3° /1, en de sanctie, vermeld in artikel 29, § 2, eerste lid, 5° /1, kunnen worden opgelegd tot de minderjarige verdachte of de minderjarige delictpleger de volle leeftijd van achttien jaar bereikt en nemen uiterlijk een einde als de minderjarige de volle leeftijd van negentien jaar bereikt.<br>
 <br>
 De sancties, vermeld in artikel 29, § 2, eerste lid, 1° en 2°, kunnen worden opgelegd tot de minderjarige delictpleger de volle leeftijd van drieëntwintig jaar bereikt.
 
@@ -340,10 +342,11 @@ In eerste instantie verdient een herstelrechtelijk aanbod de voorkeur. Als de je
 1° een positief project van ten hoogste zestig uur;<br>
 2° een ambulante maatregel;<br>
 3° voorwaarden;<br>
+3/1° de minderjarige verdachte toevertrouwen aan een forensische kinder- en jeugdpsychiatrische afdeling van een psychiatrisch ziekenhuis, als dat na een psychiatrische expertise noodzakelijk blijkt;<br>
 4° de minderjarige verdachte toevertrouwen aan een afdeling binnen een gemeenschapsinstelling, ingericht voor personen die een reactie opgelegd krijgen met toepassing van dit decreet, voor een gesloten oriëntatie van maximaal een maand;<br>
 5° de minderjarige verdachte toevertrouwen aan een afdeling binnen een gemeenschapsinstelling, ingericht voor personen die een reactie opgelegd krijgen met toepassing van dit decreet, voor een gesloten begeleiding van maximaal drie maanden opeenvolgend.<br>
 <br>
-De maatregelen, vermeld in het eerste lid, 1° tot en met 3°, verdienen de voorkeur boven het toevertrouwen van de minderjarige aan een afdeling binnen een gemeenschapsinstelling, ingericht voor personen die een reactie opgelegd krijgen met toepassing van dit decreet.<br>
+De maatregelen, vermeld in het eerste lid, 1° tot en met 3° /1, verdienen de voorkeur boven het toevertrouwen van de minderjarige aan een afdeling binnen een gemeenschapsinstelling, ingericht voor personen die een reactie opgelegd krijgen met toepassing van dit decreet.<br>
 <br>
 Als de jeugdrechter een maatregel als vermeld in het eerste lid, 1° tot en met 5°, uitspreekt, bepaalt hij de maximumduur ervan. De duur van een maand, vermeld in het eerste lid, 4° en 5°, is dertig dagen. De maatregel als vermeld in het eerste lid, 5°, kan worden opgeheven voor hij zijn einddatum bereikt wanneer blijkt dat er voor de minderjarige verdachte geen behoefte aan gesloten begeleiding meer aanwezig is. De jeugdrechter kan ambtshalve, of op vordering van het openbaar ministerie, de opgelegde maatregel opheffen.<br>
 <br>
@@ -369,7 +372,9 @@ De jeugdrechter neemt hiertoe uitdrukkelijk uiterlijk voor het verstrijken van d
 <br>
 § 3. De voorbereidende rechtspleging kan zeer uitzonderlijk, zolang beide voorwaarden cumulatief vervuld blijven, na de termijn, vermeld in paragraaf 2, derde lid, maximaal per maand opeenvolgend verlengd worden, indien de jeugdrechter dergelijke verlenging absoluut noodzakelijk acht en de redenen hiervoor specifiek motiveert in zijn beslissing, na de minderjarige verdachte, zijn ouders of zijn opvoedingsverantwoordelijken te hebben opgeroepen.<br>
 <br>
-§ 4. In afwijking van artikel 24, derde lid, artikel 25, § 2, en artikel 27, § 1, eerste lid, kan de duur van de maatregel maximaal per drie maanden opeenvolgend verlengd worden en dit uiterlijk totdat de maximale termijn van de voorbereidende rechtspleging is verstreken.
+§ 4. In afwijking van artikel 24, derde lid, artikel 25, § 2, en artikel 27, § 1, eerste lid, kan de duur van de maatregel maximaal per drie maanden opeenvolgend verlengd worden en dit uiterlijk totdat de maximale termijn van de voorbereidende rechtspleging is verstreken.<br>
+<br>
+§ 5. In afwijking van paragraaf 4 kan de duur van de maatregel, vermeld in artikel 20, § 2, eerste lid, 3° /1, maximaal tweemaal verlengd worden met een termijn van maximaal drie maanden met een bijzondere gemotiveerde beslissing, na de minderjarige verdachte, zijn ouders of zijn opvoedingsverantwoordelijken te hebben opgeroepen.
 
 ## Onderafdeling 2. Het herstelrechtelijk aanbod
 
@@ -509,6 +514,12 @@ Als de jeugdrechter van oordeel is dat herroeping aan de orde is, kan dat pas al
 
 ## [Onderafdeling 5/1. De forensische kinder- en jeugdpsychiatrische afdeling van een psychiatrisch ziekenhuis (ing. decr. 19 juni 2020, art. 12, I: 6 juli 2020)]
 
+### ART 25/1.
+
+Als dat na een psychiatrische expertise noodzakelijk blijkt, kan de jeugdrechter een minderjarige verdachte toevertrouwen aan een forensische kinder- en jeugdpsychiatrische afdeling van een psychiatrisch ziekenhuis als vermeld in artikel 20, § 2, eerste lid, 3° /1, voor een residentiële opname met het oog op verdere diagnostiek en behandeling van een psychiatrische problematiek.<br>
+<br>
+De maximale duur van de maatregel, vermeld in het eerste lid, bedraagt zes maanden. De jeugdrechter bepaalt de duur in zijn beschikking. De maatregel kan maximaal tweemaal verlengd worden met een termijn van maximaal drie maanden als dat na een psychiatrische evaluatie noodzakelijk blijkt.
+
 ## Onderafdeling 6. De gesloten oriëntatie in een afdeling van een gemeenschapsinstelling
 
 ## Onderafdeling 7. De gesloten begeleiding in een afdeling van een gemeenschapsinstelling
@@ -537,6 +548,7 @@ In eerste instantie verdient een herstelrechtelijk aanbod de voorkeur. Als de je
 3° een positief project uitvoeren van ten hoogste 220 uur;<br>
 4° een ambulante sanctie;<br>
 5° voorwaarden;<br>
+5/1° toevertrouwen aan een forensische kinder- en jeugdpsychiatrische afdeling van een psychiatrisch ziekenhuis, als dat na een psychiatrische expertise noodzakelijk blijkt;<br>
 6° toevertrouwen aan een afdeling binnen een gemeenschapsinstelling, ingericht voor personen die een reactie opgelegd krijgen met toepassing van dit decreet, voor een gesloten oriëntatie van maximaal een maand;<br>
 7° toevertrouwen aan een afdeling binnen een gemeenschapsinstelling, ingericht voor personen die een reactie opgelegd krijgen met toepassing van dit decreet, voor een gesloten begeleiding van maximaal drie, zes of negen maanden;<br>
 8° toevertrouwen aan een afdeling binnen een gemeenschapsinstelling, ingericht voor personen die een reactie opgelegd krijgen met toepassing van dit decreet, voor een gesloten begeleiding van maximaal twee, vijf of zeven jaar.<br>
@@ -545,7 +557,7 @@ Behoudens de sancties, vermeld in het eerste lid, 1° en 2°, gaan alle sancties
 <br>
 De duur van een maand, vermeld in het eerste lid, 6° en 7°, is dertig dagen.<br>
 <br>
-§ 3. De sancties, vermeld in paragraaf 2, eerste lid, 1° tot en met 5°, verdienen de voorkeur boven het toevertrouwen van de minderjarige delictpleger aan een afdeling binnen een gemeenschapsinstelling, ingericht voor minderjarigen die een reactie opgelegd krijgen met toepassing van dit decreet.<br>
+§ 3. De sancties, vermeld in paragraaf 2, eerste lid, 1° tot en met 5° /1, verdienen de voorkeur boven het toevertrouwen van de minderjarige delictpleger aan een afdeling binnen een gemeenschapsinstelling, ingericht voor minderjarigen die een reactie opgelegd krijgen met toepassing van dit decreet.<br>
 <br>
 Als de jeugdrechtbank een sanctie als vermeld in paragraaf 2, eerste lid, 3° tot en met 8°, oplegt, bepaalt ze de maximumduur ervan.<br>
 <br>
@@ -608,6 +620,14 @@ De jeugdrechtbank voorziet tegelijk in een vervangende sanctie voor het geval da
 § 2. De bepalingen omtrent de procedure, vermeld in artikel 25, §§ 3 tot en met 7, zijn van toepassing. In afwijking van artikel 25, §§ 3 en 4, is het maximale aantal uur dat een leerproject of een gemeenschapsdienst mag bedragen, 220 uur. In het geval de voormelde sancties gecumuleerd worden, kan dit voor ten hoogste 220 uur.
 
 ## [Onderafdeling 6/1. De forensische kinder- en jeugdpsychiatrische afdeling van een psychiatrisch ziekenhuis (ing. decr. 19 juni 2020, art. 16, I: 6 juli 2020)]
+
+### ART 34/1.
+
+Als dat na een psychiatrische expertise noodzakelijk blijkt, kan de jeugdrechtbank een minderjarige delictpleger toevertrouwen aan een forensische kinder- en jeugdpsychiatrische afdeling van een psychiatrisch ziekenhuis als vermeld in artikel 29, § 2, eerste lid, 5° /1, voor een residentiële opname met het oog op verdere diagnostiek en behandeling van een psychiatrische problematiek.<br>
+<br>
+De maximale duur van de sanctie, vermeld in het eerste lid, bedraagt zes maanden. De jeugdrechtbank bepaalt de duur in haar vonnis. In afwijking van artikel 29, § 3, tweede lid, kan de sanctie eenmaal verlengd worden met een termijn van maximaal zes maanden als dat na een psychiatrische evaluatie noodzakelijk blijkt.<br>
+<br>
+De duur van de maatregel, vermeld in artikel 20, § 2, 3° /1, waardoor een minderjarige delictpleger aan een forensische kinder- en jeugdpsychiatrische afdeling van een psychiatrisch ziekenhuis wordt toevertrouwd, wordt toegerekend op de duur van de opgelegde sanctie, vermeld in het tweede lid.
 
 ## Onderafdeling 8. De gesloten begeleiding in een afdeling van een gemeenschapsinstelling
 
