@@ -31,7 +31,9 @@ DE VLAAMSE REGERING BESLUIT :
 
 In afwijking van artikel 9, § 4, van het decreet van 11 mei 2007 houdende het statuut van de sportschutter, wordt de duur van de voorlopige sportschutterslicenties die op 14 maart 2020 geldig zijn, verlengd met zes maanden. In afwijking van artikel 9, § 2, 3°, van het voormelde decreet, is bij de beoordeling van het actieve lidmaatschap de spreiding van de schietbeurten over minstens twee trimesters niet van toepassing op de houders van de voormelde voorlopige sportschutterslicenties.<br>
 <br>
-Sportschutterslicenties waarvan de verjaardag van de afgiftedatum voor de eerste wapencategorie ligt in de periode van 14 maart 2020 tot en met 7 juli 2020&nbsp;kunnen in afwijking van artikel 10, § 1 en § 2, eerste lid, van hetzelfde decreet worden geldig verklaard, respectievelijk hernieuwd, zonder dat aan de voorwaarde van actief lidmaatschap is voldaan.
+Sportschutterslicenties waarvan de verjaardag van de afgiftedatum voor de eerste wapencategorie ligt in de periode van 14 maart 2020 tot en met 7 juli 2020 kunnen in afwijking van artikel 10, § 1 en § 2, eerste lid, van hetzelfde decreet worden geldig verklaard, respectievelijk hernieuwd, zonder dat aan de voorwaarde van actief lidmaatschap is voldaan.<br>
+<br>
+Sportschutterslicenties waarvan de verjaardag van de afgiftedatum voor de eerste wapencategorie ligt in de periode die start op de dag na het verstrijken van de periode, vermeld in het tweede lid, tot en met 13 maart 2021, kunnen in afwijking van artikel 10, § 1 en § 2, eerste lid, van het voormelde decreet eenmalig geldig worden verklaard, respectievelijk hernieuwd, als de sportschutter via het sportschuttersboekje minimaal zes schietbeurten aantoont in het voorbije jaar. In afwijking van artikel 9, § 2, 3°, van het voormelde decreet, hoeven die schietbeurten niet gespreid te zijn over minstens twee trimesters.
 
 ### ART 2.
 
