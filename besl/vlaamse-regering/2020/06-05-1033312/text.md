@@ -36,6 +36,54 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT :
 
+### ART 1.
+
+Aan de schoolbesturen van het gewoon en het buitengewoon basis- en secundair onderwijs wordt voor het schooljaar 2019 - 2020 extra werkingsbudget toegekend van maximaal 24.508.000 euro. Hiervan is 16.622.000 euro bestemd voor het basisonderwijs en 7.886.000 euro voor het secundair onderwijs.
+
+### ART 2.
+
+Dit extra budget wordt toegekend voor de aankoop van mondmaskers voor de personeelsleden van het basis- en secundair onderwijs en de leerlingen van het buitengewoon onderwijs, voor de aankoop van het nodige poetsmateriaal, voor de inzet van extra poetspersoneel en voor de aankoop van ander materiaal m.b.t. de hygiëne- en veiligheidsmaatregelen. Zoals ontsmettingsmiddelen, kuisproducten en andere noodzakelijke hygiënische infrastructuur.<br>
+<br>
+Wanneer een besmetting, of vermoeden van besmetting, op een school vastgesteld wordt, wordt de procedure gevolgd zoals opgenomen in het draaiboek besmettelijke ziekten van de CLB's. Scholen contacteren daartoe het CLB.
+
+### ART 3.
+
+Het bedrag wordt verdeeld naar het basis- en secundair onderwijs op basis van de volgende criteria :<br>
+1° voor de mondmaskers wordt uitgegaan van een bedrag van 7,5 euro per in aanmerking komende personeelslid, voor 3 mondmaskers en van 2,5 euro per leerling in het buitengewoon onderwijs voor de aankoop van 1 mondmasker.<br>
+2° voor het extra budget van poetspersoneel wordt het budget verdeeld op basis van 20 minuten extra te poetsen per klas, waarbij een klas bestaat uit 20 leerlingen en de kostprijs per uur voor de poetshulp bedraagt 11,5 euro. De verdeling naar het basis- en secundair is gebaseerd op basis van het maximum aantal dagen dat de scholen nog open zullen zijn : 21 in het basisonderwijs en 13 in het secundair onderwijs.<br>
+3° voor de verdeling van kost van extra hygiënische producten en kuisproducten wordt eveneens rekening gehouden met het aantal dagen dat de scholen nog open kunnen zijn en de prijs van 13 euro per 10 leerlingen van 1 liter ontsmettingsmiddel per dag.<br>
+4° voor de kostprijs van extra infrastructuur wordt uitgegaan van een extra kost van 750 euro per 500 personen.
+
+### ART 4.
+
+Het te verdelen bedrag per school wordt vastgesteld op basis van het aantal financierbare leerlingen per school op basis van de teldag van 1 februari 2020.<br>
+<br>
+Concreet gaat het over volgende bedragen :
+<table border="1">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;Bedrag per leerling</td>
+		</tr>
+		<tr>
+			<td>Gewoon basisonderwijs</td>
+			<td>22,21 euro</td>
+		</tr>
+		<tr>
+			<td>Buitengewoon basisonderwijs</td>
+			<td>32,34 euro</td>
+		</tr>
+		<tr>
+			<td>Gewoon secundair</td>
+			<td>16,34 euro</td>
+		</tr>
+		<tr>
+			<td>Buitengewoon secundair</td>
+			<td>24,69 euro</td>
+		</tr>
+	</tbody>
+</table>
+
 ### ART 4/1.
 
 § 1. Dit artikel heeft betrekking op:<br>
@@ -68,3 +116,11 @@ De in het eerste lid vermelde internen zijn uit huis geplaatste jongeren of jong
 Het bedrag dat aan de instelling vermeld in artikel 1, 1°, en 3°, ter beschikking wordt gesteld is 100 euro per interne per dag waarop de interne aanwezig is geweest.<br>
 <br>
 Het bedrag dat aan de instelling vermeld in artikel 1, 2°, en 4°, ter beschikking wordt gesteld is 25 euro per interne per dag waarop de interne aanwezig is geweest.
+
+### ART 5.
+
+Voor de strategische reserve wordt een bedrag aan AGODI toegekend van 873.000 euro. Dit budget wordt gebruikt als vergoeding voor het facilitair bedrijf voor de scholen die gebruik maken van de mondmaskers en handgel die via het facilitair bedrijf gratis ter beschikking wordt gesteld van de scholen.
+
+### ART 6.
+
+De Vlaamse minister, bevoegd voor het Onderwijs is belast met de uitvoering van dit besluit.

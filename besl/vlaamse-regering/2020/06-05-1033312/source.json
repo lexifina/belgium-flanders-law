@@ -2,16 +2,16 @@
   "codex_id": 1033312,
   "title": "Besluit van de Vlaamse Regering van 2020-06-05 tot toekenning van extra werkingsbudget voor de scholen van het gewoon en buitengewoon basis- en secundair onderwijs omwille van de genomen maatregelen en hieraan verbonden extra onkosten gemaakt door de scholen tegen verspreiding van COVID-19",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033312/VolledigDocument?datum=2020-03-27",
-  "source_sha256": "eca86b8d451a0690787fa73344e928e97ea1e870a2b2c40357562fce5451742d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033312/VolledigDocument?datum=2020-07-09",
+  "source_sha256": "27a4e506281fbbc69c4dfce890ea9869e35cd8ea165e416e3eae9436f74c81ff",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033312&param=informatie",
-  "as_of": "2020-03-27",
+  "as_of": "2020-07-09",
   "made": "2020-06-05",
   "gazette": "2020-06-29",
   "numac": 2020031079,
   "document_start": "2020-07-09",
   "document_end": null,
-  "in_force": "2020-03-27",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2020-03-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-07-09",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2020-07-09; future article versions excluded; article text as the API gives it"
 }
