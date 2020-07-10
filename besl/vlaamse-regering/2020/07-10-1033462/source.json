@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033462,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-10 betreffende de toekenning van steun aan regionale televisieomroeporganisaties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033462/VolledigDocument?datum=2020-07-10",
+  "source_sha256": "5025419e52a12bb5026705879004de83f51ee9982ef7d785b46d01b46ae11b07",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033462&param=informatie",
+  "as_of": "2020-07-10",
+  "made": "2020-07-10",
+  "gazette": "2020-07-23",
+  "numac": 2020010419,
+  "document_start": "2020-07-10",
+  "document_end": null,
+  "in_force": "2020-07-10",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2020-07-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
