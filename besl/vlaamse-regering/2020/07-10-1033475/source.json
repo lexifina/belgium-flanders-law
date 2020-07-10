@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033475,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-10 tot toekenning van steun aan jeugdorganisaties in het kader van het noodfonds",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033475/VolledigDocument?datum=2020-07-10",
+  "source_sha256": "809fe278b032961d664adb751960bd7f3bbf5f2d9ad644a0db6d05d3050ef588",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033475&param=informatie",
+  "as_of": "2020-07-10",
+  "made": "2020-07-10",
+  "gazette": "2020-07-27",
+  "numac": 2020015238,
+  "document_start": "2020-07-10",
+  "document_end": null,
+  "in_force": "2020-07-10",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2020-07-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
