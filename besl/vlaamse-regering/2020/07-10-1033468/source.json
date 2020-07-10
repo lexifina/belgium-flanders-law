@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033468,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-10 tot toekenning van steun aan jeugdverblijven tot beperking van de negatieve economische impact die voortvloeit uit de dringende maatregelen van de Nationale Veiligheidsraad om de verspreiding van het coronavirus COVID-19 te beperken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033468/VolledigDocument?datum=2020-07-10",
+  "source_sha256": "6e99f6ef9cedc3b9c6a2acfe3d141681e0dc72f8ab38eb641e8909d9b23412f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033468&param=informatie",
+  "as_of": "2020-07-10",
+  "made": "2020-07-10",
+  "gazette": "2020-07-24",
+  "numac": 2020042403,
+  "document_start": "2020-07-10",
+  "document_end": null,
+  "in_force": "2020-07-10",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2020-07-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
