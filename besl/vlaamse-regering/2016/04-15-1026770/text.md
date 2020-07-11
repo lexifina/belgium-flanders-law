@@ -123,9 +123,11 @@ In afwijking van het eerste lid hebben de woonzorgcentra voor de bijkomende woon
 <br>
 In afwijking van het eerste en tweede lid hebben de woonzorgcentra voor de bijkomende woongelegenheden met een bijkomende erkenning in 2019 de keuze om de erkenning aan te vragen met ingang van 1 juli 2019 of 1 oktober 2019.<br>
 <br>
+In afwijking van het eerste, tweede en derde lid kunnen de woonzorgcentra voor de bijkomende woongelegenheden met een bijkomende erkenning in 2020 de erkenning aanvragen met ingang van 1 oktober 2020, 1 januari 2021 of 1 april 2021.<br>
+<br>
 Voor vrijgekomen woongelegenheden met een bijkomende erkenninghebben de woonzorgcentra de keuze om de bijkomende erkenning te laten ingaan op 1 januari, 1 april, 1 juli of 1 oktober volgend op het jaar waarin de planningsvergunning vervalt.<br>
 <br>
-Uiterlijk 45 dagen voor de op basis van het derde lid aangevraagde ingangsdatum van de bijkomende erkenning moet het agentschap de ontvankelijke aanvraag tot erkenning ontvangen hebben. Indien de aanvraag tot erkenning niet uiterlijk 45 dagen voor de op basis van het derde lid aangevraagde ingangsdatum van de bijkomende erkenning ontvankelijk was, gaat de erkenning pas in op zijn vroegst 45 dagen na de dag waarop het agentschap de ontvankelijke aanvraag tot erkenning ontvangen heeft.
+Uiterlijk 45 dagen voor de aangevraagde ingangsdatum van de bijkomende erkenning moet het agentschap de ontvankelijke aanvraag tot erkenning ontvangen hebben. Als de aanvraag tot erkenning niet uiterlijk 45 dagen voor de aangevraagde ingangsdatum van de bijkomende erkenning ontvankelijk is, gaat de erkenning pas in op zijn vroegst 45 dagen na de dag waarop het agentschap de ontvankelijke aanvraag tot erkenning ontvangen heeft.
 
 ### ART. 8.
 
