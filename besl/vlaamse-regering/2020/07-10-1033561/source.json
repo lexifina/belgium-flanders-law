@@ -2,16 +2,16 @@
   "codex_id": 1033561,
   "title": "Besluit van de Vlaamse Regering van 2020-07-10 tot wijziging van artikel 7 van het besluit van de Vlaamse Regering van 15 april 2016 houdende de toekenning en de erkenning van bijkomende en vrijgekomen woongelegenheden met een bijkomende erkenning en tot wijziging van bijlage 11 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033561/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "8bc49f463a6886a50baac75f3f96fdf5dea0e015be40ad0eaafc7dd94a8842c2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033561/VolledigDocument?datum=2020-07-11",
+  "source_sha256": "2c9b4354d4baddec87be6c2617b86a8ea172aaf57fb0e83aca546aaab387562d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033561&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2020-07-11",
   "made": "2020-07-10",
   "gazette": "2020-08-12",
   "numac": 2020042453,
   "document_start": "2020-07-11",
   "document_end": null,
-  "in_force": "2020-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-07-11",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-07-11; future article versions excluded; article text as the API gives it"
 }
