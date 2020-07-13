@@ -181,21 +181,135 @@ Als de ontlener ook bij de maximale duurtijd van de lening, vermeld in artikel 9
 2° het resultaat van de berekening, vermeld in punt 1°, wordt per persoon ten laste verminderd met 10 % van de referentierentevoet, afgerond naar de dichtstbij liggende tweede decimaal, die van toepassing is op de referentiedatum bij het aangaan van de lening;<br>
 3° het resultaat van de berekening, vermeld in punt 1°, wordt verminderd met 5 % van de referentierentevoet, afgerond naar de dichtstbij liggende tweede decimaal, die van toepassing is op de referentiedatum bij het aangaan van de lening, als de woning gelegen is op het grondgebied van een gemeente die is opgenomen in cluster 1 van de lijst die opgenomen is in de bijlage die bij dit besluit is gevoegd. Als de gemeente is opgenomen in cluster 2 van de voormelde lijst, wordt het resultaat van de berekening, vermeld in punt 1°, verminderd met 10 % van de referentierentevoet, afgerond naar de dichtstbij liggende tweede decimaal, die van toepassing is op de referentiedatum bij het aangaan van de lening.<br>
 <br>
-Het resultaat van de berekening, vermeld in het eerste lid, wordt afgerond naar het eerst hogere 0,10 procentpunt en mag nooit hoger zijn dan vier derde van de referentierentevoet die van toepassing is op de referentiedatum bij het aangaan van de lening, en nooit lager dan twee derde van diezelfde referentierentevoet, afgerond naar de dichtstbij liggende tweede decimaal. De aldus berekende rentevoet van de lening mag nooit lager zijn dan 2 %.<br>
+Het resultaat van de berekening, vermeld in het eerste lid, wordt afgerond naar het eerst hogere 0,10 procentpunt en mag nooit hoger zijn dan vier derde van de referentierentevoet die van toepassing is op de referentiedatum bij het aangaan van de lening, en nooit lager dan twee derde van diezelfde referentierentevoet, afgerond naar de dichtstbij liggende tweede decimaal.<br>
 <br>
 Op basis van die jaarrente wordt de maandrente berekend en afgerond naar de dichtstbij liggende vierde decimaal.<br>
 <br>
 De oorspronkelijke jaarlijkse rentevoet wordt vermeld in de leningsakte.<br>
 <br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">De volgens het tweede lid berekende rentevoet van de lening mag niet lager zijn dan het percentage in de volgende tabel, rekening houdend met de looptijd van de lening :</span></span></span></p>
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>Looptijd lening (in jaar)</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>20 of minder</td>
+			<td>1,60%</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>1,64%</td>
+		</tr>
+		<tr>
+			<td>22</td>
+			<td>1,68%</td>
+		</tr>
+		<tr>
+			<td>23</td>
+			<td>1,72%</td>
+		</tr>
+		<tr>
+			<td>24</td>
+			<td>1,76%</td>
+		</tr>
+		<tr>
+			<td>25</td>
+			<td>1,80%</td>
+		</tr>
+		<tr>
+			<td>26</td>
+			<td>1,84%</td>
+		</tr>
+		<tr>
+			<td>27</td>
+			<td>1,88%</td>
+		</tr>
+		<tr>
+			<td>28</td>
+			<td>1,92%</td>
+		</tr>
+		<tr>
+			<td>29</td>
+			<td>1,96%</td>
+		</tr>
+		<tr>
+			<td>30</td>
+			<td>2,00%</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Als de initiële looptijd van de lening gewijzigd wordt, blijft de rentevoet, vermeld in het vijfde lid, gelden zoals die van toepassing was op de referentiedatum bij het aangaan van de lening.</span></span></span><br>
+<br>
 § 3. Jaarlijks wordt op de verjaardag van het verlijden van de leningsakte de op de lening toegepaste rentevoet aangepast als het aantal personen ten laste sinds de vaststelling van de oorspronkelijke jaarlijkse rentevoet of sinds de vorige jaarlijkse aanpassing of de&nbsp;herberekening van de rentevoet, vermeld in paragraaf 4, gestegen is. Die jaarlijkse aanpassing gebeurt niet in de jaren waarin de&nbsp;herberekening van de rentevoet, vermeld in paragraaf 4, plaatsvindt.<br>
 <br>
-De aangepaste rentevoet is gelijk aan de rentevoet die op dat ogenblik op de lening van toepassing is, verminderd met 10 procent van de referentierentevoet, afgerond naar de dichtstbij liggende tweede decimaal, die van toepassing was op de referentiedatum bij het aangaan van de lening, per bijkomende persoon ten laste. Het resultaat van die berekening wordt afgerond en begrensd op de wijze, vermeld in paragraaf 2, tweede lid.<br>
+De aangepaste rentevoet is gelijk aan de rentevoet die op dat ogenblik op de lening van toepassing is, verminderd met 10 procent van de referentierentevoet, afgerond naar de dichtstbij liggende tweede decimaal, die van toepassing was op de referentiedatum bij het aangaan van de lening, per bijkomende persoon ten laste. Het resultaat van die berekening wordt afgerond en begrensd op de wijze, vermeld in paragraaf 2, tweede, vijfde en zesde lid.<br>
 <br>
 De kredietgever is verplicht om de rentevoet aan te passen als hij minimaal vijf werkdagen voor de dag van de jaarlijkse aanpassing door de ontlener op de hoogte wordt gesteld van een stijging van het aantal personen ten laste.<br>
 <br>
 § 4. Vijfjaarlijks en voor de eerste keer op de vijfde verjaardag van het verlijden van de leningsakte, wordt de op de lening toegepaste rentevoet herberekend op de wijze, vermeld in paragraaf 2. Bij de vijfjaarlijkse herberekeningen wordt het gemiddelde inkomen berekend over een periode van vijf jaar, die ingaat het zevende jaar dat aan de herberekening voorafgaat. Als het inkomen in een of meer van voormelde jaren nihil bedroeg, wordt dat niet in dat gemiddelde inkomen meegerekend. Bij de berekening van dat gemiddelde inkomen wordt rekening gehouden met de gezinstoestand zoals die vastgesteld wordt op de referentiedatum bij de vijfjaarlijkse herberekening. Met een vermindering van het aantal kinderen ten laste door overlijden wordt geen rekening gehouden.<br>
 <br>
-§ 5. In afwijking van paragraaf 4, wordt de rentevoet niet herberekend als de referentierentevoet die van toepassing is op de referentiedatum bij het aangaan van de lening gelijk is aan of minder is dan 1,5%.</p>
+§ 5. <span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">In afwijking van paragraaf 4, wordt de rentevoet niet herberekend als de referentierentevoet die van toepassing is op de referentiedatum bij het aangaan van de lening gelijk is aan of minder is dan de rentevoet vermeld in de volgende tabel, rekening houdend met de looptijd van de lening :</span></span></span></p>
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>Looptijd lening (in jaar)</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>20 of minder</td>
+			<td>1,20%</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>1,23%</td>
+		</tr>
+		<tr>
+			<td>22</td>
+			<td>1,26%</td>
+		</tr>
+		<tr>
+			<td>23</td>
+			<td>1,29%</td>
+		</tr>
+		<tr>
+			<td>24</td>
+			<td>1,32%</td>
+		</tr>
+		<tr>
+			<td>25</td>
+			<td>1,35%</td>
+		</tr>
+		<tr>
+			<td>26</td>
+			<td>1,38%</td>
+		</tr>
+		<tr>
+			<td>27</td>
+			<td>1,41%</td>
+		</tr>
+		<tr>
+			<td>28</td>
+			<td>1,44%</td>
+		</tr>
+		<tr>
+			<td>29</td>
+			<td>1,47%</td>
+		</tr>
+		<tr>
+			<td>30</td>
+			<td>1,50%</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+.</p>
 
 ### ART. 9.
 
