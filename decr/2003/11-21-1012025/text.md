@@ -365,7 +365,25 @@ De ambtenaren-artsen en de ambtenaren, bedoeld in artikel 44, § 3, 2° en 3°:<
 
 ### ART. 47.
 
-§ 1. De ambtenaren-artsen, bedoeld in artikel 44, § 3, 2°, kunnen:<br /><br />1° personen die aangetast zijn door een dergelijke infectie en die een bijzonder gevaar van besmetting vormen voor andere personen, verplichten een gepaste medische behandeling te volgen om die besmettelijkheid te bestrijden en/of het bevel geven tot tijdelijke afzondering van deze personen in een door de ambtenaren-artsen bepaalde ziekenhuisafdeling. Die verplichte afzondering verloopt zodra de patiënt niet meer besmettelijk is;<br /><br />2° personen die, na contact met een geïnfecteerde persoon of na contact met een andere besmettingsbron, mogelijk besmet zijn, en die door contacten met anderen, al dan niet bij de uitoefening van hun beroepsactiviteit, deze infectie kunnen overdragen, onderwerpen aan medisch onderzoek dat nodig is voor de opsporing van besmettingsbronnen;<br /><br />3° personen die besmet blijken en de infectie kunnen overdragen, de contacten met anderen, al dan niet bij de uitoefening van hun beroepsactiviteit, verbieden zolang zij hierdoor een bijzonder gevaar betekenen voor de volksgezondheid;<br /><br />4° de nodige ruimten in ziekenhuizen opeisen voor de opname en de afzondering van personen die besmet zijn of bij wie een ernstige besmetting wordt vermoed;<br /><br />5° de ontsmetting bevelen van voorwerpen en lokalen die besmet zijn;<br /><br />6° de behandeling, de afzondering of het doden bevelen van dieren die een besmettingsgevaar betekenen voor de mens, met uitzondering van het besmettingsgevaar door consumptie van deze dieren.<br /><br />§ 2. De maatregelen, bedoeld in § 1, 1° en 3°, kunnen enkel uitgevoerd worden nadat de betrokken ambtenaar-arts overleg heeft gepleegd met de behandelende artsen.<br /><br />§ 3. De ambtenaar-arts, die de maatregelen, bedoeld in § 1, 1° en 3°, genomen heeft, deelt aan de betrokkene schriftelijk minstens de volgende gegevens mee:<br /><br />1° de inhoud van de maatregel;<br /><br />2° de motivering van de maatregel;<br /><br />3° de naam, functie en standplaats van de betrokken ambtenaar-arts;<br /><br />4° de vermelding van de mogelijkheid om beroep aan te tekenen;<br /><br />5° de beroepsprocedure;<br /><br />6° de wijze van evaluatie van de genomen maatregel, de duur ervan, alsook de wijze van een eventuele aanpassing van de maatregel.<br /><br />De elementen, bedoeld in 1°, 2° en 5°, worden aan de betrokkene ook mondeling toegelicht.
+§ 1. De ambtenaren-artsen, bedoeld in artikel 44, § 3, 2°, kunnen:<br>
+1° personen die aangetast zijn door een dergelijke infectie en die een bijzonder gevaar van besmetting vormen voor andere personen, verplichten een gepaste medische behandeling te volgen om die besmettelijkheid te bestrijden en/of deze personen, evenals personen die een verhoogd risico hebben om deze infectie te hebben opgelopen, het bevel even tot tijdelijke afzondering in een door de ambtenaren-artsen bepaalde ziekenhuisafdeling of een andere gepaste plaats. Die verplichte afzondering verloopt zodra de persoon aan wie het bevel is gegeven niet meer besmettelijk is of zodra het gevaar op besmettelijkheid is geweken;<br>
+2° personen die, na contact met een geïnfecteerde persoon of na contact met een andere besmettingsbron of na in een hoogrisicogebied verbleven te hebben, mogelijk besmet zijn, en die door contacten met anderen, al dan niet bij de uitoefening van hun beroepsactiviteit, deze infectie kunnen overdragen, onderwerpen aan medisch onderzoek dat nodig is voor de opsporing van besmettingsbronnen;<br>
+3° personen die besmet blijken en de infectie kunnen overdragen evenals personen die een verhoogd risico hebben om deze besmetting te hebben opgelopen, de contacten met anderen, al dan niet bij de uitoefening van hun beroepsactiviteit, verbieden zolang zij hierdoor een bijzonder gevaar betekenen voor de volksgezondheid;<br>
+4° de nodige ruimten in ziekenhuizen opeisen voor de opname en de afzondering van personen die besmet zijn of bij wie een ernstige besmetting wordt vermoed;<br>
+5° de ontsmetting bevelen van voorwerpen en lokalen die besmet zijn;<br>
+6° de behandeling, de afzondering of het doden bevelen van dieren die een besmettingsgevaar betekenen voor de mens, met uitzondering van het besmettingsgevaar door consumptie van deze dieren.<br>
+<br>
+§ 2. De maatregelen, bedoeld in § 1, 1° en 3°, kunnen enkel uitgevoerd worden nadat de betrokken ambtenaar-arts overleg heeft gepleegd met de behandelende artsen.<br>
+<br>
+§ 3. De ambtenaar-arts, die de maatregelen, bedoeld in § 1, 1° en 3°, genomen heeft, deelt aan de betrokkene schriftelijk minstens de volgende gegevens mee:<br>
+1° de inhoud van de maatregel;<br>
+2° de motivering van de maatregel;<br>
+3° de naam, functie en standplaats van de betrokken ambtenaar-arts;<br>
+4° de vermelding van de mogelijkheid om beroep aan te tekenen;<br>
+5° de beroepsprocedure;<br>
+6° de wijze van evaluatie van de genomen maatregel, de duur ervan, alsook de wijze van een eventuele aanpassing van de maatregel.<br>
+<br>
+De elementen, bedoeld in 1°, 2° en 5°, worden aan de betrokkene ook mondeling toegelicht.
 
 ### ART. 48.
 
@@ -584,7 +602,15 @@ Onverminderd de toepassing van de in het Strafwetboek gestelde straffen,   worde
 
 ### ART. 81.
 
-§ 1. Tegen de maatregelen, bedoeld in artikel 47, § 1, 1° en 3°, kan de betrokkene beroep aantekenen met een gemotiveerde en aangetekende brief bij een door de Vlaamse regering aangesteld beroepscollege, op het adres van de administratie. Dit beroep is niet opschortend.<br /><br />§ 2. Het beroepscollege bestaat uit drie onafhankelijke leden die deskundig zijn op het vlak van besmettelijke ziekten. De leden van dit beroepscollege mogen niet tewerkgesteld zijn bij de administratie en mogen niet betrokken zijn bij de behandeling van de patiënt.<br /><br />§ 3. Het beroepscollege doet een bindende uitspraak binnen tien werkdagen na ontvangst van het beroep. Wanneer er binnen die termijn geen beslissing genomen wordt, vervalt de maatregel.<br /><br />Het beroepscollege betekent zijn uitspraak over het beroep aan de betrokkene met een aangetekende brief en bezorgt een afschrift van de uitspraak aan de betrokken ambtenaar-arts.<br /><br />§ 4. De Vlaamse regering werkt de beroepsprocedure nader uit, onder meer inzake de samenstelling van het beroepscollege en inzake de wijze van vergoeding van het beroepscollege.
+§ 1. Tegen de maatregelen, bedoeld in artikel 47, § 1, 1° en 3°, kan de betrokkene beroep aantekenen met een gemotiveerde en aangetekende brief bij een door de Vlaamse regering aangesteld beroepscollege, op het adres van de administratie. Dit beroep is niet opschortend.<br>
+<br>
+§ 2. Het beroepscollege bestaat uit drie onafhankelijke leden die deskundig zijn op het vlak van besmettelijke ziekten. De leden van dit beroepscollege mogen niet tewerkgesteld zijn bij de administratie en mogen niet betrokken zijn bij de behandeling van de persoon aan wie het bevel is gegeven.<br>
+<br>
+§ 3. Het beroepscollege doet een bindende uitspraak binnen tien werkdagen na ontvangst van het beroep. Wanneer er binnen die termijn geen beslissing genomen wordt, vervalt de maatregel.<br>
+<br>
+Het beroepscollege betekent zijn uitspraak over het beroep aan de betrokkene met een aangetekende brief en bezorgt een afschrift van de uitspraak aan de betrokken ambtenaar-arts.<br>
+<br>
+§ 4. De Vlaamse regering werkt de beroepsprocedure nader uit, onder meer inzake de samenstelling van het beroepscollege en inzake de wijze van vergoeding van het beroepscollege.
 
 ## TITEL XII OPHEFFINGS- EN OVERGANGSBEPALINGEN
 
