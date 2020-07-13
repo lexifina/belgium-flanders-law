@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033392,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-03 houdende maatregelen voor de behandelingstermijnen van de beoordelingscommissie volgens het Procedurebesluit Wonen van 14 juli 2017 en de bijzondere sociale leningen ten gevolge van de beperkende coronavirusmaatregelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033392/VolledigDocument?datum=2020-07-13",
+  "source_sha256": "51e655d4223302d000e118a36094fddaa6e19a4567ea442da118b31e8826dee3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033392&param=informatie",
+  "as_of": "2020-07-13",
+  "made": "2020-07-03",
+  "gazette": "2020-07-13",
+  "numac": 2020042261,
+  "document_start": "2020-07-13",
+  "document_end": null,
+  "in_force": "2020-07-13",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2020-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
