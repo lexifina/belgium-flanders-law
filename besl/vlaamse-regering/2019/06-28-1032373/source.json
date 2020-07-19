@@ -2,16 +2,16 @@
   "codex_id": 1032373,
   "title": "Besluit van de Vlaamse Regering van 2019-06-28 tot erkenning van de beroepskwalificatie tolk",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032373/VolledigDocument?datum=2019-10-28",
-  "source_sha256": "63c302b227b818975c1d053d8ff09bf7d974ef195e40d10528dbaddf4fb20a5f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032373/VolledigDocument?datum=2020-07-19",
+  "source_sha256": "ad5d4270f2b447924f1fe5bb8c2c145f1f8a369b955b9c893af9ff8c53fbb388",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032373&param=informatie",
-  "as_of": "2019-10-28",
+  "as_of": "2020-07-19",
   "made": "2019-06-28",
   "gazette": "2019-10-18",
   "numac": 2019042122,
   "document_start": "2019-10-28",
   "document_end": null,
-  "in_force": "2019-10-28",
+  "in_force": "2020-07-19",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-10-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-19; future article versions excluded; article text as the API gives it"
 }
