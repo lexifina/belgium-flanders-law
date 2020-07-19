@@ -2,16 +2,16 @@
   "codex_id": 1028449,
   "title": "Besluit van de Vlaamse Regering van 2017-04-21 tot erkenning van de beroepskwalificatie hulpkok",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028449/VolledigDocument?datum=2017-07-29",
-  "source_sha256": "1b0b4361373094330c976dcd31effa54e5c8b0bff6bb5b197a7aac8bfda2a96b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028449/VolledigDocument?datum=2020-07-19",
+  "source_sha256": "e151d7c7fae1123ea44f775635d95a7c1b8a9720fc6a766345d52f1cddc48ee2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028449&param=informatie",
-  "as_of": "2017-07-29",
+  "as_of": "2020-07-19",
   "made": "2017-04-21",
   "gazette": "2017-07-19",
   "numac": 2017012836,
   "document_start": "2017-07-29",
   "document_end": null,
-  "in_force": "2017-07-29",
+  "in_force": "2020-07-19",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2017-07-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-19; future article versions excluded; article text as the API gives it"
 }
