@@ -2,16 +2,16 @@
   "codex_id": 1031674,
   "title": "Besluit van de Vlaamse Regering van 2019-01-25 tot erkenning van de beroepskwalificatie onthaalmedewerker",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031674/VolledigDocument?datum=2019-05-23",
-  "source_sha256": "9bcfc3dd83f729a38abd7a4c9456dfa8029e8a3527898d0354a1ad970f52e111",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031674/VolledigDocument?datum=2020-07-19",
+  "source_sha256": "a92f08cc1b352726a3ee431c91857787c77c721b6d89721c6fe6d962db0709a4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031674&param=informatie",
-  "as_of": "2019-05-23",
+  "as_of": "2020-07-19",
   "made": "2019-01-25",
   "gazette": "2019-05-13",
   "numac": 2019040996,
   "document_start": "2019-05-23",
   "document_end": null,
-  "in_force": "2019-05-23",
+  "in_force": "2020-07-19",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-05-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-19; future article versions excluded; article text as the API gives it"
 }
