@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033350,
+  "title": "Besluit van de Vlaamse Regering van 2020-06-26 tot toekenning van extra ICT-middelen voor het gewoon en buitengewoon lager voor leerlingen vanaf het vijfde leerjaar (geboortejaar 2008) en secundair onderwijs in het kader van de aanpak van COVID-19",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033350/VolledigDocument?datum=2020-07-19",
+  "source_sha256": "e5f9b836a2b5ee30025ad9003320f044b099d47b21ae9ba87a9bc6cc213ff0ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033350&param=informatie",
+  "as_of": "2020-07-19",
+  "made": "2020-06-26",
+  "gazette": "2020-07-09",
+  "numac": 2020042165,
+  "document_start": "2020-07-19",
+  "document_end": null,
+  "in_force": "2020-07-19",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2020-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
