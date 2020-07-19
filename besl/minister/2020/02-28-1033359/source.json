@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033359,
+  "title": "Ministerieel besluit van 2020-02-28 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 31 januari 2014 tot erkenning van de beroepskwalificatie tufter",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033359/VolledigDocument?datum=2020-07-19",
+  "source_sha256": "960877cc2592853f9b4020fe633453e941269fed5fd348ab628b29597fa3aaa5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033359&param=informatie",
+  "as_of": "2020-07-19",
+  "made": "2020-02-28",
+  "gazette": "2020-07-09",
+  "numac": 2020030942,
+  "document_start": "2020-07-19",
+  "document_end": null,
+  "in_force": "2020-07-19",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
