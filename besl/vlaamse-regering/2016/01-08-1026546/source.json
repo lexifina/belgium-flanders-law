@@ -2,16 +2,16 @@
   "codex_id": 1026546,
   "title": "Besluit van de Vlaamse Regering van 2016-01-08 tot erkenning van de beroepskwalificatie technicus industriële automatisering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026546/VolledigDocument?datum=2016-03-26",
-  "source_sha256": "e85d5ef03fc82ff3146ffcf90da99d4a54ee40f7ae6370ebed9bbb21fe9db954",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026546/VolledigDocument?datum=2020-07-19",
+  "source_sha256": "cc27abec3a35b1f87a3665cb132ac87363cec43c5b49d1597e49145cfa3b91d0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026546&param=informatie",
-  "as_of": "2016-03-26",
+  "as_of": "2020-07-19",
   "made": "2016-01-08",
   "gazette": "2016-03-16",
   "numac": 2016035269,
   "document_start": "2016-03-26",
   "document_end": null,
-  "in_force": "2016-03-26",
+  "in_force": "2020-07-19",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-19; future article versions excluded; article text as the API gives it"
 }
