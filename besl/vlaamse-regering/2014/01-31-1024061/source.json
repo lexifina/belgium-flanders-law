@@ -2,16 +2,16 @@
   "codex_id": 1024061,
   "title": "Besluit van de Vlaamse Regering van 2014-01-31 tot erkenning van de beroepskwalificatie tufter",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024061/VolledigDocument?datum=2014-05-12",
-  "source_sha256": "37908a033cb345904700b94d9f800832caf332f0c0222bc778b13ab006cbfce0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024061/VolledigDocument?datum=2020-07-19",
+  "source_sha256": "8e5951a3119bda44e79848fa08377d5fbb0e2f3a4b8706f4e16cba4cf03ee696",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024061&param=informatie",
-  "as_of": "2014-05-12",
+  "as_of": "2020-07-19",
   "made": "2014-01-31",
   "gazette": "2014-05-02",
   "numac": 2014035353,
   "document_start": "2014-05-12",
   "document_end": null,
-  "in_force": "2014-05-12",
+  "in_force": "2020-07-19",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-05-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-19; future article versions excluded; article text as the API gives it"
 }
