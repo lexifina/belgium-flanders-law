@@ -2,16 +2,16 @@
   "codex_id": 1025373,
   "title": "Besluit van de Vlaamse Regering van 2015-03-13 tot erkenning van de beroepskwalificatie visfileerder-bewerker",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025373/VolledigDocument?datum=2015-06-06",
-  "source_sha256": "7710c39600f876b33bc46488f43469e0cd684dda42e26ebe253f134e5faf9290",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025373/VolledigDocument?datum=2020-07-19",
+  "source_sha256": "474c9f80e5db26b7e8371cc340d5bf36c3b29d64e16c9f16ae99ee9748adf8fb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025373&param=informatie",
-  "as_of": "2015-06-06",
+  "as_of": "2020-07-19",
   "made": "2015-03-13",
   "gazette": "2015-05-27",
   "numac": 2015035599,
   "document_start": "2015-06-06",
   "document_end": null,
-  "in_force": "2015-06-06",
+  "in_force": "2020-07-19",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2015-06-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-19; future article versions excluded; article text as the API gives it"
 }
