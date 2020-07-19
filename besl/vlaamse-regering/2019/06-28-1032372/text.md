@@ -26,4 +26,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/10/18_2.pdf#page=617">Beschrijving van de&nbsp;beroepskwalificatie van technieker industriële lijnautomatisatie</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/09_1.pdf#page=739">Bijlage</a>
