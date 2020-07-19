@@ -2,16 +2,16 @@
   "codex_id": 1028462,
   "title": "Besluit van de Vlaamse Regering van 2017-04-21 tot erkenning van de beroepskwalificatie onderhoudsmecanicien zware bedrijfsvoertuigen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028462/VolledigDocument?datum=2017-07-29",
-  "source_sha256": "e97b9c1df1f0af7bbf6ab15eeaedb9a441f40b2b5986b772e23eee7fa3b6e775",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028462/VolledigDocument?datum=2020-07-19",
+  "source_sha256": "51e9072521e83fa63a13b04f8472a11813f3bbbf22da1cd82eb5e65fa8c19e64",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028462&param=informatie",
-  "as_of": "2017-07-29",
+  "as_of": "2020-07-19",
   "made": "2017-04-21",
   "gazette": "2017-07-19",
   "numac": 2017012895,
   "document_start": "2017-07-29",
   "document_end": null,
-  "in_force": "2017-07-29",
+  "in_force": "2020-07-19",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2017-07-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-19; future article versions excluded; article text as the API gives it"
 }
