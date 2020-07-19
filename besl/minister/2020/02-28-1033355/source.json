@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033355,
+  "title": "Ministerieel besluit van 2020-02-28 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 13 september 2013 tot erkenning van de beroepskwalificatie vleesbereider",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033355/VolledigDocument?datum=2020-07-19",
+  "source_sha256": "5ea49bf8fba887eb9674c089d6fe4805cc9982e7af0bc1d41318b03b1a0eba47",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033355&param=informatie",
+  "as_of": "2020-07-19",
+  "made": "2020-02-28",
+  "gazette": "2020-07-09",
+  "numac": 2020021005,
+  "document_start": "2020-07-19",
+  "document_end": null,
+  "in_force": "2020-07-19",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
