@@ -2,16 +2,16 @@
   "codex_id": 1026890,
   "title": "Besluit van de Vlaamse Regering van 2016-03-25 tot erkenning van de beroepskwalificatie verpakker",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026890/VolledigDocument?datum=2016-06-23",
-  "source_sha256": "7ef24b7c68fceff03bedef40e391262d28b67a9bac90c6d7412e38bfe98a61bd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026890/VolledigDocument?datum=2020-07-19",
+  "source_sha256": "f65096801e3c1c52981292338ede287e393dadb66d6a16f6a83a7e6ca59d0f6f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026890&param=informatie",
-  "as_of": "2016-06-23",
+  "as_of": "2020-07-19",
   "made": "2016-03-25",
   "gazette": "2016-06-13",
   "numac": 2016035794,
   "document_start": "2016-06-23",
   "document_end": null,
-  "in_force": "2016-06-23",
+  "in_force": "2020-07-19",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-19; future article versions excluded; article text as the API gives it"
 }
