@@ -57,85 +57,55 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-In het kader van het deugdelijk bestuur van de participatieorganisatie voldoet de participatieorganisatie aan de volgende voorwaarden:<br>
-1° ze maakt werk van een evenwichtige vertegenwoordiging van mannen en vrouwen in haar bestuursorganen;<br>
-2° ze maakt een deontologische code op voor haar personeelsleden en bestuursleden;<br>
-3° ze maakt haar jaarverslag bekend op de website van de organisatie.
+...
 
 ### ART 3.
 
-De missie en visie van de participatieorganisatie past binnen de algemene opdrachten, vermeld in artikel 8, tweede lid, van het decreet van 7 juni 2013.<br>
-<br>
-De statuten van de participatieorganisatie verwijzen naar de algemene opdrachten, vermeld in artikel 8, tweede lid, van het voormelde decreet.
+...
 
 ### ART 4.
 
-De bijzondere doelgroepen, vermeld in artikel 3, eerste lid, van het decreet van 7 juni 2013, zijn vertegenwoordigd in de bestuursorganen van de participatieorganisatie.
+...
 
 ## Afdeling 2. [... (opgeh. BVR 26 juni 2020, art. 21, I: 19 juli 2020)]
 
 ### ART 5.
 
-Een erkenningsaanvraag is ontvankelijk als de aanvraag op digitale wijze wordt ingediend bij het agentschap en als de aanvraag al de volgende stukken en gegevens bevat:<br>
-1° een beschrijving van de manier waarop de participatieorganisatie voldoet aan de erkenningsvoorwaarden, vermeld in afdeling 1 en vermeld in artikel 10, eerste lid, van het decreet van 7 juni 2013;<br>
-2° een kopie van de statuten van de participatieorganisatie.<br>
-<br>
-De erkenningsaanvraag wordt ingediend uiterlijk op 1 januari van het jaar dat voorafgaat aan de vijfjarige periode, vermeld in artikel 9, eerste lid, van het decreet van 7 juni 2013 en artikel 11, eerste lid.
+...
 
 ### ART 6.
 
-Het agentschap onderzoekt de ontvankelijkheid van de erkenningsaanvraag.<br>
-<br>
-Als de erkenningsaanvraag niet ontvankelijk is, meldt het agentschap dat aan de participatieorganisatie binnen tien werkdagen na de dag van de ontvangst van de erkenningsaanvraag. Na het verstrijken van die termijn wordt de aanvraag geacht ontvankelijk te zijn.
+...
 
 ### ART 7.
 
-Het agentschap beoordeelt de ontvankelijke erkenningsaanvraag en brengt daarover een advies uit aan de minister.<br>
-<br>
-Bij de beoordeling, vermeld in het eerste lid, gaat het agentschap na of de participatieorganisatie voldoet aan de erkenningsvoorwaarden, vermeld in afdeling 1 en in artikel 10, eerste lid, van het decreet van 7 juni 2013. Als dat nodig is, vraagt het agentschap op digitale wijze bijkomende inlichtingen aan de participatieorganisatie. De participatieorganisatie bezorgt die inlichtingen binnen tien werkdagen na de dag van de ontvangst van de vraag om bijkomende inlichtingen op digitale wijze aan het agentschap.
+...
 
 ### ART 8.
 
-De minister neemt een beslissing over de erkenningsaanvraag. Het agentschap bezorgt die beslissing binnen zestig werkdagen na de dag van de ontvangst van de ontvankelijke erkenningsaanvraag op digitale wijze aan de participatieorganisatie.
+...
 
 ### ART 9.
 
-De erkenning is geldig tot de samenwerkingsovereenkomst, vermeld in artikel 9, eerste lid, van het decreet van 7 juni 2013, eindigt.
+...
 
 ### ART 10.
 
-§ 1. Als de erkende participatieorganisatie niet langer voldoet aan een van de erkenningsvoorwaarden, vermeld in afdeling 1 en in artikel 10, eerste lid, van het decreet van 7 juni 2013, of als de werking van de erkende participatieorganisatie ernstige afwijkingen vertoont ten opzichte van de samenwerkingsovereenkomst, vermeld in artikel 9, eerste lid, van het voormelde decreet, maakt het agentschap een verslag op dat op digitale wijze aan de erkende participatieorganisatie wordt bezorgd.<br>
-<br>
-Het agentschap vraagt de erkende participatieorganisatie om zich binnen zestig werkdagen na de dag waarop het verslag is verstuurd, te conformeren aan de erkenningsvoorwaarden, vermeld in het eerste lid, of de werking bij te sturen en het agentschap op digitale wijze te informeren over de genomen maatregelen.<br>
-<br>
-§ 2. Als de erkende participatieorganisatie na verloop van de termijn, vermeld in paragraaf 1, tweede lid, nog altijd niet aan de erkenningsvoorwaarden voldoet of de werking niet bijstuurt, kan de minister beslissen om de erkenning in te trekken.<br>
-<br>
-De minister neemt een beslissing als vermeld in het eerste lid, binnen twintig werkdagen na het verstrijken van de termijn, vermeld in paragraaf 1, tweede lid. Als de minister geen beslissing neemt binnen die termijn, wordt de erkenning behouden.<br>
-<br>
-Het agentschap informeert de participatieorganisatie onverwijld op digitale wijze over de beslissing, vermeld in het tweede lid, of het gebrek daaraan.
+...
 
 ## Afdeling 3. [... (opgeh. BVR 26 juni 2020, art. 21, I: 19 juli 2020)]
 
 ### ART 11.
 
-De vijfjarige periode, vermeld in artikel 9, eerste lid, van het decreet van 7 juni 2013, start op 1 januari van het tweede jaar dat volgt op de verkiezing van het Vlaams Parlement.<br>
-<br>
-Uiterlijk op 15 mei van het jaar dat voorafgaat aan de periode waarop de samenwerkingsovereenkomst, vermeld in artikel 9, eerste lid, van het voormelde decreet, betrekking heeft, dient de erkende participatieorganisatie een meerjarenplan voor een periode van vijf jaar in bij het agentschap. Dat meerjarenplan omvat:<br>
-1° een beschrijving van de strategische en operationele doelstellingen in relatie tot de algemene opdrachten, vermeld in artikel 8, tweede lid, van het voormelde decreet;<br>
-2° een opgave van de beoogde resultaten en bijbehorende indicatoren;<br>
-3° het tijdstip en de wijze waarop de resultaten worden gemeten;<br>
-4° de opgave van de interne organisatiestructuur;<br>
-5° de middelen die nodig worden geacht voor de realisatie van het meerjarenplan.<br>
-<br>
-Bij het meerjarenplan wordt een omgevingsanalyse gevoegd.
+...
 
 ### ART 12.
 
-De minister beslist uiterlijk op 1 september van het jaar dat voorafgaat aan de periode waarop de samenwerkingsovereenkomst betrekking heeft, over de goedkeuring van het meerjarenplan.
+...
 
 ### ART 13.
 
-Op basis van het goedgekeurde meerjarenplan sluiten de Vlaamse Regering en de erkende participatieorganisatie de samenwerkingsovereenkomst uiterlijk op 1 december van het jaar dat voorafgaat aan de periode waarop de samenwerkingsovereenkomst betrekking heeft.
+...
 
 ## HOOFDSTUK 3. [... (opgeh. BVR 17 december 2021, art. 62, I: 1 maart 2022)]
 
