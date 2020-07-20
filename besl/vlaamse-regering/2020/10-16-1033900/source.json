@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033900,
+  "title": "Besluit van de Vlaamse Regering van 2020-10-16 tot wijziging van het besluit van de Vlaamse Regering van 4 maart 2016 over de oprichting van een regionale prioriteitencommissie, de toekenning van prioriteitengroepen, de vaststelling van de maatschappelijke noodzaak, de toeleiding naar ondersteuning, de afstemming en planning in het kader van persoonsvolgende financiering, wat betreft de prioriteringscriteria",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033900/VolledigDocument?datum=2020-07-20",
+  "source_sha256": "01af23b42257e9ef770663d78a623e61b411578ba0239b480e7f9c9e54a30b6f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033900&param=informatie",
+  "as_of": "2020-07-20",
+  "made": "2020-10-16",
+  "gazette": "2020-12-02",
+  "numac": 2020043742,
+  "document_start": "2020-07-20",
+  "document_end": null,
+  "in_force": "2020-07-20",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2020-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
