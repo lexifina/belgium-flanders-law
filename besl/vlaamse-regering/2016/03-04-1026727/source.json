@@ -2,16 +2,16 @@
   "codex_id": 1026727,
   "title": "Besluit van de Vlaamse Regering van 2016-03-04 [...] de toekenning van prioriteitengroepen en de rangschikking binnen prioriteitengroepen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026727/VolledigDocument?datum=2018-08-27",
-  "source_sha256": "f0dbe395229199689ecff911b2c7cdafe0dca93f8ac4d7093da69ff83e43cce8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026727/VolledigDocument?datum=2020-07-20",
+  "source_sha256": "c2c41d0f8e82e6400630b805ccf1cce82083da06fddac56fbe403500270e1fda",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026727&param=informatie",
-  "as_of": "2018-08-27",
+  "as_of": "2020-07-20",
   "made": "2016-03-04",
   "gazette": "2016-04-20",
   "numac": 2016035677,
   "document_start": "2016-04-01",
   "document_end": null,
-  "in_force": "2018-08-27",
+  "in_force": "2020-07-20",
   "article_versions": 63,
-  "record_form": "consolidated version as in force on 2018-08-27; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-20; future article versions excluded; article text as the API gives it"
 }
