@@ -57,4 +57,8 @@ Aan artikel 10, tweede lid, van het besluit van de Vlaamse Regering van 12 janua
 
 ## Hoofdstuk 11. Wijziging van het besluit van de Vlaamse Regering van 16 oktober 2020 over het proefproject Vlaamse toeleidingscommissie
 
+### ART 22.
+
+In artikel 3, §1, van het besluit van de Vlaamse Regering van 16 oktober 2020 over het proefproject Vlaamse toeleidingscommissie wordt het vijfde lid opgeheven.
+
 ## Hoofdstuk 12 Slotbepalingen
