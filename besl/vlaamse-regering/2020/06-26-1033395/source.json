@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033395,
+  "title": "Besluit van de Vlaamse Regering van 2020-06-26 tot herverdeling van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2020",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033395/VolledigDocument?datum=2020-07-24",
+  "source_sha256": "547d48c24944aa7c4856959cf9fd894edc791faef612d4d072ef567a1078e2cf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033395&param=informatie",
+  "as_of": "2020-07-24",
+  "made": "2020-06-26",
+  "gazette": "2020-07-14",
+  "numac": 2020042067,
+  "document_start": "2020-07-24",
+  "document_end": null,
+  "in_force": "2020-07-24",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-07-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
