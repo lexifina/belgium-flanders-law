@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033399,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-10 tot toekenning van een facultatieve subsidie aan de luchthavenexploitatiemaatschappij Antwerpen in het kader van COVID-19 voor het begrotingsjaar 2020",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033399/VolledigDocument?datum=2020-07-25",
+  "source_sha256": "10c4fccb4809fb069ee52f608057211a92e9d9a96d4267ae3a5d0db034caf58c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033399&param=informatie",
+  "as_of": "2020-07-25",
+  "made": "2020-07-10",
+  "gazette": "2020-07-15",
+  "numac": 2020042305,
+  "document_start": "2020-07-25",
+  "document_end": null,
+  "in_force": "2020-07-25",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-07-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
