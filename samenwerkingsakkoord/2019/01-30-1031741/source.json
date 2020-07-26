@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031741,
+  "title": "Samenwerkingsakkoord van 2019-01-30 tussen de Federale Staat, de Gemeenschappen en de Gewesten betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031741/VolledigDocument?datum=2020-07-26",
+  "source_sha256": "1260d632fa8a43ed69d0be6b092e568b7e5f2fdf22c43943e2380c44f439c526",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031741&param=informatie",
+  "as_of": "2020-07-26",
+  "made": "2019-01-30",
+  "gazette": "2020-07-16",
+  "numac": 2020042317,
+  "document_start": "2020-07-26",
+  "document_end": null,
+  "in_force": "2020-07-26",
+  "article_versions": 60,
+  "record_form": "consolidated version as in force on 2020-07-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
