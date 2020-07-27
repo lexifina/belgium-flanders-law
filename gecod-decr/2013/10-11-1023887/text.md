@@ -5708,7 +5708,9 @@ Vanaf het begrotingsjaar 2018 worden de bedragen vermeld in het eerste lid, geï
 <br>
 Vanaf het begrotingsjaar 2025 kan het bedrag voor VOWhbo, vermeld in deze paragraaf, evolueren conform artikel III.6, § 2/1.<br>
 <br>
-Vanaf het begrotingsjaar 2025 wordt het bedrag voor VOWhbo, vermeld in deze paragraaf, geïndexeerd aan de hand van de indexformule, vermeld in paragraaf 9.
+Vanaf het begrotingsjaar 2025 wordt het bedrag voor VOWhbo, vermeld in deze paragraaf, geïndexeerd aan de hand van de indexformule, vermeld in paragraaf 9.<br>
+<br>
+§ 18. In het begrotingsjaar 2020 wordt het bedrag VOWprof, vermeld in of berekend conform dit artikel, vermeerderd met 4.000.000 euro.
 
 ### ART. III.6.
 
@@ -6096,85 +6098,85 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 
 <p>&nbsp;</p>
 
-<table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-image:none; border:1pt outset #222222; mso-border-alt:outset #222222 .75pt; mso-cellspacing:0cm; mso-padding-alt:2.25pt 2.25pt 2.25pt 2.25pt">
 	<tbody>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>studiegebied</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>puntengewicht</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>a) Architectuur</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,40</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>b) Gezondheidszorg</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,60</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>c) Industriële wetenschappen en technologie</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>d) Audiovisuele en beeldende kunst</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,40</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>e) Muziek en podiumkunsten</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>f) Biotechniek</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,40</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>g) Onderwijs</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,60</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>h) Sociaal-agogisch werk</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,40</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>i) Handelswetenschappen en bedrijfskunde</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,00</p>
 			</td>
 		</tr>
@@ -6233,85 +6235,85 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 
 <p>&nbsp;</p>
 
-<table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-image:none; border:1pt outset #222222; mso-border-alt:outset #222222 .75pt; mso-cellspacing:0cm; mso-padding-alt:2.25pt 2.25pt 2.25pt 2.25pt">
 	<tbody>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>studiegebied</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>puntengewicht</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>a) Architectuur</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,40</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>b) Gezondheidszorg</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,60</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>c) Industriële wetenschappen en technologie</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,40</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>d) Biotechniek</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,40</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>e) Productontwikkeling</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,60</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>f) Toegepaste taalkunde</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>g) Handelswetenschappen en bedrijfskunde</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>h) Audiovisuele en beeldende kunst</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>i) Muziek en podiumkunsten</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,00</p>
 			</td>
 		</tr>
@@ -6324,282 +6326,282 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 
 <p>&nbsp;</p>
 
-<table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-image:none; border:1pt outset #222222; mso-border-alt:outset #222222 .75pt; mso-cellspacing:0cm; mso-padding-alt:2.25pt 2.25pt 2.25pt 2.25pt">
 	<tbody>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>studiegebied</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>puntengewicht</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>a) Wijsbegeerte en moraalwetenschappen</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>b) Godgeleerdheid, godsdienstwetenschappen en kerkelijk recht</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>c) Taal- en letterkunde</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>d) Geschiedenis</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>e) Archeologie en kunstwetenschappen</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>f) Rechten, notariaat en criminologische wetenschappen</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>g) Psychologie en pedagogische wetenschappen</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>h) Economische en toegepaste economische wetenschappen</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>i) Politieke en sociale wetenschappen</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>j) Sociale Gezondheidswetenschappen</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>2,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>k) Lichamelijke opvoeding, revalidatiewetenschappen en kinesitherapie</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>2,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>l) Wetenschappen 1 - opleidingen die leiden tot de graad van bachelor</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>2,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>m) Wetenschappen 2 - opleidingen die leiden tot de graad van master</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>3,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>n) Toegepaste wetenschappen 1 - opleidingen die leiden tot de graad van bachelor</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>2,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>o) Toegepaste wetenschappen 2 – opleidingen die leiden tot de graad van master</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>3,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>p) Toegepaste biologische wetenschappen 1 - opleidingen die leiden tot de graad van bachelor</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>2,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>q) Toegepaste biologische wetenschappen 2 - opleidingen die leiden tot de graad van master</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>3,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>r) Geneeskunde 1 - opleidingen die leiden tot de graad van bachelor</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>3,90</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>s) Geneeskunde 2</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>- opleidingen die leiden tot de graad van master in de verpleeg- en vroedkunde</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>2,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>- opleidingen in de huisartsgeneeskunde</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>2,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">- educatieve masteropleidingen voor secundair onderwijs</td>
-			<td style="background-color: transparent;">2,00</td>
+			<td style="background-color:transparent">- educatieve masteropleidingen voor secundair onderwijs</td>
+			<td style="background-color:transparent">2,00</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>- overige opleidingen die leiden tot de graad van master</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>4,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>t) Tandheelkunde 1 - opleidingen die leiden tot de graad van bachelor</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>3,90</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>u) Tandheelkunde 2 - opleidingen die leiden tot de graad van master</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>4,20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>v) Diergeneeskunde 1 - opleidingen die leiden tot de graad van bachelor</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>2,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>w) Diergeneeskunde 2 - opleidingen die leiden tot de graad van master</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>3,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>x) Farmaceutische wetenschappen 1 - opleidingen die leiden tot de graad van bachelor</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>2,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>y) Farmaceutische wetenschappen 2 - opleidingen die leiden tot de graad van master</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>3,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>z) Biomedische wetenschappen 1 - opleidingen die leiden tot de graad van bachelor</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>2,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>aa) Biomedische wetenschappen 2</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">- educatieve masteropleidingen voor secundair onderwijs</td>
-			<td style="background-color: transparent;">2,00</td>
+			<td style="background-color:transparent">- educatieve masteropleidingen voor secundair onderwijs</td>
+			<td style="background-color:transparent">2,00</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">- overige opleidingen die leiden tot de graad van master</td>
-			<td style="background-color: transparent;">3,00</td>
+			<td style="background-color:transparent">- overige opleidingen die leiden tot de graad van master</td>
+			<td style="background-color:transparent">3,00</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>ab) Verkeerskunde</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>2,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>ac) Conservatie-restauratie<br>
 			ad) handelswetenschappen en bedrijfskunde - opleidingen die vanaf het academiejaar 2013-2014 door de Vlaamse Regering conform artikel II.153 erkend zijn als nieuwe opleiding</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>2,00<br>
 			1,00</p>
 			</td>
@@ -6613,250 +6615,250 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 
 <p>&nbsp;</p>
 
-<table class="MsoNormalTable" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-border-insideh:.5pt solid windowtext; mso-border-insidev:.5pt solid windowtext; mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
 	<tbody>
 		<tr>
-			<td style="height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; height:12.3pt">
 			<p>begrotingsjaar/ studiegebied</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>2014</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>2015</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>2016</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>2017</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>2018</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>2019</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>2020</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>2021</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>2022</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>vanaf 2023</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:6.05pt">
 			<p>a) Architectuur</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,46</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,52</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,58</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,64</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,70</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,76</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,82</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,88</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,94</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>2,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; height: 18.55pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:18.55pt">
 			<p>b) Industriële wetenschappen en technologie</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:18.55pt">
 			<p>1,46</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:18.55pt">
 			<p>1,52</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:18.55pt">
 			<p>1,58</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:18.55pt">
 			<p>1,64</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:18.55pt">
 			<p>1,70</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:18.55pt">
 			<p>1,76</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:18.55pt">
 			<p>1,82</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:18.55pt">
 			<p>1,88</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:18.55pt">
 			<p>1,94</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:18.55pt">
 			<p>2,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:6.05pt">
 			<p>c) Biotechniek</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,46</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,52</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,58</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,64</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,70</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,76</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,82</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,88</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>1,94</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.05pt">
 			<p>2,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:12.3pt">
 			<p>d) Product-ontwikkeling</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,64</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,68</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,72</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,76</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,80</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,84</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,88</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,92</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,96</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>2,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:12.3pt">
 			<p>e) Toegepaste taalkunde</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,18</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,16</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,14</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,12</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,10</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,08</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,06</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,04</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,02</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:12.3pt">
 			<p>1,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; height: 24.8pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:24.8pt">
 			<p>f) Handelsweten-schappen en bedrijfskunde</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:24.8pt">
 			<p>1,09</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:24.8pt">
 			<p>1,08</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:24.8pt">
 			<p>1,07</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:24.8pt">
 			<p>1,06</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:24.8pt">
 			<p>1,05</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:24.8pt">
 			<p>1,04</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:24.8pt">
 			<p>1,03</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:24.8pt">
 			<p>1,02</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:24.8pt">
 			<p>1,01</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:24.8pt">
 			<p>1,00</p>
 			</td>
 		</tr>
@@ -6865,11 +6867,14 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 
 <p>&nbsp;</p>
 
-<p>5°&nbsp;&nbsp; Vanaf het begrotingsjaar 2014 wordt aan iedere universiteit die met ingang van het academiejaar 2013-2014 academische hogeschoolopleidingen integreert, een bijkomende opstartfinanciering toegekend van 200.000 euro. Dit bedrag wordt jaarlijks afgebouwd met 10% van het initiële bedrag. Het saldo wordt vanaf het begrotingsjaar 2015 voor 55% toegevoegd aan het variabele onderwijsdeel VOWun2014 en voor 45% aan het variabele onderzoeksdeel VOZun2014. Dit bedrag wordt jaarlijks geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.</p>
-
-<p>&nbsp;§ 1/1. In het begrotingsjaar 2014 bedraagt het puntengewicht voor de doctoraten in het studiegebied Nautische wetenschappen 3.<br>
-Voor de berekening van het variabele onderzoeksdeel, vermeld in artikel III.22, worden met ingang van het begrotingsjaar 2015 voor de weging van het aantal doctoraatsdiploma's de volgende puntengewichten gebruikt:</p>
+<p>5°&nbsp;&nbsp; Vanaf het begrotingsjaar 2014 wordt aan iedere universiteit die met ingang van het academiejaar 2013-2014 academische hogeschoolopleidingen integreert, een bijkomende opstartfinanciering toegekend van 200.000 euro. Dit bedrag wordt jaarlijks afgebouwd met 10% van het initiële bedrag. Het saldo wordt vanaf het begrotingsjaar 2015 voor 55% toegevoegd aan het variabele onderwijsdeel VOWun2014 en voor 45% aan het variabele onderzoeksdeel VOZun2014. Dit bedrag wordt jaarlijks geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.<br>
 <br>
+6° In afwijking van punt 1°, c), bedraagt voor het begrotingsjaar 2020 het puntengewicht voor het studiegebied Industriële Wetenschappen en Technologie 1,25. In afwijking van punt 1°, i), bedraagt voor het begrotingsjaar 2020 het puntengewicht voor het studiegebied Handelswetenschappen en Bedrijfskunde 1,01.<br>
+<br>
+§ 1/1. In het begrotingsjaar 2014 bedraagt het puntengewicht voor de doctoraten in het studiegebied Nautische wetenschappen 3.<br>
+Voor de berekening van het variabele onderzoeksdeel, vermeld in artikel III.22, worden met ingang van het begrotingsjaar 2015 voor de weging van het aantal doctoraatsdiploma's de volgende puntengewichten gebruikt:</p>
+&nbsp;
+
 <table border="1">
 	<tbody>
 		<tr>
@@ -7719,6 +7724,12 @@ De subsidie, vermeld in het eerste lid, geldt als bijdrage in de personeels- en 
 <br>
 De Katholieke Universiteit Leuven bezorgt jaarlijks tegen 15 januari aan de bevoegde dienst van de Vlaamse overheid een activiteitenverslag van de periode waarop de subsidie betrekking heeft en een gedetailleerde verantwoording van de kosten.
 
+### ART III.40/3.
+
+In het begrotingsjaar 2020 ontvangen de instellingen die opleidingen binnen het studiegebied Handelswetenschappen en Bedrijfskunde aanbieden een bedrag van 200.000 euro als stimulans voor het versterken van de technologische component van deze opleidingen.<br>
+<br>
+De subsidie, vermeld in het eerste lid, geldt als bijdrage in de personeels- en werkingskosten die worden gemaakt in het kader van deze uitbouw. De middelen worden verdeeld over de betrokken instellingen op basis van het aantal gegenereerde financieringspunten in dit studiegebied in de academiejaren 2013-2014 tot en met 2017-2018.
+
 ### ART. III.41.
 
 <p>§1. Vanaf het begrotingsjaar 2012 wordt in een bijkomende financiering voorzien voor de hogeronderwijsinstellingen die een vestigingsplaats hebben in het tweetalige gebied Brussel-Hoofdstad en er initiële bachelor- of masteropleidingen organiseren. Die bijkomende financiering bedraagt (uitgedrukt in miljoen euro):</p>
@@ -8315,7 +8326,11 @@ Het bedrag, vermeld in het eerste lid, op prijsniveau 2019, wordt jaarlijks aang
 <br>
 § 9. Vanaf het begrotingsjaar 2019 wordt een bedrag van 1.000.000 euro voor 60 % toegevoegd aan de enveloppe voor de gesubsidieerde vrije hogescholen en voor 40 % aan de enveloppe van de publiekrechtelijke hogescholen, vermeld in paragraaf 2, 2° , van dit artikel.<br>
 <br>
-Het bedrag, vermeld in het eerste lid, op prijsniveau 2019, wordt jaarlijks aangepast overeenkomstig paragraaf 5 van dit artikel.
+Het bedrag, vermeld in het eerste lid, op prijsniveau 2019, wordt jaarlijks aangepast overeenkomstig paragraaf 5 van dit artikel.<br>
+<br>
+§ 10. Vanaf het begrotingsjaar 2020 wordt een bedrag van 797.000 euro voor 60% toegevoegd aan de enveloppe voor de gesubsidieerde vrije hogescholen en voor 40% aan de enveloppe van de publiekrechtelijke hogescholen, vermeld in paragraaf 2, 2°, van dit artikel.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, op prijsniveau 2020, wordt jaarlijks aangepast overeenkomstig paragraaf 5 van dit artikel.
 
 ### ART. III.46/1.
 
@@ -8339,7 +8354,7 @@ Het bedrag, vermeld in het eerste lid, op prijsniveau 2019, wordt jaarlijks aang
 
 ### ART. III.50.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§ 1. Naast de werkingsuitkeringen   ontvangen de publiekrechtelijke hogescholen vanaf het begrotingsjaar 2014 tot en   met het begrotingsjaar 2018 het volgende bedrag voor het   eigenaarsonderhoud:<BR>1° Erasmushogeschool Brussel: 173.825 euro;<BR>2°   Hogeschool West-Vlaanderen: 104.621 euro;<BR>3° Hogeschool Gent: 347.201   euro;<BR>4° Artesis Plantijn Hogeschool Antwerpen: 202.481 euro;<BR>5°   Hogeschool PXL: 52.872 euro.<BR><BR></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. Vanaf het begrotingsjaar 2012   wordt met uitzondering van de begrotingsjaren 2014 en 2015 dit bedrag   geïndexeerd volgens de gezondheidsindex.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§3. Indien een beroep wordt   gedaan op de waarborg van de Vlaamse Gemeenschap kan deze zich laten   terugbetalen met behulp van de volgende verrichtingen, in de volgorde waarin zij   zijn aangegeven:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>1°&nbsp;&nbsp; afhouding op de werkingsuitkering   verschuldigd aan de hogeschool die in het gebouw is gehuisvest;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>2°&nbsp;&nbsp; afhouding op de dotatie toegekend aan   andere onderwijsinstellingen die door dezelfde inrichtende macht zijn   georganiseerd;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>3°&nbsp;&nbsp; invordering door het bestuur van   Registratie en Domeinen van het Ministerie van Financiën op het patrimonium van   de inrichtende macht.</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>&nbsp;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>§ 4. De bedragen voor het eigenaarsonderhoud, berekend   overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 10 %   verminderd.</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>&nbsp;</P>
+<p style="margin-left:18pt; margin-right:0cm">...</p>
 
 ## Afdeling 5 Financiering van de investeringen van de universiteiten
 
