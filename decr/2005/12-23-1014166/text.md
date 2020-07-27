@@ -114,9 +114,10 @@ De waarborgen die op grond van het decreet van 15 april 1997 tot regeling van de
 <br>
 Het fonds wordt eveneens gespijsd door de niet-geïnde studiefinanciering, schooltoelagen of studietoelagen.<br>
 <br>
-§ 4. Het fonds wordt aangewend voor de betaling van school- en studietoelagen aan leerlingen en studenten overeenkomstig het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap.<br>
-<br>
-Het fonds wordt eveneens aangewend voor de kosten die voortvloeien uit gedwongen invordering van terugvorderingen ter uitvoering van artikel 62 van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap.
+§ 4. Het fonds wordt aangewend voor:<br>
+1° de betaling van school- en studietoelagen aan leerlingen en studenten, overeenkomstig het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap;<br>
+2° de kosten die voortvloeien uit de gedwongen invordering van terugvorderingen ter uitvoering van artikel 62 van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap;<br>
+3° de betaling van andere uitgaven met betrekking tot de organisatie van de studiefinanciering.
 
 ## HOOFDSTUK XIII Universiteiten
 
