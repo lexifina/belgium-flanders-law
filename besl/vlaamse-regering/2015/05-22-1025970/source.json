@@ -2,16 +2,16 @@
   "codex_id": 1025970,
   "title": "Besluit van de Vlaamse Regering van 2015-05-22 tot erkenning van de beroepskwalificatie werkvoorbereider hout",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025970/VolledigDocument?datum=2015-10-10",
-  "source_sha256": "e1550d3125afade24dda0dbba5bd0bb18c829e268bacc7f0958ddda2805d2dd3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025970/VolledigDocument?datum=2020-07-27",
+  "source_sha256": "efd1dd7f20d641c2e0aa3de0bdb4d5661a95c789136fcea15d4582f2b91d5131",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025970&param=informatie",
-  "as_of": "2015-10-10",
+  "as_of": "2020-07-27",
   "made": "2015-05-22",
   "gazette": "2015-09-30",
   "numac": 2015035924,
   "document_start": "2015-10-10",
   "document_end": null,
-  "in_force": "2015-10-10",
+  "in_force": "2020-07-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2015-10-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-27; future article versions excluded; article text as the API gives it"
 }
