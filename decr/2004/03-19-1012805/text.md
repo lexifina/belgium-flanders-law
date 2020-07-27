@@ -28,7 +28,7 @@ Alle officiële akten, aankondigingen of andere stukken, uitgaande van Toerisme 
 
 ### ART. 4.
 
-Toerisme Vlaanderen heeft als missie het toerisme, de toeristische recreatie en de vrijetijdsbesteding in het kader van het toerisme te bevorderen. Daartoe zal Toerisme Vlaanderen inzonderheid instaan voor de bevordering van de professionalisering van de toeristische sector en voor de ondersteuning van de ontwikkeling van het toeristisch productaanbod, alsmede voor de coördinatie van deze ondersteuning.
+Toerisme Vlaanderen heeft als missie het verhogen van de aantrekkelijkheid van Vlaanderen als bestemming, en het bevorderen van het toerisme, de toeristische recreatie en de vrijetijdsbesteding in het kader van het toerisme. Daartoe zal Toerisme Vlaanderen inzonderheid instaan voor de bevordering van de professionalisering van de toeristische sector en voor de ondersteuning van de ontwikkeling van het toeristisch productaanbod, alsmede voor de coördinatie van deze ondersteuning, de uitbouw en coördinatie van het Vlaams topevenementenbeleid.
 
 ### ART. 5.
 
@@ -58,7 +58,11 @@ c) de opvolging van het Europese en internationaal toeristisch beleid in zoverre
 d) de verwezenlijking van het toeristisch beleid inzake alle opdrachten, binnen de door de Vlaamse regering uitgetekende beleidslijnen;<br>
 e) het opstarten van de virtuele loketfunctie;<br>
 f) de bevordering, de coordinatie en het aanbieden van nieuwe communicatietechnieken aan de toeristische sector en het publiek;<br>
-g) het aangaan van strategische allianties.<br>
+g) het aangaan van strategische allianties;<br>
+5° taken inzake het Vlaams topevenementenbeleid:<br>
+a) het coördineren en het administratief en inhoudelijk ondersteunen van de cel EventFlanders;<br>
+b) het participeren in en het voorzitten van het aansturingscomité voor EventFlanders;<br>
+c) het financieel ondersteunen van Vlaamse topevenementen.<br>
 <br>
 § 2. De Vlaamse regering kan nadere regels uitvaardigen betreffende de in artikel 5, § 1, vermelde aangelegenheden. In deze regels kunnen de taken van het agentschap verder worden gepreciseerd en geconcretiseerd.<br>
 <br>
