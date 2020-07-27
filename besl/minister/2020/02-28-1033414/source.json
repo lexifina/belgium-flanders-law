@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033414,
+  "title": "Ministerieel besluit van 2020-02-28 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 29 november 2013 tot erkenning van de beroepskwalificatie operator snijafdeling kleding, confectie en meubelstoffering",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033414/VolledigDocument?datum=2020-07-27",
+  "source_sha256": "98a736ae7d83e4bd6156d0e8f979e082219132fa786798db2623e20ffe127400",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033414&param=informatie",
+  "as_of": "2020-07-27",
+  "made": "2020-02-28",
+  "gazette": "2020-07-17",
+  "numac": 2020021257,
+  "document_start": "2020-07-27",
+  "document_end": null,
+  "in_force": "2020-07-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-07-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
