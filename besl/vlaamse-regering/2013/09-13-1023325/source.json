@@ -2,16 +2,16 @@
   "codex_id": 1023325,
   "title": "Besluit van de Vlaamse Regering van 2013-09-13 tot erkenning van de beroepskwalificatie meubelmaker-interieurelementen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023325/VolledigDocument?datum=2013-10-31",
-  "source_sha256": "30d755c543d034544042594131f36ee3f5939c115ad4882aecc91d908e818a33",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023325/VolledigDocument?datum=2020-07-27",
+  "source_sha256": "7275bed8020f0a37c24ef377d8e9f814eb921e250b325c038056b0e65653d247",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023325&param=informatie",
-  "as_of": "2013-10-31",
+  "as_of": "2020-07-27",
   "made": "2013-09-13",
   "gazette": "2013-10-21",
   "numac": 2013035968,
   "document_start": "2013-10-31",
   "document_end": null,
-  "in_force": "2013-10-31",
+  "in_force": "2020-07-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-27; future article versions excluded; article text as the API gives it"
 }
