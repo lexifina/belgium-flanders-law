@@ -2,16 +2,16 @@
   "codex_id": 1023788,
   "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie operator productielijn kleding, confectie en meubelstoffering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023788/VolledigDocument?datum=2014-02-16",
-  "source_sha256": "e1237d0c68c95a6240fa9821d509c95f4a9cc71e232bb351ec017fdbe431f8df",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023788/VolledigDocument?datum=2020-07-27",
+  "source_sha256": "81b62b549cf9fcfb5d998c1465e6236d6a195df088072e8fd25ff8d7d7770726",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023788&param=informatie",
-  "as_of": "2014-02-16",
+  "as_of": "2020-07-27",
   "made": "2013-11-29",
   "gazette": "2014-02-06",
   "numac": 2014035117,
   "document_start": "2014-02-16",
   "document_end": null,
-  "in_force": "2014-02-16",
+  "in_force": "2020-07-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-02-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-27; future article versions excluded; article text as the API gives it"
 }
