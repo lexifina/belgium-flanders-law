@@ -20,4 +20,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/07/06_1.pdf#page=369">Bijlage</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/17_1.pdf#page=426">Bijlage</a>

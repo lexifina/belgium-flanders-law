@@ -2,16 +2,16 @@
   "codex_id": 1029504,
   "title": "Besluit van de Vlaamse Regering van 2018-04-27 tot erkenning van de beroepskwalificatie vastgoed assistent",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029504/VolledigDocument?datum=2018-07-16",
-  "source_sha256": "9135ea882b2553f1e384189b240923d1367ac2027c2895dc7e84815fc629f97b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029504/VolledigDocument?datum=2020-07-27",
+  "source_sha256": "ee2567ba357ca06a595b8872683d99bf3434a866c8908f0bf35051fdfaeb0b80",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029504&param=informatie",
-  "as_of": "2018-07-16",
+  "as_of": "2020-07-27",
   "made": "2018-04-27",
   "gazette": "2018-07-06",
   "numac": 2018012914,
   "document_start": "2018-07-16",
   "document_end": null,
-  "in_force": "2018-07-16",
+  "in_force": "2020-07-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-27; future article versions excluded; article text as the API gives it"
 }
