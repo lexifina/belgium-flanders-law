@@ -2,16 +2,16 @@
   "codex_id": 1022957,
   "title": "Besluit van de Vlaamse Regering van 2013-03-29 tot erkenning van de beroepskwalificatie productieoperator Textielproductielijn",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022957/VolledigDocument?datum=2013-06-16",
-  "source_sha256": "381a39efc7c08d81c533999759795e39865da0c162b0fa2691137290eb816dca",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022957/VolledigDocument?datum=2020-07-27",
+  "source_sha256": "7e9688e08633d04819b7e577a3cc9dfcf4a148c7f0b3db52dddedc506ac8a01e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022957&param=informatie",
-  "as_of": "2013-06-16",
+  "as_of": "2020-07-27",
   "made": "2013-03-29",
   "gazette": "2013-06-06",
   "numac": 2013035492,
   "document_start": "2013-06-16",
   "document_end": null,
-  "in_force": "2013-06-16",
+  "in_force": "2020-07-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-06-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-27; future article versions excluded; article text as the API gives it"
 }
