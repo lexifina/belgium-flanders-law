@@ -131,7 +131,8 @@ In afwijking van het eerste lid draagt het begrotingsfonds met ingang van 1 juli
 2° de inschrijvingsgelden van de examencommissie Secundair Onderwijs zoals vermeld in de Codex Secundair Onderwijs, hoofdstuk 3, Examencommissie van de Vlaamse Gemeenschap voor het secundair onderwijs, bestaande uit de artikelen 256/1 tot en met 256/10;<br>
 3° de financiële bijdragen m.b.t. de erkenning van de gelijkwaardigheid en de niveaugelijkwaardigheid van buitenlandse studiebewijzen zoals vermeld in artikel 57ter van het decreet basisonderwijs van 25 februari 1997, in artikel 115/3 van de codex Secundair Onderwijs, in artikelen 74ter en 84ter van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, in artikel 41ter van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs en in artikel II.256 van de Codex Hoger Onderwijs;<br>
 4° de inschrijvingsgelden van de Centrale Examencommissie zoals bedoeld in het koninklijk besluit van 13 februari 2007 betreffende de examens over de ondernemersvaardigheden en het koninklijk besluit van 21 oktober 1998 tot uitvoering van hoofdstuk I van titel II van de programmawet van 10 februari 1998 tot bevordering van het zelfstandig ondernemerschap;<br>
-5° de vergoedingen voor het afleveren van duplicaten van diploma's, certificaten en getuigschriften door de Examencommissie Secundair Onderwijs en NARIC Vlaanderen.<br>
+5° de vergoedingen voor het afleveren van duplicaten van diploma's, certificaten en getuigschriften door de Examencommissie Secundair Onderwijs en NARIC Vlaanderen;<br>
+6° terugstortingen van uitgaven en diverse ontvangsten gedaan in het kader van de dienstverlening van AHOVOKS.<br>
 <br>
 § 4. Het fonds wordt aangewend voor de organisatie van :<br>
 1° het toelatingsexamen Arts en Tandarts;<br>
