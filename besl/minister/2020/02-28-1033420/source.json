@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033420,
+  "title": "Ministerieel besluit van 2020-02-28 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 5 december 2014 tot erkenning van de beroepskwalificatie wild- en gevogelteslager",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033420/VolledigDocument?datum=2020-07-27",
+  "source_sha256": "cd7d8da210d628f394ea56c79ed99d5825a82fba4c27508f3cd24100c70701cf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033420&param=informatie",
+  "as_of": "2020-07-27",
+  "made": "2020-02-28",
+  "gazette": "2020-07-17",
+  "numac": 2020021206,
+  "document_start": "2020-07-27",
+  "document_end": null,
+  "in_force": "2020-07-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-07-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
