@@ -2,16 +2,16 @@
   "codex_id": 1027513,
   "title": "Besluit van de Vlaamse Regering van 2016-07-08 tot erkenning van de beroepskwalificatie operator digitaal drukken in de printmedia/in de papier- en kartonverwerking (digital print operator)",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027513/VolledigDocument?datum=2016-10-31",
-  "source_sha256": "39a21f42c674fc56ccc4bd03598bba8bc5ab7a19d4146048e6b52e2f0a4a9db4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027513/VolledigDocument?datum=2020-07-27",
+  "source_sha256": "1536cda7e6b94af7bf8d74e63a53bd919a9ab963aabf45ebf5fd23898eb9135f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027513&param=informatie",
-  "as_of": "2016-10-31",
+  "as_of": "2020-07-27",
   "made": "2016-07-08",
   "gazette": "2016-10-21",
   "numac": 2016036392,
   "document_start": "2016-10-31",
   "document_end": null,
-  "in_force": "2016-10-31",
+  "in_force": "2020-07-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-27; future article versions excluded; article text as the API gives it"
 }
