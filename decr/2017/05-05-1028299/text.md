@@ -109,7 +109,7 @@ Indien de voorziene middelen in een begrotingsjaar hoger zijn dan het minimale b
 
 ### ART 11.
 
-De Vlaamse Regering bepaalt de procedure en de termijnen voor de subsidieaanvraag en de behandeling ervan. De subsidieaanvragen worden jaarlijks ingediend.
+De Vlaamse Regering bepaalt de procedure en de termijnen voor de subsidieaanvraag en de behandeling ervan. De subsidieaanvragen worden&nbsp;maximaal twee keer per jaar ingediend.&nbsp;De Vlaamse Regering kan beslissen om een tweede indienmoment te organiseren indien het begrotingskrediet voor de subsidiëring van bovenlokale sportinfrastructuur minstens 10.000.000 euro (10 miljoen euro) bedraagt. In dat geval wordt per indienmoment minstens het minimale begrotingskrediet voor de subsidiëring van bovenlokale sportinfrastructuur van 5.000.000 euro (vijf miljoen euro), vermeld in artikel 3, vierde lid, voorzien.
 
 ### ART 12.
 
