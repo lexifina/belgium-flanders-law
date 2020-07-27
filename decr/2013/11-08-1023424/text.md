@@ -44,7 +44,16 @@ Om als organisatie voor de coördinatie en de tewerkstelling van een pool   van 
 
 ### ART. 8.
 
-<P>De Vlaamse Regering voorziet in een subsidie van 950.000 euro per jaar voor   de coördinatie en de tewerkstelling van een pool van sportbegeleiders en   sportondersteuners.<BR></P>  <P>Het subsidiebedrag wordt verhoogd : <BR>1° in voorkomend geval, vanaf de   subsidiëring van de organisatie, vermeld in artikel 7, § 1, met het budget dat   werd toegekend aan die organisatie, als initiatief in de sportsector in het jaar   dat aan de subsidiëring van de organisatie voorafgaat;<BR>2° in 2014 en vanaf   2015 met de budgetten die respectievelijk vrijkomen in 2014 en vanaf 2015 door   de stopzetting van de subsidiëring aan de initiatieven in de sportsector, andere   dan de organisatie, vermeld in punt 1°, met toepassing van artikel 1 van het   besluit van de Vlaamse Regering van 5 oktober 2012 houdende beëindiging van de   subsidiëring van loonkosten aan bepaalde initiatieven in de sportsector, die   werknemers tewerkstellen in een gewezen DAC- statuut;<BR>3° vanaf de beëindiging   van de subsidiëring van de loonkosten van een werknemer met verworven rechten   bij zijn uitdiensttreding, pensionering of overlijden, met een bedrag per   vte.<BR></P>  <P>Voor de toepassing van het eerste lid, 3°, bepaalt de Vlaamse Regering een   minimaal bedrag per vte.<BR></P>  <P>De middelen die met toepassing van het eerste lid, 1°, 2° en 3°, worden   toegekend, kunnen uitsluitend worden aangewend voor   tewerkstelling.<BR></P>
+<p>De Vlaamse Regering voorziet in een subsidie van 950.000 euro per jaar voor de coördinatie en de tewerkstelling van een pool van sportbegeleiders en sportondersteuners.</p>
+
+<p>Het subsidiebedrag wordt verhoogd :<br>
+1° in voorkomend geval, vanaf de subsidiëring van de organisatie, vermeld in artikel 7, § 1, met het budget dat werd toegekend aan die organisatie, als initiatief in de sportsector in het jaar dat aan de subsidiëring van de organisatie voorafgaat;<br>
+2° in 2014 en vanaf 2015 met de budgetten die respectievelijk vrijkomen in 2014 en vanaf 2015 door de stopzetting van de subsidiëring aan de initiatieven in de sportsector, andere dan de organisatie, vermeld in punt 1°, met toepassing van artikel 1 van het besluit van de Vlaamse Regering van 5 oktober 2012 houdende beëindiging van de subsidiëring van loonkosten aan bepaalde initiatieven in de sportsector, die werknemers tewerkstellen in een gewezen DAC- statuut;<br>
+3° vanaf de beëindiging van de subsidiëring van de loonkosten van een werknemer met verworven rechten bij zijn uitdiensttreding, pensionering of overlijden, uiterlijk op 31 mei 2020 met een bedrag per vte.</p>
+
+<p>Voor de toepassing van het eerste lid, 3°, bepaalt de Vlaamse Regering een minimaal bedrag per vte.</p>
+
+<p>De middelen die met toepassing van het eerste lid, 1°, 2° en 3°, worden toegekend, kunnen uitsluitend worden aangewend voor tewerkstelling.</p>
 
 ### ART. 9.
 

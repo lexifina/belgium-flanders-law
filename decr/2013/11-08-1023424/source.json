@@ -2,16 +2,16 @@
   "codex_id": 1023424,
   "title": "Decreet van 2013-11-08 houdende het stimuleren, het coördineren en het subsidiëren van de tewerkstelling in de sportsector",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023424/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "9c7830d413e3da9909647ed6e4ec94c1c63176dbdaf0748ad498449c96e42baa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023424/VolledigDocument?datum=2020-07-27",
+  "source_sha256": "2ee4f11dbc5a1ff448da86727a35de9ff107331ff8165161ade8ec44fb9e6c09",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023424&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2020-07-27",
   "made": "2013-11-08",
   "gazette": "2013-12-04",
   "numac": 2013206603,
   "document_start": "2014-01-01",
   "document_end": null,
-  "in_force": "2016-01-01",
+  "in_force": "2020-07-27",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-27; future article versions excluded; article text as the API gives it"
 }
