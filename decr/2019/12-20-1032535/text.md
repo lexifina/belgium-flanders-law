@@ -178,18 +178,19 @@ Vanaf 2020 kent de Vlaamse Regering aan de Vlaamse gemeenten, OCMW's, autonome g
 <br>
 De dotatie houdt geen rekening met de korting die de besturen kunnen krijgen op de responsabiliseringsbijdrage door de verschuldigde premie voor een aanvullende pensioenregeling voor hun contractueel personeel in mindering te brengen.<br>
 <br>
-Voor de percentages van de wettelijke basisbijdrage en voor de responsabiliseringscoëfficiënt wordt uitgegaan van de percentages waarop de ramingen van de responsabiliseringsbijdragen van de Federale Pensioendienst van mei 2019 gebaseerd zijn.<br>
-<br>
-Wijzigingen aan de percentages voor de wettelijke basisbijdrage of aan de responsabiliseringscoëfficiënt worden enkel in rekening gebracht als ze een daling van de responsabiliseringsbijdrage van dat bestuur tot gevolg hebben.
+Voor de percentages van de wettelijke basisbijdrage en voor de responsabiliseringscoëfficiënt wordt uitgegaan van de percentages waarop de ramingen van de responsabiliseringsbijdragen door de Federale Pensioendienst van mei 2019 gebaseerd zijn. Wijzigingen aan die percentages worden enkel in rekening gebracht als ze een daling van de responsabiliseringsbijdrage van dat bestuur tot gevolg hebben.
 
 ### ART 27.
 
-Voor het jaar 2020 wordt de dotatie voor elk bestuur vastgesteld op basis van de ramingen van de responsabiliseringsbijdrage van de Federale Pensioendienst van mei 2019.<br>
-Vanaf 2021 stelt de Vlaamse Regering de dotatie, vermeld in artikel 26, voor elk bestuur vast op basis van de ramingen van de responsabiliseringsbijdragen van de Federale Pensioendienst die op 31 oktober van elk jaar beschikbaar zijn. Dit bedrag wordt gecorrigeerd met het verschil tussen de toegekende dotatie voor het voorgaande jaar en effectieve dotatie waar het bestuur recht op had na het definitief worden van de cijfers.
+Vanaf 2020 stelt de Vlaamse Regering de dotatie, vermeld in artikel 26, voor elk bestuur vast op basis van de meest recente ramingen van de responsabiliseringsbijdragen die de Federale Pensioendienst haar op 30 september van het betrokken begrotingsjaar ter beschikking stelt. Vanaf 2021 wordt die dotatie gecorrigeerd met het verschil tussen de toegekende dotatie voor het voorgaande jaar en de effectieve dotatie waarop het bestuur recht had na het definitief worden van de responsabiliseringsbijdrage.<br>
+<br>
+Als de correctie, vermeld in het eerste lid, leidt tot een negatief bedrag, kan de Vlaamse Regering dat bedrag van het bestuur terugvorderen.​​​​​​​
 
 ### ART 28.
 
-De vastgestelde bedragen worden aan de besturen volledig betaald op de eerste werkdag van de maand december van elk jaar.
+De vastgestelde bedragen worden aan de besturen volledig betaald op de eerste werkdag van de maand december van elk jaar.<br>
+<br>
+Als het begrotingskrediet voor een bepaald jaar ontoereikend is, worden de dotaties aan de besturen pro rata het beschikbare begrotingskrediet betaald op de eerste werkdag van de maand december van dat jaar. Het nog te betalen saldo voor dat jaar wordt toegevoegd aan het begrotingskrediet van het volgende jaar en betaald binnen de twee maanden nadat daarvoor het nodige krediet op de begroting werd ingeschreven.
 
 ## Afdeling 3. Invordering van provincie- en gemeentebelastingen
 

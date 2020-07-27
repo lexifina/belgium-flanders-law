@@ -2,16 +2,16 @@
   "codex_id": 1032535,
   "title": "Decreet van 2019-12-20 programmadecreet bij de begroting 2020",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032535/VolledigDocument?datum=2020-07-01",
-  "source_sha256": "4d31ac19a491ffee548ad488819563d9891532fbcd6abd191a73dedc0866b7b5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032535/VolledigDocument?datum=2020-07-27",
+  "source_sha256": "a95d0ca7bb5bf517ce754d07888f8f40b4b6ce6b8c745338273ecd79a9355077",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032535&param=informatie",
-  "as_of": "2020-07-01",
+  "as_of": "2020-07-27",
   "made": "2019-12-20",
   "gazette": "2019-12-30",
   "numac": 2019015896,
   "document_start": "2020-01-01",
   "document_end": null,
-  "in_force": "2020-07-01",
+  "in_force": "2020-07-27",
   "article_versions": 79,
-  "record_form": "consolidated version as in force on 2020-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-27; future article versions excluded; article text as the API gives it"
 }
