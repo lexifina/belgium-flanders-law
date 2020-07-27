@@ -2,16 +2,16 @@
   "codex_id": 1029336,
   "title": "Besluit van de Vlaamse Regering van 2018-01-26 tot erkenning van de beroepskwalificatie werfleider - wegenbouw",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029336/VolledigDocument?datum=2018-06-11",
-  "source_sha256": "b10a9e4541dbbbb2a4c32db68e133c9fcf70dc5817b8672581b5217724c6c035",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029336/VolledigDocument?datum=2020-07-27",
+  "source_sha256": "ee20bf982a87764b8744f4ac8378da833e31d9be67a888577bab0336c2c3f57c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029336&param=informatie",
-  "as_of": "2018-06-11",
+  "as_of": "2020-07-27",
   "made": "2018-01-26",
   "gazette": "2018-06-01",
   "numac": 2018031058,
   "document_start": "2018-06-11",
   "document_end": null,
-  "in_force": "2018-06-11",
+  "in_force": "2020-07-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-27; future article versions excluded; article text as the API gives it"
 }
