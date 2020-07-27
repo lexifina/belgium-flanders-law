@@ -2,16 +2,16 @@
   "codex_id": 1027518,
   "title": "Besluit van de Vlaamse Regering van 2016-07-08 tot erkenning van de beroepskwalificatie zorgkundige",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027518/VolledigDocument?datum=2016-10-31",
-  "source_sha256": "c657484beae7e5da3f95fb23b176577bb661bb696ca659696ece15cc2b0d4236",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027518/VolledigDocument?datum=2020-07-27",
+  "source_sha256": "b967b8429f909c0e56fcfbf8f2e10e58a7a44c8f594bfa83a5c2267612f5c9c8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027518&param=informatie",
-  "as_of": "2016-10-31",
+  "as_of": "2020-07-27",
   "made": "2016-07-08",
   "gazette": "2016-10-21",
   "numac": 2016036351,
   "document_start": "2016-10-31",
   "document_end": null,
-  "in_force": "2016-10-31",
+  "in_force": "2020-07-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-27; future article versions excluded; article text as the API gives it"
 }
