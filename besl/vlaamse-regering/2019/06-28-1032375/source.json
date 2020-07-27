@@ -2,16 +2,16 @@
   "codex_id": 1032375,
   "title": "Besluit van de Vlaamse Regering van 2019-06-28 tot erkenning van de beroepskwalificatie winkelverkoper",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032375/VolledigDocument?datum=2019-10-28",
-  "source_sha256": "3eddd0154f69a87e5dd49e143edc4148924cfa5f0d8d50fa11ff7ac90179c19c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032375/VolledigDocument?datum=2020-07-27",
+  "source_sha256": "0dcd35758afdaafef9a30bf1f4ab6920886bbde2c48fd666210d84ef215d856a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032375&param=informatie",
-  "as_of": "2019-10-28",
+  "as_of": "2020-07-27",
   "made": "2019-06-28",
   "gazette": "2019-10-18",
   "numac": 2019042121,
   "document_start": "2019-10-28",
   "document_end": null,
-  "in_force": "2019-10-28",
+  "in_force": "2020-07-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-10-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-07-27; future article versions excluded; article text as the API gives it"
 }

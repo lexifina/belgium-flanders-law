@@ -26,4 +26,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/10/18_2.pdf#page=688">Beschrijving van de&nbsp;beroepskwalificatie van winkelverkoper</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/17_1.pdf#page=494">Bijlage</a>
