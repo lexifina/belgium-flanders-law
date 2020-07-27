@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033413,
+  "title": "Ministerieel besluit van 2020-02-28 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 13 september 2013 tot erkenning van de beroepskwalificatie werkplaatsbinnenschrijnwerker",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033413/VolledigDocument?datum=2020-07-27",
+  "source_sha256": "d5cb8e6aad4d913bdd9d57e2cf2f63593c78d556085b40501edad5290c8c6149",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033413&param=informatie",
+  "as_of": "2020-07-27",
+  "made": "2020-02-28",
+  "gazette": "2020-07-17",
+  "numac": 2020041608,
+  "document_start": "2020-07-27",
+  "document_end": null,
+  "in_force": "2020-07-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-07-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
