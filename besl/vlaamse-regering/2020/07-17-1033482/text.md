@@ -51,6 +51,12 @@ Aan artikel 15 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse 
 <br>
 "Als het bewijs van onderneming in moeilijkheden of in herstructureringen blijkt uit een plan, zoals vermeld in artikel 14, derde gedachtestreepje, kan de terugwerking, vermeld in artikel 21, in afwijking van het voormelde artikel op zijn vroegst op 1 april 2020 beginnen.".
 
+### ART 4.
+
+Aan artikel 16 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 20 maart 2009, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"De aanmoedigingspremie bij verminderde arbeidsduur kan in geval van een vermindering van de arbeidsduur met 20 % van de voltijdse arbeidsregeling niet gecombineerd worden met de looncompensatie, vermeld in artikel 28/6/4., § 1, vierde lid, van het koninklijk besluit nr. 46 van 26 juni 2020 tot uitvoering van artikel 5, § 1, 5°, van de wet van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II) tot ondersteuning van de werkgevers en de werknemers.".
+
 ### ART 5.
 
 Aan artikel 17 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 20 maart 2009 en 7 mei 2010, wordt een paragraaf 4 toegevoegd, die luidt als volgt:<br>
@@ -70,6 +76,12 @@ Het plan bevat:<br>
 2° de opgave van het aantal arbeidsplaatsen die het voorwerp uitmaken van de maatregelen;<br>
 3° de opgave van de periode van de maatregelen;<br>
 4° de btw-aangiften van alle betreffende maanden.".
+
+### ART 7.
+
+Aan artikel 20 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"De aanmoedigingspremie bij verminderde arbeidsduur kan in geval van een vermindering van de arbeidsduur met 20 % van de voltijdse arbeidsregeling niet gecombineerd worden met de looncompensatie, vermeld in artikel 28/6/4., § 1, vierde lid, van het koninklijk besluit nr. 46 van 26 juni 2020 tot uitvoering van artikel 5, § 1, 5°, van de wet van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II) tot ondersteuning van de werkgevers en de werknemers.".
 
 ### ART 8.
 
