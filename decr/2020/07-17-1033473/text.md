@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK 1. Inleidende bepaling
 
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.
+
 ## HOOFDSTUK 2. Afwijkingen van het decreet basisonderwijs van 25 februari 1997
 
 ### ART 2.
@@ -15,6 +19,16 @@ In afwijking van artikel 37terdecies, § 1, van hetzelfde decreet is voor de ins
 ### ART 4.
 
 In afwijking van artikel 37quindecies, § 2, van hetzelfde decreet kan voor de inschrijvingen voor het schooljaar 2019-2020 en het schooljaar 2020-2021 de bemiddeling van het LOP niet alleen binnen tien kalenderdagen na de betekening of afgifte van de schriftelijke mededeling worden opgestart, maar ook binnen tien kalenderdagen na de verzending van de elektronische mededeling.
+
+### ART 5.
+
+In afwijking van artikel 137bis van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2012, is voor scholen voor buitengewoon basisonderwijs de teldag voor de berekening van de lestijden volgens de schalen voor het schooljaar 2020-2021 de eerste schooldag van oktober 2020, als die school voor buitengewoon basisonderwijs op de eerste schooldag van oktober 2020 een hoger aantal lestijden volgens de schalen genereert dan op basis van de eerste schooldag van februari 2020.<br>
+<br>
+De teldag, vermeld in het eerste lid, is niet van toepassing voor de berekening van andere omkadering en werkingsmiddelen.
+
+### ART 6.
+
+In afwijking van artikel 148 van hetzelfde decreet, gewijzigd bij het decreet van 6 juli 2012, is voor scholen voor buitengewoon basisonderwijs de teldag voor de berekening van de uren volgens de richtgetallen voor het schooljaar 2020-2021 de eerste schooldag van oktober 2020, als die school voor buitengewoon basisonderwijs op de eerste schooldag van oktober 2020 een hoger aantal uren volgens de richtgetallen genereert dan op basis van de eerste schooldag van februari 2020.
 
 ## HOOFDSTUK 3. Afwijkingen van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs
 
@@ -51,13 +65,93 @@ In afwijking van artikel 110/15, § 2, van dezelfde codex, kan voor de inschrijv
 
 ## HOOFDSTUK 5. Afwijkingen van de Codex Hoger Onderwijs van 11 oktober 2013
 
+### ART 13.
+
+Het leerkrediet, vermeld in artikel II.203 van de Codex Hoger Onderwijs van 11 oktober 2013, van een student die tijdens het academiejaar 2019-2020 was ingeschreven voor een opleidingsonderdeel waarvan de hogeronderwijsinstelling aan de bevoegde instanties van de Vlaamse overheid verklaart dat de evaluatie of het examen niet kon worden georganiseerd ten gevolge van de COVID-19-maatregelen, wordt aan die student teruggegeven voor de opgenomen studiepunten die betrekking hebben op dat opleidingsonderdeel.
+
+### ART 14.
+
+§ 1. Het leerkrediet, vermeld in artikel II.203 van dezelfde codex, van een student die tijdens het academiejaar 2019-2020 na deelname aan zijn laatste examenkans niet geslaagd is voor een opleidingsonderdeel waarvan minstens een deel van de onderwijsactiviteit na 9 maart 2020 viel en waarvoor de student verklaart dat hij zich bevond in een overmachtssituatie die toe te schrijven is aan COVID-19, wordt aan die student teruggegeven voor de opgenomen studiepunten die betrekking hebben op het opleidingsonderdeel waarvoor de student niet geslaagd is.<br>
+<br>
+§ 2. Studenten die zich tijdens het academiejaar 2019-2020 in een overmachtssituatie bevonden die toe te schrijven is aan COVID-19 en die daardoor na deelname aan hun laatste examenkans niet geslaagd zijn voor een opleidingsonderdeel waarvan minstens een deel van de onderwijsactiviteit na 9 maart 2020 viel, kunnen bij de bevoegde dienst van de Vlaamse Regering rechtstreeks een aanvraag indienen om hun leerkrediet aan te passen. Die dienst controleert of de aanvraag voldoet aan de voorwaarden, past het leerkredietsaldo in voorkomend geval aan en deelt de beslissing aan de student mee.<br>
+<br>
+§ 3. De student dient de aanvraag, vermeld in paragaaf 2, in bij de bevoegde dienst van de Vlaamse Regering binnen een termijn van dertig kalenderdagen na de dag van de proclamatie van de examenresultaten van de laatste zittijd.<br>
+<br>
+De bevoegde dienst van de Vlaamse Regering stelt een aanvraagformulier ter beschikking waarmee studenten een aanvraag kunnen indienen voor de teruggave van leerkrediet in het kader van een overmachtssituatie die toe te schrijven is aan COVID-19. Daarin wordt minimaal opgenomen dat de student de volgende gegevens op erewoord verklaart:<br>
+1° de naam, het rijksregisternummer, het adres en het e-mailadres van de student;<br>
+2° de naam en het adres van de onderwijsinstelling waar de student ingeschreven was tijdens het academiejaar 2019-2020;<br>
+3° een beschrijving van de overmachtssituatie die toe te schrijven is aan COVID-19;<br>
+4° de opleidingsonderdelen, waarvan minstens een deel van de onderwijsactiviteit na 9 maart 2020 viel, en het aantal opgenomen studiepunten voor die opleidingsonderdelen waarvoor de student niet geslaagd is na deelname aan de laatste examenkans en waarvoor het leerkrediet wordt teruggevraagd.<br>
+<br>
+De bevoegde dienst van de Vlaamse Regering kan een student die een aanvraag als vermeld in paragraaf 2 heeft ingediend, vragen om een document van de hogeschool of de universiteit te bezorgen waarin de examenresultaten van de opleidingsonderdelen, vermeld in het tweede lid, 4°, zijn opgenomen.
+
+### ART 15.
+
+In afwijking van artikel II.205, eerste lid, van dezelfde codex wordt een student die bij de start van het academiejaar 2020-2021 onvoldoende leerkrediet heeft en die overeenkomstig artikel 14 een aanvraag bij de bevoegde dienst van de Vlaamse Regering heeft ingediend, in afwachting van een definitieve beslissing over de teruggave van zijn leerkrediet onder voorbehoud ingeschreven onder de voorwaarden die gelden bij een gunstige beslissing van de bevoegde dienst. Na de beslissing van de bevoegde dienst van de Vlaamse Regering neemt de instelling een definitieve beslissing over de inschrijving van die student.
+
+### ART 17.
+
+§ 1. Als de bevoegde dienst van de Vlaamse Regering beslist om de teruggave van het leerkrediet overeenkomstig artikel 14 te weigeren, kan die beslissing worden aangevochten bij de Raad voor betwistingen inzake studievoortgangsbeslissingen. De raad doet als administratief rechtscollege uitspraak over de beroepen van studenten over de weigering om hun leerkrediet terug te geven.<br>
+<br>
+§ 2. De beroepen bij de raad worden ingesteld binnen een vervaltermijn van zeven kalenderdagen, die ingaat op de dag na de kennisgeving, vermeld in paragraaf 1, van de beslissing over de teruggave van het leerkrediet, vermeld in artikel 14.<br>
+<br>
+Als de zevende dag van de vervaltermijn een zaterdag, zondag of wettelijke feestdag is, wordt de termijn verlengd tot de eerstvolgende werkdag waarop de postdiensten open zijn.<br>
+<br>
+§ 3. De beroepen worden ingesteld bij wijze van verzoekschrift. Daarin zijn ten minste de gegevens, vermeld in artikel 14, § 3, opgenomen, alsook een feitelijke omschrijving en motivering van de ingeroepen bezwaren.<br>
+<br>
+Het verzoekschrift is gedateerd en, op straffe van onontvankelijkheid, ondertekend door de verzoeker of zijn raadsman.<br>
+<br>
+§ 4. Het verzoekschrift wordt met een aangetekende brief aan de raad bezorgd.<br>
+<br>
+§ 5. De beroepsprocedure bij de raad verloopt, na mededeling van een vereenvoudigde procedurekalender, louter schriftelijk en er volgt geen concrete oproeping van de partijen, tenzij de raad dat noodzakelijk acht voor de behandeling van de zaak of tenzij een van de partijen uitdrukkelijk en gemotiveerd verzoekt om gehoord te worden.<br>
+<br>
+§ 6. De uitspraak van de raad wordt met een aangetekende brief aan de partijen bezorgd.
+
 ## HOOFDSTUK 6. Wijziging van de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016
+
+### ART 18.
+
+In artikel III.20/2, tweede lid, van de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, ingevoegd bij het decreet van 26 juni 2020, wordt de zinsnede "functie verblijf binnen de niet rechtstreeks toegankelijke jeugdhulpverlening, bij een jeugdhulpaanbieder of pleegzorger, op verwijzing van een gemandateerde voorziening of een Sociale Dienst Jeugdrechtbank" vervangen door de woorden "de typemodule specifieke actie of een vonnis van de jeugdrechtbank".
 
 ## HOOFDSTUK 7. Afwijking van het besluit van de Vlaamse Regering van 6 juli 1999 houdende de regeling van de procedure en de voorwaarden van erkenning en subsidiëring van de universitaire steunpunten
 
+### ART 19.
+
+In afwijking van artikel 9, vierde lid, van het besluit van de Vlaamse Regering van 6 juli 1999 houdende de regeling van de procedure en de voorwaarden van erkenning en subsidiëring van de universitaire steunpunten kan het steunpunt tijdelijk, voor het begrotingsjaar 2020, een reserve opbouwen ten bedrage van maximaal 50 procent van de jaarlijkse werkingssubsidie.
+
 ## HOOFDSTUK 8. Afwijking van het besluit de Vlaamse Regering van 28 augustus 2000 inzake het tehuis van het Gemeenschapsonderwijs dat instaat voor de opname van jongeren in het kader van de hulp- en bijstandsregeling
 
+### ART 20.
+
+In afwijking van artikel 3, 1, van het besluit de Vlaamse Regering van 28 augustus 2000 inzake het tehuis van het Gemeenschapsonderwijs dat instaat voor de opname van jongeren in het kader van de hulp- en bijstandsregeling worden voor het bepalen van het gemiddelde aantal ingeschreven internen van het tehuis van het Gemeenschapsonderwijs dat instaat voor de opname van jongeren in het kader van de hulp- en bijstandsregeling, met het oog op het schooljaar 2021-2022, de woorden "één kalenderjaar" gelezen als de woorden "vijf maanden".<br>
+<br>
+Als het gemiddelde aantal ingeschreven internen dat met toepassing van het eerste lid wordt verkregen, lager is dan dat van het schooljaar 2020-2021, wordt het aantal van het schooljaar 2020-2021 opnieuw gehanteerd.
+
 ## HOOFDSTUK 9. Afwijking van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap
+
+### ART 21.
+
+In afwijking van artikel 4 en 6 van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap ontvangt iedere student die in het academiejaar 2019-2020 aan een ambtshalve geregistreerde instelling in Vlaanderen een diploma van bachelor in de verpleegkunde behaalt met een studieomvang van 240 studiepunten, een eenmalige toelage, ongeacht de nationaliteitsvoorwaarden en de pedagogische voorwaarden.
+
+### ART 22.
+
+Op de toekenning van de eenmalige toelage, vermeld in artikel 21 van dit decreet, is artikel 38, eerste en tweede lid, van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, niet van toepassing.
+
+### ART 23.
+
+Een student heeft recht op de eenmalige toelage, vermeld in artikel 21 van dit decreet, ongeacht het bedrag van het referentie-inkomen, vermeld in arti- kel 35, § 1, van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap.
+
+### ART 24.
+
+De eenmalige toelage, vermeld in artikel 21 van dit decreet, bedraagt 1000 euro.
+
+### ART 25.
+
+In afwijking van artikel 26 van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap ontvangt de student voor het opleidingsonderdeel, vermeld in artikel 13, en 14, § 1, van dit decreet, ook een jokerbonus waarmee het jokerkrediet van de student wordt vermeerderd.
+
+### ART 26.
+
+In afwijking van artikel 53, eerste en tweede lid, van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap wordt de eenmalige toelage, vermeld in artikel 21 van dit decreet, door de bevoegde dienst van de Vlaamse Regering uitbetaald. De dienst baseert zich daarvoor op de Databank Hoger Onderwijs.
 
 ## HOOFDSTUK 10. Afwijking van het besluit van de Vlaamse Regering van 19 september 2011 houdende de subsidiëring van student tutoring in het onderwijs in Vlaanderen
 
@@ -66,3 +160,13 @@ In afwijking van artikel 110/15, § 2, van dezelfde codex, kan voor de inschrijv
 In afwijking van artikel 7, § 2, eerste lid, van het besluit van de Vlaamse Regering van 19 september 2011 houdende de subsidiëring van student tutoring in het onderwijs in Vlaanderen zal voor de studenttutoringprojecten die in het schooljaar 2020-2021 van start gaan, de uiterlijke indieningsdatum in de oproep worden bepaald. De indieningstermijn zal minstens een maand bedragen.
 
 ## HOOFDSTUK 11. Inwerkingtreding
+
+### ART 28.
+
+Dit decreet treedt in werking op de dag na de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 16, dat in werking treedt op 1 september 2020.<br>
+<br>
+Artikel 8 heeft uitwerking met ingang van 9 maart 2020.<br>
+<br>
+Artikel 2, 3, 4, 7, 10, 11, 12 en 27 hebben uitwerking met ingang van 16 maart 2020.<br>
+<br>
+Artikel 9 heeft uitwerking met ingang van 1 juni 2020.
