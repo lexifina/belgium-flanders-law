@@ -167,7 +167,9 @@ Als het bewijs van onderneming in moeilijkheden of in herstructureringen blijkt 
 
 ### ART. 16.
 
-De aanmoedigingspremie bij verminderde arbeidsduur kan niet gecombineerd worden met een tweede deeltijdse of voltijdse tewerkstelling in hoofde van de werknemer, met de inkomsten uit een zelfstandige activiteit tenzij deze reeds in bijberoep werd uitgeoefend gedurende minstens 1 jaar vóór de aanvang van de verminderde arbeidsduur, met een onderbrekingsuitkering noch met een aanmoedigingspremie als bedoeld in de artikelen 6 en 10 van dit besluit.
+De aanmoedigingspremie bij verminderde arbeidsduur kan niet gecombineerd worden met een tweede deeltijdse of voltijdse tewerkstelling in hoofde van de werknemer, met de inkomsten uit een zelfstandige activiteit tenzij deze reeds in bijberoep werd uitgeoefend gedurende minstens 1 jaar vóór de aanvang van de verminderde arbeidsduur, met een onderbrekingsuitkering noch met een aanmoedigingspremie als bedoeld in de artikelen 6 en 10 van dit besluit.<br>
+<br>
+De aanmoedigingspremie bij verminderde arbeidsduur kan in geval van een vermindering van de arbeidsduur met 20 % van de voltijdse arbeidsregeling niet gecombineerd worden met de looncompensatie, vermeld in artikel 28/6/4., § 1, vierde lid, van het koninklijk besluit nr. 46 van 26 juni 2020 tot uitvoering van artikel 5, § 1, 5°, van de wet van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II) tot ondersteuning van de werkgevers en de werknemers.
 
 ### ART. 17.
 
