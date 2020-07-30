@@ -57,19 +57,19 @@ Dit besluit treedt in werking op 8 juni 2020.
 
 ### BIJLAGE 1.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/27_1.pdf#page=86">Bijlage 1</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/05_1.pdf#page=180">Bijlage 1.</a>
 
 ### BIJLAGE 2.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/27_1.pdf#page=100">Bijlage 2</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/05_1.pdf#page=192">Bijlage 2.</a>
 
 ### BIJLAGE 3.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/03_2.pdf#page=81">Bijlage 3</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/05_1.pdf#page=223">Bijlage 3</a>
 
 ### BIJLAGE 4.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/27_1.pdf#page=128">Bijlage 4</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/05_1.pdf#page=228">Bijlage 4</a>
 
 ### BIJLAGE 5.
 
@@ -81,12 +81,12 @@ Dit besluit treedt in werking op 8 juni 2020.
 
 ### BIJLAGE 7.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/27_1.pdf#page=197">Bijlage 7</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/05_1.pdf#page=246">Bijlage 7.</a>
 
 ### BIJLAGE 8.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/27_1.pdf#page=216">Bijlage 8</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/05_1.pdf#page=265">Bijlage 8.</a>
 
 ### BIJLAGE 9.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/27_1.pdf#page=241">Bijlage 9</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/05_1.pdf#page=291">Bijlage 9</a>
