@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033436,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-03 houdende indeling bij de gemeentewegen van de weggedeelten van de gewestweg N34-Abraham Hansplein tussen kilometerpunt 0,153 en 0,267 en tussen kilometerpunt 0,158 en 0,266 op het grondgebied van de gemeente Knokke-Heist",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033436/VolledigDocument?datum=2020-07-30",
+  "source_sha256": "2dc9925081490254cb3d6e0a5ed9818072944e8d4b513bbd8b990bb9800cb0ce",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033436&param=informatie",
+  "as_of": "2020-07-30",
+  "made": "2020-07-03",
+  "gazette": "2020-07-20",
+  "numac": 2020015131,
+  "document_start": "2020-07-30",
+  "document_end": null,
+  "in_force": "2020-07-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-07-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
