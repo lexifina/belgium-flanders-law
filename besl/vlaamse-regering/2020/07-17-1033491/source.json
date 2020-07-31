@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033491,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-17 tot wijziging van het besluit van de Vlaamse Regering van 24 april 2020 tot bepaling van een aantal maatregelen ter ondersteuning van de woonzorgcentra, de centra voor kortverblijf, de centra voor dagverzorging en de centra voor dagopvang naar aanleiding van de COVID-19 crisis, wat betreft de tweede fase van de maatregelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033491/VolledigDocument?datum=2020-07-31",
+  "source_sha256": "76004482666363f1b36228d69fffa1367c844f251b88540bbf42cf74ed6aa505",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033491&param=informatie",
+  "as_of": "2020-07-31",
+  "made": "2020-07-17",
+  "gazette": "2020-07-30",
+  "numac": 2020042499,
+  "document_start": "2020-07-31",
+  "document_end": null,
+  "in_force": "2020-07-31",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2020-07-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
