@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033446,
+  "title": "Decreet van 2020-07-03 houdende instemming met de tijdelijke economische partnerschapsovereenkomst tussen Ivoorkust, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, gedaan te Abidjan op 26 november 2008, respectievelijk Brussel op 22 januari 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033446/VolledigDocument?datum=2020-08-01",
+  "source_sha256": "3f439adc30a0b59b8dd91f95906a238c03ca70de580eb120bad5cea45d01774d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033446&param=informatie",
+  "as_of": "2020-08-01",
+  "made": "2020-07-03",
+  "gazette": "2020-07-22",
+  "numac": 2020015186,
+  "document_start": "2020-08-01",
+  "document_end": null,
+  "in_force": "2020-08-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2020-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
