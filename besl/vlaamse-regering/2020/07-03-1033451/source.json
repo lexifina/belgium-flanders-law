@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033451,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-03 houdende indeling bij de gemeentewegen van de gewestweg N1 tussen kmp. 43,61 en kmp. 44,60 en de gewestweg N180 tussen kmp. 0,00 en kmp. 0,33 op het grondgebied van de stad Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033451/VolledigDocument?datum=2020-08-01",
+  "source_sha256": "1ba269c3151aae3f86f5f16f64ea774a6ad96b3549a7c5d3144a8058b4cac555",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033451&param=informatie",
+  "as_of": "2020-08-01",
+  "made": "2020-07-03",
+  "gazette": "2020-07-22",
+  "numac": 2020015169,
+  "document_start": "2020-08-01",
+  "document_end": null,
+  "in_force": "2020-08-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
