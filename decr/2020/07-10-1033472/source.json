@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033472,
+  "title": "Decreet van 2020-07-10 tot wijziging van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid, wat de selectieve participatietoeslagen betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033472/VolledigDocument?datum=2020-08-01",
+  "source_sha256": "50aea8f00f52a8b44f6d34b649cfbc02d7aaa7df182c0f7df0108488f3bc2639",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033472&param=informatie",
+  "as_of": "2020-08-01",
+  "made": "2020-07-10",
+  "gazette": "2020-07-27",
+  "numac": 2020042378,
+  "document_start": "2020-08-01",
+  "document_end": null,
+  "in_force": "2020-08-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
