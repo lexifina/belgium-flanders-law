@@ -412,9 +412,9 @@ De Vlaamse Regering bepaalt de nadere regels met betrekking tot de selectieve pa
 
 ### ART 25.
 
-Om de toestand van het gezin waartoe de rechthebbende leerling behoort, te bepalen, wordt bij de toepassing van dit decreet rekening gehouden met de toestand op 31 december van het schooljaar in kwestie.<br>
+Om de toestand van het gezin waartoe de rechthebbende leerling behoort, te bepalen, wordt bij de toepassing van dit decreet rekening gehouden met de toestand op 31 augustus voorafgaand aan het schooljaar in kwestie.<br>
 <br>
-Om de nationaliteit en de woonplaats van de rechthebbende leerling die niet gekwalificeerd is als een rechtgevend kind als vermeld in artikel 8, te bepalen, wordt bij de toepassing van dit decreet rekening gehouden met de toestand op 31 december van het schooljaar in kwestie.<br>
+Om de nationaliteit en de woonplaats van de rechthebbende leerling die niet gekwalificeerd is als een rechtgevend kind als vermeld in artikel 8, te bepalen, wordt bij de toepassing van dit decreet rekening gehouden met de toestand op 31 augustus voorafgaand aan het schooljaar in kwestie.<br>
 <br>
 Om de pedagogische toestand te bepalen, wordt bij de toepassing van dit decreet rekening gehouden met de toestand op de laatste schooldag van juni van het schooljaar in kwestie.
 
@@ -559,7 +559,7 @@ Voor de toepassing van het tweede lid is artikel 25, eerste lid, van overeenkoms
 
 § 1. Er wordt rekening gehouden met de volgende categorieën van gezinnen:<br>
 1° een gezin waarin de rechthebbende leerling zijn woonplaats heeft bij één ouder of bij beide ouders samen;<br>
-2° een gezin waarin de rechthebbende leerling ingevolge een gerechtelijke uitspraak of een tussenkomst van een publiekrechtelijke overheid of instelling zijn woonplaats heeft bij een andere natuurlijke persoon dan de ouders, of een gezin waarin de rechthebbende leerling op 31 december van het schooljaar in kwestie zijn woonplaats heeft bij een andere natuurlijke persoon dan één ouder of beide ouders;<br>
+2° een gezin waarin de rechthebbende leerling ingevolge een gerechtelijke uitspraak of een tussenkomst van een publiekrechtelijke overheid of instelling zijn woonplaats heeft bij een andere natuurlijke persoon dan de ouders, of een gezin waarin de rechthebbende leerling op 31 augustus voorafgaand aan het schooljaar in kwestie zijn woonplaats heeft bij een andere natuurlijke persoon dan één ouder of beide ouders;<br>
 3° gehuwde leerlingen;<br>
 4° zelfstandige leerlingen;<br>
 5° alleenstaande leerlingen.<br>
@@ -940,9 +940,9 @@ Een afwijking van het voorgaande lid is mogelijk nadat de bevoegde rechtbank een
 
 ### ART 70.
 
-§ 1. In afwijking van artikel 69, als de rechthebbende leerling of het rechthebbende kind niet gekwalificeerd is als een rechtgevend kind als vermeld in artikel 8, en er bijgevolg geen gezinsbijslagen uitbetaald worden overeenkomstig artikel 64 respectievelijk artikel 65, worden de selectieve participatietoeslagen leerling, vermeld in boek 2, deel 2, titel 1, uitbetaald op een bankrekening van de ouder of ouders bij wie de rechthebbende leerling op 31 december van het schooljaar in kwestie zijn woonplaats heeft, en worden de andere toelagen, vermeld in boek 2, deel 3, uitbetaald op een bankrekening van de ouder of ouders.<br>
+§ 1. In afwijking van artikel 69, als de rechthebbende leerling of het rechthebbende kind niet gekwalificeerd is als een rechtgevend kind als vermeld in artikel 8, en er bijgevolg geen gezinsbijslagen uitbetaald worden overeenkomstig artikel 64 respectievelijk artikel 65, worden de selectieve participatietoeslagen leerling, vermeld in boek 2, deel 2, titel 1, uitbetaald op een bankrekening van de ouder of ouders bij wie de rechthebbende leerling op 31 augustus voorafgaand aan het schooljaar in kwestie zijn woonplaats heeft, en worden de andere toelagen, vermeld in boek 2, deel 3, uitbetaald op een bankrekening van de ouder of ouders.<br>
 <br>
-§ 2. Als de ouder of ouders de rechthebbende leerling of het rechthebbende kind niet daadwerkelijk opvoedt of opvoeden, worden de selectieve participatietoeslagen leerling, vermeld in boek 2, deel 2, titel 1, uitbetaald op een bankrekening van de werkelijke opvoeder of van twee werkelijke opvoeders bij wie de rechthebbende leerling op 31 december van het schooljaar in kwestie zijn woonplaats heeft, en worden de andere toelagen, vermeld in boek 2, deel 3, uitbetaald op een bankrekening van de werkelijke opvoeder of van twee werkelijke opvoeders bij wie het rechthebbende kind of de rechthebbende leerling zijn woonplaats heeft.<br>
+§ 2. Als de ouder of ouders de rechthebbende leerling of het rechthebbende kind niet daadwerkelijk opvoedt of opvoeden, worden de selectieve participatietoeslagen leerling, vermeld in boek 2, deel 2, titel 1, uitbetaald op een bankrekening van de werkelijke opvoeder of van twee werkelijke opvoeders bij wie de rechthebbende leerling op 31 augustus voorafgaand aan het schooljaar in kwestie zijn woonplaats heeft, en worden de andere toelagen, vermeld in boek 2, deel 3, uitbetaald op een bankrekening van de werkelijke opvoeder of van twee werkelijke opvoeders bij wie het rechthebbende kind of de rechthebbende leerling zijn woonplaats heeft.<br>
 <br>
 De werkelijke opvoeder kan of de twee werkelijke opvoeders kunnen worden aangewezen door een tussenkomst van een publiekrechtelijke overheid of instelling, of door een uitspraak van de bevoegde rechtbank. De meest gerede partij bezorgt de gerechtelijke uitspraak aan de uitbetalingsactor.<br>
 <br>
