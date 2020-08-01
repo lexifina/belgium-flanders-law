@@ -2,16 +2,16 @@
   "codex_id": 1008451,
   "title": "Besluit van de Vlaamse Regering van 2001-07-13 houdende de aanduiding van de voorlopige begrenzing van de havengebieden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008451/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "e4f5683434773bfa85bc6824a4201d3bc06898874560641314490440cebd332e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008451/VolledigDocument?datum=2020-08-01",
+  "source_sha256": "79214df54899b617e961d091311495e6cd1071e8018935697cd83f9a9fb5bce4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008451&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2020-08-01",
   "made": "2001-07-13",
   "gazette": "2001-11-01",
   "numac": 2001036156,
   "document_start": "2001-11-01",
   "document_end": "2020-07-31",
-  "in_force": "2006-06-01",
+  "in_force": "2020-08-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-08-01; future article versions excluded; article text as the API gives it"
 }
