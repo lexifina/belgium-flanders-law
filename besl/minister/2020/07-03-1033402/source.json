@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033402,
+  "title": "Ministerieel besluit van 2020-07-03 tot wijziging van het ministerieel besluit van 24 januari 2011 tot uitvoering van het besluit van de Vlaamse Regering van 17 december 2010 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest, wat betreft de wijziging van de limitatieve technologieënlijst",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033402/VolledigDocument?datum=2020-08-01",
+  "source_sha256": "49e69218a7ad7851ec7d5fd7d79484998ff7395231d2ed1f4861ca3c8c1700c4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033402&param=informatie",
+  "as_of": "2020-08-01",
+  "made": "2020-07-03",
+  "gazette": "2020-07-15",
+  "numac": 2020042224,
+  "document_start": "2020-08-01",
+  "document_end": null,
+  "in_force": "2020-08-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
