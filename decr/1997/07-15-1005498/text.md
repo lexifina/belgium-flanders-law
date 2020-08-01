@@ -184,7 +184,7 @@ Bij projecten van nieuwbouw of renovatie wordt gestreefd naar een vermenging van
 
 ### ART 4bis.
 
-§ 1. De Vlaamse Regering stelt in 2017 een Woonbeleidsplan Vlaanderen vast na advies van de Vlaamse Woonraad.<br>
+§ 1. De Vlaamse Regering stelt in 2017 een Woonbeleidsplan Vlaanderen vast.<br>
 <br>
 Het Woonbeleidsplan Vlaanderen bevat:<br>
 1° een informatief gedeelte;<br>
@@ -436,50 +436,12 @@ De overtreder brengt voor het afsluiten van de overeenkomst tot overdracht van e
 
 ### ART. 21.
 
-§ 1. Bij het agentschap Wonen-Vlaanderen wordt een strategische adviesraad voor het beleidsveld Wonen ingesteld als vermeld in artikel III.93 van het Bestuursdecreet van 7 december 2018 , hierna Vlaamse Woonraad te noemen.<br>
+De Vlaamse Regering waakt erover dat in het beleidsveld Wonen de proactieve betrokkenheid van stakeholders wordt opgenomen om de volgende doelen te realiseren:<br>
+1° maatschappelijke tendensen capteren en wijzigingen in het werkveld signaleren die het Vlaamse woonbeleid aanbelangen, alsook de gevolgen ervan voor het Vlaamse woonbeleid duiden;<br>
+2° reflecteren over initiatieven met betrekking tot het beleidsveld Wonen of tot belendende beleidsvelden die een impact op het beleidsveld Wonen hebben;<br>
+3° verbetervoorstellen aangeven die het beleidsveld Wonen ten goede komen.<br>
 <br>
-De Vlaamse Woonraad heeft geen rechtspersoonlijkheid.<br>
-<br>
-De bepalingen van titel III, hoofdstuk 3, afdeling 7, van het Bestuursdecreet van 7 december 2018 zijn van toepassing op de Vlaamse Woonraad, tenzij in dit artikel anders is bepaald.<br>
-<br>
-§ 2. De Vlaamse Woonraad heeft de volgende opdrachten :<br>
-1° uit eigen beweging of op verzoek advies uitbrengen over de hoofdlijnen van het beleid inzake het wonen in het algemeen en de sociale huisvesting in het bijzonder;<br>
-2° bijdragen tot het vormen van een beleidsvisie over het wonen;<br>
-3° de maatschappelijke ontwikkelingen op het vlak van het wonen en de sociale huisvesting volgen en interpreteren;<br>
-4° advies uitbrengen over voorontwerpen van decreet met betrekking tot het woonbeleid;<br>
-5° uit eigen beweging of op verzoek advies uitbrengen over voorstellen van decreet en over ontwerpen van besluit van de Vlaamse Regering met betrekking tot het woonbeleid;<br>
-6° reflecteren over de bij het Vlaams Parlement ingediende beleidsnota's en beleidsbrieven over het woonbeleid;<br>
-7° uit eigen beweging of op verzoek advies uitbrengen over ontwerpen van samenwerkingsakkoord met betrekking tot het woonbeleid die het Vlaamse Gewest wil sluiten met de staat of met andere gemeenschappen en gewesten;<br>
-8° uit eigen beweging of op verzoek advies uitbrengen over beleidsvoornemens, beleidsplannen en in voorbereiding zijnde regelgeving met betrekking tot het woonbeleid op het niveau van de Europese Unie, alsook over in voorbereiding zijnde internationale verdragen met betrekking tot het woonbeleid.<br>
-<br>
-De Vlaamse Regering is verplicht om advies te vragen over :<br>
-1° de voorontwerpen van decreet, vermeld in het eerste lid, 4°;<br>
-2° de ontwerpen van reglementair of organiek besluit van de Vlaamse Regering die uitvoering geven aan de inhoud van een decreet met betrekking tot het woonbeleid en waarvan de Vlaamse Regering beslist dat het basisuitvoeringsbesluiten zijn.<br>
-3° ...<br>
-<br>
-De Vlaamse Regering kan de Vlaamse Woonraad machtigen Vlaanderen te vertegenwoordigen in federale of internationale adviesorganen.<br>
-<br>
-§ 3. De Vlaamse Woonraad wordt samengesteld uit vertegenwoordigers van het maatschappelijke middenveld die actief zijn in het beleidsveld wonen, uit onafhankelijke deskundigen en uit vertegenwoordigers van provincies, steden en gemeenten.<br>
-<br>
-Namens het maatschappelijke middenveld kunnen in de Vlaamse Woonraad vertegenwoordigers worden benoemd van :<br>
-1° sociale woonorganisaties en sociale kredietverstrekkers, met uitzondering van de Vlaamse Maatschappij voor Sociaal Wonen;<br>
-2° representatieve organisaties, opgericht op particulier initiatief en zonder winstoogmerk, met zetel in het Vlaamse Gewest of in het Brusselse Hoofdstedelijke Gewest, die als sociale organisatie of beweging of als erkende beroepsvereniging de maatschappelijke voorzieningen of de algemene en specifieke belangen van hun leden inzake wonen ter harte nemen, die de bewoners, de eigenaars of bijzondere doelgroepen met specifieke woonbehoeften vertegenwoordigen of die erkend zijn als welzijnsorganisatie.<br>
-<br>
-Alle organisaties die vertegenwoordigd zijn in de Vlaamse Woonraad moeten hoofdzakelijk het grondgebied van het Vlaamse Gewest als actieterrein hebben of een belang behartigen dat representatief is voor het Vlaamse Gewest. De Vlaamse Regering kan aanvullende voorwaarden voor de voordracht bepalen.<br>
-<br>
-Als onafhankelijke deskundigen kunnen in de Vlaamse Woonraad worden benoemd : academici, deskundigen op het vlak van wonen en huisvesting of andere personen die op grond van hun ervaring, engagement of deskundigheid, gezag verworven hebben wat betreft de verwezenlijking van de doelstellingen, vermeld in dit decreet.<br>
-<br>
-§ 4. De Vlaamse Woonraad bestaat uit twintig leden, door de Vlaamse Regering benoemd voor een termijn van vier jaar. Hiervan zijn er twaalf vertegenwoordigers van het maatschappelijke middenveld, vijf onafhankelijke deskundigen, een vertegenwoordiger voor de provincies en twee vertegenwoordigers voor de steden en gemeenten.<br>
-<br>
-De vertegenwoordigers van het maatschappelijke middenveld worden op dubbeltallen voorgedragen door de in § 3, tweede lid, vermelde organisaties. De vertegenwoordigers van de provincies en van de steden en gemeenten worden respectievelijk voorgedragen door de Vereniging van Vlaamse Provincies en de Vereniging van Vlaamse Steden en Gemeenten, namens de OCMW's en namens de steden en gemeenten, eveneens op dubbeltallen.<br>
-<br>
-De Vlaamse Regering nodigt de in het tweede lid vermelde organisaties en verenigingen via een openbare oproep uit tot de voordracht van kandidaat-leden voor de Vlaamse Woonraad. Voorzover daarvan melding is gemaakt in de oproep kan ze plaatsvervangende leden benoemen voor de vertegenwoordigers van het maatschappelijke middenveld, de provincies en de steden en gemeenten.<br>
-<br>
-De onafhankelijke deskundigen worden aangewezen na een openbare oproep tot kandidaatstelling.<br>
-<br>
-§ 5. De voorzitter van de Vlaamse Woonraad is een van de onafhankelijke deskundigen. Hij wordt benoemd door de Vlaamse Regering. De voorzitter vertegenwoordigt de raad in rechte, onverminderd de mogelijkheid tot delegatie van die bevoegdheid.<br>
-<br>
-§ 6. De Vlaamse Woonraad kan te allen tijde vragen aan de leidend ambtenaren van het departement en de intern of extern verzelfstandigde agentschappen van het beleidsdomein waartoe het beleid inzake wonen behoort, om technische toelichtingen te verschaffen over de aangelegenheden waarover hij advies moet of wil uitbrengen.
+Met het oog op de realisatie van de doelen, vermeld in het eerste lid, kan de Vlaamse Regering een proactief stakeholdersplatform oprichten.
 
 ## HOOFDSTUK II [DE PLANNING VAN HET VLAAMSE WOONBELEID (verv. decr. 19 maart 2004, art. 7)]
 
@@ -1731,6 +1693,8 @@ De voorkeur van de kandidaat-huurder, vermeld in het vijfde lid, 1°, mag niet l
 <br>
 De Vlaamse Regering bepaalt de nadere regels voor de uitvoering van het vijfde lid en besteedt bij de vaststelling van de voorrangs- en toewijzingsregels van sociale huurwoningen extra aandacht aan kandidaat-huurders die behoren tot de meest behoeftige gezinnen of alleenstaanden, en aan bewoners van een sociale huurwoning die willen of moeten verhuizen naar een aangepaste woning.<br>
 <br>
+Een sociaal verhuurkantoor kan de toewijzing van een sociale huurwoning weigeren als het vaststelt dat het inkomen van de kandidaat-huurder niet in verhouding staat tot de huurprijs. De Vlaamse Regering kan nadere regels bepalen voor de wijze waarop het sociaal verhuurkantoor die weigering kan toepassen.<br>
+<br>
 De Vlaamse Regering stelt een verhaalprocedure in voor de kandidaat-huurder die meent dat hij benadeeld is door een beslissing van de verhuurder. Die procedure bepaalt de termijn en de vorm van het indienen van een bezwaarschrift door de kandidaat-huurder, alsook de mogelijkheid om gehoord te worden en de behandeling van het bezwaarschrift.<br>
 <br>
 § 2. Bij de opmaak van het toewijzingsreglement, vermeld in paragraaf 1, vijfde lid, 4°, betrekt de gemeente of het intergemeentelijk samenwerkingsverband via het lokaal woonoverleg, vermeld in artikel 28, § 2, tweede lid, de verhuurders en de relevante lokale huisvestings- en welzijnsactoren.<br>
@@ -1987,7 +1951,8 @@ De Vlaamse Regering kan de bepalingen van dit decreet en van de volgende wetten 
 4° hoofdstuk 9 van het decreet van 23 december 2011 houdende bepalingen tot begeleiding van de begroting 2012;<br>
 5° het decreet van 1 juni 2012 houdende de beveiliging van woningen door optische rookmelders.<br>
 6° hoofdstuk II van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992;<br>
-7° het decreet van 28 maart 2014 houdende een subsidie voor investeringen in residentiële woonwagenterreinen en doortrekkersterreinen voor woonwagenbewoners.<br>
+7° het decreet van 28 maart 2014 houdende een subsidie voor investeringen in residentiële woonwagenterreinen en doortrekkersterreinen voor woonwagenbewoners;<br>
+8° artikel 19 van het decreet van 29 juni 2007 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2007.<br>
 <br>
 De Vlaamse Regering neemt daarbij de wijzigingen in acht die in de voormelde wetten en decreten uitdrukkelijk of stilzwijgend zijn of worden aangebracht tot aan het tijdstip van de codificatie.<br>
 In functie van de codificatie kan de Vlaamse Regering:<br>
