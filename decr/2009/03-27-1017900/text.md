@@ -131,7 +131,22 @@ c) de compensatie van kapitaalschade;<br>
 
 ### ART. 2.2.2.
 
-§ 1. De Vlaamse Regering stelt het Grond- en pandenbeleidsplan Vlaanderen vast uiterlijk op het ogenblik van de voorlopige vaststelling van de algehele herziening van het Ruimtelijk Structuurplan Vlaanderen.<br /><br />§ 2. De vaststelling van het Grond- en pandenbeleidsplan Vlaanderen gebeurt na advies van :<br />1° de strategische adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<br />2° de Vlaamse Woonraad;<br />3° de Sociaal-Economische Raad van Vlaanderen;<br />4° de Milieu- en Natuurraad van Vlaanderen.<br /><br />Voorafgaand aan het uitbrengen van een advies worden de ontwerpteksten van het Grond- en pandenbeleidsplan Vlaanderen ten minste besproken in de schoot van :<br />1° een gemeenschappelijke vergadering van de strategische adviesraad Ruimtelijke Ordening - Onroerend Erfgoed en de Vlaamse Woonraad;<br />2° een gemeenschappelijke vergadering van de Sociaal-Economische Raad van Vlaanderen en de Milieu- en Natuurraad van Vlaanderen.<br /><br />§ 3. Het actieprogramma van het Grond- en pandenbeleidsplan Vlaanderen wordt geïntegreerd in het bindend en het richtinggevend gedeelte van het Ruimtelijk Structuurplan Vlaanderen, uiterlijk op het ogenblik van de voorlopige vaststelling van dat structuurplan.<br /><br />§ 4. Het Grond- en pandenbeleidsplan Vlaanderen treedt gelijktijdig met de algehele herziening van het Ruimtelijk Structuurplan Vlaanderen in werking. Het is raadpleegbaar op de webstek van het departement waaraan de beleidsondersteunende opdrachten inzake ruimtelijke ordening worden toevertrouwd.<br /><br />
+§ 1. De Vlaamse Regering stelt het Grond- en pandenbeleidsplan Vlaanderen vast uiterlijk op het ogenblik van de voorlopige vaststelling van de algehele herziening van het Ruimtelijk Structuurplan Vlaanderen.<br>
+<br>
+§ 2. De vaststelling van het Grond- en pandenbeleidsplan Vlaanderen gebeurt na advies van :<br>
+1° de strategische adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<br>
+2° ...;<br>
+3° de Sociaal-Economische Raad van Vlaanderen;<br>
+4° de Milieu- en Natuurraad van Vlaanderen.<br>
+<br>
+Voorafgaand aan het uitbrengen van een advies worden de ontwerpteksten van het Grond- en pandenbeleidsplan Vlaanderen ten minste besproken in de schoot van :<br>
+1° een gemeenschappelijke vergadering van de strategische adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<br>
+2° een gemeenschappelijke vergadering van de Sociaal-Economische Raad van Vlaanderen en de Milieu- en Natuurraad van Vlaanderen.<br>
+<br>
+§ 3. Het actieprogramma van het Grond- en pandenbeleidsplan Vlaanderen wordt geïntegreerd in het bindend en het richtinggevend gedeelte van het Ruimtelijk Structuurplan Vlaanderen, uiterlijk op het ogenblik van de voorlopige vaststelling van dat structuurplan.<br>
+<br>
+§ 4. Het Grond- en pandenbeleidsplan Vlaanderen treedt gelijktijdig met de algehele herziening van het Ruimtelijk Structuurplan Vlaanderen in werking. Het is raadpleegbaar op de webstek van het departement waaraan de beleidsondersteunende opdrachten inzake ruimtelijke ordening worden toevertrouwd.<br>
+&nbsp;
 
 ### ART. 2.2.3.
 
