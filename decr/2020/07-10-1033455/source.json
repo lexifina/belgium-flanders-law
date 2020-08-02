@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033455,
+  "title": "Decreet van 2020-07-10 betreffende instemming met het samenwerkingsakkoord van 19 maart 2020 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap met betrekking tot de bevoegdheden van de gemeenschappen en van de federale staat inzake het taxshelterstelsel voor audiovisuele werken en podiumwerken en tot informatie-uitwisseling",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033455/VolledigDocument?datum=2020-08-02",
+  "source_sha256": "0faa76a94fc825d0251e34031e2624af34f35fe0f887a712274ee48fb430a5e4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033455&param=informatie",
+  "as_of": "2020-08-02",
+  "made": "2020-07-10",
+  "gazette": "2020-07-23",
+  "numac": 2020042293,
+  "document_start": "2020-08-02",
+  "document_end": null,
+  "in_force": "2020-08-02",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2020-08-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
