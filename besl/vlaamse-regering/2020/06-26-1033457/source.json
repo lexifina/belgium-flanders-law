@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033457,
+  "title": "Besluit van de Vlaamse Regering van 2020-06-26 houdende de verlenging van de erkenning als regionale televisieomroeporganisatie voor de periode juli 2020 tot en met eind juni 2029",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033457/VolledigDocument?datum=2020-08-02",
+  "source_sha256": "0420f004bdbef408385ee2c6d69eabac96631061f8ececb01c2d477013f9558d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033457&param=informatie",
+  "as_of": "2020-08-02",
+  "made": "2020-06-26",
+  "gazette": "2020-07-23",
+  "numac": 2020042328,
+  "document_start": "2020-08-02",
+  "document_end": null,
+  "in_force": "2020-08-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-08-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
