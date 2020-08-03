@@ -241,6 +241,12 @@ Het mandaat wordt&nbsp;door de raad van bestuur geschorst of stopgezet als de pe
 
 ## [HOOFDSTUK I/I. Activeringsregie (ing. BVR 17 juli 2020, art. 1, I: 3 augustus 2020)]
 
+### ART 31/1.
+
+De tijdelijk werklozen worden ter uitvoering van artikel 5, § 1/1, tweede lid, van het decreet van 7 mei 2004 aangewezen als categorie die behoort tot de doelgroep van de activeringsregisseur.<br>
+<br>
+In het eerste lid wordt verstaan onder tijdelijk werkloze: de werknemer van wie de arbeidsovereenkomst geheel of gedeeltelijk geschorst is door tijdelijke werkloosheid.
+
 ## HOOFDSTUK II. Arbeidsbemiddeling, georganiseerd door de VDAB
 
 ## Afdeling I. Universele dienstverlening voor de werkzoekende
