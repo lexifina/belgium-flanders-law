@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033490,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-17 tot toekenning van een subsidie aan het Vlaams Instituut Gezond Leven voor de ontwikkeling van een COVID-19 module binnen een online toolbox voor de Vlaamse bevolking ter versterking van het mentaal welbevinden tijdens de COVID-19-crisis",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033490/VolledigDocument?datum=2020-08-09",
+  "source_sha256": "7d5316f02719e490849bc2ce7a88441fd640cb6c9c40977efaf07e3a6f72aaa7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033490&param=informatie",
+  "as_of": "2020-08-09",
+  "made": "2020-07-17",
+  "gazette": "2020-07-30",
+  "numac": 2020042454,
+  "document_start": "2020-08-09",
+  "document_end": null,
+  "in_force": "2020-08-09",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2020-08-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
