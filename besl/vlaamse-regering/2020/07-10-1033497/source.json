@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033497,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-10 tot toekenning van steun aan sierteelthouders die een omzetdaling geleden hebben ten gevolge van de exploitatiebeperkingen door de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake COVID-19",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033497/VolledigDocument?datum=2020-08-10",
+  "source_sha256": "cb5fbf31fbd4d9e3ee6890b388c70494cf983741e8a3fe13657118b91285a7ac",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033497&param=informatie",
+  "as_of": "2020-08-10",
+  "made": "2020-07-10",
+  "gazette": "2020-07-31",
+  "numac": 2020042540,
+  "document_start": "2020-08-10",
+  "document_end": null,
+  "in_force": "2020-08-10",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2020-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
