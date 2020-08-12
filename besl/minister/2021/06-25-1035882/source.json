@@ -2,16 +2,16 @@
   "codex_id": 1035882,
   "title": "Ministerieel besluit van 2021-06-25 tot wijziging van diverse ministeriële besluiten over het woonbeleid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035882/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "97d7810787b9996ba21975a2bd13c996bd46f621d7707a16a3284bfc32883676",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035882/VolledigDocument?datum=2020-08-12",
+  "source_sha256": "6fef2f1b187f1951b0df6072103b6af6297fd15c899ac827817eba1ed3f86df8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035882&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2020-08-12",
   "made": "2021-06-25",
   "gazette": "2021-08-02",
   "numac": 2021031933,
   "document_start": "2020-08-12",
   "document_end": null,
-  "in_force": "2020-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-08-12",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-08-12; future article versions excluded; article text as the API gives it"
 }
