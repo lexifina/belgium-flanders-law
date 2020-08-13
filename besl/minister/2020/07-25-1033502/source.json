@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033502,
+  "title": "Ministerieel besluit van 2020-07-25 tot wijziging van het ministerieel besluit van 3 juli 2014 betreffende het vervoer en de verwerking van meststoffen, wat betreft het AGR-GPS-systeem",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033502/VolledigDocument?datum=2020-08-13",
+  "source_sha256": "1b07bb389a34e1b3c34f53253b35dd290e35633a9041f147be7fe0c52daefd28",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033502&param=informatie",
+  "as_of": "2020-08-13",
+  "made": "2020-07-25",
+  "gazette": "2020-08-03",
+  "numac": 2020042535,
+  "document_start": "2020-08-13",
+  "document_end": null,
+  "in_force": "2020-08-13",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2020-08-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
