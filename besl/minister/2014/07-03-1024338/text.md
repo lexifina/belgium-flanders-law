@@ -54,23 +54,74 @@ Ter uitvoering van artikel 4, zesde lid, artikel 20, § 6, tweede lid, en   arti
 
 ### ART. 10.
 
-In deze afdeling wordt verstaan onder:<BR>1° beëindigde   mesttransportcyclus: een mesttranportcyclus waarvan alle geladen meststoffen   gelost zijn. Als het een mesttransport betreft waarvan de losplaats niet binnen   Vlaanderen ligt, wordt de mesttransportcyclus geacht beëindigd te zijn op het   moment dat de erkende mestvoerder bij het verlaten van Vlaanderen een   databericht over het lossen van meststoffen stuurt;<BR>2° databericht: een   elektronisch bericht dat verstuurd wordt hetzij tussen het AGR-GPS-apparaat en   de GPS-dienstverlener, hetzij tussen de GPS-dienstverlener en de centrale server   van de Mestbank;<BR>3° GPS-gegevens: op basis van GPS-techniek gemeten gegevens   over de positie van het transportmiddel, alsook de datum en de tijd waarop die   positiegegevens zijn bepaald;<BR>4° mesttransportcyclus: de periode tussen het   versturen van het databericht bij het laden van de meststoffen en het sturen van   het databericht bij het lossen op de laatste losplaats.<BR>
+In deze afdeling wordt verstaan onder:<br>
+1° beëindigde mesttransportcyclus: een mesttranportcyclus waarvan alle geladen meststoffen gelost zijn. Als het een mesttransport betreft waarvan de losplaats niet binnen Vlaanderen ligt, wordt de mesttransportcyclus geacht beëindigd te zijn op het moment dat de erkende mestvoerder bij het verlaten van Vlaanderen een databericht over het lossen van meststoffen stuurt;<br>
+2° databericht: een elektronisch bericht dat verstuurd wordt hetzij tussen het AGR-GPS-apparaat en de GPS-dienstverlener, hetzij tussen de GPS-dienstverlener en de centrale server van de Mestbank, hetzij tussen de AGR-GPS-app en de GPS-dienstverlener;<br>
+3° GPS-gegevens: op basis van GPS-techniek gemeten gegevens over de positie van het transportmiddel, alsook de datum en de tijd waarop die positiegegevens zijn bepaald;<br>
+4° mesttransportcyclus: de periode tussen het versturen van het databericht bij het laden van de meststoffen en het sturen van het databericht bij het lossen op de laatste losplaats;<br>
+5° de partij die het transport uitvoert: de aanbieder of afnemer die een burenregeling uitvoert waarvoor conform artikel 49, § 1, tweede lid, 5°, van het Mestdecreet van 22 december 2006 een AGR-GPS-systeem gebruikt moet worden.
 
 ### ART. 11.
 
-De AGR-GPS-apparatuur moet voldoen aan de volgende voorwaarden:<BR>1° het   AGR-GPS-apparaat is op elk moment aanwezig op het trekkend voertuig en mag niet   verplaatst worden;<BR>2° het AGR-GPS-apparaat beschikt over een buitenantenne om   GPS-signalen te ontvangen;<BR>3° het AGR-GPS-apparaat beschikt over een   barcodelezer of een manuele invoermogelijkheid om het nummer van het   vervoerdocument in te voeren;<BR>4° de AGR-GPS-apparatuur kan het aantal gereden   kilometers bepalen;<BR>5° elke laadruimte die geen vast onderdeel uitmaakt van   een trekkend voertuig, zoals een oplegger of een aanhangwagen, is voorzien van   een sensor, die niet verplaatst of weggenomen kan worden zonder   beschadiging.<BR>
+De AGR-GPS-apparatuur moet voldoen aan de volgende voorwaarden:<br>
+1° het AGR-GPS-apparaat is op elk moment aanwezig op het trekkend voertuig en mag niet verplaatst worden;<br>
+2° het AGR-GPS-apparaat beschikt over een buitenantenne om GPS-signalen te ontvangen;<br>
+3° het AGR-GPS-apparaat beschikt over een barcodelezer of een manuele invoermogelijkheid om het nummer van het transportdocument in te voeren;<br>
+4° de AGR-GPS-apparatuur kan het aantal gereden kilometers bepalen;<br>
+5° elke laadruimte die geen vast onderdeel uitmaakt van een trekkend voertuig, zoals een oplegger of een aanhangwagen, is voorzien van een sensor, die niet verplaatst of weggenomen kan worden zonder beschadiging.<br>
+<br>
+De AGR-GPS-app wordt geïnstalleerd op een toestel dat voldoet aan al de volgende voorwaarden:<br>
+1° het toestel is, bij de uitvoering van een burenregeling waarvoor conform artikel 49, § 1, tweede lid, 5°, van het Mestdecreet van 22 december 2006 een AGR-GPS-systeem gebruikt moet worden, aanwezig in het trekkend voertuig;<br>
+2° het toestel kan GPS-signalen ontvangen;<br>
+3° het toestel beschikt over een barcodelezer of een mogelijkheid om het nummer van het transportdocument manueel in te voeren;<br>
+4° het toestel kan de duurtijd bepalen van het transport;<br>
+5° het toestel registreert automatisch het laadvermogen van de aanhangwagen waarmee het transport wordt uitgevoerd of beschikt over een mogelijkheid om het laadvermogen manueel in te voeren.
 
 ### ART. 12.
 
-Het AGR-GPS-apparaat moet de volgende gegevens automatisch   registreren:<BR>1° het AGR-nummer van het desbetreffende AGR-GPS-apparaat, zoals   toegekend door de Mestbank;<BR>2° het unieke nummer van de sensor die bevestigd   is op de laadruimte, waarmee het transport gebeurt. Als het AGR-GPS-apparaat   automatisch de koppeling kan maken tussen het nummer van de sensor en het   chassisnummer van de laadruimte waarop de sensor is bevestigd, mag het   AGR-GPS-apparaat onmiddellijk het chassisnummer registreren;<BR>3° de   GPS-gegevens. Het AGR-GPS-apparaat registreert die gegevens voortdurend, vanaf   het ogenblik dat de erkende mestvoerder zijn transportmiddel start met de   intentie meststoffen op te laden of te gaan opladen, tot het moment waarop die   meststoffen volledig gelost zijn. Als het vervoerdocument betrekking heeft op   verschillende vrachten, registreert het AGR-GPS-apparaat de GPS-gegevens totdat   de laatste vracht meststoffen volledig gelost is. Als de GPS-ontvanger geen   signaal ontvangt van de GPS-satellieten en er bijgevolg geen GPS-gegevens   gemeten kunnen worden, bewaart het AGR-GPS-apparaat de laatst gemeten   GPS-gegevens.<BR>
+Het AGR-GPS-apparaat moet de volgende gegevens automatisch registreren:<br>
+1° het AGR-nummer van het desbetreffende AGR-GPS-apparaat, zoals toegekend door de Mestbank;<br>
+2° het unieke nummer van de sensor die bevestigd is op de laadruimte, waarmee het transport gebeurt. Als het AGR-GPS-apparaat automatisch de koppeling kan maken tussen het nummer van de sensor en het chassisnummer van de laadruimte waarop de sensor is bevestigd, mag het AGR-GPS-apparaat onmiddellijk het chassisnummer registreren;<br>
+3° de GPS-gegevens. Het AGR-GPS-apparaat registreert die gegevens voortdurend, vanaf het ogenblik dat de erkende mestvoerder zijn transportmiddel start met de intentie meststoffen op te laden of te gaan opladen, tot het moment waarop die meststoffen volledig gelost zijn. Als het transportdocument betrekking heeft op verschillende vrachten, registreert het AGR-GPS-apparaat de GPS-gegevens totdat de laatste vracht meststoffen volledig gelost is. Als de GPS-ontvanger geen signaal ontvangt van de GPS-satellieten en er bijgevolg geen GPS-gegevens gemeten kunnen worden, bewaart het AGR-GPS-apparaat de laatst gemeten GPS-gegevens.<br>
+<br>
+De AGR-GPS-app registreert automatisch de volgende gegevens:<br>
+1° het AGR-nummer van de partij die het transport uitvoert, vermeld in artikel 9.5.3.12, § 1, derde lid, van de VLAREME van 28 oktober 2016;<br>
+2° de GPS-gegevens. De AGR-GPS-app registreert die GPS-gegevens voortdurend, vanaf het ogenblik dat de partij die het transport uitvoert de AGR-GPS-app start met de intentie meststoffen op te laden of te gaan opladen in het kader van de uitvoering van een burenregeling waarvoor conform artikel 49, § 1, tweede lid, 5°, van het Mestdecreet van 22 december 2006 een AGR-GPS-systeem gebruikt moet worden, tot het moment waarop die meststoffen volledig gelost zijn. De AGR-GPS-app registreert de GPS-gegevens totdat de laatste vracht meststoffen, die gebeurt ter uitvoering van een burenregeling waarvoor conform artikel 49, § 1, tweede lid, 5°, van het Mestdecreet van 22 december 2006 een AGR-GPS-systeem gebruikt moet worden, volledig gelost is. Als de GPS-ontvanger geen signaal ontvangt van de GPS-satellieten en er bijgevolg geen GPS-gegevens gemeten kunnen worden, bewaart de AGR-GPS-app de laatst gemeten GPS-gegevens.
 
 ### ART. 13.
 
-<P>In het AGR-GPS-apparaat moeten de volgende gegevens ingevoerd kunnen   worden:<BR>1° het nummer van het vervoerdocument waarop het transport betrekking   heeft. Als het vervoerdocument een mestafzetdocument betreft en het nummer van   het mestafzetdocument niet via een barcodelezer wordt ingevoerd, voert het   AGR-GPS-apparaat een automatische controle uit om na te gaan of het nummer   correct is ingevoerd. Daarvoor gaat het AGR-GPS-apparaat na of het ingevoerde   nummer opgesteld is conform een modulus 97;<BR>2° het feit dat de erkende   mestvoerder meststoffen aan het laden of aan het lossen is;<BR>3° het feit of   het mesttransport al dan niet beëindigd is;<BR>4° het feit dat het om een   testbericht gaat.<BR></P>  <P>In het eerste lid, 1°, wordt verstaan onder modulus 97: het nummer, vermeld   op het mestafzetdocument, dat bestaat uit tien cijfers. Als men de eerste acht   cijfers van dat nummer deelt door 97, vindt men de rest van die deling in de   twee laatste cijfers. Als de deling opgaat, zijn de laatste twee cijfers « 00   ».<BR></P>
+<p>In het AGR-GPS-apparaat moeten de volgende gegevens ingevoerd kunnen worden:<br>
+1° het nummer van het transportdocument waarop het transport betrekking heeft. Als het transportdocument een mestafzetdocument betreft en het nummer van het mestafzetdocument niet via een barcodelezer wordt ingevoerd, voert het AGR-GPS-apparaat een automatische controle uit om na te gaan of het nummer correct is ingevoerd. Daarvoor gaat het AGR-GPS-apparaat na of het ingevoerde nummer opgesteld is conform een modulus 97;<br>
+2° het feit dat de erkende mestvoerder meststoffen aan het laden of aan het lossen is;<br>
+3° het feit of het mesttransport al dan niet beëindigd is;<br>
+4° het feit dat het om een testbericht gaat.<br>
+<br>
+In de AGR-GPS-app kunnen de volgende gegevens ingevoerd worden:<br>
+1° het nummer van de burenregeling waarop het transport betrekking heeft. Als het nummer van de burenregeling niet via een barcodelezer wordt ingevoerd, voert de AGR-GPS-app een automatische controle uit om na te gaan of het nummer correct is ingevoerd. Daarvoor gaat de AGR-GPS-app na of het ingevoerde nummer is opgesteld conform een modulus 97;<br>
+2° het feit dat de partij die het transport uitvoert, meststoffen aan het laden of aan het lossen is;<br>
+3° het feit of het mesttransport al dan niet beëindigd is;<br>
+4° het feit dat het om een testbericht gaat;<br>
+5° het laadvermogen van de aanhangwagen waarmee het transport wordt uitgevoerd.</p>
+
+<p>In het eerste lid, 1°,&nbsp;en in het tweede lid, 1° wordt verstaan onder modulus 97: het nummer, vermeld op het transportdocument, dat bestaat uit tien cijfers. Als men de eerste acht cijfers van dat nummer deelt door 97, vindt men de rest van die deling in de twee laatste cijfers. Als de deling opgaat, zijn de laatste twee cijfers « 00 ».</p>
 
 ### ART. 14.
 
-<P>§ 1. Het AGR-GPS-apparaat geeft duidelijk aan de bestuurder van het trekkend   voertuig aan dat elk onderdeel van de AGR-GPS-apparatuur correct werkt, zonder   dat de bestuurder daarvoor enige handeling hoeft te verrichten.<BR></P>  <P>§ 2. Als het AGR-GPS-apparaat aangeeft dat een onderdeel van de AGR-GPS   apparatuur niet correct werkt of als de erkende mestvoerder zelf merkt dat de   AGR-GPS-apparatuur niet correct werkt, mag de erkende mestvoerder de geplande   mesttransportcyclus niet aanvatten.<BR></P>  <P>Als de mesttransportcyclus al is aangevat, als het AGR-GPS-apparaat aangeeft   dat een onderdeel van de AGR-GPS-apparatuur niet correct werkt of als de erkende   mestvoerder zelf merkt dat de AGR-GPS-apparatuur niet correct werkt, mag de   erkende mestvoerder de mesttransportcyclus beëindigen.<BR></P>  <P>§ 3. Zodra het AGR-GPS-apparaat aangeeft dat een onderdeel van de   AGR-GPS-apparatuur niet correct werkt, neemt de erkende mestvoerder onmiddellijk   contact op met de Mestbank en met de GPS-dienstverlener om het defect te melden.   De erkende mestvoerder mag pas een nieuwe mesttransportcyclus aanvatten als de   AGR-GPS-apparatuur hersteld is en als hij na het versturen van een testbericht   een melding heeft ontvangen van de GPS-dienstverlener dat die het testbericht   correct en volledig heeft ontvangen.<BR></P>
+<p>§ 1. Het AGR-GPS-apparaat geeft duidelijk aan de bestuurder van het trekkend voertuig aan dat elk onderdeel van de AGR-GPS-apparatuur correct werkt, zonder dat de bestuurder daarvoor enige handeling hoeft te verrichten.</p>
+
+<p>§ 2. Als het AGR-GPS-apparaat aangeeft dat een onderdeel van de AGR-GPS apparatuur niet correct werkt of als de erkende mestvoerder zelf merkt dat de AGR-GPS-apparatuur niet correct werkt, mag de erkende mestvoerder de geplande mesttransportcyclus niet aanvatten.</p>
+
+<p>Als de mesttransportcyclus al is aangevat, als het AGR-GPS-apparaat aangeeft dat een onderdeel van de AGR-GPS-apparatuur niet correct werkt of als de erkende mestvoerder zelf merkt dat de AGR-GPS-apparatuur niet correct werkt, mag de erkende mestvoerder de mesttransportcyclus beëindigen.</p>
+
+<p>§ 3. Zodra het AGR-GPS-apparaat aangeeft dat een onderdeel van de AGR-GPS-apparatuur niet correct werkt, neemt de erkende mestvoerder onmiddellijk contact op met de Mestbank en met de GPS-dienstverlener om het defect te melden. De erkende mestvoerder mag pas een nieuwe mesttransportcyclus aanvatten als de AGR-GPS-apparatuur hersteld is en als hij na het versturen van een testbericht een melding heeft ontvangen van de GPS-dienstverlener dat die het testbericht correct en volledig heeft ontvangen.<br>
+<br>
+§ 4. De AGR-GPS-app geeft aan de partij die het transport uitvoert duidelijk aan dat elk onderdeel van de AGR-GPS-app correct werkt, zonder dat de partij die het transport uitvoert daarvoor enige handeling hoeft te verrichten.<br>
+<br>
+§ 5. Als de AGR-GPS-app aangeeft dat een onderdeel van de AGR-GPS-app niet correct werkt of als de partij die het transport uitvoert zelf merkt dat de AGR-GPS-app niet correct werkt, mag de partij die het transport uitvoert de geplande mesttransportcyclus niet aanvatten.<br>
+<br>
+Als de mesttransportcyclus al is aangevat, als de AGR-GPS-app aangeeft dat een onderdeel van de AGR-GPS-app niet correct werkt of als de partij die het transport uitvoert zelf merkt dat de AGR-GPS-app niet correct werkt, mag de partij die het transport uitvoert de mesttransportcyclus beëindigen.<br>
+<br>
+§ 6. Zodra de AGR-GPS-app aangeeft dat een onderdeel van de AGR-GPS-app niet correct werkt, neemt de partij die het transport uitvoert onmiddellijk contact op met de GPS-dienstverlener om het defect te melden. De partij die het transport uitvoert mag pas een nieuwe mesttransportcyclus aanvatten als de AGR-GPS-app hersteld is en als ze na het versturen van een testbericht een melding heeft ontvangen van de GPS-dienstverlener dat die het testbericht correct en volledig heeft ontvangen.</p>
 
 ### ART. 15.
 
@@ -78,15 +129,75 @@ Het AGR-GPS-apparaat moet de volgende gegevens automatisch   registreren:<BR>1°
 
 ### ART. 16.
 
-<P>Telkens als de erkende mestvoerder meststoffen laadt, start er een nieuwe   mesttransportcyclus. De erkende mestvoerder kan geen nieuwe mesttransportcyclus   starten voor hij de vorige mesttransportcyclus heeft beëindigd.<BR></P>  <P>Het AGR-GPS-apparaat verzendt tijdens elke mesttransportcyclus de volgende   databerichten naar de GPS-dienstverlener:<BR>1° een databericht over het laden   van meststoffen. Dat databericht wordt automatisch verstuurd zodra de erkende   mestvoerder invoert dat hij aan het laden is. De mestvoerder voert het bericht   in op het moment dat hij stilstaat op de exacte laadplaats en vóór hij begint   met laden;<BR>2° een databericht over het lossen van meststoffen. Dat   databericht wordt automatisch verstuurd zodra de erkende mestvoerder invoert dat   hij aan het lossen is. De mestvoerder voert het bericht in op het moment dat hij   stilstaat op de exacte losplaats en vóór hij begint met lossen;<BR>3° een   databericht over de tussentijdse positie van het transportmiddel dat automatisch   verstuurd wordt om de vijftien gereden kilometers gedurende elke   mesttransportcyclus;<BR>4° een databericht over de beëindiging van de   mesttransportcyclus. Dat databericht wordt automatisch verstuurd zodra de   erkende mestvoerder invoert dat hij de vracht volledig heeft gelost. De   mestvoerder voert het bericht in vóór hij vertrekt op de losplaats nadat alle   geladen meststoffen gelost zijn.<BR></P>  <P>Het AGR-GPS-apparaat bewaart de gegevens van elk databericht minstens totdat   het AGR-GPS-apparaat van de GPS-dienstverlener het bericht krijgt dat het   databericht volledig en correct is ontvangen door de GPS-dienstverlener. Als het   verzenden niet onmiddellijk lukt, probeert het AGR-GPS-apparaat onophoudelijk om   het bericht te verzenden.<BR></P>  <P>De erkende mestvoerder heeft de mogelijkheid om een testbericht te versturen   om het AGR-GPS-systeem te testen. De Mestbank kan ook de erkende mestvoerder   verplichten om een testbericht te versturen om na te gaan of het AGR-GPS-systeem   operationeel is.<BR></P>
+<p>§ 1. Telkens als de erkende mestvoerder meststoffen laadt, start er een nieuwe mesttransportcyclus. De erkende mestvoerder kan geen nieuwe mesttransportcyclus starten voor hij de vorige mesttransportcyclus heeft beëindigd.</p>
+
+<p>Het AGR-GPS-apparaat verzendt tijdens elke mesttransportcyclus de volgende databerichten naar de GPS-dienstverlener:<br>
+1° een databericht over het laden van meststoffen. Dat databericht wordt automatisch verstuurd zodra de erkende mestvoerder invoert dat hij aan het laden is. De mestvoerder voert het bericht in op het moment dat hij stilstaat op de exacte laadplaats en vóór hij begint met laden;<br>
+2° een databericht over het lossen van meststoffen. Dat databericht wordt automatisch verstuurd zodra de erkende mestvoerder invoert dat hij aan het lossen is. De mestvoerder voert het bericht in op het moment dat hij stilstaat op de exacte losplaats en vóór hij begint met lossen;<br>
+3° een databericht over de tussentijdse positie van het transportmiddel dat automatisch verstuurd wordt om de vijftien gereden kilometers gedurende elke mesttransportcyclus;<br>
+4° een databericht over de beëindiging van de mesttransportcyclus. Dat databericht wordt automatisch verstuurd zodra de erkende mestvoerder invoert dat hij de vracht volledig heeft gelost. De mestvoerder voert het bericht in vóór hij vertrekt op de losplaats nadat alle geladen meststoffen gelost zijn.</p>
+
+<p>Het AGR-GPS-apparaat bewaart de gegevens van elk databericht minstens totdat het AGR-GPS-apparaat van de GPS-dienstverlener het bericht krijgt dat het databericht volledig en correct is ontvangen door de GPS-dienstverlener. Als het verzenden niet onmiddellijk lukt, probeert het AGR-GPS-apparaat onophoudelijk om het bericht te verzenden.</p>
+
+<p>De erkende mestvoerder heeft de mogelijkheid om een testbericht te versturen om het AGR-GPS-systeem te testen. De Mestbank kan ook de erkende mestvoerder verplichten om een testbericht te versturen om na te gaan of het AGR-GPS-systeem operationeel is.<br>
+<br>
+§ 2. Telkens als de partij die het transport uitvoert meststoffen laadt ter uitvoering van een burenregeling waarvoor conform artikel 49, § 1, tweede lid, 5°, van het Mestdecreet van 22 december 2006 een AGR-GPS-systeem gebruikt moet worden, start er een nieuwe mesttransportcyclus. De partij die het transport uitvoert kan geen nieuwe mesttransportcyclus starten voor ze de vorige mesttransportcyclus heeft beëindigd.<br>
+<br>
+De AGR-GPS-app verzendt tijdens elke mesttransportcyclus de volgende databerichten naar de GPS-dienstverlener:<br>
+1° een databericht over het laden van meststoffen. Dat databericht wordt automatisch verstuurd zodra de partij die het transport uitvoert invoert dat ze aan het laden is. De partij die het transport uitvoert voert het bericht in op het moment dat ze stilstaat op de exacte laadplaats en vóór ze begint met laden;<br>
+2° een databericht over het lossen van meststoffen. Dat databericht wordt automatisch verstuurd zodra de partij die het transport uitvoert invoert dat ze aan het lossen is. De partij die het transport uitvoert voert het bericht in op het moment dat ze stilstaat op de exacte losplaats en vóór ze begint met lossen;<br>
+3° een databericht over de tussentijdse positie van het transportmiddel. Dat databericht wordt automatisch verstuurd om de vijf minuten gedurende elke mesttransportcyclus;<br>
+4° een databericht over de beëindiging van de mesttransportcyclus. Dat databericht wordt automatisch verstuurd zodra de partij die het transport uitvoert invoert dat ze de vracht volledig heeft gelost. De partij die het transport uitvoert voert het bericht in vóór ze vertrekt op de losplaats nadat alle geladen meststoffen gelost zijn.<br>
+<br>
+De AGR-GPS-app bewaart de gegevens van elk databericht minstens totdat de AGR-GPS-app van de GPS-dienstverlener het bericht krijgt dat het databericht volledig en correct is ontvangen door de GPS-dienstverlener. Als het verzenden niet onmiddellijk lukt, probeert de AGR-GPS-app onophoudelijk om het bericht te verzenden.<br>
+<br>
+De partij die het transport uitvoert heeft de mogelijkheid om een testbericht te versturen om de AGR-GPS-app te testen. De Mestbank kan ook de partij die het transport uitvoert verplichten om een testbericht te versturen om na te gaan of de AGR-GPS-app operationeel is.</p>
 
 ### ART. 17.
 
-<P>De databerichten, vermeld in artikel 16, die verstuurd worden van het   AGR-GPS-apparaat naar de GPS-dienstverlener, zijn minstens samengesteld uit de   volgende gegevens:<BR>1° het nummer van het vervoerdocument;<BR>2° het   AGR-nummer van het AGR-GPS-apparaat;<BR>3° hetzij het nummer van de sensor,   hetzij het chassisnummer van de laadruimte waarop de sensor is bevestigd als de   meststoffen vervoerd worden in een laadruimte die over een sensor   beschikt;<BR>4° de laatst gemeten GPS-gegevens;<BR>5° de aanduiding dat het een   databericht betreft over het laden, over het lossen of over de tussentijdse   positie;<BR>6° de aanduiding of de mesttransportcyclus al dan niet beëindigd   is;<BR>7° de aanduiding of het al dan niet over een testbericht gaat;<BR>8° de   aanduiding of er op het moment van het versturen van het databericht al dan niet   een storing is opgetreden.<BR></P>  <P>In het eerste lid, 8°, wordt verstaan onder storing: een belemmering waardoor   de GPS-ontvanger geen GPS-signaal ontvangt.<BR></P>
+<p>§ 1. De databerichten, vermeld in artikel 16, die verstuurd worden van het AGR-GPS-apparaat naar de GPS-dienstverlener, zijn minstens samengesteld uit de volgende gegevens:<br>
+1° het nummer van het transportdocument;<br>
+2° het AGR-nummer van het AGR-GPS-apparaat;<br>
+3° hetzij het nummer van de sensor, hetzij het chassisnummer van de laadruimte waarop de sensor is bevestigd als de meststoffen vervoerd worden in een laadruimte die over een sensor beschikt;<br>
+4° de laatst gemeten GPS-gegevens;<br>
+5° de aanduiding dat het een databericht betreft over het laden, over het lossen of over de tussentijdse positie;<br>
+6° de aanduiding of de mesttransportcyclus al dan niet beëindigd is;<br>
+7° de aanduiding of het al dan niet over een testbericht gaat;<br>
+8° de aanduiding of er op het moment van het versturen van het databericht al dan niet een storing is opgetreden.</p>
+
+<p>In het eerste lid, 8°, wordt verstaan onder storing: een belemmering waardoor de GPS-ontvanger geen GPS-signaal ontvangt.<br>
+<br>
+§ 2. De databerichten, vermeld in artikel 16, § 2, die verstuurd worden van de AGR-GPS-app naar de GPS-dienstverlener, zijn minstens samengesteld uit de volgende gegevens:<br>
+1° het nummer van de burenregeling;<br>
+2° het AGR-nummer van de partij die het transport uitvoert;<br>
+3° het laadvermogen van de aanhangwagen waarmee het transport wordt uitgevoerd;<br>
+4° de laatst gemeten GPS-gegevens;<br>
+5° de aanduiding dat het een databericht betreft over het laden, over het lossen of over de tussentijdse positie;<br>
+6° de aanduiding of de mesttransportcyclus al dan niet beëindigd is;<br>
+7° de aanduiding of het al dan niet over een testbericht gaat;<br>
+8° de aanduiding of er op het moment van het versturen van het databericht al dan niet een storing is opgetreden.<br>
+<br>
+In het eerste lid, 8°, wordt verstaan onder storing: een belemmering waardoor de GPS-ontvanger geen GPS-signaal ontvangt.</p>
 
 ### ART. 18.
 
-<P>§ 1. De GPS-dienstverlener stuurt na de ontvangst van een databericht of een   testbericht als vermeld in artikel 16, een melding naar het AGR-GPS-apparaat dat   het databericht of het testbericht heeft verstuurd, waarin hij meedeelt of hij   het databericht of het testbericht al dan niet correct en volledig heeft   ontvangen.<BR></P>  <P>§ 2. De GPS-dienstverlener stuurt de databerichten en de testberichten,   vermeld in artikel 16, die hij volledig en correct ontvangen heeft van een   AGR-GPS-apparaat, onmiddellijk door naar de centrale server van de   Mestbank.<BR></P>  <P>De GPS-dienstverlener moet vóór hij die databerichten doorstuurt naar de   centrale server van de Mestbank:<BR>1° het nummer van de sensor vervangen door   het chassisnummer van de laadruimte waarop de sensor is bevestigd, als de   databerichten afkomstig zijn van een AGR-GPS-apparaat dat niet automatisch de   koppeling kan maken tussen het nummer van de sensor en het chassisnummer van de   laadruimte waarop de sensor is bevestigd;<BR>2° het identificatienummer en het   wachtwoord toevoegen dat hij als GPS-dienstverlener ontvangen heeft van de   Mestbank.<BR></P>  <P>§ 3. De GPS-dienstverlener mag in de databerichten die hij doorstuurt naar de   Mestbank, de gegevens, vermeld in artikel 17, niet wijzigen, met uitzondering   van hetgeen bepaald is in paragraaf 2.<BR></P>  <P>§ 4. De databerichten die naar de centrale server van de Mestbank worden   verstuurd, mogen alleen toegankelijk zijn voor de GPS-dienstverlener zolang de   centrale server bij de Mestbank geen bericht heeft verstuurd dat de Mestbank het   verstuurde databericht correct en volledig heeft ontvangen.<BR></P>  <P>§ 5. De GPS-dienstverlener bewaart de gegevens van elk databericht minstens   totdat hij van de centrale server van de Mestbank het bericht krijgt dat de   Mestbank het databericht volledig en correct heeft ontvangen.<BR></P>  <P>Als de GPS-dienstverlener van de centrale server van de Mestbank het bericht   krijgt dat de Mestbank het databericht niet volledig en correct heeft ontvangen,   verzendt de GPS-dienstverlener het databericht opnieuw.<BR></P>  <P>§ 6. Als de GPS-dienstverlener andere berichten dan de databerichten en   testberichten, vermeld in artikel 16, ontvangt van het AGR-GPS-apparaat, mag de   GPS-dienstverlener die niet doorsturen naar de centrale server van de   Mestbank.<BR></P>
+<p>§ 1. De GPS-dienstverlener stuurt na de ontvangst van een databericht of een testbericht als vermeld in artikel 16, een melding naar het AGR-GPS-apparaat of de AGR-GPS-app dat het databericht of het testbericht heeft verstuurd, waarin hij meedeelt of hij het databericht of het testbericht al dan niet correct en volledig heeft ontvangen.</p>
+
+<p>§ 2. De GPS-dienstverlener stuurt de databerichten en de testberichten, vermeld in artikel 16, die hij volledig en correct ontvangen heeft van een AGR-GPS-apparaat of van een AGR-GPS-app, onmiddellijk door naar de centrale server van de Mestbank.</p>
+
+<p>De GPS-dienstverlener moet vóór hij die databerichten doorstuurt naar de centrale server van de Mestbank:<br>
+1° als de databerichten afkomstig zijn van een AGR-GPS-apparaat, het nummer van de sensor vervangen door het chassisnummer van de laadruimte waarop de sensor is bevestigd, als de databerichten afkomstig zijn van een AGR-GPS-apparaat dat niet automatisch de koppeling kan maken tussen het nummer van de sensor en het chassisnummer van de laadruimte waarop de sensor is bevestigd;<br>
+2° het identificatienummer en het wachtwoord toevoegen dat hij als GPS-dienstverlener ontvangen heeft van de Mestbank.</p>
+
+<p>§ 3. De GPS-dienstverlener mag in de databerichten die hij doorstuurt naar de Mestbank, de gegevens, vermeld in artikel 17, niet wijzigen, met uitzondering van hetgeen bepaald is in paragraaf 2.</p>
+
+<p>§ 4. De databerichten die naar de centrale server van de Mestbank worden verstuurd, mogen alleen toegankelijk zijn voor de GPS-dienstverlener zolang de centrale server bij de Mestbank geen bericht heeft verstuurd dat de Mestbank het verstuurde databericht correct en volledig heeft ontvangen.</p>
+
+<p>§ 5. De GPS-dienstverlener bewaart de gegevens van elk databericht minstens totdat hij van de centrale server van de Mestbank het bericht krijgt dat de Mestbank het databericht volledig en correct heeft ontvangen.</p>
+
+<p>Als de GPS-dienstverlener van de centrale server van de Mestbank het bericht krijgt dat de Mestbank het databericht niet volledig en correct heeft ontvangen, verzendt de GPS-dienstverlener het databericht opnieuw.</p>
+
+<p>§ 6. Als de GPS-dienstverlener andere berichten dan de databerichten en testberichten, vermeld in artikel 16, ontvangt van het AGR-GPS-apparaat of van de AGR-GPS-app, mag de GPS-dienstverlener die niet doorsturen naar de centrale server van de Mestbank.</p>
 
 ### ART. 19.
 
@@ -94,7 +205,9 @@ Het AGR-GPS-apparaat moet de volgende gegevens automatisch   registreren:<BR>1°
 
 ### ART. 20.
 
-Het AGR-GPS-systeem wordt geïmplementeerd overeenkomstig de procedure,   opgenomen in bijlage 2, die bij dit besluit is gevoegd.<BR>
+Het AGR-GPS-systeem, dat gebruikt wordt door erkende mestvoerders,&nbsp;wordt geïmplementeerd overeenkomstig de procedure, opgenomen in bijlage 2, die bij dit besluit is gevoegd.<br>
+<br>
+Het AGR-GPS-systeem, dat gebruikt wordt door andere mestvervoerders dan erkende mestvoerders, wordt geïmplementeerd conform de procedure, opgenomen in bijlage 4, die bij dit besluit is gevoegd.
 
 ### ART. 21.
 
@@ -145,3 +258,7 @@ Tabel van de forfaitaire mestsamenstellingscijfers als vermeld in artikel   6, t
 ### BIJLAGE 3
 
 <A   href="http://www.ejustice.just.fgov.be/mopdf/2014/07/28_1.pdf#page=32">Bijlage   3</A>
+
+### BIJLAGE 4
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/03_1.pdf#page=122">Bijlage 4</a>
