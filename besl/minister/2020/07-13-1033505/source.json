@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033505,
+  "title": "Ministerieel besluit van 2020-07-13 over de uitvoeringsbepalingen van het decreet van 8 mei 2020 tot het nemen van dringende en tijdelijke maatregelen in het onderwijs naar aanleiding van de coronacrisis i.v.m. de inschrijvingen in scholen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033505/VolledigDocument?datum=2020-08-14",
+  "source_sha256": "fe095730faf403b29db5614e0193e440a5759e8fea498b76171081dca57c79bf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033505&param=informatie",
+  "as_of": "2020-08-14",
+  "made": "2020-07-13",
+  "gazette": "2020-08-04",
+  "numac": 2020042577,
+  "document_start": "2020-08-14",
+  "document_end": null,
+  "in_force": "2020-08-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
