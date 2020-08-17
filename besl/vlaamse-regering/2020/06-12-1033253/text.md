@@ -107,7 +107,7 @@ De steun verleend in het kader van dit besluit is intuitu personae en kan niet o
 
 De onderneming dient een subsidieaanvraag in via de website van het Agentschap Innoveren en Ondernemen, VLAIO genoemd, en vermeldt daarbij haar ondernemingsnummer.<br>
 <br>
-De subsidieaanvraag moet ten laatste op 15 augustus 2020 worden ingediend. De subsidieaanvraag wordt elektronisch afgehandeld.<br>
+De subsidieaanvraag moet ten laatste op 31 augustus 2020 worden ingediend. De subsidieaanvraag wordt elektronisch afgehandeld.<br>
 <br>
 Het Agentschap Innoveren en Ondernemen onderzoekt de naleving van de voorwaarden die zijn opgelegd bij dit besluit en beslist of de subsidie toegekend wordt.<br>
 <br>
@@ -172,6 +172,6 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 
 ### ART 21.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van de artikelen 13, 14 en 15 die in werking treden op 10 april 2020, en de artikelen 16, 17 en 18 die in werking treden op 20 maart 2020.<br>
+Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van de artikelen 13, 14 en 15 die in werking treden op 10 april 2020, en de artikelen 16, 17, 18 en 19 die in werking treden op 14 maart 2020.<br>
 <br>
 De Vlaamse minister, bevoegd voor de economie, kan dit besluit opheffen.
