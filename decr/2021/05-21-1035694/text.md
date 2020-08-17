@@ -407,6 +407,12 @@ In artikel 21 van hetzelfde decreet, gewijzigd bij decreet van 19 juni 2020 en 1
 
 In artikel 42, § 3, eerste lid, van hetzelfde decreet wordt het woord "Jongerenwelzijn" vervangen door de woorden "Opgroeien regie".
 
+### ART 86.
+
+Aan artikel 87 van hetzelfde decreet, gewijzigd bij de decreten van 24 september 2019 en 17 juli 2020, wordt een paragraaf 6 toegevoegd, die luidt als volgt:<br>
+<br>
+" § 6. Voor de toepassing van artikel 21, § 6, en tot op de datum van inwerkingtreding van de in artikel 89, tweede lid, vermelde artikelen, wordt de maatregel tot een voorlopige plaatsing in een gesloten opvoedingsafdeling van een openbare gemeenschapsinstelling, vermeld in 52quater van de wet van 8 april 1965, gelijkgesteld met de maatregel, vermeld in artikel 20, § 2, eerste lid, 5°, van dit decreet.".
+
 ## HOOFDSTUK 14. Wijzigingen van het decreet van 26 april 2019 houdende de oprichting van een afstammingscentrum en een DNA-databank
 
 ### ART 87.
