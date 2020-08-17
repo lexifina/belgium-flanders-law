@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033514,
+  "title": "Ministerieel besluit van 2020-06-17 tot de vaststelling van de maatregelen en de modaliteiten tot uitvoering van het natuurinrichtingsproject De Liereman en tot ontheffing van verbodsbepalingen die gelden in het Vlaams Ecologisch Netwerk",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033514/VolledigDocument?datum=2020-08-17",
+  "source_sha256": "8b84477f306933a0c6819a246adbabf72c05af7ec917ccb0134095a1541f17e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033514&param=informatie",
+  "as_of": "2020-08-17",
+  "made": "2020-06-17",
+  "gazette": "2020-08-07",
+  "numac": 2020015306,
+  "document_start": "2020-08-17",
+  "document_end": null,
+  "in_force": "2020-08-17",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2020-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
