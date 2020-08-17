@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033510,
+  "title": "Decreet van 2020-07-17 tot wijziging van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht, wat de voorbereidende rechtspleging betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033510/VolledigDocument?datum=2020-08-17",
+  "source_sha256": "0dd0227dbfd963bd158f15ff689e48811013dcec9b291a1aa026d9591b20a942",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033510&param=informatie",
+  "as_of": "2020-08-17",
+  "made": "2020-07-17",
+  "gazette": "2020-08-07",
+  "numac": 2020042448,
+  "document_start": "2020-08-17",
+  "document_end": null,
+  "in_force": "2020-08-17",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
