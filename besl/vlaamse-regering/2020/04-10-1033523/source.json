@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033523,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-10 tot erkenning van de beroepskwalificatie brandweerman",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033523/VolledigDocument?datum=2020-08-17",
+  "source_sha256": "702894056bcd154abd749297c2b4c1731b53a02f2c9be8f72116e44fc553824d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033523&param=informatie",
+  "as_of": "2020-08-17",
+  "made": "2020-04-10",
+  "gazette": "2020-08-07",
+  "numac": 2020030991,
+  "document_start": "2020-08-17",
+  "document_end": null,
+  "in_force": "2020-08-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
