@@ -356,12 +356,16 @@ De Vlaamse Regering bepaalt de nadere regels en modaliteiten waaraan de maatrege
 
 ### ART 21.
 
-§ 1. Buiten de gevallen, vermeld in paragraaf 2, is de duur van de voorbereidende rechtspleging beperkt tot zes maanden vanaf de vordering, vermeld in artikel 14. De termijn van de voorbereidende rechtspleging wordt geschorst tussen de datum van neerlegging van de akte van hoger beroep en de datum van de uitspraak van het arrest.<br>
+§ 1. De duur van de voorbereidende rechtspleging is beperkt tot negen maanden vanaf de vordering, vermeld in artikel 14, tot en met het vonnis van de jeugdrechtbank.<br>
 <br>
-Als de termijn van zes maanden, vermeld in het eerste lid, wordt overschreden, is het niet meer mogelijk om een maatregel op te leggen behoudens voor de gevallen, vermeld in paragraaf 2.<br>
+Als de termijn van de voorbereidende rechtspleging, vermeld in het eerste lid, wordt overschreden, kan een opgelegde maatregel alleen nog blijven doorlopen, verlengd worden of herzien worden overeenkomstig artikel 16, § 2, in de gevallen, vermeld in paragraaf 4 en 5.<br>
+<br>
+De termijn van de voorbereidende rechtspleging, vermeld in het eerste lid, wordt geschorst:<br>
+1° tussen de datum van neerlegging van de akte van hoger beroep en de datum van de uitspraak van het arrest;<br>
+2° tijdens de duur van het uitstel tussen de inleidende zitting en het moment waarop de zaak in beraad wordt genomen.<br>
 <br>
 § 2. In de volgende gevallen kan van de duur, vermeld in paragraaf 1, eerste lid, worden afgeweken door de jeugdrechter:<br>
-1° het onderzoek naar de feiten is nog niet afgerond;<br>
+1° het onderzoek naar de feiten&nbsp;of een deskundigenonderzoek naar de persoonlijkheid van de minderjarige verdachte is nog niet afgerond;<br>
 2° het jeugddelict waarvan de minderjarige verdacht wordt het te hebben gepleegd, betreft een feit dat, als het zou zijn gepleegd door een meerderjarige, in de zin van het Strafwetboek of de bijzondere wetten, een opsluiting van vijf jaar of een zwaardere straf tot gevolg kan hebben.<br>
 <br>
 In het geval één voorwaarde, vermeld in het eerste lid, 1° of 2°, vervuld is, bedraagt de maximumduur van de voorbereidende rechtspleging twaalf maanden.<br>
@@ -372,9 +376,11 @@ De jeugdrechter neemt hiertoe uitdrukkelijk uiterlijk voor het verstrijken van d
 <br>
 § 3. De voorbereidende rechtspleging kan zeer uitzonderlijk, zolang beide voorwaarden cumulatief vervuld blijven, na de termijn, vermeld in paragraaf 2, derde lid, maximaal per maand opeenvolgend verlengd worden, indien de jeugdrechter dergelijke verlenging absoluut noodzakelijk acht en de redenen hiervoor specifiek motiveert in zijn beslissing, na de minderjarige verdachte, zijn ouders of zijn opvoedingsverantwoordelijken te hebben opgeroepen.<br>
 <br>
-§ 4. In afwijking van artikel 24, derde lid, artikel 25, § 2, en artikel 27, § 1, eerste lid, kan de duur van de maatregel maximaal per drie maanden opeenvolgend verlengd worden en dit uiterlijk totdat de maximale termijn van de voorbereidende rechtspleging is verstreken.<br>
+§ 4. Uiterlijk tot de maximale termijn van de voorbereidende rechtspleging is verstreken, kunnen de maatregelen, vermeld in artikel 20, § 2, eerste lid, 1° tot en met 3° /1, en 5°, die de jeugdrechter heeft opgelegd, blijven doorlopen voor de oorspronkelijk bepaalde duur, verlengd worden of herzien worden overeenkomstig artikel 16, § 2. De maatregel wordt in voorkomend geval verlengd met een bijzonder gemotiveerde beslissing, na de minderjarige verdachte, zijn ouders of zijn opvoedingsverantwoordelijken te hebben opgeroepen. Binnen de termijn van maximaal twee jaar vanaf de vordering, vermeld in artikel 14, kan de maatregel maximaal per drie maanden opeenvolgend worden verlengd. Na die termijn kan de maatregel maximaal per maand opeenvolgend worden verlengd.<br>
 <br>
-§ 5. In afwijking van paragraaf 4 kan de duur van de maatregel, vermeld in artikel 20, § 2, eerste lid, 3° /1, maximaal tweemaal verlengd worden met een termijn van maximaal drie maanden met een bijzondere gemotiveerde beslissing, na de minderjarige verdachte, zijn ouders of zijn opvoedingsverantwoordelijken te hebben opgeroepen.
+§ 5. In afwijking van paragraaf 4 kan de duur van de maatregel, vermeld in artikel 20, § 2, eerste lid, 3° /1, maximaal tweemaal verlengd worden met een termijn van maximaal drie maanden met een bijzondere gemotiveerde beslissing, na de minderjarige verdachte, zijn ouders of zijn opvoedingsverantwoordelijken te hebben opgeroepen.<br>
+<br>
+§ 6. Wanneer de duur van de voorlopige rechtspleging is verstreken en de minderjarige verdachte is gedagvaard om voor de jeugdrechtbank te verschijnen, kan de jeugdrechter de maatregel, vermeld in artikel 20, § 2, eerste lid, 5°, verlengen met een bijzondere gemotiveerde beslissing voor het einde van die maatregel, met telkens een termijn van maximaal een maand en uiterlijk tot de dag waarop de beslissing ten gronde is genomen, indien ernstige en uitzonderlijke omstandigheden in verband met vereisten inzake openbare veiligheid dit vereisen en na de minderjarige verdachte, zijn ouders of zijn opvoedingsverantwoordelijken te hebben opgeroepen.
 
 ## Onderafdeling 2. Het herstelrechtelijk aanbod
 
@@ -1039,7 +1045,13 @@ De regels, vermeld in de wet van 8 april 1965, die op de uitvoering van de in he
 <br>
 § 3. Voor een beslissing tot uithandengeving als vermeld in artikel 38, § 2, tweede lid, van dit decreet, wordt een plaatsing in een openbare gemeenschapsinstelling als vermeld in artikel 37, § 2, 8°, van de wet van 8 april 1965, gelijkgesteld met de sancties, vermeld in artikel 35, 36 en 37 van dit decreet.<br>
 <br>
-§ 4. Een plaatsing of een voorlopige plaatsing in een gesloten opvoedingsafdeling van een openbare gemeenschapsinstelling, bedoeld respectievelijk in artikel 37, § 2quater, tweede lid, en artikel 52 van de wet van 8 april 1965, kan als vervangende reactie worden opgelegd als vermeld in artikel 25, § 8, derde, vierde en vijfde lid, artikel 32, derde lid, artikel 33, derde lid, en artikel 34, § 1, derde lid, van dit decreet.
+§ 4. Een plaatsing of een voorlopige plaatsing in een gesloten opvoedingsafdeling van een openbare gemeenschapsinstelling, bedoeld respectievelijk in artikel 37, § 2quater, tweede lid, en artikel 52 van de wet van 8 april 1965, kan als vervangende reactie worden opgelegd als vermeld in artikel 25, § 8, derde, vierde en vijfde lid, artikel 32, derde lid, artikel 33, derde lid, en artikel 34, § 1, derde lid, van dit decreet.<br>
+<br>
+§ 5. In afwijking van artikel 21, § 4, en tot op de dag van de inwerkingtreding van de bepalingen, vermeld in artikel 89, tweede lid, kan de maatregel tot een voorlopige plaatsing in een open of gesloten opvoedingsafdeling van een openbare gemeenschapsinstelling, vermeld in artikel 52 en 52quater van de wet van 8 april 1965, verlengd worden overeenkomstig de termijnen van de wet van 8 april 1965.<br>
+<br>
+Tot op de dag van de inwerkingtreding van de bepalingen, vermeld in artikel 89, tweede lid, kan de maatregel ten gronde tot plaatsing in een open of gesloten opvoedingsafdeling van een openbare gemeenschapsinstelling, vermeld in artikel 37, § 2, eerste lid, 8°, van de wet van 8 april 1965, verlengd worden uiterlijk tot de dag waarop de betrokkene de leeftijd van twintig jaar heeft bereikt, overeenkomstig artikel 37, § 3, van de wet van 8 april 1965.<br>
+<br>
+§ 6. Voor de toepassing van artikel 21, § 6, en tot op de datum van inwerkingtreding van de in artikel 89, tweede lid, vermelde artikelen, wordt de maatregel tot een voorlopige plaatsing in een gesloten opvoedingsafdeling van een openbare gemeenschapsinstelling, vermeld in 52quater van de wet van 8 april 1965, gelijkgesteld met de maatregel, vermeld in artikel 20, § 2, eerste lid, 5°, van dit decreet.
 
 ## Afdeling 2. Bepalingen over de inwerkingtreding en de uitvoering
 
