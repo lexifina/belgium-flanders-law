@@ -89,3 +89,100 @@ De Vlaamse minister, bevoegd voor de economie, kan bijkomende modaliteiten en pr
 ### ART 10.
 
 De Vlaamse minister, bevoegd voor Economie is belast met de uitvoering van dit besluit.
+
+### BIJLAGE
+
+<span style="font-size:medium"><span style="color:#000000">De lijst van sectoren als vermeld in artikel 1, 5°.</span></span><br>
+&nbsp;
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>Code</td>
+			<td>Activiteit</td>
+		</tr>
+		<tr>
+			<td>74201</td>
+			<td>Activiteiten van fotografen, met uitzondering van persfotografen</td>
+		</tr>
+		<tr>
+			<td>90011</td>
+			<td>Beoefening van uitvoerende kunsten door zelfstandig werkende artiesten</td>
+		</tr>
+		<tr>
+			<td>56210</td>
+			<td>Catering</td>
+		</tr>
+		<tr>
+			<td>90023</td>
+			<td>Gespecialiseerde beeld-, verlichtings- en geluidstechnieken</td>
+		</tr>
+		<tr>
+			<td>90021</td>
+			<td>Promotie en organisatie van uitvoerende kunstevenementen</td>
+		</tr>
+		<tr>
+			<td>74901</td>
+			<td>Activiteiten van managers van artiesten, sportlui en overige bekende personaliteiten</td>
+		</tr>
+		<tr>
+			<td>77392</td>
+			<td>Verhuur en lease van tenten</td>
+		</tr>
+		<tr>
+			<td>77399</td>
+			<td>Verhuur en lease van andere machines en werktuigen en andere materiële goederen</td>
+		</tr>
+		<tr>
+			<td>90012</td>
+			<td>Beoefening van uitvoerende kunsten door artistieke ensembles</td>
+		</tr>
+		<tr>
+			<td>79120</td>
+			<td>Reisorganisatoren</td>
+		</tr>
+		<tr>
+			<td>90022</td>
+			<td>Ontwerp en bouw van podia</td>
+		</tr>
+		<tr>
+			<td>90032</td>
+			<td>Ondersteunende activiteiten voor scheppende kunsten</td>
+		</tr>
+		<tr>
+			<td>90029</td>
+			<td>Overige ondersteunende activiteiten voor de uitvoerende kunsten</td>
+		</tr>
+		<tr>
+			<td>77293</td>
+			<td>Verhuur en lease van vaat- en glaswerk, keuken- en tafelgerei, elektrische huishoudapparaten en andere huishoudelijke benodigdheden</td>
+		</tr>
+		<tr>
+			<td>77291</td>
+			<td>Verhuur en lease van machines, apparatuur en handgereedschap voor doe-het-zelvers</td>
+		</tr>
+		<tr>
+			<td>77294</td>
+			<td>Verhuur en lease van textiel, kleding, sieraden en schoeisel</td>
+		</tr>
+		<tr>
+			<td>79909</td>
+			<td>Overige reserveringsactiviteiten</td>
+		</tr>
+		<tr>
+			<td>77296</td>
+			<td>Verhuur en lease van bloemen en planten</td>
+		</tr>
+		<tr>
+			<td>82300</td>
+			<td>Organisatie van congressen en beurzen</td>
+		</tr>
+		<tr>
+			<td>90041</td>
+			<td>Exploitatie van schouwburgen, concertzalen en dergelijke</td>
+		</tr>
+		<tr>
+			<td>90042</td>
+			<td>Exploitatie van culturele centra en multifunctionele zalen ten behoeve van culturele activiteiten</td>
+		</tr>
+	</tbody>
+</table>
