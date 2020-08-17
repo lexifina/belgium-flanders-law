@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033531,
+  "title": "Besluit van de Vlaamse Regering van 2020-04-10 tot erkenning van de beroepskwalificatie polyvalent zaalmedewerker",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033531/VolledigDocument?datum=2020-08-17",
+  "source_sha256": "bf7252fa966f87e0bdd7f98e2664ec106c117b936b071d1a82f5e3dd4589098c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033531&param=informatie",
+  "as_of": "2020-08-17",
+  "made": "2020-04-10",
+  "gazette": "2020-08-07",
+  "numac": 2020041763,
+  "document_start": "2020-08-17",
+  "document_end": null,
+  "in_force": "2020-08-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
