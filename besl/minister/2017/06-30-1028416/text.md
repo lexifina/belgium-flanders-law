@@ -16,12 +16,12 @@ Overwegende dat conform artikel 3 van het decreet van 13 juli 2007 houdende bevo
 <br>
 Besluit :
 
-### ART Enig.
+### ART Enig artikel.
 
 De volgende personen worden benoemd tot leden en plaatsvervangers in de gewestelijke overleginstantie, vermeld in artikel 50quinquies van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu:<br>
 1° voor het Agentschap voor Natuur en Bos:<br>
 a) als leden: Mevr. Marleen Evenepoel, de heer Thomas Defoort en de heer Jos Rutten;<br>
-b) als plaatsvervangers: de heer Jeroen Nachtergaele en Mevr. Inge Serbruyns;<br>
+b) als plaatsvervangers : de heer Filiep Cardoen en Mevr. Inge Serbruyns;<br>
 2° voor de Vlaamse Landmaatschappij:<br>
 a) als lid: Mevr. Griet Celen;<br>
 b) als plaatsvervanger: Mevr. Ria Gielis;<br>
@@ -33,7 +33,7 @@ a) als lid: de heer Desiré Paelinckx;<br>
 b) als plaatsvervanger: Mevr. Lieve Vriens;<br>
 5° voor het Algemeen Boerensyndicaat:<br>
 a) als lid: de heer Lieven De Stoppeleire;<br>
-b) als plaatsvervanger: de heer Guy Depraetere;<br>
+b) als plaatsvervanger: de heer Mark Wulfrancke;<br>
 6° voor de Boerenbond:<br>
 a) als lid: Mevr. Leen Franchois;<br>
 b) als plaatsvervanger: de heer Bart Beliën;<br>
@@ -42,19 +42,19 @@ a) als lid: Mevr. Valerie Vandenabeele en de heer Jurgen Tack;<br>
 b) als plaatsvervanger: de heer Eric Smeets en de heer Gert Michiels;<br>
 8° voor Natuurpunt:<br>
 a) als lid: Mevr. Anke Geeraerts en de heer Wim Van Gils;<br>
-b) als plaatsvervanger: de heer Peter Symens en de heer Benno Geertsma;<br>
+b) als plaatsvervangers: de heer Peter Symens en de heer Diemer Vercayie;<br>
 9° voor UNIZO:<br>
 a) als lid: de heer Piet Vanden Abeele;<br>
 b) als plaatsvervanger: Mevr. Nele Cattoor;<br>
 10° voor VOKA/Aquaflanders:<br>
 a) als lid: de heer Steven Betz;<br>
-b) als plaatsvervanger: de heer Jan Bellon;<br>
+b) als plaatsvervanger: Mevr. Sofie Coppens;<br>
 11° voor het departement Landbouw en Visserij van de Vlaamse overheid:<br>
-a) als lid: Mevr. Elke Ramon;<br>
-b) als plaatsvervanger: de heer Bart Bollen;<br>
+a) als lid: Mevr. Nicole Van Duyse;<br>
+b) als plaatsvervanger: Mevr. Elke Ramon;<br>
 12° voor het departement Mobiliteit en Openbare Werken van de Vlaamse overheid:<br>
 a) als lid: Mevr. Astrid Van Vosselen;<br>
-b) als plaatsvervanger: de heer Jos Laps;<br>
+b) als plaatsvervanger: Mevr. Valerie Vandeurzen;<br>
 13° voor het departement Omgeving van de Vlaamse overheid:<br>
 a) als lid: Mevr. Tanya Cerulus;<br>
 b) als plaatsvervanger: Mevr. Jana Van Hoyweghe.<br>
