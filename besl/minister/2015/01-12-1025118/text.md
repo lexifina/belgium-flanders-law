@@ -7,19 +7,19 @@
 ### ART. 1.
 
 <p>De volgende personen worden aangewezen als Vlaamse commissarissen als vermeld in het decreet van 19 december 2014 houdende de Vlaamse vastgoedcodex:<br>
-1° ...;<br>
-2° ...;<br>
-3° ...;<br>
+1° ...<br>
+2° ...<br>
+3° ...<br>
 4° Dirk Conruyt;<br>
 5° Lydia De Cremer;<br>
 6° Christine De Pus;<br>
 7° Sofie De Wolf;<br>
 8° Els Dobbelaere;<br>
-9° ...;<br>
-10° ...;<br>
-11° Peter Gallein;<br>
+9° ...<br>
+10° ...<br>
+11° ...<br>
 12° Jacques Geerdens;<br>
-13° ...;<br>
+13° ...<br>
 14° Bart Helon;<br>
 15° Richard Kelder;<br>
 16° Filip Kets;<br>
@@ -35,29 +35,29 @@
 26° Nathalie Quintelier;<br>
 27° Anne-Marie Reyskens;<br>
 28° Inge Snoeck;<br>
-29° ...;<br>
+29° ...<br>
 30° Patrick Van Bever;<br>
 31° Dirk Van Bockstal;<br>
 32° Dirk Van Buylaere;<br>
-33° ...;<br>
-34° ...;<br>
+33° ...<br>
+34° ...<br>
 35° Marc Van Daele;<br>
 36° Nadine Van Wambeke;<br>
-37° ...;<br>
+37° ...<br>
 38° Jozef Van Kerckhoven;<br>
 39° Paul Van Steenwinkel;<br>
 40° Veerle Vander Schelde;<br>
 41° Lieven Vanheuverzwijn;<br>
 42° Elke Wittebroodt;<br>
 43° Carine Bogaert;<br>
-44° ...;<br>
+44° ...<br>
 45° Lieve Verfaillie;<br>
 46° Jan Mertens;<br>
 47° Johan Reymen;<br>
 48° Hans Duyck;<br>
 49° Anke Symens;<br>
-50° ...;<br>
-51° ...;<br>
+50° ...<br>
+51° ...<br>
 52° Gertjan Droeshout;<br>
 53° Hilke Elsen;<br>
 54° Claire De Winter;<br>
@@ -69,7 +69,11 @@
 61° Ward Schoenmaekers;<br>
 62° Immanuel Taets;<br>
 63° Jeroen De Corte;<br>
-64° Pieter Verbeeck.</p>
+64° Pieter Verbeeck.<br>
+65° Elke Pukas<br>
+66° Sarah Ricour<br>
+67° Leslie Machtelings<br>
+68° Toon Huybrechts</p>
 
 ### ART. 2.
 
