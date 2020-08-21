@@ -2280,7 +2280,7 @@ De habitattypes van bijlage I van de Habitatrichtlijn die in Vlaanderen voorkome
 
 ### BIJLAGE III.
 
-A) DIERSOORTEN&nbsp; De dier- en plantensoorten van communautair belang van de Bijlage IV van de habitatrichtlijn, die voorkomen in Vlaanderen<br>
+A) DIERSOORTEN&nbsp; &nbsp; De dier- en plantensoorten van communautair belang van de Bijlage IV van de habitatrichtlijn, die voorkomen in Vlaanderen<br>
 <!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Johan</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>steenpfr</o:LastAuthor><br>  <o:Revision>3</o:Revision><br>  <o:TotalTime>20</o:TotalTime><br>  <o:Created>2009-08-13T09:47:00Z</o:Created><br>  <o:LastSaved>2009-08-13T09:53:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>226</o:Words><br>  <o:Characters>1244</o:Characters><br>  <o:Company>JOHAN</o:Company><br>  <o:Lines>10</o:Lines><br>  <o:Paragraphs>2</o:Paragraphs><br>  <o:CharactersWithSpaces>1468</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:SelectEntireFieldWithStartOrEnd></w:SelectEntireFieldWithStartOrEnd><br>   <w:UseWord2002TableStyleRules></w:UseWord2002TableStyleRules><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]-->
 <table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-bottom:medium none; border-collapse:collapse; border-left:medium none; border-right:medium none; border-top:medium none; mso-border-alt:solid windowtext .5pt; mso-border-insideh:.5pt solid windowtext; mso-border-insidev:.5pt solid windowtext; mso-padding-alt:0cm 3.5pt 0cm 3.5pt; mso-yfti-tbllook:1184">
 	<tbody>
@@ -2462,11 +2462,15 @@ A) DIERSOORTEN&nbsp; De dier- en plantensoorten van communautair belang van de B
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Cricetus cricetus</p>
+			<p style="margin-left:0cm; margin-right:0cm">Castor fiber</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Hamster</p>
+			<p style="margin-left:0cm; margin-right:0cm">Europese bever</p>
 			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">Cricetus cricetus</td>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">Hamster</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
@@ -2477,6 +2481,14 @@ A) DIERSOORTEN&nbsp; De dier- en plantensoorten van communautair belang van de B
 			</td>
 		</tr>
 		<tr>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt"><span style="font-size:12px">Canis lupus lupus</span></td>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">Europese wolf</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">Felis silvestris</td>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">Wilde kat</td>
+		</tr>
+		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p style="margin-left:0cm; margin-right:0cm">Lutra lutra</p>
 			</td>
@@ -2485,16 +2497,12 @@ A) DIERSOORTEN&nbsp; De dier- en plantensoorten van communautair belang van de B
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Castor fiber</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Europese bever</p>
-			</td>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">Lynx lynx</td>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">Lynx</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<h1 style="margin-left:0cm; margin-right:0cm">AMPHIBIEEN</h1>
+			<h1 style="margin-left:0cm; margin-right:0cm">AMFIBIEEN EN REPTIELEN</h1>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
@@ -2502,67 +2510,71 @@ A) DIERSOORTEN&nbsp; De dier- en plantensoorten van communautair belang van de B
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<h1 style="margin-left:0cm; margin-right:0cm">Triturus cristatus</h1>
+			<h1 style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Triturus cristatus</span></h1>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Kamsalamander</p>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Kamsalamander</span></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<h1 style="margin-left:0cm; margin-right:0cm">Alytes obstetricans</h1>
+			<h1 style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Alytes obstetricans</span></h1>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Vroedmeesterpad</p>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Vroedmeesterpad</span></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<h1 style="margin-left:0cm; margin-right:0cm">Rana arvalis</h1>
+			<h1 style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Rana arvalis</span></h1>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Heidekikker</p>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Heidekikker</span></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<h1 style="margin-left:0cm; margin-right:0cm">Pelobates fuscus</h1>
+			<h1 style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Pelobates fuscus</span></h1>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Knoflookpad</p>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Knoflookpad</span></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<h1 style="margin-left:0cm; margin-right:0cm">Bufo calamita</h1>
+			<h1 style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Bufo calamita</span></h1>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Rugstreeppad</p>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Rugstreeppad</span></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<h1 style="margin-left:0cm; margin-right:0cm">Hyla arborea</h1>
+			<h1 style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Hyla arborea</span></h1>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Boomkikker</p>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Boomkikker</span></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<h1 style="margin-left:0cm; margin-right:0cm">Coronellea autriaca</h1>
+			<h1 style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Coronellea autriaca</span></h1>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Gladde slang</p>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Gladde slang</span></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<h1 style="margin-left:0cm; margin-right:0cm">Rana lessonae</h1>
+			<h1 style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Rana lessonae</span></h1>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Poelkikker of kleine groene kikker</p>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Poelkikker of kleine groene kikker</span></p>
 			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">Podarcis muralis</td>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">Muurhagedis</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
@@ -2582,19 +2594,35 @@ A) DIERSOORTEN&nbsp; De dier- en plantensoorten van communautair belang van de B
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<h1 style="margin-left:0cm; margin-right:0cm">Leucorrhinia pectoralis</h1>
+			<h1 style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Leucorrhinia pectoralis</span></h1>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Gevlekte witsnuitlibel</p>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Gevlekte witsnuitlibel</span></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<h1 style="margin-left:0cm; margin-right:0cm">Gomphus flavipes</h1>
+			<h1 style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Gomphus flavipes</span></h1>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Rivierrombout</p>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Rivierrombout</span></p>
 			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">Cucujus cinnaberinus</td>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">Vermiljoenkever</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">Leucorrhinia caudalis</td>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">Sierlijke witsnuitlibel</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">Ophiogomphus cecilia</td>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">Gaffellibel</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">Osmoderma eremita</td>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">Juchtleerkever</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
@@ -2606,10 +2634,10 @@ A) DIERSOORTEN&nbsp; De dier- en plantensoorten van communautair belang van de B
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<h1 style="margin-left:0cm; margin-right:0cm">Anisus vorticulus</h1>
+			<h1 style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Anisus vorticulus</span></h1>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Platte schijfhoren</p>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Platte schijfhoren</span></p>
 			</td>
 		</tr>
 		<tr>
@@ -2622,34 +2650,34 @@ A) DIERSOORTEN&nbsp; De dier- en plantensoorten van communautair belang van de B
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<h1 style="margin-left:0cm; margin-right:0cm">Drepanocladus vernicosus</h1>
+			<h1 style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Drepanocladus vernicosus</span></h1>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Geel Schorpioenmos</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<h1 style="margin-left:0cm; margin-right:0cm">Apium repens</h1>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Kruipend moerasscherm</p>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Geel Schorpioenmos</span></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<h1 style="margin-left:0cm; margin-right:0cm">Luronium natans</h1>
+			<h1 style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Apium repens</span></h1>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Drijvende Waterweegbree</p>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Kruipend moerasscherm</span></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<h1 style="margin-left:0cm; margin-right:0cm">Liparis loeselii</h1>
+			<h1 style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Luronium natans</span></h1>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">groenknolorchis</p>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Drijvende Waterweegbree</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<h1 style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">Liparis loeselii</span></h1>
+			</td>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:12px">groenknolorchis</span></p>
 			</td>
 		</tr>
 	</tbody>
