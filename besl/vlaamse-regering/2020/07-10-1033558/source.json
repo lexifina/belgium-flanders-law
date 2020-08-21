@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033558,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-10 tot wijziging van bijlage III bij het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033558/VolledigDocument?datum=2020-08-21",
+  "source_sha256": "b4e9b2f33cf5da0e8e284d9c2d1f5d964ee0af63fb5572183300355a3c9a58c6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033558&param=informatie",
+  "as_of": "2020-08-21",
+  "made": "2020-07-10",
+  "gazette": "2020-08-11",
+  "numac": 2020042456,
+  "document_start": "2020-08-21",
+  "document_end": null,
+  "in_force": "2020-08-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-08-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
