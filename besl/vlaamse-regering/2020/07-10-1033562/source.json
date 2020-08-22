@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033562,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-10 houdende indeling bij de gemeentewegen van de gewestweg N8-Maarschalk Frenchlaan tussen kilometerpunt 115,297 en 115,530 op het grondgebied van de stad Ieper",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033562/VolledigDocument?datum=2020-08-22",
+  "source_sha256": "f6dd994ef3b3572523b787a29b2146f294819ca3bd4bb747e5f32d86c402d2c1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033562&param=informatie",
+  "as_of": "2020-08-22",
+  "made": "2020-07-10",
+  "gazette": "2020-08-12",
+  "numac": 2020042613,
+  "document_start": "2020-08-22",
+  "document_end": null,
+  "in_force": "2020-08-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-08-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
