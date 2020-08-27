@@ -31,13 +31,11 @@ DE VLAAMSE REGERING BESLUIT :
 
 ### ART 1.
 
-In afwijking van artikel 17, § 3, tweede lid, van het Procedurebesluit Wonen van 14 juli 2017 brengt de VMSW binnen een termijn van veertien kalenderdagen, die ingaat op de dag na de ontvangst van het uitvoeringsdossier, een advies uit bij het uitvoeringsdossier.<br>
-<br>
-Als het advies van de VMSW niet tijdig wordt verleend, wordt het uitvoeringsdossier geacht in overeenstemming te zijn met de normen en de bouwtechnische en conceptuele richtlijnen, en is de verrichting principieel vatbaar voor opname in de kortetermijnplanning op de laatste dag van de termijn van veertien kalenderdagen, vermeld in het eerste lid, die in voorkomend geval is verlengd conform artikel 17, § 3, derde lid, van het Procedurebesluit Wonen.
+...
 
 ### ART 2.
 
-In afwijking van artikel 19, § 1, eerste lid, van het Procedurebesluit Wonen van 14 juli 2017 stelt de VMSW een lijst op van bouw- en investeringsverrichtingen die op de zevende kalenderdag voor een beoordelingscommissie principieel vatbaar zijn voor opname in de kortetermijnplanning en waarvoor conform artikel 18 van het Procedurebesluit Wonen van 14 juli 2017 blijkt dat de initiatiefnemer beschikt over de vereiste vergunningen, meldingen en een zakelijk recht op de gronden. De verrichtingen die na de voormelde datum de status `principieel vatbaar voor opname in de kortetermijnplanning' krijgen, komen in aanmerking voor de daarop volgende beoordelingscommissie. De voorwaarde dat de initiatiefnemer beschikt over de vereiste vergunningen, meldingen en een zakelijk recht op de gronden, wordt beoordeeld op de dag waarop de beoordelingscommissie bijeenkomt.
+...
 
 ## HOOFDSTUK 2. Aanpassing minimale rentevoet bijzondere sociale leningen
 
