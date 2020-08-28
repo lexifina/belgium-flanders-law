@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033579,
+  "title": "Besluit van de Vlaamse Regering van 2020-05-15 over de erkenning van onderwijsbevoegdheden voor nog niet bestaande opties voor het schooljaar 2020-2021 in het deeltijds kunstonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033579/VolledigDocument?datum=2020-08-28",
+  "source_sha256": "773cca4638d2e61817665cbddb9192c23766b9b11177c82b193146ac6bce5423",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033579&param=informatie",
+  "as_of": "2020-08-28",
+  "made": "2020-05-15",
+  "gazette": "2020-08-18",
+  "numac": 2020042796,
+  "document_start": "2020-08-28",
+  "document_end": null,
+  "in_force": "2020-08-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-08-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
