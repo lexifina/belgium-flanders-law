@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033589,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-17 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de maximale uitrol van digitale meters",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033589/VolledigDocument?datum=2020-08-29",
+  "source_sha256": "c9057ae328b2dc082478bb2b5981e7ac657da5d34b90f86e91f3be30ddd9f77a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033589&param=informatie",
+  "as_of": "2020-08-29",
+  "made": "2020-07-17",
+  "gazette": "2020-08-19",
+  "numac": 2020042561,
+  "document_start": "2020-08-29",
+  "document_end": null,
+  "in_force": "2020-08-29",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2020-08-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
