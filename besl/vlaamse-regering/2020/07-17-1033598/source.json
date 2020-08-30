@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033598,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-17 houdende indeling bij de gemeentewegen van de zijstraat van de gewestweg N454 tussen kilometerpunt 18,300 en 18,500 op het grondgebied van de gemeente Zwalm",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033598/VolledigDocument?datum=2020-08-30",
+  "source_sha256": "e2fc9fbf76db48df44df842263798647d5c32851dc4655d2c3689402c2f3da1e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033598&param=informatie",
+  "as_of": "2020-08-30",
+  "made": "2020-07-17",
+  "gazette": "2020-08-20",
+  "numac": 2020042751,
+  "document_start": "2020-08-30",
+  "document_end": null,
+  "in_force": "2020-08-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-08-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
