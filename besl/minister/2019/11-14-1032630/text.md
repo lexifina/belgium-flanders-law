@@ -15,10 +15,8 @@ Besluit :<br>
 
 ### ART 1.
 
-§ 1. Het toelatingsexamen arts vindt plaats op dinsdag 7 juli 2020.<br>
-<br>
-§ 2. Het toelatingsexamen tandarts vindt plaats op woensdag 8 juli 2020.
+...
 
 ### ART 2.
 
-De toelatingsexamens arts en tandarts 2020 zullen plaatsvinden in het Brussels Hoofdstedelijk Gewest.
+...
