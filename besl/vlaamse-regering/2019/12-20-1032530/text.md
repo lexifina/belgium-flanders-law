@@ -204,7 +204,7 @@ Bijlage III/3 bij het Energiebesluit van 19 november 2010, zoals gewijzigd bij a
 <br>
 Bijlage III/3 bij het Energiebesluit van 19 november 2010, zoals gewijzigd bij artikel 7, 2°, van dit besluit, is van toepassing op de projecten waarvoor op 1 januari 2020, conform artikel 6.2/1.7, § 2, vierde lid, van het Energiebesluit van 19 november 2010, door de minister, bevoegd voor het energiebeleid, of door de Vlaamse Regering, nog geen voorlopige of definitieve bandingfactor werd toegekend.<br>
 <br>
-Bijlage III/3 bij het Energiebesluit van 19 november 2010, zoals gewijzigd bij artikel 7, 2°, van dit besluit, is niet van toepassing op de actualisatie van lopende projecten die op 1 januari 2020 al een definitieve bandingfactor hebben.
+Bijlage III/3 bij het Energiebesluit van 19 november 2010, zoals gewijzigd bij artikel 7, 2°, van dit besluit, is niet van toepassing op de actualisatie van lopende projecten die op 1 januari 2020 al een voorlopige of definitieve bandingfactor hebben.
 
 ### ART 10.
 
