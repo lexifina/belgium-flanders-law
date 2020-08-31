@@ -15,6 +15,24 @@ De volgende vormvereiste(n) is/zijn vervuld:<br>
 <br>
 DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID, GEZIN EN ARMOEDEBESTRIJDING, BESLUIT :
 
+### ART 1.
+
+In dit besluit wordt verstaan onder het besluit van 30 april 2020: het besluit van de Vlaamse Regering van 30 april 2020 over de financiële gevolgen van de maatregelen ter bestrijding van COVID-19 voor voorzieningen voor personen met een handicap en voor personen met een handicap die ondersteuning hebben van het Vlaams Agentschap voor Personen met een Handicap.
+
+### ART 2.
+
+De periode COVID-19, vermeld in artikel 1, 10°, van het besluit van 30 april 2020, eindigt op 30 september 2020.<br>
+<br>
+In afwijking van het eerste lid eindigt de periode COVID-19, vermeld in artikel 1, 10°, van het besluit van 30 april 2020, op 31 augustus 2020 voor de maatregel, vermeld in artikel 10 van het voormelde besluit en voor de maatregel vermeld in artikel 11, van hetzelfde besluit, voor wat betreft de bijstandsorganisaties, vermeld in artikel 1, 4°, van het besluit van 30 april 2020.<br>
+<br>
+In afwijking van het eerste lid eindigt de periode COVID-19, vermeld in artikel 1, 10°, van het besluit van 30 april 2020, op 31 december 2020 voor de maatregel, vermeld in artikel 15, § 1, van het voormelde besluit.<br>
+<br>
+In afwijking van het tweede lid eindigt, voor de bijstandsorganisatie Alin, KBO-nummer: 0563.903.461 en de bijstandsorganisatie ZOOM, KBO-nummer: 0651.600.468, de periode COVID-19, vermeld in artikel 1, 10°, van het besluit van 30 april 2020, op 31 mei 2020 voor de maatregel, vermeld in artikel 10 van het voormelde besluit en voor de maatregel, vermeld in artikel 11, van hetzelfde besluit.
+
 ### ART 3.
 
 Het percentage, vermeld in artikel 15, § 1, eerste lid, van het besluit van de Vlaamse Regering van 30 april 2020 wordt verhoogd tot 25,5 procent.
+
+### ART 4.
+
+Dit besluit heeft uitwerking met ingang van 31 augustus 2020, met uitzondering van artikel 3, dat uitwerking heeft met ingang van 14 maart 2020.
