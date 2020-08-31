@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033604,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-10 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de ondersteuning van hernieuwbare energiebronnen en warmte-krachtkoppeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033604/VolledigDocument?datum=2020-08-31",
+  "source_sha256": "30ec8db75df8c8c8b89224c46969492a099f3d59acf4b04dce5b08448b082d87",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033604&param=informatie",
+  "as_of": "2020-08-31",
+  "made": "2020-07-10",
+  "gazette": "2020-08-21",
+  "numac": 2020042746,
+  "document_start": "2020-08-31",
+  "document_end": null,
+  "in_force": "2020-08-31",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2020-08-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
