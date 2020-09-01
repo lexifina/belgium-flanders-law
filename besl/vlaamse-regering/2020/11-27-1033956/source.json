@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033956,
+  "title": "Besluit van de Vlaamse Regering van 2020-11-27 tot wijziging van diverse besluiten in het kader van de kwaliteitszorg in het hoger onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033956/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "a7524c69232f79b28b8ac8d94e442080b315f8a060c11e4d374d75d4936b8503",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033956&param=informatie",
+  "as_of": "2020-09-01",
+  "made": "2020-11-27",
+  "gazette": "2020-12-17",
+  "numac": 2020044256,
+  "document_start": "2020-09-01",
+  "document_end": null,
+  "in_force": "2020-09-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2020-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
