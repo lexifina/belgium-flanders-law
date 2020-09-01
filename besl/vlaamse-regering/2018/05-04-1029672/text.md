@@ -937,6 +937,8 @@ g) muziekgeschiedenis.<br>
 <br>
 Een leerling kan het vak groepsmusiceren, groepsmusiceren vocaal, groepsmusiceren instrumentaal of begeleidingspraktijk van zijn optie vervangen door het vak groepsmusiceren, groepsmusiceren vocaal, groepsmusiceren instrumentaal of begeleidingspraktijk van een andere optie. Daarvoor is de toestemming van de directeur en de betrokken leerkrachten noodzakelijk.<br>
 <br>
+Als een academie onderwijsbevoegdheid heeft verworven voor een muziekinstrument, maar niet voor de cluster van muziekinstrumenten waartoe dat muziekinstrument behoort, kan een leerling dat muziekinstrument volgen in een optie waarvoor de academie wel onderwijsbevoegdheid heeft verworven op voorwaarde dat de leerling dat muziekinstrument nog niet eerder gevolgd heeft.<br>
+<br>
 § 10. De vakken geluidsleer en opnametechniek, muziekcultuur: experimentele muziek, muziekcultuur: folk- en wereldmuziek, muziekcultuur: jazz-pop-rock, muziekcultuur: klassiek, muziekcultuur: musical, muziekcultuur: opera/muziektheater, muziekcultuur: oude muziek, muziekgeschiedenis, muziekgeschiedenis: experimentele muziek, muziekgeschiedenis: folk- en wereldmuziek, muziekgeschiedenis: jazz-pop-rock, muziekgeschiedenis: klassiek, muziekgeschiedenis: musical, muziekgeschiedenis: opera/muziektheater, muziekgeschiedenis: oude muziek, muziekkritiek, muziekmanagement, muzikale en culturele vorming, muzikale en culturele vorming: folk- en wereldmuziek, muzikale en culturele vorming: jazz-pop-rock, muzikale en culturele vorming: klassiek, muzikale en culturele vorming: oude muziek en muzikale en culturele vorming: dj zijn algemene vakken. De overige vakken zijn kunstvakken.
 
 ## Onderafdeling 3. Muziekinstrumenten
@@ -1038,27 +1040,33 @@ In het eerste lid, 12°, wordt verstaan onder historisch toetsinstrument: clavic
 In het vak instrument: jazz-pop-rock kunnen de volgende muziekinstrumenten georganiseerd worden:<br>
 1° accordeon;<br>
 2° altsaxofoon;<br>
-3° baritonsaxofoon;<br>
-4° basgitaar;<br>
-5° bastuba;<br>
-6° bugel;<br>
-7° contrabas;<br>
-8° kornet;<br>
-9° dwarsfluit;<br>
-10° elektrische en/of akoestische gitaar;<br>
-11° hoorn;<br>
-12° keyboard;<br>
-13° klarinet;<br>
-14° melodisch slagwerk;<br>
-15° mondharmonica;<br>
-16° piano;<br>
-17° ritmisch slagwerk;<br>
-18° sopraansaxofoon;<br>
-19° tenorsaxofoon;<br>
-20° trombone;<br>
-21° trompet;<br>
-22° viool;<br>
-23° zang.
+3° altviool;<br>
+4° baritonsaxofoon;<br>
+5° basgitaar;<br>
+6° bastrombone;<br>
+7° bastuba;<br>
+8° bugel;<br>
+9° cello;<br>
+10° contrabas;<br>
+11° kornet;<br>
+12° dwarsfluit;<br>
+13° elektrische en/of akoestische gitaar;<br>
+14° eufonium;<br>
+15° hoorn;<br>
+16° keyboard;<br>
+17° klarinet;<br>
+18° melodisch slagwerk;<br>
+19° mondharmonica;<br>
+20° piano;<br>
+21° ritmisch slagwerk;<br>
+22° sopraansaxofoon;<br>
+23° tenorsaxofoon;<br>
+24° trombone;<br>
+25° trompet;<br>
+26° viool;<br>
+27° zang.<br>
+<br>
+Personeelsleden die tijdens het schooljaar 2020-2021 worden aangesteld in de vakken instrument: jazz-pop-rock: altviool, instrument: jazz-pop-rock: bastrombone, instrument: jazz-pop-rock: cello of instrument: jazz-pop-rock: eufonium, worden op basis van de studiebewijzen waarover ze beschikken aangesteld op basis van hetzij een ander bekwaamheidsbewijs, hetzij een voldoend geacht bekwaamheidsbewijs zoals die gelden voor de overige instrumenten van het vak instrument: jazz-pop-rock.
 
 ### ART 14.
 
@@ -1316,7 +1324,9 @@ Als ze niet tijdens een vakantieperiode vallen, is er bovendien vakantie op de v
 
 Een academie kan bijkomend twee facultatieve vakantiedagen organiseren.<br>
 <br>
-De leeractiviteiten kunnen voor alle leerlingen of voor een groep van leerlingen maximaal twee dagen per schooljaar geschorst worden om pedagogische studiedagen voor de leraren te houden. Die pedagogische studiedagen kunnen niet opgesplitst worden.
+De leeractiviteiten kunnen voor alle leerlingen of voor een groep van leerlingen maximaal twee dagen per schooljaar geschorst worden om pedagogische studiedagen voor de leraren te houden. Die pedagogische studiedagen kunnen niet opgesplitst worden.<br>
+<br>
+Twee of meer academies die een academie-overschrijdende pedagogische studiedag voor de leraren en directeurs organiseren met het oog op de implementatie van de basiscompetenties en beroepskwalificaties in de onderwijs- en evaluatiepraktijk kunnen de leeractiviteiten voor alle leerlingen of voor een groep van leerlingen maximaal een bijkomende dag per schooljaar schorsen. Die pedagogische studiedag kan niet opgesplitst worden.
 
 ### ART 29.
 
@@ -1335,7 +1345,7 @@ Voor wat de leeftijdsvoorwaarden betreft, legt de leerling een geldig identiteit
 Een leerling die op basis van zijn leeftijd een opleiding start in een structuuronderdeel voor jongeren, kan alle leerjaren van zijn opleiding in dat structuuronderdeel volgen.<br>
 <br>
 Om aan te tonen dat hij de vereiste basiscompetenties verworven heeft, legt de leerling een van de volgende schriftelijke of elektronische documenten voor:<br>
-1° een bewijs van competenties van de graad die hij met goed gevolg in het desbetreffende domein heeft afgewerkt;<br>
+1° een leerbewijs van de graad die hij met goed gevolg in het desbetreffende domein heeft afgewerkt;<br>
 2° een studiebewijs van een inhoudelijk gelijkwaardige artistieke opleiding dat uitgereikt is door een erkende instelling voor secundair of hoger onderwijs;<br>
 3° een studiebewijs van een inhoudelijk vergelijkbare opleiding dat uitgereikt is door een Syntra-opleidingscentrum of centrum voor volwassenenonderwijs, of een buitenlandse onderwijsinstelling;<br>
 4° een competentiedocument dat uitgereikt is door een organisatie in het jeugdwerk, de sector voor amateurkunsten, de erfgoedsector of het sociaal-cultureel werk.<br>
@@ -1388,9 +1398,9 @@ Leerlingen kunnen voor de algemene vakken, vermeld in artikel 4, tweede lid, art
 
 ### ART 34.
 
-Een leerling die zijn competenties kan aantonen via een bewijs van competenties, of een bewijs van beroepskwalificatie dat is uitgereikt in het deeltijds kunstonderwijs, of een studiebewijs dat is uitgereikt door een instelling voor voltijds secundair onderwijs, het volwassenenonderwijs of het hoger onderwijs, kan geheel of gedeeltelijk vrijgesteld worden voor een vak.<br>
+Een leerling die zijn competenties kan aantonen via een leerbewijs, een bewijs van competenties, of een bewijs van beroepskwalificatie dat is uitgereikt in het deeltijds kunstonderwijs, of een studiebewijs dat is uitgereikt door een instelling voor voltijds secundair onderwijs, het volwassenenonderwijs of het hoger onderwijs, kan geheel of gedeeltelijk vrijgesteld worden voor een vak.<br>
 <br>
-Het bewijs van competenties, het bewijs van beroepskwalificatie of het studiebewijs, vermeld in het eerste lid, kunnen zowel in schriftelijke als elektronische vorm worden voorgelegd.<br>
+Het leerbewijs, het bewijs van competenties,&nbsp;het bewijs van beroepskwalificatie of het studiebewijs, vermeld in het eerste lid, kunnen zowel in schriftelijke als elektronische vorm worden voorgelegd.<br>
 <br>
 De directeur kan het verzoek om vrijstelling weigeren via een met redenen omklede motivering.<br>
 <br>
@@ -1405,8 +1415,6 @@ Een leerling kan een of meer vakken die tot het lessenrooster van dezelfde oplei
 De leerling schrijft zich in de verschillende academies in en verklaart zich akkoord met het academiereglement en het artistiek-pedagogisch project van elke academie.<br>
 <br>
 De leerling betaalt het inschrijvingsgeld, conform artikel 90 tot en met 92 van het decreet van 9 maart 2018, in de academie waar hij zich het eerst aanmeldt.<br>
-<br>
-Voor de berekening van de omkadering, vermeld in artikel 68 tot en met 72 van het voormelde decreet, wordt de leerling in maximaal twee academies voor 50% in rekening gebracht.<br>
 <br>
 Elke academie organiseert de leerlingenbegeleiding, vermeld in artikel 4, tweede lid, 2°, van het voormelde decreet, en de leerlingenevaluatie, vermeld in artikel 59 tot en met 62 van het voormelde decreet, voor het gedeelte van de opleiding dat de leerling in die academie volgt. De academies maken afspraken over de uitwisseling van gegevens over de leerlingenbegeleiding en de leerlingenevaluatie.
 
@@ -1434,32 +1442,38 @@ Een leerling kan op advies van de betrokken leerkrachten en na toestemming van d
 
 ### ART 36.
 
-§ 1. Aan een leerling die alle basiscompetenties van een graad van een langlopende studierichting heeft verworven, reikt de academie een bewijs van competenties uit conform artikel 59 van het decreet van 9 maart 2018.<br>
+§ 1. Aan een leerling die alle basiscompetenties van een graad van een langlopende studierichting heeft verworven, reikt de academie een&nbsp;leerbewijs basiscompetenties van de graad in kwestie uit conform artikel 59 van het decreet van 9 maart 2018.<br>
 <br>
 Aan een leerling die alle competenties van een beroepskwalificatie heeft verworven, reikt de academie een bewijs van beroepskwalificatie uit conform artikel 59 van het voormelde decreet.<br>
 <br>
-Aan een leerling die een relevant gedeelte van de competenties van een beroepskwalificatie heeft verworven, reikt de academie een bewijs van competenties uit conform artikel 59 van het voormelde decreet.<br>
+Aan een leerling die een gedeelte van de competenties van een beroepskwalificatie heeft verworven, reikt de academie een bewijs van competenties uit conform artikel 59 van het voormelde decreet.<br>
 <br>
-De academie kan ook een bewijs van competenties uitreiken aan leerlingen die met goed gevolg een leerjaar van een bepaalde studierichting gevolgd hebben.<br>
+De academie kan ook een leerbewijs uitreiken aan leerlingen die met goed gevolg een leerjaar van een bepaalde studierichting gevolgd hebben.<br>
 <br>
-§ 2. Aan leerlingen die deelgenomen hebben aan leeractiviteiten op maat, conform artikel 4 derde lid van het decreet van 9 maart 2018, of leerlingen die een individueel aangepast curriculum conform artikel 52 van het voormelde decreet hebben gevolgd, reikt de academie een leerbewijs uit. Het leerbewijs omschrijft de verworven competenties.<br>
+§ 2. De academie reikt een leerbewijs uit aan:<br>
+1° leerlingen die deelgenomen hebben aan leeractiviteiten op maat als vermeld in artikel 4, derde lid, van het decreet van 9 maart 2018;<br>
+2° leerlingen die een individueel aangepast curriculum conform artikel 52 van het voormelde decreet hebben gevolgd;<br>
+3° leerlingen die een opleiding van kortlopende studierichting als vermeld in artikel 13, § 1, artikel 15, § 1, artikel 17, § 1, of artikel 19, § 1, van het voormelde decreet, hebben gevolgd.<br>
 <br>
-§ 3. Als een leerling zijn opleiding in meer academies volgt, bepalen de directeurs in onderling overleg welke academie het bewijs van competenties, het bewijs van beroepskwalificatie of het leerbewijs, al naargelang van toepassing conform paragraaf 2, uitreikt.<br>
+Het leerbewijs omschrijft de verworven basiscompetenties of competenties.<br>
+<br>
+§ 3. Als een leerling zijn opleiding in meer academies volgt, bepalen de directeurs in onderling overleg welke academie het bewijs van competenties, het bewijs van beroepskwalificatie of het leerbewijs, al naargelang van toepassing conform paragraaf 1 en 2, uitreikt.<br>
 <br>
 § 4. De academie kan vrij het model van het bewijs van competenties, het bewijs van beroepskwalificatie of het leerbewijs bepalen. Het document vermeldt:<br>
-1° de tekst "Bewijs van competenties, verworven in het deeltijds kunstonderwijs", "Bewijs van beroepskwalificatie, behaald in het deeltijds kunstonderwijs" of "Leerbewijs deeltijds kunstonderwijs", aangevuld met de opleidingsbenaming al naargelang van toepassing conform paragraaf 2;<br>
-2° in geval van een bewijs van beroepskwalificatie: de beroepskwalificatie en het niveau en het logo van de Vlaamse Kwalificatiestructuur, vermeld in 14 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur en het niveau van het European Qualification Framework;<br>
-3° de studieomvang van de opleiding, uitgedrukt als de som van de gevolgde wekelijkse lestijden;<br>
-4° de toegekende eindbeoordeling en graad van verdienste, als dat van toepassing is;<br>
-5° de officiële naam van alle academies waar de leerling zijn opleiding geheel of gedeeltelijk gevolgd heeft;<br>
-6° dat het bewijs van competenties, het bewijs van beroepskwalificatie of het leerbewijs, al naargelang van toepassing conform paragraaf 2, wordt uitgereikt conform de bepalingen van:<br>
+1° de opschriften: "Vlaamse Gemeenschap - Koninkrijk België" en "Vlaams Ministerie van Onderwijs en Vorming";<br>
+2° de tekst "Bewijs van competenties", "Bewijs van beroepskwalificatie", Leerbewijs basiscompetenties" of "Leerbewijs deeltijds kunstonderwijs", aangevuld met de opleidingsbenaming, al naargelang van toepassing conform paragraaf 1 en 2;<br>
+3° in geval van een bewijs van beroepskwalificatie: de beroepskwalificatie en het niveau van de Vlaamse Kwalificatiestructuur, vermeld in 14 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur, en het niveau van het Europees kwalificatiekader;<br>
+4° de studieomvang van de opleiding, uitgedrukt als de som van de gevolgde wekelijkse lestijden;<br>
+5° de officiële naam van alle academies waar de leerling de opleiding volledig of gedeeltelijk gevolgd heeft;<br>
+6° dat het bewijs van competenties, het bewijs van beroepskwalificatie of het leerbewijs, al naargelang van toepassing conform paragraaf 1 en 2, wordt uitgereikt conform de bepalingen van:<br>
 a) het decreet van 9 maart 2018;<br>
 b) dit besluit;<br>
-7° alle voornamen, de naam, en de geboortedatum en -plaats van de leerling;<br>
-8° in geval van een bewijs van competenties: dat aan het document een bijlage is toegevoegd met een opsomming van alle verworven competenties;<br>
-9° de plaats en datum van de uitreiking;<br>
-10° de naam en de handtekening van de directeur van de academie die het bewijs van competenties, het bewijs van beroepskwalificatie of het leerbewijs, al naargelang van toepassing conform paragraaf 2, uitreikt;<br>
-11° een verwijzing naar de documenten die de academie als supplement toevoegt.<br>
+7° dat al de wettelijke, decretale en reglementaire voorschriften zijn nageleefd;<br>
+8° alle voornamen, de achternaam, en de geboortedatum en -plaats van de leerling;<br>
+9° in geval van een bewijs van competenties: dat aan het document een bijlage is toegevoegd met een opsomming van alle verworven competenties;<br>
+10° de plaats en datum van de uitreiking;<br>
+11° de naam en de handtekening van de directeur van de academie die het bewijs van competenties, het bewijs van beroepskwalificatie of het leerbewijs, al naargelang van toepassing conform paragraaf 1 en 2, uitreikt;<br>
+12° een verwijzing naar de documenten die de academie als supplement toevoegt.<br>
 <br>
 Het bewijs van beroepskwalificatie wordt bekleed met het zegel van de academie die het uitreikt.<br>
 <br>
@@ -1486,6 +1500,8 @@ De ambten die de leden van het bestuurs- en onderwijzend personeel mogen uitoefe
 
 Het aantal gefinancierde of gesubsidieerde betrekkingen in ambten van het onderwijzend personeel, vermeld in artikel 38, 1° en 2°, van dit besluit, dat een academie kan organiseren, is afhankelijk van het aantal lestijden dat die academie voor een bepaald schooljaar volgens de omkaderingsberekening, vermeld in artikel 69 tot en met 72 van het decreet van 9 maart 2018, toegewezen krijgt.<br>
 <br>
+Een schoolbestuur dat niet-aangewende lestijden van een bepaald schooljaar overdraagt naar het volgende schooljaar of naar een andere academie of naar een academie van een ander schoolbestuur conform artikel 75 van het decreet van 9 maart 2018, meldt die overdracht uiterlijk op 31 oktober van het schooljaar in kwestie aan het Agentschap voor Onderwijsdiensten. Het Agentschap voor Onderwijsdiensten stelt een formulier ter beschikking.<br>
+<br>
 De lestijden van de eerste, tweede en derde graad en de lestijden van de vierde graad die de academie conform artikel 74 van het voormelde decreet overdraagt naar een andere graad, worden gedeeld door 22 voor het ambt van leraar in de structuuronderdelen van de eerste, tweede en derde graad. De eenheden van het quotiënt zijn gelijk aan het aantal volledige betrekkingen. De decimalen zijn gelijk aan een evenredige deeltijdse betrekking.<br>
 <br>
 De lestijden voor de structuuronderdelen van de vierde graad en de kortlopende studierichtingen worden gedeeld door twintig voor het ambt van leraar in die structuuronderdelen. De eenheden van het quotiënt zijn gelijk aan het aantal volledige betrekkingen. De decimalen zijn gelijk aan een evenredige deeltijdse betrekking.<br>
@@ -1495,6 +1511,10 @@ Het aantal gefinancierde of gesubsidieerde betrekkingen in het ambt van directeu
 ### ART 40.
 
 De lestijden die een kunstacademie voor een bepaald schooljaar op grond van artikel 76, § 1, eerste en tweede lid, van het decreet van 9 maart 2018 verwerft voor beleidsondersteuning of die een academie op grond van artikel 76, § 1, derde lid, van het voormelde decreet, voor een bepaald schooljaar verwerft voor pedagogische coördinatie, worden gedeeld door twintig tot op de eenheid. Het quotiënt is gelijk aan het aantal volledige betrekkingen in het ambt van leraar.
+
+### ART 40/1.
+
+Academies die conform artikel 76/1, § 3, van het decreet van 9 maart 2018 aanvullende lestijden voor aanvangsbegeleiding willen samenleggen in een samenwerkingsverband, sluiten onderling een overeenkomst af. Het Agentschap voor Onderwijsdiensten stelt een sjabloon voor de overeenkomst ter beschikking. Een van de betrokken academies bezorgt uiterlijk op 31 oktober een kopie van de overeenkomst aan het Agentschap voor Onderwijsdiensten.
 
 ## [Afdeling 2. Aanwerven van gastleraren (verv. BVR 15 september 2023, art. 55, I: 1 september 2023)]
 
@@ -1508,7 +1528,9 @@ Vanaf het schooljaar 2019-2020 wordt het bedrag, vermeld in het&nbsp;eerste lid,
 <br>
 De A-coëfficiënt wordt voor 100% in rekening gebracht.<br>
 <br>
-Het krediet wordt toegekend met een voorschot van 60% van het krediet in de loop van de maand november van het schooljaar in kwestie en het resterende saldo van 40% in de loop van de maand februari die daarop volgt. Maximaal de helft van de middelen kunnen overgedragen worden naar het krediet van het volgende schooljaar.
+Het krediet wordt toegekend met een voorschot van 60% van het krediet in de loop van de maand november van het schooljaar in kwestie en het resterende saldo van 40% in de loop van de maand februari die daarop volgt. Maximaal de helft van de middelen kunnen overgedragen worden naar het krediet van het volgende schooljaar.<br>
+<br>
+In afwijking van het vierde lid kunnen alle niet-gebruikte middelen voor voordrachtgevers in het schooljaar 2019-2020 worden overdragen naar het krediet van het volgende schooljaar 2020-2021.
 
 ### ART 42.
 
@@ -1547,6 +1569,19 @@ In het eerste lid wordt verstaan onder effectieve wekelijkse prestaties: de feit
 Een onvolledige opdracht in het ambt van administratief medewerker omvat het evenredige deel van de klokuren, vermeld in het eerste lid. Voor het bepalen van het voormelde evenredige deel, wordt de omrekeningstabel gebruikt die is opgenomen in bijlage 1, die bij dit besluit is gevoegd.<br>
 <br>
 § 3. Een volledige opdracht in het ambt van studiemeester-opvoeder omvat op weekbasis 32 uren.
+
+## [Afdeling 5. Academie-overschrijdende expertise-uitwisseling (ing. BVR 25 september 2020, art. 11, I: 1 september 2020)]
+
+### ART 46/1.
+
+Conform artikel 86/1 van het decreet van 9 maart 2018 kan de minister binnen de beschikbare begrotingskredieten middelen voorzien ter ondersteuning van academie-overschrijdende pedagogische studiedagen, vermeld in artikel 28, derde lid, met het oog op het realiseren van de volgende doelstellingen:<br>
+1° expertise-uitwisseling tussen leraren van de verschillende academies over de implementatie van de basiscompetenties en beroepskwalificaties in hun onderwijs- en evaluatiepraktijk;<br>
+2° expertise-uitwisseling tussen directeurs van de verschillende academies over de impact van de basiscompetenties en beroepskwalificaties op de academie als organisatie en de kwaliteitsontwikkeling;<br>
+3° formuleren van wederzijdse aanbevelingen met betrekking tot de kwaliteitsontwikkeling in de betrokken academies.<br>
+<br>
+De minister bepaalt de indientermijn en de modaliteiten voor de aanvraag van de ondersteuning.<br>
+<br>
+De minister neemt een beslissing over de ingediende aanvragen op basis van het advies van het departement Onderwijs en Vorming en de onderwijsinspectie. In het advies wordt beoordeeld in welke mate de expertise-uitwisseling op een systematische manier gebeurt met het oog op het realiseren van de doelstellingen, vermeld in het eerste lid.
 
 ## HOOFDSTUK 6. Inschrijvingsgeld
 
@@ -1641,7 +1676,7 @@ Het schoolbestuur dat conform artikel 118bis van het decreet van 9 maart 2018 ee
 <br>
 Het schoolbestuur verantwoordt in de aanvraag, vermeld in het eerste lid, dat de vestigingsplaats voldoet aan de definitie van bijzondere vestigingsplaats, vermeld in artikel 3, 13°, of aan de criteria, vermeld in artikel 118bis, 1°, van het decreet van 9 maart 2018. Daarbij toont het schoolbestuur aan dat de schoolinfrastructuur noodzakelijk is voor de leeractiviteiten die er gegeven worden en niet verplaatst kan worden of dat de leerlingenpopulatie die er verblijft zich niet kan verplaatsen naar een andere vestigingsplaats van de academie. Het schoolbestuur voegt een protocol van onderhandelingen in het bevoegde lokale comité toe.<br>
 <br>
-De minister neemt een beslissing over de ingebruikname van de bijzondere vestigingsplaats op advies van het Agentschap voor Onderwijsdiensten en de onderwijsinspectie.
+De minister neemt uiterlijk op 1 december een beslissing over de ingebruikname van de bijzondere vestigingsplaats op advies van het Agentschap voor Onderwijsdiensten en de onderwijsinspectie.
 
 ## Afdeling 2. Onderwijsbevoegdheid
 
@@ -1654,8 +1689,6 @@ De minister neemt een beslissing over de ingebruikname van de bijzondere vestigi
 4° een ondertekend protocol van het lokaal comité van het aanvragende schoolbestuur.<br>
 <br>
 De indeling van opties en muziekinstrumenten in clusters, vermeld in het eerste lid, is opgenomen in bijlage 2, die bij dit besluit is gevoegd.<br>
-<br>
-In afwijking van het eerste lid dient het schoolbestuur aanvragen voor onderwijsbevoegdheid voor de cluster graffiti/street art of het muziekinstrument banjo die ingaan op 1 september 2019 uiterlijk op 30 april 2019 in.<br>
 <br>
 § 2. Met behoud van de toepassing van de eerste paragraaf motiveert het schoolbestuur van een academie dat conform artikel 130 van het decreet van 9 maart 2018 onderwijsbevoegdheid voor een unieke optie, een cluster van unieke opties, wil verkrijgen, hoe de vraag tot onderwijsbevoegdheid aansluit op het lokale of regionale immaterieel of materieel cultureel erfgoed of aansluit bij de lokale amateurkunstbeoefening. Een unieke optie kan door maximaal vijf academies per provincie worden georganiseerd tenzij de minister een afwijking verleent vanwege het lokale immaterieel of materieel cultureel erfgoed of de aansluiting bij de lokale amateurkunstbeoefening. Het tweetalige gebied Brussel-Hoofdstad wordt voor deze bepaling beschouwd als een provincie.<br>
 <br>
@@ -1758,11 +1791,7 @@ De volgende besluiten worden opgeheven:<br>
 
 ### ART 63.
 
-Een leerling die in het schooljaar 2017-2018 een leerjaar van een opleiding in de oude structuur met goed gevolg heeft afgewerkt, kan zich in het schooljaar 2018-2019 inschrijven in het volgende leerjaar van de overeenkomstige opleiding van de nieuwe structuur, of in een vervolgopleiding van de nieuwe structuur, als hij voldoet aan al de toelatingsvoorwaarden, vermeld in artikel 29 tot en met 33 van het decreet van 9 maart 2018.<br>
-<br>
-Een leerling die in het schooljaar 2017-2018 een leerjaar van een opleiding in de oude structuur niet met goed gevolg heeft afgewerkt, kan zich in het schooljaar 2018-2019 inschrijven in hetzelfde leerjaar van de overeenkomstige opleiding van de nieuwe structuur, als de directeur en de betrokken leerkrachten conform artikel 62 van het voormelde decreet oordelen dat een verlengd leertraject zinvol is voor de leerling.<br>
-<br>
-De overeenstemming van de opleidingen van de nieuwe structuur met de opleidingen van de oude structuur is vastgesteld in bijlage 3, die bij dit besluit is gevoegd.
+...
 
 ### ART 64.
 
@@ -1776,6 +1805,8 @@ Een academie heeft ook onderwijsbevoegdheid voor alle opties en muziekinstrument
 <br>
 Een academie die in het schooljaar 2018-2019 ten minste vier barokinstrumenten, vermeld in bijlage 3, die bij dit besluit is gevoegd, organiseerde, heeft automatisch onderwijsbevoegdheid voor de cluster oude muziek.<br>
 <br>
+Een academie die op grond van het eerste, tweede of derde lid onderwijsbevoegdheid verworven heeft, maar het onderwijsaanbod in kwestie niet georganiseerd heeft sinds 1 september 2018, verliest die onderwijsbevoegdheid vanaf het schooljaar 2021-2022.<br>
+<br>
 De overeenstemming van de opties en muziekinstrumenten van de nieuwe structuur met de opties en muziekinstrumenten van de oude structuur is vastgesteld in bijlage 3, die bij dit besluit is gevoegd.
 
 ### ART 66.
@@ -1788,7 +1819,7 @@ In afwijking van artikel 65 kan de academie die in het schooljaar 2017-2018 het 
 <br>
 In afwijking van artikel 65 kunnen de academies die in het schooljaar 2017-2018 het tijdelijke project muziektheater organiseerden, vanaf het schooljaar 2018-2019 de optie musical in de derde graad en vierde graad van de studierichtingen vertolkend en creërend muzikant en in de kortlopende studierichting specialisatie muziek, organiseren.<br>
 <br>
-In afwijking van artikel 55 en 56 hebben academies die vanaf het schooljaar 2018-2019 onderwijsbevoegdheid verworven hebben voor de optie musical/muziektheater onderwijsbevoegdheid verworven voor de optie musical. Als de academie op basis van het jaarplan, het cursusmateriaal of een andere schriftelijke neerslag van de leeractiviteiten tot de conclusie komt dat haar opleiding inhoudelijk beter aansluit bij de optie opera/muziektheater heeft ze onderwijsbevoegdheid verworven voor de optie opera/muziektheater. De academie meldt dat aan het Agentschap voor Onderwijsdiensten uiterlijk 30 september 2019.<br>
+In afwijking van artikel 55 en 56 hebben academies die vanaf het schooljaar 2018-2019 onderwijsbevoegdheid verworven hebben voor de optie musical/muziektheater onderwijsbevoegdheid verworven voor de optie musical. Als de academie op basis van het jaarplan, het cursusmateriaal of een andere schriftelijke neerslag van de leeractiviteiten tot de conclusie komt dat haar opleiding inhoudelijk beter aansluit bij de optie opera/muziektheater heeft ze onderwijsbevoegdheid verworven voor de optie opera/muziektheater.&nbsp;<br>
 <br>
 In afwijking van artikel 65 kan de academie die in het schooljaar 2017-2018 het tijdelijke project schoenontwerpen organiseerde, vanaf het schooljaar 2018-2019 de optie schoenontwerp in de vierde graad van de studierichting ontwerper en in de kortlopende studierichting specialisatie beeldende en audiovisuele kunsten, organiseren.<br>
 <br>
