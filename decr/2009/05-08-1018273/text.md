@@ -19,7 +19,7 @@ Voor de toepassing van dit decreet wordt verstaan onder :<br>
 7° /1 doorlichting : elke vorm van kwaliteitstoezicht door de onderwijsinspectie die resulteert in een verslag en in een advies aan de Vlaamse Regering over de voorlopige erkenning of erkenning van de instelling of van afzonderlijke structuuronderdelen;<br>
 8° erkenningsvoorwaarden : de wettelijke of decretale voorwaarden waaraan een onderwijsinstelling moet voldoen om aan haar leerlingen of cursisten de van rechtswege geldende studiebewijzen toe te kennen;<br>
 9° gezondheidsindex : het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij wet van 30 maart 1994 houdende sociale bepalingen;<br>
-10° hoger beroepsonderwijs : het onderwijs zoals vermeld in het decreet van 30 april 2009 betreffende het hoger beroepsonderwijs;<br>
+10° hoger beroepsonderwijs : het onderwijs zoals vermeld in de Codex Hoger Onderwijs van 11 oktober 2013;<br>
 11° instelling : onderwijsinstelling of CLB;<br>
 12° nascholing : het geheel van vormingsactiviteiten die tot doel hebben de kennis, vaardigheden en attitudes die personeelsleden tijdens hun opleiding of tijdens hun werkervaring hebben verworven, te verbreden en te verdiepen met het oog op hun verdere professionalisering;<br>
 13° onderwijsinstelling : een pedagogisch geheel waar onderwijs georganiseerd wordt en waaraan een uniek instellingsnummer toegekend is;<br>
@@ -153,7 +153,7 @@ De Vlaamse Regering kan de voorwaarden voor de raadpleging, het gebruik en de ve
 
 ### ART. 13.
 
-Deze titel is niet van toepassing op de basiseducatie en de Centra voor Volwassenenonderwijs, vermeld in artikel 44 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.
+Deze titel, met uitzondering van artikel 14, § 3, eerste lid, van dit decreet, is niet van toepassing op de basiseducatie en de Centra voor Volwassenenonderwijs, die niet in rekening worden gebracht voor het vaststellen van de personeelsformatie van de pedagogische begeleidingsdiensten, vermeld in artikel 16.
 
 ## HOOFDSTUK II. Oprichting en kerntaken van de pedagogische begeleidingsdiensten
 
@@ -306,37 +306,7 @@ De werkingsmiddelen, vermeld in het eerste lid, worden verdeeld over deze pedago
 
 ### ART. 28.
 
-<p>§ 1. Binnen de door de Vlaamse Gemeenschap vastgelegde begrotingskredieten wordt jaarlijks in een krediet voorzien voor de uitvoering van de volgende opdrachten :<br>
-1° de begeleiding van de centra voor volwassenenonderwijs:<br>
-a) ondersteunen bij de realisatie van hun eigen agogisch project;<br>
-b) ondersteunen bij het bevorderen van hun onderwijskwaliteit en bij hun ontwikkeling tot professionele lerende organisatie door:<br>
-1) netwerkvorming te bevorderen en netwerken te ondersteunen;<br>
-2) leidinggevenden te ondersteunen of te vormen;<br>
-3) de beroepsbekwaamheid van de personeelsleden te ondersteunen binnen een centrum en centrumoverstijgend met bijzondere aandacht voor beginnende personeelsleden, personeelsleden met specifieke opdrachten;<br>
-4) het beleidsvoerend vermogen van centra te versterken;<br>
-5) de kwaliteitszorg van centra te ondersteunen;<br>
-c) op verzoek van het centrumbestuur het centrum ondersteunen en begeleiden bij de uitwerking van de aangegeven actiepunten na een doorlichting;<br>
-d) onderwijsinnovaties aanreiken, stimuleren en ondersteunen;<br>
-e) aanbodgerichte nascholingsactiviteiten aanreiken en aansturen met inbegrip van de nascholing van directies;<br>
-f) met verscheidene onderwijsactoren op verschillende niveaus overleggen over onderwijskwaliteit;<br>
-g) participeren aan de aansturing of opvolging van ondersteuningsinitiatieven georganiseerd of gesubsidieerd door de Vlaamse Regering die als doelstelling het ondersteunen van centra of hun leerkrachten of begeleiders hebben;";<br>
-2° de uitvoering van de opdrachten, vermeld in artikel 49 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, samen met het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs.<br>
-<br>
-§ 1/1. Vanaf het begrotingsjaar 2015 bedraagt het krediet, vermeld in paragraaf 1, 522.000 euro.<br>
-<br>
-§ 2. Het krediet dat wordt vastgelegd vanaf 2015, vermeld in paragraaf 1/1, volgt vanaf 2015 de evolutie van de gezondheidsindex. Het wordt ter beschikking gesteld van de afzonderlijke begeleidingsdiensten die beschikken over een personeelsformatie als vermeld in artikel 16&nbsp;en verdeeld naar rato van de organieke betrekkingen in de centra voor volwassenenonderwijs.<br>
-<br>
-In afwijking van het eerste lid, wordt het krediet, vermeld in paragraaf 1/1, voor het begrotingsjaar 2015 niet aangepast aan de evolutie van de index.<br>
-<br>
-§ 3. Het krediet, vermeld in paragraaf 1, wordt alleen ter beschikking gesteld als :<br>
-1° driejaarlijks een beleidsplan wordt opgesteld, waarin de uitvoering van de opdracht, vermeld in paragraaf 1, verduidelijkt wordt en dit beleidsplan toegevoegd wordt aan het begeleidingsplan, vermeld in artikel 15, § 2, eerste lid;<br>
-2° jaarlijks een activiteitenverslag en een financieel rapport worden opgesteld en worden toegevoegd aan het activiteitenverslag met inbegrip van een financiële verantwoording, vermeld in artikel 15, § 2, tweede lid.<br>
-<br>
-§ 4. ...<br>
-<br>
-§ 5. De middelen, zoals vermeld in § 1 kunnen teruggevorderd worden, als blijkt dat ze niet worden aangewend voor de realisatie van de opdrachten, vermeld in § 1 en in artikel 49 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.</p>
-
-<p>§ 6. ....</p>
+<p>...</p>
 
 ## HOOFDSTUK VII. Permanente ondersteuningscellen in de CLB's
 
@@ -376,7 +346,7 @@ De permanente ondersteuningscellen, de pedagogische begeleidingsdiensten en in v
 
 ### ART. 31.
 
-Deze titel is niet van toepassing op :<br />1° de specifieke lerarenopleidingen in het volwassenenonderwijs;<br />2° het hoger beroepsonderwijs.
+Deze titel is niet van toepassing op het hoger beroepsonderwijs, met uitzondering van de opleiding Verpleegkunde van het hoger beroepsonderwijs. De onderwijsinspectie oefent voor deze opleiding haar opdracht uit in samenwerking met de accreditatieorganisatie, vermeld in artikel II.26 van de Codex Hoger Onderwijs van 11 oktober 2013.
 
 ### ART. 31/1.
 
