@@ -10,7 +10,7 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 In dit decreet wordt verstaan onder:<br>
 1° PPS-projecten: projecten die door publiek- en privaatrechtelijke partijen, gezamenlijk en in een samenwerkings-verband worden gerealiseerd om een meerwaarde voor die partijen tot stand te brengen;<br>
-2° Vlaamse PPS-projecten: PPS-projecten van de Vlaamse Gemeenschap, van het Vlaamse Gewest, van de intern verzelfstandigde agentschappen met rechtspersoonlijkheid en van de publiek- en privaatrechtelijk vormgegeven extern verzelfstandigde agentschappen en die, na advies van het Vlaams Kenniscentrum PPS, door de Vlaamse regering als Vlaamse PPS-projecten worden erkend;<br>
+2° Vlaamse PPS-projecten: PPS-projecten van de Vlaamse overheid, vermeld in artikel I.3, 1°, van het Bestuursdecreet van 7 december 2018;<br>
 3° lokale besturen: gemeenten, provincies, autonome gemeentebedrijven, autonome provinciebedrijven, openbare centra voor maatschappelijk welzijn, intergemeentelijke samenwerkingsverbanden en kerkbesturen;<br>
 4° lokale PPS-projecten: PPS-projecten van de lokale besturen en van de ervan afhangende rechtspersonen;<br>
 5° publiekrechtelijke partij: de federale staat, een Gemeenschap, een Gewest, een lokaal bestuur of een persoon die rechtstreeks of onrechtstreeks onder determinerende invloed staat van één of meer van die overheden, hetgeen blijkt uit:<br>
@@ -23,15 +23,15 @@ c) ofwel het aanwijzen van de leden van de bestuursorganen van die persoon voor 
 
 ### ART. 3.
 
-[ ...  <span class="reference">(opgeh. decr. 23 december 2005, art. 11, I : 1 januari 2006)</span> ]
+[ ... (opgeh. decr. 23 december 2005, art. 11, I : 1 januari 2006) ]
 
 ### ART. 4.
 
-§ 1. [Het Vlaams Kenniscentrum publiek-private samenwerking, afgekort "Vlaams Kenniscentrum PPS",  <span class="reference">(verv. decr. 23 december 2005, art. 11, I : 1 januari 2006)</span> ] is belast met beleidsvoorbereidende en beleidsevaluerende taken met betrekking tot Vlaamse PPS-projecten en met de finale toetsing en eindadvies omtrent alle Vlaamse PPS-projecten. Deze taak behelst eveneens de sensibilisering en intermediatie van respectievelijk tussen de overheid en de private sector. De Vlaamse regering kan deze taak nader omschrijven en omtrent de betrokkenheid van het Vlaams Kenniscentrum PPS nadere procedurevoorschriften vaststellen.<br /><br />§ 2. Op verzoek van een lokaal bestuur of een van een dergelijk bestuur afhangende rechtspersoon, kan het Vlaams Kenniscentrum alle nuttige informatie verstrekken om door dit bestuur overwogen of aangevangen PPS-projecten te faciliteren.<br /><br />Onverminderd de regelgeving betreffende de openbaarheid van bestuur, verstrekken de lokale besturen en de ervan afhangende rechtspersonen op verzoek van en aan het Vlaams Kenniscentrum PPS de door dit laatste nuttig geachte informatie over door hen overwogen, aangevangen of beëindigde PPS-projecten.<br /><br />De Vlaamse regering kan de taken van het Vlaams Kenniscentrum PPS in verband met lokale PPS-projecten nader omschrijven en uitbreiden. Zij kan procedurevoorschriften vaststellen voor de behandeling van lokale PPS-projecten door het Vlaams Kenniscentrum PPS.<br /><br />§ 3. De Vlaamse regering kan de betrokkenheid regelen van het Vlaams Kenniscentrum PPS bij PPS-projecten van andere publiekrechtelijke rechtspersonen dan deze bedoeld in de voorgaande paragrafen. Zij kan met betrekking tot die projecten procedurevoorschriften en een facilitair kader vaststellen analoog aan deze opgenomen in dit decreet.
+...
 
 ### ART. 5.
 
-[...  <span class="reference">(opgeh. decr. 23 december 2005, art. 11, I : 1 januari 2006)</span> ]
+...
 
 ### ART. 6.
 
@@ -101,4 +101,4 @@ In afwachting van de operationalisering van de intern verzelfstandigde agentscha
 
 ### ART. 20.
 
-De besluiten die krachtens artikel 4, § 2, derde lid, eerste zin; artikel 4, § 3, en artikel 17, § 2, worden vastgesteld, houden op uitwerking te hebben indien zij niet bij decreet zijn bekrachtigd binnen de 12 maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot deze laatste datum.
+De besluiten die krachtens artikel 17, § 2, worden vastgesteld, houden op uitwerking te hebben indien zij niet bij decreet zijn bekrachtigd binnen de 12 maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot deze laatste datum.
