@@ -40,4 +40,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/12/11_1.pdf#page=258">Bijlage</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/12/17_1.pdf#page=107">Bijlage</a>
