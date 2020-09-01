@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032610,
+  "title": "Besluit van de Vlaamse Regering van 2019-12-20 tot erkenning van het graduaat in de werforganisatie als nieuwe opleiding van de Hogeschool PXL",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032610/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "7fc9d81b1ab8122db5e19181385c11e3440c387e7dd997c2db9e7d7bd3a7a060",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032610&param=informatie",
+  "as_of": "2020-09-01",
+  "made": "2019-12-20",
+  "gazette": "2020-01-27",
+  "numac": 2020010134,
+  "document_start": "2020-09-01",
+  "document_end": null,
+  "in_force": "2020-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
