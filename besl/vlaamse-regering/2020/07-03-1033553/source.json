@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033553,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-03 tot erkenning van het graduaat in het maatschappelijk werk als nieuwe opleiding van de Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033553/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "a05cca839091e346768ac62574e8154fd66003c820715e8d6af9c3005ab6be7c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033553&param=informatie",
+  "as_of": "2020-09-01",
+  "made": "2020-07-03",
+  "gazette": "2020-08-10",
+  "numac": 2020042493,
+  "document_start": "2020-09-01",
+  "document_end": null,
+  "in_force": "2020-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
