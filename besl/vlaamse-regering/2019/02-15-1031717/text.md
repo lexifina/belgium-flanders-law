@@ -66,6 +66,10 @@ In artikel 1 van het besluit van de Vlaamse Regering van 19 juli 2007 betreffend
 
 Artikel 2/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 11 juni 2010 en vervangen bij het besluit van de Vlaamse Regering van 30 augustus 2018, wordt opgeheven.
 
+### ART 8.
+
+Bijlage IV, IX en X bij hetzelfde besluit worden opgeheven.
+
 ### ART 10.
 
 Aan hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 11 juni 2010 en 30 augustus 2016, worden een bijlage XXIII tot en met XXVI toegevoegd, die als bijlage 5 tot en met 8 bij dit besluit zijn gevoegd.
