@@ -157,6 +157,15 @@ c) voor werkplekleren komen uitsluitend de erkende kinderopvangsector en de zelf
 
 Een jongere die in het schooljaar dat voorafgaat aan het schooljaar 2019-2020, is gescreend naar een voortraject, doorloopt die screening opnieuw. Het resultaat van die nieuwe screening is een inschaling in de aanloopcomponent, de arbeidsdeelname of een NAFT.
 
+### ART 8quater.
+
+De opleidingen van het deeltijds beroepssecundair onderwijs en de leertijd worden wat de programmatie betreft in de volgende categorieën ingedeeld:<br>
+1° een opleiding waar in de concordantietabel voor het stelsel van leren en werken, die is opgenomen in bijlage 4 bij het besluit van de Vlaamse Regering van 1 juni 2018 houdende sommige maatregelen betreffende de modernisering van het secundair onderwijs, de vermelding "te schrappen" bij staat, is niet programmeerbaar;<br>
+2° een opleiding uit een cluster als vermeld in bijlage XXI die bij dit besluit is gevoegd, is vrij programmeerbaar als het centrum uit diezelfde cluster al een of meer andere opleidingen organiseert;<br>
+3° een opleiding is programmeerbaar na goedkeuring door de Vlaamse Regering als:<br>
+a) het centrum uit een cluster als vermeld in bijlage XXI, die bij dit besluit is gevoegd, nog geen andere opleidingen organiseert;<br>
+b) de opleiding is opgenomen in de lijst, vermeld in punt 32 van bijlage XXI die bij dit besluit is gevoegd.
+
 ## HOOFDSTUK VI. Toelating
 
 ### ART. 9.
@@ -271,24 +280,9 @@ De volgende certificaten gelden als een bewijs van beroepskwalificatie :<br>
 
 ### ART. 17.
 
-De aanvullende werkingsmiddelen voor het schooljaar 2019-2020, toegekend aan een centrum voor deeltijds beroepssecundair onderwijs als vermeld in artikel 86, § 1, 3°, van het decreet, worden als volgt vastgesteld:<br>
-1° 50 euro per jongere die minimaal 96 uur effectief in een voortraject heeft gepresteerd in het schooljaar 2018-2019 en voor zover als dusdanig door de organisator geregistreerd in de chronologische fiche en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd;<br>
-2° 0,50 euro per jongere per effectief gepresteerd uur in een brugproject in het schooljaar 2018-2019 met een maximum van achthonderd uur en voor zover als dusdanig door de organisator geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd;<br>
-3° 20 euro per jongere die deelneemt aan het project `intensieve begeleiding alternerend leren' in het schooljaar 2018-2019, en voor zover als dusdanig geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.<br>
-4° 2,25 euro per kalenderdag voor leerplichtige jongeren die in het schooljaar 2018-2019 contractueel in de fase arbeidsdeelname zitten, en 0,25 euro per kalenderdag voor niet-leerplichtige jongeren die in het schooljaar 2018-2019 contractueel in de fase arbeidsdeelname zitten, en voor zover als dusdanig geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding. Voor arbeidsdeelname, die inhoudelijk moet aansluiten bij de component leren, komen de volgende contracten in aanmerking:<br>
-a) deeltijds arbeidscontract;<br>
-b) werknemersleercontract;<br>
-c) contract individuele beroepsopleiding van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
-d) tewerkstelling via de Sociale Maribel of Generatiepact;<br>
-e) beroepsinlevingsovereenkomst;<br>
-f) Jojo-contract;<br>
-g) werkervaringsproject cfr. tewerkstelling in het kader van artikel 60, § 7, van de wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, tewerkstellingen in het kader van het besluit van de Vlaamse Regering van 10 juli 2008 betreffende werkervaring;<br>
-h) een overeenkomst van alternerende opleiding zoals bedoeld in artikel 3, 1°, van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen;<br>
-i) een stageovereenkomst alternerende opleiding zoals bedoeld in artikel 3, 2°, van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen.<br>
+Binnen de beschikbare kredieten bepaalt de Vlaamse minister, bevoegd voor onderwijs en vorming, per schooljaar het bedrag van de aanvullende werkingsmiddelen dat aan een centrum voor deeltijds beroepssecundair onderwijs wordt toegekend op basis van het aantal dagen dat de jongeren effectief gepresteerd hebben binnen de fase arbeidsdeelname of de aanloopcomponent tijdens het voorafgaande schooljaar.<br>
 <br>
-Een jongere waarvoor tijdens de looptijd van zijn contract in het schooljaar 2018-2019 de leerplicht eindigt, wordt voor de toepassing van deze bepaling beschouwd als een leerplichtige jongere.<br>
-<br>
-De aanvullende werkingsmiddelen voor de centra voor deeltijds beroepssecundair onderwijs worden gevoegd bij het voorschot op het werkingsbudget.
+De aanvullende werkingsmiddelen voor de centra voor deeltijds beroepssecundair onderwijs worden bij het voorschot op het werkingsbudget gevoegd.
 
 ### ART. 18.
 
@@ -1667,3 +1661,302 @@ Getuigschrift over de basiskennis van het bedrijfsbeheer (deeltijds   beroepssec
 
 ...<br>
 &nbsp;
+
+### BIJLAGE XXI
+
+Bijlage XXI. Lijst van opleidingen uit het stelsel van leren en werken, opgedeeld in clusters<br>
+<br>
+1° Administratie;<br>
+a) Administratief medewerker;<br>
+b) Administratief medewerker expeditie;<br>
+c) Administratief medewerker kmo;<br>
+d) Callcentermedewerker;<br>
+2° Afwerking ruwbouw;<br>
+a) Dekvloerlegger;<br>
+b) Stukadoor;<br>
+c) Tegelzetter;<br>
+3° Auto;<br>
+a) Bandenmonteur;<br>
+b) Carrosseriehersteller;<br>
+c) Demonteur/monteur carrosserie;<br>
+d) Onderhouds- en diagnosetechnicus personenwagens en lichte bedrijfsvoertuigen;<br>
+e) Onderhouds- en diagnosetechnicus zware bedrijfsvoertuigen;<br>
+f) Onderhoudsmecanicien personenwagens en lichte bedrijfsvoertuigen;<br>
+g) Onderhoudsmecanicien zware bedrijfsvoertuigen;<br>
+h) Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen;<br>
+i) Polyvalent mecanicien zware bedrijfsvoertuigen;<br>
+j) Plaatwerker carrosserie;<br>
+k) Spuiter carrosserie;<br>
+l) Voorbewerker carrosserie;<br>
+4° Bakkerij;<br>
+a) Banketbakker;<br>
+b) Brood- en banketbakker;<br>
+c) Broodbakker;<br>
+d) Chocoladebewerker;<br>
+e) IJsbereider;<br>
+5° Binnenvaart;<br>
+a) Matroos binnenvaart;<br>
+b) Matroos motordrijver binnenvaart;<br>
+6° Dakwerken;<br>
+a) Dakafdichter;<br>
+b) Dakdekker;<br>
+c) Dakdekker leien en pannen;<br>
+d) Dakdekker metalen daken;<br>
+7° Elektriciteit;<br>
+a) Bordenbouwer;<br>
+b) Industrieel elektrotechnisch installateur;<br>
+c) Residentieel elektrotechnisch installateur;<br>
+d) Technicus domotica;<br>
+e) Technicus immotica;<br>
+f) Tertiair elektrotechnisch installateur;<br>
+8° Grafische sector;<br>
+a) Assistent flexodrukker;<br>
+b) Desktop publisher;<br>
+c) Drukafwerker;<br>
+d) Drukker-flexograaf;<br>
+e) Drukvoorbereider;<br>
+f) Grafisch vormgever;<br>
+g) Hulpdrukker;<br>
+h) Offsetdrukker;<br>
+i) Typo-drukker;<br>
+j) Webdesigner;<br>
+9° Hoefsmederij;<br>
+a) Assistent-hoefsmid;<br>
+b) Hoefsmid;<br>
+10° Horeca;<br>
+a) Grootkeukenhulpkok;<br>
+b) Grootkeukenkok;<br>
+c) Grootkeukenmedewerker;<br>
+d) Hulpkelner;<br>
+e) Hulpkok;<br>
+f) Kelner;<br>
+g) Keukenmedewerker;<br>
+h) Kok;<br>
+i) Medewerker kamerdienst;<br>
+j) Medewerker snackbar-taverne;<br>
+11° Kapper;<br>
+a) Kapper;<br>
+b) Kapper-salonverantwoordelijke;<br>
+12° Kleding en confectie;<br>
+a) Confectiestikster;<br>
+b) Confectioneur van breiwerk;<br>
+c) Confectioneur van dameskleding;<br>
+d) Confectioneur van dassen, strikken, sjaals;<br>
+e) Confectioneur van herenkleding;<br>
+f) Confectioneur van huishoudlinnen;<br>
+g) Confectioneur van kinderkleding;<br>
+h) Confectioneur van linnengoed;<br>
+i) Confectioneur van plastiekkleding;<br>
+j) Confectioneur van regenkleding;<br>
+k) Confectioneur van sportkledij;<br>
+l) Confectioneur van werkkledij;<br>
+m) Dameskleermaker;<br>
+n) Hemdenmaker;<br>
+o) Herenkleermaker;<br>
+p) Korsettenmaker;<br>
+q) Naaister;<br>
+r) Operator in de snij- en stikafdeling;<br>
+s) Operator in de stikafdeling;<br>
+t) Operator in de strijk- en persafdeling;<br>
+u) Patronenmaker;<br>
+v) Retoucheerder;<br>
+w) Stikster;<br>
+13° Koeling en warmte;<br>
+a) Koelmonteur;<br>
+b) Monteur centrale verwarming;<br>
+c) Sanitair installateur;<br>
+14° Lassen-constructie;<br>
+a) Hoeknaadlasser;<br>
+b) Lasser beklede elektrode;<br>
+c) Lasser MIG/MAG;<br>
+d) Lasser TIG;<br>
+e) Pijpfitter;<br>
+f) Pijplasser;<br>
+g) Plaatlasser;<br>
+15° Magazijn;<br>
+a) Bestuurder heftruck;<br>
+b) Bestuurder reachtruck;<br>
+c) Magazijnmedewerker;<br>
+16° Meubel, interieur en schrijnwerk;<br>
+a) Binnenschrijnwerker;<br>
+b) Buitenschrijnwerker;<br>
+c) Daktimmerman;<br>
+d) Decor- &amp; standenbouwer;<br>
+e) Interieurbouwer;<br>
+f) Karkassenmaker;<br>
+g) Machinaal houtbewerker;<br>
+h) Meubelmaker;<br>
+i) Meubelstoffeerder;<br>
+j) Oppervlaktebehandelaar;<br>
+k) Plaatser binnenschrijnwerk;<br>
+l) Plaatser buitenschrijnwerk;<br>
+m) Plaatser interieurelementen;<br>
+n) Plaatser parket;<br>
+o) Productiemedewerker interieurbouw;<br>
+p) Restauratievakman meubelen;<br>
+q) Werkplaatsbinnenschrijnwerker hout;<br>
+r) Werkplaatsbuitenschrijnwerker hout;<br>
+17° Podiumtechniek;<br>
+a) Assistent podiumtechnicus;<br>
+b) Podiumtechnicus;<br>
+18° Productie-industrie;<br>
+a) Assistent productieoperator hout;<br>
+b) Assistent productieoperator metaal;<br>
+c) Assistent productieoperator voeding;<br>
+d) Basisoperator proceschemie;<br>
+e) Kunststofbewerker;<br>
+f) Machineregelaar extrusie;<br>
+g) Machineregelaar spuitgieten;<br>
+h) Machineregelaar thermisch vormen;<br>
+i) Productiemedewerker hout;<br>
+j) Productiemedewerker industrie;<br>
+k) Productiemedewerker kunststoffen;<br>
+l) Productiemedewerker metaal;<br>
+m) Productiemedewerker voeding;<br>
+n) Productieoperator hout;<br>
+o) Productieoperator metaal;<br>
+p) Productieoperator voeding;<br>
+19° Ruwbouw;<br>
+a) Bekister;<br>
+b) Betonhersteller;<br>
+c) IJzervlechter;<br>
+d) Metselaar;<br>
+e) Voeger;<br>
+f) Werfbediener;<br>
+20° Schilder-decoratie;<br>
+a) Behanger;<br>
+b) Industrieel schilder;<br>
+c) Medewerker industrieel schilder;<br>
+d) Plaatser soepele vloerbekleding;<br>
+e) Schilder;<br>
+f) Schilder-decorateur;<br>
+21° Slagerij;<br>
+a) Slager;<br>
+b) Slager/bereider verkoopklare gerechten;<br>
+c) Slager/spekslager;<br>
+d) Uitsnijder-uitbener;<br>
+e) Uitsnijder-uitbener rund;<br>
+f) Uitsnijder-uitbener schaap;<br>
+g) Uitsnijder-uitbener varken;<br>
+22° Textiel;<br>
+a) Co-operator textielmachines;<br>
+b) Operator textielmachines;<br>
+c) Patroontekenaar;<br>
+d) Textieltekenaar;<br>
+e) Textieltekenaar-designer;<br>
+f) Wever;<br>
+23° Textielverzorging;<br>
+a) Medewerker textielverzorging;<br>
+b) Operator textielverzorging;<br>
+24° Tuinbouw;<br>
+a) Bloemen- en plantenteler;<br>
+b) Boomkweker;<br>
+c) Fruitteler;<br>
+d) Groenteteler;<br>
+e) Kruidenteler;<br>
+f) Tuinbouwarbeider;<br>
+g) Tuinbouwer;<br>
+25° Tuin- en groenbeheer;<br>
+a) Medewerker groen- en tuinaanleg;<br>
+b) Medewerker groen- en tuinbeheer;<br>
+c) Tuinaanlegger/groenbeheerder;<br>
+26° Tweewielers;<br>
+a) Bromfietsmecanicien;<br>
+b) Fietsmecanicien;<br>
+c) Motorfietsmecanicien;<br>
+27° Verhuis;<br>
+a) Verhuizer-drager;<br>
+b) Verhuizer-inpakker;<br>
+28° Winkel;<br>
+a) Aanvuller;<br>
+b) Kassier;<br>
+c) Verkoper;<br>
+d) Winkelbediende;<br>
+29° Zeevisserij;<br>
+a) Matroos;<br>
+b) Motorist 221 kW;<br>
+c) Roerganger;<br>
+d) Schipper beperkt vaargebied;<br>
+30° Zorg;<br>
+a) Begeleider in de kinderopvang;<br>
+b) Industriële schoonmaker;<br>
+c) Logistiek assistent in de ziekenhuizen;<br>
+d) Logistiek helper in de zorginstellingen;<br>
+e) Logistiek helper in zorginstellingen;<br>
+f) Medewerker kinderopvang;<br>
+g) Polyvalent onderhoudswerker gebouwen;<br>
+h) Thuishelper;<br>
+i) Verzorgende;<br>
+j) Verzorgende/zorgkundige;<br>
+31° Zorg (experiment modulair);<br>
+a) Basismedewerker in organisaties;<br>
+b) Begeleider in de kinderopvang;<br>
+c) Logistiek assistent in ziekenhuizen en zorginstellingen;<br>
+d) Onderhoudswerker;<br>
+e) Schoonmaakhulp in de thuiszorg;<br>
+f) Schoonmaakhulp in instellingen en diensten;<br>
+g) Thuis- en bejaardenzorg/zorgkundige;<br>
+h) Verzorgende;<br>
+32° Andere (uitsluitend via programmatieaanvraag);<br>
+a) Animator in de evenementensector;<br>
+b) Arbeider in bos- en natuurbeheer;<br>
+c) Begrafenisondernemer;<br>
+d) Behandelaar luchtvracht en bagage;<br>
+e) Bestuurder mobiele kraan;<br>
+f) Boorder;<br>
+g) Bosbouwuitbater;<br>
+h) Bouwer en hersteller van akoestische gitaren;<br>
+i) Bouwplaatsmachinist;<br>
+j) Buurtsportwerker;<br>
+k) Clavecimbelbouwer;<br>
+l) Edelsteenzetter;<br>
+m) Florist;<br>
+n) Fotograaf;<br>
+o) Gieter van juwelen van edele metalen;<br>
+p) Glaswerker;<br>
+q) Glazenier;<br>
+r) Graveur in edele metalen;<br>
+s) Haarwerker-pruikenmaker-grimeur;<br>
+t) Hersteller van muziekinstrumenten;<br>
+u) Horlogemaker-hersteller;<br>
+v) Host(ess);<br>
+w) Industrieel isolatiewerker;<br>
+x) Industrieel maaltijdbereider;<br>
+y) Industrieel verpakker;<br>
+z) Industrieel vleesbewerker;<br>
+aa) Industrieel vleesproductenbereider;<br>
+bb) Installateur fotovoltaïsche systemen;<br>
+cc) Juwelier-goudsmid;<br>
+dd) Kunstnagelstylist;<br>
+ee) Medewerker bloemenzaak en tuincentrum;<br>
+ff) Natuursteenbewerker;<br>
+gg) Onderhoudstechnicus industriële installaties;<br>
+hh) Ontwerper van sierraden;<br>
+ii) Operator in de houtzagerij;<br>
+jj) Opticien-brillenmaker;<br>
+kk) Orgelbouwer;<br>
+ll) Orthopedie-schoentechnicus;<br>
+mm) Paardenhouder;<br>
+nn) Paletten- en krattenmaker;<br>
+oo) Pc-technicus;<br>
+pp) Pianostemmer en hersteller;<br>
+qq) Plaatser boven- en ondergrondse kabels en leidingen;<br>
+rr) Plaatser natuursteen;<br>
+ss) Pluimveehouder;<br>
+tt) Recyclagearbeider;<br>
+uu) Rigger-monteerder;<br>
+vv) Rioollegger;<br>
+ww) Schoenmaker en -hersteller;<br>
+xx) Schoonheidsspecialiste;<br>
+yy) Slotenmaker;<br>
+zz) Sportbegeleider;<br>
+aaa) Stellingbouwer;<br>
+bbb) Stratenmaker;<br>
+ccc) Tandprothesetechnicus;<br>
+ddd) Technicus elektrische zwembaduitrustingen;<br>
+eee) Technicus inbraakbeveiligingssystemen;<br>
+fff) Torenkraanbestuurder;<br>
+ggg) Vervaardiger-hersteller van optisch materiaal;<br>
+hhh) Vervaardiger van fluiten, klarinetten, hobo's en saxofoons;<br>
+iii) Werkplaatsschrijnwerker aluminium;<br>
+jjj) Werkplaatsschrijnwerker kunststoffen.
