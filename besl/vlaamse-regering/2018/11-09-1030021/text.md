@@ -29,4 +29,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/12/20_2.pdf#page=180">Bijlage:&nbsp;beoordelingskader opleidingsaccreditatie, aangenomen door de Nederlands-Vlaamse Accreditatieorganisatie op 4 juli 2018</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/12/17_1.pdf#page=86">Bijlage</a>
