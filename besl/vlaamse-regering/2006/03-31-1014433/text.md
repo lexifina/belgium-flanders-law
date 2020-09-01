@@ -238,7 +238,8 @@ Het verlof voor verminderde prestaties wordt opgeschort op het ogenblik dat het 
 5° loopbaanonderbreking voor ouderschapsverlof;<br>
 6° loopbaanonderbreking voor medische bijstand;<br>
 7° loopbaanonderbreking voor palliatieve zorgen;<br>
-8° zorgkrediet.<br>
+8° zorgkrediet;<br>
+9° loopbaanonderbreking voor mantelzorg.<br>
 <br>
 Ziekteverlof of een terbeschikkingstelling wegens ziekte schorten het verlof voor verminderde prestaties niet op.
 
@@ -302,7 +303,8 @@ De afwezigheid voor verminderde prestaties wordt opgeschort op het ogenblik dat 
 5° loopbaanonderbreking voor ouderschapsverlof;<br>
 6° loopbaanonderbreking voor medische bijstand;<br>
 7° loopbaanonderbreking voor palliatieve zorgen;<br>
-8° zorgkrediet.<br>
+8° zorgkrediet;<br>
+9° loopbaanonderbreking voor mantelzorg.<br>
 <br>
 Ziekteverlof of een terbeschikkingstelling wegens ziekte schorten de afwezigheid voor verminderde prestaties niet op.
 
