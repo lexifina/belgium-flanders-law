@@ -366,7 +366,7 @@ Alleen projecten die inspelen op ontwikkelingen of opportuniteiten die niet kond
 <br>
 De projecten spelen in op nieuwe ontwikkelingen en behoeften die zowel binnen de jeugdsector als meer algemeen bij de jeugd leven. Ze werken methodisch en inhoudelijk vernieuwend. De projecten bedoeld in het eerste lid, 1° tot en met 3°, hebben door hun omvang, opzet en inhoud tot doel relevantie te verwerven voor de Vlaamse Gemeenschap. De projecten bedoeld in het eerste lid, 4°, hebben door hun omvang, opzet en inhoud tot doel relevantie te verwerven op bovenlokaal niveau.<br>
 <br>
-Projecten waarvoor de vereniging al een subsidie ontvangt van de Vlaamse overheid of projecten van verenigingen die al werkingssubsidies ontvangen op basis van dit decreet, komen niet in aanmerking voor subsidiëring op basis van deze paragraaf.<br>
+Projecten waarvoor de vereniging al een subsidie ontvangt van de Vlaamse overheid of projecten van verenigingen die al werkingssubsidies ontvangen op basis van dit decreet of op basis van het decreet van 22 december 2017 houdende de subsidiëring van bovenlokaal jeugdwerk, jeugdhuizen en jeugdwerk voor bijzondere doelgroepen, komen niet in aanmerking voor subsidiëring op basis van deze paragraaf.<br>
 <br>
 De subsidie bedraagt maximaal 50.000 euro per jaar.<br>
 <br>
@@ -405,14 +405,13 @@ De Vlaamse Regering kan de nadere regels bepalen.
 5° instructeur: jeugdwerker die verantwoordelijkheid opneemt in het vormingsproces van jeugdwerkers;<br>
 6° kadervormingstraject: een specifiek vormingstraject dat wordt opgezet met het oog op de vorming van animatoren, hoofdanimatoren en instructeurs.<br>
 <br>
-§ 2. Een vereniging die op basis van dit decreet een werkingssubsidie ontvangt, kan kadervormingstrajecten organiseren die leiden tot de uitreiking van attesten aan jeugdwerkers. Die kadervormingstrajecten hebben specifiek tot doel de deelnemers te begeleiden bij het verwerven van de competenties van de competentieprofielen van respectievelijk animator, hoofdanimator en instructeur.<br>
+§ 2. Een vereniging die op basis van dit decreet een werkingssubsidie ontvangt of die op basis van artikel 5 en 6 van het decreet van 22 december 2017 houdende de subsidiëring van bovenlokaal jeugdwerk, jeugdhuizen en jeugdwerk voor bijzondere doelgroepen wordt gesubsidieerd, kan kadervormingstrajecten organiseren die leiden tot de uitreiking van attesten aan jeugdwerkers.&nbsp;Die kadervormingstrajecten hebben specifiek tot doel de deelnemers te begeleiden bij het verwerven van de competenties van de competentieprofielen van respectievelijk animator, hoofdanimator en instructeur.<br>
 <br>
 De Vlaamse Regering bepaalt de competenties en bijhorende indicatoren met betrekking tot de drie competentieprofielen.<br>
 <br>
 § 3. Elk kadervormingstraject bestaat uit:<br>
 1° een theoretisch gedeelte;<br>
-2° een begeleide stage;<br>
-3° ...<br>
+2° een begeleide stage.<br>
 <br>
 De Vlaamse Regering bepaalt de duur, de inhoud, de toelatings- en begeleidingsvoorwaarden en de specifieke regels waaraan moet worden voldaan.<br>
 <br>
