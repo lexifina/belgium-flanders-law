@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032328,
+  "title": "Besluit van de Vlaamse Regering van 2019-09-06 tot wijziging van het besluit van de Vlaamse Regering van 12 oktober 2018 tot vastlegging van structuuronderdelen duaal en standaardtrajecten in het secundair onderwijs, wat betreft uitbreiding van de lijst van structuuronderdelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032328/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "f1601b4ee760ac6ddc98b992e7f815101afead7a4e6058fd45903d7d7206fa77",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032328&param=informatie",
+  "as_of": "2020-09-01",
+  "made": "2019-09-06",
+  "gazette": "2019-10-11",
+  "numac": 2019014811,
+  "document_start": "2020-09-01",
+  "document_end": null,
+  "in_force": "2020-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
