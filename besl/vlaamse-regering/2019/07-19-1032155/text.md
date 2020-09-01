@@ -474,9 +474,17 @@ In hetzelfde besluit wordt een artikel 4/1 ingevoegd, dat luidt als volgt:<br>
 <br>
 "Art. 4/1. Met toepassing van artikel 14 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur is de samenstelling van de structuuronderdelen met dubbele finaliteit of finaliteit arbeidsmarkt van de matrix, voor beroepskwalificaties en deelkwalificaties, opgenomen in bijlage 4/1, die bij dit besluit is gevoegd.".
 
+### ART 49.
+
+Bijlage 1 bij hetzelfde besluit wordt vervangen door de bijlage 4, die bij dit besluit is gevoegd.
+
 ### ART 50.
 
 Bijlage 2 bij hetzelfde besluit wordt vervangen door de bijlage 5, die bij dit besluit is gevoegd.
+
+### ART 51.
+
+Bijlage 3 bij hetzelfde besluit wordt opgeheven.
 
 ### ART 52.
 
