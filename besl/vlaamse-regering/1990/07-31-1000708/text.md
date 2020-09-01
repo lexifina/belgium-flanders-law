@@ -261,7 +261,7 @@ Het vermelde pakket blijft toegekend als het Provinciaal Maritiem Instituut word
 ### ART. 13.
 
 Het aantal uren-leraar dat het resultaat is van de berekeningen, uitgevoerd overeenkomstig de bepalingen van dit besluit, wordt aangewend :<br>
-1° naar rata van 98 % voor de uren-leraar godsdienst, niet-confessionele zedenleer, cultuurbeschouwing en eigen cultuur en religie;<br>
+1° naar rata van 96,57 % voor de uren-leraar godsdienst, niet-confessionele zedenleer, cultuurbeschouwing en eigen cultuur en religie;<br>
 2° naar rata van 98,57 % voor de uren-leraar volgens de minimumpakkettenregeling;<br>
 3° naar rata van 96,57 % voor de uren-leraar volgens de coëfficiëntenregeling.<br>
 <br>
