@@ -64,7 +64,7 @@ De afdeling hergebruik van overheidsinformatie oefent haar opdracht uit conform 
 
 ### ART. 8.
 
-Het secretariaat van de afdeling openbaarheid van bestuur is gevestigd bij de afdeling Kanselarij van het Departement Kanselarij en Bestuur.<br>
+Het secretariaat van de afdeling openbaarheid van bestuur is gevestigd bij het Departement Kanselarij en Buitenlandse Zaken.<br>
 <br>
 Het secretariaat van de afdeling hergebruik is gevestigd bij Informatie Vlaanderen.<br>
 <br>
