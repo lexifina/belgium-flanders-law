@@ -89,6 +89,10 @@ De bevoegde dienst van de Vlaamse Regering kan een student die een aanvraag als 
 
 In afwijking van artikel II.205, eerste lid, van dezelfde codex wordt een student die bij de start van het academiejaar 2020-2021 onvoldoende leerkrediet heeft en die overeenkomstig artikel 14 een aanvraag bij de bevoegde dienst van de Vlaamse Regering heeft ingediend, in afwachting van een definitieve beslissing over de teruggave van zijn leerkrediet onder voorbehoud ingeschreven onder de voorwaarden die gelden bij een gunstige beslissing van de bevoegde dienst. Na de beslissing van de bevoegde dienst van de Vlaamse Regering neemt de instelling een definitieve beslissing over de inschrijving van die student.
 
+### ART 16.
+
+De Vlaamse Regering monitort de impact van de teruggave van het leerkrediet, vermeld in artikel 14, op de financiering van de hogescholen en de universiteiten. Op basis van die monitoring kan de Vlaamse Regering ingrijpen als er door die teruggave verschuivingen in het toekennen van de werkingsmiddelen zouden plaatsvinden die zich zonder die teruggave niet zouden voordoen.
+
 ### ART 17.
 
 § 1. Als de bevoegde dienst van de Vlaamse Regering beslist om de teruggave van het leerkrediet overeenkomstig artikel 14 te weigeren, kan die beslissing worden aangevochten bij de Raad voor betwistingen inzake studievoortgangsbeslissingen. De raad doet als administratief rechtscollege uitspraak over de beroepen van studenten over de weigering om hun leerkrediet terug te geven.<br>
