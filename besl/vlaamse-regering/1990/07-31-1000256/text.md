@@ -704,6 +704,10 @@ Voor de toepassing van deze bepaling worden de volgende perioden niet als een on
 
 De overgangsbepalingen die met toepassing van artikel 14, 14ter, 14quater,   14decies, 15 en 15quater gelden voor de opvangcentra, gelden ook voor de   internaten van het Gemeenschapsonderwijs met permanente   openstelling.
 
+### ART 14quater decies.
+
+De personeelsleden die op 31 augustus 2020 conform artikel 14 tot en met 14ter decies overgangsmaatregelen genieten, behouden die na die datum, ook als ze na die datum uit dienst treden en nadien opnieuw in dienst treden.
+
 ### ART. 15.
 
 De personeelsleden, bedoeld in artikel 14, blijven de salarisschaal genieten die hun op grond van de voor 1 september 1990 geldende reglementering mocht verleend worden, tenzij het bekwaamheidsbewijs waarover de personeelsleden beschikken recht geeft op een hogere salarisschaal.<br /><br />De personeelsleden, bedoeld in artikel 14, die op basis van de reglementering van kracht voor 1 september 1990:<br />- niet in het bezit waren van een vereist bekwaamheidsbewijs en die, bij toepassing van dit besluit in het bezit zijn van een vereist bekwaamheidsbewijs;<br />- niet in het bezit waren van een vereist bekwaamheidsbewijs en die, bij toepassing van dit besluit in het bezit zijn van een voldoend geacht bekwaamheidsbewijs;<br />- in het bezit waren van een vereist bekwaamheidsbewijs en die, bij toepassing van dit besluit in het bezit zijn van een vereist bekwaamheidsbewijs, blijven eveneens de salarisschaal genieten die hun op grond van de voor 1 september 1990 geldende reglementering mocht verleend worden, hetzij het bekwaamheidsbewijs waarover zij beschikken recht geeft op een hogere salarisschaal.<br /><br />De bepalingen van artikel 11 van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs, zijn niet van toepassing.
@@ -723,6 +727,10 @@ De personeelsleden, vermeld in artikel 14decies, blijven de salarisschaal geniet
 ### ART 15quinquies.
 
 ...
+
+### ART 15sexies.
+
+De personeelsleden die op 31 augustus 2020 conform van artikel 15 tot en met 15quinquies overgangsmaatregelen genieten, behouden die na die datum, ook als ze na die datum uit dienst treden en nadien opnieuw in dienst treden, tenzij het bekwaamheidsbewijs waarover die personeelsleden beschikken, recht geeft op een hogere salarisschaal.
 
 ### ART. 16.
 
@@ -754,4 +762,4 @@ Onverminderd het bepaalde in artikel 13, § 3 treedt dit besluit in werking op 1
 
 ### BIJLAGE I.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/14_1.pdf#page=84">Bijlage</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/20_1.pdf#page=44">Bijlage 1</a>
