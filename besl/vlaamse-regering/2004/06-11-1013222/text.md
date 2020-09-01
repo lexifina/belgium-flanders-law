@@ -4,15 +4,20 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het   Algemeen Delegatiebesluit: het besluit van de Vlaamse regering van 10 oktober   2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden   van de intern verzelfstandigde agentschappen van de Vlaamse overheid;<BR>2°   agentschap: het agentschap Facilitair Bedrijf, vermeld in artikel 2;<BR>3°   minister: de Vlaamse minister, bevoegd voor het algemeen beleid inzake   facilitaire dienstverlening en het vastgoedbeheer in de Vlaamse administratie,   en voor het algemeen beleid inzake informatie- en communicatietechnologie in de   Vlaamse administratie;<BR>4° ...<BR>5° het lijnmanagement: de hoofden van de   organisatorische entiteiten binnen de Vlaamse overheid die het hiërarchisch en   functioneel gezag over het personeel van hun entiteit uitoefenen.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° Het Algemeen Delegatiebesluit : het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen;<br>
+2° agentschap: het agentschap Facilitair Bedrijf, vermeld in artikel 2;<br>
+3° minister: de Vlaamse minister, bevoegd voor het algemeen beleid inzake facilitaire dienstverlening en het vastgoedbeheer in de Vlaamse administratie, en voor het algemeen beleid inzake informatie- en communicatietechnologie in de Vlaamse administratie;<br>
+4° ...<br>
+5° het lijnmanagement: de hoofden van de organisatorische entiteiten binnen de Vlaamse overheid die het hiërarchisch en functioneel gezag over het personeel van hun entiteit uitoefenen.
 
 ## HOOFDSTUK II BENAMING, DOELSTELLINGEN EN TAKEN VAN HET AGENTSCHAP
 
 ### ART. 2.
 
-<p>Binnen het Vlaams Ministerie Kanselarij en Bestuur wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de benaming "agentschap Facilitair Bedrijf". Het agentschap wordt opgericht voor de beleidsondersteuning en beleidsuitvoering inzake facilitaire dienstverlening, vastgoedbeheer en informatie- en communicatietechnologie en het openbare archiefwezen.<br>
+<p>Binnen het Vlaams Ministerie Kanselarij, Bestuur, Buitenlandse Zaken en Justitie wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de benaming "agentschap Facilitair Bedrijf". Het agentschap wordt opgericht voor de beleidsondersteuning en beleidsuitvoering inzake facilitaire dienstverlening, vastgoedbeheer, overheidsopdrachten en informatie- en communicatietechnologie en het openbare archiefwezen.<br>
 <br>
-Het agentschap behoort tot het beleidsdomein Kanselarij en Bestuur.</p>
+Het agentschap behoort tot het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie.</p>
 
 ### ART. 3.
 
@@ -27,12 +32,11 @@ Het agentschap behoort tot het beleidsdomein Kanselarij en Bestuur.</p>
 <br>
 Het agentschap heeft tot taak op te treden als gemeenschappelijke aankoopcentrale voor het plaatsen van overheidsopdrachten en raamovereenkomsten met betrekking tot werken, leveringen of diensten die bestemd zijn voor de departementen en de intern verzelfstandigde agentschappen. De gemeenschappelijke aankoopcentrale kan die raamovereenkomsten ook plaatsen voor andere instanties van de Vlaamse of de lokale overheid, vermeld in artikel I.3, 1°, of artikel I.3, 5°, van het bestuursdecreet van 7 december 2018, en voor de Vlaamse Gemeenschapscommissie, die op eigen verantwoordelijkheid kunnen afnemen.<br>
 <br>
-Het agentschap heeft tot taak de rol te vervullen van een kenniscentrum overheidsopdrachten met het oog op de professionalisering van de overheidsopdrachtenpraktijk en de gemeenschappelijke aankoopcentrale. Dat omvat onder meer de volgende activiteiten:<br>
-1° het juridisch ondersteunen van de gemeenschappelijke aankoopcentrale, de taskforce Duurzame Overheidsopdrachten en de overheidsopdrachten van de Vlaamse administratie;<br>
-2° het verlenen van juridisch advies aan de Vlaamse administratie met betrekking tot overheidsopdrachten, het organiseren van het kennisnetwerk overheidsopdrachten en het verspreiden van modelbestekken en andere instrumentaria onder meer via de website en door de organisatie van studiedagen, infosessies en opleidingen;<br>
-3° de beleidscoördinatie, -voorbereiding en -uitvoering van het e-procurementprogramma en de daarmee samenhangende dienstverlening en projecten;<br>
-4° het lidmaatschap van het Vlaams Samenwerkingsforum Overheidsopdrachten en de federale Commissie voor de overheidsopdrachten;<br>
-5° het meewerken aan de beleidsvoorbereiding en -ondersteuning op het vlak van overheidsopdrachten binnen een structureel samenwerkingsverband met het departement Kanselarij en Bestuur.<br>
+Het agentschap heeft tot taak diensten inzake overheidsopdrachten aan te bieden. Dat omvat onder meer de volgende activiteiten:<br>
+1° de beleidscoördinatie, -voorbereiding en -uitvoering voor overheidsopdrachten, met inbegrip van de gewestelijke aspecten inzake overheidsopdrachten, het Vlaams Samenwerkingsforum Overheidsopdrachten en het lidmaatschap van de federale Commissie voor de overheidsopdrachten en daarmee samenhangend de ondersteuning van de Vlaamse Regering bij haar taken over de erkenning van aannemers van werken;<br>
+2° als aankoopcentrale optreden om overheidsopdrachten en raamovereenkomsten te plaatsen voor werken, leveringen of diensten die bestemd zijn voor instanties van de Vlaamse of de lokale overheid, vermeld in artikel I.3, 1° en artikel I.3, 5°, van het Bestuursdecreet van 7 december 2018, en voor de Vlaamse Gemeenschapscommissie;<br>
+3° de rol vervullen van kenniscentrum overheidsopdrachten ter ondersteuning van de entiteiten van de Vlaamse overheid met het oog op de professionalisering van de overheidsopdrachtenpraktijk, onder andere door juridische adviesverlening en door opleidingen en informatie aan te bieden aan de Vlaamse overheid, vermeld in artikel I.3, 1°, van het Bestuursdecreet van 7 december 2018;<br>
+4° rechtszaken behandelen over overheidsopdrachten van entiteiten die behoren tot de rechtspersoon van de Vlaamse Gemeenschap of het Vlaamse Gewest. Voor het beleidsdomein Mobiliteit en Openbare Werken worden alleen de rechtszaken behandeld die vóór 1 september 2010 zijn ingeleid.<br>
 <br>
 Het agentschap heeft tot taak diensten inzake informatie- en communicatietechnologie aan te bieden ter ondersteuning van de entiteiten van de Vlaamse overheid en van de lokale en provinciale besturen. Dat omvat de volgende activiteiten:<br>
 1° het voorbereiden, uitvoeren en evalueren van het beleid inzake informatie- en communicatietechnologie;<br>
