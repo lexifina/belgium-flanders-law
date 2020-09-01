@@ -22,6 +22,11 @@ In afwijking van artikel III.73, III.74, III.114, III.116, III.118 en III.119 va
 
 ## HOOFDSTUK 5. Afwijking van het decreet van 9 maart 2018 betreffende het deel- tijds kunstonderwijs
 
+### ART 9.
+
+De academies van het deeltijds kunstonderwijs kunnen voor het schooljaar 2020-2021 afwijken van de bepalingen die ze krachtens artikel 58, 2°, 3°, 4°, 7°,<br>
+10°, 11° en 13°, en artikel 60 van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs in hun academiereglement hebben opgenomen. Als die gewijzigde evaluatiemaatregelen gevolgen hebben voor het personeel, wordt er vooraf overleg gepleegd met de lokale personeelsvertegenwoordiging. De ouders of meerderjarige leerlingen worden schriftelijk of elektronisch van de maatregelen op de hoogte gebracht.
+
 ## HOOFDSTUK 6. Wijziging van het decreet van 30 oktober 2020 tot het nemen van dringende tijdelijke maatregelen in het onderwijs naar aanleiding van de coronacrisis (IV)
 
 ## HOOFDSTUK 7. Inwerkingtreding
