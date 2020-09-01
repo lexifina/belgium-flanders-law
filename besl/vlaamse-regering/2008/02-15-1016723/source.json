@@ -2,16 +2,16 @@
   "codex_id": 1016723,
   "title": "Besluit van de Vlaamse Regering van 2008-02-15 [betreffende het ziekteverlof, het verlof voor verminderde prestaties wegens ziekte, het langdurig verlof voor verminderde prestaties wegens medische redenen en de terbeschikkingstelling wegens ziekte voor bepaalde personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding (verv. BVR 17 oktober 2014, art. 13, I: 1 januari 2015)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016723/VolledigDocument?datum=2018-09-01",
-  "source_sha256": "cbd9bd1cdd69ed738665806f2b516ba64ead85606a9bfc0bbc00fbd86d7d0dd4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016723/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "479148796f9e50f7af46829786de10c6400ba7a84b8dc28ba89a13401466d350",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016723&param=informatie",
-  "as_of": "2018-09-01",
+  "as_of": "2020-09-01",
   "made": "2008-02-15",
   "gazette": "2008-04-10",
   "numac": 2008201042,
   "document_start": "2007-09-01",
   "document_end": null,
-  "in_force": "2018-09-01",
+  "in_force": "2020-09-01",
   "article_versions": 63,
-  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
 }

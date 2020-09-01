@@ -61,7 +61,7 @@ b) het koninklijk besluit van 1 december 1970 houdende bezoldigingsregeling van 
 c) het koninklijk besluit van 10 maart 1965 houdende bezoldigingsregeling van het personeel der leergangen met beperkt leerplan afhangend van het Ministerie van Nationale Opvoeding en Cultuur;<br>
 d) de bepalingen van hoofdstuk III van het besluit van de Vlaamse Regering van 24 juli 2009 houdende geldelijke bepalingen voor de personeelsleden van de Centra voor Basiseducatie en tot wijziging van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs en het koninklijk besluit van 1 december 1970 houdende bezoldigingsregeling van het administratief personeel, het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs.<br>
 <br>
-§ 2. De sociale anciënniteit vermeld in § 1 wordt verminderd met de tijd, die als in aanmerking komende dienst geldt op grond van artikel 17 van het voormelde koninklijk besluit van 15 april 1958.<br>
+§ 2. De sociale anciënniteit vermeld in § 1 wordt verminderd met de tijd, die als in aanmerking komende dienst geldt op grond van artikel 16ter, § 2 en § 4, voor zover het diensten gepresteerd in de privésector betreft, en, en artikel 17 van het voormelde koninklijk besluit van 15 april 1958.<br>
 <br>
 § 3. In afwijking van § 1 en § 2 wordt :<br>
 1° voor de berekening van de sociale anciënniteit van de personeelsleden van de MST-equipes, voor de periode vóór 1 september 2000, alleen rekening gehouden met de geldelijke anciënniteit, verworven in een gesubsidieerde MST-equipe;<br>
