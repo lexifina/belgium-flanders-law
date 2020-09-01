@@ -16,7 +16,13 @@ In afwijking van&nbsp;artikel 17 kan&nbsp;een deeltijdse loopbaanonderbreking va
 
 ### ART. 1/1.
 
-Voor de toepassing van dit besluit wordt onder gedeeltelijke loopbaanonderbreking verstaan : het halftijds of voor een vijfde onderbreken van de beroepsloopbaan.<br /><br />Bij een halftijdse onderbreking van de beroepsloopbaan blijft het personeelslid een opdracht van 50 % vervullen aan de hogeschool, aan meerdere hogescholen of aan andere onderwijsinstellingen. De nog te verrichten prestaties worden afgerond naar de hogere eenheid.<br /><br />Bij een onderbreking van de beroepsloopbaan met een vijfde blijft het personeelslid een opdracht van 80 % vervullen aan de hogeschool, aan meerdere hogescholen of aan andere onderwijsinstellingen. De nog te verrichten prestaties worden afgerond naar de hogere eenheid.
+Voor de toepassing van dit besluit wordt onder gedeeltelijke loopbaanonderbreking verstaan : het halftijds of voor een vijfde onderbreken van de beroepsloopbaan. Voor de toepassing van het in hoofdstuk 2, afdeling 2, subafdeling 3 vermelde ouderschapsverlof wordt onder gedeeltelijke loopbaanonderbreking ook het voor een tiende onderbreken van de beroepsloopbaan verstaan.<br>
+<br>
+Bij een halftijdse onderbreking van de beroepsloopbaan blijft het personeelslid een opdracht van 50 % vervullen aan de hogeschool, aan meerdere hogescholen of aan andere onderwijsinstellingen. De nog te verrichten prestaties worden afgerond naar de hogere eenheid.<br>
+<br>
+Bij een onderbreking van de beroepsloopbaan met een vijfde blijft het personeelslid een opdracht van 80 % vervullen aan de hogeschool, aan meerdere hogescholen of aan andere onderwijsinstellingen. De nog te verrichten prestaties worden afgerond naar de hogere eenheid.<br>
+<br>
+Bij een onderbreking van de beroepsloopbaan met een tiende blijft het personeelslid een opdracht van 90% vervullen aan de hogeschool, aan meerdere hogescholen of aan andere onderwijsinstellingen. De nog te verrichten prestaties worden afgerond naar de hogere eenheid.
 
 ## HOOFDSTUK II ONDERBREKING VAN DE BEROEPSLOOPBAAN
 
@@ -98,7 +104,15 @@ De volledige onderbreking van de beroepsloopbaan kan in periodes van een maand o
 <br>
 De&nbsp;halftijdse onderbreking van de beroepsloopbaan kan worden genomen in periodes van twee maanden of een veelvoud daarvan, met een maximumduur van acht maanden.<br>
 <br>
-De onderbreking van de beroepsloopbaan met een vijfde kan worden opgenomen in periodes van vijf maanden of een veelvoud daarvan, met een maximumduur van 20 maanden.</p>
+De onderbreking van de beroepsloopbaan met een vijfde kan worden opgenomen in periodes van vijf maanden of een veelvoud daarvan, met een maximumduur van 20 maanden.<br>
+<br>
+De onderbreking van de beroepsloopbaan met een tiende kan worden opgenomen in periodes van tien maanden of een veelvoud daarvan, met een maximumduur van veertig maanden. In afwijking van het eerste lid is de onderbreking met een tiende geen recht. Het hogeschoolbestuur kan deze opnamevorm weigeren. Het hogeschoolbestuur deelt die gemotiveerde beslissing schriftelijk mee aan het personeelslid.</p>
+
+### ART 13/1.
+
+In afwijking van artikel 13, tweede lid, kan de periode van vier maanden, na akkoord van het hogeschoolbestuur, volledig of gedeeltelijk worden opgesplitst in periodes van een week of een veelvoud daarvan. Het hogeschoolbestuur kan die opnamevorm weigeren. Het hogeschoolbestuur deelt die gemotiveerde beslissing schriftelijk mee aan het personeelslid. Als in geval van een gedeeltelijke opsplitsing in weken, het resterende gedeelte minder dan vier weken bedraagt, heeft het personeelslid het recht om dat saldo in overleg met het hogeschoolbestuur op te nemen. Het hogeschoolbestuur kan de opname van het saldo met maximaal 1 academiejaar en uiterlijk tot de in artikel 14 vermelde leeftijd uitstellen omwille van de continuïteit van het onderwijs of de dienstverlening.<br>
+<br>
+In afwijking van artikel 13, derde lid, kan de periode van acht maanden, na akkoord van het hogeschoolbestuur, volledig of gedeeltelijk worden opgesplitst in periodes van een maand of een veelvoud daarvan. Het hogeschoolbestuur kan die opnamevorm weigeren. Het hogeschoolbestuur deelt die gemotiveerde beslissing schriftelijk mee aan het personeelslid. Als in geval van een gedeeltelijke opsplitsing in maanden, het resterende gedeelte een maand bedraagt, heeft het personeelslid het recht om dat saldo in overleg met het hogeschoolbestuur op te nemen. Het hogeschoolbestuur kan de opname van het saldo met maximaal 1 academiejaar en uiterlijk tot de in artikel 14 vermelde leeftijd uitstellen omwille van de continuïteit van het onderwijs of de dienstverlening.
 
 ### ART. 14.
 
@@ -182,13 +196,40 @@ De bepaling, vermeld in artikel 2, en de voorwaarde "in hoofdambt", vermeld in a
 
 ### ART. 16.
 
-<P>§1. De onderbrekingsperiodes kunnen enkel opgenomen worden met periodes van   minimum één en maximum drie maanden, al dan niet aaneensluitend, tot een   maximumperiode van 12 maanden per patiënt bij een volledige loopbaanonderbreking   of 24 maanden per patiënt bij een gedeeltelijke loopbaanonderbreking.</P>  <P>§ 2. Voor het personeelslid dat alleenstaand is, wordt, in geval van zware   ziekte van zijn kind dat ten hoogste 16 jaar is, de maximumperiode van 12   maanden per patiënt, vermeld in paragraaf 1, voor de volledige   loopbaanonderbreking uitgebreid naar 24 maanden per patiënt, en wordt de   maximumperiode van 24 maanden per patiënt, vermeld in paragraaf 1, voor de   gedeeltelijke loopbaanonderbreking uitgebreid naar 48 maanden per   patiënt.<BR><BR>Onder alleenstaande wordt het personeelslid verstaan dat   uitsluitend en effectief samenwoont met een of meer van zijn kinderen. Voor de   toepassing van het eerste lid moet het personeelslid het bewijs leveren van de   samenstelling van het gezin met een attest van de gemeentelijke overheid waaruit   blijkt dat het personeelslid op het moment van de aanvraag van de   loopbaanonderbreking uitsluitend en effectief samenwoont met een of meer van   zijn kinderen. Voor iedere verlenging van een periode van volledige of   gedeeltelijke loopbaanonderbreking moet het personeelslid het vereiste attest   indienen.</P>
+<p>§1. De onderbrekingsperiodes kunnen enkel opgenomen worden met periodes van minimum één en maximum drie maanden, al dan niet aaneensluitend, tot een maximumperiode van 12 maanden per patiënt bij een volledige loopbaanonderbreking of 24 maanden per patiënt bij een gedeeltelijke loopbaanonderbreking.</p>
+
+<p>§ 2. Voor het personeelslid dat alleenstaand is, wordt, in geval van zware ziekte van zijn kind dat ten hoogste 16 jaar is, de maximumperiode van 12 maanden per patiënt, vermeld in paragraaf 1, voor de volledige loopbaanonderbreking uitgebreid naar 24 maanden per patiënt, en wordt de maximumperiode van 24 maanden per patiënt, vermeld in paragraaf 1, voor de gedeeltelijke loopbaanonderbreking uitgebreid naar 48 maanden per patiënt.<br>
+<br>
+Onder alleenstaande wordt het personeelslid verstaan dat uitsluitend en effectief samenwoont met een of meer van zijn kinderen. Voor de toepassing van het eerste lid moet het personeelslid het bewijs leveren van de samenstelling van het gezin met een attest van de gemeentelijke overheid waaruit blijkt dat het personeelslid op het moment van de aanvraag van de loopbaanonderbreking uitsluitend en effectief samenwoont met een of meer van zijn kinderen. Voor iedere verlenging van een periode van volledige of gedeeltelijke loopbaanonderbreking moet het personeelslid het vereiste attest indienen.<br>
+<br>
+&nbsp;§ 3. In afwijking van paragraaf 1 kan bij de opname van een volledige loopbaanonderbreking de minimumduur van de onderbrekingsperiodes, na akkoord van het hogeschoolbestuur, ingekort worden tot één van de volgende periodes:<br>
+1° één week;<br>
+2° twee weken;<br>
+3° drie weken.<br>
+<br>
+Als het resterend gedeelte van de maximumperiode van de onderbreking na de toepassing van het eerste lid minder bedraagt dan één maand, heeft het personeelslid het recht om dat volledige saldo zonder akkoord van het hogeschoolbestuur op te nemen.</p>
 
 ### ART. 16/1.
 
 § 1. In afwijking van de duur van minimum één maand, vermeld in artikel   16, kan het personeelslid voor de bijstand of de verzorging van een minderjarig   kind, tijdens of vlak na de hospitalisatie van het kind als gevolg van een zware   ziekte, zijn beroepsloopbaan volledig onderbreken voor een duur van één week,   eventueel verlengbaar met één week.<BR><BR>Voor de toepassing van dit artikel   wordt verstaan onder zware ziekte, elke ziekte of medische ingreep die door de   behandelende geneesheer van het zwaar zieke kind als dusdanig wordt beschouwd en   waarbij de geneesheer oordeelt dat elke vorm van sociale, familiale of   psychologische bijstand of verzorging noodzakelijk is.<BR><BR>§ 2. De   mogelijkheid tot onderbreking van de beroepsloopbaan voor de duur van één week,   zoals vermeld in paragraaf 1, staat open voor :<BR>1° het personeelslid dat   bloed- of aanverwant is in de eerste graad van het zwaar zieke kind en ermee   samenwoont;<BR>2° het personeelslid dat samenwoont met het zwaar zieke kind en   belast is met de dagelijkse opvoeding.<BR><BR>Als de personeelsleden vermeld in   het eerste lid, 1° en 2°, geen gebruik kunnen maken van de mogelijkheid tot   onderbreking van de beroepsloopbaan voor de duur van één week, zoals vermeld in   paragraaf 1, dan kunnen ook de volgende personeelsleden op die mogelijkheid een   beroep doen :<BR>1° het personeelslid dat bloed- of aanverwant is in de eerste   graad van het zwaar zieke kind en er niet mee samenwoont;<BR>2° als het   personeelslid vermeld onder 1° geen gebruik kan maken van de mogelijkheid tot   onderbreking van de beroepsloopbaan voor de duur van één week, een familielid   van het zwaar zieke kind tot de tweede graad. ».<BR><BR>§ 3. Als het   personeelslid aansluitend op de mogelijkheid tot onderbreking van de   beroepsloopbaan voor de duur van één week, zoals vermeld in paragraaf 1, zijn   recht uitoefent op loopbaanonderbreking voor medische bijstand zoals vermeld in   artikel 15 voor datzelfde zwaar zieke kind, kan de minimale periode voor de   opname van de volledige onderbreking van de beroepsloopbaan korter zijn dan één   maand.
 
 ## [SUBAFDELING 4/1 LOOPBAANONDERBREKING VOOR MANTELZORG (ing. BVR 17 juli 2020, art. 8, I: 1 september 2020)]
+
+### ART 16/2.
+
+Personeelsleden die erkend mantelzorger zijn van een zorgbehoevende persoon, hebben het recht om hun loopbaan te onderbreken voor mantelzorg conform artikel 100ter en 102ter van de wet van 22 januari 1985 houdende sociale bepalingen.&nbsp;Ze hebben daarvoor een van de volgende opties:<br>
+1° hun loopbaan volledig onderbreken;<br>
+2° hun loopbaan gedeeltelijk onderbreken, op voorwaarde dat het personeelslid aangesteld is in een ambt met volledige prestaties.<br>
+<br>
+In het eerste lid wordt verstaan onder erkend mantelzorger: de persoon van wie de hoedanigheid van mantelzorger erkend is conform hoofdstuk 3 van de wet van 12 mei 2014 betreffende de erkenning van de mantelzorger.
+
+### ART 16/3.
+
+Een personeelslid heeft recht op één maand voltijdse loopbaanonderbreking per zorgbehoevende persoon of twee maanden gedeeltelijke loopbaanonderbreking per zorgbehoevende persoon.<br>
+<br>
+Het recht op volledige loopbaanonderbreking voor mantelzorg bedraagt maximaal zes maanden over de gehele beroepsloopbaan. Het recht op gedeeltelijke loopbaanonderbreking voor mantelzorg bedraagt maximaal twaalf maanden over de gehele beroepsloopbaan.<br>
+<br>
+Voor de toepassing van dit artikel moet rekening gehouden worden met het principe dat één maand volledige loopbaanonderbreking overeenkomt met twee maanden gedeeltelijke loopbaanonderbreking.
 
 ## SUBAFDELING 5 DEELTIJDSE LOOPBAANONDERBREKING VANAF [55 JAAR (verv. BVR 12 oktober 2012, art. 9, I: 1 september 2012)]
 
@@ -208,7 +249,9 @@ De personeelsleden genoemd in voorgaand lid, kunnen niet opnieuw een gedeeltelij
 <br>
 § 4. In afwijking van paragraaf 1 behouden de personeelsleden die voor 1 juli 2012 al van een gedeeltelijke loopbaanonderbreking vanaf 50 jaar genieten, dit recht, ook al zijn zij op dat moment nog geen 55 jaar.<br>
 <br>
-§ 5. In afwijking van paragraaf 1 wordt de leeftijd op vijftig jaar gebracht voor de personeelsleden van wie de eerste aanvraag of verlengingsaanvraag voor 1 september 2012 werd ontvangen bij de Rijksdienst voor Arbeidsvoorziening, voor zover de inrichtende macht of de Vlaamse Regering vóór 16 maart 2012 de schriftelijke aanvraag van het personeelslid ontving.</p>
+§ 5. In afwijking van paragraaf 1 wordt de leeftijd op vijftig jaar gebracht voor de personeelsleden van wie de eerste aanvraag of verlengingsaanvraag voor 1 september 2012 werd ontvangen bij de Rijksdienst voor Arbeidsvoorziening, voor zover de inrichtende macht of de Vlaamse Regering vóór 16 maart 2012 de schriftelijke aanvraag van het personeelslid ontving.<br>
+<br>
+§6. De gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 50 of 55 jaar wordt geschorst op het ogenblik dat het personeelslid het recht doet gelden op een loopbaanonderbreking voor palliatieve zorgen of voor het hervatten van het werk binnen de periode van 16 maart 2020 tot en met 30 juni 2020 ingevolge de coronacrisis.</p>
 
 ## HOOFDSTUK III PROCEDURE EN ADMINISTRATIEVE VERPLICHTINGEN
 
@@ -235,14 +278,20 @@ Het hogeschoolbestuur vult het formulier bedoeld in artikel 16, § 2 van het voo
 Bij deze mededeling moeten de begin- en einddatum van het ouderschapsverlof worden vermeld.<br>
 <br>
 Het personeelslid verstrekt uiterlijk op het ogenblik dat het ouderschapsverlof ingaat, naar gelang van het geval, volgende stavingdocumenten:<br>
-1° een uittrekstel uit de geboorteakte van het kind;<br>
+1° ...<br>
 2° een attest waaruit de adoptie blijkt.<br>
 <br>
-Bij de in het derde lid, 1° en 2°, vermelde documenten moet steeds een uittreksel uit het bevolkings- of vreemdelingenregister worden gevoegd, waaruit de samenstelling van het gezin blijkt.<br>
+Bij de in het derde lid,&nbsp;2°, vermelde documenten moet steeds een uittreksel uit het bevolkings- of vreemdelingenregister worden gevoegd, waaruit de samenstelling van het gezin blijkt.<br>
 <br>
 § 5. Het personeelslid dat zijn loopbaanonderbreking wenst te onderbreken voor de verzorging van een ziek gezinslid of ziek familielid deelt dit mee aan zijn hogeschoolbestuur. Hij voegt bij deze mededeling een attest afgeleverd door de behandelende geneesheer van het zwaar ziek gezins- of familielid tot de tweede graad, waaruit blijkt dat het personeelslid bereid is bijstand of verzorging te verlenen aan de zwaar zieke persoon. In geval van hospitalisatie van het kind wordt het bewijs van hospitalisatie geleverd door een attest van het betrokken ziekenhuis.<br>
 <br>
-De loopbaanonderbreking voor de verzorging van een zwaar ziek gezins- of familielid begint de eerste dag van de week die volgt op de week waarin de voornoemde mededeling is gebeurd of op een vroeger tijdstip, mits akkoord van het hogeschoolbestuur.
+De loopbaanonderbreking voor de verzorging van een zwaar ziek gezins- of familielid begint de eerste dag van de week die volgt op de week waarin de voornoemde mededeling is gebeurd of op een vroeger tijdstip, mits akkoord van het hogeschoolbestuur.<br>
+<br>
+§ 6. Het personeelslid dat zijn loopbaan wil onderbreken om mantelzorg te verstrekken, deelt dat mee aan zijn hogeschoolbestuur. Hij voegt bij die mededeling het bewijs van de erkenning van zijn hoedanigheid als mantelzorger.<br>
+<br>
+De loopbaanonderbreking voor het verstrekken van mantelzorg begint de eerste dag van de week die volgt op de week waarin de mededeling is gebeurd of op een vroeger tijdstip, na akkoord van het hogeschoolbestuur.<br>
+<br>
+Het hogeschoolbestuur vult het formulier, vermeld in artikel 16, § 2, van het koninklijk besluit van 12 augustus 1991 betreffende de toekenning van onderbrekingsuitkeringen aan de personeelsleden van het onderwijs en de psycho-medisch-sociale centra, in, en overhandigt het aan het personeelslid.
 
 ### ART. 19.
 
