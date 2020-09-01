@@ -26,3 +26,19 @@ In artikel 3 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<b
 1° in punt 1° wordt de zinsnede "1 plaats" vervangen door de zinsnede "5 plaatsen";<br>
 2° aan punt 2° wordt de zinsnede "en 5 plaatsen voor jongens" toegevoegd;<br>
 3° in punt 4 ° wordt de zinsnede "1 plaats" vervangen door de zinsnede "10 plaatsen".
+
+### ART 3.
+
+In hetzelfde besluit wordt het opschrift van hoofdstuk 2 vervangen door wat volgt:<br>
+<br>
+"Hoofdstuk 2. De afdelingen, de organisatie en de maximumcapaciteit van het Vlaams detentiecentrum".
+
+### ART 4.
+
+In hoofdstuk 2 van hetzelfde besluit wordt een artikel 4/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 4/1. Het Vlaams detentiecentrum is in de Schaarbeekstraat 2 in Beveren gevestigd.".
+
+### ART 5.
+
+In artikel 5 wordt het getal "15" vervangen door het getal "8".

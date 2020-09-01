@@ -2,16 +2,16 @@
   "codex_id": 1036429,
   "title": "Ministerieel besluit van 2020-07-17 tot wijziging van het ministerieel besluit van 18 juli 2019 tot vaststelling van de capaciteit van de gemeenschapsinstellingen en het Vlaams detentiecentrum, wat betreft de capaciteit",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036429/VolledigDocument?datum=2020-07-01",
-  "source_sha256": "e0d393db1a39defeb23f8c0b86dc7d925903493f2411ae684eb9d850655c87fe",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036429/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "a9af783d9dbb16f92e56516ab0567a6d6e5ee89d15a281e0e433b10fd2547174",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036429&param=informatie",
-  "as_of": "2020-07-01",
+  "as_of": "2020-09-01",
   "made": "2020-07-17",
   "gazette": "2022-01-26",
   "numac": 2022040042,
   "document_start": null,
   "document_end": null,
-  "in_force": "2020-07-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2020-07-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
 }
