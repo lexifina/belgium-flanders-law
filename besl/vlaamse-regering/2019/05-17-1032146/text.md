@@ -56,9 +56,78 @@ De opleiding wordt gegeven door een opleidingsverstrekker die geregistreerd is c
 
 ## HOOFDSTUK 4. Opleidingscheques
 
+### ART 4.
+
+In dit artikel wordt verstaan onder schooljaar: de periode van 1 september tot en met 31 augustus.<br>
+<br>
+Een werknemer kan, binnen de perken van het begrotingskrediet dat daarvoor bestemd is, per schooljaar voor maximaal tweehonderdvijftig euro opleidingscheques bij de uitgever aankopen.<br>
+<br>
+Het maximumbedrag van tweehonderdvijftig euro, vermeld in het tweede lid, kan verhoogd worden tot vijfhonderd euro per schooljaar voor een kort- of middengeschoolde werknemer die Hoger Onderwijs aanvat.
+
+### ART 5.
+
+De Vlaamse Gemeenschap levert een bijdrage van 50% in het totaalbedrag van de opleidingscheques, de werknemer betaalt de overige 50% als hij de opleidingscheques aankoopt.<br>
+<br>
+Een kortgeschoolde werknemer is volledig vrijgesteld van de bijdrage die hij moet betalen als hij een opleiding volgt die minstens aan een van de volgende voorwaarden voldoet:<br>
+1° ze is gericht op basisgeletterdheid, rekenvaardigheid of ICT-basisvaardigheid;<br>
+2° het is een opleiding Nederlands voor anderstaligen;<br>
+3° ze draagt bij tot het behalen van een diploma secundair onderwijs, inclusief het afleggen van examens voor de examencommissie secundair onderwijs, vermeld in artikel 256/1 van de Codex Secundair Onderwijs van 17 december 2010, en de examencommissie basisonderwijs, vermeld in artikel 56 van het decreet basisonderwijs van 25 februari 1997;<br>
+4° ze draagt bij tot het behalen van een beroepskwalificatie tot en met niveau 4 van de Vlaamse kwalificatiestructuur;<br>
+5° ze is gericht op het aanleren van competenties die deel uitmaken van een knelpuntberoep dat in de lijst van knelpuntberoepen van de VDAB staat.<br>
+<br>
+De bijdrage van de Vlaamse Gemeenschap wordt in geval van vrijstelling verhoogd tot 100%.
+
+### ART 6.
+
+§ 1. Alleen kort- en middengeschoolde werknemers kunnen de opleidingscheques voor arbeidsmarktgerichte opleidingen gebruiken.<br>
+<br>
+In het eerste lid wordt verstaan onder arbeidsmarktgerichte opleidingen: de opleidingen, vermeld in artikel 109, § 1, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, die recht geven op Vlaams opleidingsverlof, volgens de voorwaarden, vermeld in artikel 109, § 2, van de voormelde wet.<br>
+<br>
+§ 2. Alle werknemers kunnen de opleidingscheques gebruiken voor opleidingen die ze volgen in het kader van loopbaanbegeleiding als vermeld in artikel 4, § 2, van het besluit van de Vlaamse Regering van 17 mei 2013 betreffende de loopbaanbegeleiding, en die vastgelegd zijn in een persoonlijk ontwikkelingsplan.
+
+### ART 7.
+
+De opleidingscheques zijn voor de werknemer zes maanden geldig vanaf de datum waarop ze uitgegeven zijn en ze worden gebruikt voor de opleiding die erop vermeld is en die begonnen is vóór de geldigheidsdatum van de opleidingscheques verstreken is.<br>
+<br>
+In de volgende gevallen worden de opleidingscheques niet uitbetaald aan de geregistreerde opleidingsverstrekker:<br>
+1° als een werknemer de opleidingscheques buiten de periode van zes maanden vanaf de uitgiftedatum aanbiedt als betaalmiddel;<br>
+2° als de gevolgde opleiding niet overeenstemt met de opleiding die vermeld is op de opleidingscheques;<br>
+3° als de geregistreerde opleidingsverstrekker de opleidingscheques niet binnen een jaar vanaf de uitgiftedatum indient bij de uitgever ervan;<br>
+4° als wordt vastgesteld dat de geregistreerde opleidingsverstrekker opleidingscheques inlevert waarop een werknemer vermeld staat die verschilt van de werknemer die de opleiding gevolgd heeft.<br>
+<br>
+De totale waarde van de aangeboden opleidingscheques mag niet groter zijn dan het totaalbedrag van de factuur inclusief btw.<br>
+<br>
+Opleidingscheques waarvan de geldigheidsduur niet is verstreken, worden terugbetaald aan de werknemer op zijn verzoek.<br>
+<br>
+Opleidingscheques die niet worden ingediend door een geregistreerde opleidingsverstrekker binnen één jaar vanaf de datum waarop ze zijn uitgegeven omdat de opleiding niet werd gevolgd, worden automatisch terugbetaald aan de werknemer.
+
 ## HOOFDSTUK 5. Aankoopprocedure voor de werknemer
 
+### ART 8.
+
+De werknemer koopt de opleidingscheques voor de start van de opleiding, tenzij de geregistreerde opleidingsverstrekker de directe opleidingskosten op een later ogenblik factureert.
+
+### ART 9.
+
+De werknemer vraagt de opleidingscheques aan bij het departement. De minister bepaalt de verdere modaliteiten van de aanvraagprocedure.
+
+### ART 10.
+
+De werknemer betaalt de hele verschuldigde som binnen veertien dagen nadat de aanvraag van de opleidingscheques bevestigd is, op de rekening van de uitgever. Anders vervalt zijn totale reservatie van rechtswege en komt die reservatie weer in de beschikbare enveloppe terecht.<br>
+<br>
+Nadat het departement heeft bevestigd dat aan de voorwaarden, vermeld in artikel 4, 5 en 6, is voldaan en nadat de werknemer die niet volledig is vrijgesteld van de bijdrage, vermeld in artikel 5, tweede lid, betaald heeft, verstrekt de uitgever de opleidingscheques op naam van de werknemer, met vermelding van de opleiding die de werknemer wil volgen, en de vervaldatum, vermeld in artikel 7, eerste lid. Hij bezorgt de opleidingscheques binnen een periode van veertien dagen.<br>
+<br>
+Als niet aan de voorwaarden, vermeld in artikel 4, 5 en 6, is voldaan, betaalt de uitgever het bedrag terug aan de werknemer.
+
 ## HOOFDSTUK 6. Inleveringsprocedure voor de geregistreerde opleidingsverstrekker
+
+### ART 11.
+
+&nbsp;§ 1. De geregistreerde opleidingsverstrekker dient de opleidingscheques die hij van de werknemer ontvangt in bij de uitgever binnen een jaar na de datum van uitgifte. De minister bepaalt de concrete modaliteiten voor de inleveringsprocedure.<br>
+<br>
+Het departement kan een attest van inschrijving opvragen.<br>
+<br>
+§ 2. Als de voorwaarden, vermeld in dit besluit, zijn vervuld, betaalt de uitgever de geregistreerde opleidingsverstrekker binnen veertien dagen nadat hij de opleidingscheques heeft ingediend.
 
 ## HOOFDSTUK 7. Cumul
 
@@ -91,6 +160,10 @@ De persoonsgegevens die overeenkomstig dit besluit worden opgevraagd, worden sle
 ### ART 17.
 
 In het besluit van de Vlaamse Regering van 18 juli 2003 betreffende de opleidingscheques voor werknemers, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 13 februari 2015, worden hoofdstuk II en III, die bestaan uit artikel 2 tot en met 4, en hoofdstuk VII en VII/1, die bestaan uit artikel 13 en 12/1, opgeheven.
+
+### ART 18.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 13 februari 2015, worden hoofdstuk I, dat bestaat uit artikel 1, hoofdstuk IV, V en VI, die bestaan uit artikel 5 tot en met 12, en hoofdstuk VIII, dat bestaat uit artikel 14 en 15, opgeheven.
 
 ### ART 19.
 
