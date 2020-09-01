@@ -4,7 +4,18 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° de minister: de Vlaamse   minister, bevoegd voor de binnenlandse aangelegenheden;<BR>2° het Agentschap:   het Agentschap Binnenlands Bestuur van het Ministerie Kanselarij en   Bestuur;<BR>3° lokale besturen: de gemeenten, de openbare centra voor   maatschappelijk welzijn (O.C.M.W.), de districten, de intergemeentelijke   samenwerkingsverbanden, zoals bepaald in het decreet van 6 juli 2001 houdende de   intergemeentelijke samenwerking en de provincies van het Vlaamse Gewest;<BR>4°   het centrum: het Vormingscentrum voor Lokale Besturen, opgericht binnen[het   Agentschap waarvan de samenstelling is bepaald in hoofdstuk IV van dit   besluit;<BR>5° lokale mandatarissen: mandatarissen van lokale besturen;<BR>6°   lokale ambtenaren: contractuele en vastbenoemde ambtenaren van lokale   besturen;<BR>7° lokale topambtenaren: ambtenaren van lokale besturen die   deelnemen aan de beleidsvoorbereiding of het management van het lokale   bestuur;<BR>8° een vormingsinitiatief: een begeleide en gestructureerde   leeractiviteit, gericht op de deskundigheidsbevordering van lokale   mandatarissen, ambtenaren of topambtenaren;<BR>9° een vormingsorganisatie: een   organisatie die vorming aanbiedt voor lokale mandatarissen, ambtenaren en   topambtenaren en niet verbonden is met een politieke partij of een vereniging   van levensbeschouwelijke aard;<BR>10° een dagdeel: een voormiddag-, een   namiddag- of een avondactiviteit;<BR>11° een dag: een dag bestaat uit minstens   twee dagdelen.
+In dit besluit wordt verstaan onder:<br>
+1° de minister: de Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden;<br>
+2° het Agentschap: het Agentschap Binnenlands Bestuur van het Ministerie Kanselarij, Bestuur, Buitenlandse Zaken en Justitie;<br>
+3° lokale besturen: de gemeenten, de openbare centra voor maatschappelijk welzijn (O.C.M.W.), de districten, de intergemeentelijke samenwerkingsverbanden, zoals bepaald in het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking en de provincies van het Vlaamse Gewest;<br>
+4° het centrum: het Vormingscentrum voor Lokale Besturen, opgericht binnen[het Agentschap waarvan de samenstelling is bepaald in hoofdstuk IV van dit besluit;<br>
+5° lokale mandatarissen: mandatarissen van lokale besturen;<br>
+6° lokale ambtenaren: contractuele en vastbenoemde ambtenaren van lokale besturen;<br>
+7° lokale topambtenaren: ambtenaren van lokale besturen die deelnemen aan de beleidsvoorbereiding of het management van het lokale bestuur;<br>
+8° een vormingsinitiatief: een begeleide en gestructureerde leeractiviteit, gericht op de deskundigheidsbevordering van lokale mandatarissen, ambtenaren of topambtenaren;<br>
+9° een vormingsorganisatie: een organisatie die vorming aanbiedt voor lokale mandatarissen, ambtenaren en topambtenaren en niet verbonden is met een politieke partij of een vereniging van levensbeschouwelijke aard;<br>
+10° een dagdeel: een voormiddag-, een namiddag- of een avondactiviteit;<br>
+11° een dag: een dag bestaat uit minstens twee dagdelen.
 
 ## HOOFDSTUK II VORMINGSINITIATIEVEN VOOR LOKALE TOPAMBTENAREN EN LOKALE MANDATARISSEN
 

@@ -2,16 +2,16 @@
   "codex_id": 1013377,
   "title": "Besluit van de Vlaamse Regering van 2004-05-28 tot vaststelling van de voorwaarden en de regels inzake de toekenning van subsidies voor vormingsinitiatieven voor lokale mandatarissen, ambtenaren en topambtenaren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013377/VolledigDocument?datum=2015-04-01",
-  "source_sha256": "0d1a5dd0d0d1fbae2c19ae1e0762a1cc0c679b3acdc0c87488954ee59a803776",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013377/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "74578490b4dc17478d09f706b13c42d7895976bc18a1e4d2cde9548fc20b553c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013377&param=informatie",
-  "as_of": "2015-04-01",
+  "as_of": "2020-09-01",
   "made": "2004-05-28",
   "gazette": "2004-09-02",
   "numac": 2004036405,
   "document_start": "2004-11-01",
   "document_end": null,
-  "in_force": "2015-04-01",
+  "in_force": "2020-09-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2015-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
 }
