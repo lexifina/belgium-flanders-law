@@ -120,15 +120,15 @@ De leden van de Vlaamse Regering zijn, ieder wat hem of haar betreft, belast met
 <p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">1°&nbsp;de minister-president van de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management is, bevoegd voor:</span></span></p>
 
 <ol style="list-style-type:lower-alpha">
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het Departement Kanselarij en Bestuur, met uitzondering van:</span></span></span>
+	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het </span></span></span>Departement Kanselarij en Buitenlandse Zaken<span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">, met uitzondering van:</span></span></span>
 
 	<ol>
-		<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van de Gemeenschappelijke Dienst voor Preventie en Bescherming;</span></span></span></li>
-		<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van de Dienst van de Gouverneurs;</span></span></span></li>
+		<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">...;</span></span></span></li>
+		<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">...;</span></span></span></li>
 		<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de projectleider van het N- project Coördinatie Vlaams Handhavingsbeleid;</span></span></span></li>
 	</ol>
 	</li>
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het Departement Buitenlandse Zaken;</span></span></span></li>
+	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">...;</span></span></span></li>
 	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het Departement Cultuur, Jeugd en Media, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van het jeugd- en mediabeleid;</span></span></span></li>
 </ol>
 
@@ -140,12 +140,7 @@ De leden van de Vlaamse Regering zijn, ieder wat hem of haar betreft, belast met
 	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het departement Landbouw en Visserij;</span></span></span></li>
 </ol>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">3°&nbsp;de Vlaamse minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen is bevoegd voor de volgende personeelsleden van het Departement Kanselarij en Bestuur:</span></span></p>
-
-<ol style="list-style-type:lower-alpha">
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van de Gemeenschappelijke Dienst voor Preventie en Bescherming;</span></span></span></li>
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van de Dienst van de Gouverneurs;</span></span></span></li>
-</ol>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">3° ...</span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">;</span></p>
 
 <p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">4°&nbsp;de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand is, bevoegd voor:</span></span></p>
 
@@ -157,7 +152,7 @@ De leden van de Vlaamse Regering zijn, ieder wat hem of haar betreft, belast met
 <p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">5°&nbsp;de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme is, bevoegd voor:</span></span></p>
 
 <ol style="list-style-type:lower-alpha">
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de projectleider van het N-project Coördinatie Vlaams Handhavingsbeleid, die personeelslid is van het departement Kanselarij en Bestuur;</span></span></span></li>
+	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de projectleider van het N-project Coördinatie Vlaams Handhavingsbeleid, die personeelslid is van het </span></span></span>Departement Kanselarij en Buitenlandse Zaken<span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">;</span></span></span></li>
 	<li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het Departement Omgeving, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van:</span></span></span>
 	<ol>
 		<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">het dierenwelzijn;</span></span></span></li>
@@ -187,9 +182,9 @@ De leden van de Vlaamse Regering zijn, ieder wat hem of haar betreft, belast met
 
 <p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">9°&nbsp;de Vlaamse minister van Brussel, Jeugd en Media is bevoegd voor de personeelsleden van het departement Cultuur, Jeugd en Media, die alleen of hoofdzakelijk taken vervullen in het kader van het jeugd- en mediabeleid;</span></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">10°&nbsp;de minister-president van de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management en de Vlaamse minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen zijn bevoegd voor de secretaris-generaal van het Departement Kanselarij en Bestuur;</span></span></p>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">10°&nbsp;...;</span></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">11°&nbsp;de minister-president van de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management en de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme zijn bevoegd voor de secretaris- generaal van het Departement Buitenlandse Zaken;</span></span></p>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">11°&nbsp;de minister-president van de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management en de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme zijn bevoegd voor de secretaris- generaal van het </span></span>Departement Kanselarij en Buitenlandse Zaken<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">;</span></span></p>
 
 <p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">12°&nbsp;de minister-president van de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management, de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand en de Vlaamse minister van Brussel, Jeugd en Media zijn, bevoegd voor de personeelsleden van de Raad voor Cultuur, Jeugd, Sport en Media;</span></span></p>
 
