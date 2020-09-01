@@ -82,7 +82,7 @@ De toegang tot de educatieve graduaatsopleiding voor secundair onderwijs, vermel
 De volgende kandidaten worden toegelaten tot de educatieve graduaatsopleiding:<br>
 1° een kandidaat met vijf jaar professionele ervaring in het betrokken onderwijsvak van de educatieve graduaatsopleiding;<br>
 2° een kandidaat met drie jaar professionele ervaring in het betrokken onderwijsvak van de educatieve graduaatsopleiding en een studiebewijs als vermeld in artikel II.176 van de Codex Hoger Onderwijs van 11 oktober 2013, of een beroepscertificaat van VDAB in het domein van het onderwijsvak;<br>
-3° in afwijking van 1° en 2° moeten kandidaten voor de onderwijsvakken hedendaagse dans en klassieke dans voldoen aan de voorwaarden van artikel II.112, § 5 van de Codex Hoger Onderwijs van 11 oktober 2013.
+3° in afwijking van punt 2° worden voor de onderwijsvakken hedendaagse dans en klassieke dans kandidaten toegelaten met drie jaar professionele ervaring als danser, als ze daarbij beschikken over een diploma van het kunstsecundair onderwijs studierichting Dans of Ballet, of een diploma dat daarmee gelijkwaardig is.
 
 ### ART 4.
 
