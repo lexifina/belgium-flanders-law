@@ -60,9 +60,13 @@ Binnen de maximumcapaciteit, vermeld in artikel 1, 1° en 2° wordt respectievel
 
 ## [HOOFDSTUK 2. De afdelingen, de organisatie en de maximumcapaciteit van het Vlaams detentiecentrum (verv. MB 17 juli 2020, art. 3, I: 1 september 2020)]
 
+### ART 4/1.
+
+Het Vlaams detentiecentrum is in de Schaarbeekstraat 2 in Beveren gevestigd.
+
 ### ART 5.
 
-De capaciteit van het Vlaams detentiecentrum wordt vastgesteld op 15 plaatsen.
+De capaciteit van het Vlaams detentiecentrum wordt vastgesteld op 8 plaatsen.
 
 ## HOOFDSTUK 3. Slotbepalingen
 
