@@ -55,6 +55,10 @@ b) sluiten een schoolbestuur, verschillende schoolbesturen samen of het LOP alsn
 § 2. Aan artikel 37vicies quinquies, § 1, van hetzelfde decreet wordt een derde lid toegevoegd, dat luidt als volgt:<br>
 "In afwijking van het eerste lid kunnen een schoolbestuur, verschillende schoolbesturen samen of het LOP uiterlijk op 15 november 2020 een voorstel van aanmeldingsprocedure voor de inschrijvingen voor het schooljaar 2021-2022 aan de CLR voorleggen.".
 
+### ART 10.
+
+In artikel 37vicies sexies, § 1, van hetzelfde decreet, ingevoegd bij het decreet van 8 juni 2012 en gewijzigd bij de decreten van 21 december 2018 en 22 november 2019, wordt de datum "31 januari 2020" vervangen door de datum "31 januari 2021".
+
 ### ART 11.
 
 In afwijking van artikel 44ter van hetzelfde decreet is de afname van de gevalideerde toetsen op het einde van het schooljaar 2019-2020 optioneel. Over de beslissing om de gevalideerde proeven al dan niet af te nemen wordt overleg gepleegd met de lokale personeelsvertegenwoordiging.
@@ -115,6 +119,10 @@ In afwijking van artikel 14, § 2, van de Codex Secundair Onderwijs van 17 decem
 
 In afwijking van artikel 15, § 2, van dezelfde codex dient het schoolbestuur uiterlijk op 1 juni 2020 een aanvraag in tot financiering van structuuronderdelen in het kader van de oprichting per 1 september 2020 van een school die niet het gevolg is van een herstructurering van bestaande scholen.
 
+### ART 22.
+
+In artikel 110/0 van hetzelfde decreet, ingevoegd bij het decreet van 22 november 2019, wordt de zinsnede "2019-2020 en 2020-2021" vervangen door de zinsnede "2019-2020, 2020-2021 en 2021-2022".
+
 ### ART 23.
 
 In afwijking van artikel 110/1 van dezelfde codex gelden voor inschrijvingen die plaatsvinden in het schooljaar 2019-2020 de volgende regels:<br>
@@ -144,6 +152,10 @@ b) sluiten een schoolbestuur, verschillende schoolbesturen samen of het LOP zich
 <br>
 § 2. Aan artikel 110/25, § 1, van dezelfde codex wordt een derde lid toegevoegd, dat luidt als volgt:<br>
 "In afwijking van het eerste lid kunnen een schoolbestuur, verschillende schoolbesturen samen of het LOP uiterlijk op 15 november 2020 een voorstel van aanmeldingsprocedure voor de inschrijvingen voor het schooljaar 2021-2022 aan de CLR voorleggen.".
+
+### ART 27.
+
+In artikel 110/26, § 1, van dezelfde codex, bekrachtigd bij het decreet van 27 mei 2011, ingevoegd bij het decreet van 8 juni 2012 en gewijzigd bij de decreten van 21 december 2018 en 22 november 2019, wordt het jaartal "2020" vervangen door het jaartal "2021".
 
 ### ART 28.
 
@@ -206,6 +218,29 @@ In afwijking van artikel II.187, § 3, zesde lid, van de Codex Hoger Onderwijs v
 In afwijking van artikel II.288, § 2, van dezelfde codex duurt het mandaat van de leden die vanaf 1 april 2020 benoemd worden, drie jaar. Het mandaat is hernieuwbaar.
 
 ## HOOFDSTUK 9. Wijziging van het decreet van 17 mei 2019 houdende wijziging van het decreet basisonderwijs van 25 februari 1997, van de Codex Secundair Onderwijs van 17 december 2010 en van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, wat het inschrijvingsrecht betreft
+
+### ART 38.
+
+In artikel II.1 van het decreet van 17 mei 2019 houdende wijziging van het decreet basisonderwijs van 25 februari 1997, van de Codex Secundair Onderwijs van 17 december 2010 en van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, wat het inschrijvingsrecht betreft, gewijzigd bij decreet van 22 november 2019, worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede "2019-2020 en 2020-2021" wordt vervangen door de zinsnede "2019-2020, 2020-2021 en 2021-2022";<br>
+2° het derde lid wordt vervangen door wat volgt:<br>
+"De bepalingen van hoofdstuk IV/1, IV/2 en IV/3 zijn van toepassing voor de inschrijvingen in het basisonderwijs voor het schooljaar 2022-2023 en de daaropvolgende schooljaren.".
+
+### ART 39.
+
+In artikel III.5, III.14, § 2, III.21, III.25, III.46, IV.5, IV.6, VI.3, VI.12, VI.15, VI.19 en VI.21 van hetzelfde decreet, gewijzigd bij het decreet van 22 november 2019, worden de jaartallen "2021-2022" telkens vervangen door de jaartallen "2022-2023".
+
+### ART 40.
+
+In artikel IV.6 van hetzelfde decreet, gewijzigd bij het decreet van 22 november 2019, worden de jaartallen "2020-2021" vervangen door de jaartallen "2021-2022".
+
+### ART 41.
+
+In artikel IV.4 van hetzelfde decreet, gewijzigd bij het decreet van 22 november 2019, wordt de zinsnede "2021-2022, 2022-2023, 2023-2024 en 2024-2025" vervangen door de zinsnede "2022-2023, 2023-2024, 2024-2025 en 2025-2026".
+
+### ART 42.
+
+In artikel VII.1 van hetzelfde decreet, gewijzigd bij het decreet van 22 november 2019, wordt het jaartal "2020" vervangen door het jaartal "2021".
 
 ## HOOFDSTUK 10. Inwerkingtreding
 
