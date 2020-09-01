@@ -2,7 +2,21 @@
 
 ### ART. 1.
 
-Ter uitvoering van artikel 14 en 15, § 1, van het decreet van 2 maart 1999   tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden   in de bijlagen I tot en met XIV voor de modulaire structuur van het studiegebied   Nederlands tweede taal, behorende tot het secundair onderwijs voor sociale   promotie, de opleidingsprofielen als volgt vastgelegd:<BR>1° ...;<BR>2°   ...;<BR>3°&nbsp;...;<BR>4°&nbsp;...;<BR>5° in bijlage V de modulaire opleiding «   NT2 Professioneel Bedrijfsgericht richtgraad 2 »;<BR>6° in bijlage VI de   modulaire opleiding « NT2 Professioneel Bedrijfsgericht richtgraad 3 »;<BR>7° in   bijlage VII de modulaire opleiding « NT2 Professioneel Juridisch richtgraad 3   »;<BR>8° in bijlage VIII de modulaire opleiding « Socio-Culturele Integratie   richtgraad 1 »;<BR>9° in bijlage IX de modulaire opleiding « Socio-Culturele   Integratie richtgraad 2 »;<BR>10° in bijlage X de modulaire opleiding « Latijns   Schrift richtgraad 1 »;<BR>11° ...<BR>12° ...<BR>13° ...<BR>14° in bijlage XIV   de modulaire opleiding « NT2 professioneel juridisch richtgraad 4   ».
+Ter uitvoering van artikel 14 en 15, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden in de bijlagen V tot en met IX en bijlage XIV voor de modulaire structuur van het studiegebied Nederlands tweede taal, behorende tot het secundair onderwijs voor sociale promotie, de opleidingsprofielen als volgt vastgelegd:<br>
+1° ...;<br>
+2° ...;<br>
+3°&nbsp;...;<br>
+4°&nbsp;...;<br>
+5° in bijlage V de modulaire opleiding « NT2 Professioneel Bedrijfsgericht richtgraad 2 »;<br>
+6° in bijlage VI de modulaire opleiding « NT2 Professioneel Bedrijfsgericht richtgraad 3 »;<br>
+7° in bijlage VII de modulaire opleiding « NT2 Professioneel Juridisch richtgraad 3 »;<br>
+8° in bijlage VIII de modulaire opleiding « Socio-Culturele Integratie richtgraad 1 »;<br>
+9° in bijlage IX de modulaire opleiding « Socio-Culturele Integratie richtgraad 2 »;<br>
+10° ...<br>
+11° ...<br>
+12° ...<br>
+13° ...<br>
+14° in bijlage XIV de modulaire opleiding « NT2 professioneel juridisch richtgraad 4 ».
 
 ### ART. 2.
 
