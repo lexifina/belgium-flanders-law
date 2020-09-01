@@ -15,7 +15,13 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 
 ### ART. 2.
 
-<P>Binnen het Vlaams ministerie Kanselarij en Bestuur wordt een intern   verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht, onder de   benaming "Agentschap Overheidspersoneel".<BR><BR>Het agentschap wordt opgericht   voor de voorbereiding, de uitvoering en de evaluatie van het beleid inzake   overheidspersoneel en organisatieontwikkeling.<BR><BR>Het agentschap treedt op   als selectiecentrum voor de diensten van de Vlaamse overheid.<BR><BR>Het   agentschap behoort tot het beleidsdomein Kanselarij en   Bestuur.</P>
+<p>Binnen het Vlaams Ministerie Kanselarij, Bestuur, Buitenlandse Zaken en Justitie wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht, onder de benaming "Agentschap Overheidspersoneel".<br>
+<br>
+Het agentschap wordt opgericht voor de voorbereiding, de uitvoering en de evaluatie van het beleid inzake overheidspersoneel en organisatieontwikkeling.<br>
+<br>
+Het agentschap treedt op als selectiecentrum voor de diensten van de Vlaamse overheid.<br>
+<br>
+Het agentschap behoort tot het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie.</p>
 
 ### ART. 3.
 
@@ -23,7 +29,55 @@ Het agentschap heeft als missie het beleid inzake overheidspersoneel en   organi
 
 ### ART. 4.
 
-<P>§ 1. Het agentschap zorgt in het kader van de beleidsvoorbereiding   voor:<BR>1° het opzetten van sturende processen met betrekking tot het   personeelsbeleid en de organisatieontwikkeling;<BR>2° de voorbereiding, de   opmaak en de evaluatie van de regelgeving met betrekking tot personeelsbeleid en   organisatieontwikkeling;<BR>3° het interne diversiteitsbeleid inzake   personeel.<BR><BR>§ 2. Het agentschap heeft tot taak de uitvoering van een   gemeenschappelijk managementondersteunend dienstenaanbod t.a.v. alle   beleidsdomeinen te realiseren, inzonderheid door:<BR>1° het organiseren en het   beheren van de ontwikkelingsgerichte ondersteuning van de managementgroep   Vlaamse Overheid, top- en middenkader en het leidinggevend potentieel in de   Vlaamse overheid;<BR>2° het aanbieden van projectmatige ondersteuning en het   terbeschikking stellen en/of op maat aanpassen van instrumenten op het vlak van   prestatiemanagement;<BR>3° het aanbieden van instrumenten en interne en externe   consultancy op het vlak van competentiemanagement en loopbaan- en   beloningsbeleid;<BR>4° het aanbieden van projectmatige ondersteuning op het vlak   van personeelstevredenheid,<BR>5° de uitvoering van activiteiten op het vlak van   hulpverlening en welzijn op het werk;<BR>6° het aanbieden van projectmatige   ondersteuning op het vlak van plaats- en tijdsonafhankelijk werken;<BR>7° de   coördinatie en het beheer van een gemeenschappelijk personeelsbeheerssysteem en   een dienstencentrum personeelsadministratie;<BR>8° het aanbieden van   instrumenten en interne en externe consultancy op het vlak van   organisatieontwikkeling en belanghebbendenmanagement;<BR>9° het aanbieden van   instrumenten en interne en externe consultancy op het vlak van vorming, training   en ontwikkeling.<BR>10° het verlenen van advies over de regelgeving met   betrekking tot personeelsbeleid en organisatieontwikkeling.<BR><BR>§ 3. Het   agentschap voert als selectiecentrum voor de diensten van de Vlaamse overheid de   volgende taken uit:<BR>1° de uitvoering van opdrachten inzake werving, selectie   en bevordering van statutair en contractueel personeel;<BR>2° de professionele   begeleiding bij de rekrutering en selectie van het statutair en contractueel   personeel;<BR>3° de coördinatie en materiële uitvoering van de aan het   agentschap toevertrouwde aanwervingsexamens voor het statutair personeel van de   Vlaamse ministeries;<BR>4° de herplaatsing van contractuele en statutaire   personeelsleden;<BR>5° het beheer van de interfederale mobiliteit;<BR>6° het   beheer van de beleidsdomeinoverschrijdende mobiliteit;<BR>7° het beheer van de   reserves van aanwervingsexamens en van de beleidsdomeinoverschrijdende   bevorderingsexamens;<BR>8° de organisatie van de vervangingspool;<BR>9° de   ontwikkeling van aanverwante diensten zoals de ondersteuning bij de evaluatie   van personeelsleden, de organisatie van potentieelinschattingen,   potentieelinschattingen door middel van de assessment-center-methode, en de   organisatie van overgangs- en bevorderingsproeven, en mobiliteit en   selecties;<BR>10° de uitvoering van activiteiten die rechtstreeks of   onrechtstreeks bijdragen tot de realisatie van de doelstellingen van het   agentschap.<BR><BR>&nbsp;§ 4. Het agentschap is exclusief bevoegd voor de   volgende taken :<BR>1° de taken, vermeld in paragraaf 3, 1°, die het agentschap   uitoefent voor de Vlaamse ministeries, wat betreft de statutaire   personeelsleden;<BR>2° de taken, vermeld in paragraaf 3, 1°, die het agentschap   uitoefent, wat het top- en middenkader betreft;<BR>3° de taken, vermeld in   paragraaf 3, 2°, die het agentschap uitoefent voor de Vlaamse ministeries;<BR>4°   de taken, vermeld in paragraaf 3, 3° tot en met 8°.</P>
+<p>§ 1. Het agentschap zorgt in het kader van de beleidsvoorbereiding voor:<br>
+1° het opzetten van sturende processen met betrekking tot het personeelsbeleid en de organisatieontwikkeling;<br>
+2° de voorbereiding, de opmaak en de evaluatie van de regelgeving met betrekking tot personeelsbeleid en organisatieontwikkeling;<br>
+3° het interne diversiteitsbeleid inzake personeel.<br>
+<br>
+§ 2. Het agentschap heeft tot taak de uitvoering van een gemeenschappelijk managementondersteunend dienstenaanbod t.a.v. alle beleidsdomeinen te realiseren, inzonderheid door:<br>
+1° het organiseren en het beheren van de ontwikkelingsgerichte ondersteuning van de managementgroep Vlaamse Overheid, top- en middenkader en het leidinggevend potentieel in de Vlaamse overheid;<br>
+2° het aanbieden van projectmatige ondersteuning en het terbeschikking stellen en/of op maat aanpassen van instrumenten op het vlak van prestatiemanagement;<br>
+3° het aanbieden van instrumenten en interne en externe consultancy op het vlak van competentiemanagement en loopbaan- en beloningsbeleid;<br>
+4° het aanbieden van projectmatige ondersteuning op het vlak van personeelstevredenheid,<br>
+5° de uitvoering van activiteiten op het vlak van hulpverlening en welzijn op het werk;<br>
+6° het aanbieden van projectmatige ondersteuning op het vlak van plaats- en tijdsonafhankelijk werken;<br>
+7° de coördinatie en het beheer van een gemeenschappelijk personeelsbeheerssysteem, een dienstencentrum personeelsadministratie en de loonadministratie, met inbegrip van de loonadministratie van de kabinetten en de leden van de Vlaamse Regering;<br>
+8° het aanbieden van instrumenten en interne en externe consultancy op het vlak van organisatieontwikkeling en belanghebbendenmanagement;<br>
+9° het aanbieden van instrumenten en interne en externe consultancy op het vlak van vorming, training en ontwikkeling.<br>
+10° het verlenen van advies over de regelgeving met betrekking tot personeelsbeleid en organisatieontwikkeling;<br>
+11° het crisisbeheer en het coördineren van de organisatiebeheersing en het risicomanagement, met inbegrip van het bedrijfscontinuïteitsbeheer (BCM-Business continuity management).<br>
+<br>
+In afwijking van het eerste lid kunnen de taken, vermeld in het eerste lid, 2° tot en met 4° en 6° tot en met 9°, worden uitgevoerd ten behoeve van de Vlaamse, lokale en externe overheden, vermeld in artikel I.3 van het Bestuursdecreet van 7 december 2018.<br>
+<br>
+In afwijking van het eerste lid kan de taak vermeld in het eerste lid, 11°, worden uitgevoerd ten behoeve van de Vlaamse en externe overheden, vermeld in artikel I.3. van het Bestuursdecreet van 7 december 2018.<br>
+<br>
+§ 2/1. Het agentschap beheert de personeelsdossiers van de kabinetten van de Vlaamse Regering en voert het statuut van de Vlaamse ministers uit. In het kader van de voormelde taak biedt het administratieve ondersteuning en interne dienstverlening aan de kabinetten van de leden van de Vlaamse Regering.<br>
+<br>
+§ 3. Het agentschap voert als selectiecentrum voor de diensten van de Vlaamse overheid de volgende taken uit:<br>
+1° de uitvoering van opdrachten inzake werving, selectie en bevordering van statutair en contractueel personeel;<br>
+2° de professionele begeleiding bij de rekrutering en selectie van het statutair en contractueel personeel;<br>
+3° de coördinatie en materiële uitvoering van de aan het agentschap toevertrouwde aanwervingsexamens voor het statutair personeel van de Vlaamse ministeries;<br>
+4° de herplaatsing van contractuele en statutaire personeelsleden;<br>
+5° het beheer van de externe mobiliteit;<br>
+6° het beheer van de beleidsdomeinoverschrijdende mobiliteit;<br>
+7° het beheer van de reserves van aanwervingsexamens en van de beleidsdomeinoverschrijdende bevorderingsexamens;<br>
+8° de organisatie van de vervangingspool;<br>
+9° de ontwikkeling van aanverwante diensten zoals de ondersteuning bij de evaluatie van personeelsleden, de organisatie van potentieelinschattingen, potentieelinschattingen door middel van de assessment-center-methode, en de organisatie van overgangs- en bevorderingsproeven, en mobiliteit en selecties;<br>
+10° de uitvoering van activiteiten die rechtstreeks of onrechtstreeks bijdragen tot de realisatie van de doelstellingen van het agentschap.<br>
+<br>
+In afwijking van het eerste lid kan de taak, vermeld in het eerste lid, 1° en 2°, worden uitgevoerd voor het top- en middenkader, ten behoeve van de Vlaamse overheid, vermeld in artikel I.3, 1°, van het Bestuursdecreet van 7 december 2018.<br>
+<br>
+&nbsp;§ 4. Het agentschap is exclusief bevoegd voor de volgende taken :<br>
+1° de taken, vermeld in paragraaf 3, 1°, die het agentschap uitoefent voor de Vlaamse ministeries, wat betreft de statutaire personeelsleden;<br>
+2° de taken, vermeld in paragraaf 3, 1°, die het agentschap uitoefent, wat het top- en middenkader betreft;<br>
+3° de taken, vermeld in paragraaf 3, 2°, die het agentschap uitoefent voor de Vlaamse ministeries;<br>
+4° de taken, vermeld in paragraaf 3, 3° tot en met 8°.<br>
+<br>
+§ 5. Het agentschap staat in voor het beheer en de ondersteuning van het Vlaams Pensioenfonds ten behoeve van de diensten van de Vlaamse overheid en andere besturen, als vermeld in artikel 3 van het decreet van 23 november 2018 betreffende het Vlaams Pensioenfonds en het publieke pensioenstelsel voor de werknemers van de diensten van de Vlaamse overheid en andere besturen.<br>
+<br>
+§ 6. Bij het agentschap is de dienst van de gouverneurs ondergebracht. Die dienst ondersteunt de gouverneurs in de coördinerende en bemiddelende opdracht die hen door de Vlaamse Regering is toevertrouwd.<br>
+<br>
+§ 7. Bij het agentschap is de Gemeenschappelijke Dienst voor Preventie en Bescherming ondergebracht. Die dienst heeft een ondersteunende en adviserende taak voor de Vlaamse ministeries en de aangesloten entiteiten. De medewerkers van die dienst staan de werkgever bij en adviseren bij de planning, de uitvoering en de evaluatie van het welzijnsbeleid, zoals omschreven in de welzijnsreglementering.</p>
 
 ### ART. 5.
 
