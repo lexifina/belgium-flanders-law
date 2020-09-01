@@ -14,11 +14,11 @@
 
 ### ART. 2.
 
-&nbsp;De dienst van de hoofdstatisticus bij   het Departement Kanselarij en Bestuur wordt aangewezen als de Vlaamse   statistische autoriteit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+&nbsp;De dienst van de hoofdstatisticus bij het Departement Kanselarij en Buitenlandse Zaken wordt aangewezen als de Vlaamse statistische autoriteit.
 
 ### ART. 3.
 
-<p>§ 1. De hoofdstatisticus heeft een professioneel onafhankelijke positie binnen het Departement Kanselarij en Bestuur. De hoofdstatisticus is lid van de beleidsraad en van het managementcomité van het beleidsdomein Kanselarij en Bestuur.</p>
+<p>§ 1. De hoofdstatisticus heeft een professioneel onafhankelijke positie binnen het Departement Kanselarij en Buitenlandse Zaken. De hoofdstatisticus is lid van de beleidsraad en van het managementcomité van het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie.</p>
 
 <p>De hoofdstatisticus rapporteert rechtstreeks aan de minister.</p>
 
@@ -75,7 +75,7 @@ De personeelsleden van de Vlaamse overheid kunnen geen aanspraak maken op het pr
 4° een lid, aangewezen door de VVSG;<br>
 5° een lid, aangewezen door de VVP.</p>
 
-<p>De hoofdstatisticus van het Departement Kanselarij en Bestuur is ambtshalve voorzitter van het coördinatiecomité.</p>
+<p>De hoofdstatisticus van het Departement Kanselarij en Buitenlandse Zaken is ambtshalve voorzitter van het coördinatiecomité.</p>
 
 <p>§ 3. Binnen het coördinatiecomité kunnen thematische werkgroepen worden opgericht. Die kunnen deskundigen in statistiek uitnodigen.</p>
 

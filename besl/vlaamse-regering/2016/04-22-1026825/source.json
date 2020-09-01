@@ -2,16 +2,16 @@
   "codex_id": 1026825,
   "title": "Besluit van de Vlaamse Regering van 2016-04-22 betreffende de Vlaamse openbare statistieken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026825/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "3a3502a74a572cb067e055720bce094ee77674ad6c8365d7e12a3ecd5823551a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026825/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "6218512762d4cba71f25a47e2762c6a441987e6437fcb2487c48c5c2686dbfdf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026825&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2020-09-01",
   "made": "2016-04-22",
   "gazette": "2016-05-19",
   "numac": 2016035796,
   "document_start": "2016-05-29",
   "document_end": null,
-  "in_force": "2019-01-01",
+  "in_force": "2020-09-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
 }
