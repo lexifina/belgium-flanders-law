@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033757,
+  "title": "Besluit van de Vlaamse Regering van 2020-09-04 tot wijziging van de regelgeving over de indeling van studiegebieden in opleidingen van het secundair volwassenenonderwijs, de studiebekrachtiging en de modulaire structuur van het secundair volwassenenonderwijs voor de studiegebieden administratie, horeca, land- en tuinbouw, lassen, logistiek en verkoop, mechanica-elektriciteit, Nederlands tweede taal richtgraad 1 en 2, ruwbouw, Europese talen richtgraad 3 en 4, Europese neventalen richtgraad 1 en 2 en Scandinavische talen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033757/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "b895b8875278a36ab83003123189d078813e8080d93a842b4317cd6bf2873579",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033757&param=informatie",
+  "as_of": "2020-09-01",
+  "made": "2020-09-04",
+  "gazette": "2020-10-20",
+  "numac": 2020031474,
+  "document_start": "2020-09-01",
+  "document_end": null,
+  "in_force": "2020-09-01",
+  "article_versions": 63,
+  "record_form": "consolidated version as in force on 2020-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
