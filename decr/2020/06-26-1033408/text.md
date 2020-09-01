@@ -158,6 +158,23 @@ In artikel 2 van het decreet van 7 juli 1998 houdende bepalingen tot begeleiding
 
 ## Afdeling 1. Verlenging lerarenplatform basisonderwijs
 
+### ART 20.
+
+Aan artikel 153quaterdecies van het decreet basisonderwijs van 25 februari 1997, ingevoegd bij het decreet van 6 juli 2018 en gewijzigd bij het decreet van 5 april 2019, wordt de volgende zin toegevoegd:<br>
+"Tijdens het schooljaar 2020-2021 wordt het lerarenplatform voor één schooljaar verlengd.".
+
+### ART 21.
+
+In artikel 153septiesdecies van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018, wordt tussen het woord "basisonderwijs" en het woord "Indien" de zin "Tijdens het schooljaar 2020-2021 bedraagt het aantal beschikbare voltijdse equivalenten uitzonderlijk 2291 voor alle scholen van het basisonderwijs." ingevoegd.
+
+### ART 22.
+
+In artikel 153undevicies van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018, wordt in het tweede lid tussen het woord "schooljaar" en het woord "De" de zin "Tijdens het schooljaar 2020-2021 kan deze aanstelling al ten vroegste aanvangen op 1 september." ingevoegd.
+
+### ART 23.
+
+In artikel 153viciesquinquies van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018, worden de woorden "een door de regering te bepalen datum" vervangen door de zinsnede "het einde van het schooljaar 2020-2021".
+
 ## Afdeling 2. Stopzetting omzetting niet-ingevulde vervangingen basisonderwijs
 
 ### ART 24.
@@ -165,6 +182,15 @@ In artikel 2 van het decreet van 7 juli 1998 houdende bepalingen tot begeleiding
 In artikel 153duodetricies van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018, wordt de zinsnede "een door de regering te bepalen datum." vervangen door de zinsnede "1 juli 2020.".
 
 ## Afdeling 3. Zorgtijdgarantie brede types basisonderwijs
+
+### ART 25.
+
+In artikel 172quinquies, § 3, derde lid, van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018, worden de volgende wijzigingen aangebracht:<br>
+1° het getal "13.623" wordt vervangen door het getal "18.974";<br>
+2° het getal "12.985" wordt vervangen door het getal "17.845";<br>
+3° het getal "7.747" wordt vervangen door het getal "10.761";<br>
+4° het getal "2.605" wordt vervangen door het getal "3614";<br>
+5° in de laatste zin worden de woorden "over een periode van vijf schooljaren" opgeheven.
 
 ## Afdeling 4. Stopzetting omzetting niet-ingevulde vervangingen secundair onderwijs
 
@@ -174,7 +200,20 @@ In artikel 22/17 van de Codex Secundair Onderwijs van 17 december 2010, ingevoeg
 
 ## Afdeling 5. Afschaffen herberekening van het aantal uren-leraar op basis van de leerlingenpopulatie van het eerste leerjaar A en B
 
+### ART 27.
+
+Artikel 209/1 van de Codex Secundair Onderwijs van 17 december 2010, ingevoegd bij het decreet van 15 juni 2018, wordt opgeheven.
+
 ## Afdeling 6. Zorgtijdgarantie brede types secundair onderwijs
+
+### ART 28.
+
+In artikel 314/8, § 3, derde lid, van de Codex Secundair Onderwijs van 17 december 2010, ingevoegd bij het decreet van 6 juli 2018, worden de volgende wijzigingen aangebracht:<br>
+1° het getal "13.623" wordt vervangen door het getal "18.974";<br>
+2° het getal "12.985" wordt vervangen door het getal "17.845";<br>
+3° het getal "7747" wordt vervangen door het getal "10.761";<br>
+4° het getal "2605" wordt vervangen door het getal "3614";<br>
+5° in de laatste zin worden de woorden "over een periode van vijf schooljaren" opgeheven.
 
 ## Afdeling 7. Verhoging puntengewichten hogescholen 2020
 
@@ -205,13 +244,98 @@ Artikel III.50 van dezelfde codex, gewijzigd bij de decreten van 25 april 2014 e
 
 ## Afdeling 9. Opheffing verwijzingen naar artikel 28 van Kwaliteitsdecreet in decreet Volwassenenonderwijs
 
+### ART 33.
+
+In artikel 10 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, gewijzigd bij de decreten van 8 mei 2009 en 19 juni 2015, wordt de zinsnede "die een subsidie ontvangen op basis van artikel 28 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs" opgeheven.
+
+### ART 34.
+
+In artikel 24, § 1, van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 19 juni 2015, wordt de zinsnede "die een subsidie ontvangen op basis van artikel 28 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs" opgeheven.
+
+### ART 35.
+
+In artikel 72sexies van hetzelfde decreet, ingevoegd bij het decreet van 8 mei 2009 en gewijzigd bij de decreten van 1 juli 2011, 19 juni 2015 en 19 december 2015, wordt de zinsnede "die een subsidie ontvangen op basis van artikel 28 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, vermeld in artikel 50, § 1," opgeheven.
+
 ## Afdeling 10. Vocvo (Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs)
+
+### ART 36.
+
+In artikel 44 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, gewijzigd bij het decreet van 8 mei 2009, wordt de zinsnede "enerzijds de Centra voor Basiseducatie en anderzijds de Centra voor Volwassenenonderwijs, die niet in rekening worden gebracht voor het vaststellen van de personeelsformatie van de pedagogische begeleidingsdiensten, als vermeld in artikel 16 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs," vervangen door de woorden "de centra voor basiseducatie".
+
+### ART 37.
+
+In artikel 45 van hetzelfde decreet, vervangen bij het decreet van 19 juni 2015, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° worden de woorden "en de centra voor volwassenenonderwijs" opgeheven;<br>
+2° punt 2° wordt opgeheven.
+
+### ART 38.
+
+In artikel 47 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 20 december 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt de zinsnede "956.000 euro vanaf het begrotingsjaar 2015" vervangen door de zinsnede "160.000 euro vanaf het schooljaar 2020-2021";<br>
+2° in paragraaf 4 wordt de zinsnede "artikelen 45 en 49" vervangen door de zinsnede "artikel 45";<br>
+3° paragraaf 9, toegevoegd bij het decreet van 20 december 2019, wordt opgeheven.
+
+### ART 39.
+
+Artikel 49 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 19 juni 2015, wordt opgeheven.
+
+### ART 40.
+
+Artikel 50 van hetzelfde decreet, vervangen bij het decreet van 17 juni 2016, wordt opgeheven.
+
+### ART 41.
+
+In artikel 72octies van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij het decreet van 20 december 2019, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 1, eerste lid, wordt vervangen door wat volgt:<br>
+" § 1. De Vlaamse Regering stelt jaarlijks een globale subsidie van 995.086,73 euro ter beschikking van een organisatie of organisaties voor de volgende opdrachten in uitvoering van het Strategisch Plan Hulp- en Dienstverlening aan Gedetineerden:<br>
+1° de coördinatie en ondersteuning van de centra voor volwassenenonderwijs en de centra voor basiseducatie bij de uitwerking van een onderwijs- en vormingsbeleid voor gedetineerden, de organisatie van het detecteren van de onderwijs- en vormingsbehoeften van gedetineerden en de begeleiding van het onderwijstraject van gedetineerden;<br>
+2° de ondersteuning van de onderwijscoördinatoren bij enerzijds de uitbouw van een behoeftedekkend en aangepast aanbod voor onderwijs aan gedetineerden en anderzijds de coördinatie van het onderwijsaanbod in de gevangenis.";<br>
+2° paragraaf 4, toegevoegd bij het decreet van 20 december 2019, wordt opgeheven.
 
 ## Afdeling 11. Structurele EVC-financiering volwassenenonderwijs (cvo)
 
+### ART 42.
+
+Aan artikel 98 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, het laatst gewijzigd bij het decreet van 15 maart 2019, wordt een paragraaf 7 toegevoegd, die luidt als volgt:<br>
+<br>
+" § 7. Ter uitvoering van de opdracht, vermeld in artikel 63, § 3, tweede lid, heeft het centrum voor volwassenenonderwijs dat als EVC-centrum erkend is, voor het schooljaar n/n +1 recht op aanvullende leraarsuren per kandidaat waarvan het in de referteperiode 1 januari n-1 tot en met 31 december n-1 evaluaties voor een EVC-traject heeft afgenomen.<br>
+<br>
+Op basis van het aantal lestijden van het opleidingsprofiel, vermeld in artikel 24, dat voor de beroepskwalificatie werd vastgelegd, heeft het centrum recht op:<br>
+1° 12 aanvullende leraarsuren per geteste kandidaat voor het ontwikkelen en afnemen van de evaluaties voor een beroepskwalificatie of deelkwalificatie die volgens het opleidingsprofiel minder dan 300 lestijden bedraagt;<br>
+2° 18 aanvullende leraarsuren per geteste kandidaat voor het ontwikkelen en afnemen van de evaluaties voor een beroepskwalificatie of deelkwalificatie die volgens het opleidingsprofiel 300 tot en met 799 lestijden bedraagt;<br>
+3° 24 aanvullende leraarsuren per geteste kandidaat voor het ontwikkelen en afnemen van de evaluaties voor een beroepskwalificatie of deelkwalificatie die volgens het opleidingsprofiel 800 of meer lestijden bedraagt.<br>
+<br>
+Voor de berekening van het aantal aanvullende leraarsuren komen enkel geteste kandidaten in aanmerking die voldaan hebben aan de deeltijdse leerplicht en die het bewijs geleverd hebben te beschikken over de Belgische nationaliteit of te voldoen aan de bepalingen van het wettig verblijf, zoals bedoeld in artikel 1, 48°. ".
+
+### ART 43.
+
+Aan artikel 108 van hetzelfde decreet, vervangen bij het decreet van 16 maart 2018 en gewijzigd bij de decreten van 21 december 2018 en 20 december 2019, wordt een paragraaf 5 toegevoegd, die luidt als volgt:<br>
+<br>
+" § 5. Een centrum voor volwassenenonderwijs dat in uitvoering van de opdracht, vermeld in artikel 63, § 3, tweede lid, als erkend EVC-centrum in de referteperiode 1 januari n-1 tot en met 31 december n-1 evaluaties voor een EVC-traject heeft afgenomen en daarvoor een financiële bijdrage van minder dan 96 euro heeft ontvangen, heeft recht op een aanvullende werkingstoelage voor het schooljaar n/n +1.<br>
+<br>
+De aanvullende werkingstoelage bedraagt:<br>
+1° 60 euro per geteste kandidaat die de verminderde financiële bijdrage voor een EVC-traject met het oog op het verwerven van een beroepskwalificatie heeft betaald;<br>
+2° 48 euro per geteste kandidaat die de verminderde financiële bijdrage voor een EVC-traject met het oog op het verwerven van een deelkwalificatie heeft betaald.<br>
+<br>
+Voor de berekening van de aanvullende werkingstoelage komen enkel geteste kandidaten in aanmerking die voldaan hebben aan de deeltijdse leerplicht en die het bewijs geleverd hebben te beschikken over de Belgische nationaliteit of te voldoen aan de bepalingen van het wettig verblijf zoals bedoeld in artikel 1, 48°.<br>
+<br>
+De bedragen, vermeld in het tweede lid, worden jaarlijks aangepast aan de evolutie van de gezondheidsindex. De referentiedatum voor de jaarlijkse aanpassing is 1 september 2019. Het bedrag wordt afgerond naar het dichtstbijzijnde geheel getal.".
+
 ## Afdeling 12. Aanpassing groeinorm niet-NT2-aanbod centra voor volwassenenonderwijs
 
+### ART 44.
+
+In artikel 107, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, vervangen bij het decreet van 16 maart 2018, wordt het percentage "1%" telkens vervangen door het percentage "0,8%".
+
 ## Afdeling 13. Aanpassing berekeningswijze van de groei in de overgang naar het nieuwe financieringssysteem voor het volwassenenonderwijs
+
+### ART 45.
+
+In artikel 196septies van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, ingevoegd bij het decreet van 16 maart 2018 en gewijzigd bij de decreten van 5 april 2019 en 20 december 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, 2°, wordt het cijfer "3,33" vervangen door het cijfer "3,37";<br>
+2° in paragraaf 1, tweede lid, 2°, wordt de zinsnede "en vermenigvuldigd met 3,33" vervangen door de zinsnede "waarbij de lesurencursist gerealiseerd in de studiegebieden Nederlands tweede taal richtgraad 1 en 2 en Nederlands tweede taal richtgraad 3 en 4 vermenigvuldigd worden met factor 2,95 en de lesurencursist gerealiseerd in de overige studiegebieden vermenigvuldigd worden met factor 3,60";<br>
+3° in paragraaf 2, eerste lid, 2°, wordt het cijfer "3,33" vervangen door het cijfer "3,37";<br>
+4° in paragraaf 2, tweede lid, 2°, wordt de zinsnede "en vermenigvuldigd met 3,33" vervangen door de zinsnede "waarbij de lesurencursist gerealiseerd in de studiegebieden Nederlands tweede taal richtgraad 1 en 2 en Nederlands tweede taal richtgraad 3 en 4 vermenigvuldigd worden met factor 2,95 en de lesurencursist gerealiseerd in de overige studiegebieden vermenigvuldigd worden met factor 3,60".
 
 ## Afdeling 14. Technische aanpassing fonds Inschrijvingsgelden DKO
 
@@ -232,6 +356,10 @@ In artikel 21/1, eerste lid, van het decreet van 8 mei 2009 betreffende de kwali
 
 ## Afdeling 16. Opheffing extra ondersteuning volwassenenonderwijs
 
+### ART 48.
+
+Artikel 28 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, gewijzigd bij de decreten van 18 december 2009, 8 juli 2011, 21 december 2012, 19 december 2014, 19 juni 2015 en 17 juni 2016, wordt opgeheven.
+
 ## Afdeling 17. Fonds Studietoelagen
 
 ### ART 49.
@@ -251,6 +379,33 @@ Aan artikel 26, § 3, van het decreet van 21 december 2012 houdende bepalingen t
 "6° terugstortingen van uitgaven en diverse ontvangsten gedaan in het kader van de dienstverlening van AHOVOKS.".
 
 ## Afdeling 19. Eenmalige toekenning van middelen voor kinderen met een specifieke maatregel binnen de internaten
+
+### ART 51.
+
+Aan deel III, hoofdstuk 3, van de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, gewijzigd bij de decreten van 15 juni 2018 en 15 maart 2019, wordt een afdeling 3 toegevoegd, die luidt als volgt:<br>
+<br>
+"Afdeling 3. Eenmalige toekenning werkingsmiddelen".
+
+### ART 52.
+
+In dezelfde codificatie wordt in afdeling 3, ingevoegd bij artikel 51, een artikel III.20/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. III.20/1. Deze afdeling is van toepassing op:<br>
+1° internaten als vermeld in artikel III.21 en III.35 voor wat betreft hun openstelling op schooldagen;<br>
+2° tehuizen als vermeld in artikel III.1, § 1, eerste lid, III.20 en III.35, § 1, 2°, voor wat betreft hun openstelling op schooldagen;<br>
+3° de internaten buitengewoon onderwijs, vermeld in hoofdstuk 4, afdeling 1, onderafdeling 2.<br>
+<br>
+Verder in deze afdeling `instellingen' genoemd.".
+
+### ART 53.
+
+In dezelfde codificatie wordt in afdeling 3, ingevoegd bij artikel 51, een artikel III.20/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. III.20/2. Voor de instellingen wordt een budget van 499.000 euro aan bijkomende werkingsmiddelen voorzien.<br>
+<br>
+Deze bijkomende werkingsmiddelen worden verdeeld over de instellingen a rato van het aantal internen die beschikken over een jeugdhulpverleningsbeslissing voor de functie verblijf binnen de niet rechtstreeks toegankelijke jeugdhulpverlening, bij een jeugdhulpaanbieder of pleegzorger, op verwijzing van een gemandateerde voorziening of een Sociale Dienst Jeugdrechtbank.<br>
+<br>
+Voor het bepalen van dit aantal internen wordt dezelfde teldag gehanteerd als die voor de berekening van de omkadering van het werkjaar 2019/2020.".
 
 ## Afdeling 20. Impuls Handelswetenschappen en Bedrijfskunde
 
