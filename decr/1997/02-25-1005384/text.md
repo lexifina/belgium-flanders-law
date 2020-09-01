@@ -32,8 +32,7 @@ Dat de leerling voldoet aan de voorwaarden, vermeld in punt a), 1) en 2), wordt 
 5° het Gemeenschapsonderwijs: een openbare instelling met rechtspersoonlijkheid, opgericht bij het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs;<br>
 6° basisschool: school waar kleuteronderwijs en lager onderwijs georganiseerd wordt;<br>
 7° behoudsnorm: gunstige rationalisatienorm die in welbepaalde situaties in het buitengewoon onderwijs mag toegepast worden;<br>
-8° bevolkingsdichtheid van een gemeente: het aantal inwoners per km2 zoals berekend door de federale instantie die bevoegd is voor de coördinatie van de openbare statistiek en zoals dat op 1 februari van het schooljaar voorafgaand aan de start van de zesjaarlijkse periode voor scholengemeenschappen, vermeld in artikel 125quinquies beschikbaar is.<br>
-De bevolkingsdichtheid in aanmerking te nemen voor een school die vestigingsplaatsen heeft in verschillende gemeenten wordt vastgesteld op grond van volgende berekening: de totale bevolking van deze gemeenten wordt gedeeld door de totale oppervlakte uitgedrukt in km2. Voor een vestigingsplaats wordt bevolkingsdichtheid van de gemeente waarin de vestigingsplaats werkelijk gelegen is, in aanmerking genomen;<br>
+8° bevolkingsdichtheid van een gemeente: het aantal inwoners per vierkante kilometer dat opgenomen is in de gemeentemonitor van de Vlaamse overheid en dat op 1 februari van het schooljaar voorafgaand aan de start van de zesjaarlijkse periode voor scholengemeenschappen, vermeld in artikel 125quinquies, beschikbaar is;<br>
 8°bis bijkomende lestijden : lestijden die niet behoren tot het lestijdenpakket en geen extra lestijden zijn;<br>
 8°ter bijkomende uren : uren die niet behoren tot het urenpakket en geen extra uren zijn;<br>
 8° quater brede basiszorg: fase in het zorgcontinuüm waarbij de school vanuit een visie op zorg de ontwikkeling van alle leerlingen stimuleert en problemen tracht te voorkomen door een krachtige leeromgeving te bieden, de leerlin- gen systematisch op te volgen en actief te werken aan het verminderen van risicofactoren en aan het versterken van beschermende factoren;<br>
@@ -94,7 +93,7 @@ b) in het buitengewoon basisonderwijs : het pakket lestijden dat bestaat uit de 
 35° lokaal comité: het lokaal overlegorgaan of onderhandelingsorgaan bevoegd voor arbeidsvoorwaarden en perso-neelsaangelegenheden;<br>
 36° LOP : lokaal overlegplatform als vermeld in hoofdstuk IV, afdeling 1, van het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I;<br>
 37° officieel onderwijs: onderwijs georganiseerd door een publiekrechtelijke rechtspersoon;<br>
-38° onderwijs aan huis: onderwijs dat thuis of in een medische instelling verstrekt wordt aan zieke leerlingen of leerlingen met een handicap;<br>
+38° ...<br>
 39° onderwijsinspectie: de inspectie, zoals bedoeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs of de inspectie, zoals bedoeld in het decreet van 1 december 1993 betreffende de inspectie en begeleiding van de levensbeschouwelijke vakken, voor zover belast met taken op het gebied van het basisonderwijs;<br>
 39°bis onderwijsnet:<br>
 - het gemeenschapsonderwijs: het onderwijs van de Vlaamse Gemeenschap zoals bedoeld in artikel 2 van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs;<br>
@@ -151,7 +150,11 @@ Het kleuteronderwijs is basisonderwijs voor kinderen vanaf [twee jaar en zes maa
 
 ### ART. 6.
 
-§ 1. Het lager onderwijs is basisonderwijs dat aanvangt met het begin van de leerplicht, bestemd is voor kinderen na het kleuteronderwijs en loopt tot de aanvang van het secundair onderwijs.<br /><br />Er is gewoon en buitengewoon lager onderwijs.<br /><br />§ 2. Het gewoon lager onderwijs duurt zes jaar, het buitengewoon lager onderwijs duurt zeven jaar.
+§ 1. Het lager onderwijs is basisonderwijs dat aanvangt vanaf het tweede jaar van de leerplicht, bestemd is voor kinderen na het kleuteronderwijs en loopt tot de aanvang van het secundair onderwijs.<br>
+<br>
+Er is gewoon en buitengewoon lager onderwijs.<br>
+<br>
+§ 2. Het gewoon lager onderwijs duurt zes jaar, het buitengewoon lager onderwijs duurt zeven jaar.
 
 ### ART. 7.
 
@@ -264,6 +267,30 @@ Schoolbesturen kunnen dit taalbad individueel of gezamenlijk organiseren. De duu
 <br>
 § 7. De leerlingen die een taalbad volgen, tellen alleen mee voor financiering of subsidiering in de school waar ze zijn ingeschreven op de teldag.
 
+### ART 11quater.
+
+§ 1. Vanaf het schooljaar 2021-2022 voert de school voor elke leerling in het gewoon onderwijs bij het begin van de leerplicht een verplichte screening uit, die nagaat wat het niveau van de leerling inzake de onderwijstaal is. Deze screening kan nooit voor de inschrijving van de leerling uitgevoerd worden.<br>
+<br>
+De regering bepaalt met welk instrument de screening bij het begin van de leerplicht gebeurt, alsook het moment en de manier van afname.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 is de screening niet verplicht voor anderstalige nieuwkomers zoals bepaald in artikel 3, 4° quater. Deze leerlingen krijgen vanaf het schooljaar 2021-2022 in elk geval een actief taalintegratietraject Nederlands, met in beginsel een taalbad zoals bedoeld in paragraaf 4, of een volwaardig alternatief dat dezelfde resultaten bereikt. Ook voor leerlingen die in de loop van het lager onderwijs instromen en onvoldoende het Nederlands beheersen om de lessen te kunnen volgen, kan de school beslissen dat zij een taalintegratietraject moeten volgen.<br>
+<br>
+§ 3. Op basis van de resultaten van de taalscreening, moeten leerlingen die het Nederlands onvoldoende beheersen vanaf het schooljaar 2021-2022 een actief taalintegratietraject Nederlands volgen met in beginsel een taalbad, zoals bedoeld in paragraaf 4, of een volwaardig alternatief dat dezelfde resultaten bereikt.<br>
+<br>
+§ 4. Met taalbad wordt vanaf het schooljaar 2021-2022 bedoeld intensieve onderwijsactiviteiten die tot doel hebben de leerling door onderdompeling in de onderwijstaal deze onderwijstaal te laten verwerven in functie van een snelle integratie in de reguliere onderwijsactiviteiten. Dit kan een voltijds traject zijn. Een leerling kan gedurende het basisonderwijs maximaal één schooljaar een voltijds taalbad of voltijds gelijkwaardig alternatief volgen.<br>
+<br>
+§ 5. Schoolbesturen kunnen elk taalintegratietraject, dus ook het taalbad, individueel of gezamenlijk organiseren. Het kan ook netoverschrijdend georganiseerd worden.<br>
+<br>
+§ 6. In het geval scholen het taalintegratietraject gezamenlijk organiseren, is er wederzijdse samenwerking tussen de school van inschrijving en de school die het taalintegratietraject aan de leerling verstrekt. Dat houdt onder andere in het organiseren van het vervoer van de ingeschreven leerling naar de school waar het taalintegratietraject wordt georganiseerd, de communicatie tussen de school van inschrijving en de school waar het taalintegratietraject wordt georganiseerd, alsook het opvolgen van de leerling die het taalintegratietraject volgt door de school waar de leerling is ingeschreven.<br>
+<br>
+§ 7. De leerkracht die het onderwijs in het taalintegratietraject verstrekt, wordt betrokken bij de beslissing over de duur en intensiteit van het taalintegratietraject.<br>
+<br>
+§ 8. Na het taalintegratietraject integreert de leerling zich desgevallend in de school van inschrijving waar hij de reguliere onderwijsactiviteiten volgt.<br>
+<br>
+§ 9. In afwijking van artikel 3, 22°, a), wordt het inrichten van een taalintegratietraject niet beschouwd als een herstructurering.<br>
+<br>
+§ 10. De leerlingen die een taalintegratietraject volgen, tellen alleen mee voor financiering of subsidiering in de school waar ze zijn ingeschreven op de teldag.
+
 ## HOOFDSTUK IV LEERLINGEN IN HET BASISONDERWIJS
 
 ## AFDELING 1 TOELATINGSVOORWAARDEN
@@ -285,13 +312,13 @@ Schoolbesturen kunnen dit taalbad individueel of gezamenlijk organiseren. De duu
 
 ### ART 12/1.
 
-§ 1. In het gewoon onderwijs kan een leerling die 6 jaar wordt vóór 1 januari van het lopende schooljaar nog één schooljaar tot het kleuteronderwijs toegelaten worden. In dit geval is de leerling onderworpen aan de controle op de leerplicht. Na kennisneming van en toelichting bij de adviezen van de klassenraad en van het CLB nemen de ouders daaromtrent een beslissing.<br>
+§ 1. In het gewoon onderwijs kan een leerling die 6 jaar wordt vóór 1 januari van het lopende schooljaar nog één schooljaar tot het kleuteronderwijs toegelaten worden.&nbsp;Na kennisneming van en toelichting bij de adviezen van de klassenraad en van het CLB nemen de ouders daaromtrent een beslissing.<br>
 <br>
-Voor leerplichtige leerlingen die nog geen kleuteronderwijs volgden, is enkel een advies van een CLB vereist.<br>
+Voor&nbsp;leerlingen die nog geen kleuteronderwijs volgden, is enkel een advies van een CLB vereist.<br>
 <br>
-§ 2. In het buitengewoon onderwijs kan een leerling die 6 jaar wordt vóór 1 januari van het lopende schooljaar tot het kleuteronderwijs toegelaten worden. In dit geval is de leerling onderworpen aan de controle op de leerplicht. Het volgen van kleuteronderwijs kan daarna nog met één schooljaar verlengd worden. Na kennisneming van en toelichting bij de adviezen van de klassenraad en van het CLB nemen de ouders daaromtrent een beslissing.<br>
+§ 2. In het buitengewoon onderwijs kan een leerling die 6 jaar wordt vóór 1 januari van het lopende schooljaar tot het kleuteronderwijs toegelaten worden.&nbsp;Het volgen van kleuteronderwijs kan daarna nog met één schooljaar verlengd worden. Na kennisneming van en toelichting bij de adviezen van de klassenraad en van het CLB nemen de ouders daaromtrent een beslissing.<br>
 <br>
-Voor leerplichtige leerlingen die nog geen kleuteronderwijs volgden, is enkel een advies van een CLB vereist.
+Voor&nbsp;leerlingen die nog geen kleuteronderwijs volgden, is enkel een advies van een CLB vereist.
 
 ## [ONDERAFDELING B TOELATINGSVOORWAARDEN TOT HET LAGER ONDERWIJS (ing. decr. 17 juni 2016, art. II.6, I: 1 september 2016)]
 
@@ -315,6 +342,36 @@ De schriftelijke mededeling aan de ouders van een negatieve beslissing bevat tev
 <br>
 § 4. Om toegelaten te worden tot het buitengewoon lager onderwijs moet een leerling zes jaar zijn voor 1 januari van het lopende schooljaar.
 
+### ART 13/1.
+
+§ 1. Voor de toepassing van dit artikel worden vanaf het schooljaar 2020-2021 als voldoende aanwezig beschouwd, de leerlingen die ingeschreven zijn in een door de Vlaamse Gemeenschap erkende school voor Nederlandstalig kleuteronderwijs en er 290 halve dagen daadwerkelijk aanwezig zijn. Halve dagen aanwezigheid in de rijdende kleuterschool zoals bepaald in artikel 168 van dit decreet worden beschouwd als aanwezigheid in de erkende school voor Nederlandstalig onderwijs waar de leerling ingeschreven is.<br>
+<br>
+In afwijking van het eerste lid bepaalt de Vlaamse Regering wanneer een leerling geacht wordt voldoende aanwezig te zijn, wanneer de school overeenkomstig artikel 8 van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs, in het deeltijds kunstonderwijs en het onderwijs voor sociale promotie erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap, over een afwijkende uurregeling beschikt.<br>
+<br>
+§ 2. Om toegelaten te worden tot het gewoon lager onderwijs vanaf het schooljaar 2021-2022 moet een leerling zes jaar zijn voor 1 januari van het lopende schooljaar. Als hij nog niet de leeftijd van zeven jaar heeft bereikt of zal bereiken voor 1 januari van het lopende schooljaar, moet hij bovendien voldoen aan de voorwaarden van de groep waartoe hij behoort:<br>
+1° voor leerlingen die voldoende aanwezig waren in het voorafgaande schooljaar:<br>
+a) een gunstig advies van de klassenraad van de school waar de leerling voorafgaand aan de instap in het gewoon lager onderwijs kleuteronderwijs gevolgd heeft. Dit advies behelst de mate waarin de leerling het Nederlands voldoende beheerst om het gewoon lager onderwijs te kunnen starten;<br>
+b) bij ongunstig advies van de klassenraad, zoals vermeld in a), wordt de leerling tot het gewoon lager onderwijs toegelaten mits alsnog een taalintegratietraject conform artikel 11quater te doorlopen. Dit kan een voltijds traject zijn, tenzij voorafgaand al een voltijds traject werd doorlopen. De klassenraad lager onderwijs bepaalt hiervan de modaliteiten;<br>
+2° voor leerlingen die het voorafgaande schooljaar ingeschreven waren in een door de Vlaamse Gemeenschap erkende school voor Nederlandstalig kleuteronderwijs maar niet voldoende aanwezig waren:<br>
+a) een gunstig advies van de klassenraad van de school waar de leerling voorafgaand aan de instap in het gewoon lager onderwijs kleuteronderwijs gevolgd heeft. Dit advies behelst in elk geval de mate waarin de leerling het Nederlands voldoende beheerst om het gewoon lager onderwijs te kunnen starten, evenwel kunnen hier ook andere overwegingen meegenomen worden;<br>
+b) bij ongunstige advies van de klassenraad, zoals vermeld in a), een gunstige beslissing van de klassenraad van de school waar de leerling het gewoon lager onderwijs wil volgen. Deze beslissing behelst in elk geval de mate waarin de leerling het Nederlands voldoende beheerst om het gewoon lager onderwijs te kunnen starten, evenwel kunnen hier ook andere overwegingen meegenomen worden.<br>
+Leerlingen met een ongunstig advies van de school voor kleuteronderwijs omwille van de beheersing van het Nederlands kunnen enkel toegelaten worden tot het gewoon lager onderwijs mits deze leerlingen in het lager onderwijs alsnog een taalintegratietraject conform artikel 11quater doorlopen. Dit kan een voltijds traject zijn, tenzij voorafgaand al een voltijds traject werd doorlopen. De klassenraad lager onderwijs bepaalt hiervan de modaliteiten;<br>
+3° voor leerlingen die het voorgaande schooljaar niet ingeschreven waren in een door de Vlaamse Gemeenschap erkende school voor Nederlandstalig kleuteronderwijs: een gunstige beslissing van de klassenraad van de school waar de leerling het gewoon lager onderwijs wil volgen. Deze beslissing behelst in elk geval de mate waarin de leerling het Nederlands voldoende beheerst om het gewoon lager onderwijs te kunnen starten, evenwel kunnen hier ook andere overwegingen meegenomen worden.<br>
+<br>
+De klassenraad lager onderwijs beslist eveneens of de leerling in het lager onderwijs toegelaten wordt tot hetzij het reguliere traject, hetzij een taalintegratietraject met in beginsel een taalbad of het volwaardig alternatief.<br>
+<br>
+Bij weigering van toelating tot het lager onderwijs beslist de klassenraad van de school voor kleuteronderwijs of de leerling in het kleuteronderwijs het reguliere traject of een taalintegratietraject met in beginsel een taalbad of een volwaardig alternatief volgt.<br>
+<br>
+§ 3. Het advies door de school voor kleuteronderwijs wordt aan de ouders meegedeeld uiterlijk op 30 juni.<br>
+<br>
+De beslissing door de school voor lager onderwijs wordt aan de ouders meegedeeld uiterlijk de tiende schooldag van september bij inschrijving vóór 1 september van het lopende schooljaar, of, bij inschrijving vanaf 1 september, uiterlijk tien schooldagen na deze inschrijving. In afwachting van deze mededeling is de leerling ingeschreven onder opschortende voorwaarde. Bij overschrijding van de genoemde termijn is de leerling ingeschreven.<br>
+<br>
+De schriftelijke mededeling aan de ouders van een negatief advies of negatieve beslissing bevat tevens de motivatie.<br>
+<br>
+§ 4. Met uitzondering van de eerste zin van paragraaf 2 is dit artikel niet van toepassing op leerlingen die worden ingeschreven in scholen voor Franstalig onderwijs in de randen taalgrensgemeenten die deel uitmaken van het Nederlandse taalgebied.<br>
+<br>
+§ 5. Om toegelaten te worden tot het buitengewoon lager onderwijs vanaf het schooljaar 2021-2022 moet een leerling zes jaar zijn voor 1 januari van het lopende schooljaar.
+
 ### ART. 14.
 
 § 1. In afwijking van artikel 13, § 1, kan een leerling die 5 jaar wordt vóór 1 januari van het lopende schooljaar toegelaten worden tot het gewoon lager onderwijs. Na kennisneming van en toelichting bij het advies van het CLB en na toelating door de klassenraad overeenkomstig artikel 13, § 1, 2°, nemen de ouders daaromtrent een beslissing.<br>
@@ -322,6 +379,12 @@ De schriftelijke mededeling aan de ouders van een negatieve beslissing bevat tev
 § 2. In afwijking van artikel 13, § 4, kan een leerling die 5 jaar wordt vóór 1 januari van het lopende schooljaar toegelaten worden tot het buitengewoon lager onderwijs. Na kennisneming van en toelichting bij de adviezen van de klassenraad en van het CLB nemen de ouders daaromtrent een beslissing.<br>
 <br>
 § 3. Een leerling die 5 jaar wordt vóór 1 januari van het lopende schooljaar en die in het lager onderwijs toegelaten is, is onderworpen aan de leerplicht.
+
+### ART 14/0
+
+Vanaf het schooljaar 2021-2022 kan een leerling die 5 jaar wordt vóór 1 januari van het lopende schooljaar, in afwijking van artikel 13/1, § 2 en § 5, tot het lager onderwijs toegelaten worden onder de volgende voorwaarden:<br>
+1° in het gewoon onderwijs: na toelating conform artikel 13/1, § 2, 2°, indien het een leerling betreft die het voorgaande schooljaar ingeschreven was in een door de Vlaamse Gemeenschap erkende school voor Nederlandstalig kleuteronderwijs, of conform artikel 13/1, § 2, 3°, indien het een leerling betreft die het voorgaande schooljaar niet ingeschreven was in een door de Vlaamse Gemeenschap erkende school voor kleuteronderwijs. Na kennisneming van en toelichting bij het advies van het CLB nemen de ouders daaromtrent een beslissing;<br>
+2° in het buitengewoon onderwijs: na kennisneming van en toelichting bij de adviezen van de klassenraad en van het CLB nemen de ouders daaromtrent een beslissing.
 
 ### ART 14/1.
 
@@ -429,9 +492,10 @@ De Vlaamse Regering bepaalt de verdere inhoud van het gemotiveerd verslag.<br>
 1° voldoet aan de toelatingsvoorwaarden zoals bepaald in de artikelen 12, 12/1, 13, 14, 14/1, 15 of 16;<br>
 2° slechts in één school is ingeschreven.<br>
 <br>
-§ 2. In het lager onderwijs, of als leerplichtige in het kleuteronderwijs, moet de leerling daarenboven voldoen aan de volgende voorwaarden:<br>
-1° aanwezig zijn, behoudens gewettigde afwezigheid;<br>
-2° deelnemen aan alle onderwijsactiviteiten die voor hem of zijn leergroep worden georganiseerd, behoudens vrijstel-ling bedoeld in de artikelen 29 en 30. Deelnemen aan het taalbad wordt beschouwd als een onderwijsactiviteit die voor hem of zijn leerlingengroep wordt georganiseerd.&nbsp;<br>
+§ 2. Leerplichtigen zijn een regelmatige leerling als ze voldoen aan de voorwaarden, vermeld in paragraaf 1, en aan al de volgende voorwaarden:<br>
+1° als ze in het lager onderwijs zitten, of als zesen zevenjarige in het kleuteronderwijs zitten met toepassing van artikel 12/1, zijn ze altijd aanwezig, behalve bij gewettigde afwezigheid;<br>
+2° als ze als vijfjarige in het kleuteronderwijs zitten zijn ze voldoende aanwezig conform artikel 26;<br>
+3° deelnemen aan alle onderwijsactiviteiten die voor de leerlingengroep of de leerling worden georganiseerd, behoudens vrijstelling bedoeld in artikel 29. Deelnemen aan het taalbad of een ander taalintegratietraject wordt beschouwd als een onderwijsactiviteit die voor de leerlingengroep of de leerling wordt georganiseerd.<br>
 <br>
 § 3. Leerlingen die ingeschreven zijn in het buitengewoon basisonderwijs, met uitzondering van type 5, kunnen gemiddeld per schooljaar maximaal halftijds lessen of activiteiten volgen in een school voor gewoon basisonderwijs. In overleg met de ouders, met betrokkenheid van de leerling en in overleg met het CLB ondersteunt de school voor buitengewoon onderwijs de school voor gewoon onderwijs.
 
@@ -477,7 +541,15 @@ Voor de vestigingsplaats van de type 5-school bij een residentiële setting bepa
 
 ### ART. 26.
 
-§ 1. Ouders zijn verplicht ervoor te zorgen dat hun leerplichtig kind   daadwerkelijk onderwijs volgt, dit wil zeggen ingeschreven is in een school en   er regelmatig aanwezig is, of huisonderwijs volgt. Voor leerplichtige leerlingen   in het basisonderwijs is de leerplicht voltijds.<BR><BR>Voor de leerplichtige   van vreemde nationaliteit geldt dit vanaf de zestigste dag na de inschrijving in   het vreemdelingen- of in het bevolkingsregister zoals bepaald in artikel 1, § 7   van de wet van 29 juni 1983 betreffende de leerplicht.<BR><BR>§ 2. Indien het   kind in de onmogelijkheid verkeert om onderwijs te volgen, kan de   onderwijsinspectie, op vraag van de ouders, beslissen tot een tijdelijke of   permanente vrijstelling van de leerplicht.<BR><BR>§ 3. Inbreuken op de   regelgeving met betrekking tot de leerplicht worden gesanctioneerd conform   artikel 5 van de wet van 29 juni 1983 betreffende de leerplicht.
+§ 1. Ouders zijn verplicht ervoor te zorgen dat hun leerplichtig kind daadwerkelijk onderwijs volgt, dit wil zeggen ingeschreven is in een school en er regelmatig aanwezig is, of huisonderwijs volgt. Voor leerlingen in het kleuteronderwijs die vijf jaar worden voor 1 januari van het schooljaar is er een leerplicht ten belope van 290 halve dagen aanwezigheid per schooljaar. Voor de berekening van dat aantal halve dagen aanwezigheid in functie van de leerplicht en de regelmatigheid van de leerling kunnen de afwezigheden die door de directie als aanvaardbaar geacht worden meegerekend worden. Voor scholen die overeenkomstig artikel 8 van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs, in het deeltijds kunstonderwijs en in het onderwijs voor sociale promotie erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap, over een afwijkende uurregeling beschikken bepaalt de Vlaamse Regering wanneer een leerling geacht wordt voldoende aanwezig te zijn.<br>
+<br>
+Voor zes-en zevenjarigen in het kleuteronderwijs, in toepassing van artikel 12/1, en voor leerlingen in het lager onderwijs is de leerplicht voltijds.<br>
+<br>
+Voor de leerplichtige van vreemde nationaliteit geldt dit vanaf de zestigste dag na de inschrijving in het vreemdelingen- of in het bevolkingsregister zoals bepaald in artikel 1, § 7 van de wet van 29 juni 1983 betreffende de leerplicht.<br>
+<br>
+§ 2. Indien het kind in de onmogelijkheid verkeert om onderwijs te volgen, kan de onderwijsinspectie, op vraag van de ouders, beslissen tot een tijdelijke of permanente vrijstelling van de leerplicht.<br>
+<br>
+§ 3. Inbreuken op de regelgeving met betrekking tot de leerplicht worden gesanctioneerd conform artikel 5 van de wet van 29 juni 1983 betreffende de leerplicht.
 
 ### ART. 26bis.
 
@@ -604,11 +676,13 @@ Het schoolbestuur informeert de ouders onmiddellijk tijdens het schooljaar van v
 
 ### ART. 29.
 
-Bij elke inschrijving&nbsp;van hun leerplichtig kind in het officieel lager onderwijs bepalen de ouders, bij ondertekende verklaring, of hun kind een cursus in één der erkende godsdiensten of een cursus niet-confessionele zedenleer volgt. Die keuze kunnen ze uiterlijk op 30 juni van het lopende schooljaar wijzigen voor het volgende schooljaar.<br>
+Bij elke inschrijving&nbsp;van hun kind in het officieel lager onderwijs bepalen de ouders, bij ondertekende verklaring, of hun kind een cursus in één der erkende godsdiensten of een cursus niet-confessionele zedenleer volgt. Die keuze kunnen ze uiterlijk op 30 juni van het lopende schooljaar wijzigen voor het volgende schooljaar.<br>
 <br>
 Ouders die op basis van hun religieuze of morele overtuiging bezwaren hebben tegen het volgen van één van de aangeboden cursussen godsdienst of niet-confessionele zedenleer bekomen op aanvraag een vrijstelling.<br>
 <br>
-De regering legt het model van de ondertekende verklaring en de procedure tot het bekomen van de vrijstelling vast en bepaalt op welke wijze de lestijden waarvoor men is vrijgesteld moeten ingevuld worden. De lestijden waarvoor men is vrijgesteld mogen niet worden ingevuld met activiteiten die betrekking hebben op andere leergebieden.&nbsp;
+De regering legt het model van de ondertekende verklaring en de procedure tot het bekomen van de vrijstelling vast en bepaalt op welke wijze de lestijden waarvoor men is vrijgesteld moeten ingevuld worden. De lestijden waarvoor men is vrijgesteld mogen niet worden ingevuld met activiteiten die betrekking hebben op andere leergebieden.&nbsp;<br>
+<br>
+De leerplichtige leerling in het officieel kleuteronderwijs kan voor het onderricht in een van de erkende godsdiensten of de niet-confessionele zedenleer lessen bijwonen in de lagere school die zijn ouders daarvoor kiezen.
 
 ### ART. 30.
 
@@ -617,12 +691,16 @@ De regering legt het model van de ondertekende verklaring en de procedure tot he
 ### ART. 31.
 
 <p>§ 1. Bij verandering van school door een leerling draagt de oude school de leerlingengegevens over aan de nieuwe school, onder de volgende voorwaarden:<br>
-1° de gegevens hebben enkel betrekking op de leerlingspecifieke onderwijsloopbaan;<br>
+1° de gegevens hebben enkel betrekking op de leerlingspecifieke onderwijsloopbaan, meer bepaald de essentiële gegevens die de studieresultaten en de studievoortgang van de leerling bevorderen, monitoren, evalueren en attesteren;<br>
 2° de overdracht gebeurt enkel in het belang van de persoon op wie de onderwijsloopbaan betrekking heeft;<br>
 3° tenzij de regelgeving de overdracht verplicht stelt, gebeurt de overdracht niet indien de ouders er zich expliciet tegen verzetten, na, op hun verzoek, de gegevens te hebben ingezien.<br>
 4° een kopie van het verslag of gemotiveerd verslag van een CLB in het kader van het decreet betreffende maatregelen voor leerlingen met specifieke onderwijsbehoeften dient verplicht te worden overgedragen door de oude school aan de nieuwe school. Tevens zal het CLB dat verbonden was aan de oude school een kopie van het verslag of gemotiveerd verslag verplicht overdragen aan het CLB dat verbonden is met de nieuwe school. In het belang van de optimale begeleiding van de betrokken leerling en de organisatie van de school kunnen ouders zich tegen deze overdrachten niet verzetten.<br>
+5° het schoolbestuur van de onderwijsinstelling of de gemandateerde is verwerkingsverantwoordelijke voor de verwerkingen van de persoonsgegevens voor de looptijd dat deze bewaard dienen te worden;<br>
+6° het centrumbestuur of de gemandateerde van het CLB dat het verslag of gemotiveerd verslag, vermeld in punt 4°, heeft opgesteld is verwerkingsverantwoordelijke voor de verwerkingen door of ter voorbereiding van het verslag of gemotiveerd verslag. Het centrumbestuur of de gemandateerde van het overnemende CLB is verwerkingsverantwoordelijke voor de verwerkingen na ontvangst van het verslag of gemotiveerd verslag;<br>
 <br>
 Gegevens die betrekking hebben op schending van leefregels door de leerling zijn echter nooit tussen scholen overdraagbaar.<br>
+<br>
+De Vlaamse Regering kan de regels bepalen omtrent de opslagperioden en de verwerkingsactiviteiten en procedures, waaronder maatregelen om te zorgen voor een behoorlijke, veilige en transparante verwerking.<br>
 <br>
 § 2. Paragraaf 1 is, met uitzondering van het eerste lid, 4°, ook van toepassing bij schoolverandering van basisonderwijs naar secundair onderwijs.</p>
 
@@ -632,9 +710,9 @@ Gegevens die betrekking hebben op schending van leefregels door de leerling zijn
 
 § 1. Een preventieve schorsing is een uitzonderlijke maatregel die de directeur of zijn afgevaardigde voor een leerplichtige leerling in het lager onderwijs kan hanteren als bewarende maatregel om de leefregels te handhaven en om te kunnen nagaan of een tuchtsanctie aangewezen is. De leerling mag gedurende maximaal vijf opeenvolgende schooldagen de lessen en activiteiten van zijn leerlingengroep niet volgen. De directeur of zijn afgevaardigde kan, mits motivering aan de ouders, beslissen om desbetreffende periode eenmalig met maximaal vijf opeenvolgende schooldagen te verlengen indien door externe factoren het tuchtonderzoek niet binnen die eerste periode kan worden afgerond. De preventieve schorsing kan onmiddellijk uitwerking hebben en de school stelt de ouders in kennis van de preventieve schorsing. De school voorziet opvang voor de leerling, tenzij de school aan de ouders motiveert waarom dit niet haalbaar is.<br>
 <br>
-§ 2. De directeur of zijn afgevaardigde kan, in uitzonderlijke gevallen, een leerplichtige leerling in het lager onderwijs tijdelijk uitsluiten. Een tijdelijke uitsluiting is een tuchtsanctie die inhoudt dat de gesanctioneerde leerling gedurende minimaal één schooldag en maximaal vijftien opeenvolgende schooldagen de lessen en activiteiten van zijn leerlingengroep niet mag volgen. Een nieuwe tijdelijke uitsluiting kan enkel na een nieuw feit. De school voorziet opvang voor de leerling, tenzij de school aan de ouders motiveert waarom dit niet haalbaar is.<br>
+§ 2. De directeur of zijn afgevaardigde kan, in uitzonderlijke gevallen, een&nbsp;leerling in het lager onderwijs tijdelijk uitsluiten. Een tijdelijke uitsluiting is een tuchtsanctie die inhoudt dat de gesanctioneerde leerling gedurende minimaal één schooldag en maximaal vijftien opeenvolgende schooldagen de lessen en activiteiten van zijn leerlingengroep niet mag volgen. Een nieuwe tijdelijke uitsluiting kan enkel na een nieuw feit. De school voorziet opvang voor de leerling, tenzij de school aan de ouders motiveert waarom dit niet haalbaar is.<br>
 <br>
-§ 3. De directeur of zijn afgevaardigde kan, in uitzonderlijke gevallen, een leerplichtige leerling in het lager onderwijs definitief uitsluiten. Een definitieve uitsluiting is een tuchtsanctie die inhoudt dat de gesanctioneerde leerling wordt uitgeschreven op het moment dat die leerling in een andere school is ingeschreven en uiterlijk één maand, vakantieperioden tussen 1 september en 30 juni niet inbegrepen, na de schriftelijke kennisgeving, vermeld in artikel 33, 5°. In afwachting van een inschrijving in een andere school mag de gesanctioneerde leerling de lessen en activiteiten van zijn leerlingengroep niet volgen. De school voorziet opvang voor de leerling, tenzij de school aan de ouders motiveert waarom dit niet haalbaar is.<br>
+§ 3. De directeur of zijn afgevaardigde kan, in uitzonderlijke gevallen, een&nbsp;leerling in het lager onderwijs definitief uitsluiten. Een definitieve uitsluiting is een tuchtsanctie die inhoudt dat de gesanctioneerde leerling wordt uitgeschreven op het moment dat die leerling in een andere school is ingeschreven en uiterlijk één maand, vakantieperioden tussen 1 september en 30 juni niet inbegrepen, na de schriftelijke kennisgeving, vermeld in artikel 33, 5°. In afwachting van een inschrijving in een andere school mag de gesanctioneerde leerling de lessen en activiteiten van zijn leerlingengroep niet volgen. De school voorziet opvang voor de leerling, tenzij de school aan de ouders motiveert waarom dit niet haalbaar is.<br>
 <br>
 Tegen deze beslissing is beroep mogelijk zoals voorzien in artikel 37/4.
 
@@ -654,7 +732,9 @@ Een afwezigheid van minder dan eenentwintig kalenderdagen is geen langdurige afw
 <br>
 § 3. De regering bepaalt hoe het onderwijs aan huis georganiseerd wordt, welke vorm van hulp de school krijgt om het onderwijs aan huis te organiseren en de voorwaarden tot het verkrijgen van lestijden tijdelijk onderwijs aan huis, alsook het aantal en de wijze van berekening ervan.<br>
 <br>
-De betrekkingen die worden ingericht op basis van de lestijden, vermeld in het eerste lid, komen niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekkingen.<br>
+Een personeelslid dat wordt aangesteld in een betrekking die wordt georganiseerd in de lestijden, vermeld in het eerste lid, wordt altijd aangesteld als tijdelijk personeelslid. De bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 en het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 zijn van toepassing op die personeelsleden, met uitzondering van de volgende bepalingen:<br>
+1° de betrekking is niet onderworpen aan de reglementering over de terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling. Het schoolbestuur van de school die de betrekking organiseert, kan evenwel op vrijwillige basis een personeelslid aanstellen dat ter beschikking is gesteld wegens ontstentenis van betrekking. Die aanstelling wordt beschouwd als een reaffectatie of een wedertewerkstelling. Voor die reaffectatie of wedertewerkstelling is altijd de toestemming vereist van het ter beschikking gestelde personeelslid;<br>
+2° de betrekking kan niet vacant worden verklaard. Het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in die betrekking.<br>
 <br>
 § 4. Het schoolbestuur is verplicht om de ouders van leerlingen die recht hebben of zullen hebben op tijdelijk onderwijs aan huis te informeren over het recht op, en de mogelijkheden en de modaliteiten van het tijdelijk onderwijs aan huis.<br>
 <br>
@@ -722,6 +802,7 @@ Met toepassing van artikel 23, lid 1, i), van de verordening (EU) 2016/679 van h
 10° de mededeling dat de school bij schoolverandering binnen het basisonderwijs verplicht is een kopie van het gemotiveerd verslag, vermeld in artikel 16 van dit decreet, en een kopie van het verslag, vermeld in artikel 15 van dit decreet, over te dragen aan de nieuwe school;<br>
 11° de contactgegevens van het centrum voor leerlingenbegeleiding waarmee de school samenwerkt, en de concrete afspraken over de dienstverlening tussen de school en het centrum voor leerlingenbegeleiding;<br>
 12° een korte beschrijving van het beleid op leerlingenbegeleiding, waarmee de school haar visie en werking in verband met leerlingenbegeleiding verduidelijkt.<br>
+13° richtlijnen over aanwezigheden, in het bijzonder voor de leerplichtige kleuters, en te laat komen.<br>
 <br>
 § 3. Voor het lager onderwijs bevat het schoolreglement ten minste de volgende elementen:<br>
 1° het reglement inzake tucht en schending van de leefregels van de leerlingen met inbegrip van een preventieve schorsing, een tijdelijke uitsluiting of een definitieve uitsluiting en inzake de beroepsprocedure zoals vermeld in onderafdeling F van deze afdeling, inbegrepen het hanteren van redelijke en haalbare termijnen;<br>
@@ -1221,6 +1302,8 @@ Aan de ouders wordt tevens meegedeeld welke plaats bij de niet-toegewezen leerli
 <br>
 In afwijking van het eerste lid kunnen een schoolbestuur, verschillende schoolbesturen samen of het LOP uiterlijk op 15 december 2019 een voorstel van aanmeldingsprocedure voor de inschrijvingen voor het schooljaar 2020-2021 voorleggen aan de CLR.<br>
 <br>
+In afwijking van het eerste lid kunnen een schoolbestuur, verschillende schoolbesturen samen of het LOP uiterlijk op 15 november 2020 een voorstel van aanmeldingsprocedure voor de inschrijvingen voor het schooljaar 2021-2022 aan de CLR voorleggen.<br>
+<br>
 § 2. Het dossier daartoe bevat minstens de volgende onderdelen :<br>
 1° de start en de duur van de aanmeldingsperiode of alle deelperiodes en de motivering ervan, overeenkomstig artikel 37undevicies;<br>
 2° het middel of de middelen tot aanmelden;<br>
@@ -1263,7 +1346,7 @@ c) de mededeling van de niet-gerealiseerde inschrijvingen.<br>
 1° een aangepast voorstel van aanmeldingsprocedure indienen bij de CLR. In dat geval toetst de CLR het voorstel overeenkomstig artikel 37vicies quinquies, § 3. De CLR neemt over het aangepaste voorstel van aanmeldingsprocedure een besluit uiterlijk dertig kalenderdagen volgend op de dag van de indiening ervan;<br>
 2° het voorstel van aanmeldingsprocedure, vermeld in artikel 37vicies quinquies voorleggen aan de Vlaamse Regering. In dat geval toetst de Vlaamse Regering het voorstel overeenkomstig artikel 37vicies quinquies, § 3. De Vlaamse Regering neemt over het voorstel van aanmeldingsprocedure een besluit uiterlijk dertig kalenderdagen volgend op de dag van de indiening ervan. De Vlaamse Regering bepaalt de nadere regelen inzake het verloop van de procedure.<br>
 <br>
-In afwijking van het eerste lid, kan het betrokken schoolbestuur, de meerdere betrokken schoolbesturen samen of het betrokken LOP, uiterlijk op 31januari 2020 de initiatieven nemen zoals bepaald in het eerste lid, 1° en 2°.<br>
+In afwijking van het eerste lid, kan het betrokken schoolbestuur, de meerdere betrokken schoolbesturen samen of het betrokken LOP, uiterlijk op 31 januari 2021 de initiatieven nemen zoals bepaald in het eerste lid, 1° en 2°.<br>
 <br>
 § 2. Bij een negatief besluit, van de CLR over het, overeenkomstig paragraaf 1, 1°, voorgelegde aangepast voorstel van aanmeldingsprocedure, kan het betrokken schoolbestuur, de meerdere betrokken schoolbesturen samen of het betrokken LOP uiterlijk dertig kalenderdagen na ontvangst van het negatief besluit het aangepast voorstel van aanmeldingsprocedure of het voorstel van aanmeldingsprocedure, vermeld in artikel 37vicies quinquies, voorleggen aan de Vlaamse Regering. In dat geval toetst de Vlaamse Regering het voorstel overeenkomstig artikel 37vicies quinquies, § 3.<br>
 <br>
@@ -1358,15 +1441,27 @@ In de vrije lagere scholen wordt hetzij onderwijs in één of meer erkende godsd
 ### ART. 44.
 
 § 1. 1° Ontwikkelingsdoelen voor het gewoon kleuteronderwijs zijn minimumdoelen die het Vlaams Parlement wenselijk acht voor die leerlingenpopulatie. Met minimumdoelen wordt bedoeld: een minimum aan kennis, inzicht, vaardigheden en attitudes, bestemd voor die leerlingenpopulatie.<br>
+<br>
 Elke school heeft de maatschappelijke opdracht om de ontwikkelingsdoelen met betrekking tot kennis, inzicht, vaardigheden en attitudes op populatieniveau bij de leerlingen na te streven.<br>
+<br>
 Voor de kwaliteitscontrole in functie van de erkenning en de doorlichting, zoals bedoeld in artikel 32, 1° en 2°, van het decreet van 8 mei 2009 betreffende de kwaliteit van het onderwijs, van de scholen voor het gewoon kleuteronderwijs, baseert de onderwijsinspectie zich op het nastreven van de ontwikkelingsdoelen.<br>
+<br>
 2° Eindtermen voor het gewoon lager onderwijs zijn minimumdoelen die het Vlaams Parlement noodzakelijk en bereikbaar acht voor die leerlingenpopulatie. Met minimumdoelen wordt bedoeld: een minimum aan kennis, inzicht, vaardigheden en attitudes, bestemd voor die leerlingenpopulatie.<br>
+<br>
 Elke school heeft de maatschappelijke opdracht om de eindtermen met betrekking tot kennis, inzicht, vaardigheden en bepaalde attitudes op populatieniveau bij de leerlingen te bereiken en de eindtermen met betrekking tot bepaalde andere attitudes bij de leerlingen na te streven.<br>
+<br>
+Binnen deze eindtermen worden, minstens voor de competenties in het Nederlands en de wiskundige component van de competenties inzake wiskunde, wetenschappen en technologie, bepaalde eindtermen als basisgeletterdheid aangeduid. De eindtermen basisgeletterdheid moeten door elke individuele leerling worden bereikt op het eind van het vierde jaar lager onderwijs. Basisgeletterdheid zijn die eindtermen die het startpunt vormen voor het bereiken van de eindtermen basisgeletterdheid in de eerste graad van het secundair onderwijs voor de competenties in het Nederlands en de wiskundige component van de competenties inzake wiskunde, wetenschappen en technologie. In uitzonderlijke gevallen kan de klassenraad gemotiveerd beslissen dat een individuele leerling een eindterm basisgeletterdheid niet moet bereiken. De regering bepaalt vanaf welk schooljaar de eindtermen basisgeletterdheid in het lager onderwijs ingevoerd worden.<br>
+<br>
 Voor de kwaliteitscontrole in functie van de erkenning en de doorlichting, zoals bedoeld in artikel 32, 1° en 2°, van het decreet van 8 mei 2009 betreffende de kwaliteit van het onderwijs, van de scholen voor het gewoon lager onderwijs, baseert de onderwijsinspectie zich op het bereiken van de eindtermen.<br>
+<br>
 3° Ontwikkelingsdoelen voor het buitengewoon basisonderwijs zijn doelen op het vlak van kennis, inzicht, vaardigheden en attitudes die het Vlaams Parlement wenselijk acht voor zoveel mogelijk leerlingen van een bepaalde leerlingenpopulatie.<br>
+<br>
 Elke school heeft de maatschappelijke opdracht om de ontwikkelingsdoelen met betrekking tot kennis, inzicht, vaardigheden en attitudes bij de leerlingen na te streven indien opgenomen in het handelingsplan, zoals bepaald in artikel 46.<br>
+<br>
 De school kan steeds extra doelen nastreven bij de leerlingen.<br>
+<br>
 Voor de kwaliteitscontrole in functie van de erkenning en de doorlichting, zoals bedoeld in artikel 32, 1° en 2°, van het decreet van 8 mei 2009 betreffende de kwaliteit van het onderwijs, van scholen voor het buitengewoon basisonderwijs, baseert de onderwijsinspectie zich op het nastreven van de ontwikkelingsdoelen via het handelingsplan, zoals bepaald in artikel 46.<br>
+<br>
 4° Voor het onderwijs in godsdienst, niet-confessionele zedenleer en cultuur-beschouwing, zijn er geen ontwikkelingsdoelen of eindtermen.<br>
 <br>
 § 2. De ontwikkelingsdoelen en eindtermen worden geformuleerd in functie van volgende sleutelcompetenties:<br>
@@ -1389,7 +1484,7 @@ Voor de kwaliteitscontrole in functie van de erkenning en de doorlichting, zoals
 <br>
 Het Vlaams Parlement haakt deze ontwikkelingsdoelen en eindtermen niet vast aan leergebieden. Het zijn de schoolbesturen die de verbinding maken tussen de ontwikkelingsdoelen en eindtermen en de in dit decreet opgenomen leergebieden.<br>
 <br>
-§ 3. De ontwikkeling van eindtermen en ontwikkelingsdoelen wordt gecoördineerd door de regering. De regering stelt daartoe een of meerdere ontwikkelcommissies samen die ten minste bestaan uit leerkrachten uit basis- en secundair onderwijs, de vertegenwoordigers van het Gemeenschapsonderwijs en de verenigingen van schoolbesturen van het gesubsidieerd onderwijs en vak- en andere experten uit het hoger onderwijs. De ontwikkelcommissie formuleert een beperkt aantal van sober geformuleerde, duidelijke, competentiegerichte en evalueerbare eindtermen en ontwikkelingsdoelen waar de aspecten kennis, vaardigheden, inzichten en indien van toepassing attitudes aan bod komen. Ze geeft ook het belang en de uitgangspunten ervan aan.<br>
+§ 3. De ontwikkeling van eindtermen en ontwikkelingsdoelen wordt gecoördineerd door de regering. De regering stelt daartoe een of meerdere ontwikkelcommissies samen die ten minste bestaan uit leerkrachten uit basis- en secundair onderwijs, de vertegenwoordigers van het Gemeenschapsonderwijs en de verenigingen van schoolbesturen van het gesubsidieerd onderwijs en vak- en andere experten uit het hoger onderwijs. De ontwikkelcommissie formuleert een beperkt aantal van sober geformuleerde, duidelijke, competentiegerichte en evalueerbare eindtermen en ontwikkelingsdoelen waar de aspecten kennis, vaardigheden, inzichten en indien van toepassing attitudes aan bod komen. Ze geeft ook het belang en de uitgangspunten ervan aan. Ze bewaakt de haalbaarheid.<br>
 <br>
 De ontwikkelde eindtermen en ontwikkelingsdoelen worden vervolgens door de ontwikkelcommissie voorgelegd aan een valideringscommissie. De valideringscommissie bestaat uit leden van de onderwijsinspectie en andere experten. De valideringscommissie valideert of stuurt de ontwikkelde eindtermen of ontwikkelingsdoelen terug naar de ontwikkelcommissie met het oog op bijsturing, waarna ze finaal ter validering aan de valideringscommissie worden voorgelegd. De valideringscommissie bewaakt de coherentie, consistentie en evalueerbaarheid van de eindtermen en ontwikkelingsdoelen.<br>
 <br>
@@ -2179,13 +2274,13 @@ De jaarlijks in het decreet houdende de algemene uitgavenbegroting van de Vlaams
 
 <p>§ 1. Regelmatige leerlingen met specifieke onderwijsbehoeften die gewoon gefinancierd of gesubsidieerd onderwijs volgen, kunnen speciale onderwijsleermiddelen ter beschikking krijgen.<br>
 <br>
-§ 2. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de vorm aannemen van tolken Vlaamse Gebarentaal of schrijftolken, dan bepaalt de Vlaamse Regering :<br>
-1° de procedure voor de aanvraag en toekenning van de schrijftolken en tolken Vlaamse Gebarentaal bij het Agodi; het Agodi zal hiertoe eveneens een intern beroep voorzien;<br>
-2° de diplomavoorwaarden voor de tolken Vlaamse Gebarentaal en schrijftolken;<br>
-3° de te indexeren loonkost voor de tolken Vlaamse Gebarentaal en de loonkost voor de schrijftolken;<br>
+§ 2. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de vorm aannemen van tolken Vlaamse Gebarentaal of een andere gebarentaal of schrijftolken, dan bepaalt de Vlaamse Regering :<br>
+1° de procedure voor de aanvraag en toekenning van de schrijftolken en tolken Vlaamse Gebarentaal of een andere gebarentaal bij het Agodi; het Agodi zal hiertoe eveneens een intern beroep voorzien;<br>
+2° de diplomavoorwaarden voor de tolken Vlaamse Gebarentaal of een andere gebarentaal en schrijftolken;<br>
+3° de te indexeren loonkost voor de tolken Vlaamse Gebarentaal of een andere gebarentaal en de loonkost voor de schrijftolken;<br>
 4° de definitie van de doelgroep.<br>
 <br>
-§ 3. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de vorm aannemen van tolken Vlaamse gebarentaal of schrijftolken, dan verleent de Vlaamse Regering voor de realisatie van deze tolkuren een subsidie aan een centraal tolkenbureau, die bestaat uit enerzijds werkingsmiddelen voor dit tolkenbureau en anderzijds lonen en verplaatsingskosten voor de tolken.<br>
+§ 3. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de vorm aannemen van tolken Vlaamse Gebarentaal of een andere gebarentaal of schrijftolken, dan verleent de Vlaamse Regering voor de realisatie van deze tolkuren een subsidie aan een centraal tolkenbureau, die bestaat uit enerzijds werkingsmiddelen voor dit tolkenbureau en anderzijds lonen en verplaatsingskosten voor de tolken.<br>
 <br>
 De Vlaamse Regering bepaalt de verdere voorwaarden voor de werking van dit tolkenbureau.<br>
 <br>
@@ -2321,15 +2416,19 @@ Wegens uitzonderlijke redenen van tijdelijke aard kunnen leerlingen, conform art
 
 ### ART. 108bis.
 
-§ 1. Elke school voor gewoon kleuter-, lager-, of basisonderwijs die op de eerste schooldag van februari van het voorgaande schooljaar voldoet aan de door de regering vastgelegde rationalisatienormen, mag één of meer vestigingsplaatsen oprichten. Daartoe moeten de school en al haar reeds bestaande vestigingsplaatsen en niveaus op de eerste schooldag van oktober van het oprichtingsjaar van de nieuwe vestigingsplaatsen de door de regering vastgelegde rationalisatienormen bereiken en moeten de nieuwe vestigingsplaatsen de door de regering vastgelegde rationalisatienormen bereiken.<br /><br />§ 2. In afwijking van § 1 kan een school voor gewoon basisonderwijs in programmatie, vanaf het tweede jaar dat ze opgenomen is in de financierings- of subsidieregeling, één of meer vestigingsplaats(en) oprichten. In voorkomend geval gelden de programmatienormen.<br /><br />§ 3. Voor de toepassing van dit artikel op CKG-scholen worden de woorden « op de eerste schooldag van oktober » telkens gelezen als de woorden « tijdens de maand september » en worden de woorden « op de eerste schooldag van februari » gelezen als de woorden « tijdens de periode van twaalf maanden die voorafgaat aan de eerste schooldag van februari. ».
+§ 1. Elke school voor gewoon kleuter-, lager-, of basisonderwijs die op de eerste schooldag van februari van het voorgaande schooljaar voldoet aan de door de regering vastgelegde rationalisatienormen, mag één of meer vestigingsplaatsen oprichten. Daartoe moeten de school en al haar reeds bestaande en nieuwe&nbsp;vestigingsplaatsen en niveaus op de eerste schooldag van oktober van het oprichtingsjaar van de nieuwe vestigingsplaatsen de door de regering vastgelegde rationalisatienormen bereiken.<br>
+<br>
+§ 2. In afwijking van § 1 kan een school voor gewoon basisonderwijs in programmatie, vanaf het tweede jaar dat ze opgenomen is in de financierings- of subsidieregeling, één of meer vestigingsplaats(en) oprichten op voorwaarde dat de school het voorgaande schooljaar voldeed aan de programmatienormen. In voorkomend geval gelden de programmatienormen.<br>
+<br>
+§ 3. Voor de toepassing van dit artikel op CKG-scholen worden de woorden « op de eerste schooldag van oktober » telkens gelezen als de woorden « tijdens de maand september » en worden de woorden « op de eerste schooldag van februari » gelezen als de woorden « tijdens de periode van twaalf maanden die voorafgaat aan de eerste schooldag van februari. ».
 
 ### ART. 109.
 
 § 1. Elke school voor buitengewoon basisonderwijs die op de eerste schooldag van februari van het voorgaande schooljaar voldoet aan de door de regering vastgelegde rationalisatienormen, mag binnen een afstand van minder dan twee kilometer van de administratieve vestigingsplaats één of meer vestigingsplaats(en) oprichten.<br>
 <br>
-§ 2. Elke school voor buitengewoon basisonderwijs die op de eerste schooldag van februari van het voorgaande schooljaar voldoet aan de door de regering vastgelegde rationalisatienormen, mag op een afstand van twee kilometer en meer van de administratieve vestigingsplaats één of meer vestigingsplaats(en) oprichten. Daartoe moeten de school al haar reeds bestaande types in scholen en al haar reeds bestaande types in vestigingsplaatsen op de eerste schooldag van oktober van het oprichtingsjaar van de nieuwe vestigingsplaatsen de door de regering vastgelegde rationalisatienormen bereiken en moeten de types in de nieuwe vestigingsplaatsen de door de regering vastgelegde rationalisatienormen bereiken.<br>
+§ 2. Elke school voor buitengewoon basisonderwijs die op de eerste schooldag van februari van het voorgaande schooljaar voldoet aan de door de regering vastgelegde rationalisatienormen, mag op een afstand van twee kilometer en meer van de administratieve vestigingsplaats één of meer vestigingsplaats(en) oprichten. De school en elk type in de school en elk type in de vestigingsplaatsen van de school bereiken daarvoor op de eerste schooldag van oktober van het oprichtingsjaar van de nieuwe vestigingsplaats de rationalisatienormen die de regering vastlegt.<br>
 <br>
-§ 3. In afwijking van § 1 en § 2 kan een school voor buitengewoon basisonderwijs in programmatie vanaf het tweede jaar, dat ze opgenomen is in de financierings- of subsidieregeling één of meer vestigingsplaats(en) oprichten. In voorkomend geval gelden de programmatienormen.<br>
+§ 3. In afwijking van § 1 en § 2 kan een school voor buitengewoon basisonderwijs in programmatie vanaf het tweede jaar, dat ze opgenomen is in de financierings- of subsidieregeling één of meer vestigingsplaats(en) oprichten op voorwaarde dat de school het voorgaande schooljaar voldeed aan de programmatienormen. In voorkomend geval gelden de programmatienormen.<br>
 <br>
 § 4. Onverminderd de bepalingen in § 1, § 2 en § 3 kan een school voor type 5 pas een nieuwe vestigingsplaats oprichten na goedkeuring door de regering.<br>
 <br>
@@ -2339,19 +2438,61 @@ Wegens uitzonderlijke redenen van tijdelijke aard kunnen leerlingen, conform art
 
 ### ART. 110.
 
-§ 1. Elke gefinancierde of gesubsidieerde school of vestigingsplaats die alleen gewoon lager onderwijs of alleen gewoon kleuteronderwijs organiseert, kan gefinancierde of gesubsidieerde basisschool of vestigingsplaats basisonderwijs worden. Daartoe moeten de school en elke vestigingsplaats of niveau van de school op de eerste schooldag van oktober van het oprichtingsjaar van het nieuwe niveau de door de regering vastgelegde rationalisatienormen bereiken en moet het nieuw opgerichte niveau de door de regering vastgelegde rationalisatienormen bereiken.<br /><br />§ 2. Elke gefinancierde of gesubsidieerde school die alleen buitengewoon lager onderwijs organiseert of alleen buitengewoon kleuteronderwijs organiseert, kan voor de door haar georganiseerde types basisschool worden. Daartoe moeten de school en elk type in de school en elk type in de vestigingsplaatsen van de school op de eerste schooldag van oktober van het oprichtingsjaar van het nieuwe niveau de door de regering vastgelegde rationalisatienormen bereiken.<br /><br />§ 3. In afwijking van § 2 kan een school voor buitengewoon basisonderwijs in programmatie vanaf het tweede jaar, dat ze opgenomen is in de financierings- of subsidieregeling een niveau oprichten. In voorkomend geval gelden de programmatienormen.<br /><br />§ 4. Voor de toepassing van dit artikel op CKG-scholen en op scholen voor type 5 worden de woorden « op de eerste schooldag van oktober » telkens gelezen als de woorden « tijdens de maand september. ».
+§ 1. Elke gefinancierde of gesubsidieerde school of vestigingsplaats die alleen gewoon lager onderwijs of alleen gewoon kleuteronderwijs organiseert, kan gefinancierde of gesubsidieerde basisschool of vestigingsplaats basisonderwijs worden. Daartoe moeten de school en elke vestigingsplaats of niveau van de school op de eerste schooldag van oktober van het oprichtingsjaar van het nieuwe niveau de door de regering vastgelegde rationalisatienormen bereiken en moet het nieuw opgerichte niveau de door de regering vastgelegde rationalisatienormen bereiken.<br>
+<br>
+§ 2. Elke gefinancierde of gesubsidieerde school die alleen buitengewoon lager onderwijs organiseert of alleen buitengewoon kleuteronderwijs organiseert, kan voor de door haar georganiseerde types basisschool worden. Daartoe moeten de school en elk type in de school en elk type in de vestigingsplaatsen van de school op de eerste schooldag van oktober van het oprichtingsjaar van het nieuwe niveau de door de regering vastgelegde rationalisatienormen bereiken.<br>
+<br>
+§ 3. In afwijking van § 2 kan een school voor buitengewoon basisonderwijs in programmatie vanaf het tweede jaar, dat ze opgenomen is in de financierings- of subsidieregeling een niveau oprichten op voorwaarde dat de school het voorgaande schooljaar voldeed aan de programmatienormen. In voorkomend geval gelden de programmatienormen.<br>
+<br>
+§ 4. Voor de toepassing van dit artikel op CKG-scholen en op scholen voor type 5 worden de woorden « op de eerste schooldag van oktober » telkens gelezen als de woorden « tijdens de maand september. ».
 
 ## [ONDERAFDELING C OPRICHTEN VAN EEN TYPE (ing. Decr. 22 juni 2007, art. II.18, I: 1 september 2008)]
 
 ### ART. 111.
 
-§ 1. Met uitzondering van de scholen voor type 5, kan een school voor   buitengewoon onderwijs die voldoet aan de rationalisatienorm, per 1 september   een nieuw type oprichten, met uitzondering van type 5, op voorwaarde dat :<BR>1°   de school als geheel op de eerste schooldag van oktober van het lopende   schooljaar voldoet aan de door de regering vastgelegde   rationalisatienormen;<BR>2° het opgerichte type op de eerste schooldag van   oktober van het oprichtingsjaar voldoet aan de door de regering vastgelegde   rationalisatienorm.<BR><BR>§ 2. In afwijking van § 1 kan een school voor   buitengewoon basisonderwijs, met uitzondering van de scholen voor type 5, in   programmatie vanaf het tweede jaar, dat ze opgenomen is in de financierings- of   subsidieregeling één of meer types, met uitzondering van type 5, oprichten op   voorwaarde dat de school het voorgaande schooljaar voldeed aan de door de   regering vastgelegde programmatienormen. In dat geval zijn de programmatienormen   van toepassing.<BR><BR>§ 3. In aanvulling op § 1 en § 2 moet een schoolbestuur   dat een nieuw type wil oprichten een oprichtingsdossier indienen. Dit   oprichtingsdossier moet ten minste voldoen aan onderstaande   kwaliteitsvoorwaarden:<BR>1° het schoolbestuur is verantwoordelijk voor het   indienen van het dossier na overleg binnen de schoolraad en na overleg of na   onderhandeling in het lokaal comité;<BR>2° het dossier bevat een   omgevingsanalyse die de noodzaak, de doelmatigheid en de leefbaarheid van het   programmatievoorstel motiveert. Bij de omgevingsanalyse wordt, waar dit voor de   betrokken schoolpopulatie relevant is, de link met eventuele aangepaste   begeleidingsmogelijkheden, met inbegrip van schoolexterne begeleidingsmoge-   lijkheden voor kinderen met bijkomende zorgbehoeften, expliciet behandeld;<BR>3°   de school moet beschikken over de vereiste infrastructurele en materiële   voorzieningen op gebied van toegankelijkheid en hulpmiddelen nodig voor het   nieuwe type;<BR>4° de reeds bestaande expertise of de inspanningen rond   professionalisering van het team met betrekking tot het nieuwe type worden in   het dossier weergegeven.<BR><BR>De regering kan nadere regels bepalen over de   inhoud en de vorm van het oprichtingsdossier en over de wijze waarop de   kwaliteitsvoorwaarden worden beoordeeld.<BR><BR>§ 4. De oprichting vanaf 1   september van een nieuw type kan pas na een gunstige beslissing van de   regering.<BR><BR>Het schoolbestuur stuurt daartoe uiterlijk op 30 november van   het voorafgaande schooljaar een gemotiveerde aanvraag met het oprichtingsdossier   aan AgODi, dat de aanvraag voor administratief-technisch en inhoudelijk advies   aan de Vlaamse Onderwijsraad bezorgt.<BR><BR>In afwijking van het voorgaande   lid, kunnen voor de oprichting vanaf 1 september 2015 van type 9 gemotiveerde   aanvragen bij AgODi ingediend worden tot uiterlijk 1 juli 2014.<BR><BR>De   regering neemt deze beslissing na advies van de Vlaamse Onderwijsraad over de   gegrondheid van de lokale behoefte aan extra aanbod en na advies van AgODi en de   onderwijsinspectie.<BR><BR>§ 5. De scholen voor buitengewoon basisonderwijs die   tijdens het schooljaar 2014-2015 een aanbod type 1 of type 8 aanboden, bieden   vanaf 1 september 2015 het basisaanbod aan als vermeld in artikel 10, § 1, 1°.   Dit wordt niet beschouwd als een herstructurering. <BR><BR>De oprichting van   type 9 in het schooljaar 2015-2016 wordt niet beschouwd als een   herstructurering.
+§ 1. Met uitzondering van de scholen voor type 5 kan een school voor buitengewoon onderwijs die op de eerste schooldag van februari van het voorgaande schooljaar voldoet aan de rationalisatienormen die de regering vastlegt, per 1 september een nieuw type oprichten, met uitzondering van type 5. De school, elk type in de school en elk type in de vestigingsplaatsen van de school bereiken daarvoor op de eerste schooldag van oktober van het oprichtingsjaar van het nieuwe type de rationalisatienormen die de regering vastlegt.<br>
+<br>
+§ 2. In afwijking van § 1 kan een school voor buitengewoon basisonderwijs, met uitzondering van de scholen voor type 5, in programmatie vanaf het tweede jaar, dat ze opgenomen is in de financierings- of subsidieregeling één of meer types, met uitzondering van type 5, oprichten op voorwaarde dat de school op de eerste schooldag van oktober van&nbsp;het voorgaande schooljaar voldeed aan de door de regering vastgelegde programmatienormen. In dat geval zijn de programmatienormen van toepassing.<br>
+<br>
+§ 3. In aanvulling op § 1 en § 2 moet een schoolbestuur dat een nieuw type wil oprichten een oprichtingsdossier indienen. Dit oprichtingsdossier moet ten minste voldoen aan onderstaande kwaliteitsvoorwaarden:<br>
+1° het schoolbestuur is verantwoordelijk voor het indienen van het dossier na overleg binnen de schoolraad en na overleg of na onderhandeling in het lokaal comité;<br>
+2° het dossier bevat een omgevingsanalyse die de noodzaak, de doelmatigheid en de leefbaarheid van het programmatievoorstel motiveert. Bij de omgevingsanalyse wordt, waar dit voor de betrokken schoolpopulatie relevant is, de link met eventuele aangepaste begeleidingsmogelijkheden, met inbegrip van schoolexterne begeleidingsmoge- lijkheden voor kinderen met bijkomende zorgbehoeften, expliciet behandeld;<br>
+3° de school moet beschikken over de vereiste infrastructurele en materiële voorzieningen op gebied van toegankelijkheid en hulpmiddelen nodig voor het nieuwe type;<br>
+4° de reeds bestaande expertise of de inspanningen rond professionalisering van het team met betrekking tot het nieuwe type worden in het dossier weergegeven.<br>
+<br>
+De regering kan nadere regels bepalen over de inhoud en de vorm van het oprichtingsdossier en over de wijze waarop de kwaliteitsvoorwaarden worden beoordeeld.<br>
+<br>
+§ 4. De oprichting vanaf 1 september van een nieuw type kan pas na een gunstige beslissing van de regering.<br>
+<br>
+Het schoolbestuur stuurt daartoe uiterlijk op 30 november van het voorafgaande schooljaar een gemotiveerde aanvraag met het oprichtingsdossier aan AgODi, dat de aanvraag voor administratief-technisch en inhoudelijk advies aan de Vlaamse Onderwijsraad bezorgt.<br>
+<br>
+In afwijking van het voorgaande lid, kunnen voor de oprichting vanaf 1 september 2015 van type 9 gemotiveerde aanvragen bij AgODi ingediend worden tot uiterlijk 1 juli 2014.<br>
+<br>
+De regering neemt deze beslissing na advies van de Vlaamse Onderwijsraad over de gegrondheid van de lokale behoefte aan extra aanbod en na advies van AgODi en de onderwijsinspectie.<br>
+<br>
+§ 5. De scholen voor buitengewoon basisonderwijs die tijdens het schooljaar 2014-2015 een aanbod type 1 of type 8 aanboden, bieden vanaf 1 september 2015 het basisaanbod aan als vermeld in artikel 10, § 1, 1°. Dit wordt niet beschouwd als een herstructurering.<br>
+<br>
+De oprichting van type 9 in het schooljaar 2015-2016 wordt niet beschouwd als een herstructurering.
 
 ## [ONDERAFDELING D OPRICHTEN VAN EEN TYPE DOOR OMVORMING (ing. Decr. 22 juni 2007, art. II.20, I: 1 september 2008)]
 
 ### ART. 112.
 
-§ 1. Met uitzondering van scholen voor type 5, kan elke gefinancierde of gesubsidieerde school voor buitengewoon onderwijs die voldoet aan de door de regering vastgelegde rationalisatienormen per 1 september een bestaand type dat aan de door de regering vastgelegde rationalisatienorm voldoet, geleidelijk, jaar na jaar, omvormen tot een ander type, het type 5 uitgezonderd, op voorwaarde dat:<br />- het type dat wordt omgevormd jaar na jaar wordt opgeheven in alle vestigingsplaatsen van de school;<br />- het nieuwe type op de eerste schooldag van oktober van het lopende schooljaar waarin de omvorming wordt aangevat, de door de regering vastgelegde rationalisatienorm bereikt.<br /><br />§ 2. Tijdens de periode van omvorming kunnen er in het type dat opgeheven wordt, geen nieuwe leerlingen ingeschreven worden.<br /><br />§ 3. De leerlingen van het type dat opgeheven wordt, komen niet in aanmerking voor de berekening van de door de regering vastgelegde rationalisatienormen.<br /><br />§ 4. De omvorming van een bestaand type van buitengewoon onderwijs moet doorgevoerd worden in alle vestigings-plaatsen van de school waar dit type georganiseerd wordt.<br /><br />§ 5. Er kan maar één type tegelijkertijd omgevormd worden.<br /><br />§ 6. In een school kunnen, gedurende de programmatieperiode geen types omgevormd worden.
+§ 1. Met uitzondering van scholen voor type 5, kan elke gefinancierde of gesubsidieerde school voor buitengewoon onderwijs die op de eerste schooldag van februari van het voorgaande schooljaar&nbsp;voldoet aan de door de regering vastgelegde rationalisatienormen per 1 september een bestaand type, geleidelijk, jaar na jaar, omvormen tot een ander type, het type 5 uitgezonderd, op voorwaarde dat:<br>
+- het type dat wordt omgevormd jaar na jaar wordt opgeheven in alle vestigingsplaatsen van de school;<br>
+- het nieuwe type op de eerste schooldag van oktober van het&nbsp;schooljaar waarin de omvorming wordt aangevat, de door de regering vastgelegde rationalisatienorm bereikt.<br>
+<br>
+§ 2. Tijdens de periode van omvorming kunnen er in het type dat opgeheven wordt, geen nieuwe leerlingen ingeschreven worden.<br>
+<br>
+§ 3. De leerlingen van het type dat opgeheven wordt, komen niet in aanmerking voor de berekening van de door de regering vastgelegde rationalisatienormen.<br>
+<br>
+§ 4. De omvorming van een bestaand type van buitengewoon onderwijs moet doorgevoerd worden in alle vestigings-plaatsen van de school waar dit type georganiseerd wordt.<br>
+<br>
+§ 5. Er kan maar één type tegelijkertijd omgevormd worden.<br>
+<br>
+§ 6. In een school kunnen, gedurende de programmatieperiode geen types omgevormd worden.<br>
+<br>
+§ 7. De bepalingen van artikel 111, § 3 en § 4, zijn van toepassing als een type wordt opgericht door omvorming.
 
 ### ART. 112bis.
 
@@ -2447,31 +2588,35 @@ Het schoolbestuur beslist over de toetreding van zijn scho(o)l(en) tot een schol
 
 ### ART. 125quinquies.
 
-<p>§ 1. Een scholengemeenschap wordt opgericht:<br>
+§ 1. Een scholengemeenschap wordt opgericht:<br>
 1° bij beslissing als de scholengemeenschap wordt gevormd door scholen van hetzelfde schoolbestuur;<br>
 2° bij overeenkomst als de scholengemeenschap wordt gevormd door scholen van verschillende schoolbesturen.<br>
 <br>
 De beslissing of de overeenkomst regelt de organisatie en de werking van de scholengemeenschap.<br>
 <br>
-§ 2. Op 1 september 2014 treedt de beslissing of overeenkomst in werking voor een periode van zes schooljaren. De beslissing of overeenkomst eindigt op 31 augustus 2020.<br>
+§ 2. Vanaf 1 september 2020 treedt de beslissing of overeenkomst in werking op 1 september en geldt ze telkens voor een periode van zes schooljaren.<br>
 <br>
-§ 3. In afwijking van paragraaf 2 eindigen de overeenkomsten of beslissingen die in werking treden in de loop van de zesjaarlijkse periode, vermeld in paragraaf 2, op 31 augustus 2020.<br>
+Elke volgende periode van zes schooljaren start zes jaar of een veelvoud van zes jaar na 1 september 2020.<br>
 <br>
-§ 4. Tijdens de voormelde periode kan de beslissing of overeenkomst inzake de vorming van een scholengemeenschap evenwel worden gewijzigd, zodat een school alsnog tot de scholengemeenschap kan toetreden of uit de scholengemeenschap kan stappen.<br>
+De beslissing of overeenkomst wordt telkens van rechtswege voor dezelfde periode verlengd als voldaan is aan al de volgende voorwaarden:<br>
+1° de scholengemeenschap beantwoordt nog aan de criteria om scholengemeenschappen te vormen;<br>
+2° er is geen beslissing of overeenkomst om de scholengemeenschap niet te verlengen of te wijzigen;<br>
+3° de samenstelling van de scholengemeenschap blijft ongewijzigd;<br>
+4° geen enkel schoolbestuur meldt voor 1 mei voorafgaand aan de start van een periode van zes schooljaren aan de andere schoolbesturen dat ze de beslissing of overeenkomst niet wil verlengen.<br>
+<br>
+Scholengemeenschappen die op 31 augustus 2020 bestaan, kunnen op 1 september 2020 onder de voorwaarden van het derde lid van rechtswege worden verlengd voor een periode van zes schooljaren.<br>
+<br>
+§ 3. In afwijking van paragraaf 2 eindigen de overeenkomsten of beslissingen, vermeld in paragraaf 1, die in werking treden in de loop van een periode van zes schooljaren als vermeld in paragraaf 2, tweede lid, op het einde van de zes schooljaren in kwestie.<br>
+<br>
+§ 4. Tijdens de periode, vermeld in paragraaf 2, kan de beslissing of overeenkomst over de vorming van een scholengemeenschap evenwel worden gewijzigd, zodat een school alsnog tot de scholengemeenschap kan toetreden of uit de scholengemeenschap kan stappen.<br>
 <br>
 Een school kan uit de scholengemeenschap stappen in een van de volgende gevallen:<br>
-1° indien de scholengemeenschap minder dan negenhonderd gewogen regelmatige leerlingen telt op de eerste schooldag van februari van het voorgaande schooljaar;<br>
-2° indien de school overgenomen wordt door een schoolbestuur van een andere groep als vermeld in artikel 3, 21°, op voorwaarde dat alle schoolbesturen die behoren tot de scholengemeenschap, ermee instemmen dat de school uit de scholengemeenschap stapt;<br>
-3° indien de school behoort tot een schoolbestuur met bepaalde kenmerken en voor zover de uitstap plaatsvindt op 1 september&nbsp;2019. In voorkomend geval genereert desbetreffende school extra middelen voor het betrokken schoolbestuur.<br>
-<br>
-De Vlaamse Regering bepaalt:<br>
-a) aan welke kenmerken een desbetreffend schoolbestuur moet voldoen, met dien verstande dat een dergelijk schoolbestuur niet tot een scholengemeenschap kan behoren;<br>
-b) de vorm, de wijze van berekening, de toekenning en de aanwending van die extra middelen, met dien verstande dat de berekening ervan op lineaire basis gebeurt;<br>
-c) de personeelscategorieën en ambten waarin op basis van die middelen, voor zover ze de personeelsomkadering betreffen, betrekkingen kunnen worden ingericht en hoe de omrekening naar gefinancierde of gesubsidieerde betrekkingen gebeurt.<br>
+1° de scholengemeenschap telt minder dan 900 gewogen regelmatige leerlingen als vermeld in artikel 125septies, op de eerste schooldag van februari van het voorgaande schooljaar;<br>
+2° een school wordt overgenomen door een schoolbestuur van een andere groep als vermeld in artikel 3, 21°, op voorwaarde dat alle schoolbesturen die behoren tot de scholengemeenschap, ermee instemmen dat de school uit de scholengemeenschap stapt.<br>
 <br>
 Wijzigingen van een beslissing of overeenkomst treden in werking op 1 september na de datum waarop de wijziging tot stand is gekomen.<br>
 <br>
-§ 5. De beslissing of overeenkomst wordt voor 15 juni voorafgaand aan de datum van inwerkingtreding bezorgd aan AgODi.</p>
+§ 5. Elke beslissing of overeenkomst met betrekking tot de vorming of de wijziging van een scholengemeenschap wordt, voor 15 juni van het schooljaar voorafgaand aan de datum van inwerkingtreding, aan de betrokken personeelsleden meegedeeld en bezorgd aan de bevoegde dienst van de Vlaamse overheid. Ook een verlenging van rechtswege wordt uiterlijk op voormelde datum aan de betrokken personeelsleden meegedeeld en bezorgd aan de bevoegde dienst van de Vlaamse overheid.
 
 ## [AFDELING 3 CRITERIA VOOR HET VORMEN VAN SCHOLENGEMEENSCHAPPEN (ing. decr. 10 juli 2003, art. 26)]
 
@@ -2489,13 +2634,15 @@ Wijzigingen van een beslissing of overeenkomst treden in werking op 1 september 
 3° elke leerling telt voor één teleenheid. De regering kan hierop een afwijking toekennen op basis van de bevol-kingsdichtheid van de gemeenten en op basis van de inschrijving en het buitengewoon basisonderwijs;<br>
 4° het aantal gewogen leerlingen per scholengemeenschap is gelijk aan de som van het aantal gewogen leerlingen per school.<br>
 <br>
-§ 3. De telling voor het voldoen aan de norm van scholengemeenschap geldt voor een periode van zes schooljaren.<br>
+§ 3. De telling om na te gaan of er voldaan wordt aan de norm van scholengemeenschap, geldt voor een periode van zes schooljaren.<br>
+<br>
+Voor scholengemeenschappen die opgericht worden in de loop van een periode van zes schooljaren, geldt de norm tot op het einde van de zes schooljaren in kwestie.<br>
 <br>
 § 3bis. ....<br>
 <br>
 § 4. ....<br>
 <br>
-§ 5. In afwijking van paragraaf 3 geldt de telling voor het voldoen aan de norm van de scholengemeenschap voor overeenkomsten of beslissingen die in werking treden in de loop van de periode van zes schooljaren zoals bedoeld in artikel 125quinquies, § 3, tot op 31 augustus 2020.
+§ 5. ...
 
 ### ART. 125octies.
 
@@ -2547,6 +2694,8 @@ De scholengemeenschap kan het initiatief nemen om afspraken te maken omtrent de 
 ### ART. 125duodecies1.
 
 § 1. De scholengemeenschap ontvangt jaarlijks een door de regering vastgelegde puntenenveloppe voor het voeren van een zorgbeleid. Deze puntenenveloppe kan enkel voor dit doel, zoals omschreven in artikel 153septies, aangewend worden.<br>
+<br>
+Er wordt een percentage vastgelegd dat scholengemeenschappen waar gewoon basisonderwijs deel van uitmaakt, moeten gebruiken voor leerlingondersteuning in de klas in de scholen van het gewoon basisonderwijs. Dat percentage bedraagt voor het schooljaar 2020-2021 minstens 20%. Dit percentage stijgt naar 25% in het schooljaar 2021-2022, 30% in het schooljaar 2022-2023 en 35% in het schooljaar 2023-2024. Deze leerlingondersteuning kadert in de toepassing van artikel 47bis, derde lid, en artikel 153septies, § 1, 3°, van het decreet.<br>
 <br>
 Bij het vastleggen van de berekeningswijze van deze puntenenveloppe neemt de regering volgende principes in acht :<br>
 1° scholen die, op basis van artikel 125quinquies, toetreden tot een al bestaande scholengemeenschap, worden geacht deel uit te maken van de scholengemeenschap op de eerste schooldag van februari van het voorgaande schooljaar, voor de berekening van de puntenenveloppe voor het voeren van een zorgbeleid van de scholengemeenschap, op voorwaarde dat de school het schooljaar voor de toetreding tot de scholengemeenschap opgenomen was in de financierings- of subsidiëringsregeling en geen deel uitmaakte van een andere scholengemeenschap.<br>
@@ -3543,7 +3692,9 @@ De oprichting van betrekkingen in de ambten van het beleids- en ondersteunend pe
 
 ### ART. 153quinquies.
 
-§ 1. Aan iedere school voor gewoon of buitengewoon basisonderwijs wordt jaarlijks een puntenenveloppe toegekend voor administratieve ondersteuning.<br /><br />§ 2. Aan iedere school voor gewoon of buitengewoon basisonderwijs wordt jaarlijks een puntenenveloppe toegekend voor ICT-coördinatie. De scholen kunnen de middelen alleen aanwenden als ze deel uit maken van een scholengemeenschap, scholengroep of een samenwerkingsplatform, als vermeld in artikel X.53 van het decreet betreffende het onderwijs XIV van 14 februari 2003.
+§ 1. Aan iedere school voor gewoon of buitengewoon basisonderwijs wordt jaarlijks een puntenenveloppe toegekend voor administratieve ondersteuning.<br>
+<br>
+§ 2. Aan iedere school voor gewoon of buitengewoon basisonderwijs wordt jaarlijks een puntenenveloppe toegekend voor ICT-coördinatie. De scholen kunnen de middelen alleen aanwenden als ze deel uit maken van een scholengemeenschap, scholengroep of een samenwerkingsplatform, als vermeld in artikel VI.5 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016.
 
 ### ART. 153sexies.
 
@@ -3597,7 +3748,7 @@ Voor de toepassing van deze afdeling wordt verstaan onder :<br />1° samenwerkin
 
 ### ART 153quaterdecies.
 
-Tijdens het schooljaar 2018-2019 en het schooljaar 2019-2020 wordt een pilootproject `lerarenplatform' opgezet om tijdelijk aangestelde personeelsleden werkzekerheid te bieden.
+Tijdens het schooljaar 2018-2019 en het schooljaar 2019-2020 wordt een pilootproject `lerarenplatform' opgezet om tijdelijk aangestelde personeelsleden werkzekerheid te bieden.&nbsp;Tijdens het schooljaar 2020-2021 wordt het lerarenplatform voor één schooljaar verlengd.
 
 ### ART 153quinquiesdecies.
 
@@ -3615,7 +3766,7 @@ De deelnemende scholen moeten in het bevoegde lokaal comité onderhandelen over 
 
 ### ART 153septiesdecies.
 
-Het aantal beschikbare voltijdse equivalenten bedraagt 2500 voor alle scholen van het basisonderwijs. Indien niet alle scholen deelnemen wordt dit aantal proportioneel verminderd. De omzetting van voltijds equivalenten naar lestijden gebeurt door het aantal voltijdse equivalenten te vermenigvuldigen met 23,79.
+Het aantal beschikbare voltijdse equivalenten bedraagt 2500 voor alle scholen van het basisonderwijs.&nbsp;Tijdens het schooljaar 2020-2021 bedraagt het aantal beschikbare voltijdse equivalenten uitzonderlijk 2291 voor alle scholen van het basisonderwijs. Indien niet alle scholen deelnemen wordt dit aantal proportioneel verminderd. De omzetting van voltijds equivalenten naar lestijden gebeurt door het aantal voltijdse equivalenten te vermenigvuldigen met 23,79.
 
 ## [Onderafdeling 4 Toekenning van de middelen (ing. decr. 6 juli 2018, art. 25, I: 1 oktober 2018)]
 
@@ -3625,7 +3776,7 @@ Het aantal beschikbare voltijdse equivalenten bedraagt 2500 voor alle scholen va
 
 De lestijden voor het lerarenplatform worden samengelegd op het niveau van het samenwerkingsplatform. Deze lestijden kunnen niet worden overgedragen naar het volgende schooljaar of naar een ander samenwerkingsplatform.<br>
 <br>
-Het personeelslid in het lerarenplatform krijgt een aanstelling die ten vroegste aanvangt op 1 oktober en uiterlijk eindigt op het einde van het schooljaar. De aanstelling is alleen mogelijk in een wervingsambt van het onderwijzend personeel.<br>
+Het personeelslid in het lerarenplatform krijgt een aanstelling die ten vroegste aanvangt op 1 oktober en uiterlijk eindigt op het einde van het schooljaar.&nbsp;Tijdens het schooljaar 2020-2021 kan deze aanstelling al ten vroegste aanvangen op 1 september. De aanstelling is alleen mogelijk in een wervingsambt van het onderwijzend personeel.<br>
 <br>
 De decreten Rechtspositie zijn van toepassing voor wat betreft de tijdelijke aanstelling, maar de betrekking komt niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren, muteren, reaffecteren of wedertewerkstellen in deze betrekkingen.
 
@@ -3647,7 +3798,7 @@ Het pilootproject lerarenplatform wordt opgevolgd en gemonitord in de gemeenscha
 
 ### ART 153viciesquinquies.
 
-Deze afdeling treedt in werking op 1 oktober 2018 en houdt op uitwerking te hebben op een door de regering te bepalen datum.
+Deze afdeling treedt in werking op 1 oktober 2018 en houdt op uitwerking te hebben op het einde van het schooljaar 2020-2021.
 
 ## [AFDELING 3QUINQUIES FLEXIBILISERING VAN DE VERVANGINGEN (verv. decr. 14 juli 2023, art. 48, I: 1 september 2023)]
 
@@ -3837,10 +3988,11 @@ De lestijden, respectievelijk de lesuren, en uren, inclusief de omgezette begele
 a) voor het schooljaar 2017-2018: de eerste schooldag van oktober van de schooljaren 2011-2012 tot en met 2016-2017;<br>
 b) voor het schooljaar 2018-2019: de eerste schooldag van oktober van de schooljaren 2012-2013 tot en met 2016-2017 en de eerste schooldag van februari van het schooljaar 2017-2018;<br>
 c) voor het schooljaar 2019-2020: de eerste schooldag van oktober van de schooljaren 2013-2014 tot en met 2016-2017 en de eerste schooldag van februari van de schooljaren 2017-2018 en 2018-2019.<br>
+d) voor het schooljaar 2020-2021: de eerste schooldag van oktober van de schooljaren 2014-2015 tot en met 2016-2017 en de eerste schooldag van februari van de schooljaren 2017-2018, 2018-2019 en 2019-2020.<br>
 <br>
 Voor de middelen, vermeld in paragraaf 1, 2°, gebeurt deze verdeling afzonderlijk voor het basisonderwijs en voor het secundair onderwijs.<br>
 <br>
-Bij haar toewijzing aan de ondersteuningsnetwerken, vermeld in het eerste lid, garandeert de Vlaamse Regering jaarlijks 13.623 lestijden en 12.985 uren voor basisonderwijs en 7.747 lesuren en 2.605 uren voor secundair onderwijs. De toepassing hiervan zal over een periode van vijf schooljaren gemonitord worden en indien nodig in het schooljaar 2022-2023 bijgestuurd worden.<br>
+Bij haar toewijzing aan de ondersteuningsnetwerken, vermeld in het eerste lid, garandeert de Vlaamse Regering jaarlijks 18.974 lestijden en 17.845 uren voor basisonderwijs en 10.761 lesuren en 3614 uren voor secundair onderwijs. De toepassing hiervan zal gemonitord worden en indien nodig in het schooljaar 2022-2023 bijgestuurd worden.<br>
 <br>
 Scholen voor gewoon en buitengewoon onderwijs delen uiterlijk op 30 juni 2017 aan het Agentschap voor Onderwijsdiensten mee met welke scholen zij op dit moment samenwerken in het kader van gon, ion en waarborg in functie van de ondersteuning van leerlingen met specifieke onderwijsbehoeften, en bij welk ondersteuningsnetwerk ze voor het schooljaar 2017-2018 aansluiten. Daarna moeten wijzigingen aan de samenstelling jaarlijks uiterlijk op 1 maart van het voorafgaande schooljaar meegedeeld worden.<br>
 <br>
@@ -3858,7 +4010,7 @@ De middelen voor coördinatie worden in mindering gebracht van de budgetten die 
 <br>
 Middelen voor coördinatie van een ondersteuningsnetwerk van het overleg kleine onderwijsverstrekkers kunnen worden georganiseerd vanuit het begeleidingskorps dat aan de kleine onderwijsverstrekkers werd toegekend in toepassing van artikel VI.1, § 4, van het decreet van 21 maart 2014 betreffende maatregelen voor leerlingen met specifieke onderwijsbehoeften<br>
 <br>
-§ 4. Het globale verlies op het niveau van een onderwijsnet ten gevolge van de berekeningswijze, vermeld in paragraaf 3, in vergelijking met de situatie op niveau van een onderwijsnet van waarborg en begeleidingseenheden gon, met uitzondering van de doelgroepen, bedoeld in artikel 172quinquies/1, in het schooljaar 2016-2017, wordt gecompenseerd voor een transitieperiode van de drie schooljaren 2017-2018, 2018-2019 en 2019-2020 bij wijze van een garantiefonds, door het aandeel van de scholen en centra van het stijgende onderwijsnet procentueel te verminderen en het aandeel van de scholen en centra van het dalende onderwijsnet procentueel te vermeerderen naar rato van het vastgestelde verlies van het dalende onderwijsnet.<br>
+§ 4. Het globale verlies op het niveau van een onderwijsnet ten gevolge van de berekeningswijze, vermeld in paragraaf 3, in vergelijking met de situatie op niveau van een onderwijsnet van waarborg en begeleidingseenheden gon, met uitzondering van de doelgroepen, bedoeld in artikel 172quinquies/1, in het schooljaar 2016-2017, wordt gecompenseerd voor een transitieperiode van de schooljaren 2017-2018 tot en met 2020-2021 bij wijze van een garantiefonds, door het aandeel van de scholen en centra van het stijgende onderwijsnet procentueel te verminderen en het aandeel van de scholen en centra van het dalende onderwijsnet procentueel te vermeerderen naar rato van het vastgestelde verlies van het dalende onderwijsnet.<br>
 <br>
 De middelen die het dalende onderwijsnet op die wijze ontvangt, vallen onder de regie van dat onderwijsnet om de verliezen in het buitengewoon onderwijs te compenseren zodat er geen verlies is aan tewerkstelling en ondersteuning die vandaag bestaat. Deze middelen worden tijdens de transitieperiode ingezet voor de verdere ondersteuning van scholen en centra in het gewoon onderwijs van de onderwijsnetten.<br>
 <br>
@@ -3880,7 +4032,7 @@ Het aandeel begeleidingseenheden waarover de commissies in de schooljaren 2018-2
 <br>
 § 7. De afspraken die samenwerkende scholen in dit project maken betreffende de inzetbaarheid van de personeelsleden, vallen onder de toepassing van artikel 12quater van het decreet Rechtspositie Personeelsleden Gemeenschapsonderwijs en artikel 17quater van het decreet Rechtspositie Personeelsleden Gesubsidieerd Onderwijs.<br>
 <br>
-§ 8. In afwijking van artikel 8 tot en met artikel 15, artikel 16bis tot en met artikel 20, en artikel 22 tot en met artikel 23 van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de opdracht van het personeel in het basisonderwijs geldt voor het onderwijzend personeel, het paramedisch personeel, het medisch, sociaal, psychologisch en orthopedagogisch personeel dat aangesteld wordt in een betrekking in het buitengewoon basisonderwijs tijdens het schooljaar 2017-2018 tot en met 2019-2020 een hoofdopdracht van 22 lestijden en een schoolopdracht van 26 klokuren.<br>
+§ 8. In afwijking van artikel 8 tot en met artikel 15, artikel 16bis tot en met artikel 20, en artikel 22 tot en met artikel 23 van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de opdracht van het personeel in het basisonderwijs geldt voor het onderwijzend personeel, het paramedisch personeel, het medisch, sociaal, psychologisch en orthopedagogisch personeel dat aangesteld wordt in een betrekking in het buitengewoon basisonderwijs tijdens het schooljaar 2017-2018 tot en met&nbsp;2020-2021 een hoofdopdracht van 22 lestijden en een schoolopdracht van 26 klokuren.<br>
 <br>
 De hoofdopdracht bestaat in de ondersteuning van het onderwijzend personeel en van het kind dat de ondersteuning nodig heeft in het gewoon onderwijs.<br>
 <br>
@@ -4011,7 +4163,12 @@ Een publiekrechtelijke rechtspersoon kan de onderwijsbevoegdheid van een gesubsi
 
 ### ART. 173ter.
 
-§ 1. In afwijking van artikel 102, § 1, kan de regering, buiten de gevallen zoals bedoeld in artikel 100, in gemeenten met een bevolkingsdichtheid van meer dan 1500 inwoners per km2 een nieuwe school voor gewoon basisonderwijs per 1 september in de financierings- of subsidieregeling opnemen als aan de volgende cumulatieve voorwaarden voldaan is :<br />1° op de eerste schooldag van oktober van het oprichtingsjaar bereikt de school de door de regering vastgestelde programmatienormen;<br />2° de school is gelegen op afstand van minimaal 250 meter van elke andere school of vestigingsplaats voor gewoon kleuter-, lager, of basisonderwijs van dezelfde groep;<br />3° de school wordt niet opgericht op hetzelfde of een aangrenzend kadastraal perceel waar reeds een bestaande gefinancierde of gesubsidieerde school of vestigingsplaats voor gewoon kleuter-, lager, of basisonderwijs van dezelfde groep gevestigd is.<br /><br />§ 2. In afwijking van artikel 3, 8°, wordt in § 1 onder de « bevolkingsdichtheid » verstaan « de bevolkingsdichtheid zoals deze berekend werd door de federale instantie die bevoegd is voor de coördinatie van de openbare statistiek en zoals dat op de eerste schooldag van februari voorafgaand aan de start van het schooljaar beschikbaar is.
+§ 1. In afwijking van artikel 102, § 1, kan de regering, buiten de gevallen zoals bedoeld in artikel 100, in gemeenten met een bevolkingsdichtheid van meer dan 1500 inwoners per km2 een nieuwe school voor gewoon basisonderwijs per 1 september in de financierings- of subsidieregeling opnemen als aan de volgende cumulatieve voorwaarden voldaan is :<br>
+1° op de eerste schooldag van oktober van het oprichtingsjaar bereikt de school de door de regering vastgestelde programmatienormen;<br>
+2° de school is gelegen op afstand van minimaal 250 meter van elke andere school of vestigingsplaats voor gewoon kleuter-, lager, of basisonderwijs van dezelfde groep;<br>
+3° de school wordt niet opgericht op hetzelfde of een aangrenzend kadastraal perceel waar reeds een bestaande gefinancierde of gesubsidieerde school of vestigingsplaats voor gewoon kleuter-, lager, of basisonderwijs van dezelfde groep gevestigd is.<br>
+<br>
+§ 2. In afwijking van artikel 3, 8°, wordt in paragraaf 1 verstaan onder bevolkingsdichtheid: het aantal inwoners per vierkante kilometer dat opgenomen is in de gemeentemonitor van de Vlaamse overheid en dat op de eerste schooldag van februari voorafgaand aan de start van het schooljaar beschikbaar is.
 
 ### ART. 173quater.
 
@@ -4200,7 +4357,11 @@ De scholen die op 1 september 1995 en op 1 september 1996 ontstaan zijn uit een 
 
 ### ART. 194quater.
 
-§ 1. Aan iedere school voor gewoon kleuter-, lager- en basisonderwijs, die   geen deel uit maakt van een scholengemeenschap, wordt jaarlijks op basis van het   aantal regelmatige leerlingen ingeschreven op de teldag of op basis van het   gemiddelde aantal regelmatige leerlingen tijdens de telperiode die van   toepassing is voor de berekening van de lestijden volgens de schalen, een   puntenenveloppe voor het voeren van een zorgbeleid toegekend.<BR><BR>§ 2. De   regering bepaalt de personeelscategorieën en ambten waarin op basis van de   puntenenveloppe betrekkingen kunnen worden ingericht en bepaalt op welke wijze   de omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen   gebeurt.
+§ 1. Aan iedere school voor gewoon kleuter-, lager- en basisonderwijs, die geen deel uit maakt van een scholengemeenschap, wordt jaarlijks op basis van het aantal regelmatige leerlingen ingeschreven op de teldag of op basis van het gemiddelde aantal regelmatige leerlingen tijdens de telperiode die van toepassing is voor de berekening van de lestijden volgens de schalen, een puntenenveloppe voor het voeren van een zorgbeleid toegekend.<br>
+<br>
+§ 2. De regering bepaalt de personeelscategorieën en ambten waarin op basis van de puntenenveloppe betrekkingen kunnen worden ingericht en bepaalt op welke wijze de omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen gebeurt.<br>
+<br>
+Minstens 20% van de puntenenveloppe voor het voeren van een zorgbeleid dient in de scholen van het gewoon basisonderwijs aangewend te worden voor leerlingondersteuning in de klas. Dit percentage stijgt naar 25% in het schooljaar 20212022, 30% in het schooljaar 2022-2023 en 35% in het schooljaar 2023-2024. Deze leerlingondersteuning kadert in de toepassing van artikel 47bis, derde lid, en artikel 153septies, 3°, van het decreet.
 
 ### ART. 194 quinquies.
 
