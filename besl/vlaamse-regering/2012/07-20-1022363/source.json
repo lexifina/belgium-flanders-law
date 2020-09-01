@@ -2,16 +2,16 @@
   "codex_id": 1022363,
   "title": "Besluit van de Vlaamse Regering van 2012-07-20 tot uitvoering van het Wapenhandeldecreet van 15 juni 2012 (citeeropschrift: \"het Wapenhandelbesluit van 20 juli 2012\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022363/VolledigDocument?datum=2018-05-06",
-  "source_sha256": "ac52529a1ed68d529991f427bbf0397afb850aa64e9da9d22abd3f8cf21841c3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022363/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "39a7c1addc01d64df00402209fc734cf6fb9553e837654b8e514e51fc814becd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022363&param=informatie",
-  "as_of": "2018-05-06",
+  "as_of": "2020-09-01",
   "made": "2012-07-20",
   "gazette": "2012-10-09",
   "numac": 2012205538,
   "document_start": "2012-06-30",
   "document_end": null,
-  "in_force": "2018-05-06",
+  "in_force": "2020-09-01",
   "article_versions": 81,
-  "record_form": "consolidated version as in force on 2018-05-06; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
 }

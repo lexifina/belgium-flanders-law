@@ -17,7 +17,7 @@ Dit besluit voorziet in de verdere omzetting, voor wat betreft de bevoegdheden v
 ### ART. 3.
 
 In dit besluit wordt verstaan onder :<br>
-1° bevoegde dienst : de secretaris-generaal van het Departement Buitenlandse Zaken en de personeelsleden onder zijn gezag die hij aanwijst;<br>
+1° bevoegde dienst : de secretaris-generaal van het Departement Kanselarij en Buitenlandse Zaken en de personeelsleden onder zijn gezag die hij aanwijst;<br>
 2° gemeenschappelijke EU-lijst van militaire goederen : lijst van goederen waarop Gemeenschappelijk Standpunt 2008/944/GBVB van de Raad tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is, zoals die laatst is gepubliceerd in het Publicatieblad van de Europese Unie;<br>
 3° minister : de Vlaamse minister die gezag uitoefent over de bevoegde dienst, vermeld in punt 1°;<br>
 4° niet-essentiële onderdelen : de onderdelen, vermeld in de gemeenschappelijke EU-lijst van militaire goederen, waarvan de aard en betekenis in relatie tot de defensiegerelateerde producten waarin ze geïntegreerd zullen worden, beperkt zijn.
@@ -937,19 +937,19 @@ De kennisgeving vermeldt het recht van de aanvrager om tegen de beslissing beroe
 
 ### ART. 53.
 
-§ 1. De secretaris-generaal van het&nbsp;Departement Buitenlandse Zaken wijst de personeelsleden, vermeld in artikel 46, § 1, van het Wapenhandeldecreet, aan die gemachtigd zijn toezicht te houden op de naleving van het voormelde decreet en de uitvoeringsbesluiten ervan.<br>
+§ 1. De secretaris-generaal van het&nbsp;Departement Kanselarij en Buitenlandse Zaken wijst de personeelsleden, vermeld in artikel 46, § 1, van het Wapenhandeldecreet, aan die gemachtigd zijn toezicht te houden op de naleving van het voormelde decreet en de uitvoeringsbesluiten ervan.<br>
 <br>
 De vorm en de inhoud van de legitimatiekaarten van de aangewezen personen zijn conform de bepalingen van het besluit van de Vlaamse Regering van 10 juli 2008 betreffende de legitimatiekaarten van de personeelsleden van de diensten van de Vlaamse overheid die belast zijn met inspectie- of controlebevoegdheden.<br>
 <br>
-§ 2. De secretaris-generaal van het Departement Buitenlandse Zaken kent ook de hoedanigheid van officier van gerechtelijke politie toe aan een of meer toezichthouders die over de vereiste kwalificaties en eigenschappen beschikken.
+§ 2. De secretaris-generaal van het Departement Kanselarij en Buitenlandse Zaken kent ook de hoedanigheid van officier van gerechtelijke politie toe aan een of meer toezichthouders die over de vereiste kwalificaties en eigenschappen beschikken.
 
 ## TITEL 2. Procedure voor het opleggen van administratieve sancties en de nadere regels van de uitvoering ervan
 
 ### ART. 54.
 
-De administratieve sancties, vermeld in artikel 48 van het Wapenhandeldecreet, worden namens de Vlaamse Regering opgelegd door de secretaris-generaal van het Departement Buitenlandse Zaken overeenkomstig de procedure, vermeld in artikel 55.<br>
+De administratieve sancties, vermeld in artikel 48 van het Wapenhandeldecreet, worden namens de Vlaamse Regering opgelegd door de secretaris-generaal van het Departement Kanselarij en Buitenlandse Zaken overeenkomstig de procedure, vermeld in artikel 55.<br>
 <br>
-De secretaris-generaal van het Departement Buitenlandse Zaken kan die bevoegdheid delegeren aan een of meer personeelsleden van zijn departement.
+De secretaris-generaal van het Departement Kanselarij en Buitenlandse Zaken kan die bevoegdheid delegeren aan een of meer personeelsleden van zijn departement.
 
 ### ART. 55.
 
