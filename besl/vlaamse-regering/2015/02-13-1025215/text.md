@@ -47,16 +47,18 @@ Als de leerling de school voor gewoon of buitengewoon onderwijs verlaat, bezorgt
 
 ### ART. 6.
 
-<p>Het gemotiveerd verslag bevat ten minste de volgende analysegegevens:<br>
-1° de synthese van het handelingsgericht diagnostisch&nbsp;traject als onderdeel van de fase van uitbreiding van zorg, vermeld in artikel 3, 53° bis, van het decreet van 25 februari 1997 en artikel 3, 44° /1, van de Codex Secundair Onderwijs van 17 december 2010. In de schriftelijke rapportering worden ten minste de volgende elementen opgenomen:<br>
-a) een beschrijving van de specifieke onderwijsbehoeften en de sterktes van de leerling;<br>
-b) een beschrijving van de ondersteuningsbehoeften van de ouders die samengaan met de specifieke onderwijsbehoeften van de leerling;<br>
-c) een beschrijving van de ondersteuningsbehoeften van het schoolteam die samengaan met de specifieke onderwijsbehoeften van de leerling. De school voor gewoon onderwijs formuleert die ondersteuningsbehoeften in overleg met de leerling, de ouders, het schoolteam en het centrum voor leerlingenbegeleiding;<br>
-d) een beschrijving van de maatregelen, met inbegrip van compenserende of dispenserende maatregelen, die voor de leerling al genomen werden of nodig zijn;<br>
-e) de motivering dat de ondersteuning in het kader van het ondersteuningsmodel, in combinatie met de maatregelen, vermeld in punt d), nodig en voldoende zijn om de leerling binnen het gemeenschappelijk curriculum te laten participeren;<br>
+<p>In het multidisciplinair dossier van de leerling worden de volgende analysegegevens geregistreerd:<br>
+1° de synthese van het handelingsgericht diagnostisch traject als onderdeel van de fase van uitbreiding van zorg, vermeld in artikel 3, 53° bis, van het decreet van 25 februari 1997, en artikel 3, 44° /1, van de Codex Secundair Onderwijs van 17 december 2010. De volgende elementen worden geregistreerd :<br>
+a) een beschrijving van de onderwijsbehoeften van de leerling en de ondersteuningsbehoeften van de ouders en het schoolteam. De school voor gewoon onderwijs formuleert die ondersteuningsbehoeften in overleg met de leerling, de ouders, het schoolteam en het centrum voor leerlingenbegeleiding;<br>
+b) een beschrijving van de maatregelen, met inbegrip van compenserende of dispenserende maatregelen, die voor de leerling al genomen zijn of nodig zijn;<br>
+c) de motivering dat de ondersteuning in het kader van het ondersteuningsmodel, in combinatie met de maatregelen, vermeld in punt b), nodig en voldoende is om de leerling in het gemeenschappelijk curriculum te laten participeren;<br>
 2° de aanduiding van het type door de omschrijving van de specifieke deskundigheid die vereist is vanuit een of meer van de types, vermeld in artikel 10, § 1, eerste lid, 1° tot en met 4° en 6° tot en met 8°, van het decreet basisonderwijs van 25 februari 1997 en artikel 259, § 1, 1° tot en met 4° en 6° tot en met 8°, van de Codex Secundair Onderwijs van 17 december 2010.<br>
 3° een algemene omschrijving van de ondersteuning die de school voor gewoon onderwijs nodig heeft en de wijze waarop de school voor buitengewoon onderwijs daaraan tegemoet kan komen. Dat gebeurt in dialoog tussen de school voor gewoon onderwijs, de ouders, het CLB en de school voor buitengewoon onderwijs of het ondersteuningsnetwerk;<br>
-4° de beschrijving van eventuele andere ondersteuning door onderwijsexterne diensten.</p>
+4° de beschrijving van eventuele andere ondersteuning door onderwijsexterne diensten.<br>
+<br>
+Het gemotiveerd verslag neemt de vorm aan van het handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel, vermeld in artikel 172quinquies en 172quinquies/1 van het decreet van 25 februari 1997 en artikel 314/8 en 314/9 van de Codex Secundair Onderwijs van 17 december 2010. Het handelingsgericht advies wordt geregistreerd in het multidisciplinair dossier van de leerling.<br>
+<br>
+De datum van registratie van het handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel in het multidisciplinair dossier van de leerling geldt als datum van opmaak van het gemotiveerd verslag. Het handelingsgericht advies bevat ook een ingangsdatum.</p>
 
 ### ART. 7.
 
@@ -68,18 +70,7 @@ e) de motivering dat de ondersteuning in het kader van het ondersteuningsmodel, 
 
 ### ART. 9.
 
-<p>§ 1. Het gemotiveerd verslag bevat de identificatiegegevens van de verschillende betrokken partijen. Het betreft:<br>
-1° de leerling: voornaam, achternaam, geboortedatum en adres;<br>
-2° de ouders: voornaam, achternaam en adres;<br>
-3° de school voor gewoon onderwijs waar de leerling ingeschreven is: naam, adres en instellingsnummer;<br>
-4° het centrum voor leerlingenbegeleiding dat de school voor gewoon onderwijs begeleidt en dat het gemotiveerd verslag opmaakt: naam, adres en instellingsnummer;<br>
-5° de school voor buitengewoon onderwijs die de ondersteuning biedt: naam, adres en instellingsnummer.</p>
-
-<p>§ 2. De directeur van het centrum voor leerlingenbegeleiding van de school voor gewoon onderwijs waar de leerling is ingeschreven en de ouders bevestigen hun engagement via hun handtekening.<br>
-<br>
-Als de ouders het gemotiveerd verslag niet ondertekenen, kan ondersteuning niet leerlinggericht ingezet worden. De weigering kan een inzet van ondersteuning gericht op de school, de leraar of het lerarenteam echter niet verhinderen.</p>
-
-<p>§ 3. Het gemotiveerd verslag bevat de datum waarop dat gemotiveerd verslag is ondertekend en de ingangsdatum. De datum van ondertekening is ook de datum van registratie in het registratiesysteem van de centra voor leerlingenbegeleiding</p>
+<p>...</p>
 
 ### ART. 10.
 
