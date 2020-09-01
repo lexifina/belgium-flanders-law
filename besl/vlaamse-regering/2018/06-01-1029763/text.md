@@ -100,13 +100,15 @@ ii) Restaurant en keuken;<br>
 5° in het buitengewoon secundair onderwijs, opleidingsvorm 3: de observatiefase;<br>
 6° in het buitengewoon secundair onderwijs, opleidingsvorm 3, opleidingsfase, kwalificatiefase en integratiefase: de opleidingen zoals opgenomen in de matrix.<br>
 <br>
-Een basisoptie, gevolgd door het symbool "(*)", als vermeld in het eerste lid, is een niche-basisoptie. In bijlage 1, die bij dit besluit is gevoegd, worden per niche-basisoptie de beperkingen vermeld, uitgedrukt in een maximum aantal scholen per onderwijsnet, die aan het aanbod van die basisoptie zijn gekoppeld.<br>
+Een basisoptie, gevolgd door het symbool "(*)", als vermeld in het eerste lid, is een niche-basisoptie. Voor een niche-basisoptie geldt een aanbodbeperking waar de Vlaamse Regering rekening mee houdt bij haar beslissing tot programmatie van de basisoptie in kwestie door een bepaalde school waarvoor het schoolbestuur een aanvraagdossier heeft ingediend.<br>
 <br>
 Een pakket, gevolgd door het symbool "(*)", als vermeld in het eerste lid, is een niche-pakket. In bijlage 1, die bij dit besluit is gevoegd, worden per niche-pakket de beperkingen vermeld, uitgedrukt in een maximum aantal scholen per onderwijsnet, die aan het aanbod van dat pakket zijn gekoppeld.<br>
 <br>
 De matrix is opgenomen in bijlage 2, die bij dit besluit is gevoegd. Voor structuuronderdelen die tot een onderwijskwalificatie leiden, wordt de onderwijskwalificatie in kwestie geacht te voldoen aan de criteria, vermeld in artikel 15, tweede lid, van het decreet van 30 april 2009 betreffende de kwalificatiestructuur.<br>
 <br>
-Elk structuuronderdeel in bijlage 2 met uitzondering van de domeinoverschrijdende ASO opleidingen kan ook als structuuronderdeel duaal worden georganiseerd, behoudens de structuuronderdelen duaal die al in de matrix in bijlage 2 zijn opgenomen. In afwachting van de uitrol van de modernisering van het secundair onderwijs geldt voor een structuuronderdeel duaal het standaardtraject waarin de werkplekcomponent is opgenomen..<br>
+Elk structuuronderdeel in bijlage 2 met uitzondering van de domeinoverschrijdende ASO opleidingen kan ook als structuuronderdeel duaal worden georganiseerd, behoudens de structuuronderdelen duaal die al in de matrix in bijlage 2 zijn opgenomen. In afwachting van de uitrol van de modernisering van het secundair onderwijs geldt voor een structuuronderdeel duaal het standaardtraject waarin de werkplekcomponent is opgenomen.<br>
+<br>
+Een structuuronderdeel dat gevolgd wordt door het symbool "(*)" in de matrix, vermeld in het eerste lid, is een niche-structuuronderdeel. Voor een niche-structuuronderdeel geldt een aanbodbeperking waar de Vlaamse Regering rekening mee houdt bij haar beslissing tot programmatie van het structuuronderdeel in kwestie door een bepaalde school waarvoor het schoolbestuur een aanvraagdossier heeft ingediend.<br>
 <br>
 § 2. Met het oog op de uitwerking van de getrapte studiekeuze, die start met de keuze voor een basisoptie als dusdanig of in voorkomend geval de invulling via pakket, moeten de basisopties en pakketten inhoudelijk duidelijk onderscheiden zijn, zonder dat deze keuze in de eerste graad de opstroom naar de tweede graad uitsluit.<br>
 <br>
@@ -155,7 +157,7 @@ d) de artikelen 6 tot en met 8bis en de bijlagen III, III/1, III/2, III/3, III/4
 
 ### ART 4/1.
 
-Met toepassing van artikel 14 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur is de samenstelling van de structuuronderdelen met dubbele finaliteit of finaliteit arbeidsmarkt van de matrix, voor beroepskwalificaties en deelkwalificaties, opgenomen in bijlage 4/1, die bij dit besluit is gevoegd.
+Voor elk structuuronderdeel met dubbele finaliteit of finaliteit arbeidsmarkt uit de matrix is de samenstelling van een of meer beroepskwalificaties, deelkwalificaties of sets van competenties uit beroepskwalificaties opgenomen in bijlage 4/1 die bij dit besluit is gevoegd.
 
 ## [HOOFDSTUK 1/1. Lesuren in opleidingsvorm 3 (ing. BVR 22 september 2023, art. 63, I: 1 september 2025)]
 
@@ -168,6 +170,13 @@ Aan artikel 2, § 1, van het besluit van de Vlaamse Regering van 5 juni 1989 tot
 "Alle levende talen worden ook als algemene vakken beschouwd.".
 
 ## HOOFDSTUK 3. Wijzigingen van het besluit van de Vlaamse regering van 19 juli 2002
+
+### ART 6.
+
+In artikel 2 van het besluit van de Vlaamse regering van 19 juli 2002 betreffende de organisatie van het voltijds secundair onderwijs, gewijzigd bij de besluiten van de Vlaamse Regering van 7 september 2007, 9 oktober 2009, 17 december 2010, 7 september 2012 en 20 juni 2014, wordt punt 1° vervangen door wat volgt:<br>
+"1° wordt verstaan onder "onderverdeling":<br>
+a) in het tweede leerjaar A en het tweede leerjaar B van de eerste graad: een basisoptie;<br>
+b) in de leerjaren van de tweede en de derde graad: een studierichting;".
 
 ### ART 7.
 
@@ -182,6 +191,30 @@ Artikel 7 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Reger
 1° de houders van het getuigschrift dat aangeeft welke doelen de leerling in het basisonderwijs heeft bereikt;<br>
 2° de leerlingen die geen houder zijn van het getuigschrift van basisonderwijs of van het getuigschrift dat aangeeft welke doelen de leerling in het basisonderwijs heeft bereikt, maar uiterlijk op 31 december na de aanvang van het schooljaar de leeftijd van twaalf jaar bereiken;<br>
 3° de leerlingen die tijdens het schooljaar overgaan van het eerste leerjaar A naar het eerste leerjaar B op voorwaarde van een gunstige beslissing van de toelatingsklassenraad.".
+
+### ART 9.
+
+Artikel 8 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 september 2007, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 8. Met behoud van de toepassing van artikel 31 kunnen de volgende leerlingen als regelmatige leerlingen tot het tweede leerjaar A worden toegelaten:<br>
+1° de leerlingen die het eerste leerjaar A met vrucht hebben beëindigd;<br>
+2° de leerlingen die het eerste leerjaar B met vrucht hebben beëindigd op voorwaarde van een gunstige beslissing van de toelatingsklassenraad;<br>
+3° de leerlingen die het tweede leerjaar B met vrucht hebben beëindigd in een andere basisoptie dan de opstroomoptie op voorwaarde van een gunstige beslissing van de toelatingsklassenraad;<br>
+4° de leerlingen die het tweede leerjaar B met vrucht hebben beëindigd in de opstroomoptie;<br>
+5° de leerlingen die tijdens het schooljaar overgaan van het tweede leerjaar B naar het tweede leerjaar A op voorwaarde van een gunstige beslissing van de toelatingsklassenraad.<br>
+<br>
+Met behoud van de toepassing van artikel 31 is de verandering van basisoptie in het tweede leerjaar A tijdens het schooljaar toegestaan op voorwaarde van een gunstige beslissing van de toelatingsklassenraad.".
+
+### ART 10.
+
+Artikel 9 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 september 2007 en 12 september 2008, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 9. Met behoud van de toepassing van artikel 31 kunnen de volgende leerlingen als regelmatige leerlingen tot het tweede leerjaar B worden toegelaten:<br>
+1° de leerlingen die het eerste leerjaar A met of zonder vrucht hebben beëindigd;<br>
+2° de leerlingen die het eerste leerjaar B met of zonder vrucht hebben beëindigd;<br>
+3° de leerlingen die uiterlijk op 31 december na de aanvang van het schooljaar de leeftijd van veertien jaar bereiken;<br>
+4° de leerlingen die tijdens het schooljaar overgaan van het tweede leerjaar A naar het tweede leerjaar B op voorwaarde van een gunstige beslissing van de toelatingsklassenraad.<br>
+Met behoud van de toepassing van artikel 31, is de verandering van een of meer basisopties in het tweede leerjaar B tijdens het schooljaar toegestaan op voorwaarde van een gunstige beslissing van de toelatingsklassenraad.".
 
 ### ART 14.
 
@@ -203,6 +236,14 @@ Voor uitzonderlijke gevallen kan tijdens het schooljaar 2019-2020 worden afgewek
 ### ART 16.
 
 Artikel 34bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 juni 2010 en gewijzigd bij het besluit van de Vlaamse Regering van 7 september 2012, wordt opgeheven.
+
+### ART 17.
+
+In artikel 34quater van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 juni 2010 en gewijzigd bij het besluit van de Vlaamse Regering van 7 september 2012, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in punt 5° worden de woorden "een eerste leerjaar van de eerste graad" vervangen door de zinsnede "het eerste leerjaar A of het eerste leerjaar B";<br>
+<br>
+2° in punt 6° worden de woorden "het tweede leerjaar van de eerste graad" vervangen door de zinsnede "het tweede leerjaar A".
 
 ### ART 18.
 
@@ -267,6 +308,14 @@ Het model van het oriënteringsattest C en de onderrichtingen voor het invullen 
 
 Artikel 40 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 9 oktober 2009, 4 juni 2010 en 20 juni 2014, wordt opgeheven.
 
+### ART 23.
+
+In artikel 42, eerste lid, van hetzelfde besluit worden de woorden "het beroepsvoorbereidend leerjaar" vervangen door de zinsnede "het tweede leerjaar B".
+
+### ART 24.
+
+In artikel 43, eerste lid, van hetzelfde besluit worden de woorden "het tweede leerjaar van de eerste graad en van het beroepsvoorbereidend leerjaar" vervangen door de zinsnede "het tweede leerjaar A en van het tweede leerjaar B".
+
 ### ART 25.
 
 Artikel 60 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 september 2012, wordt vervangen door wat volgt:<br>
@@ -281,9 +330,30 @@ Artikel 60 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Reger
 
 In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 7 juli 2017, wordt een bijlage 1bis ingevoegd, die als bijlage 5 bij dit besluit is gevoegd.
 
+### ART 27.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 7 juli 2017, wordt een bijlage 1ter ingevoegd, die als bijlage 6 bij dit besluit is gevoegd.
+
+### ART 28.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 7 juli 2017, wordt een bijlage 2bis ingevoegd, die als bijlage 7 bij dit besluit is gevoegd.
+
 ### ART 29.
 
 In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 7 juli 2017, wordt een bijlage 3bis ingevoegd, die als bijlage 8 bij dit besluit is gevoegd.
+
+### ART 30.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 7 juli 2017, wordt een bijlage 3ter ingevoegd, die als bijlage 9 bij dit besluit is gevoegd.
+
+### ART 31.
+
+In bijlage 5 bij hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 september 2007 en 7 september 2012, worden de woorden "het beroepsvoorbereidend leerjaar" vervangen door de zinsnede "het tweede leerjaar B".
+
+### ART 32.
+
+In bijlage 6 bij hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 september 2007 en 7 september 2012, wordt de bepaling "(3) "tweede leerjaar van de eerste graad" of "beroepsvoorbereidend leerjaar" vervangen door de bepaling:<br>
+"(3) "tweede leerjaar A" of "tweede leerjaar B".
 
 ## HOOFDSTUK 4. Slotbepalingen
 
@@ -301,23 +371,23 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/09/28_1.pdf#page=40">Aanbodbeperkingen voor niche-basisopties en niche-paketten</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/28_1.pdf#page=51">Bijlage 1</a>
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/28_1.pdf#page=53">Bijlage 2</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/09/18_1.pdf#page=161">Matrix secundair onderwijs</a>
 
 ### BIJLAGE 3
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/09/28_1.pdf#page=49">http://www.ejustice.just.fgov.be/mopdf/2018/09/28_1.pdf#page=49</a>
+...
 
 ### BIJLAGE 4
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/28_1.pdf#page=69">Bijlage 4</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/09/18_1.pdf#page=177">Concordantietabellen</a>
 
 ### BIJLAGE 4/1.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/28_1.pdf#page=149">Bijlage 4/1</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/09/18_1.pdf#page=291">Samenstelling van structuuronderdelen</a>
 
 ### BIJLAGE 5
 
