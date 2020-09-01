@@ -10,7 +10,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 Onder de Vlaamse socio-culturele sector wordt verstaan de sectoren zoals bedoeld in artikel 1, 1°, 2°, 3°, 4°, 5°, 6°, 7°, 8°, 9°, 10°, 11°, 12°, 13°, 14° en 15° van het koninklijk besluit van 28 oktober 1993 betreffende het bevoegdheidsgebied van het Paritair Comité voor de socio-culturele sector, zoals gewijzigd bij het koninklijk besluit van 13 november 1996 en bij het koninklijk besluit van 13 december 2000;<br>
 3° voltijdse arbeidsregeling: de voltijdse arbeidsregeling van toepassing op de werknemer, rekening houdend met de leeftijd, en bepaald in het arbeidsreglement dat in de instelling van toepassing is, of in elk ander document dat hiertoe wordt bijgehouden wanneer de werkgever geen arbeidsreglement dient op te maken. Voor het bepalen van de voltijdse arbeidsregeling worden de schorsingen van de arbeidsovereenkomst gelijkgesteld met arbeidsprestaties zoals deze vóór de schorsing werden geleverd;<br>
 4° volledige loopbaanonderbreking : de onderbreking van de beroepsloopbaan, vermeld in artikel 100 tot en met 101bis van de herstelwet van 22 januari 1985 houdende sociale bepalingen, waarvoor een onderbrekingsuitkering wordt toegekend;<br>
-5° gedeeltelijke loopbaanonderbreking : de vermindering van de arbeidsprestaties met de helft of een vijfde van het normale aantal uren van een voltijdse betrekking, vermeld in artikel 102 tot en met 103 van de herstelwet van 22 januari 1985 houdende sociale bepalingen, waarvoor een onderbrekingsuitkering wordt toegekend;<br>
+5° gedeeltelijke loopbaanonderbreking : de vermindering van de arbeidsprestaties met de helft, een vijfde of een tiende van het normale aantal uren van een voltijdse betrekking, vermeld in artikel 102 tot en met 103 van de herstelwet van 22 januari 1985 houdende sociale bepalingen, waarvoor een onderbrekingsuitkering wordt toegekend;<br>
 6° tijdskrediet : de volledige schorsing van de arbeidsprestaties of de vermindering van de arbeidsprestaties tot een halftijdse betrekking, vermeld in artikel 3, 4 en 5 van de collectieve arbeidsovereenkomsten nr. 77bis van 19 december 2001 en nr. 103 van 27 juni 2012, waarvoor een uitkering tijdskrediet wordt toegekend;<br>
 7° landingsbaan : de vermindering van de arbeidsprestaties tot een halftijdse betrekking voor werknemers van vijftig jaar en ouder, vermeld in artikel 9 en 10 van de collectieve arbeidsovereenkomsten nr. 77bis van 19 december 2001 en nr. 103 van 27 juni 2012 tot invoering van een stelsel van tijdskrediet, loopbaanvermindering en vermindering van de arbeidsprestaties tot een halftijdse betrekking;<br>
 8° schorsing: de dagen van schorsing van de arbeidsovereenkomst<br>
@@ -41,7 +41,8 @@ De volgende verloven worden gelijkgesteld met het tijdskrediet, vermeld in het e
 1° het ouderschapsverlof, vermeld in het koninklijk besluit van 29 oktober 1997 tot invoering van een recht op ouderschapsverlof in het kader van de onderbreking van de beroepsloopbaan;<br>
 2° het verlof voor medische bijstand, vermeld in het koninklijk besluit van 10 augustus 1998 tot invoering van een recht op loopbaanonderbreking voor bijstand of verzorging van een zwaar ziek gezins- of familielid;<br>
 3° het verlof voor palliatieve zorgen, vermeld in artikel 100bis en 102bis van de herstelwet van 22 januari 1985 houdende sociale bepalingen;<br>
-4° de loopbaanonderbrekingen door de Rijksdienst voor Arbeidsvoorziening die beslist zijn vóór 31 december 2001.
+4° het verlof voor erkende mantelzorgers, vermeld in artikel 100ter van de herstelwet van 22 januari 1985 houdende sociale bepalingen.<br>
+&nbsp;
 
 ## HOOFDSTUK II TOEPASSINGSGEBIED
 
@@ -63,7 +64,11 @@ De aanmoedigingspremies als bedoeld in de artikelen 4, 7, 10, 14 en 18 van dit b
 
 ### ART. 4.
 
-§ 1. Aan de werknemer, tewerkgesteld in de Vlaamse social profitsector,   kan een aanmoedigingspremie aanvullend bij de onderbrekingsuitkering worden   toegekend voor het opnemen van een in het akkoord voorzien zorgkrediet. Het   betreft hier de werknemer die zijn loopbaan volledig of gedeeltelijk onderbreekt   om een ouderschapsverlof, een verlof voor medische bijstand of een verlof voor   palliatieve zorgen op te nemen, zoals gelijkgesteld met tijdskrediet in artikel   1, 6°, van dit besluit.<BR><BR>§ 2. De aanmoedigingspremie in het kader van het   zorgkrediet kan tijdens de beroepsloopbaan gedurende maximum één jaar worden   toegekend. Voor het bepalen van de maximumduur van één jaar wordt gerekend vanaf   1 januari 2001.<BR><BR>§ 3. Voor het bepalen van de in § 2 vermelde maximumduur   wordt de aanmoedigingspremie, toegekend in het kader van het loopbaankrediet of   het opleidingskrediet, niet meegerekend.
+§ 1. Aan de werknemer, tewerkgesteld in de Vlaamse social profitsector, kan een aanmoedigingspremie aanvullend bij de onderbrekingsuitkering worden toegekend voor het opnemen van een in het akkoord voorzien zorgkrediet. Het betreft hier de werknemer die zijn loopbaan volledig of gedeeltelijk onderbreekt om een ouderschapsverlof, een verlof voor medische bijstand , een verlof voor palliatieve zorgen of een verlof voor erkende mantelzorgers op te nemen, zoals gelijkgesteld met tijdskrediet in artikel 1, 6°, van dit besluit.<br>
+<br>
+§ 2. De aanmoedigingspremie in het kader van het zorgkrediet kan tijdens de beroepsloopbaan gedurende maximum één jaar worden toegekend. Voor het bepalen van de maximumduur van één jaar wordt gerekend vanaf 1 januari 2001.<br>
+<br>
+§ 3. Voor het bepalen van de in § 2 vermelde maximumduur wordt de aanmoedigingspremie, toegekend in het kader van het loopbaankrediet of het opleidingskrediet, niet meegerekend.
 
 ### ART. 5.
 
@@ -71,7 +76,17 @@ De aanmoedigingspremies als bedoeld in de artikelen 4, 7, 10, 14 en 18 van dit b
 
 ### ART. 6.
 
-<P>De werknemer die gedurende twaalf maanden voorafgaand aan de aanvang van het   zorgkrediet tewerkgesteld is geweest in een arbeidsregeling die minimaal 75 %   van de voltijdse arbeidsregeling bedraagt en zijn arbeidsprestaties volledig   schorst, ontvangt per maand een aanmoedigingspremie van 421 euro   bruto.<BR><BR>De werknemer die gedurende twaalf maanden voorafgaand aan de   aanvang van het zorgkrediet tewerkgesteld is geweest in een arbeidsregeling die   minimaal 50 % van de voltijdse arbeidsregeling bedraagt en zijn   arbeidsprestaties volledig schorst, ontvangt per maand een aanmoedigingspremie   van 223 euro bruto.<BR><BR>De werknemer die gedurende twaalf maanden voorafgaand   aan de aanvang van het zorgkrediet tewerkgesteld is geweest in een   arbeidsregeling die minimaal 75 % van de voltijdse arbeidsregeling bedraagt en   zijn arbeidsprestaties vermindert tot een halftijdse betrekking, ontvangt per   maand een aanmoedigingspremie van 223 euro bruto.<BR><BR>De werknemer die   gedurende twaalf maanden voorafgaand aan de aanvang van het zorgkrediet   tewerkgesteld is geweest in een arbeidsregeling die minimaal 75 % van de   voltijdse arbeidsregeling bedraagt en zijn arbeidsprestaties vermindert met 20 %   van de voltijdse arbeidsregeling, ontvangt per maand een aanmoedigingspremie van   125 euro bruto.<BR><BR>De werknemer die gedurende twaalf maanden voorafgaand aan   de aanvang van het zorgkrediet tewerkgesteld is geweest in een deeltijdse   arbeidsregeling van minimaal 20 % en minder dan 50 % van de voltijdse   arbeidsregeling en zijn arbeidsprestaties volledig schorst, ontvangt per maand   een aanmoedigingspremie van 125 euro bruto.</P>
+<p>De werknemer die gedurende twaalf maanden voorafgaand aan de aanvang van het zorgkrediet tewerkgesteld is geweest in een arbeidsregeling die minimaal 75 % van de voltijdse arbeidsregeling bedraagt en zijn arbeidsprestaties volledig schorst, ontvangt per maand een aanmoedigingspremie van 421 euro bruto.<br>
+<br>
+De werknemer die gedurende twaalf maanden voorafgaand aan de aanvang van het zorgkrediet tewerkgesteld is geweest in een arbeidsregeling die minimaal 50 % van de voltijdse arbeidsregeling bedraagt en zijn arbeidsprestaties volledig schorst, ontvangt per maand een aanmoedigingspremie van 223 euro bruto.<br>
+<br>
+De werknemer die gedurende twaalf maanden voorafgaand aan de aanvang van het zorgkrediet tewerkgesteld is geweest in een arbeidsregeling die minimaal 75 % van de voltijdse arbeidsregeling bedraagt en zijn arbeidsprestaties vermindert tot een halftijdse betrekking, ontvangt per maand een aanmoedigingspremie van 223 euro bruto.<br>
+<br>
+De werknemer die gedurende twaalf maanden voorafgaand aan de aanvang van het zorgkrediet tewerkgesteld is geweest in een arbeidsregeling die minimaal 75 % van de voltijdse arbeidsregeling bedraagt en zijn arbeidsprestaties vermindert met 20 % van de voltijdse arbeidsregeling, ontvangt per maand een aanmoedigingspremie van 125 euro bruto.<br>
+<br>
+De werknemer die gedurende twaalf maanden voorafgaand aan de aanvang van het zorgkrediet tewerkgesteld is geweest in een deeltijdse arbeidsregeling van minimaal 20 % en minder dan 50 % van de voltijdse arbeidsregeling en zijn arbeidsprestaties volledig schorst, ontvangt per maand een aanmoedigingspremie van 125 euro bruto.<br>
+<br>
+De werknemer die gedurende twaalf maanden vóór de aanvang van het zorgkrediet gewerkt heeft in een arbeidsregeling die minimaal 75% van de voltijdse arbeidsregeling bedraagt en zijn arbeidsprestaties vermindert met 10% van de voltijdse arbeidsregeling, ontvangt per maand een aanmoedigingspremie van 62,50 euro bruto.</p>
 
 ## AFDELING 2 AANMOEDIGINGSPREMIE IN HET KADER VAN HET LOOPBAANKREDIET
 
@@ -273,7 +288,9 @@ De persoonsgegevens die overeenkomstig dit besluit worden opgevraagd, worden sle
 <br>
 § 5. In afwijking van artikel 24, § 1, van dit besluit is de aanvraag voor het bekomen van de aanmoedigingspremie, met betrekking tot de premie-aanvragen waarvan het tijdskrediet is aangevangen in de periode tussen 1 januari 2002 en 31 mei 2002, geldig als ze ingediend wordt binnen negen maanden na aanvang van de loopbaanonderbreking waarvoor de aanmoedigingspremie wordt aangevraagd.<br>
 <br>
-§ 6. Aan een werknemer die een opleiding volgt die vóór 1 september 2019 recht geeft op de toekenning van een aanmoedigingspremie in het kader van het opleidingskrediet, maar geen opleiding is die voldoet aan de voorwaarden, vermeld in artikel 14, tweede lid, kan een aanmoedigingspremie toegekend worden conform de voorwaarden die van kracht waren vóór 1 september 2019, tot en met het derde jaar waarin hij de opleiding volgt, en uiterlijk tot en met 30 juni 2021.
+§ 6. Aan een werknemer die een opleiding volgt die vóór 1 september 2019 recht geeft op de toekenning van een aanmoedigingspremie in het kader van het opleidingskrediet, maar geen opleiding is die voldoet aan de voorwaarden, vermeld in artikel 14, tweede lid, kan een aanmoedigingspremie toegekend worden conform de voorwaarden die van kracht waren vóór 1 september 2019, tot en met het derde jaar waarin hij de opleiding volgt, en uiterlijk tot en met 30 juni 2021.<br>
+<br>
+§ 7. In afwijking van artikel 24, § 1, is de aanvraag van de aanmoedigingspremie voor het verlof voor erkende mantelzorgers, vermeld in artikel 1, tweede lid, 4°, bij de premie-aanvragen voor een verlof dat tussen 1 september 2020 en 31 december 2020 begonnen is, geldig als ze wordt ingediend binnen negen maanden nadat het verlof is begonnen waarvoor de aanmoedigingspremie wordt aangevraagd.
 
 ### ART. 27bis.
 
