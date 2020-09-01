@@ -9,7 +9,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het secundair volwassenenonderwijs op de volgende wijze vastgelegd in de volgende bijlagen die bij dit besluit zijn gevoegd:<br>
 1° bijlage XLI tot en met XLVI voor het studiegebied bakkerij;<br>
 2° bijlage XXXVII en bijlage XXXVIII voor het studiegebied drankenkennis;<br>
-3° bijlage XIX tot en met XXXVI, bijlage XXXIX en bijlage LV tot en met LVIII;<br>
+3° bijlage XIX tot en met XXXVI, bijlage XXXIX en bijlage LV tot en met LX voor het studiegebied horeca;<br>
 4° bijlage XLVII tot en met LIV voor het studiegebied slagerij.<br>
 <br>
 Ter uitvoering van artikel 24, § 2, van het voormelde decreet wordt voor bijzondere doelgroepen op de volgende wijze afgeweken van het minimale aantal lestijden:<br>
@@ -24,7 +24,10 @@ c) de opleiding Slager Distributie kan voor traaglerende cursisten bij een maxim
 d) de opleiding Slager-Spekslager kan voor traaglerende cursisten bij een maximale afwijking 1120 lestijden omvatten, waarbij de module Stage Slagerij 240 lestijden omvat en de module Aankoop-, verkoop- en voorraadbeheer slagerij 80 lestijden omvat;<br>
 e) de opleiding Vleesbereider kan voor traaglerende cursisten 160 lestijden omvatten, waarbij de module Ontvangstcontrole en voorraadbeheer slagerij 80 lestijden omvat;<br>
 f) de opleiding Vleesbewerker kan voor traaglerende cursisten 240 lestijden omvatten, waarbij de module Ontvangstcontrole en voorraadbeheer slagerij 80 lestijden omvat;<br>
-g) de opleiding Wild- en Gevogelteslager kan voor traaglerende cursisten bij een maximale afwijking 760 lestijden omvatten, waarbij de module Aankoop-, verkoop- en voorraadbeheer slagerij en de module Ontvangstcontrole en panklaar maken wild en gevogelte elk 80 lestijden omvatten en de module Stage wild- en gevogelteslagerij 240 lestijden omvat
+g) de opleiding Wild- en Gevogelteslager kan voor traaglerende cursisten bij een maximale afwijking 760 lestijden omvatten, waarbij de module Aankoop-, verkoop- en voorraadbeheer slagerij en de module Ontvangstcontrole en panklaar maken wild en gevogelte elk 80 lestijden omvatten en de module Stage wild- en gevogelteslagerij 240 lestijden omvat;<br>
+3° voor het studiegebied horeca :<br>
+a) de opleiding Medewerker Fastfood kan voor traag lerende cursisten 240 lestijden omvatten, waarbij de modules Werken in de spoelkeuken, Klassieke fastfoodgerechten en Trendy fastfoodgerechten elk 120 lestijden omvatten;<br>
+b) de opleiding Medewerker Spoelkeuken kan voor traag lerende cursisten 120 lestijden omvatten, waarbij de module Werken in de spoelkeuken 120 lestijden omvat.
 
 ### ART. 2.
 
@@ -287,3 +290,11 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE LVIII
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2019/05/23_1.pdf#page=171">Bijlage LVIII</a>
+
+### BIJLAGE LIX
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/10/20_1.pdf#page=52">Bijlage LIX</a>
+
+### BIJLAGE LX
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/10/20_1.pdf#page=66">Bijlage LX</a>
