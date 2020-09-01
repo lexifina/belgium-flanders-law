@@ -42,6 +42,10 @@ In hetzelfde besluit worden de volgende artikelen opgeheven:<br>
 1° artikel 3, gewijzigd bij het besluit van de Vlaamse Regering van 28 februari 2014;<br>
 2° artikel 4.
 
+### ART 5.
+
+Bijlage III bij hetzelfde besluit wordt opgeheven.
+
 ### ART 6.
 
 Bijlage IV bij hetzelfde besluit wordt opgeheven.
