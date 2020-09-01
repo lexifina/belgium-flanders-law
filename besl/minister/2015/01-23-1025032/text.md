@@ -256,7 +256,7 @@ De enveloppe voor de betaling voor jonge landbouwers bedraagt   jaarlijks 2% van
 
 Een jonge landbouwer kan zijn vakbekwaamheid aantonen met:<br>
 1° een diploma of getuigschrift van een basisopleiding met betrekking tot landbouw, tuinbouw of een aanverwant onderwerp op het niveau van hoger secundair, hoger niet-universitair of universitair onderwijs;<br>
-2° een installatieattest van een startersopleiding land- en tuinbouw. Als de natuurlijke persoon in kwestie de startersopleiding land- en tuinbouw volgt, maar het installatieattest nog niet behaald heeft, controleert de bevoegde entiteit of hij daadwerkelijk is ingeschreven voor de startersopleiding op de uiterste indieningsdatum van de verzamelaanvraag. De bevoegde entiteit controleert uiterlijk op 1 september van het jaar in kwestie of de landbouwer het installatieattest behaald heeft;<br>
+2° een installatieattest van een startersopleiding land- en tuinbouw. Als de natuurlijke persoon in kwestie de startersopleiding land- en tuinbouw volgt, maar het installatieattest nog niet behaald heeft, controleert de bevoegde entiteit of hij daadwerkelijk is ingeschreven voor de startersopleiding op de uiterste indieningsdatum van de verzamelaanvraag. De bevoegde entiteit controleert uiterlijk op 1 september van het jaar in kwestie of de landbouwer het installatieattest behaald heeft;&nbsp;Voor het kalenderjaar 2020 vindt die controle uiterlijk op 1 december plaats.<br>
 3° een diploma of getuigschrift van een basisopleiding, waarvan aangetoond wordt dat ze minstens gelijkwaardig is aan een startersopleiding land- en tuinbouw.
 
 ### ART 22/2.
