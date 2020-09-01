@@ -56,6 +56,10 @@ In artikel 1, eerste lid, van het besluit van de Vlaamse Regering van 18 novembe
 1° in de inleidende zin wordt de zinsnede "bijlage VI tot en met XXII" vervangen door zinsnede "bijlage VII tot en met XXII";<br>
 2° punt 6° wordt opgeheven.
 
+### ART 3.
+
+Bijlage VI bij hetzelfde besluit wordt opgeheven.
+
 ### ART 4.
 
 In artikel 1, eerste lid, van het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de studiebekrachtiging in het volwassenenonderwijs, gewijzigd bij de besluiten van de Vlaamse Regering van 25 september 2015 en 15 maart 2019, wordt de zinsnede "bijlage I tot en met IV" vervangen door de zinsnede "bijlage I tot en met IV en bijlage XI".
@@ -94,6 +98,10 @@ In hetzelfde besluit worden de volgende artikelen opgeheven :<br>
 2° artikel 4 en 5;<br>
 3° artikel 5/1, ingevoegd bij het besluit van de Vlaamse Regering van 7 oktober 2011.
 
+### ART 11.
+
+&nbsp;Bijlage X tot en met XII bij hetzelfde besluit worden opgeheven.
+
 ### ART 12.
 
 Bijlage XVII bij hetzelfde besluit wordt opgeheven.
@@ -110,6 +118,10 @@ In artikel 1 van het besluit van de Vlaamse Regering van 10 juli 2008 betreffend
 ### ART 15.
 
 In artikel 2 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 13 juli 2018, wordt tussen het woord "geëvalueerd" en de woorden "De resultaten" de zin "Het opleidingsprofiel dat vastgelegd is in bijlage IX, wordt uiterlijk tijdens het schooljaar 2022-2023 geëvalueerd." ingevoegd.
+
+### ART 16.
+
+Bijlage V bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 6 september 2013, wordt opgeheven.
 
 ### ART 17.
 
