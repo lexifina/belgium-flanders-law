@@ -74,6 +74,36 @@ Het model van de overeenkomst wordt vastgelegd door de bevoegde dienst van het V
 
 De oproep bij organisatoren van de aanloopfase wordt gelanceerd door de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming.
 
+### ART 7bis.
+
+De volgende organisatoren zijn organisatoren die instaan voor de organisatie van de aanloopfase als vermeld in artikel 357/53 van de Codex Secundair Onderwijs van 17 december 2010, en voor de organisatie van extra ondersteuning als vermeld in artikel 357/24 van de voormelde codex:<br>
+1° Alternatief vzw;<br>
+2° Argos vzw;<br>
+3° Arktos vzw;<br>
+4° Compaan vzw;<br>
+5° Emino Antwerpen DOV;<br>
+6° Emino vzw;<br>
+7° Groep Intro vzw;<br>
+8° IN-Z vzw;<br>
+9° Jes Brussel;<br>
+10° Jes Gent;<br>
+11° Jongerenatelier vzw;<br>
+12° Kringloopcentrum Leefbaar Wonen vzw;<br>
+13° Lejo vzw;<br>
+14° LOOA vzw;<br>
+15° Noord Limburg Open Atelier vzw;<br>
+16° OCMW Aalst;<br>
+17° OCMW Ninove;<br>
+18° OCMW Sint-Niklaas;<br>
+19° Oranjehuis vzw;<br>
+20° Profo vzw;<br>
+21° ROJM vzw;<br>
+22° Stad Eeklo;<br>
+23° Stad Gent - Dienst Werk;<br>
+24° WEB VZW;<br>
+25° Werken en Leren Antwerpen vzw (vanaf 01/01/2020 GATAM vzw);<br>
+26° Werkperspectief vzw.
+
 ## Afdeling 3. Studiebekrachtiging
 
 ### ART 8.
@@ -93,7 +123,7 @@ In aanloopstructuuronderdelen kunnen de studiebewijzen, vermeld in het eerste li
 <br>
 Een duaal structuuronderdeel kan op een of meer beroepskwalificaties of deelkwalificaties zijn gebaseerd en bijgevolg tot een of meer bewijzen van beroepskwalificatie of bewijzen van deelkwalificatie leiden. Met behoud van de toepassing van het derde lid kan een aanloopstructuuronderdeel op een of meer beroepskwalificaties of deelkwalificaties zijn gebaseerd en bijgevolg tot een of meer bewijzen van beroepskwalificatie of bewijzen van deelkwalificatie leiden.<br>
 <br>
-De studiebewijzen, vermeld in het eerste lid, 1° tot en met 4°, waarvan het studiebewijs, vermeld in het eerste lid, 4°, alleen als het uitgereikt wordt in het beroepssecundair onderwijs, gelden als een onderwijskwalificatie, met toepassing van artikel 14 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur.<br>
+De studiebewijzen, vermeld in het eerste lid, 1° tot en met 3°, gelden als een onderwijskwalificatie als vermeld in artikel 14 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur. Het studiebewijs, vermeld in het eerste lid, 4°, geldt alleen als een onderwijskwalificatie als het uitgereikt wordt in een structuuronderdeel van het beroepssecundair onderwijs dat beantwoordt aan de samenstelling, vermeld in artikel 14, 2°, van het voormelde decreet.<br>
 <br>
 Het studiebewijs, vermeld in het eerste lid, 5°, geldt, met toepassing van artikel 14 van het voormelde decreet, als een beroepskwalificatie.<br>
 <br>
@@ -113,7 +143,7 @@ Het studiebewijs, vermeld in het eerste lid, 7°, wordt toegekend als de leerlin
 7° het model voor een bewijs van competenties is opgenomen in bijlage 8, die bij dit besluit is gevoegd;<br>
 8° het model voor een attest van regelmatige lesbijwoning is opgenomen in bijlage 9, die bij dit besluit is gevoegd.<br>
 <br>
-Op de modellen van de studiebewijzen, vermeld in het eerste lid, 1° tot en met 4°, waarvan het model van studiebewijs, vermeld in het eerste lid, 4°, alleen als het uitgereikt wordt in het beroepssecundair onderwijs, wordt expliciet vermeld dat het een onderwijskwalificatie betreft en het niveau ervan binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader.<br>
+Op de modellen van de studiebewijzen, vermeld in het eerste lid, 1° tot en met 3°, wordt expliciet vermeld dat het een onderwijskwalificatie betreft en wordt het niveau ervan binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader vermeld. Op het model van studiebewijs, vermeld in het eerste lid, 4°, wordt expliciet vermeld dat het een onderwijskwalificatie betreft en wordt het niveau ervan binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader vermeld, als het studiebewijs wordt uitgereikt in een structuuronderdeel van het beroepssecundair onderwijs dat beantwoordt aan de samenstelling, vermeld in artikel 14, 2°, van het decreet van 30 april 2009 betreffende de kwalificatiestructuur.<br>
 <br>
 Op het model van het studiebewijs, vermeld in het eerste lid, 5°, wordt expliciet vermeld dat het een beroepskwalificatie betreft, samen met de naam van de beroepskwalificatie en het niveau ervan binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader.<br>
 <br>
@@ -123,7 +153,7 @@ In het model van de studiebewijzen, vermeld in het eerste lid, 1° tot en met 6�
 
 ### ART 9.
 
-Binnen de beschikbare kredieten bepaalt de Vlaamse minister, bevoegd voor het onderwijs, per schooljaar het bedrag van de aanvullende werkingsmiddelen dat aan een centrum voor deeltijds beroepssecundair onderwijs wordt toegekend per regelmatige leerling die op de eerste lesdag van februari ingeschreven is in een centrum voor deeltijds beroepssecundair onderwijs.<br>
+Binnen de beschikbare kredieten bepaalt de Vlaamse minister, bevoegd voor onderwijs en vorming, per schooljaar het bedrag van de aanvullende werkingsmiddelen dat aan een centrum voor deeltijds beroepssecundair onderwijs wordt toegekend op basis van het aantal dagen dat de jongeren effectief gepresteerd hebben binnen de fase arbeidsdeelname of de aanloopcomponent tijdens het voorafgaande schooljaar.<br>
 <br>
 De aanvullende werkingsmiddelen voor de centra voor deeltijds beroepssecundair onderwijs worden bij het voorschot op het werkingsbudget gevoegd.
 
@@ -367,11 +397,16 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 <br>
 * Bij BVR van 19 juli 2019, BS 28 augustus 2019, worden met ingang van 1 september 2019, de volgende wijzigingen aangebracht aan bijlage 5:<br>
 <br>
-<br>
 1° in het opschrift wordt de zinsnede "5° " vervangen door de zinsnede "4° ";<br>
 2° in het studiebewijssupplement wordt de laatste zin vervangen door wat volgt:<br>
 "De inhoud van de opleiding . . . . . (1) is gebaseerd op een standaardtraject (www.kwalificatiesencurriculum.be/duaal-leren) dat de overheid heeft vastgelegd.";<br>
-3° bij de invulinstructies wordt punt (9) en de bijhorende tekst opgeheven.
+3° bij de invulinstructies wordt punt (9) en de bijhorende tekst opgeheven.<br>
+<br>
+* Bij BVR van 28 augustus 2020, BS 18 september 2020, worden met ingang van 1 september 2020,&nbsp;de volgende wijzigingen aangebracht aan bijlage 5:<br>
+<br>
+de bepaling "(*) Dit mag alleen vermeld worden bij een opleiding uit het beroepssecundair onderwijs" wordt vervangen door wat volgt:<br>
+"(*) Op het model van het getuigschrift van de tweede graad van het secundair onderwijs mag alleen worden verwezen naar "onderwijskwalificatie", "beroepskwalificatie" of "deelkwalificatie" als het getuigschrift wordt uitgereikt in het gewoon of buitengewoon beroepssecundair onderwijs en als de opleiding uit minstens één beroepskwalificatie of deelkwalificatie bestaat.".<br>
+&nbsp;
 
 ### BIJLAGE
 
