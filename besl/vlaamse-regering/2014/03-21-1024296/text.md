@@ -6,7 +6,10 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° agentschap : het Agentschap   Binnenlands Bestuur van het Vlaams Ministerie Kanselarij en Bestuur, opgericht   bij besluit van de Vlaamse Regering van 28 oktober 2005 tot oprichting van het   intern verzelfstandigd agentschap "Agentschap Binnenlands Bestuur";<BR>2°   decreet van 7 juni 2013 : het decreet van 7 juni 2013 betreffende het Vlaamse   integratie- en inburgeringsbeleid;<BR>3° minister : de Vlaamse minister, bevoegd   voor het beleid inzake onthaal en integratie van   inwijkelingen.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° agentschap : het Agentschap Binnenlands Bestuur van het Vlaams Ministerie Kanselarij, Bestuur, Buitenlandse Zaken en Justitie, opgericht bij besluit van de Vlaamse Regering van 28 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap "Agentschap Binnenlands Bestuur";<br>
+2° decreet van 7 juni 2013 : het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid;<br>
+3° minister : de Vlaamse minister, bevoegd voor het beleid inzake onthaal en integratie van inwijkelingen.
 
 ### ART. 2.
 
