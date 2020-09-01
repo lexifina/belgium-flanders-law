@@ -6,7 +6,23 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007   betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de   modulaire opleidingen van het studiegebied Nederlands tweede taal, dat behoort   tot het secundair volwassenenonderwijs, vastgelegd in bijlage I tot en met V,   die bij dit besluit zijn gevoegd.<BR><BR>Ter uitvoering van artikel 24, § 2, van   het voormelde decreet wordt voor bijzondere doelgroepen als volgt afgeweken van   het minimale aantal lestijden van de volgende opleidingen:<BR>1° de opleiding   Nederlands tweede taal richtgraad 1 kan voor snel-lerende cursisten 160   lestijden bedragen, verdeeld in 4 modules van telkens 40 lestijden, of voor   traag-lerende cursisten 360 lestijden, verdeeld in 4 modules van telkens 90   lestijden;<BR>2° de opleiding Nederlands tweede taal richtgraad 2 kan voor   snel-lerende cursisten 320 lestijden bedragen, verdeeld in 8 modules van telkens   40 lestijden, of voor traag-lerende cursisten 720 lestijden, verdeeld in 8   modules van telkens 90 lestijden;<BR>3° de opleiding Nederlands tweede taal   richtgraad 3 kan voor snel-lerende cursisten 160 lestijden bedragen, verdeeld in   2 modules van telkens 80 lestijden;<BR>4° de opleiding Nederlands tweede taal   richtgraad 4 kan voor snel-lerende cursisten 160 lestijden bedragen, verdeeld in   2 modules van telkens 80 lestijden.<BR><BR>Ter uitvoering van artikel 24, § 2,   van voormeld decreet wordt voor bijzondere doelgroepen als volgt afgeweken van   het minimale aantal lestijden van de volgende opleidingen waarvan het   opleidingsprofiel is vastgelegd in het besluit van de Vlaamse Regering van 18   november 2005 betreffende de modulaire structuur van het secundair onderwijs   voor sociale promotie voor het studiegebied Nederlands tweede taal&nbsp;:<BR>1°   ...; <BR>2° ...;<BR>3° ...;<BR>4° de opleiding Nederlands tweede taal -   professioneel bedrijfsgericht richtgraad 3 kan voor snel-lerende cursisten 120   lestijden bedragen, verdeeld in 3 modules van telkens 40 lestijden;<BR>5°   ...;<BR>6° de opleiding Nederlands tweede taal - professioneel juridisch   richtgraad 4 kan voor snel-lerende cursisten 80 lestijden bedragen, verdeeld in   2 modules van telkens 40 lestijden.<BR>
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire opleidingen van het studiegebied Nederlands tweede taal, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage I tot en met VI, die bij dit besluit zijn gevoegd.<br>
+<br>
+Ter uitvoering van artikel 24, § 2, van het voormelde decreet wordt voor bijzondere doelgroepen als volgt afgeweken van het minimale aantal lestijden van de volgende opleidingen:<br>
+1° de opleiding Nederlands tweede taal richtgraad 1 kan voor snel-lerende cursisten 160 lestijden bedragen, verdeeld in 4 modules van telkens 40 lestijden, of voor traag-lerende cursisten 360 lestijden, verdeeld in 4 modules van telkens 90 lestijden;<br>
+2° de opleiding Nederlands tweede taal richtgraad 2 kan voor snel-lerende cursisten 320 lestijden bedragen, verdeeld in 8 modules van telkens 40 lestijden, of voor traag-lerende cursisten 720 lestijden, verdeeld in 8 modules van telkens 90 lestijden;<br>
+3° de opleiding Nederlands tweede taal richtgraad 3 kan voor snel-lerende cursisten 160 lestijden bedragen, verdeeld in 2 modules van telkens 80 lestijden;<br>
+4° de opleiding Nederlands tweede taal richtgraad 4 kan voor snel-lerende cursisten 160 lestijden bedragen, verdeeld in 2 modules van telkens 80 lestijden;<br>
+5° de opleiding Lezen en Schrijven voor Anders Gealfabetiseerden Richtgraad 1 kan voor snel lerende cursisten 20 lestijden bedragen, waarbij de module Lezen en schrijven voor anders gealfabetiseerden 20 lestijden bedraagt;<br>
+6° de opleiding Lezen en Schrijven voor Anders Gealfabetiseerden Richtgraad 1 kan voor traag lerende cursisten 60 lestijden bedragen, waarbij de module Lezen en schrijven voor anders gealfabetiseerden 60 lestijden bedraagt.<br>
+<br>
+Ter uitvoering van artikel 24, § 2, van voormeld decreet wordt voor bijzondere doelgroepen als volgt afgeweken van het minimale aantal lestijden van de volgende opleidingen waarvan het opleidingsprofiel is vastgelegd in het besluit van de Vlaamse Regering van 18 november 2005 betreffende de modulaire structuur van het secundair onderwijs voor sociale promotie voor het studiegebied Nederlands tweede taal&nbsp;:<br>
+1° ...;<br>
+2° ...;<br>
+3° ...;<br>
+4° de opleiding Nederlands tweede taal - professioneel bedrijfsgericht richtgraad 3 kan voor snel-lerende cursisten 120 lestijden bedragen, verdeeld in 3 modules van telkens 40 lestijden;<br>
+5° ...;<br>
+6° de opleiding Nederlands tweede taal - professioneel juridisch richtgraad 4 kan voor snel-lerende cursisten 80 lestijden bedragen, verdeeld in 2 modules van telkens 40 lestijden.
 
 ### ART. 2.
 
@@ -39,3 +55,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE V
 
 <A   href="http://www.ejustice.just.fgov.be/mopdf/2014/04/04_1_2.pdf#page=45">Bijlage   V</A>
+
+### BIJLAGE VI
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/10/20_1.pdf#page=44">Bijlage VI</a>
