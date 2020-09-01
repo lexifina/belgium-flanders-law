@@ -29,7 +29,7 @@ Besluit :
 4° de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen met uitzondering van deze vermeld in § 3, 2° tot en met 6° ;<br>
 5° de strategische adviesraden.<br>
 <br>
-De GDPB behoort tot het Departement Kanselarij en Bestuur.<br>
+De GDPB behoort tot het Agentschap Overheidspersoneel.<br>
 <br>
 § 2. De werking van de GDPB wordt uitgebreid tot :<br>
 1° de kabinetten van de leden van de Vlaamse Regering;<br>
@@ -53,9 +53,9 @@ De GDPB behoort tot het Departement Kanselarij en Bestuur.<br>
 
 Er wordt een Welzijnsforum opgericht dat inhoudelijk vorm geeft aan het door de GDPB uitgevoerde welzijnsbeleid.<br>
 <br>
-Het Welzijnsforum is samengesteld uit de leidend ambtenaren van de aangesloten entiteiten of hun vertegenwoordiger, de preventieadviseur-coördinator van de GDPB en de door de secretaris-generaal van het Departement Kanselarij en Bestuur aangewezen preventieadviseurs.<br>
+Het Welzijnsforum is samengesteld uit de leidend ambtenaren van de aangesloten entiteiten of hun vertegenwoordiger, de preventieadviseur-coördinator van de GDPB en de door de administrateur-generaal van het Agentschap Overheidspersoneel aangewezen preventieadviseurs.<br>
 <br>
-De secretaris-generaal van het Departement Kanselarij en Bestuur of zijn afgevaardigde is de voorzitter van het Welzijnsforum.
+De administrateur-generaal van het Agentschap Overheidspersoneel of zijn afgevaardigde is de voorzitter van het Welzijnsforum.
 
 ### ART 3.
 
@@ -63,14 +63,14 @@ De secretaris-generaal van het Departement Kanselarij en Bestuur of zijn afgevaa
 <br>
 § 2. Het Comité GDPB is samengesteld uit :<br>
 1° de werkgeversvertegenwoordiging :<br>
-- de secretaris-generaal van het Departement Kanselarij en Bestuur of zijn afgevaardigde;<br>
+- de administrateur-generaal van het Agentschap Overheidspersoneel of zijn afgevaardigde;<br>
 - vier vertegenwoordigers van de aangesloten leden aangewezen door het Welzijnsforum;<br>
 - een vertegenwoordiger van de Vlaamse minister, bevoegd voor het algemeen beleid inzake personeel en organisatieontwikkeling in de Vlaamse administratie.<br>
 2° twee vertegenwoordigers van elke representatieve vakorganisatie.<br>
 <br>
-De secretaris-generaal van het Departement Kanselarij en Bestuur of zijn afgevaardigde is voorzitter van het Comité GDPB.<br>
+De administrateur-generaal van het Agentschap Overheidspersoneel of zijn afgevaardigde is voorzitter van het Comité GDPB.<br>
 <br>
-De preventieadviseur-coördinator van de GDPB, door de secretaris-generaal van het Departement Kanselarij en Bestuur aangewezen preventieadviseurs en vertegenwoordigers van de Externe Dienst voor Preventie en Bescherming op het Werk, wonen met raadgevende stem de vergaderingen van het Comité GDPB bij.<br>
+De preventieadviseur-coördinator van de GDPB, door de administrateur-generaal van het Agentschap Overheidspersoneel aangewezen preventieadviseurs en vertegenwoordigers van de Externe Dienst voor Preventie en Bescherming op het Werk, wonen met raadgevende stem de vergaderingen van het Comité GDPB bij.<br>
 <br>
 § 3. Het Comité GDPB heeft in hoofdzaak de volgende taken :<br>
 1° voorstellen formuleren ten bate van de goede werking van de GDPB;<br>
