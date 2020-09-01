@@ -40,4 +40,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/12/11_1.pdf#page=235">Bijlage</a>
+Deze bijlage werd vervangen door bijlage 5 gevoegd bij het besluit van de Vlaamse Regering van 27 november 2020, B.S. 17 december 2020. Deze bijlage werd echter niet gepubliceerd.
