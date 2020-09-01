@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033394,
+  "title": "Besluit van de Vlaamse Regering van 2020-06-19 tot goedkeuring van de programmaties van nieuwe types en opleidingsvormen in het buitengewoon basisonderwijs en het buitengewoon secundair onderwijs voor het schooljaar 2020-2021",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033394/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "f8c9ccd38c4a2071dd8832422da35a995a48659d402a60df2e7e18fd851b135d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033394&param=informatie",
+  "as_of": "2020-09-01",
+  "made": "2020-06-19",
+  "gazette": "2020-07-14",
+  "numac": 2020042094,
+  "document_start": "2020-09-01",
+  "document_end": null,
+  "in_force": "2020-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
