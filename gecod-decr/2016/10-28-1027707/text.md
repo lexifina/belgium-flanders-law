@@ -371,7 +371,7 @@ Een internaat of tehuis kan eveneens worden opgericht in het kader van een herst
 &nbsp;<br>
 Een internaat of tehuis kan eveneens worden opgericht in het kader van een herstructurering, zijnde een afsplitsing van een bestaand internaat of tehuis, al dan niet na fusie, met dien verstande dat het oorspronkelijke aantal internaten of tehuizen wel wordt overschreden. In voorkomend geval bedraagt de oprichtingsnorm 40 regelmatig ingeschreven interne leerlingen op 1 september van het schooljaar van oprichting. Deze norm is van toepassing op alle internaten en tehuizen die uit de herstructurering voortvloeien.<br>
 &nbsp;<br>
-§2. De behoudsnorm voor een door de Vlaamse Gemeenschap gefinancierd of gesubsidieerd internaat of tehuis bedraagt 30 regelmatig ingeschreven interne leerlingen op 1 februari van het voorafgaande schooljaar. Internaten en tehuizen die niet aan de behoudsnorm voldoen, blijven gefinancierd of gesubsidieerd als het internaat of tehuis op de vorige teldag wel aan de geldende norm voldeed.<br>
+§2. De behoudsnorm voor een door de Vlaamse Gemeenschap gefinancierd of gesubsidieerd internaat of tehuis bedraagt 30 regelmatig ingeschreven interne leerlingen op 1 februari van het voorafgaande schooljaar. Internaten en tehuizen die niet aan de behoudsnorm voldoen, blijven gefinancierd of gesubsidieerd als het internaat of tehuis op de vorige of daaraan voorafgaande&nbsp;teldag wel aan de geldende norm voldeed.<br>
 &nbsp;<br>
 §3. Indien 1 september of 1 februari een lesvrije dag is, dan wordt de eerstvolgende lesdag als teldatum genomen.
 
@@ -524,6 +524,23 @@ Voor de berekening van die subsidie komen de regelmatige leerlingen die op 1 feb
 §5. Voor 1 juli legt het Koninklijk Werk IBIS de begroting voor haar internaatswerking van het volgende jaar ter goedkeuring voor aan de Vlaamse Regering. Die begroting moet in evenwicht zijn. Voor 31 maart wordt de rekening van het voorgaande jaar ter goedkeuring voorgelegd.
 
 ## Afdeling 3 [... (opgeh. decr. 16 juni 2023, art. 137, I: 1 september 2023)]
+
+### ART III.20/1.
+
+Deze afdeling is van toepassing op:<br>
+1° internaten als vermeld in artikel III.21 en III.35 voor wat betreft hun openstelling op schooldagen;<br>
+2° tehuizen als vermeld in artikel III.1, § 1, eerste lid, III.20 en III.35, § 1, 2°, voor wat betreft hun openstelling op schooldagen;<br>
+3° de internaten buitengewoon onderwijs, vermeld in hoofdstuk 4, afdeling 1, onderafdeling 2.<br>
+<br>
+Verder in deze afdeling `instellingen' genoemd.
+
+### ART III.20/2
+
+Voor de instellingen wordt een budget van 499.000 euro aan bijkomende werkingsmiddelen voorzien.<br>
+<br>
+Deze bijkomende werkingsmiddelen worden verdeeld over de instellingen a rato van het aantal internen die beschikken over een jeugdhulpverleningsbeslissing voor de de typemodule specifieke actie of een vonnis van de jeugdrechtbank.<br>
+<br>
+Voor het bepalen van dit aantal internen wordt dezelfde teldag gehanteerd als die voor de berekening van de omkadering van het werkjaar 2019/2020.
 
 ## Hoofdstuk 4 [... (opgeh. decr. 16 juni 2023, art. 138, I: 1 september 2023)]
 
@@ -1271,13 +1288,18 @@ De subsidie wordt in twee schijven uitbetaald :<br>
 
 ### ART IV.52.
 
-De regering garandeert de centrale organisatie van het synchroon internetonderwijs, verder in dit hoofdstuk SIO te noemen, zoals vermeld in artikel 36/1 van het decreet basisonderwijs van 25 februari 1997 en artikel 117/1 van de Codex Secundair Onderwijs.<br>
+De regering garandeert de centrale organisatie van het synchroon internetonderwijs, verder in dit hoofdstuk SIO te noemen, zoals vermeld in artikel 36/1 van het decreet basisonderwijs van 25 februari 1997 en artikel117/1 van de Codex Secundair Onderwijs.<br>
 <br>
-De regering bepaalt de opdracht van de centrale organisator.<br>
+De regering bepaalt de opdracht van de centrale organisatie en de opdracht van een of meerdere organisatie die een deelopdracht opnemen in een kaderovereenkomst met de centrale organisatie.<br>
 <br>
-De subsidieovereenkomst heeft maximaal een duurtijd van vier schooljaren.<br>
+De regering bepaalt de bouwstenen van het vergoedingsmodel van de centrale organisator. Het vergoedingsmodel kan onder meer gebaseerd worden op:<br>
+- de algemene werking en deelopdrachten van de centrale organisator, zoals door de regering bepaald;<br>
+- de SIO-trajecten die de centrale organisator invult;<br>
+- specifieke aankopen of vergoedingen die nodig zijn voor de uitvoering van de opdracht en deelopdrachten van de centrale organisator.<br>
 <br>
-De centrale organisator neemt een vertegenwoordiging van de regering op in zijn bestuursorganen.
+De kaderovereenkomst heeft maximaal een duurtijd van 5 kalenderjaren.<br>
+<br>
+De centrale organisatie neemt een vertegenwoordiging van de regering op in het bestuursorgaan.
 
 ### ART IV. 53.
 
@@ -2126,7 +2148,7 @@ Deze middelen bestaan uit :<br>
 
 ### ART VI.5.
 
-§1. De middelen worden toegekend aan iedere school voor gewoon - of buitengewoon basisonderwijs, aan iedere school voor gewoon of buitengewoon secundair onderwijs, aan ieder centrum voor volwassenenonderwijs en aan iedere academie. De scholen, academies en centra kunnen de middelen alleen aanwenden als ze deel uit maken van :<br>
+§1. De middelen worden toegekend aan iedere school voor gewoon - of buitengewoon basisonderwijs, aan iedere school voor gewoon of buitengewoon secundair onderwijs, aan ieder centrum voor volwassenenonderwijs en aan iedere academie. De scholen, academies&nbsp;en centra kunnen de middelen alleen aanwenden als ze deel uit maken van :<br>
 1° een scholengemeenschap in het basis- of het secundair onderwijs, of<br>
 2° een scholengroep, of<br>
 3° een samenwerkingsplatform tussen :<br>
