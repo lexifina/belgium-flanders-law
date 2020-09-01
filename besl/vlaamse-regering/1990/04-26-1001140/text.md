@@ -217,7 +217,8 @@ Het verlof en de afwezigheid voor verminderde prestaties worden opgeschort zodra
 5° loopbaanonderbreking voor ouderschapsverlof;<br>
 6° loopbaanonderbreking voor medische bijstand;<br>
 7° loopbaanonderbreking voor palliatieve zorgen;<br>
-8° zorgkrediet.
+8° zorgkrediet;<br>
+9° loopbaanonderbreking voor mantelzorg.
 
 ### ART. 17.
 
