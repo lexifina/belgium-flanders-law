@@ -27,63 +27,75 @@ Besluit :<br>
 
 ### ART. 1.
 
-<P>De lijst van de benamingen van basisopties, van beroepenvelden en van opties   per studiegebied die bestaan vanaf 1 september 2014, is opgenomen in bijlage I,   die bij dit besluit is gevoegd.<BR><BR>Een beroepenveld wordt aangeduid met het   symbool "(7)" als het minimumaantal wekelijkse lestijden zeven bedraagt,   respectievelijk met het symbool "(14)" als het minimumaantal wekelijkse   lestijden veertien bedraagt. Elke leerling opteert voor één beroepenveld van   minstens veertien wekelijkse lestijden of voor een combinatie van twee   beroepenvelden van minstens zeven wekelijkse lestijden.<BR><BR>De opties,   georganiseerd als Se-n-Se, hebben een duur van twee semesters.<BR><BR>De opties   met een verplichte leerlingenstage als vermeld in artikel 157, § 6, van de Codex   Secundair Onderwijs van 17 december 2010 worden aangeduid met het symbool   "(ST2)" als de verplichting geldt voor het tweede leerjaar van de derde graad,   respectievelijk met het symbool "(ST)" als de verplichting geldt voor het   specialisatiejaar van de derde graad. In toepassing van artikel 157, § 6,   zevende lid, van de Codex Secundair Onderwijs voor de opties die in bijlage I   worden aangeduid met het symbool (ST2) of (ST), treedt artikel 157, § 6, in   werking op 1 september 2014.</P>
+...
 
 ### ART. 2.
 
-...<BR>
+...
 
 ### ART. 3.
 
-<P>...</P>
+...
 
 ### ART. 4.
 
-...<BR>
+...
 
 ### ART. 5.
 
-De volgende opties van de derde graad tso worden voorbehouden voor scholen   van de Krijgsmacht die door de Vlaamse Gemeenschap zijn erkend : elektronica   militaire wapensystemen, militaire en sociale wetenschappen, militaire   bewapeningstechnieken.<BR><BR>Die opties worden in geen enkel studiegebied   gerangschikt.<BR><BR>
+...
 
 ### ART. 6.
 
-&nbsp;Basisopties, beroepenvelden en opties waarvan de inrichting het   voorwerp uitmaakt van een onderwijsconvenant, worden voorbehouden voor scholen   die onder de toepassing van dat convenant vallen.<BR><BR>
+...
 
 ### ART. 6bis.
 
-Het aanbod van de opties Integrale veiligheid en Veiligheidsberoepen is aan de volgende beperking respectievelijk voorwaarden onderworpen :<br />1° een van beide opties dan wel beide opties samen kunnen in maximaal zestien door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstellingen worden georganiseerd, waarvan acht behoren tot het officieel onderwijs en acht tot het vrij onderwijs;<br />2° de organiserende onderwijsinstellingen moeten, voor de aanvang van het oprichtingsschooljaar, van de federale minister, bevoegd voor binnenlandse zaken, de erkenning van de opleidingen hebben verkregen met toepassing van de vigerende federale regelgeving ter zake en in overeenstemming met de afspraken ter zake tussen de Vlaamse minister, bevoegd voor het onderwijs, en de desbetreffende federale minister; het behoud van de organisatie van de opleidingen is afhankelijk van de periodieke bevestiging van die erkenning.
+...
 
 ### ART. 6ter.
 
-Het aanbod van de opties Duurzaam wonen en Bio-ecologische bouwafwerking is aan de volgende beperking onderworpen : <br />1° per provincie kan de optie in maximaal één onderwijsinstelling die behoort tot het officieel onderwijs en één onderwijsinstelling die behoort tot het vrij onderwijs worden georganiseerd;<br />2° voor de toepassing van deze bepaling worden de Nederlandstalige onderwijsinstellingen gelegen in het Brussels Hoofdstedelijk Gewest gerekend tot de provincie Vlaams-Brabant.
+...
 
 ### ART. 6quater.
 
-Het aanbod van de optie Onthaal en recreatie is aan de volgende beperking onderworpen : de optie kan in maximaal zes door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstellingen worden georganiseerd, waarvan drie behoren tot het officieel onderwijs en drie tot het vrij onderwijs.<br /><br />Het aanbod van de optie Gespecialiseerd recreatiemedewerker is aan de volgende beperking onderworpen : de optie kan in maximaal zes door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstellingen worden georganiseerd, waarvan drie behoren tot het officieel onderwijs en drie tot het vrij onderwijs.
+...
+
+### ART 6quinquies.
+
+Het aanbod van de optie Defensie en veiligheid is aan de volgende beperking respectievelijk voorwaarde onderworpen:<br>
+1° de optie kan in maximaal zestien door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstellingen worden georganiseerd, waarvan acht behoren tot het officieel onderwijs en acht tot het vrij onderwijs, waarbij rekening wordt gehouden met een evenwichtige geografische spreiding;<br>
+2° de organiserende onderwijsinstellingen krijgen voor de aanvang van het oprichtingsschooljaar van de bevoegde federale autoriteiten de erkenning van de opleiding met toepassing van de geldende federale regelgeving en in overeenstemming met de schriftelijke afspraken daarover tussen de Vlaamse en de federale autoriteiten. Die schriftelijke afspraken zijn raadpleegbaar bij het Departement Onderwijs en Vorming van de Vlaamse Gemeenschap. Het behoud van de organisatie van de opleidingen is afhankelijk van de periodieke bevestiging van die erkenning.<br>
+<br>
+Dit artikel heeft slechts uitwerking op voorwaarde dat uiterlijk 30 september 2020 een onderwijsconvenant met betrekking tot de optie Defensie en veiligheid is gesloten tussen volgende partijen:<br>
+1° de Vlaamse minister, bevoegd voor onderwijs;<br>
+2° de Vlaamse minister, bevoegd voor werk;<br>
+3° de federale ministers, bevoegd voor de diverse veiligheidssectoren;<br>
+4° de vertegenwoordigers van de schoolbesturen in het secundair onderwijs.
 
 ### ART. 7.
 
-<P>...</P>
+...
 
 ### ART. 7bis.
 
-<P>...</P>
+...
 
 ### ART. 7ter.
 
-<P>...</P>
+...
 
 ### ART. 8.
 
-Het besluit van de Vlaamse Regering van 7 september 1999 betreffende de studiegebieden en structuuronderdelen in het secundair onderwijs wordt opgeheven.<br /><br />
+...
 
 ### ART. 9.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2007.<br /><br />
+...
 
 ### ART. 10.
 
-De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van dit besluit.<br /><br />
+...
 
 ## Bijlage I Basisopties
 
@@ -416,6 +428,8 @@ Derde graad tso : Se-n-Se<br>
 1. Integrale veiligheid<br>
 Derde graad bso : specialisatiejaar<br>
 1. Veiligheidsberoepen (ST)<br>
+Derde graad tso: eerste en tweede leerjaar<br>
+1. Defensie en veiligheid (onverminderd artikel 6quinquies, tweede lid, van dit besluit)<br>
 STUDIEGEBIED MARITIEME OPLEIDINGEN<br>
 Tweede graad tso : eerste en tweede leerjaar<br>
 1. Maritieme technieken dek<br>
@@ -658,184 +672,184 @@ Derde graad kso : voorbereidend leerjaar op het hoger onderwijs<br>
 
 ### BIJLAGE II
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2014/10/02_1.pdf#page=39">Bijlage II</a></p>
+...
 
 ## Bijlage III Studiegebied algemeen secundair onderwijs
 
 ### BIJLAGE III
 
-<p><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]-->...</p>
+...
 
 ## Bijlage IV Studiegebied sport
 
 ### BIJLAGE IV
 
-<p>...</p>
+...
 
 ## Bijlage V Studiegebied auto
 
 ### BIJLAGE V
 
-<p>...</p>
+...
 
 ## Bijlage VI Studiegebied bouw
 
 ### BIJLAGE VI
 
-<p>...</p>
+...
 
 ## Bijlage VII Studiegebied chemie
 
 ### BIJLAGE VII
 
-<p>...</p>
+...
 
 ## Bijlage VIII Studiegebied decoratieve technieken
 
 ### BIJLAGE VIII
 
-<p>...</p>
+...
 
 ## Bijlage IX Fotografie
 
 ### BIJLAGE IX
 
-<p>...</p>
+...
 
 ## Bijlage X Studiegebied glastechnieken
 
 ### BIJLAGE X
 
-<p>...</p>
+...
 
 ## Bijlage XI Studiegebied grafische communicatie en media
 
 ### BIJLAGE XI
 
-<p>...</p>
+...
 
 ## Bijlage XII Studiegebied handel
 
 ### BIJLAGE XII
 
-<p>...</p>
+...
 
 ## Bijlage XIII Studiegebied hout
 
 ### BIJLAGE XIII
 
-<p>...</p>
+...
 
 ## Bijlage XIV Studiegebied juwelen
 
 ### BIJLAGE XIV
 
-<p>...</p>
+...
 
 ## Bijlage XV Studiegebied koeling en warmte
 
 ### BIJLAGE XV
 
-<p>...</p>
+...
 
 ## Bijlage XVI Studiegebied land- en tuinbouw
 
 ### BIJLAGE XVI
 
-<p>...</p>
+...
 
 ## Bijlage XVII Studiegebied lichaamsverzorging
 
 ### BIJLAGE XVII
 
-<p>...</p>
+...
 
 ## Bijlage XVIIbis Studiegebied Maatschappelijke veiligheid
 
 ### BIJLAGE XVIIbis
 
-<p>...</p>
+...
 
 ## Bijlage XVIII Studiegebied maritieme opleidingen
 
 ### BIJLAGE XVIII
 
-<p>...</p>
+...
 
 ## Bijlage XIX Studiegebied mechanica-elektriciteit
 
 ### BIJLAGE XIX
 
-<p>...</p>
+...
 
 ## Bijlage XX Studiegebied mode
 
 ### BIJLAGE XX
 
-<p>...</p>
+...
 
 ## Bijlage XXI Studiegebied muziekinstrumentenbouw
 
 ### BIJLAGE XXI
 
-<p>...</p>
+...
 
 ## Bijlage XXII Studiegebied optiek
 
 ### BIJLAGE XXII
 
-<p>...</p>
+...
 
 ## Bijlage XXIII Studiegebied orthopedische technieken
 
 ### BIJLAGE XXIII
 
-<p>...</p>
+...
 
 ## Bijlage XXIV Studiegebied personenzorg
 
 ### BIJLAGE XXIV
 
-<p>...</p>
+...
 
 ## Bijlage XXV Studiegebied tandtechnieken
 
 ### BIJLAGE XXV
 
-<p>...</p>
+...
 
 ## Bijlage XXVI Studiegebied textiel
 
 ### BIJLAGE XXVI
 
-<p>...</p>
+...
 
 ## Bijlage XXVII Studiegebied toerisme
 
 ### BIJLAGE XXVII
 
-<p>...</p>
+...
 
 ## Bijlage XXVIII Studiegebied voeding
 
 ### BIJLAGE XXVIII
 
-<p>...</p>
+...
 
 ## Bijlage XXIX Studiegebied ballet
 
 ### BIJLAGE XXIX
 
-<p>...</p>
+...
 
 ## Bijlage XXX Studiegebied beeldende kunsten
 
 ### BIJLAGE XXX
 
-<p>...</p>
+...
 
 ## Bijlage XXXI Studiegebied podiumkunsten
 
 ### BIJLAGE XXXI
 
-<p>...</p>
+...
