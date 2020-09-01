@@ -2,16 +2,16 @@
   "codex_id": 1033269,
   "title": "Ministerieel besluit van 2020-06-09 tot vaststelling van een leidraad en na te leven protocollen voor de heropstart van de sportsector ten gevolge van de coronacrisis COVID-19",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033269/VolledigDocument?datum=2020-07-30",
-  "source_sha256": "68b8071723fee8d91705b2e91e9fd35ebde2944b50ca804b63d9836a5b181c6d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033269/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "026ac3097551ac3bf656d2b310a3006bd9bbcbb04da3a6fd2c3eb5e49763047f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033269&param=informatie",
-  "as_of": "2020-07-30",
+  "as_of": "2020-09-01",
   "made": "2020-06-09",
   "gazette": "2020-06-24",
   "numac": 2020041826,
   "document_start": "2020-06-08",
   "document_end": null,
-  "in_force": "2020-07-30",
+  "in_force": "2020-09-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2020-07-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
 }
