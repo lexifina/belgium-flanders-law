@@ -44,74 +44,224 @@ Dit besluit treedt in werking op 1 juni 2008.
 
 ### BIJLAGE
 
-<strong>1) BELEIDSDOMEIN KANSELARIJ EN BESTUUR</strong>
-<table border="1" cellspacing="0" cellpadding="0">
+1) BELEIDSDOMEIN KANSELARIJ, BESTUUR, BUITENLANDSE ZAKEN EN JUSTITIE
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="width: 203px;">&nbsp;</td>
-			<td style="width: 279px;"><strong>B/S-opdrachten</strong></td>
-			<td style="width: 122px;"><strong>Verloning</strong></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;B/S-opdrachten</td>
+			<td colspan="2">Verloning</td>
 		</tr>
 		<tr>
-			<td style="width: 203px;">&nbsp;1.1. Departement Kanselarij en Bestuur</td>
-			<td style="width: 279px;">Vlaamse bouwmeester</td>
-			<td style="width: 122px;">&nbsp;</td>
+			<td colspan="" rowspan="4>">1.1. Departement Kanselarij en Buitenlandse Zaken</td>
+			<td>Vlaamse bouwmeester</td>
+			<td colspan="2">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width: 203px;">&nbsp;1.2. Agentschap Overheidspersoneel</td>
-			<td style="width: 279px;">Vlaams diversiteitsambtenaar</td>
-			<td style="width: 122px;">A214</td>
+			<td>Ondersteunend personeel van de vertegenwoordigers van de Vlaamse regering in het buitenland</td>
+			<td colspan="2">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width: 203px;" rowspan="11" colspan="1">1.3. Agentschap Facilitair Bedrijf</td>
-			<td style="width: 279px;">Schoonmaakpersoneel (uitvoerende functie</td>
-			<td style="width: 122px;">D111</td>
+			<td>Adjunct van de directeur buitenland</td>
+			<td colspan="2">A112</td>
 		</tr>
 		<tr>
-			<td style="width: 279px;">Schoonmaakpersoneel werf- en sectorverantwoordelijke</td>
-			<td style="width: 122px;">D211</td>
+			<td>Ondersteunend personeel van de vertegenwoordigers in het buitenland die belast zijn met de uitvoering van het Vlaams beleid inzake internationale samenwerking</td>
+			<td colspan="2">B111</td>
 		</tr>
 		<tr>
-			<td style="width: 279px;">Backup werf- en sectorverantwoordelijken schoonmaak</td>
-			<td style="width: 122px;">D112</td>
+			<td>1.2. Agentschap Overheidspersoneel</td>
+			<td>Vlaams diversiteitsambtenaar</td>
+			<td colspan="2">A214</td>
 		</tr>
 		<tr>
-			<td style="width: 279px;">Cateringpersoneel (keukenhulp)</td>
-			<td style="width: 122px;">D111</td>
+			<td colspan="" rowspan="11>">1.3. Agentschap Facilitair Bedrijf</td>
+			<td>Schoonmaakpersoneel (uitvoerende functie)</td>
+			<td colspan="2">D111</td>
 		</tr>
 		<tr>
-			<td style="width: 279px;">Cateringpersoneel (kok)</td>
-			<td style="width: 122px;">D132</td>
+			<td>Schoonmaakpersoneel werf- en sectorverantwoordelijke</td>
+			<td colspan="2">D211</td>
 		</tr>
 		<tr>
-			<td style="width: 279px;">Cateringpersoneel (back up chef catering grote keuken)</td>
-			<td style="width: 122px;">C111</td>
+			<td>Backup werf- en sectorverantwoordelijken schoonmaak</td>
+			<td colspan="2">D112</td>
 		</tr>
 		<tr>
-			<td style="width: 279px;">Cateringpersoneel (chef catering kleine keuken)</td>
-			<td style="width: 122px;">C123</td>
+			<td>Cateringpersoneel (keukenhulp)</td>
+			<td colspan="2">D111</td>
 		</tr>
 		<tr>
-			<td style="width: 279px;">Cateringpersoneel (chef catering middelgrote keuken)</td>
-			<td style="width: 122px;">C211</td>
+			<td>Cateringpersoneel (kok)</td>
+			<td colspan="2">D132</td>
 		</tr>
 		<tr>
-			<td style="width: 279px;">Cateringpersoneel (chef catering grote keuken)</td>
-			<td style="width: 122px;">C221</td>
+			<td>Cateringpersoneel (back up chef catering grote keuken)</td>
+			<td colspan="2">C111</td>
 		</tr>
 		<tr>
-			<td style="width: 279px;">cateringpersoneel (back-up chef catering middelgrote keuken)</td>
-			<td style="width: 122px;">D132</td>
+			<td>Cateringpersoneel (chef catering kleine keuken)</td>
+			<td colspan="2">C123</td>
 		</tr>
 		<tr>
-			<td style="width: 279px;">cateringpersoneel (back-up chef catering kleine keuken)</td>
-			<td style="width: 122px;">D132</td>
+			<td>Cateringpersoneel (chef catering middelgrote keuken)</td>
+			<td colspan="2">C211</td>
+		</tr>
+		<tr>
+			<td>Cateringpersoneel (chef catering grote keuken)</td>
+			<td colspan="2">C221</td>
+		</tr>
+		<tr>
+			<td>cateringpersoneel (back-up chef catering middelgrote keuken)</td>
+			<td colspan="2">D132</td>
+		</tr>
+		<tr>
+			<td>cateringpersoneel (back-up chef catering kleine keuken)</td>
+			<td colspan="2">D132</td>
+		</tr>
+		<tr>
+			<td colspan="" rowspan="12>">1.4. Vlaams Agentschap voor Internationaal Ondernemen</td>
+			<td rowspan="4">Vlaams economisch vertegenwoordiger A1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;A111</td>
+		</tr>
+		<tr>
+			<td>Na 6 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</td>
+			<td>A112</td>
+		</tr>
+		<tr>
+			<td>Na 12 jaar effectieve of daarmee gelijkgestelde prestaties in de tweede salarisschaal</td>
+			<td>A113</td>
+		</tr>
+		<tr>
+			<td>Na 9 jaar effectieve of daarmee gelijkgestelde prestaties in de derde salarisschaal</td>
+			<td>A114</td>
+		</tr>
+		<tr>
+			<td colspan="" rowspan="2>">Vlaams economisch vertegenwoordiger A2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;A211</td>
+		</tr>
+		<tr>
+			<td>Na 10 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</td>
+			<td>A212</td>
+		</tr>
+		<tr>
+			<td>Handelssecretaris Belgische en lokale nationaliteit</td>
+			<td colspan="2">Geldelijke regeling vastgesteld door het hoofd van de entiteit</td>
+		</tr>
+		<tr>
+			<td>Buitenlands ondersteunend personeelslid</td>
+			<td colspan="2">&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Adviseur exportvaardigheid</td>
+			<td colspan="2">A211</td>
+		</tr>
+		<tr>
+			<td>Coördinator marketing en kennisbeheer</td>
+			<td colspan="2">A211</td>
+		</tr>
+		<tr>
+			<td colspan="" rowspan="2>">Technologisch attaché</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;A211</td>
+		</tr>
+		<tr>
+			<td>Na 10 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</td>
+			<td>A212</td>
+		</tr>
+		<tr>
+			<td colspan="" rowspan="22>">1.5 Toerisme Vlaanderen</td>
+			<td>Schoonmaakpersoneel</td>
+			<td colspan="2">D111</td>
+		</tr>
+		<tr>
+			<td>Chauffeur</td>
+			<td colspan="2">D111</td>
+		</tr>
+		<tr>
+			<td>Directeur buitenlandkantoor</td>
+			<td colspan="2">A112</td>
+		</tr>
+		<tr>
+			<td>Senior persverantwoordelijke buitenlandkantoor</td>
+			<td colspan="2">A112</td>
+		</tr>
+		<tr>
+			<td>Senior verantwoordelijke reisindustrie buitenlandkantoor</td>
+			<td colspan="2">A112</td>
+		</tr>
+		<tr>
+			<td>Senior MICE-verantwoordelijke buitenlandkantoor</td>
+			<td colspan="2">A112</td>
+		</tr>
+		<tr>
+			<td>Junior MICE-verantwoordelijke buitenlandkantoor</td>
+			<td colspan="2">A111</td>
+		</tr>
+		<tr>
+			<td>Junior verantwoordelijke reisindustrie buitenlandkantoor</td>
+			<td colspan="2">A111</td>
+		</tr>
+		<tr>
+			<td>Junior persverantwoordelijke buitenlandkantoor</td>
+			<td colspan="2">A111</td>
+		</tr>
+		<tr>
+			<td>Verantwoordelijke administratie van het buitenlandkantoor</td>
+			<td colspan="2">B211 of B111 of C111</td>
+		</tr>
+		<tr>
+			<td>Senior assistent reisindustrie buitenlandkantoor</td>
+			<td colspan="2">B211</td>
+		</tr>
+		<tr>
+			<td>Senior persassistent buitenlandkantoor</td>
+			<td colspan="2">B211</td>
+		</tr>
+		<tr>
+			<td>Senior MICE-assistent buitenlandkantoor</td>
+			<td colspan="2">B211</td>
+		</tr>
+		<tr>
+			<td>Junior MICE-assistent buitenlandkantoor</td>
+			<td colspan="2">B111</td>
+		</tr>
+		<tr>
+			<td>Junior persassistent buitenlandkantoor</td>
+			<td colspan="2">B111</td>
+		</tr>
+		<tr>
+			<td>Junior assistent reisindustrie buitenlandkantoor</td>
+			<td colspan="2">B111</td>
+		</tr>
+		<tr>
+			<td>Consumenteninfo buitenlandkantoor</td>
+			<td colspan="2">B111 of C111</td>
+		</tr>
+		<tr>
+			<td>Baliebediende buitenlandkantoor</td>
+			<td colspan="2">C111</td>
+		</tr>
+		<tr>
+			<td>Inhoudelijk administratief medewerker vzw Info toerisme (uitdovend stelsel)</td>
+			<td colspan="2">A111 of B111 of C111</td>
+		</tr>
+		<tr>
+			<td>Inhoudelijk logistiek medewerker vzw Info Toerisme (uitdovend stelsel)</td>
+			<td colspan="2">C111</td>
+		</tr>
+		<tr>
+			<td>Baliemedewerker vzw Info Toerisme (uitdovend stelsel)</td>
+			<td colspan="2">B111 of C111 of D111</td>
+		</tr>
+		<tr>
+			<td>PPS-expert</td>
+			<td colspan="2">A211</td>
 		</tr>
 	</tbody>
 </table>
-&nbsp;&nbsp;<br>
-<br>
-<br>
 <br>
 &nbsp;
 
@@ -146,213 +296,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 
 ### BIJLAGE
 
-<strong>3) BELEIDSDOMEIN INTERNATIONAAL VLAANDEREN</strong>
-<table border="1" cellspacing="0" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="width: 180px;">&nbsp;</td>
-			<td style="width: 246px;"><strong>B/S-opdrachten</strong></td>
-			<td style="width: 155px;" colspan="3"><strong>Verloning</strong></td>
-		</tr>
-		<tr>
-			<td style="width: 180px;" rowspan="3" colspan="1">3.1. Departement Buitenlandse Zaken<br>
-			&nbsp;<br>
-			&nbsp;</td>
-			<td style="width: 246px;">Ondersteunend personeel van de vertegenwoordigers van de Vlaamse regering in het buitenland</td>
-			<td style="width: 155px;" colspan="3">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Adjunct van de directeur buitenland</td>
-			<td style="width: 155px;" colspan="3">A112</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Ondersteunend personeel van de vertegenwoordigers in het buitenland die belat zijn met de uitvoering van het Vlaams beleid inzake internationale samenwerking</td>
-			<td style="width: 155px;" colspan="3">B111</td>
-		</tr>
-		<tr>
-			<td style="width: 180px;" rowspan="12" colspan="1">3.2. Vlaams Agentschap voor Internationaal Ondernemen<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;</td>
-			<td style="width: 246px;" rowspan="4" colspan="1">Vlaams economisch vertegenwoordiger A1<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;</td>
-			<td style="width: 96px;" colspan="2">&nbsp;</td>
-			<td style="width: 59px;">A111</td>
-		</tr>
-		<tr>
-			<td style="width: 96px;" colspan="2">Na 6 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</td>
-			<td style="width: 59px;">A112</td>
-		</tr>
-		<tr>
-			<td style="width: 96px;" colspan="2">Na 12 jaar effectieve of daarmee gelijkgestelde prestaties in de tweede salarisschaal</td>
-			<td style="width: 59px;">A113</td>
-		</tr>
-		<tr>
-			<td style="width: 96px;" colspan="2">Na 9 jaar effectieve of daarmee gelijkgestelde prestaties in de derde salarisschaal</td>
-			<td style="width: 59px;">A114</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;" rowspan="2" colspan="1">Vlaams economisch vertegenwoordiger A2<br>
-			&nbsp;</td>
-			<td style="width: 96px;" colspan="2">&nbsp;</td>
-			<td style="width: 59px;">A211</td>
-		</tr>
-		<tr>
-			<td style="width: 96px;" colspan="2">Na 10 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</td>
-			<td style="width: 59px;">A212</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Handelssecretaris Belgische en lokale nationaliteit</td>
-			<td style="width: 155px;" colspan="3">Geldelijke regeling vastgesteld door het hoofd van de entiteit</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Buitenlands ondersteunen personeelslid</td>
-			<td style="width: 155px;" colspan="3">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Adviseur exportvaardigheid</td>
-			<td style="width: 155px;" colspan="3">A211</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Coördinator marketing en kennisbeheer</td>
-			<td style="width: 155px;" colspan="3">A211</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;" rowspan="2" colspan="1">Technologisch attaché<br>
-			&nbsp;</td>
-			<td style="width: 77px;">&nbsp;</td>
-			<td style="width: 78px;" colspan="2">A211</td>
-		</tr>
-		<tr>
-			<td style="width: 77px;">Na 10 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</td>
-			<td style="width: 78px;" colspan="2">A212</td>
-		</tr>
-		<tr>
-			<td style="width: 180px;" rowspan="23" colspan="1">3.3 Toerisme Vlaanderen<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;</td>
-			<td style="width: 246px;">Schoonmaakpersoneel</td>
-			<td style="width: 155px;" colspan="3">D111</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Chauffeur</td>
-			<td style="width: 155px;" colspan="3">D111</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Directeur buitenlandkantoor</td>
-			<td style="width: 155px;" colspan="3">A112</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Senior persverantwoordelijke buitenlandkantoor</td>
-			<td style="width: 155px;" colspan="3">A112</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Senior verantwoordelijke reisindustrie buitenlandkantoor</td>
-			<td style="width: 155px;" colspan="3">A112</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Senior MICE-verantwoordelijke buitenlandkantoor</td>
-			<td style="width: 155px;" colspan="3">A112</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Junior MICE-verantwoordelijke buitenlandkantoor</td>
-			<td style="width: 155px;" colspan="3">A111</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Junior verantwoordelijke reisindustrie buitenlandkantoor</td>
-			<td style="width: 155px;" colspan="3">A111</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Junior persverantwoordelijke buitenlandkantoor</td>
-			<td style="width: 155px;" colspan="3">A111</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Verantwoordelijke administratie van het buitenlandkantoor</td>
-			<td style="width: 155px;" colspan="3">B211 of B111 of C111</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Senior assistent reisindustrie buitenlandkantoor</td>
-			<td style="width: 155px;" colspan="3">B211</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Senior persassistent buitenlandkantoor</td>
-			<td style="width: 155px;" colspan="3">B211</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Senior MICE-assistent buitenlandkantoor</td>
-			<td style="width: 155px;" colspan="3">B211</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Junior MICE-assistent buitenlandkantoor</td>
-			<td style="width: 155px;" colspan="3">B111</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Junior persassistent buitenlandkantoor</td>
-			<td style="width: 155px;" colspan="3">B111</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Junior assistent reisindustrie buitenlandkantoor</td>
-			<td style="width: 155px;" colspan="3">B111</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Consumenteninfo buitenlandkantoor</td>
-			<td style="width: 155px;" colspan="3">B111 of C111</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Baliebediende buitenlandkantoor</td>
-			<td style="width: 155px;" colspan="3">C111</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Inhoudelijk administratief medewerker vzw Info toerisme (uitdovend stelsel)</td>
-			<td style="width: 155px;" colspan="3">A111 of B111 of C111</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Inhoudelijk logistiek medewerker vzw Info Toerisme (uitdovend stelsel)</td>
-			<td style="width: 155px;" colspan="3">C111</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">Baliemedewerker vzw Info Toerisme (uitdovend stelsel)</td>
-			<td style="width: 155px;" colspan="3">B111 of C111 of D111</td>
-		</tr>
-		<tr>
-			<td style="width: 246px;">PPS-expert</td>
-			<td style="width: 155px;" colspan="3">A211</td>
-		</tr>
-	</tbody>
-</table>
-&nbsp;<br>
-<br>
-&nbsp;<br>
-&nbsp;
+...
 
 ### BIJLAGE
 
