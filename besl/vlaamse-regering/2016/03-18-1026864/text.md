@@ -19,7 +19,9 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART. 2.
 
-<P>Binnen   het Vlaams Ministerie Kanselarij en Bestuur wordt een intern verzelfstandigd   agentschap zonder rechtspersoonlijkheid opgericht onder de benaming "Informatie   Vlaanderen".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   agentschap behoort tot het beleidsdomein Kanselarij en Bestuur.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Binnen het Vlaams Ministerie Kanselarij, Bestuur, Buitenlandse Zaken en Justitie wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de benaming "Informatie Vlaanderen".</p>
+
+<p>Het agentschap behoort tot het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie.</p>
 
 ### ART. 3.
 
