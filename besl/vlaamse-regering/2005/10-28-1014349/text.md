@@ -10,11 +10,11 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het   Algemeen D
 
 ### ART. 2.
 
-Binnen het Vlaamse ministerie Kanselarij en Bestuur wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht, onder de benaming "Agentschap Binnenlands Bestuur".<br>
+Binnen het Vlaamse Ministerie Kanselarij, Bestuur, Buitenlandse Zaken en Justitie wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht, onder de benaming "Agentschap Binnenlands Bestuur".<br>
 <br>
 Het agentschap wordt opgericht voor de beleidsondersteuning en de uitvoering van het beleid inzake de binnenlandse aangelegenheden, met inbegrip van de coördinatie van het beleid met betrekking tot Brussel-Hoofdstad en met betrekking tot de Vlaamse Rand rond Brussel, van het stedenbeleid, van het integratie- en inburgeringsbeleid en voor de beleidsondersteuning conform artikel III.2 van het bestuursdecreet van 7 december 2018.<br>
 <br>
-Het agentschap behoort tot het beleidsdomein Kanselarij en Bestuur.
+Het agentschap behoort tot het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie.
 
 ### ART. 3.
 
@@ -22,7 +22,23 @@ Het agentschap heeft als missie een kader te creëren voor een   kwaliteitsvol, 
 
 ### ART. 4.
 
-Het agentschap heeft onder meer tot taak het uitvoeren van een   samenhangend beleid inzake de lokale en de provinciale besturen en het   stedenbeleid, en het verticale beleid inzake gelijke kansen en inzake integratie   en inburgering, met inbegrip van het evalueren en het formuleren van voorstellen   tot aanpassing en bijsturing, inzonderheid op het vlak van:<BR>1° de   bestuurlijke regelgeving betreffende de lokale en de provinciale besturen, met   inbegrip van het aanbieden van ondersteuning aan die besturen in dat verband en   het formuleren van voorstellen, onder meer naar aanleiding van vaststellingen   ter gelegenheid van de beleidsuitvoering;<BR>2° de verdeling en het beheer van   de financieringsfondsen ten behoeve van de lokale en provinciale besturen;<BR>3°   de organisatie van de verkiezingen voor de gemeente- en provincieraden en van de   betrokkenheid van de Vlaamse overheid bij de verkiezingen van het Vlaamse   Parlement;<BR>4° de dossierbehandeling in het kader van de uitvoering van het   administratief toezicht op de lokale en provinciale besturen, voorafgaand aan de   beslissingsbevoegdheid van de minister, de gouverneur en de commissarissen van   de Vlaamse Regering;<BR>5° het stedenbeleid;<BR>6° de begraafplaatsen en de   lijkbezorging;<BR>7° de werking van de eredienstinstellingen;<BR>8° het   verticale integratie- en inburgeringsbeleid;<BR>8° /1 het verticale   gelijkekansenbeleid;<BR>9° de ondersteuning van de gouverneurs bij de   uitoefening van hun bestuurskundige opdrachten ten behoeve van de Vlaamse   Regering;<BR>10° de ontwikkeling van een kenniscentrum inzake de lokale en   provinciale besturen;<BR>11° de coördinatie van het beleid met betrekking tot   Brussel-Hoofdstad;<BR>12° de coördinatie van het beleid met betrekking tot de   Vlaamse Rand rond Brussel.<BR>13° het permanent verbeteren van de   interbestuurlijke samenwerking door de entiteiten van de Vlaamse overheid te   ondersteunen bij het proactief in kaart brengen van de weerslag op de lokale   besturen van regelgeving en de daarmee samenhangende processen en interacties,   in samenwerking met het agentschap Informatie Vlaanderen.<BR><BR>Voor de   beleidsondersteuning van het verticale integratie- en inburgeringsbeleid vervult   het agentschap de taken, vermeld in artikel 30, § 1 en § 2, 1°, a), b), en c),   en 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking   tot de organisatie van de Vlaamse administratie.
+Het agentschap heeft onder meer tot taak het uitvoeren van een samenhangend beleid inzake de lokale en de provinciale besturen en het stedenbeleid, en het verticale beleid inzake gelijke kansen en inzake integratie en inburgering, met inbegrip van het evalueren en het formuleren van voorstellen tot aanpassing en bijsturing, inzonderheid op het vlak van:<br>
+1° de bestuurlijke regelgeving betreffende de lokale en de provinciale besturen, met inbegrip van het aanbieden van ondersteuning aan die besturen in dat verband en het formuleren van voorstellen, onder meer naar aanleiding van vaststellingen ter gelegenheid van de beleidsuitvoering;<br>
+2° de verdeling en het beheer van de financieringsfondsen ten behoeve van de lokale en provinciale besturen;<br>
+3° de organisatie van de verkiezingen voor de gemeente- en provincieraden en van de betrokkenheid van de Vlaamse overheid bij de verkiezingen van het Vlaamse Parlement;<br>
+4° de dossierbehandeling in het kader van de uitvoering van het administratief toezicht op de lokale en provinciale besturen, voorafgaand aan de beslissingsbevoegdheid van de minister, de gouverneur en de commissarissen van de Vlaamse Regering;<br>
+5° het stedenbeleid;<br>
+6° de begraafplaatsen en de lijkbezorging;<br>
+7° de werking van de eredienstinstellingen;<br>
+8° het integratie- en inburgeringsbeleid;<br>
+8° /1 het gelijkekansenbeleid;<br>
+9° de ondersteuning van de gouverneurs bij de uitoefening van hun bestuurskundige opdrachten ten behoeve van de Vlaamse Regering;<br>
+10° de ontwikkeling van een kenniscentrum inzake de lokale en provinciale besturen;<br>
+11° de coördinatie van het beleid met betrekking tot Brussel-Hoofdstad;<br>
+12° de coördinatie van het beleid met betrekking tot de Vlaamse Rand rond Brussel.<br>
+13° het permanent verbeteren van de interbestuurlijke samenwerking door de entiteiten van de Vlaamse overheid te ondersteunen bij het proactief in kaart brengen van de weerslag op de lokale besturen van regelgeving en de daarmee samenhangende processen en interacties, in samenwerking met het agentschap Informatie Vlaanderen.<br>
+<br>
+Voor de beleidsondersteuning van het integratie- en inburgeringsbeleid vervult het agentschap de taken, vermeld in artikel 30, § 1 en § 2, 1°, a), b), en c), en 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
 
 ### ART. 5.
 
