@@ -56,6 +56,12 @@ De Vlaamse Regering wordt gemachtigd om specifieke bepalingen uit te werken omtr
 
 ## HOOFDSTUK 4. Wijzigingen van het decreet basisonderwijs van 25 februari 1997
 
+### ART 6.
+
+In artikel 3 van het decreet basisonderwijs van 25 februari 1997, het laatst gewijzigd bij het decreet van 6 juli 2018, wordt punt 8° vervangen door wat volgt:<br>
+<br>
+"8° bevolkingsdichtheid van een gemeente: het aantal inwoners per vierkante kilometer dat opgenomen is in de gemeentemonitor van de Vlaamse overheid en dat op 1 februari van het schooljaar voorafgaand aan de start van de zesjaarlijkse periode voor scholengemeenschappen, vermeld in artikel 125quinquies, beschikbaar is;".
+
 ### ART 7.
 
 In artikel 15 van hetzelfde decreet, vervangen door het decreet van 21 maart 2014 en gewijzigd bij de decreten van 19 juni 2015, 17 juni 2016 en 6 juli 2018, worden de volgende wijzigingen aangebracht:<br>
@@ -218,6 +224,53 @@ In artikel 115 van hetzelfde decreet, vervangen bij het decreet van 9 juli 2010 
 1° in paragraaf 1 worden de woorden "voor het buitengewoon onderwijs ook" opgeheven;<br>
 2° in paragraaf 2 worden de woorden "voor het buitengewoon onderwijs ook" opgeheven.
 
+### ART 23.
+
+Artikel 125quinquies van hetzelfde decreet, ingevoegd bij het decreet van 10 juli 2003, vervangen bij het decreet van 25 april 2014 en gewijzigd bij de decreten van 17 juni 2016 en 15 juni 2018, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 125quinquies. § 1. Een scholengemeenschap wordt opgericht:<br>
+1° bij beslissing als de scholengemeenschap wordt gevormd door scholen van hetzelfde schoolbestuur;<br>
+2° bij overeenkomst als de scholengemeenschap wordt gevormd door scholen van verschillende schoolbesturen.<br>
+<br>
+De beslissing of de overeenkomst regelt de organisatie en de werking van de scholengemeenschap.<br>
+<br>
+§ 2. Vanaf 1 september 2020 treedt de beslissing of overeenkomst in werking op 1 september en geldt ze telkens voor een periode van zes schooljaren.<br>
+<br>
+Elke volgende periode van zes schooljaren start zes jaar of een veelvoud van zes jaar na 1 september 2020.<br>
+<br>
+De beslissing of overeenkomst wordt telkens van rechtswege voor dezelfde periode verlengd als voldaan is aan al de volgende voorwaarden:<br>
+1° de scholengemeenschap beantwoordt nog aan de criteria om scholengemeenschappen te vormen;<br>
+2° er is geen beslissing of overeenkomst om de scholengemeenschap niet te verlengen of te wijzigen;<br>
+3° de samenstelling van de scholengemeenschap blijft ongewijzigd;<br>
+4° geen enkel schoolbestuur meldt voor 1 mei voorafgaand aan de start van een periode van zes schooljaren aan de andere schoolbesturen dat ze de beslissing of overeenkomst niet wil verlengen.<br>
+<br>
+Scholengemeenschappen die op 31 augustus 2020 bestaan, kunnen op 1 september 2020 onder de voorwaarden van het derde lid van rechtswege worden verlengd voor een periode van zes schooljaren.<br>
+<br>
+§ 3. In afwijking van paragraaf 2 eindigen de overeenkomsten of beslissingen, vermeld in paragraaf 1, die in werking treden in de loop van een periode van zes schooljaren als vermeld in paragraaf 2, tweede lid, op het einde van de zes schooljaren in kwestie.<br>
+<br>
+§ 4. Tijdens de periode, vermeld in paragraaf 2, kan de beslissing of overeenkomst over de vorming van een scholengemeenschap evenwel worden gewijzigd, zodat een school alsnog tot de scholengemeenschap kan toetreden of uit de scholengemeenschap kan stappen.<br>
+<br>
+Een school kan uit de scholengemeenschap stappen in een van de volgende gevallen:<br>
+1° de scholengemeenschap telt minder dan 900 gewogen regelmatige leerlingen als vermeld in artikel 125septies, op de eerste schooldag van februari van het voorgaande schooljaar;<br>
+2° een school wordt overgenomen door een schoolbestuur van een andere groep als vermeld in artikel 3, 21°, op voorwaarde dat alle schoolbesturen die behoren tot de scholengemeenschap, ermee instemmen dat de school uit de scholengemeenschap stapt.<br>
+<br>
+Wijzigingen van een beslissing of overeenkomst treden in werking op 1 september na de datum waarop de wijziging tot stand is gekomen.<br>
+<br>
+§ 5. Elke beslissing of overeenkomst met betrekking tot de vorming of de wijziging van een scholengemeenschap wordt, voor 15 juni van het schooljaar voorafgaand aan de datum van inwerkingtreding, aan de betrokken personeelsleden meegedeeld en bezorgd aan de bevoegde dienst van de Vlaamse overheid. Ook een verlenging van rechtswege wordt uiterlijk op voormelde datum aan de betrokken personeelsleden meegedeeld en bezorgd aan de bevoegde dienst van de Vlaamse overheid.".
+
+### ART 24.
+
+In artikel 125septies van hetzelfde decreet, ingevoegd bij het decreet van 10 juli 2003 en gewijzigd bij de decreten van 17 juni 2011, 25 april 2014 en 17 juni 2016, worden de volgende wijzigen aangebracht:<br>
+1° paragraaf 3 wordt vervangen door wat volgt:<br>
+" § 3. De telling om na te gaan of er voldaan wordt aan de norm van scholengemeenschap, geldt voor een periode van zes schooljaren.<br>
+<br>
+Voor scholengemeenschappen die opgericht worden in de loop van een periode van zes schooljaren, geldt de norm tot op het einde van de zes schooljaren in kwestie.";<br>
+2° paragraaf 5 wordt opgeheven.
+
+### ART 25.
+
+In artikel 125decies van hetzelfde decreet, ingevoegd bij het decreet van 10 juli 2003 en gewijzigd bij de decreten van 4 juli 2008, 20 maart 2009, 8 mei 2009 en 9 juli 2010, wordt de zinsnede "artikel 125quinquies, § 4ter, 1° en 2°, " vervangen door de zinsnede "artikel 125quinquies, § 4, tweede lid, 1° en 2°, ".
+
 ### ART 26.
 
 In artikel 153quaterdecies van het decreet van 25 februari 1997 betreffende het onderwijs, ingevoegd door het decreet van 6 juli 2018, wordt de zinsnede "Tijdens het schooljaar 2018-2019" vervangen door de zinsnede "Tijdens het schooljaar 2018-2019 en het schooljaar 2019-2020".
@@ -339,6 +392,12 @@ De scholen voor buitengewoon onderwijs starten met ondersteuning vanaf de eerste
 § 10. Het toezicht door de onderwijsinspectie en de administratie en de evaluatie en monitoring als vermeld in artikel 172quinquies, § 9 en § 10, zijn ook van toepassing op de uitvoering van dit artikel.<br>
 <br>
 § 11. Voor de toepassing van dit artikel wordt school begrepen als een gefinancierde of gesubsidieerde school.".
+
+### ART 33.
+
+In artikel 173ter van hetzelfde decreet, ingevoegd bij het decreet van 9 juli 2010, wordt paragraaf 2 vervangen door wat volgt:<br>
+<br>
+" § 2. In afwijking van artikel 3, 8°, wordt in paragraaf 1 verstaan onder bevolkingsdichtheid: het aantal inwoners per vierkante kilometer dat opgenomen is in de gemeentemonitor van de Vlaamse overheid en dat op de eerste schooldag van februari voorafgaand aan de start van het schooljaar beschikbaar is.".
 
 ## HOOFDSTUK 5. Wijziging van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemingsvorming - Syntra Vlaanderen"
 
@@ -588,6 +647,23 @@ In artikel 22/13 van dezelfde codex, ingevoegd bij het decreet van 6 juli 2018, 
 In artikel 35 van dezelfde codex wordt het tweede lid vervangen door wat volgt:<br>
 <br>
 "Na overleg binnen de schoolraad bepalen de schoolbesturen de lijst van bijdragen die aan de betrokken personen kunnen worden gevraagd, evenals de afwijkingen die op deze bijdrageregeling worden toegekend. De bijdrageregeling wordt door middel van het school- of centrumreglement aan de betrokken personen meegedeeld. Zowel de bijdrageregeling als de schoolfacturen vermelden dat gespreide betaling mogelijk is evenals een contactpersoon tot wie de betrokken personen die dergelijke gespreide betaling wensen, zich kunnen richten.".
+
+### ART 65.
+
+Artikel 51 van dezelfde codex, ingevoegd bij het decreet van 25 april 2014 en gewijzigd bij de decreten van 16 juni 2017 en 15 juni 2018, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 51. Scholengemeenschappen komen vrijwillig tot stand voor een periode van zes schooljaren vanaf 1 september volgend op de datum van de beslissing of de schriftelijke overeenkomst tot vorming van die scholengemeenschap. Indien de scholengemeenschap bestaat uit een of meer scholen van hetzelfde schoolbestuur, dan gebeurt de vorming ervan bij beslissing van dat schoolbestuur. Indien de scholengemeenschap bestaat uit scholen van verschillende schoolbesturen, dan gebeurt de vorming ervan bij schriftelijke overeenkomst tussen die schoolbesturen. Als onmiddellijk na voormelde periode de samenstelling van de scholengemeenschap niet wijzigt, wordt de scholengemeenschap van rechtswege verlengd voor een nieuwe periode van zes schooljaren.<br>
+<br>
+Scholengemeenschappen die op 31 augustus 2020 bestaan, kunnen op 1 september 2020 onder de voorwaarden van het eerste lid van rechtswege worden verlengd voor een periode van zes schooljaren.<br>
+<br>
+Tijdens voormelde periode kan de beslissing of overeenkomst inzake de vorming van een scholengemeenschap worden gewijzigd, in die zin dat een school alsnog tot een scholengemeenschap kan toetreden of uit een scholengemeenschap kan stappen. Een uitstap uit de scholengemeenschap kan alleen in volgende gevallen:<br>
+1° indien de scholengemeenschap minder dan 900 regelmatige leerlingen telt op de gebruikelijke tellingsdatum;<br>
+2° indien de school wordt overgenomen door een schoolbestuur van een ander onderwijsnet, waarbij voor wat het gesubsidieerd vrij onderwijs betreft een onderscheid wordt gemaakt tussen elke erkende godsdienst en het niet-confessioneel onderwijs, op voorwaarde dat alle schoolbesturen die behoren tot de scholengemeenschap ermee instemmen dat de school uit de scholengemeenschap stapt;<br>
+3° indien de school met een vereniging van gemeenten als schoolbestuur wordt overgenomen door een schoolbestuur dat geen vereniging van gemeenten is.<br>
+<br>
+Elke beslissing of overeenkomst met betrekking tot de vorming of de wijziging van een scholengemeenschap wordt uiterlijk 31 maart van het schooljaar voorafgaand aan de inwerkingtreding getroffen, aan de betrokken personeelsleden meegedeeld en schriftelijk aan de bevoegde dienst van de Vlaamse overheid gemeld. Ook een verlenging van rechtswege wordt uiterlijk op voormelde datum aan de betrokken personeelsleden meegedeeld en schriftelijk aan de bevoegde diensten gemeld.<br>
+<br>
+Een scholengemeenschap neemt al dan niet een rechtspersoonlijkheid of een rechtsvorm aan.".
 
 ### ART 66.
 
@@ -1006,6 +1082,10 @@ Aan artikel 357/23 van dezelfde codex, ingevoegd bij het decreet van 30 maart 20
 <br>
 De jaarlijkse vakantie als vermeld in het derde lid, wordt gelijkgesteld met een periode van dienstactiviteit.".
 
+### ART 104.
+
+Bijlage 1 bij dezelfde codex wordt vervangen door de bijlage die bij dit decreet is toegevoegd.
+
 ## HOOFDSTUK 12. Wijzigingen van de Codex Hoger Onderwijs van 11 oktober 2013
 
 ### ART 105
@@ -1290,6 +1370,10 @@ In artikel V.2 van dezelfde codificatie worden de woorden "of voor de basiseduca
 ### ART 145.
 
 In artikel V.4 van dezelfde codificatie worden de woorden "of voor de basiseducatie voor een functie" opgeheven.
+
+### ART 146.
+
+In artikel VI.5, § 2, van dezelfde codificatie wordt de zinsnede "artikel 125quinquies, § 3 of § 6, van het decreet van 25 februari 1997 betreffende het basisonderwijs, van artikel 51, derde lid, van de Codex Secundair Onderwijs," vervangen door de zinsnede "artikel 125quinquies van het decreet van 25 februari 1997 betreffende het basisonderwijs, van artikel 51 van de Codex Secundair Onderwijs,".
 
 ### ART 147.
 
