@@ -54,7 +54,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° ...<BR>2°   and
 1° van de basisomkadering van het kleuteronderwijs worden de lestijden onderwijsopdracht die, in voorkomend geval, de directeur of de adjunct-direteur presteren in het kleuteronderwijs, afgetrokken;<br>
 2° de overige lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van kleuteronderwijzer of leermeester lichamelijke opvoeding. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.</p>
 
-<p>§ 3.&nbsp;Voor de schooljaren 2012-2013, 2013-2014, 2014-2015, 2015-2016, 2016-2017, 2017-2018, 2018-2019 en 2019-2020 kan de basisomkadering van het kleuteronderwijs, mits er een tekort wordt vastgesteld aan kleuteronderwijzers met een vereist of een voldoende geacht bekwaamheidsbewijs of kleuteronderwijzers met een ander bekwaamheidsbewijs die de opleiding bachelor in het onderwijs : kleuteronderwijs volgen, worden ingericht in het ambt van kinderverzorger, na omzetting volgens de onderstaande tabel :</p>
+<p>§ 3.&nbsp;Voor de schooljaren 2012-2013, 2013-2014, 2014-2015, 2015-2016, 2016-2017, 2017-2018, 2018-2019, 2019-2020, 2020-2021 met ingang van 1 januari 2021, 2021-2022, 2022-2023 en 2023-2024 kan de basisomkadering van het kleuteronderwijs, mits er een tekort wordt vastgesteld aan kleuteronderwijzers met een vereist of een voldoende geacht bekwaamheidsbewijs of kleuteronderwijzers met een ander bekwaamheidsbewijs die de opleiding bachelor in het onderwijs : kleuteronderwijs volgen, worden ingericht in het ambt van kinderverzorger, na omzetting volgens de onderstaande tabel :</p>
 
 <p>&nbsp;</p>
 &nbsp;
@@ -228,7 +228,7 @@ Het aantal regelmatige kleuters dat de school op de instapdatum méér telt ten 
 § 3. Uit de lestijden bekomen ten gevolge van de herberekening vermeld in § 1 en uit de lestijden bekomen ten gevolge van de herberekening vermeld in artikel 173quinquies/1, § 2, van het decreet, kunnen betrekkingen worden ingericht :<br>
 1° in het ambt van kleuteronderwijzer;<br>
 2° in het ambt van leermeester lichamelijke opvoeding;<br>
-3°&nbsp;voor de schooljaren 2012-2013, 2013-2014, 2014-2015, 2015-2016, 2016-2017, 2017-2018, 2018-2019 en 2019-2020 na omzetting van de lestijden in het ambt van kinderverzorger, als er een tekort wordt vastgesteld aan kleuteronderwijzers met een vereist of een voldoende geacht bekwaamheidsbewijs of aan kleuteronderwijzers met een ander bekwaamheidsbewijs die de opleiding bachelor in het onderwijs : kleuteronderwijs volgen.<br>
+3°&nbsp;Voor de schooljaren 2012-2013, 2013-2014, 2014-2015, 2015-2016, 2016-2017, 2017-2018, 2018-2019, 2019-2020, 2020-2021 met ingang van 1 januari 2021, 2021-2022, 2022-2023 en 2023-2024 na omzetting van de lestijden in het ambt van kinderverzorger, als er een tekort wordt vastgesteld aan kleuteronderwijzers met een vereist of een voldoende geacht bekwaamheidsbewijs of aan kleuteronderwijzers met een ander bekwaamheidsbewijs die de opleiding bachelor in het onderwijs : kleuteronderwijs volgen.<br>
 <br>
 § 4. De herberekende lestijden die overeenkomstig § 3 niet worden aangewend in het ambt van kleuteronderwijzer worden samengeteld. Na het samentellen van deze herberekende lestijden worden ze omgezet volgens onderstaande tabel :&nbsp;</p>
 
@@ -1244,7 +1244,19 @@ Binnen een termijn van drie maanden na de betekening van de in artikel 28 bedoel
 
 ### ART. 30bis.
 
-Met toepassing van artikel 194quater van het decreet wordt, voor de   schooljaren 2008-2009, 2009-2010, 2010-2011, 2011-2012, 2012-2013 en 2013-2014,   aan iedere school voor gewoon kleuter-, lager en basisonderwijs die geen deel   uitmaakt van een scholengemeenschap jaarlijks de volgende puntenenveloppe voor   het voeren van een zorgbeleid toegekend :<BR>1° 9 punten voor scholen met minder   dan 100 leerlingen;<BR>2° 17 punten voor scholen met 100 tot 149   leerlingen;<BR>3° 24 punten voor scholen met 150 tot 299 leerlingen;<BR>4° 42   punten voor scholen met 300 tot 449 leerlingen;<BR>5° 61 punten voor scholen met   450 tot 599 leerlingen;<BR>6° 85 punten voor scholen met 600 tot 699   leerlingen;<BR>7° 102 punten voor scholen met 700 tot 749 leerlingen;<BR>8° 109   punten voor scholen vanaf 750 leerlingen.
+§ 1. Met toepassing van artikel 194quater van het decreet wordt aan iedere school voor gewoon basisonderwijs die geen deel uitmaakt van een scholengemeenschap jaarlijks de volgende puntenenveloppe voor het voeren van een zorgbeleid toegekend :<br>
+1° 9 punten voor scholen met minder dan 100 leerlingen;<br>
+2° 17 punten voor scholen met 100 tot 149 leerlingen;<br>
+3° 24 punten voor scholen met 150 tot 299 leerlingen;<br>
+4° 42 punten voor scholen met 300 tot 449 leerlingen;<br>
+5° 61 punten voor scholen met 450 tot 599 leerlingen;<br>
+6° 85 punten voor scholen met 600 tot 699 leerlingen;<br>
+7° 102 punten voor scholen met 700 tot 749 leerlingen;<br>
+8° 109 punten voor scholen vanaf 750 leerlingen.<br>
+<br>
+§ 2. Met toepassing van artikel 194quater van het decreet wordt de puntenenveloppe vermeld in paragraaf 1 voor scholen gewoon basisonderwijs verhoogd met 0,06211 punten per leerling. Het aldus bekomen aantal punten wordt als volgt afgerond : als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier wordt er afgerond naar het lagere geheel getal.<br>
+<br>
+§ 3. Minstens 20% van de puntenenveloppe voor het voeren van een zorgbeleid dient in de scholen van het gewoon basisonderwijs aangewend te worden voor leerlingondersteuning in de klas. Dit percentage stijgt naar 25% in het schooljaar 2021-2022, 30% in het schooljaar 2022-2023 en 35% in het schooljaar 2023-2024. Deze leerlingondersteuning kadert in de toepassing van artikel 47bis, derde lid, en artikel 153septies, 3°, van het decreet.
 
 ### ART. 30ter.
 
