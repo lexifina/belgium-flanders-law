@@ -160,7 +160,31 @@ De afwezigheid van één of meer regelmatig opgeroepen leden maakt de onderhande
 
 ### ART. 34.
 
-§ 1. De conclusies van iedere onderhandeling worden vermeld in een protocol waarin ofwel het eenparig akkoord van de afvaardiging van de inrichtende macht en van de vertegenwoordigers van het personeel, ofwel hun respectieve standpunten worden opgetekend.<br /><br />§ 2. Indien de onderhandelingen over het arbeidsreglement niet leiden tot een eenparig akkoord, zal het Centraal Paritair Comité op vraag van één van de geledingen bemiddelend optreden en indien nodig voor de betwiste punten uitsluitsel geven over wat wel of niet in het arbeidsreglement komt.
+§ 1. De conclusies van iedere onderhandeling worden vermeld in een protocol waarin ofwel het eenparig akkoord van de afvaardiging van de inrichtende macht en van de vertegenwoordigers van het personeel, ofwel hun respectieve standpunten worden opgetekend.<br>
+<br>
+§ 2. Het LOC stelt het arbeidsreglement op en brengt wijzingen aan in een bestaand arbeidsreglement.<br>
+<br>
+De leden van het (gemeenschappelijk) LOC hebben het recht om ontwerpen van arbeidsreglement of van wijziging in een bestaand arbeidsreglement voor te stellen aan het (gemeenschappelijk) LOC.<br>
+<br>
+Deze ontwerpen of voorstellen van wijzigingen worden door de voorzitter van het (gemeenschappelijk) LOC aan elk lid van het (gemeenschappelijk) LOC medegedeeld. Zij worden bovendien tegelijk ter kennis van de personeelsleden gebracht door aanplakking op een zichtbare en toegankelijke plaats binnen de school, het centrum of het internaat.<br>
+<br>
+Deze ontwerpen of voorstellen van wijzigingen worden door de voorzitter van het (gemeenschappelijk) LOC op de agenda van het (gemeenschappelijk) LOC geplaatst. Het (gemeenschappelijk) LOC waarin de onderhandelingen over het arbeidsreglement plaatvinden wordt ten vroegste vijftien kalenderdagen en uiterlijk dertig kalenderdagen na de aanplakking bijeengeroepen.<br>
+<br>
+De onderhandelingen over het arbeidsreglement leiden tot een eenparig akkoord dat wordt afgesloten met een protocol van akkoord. Als de onderhandelingen niet leiden tot een eenparig akkoord worden de onderhandelingen afgesloten met een protocol dat de betwiste punten vermeldt. De voorzitter van het (gemeenschappelijk) LOC bezorgt dit protocol binnen de vijftien kalenderdagen aan de voorzitter van het Centraal Paritair Comité.<br>
+<br>
+De voorzitter van het Centraal Paritair Comité duidt binnen een termijn van dertig kalenderdagen na ontvangst van het protocol dat de betwiste punten bevat, vier leden van het Centraal Paritair Comité aan, waarvan twee vertegenwoordigers van een werkgeversorganisatie en twee vertegenwoordigers van een werknemersorganisatie. Zij trachten de uiteenlopende standpunten binnen een termijn van dertig kalenderdagen te verzoenen.<br>
+<br>
+Als zij de standpunten niet kunnen verzoenen, stellen ze binnen de vijftien kalenderdagen een proces-verbaal van niet-verzoening op. Het protocol en het proces-verbaal van niet-verzoening worden door de voorzitter van het (gemeenschappelijk) LOC bezorgd aan de voorzitter van het Centraal Paritair Comité.<br>
+<br>
+Tijdens de eerstvolgende vergadering doet het Centraal Paritair Comité een laatste verzoeningspoging. Als er geen verzoening mogelijk is, worden de geschillen door het Centraal Paritair Comité beslecht. Deze beslissing kan enkel genomen worden bij meerderheid van 75 pct. van de leden.<br>
+<br>
+Binnen de acht kalenderdagen wordt de beslissing van het Centraal Paritair Comité overgemaakt aan de voorzitter van het (gemeenschappelijk) LOC.<br>
+<br>
+Het arbeidsreglement dat berust op een akkoord of dat eventueel ingevolge een beslissing van het Centraal Paritair Comité gewijzigd is, treedt vijftien kalenderdagen na de datum van het akkoord of van de beslissing in werking, tenzij een andere datum voor de inwerkingtreding is vastgesteld.<br>
+<br>
+§ 3. De procedure bepaald in paragraaf 2 is niet van toepassing indien gebruikgemaakt wordt van de bepalingen voor de wijzigingen opgenomen in van artikel 14 van de wet van 8 april 1965 en de wijziging van de namen van de leden van het lokaal onderhandelingscomité.<br>
+<br>
+§ 4. Afdeling 3 van de wet van 8 april 1965 tot instelling van de arbeidsreglementen is niet van toepassing op scholen, centra en internaten waar een (gemeenschappelijk) LOC werd opgericht.
 
 ### ART. 35.
 
