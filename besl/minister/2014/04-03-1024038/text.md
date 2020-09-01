@@ -9,7 +9,7 @@
 ### ART. 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° de leidend ambtenaar: de persoon die aan het hoofd staat van het Departement Buitenlandse Zaken;<br>
+1° de leidend ambtenaar: de persoon die aan het hoofd staat van het departement Kanselarij en Buitenlandse Zaken;<br>
 2° het besluit van 9 december 2016: het besluit van de Vlaamse Regering van 9 december 2016 betreffende de subsidiëring van stages bij multilaterale organisaties;<br>
 3° het besluit van 7 december 2012 : het besluit van de Vlaamse Regering van 7 december 2012 tot uitvoering van het kaderdecreet van 22 juni 2007 inzake ontwikkelingssamenwerking.
 
@@ -32,7 +32,7 @@ In dit besluit wordt verstaan onder :<br>
 10° de eindverantwoording en de eventuele wijzigingen in aard, opzet of uitvoering goed te keuren van algemene werkingssubsidies, projectsubsidies of investeringssubsidies die de Vlaamse minister, bevoegd voor de internationale samenwerking, de Vlaamse minister, bevoegd voor het buitenlands beleid en de Europese aangelegenheden, of de Vlaamse Regering toekende in het kader van de Vlaamse ontwikkelingssamenwerking of het Vlaamse buitenlands beleid;<br>
 11° subsidies, als vermeld in 2°, 6° en 10°, terug te vorderen als blijkt dat niet aan de subsidievoorwaarden is voldaan, nadat de betrokkenen de kans werd geboden om te worden gehoord.</p>
 
-<p>§ 2. Over het gebruik van deze bevoegdheid wordt jaarlijks gerapporteerd in het kader van het jaarrapport over het ondernemingsplan van het Departement Buitenlandse Zaken.<br>
+<p>§ 2. Over het gebruik van deze bevoegdheid wordt jaarlijks gerapporteerd in het kader van het jaarrapport over het ondernemingsplan van het departement Kanselarij en Buitenlandse Zaken.<br>
 <br>
 Deze rapportering bevat alle noodzakelijke informatie over de subsidies die met toepassing van paragraaf 1, 2°, in de periode in kwestie zijn verleend.</p>
 
