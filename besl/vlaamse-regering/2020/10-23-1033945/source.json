@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033945,
+  "title": "Besluit van de Vlaamse Regering van 2020-10-23 over het gebruik van videoconferentie voor de verschijning van minderjarige verdachten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033945/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "6ba91a63fccb2d1d56605c8cd18367a15b8ffa4dd73c3b3f4a04b5cc48822610",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033945&param=informatie",
+  "as_of": "2020-09-01",
+  "made": "2020-10-23",
+  "gazette": "2020-12-15",
+  "numac": 2020044154,
+  "document_start": "2020-12-25",
+  "document_end": null,
+  "in_force": "2020-09-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2020-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
