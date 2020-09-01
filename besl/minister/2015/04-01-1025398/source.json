@@ -2,16 +2,16 @@
   "codex_id": 1025398,
   "title": "Ministerieel besluit van 2015-04-01 houdende delegatie van beslissingsbevoegdheden in het kader van het herstel van schade veroorzaakt door natuurrampen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025398/VolledigDocument?datum=2015-04-01",
-  "source_sha256": "7f5b8bbe1d93465d36f388324b40e6cbb7831025c479e7c009afac06d4f6f174",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025398/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "338083cadd348d80a1cdf321fb0686dace775825d8cc4b332e7e67a1c2e1a092",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025398&param=informatie",
-  "as_of": "2015-04-01",
+  "as_of": "2020-09-01",
   "made": "2015-04-01",
   "gazette": "2015-05-29",
   "numac": 2015035645,
   "document_start": "2015-04-01",
   "document_end": null,
-  "in_force": "2015-04-01",
+  "in_force": "2020-09-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2015-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
 }

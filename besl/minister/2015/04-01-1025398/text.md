@@ -6,7 +6,7 @@
 
 ### ART. 1.
 
-Dit   besluit delegeert beslissingsbevoegdheden van de Vlaamse minister, bevoegd voor   de rampenschade, in het kader van de wet van 12 juli 1976 betreffende het   herstel van zekere schade veroorzaakt aan private goederen door natuurrampen en   haar uitvoeringsbesluiten, aan personeelsleden van het Vlaams Rampenfonds van   het departement Kanselarij en Bestuur.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Dit besluit delegeert beslissingsbevoegdheden van de Vlaamse minister, bevoegd voor de rampenschade, in het kader van de wet van 12 juli 1976 betreffende het herstel van zekere schade veroorzaakt aan private goederen door natuurrampen en haar uitvoeringsbesluiten, aan personeelsleden van het Vlaams Rampenfonds van het departement Kanselarij en Buitenlandse Zaken.
 
 ### ART. 2.
 
