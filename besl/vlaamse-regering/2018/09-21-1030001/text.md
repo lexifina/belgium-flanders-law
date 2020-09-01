@@ -540,6 +540,31 @@ In titel III, hoofdstuk III, afdeling IV, van hetzelfde besluit, ingevoegd bij h
 
 In artikel 54/15, eerste lid, 1°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 maart 2013, worden de woorden "of in de aanvraag tot uitbetaling van de cofinanciering" opgeheven.
 
+### ART 29.
+
+In artikel 64 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 23 oktober 2015, worden de volgende wijzigingen aangebracht :<br>
+<br>
+1° paragraaf 1 wordt vervangen door wat volgt :<br>
+<br>
+" § 1. Voor de overdracht van risicogrond, vermeld in artikel 29, 30 en 102 van het Bodemdecreet, moet in de volgende gevallen geen nieuw oriënterend bodemonderzoek worden uitgevoerd :<br>
+1° sinds de datum van de ondertekening van het meest recente verslag van oriënterend bodemonderzoek is of was op de te onderzoeken grond geen risico-inrichting gevestigd;<br>
+2° als sinds de datum van de ondertekening van het meest recente verslag van oriënterend bodemonderzoek wel een risico-inrichting op de te onderzoeken grond gevestigd is of was : de voormelde ondertekening dateert van minder dan een jaar voor de overdracht van de risicogrond.<br>
+<br>
+In de gevallen, vermeld in het eerste lid, moet in de volgende situaties toch een nieuw oriënterend bodemonderzoek worden uitgevoerd :<br>
+1° de ruimtelijke omschrijving van de onderzochte grond of gronden stemt niet overeen met de ruimtelijke omschrijving van de grond waarop de onderzoeksplicht rust, tenzij er voldaan is aan een van de volgende voorwaarden :<br>
+a) de te onderzoeken grond ligt volledig binnen de ruimtelijke omschrijving van de onderzochte grond of gronden;<br>
+b) de te onderzoeken grond wordt gevormd door een onderzochte grond en een grond waarop geen risico-inrichting gevestigd is of was;<br>
+2° de bestemming van de te onderzoeken grond conform de vigerende plannen van aanleg of de ruimtelijke uitvoeringsplannen is sinds de datum van de ondertekening van het meest recente verslag van oriënterend bodemonderzoek gewijzigd, waardoor een bestemmingstype met een lagere bodemsaneringsnorm van toepassing is;<br>
+3° sinds de datum van de ondertekening van het meest recente verslag van oriënterend bodemonderzoek heeft er zich een schadegeval op de grond voorgedaan.<br>
+<br>
+Het nieuwe oriënterend bodemonderzoek wordt uitgevoerd conform de standaardprocedure, vermeld in artikel 28, § 2, van het Bodemdecreet.";<br>
+<br>
+2° paragraaf 2 wordt opgeheven;<br>
+<br>
+3° paragraaf 3 wordt vervangen door wat volgt :<br>
+<br>
+" § 3. Voor de onderzoeksplicht, vermeld in artikel 33bis, § 2, van het Bodemdecreet, wordt geen nieuw oriënterend bodemonderzoek uitgevoerd als in het kader van de exploitatie van de risico-inrichting op de grond in het verleden al een oriënterend bodemonderzoek is uitgevoerd.".
+
 ### ART 30.
 
 In titel III, hoofdstuk IV, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 10 februari 2017, wordt afdeling II, die bestaat uit artikel 68 tot en met 71, opgeheven.
@@ -1430,6 +1455,18 @@ In artikel 53/4 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse 
 " § 1. De verslagen en rapporten, opgesteld in het kader van de taken van de bodemsaneringsdeskundige van type 1, worden ondertekend door minstens één persoon als vermeld in artikel 53/3, § 1, 10°, a).<br>
 <br>
 De verslagen en rapporten, opgesteld in het kader van de taken van de bodemsaneringsdeskundige van type 2, worden ondertekend door minstens één persoon als vermeld in artikel 53/3, § 1, 10°, b).".
+
+### ART 63.
+
+Artikel 53/5 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 1 maart 2013, wordt vervangen door wat volgt :<br>
+<br>
+"Art. 53/5. § 1. De erkende bodemsaneringsdeskundige garandeert een kwaliteitsvolle uitvoering van de werkzaamheden, die ook de objectieve en onafhankelijke uitvoering van de dienstverlening omvat.<br>
+<br>
+De bodemsaneringsdeskundige kan geen gebruik maken van zijn erkenning als de objectieve en onafhankelijke uitvoering van de dienstverlening ten aanzien van de opdrachtgever of de uitvoerder van de bodemsaneringswerken niet kan worden gewaarborgd. De beoordeling of de objectieve en onafhankelijke uitvoering van een dienstverlening kan worden gewaarborgd, gebeurt door de bodemsaneringsdeskundige volgens de werkwijze, opgenomen in de standaardprocedures, vermeld in titel III, hoofdstuk IV tot en met VI, XII en XIII, van het Bodemdecreet.<br>
+<br>
+De voormelde standaardprocedures bevatten een niet-limitatieve opsomming van de gevallen waarin, tot het bewijs van het tegendeel, wordt vermoed dat de erkende bodemsaneringsdeskundige zich conform het tweede lid in een situatie van onverenigbaarheid bevindt.".<br>
+<br>
+§ 2. In afwijking van paragraaf 1, tweede lid, kan de bodemsaneringsdeskundige toch gebruik maken van zijn erkenning als hij in het kader van de betrokken dienstverlening toepassing maakt van de beheersmaatregelen, opgenomen in de standaardprocedures, vermeld in paragraaf 1, tweede lid. ".
 
 ### ART 64.
 
