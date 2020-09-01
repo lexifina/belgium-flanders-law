@@ -51,7 +51,8 @@ Toerisme Vlaanderen brengt, als het met toepassing van artikel 10 van het decree
 
 ### ART. 9.
 
-Het beroep tegen de beslissing tot niet-erkenning, vermeld in artikel 7, derde lid, van het decreet van 6 maart 2009, en tegen de beslissing tot intrekking van de erkenning, vermeld in artikel 10, § 4, van het decreet van 6 maart 2009, wordt ingesteld bij de Vlaamse minister, bevoegd voor het Toerisme. De Vlaamse minister, bevoegd voor het toerisme, neemt zijn beslissing pas nadat aan de aanvragers of aan het toeristisch samenwerkingsverband de kans is geboden om door het Departement internationaal Vlaanderen te worden gehoord.<br /><br />
+Het beroep tegen de beslissing tot niet-erkenning, vermeld in artikel 7, derde lid, van het decreet van 6 maart 2009, en tegen de beslissing tot intrekking van de erkenning, vermeld in artikel 10, § 4, van het decreet van 6 maart 2009, wordt ingesteld bij de Vlaamse minister, bevoegd voor het Toerisme. De Vlaamse minister, bevoegd voor het toerisme, neemt zijn beslissing pas nadat aan de aanvragers of aan het toeristisch samenwerkingsverband de kans is geboden om door het Toerisme Vlaanderen te worden gehoord.<br>
+&nbsp;
 
 ## HOOFDSTUK VII Slotbepalingen
 
