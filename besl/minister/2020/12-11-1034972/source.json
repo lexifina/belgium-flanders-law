@@ -2,16 +2,16 @@
   "codex_id": 1034972,
   "title": "Ministerieel besluit van 2020-12-11 houdende oprichting van een tussenoverlegcomité en basisoverlegcomités in het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1034972/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "b88ca2beee261cdf96434bff4d59b07dd4ae4ca210fafe71ed8f41ba6944503a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1034972/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "2d2e7a4b4b06fd9ed4d710e3eef75cde7503d9b9e59491544095f8621f058f86",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1034972&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2020-09-01",
   "made": "2020-12-11",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2020-09-01",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
 }
