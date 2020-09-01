@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032919,
+  "title": "Besluit van de Vlaamse Regering van 2020-03-27 tot goedkeuring van de programmatie van duale structuuronderdelen in het buitengewoon secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032919/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "a33e7dfaa3c1c2b189be0715de2832e84fc98c9ee81f8fbc0eef8f3f597bf193",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032919&param=informatie",
+  "as_of": "2020-09-01",
+  "made": "2020-03-27",
+  "gazette": "2020-04-29",
+  "numac": 2020030736,
+  "document_start": "2020-09-01",
+  "document_end": null,
+  "in_force": "2020-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
