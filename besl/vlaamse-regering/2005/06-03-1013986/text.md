@@ -52,9 +52,9 @@ c) het sluiten van contracten om de opdrachten van het departement of het intern
 ### ART. 2.
 
 De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructureerd, zijn de volgende:<br>
-1° Kanselarij en Bestuur;<br>
+1° Kanselarij, Bestuur, Buitenlandse Zaken en Justitie;<br>
 2° Financiën en Begroting;<br>
-3° Internationaal Vlaanderen;<br>
+3° ...;<br>
 4° Economie, Wetenschap en Innovatie;<br>
 5° Onderwijs en Vorming;<br>
 6° Welzijn, Volksgezondheid en Gezin;<br>
@@ -66,9 +66,9 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 
 ### ART. 3.
 
-&nbsp; § 1. Het beleidsdomein Kanselarij en Bestuur omvat de volgende beleidsvelden en bevoegdheden:<br>
-&nbsp;
-<table border="1">
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span>§ 1. Het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie omvat de volgende beleidsvelden en bevoegdheden:</span></span></span>
+<table border="1" style="letter-spacing:normal; text-transform:none">
 	<tbody>
 		<tr>
 			<td>beleidsveld</td>
@@ -76,16 +76,46 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>ondersteuning Vlaamse Regering</td>
-			<td>de ondersteuning van het algemeen regeringsbeleid, waaronder:<br>
-			1° de werking van de Vlaamse Regering en haar relaties met andere overheden op regeringsniveau;<br>
-			2° de coördinatie van het evidence-informed beleid op basis van openbare statistieken en beleidsdomeinoverschrijdend beleidsonderzoek;<br>
-			3° het beleid op regeringsniveau rond complexe maatschappelijke uitdagingen met een hoge maatschappelijke impact;<br>
-			4° de ontwikkeling en vernieuwing van beleidsinstrumenten</td>
+			<td>de ondersteuning van het algemeen regeringsbeleid:<br>
+			1° de werking van de Vlaamse Regering, de institutionele aangelegenheden en de beleidsprocessen<br>
+			2° de algemene leiding, coördinatie en coherentiebewaking van de relaties van Vlaanderen met de federale overheid en de andere gemeenschappen en gewesten<br>
+			3° de kwaliteit van de regelgeving<br>
+			4° het communicatie- en imagobeleid<br>
+			5° de coördinatie van het Vlaams openbarestatistiekbeleid en van de ontwikkeling, productie en verspreiding van de Vlaamse openbare statistieken en de kwaliteitszorg ervan<br>
+			6° de strategische analyse en het beleidsonderzoek<br>
+			7° de langetermijnvisie voor Vlaanderen<br>
+			8° de vrijwaring van strategische belangen<br>
+			9° het bouwmeesterschap<br>
+			10° de modaliteiten voor onteigening ten algemenen nutte</td>
+		</tr>
+		<tr>
+			<td>buitenlands beleid</td>
+			<td>1° de internationale diplomatieke vertegenwoordiging van Vlaanderen<br>
+			2° het buitenlandse beleid en de Europese aangelegenheden, met inbegrip van:<br>
+			a) de algemene leiding van de relaties van Vlaanderen met buitenlandse overheden, de Europese Unie en internationale organisaties<br>
+			b) de coördinatie en coherentiebewaking van het internationale en Europese optreden van Vlaanderen<br>
+			c) het verdedigen van de Vlaamse standpunten over horizontale beleidsthema's op internationale en Europese fora<br>
+			d) de algemene rapportering over het Vlaamse beleid aan internationale instanties<br>
+			e) de institutionele aspecten van de Europese Unie<br>
+			f) het Europese gemeenschappelijke handelsbeleid<br>
+			g) het Europese meerjarig financieel kader (MFK) en het Europese cohesiebeleid<br>
+			h) het Europese semester in samenwerking met het beleidsdomein Financiën en Begroting i) het sluiten en goedkeuren van verdragen, vermeld in artikel 16, § 1 en § 2, en 81, § 1, van de bijzondere wet en in het samenwerkingsakkoord van 8 maart 1994 tussen de Federale Overheid, de Gemeenschappen en de Gewesten over de nadere regelen voor het sluiten van gemengde verdragen<br>
+			j) de coördinatie van de omzetting van Europese regelgeving en van de maatregelen in het kader van inbreukprocedures<br>
+			3° het protocol<br>
+			4° de controle op de handel in strategische goederen, vermeld in artikel 6, § 1, VI, eerste lid, 4°, van de bijzondere wet</td>
+		</tr>
+		<tr>
+			<td>ontwikkelingssamenwerking</td>
+			<td>de ontwikkelingssamenwerking, met inbegrip van de verankering van de internationale ontwikkelingsagenda in Vlaanderen, en humanitaire acties</td>
+		</tr>
+		<tr>
+			<td>rampenschade</td>
+			<td>de financiële tegemoetkoming naar aanleiding van schade, veroorzaakt door 1° algemene rampen, vermeld in artikel 6, § 1, II, eerste lid, 5°, van de bijzondere wet<br>
+			2° landbouwrampen, vermeld in artikel 6, § 1, V, eerste lid, 2°, van de bijzondere wet</td>
 		</tr>
 		<tr>
 			<td>gelijke kansen en integratie en inburgering</td>
-			<td>1° het gelijkekansenbeleid, gericht op de thema's gender, seksuele diversiteit, toegankelijkheid en handicap<br>
-			2° het gelijkebehandelingsbeleid gericht op de bestrijding van discriminatie<br>
+			<td>1° het gelijkekansenbeleid, gericht op de thema's gender, seksuele diversiteit, toegankelijkheid en handicap 2° het gelijkebehandelingsbeleid gericht op de bestrijding van discriminatie<br>
 			3° het beleid inzake onthaal en integratie van inwijkelingen, vermeld in artikel 5, § 1, II, 3°, van de bijzondere wet</td>
 		</tr>
 		<tr>
@@ -98,15 +128,10 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>binnenlands bestuur en stedenbeleid</td>
-			<td>1° de binnenlandse aangelegenheden, vermeld in artikel 6, § 1, VIII, en artikel 7 van de bijzondere wet<br>
-			2° de bestuurlijke organisatie van en het administratief toezicht op de openbare centra voor maatschappelijk welzijn<br>
+			<td>1° de binnenlandse aangelegenheden, vermeld in artikel 6, § 1, VIII, en artikel 7 van de bijzondere wet, met inbegrip van het overleg met andere beleidsdomeinen. 2° de bestuurlijke organisatie van en het administratief toezicht op de openbare centra voor maatschappelijk welzijn<br>
 			3° het gebruik van de talen in de lokale besturen<br>
 			4° het stedenbeleid<br>
 			5° de audit van de lokale besturen</td>
-		</tr>
-		<tr>
-			<td>rampenschade</td>
-			<td>de financiële tegemoetkoming naar aanleiding van schade, veroorzaakt door algemene rampen, vermeld in artikel 6, § 1, II, eerste lid, 5°, van de bijzondere wet</td>
 		</tr>
 		<tr>
 			<td>digitalisering</td>
@@ -116,23 +141,42 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>bestuursrechtspraak</td>
-			<td>1° de deelname aan het algemeen beleid inzake strafrecht, vermeld in artikel 11bis van de bijzondere wet<br>
-			2° de ondersteuning van de dienst van de bestuursrechtscolleges</td>
+			<td>de ondersteuning van de dienst van de bestuursrechtscolleges</td>
+		</tr>
+		<tr>
+			<td>justitie en handhaving</td>
+			<td>1° de coördinatie van het strafrechtelijk en veiligheidsbeleid, met inbegrip van de deelname aan het algemeen beleid inzake strafrecht, vermeld in artikel 11bis van de bijzondere wet<br>
+			2° het algemeen handhavingsbeleid en de uitvoering van het kaderdecreet bestuurlijke handhaving<br>
+			3° de organisatie, de werking en de opdrachten van de justitiehuizen en van de dienst die de uitwerking en de opvolging van het elektronische toezicht verzekert, vermeld in artikel 5, § 1, III, van de bijzondere wet<br>
+			4° de juridische eerstelijnsbijstand<br>
+			5° de coördinatie van de hulp en de dienstverlening aan gedetineerden en geïnterneerden<br>
+			6° de coördinatie van de Family Justice Centers en de ketenaanpak intrafamiliaal geweld</td>
 		</tr>
 		<tr>
 			<td>interne dienstverlening Vlaamse overheid</td>
 			<td>1° het algemeen beleid inzake de facilitaire dienstverlening in de Vlaamse administratie<br>
-			2° het algemeen beleid inzake het vastgoedbeheer in de Vlaamse administratie<br>
-			3° het algemeen beleid inzake informatie- en communicatietechnologie in de Vlaamse administratie<br>
-			4° het algemeen beleid inzake personeel en organisatieontwikkeling in de Vlaamse administratie, inclusief het interne diversiteitsbeleid inzake personeel<br>
-			5° de audit van de Vlaamse administratie</td>
+			2° het algemeen beleid inzake overheidsopdrachten in de Vlaamse administratie<br>
+			3° het algemeen beleid inzake het vastgoedbeheer in de Vlaamse administratie<br>
+			4° het algemeen beleid inzake informatie- en communicatietechnologie in de Vlaamse administratie<br>
+			5° het algemeen beleid inzake personeel en organisatieontwikkeling in de Vlaamse administratie, inclusief het interne diversiteitsbeleid inzake personeel, het personeelsbeheer van de kabinetten en de uitvoering van het statuut van de leden van de Vlaamse Regering en inclusief het crisisbeheer<br>
+			6° de audit van de Vlaamse administratie</td>
+		</tr>
+		<tr>
+			<td>toerisme</td>
+			<td>het toerisme, vermeld in artikel 6, § 1, VI, eerste lid, 9°, van de bijzondere wet, met inbegrip van de vestigingsvoorwaarden, en de aangelegenheden, vermeld in artikel 4bis en 6sexies van de bijzondere wet, en met inbegrip van vrijetijdsbesteding in het kader van toerisme</td>
+		</tr>
+		<tr>
+			<td>internationaal ondernemen</td>
+			<td>1° het afzet- en uitvoerbeleid, vermeld in artikel 6, § 1, VI, eerste lid, 3°, van de bijzondere wet, met uitzondering van het afzet- en uitvoerbeleid van landbouw-, tuinbouw- en visserijproducten, maar met inbegrip van het verkennen van buitenlandse markten voor de afzet en uitvoer van die producten<br>
+			2° het aantrekken van buitenlandse investeringen<br>
+			3° de vertegenwoordiging van het Vlaamse Gewest in federale instellingen en organen voor het verstrekken van waarborgen tegen uitvoer-, invoer- en investeringsrisico's, en in het Agentschap voor Buitenlandse Handel</td>
 		</tr>
 	</tbody>
 </table>
 <br>
-§ 2. Het beleidsdomein Kanselarij en Bestuur omvat de volgende inhoudelijke structuurelementen:<br>
-&nbsp;
-<table border="1">
+<span style="font-size:medium"><span style="color:#000000"><span>§ 2. Het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie omvat de volgende inhoudelijke structuurelementen:</span></span></span>
+
+<table style="letter-spacing:normal; text-transform:none">
 	<tbody>
 		<tr>
 			<td>beleidsveld</td>
@@ -143,9 +187,20 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 			<td>ondersteuning Vlaamse Regering</td>
 		</tr>
 		<tr>
+			<td>buitenlands beleid</td>
+			<td>buitenlands beleid</td>
+		</tr>
+		<tr>
+			<td>ontwikkelingssamenwerking</td>
+			<td>ontwikkelingssamenwerking</td>
+		</tr>
+		<tr>
+			<td>rampenschade</td>
+			<td>rampenschade</td>
+		</tr>
+		<tr>
 			<td>gelijke kansen en integratie en inburgering</td>
-			<td>1° gelijke kansen<br>
-			2° integratie en inburgering</td>
+			<td>1° gelijke kansen 2° integratie en inburgering</td>
 		</tr>
 		<tr>
 			<td>Brussel</td>
@@ -162,16 +217,16 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 			3° audit lokale besturen</td>
 		</tr>
 		<tr>
-			<td>rampenschade</td>
-			<td>rampenschade</td>
-		</tr>
-		<tr>
 			<td>digitalisering</td>
 			<td>digitalisering</td>
 		</tr>
 		<tr>
 			<td>bestuursrechtspraak</td>
 			<td>bestuursrechtspraak</td>
+		</tr>
+		<tr>
+			<td>justitie en handhaving</td>
+			<td>justitiehuizen en elektronisch toezicht</td>
 		</tr>
 		<tr>
 			<td>interne dienstverlening Vlaamse overheid</td>
@@ -182,14 +237,24 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 			5° HR<br>
 			6° audit Vlaamse overheid</td>
 		</tr>
+		<tr>
+			<td>toerisme</td>
+			<td>toerisme</td>
+		</tr>
+		<tr>
+			<td>internationaal ondernemen</td>
+			<td>1° internationale economische belangenbehartiging en vertegenwoordiging<br>
+			2° financiële hefbomen internationalisering Vlaamse economie</td>
+		</tr>
 	</tbody>
 </table>
+<br>
+&nbsp;
 
 ### ART. 4.
 
-&nbsp;§ 1. Het beleidsdomein Financiën en Begroting omvat de volgende beleidsvelden en bevoegdheden:<br>
-&nbsp;
-<table border="1">
+&nbsp;§ 1. Het beleidsdomein Financiën en Begroting omvat de volgende beleidsvelden en bevoegdheden:
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
 	<tbody>
 		<tr>
 			<td>beleidsveld</td>
@@ -208,7 +273,8 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 			<td>1° het kas-, schuld- en waarborgbeheer<br>
 			2° het vermogensbeheer<br>
 			3° de gewestelijke aspecten van het kredietbeleid, met inbegrip van de oprichting en het beheer van openbare kredietinstellingen, vermeld in artikel 6, § 1, VI, eerste lid, 2°, van de bijzondere wet<br>
-			4° de authenticatie van handelingen met een onroerend karakter, vermeld in artikel 6quinquies van de bijzondere wet</td>
+			4° de authenticatie van handelingen met een onroerend karakter, vermeld in artikel 6quinquies van de bijzondere wet<br>
+			5° de alternatieve financiering van overheidsinvesteringen</td>
 		</tr>
 		<tr>
 			<td>boekhouding</td>
@@ -217,8 +283,7 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 	</tbody>
 </table>
 <br>
-§ 2. Het beleidsdomein Financiën en Begroting omvat de volgende inhoudelijke structuurelementen:<br>
-&nbsp;
+§ 2. Het beleidsdomein Financiën en Begroting omvat de volgende inhoudelijke structuurelementen:
 <table border="1">
 	<tbody>
 		<tr>
@@ -246,75 +311,7 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 
 ### ART. 5.
 
-&nbsp;§ 1. Het beleidsdomein Internationaal Vlaanderen omvat de volgende beleidsvelden en bevoegdheden:<br>
-&nbsp;
-<table border="1">
-	<tbody>
-		<tr>
-			<td>beleidsveld</td>
-			<td>bevoegdheid</td>
-		</tr>
-		<tr>
-			<td>buitenlands beleid</td>
-			<td>1° de internationale diplomatieke vertegenwoordiging van Vlaanderen<br>
-			2° het buitenlandse beleid en de Europese aangelegenheden, met inbegrip van:<br>
-			a) de algemene leiding van de relaties van Vlaanderen met buitenlandse overheden, de Europese Unie en internationale organisaties<br>
-			b) de coördinatie en coherentiebewaking van het internationale en Europese optreden van Vlaanderen<br>
-			c) het verdedigen van de Vlaamse standpunten over horizontale beleidsthema's op internationale en Europese fora<br>
-			d) de algemene rapportering over het Vlaamse beleid aan internationale instanties<br>
-			e) de institutionele aspecten van de Europese Unie<br>
-			f) het Europese gemeenschappelijke handelsbeleid<br>
-			g) het Europese meerjarig financieel kader (MFK) en het Europese cohesiebeleid<br>
-			h) het Europese semester en de Europa 2020-strategie, in samenwerking met het beleidsdomein Financiën en Begroting en het beleidsdomein Kanselarij en Bestuur<br>
-			i) het sluiten en goedkeuren van verdragen, vermeld in artikel 16, § 1 en § 2, en 81, § 1, van de bijzondere wet en in het samenwerkingsakkoord van 8 maart 1994 tussen de Federale Overheid, de Gemeenschappen en de Gewesten over de nadere regelen voor het sluiten van gemengde verdragen<br>
-			j) de coördinatie van de omzetting van Europese regelgeving en van de maatregelen in het kader van inbreukprocedures<br>
-			3° het protocol<br>
-			4° de controle op de handel in strategische goederen, vermeld in artikel 6, § 1, VI, eerste lid, 4°, van de bijzondere wet</td>
-		</tr>
-		<tr>
-			<td>ontwikkelingssamenwerking</td>
-			<td>de ontwikkelingssamenwerking, met inbegrip van de verankering van de internationale ontwikkelingsagenda in Vlaanderen, en humanitaire acties</td>
-		</tr>
-		<tr>
-			<td>toerisme</td>
-			<td>het toerisme, vermeld in artikel 6, § 1, VI, eerste lid, 9°, van de bijzondere wet, met inbegrip van de vestigingsvoorwaarden, en de aangelegenheden, vermeld in artikel 4bis en 6sexies van de bijzondere wet, en met inbegrip van vrijetijdsbesteding in het kader van toerisme</td>
-		</tr>
-		<tr>
-			<td>internationaal ondernemen</td>
-			<td>1° het afzet- en uitvoerbeleid, vermeld in artikel 6, § 1, VI, eerste lid, 3°, van de bijzondere wet, met uitzondering van het afzet- en uitvoerbeleid van landbouw-, tuinbouw- en visserijproducten, maar met inbegrip van het verkennen van buitenlandse markten voor de afzet en uitvoer van die producten<br>
-			2° het aantrekken van buitenlandse investeringen<br>
-			3° de vertegenwoordiging van het Vlaamse Gewest in federale instellingen en organen voor het verstrekken van waarborgen tegen uitvoer-, invoer- en investeringsrisico's, en in het Agentschap voor Buitenlandse Handel</td>
-		</tr>
-	</tbody>
-</table>
-<br>
-§ 2. Het beleidsdomein Internationaal Vlaanderen omvat de volgende inhoudelijke structuurelementen:<br>
-&nbsp;
-<table border="1">
-	<tbody>
-		<tr>
-			<td>beleidsveld</td>
-			<td>inhoudelijk structuurelement</td>
-		</tr>
-		<tr>
-			<td>buitenlands beleid</td>
-			<td>buitenlands beleid</td>
-		</tr>
-		<tr>
-			<td>ontwikkelingssamenwerking</td>
-			<td>ontwikkelingssamenwerking</td>
-		</tr>
-		<tr>
-			<td>toerisme</td>
-			<td>toerisme</td>
-		</tr>
-		<tr>
-			<td>internationaal ondernemen</td>
-			<td>1° internationale economische belangenbehartiging en vertegenwoordiging<br>
-			2° financiële hefbomen internationalisering Vlaamse economie</td>
-		</tr>
-	</tbody>
-</table>
+...
 
 ### ART. 6.
 
@@ -461,9 +458,9 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 
 ### ART. 8.
 
-§ 1. Het beleidsdomein Welzijn, Volksgezondheid en Gezin omvat de volgende beleidsvelden en bevoegdheden:<br>
-&nbsp;
-<table border="1">
+<br>
+§ 1. Het beleidsdomein Welzijn, Volksgezondheid en Gezin omvat de volgende beleidsvelden en bevoegdheden:
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
 	<tbody>
 		<tr>
 			<td>beleidsveld</td>
@@ -471,16 +468,12 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>welzijn</td>
-			<td>1° de organisatie, de werking en de opdrachten van de justitiehuizen en van de dienst die de uitwerking en de opvolging van het elektronische toezicht verzekert, vermeld in artikel 5, § 1, III, van de bijzondere wet<br>
-			2° de bijstand aan personen, vermeld in artikel 5, § 1, II, 2°, 7° en 8°, van de bijzondere wet:<br>
-			a) het beleid inzake maatschappelijk welzijn, met inbegrip van:<br>
-			1) de openbare centra voor maatschappelijk welzijn, met uitzondering van de bestuurlijke organisatie van en het administratief toezicht op de openbare centra voor maatschappelijk welzijn<br>
-			2) het algemeen welzijnswerk<br>
-			3) de samenlevingsopbouw<br>
-			b) het doelgroepenbeleid:<br>
-			1) de sociale hulpverlening aan gedetineerden met het oog op hun sociale re-integratie<br>
-			2) het beleid inzake kansarmoede<br>
-			c) de juridische eerstelijnsbijstand</td>
+			<td>de bijstand aan personen, vermeld in artikel 5, § 1, II, 2°, 7° en 8°, van de bijzondere wet:<br>
+			1° het beleid inzake maatschappelijk welzijn, met inbegrip van:<br>
+			a) de openbare centra voor maatschappelijk welzijn, met uitzondering van de bestuurlijke organisatie van en het administratief toezicht op de openbare centra voor maatschappelijk welzijn<br>
+			b) het algemeen welzijnswerk<br>
+			c) de samenlevingsopbouw<br>
+			2° het beleid inzake kansarmoede</td>
 		</tr>
 		<tr>
 			<td>gezondheids- en woonzorg</td>
@@ -519,9 +512,9 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 	</tbody>
 </table>
 <br>
-§ 2. Het beleidsdomein Welzijn, Volksgezondheid en Gezin omvat de volgende inhoudelijke structuurelementen:<br>
-&nbsp;
-<table border="1">
+§ 2. Het beleidsdomein Welzijn, Volksgezondheid en Gezin omvat de volgende inhoudelijke structuurelementen:
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
 	<tbody>
 		<tr>
 			<td>beleidsveld</td>
@@ -529,11 +522,10 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>welzijn</td>
-			<td>1° justitiehuizen en elektronisch toezicht<br>
-			2° Vlaams intersectoraal akkoord<br>
-			3° welzijnswerk<br>
-			4° armoedebeleid<br>
-			5° beleidsondersteuning</td>
+			<td>1° Vlaams intersectoraal akkoord<br>
+			2° welzijnswerk<br>
+			2° armoedebeleid<br>
+			4° beleidsondersteuning</td>
 		</tr>
 		<tr>
 			<td>gezondheids- en woonzorg</td>
@@ -562,6 +554,8 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 	</tbody>
 </table>
+<br>
+&nbsp;
 
 ### ART. 9.
 
@@ -723,16 +717,17 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 			<td>landbouw en zeevisserij</td>
 			<td>1° de landbouw, vermeld in artikel 6, § 1, V, eerste lid, van de bijzondere wet:<br>
 			a) het landbouwbeleid en de zeevisserij;<br>
-			b) de financiële tegemoetkoming naar aanleiding van schade, veroorzaakt door landbouwrampen;<br>
+			b) ...;<br>
 			c) de specifieke regels betreffende de pacht en de veepacht<br>
-			2° de land- en tuinbouwvorming in het kader van beroepsomscholing en -bijscholing, vermeld in artikel 4, 16°, van de bijzondere wet<br>
-			3° het afzet- en uitvoerbeleid van landbouw-, tuinbouw- en visserijproducten, met uitzondering van de verkenning van buitenlandse markten voor de afzet en uitvoer van die producten, maar met inbegrip van de toekenning van kwaliteitslabels en oorsprongsbenamingen van regionale of lokale aard</td>
+			2° de land- en tuinbouwvorming in het kader van beroepsomscholing en -bijscholing, vermeld in artikel 4, 16°, van de bijzondere wet
+			<div>3° het afzet- en uitvoerbeleid van landbouw-, tuinbouw- en visserijproducten, met uitzondering van de verkenning van buitenlandse markten voor de afzet en uitvoer van die producten, maar met inbegrip van de toekenning van kwaliteitslabels en oorsprongsbenamingen van regionale of lokale aard</div>
+			</td>
 		</tr>
 		<tr>
 			<td>landbouw- en zeevisserijonderzoek</td>
 			<td>het onderzoek met betrekking tot de landbouw, vermeld in artikel 6, § 1, V, eerste lid, van de bijzondere wet:<br>
 			1° het landbouwbeleid en de zeevisserij<br>
-			2° de financiële tegemoetkoming naar aanleiding van schade, veroorzaakt door landbouwrampen<br>
+			2° ...<br>
 			3° de specifieke regels betreffende de pacht en de veepacht</td>
 		</tr>
 		<tr>
@@ -994,24 +989,22 @@ De aangelegenheden die bij artikel 3 tot en met 13 aan de verschillende beleidsd
 
 ### ART. 17.
 
-<p>§ 1. Voor het beleidsdomein Kanselarij en Bestuur wordt het Vlaams ministerie met de naam "Kanselarij en Bestuur" opgericht, dat bestaat uit het departement "Kanselarij en Bestuur",&nbsp;de Dienst van de Bestuursrechtscolleges en&nbsp;vijf agentschappen zonder rechtspersoonlijkheid:<br>
-1° Audit Vlaanderen.<br>
+<p>§ 1. Voor het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie wordt het Vlaams Ministerie met de naam " Kanselarij, Bestuur, Buitenlandse Zaken en Justitie" opgericht, dat bestaat uit het Departement "Kanselarij en Buitenlandse Zaken", de Dienst van de Bestuursrechtscolleges en vijf agentschappen zonder rechtspersoonlijkheid:<br>
+1° Audit Vlaanderen;<br>
 2° Agentschap Overheidspersoneel;<br>
 3° Agentschap Facilitair Bedrijf;<br>
 4° Agentschap Binnenlands Bestuur;<br>
-5° agentschap Informatie Vlaanderen.<br>
+5° Agentschap Informatie Vlaanderen.<br>
 <br>
-§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Kanselarij en Bestuur behoren, zijn :<br>
-1° ...;<br>
-2° de Rand;<br>
-3° Muntpunt;<br>
-4° Toegankelijk Vlaanderen;<br>
-5° ...<br>
-6° Vlaamse Vereniging voor ICT-personeel (Vlaanderen connect.);<br>
-7° Agentschap Integratie en Inburgering;<br>
-8° het Vlaams Pensioenfonds.<br>
-<br>
-§ 3. ....</p>
+§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie behoren, zijn :<br>
+1° de Rand;<br>
+2° Muntpunt;<br>
+3° Toegankelijk Vlaanderen;<br>
+4° Vlaamse Vereniging voor ICT-personeel (Vlaanderen connect.);<br>
+5° Agentschap Integratie en Inburgering;<br>
+6° het Vlaams Pensioenfonds;<br>
+7° het Vlaams Agentschap voor Internationaal Ondernemen;<br>
+8° Toerisme Vlaanderen.</p>
 
 ### ART. 18.
 
@@ -1025,11 +1018,7 @@ De aangelegenheden die bij artikel 3 tot en met 13 aan de verschillende beleidsd
 
 ### ART. 20.
 
-§ 1. Voor het beleidsdomein Internationaal Vlaanderen wordt het Vlaams Ministerie van Buitenlandse Zaken opgericht, dat bestaat uit het Departement Buitenlandse Zaken.<br>
-<br>
-§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Internationaal Vlaanderen behoren zijn :<br>
-1° het Vlaams Agentschap voor Internationaal Ondernemen;<br>
-2° Toerisme Vlaanderen.
+...
 
 ### ART. 21.
 
