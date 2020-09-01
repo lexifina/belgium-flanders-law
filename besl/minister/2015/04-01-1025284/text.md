@@ -6,7 +6,9 @@
 
 ### ART. 1.
 
-<P>De   secretaris-generaal van het departement Kanselarij en Bestuur is gemachtigd om   erkenning te verlenen aan aannemers na advies van de federale Commissie tot   erkenning der aannemers, ingesteld bij de wet van 20 maart 1991 houdende   regeling van de erkenning van aannemers van werken.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   secretaris-generaal kan deze bevoegdheid subdelegeren aan personeelsleden van   het departement, tot op het meest functionele niveau. Elke subdelegatie wordt   meegedeeld aan de minister, bevoegd voor het algemeen regeringsbeleid.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De administrateur-generaal van het agentschap Facilitair Bedrijf is gemachtigd om erkenning te verlenen aan aannemers na advies van de federale Commissie tot erkenning der aannemers, ingesteld bij de wet van 20 maart 1991 houdende regeling van de erkenning van aannemers van werken.</p>
+
+<p>De administrateur-generaal kan deze bevoegdheid subdelegeren aan personeelsleden van het agentschap, tot op het meest functionele niveau. Elke subdelegatie wordt meegedeeld aan de minister, bevoegd voor de overheidsopdrachten.</p>
 
 ### ART. 2.
 

@@ -2,16 +2,16 @@
   "codex_id": 1025284,
   "title": "Ministerieel besluit van 2015-04-01 houdende delegatie inzake erkenning van aannemers",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025284/VolledigDocument?datum=2015-04-01",
-  "source_sha256": "b9b2ffa99f569a9e76a8de9ee7d5d5c8c692b088b28ee9becca56e5f3f7f059d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025284/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "c6a76fa31cbf4f7e03402aebdf9532de3e50e95a9c1b510136abd6d6b6df79c0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025284&param=informatie",
-  "as_of": "2015-04-01",
+  "as_of": "2020-09-01",
   "made": "2015-04-01",
   "gazette": "2015-04-16",
   "numac": 2015035495,
   "document_start": "2015-04-01",
   "document_end": null,
-  "in_force": "2015-04-01",
+  "in_force": "2020-09-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2015-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
 }
