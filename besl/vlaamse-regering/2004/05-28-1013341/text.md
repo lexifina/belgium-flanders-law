@@ -157,13 +157,13 @@ De minister kan op verzoek van de erkenningsaanvrager, na gemotiveerd   advies v
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (handtekening)&nbsp;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(voornaam en achternaam) ».<br>
 <br>
-§ 2. Het Departement Internationaal Vlaanderen bezorgt voor de samenstelling van de technische commissie brandveiligheid een indicatieve lijst met kandidaten aan de minister. De minister kan een of meer kandidaten aan die lijst toevoegen.<br>
+§ 2.Toerisme Vlaanderen bezorgt voor de samenstelling van de technische commissie brandveiligheid een indicatieve lijst met kandidaten aan de minister. De minister kan een of meer kandidaten aan die lijst toevoegen.<br>
 <br>
 § 3. De minister benoemt de leden van de technische commissie brandveiligheid.<br>
 <br>
 § 4. Een vertegenwoordiger van Toerisme Vlaanderen die wordt aangewezen door de leidend ambtenaar van Toerisme Vlaanderen, en een vertegenwoordiger van het Departement Cultuur, Jeugd en Media van het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media, wonen met raadgevende stem de vergaderingen van de technische commissie brandveiligheid bij. Als die vertegenwoordigers verhinderd zijn, kunnen ze een plaatsvervanger aanwijzen.<br>
 <br>
-§ 5. Het secretariaat van de technische commissie brandveiligheid wordt waargenomen door het Departement Internationaal Vlaanderen.<br>
+§ 5. Het secretariaat van de technische commissie brandveiligheid wordt waargenomen door Toerisme Vlaanderen.<br>
 <br>
 § 6. De voorzitter en de deskundigen van de technische commissie brandveiligheid zijn ertoe gemachtigd om in onderling overleg buitenstaanders als deskundigen uit te nodigen op de vergaderingen van de commissie. Die buitenstaanders hebben geen stemrecht.<br>
 <br>
