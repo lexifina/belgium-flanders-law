@@ -391,7 +391,7 @@ In het bevoegde lokaal comité worden algemene afspraken onderhandeld over de be
 <br>
 Het recht op een tijdelijke aanstelling van doorlopende duur geldt voor betrekkingen in alle instellingen of CLB's van de inrichtende macht waarbij het recht is verworven.<br>
 <br>
-Om een beroep te doen op het recht op een tijdelijke aanstelling van doorlopende duur stelt het personeelslid zich, op straffe van verlies ervan voor het volgende schooljaar, voor 15 juni kandidaat bij die inrichtende macht met een ter post aangetekende brief. Die kandidaatstelling geldt voor alle betrekkingen waarvoor het recht is verworven. Als het personeelslid in een of meer instellingen of CLB's van de inrichtende macht een eerste maal effectief wordt aangesteld voor doorlopende duur in het ambt waarvoor hij het recht heeft verworven, dan geldt dat vanaf dat ogenblik als een over de schooljaren doorlopende kandidatuur voor dat ambt.<br>
+Om een beroep te doen op het recht op een tijdelijke aanstelling van doorlopende duur stelt het personeelslid zich, op straffe van verlies van zijn recht voor het volgende schooljaar, voor 15 juni kandidaat bij de inrichtende macht. Het personeelslid kan dat naar keuze doen met een ter post aangetekende brief of op een wijze die door de inrichtende macht, na onderhandeling in het bevoegde onderhandelingscomité, wordt vastgelegd en die, wat tegenstelbaarheid betreft, minimaal dezelfde garanties biedt als een ter post aangetekende brief. De inrichtende macht deelt de mogelijkheden van mededeling van de kandidaatstelling mee aan alle personeelsleden en maakt dit ook openbaar.&nbsp;Die kandidaatstelling geldt voor alle betrekkingen waarvoor het recht is verworven. Als het personeelslid in een of meer instellingen of CLB's van de inrichtende macht een eerste maal effectief wordt aangesteld voor doorlopende duur in het ambt waarvoor hij het recht heeft verworven, dan geldt dat vanaf dat ogenblik als een over de schooljaren doorlopende kandidatuur voor dat ambt.<br>
 <br>
 Het recht op een tijdelijke aanstelling van doorlopende duur geldt niet voor de personeelsleden, vermeld in hoofdstuk IVbis, voor wat betreft het volume van hun vastbenoemde opdracht, waarvoor ze een verlof hebben verkregen om tijdelijk een andere opdracht uit te oefenen..<br>
 <br>
@@ -477,7 +477,7 @@ In het bevoegde lokaal comité van de scholengemeenschap worden algemene afsprak
 <br>
 Als het personeelslid het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven in een of meer instellingen van een scholengemeenschap, dan geldt dat recht voor betrekkingen in alle instellingen van die scholengemeenschap.<br>
 <br>
-Om een beroep te doen op dat recht moet het personeelslid zich, op straffe van verlies ervan voor het volgende schooljaar, voor 15 juni kandidaat stellen met een ter post aangetekende brief bij een inrichtende macht van een van de instellingen van de scholengemeenschap. Die kandidaatstelling geldt voor alle betrekkingen waarvoor het recht is verworven en voor alle instellingen van de scholengemeenschap in kwestie.<br>
+Om een beroep te doen op het recht op een tijdelijke aanstelling van doorlopende duur stelt het personeelslid zich, op straffe van verlies van zijn recht voor het volgende schooljaar, voor 15 juni kandidaat bij de inrichtende macht van een van de instellingen van de scholengemeenschap. Het personeelslid kan dat naar keuze doen met een ter post aangetekende brief of op een wijze die door de scholengemeenschap na onderhandeling in het bevoegde onderhandelingscomité, wordt vastgelegd en die, wat tegenstelbaarheid betreft, minimaal dezelfde garanties biedt als een ter post aangetekende brief. De scholengemeenschap deelt de mogelijkheden van mededeling van de kandidaatstelling mee aan alle personeel leden en maakt dit ook openbaar.&nbsp;Die kandidaatstelling geldt voor alle betrekkingen waarvoor het recht is verworven en voor alle instellingen van de scholengemeenschap in kwestie.<br>
 <br>
 Als het personeelslid diensten heeft gepresteerd bij een andere inrichtende macht dan die waarbij hij zijn kandidatuur stelt, voegt hij bij zijn kandidaatstelling een lijst met de gepresteerde diensten om zijn aanspraak op het recht op een aanstelling van doorlopende duur te staven.<br>
 <br>
@@ -696,7 +696,7 @@ Deze bepaling is niet van toepassing op de CLB's.</p>
 <br>
 Indien het identieke betrekkingen in hetzelfde ambt betreft volstaat evenwel één kandidatuurstelling.<br>
 <br>
-§ 2. Bij de vaste benoeming geniet het personeelslid dat een dienstanciënniteit heeft van tenminste 960 dagen gepresteerd bij de inrichtende macht in een betrekking van de betrokken categorie, bij deze inrichtende macht voorrang boven een kandidaat die deze anciënniteit niet heeft. De 960 dagen moeten worden bereikt op 30 juni voorafgaand aan de datum waarop de vaste benoeming ingaat, behalve voor het technisch en administratief personeel waarvoor de bedoelde 960 dagen moeten worden bereikt op 31 augustus voorafgaand aan de datum waarop de vaste benoeming ingaat. Voor scholen behorend tot een scholengemeenschap:<br>
+§ 2. Bij de vaste benoeming geniet het personeelslid dat een dienstanciënniteit heeft van tenminste 960 dagen gepresteerd bij de inrichtende macht in een betrekking van de betrokken categorie, bij deze inrichtende macht voorrang boven een kandidaat die deze anciënniteit niet heeft. De 960 dagen moeten worden bereikt op 31 augustus voorafgaand aan de datum waarop de vaste benoeming ingaat.&nbsp;&nbsp;Voor scholen behorend tot een scholengemeenschap:<br>
 - mag voor de vaststelling van deze 960 dagen ook rekening gehouden worden met diensten gepresteerd bij een andere inrichtende macht behorend tot dezelfde scholengemeenschap;<br>
 -geldt de verworven voorrang voor alle scholen van deze scholengemeenschap.<br>
 <br>
@@ -1484,7 +1484,9 @@ c) ...;<br>
 
 ### ART. 61.
 
-De beslissing waarbij een personeelslid in toepassing van artikel 60 of artikel 62, 3°, wordt ontslagen of afgezet, wordt met redenen omkleed en ter kennis gebracht van de betrokkene.<br /><br />Onverminderd artikel 62bis kan deze kennisgeving enkel geschieden hetzij bij ter post aangetekende brief die uitwerking heeft op de derde werkdag na de datum van verzending, hetzij bij gerechtsdeurwaardersexploot, met dien verstande dat het personeelslid die nietigheid niet kan dekken en dat ze door de rechter van ambtswege wordt vastgesteld.
+Het ontslag in toepassing van artikel 60 wordt door de inrichtende macht met redenen omkleed en ter kennis gebracht van de betrokkene. Het ontslag of de afzetting als gevolg van een tuchtmaatregel volgens artikel 64, 6° of 7°, wordt door de inrichtende macht gegeven na het definitief worden van de tuchtmaatregel.<br>
+<br>
+Op straffe van nietigheid kan de kennisgeving door de inrichtende macht van het in het eerste lid vermelde ontslag of afzetting enkel geschieden hetzij bij een ter post aangetekende brief die uitwerking heeft op de derde werkdag na de datum van verzending, hetzij bij gerechtsdeurwaardersexploot, met dien verstande dat het personeelslid die nietigheid niet kan dekken en dat ze door de rechter van ambtswege wordt vastgesteld.
 
 ### ART. 62.
 
@@ -1508,7 +1510,7 @@ Een vastbenoemd personeelslid dat in toepassing van artikel 60, 5°, 9°, 10° o
 <br>
 Deze opzeggingstermijn begint te lopen vanaf de betekening van de beslissing bedoeld in artikel 61.<br>
 <br>
-Tijdens deze opzeggingstermijn wordt het personeelslid beschouwd als tijdelijk aangesteld en kan hij door de inrichtende macht met een andere opdracht worden belast en, uitgezonderd bij een ontslag volgens artikel 62, eerste lid, 6°, naar rato van de grootte van zijn oorspronkelijke opdracht worden vervangen.<br>
+Tijdens de opzeggingstermijn wordt het personeelslid beschouwd als tijdelijk aangesteld voor de duur van de opzeggingstermijn. De inrichtende macht kan het personeelslid met een andere opdracht belasten. Het personeelslid kan worden vervangen naar rato van de grootte van zijn oorspronkelijke opdracht, behalve bij een ontslag wegens de reden, vermeld in artikel 62, eerste lid, 6°. De dienstanciënniteit die een personeelslid tijdens de opzeggingstermijn verwerft, komt niet in aanmerking voor het verwerven van het recht op een tijdelijke aanstelling van doorlopende duur als vermeld in artikel 23 of 23bis.<br>
 <br>
 Het personeelslid ontvangt het brutosalaris verbonden aan het ambt waarin het vastbenoemd was.<br>
 <br>
@@ -1612,7 +1614,12 @@ De Vlaamse regering bepaalt de nadere regelen inzake het secretariaat en de werk
 
 ### ART. 72.
 
-De Vlaamse regering bepaalt de nadere regelen betreffende de werkwijze van   de kamer van beroep, in het procedurereglement, met dien verstande dat:<BR>1° op   straffe van verval het beroep dient ingesteld te worden binnen een termijn van   twintig kalenderdagen volgend op de schriftelijke mededeling van de sanctie door   de inrichtende macht; Deze termijn kan worden opgeschort tijdens een   vakantieperiode; <BR>2° het beroep de tuchtmaatregel opschort;<BR>3° de   aangevatte preventieve schorsing tijdens de beroepsprocedure kan worden   verlengd, ook na het verstrijken van de in artikel 67 bedoelde termijn;<BR>4°   voor het vaststellen van de redenen tot wraking van de voorzitter en de leden   zal worden uitgegaan van het bepaalde in artikel 828 van het Gerechtelijk   Wetboek;<BR>5° de rechten van de verdediging tijdens de procedure worden   gewaarborgd.
+De Vlaamse regering bepaalt de nadere regelen betreffende de werkwijze van de kamer van beroep, in het procedurereglement, met dien verstande dat:<br>
+1° op straffe van verval het beroep dient ingesteld te worden binnen een termijn van twintig kalenderdagen, te rekenen vanaf de dag na de eerste aanbieding door de post van de schriftelijke mededeling van de tuchtstraf die door de inrichtende macht aangetekend wordt verstuurd. Deze termijn kan worden opgeschort tijdens een vakantieperiode;<br>
+2° het beroep de tuchtmaatregel opschort;<br>
+3° de aangevatte preventieve schorsing tijdens de beroepsprocedure kan worden verlengd, ook na het verstrijken van de in artikel 67 bedoelde termijn;<br>
+4° voor het vaststellen van de redenen tot wraking van de voorzitter en de leden zal worden uitgegaan van het bepaalde in artikel 828 van het Gerechtelijk Wetboek;<br>
+5° de rechten van de verdediging tijdens de procedure worden gewaarborgd.
 
 ## AFDELING 6 DOORHALING VAN DE TUCHTSTRAFFEN
 
@@ -1939,7 +1946,7 @@ De vastbenoemde personeelsleden van het Hoger Instituut voor Readaptatiewetensch
 <br>
 De mededeling van deze vacante betrekkingen gebeurt voor 10 september 2018.<br>
 <br>
-§ 2. Onverminderd artikel 33, § 1 en § 4, moet de inrichtende macht met het oog op een vaste benoeming op 1 januari 2019 bijkomend ook betrekkingen als vacante betrekkingen meedelen die beantwoorden aan de volgende voorwaarden :<br>
+§ 2. Onverminderd artikel 33, § 1 en § 4, moet de inrichtende macht met het oog op een vaste benoeming op 1 januari 2021 bijkomend ook betrekkingen als vacante betrekkingen meedelen die beantwoorden aan de volgende voorwaarden :<br>
 1° de betrekking is ingericht in een wervingsambt van het bestuurs- en onderwijzend personeel;<br>
 2° de vastbenoemde titularis van de betrekking, vermeld in punt 1°, is voor zijn volledige opdracht of voor een deel van zijn opdracht voor een volledig schooljaar afwezig omwille van een of meer van volgende verlofstelsels :<br>
 a) verlof wegens bijzondere opdracht zoals bepaald in artikel 51quater van dit decreet;<br>
@@ -1951,15 +1958,13 @@ f) politiek verlof zoals bepaald in artikel 29 tot en met 36bis van het decreet 
 g) verlof voor verminderde prestaties zoals bepaald in hoofdstuk II van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof en de afwezigheid voor verminderde prestaties;<br>
 h) afwezigheid voor verminderde prestaties zoals bepaald in hoofdstuk III van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof en de afwezigheid voor verminderde prestaties.<br>
 <br>
-Van het totale volume van de opdrachten waarvoor de personeelsleden onder de voorwaarden, vermeld in het eerste lid, afwezig zijn, moet de inrichtende macht 33 procent vacant verklaren en mag hij maximum 50 procent vacant verklaren. Deze bepaling geldt telkens apart :<br>
-- voor het geheel van de instellingen van het deeltijds kunstonderwijs;<br>
-- voor het geheel van de instellingen van het volwassenenonderwijs;<br>
-- in het basisonderwijs voor het geheel van de instellingen die tot een scholengemeenschap behoren enerzijds en voor de scholen die niet tot een scholengemeenschap behoren anderzijds;<br>
-- in het secundair onderwijs voor het geheel van de instellingen die tot een scholengemeenschap behoren enerzijds en voor de scholen die niet tot een scholengemeenschap behoren anderzijds.<br>
+Deze betrekkingen worden toegevoegd aan de mededeling van de vacante betrekkingen, vermeld in artikel 33, § 1.<br>
 <br>
-Als een scholengemeenschap in het basisonderwijs of secundair onderwijs instellingen bevat van meerdere inrichtende machten maakt de scholengemeenschap afspraken over de vaststelling van dit percentage.<br>
+§ 3. Onverminderd artikel 33, § 1 en § 4, moet de inrichtende macht met het oog op een vaste benoeming op 1 januari 2021 bijkomend ook betrekkingen als vacante betrekkingen meedelen die uiterlijk op 15 november 2020 beantwoorden aan de volgende voorwaarden:<br>
+1° betrekkingen in het gewoon secundair onderwijs die de school inricht met uren-leraar die de school in toepassing van artikel 21 van de Codex Secundair Onderwijs van 17 december 2010 of van artikel 90, § 1, 9°, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap tijdens het schooljaar 2019-2020 heeft overgedragen;<br>
+2° betrekkingen die een school voor gewoon secundair onderwijs inricht met uren-leraar die ze heeft ontvangen van een andere school van hetzelfde schoolbestuur of van een ander schoolbestuur binnen hetzelfde net, of volgens artikel 19 of volgens artikel 20 van de Codex Secundair Onderwijs van 17 december 2010.<br>
 <br>
-Deze betrekkingen worden toegevoegd aan de mededeling van de vacante betrekkingen, vermeld in artikel 33, § 1.
+De inrichtende macht deelt de vacante betrekkingen uiterlijk voor 30 november 2020 mee op de wijze die vermeld is in artikel 33, § 1.
 
 ### ART 84vicies.
 
