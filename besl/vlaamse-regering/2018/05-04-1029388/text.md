@@ -42,29 +42,25 @@ Op basis van de rubrieken, opgenomen in bijlage 1, voor de eerste graad, en in b
 
 ### ART 2.
 
-§ 1. De instanties, vermeld in artikel 1, dienen een curriculumdossier ter goedkeuring in bij de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming uiterlijk op 1 september van het schooljaar dat voorafgaat aan het schooljaar waarop het van toepassing wordt.<br>
+De instanties, vermeld in artikel 1, dienen een curriculumdossier ter goedkeuring in bij de bevoegde dienst uit het beleidsdomein onderwijs uiterlijk op 1 september van het schooljaar dat voorafgaat aan het schooljaar waarop het van toepassing wordt.<br>
 <br>
-De bevoegde dienst en de onderwijsinspectie toetsen elk of het curriculumdossier beantwoordt aan artikel 147/1, § 1 en 2, van de Codex Secundair Onderwijs van 17 december 2010.<br>
+Of het curriculumdossier beantwoordt aan artikel 147/1, § 1 en 2, van de Codex Secundair Onderwijs van 17 december 2010 wordt getoetst door:<br>
+1° de bevoegde dienst uit het beleidsdomein onderwijs en de onderwijsinspectie, elk afzonderlijk, als het structuuronderdeel niet als duaal structuuronderdeel kan worden georganiseerd;<br>
+2° de bevoegde dienst uit het beleidsdomein onderwijs, de bevoegde dienst uit het beleidsdomein werk en de onderwijsinspectie, elk afzonderlijk, als het structuuronderdeel alleszins als duaal structuuronderdeel kan worden georganiseerd.<br>
 <br>
 De Vlaamse Regering beslist uiterlijk twee maanden na indiening over de goedkeuring van een curriculumdossier. Als binnen die termijn geen beslissing is genomen, is het curriculumdossier van rechtswege goedgekeurd.<br>
 <br>
-De termijnen in dit artikel gelden als vervaltermijnen.<br>
+Als de Vlaamse Regering het curriculumdossier niet goedkeurt, herwerken de instanties het curriculumdossier. Ze houden daarbij rekening met de adviezen van de bevoegde dienst of diensten, naargelang van het geval, en de onderwijsinspectie. Uiterlijk één maand na de beslissing van de Vlaamse Regering tot niet-goedkeuring, dienen de instanties het herwerkte curriculumdossier ter goedkeuring in bij de bevoegde dienst uit het beleidsdomein onderwijs. De Vlaamse Regering beslist uiterlijk twee weken na die indiening.<br>
 <br>
-§ 2. In afwijking van paragraaf 1 gelden de volgende data voor de curriculumdossiers die op 1 september 2019 van toepassing worden:<br>
-1° voor indiening ter goedkeuring van de curriculumdossiers: uiterlijk twee maanden na de goedkeuring van de desbetreffende eindtermen en uitbreidingsdoelen Nederlands;<br>
-2° voor de beslissing tot goedkeuring van de curriculumdossiers: uiterlijk twee maanden na de indiening, vermeld in punt 1°.<br>
-&nbsp;
+De termijnen in dit artikel gelden als vervaltermijnen.
 
 ### ART 3.
 
-§ 1. Als de instanties, vermeld in artikel 1, geen curriculumdossier hebben ingediend binnen de vastgelegde termijn, stelt de bevoegde dienst zelf het curriculumdossier samen. De bevoegde dienst houdt, waar mogelijk, rekening met de standpunten van de voormelde instanties.<br>
+Als de instanties, vermeld in artikel 1, geen curriculumdossier of geen herwerkt curriculumdossier hebben ingediend binnen de vastgelegde termijn of als de Vlaamse Regering het herwerkte curriculumdossier niet goedkeurt, dan wordt het curriculumdossier samengesteld door de bevoegde dienst of diensten, naargelang van het geval. De bevoegde dienst of diensten, naargelang van het geval, houden waar mogelijk rekening houden met de standpunten van de voormelde instanties.<br>
 <br>
-De Vlaamse Regering beslist over de goedkeuring van het curriculumdossier, na advies van de onderwijsinspectie. Als uiterlijk op 30 november van het schooljaar dat voorafgaat aan het schooljaar waarop het curriculumdossier van toepassing wordt, geen beslissing is genomen, is het curriculumdossier van rechtswege goedgekeurd.<br>
+De Vlaamse Regering beslist over de goedkeuring van het curriculumdossier, na advies van de onderwijsinspectie. Als uiterlijk op 31 december van het schooljaar dat voorafgaat aan het schooljaar waarop het curriculumdossier van toepassing wordt, geen beslissing is genomen, is het curriculumdossier van rechtswege goedgekeurd.<br>
 <br>
-De termijnen in dit artikel gelden als vervaltermijnen.<br>
-<br>
-§ 2. In afwijking van de datum, vermeld in paragraaf 1, tweede lid, geldt voor de curriculumdossiers die op 1 september 2019 van toepassing worden als datum "uiterlijk vijf maanden na de goedkeuring van de desbetreffende eindtermen en uitbreidingsdoelen Nederlands".<br>
-&nbsp;
+De termijnen in dit artikel gelden als vervaltermijnen.
 
 ### ART 4.
 
@@ -75,7 +71,7 @@ Behoudens de vervangende eindtermen, uitbreidingsdoelen Nederlands of specifieke
 
 ### ART 5.
 
-Bij de uitoefening van hun opdrachten met betrekking tot een curriculumdossier, vermeld in artikel 2, § 1, passen de bevoegde dienst en de onderwijsinspectie de volgende criteria toe:<br>
+Bij de uitoefening van hun opdrachten met betrekking tot een curriculumdossier, vermeld in artikel 2, § 1, passen de bevoegde dienst of diensten, naargelang van het geval, en de onderwijsinspectie de volgende criteria toe:<br>
 1° het curriculumdossier is in overeenstemming met de vigerende decreet- en regelgeving met betrekking tot de onderwijsdoelen; in voorkomend geval worden de eindtermen, de uitbreidingsdoelen Nederlands en de specifieke eindtermen letterlijk opgenomen;<br>
 2° het curriculumdossier is in overeenstemming met de vigerende decreet- en regelgeving met betrekking tot de kwalificatiestructuur;<br>
 3° het curriculumdossier bevat geen doelen die tegenstrijdig zijn met doelen die het Vlaams Parlement heeft vastgelegd;<br>
@@ -83,7 +79,7 @@ Bij de uitoefening van hun opdrachten met betrekking tot een curriculumdossier, 
 5° de andere doelen dan de doelen die het Vlaams Parlement heeft vastgelegd, die in het curriculumdossier zijn opgenomen, zijn evalueerbaar, coherent en haalbaar;<br>
 6° de andere doelen dan de doelen die het Vlaams Parlement heeft vastgelegd, die in het curriculumdossier zijn opgenomen, houden rekening met de beschikbare onderwijstijd, de materiële voorzieningen en de organisatorische mogelijkheden van de scholen.<br>
 <br>
-Bij de uitoefening van hun opdracht met betrekking tot een curriculumdossier, vermeld in artikel 3, passen de bevoegde dienst en de onderwijsinspectie de criteria, vermeld in het eerste lid, 1° tot en met 6°, toe.<br>
+Bij de uitoefening van hun opdracht met betrekking tot een curriculumdossier, vermeld in artikel 3, passen de bevoegde dienst of diensten, naargelang van het geval, en de onderwijsinspectie de criteria, vermeld in het eerste lid, 1° tot en met 6°, toe.<br>
 &nbsp;
 
 ### ART 6.
@@ -185,7 +181,11 @@ f) logische doorstroommogelijkheden;<br>
 5° samenstelling onderwijskwalificatie/structuuronderdeel;<br>
 6° ordening/samenhang onderwijsdoelen; voor elk afzonderlijk onderwijsdoel wordt aangeduid enerzijds wat het statuut(*) ervan is en anderzijds in functie van welke sleutelcompetentie (**) het onderwijsdoel in kwestie is geformuleerd;<br>
 7° concordantietabel tussen de doelen die leiden tot een of meer erkende beroepskwalificaties en alle competenties zoals opgenomen in de betrokken beroepskwalificatie(s)/deelkwalificatie(s) (als dat van toepassing is en behoudens afwijking mits akkoord van de sector);<br>
-8° werkplekcomponent voor duale organisatievorm (als dat van toepassing is);<br>
+8° voor zover het structuuronderdeel alleszins als duaal structuuronderdeel kan worden georganiseerd:<br>
+a) een clustering van beroepsgerichte competenties, gebaseerd op een of meerdere beroepskwalificaties of een of meerdere deelkwalificaties voor de modulaire organisatie;<br>
+b) de werkplekcomponent bestaande uit het gemiddeld aantal uren per week op jaarbasis, de geldende overeenkomst alternerende opleiding en de contexten waarop de werkplekcomponent van toepassing is zoals afgesproken wordt in de sectorale partnerschappen;<br>
+c) het aanloopstructuuronderdeel dat, afgeleid van het curriculumdossier, georganiseerd kan worden;<br>
+d) de onderliggende beroepskwalificatie die van rechtswege studievoortgang toelaat;<br>
 9° studiebekrachtiging.<br>
 (*) De statuten zijn:<br>
 a) eindtermen;<br>
