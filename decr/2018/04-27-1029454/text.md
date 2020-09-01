@@ -46,7 +46,11 @@ h) draaischijffunctie: het centrum zet deze activiteit in als het aanbod van een
 
 ### ART 3.
 
-Dit decreet is, tenzij uitdrukkelijk anders bepaald, van toepassing op de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde basis- en secundaire scholen en centra voor leerlingenbegeleiding.
+Dit decreet is, tenzij het uitdrukkelijk anders is bepaald, van toepassing op:<br>
+1° de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde basisen secundaire scholen;<br>
+2° de centra voor deeltijds beroepssecundair onderwijs;<br>
+3° de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, voor wat de leertijd en het secundair onderwijs betreft;<br>
+4° de centra voor leerlingenbegeleiding.
 
 ## HOOFDSTUK 2. Leerlingenbegeleiding door de centra voor leerlingenbegeleiding
 
