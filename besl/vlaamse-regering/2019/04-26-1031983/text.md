@@ -84,7 +84,7 @@ In voorkomend geval kunnen in duale structuuronderdelen van opleidingsvorm 4, Se
 <br>
 Een duaal structuuronderdeel kan op een of meer beroepskwalificaties of deelkwalificaties zijn gebaseerd en bijgevolg tot een of meer bewijzen van beroepskwalificatie of bewijzen van deelkwalificatie leiden.<br>
 <br>
-De studiebewijzen, vermeld in het eerste lid, 1° tot en met 4°, waarvan het studiebewijs, vermeld in het eerste lid, 4°, alleen als het uitgereikt wordt in het beroepssecundair onderwijs, gelden als een onderwijskwalificatie, met toepassing van artikel 14 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur.<br>
+De studiebewijzen, vermeld in het eerste lid, 1° tot en met 3°, gelden als een onderwijskwalificatie als vermeld in artikel 14 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur. Het studiebewijs, vermeld in het eerste lid, 4°, geldt alleen als een onderwijskwalificatie als het uitgereikt wordt in een structuuronderdeel van het beroepssecundair onderwijs dat beantwoordt aan de samenstelling, vermeld in artikel 14, 2°, van het voormelde decreet.<br>
 <br>
 Het studiebewijs, vermeld in het eerste lid, 5°, geldt, met toepassing van artikel 14 van het voormelde decreet, als een beroepskwalificatie.<br>
 <br>
@@ -104,7 +104,7 @@ Het studiebewijs, vermeld in het eerste lid, 6°, geldt met toepassing van artik
 7° het model voor een bewijs van competenties is opgenomen in bijlage 8, die bij het voornoemde besluit van de Vlaamse Regering van 14 september 2018 is gevoegd;<br>
 8° het model voor een attest van regelmatige lesbijwoning is opgenomen in bijlage 9, die bij het voornoemde besluit van de Vlaamse Regering van 14 september 2018 is gevoegd.<br>
 <br>
-Op de modellen van de studiebewijzen, vermeld in het eerste lid, 1° tot en met 4°, waarvan het model van studiebewijs, vermeld in het eerste lid, 4°, alleen als het uitgereikt wordt in het beroepssecundair onderwijs, wordt expliciet vermeld dat het een onderwijskwalificatie betreft en het niveau ervan binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader.<br>
+Op de modellen van de studiebewijzen, vermeld in het eerste lid, 1° tot en met 3°, wordt expliciet vermeld dat het een onderwijskwalificatie betreft en wordt het niveau ervan binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader vermeld. Op het model van studiebewijs, vermeld in het eerste lid, 4°, wordt expliciet vermeld dat het een onderwijskwalificatie betreft en wordt het niveau ervan binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader vermeld, als het studiebewijs wordt uitgereikt in een structuuronderdeel van het beroepssecundair onderwijs dat beantwoordt aan de samenstelling, vermeld in artikel 14, 2°, van het decreet van 30 april 2009 betreffende de kwalificatiestructuur.<br>
 <br>
 Op het model van het studiebewijs, vermeld in het eerste lid, 5°, wordt expliciet vermeld dat het een beroepskwalificatie betreft, samen met de naam van de beroepskwalificatie en het niveau ervan binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader.<br>
 <br>
