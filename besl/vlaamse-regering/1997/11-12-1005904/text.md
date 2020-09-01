@@ -11,7 +11,7 @@ Dit besluit is van toepassing op het gewoon en buitengewoon basisonderwijs.
 Voor de toepassing van dit besluit wordt verstaan onder:<br>
 1° directie: de directeur of zijn afgevaardigde;<br>
 2° identificatienummer: identificatienummer van het Rijksregister van de natuurlijke personen;<br>
-3° leerling: leerplichtigen en kleuters;<br>
+3° leerling: leerplichtigen en niet-leerplichtige kleuters;<br>
 4° minister: de Vlaamse minister, bevoegd voor het onderwijs.
 
 ## HOOFDSTUK II DE INSCHRIJVINGEN
@@ -54,11 +54,9 @@ Voor de leerlingen die in meerdere scholen zijn ingeschreven onderzoekt het Agen
 
 ### ART. 9.
 
-§ 1. Het Agentschap voor Onderwijsdiensten verzoekt bij aangetekende brief aan de ouders wier leerplichtig kind niet in een instelling is ingeschreven, om uitleg omtrent het niet-ingeschreven zijn, en herinnert hen aan hun verplichtingen terzake.<br>
+§ 1. Het Agentschap voor Onderwijsdiensten vraagt aan de ouders wier leerplichtig kind niet in een instelling is ingeschreven, om uitleg omtrent het niet-ingeschreven zijn, en herinnert hen aan hun verplichtingen terzake.<br>
 <br>
-§ 2. Als de ouders binnen acht kalenderdagen na het aangetekend schrijven geen antwoord hebben gegeven, maakt het departement daaromtrent een verslag op en stuurt het aan de procureur des konings.<br>
-<br>
-§ 3. De minister mag het Agentschap voor Onderwijsdiensten opdragen om, alvorens toepassing te maken van het eerste lid, op een andere wijze met de ouders in contact te komen.
+§ 2. Als blijkt dat de leerplichtige niet voldoet aan de bepalingen van artikel 1 van de wet van 29 juni 1983 betreffende de leerplicht, maakt het Agentschap voor Onderwijsdiensten daarover een verslag op en stuurt het naar de procureur des konings.
 
 ### ART. 10.
 
@@ -68,7 +66,7 @@ De minister bepaalt op welke wijze de gegevens voor de toepassing van dit beslui
 
 ### ART. 10bis.
 
-Dit hoofdstuk is van toepassing op de leerplichtige leerlingen in het gewoon en buitengewoon basisonderwijs. (ing. B.V.R. 21 maart 2003, art. 2, I: 1 september 1999) ]
+Dit hoofdstuk is van toepassing op de voltijds leerplichtige leerlingen in het gewoon en buitengewoon basisonderwijs.
 
 ### ART. 10ter.
 
@@ -136,9 +134,9 @@ De afspraken over de modaliteiten aangaande het onderwijs op afstand en aangaand
 
 § 1. Alle afwezigheden die niet vallen onder artikel 10ter , 1° tot en met 5°, en artikel 10quater, worden beschouwd als problematische afwezigheden.<br>
 <br>
-§ 2. De afwezigheden die geregistreerd zijn als problematisch, worden beschouwd als gewettigde afwezigheden, op voorwaarde dat de school in begeleidende maatregelen voor de leerling in kwestie voorziet. Vanaf vijf al dan niet gespreide halve lesdagen per schooljaar die als problematische afwezigheid zijn geregistreerd, signaleert de school bovendien de problematische afwezigheden aan het centrum voor leerlingenbegeleiding en werkt ermee samen rond begeleiding van de jongere in kwestie. Van die begeleiding houdt de school een dossier bij, dat een onderdeel mag zijn van het leerlingendossier.<br>
+§ 2. De afwezigheden die geregistreerd zijn als problematisch, worden om de regelmatigheid van de leerling te beoordelen beschouwd als gewettigde afwezigheden, op voorwaarde dat de school in begeleidende maatregelen voor de leerling in kwestie voorziet. Vanaf vijf al dan niet gespreide halve lesdagen per schooljaar die als problematische afwezigheid zijn geregistreerd, signaleert de school bovendien de problematische afwezigheden aan het centrum voor leerlingenbegeleiding en werkt ermee samen rond begeleiding van de jongere in kwestie. Van die begeleiding houdt de school een dossier bij, dat een onderdeel mag zijn van het leerlingendossier.<br>
 <br>
-§ 3. De als problematisch geregistreerde afwezigheid van leerlingen waarvoor de school, omwille van hun onbereikbaarheid, in de onmogelijkheid is om in begeleiding te voorzien, worden beschouwd als gewettigde afwezigheden, mits de school kan aantonen dat ze inspanningen gedaan heeft om de betrokken leerling te lokaliseren.<br>
+§ 3. De als problematisch geregistreerde afwezigheid van leerlingen waarvoor de school, omwille van hun onbereikbaarheid, in de onmogelijkheid is om in begeleiding te voorzien, worden om de regelmatigheid van de leerling te beoordelen&nbsp;beschouwd als gewettigde afwezigheden, mits de school kan aantonen dat ze inspanningen gedaan heeft om de betrokken leerling te lokaliseren.<br>
 <br>
 § 4. ....
 
@@ -155,6 +153,27 @@ Alle wettigingen, alsook het dossier zoals bedoeld in artikel l0quinquies, § 2,
 Leerlingen die ongewettigd afwezig zijn, verliezen hun statuut van regelmatige leerling zoals voorzien in artikel 20 van het decreet basisonderwijs van 25 februari 1997. (ing. B.V.R. 21 maart 2003, art. 2, I: 1 september 1999) ]
 
 ## [HOOFDSTUK IIbis/1. AANVAARDBARE AFWEZIGHEDEN (ing. BVR 4 september 2020, art. 5, I: 1 september 2020)]
+
+### ART 10septies/1.
+
+Dit hoofdstuk is van toepassing op de leerplichtige leerlingen in het gewoon en buitengewoon kleuteronderwijs, met uitzondering van de zes- en zevenjarigen die met toepassing van artikel 12/1 van het decreet basisonderwijs van 25 februari 1997 in het kleuteronderwijs zitten.
+
+### ART 10septies/2.
+
+Alle afwezigheden die niet conform artikel 26 van het decreet basisonderwijs van 25 februari 1997 door de directie als aanvaardbaar worden geacht, worden geregistreerd als andere afwezigheden.<br>
+<br>
+Om de regelmatigheid van de leerling te beoordelen, worden de andere afwezigheden, vermeld in het eerste lid, als aanvaardbare afwezigheden beschouwd, op voorwaarde dat:<br>
+1° de school in begeleidende maatregelen voor de kleuter in kwestie voorziet;<br>
+2° de school die andere afwezigheden aan het centrum voor leerlingenbegeleiding signaleert;<br>
+3° de school met het centrum voor leerlingenbegeleiding samenwerkt rond de begeleiding van de kleuter in kwestie. Van die begeleiding houdt de school een dossier bij, dat een onderdeel mag zijn van het leerlingendossier.<br>
+<br>
+De andere afwezigheden, vermeld in het eerste lid, van leerlingen voor wie de school door de onbereikbaarheid van de leerling in kwestie niet in begeleiding kan voorzien, worden, om de regelmatigheid van de leerling te beoordelen, als aanvaardbare afwezigheden beschouwd, als de school kan aantonen dat ze inspanningen geleverd heeft om de betrokken leerling te bereiken.<br>
+<br>
+De verplichtingen, vermeld in het tweede en derde lid, gelden niet voor het aantal afwezigheden waarover de ouder in het desbetreffende schooljaar zelf mag beslissen omdat ze buiten de 290 halve dagen leerplicht vallen.
+
+### ART 10septies/3.
+
+Het dossier, vermeld in artikel 10septies/2, tweede lid, 3°, moet op de school ter inzage zijn voor de verificateurs.
 
 ## [HOOFDSTUK IIter VOORWAARDEN VOOR HET ORGANISEREN VAN HUISONDERWIJS (ing. B.V.R. 9 mei 2003, art. 5)]
 
@@ -176,7 +195,19 @@ De controle door de onderwijsinspectie, vermeld in artikel 26ter, § 1, van   he
 
 ### ART. 10decies/2.
 
-De onderwijsinspectie hanteert tijdens het controlebezoek de volgende   criteria om te controleren of het verstrekte huisonderwijs beantwoordt aan de   doelstellingen, vermeld in artikel 26bis van het decreet basisonderwijs van 25   februari 1997:<BR>1° de onderwijsdoelen van het huisonderwijs;<BR>2° de   afstemming van het verstrekte huisonderwijs op de leerbehoefte van de   leerling;<BR>3° de planning van het huisonderwijs;<BR>4° de wijze waarop het   huisonderwijs structuur krijgt;<BR>5° de beschikbaarheid van leermiddelen;<BR>6°   de tijd die besteed wordt aan het huisonderwijs;<BR>7° het voorzien van een   evaluatie van de onderwijsdoelen.<BR><BR>Aan de hand van de criteria, vermeld in   het eerste lid, beoordeelt de onderwijsinspectie meer specifiek:<BR>1° of voor   de leerplichtigen die conform artikel 26bis/2 van het voormelde decreet   basisonderwijs van 25 februari 1997 verplicht zijn een getuigschrift te behalen   bij de examencommissie, via het huisonderwijs gewerkt wordt aan een voldoende   evenwichtig aanbod van de verschillende leergebieden;<BR>2° of het huisonderwijs   heeft geleid tot meer kennis en vaardigheden;<BR>3° of alle leergebieden,   vermeld in artikel 40 van het voormelde decreet, aan bod komen.
+De onderwijsinspectie hanteert tijdens het controlebezoek de volgende criteria om te controleren of het verstrekte huisonderwijs beantwoordt aan de doelstellingen, vermeld in artikel 26bis van het decreet basisonderwijs van 25 februari 1997:<br>
+1° de onderwijsdoelen van het huisonderwijs;<br>
+2° de afstemming van het verstrekte huisonderwijs op de leerbehoefte van de leerling;<br>
+3° de planning van het huisonderwijs;<br>
+4° de wijze waarop het huisonderwijs structuur krijgt;<br>
+5° de beschikbaarheid van leermiddelen;<br>
+6° de tijd die besteed wordt aan het huisonderwijs;<br>
+7° het voorzien van een evaluatie van de onderwijsdoelen.<br>
+<br>
+Aan de hand van de criteria, vermeld in het eerste lid, beoordeelt de onderwijsinspectie meer specifiek:<br>
+1° of voor de leerplichtigen die conform artikel 26bis/2 van het voormelde decreet basisonderwijs van 25 februari 1997 verplicht zijn een getuigschrift te behalen bij de examencommissie, via het huisonderwijs gewerkt wordt aan een voldoende evenwichtig aanbod van de verschillende leergebieden;<br>
+2° of het huisonderwijs heeft geleid tot meer kennis en vaardigheden;<br>
+3° of, naargelang de leeftijd, alle leergebieden, vermeld in artikel 39 of 40 van het decreet basisonderwijs van 25 februari 1997, aan bod komen.
 
 ### ART. 10undecies.
 
