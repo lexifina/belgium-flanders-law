@@ -67,7 +67,7 @@ In opleidingsvorm 2 kan een leerling tijdens het laatste jaar van de tweede fase
 <br>
 § 3. De klassenraad bepaalt de minimale en de maximale duur van de niet-verplichte leerlingenstage, die in groep en onder voortdurende begeleiding van de leraar kan plaatsvinden in de kwalificatiefase en in het laatste jaar van de opleidingsfase van opleidingsvorm 3.<br>
 <br>
-De minimale duur van de verplichte individuele leerlingenstage tijdens de kwalificatiefase in opleidingsvorm 3, met uitzondering van het laatste jaar, is vijf dagen per schooljaar. De maximale duur is vijftien dagen per schooljaar.<br>
+De minimale duur van de verplichte individuele leerlingenstage tijdens de kwalificatiefase in opleidingsvorm 3, met uitzondering van het laatste jaar, is vijf dagen per schooljaar. De maximale duur is vijftien dagen per schooljaar.&nbsp;De klassenraad kan die duur verlengen tot zestig dagen. De duur kan langer verlengd worden als de klassenraad daarvoor een bijkomende motivering opstelt voor individuele leerlingen.<br>
 <br>
 De minimale duur van de verplichte leerlingenstage tijdens het laatste jaar van de kwalificatiefase is tien dagen. De maximale duur is dertig dagen per schooljaar. De klassenraad kan die duur verlengen tot zestig dagen. De duur kan langer verlengd worden als de klassenraad daarvoor een bijkomende motivering opstelt voor individuele leerlingen.<br>
 <br>
