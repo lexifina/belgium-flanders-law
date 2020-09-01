@@ -24,7 +24,7 @@ Besluit :<br>
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° departement: het Departement Buitenlandse Zaken;<br>
+1° departement: het Departement Kanselarij en Buitenlandse Zaken;<br>
 2° kandidaat: een persoon die een beroep wil doen op een subsidie voor een stage;<br>
 3° minister: de Vlaamse minister, bevoegd voor het buitenlands beleid en de Europese aangelegenheden;<br>
 4° multilaterale organisatie: een intergouvernementeel orgaan met internationale rechtspersoonlijkheid en eigen besluitvormingsorganen dat per verdrag opgericht is door meer dan twee staten;<br>
