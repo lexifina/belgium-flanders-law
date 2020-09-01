@@ -41,7 +41,7 @@ Deze periodes van afwezigheid moeten gedekt zijn door een geneeskundig getuigsch
 <br>
 Het universiteitsbestuur stelt regels vast omtrent de duur van de vakantie en het omstandigheidsverlof en hetgeen daarop betrekking heeft.<br>
 <br>
-§ 3. Het academisch personeelslid heeft recht op loopbaanonderbreking voor palliatieve zorgen, voor de bijstand aan of verzorging van een zwaar ziek gezins- of familielid en voor ouderschapsverlof volgens de regeling die opgenomen is in het koninklijk besluit van 7 mei 1999 betreffende de onderbreking van de beroepsloopbaan van het personeel van de besturen.<br>
+§ 3. Het academisch personeelslid heeft recht op loopbaanonderbreking voor palliatieve zorgen, voor de bijstand aan of verzorging van een zwaar ziek gezins- of familielid en voor ouderschapsverlof volgens de regeling die opgenomen is in het koninklijk besluit van 7 mei 1999 betreffende de onderbreking van de beroepsloopbaan van het personeel van de besturen en heeft recht op loopbaanonderbreking voor mantelzorg conform artikel 100ter en 102ter van de wet van 22 januari 1985 houdende sociale bepalingen.<br>
 <br>
 Het universiteitsbestuur neemt hiertoe de nodige uitvoeringsmaatregelen.<br>
 <br>
