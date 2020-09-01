@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031986,
+  "title": "Besluit van de Vlaamse Regering van 2019-06-07 tot erkenning van de Master of Innovative Health Technology als nieuwe opleiding van de Katholieke Universiteit Leuven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031986/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "9057c5e66c6790cd4cfdb447dd86e25e731dc2a535402ade3c0e08f7411c0f7e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031986&param=informatie",
+  "as_of": "2020-09-01",
+  "made": "2019-06-07",
+  "gazette": "2019-08-02",
+  "numac": 2019041470,
+  "document_start": "2020-09-01",
+  "document_end": null,
+  "in_force": "2020-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
