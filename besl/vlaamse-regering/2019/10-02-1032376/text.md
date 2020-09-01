@@ -26,10 +26,12 @@ In dit besluit wordt verstaan onder organisatiebesluit: het besluit van de Vlaam
 
 § 1. De heer Jan Jambon, voorzitter van de Vlaamse Regering, is bevoegd voor het beleidsveld Ondersteuning van de Vlaamse Regering, vermeld in artikel 3 van het organisatiebesluit.<br>
 <br>
+Hij is bevoegd voor het management van crisissituaties, hij stelt de crisissituatie vast en bepaalt de duur ervan.<br>
+<br>
 Hij draagt de titel "minister-president van de Vlaamse Regering".<br>
 <br>
 § 2. De heer Jan Jambon, lid van de Vlaamse Regering, is bevoegd voor:<br>
-1° het beleidsdomein Internationaal Vlaanderen, vermeld in artikel 5 van het organisatiebesluit, met uitzondering van het beleidsveld Toerisme;<br>
+1° de beleidsvelden Buitenlands Beleid, Ontwikkelingssamenwerking en Internationaal Ondernemen, vermeld in artikel 3 van het organisatiebesluit;<br>
 2° het beleidsveld Cultuur, vermeld in artikel 9, van het organisatiebesluit;<br>
 3° het beleidsveld Rampenschade, vermeld in artikel 3 van het organisatiebesluit;<br>
 4° het beleidsveld Digitalisering, vermeld in artikel 3 van het organisatiebesluit;<br>
@@ -117,10 +119,9 @@ Hij draagt de titel "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaa
 ### ART 6.
 
 § 1. Mevrouw Zuhal Demir is bevoegd voor:<br>
-1° het beleidsdomein omgeving, vermeld in artikel 13 van het organisatiebesluit, met uitzondering van de beleidsvelden Dierenwelzijn, Onroerend Erfgoed en Wonen;<br>
-2° het beleidsveld Toerisme, vermeld in artikel 5 van het organisatiebesluit;<br>
-3° het beleidsveld Bestuursrechtspraak, vermeld in artikel 3 van het organisatiebesluit;<br>
-4° de justitiehuizen, het elektronisch toezicht en de juridische eerstelijnsbijstand, waaronder ook de coördinatie van hulp- en dienstverlening aan gedetineerden en geïnterneerden, vermeld in artikel 8 van het organisatiebesluit.<br>
+1° het beleidsdomein Omgeving, vermeld in artikel 13 van het organisatiebesluit, met uitzondering van de beleidsvelden Dierenwelzijn, Onroerend Erfgoed en Wonen;<br>
+2° het beleidsveld Toerisme, vermeld in artikel 3 van het organisatiebesluit;<br>
+3° de beleidsvelden Bestuursrechtspraak en Justitie en Handhaving, vermeld in artikel 3 van het organisatiebesluit.<br>
 <br>
 Zij is bevoegd om, met toepassing van artikel 11bis van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, namens de Vlaamse Regering, de federale minister van Justitie te verzoeken om vervolgingen te bevelen.<br>
 <br>
@@ -143,7 +144,7 @@ Zij draagt de titel "Vlaams minister van Justitie en Handhaving, Omgeving, Energ
 
 ### ART 7.
 
-§ 1. De heer Wouter Beke is bevoegd voor het beleidsdomein Welzijn, Volksgezondheid en Gezin, vermeld in artikel 8 van het organisatiebesluit, met uitzondering van de justitiehuizen, het elektronisch toezicht en de juridische eerstelijnsbijstand, waaronder ook de coördinatie van hulp- en dienstverlening aan gedetineerden en geïnterneerden.<br>
+§ 1. De heer Wouter Beke is bevoegd voor het beleidsdomein Welzijn, Volksgezondheid en Gezin, vermeld in artikel 8 van het organisatiebesluit..<br>
 <br>
 Hij draagt de titel "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding".<br>
 <br>
