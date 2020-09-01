@@ -2,16 +2,16 @@
   "codex_id": 1008985,
   "title": "Besluit van de Vlaamse Regering van 2001-11-23 tot bepaling van de ontwikkelingsdoelen voor het buitengewoon basisonderwijs type 1",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008985/VolledigDocument?datum=2007-02-18",
-  "source_sha256": "f31dc77e37afefe484a30b2e4272b0acd8571555ec3fb5f1512c24e04e6eaa0e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008985/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "da7fef9c060707d1e286c9ff412d99cb3226913405fe7e562651f99ed0eb1cb2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008985&param=informatie",
-  "as_of": "2007-02-18",
+  "as_of": "2020-09-01",
   "made": "2001-11-23",
   "gazette": "2002-04-10",
   "numac": 2002035406,
   "document_start": "2002-04-10",
   "document_end": "2020-08-31",
-  "in_force": "2007-02-18",
+  "in_force": "2020-09-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2007-02-18; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
 }
