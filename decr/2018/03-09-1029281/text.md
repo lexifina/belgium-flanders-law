@@ -35,7 +35,7 @@ In dit decreet wordt verstaan onder :<br>
 18° domein : een artistieke uitdrukkingsvorm in respectievelijk beeldende en audiovisuele kunsten, dans, woordkunst-drama en muziek;<br>
 19° domeinoverschrijdende initiatieopleiding : een opleiding op het niveau van de eerste graad waarin twee of meer domeinen maximaal aan bod komen;<br>
 20° dunbevolkte gemeente : een gemeente met 200 inwoners per km² of minder. Voor de bepaling van het aantal inwoners per km² wordt de meest recente berekening van het Nationaal Instituut voor de Statistiek gebruikt;<br>
-21° einddoelen : basiscompetenties, beroepskwalificaties of specifieke eindtermen;<br>
+21°&nbsp;onderwijsdoelen : basiscompetenties, beroepskwalificaties of specifieke eindtermen;<br>
 22° elektronisch : een elektronische verwerking van gegevens die voldoet aan de voorwaarden van artikel 2281 van het Burgerlijk Wetboek van 21 maart 1804 en bovendien een bewijs oplevert van deze verwerking, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens;<br>
 23° erkenning : de bevoegdheid die de Vlaamse overheid aan het schoolbestuur toekent om aan leerlingen de van rechtswege geldende studiebewijzen toe te kennen;<br>
 24° financierbare leerling : een regelmatige leerling in een kortlopende of langlopende studierichting die in dezelfde opleiding zijn leertraject met maximaal één leerjaar heeft verlengd en daarenboven aan artikel 67 voldoet;<br>
@@ -233,7 +233,7 @@ De kortlopende studierichtingen bestaan uit twee of drie leerjaren. Zij worden n
 
 ### ART 12.
 
-§ 1. In het domein beeldende en audiovisuele kunsten kan een academie langlopende studierichtingen aanbieden die toeleiden tot de volgende beroepskwalificaties zoals bepaald door de socioculturele sector, de sectorfondsen en de beroepsfederaties van artistieke beroepsbeoefenaars :<br>
+§ 1. In het domein beeldende en audiovisuele kunsten kan een academie de volgende langlopende studierichtingen aanbieden die leiden tot een beroepskwalificatie zoals bepaald door de socioculturele sector, de sectorfondsen en de beroepsfederaties van artistieke beroepsbeoefenaars :<br>
 1° beeldend kunstenaar;<br>
 2° cineast;<br>
 3° fotograaf;<br>
@@ -243,9 +243,11 @@ De kortlopende studierichtingen bestaan uit twee of drie leerjaren. Zij worden n
 7° restauratievakman meubel;<br>
 8° siersmid/kunstsmid.<br>
 <br>
-§ 2. De einddoelen van de eerste, tweede en derde graad zijn voor die studierichtingen gemeenschappelijk.<br>
+De Vlaamse Regering bepaalt welke beroepskwalificatie met welke studierichting behaald kan worden.<br>
 <br>
-De einddoelen van de vierde graad zijn voor ieder van die studierichtingen verschillend.<br>
+§ 2. De onderwijsdoelen van de eerste, tweede en derde graad zijn voor die studierichtingen gemeenschappelijk.<br>
+<br>
+De onderwijsdoelen van de vierde graad zijn voor ieder van die studierichtingen verschillend.<br>
 <br>
 § 3. De som van de studieomvang van de leerjaren van de eerste graad bedraagt ten minste vier wekelijkse lestijden, gespreid over een traject van twee leerjaren.<br>
 <br>
@@ -273,14 +275,16 @@ De som van de studieomvang van de leerjaren van de studierichting specialisatie 
 
 ### ART 14.
 
-§ 1. In het domein dans kan een academie langlopende studierichtingen aanbieden die toeleiden tot de volgende beroepskwalificaties zoals bepaald door de socioculturele sector :<br>
+§ 1. In het domein dans kan een academie de volgende langlopende studierichtingen aanbieden die leiden tot een beroepskwalificatie zoals bepaald door de socioculturele sector :<br>
 1° choreograaf;<br>
 2° creërend danser;<br>
 3° vertolkend danser.<br>
 <br>
-§ 2. De einddoelen van de eerste, de tweede en de derde graad zijn voor die studierichtingen gemeenschappelijk.<br>
+De Vlaamse Regering bepaalt welke beroepskwalificatie met welke studierichting behaald kan worden.<br>
 <br>
-De einddoelen van de vierde graad zijn voor ieder van die studierichtingen verschillend.<br>
+§ 2. De onderwijsdoelen van de eerste, de tweede en de derde graad zijn voor die studierichtingen gemeenschappelijk.<br>
+<br>
+De oderwijsdoelen van de vierde graad zijn voor ieder van die studierichtingen verschillend.<br>
 <br>
 § 3. De som van de studieomvang van de leerjaren van de eerste graad bedraagt ten minste twee wekelijkse lestijden, gespreid over een traject van twee leerjaren.<br>
 <br>
@@ -306,14 +310,16 @@ De som van de studieomvang van de leerjaren van de studierichting specialisatie 
 
 ### ART 16.
 
-§ 1. In het domein woordkunst-drama kan een academie langlopende studierichtingen aanbieden die toeleiden tot de volgende beroepskwalificaties zoals bepaald door de socioculturele sector :<br>
+§ 1. In het domein woordkunst-drama kan een academie de volgende langlopende studierichtingen aanbieden die leiden tot een beroepskwalificatie zoals bepaald door de socioculturele sector :<br>
 1° creërend acteur;<br>
 2° theaterregisseur;<br>
 3° vertolkend acteur.<br>
 <br>
-§ 2. De einddoelen van de eerste, de tweede en de derde graad zijn voor die studierichtingen gemeenschappelijk.<br>
+De Vlaamse Regering bepaalt welke beroepskwalificatie met welke studierichting behaald kan worden.<br>
 <br>
-De einddoelen van de vierde graad zijn voor ieder van die studierichtingen verschillend.<br>
+§ 2. De onderwijsdoelen van de eerste, de tweede en de derde graad zijn voor die studierichtingen gemeenschappelijk.<br>
+<br>
+De onderwijsdoelen van de vierde graad zijn voor ieder van die studierichtingen verschillend.<br>
 <br>
 § 3. De som van de studieomvang van de leerjaren van de eerste graad bedraagt ten minste twee wekelijkse lestijden, gespreid over een traject van twee leerjaren.<br>
 <br>
@@ -342,18 +348,20 @@ De som van de studieomvang van de leerjaren van de studierichting specialisatie 
 
 ### ART 18.
 
-§ 1. In het domein muziek kan een academie langlopende studierichtingen aanbieden die toeleiden tot de volgende beroepskwalificaties zoals bepaald door de socioculturele sector :<br>
+§ 1. In het domein muziek kan een academie de volgende langlopende studierichtingen aanbieden die leiden tot een beroepskwalificatie zoals bepaald door de socioculturele sector :<br>
 1° beiaardier;<br>
 2° creërend muzikant;<br>
 3° dirigent;<br>
 4° dj;<br>
 5° vertolkend muzikant.<br>
 <br>
+De Vlaamse Regering bepaalt welke beroepskwalificatie met welke studierichting behaald kan worden.<br>
+<br>
 In afwijking van het eerste lid kan de studierichting beiaardier, vermeld in punt 1°, enkel georganiseerd worden in de Koninklijke Beiaardschool Jef Denyn in Mechelen.<br>
 <br>
-§ 2. De einddoelen van de eerste, de tweede en de derde graad zijn voor die studierichtingen gemeenschappelijk.<br>
+§ 2. De onderwijsdoelen van de eerste, de tweede en de derde graad zijn voor die studierichtingen gemeenschappelijk.<br>
 <br>
-De einddoelen van de vierde graad zijn verschillend voor ieder van die studierichtingen.<br>
+De onderwijsdoelen van de vierde graad zijn verschillend voor ieder van die studierichtingen.<br>
 <br>
 § 3. De som van de studieomvang van de leerjaren van de eerste graad bedraagt ten minste twee wekelijkse lestijden, gespreid over een traject van twee leerjaren.<br>
 <br>
@@ -681,7 +689,7 @@ Een leerling die beschikt over een verslag als vermeld in artikel 15 van het dec
 <br>
 Een leerling met een individueel aangepast curriculum kan afwijken van een of meer van de volgende bepalingen :<br>
 1° de bepalingen over de studieomvang, vermeld in artikel 12 tot en met 20;<br>
-2° de bepalingen over de einddoelen en de leerplannen, vermeld in artikel 5 en 8;<br>
+2° de bepalingen over de onderwijsdoelen en de leerplannen, vermeld in artikel 5 en 8;<br>
 3° de bepalingen over de toelatingsvoorwaarden, vermeld in artikel 29, paragraaf 2 en 3 en artikel 30, tot en met 36;<br>
 4° de bepalingen over de evaluatie en de studiebekrachtiging, vermeld in artikel 59 tot en met 62.<br>
 <br>
@@ -705,7 +713,7 @@ De directeur en de leerkrachten motiveren de afwijkingen in relatie tot de leerw
 
 ### ART 54.
 
-Een regelmatige leerling is verplicht deel te nemen aan alle leeractiviteiten en zich te engageren om de vooropgestelde einddoelen te realiseren, behalve in geval van door het schoolbestuur gewettigde afwezigheid of behalve in geval van vrijstelling van een vak.<br>
+Een regelmatige leerling is verplicht deel te nemen aan alle leeractiviteiten en zich te engageren om de vooropgestelde&nbsp;onderwijsdoelen te realiseren, behalve in geval van door het schoolbestuur gewettigde afwezigheid of behalve in geval van vrijstelling van een vak.<br>
 <br>
 De academie is vrij om de indeling in klasgroepen te bepalen van de leerlingen die een bepaald vak volgen. Daarbij houdt zij rekening met de leeftijdsgebonden cognitieve en psychosociale ontwikkeling van kinderen, jongeren en volwassenen.<br>
 &nbsp;
@@ -797,7 +805,7 @@ De leerlingen die meer dan een derde van de lessen niet hebben bijgewoond zonder
 
 De directeur en betrokken leerkrachten bewaken het studierendement van de leerling tijdens de verschillende leerjaren van de opleiding en nemen daartoe de nodige maatregelen voor leerlingenbegeleiding.<br>
 <br>
-Als de directeur en de betrokken leerkrachten oordelen dat een leerling ondanks de maatregelen voor leerlingenbegeleiding te weinig leerwinst geboekt heeft in relatie tot de einddoelen die hij moet bereiken, kunnen ze oordelen dat de leerling een verlengd leertraject kan krijgen. Per graad van een langlopende studierichting kan het leertraject met een leerjaar verlengd worden. Het leertraject van de kortlopende studierichtingen kan met een leerjaar verlengd worden.
+Als de directeur en de betrokken leerkrachten oordelen dat een leerling ondanks de maatregelen voor leerlingenbegeleiding te weinig leerwinst geboekt heeft in relatie tot de&nbsp;onderwijsdoelen die hij moet bereiken, kunnen ze oordelen dat de leerling een verlengd leertraject kan krijgen. Per graad van een langlopende studierichting kan het leertraject met een leerjaar verlengd worden. Het leertraject van de kortlopende studierichtingen kan met een leerjaar verlengd worden.
 
 ## Afdeling 6 Organisatie van het schooljaar
 
@@ -839,9 +847,11 @@ Een schoolbestuur verkrijgt voor haar personeelsleden die tot de categorieën on
 <br>
 Voor de toepassing van het eerste lid wordt de domeinoverschrijdende initiatieopleiding als een opleiding in een afzonderlijk domein beschouwd.<br>
 <br>
-Een leerling die meer dan een derde van de leeractiviteiten georganiseerd tussen de inschrijving en teldag voor de omkaderingberekening ongewettigd afwezig is, is niet financierbaar.<br>
+Een leerling die meer dan een derde van de leeractiviteiten georganiseerd tussen&nbsp;de start van het schooljaar en teldag voor de omkaderingberekening ongewettigd afwezig is, is niet financierbaar.<br>
 <br>
 In afwijking van het eerste lid is een leerling die tegelijkertijd een opleiding volgt in de vierde graad en in een kortlopende studierichting specialisatie financierbaar voor beide opleidingen.<br>
+<br>
+Een leerling die voor 1 november van het betrokken schooljaar geen inschrijvingsgeld heeft betaald, is niet financierbaar.<br>
 <br>
 § 3. Elke financierbare leerling telt voor een teleenheid.<br>
 <br>
@@ -862,7 +872,12 @@ De wegingen, vermeld in het tweede, vierde en zesde lid, en de wegingen, vermeld
 De wegingen, vermeld in het vijfde en het zesde lid, zijn niet cumulatief. De weging van het vijfde lid primeert.<br>
 <br>
 § 4. Voor de toepassing van de bepalingen in afdeling 2 tot en met 7 van dit hoofdstuk wordt onder "leerlingen" "gewogen financierbare leerlingen" verstaan.<br>
-&nbsp;
+<br>
+§ 5. Met behoud van de toepassing van paragraaf 2, wordt een leerling die een of meer vakken die tot het lessenrooster van dezelfde opleiding behoren, in verschillende academies volgt, in maximaal twee academies voor 50% in rekening gebracht. De wegingen, vermeld in paragraaf 3, vijfde lid, worden alleen toegepast op de omkaderingsberekening van de academie met een vestigingsplaats in het tweetalige gebied Brussel-Hoofdstad of in de gemeente Voeren voor zover de leerling alle vakken volgt in een vestigingsplaats gelegen in het tweetalige gebied Brussel-Hoofdstad of in de gemeente Voeren.<br>
+<br>
+De wegingen, vermeld in paragraaf 3, zesde lid, worden alleen toegepast op de omkaderingsberekening van de academie met een vestigingsplaats in een dunbevolkte gemeente voor zover de leerling alle vakken volgt in een vestigingsplaats gelegen in een dunbevolkte gemeente.<br>
+<br>
+Een leerling die meer opleidingen van hetzelfde domein in verschillende academies volgt, is maar in één academie financierbaar. Op basis van gegevens die het Agentschap voor Onderwijsdiensten aanreikt, beslissen de directeurs in onderling overleg in welke academie de leerling financierbaar is. Ze melden hun beslissing schriftelijk aan het Agentschap voor Onderwijsdiensten voor 1 februari. Als de directeurs niet tot een akkoord komen, is de leerling financierbaar voor het schooljaar 2019-2020 in die academie waar hij het eerst zijn inschrijvingsgeld betaald heeft voor dat schooljaar. Vanaf het schooljaar 2020-2021 is de leerling financierbaar in de academie waar zijn inschrijving voor dat schooljaar het eerst is geregistreerd in het elektronisch systeem voor de uitwisseling van leerlingengegevens van het Agentschap voor Onderwijsdiensten.
 
 ## Afdeling 2 Omkadering onderwijzend personeel
 
@@ -1161,7 +1176,7 @@ Voor de personeelsregelgeving worden de kortlopende studierichtingen beschouwd a
 
 ### ART 75.
 
-Een schoolbestuur kan tijdens een bepaald schooljaar lestijden die het in een academie niet aanwendt, overdragen naar het volgend schooljaar of naar een ander schoolbestuur als het voldoet aan al de volgende voorwaarden :<br>
+Een schoolbestuur kan tijdens een bepaald schooljaar lestijden die het in een academie niet aanwendt, overdragen naar het volgend schooljaar of naar een andere academie of naar een academie van een ander schoolbestuur als het voldoet aan al de volgende voorwaarden :<br>
 1° het maximaal aantal lestijden van een bepaald schooljaar dat wordt overgedragen wordt uiterlijk op 1 november van dat schooljaar vastgelegd;<br>
 2° het maximaal aantal lestijden van een bepaald schooljaar dat wordt overgedragen, kan nooit hoger liggen dan 3% van het aantal lestijden van dat schooljaar. Het maximum aantal overgedragen lestijden wordt altijd naar boven afgerond naar een volledige lestijd;<br>
 3° de lestijden kunnen alleen in het lopende of het volgende schooljaar worden aangewend;<br>
@@ -1172,6 +1187,8 @@ In afwijking van de voorwaarde, vermeld in het eerste lid, 4°, worden voor de t
 Als niet aan de voorwaarden voldaan is, vermeld in het eerste lid, en in het geval van een kunstacademie het eerste, tweede en derde lid, heeft een terbeschikkingstelling wegens ontstentenis van betrekking geen uitwerking ten aanzien van de overheid.<br>
 <br>
 In de overgedragen lestijden, vermeld in het eerste lid, kunnen geen personeelsleden vastbenoemd worden. Als niet aan de voormelde voorwaarde voldaan is, hebben de vaste benoemingen geen uitwerking ten aanzien van de overheid.<br>
+<br>
+De Vlaamse Regering bepaalt de termijn en de wijze waarop de overgedragen lestijden gemeld worden aan het Agentschap voor Onderwijsdiensten.<br>
 &nbsp;
 
 ## [Onderafdeling 3. Aanvullende lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel (ing. decr. 25 februari 2022, art. 50, I: 1 september 2021)]
@@ -1232,6 +1249,8 @@ De Vlaamse Regering kan met betrekking tot het samenwerkingsverband, vermeld in 
 1° de duur van de samenwerking;<br>
 2° de vorm van overeenkomst waarmee het samenwerkingsverband wordt opgericht;<br>
 3° de wijze en het tijdstip van mededeling van het samenwerkingsverband aan de overheid.<br>
+<br>
+Binnen het samenwerkingsverband wordt afgesproken aan welke academie het betrokken personeelslid administratief wordt aangesteld, in overleg met het betrokken personeelslid. Die personeelsleden kunnen dan niet alleen werken in de academie die hen administratief aanstelt, maar in alle academies van het samenwerkingsverband.<br>
 <br>
 § 4. Een academie of een samenwerkingsverband, vermeld in paragraaf 3, kan een of meer lestijden voor aanvangsbegeleiding omzetten naar administratieve omkaderingseenheden. Daarbij wordt het aantal lestijden als volgt in rekening gebracht:<br>
 &nbsp;
@@ -1415,6 +1434,10 @@ Ieder schoolbestuur van een gesubsidieerde academie legt aan het Agentschap voor
 De Vlaamse Regering bepaalt de controlemaatregelen nader en ontwikkelt een methode die het mogelijk maakt om jaarlijks een zicht te krijgen op de besteding van de werkingsmiddelen.<br>
 &nbsp;
 
+### ART 86/1.
+
+De Vlaamse Regering kan binnen de beschikbare begrotingskredieten in middelen voorzien ter ondersteuning van projecten die de onderwijskwaliteit bevorderen, en bepaalt hiervoor de nadere modaliteiten.
+
 ## Afdeling 7 Terugvorderingen en sancties
 
 ## Onderafdeling 1 Terugvorderingen
@@ -1436,6 +1459,7 @@ De Vlaamse Regering bepaalt de controlemaatregelen nader en ontwikkelt een metho
 5° elke inbreuk op de aanwending van de financiële middelen;<br>
 6° elke inbreuk op de verplichting om op de data, bepaald conform artikel 93, de inschrijvingsgelden te betalen;<br>
 7° elke inbreuk op de naleving van de verplichtingen tot behandeling van de leerling en van de personeelsleden met respect voor hun rechten en plichten en de uitvoering van de administratieve en organisatorische opdrachten en bevoegdheden die door dit decreet of door de Vlaamse Regering worden toegewezen aan de academies.<br>
+8° elke inbreuk op artikel 147, tweede lid.<br>
 <br>
 § 2. De sanctie, vermeld in paragraaf 1, is een financiële sanctie van ten hoogste 10% van de werkingsmiddelen, vermeld in artikel 83 of 84.<br>
 <br>
@@ -1591,7 +1615,7 @@ Een academie kan erkend worden als ze aan al de volgende voorwaarden voldoet :<b
 6° ze leeft de bepalingen over de taalregeling in het onderwijs en de taalkennis van het personeel na;<br>
 7° ze maakt de controle van de onderwijsinspectie mogelijk;<br>
 8° ze leeft de reglementering over de organisatie van het schooljaar na;<br>
-9° ze leeft de reglementering betreffende de einddoelen en leerplannen na;<br>
+9° ze leeft de reglementering betreffende de&nbsp;onderwijsdoelen en leerplannen na;<br>
 10° ze eerbiedigt in het geheel van haar werking de internationaalrechtelijke en grondwettelijke beginselen inzake de Rechten van de Mens en van het Kind in het bijzonder;<br>
 11° ze voert een doeltreffend beleid om het rookverbod, vermeld in artikel 4 van het decreet van 6 juni 2008 houdende het instellen van een rookverbod in onderwijsinstellingen en centra voor leerlingenbegeleiding, kenbaar te maken en te handhaven, en dat controle uitoefent over de naleving van het verbod en overtreders sancties oplegt, conform het eigen sanctiebeleid, vermeld in het academie- of arbeidsreglement.<br>
 &nbsp;
@@ -1657,7 +1681,9 @@ Voor de academies die voldoen aan de voorwaarden, vermeld in artikel 111, komt d
 
 Voor het bereiken van de rationalisatie- en programmatienormen worden alleen regelmatige leerlingen geteld.<br>
 <br>
-Elke regelmatige leerling telt in elk domein en in elke vestigingsplaats van een academie voor één teleenheid.<br>
+Voor de programmatieof rationalisatienormen van een domein telt elke regelmatige leerling in dat domein voor één teleenheid. Voor de programmatieof rationalisatienormen van een structuuronderdeel in een vestigingsplaats telt elke regelmatige leerling in dat structuuronderdeel in die vestigingsplaats voor één teleenheid.<br>
+<br>
+In afwijking van het tweede lid wordt het totale aantal dat de domeinoverschrijdende initiatieopleiding volgt in een academie, gedeeld door het aantal domeinen dat de academie organiseert. Het quotiënt telt mee voor het bereiken van de rationalisatieen programmatienormen van elk van die domeinen.<br>
 <br>
 De teldag voor de programmatie is 1 oktober van het lopende schooljaar.<br>
 <br>
@@ -1707,11 +1733,15 @@ Een nieuwe academie moet het minimale aanbod, vermeld in het eerste lid, uiterli
 2° een twaalfde van de programmatienormen van de door haar opgerichte domeinen, vermeld in artikel 119 en 120, bereiken;<br>
 3° gelegen zijn in een gemeente waar in het schooljaar dat aan het oprichtingsjaar voorafgaat, de opgerichte opleidingen niet georganiseerd werden.<br>
 <br>
+Het quotiënt van de deling, vermeld in het eerste lid, 2°, wordt als volgt afgerond: als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier wordt er afgerond naar het lagere geheel getal.<br>
+<br>
 § 3. Voor een verdere financiering of subsidiëring moet de nieuwe academie gedurende elf schooljaren na het oprichtingsjaar telkens op de teldag van het lopende schooljaar de programmatienormen bereiken van de door haar opgerichte domeinen, vermeld in artikel 119 en 120, a rato van het aantal schooljaren dat de nieuwe academie al in oprichting is.<br>
 <br>
-Als dat niet het geval is, wordt de academie met ingang van 1 september van hetzelfde schooljaar niet langer gefinancierd of gesubsidieerd, tenzij de academie op de vorige teldag de programmatienormen gehaald heeft.<br>
+Als de programmatienorm twee opeenvolgende teldagen niet gehaald wordt, wordt de academie met ingang van 1 september van hetzelfde schooljaar niet langer gefinancierd of gesubsidieerd.<br>
 <br>
-§ 4. Vanaf het dertiende bestaansjaar gelden de rationalisatienormen.<br>
+Als de programmatienormen in het laatste schooljaar van de oprichtingsperiode niet gehaald worden, wordt de oprichtingsperiode met maximaal één schooljaar verlengd, als de academie op de vorige teldag de programmatienormen gehaald heeft.<br>
+<br>
+§ 4. De rationalisatienorm geldt vanaf het schooljaar dat volgt op het schooljaar waarin het minimale aanbod van de nieuw opgerichte academie volledig is uitgebouwd en de programmatienormen, vermeld in artikel 119 of 120, bereikt worden. Een academie is volledig uitgebouwd op het einde van het laatste schooljaar van de oprichtingsperiode.<br>
 &nbsp;
 
 ### ART 115.
@@ -1724,18 +1754,19 @@ Een academie moet dit domein uiterlijk in het achtste schooljaar na de oprichtin
 <br>
 Een nieuw domein in een academie kan vanaf 1 september in de financierings- of subsidiëringsregeling opgenomen worden, als het op de teldag van het oprichtingsjaar een achtste van de programmatienormen, vermeld in artikel 119 en 120, bereikt..<br>
 <br>
-§ 2. Voor een verdere financiering of subsidiëring moet het nieuwe domein gedurende zeven schooljaren na het oprichtingsjaar telkens op de teldag van het lopende schooljaar de programmatienormen bereiken, vermeld in artikel 119 en 120, naar rato van het aantal schooljaren dat het nieuwe domein al in oprichting is.<br>
+§ 2. Voor een verdere financiering of subsidiëring moet het nieuwe domein gedurende zeven schooljaren na het oprichtingsjaar telkens op de teldag van het lopende schooljaar de programmatienormen bereiken, vermeld in artikel 119 en 120, naar rato van het aantal schooljaren dat het nieuwe domein al in oprichting is. Het quotiënt van de deling wordt als volgt afgerond: als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier wordt er afgerond naar het lagere geheel getal.<br>
 <br>
-Als de programmatienorm niet gehaald wordt, wordt het domein in de academie met ingang van 1 september van hetzelfde schooljaar niet langer gefinancierd of gesubsidieerd, tenzij het domein op de vorige teldag de programmatienorm gehaald heeft.<br>
+Als de programmatienorm twee opeenvolgende teldagen niet gehaald wordt, worden de leerlingen van het domein vanaf dat schooljaar niet meegeteld in de omkaderingsberekening, vermeld in artikel 69 en 70.<br>
 <br>
-§ 3. Vanaf het negende bestaansjaar van het nieuw opgerichte domein geldt de rationalisatienorm.<br>
-&nbsp;
+Als de programmatienorm in het laatste schooljaar van de oprichtingsperiode niet gehaald wordt, wordt de oprichtingsperiode met maximaal één schooljaar verlengd, als het domein op de vorige teldag de programmatienorm gehaald heeft.<br>
+<br>
+§ 3. De rationalisatienorm geldt vanaf het schooljaar dat volgt op het schooljaar waarin het minimale aanbod van het nieuw opgerichte domein volledig is uitgebouwd en de programmatienorm, vermeld in artikel 119 of 120, bereikt wordt. Een domein is volledig uitgebouwd op het einde van het laatste schooljaar van de oprichtingsperiode.
 
 ### ART 116.
 
 Onder de oprichting van een structuuronderdeel, vermeld in het tweede lid en in artikel 117, wordt de oprichting van een nieuw structuuronderdeel van een domein waarvan de academie al een of meer structuuronderdelen organiseert in een bestaande of nieuwe vestigingsplaats verstaan.<br>
 <br>
-De oprichting van een structuuronderdeel gebeurt leerjaar per leerjaar. De leerjaren van de structuuronderdelen van de eerste graad kunnen evenwel in een tijd opgericht worden.<br>
+Structuuronderdelen worden leerjaar per leerjaar opgericht. De oprichtingsperiode duurt minimaal evenveel schooljaren als het kortste traject en maximaal evenveel schooljaren als het langste traject van het structuuronderdeel dat de academie organiseert. De leerjaren van de structuuronderdelen van de eerste graad kunnen evenwel in een tijd opgericht worden.<br>
 <br>
 Voor de structuuronderdelen van een nieuw opgericht domein, conform artikel 115, die in het negende bestaansjaar van het nieuw opgerichte domein nog in oprichting zijn, gelden de programmatievoorwaarden, vermeld in artikel 117 en 118 tot de structuuronderdelen volledig zijn opgericht.<br>
 &nbsp;
@@ -1747,13 +1778,15 @@ Voor de structuuronderdelen van een nieuw opgericht domein, conform artikel 115,
 2° het domein waarin het structuuronderdeel wordt opgericht in het oprichtingsjaar van het structuuronderdeel organiseren of met de oprichting ervan gestart zijn in het vorige schooljaar;<br>
 3° voor het opgerichte structuuronderdeel op de teldag van het oprichtingsjaar voldoen aan de programmatienorm, naar rato van het aantal opgerichte leerjaren in het traject met het meeste aantal leerjaren, vermeld in artikel 70.<br>
 <br>
-§ 2. Tijdens de oprichtingsperiode moet de programmatienorm telkens naar rato van het aantal opgerichte leerjaren bereikt worden.<br>
+Het quotiënt van de deling, vermeld in het eerste lid, 3°, wordt als volgt afgerond: als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier wordt er afgerond naar het lagere geheel getal.<br>
 <br>
-Het laatste schooljaar waarin de programmatienorm op de teldag bereikt moet worden, is het schooljaar waarin voor het eerst het hoogste leerjaar van het structuuronderdeel georganiseerd wordt.<br>
+§ 2. Tijdens de oprichtingsperiode moet de programmatienorm telkens bereikt worden, naar rato van het aantal schooljaren dat het nieuwe structuuronderdeel al in oprichting is.<br>
 <br>
-Als de programmatienorm niet gehaald wordt, wordt het structuuronderdeel met ingang van 1 september van hetzelfde schooljaar niet langer gefinancierd of gesubsidieerd, tenzij het structuuronderdeel op de vorige teldag de programmatienorm gehaald heeft.<br>
+Als de programmatienorm twee opeenvolgende teldagen niet gehaald wordt, worden de leerlingen van het structuuronderdeel vanaf dat schooljaar niet meegeteld in de omkaderingsberekening, vermeld in artikel 69 en 70.<br>
 <br>
-§ 3. Vanaf het schooljaar na het laatste schooljaar van de programmatie gelden de rationalisatienormen.<br>
+Als de programmatienorm in het laatste schooljaar van de oprichtingsperiode niet gehaald wordt, wordt de oprichtingsperiode met maximaal een schooljaar verlengd, als het structuuronderdeel op de vorige teldag de programmatienorm gehaald heeft.<br>
+<br>
+§ 3. De rationalisatienorm geldt vanaf het schooljaar dat volgt op het schooljaar waarin minstens een traject van het nieuwe structuuronderdeel volledig is uitgebouwd en de programmatienorm, vermeld in artikel 121 of 122, bereikt wordt. Een structuuronderdeel is volledig uitgebouwd op het einde van het laatste schooljaar van de oprichtingsperiode.<br>
 <br>
 § 4. De bepalingen in paragraaf 1, 2 en 3 zijn niet van toepassing op de structuuronderdelen specialisatie.<br>
 &nbsp;
@@ -2165,6 +2198,10 @@ De vestigingsplaatsen van structuuronderdelen, vermeld in artikel 129, waarop de
 Academies, domeinen en structuuronderdelen in vestigingsplaatsen die op de teldag niet aan de voor hen geldende rationalisatienormen voldoen, blijven gesubsidieerd of gefinancierd als op de vorige teldag al de volgende voorwaarden vervuld waren :<br>
 1° de academie voldeed in haar geheel aan de voor haar geldende rationalisatienormen;<br>
 2° alle domeinen en alle structuuronderdelen in de vestigingsplaatsen voldeden aan de voor hen geldende rationalisatienormen.<br>
+<br>
+Als een schoolbestuur overgaat tot de sluiting van een academie, een domein of een structuuronderdeel in een vestigingsplaats dat op een of twee opeenvolgende teldagen niet aan de rationalisatienorm voldoet, kunnen de leerlingen in het schooljaar van de teldag er les blijven volgen.<br>
+<br>
+De sluiting houdt in dat alle leerjaren van de academie, het domein in kwestie of het structuuronderdeel in de vestigingsplaats in kwestie gelijktijdig worden stopgezet. De sluiting heeft uitwerking op 1 september.<br>
 &nbsp;
 
 ## Onderafdeling 5 Rationalisatienormen voor academies, domeinen en structuuronderdelen in vestigingsplaatsen
@@ -2181,7 +2218,11 @@ Academies, domeinen en structuuronderdelen in vestigingsplaatsen die op de telda
 1° domein beeldende en audiovisuele kunsten : 60;<br>
 2° domein dans : 6;<br>
 3° domein woordkunst-drama : 16;<br>
-4° domein muziek : 60.
+4° domein muziek : 60.<br>
+<br>
+In afwijking van het eerste lid bedraagt de rationalisatienorm van het domein beeldende en audiovisuele kunsten 42 leerlingen, als het schoolbestuur alleen de structuuronderdelen van de eerste graad, de tweede graad en de derde graad voor jongeren organiseert.<br>
+<br>
+§3. De rationalisatienormen, vermeld in paragraaf 1 en 2, zijn niet van toepassing op academies voor deeltijds kunstonderwijs waarvan de hoofdvestigingsplaats gevestigd is in de gemeente Voeren.
 
 ### ART 127.
 
@@ -2724,6 +2765,8 @@ De lokale samenwerkingsinitiatieven laten de controle door de onderwijsinspectie
 ### ART 147.
 
 Een schoolbestuur mag informatie verstrekken over het eigen opvoedings- en onderwijsaanbod, maar het mag geen oneerlijke concurrentie voeren.<br>
+<br>
+Bij die informatieverstrekking, met inbegrip van studiebekrachtiging, hanteert een academie minstens de benamingen van structuuronderdelen die zijn vastgelegd door of krachtens een decreet.<br>
 &nbsp;
 
 ### ART 148.
@@ -2837,16 +2880,15 @@ Een academie die voldoet aan de voorwaarden, vermeld in paragraaf 2, heeft voor 
 
 ### ART 156.
 
-&nbsp;In afwijking van artikel 117, 121 en 122 kan een academie het structuuronderdeel beeldende en audiovisuele cultuur organiseren in een van haar vestigingsplaatsen waar ze op 31 augustus 2018 de hogere graad beeldende kunst organiseerde. Dit structuuronderdeel dient naargelang van toepassing te voldoen aan de rationalisatienormen vermeld in artikel 127 of 128.<br>
+In afwijking van artikel 117, 121 en 122 kan een academie tot het schooljaar 2020-2021 starten met de organisatie van het structuuronderdeel beeldende en audiovisuele cultuur in een van haar vestigingsplaatsen waar ze op 31 augustus 2018 de hogere graad beeldende kunst organiseerde. Dat structuuronderdeel voldoet naargelang van de toepassing aan de rationalisatienormen, vermeld in artikel 127 of 128. Vanaf het schooljaar 2021-2022 zijn de programmatievoorwaarden, vermeld in artikel 117, 121 en 122, van toepassing.<br>
 <br>
-In afwijking van artikel 117, 121 en 122 kan een academie het structuuronderdeel danscultuur organiseren in een van haar vestigingsplaatsen waar ze op 31 augustus 2018 de hogere graad dans organiseerde. Dit structuuronderdeel dient naargelang van toepassing te voldoen aan de rationalisatienormen vermeld in artikel 127 of 128.<br>
+In afwijking van artikel 117, 121 en 122 kan een academie tot het schooljaar 2020-2021 starten met de organisatie van het structuuronderdeel danscultuur in een van haar vestigingsplaatsen waar ze op 31 augustus 2018 de hogere graad dans organiseerde. Dat structuuronderdeel voldoet naargelang van de toepassing aan de rationalisatienormen, vermeld in artikel 127 of 128. Vanaf het schooljaar 2021-2022 zijn de programmatievoorwaarden, vermeld in artikel 117, 121 en 122, van toepassing.<br>
 <br>
-In afwijking van artikel 117, 121 en 122 kan een schoolbestuur het structuuronderdeel woordkunst- en dramacultuur organiseren in een van haar vestigingsplaatsen waar ze op 31 augustus 2018 de hogere graad woordkunst organiseerde. Dit structuuronderdeel dient te voldoen aan de rationalisatienormen vermeld in artikel 127 of 128.<br>
+In afwijking van artikel 117, 121 en 122 kan een academie tot het schooljaar 2020-2021 starten met de organisatie van het structuuronderdeel woordkunsten dramacultuur in een van haar vestigingsplaatsen waar ze op 31 augustus 2018 de hogere graad woordkunst organiseerde. Dat structuuronderdeel voldoet aan de rationalisatienormen, vermeld in artikel 127 of 128. Vanaf het schooljaar 20212022 zijn de programmatievoorwaarden, vermeld in artikel 117, 121 en 122, van toepassing.<br>
 <br>
-In afwijking van artikel 117, 121 en 122 kan een schoolbestuur de structuuronderdelen muziekcultuur en muziekgeschiedenis organiseren in een van haar vestigingsplaatsen waar ze op 31 augustus 2018 de hogere graad muziekgeschiedenis organiseerde. Dit structuuronderdeel dient te voldoen aan de rationalisatienormen vermeld in artikel 127 of 128.<br>
+In afwijking van artikel 117, 121 en 122 kan een academie tot het schooljaar 2020-2021 starten met de organisatie van de structuuronderdelen muziekcultuur en muziekgeschiedenis in een van haar vestigingsplaatsen waar ze op 31 augustus 2018 de hogere graad muziekgeschiedenis organiseerde. Dat structuuronderdeel voldoet aan de rationalisatienormen, vermeld in artikel 127 of 128. Vanaf het schooljaar 2021-2022 zijn de programmatievoorwaarden, vermeld in artikel 117, 121 en 122, van toepassing.<br>
 <br>
-In afwijking van artikel 117, 121 en 122 kan een schoolbestuur van een academie die het domein beeldende en audiovisuele kunsten organiseert zonder de eerste, tweede en derde graad het structuuronderdeel derde graad voor volwassenen organiseren. Dit structuuronderdeel dient te voldoen aan de rationalisatienormen vermeld in artikel 127 of 128.<br>
-&nbsp;
+In afwijking van artikel 117, 121 en 122 kan een academie die het domein beeldende en audiovisuele kunsten organiseert zonder de eerste, tweede en derde graad tot het schooljaar 2020-2021 starten met de organisatie van het structuuronderdeel derde graad voor volwassenen. Dat structuuronderdeel voldoet aan de rationalisatienormen, vermeld in artikel 127 of 128. Vanaf het schooljaar 20212022 zijn de programmatievoorwaarden, vermeld in artikel 117, 121 en 122, van toepassing.
 
 ### ART 157.
 
