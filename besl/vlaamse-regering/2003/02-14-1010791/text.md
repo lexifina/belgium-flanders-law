@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-[Bij het departement Internationaal Vlaanderen wordt een Vlaamse UNESCO-Commissie opgericht, hierna de Commissie te noemen.  <span class="reference">(verv. B.V.R. 10 maart 2006, art. 1, I: 1 april 2006)</span> ]
+Bij het Departement Kanselarij en Buitenlandse Zaken wordt een Vlaamse UNESCO-Commissie opgericht, hierna de Commissie te noemen.
 
 ## HOOFDSTUK II TAKEN
 
@@ -20,7 +20,7 @@
 
 ### ART. 4.
 
-[Voor de leiding van het secretariaat wordt de Commissie bijgestaan door een ambtenaar van het departement Internationaal Vlaanderen. Die ambtenaar voert de titel van algemeen secretaris en is ook belast met de contacten met UNESCO.  <span class="reference">(verv. B.V.R. 10 maart 2006, art. 4, I: 1 april 2006)</span> ]
+Voor de leiding van het secretariaat wordt de Commissie bijgestaan door een ambtenaar van het Departement Kanselarij en Buitenlandse Zaken. Die ambtenaar voert de titel van algemeen secretaris en is ook belast met de contacten met UNESCO.
 
 ### ART. 5.
 
@@ -30,7 +30,11 @@ De Commissie kan deskundigen uitnodigen om met betrekking tot specifieke onderwe
 
 ### ART. 6.
 
-§ 1. De voorzitter en de stemgerechtigde leden van de Commissie worden benoemd door de Vlaamse regering op voordracht van de Vlaamse ministers bevoegd voor het onderwijs, het wetenschaps- en technologisch innovatiebeleid, de cultuur, de monumenten, de landschappen, het mediabeleid, de gelijke kansen en het buitenlands beleid en de Europese aangelegenheden.<br /><br />[De Vlaamse minister, bevoegd voor het Buitenlands beleid en de Europese Aangelegenheden, wijst zijn vertegenwoordiger aan. De algemeen secretaris en de ambtenaar van het departement Internationaal Vlaanderen worden benoemd door de leidende ambtenaar van het departement.  <span class="reference">(verv. B.V.R. 10 maart 2006, art. 5, I: 1 april 2006)</span> ]<br /><br />§ 2. De duur van het mandaat van de voorzitter en van de stemgerechtigde leden bedraagt zes jaar. Tijdens de eerste legislatuur van de Commissie loopt het mandaat van de helft van de leden na drie jaar af. Het mandaat is één maal hernieuwbaar. Indien een lid zijn mandaat voortijdig beëindigt, wordt een nieuw lid benoemd conform artikel 6, § 1. Dit lid zal het desbetreffende mandaat voltooien en kan slechts één nieuw mandaat innemen.
+§ 1. De voorzitter en de stemgerechtigde leden van de Commissie worden benoemd door de Vlaamse regering op voordracht van de Vlaamse ministers bevoegd voor het onderwijs, het wetenschaps- en technologisch innovatiebeleid, de cultuur, de monumenten, de landschappen, het mediabeleid, de gelijke kansen en het buitenlands beleid en de Europese aangelegenheden.<br>
+<br>
+De Vlaamse minister, bevoegd voor het Buitenlands beleid en de Europese Aangelegenheden, wijst zijn vertegenwoordiger aan. De algemeen secretaris en de ambtenaar van het Departement Kanselarij en Buitenlandse Zaken worden benoemd door de leidende ambtenaar van het departement.<br>
+<br>
+§ 2. De duur van het mandaat van de voorzitter en van de stemgerechtigde leden bedraagt zes jaar. Tijdens de eerste legislatuur van de Commissie loopt het mandaat van de helft van de leden na drie jaar af. Het mandaat is één maal hernieuwbaar. Indien een lid zijn mandaat voortijdig beëindigt, wordt een nieuw lid benoemd conform artikel 6, § 1. Dit lid zal het desbetreffende mandaat voltooien en kan slechts één nieuw mandaat innemen.
 
 ## HOOFDSTUK V ALGEMENE BEPALINGEN
 
