@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033480,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-17 tot tijdelijke versoepeling van sommige voorwaarden voor de toekenning van Vlaams opleidingsverlof",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033480/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "9fd2fe54c9239b4abb14437c03487a78301b84f2c7e4e0eb20d5f3c63b07df06",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033480&param=informatie",
+  "as_of": "2020-09-01",
+  "made": "2020-07-17",
+  "gazette": "2020-07-24",
+  "numac": 2020042423,
+  "document_start": "2020-09-01",
+  "document_end": "2021-08-31",
+  "in_force": "2020-09-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2020-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
