@@ -102,7 +102,34 @@ Voor het bepalen van het opdrachtvolume waarvoor loopbaanonderbreking kan   word
 
 ### ART. 13.
 
-§ 1. In afwijking van artikel 12, § 1 wordt de volledige of de   gedeeltelijke loopbaanonderbreking toegestaan voor een periode die begint de dag   na het einde van het bevallingsverlof, met toepassing van artikel 39 van de   Arbeidswet van 16 maart 1971 of na een periode van verlof wegens   moederschapsbescherming of bedreiging door een beroepsziekte, toegestaan door   artikel 42 van de arbeidswet van 16 maart 1971, en die eindigt op 31 augustus   van het lopende school- of dienstjaar voor de personeelsleden, vermeld in   artikel 12, § 1 die op 1 september of op 1 oktober van het school- of   dienstjaar, of op beide data, met bevallingsverlof, met verlof wegens   moederschapsbescherming of met verlof wegens bedreiging door een beroepsziekte   zijn.<BR><BR>§ 2. In afwijking van artikel 12, § 1 wordt de volledige   loopbaanonderbreking toegestaan voor een periode die begint de dag na het einde   van het volledig ouderschapsverlof met toepassing van afdeling 1 van hoofdstuk 3   van dit besluit en eindigt op 31 augustus van het lopende school- of dienstjaar,   op voorwaarde dat het personeelslid bij de aanvang van het volledig   ouderschapsverlof heeft meegedeeld dat het zijn beroepsloopbaan na het   verstrijken van het verlof verder wil onderbreken.<BR><BR>§ 3. In afwijking van   artikel 12, § 1 wordt de halftijdse loopbaanonderbreking toegestaan voor een   periode die begint de dag na het einde van het halftijds ouderschapsverlof   toegestaan met toepassing van afdeling 1 van hoofdstuk 3 van dit besluit en   eindigt op 31 augustus van het lopende school- of dienstjaar, op voorwaarde dat   het personeelslid bij de aanvang van het halftijds ouderschapsverlof heeft   meegedeeld dat het zijn beroepsloopbaan na het verstrijken van dit verlof verder   wil onderbreken.<BR><BR>§ 4. In afwijking van artikel 12, § 1 wordt de   loopbaanonderbreking met een vijfde toegestaan voor een periode die begint de   dag na het einde van het ouderschapsverlof met een vijfde toegestaan met   toepassing van afdeling 1 van hoofdstuk 3 van dit besluit en eindigt op 31   augustus van het lopende school- of dienstjaar, op voorwaarde dat het   personeelslid bij de aanvang van het ouderschapsverlof met een vijfde heeft   meegedeeld dat het zijn beroepsloopbaan na het verstrijken van dit verlof verder   wil onderbreken.<BR><BR>§ 5. In afwijking van artikel 12, § 1 en § 2 wordt de   loopbaanonderbreking beëindigd op het ogenblik dat het personeelslid het recht   doet gelden op een loopbaanonderbreking voor ouderschapsverlof, voor medische   bijstand of voor palliatieve zorgen, op voorwaarde dat : <BR>1° het   personeelslid, vermeld in artikel 12, § 1, bij de aanvang van een van die   onderbrekingen van de beroepsloopbaan heeft meegedeeld dat het de daaraan   voorafgaande loopbaanonderbreking op dezelfde wijze wil voortzetten tot 31   augustus van het lopende school- of dienstjaar;<BR>2° het personeelslid, vermeld   in artikel 12, § 2, bij aanvang van één van deze onderbrekingen van de   beroepsloopbaan heeft meegedeeld dat het de daaraan voorafgaande   loopbaanonderbreking op dezelfde wijze wil voortzetten voor het nog resterend   gedeelte van de oorspronkelijk aangevraagde periode van   loopbaanonderbreking.<BR><BR>De periodes van loopbaanonderbreking, vermeld in   het eerste lid, moeten onmiddellijk op elkaar aansluiten. In dat geval wordt   afgeweken van de ingangsdatum, vermeld in artikel 12, § 1 en § 2 van dit   besluit.<BR><BR>§ 5/1. In afwijking van artikel 9, § 1 wordt de gedeeltelijke   loopbaanonderbreking vanaf de leeftijd van 55 jaar of vanaf de leeftijd van   vijftig jaar indien artikel 9, § 3, § 4 of § 5 van toepassing is, beëindigd op   het ogenblik dat het personeelslid het recht doet gelden op een   loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand of voor   palliatieve zorgen. Dit kan enkel op voorwaarde dat het personeelslid, vermeld   in artikel 9, § 1, of vanaf de leeftijd van vijftig jaar indien artikel 9, § 3,   § 4 of § 5 van toepassing is, bij de aanvang van een van die onderbrekingen van   de beroepsloopbaan heeft meegedeeld dat het de daaraan voorafgaande   gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 55 jaar, of vanaf de   leeftijd van vijftig jaar indien artikel 9, § 3, § 4 of § 5 van toepassing is,   op dezelfde wijze wil voortzetten na beëindiging van de loopbaanonderbreking   voor ouderschapsverlof, voor medische bijstand of voor palliatieve   zorgen.<BR><BR>De periodes van loopbaanonderbreking, vermeld in het eerste lid,   moeten onmiddellijk op elkaar aansluiten. In dat geval wordt afgeweken van de   ingangsdatum, vermeld in artikel 9, § 1 van dit besluit.<BR><BR>§ 6. In   afwijking van artikel 12, § 1 en § 2 wordt de volledige en de gedeeltelijke   loopbaanonderbreking toegestaan tijdens de periode waarin het personeelslid een   beroepsopleiding volgt. <BR><BR>Voor de toepassing van het eerste lid wordt   onder beroepsopleiding verstaan : <BR>1° de beroepsopleiding zoals bepaald door   het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van   de arbeidsbemiddeling en de beroepsopleiding;<BR>2° elke andere vorm van   onderwijs en opleiding georganiseerd, gefinancierd, gesubsidieerd of erkend door   de Vlaamse overheid, waarvan het programma ten minste 120 uur op jaarbasis   omvat. <BR><BR>§ 7. Het ziekteverlof, het bevallingsverlof, de afwezigheid   wegens arbeidsongeval, wegens ongeval op weg naar en van het werk, wegens   beroepsziekte, de terbeschikkingstelling wegens ziekte, de afwezigheid wegens   een bedreiging door een beroepsziekte en het verlof wegens   moederschapsbescherming maken geen einde aan de   loopbaanonderbreking.<BR><BR>
+§ 1. In afwijking van artikel 12, § 1 wordt de volledige of de gedeeltelijke loopbaanonderbreking toegestaan voor een periode die begint de dag na het einde van het bevallingsverlof, met toepassing van artikel 39 van de Arbeidswet van 16 maart 1971 of na een periode van verlof wegens moederschapsbescherming of bedreiging door een beroepsziekte, toegestaan door artikel 42 van de arbeidswet van 16 maart 1971, en die eindigt op 31 augustus van het lopende school- of dienstjaar voor de personeelsleden, vermeld in artikel 12, § 1 die op 1 september of op 1 oktober van het school- of dienstjaar, of op beide data, met bevallingsverlof, met verlof wegens moederschapsbescherming of met verlof wegens bedreiging door een beroepsziekte zijn.<br>
+<br>
+§ 2. In afwijking van artikel 12, § 1 wordt de volledige loopbaanonderbreking toegestaan voor een periode die begint de dag na het einde van het volledig ouderschapsverlof met toepassing van afdeling 1 van hoofdstuk 3 van dit besluit en eindigt op 31 augustus van het lopende school- of dienstjaar, op voorwaarde dat het personeelslid bij de aanvang van het volledig ouderschapsverlof heeft meegedeeld dat het zijn beroepsloopbaan na het verstrijken van het verlof verder wil onderbreken.<br>
+<br>
+§ 3. In afwijking van artikel 12, § 1 wordt de halftijdse loopbaanonderbreking toegestaan voor een periode die begint de dag na het einde van het halftijds ouderschapsverlof toegestaan met toepassing van afdeling 1 van hoofdstuk 3 van dit besluit en eindigt op 31 augustus van het lopende school- of dienstjaar, op voorwaarde dat het personeelslid bij de aanvang van het halftijds ouderschapsverlof heeft meegedeeld dat het zijn beroepsloopbaan na het verstrijken van dit verlof verder wil onderbreken.<br>
+<br>
+§ 4. In afwijking van artikel 12, § 1 wordt de loopbaanonderbreking met een vijfde toegestaan voor een periode die begint de dag na het einde van het ouderschapsverlof met een vijfde toegestaan met toepassing van afdeling 1 van hoofdstuk 3 van dit besluit en eindigt op 31 augustus van het lopende school- of dienstjaar, op voorwaarde dat het personeelslid bij de aanvang van het ouderschapsverlof met een vijfde heeft meegedeeld dat het zijn beroepsloopbaan na het verstrijken van dit verlof verder wil onderbreken.<br>
+<br>
+§ 5. In afwijking van artikel 12, § 1 en § 2 wordt de loopbaanonderbreking beëindigd op het ogenblik dat het personeelslid het recht doet gelden op een loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand of voor palliatieve zorgen, op voorwaarde dat :<br>
+1° het personeelslid, vermeld in artikel 12, § 1, bij de aanvang van een van die onderbrekingen van de beroepsloopbaan heeft meegedeeld dat het de daaraan voorafgaande loopbaanonderbreking op dezelfde wijze wil voortzetten tot 31 augustus van het lopende school- of dienstjaar;<br>
+2° het personeelslid, vermeld in artikel 12, § 2, bij aanvang van één van deze onderbrekingen van de beroepsloopbaan heeft meegedeeld dat het de daaraan voorafgaande loopbaanonderbreking op dezelfde wijze wil voortzetten voor het nog resterend gedeelte van de oorspronkelijk aangevraagde periode van loopbaanonderbreking.<br>
+<br>
+De periodes van loopbaanonderbreking, vermeld in het eerste lid, moeten onmiddellijk op elkaar aansluiten. In dat geval wordt afgeweken van de ingangsdatum, vermeld in artikel 12, § 1 en § 2 van dit besluit.<br>
+<br>
+§ 5/1. In afwijking van artikel 9, § 1 wordt de gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 55 jaar of vanaf de leeftijd van vijftig jaar indien artikel 9, § 3, § 4 of § 5 van toepassing is, beëindigd op het ogenblik dat het personeelslid het recht doet gelden op een loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand of voor palliatieve zorgen. Dit kan enkel op voorwaarde dat het personeelslid, vermeld in artikel 9, § 1, of vanaf de leeftijd van vijftig jaar indien artikel 9, § 3, § 4 of § 5 van toepassing is, bij de aanvang van een van die onderbrekingen van de beroepsloopbaan heeft meegedeeld dat het de daaraan voorafgaande gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 55 jaar, of vanaf de leeftijd van vijftig jaar indien artikel 9, § 3, § 4 of § 5 van toepassing is, op dezelfde wijze wil voortzetten na beëindiging van de loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand of voor palliatieve zorgen.<br>
+<br>
+De periodes van loopbaanonderbreking, vermeld in het eerste lid, moeten onmiddellijk op elkaar aansluiten. In dat geval wordt afgeweken van de ingangsdatum, vermeld in artikel 9, § 1 van dit besluit.<br>
+<br>
+§ 5/2. De gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 55 jaar of vanaf de leeftijd van vijftig jaar indien artikel 9, § 3, § 4 of § 5 van toepassing is, wordt geschorst op het ogenblik dat het personeelslid het recht doet gelden op een loopbaanonderbreking voor palliatieve zorgen of voor het hervatten van het werk binnen de periode van 16 maart 2020 tot en met 30 juni 2020 ingevolge de coronacrisis.<br>
+<br>
+§ 6. In afwijking van artikel 12, § 1 en § 2 wordt de volledige en de gedeeltelijke loopbaanonderbreking toegestaan tijdens de periode waarin het personeelslid een beroepsopleiding volgt.<br>
+<br>
+Voor de toepassing van het eerste lid wordt onder beroepsopleiding verstaan :<br>
+1° de beroepsopleiding zoals bepaald door het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding;<br>
+2° elke andere vorm van onderwijs en opleiding georganiseerd, gefinancierd, gesubsidieerd of erkend door de Vlaamse overheid, waarvan het programma ten minste 120 uur op jaarbasis omvat.<br>
+<br>
+§ 7. Het ziekteverlof, het bevallingsverlof, de afwezigheid wegens arbeidsongeval, wegens ongeval op weg naar en van het werk, wegens beroepsziekte, de terbeschikkingstelling wegens ziekte, de afwezigheid wegens een bedreiging door een beroepsziekte en het verlof wegens moederschapsbescherming maken geen einde aan de loopbaanonderbreking.<br>
+&nbsp;
 
 ### ART. 14.
 
@@ -146,7 +173,14 @@ In dat geval, mag de duur overschreden worden van de afwezigheid voor verminderd
 
 ### ART. 21.
 
-§ 1. Om uitzonderlijke familiale redenen en na een opzegtermijn van één   maand, kan het personeelslid dat zijn loopbaan onderbroken heeft, van de Vlaamse   minister bevoegd voor het onderwijs of van zijn gemachtigde de toelating krijgen   om zijn ambt opnieuw op te nemen of opnieuw volledig uit te oefenen vooraleer de   periode van loopbaanonderbreking is verstreken. <BR><BR>De opzegging moet worden   gericht aan de Vlaamse minister, bevoegd voor het onderwijs, door tussenkomst en   met akkoord van de inrichtende macht. Voor de personeelsleden van de inspectie   wordt deze opzegging via hiërarchische weg gericht aan de Vlaamse   Regering.<BR><BR>§ 2. Stopzetting van de loopbaanonderbreking om uitzonderlijke   familiale redenen is niet mogelijk na 1 mei van het school- of dienstjaar, met   uitzondering voor de personeelsleden, vermeld in artikel 12, § 2.<BR><BR>§ 3.   Naast de mogelijkheid voorzien in paragraaf 1 en 2, kunnen de personeelsleden   met een gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 55 jaar of de   leeftijd van vijftig jaar, indien artikel 9, § 3, § 4 of § 5 van toepassing is   hun ambt pas opnieuw volledig uitoefenen met ingang van 1 september. Ze moeten   hun voornemen meedelen aan de inrichtende macht vóór 1 mei.<BR><BR>§ 4. De   Vlaamse minister, bevoegd voor het onderwijs of zijn gemachtigde brengt, binnen   vijftien dagen na de beslissing, de Rijksdienst voor Arbeidsvoorziening op de   hoogte van de datum waarop het personeelslid een einde maakt aan zijn   loopbaanonderbreking.<BR><BR>§ 5. De bepalingen van paragraaf 1 zijn niet van   toepassing op de personeelsleden die hun loopbaanonderbreking onderbreken om een   beroepsopleiding te volgen. <BR><BR>
+§ 1. Om uitzonderlijke familiale redenen kan het personeelslid dat zijn loopbaan onderbroken heeft, van de inrichtende macht de toelating krijgen om zijn ambt opnieuw op te nemen of opnieuw volledig uit te oefenen vooraleer de periode van loopbaanonderbreking is verstreken.<br>
+<br>
+De opzegging moet worden gericht aan de inrichtende macht. Voor de personeelsleden van de inspectie wordt deze opzegging via hiërarchische weg gericht aan de Vlaamse Regering.<br>
+<br>
+§ 2. Stopzetting van de loopbaanonderbreking om uitzonderlijke familiale redenen is niet mogelijk na 1 mei van het school- of dienstjaar, met uitzondering voor de personeelsleden, vermeld in artikel 12, § 2.<br>
+<br>
+§ 3. Naast de mogelijkheid voorzien in paragraaf 1 en 2, kunnen de personeelsleden met een gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 55 jaar of de leeftijd van vijftig jaar, indien artikel 9, § 3, § 4 of § 5 van toepassing is hun ambt pas opnieuw volledig uitoefenen met ingang van 1 september. Ze moeten hun voornemen meedelen aan de inrichtende macht vóór 1 mei.<br>
+&nbsp;
 
 ## HOOFDSTUK 3 Specifieke stelsels
 
@@ -154,11 +188,35 @@ In dat geval, mag de duur overschreden worden van de afwezigheid voor verminderd
 
 ### ART. 22.
 
-De personeelsleden hebben recht op ouderschapsverlof om voor hun kind te   zorgen. Ze kunnen : <BR>1° ofwel hun loopbaan volledig onderbreken. De volledige   loopbaanonderbreking moet worden genomen voor een aaneengesloten periode van   maximaal&nbsp;vier maanden;<BR>2° ofwel hun loopbaan gedeeltelijk onderbreken   tot een halftijdse betrekking. De gedeeltelijke loopbaanonderbreking moet worden   genomen voor een aaneengesloten periode van maximaal acht maanden;<BR>3° ofwel   hun loopbaan gedeeltelijk onderbreken door hun prestaties te verminderen met een   vijfde, op voorwaarde dat het personeelslid een ambt met volledige prestaties   uitoefent. De gedeeltelijke loopbaanonderbreking met een vijfde moet worden   genomen voor een aaneengesloten periode van maximaal twintig   maanden.<BR><BR>
+De personeelsleden hebben recht op ouderschapsverlof om voor hun kind te zorgen. Ze hebben daarvoor één van de volgende opties:<br>
+1° hun beroepsloopbaan volledig onderbreken in periodes van een maand of een veelvoud daarvan, met een maximumduur van vier maanden;<br>
+2° hun beroepsloopbaan halftijds onderbreken in periodes van twee maanden of een veelvoud daarvan, met een maximumduur van acht maanden;<br>
+3° hun beroepsloopbaan met een vijfde onderbreken, in periodes van vijf maanden of een veelvoud daarvan, met een maximumduur van twintig maanden;<br>
+4° hun beroepsloopbaan met een tiende onderbreken, in periodes van tien maanden of een veelvoud daarvan, met een maximumduur van veertig maanden, na akkoord van de inrichtende macht. Als de inrichtende macht weigert, deelt de inrichtende macht die gemotiveerde beslissing schriftelijk mee aan het personeelslid.<br>
+<br>
+De personeelsleden hebben de mogelijkheid om bij het opnemen van hun ouderschapsverlof gebruik te maken van de verschillende opnamevormen, vermeld in het eerste lid. Bij een wijziging van opnamevorm wordt rekening gehouden met het principe dat één maand volledige loopbaanonderbreking overeenstemt met twee maanden halftijdse loopbaanonderbreking of met vijf maanden loopbaanonderbreking met een vijfde of met tien maanden loopbaanonderbreking met een tiende.<br>
+<br>
+Als een periode van loopbaanonderbreking voor ouderschapsverlof eindigt binnen een periode van zeven kalenderdagen voor een herfst-, kerst-, krokus- of paasvakantie of eindigt gedurende een herfst-, kerst-, krokus- of paasvakantie, en het personeelslid neemt een nieuwe periode van loopbaanonderbreking voor ouderschapsverlof gedurende diezelfde vakantie of binnen een periode van 7 kalenderdagen na diezelfde vakantie, dan wordt de tussenliggende vakantieperiode of een deel ervan, beschouwd als een afwezigheid voor verminderde prestaties. In dat geval mag de duur van de afwezigheid voor verminderde prestaties van zestig maanden overschreden worden waarop het betrokken personeelslid aanspraak kan maken krachtens de reglementaire bepalingen die van toepassing zijn op dat personeelslid. Met behoud van de berekeningswijze van de geldelijke anciënniteit voor tijdelijke personeelsleden met het recht op uitgestelde bezoldiging, komen de voormelde dagen wel in aanmerking voor de berekening van de geldelijke anciënniteit en worden ze niet meegerekend om de duur te bepalen van de periode van afwezigheid voor verminderde prestaties waarop het personeelslid nog recht heeft.
+
+### ART 22/1.
+
+In afwijking van artikel 22, eerste lid, 1°, kan de periode van vier maanden, na akkoord van de inrichtende macht van de instelling of instellingen of het centrum of de centra waar hij werkt, volledig of gedeeltelijk worden opgesplitst in periodes van een week of een veelvoud daarvan. De inrichtende macht kan die opnamevorm weigeren. De inrichtende macht deelt die gemotiveerde beslissing schriftelijk mee aan het personeelslid. Als in geval van een gedeeltelijke opsplitsing in weken, het resterende gedeelte minder dan vier weken bedraagt, heeft het personeelslid het recht om dat saldo zonder akkoord van de inrichtende macht op te nemen.<br>
+<br>
+In afwijking van artikel 22, eerste lid, 2°, kan de periode van acht maanden, na akkoord van de inrichtende macht volledig of gedeeltelijk worden opgesplitst in periodes van een maand of een veelvoud daarvan. De inrichtende macht kan die opnamevorm weigeren. De inrichtende macht deelt die gemotiveerde beslissing schriftelijk mee aan het personeelslid. Als in geval van een gedeeltelijke opsplitsing in maanden, het resterende gedeelte een maand bedraagt, heeft het personeelslid het recht om dat saldo zonder akkoord van de inrichtende macht op te nemen.
 
 ### ART. 23.
 
-§ 1. In afwijking van artikel 22 kan de loopbaanonderbreking voor   ouderschapsverlof in twee periodes aangevraagd worden, als het ouderschapsverlof   onmiddellijk aansluit op : <BR>1° het bevallingsverlof;<BR>2° het verlof wegens   moederschapsbescherming;<BR>3° het onbezoldigd ouderschapsverlof;<BR>4° het   verlof met het oog op adoptie of pleegvoogdij;<BR>5° het geboorteverlof.   <BR><BR>In het geval vermeld in het eerste lid, eindigt de eerste periode van   loopbaanonderbreking voor ouderschapsverlof de dag voor de vakantieperiode die   valt in juli en/of augustus. De tweede periode van loopbaanonderbreking voor   ouderschapsverlof begint in dat geval de dag na de vakantieperiode die valt in   juli en/of augustus. De eerste periode mag maximaal 1 maand bedragen. Voor beide   periodes moet een afzonderlijke aanvraag ingediend worden, met behoud van het   aanvankelijk gevraagde volume van loopbaanonderbreking voor ouderschapsverlof.   <BR><BR>§ 2. In afwijking van artikel 22 kan een personeelslid dat al voor 1   september 2012 een volledige of halftijdse&nbsp; loopbaanonderbreking voor   ouderschapsverlof genomen heeft, een bijkomende ononderbroken periode van   loopbaanonderbreking voor ouderschapsverlof opnemen : <BR>1° gedurende maximum   één maand bij een volledige loopbaanonderbreking;<BR>2° gedurende maximum twee   maanden bij een halftijdse loopbaanonderbreking;<BR>3° gedurende maximum vijf   maanden bij een loopbaanonderbreking met een vijfde.<BR><BR>§ 2/1. In afwijking   van artikel 22 kan een personeelslid dat al voor 1 september 2012   loopbaanonderbreking met een vijfde voor ouderschapsverlof genomen heeft, een   bijkomende ononderbroken periode van loopbaanonderbreking voor ouderschapsverlof   opnemen :<BR>1° gedurende maximaal één maand bij een volledige   loopbaanonderbreking;<BR>2° gedurende maximaal twee maanden bij een halftijdse   loopbaanonderbreking;<BR>3° gedurende maximaal veertien maanden bij een   loopbaanonderbreking met een vijfde.<BR><BR>§ 3. In afwijking van artikel 22   hebben de personeelsleden van de Centra voor Basiseducatie, het recht om :   <BR>1° gedurende een periode van vier maanden hun loopbaan volledig te   onderbreken. Die periode kan naar keuze van de personeelsleden worden   opgesplitst in maanden; <BR>2° gedurende een periode van acht maanden hun   loopbaan gedeeltelijk te onderbreken tot een halftijdse betrekking. Die periode   kan naar keuze van de personeelsleden worden opgesplitst in periodes van twee   maanden of een veelvoud daarvan;<BR>3° gedurende een periode van twintig maanden   hun loopbaan gedeeltelijk te onderbreken door hun prestaties te verminderen met   een vijfde, als zij voltijds tewerkgesteld zijn. Die periode kan naar keuze van   de personeelsleden worden opgesplitst in periodes van vijf maanden of een   veelvoud daarvan.<BR><BR>De personeelsleden hebben de mogelijkheid om bij het   opnemen van hun ouderschapsverlof gebruik te maken van de verschillende   opnamevormen, vermeld in het eerste lid. Bij een wijziging van opnamevorm wordt   rekening gehouden met het principe dat één maand volledige loopbaanonderbreking   overeenstemt met twee maanden halftijdse loopbaanonderbreking of met vijf   maanden loopbaanonderbreking met een vijfde.<BR><BR>§ 4. In afwijking van   artikel 22, 3°, kan een tijdelijk personeelslid dat een loopbaanonderbreking met   een vijfde voor ouderschapsverlof neemt tijdens een schooljaar, het   daaropvolgende schooljaar het resterende gedeelte van de loopbaanonderbreking   met een vijfde voor ouderschapsverlof aaneensluitend opnemen, op voorwaarde dat   het tijdelijk personeelslid opnieuw een aanstelling heeft in een ambt met   volledige prestaties op 1 september. In dat geval eindigt de voorgaande aanvraag   voor loopbaanonderbreking met een vijfde voor ouderschapsverlof op 31 augustus.   De volgende periode van loopbaanonderbreking voor ouderschapsverlof begint in   dat geval op 1 september. De totale periode van loopbaanonderbreking met een   vijfde voor ouderschapsverlof bedraagt maximaal twintig maanden vanaf de datum   van de eerste aanvraag van loopbaanonderbreking met een vijfde voor   ouderschapsverlof.
+§ 1. ...<br>
+<br>
+§ 2. In afwijking van artikel 22 kan een personeelslid dat al voor 1 september 2012 een volledige of halftijdse&nbsp; loopbaanonderbreking voor ouderschapsverlof genomen heeft, een bijkomende ononderbroken periode van loopbaanonderbreking voor ouderschapsverlof opnemen :<br>
+1° gedurende maximum één maand bij een volledige loopbaanonderbreking;<br>
+2° gedurende maximum twee maanden bij een halftijdse loopbaanonderbreking;<br>
+3° gedurende maximum vijf maanden bij een loopbaanonderbreking met een vijfde.<br>
+<br>
+§ 2/1. In afwijking van artikel 22 kan een personeelslid dat al voor 1 september 2012 loopbaanonderbreking met een vijfde voor ouderschapsverlof genomen heeft, een bijkomende ononderbroken periode van loopbaanonderbreking voor ouderschapsverlof opnemen :<br>
+1° gedurende maximaal één maand bij een volledige loopbaanonderbreking;<br>
+2° gedurende maximaal twee maanden bij een halftijdse loopbaanonderbreking;<br>
+3° gedurende maximaal veertien maanden bij een loopbaanonderbreking met een vijfde.
 
 ### ART. 24.
 
@@ -180,6 +238,10 @@ Het personeelslid verstrekt uiterlijk op het ogenblik dat het ouderschapsverlof 
 <br>
 Bij de documenten, vermeld in het tweede lid,&nbsp;2°, moet altijd een uittreksel uit het bevolkings- of vreemdelingenregister worden gevoegd, waaruit de samenstelling van het gezin blijkt.<br>
 &nbsp;
+
+### ART 25/1.
+
+De personeelsleden die voor 1 september 2020 een loopbaanonderbreking voor ouderschapsverlof hebben opgenomen, blijven voor de opname van ouderschapsverlof voor datzelfde kind ressorteren onder de regelgeving die van kracht was voor die datum, met uitzondering van de periodes die genomen werden op basis van artikel 25/5, § 3.
 
 ## [Afdeling 1/1 Loopbaanonderbreking voor corona-ouderschapsverlof (ing. BVR 17 juli 2020, art. 18, I: 1 mei 2020)]
 
@@ -257,12 +319,18 @@ De personeelsleden hebben recht op loopbaanonderbreking om bijstand of verzorgin
 
 <p>§ 1. De volledige of gedeeltelijke loopbaanonderbreking kan alleen opgenomen worden in periodes van minimaal één en maximaal drie maanden, al dan niet aaneensluitend, tot een maximumperiode van twaalf maanden per patiënt bij een volledige loopbaanonderbreking of vierentwintig maanden per patiënt voor een gedeeltelijke loopbaanonderbreking.<br>
 <br>
-Als een periode van loopbaanonderbreking voor medische bijstand eindigt binnen een periode van 7 kalenderdagen voor een herfst-, kerst-, krokus- of paasvakantie of eindigt gedurende een herfst-, kerst-, krokus- of paasvakantie, en het personeelslid neemt een nieuwe periode van loopbaanonderbreking voor medische bijstand gedurende diezelfde vakantie of binnen een periode van 7 kalenderdagen na diezelfde vakantie, dan wordt de tussenliggende vakantieperiode of een deel ervan, beschouwd als een afwezigheid voor verminderde prestaties. In dat geval mag de duur van de afwezigheid voor verminderde prestaties van zestig maanden overschreden worden waarop het betrokken personeelslid aanspraak kan maken krachtens de reglementaire bepalingen die op hem van toepassing zijn. Onverminderd de berekeningswijze van de geldelijke anciënniteit voor tijdelijke personeelsleden met het recht op uitgestelde bezoldiging, komen de voormelde dagen wel in aanmerking voor de berekening van de geldelijke anciënniteit en worden niet meegerekend om de duur te bepalen van de periode van afwezigheid voor verminderde prestaties waarop het personeelslid nog recht heeft.</p>
-
-<p>§ 2. Voor het personeelslid dat alleenstaand is, wordt, in geval van zware ziekte van zijn kind dat ten hoogste 16 jaar is, de maximumperiode van 12 maanden per patiënt, vermeld in paragraaf 1, voor de volledige loopbaanonderbreking uitgebreid naar 24 maanden per patiënt en wordt de maximumperiode van 24 maanden per patiënt, vermeld in paragraaf 1, voor de gedeeltelijke loopbaanonderbreking uitgebreid naar 48 maanden per patiënt.<br>
+§ 2. Voor het personeelslid dat alleenstaand is, wordt, in geval van zware ziekte van zijn kind dat ten hoogste 16 jaar is, de maximumperiode van 12 maanden per patiënt, vermeld in paragraaf 1, voor de volledige loopbaanonderbreking uitgebreid naar 24 maanden per patiënt en wordt de maximumperiode van 24 maanden per patiënt, vermeld in paragraaf 1, voor de gedeeltelijke loopbaanonderbreking uitgebreid naar 48 maanden per patiënt.<br>
 <br>
 Onder alleenstaande wordt het personeelslid verstaan dat uitsluitend en effectief samenwoont met een of meer van zijn of haar kinderen. Voor de toepassing van het eerste lid moet het personeelslid het bewijs leveren van de samenstelling van het gezin met een attest van de gemeentelijke overheid waaruit blijkt dat het personeelslid op het moment van de aanvraag van de loopbaanonderbreking uitsluitend en effectief samenwoont met een of meer van zijn kinderen. Voor iedere verlenging van een periode van volledige of gedeeltelijke loopbaanonderbreking moet het personeelslid het vereiste attest indienen.<br>
-&nbsp;</p>
+<br>
+§ 3. In afwijking van paragraaf 1 kan bij opname van een volledige loopbaanonderbreking de minimumduur van de onderbrekingsperiodes, na akkoord van de inrichtende macht, ingekort worden tot één van de volgende periodes:<br>
+1° één week;<br>
+2° twee weken;<br>
+3° drie weken.<br>
+<br>
+Als het resterende gedeelte van de maximumperiode van de onderbreking na de toepassing van het eerste lid minder bedraagt dan één maand, heeft het personeelslid het recht om het saldo zonder akkoord van de inrichtende macht op te nemen.<br>
+<br>
+§ 4. Als een periode van loopbaanonderbreking voor medische bijstand eindigt binnen een periode van zeven kalenderdagen voor een herfst-, kerst-, krokus- of paasvakantie of eindigt gedurende een herfst-, kerst-, krokus- of paasvakantie, en het personeelslid neemt een nieuwe periode van loopbaanonderbreking voor medische bijstand gedurende diezelfde vakantie of binnen een periode van zeven kalenderdagen na diezelfde vakantie, dan wordt de tussenliggende vakantieperiode of een deel ervan, beschouwd als een afwezigheid voor verminderde prestaties. In dat geval mag de duur van de afwezigheid voor verminderde prestaties van zestig maanden overschreden worden waarop het betrokken personeelslid aanspraak kan maken krachtens de reglementaire bepalingen die van toepassing zijn op dat personeelslid. Met behoud van de toepassing van de berekeningswijze van de geldelijke anciënniteit voor tijdelijke personeelsleden met het recht op uitgestelde bezoldiging, komen de voormelde dagen wel in aanmerking voor de berekening van de geldelijke anciënniteit en worden ze niet meegerekend om de duur te bepalen van de periode van afwezigheid voor verminderde prestaties waarop het personeelslid nog recht heeft.</p>
 
 ### ART. 27/1.
 
@@ -288,31 +356,75 @@ Het personeelslid dat zijn loopbaan wil onderbreken om palliatieve verzorging te
 
 ## [Afdeling 3/1 Loopbaanonderbreking voor mantelzorg (ing. BVR 17 juli 2020, art. 21, I: 1 september 2020)]
 
+### ART 31/1.
+
+Personeelsleden die erkend mantelzorger zijn van een zorgbehoevende persoon, hebben recht op loopbaanonderbreking voor mantelzorg conform artikel 100ter en 102ter van de wet van 22 januari 1985 houdende sociale bepalingen. Ze hebben daarvoor een van de volgende opties:<br>
+1° hun loopbaan volledig onderbreken;<br>
+2° hun loopbaan gedeeltelijk onderbreken tot een halftijdse betrekking op voorwaarde dat het personeelslid in een ambt met volledige prestaties is aangesteld;<br>
+3° hun loopbaan gedeeltelijk onderbreken door hun prestaties te verminderen met een vijfde, op voorwaarde dat het personeelslid aangesteld is in een ambt met volledige prestaties.<br>
+<br>
+In het eerste lid wordt verstaan onder erkend mantelzorger: de persoon van wie de hoedanigheid van mantelzorger erkend is conform hoofdstuk 3 van de wet van 12 mei 2014 betreffende de erkenning van de mantelzorger.
+
+### ART 31/2.
+
+Een personeelslid heeft recht op één maand voltijdse loopbaanonderbreking per zorgbehoevende persoon of twee maanden gedeeltelijke loopbaanonderbreking per zorgbehoevende persoon.<br>
+<br>
+Het recht op volledige loopbaanonderbreking voor mantelzorg bedraagt maximaal zes maanden over de gehele beroepsloopbaan. Het recht op gedeeltelijke loopbaanonderbreking voor mantelzorg bedraagt maximaal twaalf maanden over de gehele beroepsloopbaan.<br>
+<br>
+Voor de toepassing van dit artikel moet rekening gehouden worden met het principe dat één maand volledige loopbaanonderbreking overeenkomt met twee maanden gedeeltelijke loopbaanonderbreking.
+
+### ART 31/3.
+
+Het personeelslid dat zijn loopbaan wil onderbreken om mantelzorg te verstrekken, deelt dat mee aan de inrichtende macht van de instelling of instellingen of het centrum of de centra waar hij werkt, met uitzondering van de personeelsleden van de inspectie, die dat meedelen aan de Vlaamse Regering .<br>
+<br>
+De loopbaanonderbreking voor het verstrekken van mantelzorg begint de eerste dag van de week die volgt op de week waarin de mededeling is gebeurd of op een vroeger tijdstip, na akkoord van de inrichtende macht of van de Vlaamse Regering voor de personeelsleden van de inspectie.<br>
+<br>
+De inrichtende macht vult het formulier, vermeld in artikel 16, § 2 van het koninklijk besluit van 12 augustus 1991 betreffende de toekenning van onderbrekingsuitkeringen aan de personeelsleden van het onderwijs en de psycho-medisch-sociale centra, in en overhandigt het aan het personeelslid.
+
 ## Afdeling 4 Gemeenschappelijke bepalingen
 
 ### ART. 32.
 
-De loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand of voor palliatieve zorgen is een recht.<br /><br />
+De loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand, voor palliatieve zorgen en voor mantelzorg is een recht.<br>
+<br>
+De volgende vormen van loopbaanonderbreking zijn geen recht:<br>
+1° de loopbaanonderbreking voor ouderschapsverlof met een tiende;<br>
+2° de loopbaanonderbreking voor ouderschapsverlof die wordt opgenomen conform artikel 22/1;<br>
+3° de loopbaanonderbreking voor medische bijstand die wordt opgenomen conform artikel 27, § 3.
 
 ### ART. 33.
 
-<P>De volledige loopbaanonderbreking voor ouderschapsverlof, voor medische   bijstand of voor palliatieve zorgen omvat al de door de Vlaamse Gemeenschap   gefinancierde en gesubsidieerde ambten die het personeelslid uitoefent in het   onderwijs en in de centra voor leerlingenbegeleiding.<BR><BR>De gedeeltelijke   loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand of voor   palliatieve zorgen moet gebeuren overeenkomstig de voorwaarden vermeld in   artikel 5, 2°, artikel 6, 4°, artikel 7, 2° en 3° en artikel 8, 4° en 5°.   </P>
+<p>De volledige loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand, voor palliatieve zorgen of voor mantelzorg omvat al de door de Vlaamse Gemeenschap gefinancierde en gesubsidieerde ambten die het personeelslid uitoefent in het onderwijs en in de centra voor leerlingenbegeleiding.<br>
+<br>
+De gedeeltelijke loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand, voor palliatieve zorgen of voor mantelzorg moet gebeuren overeenkomstig de voorwaarden vermeld in artikel 5, 2°, artikel 6, 4°, artikel 7, 2° en 3° en artikel 8, 4° en 5°.<br>
+<br>
+De gedeeltelijke loopbaanonderbreking voor ouderschapsverlof met een tiende kan worden genomen op voorwaarde dat het personeelslid:<br>
+1° aangesteld is in een ambt met volledige prestaties;<br>
+2° een of meer betrekkingen blijft uitoefenen die samen negen tiende van het aantal prestatie-eenheden omvatten die vereist zijn voor een ambt met volledige prestaties. De nog te verrichten prestaties moeten altijd worden afgerond naar de hogere eenheid, naargelang van het geval, tot een volledige lestijd of tot een volledig uur.<br>
+<br>
+Voor de toepassing van het derde lid, 2°, wordt het aantal prestatie-eenheden waarvoor het personeelslid ter beschikking is gesteld wegens ontstentenis van betrekking en waarvoor het niet gereaffecteerd of wedertewerkgesteld is, ook in aanmerking genomen. Als het personeelslid ter beschikking gesteld is wegens gedeeltelijke ontstentenis van betrekking op het ogenblik dat het een gedeeltelijke loopbaanonderbreking krijgt, worden voor de loopbaanonderbreking eerst die prestatie-eenheden in aanmerking genomen waarvoor het personeelslid ter beschikking gesteld is wegens ontstentenis van betrekking en waarvoor het niet gereaffecteerd of wedertewerkgesteld is.</p>
 
 ### ART. 34.
 
-Voor de berekening van de termijn van 60 maanden voorzien in artikel 15 en   artikel 16 wordt geen rekening gehouden met de periodes van loopbaanonderbreking   voor ouderschapsverlof, voor medische bijstand of voor palliatieve zorgen.   <BR><BR>
+Voor de berekening van de termijn van 60 maanden voorzien in artikel 15 en artikel 16 wordt geen rekening gehouden met de periodes van loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand, voor palliatieve zorgen of voor mantelzorg.<br>
+&nbsp;
 
 ### ART. 35.
 
-Voor tijdelijke personeelsleden die hun beroepsloopbaan onderbreken voor ouderschapsverlof, voor medische bijstand of voor palliatieve zorgen, eindigt de loopbaanonderbreking in ieder geval als hun aanstelling eindigt.<br /><br />
+Voor tijdelijke personeelsleden die hun beroepsloopbaan onderbreken voor ouderschapsverlof, voor medische bijstand, voor palliatieve zorgen of voor mantelzorg, eindigt de loopbaanonderbreking in ieder geval als hun aanstelling eindigt.<br>
+&nbsp;
 
 ### ART. 36.
 
-§ 1. Om uitzonderlijke redenen kan het personeelslid met   loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand of voor   palliatieve zorgen, van de Vlaamse minister, bevoegd voor het onderwijs, of van   zijn gemachtigde de toelating krijgen om zijn ambt opnieuw op te nemen of   opnieuw volledig uit te oefenen voor de periode van loopbaanonderbreking is   verstreken.<BR><BR>De opzegging wordt gericht aan de Vlaamse minister, bevoegd   voor het onderwijs, of zijn gemachtigde, door tussenkomst en met akkoord van de   inrichtende macht. Voor de personeelsleden van de inspectie wordt de opzegging   via hiërarchische weg gericht aan de Vlaamse Regering.<BR><BR>§ 2. Het   personeelslid dat zijn loopbaan onderbroken heeft voor het verstrekken van   palliatieve verzorging of voor medische bijstand, kan evenwel, na het overlijden   van de persoon die de verzorging genoot, van de inrichtende macht van de   instelling(en) of het/de centr(um)(a) waarbij hij tewerkgesteld is, de toelating   krijgen om zijn ambt opnieuw op te nemen of opnieuw volledig uit te oefenen   vooraleer de periode van loopbaanonderbreking verstreken is.
+§ 1. Om uitzonderlijke familiale redenen kan het personeelslid dat zijn loopbaan onderbroken heeft, van de inrichtende macht de toelating krijgen om zijn ambt opnieuw op te nemen of opnieuw volledig uit te oefenen vooraleer de periode van loopbaanonderbreking is verstreken.<br>
+<br>
+De opzegging moet worden gericht aan de inrichtende macht. Voor de personeelsleden van de inspectie wordt deze opzegging via hiërarchische weg gericht aan de Vlaamse Regering.<br>
+<br>
+§ 2. Het personeelslid dat zijn loopbaan onderbroken heeft voor het verstrekken van palliatieve verzorging of voor medische bijstand, kan evenwel, na het overlijden van de persoon die de verzorging genoot, van de inrichtende macht van de instelling(en) of het/de centr(um)(a) waarbij hij tewerkgesteld is, de toelating krijgen om zijn ambt opnieuw op te nemen of opnieuw volledig uit te oefenen vooraleer de periode van loopbaanonderbreking verstreken is.
 
 ### ART. 36/1.
 
-Voor het bepalen van het opdrachtvolume waarvoor loopbaanonderbreking kan   worden genomen krachtens de artikelen 22, 26 en 29 wordt eveneens rekening   gehouden met de prestaties, verstrekt door de personeelsleden belast met een   opdracht aan een hogeschool.
+Voor het bepalen van het opdrachtvolume waarvoor loopbaanonderbreking kan worden genomen krachtens artikel 22, 26, 29 en 31/1 wordt eveneens rekening gehouden met de prestaties, verstrekt door de personeelsleden belast met een opdracht aan een hogeschool.
 
 ### ART. 36/2.
 
