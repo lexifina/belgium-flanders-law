@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032637,
+  "title": "Besluit van de Vlaamse Regering van 2019-12-20 tot erkenning van het graduaat in de voertuigtechnieken als nieuwe opleiding van de Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032637/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "c3738fcf8268d2b054c47342a12c8c3ee58fb0ece7f1d18bab4d06ff44e61829",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032637&param=informatie",
+  "as_of": "2020-09-01",
+  "made": "2019-12-20",
+  "gazette": "2020-02-07",
+  "numac": 2020010335,
+  "document_start": "2020-09-01",
+  "document_end": null,
+  "in_force": "2020-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
