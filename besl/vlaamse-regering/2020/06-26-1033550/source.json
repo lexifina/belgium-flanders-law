@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033550,
+  "title": "Besluit van de Vlaamse Regering van 2020-06-26 tot erkenning van het graduaat in het systeem- en netwerkbeheer als nieuwe opleiding van Thomas More Kempen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033550/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "29268d916e1302081cf3138178ed1229b37c6f08ef4e4bec8fc4092a72339cd5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033550&param=informatie",
+  "as_of": "2020-09-01",
+  "made": "2020-06-26",
+  "gazette": "2020-08-10",
+  "numac": 2020042430,
+  "document_start": "2020-09-01",
+  "document_end": null,
+  "in_force": "2020-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
