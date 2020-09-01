@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040193,
+  "title": "Ministerieel besluit van 2020-05-16 tot vaststelling van de standaardprocedure voor het technisch verslag in de regeling over het gebruik van bodemmaterialen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040193/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "dc37664cc06d9fac9aac7ff99f28e124f718967cfd90941d1ba91e6cce1d6cb3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040193&param=informatie",
+  "as_of": "2020-09-01",
+  "made": "2020-05-16",
+  "gazette": "2020-06-11",
+  "numac": 2020041617,
+  "document_start": "2020-09-01",
+  "document_end": null,
+  "in_force": "2020-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2020-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
