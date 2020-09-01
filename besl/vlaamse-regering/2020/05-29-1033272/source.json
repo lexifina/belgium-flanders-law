@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033272,
+  "title": "Besluit van de Vlaamse Regering van 2020-05-29 tot erkenning van het graduaat in het sociaal-cultureel werk als nieuwe opleiding van UC Limburg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033272/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "0aa29638980b91a2dc3ec8bbb49f2e07ba7090c35ce57ec666d6f1fbf5e1c67f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033272&param=informatie",
+  "as_of": "2020-09-01",
+  "made": "2020-05-29",
+  "gazette": "2020-06-25",
+  "numac": 2020015012,
+  "document_start": "2020-09-01",
+  "document_end": null,
+  "in_force": "2020-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
