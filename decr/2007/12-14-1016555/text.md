@@ -66,7 +66,9 @@ Naast de financiële bijdragen van de Vlaamse Gemeenschap als bedoeld in artikel
 
 ### ART. 9.
 
-De Vlaamse Regering evalueert de werking van de RTC's en brengt daarvan   ten minste één jaar vóór het verstrijken van elke beheersovereenkomst verslag   uit aan het Vlaams Parlement.<BR><BR>
+De Vlaamse Regering evalueert de werking van de RTC's en brengt daarvan ten minste één jaar vóór het verstrijken van elke beheersovereenkomst verslag uit aan het Vlaams Parlement.<br>
+<br>
+Voor de beheersovereenkomsten voor de periode 1 september 2020 tot 31 augustus 2022 wordt tijdens de looptijd van die beheersovereenkomsten geen evaluatie georganiseerd.
 
 ## HOOFDSTUK VI Rapporteringsverplichting
 
