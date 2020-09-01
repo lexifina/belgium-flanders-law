@@ -2,16 +2,16 @@
   "codex_id": 1015862,
   "title": "Besluit van de Vlaamse Regering van 2007-04-27 betreffende de Sociale Dienst voor het Vlaams Overheidspersoneel",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015862/VolledigDocument?datum=2015-04-01",
-  "source_sha256": "7817377bd2b49bb73d7d0a4d5ca22fed4fb9ccfe8fb9eb062c5dc47a978b59f2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015862/VolledigDocument?datum=2020-09-01",
+  "source_sha256": "e91fd19ec2acb759d813211f2c941ad180c1ebf7b978396ff2aa1a9d7f0908c1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015862&param=informatie",
-  "as_of": "2015-04-01",
+  "as_of": "2020-09-01",
   "made": "2007-04-27",
   "gazette": "2007-06-19",
   "numac": 2007035804,
   "document_start": "2007-04-27",
   "document_end": null,
-  "in_force": "2015-04-01",
+  "in_force": "2020-09-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2015-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
 }

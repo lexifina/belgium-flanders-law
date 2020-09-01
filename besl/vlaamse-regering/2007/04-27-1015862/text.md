@@ -24,7 +24,7 @@ De personeelsleden, bedoeld in artikel 5, § 1, 2°, van het decreet van 2 maart
 
 ### ART. 5.
 
-De overeenkomst, bedoeld in artikel 9 van hetzelfde decreet, wordt voor   advies voorgelegd aan de beleidsraad van het beleidsdomein Kanselarij en   Bestuur.<BR>
+De overeenkomst, bedoeld in artikel 9 van hetzelfde decreet, wordt voor advies voorgelegd aan de beleidsraad van het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie.
 
 ## HOOFDSTUK II. Personeel
 
