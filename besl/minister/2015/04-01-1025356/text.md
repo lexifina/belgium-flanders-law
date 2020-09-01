@@ -12,7 +12,7 @@
 
 ### ART. 1.
 
-De   volgende personeelsleden van het departement Kanselarij en Bestuur zijn   gemachtigd om dagvaardingen en deurwaardersexploten, betekend aan de Vlaamse   Gemeenschap of het Vlaamse Gewest, in ontvangst te nemen:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de clusterverantwoordelijke van de cluster besluitvorming Vlaamse   Regering;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de personeelsleden van het team Ondersteuning van de Vlaamse Regering en   Betekeningen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+De personeelsleden van het departement Kanselarij en Buitenlandse Zaken die het secretariaat van de Vlaamse Regering waarnemen, zijn gemachtigd om dagvaardingen en deurwaardersexploten die betekend worden aan de Vlaamse Gemeenschap of het Vlaamse Gewest, in ontvangst te nemen.
 
 ### ART. 2.
 
