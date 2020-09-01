@@ -163,7 +163,7 @@ c) een mentoropleiding moet volgen;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De onderneming:</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° verbindt zich ertoe de leerling competenties van de opleiding op een werkplek aan te leren overeenkomstig de decreet- of regelgeving die op de invulling van de opleiding in kwestie van toepassing is;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° verbindt zich ertoe de professionalisering van de mentor te bevorderen;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° bezorgt een exemplaar van de overeenkomst van alternerende opleiding aan het Vlaams Partnerschap Duaal Leren;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° ...</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° betaalt aan de leerling een leervergoeding conform artikel 17, § 1;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° zorgt ervoor dat de leerling de lessen kan volgen die noodzakelijk zijn voor zijn opleiding, en dat de leerling aan de activiteiten kan deelnemen die gelijkgesteld zijn met lessen;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">6° waakt over het verloop van het opleidingstraject, volgt de vorderingen van de leerling op en is betrokken bij de evaluatie van de leerling;</span><br>
@@ -205,7 +205,8 @@ c) een mentoropleiding moet volgen;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° bewaakt de competentieverwerving in samenspraak met de mentor;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° houdt tijdens de periodes waarin de leerling de werkplekcomponent effectief invult, een vertegenwoordiger van de opleidingsverstrekker bij wie de leerling is ingeschreven, voor de leerling bereikbaar. Die verplichting kan echter geen afbreuk doen aan de statutaire rechten van de individuele personeelsleden;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">6° levert maximale inspanningen om na de beëindiging van een overeenkomst van alternerende opleiding voor de leerling een nieuwe overeenkomst van alternerende opleiding te sluiten;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">7° bezorgt aan het Vlaams Partnerschap Duaal Leren de gevraagde gegevens voor zijn jaarlijks monitoringsrapport over de stand van zaken van het duale leren in Vlaanderen.</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">7° bezorgt aan het Vlaams Partnerschap Duaal Leren de gevraagde gegevens voor zijn jaarlijks monitoringsrapport over de stand van zaken van het duale leren in Vlaanderen.<br>
+8° bezorgt een exemplaar van de overeenkomst van alternerende opleiding aan het Vlaams Partnerschap Duaal Leren.</span><br>
 &nbsp;
 
 ### ART 14.
