@@ -26,9 +26,13 @@ De universiteiten kunnen de volgende educatieve masteropleidingen aanbieden:<br>
 9° een educatieve masteropleiding Talen, met een studieomvang van 120 studiepunten, binnen het studiegebied taal- en letterkunde of het studiegebied toegepaste taalkunde;<br>
 10° een educatieve masteropleiding Gezondheidswetenschappen, met een studieomvang van 120 studiepunten, binnen het studiegebied sociale gezondheidswetenschappen of het studiegebieden Geneeskunde of het studiegebied Biomedische wetenschappen.
 
+### ART 1/1.
+
+&nbsp;De Evangelische Theologische Faculteit in Heverlee kan een educatieve masteropleiding Godsdienst aanbieden, met een studieomvang van 90 studiepunten, binnen het studiegebied godgeleerdheid, godsdienstwetenschappen en kerkelijk recht.
+
 ### ART 2.
 
-§ 1. De student van de educatieve masteropleiding, vermeld in artikel 1 kiest uit de onderstaande lijst minstens één vakdidactiek, binnen de mogelijkheden die de universiteit aanbiedt:<br>
+§ 1. De student van de educatieve masteropleiding, vermeld in artikel 1 en artikel 1/1, kiest uit de onderstaande lijst minstens één vakdidactiek, binnen de mogelijkheden die de universiteit of de Evangelische Theologische Faculteit, vermeld in artikel 1/1, aanbiedt:<br>
 1° Aardrijkskunde;<br>
 2° Arabisch;<br>
 3° Architectuur;<br>
