@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033665,
+  "title": "Besluit van de Vlaamse Regering van 2020-09-11 tot toekenning van steun aan de sportsector in het kader van het noodfonds sport naar aanleiding van de COVID-19-pandemie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033665/VolledigDocument?datum=2020-09-23",
+  "source_sha256": "9f33fa65829399498d8eb980c7ea6c6211ccbfff1285436355d96d280219a549",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033665&param=informatie",
+  "as_of": "2020-09-23",
+  "made": "2020-09-11",
+  "gazette": "2020-09-23",
+  "numac": 2020043107,
+  "document_start": "2020-09-23",
+  "document_end": null,
+  "in_force": "2020-09-23",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2020-09-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
