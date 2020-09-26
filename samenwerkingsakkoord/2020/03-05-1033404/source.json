@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033404,
+  "title": "Samenwerkingsakkoord van 2020-03-05 tot wijziging van het samenwerkingsakkoord van 4 november 2008 betreffende de preventie en het beheer van verpakkingsafval",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033404/VolledigDocument?datum=2020-09-26",
+  "source_sha256": "8a5a374e4b98e895981e503e2a3754b399ccea3bd56ff8e2880f66bfd290364a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033404&param=informatie",
+  "as_of": "2020-09-26",
+  "made": "2020-03-05",
+  "gazette": "2020-09-16",
+  "numac": 0,
+  "document_start": "2020-09-26",
+  "document_end": null,
+  "in_force": "2020-09-26",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2020-09-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
