@@ -23,6 +23,14 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT :
 
+### ART 1.
+
+De tijdelijke wijziging van het organiek reglement tot vaststelling van de regeling inzake het personeel van de Sociaal-Economische Raad van Vlaanderen en van de personeelsformatie, die aangenomen werd door de Raad op 10 juli 2020 en die als bijlage bij dit besluit is gevoegd, wordt goedgekeurd.
+
+### ART 2.
+
+De minister-president, bevoegd voor de ondersteuning van de Vlaamse Regering, is belast met de uitvoering van dit besluit.
+
 ## Bijlage Wijziging van het organiek reglement tot vaststelling van de regeling inzake het personeel van de Sociaal-Economische Raad van Vlaanderen en van de personeelsformatie, aangenomen door de Raad op 10 juli 2020
 
 ### ART 1.
@@ -38,6 +46,12 @@ Aan artikel XI 89 van het organiek reglement van de Sociaal-Economische Raad van
 Onder alleenwonende ouder wordt verstaan, de persoon die uitsluitend samenwoont met één of meerdere kinderen die hij ten laste heeft.";<br>
 <br>
 3° in paragraaf 4, eerste lid, wordt de zinsnede "1 juli 2020" vervangen door de zinsnede "1 oktober 2020".
+
+### ART 2.
+
+Aan artikel XIV 27, § 10, van hetzelfde organiek reglement wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"In afwijking van het eerste lid kan een contractueel personeelslid dat niet met een voltijdse arbeidsovereenkomst is tewerkgesteld de volledige onderbreking zoals bepaald in artikel XI 89 § 1 opnemen.".
 
 ### ART 3.
 

@@ -2,16 +2,16 @@
   "codex_id": 1033660,
   "title": "Besluit van de Vlaamse Regering van 2020-09-11 tot goedkeuring van de tijdelijke wijziging van het organiek reglement tot vaststelling van de regeling inzake personeel van de Sociaal-Economische Raad van Vlaanderen en van de personeelsformatie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033660/VolledigDocument?datum=2020-07-01",
-  "source_sha256": "009a05c93858edb5093e02ca3c639d702ed50ec99565f9776fbd5948d20dc199",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033660/VolledigDocument?datum=2020-09-28",
+  "source_sha256": "f7d0c8ca82755cac299cce5e96972728588dc10d8d086271414512aa2e3acd4c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033660&param=informatie",
-  "as_of": "2020-07-01",
+  "as_of": "2020-09-28",
   "made": "2020-09-11",
   "gazette": "2020-09-18",
   "numac": 2020015561,
   "document_start": "2020-09-28",
   "document_end": null,
-  "in_force": "2020-07-01",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2020-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-09-28",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2020-09-28; future article versions excluded; article text as the API gives it"
 }
