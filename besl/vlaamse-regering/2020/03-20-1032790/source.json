@@ -2,16 +2,16 @@
   "codex_id": 1032790,
   "title": "Besluit van de Vlaamse Regering van 2020-03-20 tot toekenning van steun aan ondernemingen die verplicht moeten sluiten ten gevolge van de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032790/VolledigDocument?datum=2020-03-14",
-  "source_sha256": "9711607641799b7bd30bef4ea888774b420cf6f5ac7f004c98224931698ef1f5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032790/VolledigDocument?datum=2020-09-29",
+  "source_sha256": "36925fe4e2d3ac75020ce7ae438510e06b2d5b578ab5259b2323d0a93e90a3a7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032790&param=informatie",
-  "as_of": "2020-03-14",
+  "as_of": "2020-09-29",
   "made": "2020-03-20",
   "gazette": "2020-03-30",
   "numac": 2020030417,
   "document_start": "2020-03-14",
   "document_end": null,
-  "in_force": "2020-03-14",
+  "in_force": "2020-09-29",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2020-03-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-09-29; future article versions excluded; article text as the API gives it"
 }

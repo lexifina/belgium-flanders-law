@@ -73,7 +73,9 @@ Een bijkomende sluitingspremie wordt toegekend aan ondernemingen die vanaf 6 apr
 <br>
 De bijkomende sluitingspremie bedraagt 160 euro per verplichte sluitingsdag die samenvalt met een normale openingsdag. Hierbij gelden de openingsdagen die gangbaar waren de dag voor de inwerkingtreding van dit besluit.<br>
 <br>
-Vanaf 8 juni 2020 wordt de bijkomende sluitingspremie enkel toegekend aan ondernemingen die ten gevolge van de coronavirusmaatregelen verplicht volledig gesloten zijn en waarbij de fysieke locatie gesloten is.
+Vanaf 8 juni 2020 wordt de bijkomende sluitingspremie enkel toegekend aan ondernemingen die ten gevolge van de coronavirusmaatregelen verplicht volledig gesloten zijn en waarbij de fysieke locatie gesloten is.<br>
+<br>
+De bijkomende sluitingspremie wordt toegekend tot 30 september 2020.
 
 ### ART 7.
 
