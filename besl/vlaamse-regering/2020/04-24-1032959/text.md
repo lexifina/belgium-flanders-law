@@ -103,7 +103,7 @@ Als het resultaat van de formules, vermeld in artikel 3/1 of artikel 3/2, negati
 
 ### ART 3/4.
 
-Aan de centra voor dagverzorging met een bijkomende erkenning die in de periode tussen 1 september 2020 tot en met 31 december 2020 genoodzaakt zijn volledig gesloten te blijven om dienst te doen als cohortafdeling, wordt een subsidie toegekend die op de volgende wijze wordt berekend: basistegemoetkoming voor zorg op 25 mei 2020 x aantal gesloten dagen cohortzorg x individuele bezettingsgraad bijkomende erkenning x gemiddelde aantal verblijfseenheden bijkomende erkenning.
+Aan de centra voor dagverzorging met een bijkomende erkenning die in de periode tussen 1 september 2020 tot en met 30 september 2020 genoodzaakt zijn volledig gesloten te blijven om dienst te doen als cohortafdeling, wordt een subsidie toegekend die op de volgende wijze wordt berekend: basistegemoetkoming voor zorg op 25 mei 2020 x aantal gesloten dagen cohortzorg x individuele bezettingsgraad bijkomende erkenning x gemiddelde aantal verblijfseenheden bijkomende erkenning.
 
 ### ART 4.
 
@@ -135,15 +135,15 @@ Aan de centra voor dagverzorging die op 25 mei 2020 erkend zijn, wordt vanaf 25 
 
 ### ART 5/3.
 
-&nbsp;Aan de centra voor dagverzorging die op 25 mei 2020 erkend zijn, wordt vanaf 1 oktober 2020 tot en met 31 december 2020 een subsidie toegekend die op de volgende wijze wordt berekend: ((gemiddelde dagbezetting 2019 x aantal openingsdagen vanaf 1 oktober 2020 tot en met 31 december 2020) - het aantal aanwezigheidsdagen van alle gebruikers vanaf 1 oktober 2020 tot en met 31 december 2020) x 9 euro.
+...
 
 ### ART 5/4.
 
-Als het resultaat van de formules, vermeld in artikel 5/1, 5/2 of 5/3 negatief is, wordt de respectieve subsidie herleid naar 0 euro.
+Als het resultaat van de formules, vermeld in artikel 5/1 of 5/2 negatief is, wordt de respectieve subsidie herleid naar 0 euro.
 
 ### ART 5/5.
 
-Aan alle erkende centra voor dagverzorging die in de periode tussen 1 september 2020 tot en met 31 december 2020 genoodzaakt zijn volledig gesloten te blijven om dienst te doen als cohortafdeling, wordt een subsidie toegekend die op de volgende wijze wordt berekend: gemiddelde dagbezetting 2019 x aantal gesloten dagen cohortzorg x 18 euro.
+Aan alle erkende centra voor dagverzorging die in de periode tussen 1 september 2020 tot en met 30 september 2020 genoodzaakt zijn volledig gesloten te blijven om dienst te doen als cohortafdeling, wordt een subsidie toegekend die op de volgende wijze wordt berekend: gemiddelde dagbezetting 2019 x aantal gesloten dagen cohortzorg x 18 euro.
 
 ### ART 5/6.
 
@@ -155,12 +155,12 @@ In het eerste lid wordt verstaan onder<br>
 
 ### ART 5/7.
 
-Om in aanmerking te komen voor de subsidies, vermeld in artikel 3/1, artikel 3/2, 5/1, 5/2 en 5/3, delen de centra voor dagverzorging aan het agentschap al de volgende gegevens mee:<br>
+Om in aanmerking te komen voor de subsidies, vermeld in artikel 3/1, artikel 3/2, 5/1 en 5/2, delen de centra voor dagverzorging aan het agentschap al de volgende gegevens mee:<br>
 1° het aantal dagen dat het centrum voor dagverzorging effectief is geopend;<br>
 2° de som van het aantal aanwezigheidsdagen van alle gebruikers, ingedeeld per afhankelijkheidscategorie voor de afgelopen periode;<br>
 3° in geval van sluiting, al dan niet om dienst te doen als cohortafdeling: de verklaring dat de medewerkers die in het centrum voor dagverzorging tewerkgesteld zijn, hun vastgestelde arbeidstijd verder inzetten in de cohortafdeling of in een door hun werkgever te bepalen alternatieve arbeid in het aanbod dat erkend, vergund of gesubsidieerd wordt in het kader van het gezondheidsbeleid of het welzijns- en gezinsbeleid.<br>
 <br>
-Om in aanmerking te komen voor de subsidies, vermeld in artikel 3/4 en 5/5, delen de centra voor dagverzorging die in de periode tussen 1 september 2020 tot en met 31 december 2020 genoodzaakt zijn volledig gesloten te blijven om dienst te doen als cohortafdeling, al de volgende gegevens mee:<br>
+Om in aanmerking te komen voor de subsidies, vermeld in artikel 3/4 en 5/5, delen de centra voor dagverzorging die in de periode tussen 1 september 2020 tot en met 30 september 2020 genoodzaakt zijn volledig gesloten te blijven om dienst te doen als cohortafdeling, al de volgende gegevens mee:<br>
 1° het aantal dagen in de voorbije maand dat ze dienst hebben gedaan als cohortafdeling;<br>
 2° de verklaring dat de medewerkers die in het centrum voor dagverzorging zijn tewerkgesteld, hun vastgestelde arbeidstijd verder inzetten in de cohortafdeling of in een door hun werkgever te bepalen alternatieve arbeid in het aanbod dat erkend, vergund of gesubsidieerd wordt in het kader van het gezondheidsbeleid of het welzijns- en gezinsbeleid.<br>
 <br>
@@ -168,7 +168,7 @@ De centra voor dagverzorging delen de gegevens, vermeld in het eerste lid, mee v
 1° de periode van 25 mei 2020 tot en met 31 juli 2020: uiterlijk op 15 augustus 2020;<br>
 2° voor elke volgende maand: uiterlijk op de vijftiende van de maand die volgt op de maand in kwestie.<br>
 <br>
-De centra voor dagverzorging die in de periode tussen 1 september 2020 tot en met 31 december 2020 genoodzaakt zijn volledig gesloten te blijven om dienst te doen als cohortafdeling, delen de gegevens, vermeld in het tweede lid, uiterlijk op de vijftiende van de maand die volgt op de maand in kwestie, mee via het e-loket.<br>
+De centra voor dagverzorging die in de periode tussen 1 september 2020 tot en met 30 september genoodzaakt zijn volledig gesloten te blijven om dienst te doen als cohortafdeling, delen de gegevens, vermeld in het tweede lid, uiterlijk op de vijftiende van de maand die volgt op de maand in kwestie, mee via het e-loket.<br>
 <br>
 Als de gegevens, vermeld in het eerste en tweede lid, voor een bepaalde maand niet tijdig zijn meegedeeld, verliest de voorziening het recht op de tegemoetkoming voor de maand in kwestie.
 
@@ -204,7 +204,7 @@ In het eerste lid wordt verstaan onder aantal gecompenseerde dagen wegens niet-b
 
 ### ART 7.
 
-In afwijking van artikel 529, § 1, tweede lid van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, mogen centra voor dagverzorging met een bijkomende erkenning in 2020 niet meer dagen factureren dan het maximale aantal dagen rekening houdend met hun erkende capaciteit, verminderd met het aantal gesloten dagen.
+...
 
 ## HOOFDSTUK 3. Maatregelen voor centra voor dagopvang
 
@@ -222,15 +222,15 @@ Aan de centra voor dagopvang die op 25 mei 2020 erkend zijn, wordt vanaf 1 septe
 
 ### ART 8/3.
 
-Aan de centra voor dagopvang die op 25 mei 2020 erkend zijn, wordt vanaf 1 oktober 2020 tot en met 31 december 2020 een subsidie toegekend die op de volgende wijze wordt berekend: ((gemiddelde aantal gefactureerde uren per dag 2019 x aantal openingsdagen vanaf 1 oktober 2020 tot en met 31 december 2020) - het aantal aanwezigheidsuren van alle gebruikers vanaf 1 oktober 2020 tot en met 31 december 2020) x 1,75 euro.
+...
 
 ### ART 8/4.
 
-Als het resultaat van de formules, vermeld in artikel 8/1, 8/2, of 8/3, negatief is, wordt de respectieve subsidie herleid naar 0 euro.
+Als het resultaat van de formules, vermeld in artikel 8/1 of 8/2, negatief is, wordt de respectieve subsidie herleid naar 0 euro.
 
 ### ART 8/5.
 
-Om in aanmerking te komen voor de subsidies, vermeld in artikel 8/1, 8/2 en 8/3, deelt het centrum voor dagopvang aan het agentschap al de volgende gegevens mee:<br>
+Om in aanmerking te komen voor de subsidies, vermeld in artikel 8/1 en 8/2, deelt het centrum voor dagopvang aan het agentschap al de volgende gegevens mee:<br>
 1° het aantal dagen dat het centrum voor dagopvang effectief is geopend;<br>
 2° de som van het aantal aanwezigheidsuren van alle gebruikers voor de afgelopen periode.<br>
 <br>
@@ -268,17 +268,17 @@ Aan de woonzorgcentra en centra voor kortverblijf die op 31 juli 2020 erkend zij
 
 ### ART 11/2.
 
-Aan de woonzorgcentra en centra voor kortverblijf die op 31 juli 2020 erkend zijn wordt voor de periode van 1 oktober 2020 tot en met 31 december 2020 een subsidie toegekend die op de volgende wijze wordt berekend: te financieren verminderde bezetting voor de periode van 1 oktober 2020 tot en met 31 december 2020 x (basistegemoetkoming voor zorg op 1 augustus 2020 + (dagprijs op 1 mei 2019 x 0,40)) x aantal dagen in de periode.
+...
 
 ### ART 11/3.
 
-Om in aanmerking te komen voor de subsidie, vermeld in artikel 11/1 en 11/2, en de voorschotten, vermeld in artikel 11/5, melden de woonzorgcentra en centra voor kortverblijf voor elke maand, uiterlijk op de vijftiende van de maand die volgt op de maand in kwestie, het aantal opgenomen bewoners in de maand in kwestie via het e-loket van het agentschap.<br>
+Om in aanmerking te komen voor de subsidie, vermeld in artikel 11/1, en de voorschotten, vermeld in artikel 11/5, melden de woonzorgcentra en centra voor kortverblijf voor elke maand, uiterlijk op de vijftiende van de maand die volgt op de maand in kwestie, het aantal opgenomen bewoners in de maand in kwestie via het e-loket van het agentschap.<br>
 <br>
-Als de gegevens, vermeld in eerste lid, niet tijdig zijn meegedeeld, verliest de voorziening het recht op de subsidie, vermeld in artikel 11/1 en 11/2, voor de maand in kwestie.
+Als de gegevens, vermeld in eerste lid, niet tijdig zijn meegedeeld, verliest de voorziening het recht op de subsidie, vermeld in artikel 11/1, voor de maand in kwestie.
 
 ### ART 11/4.
 
-Voor een overlijden of een einde van de opnameovereenkomst vanaf 1 juli 2020 tot en met 31 december 2020 kan er geen dagprijs aan de bewoner of de vertegenwoordiger van de bewoner worden aangerekend voor de dagen waarop de woongelegenheid niet is bewoond tijdens de opzegtermijn doordat de opnameovereenkomst is beëindigd of tijdens de termijn waarover de nabestaanden beschikken om de kamer te ontruimen na overlijden. Onterecht aangerekende bedragen worden aan de bewoner of de vertegenwoordiger van de bewoner terugbetaald.
+Voor een overlijden of een einde van de opnameovereenkomst vanaf 1 juli 2020 tot en met 30 september 2020 kan er geen dagprijs aan de bewoner of de vertegenwoordiger van de bewoner worden aangerekend voor de dagen waarop de woongelegenheid niet is bewoond tijdens de opzegtermijn doordat de opnameovereenkomst is beëindigd of tijdens de termijn waarover de nabestaanden beschikken om de kamer te ontruimen na overlijden. Onterecht aangerekende bedragen worden aan de bewoner of de vertegenwoordiger van de bewoner terugbetaald.
 
 ### ART 11/5.
 
@@ -296,7 +296,7 @@ Als het woonzorgcentrum of centrum voor kortverblijf de gegevens, vermeld in het
 
 ### ART 12.
 
-In afwijking van artikel 529, § 1, eerste lid, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, mogen woonzorgcentra in 2020 per kwartaal meer dagen factureren dan het maximale aantal dagen rekening houdend met hun erkende capaciteit, zolang dat aantal dagen het maximale aantal dagen voor het volledige jaar 2020 uitgaande van hun erkende capaciteit verminderd met het totale aantal leegstandsdagen tijdens de periode van 13 maart 2020 tot en met 31 juli 2020 en met de verminderde bezetting tijdens de periode van 1 augustus 2020 tot en met 31 december 2020, niet overschrijdt.
+...
 
 ### ART 13.
 
@@ -434,15 +434,15 @@ f) huisartsen die in het woonzorgcentrum werken, actief informeren over het bele
 
 ### ART 15.
 
-In afwijking van artikel 479 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, wordt, als er na toepassing van artikel 475, § 4 en § 5, en artikel 478, nog altijd een tekort is aan personeel met een bepaalde kwalificatie geen vermindering bepaald voor de basistegemoetkoming voor zorg voor de factureringsperiode 2021 als de voorziening erkend was op 31 juli 2020.
+...
 
 ### ART 16.
 
-In afwijking van artikel 482 van hetzelfde besluit worden voor de factureringsperiode 2021 en als de voorziening erkend was op 31 juli 2020, in de woonzorgcentra, in voorkomend geval met bijbehorende centra voor kortverblijf, een aantal van bachelors in de verpleegkunde die de norm voor verpleegkundigen, vermeld in artikel 429 en 430, opvullen, gefinancierd volgens de loonkosten van een bachelor in de verpleegkunde. Het aantal bachelors in de verpleegkunde dat aldus wordt gefinancierd, bedraagt maximum 30 % van de theoretische norm voor verpleegkundigen, vermeld in artikel 476.
+...
 
 ### ART 17.
 
-In afwijking van artikel 487 § 1 van hetzelfde besluit wordt voor de factureringsperiode 2021&nbsp;en als de voorziening erkend was op 31 juli 2020, een bijkomende tegemoetkoming bepaald als aanmoediging voor bijkomende zorginspanningen ongeacht of er een personeelstekort is, als vermeld in artikel 479 of artikel 483, § 2. Alle andere bepalingen van artikel 487 § 1 blijven van toepassing.
+...
 
 ### ART 19.
 
@@ -464,17 +464,17 @@ Om de werkingssubsidies voor de centra voor kortverblijf type 1 die worden uitge
 
 ### ART 21.
 
-De subsidies, vermeld in artikel 2, artikel 3/1 tot en met artikel 3/4, artikel 5 tot en met artikel 5/5, artikel 8 tot en met artikel 8/4, artikel 10, eerste lid, artikel 11/1 en 11/2, en artikel 13 tot en met 14/3, kunnen in meerdere schijven worden uitbetaald afhankelijk van eventuele verlenging van de COVID-19-maatregelen en de periode vermeld in artikel 5 en artikel 8 van het besluit van de Vlaamse Regering van 13 maart 2020 en de beschikbaarheid van de bezorgde informatie vermeld in artikel 3, artikel 5/7, eerste en tweede lid, artikel 8/5, eerste lid, artikel 11, artikel 11/3, eerste lid, artikel 13, § 3, vierde lid, artikel 14, § 1, vijfde lid, en § 2, derde lid, artikel 14/1, zesde lid, en artikel 14/2, vierde lid.
+De subsidies, vermeld in artikel 2, artikel 3/1 tot en met artikel 3/4, artikel 5 tot en met artikel 5/5, artikel 8 tot en met artikel 8/4, artikel 10, eerste lid, artikel 11/1 en artikel 13 tot en met 14/3, kunnen in meerdere schijven worden uitbetaald afhankelijk van eventuele verlenging van de COVID-19-maatregelen en de periode vermeld in artikel 5 en artikel 8 van het besluit van de Vlaamse Regering van 13 maart 2020 en de beschikbaarheid van de bezorgde informatie vermeld in artikel 3, artikel 5/7, eerste en tweede lid, artikel 8/5, eerste lid, artikel 11, artikel 11/3, eerste lid, artikel 13, § 3, vierde lid, artikel 14, § 1, vijfde lid, en § 2, derde lid, artikel 14/1, zesde lid, en artikel 14/2, vierde lid.
 
 ### ART 22.
 
-Indien na controle door het agentschap blijkt dat, in uitvoering van artikel 10, eerste lid, artikel 11/1, 11/2, artikel 13, § 2, artikel 14, 14/1, 14/2 en 14/3 teveel subsidies werden uitbetaald voor een bepaald woonzorgcentrum, in voorkomend geval met bijbehorend centrum voor kortverblijf, doordat de voorziening in uitvoering van artikel 11, artikel 11/3, eerste lid, artikel 13, § 3, vierde lid, artikel 14, § 1, vijfde lid, artikel 14, § 2, derde lid, artikel 14/1, zesde lid, of artikel 14/2, vierde lid, een foutief aantal leegstandsdagen of een foutief aantal gepresteerde uren, een foutief aantal opgenomen bewoners, een foutieve functie of een foutieve zorgkwalificatie doorgaf, of indien blijkt dat, in uitvoering van artikel 3/1 tot en met artikel 3/4, artikel 5/1 tot en met artikel 5/5 of artikel 8/1 tot en met artikel 8/4 teveel subsidies werden uitbetaald voor een bepaald centrum voor dagverzorging of een bepaald centrum voor dagopvang, doordat de voorziening in uitvoering van artikel 5/7 eerste en tweede lid of artikel 8/5 eerste lid, een foutief aantal openingsdagen, een foutief aantal aanwezigheidsdagen, een foutief aantal dagen als cohortafdeling of een foutief aantal aanwezigheidsuren doorgaf, kan het agentschap op basis van het correct aantal leegstandsdagen of op basis van het correct aantal gepresteerde uren of op basis van het correct aantal opgenomen bewoners of op basis van de correcte functie of zorgkwalificatie, of op basis van een correct aantal openingsdagen, aanwezigheidsdagen, dagen als cohortafdeling of aanwezigheidsuren de subsidie herberekenen en het teveel aan uitbetaalde subsidies recupereren bij de betreffende voorziening.<br>
+Indien na controle door het agentschap blijkt dat, in uitvoering van artikel 10, eerste lid, artikel 11/1, artikel 13, § 2, artikel 14, 14/1, 14/2 en 14/3 teveel subsidies werden uitbetaald voor een bepaald woonzorgcentrum, in voorkomend geval met bijbehorend centrum voor kortverblijf, doordat de voorziening in uitvoering van artikel 11, artikel 11/3, eerste lid, artikel 13, § 3, vierde lid, artikel 14, § 1, vijfde lid, artikel 14, § 2, derde lid, artikel 14/1, zesde lid, of artikel 14/2, vierde lid, een foutief aantal leegstandsdagen of een foutief aantal gepresteerde uren, een foutief aantal opgenomen bewoners, een foutieve functie of een foutieve zorgkwalificatie doorgaf, of indien blijkt dat, in uitvoering van artikel 3/1 tot en met artikel 3/4, artikel 5/1 tot en met artikel 5/5 of artikel 8/1 tot en met artikel 8/4 teveel subsidies werden uitbetaald voor een bepaald centrum voor dagverzorging of een bepaald centrum voor dagopvang, doordat de voorziening in uitvoering van artikel 5/7 eerste en tweede lid of artikel 8/5 eerste lid, een foutief aantal openingsdagen, een foutief aantal aanwezigheidsdagen, een foutief aantal dagen als cohortafdeling of een foutief aantal aanwezigheidsuren doorgaf, kan het agentschap op basis van het correct aantal leegstandsdagen of op basis van het correct aantal gepresteerde uren of op basis van het correct aantal opgenomen bewoners of op basis van de correcte functie of zorgkwalificatie, of op basis van een correct aantal openingsdagen, aanwezigheidsdagen, dagen als cohortafdeling of aanwezigheidsuren de subsidie herberekenen en het teveel aan uitbetaalde subsidies recupereren bij de betreffende voorziening.<br>
 <br>
 Indien na controle door het agentschap blijkt dat, of indien niet voldaan is aan de voorwaarden vermeld in artikel 14/4, § 2 of indien het bedrag van de subsidies niet of niet volledig wordt doorgestort omdat de taken vermeld in artikel 14/4 § 3 niet naar best vermogen zijn opgenomen, kan het agentschap het teveel aan uitbetaalde subsidies recupereren bij de betreffende voorziening.
 
 ### ART 23.
 
-De subsidies, vermeld in artikel 2, artikel 3/1 tot en met artikel 3/4, artikel 5 tot en met artikel 5/5, artikel 10, eerste lid, artikel 11/1 en 11/2, en artikel 13 tot en met 14/3, worden vastgelegd op begrotingsartikel GM0-AGHF2TL-WT van de uitgavenbegroting 2020 van de Vlaamse Gemeenschap.
+De subsidies, vermeld in artikel 2, artikel 3/1 tot en met artikel 3/4, artikel 5 tot en met artikel 5/5, artikel 10, eerste lid, artikel 11/1 en artikel 13 tot en met 14/3, worden vastgelegd op begrotingsartikel GM0-AGHF2TL-WT van de uitgavenbegroting 2020 van de Vlaamse Gemeenschap.
 
 ### ART 24.
 
