@@ -44,6 +44,10 @@ In afwijking van het derde lid kan ook een contractueel personeelslid die niet m
 <br>
 3° in paragraaf 4 wordt de zinsnede ` 1 juli 2020' vervangen door de zinsnede `1 oktober 2020'.
 
+### ART 2.
+
+In artikel X 97 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 mei 2020 en gewijzigd bij artikel 1 van dit besluit, worden paragraaf 1 tot en met 5 opgeheven.
+
 ## HOOFDSTUK 2. Wijziging van het besluit van de Vlaamse Regering van 29 mei 2020 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006 en het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet, wat betreft de invoering van het corona-ouderschapsverlof
 
 ### ART 3.
