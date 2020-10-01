@@ -314,7 +314,7 @@ De   beslissing, vermeld in artikel 47, ressorteert gevolgen op de eerste dag va
 
 ### ART. 50.
 
-<P>De   toekenning van het contingent aan inschakelingstrajecten wordt jaarlijks in het   derde kwartaal door het departement verminderd.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   vermindering wordt automatisch beslist voor iedere lokale   diensteneconomieonderneming waarbij de invulling van het toegekende contingent,   op kalenderjaarbasis minder dan negentig procent bedraagt van het toegekende   contingent op jaarbasis. Het contingent wordt, rekening houdend met een minimale   schaalgrootte van vijf voltijds equivalente doelgroepwerknemers, verminderd met   het verschil in percentage tussen de effectieve invullingsgraad op   kalenderjaarbasis en de tot de invullingsgraad van negentig procent van het   toegekende contingent.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   beslissing, vermeld in het tweede lid, heeft ingang de eerste dag van het vierde   kwartaal.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>...</p>
 
 ### ART 50/1.
 
@@ -387,7 +387,7 @@ De   dienstverlener kan de vergoeding in het kader van de doorstroomtrajecten ni
 <p>§ 1. De lokale diensteneconomieonderneming die conform het artikel 3, § 1, van het decreet van 22 december 2006 houdende de lokale diensteneconomie, een erkenning geniet als lokale diensteneconomie-initiatief, wordt vrijgesteld van de aanmeldingsplicht, vermeld in artikel 35 van dit besluit, en verkrijgt op automatische wijze het label lokale diensteneconomieonderneming op de datum van de inwerkingtreding van dit besluit.</p>
 
 <p>§ 2. De lokale diensteneconomieonderneming waaraan het label werd toegekend met toepassing van paragraaf 1, moet:<br>
-1° uiterlijk op 1 januari 2021 voldoen aan de organisatievoorwaarden, vermeld in artikel 2;<br>
+1° uiterlijk op 1 januari 2024 voldoen aan de organisatievoorwaarden, vermeld in artikel 2;<br>
 2°...;<br>
 3° uiterlijk op 30 juli 2017 haar eerste duurzaamheidsverslag, vermeld in artikel 6, dat betrekking heeft op het kalenderjaar 2016, bezorgen aan het departement;<br>
 4° op de uiterste datum, die de minister nader bepaalt, haar eerste zelfevaluatie, vermeld in artikel 7, uitvoeren;<br>
