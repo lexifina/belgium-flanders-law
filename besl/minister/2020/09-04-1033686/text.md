@@ -18,9 +18,31 @@ DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID, GEZIN EN ARMOEDEBESTRIJDING BE
 
 ## HOOFDSTUK 1. Definitie
 
+### ART 1.
+
+In dit besluit wordt verstaan onder :<br>
+1° besluit van 24 maart 2020: het besluit van de Vlaamse Regering van 24 maart tot bestrijding van de negatieve gevolgen van het Covid-19 virus voor de gezinnen en de organisatoren in de kinderopvang;<br>
+2° besluit van 1 april 2020: het besluit van de Vlaamse Regering van 1 april 2020 tot bestrijding van de negatieve gevolgen van het Covid-19 virus voor de gezinnen en de organisatoren in de buitenschoolse opvang, in de opvang van zieke kinderen en preventieve gezinsondersteuning.
+
 ## HOOFDSTUK 2. Afbouw van de maatregelen voor gezinnen en organisatoren in de kinderopvang van baby's en peuters
 
+### ART 2.
+
+De maatregelen voor de gezinnen, vermeld in artikel 3 van het besluit van 24 maart 2020, zijn van toepassing tot en met 30 september 2020.
+
+### ART 3.
+
+Het agentschap kan de subsidie, vermeld in artikel 4 van het besluit van 24 maart 2020, toekennen voor de periode dat de coronamaatregelen gelden tot en met 30 september 2020.
+
 ## HOOFDSTUK 3. Afbouw van de maatregelen voor gezinnen en organisatoren in de buitenschoolse opvang
+
+### ART 4.
+
+De maatregelen voor de gezinnen, vermeld in artikel 3 van het besluit van 1 april 2020, zijn van toepassing tot en met 30 september 2020.
+
+### ART 5.
+
+Het agentschap kan de subsidie, vermeld in artikel 4 van het besluit van 1 april 2020, toekennen voor de periode dat de coronamaatregelen gelden tot en met 30 september 2020.
 
 ### ART 6.
 
@@ -31,3 +53,7 @@ a) door de afwezigheid van alle kinderen van minstens één leefgroep voor minst
 b) door overmacht.
 
 ## HOOFDSTUK 4. Slotbepalingen
+
+### ART 7.
+
+Dit besluit treedt in werking op 1 oktober 2020, met uitzondering van artikel 6 dat in werking treedt op 1 september 2020.
