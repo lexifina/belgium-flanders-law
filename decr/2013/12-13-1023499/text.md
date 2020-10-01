@@ -67,7 +67,7 @@ Als het voertuig, aangewezen als lichte vrachtauto in de reglementering, vermeld
 5° gewone verblijfplaats : de plaats waar iemand gewoonlijk verblijft, dat wil zeggen gedurende ten minste 185 dagen per kalenderjaar wegens persoonlijke en beroepsmatige bindingen of, voor personen zonder beroepsmatige bindingen, wegens persoonlijke bindingen waaruit nauwe banden blijken tussen hemzelf en de plaats waar hij woont.<br>
 De gewone verblijfplaats van iemand die zijn beroepsmatige bindingen op een andere plaats heeft dan zijn persoonlijke bindingen en daardoor afwisselend verblijft op verschillende plaatsen in twee of meer staten, wordt evenwel geacht zich op dezelfde plaats te bevinden als zijn persoonlijke bindingen, op voorwaarde dat hij op geregelde tijden terugkeert naar die plaats. Die laatste voorwaarde vervalt als de betrokkene in een staat verblijft voor een opdracht van een bepaalde duur. Het feit dat college wordt gelopen of een school wordt bezocht, houdt niet in dat de gewone verblijfplaats wordt verplaatst;<br>
 6° euronorm: de maximumdrempel voor de concentratie van bepaalde vervuilende stoffen in de uitlaatgassen van motorvoertuigen, bepaald in opeenvolgende Europese richtlijnen en verordeningen;<br>
-7° wegvoertuigen: de personenauto's, auto's voor dubbel gebruik en minibussen zoals die voertuigen zijn omschreven in de reglementering van de inschrijving van de motorvoertuigen en de aanhangwagens en zoals ze worden verstaan in de zin van de laatste zin van punt 2°, voor zover die voertuigen voorzien zijn van of voorzien moeten zijn van een andere nummerplaat dan een in het kader van de bedoelde regeling uitgereikte proefrittenplaat, handelaarsplaat of tijdelijke plaat die geen internationale kentekenplaat is;<br>
+7° wegvoertuigen: de personenauto's, auto's voor dubbel gebruik en minibussen zoals die voertuigen zijn omschreven in de reglementering van de inschrijving van de motorvoertuigen en de aanhangwagens en zoals ze worden verstaan in de zin van de laatste zin van punt 2°, voor zover die voertuigen voorzien zijn van of voorzien moeten zijn van een andere nummerplaat dan een in het kader van de bedoelde regeling uitgereikte proefrittenplaat, handelaarsplaat, beroepsplaat, nationale plaat of tijdelijke plaat die geen internationale kentekenplaat is;<br>
 8° vennootschap: in afwijking van het eerste lid, 21°, een vennootschap als vermeld in de wet van 7 mei 1999 houdende het Wetboek van Vennootschappen.<br>
 <br>
 In titel 2, hoofdstuk 3, wordt verstaan onder :<br>
@@ -1344,7 +1344,11 @@ Deze paragraaf is niet van toepassing op de voertuigen, vermeld in artikel 2.2.4
 
 ### ART. 2.2.4.0.4.
 
-<P>De personenauto's, de auto's voor dubbel gebruik en de minibussen, met   inbegrip van de lichte vrachtauto's, vermeld in artikel 1.1.0.0.2, derde lid,   2°, laatste zin, waarvan de motor, zelfs gedeeltelijk of tijdelijk, gedreven   wordt met vloeibaar petroleumgas of andere vloeibare koolwaterstofgassen, zijn   onderworpen aan een aanvullende verkeersbelasting van 89,16 euro, 148,68 euro of   208,20 euro, naargelang het belastbaar vermogen niet hoger is dan 7 pk, 8 pk   bereikt zonder 13 pk te overschrijden of meer bedraagt dan 13 pk.<BR></P>  <P>De aanvullende verkeersbelasting, vermeld in het eerste lid, wordt geregeld   volgens de bepalingen die van toepassing zijn op de verkeersbelasting, met   uitzondering van de bepalingen van artikel 2.2.4.0.2, § 2, artikel 2.2.4.0.3,   artikel 2.2.4.0.5, § 2, artikel 2.2.5.0.2 en artikel 2.2.6.0.1, § 1, eerste lid,   3°, 4°, 5°, 7°, 8°, 9° en 11°. <BR></P>  <P>Als de belastingplichtige, met toepassing van het eerste en het tweede lid,   aanvullende verkeersbelasting verschuldigd is voor een voertuig, mag de   belasting voor dat voertuig niet minder bedragen dan 23,16   euro.<BR></P>
+<p>De personenauto's, de auto's voor dubbel gebruik en de minibussen, met inbegrip van de lichte vrachtauto's, vermeld in artikel 1.1.0.0.2, derde lid, 2°, laatste zin, waarvan de motor, zelfs gedeeltelijk of tijdelijk, gedreven wordt met vloeibaar petroleumgas of andere vloeibare koolwaterstofgassen, zijn onderworpen aan een aanvullende verkeersbelasting van 89,16 euro, 148,68 euro of 208,20 euro, naargelang het belastbaar vermogen niet hoger is dan 7 pk, 8 pk bereikt zonder 13 pk te overschrijden of meer bedraagt dan 13 pk.</p>
+
+<p>De aanvullende verkeersbelasting, vermeld in het eerste lid, wordt geregeld volgens de bepalingen die van toepassing zijn op de verkeersbelasting, met uitzondering van de bepalingen van artikel 2.2.4.0.2, § 2, artikel 2.2.4.0.3, artikel 2.2.4.0.5, § 2, artikel 2.2.5.0.2 en artikel 2.2.6.0.1, § 1, eerste lid, 3°, 4°, 5°, 7°, 8°, 9°, 11° en 15°.</p>
+
+<p>Als de belastingplichtige, met toepassing van het eerste en het tweede lid, aanvullende verkeersbelasting verschuldigd is voor een voertuig, mag de belasting voor dat voertuig niet minder bedragen dan 23,16 euro.</p>
 
 ### ART. 2.2.4.0.5.
 
@@ -1575,7 +1579,8 @@ c) een concessie van de openbare machten;<br>
 11° de autovoertuigen die uitsluitend aangewend worden voor een taxidienst of voor verhuring met bestuurder;<br>
 12° de autovoertuigen die gebruikt worden door een Belgische verblijfhouder en ter beschikking zijn gesteld van hem door zijn werkgever die in het buitenland gevestigd is, en die in het buitenland zijn ingeschreven;<br>
 13° de motorvoertuigen en de samengestelde voertuigen die uitsluitend bestemd zijn voor het goederenvervoer over de weg, die slechts af en toe op de openbare weg in België rijden en die worden gebruikt door natuurlijke personen of rechtspersonen die het goederenvervoer niet als hoofdactiviteit hebben, als het vervoer met die voertuigen niet leidt tot concurrentievervalsing;<br>
-14° de voertuigen die ingezet worden door vervoerders die gesubsidieerd zijn door de Vlaamse Regering en die uitsluitend gebruikt worden voor het vervoer van personen met een handicap of met een ernstig beperkte mobiliteit.</p>
+14° de voertuigen die ingezet worden door vervoerders die gesubsidieerd zijn door de Vlaamse Regering en die uitsluitend gebruikt worden voor het vervoer van personen met een handicap of met een ernstig beperkte mobiliteit;<br>
+15° de voertuigen voorzien van een nationale plaat.</p>
 
 <p>De vrijstelling, vermeld in het eerste lid, 4°, is beperkt tot één personenauto per begunstigde en is afhankelijk van de voorlegging aan het bevoegde personeelslid van :<br>
 1° een getuigschrift, uitgereikt door de overheid die het invaliditeitspensioen heeft toegekend, met de vermelding dat de betrokkene de hoedanigheid van grootoorlogsinvalide heeft en een invaliditeitspensioen van ten minste 60 % geniet;<br>
@@ -1971,7 +1976,9 @@ De vermindering, vermeld in het eerste lid, wordt toegekend tot en met 31 decemb
 2° de voertuigen die uitsluitend gebruikt worden voor het vervoer van zieke of gewonde personen en, als het wegvoertuigen betreft, die ingeschreven zijn als ziekenauto's;<br>
 3° de voertuigen die als persoonlijk vervoermiddel gebruikt worden door :<br>
 a) de militaire of burgerlijke grootoorlogsinvaliden die een invaliditeitspensioen van ten minste 60 % genieten;<br>
-b) de personen die volledig blind zijn, volledig verlamd zijn aan de bovenste ledematen of van wie de bovenste ledematen geamputeerd zijn, en de personen die aangetast zijn door een blijvende invaliditeit die rechtstreeks toe te schrijven is aan de onderste ledematen en ten minste 50 % bedraagt.</p>
+b) de personen die volledig blind zijn, volledig verlamd zijn aan de bovenste ledematen of van wie de bovenste ledematen geamputeerd zijn, en de personen die aangetast zijn door een blijvende invaliditeit die rechtstreeks toe te schrijven is aan de onderste ledematen en ten minste 50 % bedraagt;<br>
+4° de voertuigen voorzien van een beroepsplaat;<br>
+5° de voertuigen voorzien van een nationale plaat.</p>
 
 <p>De vrijstelling, vermeld in het eerste lid, 3°, is beperkt tot één personenauto per begunstigde en is afhankelijk van de voorlegging aan het bevoegde personeelslid van :<br>
 1° een getuigschrift, uitgereikt door de overheid die het invaliditeitspensioen heeft toegekend, met de vermelding dat de betrokkene de hoedanigheid van grootoorlogsinvalide heeft en een invaliditeitspensioen van ten minste 60 % geniet;<br>
