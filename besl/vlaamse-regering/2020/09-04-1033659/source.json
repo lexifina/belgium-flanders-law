@@ -2,16 +2,16 @@
   "codex_id": 1033659,
   "title": "Besluit van de Vlaamse Regering van 2020-09-04 tot toekenning van extra werkingsbudget voor de scholen van het gewoon en buitengewoon basis- en secundair onderwijs, de CLB's en de internaten omwille van de genomen maatregelen en hieraan verbonden extra onkosten gemaakt door de scholen tegen verspreiding van COVID19 voor de periode september - december 2020",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033659/VolledigDocument?datum=2020-09-28",
-  "source_sha256": "93623c369802a0e36cf36c8681b0a7a75365118c1d8acc3f90415c108b6438b5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033659/VolledigDocument?datum=2020-10-01",
+  "source_sha256": "6fc4eeb515e2ce58d7afa60fa512c726990ba36c5506c0add32f9e8f32619c0f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033659&param=informatie",
-  "as_of": "2020-09-28",
+  "as_of": "2020-10-01",
   "made": "2020-09-04",
   "gazette": "2020-09-18",
   "numac": 2020043033,
   "document_start": "2020-09-28",
   "document_end": null,
-  "in_force": "2020-09-28",
+  "in_force": "2020-10-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2020-09-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-10-01; future article versions excluded; article text as the API gives it"
 }

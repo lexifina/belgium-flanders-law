@@ -47,7 +47,10 @@ Het bedrag van 22.014.000 euro is als volgt verdeeld:<br>
 - een bedrag van 109.000 euro voor de besturen van de CLB's voor de extra kosten voor schoonmaakpersoneel;<br>
 - bijkomend budget voor de CLB's in het kader van het geïntensifieerde contactonderzoek COVID19 en andere opdrachten t.b.v. 1.304.000 euro.;<br>
 - extra busbegeleiding voor het leerlingenvervoer in het buitengewoon onderwijs voor een bedrag van maximaal 1.868.000 euro;<br>
-- een extra bedrag voor de extra opvang in de internaten, IPO en MPIGO t.b.v. maximaal 2.083.000 euro.
+- een extra bedrag t.b.v. maximaal 2.083.000 euro voor:<br>
+1° internaten vermeld in de artikelen III.21 en III.35, van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, voor wat betreft hun openstelling op schooldagen;<br>
+2° internaten buitengewoon onderwijs vermeld in hoofdstuk 4, afdeling 1, onderafdeling 2, van dezelfde codificatie.<br>
+3° internaten met permanente openstelling vermeld in hoofdstuk 6, van dezelfde codificatie.
 
 ### ART 3.
 
