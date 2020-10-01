@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033746,
+  "title": "Ministerieel besluit van 2020-09-29 houdende de vervanging van de refertelijst en de refertelijst bis betreffende individuele materiële bijstand en tot aanpassing van de hulpmiddelenfiches",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033746/VolledigDocument?datum=2020-10-01",
+  "source_sha256": "67eb6ecf931fa017af21337fb6016dcd8e89b628c6342cd3d1b201bd91c4fa55",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033746&param=informatie",
+  "as_of": "2020-10-01",
+  "made": "2020-09-29",
+  "gazette": "2020-10-16",
+  "numac": 2020031428,
+  "document_start": "2020-10-01",
+  "document_end": null,
+  "in_force": "2020-10-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2020-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
