@@ -175,6 +175,10 @@ De verplichtingen, vermeld in het tweede en derde lid, gelden niet voor het aant
 
 Het dossier, vermeld in artikel 10septies/2, tweede lid, 3°, moet op de school ter inzage zijn voor de verificateurs.
 
+### ART 10septies/4.
+
+Kleuters die na de toepassing van artikel 10septies/2, tweede en derde lid, in het schooljaar in kwestie, bovenop het aantal waarover de ouder zelf mag beslissen, nog andere afwezigheden hebben dan aanvaardbare afwezigheden, verliezen hun statuut van regelmatige leerling, vermeld in artikel 20 van het decreet basisonderwijs van 25 februari 1997.
+
 ## [HOOFDSTUK IIter VOORWAARDEN VOOR HET ORGANISEREN VAN HUISONDERWIJS (ing. B.V.R. 9 mei 2003, art. 5)]
 
 ### ART. 10octies.
