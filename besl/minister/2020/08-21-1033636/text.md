@@ -36,6 +36,11 @@ In artikel 1 van het besluit van 12 januari 2015 tot aanwijzing van de Vlaamse c
 In artikel 1 van het besluit van 12 januari 2015 tot aanwijzing van de Vlaamse commissarissen, vermeld in het decreet van 19 december 2014 houdende de Vlaamse vastgoedcodex wordt een punt 68° ingevoegd, dat luidt als volgt :<br>
 "68° Toon Huybrechts"
 
+### ART 6.
+
+In artikel 1 van het besluit van 12 januari 2015 tot aanwijzing van de Vlaamse commissarissen, vermeld in het decreet van 19 december 2014 houdende de Vlaamse vastgoedcodex wordt een punt 69° ingevoegd, dat luidt als volgt :<br>
+"69° Lynn Timmerman"
+
 ### ART 7.
 
 Dit besluit treedt in werking op de dag van ondertekening, met uitzondering van artikel 6, dat in werking treedt op 1 oktober 2020.
