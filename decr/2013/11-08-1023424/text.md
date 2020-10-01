@@ -8,7 +8,14 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<BR>
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder : <BR>1° agentschap Sport Vlaanderen :   het agentschap dat opgericht is bij het decreet van 7 mei 2004 betreffende het   intern verzelfstandigd agentschap met rechtspersoonlijkheid "Sport   Vlaanderen";<BR>2° initiatief in de sportsector : een organisatie in de   sportsector die vanaf 1 januari 2003 een loonsubsidie ontvangt voor een   werknemer in een arbeidsplaats die aan de organisatie was toegekend in het kader   van een project met toepassing van het koninklijk besluit nr. 25 van 24 maart   1982 tot opzetting van een programma ter bevordering van de werkgelegenheid in   de niet-commerciële sector;<BR>3° minister : de Vlaamse minister, bevoegd voor   de lichamelijke ontwikkeling, de sport en het openluchtleven;<BR>4°   sportbegeleider : de werknemer met een sportgerelateerde functie. Daaronder   worden verstaan : de lesgevers en de begeleiders bij een sportactiviteit, de   juryleden en de scheidsrechters;<BR>5° sportondersteuner : de werknemer met een   administratieve of logistieke functie in de sport;<BR>6° werknemer in een   gewezen DAC-statuut : de werknemer tewerkgesteld in een arbeidsplaats die aan   een organisatie was toegekend in het kader van een project met toepassing van   het koninklijk besluit nr. 25 van 24 maart 1982 tot opzetting van een programma   ter bevordering van de werkgelegenheid in de niet-commerciële sector en waarvoor   een loonsubsidie wordt ontvangen als initiatief in de sportsector;<BR>7°   werknemer met verworven rechten : de werknemer in een gewezen DAC-statuut, die   al vóór 1 januari 2003 tewerkgesteld was in het kader van een project dat aan   een organisatie werd toegekend met toepassing van het koninklijk besluit nr. 25   van 24 maart 1982 tot opzetting van een programma ter bevordering van de   werkgelegenheid in de niet-commerciële sector.<BR>
+In dit decreet wordt verstaan onder :<br>
+1° agentschap Sport Vlaanderen : het agentschap dat opgericht is bij het decreet van 7 mei 2004 betreffende het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Sport Vlaanderen";<br>
+2° initiatief in de sportsector : een organisatie in de sportsector die vanaf 1 januari 2003 tot 1 oktober 2020 een loonsubsidie ontving voor een werknemer in een arbeidsplaats die aan de organisatie was toegekend in het kader van een project met toepassing van het koninklijk besluit nr. 25 van 24 maart 1982 tot opzetting van een programma ter bevordering van de werkgelegenheid in de niet-commerciële sector;<br>
+3° minister : de Vlaamse minister, bevoegd voor de lichamelijke ontwikkeling, de sport en het openluchtleven;<br>
+4° sportbegeleider : de werknemer met een sportgerelateerde functie. Daaronder worden verstaan : de lesgevers en de begeleiders bij een sportactiviteit, de juryleden en de scheidsrechters;<br>
+5° sportondersteuner : de werknemer met een administratieve of logistieke functie in de sport;<br>
+6° werknemer in een gewezen DAC-statuut : de werknemer tewerkgesteld in een arbeidsplaats die aan een organisatie was toegekend in het kader van een project met toepassing van het koninklijk besluit nr. 25 van 24 maart 1982 tot opzetting van een programma ter bevordering van de werkgelegenheid in de niet-commerciële sector en waarvoor een subsidie wordt ontvangen als initiatief in de sportsector;<br>
+7° werknemer met verworven rechten : de werknemer in een gewezen DAC-statuut, die al vóór 1 januari 2003 tewerkgesteld was in het kader van een project dat aan een organisatie werd toegekend met toepassing van het koninklijk besluit nr. 25 van 24 maart 1982 tot opzetting van een programma ter bevordering van de werkgelegenheid in de niet-commerciële sector.
 
 ### ART. 3.
 
@@ -101,7 +108,9 @@ Het agentschap Sport Vlaanderen kan op elk moment controle uitoefenen op   de ui
 
 ### ART. 19.
 
-<P>Met behoud van de toepassing van het besluit van de Vlaamse Regering van 5   oktober 2012 houdende beëindiging van de subsidiëring van loonkosten aan   bepaalde initiatieven in de sportsector, die werknemers tewerkstellen in een   gewezen DAC-statuut, ontvangen de initiatieven in de sportsector een   loonsubsidie voor de werknemers in een gewezen DAC-statuut. Die subsidie   bedraagt maximaal de volledige verplichte loonkosten overeenkomstig het op 1   januari 2003 bepaalde barema. Dat recht op subsidies blijft behouden voor een   werknemer met verworven rechten zolang hij in dienst is en tot aan de wettelijke   pensioenleeftijd voor zover aan de subsidieregeling voldaan is.<BR></P>  <P>In afwijking van het eerste lid wordt in voorkomend geval, tijdens de   subsidiëring van de organisatie, vermeld in artikel 7, § 1, de subsidiëring als   initiatief in de sportsector stopgezet.<BR></P>
+<p>De initiatieven in de sportsector ontvangen een subsidie voor de werknemer in een gewezen DAC-statuut tot uiterlijk het einde van de berekende fictieve opzegtermijn van de werknemer in kwestie. Het einde van de fictieve opzegtermijn wordt berekend alsof die werknemer in een gewezen DAC-statuut in opzeg zou worden geplaatst met ingang van 1 oktober 2020, en enkel verlengd met 20 vakantiedagen op jaarbasis.<br>
+<br>
+Het recht op subsidies, vermeld in het eerste lid, vervalt als de werknemer in een gewezen DAC-statuut uit dienst treedt. Het initiatief in de sportsector deelt binnen de maand na uitdiensttreding deze wijziging mee aan het agentschap Sport Vlaanderen.</p>
 
 ### ART. 20.
 
@@ -109,7 +118,19 @@ Bij een fusie of splitsing van een initiatief in de sportsector die een of   mee
 
 ### ART. 21.
 
-<P>De Vlaamse Regering bepaalt de vorm, de termijnen en de te volgen procedure   voor de subsidiëring als initiatief in de sportsector.<BR></P>  <P>De subsidiëring als initiatief in de sportsector wordt verleend, geschorst of   ingetrokken onder de voorwaarden, binnen de termijnen en volgens de vorm en de   procedure die de Vlaamse Regering bepaalt.<BR></P>
+<p>Het subsidiebedrag, vermeld in artikel 19, wordt vastgesteld op basis van het barema en de anciënniteit van de werknemer in een gewezen DAC-statuut, rekening houdend met het gesubsidieerde arbeidsvolume van de werknemer in een gewezen DAC-statuut. Het barema is de weddeschaal van de werknemer op 31 december 2002, zoals die is vastgesteld in het besluit van de Vlaamse Regering van 20 juli 1994 tot vaststelling van de weddeschalen van de werknemers tewerkgesteld in het derde arbeidscircuit.<br>
+<br>
+Als de werknemer in een gewezen DAC-statuut in opzeg is geplaatst uiterlijk op 31 december 2020 en wettelijk recht heeft op outplacementbegeleiding, wordt het subsidiebedrag verhoogd. Het subsidiebedrag wordt verhoogd met een bedrag dat overeenkomt met het subsidiebedrag voor de maand december 2020.</p>
+
+### ART 21/1.
+
+Het agentschap Sport Vlaanderen kent per kwartaal voorschotten toe die telkens 20% van het subsidiebedrag bedragen.<br>
+<br>
+Na goedkeuring door de minister, wordt het verschil tussen de uitbetaalde voorschotten en het subsidiebedrag ofwel als saldo uitbetaald voor 1 augustus van het jaar dat volgt op het jaar waarvoor de subsidie is toegekend, ofwel teruggevorderd. Het saldo voor het werkingsjaar 2020 wordt verhoogd met het bedrag, vermeld in artikel 21, tweede lid.
+
+### ART 21/2.
+
+Het initiatief in de sportsector bezorgt voor het verstrijken van elk kwartaal het bewijs dat de werknemer in een gewezen DAC-statuut nog in dienst is via de loonfiches. Het voorschot voor het volgende kwartaal wordt uitbetaald nadat deze loonfiches zijn bezorgd.
 
 ## HOOFDSTUK 4 Wijzigingsbepalingen
 
