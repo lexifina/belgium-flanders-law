@@ -57,6 +57,14 @@ Aan artikel XIV 27, § 10, van hetzelfde organiek reglement wordt een tweede lid
 
 Artikel XI 90 wordt ingetrokken.
 
+### ART 4.
+
+In artikel XI 89 van hetzelfde organiek reglement worden paragraaf 1 tot en met 5 opgeheven.
+
+### ART 5.
+
+In artikel XIV 27 van hetzelfde organiek reglement wordt paragraaf 10 opgeheven.
+
 ### ART 6.
 
 Artikel 3 heeft uitwerking met ingang van 1 juli 2020.<br>
