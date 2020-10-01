@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033671,
+  "title": "Besluit van de Vlaamse Regering van 2020-09-18 houdende de toekenning van een tijdelijke premie voor de bijkomende aanpassing aan de organisatie van maatwerkbedrijven en maatwerkafdelingen in het kader van de COVID-19-crisis",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033671/VolledigDocument?datum=2020-10-01",
+  "source_sha256": "fc1906dd6aaaf6c8c032e5c104f443177ca996a24287e9b9071c8358ed67fd16",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033671&param=informatie",
+  "as_of": "2020-10-01",
+  "made": "2020-09-18",
+  "gazette": "2020-09-29",
+  "numac": 2020031379,
+  "document_start": "2020-10-01",
+  "document_end": "2020-12-31",
+  "in_force": "2020-10-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2020-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
