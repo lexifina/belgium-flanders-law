@@ -368,10 +368,10 @@ a) een natuurlijke persoon of een privaatrechtelijke rechtspersoon;<br>
 b) een provincie, een gemeente, een OCMW, of een door een provincie, gemeente of OCMW opgericht verzelfstandigd agentschap of intergemeentelijk samenwerkingsverband als vermeld in deel 3, titel 3, van het decreet van 22 december 2017 over het lokaal bestuur, of de verenigingen waarin ze deelnemen met toepassing van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, die na 1 juli 2008 een werknemer met een arbeidshandicap hebben aangeworven;<br>
 c) een onderwijsinstelling als vermeld in artikel 127, § 1, eerste lid, 2°, van de Grondwet;<br>
 d) een maatwerkbedrijf als vermeld in artikel 3, 5°, van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, dat een persoon aanwerft die aan een van de volgende voorwaarden voldoet :<br>
-1) de persoon is een werknemer met een arbeidshandicap die vanaf 1 januari 2015 door het maatwerkbedrijf is aangeworven;<br>
-2) de persoon is een werknemer die als doelgroepwerknemer als vermeld in artikel 3, 2°, van het voormelde decreet, na een evaluatie door de VDAB als vermeld in artikel 8 van het voormelde decreet, doorgestroomd is naar een aansluitende tewerkstelling in een betrekking met geheel zonder of met geringere ondersteuning dan vermeld in het voormelde decreet en die aan de volgende voorwaarden voldoet :<br>
+1) de persoon is een werknemer met een arbeidshandicap die vanaf 1 januari 2015 door het maatwerkbedrijf is aangeworven of vanaf 1 januari 2015 een arbeidshandicap heeft gekregen;<br>
+2) de persoon is een werknemer die als doelgroepwerknemer als vermeld in artikel 3, 2°, van het voormelde decreet, na een evaluatie door de VDAB als vermeld in artikel 8 van het voormelde decreet, doorgestroomd is naar een aansluitende tewerkstelling in een betrekking met geheel zonder of met geringere ondersteuning dan vermeld in het voormelde decreet en die aan de volgende voorwaarde voldoet :<br>
 i) de functie van de werknemer is verschillend van de functie die hij heeft uitgeoefend als doelgroepwerknemer;<br>
-ii) de werknemer bekleedt niet de functie van begeleider, vermeld in artikel 15, van het voormelde decreet;<br>
+ii) ...;<br>
 4° werknemer met een arbeidshandicap : de persoon met een arbeidshandicap van wie de VDAB met toepassing van hoofdstuk II bepaalt dat hij in aanmerking komt voor een VOP, of de persoon die na een evaluatie door de VDAB als vermeld in artikel 8 van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, kan doorstromen naar een aansluitende tewerkstelling in een betrekking met geheel zonder of met geringere ondersteuning als vermeld in het voormelde decreet.<br>
 <br>
 Voor de toepassing van dit besluit wordt met maatwerkbedrijf als vermeld in het eerste lid, 3°, d) gelijkgesteld :<br>
@@ -425,9 +425,9 @@ In afwijking van eerste lid kan het departement die termijn verlengen als het on
 ### ART. 30.
 
 § 1. Het bedrag van de tegemoetkoming bij een vastgesteld recht van onbepaalde duur is gelijk aan:<br>
-1° tijdens periode 1, die gelijk is aan het kwartaal van de eerste aanwerving en de vier daaropvolgende kwartalen van de tewerkstelling bij dezelfde werkgever: 40% van het geplafonneerde referteloon;<br>
-2° tijdens periode 2, die gelijk is aan het vijfde kwartaal na het kwartaal van de eerste aanwerving tot en met het achtste kwartaal na het kwartaal van de eerste aanwerving bij dezelfde werkgever: 30% van het geplafonneerde referteloon;<br>
-3° tijdens periode 3, die begint in het negende kwartaal na het kwartaal van de eerste aanwerving bij dezelfde werkgever: 20% van het geplafonneerde referteloon.<br>
+1° tijdens periode 1, die gelijk is aan het kwartaal van de eerste premieaanvraag vanaf 1 oktober 2020 en de vier daaropvolgende kwartalen van de tewerkstelling bij dezelfde werkgever: 40% van het geplafonneerde referteloon;<br>
+2° tijdens periode 2, die gelijk is aan het vijfde kwartaal na het kwartaal van de eerste premieaanvraag tot en met het achtste kwartaal na het kwartaal van de eerste premieaanvraag bij dezelfde werkgever: 30% van het geplafonneerde referteloon;<br>
+3° tijdens periode 3, die begint in het negende kwartaal na het kwartaal van de eerste premieaanvraag bij dezelfde werkgever: 20% van het geplafonneerde referteloon.<br>
 <br>
 Bij voltijdse tewerkstelling wordt het referteloon geplafonneerd tot het dubbele van het gewaarborgde gemiddelde minimummaandinkomen, vermeld in artikel 3, eerste lid, van de collectieve arbeidsovereenkomst nr. 43 van 2 mei 1988 betreffende de waarborg van een gemiddeld minimummaandinkomen.<br>
 <br>
@@ -440,17 +440,15 @@ De tegemoetkoming kan voor een maximale duurtijd van twintig kwartalen worden to
 2° alle verplichte werkgeversbijdragen die verschuldigd zijn conform artikel 38, § 3, § 3bis, § 3quinquies en § 3undecies, van de wet van 29 juni 1981 houdende de algemene beginselen van de sociale zekerheid voor werknemers;<br>
 3° de verminderingen van socialezekerheidsbijdragen ten voordele van de werkgever, meer in het bijzonder de socialezekerheidsbijdragen, vermeld in titel IV, hoofdstuk 7, van de Programmawet (I) van 24 december 2002.<br>
 <br>
-Voor de berekening van het bedrag van de VOP, vermeld in paragraaf 1 en 1/1, wordt de periode waarin de werknemer een K-IBO of een doorstroomtraject volgt als vermeld in artikel 24 van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, gelijkgesteld met een periode van tewerkstelling.<br>
-<br>
 Bij deeltijdse tewerkstelling wordt het plafond van het referteloon pro rata verrekend voor nieuwe aanvragen die worden ingediend vanaf de inwerkintreding van dit besluit. Voor de aanvragen die vóór de inwerkingtreding van dit besluit zijn goedgekeurd, wordt de tegemoetkoming bij een verlenging van de aanvraag of uiterlijk vanaf 1 januari 2019 toegekend op grond van een pro rata verrekening van het plafond van het referteloon.<br>
 <br>
 § 3. Voor de vaststelling van de periodes, vermeld in paragraaf 1, wordt de periode tussen twee arbeidsovereenkomsten, als die korter is dan vier kwartalen, gelijkgesteld met een tewerkstelling voor de berekening van het bedrag van de VOP, conform paragraaf 1.<br>
 <br>
-Voor de berekening van het bedrag van de VOP, vermeld in paragraaf 1, wordt de periode waarin de werknemer een GIBO of een doorstroomtraject volgt, vermeld in artikel 24 van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, gelijkgesteld met een periode van tewerkstelling.<br>
-<br>
 § 4. Tijdens het voorlaatste kwartaal van de toekenning van de VOP brengt het departement de werkgever op de hoogte van het einde van de betalingen van de VOP en van de mogelijkheid om bij het departement een gemotiveerde aanvraag tot behoud van de VOP in te dienen.<br>
 <br>
-Vanaf het voorlaatste kwartaal van de toekenning van de VOP kan de werkgever een gemotiveerde aanvraag indienen bij het departement tot behoud van de VOP. Het departement beslist op basis van de evaluatie door de VDAB, vermeld in artikel 32, over het bedrag en de duurtijd van de VOP.
+Vanaf het voorlaatste kwartaal van de toekenning van de VOP kan de werkgever een gemotiveerde aanvraag indienen bij het departement tot behoud van de VOP. Het departement beslist op basis van de evaluatie door de VDAB, vermeld in artikel 32, over het bedrag en de duurtijd van de VOP.<br>
+<br>
+§ 5. Als de werknemer wordt ontslagen, kan de tegemoetkoming, vermeld in dit besluit, door de werkgever niet worden aangewend om de verbrekingsvergoeding uit te betalen.
 
 ### ART. 30/1.
 
@@ -504,9 +502,9 @@ Als de hoogste steunintensiteit of het hoogste steunbedrag, vermeld in verordeni
 
 ### ART. 35.
 
-Het departement kent de VOP toe aan de persoon met een arbeidshandicap die na 1 oktober 2008 zelfstandige in hoofdberoep is geworden of vanaf 1 juli 2016 zelfstandige in bijberoep is geworden als vermeld in het koninklijk besluit nr. 38 van 27 juli 1967 houdende inrichting van het sociaal statuut der zelfstandigen.<br>
+Het departement kent de VOP toe aan de persoon met een arbeidshandicap die na 1 oktober 2008 zelfstandige in hoofdberoep of zelfstandige in bijberoep is geworden als vermeld in het koninklijk besluit nr. 38 van 27 juli 1967 houdende inrichting van het sociaal statuut der zelfstandigen.<br>
 <br>
-Het departement kent, na aanvraag van de zelfstandige, een VOP toe aan de zelfstandige in hoofdberoep die na 1 oktober 2008 een persoon met arbeidshandicap is geworden, of aan de zelfstandige in bijberoep die vanaf 1 juli 2016 een persoon met arbeidshandicap is geworden, als die personen recht hebben op bijzondere tewerkstellingsondersteunende maatregelen en voorheen geen erkenning hadden voor een tegemoetkoming om de tewerkstelling onder gewone arbeidsvoorwaarden te bevorderen van het Vlaams Agentschap voor Personen met een Handicap of een van zijn rechtsvoorgangers.<br>
+Het departement kent, na aanvraag van de zelfstandige, een VOP toe aan de zelfstandige in hoofdberoep die na 1 oktober 2008 een persoon met arbeidshandicap is geworden, als die personen recht hebben op bijzondere tewerkstellingsondersteunende maatregelen en voorheen geen erkenning hadden voor een tegemoetkoming om de tewerkstelling onder gewone arbeidsvoorwaarden te bevorderen van het Vlaams Agentschap voor Personen met een Handicap of een van zijn rechtsvoorgangers.<br>
 <br>
 De toekenning van een VOP aan de persoon, vermeld in het eerste lid is afhankelijk van een positieve beoordeling van de zelfstandige activiteit van de door de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, erkende organisatie. De erkende organisatie beoordeelt de zelfstandige activiteit positief voor zover het belastbare nettobedrijfsinkomen van de zelfstandige activiteit tijdens het kwartaal van de aanvraag en tijdens de vier volgende kwartalen hoger is dan 13.500 euro.<br>
 <br>
