@@ -2,16 +2,16 @@
   "codex_id": 1033408,
   "title": "Decreet van 2020-06-26 Programmadecreet bij de aanpassing van de begroting 2020",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033408/VolledigDocument?datum=2020-09-01",
-  "source_sha256": "0a524466de834a991c5ccee1859b7f95e688c7c6b3490905e1ef74b802da903c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033408/VolledigDocument?datum=2020-10-01",
+  "source_sha256": "bb2202a9b6b7d3b557a7baefbc7a06926cd6b883e07f7be087ce5381bc24d9bc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033408&param=informatie",
-  "as_of": "2020-09-01",
+  "as_of": "2020-10-01",
   "made": "2020-06-26",
   "gazette": "2020-07-17",
   "numac": 2020015123,
   "document_start": "2020-07-27",
   "document_end": null,
-  "in_force": "2020-09-01",
-  "article_versions": 55,
-  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-10-01",
+  "article_versions": 65,
+  "record_form": "consolidated version as in force on 2020-10-01; future article versions excluded; article text as the API gives it"
 }

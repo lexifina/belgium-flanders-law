@@ -24,9 +24,52 @@ In artikel 11 van het decreet van 5 mei 2017 houdende de ondersteuning van boven
 
 ## Afdeling 3. Uitdovingsregeling van de subsidiëring aan initiatieven in de sportsector als vermeld in artikel 2, 2°, van het decreet van 8 november 2013 houdende het stimuleren, het coördineren en het subsidiëren van de tewerkstelling in de sportsector
 
+### ART 4.
+
+In artikel 2 van het decreet van 8 november 2013 houdende het stimuleren, het coördineren en het subsidiëren van de tewerkstelling in de sportsector worden de volgende wijzigingen aangebracht:<br>
+1° in punt 2° wordt tussen de zinsnede "1 januari 2003" en het woord "een" de zinsnede "tot 1 oktober 2020" ingevoegd;<br>
+2° in punt 2° wordt het woord "ontvangt" vervangen door het woord "ontving";<br>
+3° in punt 6° wordt het woord "loonsubsidie" vervangen door het woord "subsidie".
+
 ### ART 5.
 
 In artikel 8, 3°, van hetzelfde decreet wordt tussen de zinsnede "overlijden," en het woord "met" de zinsnede "uiterlijk op 31 mei 2020" ingevoegd.
+
+### ART 6.
+
+In hetzelfde decreet wordt het opschrift van hoofdstuk 3 vervangen door wat volgt:<br>
+<br>
+"Hoofdstuk 3. Uitdovingsregeling van de subsidiëring aan initiatieven in de sportsector".
+
+### ART 7.
+
+Artikel 19 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. 19. De initiatieven in de sportsector ontvangen een subsidie voor de werknemer in een gewezen DAC-statuut tot uiterlijk het einde van de berekende fictieve opzegtermijn van de werknemer in kwestie. Het einde van de fictieve opzegtermijn wordt berekend alsof die werknemer in een gewezen DAC-statuut in opzeg zou worden geplaatst met ingang van 1 oktober 2020, en enkel verlengd met 20 vakantiedagen op jaarbasis.<br>
+<br>
+Het recht op subsidies, vermeld in het eerste lid, vervalt als de werknemer in een gewezen DAC-statuut uit dienst treedt. Het initiatief in de sportsector deelt binnen de maand na uitdiensttreding deze wijziging mee aan het agentschap Sport Vlaanderen.".
+
+### ART 8.
+
+Artikel 21 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. 21. Het subsidiebedrag, vermeld in artikel 19, wordt vastgesteld op basis van het barema en de anciënniteit van de werknemer in een gewezen DAC-statuut, rekening houdend met het gesubsidieerde arbeidsvolume van de werknemer in een gewezen DAC-statuut. Het barema is de weddeschaal van de werknemer op 31 december 2002, zoals die is vastgesteld in het besluit van de Vlaamse Regering van 20 juli 1994 tot vaststelling van de weddeschalen van de werknemers tewerkgesteld in het derde arbeidscircuit.<br>
+<br>
+Als de werknemer in een gewezen DAC-statuut in opzeg is geplaatst uiterlijk op 31 december 2020 en wettelijk recht heeft op outplacementbegeleiding, wordt het subsidiebedrag verhoogd. Het subsidiebedrag wordt verhoogd met een bedrag dat overeenkomt met het subsidiebedrag voor de maand december 2020.".
+
+### ART 9.
+
+In hetzelfde decreet wordt een artikel 21/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 21/1. Het agentschap Sport Vlaanderen kent per kwartaal voorschotten toe die telkens 20% van het subsidiebedrag bedragen.<br>
+<br>
+Na goedkeuring door de minister, wordt het verschil tussen de uitbetaalde voorschotten en het subsidiebedrag ofwel als saldo uitbetaald voor 1 augustus van het jaar dat volgt op het jaar waarvoor de subsidie is toegekend, ofwel teruggevorderd. Het saldo voor het werkingsjaar 2020 wordt verhoogd met het bedrag, vermeld in artikel 21, tweede lid.".
+
+### ART 10.
+
+In hetzelfde decreet wordt een artikel 21/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art.21/2. Het initiatief in de sportsector bezorgt voor het verstrijken van elk kwartaal het bewijs dat de werknemer in een gewezen DAC-statuut nog in dienst is via de loonfiches. Het voorschot voor het volgende kwartaal wordt uitbetaald nadat deze loonfiches zijn bezorgd.".
 
 ## HOOFDSTUK 3. Internationaal Vlaanderen
 
@@ -443,6 +486,19 @@ Aan artikel 28 van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt 
 
 ## Afdeling 1. Verkeersbelasting
 
+### ART 58.
+
+In artikel 1.1.0.0.2, derde lid, 7°, van het decreet houdende de Vlaamse Codex Fiscaliteit van 13 december 2013, ingevoegd bij het decreet van 18 december 2015, wordt tussen het woord "handelaarsplaat" en het woord "of" de zinsnede ", beroepsplaat, nationale plaat" ingevoegd.
+
+### ART 59.
+
+In artikel 2.2.4.0.4, tweede lid, van hetzelfde decreet wordt de zinsnede "en 11° " vervangen door de zinsnede ", 11° en 15° ".
+
+### ART 60.
+
+Aan artikel 2.2.6.0.1, § 1, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 8 december 2017 en het decreet van 22 juni 2018, wordt een punt 15° toegevoegd, dat luidt als volgt:<br>
+"15° de voertuigen voorzien van een nationale plaat.".
+
 ### ART 61.
 
 In artikel 2.2.6.0.6 van hetzelfde decreet, ingevoegd bij het decreet van 18 december 2015 en gewijzigd bij het decreet van 16 juni 2017, wordt het tweede lid vervangen door wat volgt:<br>
@@ -454,6 +510,12 @@ In artikel 2.2.6.0.6 van hetzelfde decreet, ingevoegd bij het decreet van 18 dec
 ### ART 62.
 
 In artikel 2.3.4.1.1 van hetzelfde decreet, gewijzigd bij het decreet van 18 december 2015, wordt de zinsnede ", artikel 2.3.6.0.2 en" vervangen door de woorden "en artikel".
+
+### ART 63.
+
+Aan artikel 2.3.6.0.1, § 1, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 23 december 2016, worden een punt 4° en een punt 5° toegevoegd, die luiden als volgt:<br>
+"4° de voertuigen voorzien van een beroepsplaat;<br>
+5° de voertuigen voorzien van een nationale plaat.".
 
 ### ART 64.
 
