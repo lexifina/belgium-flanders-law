@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035016,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-18 tot vaststelling van maatregelen met betrekking tot arbeidsovereenkomsten voor studenten ten gevolge van de uitbraak van het COVID-19-virus, wat betreft de toelagen in het kader van het gezinsbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035016/VolledigDocument?datum=2020-10-01",
+  "source_sha256": "c695030fc0739294712cd3cf89a6b76b833565a83314888a3eb83511fe1ce98c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035016&param=informatie",
+  "as_of": "2020-10-01",
+  "made": "2020-12-18",
+  "gazette": "2021-01-06",
+  "numac": 2020044637,
+  "document_start": "2020-10-01",
+  "document_end": null,
+  "in_force": "2020-10-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
