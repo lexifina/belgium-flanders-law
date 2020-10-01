@@ -68,7 +68,7 @@ e) Een verklaring op eer dat de Huurovereenkomst(en) op eenvoudig verzoek van he
 
 ### ART 5.
 
-De Huurder dient een aanvraag in via de website van het Agentschap Innoveren en Ondernemen voor 1 oktober 2020. Een aanvraag kan betrekking hebben op meerdere panden van eenzelfde Verhuurder, waarvoor de Huurder één Handelshuurlening vraagt. De Huurder vermeldt daarbij haar KBO-nummer. De aanvraag wordt elektronisch afgehandeld. Het Agentschap Innoveren en Ondernemen onderzoekt de naleving van de voorwaarden die zijn opgelegd bij dit besluit.
+De Huurder dient een aanvraag in via de website van het Agentschap Innoveren en Ondernemen voor 1 december 2020. Een aanvraag kan betrekking hebben op meerdere panden van eenzelfde Verhuurder, waarvoor de Huurder één Handelshuurlening vraagt. De Huurder vermeldt daarbij haar KBO-nummer.&nbsp;De Verhuurder bevestigt de aanvraag voor 4 december 2020. De aanvraag wordt elektronisch afgehandeld. Het Agentschap Innoveren en Ondernemen onderzoekt de naleving van de voorwaarden die zijn opgelegd bij dit besluit.
 
 ### ART 6.
 
