@@ -176,7 +176,7 @@ De organisator die de subsidie, vermeld in artikel 5 tot en met 9/1, wil ontvang
 
 ### ART 11.
 
-De aanvraag voor de subsidie, vermeld in artikel 5 tot en met 9/1, wordt uiterlijk 1 oktober 2020 gedaan volgens de richtlijnen van het agentschap ingediend met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
+De aanvraag voor de subsidie, vermeld in artikel 5 tot en met 9/1, wordt uiterlijk 1 november 2020 gedaan volgens de richtlijnen van het agentschap ingediend met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
 1° identificatiegegevens;<br>
 2° voor de subsidie vermeld in artikel 5 en 6, artikel 7, eerste lid, en artikel 8, eerste lid : het aantal openingsdagen voor opvang op een schooldag en voor opvang op een schoolvrije dag;<br>
 3° voor de subsidie, vermeld in artikel 9: het aantal aanwezigheidsdagen in de periode dat de coronamaatregelen gelden en het aantal aanwezigheidsdagen in dezelfde periode in 2019;<br>
