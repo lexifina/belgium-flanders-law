@@ -59,6 +59,30 @@ De periodes die de Rijksdienst voor Arbeidsvoorziening erkent als tijdelijke wer
 
 Het corona-ouderschapsverlof, vermeld in het koninklijk besluit nr. 23 van 13 mei 2020 tot uitvoering van artikel 5, § 1, 5°, van de wet van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II) houdende het corona-ouderschapsverlof, wordt gelijkgesteld met het ouderschapsverlof, vermeld in artikel 136, derde lid, van het besluit van 7 december 2007, artikel 99, derde lid, van het besluit van 12 november 2010 en artikel 5, § 1, 3°, van het besluit van 13 september 2002.
 
+### ART 8.
+
+§ 1. Als het statutaire personeelslid, vermeld in artikel 1 van het besluit van 7 december 2007 en artikel 2 van het besluit van 12 november 2010, niet kan telewerken, ook niet in een andere gepaste functie, en er geen oplossing gevonden kan worden door overuren of andere vormen van verlof op te nemen, dan heeft dat personeelslid in de volgende gevallen recht op verlof:<br>
+1° als een minderjarig kind dat met hem samenwoont ofwel niet naar zijn kinderdagverblijf, ofwel niet naar school kan gaan, omdat het kinderdagverblijf, de klas of de school waarvan het deel uitmaakt wordt gesloten als gevolg van een maatregel om de verspreiding van COVID-19 te beperken;<br>
+2° als het een gehandicapt kind ten laste heeft, ongeacht de leeftijd van dat kind, en dat kind niet naar een centrum voor opvang van gehandicapte personen kan gaan, omdat dat centrum wordt gesloten als gevolg van een maatregel om de verspreiding van COVID-19 te beperken;<br>
+3° als het een quarantainevoorschrift voorlegt waardoor het personeelslid zich niet naar zijn werkplek kan begeven gedurende een bepaalde periode.<br>
+<br>
+Het recht op verlof, vermeld in het eerste lid, geldt voor de duur van de periode dat het kind niet terug naar het kinderdagverblijf, de school of het centrum voor opvang van gehandicapte personen terug kan gaan, of voor de duur van het quarantainevoorschrift.<br>
+<br>
+Om van dat recht gebruik te kunnen maken moet het personeelslid:<br>
+1° het bestuur onmiddellijk op de hoogte brengen;<br>
+2° het bestuur een attest van het kinderdagverblijf, van de school of het centrum voor opvang van gehandicapte personen bezorgen. In dat attest bevestigt de betrokken instelling de sluiting van de klas, school of centrum voor opvang van gehandicapte personen als gevolg van een maatregel om de verspreiding van COVID-19 te beperken. Het attest vermeldt de periode waarvoor de sluiting van toepassing is;<br>
+3° met toepassing van het eerste lid, 3°, het bestuur een quarantainegetuigschrift bezorgen.<br>
+<br>
+§ 2. Het verlof, vermeld in paragraaf 1, wordt gelijkgesteld met dienstactiviteit en telt mee als werkelijke dienst, vermeld in artikel 114 van het besluit van 7 december 2007 en in artikel 80 van het besluit van 12 november 2010.<br>
+<br>
+§ 3. Het verlof, vermeld in paragraaf 1, wordt voor de berekening van de eindejaarstoelage gelijkgesteld met periodes waarvoor het personeelslid het salaris volledig heeft ontvangen zoals vermeld in artikel 136, derde lid, van het besluit van 7 december 2007 en in artikel 99, derde lid, van het besluit van 12 november 2010, op voorwaarde dat het personeelslid tijdens de referentieperiode titularis van een betrekking met volledige prestaties of onvolledige prestaties was.<br>
+<br>
+§ 4. Het verlof, vermeld in paragraaf 1, telt mee als periode met recht op salaris die recht geeft op jaarlijkse vakantiedagen, vermeld in artikel 177, eerste lid, van het besluit van 7 december 2007.<br>
+<br>
+§ 5. Het statutaire personeelslid heeft tijdens het verlof, vermeld in paragraaf 1, recht op een verloning die gelijk is aan 80 % van het brutosalaris.<br>
+<br>
+Voor de toepassing van het eerste lid geldt er een beperking van het brutosalaris op jaarbasis tot 21.000 euro tegen 100 %. Het brutosalaris wordt gekoppeld aan het spilindexcijfer 138,01.
+
 ### ART 9.
 
 De raad kan beslissen dat een compenserende vergoeding wordt toegekend aan het contractuele personeelslid tijdens een periode die de Rijksdienst voor Arbeidsvoorziening erkent als tijdelijke werkloosheid wegens overmacht ten gevolge van de pandemie, veroorzaakt door COVID-19. In dit geval wordt aan de statutaire personeelsleden, die zich in de situatie als vermeld in artikel 8 van dit besluit bevinden, een gelijkaardige compenserende vergoeding of dienstvrijstelling verleend.<br>
