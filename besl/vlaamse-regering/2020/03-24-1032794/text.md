@@ -102,7 +102,7 @@ De subsidie bedraagt:<br>
 <br>
 De organisator ontvangt de volledige subsidie, vermeld in het derde lid, voor een afwezigheidsdag op een gereserveerde opvangdag die vijf uur of meer duurt, 60% van dat bedrag voor een opvangdag die minder dan vijf uur en minstens drie uur duurt en 40% voor een opvangdag die minder dan drie uur duurt.<br>
 <br>
-§ 2. De aanvraag voor deze subsidie wordt uiterlijk 1 oktober 2020 gedaan volgens de richtlijnen van het agentschap en ingediend met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
+§ 2. De aanvraag voor deze subsidie wordt uiterlijk 1 november 2020 gedaan volgens de richtlijnen van het agentschap en ingediend met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
 1° identificatiegegevens;<br>
 2° het aantal en de duur van de afwezigheidsdagen;<br>
 3° verklaring op erewoord over het feit dat:<br>
@@ -135,7 +135,7 @@ De subsidie bedraagt:<br>
 <br>
 De organisator ontvangt de volledige subsidie, vermeld in het derde lid, voor een afwezigheidsdag op een gereserveerde opvangdag die vijf uur of meer duurt, 60% van dat bedrag voor een gereserveerde opvangdag die minder dan vijf uur en minstens drie uur duurt en 40% voor een gereserveerde opvangdag die minder dan drie uur duurt.<br>
 <br>
-§ 2. De aanvraag voor deze subsidie wordt uiterlijk 1 oktober 2020 gedaan ingediend volgens de richtlijnen van het agentschap en met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
+§ 2. De aanvraag voor deze subsidie wordt uiterlijk 1 november 2020 gedaan ingediend volgens de richtlijnen van het agentschap en met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
 1° identificatiegegevens;<br>
 2° het aantal en de duur van de afwezigheidsdagen;<br>
 3° verklaring op erewoord over het feit dat:<br>
@@ -164,7 +164,7 @@ De subsidie bedraagt 20 euro per afwezigheidsdag.<br>
 <br>
 De organisator ontvangt de volledige subsidie, vermeld in het derde lid, voor een afwezigheidsdag op een gereserveerde opvangdag die vijf uur of meer duurt, 60% van dat bedrag voor een gereserveerde opvangdag die minder dan vijf uur en minstens drie uur duurt en 40% voor een gereserveerde opvangdag die minder dan drie uur duurt.<br>
 <br>
-§ 2. De aanvraag voor deze subsidie wordt uiterlijk 1 oktober 2020 gedaan ingediend volgens de richtlijnen van het agentschap en met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
+§ 2. De aanvraag voor deze subsidie wordt uiterlijk 1 november 2020 gedaan ingediend volgens de richtlijnen van het agentschap en met het aanvraagformulier dat het agentschap ter beschikking stelt en waarin de organisator volgende informatie bezorgt:<br>
 1° identificatiegegevens;<br>
 2° het aantal en de duur van de afwezigheidsdagen;<br>
 3° verklaring op erewoord over het feit dat:<br>
