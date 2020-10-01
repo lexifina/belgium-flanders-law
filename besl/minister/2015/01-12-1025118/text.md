@@ -73,7 +73,8 @@
 65° Elke Pukas<br>
 66° Sarah Ricour<br>
 67° Leslie Machtelings<br>
-68° Toon Huybrechts</p>
+68° Toon Huybrechts<br>
+69° Lynn Timmerman</p>
 
 ### ART. 2.
 
