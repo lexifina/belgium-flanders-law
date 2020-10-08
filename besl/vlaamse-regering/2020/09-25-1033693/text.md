@@ -71,6 +71,10 @@ In het eerste lid, 3°, wordt verstaan onder contact- en omgevingsonderzoek: de 
 <br>
 § 2. Naar aanleiding van de noden, de aard en de ernst van de dreiging voor de volksgezondheid die wordt veroorzaakt door biotische factoren, en zoals ingeschat door de ambtenaren, vermeld in artikel 40 en artikel 44, § 3, 3°, van het decreet van 21 november 2003, en de ambtenaren-artsen, vermeld in artikel 44, § 3, 2°, van het voormelde decreet, wordt bepaald op welke taken, vermeld in paragraaf 1, wordt ingezet.
 
+### ART 6.
+
+Om schadelijke effecten die worden veroorzaakt door biotische factoren, te voorkomen, en om de uitbreiding ervan tegen te gaan, verlenen de verantwoordelijken van collectiviteiten hun medewerking aan de uitvoering van de taken van een mobiel team infectieziektebestrijding. Ze gaan in op de adviezen en volgen de richtlijnen van een mobiel team infectieziektebestrijding.
+
 ### ART 7.
 
 Dit besluit heeft uitwerking met ingang van 1 juli 2020, met uitzondering van artikel 6, dat in werking treedt op de dag van de publicatie van dit besluit in het Belgisch Staatsblad.
