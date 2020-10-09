@@ -48,7 +48,8 @@ DE VLAAMSE REGERING BESLUIT :
 
 In dit besluit wordt verstaan onder :<br>
 1° Departement Mobiliteit en Openbare Werken: het departement binnen het homogene beleidsdomein, vermeld in artikel 28, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, waaraan de beleidsondersteunende opdrachten inzake mobiliteit worden toevertrouwd;<br>
-2° autobus- en autocarbedrijven: de natuurlijke persoon die zelfstandig een beroepsactiviteit uitoefent in hoofd- of bijberoep, de vennootschap met rechtspersoonlijkheid van privaat recht, de buitenlandse onderneming met een vergelijkbaar statuut en de vereniging met een economische activiteit in de bedrijfssectoren met NACE-code 4931Personenvervoer te land binnen steden of voorsteden en NACE-code 4939001Overig vervoer van personen met autocars of autobussen, zonder dienstregeling: chartervervoer, busreizen, toeristische excursies, enz.
+2° autobus- en autocarbedrijven: de natuurlijke persoon die zelfstandig een beroepsactiviteit uitoefent in hoofd- of bijberoep, de vennootschap met rechtspersoonlijkheid van privaat recht, de buitenlandse onderneming met een vergelijkbaar statuut en de vereniging met een economische activiteit in de bedrijfssectoren met NACE-code 4931Personenvervoer te land binnen steden of voorsteden en NACE-code 4939001Overig vervoer van personen met autocars of autobussen, zonder dienstregeling: chartervervoer, busreizen, toeristische excursies, enz;<br>
+3° verbonden bedrijven of ondernemingen: ondernemingen waartussen een deelnemingsrelatie, direct of via een andere onderneming, bestaat van meer dan 50% van het kapitaal of de stemrechten. Naast de participatiegraad is tevens het zeggenschap over de meerderheid van de stemrechten van een andere onderneming van belang om de onafhankelijkheid van een onderneming te bepalen. Onder zeggenschap wordt verstaan: de mogelijkheid om feitelijk of op basis van een juridische hoedanigheid beslissende invloed uit te oefenen.
 
 ### ART 2.
 
@@ -56,11 +57,11 @@ De crisis inzake het coronavirus wordt door de Vlaamse Regering erkend als een c
 
 ### ART 3.
 
-Aan de autobus- en autocarbedrijven worden subsidies toegekend voor een totaal bedrag van 15.540.000 €.
+...
 
 ### ART 4.
 
-Deze regelgeving valt onder de toepassing van de verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (Publicatieblad van 24 december 2013, L 352, blz. 1-8), en de latere wijzigingen ervan.
+Alle steun die toegekend wordt met toepassing van dit besluit en de uitvoeringsbesluiten ervan, wordt verleend binnen de grenzen en de voorwaarden, vermeld in de tijdelijke kaderregeling en in het bijzonder secties 1, 2, 3.1. en 4 van deze tijdelijke kaderregeling.
 
 ### ART 5.
 
@@ -78,7 +79,7 @@ De subsidie, vermeld in artikel 1, is gebaseerd op de aankoopwaarde van de autob
 
 ### ART 8.
 
-Autobus- en autocarbedrijven die in aanmerking wensen te komen voor deze subsidie dienen ten laatste tegen 31 augustus 2020 een subsidieaanvraag in via https://www.coronasteun-ta.mow.vlaanderen.be. Hierbij leveren ze voor elk voertuig dat in aanmerking komt voor de subsidie volgende info aan:<br>
+Autobus- en autocarbedrijven die in aanmerking wensen te komen voor deze subsidie dienen ten laatste op 20 november 2020 een subsidieaanvraag in via https://www.coronasteun-ta.mow.vlaanderen.be.&nbsp;Hierbij leveren ze voor elk voertuig dat in aanmerking komt voor de subsidie volgende info aan:<br>
 1° het kentekennummer van de autobus of de autocar;<br>
 2° de vergunning of de communautaire vergunning die bewijst dat men is toegelaten tot het beroep van personenvervoer over de weg;<br>
 3° in het geval van bijzondere vormen van geregeld vervoer: de vergunning of de overeenkomst die de toegang tot de markt regelt;<br>
@@ -106,7 +107,9 @@ Ondernemingen moeten de subsidies die ten onrechte ontvangen werden, terugbetale
 
 Het autobus- en autocarbedrijf ontvangt bij goedkeuring van de door haar ingediende subsidieaanvraag:<br>
 1° een eerste subsidie-schijf ten belope van 1% van de aankoopwaarden van de voor deze subsidie in aanmerking komende autobussen en autocars van het bedrijf.<br>
-2° na het afsluiten van de periode waarbinnen de subsidieaanvragen kunnen worden ingediend zal het, na de uitkering van de onder art. 5, 1° vermelde subsidies, nog beschikbare subsidiebedrag op basis van de aankoopwaarden van de voor deze subsidie in aanmerking komende autobussen en autocars gelijkmatig toegekend worden aan de bedrijven die subsidieaanvraag indienden.
+2° na het afsluiten van de periode waarbinnen de subsidieaanvragen kunnen worden ingediend, kunnen de bedrijven voor elk voertuig waarvoor ze een eerste subsidieschijf hebben ontvangen, ten laatste op 20 november 2020 meedelen of ze:<br>
+a) voor een voertuig een tweede subsidieschijf wensen te ontvangen die 1,5% bedraagt van de aankoopwaarden van hun respectievelijke autobus of autocar of;<br>
+b) voor een voertuig een overeenkomst hebben afgesloten met De Lijn om deze autobus of autocar in de periode van oktober 2020 tot en met december 2020 inzetten ter versterking van reguliere ritten in de spitsuren.
 
 ### ART 12.
 
