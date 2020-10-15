@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033680,
+  "title": "Besluit van de Vlaamse Regering van 2020-09-04 tot wijziging van het besluit van de Vlaamse Regering van 17 mei 2019 betreffende de technische specificaties van walstroomvoorzieningen voor zeeschepen en binnenschepen, wat betreft de technische specificaties van walstroomvoorzieningen voor binnenschepen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033680/VolledigDocument?datum=2020-10-15",
+  "source_sha256": "fdf7c0b350bc04726d300abedd91ea81787ad50f14acd9254f0ef84ee3c6709f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033680&param=informatie",
+  "as_of": "2020-10-15",
+  "made": "2020-09-04",
+  "gazette": "2020-10-05",
+  "numac": 2020043115,
+  "document_start": "2020-10-15",
+  "document_end": null,
+  "in_force": "2020-10-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-10-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
