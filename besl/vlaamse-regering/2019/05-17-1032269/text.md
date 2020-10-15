@@ -31,9 +31,17 @@ Een walstroomvoorziening wordt gedefinieerd als de voorziening van elektrische s
 Walstroomvoorzieningen voor zeeschepen, inclusief het ontwerp, de installatie en het testen van de systemen, die met ingang van 18 november 2017 in gebruik worden genomen of worden vernieuwd, dienen te voldoen aan de technische specificaties van de IEC/ISO/IEEE 80005-1-norm.<br>
 &nbsp;
 
+### ART 3/1.
+
+Afhankelijk van de energiebehoeften voldoen walstroomvoorzieningen voor binnenschepen, overeenkomstig artikel 2 van gedelegeerde verordening (EU) 2019/1745, aan de technische specificaties van de norm EN 15869-2 of EN 16840.
+
 ### ART 4.
 
 Walstroomvoorzieningen voor zeeschepen die tussen 18 november 2017 en de inwerkingtreding van dit besluit, in gebruik werden genomen of werden vernieuwd, moeten voldoen aan de bepalingen van dit besluit, vanaf 24 mei 2020.
+
+### ART 4/1.
+
+Overeenkomstig artikel 8 van gedelegeerde verordening (EU) 2019/1745 voldoen walstroomvoorzieningen voor binnenschepen vanaf 12 november 2021 aan de voorwaarden, vermeld in artikel 3/1.
 
 ### ART 5.
 

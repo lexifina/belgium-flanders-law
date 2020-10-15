@@ -2,16 +2,16 @@
   "codex_id": 1032269,
   "title": "Besluit van de Vlaamse Regering van 2019-05-17 betreffende de technische specificaties van walstroomvoorzieningen voor zeeschepen en binnenschepen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032269/VolledigDocument?datum=2019-09-29",
-  "source_sha256": "f5b9933a3f9cea18b6bfe10ca8a0e873c9e643c76366ed6395c71a59f781f996",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032269/VolledigDocument?datum=2020-10-15",
+  "source_sha256": "6f3742ec689a682fd9a4b5a7a81a67e3bf14313a85d9dd6da441360c4900e6ae",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032269&param=informatie",
-  "as_of": "2019-09-29",
+  "as_of": "2020-10-15",
   "made": "2019-05-17",
   "gazette": "2019-09-19",
   "numac": 2019014453,
   "document_start": "2019-09-29",
   "document_end": null,
-  "in_force": "2019-09-29",
-  "article_versions": 6,
-  "record_form": "consolidated version as in force on 2019-09-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-10-15",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2020-10-15; future article versions excluded; article text as the API gives it"
 }
