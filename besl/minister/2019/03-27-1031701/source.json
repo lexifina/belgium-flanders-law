@@ -2,16 +2,16 @@
   "codex_id": 1031701,
   "title": "Ministerieel besluit van 2019-03-27 tot uitvoering van artikel 57 van het Procedurebesluit van 9 mei 2014, wat betreft de programmatieregels voor de verdeling van de subsidie voor ruimere openingsmomenten, de subsidie voor dringende kinderopvang en de plussubsidie in 2019",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031701/VolledigDocument?datum=2018-12-01",
-  "source_sha256": "cf0f1c9a54815a7ea38c288a10570dfe0f3a98aaf06ba9c190d2dc7deb36c26a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031701/VolledigDocument?datum=2020-10-15",
+  "source_sha256": "6a8c9573dad2e8c2e40a1c4e46fe80cf44fc7ba66b688762aaef239103eaa6e9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031701&param=informatie",
-  "as_of": "2018-12-01",
+  "as_of": "2020-10-15",
   "made": "2019-03-27",
   "gazette": "2019-05-17",
   "numac": 2019012250,
   "document_start": "2018-12-01",
   "document_end": "2020-10-14",
-  "in_force": "2018-12-01",
+  "in_force": "2020-10-15",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2018-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-10-15; future article versions excluded; article text as the API gives it"
 }
