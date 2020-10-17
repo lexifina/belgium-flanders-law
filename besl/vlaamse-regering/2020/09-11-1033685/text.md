@@ -16,6 +16,12 @@ Onder alleenwonende ouder wordt verstaan, de persoon die uitsluitend samenwoont 
 <br>
 3° in paragraaf 4, eerste lid, wordt de zinsnede "1 juli 2020" vervangen door de zinsnede "1 oktober 2020".
 
+### ART 2.
+
+Aan artikel XIV 27, § 10, van hetzelfde organiek reglement wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"In afwijking van het eerste lid kan een contractueel personeelslid dat niet met een voltijdse arbeidsovereenkomst is tewerkgesteld de volledige onderbreking zoals bepaald in artikel XI 89 § 1 opnemen.".
+
 ### ART 3.
 
 Artikel XI 90 wordt ingetrokken.
