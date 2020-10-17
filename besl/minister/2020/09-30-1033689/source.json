@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033689,
+  "title": "Ministerieel besluit van 2020-09-30 over een oproep voor 2020 tot indiening van steunaanvragen als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 april 2015 betreffende steun aan investeringen in de agrovoedingssector tot verhoging van de toegevoegde waarde, de kwaliteit en de voedselveiligheid van landbouwproducten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033689/VolledigDocument?datum=2020-10-17",
+  "source_sha256": "16d8836e1d775c538b59be03b88aad761e5e92c43b738d25e0027ed932637ddb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033689&param=informatie",
+  "as_of": "2020-10-17",
+  "made": "2020-09-30",
+  "gazette": "2020-10-07",
+  "numac": 2020043267,
+  "document_start": "2020-10-17",
+  "document_end": null,
+  "in_force": "2020-10-17",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2020-10-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
