@@ -2,16 +2,16 @@
   "codex_id": 1027909,
   "title": "Ministerieel besluit van 2017-01-10 tot aanwijzing van de bevoegde ambtenaren in het Vlaamse Gewest ter uitvoering van het samenwerkingsakkoord van 16 februari 2016 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027909/VolledigDocument?datum=2019-07-04",
-  "source_sha256": "6c197d574cb1b49bee2da9595ccf21aaff9a7af1aeb47fb5636d8b4f6238abac",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027909/VolledigDocument?datum=2020-10-22",
+  "source_sha256": "5b39f4567b90f04f5efc404a64e35f8e2c3acb4f1a33cdf9d6a35ed2aec7a1be",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027909&param=informatie",
-  "as_of": "2019-07-04",
+  "as_of": "2020-10-22",
   "made": "2017-01-10",
   "gazette": "2017-02-20",
   "numac": 2017010698,
   "document_start": "2017-03-02",
   "document_end": null,
-  "in_force": "2019-07-04",
+  "in_force": "2020-10-22",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2019-07-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-10-22; future article versions excluded; article text as the API gives it"
 }

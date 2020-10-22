@@ -27,9 +27,9 @@ In dit besluit wordt verstaan onder samenwerkingsakkoord van 16 februari 2016: h
 De volgende personen worden aangewezen als ambtenaren die belast zijn met de opdrachten van de voor het Vlaamse Gewest aangewezen coördinerende dienst, vermeld in artikel 4, § 1, 1°, van het samenwerkingsakkoord van 16 februari 2016:<br>
 1° Carolien Allebosch;<br>
 2° ...;<br>
-3° Vital Debroey;<br>
+3° ...;<br>
 4° Kathleen Derbaix;<br>
-5° Griet Goossens;<br>
+5° ...;<br>
 6° Lina Grooten;<br>
 7° Karola Imbrechts;<br>
 8° Barbara Jans;<br>
@@ -45,9 +45,9 @@ De volgende personen worden aangewezen als ambtenaren die belast zijn met de opd
 De volgende personen worden aangewezen als ambtenaren die belast zijn met de opdrachten van de voor het Vlaamse Gewest aangewezen beoordelingsdienst, vermeld in artikel 4, § 2, 1°, van het samenwerkingsakkoord van 16 februari 2016:<br>
 1° Carolien Allebosch;<br>
 2° ...;<br>
-3° Vital Debroey;<br>
+3° ...;<br>
 4° Kathleen Derbaix;<br>
-5° Griet Goossens;<br>
+5° ...;<br>
 6° Lina Grooten;<br>
 7° Karola Imbrechts;<br>
 8° Barbara Jans;<br>
@@ -72,7 +72,10 @@ De volgende personen worden aangewezen als ambtenaren die belast zijn met de opd
 9° Philip Tanghe;<br>
 10° ...;<br>
 11° Wilfried Van den Acker;<br>
-12° Marc Van Kerckvoorde.
+12° Marc Van Kerckvoorde;<br>
+13° Bart Boschmans;<br>
+14° Ivo Broekmans;<br>
+15° Iris Castel.
 
 ### ART 5.
 
