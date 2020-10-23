@@ -2,16 +2,16 @@
   "codex_id": 1027524,
   "title": "Besluit van de Vlaamse Regering van 2016-09-23 houdende [... (opgeh. BVR 21 december 2018, art. 1, I: 21 december 2018)] subsidiëring van de digitale behandeling van de omgevingsvergunning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027524/VolledigDocument?datum=2018-12-21",
-  "source_sha256": "90f320f37e58444522c9b9f3d3354d86b079cc1de2c58a3e5bbbfe8fa421d137",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027524/VolledigDocument?datum=2020-10-23",
+  "source_sha256": "df751cb2e5ef5fa28e73be5427eba42b3842eb2cfa913a2f3c7d45da7f0c71bf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027524&param=informatie",
-  "as_of": "2018-12-21",
+  "as_of": "2020-10-23",
   "made": "2016-09-23",
   "gazette": "2016-10-26",
   "numac": 2016036488,
   "document_start": "2017-02-23",
   "document_end": null,
-  "in_force": "2018-12-21",
+  "in_force": "2020-10-23",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2018-12-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-10-23; future article versions excluded; article text as the API gives it"
 }
