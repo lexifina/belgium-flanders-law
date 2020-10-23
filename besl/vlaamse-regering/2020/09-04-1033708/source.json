@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033708,
+  "title": "Besluit van de Vlaamse Regering van 2020-09-04 tot wijziging van het besluit van de Vlaamse Regering van 2 juni 2017 tot uitvoering van titel III, hoofdstuk 3, afdeling 4, van het Bestuursdecreet van 7 december 2018, wat betreft de samenstelling en de werking van het stuurorgaan Vlaams Informatie- en ICT-beleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033708/VolledigDocument?datum=2020-10-23",
+  "source_sha256": "dc67e9f5581397741a621a7f5e3f6e3ba13824b4e1aecf46c2a28b9da60532b5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033708&param=informatie",
+  "as_of": "2020-10-23",
+  "made": "2020-09-04",
+  "gazette": "2020-10-13",
+  "numac": 2020043117,
+  "document_start": "2020-10-23",
+  "document_end": null,
+  "in_force": "2020-10-23",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2020-10-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
