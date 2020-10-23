@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033723,
+  "title": "Besluit van de Vlaamse Regering van 2020-09-25 tot vaststelling van een definitieve bandingfactor voor het project `Agristo Wielsbeke - solar'",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033723/VolledigDocument?datum=2020-10-23",
+  "source_sha256": "7707ce7725e8218afb3698888ee93b0c90a25878a1c1274ce409affc167c83f5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033723&param=informatie",
+  "as_of": "2020-10-23",
+  "made": "2020-09-25",
+  "gazette": "2020-10-13",
+  "numac": 2020031398,
+  "document_start": "2020-10-23",
+  "document_end": null,
+  "in_force": "2020-10-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-10-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
