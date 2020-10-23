@@ -76,15 +76,15 @@ Het is verboden over de sporen die buiten de bestrating zijn aangelegd, overstee
 
 ### ART. 17.
 
-De VVM is belast met de plaatsing en het onderhoud van de verkeerslichten, verkeersborden en inrichtingen waarmee de openbare overweg moet zijn uitgerust, overeenkomstig de wettelijke bepalingen terzake.<br /><br />Om een maximale doorstroming van het geregeld vervoer door middel van verkeerslichtenbeïnvloeding mogelijk te maken, plaatst en onderhoudt de wegbeheerder voor het kruisend verkeer ter hoogte van elke openbare overweg langs de spoorlijnen van de VVM driekleurige verkeerslichten.
+De VVM is belast met de plaatsing en het onderhoud van de verkeerslichten, verkeersborden en inrichtingen waarmee de openbare overweg moet zijn uitgerust, overeenkomstig de wettelijke bepalingen terzake.
 
 ### ART. 18.
 
-De beheerder van de gewestwegen realiseert jaarlijks projecten ter verbetering van de doorstroming van de voertuigen van de VVM op basis van de prioriteitenlijst, bedoeld in artikel 18ter, tweede lid, van het decreet.<br /><br />De beheerders van de gemeentewegen op het grondgebied van de grootstedelijke en de stedelijke gebieden realiseren jaarlijks projecten ter verbetering van de doorstroming van de voertuigen van de VVM op basis van de pri-oriteitenlijsten, bedoeld in artikel 18ter, derde lid, van het decreet.
+...
 
 ### ART. 19.
 
-Minstens op de kruispunten die zijn uitgerust met driekleurige verkeerslichten en waar de voertui-gen van de VVM in een van de richtingen een bedieningsfrequentie van één voertuig per uur of meer hebben, plaatst en onderhoudt de wegbeheerder een verkeerslichtenbenvloeding die de voertuigen van het geregeld vervoer met zo weinig mogelijk oponthoud het kruispunt in kwestie laat oversteken.<br /><br />Op de plaatsen waar de voertuigen van de VVM met terugkerende regelmaat worden vertraagd ten gevolge van de hoeveelheid verkeer en waar de fysieke omstandigheden dat toelaten, wordt er bij elke aanleg of herinrichting van een kruispunt of een wegvak specifieke infrastructuur voor het geregeld vervoer aangelegd, die de voorrang van de voertuigen van het geregeld vervoer op de andere voertuigen verzekert.
+...
 
 ## AFDELING 3 REIZIGERSINFRASTRUCTUUR
 
