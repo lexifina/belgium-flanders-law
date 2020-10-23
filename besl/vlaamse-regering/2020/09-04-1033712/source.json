@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033712,
+  "title": "Besluit van de Vlaamse Regering van 2020-09-04 tot wijziging van diverse besluiten en tot opheffing van het besluit van de Vlaamse regering van 22 juni 2001 tot bepaling van de voorwaarden voor de toekenning van subsidies aan gemeenten voor de opmaak van het eerste vergunningenregister en het eerste plannenregister en het besluit van de Vlaamse Regering van 4 april 2014 houdende de digitalisering van het ruimtelijke vergunningenbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033712/VolledigDocument?datum=2020-10-23",
+  "source_sha256": "235e7ff688a2892029f94863a72af5e46ba41d1881627d30dcdfd0a1f95751d7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033712&param=informatie",
+  "as_of": "2020-10-23",
+  "made": "2020-09-04",
+  "gazette": "2020-10-13",
+  "numac": 2020043281,
+  "document_start": "2020-10-23",
+  "document_end": null,
+  "in_force": "2020-10-23",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2020-10-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
