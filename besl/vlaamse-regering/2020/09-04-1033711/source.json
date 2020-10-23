@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033711,
+  "title": "Besluit van de Vlaamse Regering van 2020-09-04 tot wijziging van artikel 3 van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033711/VolledigDocument?datum=2020-10-23",
+  "source_sha256": "f82012d5d169764a698caf0844a730104624fcf594aee7e048fa027089ed9b00",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033711&param=informatie",
+  "as_of": "2020-10-23",
+  "made": "2020-09-04",
+  "gazette": "2020-10-13",
+  "numac": 2020043217,
+  "document_start": "2020-10-23",
+  "document_end": null,
+  "in_force": "2020-10-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-10-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
