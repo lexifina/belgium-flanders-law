@@ -65,7 +65,7 @@ i) als het bedrijf verschillende vestigingen heeft of verschillende sites in geb
 
 ### ART. 3.
 
-De aanvraag van een planologisch attest wordt ingediend in twee analoge   exemplaren en één digitaal exemplaar. Als het voorwerp van de aanvraag in meer   dan één gemeente ligt, worden twee extra analoge exemplaren ingediend per   bijkomende gemeente.<BR><BR>In afwijking van het eerste lid, kan de aanvraag   ingediend worden via het omgevingsloket, vermeld in artikel 2 van het besluit   van de Vlaamse Regering van 4 april 2014 houdende de digitalisering van het   ruimtelijke vergunningenbeleid conform de bepalingen van het voormelde   besluit.<BR>
+De aanvraag van een planologisch attest wordt ingediend in twee analoge exemplaren en één digitaal exemplaar. Als het voorwerp van de aanvraag in meer dan één gemeente ligt, worden twee extra analoge exemplaren ingediend per bijkomende gemeente.
 
 ## HOOFDSTUK III Ontvankelijkheid
 
@@ -106,7 +106,14 @@ Met behoud van de toepassing van het eerste lid, geldt bijkomend dat een aanvraa
 
 ### ART. 8.
 
-<P>§ 1. Binnen dertig dagen na de datum van de indiening van de aanvraag bezorgt   de gemeentelijke omgevingsambtenaar één van de volgende berichten aan de   aanvrager :<BR>1° een bericht van onontvankelijkheid met opgave van de reden van   de onontvankelijkheid;<BR>2° een verzoek tot vervollediging van de aanvraag met   opgave van de ontbrekende informatie of stukken;<BR>3° een ontvangstbewijs, met   kennisgeving van de overheid die bevoegd is om over de aanvraag te   beslissen.<BR></P>  <P>Als bij een eerste beoordeling de aanvraag onvolledig bleek te zijn, begint   een nieuwe termijn te lopen vanaf de indiening van een tijdige   vervollediging.<BR></P>  <P>§ 2. Na afgifte van een ontvangstbewijs stuurt de gemeentelijke   omgevingsambtenaar, als de gemeente niet de bevoegde overheid is, onmiddellijk   één analoog exemplaar en het digitale exemplaar van de aanvraag door naar de   Vlaamse Regering of de deputatie. Hij bewaart het andere analoge exemplaar met   het oog op het openbaar onderzoek overeenkomstig paragraaf 6.<BR><BR>In   afwijking van het eerste lid, wordt de aanvraag die werd ingediend via het   omgevingsloket, vermeld in artikel 2 van het besluit van de Vlaamse Regering van   4 april 2014 houdende de digitalisering van het ruimtelijke vergunningenbeleid   conform de bepalingen van het voormelde besluit, doorgestuurd via het   uitwisselingsplatform, vermeld in artikel 2 van het voormelde   besluit.<BR></P>
+<p>§ 1. Binnen dertig dagen na de datum van de indiening van de aanvraag bezorgt de gemeentelijke omgevingsambtenaar één van de volgende berichten aan de aanvrager :<br>
+1° een bericht van onontvankelijkheid met opgave van de reden van de onontvankelijkheid;<br>
+2° een verzoek tot vervollediging van de aanvraag met opgave van de ontbrekende informatie of stukken;<br>
+3° een ontvangstbewijs, met kennisgeving van de overheid die bevoegd is om over de aanvraag te beslissen.</p>
+
+<p>Als bij een eerste beoordeling de aanvraag onvolledig bleek te zijn, begint een nieuwe termijn te lopen vanaf de indiening van een tijdige vervollediging.</p>
+
+<p>§ 2. Na afgifte van een ontvangstbewijs stuurt de gemeentelijke omgevingsambtenaar, als de gemeente niet de bevoegde overheid is, onmiddellijk één analoog exemplaar en het digitale exemplaar van de aanvraag door naar de Vlaamse Regering of de deputatie. Hij bewaart het andere analoge exemplaar met het oog op het openbaar onderzoek overeenkomstig paragraaf 6.</p>
 
 ### ART. 9.
 
@@ -114,7 +121,21 @@ Met behoud van de toepassing van het eerste lid, geldt bijkomend dat een aanvraa
 
 ### ART. 10.
 
-<P>§ 1. De bevoegde overheid verstuurt uiterlijk de veertiende dag vóór de   aanvang van het openbaar onderzoek de adviesvragen over de aanvraag naar alle   bij of krachtens decreet aangewezen instanties die over het eventueel op te   maken ruimtelijk uitvoeringsplan advies moeten geven.<BR><BR>§ 2.&nbsp;De   adviesvragen vermelden de adviestermijn en de instantie waaraan het advies moet   worden bezorgd, en het adres ervan, overeenkomstig de paragrafen 3 tot en met   6.<BR><BR>In afwijking van het eerste lid kunnen de adviesvragen ook worden   aangevraagd via het uitwisselingsplatform, vermeld in artikel 2 van het besluit   van de Vlaamse Regering van 4 april 2014 houdende de digitalisering van het   ruimtelijke vergunningenbeleid conform de bepalingen van het voormelde   besluit.<BR><BR>§ 3. De adviesinstanties versturen uiterlijk de laatste dag van   het openbaar onderzoek hun advies naar de gemeentelijke of provinciale commissie   voor ruimtelijke ordening, of naar de Vlaamse minister, bevoegd voor de   ruimtelijke ordening, naargelang de bevoegde overheid.<BR><BR>§ 4. Naargelang de   bevoegde overheid, versturen het college van burgemeester en schepenen en de   deputatie uiterlijk de laatste dag van het openbaar onderzoek hun advies naar de   gemeentelijke of provinciale commissie voor ruimtelijke ordening, of naar de   Vlaamse minister, bevoegd voor de ruimtelijke ordening.<BR><BR>§&nbsp;5. Het   departement verstuurt uiterlijk de laatste dag van het openbaar onderzoek een   advies naar de bevoegde overheid.<BR><BR>§ 6. De gemeentelijke commissie voor   ruimtelijke ordening, als de gemeenteraad de bevoegde overheid is, of de   provinciale commissie voor ruimtelijke ordening, als de&nbsp;provincieraad de   bevoegde overheid is, bezorgt haar advies binnen zestig dagen na het einde van   het openbaar onderzoek aan die bevoegde overheid. Overeenkomstig artikel 4.4.25,   § 4, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening bevat het advies het   integrale advies van het departement. Op hetzelfde ogenblik bezorgt de bevoegde   commissie voor ruimtelijke ordening de gebundelde adviezen, opmerkingen en   bezwaren aan het bevoegde bestuursorgaan.<BR><BR>§ 7. Als de adviezen, bedoeld   in de paragraaf 3 tot en met 6, niet zijn verleend binnen de gestelde termijn,   mag aan de adviesvereiste worden voorbijgegaan.<BR><BR>§ 8. De bevoegde overheid   beslist binnen 120 dagen na het einde van het openbaar onderzoek over de   aanvraag van een planologisch attest. De Vlaamse minister, bevoegd voor de   ruimtelijke ordening, stelt daarvoor het model vast.<BR></P>
+<p>§ 1. De bevoegde overheid verstuurt uiterlijk de veertiende dag vóór de aanvang van het openbaar onderzoek de adviesvragen over de aanvraag naar alle bij of krachtens decreet aangewezen instanties die over het eventueel op te maken ruimtelijk uitvoeringsplan advies moeten geven.<br>
+<br>
+§ 2.&nbsp;De adviesvragen vermelden de adviestermijn en de instantie waaraan het advies moet worden bezorgd, en het adres ervan, overeenkomstig de paragrafen 3 tot en met 6.<br>
+<br>
+§ 3. De adviesinstanties versturen uiterlijk de laatste dag van het openbaar onderzoek hun advies naar de gemeentelijke of provinciale commissie voor ruimtelijke ordening, of naar de Vlaamse minister, bevoegd voor de ruimtelijke ordening, naargelang de bevoegde overheid.<br>
+<br>
+§ 4. Naargelang de bevoegde overheid, versturen het college van burgemeester en schepenen en de deputatie uiterlijk de laatste dag van het openbaar onderzoek hun advies naar de gemeentelijke of provinciale commissie voor ruimtelijke ordening, of naar de Vlaamse minister, bevoegd voor de ruimtelijke ordening.<br>
+<br>
+§&nbsp;5. Het departement verstuurt uiterlijk de laatste dag van het openbaar onderzoek een advies naar de bevoegde overheid.<br>
+<br>
+§ 6. De gemeentelijke commissie voor ruimtelijke ordening, als de gemeenteraad de bevoegde overheid is, of de provinciale commissie voor ruimtelijke ordening, als de&nbsp;provincieraad de bevoegde overheid is, bezorgt haar advies binnen zestig dagen na het einde van het openbaar onderzoek aan die bevoegde overheid. Overeenkomstig artikel 4.4.25, § 4, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening bevat het advies het integrale advies van het departement. Op hetzelfde ogenblik bezorgt de bevoegde commissie voor ruimtelijke ordening de gebundelde adviezen, opmerkingen en bezwaren aan het bevoegde bestuursorgaan.<br>
+<br>
+§ 7. Als de adviezen, bedoeld in de paragraaf 3 tot en met 6, niet zijn verleend binnen de gestelde termijn, mag aan de adviesvereiste worden voorbijgegaan.<br>
+<br>
+§ 8. De bevoegde overheid beslist binnen 120 dagen na het einde van het openbaar onderzoek over de aanvraag van een planologisch attest. De Vlaamse minister, bevoegd voor de ruimtelijke ordening, stelt daarvoor het model vast.</p>
 
 ## HOOFDSTUK VI Slotbepalingen
 
