@@ -735,6 +735,14 @@ In artikel 44bis van hetzelfde decreet, gewijzigd bij het Bestuursdecreet van 7 
 
 ## Afdeling 2. Wijzigingen van het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg
 
+### ART 58.
+
+In artikel 2 van het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg, gewijzigd bij het decreet van 8 mei 2009, worden punt 6° tot en met 14° opgeheven.
+
+### ART 59.
+
+In hoofdstuk II van hetzelfde decreet, gewijzigd bij het decreet van 13 februari 2004, wordt afdeling 1, die bestaat uit artikel 4 tot en met 14, opgeheven.
+
 ### ART 60.
 
 Artikel 16 van hetzelfde decreet, gewijzigd bij het decreet van 13 februari 2004, wordt vervangen door wat volgt:<br>
