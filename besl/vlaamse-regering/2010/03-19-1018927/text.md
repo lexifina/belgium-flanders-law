@@ -12,7 +12,9 @@ Het stedenbouwkundig attest doet een uitspraak op stedenbouwkundig en ruimtelijk
 
 ### ART. 2.
 
-§ 1. In dit artikel wordt verstaan onder omgevingsloket: het   omgevingsloket, vermeld in artikel 2 van het besluit van de Vlaamse Regering van   4 april 2014 houdende de digitalisering van het ruimtelijke   vergunningenbeleid.&nbsp;<BR><BR>Het stedenbouwkundig attest wordt aangevraagd   door middel van het formulier, gevoegd als bijlage I bij dit besluit, en de   bewijsstukken, vermeld op dit formulier, in tweevoud te bezorgen aan het   bevoegde vergunningverlenende bestuursorgaan. Die overheid kan bijkomende   exemplaren eisen, om de adviezen, bedoeld in artikel 3, § 1, in te   winnen.<BR><BR>Als de aanvraag ingediend wordt via het omgevingsloket conform de   bepalingen van het besluit van de Vlaamse Regering van 4 april 2014 houdende de   digitalisering van het ruimtelijke vergunningenbeleid, wordt de aanvraag alleen   in enkelvoud ingediend en kunnen geen bijkomende exemplaren worden   geëist.<BR><BR>§ 2. De aanvraag gebeurt per aangetekend schrijven, via afgifte   tegen ontvangstbewijs of via het omgevingsloket conform de bepalingen van het   besluit van de Vlaamse Regering van 4 april 2014 houdende de digitalisering van   het ruimtelijke vergunningenbeleid.<BR><BR>§ 3. ...<BR><BR>§ 4.   ...<BR><BR>
+Het stedenbouwkundig attest wordt aangevraagd door het formulier, dat is opgenomen in bijlage 1 die bij dit besluit is gevoegd, en de bewijsstukken, vermeld in dat formulier, in tweevoud te bezorgen aan het bevoegde vergunningverlenende bestuursorgaan. Dat bestuursorgaan kan bijkomende exemplaren eisen om de adviezen, vermeld in artikel 3, § 1, in te winnen.<br>
+<br>
+De aanvraag wordt aangetekend of tegen afgifte tegen ontvangstbewijs ingediend.
 
 ### ART. 3.
 
@@ -20,7 +22,8 @@ Het stedenbouwkundig attest doet een uitspraak op stedenbouwkundig en ruimtelijk
 
 ### ART. 4.
 
-Het stedenbouwkundig attest wordt binnen een ordetermijn van 75 dagen na de ontvangst van de aanvraag afgegeven door middel van het formulier, gevoegd als bijlage II bij dit besluit.<br /><br />
+Het stedenbouwkundig attest wordt binnen een ordetermijn van 75 dagen na de ontvangst van de aanvraag afgegeven.<br>
+&nbsp;
 
 ## HOOFDSTUK 2 [... (opgeh. BVR 27 november 2015, art. 359, I: 23 februari 2017)]
 
@@ -79,10 +82,10 @@ De Vlaamse minister, bevoegd voor de ruimtelijke ordening, is belast met de uitv
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2010/04/13_1.pdf#page=40" title=" Formulier" target="_blank" class="pdf">Formulier</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/10/13_1.pdf#page=32">Formulier als vermeld in artikel 2, eerste lid - Aanvraag van een stedenbouwkundig attest</a>
 
 ## BIJLAGE 2
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2010/04/13_1.pdf#page=46" title=" Attest" target="_blank" class="pdf">Attest</a>
+...
