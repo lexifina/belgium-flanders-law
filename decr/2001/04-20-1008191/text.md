@@ -20,15 +20,15 @@ Aan het geregelde karakter van de bijzondere vorm van geregeld vervoer wordt gee
 4° ...;<br>
 4°bis : onwettig ronselen : hetzij kandidaat-klanten aanspreken op openbare plaatsen op het grondgebied van een gemeente waar men niet vergund is, hetzij met het voertuig heen en weer rijden op het grondgebied van een gemeente waar men niet vergund is, hetzij daar stationeren, telkens met het oogmerk om klanten te vervoeren;<br>
 5° ...;<br>
-6° afstand: de afstand in vogelvlucht;<br>
-7° VVM: de Vlaamse Vervoermaatschappij, opgericht bij decreet van 31 juli 1990 tot oprichting van de Vlaamse Vervoermaatschappij;<br>
+6° ...;<br>
+7° ...;<br>
 8° ...<br>
-9° woonzone: een gebied met als bestemming wonen volgens de gewestplannen en de gewestelijke en de provinciale ruimtelijke uitvoeringsplannen;<br>
-10° grootstedelijke gebieden: de door de Vlaamse regering aangeduide delen van de grootstedelijke gebieden van Antwerpen en Gent;<br>
-11° stedelijke gebieden: de door de Vlaamse regering aangeduide delen van de regionaal-stedelijke gebieden van de gemeenten Brugge, Hasselt-Genk, Kortrijk, Leuven, Mechelen, Oostende, Sint-Niklaas, Aalst, Roeselare, Turnhout;<br>
-12° randstedelijke gebieden: de door de Vlaamse regering aangeduide delen van de randstedelijke gebieden van de gemeenten Aartselaar, Asse, Boechout, Borsbeek, Edegem, Hemiksem, Hove, Kontich, Lint, Mortsel, Niel, Schelle, Wijnegem, Wommelgem, Zwijndrecht, Evergem, De Pinte, Destelbergen, Melle, Merelbeke, Beersel, Dilbeek, Drogenbos, Grimbergen, Kraainem, Linkebeek, Machelen, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Tervuren, Vilvoorde, Wemmel, Wezembeek-Oppem, Zaventem, Damme, Jabbeke, Oostkamp, Zedelgem, Diepenbeek, Zonhoven, Deerlijk, Harelbeke, Kuurne, Wevelgem, Zwevegem, Sint-Katelijne-Waver, Bredene, Middelkerke, Denderleeuw, Ingelmunster, Izegem, Beerse, Oud-Turnhout, Vosselaar;<br>
-13° kleinstedelijke gebieden: de door de Vlaamse regering aangeduide delen van de kleinstedelijke gebieden van de gemeenten Aarschot, Deinze, Dendermonde, Diest, Eeklo, Geraardsbergen, Halle, Ieper, Lier, Lokeren, Ninove, Oudenaarde, Ronse, Sint-Truiden, Vilvoorde, Temse, Tienen, Tongeren, Waregem, Beveren, Bilzen, Blankenberge, Boom, Bree, Geel, Herentals, Knokke-Heist, Leopoldsburg, Maaseik, Maasmechelen, Menen, Mol, Neerpelt-Overpelt, Tielt, Torhout, Veurne, Wetteren, Zottegem, Diksmuide, Heist-op-den-Berg, Hoogstraten, Lommel, Poperinge;<br>
-14° buitengebieden: de gemeenten en/of delen van gemeenten die niet afgebakend zijn als grootstedelijk, stedelijk, randstedelijk of kleinstedelijk gebied.
+9° ...;<br>
+10° ...;<br>
+11° ...;<br>
+12° ...;<br>
+13° ...;<br>
+14° ....
 
 ### ART. 3.
 
@@ -45,49 +45,49 @@ De bepalingen van dit decreet zijn niet van toepassing op:<br>
 
 ### ART. 4.
 
-De basismobiliteit heeft tot doel binnen de woonzones van grootstedelijke, stedelijke, randstedelijke, kleinstedelijke en buitengebieden een minimumaanbod van geregeld vervoer aan de gebruiker te bieden. Het minimumaanbod houdt bedieningsfrequenties en afstanden tot haltes van geregeld vervoer in.
+...
 
 ### ART. 5.
 
-§ 1. De Vlaamse regering legt het in artikel 4 bedoelde minimumaanbod van geregeld vervoer vast, rekening houdend met beginselen vervat in §§ 2 tot en met 6.<br /><br />§ 2. Het minimumaanbod van geregeld vervoer wordt voorzien tussen acht en drieëntwintig uur op zaterdagen, zon- en wettelijke feestdagen, hierna 'het weekend' te noemen, en tussen zes en eenentwintig uur op andere dagen, hierna 'de week' te noemen.<br /><br />§ 3. De bedieningsfrequentie van de geregelde vervoersdiensten wordt vastgesteld in functie van het te bedienen gebied. De bedieningsfrequentie in de grootstedelijke gebieden ligt nooit lager dan de bedieningsfrequentie in de stedelijke gebieden. De bedieningsfrequentie in de stedelijke gebieden ligt nooit lager dan de bedieningsfrequentie in de randstedelijke gebieden. De bedieningsfrequentie in de randstedelijke gebieden ligt nooit lager dan de bedieningsfrequentie in de kleinstedelijke gebieden. De bedieningsfrequentie in de kleinstedelijke gebieden ligt altijd hoger dan de bedienings-frequentie in de buitengebieden.<br /><br />§ 4. De bedieningsfrequentie van de geregelde vervoersdiensten tijdens de week wordt vastgesteld in functie van de spits- en daluren waarbij het aanbod tijdens de spitsuren altijd hoger ligt dan tijdens de daluren.<br /><br />§ 5. De wachttijden aan een halte tussen de opeenvolgende geregelde vervoersdiensten zijn regelmatig in de tijd gespreid.<br /><br />§ 6. De afstanden vanuit de woonzones in de gebieden bedoeld in artikel 4 tot haltes van geregelde vervoersdiensten worden vastgelegd in functie van het te bedienen gebied. In de grootstedelijke en de stedelijke gebieden zijn deze afstanden nooit langer dan in de randstedelijke gebieden. In de randstedelijke gebieden zijn deze afstanden nooit langer dan in de kleinstedelijke gebieden. In de kleinstedelijke gebieden zijn deze afstanden nooit langer dan in de buitengebieden.<br /><br />§ 7. De Vlaamse regering bakent de gebieden, bedoeld in artikel 2, 10° tot en met 14° af binnen drie jaar na de inwerkingtreding van dit decreet.<br /><br />De afbakening, bedoeld in het eerste lid, vervalt op het ogenblik dat de afbakening wordt vastgesteld krachtens het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening.<br /><br />§ 8. De Vlaamse regering stelt het in dit artikel bedoelde minimumaanbod vast binnen drie jaar na de inwerkingtreding van dit decreet.
+...
 
 ### ART. 6.
 
-§ 1. De basismobiliteit wordt georganiseerd en verzekerd door de VVM. De invoering van de basis-mobiliteit dient geleidelijk te gebeuren en gelijkmatig gespreid te worden over de verschillende gebieden.<br /><br />§ 2. Het minimumaanbod van geregeld vervoer tijdens de spitsuren in de grootstedelijke gebieden en de stedelijke gebieden wordt verzekerd door middel van vaste lijndiensten.<br /><br />§ 3. Wanneer niet voldaan is aan de in artikel 5 bedoelde minimumnormen inzake geregeld vervoer, kan de burger een klacht neerleggen bij de bevoegde administratie van het Vlaamse Gewest.<br /><br />De Vlaamse regering bepaalt het bedrag van de vergoeding. De vergoeding kan enkel verschuldigd zijn indien het bewijs van een taxirit wordt geleverd.<br /><br />Dit bedrag is hoogstens één keer per dag verschuldigd aan de benadeelde en kan het totaalbedrag van de taxirit niet overschrijden.<br /><br />De administratie van het Vlaamse Gewest onderzoekt de gegrondheid van de klacht en ondervraagt hiertoe alle betrokken partijen, waarna zij een beslissing neemt.<br /><br />Indien de klacht gegrond is, past de VVM uiterlijk voor het einde van het volgende kwartaal de lijnvoering aan conform de minimumnormen bedoeld in artikel 5, en betaalt een vergoeding uit overeenkomstig het tweede lid, behoudens wanneer de tekortkoming te wijten is aan een [niet voorzienbare of onvermijdbare gebeurtenis  <span class="reference">(verv. decr. 13 februari 2004, art. 2, I: 29 maart 2004)</span> ], ontstaan buiten de wil van de VVM.<br /><br />De administratie van het Vlaamse Gewest rapporteert jaarlijks aan de Vlaamse regering de klachten en de eraan gegeven gevolgen.<br /><br />De Vlaamse regering bepaalt de nadere regels van de in deze paragraaf bedoelde procedures.<br /><br />§ 4. De VVM informeert de burger op afdoende wijze over het aanbod van geregeld vervoer.<br /><br />§ 5. De VVM voorziet de haltes van geregeld vervoer van de nodige infrastructuur.<br /><br />[De Vlaamse regering kan nadere regels vastleggen met betrekking tot de inplanting en de aanleg van de haltes.  <span class="reference">(ing. decr. 13 februari 2004, art. 2, I: 9 april 2004)</span> ]<br /><br />[§ 6. De gemeente is verantwoordelijk voor het oprichten en onderhouden van de schuilhuisjes, met inbegrip van de extra voorzieningen. De gemeente kan die opdracht toevertrouwen aan derden. De Vlaamse regering bepaalt daarvoor de nadere regels.<br /><br />In het geval dat de gemeente deze opdracht niet toevertrouwt aan derden, bepaalt de Vlaamse regering volgens welke verdeelsleutel de kosten voor de oprichting of het onderhoud gedragen worden door de gemeente en de VVM.  <span class="reference">(ing. decr. 13 februari 2004, art. 2, I: 9 april 2004)</span> ]
+...
 
 ### ART. 7.
 
-§ 1. Iedere wegbeheerder brengt de VVM tijdig op de hoogte van alle geplande wegwerkzaamheden.<br /><br />§ 2. Het voorafgaand advies van de VVM wordt gevraagd:<br /><br />1° ingeval de geografische afbakening van een grootstedelijk gebied, een stedelijk gebied, een randstedelijk gebied, een kleinstedelijk gebied of een buitengebied ingevolge een gewestplan of een ruimtelijk uitvoeringsplan gewijzigd wordt;<br /><br />2° in geval van herinrichting van de wegen.<br /><br />§ 3. De wegbeheerders brengen de VVM voorafgaand op de hoogte van manifestaties die georganiseerd worden op de door de VVM bediende wegen.
+...
 
 ## ONDERAFDELING B [... (opgeh. decr. 26 april 2019, art. 59, I: te bepalen door de Vlaamse Regering)]
 
 ### ART. 8.
 
-Het netmanagement heeft tot doel de realisatie van de basismobiliteit, bedoeld in artikel 5, en de doelmatige en efficiënte organisatie van het geregeld vervoer, waarbij maximaal tegemoet gekomen wordt aan de verplaatsingsbehoeften en verplaatsingsstromen.<br /><br />Het netmanagement omvat ten minste de regels en de criteria inzake de gevolgde reisweg, de exploitatiewijze, het bedieningsniveau, het comfort in de ruime zin en de halte-infrastructuur, de informatie aan de burger in het algemeen en de informatie aan de stopplaatsen omtrent het aanbod van geregeld vervoer, de eventuele uitbreiding of verhoging van de bedieningsfrequenties, de eventuele verhoging van de bedieningstijden, de doelstellingen met betrekking tot de commerciële snelheid en de minimaal te bedienen aantrekkingspolen binnen het te bedienen gebied.<br /><br />Met betrekking tot de grootstedelijke gebieden zal het netmanagement tevens rekening houden met de grootstedelijke functies van deze gebieden. De minimale bedieningstijden, zoals omschreven in artikel 5, zullen rekening houdend met deze grootstedelijke functies, ten aanzien van de minimumnormen inzake basismobiliteit, minimaal met twee uur worden uitgebreid, waarbij de minimaal te bedienen aantrekkingspolen zullen worden vastgesteld.
+...
 
 ### ART. 9.
 
-§ 1. Bij het opstellen van het netmanagement wordt het grondgebied van het Vlaamse Gewest opge-deeld in vervoersgebieden.<br /><br />§ 2. Vervoersgebieden zijn gebieden waarvan de gemeenten en/of delen van de gemeenten een samenhangend geheel vormen inzake mobiliteit met een vervoerskern en een invloedsgebied. De gemeenten worden betrokken bij het afbakenen van de vervoersgebieden en bij de concrete invulling van de regels en de criteria van het netmanagement in hun vervoersgebied.<br /><br />Het Vlaamse Gewest telt twaalf vervoersgebieden: Antwerpen, Gent, Aalst, Brugge, Hasselt-Genk, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas, Turnhout. Daarnaast is er het specifiek Vlaams stedelijk vervoersgebied rond het Brussels Hoofdstedelijk Gewest.<br /><br />Er kunnen subvervoersgebieden aangeduid worden.<br /><br />Voor iedere vervoerskern wordt uitgaande van het waterscheidingsprincipe een invloedsgebied bepaald dat gebaseerd is op een berekening van de ruimtelijke interacties tussen de vervoerskern en de omliggende gemeenten en/of delen van gemeenten.<br /><br />§ 3. De twaalf vervoersgebieden en het specifiek Vlaams stedelijk vervoersgebied rond het Brussels Hoofdstedelijk Gewest bedekken het volledige grondgebied van het Vlaamse Gewest.
+...
 
 ### ART. 10.
 
-§ 1. Het netmanagement wordt opgesteld door de VVM op basis van de principes, bedoeld in artikel 5.<br /><br />Binnen een termijn van twee jaar na de inwerkingtreding van het besluit, bedoeld in artikel 5, § 8, legt de VVM het netmanagement ter goedkeuring voor aan de Vlaamse regering.<br /><br />De Vlaamse regering kan het haar voorgelegde netmanagement wijzigen mits een omstandige motivering.<br /><br />§ 2. De Vlaamse regering stelt het netmanagement op ingeval de VVM geen netmanagement ter goedkeuring kan voorleggen binnen de termijn, bedoeld in § 1, tweede lid.
+...
 
 ### ART. 11.
 
-§ 1. De VVM past het netmanagement aan in geval van ingrijpende ruimtelijke wijzigingen in één of meer vervoersgebieden.<br /><br />[In elk vervoersgebied wordt minstens om de zes jaar een potentieel onderzoek gevoerd.<br /><br />De VVM past het netmanagement aan op basis van de beschikbare gegevens inzake verplaatsingsstromen en verplaatsingsgedrag en door gebruik te maken van de resultaten van de potentieelonderzoeken van de vervoersgebieden, binnen een jaar nadat de potentieelonderzoeken van alle vervoersgebieden zijn afgerond.  <span class="reference">(verv. decr. 13 februari 2004, art. 3, I: 29 maart 2004)</span> ]<br /><br />§ 2. De aanpassingen bedoeld in § 1 worden aan de Vlaamse regering ter goedkeuring voorgelegd.<br /><br />De Vlaamse regering kan het haar voorgelegde aangepaste netmanagement wijzigen mits een omstandige motivering.<br /><br />De Vlaamse regering stelt het aangepaste netmanagement op ingeval de VVM geen netmanagement ter goedkeuring kan voorleggen binnen de termijnen, bedoeld in § 1, tweede en derde lid.
+...
 
 ### ART. 12.
 
-Het netmanagement blijft gelden zolang geen aangepast netmanagement bedoeld in artikel 11, door de Vlaamse regering is goedgekeurd.
+...
 
 ### ART. 13.
 
-De VVM voert haar opdracht, zoals omschreven in het decreet van 31 juli 1990 tot oprichting van de Vlaamse Vervoermaatschappij, uit overeenkomstig de bepalingen van het netmanagement.
+...
 
 ### ART. 14.
 
-De Vlaamse regering evalueert de uitvoering van de basismobiliteit en het netmanagement aan de hand van de in artikel 5 en artikel 8, tweede en derde lid genoemde criteria.<br /><br />De Vlaamse Vervoermaatschappij zal dienaangaande jaarlijks, voor 31 maart, een evaluatie- en voortgangsrapport opmaken dat betrekking heeft op het voorgaande jaar en dat minimaal de volgende onderdelen zal omvatten:<br /><br />1° de mate waarin de basismobiliteit reeds werd gerealiseerd;<br /><br />2° de projecten inzake extra exploitatie, die in het voorbije jaar werden opgestart met als doel de basismobiliteit te realiseren;<br /><br />3° een overzicht van de investeringen van het voorbije jaar, waarvoor de middelen definitief werden vastgelegd;<br /><br />4° een indicatief exploitatieprogramma voor de volgende drie jaar;<br /><br />5° een indicatief investeringsprogramma voor de volgende drie jaar;<br /><br />6° een overzicht van de klachten, in uitvoering van artikel 6, § 3, met vermelding van het gevolg dat er aan werd gegeven.<br /><br />De Vlaamse regering zal de opmaak van deze rapportering nader omschrijven en bepaalt de gevolgen verbonden aan de evaluatie van dit rapport. De Vlaamse regering zal dit rapport jaarlijks voor 30 juni overmaken aan het Vlaams Parlement.
+...
 
 ## AFDELING 2 EXPLOITATIE
 
