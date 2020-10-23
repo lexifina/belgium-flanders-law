@@ -2,16 +2,16 @@
   "codex_id": 1028418,
   "title": "Besluit van de Vlaamse Regering van 2017-06-02 tot uitvoering van [titel III, hoofdstuk 3, afdeling 4, van het bestuursdecreet van 7 december 2018 (verv. BVR 10 mei 2019, art. 180, I: 1 januari 2019)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028418/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "5c8177ac6c60abe84352059882db573c6336d51c28d094e3c9d67b5f06aedc74",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028418/VolledigDocument?datum=2020-10-23",
+  "source_sha256": "2a3ab0d2f66507e2687349faebfe1adb5e11843fced14dbc152f2461d9ac86de",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028418&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2020-10-23",
   "made": "2017-06-02",
   "gazette": "2017-07-13",
   "numac": 2017030445,
   "document_start": "2017-09-26",
   "document_end": null,
-  "in_force": "2019-01-01",
-  "article_versions": 29,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-10-23",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2020-10-23; future article versions excluded; article text as the API gives it"
 }

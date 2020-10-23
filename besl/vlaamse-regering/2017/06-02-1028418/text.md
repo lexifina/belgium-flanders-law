@@ -76,7 +76,7 @@ In dit besluit wordt verstaan onder:<br>
 
 Het stuurorgaan beraadslaagt uit eigen beweging of op verzoek van de Vlaamse Regering, een lid van de Vlaamse Regering of de instanties van de Vlaamse overheid, vermeld in artikel I.3, 1°, van het bestuursdecreet van 7 december 2018, de instanties van de lokale overheden, vermeld in artikel I.3, 5°, van het voormelde decreet, de instellingen met een publieke taak, vermeld in artikel I.3, 6°, van het voormelde decreet, en de milieu-instanties, vermeld in artikel I.3, 7°, van het voormelde decreet.<br>
 <br>
-De leden van het stuurorgaan streven consensus na. Als er geen consensus wordt bereikt, geeft het stuurorgaan in de beraadslaging de verschillende standpunten weer.<br>
+Het stuurorgaan streeft ernaar om bij consensus te beslissen. Als er geen consensus wordt bereikt, beslist het stuurorgaan bij tweederdemeerderheid met een stemming door handopsteking. Onthoudingen worden niet meegeteld om de vereiste meerderheid te bepalen.<br>
 <br>
 Het stuurorgaan stelt zijn huishoudelijk reglement op.<br>
 <br>
@@ -86,13 +86,38 @@ Het stuurorgaan kan voor het vervullen van zijn taken een beroep doen op de mede
 <br>
 Het stuurorgaan rapporteert jaarlijks aan de Vlaamse Regering over de realisering van zijn opdrachten.<br>
 <br>
-Het agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen, zorgt voor het secretariaat van het stuurorgaan en draagt de werkingskosten van het stuurorgaan en van de werkgroepen die erin worden opgericht.
+Het agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen, zorgt voor het secretariaat van het stuurorgaan en draagt de werkingskosten van het stuurorgaan en van de werkgroepen die erin worden opgericht.<br>
+<br>
+Om de vergaderingen van het stuurorgaan voor te bereiden, wordt het secretariaat bijgestaan door de drie digitaliseringsverantwoordelijken, vermeld in artikel 2/1, 2°.
+
+### ART 2/1.
+
+Met toepassing van artikel III.76, tweede lid, van het Bestuursdecreet van 7 december 2018 wordt de samenstelling van het stuurorgaan uitgebreid met de volgende leden:<br>
+1° een vertegenwoordiger van de Vlaamse overheid van N-niveau of N-1-niveau, die niet een van de vertegenwoordigers, vermeld in artikel III.76, eerste lid, 1° tot en met 4°, van het voormelde decreet, is, op voorstel van het voorzitterscollege. Dit lid heeft effectief stemrecht en neemt het voorzitterschap op;<br>
+2° drie digitaliseringsverantwoordelijken die lid zijn van het directiecomité van een entiteit van de Vlaamse administratie. Deze leden zijn waarnemende leden met raadgevende stem.
 
 ### ART 3.
 
-De externe innovators, vermeld in artikel III.76, eerste lid, 5°, van het bestuursdecreet van 7 december 2018, zijn deskundig, onafhankelijk en onpartijdig. Ze hebben een grondige kennis van en minstens vijf jaar nuttige ervaring in informatie en ICT op internationaal, Europees, Vlaams of lokaal niveau. De Vlaamse minister, bevoegd voor de bestuurszaken, nodigt organisaties en instellingen die zich bezighouden met onderzoek, wetenschap, innovatie, technologie, informatie of overheidsaangelegenheden, uit om kandidaat-externe-innovators voor te dragen voor het stuurorgaan.<br>
+§ 1. De externe innovators, vermeld in artikel III.76, eerste lid, 5°, van het Bestuursdecreet van 7 december 2018, zijn deskundig, onafhankelijk en onpartijdig.<br>
 <br>
-Na een voorafgaande mededeling aan de Vlaamse Regering benoemt de Vlaamse minister, bevoegd voor de bestuurszaken, de leden, de plaatsvervangende leden en de voorzitter.
+De externe innovators voldoen aan al de volgende voorwaarden:<br>
+1° ze hebben een grondige kennis van informatie en ICT op internationaal, Europees, Vlaams of lokaal niveau;<br>
+2° ze hebben minstens vijf jaar nuttige ervaring in informatie en ICT op internationaal, Europees, Vlaams of lokaal niveau.<br>
+<br>
+De Vlaamse minister, bevoegd voor de digitalisering, en de Vlaamse minister, bevoegd voor de informatie- en communicatietechnologie, nodigen organisaties en instellingen uit die zich bezighouden met onderzoek, wetenschap, innovatie, technologie, informatie of overheidsaangelegenheden, om kandidaat-externe-innovators voor te dragen voor het stuurorgaan.<br>
+<br>
+§ 2. Het secretariaat van het stuurorgaan lanceert een oproep tot kandidaatstelling voor digitaliseringsverantwoordelijken als vermeld in artikel 2/1, 2°.<br>
+<br>
+De digitaliseringsverantwoordelijken voldoen aan al de volgende voorwaarden:<br>
+1° ze hebben een grondige kennis van digitaliseringsprocessen en ze hebben minstens vijf jaar nuttige ervaring op het vlak van digitaliseringsprocessen;<br>
+2° ze behoren tot drie verschillende beleidsdomeinen en niet tot de entiteit waartoe de voorzitter behoort;<br>
+3° ze zijn geen lid als vermeld in artikel III.76, eerste lid, 1° tot en met 7°, van het Bestuursdecreet van 7 december 2018.<br>
+<br>
+De digitaliseringsverantwoordelijken vertegenwoordigen noch het beleidsdomein noch de entiteit waartoe ze behoren.<br>
+<br>
+Voor de digitaliseringsverantwoordelijken worden geen plaatsvervangende leden benoemd.<br>
+<br>
+§ 3. Na een voorafgaande mededeling aan de Vlaamse Regering benoemen de Vlaamse minister, bevoegd voor digitalisering, en de Vlaamse minister, bevoegd voor de informatie- en communicatietechnologie, de leden, de plaatsvervangende leden en de voorzitter.
 
 ## HOOFDSTUK 3 Wijzigingsbepalingen
 
