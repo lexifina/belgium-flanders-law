@@ -157,7 +157,39 @@ De Vlaamse minister, bevoegd voor het mediabeleid, is belast met de uitvoering v
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/04/04_1.pdf#page=385">Bijlage 1</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/04/04_1.pdf#page=385">Bijlage 1</a><br>
+<br>
+* Bij besluit van de Vlaamse Regering van 18 september 2020, BS 14 oktober 2020, werden met ingang van 24 oktober 2020 volgende wijzigingen aangebracht aan bijlage 1:<br>
+<br>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">"1° in de tabel wordt tussen de rij van punt 80 en de rij van punt 81 de volgende rij ingevoegd:</span></span></span>
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>80/1.</td>
+			<td>Brussel</td>
+			<td>102.8</td>
+			<td>1000</td>
+			<td>D</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">2° in de tabel wordt tussen de rij van punt 292 en de rij van punt 293 de volgende rij ingevoegd:</span></span></span>
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>292/1.</td>
+			<td>Poperinge</td>
+			<td>104.5</td>
+			<td>1000</td>
+			<td>D</td>
+		</tr>
+	</tbody>
+</table>
+"<br>
+&nbsp;
 
 ### BIJLAGE
 
@@ -169,7 +201,40 @@ De Vlaamse minister, bevoegd voor het mediabeleid, is belast met de uitvoering v
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/04/04_1.pdf#page=397">Bijlage 4</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/04/04_1.pdf#page=397">Bijlage 4</a><br>
+<br>
+* Bij besluit van de Vlaamse Regering van 18 september 2020, BS 14 oktober 2020, werden met ingang van 24 oktober 2020 volgende wijzigingen aangebracht aan bijlage 4:<br>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">"1° in de tabel "Frequentiepakket voor netwerkradio-omroeporganisatie 1" wordt tussen de rij van punt 13 en de rij van punt 14 de volgende rij ingevoegd:</span></span></span>
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>13/1.</td>
+			<td>Poperinge</td>
+			<td>104.5</td>
+			<td>1000</td>
+			<td>D</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">2° in de tabel "frequentiepakket voor netwerkradio-omroeporganisatie 3" wordt tussen de rij van punt 3 en de rij van punt 4 de volgende rij ingevoegd:</span></span></span>
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>3/1.</td>
+			<td>Brussel</td>
+			<td>102.8</td>
+			<td>1000</td>
+			<td>D</td>
+		</tr>
+	</tbody>
+</table>
+"<br>
+<br>
+&nbsp;
 
 ### BIJLAGE
 
