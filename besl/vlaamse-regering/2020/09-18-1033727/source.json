@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033727,
+  "title": "Besluit van de Vlaamse Regering van 2020-09-18 tot wijziging van artikel 1 en de bijlage bij het besluit van de Vlaamse Regering van 9 maart 2007 waarbij de nodige frequenties voor analoge radio ter beschikking van de Vlaamse Radio- en Televisieomroep worden gesteld",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033727/VolledigDocument?datum=2020-10-24",
+  "source_sha256": "b69495514cd94b1328b37c4cc9f5889d64e06109b0633ea523d787d544d625a6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033727&param=informatie",
+  "as_of": "2020-10-24",
+  "made": "2020-09-18",
+  "gazette": "2020-10-14",
+  "numac": 2020031449,
+  "document_start": "2020-10-24",
+  "document_end": null,
+  "in_force": "2020-10-24",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-10-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
