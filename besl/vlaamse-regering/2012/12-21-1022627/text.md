@@ -54,7 +54,7 @@
 
 In dit besluit wordt verstaan onder :<br>
 1° appartement : woning in een gebouw waarin zich minimaal twee woningen in verschillende bouwlagen boven elkaar bevinden, en die geen duplex is;<br>
-1° /1 aanpassingswerken aan de woonomgeving : werkzaamheden met betrekking tot de gehele of gedeeltelijke heraanleg van wooninfrastructuur in het kader van een renovatieproject voor woningen van een wijk of buurt waaraan een initiatiefnemer deelneemt via de renovatie van een of meer woningen in de wijk of buurt die hem toebehoren, met uitzondering van de normale onderhouds- en instandhoudingswerken;<br>
+1° /1 ...;<br>
 2° archeologische opgraving : het gebruik van wetenschappelijke methoden en technieken waarmee doelbewust de ondergrondse, aan de oppervlakte of onder water aanwezige archeologische artefacten en archeologische sites worden opgespoord, vrijgelegd en door opgraving worden onderzocht en waarbij de archeologische artefacten en onderzoeksdocumenten archeologische ensembles vormen;<br>
 3° archeologisch vooronderzoek : het gebruik van wetenschappelijke methoden en technieken waarmee doelbewust archeologische artefacten en archeologische sites worden opgespoord en gewaardeerd zonder de erfgoedwaarden in situ wezenlijk aan te tasten te onderscheiden in archeologisch vooronderzoek met ingreep in de bodem met mogelijks enig effect op de erfgoedwaarden in situ zoals de aanleg van proefsleuven, proefputten, vlakken of andere intrusieve methoden met grondverzet en archeologisch vooronderzoek zonder ingreep in de bodem zonder aanwending van grondwerkzaamheden of activiteiten die enig effect hebben op de erfgoedwaarden in situ. Voorbeelden van archeologisch vooronderzoek zonder ingreep in de bodem zijn veldprospectie, luchtfotografische prospectie, geofysische prospectie en archivalisch onderzoek;<br>
 4° besluit Beheersvergoeding : het besluit van de Vlaamse Regering van 13 januari 2012 tot vaststelling van nadere regels voor de bijdragen van de sociale woonactoren in de financiering van de Vlaamse Maatschappij voor Sociaal Wonen;<br>
@@ -68,12 +68,22 @@ c) elke andere door de minister toegestane betekeningswijze waarbij de datum van
 8° duplex : woning in een gebouw waarin zich twee woningen in verschillende bouwlagen boven elkaar bevinden en waarvan iedere woning toegankelijk is via een gescheiden ingang of trap die uitkomtop het openbare domein op het gelijkvloerse niveau;<br>
 9° eengezinswoning : elk bebouwd onroerend goed dat hoofdzakelijk bestemd is voor de huisvesting van één gezin of één alleenstaande, waarin zich geen andere woningen bevinden;<br>
 10° GSC : de gewestelijke sociale correctie;<br>
-10° /1 infrastructuurwerken : de hiernavolgende werken, voor zover ze bestemd en noodzakelijk zijn voor de bruikbaarheid van het woonproject :<br>
-a) de wegenuitrusting, met name het aanleggen en het geschikt maken van de toegangs- en circulatieruimten voor alle verkeersdeelnemers, alsook de parkeerplaatsen, fietsenstallingen en de vaste constructies binnen de toegangs- en circulatieruimten;<br>
-b) het rioleringsnet, met name het aanleggen en het geschikt maken van de waterafvoerleiding tot het dichtstbijzijnde lozingspunt, de wachtbuizen voor de aansluiting van de woningen, alsook de gemalen, zuiveringsstations en andere, op advies van de VMSW noodzakelijk geachte voorzieningen voor de normale waterafvoer of ter voorkoming van de verontreiniging door afvalwater;<br>
-c) de functioneel aangepaste openbare verlichting en de daarbij horende netuitbreiding;<br>
-d) het watervoorzieningsnet, met name het aanleggen en het uitrusten van de uitbreiding van het waterbedelingsnet, uitgezonderd de huisaansluitingen, maar met inbegrip van de hydranten;<br>
-e) de omgevingswerken, hoofdzakelijk omvattende groenvoorzieningen, verhardingen voor niet-gemotoriseerd verkeer en recreatief gebruik, al dan niet vast straatmeubilair en speeltuigen, vaste constructies voor plant-, water- en speelvakken en eventueel andere bijkomende werken, zoals plaatselijke draineringen, beperkte parkeeroppervlakten, met uitsluiting van werken van burgerlijke bouwkunde;<br>
+10° /1 infrastructuurwerken : de volgende werken als ze noodzakelijk zijn voor de woningen in kwestie :<br>
+a) werken aan de wegenuitrusting, namelijk het aanleggen of aanpassen en het geschikt maken van :<br>
+1) de toegangs- en circulatieruimten voor alle verkeersdeelnemers;<br>
+2) de parkeerplaatsen, fietsenstallingen;<br>
+3) de vaste constructies binnen de toegangs- en circulatieruimten;<br>
+b) werken aan de inrichtingen voor afvoer en zuivering van afvalwater, namelijk het aanleggen of aanpassen en het geschikt maken van :<br>
+1) de waterafvoerleiding tot het dichtstbijzijnde lozingspunt, de wachtbuizen voor de aansluiting van de woningen;<br>
+2) de gemalen, zuiveringsstations en andere voorzieningen die op advies van de VMSW noodzakelijk worden geacht voor de normale waterafvoer of ter voorkoming van de verontreiniging door afvalwater;<br>
+c) openbare verlichting en de daarbij horende netuitbreiding aanleggen of aanpassen;<br>
+d) werken aan het openbare watervoorzieningsnet, namelijk het aanleggen of aanpassen en het uitrusten van de uitbreiding van het waterbedelingsnet, uitgezonderd de huisaansluitingen, maar met inbegrip van de hydranten;<br>
+e) omgevingswerken, namelijk werken aan :<br>
+1) groenvoorzieningen;<br>
+2) verhardingen voor niet-gemotoriseerd verkeer en recreatief gebruik;<br>
+3) al dan niet vast straatmeubilair en speeltuigen;<br>
+4) vaste constructies voor plant-, water- en speelvakken;<br>
+5) andere bijkomende werken, zoals plaatselijke draineringen, beperkte parkeeroppervlakten, met uitsluiting van werken van burgerlijke bouwkunde;<br>
 11° instandhouding : de investering in de renovatie, verbetering of aanpassing van bestaande woningen, gebouwen of niet-residentiële ruimten;<br>
 12° Kaderbesluit Sociale Huur : het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode;<br>
 13° minister : de Vlaamse minister, bevoegd voor wonen;<br>
@@ -143,7 +153,7 @@ a) de aanleg of aanpassing van wooninfrastructuur, in het bijzonder :<br>
 1) bouwrijp maken van gronden en, alleen voor verrichtingen voor de realisatie en de instandhouding van sociale koopwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2, sloop van de aanwezige constructies;<br>
 2) uitvoering van infrastructuurwerken;<br>
 3) oprichting van gemeenschapsvoorzieningen;<br>
-4) uitvoering van aanpassingswerken aan de woonomgeving;<br>
+4) ...;<br>
 b) ...;<br>
 c) ...;<br>
 3° verwervingen voor de realisatie van sociale huurwoningen waarvoor aan de initiatiefnemers een tussenkomst in de prefinanciering verstrekt kan worden.</p>
@@ -359,8 +369,8 @@ Het minimumaandeel sociale huurwoningen van het gemengd sociaal woonproject, ver
 
 ### ART. 14.
 
-<p>§ 1. Voor de verrichtingen, vermeld in artikel 4, § 1, 2°, a), 2), 3) en 4), is het bedrag waarop de tenlasteneming berekend wordt, gelijk aan de som, inclusief btw, van :<br>
-1° de kostprijs van de uitvoering van de infrastructuurwerken, van de oprichting van de gemeenschapsvoorzieningen of van de uitvoering van de aanpassingswerken aan de woonomgeving, vermeld in paragraaf 2;<br>
+<p>§ 1. Voor de verrichtingen, vermeld in artikel 4, § 1, 2°, a), 2) en 3), is het bedrag waarop de tenlasteneming berekend wordt, gelijk aan de som, inclusief btw, van :<br>
+1° de kostprijs van de uitvoering van de infrastructuurwerken of van de oprichting van de gemeenschapsvoorzieningen, vermeld in paragraaf 2;<br>
 2° de algemene kosten, vermeld in artikel 13, § 3;<br>
 3° de contractuele prijsherzieningen.</p>
 
@@ -368,16 +378,14 @@ Het minimumaandeel sociale huurwoningen van het gemengd sociaal woonproject, ver
 
 <p>De kostprijs van de oprichting van de gemeenschapsvoorzieningen is gelijk aan de reële kostprijs voor de oprichting van de gemeenschapsvoorzieningen.</p>
 
-<p>De kostprijs van de uitvoering van de aanpassingswerken aan de woonomgeving is gelijk aan de reële kostprijs voor de uitvoering van de aanpassingswerken aan de woonomgeving.</p>
-
 <p>Magazijnkosten, beheer- en coördinatiekosten, vervoerskosten, alsook eventuele kosten voor de uitvoering van archeologisch vooronderzoek met ingreep in de bodem of van verplichte archeologische opgravingen, maken deel uit van de kostprijs, vermeld in het eerste lid.</p>
 
 <p>§ 3. De tenlasteneming wordt als volgt berekend :<br>
 1° als de verrichting betrekking heeft op de realisatie of de instandhouding van sociale huurwoningen binnen een bestaande woonkern of op de realisatie of de instandhouding van sociale huurwoningen, sociale koopwoningen of bescheiden huurwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2, binnen een bestaande woonkern, bedraagt de tenlasteneming 100% van het bedrag, vermeld in paragraaf 1;<br>
-2° als de verrichting betrekking heeft op de realisatie of de instandhouding van sociale huurwoningen buiten een bestaande woonkern en deel uitmaakt van een gemengd sociaal woonproject dat voor minstens een derde en voor hoogstens twee derde uit sociale koopwoningen of bescheiden huurwoningen, en voor het overige uit sociale huurwoningen bestaat, bedraagt de tenlasteneming 100 % van het bedrag, vermeld in paragraaf 1;<br>
+2° ...;<br>
 3° als de verrichting betrekking heeft op de realisatie of de instandhouding van sociale huurwoningen buiten een bestaande woonkern of op de realisatie of de instandhouding van sociale huurwoningen, sociale koopwoningen of bescheiden huurwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2, buiten een bestaande woonkern, bedraagt de tenlasteneming 80% van het bedrag, vermeld in paragraaf 1;<br>
 4° ...;<br>
-5° als de verrichting deel uitmaakt van een renovatieproject voor woningen van een wijk of buurt waaraan de initiatiefnemer deelneemt door een of meer woningen in de wijk of buurt die hem toebehoren, te renoveren, bedraagt de tenlasteneming 60 % van het bedrag, vermeld in paragraaf 1;<br>
+5° ...;<br>
 6° het gedeelte van een technisch ondeelbare verrichting die andere gemeenschappelijke belangen dan de belangen van de sociale huurwoningen die tot het project behoren, of de belangen van de sociale huurwoningen, sociale koopwoningen of bescheiden huurwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2, ten goede komt, wordt ten laste genomen voor 60 %;<br>
 7° een verrichting die enerzijds de belangen van de sociale huurwoningen die tot het project behoren&nbsp;of de belangen van de sociale huurwoningen, sociale koopwoningen of bescheiden huurwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2, en anderzijds andere gemeenschappelijke belangen of private belangen ten goede komt, wordt ten laste genomen op basis van door de minister vastgestelde criteria voor evenredige verdeling.</p>
 
@@ -399,8 +407,8 @@ Als het een verrichting voor de realisatie van sociale koopwoningen in een gemen
 
 <p>Als een verrichting enerzijds de belangen van de sociale huurwoningen die tot het project behoren&nbsp;of de belangen van de sociale huurwoningen, sociale koopwoningen of bescheiden huurwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2, en anderzijds andere gemeenschappelijke belangen of private belangen ten goede komt, wordt de subsidie berekend op basis van de door de minister vastgestelde criteria voor evenredige verdeling.</p>
 
-<p>§ 2. Voor de verrichtingen, vermeld in artikel 4, § 1, 2°, a), 2), 3) en 4), is het subsidiabele bedrag gelijk aan de som, inclusief de niet-aftrekbare btw, van :<br>
-1° de kostprijs van de uitvoering van de infrastructuurwerken, van de oprichting van de gemeenschapsvoorzieningen of van de uitvoering van de aanpassingswerken aan de woonomgeving, vermeld in artikel 14, § 2;<br>
+<p>§ 2. Voor de verrichtingen, vermeld in artikel 4, § 1, 2°, a), 2) en 3), is het subsidiabele bedrag gelijk aan de som, inclusief de niet-aftrekbare btw, van :<br>
+1° de kostprijs van de uitvoering van de infrastructuurwerken of van de oprichting van de gemeenschapsvoorzieningen, vermeld in artikel 14, § 2;<br>
 2° de algemene kosten, forfaitair vastgesteld op 10 % van de kostprijs, inclusief de contractuele prijsherzieningen.<br>
 <br>
 Als het een verrichting voor de realisatie van sociale koopwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2, betreft, wordt de som, vermeld in het eerste lid, verhoogd met het gedeelte van de verschuldigde btw op de verkoopprijs van de sociale koopwoningen als gevolg van de verrekening van de subsidie met de verkoopprijs voor de berekening van de btw.<br>
@@ -411,7 +419,7 @@ De subsidie wordt berekend overeenkomstig artikel 14, § 3, eerste lid, met dien
 a) 20.000 euro, inclusief btw, in geval van&nbsp;een openbare of niet-openbare procedure overeenkomstig de overheidsopdrachtenwetgeving;<br>
 b) 16.000 euro, inclusief btw, in andere gevallen.</p>
 
-<p>Als voor een verrichting als vermeld in artikel 4, § 1, 2°, a), 2), 3) of 4), zowel tenlastenemingen als subsidies verleend worden, is een cumulatie mogelijk tot een maximumbedrag van 20.000 euro, inclusief btw, per bestaande of toekomstige sociale huurwoning&nbsp;of per bestaande of toekomstige sociale huurwoning, sociale koopwoning of bescheiden huurwoning in een gemengd sociaal woonproject als vermeld in artikel 12/2, met ontsluiting via de aan te leggen of aan te passen wooninfrastructuur, a rato van het deel of de delen van de verrichting waarvoor de procedure van een openbare of niet-openbare procedure overeenkomstig de overheidsopdrachtenwetgeving wordt toegepast.</p>
+<p>Als voor een verrichting als vermeld in artikel 4, § 1, 2°, a), 2) of 3), zowel tenlastenemingen als subsidies verleend worden, is een cumulatie mogelijk tot een maximumbedrag van 20.000 euro, inclusief btw, per bestaande of toekomstige sociale huurwoning&nbsp;of per bestaande of toekomstige sociale huurwoning, sociale koopwoning of bescheiden huurwoning in een gemengd sociaal woonproject als vermeld in artikel 12/2, met ontsluiting via de aan te leggen of aan te passen wooninfrastructuur, a rato van het deel of de delen van de verrichting waarvoor de procedure van een openbare of niet-openbare procedure overeenkomstig de overheidsopdrachtenwetgeving wordt toegepast.</p>
 
 <p>Op gemotiveerd verzoek van de initiatiefnemer en na advies van de VMSW kan de minister beslissen dat de som van de tenlastenemingen en subsidies, respectievelijk berekend overeenkomstig artikel 14, § 3, eerste lid, en het derde lid van deze paragraaf, het maximumbedrag, vermeld in het vierde lid, met ten hoogste 50 % mag overschrijden. In zijn verzoek licht de initiatiefnemer toe welke elementen tot een overschrijding van het maximumbedrag leiden en om welke redenen het Vlaamse Gewest de overschrijding toch ten laste zou moeten nemen of zou moeten subsidiëren.</p>
 
@@ -438,7 +446,11 @@ Per begrotingsjaar kan de minister slechts overschrijdingen van de   maximumbedr
 
 ### ART. 18.
 
-<P>De grond waarin of waarop de verrichtingen, vermeld in artikel 4, § 1, 2°,   a), 2) en 4), worden uitgevoerd, en de wooninfrastructuur zelf worden uiterlijk   twaalf maanden na de voorlopige oplevering van de weg- en   rioleringswerkzaamheden&nbsp;aan de gemeente overgedragen om in het gemeentelijk   openbaar domein te worden opgenomen.<BR><BR>De initiatiefnemer kan de   gemeenschapsvoorzieningen overeenkomstig artikel 65, tweede lid van de Vlaamse   Wooncode, binnen de termijn, vermeld in het eerste lid, aan de gemeente   overdragen om in het gemeentelijk openbaar domein te worden   opgenomen.<BR><BR></P>  <P>De overdracht, vermeld in het eerste en het tweede&nbsp;lid, wordt geregeld   bij akte, verleden door een notaris, als de gemeente in kwestie daarmee instemt,   of door de burgemeester met toepassing van artikel 9 van de wet van 27 mei 1870   houdende vereenvoudiging van de administratieve formaliteiten inzake onteigening   voor openbaar nut, en op basis van een opmetingsplan van de   initiatiefnemer.</P>
+<p>De grond waarin of waarop de infrastructuurwerken worden uitgevoerd, en de wooninfrastructuur zelf worden uiterlijk twaalf maanden na de voorlopige oplevering van de weg- en rioleringswerkzaamheden&nbsp;aan de gemeente overgedragen om in het gemeentelijk openbaar domein te worden opgenomen.<br>
+<br>
+De initiatiefnemer kan de gemeenschapsvoorzieningen overeenkomstig artikel 65, tweede lid van de Vlaamse Wooncode, binnen de termijn, vermeld in het eerste lid, aan de gemeente overdragen om in het gemeentelijk openbaar domein te worden opgenomen.</p>
+
+<p>De overdracht, vermeld in het eerste en het tweede&nbsp;lid, wordt geregeld bij akte, verleden door een notaris, als de gemeente in kwestie daarmee instemt, of door de burgemeester met toepassing van artikel 9 van de wet van 27 mei 1870 houdende vereenvoudiging van de administratieve formaliteiten inzake onteigening voor openbaar nut, en op basis van een opmetingsplan van de initiatiefnemer.</p>
 
 ### ART. 19.
 
