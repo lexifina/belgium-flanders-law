@@ -68,7 +68,7 @@ Een ontlener die al betalingsachterstand heeft opgelopen voor de start van de pe
 
 De kredietgever aanvaardt een daling van het inkomen als gevolg van de coronavirusmaatregelen of als gevolg van het ziekteverlof door het coronavirus als uitzonderlijk geval om een uitstel van betaling als vermeld in artikel 10, § 2, tweede lid, van het besluit van de Vlaamse Regering van 7 december 2018 tot instelling van een huurwaarborglening, toe te staan.<br>
 <br>
-De ontlener herneemt de terugbetaling van de huurwaarborglening vanaf de tweede maand na de beëindiging van de coronavirusmaatregelen. De kredietgever bezorgt de ontlener een aangepaste aflossingstabel.
+De ontlener krijgt in het geval, vermeld in het eerste lid, een betalingsuitstel tot ten laatste 31 december 2020. De kredietgever bezorgt de ontlener een aangepaste aflossingstabel.
 
 ## Afdeling 3. Verzekering gewaarborgd wonen
 
