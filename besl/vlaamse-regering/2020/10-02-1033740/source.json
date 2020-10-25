@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033740,
+  "title": "Besluit van de Vlaamse Regering van 2020-10-02 tot wijziging van het besluit van de Vlaamse Regering van 3 april 2020 houdende maatregelen voor de instrumenten van het Vlaamse woonbeleid ten gevolge van de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033740/VolledigDocument?datum=2020-10-25",
+  "source_sha256": "d9d7fa18ce0c0ad486dc70d494bba788018f743c7fecf3438f6fc5f51c8d7bfa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033740&param=informatie",
+  "as_of": "2020-10-25",
+  "made": "2020-10-02",
+  "gazette": "2020-10-15",
+  "numac": 2020043327,
+  "document_start": "2020-10-25",
+  "document_end": null,
+  "in_force": "2020-10-25",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-10-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
