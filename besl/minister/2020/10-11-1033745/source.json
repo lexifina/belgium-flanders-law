@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033745,
+  "title": "Ministerieel besluit van 2020-10-11 over de bepaling van de beleidsprioriteiten voor de participatieorganisatie voor de vijfjarige periode vanaf 1 maart 2021",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033745/VolledigDocument?datum=2020-10-26",
+  "source_sha256": "4fa674057f2aebb61d2e6946b7aff1f095209c026c8e7272b5be7075bb1cf50f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033745&param=informatie",
+  "as_of": "2020-10-26",
+  "made": "2020-10-11",
+  "gazette": "2020-10-16",
+  "numac": 2020043328,
+  "document_start": "2020-10-26",
+  "document_end": null,
+  "in_force": "2020-10-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-10-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
