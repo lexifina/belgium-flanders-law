@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033751,
+  "title": "Besluit van de Vlaamse Regering van 2020-09-25 tot toekenning van een investeringssubsidie voor grote culturele infrastructuur aan Konekt vzw voor het bouwen van De Inclusiehub te Gent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033751/VolledigDocument?datum=2020-10-29",
+  "source_sha256": "be75f54ded781b4b645843aa8b4b7e712dd459c6d4345b27cf15b592df288269",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033751&param=informatie",
+  "as_of": "2020-10-29",
+  "made": "2020-09-25",
+  "gazette": "2020-10-19",
+  "numac": 2020031511,
+  "document_start": "2020-10-29",
+  "document_end": null,
+  "in_force": "2020-10-29",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2020-10-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
