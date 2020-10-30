@@ -53,7 +53,17 @@ Het administratief basisdossier en het financieel plan wordt in het geval, verme
 
 ## Afdeling 2. Koninklijk besluit van 6 november 1979 tot vaststelling van de normen inzake beveiliging tegen brand en paniek waaraan ziekenhuizen moeten voldoen
 
+### ART 6.
+
+De termijn, vermeld in artikel 5 van het koninklijk besluit van 6 november 1979, wordt geschorst gedurende de periode van civiele noodsituatie.
+
 ## Afdeling 3. Besluit van de Vlaamse Regering van 5 juni 2009 tot vaststelling van de regels voor het verlenen van de voorafgaande vergunning voor sommige woonzorgvoorzieningen
+
+### ART 7.
+
+De termijnen, vermeld in artikel 4, tweede lid, artikel 5, § 1, eerste lid, en artikel 6, § 1, eerste lid, van het besluit van de Vlaamse Regering van 5 juni 2009 tot vaststelling van de regels voor het verlenen van de voorafgaande vergunning voor sommige woonzorgvoorzieningen, worden geschorst gedurende de periode van civiele noodsituatie.<br>
+<br>
+De termijnen, vermeld in artikel 7, § 1 en § 2, van het voormelde besluit, worden geschorst gedurende de periode van civiele noodsituatie voor de lokale dienstencentra, vermeld in artikel 9 en 10 van het Woonzorgdecreet van 15 februari 2019.
 
 ## Afdeling 4. Besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers
 
@@ -63,7 +73,19 @@ In afwijking van artikel 10, eerste lid, 7°, van het besluit van 5 juni 2009 le
 <br>
 Het bewijs dat de voorziening voldoende brandveiligheidsmaatregelen heeft getroffen, wordt in voorkomend geval uiterlijk op 31 december 2021 aan het agentschap Zorg en Gezondheid bezorgd. In de tussenliggende periode moet de initiatiefnemer de veiligheid maximaal waarborgen in overeenstemming met de brandveiligheidsvoorschriften.
 
+### ART 11.
+
+De termijnen, vermeld in artikel 5, 6, tweede lid, artikel 7, eerste lid, artikel 8, eerste lid, artikel 12, eerste lid, artikel 13, eerste lid, artikel 24, 35, vierde lid, en artikel 40 van het besluit van 5 juni 2009, worden geschorst gedurende de periode van civiele noodsituatie.<br>
+<br>
+Voor de toepassing van artikel 6, eerste lid, van het voormelde besluit, geldt de termijn, vermeld in artikel 5 van het voormelde besluit, zoals die in voorkomend geval geschorst is conform het eerste lid.<br>
+<br>
+Voor de toepassing van artikel 18, derde lid, van het voormelde besluit, gelden de termijnen, vermeld in artikel 5, 6, tweede lid, artikel 7, eerste lid, en artikel 8, eerste lid, van het voormelde besluit, zoals ze in voorkomend geval geschorst zijn conform het eerste lid.
+
 ## Afdeling 5. Besluit van de Vlaamse Regering van 9 december 2011 tot vaststelling van de specifieke brandveiligheidsnormen waaraan lokale dienstencentra, centra voor dagverzorging, centra voor dagopvang, centra voor kortverblijf, centra voor herstelverblijf, groepen van assistentiewoningen en woonzorgcentra moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen
+
+### ART 14.
+
+De termijnen, vermeld in artikel 7, tweede en derde lid, artikel 8, § 1, tweede en derde lid, § 2, eerste lid, § 4, tweede en derde lid, en § 5, tweede en derde lid, artikel 9, tweede en derde lid, en artikel 10, § 2, derde lid, en § 3, derde lid, van het besluit van 9 december 2011, worden geschorst gedurende de periode van civiele noodsituatie.
 
 ## Afdeling 6. Besluit van de Vlaamse Regering van 25 april 2014 tot vaststelling van de procedures voor de gezondheidszorgvoorzieningen
 
@@ -111,6 +133,12 @@ De initiatiefnemer meldt uiterlijk op 31 januari 2023 aan het agentschap Zorg en
 
 ## Afdeling 8. Besluit van de Vlaamse Regering van 18 december 2020 tot vastlegging van de procedure voor het verlenen van voorafgaande vergunningen en planningsvergunningen voor lokale dienstencentra, centra voor dagopvang van een dienst voor gezinszorg, centra voor dagverzorging, centra voor kortverblijf, centra voor herstelverblijf of woonzorgcentra, en tot bepaling van de elementen van de globale zorgstrategische visie voor deze voorafgaande vergunningen
 
+### ART 23.
+
+De termijnen, vermeld in artikel 4, tweede lid, artikel 5, § 1, eerste lid, en artikel 7, § 1, eerste lid, van het besluit van 18 december 2020, worden geschorst gedurende de periode van civiele noodsituatie.<br>
+<br>
+De termijnen, vermeld in artikel 8, § 1 en § 2, van het voormelde besluit, worden geschorst gedurende de periode van civiele noodsituatie voor de lokale dienstencentra, vermeld in artikel 9 en 10 van het Woonzorgdecreet van 15 februari 2019, en de centra voor kortverblijf type 2, vermeld in artikel 26, § 1, tweede lid, 2°, van het voormelde decreet.
+
 ## HOOFDSTUK 3. Opgroeien
 
 ## Afdeling 1. Procedurebesluit van 9 mei 2014
@@ -120,6 +148,10 @@ De initiatiefnemer meldt uiterlijk op 31 januari 2023 aan het agentschap Zorg en
 In afwijking van artikel 14, 5°, van het Procedurebesluit van 9 mei 2014 leidt het gebrek aan brandveiligheidsattest A of B niet tot de onontvankelijkheid van de aanvraag van een vergunning die is ingediend in de periode van 20 maart 2020 tot en met 30 september 2021.<br>
 <br>
 In voorkomend geval bezorgt de organisator het bewijs dat hij aan de specifieke brandveiligheidsvoorschriften voldoet aan het agentschap Opgroeien regie onmiddellijk nadat hij het brandveiligheidsattest van de burgemeester ontvangt en uiterlijk op 31 december 2021. In de tussenliggende periode moet de organisator de veiligheid maximaal waarborgen in overeenstemming met de brandveiligheidsvoorschriften.
+
+### ART 26.
+
+De termijn, vermeld in artikel 37 en 40 van het Procedurebesluit van 9 mei 2014, wordt geschorst gedurende de periode van civiele noodsituatie.
 
 ### ART 27.
 
@@ -147,6 +179,10 @@ In afwijking van artikel 15, 3° van het Procedurebesluit Buitenschoolse Opvang 
 <br>
 In voorkomend geval bezorgt de organisator het bewijs dat hij voldoet aan de specifieke brandveiligheidsvoorschriften aan het agentschap Opgroeien regie onmiddellijk nadat hij het brandveiligheidsattest van de burgemeester ontvangt en uiterlijk op 31 december 2021. In de tussenliggende periode moet de organisator de veiligheid maximaal waarborgen in overeenstemming met de brandveiligheidsvoorschriften.
 
+### ART 29.
+
+De termijn, vermeld in artikel 44 en 47 van het Procedurebesluit Buitenschoolse Opvang van 19 december 2014, wordt geschorst gedurende de periode van civiele noodsituatie.
+
 ### ART 30.
 
 § 1. In afwijking van de geldigheidsduur, vermeld in de artikelen 43, 1° en 2°, van het Procedurebesluit Buitenschoolse Opvang van 19 december 2014, geldt naar aanleiding van de periode van civiele noodsituatie de regeling, vermeld in paragraaf 2 tot en met 6, voor de geldigheidsduur van het brandveiligheidsattest.<br>
@@ -162,6 +198,12 @@ In afwijking van het eerste lid worden het brandveiligheidsattest maar verlengd 
 § 4. In de periode waarvoor de verlenging van de geldigheidsduur van het brandveiligheidsattest conform paragraaf 2 en 3 is verlengd, leeft de organisator de toepasselijke brandveiligheidsvoorschriften na.
 
 ## HOOFDSTUK 4. Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat)pleegzorgers
+
+### ART 31.
+
+In afwijking van artikel 10 en 23/3, tweede lid, van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat)pleegzorgers kan de voorzitter van de kamer in kwestie beslissen om een schriftelijke procedure te volgen gedurende de periode van civiele noodsituatie. In dat geval geeft de voorzitter van de kamer de indiener van het bezwaar, en, naargelang het geval, de bevoegde entiteit, Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin en de diensten voor pleegzorg de mogelijkheid om bijkomende argumenten schriftelijk te bezorgen binnen de termijnen die hij daarvoor bepaalt.<br>
+<br>
+In de gevallen, vermeld in het eerste lid, gebeurt de beraadslaging en de stemming, vermeld in artikel 9 en 13 van het voormelde besluit, op elektronische wijze.
 
 ## HOOFDSTUK 5. Wijzigingsbepalingen
 
