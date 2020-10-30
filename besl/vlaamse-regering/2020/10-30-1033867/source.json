@@ -2,16 +2,16 @@
   "codex_id": 1033867,
   "title": "Besluit van de Vlaamse Regering van 2020-10-30 houdende diverse dringende maatregelen in onderwijs ingevolge COVID-19 en tot wijziging van het besluit van de Vlaamse regering van 4 september 2020 tot toekenning van extra werkingsbudget voor de scholen van het gewoon en buitengewoon basis- en secundair onderwijs, de CLB 's en de internaten omwille van de genomen maatregelen en hieraan verbonden extra onkosten gemaakt door de scholen tegen verspreiding van COVID-19 voor de periode september-december 2020",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033867/VolledigDocument?datum=2020-10-01",
-  "source_sha256": "368fbb84d1798fde5f7b600ff2fe3beff986e309acde23be61584eae575adfe4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033867/VolledigDocument?datum=2020-10-30",
+  "source_sha256": "65d8df785c346a079b552ccc7bcea7f8434e038a96f830258dd83afd01c3a89c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033867&param=informatie",
-  "as_of": "2020-10-01",
+  "as_of": "2020-10-30",
   "made": "2020-10-30",
   "gazette": "2020-11-23",
   "numac": 2020043681,
   "document_start": "2020-10-30",
   "document_end": null,
-  "in_force": "2020-10-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2020-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-10-30",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2020-10-30; future article versions excluded; article text as the API gives it"
 }

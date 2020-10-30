@@ -33,9 +33,49 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In afwijking van artikel 4, punt 2°, van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs en in het deeltijds onderwijs georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap, loopt ingevolge de coronapandemie de herfstvakantie in het schooljaar 2020-2021 van maandag 2 november tot en met de datum die door de minister van Onderwijs is vastgelegd conform artikel 12.<br>
+<br>
+Deze verlenging van de herfstvakantie kan nooit tot gevolg hebben dat in de regelgeving vastgelegde rechten van leerlingen, verminderd worden ten opzichte van een schooljaar met een herfstvakantie van normale duur.
+
+### ART 2.
+
+In afwijking van artikel 7, punt 1°, van het besluit van de Vlaamse Regering van 31 augustus 2001 houdende de organisatie van het schooljaar in het secundair onderwijs, loopt ingevolge de coronapandemie de herfstvakantie in het schooljaar 2020-2021 van maandag 2 november tot en met de datum die door de minister van Onderwijs is bepaald conform artikel 12.<br>
+<br>
+Deze verlenging van de herfstvakantie kan nooit tot gevolg hebben dat in de regelgeving vastgelegde rechten van leerlingen, verminderd worden ten opzichte van een schooljaar met een herfstvakantie van normale duur.
+
+### ART 3.
+
+In afwijking van artikel 8ter, 2°, van het Besluit van de Vlaamse Regering van 21 september 2007 tot regeling van een aantal aangelegenheden voor de Centra voor Volwassenenonderwijs in uitvoering van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, loopt ingevolge de coronapandemie de herfstvakantie in het schooljaar 2020-2021 van maandag 2 november tot en met de datum die door de minister van Onderwijs is bepaald conform artikel 12.<br>
+<br>
+De lestijden van de geplande lessen op de extra vakantiedagen van de verlengde herfstvakantie in 2020 worden niet meegeteld voor de berekening van de maximale afwijking van 8% bij de aanwending van de onderwijstijd.
+
+### ART 4.
+
+In afwijking van artikel 11 van het Besluit van de Vlaamse Regering van 3 juli 2009 met betrekking tot de prestatieregeling en de jaarlijkse verlofdagen en feestdagen van de personeelsleden van de Centra voor Basiseducatie, heeft een personeelslid ook recht op de extra vakantiedagen van de verlengde herfstvakantie in 2020.<br>
+<br>
+De lestijden van de geplande lessen op de extra vakantiedagen worden niet meegeteld voor de berekening van de maximale afwijking van 8% bij de aanwending van de onderwijstijd.
+
+### ART 5.
+
+In afwijking van artikel 3, 5°, c), van het besluit van de Vlaamse Regering van 13 februari 2015 tot bepaling van de inhoud van het gemotiveerd verslag en van het attest bij het verslag voor toegang tot een individueel aangepast curriculum in een school voor gewoon onderwijs of tot het buitengewoon onderwijs, kan in het schooljaar 2021-2022 de ingangsdatum van een attestwijziging ook in de loop van dat schooljaar.<br>
+<br>
+Deze afwijking is op voorwaarde van een algemene lockdown of de veiligheidsmaatregelen die ervoor zorgen dat externe diagnostische centra in de loop van het schooljaar 2020-2021 niet in de mogelijkheid zijn om tijdig classificerende diagnoses af te leveren.
+
+### ART 6.
+
+In afwijking van artikel 1, § 3 van het besluit van de Vlaamse Regering van 30 augustus 2016 betreffende de organisatie van stages en sociaal-maatschappelijke trainingen in het buitengewoon secundair onderwijs, dient voor het schooljaar 2020-2021 niet voldaan te worden aan de minimale duur van de verplichte individuele leerlingenstage tijdens de kwalificatiefase in opleidingsvorm 3.
+
 ### ART 7.
 
 In afwijking van het laatste lid van artikel 41 van het besluit van de Vlaamse Regering van 4 mei 2018 betreffende het opleidingsaanbod, de organisatie, de personeelsformatie, de inning van het inschrijvingsgeld en de certificering van het deeltijds kunstonderwijs kan een academie alle niet in het schooljaar 2020-2021 opgebruikte middelen voor voordrachtgevers overdragen naar het krediet van het volgende schooljaar indien de veiligheidsmaatregelen voordrachten onmogelijk maken.
+
+### ART 8.
+
+In afwijking van artikel 26, punt 2°, van het besluit van de Vlaamse Regering van 4 mei 2018 betreffende het opleidingsaanbod, de organisatie, de personeelsformatie, de inning van het inschrijvingsgeld en de certificering van het deeltijds kunstonderwijs, loopt ingevolge de coronapandemie de herfstvakantie in het schooljaar 2020-2021 van maandag 2 november tot en met de datum die door de minister van Onderwijs is bepaald conform artikel 12.<br>
+<br>
+Deze verlenging van de herfstvakantie kan nooit tot gevolg hebben dat in de regelgeving vastgelegde rechten van leerlingen, verminderd worden ten opzichte van een schooljaar met een herfstvakantie van normale duur.
 
 ### ART 9.
 
@@ -45,3 +85,31 @@ In artikel 2 van het besluit van de Vlaamse Regering van 4 september 2020 tot to
 1° internaten vermeld in de artikelen III.21 en III.35, van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, voor wat betreft hun openstelling op schooldagen;<br>
 2° internaten buitengewoon onderwijs vermeld in hoofdstuk 4, afdeling 1, onderafdeling 2, van dezelfde codificatie.<br>
 3° internaten met permanente openstelling vermeld in hoofdstuk 6, van dezelfde codificatie."
+
+### ART 10.
+
+In artikel 3 van hetzelfde besluit, wordt de vijfde paragraaf vervangen door wat volgt:<br>
+<br>
+" § 5. Er wordt voorzien in een extra budget van maximaal 2.083.000 euro voor de organisatie van uitzonderlijke opvang in de instellingen, vermeld in artikel 2, vierde streepje.<br>
+<br>
+Het bedrag per instelling wordt berekend door per halve schooldag het aantal aanwezige internen te vermenigvuldigen met 50 euro.<br>
+<br>
+De meerkosten dienen te worden verantwoord naar AGODI toe."
+
+### ART 11.
+
+Binnen de machtiging gegeven aan de Vlaamse Regering in artikel 135 van het Decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs kunnen academies, als beslissingen, richtlijnen of veiligheidsmaatregelen in het kader van de coronapandemie dit vereisen, in het schooljaar 2020-2021 de tijdelijke onderbrenging van leerlingen in gebouwen buiten de bestaande vestigingsplaats melden aan het Agentschap van Onderwijsdiensten zonder dat de Vlaamse Regering hiervoor toelating moet geven. De onderbrenging eindigt uiterlijk op 31 augustus 2021.
+
+### ART 12.
+
+In afwijking van de besluiten vermeld in artikelen 1,2,3,4 en 8, bepaalt de Vlaamse minister van Onderwijs de einddatum van de Herfstvakantie in 2020 bij Ministerieel Besluit.
+
+### ART 13.
+
+Dit besluit treedt in werking op de datum van de goedkeuring.<br>
+<br>
+De artikelen 7 en 9 hebben uitwerking met ingang van 1 oktober 2020.
+
+### ART 14.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
