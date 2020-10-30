@@ -86,9 +86,11 @@ Het bedrag van 22.014.000 euro is als volgt verdeeld:<br>
 <br>
 § 4. Voor de CLB's wordt voorzien in extra budget voor hun opdracht in contact-tracing, hiervoor wordt een extra budget toegekend van 1.304.000 euro. Het bedrag wordt verdeeld op basis van de reële omkadering van de CLB's.<br>
 <br>
-§ 5. Er wordt voorzien in een extra budget van maximaal 2.083.000 euro m.b.t. de uitzonderlijke opvang voor internaten. De meerkosten dienen te worden verantwoord naar AGODI toe.<br>
+§ 5. Er wordt voorzien in een extra budget van maximaal 2.083.000 euro voor de organisatie van uitzonderlijke opvang in de instellingen, vermeld in artikel 2, vierde streepje.<br>
 <br>
-Voor de organisatie van de bijkomende opvang wordt 100 euro per volledige dag (50 euro voor een halve dag) per interne binnen de onderwijsinternaten ter beschikking gesteld en 25 euro voor de MPIGO/IPO (12,5 euro voor een halve dag).<br>
+Het bedrag per instelling wordt berekend door per halve schooldag het aantal aanwezige internen te vermenigvuldigen met 50 euro.<br>
+<br>
+De meerkosten dienen te worden verantwoord naar AGODI toe.<br>
 <br>
 § 6. Voor de busbegeleiding wordt uitgegaan van meer ritten en langere ritduur pandemie-niveaus geel, oranje en rood, omdat de busritten in principe worden `gesplitst'. Dit betekent een extra personeelskost van 1.868.000 euro.
 
