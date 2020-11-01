@@ -2,16 +2,16 @@
   "codex_id": 1026101,
   "title": "Besluit van de Vlaamse Regering van 2015-10-02 betreffende het verlenen van subsidies voor [bebossing in herbevestigd agrarisch gebied en in agrarisch gebied vastgesteld in ruimtelijke uitvoeringsplannen en voor (verv. BVR 30 oktober 2020, art. 11, I: 1 november 2020)] herbebossing",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026101/VolledigDocument?datum=2015-11-30",
-  "source_sha256": "173c32a042a8c8126e5b0087dd8172e702f6414152b38d30deb353375ae7c9fc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026101/VolledigDocument?datum=2020-11-01",
+  "source_sha256": "035753e5470d6e7fce6fb45cfbeefc15fc0d65a2da43f17bdd8ad8074dfe4ecb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026101&param=informatie",
-  "as_of": "2015-11-30",
+  "as_of": "2020-11-01",
   "made": "2015-10-02",
   "gazette": "2015-11-20",
   "numac": 2015036319,
   "document_start": "2015-11-30",
   "document_end": null,
-  "in_force": "2015-11-30",
-  "article_versions": 27,
-  "record_form": "consolidated version as in force on 2015-11-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-11-01",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2020-11-01; future article versions excluded; article text as the API gives it"
 }

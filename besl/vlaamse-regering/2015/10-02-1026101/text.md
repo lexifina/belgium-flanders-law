@@ -8,7 +8,17 @@
 
 ### ART. 1.
 
-&nbsp;In dit besluit wordt verstaan   onder:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   agentschap: het Agentschap voor Natuur en Bos, opgericht bij het besluit van de   Vlaamse Regering van 23 december 2005 tot oprichting van het intern   verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Natuur   en Bos;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de bevoegde instantie van het beleidsdomein Landbouw en Visserij: het   Departement Landbouw en Visserij, opgericht bij besluit van de Vlaamse Regering   van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse   administratie;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   beheerplan: een beheersplan als vermeld in artikel 46 van het Bosdecreet van 13   juni 1990 of het beheerplan als vermeld in artikel 16bis van het decreet van 21   oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   collectieve wildbescherming: een techniek waarbij alle plantgoed gezamenlijk   beschermd wordt tegen schade door wild, door het beplante perceel volledig af te   rasteren;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   grond in landbouwgebruik: een grond die in de laatste verzamelaanvraag is   opgenomen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   individuele wildbescherming: een techniek waarbij elk stuk plantgoed apart   beschermd wordt tegen schade door wild;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   landbouwer: de landbouwer, vermeld in artikel 4, eerste lid, a), van verordening   (EU) nr. 1307/2013 van het Europees Parlement en de Raad van 17 december 2013   tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers   in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en   tot intrekking van Verordening (EG) nr. 637/2008 van de Raad en Verordening (EG)   nr. 73/2009 van de Raad, en die wordt beschouwd als een actieve landbouwer als   vermeld in artikel 9 van de voormelde verordening, en die een minimale   gezamenlijke oppervlakte van 2 ha aan landbouwgrond en grond die in het kader   van deze subsidieregeling bebost wordt aangeeft in de   verzamelaanvraag;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">8°   plantgoed van aanbevolen herkomst: het plantgoed van een boom- of struiksoort   die door het Instituut voor Natuur- en Bosonderzoek wordt aanbevolen voor   gebruik in het Vlaamse Gewest;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">9°   verzamelaanvraag: de verzamelaanvraag, vermeld in artikel 1, 24°, van het   besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de   voorschriften voor de betalingen aan landbouwers in het kader van de   steunregelingen van het gemeenschappelijk landbouwbeleid;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">10°   subsidie: subsidies in uitvoering van het Vlaams Programma voor   Plattelandsontwikkeling voor de programmeringsperiode 2014-2020 of in uitvoering   van artikel 87 van het bosdecreet.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+In dit besluit wordt verstaan onder:<br>
+1° agentschap: het Agentschap voor Natuur en Bos, opgericht bij het besluit van de Vlaamse Regering van 23 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Natuur en Bos;<br>
+2° de bevoegde instantie van het beleidsdomein Landbouw en Visserij: het Departement Landbouw en Visserij, opgericht bij besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+3° beheerplan: een beheersplan als vermeld in artikel 46 van het Bosdecreet van 13 juni 1990 of het beheerplan als vermeld in artikel 16bis van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+4° collectieve wildbescherming: een techniek waarbij alle plantgoed gezamenlijk beschermd wordt tegen schade door wild, door het beplante perceel volledig af te rasteren;<br>
+5° grond in landbouwgebruik: een grond die in de laatste verzamelaanvraag is opgenomen;<br>
+6° individuele wildbescherming: een techniek waarbij elk stuk plantgoed apart beschermd wordt tegen schade door wild;<br>
+7° landbouwer: de landbouwer, vermeld in artikel 4, eerste lid, a), van verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EG) nr. 637/2008 van de Raad en Verordening (EG) nr. 73/2009 van de Raad, en die wordt beschouwd als een actieve landbouwer als vermeld in artikel 9 van de voormelde verordening, en die een minimale gezamenlijke oppervlakte van 2 ha aan landbouwgrond en grond die in het kader van deze subsidieregeling bebost wordt aangeeft in de verzamelaanvraag;<br>
+8° aanbevolen herkomst: een herkomst van een boom- of struiksoort die via de lijst van aanbevolen herkomsten zoals opgesteld door het Instituut voor Natuur- en Bosonderzoek wordt aanbevolen voor gebruik in het Vlaamse gewest;<br>
+9° verzamelaanvraag: de verzamelaanvraag, vermeld in artikel 1, 24°, van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid;<br>
+10° subsidie: subsidies in uitvoering van het Vlaams Programma voor Plattelandsontwikkeling voor de programmeringsperiode 2014-2020 of in uitvoering van artikel 87 van het bosdecreet.
 
 ## [HOOFDSTUK 2 Subsidies voor bebossing in herbevestigd agrarisch gebied, in agrarisch gebied vastgesteld in ruimtelijke uitvoeringsplannen en herbebossing (verv. BVR 30 oktober 2020, art. 13, I: 1 november 2020)]
 
@@ -16,17 +26,16 @@
 
 ### ART. 2.
 
-Binnen   de beschikbare begrotingskredieten worden subsidies verleend voor het aanleggen   van een bebossing of een herbebossing. Het aanleggen van een bebossing of   herbebossing kan worden uitgevoerd door beplanting of door natuurlijke   verjonging.
+Binnen de beschikbare begrotingskredieten worden subsidies verleend voor het aanleggen van een bebossing in herbevestigd agrarisch gebied, in agrarisch gebied vastgesteld in ruimtelijke uitvoeringsplannen of een herbebossing. Het aanleggen van een bebossing in herbevestigd agrarisch gebied, in agrarisch gebied vastgesteld in ruimtelijke uitvoeringsplannen of herbebossing kan worden uitgevoerd door beplanting of door natuurlijke verjonging.
 
 ### ART. 3.
 
-<p>§ 1. Er kan een eenmalige subsidie verleend worden voor het aanleggen van een bebossing, met betrekking tot de volgende kosten:<br>
-1° de kosten voor beplanting. De subsidie bedraagt 3500 euro/ha. Als plantgoed van aanbevolen herkomst gebruikt wordt, wordt het subsidiebedrag verhoogd met toepassing van de volgende formule:<br>
-aandeel van het plantgoed van aanbevolen herkomst x (het aantal hectare x 250 euro)<br>
+<p>§ 1. Er kan een eenmalige subsidie verleend worden voor het aanleggen van een bebossing in herbevestigd agrarisch gebied of in agrarisch gebied vastgesteld in ruimtelijke uitvoeringsplannen, met betrekking tot de volgende kosten:<br>
+1° de kosten voor beplanting. De subsidie bedraagt 3500 euro/ha. Indien het gebruikte plantgoed via de handel wordt aangeschaft dan dient dit plantgoed voor de soorten in bijlage 3 voor minstens 75% van de beboste oppervlakte afkomstig te zijn van aanbevolen herkomsten. In dit geval bedraagt de subsidie 3750 euro;<br>
 2° de kosten voor het voorzien van een collectieve wildbescherming. De subsidie bedraagt 350 euro per 100 m raster;<br>
 3° de kosten voor het voorzien van een individuele wildbescherming. De subsidie bedraagt 0,65 euro per apart beschermingsstuk.<br>
 <br>
-§&nbsp;2. Er kan een subsidie verleend worden voor de kosten van het onderhoud en om het verlies aan inkomsten ten gevolge van de aangelegde bebossing gedurende de eerste twaalf jaar van de bebossing te compenseren. Die subsidie wordt gedurende twaalf jaar jaarlijks uitbetaald.</p>
+§&nbsp;2. Er kan een subsidie verleend worden voor de kosten van het onderhoud en om het verlies aan inkomsten ten gevolge van de aangelegde bebossing in herbevestigd agrarisch gebied of in agrarisch gebied vastgesteld in ruimtelijke uitvoeringsplannen gedurende de eerste twaalf jaar van de bebossing te compenseren. Die subsidie wordt gedurende twaalf jaar jaarlijks uitbetaald.</p>
 
 <p>Het bedrag van de subsidie voor de kosten van het onderhoud bedraagt 185 euro/ha/jaar gedurende de eerste vijf jaren. In de daaropvolgende jaren bedraagt de subsidie voor het onderhoud 75 euro/ha/jaar.</p>
 
@@ -36,13 +45,33 @@ aandeel van het plantgoed van aanbevolen herkomst x (het aantal hectare x 250 eu
 
 ### ART. 4.
 
-Er   kan een eenmalige subsidie verleend worden voor het aanleggen van een   herbebossing, met betrekking tot de volgende kosten:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de kosten voor beplanting. De subsidie bedraagt 3000 euro/ha. Als plantgoed van   aanbevolen herkomst gebruikt wordt, wordt het subsidiebedrag verhoogd met   toepassing van de volgende formule:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">aandeel   van het plantgoed van aanbevolen herkomst x (het aantal hectare x 250   euro)<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de kosten voor het voorzien van een collectieve wildbescherming. De subsidie   bedraagt 235 euro per 100 m raster;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de kosten voor het voorzien van een individuele wildbescherming. De subsidie   bedraagt 0,45 euro per apart beschermingsstuk.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Er kan een eenmalige subsidie verleend worden voor het aanleggen van een herbebossing, met betrekking tot de volgende kosten:<br>
+1° de kosten voor beplanting. De subsidie bedraagt 3000 euro/ha. Indien het gebruikte plantgoed via de handel wordt aangeschaft dan dient dit plantgoed voor de soorten in bijlage 3 voor minstens 75 % van het gebruikte aantal planten afkomstig te zijn van aanbevolen herkomsten. In dit geval bedraagt de subsidie 3250 euro;<br>
+2° de kosten voor het voorzien van een collectieve wildbescherming. De subsidie bedraagt 235 euro per 100 m raster;<br>
+3° de kosten voor het voorzien van een individuele wildbescherming. De subsidie bedraagt 0,45 euro per apart beschermingsstuk.
 
 ## Afdeling 2 Instapvoorwaarden om in aanmerking te komen voor subsidie
 
 ### ART. 5.
 
-<P>Om   in aanmerking te komen voor een subsidie voor de kosten voor beplanting, als   vermeld in artikel 3, § 1, 1°, of artikel 4, 1°, van dit besluit gelden de   volgende instapvoorwaarden:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de begunstigde van de subsidie is een privaatrechtelijke rechtspersoon, een   natuurlijke persoon of een andere publiekrechtelijke rechtspersoon dan de   federale staat of het Vlaamse Gewest;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het gaat om een grond in eigendom van de begunstigde, een grond waarop de   begunstigde een zakelijk recht heeft dat bebossing toestaat of een grond die de   begunstigde in pacht heeft conform de wet van 4 november 1969 tot wijziging van   de pachtwetgeving en van de wetgeving betreffende het recht van voorkoop ten   gunste van huurders van landeigendommen. In dat laatste geval geeft de   verpachter een schriftelijke verklaring waarin hij uitdrukkelijk instemt met de   bebossing van de gronden;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   in voorkomend geval beschikt de begunstigde over de wettelijk vereiste   vergunningen en adviezen voor de bebossing;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de begunstigde beschikt over een voorafgaand gunstig advies van het de bevoegde   instantie van het beleidsdomein Landbouw en Visserij betreffende de   verenigbaarheid van de aanvraag met de pachtwetgeving, als in een periode van   vijf jaar vóór de aanvraag, te rekenen vanaf de datum van de aanvraag van de   subsidie, de pacht van de percelen in kwestie door de verpachter is stopgezet of   als een procedure tot stopzetting is ingezet;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   de bebossing of herbebossing is, in voorkomend geval, in overeenstemming met het   beheerplan, de kapmachtiging als vermeld in artikel 50 en 81 van het Bosdecreet   van 13 juni 1990, het natuurrichtplan als vermeld in artikel 103 van het decreet   van &lt;datum&gt; tot wijziging van de regelgeving inzake natuur en bos, het   managementplan Natura 2000 als vermeld in artikel 50septies van het decreet van   21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu of het   managementplan als vermeld in artikel 48 van het decreet van 21 oktober 1997   betreffende het natuurbehoud en het natuurlijk milieu;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   de te bebossen of te herbebossen oppervlakte bedraagt minimaal 0,50 ha. In geval   van bebossing wordt de minimumoppervlakte verlaagd tot 0,25 ha als de bebossing   aansluit bij bestaand bos en dient als bosrandontwikkeling. Die oppervlakte kan   bestaan uit ruimtelijk gescheiden deeloppervlaktes van minimaal 10 are, op   voorwaarde dat die binnen een straal van één kilometer van elkaar   liggen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   de voorgenomen herbebossing wordt uitsluitend uitgevoerd met inheemse soorten,   opgenomen in de bijlage 1 die bij dit besluit is gevoegd. Alle soorten dienen   standplaatsgeschikt te zijn;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">8°   de voorgenomen bebossing wordt uitsluitend uitgevoerd met inheemse soorten,   opgenomen in de bijlage 1 die bij dit besluit is gevoegd, of met populier   gecombineerd met inheemse soorten opgenomen in de bijlage 1 die bij dit besluit   is gevoegd. Alle soorten dienen standplaatsgeschikt te zijn;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">9°   de voorgenomen bebossing of herbebossing bestaat uit minimaal twee boom- of   struiksoorten, en vanaf één hectare minimaal drie soorten, die elk minimaal 10%   van het plantaantal innemen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">10°   het betreft geen bebossing of herbebossing die als maatregel tot herstel door de   rechtbank is bevolen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">11°   het betreft geen compensatie zoals vermeld in artikel 90bis, § 2, van het   Bosdecreet van 13 juni 1990.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Om   in aanmerking te komen voor een subsidie voor de kosten voor het voorzien van   een collectieve of een individuele wildbescherming als vermeld in artikel 3, §   1, 2° en 3°, of artikel 4, 2° en 3°, gelden de volgende algemene   instapvoorwaarden:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de aanvraag voldoet aan de instapvoorwaarden voor een subsidie voor de kosten   voor beplanting, vermeld in het eerste lid;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de voorgenomen werkwijze en materialenkeuze zijn opgenomen in de   aanvraag.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Om in aanmerking te komen voor een subsidie voor de kosten voor beplanting, als vermeld in artikel 3, § 1, 1°, of artikel 4, 1°, van dit besluit gelden de volgende instapvoorwaarden:<br>
+1° de begunstigde van de subsidie is een privaatrechtelijke rechtspersoon, een natuurlijke persoon of een andere publiekrechtelijke rechtspersoon dan de federale staat of het Vlaamse Gewest;<br>
+2° het gaat om een grond in eigendom van de begunstigde, een grond waarop de begunstigde een zakelijk recht heeft dat bebossing toestaat of een grond die de begunstigde in pacht heeft conform de wet van 4 november 1969 tot wijziging van de pachtwetgeving en van de wetgeving betreffende het recht van voorkoop ten gunste van huurders van landeigendommen. In dat laatste geval geeft de verpachter een schriftelijke verklaring waarin hij uitdrukkelijk instemt met de bebossing van de gronden;<br>
+3° in voorkomend geval beschikt de begunstigde over de wettelijk vereiste vergunningen en adviezen voor de bebossing;<br>
+4° de begunstigde beschikt over een voorafgaand gunstig advies van het de bevoegde instantie van het beleidsdomein Landbouw en Visserij betreffende de verenigbaarheid van de aanvraag met de pachtwetgeving, als in een periode van vijf jaar vóór de aanvraag, te rekenen vanaf de datum van de aanvraag van de subsidie, de pacht van de percelen in kwestie door de verpachter is stopgezet of als een procedure tot stopzetting is ingezet;<br>
+5° de bebossing of herbebossing is, in voorkomend geval, in overeenstemming met het beheerplan, de kapmachtiging als vermeld in artikel 50 en 81 van het Bosdecreet van 13 juni 1990, het natuurrichtplan als vermeld in artikel 103 van het decreet van tot wijziging van de regelgeving inzake natuur en bos, het managementplan Natura 2000 als vermeld in artikel 50septies van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu of het managementplan als vermeld in artikel 48 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+6° de te bebossen of te herbebossen oppervlakte bedraagt minimaal 0,50 ha. In geval van bebossing wordt de minimumoppervlakte verlaagd tot 0,25 ha als de bebossing aansluit bij bestaand bos en dient als bosrandontwikkeling. Die oppervlakte kan bestaan uit ruimtelijk gescheiden deeloppervlaktes van minimaal 10 are, op voorwaarde dat die binnen een straal van één kilometer van elkaar liggen;<br>
+7° de voorgenomen herbebossing wordt uitsluitend uitgevoerd met inheemse soorten, opgenomen in de bijlage 1 die bij dit besluit is gevoegd. Alle soorten dienen standplaatsgeschikt te zijn;<br>
+8° de voorgenomen bebossing wordt uitsluitend uitgevoerd met inheemse soorten, opgenomen in de bijlage 1 die bij dit besluit is gevoegd, of met populier gecombineerd met inheemse soorten opgenomen in de bijlage 1 die bij dit besluit is gevoegd. Alle soorten dienen standplaatsgeschikt te zijn;<br>
+9° de voorgenomen bebossing of herbebossing bestaat uit minimaal twee boom- of struiksoorten, en vanaf één hectare minimaal drie soorten, die elk minimaal 10% van het plantaantal innemen;<br>
+10° het betreft geen bebossing of herbebossing die als maatregel tot herstel door de rechtbank is bevolen;<br>
+11° het betreft geen compensatie zoals vermeld in artikel 90bis, § 2, van het Bosdecreet van 13 juni 1990.</p>
+
+<p>Om in aanmerking te komen voor een subsidie voor de kosten voor het voorzien van een collectieve of een individuele wildbescherming als vermeld in artikel 3, § 1, 2° en 3°, of artikel 4, 2° en 3°, gelden de volgende algemene instapvoorwaarden:<br>
+1° de aanvraag voldoet aan de instapvoorwaarden voor een subsidie voor de kosten voor beplanting, vermeld in het eerste lid;<br>
+2° de voorgenomen werkwijze en materialenkeuze zijn opgenomen in de aanvraag.<br>
+<br>
+Om in aanmerking te komen voor een subsidie voor het aanleggen van een bebossing, als vermeld in artikel 3, moet de te bebossen grond gelegen zijn in herbevestigd agrarisch gebied of in agrarisch gebied vastgesteld in ruimtelijke uitvoeringsplannen.</p>
 
 ### ART. 6.
 
@@ -126,6 +155,10 @@ Het   besluit van de Vlaamse Regering van 14 november 2008 betreffende de subsid
 
 In   afwijking van artikel 15 en 16 blijven de volgende regelingen van toepassing op   de dossiers die zijn goedgekeurd ter uitvoering van die regelingen en die nog   lopen:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het besluit van de Vlaamse Regering van 14 november 2008 betreffende de   subsidiëring van de bebossing van landbouwgronden ter uitvoering van Verordening   (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor   plattelandsontwikkeling uit het Europees Landbouwfonds voor   Plattelandsontwikkeling (ELFPO);<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   hoofdstuk II van het besluit van de Vlaamse Regering van 27 juni 2003   betreffende de subsidiëring van beheerders van openbare en   privé-bossen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   het besluit van de Vlaamse Regering van 28 maart 2003 betreffende de   subsidiëring van de bebossing van landbouwgronden ter uitvoering van de   Verordening (EG) nr. 1257/99 van de Raad van 17 mei 1999 inzake steun voor   plattelandsontwikkeling uit het Europees Oriëntatie- en Garantiefonds voor de   Landbouw (EOGFL) en tot wijziging en instelling van een aantal   verordeningen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART 23bis.
+
+De minister, bevoegd voor Leefmilieu, wordt gemachtigd bijlage 3 bij dit besluit aan te passen.
+
 ### ART. 24.
 
 De   Vlaamse minister, bevoegd voor de landinrichting en het natuurbehoud, is belast   met de uitvoering van dit besluit.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
@@ -137,3 +170,135 @@ Overzicht   van de inheemse soorten<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none;
 ### BIJLAGE 2
 
 Bijlage   1 bij het besluit van de Vlaamse Regering van 27 juni 2003 betreffende de   subsidiëring van beheerders van openbare en privé-bossen<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Bijlage   1<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Lijst   van boomsoorten voor de subsidie ecologische bosfunctie<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>beuk (Fagus sylvatica)<BR></TD></TR>    <TR>      <TD>es (Fraxinus excelsior)<BR></TD></TR>    <TR>      <TD>fladderiep (Ulmus laevis)<BR></TD></TR>    <TR>      <TD>gewone esdoorn (Acer pseudoplatanus)<BR></TD></TR>    <TR>      <TD>gladde iep (Ulmus minor)<BR></TD></TR>    <TR>      <TD>grauwe abeel (Populus canescens)<BR></TD></TR>    <TR>      <TD>grove den (Pinus sylvestris)<BR></TD></TR>    <TR>      <TD>haagbeuk (Carpinus betulus)<BR></TD></TR>    <TR>      <TD>Hollandse linde (Tilia x vulgaris)<BR></TD></TR>    <TR>      <TD>ratelpopulier (Populus tremula)<BR></TD></TR>    <TR>      <TD>ruwe berk (Betula pendula)<BR></TD></TR>    <TR>      <TD>ruwe iep (Ulmus glabra)<BR></TD></TR>    <TR>      <TD>wilg (Salix alba, Salix fragilis en Salix x rubens)<BR></TD></TR>    <TR>      <TD>wintereik (quercus petraea)<BR></TD></TR>    <TR>      <TD>winterlinde (Tilia cordata)<BR></TD></TR>    <TR>      <TD>zachte berk (Betula pubescens)<BR></TD></TR>    <TR>      <TD>zoete kers (Prunus avium)<BR></TD></TR>    <TR>      <TD>zomereik (Quercus robur)<BR></TD></TR>    <TR>      <TD>zomerlinde (Tilia platyphyllos)<BR></TD></TR>    <TR>      <TD>zwarte els (Alnus glutinosa)<BR></TD></TR></TBODY></TABLE><BR   class=Apple-interchange-newline>
+
+### BIJLAGE 3
+
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Bijlage 3 Lijst van soorten met aanbevolen herkomsten</span></span></span><br>
+&nbsp;
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>beuk</td>
+			<td>Fagus sylvatica L.</td>
+		</tr>
+		<tr>
+			<td>bosroos</td>
+			<td>Rosa arvensis Huds.</td>
+		</tr>
+		<tr>
+			<td>eenstijlige meidoorn</td>
+			<td>Crataegus monogyna Jacq.</td>
+		</tr>
+		<tr>
+			<td>es</td>
+			<td>Fraxinus excelsior L.</td>
+		</tr>
+		<tr>
+			<td>Europese vogelkers</td>
+			<td>Prunus padus L.</td>
+		</tr>
+		<tr>
+			<td>fladderiep</td>
+			<td>Ulmus laevis Pallas.</td>
+		</tr>
+		<tr>
+			<td>Gelderse roos</td>
+			<td>Viburnum opulus L.</td>
+		</tr>
+		<tr>
+			<td>gewone esdoorn</td>
+			<td>Acer pseudoplatanus L.</td>
+		</tr>
+		<tr>
+			<td>grove den</td>
+			<td>Pinus sylvestris L.</td>
+		</tr>
+		<tr>
+			<td>haagbeuk</td>
+			<td>Carpinus betulus L.</td>
+		</tr>
+		<tr>
+			<td>hazelaar</td>
+			<td>Corylus avellana L.</td>
+		</tr>
+		<tr>
+			<td>hondsroos</td>
+			<td>Rosa canina L.</td>
+		</tr>
+		<tr>
+			<td>hulst</td>
+			<td>Ilex aquifolium L.</td>
+		</tr>
+		<tr>
+			<td>mispel</td>
+			<td>Mespilus germanica L.</td>
+		</tr>
+		<tr>
+			<td>rode kornoelje</td>
+			<td>Cornus sanguinea L.</td>
+		</tr>
+		<tr>
+			<td>sleedoorn</td>
+			<td>Prunus spinosa L.</td>
+		</tr>
+		<tr>
+			<td>Spaanse aak</td>
+			<td>Acer campestre L.</td>
+		</tr>
+		<tr>
+			<td>spork</td>
+			<td>Rhamnus frangula L.</td>
+		</tr>
+		<tr>
+			<td>wegedoorn</td>
+			<td>Rhamnus cathartica L.</td>
+		</tr>
+		<tr>
+			<td>wilde appel</td>
+			<td>Malus sylvestris (L.) Mill.</td>
+		</tr>
+		<tr>
+			<td>wilde kardinaalsmuts</td>
+			<td>Euonymus europaeus L.</td>
+		</tr>
+		<tr>
+			<td>wilde liguster</td>
+			<td>Ligustrum vulgare L.</td>
+		</tr>
+		<tr>
+			<td>wilde lijsterbes</td>
+			<td>Sorbus aucuparia L.</td>
+		</tr>
+		<tr>
+			<td>wintereik</td>
+			<td>Quercus petraea Lieblein</td>
+		</tr>
+		<tr>
+			<td>winterlinde</td>
+			<td>Tilia cordata Mill.</td>
+		</tr>
+		<tr>
+			<td>zoete kers</td>
+			<td>Prunus avium (L.) L.</td>
+		</tr>
+		<tr>
+			<td>zomereik</td>
+			<td>Quercus robur L.</td>
+		</tr>
+		<tr>
+			<td>zomerlinde</td>
+			<td>Tilia platyphyllos Scop.</td>
+		</tr>
+		<tr>
+			<td>zwarte els</td>
+			<td>Alnus glutinosa (L.) Gaertn.</td>
+		</tr>
+		<tr>
+			<td>zwarte populier</td>
+			<td>Populus nigra L.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
