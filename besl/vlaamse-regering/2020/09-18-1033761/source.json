@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033761,
+  "title": "Besluit van de Vlaamse Regering van 2020-09-18 tot wijziging van het besluit van de Vlaamse Regering van 12 december 2008 betreffende de biologische productie en de etikettering van biologische producten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033761/VolledigDocument?datum=2020-11-01",
+  "source_sha256": "94b6db749b3b9cb2e183f3722cd1b397e587ae605612d54a64767a2f73693829",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033761&param=informatie",
+  "as_of": "2020-11-01",
+  "made": "2020-09-18",
+  "gazette": "2020-10-22",
+  "numac": 2020015757,
+  "document_start": "2020-11-01",
+  "document_end": null,
+  "in_force": "2020-11-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2020-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
