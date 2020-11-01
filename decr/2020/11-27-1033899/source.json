@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033899,
+  "title": "Decreet van 2020-11-27 tot toekenning van een eenmalige toeslag in het kader van het gezinsbeleid naar aanleiding van de coronacrisis",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033899/VolledigDocument?datum=2020-11-01",
+  "source_sha256": "9e78d92d60ecf46e046d6a6b0a844dcc1f7540389be86563aa429a4b6aada1b1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033899&param=informatie",
+  "as_of": "2020-11-01",
+  "made": "2020-11-27",
+  "gazette": "2020-12-02",
+  "numac": 2020043882,
+  "document_start": "2020-11-01",
+  "document_end": null,
+  "in_force": "2020-11-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2020-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
