@@ -1218,7 +1218,8 @@ Natuurlijke personen en privaatrechtelijke rechtspersonen kunnen een aankoopsubs
 6° in de verkoopakte vermeld wordt dat de koper de grond aankoopt om die te laten erkennen als natuurreservaat en de vestiging van een erfdienstbaarheid tot algemeen nut op het terrein, meer bepaald een publiekrechtelijke erfdienstbaarheid van duurzaam gebruik en langdurig beheer van het terrein als natuurreservaat, vermeld in artikel 16quater decies, § 2 van het decreet, van toepassing is op deze grond;<br>
 7° uit de beoordeling, vermeld in artikel 34, § 1, eerste en tweede lid, van dit besluit, blijkt dat de grond die is aangekocht, de doelmatigheidstoets doorstaat;<br>
 8° in de maand die volgt op de aankoop van een grond, aan het agentschap een overzicht van de aangekochte gronden wordt bezorgd. De aanvrager kan het overzicht van de aankopen van verschillende maanden bundelen, met een maximum van twaalf maanden. In dat geval kan de subsidie pas worden verkregen nadat het gebundelde overzicht aan het agentschap is bezorgd;<br>
-9° de aanvrager de verbintenisvoorwaarden, vermeld in artikel 33, tweede lid, van dit besluit, onderschrijft.<br>
+9° de aanvrager de verbintenisvoorwaarden, vermeld in artikel 33, tweede lid, van dit besluit, onderschrijft;<br>
+10°. als de grond die is aangekocht, bebost zal worden, een overzicht van de kadasterpercelen in kwestie en een verklaring op erewoord dat de grond bebost zal worden binnen twee jaar.<br>
 <br>
 Het overzicht, vermeld in het eerste lid, 8°, bevat minstens de volgende gegevens:<br>
 1° het adres en minstens de kadastrale gegevens van de grond die is aangekocht;<br>
@@ -1280,6 +1281,8 @@ Binnen de perken van het budget wordt het bedrag van de aankoopsubsidie voor ied
 7° 30 % van het aankoopbedrag, inclusief alle kosten, voor de schijf groter dan 35.000 euro en kleiner dan of gelijk aan 40.000 euro per hectare;<br>
 8° 20 % van het aankoopbedrag, inclusief alle kosten, voor de schijf groter dan 40.000 euro en kleiner dan of gelijk aan 45.000 euro per hectare;<br>
 9° 10 % van het aankoopbedrag, inclusief alle kosten, voor de schijf groter dan 45.000 euro en kleiner dan of gelijk aan 50.000 euro per hectare.<br>
+<br>
+Als het terrein dat verworven wordt, bebost zal worden, bedraagt de aankoopsubsidie altijd 90 % van het aankoopbedrag, inclusief alle kosten, met een maximum subsidiebedrag van 5 euro/m<sup>2</sup>.<br>
 <br>
 Als het terreinen betreft die binnen een projectgebied liggen waarvoor restfinancieringssubsidies worden verkregen, komt alleen het gedeelte van de aankoopprijs, inclusief alle kosten, dat niet gedekt is door de Europese subsidiëring die wordt verleend voor de aankoop van dat terrein, in aanmerking voor subsidiëring als vermeld in dit besluit. Op dat gedeelte van de aankoopprijs, inclusief alle kosten, wordt in afwijking van het eerste lid een percentage van 100 % toegepast.<br>
 <br>
