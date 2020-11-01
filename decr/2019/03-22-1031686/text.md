@@ -31,6 +31,11 @@ In artikel 78, § 1, van hetzelfde decreet, ingevoegd bij het decreet van 4 juli
 2° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 "In afwijking van het eerste lid, 1°, b), wordt voor het begrotingsjaar 2020 voor de scholen die tellen conform artikel 87, § 1, onder leerlingenkenmerk 2 begrepen, het krijgen van een schooltoelage: er wordt een schooltoelage gegeven aan de leerling, als vermeld in het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap uitbetaald ten gunste van de leerling, hierna leerlingenkenmerk 2 te noemen. Voor de toepassing van dit artikel worden de leerlingen die alleen door ongewettigde afwezigheid of onvoldoende aanwezigheid geen recht op een schooltoelage hadden, ook meegerekend;".
 
+### ART 5.
+
+In artikel 133, § 1, van hetzelfde decreet, hersteld bij het decreet van 6 juli 2012, wordt punt b) vervangen door wat volgt:<br>
+"b) het krijgen van een selectieve participatietoeslag leerling: er wordt een selectieve participatietoeslag leerling uitbetaald ten gunste van de leerling, hierna leerlingenkenmerk 2 te noemen. Voor de toepassing van dit artikel worden de leerlingen die alleen door ongewettigde afwezigheid of onvoldoende aanwezigheid geen recht op een selectieve participatietoeslag hadden, ook meegerekend;".
+
 ## Afdeling 2. Wijzigingen van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap
 
 ### ART 6.
