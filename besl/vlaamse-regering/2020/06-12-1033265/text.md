@@ -116,6 +116,26 @@ De zorgraden nemen de volgende organisatorische en technische beveiligingsmaatre
 3° de technische en organisatorische maatregelen die worden genomen ter bescherming van de persoonsgegevens worden geaudit door een intern of extern auditteam;<br>
 4° het COVID-19-team geeft aan iedere persoon die ze contacteren of bezoeken, voor zover die nog niet over de informatie beschikt, de informatie die in de algemene verordening gegevensbescherming voorzien is over de verwerking van hun persoonsgegevens en informeert hen over waar ze die informatie kunnen terugvinden.
 
+### ART 6/6.
+
+Het agentschap is de entiteit, vermeld in artikel 6/3, § 1, eerste lid, en § 2, vierde lid, van het decreet van 29 mei 2020.
+
+### ART 6/7.
+
+Overeenkomstig artikel 6/3, § 2, achtste lid, van het decreet van 29 mei 2020 wordt het agentschap aangewezen als de verwerkingsverantwoordelijke voor de persoonsgegevens, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming. Het agentschap sluit, conform artikel 28, lid 3, van de voormelde verordening, een verwerkingsovereenkomst met het lokale bestuur dat de activiteiten, vermeld in artikel 6/3, § 1, eerste lid, van het voormelde decreet, verricht.
+
+### ART 6/8.
+
+De lokale besturen nemen de volgende organisatorische en technische beveiligingsmaatregelen voor de verwerking van persoonsgegevens in het kader van de opdrachten, vermeld in artikel 6/3, § 1, eerste lid, van het decreet van 29 mei 2020:<br>
+1° de medewerkers van de lokale besturen hebben een geheimhoudingsverklaring ondertekend, waarin hen wordt gewezen op het feit dat ze gehouden zijn tot het beroepsgeheim. Die geheimhoudingsverklaring vermeldt de verplichtingen waaraan de medewerkers moeten voldoen, en ook de mogelijke sancties die ze kunnen oplopen bij niet-naleving van het beroepsgeheim;<br>
+2° bij gegevensuitwisseling, het vaststellen van de technische en organisatorische maatregelen ter bescherming van de persoonsgegevens die genomen moeten worden, bij de definiëring en uitvoering van nieuwe verwerkingen van persoonsgegevens of bij aanpassingen aan de bestaande verwerkingen raadplegen de lokale besturen een veiligheidsteam, dat minstens is samengesteld uit de functionarissen voor gegevensbescherming van de lokale besturen en de functionaris voor gegevensbescherming van het agentschap;<br>
+3° de technische en organisatorische maatregelen die worden genomen ter bescherming van de persoonsgegevens, worden geaudit door een intern of extern auditteam;<br>
+4° de lokale besturen geven aan alle personen met wie ze contact opnemen of die ze bezoeken de informatie die in de algemene verordening gegevensbescherming voorzien is over de verwerking van persoonsgegevens, als die personen nog niet over die informatie beschikken. Ze melden aan die personen ook waar ze die informatie kunnen terugvinden.
+
+### ART 6/9.
+
+Overeenkomstig artikel 6/4, zesde lid, van het decreet van 29 mei 2020 wordt het agentschap aangewezen als de verwerkingsverantwoordelijke, in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming, voor de doorgifte van de persoonsgegevens, vermeld in artikel 6/4, derde en vierde lid, van het decreet van 29 mei 2020.
+
 ### ART 7.
 
 Dit besluit heeft uitwerking met ingang van 11 mei 2020.
