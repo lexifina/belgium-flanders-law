@@ -17,7 +17,7 @@ Besluit :
 
 ### ART 1.
 
-Ter uitvoering van artikel 89 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs bedraagt de werkingstoelage voor een centrum voor basiseducatie 1,9938 euro per lesuurcursist.
+...
 
 ### ART 2.
 
@@ -25,19 +25,15 @@ Ter uitvoering van artikel 108, § 2, van hetzelfde decreet bedraagt het vast be
 
 ### ART 3.
 
-De inschrijvingsgelden van het volwassenenonderwijs worden op de volgende wijze overgemaakt aan het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen:<br>
-1° uiterlijk op 1 maart van het eerste trimester van het begrotingsjaar n berekent het agentschap het verschil tussen de inschrijvingsgelden die het centrum in de periode september n-2 tot en met december n-2 heeft geïnd en 50% van de werkingstoelage waar het centrum voor het schooljaar n-1 - n recht op heeft;<br>
-2° uiterlijk op 31 maart n maakt het centrum waarvoor een positief resultaat is berekend, dat bedrag over aan het agentschap en ontvangt het centrum waarvoor een negatief resultaat is berekend, dat bedrag van het agentschap;<br>
-3° uiterlijk op 1 oktober van het laatste trimester van het begrotingsjaar n berekent het agentschap het verschil tussen de inschrijvingsgelden die het centrum in de periode januari n -1 tot en met augustus n-1 heeft geïnd en 50% van de werkingstoelage waar het centrum voor het schooljaar n-1 - n recht op heeft;<br>
-4° uiterlijk op 31 oktober maakt het centrum waarvoor een positief resultaat is berekend, dat bedrag over aan het agentschap en ontvangt het centrum waarvoor een negatief resultaat is berekend, dat bedrag van het agentschap.
+De inschrijvingsgelden van het volwassenenonderwijs worden op de volgende wijze overgemaakt aan het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, opgericht bij het besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd agentschap Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen:<br>
+1° uiterlijk op 1 maart van het begrotingsjaar n betaalt het agentschap aan het centrum 50% van de werkingstoelage waarop het centrum voor het schooljaar n-1/n recht heeft;<br>
+2° uiterlijk op 31 maart van het begrotingsjaar n maakt het centrum 100% van de inschrijvingsgelden die het centrum in de periode september n-2 tot en met december n-2 heeft geïnd, over aan het agentschap;<br>
+3° uiterlijk op 1 oktober van het begrotingsjaar n betaalt het agentschap de resterende 50% van de werkingstoelage waarop het centrum voor het schooljaar n-1/n recht heeft;<br>
+4° uiterlijk op 31 oktober van het begrotingsjaar n maakt het centrum 100% van de inschrijvingsgelden die het centrum in de periode januari n-1 tot en met augustus n-1 heeft geïnd over aan het agentschap.
 
 ### ART 4.
 
-In afwijking van artikel 3 worden de inschrijvingsgelden van het volwassenenonderwijs in het jaar 2020 op de volgende wijze overgemaakt aan het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen:<br>
-1° uiterlijk op 1 maart van het eerste trimester van het begrotingsjaar 2020 betaalt het agentschap aan de centra 50% van de werkingstoelage waar het centrum voor het schooljaar 2019 - 2020 recht op heeft;<br>
-2° uiterlijk op 31 maart 2020 maken de centra 100% van de inschrijvingsgelden die het centrum in de periode september 2018 tot en met december 2018 heeft geïnd over aan het agentschap;<br>
-3° uiterlijk op 1 oktober van het laatste trimester van het begrotingsjaar 2020 betaalt het agentschap aan de centra 50% van de werkingstoelage waar het centrum voor het schooljaar 2019 - 2020 recht op heeft;<br>
-4° uiterlijk op 31 oktober 2020 maken de centra 100% van de inschrijvingsgelden die het centrum in de periode januari 2019 tot en met augustus 2019 heeft geïnd over aan het agentschap.
+...
 
 ### ART 5.
 
