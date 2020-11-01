@@ -63,7 +63,7 @@ De subsidies worden toegekend met inachtneming van het besluit 2012/21/EU van de
 
 ### ART 3.
 
-Met toepassing van artikel 10, 3°, van het decreet van 20 april 2012 kan het agentschap aan de organisator van kinderopvang voor baby's en peuters een subsidie toekennen voor de afwezigheidsdagen in de kinderopvanglocatie tijdens de periode dat een doelgroepbeperking of een verplichte sluiting geldt in de periode van 1 oktober 2020 tot 31 december 2020.<br>
+Met toepassing van artikel 10, 3°, van het decreet van 20 april 2012 kan het agentschap aan de organisator van kinderopvang voor baby's en peuters een subsidie toekennen voor de afwezigheidsdagen in de kinderopvanglocatie tijdens de periode dat een doelgroepbeperking of een verplichte sluiting geldt in de maand oktober 2020.<br>
 <br>
 Het agentschap kent de subsidie toe als de organisator tijdig een aanvraag indient en voldoet aan al de volgende voorwaarden:<br>
 1° de organisator is onderworpen aan een verplichte sluiting van minstens een volledige leefgroep of aan een doelgroepbeperking;<br>
@@ -124,7 +124,7 @@ In het eerste lid wordt verstaan onder werkdag, een dag die geen zaterdag, zonda
 
 ### ART 7.
 
-Met toepassing van artikel 5, § 2, 2°, a), en artikel 13, § 2, van het decreet van 30 april 2004 kan het agentschap aan de organisator van buitenschoolse opvang een subsidie toekennen voor het verlies aan ouderbijdragen in de opvanglocatie en om de voorwaarden, vermeld in artikel 3, tweede lid, van dit besluit, na te leven, tijdens de periode dat een doelgroepbeperking of een verplichte sluiting geldt in de periode van 1 oktober 2020 tot 31 december 2020.<br>
+Met toepassing van artikel 5, § 2, 2°, a), en artikel 13, § 2, van het decreet van 30 april 2004 kan het agentschap aan de organisator van buitenschoolse opvang een subsidie toekennen voor het verlies aan ouderbijdragen in de opvanglocatie en om de voorwaarden, vermeld in artikel 3, tweede lid, van dit besluit, na te leven, tijdens de periode dat een doelgroepbeperking of een verplichte sluiting geldt in de maand oktober 2020.<br>
 <br>
 Het agentschap kent de subsidie toe als de organisator tijdig een aanvraag indient en voldoet aan de voorwaarden, vermeld in artikel 3, tweede lid, van dit besluit.
 
@@ -194,11 +194,11 @@ Het agentschap betaalt de subsidie uiterlijk op 15 februari 2021, op voorwaarde 
 
 ### ART 11.
 
-In afwijking van de bepalingen in de schriftelijke overeenkomst en het huishoudelijk reglement, vermeld in artikel 34 en 36 van het Vergunningsbesluit van 22 november 2013 en in afwijking van artikel 25 en 27 van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014 en artikel 28 van het Subsidiebesluit van 22 november 2013, betalen de gezinnen niets voor de afwezigheidsdagen van hun kind tijdens de periode van verplichte sluiting van de betrokken leefgroep of van de opvanglocatie of tijdens de periode dat hun kind door de doelgroepbeperking niet naar de opvanglocatie mag gaan.<br>
-<br>
-De organisator die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, trekt tijdens de periode van verplichte sluiting van de betrokken leefgroep of van de opvanglocatie of tijdens de periode dat de doelgroepbeperking voor het kind geldt, de afwezigheidsdagen van het kind niet af van het aantal gerechtvaardigde afwezigheidsdagen, vermeld in artikel 29 van het Subsidiebesluit van 22 november 2013, waarop een gezin recht heeft op basis van de schriftelijke overeenkomst of het huishoudelijk reglement.<br>
-<br>
-De organisator die niet voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, trekt tijdens de periode van verplichte sluiting van de betrokken leefgroep of van de opvanglocatie of tijdens de periode dat de doelgroepbeperking voor het kind geldt, de afwezigheidsdagen van het kind niet af van het aantal dagen waarop een gezin recht heeft op basis van de schriftelijke overeenkomst of het huishoudelijk reglement om het kind afwezig te laten zijn in de opvang zonder dat het gezin ervoor moet betalen.
+...
+
+### ART 12.
+
+...
 
 ## HOOFDSTUK 5. Toezicht en handhaving
 
@@ -276,7 +276,7 @@ In artikel 11 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse R
 
 Dit besluit treedt in werking op 1 oktober 2020, met uitzondering van artikel 12 dat in werking treedt op 1 november 2020.<br>
 <br>
-Artikel 11 houdt op uitwerking te hebben op 31 december 2020 en artikel 12 houdt op uitwerking te hebben op 31 januari 2021.<br>
+Artikel 11 houdt op uitwerking te hebben op 31 oktober 2020 en artikel 12 houdt op uitwerking te hebben op 31 januari 2021.<br>
 <br>
 Artikel 18 en 22 hebben uitwerking vanaf 1 juli 2020.
 
