@@ -163,7 +163,7 @@ Een vereniging kan binnen dertig kalenderdagen na de verzending van het standpun
 
 ### ART. 13.
 
-§ 1. De adviescommissies, vermeld in artikel 17, § 3, van het decreet van 20 januari 2012, bestaan elk uit een voorzitter en ten minste twee en ten hoogste zes leden, allemaal onafhankelijke experts.<br>
+§ 1. De adviescommissies, vermeld in artikel 17, § 3, van het decreet van 20 januari 2012, bestaan elk uit een voorzitter en ten minste twee en ten hoogste negen leden, allemaal onafhankelijke experts.<br>
 <br>
 De minister kan op verzoek van de betrokkene een einde maken aan een mandaat van de voorzitter of een lid van de adviescommissie. Bovendien kan hij in de volgende gevallen ambtshalve een einde stellen aan een mandaat :<br>
 1° als de mandaathouder driemaal na elkaar zonder voorafgaande kennisgeving de vergaderingen van de adviescommissie niet bijwoont;<br>
