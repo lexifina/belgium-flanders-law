@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033762,
+  "title": "Besluit van de Vlaamse Regering van 2020-09-25 tot wijziging van artikel 60 van het besluit van de Vlaamse Regering van 6 juli 2018 houdende het statuut van de lokale mandataris",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033762/VolledigDocument?datum=2020-11-01",
+  "source_sha256": "4e614cc5e40d26e9f06962a004ffa3e00c97cf69bd5919fd7716926e9f3113ef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033762&param=informatie",
+  "as_of": "2020-11-01",
+  "made": "2020-09-25",
+  "gazette": "2020-10-22",
+  "numac": 2020015756,
+  "document_start": "2020-11-01",
+  "document_end": null,
+  "in_force": "2020-11-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
