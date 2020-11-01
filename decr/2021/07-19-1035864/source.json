@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035864,
+  "title": "Decreet van 2021-07-19 tot wijziging van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid en het decreet van 29 mei 2020 tot organisatie van het centrale contactonderzoek door een samenwerkingsverband van externe partners, het lokale contactonderzoek door lokale besturen of zorgraden en tot organisatie van de COVID-19-teams in het kader van COVID-19",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035864/VolledigDocument?datum=2020-11-01",
+  "source_sha256": "4d6edaf54336d8ede5bb93bc6703242a19ce3e35ea25fe90638483309026302f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035864&param=informatie",
+  "as_of": "2020-11-01",
+  "made": "2021-07-19",
+  "gazette": "2021-07-27",
+  "numac": 2021042669,
+  "document_start": "2021-09-15",
+  "document_end": null,
+  "in_force": "2020-11-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
