@@ -68,13 +68,22 @@ Met behoud van toepassing van de definities, vermeld in Verordening (EG) nr. 834
 
 ### ART. 1/1/.
 
-...
+Dit besluit voorziet in de uitvoering van de volgende verordeningen:<br>
+1° Verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91;<br>
+2° Verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad inzake de biologische productie en de etikettering van biologische producten, wat de biologische productie, de etikettering en de controle betreft;<br>
+3° Verordening (EG) nr. 1235/2008 van de Commissie van 8 december 2008 houdende bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad wat de regeling voor de invoer van biologische producten uit derde landen betreft.
 
 ## TITEL II Toepassingsgebied
 
 ### ART. 2.
 
-§ 1. Aanduidingen die verwijzen naar de biologische productiemethode in de   etikettering van en de reclame voor producten, mogen alleen gebruikt worden als   voldaan is aan de voorwaarden, vermeld in Verordening 834/2007, dit besluit en   hun uitvoeringsbepalingen.<BR><BR>Dit besluit is van toepassing op de   marktdeelnemers, de activiteiten, en de landbouwproducten, vermeld in artikel 1   van Verordening 834/2007.<BR><BR>§ 2. Onder de producten, vermeld in artikel 1   van Verordening 834/2007, wordt eveneens verstaan, voedingssupplementen die   ingrediënten bevatten van agrarische oorsprong.<BR><BR>§ 3. Dit besluit is niet   van toepassing op minerale voedingssupplementen en producten, afkomstig van   grootkeukendiensten.
+§ 1. Aanduidingen die verwijzen naar de biologische productiemethode in de etikettering van en de reclame voor producten, mogen alleen gebruikt worden als voldaan is aan de voorwaarden, vermeld in Verordening 834/2007, dit besluit en hun uitvoeringsbepalingen.<br>
+<br>
+Dit besluit is van toepassing op de marktdeelnemers, de activiteiten, en de producten, vermeld in artikel 1 van Verordening 834/2007.<br>
+<br>
+§ 2. Onder de producten, vermeld in artikel 1 van Verordening 834/2007, wordt eveneens verstaan, voedingssupplementen die ingrediënten bevatten van agrarische oorsprong.<br>
+<br>
+§ 3. Dit besluit is niet van toepassing op minerale voedingssupplementen en producten, afkomstig van grootkeukendiensten.
 
 ### ART. 3.
 
@@ -86,7 +95,9 @@ Met behoud van toepassing van de definities, vermeld in Verordening (EG) nr. 834
 
 ### ART. 4.
 
-De bevoegde entiteit is bevoegd voor het controlesysteem, vermeld in   artikel 27, 1, van Verordening 834/2007.
+De bevoegde entiteit is bevoegd voor het controlesysteem, vermeld in artikel 27, 1, van Verordening 834/2007.<br>
+<br>
+De bevoegde entiteit is de desbetreffende bevoegde autoriteit, vermeld in artikel 2, 6, van Verordening (EG) nr. 1235/2008 van de Commissie van 8 december 2008 houdende bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad wat de regeling voor de invoer van biologische producten uit derde landen betreft.
 
 ### ART. 5.
 
@@ -134,11 +145,39 @@ Als één bedrijf wordt verstaan het bedrijf dat voldoet aan de regels van   aut
 
 ### ART. 12.
 
-Voor het verkrijgen van een erkenning om controle uit te voeren en te   certificeren op de biologische productie moet een organisatie aan de volgende   voorwaarden voldoen :<BR>1° de taalwetgeving naleven ten aanzien van de door   haar gecontroleerde marktdeelnemers en de bevoegde entiteit;<BR>2° bewijzen dat   ze de nodige stappen onderneemt om een accreditatiecertificaat te behalen voor   de normen NBN EN ISO 17020 en EN 45011 of ISO 65. Die accreditatie wordt   afgeleverd door het Belgisch Accreditatiesysteem conform de wet van 20 juli 1990   betreffende de accreditatie van certificatie- en keuringsinstellingen alsmede   van beproevingslaboratoria of door een gelijkwaardige accreditatie-instelling,   opgericht binnen de Europese Gemeenschap;<BR>3° bewijzen dat ze voldoet aan de   bepalingen, vermeld in artikel 27, 5, b), en 6, van Verordening 834/2007;<BR>4°   voldoen aan de bepaling, vermeld in artikel 27, 12, van Verordening   834/2007;<BR>5° op een permanente en voor iedereen toegankelijke wijze op haar   website meedelen dat ze controles zal uitvoeren in alle stadia van de productie,   bereiding en distributie in de biologische productie;<BR>6° de volgende gegevens   aan de bevoegde entiteit voorleggen :<BR>a) haar juridische en organisatorische   structuur;<BR>b) de vergoedingen, die ze aan haar marktdeelnemers wil   aanrekenen;<BR>7° ten minste één inspecteur, technisch verantwoordelijke voor de   controleactiviteiten in dienst hebben, die een diploma bezit van hogere studies   in de landbouw, of tuinbouw, of scheikunde of voedingsindustrieën. Die persoon   moet een grondige en praktische kennis hebben van de biologische   productietechnieken, alsook van Verordening 834/2007, dit besluit en hun   uitvoeringsbepalingen.<BR><BR>De minister kan de erkenning van een   controleorgaan niet verlenen als de vergoeding die het controleorgaan voor de   controle op en de certificatie van een activiteit van zijn marktdeelnemers zal   aanrekenen, niet redelijk is of als niet voldaan is aan de bepalingen, vermeld   in artikel 9.<BR><BR>
+Voor het verkrijgen van een erkenning om controle uit te voeren en te certificeren op de biologische productie moet een organisatie aan de volgende voorwaarden voldoen :<br>
+1° de taalwetgeving naleven ten aanzien van de door haar gecontroleerde marktdeelnemers en de bevoegde entiteit;<br>
+2° bewijzen dat ze de nodige stappen onderneemt om een accreditatiecertificaat te behalen voor de norm ISO 17065. Die accreditatie wordt afgeleverd door het Belgisch Accreditatiesysteem conform de wet van 20 juli 1990 betreffende de accreditatie van certificatie- en keuringsinstellingen alsmede van beproevingslaboratoria of door een gelijkwaardige accreditatie-instelling, opgericht binnen de Europese Gemeenschap;<br>
+3° bewijzen dat ze voldoet aan de bepalingen, vermeld in artikel 27, 5, b), en 6, van Verordening 834/2007;<br>
+4° voldoen aan de bepaling, vermeld in artikel 27, 12, van Verordening 834/2007;<br>
+5° op een permanente en voor iedereen toegankelijke wijze op haar website meedelen dat ze controles zal uitvoeren in alle stadia van de productie, bereiding en distributie in de biologische productie;<br>
+6° de volgende gegevens aan de bevoegde entiteit voorleggen :<br>
+a) haar juridische en organisatorische structuur;<br>
+b) de vergoedingen, die ze aan haar marktdeelnemers wil aanrekenen;<br>
+7° ten minste één inspecteur, technisch verantwoordelijke voor de controleactiviteiten in dienst hebben, die een diploma bezit van hogere studies in de landbouw, of tuinbouw, of scheikunde of voedingsindustrieën. Die persoon moet een grondige en praktische kennis hebben van de biologische productietechnieken, alsook van Verordening 834/2007, dit besluit en hun uitvoeringsbepalingen.<br>
+<br>
+De minister kan de erkenning van een controleorgaan niet verlenen als de vergoeding die het controleorgaan voor de controle op en de certificatie van een activiteit van zijn marktdeelnemers zal aanrekenen, niet redelijk is of als niet voldaan is aan de bepalingen, vermeld in artikel 9.<br>
+&nbsp;
 
 ### ART. 13.
 
-Om zijn erkenning te behouden moet een controleorgaan aan de volgende   voorwaarden voldoen :<BR>1° vanaf 18 maanden na het verkrijgen van de erkenning   zijn accreditatiecertificaat voor de normen NBN EN ISO 17020 en EN 45011 of ISO   65 voorleggen aan de bevoegde entiteit. Die accreditatiecertificaten moeten aan   de volgende voorwaarden voldoen :<BR>a) de toepassingsgebieden van de   accreditatiecertificaten moeten aangepast zijn aan de types marktactiviteiten   die in het voorbije kalenderjaar onder zijn controle stonden;<BR>b) elke   marktactiviteit die het controleorgaan controleert, moet gedekt zijn of gedekt   worden door het toepassingsgebied van een accreditatiecertificaat;<BR>c) vanaf   het ogenblik dat een controleorgaan start met de controle van een nieuwe norm of   marktactiviteit, moet het een aanvraag tot uitbreiding van het toepassingsgebied   van een accreditatiecertificaat bij de accreditatie-instelling indienen;<BR>2°   blijven voldoen aan de voorwaarden, vermeld in artikel 12, 1°, 4°, 5° en   7°;<BR>3° de wijzigingen aan de gegevens, vermeld in artikel 12, 6°, voorleggen.   Als die niet zijn gewijzigd, deelt het controleorgaan dat mee aan de bevoegde   entiteit;<BR>4° de vergoedingen die het aan de marktdeelnemers zal aanrekenen,   op een permanente en voor iedereen toegankelijke wijze kenbaar maken op zijn   website;<BR>5° voldoen aan de andere bepalingen in dit besluit dan die, vermeld   in punt 2° en 3°, die op het controleorgaan van toepassing zijn;<BR>6° het   geactualiseerde kwaliteitshandboek in digitale vorm aan de bevoegde entiteit   bezorgen, dat minimaal de volgende gegevens bevat :<BR>a) een organigram of   lijst met de namen en de functie van het personeel dat verantwoordelijk is voor   de ondersteuning en uitvoering van de controle en certificering op de   biologische productiemethode;<BR>b) de procedures met betrekking tot controle en   certificering;<BR>7° de door de minister goedgekeurde vergoedingen   toepassen.<BR>8° het meest recente auditverslag van de accreditatie-instelling   aan de bevoegde entiteit bezorgen.<BR><BR>Het controleorgaan moet de gegevens,   vermeld in het eerste lid, 1°, 3° en 6°, jaarlijks voor 31 januari bezorgen aan   de bevoegde entiteit.<BR><BR>
+Om zijn erkenning te behouden moet een controleorgaan aan de volgende voorwaarden voldoen :<br>
+1° vanaf 18 maanden na het verkrijgen van de erkenning zijn accreditatiecertificaat voor de norm ISO 17065 voorleggen aan de bevoegde entiteit. Die accreditatiecertificaten moeten aan de volgende voorwaarden voldoen :<br>
+a) de toepassingsgebieden van de accreditatiecertificaten moeten aangepast zijn aan de types marktactiviteiten die in het voorbije kalenderjaar onder zijn controle stonden;<br>
+b) elke marktactiviteit die het controleorgaan controleert, moet gedekt zijn of gedekt worden door het toepassingsgebied van een accreditatiecertificaat;<br>
+c) vanaf het ogenblik dat een controleorgaan start met de controle van een nieuwe norm of marktactiviteit, moet het een aanvraag tot uitbreiding van het toepassingsgebied van een accreditatiecertificaat bij de accreditatie-instelling indienen;<br>
+2° blijven voldoen aan de voorwaarden, vermeld in artikel 12, 1°, 4°, 5° en 7°;<br>
+3° de wijzigingen aan de gegevens, vermeld in artikel 12, 6°, voorleggen. Als die niet zijn gewijzigd, deelt het controleorgaan dat mee aan de bevoegde entiteit;<br>
+4° de vergoedingen die het aan de marktdeelnemers zal aanrekenen, op een permanente en voor iedereen toegankelijke wijze kenbaar maken op zijn website;<br>
+5° voldoen aan de andere bepalingen in dit besluit dan die, vermeld in punt 2° en 3°, die op het controleorgaan van toepassing zijn;<br>
+6° het geactualiseerde kwaliteitshandboek in digitale vorm aan de bevoegde entiteit bezorgen, dat minimaal de volgende gegevens bevat :<br>
+a) een organigram of lijst met de namen en de functie van het personeel dat verantwoordelijk is voor de ondersteuning en uitvoering van de controle en certificering op de biologische productiemethode;<br>
+b) de procedures met betrekking tot controle en certificering;<br>
+7° de door de minister goedgekeurde vergoedingen toepassen.<br>
+8° het meest recente auditverslag van de accreditatie-instelling aan de bevoegde entiteit bezorgen.<br>
+<br>
+Het controleorgaan moet de gegevens, vermeld in het eerste lid, 1°, 3° en 6°, jaarlijks voor 31 januari bezorgen aan de bevoegde entiteit.<br>
+&nbsp;
 
 ## Afdeling II Erkenningsprocedure
 
@@ -177,7 +216,17 @@ Het controleorgaan moet de volgende controles uitvoeren :<BR>1° de   jaarlijkse
 
 ### ART. 17.
 
-<P>Bij elke marktdeelnemer voert het controleorgaan een volledige jaarlijkse   controle uit.<BR><BR>In afwijking van het eerste lid wordt de jaarlijkse   controle bij verdelers die alleen handelen in voorverpakte producten en   verkopers die niet onder de vrijstelling, vermeld in artikel 7, vallen, beperkt   tot een gedeeltelijke fysieke controle. Bij die marktdeelnemers moeten alle   aspecten gecontroleerd zijn over een periode van drie jaar.<BR><BR>Het   controleorgaan voert jaarlijks een aantal kruiscontroles uit waarvan het aantal   gelijk is aan of hoger is dan 5% van het aantal marktdeelnemers dat op 31   december van het voorgaande jaar bij het controleorgaan aan de controle   onderworpen was.<BR><BR>Het controleorgaan voert jaarlijks een aantal   steekproefcontroles uit waarvan het aantal gelijk is aan of hoger is dan 50% van   het aantal marktdeelnemers dat op 31 december van het voorgaande jaar bij het   controleorgaan aan de controle onderworpen was.<BR><BR>Het controleorgaan voert   bij iedere marktdeelnemer:<BR>1° op zijn minst één steekproefcontrole uit   tijdens het jaar dat volgt op de kennisgeving van de marktdeelnemer;<BR>2° om de   48 maanden minstens één steekproefcontrole uit.</P>
+<p>Bij elke marktdeelnemer voert het controleorgaan een&nbsp;jaarlijkse controle uit.<br>
+<br>
+In afwijking van het eerste lid en met toepassing van artikel 27,3, van verordening 834/2007 kan het controleorgaan op basis van de risico-analyse de controlefrequentie verminderen tot minimaal eens om de drie jaar bij verdelers die alleen handelen in voorverpakte producten en verkopers die niet onder de vrijstelling, vermeld in artikel 7, vallen.<br>
+<br>
+Het controleorgaan voert jaarlijks een aantal kruiscontroles uit waarvan het aantal gelijk is aan of hoger is dan 5% van het aantal marktdeelnemers dat op 31 december van het voorgaande jaar bij het controleorgaan aan de controle onderworpen was.<br>
+<br>
+Het controleorgaan voert jaarlijks een aantal steekproefcontroles uit waarvan het aantal gelijk is aan of hoger is dan 50% van het aantal marktdeelnemers dat op 31 december van het voorgaande jaar bij het controleorgaan aan de controle onderworpen was.<br>
+<br>
+Het controleorgaan voert bij iedere marktdeelnemer:<br>
+1° op zijn minst één steekproefcontrole uit tijdens het jaar dat volgt op de kennisgeving van de marktdeelnemer;<br>
+2° om de 48 maanden minstens één steekproefcontrole uit.</p>
 
 ### ART. 18.
 
@@ -257,11 +306,33 @@ Als het resultaat van een analyse op een product een verhouding aan GGO's aangee
 
 ### ART. 34.
 
-Met behoud van de toepassing van de bepalingen, vermeld in artikel 30, 1,   van Verordening 834/2007, past het controleorgaan een of meer van de volgende   sancties toe als ze een inbreuk constateert :<BR>1° gewone opmerking (GO) : de   gewone opmerking wordt gebruikt voor kleine onregelmatigheden of voor duidelijk   onvrijwillige gebreken;<BR>2° vraag om verbetering (Vv) : bij de vraag om   verbetering wordt aangegeven welke onregelmatigheid werd geconstateerd, welke   verbetering er wordt verwacht en binnen welke termijn. Op een vraag om   verbetering die niet binnen de gestelde termijn in acht wordt genomen, volgt   altijd een waarschuwing;<BR>3° waarschuwing (W) : de waarschuwing gaat vergezeld   van de vermelding welke sanctie er zal worden toegepast als de marktdeelnemer er   geen rekening mee houdt binnen de termijn, bepaald door het   controleorgaan;<BR>4° verscherpte controle (VC) : er wordt systematisch tot   verscherpte controle besloten als een waarschuwing is gegeven. De kosten van de   verscherpte controle moeten door de marktdeelnemer gedragen worden;<BR>5°   declassering perceel (DP): het declasseren van een bepaald perceel. Het   betrokken perceel start een nieuwe omschakelingsperiode;<BR>6° declassering lot   (DL) : het declasseren of het niet certificeren van een bepaald deel van de   productie; Elke verwijzing naar de biologische productiemethode moet van de   desbetreffende producten verwijderd worden;<BR>7° schorsing product (SP) :   verbod opgelegd aan de marktdeelnemer voor een vastgelegde duur om bepaalde   soorten producten onder verwijzing naar de biologische productiemethode op de   markt te brengen of niet certificering van het product in kwestie;<BR>8°   schorsing bedrijf (SB) : verbod opgelegd aan de marktdeelnemer voor een bepaalde   duur om alle producten onder verwijzing naar de biologische productiemethode op   de markt te brengen, of niet certificering van de marktactiviteit van de   marktdeelnemer;<BR>9° verlenging omschakeling (VO) : heropstart of verlenging   van de omschakelingsperiode.<BR><BR>De sancties, vermeld in punt 5° tot en met   9°, kunnen gecumuleerd worden met de bestuurlijke sancties, vermeld in artikel   56 van het decreet van 28 juni 2013 betreffende het landbouw- en   visserijbeleid.<BR><BR>Als een marktdeelnemer de voorwaarden van een sanctie als   vermeld in punt 5° tot en met 9°, niet naleeft, kan een bestuurlijke sanctie als   vermeld in artikel 56 van het voormelde decreet opgelegd   worden.<BR><BR>
+Met behoud van de toepassing van de bepalingen, vermeld in artikel 30, 1, van Verordening 834/2007, past het controleorgaan een of meer van de volgende sancties toe als ze een inbreuk constateert :<br>
+1° gewone opmerking (GO) : de gewone opmerking wordt gebruikt voor kleine onregelmatigheden of voor duidelijk onvrijwillige gebreken;<br>
+2° vraag om verbetering (Vv) : bij de vraag om verbetering wordt aangegeven welke onregelmatigheid werd geconstateerd, welke verbetering er wordt verwacht en binnen welke termijn. Op een vraag om verbetering die niet binnen de gestelde termijn in acht wordt genomen, volgt altijd een verscherpte controle;<br>
+3° waarschuwing (W) : de waarschuwing gaat vergezeld van de vermelding welke sanctie er zal worden toegepast als de marktdeelnemer er geen rekening mee houdt binnen de termijn, bepaald door het controleorgaan;<br>
+4° verscherpte controle (VC) : er wordt systematisch tot verscherpte controle besloten als een waarschuwing is gegeven. De kosten van de verscherpte controle moeten door de marktdeelnemer gedragen worden;<br>
+5° declassering perceel (DP): het declasseren van een bepaald perceel. Het betrokken perceel start een nieuwe omschakelingsperiode;<br>
+6° declassering lot (DL) : het declasseren of het niet certificeren van een bepaald deel van de productie; Elke verwijzing naar de biologische productiemethode moet van de desbetreffende producten verwijderd worden;<br>
+7° schorsing product (SP) : verbod opgelegd aan de marktdeelnemer voor een vastgelegde duur om bepaalde soorten producten onder verwijzing naar de biologische productiemethode op de markt te brengen of niet certificering van het product in kwestie;<br>
+8° schorsing bedrijf (SB) : verbod opgelegd aan de marktdeelnemer voor een bepaalde duur om alle producten onder verwijzing naar de biologische productiemethode op de markt te brengen, of niet certificering van de marktactiviteit van de marktdeelnemer;<br>
+9° verlenging omschakeling (VO) : heropstart of verlenging van de omschakelingsperiode.<br>
+<br>
+De sancties, vermeld in punt 5° tot en met 9°, kunnen gecumuleerd worden met de bestuurlijke sancties, vermeld in artikel 56 van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid.<br>
+<br>
+Als een marktdeelnemer de voorwaarden van een sanctie als vermeld in punt 5° tot en met 9°, niet naleeft, kan een bestuurlijke sanctie als vermeld in artikel 56 van het voormelde decreet opgelegd worden.<br>
+&nbsp;
 
 ### ART. 35.
 
-Het controleorgaan is verplicht om bij elke vastgestelde inbreuk de   sanctie, vermeld in de sanctietabel die als bijlage I bij dit besluit is   gevoegd, uit te spreken. <BR><BR>Iedere vaststelling leidt tot de   overeenstemmende sanctie, afhankelijk van de antecedenten van de marktdeelnemer.   <BR><BR>Bij een eerste inbreuk wordt de sanctie die links bovenaan vermeld staat   toegepast.<BR><BR>Als het controleorgaan andermaal eenzelfde inbreuk bij een   marktdeelnemer vaststelt binnen een termijn van 24 maanden, spreekt het de   volgende sanctie in de rij in de sanctietabel uit.<BR><BR>Rechts naast de   sanctie wordt tussen haakjes de duur van de sanctie weergegeven in maanden.
+Het controleorgaan is verplicht om bij elke vastgestelde inbreuk de sanctie, vermeld in de sanctietabel die als bijlage bij dit besluit is gevoegd, uit te spreken.<br>
+<br>
+Iedere vaststelling leidt tot de overeenstemmende sanctie, afhankelijk van de antecedenten van de marktdeelnemer.<br>
+<br>
+Bij een eerste inbreuk wordt de sanctie die links bovenaan vermeld staat toegepast.<br>
+<br>
+Als het controleorgaan andermaal eenzelfde inbreuk bij een marktdeelnemer vaststelt binnen een termijn van 24 maanden, spreekt het de volgende sanctie in de rij in de sanctietabel uit.<br>
+<br>
+Rechts naast de sanctie wordt tussen haakjes de duur van de sanctie weergegeven in maanden.
 
 ### ART. 36.
 
@@ -269,7 +340,11 @@ Als de marktdeelnemer na een sanctie de noodzakelijke verbeteringen aanbrengt bi
 
 ### ART. 37.
 
-<P>In afwijking van artikel 35 blijft het controleorgaan vrij om, als dat nodig   is:<BR>1° een zwaardere sanctie, zowel wat betreft de aard als de termijn, uit   te spreken dan de sanctie die is vastgesteld in bijlage I, als het van oordeel   is dat de inbreuk of een opeenstapeling van inbreuken dat rechtvaardigt;<BR>2°   een mildere sanctie, zowel wat betreft de aard als de termijn, uit te spreken   dan de sanctie die is vastgesteld in bijlage I, als het van oordeel is dat   verzachtende omstandigheden dat rechtvaardigen.<BR><BR>Het controleorgaan moet   de aangepaste sanctie en de motivatie aan de bevoegde entiteit meedelen   uiterlijk op het moment dat de marktdeelnemer van de beslissing op de hoogte   wordt gebracht.</P>
+<p>In afwijking van artikel 35 blijft het controleorgaan vrij om, als dat nodig is:<br>
+1° een zwaardere sanctie, zowel wat betreft de aard als de termijn, uit te spreken dan de sanctie die is vastgesteld in bijlage, als het van oordeel is dat de inbreuk of een opeenstapeling van inbreuken dat rechtvaardigt;<br>
+2° een mildere sanctie, zowel wat betreft de aard als de termijn, uit te spreken dan de sanctie die is vastgesteld in bijlage, als het van oordeel is dat verzachtende omstandigheden dat rechtvaardigen.<br>
+<br>
+Het controleorgaan moet de aangepaste sanctie en de motivatie aan de bevoegde entiteit meedelen uiterlijk op het moment dat de marktdeelnemer van de beslissing op de hoogte wordt gebracht.</p>
 
 ### ART. 38.
 
@@ -359,4 +434,4 @@ De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij, is belas
 
 ### BIJLAGE 1
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2015/03/20_3.pdf#page=89">Bijlage I</a></p>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/10/22_1.pdf#page=124">Bijlage. De sanctietabel, vermeld in artikel 35</a>
