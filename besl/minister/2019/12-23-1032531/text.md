@@ -211,11 +211,15 @@ Het de-minimisquotum bedraagt 73 ton tong. De drempelwaarde bedoeld in artikel 8
 <br>
 § 2. Van 1 januari 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5500 kg, vermeerderd met een hoeveelheid die gelijk is aan 85 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
+Van 1 november 2020 tot en met 31 december 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5000 kg, vermeerderd met een hoeveelheid die gelijk is aan 20 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW<br>
+<br>
 § 3. Van 1 januari 2020 tot en met 30 juni 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5500 kg, vermeerderd met een hoeveelheid die gelijk is aan 16 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
 Van 1 juli 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden II, IV zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden, die gelijk is aan 5000 kg, vermeerderd met een hoeveelheid die gelijk is aan 17 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
-In afwijking van het eerste en tweede lid is het in de periode van 1 januari 2020 tot en met 31 oktober 2020 in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat uitsluitend de passieve visserij bedrijft, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 6500 kg, vermeerderd met een hoeveelheid die gelijk is aan 40 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+Van 1 november 2020 tot en met 31 december 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5000 kg, vermeerderd met een hoeveelheid die gelijk is aan 20 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+<br>
+In afwijking van het eerste en tweede lid is het in de periode van 1 januari 2020 tot en met 31 december 2020 in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat uitsluitend de passieve visserij bedrijft, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 6500 kg, vermeerderd met een hoeveelheid die gelijk is aan 40 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
 § 4. Er worden geen gecombineerde visreizen toegestaan tussen ICES-gebieden II, IV en VIIf,g.<br>
 <br>
@@ -231,9 +235,13 @@ Het totale scholquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-es
 <br>
 § 2. Van 1 januari 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 60 kg per kW voor 15 maart 2020 worden opgevist.<br>
 <br>
+Van 1 november 2020 tot en met 31 december 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+<br>
 § 3. Van 1 januari 2020 tot en met 30 juni 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 170 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 60 kg per kW voor 15 maart 2020 worden opgevist.<br>
 <br>
-Van 1 juli 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 350 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.
+Van 1 juli 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 350 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+<br>
+Van 1 november 2020 tot en met 31 december 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 260 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.
 
 ## Onderafdeling 3. Tong Bristolkanaal en Keltische Zee - ICES-gebieden VIIf, g
 
@@ -259,7 +267,9 @@ Bij overschrijding van de hoeveelheden tong, vermeld in het vijfde lid, worden d
 <br>
 § 3. Van 1 januari 2020 tot en met 30 juni 2020 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5000 kg verhoogd met een hoeveelheid, die gelijk is aan 13 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
-Van 1 juli 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 12 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW. Voor vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2020" vermeld worden, gelden bij deelname aan de Golfcampagne de bepalingen in artikel 21, paragraaf 5.
+Van 1 juli 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 12 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW. Voor vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2020" vermeld worden, gelden bij deelname aan de Golfcampagne de bepalingen in artikel 21, paragraaf 5.<br>
+<br>
+Van 1 november 2020 tot en met 31 december 2020 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan een vast recht van 1000kg, vermeerderd met 4kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.
 
 ## Onderafdeling 4. Tong oostelijk Kanaal - ICES-gebied VIId
 
@@ -295,15 +305,21 @@ In de periode van 1 januari 2020 tot en met 30 juni 2020 is het in de ICES-gebie
 <br>
 In de periode van 1 juli 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII voor een vissersvaartuig van het KVS verboden een totale kabeljauwvangst te realiseren die groter is dan 75 kg.<br>
 <br>
+In de periode van 1 november 2020 tot en met 31 december 2020 is het in de ICES-gebieden VIIb-c, e-k, VIII voor een vissersvaartuig van het KVS verboden een totale kabeljauwvangst te realiseren die groter is dan 125 kg.<br>
+<br>
 In de periode van 1 januari 2020 tot en met 30 juni 2020 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII voor een vissersvaartuig van het GVS verboden een totale kabeljauwvangst te realiseren die groter is dan 200 kg.<br>
 <br>
-In de periode van 1 juli 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII voor een vissersvaartuig van het GVS verboden een totale kabeljauwvangst te realiseren die groter is dan 150 kg.
+In de periode van 1 juli 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII voor een vissersvaartuig van het GVS verboden een totale kabeljauwvangst te realiseren die groter is dan 150 kg.<br>
+<br>
+In de periode van 1 november 2020 tot en met 31 december 2020 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII voor een vissersvaartuig van het GVS verboden een totale kabeljauwvangst te realiseren die groter is dan 250 kg.
 
 ## Onderafdeling 7. Kabeljauw oostelijk kanaal - ICES-gebied VIId
 
 ### ART 20.
 
-Van 1 januari 2020 tot en met 31 oktober 2020 is het in het ICES-gebied VIId voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 1 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.
+Van 1 januari 2020 tot en met 31 oktober 2020 is het in het ICES-gebied VIId voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 1 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+<br>
+Van 1 november 2020 tot en met 31 december 2020 is het in het ICES-gebied VIId voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 2 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.
 
 ## Onderafdeling 8. Tong Golf van Gascogne - ICES-gebieden VIIIa, b
 
@@ -345,6 +361,8 @@ Bovendien zullen de vissersvaartuigen in kwestie niet aanwezig mogen zijn in de 
 <br>
 In de periode 1 juli 2020 tot 31 oktober 2020 is het in het ICES-gebied VIIa voor een vaartuig van het GVS verboden een totale tongvangst te realiseren die groter is dan 7000 kg, een wetenschappelijk quotum niet meegerekend. Voor vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2020" vermeld worden, gelden bij deelname aan de Golfcampagne de bepalingen in artikel 21, paragraaf 5.<br>
 <br>
+In de periode van 1 november 2020 tot en met 31 december 2020 is het in het ICES-gebied VIIa voor een vaartuig van het GVS verboden een totale tongvangst te realiseren die groter is dan 1000 kg, een wetenschappelijk quotum niet meegerekend.<br>
+<br>
 Er wordt een wetenschappelijk tongquotum in het ICES-gebied VIIa voorbehouden van 12 ton, verdeeld over telkens een visreis per kwartaal van maximaal 3000 kg tong.<br>
 <br>
 Teneinde te kunnen genieten van dit wetenschappelijk quotum richten eigenaars van vissersvaartuigen per aangetekende brief of per email een aanvraag tot de bevoegde entiteit, met opgave van het gewenste kwartaal. Deze aanvraag moet ten laatste toekomen bij de bevoegde entiteit op maandag 21 januari 2020, 12:00 uur.<br>
@@ -375,6 +393,10 @@ In de periode van 15 mei 2020 tot en met 31 december 2020 is het voor een visser
 <br>
 In de periode van 1 januari 2020 tot en met 31 oktober 2020 is het in het ICES-gebied VIIe voor een vissersvaartuig van het KVS verboden een totale tongvangst te realiseren die groter is dan 1200 kg.<br>
 <br>
+In de periode van 1 november 2020 tot en met 31 december 2020 is het in het ICES-gebied VIIe voor een vissersvaartuig van het KVS verboden een totale tongvangst te realiseren die groter is dan 750 kg.<br>
+<br>
+In de periode van 1 november 2020 tot en met 31 december 2020 is het in het ICES-gebied VIIe voor een vissersvaartuig van het GVS verboden een totale tongvangst te realiseren die groter is dan 1500 kg.<br>
+<br>
 In de periode van 1 januari 2020 tot en met 31 oktober 2020 is het in het ICES-gebied VIIe voor een vissersvaartuig van het GVS verboden een totale tongvangst te realiseren die groter is dan 2400 kg.<br>
 <br>
 Ingeval van gemengde visreizen met aanwezigheid in de ICES-gebieden VIIe en VIIf, g, is het in ICES-gebied VIIe verboden een hoeveelheid te overschrijden van 300 kg, gerealiseerd tijdens die zeereis in dat ICES-gebied.
@@ -399,19 +421,27 @@ In de periode van 1 februari 2020 tot en met 31 december 2020 is het in de ICES-
 
 § 1. In de periode van 1 januari 2020 tot en met 15 februari 2020 is het in de ICES-gebieden VIId, e voor een vissersvaartuig van het KVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 1200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-Vanaf 16 februari 2020 tot 31 december 2020 is het in de ICES-gebieden VIId, e voor een vissersvaartuig van het KVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 800 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+Vanaf 16 februari 2020 tot 31 oktober 2020 is het in de ICES-gebieden VIId, e voor een vissersvaartuig van het KVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 800 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+Vanaf 1 november 2020 tot 31 december 2020 is het in de ICES-gebieden VIId, e voor een vissersvaartuig van het KVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 1200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 In de periode van 1 januari 2020 tot en met 15 februari 2020 is het in de ICES-gebieden VIId, e voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 2400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-Vanaf 16 februari 2020 tot 31 december 2020 is het in de ICES-gebieden VIId, e voor een vissersvaartuig GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 1600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+Vanaf 16 februari 2020 tot 31 oktober 2020 is het in de ICES-gebieden VIId, e voor een vissersvaartuig GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 1600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+Vanaf 1 november 2020 tot 31 december 2020 is het in de ICES-gebieden VIId, e voor een vissersvaartuig GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 2400kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 In de periode van 1 januari 2020 tot en met 31 december 2020 is het voor een vissersvaartuig van het KVS, die gemengde zeereizen in de ICES-gebieden VIId en IV maakt, verboden bij de scholvangst in de ICES-gebieden IV per zeereis een hoeveelheid te overschrijden die gelijk is aan 800 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de ICES-gebieden IV.<br>
 <br>
 In de periode van 1 januari 2020 tot en met 31 december 2020 is het voor een vissersvaartuig van het GVS, die gemengde zeereizen in de ICES-gebieden VIId en IV maakt, verboden bij de scholvangst in de ICES-gebieden IV een hoeveelheid te overschrijden die gelijk is aan 1600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de ICES-gebieden IV.<br>
 <br>
-§ 2. In de periode van 1 januari 2020 tot en met 31 december 2020 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het KVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 2. In de periode van 1 januari 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het KVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 januari 2020 tot en met 31 december 2020 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 november 2020 tot en met 31 december 2020 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het KVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In de periode van 1 januari 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In de periode van 1 november 2020 tot en met 31 december 2020 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 1000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 § 2/1. In de periode van 1 juli 2020 tot 31 oktober 2020 is het in de ICES-gebieden VIIh, j, k voor een vissersvaartuig van het GVS verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 500 kg.<br>
 <br>
@@ -423,11 +453,11 @@ In de periode van 1 januari 2020 tot en met 31 december 2020 is het in de ICES-g
 
 § 1. In de periode van 1 januari 2020 tot en met 30 juni 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS, dat volgens de Officiële lijst der Belgische zeeschepen 2020 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 75 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
 <br>
-In de periode van 1 juli 2020 tot 31 oktober 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 juli 2020 tot 31 december 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 § 2. In de periode van 1 januari 2020 tot en met 30 juni 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS, dat volgens de Officiële lijst der Belgische zeeschepen 2020 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 juli 2020 tot 31 oktober 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 juli 2020 tot 31 december 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 § 3. In de periode van 1 januari 2020 tot en met 30 juni 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2020 niet is uitgerust met de boomkor, verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
@@ -439,7 +469,7 @@ In de periode van 1 juli 2020 tot 31 oktober 2020 is het in de ICES-gebieden II,
 <br>
 De hoeveelheden, vermeld in de paragrafen een tot en met drie, worden van 1 april 2020 tot en met 30 juni 2020 tot 500 kg per vaartdag verhoogd, als het vaartuig in kwestie gedurende de gehele visreis actief was met een TR1- of BT1-vistuig.<br>
 <br>
-De hoeveelheden, vermeld in de paragrafen een en twee worden vanaf 1 juli 2020 tot en met 31 oktober 2020 met 600 kg per vaartdag verhoogd, als het vaartuig in kwestie gedurende de gehele visreis actief was met TR1 of BT1-vistuig.<br>
+De hoeveelheden, vermeld in de paragrafen een en twee worden vanaf 1 juli 2020 tot en met 31 december 2020 met 600 kg per vaartdag verhoogd, als het vaartuig in kwestie gedurende de gehele visreis actief was met TR1 of BT1-vistuig.<br>
 <br>
 § 7. ...
 
@@ -461,21 +491,33 @@ De de-minimis voor schelvis in de ICES-gebieden VIIe-k, bedraagt 5 ton. De dremp
 
 § 1. In de periode van 1 januari 2020 tot en met 30 september 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 120 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 oktober 2020 tot en met 31 december 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 oktober 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In de periode van 1 november 2020 tot en met 31 december 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 In de periode van 1 januari 2020 tot en met 30 september 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 240 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 oktober 2020 tot en met 31 december 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 oktober 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In afwijking van het tweede en vierde lid, worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2020 uitsluitend uitgerust is met de planken.<br>
+In de periode van 1 november 2020 tot en met 31 december 2020 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-§ 2. In de periode van 1 januari 2020 tot en met 31 december 2020 is het in ICES-gebied VIId voor een vissersvaartuig van het KVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 75 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+In afwijking van het derde en zesde lid, worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2020 uitsluitend uitgerust is met de planken.<br>
 <br>
-In de periode van 1 januari 2020 tot en met 31 december 2020 is het in ICES-gebied VIId voor een vissersvaartuig van het GVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+§ 2. In de periode van 1 januari 2020 tot en met 31 oktober 2020 is het in ICES-gebied VIId voor een vissersvaartuig van het KVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 75 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+<br>
+In de periode van 1 november 2020 tot en met 31 december 2020 is het in ICES-gebied VIId voor een vissersvaartuig van het KVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is 80 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+<br>
+In de periode van 1 januari 2020 tot en met 31 oktober 2020 is het in ICES-gebied VIId voor een vissersvaartuig van het GVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+<br>
+In de periode van 1 november 2020 tot en met 31 december 2020 is het in ICES-gebied VIId voor een vissersvaartuig van het GVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 160 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
 § 3. In de periode van 1 januari 2020 tot en met 31 december 2020 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig van het KVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 350 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
+Indien voor 1 december 2020 90% van het quotum is opgevist, dan is het tot 31 december 2020 in de ICES-gebieden VIIa-c, e-k, voor een vissersvaartuig van het KVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden, die gelijk is aan 175 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
 In de periode van 1 januari 2020 tot en met 31 december 2020 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig van het GVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 700 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+<br>
+Indien voor 1 december 2020 90% van het quotum is opgevist, dan is het tot 31 december 2020 in de ICES-gebieden VIIa-c, e-k, voor een vissersvaartuig van het GVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden, die gelijk is aan 350 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 § 4. In de periode van 1 januari 2020 tot en met 31 december 2020 is het in alle ICES-gebieden voor een vissersvaartuig verboden golfrogvangsten te realiseren.<br>
 <br>
@@ -503,9 +545,15 @@ In de periode van 1 januari 2020 tot en met 31 december 2020 is het in de ICES-g
 <br>
 In afwijking van het eerste en tweede lid worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2020 uitsluitend uitgerust is met de planken of met de zegen.<br>
 <br>
-§ 6. Het totale wijtingquotum in de ICES-gebieden VIIb-k, dat gereserveerd is voor de vissersvaartuigen die volgens de Officiële lijst der Belgische zeeschepen 2020 uitgerust zijn met de planken of met de zegen, bedraagt maximaal 40 % van het beschikbaar quotum voor de periode van 1 januari 2020 tot en met 31 december 2020. Bij uitputting van dat segmentsquotum, is het voor die vissersvaartuigen verboden nog wijting aan te voeren uit de ICES-gebieden VIIb-k.<br>
+§ 6. ....<br>
 <br>
-§ 7. In de periode van 1 januari 2020 tot en met 31 december 2020 is het in de ICES-gebieden VIIb-k voor een vissersvaartuig verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 7. In de periode van 1 januari 2020 tot en met 31 oktober 2020 is het in de ICES-gebieden VIIb-k voor een vissersvaartuig verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In de periode van 1 november 2020 tot en met 31 december 2020 is het in de ICES-gebieden VIIb-k voor een vissersvaartuig van het KVS verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In de periode van 1 november 2020 tot en met 31 december 2020 is het in de ICES-gebieden VIIb-k voor een vissersvaartuig van het GVS verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+De maximaal toegelaten vangsthoeveelheden die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2020 uitsluitend uitgerust is met de planken of met de zegen bedraagt 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES gebieden.<br>
 <br>
 § 8. In de periode van 1 januari 2020 tot en met 31 december 2020 is het in het ICES-gebied VIIa voor een vissersvaartuig van het GVS verboden bij wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 20 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES gebied.<br>
 <br>
