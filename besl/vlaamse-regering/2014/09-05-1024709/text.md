@@ -44,13 +44,27 @@ In dit besluit wordt verstaan onder:<BR>1° betalingsaanvraag: het verzoek   tot
 
 ### ART. 3.
 
-<P>§ 1. Om een subsidie te verkrijgen voor de toepassing van een maatregel als   vermeld in artikel 2, eerste lid, gaat de landbouwer een verbintenis aan voor de   duur van vijf opeenvolgende jaren.<BR></P>  <P>§ 2. De verbintenissen, vermeld in paragraaf 1, kunnen worden aangegaan vanaf   1 januari 2015.<BR></P>  <P>De verbintenissen voor de toepassing van de maatregelen, vermeld in artikel   2, eerste lid, 1° tot en met 4°, kunnen uitsluitend aangegaan worden voor   percelen landbouwgrond die in het Vlaamse Gewest liggen.<BR></P>  <P>De verbintenissen voor de toepassing van de maatregel, vermeld in artikel 2,   eerste lid, 5°, kunnen uitsluitend aangegaan worden door landbouwers waarvoor   het Vlaamse Gewest als authentieke bron bevoegd is met toepassing van artikel 5,   § 2, van het samenwerkingsakkoord van 30 maart 2004 tussen het Vlaamse Gewest,   het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest met betrekking tot de   uitoefening van de geregionaliseerde bevoegdheden op het gebied van Landbouw en   Visserij. <BR><BR>In het tweede lid wordt verstaan onder landbouwgrond: het   landbouwareaal dat in uitvoering van artikel 32, tweede lid, van Verordening   (EU) nr. 1307/2013 van het Europees parlement en de Raad van 17 december 2013   tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers   in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en   tot intrekking van Verordening (EG) nr. 637/2008 van de Raad en Verordening (EG)   nr. 73/2009 van de Raad als subsidiabel wordt beschouwd.</P>
+<p>§ 1. Om een subsidie te verkrijgen voor de toepassing van een maatregel als vermeld in artikel 2, eerste lid, gaat de landbouwer een verbintenis aan voor de duur van vijf opeenvolgende jaren.<br>
+<br>
+In het laatste jaar van de lopende verbintenis, vermeld in het eerste lid, kan de landbouwer die verbintenis verlengen met één jaar.</p>
+
+<p>§ 2. De verbintenissen, vermeld in paragraaf 1, kunnen worden aangegaan vanaf 1 januari 2015 tot en met 31 december 2020.</p>
+
+<p>De verbintenissen voor de toepassing van de maatregelen, vermeld in artikel 2, eerste lid, 1° tot en met 4°, kunnen uitsluitend aangegaan worden voor percelen landbouwgrond die in het Vlaamse Gewest liggen.</p>
+
+<p>De verbintenissen voor de toepassing van de maatregel, vermeld in artikel 2, eerste lid, 5°, kunnen uitsluitend aangegaan worden door landbouwers waarvoor het Vlaamse Gewest als authentieke bron bevoegd is met toepassing van artikel 5, § 2, van het samenwerkingsakkoord van 30 maart 2004 tussen het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest met betrekking tot de uitoefening van de geregionaliseerde bevoegdheden op het gebied van Landbouw en Visserij.<br>
+<br>
+In het tweede lid wordt verstaan onder landbouwgrond: het landbouwareaal dat in uitvoering van artikel 32, tweede lid, van Verordening (EU) nr. 1307/2013 van het Europees parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EG) nr. 637/2008 van de Raad en Verordening (EG) nr. 73/2009 van de Raad als subsidiabel wordt beschouwd.</p>
 
 ## Afdeling 2 Wijzigen van de verbintenis
 
 ### ART. 4.
 
-<P>Ter uitvoering van artikel 15 van de gedelegeerde Verordening (EU) nr.   807/2014 kan de landbouwer tijdens de looptijd van een verbintenis tot   toepassing van de maatregelen, vermeld in artikel 2:<BR>1° een nieuwe   verbintenis aangaan als hij de verbintenisoppervlakte of het verbintenisaantal   verhoogt met meer dan 20 %. Die nieuwe verbintenis heeft opnieuw een duur van   vijf opeenvolgende jaren;<BR>2° in het tweede of derde jaar van zijn lopende   verbintenis de verbintenis uitbreiden als hij de verbintenisoppervlakte of het   verbintenisaantal, verhoogt met maximaal 20%. De looptijd van de verbintenis   blijft daarbij ongewijzigd.<BR></P>  <P>Het verbintenisaantal, vermeld in het eerste lid, is het aantal dieren   waartoe de landbouwer zich verbindt om ze te houden in het kader van de   maatregel, vermeld in artikel 2, eerste lid, 5°.<BR></P>
+<p>Ter uitvoering van artikel 15 van de gedelegeerde Verordening (EU) nr. 807/2014 kan de landbouwer tijdens de looptijd van een verbintenis tot toepassing van de maatregelen, vermeld in artikel 2:<br>
+1° ...;<br>
+2° in het tweede of derde jaar van zijn lopende verbintenis de verbintenis uitbreiden als hij de verbintenisoppervlakte of het verbintenisaantal, verhoogt met maximaal 20%. De looptijd van de verbintenis blijft daarbij ongewijzigd.</p>
+
+<p>Het verbintenisaantal, vermeld in het eerste lid, is het aantal dieren waartoe de landbouwer zich verbindt om ze te houden in het kader van de maatregel, vermeld in artikel 2, eerste lid, 5°.</p>
 
 ### ART. 5.
 
