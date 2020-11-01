@@ -492,7 +492,7 @@ De Vlaamse Regering kan de eretitel intrekken. De Vlaamse Regering doet dat in e
 
 ### ART 60
 
-&nbsp;De burgemeester en de districtsburgemeester dragen een sjerp met zilveren franjes op een zwart-geel-rode achtergrond. Op de sjerp staat de Vlaamse leeuw. Op de sjerp van de burgemeester kan facultatief het wapenschild van de gemeente toegevoegd worden. Op de sjerp van districtsburgemeester kan facultatief het schild van het district worden toegevoegd.
+De burgemeester en de districtsburgemeester dragen een sjerp met zilveren franjes op een zwart-geel-rode achtergrond of een sjerp met rode franjes op een zwart-gele achtergrond.&nbsp;Op de sjerp staat de Vlaamse leeuw. Op de sjerp van de burgemeester kan facultatief het wapenschild van de gemeente toegevoegd worden. Op de sjerp van districtsburgemeester kan facultatief het schild van het district worden toegevoegd.
 
 ### ART 61.
 
