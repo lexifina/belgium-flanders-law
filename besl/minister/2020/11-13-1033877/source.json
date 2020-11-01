@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033877,
+  "title": "Ministerieel besluit van 2020-11-13 tot uitvoering van het besluit van de Vlaamse Regering van 13 november 2020 tot regeling van een algemene en selectieve subsidie voor de organisatoren van kinderopvang en buitenschoolse opvang en van maatregelen voor de gezinnen in de kinderopvang en de buitenschoolse opvang naar aanleiding van de gevolgen van het COVID-19-virus",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033877/VolledigDocument?datum=2020-11-01",
+  "source_sha256": "a4ca4be165fdd4bc638de8e63b216a36f271d9b5810ffa40412e0db2e919ad38",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033877&param=informatie",
+  "as_of": "2020-11-01",
+  "made": "2020-11-13",
+  "gazette": "2020-11-25",
+  "numac": 2020016091,
+  "document_start": "2020-11-01",
+  "document_end": null,
+  "in_force": "2020-11-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
