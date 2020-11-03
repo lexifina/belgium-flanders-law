@@ -1306,8 +1306,8 @@ De administratie keurt het rapport goed of af. Als de administratie het rapport 
 11° tijdelijke inrichtingen en activiteiten: de door de Vlaamse Regering aangewezen inrichtingen en activiteiten die op tijdelijke basis, gedurende maximaal één jaar als ze verband houden met een bouwwerf of maximaal drie maanden in de overige gevallen, worden ingezet en waarvan de exploitatie geen blijvende gevolgen heeft voor de mens en het milieu;<br>
 12° veranderen van een ingedeelde inrichting of activiteit:<br>
 a) het wijzigen: het verplaatsen binnen de vergunde of gemelde ingedeelde inrichting of activiteit, of het aanwenden van een andere exploitatiemethode;<br>
-b) het uitbreiden: het vergroten in capaciteit, in drijfkracht of in oppervlakte op percelen waarop de geldende vergunning of melding betrekking heeft;<br>
-c) het toevoegen: het vergroten in opslagcapaciteit, in drijfkracht of in oppervlakte op percelen waarop de geldende vergunning of melding geen betrekking heeft;<br>
+b) het uitbreiden: het vergroten in capaciteit, in drijfkracht of in oppervlakte op percelen waarop de geldende vergunning of meldingsakte betrekking heeft;<br>
+c) het toevoegen: het vergroten in opslagcapaciteit, in drijfkracht of in oppervlakte op percelen waarop de geldende vergunning of meldingsakte geen betrekking heeft;<br>
 d) het splitsen van een ingedeelde inrichting of activiteit in meerdere ingedeelde inrichtingen of activiteiten voor zover geen afbreuk wordt gedaan aan de definitie van een ingedeelde inrichting of activiteit, vermeld in punt 8°.<br>
 13° verontreiniging: de directe of indirecte inbreng door menselijke activiteiten van stoffen, trillingen, warmte of geluid in lucht, water of bodem, die de gezondheid van de mens of de milieukwaliteit kan aantasten, schade kan toebrengen aan materiële goederen, of de belevingswaarde van het milieu of een ander rechtmatig milieugebruik kan aantasten of in de weg kan staan.</p>
 
