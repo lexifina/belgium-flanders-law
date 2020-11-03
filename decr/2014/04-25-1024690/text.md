@@ -19,7 +19,7 @@ c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de d
 3° DABM: het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
 4° definitieve beslissing: een beslissing waartegen geen georganiseerd administratief beroep meer kan worden ingesteld en die, wat betreft het recht tot voortzetting van de exploitatie van de ingedeelde inrichting of activiteit als vermeld in artikel 70, § 1, tweede lid, en artikel 390, § 6, niet voor een eerste maal geheel of gedeeltelijk vernietigd is door de Raad van Vergunningsbetwistingen en voor zover de beslissingen in eerste en tweede administratieve aanleg de verdere uitbating toelieten. Het recht op verdere exploitatie stopt definitief wanneer de Raad van Vergunningsbetwistingen de schorsing van de vergunning uitspreekt of na een termijn van maximum vijf maand na de eerste uitspraak van de Raad van Vergunningsbetwistingen; [ZIE BELANGRIJKE OPMERKING IN COMMENTAAR IVM ART. 2, EERSTE LID, 4°]<br>
 5° gemeentelijke projecten: de door de Vlaamse Regering limitatief aangewezen projecten waarvoor het college van burgemeester en schepenen bevoegd is om in eerste administratieve aanleg een beslissing te nemen;<br>
-6° meldingsakte: het document waaruit blijkt dat de bevoegde overheid akte heeft genomen van een melding;<br>
+6° meldingsakte: het document waaruit blijkt dat de bevoegde overheid uitdrukkelijk of stilzwijgend akte heeft genomen van een melding;<br>
 7° omgevingsvergunning: de schriftelijke beslissing van de vergunningverlenende overheid houdende toelating voor een vergunningsplichtig project;<br>
 8° project : het geheel van volgende elementen of minstens één ervan die onderworpen zijn aan de vergunnings- of meldingsplicht, vermeld in artikel 5 :<br>
 a) stedenbouwkundige handelingen;<br>
@@ -74,7 +74,9 @@ b) de exploitatie van de ingedeelde inrichting of activiteit van de derde klasse
 
 ### ART. 6.
 
-<P>Niemand mag zonder voorafgaande omgevingsvergunning een project dat bij of   krachtens de decreten, vermeld in artikel 5, is onderworpen aan   vergunningsplicht uitvoeren, exploiteren, verkavelen of een vergunningsplichtige   verandering eraan doen.<BR></P>  <P>Niemand mag zonder voorafgaande meldingsakte een project dat bij of krachtens   de decreten, vermeld in artikel 5, is onderworpen aan meldingsplicht uitvoeren,   exploiteren of een meldingsplichtige verandering eraan   doen.<BR></P>
+<p>Niemand mag zonder voorafgaande omgevingsvergunning een project dat bij of krachtens de decreten, vermeld in artikel 5, is onderworpen aan vergunningsplicht uitvoeren, exploiteren, verkavelen of een vergunningsplichtige verandering eraan doen.</p>
+
+<p>Niemand mag zonder voorafgaande uitdrukkelijke of stilzwijgende aktename een project dat bij of krachtens de decreten, vermeld in artikel 5, is onderworpen aan meldingsplicht uitvoeren, exploiteren of een meldingsplichtige verandering eraan doen.</p>
 
 ### ART. 7.
 
@@ -165,11 +167,11 @@ De volgende aanvragen, verzoeken of ambtshalve initiatieven of meldingen worden 
 1° Vlaamse projecten;<br>
 2° provinciale projecten;<br>
 3° projecten die niet zijn vrijgesteld van de medewerking van een architect;<br>
-4° de exploitatie van een ingedeelde inrichting of activiteit van de eerste of de tweede klasse, als vermeld in artikel 5.2.1 van het DABM;<br>
+4° de exploitatie van een ingedeelde inrichting of activiteit;<br>
 5° het verkavelen van gronden;<br>
 6° het bijstellen van een omgevingsvergunning voor het verkavelen van gronden, als deze bijstelling een wijziging van de kavelgrenzen inhoudt.<br>
 <br>
-In afwijking van het tweede lid mogen deze aanvragen analoog of digitaal worden ingediend als deze met toepassing van de geldende taalwetgeving in het Frans mogen worden ingediend.<br>
+In afwijking van het tweede lid mogen deze&nbsp;dossiers analoog of digitaal worden ingediend als deze met toepassing van de geldende taalwetgeving in het Frans mogen worden ingediend.<br>
 <br>
 Als de bevoegde overheid vaststelt dat bepaalde stukken van een analoog ingediende aanvraag, verzoek, melding of administratief beroep digitaal zijn opgesteld, dan kan zij de aanvrager, verzoeker, melder of beroepsindiener verzoeken deze stukken digitaal te bezorgen. Dezen gaan onverwijld op een dergelijk verzoek in.<br>
 <br>
@@ -850,9 +852,29 @@ Een omgevingsvergunning kan de verschillende fasen of onderdelen van een   proje
 
 ## HOOFDSTUK 6 Het bijstellen van de omgevingsvergunning
 
+## Afdeling 1 Bijstelling van in de omgevingsvergunning opgelegde [voorwaarden (verv. decr. 26 april 2019, art. 141, I: 3 november 2020)]
+
 ### ART. 82.
 
-<P>De bevoegde overheid, vermeld in artikel 15, kan de milieuvoorwaarden die in   de omgevingsvergunning zijn opgelegd, wijzigen of aanvullen:<BR>1° ambtshalve   via een gemotiveerd initiatief;<BR>2° op gemotiveerd verzoek van:<BR>a) de   bevoegde dienst van de gemeente, de provinciale omgevingsvergunningscommissie of   de gewestelijke omgevingsvergunningscommissie als gevolg van een evaluatie die   zij hebben uitgevoerd als vermeld in artikel 5.4.11 van het DABM;<BR>b) de   vergunninghouder of de exploitant;<BR>c) het betrokken publiek;<BR>d) de   toezichthouder die met toepassing van titel XVI van het DABM is aangewezen om op   de ingedeelde inrichting of activiteit toezicht uit te oefenen;<BR>e) de leidend   ambtenaar van een adviesinstantie die met toepassing van de bepalingen, vermeld   in artikel 24, eerste lid, is aangewezen om voor de ingedeelde inrichting of   activiteit advies uit te brengen;<BR>f) de leidend ambtenaar van de afdeling   Milieu, bevoegd voor de omgevingsvergunning.<BR><BR>Het verzoek, vermeld in punt   2°, e), wordt ingediend bij de bevoegde overheid, vermeld in artikel 15, binnen   een termijn van dertig dagen voorafgaand aan de maand waarin de evaluatie,   vermeld in artikel 5.4.11 van het DABM, zou plaatsvinden.<BR><BR>Het bijstellen   van de omgevingsvergunning, vermeld in dit artikel, verloopt overeenkomstig de   bepalingen van afdeling 4 en 5.<BR></P>
+<p>De bevoegde overheid, vermeld in artikel 15, kan de milieuvoorwaarden die in de omgevingsvergunning zijn opgelegd, wijzigen of aanvullen:<br>
+1° ambtshalve via een gemotiveerd initiatief;<br>
+2° op gemotiveerd verzoek van:<br>
+a) de bevoegde dienst van de gemeente, de provinciale omgevingsvergunningscommissie of de gewestelijke omgevingsvergunningscommissie als gevolg van een evaluatie die zij hebben uitgevoerd als vermeld in artikel 5.4.11 van het DABM;<br>
+b) ...;<br>
+c) het betrokken publiek;<br>
+d) de toezichthouder die met toepassing van titel XVI van het DABM is aangewezen om op de ingedeelde inrichting of activiteit toezicht uit te oefenen;<br>
+e) de leidend ambtenaar van een adviesinstantie die met toepassing van de bepalingen, vermeld in artikel 24, eerste lid, is aangewezen om voor de ingedeelde inrichting of activiteit advies uit te brengen;<br>
+f) de leidend ambtenaar van de afdeling Milieu, bevoegd voor de omgevingsvergunning.<br>
+<br>
+Het verzoek, vermeld in punt 2°, e), wordt ingediend bij de bevoegde overheid, vermeld in artikel 15, binnen een termijn van dertig dagen voorafgaand aan de maand waarin de evaluatie, vermeld in artikel 5.4.11 van het DABM, zou plaatsvinden.<br>
+<br>
+Het bijstellen van de omgevingsvergunning, vermeld in dit artikel, verloopt overeenkomstig de bepalingen van afdeling 4 en 5.</p>
+
+### ART 82/1.
+
+De bevoegde overheid, vermeld in artikel 15, kan de voorwaarden die in de omgevingsvergunning zijn opgelegd, wijzigen of aanvullen op gemotiveerd verzoek van de vergunninghouder of de exploitant.<br>
+<br>
+Het bijstellen van de omgevingsvergunning, vermeld in dit artikel, verloopt overeenkomstig de bepalingen van afdeling 4 en 5.
 
 ## Afdeling 2 Bijstelling van het voorwerp of de duur van de omgevingsvergunning wat betreft de exploitatie van een ingedeelde inrichting of activiteit
 
@@ -1060,7 +1082,11 @@ De termijnen van vijf, tien of vijftien jaar, vermeld in artikel 102, worden ges
 
 ### ART. 105.
 
-<p>§ 1. De uitdrukkelijke of stilzwijgende beslissing betreffende een omgevingsvergunning, genomen in laatste administratieve aanleg, of de aktename of de niet-aktename van een melding, vermeld in artikel 111, kan bestreden worden bij de Raad voor Vergunningsbetwistingen, vermeld in titel IV, hoofdstuk VIII, van de VCRO.</p>
+<p>§ 1. De volgende beslissingen kunnen worden bestreden bij de Raad voor Vergunningsbetwistingen, vermeld in titel IV, hoofdstuk VIII, van de Vlaamse Codex Ruimtelijke Ordening:<br>
+1° de uitdrukkelijke of stilzwijgende beslissing betreffende een omgevingsvergunningsaanvraag, genomen in laatste administratieve aanleg;<br>
+2° de beslissing over een verzoek of initiatief tot het opleggen, wijzigen of aanvullen van de voorwaarden in laatste administratieve aanleg;<br>
+3° de beslissing over een aanvraag tot afwijking van de algemene en sectorale milieuvoorwaarden;<br>
+4° de uitdrukkelijke of stilzwijgende beslissing betreffende een melding, vermeld in artikel 111 van dit decreet.</p>
 
 <p>§ 2. Het beroep kan worden ingesteld door:<br>
 1° de vergunningsaanvrager, de vergunninghouder, de exploitant of de persoon die de melding heeft verricht;<br>
@@ -1072,7 +1098,7 @@ De termijnen van vijf, tien of vijftien jaar, vermeld in artikel 102, worden ges
 7° de leidend ambtenaar van het Agentschap Innoveren en Ondernemen of bij zijn afwezigheid zijn gemachtigde, als het project vergunningsplichtige kleinhandelsactiviteiten omvat;<br>
 8° de leidend ambtenaar van het agentschap, bevoegd voor natuur en bos, of, bij zijn afwezigheid, zijn gemachtigde als het project vergunningsplichtige wijzigingen van de vegetatie omvat.</p>
 
-<p>De persoon aan wie kan worden verweten dat hij een voor hem nadelige vergunningsbeslissing niet heeft bestreden door middel van het daartoe openstaande georganiseerd administratief beroep bij de bevoegde overheid, vermeld in artikel 52, wordt geacht te hebben verzaakt aan zijn recht om zich tot de Raad voor Vergunningsbetwistingen te wenden.<br>
+<p>De persoon aan wie kan worden verweten dat hij een voor hem nadelige beslissing niet heeft bestreden door middel van het daartoe openstaande georganiseerd administratief beroep bij de bevoegde overheid, vermeld in artikel 52, wordt geacht te hebben verzaakt aan zijn recht om zich tot de Raad voor Vergunningsbetwistingen te wenden.<br>
 <br>
 [... vernietigd bij arrest 46/2019 van het Grondwettelijk Hof van 14 maart 2019].<br>
 <br>
@@ -1094,7 +1120,7 @@ Een melding kan slechts gedaan worden voor meldingsplichtige stedenbouwkundige h
 
 ### ART. 107.
 
-Artikel 15 is van overeenkomstige toepassing op de melding.<br>
+Het college van burgemeester en schepenen of zijn omgevingsambtenaar is bevoegd voor de aktename van meldingsplichtige handelingen en de meldingsplichtige exploitatie of de weigering ervan.<br>
 <br>
 Onverminderd artikel 5.2.1 van het DABM geldt de omgevingsvergunning als aktename voor dat deel van het project dat meldingsplichtig is als tegelijkertijd uitspraak wordt gedaan over de vergunningsaanvraag en de melding. In het geval de vergunning wordt geweigerd, wordt aan de melding geen verder gevolg gegeven.
 
@@ -1118,15 +1144,19 @@ De melding wordt per beveiligde zending bezorgd aan de bevoegde overheid,   verm
 1° artikel 5.4.3, § 3, van het DABM;<br>
 2° artikel 4.2.2, § 1, en artikel 4.2.4 van de VCRO.</p>
 
-<p>Als de handelingen of de exploitatie meldingsplichtig en niet verboden zijn, neemt de bevoegde overheid, vermeld in artikel 107, akte van de melding. Ze bezorgt de meldingsakte per beveiligde zending aan de persoon die de melding heeft verricht binnen een termijn van dertig dagen vanaf de dag na de datum van ontvangst van de melding.</p>
-
-<p>Als de handelingen of de exploitatie niet meldingsplichtig of verboden zijn, stelt de overheid, vermeld in artikel 107, de persoon die de melding heeft verricht binnen dezelfde ordetermijn daarvan in kennis. In dat geval wordt geen akte genomen en wordt aan de melding geen verder gevolg gegeven.</p>
+<p>De bevoegde overheid, vermeld in artikel 107, neemt een beslissing over de melding binnen een termijn van:<br>
+1° twintig dagen als de melding louter betrekking heeft op de exploitatie van een ingedeelde inrichting of activiteit van de derde klasse;<br>
+2° dertig dagen in alle andere gevallen.<br>
+<br>
+Deze overheid stelt de persoon die de melding heeft verricht binnen dezelfde termijn daarvan in kennis. De termijnen, vermeld in het tweede lid, gaan in op de dag na de datum van de melding.<br>
+<br>
+Als geen beslissing is genomen en ter kennis gebracht aan de persoon die de melding heeft verricht binnen de termijn, vermeld in het tweede lid, wordt de melding geacht te zijn geakteerd.</p>
 
 ### ART. 112.
 
-Het project mag worden uitgevoerd of geëxploiteerd de dag na de datum van de betekening van de meldingsakte.<br>
+Het project mag worden uitgevoerd of geëxploiteerd de dag na de datum van de betekening van de meldingsakte dan wel de dag na het verstrijken van de beslissingstermijn als de melding geacht wordt te zijn geakteerd.<br>
 <br>
-De vervalregeling, vermeld in artikel 99 tot en met 101, is van overeenkomstige toepassing op de meldingsakte.
+De vervalregeling, vermeld in artikel 99&nbsp;en 101, is van overeenkomstige toepassing op de meldingsakte.
 
 ## Afdeling 3 Kenmerken van de melding
 
