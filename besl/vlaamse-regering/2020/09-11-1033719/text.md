@@ -227,15 +227,178 @@ In artikel 90 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Re
 
 In artikel 97 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 9 maart 2018, wordt paragraaf 2 opgeheven.
 
+### ART 36.
+
+In titel 4 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 februari 2017, worden in het opschrift van hoofdstuk 1 de woorden "bijzondere milieuvoorwaarden" vervangen door het woord "voorwaarden".
+
+### ART 37.
+
+In artikel 100 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"De volgende gemotiveerde verzoeken worden met een beveiligde zending ingediend bij de bevoegde overheid, vermeld in artikel 15 van het decreet van 25 april 2014:<br>
+1° het verzoek tot bijstelling van de in de omgevingsvergunning opgelegde bijzondere milieuvoorwaarden, vermeld in artikel 82 van het decreet van 25 april 2014;<br>
+2° het verzoek van de vergunninghouder of exploitant tot bijstelling van de in de omgevingsvergunning opgelegde voorwaarden, vermeld in artikel 82/1 van het decreet van 25 april 2014.";<br>
+2° in het vierde lid, 2°, worden de woorden "de plaats waar de exploitatie van de ingedeelde inrichting of activiteit plaats vindt" vervangen door de woorden "de plaats waarop het verzoek betrekking heeft".
+
+### ART 38.
+
+In artikel 102 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste, derde en zesde lid worden de woorden "opgelegde milieuvoorwaarden" vervangen door de woorden "opgelegde voorwaarden";<br>
+2° in het tweede lid wordt de zinsnede "en artikel 82, eerste en tweede lid," vervangen door de zinsnede "artikel 82, eerste en tweede lid, en artikel 82/1".
+
+### ART 39.
+
+In artikel 103 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste en tweede lid worden de woorden "opgelegde milieuvoorwaarden" vervangen door de woorden "opgelegde voorwaarden";<br>
+2° het derde lid wordt vervangen door wat volgt:<br>
+"Voor de organisatie van het openbaar onderzoek zijn de bepalingen van titel 3, hoofdstuk 5, van overeenkomstige toepassing, met dien verstande dat:<br>
+1° de vergunningsaanvraag gelezen moet worden als het verzoek of ambtshalve initiatief tot bijstelling;<br>
+2° de vergunningsaanvrager, aanvrager of exploitant gelezen moet worden als de verzoeker of de overheid die het ambtshalve initiatief heeft genomen;<br>
+3° in afwijking van artikel 16, tweede lid, de vervaltermijn, vermeld in artikel 16, tweede lid, begint te lopen de zestigste dag na de datum van de indiening van het verzoek;<br>
+4° in afwijking van artikel 17, eerste lid, 1°, er in de mededeling op de website gemeld wordt dat een verzoek tot bijstelling is ingediend dan wel een ambtshalve initiatief tot bijstelling is genomen;<br>
+5° in afwijking van artikel 20, § 1, het opschrift van de affiche "BEKENDMAKING OPENBAAR ONDERZOEK OVER EEN VERZOEK TOT BIJSTELLING VAN DE VOORWAARDEN" of "BEKENDMAKING OPENBAAR ONDERZOEK OVER EEN AMBTSHALVE INITIATIEF TOT BIJSTELLING VAN DE VOORWAARDEN" luidt.".
+
+### ART 40.
+
+In artikel 104 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 februari 2017, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, paragraaf 3 en paragraaf 5 worden de woorden "opgelegde milieuvoorwaarden" telkens vervangen door de woorden "opgelegde voorwaarden";<br>
+2° in paragraaf 1, eerste lid, 3°, wordt de zinsnede "vermeld in artikel 37 van dit besluit, evenwel met uitzondering van de afdeling RO, bevoegd voor de omgevingsvergunning" vervangen door de zinsnede "vermeld in artikel 35, 37, 38/1 en 38/3";<br>
+3° in paragraaf 2, eerste lid, wordt punt 1° vervangen door wat volgt:<br>
+"1° door de afdeling Milieu, bevoegd voor de omgevingsvergunning en de afdeling RO, bevoegd voor de omgevingsvergunning:";<br>
+4° in paragraaf 2, vierde lid, worden de woorden "van de milieuvoorwaarden" opgeheven;<br>
+5° paragraaf 4 wordt opgeheven.
+
+### ART 41.
+
+In artikel 106 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "opgelegde milieuvoorwaarden" vervangen door de woorden "opgelegde voorwaarden";<br>
+2° in het tweede lid, 1°, worden de woorden "de milieuvoorwaarden" vervangen door de woorden "de voorwaarden";<br>
+3° in het tweede lid wordt punt 3° vervangen door wat volgt:<br>
+"3° in voorkomend geval, de naam en het ondernemingsnummer van de exploitant;":<br>
+4° in het tweede lid, 4°, worden tussen de woorden "of activiteit" en de woorden "die het voorwerp" de woorden "of de omgevingsvergunning" ingevoegd.
+
+### ART 42.
+
+In titel 4 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 februari 2017, worden in het opschrift van hoofdstuk 2 de woorden "bijzondere milieuvoorwaarden" vervangen door het woord "voorwaarden".
+
+### ART 43.
+
+In artikel 108, eerste lid, van hetzelfde besluit worden de woorden "opgelegde milieuvoorwaarden" vervangen door de woorden "opgelegde voorwaarden".
+
+### ART 44.
+
+In artikel 109 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 februari 2017, worden de volgende wijzigingen aangebracht:<br>
+1° aan het derde lid wordt de volgende zin toegevoegd:<br>
+"Als het beroep via het omgevingsloket wordt ingediend, is aan de voorwaarden, vermeld in het eerste lid, 1° en 2°, voldaan.";<br>
+2° in het vierde lid worden de woorden "de exploitant of de overheid" vervangen door de zinsnede "de exploitant, de vergunninghouder of de overheid".
+
+### ART 45.
+
+In artikel 111 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 februari 2017, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 worden het eerste en het tweede lid vervangen door wat volgt:<br>
+"Op de dag van de verzending van de ontvankelijk- en volledigverklaring van het beroep of uiterlijk als de vervaltermijn, vermeld in artikel 58, eerste lid, van het decreet van 25 april 2014, verstreken is, stelt het bevoegde bestuur het beroepsdossier voor advies ter beschikking van:<br>
+1° het adviserend schepencollege met het verzoek om advies te verlenen als geen advies van een omgevingsvergunningscommissie vereist is;<br>
+2° de bevoegde omgevingsvergunningscommissie als het een bijstelling van de opgelegde milieuvoorwaarden betreft;<br>
+3° de adviesinstanties, vermeld in artikel 35, 37, 38/1 of 38/3 van dit besluit, als geen advies van een omgevingsvergunningscommissie vereist is.<br>
+In voorkomend geval stelt de voorzitter of de secretaris van de omgevingsvergunningscommissie binnen tien dagen nadat het beroepsdossier ter beschikking van de commissie is gesteld, dat dossier ter beschikking van:<br>
+1° het adviserend schepencollege, met het verzoek advies uit te brengen, tenzij het betrokken college van burgemeester en schepenen:<br>
+a) het verzoek tot bijstelling heeft ingediend;<br>
+b) het beroep heeft ingesteld;<br>
+c) de exploitant is;<br>
+2° de adviesinstanties, vermeld in artikel 35, 37, 38/1 en 38/3, met het verzoek om advies uit te brengen, als die adviesinstanties:<br>
+a) over de vergunningsaanvraag in laatste administratieve aanleg een advies geven;<br>
+b) niet zelf een verzoek tot bijstelling van de voorwaarden hebben ingediend of het beroep hebben ingesteld;<br>
+c) niet zelf de vergunninghouder of exploitant zijn;<br>
+3° de overige leden van de betrokken omgevingsvergunningscommissie, vermeld in artikel 39 of artikel 40.";<br>
+2° in paragraaf 2, eerste lid, wordt punt 1° vervangen door wat volgt:<br>
+"1° door de afdeling RO, bevoegd voor de omgevingsvergunning, en de afdeling Milieu, bevoegd voor de omgevingsvergunning: zestig dagen;";<br>
+3° in paragraaf 2, tweede lid, worden de woorden "De bevoegde omgevingsvergunningscommissie brengt" vervangen door de woorden "In voorkomend geval brengt de bevoegde omgevingsvergunningscommissie";<br>
+4° in paragraaf 2, vierde lid worden de woorden "de milieuvoorwaarden" vervangen door de woorden "de voorwaarden";<br>
+5° in paragraaf 3, eerste lid, worden de woorden "De beroepsindiener of de exploitant" vervangen door de zinsnede "De beroepsindiener, de vergunninghouder of de exploitant";<br>
+6° In paragraaf 3, tweede lid, worden de woorden "de exploitant" vervangen door de woorden "de vergunninghouder of de exploitant";<br>
+7° paragraaf 4 wordt opgeheven.
+
+### ART 46.
+
+In artikel 112, eerste lid, van hetzelfde besluit worden de woorden "de exploitant" vervangen door de zinsnede "de vergunninghouder, de exploitant".
+
+### ART 47.
+
+In artikel 113 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid en het tweede lid, 3°, worden de woorden "de milieuvoorwaarden" vervangen door de woorden "de voorwaarden";<br>
+2° in het tweede lid wordt punt 4° vervangen door wat volgt:<br>
+"4° in voorkomend geval, de naam en het ondernemingsnummer van de exploitant;";<br>
+3° in het tweede lid, 5°, worden tussen de woorden "of activiteit" en de woorden "die het voorwerp" de woorden "of de omgevingsvergunning" ingevoegd.
+
+### ART 48.
+
+In artikel 114, tweede lid, van hetzelfde besluit wordt de zinsnede "de exploitant, wordt die laatste" vervangen door de zinsnede "de vergunninghouder of de exploitant, worden die".
+
 ### ART 49.
 
 Aan artikel 127, derde lid, van hetzelfde besluit wordt de volgende zin toegevoegd:<br>
 <br>
 "Als het beroep via het omgevingsloket wordt ingediend, is aan de voorwaarden, vermeld in het eerste lid, 1° en 2°, voldaan.".
 
+### ART 50.
+
+Artikel 138 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 februari 2017, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 138. § 1. De meldingsakte wordt bekendgemaakt door :<br>
+1° de aanplakking van een affiche op de plaats waar het voorwerp van de melding uitgevoerd zal worden, conform artikel 139;<br>
+2° de publicatie op de website, waarbij artikel 60, van overeenkomstige toepassing is;<br>
+3° de individuele kennisgeving conform artikel 140;<br>
+4° de analoge of digitale terinzagelegging van de meldingsakte in het gemeentehuis van de gemeente waar het voorwerp van de melding uitgevoerd zal worden, waarbij artikel 63, van overeenkomstige toepassing is.<br>
+<br>
+§ 2. Het omgevingsloket stelt de tekst ter beschikking die gebruikt wordt voor de bekendmaking, vermeld in paragraaf 1, 1°.<br>
+<br>
+De tekst, vermeld in het eerste lid, bevat minstens de volgende gegevens:<br>
+1° op welke meldingsplichten, vermeld in artikel 5, 2° van het decreet van 25 april 2014, de melding betrekking heeft;<br>
+2° de ligging van het voorwerp van de melding;<br>
+3° de naam van de persoon die de melding heeft verricht. Als de melding wordt ondertekend door een natuurlijk persoon namens een rechtspersoon, wordt alleen de naam van de rechtspersoon vermeld;<br>
+4° de overheid die akte heeft genomen;<br>
+5° het feit dat de aktename ter inzage ligt bij de gemeente;<br>
+6° de mogelijkheid om beroep in te stellen tegen de aktename bij de Raad voor Vergunningsbetwistingen.".
+
+### ART 51.
+
+Artikel 139 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 139. § 1. In de volgende gevallen wordt een affiche aangeplakt:<br>
+1° als er akte wordt genomen van de melding;<br>
+2° als de melding geacht wordt te zijn geakteerd.<br>
+<br>
+De tekst van de aanplakking, vermeld in artikel 138, § 2, wordt met zwarte letters op een gele affiche van minimaal A2-formaat afgedrukt en wordt voorafgegaan door het opschrift "BEKENDMAKING MELDINGSAKTE".<br>
+<br>
+§ 2. De affiche wordt aangeplakt voor de aanvang van de al dan niet stilzwijgend geakteerde handelingen of exploitatie. De affiche blijft hangen gedurende de periode van dertig dagen, die ingaat op de dag na de eerste dag van de aanplakking. De persoon die de melding verricht, brengt de gemeente op de startdatum van de aanplakking op de hoogte van die datum en verklaart daarbij dat de affiche conform de bepalingen van dit artikel is aangeplakt en aangeplakt zal blijven tot de laatste dag van de voormelde periode van dertig dagen. De startdatum wordt in het omgevingsloket ingevoerd.<br>
+<br>
+De affiche wordt aangeplakt op een plaats waar het voorwerp van de melding paalt aan een openbare weg, of als het aan verschillende openbare wegen paalt, aan elk van die openbare wegen. Als het voorwerp van de melding niet paalt aan een openbare weg, wordt de affiche aangeplakt op een plaats aan de dichtstbijzijnde openbare weg.<br>
+<br>
+Als de melding betrekking heeft op het openbaar domein, wordt de affiche aangeplakt aan elke zijde waar men van op de openbare weg de grens van het voorwerp van de melding bereikt.<br>
+<br>
+De persoon die de melding heeft verricht, plakt de affiche aan op een schutting, op een muur of op een bord dat aan een paal bevestigd is, op de grens tussen het terrein of de toegang tot het terrein en de openbare weg en evenwijdig met de openbare weg, met de tekst gericht naar de openbare weg en op een maximumhoogte van twee meter.<br>
+<br>
+De affiche is altijd goed leesbaar vanaf de openbare weg.".
+
+### ART 52.
+
+In artikel 140 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 10 februari 2017 en 9 maart 2018, worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"Het bevoegde bestuur stelt zijn beslissing over de melding met een beveiligde zending ter beschikking van de persoon die de melding heeft verricht, binnen de termijn, vermeld in artikel 111, tweede en derde lid, van het decreet van 25 april 2014. Als de melding wordt geacht te zijn geakteerd, genereert het omgevingsloket na het verstrijken van de termijn, vermeld in artikel 111, tweede lid, van het decreet van 25 april 2014, een tekst die bevestigt dat er niet tijdig een beslissing genomen is of ter kennis gebracht is aan de persoon die de melding heeft verricht, met de gegevens, vermeld in artikel 138, § 2, tweede lid.";<br>
+2° in het tweede lid worden de woorden "Het bevoegde bestuur stelt" vervangen door de zinsnede "Uiterlijk tien dagen na de datum van de aktename of na het verstrijken van de termijn, vermeld in artikel 111, tweede lid, van het decreet van 25 april 2014, stelt het bevoegde bestuur";<br>
+3° in het tweede lid wordt punt 1° vervangen door wat volgt:<br>
+"1° de afdeling van de VMM bevoegd voor grondwater als de melding betrekking heeft op indelingsrubriek 52 tot en met 56;";<br>
+4° het derde en vierde lid worden opgeheven.
+
 ### ART 53.
 
 In artikel 145, eerste en tweede lid, van hetzelfde besluit wordt het woord "gemeentesecretaris" vervangen door de woorden "algemeen directeur".
+
+### ART 54.
+
+Artikel 153/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 9 maart 2018, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 153/1. Met toepassing van artikel 14/1, vijfde lid, en in afwijking van artikel 14/1, tweede lid, van het decreet van 25 april 2014, worden meldingen digitaal ingediend.".
 
 ## HOOFDSTUK 3. Wijzigingen van het besluit van de Vlaamse Regering van 23 september 2016 houdende subsidiëring van de digitale behandeling van de omgevingsvergunning
 

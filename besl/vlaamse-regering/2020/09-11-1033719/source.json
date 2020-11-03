@@ -2,16 +2,16 @@
   "codex_id": 1033719,
   "title": "Besluit van de Vlaamse Regering van 2020-09-11 tot wijziging van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning en het besluit van de Vlaamse Regering van 23 september 2016 houdende subsidiëring van de digitale behandeling van de omgevingsvergunning in het kader van wijzigingen aan de regelgeving over de omgevingsvergunning en tot opheffing van het besluit van de Vlaamse Regering van 23 november 2001 tot bepaling van de voorwaarden voor toekenning van subsidies aan gemeenten voor de opleiding van gemeentelijke stedenbouwkundige ambtenaren en voor de betaling van de gemeentelijke stedenbouwkundige ambtenaren in kleine gemeenten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033719/VolledigDocument?datum=2020-10-23",
-  "source_sha256": "fd354f3cd1fb59fbd05e6c23faf58ab966241f994defe02e91ec12301f69036a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033719/VolledigDocument?datum=2020-11-03",
+  "source_sha256": "f79b78fab875a6b195fa9fc67fb0d8abe73dd619375d5ac53b4ff3b8e4c3e6eb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033719&param=informatie",
-  "as_of": "2020-10-23",
+  "as_of": "2020-11-03",
   "made": "2020-09-11",
   "gazette": "2020-10-13",
   "numac": 2020031482,
   "document_start": "2020-10-23",
   "document_end": null,
-  "in_force": "2020-10-23",
-  "article_versions": 44,
-  "record_form": "consolidated version as in force on 2020-10-23; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-11-03",
+  "article_versions": 61,
+  "record_form": "consolidated version as in force on 2020-11-03; future article versions excluded; article text as the API gives it"
 }
