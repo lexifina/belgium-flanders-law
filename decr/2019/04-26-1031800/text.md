@@ -469,6 +469,10 @@ In artikel 4.1.1, § 1, 4°, van het decreet van 5 april 1995 houdende algemene 
 
 In artikel 4.2.3, § 2 en § 3, van hetzelfde decreet, ingevoegd bij het decreet van 18 december 2002, vervangen bij het decreet van 27 april 2007 en gewijzigd bij het decreet van 8 mei 2009, worden de woorden "klein gebied op lokaal niveau" uitgelegd als volgt: "klein gebied in een gemeentelijk of provinciaal plannings- of programma-initiatief".
 
+### ART 60.
+
+In artikel 5.1.1, 12°, b) en c), van hetzelfde decreet, ingevoegd bij het decreet van 25 april 2014 en gewijzigd bij het decreet van 8 december 2017, worden de woorden "geldende vergunning of melding" vervangen door de woorden "geldende vergunning of meldingsakte".
+
 ### ART 61.
 
 In artikel 10.3.3, § 2, van hetzelfde decreet, ingevoegd bij het decreet van 7 mei 2004 en gewijzigd bij de decreten van 25 mei 2007, 23 december 2011, 25 april 2014 en 18 december 2015, wordt punt 5° vervangen door wat volgt:<br>
@@ -1022,6 +1026,14 @@ Artikel 59 van hetzelfde decreet wordt vervangen door wat volgt:<br>
 
 ## HOOFDSTUK 21. Wijzigingen van het decreet van 25 april 2014 betreffende de omgevingsvergunning
 
+### ART 134.
+
+In artikel 2, eerste lid, 6°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning worden tussen de woorden "de bevoegde overheid" en de woorden "akte heeft genomen" de woorden "uitdrukkelijk of stilzwijgend" ingevoegd.
+
+### ART 135.
+
+&nbsp;In artikel 6, tweede lid, van hetzelfde decreet worden de woorden "voorafgaande meldingsakte" vervangen door de woorden "voorafgaande uitdrukkelijke of stilzwijgende aktename".
+
 ### ART 136.
 
 Aan artikel 7 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
@@ -1030,6 +1042,12 @@ Aan artikel 7 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<
 " § 2. Als het project elementen bevat die onderworpen zijn aan meerdere vergunnings- of meldingsplichten, bij of krachtens de decreten, vermeld in artikel 5, en die aspecten onlosmakelijk met elkaar verbonden zijn, omvat de vergunningsaanvraag de betrokken aspecten op straffe van onontvankelijkheid als minstens één element van de aanvraag vergunningsplichtig is.<br>
 <br>
 De verplichting tot gezamenlijke indiening, vermeld in het eerste lid, geldt niet voor het aanvragen of melden van stedenbouwkundige handelingen en exploitatie van ingedeelde inrichtingen of activiteiten die alleen nodig zijn tijdens de uitvoeringsfase van het project. Als voor het project een milieueffectrapport moet worden opgesteld en het milieueffectrapport relevante uitspraken doet over de uitvoeringswijze, wordt gestreefd naar een gezamenlijke indiening voor wat betreft de aspecten die in het milieueffectrapport worden behandeld.".
+
+### ART 137.
+
+In artikel 14/1 van hetzelfde decreet, ingevoegd bij het decreet van 18 december 2015 en gewijzigd bij het decreet van 3 februari 2017, worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid, 4°, wordt de zinsnede "van de eerste of de tweede klasse, als vermeld in artikel 5.2.1 van het DABM" opgeheven;<br>
+2° in het derde lid wordt het woord "aanvragen" vervangen door het woord "dossiers".
 
 ### ART 138.
 
@@ -1042,6 +1060,22 @@ In artikel 18 van hetzelfde decreet, gewijzigd bij de decreten van 15 juli 2016 
 ### ART 140.
 
 In artikel 66, § 4, van hetzelfde decreet, gewijzigd bij de decreten van 18 december 2015, 7 juli 2017, 8 december 2017 en 13 juli 2018, wordt de zinsnede "Artikel 33 en 34" vervangen door de zinsnede "Artikel 33, 34, 47 en 48".
+
+### ART 141.
+
+In het opschrift van afdeling 1 van hoofdstuk 6 van hetzelfde decreet wordt het woord "milieuvoorwaarden" vervangen door het woord "voorwaarden".
+
+### ART 142.
+
+In artikel 82, eerste lid, van hetzelfde decreet wordt de zinsnede "de vergunninghouder of de exploitant;" opgeheven.
+
+### ART 143.
+
+In hetzelfde decreet wordt een artikel 82/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 82/1. De bevoegde overheid, vermeld in artikel 15, kan de voorwaarden die in de omgevingsvergunning zijn opgelegd, wijzigen of aanvullen op gemotiveerd verzoek van de vergunninghouder of de exploitant.<br>
+<br>
+Het bijstellen van de omgevingsvergunning, vermeld in dit artikel, verloopt overeenkomstig de bepalingen van afdeling 4 en 5.".
 
 ### ART 144.
 
@@ -1059,6 +1093,40 @@ In artikel 100 van hetzelfde decreet wordt het tweede lid vervangen door wat vol
 In artikel 103, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 18 december 2015 en gewijzigd bij het decreet van 13 juli 2018, worden de volgende wijzigingen aangebracht:<br>
 1° de zinsnede "artikel 5.4.8" wordt vervangen door de zinsnede "artikel 5.4.9";<br>
 2° de zinsnede "artikel 5.4.16" wordt vervangen door de zinsnede "artikel 5.4.17".
+
+### ART 147.
+
+In artikel 105 van hetzelfde decreet, gewijzigd bij de decreten van 18 december 2015, 15 juli 2016, 9 december 2016, 27 oktober 2017 en 8 december 2017, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 1 wordt vervangen door wat volgt:<br>
+" § 1. De volgende beslissingen kunnen worden bestreden bij de Raad voor Vergunningsbetwistingen, vermeld in titel IV, hoofdstuk VIII, van de Vlaamse Codex Ruimtelijke Ordening:<br>
+1° de uitdrukkelijke of stilzwijgende beslissing betreffende een omgevingsvergunningsaanvraag, genomen in laatste administratieve aanleg;<br>
+2° de beslissing over een verzoek of initiatief tot het opleggen, wijzigen of aanvullen van de voorwaarden in laatste administratieve aanleg;<br>
+3° de beslissing over een aanvraag tot afwijking van de algemene en sectorale milieuvoorwaarden;<br>
+4° de uitdrukkelijke of stilzwijgende beslissing betreffende een melding, vermeld in artikel 111 van dit decreet.";<br>
+2° in paragraaf 2, tweede lid, wordt het woord "vergunningsbeslissing" vervangen door het woord "beslissing".
+
+### ART 148.
+
+In artikel 107 van hetzelfde decreet, vervangen bij het decreet van 8 december 2017, wordt het eerste lid vervangen door wat volgt:<br>
+"Het college van burgemeester en schepenen of zijn omgevingsambtenaar is bevoegd voor de aktename van meldingsplichtige handelingen en de meldingsplichtige exploitatie of de weigering ervan.".
+
+### ART 149.
+
+In artikel 111 van hetzelfde decreet, gewijzigd bij het decreet van 8 december 2017, worden de volgende wijzigingen aangebracht:<br>
+1° het tweede en het derde lid worden vervangen door wat volgt:<br>
+"De bevoegde overheid, vermeld in artikel 107, neemt een beslissing over de melding binnen een termijn van:<br>
+1° twintig dagen als de melding louter betrekking heeft op de exploitatie van een ingedeelde inrichting of activiteit van de derde klasse;<br>
+2° dertig dagen in alle andere gevallen.<br>
+<br>
+Deze overheid stelt de persoon die de melding heeft verricht binnen dezelfde termijn daarvan in kennis. De termijnen, vermeld in het tweede lid, gaan in op de dag na de datum van de melding.";<br>
+2° een vierde lid wordt toegevoegd, dat luidt als volgt:<br>
+"Als geen beslissing is genomen en ter kennis gebracht aan de persoon die de melding heeft verricht binnen de termijn, vermeld in het tweede lid, wordt de melding geacht te zijn geakteerd.".
+
+### ART 150.
+
+In artikel 112 van hetzelfde decreet, gewijzigd bij het decreet van 8 december 2017, worden de volgende wijzigingen aangebracht:<br>
+1° aan het eerste lid worden de woorden "dan wel de dag na het verstrijken van de beslissingstermijn als de melding geacht wordt te zijn geakteerd" toegevoegd;<br>
+2° in het tweede lid worden de woorden "tot en met" vervangen door het woord "en".
 
 ## HOOFDSTUK 22. Wijziging van het decreet van 9 mei 2014 tot wijziging van de regelgeving inzake natuur en bos
 
