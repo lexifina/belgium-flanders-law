@@ -130,10 +130,7 @@ Op het bedrag, vermeld in het eerste lid, zijn geen intresten verschuldigd.<br>
 
 ### ART 12/1.
 
-In afwijking van artikel 7 bedraagt de tegemoetkoming van het Fonds voor die begeleidingen waarvoor het Fonds het formulier, vermeld in artikel 4, eerste lid, van het OCMW heeft ontvangen voor 1 oktober 2020:<br>
-1° bij de start van de begeleiding door het OCMW een vast bedrag van 200 euro;<br>
-2° bij de start van de begeleiding door het OCMW een bedrag van 45% van de huurachterstal, met een maximum van 1.125 euro;<br>
-3° bij de beëindiging van de begeleiding door het OCMW een bedrag van 15% van de huurachterstal, met een maximum van 375 euro.
+...
 
 ### ART 13.
 
