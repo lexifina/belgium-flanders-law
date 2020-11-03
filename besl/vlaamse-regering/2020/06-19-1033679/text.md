@@ -2130,6 +2130,10 @@ Art. 3.14.6.4. Voor geleide emissies naar lucht die afkomstig zijn van de behand
 
 ## HOOFDSTUK 3. Wijziging van het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning
 
+### ART 4.
+
+In addendum E4 van bijlage 2 bij het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 23 augustus 2019, wordt in punt 11 na de zinsnede "- een inrichting met een verwachte overslaghoeveelheid van stuivende stoffen van meer dan 700.000 ton per jaar." de zinsnede "- een inrichting die ingedeeld is onder rubriek 2.4.3.a)5° of 2.4.3.b)4° van de indelingslijst." ingevoegd.
+
 ## HOOFDSTUK 4. Slotbepalingen
 
 ### ART 5.

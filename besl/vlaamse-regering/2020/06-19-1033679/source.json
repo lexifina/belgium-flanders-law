@@ -2,16 +2,16 @@
   "codex_id": 1033679,
   "title": "Besluit van de Vlaamse Regering van 2020-06-19 tot wijziging van titel II van het VLAREM van 1 juni 1995, titel III van het VLAREM van 16 mei 2014, wat betreft de omzetting van de BBT-conclusies voor afvalbehandeling, en het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033679/VolledigDocument?datum=2020-10-15",
-  "source_sha256": "d3acc0f2dde010d92787d7294b5a2581d46fbbe49952e009c25466d9a366d7d8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033679/VolledigDocument?datum=2020-11-03",
+  "source_sha256": "a9fef658b756722323f87a6f26126dd28bdf95463a63032b138509d94e052498",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033679&param=informatie",
-  "as_of": "2020-10-15",
+  "as_of": "2020-11-03",
   "made": "2020-06-19",
   "gazette": "2020-10-05",
   "numac": 2020015334,
   "document_start": "2020-10-15",
   "document_end": null,
-  "in_force": "2020-10-15",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2020-10-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-11-03",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2020-11-03; future article versions excluded; article text as the API gives it"
 }
