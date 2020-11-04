@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033790,
+  "title": "Besluit van de Vlaamse Regering van 2020-10-30 tot wijziging van artikel 65 van het besluit van de Vlaamse Regering van 14 mei 2004 betreffende de exploitatie en de tarieven van de VVM",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033790/VolledigDocument?datum=2020-11-04",
+  "source_sha256": "5ff7f9516fa30ade10164b17b4a1a5165e68fbf9667eef54f9a79787e9f0308e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033790&param=informatie",
+  "as_of": "2020-11-04",
+  "made": "2020-10-30",
+  "gazette": "2020-11-03",
+  "numac": 2020043510,
+  "document_start": "2020-11-04",
+  "document_end": null,
+  "in_force": "2020-11-04",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-11-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
