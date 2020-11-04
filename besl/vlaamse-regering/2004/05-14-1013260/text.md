@@ -298,7 +298,13 @@ Het is niet toegestaan :<br />1° de infrastructuur, de installaties of de appar
 
 ### ART. 65.
 
-Het is niet toegestaan :<br />1° de infrastructuur, de installaties of de apparatuur van de VVM te beschadigen of te ontregelen;<br />2° de voertuigen van de VVM te hinderen, te doen vertragen of te beschadigen;<br />3° de seinen van de VVM aan te raken of de zichtbaarheid ervan te belemmeren;<br />4° de elektrische leidingen en installaties van de VVM aan te raken;<br />5° in de voertuigen, aan de haltes of in de openbare ruimtes van de VVM in het bezit te zijn van een voorwerp dat of een stof die, klaarblijkelijk en onmiddellijk, personen kan kwetsen, of hen aan een ander gevaar voor hun fysieke integriteit kan blootstellen.
+Het is niet toegestaan :<br>
+1° de infrastructuur, de installaties of de apparatuur van de VVM te beschadigen of te ontregelen;<br>
+2° de voertuigen van de VVM te hinderen, te doen vertragen of te beschadigen;<br>
+3° de seinen van de VVM aan te raken of de zichtbaarheid ervan te belemmeren;<br>
+4° de elektrische leidingen en installaties van de VVM aan te raken;<br>
+5° in de voertuigen, aan de haltes of in de openbare ruimtes van de VVM in het bezit te zijn van een voorwerp dat of een stof die, klaarblijkelijk en onmiddellijk, personen kan kwetsen, of hen aan een ander gevaar voor hun fysieke integriteit kan blootstellen;<br>
+6° de dringende maatregelen genomen door de bevoegde overheden om de verspreiding van het coronavirus COVID-19 te beperken, te overtreden in de voertuigen, aan de haltes of in de openbare ruimtes van de VVM.
 
 ## [Onderafdeling II Specifieke verplichtingen van de reizigers aan boord van de voertuigen van de VVM (ing. BVR 26 januari 2007, art. 5)]
 
