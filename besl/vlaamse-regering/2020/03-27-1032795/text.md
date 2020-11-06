@@ -30,15 +30,15 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-In afwijking van artikel 13, derde lid, van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging, kunnen gedurende de duurtijd van de vastgestelde noodsituatie met betrekking tot de volksgezondheid, vermeld in artikel 4, § 1, 1° en 2°, van het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid, meerdere niet-gecremeerde stoffelijke overschotten gezamenlijk vervoerd worden.
+In afwijking van artikel 13, derde lid, van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging, kunnen tot en met 30 april 2021, meerdere niet-gecremeerde stoffelijke overschotten gezamenlijk vervoerd worden.
 
 ### ART 2.
 
-In afwijking van artikel 19, § 1, 3°, van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging moet gedurende de duurtijd van de vastgestelde noodsituatie met betrekking tot de volksgezondheid, vermeld in artikel 4, § 1, 1° en 2°, van het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid, het verslag van een beëdigd geneesheer uit de eigen gemeente of een andere gemeente van het Vlaamse Gewest die door de ambtenaar van de burgerlijke stand of door zijn gemachtigde beambten van het gemeentebestuur is aangesteld om de doodsoorzaken na te gaan, niet meer worden bijgevoegd.<br>
+In afwijking van artikel 19, § 1, 3°, van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging moet tot en met 30 april 2021, het verslag van een beëdigd geneesheer uit de eigen gemeente of een andere gemeente van het Vlaamse Gewest die door de ambtenaar van de burgerlijke stand of door zijn gemachtigde beambten van het gemeentebestuur is aangesteld om de doodsoorzaken na te gaan, niet meer worden bijgevoegd.<br>
 <br>
 De afwijking, vermeld in het eerste lid, is uitsluitend mogelijk:<br>
-1° als het overlijden plaatsvindt in het ziekenhuis;<br>
-2° als het overlijden plaatsvindt buiten het ziekenhuis en de behandelende geneesheer of de geneesheer die het overlijden vaststelt, bevestigt dat het overlijden te wijten is aan de infectieziekte, ten gevolge waarvan de voormelde civiele noodsituatie met betrekking tot de volksgezondheid is afgekondigd.
+1° als het overlijden plaatsvindt in het ziekenhuis of in een woonzorgcentrum van het Vlaams gewest;<br>
+2° als het overlijden plaatsvindt buiten het ziekenhuis of in een woonzorgcentrum en de behandelende geneesheer of de geneesheer die het overlijden vaststelt, bevestigt dat het overlijden te wijten is aan de infectieziekte, ten gevolge waarvan de voormelde civiele noodsituatie met betrekking tot de volksgezondheid is afgekondigd.
 
 ### ART 3.
 

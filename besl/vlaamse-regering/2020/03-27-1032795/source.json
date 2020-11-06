@@ -2,16 +2,16 @@
   "codex_id": 1032795,
   "title": "Besluit van de Vlaamse Regering van 2020-03-27 tot afwijking van artikel 13 en van artikel 19 van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032795/VolledigDocument?datum=2020-04-01",
-  "source_sha256": "35fd0b24cd293a4372c424fe070758005b770b0d56dbad825dd5de74ff60b7db",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032795/VolledigDocument?datum=2020-11-06",
+  "source_sha256": "18531c2c2f385a4bab514a69274c4827b7c9da7566c1c50d77416614f8f0f383",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032795&param=informatie",
-  "as_of": "2020-04-01",
+  "as_of": "2020-11-06",
   "made": "2020-03-27",
   "gazette": "2020-03-31",
   "numac": 2020040948,
   "document_start": "2020-04-01",
   "document_end": "2021-06-30",
-  "in_force": "2020-04-01",
+  "in_force": "2020-11-06",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2020-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-11-06; future article versions excluded; article text as the API gives it"
 }
