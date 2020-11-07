@@ -451,6 +451,16 @@ In artikel 11.1.8 van hetzelfde decreet, gewijzigd bij de decreten van 14 maart 
 
 In artikel 11.2.1, § 3, van hetzelfde decreet, ingevoegd bij het decreet van 18 november 2011 en gewijzigd bij het decreet van 14 maart 2014, worden tussen het woord "kengetal" en het woord "alsmede" de woorden "of label" ingevoegd.
 
+### ART 42.
+
+Aan artikel 11.2.2, § 3, van hetzelfde decreet wordt de zinsnede "en in artikel 11.2.1" toegevoegd.
+
+### ART 43.
+
+In artikel 11.2.3, § 3, van hetzelfde decreet, ingevoegd bij het decreet van 18 november 2011 en gewijzigd bij de decreten van 28 juni 2013 en 27 november 2015, wordt tussen het eerste lid en het tweede lid een lid ingevoegd dat luidt als volgt:<br>
+<br>
+"In afwijking van het eerste lid kan de Vlaamse Regering beslissen om energiedeskundigen toegang te verlenen tot de gegevens van de gemeenschappelijke delen van residentiële gebouwen die bestemd zijn voor collectieve bewoning. De Vlaamse Regering bepaalt de voorwaarden waaronder en de wijze waarop de energiedeskundige toegang verkrijgt tot die gegevens.".
+
 ## HOOFDSTUK 12. Wijzigingen aan titel XIII van het Energiedecreet van 8 mei 2009
 
 ### ART 46.
