@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033802,
+  "title": "Ministerieel besluit van 2020-11-06 tot verlenging van de herfstvakantie in 2020",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033802/VolledigDocument?datum=2020-11-09",
+  "source_sha256": "543c71c10930e7f920a54645a536138b61b0bd21ad71434560681a0f9caaefb6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033802&param=informatie",
+  "as_of": "2020-11-09",
+  "made": "2020-11-06",
+  "gazette": "2020-11-12",
+  "numac": 2020016000,
+  "document_start": "2020-11-09",
+  "document_end": null,
+  "in_force": "2020-11-09",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2020-11-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
