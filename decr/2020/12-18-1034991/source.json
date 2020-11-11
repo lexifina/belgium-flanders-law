@@ -2,16 +2,16 @@
   "codex_id": 1034991,
   "title": "Decreet van 2020-12-18 tot het nemen van dringende tijdelijke maatregelen in het onderwijs naar aanleiding van de coronacrisis (V)",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1034991/VolledigDocument?datum=2020-09-01",
-  "source_sha256": "8c49c569b6e24ad5ed6203019b3bf4fed62637647927737fccadbca15b5f1cbf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1034991/VolledigDocument?datum=2020-11-11",
+  "source_sha256": "798675fc640eb5a5d63bda9e9fdb747698faf28a338061dda0aa153f01e96871",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1034991&param=informatie",
-  "as_of": "2020-09-01",
+  "as_of": "2020-11-11",
   "made": "2020-12-18",
   "gazette": "2020-12-24",
   "numac": 2020044569,
   "document_start": "2020-12-25",
   "document_end": null,
-  "in_force": "2020-09-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-11-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-11-11; future article versions excluded; article text as the API gives it"
 }

@@ -29,4 +29,8 @@ De academies van het deeltijds kunstonderwijs kunnen voor het schooljaar 2020-20
 
 ## HOOFDSTUK 6. Wijziging van het decreet van 30 oktober 2020 tot het nemen van dringende tijdelijke maatregelen in het onderwijs naar aanleiding van de coronacrisis (IV)
 
+### ART 11.
+
+In artikel 28 van het decreet van 30 oktober 2020 tot het nemen van dringende tijdelijke maatregelen in het onderwijs naar aanleiding van de coronacrisis (IV) wordt het getal "204" vervangen door het getal "240".
+
 ## HOOFDSTUK 7. Inwerkingtreding
