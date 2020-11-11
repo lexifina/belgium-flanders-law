@@ -10,9 +10,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART 2.
 
-Er wordt voor het schooljaar 2020-2021 als volgt afgeweken van artikel 37vicies quater, § 2, van het decreet basisonderwijs van 25 februari 1997:<br>
-1° in afwijking van het vierde lid duurt de periode waarin de ouders de aangemelde leerling kunnen inschrijven, minimaal veertien kalenderdagen;<br>
-2° in afwijking van het negende lid duurt de periode waarin de ouders de aangemelde leerling kunnen inschrijven, minimaal vijf kalenderdagen.
+...
 
 ## HOOFDSTUK 3. Afwijking van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs
 
@@ -46,9 +44,7 @@ Een vervanging als vermeld in het eerste lid eindigt uiterlijk op 30 juni 2020.
 
 ### ART 7.
 
-Er wordt voor het schooljaar 2020-2021 als volgt afgeweken van artikel 110/24, § 2, van dezelfde codex:<br>
-1° in afwijking van het vierde lid duurt de periode waarin de ouders de aangemelde leerling kunnen inschrijven, minimaal veertien kalenderdagen;<br>
-2° in afwijking van het negende lid duurt de periode waarin de ouders de aangemelde leerling kunnen inschrijven, minimaal veertien kalenderdagen.
+...
 
 ### ART 8.
 
