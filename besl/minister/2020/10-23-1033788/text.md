@@ -39,8 +39,8 @@ DE VLAAMSE MINISTER VAN FINANCIEN EN BEGROTING, WONEN EN ONROEREND ERFGOED BESLU
 
 ### ART 1.
 
-Ter uitvoering van artikel 2 van het besluit van de Vlaamse Regering van 23 oktober 2020 houdende maatregelen voor het Vlaamse woonbeleid ten gevolge van de beperkende coronavirusmaatregelen, geldt fase oranje.
+...
 
 ### ART 2.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.
+...
