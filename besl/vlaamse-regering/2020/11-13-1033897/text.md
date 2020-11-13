@@ -45,6 +45,35 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+Aan de schoolbesturen van het deeltijds kunstonderwijs wordt van 1 maart 2020 tot 30 juni 2020 en 1 september 2020 tot 31 december 2020 extra werkingsbudget toegekend.
+
+### ART 2.
+
+Het bedrag per academie wordt berekend als volgt:<br>
+- Een forfaitair bedrag van 11,04 euro per gewogen financierbare leerling.<br>
+<br>
+Voor de berekening is de volgende teldatum van toepassing: 1 februari 2020.
+
+### ART 3.
+
+Voor de periode van 19 oktober 2020 tot en met 31 december 2020 worden extra middelen toegekend aan de CLB's om tegemoet te komen aan de extra kosten ten gevolge van de stijgende impact van de coronapandemie. Het totale extra budget dat maximaal wordt toegekend bedraagt 2.572.141 euro.
+
+### ART 4.
+
+Het bedrag van 2.572.141 euro wordt als volgt verdeeld:<br>
+- Een bedrag van 2.522.141 euro voor het uitvoeren van de opdrachten rond contactonderzoek. Het bedrag wordt onder de CLB's verdeeld op basis van hun aandeel in de nieuwe omkadering.<br>
+- Een bedrag van 50.000 euro voor de aanpassing van het elektronisch dataregistratiesysteem LARS in het kader van het contactonderzoek van leerlingen en personeelsleden. Elk CLB ontvangt een forfaitair bedrag van 862,07 euro.
+
+### ART 5.
+
+Binnen de machtiging gegeven aan de Vlaamse Regering in artikel 91 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs wordt aan de centra voor basiseducatie een bedrag van 255.994,2 euro aan aanvullende werkingsmiddelen toegekend ter compensatie van de extra uitgaven tegen de verspreiding van COVID-19 van 1 maart tot en met 31 december 2020. Deze aanvullende middelen worden verdeeld over de centra voor basiseducatie volgens het aandeel aan gewogen financieringspunten voor de omkadering dat elk centrum in het refertejaar 2019 heeft bereikt.
+
+### ART 6.
+
+Binnen de machtiging gegeven aan de Vlaamse Regering in artikel 16 van het decreet van 30 oktober 2020 tot het nemen van dringende en tijdelijke maatregelen in het onderwijs in tijden van coronacrisis (IV) en tot wijziging van het decreet basisonderwijs van 25 februari 1997 en de codex secundair onderwijs van 17 december 2010 voor wat betreft de externe kwaliteitscontrole op het gelijke onderwijskansenbeleid wordt aan de centra voor volwassenenonderwijs een bedrag van 945.403,8 euro aan aanvullende werkingsmiddelen toegekend ter compensatie van de extra uitgaven tegen de verspreiding van COVID-19 van 1 maart tot en met 31 december 2020. Deze aanvullende middelen worden verdeeld over de centra voor volwassenenonderwijs volgens het aandeel aan gewogen financieringspunten voor de omkadering dat elk centrum in het refertejaar 2019 heeft bereikt.
+
 ### ART 7.
 
 In het besluit van de Vlaamse Regering van 5 juni 2020 tot toekenning van extra werkingsbudget voor de scholen van het gewoon en buitengewoon basis- en secundair onderwijs omwille van de genomen maatregelen en hieraan verbonden extra onkosten gemaakt door de scholen tegen verspreiding van COVID-19 wordt een artikel 4/1 ingevoegd dat luidt als volgt:<br>
@@ -83,3 +112,35 @@ De in het eerste lid vermelde internen zijn uit huis geplaatste jongeren of jong
 Het bedrag dat aan de instelling vermeld in artikel 1, 1°, en 3°, ter beschikking wordt gesteld is 100 euro per interne per dag waarop de interne aanwezig is geweest.<br>
 <br>
 Het bedrag dat aan de instelling vermeld in artikel 1, 2°, en 4°, ter beschikking wordt gesteld is 25 euro per interne per dag waarop de interne aanwezig is geweest.
+
+### ART 9.
+
+§ 1. Vanaf 16 november 2020 tot en met 31 maart 2021 kunnen alle scholen voor gewoon en buitengewoon basis- en secundair onderwijs een gewone zending doen voor korte vervangingen die nodig zijn om de school open te houden, wanneer de schoolorganisatie in het gedrang komt. Alle ambten van het onderwijzend personeel en de kinderverzorgers komen in aanmerking. De afwezigheid moet voldoen aan de volgende voorwaarden:<br>
+- Het gaat om een afwezigheid van minder dan tien werkdagen;<br>
+- De afwezigheid is te wijten aan ziekteverlof, profylactisch verlof, verlof wegens overmacht of heirkracht, ingevolge de coronacrisis.<br>
+<br>
+De school stuurt daartoe een verklaring op eer aan het Agentschap voor Onderwijsdiensten, waarin ze verklaart dat er proportioneel veel afwezigen zijn, alle andere bestaande vervangingsmogelijkheden zijn uitgeput en de schoolorganisatie niet mogelijk is met de aanwezige personeelsleden.<br>
+<br>
+De school kan enkel van deze regeling gebruik maken indien er daadwerkelijk een vervanger is gevonden en ingezet.<br>
+<br>
+§ 2. Vanaf 16 november 2020 tot en met 31 maart 2021 kunnen in de internaten en de tehuizen voor kinderen met ouders die geen vaste verblijfplaats hebben, zoals vermeld in deel III van het besluit van de Vlaamse Regering van 28 oktober 2016 betreffende codificatie sommige bepalingen voor het onderwijs, in alle ambten vervangingen worden toegestaan van een personeelslid dat aangesteld is in een gefinancierde of gesubsidieerde betrekking in het onderwijs, als de organisatie van het internaat in het gedrang komt.<br>
+<br>
+De afwezigheid moet voldoen aan de volgende voorwaarden:<br>
+- Het gaat om een afwezigheid van minder dan tien werkdagen;<br>
+- De afwezigheid is te wijten aan ziekteverlof, profylactisch verlof, verlof wegens overmacht of heirkracht, ingevolge de coronacrisis.<br>
+<br>
+Het internaat stuurt daartoe een verklaring op eer aan het Agentschap voor Onderwijsdiensten, waarin het verklaart dat er proportioneel veel afwezigen zijn en alle andere vervangingsmogelijkheden zijn uitgeput en dat de organisatie van het internaat niet mogelijk is met de aanwezige personeelsleden.<br>
+<br>
+Het internaat kan enkel van deze regeling gebruik maken indien er daadwerkelijk een vervanger is gevonden en ingezet.<br>
+<br>
+In afwijking van het eerste lid kunnen in de internaten met permanente openstelling deze vervangingen worden toegestaan vanaf 1 november 2020.
+
+### ART 10.
+
+Dit besluit treedt in werking op de datum van de goedkeuring.<br>
+<br>
+Artikel 7 en 8 van dit besluit hebben uitwerking met ingang van 27 maart 2020.
+
+### ART 11.
+
+De Vlaamse minister, bevoegd voor het onderwijs is belast met de uitvoering van dit besluit.
