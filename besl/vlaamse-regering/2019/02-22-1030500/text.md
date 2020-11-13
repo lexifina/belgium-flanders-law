@@ -157,7 +157,7 @@ Het agentschap&nbsp;beslist tot terugvordering van de subsidie conform artikel 5
 
 ### ART 18.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2019 en houdt op uitwerking te hebben op 1 april 2021.
+Dit besluit heeft uitwerking met ingang van 1 januari 2019 en houdt op uitwerking te hebben op 31 maart 2023.
 
 ### ART 19.
 
