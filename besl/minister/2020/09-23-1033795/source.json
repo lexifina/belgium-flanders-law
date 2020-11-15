@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033795,
+  "title": "Ministerieel besluit van 2020-09-23 tot vervanging van een plaatsvervangend lid van de strategische adviesraad Ruimtelijke Ordening en Onroerend Erfgoed en van de strategische adviesraad Milieu- en Natuurraad van Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033795/VolledigDocument?datum=2020-11-15",
+  "source_sha256": "68f6ddcaf001ef93f5875c894fb7f69213aca51d2a3ba6ebd8cfe81ee48eb4c9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033795&param=informatie",
+  "as_of": "2020-11-15",
+  "made": "2020-09-23",
+  "gazette": "2020-11-05",
+  "numac": 2020043454,
+  "document_start": "2020-11-15",
+  "document_end": null,
+  "in_force": "2020-11-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-11-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
