@@ -230,7 +230,7 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=108">Afkortingen</a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=19">Afkortingen</a></p>
 
 ## 2. Overzicht
 
@@ -240,17 +240,13 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=109">2.1. Directeur</a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=20">2.1. Directeur</a></p>
 
 ## [2.2. Coordinator (ing. BVR 15 juni 2018, art. 7, I: 1 september 2018)]
 
 ### a
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=110">2.2. Coördinator</a><br>
-<br>
-Bij BVR van 28 juni 2019, BS 14 augustus 2019, worden met ingang van 1 september 2018 de volgende wijzigingen aangebracht:<br>
-<br>
--&nbsp; de zinsnede "de houder van een erkenning van een titel of bekwaamheid als arts-specialist uitgereikt door het agentschap zorg en gezondheid" vervangen door de zinsnede "de houder van een vereist of voldoende geacht bekwaamheidsbewijs voor het ambt van arts in een CLB"
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=21">2.2. Coördinator</a>
 
 ## [... (opgeh. BVR 15 juni 2018, art. 7, I: 1 september 2018)]
 
@@ -264,49 +260,49 @@ Bij BVR van 28 juni 2019, BS 14 augustus 2019, worden met ingang van 1 september
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=111">3.1. Arts</a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=22">3.1. Arts</a></p>
 
 ## 3.2. Consulent
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=114">3.2. Consulent</a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=24">3.2. Consulent</a></p>
 
 ## 3.3. Psychopedagogisch consulent
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=115">3.3. Psychopedagogisch consulent </a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=25">3.3. Psychopedagogisch consulent</a></p>
 
 ## 3.4. Maatschappelijk werker
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=116">3.4. Maatschappelijk werker</a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=26">3.4. Maatschappelijk werker</a></p>
 
 ## 3.5. Psychopedagogisch werker
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=117">3.5. Psychopedagogisch werker</a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=27">3.5. Psychopedagogisch werker</a></p>
 
 ## 3.6. Paramedisch werker
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=119">3.6. Paramedisch werker</a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=29">3.6. Paramedisch werker</a></p>
 
 ## 3.7. Intercultureel bemiddelaar
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=121">3.7. Intercultureel bemiddelaar</a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=31">3.7. Intercultureel bemiddelaar</a></p>
 
 ## 3.8. Ervaringsdeskundige
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=123">3.8. Ervaringsdeskundige</a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=33">3.8. Ervaringsdeskundige</a></p>
 
 ## [Ondersteunend personeel (ing. BVR 15 juni 2018, art. 7, I: 1 september 2018)]
 
@@ -314,4 +310,4 @@ Bij BVR van 28 juni 2019, BS 14 augustus 2019, worden met ingang van 1 september
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=124">4.1. Administratief medewerker</a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=33">Administratief medewerker</a></p>
