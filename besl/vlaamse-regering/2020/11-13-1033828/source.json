@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033828,
+  "title": "Besluit van de Vlaamse Regering van 2020-11-13 tot erkenning van de COVID-19-crisis en tot afwijking van de regeling over de Winwinlening",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033828/VolledigDocument?datum=2020-11-20",
+  "source_sha256": "98649ed213c4f8f330a4553117654687b9c7590e5ca487dba81a042f90804585",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033828&param=informatie",
+  "as_of": "2020-11-20",
+  "made": "2020-11-13",
+  "gazette": "2020-11-19",
+  "numac": 2020031660,
+  "document_start": "2020-11-20",
+  "document_end": null,
+  "in_force": "2020-11-20",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2020-11-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
