@@ -46,7 +46,17 @@ Op basis van de vaststellingen, vermeld in artikel 4 en 5, wordt voor elke organ
 
 ### ART. 7.
 
-De derde stap is de toewijzing van de vte's, die overblijven na de toepassing van artikel 4. Die vte's worden op de volgende wijze toegewezen : <br />1° het effectieve ondertal van de organisatie wordt gedeeld door twee. Daarna worden, voor de cijfers na de komma, de volgende afrondingsregels toegepast : <br />a) 0,00 tot en met 0,24 staat voor 0;<br />b) 0,25 tot en met 0,49 staat voor 0,25;<br />c) 0,50 tot en met 0,74 staat voor 0,50;<br />d) 0,75 tot en met 0,99 staat voor 0,75.<br />2° de toewijzing gebeurt vervolgens in afdalende volgorde met opname van telkens het volledige recht.<br />3° als er na de toepassing van de voorafname, vermeld in artikel 4, en van de toewijzing, vermeld in punt 1° en 2°, nog vte's overblijven, worden zij toegewezen op basis van het overblijvende ondertal van de organisaties, afdalend en met opname van hun volledige recht. <br />4° als er voldoende dac-middelen zijn, worden extra vte's, die in de loop van de nieuwe beleidsperiode vrijkomen, in eerste instantie in de vorm van een halve vte toegewezen aan nieuw erkende of gesubsidieerde organisaties. Vervolgens worden de dac-middelen verder verdeeld op basis van het overblijvende ondertal van de organisaties, afdalend en met opname van hun volledige recht. <br />5° als er onvoldoende dac-middelen zijn om de verdeling uitputtend te doen, wordt iedere vrijgekomen vte vanaf 1 januari 2012, en zo verder in de volgende beleidsperioden, toegekend aan de nieuwe organisaties en aan de organisaties die nog niet aan bod zijn gekomen. De vte's worden toegekend vanaf 1 januari van het jaar dat volgt op het jaar waarin de functie is vrijgekomen.
+De derde stap is de toewijzing van de vte's, die overblijven na de toepassing van artikel 4. Die vte's worden op de volgende wijze toegewezen :<br>
+1° het effectieve ondertal van de organisatie wordt gedeeld door twee. Daarna worden, voor de cijfers na de komma, de volgende afrondingsregels toegepast :<br>
+a) 0,00 tot en met 0,24 staat voor 0;<br>
+b) 0,25 tot en met 0,49 staat voor 0,25;<br>
+c) 0,50 tot en met 0,74 staat voor 0,50;<br>
+d) 0,75 tot en met 0,99 staat voor 0,75.<br>
+2° de toewijzing gebeurt vervolgens in afdalende volgorde met opname van telkens het volledige recht.<br>
+3° als er na de toepassing van de voorafname, vermeld in artikel 4, en van de toewijzing, vermeld in punt 1° en 2°, nog vte's overblijven, worden zij toegewezen op basis van het overblijvende ondertal van de organisaties, afdalend en met opname van hun volledige recht.<br>
+4° als er voldoende dac-middelen zijn, worden extra vte's, die in de loop van de nieuwe beleidsperiode vrijkomen, in eerste instantie in de vorm van een halve vte toegewezen aan nieuw erkende of gesubsidieerde organisaties. Vervolgens worden de dac-middelen verder verdeeld op basis van het overblijvende ondertal van de organisaties, afdalend en met opname van hun volledige recht.<br>
+5° als er onvoldoende dac-middelen zijn om de verdeling uitputtend te doen, wordt iedere vrijgekomen vte vanaf 1 januari 2012, en zo verder in de volgende beleidsperioden, toegekend aan de nieuwe organisaties en aan de organisaties die nog niet aan bod zijn gekomen. De vte's worden toegekend vanaf 1 januari van het jaar dat volgt op het jaar waarin de functie is vrijgekomen;<br>
+6° in afwijking van punt 4°, zal in het laatste jaar van de invulling van de DAC-normalisering, namelijk 2020, het beschikbare budget evenredig verdeeld worden over de nog openstaande trekkingsrechten, als het beschikbare budget onvoldoende is voor een volledige invulling voor alle organisaties, zoals bepaald in artikel 5.
 
 ### ART. 8.
 
