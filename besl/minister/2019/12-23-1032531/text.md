@@ -469,7 +469,13 @@ In de periode van 1 juli 2020 tot 31 december 2020 is het in de ICES-gebieden II
 <br>
 De hoeveelheden, vermeld in de paragrafen een tot en met drie, worden van 1 april 2020 tot en met 30 juni 2020 tot 500 kg per vaartdag verhoogd, als het vaartuig in kwestie gedurende de gehele visreis actief was met een TR1- of BT1-vistuig.<br>
 <br>
-De hoeveelheden, vermeld in de paragrafen een en twee worden vanaf 1 juli 2020 tot en met 31 december 2020 met 600 kg per vaartdag verhoogd, als het vaartuig in kwestie gedurende de gehele visreis actief was met TR1 of BT1-vistuig.<br>
+De hoeveelheden, vermeld in de paragrafen een en twee, worden van 1 juli 2020 tot en met 24 november 2020 met 600 kg per vaartdag verhoogd, als het vaartuig in kwestie gedurende de gehele visreis actief was met TR1 of BT1-vistuig.<br>
+<br>
+Vanaf 25 november 2020 worden de hoeveelheden, vermeld in de paragrafen een en twee, met 400 kg per vaartdag verhoogd, als het vaartuig in kwestie gedurende de gehele visreis actief was met TR1 of BT1-vistuig.<br>
+<br>
+Op het ogenblik dat vastgesteld wordt dat 90% van het kabeljauwquotum is opgevist, zal de secretaris-generaal van de bevoegde entiteit conform artikel 3 deze feitelijke vaststelling meedelen in het Belgisch Staatsblad.<br>
+<br>
+De dag na publicatie worden de hoeveelheden vermeld in de paragrafen een en twee, nog slechts met 100kg per vaartdag verhoogd, als het vaartuig in kwestie gedurende de hele reis actief was met TR1 of BT1-vistuig.<br>
 <br>
 § 7. ...
 
