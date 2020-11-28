@@ -68,6 +68,45 @@ Als   de beheerovereenkomst aanvangt op 1 januari 2015 dan kunnen de exemplaren 
 
 ## [HOOFDSTUK 2/1. Kortlopende beheerovereenkomsten (ing. MB 9 november 2020, art. 1, I: 28 november 2020)]
 
+### ART 4/1.
+
+In dit hoofdstuk wordt verstaan onder:<br>
+1° kortlopende beheerovereenkomst: een beheerovereenkomst die gesloten is voor een periode van twee jaar;<br>
+2° aflopende beheerovereenkomst: de eerste beheerovereenkomst waarop de kortlopende beheerovereenkomst onmiddellijk aansluit.
+
+### ART 4/2.
+
+Beheerovereenkomsten die onmiddellijk op de periode van de eerste beheerovereenkomst aansluiten, kunnen gesloten worden voor een periode van twee jaar.<br>
+<br>
+Hoofdstuk 1 tot en met 8, met uitzondering van artikel 36, tweede lid van het besluit van de Vlaamse Regering van 19 september 2014 en hoofdstuk 1 tot en met 5 van dit besluit zijn van toepassing op kortlopende beheerovereenkomsten.
+
+### ART 4/3.
+
+Kortlopende beheerovereenkomsten kunnen gesloten worden als voldaan is aan al de volgende voorwaarden:<br>
+1° de aanvraag om de beheerovereenkomst te sluiten wordt, op straffe van verval, uiterlijk op 30 november 2020, met een aangetekende brief naar de maatschappij gestuurd of bij de maatschappij afgegeven tegen ontvangstbewijs;<br>
+2° de exemplaren van de kortlopende beheerovereenkomst die de beheerder ondertekend heeft, worden op straffe van verval van de beheerovereenkomst voor 1 januari 2021 aan de maatschappij bezorgd;<br>
+3° de startdatum van de kortlopende beheerovereenkomst is 1 januari 2021;<br>
+4° het beheerpakket in de kortlopende beheerovereenkomst is hetzelfde als het beheerpakket in de aflopende beheerovereenkomst;<br>
+5° de afmeting van het beheervoorwerp in de kortlopende beheerovereenkomst is gelijk aan de afmeting van het beheervoorwerp opgenomen in de aflopende beheerovereenkomst. Als een deel van het beheervoorwerp waarvoor de kortlopende beheerovereenkomst, wordt aangevraagd niet voldoet aan de instapvoorwaarden wordt de afmeting van het beheervoorwerp verkleind tot het deel dat voldoet aan de instapvoorwaarden. Als de maatschappij oordeelt dat het deel van het beheervoorwerp dat nog voldoet aan de instapvoorwaarden te klein is om de beheerdoelstelling op redelijke wijze te realiseren, wordt geen kortlopende beheerovereenkomst gesloten.<br>
+<br>
+In afwijking van het eerste lid, 4° wordt het beheerpakket aanleg en onderhoud gemengde grasstrook binnen de beheerdoelstelling erosiebestrijding, perceelsrandenbeheer of soortenbescherming die is opgenomen in een aflopende beheerovereenkomst gevolgd door een kortlopende beheerovereenkomst waarin het beheerpakket onderhoud gemengde grasstrook binnen dezelfde beheerdoelstelling is opgenomen. Alleen als de maatschappij oordeelt dat de bestaande grasstrook onvoldoende ontwikkeld is om het beheerpakket onderhoud gemengde grasstrook aan te gaan, wordt een beheerpakket aanleg en onderhoud gemengde grasstrook aangegaan.<br>
+<br>
+In afwijking van het eerste lid, 4° wordt het beheerpakket aanleg en onderhoud gemengde grasstrook plus binnen de beheerdoelstelling erosiebestrijding, perceelsrandenbeheer of soortenbescherming die is opgenomen in een aflopende beheerovereenkomst gevolgd door een kortlopende beheerovereenkomst waarin het beheerpakket onderhoud gemengde grasstrook plus binnen dezelfde beheerdoelstelling is opgenomen. Alleen als de maatschappij oordeelt dat de bestaande grasstrook onvoldoende ontwikkeld is om het beheerpakket onderhoud gemengde grasstrook plus aan te gaan, wordt een beheerpakket aanleg en onderhoud gemengde grasstrook plus aangegaan.<br>
+<br>
+In afwijking van het eerste lid, 4° wordt het beheerpakket ontwikkeling soortenrijk grasland die is opgenomen in een aflopende beheerovereenkomst gevolgd door een kortlopende beheerovereenkomst waarin het beheerpakket instandhouding soortenrijk grasland is opgenomen voor zover het perceel volgens de inventarisatie, vermeld in artikel 9, als vegetatietype het graslandtype graskruidenmix, het graslandtype bloemrijk grasland of het graslandtype schraalland heeft.
+
+### ART 4/4.
+
+Een kortlopende beheerovereenkomst kan niet gesloten worden voor de volgende beheerpakketten:<br>
+1° het beheerpakket onderhoud kaphaag;<br>
+2° het beheerpakket onderhoud heg;<br>
+3° het beheerpakket onderhoud houtkant 50 % afzetten;<br>
+4° het beheerpakket onderhoud houtkant 25 % afzetten;<br>
+5° het beheerpakket omvormingsbeheer houtkant;<br>
+6° het beheerpakket onderhoud knotbomenrij;<br>
+7° het beheerpakket onderhoud houtsingel;<br>
+8° het beheerpakket onderhoud houtkant.
+
 ## HOOFDSTUK 3 Bijzondere bepalingen over de verlenging, de overname, de omzetting, de uitbreiding en de vervanging van een beheerovereenkomst
 
 ### ART. 5.
@@ -1825,6 +1864,13 @@ Tabel b)<br>
 		</tr>
 	</tbody>
 </table>
+<br>
+<br>
+* Bij MB van 9 november 2020, BS 18 november 2020, worden de volgende wijzigingen aangebracht met ingang van 28 november 2020:<br>
+<br>
+1° in paragraaf 1 wordt de zinsnede "Als in het kader van de diverse beheerpakketten aanleg en onderhoud gemengde grasstrook of de diverse beheerpakketten aanleg en onderhoud gemengde grasstrook plus een graskruidenmengsel ingezaaid moet worden, moet voldaan worden aan de volgende voorwaarden:" vervangen door de zinsnede "Als in het kader van de diverse beheerpakketten aanleg en onderhoud gemengde grasstrook of de diverse beheerpakketten aanleg en onderhoud gemengde grasstrook plus een graskruidenmengsel ingezaaid moet worden, wordt daarvoor een mengsel gebruikt dat goedgekeurd is door de maatschappij of dat voldoet aan de volgende voorwaarden:";<br>
+2° in paragraaf 2 wordt de zinsnede "Als in het kader van het beheerpakket aanleg en onderhoud bloemenstrook een bloemenmengsel of mengsel van vlinderbloemigen ingezaaid moet worden, moet voldaan worden aan al de volgende voorwaarden:" vervangen door de zinsnede "Als in het kader van het beheerpakket aanleg en onderhoud bloemenstrook een bloemenmengsel of mengsel van vlinderbloemigen ingezaaid moet worden, wordt daarvoor een mengsel gebruikt dat goedgekeurd is door de maatschappij of dat voldoet aan de volgende voorwaarden:";<br>
+3° in paragraaf 3 wordt de zinsnede "Als in het kader van het beheerpakket aanleg en onderhoud gemengde grasstrook vogelakker een graskruidenmengsel ingezaaid moet worden, moet voldaan worden aan de volgende voorwaarden:" vervangen door de zinsnede "Als in het kader van het beheerpakket aanleg en onderhoud gemengde grasstrook vogelakker een graskruidenmengsel ingezaaid moet worden, wordt daarvoor een mengsel gebruikt dat goedgekeurd is door de maatschappij of dat voldoet aan de volgende voorwaarden:".
 
 ### BIJLAGE 6
 
