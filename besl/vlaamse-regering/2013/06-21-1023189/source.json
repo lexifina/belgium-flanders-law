@@ -2,16 +2,16 @@
   "codex_id": 1023189,
   "title": "Besluit van de Vlaamse Regering van 2013-06-21 tot erkenning van de beroepskwalificatie Productiemedewerker drukafwerking in de printmedia",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023189/VolledigDocument?datum=2013-08-24",
-  "source_sha256": "6f61cdd1dd3f767cca7d98231cfa7c1e7abbc5ef3c27e1c2701e6f04edda4abc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023189/VolledigDocument?datum=2020-11-30",
+  "source_sha256": "980cb418dd043c4e219488e064599b960d65da32eedfe704155dd0a5170f28e8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023189&param=informatie",
-  "as_of": "2013-08-24",
+  "as_of": "2020-11-30",
   "made": "2013-06-21",
   "gazette": "2013-08-14",
   "numac": 2013035701,
   "document_start": "2013-08-24",
   "document_end": null,
-  "in_force": "2013-08-24",
+  "in_force": "2020-11-30",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-08-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-11-30; future article versions excluded; article text as the API gives it"
 }
