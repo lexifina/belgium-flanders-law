@@ -14,4 +14,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de   Vlaamse minister, bevoe
 
 ### Bijlage
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/03/31_1.pdf#page=333">Bijlage. Beschrijving van de beroepskwalificatie van schilder-decorateur.</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/20_1.pdf#page=412">Beschrijving van de beroepskwalificatie schilder-decorateur.</a>

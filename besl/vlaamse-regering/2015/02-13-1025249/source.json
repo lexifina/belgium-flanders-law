@@ -2,16 +2,16 @@
   "codex_id": 1025249,
   "title": "Besluit van de Vlaamse Regering van 2015-02-13 tot erkenning van de beroepskwalificatie schilder-decorateur",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025249/VolledigDocument?datum=2020-04-10",
-  "source_sha256": "1e35b20aada90951393f4d35772b20dafa05f8a1068d561bf2471b640ef06588",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025249/VolledigDocument?datum=2020-11-30",
+  "source_sha256": "00a80b84f1a4fcde96ec6bbcd82daa7d74f2dee4a8c7f567d0ef218e98179b9e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025249&param=informatie",
-  "as_of": "2020-04-10",
+  "as_of": "2020-11-30",
   "made": "2015-02-13",
   "gazette": "2015-04-10",
   "numac": 2015035386,
   "document_start": "2015-04-20",
   "document_end": null,
-  "in_force": "2020-04-10",
+  "in_force": "2020-11-30",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-11-30; future article versions excluded; article text as the API gives it"
 }
