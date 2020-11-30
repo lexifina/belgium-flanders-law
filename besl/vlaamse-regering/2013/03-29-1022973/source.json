@@ -2,16 +2,16 @@
   "codex_id": 1022973,
   "title": "Besluit van de Vlaamse Regering van 2013-03-29 tot erkenning van de beroepskwalificatie productieoperator Voedingsindustrie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022973/VolledigDocument?datum=2013-06-22",
-  "source_sha256": "1e4dc2bacf43acab5bf711786235b4820b3fdbd30ca70f9ae743c0eb42a7265e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022973/VolledigDocument?datum=2020-11-30",
+  "source_sha256": "7de04e26301171f70511c3302e6b4991bfaa323d4c669233faca16d668413ef3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022973&param=informatie",
-  "as_of": "2013-06-22",
+  "as_of": "2020-11-30",
   "made": "2013-03-29",
   "gazette": "2013-06-12",
   "numac": 2013035489,
   "document_start": "2013-06-22",
   "document_end": null,
-  "in_force": "2013-06-22",
+  "in_force": "2020-11-30",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-06-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-11-30; future article versions excluded; article text as the API gives it"
 }
