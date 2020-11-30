@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033847,
+  "title": "Ministerieel besluit van 2020-10-08 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 13 februari 2015 tot erkenning van de beroepskwalificatie verwerker afgedankte elektrische en elektronische apparatuur (aeea)",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033847/VolledigDocument?datum=2020-11-30",
+  "source_sha256": "3a0e0ddb952f1d77216f2b2dc746f4cb617df477122a99b70d59b2a0f8d4ec44",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033847&param=informatie",
+  "as_of": "2020-11-30",
+  "made": "2020-10-08",
+  "gazette": "2020-11-20",
+  "numac": 2020015848,
+  "document_start": "2020-11-30",
+  "document_end": null,
+  "in_force": "2020-11-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-11-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
