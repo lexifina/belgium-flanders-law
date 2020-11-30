@@ -2,16 +2,16 @@
   "codex_id": 1024010,
   "title": "Besluit van de Vlaamse Regering van 2014-01-31 tot erkenning van de beroepskwalificatie industrieel verpakker",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024010/VolledigDocument?datum=2014-04-24",
-  "source_sha256": "c86fcf679684a4867749530ba57e67f1fbbfb7d3b736349b1ae6477d5b9caa1c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024010/VolledigDocument?datum=2020-11-30",
+  "source_sha256": "0f6528036ec439c37ca5ac004dbd40c79733d036ef59124e698f1e25cba52eb0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024010&param=informatie",
-  "as_of": "2014-04-24",
+  "as_of": "2020-11-30",
   "made": "2014-01-31",
   "gazette": "2014-04-14",
   "numac": 2014035323,
   "document_start": "2014-04-24",
   "document_end": null,
-  "in_force": "2014-04-24",
+  "in_force": "2020-11-30",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-04-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-11-30; future article versions excluded; article text as the API gives it"
 }
