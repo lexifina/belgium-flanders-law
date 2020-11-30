@@ -2,16 +2,16 @@
   "codex_id": 1023190,
   "title": "Besluit van de Vlaamse Regering van 2013-06-21 tot erkenning van de beroepskwalificatie Procesoperator drukken in de printmedia",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023190/VolledigDocument?datum=2013-08-24",
-  "source_sha256": "eb46f7a4ea844eb0748fb839f37fb1da4520b16f10a83e3bb637a1c43575346d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023190/VolledigDocument?datum=2020-11-30",
+  "source_sha256": "54cfd7aa6b7125a29d9d95e1eb11a18f4627aa632bc730663c3b715161403d5b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023190&param=informatie",
-  "as_of": "2013-08-24",
+  "as_of": "2020-11-30",
   "made": "2013-06-21",
   "gazette": "2013-08-14",
   "numac": 2013035702,
   "document_start": "2013-08-24",
   "document_end": null,
-  "in_force": "2013-08-24",
+  "in_force": "2020-11-30",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-08-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-11-30; future article versions excluded; article text as the API gives it"
 }
