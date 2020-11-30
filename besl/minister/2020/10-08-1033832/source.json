@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033832,
+  "title": "Ministerieel besluit van 2020-10-08 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 29 november 2013 tot erkenning van de beroepskwalificatie bekister - betonneerder",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033832/VolledigDocument?datum=2020-11-30",
+  "source_sha256": "12abdc952abce9317012939db6c38b530409dcf790ca49beee8aea6aad17a2bb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033832&param=informatie",
+  "as_of": "2020-11-30",
+  "made": "2020-10-08",
+  "gazette": "2020-11-20",
+  "numac": 2020015786,
+  "document_start": "2020-11-30",
+  "document_end": null,
+  "in_force": "2020-11-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-11-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
