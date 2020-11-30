@@ -2,16 +2,16 @@
   "codex_id": 1026551,
   "title": "Besluit van de Vlaamse Regering van 2016-01-08 tot erkenning van de beroepskwalificatie roerganger zeevisserij",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026551/VolledigDocument?datum=2016-03-26",
-  "source_sha256": "ac53c9afccf2a4bdb52cdf5da5177f9ab13358c44cb1cc91e5dd3d884ab4d481",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026551/VolledigDocument?datum=2020-11-30",
+  "source_sha256": "288bc8f48745346e432b3a9834f85b05160111c66355c44f7f85e347c50d0556",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026551&param=informatie",
-  "as_of": "2016-03-26",
+  "as_of": "2020-11-30",
   "made": "2016-01-08",
   "gazette": "2016-03-16",
   "numac": 2016035243,
   "document_start": "2016-03-26",
   "document_end": null,
-  "in_force": "2016-03-26",
+  "in_force": "2020-11-30",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-11-30; future article versions excluded; article text as the API gives it"
 }
