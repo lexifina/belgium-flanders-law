@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033863,
+  "title": "Ministerieel besluit van 2020-10-08 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 31 januari 2014 tot erkenning van de beroepskwalificatie industrieel verpakker",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033863/VolledigDocument?datum=2020-11-30",
+  "source_sha256": "9da08e18f0986ffc301d2062aff6027dfd8a8c9cf7bdb30ef8150966acff91e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033863&param=informatie",
+  "as_of": "2020-11-30",
+  "made": "2020-10-08",
+  "gazette": "2020-11-20",
+  "numac": 2020043413,
+  "document_start": "2020-11-30",
+  "document_end": null,
+  "in_force": "2020-11-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-11-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
