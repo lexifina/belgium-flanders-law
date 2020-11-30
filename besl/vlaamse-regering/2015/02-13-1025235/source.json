@@ -2,16 +2,16 @@
   "codex_id": 1025235,
   "title": "Besluit van de Vlaamse Regering van 2015-02-13 tot erkenning van de beroepskwalificatie depollueerder personenwagens en lichte bedrijfsvoertuigen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025235/VolledigDocument?datum=2015-04-20",
-  "source_sha256": "e9520a18181a1ee58616343ab55889bfa2ed5a1c03dec3780b4ea583bd69f72f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025235/VolledigDocument?datum=2020-11-30",
+  "source_sha256": "6979f11375129fca9018bb90ffe346b1eee255d1a140ab64ea6eabfbf5e183a3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025235&param=informatie",
-  "as_of": "2015-04-20",
+  "as_of": "2020-11-30",
   "made": "2015-02-13",
   "gazette": "2015-04-10",
   "numac": 2015035326,
   "document_start": "2015-04-20",
   "document_end": null,
-  "in_force": "2015-04-20",
+  "in_force": "2020-11-30",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2015-04-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-11-30; future article versions excluded; article text as the API gives it"
 }
