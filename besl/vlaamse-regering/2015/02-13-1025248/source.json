@@ -2,16 +2,16 @@
   "codex_id": 1025248,
   "title": "Besluit van de Vlaamse Regering van 2015-02-13 tot erkenning van de beroepskwalificatie sorteerder terugwinning van metalen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025248/VolledigDocument?datum=2015-04-20",
-  "source_sha256": "9d032d6d656cbcab0a93680ea261b2bb713962ef9828129ef59954c0659d51cc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025248/VolledigDocument?datum=2020-11-30",
+  "source_sha256": "9f60cd34f54c63c1ebd359811fd17a3503a4a25cb83bfaad4ee2e174e852253d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025248&param=informatie",
-  "as_of": "2015-04-20",
+  "as_of": "2020-11-30",
   "made": "2015-02-13",
   "gazette": "2015-04-10",
   "numac": 2015035385,
   "document_start": "2015-04-20",
   "document_end": null,
-  "in_force": "2015-04-20",
+  "in_force": "2020-11-30",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2015-04-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-11-30; future article versions excluded; article text as the API gives it"
 }
