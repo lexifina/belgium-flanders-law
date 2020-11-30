@@ -2,16 +2,16 @@
   "codex_id": 1026550,
   "title": "Besluit van de Vlaamse Regering van 2016-01-08 tot erkenning van de beroepskwalificatie matroos zeevisserij",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026550/VolledigDocument?datum=2016-03-26",
-  "source_sha256": "d5a0c54e1fd1d69cab8bdccf6702de8d3f7f3687d8e989b88fbb2c02c1dad3fc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026550/VolledigDocument?datum=2020-11-30",
+  "source_sha256": "4b38d3427ee493e1cc1469a0a63187774385044e81898fce0abaaadfb69f28e2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026550&param=informatie",
-  "as_of": "2016-03-26",
+  "as_of": "2020-11-30",
   "made": "2016-01-08",
   "gazette": "2016-03-16",
   "numac": 2016035272,
   "document_start": "2016-03-26",
   "document_end": null,
-  "in_force": "2016-03-26",
+  "in_force": "2020-11-30",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-11-30; future article versions excluded; article text as the API gives it"
 }
