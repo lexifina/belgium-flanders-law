@@ -14,4 +14,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de   Vlaamse minister, bevoe
 
 ### BIJLAGE
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/03/31_1.pdf#page=245">Bijlage. Beschrijving van de beroepskwalificatie van stukadoor.</a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/20_1.pdf#page=493">Beschrijving van de beroepskwalificatie van stukadoor.</a></p>

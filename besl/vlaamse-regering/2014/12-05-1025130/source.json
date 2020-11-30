@@ -2,16 +2,16 @@
   "codex_id": 1025130,
   "title": "Besluit van de Vlaamse Regering van 2014-12-05 tot erkenning van de beroepskwalificatie stukadoor",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025130/VolledigDocument?datum=2020-04-10",
-  "source_sha256": "eda885bcc5230725934133a8cc349a8ec976ad8660f4c406493564d6bbd080bc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025130/VolledigDocument?datum=2020-11-30",
+  "source_sha256": "726ed8bb9f01043c4a20e94fb41e1f7f2eac54e98f9c30ab23c672597d083b00",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025130&param=informatie",
-  "as_of": "2020-04-10",
+  "as_of": "2020-11-30",
   "made": "2014-12-05",
   "gazette": "2015-03-20",
   "numac": 2015035168,
   "document_start": "2015-03-30",
   "document_end": null,
-  "in_force": "2020-04-10",
+  "in_force": "2020-11-30",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2020-04-10; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-11-30; future article versions excluded; article text as the API gives it"
 }
