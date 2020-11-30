@@ -2,16 +2,16 @@
   "codex_id": 1026549,
   "title": "Besluit van de Vlaamse Regering van 2016-01-08 tot erkenning van de beroepskwalificatie stuurman zeevisserij",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026549/VolledigDocument?datum=2016-03-26",
-  "source_sha256": "f5d8bb9265a22265ebae7c5a3db2df3b6c22cdacb2c799e8fb7471779fbe87f4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026549/VolledigDocument?datum=2020-11-30",
+  "source_sha256": "82710002d23672a3666a6768fbd321618f53ed37ff2b8bf42512993f6612a3cd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026549&param=informatie",
-  "as_of": "2016-03-26",
+  "as_of": "2020-11-30",
   "made": "2016-01-08",
   "gazette": "2016-03-16",
   "numac": 2016035267,
   "document_start": "2016-03-26",
   "document_end": null,
-  "in_force": "2016-03-26",
+  "in_force": "2020-11-30",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-11-30; future article versions excluded; article text as the API gives it"
 }
