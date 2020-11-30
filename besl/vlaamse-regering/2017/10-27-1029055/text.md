@@ -20,4 +20,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### Bijlage
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/02/22_1.pdf#page=359">Bijlage</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/20_1.pdf#page=671">Beschrijving van de beroepskwalificatie productieoperator drukafwerking in de printmedia.</a>
