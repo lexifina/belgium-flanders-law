@@ -2,16 +2,16 @@
   "codex_id": 1022964,
   "title": "Besluit van de Vlaamse Regering van 2013-03-29 tot erkenning van de beroepskwalificatie procesoperator Hout",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022964/VolledigDocument?datum=2013-06-20",
-  "source_sha256": "157fa893a7ed5e0b3caf78025cc1813ce195e2ae92330a2b8426029b940d9c99",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022964/VolledigDocument?datum=2020-11-30",
+  "source_sha256": "e0c20b2da2dbd2cce846792ff8a3a39b27e70317495b07fc0cc8a3cc2236b877",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022964&param=informatie",
-  "as_of": "2013-06-20",
+  "as_of": "2020-11-30",
   "made": "2013-03-29",
   "gazette": "2013-06-10",
   "numac": 2013035494,
   "document_start": "2013-06-20",
   "document_end": null,
-  "in_force": "2013-06-20",
+  "in_force": "2020-11-30",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-06-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-11-30; future article versions excluded; article text as the API gives it"
 }
