@@ -20,7 +20,8 @@ c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de d
 4° onteigenende instantie: de tot onteigening bevoegde instantie die over een wettelijke of decretaal bepaalde rechtsgrond daartoe beschikt;<br>
 5° onteigening: de gedwongen overdracht van de eigendom of van een zakelijk recht op een onroerend goed, op de wijze en in de gevallen, vermeld in dit decreet;<br>
 6° verzoek tot zelfrealisatie: een schriftelijk document waarin een eigenaar of een houder van een zakelijk recht in geval van toepassing van artikel 4, ten aanzien van wie een voorlopig onteigeningsbesluit wordt genomen, aangeeft het onteigeningsdoel, dat vooropgesteld is door de onteigenende instantie en dat het algemeen belang beoogt, conform de voorwaarden van de projectnota zelf te willen en te kunnen realiseren;<br>
-7° voorlopig onteigeningsbesluit: de beslissing van de onteigenende instantie, waarmee ze aangeeft dat ze wil overgaan tot onteigening en de bestuurlijke fase start, op de wijze en in de gevallen, vermeld in dit decreet.
+7° voorlopig onteigeningsbesluit: de beslissing van de onteigenende instantie, waarmee ze aangeeft dat ze wil overgaan tot onteigening en de bestuurlijke fase start, op de wijze en in de gevallen, vermeld in dit decreet;<br>
+8° minnelijke onderhandelingstermijn: de door de onteigenende instantie geraamde termijn van maximaal één jaar waarbinnen de onderhandelingsplicht, vermeld in titel 3, hoofdstuk 2, van toepassing is.
 
 ## HOOFDSTUK 2 De onteigeningsvoorwaarden
 
@@ -123,7 +124,8 @@ Voor de instanties die na de inwerkingtreding van dit decreet bevoegd verklaard 
 2° de vermelding van de onteigenende instantie;<br>
 3° de rechtsgrond voor de onteigening;<br>
 4° de omschrijving van het onteigeningsdoel van algemeen nut;<br>
-5° de omschrijving en de motivering van de onteigeningsnoodzaak.<br>
+5° de omschrijving en de motivering van de onteigeningsnoodzaak;<br>
+6° de minnelijke onderhandelingstermijn.<br>
 <br>
 § 2. Het voorlopige onteigeningsbesluit, vermeld in paragraaf 1, bevat altijd, op straffe van nietigheid, de volgende bijlagen:<br>
 1° een onteigeningsplan conform artikel 11;<br>
@@ -168,7 +170,11 @@ De Vlaamse Regering kan nadere regels bepalen voor de inhoud en de vorm van het 
 
 ### ART 15.
 
-De onteigenende instantie onderneemt een aantoonbare poging via onderhandelingen om het te onteigenen onroerend goed of zakelijk recht minnelijk te verwerven.
+De onteigenende instantie brengt wie zij wenst te onteigenen met een beveiligde zending op de hoogte van de minnelijke onderhandelingstermijn, die aanvangt op de derde dag na de postdatum van de zending.<br>
+<br>
+De onteigenende instantie onderneemt binnen de minnelijke onderhandelingstermijn een aantoonbare poging om via onderhandelingen het te onteigenen onroerend goed of zakelijk recht minnelijk te verwerven. Deze onderhandelingsplicht van de onteigenende instantie vervalt bij het verstrijken van de minnelijke onderhandelingstermijn of als diegene die zij wenst te onteigenen uitdrukkelijk het aanvatten of verder voeren van onderhandelingen heeft afgewezen. De Vlaamse Regering kan de omstandigheden waaruit die afwijzing van het aanvatten of verder voeren van onderhandelingen blijkt, nader bepalen.<br>
+<br>
+Na het verval van de in het tweede lid bedoelde onderhandelingsplicht en na het verstrijken van de in artikel 16, eerste lid, bedoelde termijn kan de onteigenende instantie de dagvaarding bij de vrederechter, zoals omschreven in artikel 46, betekenen.
 
 ### ART 16.
 
