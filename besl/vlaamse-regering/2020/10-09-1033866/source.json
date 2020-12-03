@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033866,
+  "title": "Besluit van de Vlaamse Regering van 2020-10-09 tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2020",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033866/VolledigDocument?datum=2020-12-03",
+  "source_sha256": "5191edaed9a39b9547dfbf85786a04aa11e8800ba8ed2101337f3ec7b4f47da4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033866&param=informatie",
+  "as_of": "2020-12-03",
+  "made": "2020-10-09",
+  "gazette": "2020-11-23",
+  "numac": 2020043553,
+  "document_start": "2020-12-03",
+  "document_end": null,
+  "in_force": "2020-12-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2020-12-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
