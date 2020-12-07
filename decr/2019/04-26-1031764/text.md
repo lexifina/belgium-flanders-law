@@ -24,9 +24,10 @@ In dit decreet wordt verstaan onder:<br>
 13° kernnet: de vervoerslaag, vermeld in artikel 32, § 2;<br>
 14° Mobiliteitscentrale: het orgaan, vermeld in artikel 33;<br>
 15° mobiliteitsplan: een plan als vermeld in artikel 11;<br>
-16° Mobiliteitsplan Vlaanderen: een mobiliteitsplan voor het Vlaamse Gewest;<br>
+16° ...;<br>
 17° Mobiliteitsregie: centrale modusonafhankelijke regie die in handen is van de Vlaamse overheid;<br>
 18° openbaar personenvervoer: de personenvervoerdiensten van algemeen belang die, ongeacht de vervoersmodus, op permanente en niet-discriminerende basis aan het publiek worden aangeboden;<br>
+18° /1 openbaar personenvervoer over water: de personenvervoerdiensten van algemeen belang over water die op permanente en niet-discriminerende basis aan het publiek worden aangeboden;<br>
 19° projectstuurgroep: het orgaan vermeld in artikel 26, § 1;<br>
 20° reisvoorwaarden: bepalingen die betrekking kunnen hebben op onder meer de rechten en plichten van de reizigers en derden;<br>
 21° STOP-principe: het beginsel op grond waarvan de volgende rangorde wordt gerespecteerd voor de wenselijke mobiliteitsvormen: de voetgangers; de fietsers; het collectieve vervoer; het individueel gemotoriseerde vervoer;<br>
@@ -34,7 +35,8 @@ In dit decreet wordt verstaan onder:<br>
 23° treinnet: de vervoerslaag van het spoorwegverkeer voor personen zoals vastgesteld op federaal niveau;<br>
 24° vervoer op maat: de vervoerslaag, vermeld in artikel 32, § 4;<br>
 25° vervoerregio: een cluster van gemeenten die een samenhangend geheel vormen voor mobiliteit met een vervoerskern en een invloedsgebied;<br>
-26° vervoerregioraad: het orgaan, vermeld in artikel 7, § 1.
+26° vervoerregioraad: het orgaan, vermeld in artikel 7, § 1;<br>
+27° Vlaamse Mobiliteitsvisie: de mobiliteitsvisie, vermeld in artikel 10/1.
 
 ## HOOFDSTUK 2. Uitgangspunten
 
@@ -123,7 +125,8 @@ Elke gemeente behoort tot één vervoerregio.<br>
 3° een vertegenwoordiging van het Agentschap Wegen en Verkeer;<br>
 4° een vertegenwoordiging van de interne exploitant van het kernnet en het aanvullend net;<br>
 5° een vertegenwoordiging van De Vlaamse Waterweg nv;<br>
-6° een vertegenwoordiger van de provincie indien het grondgebied van de provincie gelijk valt met de afbakening van de vervoerregio.<br>
+6° een vertegenwoordiger van de provincie indien het grondgebied van de provincie gelijk valt met de afbakening van de vervoerregio;<br>
+7° een vertegenwoordiging van het Agentschap voor Maritieme Dienstverlening en Kust, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 7 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Maritieme Dienstverlening en Kust.<br>
 <br>
 Een vertegenwoordiger voorgedragen door de gemeenten vervult de voorzittersrol, samen met het Departement Mobiliteit en Openbare Werken. In afwachting van de voordracht door de gemeenten kan de voorzittersrol enkel door het Departement Mobiliteit en Openbare Werken opgenomen worden.<br>
 <br>
@@ -131,7 +134,7 @@ De Vlaamse Regering kan de regels bepalen voor de samenstelling en werking van d
 
 ### ART 8.
 
-De vervoerregioraad is verantwoordelijk voor het voorbereiden, opmaken, opvolgen, evalueren en, in voorkomend geval, herzien van het regionaal mobiliteitsplan.<br>
+§ 1. De vervoerregioraad is verantwoordelijk voor het voorbereiden, opmaken, opvolgen, evalueren en, in voorkomend geval, herzien van het regionaal mobiliteitsplan.<br>
 <br>
 Binnen de krijtlijnen van het regionaal mobiliteitsplan heeft de vervoerregioraad, ondersteund door de mobiliteitsregie, de volgende taken:<br>
 1° regionale mobiliteitsprogramma's en -projecten die van strategisch belang zijn op het niveau van de vervoerregio prioriteren, opvolgen en evalueren;<br>
@@ -140,11 +143,14 @@ Binnen de krijtlijnen van het regionaal mobiliteitsplan heeft de vervoerregioraa
 4° het bovenlokaal functioneel fietsroutenetwerk bepalen, met uitzondering van fietssnelwegen, waarover de raad alleen advies uitbrengt;<br>
 5° het verknopen van de vervoers- en infrastructuurnetten bewaken en de combimobiliteit en de synchromodaliteit faciliteren;<br>
 6° maatregelen inzake verkeersveiligheid prioriteren, opvolgen en evalueren. Aandacht kan daarbij onder meer gaan naar het netwerk van trage wegen, schoolomgevingen en de verkeersveilige bereikbaarheid van scholen en tewerkstellingspolen voor voetgangers en fietsers;<br>
-7° maatregelen inzake doorstroming prioriteren, opvolgen en evalueren.<br>
+7° maatregelen inzake doorstroming prioriteren, opvolgen en evalueren;<br>
+8° beslissen over het openbaar personenvervoer over water, vermeld in artikel 32/1;<br>
 <br>
 In het tweede lid, 4°, wordt verstaan onder bovenlokaal functioneel fietsroutenetwerk: het netwerk voor gemeentegrensoverschrijdende fietsinfrastructuur in het Vlaamse Gewest, dat het gewenste fietsroutenetwerk weergeeft dat woonkernen en attractiepolen verbindt.<br>
 <br>
-In het tweede lid, 4°, wordt verstaan onder fietssnelweg: de ruggengraat van het bovenlokale functionele fietsroutenetwerk, namelijk potentieel intensief te gebruiken doorgaande fietsroutes tussen steden en belangrijke attractiepolen, die met kwalitatief hoogwaardige infrastructuur worden uitgerust.
+In het tweede lid, 4°, wordt verstaan onder fietssnelweg: de ruggengraat van het bovenlokale functionele fietsroutenetwerk, namelijk potentieel intensief te gebruiken doorgaande fietsroutes tussen steden en belangrijke attractiepolen, die met kwalitatief hoogwaardige infrastructuur worden uitgerust.<br>
+<br>
+§ 2. Als de vervoerregioraad geen beslissing neemt omtrent de opdrachten en taken, vermeld in paragraaf 1, kan de Vlaamse Regering op eigen initiatief beslissen over de onder haar ressorterende bevoegdheden.
 
 ### ART 9.
 
@@ -154,9 +160,33 @@ De Vlaamse Regering kan regels bepalen voor het overleg, vermeld in het eerste l
 
 ### ART 10.
 
-De provinciale en gemeentelijke beslissingen en reglementen zijn niet van die aard dat het regionaal mobiliteitsplan niet kan worden uitgevoerd of dat de effectiviteit van andere mobiliteitsinvesteringen vermindert.
+...
 
 ## [HOOFDSTUK 2/1. Vlaamse Mobiliteitsvisie (ing. decr. 9 oktober 2020, art. 42, I: 7 december 2020)]
+
+### ART 10/1.
+
+Op gewestelijk niveau wordt de Vlaamse Mobiliteitsvisie opgemaakt.<br>
+<br>
+De Vlaamse Mobiliteitsvisie is een strategische langetermijnvisie op de gewenste mobiliteitsontwikkeling in het Vlaamse Gewest voor het hele grondgebied van het Vlaamse Gewest. Die voldoet aan de missie, vermeld in artikel 3.
+
+### ART 10/2.
+
+De Vlaamse Mobiliteitsvisie is een beleidskader voor het Vlaamse Gewest, de diensten en agentschappen die eronder ressorteren, de provincies en gemeenten, en de publiekrechtelijke en privaatrechtelijke rechtspersonen die in het Vlaamse Gewest belast zijn met taken van openbaar nut.<br>
+<br>
+De entiteiten, vermeld in het eerste lid, kunnen gemotiveerd afwijken van de Vlaamse Mobiliteitsvisie.
+
+### ART 10/3.
+
+§ 1. Voor de Vlaamse Mobiliteitsvisie wordt vastgesteld, wordt een onderzoek verricht naar de maatschappelijke ontwikkelingen en de mobiliteitsbehoeften.<br>
+<br>
+De Vlaamse Mobiliteitsvisie komt tot stand via een participatieproces dat door de Vlaamse Regering ruim wordt bekend gemaakt.<br>
+<br>
+De Vlaamse Regering stelt de Vlaamse Mobiliteitsvisie vast en bepaalt de datum van de inwerkingtreding ervan.<br>
+<br>
+De Vlaamse Regering zorgt ervoor dat de Vlaamse Mobiliteitsvisie op ruime schaal wordt bekendgemaakt.<br>
+<br>
+§ 2. De Vlaamse Regering kan de regels vaststellen voor de inhoud, de methodologie en de procedure voor de opmaak, de evaluatie, de herziening en de bekendmaking van de Vlaamse Mobiliteitsvisie.
 
 ## [HOOFDSTUK 3. Mobiliteitsplanning (verv. decr. 9 oktober 2020, art. 46, I: 7 december 2020)]
 
@@ -164,11 +194,11 @@ De provinciale en gemeentelijke beslissingen en reglementen zijn niet van die aa
 
 ### ART 11.
 
-§ 1. Een mobiliteitsplan voldoet inhoudelijk aan de missie en de doelstellingen, vermeld in artikel 3 en 4, en is de basis voor het mobiliteitsbeleid. Het beoogt samenhang te brengen in de voorbereiding, de vaststelling en de uitvoering van beslissingen over personenmobiliteit en goederenvervoer met betrokkenheid van de aanverwante beleidsdomeinen. Het is realisatiegericht.<br>
+§ 1. Een regionaal of lokaal mobiliteitsplan vormt de basis voor het mobiliteitsbeleid. Het voldoet inhoudelijk aan de doelstellingen, vermeld in artikel 4, en is afgestemd op de Vlaamse Mobiliteitsvisie. Het beoogt samenhang te brengen in de voorbereiding, de vaststelling en de uitvoering van beslissingen over personenmobiliteit en goederenvervoer met betrokkenheid van de aanverwante beleidsdomeinen. Het is realisatiegericht.<br>
 <br>
 § 2. Een mobiliteitsplan bestaat uit:<br>
 1° een strategische visie op de gewenste mobiliteitsontwikkeling;<br>
-2° operationele beleidsdoelstellingen op korte termijn;<br>
+2° operationele beleidsdoelstellingen;<br>
 3° een actieplan.<br>
 <br>
 De strategische visie omvat een langetermijnvisie voor de gewenste mobiliteitsontwikkeling. Het mobiliteitsplan heeft een tijdshorizon van tien jaar en een doorkijkperiode van minimum tien en maximum dertig jaar.<br>
@@ -190,35 +220,31 @@ De strategische visie kan niet worden opgeheven. Ze kan alleen geheel of gedeelt
 
 ### ART 12.
 
-§ 1. Er wordt een mobiliteitsplan opgemaakt op de volgende niveaus:<br>
-1° op gewestelijk niveau, voor het geheel van het grondgebied van het Vlaamse Gewest: het Mobiliteitsplan Vlaanderen;<br>
-2° op regionaal niveau, voor het geheel van het grondgebied van de vervoerregio: een regionaal mobiliteitsplan.<br>
+§ 1. Er wordt een regionaal mobiliteitsplan opgemaakt voor het hele grondgebied van de vervoerregio.<br>
 <br>
-§ 2. Er kan ook een mobiliteitsplan worden opgemaakt op lokaal niveau, voor een deel of het geheel van het grondgebied van een of meer gemeenten.<br>
+§ 2. Er kan ook een lokaal mobiliteitsplan worden opgemaakt, voor een deel of het geheel van het grondgebied van een of meer gemeenten.<br>
 <br>
 De mobiliteitsplanning op het niveau van één gemeente of meerdere gemeenten omvat het opstellen van een lokaal mobiliteitsplan, dat bepalingen kan bevatten op intergemeentelijk en op gemeentelijk niveau.<br>
 <br>
-§ 3. In elk mobiliteitsplan wordt aangegeven hoe het zich verhoudt tot de mobiliteitsplannen van de andere niveaus.<br>
-<br>
-Bij het formuleren van keuzes, doelstellingen, eigen engagementen en verwachtingen ten aanzien van andere actoren die in het mobiliteitsplan worden opgenomen, wordt rekening gehouden met de budgettaire ruimte van de betrokken gewestelijke entiteiten en worden de bevoegdheidsbepalende regels, vermeld in artikel 2 van het decreet van 22 december 2017 over het lokaal bestuur en andere regelgeving die relevant is voor het thema in kwestie, nageleefd.
+§ 3.&nbsp;Bij het formuleren van keuzes, doelstellingen, eigen engagementen en verwachtingen ten aanzien van andere actoren die in het mobiliteitsplan worden opgenomen, wordt rekening gehouden met de budgettaire ruimte van de betrokken gewestelijke entiteiten en worden de bevoegdheidsbepalende regels, vermeld in artikel 2 van het decreet van 22 december 2017 over het lokaal bestuur en andere regelgeving die relevant is voor het thema in kwestie, nageleefd.
 
 ### ART 13.
 
 § 1. Geen van de onderdelen van een mobiliteitsplan heeft verordenende kracht.<br>
 <br>
-Het Mobiliteitsplan Vlaanderen en de regionale mobiliteitsplannen zijn richtinggevend voor het Vlaamse Gewest, de eronder ressorterende diensten en agentschappen, de provincies en gemeenten, en de publiekrechtelijke en privaatrechtelijke rechtspersonen die in het Vlaamse Gewest belast zijn met taken van openbaar nut.<br>
+De regionale mobiliteitsplannen zijn bindend voor het Vlaamse Gewest, de diensten en agentschappen die eronder ressorteren, de provincies en gemeenten, en de publiekrechtelijke en privaatrechtelijke rechtspersonen die in het Vlaamse Gewest belast zijn met taken van openbaar nut.<br>
 <br>
-De lokale mobiliteitsplannen zijn richtinggevend voor de gemeente en de eronder ressorterende diensten en agentschappen.<br>
+De lokale mobiliteitsplannen zijn bindend voor de gemeente en de diensten en agentschappen die eronder ressorteren.<br>
 <br>
-§ 2. Van een mobiliteitsplan kan niet worden afgeweken, behalve in geval van:<br>
+§ 2. Van een mobiliteitsplan kunnen de entiteiten, vermeld in paragraaf 1, tweede lid, niet afwijken, behalve in geval van:<br>
 1° onvoorziene ontwikkelingen in de mobiliteitsvraag;<br>
 2° dringende sociale, economische of budgettaire redenen.<br>
 <br>
 De beslissing over de afwijking, vermeld in het eerste lid, wordt gemotiveerd.<br>
 <br>
-§ 3. Het Mobiliteitsplan Vlaanderen, de regionale en de lokale mobiliteitsplannen worden afgestemd op:<br>
+§ 3. De regionale en de lokale mobiliteitsplannen worden afgestemd op:<br>
 1° ten minste de ruimtelijke beleidsplannen, de beleidsplannen die opgemaakt zijn in het kader van milieubeleid en de waterbeheerplannen;<br>
-2° de relevante beleidsdocumenten.
+2° de relevante beleidsdocumenten
 
 ### ART 14.
 
@@ -226,7 +252,7 @@ De beslissing over de afwijking, vermeld in het eerste lid, wordt gemotiveerd.<b
 <br>
 Via de mobiliteitsplannen wordt de coherentie tussen alle vervoerslagen en de afstemming van de vervoerslagen met de ruimtelijke organisatie bewaakt.<br>
 <br>
-§ 2. De Vlaamse Regering beslist over de netwerken van structurerend belang op het niveau van het Vlaamse Gewest.
+§ 2. ...
 
 ## Afdeling 2. Niveaus van mobiliteitsplanning
 
@@ -234,31 +260,15 @@ Via de mobiliteitsplannen wordt de coherentie tussen alle vervoerslagen en de af
 
 ### ART 15.
 
-§ 1. De Vlaamse Regering besluit om het Mobiliteitsplan Vlaanderen op te maken en treft daarvoor de nodige maatregelen.<br>
-<br>
-§ 2. De Vlaamse Regering stelt het Mobiliteitsplan Vlaanderen vast voor een termijn van tien jaar en bepaalt de datum van inwerkingtreding van het plan.<br>
-<br>
-De Vlaamse Regering draagt er zorg voor dat het Mobiliteitsplan Vlaanderen ruim wordt bekendgemaakt.<br>
-<br>
-§ 3. De Vlaamse Regering kan de regels vaststellen voor de procedure voor de opmaak, de evaluatie, de herziening en de bekendmaking van het Mobiliteitsplan Vlaanderen.
+...
 
 ### ART 16.
 
-Voordat het Mobiliteitsplan Vlaanderen wordt vastgesteld, gebeurt een onderzoek naar de maatschappelijke ontwikkelingen, de mobiliteitsbehoeften en een verkenning van de redelijkerwijs in aanmerking te nemen alternatieven.<br>
-<br>
-Het Mobiliteitsplan Vlaanderen omvat de categorisering van de netwerken.<br>
-<br>
-De Vlaamse Regering kan de regels vaststellen voor de inhoud en de methodologie van het Mobiliteitsplan Vlaanderen.
+...
 
 ### ART 17.
 
-Bij de vaststelling van het Mobiliteitsplan Vlaanderen melden de provincies, de vervoerregio's en de gemeenten aan de Vlaamse Regering, binnen de door haar bepaalde termijn, alle potentiële strijdigheden van de bepalingen van de bestaande regionale mobiliteitsplannen, de provinciale en gemeentelijke ruimtelijke beleidsplannen en lokale mobiliteitsplannen met het Mobiliteitsplan Vlaanderen.<br>
-<br>
-De provincie in kwestie brengt binnen de termijn, die de Vlaamse Regering bepaalt, de wijzigingen aan in het provinciaal ruimtelijk beleidsplan die noodzakelijk zijn om de onderlinge afstemming van de bepalingen, vermeld in het eerste lid, te verzekeren en brengt de Vlaamse Regering daarvan op de hoogte.<br>
-<br>
-De vervoerregio in kwestie brengt binnen de termijn, die de Vlaamse Regering bepaalt, de wijzigingen aan in het regionaal mobiliteitsplan die noodzakelijk zijn om de onderlinge afstemming van de bepalingen, vermeld in het eerste lid, te verzekeren en brengt de Vlaamse Regering daarvan op de hoogte.<br>
-<br>
-De gemeente in kwestie brengt binnen de termijn, die de Vlaamse Regering bepaalt, de wijzigingen aan in het lokaal mobiliteitsplan en in het gemeentelijk ruimtelijk beleidsplan die noodzakelijk zijn om de onderlinge afstemming van de bepalingen, vermeld in het eerste lid, te verzekeren en brengt de Vlaamse Regering daarvan op de hoogte.
+...
 
 ## Onderafdeling 2. Mobiliteitsplanning op regionaal niveau
 
@@ -268,15 +278,15 @@ De gemeente in kwestie brengt binnen de termijn, die de Vlaamse Regering bepaalt
 <br>
 § 2. Het regionaal mobiliteitsplan geeft het kader aan voor het gewenste mobiliteitsbeleid voor de vervoerregio.<br>
 <br>
-Het regionaal mobiliteitsplan geeft uitvoering aan het Mobiliteitsplan Vlaanderen, waarvan het de bepalingen aanvult op regionaal niveau.<br>
+Het regionale mobiliteitsplan geeft aan hoe het zich verhoudt tot de Vlaamse Mobiliteitsvisie.<br>
 <br>
-§ 3. De vervoerregioraad stelt het ontwerp van het regionaal mobiliteitsplan vast.<br>
+§ 3. De vervoerregioraad stelt het voorlopig ontwerp van regionaal mobiliteitsplan vast.<br>
 <br>
-Het ontwerp van het regionaal mobiliteitsplan wordt ter goedkeuring voorgelegd aan de gemeenteraden van de vervoerregio. De goedkeuring door de gemeenteraad is voor de gemeente een voorwaarde om subsidies te verkrijgen als vermeld in artikel 29.<br>
+De Vlaamse Regering keurt het voorlopig ontwerp van regionaal mobiliteitsplan goed.<br>
 <br>
-Bij gebrek aan consensus binnen de vervoerregioraad beslist de Vlaamse Regering minstens over het aanvullend net en het vervoer op maat.<br>
+§ 3/1. De vervoerregioraad stelt het ontwerp van het regionaal mobiliteitsplan vast en duidt de door de gemeenten te nemen beslissingen aan.<br>
 <br>
-De vervoerregioraad draagt er zorg voor dat het regionaal mobiliteitsplan ruim wordt bekendgemaakt.<br>
+De Vlaamse Regering keurt het regionaal mobiliteitsplan goed.<br>
 <br>
 § 4. De Vlaamse Regering kan regels vaststellen voor de procedure voor de opmaak, de evaluatie, de herziening en de bekendmaking van de regionale mobiliteitsplannen.
 
@@ -284,7 +294,7 @@ De vervoerregioraad draagt er zorg voor dat het regionaal mobiliteitsplan ruim w
 
 Voorafgaand aan de vaststelling van het regionaal mobiliteitsplan, vermeld in artikel 18, § 3, eerste lid, gebeurt een omgevingsanalyse en een onderzoek naar de maatschappelijke ontwikkelingen, de mobiliteitsbehoeften en een verkenning van de redelijkerwijs in aanmerking te nemen alternatieven.<br>
 <br>
-Het regionaal mobiliteitsplan geeft aan hoe het voorgenomen mobiliteitsbeleid bijdraagt tot de realisatie van het Mobiliteitsplan Vlaanderen, de beleidsopties in de relevante ruimtelijke structuur- en beleidsplannen, de beleidsplannen die opgemaakt zijn in het kader van het milieubeleid, en andere relevante beleidsdocumenten.<br>
+Het regionale mobiliteitsplan geeft aan hoe het mobiliteitsbeleid is afgestemd op, de beleidsopties in de relevante ruimtelijke structuur- en beleidsplannen, de beleidsplannen die opgemaakt zijn in het kader van het milieubeleid, en andere relevante beleidsdocumenten.<br>
 <br>
 De vervoersknooppunten die van belang zijn op het niveau van de vervoerregio om combimobiliteit en synchromodaliteit te faciliteren, worden bepaald in het regionaal mobiliteitsplan.<br>
 <br>
@@ -308,7 +318,7 @@ Als het een mobiliteitsplan betreft dat betrekking heeft op het grondgebied van 
 <br>
 § 2. Het lokaal mobiliteitsplan geeft het kader aan voor het gewenste lokaal mobiliteitsbeleid.<br>
 <br>
-Het lokaal mobiliteitsplan richt zich naar het Mobiliteitsplan Vlaanderen en naar het regionaal mobiliteitsplan waartoe de gemeente behoort, waarvan het de bepalingen aanvult op gemeentelijk niveau.<br>
+Het lokale mobiliteitsplan geeft aan hoe het zich verhoudt tot de Vlaamse Mobiliteitsvisie en tot het regionale mobiliteitsplan waartoe de gemeente behoort. Het vult de bepalingen ervan aan op gemeentelijk niveau.<br>
 <br>
 § 3. De gemeenteraad stelt het lokaal mobiliteitsplan vast.<br>
 <br>
@@ -320,7 +330,7 @@ Het vaststellingsbesluit wordt bij uittreksel bekendgemaakt in het Belgisch Staa
 
 § 1. Het lokaal mobiliteitsplan gaat uit van de lokale maatschappelijke ontwikkelingen, de mobiliteitsbehoeften, de gewenste ruimtelijke ontwikkelingen en een verkenning van de redelijkerwijs in aanmerking te nemen alternatieven.<br>
 <br>
-Het lokaal mobiliteitsplan geeft aan in hoeverre het voorgenomen mobiliteitsbeleid is afgestemd op het Mobiliteitsplan Vlaanderen, het relevante regionaal mobiliteits-plan, de relevante provinciale en gemeentelijke ruimtelijke structuurplannen, de relevante provinciale en gemeentelijke beleidsplannen die opgemaakt zijn in het kader van milieubeleid, en andere relevante provinciale en gemeentelijke beleidsdocumenten, of aanleiding geeft tot een wijziging van gemeentelijke beleidsplannen of gemeentelijke beleidsdocumenten.<br>
+Het lokale mobiliteitsplan geeft aan hoe het mobiliteitsbeleid is afgestemd op, het relevante regionaal mobiliteitsplan, de relevante provinciale en gemeentelijke ruimtelijke structuurplannen, de relevante provinciale en gemeentelijke beleidsplannen die opgemaakt zijn in het kader van milieubeleid, en andere relevante provinciale en gemeentelijke beleidsdocumenten, of aanleiding geeft tot een wijziging van gemeentelijke beleidsplannen of gemeentelijke beleidsdocumenten.<br>
 <br>
 § 2. De Vlaamse Regering kan de regels vaststellen voor de inhoud en de methodologie van het lokaal mobiliteitsplan.
 
@@ -349,27 +359,33 @@ In het maatregelenpakket worden de doelstellingen vertaald, concrete maatregelen
 
 ### ART 24.
 
-§ 1. De Vlaamse Regering legt de regels vast betreffende de inhoud, ontwikkeling en beheer van een mobiliteitsmonitoringsysteem, dat ertoe strekt de vereiste gegevens over de mobiliteitstoestand te verzamelen, te beheren en te toetsen zodat kan worden nagegaan of de operationele doelstellingen die opgenomen zijn in de mobiliteitsplannen en het verkeersveiligheidsplan, op een efficiënte wijze worden bereikt.<br>
+§ 1. De Vlaamse Regering legt de regels vast voor de inhoud, de ontwikkeling en het beheer van een mobiliteitsmonitoringsysteem. Dat strekt ertoe de vereiste gegevens over de mobiliteitstoestand te verzamelen, te beheren en te toetsen. Zo kan worden nagegaan of de operationele doelstellingen die opgenomen zijn in de mobiliteitsplannen, in het verkeersveiligheidsplan en de gewenste mobiliteitsontwikkeling in het Vlaamse Gewest op een efficiënte wijze worden bereikt.<br>
 <br>
-Bij de vaststelling of herziening van de mobiliteitsplannen en bij het opstellen van de voortgangsrapporten wordt altijd rekening gehouden met de resultaten van de mobiliteitsmonitoring, vermeld in deze paragraaf.<br>
+Bij de vaststelling of herziening van de mobiliteitsplannen, het verkeersveiligheidsplan en bij het opstellen van de voortgangsrapporten wordt altijd rekening gehouden met de resultaten van de mobiliteitsmonitoring, vermeld in deze paragraaf.<br>
 <br>
-Om het mobiliteitsmonitoringsysteem uit te bouwen worden de volgende gepseudonimiseerde gegevens, vermeld in de zin van artikel 4, 5), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens, verzameld:<br>
-1° technische kenmerken van voertuigen zoals onder meer het voertuigtype, het soort brandstof en de euronorm;<br>
-2° tijdstippen, locaties, snelheden van voertuigen;<br>
-3° gecodeerde nummerplaten van voertuigen;<br>
-4° metadata van de metingsapparatuur.<br>
+Om het mobiliteitsmonitoringsysteem uit te bouwen worden de volgende gepseudonimiseerde gegevens verzameld:<br>
+1° technische kenmerken van voertuigen met een kentekenplaat die door een ANPR-camera kan worden gedetecteerd, zoals het voertuigtype, de soort brandstof en de euronorm;<br>
+2° tijdstippen, locaties en snelheden van voertuigen als vermeld in punt 2° ;<br>
+3° gecodeerde nummerplaten van voertuigen als vermeld in punt 2° ;<br>
+4° metadata van de meetapparatuur.<br>
 <br>
-Het Departement Mobiliteit en Openbare Werken beheert het mobiliteitsmonitoringsysteem overeenkomstig het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. Het Departement Mobiliteit en Openbare Werken kwalificeert als verwerkingsverantwoordelijke, vermeld in de zin van artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens, voor de verwerking van de persoonsgegevens, vermeld in dit artikel. De verwerkingsverantwoordelijke is onderworpen aan de verplichtingen, vermeld in artikel 5, 2, van de voormelde verordening, die op hem rusten.<br>
+Het Departement Mobiliteit en Openbare Werken beheert het mobiliteitsmonitoringsysteem conform het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. Het Departement Mobiliteit en Openbare Werken is gekwalificeerd als verwerkingsverantwoordelijke als vermeld in de zin van artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming), voor de verwerking van de persoonsgegevens, vermeld in dit artikel.<br>
 <br>
-Het Departement Mobiliteit en Openbare Werken kan bij de bevoegde instanties, zoals de federale politie, de instantie die belast is met de inschrijving van de voertuigen en de lokale besturen, de gegevens, vermeld in het derde lid, opvragen.<br>
+Het Departement Mobiliteit en Openbare Werken kan bij de bevoegde instanties, zoals de federale politie, de instantie die belast is met de inschrijving van de voertuigen, en de lokale besturen, de gegevens, vermeld in het derde lid, opvragen.<br>
 <br>
-Het opvragen van deze gegevens, het beheer van het mobiliteitsmonitoringsysteem en de ontsluiting door de lokale besturen en de vervoerregio's van bepaalde gegevens uit het mobiliteitsmonitoringsysteem gebeuren in overeenstemming met de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens en het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.<br>
+Het opvragen van de gegevens, vermeld in het derde lid, het beheer van het mobiliteitsmonitoringsysteem en de ontsluiting door de lokale besturen en de vervoerregio's van bepaalde gegevens uit het mobiliteitsmonitoringsysteem worden uitgevoerd in overeenstemming met:<br>
+1° de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens;<br>
+2° het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.<br>
 <br>
-De gegevens worden bewaard gedurende vijf jaar.<br>
+De voormelde gegevens worden bewaard gedurende vijf jaar.<br>
 <br>
-§ 2. Voor het Mobiliteitsplan Vlaanderen en de regionale mobiliteitsplannen wordt een voortgangsrapport opgesteld dat ertoe strekt de uitvoering van het desbetreffende plan op te volgen en bij te sturen.<br>
+§ 2. In het kader van onderzoeken ter ondersteuning van het mobiliteitsmonitoringsysteem kan het Departement Mobiliteit en Openbare Werken bij het Rijksregister steekproefsgewijs persoonsgegevens opvragen die noodzakelijk zijn voor contactopname met personen die representatief zijn voor het doel van het onderzoek.<br>
 <br>
-Bij het opstellen van het voortgangsrapport worden de gegevens verwerkt overeenkomstig de bepalingen, vermeld in paragraaf 1.<br>
+Na afsluiting van de contactprocedure worden de persoonsgegevens, verkregen van het Rijksregister, vernietigd.<br>
+<br>
+§ 3. Voor de regionale mobiliteitsplannen wordt een voortgangsrapport opgesteld dat ertoe strekt de uitvoering van het plan in kwestie op te volgen en bij te sturen.<br>
+<br>
+In het voortgangsrapport worden de gegevens verwerkt conform paragraaf 1.<br>
 <br>
 De Vlaamse Regering bepaalt de regels voor de inhoud, de methodologie en de frequentie van het voortgangsrapport.
 
@@ -448,8 +464,6 @@ De Mobiliteitsraad van Vlaanderen wordt betrokken conform de bepalingen van hoof
 <br>
 De vervoerregioraad bepaalt tevens de structurele participatie van burgers en middenveld in het mobiliteitsbeleid van de vervoerregio.<br>
 <br>
-Als geen regels worden vastgesteld voor de participatie, vermeld in het eerste lid, onderwerpen de respectieve colleges van burgemeester en schepenen het voorlopige ontwerp van regionaal mobiliteitsplan minstens aan een openbaar onderzoek.<br>
-<br>
 De Vlaamse Regering kan de minimale regels bepalen voor de participatie, vermeld in het eerste en tweede lid.<br>
 <br>
 § 3. Op lokaal niveau bepaalt het college van burgemeester en schepenen de participatie. In voorkomend geval kunnen betrokken colleges van burgemeester en schepenen samen het participatietraject vaststellen.<br>
@@ -466,7 +480,7 @@ De Vlaamse Regering kan de minimale regels bepalen voor het participatie-traject
 
 ### ART 32.
 
-§ 1. Het vervoersnet voor het Vlaamse openbaar personenvervoer bestaat uit complementaire vervoerslagen:<br>
+§ 1. Het vervoersnet voor het Vlaamse openbaar personenvervoer&nbsp;over de weg of het spoor bestaat uit complementaire vervoerslagen:<br>
 1° het kernnet;<br>
 2° het aanvullend net;<br>
 3° het vervoer op maat.<br>
@@ -511,6 +525,12 @@ De Vlaamse Regering kan de wijze van evaluatie en bijsturing van het vervoer op 
 <br>
 De vervoerregioraad bepaalt de bedieningsgebieden, en kan aanvullende normering opleggen voor de kwaliteitseisen voor het vervoer op maat. Het vervoer op maat is volledig vraagvolgend.
 
+### ART 32/1.
+
+Het openbaar personenvervoer over water bestaat uit één vervoerslaag, namelijk het vervoer op maat.<br>
+<br>
+De exploitant van het openbaar personenvervoer over water formuleert een voorstel voor de reisweg, de plaats van de halte en de kwaliteitscriteria en legt dat voorstel voor aan de vervoerregioraad. De Vlaamse Regering legt de minimale normering voor de kwaliteitseisen op. De vervoerregioraad neemt een beslissing. De financiële middelen bestemd voor het openbaar personenvervoer over water kunnen enkel voor andere vervoermodi gebruikt worden onder de voorwaarden die de Vlaamse Regering bepaalt.
+
 ## Afdeling 2. Exploitatie van het openbaar personenvervoer
 
 ### ART 33.
@@ -524,7 +544,7 @@ De Mobiliteitscentrale is een orgaan dat:<br>
 4° ritprijzen factureert;<br>
 5° klachten van gebruikers behandelt.<br>
 <br>
-De Vlaamse Regering bepaalt de nadere taken en de werking van de Mobiliteitscentrale.<br>
+De Vlaamse Regering kan de nadere taken en de werking van de Mobiliteitscentrale bepalen.<br>
 <br>
 De Vlaamse Regering kan de regels vastleggen om de continuïteit van de werking van de Mobiliteitscentrale te waarborgen.<br>
 <br>
@@ -544,6 +564,10 @@ De VVM De Lijn kan conform bovenstaande verordening een deel van het kern- en aa
 <br>
 De Vlaamse Regering bepaalt de regels over de aanstelling van de exploitanten en kan bijkomende regels opstellen ten aanzien van de scheiding tussen de regie en uitvoering van de vervoersdiensten.
 
+### ART 34/1.
+
+De Vlaamse Regering wijst voor de exploitatie van het openbaar personenvervoer over water één instantie van de Vlaamse administratie aan als vermeld in artikel I.3, 2°, a) tot en met c), van het Bestuursdecreet van 7 december 2018.
+
 ### ART 35.
 
 Het vervoer op maat wordt geoperationaliseerd en gecoördineerd door de Mobiliteitscentrale.<br>
@@ -555,6 +579,8 @@ De Vlaamse Regering bepaalt de regels over de aanstellingen van de exploitanten 
 ### ART 36.
 
 § 1. De Vlaamse Regering coördineert het tariefbeleid voor het kernnet en het aanvullend net en bepaalt de tarieven.<br>
+<br>
+De Vlaamse Regering coördineert het tariefbeleid voor het openbaar personenvervoer over water en bepaalt de tarieven.<br>
 <br>
 § 2. De vervoerregioraad coördineert het tariefbeleid voor het vervoer op maat en bepaalt de tarieven.<br>
 <br>
@@ -574,16 +600,16 @@ De Vlaamse Regering kan de voorwaarden bepalen voor tariefdifferentiatie.<br>
 <br>
 § 2. De Vlaamse Regering stelt de regels vast voor interoperabiliteit, open data, realtimedata en de standaarden voor de informatie over het personenvervoer.<br>
 <br>
-§ 3. De exploitanten van het kernnet en aanvullend net en de Mobiliteitscentrale kunnen persoonsgegevens van de reizigers en derden verwerken met het oog op:<br>
+§ 3. De exploitanten van het kernnet en aanvullend net, de exploitant voor het openbaar personenvervoer over water en de Mobiliteitscentrale kunnen persoonsgegevens van de reizigers en derden verwerken met het oog op:<br>
 1° een efficiënte exploitatie van de openbaarvervoerdiensten, waarbij combimobiliteit wordt gefaciliteerd;<br>
 2° het promoten van het openbaar personenvervoer en combimobiliteit;<br>
 3° statistische doeleinden voor het openbaar personenvervoer en het globale mobiliteitsbeleid, om de evolutie inzake personenmobiliteit, vervoersstromen, modale verdeling en verkeersveiligheid in kaart te brengen.<br>
 <br>
 Voor zover de gegevens, vermeld in het eerste lid, 3°, persoonsgegevens bevatten, worden deze zo veel als mogelijk geanonimiseerd en in ondergeschikt geval gepseudonimiseerd.<br>
 <br>
-De Mobiliteitscentrale en de exploitanten van het kernnet en het aanvullend net verwerken persoonsgegevens, vermeld in artikel 4, 1), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens, en de persoonsgegevens, vermeld in artikel 9 van de voormelde verordening.<br>
+De Mobiliteitscentrale en de exploitanten van het kernnet en het aanvullend net&nbsp;en ook de exploitant voor het openbaar personenvervoer over water verwerken persoonsgegevens, vermeld in artikel 4, 1), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens, en de persoonsgegevens, vermeld in artikel 9 van de voormelde verordening.<br>
 <br>
-De exploitanten van het kernnet en het aanvullend net en de Mobiliteitscentrale kwalificeren als verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de voormelde verordening voor de verwerking van de persoonsgegevens, vermeld in dit artikel. De verwerkingsverantwoordelijke is onderworpen aan de verplichtingen, vermeld in artikel 5, 2, van de voormelde verordening, die op hem rusten.<br>
+De exploitanten van het kernnet en het aanvullend net, de exploitant voor het openbaar personenvervoer over water en de Mobiliteitscentrale kwalificeren als verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de voormelde verordening voor de verwerking van de persoonsgegevens, vermeld in dit artikel. De verwerkingsverantwoordelijke is onderworpen aan de verplichtingen, vermeld in artikel 5, 2, van de voormelde verordening, die op hem rusten.<br>
 <br>
 De verwerkingsverantwoordelijke draagt zijn verwerkers op om de personen in kwestie te informeren over de verwerking van hun persoonsgegevens en om te zorgen voor een effectieve uitvoering van de aan de betrokkenen toegekende rechten, vermeld in hoofdstuk III van de voormelde verordening.<br>
 <br>
@@ -596,13 +622,13 @@ De Vlaamse Regering bepaalt de regels voor de verwerking van de persoonsgegevens
 
 ### ART 38.
 
-In afwijking van artikel 1 van de wet 30 december 1975 betreffende de goederen, buiten particuliere eigendommen gevonden of op de openbare weg geplaatst ter uitvoering van vonnissen tot uitzetting, moeten de exploitanten van het kernnet en aanvullend net en de Mobiliteitscentrale verloren voorwerpen niet afgeven aan het gemeentebestuur.
+In afwijking van artikel 1 van de wet 30 december 1975 betreffende de goederen, buiten particuliere eigendommen gevonden of op de openbare weg geplaatst ter uitvoering van vonnissen tot uitzetting, moeten de exploitanten van het kernnet en aanvullend net, de exploitant voor het openbaar personenvervoer over water en de Mobiliteitscentrale verloren voorwerpen niet afgeven aan het gemeentebestuur.
 
 ### ART 39.
 
 De Vlaamse Regering kan de wijze van klachtenbehandeling, de reisvoorwaarden en de exploitatievoorwaarden, waaronder de vereisten voor de voertuigen en het personeel, nader bepalen.<br>
 <br>
-De bevoegdheid van de Vlaamse Regering om de exploitatievoorwaarden te bepalen, doet geen afbreuk aan de bevoegdheid van de exploitanten van het kernnet en het aanvullend net, en de Mobiliteitscentrale om zelf algemene reisvoorwaarden vast te stellen, aanvullend aan het toepasselijke regelgevende kader, voor zover dit de voorwaarden betreft van de vervoersovereenkomst die de exploitanten en de Mobiliteitscentrale sluiten met hun gebruikers.
+De bevoegdheid van de Vlaamse Regering om de exploitatievoorwaarden te bepalen, doet geen afbreuk aan de bevoegdheid van de exploitanten van het kernnet en het aanvullend net, de exploitant voor het openbaar personenvervoer over water en de Mobiliteitscentrale om zelf algemene reisvoorwaarden vast te stellen, aanvullend aan het toepasselijke regelgevende kader, voor zover dit de voorwaarden betreft van de vervoersovereenkomst die de exploitanten en de Mobiliteitscentrale sluiten met hun gebruikers.
 
 ### ART 40.
 
@@ -621,6 +647,54 @@ De Vlaamse Regering kan de minimale vereisten bepalen die worden uitgewerkt in h
 ## HOOFDSTUK 5. Infrastructuurbeleid, flankerende maatregelen en doorstroming
 
 ## Afdeling 1. Infrastructuurbeleid
+
+### ART 40/1.
+
+§ 1. Het wegennet wordt ingedeeld in drie lagen:<br>
+1° het hoofdwegennet: de Europese hoofdwegen en de Vlaamse hoofdwegen;<br>
+2° het dragende netwerk: de regionale wegen en de interlokale wegen;<br>
+3° het lokale wegennet: de ontsluitingswegen en de erftoegangswegen.<br>
+<br>
+§ 2. De Europese hoofdwegen vormen een zelfstandig grofmazig raster van verbindingswegen. De Europese hoofdwegen zijn drager van internationaal verkeer en verbinden de internationale knooppunten met het buitenland.<br>
+<br>
+De volgende knooppunten zijn internationale knooppunten als vermeld in het eerste lid:<br>
+1° zeehavens;<br>
+2° luchthavens;<br>
+3° grootsteden met hst-stations.<br>
+<br>
+De Europese hoofdwegen behoren tot het Europese TEN-T-netwerk, vermeld in artikel 2 van de verordening (EU) nr. 1315/2013 van het Europees Parlement en de Raad van 11 december 2013 betreffende richtsnoeren van de Unie voor de ontwikkeling van het trans-Europees vervoersnetwerk en tot intrekking van Besluit nr. 661/2010/EU.<br>
+<br>
+De Vlaamse hoofdwegen zijn verbindingen tussen de Europese hoofdwegen. Ze vormen op zich geen zelfstandig netwerk, maar verfijnen samen met de Europese hoofdwegen een raster van hoofdwegen. Vlaamse hoofdwegen kunnen deel uitmaken van het Europese TEN-T-netwerk. De Vlaamse hoofdwegen die geen deel uitmaken van het TEN-T-netwerk kunnen de internationale knooppunten aansluiten op het TEN-T-netwerk.<br>
+<br>
+§ 3. De regionale wegen vormen verbindingen tussen gemeenten onderling en het hoofdwegennet enerzijds en tussen het hoofdwegennet en de regionale logistieke knopen anderzijds.<br>
+<br>
+De interlokale wegen verbinden niet-aanpalende gemeenten. Ze ontsluiten belangrijke recreatieve en economische attractiepolen. Dit zijn attractiepolen op regionaal niveau.<br>
+<br>
+§ 4. De lokale wegen hebben geen verbindingsfunctie. Ze ontsluiten aanpalende gemeenten voor elkaar. Ze ontsluiten het gebied tussen de wegen die de Vlaamse Regering selecteert met toepassing van artikel 40/3, vierde lid, of functioneren als erftoegangswegen. De lokale wegen vormen boomstructuren.<br>
+<br>
+§ 5. Het dragende netwerk kan bij capaciteitsproblemen van het hoofdwegennet ingeschakeld worden om het hoofdwegennet te ondersteunen, waarbij de lokale wegen vrij van doorgaand verkeer blijven.<br>
+<br>
+In het eerste lid wordt verstaan onder doorgaand verkeer: het verkeer dat in het gebied in kwestie geen herkomst of bestemming heeft.
+
+### ART 40/2.
+
+De Vlaamse Regering kan de selectiecriteria en de inrichtingsprincipes van de wegencategorisering, vermeld in artikel 40/1, bepalen.
+
+### ART 40/3.
+
+De Vlaamse Regering beslist over het ontwerp van de selectie van het hoofdwegennet, vermeld in artikel 40/1, § 1, 1°.<br>
+<br>
+De vervoerregioraden geven advies over de selectie, vermeld in het eerste lid.<br>
+<br>
+De vervoerregioraden formuleren een voorstel voor de selectie van het dragende netwerk, vermeld in artikel 40/1, § 1, 2°. Als de vervoerregioraden binnen een redelijke termijn geen voorstel hebben gedaan, bepaalt de Vlaamse Regering het dragende netwerk conform het vierde lid.<br>
+<br>
+De Vlaamse Regering bepaalt de selectie van het hoofdwegennet en het dragende netwerk.<br>
+<br>
+De wegen die de Vlaamse Regering niet selecteert op basis van het vierde lid, zijn lokale wegen.
+
+### ART 40/4.
+
+De Vlaamse Regering bepaalt het Vlaamse waterwegennetwerk.
 
 ### ART 41.
 
@@ -676,7 +750,9 @@ De Vlaamse Regering kan regels bepalen over de flankerende maatregelen, vermeld 
 <br>
 De Vlaamse Regering kan regels bepalen inzake streefwaarde gerelateerd aan de doorstroming van het openbaar vervoer.<br>
 <br>
-§ 2. De wegbeheerders garanderen de vlotte doorstroming voor het kernnet en aanvullend net, brengen daarvoor de nodige infrastructuur aan en onderhouden die.
+§ 2. De wegbeheerders garanderen de vlotte doorstroming voor het kernnet en aanvullend net, brengen daarvoor de nodige infrastructuur aan en onderhouden die.<br>
+<br>
+De waterwegbeheerders zorgen voor een vlotte doorstroming voor het openbaar personenvervoer over water, brengen daarvoor de nodige infrastructuur aan en onderhouden die.
 
 ### ART 48.
 
@@ -798,8 +874,6 @@ Het decreet van 20 maart 2009 betreffende het mobiliteitsbeleid, gewijzigd bij h
 
 ### ART 69.
 
-Het Mobiliteitsplan Vlaanderen dat tot stand is gekomen in het kader van de regeling van het decreet van 20 maart 2009 betreffende het mobiliteitsbeleid, wordt gelijkgesteld met het Mobiliteitsplan Vlaanderen dat opgemaakt is op basis van dit decreet.<br>
-<br>
 De gemeentelijke mobiliteitsplannen die tot stand zijn gekomen in het kader van de regeling van het decreet van 20 maart 2009 betreffende het mobiliteitsbeleid, worden gelijkgesteld met de lokale mobiliteitsplannen die opgemaakt zijn op basis van dit decreet.<br>
 <br>
 De plannen en projecten, vermeld in artikel 26/10, § 1, van het decreet van 20 maart 2009 betreffende het mobiliteitsbeleid, zoals van toepassing op de dag voor de datum van de inwerkingtreding van artikel 68 van dit decreet, die zijn opgestart voor de datum van de inwerkingtreding van dit decreet, kunnen gesubsidieerd worden onder de voorwaarden, vermeld in het besluit van de Vlaamse Regering van 25 januari 2013 tot bepaling van de nadere regels betreffende de organisatorische omkadering, de financiering en de samenwerking voor het mobiliteitsbeleid, met uitzondering van de toepassing van artikel 28 tot en met 35, 38, § 1, 2°, en § 2, tweede lid, 39, § 2, 1°, 44, § 2, 46, tweede lid, 48, § 2, 50, § 2, gewijzigd bij het besluit van 15 december 2017.
