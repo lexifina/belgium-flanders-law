@@ -18,7 +18,7 @@ c) vervoer van militairen en hun gezinnen van en naar hun plaats van legering.<b
 Aan het geregelde karakter van de bijzondere vorm van geregeld vervoer wordt geen afbreuk gedaan door het feit dat bij de organisatie van het vervoer rekening wordt gehouden met de wisselende behoeften van de gebruiker.<br>
 3° vervoer voor eigen rekening: vervoer voor niet-lucratieve en niet-commerciële doeleinden dat verricht wordt door een natuurlijke persoon of rechtspersoon;<br>
 4° ...;<br>
-4°bis : onwettig ronselen : hetzij kandidaat-klanten aanspreken op openbare plaatsen op het grondgebied van een gemeente waar men niet vergund is, hetzij met het voertuig heen en weer rijden op het grondgebied van een gemeente waar men niet vergund is, hetzij daar stationeren, telkens met het oogmerk om klanten te vervoeren;<br>
+4°bis : ...;<br>
 5° ...;<br>
 6° ...;<br>
 7° ...;<br>
