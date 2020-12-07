@@ -130,7 +130,29 @@ De reder, de scheepseigenaar, de bevrachter, de scheepsagent en eventueel door d
 
 ### ART. 17.
 
-§ 1. De gezagvoerders zijn verplicht de loodsgelden en de in artikel 15 bepaalde vergoedingen en kosten binnen één maand en in elk geval voor het eerstvolgende vertrek van het vaartuig naar zee of naar het buitenland, te betalen bij de door de Vlaamse regering aangewezen ontvangers, tenzij een door de bevoegde ontvanger voldoende geachte zekerheid is gesteld.<br /><br />§ 2. De gezagvoerders van naar zee of naar het buitenland vertrekkende vaartuigen moeten in elk geval bij de bevoegde ontvanger een voldoende zekerheid stellen om de bedragen te dekken die na het vertrek van het vaartuig verschuldigd blij-ven.<br /><br />§ 3. Aan de vaartuigen waarvoor niet tijdig voldaan wordt aan de in dit artikel bepaalde verplichtingen tot betaling of zekerheidsstelling, of waarvoor anderszins enig bedrag aan de loodsdienst of het Vlaamse Gewest schuldig blijft in verband met de in dit decreet bedoelde aangelegenheden, wordt door de dienst die met de inning van het betrokken bedrag is belast, een verbod tot afvaart opgelegd.<br /><br />Een dergelijk verbod wordt van kracht na eenvoudige mededeling ervan door de betrokken dienst aan de gezagvoerder, de reder of zijn aangestelde.<br /><br />Om de naleving of de tenuitvoerlegging van het verbod te verzekeren, kan de betrokken dienst een beroep doen op de medewerking van de havenkapiteindiensten, de havenmeesters, de brug- en sluiswachters en de andere bevoegde ambtenaren.<br /><br />Het verbod wordt opgeheven nadat de betrokken dienst meegedeeld heeft dat het vaartuig aan de uit dit decreet en zijn uitvoeringsbesluiten voortvloeiende verplichtingen heeft voldaan.<br /><br />De Vlaamse regering kan ter zake nadere procedurevoorschriften vaststellen en bepalen welke ambtenaren met het nemen van de in dit artikel bedoelde maatregelen belast zijn.<br /><br />§ 4. Indien tegen het vaartuig waarop de vordering van de loodsdienst of het Vlaamse Gewest betrekking heeft, geen afdoend afvaartverbod kon worden uitgesproken, kan eenzelfde verbod ook worden uitgesproken tegen elk zusterschip van het vaartuig waarop de bedoelde vordering betrekking heeft, zelfs al is dit zusterschip gereed om uit te varen.<br /><br />Voor de toepassing van dit artikel wordt onder zusterschip verstaan, elk vaartuig waarvan de betrokken dienst weet of althans redelijkerwijze kan vermoeden, dat de eigenaar of eigenaars, of de bevrachter, dezelfde of voor een overwegend gedeelte dezelfde zijn als die van het vaartuig waarop de vordering van de betrokken dienst betrekking heeft.
+§ 1. De gezagvoerders zijn verplicht de loodsgelden en de in artikel 15 bepaalde vergoedingen en kosten binnen één maand en in elk geval voor het eerstvolgende vertrek van het vaartuig naar zee of naar het buitenland, te betalen bij de door de Vlaamse regering aangewezen ontvangers, tenzij een door de bevoegde ontvanger voldoende geachte zekerheid is gesteld.<br>
+<br>
+§ 2. De gezagvoerders van naar zee of naar het buitenland vertrekkende vaartuigen moeten in elk geval bij de bevoegde ontvanger een voldoende zekerheid stellen om de bedragen te dekken die na het vertrek van het vaartuig verschuldigd blijven.<br>
+<br>
+§ 2bis. De volgende elementen worden als voldoende geachte zekerheid aanvaard:<br>
+1° een conventionele borgstelling door een scheepvaartvereniging voor haar onderschreven leden;<br>
+2° een Europees domiciliëringsmandaat van het type business-to-business (b2b);<br>
+3° een waarborg die een kredietinstelling of een verzekeringsinstelling van een lidstaat die behoort tot de Europese Economische Ruimte, of een andere land waartoe het vrije verkeer inzake bankwaarborgen is uitgebreid, toestaat voor de geraamde omzet per maand van het loodsgeld, de bunker adjustment factor (BAF) en de VBS-vergoeding;<br>
+4° een individuele borgstelling in speciën per aanloop voor een forfait van het loodsgeld, de bunker adjustment factor (BAF) en de VBS-vergoeding.<br>
+<br>
+§ 3. Aan de vaartuigen waarvoor niet tijdig voldaan wordt aan de in dit artikel bepaalde verplichtingen tot betaling of zekerheidsstelling, of waarvoor anderszins enig bedrag aan de loodsdienst of het Vlaamse Gewest schuldig blijft in verband met de in dit decreet bedoelde aangelegenheden, wordt door de dienst die met de inning van het betrokken bedrag is belast, een verbod tot afvaart opgelegd.<br>
+<br>
+Een dergelijk verbod wordt van kracht na eenvoudige mededeling ervan door de betrokken dienst aan de gezagvoerder, de reder of zijn aangestelde.<br>
+<br>
+Om de naleving of de tenuitvoerlegging van het verbod te verzekeren, kan de betrokken dienst een beroep doen op de medewerking van de havenkapiteindiensten, de havenmeesters, de brug- en sluiswachters en de andere bevoegde ambtenaren.<br>
+<br>
+Het verbod wordt opgeheven nadat de betrokken dienst meegedeeld heeft dat het vaartuig aan de uit dit decreet en zijn uitvoeringsbesluiten voortvloeiende verplichtingen heeft voldaan.<br>
+<br>
+De Vlaamse regering kan ter zake nadere procedurevoorschriften vaststellen en bepalen welke ambtenaren met het nemen van de in dit artikel bedoelde maatregelen belast zijn.<br>
+<br>
+§ 4. Indien tegen het vaartuig waarop de vordering van de loodsdienst of het Vlaamse Gewest betrekking heeft, geen afdoend afvaartverbod kon worden uitgesproken, kan eenzelfde verbod ook worden uitgesproken tegen elk zusterschip van het vaartuig waarop de bedoelde vordering betrekking heeft, zelfs al is dit zusterschip gereed om uit te varen.<br>
+<br>
+Voor de toepassing van dit artikel wordt onder zusterschip verstaan, elk vaartuig waarvan de betrokken dienst weet of althans redelijkerwijze kan vermoeden, dat de eigenaar of eigenaars, of de bevrachter, dezelfde of voor een overwegend gedeelte dezelfde zijn als die van het vaartuig waarop de vordering van de betrokken dienst betrekking heeft.
 
 ### ART. 18.
 
