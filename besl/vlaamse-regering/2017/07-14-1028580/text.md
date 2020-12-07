@@ -42,7 +42,7 @@ In dit besluit wordt verstaan onder:<br>
 17° psychiatrisch ziekenhuis: een ziekenhuis als vermeld in artikel 3 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen;<br>
 18° strategisch forfait: de investeringssubsidie, vermeld in hoofdstuk 2 van het besluit van 14 juli 2017;<br>
 19° universitair ziekenhuis: een ziekenhuis als vermeld in artikel 4 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen;<br>
-20° ziekenhuis: een instelling als vermeld in artikel 2 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen.
+20° ziekenhuis: een instelling als vermeld in artikel 2 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen, een revalidatieziekenhuis of een samenwerkingsverband met rechtspersoonlijkheid van twee of meer ziekenhuizen.
 
 ### ART 2.
 
@@ -358,7 +358,7 @@ Het Fonds brengt de aanvrager op de hoogte van de opstartbeslissing over de toek
 
 Na de ondertekening van de opstartbeslissing tot toekenning van een strategisch forfait stelt de leidend ambtenaar van het Fonds conform het tweede lid jaarlijks het bedrag van het strategisch forfait vast op naam van de aanvrager. Het Fonds betaalt het bedrag jaarlijks uit.<br>
 <br>
-Het bedrag van het jaarlijkse strategisch forfait wordt vastgesteld conform&nbsp;artikel 6 tot en met 7 en 14 tot en met 17 van het besluit van 14 juli 2017.<br>
+Het bedrag van het jaarlijkse strategisch forfait wordt vastgesteld conform&nbsp;artikel 6 tot en met 7 en 14 tot en met 16 van het besluit van 14 juli 2017.<br>
 <br>
 Het Fonds deelt de berekening van het jaarlijkse strategisch forfait mee aan de aanvrager.<br>
 <br>
