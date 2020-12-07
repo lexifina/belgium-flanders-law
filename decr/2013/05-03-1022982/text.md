@@ -48,7 +48,11 @@ De Vlaamse Regering bepaalt:<br>
 4° de lading die niet met een langere en zwaardere sleep vervoerd mag worden;<br>
 5° de voorwaarden voor de beroepsbekwaamheid van de bestuurder.<br>
 <br>
-De Vlaamse Regering kan het maximum aantal vergunningen dat in het kader van een proefproject kan worden afgeleverd, bepalen.
+De Vlaamse Regering kan het maximum aantal vergunningen dat in het kader van een proefproject kan worden afgeleverd, bepalen.<br>
+<br>
+De Vlaamse Regering kan de regels bepalen voor de toekenning, weigering, verlenging, schorsing en intrekking van de erkenning van de instellingen en de lesgevers in het kader van de opleiding om de beroepsbekwaamheid van bestuurder van langere en zwaardere voertuigen te behalen.<br>
+<br>
+Aan elke rechtspersoon of natuurlijke persoon die een erkenningsaanvraag indient, kan een retributie worden gevraagd om de erkenningsaanvraag te behandelen. Dezelfde retributie kan worden gevraagd om het toezicht op de erkenningsvoorwaarden uit te oefenen. De Vlaamse Regering bepaalt voor welke erkenningsaanvragen of toezichtverplichtingen een retributie is verschuldigd en stelt de bedragen vast, en de wijze waarop de retributie moet worden voldaan.
 
 ### ART. 5.
 
@@ -162,7 +166,55 @@ Als een dossier dat persoonsgegevens als vermeld in het vijfde lid, bevat, naar 
 
 ### ART. 17.
 
-<P>§ 1. Voor inbreuken op dit decreet of de uitvoeringsbesluiten ervan kunnen de   door de Vlaamse Regering aangewezen wegeninspecteurs-controleurs en de Vlaamse   Regering in graad van beroep een administratieve geldboete opleggen   overeenkomstig de hierna bepaalde regels.<BR></P>  <P>§ 2. Het tarief van de administratieve geldboete is gelijk aan de   minimumgeldboete, vermeld in artikel 14, verhoogd met de opdeciemen.<BR></P>  <P>Als een overtreder binnen de positieve referentieperiode opnieuw een inbreuk   op dit decreet of de uitvoeringsbesluiten ervan pleegt, kan de administratieve   geldboete bepaald worden op het dubbel van de minimumgeldboete, vermeld in   artikel 14, verhoogd met de opdeciemen.<BR></P>  <P>In het tweede lid wordt verstaan onder positieve referentieperiode : de   periode van drie jaar die volgt op de datum waarop een definitieve   administratieve geldboete of een definitieve strafrechtelijke sanctie is   opgelegd wegens een inbreuk op dit decreet of de uitvoeringsbesluiten   ervan.<BR></P>  <P>Als er verzachtende omstandigheden zijn, kan de wegeninspecteur-controleur of   de Vlaamse Regering een administratieve geldboete onder de betreffende   minimumbedragen opleggen.<BR></P>  <P>§ 3. De wegeninspecteurs brengen de wegeninspecteur-controleur op de hoogte   van de door hen vastgestelde inbreuken en, in voorkomend geval, van de   onmiddellijke inningen of consignaties, vermeld in paragraaf 6.<BR></P>  <P>Als de administratieve geldboete niet onmiddellijk werd geïnd of als de   administratieve geldboete in consignatie werd gegeven, deelt de   wegeninspecteur-controleur aan de procureur des Konings zijn voornemen mee om   een administratieve geldboete op te leggen binnen dertig dagen na de ontvangst   van het proces-verbaal.<BR></P>  <P>De procureur des Konings beschikt over een vervaltermijn van zestig dagen om   zijn voornemen om al dan niet strafvervolging in te stellen mee te delen aan de   wegeninspecteur-controleur. De termijn gaat in de derde werkdag na verzending   van de kennisgeving bedoeld in het vorige lid.<BR></P>  <P>Als de procureur des Konings tijdig beslist om strafvervolging in te stellen,   vervalt de mogelijkheid om een administratieve geldboete op te leggen.<BR></P>  <P>Als de procureur des Konings beslist om geen strafvervolging in te stellen,   kan een administratieve geldboete worden opgelegd.<BR></P>  <P>Als de procureur des Konings zijn beslissing niet tijdig meedeelt, vervalt de   mogelijkheid om strafvervolging in te stellen en kan een administratieve   geldboete worden opgelegd.<BR></P>  <P>§ 4. De andere bevoegde personen dan de personen, vermeld in paragraaf 3,   brengen de procureur des Konings op de hoogte van de door hen vastgestelde   inbreuken en, in voorkomend geval, van de onmiddellijke inningen of   consignaties, vermeld in paragraaf 6.<BR></P>  <P>Als de procureur des Konings beslist om geen strafvervolging in te stellen,   brengt hij de wegeninspecteur-controleur daarvan op de hoogte. De   wegeninspecteur-controleur kan vervolgens een administratieve geldboete   opleggen.<BR></P>  <P>§ 5. De onderneming is burgerrechtelijk aansprakelijk voor de betaling van de   administratieve geldboete, opgelegd aan haar organen en aan de personen voor wie   ze overeenkomstig artikel 1384 van het Burgerlijk Wetboek aansprakelijk   is.<BR></P>  <P>§ 6. De bevoegde personen, vermeld in paragraaf 3 en 4, kunnen de   administratieve geldboete onmiddellijk innen als de overtreder daarmee   instemt.<BR></P>  <P>De onmiddellijke inning doet de strafvordering vervallen. De sommen komen ten   bate van het Vlaams Infrastructuurfonds.<BR></P>  <P>Als de overtreder en de onderneming geen woonplaats of vaste verblijfplaats   in België hebben en niet instemmen met een onmiddellijke inning van de   administratieve geldboete, wordt de administratieve geldboete door de bevoegde   personen, vermeld in de paragrafen 3 en 4, verplicht geïnd en in consignatie   gegeven.<BR></P>  <P>De consignatie doet de strafvordering niet vervallen. <BR></P>  <P>De nadere regels voor de onmiddellijke inning en de consignatie van de   administratieve geldboete worden vastgesteld door de Vlaamse Regering.<BR></P>  <P>§ 7. Als de overtreder en de onderneming geen woonplaats of vaste   verblijfplaats in België hebben, wordt het door de overtreder bestuurde voertuig   op zijn kosten en risico ingehouden tot het bedrag, vermeld in paragraaf 6,   derde lid, in consignatie gegeven is en het bewijs geleverd wordt dat de   eventuele bewaringskosten van het voertuig betaald zijn.<BR></P>  <P>Als het bedrag, vermeld in paragraaf 6, derde lid, binnen een termijn van   vier werkdagen vanaf de vaststelling van de overtreding, niet in consignatie   gegeven is, mag de inbeslagneming van het voertuig bevolen worden door het   Openbaar Ministerie.<BR></P>  <P>Een bericht van inbeslagneming wordt binnen twee werkdagen naar de overtreder   en, in voorkomend geval, naar de onderneming, alsook naar de eigenaar van het   voertuig gestuurd.<BR></P>  <P>Het risico en de kosten voor het voertuig blijven tijdens de duur van het   beslag ten laste van de overtreder of, in voorkomend geval, van de   onderneming.<BR></P>  <P>Het beslag wordt opgeheven nadat het bewijs geleverd is dat het bedrag,   vermeld in paragraaf 6, derde lid, in consignatie gegeven is en de eventuele   bewaringskosten van het voertuig zijn betaald.<BR></P>
+<p>§ 1. Voor inbreuken op dit decreet of de uitvoeringsbesluiten ervan kunnen de door de Vlaamse Regering aangewezen wegeninspecteurs-controleurs en de Vlaamse Regering in graad van beroep een administratieve geldboete opleggen overeenkomstig de hierna bepaalde regels.</p>
+
+<p>§ 2. Het tarief van de administratieve geldboete is gelijk aan de minimumgeldboete, vermeld in artikel 14, verhoogd met de opdeciemen.<br>
+<br>
+In afwijking van het eerste lid kan de Vlaamse Regering, voor specifieke inbreuken, het tarief van de administratieve geldboete bepalen op een bedrag dat hoger ligt dan de minimumgeldboete, vermeld in artikel 14, verhoogd met de opdeciemen, zonder evenwel de maximumgeldboete, vermeld in artikel 14, verhoogd met de opdeciemen, te overschrijden.</p>
+
+<p>Als een overtreder binnen de positieve referentieperiode opnieuw een inbreuk op dit decreet of de uitvoeringsbesluiten ervan pleegt, kan de administratieve geldboete bepaald worden op het dubbel van de administratieve geldboete, vermeld in het eerste of het tweede lid.</p>
+
+<p>In het derde lid wordt verstaan onder positieve referentieperiode : de periode van drie jaar die volgt op de datum waarop een definitieve administratieve geldboete of een definitieve strafrechtelijke sanctie is opgelegd wegens een inbreuk op dit decreet of de uitvoeringsbesluiten ervan.</p>
+
+<p>Als er verzachtende omstandigheden zijn, kan de wegeninspecteur-controleur of de Vlaamse Regering een administratieve geldboete onder de betreffende minimumbedragen opleggen.</p>
+
+<p>§ 3. De wegeninspecteurs brengen de wegeninspecteur-controleur op de hoogte van de door hen vastgestelde inbreuken en, in voorkomend geval, van de onmiddellijke inningen of consignaties, vermeld in paragraaf 6.</p>
+
+<p>Als de administratieve geldboete niet onmiddellijk werd geïnd of als de administratieve geldboete in consignatie werd gegeven, deelt de wegeninspecteur-controleur aan de procureur des Konings zijn voornemen mee om een administratieve geldboete op te leggen binnen dertig dagen na de ontvangst van het proces-verbaal.</p>
+
+<p>De procureur des Konings beschikt over een vervaltermijn van zestig dagen om zijn voornemen om al dan niet strafvervolging in te stellen mee te delen aan de wegeninspecteur-controleur. De termijn gaat in de derde werkdag na verzending van de kennisgeving bedoeld in het vorige lid.</p>
+
+<p>Als de procureur des Konings tijdig beslist om strafvervolging in te stellen, vervalt de mogelijkheid om een administratieve geldboete op te leggen.</p>
+
+<p>Als de procureur des Konings beslist om geen strafvervolging in te stellen, kan een administratieve geldboete worden opgelegd.</p>
+
+<p>Als de procureur des Konings zijn beslissing niet tijdig meedeelt, vervalt de mogelijkheid om strafvervolging in te stellen en kan een administratieve geldboete worden opgelegd.</p>
+
+<p>§ 4. De andere bevoegde personen dan de personen, vermeld in paragraaf 3, brengen de procureur des Konings op de hoogte van de door hen vastgestelde inbreuken en, in voorkomend geval, van de onmiddellijke inningen of consignaties, vermeld in paragraaf 6.</p>
+
+<p>Als de procureur des Konings beslist om geen strafvervolging in te stellen, brengt hij de wegeninspecteur-controleur daarvan op de hoogte. De wegeninspecteur-controleur kan vervolgens een administratieve geldboete opleggen.</p>
+
+<p>§ 5. De onderneming is burgerrechtelijk aansprakelijk voor de betaling van de administratieve geldboete, opgelegd aan haar organen en aan de personen voor wie ze overeenkomstig artikel 1384 van het Burgerlijk Wetboek aansprakelijk is.</p>
+
+<p>§ 6. De bevoegde personen, vermeld in paragraaf 3 en 4, kunnen de administratieve geldboete onmiddellijk innen als de overtreder daarmee instemt.</p>
+
+<p>De onmiddellijke inning doet de strafvordering vervallen. De sommen komen ten bate van het Vlaams Infrastructuurfonds.</p>
+
+<p>Als de overtreder en de onderneming geen woonplaats of vaste verblijfplaats in België hebben en niet instemmen met een onmiddellijke inning van de administratieve geldboete, wordt de administratieve geldboete door de bevoegde personen, vermeld in de paragrafen 3 en 4, verplicht geïnd en in consignatie gegeven.</p>
+
+<p>De consignatie doet de strafvordering niet vervallen.</p>
+
+<p>De nadere regels voor de onmiddellijke inning en de consignatie van de administratieve geldboete worden vastgesteld door de Vlaamse Regering.</p>
+
+<p>§ 7. Als de overtreder en de onderneming geen woonplaats of vaste verblijfplaats in België hebben, wordt het door de overtreder bestuurde voertuig op zijn kosten en risico ingehouden tot het bedrag, vermeld in paragraaf 6, derde lid, in consignatie gegeven is en het bewijs geleverd wordt dat de eventuele bewaringskosten van het voertuig betaald zijn.</p>
+
+<p>Als het bedrag, vermeld in paragraaf 6, derde lid, binnen een termijn van vier werkdagen vanaf de vaststelling van de overtreding, niet in consignatie gegeven is, mag de inbeslagneming van het voertuig bevolen worden door het Openbaar Ministerie.</p>
+
+<p>Een bericht van inbeslagneming wordt binnen twee werkdagen naar de overtreder en, in voorkomend geval, naar de onderneming, alsook naar de eigenaar van het voertuig gestuurd.</p>
+
+<p>Het risico en de kosten voor het voertuig blijven tijdens de duur van het beslag ten laste van de overtreder of, in voorkomend geval, van de onderneming.</p>
+
+<p>Het beslag wordt opgeheven nadat het bewijs geleverd is dat het bedrag, vermeld in paragraaf 6, derde lid, in consignatie gegeven is en de eventuele bewaringskosten van het voertuig zijn betaald.</p>
 
 ### ART. 18.
 
