@@ -94,7 +94,9 @@ De vermindering van het aantal voertuigen of de opschorting van de exploitatie m
 <br>
 § 2. De vergunning is persoonlijk en onoverdraagbaar.<br>
 <br>
-Na een voorafgaande toelating van het bevoegde college mag de echtgeno(o)t(e) of de duurzaam samenwonende partner of mogen bloed- of aanverwanten tot de tweede graad bij overlijden of permanente arbeidsongeschiktheid van de vergunninghouder, onder dezelfde voorwaarden de exploitatie van de dienst voortzetten tot het einde van de in de vergunning gestelde termijn.
+Na een voorafgaande toelating van het bevoegde college mag de echtgeno(o)t(e) of de duurzaam samenwonende partner of mogen bloed- of aanverwanten tot de tweede graad bij overlijden of permanente arbeidsongeschiktheid van de vergunninghouder, onder dezelfde voorwaarden de exploitatie van de dienst voortzetten tot het einde van de in de vergunning gestelde termijn.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de procedure voor de vrijwillige stopzetting door de exploitant van de dienst voor individueel bezoldigd personenvervoer.
 
 ### ART 10.
 
@@ -117,6 +119,8 @@ De Vlaamse Regering bepaalt de procedure voor het indienen en het behandelen van
 Alleen de houders van een vergunning kunnen een machtiging aanvragen.<br>
 <br>
 § 2. De machtiging wordt afgegeven door de gemeente en is geldig voor eender welke standplaats op haar grondgebied.<br>
+<br>
+In afwijking van het eerste lid kunnen de gemeenten de toegang tot de standplaatsen die bestemd zijn voor zero-emissievoertuigen, beperken tot die categorie van voertuigen.<br>
 <br>
 De gemeente legt de wijze van afgifte, de vorm en de voorwaarden van de machtigingen vast in een gemeentelijk reglement.
 
@@ -298,21 +302,44 @@ In afwijking van artikel 28 en 29 bepaalt de Mobiliteitscentrale de wijze van kl
 3° de geschorste vergunningen, machtigingen en bestuurderspassen, de duur van de schorsing en de reden ervan, met inbegrip van strafrechtelijke veroordelingen en medische ongeschiktheid als vermeld in artikel 44 van het koninklijk besluit van 23 maart 1998 betreffende het rijbewijs;<br>
 4° de ingetrokken vergunningen, machtigingen en bestuurderspassen, de datum waarop de beslissing tot intrekking is genomen en de reden ervan, met inbegrip van strafrechtelijke veroordelingen en medische ongeschiktheid als vermeld in artikel 44 van het koninklijk besluit van 23 maart 1998 betreffende het rijbewijs;<br>
 5° de beroepen tegen de schorsingen en de intrekkingen, alsook de beslissingen die genomen zijn over die beroepen;<br>
-6° de klachten en aanbevelingen van het klachtenorgaan, vermeld in artikel 29, § 2.<br>
+6° de klachten en aanbevelingen van het klachtenorgaan, vermeld in artikel 29, § 2;<br>
+7° per uitgevoerde rit:<br>
+a) de identificatie van de exploitant;<br>
+b) de identificatie van de bestuurder;<br>
+c) de kentekenplaat van het voertuig;<br>
+d) de datum;<br>
+e) de starten aankomstplaats;<br>
+f) de start- en aankomsttijd;<br>
+g) het unieke ritnummer;<br>
+h) de eindprijs van de rit;<br>
+i) de afstand van de rit;<br>
+8° per bestelde rit:<br>
+a) de vastgelegde datum, het vastgelegde tijdstip en de start- en aankomstplaats van de bestelde rit;<br>
+b) het tijdstip van de bestelling;<br>
+c) de prijsafspraak bij bestelling;<br>
+9° per dienst:<br>
+a) het aantal uitgevoerde ritten sinds het begin van de dienst;<br>
+b) de totale afgelegde afstand;<br>
+c) de afgelegde beladen afstand;<br>
+d) de uren van de effectief genomen rustpauze;<br>
+e) de datum en het uur van de effectieve beëindiging van de dienst.<br>
 <br>
 De strafrechtelijke veroordelingen, vermeld in het eerste lid, 2°, 3° en 4°, betreffen de inbreuken op de vereisten en verplichtingen over de zedelijkheid van de exploitant of de bestuurder, vermeld in artikel 21, § 2, 1° en 2°, en de inbreuken, vermeld in artikel 33, § 1 en § 2. De gegevensbank beperkt zich tot een weergave of de persoon al dan niet het voorwerp is geweest van een strafrechtelijke veroordeling, zonder vermelding van de inbreuk.<br>
 <br>
 De gegevensbank beperkt zich tot een weergave van het al dan niet medisch geschikt zijn van de persoon, vermeld in het eerste lid, 2°, 3° en 4°, zonder informatie over de eventuele aandoening.<br>
 <br>
-§ 2. De gegevens worden verzameld en verwerkt om:<br>
-1° het administratief beheer van het vergunningensysteem door de Vlaamse steden en gemeenten te vergemakkelijken;<br>
-2° de controle op de bepalingen van dit decreet en zijn uitvoeringsbepalingen te verhogen door een betere communicatie tussen lokale besturen en de bevoegde Vlaamse en federale diensten en tussen de lokale besturen onderling.<br>
+De Vlaamse Regering kan de gegevensbank verfijnen met uitsluitend technische gegevens.<br>
 <br>
-§ 3. De gemeenten voeren de nodige gegevens in de gegevensbank in.<br>
+§ 2. De gegevens worden verzameld en verwerkt om:<br>
+1° het administratieve beheer van het vergunningensysteem door de Vlaamse steden en gemeenten te vergemakkelijken;<br>
+2° de controle en handhaving op de bepalingen van dit decreet en de uitvoeringsbepalingen ervan te verhogen door de gegevensdeling tussen gemeenten en de bevoegde Vlaamse en federale diensten, de politie, het klachtenorgaan en de gemeenten onderling;<br>
+3° statistische doeleinden te realiseren voor het personenvervoer, het multimodale personenvervoer en het globale mobiliteitsbeleid, waaronder de opvolging van de evolutie van de prijzen.<br>
+<br>
+§ 3. De gemeenten voeren de gegevens, vermeld in paragraaf 1, eerste lid, 1° tot en met 6°, in de gegevensbank in. De vergunninghouders of hun tussenpersonen bezorgen de gegevens, vermeld in paragraaf 1, eerste lid, 7° tot en met 9°, bij de eventuele reservatie van een rit, bij de start van een rit en bij het einde van een rit.<br>
 <br>
 Het Departement Mobiliteit en Openbare Werken en de gemeenten kwalificeren als gezamenlijke verwerkingsverantwoordelijken in de zin van artikel 4(7) van de verordening (EU) 2016/679 en zullen voldoen aan de verplichtingen vervat in artikel 26 van de verordening (EU) 2016/679 die in dat verband op hen rusten.<br>
 <br>
-De Vlaamse Regering bepaalt tot welke gegevens uit de gegevensbank de gemeenten, de exploitanten, de beroepsinstantie, de politie en de overheidsdiensten die belast zijn met het administratieve beheer of de controle van de diensten voor individueel bezoldigd personenvervoer, toegang hebben.<br>
+De Vlaamse Regering bepaalt tot welke gegevens uit de gegevensbank de gemeenten, de exploitanten, de beroepsinstantie, de politie&nbsp;het klachtenorgaan, de federale overheidsdiensten en de overheidsdiensten die belast zijn met het administratieve beheer of de controle van de diensten voor individueel bezoldigd personenvervoer, toegang hebben.<br>
 <br>
 De gegevensbank is onderworpen aan een strikt gebruikers- en toegangsbeheer, waarbij toegang beperkt wordt tot die gegevens die strikt noodzakelijk zijn voor de toepassing van dit decreet en de uitvoeringsbesluiten ervan, rekening houdend met de rol die iedere toegangsgerechtigde vervult.<br>
 <br>
@@ -323,7 +350,7 @@ De gegevensbank is onderworpen aan een strikt gebruikers- en toegangsbeheer, waa
 2° de naam of benaming van de exploitant;<br>
 3° het adres van de exploitatiezetel;<br>
 4° de identificatiecode van de voertuigen;<br>
-5° de nummerplaat van de voertuigen;<br>
+5° de kentekenplaat van de voertuigen;<br>
 6° of de exploitant beschikt over aangepaste voertuigen;<br>
 7° de geldigheidsduur van de vergunning.<br>
 <br>
@@ -374,7 +401,8 @@ De Vlaamse Regering bepaalt de kentekens van hun functie.<br>
 1° bevelen geven aan de bestuurders;<br>
 2° inlichtingen inwinnen en controle uitoefenen door personen te ondervragen en documenten en andere informatiedragers in te kijken;<br>
 3° de bijstand van de lokale en federale politie vorderen;<br>
-4° de vergunning inhouden totdat de inbreuk ophoudt te bestaan.<br>
+4° de vergunning inhouden totdat de inbreuk ophoudt te bestaan;<br>
+5° toegang verkrijgen tot de voertuigen die voor diensten voor individueel bezoldigd personenvervoer worden gebruikt, en hun garages.<br>
 <br>
 § 3. De personen, vermeld in paragraaf 1, zijn bevoegd om de inbreuken vast te stellen bij proces-verbaal met bewijswaarde tot bewijs van het tegendeel. Een afschrift van het proces-verbaal wordt binnen veertien dagen na vaststelling van de inbreuk naar de overtreder gestuurd en, in voorkomend geval, naar de exploitant toegestuurd.<br>
 <br>
@@ -464,7 +492,7 @@ In hoofdstuk IX, afdeling 3, van hetzelfde decreet, gewijzigd bij het decreet va
 
 ### ART 43.
 
-De houders van vergunningen voor een taxidienst of voor een dienst voor het verhuren van voertuigen met bestuurder, die afgegeven zijn krachtens het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg, zoals van kracht vóór de inwerkingtreding van dit decreet, worden ertoe gemachtigd hun diensten te blijven exploiteren conform de voorwaarden en gedurende de resterende duurtijd van de lopende vergunning.
+De houders van vergunningen voor een taxidienst of voor een dienst voor het verhuren van voertuigen met bestuurder, die afgegeven zijn krachtens het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg, zoals van kracht vóór de inwerkingtreding van dit decreet, worden ertoe gemachtigd hun diensten te blijven exploiteren conform de bepalingen van het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg en het besluit van de Vlaamse Regering van 18 juli 2003 betreffende de taxidiensten en de diensten voor het verhuren van voertuigen met bestuurder, zoals van kracht op 31 december 2019 en gedurende de resterende duurtijd van de lopende vergunning.
 
 ### ART 44.
 
