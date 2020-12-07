@@ -2,13 +2,97 @@
 
 ## HOOFDSTUK 1. Algemene bepaling
 
+### ART 1.
+
+Dit decreet regelt een gewestaangelegenheid.
+
 ## HOOFDSTUK 2. Bekrachtiging van het besluit van de Vlaamse Regering van 28 juni 2019 tot wijziging van artikel 3 van het koninklijk besluit van 30 september 2005 tot aanwijzing van de overtredingen per graad van de algemene reglementen genomen ter uitvoering van de wet betreffende de politie over het wegverkeer
+
+### ART 2.
+
+Het besluit van de Vlaamse Regering van 28 juni 2019 tot wijziging van artikel 3 van het koninklijk besluit van 30 september 2005 tot aanwijzing van de overtredingen per graad van de algemene reglementen genomen ter uitvoering van de wet betreffende de politie over het wegverkeer wordt bekrachtigd.
 
 ## HOOFDSTUK 3. Wijzigingsbepalingen
 
 ## Afdeling 1. Wijziging van de wet van 10 oktober 1967 houdende het Gerechtelijk Wetboek
 
 ## Afdeling 2. Wijzigingen van de wet betreffende de politie over het wegverkeer, gecoördineerd op 16 maart 1968
+
+### ART 4.
+
+In artikel 23 van de wet betreffende de politie over het wegverkeer, gecoördineerd op 16 maart 1968, vervangen bij de wet van 9 juli 1976 en gewijzigd bij de wetten van 29 februari 1984 en 18 juli 1990 en het decreet van 26 april 2019, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° paragraaf 3 wordt vervangen door wat volgt:<br>
+<br>
+"§ 3. De Vlaamse Regering kan de voorwaarden en nadere regels bepalen die gelden voor:<br>
+1° de instellingen en hun personeelsleden die instaan voor het afnemen van examens om een rijbewijs of een bewijs van vakbekwaamheid te behalen;<br>
+2° de instellingen en hun personeelsleden of de personen die onderricht verstrekken:<br>
+a) om een rijbewijs te verkrijgen;<br>
+b) in het kader van de voortgezette rijopleiding;<br>
+c) om een bewijs van vakbekwaamheid te behalen of te verlengen;<br>
+3° de opleidingsverstrekkers die opleidingen en bijscholingen geven aan kandidaat-personeelsleden en personeelsleden van de instellingen, vermeld in punt 1° en 2°, of aan de personen, vermeld in punt 2° ;<br>
+4° de personen die kandidaat-personeelsleden en personeelsleden van de instellingen, vermeld in punt 1° en 2°, of die de personen, vermeld in punt 2°, begeleiden tijdens hun opleiding;<br>
+5° de commissie die oordeelt over een beroep dat wordt ingediend naar aanleiding van het niet-slagen voor een examen.<br>
+<br>
+De Vlaamse Regering kan de regels voor de toekenning, weigering, verlenging, stopzetting, schorsing en intrekking van de erkenning van de instellingen en de personen, vermeld in het eerste lid, 1° tot en met 4°, bepalen.<br>
+<br>
+De Vlaamse Regering kan de regels voor de opleidingen en de bijscholingen van kandidaat-personeelsleden en personeelsleden van de instellingen, vermeld in het eerste lid, 1° en 2°, en van de personen, vermeld in het eerste lid, 2°, bepalen.";<br>
+<br>
+2° in paragraaf 4 wordt het eerste lid vervangen door wat volgt:<br>
+<br>
+"Met het oog op de uitvoering van de bevoegdheden en de taken inzake de reglementering over de scholing en de examens over de kennis en de vaardigheid die nodig zijn om voertuigen van elke categorie te besturen, en inzake de reglementering over de vakbekwaamheid, vermeld in of ter uitvoering van deze wet en de uitvoeringsbesluiten ervan, worden gegevens verwerkt, inclusief de gegevens, vermeld in artikel 9, lid 1, en artikel 10 van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming).";<br>
+<br>
+3° in paragraaf 4 wordt het derde lid vervangen door wat volgt:<br>
+<br>
+"De Vlaamse Regering bepaalt welke gegevens worden verwerkt, stelt de wijze vast waarop die gegevens worden verwerkt, wijst de verantwoordelijke voor de verwerking aan, bepaalt, onverminderd de in het eerste lid vermelde doeleinden, de bijkomende doeleinden van de verwerking en stelt de maximale bewaartermijn van de gegevens vast. De persoonsgegevens worden in ieder geval niet langer bewaard dan nodig is voor de doeleinden waarvoor zij worden verwerkt.";<br>
+<br>
+4° er wordt een paragraaf 5 toegevoegd, die luidt als volgt:<br>
+<br>
+" § 5. Inspecteurs kunnen de instellingen en de personen, vermeld in paragraaf 3, controleren op de naleving van de reglementering over de scholing en de examens over de kennis en de vaardigheid die nodig zijn om voertuigen van elke categorie te besturen, en inzake de reglementering over de vakbekwaamheid, vermeld in of ter uitvoering van deze wet en de uitvoeringsbesluiten ervan.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de controle, vermeld in het eerste lid, en voor de aanwijzing van de inspecteurs die die controle verrichten.<br>
+<br>
+Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de inspecteurs, vermeld in het eerste lid, beslissen om de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerkingen van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan is aan de voorwaarden, vermeld in het vierde tot en met het twaalfde lid.<br>
+<br>
+De afwijkingsmogelijkheid, vermeld in het derde lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de inspecteurs, vermeld in het eerste lid, en op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast. De duur van de voorbereidende werkzaamheden mag in voorkomend geval niet meer bedragen dan een jaar vanaf de ontvangst van een verzoek tot uitoefening van een van de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening.<br>
+<br>
+De persoonsgegevens worden niet langer bewaard dan nodig is voor de doeleinden waarvoor ze worden verwerkt.<br>
+<br>
+De afwijkingsmogelijkheid, vermeld in het derde lid, heeft geen betrekking op de gegevens die losstaan van het voorwerp van het onderzoek dat of van de controle die de weigering of beperking van de rechten, vermeld in het derde lid, rechtvaardigt.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het derde lid, tijdens de periode, vermeld in het vierde lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, bevestigt de bevoegde functionaris voor gegevensbescherming de ontvangst daarvan.<br>
+<br>
+De bevoegde functionaris voor gegevensbescherming brengt de betrokkene schriftelijk, zo snel mogelijk en in elk geval binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van elke weigering of beperking van de rechten, vermeld in het derde lid. De verdere informatie over de nadere redenen voor die weigering of die beperking hoeft niet te worden verstrekt als dat de decretale en reglementaire opdrachten van de inspecteurs, vermeld in het eerste lid, zou ondermijnen, met behoud van de toepassing van het tiende lid. Als het nodig is, kan de voormelde termijn met twee maanden worden verlengd, rekening houdend met het aantal aanvragen en de complexiteit ervan. De verwerkingsverantwoordelijke brengt de betrokkene binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van die verlenging en van de redenen voor het uitstel.<br>
+<br>
+De bevoegde functionaris voor gegevensbescherming informeert de betrokkene ook over de mogelijkheid om een verzoek in te dienen bij de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens conform artikel 10/5 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer en om een beroep in rechte in te stellen.<br>
+<br>
+De bevoegde functionaris voor gegevensbescherming noteert de feitelijke of juridische gronden waarop de beslissing is gebaseerd. Die informatie houdt hij ter beschikking van de voormelde Vlaamse Toezichtcommissie.<br>
+<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval, conform artikel 12 van de voormelde verordening, opnieuw toegepast.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het derde lid bevat, naar het Openbaar Ministerie is gestuurd en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag de bevoegde functionaris voor gegevensbescherming op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening, pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval, de onderzoeksrechter heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.".
+
+### ART 5.
+
+In titel III, hoofdstuk IV, van dezelfde wet, gewijzigd bij de wetten van 9 juli 1976, 18 juli 1990 en het decreet van 13 december 2019, wordt na artikel 27 een artikel 27/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 27/1. De Vlaamse Regering kan een retributie bepalen voor:<br>
+1° het behandelen van een aanvraag tot erkenning of tot verlenging van de erkenning van de instellingen, vermeld in artikel 23, § 3, eerste lid, 1° en 2°, en van de lokalen, de terreinen en het personeel van die instellingen;<br>
+2° het behandelen van een aanvraag tot erkenning of tot verlenging van de erkenning van de personen, vermeld in artikel 23, § 3, eerste lid, 2°, en van de lokalen en de terreinen van die personen;<br>
+3° het behandelen van een aanvraag tot erkenning of tot verlenging van de erkenning van de opleidingsverstrekkers, vermeld in artikel 23, § 3, eerste lid, 3° ;<br>
+4° het behandelen van een aanvraag tot erkenning of tot verlenging van de erkenning van de personen, vermeld in artikel 23, § 3, eerste lid, 4° ;<br>
+5° het behandelen van een aanvraag tot het verkrijgen van een bewijs van vakbekwaamheid of tot verlenging ervan;<br>
+6° het afleggen van examens in de instellingen, vermeld in artikel 23, § 3, eerste lid, 1° ;<br>
+7° het volgen van verplichte rijopleidingen en bijscholingen om een rijbewijs te behalen, in het kader van de voortgezette rijopleiding of om een bewijs van vakbekwaamheid te behalen of te verlengen;<br>
+8° het afleggen van de examens, het uitoefenen van de stage en het volgen van verplichte opleidingen en bijscholingen door kandidaat-personeelsleden en personeelsleden van de instellingen, vermeld in artikel 23, § 3, eerste lid, 1° en 2°, of door de personen, vermeld in artikel 23, § 3, eerste lid, 2° ;<br>
+9° het indienen van een verzoekschrift bij de beroepscommissie;<br>
+10° het onderzoek in een centrum voor rijgeschiktheid.<br>
+<br>
+Tevens kan de Vlaamse Regering periodieke retributies bepalen voor de uitoefening van het toezicht op de erkenning van de instellingen en de personen, vermeld in artikel 23, § 3, eerste lid, 1° tot en met 4°.<br>
+<br>
+De in het eerste lid, 1°, 2° en 8°, en het tweede lid, vermelde diensten omvatten niet de diensten waarvoor een retributie als vermeld in artikel 27, tweede en derde lid, kan worden bepaald.<br>
+<br>
+De Vlaamse Regering kan de bedragen en de wijze waarop de retributies moeten worden voldaan evenals de procedure bij niet-naleving bepalen.".
 
 ## Afdeling 3. Wijziging van de wet van 21 juni 1985 betreffende de technische eisen waaraan elk voertuig voor vervoer te land, de onderdelen ervan, evenals het veiligheidstoebehoren moeten voldoen
 
@@ -20,15 +104,199 @@ Aan artikel 1, § 1, van de wet van 21 juni 1985 betreffende de technische eisen
 
 ## Afdeling 4. Wijziging van het decreet van 18 december 1992 houdende bepalingen tot begeleiding van de begroting 1993
 
+### ART 8.
+
+Aan artikel 43 van het decreet van 18 december 1992 houdende bepalingen tot begeleiding van de begroting 1993, vervangen bij het decreet van 5 juli 2002 en het laatst gewijzigd bij het decreet van 30 maart 2007, worden een zesde tot en met achtste lid toegevoegd, die luiden als volgt:<br>
+<br>
+"De laadinfrastructuur voor elektrische voertuigen wordt vrijgesteld van vaste en variabele retributie tot en met 31 december 2024.<br>
+<br>
+In het zesde lid wordt verstaan onder laadinfrastructuur:<br>
+1° de ingenomen oppervlakte van de elektriciteitskast;<br>
+2° de ingenomen oppervlakte van de laadpaal zelf;<br>
+3° de ondergrondse leiding van de kast naar de laadpaal;<br>
+4° de oppervlakte van de parking;<br>
+5° de vervoerleiding voor de aansluiting van de elektriciteitskast, vermeld in punt 1°.<br>
+<br>
+De Vlaamse Regering kan de laadinfrastructuur, vermeld in het zesde en zevende lid, vrijstellen vanaf 1 januari 2025.".
+
 ## Afdeling 5. Wijziging van het decreet van 19 april 1995 betreffende de organisatie en de werking van de loodsdienst van het Vlaamse Gewest en betreffende de brevetten van havenloods, bootman en diepzeeloods
+
+### ART 9.
+
+In artikel 17 van het decreet van 19 april 1995 betreffende de organisatie en de werking van de loodsdienst van het Vlaamse Gewest en betreffende de brevetten van havenloods, bootman en diepzeeloods wordt een paragraaf 2bis ingevoegd, die luidt als volgt:<br>
+<br>
+" § 2bis. De volgende elementen worden als voldoende geachte zekerheid aanvaard:<br>
+1° een conventionele borgstelling door een scheepvaartvereniging voor haar onderschreven leden;<br>
+2° een Europees domiciliëringsmandaat van het type business-to-business (b2b);<br>
+3° een waarborg die een kredietinstelling of een verzekeringsinstelling van een lidstaat die behoort tot de Europese Economische Ruimte, of een andere land waartoe het vrije verkeer inzake bankwaarborgen is uitgebreid, toestaat voor de geraamde omzet per maand van het loodsgeld, de bunker adjustment factor (BAF) en de VBS-vergoeding;<br>
+4° een individuele borgstelling in speciën per aanloop voor een forfait van het loodsgeld, de bunker adjustment factor (BAF) en de VBS-vergoeding.".
 
 ## Afdeling 6. Wijziging van het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg
 
+### ART 10.
+
+In artikel 2 van het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg, gewijzigd bij het decreet van 8 mei 2009, wordt punt 4° bis opgeheven.
+
 ## Afdeling 7. Wijzigingen van het decreet van 31 januari 2003 betreffende de oprichting van een Eigen Vermogen "Flanders Hydraulics"
+
+### ART 11.
+
+In het decreet van 31 januari 2003 betreffende de oprichting van een Eigen Vermogen "Flanders Hydraulics", gewijzigd bij de decreten van 24 juni 2005, 25 mei 2007 en 8 juli 2011, wordt een artikel 1/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 1/1. In dit decreet wordt verstaan onder Vlaamse administratie:<br>
+1° de departementen, vermeld in artikel 1, 7°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° de intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid, vermeld in artikel 1quater van het voormelde besluit;<br>
+3° de intern verzelfstandigde agentschappen met rechtspersoonlijkheid, vermeld in artikel III.4 van het Bestuursdecreet van 7 december 2018;<br>
+4° de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen, vermeld in artikel III.7 van het voormelde decreet;<br>
+5° de privaatrechtelijk vormgegeven extern verzelfstandigde agentschappen, vermeld in artikel III.14 van het voormelde decreet.".
+
+### ART 12.
+
+In artikel 4 van hetzelfde decreet wordt punt 1° vervangen door wat volgt:<br>
+<br>
+"1° toegepaste onderzoeks-, studie-, expertise-, opleidings- en dienstverleningsopdrachten uitvoeren op het domein van de waterbouwkunde, de nautische wetenschappen, de milieukunde, en andere aangelegenheden die betrekking hebben op water, zee, waterwegen, havens en de scheepvaart in de ruime zin van het woord, voor andere organisaties dan de Vlaamse administratie;".
+
+### ART 13.
+
+In hetzelfde decreet wordt een artikel 5bis ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 5bis. § 1. De personeelsleden van het Eigen Vermogen Flanders Hydraulics die ingezet worden voor het gebruik, het onderhoud en de aanpassingen van de scheepsmanoeuvreersimulatoren kunnen door het departement Mobiliteit en Openbare Werken worden overgenomen onder de voorwaarden die de Vlaamse Regering bepaalt.<br>
+<br>
+§ 2. Als bij de overname van de personeelsleden, vermeld in paragraaf 1, blijkt dat ze een hogere geldelijke verloning genieten dan wat voor eenzelfde functie bij het departement Mobiliteit en Openbare Werken van toepassing is, dan behouden de betrokken personeelsleden de verloning die op het moment van de overname geldt, zonder afbreuk te doen aan de wettelijke mechanismen inzake de aanpassing van de lonen aan de evolutie van de consumptieprijzen, tot op het ogenblik dat de verloning overeenstemt met de lonen die gelden voor een zelfde functie bij het departement Mobiliteit en Openbare Werken. Als binnen het departement Mobiliteit en Openbare Werken eenzelfde functie niet aanwezig is, bepaalt de Vlaamse Regering de salarisschalen van de personeelsleden, vermeld in paragraaf 1.<br>
+<br>
+§ 3. De personeelsleden, vermeld in paragraaf 1, kunnen alleen worden overgenomen als ze slagen voor een objectieve selectieproef, waarvan de voorwaarden worden vastgelegd door de Vlaamse Regering.".
+
+### ART 14.
+
+In artikel 6 van hetzelfde decreet, gewijzigd bij het decreet van 25 mei 2007, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° paragraaf 2 wordt vervangen door wat volgt:<br>
+<br>
+" § 2. De Vlaamse Regering bepaalt de samenstelling van de beheerscommissie, waarbij de meerderheid van de leden vertegenwoordigers van de Vlaamse administratie zijn.";<br>
+<br>
+2° in paragraaf 4 wordt de zinsnede "overeenkomstig artikel 9" opgeheven.
+
+### ART 15.
+
+In artikel 7 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° punt 5° wordt vervangen door wat volgt:<br>
+<br>
+"5° de inkomsten van het beheer, de exploitatie en de vervreemding van goederen en installaties die behoren tot het vermogen van het EVFH, en de inkomsten van de uitbating van installaties en diensten;";<br>
+<br>
+2° er wordt een punt 6° toegevoegd, dat luidt als volgt:<br>
+<br>
+"6° de inkomsten van het beheer en de exploitatie van goederen en installaties die het EVFH, overeenkomstig artikel 7/2, in beheer heeft gekregen, en de inkomsten van de uitbating van installaties en diensten.".
+
+### ART 16.
+
+In hetzelfde decreet, gewijzigd bij de decreten van 24 juni 2005, 25 mei 2007 en 8 juli 2011, wordt een artikel 7/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 7/1. § 1. Het EVFH kan de domeingoederen die het in eigendom heeft, affecteren en desaffecteren.<br>
+<br>
+§ 2. Het EVFH kan op de domeingoederen die het in eigendom heeft of die het beheert, rechten aan derden toekennen, als dat niet onverenigbaar is met de bestemming van het goed.<br>
+<br>
+De beheerscommissie stelt de voorwaarden vast waaronder het EVFH de goederen aan derden ter beschikking stelt.".
+
+### ART 17.
+
+In hetzelfde decreet, gewijzigd bij de decreten van 24 juni 2005, 25 mei 2007 en 8 juli 2011, wordt een artikel 7/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 7/2. Het EVFH kan concessies, huur of andere rechten, zoals erfpachten opstalrechten, verkrijgen op of met betrekking tot domeingoederen die de Vlaamse administratie in eigendom heeft.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden waaronder een openbaardomeingoed van de Vlaamse administratie opgenomen kan worden in het openbaar domein van het EVFH.".
+
+### ART 18.
+
+Artikel 11 van hetzelfde decreet, gewijzigd bij het decreet van 8 juli 2011, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 11. Het administratief toezicht op het EVFH wordt uitgeoefend overeenkomstig artikel III.13 van het Bestuursdecreet van 7 december 2018.".
+
+### ART 19.
+
+In hetzelfde decreet wordt artikel 14 opgeheven.
 
 ## Afdeling 8. Wijzigingen van het decreet van 2 april 2004 betreffende het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap De Vlaamse Waterweg nv, naamloze vennootschap van publiek recht
 
+### ART 20.
+
+In artikel 2 van het decreet van 2 april 2004 betreffende het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap De Vlaamse Waterweg nv, naamloze vennootschap van publiek recht, gewijzigd bij de decreten van 16 juni 2006, 23 december 2016 en 7 december 2018, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° punt 1° wordt opgeheven;<br>
+<br>
+2° punt 2° wordt vervangen door wat volgt:<br>
+<br>
+"2° Wetboek van vennootschappen en verenigingen: Wetboek van vennootschappen en verenigingen van 2 maart 2019;".
+
+### ART 21.
+
+In artikel 3 van hetzelfde decreet, gewijzigd bij de decreten van 23 december 2016 en 7 december 2018, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 1 wordt tussen het woord "Bestuursdecreet" en het woord "bedoeld" de zinsnede "van 7 december 2018" ingevoegd;<br>
+<br>
+2° in paragraaf 2, tweede lid, wordt de zinsnede "van het Wetboek van vennootschappen, toepasselijk op de naamloze vennootschap" vervangen door de zinsnede "van het Wetboek van vennootschappen en verenigingen, toepasselijk op de naamloze vennootschap";<br>
+<br>
+3° in paragraaf 2, derde lid, wordt de zinsnede "Artikel 783 en 784, derde lid, van het Wetboek van vennootschappen" vervangen door de zinsnede "Artikel 14:10 en 14:11, derde lid, van het Wetboek van vennootschappen en verenigingen".
+
+### ART 22.
+
+In artikel 21 van hetzelfde decreet, gewijzigd bij de decreten van 23 december 2016 en 7 december 2018, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid wordt tussen het woord "Bestuursdecreet" en het woord "en" telkens de zinsnede "van 7 december 2018" ingevoegd;<br>
+<br>
+2° in het eerste lid worden tussen het woord "vennootschappen" en het woord "met" de woorden "en verenigingen" ingevoegd;<br>
+<br>
+3° in het tweede lid wordt de zinsnede "de bepalingen van de wet van 17 juli 1997 betreffende het gerechtelijk akkoord en de faillissementswet van 8 augustus 1997" vervangen door de zinsnede "de bepalingen van boek XX van het Wetboek van economisch recht".
+
+### ART 23.
+
+<p>In artikel 23, derde en vierde lid, van hetzelfde decreet, ingevoegd bij het decreet van 23 december 2016, wordt de zinsnede "bedoeld in artikel 28, § 1, eerste lid, 2° en 3°, van dit decreet" vervangen door de zinsnede "als vermeld in artikel 26, § 1, 2° en 3° ".</p>
+
+### ART 24.
+
+In artikel 24, § 2, van hetzelfde decreet, gewijzigd bij het decreet van 23 december 2016, wordt de zinsnede "Artikel 454, 456, 458 en 646 van het Wetboek van vennootschappen" vervangen door de zinsnede "Artikel 7:15, 7:17, 7:18, 7:20 en 7:231 van het Wetboek van vennootschappen en verenigingen".
+
+### ART 25.
+
+In artikel 28, § 2, van hetzelfde decreet wordt het woord "vennootschappen" telkens vervangen door de woorden "vennootschappen en verenigingen".
+
+### ART 26.
+
+In artikel 33 van hetzelfde decreet, gewijzigd bij de decreten van 23 december 2016 en 7 december 2018, wordt tussen het woord "Bestuursdecreet" en de zinsnede ", zijn" de zinsnede "van 7 december 2018" ingevoegd.
+
+### ART 27.
+
+In artikel 34 van hetzelfde decreet, gewijzigd bij de decreten van 23 december 2016 en 7 december 2018, wordt tussen het woord "Bestuursdecreet" en de zinsnede ", is" de zinsnede "van 7 december 2018" ingevoegd.
+
+### ART 28.
+
+In artikel 37, tweede lid, van hetzelfde decreet wordt het woord "Vennootschappen" vervangen door de woorden "vennootschappen en verenigingen".
+
+### ART 29.
+
+In artikel 43 van hetzelfde decreet, gewijzigd bij de decreten van 27 april 2007, 23 december 2016 en 7 december 2018, wordt tussen het woord "Bestuursdecreet" en het woord "inzake" de zinsnede "van 7 december 2018" ingevoegd.
+
 ## Afdeling 9. Wijzigingen van het decreet van 3 mei 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van bijzonder wegtransport
+
+### ART 30.
+
+Aan artikel 4/1 van het decreet van 3 mei 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van bijzonder wegtransport, ingevoegd bij het decreet van 7 juli 2017, worden een derde en een vierde lid toegevoegd, die luiden als volgt:<br>
+<br>
+"De Vlaamse Regering kan de regels bepalen voor de toekenning, weigering, verlenging, schorsing en intrekking van de erkenning van de instellingen en de lesgevers in het kader van de opleiding om de beroepsbekwaamheid van bestuurder van langere en zwaardere voertuigen te behalen.<br>
+<br>
+Aan elke rechtspersoon of natuurlijke persoon die een erkenningsaanvraag indient, kan een retributie worden gevraagd om de erkenningsaanvraag te behandelen. Dezelfde retributie kan worden gevraagd om het toezicht op de erkenningsvoorwaarden uit te oefenen. De Vlaamse Regering bepaalt voor welke erkenningsaanvragen of toezichtverplichtingen een retributie is verschuldigd en stelt de bedragen vast, en de wijze waarop de retributie moet worden voldaan.".
+
+### ART 31.
+
+In artikel 17, § 2, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° tussen het eerste en het tweede lid wordt een lid ingevoegd dat luidt als volgt:<br>
+<br>
+"In afwijking van het eerste lid kan de Vlaamse Regering, voor specifieke inbreuken, het tarief van de administratieve geldboete bepalen op een bedrag dat hoger ligt dan de minimumgeldboete, vermeld in artikel 14, verhoogd met de opdeciemen, zonder evenwel de maximumgeldboete, vermeld in artikel 14, verhoogd met de opdeciemen, te overschrijden.";<br>
+<br>
+2° in het bestaande tweede lid, dat het derde lid wordt, wordt de zinsnede "minimumgeldboete, vermeld in artikel 14, verhoogd met de opdeciemen" vervangen door de zinsnede "administratieve geldboete, vermeld in het eerste of het tweede lid";<br>
+<br>
+3° in het bestaande derde lid, dat het vierde lid wordt, wordt het woord "tweede" vervangen door het woord "derde".
 
 ## Afdeling 10. Wijziging van het decreet van 3 juli 2015 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015
 
@@ -38,8 +306,446 @@ In artikel 42, § 3, 1°, van het decreet van 3 juli 2015 houdende bepalingen to
 
 ## Afdeling 11. Wijzigingen van het decreet van 29 maart 2019 betreffende het individueel bezoldigd personenvervoer
 
+### ART 33.
+
+Aan artikel 9 van het decreet van 29 maart 2019 betreffende het individueel bezoldigd personenvervoer wordt een paragraaf 3 toegevoegd, die luidt als volgt:<br>
+<br>
+"§ 3. De Vlaamse Regering bepaalt de procedure voor de vrijwillige stopzetting door de exploitant van de dienst voor individueel bezoldigd personenvervoer.".
+
+### ART 34.
+
+In artikel 12, § 2, van hetzelfde decreet wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+"In afwijking van het eerste lid kunnen de gemeenten de toegang tot de standplaatsen die bestemd zijn voor zero-emissievoertuigen, beperken tot die categorie van voertuigen.".
+
+### ART 35.
+
+In artikel 31 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° aan paragraaf 1, eerste lid, worden een punt 7° tot en met 9° toegevoegd, die luiden als volgt:<br>
+<br>
+"7° per uitgevoerde rit:<br>
+a) de identificatie van de exploitant;<br>
+b) de identificatie van de bestuurder;<br>
+c) de kentekenplaat van het voertuig;<br>
+d) de datum;<br>
+e) de starten aankomstplaats;<br>
+f) de start- en aankomsttijd;<br>
+g) het unieke ritnummer;<br>
+h) de eindprijs van de rit;<br>
+i) de afstand van de rit;<br>
+8° per bestelde rit:<br>
+a) de vastgelegde datum, het vastgelegde tijdstip en de start- en aankomstplaats van de bestelde rit;<br>
+b) het tijdstip van de bestelling;<br>
+c) de prijsafspraak bij bestelling;<br>
+9° per dienst:<br>
+a) het aantal uitgevoerde ritten sinds het begin van de dienst;<br>
+b) de totale afgelegde afstand;<br>
+c) de afgelegde beladen afstand;<br>
+d) de uren van de effectief genomen rustpauze;<br>
+e) de datum en het uur van de effectieve beëindiging van de dienst.";<br>
+<br>
+2° aan paragraaf 1 wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"De Vlaamse Regering kan de gegevensbank verfijnen met uitsluitend technische gegevens.";<br>
+<br>
+3° paragraaf 2 wordt vervangen door wat volgt:<br>
+<br>
+" § 2. De gegevens worden verzameld en verwerkt om:<br>
+1° het administratieve beheer van het vergunningensysteem door de Vlaamse steden en gemeenten te vergemakkelijken;<br>
+2° de controle en handhaving op de bepalingen van dit decreet en de uitvoeringsbepalingen ervan te verhogen door de gegevensdeling tussen gemeenten en de bevoegde Vlaamse en federale diensten, de politie, het klachtenorgaan en de gemeenten onderling;<br>
+3° statistische doeleinden te realiseren voor het personenvervoer, het multimodale personenvervoer en het globale mobiliteitsbeleid, waaronder de opvolging van de evolutie van de prijzen.";<br>
+<br>
+4° in paragraaf 3 wordt het eerste lid vervangen door wat volgt:<br>
+<br>
+"De gemeenten voeren de gegevens, vermeld in paragraaf 1, eerste lid, 1° tot en met 6°, in de gegevensbank in. De vergunninghouders of hun tussenpersonen bezorgen de gegevens, vermeld in paragraaf 1, eerste lid, 7° tot en met 9°, bij de eventuele reservatie van een rit, bij de start van een rit en bij het einde van een rit.";<br>
+<br>
+5° in paragraaf 3, derde lid, wordt tussen de woorden "de politie" en de woorden "en de overheidsdiensten" de zinsnede "het klachtenorgaan, de federale overheidsdiensten" ingevoegd;<br>
+<br>
+6° in paragraaf 5, eerste lid, 5°, wordt het woord "nummerplaat" vervangen door het woord "kentekenplaat".
+
+### ART 36.
+
+Aan artikel 34, § 2, van hetzelfde decreet wordt een punt 5° toegevoegd, dat luidt als volgt:<br>
+<br>
+"5° toegang verkrijgen tot de voertuigen die voor diensten voor individueel bezoldigd personenvervoer worden gebruikt, en hun garages.".
+
+### ART 37.
+
+In artikel 43 van hetzelfde decreet worden de woorden "de voorwaarden" vervangen door de zinsnede "de bepalingen van het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg en het besluit van de Vlaamse Regering van 18 juli 2003 betreffende de taxidiensten en de diensten voor het verhuren van voertuigen met bestuurder, zoals van kracht op 31 december 2019".
+
 ## Afdeling 12. Wijzigingen van het decreet van 26 april 2019 betreffende de basisbereikbaarheid
+
+### ART 38.
+
+In artikel 2 van het decreet van 26 april 2019 betreffende de basisbereikbaarheid worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° punt 16° wordt opgeheven;<br>
+<br>
+2° er wordt een punt 18° /1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"18° /1 openbaar personenvervoer over water: de personenvervoerdiensten van algemeen belang over water die op permanente en niet-discriminerende basis aan het publiek worden aangeboden;";<br>
+<br>
+3° er wordt een punt 27° toegevoegd, dat luidt als volgt:<br>
+<br>
+"27° Vlaamse Mobiliteitsvisie: de mobiliteitsvisie, vermeld in artikel 10/1.".
+
+### ART 39.
+
+Aan artikel 7, § 2, eerste lid, van hetzelfde decreet wordt een punt 7° toegevoegd, dat luidt als volgt:<br>
+<br>
+"7° een vertegenwoordiging van het Agentschap voor Maritieme Dienstverlening en Kust, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 7 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Maritieme Dienstverlening en Kust.".
+
+### ART 40.
+
+In artikel 8 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° aan het tweede lid wordt een punt 8° toegevoegd, dat luidt als volgt:<br>
+<br>
+"8° beslissen over het openbaar personenvervoer over water, vermeld in artikel 32/1;";<br>
+<br>
+2° aan artikel 8, waarvan de bestaande tekst paragraaf 1 zal vormen, wordt een paragraaf 2 toegevoegd, die luidt als volgt:<br>
+<br>
+" § 2. Als de vervoerregioraad geen beslissing neemt omtrent de opdrachten en taken, vermeld in paragraaf 1, kan de Vlaamse Regering op eigen initiatief beslissen over de onder haar ressorterende bevoegdheden.".
+
+### ART 41.
+
+Artikel 10 van hetzelfde decreet wordt opgeheven.
+
+### ART 42.
+
+In hetzelfde decreet wordt een hoofdstuk 2/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"HOOFDSTUK 2/1. Vlaamse Mobiliteitsvisie".
+
+### ART 43.
+
+In hetzelfde decreet wordt in hoofdstuk 2/1, ingevoegd bij artikel 42, een artikel 10/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 10/1. Op gewestelijk niveau wordt de Vlaamse Mobiliteitsvisie opgemaakt.<br>
+<br>
+De Vlaamse Mobiliteitsvisie is een strategische langetermijnvisie op de gewenste mobiliteitsontwikkeling in het Vlaamse Gewest voor het hele grondgebied van het Vlaamse Gewest. Die voldoet aan de missie, vermeld in artikel 3.".
+
+### ART 44.
+
+In hetzelfde decreet wordt in hetzelfde hoofdstuk een artikel 10/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 10/2. De Vlaamse Mobiliteitsvisie is een beleidskader voor het Vlaamse Gewest, de diensten en agentschappen die eronder ressorteren, de provincies en gemeenten, en de publiekrechtelijke en privaatrechtelijke rechtspersonen die in het Vlaamse Gewest belast zijn met taken van openbaar nut.<br>
+<br>
+De entiteiten, vermeld in het eerste lid, kunnen gemotiveerd afwijken van de Vlaamse Mobiliteitsvisie.".
+
+### ART 45.
+
+In hetzelfde decreet wordt in hetzelfde hoofdstuk een artikel 10/3 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 10/3. § 1. Voor de Vlaamse Mobiliteitsvisie wordt vastgesteld, wordt een onderzoek verricht naar de maatschappelijke ontwikkelingen en de mobiliteitsbehoeften.<br>
+<br>
+De Vlaamse Mobiliteitsvisie komt tot stand via een participatieproces dat door de Vlaamse Regering ruim wordt bekend gemaakt.<br>
+<br>
+De Vlaamse Regering stelt de Vlaamse Mobiliteitsvisie vast en bepaalt de datum van de inwerkingtreding ervan.<br>
+<br>
+De Vlaamse Regering zorgt ervoor dat de Vlaamse Mobiliteitsvisie op ruime schaal wordt bekendgemaakt.<br>
+<br>
+§ 2. De Vlaamse Regering kan de regels vaststellen voor de inhoud, de methodologie en de procedure voor de opmaak, de evaluatie, de herziening en de bekendmaking van de Vlaamse Mobiliteitsvisie.".
+
+### ART 46.
+
+In hetzelfde decreet wordt het opschrift van hoofdstuk 3 vervangen door wat volgt:<br>
+<br>
+"HOOFDSTUK 3. Mobiliteitsplanning".
+
+### ART 47.
+
+In hoofdstuk 3 van hetzelfde decreet worden aan het opschrift van afdeling 1 de woorden "voor regionale en lokale mobiliteitsplannen" toegevoegd.
+
+### ART 48.
+
+In artikel 11 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 1, eerste lid, wordt de zin "Een mobiliteitsplan voldoet inhoudelijk aan de missie en de doelstellingen, vermeld in artikel 3 en 4, en is de basis voor het mobiliteitsbeleid." vervangen door de zinnen "Een regionaal of lokaal mobiliteitsplan vormt de basis voor het mobiliteitsbeleid. Het voldoet inhoudelijk aan de doelstellingen, vermeld in artikel 4, en is afgestemd op de Vlaamse Mobiliteitsvisie.";<br>
+<br>
+2° in paragraaf 2, 2°, worden de woorden "op korte termijn" geschrapt.
+
+### ART 49.
+
+In artikel 12 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° paragraaf 1 wordt vervangen door wat volgt:<br>
+<br>
+" § 1. Er wordt een regionaal mobiliteitsplan opgemaakt voor het hele grondgebied van de vervoerregio.";<br>
+<br>
+2° in paragraaf 2 worden de woorden "Er kan ook een mobiliteitsplan worden opgemaakt op lokaal niveau" vervangen door de woorden "Er kan ook een lokaal mobiliteitsplan worden opgemaakt";<br>
+<br>
+3° in paragraaf 3 wordt het eerste lid opgeheven.
+
+### ART 50.
+
+Artikel 13 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. 13. § 1. Geen van de onderdelen van een mobiliteitsplan heeft verordenende kracht.<br>
+<br>
+De regionale mobiliteitsplannen zijn bindend voor het Vlaamse Gewest, de diensten en agentschappen die eronder ressorteren, de provincies en gemeenten, en de publiekrechtelijke en privaatrechtelijke rechtspersonen die in het Vlaamse Gewest belast zijn met taken van openbaar nut.<br>
+<br>
+De lokale mobiliteitsplannen zijn bindend voor de gemeente en de diensten en agentschappen die eronder ressorteren.<br>
+<br>
+§ 2. Van een mobiliteitsplan kunnen de entiteiten, vermeld in paragraaf 1, tweede lid, niet afwijken, behalve in geval van:<br>
+1° onvoorziene ontwikkelingen in de mobiliteitsvraag;<br>
+2° dringende sociale, economische of budgettaire redenen.<br>
+<br>
+De beslissing over de afwijking, vermeld in het eerste lid, wordt gemotiveerd.<br>
+<br>
+§ 3. De regionale en de lokale mobiliteitsplannen worden afgestemd op:<br>
+1° ten minste de ruimtelijke beleidsplannen, de beleidsplannen die opgemaakt zijn in het kader van milieubeleid en de waterbeheerplannen;<br>
+2° de relevante beleidsdocumenten.".
+
+### ART 51.
+
+In artikel 14 van hetzelfde decreet wordt paragraaf 2 opgeheven.
+
+### ART 52.
+
+In hoofdstuk 3, afdeling 2, van hetzelfde decreet wordt onderafdeling 1, die bestaat uit artikel 15 tot en met 17, opgeheven.
+
+### ART 53.
+
+In artikel 18 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 2 wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+"Het regionale mobiliteitsplan geeft aan hoe het zich verhoudt tot de Vlaamse Mobiliteitsvisie.";<br>
+<br>
+2° paragraaf 3 wordt vervangen door wat volgt:<br>
+<br>
+" § 3. De vervoerregioraad stelt het voorlopig ontwerp van regionaal mobiliteitsplan vast.<br>
+<br>
+De Vlaamse Regering keurt het voorlopig ontwerp van regionaal mobiliteitsplan goed.";<br>
+<br>
+3° er wordt een paragraaf 3/1 ingevoegd, die luidt als volgt:<br>
+<br>
+" § 3/1. De vervoerregioraad stelt het ontwerp van het regionaal mobiliteitsplan vast en duidt de door de gemeenten te nemen beslissingen aan.<br>
+<br>
+De Vlaamse Regering keurt het regionaal mobiliteitsplan goed.".
+
+### ART 54.
+
+In artikel 19, tweede lid, van hetzelfde decreet wordt de zinsnede "Het regionaal mobiliteitsplan geeft aan hoe het voorgenomen mobiliteitsbeleid bijdraagt tot de realisatie van het Mobiliteitsplan Vlaanderen," vervangen door de woorden "Het regionale mobiliteitsplan geeft aan hoe het mobiliteitsbeleid is afgestemd op".
+
+### ART 55.
+
+In artikel 21, § 2, van hetzelfde decreet wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+"Het lokale mobiliteitsplan geeft aan hoe het zich verhoudt tot de Vlaamse Mobiliteitsvisie en tot het regionale mobiliteitsplan waartoe de gemeente behoort. Het vult de bepalingen ervan aan op gemeentelijk niveau.".
+
+### ART 56.
+
+In artikel 22, § 1, tweede lid, van hetzelfde decreet wordt de zinsnede "Het lokaal mobiliteitsplan geeft aan in hoeverre het voorgenomen mobiliteitsbeleid is afgestemd op het Mobiliteitsplan Vlaanderen," vervangen door de woorden "Het lokale mobiliteitsplan geeft aan hoe het mobiliteitsbeleid is afgestemd op".
+
+### ART 57.
+
+In hoofdstuk 3, afdeling 2, van hetzelfde decreet wordt het opschrift van onderafdeling 4 vervangen door wat volgt:<br>
+<br>
+"Hoofdstuk 3/1. Verkeersveiligheidsplan Vlaanderen".
+
+### ART 58.
+
+In hoofdstuk 3, afdeling 2, van hetzelfde decreet wordt het opschrift van onderafdeling 5 vervangen door wat volgt:<br>
+<br>
+"Hoofdstuk 3/2. Voortgangsrapportage en mobiliteitsmonitoring".
+
+### ART 59.
+
+Artikel 24 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. 24. § 1. De Vlaamse Regering legt de regels vast voor de inhoud, de ontwikkeling en het beheer van een mobiliteitsmonitoringsysteem. Dat strekt ertoe de vereiste gegevens over de mobiliteitstoestand te verzamelen, te beheren en te toetsen. Zo kan worden nagegaan of de operationele doelstellingen die opgenomen zijn in de mobiliteitsplannen, in het verkeersveiligheidsplan en de gewenste mobiliteitsontwikkeling in het Vlaamse Gewest op een efficiënte wijze worden bereikt.<br>
+<br>
+Bij de vaststelling of herziening van de mobiliteitsplannen, het verkeersveiligheidsplan en bij het opstellen van de voortgangsrapporten wordt altijd rekening gehouden met de resultaten van de mobiliteitsmonitoring, vermeld in deze paragraaf.<br>
+<br>
+Om het mobiliteitsmonitoringsysteem uit te bouwen worden de volgende gepseudonimiseerde gegevens verzameld:<br>
+1° technische kenmerken van voertuigen met een kentekenplaat die door een ANPR-camera kan worden gedetecteerd, zoals het voertuigtype, de soort brandstof en de euronorm;<br>
+2° tijdstippen, locaties en snelheden van voertuigen als vermeld in punt 2° ;<br>
+3° gecodeerde nummerplaten van voertuigen als vermeld in punt 2° ;<br>
+4° metadata van de meetapparatuur.<br>
+<br>
+Het Departement Mobiliteit en Openbare Werken beheert het mobiliteitsmonitoringsysteem conform het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. Het Departement Mobiliteit en Openbare Werken is gekwalificeerd als verwerkingsverantwoordelijke als vermeld in de zin van artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming), voor de verwerking van de persoonsgegevens, vermeld in dit artikel.<br>
+<br>
+Het Departement Mobiliteit en Openbare Werken kan bij de bevoegde instanties, zoals de federale politie, de instantie die belast is met de inschrijving van de voertuigen, en de lokale besturen, de gegevens, vermeld in het derde lid, opvragen.<br>
+<br>
+Het opvragen van de gegevens, vermeld in het derde lid, het beheer van het mobiliteitsmonitoringsysteem en de ontsluiting door de lokale besturen en de vervoerregio's van bepaalde gegevens uit het mobiliteitsmonitoringsysteem worden uitgevoerd in overeenstemming met:<br>
+1° de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens;<br>
+2° het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.<br>
+<br>
+De voormelde gegevens worden bewaard gedurende vijf jaar.<br>
+<br>
+§ 2. In het kader van onderzoeken ter ondersteuning van het mobiliteitsmonitoringsysteem kan het Departement Mobiliteit en Openbare Werken bij het Rijksregister steekproefsgewijs persoonsgegevens opvragen die noodzakelijk zijn voor contactopname met personen die representatief zijn voor het doel van het onderzoek.<br>
+<br>
+Na afsluiting van de contactprocedure worden de persoonsgegevens, verkregen van het Rijksregister, vernietigd.<br>
+<br>
+§ 3. Voor de regionale mobiliteitsplannen wordt een voortgangsrapport opgesteld dat ertoe strekt de uitvoering van het plan in kwestie op te volgen en bij te sturen.<br>
+<br>
+In het voortgangsrapport worden de gegevens verwerkt conform paragraaf 1.<br>
+<br>
+De Vlaamse Regering bepaalt de regels voor de inhoud, de methodologie en de frequentie van het voortgangsrapport.".
+
+### ART 60.
+
+In hoofdstuk 3 van hetzelfde decreet wordt het opschrift van afdeling 3 vervangen door wat volgt:<br>
+<br>
+"Hoofdstuk 3/3. Projecten en instrumenten".
+
+### ART 61.
+
+In hoofdstuk 3, afdeling 3, van hetzelfde decreet wordt het opschrift van onderafdeling 1 vervangen door wat volgt:<br>
+<br>
+"Afdeling 1. Projectmethodologie".
+
+### ART 62.
+
+In hoofdstuk 3, afdeling 3, van hetzelfde decreet wordt het opschrift van onderafdeling 2 vervangen door wat volgt:<br>
+<br>
+"Afdeling 2. Subsidiëring".
+
+### ART 63.
+
+In hoofdstuk 3, afdeling 3, van hetzelfde decreet wordt het opschrift van onderafdeling 3 vervangen door wat volgt:<br>
+<br>
+"Afdeling 3. Samenwerkingsovereenkomsten".
+
+### ART 64.
+
+In hoofdstuk 3 van hetzelfde decreet wordt het opschrift van afdeling 4 vervangen door wat volgt:<br>
+<br>
+"Hoofdstuk 3/4. Participatie mobiliteitsplannen en -projecten".
+
+### ART 65.
+
+In artikel 31, § 2, van hetzelfde decreet wordt het derde lid opgeheven.
+
+### ART 66.
+
+In artikel 32, § 1, van hetzelfde decreet worden tussen het woord "personenvervoer" en het woord "bestaat" de woorden "over de weg of het spoor" ingevoegd.
+
+### ART 67.
+
+In hetzelfde decreet wordt een artikel 32/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 32/1. Het openbaar personenvervoer over water bestaat uit één vervoerslaag, namelijk het vervoer op maat.<br>
+<br>
+De exploitant van het openbaar personenvervoer over water formuleert een voorstel voor de reisweg, de plaats van de halte en de kwaliteitscriteria en legt dat voorstel voor aan de vervoerregioraad. De Vlaamse Regering legt de minimale normering voor de kwaliteitseisen op. De vervoerregioraad neemt een beslissing. De financiële middelen bestemd voor het openbaar personenvervoer over water kunnen enkel voor andere vervoermodi gebruikt worden onder de voorwaarden die de Vlaamse Regering bepaalt.".
+
+### ART 68.
+
+In artikel 33, derde lid, van hetzelfde decreet worden de woorden "bepaalt de nadere taken en de werking van de Mobiliteitscentrale" vervangen door de woorden "kan de nadere taken en de werking van de Mobiliteitscentrale bepalen".
+
+### ART 69.
+
+In hetzelfde decreet wordt een artikel 34/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 34/1. De Vlaamse Regering wijst voor de exploitatie van het openbaar personenvervoer over water één instantie van de Vlaamse administratie aan als vermeld in artikel I.3, 2°, a) tot en met c), van het Bestuursdecreet van 7 december 2018.".
+
+### ART 70.
+
+Aan artikel 36, § 1, van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"De Vlaamse Regering coördineert het tariefbeleid voor het openbaar personenvervoer over water en bepaalt de tarieven.".
+
+### ART 71.
+
+In artikel 37, § 3, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid wordt tussen de woorden "De exploitanten van het kernnet en aanvullend net" en de woorden "en de Mobiliteitscentrale" de zinsnede ", de exploitant voor het openbaar personenvervoer over water" ingevoegd;<br>
+<br>
+2° in het derde lid worden tussen de woorden "De Mobiliteitscentrale en de exploitanten van het kernnet en het aanvullend net" en de woorden "verwerken persoonsgegevens" de woorden "en ook de exploitant voor het openbaar personenvervoer over water" ingevoegd;<br>
+<br>
+3° in het vierde lid wordt tussen de woorden "De exploitanten van het kernnet en het aanvullend net" en de woorden "en de Mobiliteitscentrale" de zinsnede ", de exploitant voor het openbaar personenvervoer over water" ingevoegd.
+
+### ART 72.
+
+In artikel 38 van hetzelfde decreet wordt tussen de woorden "de exploitanten van het kernnet en aanvullend net" en de woorden "en de Mobiliteitscentrale" de zinsnede ", de exploitant voor het openbaar personenvervoer over water" ingevoegd.
+
+### ART 73.
+
+In artikel 39, tweede lid, van hetzelfde decreet worden tussen de zinsnede "de exploitanten van het kernnet en het aanvullend net," en de woorden "en de Mobiliteitscentrale" de woorden "de exploitant voor het openbaar personenvervoer over water" ingevoegd.
+
+### ART 74.
+
+In hoofdstuk 5, afdeling 1, van hetzelfde decreet wordt een artikel 40/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 40/1. § 1. Het wegennet wordt ingedeeld in drie lagen:<br>
+1° het hoofdwegennet: de Europese hoofdwegen en de Vlaamse hoofdwegen;<br>
+2° het dragende netwerk: de regionale wegen en de interlokale wegen;<br>
+3° het lokale wegennet: de ontsluitingswegen en de erftoegangswegen.<br>
+<br>
+§ 2. De Europese hoofdwegen vormen een zelfstandig grofmazig raster van verbindingswegen. De Europese hoofdwegen zijn drager van internationaal verkeer en verbinden de internationale knooppunten met het buitenland.<br>
+<br>
+De volgende knooppunten zijn internationale knooppunten als vermeld in het eerste lid:<br>
+1° zeehavens;<br>
+2° luchthavens;<br>
+3° grootsteden met hst-stations.<br>
+<br>
+De Europese hoofdwegen behoren tot het Europese TEN-T-netwerk, vermeld in artikel 2 van de verordening (EU) nr. 1315/2013 van het Europees Parlement en de Raad van 11 december 2013 betreffende richtsnoeren van de Unie voor de ontwikkeling van het trans-Europees vervoersnetwerk en tot intrekking van Besluit nr. 661/2010/EU.<br>
+<br>
+De Vlaamse hoofdwegen zijn verbindingen tussen de Europese hoofdwegen. Ze vormen op zich geen zelfstandig netwerk, maar verfijnen samen met de Europese hoofdwegen een raster van hoofdwegen. Vlaamse hoofdwegen kunnen deel uitmaken van het Europese TEN-T-netwerk. De Vlaamse hoofdwegen die geen deel uitmaken van het TEN-T-netwerk kunnen de internationale knooppunten aansluiten op het TEN-T-netwerk.<br>
+<br>
+§ 3. De regionale wegen vormen verbindingen tussen gemeenten onderling en het hoofdwegennet enerzijds en tussen het hoofdwegennet en de regionale logistieke knopen anderzijds.<br>
+<br>
+De interlokale wegen verbinden niet-aanpalende gemeenten. Ze ontsluiten belangrijke recreatieve en economische attractiepolen. Dit zijn attractiepolen op regionaal niveau.<br>
+<br>
+§ 4. De lokale wegen hebben geen verbindingsfunctie. Ze ontsluiten aanpalende gemeenten voor elkaar. Ze ontsluiten het gebied tussen de wegen die de Vlaamse Regering selecteert met toepassing van artikel 40/3, vierde lid, of functioneren als erftoegangswegen. De lokale wegen vormen boomstructuren.<br>
+<br>
+§ 5. Het dragende netwerk kan bij capaciteitsproblemen van het hoofdwegennet ingeschakeld worden om het hoofdwegennet te ondersteunen, waarbij de lokale wegen vrij van doorgaand verkeer blijven.<br>
+<br>
+In het eerste lid wordt verstaan onder doorgaand verkeer: het verkeer dat in het gebied in kwestie geen herkomst of bestemming heeft.".
+
+### ART 75.
+
+In hoofdstuk 5, afdeling 1, van hetzelfde decreet wordt een artikel 40/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 40/2. De Vlaamse Regering kan de selectiecriteria en de inrichtingsprincipes van de wegencategorisering, vermeld in artikel 40/1, bepalen.".
+
+### ART 76.
+
+In hoofdstuk 5, afdeling 1, van hetzelfde decreet wordt een artikel 40/3 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 40/3. De Vlaamse Regering beslist over het ontwerp van de selectie van het hoofdwegennet, vermeld in artikel 40/1, § 1, 1°.<br>
+<br>
+De vervoerregioraden geven advies over de selectie, vermeld in het eerste lid.<br>
+<br>
+De vervoerregioraden formuleren een voorstel voor de selectie van het dragende netwerk, vermeld in artikel 40/1, § 1, 2°. Als de vervoerregioraden binnen een redelijke termijn geen voorstel hebben gedaan, bepaalt de Vlaamse Regering het dragende netwerk conform het vierde lid.<br>
+<br>
+De Vlaamse Regering bepaalt de selectie van het hoofdwegennet en het dragende netwerk.<br>
+<br>
+De wegen die de Vlaamse Regering niet selecteert op basis van het vierde lid, zijn lokale wegen.".
+
+### ART 77.
+
+In hoofdstuk 5, afdeling 1, van hetzelfde decreet wordt een artikel 40/4 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 40/4. De Vlaamse Regering bepaalt het Vlaamse waterwegennetwerk.".
+
+### ART 78.
+
+Aan artikel 47, § 2, van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"De waterwegbeheerders zorgen voor een vlotte doorstroming voor het openbaar personenvervoer over water, brengen daarvoor de nodige infrastructuur aan en onderhouden die.".
+
+### ART 79.
+
+In artikel 69 van hetzelfde decreet wordt het eerste lid opgeheven.
 
 ## Afdeling 13. Opheffing van het koninklijk besluit van 7 juli 1975 betreffende de regionale comités van advies voor de taxi's
 
+### ART 80.
+
+Het koninklijk besluit van 7 juli 1975 betreffende de regionale comités van advies voor de taxi's wordt opgeheven.
+
 ## HOOFDSTUK 4. Slotbepalingen
+
+### ART 81.
+
+De categorisering en de selectie van de wegen en de waterwegen, vermeld in en toegepast conform het Ruimtelijk Structuurplan Vlaanderen en de provinciale ruimtelijke structuurplannen, treden buiten werking op de datum die de Vlaamse Regering bepaalt en dit ten vroegste op de datum waarop de selectie van het hoofdwegennet en het dragende netwerk conform artikel 40/3, vierde lid, in werking treedt.
+
+### ART 82.
+
+Artikel 3 en 6 treden in werking op een door de Vlaamse Regering vast te stellen datum.<br>
+<br>
+Artikel 7 en 32 hebben uitwerking met ingang van 1 juli 2014.
