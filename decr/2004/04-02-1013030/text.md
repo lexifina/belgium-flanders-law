@@ -13,8 +13,8 @@ Dit decreet voorziet in de gedeeltelijke omzetting van richtlijn (EU) 2016/1629 
 ### ART. 2.
 
 Voor de toepassing van dit decreet wordt verstaan onder:<br>
-1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018;<br>
-2° het Wetboek van vennootschappen : de wet van 7 mei 1999 houdende het Wetboek van vennootschappen;<br>
+1° ...;<br>
+2° Wetboek van vennootschappen en verenigingen: Wetboek van vennootschappen en verenigingen van 2 maart 2019;<br>
 3° de vennootschap: het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap, bedoeld in artikel 3, § 1;<br>
 4° watergebonden gronden: gronden die aan de vennootschap in eigendom toebehoren, waarop de vennootschap een erfpacht-, opstal- of enig ander zakelijk recht heeft of die aan de vennootschap in concessie, in beheer of in huur worden gegeven;<br>
 5° watergebonden gebied: het geheel van de gronden die aan de bevaarbare waterwegen liggen, zowel de watergebonden gronden als de gronden die noch in eigendom zijn van de vennootschap, noch in concessie of huur aan de vennootschap werden gegeven, en waarop de vennootschap noch erfpacht-, opstal- of enig ander zakelijk recht uitoefent. Het watergebonden gebied wordt door de Vlaamse regering in een besluit nader omschreven;<br>
@@ -26,7 +26,7 @@ Voor de toepassing van dit decreet wordt verstaan onder:<br>
 
 ### ART. 3.
 
-§ 1. De openbare instelling met rechtspersoonlijkheid "Dienst der Scheepvaart", bedoeld in artikel 1 van de wet van 17 mei 1976 tot oprichting van de Dienst voor de Scheepvaart en een "Office de la Navigation", zal volgens de bepalingen van dit decreet worden omgezet in een in artikel III.7 van het Bestuursdecreet bedoeld publiekrechtelijk vormgegeven extern verzelfstandigd agentschap, naamloze vennootschap van publiek recht, met als benaming De Vlaamse Waterweg nv. Het betreft een orgaan met een van het Vlaamse Gewest onderscheiden rechtspersoonlijkheid.<br>
+§ 1. De openbare instelling met rechtspersoonlijkheid "Dienst der Scheepvaart", bedoeld in artikel 1 van de wet van 17 mei 1976 tot oprichting van de Dienst voor de Scheepvaart en een "Office de la Navigation", zal volgens de bepalingen van dit decreet worden omgezet in een in artikel III.7 van het Bestuursdecreet&nbsp;van 7 december 2018 bedoeld publiekrechtelijk vormgegeven extern verzelfstandigd agentschap, naamloze vennootschap van publiek recht, met als benaming De Vlaamse Waterweg nv. Het betreft een orgaan met een van het Vlaamse Gewest onderscheiden rechtspersoonlijkheid.<br>
 <br>
 De omzetting, bedoeld in het eerste lid, gebeurt zonder enige onderbreking van de continuïteit van de rechtspersoonlijkheid.<br>
 <br>
@@ -46,9 +46,9 @@ De raad van bestuur stelt voor de regering een toelichtende nota op.<br>
 <br>
 § 2. De raad van bestuur van de Dienst voor de Scheepvaart stelt tegelijkertijd de eerste statuten van De Vlaamse Waterweg nv vast. De statuten worden, tezamen met de staat van activa en passiva, alsmede met het verslag van de bedrijfsrevisor, vooraf door de Vlaamse regering goedgekeurd.<br>
 <br>
-Latere statutenwijzigingen kunnen gebeuren conform de bepalingen van het Wetboek van vennootschappen, toepasselijk op de naamloze vennootschap.<br>
+Latere statutenwijzigingen kunnen gebeuren conform de bepalingen van het Wetboek van vennootschappen en verenigingen, toepasselijk op de naamloze vennootschap.<br>
 <br>
-Artikel 783 en 784, derde lid, van het Wetboek van vennootschappen zijn van overeenkomstige toepassing op de omzetting, met dien verstande dat in de authentieke akte de goedkeuring door de Vlaamse regering wordt vermeld.
+Artikel 14:10 en 14:11, derde lid, van het Wetboek van vennootschappen en verenigingen zijn van overeenkomstige toepassing op de omzetting, met dien verstande dat in de authentieke akte de goedkeuring door de Vlaamse regering wordt vermeld.
 
 ### ART. 4.
 
@@ -301,9 +301,9 @@ De Vlaamse Regering bepaalt de wijze waarop dat speciale register bijgehouden wo
 
 ### ART. 21.
 
-De vennootschap is onderworpen aan dit decreet, aan het Bestuursdecreet en aan de statuten bedoeld in artikel 3, § 2. Zonder aan het voorgaande afbreuk te doen, zijn de bepalingen van het Wetboek van vennootschappen met betrekking tot de naamloze vennootschap van toepassing op de vennootschap voor alles wat niet door dit decreet, het Bestuursdecreet en door de statuten van de vennootschap is bepaald.<br>
+De vennootschap is onderworpen aan dit decreet, aan het Bestuursdecreet&nbsp;van 7 december 2018 en aan de statuten bedoeld in artikel 3, § 2. Zonder aan het voorgaande afbreuk te doen, zijn de bepalingen van het Wetboek van vennootschappen&nbsp;en verenigingen met betrekking tot de naamloze vennootschap van toepassing op de vennootschap voor alles wat niet door dit decreet, het Bestuursdecreet&nbsp;van 7 december 2018 en door de statuten van de vennootschap is bepaald.<br>
 <br>
-De bepalingen van de wet van 17 juli 1997 betreffende het gerechtelijk akkoord en de faillissementswet van 8 augustus 1997 zijn evenwel niet toepasselijk op de vennootschap, evenmin als de rechtsregels die betrekking hebben op een toestand van algemene samenloop van schuldeisers.
+De bepalingen van boek XX van het Wetboek van economisch recht zijn evenwel niet toepasselijk op de vennootschap, evenmin als de rechtsregels die betrekking hebben op een toestand van algemene samenloop van schuldeisers.
 
 ### ART. 22.
 
@@ -317,9 +317,9 @@ De Scheepvaart wordt bij de omzetting, bedoeld in artikel 3, § 1, van dit decre
 <br>
 Tot de ontbinding van de vennootschap kan alleen bij decreet worden beslist. Dat decreet bepaalt tevens de wijze en de voorwaarden van vereffening.<br>
 <br>
-Het Vlaamse Gewest verbindt er zich in het geval, vermeld in het tweede lid, toe die aandeelhouders van groep B en C bedoeld in artikel 28, § 1, eerste lid, 2° en 3°, van dit decreet, die kapitaal onderschreven en afbetaald hebben in de naamloze vennootschap Zeekanaal en Haveninrichtingen van Brussel, als ze in de vennootschap daarvoor aandelen hebben ontvangen, terug te betalen als dat kapitaal niet is afgelost door dividenden en zonder intresten. De som die het Vlaamse Gewest aan die aandeelhouders moet betalen, is niet groter dan het bedrag van hun onderschrijving in de naamloze vennootschap Zeekanaal en Haveninrichtingen van Brussel.<br>
+Het Vlaamse Gewest verbindt er zich in het geval, vermeld in het tweede lid, toe die aandeelhouders van groep B en C als vermeld in artikel 26, § 1, 2° en 3°,&nbsp; die kapitaal onderschreven en afbetaald hebben in de naamloze vennootschap Zeekanaal en Haveninrichtingen van Brussel, als ze in de vennootschap daarvoor aandelen hebben ontvangen, terug te betalen als dat kapitaal niet is afgelost door dividenden en zonder intresten. De som die het Vlaamse Gewest aan die aandeelhouders moet betalen, is niet groter dan het bedrag van hun onderschrijving in de naamloze vennootschap Zeekanaal en Haveninrichtingen van Brussel.<br>
 <br>
-Het Vlaamse Gewest verbindt er zich in het geval, vermeld in het tweede lid, toe die aandeelhouders van groep B en C bedoeld in artikel 28, § 1, eerste lid, 2° en 3°, van dit decreet, die kapitaal onderschreven en afbetaald hebben in Waterwegen en Zeekanaal NV of de huidige vennootschap, als ze in de vennootschap daarvoor aandelen hebben ontvangen, terug te betalen als dat kapitaal niet is afgelost door dividenden en zonder intresten. De som die het Vlaamse Gewest aan die aandeelhouders moet betalen, wordt bepaald volgens de vermeldingen in de aandelenovereenkomst die daarvoor bij de onderschrijving in het kapitaal wordt gesloten.
+Het Vlaamse Gewest verbindt er zich in het geval, vermeld in het tweede lid, toe die aandeelhouders van groep B en C als vermeld in artikel 26, § 1, 2° en 3°&nbsp;, die kapitaal onderschreven en afbetaald hebben in Waterwegen en Zeekanaal NV of de huidige vennootschap, als ze in de vennootschap daarvoor aandelen hebben ontvangen, terug te betalen als dat kapitaal niet is afgelost door dividenden en zonder intresten. De som die het Vlaamse Gewest aan die aandeelhouders moet betalen, wordt bepaald volgens de vermeldingen in de aandelenovereenkomst die daarvoor bij de onderschrijving in het kapitaal wordt gesloten.
 
 ### ART. 24.
 
@@ -327,7 +327,7 @@ Het Vlaamse Gewest verbindt er zich in het geval, vermeld in het tweede lid, toe
 <br>
 De bepalingen van het Wetboek van vennootschappen inzake de effecten op naam zijn van overeenkomstige toepassing op die aandelen op naam.<br>
 <br>
-§ 2. Artikel 454, 456, 458 en 646 van het Wetboek van vennootschappen zijn niet van toepassing op de vennootschap.
+§ 2. Artikel 7:15, 7:17, 7:18, 7:20 en 7:231 van het Wetboek van vennootschappen en verenigingen&nbsp;zijn niet van toepassing op de vennootschap.
 
 ### ART. 25.
 
@@ -361,7 +361,7 @@ Elke overdracht, vermeld in het eerste lid, is onderhevig aan de voorafgaande ma
 <br>
 Het vennootschapskapitaal kan in een of meer keren worden verhoogd of verlaagd door een besluit van de algemene vergadering, genomen conform artikel 3, § 2, tweede lid.<br>
 <br>
-§ 2. In afwijking van het Wetboek van vennootschappen worden de aandelen waarop bij kapitaalsverhoging in geld wordt ingeschreven, steeds eerst aangeboden aan de aandeelhouder van groep A, vervolgens aan de aandeelhouders van groep B en, ten slotte, onder voorbehoud van de toepassing van de bepalingen in § 3, aan de aandeelhouders van groep C die dan van het voorkeurrecht kunnen gebruik maken overeenkomstig de desbetreffende bepalingen opgenomen in de statuten en het Wetboek van vennootschappen.<br>
+§ 2. In afwijking van het Wetboek van vennootschappen en verenigingen worden de aandelen waarop bij kapitaalsverhoging in geld wordt ingeschreven, steeds eerst aangeboden aan de aandeelhouder van groep A, vervolgens aan de aandeelhouders van groep B en, ten slotte, onder voorbehoud van de toepassing van de bepalingen in § 3, aan de aandeelhouders van groep C die dan van het voorkeurrecht kunnen gebruik maken overeenkomstig de desbetreffende bepalingen opgenomen in de statuten en het Wetboek van vennootschappen en verenigingen.<br>
 <br>
 § 3. Onder geen enkele omstandigheden kan een kapitaalsverhoging ertoe leiden dat de aandeelhouder van groep A niet langer, rechtstreeks, meer dan 75% van het kapitaal van de vennootschap bezit.<br>
 <br>
@@ -408,11 +408,11 @@ De Vlaamse regering duidt, onder de leden van de raad van bestuur, een voorzitte
 
 ### ART. 33.
 
-Onverminderd de toepassing van artikel III.11 van het Bestuursdecreet, zijn de bestuurders hetzij jegens de vennootschap, hetzij jegens derden hoofdelijk aansprakelijk voor alle schade die het gevolg is van een overtreding van de statuten van de vennootschap.
+Onverminderd de toepassing van artikel III.11 van het Bestuursdecreet van 7 december 2018, zijn de bestuurders hetzij jegens de vennootschap, hetzij jegens derden hoofdelijk aansprakelijk voor alle schade die het gevolg is van een overtreding van de statuten van de vennootschap.
 
 ### ART. 34.
 
-Onverminderd de onverenigbaarheden vermeld in artikel III.12 van het Bestuursdecreet, is het mandaat van bestuurder onverenigbaar met het mandaat of de functie van:<br>
+Onverminderd de onverenigbaarheden vermeld in artikel III.12 van het Bestuursdecreet van 7 december 2018, is het mandaat van bestuurder onverenigbaar met het mandaat of de functie van:<br>
 1° lid van de Europese Commissie;<br>
 2° lid van de rechterlijke macht; lid van de staatsraad of assessor in de Raad van State of lid van het auditoraat van de Raad van State; rechter of referendaris van het Arbitragehof;<br>
 3° de commissaris revisor.
@@ -472,7 +472,7 @@ De taken van het regionale comité en de samenstelling ervan worden geregeld in 
 
 De controle op de financiële toestand, op de jaarrekeningen en op de regelmatigheid, ten aanzien van de wetten, decreten en de statuten van de vennootschap, van de in de jaarrekeningen weergegeven verrichtingen wordt opgedragen aan een commissaris revisor. De commissaris revisor wordt door de algemene vergadering gekozen uit de leden, natuurlijke of rechtspersonen, van het Instituut der Bedrijfsrevisoren.<br>
 <br>
-De commissaris revisor heeft de rechten, verplichtingen, taken, bevoegdheden en actiemiddelen die in het Wetboek van Vennootschappen zijn bepaald.<br>
+De commissaris revisor heeft de rechten, verplichtingen, taken, bevoegdheden en actiemiddelen die in het Wetboek van vennootschappen en verenigingen zijn bepaald.<br>
 <br>
 Als de publiekrechtelijke aard van de vennootschap dat vereist, kan de Vlaamse regering de opdracht en de actiemiddelen van de commissaris revisor uitbreiden.
 
