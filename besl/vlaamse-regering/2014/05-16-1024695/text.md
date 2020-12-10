@@ -2350,7 +2350,7 @@ b) nieuwe elementen worden toegevoegd, er daarover randvoorwaarden worden gestel
 
 ### ART. 11.2.6.
 
-<P>De toekenning van een erfgoedpremie voor aanvragen die ingediend zijn volgens   de bijzondere procedure verloopt in chronologische volgorde, bepaald op basis   van de datum waarop het agentschap zich inhoudelijk akkoord verklaart met de   voorgestelde beheersmaatregelen, werkzaamheden of diensten.<BR></P>  <P>In afwijking van het eerste lid zal het beschikbare budget eerst worden   aangesproken om de volgende structurele voorafnames te financieren:<BR>1°   aanvragen van een bijkomende erfgoedpremie ten gevolge van onvoorzienbare meer-   of bijwerken;<BR>2° actualisaties naar aanleiding van de verhogingen van de   prijsherzieningsindexen S en I;<BR>3° aanvragen voor een erfgoedpremie voor   beheersmaatregelen, werkzaamheden of diensten die vermeld zijn in een   goedgekeurd beheersplan.</P>  <P><BR>De minister kan bijkomende structurele voorafnames   bepalen.<BR></P>
+...
 
 ## Onderafdeling 4 Bedrag op basis waarvan de erfgoedpremie wordt berekend
 
@@ -2501,7 +2501,13 @@ Bij de uitbetaling van de erfgoedpremie volgens de standaardprocedure   wordt al
 
 ## [Onderafdeling 10. De erfgoedpremie via oproep (verv. BVR 11 december 2020, art. 29, I: 15 december 2020)]
 
-### ART. 11.2.27.
+### ART 11.2.27.
+
+De Vlaamse Regering kan beslissen om de toepassing van de aanvraagprocedure in deze onderafdeling te schorsen omdat de beschikbare kredieten op de begroting van de Vlaamse Gemeenschap onvoldoende zijn om nieuwe premies volgens de bijzondere procedure toe te kennen binnen een redelijke termijn. De schorsing is van onbepaalde duur en geldt totdat de Vlaamse Regering de schorsing opheft.<br>
+<br>
+Tijdens de periode van schorsing kunnen geen nieuwe premies volgens de bijzondere procedure worden aangevraagd. Ontvankelijke premieaanvragen die ingediend zijn vóór de schorsingsperiode, worden behandeld volgens de regels in deze afdeling.
+
+### ART. 11.2.27/1.
 
 <p>De beheersmaatregelen, werken en diensten waarvoor een erfgoedpremie wordt gevraagd volgens de bijzondere procedure mogen pas worden gestart na de toekenning ervan.</p>
 
@@ -2744,7 +2750,9 @@ Het agentschap kan de eindverslagen van een onderzoek als vermeld in artikel 11.
 
 ### ART. 11.4.1.
 
-Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kan de Vlaamse Regering meerjarenpremieovereenkomsten sluiten voor grote of langdurige werkzaamheden aan of in beschermde goederen of in erfgoedlandschappen.
+Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kan de Vlaamse Regering meerjarenpremieovereenkomsten sluiten voor grote of langdurige werkzaamheden aan of in beschermde goederen of in erfgoedlandschappen.<br>
+<br>
+Tijdens de in artikel 11.2.27 vermelde schorsingsperiode, kunnen geen nieuwe meerjarenpremieovereenkomsten gesloten worden. Premieaanvragen op basis van meerjarige premieovereenkomsten die gesloten zijn voorafgaand aan de in artikel 11.2.27 vermelde schorsingsperiode, worden behandeld volgens de regels in deze afdeling.
 
 ### ART. 11.4.2.
 
@@ -3475,7 +3483,7 @@ Open monumenten worden, zolang de geldigheidsduur van tien jaar van de   goedkeu
 
 ### ART. 13.3.7.
 
-In functie van het bepalen van de volgorde van toekenning van de   erfgoedpremie, zoals voorzien in artikel 11.2.6, worden de aanvragen voor een   onderhoudspremie, restauratiepremie, landschapspremie of premie voor archeologie   ontvankelijk verklaard voor de inwerkingtreding van dit besluit, gelijk gesteld   aan een aanvraag van een erfgoedpremie voor werkzaamheden of beheersmaatregelen   opgenomen in een goedgekeurd beheersplan, zoals bedoeld in artikel 8.1.6, §   2.<BR>
+...
 
 ### ART. 13.3.8.
 
