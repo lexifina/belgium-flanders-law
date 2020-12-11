@@ -41,7 +41,7 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° Coronamaatregelen: de maatregelen van de Nationale Veiligheidsraad genomen vanaf 12 maart 2020 inzake het coronavirus en de daaruit voortvloeiende maatregelen van de bevoegde autoriteiten inzake burgerlijke veiligheid;<br>
+1° Coronamaatregelen: de maatregelen van de Nationale Veiligheidsraad of het overlegcomité genomen vanaf 12 maart 2020 inzake het coronavirus en de daaruit voortvloeiende maatregelen van de bevoegde autoriteiten inzake burgerlijke veiligheid;<br>
 2° Beperking: de vermindering van mogelijkheden ten aanzien van gedrag of activiteiten op verschillende gebieden zoals, maar niet beperkt tot, communicatie, verzorging, lichaamsbeweging, vaardigheden of gedrag;<br>
 3° Contingent: een lot daguitstappen en/of overnachtingen die een netwerkpartner aanbiedt tegen een sociaal tarief of korting met als doel vakantie mogelijk te maken voor mensen die een vakantiedrempel ervaren;<br>
 4° Kansarmen: mensen in een niet-eenmalige maar duurzame toestand die hen beknopt in hun kansen om voldoende deel te hebben aan maatschappelijk hooggewaarde goederen, zoals maar niet beperkt tot onderwijs, arbeid en huisvesting, en die zich voordoet op verschillende terreinen, zowel materiële als immateriële;<br>
@@ -55,7 +55,7 @@ In dit besluit wordt verstaan onder:<br>
 12° Toerisme Vlaanderen: het agentschap, opgericht bij decreet tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Toerisme Vlaanderen" van 19 maart 2004;<br>
 13° Vakantieorganisaties: organisaties opgericht uiterlijk 15 maart 2020 die vakanties organiseren voor kansarmen, mensen in armoede, mensen met een beperking of een chronische ziekte en van wie de statuten deze activiteit uitdrukkelijk als doelstelling voorzien;<br>
 14° Zorgverblijven: verblijven die aan volgende voorwaarden voldoen:<br>
-a) uiterlijk 15 maart 2020 aangemeld zijn volgens het decreet houdende het toeristische logies van 5 februari 2016 en haar uitvoeringsbesluiten;<br>
+a) uiterlijk 1 september 2020 aangemeld zijn volgens het decreet houdende het toeristische logies van 5 februari 2016 en haar uitvoeringsbesluiten;<br>
 b) beschikken over het beschermd toegankelijkheidslabel A of A+;<br>
 c) waar er zorghulpmiddelen aanwezig zijn zoals, maar niet beperkte tot, tilliften of hoog-laagbedden; en<br>
 d) waar een beroep kan gedaan worden op intern en/of extern verzorgend personeel (verpleging en/of assistentie).<br>
@@ -83,11 +83,17 @@ De zorgverblijven krijgen een financiële ondersteuning voor de negatieve econom
 <br>
 De zorgverblijven krijgen een financiële ondersteuning voor de negatieve economische gevolgen ingevolge de coronamaatregelen tijdens de periode vanaf 8 juni tot en met 31 augustus 2020, waarbij het subsidiebedrag per zorgverblijf wordt bepaald op basis van de criteria voorzien in artikel 3, eerste lid van dit besluit, met dien verstande dat:<br>
 1° in artikel 3, eerste lid, 1° de periode voor het berekenen van het gemiddelde wordt gewijzigd in de periode vanaf 8 juni tot en met 31 augustus van de jaren 2017 tot en met 2019; en<br>
-2° bovenop de bepalingen van artikel 3, eerste lid, 1° tot en met 4° van dit besluit, ook rekening wordt gehouden met het aantal geboekte overnachtingen per zorgverblijf tijdens de periode vanaf 8 juni 2020 tot en met 31 augustus 2020.
+2° bovenop de bepalingen van artikel 3, eerste lid, 1° tot en met 4° van dit besluit, ook rekening wordt gehouden met het aantal geboekte overnachtingen per zorgverblijf tijdens de periode vanaf 8 juni 2020 tot en met 31 augustus 2020.<br>
+<br>
+De zorgverblijven krijgen een financiële ondersteuning voor de negatieve economische gevolgen ingevolge de coronamaatregelen tijdens de periode vanaf 1 september tot en met 30 november 2020, waarbij het subsidiebedrag per zorgverblijf wordt bepaald op basis van de criteria voorzien in artikel 3, eerste lid van dit besluit, met dien verstande dat:<br>
+1° in artikel 3, eerste lid, 1° de periode voor het berekenen van het gemiddelde wordt gewijzigd in de periode vanaf 1 september tot en met 30 november van de jaren 2017 tot en met 2019;<br>
+2° bovenop de bepalingen van artikel 3, eerste lid, 1° tot en met 4° van dit besluit, ook rekening wordt gehouden met het aantal geboekte overnachtingen per zorgverblijf tijdens de periode vanaf 1 september tot en met 30 november 2020.
 
 ### ART 4.
 
-Voor vakantieorganisaties en zorgverblijven die het gemiddelde van het aantal overnachting niet volgens respectievelijk artikel 2 en artikel 3 van dit besluit kunnen bepalen, of voor wie de periode van respectievelijk 14 maart tot en met 7 juni enerzijds en 8 juni tot en met 31 augustus anderzijds van één of meer van de jaren 2017 tot en met 2019 omwille van welbepaalde omstandigheden niet representatief zijn, bezorgen de vakantieorganisaties en zorgverblijven bij hun aanvraag tot financiële ondersteuning volgens artikel 6 van dit besluit een motivering in die zin met een voorstel van eigen gemiddelde onder toevoeging van passende stavingstukken.
+Voor vakantieorganisaties en zorgverblijven die het gemiddelde van het aantal overnachting niet volgens respectievelijk artikel 2 en artikel 3 van dit besluit kunnen bepalen, of voor wie de periode van respectievelijk 14 maart tot en met 7 juni enerzijds en 8 juni tot en met 31 augustus anderzijds van één of meer van de jaren 2017 tot en met 2019 omwille van welbepaalde omstandigheden niet representatief zijn, bezorgen de vakantieorganisaties en zorgverblijven bij hun aanvraag tot financiële ondersteuning volgens artikel 6 van dit besluit een motivering in die zin met een voorstel van eigen gemiddelde onder toevoeging van passende stavingstukken.<br>
+<br>
+Voor zorgverblijven die het gemiddelde van het aantal overnachting niet volgens respectievelijk artikel 2 en artikel 3 van dit besluit kunnen bepalen, of voor wie de periode van 1 september tot en met 30 november van één of meer van de jaren 2017 tot en met 2019 omwille van welbepaalde omstandigheden niet representatief zijn, bezorgen de zorgverblijven bij hun aanvraag tot financiële ondersteuning volgens artikel 6 van dit besluit een motivering in die zin met een voorstel van eigen gemiddelde onder toevoeging van passende stavingstukken.&nbsp;
 
 ### ART 5.
 
@@ -95,8 +101,7 @@ De vakantieorganisaties en zorgverblijven komen enkel voor financiële ondersteu
 
 ### ART 6.
 
-De vakantieorganisaties en zorgverblijven dienen een aanvraag tot financiële ondersteuning via het digitale loket van Toerisme Vlaanderen in.<br>
-Toerisme Vlaanderen kondigt de oproep tot aanvraagmogelijkheid op haar website aan. Voor de financiële ondersteuning voor enerzijds de periode vanaf 14 maart tot en met 7 juni 2020 en anderzijds de periode vanaf 8 juni tot en met 31 augustus 2020 gebeurt een afzonderlijke oproep en aanvraagmogelijkheid.<br>
+Toerisme Vlaanderen kondigt de oproep tot aanvraagmogelijkheid op haar website aan. Voor de financiële ondersteuning voor zowel de periode vanaf 14 maart tot en met 7 juni 2020 en zowel de periode vanaf 8 juni tot en met 31 augustus 2020 als de periode van 1 september tot en met 30 november gebeurt een afzonderlijke oproep en aanvraagmogelijkheid.<br>
 <br>
 Toerisme Vlaanderen bepaalt per periode de uiterlijke indieningsdatum voor de aanvraag, waarbij de indieningstermijn minimaal vijftien dagen en maximum dertig dagen bedraagt. Bij een vooraankondiging van de oproep kan Toerisme Vlaanderen van deze minimale indieningstermijn afwijken, voor zover de indieningstermijn te rekenen vanaf deze vooraankondiging minimaal vijftien dagen bedraagt.<br>
 <br>
