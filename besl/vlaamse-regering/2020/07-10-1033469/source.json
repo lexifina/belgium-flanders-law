@@ -2,16 +2,16 @@
   "codex_id": 1033469,
   "title": "Besluit van de Vlaamse Regering van 2020-07-10 tot toekenning van steun aan hostels met exploitatiebeperkingen die voortvloeien uit de dringende maatregelen van de Nationale Veiligheidsraad om de verspreiding van het coronavirus COVID-19 te beperken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033469/VolledigDocument?datum=2020-07-10",
-  "source_sha256": "6e204939bc47a7c5ac3a5f4139e14c75337f014bb8d70fce4a16a7744880ebf5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033469/VolledigDocument?datum=2020-12-11",
+  "source_sha256": "bbd7744210ddca2fd34410e99491efe91152397c78ed70a7907fc21dabee4ba5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033469&param=informatie",
-  "as_of": "2020-07-10",
+  "as_of": "2020-12-11",
   "made": "2020-07-10",
   "gazette": "2020-07-24",
   "numac": 2020015236,
   "document_start": "2020-07-10",
   "document_end": null,
-  "in_force": "2020-07-10",
-  "article_versions": 12,
-  "record_form": "consolidated version as in force on 2020-07-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2020-12-11",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2020-12-11; future article versions excluded; article text as the API gives it"
 }
