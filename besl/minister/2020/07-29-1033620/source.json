@@ -2,16 +2,16 @@
   "codex_id": 1033620,
   "title": "Ministerieel besluit van 2020-07-29 tot bepaling van de voor het kalenderjaar 2020 beschikbare middelen voor de vergoedingen voor de opkoop van groenestroomcertificaten en warmte-krachtcertificaten door de elektriciteitsdistributienetbeheerders en indiening bij de VREG, vermeld in artikel 6.4.14/2 en artikel 6.4.14/3 van het Energiebesluit van 19 november 2010",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033620/VolledigDocument?datum=2020-08-24",
-  "source_sha256": "a836944a43b68bd1beaae560b8bae8f7cc00894ac8cd1ba7aad472ca317527d0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033620/VolledigDocument?datum=2020-12-11",
+  "source_sha256": "dc240c905865309253d8c9306e0adb0509a5a67b71aa182113ed14a1b07fa4f0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033620&param=informatie",
-  "as_of": "2020-08-24",
+  "as_of": "2020-12-11",
   "made": "2020-07-29",
   "gazette": "2020-08-24",
   "numac": 2020031180,
   "document_start": "2020-08-24",
   "document_end": "2020-12-10",
-  "in_force": "2020-08-24",
+  "in_force": "2020-12-11",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2020-08-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-12-11; future article versions excluded; article text as the API gives it"
 }

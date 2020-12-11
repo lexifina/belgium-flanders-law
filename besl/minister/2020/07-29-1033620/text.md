@@ -38,10 +38,8 @@ DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME BE
 
 ### ART 1.
 
-De voor het kalenderjaar 2020 beschikbare middelen vanuit het Energiefonds, opgericht op grond van artikel 3.2.1 van het Energiedecreet van 8 mei 2009 als een begrotingsfonds in de zin van artikel 15 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, bedragen maximaal:<br>
-1° 13.950.000 euro voor de volgens artikel 6.4.14/2 van het Energiebesluit van 19 november 2010 te betalen vergoedingen aan de elektriciteitsdistributienetbeheerders voor de opkoop en het uit de markt halen van groenestroomcertificaten;<br>
-2° 15.500.000 euro voor de volgens artikel 6.4.14/3 van het Energiebesluit van 19 november 2010 te betalen vergoedingen aan de elektriciteitsdistributienetbeheerders voor de opkoop en het uit de markt halen van warmte-krachtcertificaten.
+...
 
 ### ART 2.
 
-Dit ministerieel besluit treedt in werking op de datum van de bekendmaking ervan in het Belgisch Staatsblad.
+...
