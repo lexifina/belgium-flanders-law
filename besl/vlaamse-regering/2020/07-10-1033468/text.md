@@ -37,8 +37,8 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° Coronamaatregelen: de maatregelen van de Nationale Veiligheidsraad genomen vanaf 12 maart 2020 inzake het coronavirus en de daaruit voortvloeiende maatregelen van de bevoegde autoriteiten inzake burgerlijke veiligheid;<br>
-2° Jeugdverblijven: de verblijven die uiterlijk op 15 maart 2020 door Toerisme Vlaanderen overeenkomstig het decreet betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van "Toerisme voor Allen" van 18 juli 2003 als sociaal-toeristisch verblijf zijn erkend en overeenkomstig het besluit van de Vlaamse Regering betreffende de erkenning en de financiële ondersteuning van verblijven in het kader van "Toerisme voor Allen" van 28 mei 2004 het label jeugdtoerisme zijn toegekend;<br>
+1° Coronamaatregelen: de maatregelen van de Nationale Veiligheidsraad of het overlegcomité genomen vanaf 12 maart 2020 inzake het coronavirus en de daaruit voortvloeiende maatregelen van de bevoegde autoriteiten inzake burgerlijke veiligheid;<br>
+2° Jeugdverblijven: de verblijven die uiterlijk op 1 september 2020 door Toerisme Vlaanderen overeenkomstig het decreet betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van "Toerisme voor Allen" van 18 juli 2003 als sociaal-toeristisch verblijf zijn erkend en overeenkomstig het besluit van de Vlaamse Regering betreffende de erkenning en de financiële ondersteuning van verblijven in het kader van "Toerisme voor Allen" van 28 mei 2004 het label jeugdtoerisme zijn toegekend;<br>
 3° Jeugdverblijven type A: de jeugdverblijven, zoals omschreven in punt 2° hierboven, die overeenkomstig het besluit van de Vlaamse Regering betreffende de erkenning en de financiële ondersteuning van verblijven in het kader van "Toerisme voor Allen" van 28 mei 2004 in de categorie type A zijn ingedeeld;<br>
 4° Jeugdverblijven type B: de jeugdverblijven, zoals omschreven in punt 2° van dit artikel, die overeenkomstig het besluit van de Vlaamse Regering betreffende de erkenning en de financiële ondersteuning van verblijven in het kader van "Toerisme voor Allen" van 28 mei 2004 in de categorie type B zijn ingedeeld;<br>
 5° Jeugdverblijven type C: de jeugdverblijven, zoals omschreven in punt 2° van dit artikel, die overeenkomstig het besluit van de Vlaamse Regering betreffende de erkenning en de financiële ondersteuning van verblijven in het kader van "Toerisme voor Allen" van 28 mei 2004 in de categorie type C zijn ingedeeld;<br>
@@ -60,15 +60,15 @@ De jeugdverblijven krijgen een financiële ondersteuning voor de nasleep van de 
 1° de periode voor het berekenen van het gemiddelde wordt gewijzigd in de periode vanaf 8 juni tot en met 31 augustus van de jaren 2017 tot en met 2019; en<br>
 2° het aantal overnachtingen per jeugdverblijf in de periode vanaf 8 juni tot en met 31 augustus 2020 in mindering wordt gebracht van het gemiddelde van het aantal overnachtingen per jeugdverblijf.
 
+### ART 3bis.
+
+De jeugdverblijven krijgen een financiële ondersteuning voor de nasleep van de exploitatiebeperkingen ingevolge de coronamaatregelen tijdens de periode vanaf 1 september tot en met 30 november 2020, waarbij het subsidiebedrag per jeugdverblijf wordt bepaald op basis van de criteria voorzien in artikel 2 van dit besluit, met dien verstande dat in artikel 2, 1° :<br>
+1° de periode voor het berekenen van het gemiddelde wordt gewijzigd in de periode vanaf 1 september tot en met 30 november van de jaren 2017 tot en met 2019; en<br>
+2° het aantal overnachtingen per jeugdverblijf in de periode vanaf 1 september tot en met 30 november 2020 in mindering wordt gebracht van het gemiddelde van het aantal overnachtingen per jeugdverblijf.
+
 ### ART 4.
 
-Het gemiddelde van het aantal overnachting per jeugdverblijf volgens artikel 2, 1°, wordt vermenigvuldigd met volgende factor:<br>
-1° voor de jeugdverblijven type A: een factor één;<br>
-2° voor de jeugdverblijven type B: een factor anderhalf;<br>
-3° voor de jeugdverblijven type C, overnachtingen zelfkook: een factor twee; en<br>
-4° voor de jeugdverblijven type C, overnachtingen vol pension: een factor vier.<br>
-<br>
-Voor jeugdverblijven die het gemiddelde van het aantal overnachtingen per jeugdverblijf niet volgens artikel 2, 1° kunnen bepalen, of voor wie de periode van respectievelijk 14 maart tot en met 7 juni en 8 juni tot en met 31 augustus van één of meer van de jaren 2017 tot en met 2019 omwille van welbepaalde omstandigheden niet representatief zijn, bezorgen de jeugdverblijven bij hun aanvraag tot financiële ondersteuning volgens artikel 6 van dit besluit een motivering in die zin met een voorstel van eigen gemiddelde onder toevoeging van passende stavingstukken.
+Voor jeugdverblijven die het gemiddelde van het aantal overnachtingen per jeugdverblijf niet volgens artikel 2, 1° kunnen bepalen, of voor wie de periode van respectievelijk 14 maart tot en met 7 juni en 8 juni tot en met 31 augustus en 1 september tot 30 november van één of meer van de jaren 2017 tot en met 2019 omwille van welbepaalde omstandigheden niet representatief zijn, bezorgen de jeugdverblijven bij hun aanvraag tot financiële ondersteuning volgens artikel 6 van dit besluit een motivering in die zin met een voorstel van eigen gemiddelde onder toevoeging van passende stavingstukken.
 
 ### ART 5.
 
@@ -76,17 +76,7 @@ De jeugdverblijven komen enkel voor financiële ondersteuning overeenkomstig dit
 
 ### ART 6.
 
-De jeugdverblijven dienen een aanvraag tot financiële ondersteuning via het digitale loket van Toerisme Vlaanderen in.<br>
-<br>
-Toerisme Vlaanderen kondigt de oproep tot aanvraagmogelijkheid op haar website aan. Voor de financiële ondersteuning voor enerzijds de periode vanaf 14 maart tot en met 7 juni 2020 en anderzijds de periode vanaf 8 juni tot en met 31 augustus 2020 gebeurt een afzonderlijke oproep en aanvraagmogelijkheid.<br>
-<br>
-Toerisme Vlaanderen bepaalt per periode de uiterlijke indieningsdatum voor de aanvraag, waarbij de indieningstermijn minimaal vijftien dagen en maximum dertig dagen bedraagt.<br>
-<br>
-Toerisme Vlaanderen onderzoekt elke subsidieaanvraag op de naleving van de voorwaarden die zijn opgelegd bij dit besluit en beslist over de toekenning en het bedrag van de financiële ondersteuning. Deze beslissing gebeurt bij besluit van de administrateur-generaal van Toerisme Vlaanderen, die hiervoor delegatie wordt verleend en dit ongeacht de hoogte van het subsidiebedrag.<br>
-<br>
-Toerisme Vlaanderen bezorgt een kennisgeving van de beslissing, vermeld in het derde lid hierboven aan de subsidieaanvrager hetzij schriftelijk hetzij elektronisch hetzij een combinatie van beide.<br>
-<br>
-Als Toerisme Vlaanderen beslist om een financiële ondersteuning toe te kennen, dan betaalt Toerisme Vlaanderen het subsidiebedrag uit op het rekeningnummer van de jeugdverblijven zoals opgegeven bij de aanvraag.
+Toerisme Vlaanderen kondigt de oproep tot aanvraagmogelijkheid op haar website aan. Voor de financiële ondersteuning voor enerzijds de periode vanaf 14 maart tot en met 7 juni 2020 en anderzijds de periode vanaf 8 juni tot en met 31 augustus 2020 en de periode van 1 september tot en met 30 november gebeurt een afzonderlijke oproep en aanvraagmogelijkheid.
 
 ### ART 7.
 
