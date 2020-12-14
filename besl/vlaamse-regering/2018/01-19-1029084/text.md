@@ -29,13 +29,17 @@ Dit besluit voorziet in de gedeeltelijke omzetting van Benelux Beschikking M (20
 ### ART 2.
 
 In dit besluit wordt verstaan onder:<br>
-1° decreet van 3 mei 2013: het decreet van 3 mei 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van bijzonder wegtransport;<br>
+1° besluit van 23 oktober 2020: het besluit van de Vlaamse Regering van 23 oktober 2020 tot bepaling van de voorwaarden voor de beroepsbekwaamheid van de bestuurder van een langere en zwaardere sleep;<br>
+1°/1 decreet van 3 mei 2013: het decreet van 3 mei 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van bijzonder wegtransport;<br>
 2° Departement Mobiliteit en Openbare Werken: het departement, vermeld in artikel 28, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 3° LZV: de langere en zwaardere sleep, vermeld in artikel 2, 6° /1, van het decreet van 3 mei 2013;<br>
 4° LZV-Portaal: het elektronische informatiesysteem voor de ontsluiting en de uitwisseling van informatie over het proefproject voor het vervoer met LZV, geïntegreerd in de internetsite www.mobielvlaanderen.be;<br>
 5° minister: de Vlaamse minister, bevoegd voor het mobiliteitsbeleid, de openbare werken en het vervoer;<br>
 6° netwerk: het geheel van het basisnetwerk en de goedgekeurde aantakkingstrajecten, vermeld in artikel 5 van het decreet van 3 mei 2013;<br>
+6° /1 opleidingscentrum: het opleidingscentrum, vermeld in artikel 1, 12°, van het besluit van 23 oktober 2020;<br>
 7° technisch reglement: het technisch reglement, vermeld in artikel 2, 5°, van het decreet van 3 mei 2013.
+
+## [Hoofdstuk 2. De voertuigen, de lading en de vergunningsvoorwaarden (verv. BVR 23 oktober 2020, art. 65, I: 14 december 2020)]
 
 ## Afdeling 1. De voertuigen
 
@@ -63,15 +67,9 @@ Het vervoer met LZV wordt niet toegelaten voor:<br>
 4° het vervoer van containers van 45 voet;<br>
 5° het vervoer van een lading met uitstekende delen.
 
-## [... (opgeh. BVR 23 oktober 2020, art. 66, I: 14 december 2020)]
-
 ### ART 5.
 
-Elke bestuurder is in het bezit van een bekwaamheidsattest voor het besturen van een LZV dat in het Vlaamse Gewest afgeleverd of erkend is.<br>
-<br>
-De bestuurder heeft minimaal vijf jaar ervaring met het besturen van een vrachtwagencombinatie die een rijbewijs C+E vereist.<br>
-<br>
-De bestuurder mag geen verval van het recht tot sturen hebben opgelopen gedurende een jaar voor het besturen van een LZV.
+...
 
 ## Hoofdstuk 3. Het netwerk
 
@@ -83,11 +81,13 @@ Het basisnetwerk bestaat uit:<br>
 
 ### ART 7.
 
-Een aantakkingstraject is de meest logische en efficiënte weg vanaf het vertrekpunt tot het basisnetwerk en vanaf het basisnetwerk tot de bestemming.<br>
+Een aantakkingstraject is de meest logische en efficiënte weg vanaf het vertrekpunt tot het basisnetwerk of vanaf het basisnetwerk tot de bestemming.<br>
 <br>
-Een aantakkingstraject wordt beschreven in een heenweg en een terugweg, die niet per definitie identiek zijn. De aansluiting op het basisnetwerk kan in alle mogelijke richtingen gebeuren. Het vertrekpunt en de bestemming zijn gelegen op privédomein.<br>
+Een aantakkingstraject wordt beschreven in een heenweg en een terugweg, die niet per definitie identiek zijn. De aansluiting op het basisnetwerk kan in alle mogelijke richtingen gebeuren. Het vertrekpunt en de bestemming zijn gelegen op privédomein, tenzij het vertrekpunt of de bestemming een grens is met een ander gewest of een ander land.<br>
 <br>
-Het gebruik van aantakkingstrajecten is alleen toegestaan als schakel tussen het vertrekpunt en het basisnetwerk of tussen het basisnetwerk en de bestemming of omgekeerd.<br>
+Het gebruik van een aantakkingstraject is alleen toegestaan als schakel tussen het vertrekpunt en het basisnetwerk of tussen het basisnetwerk en de bestemming of omgekeerd.<br>
+<br>
+In afwijking van het derde lid is het onbeperkte gebruik van aantakkingstrajecten toegestaan in het kader van de opleiding, vermeld in hoofdstuk 3, afdeling 2 en van het examen, vermeld in hoofdstuk 3, afdeling 3, van het besluit van de Vlaamse Regering van 23 oktober 2020<br>
 <br>
 Aantakkingstrajecten bestaan uit:<br>
 1° de trajecten die op basis van het besluit van de Vlaamse Regering van 20 december 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van vervoer met langere en zwaardere slepen in het kader van een proefproject, al vergund zijn en die geschikt zijn op basis van artikel 9 en 10;<br>
@@ -129,6 +129,8 @@ Wanneer er meer dan dertig aanvragen per aanvraagperiode worden ingediend, worde
 <br>
 Elke aanvrager kan maximaal twee aantakkingstrajecten aanvragen per aanvraagperiode.<br>
 <br>
+In afwijking van het tweede lid kan een opleidingscentrum dat door de minister of zijn gemachtigde erkend is ook buiten de halfjaarlijkse aanvraagperiode één aantakkingstraject aanvragen vanaf het terrein, vermeld in artikel 21 van het besluit van 23 oktober 2020, tot het basisnetwerk en omgekeerd.<br>
+<br>
 Elk aantakkingstraject wordt beoordeeld ten opzichte van het basisnetwerk.<br>
 <br>
 De quotering van de goedgekeurde of afgekeurde aanvraag wordt gepubliceerd op het LZV-Portaal zodat die beschikbaar is voor toekomstige aanvragers.
@@ -145,7 +147,9 @@ De minister bepaalt de nadere regels voor het herroepen of wijzigen van aantakki
 
 ### ART 13.
 
-De vergunning voor het vervoer met LZV kan alleen worden aangevraagd door of namens ondernemingen die goederenvervoer verrichten voor rekening van derden of voor eigen rekening.<br>
+De vergunning voor het vervoer met LZV kan aangevraagd worden:<br>
+1° door of namens ondernemingen die goederenvervoer verrichten voor rekening van derden of voor eigen rekening;<br>
+2° door een opleidingscentrum dat door de minister of zijn gemachtigde erkend is.<br>
 <br>
 De minister bepaalt de nadere regels over de vergunningsprocedure.
 
