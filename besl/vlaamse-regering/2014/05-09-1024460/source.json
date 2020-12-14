@@ -2,16 +2,16 @@
   "codex_id": 1024460,
   "title": "Besluit van de Vlaamse Regering van 2014-05-09 betreffende de erkenning van een bekwaamheidsattest voor het besturen van een langere en zwaardere sleep in het kader van een proefproject",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024460/VolledigDocument?datum=2014-09-05",
-  "source_sha256": "4cec0eb62c8a2dd90bb62b0663dc6ca685f9a83e72173c9c2b510f32d18beacc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024460/VolledigDocument?datum=2020-12-14",
+  "source_sha256": "29b478b5819dcfbc9f631cfeffcee195164d2c24c08c1fe00f3bbad99a40e667",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024460&param=informatie",
-  "as_of": "2014-09-05",
+  "as_of": "2020-12-14",
   "made": "2014-05-09",
   "gazette": "2014-08-26",
   "numac": 2014035661,
   "document_start": "2014-09-05",
   "document_end": "2020-12-13",
-  "in_force": "2014-09-05",
+  "in_force": "2020-12-14",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2014-09-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-12-14; future article versions excluded; article text as the API gives it"
 }

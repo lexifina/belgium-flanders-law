@@ -20,8 +20,8 @@
 
 ### ART. 1.
 
-Het `CCV-certificaat Chauffeur Lange Zware Voertuigen', afgeleverd door   het Nederlands Centraal Bureau Rijbewijzen, wordt erkend als bekwaamheidsattest   voor het besturen van een langere en zwaardere sleep in het kader van het   proefproject, vermeld in artikel 4 van het decreet van 3 mei 2013 betreffende de   bescherming van de verkeersinfrastructuur in geval van bijzonder   wegtransport.<BR>
+...
 
 ### ART. 2.
 
-De Vlaamse minister, bevoegd voor het mobiliteitsbeleid en het vervoer, is   belast met de uitvoering van dit besluit.<BR>
+...
