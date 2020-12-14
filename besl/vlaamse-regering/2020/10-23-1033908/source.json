@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033908,
+  "title": "Besluit van de Vlaamse Regering van 2020-10-23 tot bepaling van de voorwaarden voor de beroepsbekwaamheid van de bestuurder van een langere en zwaardere sleep",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033908/VolledigDocument?datum=2020-12-14",
+  "source_sha256": "6667f0fc3a3db0ef7d17646f492c6e309fbc5ca9d551de9ed6d25bbb62f744f5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033908&param=informatie",
+  "as_of": "2020-12-14",
+  "made": "2020-10-23",
+  "gazette": "2020-12-04",
+  "numac": 2020043773,
+  "document_start": "2020-12-14",
+  "document_end": null,
+  "in_force": "2020-12-14",
+  "article_versions": 73,
+  "record_form": "consolidated version as in force on 2020-12-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
