@@ -16,12 +16,12 @@ Dit besluit wordt aangehaald als: het Onroerenderfgoedbesluit van 16 mei   2014.
 
 In dit besluit wordt verstaan onder:<br>
 1° behandelende agentschap: de instantie waarbij een aanvraag tot opmaak van een geïntegreerd beheersplan wordt ingediend, namelijk het agentschap of het Agentschap voor Natuur en Bos;<br>
-1°/1 beheersdienst: de administratieve overheid die belast is met de uitvoering van de beheersovereenkomsten;<br>
+1° /1 beheersdienst: het agentschap of een andere Vlaamse administratieve overheid die ermee belast is de beheersovereenkomsten te sluiten en op te volgen;<br>
 2° beheersmaatregel: het werk, de dienst of de handeling die de zakelijkrechthouder of beheerder in het kader van een beheersovereenkomst verricht, laat verrichten of achterwege laat, afhankelijk van de beheersdoelstelling;<br>
 3° beheerspakket: een geheel van beheersmaatregelen die tegemoetkomen aan een specifieke beheersdoelstelling;<br>
 4° belanghebbende: de zakelijkrechthouder en de gebruiker van het onroerend goed, de zakelijkrechthouders van percelen die grenzen aan het onroerend goed, de gemeente of de provincie waarin het onroerend goed gelegen is, het agentschap en in voorkomend geval de leden van de beheerscommissie;<br>
 5° beleidsprioriteiten: de beleidsdoelstellingen die de Vlaamse Regering formuleert en waarbij ze, al dan niet met een subsidieregeling, de lokale besturen aanmoedigt of verplicht om binnen de geformuleerde doelstellingen een eigen lokaal beleid te voeren;<br>
-6° bijwerken: de bijkomende werkzaamheden, beheersmaatregelen of diensten die, door niet voorzienbare omstandigheden, tijdens de uitvoering van goedgekeurde werkzaamheden of beheersmaatregelen noodzakelijk blijken en niet vermeld zijn in de kostenraming op basis waarvan de erfgoedpremie werd toegekend;<br>
+6° bijwerken: de bijkomende werken of diensten die, door niet voorzienbare omstandigheden, tijdens de uitvoering van goedgekeurde werken of diensten noodzakelijk blijken en niet vermeld zijn in de kostenraming op basis waarvan de erfgoedpremie werd toegekend;<br>
 7° Commissie: de Vlaamse Commissie Onroerend Erfgoed, vermeld in artikel 3.1.1 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 8° ...<br>
 9° discipline: een bepaald vakgebied, specialisme of beroep binnen de onroerenderfgoedsector;<br>
@@ -29,7 +29,7 @@ In dit besluit wordt verstaan onder:<br>
 10° forfaitaire werkzaamheden: de werkzaamheden of diensten, opgenomen in een door de minister vastgestelde lijst, die op forfaitaire basis overeenkomstig de bedragen, vermeld in die lijst, in aanmerking komen voor de toekenning van een erfgoed- of onderzoekspremie;<br>
 10° /1 geïntegreerd beheersplan: een beheersplan waarin één gebiedsgerichte beheerplanning voor een onroerend erfgoed, voor erfgoedlandschappen, een natuurdomein of voor een ander terrein, beheerd ten behoeve van het natuurbehoud wordt vooropgesteld, en/of waarbij in geval van het overlappen van de verschillende beschermingsstatuten de verschillende beleidsdoelstellingen op elkaar worden afgestemd. Dat geïntegreerde beheersplan omvat steeds de verschillende beheerdoelstellingen en garandeert één afgestemde gebiedsgerichte visie binnen de geldende regelgeving;<br>
 11° gespecialiseerde werkzaamheden:<br>
-a) beheersmaatregelen, werkzaamheden of diensten aan:<br>
+a) werken of diensten aan:<br>
 1) orgels, beiaarden, torenuurwerken, luiklokken;<br>
 2) historische instrumenten;<br>
 3) beeldhouwwerken of grafstenen;<br>
@@ -48,7 +48,7 @@ b) beveiligingswerken tegen diefstal, brand en blikseminslag van beschermde monu
 12° /1 kleinschalige onderneming: een onderneming waar minder dan tien personen werken, uitgezonderd seizoensarbeiders en piekarbeiders, en waarvan de omzet of het jaarlijkse balanstotaal in het boekjaar dat voorafgaat aan het boekjaar waarin de premie wordt aangevraagd, niet meer dan vijf miljoen euro bedraagt;<br>
 12° /2 kleinschalige vereniging: een vereniging waar minder dan tien personen werken en waarvan de omzet of het jaarlijkse balanstotaal in het boekjaar dat voorafgaat aan het boekjaar waarin de premie wordt aangevraagd, niet meer dan vijf miljoen euro bedraagt;<br>
 13° lokale beleidscyclus: de beleidscyclus van zes jaar die gekoppeld is aan de lokale bestuursperiode en die begint in het tweede jaar dat volgt op de lokale verkiezingen en eindigt op het einde van het jaar na de daaropvolgende verkiezingen;<br>
-14° meerwerken: de bijkomende werkzaamheden, beheersmaatregelen of diensten die de vermoedelijke hoeveelheden die in de aanvaarde kostenraming worden vermeld, overschrijden;<br>
+14° meerwerken: de bijkomende werken of diensten die de vermoedelijke hoeveelheden die in de aanvaarde kostenraming worden vermeld, overschrijden;<br>
 15° minister: de Vlaamse minister, bevoegd voor het onroerend erfgoed;<br>
 16° ...;<br>
 16° /1 natuurdomein: een terrein als vermeld in artikel 2, punt 55°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
@@ -62,12 +62,12 @@ d) omvat, in het geval van open erfgoed, indicatoren die specifiek inspelen op d
 19° ontwerper: de natuurlijke persoon of rechtspersoon die het ontwerp maakt van de werkzaamheden of diensten aan of in beschermde goederen of in erfgoedlandschappen, en ze begeleidt en controleert of het beheersplan opmaakt;<br>
 20° open erfgoed: een beschermd goed of een erfgoedlandschap, dat geheel of gedeeltelijk opengesteld wordt en als zodanig is erkend door het agentschap;<br>
 21° post: een gedetailleerde omschrijving per onderdeel van de te leveren goederen, diensten en te verrichten werkzaamheden;<br>
-22° premienemer: elkeen die opdrachtgever is van de beheersmaatregelen, werkzaamheden, diensten, voorafgaande onderzoeken of de opmaak van het beheersplan en die de kosten ervan draagt;<br>
+22° premienemer: elkeen die opdrachtgever is van de werken of diensten, voorafgaande onderzoeken of de opmaak van het beheersplan en die de kosten ervan draagt;<br>
 22° /1 premie voor buitensporige opgravingskosten: een premie ter financiering van de buitensporige directe kosten van de verplichte en al uitgevoerde archeologische opgraving, zoals opgenomen in de archeologienota of de nota waarvan akte is genomen ter uitvoering van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 23° premie voor archeologisch vooronderzoek met ingreep in de bodem: een premie ter financiering van verplicht uitgevoerd archeologisch vooronderzoek met ingreep in de bodem bij vergunningsplichtige ingrepen in de bodem zoals opgenomen in de toelating of in de archeologienota waarvan akte is genomen ter uitvoering van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 24° regulier onderhoud: de preventieve en periodieke onderhoudswerken, gericht op het duurzaam in goede staat houden van een goed, die geen vervanging of wijziging van materiaal en uitvoeringstechniek impliceren en die geen negatieve impact op de erfgoedwaarde en geen impact op de bodem hebben;<br>
 24° /1 terrein beheerd ten behoeve van het natuurbehoud: een terrein dat beheerd wordt conform de bepalingen van hoofdstuk IIIbis van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
-25° toekenning: de officiële kennisgeving aan de premienemer van het ministerieel besluit waarbij het bedrag van de erfgoedpremie, aangevraagd volgens de bijzondere procedure, wordt vastgesteld;<br>
+25° toekenning: de officiële kennisgeving aan de premienemer van het ministerieel besluit waarbij het bedrag van de erfgoedpremie&nbsp;via oproep wordt vastgesteld;<br>
 25° /1 toestandsrapport: een rapport over de fysische staat van onroerend erfgoed of erfgoedlandschappen waaruit de vereiste beheersmaatregelen kunnen worden afgelezen. Een toestandsrapport kan evaluaties en beheersaanbevelingen bevatten. Het rapport wordt gestaafd met duidelijk beeldmateriaal;<br>
 26° uitvoerder: de natuurlijke persoon of rechtspersoon, die het beheer van of de werkzaamheden aan onroerend erfgoed en erfgoedlandschappen uitvoert;<br>
 27° voorafgaand onderzoek: elke vorm van voorbereidend onderzoek dat noodzakelijk is voor het kwaliteitsvolle beheer of de herwaardering van een beschermd goed of een erfgoedlandschap en waarvan verondersteld mag worden dat het buiten de gebruikelijke opdracht van een eventuele ontwerper valt, met inbegrip van de werkzaamheden die nodig zijn om dat onderzoek uit te voeren;<br>
@@ -1205,23 +1205,22 @@ Als voor de handelingen aan of in beschermde goederen geen omgevingsvergunning, 
 
 ### ART. 6.3.2.
 
-<p>De aanvraag van een toelating voor handelingen aan of in beschermde goederen zoals vermeld in artikel 6.3.1, tweede lid, wordt schriftelijk ingediend bij het agentschap of, in voorkomend geval, bij het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente waar het beschermde goed ligt.<br>
+<p>De aanvraag van een toelating voor handelingen aan of in beschermde goederen, vermeld in artikel 6.3.1, tweede lid, wordt schriftelijk of via het daarvoor voorziene digitale platform ingediend bij het agentschap of, in voorkomend geval, bij het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente waar het beschermde goed ligt.<br>
 <br>
-Als de aanvraag, vermeld in het eerste lid, betrekking heeft op handelingen aan of in beschermde goederen op percelen die op het grondgebied van verschillende gemeenten liggen, dient de aanvrager die in bij het agentschap.</p>
-
-<p>De aanvraag bestaat minstens uit de volgende elementen:<br>
-1° de contactgegevens van de aanvrager;<br>
-2° een nauwkeurige beschrijving van de handelingen en de noodzaak ervan, de uitvoeringstechniek en het te gebruiken materiaal, eventueel vergezeld van een technische fiche, de huidige staat van het goed en de precieze plaats waar de handelingen zullen worden uitgevoerd, aangevuld met tekeningen of plannen, een situeringsplan en fotomateriaal van de bestaande toestand;<br>
-3° de vermelding van de vermoedelijke datum van het begin en het einde van de handelingen;<br>
-4° in voorkomend geval een motivering van de handelingen aan of in beschermde goederen die voortbouwt op het goedgekeurde beheersplan.</p>
-
-<p>Het agentschap stelt daarvoor een modelformulier ter beschikking op zijn website.</p>
+Als de aanvraag, vermeld in het eerste lid, betrekking heeft op handelingen aan of in beschermde goederen op percelen die op het grondgebied van verschillende gemeenten liggen, dient de aanvrager ze in bij het agentschap.<br>
+<br>
+De aanvraag bevat minstens al de volgende elementen:<br>
+1° een volledig ingevuld en ondertekend aanvraagformulier dat ter beschikking wordt gesteld op de website van het agentschap;<br>
+2° een beschrijving van de huidige staat van het goed;<br>
+3° een beschrijving van de geplande handelingen;<br>
+4° een motivering van de geplande handelingen, die in voorkomend geval uitlegt hoe die handelingen voortbouwen op het goedgekeurde beheersplan;<br>
+5° de vermelding van de vermoedelijke datum van het begin en het einde van de handelingen.</p>
 
 ### ART. 6.3.3.
 
 <p>Het agentschap of, in voorkomend geval, de erkende onroerenderfgoedgemeente gaat na of voldaan is aan alle voorwaarden, vermeld in artikel 6.3.2, en of de dossiergegevens een onderzoek ten gronde toelaten.</p>
 
-<p>Als de aanvraag onvolledig is, kan het agentschap of, in voorkomend geval, de erkende onroerenderfgoedgemeente binnen een termijn van twintig dagen, die ingaat op de dag na de dag waarop de aanvraag is ingediend, de aanvrager schriftelijk&nbsp;vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarbinnen dat moet gebeuren.</p>
+<p>Als de aanvraag onvolledig is of geen onderzoek ten gronde toelaat, kan het agentschap of, in voorkomend geval, de erkende onroerenderfgoedgemeente binnen een termijn van twintig dagen, die ingaat op de dag na de dag waarop de aanvraag is ingediend, de aanvrager schriftelijk of via het daarvoor voorziene digitale platform vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarbinnen dat moet gebeuren. Als de aanvrager nalaat binnen deze termijn de ontbrekende gegevens of documenten bij te voegen, wordt de toelating geacht te zijn geweigerd. Het agentschap of, in voorkomend geval, de erkende onroerenderfgoedgemeente brengt de aanvrager hiervan schriftelijk of via het daarvoor voorziene digitale platform op de hoogte.</p>
 
 ### ART. 6.3.4.
 
@@ -1234,7 +1233,7 @@ Als de aanvraag, vermeld in het eerste lid, betrekking heeft op handelingen aan 
 ### ART. 6.3.6.
 
 Het agentschap of, in voorkomend geval, het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente maakt de beslissing binnen een ordetermijn van tien dagen, die ingaat op de dag na de datum van de beslissing of de dag na het verstrijken van de termijn, vermeld in artikel 6.3.5, eerste lid, als volgt bekend:<br>
-1° het agentschap of, in voorkomend geval, het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente brengt de aanvrager schriftelijk op de hoogte van de uitdrukkelijke of stilzwijgende beslissing tot toelating;<br>
+1° het agentschap of, in voorkomend geval, het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente brengt de aanvrager schriftelijk of via het daarvoor voorziene digitale platform op de hoogte van de uitdrukkelijke of stilzwijgende beslissing;<br>
 2° als het gaat om een beslissing van het agentschap wordt een afschrift van die uitdrukkelijke beslissing of een kennisgeving van de stilzwijgende beslissing gelijktijdig en schriftelijk aan de gemeente bezorgd, en wordt die beslissing ingeschreven in het register van toelatingen en adviezen, vermeld in artikel 6.5.1;<br>
 3° als het gaat om een beslissing van het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente wordt die beslissing ingeschreven in het register van toelatingen en adviezen, vermeld in artikel 6.5.1.
 
@@ -2058,11 +2057,15 @@ Met het oog op het toezicht, vermeld in het eerste lid, dient het erkende onroer
 
 ### ART. 10.2.1.
 
-<P>Een beheersovereenkomst is een overeenkomst tussen de beheersdienst en een   zakelijkrechthouder of een beheerder van een archeologische site, monument, een   of meer percelen in een cultuurhistorisch landschap, stads- of dorpsgezicht of   erfgoedlandschap, waarbij die zich er vrijwillig toe verbindt om gedurende een   bepaalde termijn een of meer beheerspakketten uit te voeren tegen betaling van   een vooraf bepaalde vergoeding, binnen de perken van de daarvoor bestemde   kredieten op de begroting van de Vlaamse Gemeenschap.<BR></P>  <P>De beheersdienst kan geen beheersovereenkomst sluiten met de diensten en   agentschappen die afhangen van het Vlaamse Gewest, de besturen, alsook de   publiekrechtelijke en privaatrechtelijke rechtspersonen die in het Vlaamse   Gewest belast zijn met taken van openbaar nut.<BR></P>
+<p>Een beheersovereenkomst is een overeenkomst tussen de beheersdienst en een zakelijkrechthouder of een beheerder van een archeologische site, monument, een of meer percelen in een cultuurhistorisch landschap, stads- of dorpsgezicht of erfgoedlandschap, waarbij die zich er vrijwillig toe verbindt om gedurende een bepaalde termijn een of meer maatregelen uit de beheerspakketten uit te voeren tegen betaling van een vooraf bepaalde vergoeding, binnen de perken van de daarvoor bestemde kredieten op de begroting van de Vlaamse Gemeenschap.</p>
+
+<p>De beheersdienst kan geen beheersovereenkomst sluiten met de diensten en agentschappen die afhangen van het Vlaamse Gewest, de besturen, alsook de publiekrechtelijke en privaatrechtelijke rechtspersonen die in het Vlaamse Gewest belast zijn met taken van openbaar nut.</p>
 
 ### ART. 10.2.2.
 
-<P>Een beheersovereenkomst wordt gesloten voor een duur van vijf jaar. De   looptijd van de beheersovereenkomst kan verlengd worden als de verlenging   verantwoord is in het licht van de beheersdoelstelling.<BR></P>  <P>Een beheersovereenkomst vangt aan op 1 januari van het jaar dat volgt op het   jaar waarin de beheersovereenkomst is gesloten.<BR></P>
+<p>Een beheersovereenkomst wordt gesloten voor een duur van minstens vijf en maximaal tien jaar. De looptijd van de beheersovereenkomst kan verlengd worden als de verlenging verantwoord is in het licht van de beheersdoelstelling.</p>
+
+<p>Een beheersovereenkomst vangt aan op 1 januari van het jaar dat volgt op het jaar waarin de beheersovereenkomst is gesloten.</p>
 
 ### ART. 10.2.3.
 
@@ -2070,13 +2073,33 @@ Vanaf het sluiten van de beheersovereenkomst moet de zakelijkrechthouder   of de
 
 ### ART. 10.2.4.
 
-Een beheersovereenkomst kan gecombineerd worden met andere   beheersovereenkomsten, milieuacties of maatregelen, op voorwaarde dat ze elkaar   aanvullen en onderling verenigbaar zijn. Een beheersvergoeding kan niet   gecumuleerd worden met andere vormen van vergoeding, toegekend voor dezelfde of   een soortgelijke prestatie.<BR>
+Een beheersovereenkomst kan gecombineerd worden met andere beheersovereenkomsten, milieuacties of maatregelen, op voorwaarde dat ze elkaar aanvullen en onderling verenigbaar zijn.<br>
+<br>
+Een beheersvergoeding op basis van een beheersovereenkomst vermeld in artikel 10.2.1 kan niet gecumuleerd worden met de volgende premies, fiscale voordelen en vergoedingen:<br>
+1° een erfgoedpremie;<br>
+2° een onderzoekspremie;<br>
+3° een premie voor archeologisch vooronderzoek met ingreep in de bodem;<br>
+4° een premie voor buitensporige opgravingskosten;<br>
+5° een belastingvermindering, als vermeld in artikel 145/36 van het Wetboek van de inkomstenbelastingen 1992;<br>
+6° een verlaging van de schenkbelasting als vermeld in artikel 2.8.4.4.1 Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
+7° een verlaging van de verkooprechten als vermeld in artikel 2.9.4.2.10 Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
+8° elke andere vorm van vergoeding dan de premies en fiscale voordelen vermeld in punt 1° tot en met 7°, die toegekend worden voor dezelfde of een soortgelijke prestatie.
 
 ## Onderafdeling 2 Doelstelling en toepassingsgebied
 
 ### ART. 10.2.5.
 
-<P>De beheersovereenkomsten zijn gericht op het duurzaam behoud en beheer van   onroerend erfgoed.<BR></P>  <P>In het kader van de beheersdoelstelling, vermeld in het eerste lid, kunnen de   volgende beheerspakketten worden uitgevoerd via beheersovereenkomsten:<BR>1° het   creëren van een bufferstrook ter bescherming van cultuurhistorisch waardevolle   landschapselementen;<BR>2° het beheer van houtig erfgoed;<BR>3° het beschermen   van bodem en reliëfvormen.<BR></P>  <P>De minister stelt de jaarlijkse beheersvergoeding vast voor de   beheerspakketten, vermeld in het tweede lid.<BR></P>
+<p>De beheersovereenkomsten zijn gericht op het duurzaam behoud en beheer van onroerend erfgoed.<br>
+<br>
+In het kader van de beheersdoelstelling, vermeld in het eerste lid, kunnen de volgende beheerspakketten worden uitgevoerd via beheersovereenkomsten:<br>
+1° het beheer van houtig erfgoed, kleine landschapselementen en vegetaties;<br>
+2° het beschermen van bodem en reliëfvormen;<br>
+3° het beheer van klein bouwkundig erfgoed, wegen en paden;<br>
+4° het creëren van een bufferstrook ter bescherming van cultuurhistorisch waardevolle elementen.<br>
+<br>
+De minister kan bijkomende beheerspakketten bepalen.<br>
+<br>
+De minister stelt de jaarlijkse beheersvergoeding vast voor de beheerspakketten, vermeld in het tweede lid, of de maatregelen daarin.</p>
 
 ### ART. 10.2.6.
 
@@ -2084,7 +2107,7 @@ Een beheersovereenkomst kan gecombineerd worden met andere   beheersovereenkomst
 
 ### ART. 10.2.7.
 
-De minister bepaalt het beheersgebied waarin beheersovereenkomsten kunnen   worden gesloten in functie van de beheersdoelstelling, vermeld in artikel   10.2.5, eerste lid.<BR>
+De minister bepaalt de beheersgebieden waarin beheersovereenkomsten kunnen worden gesloten in functie van de beheersdoelstelling, vermeld in artikel 10.2.5, eerste lid.
 
 ### ART. 10.2.8.
 
@@ -2112,11 +2135,15 @@ De beheersdienst is belast met het toezicht op de naleving van de   beheersovere
 
 ### ART. 10.2.13.
 
-<P>Het agentschap gaat na of de beheersovereenkomst kan worden gesloten en of de   gevraagde beheerspakketten in overeenstemming zijn met de beheersdoelstelling en   de gestelde prioriteiten.<BR></P>  <P>Als de beheersdienst op basis van het advies van het agentschap beslist dat   een beheersovereenkomst kan worden gesloten, verzendt hij het ontwerp van de   beheersovereenkomst aan de zakelijkrechthouder of de beheerder.<BR></P>  <P>De exemplaren van de beheersovereenkomst die de zakelijkrechthouder of de   beheerder ondertekend hebben, worden, op straffe van verval van de   beheersovereenkomst, voor de ingangsdatum van de beheersovereenkomst aan de   beheersdienst bezorgd. De beheersdienst bezorgt de beheersovereenkomst die beide   partijen ondertekend hebben aan de zakelijkrechthouder of de   beheerder.<BR></P>
+<p>Het agentschap gaat na of de beheersovereenkomst kan worden gesloten en of de gevraagde beheerspakketten in overeenstemming zijn met de beheersdoelstelling en de gestelde prioriteiten.</p>
+
+<p>Als de beheersdienst beslist dat een beheersovereenkomst kan worden gesloten, stuurt hij het ontwerp van de beheersovereenkomst naar de zakelijkrechthouder of de beheerder. Als de beheersdienst een andere administratieve overheid is dan het agentschap, beslist hij op basis van de conclusies van het agentschap na het onderzoek vermeld in het eerste lid.</p>
+
+<p>De exemplaren van de beheersovereenkomst die de zakelijkrechthouder of de beheerder ondertekend hebben, worden, op straffe van verval van de beheersovereenkomst, voor de ingangsdatum van de beheersovereenkomst aan de beheersdienst bezorgd. De beheersdienst bezorgt de beheersovereenkomst die beide partijen ondertekend hebben aan de zakelijkrechthouder of de beheerder.</p>
 
 ### ART. 10.2.14.
 
-De minister bepaalt de nadere regels met betrekking tot de procedure voor   het sluiten van beheersovereenkomsten en de voorwaarden van betaling van de   beheersvergoeding en kan de nodige modelformulieren   vaststellen.<BR>
+De minister bepaalt de nadere regels met betrekking tot de procedure voor het sluiten van beheersovereenkomsten en de voorwaarden van betaling van de beheersvergoeding.&nbsp;Het agentschap stelt op zijn website een modelformulier ter beschikking.
 
 ## Onderafdeling 5 Bijzondere bepalingen
 
@@ -2296,11 +2323,11 @@ Bij de uitvoering van elke activiteit die aansluit bij het project, moet   de st
 ### ART. 11.1.1.
 
 Er worden geen premies toegekend voor:<br>
-1° beheersmaatregelen, werkzaamheden of diensten aan of in een onroerend goed waarvan de Belgische staat, federale instellingen, andere deelstaten dan de deelstaten, vermeld in punt 2°, andere staten of hun deelgebieden zakelijkrechthouder zijn;<br>
-2° beheersmaatregelen, werkzaamheden of diensten aan of in een onroerend goed, eigendom van het Vlaamse Gewest of de Vlaamse Gemeenschap;<br>
-3° beheersmaatregelen, werkzaamheden of diensten aan of in een onroerend goed, eigendom van een provincie of een autonoom provinciebedrijf.<br>
+1° werken of diensten aan of in een onroerend goed waarvan de Belgische staat, federale instellingen, andere deelstaten dan de deelstaten, vermeld in punt 2°, andere staten of hun deelgebieden zakelijkrechthouder zijn;<br>
+2° werken of diensten aan of in een onroerend goed, eigendom van het Vlaamse Gewest of de Vlaamse Gemeenschap;<br>
+3° werken of diensten aan of in een onroerend goed, eigendom van een provincie of een autonoom provinciebedrijf.<br>
 <br>
-In afwijking van het eerste lid kunnen wel premies worden toegekend voor beheersmaatregelen, werkzaamheden of diensten aan of in:<br>
+In afwijking van het eerste lid kunnen wel premies worden toegekend voor werken of diensten aan of in:<br>
 1° kathedralen, bisschoppelijke of aartsbisschoppelijke paleizen en seminaries;<br>
 2° onderwijsgebouwen;<br>
 3° onroerende goederen, in erfpacht gegeven aan de nv Participatiemaatschappij Vlaanderen;<br>
@@ -2309,15 +2336,35 @@ In afwijking van het eerste lid kunnen wel premies worden toegekend voor beheers
 6° onroerende goederen in het domein Bokrijk;<br>
 7° onroerende goederen of erfgoedlandschappen, die uitgevoerd worden door of in opdracht van verenigingen die het herstel en het beheer van een beschermd goed of erfgoedlandschap tot doel hebben, als het beheer over de onroerende goederen in kwestie voor een periode van minstens vijf jaar schriftelijk eraan is toegewezen.
 
+### ART 11.1.2.
+
+De werken en diensten kunnen ook gefinancierd worden met andere overheidsbijdragen. De gezamenlijke overheidsbijdragen, met inbegrip van eventuele Europese middelen, kunnen evenwel niet meer bedragen dan de totale en aangetoonde kostprijs van de uitgevoerde werken en diensten.<br>
+<br>
+Als andere overheidsbijdragen aangevraagd worden, voegt de premienemer bij het verzoek tot uitbetaling van het saldo van de erfgoedpremie of onderzoekspremie een volledig overzicht van die andere overheidsbijdragen. Als blijkt dat de gezamenlijke overheidsbijdragen 100% overschrijden, wordt de premie verminderd tot de gezamenlijke overheidsbijdrage gelijk is aan 100% van de totale en aangetoonde kostprijs. Het agentschap brengt de aanvrager onverwijld op de hoogte van de beslissing om die voormelde vermindering toe te passen.<br>
+<br>
+Voor hetzelfde werk of dezelfde dienst is een cumulatie tussen de volgende premies en fiscale voordelen uitgesloten:<br>
+1° een erfgoedpremie volgens de standaardprocedure:<br>
+2° een erfgoedpremie via oproep;<br>
+3° een onderzoekspremie;<br>
+4° een premie voor archeologisch vooronderzoek met ingreep in de bodem;<br>
+5° een premie voor buitensporige opgravingskosten;<br>
+6° een belastingvermindering, als vermeld in artikel 145/36 van het Wetboek van de inkomstenbelastingen 1992;<br>
+7° een verlaging van de schenkbelasting, als vermeld in artikel 2.8.4.4.1 Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
+8° een verlaging van de verkooprechten, als vermeld in artikel 2.9.4.2.10 Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
+9° een erfgoedpremie volgens de bijzondere procedure;<br>
+10° een restauratiepremie op basis van het besluit van de Vlaamse Regering van 14 december 2001 houdende vaststelling van het premiestelsel voor restauratiewerkzaamheden aan beschermde monumenten.<br>
+<br>
+Een beheersvergoeding op basis van een beheersovereenkomst als vermeld in artikel 10.2.1 kan niet gecumuleerd worden met de premies en de fiscale voordelen, vermeld in het derde lid
+
 ## Afdeling 2 Erfgoedpremie
 
 ## Onderafdeling 1 Beheersmaatregelen, werkzaamheden of diensten waarvoor een erfgoedpremie aangevraagd kan worden
 
 ### ART. 11.2.1.
 
-Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kan aan een premienemer een erfgoedpremie worden toegekend voor beheersmaatregelen, werkzaamheden of diensten die noodzakelijk zijn voor het behoud of de herwaardering van erfgoedkenmerken en -elementen van een beschermd goed, een erfgoedlandschap of in de overgangszone bij een beschermd goed.<br>
+Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kan aan een premienemer een erfgoedpremie worden toegekend voor werken of diensten die noodzakelijk zijn voor het behoud of de herwaardering van erfgoedkenmerken en -elementen van een beschermd goed, een erfgoedlandschap of in de overgangszone bij een beschermd goed.<br>
 <br>
-In de volgende gevallen moeten de beheersmaatregelen, de werkzaamheden of de diensten waarvoor een premie wordt aangevraagd vermeld zijn in een goedgekeurd beheersplan:<br>
+In de volgende gevallen moeten de werken of diensten waarvoor een premie wordt aangevraagd vermeld zijn in een goedgekeurd beheersplan:<br>
 1° het project betreft goederen gelegen in beschermde stads- en dorpsgezichten, beschermde cultuurhistorische landschappen, erfgoedlandschappen of beschermde archeologische sites;<br>
 2° het project betreft UNESCO-werelderfgoed. Een door UNESCO goedgekeurd management plan voor de betrokken locatie geldt als goedgekeurd beheersplan;<br>
 3° het project betreft erkend open erfgoed of een ontwikkeling tot open erfgoed;<br>
@@ -2330,21 +2377,23 @@ Er kan voor cultuurgoederen alleen een erfgoedpremie worden toegekend voor   het
 
 ### ART. 11.2.3.
 
-<P>&nbsp;Een aanvraag van een erfgoedpremie voor het beheer van of voor   werkzaamheden aan een orgel kan alleen in overweging worden genomen als de   voorgestelde beheersmaatregelen, werkzaamheden of diensten passen in een   duidelijk bestemmings- of herbestemmingsplan voor het gebouw waarin het orgel   zich bevindt. Bovendien moet de aanvrager aantonen dat het orgel op regelmatige   basis zal worden bespeeld.<BR></P>  <P>Alleen beheersmaatregelen, werkzaamheden of diensten die gericht zijn op het   opnieuw bespeelbaar maken of het bespeelbaar houden van het orgel komen in   aanmerking voor een erfgoedpremie.<BR></P>  <P>Beheersmaatregelen, werkzaamheden of diensten aan een orgel dat dateert van   na de Eerste Wereldoorlog komen niet in aanmerking voor een erfgoedpremie,   tenzij het orgel zich in een beschermd monument bevindt en expliciet vermeld   wordt in het besluit tot definitieve bescherming of in het goedgekeurde   beheersplan.<BR></P>
+<p>&nbsp;Een aanvraag van een erfgoedpremie voor het beheer van of voor werkzaamheden aan een orgel kan alleen in overweging worden genomen als de voorgestelde werken of diensten passen in een duidelijk bestemmings- of herbestemmingsplan voor het gebouw waarin het orgel zich bevindt. Bovendien moet de aanvrager aantonen dat het orgel op regelmatige basis zal worden bespeeld.</p>
+
+<p>Alleen werken of diensten die gericht zijn op het opnieuw bespeelbaar maken of het bespeelbaar houden van het orgel komen in aanmerking voor een erfgoedpremie.</p>
+
+<p>Werken of diensten aan een orgel dat dateert van na de Eerste Wereldoorlog komen niet in aanmerking voor een erfgoedpremie, tenzij het orgel zich in een beschermd monument bevindt en expliciet vermeld wordt in het besluit tot definitieve bescherming of in het goedgekeurde beheersplan.</p>
 
 ### ART. 11.2.4.
 
-De volgende beheersmaatregelen, werkzaamheden of diensten komen enkel in aanmerking voor een erfgoedpremie onder de hieronder vermelde voorwaarden:<br>
-1° ingrepen in functie van regulier onderhoud, als ze zijn opgenomen in de vastgestelde lijst met forfaitaire werkzaamheden;<br>
-2° energiebesparende maatregelen ter uitvoering van aanbevelingen in een energieaudit, beveiligingswerkzaamheden en werkzaamheden of diensten die opgelegd zijn door andere regelgevingen, als in functie hiervan:<br>
-a) erfgoedkenmerken en -elementen moeten worden aangepast;<br>
-b) nieuwe elementen worden toegevoegd, er daarover randvoorwaarden worden gesteld in de toelating of in het advies, vermeld in artikel 6.4.4, § 1 en § 2, van het Onroerenderfgoeddecreet van 12 juli 2013 en die randvoorwaarden meerkosten veroorzaken. Die meerkosten komen integraal in aanmerking voor een premie. De meerkosten worden aangetoond door de aanvrager.
+...
 
 ## Onderafdeling 2 Twee procedures voor het aanvragen van de erfgoedpremie
 
 ### ART. 11.2.5.
 
-&nbsp;De erfgoedpremie kan worden aangevraagd volgens twee   procedures:<BR>1° de standaardprocedure, waarbij maximaal 25.000 euro van de   aanvaarde kostenraming in aanmerking wordt genomen voor de berekening van de   erfgoedpremie;<BR>2° de bijzondere procedure, waarbij de werkelijke, aanvaarde,   kostenraming in aanmerking wordt genomen voor de berekening van de erfgoedpremie   en waarbij de premienemer na toekenning ervan de werkzaamheden moet gunnen en de   offertes moet indienen bij het agentschap.<BR>
+&nbsp;De erfgoedpremie kan worden aangevraagd volgens twee procedures:<br>
+1° de standaardprocedure, waarbij maximaal 250.000 euro, exclusief btw, van de aanvaarde kostenraming in aanmerking wordt genomen voor de berekening van de erfgoedpremie;<br>
+2° de procedure via oproep, waarbij de werkelijke, aanvaarde, kostenraming in aanmerking wordt genomen voor de berekening van de erfgoedpremie en waarbij de premienemer na toekenning ervan de werkzaamheden moet gunnen en de offertes moet indienen bij het agentschap.
 
 ## Onderafdeling 3 [... (opgeh. BVR 16 oktober 2020, art. 1, I: 10 december 2020)]
 
@@ -2356,11 +2405,13 @@ b) nieuwe elementen worden toegevoegd, er daarover randvoorwaarden worden gestel
 
 ### ART. 11.2.7.
 
-De erfgoedpremie wordt berekend op basis van de aanvaarde kostenraming.   Bij de standaardprocedure, als vermeld in onderafdeling 7 en 8, wordt maximaal   25.000 euro van de aanvaarde kostenraming in aanmerking   genomen.<BR>
+De erfgoedpremie wordt berekend op basis van de aanvaarde kostenraming. Bij de standaardprocedure, vermeld in onderafdeling 8 en 9, wordt maximaal 250.000 euro, exclusief btw, van de aanvaarde kostenraming in aanmerking genomen.<br>
+<br>
+De minister kan na mededeling aan de Vlaamse Regering beslissen om het maximale bedrag van de aanvaarde kostenraming, vermeld in het eerste lid, te verlagen. Het bedrag van de aanvaarde kostenraming kan niet lager zijn dan 50.000 euro, exclusief btw. De verlaging is van onbepaalde duur en geldt totdat de minister die opheft of wijzigt. Voor ontvankelijke premieaanvragen die ingediend zijn vóór de beslissing tot verlaging of wijziging, wordt het bedrag van de maximale aanvaarde kostenraming toegepast dat gold voor de verlaging of wijziging.
 
 ### ART. 11.2.8.
 
-Een premienemer kan voor beheersmaatregelen, werkzaamheden of diensten   waarvoor een erfgoedpremie wordt aangevraagd een beroep doen op gespecialiseerde   opleidingscentra of instellingen die zorgen voor de opleiding of tewerkstelling   van werkzoekenden. De erfgoedpremie wordt in dat geval bepaald op basis van de   bedragen vermeld in de door de minister vastgestelde lijst met forfaitaire   werkzaamheden, of wordt berekend op basis van de aankoopprijs van materialen of   de huurprijs van toestellen en stellingen.<BR>
+Een premienemer kan voor werken of diensten waarvoor een erfgoedpremie wordt aangevraagd een beroep doen op gespecialiseerde opleidingscentra of instellingen die zorgen voor de opleiding of tewerkstelling van werkzoekenden. De erfgoedpremie wordt in dat geval bepaald op basis van de bedragen vermeld in de door de minister vastgestelde lijst met forfaitaire werkzaamheden, of wordt berekend op basis van de aankoopprijs van materialen of de huurprijs van toestellen en stellingen.
 
 ## Onderafdeling 5 Premiepercentages
 
@@ -2399,37 +2450,44 @@ Als de locatie minder dan twaalf jaar voldoet aan de erkenningsvoorwaarden voor 
 <br>
 De premienemer voegt daarvoor bij de aanvraag een uittreksel van een onderhoudslogboek dat betrekking heeft op de periode van zes jaar die voorafgaat aan de aanvraag.<br>
 <br>
-§ 2. Een aanvullende premie van 10% van de aanvaarde kostenraming, exclusief btw, wordt toegekend voor beheersmaatregelen, werkzaamheden of diensten aan beschermde goederen of erfgoedlandschappen:<br>
+§ 2. Een aanvullende premie van 10% van de aanvaarde kostenraming, exclusief btw, wordt toegekend voor werken of diensten aan beschermde goederen of erfgoedlandschappen:<br>
 1° die uitgevoerd worden door of in opdracht van een stichting of vereniging met rechtspersoonlijkheid die het herstel en beheer van beschermde goederen of erfgoedlandschappen tot doel heeft;<br>
 2° waarvan minstens de helft van de gebouwde onroerende goederen in het beheer van die stichting of vereniging met rechtspersoonlijkheid beschermd is;<br>
 3° en waarbij het beheer over de onroerende goederen in kwestie voor een periode van minstens vijf jaar schriftelijk is toegewezen aan die stichting of vereniging met rechtspersoonlijkheid .<br>
 <br>
-§ 3. Een premie van 20% van de aanvaarde kostenraming, exclusief btw, wordt toegekend voor beheersmaatregelen, werkzaamheden of diensten die gericht zijn op een verbeterde inhoudelijke of fysieke ontsluiting van het erkende open erfgoed of het onroerend erfgoed dat ontwikkeld wordt tot open erfgoed, op voorwaarde dat het gaat om ingrepen aan de locatie zelf en in de mate dat het eindproduct een fysiek en permanent karakter heeft.
+§ 3. Een premie van 20% van de aanvaarde kostenraming, exclusief btw, wordt toegekend voor werken of diensten die gericht zijn op een verbeterde inhoudelijke of fysieke ontsluiting van het erkende open erfgoed of het onroerend erfgoed dat ontwikkeld wordt tot open erfgoed, op voorwaarde dat het gaat om ingrepen aan de locatie zelf en in de mate dat het eindproduct een fysiek en permanent karakter heeft.
 
 ### ART. 11.2.13.
 
-De beheersmaatregelen, werkzaamheden en diensten mogen ook gefinancierd worden met andere overheidsbijdragen. De gezamenlijke overheidsbijdragen, met inbegrip van eventuele Europese middelen, kunnen evenwel niet meer bedragen dan de totale en aangetoonde kostprijs van de uitgevoerde beheersmaatregelen, werkzaamheden en diensten.<br>
-<br>
-Als andere overheidsbijdragen aangevraagd worden, voegt de premienemer bij het verzoek tot uitbetaling van het saldo van de erfgoedpremie een volledig overzicht van die andere overheidsbijdragen. Als blijkt dat de gezamenlijke overheidsbijdragen 100% overschrijden, zal de premie verminderd worden tot de gezamenlijke overheidsbijdrage gelijk is aan 100% van de totale en aangetoonde kostprijs. Het agentschap deelt de beslissing om daartoe over te gaan onverwijld mee aan de aanvrager.<br>
-<br>
-Een cumulatie van een erfgoedpremie aangevraagd volgens de standaardprocedure, een erfgoedpremie aangevraagd volgens de bijzondere procedure, een onderzoekspremie, een premie voor archeologisch vooronderzoek met ingreep in de bodem of een premie voor buitensporige opgravingskosten voor eenzelfde beheersmaatregel, werk, dienst of verplicht uit te voeren archeologisch onderzoek aan of in eenzelfde beschermd goed is uitgesloten.
+...
 
 ## Onderafdeling 6 Aantal aanvragen voor een erfgoedpremie per kalenderjaar
 
 ### ART. 11.2.14.
 
-<p>Er kan in hetzelfde kalenderjaar voor hetzelfde beschermde goed, hetzelfde erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt, voor elk van de volgende drie categorieën&nbsp; hoogstens één erfgoedpremie aangevraagd worden volgens de standaardprocedure:<br>
-1° beheer van of werkzaamheden of diensten aan het exterieur;<br>
-2° beheer van of werkzaamheden of diensten aan waardevolle interieurelementen en -kenmerken van een beschermd monument en cultuurgoederen die er integrerend deel van uitmaken;<br>
-3° ontsluitingswerkzaamheden die gericht zijn op de verbeterde inhoudelijke of fysieke ontsluiting van open erfgoed.</p>
-
-<p>In afwijking van het eerste lid kan een premienemer in hetzelfde kalenderjaar voor het beheer van of werkzaamheden of diensten, zoals bedoeld in het eerste lid, punt 1, aan hetzelfde beschermde cultuurhistorisch landschap, hetzelfde erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt, in aanmerking komen voor twee erfgoedpremies aangevraagd volgens de standaardprocedure.</p>
+<p>Er kan in hetzelfde kalenderjaar voor hetzelfde beschermde goed, hetzelfde erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt, hoogstens één erfgoedpremie aangevraagd worden volgens de standaardprocedure op voorwaarde dat het totaalbedrag van de aanvaarde kostenramingen van de werken of diensten waarvoor een erfgoedpremie volgens de standaardprocedure wordt aangevraagd in een periode van vijf opeenvolgende jaren niet meer dan 500.000 euro is.<br>
+<br>
+In afwijking van het eerste lid kan een premienemer in hetzelfde kalenderjaar voor werken of diensten aan hetzelfde beschermde cultuurhistorisch landschap, hetzelfde erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt, in aanmerking komen voor twee erfgoedpremies volgens de standaardprocedure op voorwaarde dat het totaalbedrag van de aanvaarde kostenramingen van de werken en diensten waarvoor een erfgoedpremie volgens de standaardprocedure wordt aangevraagd in een periode van vijf opeenvolgende jaren niet meer is dan 500.000 euro voor hetzelfde beschermde cultuurhistorisch landschap, hetzelfde erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt.<br>
+<br>
+Als blijkt dat het totaalbedrag van de gezamenlijke aanvaarde kostenramingen vermeld in het eerste en tweede lid meer dan 500.000 euro is, zal de aanvaarde kostenraming van de laatst aangevraagde erfgoedpremie volgens de standaardprocedure verlaagd worden.</p>
 
 ## Onderafdeling 7 Wijziging van de zakelijkrechthouder van de onroerende goederen, wijziging van de premienemer en wijziging van de werken waarvoor de premie is aangevraagd
 
 ### ART. 11.2.15.
 
-<P>De wijziging van de zakelijkrechthouder van onroerende goederen die het   voorwerp vormen van een premieaanvraag is mogelijk. Het agentschap moet daarvan   bij het verlijden van de akte of in voorkomend geval bij de vestiging van het   vruchtgebruik door de premienemer op de hoogte worden gebracht.<BR></P>  <P>Als de premienemer niet wordt gewijzigd, moet het agentschap in het bezit   worden gesteld van de formele bevestiging van de nieuwe eigenaar of van de   zakelijkrechthouder dat de oorspronkelijke premienemer met zijn goedkeuring de   opdrachtgever blijft van de beheersmaatregelen, werkzaamheden of diensten, en de   kosten ervan draagt.<BR></P>  <P>De wijziging van premienemer is mogelijk op voorwaarde dat de nieuwe   premienemer de opdrachtgever is van de beheersmaatregelen, werkzaamheden of   diensten en dat hij de kosten ervan draagt.<BR></P>  <P>Een premienemer kan nog gewijzigd worden:<BR>1° als het gaat om een aanvraag   van een erfgoedpremie volgens de standaardprocedure, tot op het moment van de   aanvraag tot uitbetaling van de premie;<BR>2° als het gaat om een aanvraag van   een erfgoedpremie volgens de bijzondere procedure, zolang de geplande   beheersmaatregelen, werkzaamheden of diensten nog niet gestart zijn, of zolang   er nog geen voorschot is uitbetaald.<BR></P>  <P>De wijziging van premienemer vereist het akkoord van de oorspronkelijke en de   nieuwe premienemer en van het agentschap.<BR></P>  <P>Bij de wijziging van premienemer kan geen hoger premiepercentage worden   toegekend, ook niet als het statuut van de nieuwe premienemer dat bepaalt. De   premie zal echter wel worden verlaagd als het gaat om een verhoogde premie, en   als de nieuwe premienemer niet langer voldoet aan de voorwaarden om in   aanmerking te komen voor een verhoogde premie.<BR></P>
+<p>De wijziging van de zakelijkrechthouder van onroerende goederen die het voorwerp vormen van een premieaanvraag is mogelijk. Het agentschap moet daarvan bij het verlijden van de akte of in voorkomend geval bij de vestiging van het vruchtgebruik door de premienemer op de hoogte worden gebracht.</p>
+
+<p>Als de premienemer niet wordt gewijzigd, moet het agentschap in het bezit worden gesteld van de formele bevestiging van de nieuwe eigenaar of van de zakelijkrechthouder dat de oorspronkelijke premienemer met zijn goedkeuring de opdrachtgever blijft van de beheersmaatregelen, werkzaamheden of diensten, en de kosten ervan draagt.</p>
+
+<p>De wijziging van premienemer is mogelijk op voorwaarde dat de nieuwe premienemer de opdrachtgever is van de beheersmaatregelen, werkzaamheden of diensten en dat hij de kosten ervan draagt.</p>
+
+<p>Een premienemer kan nog gewijzigd worden:<br>
+1° als het gaat om een aanvraag van een erfgoedpremie volgens de standaardprocedure, tot op het moment van de aanvraag tot uitbetaling van de premie;<br>
+2° als het gaat om een aanvraag van een erfgoedpremie via oproep, zolang de geplande&nbsp;werken of diensten nog niet gestart zijn, of zolang er nog geen voorschot is uitbetaald.</p>
+
+<p>De wijziging van premienemer vereist het akkoord van de oorspronkelijke en de nieuwe premienemer en van het agentschap.</p>
+
+<p>Bij de wijziging van premienemer kan geen hoger premiepercentage worden toegekend, ook niet als het statuut van de nieuwe premienemer dat bepaalt. De premie zal echter wel worden verlaagd als het gaat om een verhoogde premie, en als de nieuwe premienemer niet langer voldoet aan de voorwaarden om in aanmerking te komen voor een verhoogde premie.</p>
 
 ### ART. 11.2.16.
 
@@ -2439,37 +2497,47 @@ De premienemer voert de aangevraagde werken volledig en volgens het   goedgekeur
 
 ### ART. 11.2.17.
 
-De beheersmaatregelen, werkzaamheden of diensten waarvoor een   erfgoedpremie wordt gevraagd volgens de standaardprocedure mogen pas worden   gestart na de vastlegging van de premie.<BR>
+De werken of diensten&nbsp;waarvoor een erfgoedpremie wordt gevraagd volgens de standaardprocedure mogen pas worden gestart na ontvangst van de beslissing vermeld in artikel 11.2.20, eerste lid.
 
 ### ART. 11.2.18.
 
-<p>De premienemer dient de aanvraag voor de erfgoedpremie volgens de standaardprocedure in bij het agentschap. Het aanvraagdossier bevat, als dat van toepassing is:<br>
+<p>De premienemer dient de aanvraag voor de erfgoedpremie volgens de standaardprocedure schriftelijk of via het daarvoor voorziene digitale platform in bij het agentschap.<br>
+<br>
+Het premiedossier bevat de volgende elementen, als die van toepassing zijn:<br>
 1° een volledig ingevuld en ondertekend aanvraagformulier dat ter beschikking wordt gesteld op de website van het agentschap;<br>
-2° een motivering van de geplande beheersmaatregelen, werkzaamheden of diensten, met duidelijke verwijzing naar de relevante bepalingen van het goedgekeurde beheersplan of de motivatie waarom een beheersplan niet nodig is;<br>
-3° een beschrijving van de geplande beheersmaatregelen, werkzaamheden of diensten, aangevuld met een kostenraming of een gedetailleerde verwijzing naar de door de minister vastgestelde lijst met forfaitaire werkzaamheden;<br>
-4° bij beschermde monumenten die bestemd zijn voor een erkende eredienst: het kerkenbeleidsplan van de gemeente of regio in kwestie of de datum van goedkeuring van het kerkenbeleidsplan als dat al aan het agentschap is bezorgd.<br>
-5° in voorkomend geval, een uittreksel van het onderhoudslogboek, vermeld in artikel 11.2.12, § 1, tweede lid;<br>
-6° in het geval van artikel 11.2.12, § 2, de statuten van de stichting of de vereniging, een bewijs dat het beheer van het onroerend goed in kwestie schriftelijk eraan is toegewezen voor een periode van minstens vijf jaar en een overzicht van de onroerende goederen in het beheer van de stichting of vereniging.</p>
-
-<p>De minister kan de nadere regels voor de inhoud van het aanvraagdossier bepalen.</p>
+2° een beschrijving van de huidige staat van het goed;<br>
+3° een beschrijving van de geplande handelingen;<br>
+4° een motivering van de geplande handelingen, in voorkomend geval met duidelijke verwijzing naar de relevante bepalingen van het goedgekeurde beheersplan of de motivatie waarom een beheersplan niet nodig is;<br>
+5° een kostenraming met uitsplitsing per post of een gedetailleerde verwijzing naar de door de minister vastgestelde lijst met forfaitaire werken;<br>
+6° bij beschermde monumenten die bestemd zijn voor een erkende eredienst: het kerkenbeleidsplan van de gemeente of regio in kwestie of de datum van goedkeuring van het kerkenbeleidsplan als dat al aan het agentschap is bezorgd;<br>
+7° in voorkomend geval, een uittreksel van het onderhoudslogboek, vermeld in artikel 11.2.12, § 1, tweede lid;<br>
+8° in het geval, vermeld in artikel 11.2.12, § 2, de statuten van de stichting of de vereniging, een bewijs dat het beheer van het onroerend goed in kwestie schriftelijk eraan is toegewezen voor een periode van minstens vijf jaar en een overzicht van de onroerende goederen in het beheer van de stichting of vereniging.<br>
+<br>
+De minister kan de nadere regels voor de inhoud van het premiedossier bepalen.</p>
 
 ### ART. 11.2.19.
 
-§ 1. De aanvraag van een erfgoedpremie volgens de standaardprocedure kan gelijktijdig ingediend worden met de aanvraag van de toelating voor de beheersmaatregelen, werkzaamheden, diensten of handelingen. Het agentschap stelt hiervoor op de website een gecombineerd aanvraagformulier ter beschikking. Een dergelijke gecombineerde aanvraag wordt ingediend bij het agentschap of, in voorkomend geval, bij de erkende onroerenderfgoedgemeente.<br>
+De aanvraag van een erfgoedpremie volgens de standaardprocedure kan gelijktijdig ingediend worden met de aanvraag van de toelating voor de geplande handelingen. Het agentschap stelt hiervoor op de website een gecombineerd aanvraagformulier ter beschikking. Een dergelijke gecombineerde aanvraag wordt schriftelijk of via het daarvoor voorziene digitale platform ingediend bij het agentschap.<br>
 <br>
-§ 2. Als de aanvraag wordt ingediend bij het agentschap, dan wordt de behandelingstermijn, vermeld in artikel 6.3.5, eerste lid, verlengd tot negentig dagen en geldt de vastlegging van de erfgoedpremie, vermeld in artikel 11.2.20, als toelating voor de aangevraagde beheersmaatregelen, werkzaamheden, diensten of handelingen.<br>
+In afwijking van artikel 6.3.5, eerste lid, wordt de behandelingstermijn van het agentschap verlengd tot 120 dagen.<br>
 <br>
-§ 3. Als de aanvraag wordt ingediend bij de erkende onroerenderfgoedgemeente, stuurt de onroerenderfgoedgemeente een kopie van de aanvraag en de bijhorende stukken door naar het agentschap binnen een termijn van vijf dagen, die ingaat de dag na de indiening ervan.
+In voorkomend geval stuurt het agentschap de aanvraag en de bijhorende documenten door naar de onroerenderfgoedgemeente binnen een termijn van vijf dagen, die ingaat op de dag na de indiening van de aanvraag.
 
 ### ART. 11.2.20.
 
-<p>Het agentschap onderzoekt de aanvraag inhoudelijk en neemt een beslissing binnen een termijn van negentig dagen, die ingaat op de dag na de&nbsp;indiening ervan. In geval van akkoord wordt de erfgoedpremie vastgelegd waarna een kopie van dit besluit&nbsp;schriftelijk aan de aanvrager wordt bezorgd.</p>
-
-<p>Als het dossier niet in aanmerking komt voor een erfgoedpremie volgens de standaardprocedure, onvolledig wordt bevonden of als de waarborgen voor een vakkundige uitvoering onvoldoende worden geacht, wordt onverwijld schriftelijk aan de aanvrager gemeld waarom de aanvraag wordt geweigerd, en in voorkomend geval in welke zin het dossier moet worden aangepast of aangevuld om voor goedkeuring in aanmerking te komen. Een aangepaste aanvraag moet aan die opmerkingen tegemoetkomen en kan overeenkomstig artikel 11.2.18 opnieuw worden ingediend.</p>
+<p>De minister beslist na inhoudelijk akkoord van het agentschap met het premiedossier over de toekenning van de premie binnen een termijn van 120 dagen, die ingaat op de dag na de indiening van de aanvraag van een erfgoedpremie. Het agentschap heeft de delegatie om binnen dezelfde termijn te beslissen over de toekenning van premies tot en met 50.000 euro. Het agentschap brengt de aanvrager schriftelijk of via het daarvoor voorziene digitale platform op de hoogte van de beslissing, in voorkomend geval samen met de beslissing van het agentschap over de toelating voor de aangevraagde handelingen.<br>
+<br>
+Als het premiedossier onvolledig is of geen onderzoek ten gronde toelaat, kan het agentschap binnen een termijn van 60 dagen, die ingaat op de dag na de dag waarop de aanvraag is ingediend, de aanvrager schriftelijk of via het daarvoor voorziene digitale platform vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarbinnen dat moet gebeuren. De termijn vermeld in het eerste lid wordt geschorst tijdens de voormelde termijn voor het toevoegen van ontbrekende gegevens of documenten. Als de aanvrager nalaat binnen deze termijn de ontbrekende gegevens of documenten bij te voegen, wordt de aanvraag geacht te zijn geweigerd. Het agentschap brengt de aanvrager hiervan schriftelijk of via het daarvoor voorziene digitale platform op de hoogte.<br>
+<br>
+Als het premiedossier niet in aanmerking komt voor een erfgoedpremie volgens de standaardprocedure of als de waarborgen voor een vakkundige uitvoering onvoldoende worden geacht, weigert het agentschap de aanvraag binnen een termijn van 120 dagen, die ingaat op de dag na de indiening van de aanvraag van een erfgoedpremie. Het agentschap brengt de aanvrager schriftelijk of via het daarvoor voorziene digitale platform op de hoogte van de beslissing.</p>
 
 ### ART. 11.2.21.
 
-&nbsp;De premienemer brengt het agentschap minstens vijftien dagen op voorhand schriftelijk op de hoogte van de start van de werken en van de vastgelegde uitvoeringstermijn.
+De premienemer start op straffe van verval van de premie met de werken of diensten binnen een termijn van één jaar, die ingaat op de dag na de beslissing vermeld in artikel 11.2.20, eerste lid. In uitzonderlijke omstandigheden en na uitdrukkelijke toestemming van het agentschap kan die termijn eenmalig verlengd worden met maximaal één jaar. Daarvoor richt de premienemer vóór de termijn verstreken is, schriftelijk of via het daarvoor voorziene digitale platform een gemotiveerd verzoek aan het agentschap.<br>
+<br>
+De premienemer brengt het agentschap minstens vijftien dagen op voorhand schriftelijk of via het daarvoor voorziene digitale platform op de hoogte van de start van de werken of diensten en van de vastgelegde uitvoeringstermijn.<br>
+<br>
+In geval van verval van de premie zoals vermeld in het eerste lid, kan de premienemer voor dezelfde werken of diensten geen nieuwe premie aanvragen gedurende een periode van een jaar, die ingaat op de dag na het verstrijken van de termijn van één jaar of de verlengde termijn vermeld in het eerste lid
 
 ### ART. 11.2.22.
 
@@ -2479,11 +2547,11 @@ Een premienemer is verplicht om op de werf aan te geven dat een   erfgoedpremie 
 
 ### ART. 11.2.23.
 
-<p>Na afloop van de beheersmaatregelen, werkzaamheden of diensten bezorgt de premienemer het agentschap een gedocumenteerd overzicht van de uitgevoerde beheersmaatregelen, werkzaamheden of diensten en vraagt hij&nbsp;schriftelijk de uitbetaling van de premie. De premienemer voegt bij de aanvraag in voorkomend geval de nodige betalingsbewijzen die aantonen dat de beheersmaatregelen, werkzaamheden of diensten die in aanmerking komen voor de premie, volledig betaald zijn.</p>
-
-<p>Na controle van de ingediende stukken en van de uitgevoerde beheersmaatregelen, werkzaamheden of diensten door het agentschap wordt de erfgoedpremie uitbetaald.</p>
-
-<p>Als de aanvraag tot uitbetaling onvolledig wordt bevonden of als de uitgevoerde beheersmaatregelen, werkzaamheden of diensten niet worden aanvaard, wordt aan de premienemer schriftelijk gemeld waarom de uitbetaling wordt geweigerd, en in welke zin het dossier in voorkomend geval kan worden aangepast of aangevuld om alsnog voor uitbetaling in aanmerking te komen. Een nieuwe aanvraag tot uitbetaling moet aan die opmerkingen tegemoetkomen en kan overeenkomstig het eerste lid opnieuw worden ingediend.</p>
+<p>Na afloop van de werken of diensten bezorgt de premienemer het agentschap een gedocumenteerd overzicht van de uitgevoerde werken of diensten en vraagt hij schriftelijk of via het daarvoor voorziene digitale platform de uitbetaling van de premie. De premienemer voegt bij de aanvraag in voorkomend geval de nodige betalingsbewijzen die aantonen dat de werken of diensten die in aanmerking komen voor de premie, volledig betaald zijn.<br>
+<br>
+Na controle van de ingediende stukken en van de uitgevoerde werken of diensten door het agentschap wordt de erfgoedpremie uitbetaald.<br>
+<br>
+Als de aanvraag tot uitbetaling onvolledig is of geen onderzoek ten gronde toelaat, kan het agentschap schriftelijk of via het daarvoor voorziene digitale platform vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarbinnen dat moet gebeuren. Als de aanvrager nalaat binnen deze termijn de ontbrekende gegevens of documenten bij te voegen, wordt de aanvraag geweigerd door het agentschap.</p>
 
 ### ART. 11.2.24.
 
@@ -2491,127 +2559,200 @@ Een premienemer is verplicht om op de werf aan te geven dat een   erfgoedpremie 
 
 ### ART. 11.2.25.
 
-Bij de uitbetaling van de erfgoedpremie volgens de standaardprocedure   wordt alleen rekening gehouden met de beheersmaatregelen, werkzaamheden of   diensten die werkelijk en volgens de regels van de kunst uitgevoerd zijn, die   door het agentschap goedgekeurd zijn en die in voorkomend geval bewezen kunnen   worden aan de hand van betalingsbewijzen.<BR>
+Bij de uitbetaling van de erfgoedpremie volgens de standaardprocedure wordt alleen rekening gehouden met de werken of diensten die werkelijk en volgens de regels van de kunst en volgens de beslissing vermeld in artikel 11.2.20 uitgevoerd zijn, en die, in voorkomend geval, bewezen kunnen worden aan de hand van betalingsbewijzen.
 
 ### ART. 11.2.26.
 
-<p>Een premienemer wordt geacht afstand te doen van de erfgoedpremie als hij niet, overeenkomstig artikel 11.2.25, verzoekt om de uitbetaling ervan binnen een termijn van twee jaar, die ingaat op de dag na de beslissing waarmee het agentschap de voorgestelde beheersmaatregelen, werkzaamheden of diensten goedkeurt.</p>
-
-<p>In uitzonderlijke omstandigheden en na uitdrukkelijke toestemming kan de termijn, vermeld in het eerste lid, eenmalig verlengd worden. Daarvoor richt de premienemer vóór het verstrijken termijn, vermeld in het eerste lid, schriftelijk, een gemotiveerd verzoek aan het agentschap.</p>
+<p>Een premienemer wordt geacht afstand te doen van de erfgoedpremie als hij niet verzoekt om de uitbetaling ervan als vermeld in artikel 11.2.25, binnen een termijn van drie jaar, die ingaat op de dag na de beslissing vermeld in artikel 11.2.20.<br>
+<br>
+In uitzonderlijke omstandigheden en na uitdrukkelijke toestemming kan de termijn, vermeld in het eerste lid, eenmalig verlengd worden met maximaal drie jaar. Daarvoor richt de premienemer vóór de termijn, vermeld in het eerste lid, verstreken is, schriftelijk of via het daarvoor voorziene digitale platform een gemotiveerd verzoek aan het agentschap.</p>
 
 ## [Onderafdeling 10. De erfgoedpremie via oproep (verv. BVR 11 december 2020, art. 29, I: 15 december 2020)]
 
 ### ART 11.2.27.
 
-De Vlaamse Regering kan beslissen om de toepassing van de aanvraagprocedure in deze onderafdeling te schorsen omdat de beschikbare kredieten op de begroting van de Vlaamse Gemeenschap onvoldoende zijn om nieuwe premies volgens de bijzondere procedure toe te kennen binnen een redelijke termijn. De schorsing is van onbepaalde duur en geldt totdat de Vlaamse Regering de schorsing opheft.<br>
+De minister kan een erfgoedpremie via oproep toekennen. Projecten worden geselecteerd via een preselectieronde met een jury waarna de geselecteerden een premiedossier kunnen indienen.<br>
+Enkel onroerend erfgoed dat in zijn totaliteit beschermd is, komt hiervoor in aanmerking.<br>
 <br>
-Tijdens de periode van schorsing kunnen geen nieuwe premies volgens de bijzondere procedure worden aangevraagd. Ontvankelijke premieaanvragen die ingediend zijn vóór de schorsingsperiode, worden behandeld volgens de regels in deze afdeling.
+De erfgoedpremie via oproep wordt berekend op de aanvaardbare kostenraming met toepassing van de premiepercentages, vermeld in onderafdeling 5.<br>
+<br>
+In afwijking van artikel 11.2.1, eerste lid, kunnen energiebesparende maatregelen, beveiligingswerkzaamheden en werken of diensten die opgelegd zijn door andere regelgeving ook in aanmerking komen voor een erfgoedpremie via oproep als dit bepaald is in de oproep en als voldaan is aan de voorwaarden daarin.
 
 ### ART. 11.2.27/1.
 
-<p>De beheersmaatregelen, werken en diensten waarvoor een erfgoedpremie wordt gevraagd volgens de bijzondere procedure mogen pas worden gestart na de toekenning ervan.</p>
-
-<p>In uitzonderlijke omstandigheden kan een premienemer beheersmaatregelen, werkzaamheden of diensten uitvoeren vóór de toekenning van de premie zonder dat hij het recht op de premie verliest. Hij dient daartoe, nadat hij de bevestiging heeft ontvangen dat de beheersmaatregelen, werkzaamheden of diensten in aanmerking komen voor een erfgoedpremie, een gemotiveerde aanvraag in bij het agentschap. Daarin geeft hij onder meer aan waarom niet langer gewacht kan worden, en welke beheersmaatregelen, werkzaamheden of diensten voorafgaand aan de toekenning van de erfgoedpremie zullen worden uitgevoerd.</p>
-
-<p>Het agentschap onderzoekt de aanvraag en neemt een beslissing binnen een termijn van vijfenveertig dagen, die ingaat op de dag na de ontvangst ervan. Het agentschap deelt die beslissing&nbsp;schriftelijk onverwijld mee aan de aanvrager.</p>
-
-<p>Alleen als het agentschap instemt met het feit dat er beheersmaatregelen, werkzaamheden of diensten vóór de toekenning van de premie worden uitgevoerd, en als de premienemer zich beperkt tot de beheersmaatregelen, werkzaamheden of diensten die in de goedkeuring vermeld zijn, verliest hij het recht op de premie niet.</p>
+<p>De werken en diensten waarvoor een erfgoedpremie via oproep wordt gevraagd, mogen pas worden gestart na de toekenning van de premie op straffe van verlies ervan.</p>
 
 ## [Onderafdeling 10/1. Oproep en preselectieronde (ing. BVR 11 december 2020, art. 32, I: 15 december 2020)]
+
+### ART 11.2.27/2.
+
+Overeenkomstig de door de Vlaamse Regering vastgelegde oproepenkalender en thema's lanceert de minister uiterlijk op 1 oktober oproepen als vermeld in artikel 11.2.27. De oproep wordt minstens bekendgemaakt op de website van het agentschap.<br>
+<br>
+De oproep bevat de volgende elementen:<br>
+1° het thema, de doelstelling en de doelgroep van de oproep;<br>
+2° het totaalbudget en in voorkomend geval, afwijkende premiepercentages;<br>
+3° de verdeelwijze van het totaalbudget onder de geselecteerde projecten;<br>
+4° de volgende elementen van de aanvraag- en selectieprocedure:<br>
+a) de indieningstermijnen voor het preselectie- en premiedossier;<br>
+b) de maximale uitvoeringstermijn van het project;<br>
+c) het minimumbedrag van de aanvaardbare kostenraming en, in voorkomend geval, het maximumbedrag van de aanvaardbare kostenraming;<br>
+d) de deelnemingsvoorwaarden, eventueel aangevuld met bijkomende voorwaarden;<br>
+e) de beoordelingscriteria, eventueel aangevuld met bijkomende criteria;<br>
+f) de dossiersamenstelling van het preselectiedossier, het premiedossier en de uitbetalingsaanvraag;<br>
+g) de selectieprocedure, de samenstelling en de nadere regels over de werking en organisatie van de jury.
+
+### ART 11.2.27/3.
+
+Een preselectiedossier als vermeld in artikel 11.2.27/5, komt in aanmerking voor een toekenning van een erfgoedpremie via oproep als het voldoet aan de volgende deelnemingsvoorwaarden:<br>
+1° het preselectiedossier is tijdig ingediend en bevat de documenten vermeld in artikel 11.2.27/5;<br>
+2° het project valt binnen het thema, de doelstelling en de doelgroep van de oproep;<br>
+3° het project wordt uitgevoerd binnen de termijn bepaald in de oproep;<br>
+4° de aanvaardbare kostenraming is gelijk aan of hoger dan het minimumbedrag bepaald in de oproep.<br>
+<br>
+In de oproep kan de minister de deelnemingsvoorwaarden verduidelijken, of bijkomende voorwaarden opnemen. Hij kan daarvoor eventuele bijkomende bewijsdocumenten bepalen in de dossiersamenstelling die is opgenomen in de oproep, vermeld in artikel 11.2.27/2, tweede lid.
+
+### ART 11.2.27/4.
+
+De preselectiedossiers, vermeld in artikel 11.2.27/5, die voldoen aan de deelnemingsvoorwaarden worden voor advies voorgelegd aan een jury.<br>
+<br>
+In de oproep bepaalt de minister de nadere regels over de selectieprocedure, de samenstelling, de werking en de organisatie van de jury. De jury bestaat uit erfgoedspecialisten of specialisten over niet-erfgoedgerelateerde aspecten. Minstens de helft van de leden van de jury behoort niet tot het agentschap.<br>
+<br>
+Het advies bevat minstens een evaluatie per preselectiedossier op basis van de beoordelingscriteria en een rangschikking van de projecten.<br>
+<br>
+De jury beoordeelt de preselectiedossiers op basis van minstens de volgende beoordelingscriteria:<br>
+1° de kwaliteit van het concept en de visie die aan de basis liggen van het project algemeen en binnen het thema van de oproep;<br>
+2° de kwaliteit van de uitvoering;<br>
+3° de maatschappelijke meerwaarde die de uitvoering van het project genereert;<br>
+4° het duurzame karakter;<br>
+5° de voorbeeldfunctie van het project algemeen en binnen het thema van de oproep;<br>
+6° de mate waarin het project bijdraagt tot innovatie binnen de onroerenderfgoedzorg;<br>
+7° de financiële en organisatorische haalbaarheid van het project.<br>
+<br>
+In de oproep bepaalt de minister het gewicht van de criteria en kan hij criteria verduidelijken of bijkomende criteria opnemen. Hij kan daarvoor eventuele bijkomende bewijsdocumenten bepalen in de dossiersamenstelling in de oproep, vermeld in 11.2.27/2, tweede lid.
+
+### ART 11.2.27/5.
+
+De premienemer dient uiterlijk op 1 februari van het jaar dat volgt op het jaar waarin de oproep is gelanceerd een preselectiedossier schriftelijk of via het daarvoor voorziene digitale platform in bij het agentschap.<br>
+<br>
+Het preselectiedossier bevat minstens al de volgende elementen:<br>
+1° een volledig ingevuld en ondertekend aanvraagformulier dat ter beschikking wordt gesteld op de website van het agentschap;<br>
+2° een conceptnota waaruit blijkt dat het aanvraagdossier voldoet aan de deelnemingsvoorwaarden en beoordelingscriteria in de oproep;<br>
+3° een globale kostenraming;<br>
+4° in voorkomend geval, de bijkomende documenten opgesomd in de dossiersamenstelling in de oproep.<br>
+<br>
+Het agentschap gaat na of het preselectiedossier voldoet aan de deelnemingsvoorwaarden. Als niet is voldaan aan de deelnemingsvoorwaarden brengt het agentschap de aanvrager hiervan schriftelijk of via het daarvoor voorziene digitale platform op de hoogte.<br>
+<br>
+De preselectiedossiers die voldoen aan de deelnemingsvoorwaarden worden conform artikel 11.2.27/4 voor advies voorgelegd aan een jury.<br>
+<br>
+De minister beslist uiterlijk op 1 juni van het jaar na de oproep op basis van het juryadvies welke projecten geselecteerd zijn om een premiedossier overeenkomstig artikel 11.2.28 in te dienen. De beslissing vermeldt de eventuele aanbevelingen of opmerkingen per project. Het agentschap brengt, na mededeling door de minister aan de Vlaamse Regering, de aanvragers schriftelijk of via het daarvoor voorziene digitale platform op de hoogte van de beslissing.
 
 ## [Onderafdeling 10/2. Dossier voor de aanvraag van een erfgoedpremie via oproep (ing. BVR 11 december 2020, art. 33, I: 15 december 2020)]
 
 ### ART. 11.2.28.
 
-<p>De premienemer dient de aanvraag voor de erfgoedpremie volgens de bijzondere procedure in bij het agentschap. Het aanvraagdossier bevat, als dat van toepassing is:<br>
-1° een volledig ingevuld en ondertekend aanvraagformulier dat ter beschikking wordt gesteld op de website van het agentschap;<br>
-2° een inventaris en opmetingstekeningen die de bestaande toestand weergeven;<br>
-3° een diagnosenota, die inzicht geeft in de technische en fysische problemen van het beschermde goed, het erfgoedlandschap of een deel ervan dat een opzichzelfstaand geheel vormt;<br>
-4° de motivering van de geplande beheersmaatregelen, werkzaamheden of diensten, gesitueerd binnen de globale visie op het toekomstige beheer van het goed, met duidelijke verwijzing naar de diagnosenota, en naar alle relevante stavingsstukken;<br>
-5° een gedetailleerde en volgens post geordende beschrijving van de beheersmaatregelen, werkzaamheden of diensten;<br>
-6° een kostenraming met uitsplitsing per post of de gedetailleerde verwijzing naar de door de minister vastgestelde lijst met forfaitaire werkzaamheden;<br>
-7° alle relevante documenten over de aanstelling van de ontwerper, of de motivatie waarom er geen ontwerper hoeft te worden aangesteld;<br>
-8° bij beschermde monumenten die bestemd zijn voor een erkende eredienst: het kerkenbeleidsplan van de gemeente of regio in kwestie of de datum van goedkeuring van het kerkenbeleidsplan als dat al aan het agentschap is bezorgd.<br>
-9° in voorkomend geval, een uittreksel van het onderhoudslogboek, vermeld in artikel 11.2.12, § 1, tweede lid;<br>
-10° in het geval van artikel 11.2.12, § 2, de statuten van de vzw, een bewijs dat het beheer van het onroerend goed in kwestie schriftelijk eraan is toegewezen voor een periode van minstens vijf jaar en een overzicht van de onroerende goederen in het beheer van de vzw.</p>
-
-<p>De minister kan de nadere regels voor de inhoud van het aanvraagdossier bepalen.</p>
+<p>De premienemer dient een premiedossier voor de erfgoedpremie via oproep schriftelijk of via het daarvoor voorziene digitale platform in bij het agentschap voor de uiterste indieningsdatum vermeld in de oproep.<br>
+<br>
+Het premiedossier bevat de volgende elementen, als die van toepassing zijn:<br>
+1° een volledig ingevuld en ondertekend aanvraagformulier, dat ter beschikking wordt gesteld op de website van het agentschap;<br>
+2° een beschrijving van de huidige staat van het goed;<br>
+3° een beschrijving van de geplande handelingen;<br>
+4° een motivering van de geplande handelingen, in voorkomend geval met duidelijke verwijzing naar de relevante bepalingen van het goedgekeurde beheersplan;<br>
+5° een kostenraming met uitsplitsing per post of een gedetailleerde verwijzing naar de door de minister vastgestelde lijst met forfaitaire werken;<br>
+6° bij beschermde monumenten die bestemd zijn voor een erkende eredienst: het kerkenbeleidsplan van de gemeente of regio in kwestie of de datum van goedkeuring van het kerkenbeleidsplan als dat al aan het agentschap is bezorgd;<br>
+7° in voorkomend geval, een uittreksel van het onderhoudslogboek, vermeld in artikel 11.2.12, § 1, tweede lid;<br>
+8° in het geval vermeld in artikel 11.2.12, § 2, de statuten van de stichting of de vereniging, een bewijs dat het beheer van het onroerend goed in kwestie schriftelijk eraan is toegewezen voor een periode van minstens vijf jaar en een overzicht van de onroerende goederen in het beheer van de stichting of de vereniging;<br>
+9° alle relevante documenten over de aanstelling van de ontwerper, of de motivatie waarom er geen ontwerper hoeft te worden aangesteld;<br>
+10° in voorkomend geval, de bijkomende documenten die zijn opgesomd in de dossiersamenstelling in de oproep;<br>
+<br>
+In de oproep bepaalt de minister de nadere regels voor de inhoud en de uiterste indieningsdatum voor het premiedossier. De uiterste indieningsdatum wordt telkens vastgelegd op 1 februari van een jaar dat volgt op het jaar waarin oproep is gelanceerd.</p>
 
 ## [Onderafdeling 10/3. Toekenning van de erfgoedpremie via oproep (ing. BVR 11 december 2020, art. 35, I: 15 december 2020)]
 
 ### ART. 11.2.29.
 
-§ 1. De aanvraag van een erfgoedpremie volgens de bijzondere procedure kan gelijktijdig ingediend worden met de aanvraag van de toelating voor de beheersmaatregelen, werkzaamheden, diensten of handelingen. Het agentschap stelt hiervoor op de website een gecombineerd aanvraagformulier ter beschikking. Een dergelijke gecombineerde aanvraag wordt ingediend bij het agentschap of, in voorkomend geval, bij de erkende onroerenderfgoedgemeente.<br>
+Het premiedossier kan gelijktijdig ingediend worden met de aanvraag van de toelating voor de geplande handelingen. Het agentschap stelt hiervoor op de website een gecombineerd aanvraagformulier ter beschikking. Een dergelijke gecombineerde aanvraag wordt schriftelijk of via het daarvoor voorziene digitale platform ingediend bij het agentschap.<br>
 <br>
-§ 2. Als de aanvraag wordt ingediend bij het agentschap, dan wordt de behandelingstermijn, vermeld in artikel 6.3.5, eerste lid, verlengd tot negentig dagen en geldt de beslissing, vermeld in artikel 11.2.30, waarbij de premieaanvraag ontvankelijk wordt verklaard als toelating voor de aangevraagde beheersmaatregelen, werkzaamheden, diensten of handelingen.<br>
+In afwijking van artikel 6.3.5, eerste lid, wordt de behandelingstermijn van het agentschap verlengd tot de datum van de beslissing over het premiedossier vermeld in artikel 11.2.30.<br>
 <br>
-§ 3. Als de aanvraag wordt ingediend bij de erkende onroerenderfgoedgemeente, dan stuurt de onroerenderfgoedgemeente een kopie van de aanvraag en de bijhorende stukken door naar het agentschap binnen vijf dagen vanaf de dag na de indiening.
+In voorkomend geval stuurt het agentschap de aanvraag en de bijhorende documenten door naar de onroerenderfgoedgemeente binnen een termijn van vijf dagen, die ingaat op de dag na de indiening van de aanvraag.
 
 ### ART. 11.2.30.
 
-<p>Het agentschap onderzoekt de aanvraag en neemt binnen negentig dagen, vanaf de datum van de&nbsp;indiening ervan een beslissing. Het agentschap deelt deze beslissing schriftelijk onverwijld mee aan de aanvrager.</p>
-
-<p>Als het dossier niet in aanmerking komt voor een erfgoedpremie volgens de bijzondere procedure, onvolledig wordt bevonden of als de waarborgen voor een vakkundige uitvoering onvoldoende worden geacht, wordt in de beslissing vermeld waarom de aanvraag wordt geweigerd, en in voorkomend geval in welke zin het dossier moet worden aangepast of aangevuld om voor goedkeuring in aanmerking te komen. Een aangepaste aanvraag moet aan die opmerkingen tegemoetkomen en kan overeenkomstig artikel 11.2.28 opnieuw worden ingediend.</p>
+<p>Het agentschap onderzoekt of het premiedossier in aanmerking komt voor een erfgoedpremie binnen een termijn van 120 dagen, die ingaat op de dag na de uiterste indiendatum vermeld in de oproep.<br>
+<br>
+Als het agentschap inhoudelijk akkoord is met het premiedossier, legt het agentschap het dossier voor aan de minister.<br>
+<br>
+Als het premiedossier onvolledig is of geen onderzoek ten gronde toelaat, kan het agentschap binnen een termijn van 60 dagen, die ingaat op de dag na de uiterste indiendatum vermeld in de oproep, de aanvrager schriftelijk of via het daarvoor voorziene digitale platform vragen om de ontbrekende gegevens of documenten bij het premiedossier te voegen, en de termijn bepalen waarbinnen dat moet gebeuren.<br>
+De termijn vermeld in het eerste lid wordt geschorst tijdens de voormelde termijn voor het toevoegen van ontbrekende gegevens of documenten. Als de aanvrager nalaat binnen deze termijn de ontbrekende gegevens of documenten bij te voegen, wordt het premiedossier geacht te zijn geweigerd. Het agentschap brengt de aanvrager hiervan schriftelijk of via het daarvoor voorziene digitale platform op de hoogte.<br>
+<br>
+Als het premiedossier niet in aanmerking komt voor een erfgoedpremie of als de waarborgen voor een vakkundige uitvoering onvoldoende worden geacht, weigert het agentschap de aanvraag. Het agentschap brengt de aanvrager schriftelijk of via het daarvoor voorziene digitale platform op de hoogte van de beslissing.</p>
 
 ### ART. 11.2.31.
 
-Als het agentschap zich inhoudelijk akkoord verklaart met de ingediende aanvraag, kan de minister een erfgoedpremie toekennen. Het agentschap deelt die beslissing schriftelijk onverwijld mee aan de aanvrager.
+Na inhoudelijk akkoord van het agentschap zoals vermeld in artikel 11.2.30, tweede lid, kan de minister een erfgoedpremie toekennen. Het agentschap brengt de aanvrager daarvan schriftelijk of via het daarvoor voorziene digitale platform op de hoogte, in voorkomend geval, samen met de beslissing van het agentschap, over de toelating voor de aangevraagde handelingen.
 
 ### ART. 11.2.32.
 
-Op verzoek van de premienemer kan de toekenning van de erfgoedpremie   worden uitgesteld, bijvoorbeeld met het oog op een fasering van de werken of   wegens bepaalde cofinanciering.<BR>
+...
 
 ### ART. 11.2.33.
 
-&nbsp;De premienemer stelt het agentschap minstens vijftien dagen op voorhand schriftelijk op de hoogte van de start van de werken en van de vastgelegde uitvoeringstermijn.
+De premienemer stelt het agentschap minstens vijftien dagen op voorhand schriftelijk of via het daarvoor voorziene digitale platform op de hoogte van de start van de werken of diensten.
 
 ### ART. 11.2.34.
 
-Na de kennisgeving van de toekenning van de erfgoedpremie dient de premienemer een gunningsdossier in bij het agentschap. Dat dossier omvat, als dat van toepassing is:<br>
+Na de kennisgeving van de toekenning van de erfgoedpremie&nbsp;via oproep dient de premienemer een gunningsdossier in bij het agentschap. Dat dossier omvat, als dat van toepassing is:<br>
 1° het bestek en de plannen waarop de inschrijvingen zijn gebaseerd, als de aanvraag, vermeld in artikel 11.2.28, is gewijzigd;<br>
 2° het toewijzingsbesluit, dat rekening houdt met de maatregelen ter bevordering van de kwaliteit, vermeld in afdeling 5;<br>
 3° de stedenbouwkundige vergunning of een omgevingsvergunning voor stedenbouwkundige handelingen en het verslag van de brandweer.
 
 ### ART. 11.2.35.
 
-<P>De leidend ambtenaar van het agentschap bevestigt het bedrag van de   erfgoedpremie of past het aan als het bedrag van de offerte op basis waarvan de   werkzaamheden worden gegund, lager is dan de goedgekeurde kostenraming. Het   bedrag van de erfgoedpremie wordt in dat geval herberekend op basis van de   geselecteerde offerten.<BR></P>  <P>Als in de periode, tussen de datum van de aanvaarde kostenraming en de datum   van de offerte van de uitvoerder aan wie de beheersmaatregelen, werkzaamheden of   diensten worden toegewezen, de prijsherzieningsindexen S en I, zoals   gepubliceerd door de bevoegde federale overheidsdienst, met meer dan 5 % zijn   gestegen of als in die periode het goed waarvoor een erfgoedpremie is verkregen,   bijkomende schade heeft opgelopen waarvan de kosten meer bedragen dan 5 % van de   aanvaarde kostenraming, kan, nadat de premienemer een schriftelijke en   gemotiveerde aanvraag heeft ingediend bij het agentschap, de erfgoedpremie   worden verhoogd. De premienemer bewijst dat hij met de gepaste zorgvuldigheid   getracht heeft de bijkomende schade te voorkomen. Het agentschap deelt de   beslissing daarover onverwijld mee aan de aanvrager.<BR></P>  <P>De verhoging van de erfgoedpremie wordt berekend op basis van een bedrag van   ten hoogste 10 % van de aanvaarde kostenraming en bedraagt maximaal 125.000   euro.<BR></P>
+<p>De leidend ambtenaar van het agentschap bevestigt het bedrag van de erfgoedpremie of past het aan als het bedrag van de offerte op basis waarvan de werkzaamheden worden gegund, lager is dan de goedgekeurde kostenraming. Het bedrag van de erfgoedpremie wordt in dat geval herberekend op basis van de geselecteerde offerten.</p>
 
 ## [Onderafdeling 11. Uitbetaling van de erfgoedpremie via oproep (verv. BVR 11 december 2020, art. 44, I: 15 december 2020)]
 
 ### ART. 11.2.36.
 
-De premienemer kan bij de start van de beheersmaatregelen, werkzaamheden   of diensten een voorschot van 50 % van de toegekende erfgoedpremie vragen. Hij   dient daarvoor een schriftelijke aanvraag in bij het agentschap. Die aanvraag   bevat, als dat van toepassing is:<BR>1° de bestelling van de beheersmaatregelen,   werkzaamheden of diensten;<BR>2° een afschrift van het aanvangsbevel;<BR>3° het   borgstellingbewijs;<BR>4° het rekeningnummer waarop de premie moet worden   gestort;<BR>5° de data van de werfvergaderingen.<BR>
+De premienemer kan bij de start van de werken of diensten een voorschot van 50 % van de toegekende erfgoedpremie vragen. Hij dient daarvoor schriftelijk of via het daarvoor voorziene digitale platform een aanvraag in bij het agentschap. Die aanvraag bevat, als dat van toepassing is:<br>
+1° de bestelling van de werken of diensten;<br>
+2° een afschrift van het aanvangsbevel;<br>
+3° het borgstellingbewijs;<br>
+4° het rekeningnummer waarop de premie moet worden gestort;<br>
+5° de data van de werfvergaderingen.
 
 ### ART. 11.2.37.
 
-<p>Het saldo van de erfgoedpremie kan, op schriftelijk verzoek van de premienemer, worden uitbetaald nadat hij het agentschap in het bezit heeft gesteld van:<br>
+<p>Het saldo van de erfgoedpremie kan, nadat de premienemer daar schriftelijk of via het daarvoor voorziene digitale platform toe verzoekt, worden uitbetaald nadat hij het agentschap in het bezit heeft gesteld van:<br>
 1° een eindverslag dat, als dat van toepassing is, de volgende documenten bevat:<br>
 a) de werfverslagen;<br>
-b) het proces-verbaal van de oplevering, aangevuld met een evaluatief relaas van de wijze waarop de aannemers de beheersmaatregelen, werkzaamheden of diensten hebben uitgevoerd;<br>
+b) het proces-verbaal van de oplevering, aangevuld met een evaluatief relaas van de wijze waarop de aannemers de werken of diensten hebben uitgevoerd;<br>
 c) de resultaten of verslagen van onderzoeken, analyses en controles, uitgevoerd tijdens en na de werken;<br>
 d) een vergelijkend fotografisch verslag;<br>
-e) een opgave van de ontwerper(s), de hoofdaannemer en de onderaannemers met vermelding van de uitgevoerde beheersmaatregelen, werkzaamheden of diensten en contactgegevens;<br>
+e) een opgave van de ontwerper(s), de hoofdaannemer en de onderaannemers met vermelding van de uitgevoerde werken of diensten en contactgegevens;<br>
 f) de richtlijnen voor verder beheer en onderhoud met het oog op de opgelegde toestandsrapporten;<br>
-g) de as-builtattesten, vermeld in artikel 4.2.7 van de Vlaamse Codex Ruimtelijke Ordening;<br>
-h) een beknopte toelichting bij de uitgevoerde beheersmaatregelen, werkzaamheden of diensten en de verwerkte materialen die niet in het premiedossier opgenomen waren;<br>
+g) de as-builtattesten, vermeld in artikel 4.2.9&nbsp;van de Vlaamse Codex Ruimtelijke Ordening;<br>
+h) een beknopte toelichting bij de uitgevoerde werken of diensten en de verwerkte materialen die niet in het premiedossier opgenomen waren;<br>
 i) productfiches van de aangewende materialen die niet in het premiedossier vermeld waren;<br>
 2° een afrekening, die volgens post gerelateerd is aan de kostenraming;<br>
-3° betalingsbewijzen die aantonen dat de beheersmaatregelen, werkzaamheden of diensten die in aanmerking komen voor de erfgoedpremie volledig betaald zijn.<br>
-4° als een aanvullende premie van 10%, als vermeld in artikel 11.2.12, § 1, werd aangevraagd, een uittreksel van een onderhoudslogboek dat betrekking heeft op de periode tussen de aanvraag en de toekenning van de premie.</p>
+3° betalingsbewijzen die aantonen dat de werken of diensten die in aanmerking komen voor de erfgoedpremie volledig betaald zijn.<br>
+4° als een aanvullende premie van 10%, als vermeld in artikel 11.2.12, § 1, werd toegekend, een uittreksel van een onderhoudslogboek dat betrekking heeft op de periode tussen de aanvraag en de toekenning van de premie.</p>
 
-<p>De minister kan de nadere regels voor de inhoud van de in te dienen documenten bepalen.</p>
+<p>In de oproep kan de minister de nadere regels voor de inhoud van de in te dienen documenten bepalen.</p>
 
-<p>Na controle van de ingediende stukken en de uitgevoerde beheersmaatregelen, werkzaamheden of diensten door het agentschap wordt de erfgoedpremie, in geval van akkoord, uitbetaald.</p>
+<p>Na controle van de ingediende stukken en de uitgevoerde werken of diensten door het agentschap wordt de erfgoedpremie, in geval van akkoord, uitbetaald.</p>
 
-<p>Als de aanvraag tot uitbetaling onvolledig wordt bevonden of de uitgevoerde beheersmaatregelen, werkzaamheden of diensten niet worden aanvaard, wordt gemeld waarom de uitbetaling wordt geweigerd, en in welke zin het dossier in voorkomend geval kan worden aangepast of aangevuld om alsnog voor uitbetaling in aanmerking te komen. Een nieuwe aanvraag tot uitbetaling moet aan die opmerkingen tegemoetkomen en kan overeenkomstig het eerste lid opnieuw worden ingediend.</p>
+<p>Als de aanvraag tot uitbetaling onvolledig wordt bevonden of de uitgevoerde werken of diensten niet worden aanvaard, wordt gemeld waarom de uitbetaling wordt geweigerd, en in welke zin het dossier in voorkomend geval kan worden aangepast of aangevuld om alsnog voor uitbetaling in aanmerking te komen. Een nieuwe aanvraag tot uitbetaling moet aan die opmerkingen tegemoetkomen en kan overeenkomstig het eerste lid opnieuw worden ingediend.</p>
 
 ### ART. 11.2.38.
 
-<P>Het in totaal uit te keren bedrag van een erfgoedpremie ligt niet hoger dan   het definitieve premiebedrag dat aan de premienemer is meegedeeld in de   toekenning of het besluit van de leidend ambtenaar van het agentschap, als het   bedrag van de erfgoedpremie met toepassing van artikel 11.2.35 is   verlaagd.<BR></P>  <P>Bij de afrekening van een toegekende erfgoedpremie neemt de premienemer   bijgevolg de aanvullende kosten voor de meer- en bijwerken voor zijn rekening   voor als het bedrag van de eindafrekening hoger is dan het definitieve   premiebedrag dat aan de premienemer is meegedeeld.<BR></P>  <P>In afwijking van het eerste lid kan een bijkomende erfgoedpremie aangevraagd   worden, als ingevolge onvoorzienbare omstandigheden tijdens de uitvoering van de   beheersmaatregelen, werkzaamheden of diensten bijkomende ingrepen, hetzij meer-   of bijwerken, noodzakelijk zijn die onmogelijk kunnen worden losgekoppeld van de   beheersmaatregelen, werkzaamheden of diensten die in uitvoering zijn. Daarvoor   wordt schriftelijk een gemotiveerde aanvraag ingediend bij het agentschap, op   basis waarvan de minister een bijkomende erfgoedpremie kan toekennen.<BR></P>  <P>Een bijkomende erfgoedpremie wordt berekend overeenkomstig de bepalingen van   onderafdeling&nbsp;4 en&nbsp;5 van deze afdeling. De totale omvang van de   bijkomende erfgoedpremie(s) kan ten hoogste 10 % bedragen van het definitieve   premiebedrag dat aan de premienemer is meegedeeld in de toekenning of het   besluit van de leidend ambtenaar van het agentschap, met een maximum van 125.000   euro.<BR></P>  <P>De onvoorzienbare beheersmaatregelen, werkzaamheden of diensten waarvoor een   bijkomende erfgoedpremie aangevraagd wordt, mogen onmiddellijk worden gegund en   volledig worden uitgevoerd zodra het agentschap de aanvraag inhoudelijk heeft   goedgekeurd.<BR></P>
+<p>Het in totaal uit te keren bedrag van een erfgoedpremie ligt niet hoger dan het definitieve premiebedrag dat aan de premienemer is meegedeeld in de toekenning of het besluit van de leidend ambtenaar van het agentschap, als het bedrag van de erfgoedpremie met toepassing van artikel 11.2.35 is verlaagd.</p>
+
+<p>Bij de afrekening van een toegekende erfgoedpremie neemt de premienemer bijgevolg de aanvullende kosten voor de meer- en bijwerken voor zijn rekening voor als het bedrag van de eindafrekening hoger is dan het definitieve premiebedrag dat aan de premienemer is meegedeeld.</p>
 
 ### ART. 11.2.39.
 
-&nbsp;Bij de uitbetaling van de erfgoedpremie wordt alleen rekening   gehouden met de diensten, beheersmaatregelen en werkzaamheden die werkelijk en   volgens de regels van de kunst zijn uitgevoerd, die door het agentschap   goedgekeurd zijn, en die in voorkomend geval bewezen kunnen worden aan de hand   van betalingsbewijzen.<BR>
+&nbsp;Bij de uitbetaling van de erfgoedpremie wordt alleen rekening gehouden met de werken of diensten die werkelijk en volgens de regels van de kunst en volgens de beslissing vermeld in artikel 11.2.30 zijn uitgevoerd, die door het agentschap goedgekeurd zijn, en die, in voorkomend geval, bewezen kunnen worden aan de hand van betalingsbewijzen.
 
 ### ART. 11.2.40.
 
@@ -2619,9 +2760,11 @@ i) productfiches van de aangewende materialen die niet in het premiedossier verm
 
 ### ART. 11.2.41.
 
-<p>Een premienemer wordt geacht afstand te doen van de erfgoedpremie volgens de bijzondere procedure als hij niet, overeenkomstig artikel 11.2.37, verzoekt om de uitbetaling ervan binnen een termijn van vijf jaar, die ingaat op de dag na de datum van het besluit van de leidend ambtenaar van het agentschap of zijn gemachtigde, waarbij het bedrag van de erfgoedpremie wordt bevestigd of aangepast.</p>
-
-<p>In uitzonderlijke omstandigheden en na uitdrukkelijke toestemming kan de termijn, vermeld in het eerste lid, eenmalig verlengd worden. Daarvoor richt de premienemer vóór het verstrijken van de termijn, vermeld in het eerste lid, een gemotiveerd verzoek aan het agentschap.</p>
+<p>In de volgende gevallen wordt een premienemer geacht afstand te doen van de erfgoedpremie via oproep:<br>
+1° hij heeft de werken of diensten niet uitgevoerd binnen de maximale uitvoeringstermijn vermeld in de oproep. De maximale uitvoeringstermijn gaat in op de dag na de dag van de toekenning vermeld in artikel 11.2.31;<br>
+2° hij heeft niet conform artikel 11.2.37 verzocht om de uitbetaling van het saldo van de erfgoedpremie binnen een termijn van een jaar, die ingaat op de dag na de laatste dag van de maximale uitvoeringstermijn vermeld in de oproep.<br>
+<br>
+In uitzonderlijke omstandigheden en na uitdrukkelijke toestemming van het agentschap kunnen de termijnen, vermeld in het eerste lid, eenmalig verlengd worden. Daarvoor richt de premienemer vóór de termijn, vermeld in het eerste lid, is verstreken, schriftelijk of via het daarvoor voorziene digitale platform een gemotiveerd verzoek aan het agentschap.</p>
 
 ## Afdeling 3 Onderzoekspremie
 
@@ -2645,11 +2788,7 @@ De onderzoekspremie wordt berekend op basis van de aanvaarde kostenraming.   Er 
 
 ### ART. 11.3.4.
 
-<p>De beheersmaatregelen, werkzaamheden en diensten mogen ook gefinancierd worden met andere overheidsbijdragen. De gezamenlijke overheidsbijdragen, met inbegrip van eventuele Europese middelen, kunnen evenwel niet meer bedragen dan de totale en aangetoonde kostprijs van de uitgevoerde beheersmaatregelen, werkzaamheden en diensten.</p>
-
-<p>Als andere overheidsbijdragen aangevraagd worden, voegt de premienemer bij het verzoek tot uitbetaling van het saldo van de onderzoekspremie een volledig overzicht van die andere overheidsbijdragen. Als blijkt dat de gezamenlijke overheidsbijdragen 100 % overschrijden, zal de premie verminderd worden tot de gezamenlijke overheidsbijdrage gelijk is aan 100 % van de totale en aangetoonde kostprijs. Het agentschap deelt de beslissing om daartoe over te gaan onverwijld mee aan de aanvrager.<br>
-<br>
-Een cumulatie van een erfgoedpremie aangevraagd volgens de standaardprocedure, een erfgoedpremie aangevraagd volgens de bijzondere procedure, een onderzoekspremie, een premie voor archeologisch vooronderzoek met ingreep in de bodem of een premie voor buitensporige opgravingskosten voor eenzelfde beheersmaatregel, werk, dienst of verplicht uit te voeren archeologisch onderzoek aan of in eenzelfde beschermd goed is uitgesloten.</p>
+<p>...</p>
 
 ## Onderafdeling 4 Aantal aanvragen voor een onderzoekspremie per kalenderjaar
 
@@ -2672,43 +2811,44 @@ De minister kan de nadere regels daarvoor bepalen.</p>
 
 ### ART. 11.3.7.
 
-De premienemer voert de diensten, beheersmaatregelen en werkzaamheden   volledig en volgens het goedgekeurde dossier uit. Eventuele wijzigingen moeten   vooraf voorgelegd worden aan en goedgekeurd worden door het   agentschap.<BR>
+De premienemer voert de werken of diensten volledig en volgens het goedgekeurde dossier uit. Eventuele wijzigingen moeten vooraf voorgelegd worden aan en goedgekeurd worden door het agentschap.
 
 ## Onderafdeling 6 Aanvragen van een onderzoekspremie
 
 ### ART. 11.3.7/1.
 
-De beheersmaatregelen, werkzaamheden of diensten waarvoor een   onderzoekspremie wordt gevraagd, mogen pas worden gestart na de vastlegging van   de premie.
+De werken of diensten waarvoor een onderzoekspremie wordt gevraagd, mogen pas worden gestart na de vastlegging van de premie.
 
 ### ART. 11.3.8.
 
-<p>De premienemer dient de aanvraag van de onderzoekspremie in bij het agentschap. Het aanvraagdossier bevat minstens volgende elementen:<br>
+<p>De premienemer dient de aanvraag van de onderzoekspremie in bij het agentschap. Het aanvraagdossier bevat minstens al de volgende elementen:<br>
 1° een volledig ingevuld en ondertekend aanvraagformulier dat ter beschikking wordt gesteld op de website van het agentschap;<br>
-2° een gedetailleerde omschrijving van de opdracht, overeenkomstig artikel 6.3.2, 2° ;<br>
-3° ...;<br>
-4° een raming van de kostprijs;<br>
-5° een voorstel van toewijzing van de opdracht, dat rekening houdt met de maatregelen ter bevordering van de kwaliteit vermeld in afdeling 5;<br>
-6° ...</p>
+2° een beschrijving van de geplande handelingen;<br>
+3° een motivering van de geplande handelingen;<br>
+4° een kostenraming;<br>
+5° een voorstel van toewijzing van de opdracht, dat rekening houdt met de maatregelen ter bevordering van de kwaliteit, vermeld in afdeling 5.</p>
 
 <p>De minister kan de nadere regels voor de inhoud van het aanvraagdossier bepalen.</p>
 
 ### ART. 11.3.9.
 
-§ 1. De aanvraag van een onderzoekspremie kan gelijktijdig ingediend worden met de aanvraag van de toelating voor de beheersmaatregelen, werkzaamheden, diensten of handelingen waarvoor een onderzoekspremie wordt aangevraagd. Het agentschap stelt hiervoor op de website een gecombineerd aanvraagformulier ter beschikking. Een dergelijke gecombineerde aanvraag wordt ingediend bij het agentschap of, in voorkomend geval, bij de erkende onroerenderfgoedgemeente.<br>
+De aanvraag van een onderzoekspremie kan gelijktijdig ingediend worden met de aanvraag van de toelating voor de geplande handelingen waarvoor een onderzoekspremie wordt aangevraagd. Het agentschap stelt hiervoor op de website een gecombineerd aanvraagformulier ter beschikking. Een dergelijke gecombineerde aanvraag wordt schriftelijk of via het daarvoor voorziene digitale platform ingediend bij het agentschap.<br>
 <br>
-§ 2. Als de aanvraag wordt ingediend bij het agentschap, dan wordt de behandelingstermijn, vermeld in artikel 6.3.5, eerste lid, verlengd tot negentig dagen en geldt de vastlegging van de onderzoekspremie, vermeld in artikel 11.3.10, als toelating voor de aangevraagde beheersmaatregelen, werkzaamheden, diensten of handelingen.<br>
+In afwijking van artikel 6.3.5, eerste lid, wordt de behandelingstermijn van het agentschap verlengd tot negentig dagen.<br>
 <br>
-§ 3. Als de aanvraag wordt ingediend bij de erkende onroerenderfgoedgemeente, stuurt de onroerenderfgoedgemeente een kopie van de aanvraag en de bijhorende stukken door naar het agentschap binnen een termijn vijf dagen, die ingaat de dag na de&nbsp;indiening ervan.
+In voorkomend geval, stuurt het agentschap de aanvraag en de bijhorende documenten door naar de onroerenderfgoedgemeente binnen een termijn van vijf dagen, die ingaat de dag na de indiening van de aanvraag.
 
 ### ART. 11.3.10.
 
-<p>Het agentschap onderzoekt of de aanvraag in aanmerking komt voor een onderzoekspremie, en neemt een beslissing binnen een termijn van negentig dagen, die ingaat op de dag na de&nbsp;indiening van de aanvraag.</p>
-
-<p>In geval van akkoord wordt de onderzoekspremie vastgelegd, waarna een kopie van dit besluit schriftelijk aan de aanvrager wordt bezorgd.</p>
-
-<p>Als het dossier niet in aanmerking komt voor een onderzoekspremie, onvolledig wordt bevonden of de waarborgen voor een vakkundige uitvoering onvoldoende worden geacht, wordt onverwijld schriftelijk aan de aanvrager gemeld waarom de aanvraag wordt geweigerd, en in voorkomend geval in welke zin het dossier moet worden aangepast om voor goedkeuring in aanmerking te komen. Een aangepaste aanvraag moet aan die opmerkingen tegemoetkomen, en kan overeenkomstig artikel 11.3.8 opnieuw worden ingediend.</p>
-
-<p>In geval van een voorafgaand onderzoek brengt de premienemer het agentschap minstens vijftien dagen voor de aanvang ervan schriftelijk op de hoogte van de start en van de vastgelegde uitvoeringstermijn ervan.</p>
+<p>Het agentschap onderzoekt of de aanvraag in aanmerking komt voor een onderzoekspremie, en neemt een beslissing binnen een termijn van negentig dagen, die ingaat op de dag na de indiening van de aanvraag.<br>
+<br>
+In geval van akkoord wordt de onderzoekspremie vastgelegd, waarna een kopie van dit besluit schriftelijk of via het daarvoor voorziene digitale platform aan de aanvrager wordt bezorgd, in voorkomend geval samen met de beslissing van het agentschap over de toelating voor de aangevraagde handelingen.<br>
+<br>
+Als de aanvraag onvolledig is of geen onderzoek ten gronde toelaat, kan het agentschap binnen een termijn van 60 dagen, die ingaat op de dag na de dag waarop de aanvraag is ingediend, de aanvrager schriftelijk of via het daarvoor voorziene digitale platform vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarbinnen dat moet gebeuren. De termijn vermeld in het eerste lid wordt geschorst tijdens de voormelde termijn voor het toevoegen van ontbrekende gegevens of documenten. Als de aanvrager nalaat binnen deze termijn de ontbrekende gegevens of documenten bij te voegen, wordt de aanvraag geacht te zijn geweigerd. Het agentschap brengt de aanvrager hiervan schriftelijk of via het daarvoor voorziene digitale platform op de hoogte.<br>
+<br>
+Als het dossier niet in aanmerking komt voor een onderzoekspremie of als de waarborgen voor een vakkundige uitvoering onvoldoende worden geacht, weigert het agentschap de aanvraag. Het agentschap brengt de aanvrager schriftelijk of via het daarvoor voorziene digitale platform op de hoogte van de beslissing.<br>
+<br>
+In geval van een voorafgaand onderzoek brengt de premienemer het agentschap minstens vijftien dagen voor de aanvang ervan schriftelijk of via het daarvoor voorziene digitale platform op de hoogte van de start en van de vastgelegde uitvoeringstermijn ervan.</p>
 
 ### ART. 11.3.11.
 
@@ -2718,7 +2858,7 @@ Een premienemer is verplicht bij het onroerend goed in kwestie en in alle   comm
 
 ### ART. 11.3.12.
 
-<p>De premienemer dient het beheersplan of het eindverslag van het voorafgaande onderzoek na oplevering van de opdracht in bij het agentschap en verzoekt schriftelijk om de uitbetaling van de onderzoekspremie. Hij voegt ook de nodige betalingsbewijzen toe die aantonen dat de werkzaamheden of diensten die in aanmerking komen voor de premie volledig betaald zijn.</p>
+<p>De premienemer dient het beheersplan of het eindverslag van het voorafgaande onderzoek na oplevering van de opdracht in bij het agentschap en verzoekt schriftelijk of via het daarvoor voorziene digitale platform om de uitbetaling van de onderzoekspremie. Hij voegt ook de nodige betalingsbewijzen toe die aantonen dat de werkzaamheden of diensten die in aanmerking komen voor de premie volledig betaald zijn.</p>
 
 <p>Als het beheersplan wordt goedgekeurd, of als vastgesteld wordt dat het voorafgaand onderzoek correct is uitgevoerd, gaat het agentschap over tot de uitbetaling van de onderzoekspremie.</p>
 
@@ -2726,7 +2866,7 @@ Een premienemer is verplicht bij het onroerend goed in kwestie en in alle   comm
 
 ### ART. 11.3.13.
 
-Bij de uitbetaling van de onderzoekspremie wordt alleen rekening gehouden   met de diensten, beheersmaatregelen en werkzaamheden die werkelijk en volgens de   regels van de kunst uitgevoerd zijn, die goedgekeurd zijn door het agentschap,   en, die bewezen kunnen worden aan de hand van   betalingsbewijzen.<BR>
+Bij de uitbetaling van de onderzoekspremie wordt alleen rekening gehouden met de werken of diensten die werkelijk en volgens de regels van de kunst uitgevoerd zijn, die goedgekeurd zijn door het agentschap, en, die bewezen kunnen worden aan de hand van betalingsbewijzen.
 
 ### ART. 11.3.14.
 
@@ -2736,13 +2876,15 @@ Te veel uitgekeerde bedragen moet de premienemer terugstorten binnen een termijn
 
 <p>Een premienemer wordt geacht afstand te doen van de onderzoekspremie als hij niet, overeenkomstig artikel 11.3.12, verzoekt om de uitbetaling ervan binnen twee jaar vanaf de dag die volgt op&nbsp;de kennisgeving van de beslissing waarmee het agentschap de uitvoering van voorafgaand onderzoek goedkeurt.</p>
 
-<p>In uitzonderlijke omstandigheden en na uitdrukkelijke toestemming kan de termijn, vermeld in het eerste lid, eenmalig verlengd worden. Daarvoor richt de premienemer vóór het verstrijken van de termijn, vermeld in het eerste lid, een gemotiveerd schriftelijk verzoek aan het agentschap.</p>
+<p>In uitzonderlijke omstandigheden en na uitdrukkelijke toestemming van het agentschap kan de termijn, vermeld in het eerste lid, eenmalig verlengd worden. Daarvoor richt de premienemer vóór de termijn verstreken is, schriftelijk of via het daarvoor voorziene digitale platform een gemotiveerd verzoek aan het agentschap.</p>
 
 ## [Onderafdeling 8 Ontsluiting van de onderzoeksresultaten (verv. BVR 14 december 2018, art. 135, I: 1 januari 2019)]
 
 ### ART. 11.3.16.
 
-Het agentschap kan de eindverslagen van een onderzoek als vermeld in artikel 11.3.5, ontsluiten.
+Het agentschap kan de eindverslagen van een onderzoek als vermeld in artikel 11.3.5, ontsluiten.<br>
+<br>
+De minister kan met het oog op de ontsluiting nadere regels bepalen voor de vorm van de eindverslagen, vermeld in het eerste lid.
 
 ## Afdeling 4 Meerjarenpremieovereenkomsten voor grote of langdurige werkzaamheden aan of in beschermde goederen of erfgoedlandschappen
 
@@ -2750,73 +2892,149 @@ Het agentschap kan de eindverslagen van een onderzoek als vermeld in artikel 11.
 
 ### ART. 11.4.1.
 
-Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kan de Vlaamse Regering meerjarenpremieovereenkomsten sluiten voor grote of langdurige werkzaamheden aan of in beschermde goederen of in erfgoedlandschappen.<br>
+Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kan de Vlaamse Regering na een oproep meerjarenpremieovereenkomsten sluiten voor grote of langdurige werken aan of in beschermde goederen of in erfgoedlandschappen.<br>
 <br>
-Tijdens de in artikel 11.2.27 vermelde schorsingsperiode, kunnen geen nieuwe meerjarenpremieovereenkomsten gesloten worden. Premieaanvragen op basis van meerjarige premieovereenkomsten die gesloten zijn voorafgaand aan de in artikel 11.2.27 vermelde schorsingsperiode, worden behandeld volgens de regels in deze afdeling.
+De Vlaamse Regering lanceert uiterlijk op 1 februari van het tweede of vierde jaar van de legislatuur één oproep. De oproep wordt minstens bekendgemaakt op de website van het agentschap.<br>
+<br>
+De oproep bevat:<br>
+1° het thema, de doelstelling en de doelgroep van de oproep;<br>
+2° het totaalbudget;<br>
+3° de verdeelwijze van het totaalbudget onder de geselecteerde projecten;<br>
+4° de aanvraag- en selectieprocedure:<br>
+a) de indieningstermijnen;<br>
+b) de maximale uitvoeringstermijn van het project;<br>
+c) het minimumbedrag van de aanvaardbare kostenraming;<br>
+d) de deelnemingsvoorwaarden, eventueel aangevuld met bijkomende voorwaarden;<br>
+e) de beoordelingscriteria, eventueel aangevuld met bijkomende criteria;<br>
+f) de dossiersamenstelling van het aanvraagdossier;<br>
+g) de selectieprocedure, de samenstelling en de nadere regels over de werking en organisatie van de jury.
 
 ### ART. 11.4.2.
 
-Om in aanmerking te komen voor een meerjarenpremieovereenkomst moet het   project voldoen aan de volgende voorwaarden:<BR>1° het project vereist een   strikte uitvoeringstiming om budgettaire, organisatorische of   uitvoeringstechnische redenen;<BR>2° het project heeft een gefaseerde   uitvoeringstermijn van minimaal drie jaar en maximaal vijf jaar;<BR>3° de   kostenraming voor de subsidieerbare beheersmaatregelen, werkzaamheden of   diensten bedraagt minstens vijf miljoen euro, exclusief btw;<BR>4° het project   voorziet in of verbetert de&nbsp;ontsluiting van het beschermde goed, het   erfgoedlandschap, of minstens een representatief deel ervan.<BR>
+Om in aanmerking te komen voor een meerjarenpremieovereenkomst moet het aanvraagdossier voldoen aan de volgende deelnemingsvoorwaarden:<br>
+1° het aanvraagdossier is tijdig ingediend en bevat de documenten vermeld in artikel 11.4.3;<br>
+2° het project valt binnen het thema, de doelstelling en de doelgroep van de oproep;<br>
+3° het project heeft een gefaseerde uitvoeringstermijn van minimaal drie jaar en maximaal vijf jaar;<br>
+4° de aanvaardbare kostenraming is hoger dan vijf miljoen euro, exclusief btw;<br>
+5° het project vereist een strikte uitvoeringstiming om budgettaire, organisatorische of uitvoeringstechnische redenen;<br>
+6° het project voorziet in of verbetert de ontsluiting van het beschermde goed, het erfgoedlandschap, of minstens een representatief deel ervan;<br>
+7° de geplande handelingen waarvoor een premie wordt aangevraagd zijn vermeld in een goedgekeurd beheersplan.<br>
+<br>
+In de oproep kan de Vlaamse Regering de deelnemingsvoorwaarden verduidelijken of bijkomende voorwaarden opnemen.
+
+### ART 11.4.2/1.
+
+De aanvraagdossiers die voldoen aan de deelnemingsvoorwaarden worden voor advies voorgelegd aan een jury.<br>
+<br>
+In de oproep bepaalt de Vlaamse Regering de nadere regels over de samenstelling, de werking en de organisatie van de jury. Het advies bevat minstens een evaluatie per aanvraagdossier op basis van de beoordelingscriteria en een rangschikking van de projecten.<br>
+<br>
+De jury beoordeelt de aanvraagdossiers op basis van de volgende beoordelingscriteria:<br>
+1° de kwaliteit van het concept en de visie die aan de basis liggen van het project, in het algemeen en binnen het thema van de oproep;<br>
+2° de maatschappelijke meerwaarde die de uitvoering van het project genereert;<br>
+3° de kwaliteit van de uitvoering;<br>
+4° het duurzame karakter en de voorbeeldfunctie van het project, in het algemeen en binnen het thema van de oproep;<br>
+5° de mate waarin het project bijdraagt aan innovatie binnen de onroerenderfgoedzorg;<br>
+6° de financiële en organisatorische haalbaarheid van het project;<br>
+7° de proportionaliteit tussen de gevraagde middelen en het beoogde doel;<br>
+8° de samenwerkingsgraad met relevante partners;<br>
+9° de erkenning van het beschermde goed of het erfgoedlandschap als UNESCO-werelderfgoed of de opname op de indicatieve lijst met het oog op deze erkenning;<br>
+10° de toekenning van een Europees erfgoedlabel of de voordracht om daarvoor in aanmerking te komen;<br>
+11° de cofinanciering met dwingende voorwaarden;<br>
+12° de ontsluiting van het beschermde goed, het erfgoedlandschap, of minstens een representatief deel ervan.<br>
+<br>
+In de oproep bepaalt de Vlaamse Regering het gewicht van de criteria en kan criteria verduidelijken of bijkomende criteria opnemen. Ze kan daarvoor eventuele bijkomende bewijsdocumenten bepalen in de dossiersamenstelling in de oproep vermeld in artikel 11.4.1.
 
 ## [Onderafdeling 2. Selectie van projecten die in aanmerking komen voor een meerjarenpremieovereenkomst (verv. BVR 11 december 2020, art. 61, I: 15 december 2020)]
 
 ### ART. 11.4.3.
 
-De premienemer dient bij het agentschap een dossier in voor een   meerjarenpremieovereenkomst dat minstens de volgende documenten bevat:<BR>1° een   motiveringsnota;<BR>2° een globale kostenraming;<BR>3° een financieel plan dat   aangeeft hoe de beheersmaatregelen, werkzaamheden of diensten gefinancierd   zullen worden;<BR>4° een gedetailleerd toestandsrapport;<BR>5° een beheersplan   dat een beeld geeft van de beoogde beheersmaatregelen, werkzaamheden of diensten   op korte, middellange en lange termijn en dat de prioriteiten aangeeft op basis   van het toestandsrapport;<BR>6° een faseringsplan dat afgestemd is op het   beheersplan, waarbij in voorkomend geval de geplande beheersmaatregelen,   werkzaamheden of diensten op elkaar worden afgestemd;<BR>7° een rapport over de   publieke toegankelijkheid voor, tijdens en na de beheersmaatregelen,   werkzaamheden of diensten en over de eventuele bestemming of   herbestemming.<BR>
+De premienemer dient uiterlijk op 1 juni van respectievelijk het tweede of vierde jaar van de legislatuur een aanvraagdossier voor een meerjarenpremieovereenkomst schriftelijk of via het daarvoor voorziene digitale platform bij het agentschap in.<br>
+<br>
+Het aanvraagdossier bevat minstens al de volgende documenten:<br>
+1° een volledig ingevuld en ondertekend aanvraagformulier dat ter beschikking wordt gesteld op de website van het agentschap;<br>
+2° een conceptnota waaruit blijkt dat het aanvraagdossier voldoet de deelnemingsvoorwaarden en beoordelingscriteria in de oproep;<br>
+3° een globale kostenraming;<br>
+4° een financieel plan dat aangeeft hoe de werken of diensten gefinancierd zullen worden;<br>
+5° een gedetailleerd toestandsrapport;<br>
+6° een faseringsplan dat afgestemd is op het beheersplan, waarbij in voorkomend geval de geplande werken of diensten op elkaar worden afgestemd;<br>
+7° een rapport over de publieke toegankelijkheid voor, tijdens en na de werken of diensten en over de eventuele bestemming of herbestemming;<br>
+8° in voorkomend geval, de bijkomende stukken vermeld in de dossiersamenstelling in de oproep.<br>
+<br>
+Het agentschap gaat na of het aanvraagdossier voldoet aan de deelnemingsvoorwaarden. Als niet is voldaan aan de deelnemingsvoorwaarden, brengt het agentschap de aanvrager hiervan schriftelijk of via het daarvoor voorziene digitale platform op de hoogte.<br>
+<br>
+De aanvraagdossiers die voldoen aan de deelnemingsvoorwaarden worden conform artikel 11.4.2/1 voor advies voorgelegd aan een jury.
 
 ### ART. 11.4.4.
 
-<P>De Vlaamse Regering neemt minstens de volgende elementen in aanmerking bij de   beoordeling van het project:<BR>1° de proportionaliteit tussen de gevraagde   middelen en het beoogde doel;<BR>2° het maatschappelijk belang van het   project;<BR>3° de samenwerkingsgraad met relevante partners;<BR>4° de erkenning   van het beschermde goed of het erfgoedlandschap als UNESCO-werelderfgoed of de   opname op de indicatieve lijst in functie van deze erkenning;<BR>5° de   toekenning van een Europees erfgoedlabel of de voordracht om daarvoor in   aanmerking te komen;<BR>6° de cofinanciering met dwingende voorwaarden.<BR></P>  <P>De minister kan bijkomende elementen bepalen die in aanmerking kunnen worden   genomen.<BR></P>
+<p>De Vlaamse Regering beslist op basis van het juryadvies vermeld in artikel 11.4.3, vierde lid uiterlijk op 1 oktober van respectievelijk het tweede of vierde jaar van de legislatuur welke projecten in aanmerking komen voor een meerjarenpremieovereenkomst. Het agentschap brengt de aanvragers schriftelijk of via het daarvoor voorziene digitale platform op de hoogte van de beslissing.</p>
 
 ### ART. 11.4.5.
 
-Een meerjarenpremieovereenkomst kan zonder beoordeling op basis van   artikel 11.4.4 eenmalig met maximaal 5 jaar verlengd worden. De premienemer   dient daarvoor overeenkomstig artikel 11.4.3 een dossier in bij het   agentschap.<BR>
+Een meerjarenpremieovereenkomst kan eenmalig met maximaal 5 jaar verlengd worden door de Vlaamse Regering. De premienemer richt daartoe voor het verstrijken van de uitvoeringstermijn vermeld in de meerjarenpremieovereenkomst schriftelijk of via het daarvoor voorziene digitale platform een gemotiveerd verzoek aan het agentschap, samen met een aangepast premiedossier zoals vermeld in artikel 11.4.3, tweede lid
 
 ## Onderafdeling 3 Inhoud van een meerjarenpremieovereenkomst
 
 ### ART. 11.4.6.
 
-<P>&nbsp;In de meerjarenpremieovereenkomst wordt de fasering van het   overheidsengagement en de termijn van indiening van het einddossier   vastgelegd.<BR></P>  <P>De Vlaamse Regering kan in de meerjarenpremieovereenkomst onder andere   voorwaarden opleggen met betrekking tot:<BR>1° de indiening van premiedossiers,   met het oog op de periodieke uitbetaling van voorschotten, overeenkomstig de   vastgelegde fasering;<BR>2° het maximale bedrag dat jaarlijks in aanmerking kan   worden genomen voor de berekening van de premie;<BR>3° de rapportering over de   voortgang van de beheersmaatregelen, werkzaamheden of diensten;<BR>4° de   publieke toegankelijkheid tijdens en na de uitvoering van de beheersmaatregelen,   werkzaamheden of diensten;<BR>5° de uitvoering van het beheersplan.<BR></P>  <P>De minister kan de voorwaarden nader omschrijven of   uitbreiden.<BR></P>
+<p>&nbsp;In de meerjarenpremieovereenkomst wordt de fasering van het overheidsengagement en de termijn van indiening van het einddossier vastgelegd.</p>
+
+<p>De Vlaamse Regering kan in de meerjarenpremieovereenkomst onder andere voorwaarden opleggen met betrekking tot:<br>
+1° de indiening van premiedossiers, met het oog op de periodieke uitbetaling van voorschotten, overeenkomstig de vastgelegde fasering;<br>
+2° het maximale bedrag dat jaarlijks in aanmerking kan worden genomen voor de berekening van de premie;<br>
+3° de rapportering over de voortgang van de beheersmaatregelen, werkzaamheden of diensten;<br>
+4° de publieke toegankelijkheid tijdens en na de uitvoering van de werken of diensten;<br>
+5° de uitvoering van het beheersplan.</p>
+
+<p>De minister kan de voorwaarden nader omschrijven of uitbreiden.</p>
 
 ## Onderafdeling 4 Bijdragen in het kader van een meerjarenpremieovereenkomst
 
 ### ART. 11.4.7.
 
-De financiële bijdrage van het Vlaamse Gewest in het kader van een   meerjarenpremieovereenkomst wordt berekend overeenkomstig de bepalingen van de   erfgoedpremie volgens de bijzondere procedure, eventueel rekening houdend met   het bedrag dat in de meerjarenpremieovereenkomst voor een jaarlijkse fase als   maximale berekeningsbasis vermeld wordt.<BR>
+De financiële bijdrage van het Vlaamse Gewest in het kader van een meerjarenpremieovereenkomst wordt berekend overeenkomstig de bepalingen van de erfgoedpremie via oproep met toepassing van de premiepercentages vermeld in afdeling 2, onderafdeling 5 van dit hoofdstuk, eventueel rekening houdend met het bedrag dat in de meerjarenpremieovereenkomst voor een jaarlijkse fase als maximale berekeningsbasis vermeld wordt.
 
 ## Onderafdeling 5 Dossier per fase
 
 ### ART. 11.4.8.
 
-<p>Voor de premienemer start met de beheersmaatregelen, werkzaamheden of diensten die aan een bepaalde fase verbonden zijn, dient hij een dossier in overeenkomstig de voorwaarden, vermeld in de meerjarenpremieovereenkomst.</p>
+<p>Voor de premienemer start met de werken of diensten die aan een bepaalde fase verbonden zijn, dient hij een dossier in overeenkomstig de voorwaarden, vermeld in de meerjarenpremieovereenkomst.</p>
 
-<p>Als het dossier onvolledig wordt bevonden of als de waarborgen voor een vakkundige uitvoering onvoldoende worden geacht, wordt schriftelijk gemeld in welke zin het dossier moet worden aangepast of aangevuld om voor goedkeuring in aanmerking te komen. Een nieuwe aanvraag moet aan die opmerkingen tegemoetkomen.</p>
+<p>Als het dossier onvolledig wordt bevonden of als de waarborgen voor een vakkundige uitvoering onvoldoende worden geacht, meldt het agentschap schriftelijk of via het daarvoor voorziene digitale platform in welke zin het dossier moet worden aangepast of aangevuld om voor goedkeuring in aanmerking te komen. Een nieuwe aanvraag moet aan die opmerkingen tegemoetkomen.</p>
 
 ### ART. 11.4.9.
 
-Als het agentschap akkoord gaat met het ingediende dossier, wordt dat schriftelijk meegedeeld aan de premienemer. Het akkoord geldt als toelating van het agentschap voor de werken.
+Het dossier vermeld in artikel 11.4.8 kan gelijktijdig ingediend worden met de aanvraag van de toelating voor de geplande handelingen. Het agentschap stelt hiervoor op de website een gecombineerd aanvraagformulier ter beschikking. Een dergelijke gecombineerde aanvraag wordt schriftelijk of via het daarvoor voorziene digitale platform ingediend bij het agentschap.<br>
+<br>
+In afwijking van artikel 6.3.5, eerste lid, wordt de behandelingstermijn verlengd tot de datum van de beslissing vermeld in het vierde lid.<br>
+<br>
+In voorkomend geval stuurt het agentschap een kopie van de aanvraag en de bijhorende documenten door naar de onroerenderfgoedgemeente binnen een termijn van vijf dagen, die ingaat op de dag na de indiening van de aanvraag.<br>
+<br>
+Als het agentschap akkoord gaat met het ingediende dossier, wordt dat schriftelijk of via het daarvoor voorziene digitale platform meegedeeld aan de premienemer, in voorkomend geval, samen met de beslissing van het agentschap over de toelating voor de aangevraagde werken of diensten.
 
 ### ART. 11.4.10.
 
-De premienemer brengt het agentschap minstens vijftien dagen voor de   aanvang van de werken schriftelijk op de hoogte van de start ervan en van de   vastgelegde uitvoeringstermijn.<BR>
+De premienemer brengt het agentschap minstens vijftien dagen voor de aanvang van de werken schriftelijk of via het daarvoor voorziene digitale platform op de hoogte van de start ervan en van de vastgelegde uitvoeringstermijn.
 
 ## Onderafdeling 6 Voorschotten
 
 ### ART. 11.4.11.
 
-De bijdrage van het Vlaamse Gewest voor een bepaalde fase kan als voorschot aan de premienemer worden uitbetaald. De premienemer dient daarvoor voor 1 september van het desbetreffende jaar een schriftelijk verzoek tot uitbetaling van de middelen die voor dat jaar vastgelegd zijn bij het agentschap. Na de ontvangst van dat verzoek, en na het akkoord van het agentschap, zal de bijdrage van het Vlaamse Gewest die voor de desbetreffende fase is vastgelegd, integraal als voorschot uitbetaald worden.
+De bijdrage van het Vlaamse Gewest voor een bepaalde fase kan als voorschot aan de premienemer worden uitbetaald. De premienemer dient daarvoor voor 1 september van het desbetreffende jaar schriftelijk of via het daarvoor voorziene digitale platform een verzoek in tot uitbetaling van de middelen die voor dat jaar vastgelegd zijn bij het agentschap. Na de ontvangst van dat verzoek, en na het akkoord van het agentschap, zal de bijdrage van het Vlaamse Gewest die voor de desbetreffende fase is vastgelegd, integraal als voorschot uitbetaald worden.
 
 ### ART. 11.4.12.
 
-<p>Voor de laatste fase uit de meerjarenpremieovereenkomst kan alleen een voorschot van 50% gevraagd worden. Het agentschap gaat pas over tot de uitbetaling van het resterende saldo na een volledige controle van het einddossier, dat ingediend moet worden door de premienemer na afloop van de beheersmaatregelen, werkzaamheden of diensten en binnen de termijn die daarvoor vastgesteld is in de meerjarenovereenkomst.</p>
+<p>Voor de laatste fase uit de meerjarenpremieovereenkomst kan alleen een voorschot van 50% gevraagd worden. Het agentschap gaat pas over tot de uitbetaling van het resterende saldo na een volledige controle van het einddossier, dat ingediend moet worden door de premienemer na afloop van de werken of diensten en binnen de termijn die daarvoor vastgesteld is in de meerjarenpremieovereenkomst.</p>
 
-<p>Als de premienemer nalaat een einddossier in te dienen binnen de daarvoor vastgelegde termijn in de meerjarenovereenkomst, kan het agentschap de reeds uitbetaalde voorschotten terugvorderen.</p>
+<p>Als de premienemer nalaat een einddossier in te dienen binnen de daarvoor vastgelegde termijn in de meerjarenpremieovereenkomst, kan het agentschap de reeds uitbetaalde voorschotten terugvorderen.</p>
 
 ## Onderafdeling 7 Einddossier en definitieve bijdrage
 
 ### ART. 11.4.13.
 
-De samenstelling van het einddossier wordt omschreven in de   meerjarenpremieovereenkomst en omvat minstens:<BR>1° een gedetailleerd overzicht   van alle uitgevoerde beheersmaatregelen, werkzaamheden of diensten;<BR>2° een   afrekening die postgewijs gerelateerd is aan de kostenraming;<BR>3°   betalingsbewijzen die aantonen dat de beheersmaatregelen, werkzaamheden of   diensten volledig betaald zijn.<BR>
+De samenstelling van het einddossier wordt omschreven in de meerjarenpremieovereenkomst en omvat minstens:<br>
+1° een gedetailleerd overzicht van alle uitgevoerde werken of diensten;<br>
+2° een afrekening die postgewijs gerelateerd is aan de kostenraming;<br>
+3° betalingsbewijzen die aantonen dat de werken of diensten volledig betaald zijn.
 
 ### ART. 11.4.14.
 
@@ -2824,23 +3042,32 @@ De samenstelling van het einddossier wordt omschreven in de   meerjarenpremieove
 
 <p>De uiteindelijke bijdrage van het Vlaamse Gewest kan niet hoger liggen dan het bedrag dat bij de ondertekening van de meerjarenpremieovereenkomst werd overeengekomen.</p>
 
-<p>Als de bijdrage van het Vlaamse Gewest wordt aangepast overeenkomstig dit artikel, wordt een afrekening&nbsp;schriftelijk ter kennis gebracht van de premienemer.</p>
+<p>Als de bijdrage van het Vlaamse Gewest wordt aangepast overeenkomstig dit artikel, wordt een afrekening&nbsp;schriftelijk of via het daarvoor voorziene digitale platform ter kennis gebracht van de premienemer.</p>
 
 ## Onderafdeling 8 Bijkomende erfgoedpremie
 
 ### ART. 11.4.15.
 
-<P>Gedurende de looptijd van een meerjarenpremieovereenkomst voor grote of   langdurige werkzaamheden aan of in beschermde goederen of in erfgoedlandschappen   kunnen geen andere erfgoedpremies toegekend worden voor de desbetreffende   beschermde goederen of erfgoedlandschappen, of de delen ervan die het voorwerp   vormen van de overeenkomst.<BR></P>  <P>In afwijking van het eerste lid kan, op het einde van de looptijd van de   overeenkomst, wel één bijkomende erfgoedpremie worden toegekend ter financiering   van onvoorzienbare meer- en bijwerken volgens de modaliteiten en voorwaarden   vermeld in artikel 11.2.38, met dien verstande dat het bedrag dat als bijkomende   erfgoedpremie kan worden toegekend ten hoogste 5 % bedraagt van de totale,   subsidieerbare kostprijs van de werkzaamheden die omschreven zijn in de   meerjarenpremieovereenkomst, en maximaal 250.000 euro.<BR></P>
+<p>Gedurende de looptijd van een meerjarenpremieovereenkomst voor grote of langdurige werkzaamheden aan of in beschermde goederen of in erfgoedlandschappen kunnen geen andere erfgoedpremies toegekend worden voor de desbetreffende beschermde goederen of erfgoedlandschappen, of de delen ervan die het voorwerp vormen van de overeenkomst.</p>
 
 ## Afdeling 5 Kwaliteit
 
 ### ART. 11.5.1.
 
-De premienemer is verantwoordelijk voor het bewaken van de kwaliteit bij   de uitvoering van de beheersmaatregelen, de werkzaamheden en   diensten.<BR>
+De premienemer is verantwoordelijk voor het bewaken van de kwaliteit bij de uitvoering van de werken of diensten.
 
 ### ART. 11.5.2.
 
-&nbsp;Als een erfgoedpremie van meer dan 50 % volgens de bijzondere   procedure of een onderzoekspremie aangevraagd wordt, gelden de volgende   bepalingen:<BR>1° bij de aanstelling van ontwerpers en uitvoerders wordt   minstens rekening gehouden met de volgende elementen:<BR>a) de relevante studie-   en beroepskwalificaties;<BR>b) de algemene deskundigheid met betrekking tot de   specifieke projectopdracht;<BR>c) een vermelding van het gedeelte van de   opdracht dat de ontwerper of uitvoerder minstens in eigen beheer zal   uitvoeren;<BR>2° de ontwerpopdracht houdende de opmaak van beheersplannen, de   voorafgaande onderzoeken, en de beheersmaatregelen, werkzaamheden of diensten   aan beschermde goederen en erfgoedlandschappen wordt minstens gegund op basis   van de volgende gunningscriteria:<BR>a) een conceptnota, met omschrijving van de   aanpak en de methodologie van de opdracht;<BR>b) de aanpak inzake   duurzaamheid;<BR>c) de vermelding van welke diensten voor welk ereloon geleverd   zullen worden;<BR>d) als dat van toepassing is: de visie op de   werfopvolging.<BR>
+&nbsp;Als een erfgoedpremie van meer dan 50 % volgens de procedure via oproep of een onderzoekspremie&nbsp;of een premie op basis van een meerjarenpremieovereenkomst aangevraagd wordt, gelden de volgende bepalingen:<br>
+1° bij de aanstelling van ontwerpers en uitvoerders wordt minstens rekening gehouden met de volgende elementen:<br>
+a) de relevante studie- en beroepskwalificaties;<br>
+b) de algemene deskundigheid met betrekking tot de specifieke projectopdracht;<br>
+c) een vermelding van het gedeelte van de opdracht dat de ontwerper of uitvoerder minstens in eigen beheer zal uitvoeren;<br>
+2° de ontwerpopdracht houdende de opmaak van beheersplannen, de voorafgaande onderzoeken, en de werken of diensten aan beschermde goederen en erfgoedlandschappen wordt minstens gegund op basis van de volgende gunningscriteria:<br>
+a) een conceptnota, met omschrijving van de aanpak en de methodologie van de opdracht;<br>
+b) de aanpak inzake duurzaamheid;<br>
+c) de vermelding van welke diensten voor welk ereloon geleverd zullen worden;<br>
+d) als dat van toepassing is: de visie op de werfopvolging.
 
 ### ART. 11.5.3.
 
@@ -2848,7 +3075,7 @@ De premienemer is verantwoordelijk voor het bewaken van de kwaliteit bij   de ui
 
 ### ART. 11.5.4.
 
-In de overeenkomst, die gesloten is tussen de premienemer en de uitvoerder   van de beheersmaatregelen, werkzaamheden, diensten of voorafgaande onderzoeken,   moet uitdrukkelijk worden bepaald dat de uitvoerder verplicht is een register   bij te houden van de diensten, maatregelen of werkzaamheden die hij door   onderaannemers laat uitvoeren.<BR>
+In de overeenkomst, die gesloten is tussen de premienemer en de uitvoerder van de werken of diensten of voorafgaande onderzoeken, moet uitdrukkelijk worden bepaald dat de uitvoerder verplicht is een register bij te houden van de diensten, maatregelen of werkzaamheden die hij door onderaannemers laat uitvoeren.
 
 ## Afdeling 6 Terugbetaling van premies
 
@@ -3142,6 +3369,23 @@ Het recht op een premie voor archeologisch vooronderzoek met ingreep in de bodem
 ## [Onderafdeling 5. Vastlegging en uitbetaling van een premie voor archeologisch onderzoek van menselijke inhumatieresten (ing. BVR 2 september 2022, art. 78, I: 1 januari 2023)]
 
 ## [HOOFDSTUK 11/1. ... (opgeh. BVR 2 september 2022, art. 79, I: 1 januari 2023)]
+
+### ART 11/1.1.1.
+
+In het kader van de behandeling van de aanvragen voor toelatingen, subsidies en premies vermeld in hoofdstuk 6, 10 en 11 worden persoonsgegevens verzameld van de aanvrager of zijn vertegenwoordiger of, in voorkomend geval van de zakelijkrechthouder van het erfgoed waarvoor de financiële ondersteuning wordt aangevraagd, met het oog op de controle aan de wettelijke voorwaarden en de contactname na de behandeling.<br>
+<br>
+Het agentschap en, in het geval vermeld in het vierde lid, de onroerenderfgoedgemeenten zijn verwerkingsverantwoordelijken als vermeld in artikel 4, 7) van de Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+<br>
+De volgende categorieën van persoonsgegevens worden in het kader van dit hoofdstuk verwerkt:<br>
+1° persoonlijke identificatiegegevens, rijksregisternummer of identificatienummer van de sociale zekerheid en andere identificatiegegevens, zoals het financieel identificatienummer;<br>
+2° adres;<br>
+3° contactgegevens;<br>
+4° financiële gegevens of rekeningnummer in het geval van aanvragen voor premies en subsidies;<br>
+5° gegevens over rechtstoestand.<br>
+<br>
+De gegevens vermeld in het derde lid kunnen worden verstrekt aan erkende onroerenderfgoedgemeenten voor de taken die gedelegeerd zijn aan erkende onroerenderfgoedgemeenten conform het Onroerenderfgoeddecreet van 17 juli 2013. Het agentschap sluit daarvoor met de erkende onroerenderfgoedgemeenten een protocol af zoals vermeld in artikel 10/4, § 1 decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.<br>
+<br>
+De bewaartermijn van de persoonsgegevens, vermeld in het derde lid is 10 jaar.
 
 ## HOOFDSTUK 12 Handhaving
 
