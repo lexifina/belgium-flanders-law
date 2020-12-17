@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033916,
+  "title": "Decreet van 2020-11-20 houdende instemming met het samenwerkingsakkoord van 24 april 2020 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de uitvoering van een aantal bepalingen van richtlijn 2016/2284 van het Europees Parlement en de Raad van 14 december 2016 betreffende de vermindering van de nationale emissies van bepaalde luchtverontreinigende stoffen, tot wijziging van Richtlijn 2003/35/EG en tot intrekking van Richtlijn 2001/81/EG",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033916/VolledigDocument?datum=2020-12-17",
+  "source_sha256": "8211b6486534483b4f7d78cd03090d1610906d7e57d563d8f59c96ee76cf08f7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033916&param=informatie",
+  "as_of": "2020-12-17",
+  "made": "2020-11-20",
+  "gazette": "2020-12-07",
+  "numac": 2020043936,
+  "document_start": "2020-12-17",
+  "document_end": null,
+  "in_force": "2020-12-17",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2020-12-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
