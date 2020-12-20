@@ -22,7 +22,7 @@ De vergoedingen die ter uitvoering van dit decreet worden uitgekeerd, worden ver
 ### ART 3.
 
 In afwijking van de door en krachtens titel IV en titel VI van het Energiedecreet van 8 mei 2009 vastgestelde maatregelen zijn gedurende de periode van de civiele noodsituatie die bepaald is met toepassing van artikel 4, § 1, eerste lid, 1° of 2°, van het decreet van 20 maart 2020, de volgende maatregelen van toepassing:<br>
-1° de distributienetbeheerders gaan gedurende die periode niet over tot het plaatsen of activeren van budgetmeters voor aardgas of elektriciteit, of tot het uitschakelen van de stroombegrenzer in de budgetmeter voor elektriciteit;<br>
+1° ...;<br>
 2° de distributienetbeheerders gaan, behoudens in geval van een onmiddellijke bedreiging van de veiligheid en zolang die bedreiging aanhoudt, niet over tot het afsluiten van de toevoer van elektriciteit of aardgas bij:<br>
 a) eindafnemers die aangesloten zijn op laagspanning of op een lagedrukleiding;<br>
 b) residentiële eindafnemers die aangesloten zijn op middenspanning of op een middendrukleiding.
