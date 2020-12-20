@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033926,
+  "title": "Decreet van 2020-12-04 Decreet tot opheffing van artikel 3, 1°, van het decreet van 3 april 2020 tot afwijking van diverse bepalingen van het Energiedecreet van 8 mei 2009, het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, en de uitvoeringsbesluiten ervan, en tot dekking van de kosten voor elektriciteitsverbruik, verwarming of waterverbruik voor de eerste maand van tijdelijke werkloosheid ten gevolge van de coronacrisis",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033926/VolledigDocument?datum=2020-12-20",
+  "source_sha256": "6ed88c763b46c8bfc84f17863e22b6b5f84cbff8ca33db90a8ff9fdcb4a1c085",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033926&param=informatie",
+  "as_of": "2020-12-20",
+  "made": "2020-12-04",
+  "gazette": "2020-12-10",
+  "numac": 2020044004,
+  "document_start": "2020-12-20",
+  "document_end": null,
+  "in_force": "2020-12-20",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2020-12-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
