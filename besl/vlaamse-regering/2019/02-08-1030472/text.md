@@ -91,7 +91,7 @@ De ambulanciers niet-dringend patiëntenvervoer:<br>
 
 ### ART 7.
 
-Er mag altijd een naaste of mantelzorger van de patiënt meerijden als de patiënt wordt getransporteerd. Dat leidt niet tot bijkomende kosten als die persoon geen extra zorgaandacht van de ambulanciers niet-dringend patiëntenvervoer vraagt.<br>
+Er mag altijd een naaste of mantelzorger van de patiënt meerijden als de patiënt wordt getransporteerd. Dat leidt niet tot bijkomende kosten als die persoon geen extra zorgaandacht&nbsp; vraagt.<br>
 <br>
 In het eerste lid wordt verstaan onder:<br>
 1° mantelzorger: een mantelzorger als vermeld in artikel 2, 7°, van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming;<br>
@@ -160,7 +160,9 @@ De dienst sluit een afdoende burgerlijke aansprakelijkheidsverzekering voor de p
 
 ### ART 14.
 
-De ziekenwagen wordt gedurende het volledige transport van de patiënt bemand door twee ambulanciers niet-dringend patiëntenvervoer. Een ambulancier niet-dringend patiëntenvervoer begeleidt de patiënt in de sanitaire cel van de ziekenwagen.
+Elk patiëntenvervoer met een ziekenwagen niet-dringend liggend ziekenvervoer vereist de aanwezigheid van twee personen, die ofwel ambulancier niet-dringend patiëntenvervoer zijn ofwel een andere gezondheidszorgbeoefenaar die gemachtigd is om de technische prestaties van de ambulancier niet-dringend patiëntenvervoer uit te voeren.<br>
+<br>
+Eén van de in het eerste lid vermelde personen, die de werking van de ziekenwagen en het daarin aanwezige materiaal kent, is aanwezig in de sanitaire cel, om het permanent toezicht op de patiënt te verzekeren.
 
 ### ART 15.
 
@@ -472,10 +474,8 @@ Het agentschap bezorgt de persoon die de klacht heeft gemeld, uiterlijk binnen d
 § 1. De administrateur-generaal kan organisaties machtigen om controles uit te voeren op de naleving van de vergunningsvoorwaarden, vermeld in hoofdstuk 2. Die organisaties stellen zich daarvoor kandidaat bij het agentschap.<br>
 <br>
 § 2. Om een machtiging van de administrateur-generaal als vermeld in paragraaf 1, te verkrijgen, voldoet een organisatie aan al de volgende criteria:<br>
-1° ze beschikt over een accreditatie conform ISO 17021-1 bij BELAC voor de certificatie van kwaliteitsmanagementsystemen;<br>
-2° ze beschikt over een sectorale BELAC-accreditatie voor de volgende EA-sectoren:<br>
-a) 31A: vervoer te land;<br>
-b) 38A: gezondheid en maatschappelijke dienstverlening;<br>
+1° ze is gecertificeerd om accreditatieactiviteiten uit te voeren;<br>
+2° ...;<br>
 3° ze kan Nederlandstalige audits uitvoeren;<br>
 4° ze beschikt over een schriftelijke procedure om certificatie-audits bij ziekenwagendiensten uit te voeren. Die procedure bevat het engagement dat controles worden uitgevoerd op basis van een eisenkader dat daarvoor ontworpen is, en dat de onafhankelijke commissie heeft opgesteld;<br>
 5° ze beschikt over voldoende middelen om de controles binnen de vastgelegde termijnen te kunnen uitvoeren.<br>
@@ -537,7 +537,7 @@ Tweedehands ziekenwagens die door een ziekenwagendienst in dienst worden genomen
 ### ART 41.
 
 Op de tiende dag na de bekendmaking van dit besluit in het Belgisch Staatsblad treden in werking:<br>
-1° het decreet van 18 mei 2018 betreffende het niet-dringend liggend ziekenvervoer, met uitzondering van artikel 4, dat in werking treedt op 1 januari 2021;<br>
+1° het decreet van 18 mei 2018 betreffende het niet-dringend liggend ziekenvervoer, met uitzondering van artikel 4, dat in werking treedt op 1 juli 2021;<br>
 2° dit besluit, met uitzondering van<br>
 - artikel 6, tweede, derde en vijfde lid, dat in werking treedt vijf jaar na bekendmaking van dit besluit in het Belgisch Staatsblad;<br>
 - artikel 15, dat in werking treedt één jaar na bekendmaking van dit besluit in het Belgisch Staatsblad;<br>
