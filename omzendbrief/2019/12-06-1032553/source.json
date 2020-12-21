@@ -2,16 +2,16 @@
   "codex_id": 1032553,
   "title": "Omzendbrief van 2019-12-06 W/2019/01 opmaak van een lokaal toewijzingsreglement",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032553/VolledigDocument?datum=2019-12-06",
-  "source_sha256": "a47fa3e8ef7a9646f0e5e5669a976b9ec0eefe614dec27c830d63a2ba8a284d6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032553/VolledigDocument?datum=2020-12-21",
+  "source_sha256": "c20c7df1d3ff468cb61fcc16787ed7f0ba74d2105f7b9fcb8412e3f5524c1024",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032553&param=informatie",
-  "as_of": "2019-12-06",
+  "as_of": "2020-12-21",
   "made": "2019-12-06",
   "gazette": "2020-01-10",
   "numac": 2019031174,
   "document_start": "2019-12-06",
   "document_end": "2020-12-20",
-  "in_force": "2019-12-06",
+  "in_force": "2020-12-21",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2019-12-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-12-21; future article versions excluded; article text as the API gives it"
 }
