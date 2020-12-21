@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031563,
+  "title": "Decreet van 2019-03-29 houdende wijziging van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031563/VolledigDocument?datum=2020-12-21",
+  "source_sha256": "2dcfb6e9f6056d5b9895a53197263b66ea2d1d4747b4533ddb4ee73034e46b4d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031563&param=informatie",
+  "as_of": "2020-12-21",
+  "made": "2019-03-29",
+  "gazette": "2019-04-17",
+  "numac": 2019011720,
+  "document_start": "3000-01-01",
+  "document_end": null,
+  "in_force": "2020-12-21",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2020-12-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
