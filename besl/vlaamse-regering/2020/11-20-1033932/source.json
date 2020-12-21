@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033932,
+  "title": "Besluit van de Vlaamse Regering van 2020-11-20 tot wijziging van het besluit van de Vlaamse Regering van 8 februari 2019 houdende de uitvoering van artikel 6, 7, 8 en 12 van het decreet van 18 mei 2018 betreffende het niet-dringend liggend ziekenvervoer, wat betreft de vergunningsvoorwaarden, de machtigingsvoorwaarden en de ingangsdatum van de vergunningsplicht",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033932/VolledigDocument?datum=2020-12-21",
+  "source_sha256": "8426d827ffc47915cedd556cdb208c850baca0a53197ba22dafc4f7987031db5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033932&param=informatie",
+  "as_of": "2020-12-21",
+  "made": "2020-11-20",
+  "gazette": "2020-12-11",
+  "numac": 2020044065,
+  "document_start": "2020-12-21",
+  "document_end": null,
+  "in_force": "2020-12-21",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2020-12-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
