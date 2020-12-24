@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033940,
+  "title": "Besluit van de Vlaamse Regering van 2020-11-13 houdende indeling bij de gemeentewegen van het weggedeelte van de gewestweg N32 tussen kilometerpunten 30,795 en 33,673 op het grondgebied van de stad Roeselare",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033940/VolledigDocument?datum=2020-12-24",
+  "source_sha256": "7b944edc4bdcb5d5973abef04360d3d1a298a1035cb89ed912d8292a4e41e05a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033940&param=informatie",
+  "as_of": "2020-12-24",
+  "made": "2020-11-13",
+  "gazette": "2020-12-14",
+  "numac": 2020043990,
+  "document_start": "2020-12-24",
+  "document_end": null,
+  "in_force": "2020-12-24",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-12-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
