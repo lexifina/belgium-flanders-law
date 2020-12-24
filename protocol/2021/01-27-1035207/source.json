@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035207,
+  "title": "Protocol van 2021-01-27 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot vaccinaties tegen COVID-19",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035207/VolledigDocument?datum=2020-12-24",
+  "source_sha256": "281a9c06763e1e6f23f77d633c3802e07de32e7b8638d31a3fb1aa0027804035",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035207&param=informatie",
+  "as_of": "2020-12-24",
+  "made": "2021-01-27",
+  "gazette": "2021-02-11",
+  "numac": 2021020334,
+  "document_start": "2020-12-24",
+  "document_end": null,
+  "in_force": "2020-12-24",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2020-12-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
