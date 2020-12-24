@@ -1,0 +1,17 @@
+{
+  "codex_id": 1034981,
+  "title": "Decreet van 2020-11-27 tot wijziging van het decreet van 19 mei 2006 betreffende de Winwinlening, wat betreft het Vriendenaandeel",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1034981/VolledigDocument?datum=2020-12-24",
+  "source_sha256": "912077b0faaec6561e98fea3f653a3a8c2abbb91f2ac2985d07ad08f7057ffca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1034981&param=informatie",
+  "as_of": "2020-12-24",
+  "made": "2020-11-27",
+  "gazette": "2020-12-23",
+  "numac": 2020044363,
+  "document_start": "2020-12-24",
+  "document_end": null,
+  "in_force": "2020-12-24",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2020-12-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
