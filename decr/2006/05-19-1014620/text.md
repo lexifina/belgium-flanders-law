@@ -9,7 +9,7 @@
 ### ART. 2.
 
 In dit decreet wordt verstaan onder :<br>
-1° Winwinlening : een kredietovereenkomst die tussen een kredietgever en een kredietnemer wordt gesloten, en die voldoet aan de voorwaarden en voorschriften, vastgelegd in dit decreet;<br>
+1° Winwinlening : een kredietovereenkomst die tussen een kredietgever en een kredietnemer wordt gesloten, en die voldoet aan de voorwaarden en voorschriften, vastgelegd in dit decreet en de uitvoeringsbesluiten ervan;<br>
 2° kredietovereenkomst : een overeenkomst waarbij een kredietgever aan een kredietnemer krediet verleent of toezegt; hieronder wordt tevens verstaan een lening waarbij een kredietgever aan een kredietnemer geldmiddelen ter beschikking stelt onder de verbintenis van terugbetaling door de kredietnemer;<br>
 3° kredietnemer : een KMO die, in het kader van zijn bedrijfs- of beroepsactiviteiten, een kredietovereenkomst sluit;<br>
 4° kredietgever : een natuurlijk persoon die, buiten het kader van zijn handels- of beroepsactiviteiten, een kredietovereenkomst sluit;<br>
@@ -19,7 +19,10 @@ In dit decreet wordt verstaan onder :<br>
 8° wettelijke rentevoet : de rentevoet, gedefinieerd in artikel 2 van de wet van 5 mei 1865 betreffende de lening tegen intrest;<br>
 9° Wetboek van de Inkomstenbelastingen 1992: Wetboek van de Inkomstenbelastingen 1992 van 10 april 1992, met inbegrip van alle latere wijzigingen;<br>
 10° Bijzondere Financieringswet: bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten, met inbegrip van alle latere wijzigingen;<br>
-11° belastingadministratie: de administratie die instaat voor de dienst van de inkomstenbelastingen.<br>
+11° belastingadministratie: de administratie die instaat voor de dienst van de inkomstenbelastingen;<br>
+12° Vriendenaandeel: een nieuw uitgegeven aandeel op naam, verworven met een inbreng in geld, dat voldoet aan de voorwaarden van dit decreet en de uitvoeringsbesluiten ervan;<br>
+13° Vriendenaandeelhouder: een natuurlijke persoon die, buiten het kader van zijn handels- of beroepsactiviteiten, een Vriendenaandeel heeft onderschreven en volgestort;<br>
+14° emittent: een vennootschap die een kapitaalverhoging of een uitgifte van nieuwe aandelen uitvoert en die voldoet aan de voorwaarden van dit decreet en de uitvoeringsbesluiten ervan.<br>
 &nbsp;
 
 ## [HOOFDSTUK II. Voorwaarden betreffende de partijen (verv. decr. 27 november 2020, art. 3, I: 24 december 2020)]
@@ -44,6 +47,35 @@ b) rechten of effecten waarvan de uitoefening, omwisseling of conversie de overs
 <br>
 § 4. Gedurende de hele looptijd van de Winwinlening, vermeld in artikel 4, § 1, tweede lid, kan de kredietgever geen kredietnemer zijn bij een andere Winwinlening.<br>
 &nbsp;
+
+### ART 3/1.
+
+&nbsp;§ 1. Op de datum waarop de Vriendenaandeelhouder het Vriendenaandeel onderschrijft, voldoet de Vriendenaandeelhouder aan al de volgende voorwaarden:<br>
+1° hij is een natuurlijke persoon die een Vriendenaandeel buiten het kader van zijn handels- of beroepsactiviteiten onderschrijft;<br>
+2° hij is geen werknemer van de emittent;<br>
+3° hijzelf, noch de echtgenoot, de echtgenote of de wettelijk samenwonende partner van de Vriendenaandeelhouder zijn benoemd of treden op als bestuurder, zaakvoerder of in een vergelijkbaar mandaat binnen de emittent;<br>
+4° hijzelf, noch de echtgenoot, de echtgenote of de wettelijk samenwonende partner van de Vriendenaandeelhouder zijn rechtstreeks of onrechtstreeks houder van:<br>
+a) meer dan 10 % van de aandelen of de stemrechten van de emittent;<br>
+b) rechten of effecten waarvan de uitoefening, omwisseling of conversie de overschrijding van de drempel, vermeld in punt a), tot gevolg heeft;<br>
+5° hijzelf, noch de echtgenoot, de echtgenote of de wettelijk samenwonende partner van de Vriendenaandeelhouder zijn geheel of gedeeltelijk uit het vennootschapsvermogen van de emittent getreden in de 24 maanden voorafgaand aan de volstorting van het Vriendenaandeel.<br>
+<br>
+§ 2. Op de datum waarop de Vriendenaandeelhouder het Vriendenaandeel onderschrijft, voldoet de emittent aan al de volgende voorwaarden:<br>
+1° de emittent heeft een exploitatiezetel in het Vlaamse Gewest;<br>
+2° de emittent is een kmo;<br>
+3° de emittent heeft rechtspersoonlijkheid;<br>
+4° de emittent is geen beleggings-, thesaurie- of financieringsvennootschap zoals bedoeld in artikel 2, § 1, 5°, d) tot en met f), van het Wetboek van de Inkomstenbelastingen 1992;<br>
+5° de emittent is geen van de volgende vennootschappen:<br>
+a) een vennootschap met als statutair hoofdvoorwerp of voornaamste activiteit de oprichting, de verwerving, het beheer, de verbouwing, de verkoop of de verhuur van vastgoed voor eigen rekening of het bezit van deelnemingen in vennootschappen met een soortgelijk voorwerp;<br>
+b) een vennootschap waarin onroerende goederen of andere zakelijke rechten met betrekking tot dergelijke goederen zijn ondergebracht, waarvan natuurlijke personen die in de vennootschap benoemd zijn of optreden als bestuurder, zaakvoerder of in een vergelijkbaar mandaat, hun echtgenoot, echtgenote of wettelijk samenwonende partner of hun kinderen, als die personen of hun echtgenoot het wettelijke genot van de inkomsten van die kinderen hebben, het gebruik hebben;<br>
+6° de emittent is geen vennootschap die is opgericht om een management- of bestuurdersovereenkomst te sluiten of die haar voornaamste bron van inkomsten uit management- of bestuurdersovereenkomsten haalt;<br>
+7° de emittent is een niet-beursgenoteerde vennootschap;<br>
+8° de emittent heeft geen kapitaalvermindering, inkoop van eigen aandelen of een andere vermindering of verdeling van het eigen vermogen doorgevoerd 24 maanden voorafgaand aan de volstorting van het Vriendenaandeel, behoudens de vermindering van het kapitaal of het eigen vermogen die uitsluitend het gevolg is van een uittreding van een of meerdere aandeelhouders van de emittent lastens het vennootschapsvermogen;<br>
+9° de emittent houdt geen rechtstreekse deelneming aan in een vennootschap die gevestigd is in een staat die is opgenomen in een van de lijsten, vermeld in artikel 307, § 1/2, van het Wetboek van de Inkomstenbelastingen 1992, of een staat die is opgenomen in de lijst, vermeld in artikel 179 van het koninklijk besluit van 27 augustus 1993 tot uitvoering van het Wetboek van de Inkomstenbelastingen 1992;<br>
+10° de emittent doet geen betalingen aan vennootschappen die gevestigd zijn in een van de staten, vermeld in punt 9°, waarvan niet kan worden aangetoond dat ze zijn verricht in het kader van werkelijke en oprechte verrichtingen die het gevolg zijn van rechtmatige financiële of economische behoeften en die in totaal meer bedragen dan 100.000 euro per belastbaar tijdperk.<br>
+<br>
+§ 3. De emittent voldoet gedurende 60 maanden na de volstorting van de Vriendenaandelen aan de voorwaarden, vermeld in paragraaf 2, 4° tot en met 6°, 9° en 10°.<br>
+<br>
+Gedurende 60 maanden na de volstorting van de Vriendenaandelen voert de emittent geen kapitaalvermindering, inkoop van eigen aandelen of een andere vermindering of verdeling van het eigen vermogen door.
 
 ## [HOOFDSTUK III. Vormvoorwaarden en voorschriften (verv. decr. 27 november 2020, art. 5, I: 24 december 2020)]
 
@@ -71,6 +103,22 @@ Als de kredietnemer een zelfstandige is, kan de kredietgever, in geval van overl
 § 3. De Vlaamse Regering bepaalt de vormvoorwaarden en de procedure van registratie en schrapping van de Winwinlening.<br>
 &nbsp;
 
+### ART 4/1.
+
+&nbsp;§ 1. Een Vriendenaandeel is een aandeel op naam en vertegenwoordigt een fractie van het kapitaal of het eigen vermogen van de emittent.<br>
+<br>
+Het Vriendenaandeel kan alleen verworven worden door een inbreng in geld en op voorwaarde van een volledige volstorting. Leningen of converteerbare effecten kunnen niet omgezet worden in Vriendenaandelen.<br>
+<br>
+§ 2. Het volgestorte bedrag van de Vriendenaandelen bedraagt ten hoogste 75.000 euro per Vriendenaandeelhouder en 300.000 euro per emittent.<br>
+<br>
+§ 3. De Vlaamse Regering stelt de nadere regels vast met betrekking tot de inhoudelijke en vormelijke voorwaarden waaraan overeenkomsten tot uitgifte van een Vriendenaandeel moeten voldoen en regelt de procedure van registratie van die overeenkomsten. Ze kan een controleorgaan de bevoegdheid geven de naleving van de voorwaarden voor het Vriendenaandeel door de emittent en de Vriendenaandeelhouder te controleren.
+
+### ART 4/2.
+
+Het totale openstaande bedrag, in hoofdsom, dat in het kader van een of meer Winwinleningen aan een of meer kredietnemers uitgeleend of ter beschikking gesteld wordt samen met het volgestorte bedrag van een of meer Vriendenaandelen, bedraagt ten hoogste 75.000 euro per kredietgever van een Winwinlening of Vriendenaandeelhouder.<br>
+<br>
+Het totale openstaande bedrag, in hoofdsom, dat in het kader van een of meer Winwinleningen uitgeleend of ter beschikking gesteld wordt samen met het volgestorte bedrag van een of meer Vriendenaandelen aan dezelfde vennootschap, bedraagt ten hoogste 300.000 euro.
+
 ### ART. 5.
 
 <P>...</P>
@@ -79,7 +127,18 @@ Als de kredietnemer een zelfstandige is, kan de kredietgever, in geval van overl
 
 ### ART. 6.
 
-De kredietnemer gebruikt de in het kader van de Winwinlening geleende of ter beschikking gestelde middelen uitsluitend voor ondernemingsdoeleinden. <br /><br />De Vlaamse Regering kan bepalen welke doeleinden als ondernemingsdoeleinden in de zin van het eerste lid in aanmerking komen.<br /><br />
+De kredietnemer gebruikt de in het kader van de Winwinlening geleende of ter beschikking gestelde middelen uitsluitend voor ondernemingsdoeleinden.<br>
+<br>
+De Vlaamse Regering kan bepalen welke doeleinden als ondernemingsdoeleinden in de zin van het eerste lid in aanmerking komen.<br>
+<br>
+De kredietnemer kan de bedragen die in het kader van de Winwinlening geleend of ter beschikking gesteld zijn, niet gebruiken voor de volstorting van Vriendenaandelen.<br>
+&nbsp;
+
+### ART 6/1.
+
+De emittent gebruikt de ontvangen sommen uit het Vriendenaandeel niet om:<br>
+1° dividenden uit te keren, met inbegrip van de uitkering van liquidatiereserves of de aankoop van aandelen;<br>
+2° leningen te verstrekken.
 
 ## HOOFDSTUK V Jaarlijkse bewijslevering
 
@@ -91,6 +150,14 @@ De Vlaamse Regering bepaalt de vormgeving van het bewijs, vermeld in het eerste 
 <br>
 De bewijslevering, vermeld in het eerste en tweede lid, is een noodzakelijke voorwaarde om van het belastingkrediet, vermeld in hoofdstuk VI, te kunnen genieten.<br>
 &nbsp;
+
+### ART 7/1.
+
+Vanaf het jaar waarin het Vriendenaandeel wordt volgestort, houdt de Vriendenaandeelhouder het bewijs dat hij in het belastbare tijdperk een of meer Vriendenaandelen heeft volgestort of eerder volgestorte aandelen heeft behouden, ter beschikking van de belastingadministratie.<br>
+<br>
+De Vlaamse Regering bepaalt de vormgeving van het bewijs, vermeld in het eerste lid.<br>
+<br>
+De bewijslevering, vermeld in het eerste en tweede lid, is een noodzakelijke voorwaarde om het belastingkrediet, vermeld in hoofdstuk VI, te kunnen krijgen.
 
 ## HOOFDSTUK VI Fiscale bepalingen
 
