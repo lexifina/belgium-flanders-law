@@ -2,16 +2,16 @@
   "codex_id": 1016830,
   "title": "Decreet van 2008-05-09 houdende instemming met het Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart, aangenomen in Straatsburg op 9 september 1996 door de Centrale Commissie voor de Rijnvaart, alsmede met zijn bijlagen 1 en 2 en de bij bijlage 2 horende aanhangsels I tot en met V",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016830/VolledigDocument?datum=2008-06-23",
-  "source_sha256": "14c8e0f58aa844154f6ef8ada74f735a0b9b2bba23205363df4981e158984790",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016830/VolledigDocument?datum=2020-12-24",
+  "source_sha256": "69f8923249289c40595f8fa2468ca6f1b004b430c450a6bf92e122f659c33b8c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016830&param=informatie",
-  "as_of": "2008-06-23",
+  "as_of": "2020-12-24",
   "made": "2008-05-09",
   "gazette": "2008-06-13",
   "numac": 2008201885,
   "document_start": "2008-06-23",
   "document_end": null,
-  "in_force": "2008-06-23",
+  "in_force": "2020-12-24",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2008-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-12-24; future article versions excluded; article text as the API gives it"
 }
