@@ -3993,7 +3993,8 @@ De lestijden, respectievelijk de lesuren, en uren, inclusief de omgezette begele
 a) voor het schooljaar 2017-2018: de eerste schooldag van oktober van de schooljaren 2011-2012 tot en met 2016-2017;<br>
 b) voor het schooljaar 2018-2019: de eerste schooldag van oktober van de schooljaren 2012-2013 tot en met 2016-2017 en de eerste schooldag van februari van het schooljaar 2017-2018;<br>
 c) voor het schooljaar 2019-2020: de eerste schooldag van oktober van de schooljaren 2013-2014 tot en met 2016-2017 en de eerste schooldag van februari van de schooljaren 2017-2018 en 2018-2019.<br>
-d) voor het schooljaar 2020-2021: de eerste schooldag van oktober van de schooljaren 2014-2015 tot en met 2016-2017 en de eerste schooldag van februari van de schooljaren 2017-2018, 2018-2019 en 2019-2020.<br>
+d) voor het schooljaar 2020-2021: de eerste schooldag van oktober van de schooljaren 2014-2015 tot en met 2016-2017 en de eerste schooldag van februari van de schooljaren 2017-2018, 2018-2019 en 2019-2020;<br>
+e) voor het schooljaar 2021-2022: de eerste schooldag van oktober van de schooljaren 2015-2016 en 2016-2017 en de eerste schooldag van februari van de schooljaren 2017-2018, 2018-2019, 2019-2020 en 2020-2021.<br>
 <br>
 Voor de middelen, vermeld in paragraaf 1, 2°, gebeurt deze verdeling afzonderlijk voor het basisonderwijs en voor het secundair onderwijs.<br>
 <br>
@@ -4015,7 +4016,7 @@ De middelen voor coördinatie worden in mindering gebracht van de budgetten die 
 <br>
 Middelen voor coördinatie van een ondersteuningsnetwerk van het overleg kleine onderwijsverstrekkers kunnen worden georganiseerd vanuit het begeleidingskorps dat aan de kleine onderwijsverstrekkers werd toegekend in toepassing van artikel VI.1, § 4, van het decreet van 21 maart 2014 betreffende maatregelen voor leerlingen met specifieke onderwijsbehoeften<br>
 <br>
-§ 4. Het globale verlies op het niveau van een onderwijsnet ten gevolge van de berekeningswijze, vermeld in paragraaf 3, in vergelijking met de situatie op niveau van een onderwijsnet van waarborg en begeleidingseenheden gon, met uitzondering van de doelgroepen, bedoeld in artikel 172quinquies/1, in het schooljaar 2016-2017, wordt gecompenseerd voor een transitieperiode van de schooljaren 2017-2018 tot en met 2020-2021 bij wijze van een garantiefonds, door het aandeel van de scholen en centra van het stijgende onderwijsnet procentueel te verminderen en het aandeel van de scholen en centra van het dalende onderwijsnet procentueel te vermeerderen naar rato van het vastgestelde verlies van het dalende onderwijsnet.<br>
+§ 4. Het globale verlies op het niveau van een onderwijsnet ten gevolge van de berekeningswijze, vermeld in paragraaf 3, in vergelijking met de situatie op niveau van een onderwijsnet van waarborg en begeleidingseenheden gon, met uitzondering van de doelgroepen, bedoeld in artikel 172quinquies/1, in het schooljaar 2016-2017, wordt gecompenseerd voor een transitieperiode van de schooljaren 2017-2018&nbsp;tot en met 2021-2022 bij wijze van een garantiefonds, door het aandeel van de scholen en centra van het stijgende onderwijsnet procentueel te verminderen en het aandeel van de scholen en centra van het dalende onderwijsnet procentueel te vermeerderen naar rato van het vastgestelde verlies van het dalende onderwijsnet.<br>
 <br>
 De middelen die het dalende onderwijsnet op die wijze ontvangt, vallen onder de regie van dat onderwijsnet om de verliezen in het buitengewoon onderwijs te compenseren zodat er geen verlies is aan tewerkstelling en ondersteuning die vandaag bestaat. Deze middelen worden tijdens de transitieperiode ingezet voor de verdere ondersteuning van scholen en centra in het gewoon onderwijs van de onderwijsnetten.<br>
 <br>
@@ -4037,7 +4038,7 @@ Het aandeel begeleidingseenheden waarover de commissies in de schooljaren 2018-2
 <br>
 § 7. De afspraken die samenwerkende scholen in dit project maken betreffende de inzetbaarheid van de personeelsleden, vallen onder de toepassing van artikel 12quater van het decreet Rechtspositie Personeelsleden Gemeenschapsonderwijs en artikel 17quater van het decreet Rechtspositie Personeelsleden Gesubsidieerd Onderwijs.<br>
 <br>
-§ 8. In afwijking van artikel 8 tot en met artikel 15, artikel 16bis tot en met artikel 20, en artikel 22 tot en met artikel 23 van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de opdracht van het personeel in het basisonderwijs geldt voor het onderwijzend personeel, het paramedisch personeel, het medisch, sociaal, psychologisch en orthopedagogisch personeel dat aangesteld wordt in een betrekking in het buitengewoon basisonderwijs tijdens het schooljaar 2017-2018 tot en met&nbsp;2020-2021 een hoofdopdracht van 22 lestijden en een schoolopdracht van 26 klokuren.<br>
+§ 8. In afwijking van artikel 8 tot en met artikel 15, artikel 16bis tot en met artikel 20, en artikel 22 tot en met artikel 23 van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de opdracht van het personeel in het basisonderwijs geldt voor het onderwijzend personeel, het paramedisch personeel, het medisch, sociaal, psychologisch en orthopedagogisch personeel dat aangesteld wordt in een betrekking in het buitengewoon basisonderwijs tijdens het schooljaar 2017-2018 tot en met&nbsp;2021-2022 een hoofdopdracht van 22 lestijden en een schoolopdracht van 26 klokuren.<br>
 <br>
 De hoofdopdracht bestaat in de ondersteuning van het onderwijzend personeel en van het kind dat de ondersteuning nodig heeft in het gewoon onderwijs.<br>
 <br>
