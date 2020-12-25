@@ -66,7 +66,12 @@ Elk beroepskwalificatiedossier wordt voor validering aan de   valideringscommiss
 
 ### ART. 8.
 
-<P>Een valideringscommissie wordt als volgt samengesteld : <BR>1° twee   effectieve en twee plaatsvervangende leden aangeduid door de SERV uit de   interprofessionele sociale partners;<BR>2° Eén effectief en één plaatsvervangend   lid aangeduid door de VDAB en één effectief en één plaatsvervangend lid   aangeduid door Syntra Vlaanderen;<BR>3° één onafhankelijke interne expert en één   plaatsvervanger uit het agentschap. Die expert is niet stemgerechtigd en neemt   de kwaliteitsbewaking op. <BR></P>  <P>Het voorzitterschap wordt waargenomen door een onafhankelijke externe expert,   aangeduid door de minister.</P>
+<p>Een valideringscommissie wordt als volgt samengesteld :<br>
+1° twee effectieve en twee plaatsvervangende leden aangeduid door de SERV uit de interprofessionele sociale partners;<br>
+2° Eén effectief en één plaatsvervangend lid aangeduid door de VDAB en één effectief en één plaatsvervangend lid aangeduid door het Agentschap Innoveren en Ondernemen;<br>
+3° één onafhankelijke interne expert en één plaatsvervanger uit het agentschap. Die expert is niet stemgerechtigd en neemt de kwaliteitsbewaking op.</p>
+
+<p>Het voorzitterschap wordt waargenomen door een onafhankelijke externe expert, aangeduid door de minister.</p>
 
 ### ART. 9.
 
