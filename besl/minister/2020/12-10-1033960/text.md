@@ -31,3 +31,9 @@ DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID, GEZIN EN ARMOEDEBESTRIJDING BE
 In artikel 36, 1°, van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013 wordt de zinsnede "zes" vervangen door de zinsnede "twaalf".
 
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 5.
+
+Artikel 1 tot en met 3 van dit besluit, treden in werking op 1 januari 2021.<br>
+<br>
+Artikel 4 van dit besluit heeft uitwerking met ingang van 1 april 2020.
