@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033964,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-04 tot wijziging van het besluit van de Vlaamse Regering van 26 april 2019 betreffende zorgstrategische planning, wat betreft het uitstel van de inwerkingtreding ervan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033964/VolledigDocument?datum=2020-12-28",
+  "source_sha256": "24f59eb9ce5ed2d5ce606cc4a4b83480a37e9b83382739a2b81f8056ea1cf110",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033964&param=informatie",
+  "as_of": "2020-12-28",
+  "made": "2020-12-04",
+  "gazette": "2020-12-18",
+  "numac": 2020044245,
+  "document_start": "2020-12-28",
+  "document_end": null,
+  "in_force": "2020-12-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2020-12-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
