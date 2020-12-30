@@ -66,9 +66,7 @@ De eigenaar, de lessee en de leasemaatschappij in kwestie van de stationaire ins
 
 ### ART 2.
 
-Dit besluit treedt in werking op 1 augustus 2019.<br>
-<br>
-Artikel 7.14.1 van hetzelfde besluit, ingevoegd bij artikel 1, wordt opgeheven op 1 januari 2021.
+Dit besluit treedt in werking op 1 augustus 2019.
 
 ### ART 3.
 
