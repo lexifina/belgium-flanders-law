@@ -48,6 +48,8 @@ b) de aanvraag een tijdelijke uitvoer of overbrenging of een doorvoer met het oo
 c) de aanvraag een in wezen identieke transactie betreft waarvoor in de afgelopen drie jaar al een vergunning werd toegekend of een positief voorlopig advies als vermeld in artikel 9, § 1, van het Wapenhandeldecreet werd afgeleverd;<br>
 d) de aanvraag een tijdelijke uitvoer of overbrenging met het oog op onderhoud of herstelling betreft; of<br>
 e) de aanvrager de EU, de NAVO, de VN, of het IAEA betreft, of een andere intergouvernementele organisatie waarvan het Vlaamse Gewest of België lid is;<br>
+f) de goederen bestemd zijn voor het eigen gebruik door de EU, de NAVO, de VN, of het IAEA, of een andere intergouvernementele organisatie waarvan het Vlaamse Gewest of België lid is; of<br>
+g) de goederen bestemd zijn voor het eigen gebruik door de strijdkrachten, de binnenlandse veiligheidsdiensten of vergelijkbare entiteiten van een lidstaat van de EER of van één van de volgende lidstaten van de NAVO of van het Wassenaar Arrangement: Argentinië, Australië, Canada, Japan, Nieuw-Zeeland, het Verenigd Koninkrijk, de Verenigde Staten, Zuid-Korea en Zwitserland;<br>
 3° aanvragen voor het verkrijgen van een verlenging van een eerder toegekende vergunning.<br>
 <br>
 De delegatie, vermeld in het eerste lid, punt 1° en 2°, geldt ook voor het geven van een voorlopig advies over de betreffende invoer, uitvoer, doorvoer of overbrenging als vermeld in artikel 9, § 1, van het voormelde decreet.<br>
