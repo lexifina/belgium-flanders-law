@@ -2,16 +2,16 @@
   "codex_id": 1020020,
   "title": "Ministerieel besluit van 2010-10-29 tot nadere invulling van de regels inzake de indeling van de verrichtingen in de financiële administratie, de boekhoudkundige waarderings- en rubriceringsregels, de financiële rapportering aan de Vlaamse overheid en de boekhoudkundige organisatie van de sociale huisvestingsmaatschappijen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020020/VolledigDocument?datum=2019-07-28",
-  "source_sha256": "d0b48ab59aa2afe7e632c18d56ff80fd378adf8f4f55e050030add253c78bc1d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020020/VolledigDocument?datum=2020-12-31",
+  "source_sha256": "8d42ed9faf6a4a8e626ce83d743f2751b32ceb060e1919f25228b9d9daf974da",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020020&param=informatie",
-  "as_of": "2019-07-28",
+  "as_of": "2020-12-31",
   "made": "2010-10-29",
   "gazette": "2011-02-10",
   "numac": 201135136,
   "document_start": "2011-01-01",
   "document_end": null,
-  "in_force": "2019-07-28",
+  "in_force": "2020-12-31",
   "article_versions": 55,
-  "record_form": "consolidated version as in force on 2019-07-28; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2020-12-31; future article versions excluded; article text as the API gives it"
 }

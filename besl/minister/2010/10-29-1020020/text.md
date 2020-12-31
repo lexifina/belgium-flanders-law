@@ -350,7 +350,64 @@ De kapitaalwaarde van onroerende goederen die onder de voorwaarden van artikel 5
 
 ### ART. 9.
 
-§ 1. Alle afschrijfbare onroerende goederen of geactiveerde werken in   onroerende staat worden lineair afgeschreven.<BR><BR>Indien er op 31 december   2010 onroerende goederen of werken in onroerende staat afgeschreven worden op   basis van een progressief afschrijvingsritme, wordt de resterende boekwaarde van   deze goederen of werken vanaf boekjaar 2011 gedurende de resterende   afschrijvingsduur op lineaire wijze afgeschreven. 'In voorkomend geval kan de   sociale huisvestingsmaatschappij er vanaf het boekjaar 2011 voor opteren om   eenmalig een inhaalafschrijving te boeken ten bedrage van het verschil tussen   enerzijds de som van de op 31 december van het voorgaande boekjaar uitstaande   geboekte afschrijvingen en anderzijds de geboekte afschrijvingen op 31 december   van hetzelfde boekjaar, die verkregen zouden zijn bij toepassing van de lineaire   afschrijvingsmethode van bij de aanvang van de ingebruikname van de betrokken   goederen of werken.<BR><BR>§ 2. De aankoopprijs, vervaardigingsprijs of   inbrengwaarde vermeld in artikel 2, § 1, 1° van nieuw gerealiseerde gebouwen of   integrale renovaties welke als materiële vaste activa geboekt worden en waarvan   de eerste afschrijving plaatsvindt in 2011 of een later boekjaar, wordt lineair   afgeschreven over een periode van drieëndertig jaar die aanvangt vanaf het   moment van de bedrijfsklaarheid of, indien de sociale huisvestingsmaatschappij   aan de voorwaarden van artikel 15 van het Wetboek van Vennootschappen voldoet om   als kleine vennootschap beschouwd te worden, de start van het boekjaar waarin   het gebouw of de renovatie bedrijfsklaar is.<BR><BR>De interne en de externe bij   de aankoop komende kosten vermeld in artikel 2, § 1, 2°, alsook de geactiveerde   rente op vreemd vermogen vermeld in artikel 2, § 1, 3°, worden samen met de   aankoopprijs, vervaardigingsprijs of inbrengwaarde vermeld in artikel 2, § 1, 1°   afgeschreven of vormen samen het voorwerp van waardeverminderingen.<BR><BR>In   afwijking van het eerste lid worden bebouwde onroerende goederen die een sociale   huisvestingsmaatschappij in gebruik heeft ingevolge een erfpacht-, opstal,   leasing of soortgelijke overeenkomst en waarbij de bepalingen van de   overeenkomst voldoen aan de voorwaarden vermeld in artikel 95, § 1, III. D. van   het K.B. van 30 januari 2001 tot uitvoering van het Wetboek van Vennootschappen,   afgeschreven over de duur van deze overeenkomst indien deze korter is dan de   termijn in het eerste lid.<BR><BR>In afwijking van het eerste lid worden   gebouwen die de sociale huisvestingsmaatschappij in eigendom heeft op een   terrein waarop zij een opstal- of erfpachtrecht heeft verworven, afgeschreven   over de duur van deze opstal- of erfpachtovereenkomst indien deze korter is dan   de termijnen in het eerste of het derde lid van dit artikel.<BR><BR>De   aankoopprijs, vervaardigingsprijs of inbrengwaarde, vermeld in artikel 2, § 1,   tweede lid, 1°, van deze bijlage, van gebouwen die door de sociale   huisvestingsmaatschappij zijn verworven om als vast actief verhuurd te worden en   die op het moment van hun opname in het vermogen van de sociale   huisvestingsmaatschappij niet als een nieuw gebouw beschouwd kunnen worden, kan   lineair afgeschreven worden over een periode die korter is dan 33 jaar als de   technische staat waarin de gebouwen zich op dat moment bevinden, het   waarschijnlijk maakt dat ingrijpende renovaties uitgevoerd zullen worden na een   gebruiksperiode van minder dan 33 jaar.<BR><BR>§ 3. Voor de volgende vaak   voorkomende renovaties bedraagt de afschrijvingstermijn de volgende :<BR>1°   renovaties afschrijfbaar over een periode van 15 jaar :<BR>a. vernieuwen van   keukenmeubilair en -toestellen;<BR>b. vernieuwen van badkamermeubilair en   -toestellen;<BR>c. vernieuwen van binnenschrijnwerk;<BR>d. vernieuwen van   vloerbekleding;<BR>e. vernieuwen van elektrische uitrusting van de woning;<BR>f.   vernieuwing van sanitaire uitrusting;<BR>g. plaatsing van nieuwe c.v.-ketels met   hoog rendement;<BR>2° renovaties afschrijfbaar over 33 jaar :<BR>a. vernieuwen   van installaties voor centrale verwarming;<BR>b. vernieuwen van   buitenschrijnwerk;<BR>c. vernieuwen van dakbedekking;<BR>d. vernieuwen van het   volledige parament van buitengevels;<BR>e. vernieuwen van   liftinstallaties.<BR><BR>De afschrijvingstermijn van renovaties die niet vermeld   worden in het eerste lid, stemt overeen met de geraamde reële economische   levensduur van de betrokken activa zonder echter de termijn van 33 jaar te   overschrijden<BR><BR>Indien de renovatie bestaat uit de vervanging van elementen   met een verschillende economische levensduur, wordt de aanschaffingswaarde van   de renovatie gesplitst geregistreerd indien dit mogelijk is, of, indien dit niet   mogelijk is, wordt de renovatie afgeschreven over de termijn van het meest   relevante deel van de renovatiewerkzaamheden.
+§ 1. Alle afschrijfbare onroerende goederen of geactiveerde werken in onroerende staat worden lineair afgeschreven.<br>
+<br>
+Indien er op 31 december 2010 onroerende goederen of werken in onroerende staat afgeschreven worden op basis van een progressief afschrijvingsritme, wordt de resterende boekwaarde van deze goederen of werken vanaf boekjaar 2011 gedurende de resterende afschrijvingsduur op lineaire wijze afgeschreven. 'In voorkomend geval kan de sociale huisvestingsmaatschappij er vanaf het boekjaar 2011 voor opteren om eenmalig een inhaalafschrijving te boeken ten bedrage van het verschil tussen enerzijds de som van de op 31 december van het voorgaande boekjaar uitstaande geboekte afschrijvingen en anderzijds de geboekte afschrijvingen op 31 december van hetzelfde boekjaar, die verkregen zouden zijn bij toepassing van de lineaire afschrijvingsmethode van bij de aanvang van de ingebruikname van de betrokken goederen of werken.<br>
+<br>
+§ 2. De aanschaffingswaarde, vermeld in artikel 2, § 1, van nieuw gerealiseerde gebouwen of integrale renovaties die als materiële vaste activa geboekt worden en waarvan de eerste afschrijving plaatsvindt in het boekjaar 2021 of in een later boekjaar, wordt lineair afgeschreven over een periode van vijftig jaar die aanvangt vanaf het moment van de bedrijfsklaarheid, met uitzondering van de volgende onderdelen, die lineair worden afgeschreven over de volgende termijnen:<br>
+1° sanitair: 15 jaar;<br>
+2° lift: 25 jaar;<br>
+3° centrale verwarming, exclusief de verwarmingsketel: 25 jaar;<br>
+4° centrale verwarming, verwarmingsketel: 15 jaar;<br>
+5° warmtepomp: 15 jaar;<br>
+6° zonneboiler: 15 jaar;<br>
+7° fotovoltaïsch zonne-energiesysteem, exclusief omvormers: 20 jaar;<br>
+8° omvormers fotovoltaïsch zonne-energiesysteem: 10 jaar;<br>
+9° ventilatie: 15 jaar.<br>
+<br>
+Het bedrag van de kostprijselementen die in minder dan vijftig jaar afgeschreven worden, wordt berekend op basis van de bedragen in de vorderingsstaten van het project in kwestie van de sociale huisvestingsmaatschappij. De sociale huisvestingsmaatschappij kan ervoor opteren om die bedragen, met uitzondering van het fotovoltaïsche zonne-energiesysteem, forfaitair te bepalen door de volgende percentages toe te passen op de aankoopprijs, vervaardigingsprijs of inbrengwaarde van de nieuwe gerealiseerde gebouwen of integrale renovaties:<br>
+1° sanitair: 5%;<br>
+2° lift: 2%;<br>
+3° centrale verwarming, exclusief de verwarmingsketel: 4%;<br>
+4° centrale verwarming, verwarmingsketel: 2%;<br>
+5° warmtepomp: 0,75%;<br>
+6° zonneboiler: 1,5%;<br>
+7° ventilatie: 2,5%.<br>
+<br>
+Het niet-afgeschreven gedeelte van de aanschaffingswaarde, vermeld in artikel 2, § 1, van nieuw gerealiseerde gebouwen of integrale renovaties die als materiële vaste activa geboekt worden en waarvan de eerste afschrijving heeft plaatsgevonden in de periode van boekjaar 2011 tot en met boekjaar 2020, wordt vanaf het boekjaar 2020 of 2021 afgeschreven conform het eerste lid, verminderd met het aantal jaren dat het gebouw of de renovatie is afgeschreven in de periode die aan dit boekjaar voorafgaat.<br>
+<br>
+De sociale huisvestingsmaatschappijen kunnen ervoor opteren om in het boekjaar 2020 of 2021 de geboekte afschrijvingen van de gebouwen of renovaties, vermeld in het derde lid, terug te nemen voor het bedrag van het verschil tussen de al geboekte afschrijvingen en de afschrijvingen die geboekt zouden zijn in de periode die aan het boekjaar van de terugname voorafgaat, als de afschrijvingen worden berekend conform het eerste en tweede lid. De sociale huisvestingsmaatschappij maakt melding van de terugname in de toelichting van het boekjaar waarin deze verrichting is geboekt.<br>
+<br>
+De interne en de externe bij de aankoop komende kosten vermeld in artikel 2, § 1, 2°, alsook de geactiveerde rente op vreemd vermogen vermeld in artikel 2, § 1, 3°, worden samen met de aankoopprijs, vervaardigingsprijs of inbrengwaarde vermeld in artikel 2, § 1, 1° afgeschreven of vormen samen het voorwerp van waardeverminderingen.<br>
+<br>
+In afwijking van het eerste lid worden bebouwde onroerende goederen die een sociale huisvestingsmaatschappij in gebruik heeft ingevolge een erfpacht-, opstal, leasing of soortgelijke overeenkomst en waarbij de bepalingen van de overeenkomst voldoen aan de voorwaarden vermeld in artikel 95, § 1, III. D. van het K.B. van 30 januari 2001 tot uitvoering van het Wetboek van Vennootschappen, afgeschreven over de duur van deze overeenkomst indien deze korter is dan de termijn in het eerste lid.<br>
+<br>
+In afwijking van het eerste lid worden gebouwen die de sociale huisvestingsmaatschappij in eigendom heeft op een terrein waarop zij een opstal- of erfpachtrecht heeft verworven, afgeschreven over de duur van deze opstal- of erfpachtovereenkomst indien deze korter is dan de termijnen in het eerste of het derde lid van dit artikel.<br>
+<br>
+De aankoopprijs, vervaardigingsprijs of inbrengwaarde, vermeld in artikel 2, § 1, tweede lid, 1°, van deze bijlage, van gebouwen die door de sociale huisvestingsmaatschappij zijn verworven om als vast actief verhuurd te worden en die op het moment van hun opname in het vermogen van de sociale huisvestingsmaatschappij niet als een nieuw gebouw beschouwd kunnen worden, kan lineair afgeschreven worden over een periode die korter is dan 33 jaar als de technische staat waarin de gebouwen zich op dat moment bevinden, het waarschijnlijk maakt dat ingrijpende renovaties uitgevoerd zullen worden na een gebruiksperiode van minder dan 33 jaar.<br>
+<br>
+§ 3. De onderstaande afschrijvingstermijnen gelden voor de volgende renovaties:<br>
+1° de volgende renovaties aan de binnenkant van het gebouw kunnen over een periode van 15 jaar afgeschreven worden:<br>
+a) keukenmeubilair en -toestellen vernieuwen;<br>
+b) binnenschrijnwerk vernieuwen;<br>
+c) vloerbekleding vernieuwen;<br>
+d) elektrische uitrusting van de woning vernieuwen;<br>
+e) sanitaire uitrusting vernieuwen;<br>
+f) nieuwe verwarmingsketels met hoog rendement plaatsen;<br>
+2° de volgende renovaties aan de binnenkant van het gebouw kunnen over een periode van 25 jaar afgeschreven worden:<br>
+a) installaties voor centrale verwarming, exclusief de verwarmingsketel vernieuwen;<br>
+b) liftinstallaties vernieuwen;<br>
+3° de volgende renovaties aan de buitenkant van het gebouw kunnen over een periode 15 jaar afgeschreven worden:<br>
+a) dakbedekking vernieuwen, zonder de hele bestaande dakbedekking te verwijderen;<br>
+b) een gedeelte van het buitenschrijnwerk vernieuwen, in het kader van een gestructureerde aanpak, bv. de vervanging van de garagepoorten van een reeks woningen of garages;<br>
+4° de volgende renovaties aan de buitenkant van het gebouw kunnen over een periode van 33 jaar afgeschreven worden:<br>
+a) het volledige buitenschrijnwerk vernieuwen;<br>
+b) de volledige dakbedekking vernieuwen, met gehele verwijdering van de bestaande dakbedding;<br>
+c) het volledige parament van buitengevels vernieuwen.<br>
+<br>
+De afschrijvingstermijn van renovaties die niet vermeld worden in het eerste lid, stemt overeen met de geraamde reële economische levensduur van de betrokken activa zonder echter de termijn van 33 jaar te overschrijden<br>
+<br>
+Indien de renovatie bestaat uit de vervanging van elementen met een verschillende economische levensduur, wordt de aanschaffingswaarde van de renovatie gesplitst geregistreerd indien dit mogelijk is, of, indien dit niet mogelijk is, wordt de renovatie afgeschreven over de termijn van het meest relevante deel van de renovatiewerkzaamheden.
 
 ### ART. 10.
 
@@ -524,4 +581,4 @@ Indien de sociale huisvestingsmaatschappij aan de huurder een gespreide betaling
 
 ### BIJLAGE 2.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/07/18_2.pdf#page=75">Rekeningenstelsel sociale huisvestingsmaatschappijen</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/12/22_1.pdf#page=268">Rekeningstelsel sociale huisvestingsmaatschappijen</a>
