@@ -620,7 +620,7 @@ Als er tussen de gebruiker en het dagverzorgingscentrum op 1 januari 2019 al een
 
 ### ART 50.
 
-In afwijking van artikel 47 zijn van 1 januari 2019 tot en met 31 december 2020 de prestatiecodes van de digitale individuele kostennota, vermeld in artikel 521, § 2, van het besluit van 30 november 2018, opgenomen in bijlage 3, die bij dit besluit is gevoegd.
+In afwijking van artikel 47 zijn van 1 januari 2019 tot en met 31 december 2022 de prestatiecodes van de digitale individuele kostennota, vermeld in artikel 521, § 2, van het besluit van 30 november 2018, opgenomen in bijlage 3, die bij dit besluit is gevoegd.
 
 ### ART 51.
 
@@ -630,7 +630,7 @@ Een opleiding als vermeld in titel 5, hoofdstuk 3, van dit besluit, die vóór d
 
 ### ART 52.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2019, met uitzondering van artikel 47 en bijlage 2, die in werking treden op 1 januari 2021.
+Dit besluit heeft uitwerking met ingang van 1 januari 2019, met uitzondering van artikel 47 en bijlage 2, die in werking treden op 1 januari 2023.
 
 ### BIJLAGE
 
@@ -723,9 +723,9 @@ Om te eten is de persoon volledig afhankelijk van derden of van een voedingstech
 
 ### BIJLAGE
 
-<span style="font-size: medium;"><span style="color: rgb(0, 0, 0);"><span style='font-family: "Times New Roman";'>Tabel met prestatiecodes van 1 januari 2019 tot en met 31 december 2020 als vermeld in artikel 50</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000">Bijlage 3. Tabel met prestatiecodes van 1 januari 2019 tot en met 31 december 2022 als vermeld in artikel 50</span></span><br>
 &nbsp;
-<table style='width: 900px; text-transform: none; letter-spacing: normal; font-family: "Times New Roman"; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-color: initial; text-decoration-style: initial;' border="1">
+<table style="letter-spacing:normal; text-transform:none; width:900px">
 	<tbody>
 		<tr>
 			<td>prestatiecode</td>
