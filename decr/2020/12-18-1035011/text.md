@@ -105,6 +105,10 @@ Aan artikel 145<sup>46/1</sup> van het Wetboek van de Inkomstenbelastingen 1992,
 
 ## Onderafdeling 3. Aanpassing van artikel 135 van het decreet van 18 december 2015 houdende bepalingen tot begeleiding van de begroting 2016
 
+### ART 62.
+
+In artikel 135 van het decreet van 18 december 2015 houdende bepalingen tot begeleiding van de begroting 2016 worden punt 15° en 16° opgeheven.
+
 ## HOOFDSTUK 8. Economie, Wetenschap en Innovatie
 
 ## HOOFDSTUK 9. Inwerkingtreding
