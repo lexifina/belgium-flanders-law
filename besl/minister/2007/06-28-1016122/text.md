@@ -22,7 +22,8 @@ De documenten, vermeld in artikelen 2 en 3, moeten in het Nederlands, Frans of E
 
 ### ART. 5.
 
-Een verzoek tot goedkeuring van een projectactiviteit moet zowel elektronisch als schriftelijk worden ingediend bij de dienst Lucht en Klimaat van de afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid van de Vlaamse overheid. <br /><br />
+Een verzoek tot goedkeuring van een projectactiviteit moet zowel elektronisch als schriftelijk worden ingediend bij&nbsp;het Vlaams Energie- en Klimaatagentschap.<br>
+&nbsp;
 
 ### ART. 6.
 
