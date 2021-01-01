@@ -86,9 +86,9 @@ De maatregelen vermeld in artikel 3, tweede lid, van het decreet van 29 maart, h
 10° de activiteiten op het vlak van trajectbegeleiding vermeld in artikel 1, eerste lid, 5°, van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding;<br>
 11° de begeleidingen in het kader van het outplacement dat wordt ondersteund door het Sociaal Interventiefonds, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2011 tot uitvoering van artikel 5, § 1, 2°, e), van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
 12° de trajectbegeleiding van kandidaat-ondernemers door activiteitencoöperaties, conform artikel 14 van het decreet van 17 februari 2012 betreffende de ondersteuning van het ondernemerschap op het vlak van de sociale economie en de stimulering van het maatschappelijk verantwoord ondernemen;<br>
-13° de opleidingen en begeleidingen in het kader van de toegewezen trajecten van ondernemerscompetenties, vermeld in artikel 9 en 11, en artikel 44 van het besluit van de Vlaamse Regering van 14 september 2012 houdende de toegewezen trajecten, innovatie, projecten en het toezicht van het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br>
+13°...;<br>
 14° de loopbaanbegeleidingen door gemandateerde ondernemingen, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 17 mei 2013 betreffende de loopbaanbegeleiding;<br>
-15° het opleidingsaanbod in de leertijd en de ondernemerschapstrajecten, zoals georganiseerd door de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, vermeld in artikel 6 van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de erkenning en de subsidiëring van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, vermeld in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemervorming - Syntra Vlaanderen, bij het verstrekken van diensten van algemeen belang;<br>
+15° het opleidingsaanbod in de leertijd zoals georganiseerd door de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, vermeld in artikel 2, 15°, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
 16° de inschakeling, opleiding en begeleiding van doelgroepwerknemers door lokale diensteneconomieondernemingen, bepaald in hoofdstuk 3 van het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
 17° de begeleiding op en naar een werkvloer in het kader van de activeringstrajecten, vermeld in artikel 23, eerste lid, 1°, van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten;<br>
 18° het casemanagement werk in het kader van de activeringstrajecten, vermeld in artikel 11 en 12 van het van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten;<br>
@@ -254,11 +254,11 @@ Nadat de dienstverlener is gehoord, formuleert de adviescommissie een advies voo
 
 Het departement treedt op als verantwoordelijke voor de verwerking van persoonsgegevens, als vermeld in artikel 4, 7), van de Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
 <br>
-Het departement wisselt de nodige persoonsgegevens uit met de VDAB en het Vlaams Agentschap voor ondernemingsvorming - Syntra Vlaanderen.<br>
+Het departement wisselt de nodige persoonsgegevens uit met de VDAB.<br>
 <br>
 In het tweede lid wordt verstaan onder:<br>
 1° VDAB: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
-2° Vlaams Agentschap voor ondernemingsvorming - Syntra Vlaanderen: het Vlaams Agentschap voor ondernemersvorming - Syntra Vlaanderen, opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor ondernemersvorming - Syntra Vlaanderen".<br>
+2° ...<br>
 <br>
 De persoonsgegevens worden beveiligd volgens de dataclassificatie en de richtlijnen van het stuurorgaan Vlaams Informatie- en ICT-beleid, overeenkomstig artikel 3, tweede lid, 3°, van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid.
 
