@@ -42,45 +42,19 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-De minister kan een oproep doen om een planningsvergunning aan te vragen voor een bijzondere erkenning voor de zorg en ondersteuning van personen met jongdementie. Hij bepaalt hiervoor de nadere regels en de uiterste indieningsdatum.
+...
 
 ### ART 3.
 
-De aanvraag van een planningsvergunning is alleen ontvankelijk als ze al de volgende gegevens en stukken bevat:<br>
-1° een aanvraagformulier dat het agentschap ter beschikking stelt en dat al de volgende gegevens bevat:<br>
-a) de identificatiegegevens van de initiatiefnemer en het woonzorgcentrum met een bijkomende erkenning waarvoor de planningsvergunning wordt aangevraagd;<br>
-b) het aantal woongelegenheden waarvoor de planningsvergunning wordt aangevraagd;<br>
-c) het aantal bezettingsdagen door personen met jongdementie in het woonzorgcentrum met een bijkomende erkenning in het jaar dat voorafgaat aan de oproep, vermeld in artikel 2;<br>
-2° als de initiatiefnemer een rechtspersoon is, met uitzondering van openbare besturen: de statuten en de eventuele wijzigingen ervan;<br>
-3° een kopie van de beslissing van het bevoegde orgaan om een planningsvergunning aan te vragen voor een bijzondere erkenning voor de zorg en ondersteuning van personen met jongdementie;<br>
-4° een toelichting waarin de volgende elementen aan bod komen:<br>
-a) de voorwaarden, vermeld in artikel 48/31, 3° en 5°, van bijlage XII bij het besluit van 24 juli 2009;<br>
-b) de visie op zorg en ondersteuning van personen met dementie in het algemeen en van personen met jongdementie in het bijzonder;<br>
-c) de verwachte rentabiliteit en prijszetting;<br>
-d) de professionele kwaliteitsgaranties van de initiatiefnemer;<br>
-5° het advies van het Expertisecentrum Dementie Vlaanderen, vermeld in de bijlage I van het Besluit van de Vlaamse Regering van 9 mei 2014 tot vastlegging van de regels voor de erkenning en de subsidiëring van partnerorganisaties ter uitvoering van artikel 68, § 1, van het Woonzorgdecreet van 13 maart 2009.<br>
-<br>
-Het advies, vermeld in het eerste lid, 5°, behandelt minstens de expertise die het woonzorgcentrum in kwestie heeft opgebouwd in de zorg voor personen met dementie en in de zorg voor personen met jongdementie, en de visie van de initiatiefnemer op zorg en ondersteuning van personen met dementie in het algemeen en van personen met jongdementie in het bijzonder.<br>
-<br>
-Het agentschap onderzoekt de ontvankelijkheid van de aanvraag van de planningsvergunning.<br>
-<br>
-Als de aanvraag niet ontvankelijk is, brengt het agentschap de initiatiefnemer daarvan op de hoogte binnen dertig kalenderdagen nadat het de aanvraag heeft ontvangen.
+...
 
 ### ART 4.
 
-Het agentschap onderzoekt of de toekenning van de planningsvergunning mogelijk is binnen de programmatie, vermeld in artikel 48/30 van de bijlage XII van het besluit van 24 juli 2009.<br>
-<br>
-Als het aantal woongelegenheden waarvoor een planningsvergunning wordt aangevraagd, hoger ligt dan de vrije ruimte in de programmatie, geeft het agentschap een hogere prioriteit aan aanvragen voor woonzorgcentra met een bijkomende erkenning die in het jaar dat voorafgaat aan de oproep meer bezettingsdagen door personen met jongdementie hebben gerealiseerd.
+...
 
 ### ART 5.
 
-§ 1. De administrateur-generaal beslist over de toekenning van de planningsvergunning. De beslissing wordt uiterlijk honderdtwintig dagen na de uiterste indieningsdatum aan de initiatiefnemer meegedeeld met een aangetekende brief of op een andere wijze die de minister bepaalt.<br>
-<br>
-De planningsvergunning vermeldt de identiteit van de initiatiefnemer, de inplantingsplaats, het aantal woongelegenheden en de geldigheidsduur.<br>
-<br>
-De planningsvergunning is twee jaar geldig.<br>
-<br>
-§ 2. Als de administrateur-generaal het voornemen heeft om de planningsvergunning te weigeren, brengt hij de initiatiefnemer daarvan op de hoogte met een aangetekende brief of op een andere wijze die de minister bepaalt. Hij vermeldt daarbij de mogelijkheid en de voorwaarden om tegen het voornemen bezwaar aan te tekenen.
+...
 
 ## HOOFDSTUK 3. [Bijkomende (verv. BVR 20 januari 2023, art. 34, I: 1 januari 2023)] erkenning
 
@@ -128,7 +102,7 @@ Uiterlijk 45 dagen voor de op basis van het eerste of tweede lid aangevraagde in
 
 ### ART 9.
 
-Binnen dertig dagen nadat de initiatiefnemer het voornemen tot weigering van de planningsvergunning of de bijzondere erkenning heeft ontvangen, kan hij daartegen een gemotiveerd bezwaarschrift indienen bij het agentschap. Hij dient het bezwaarschrift in met een aangetekende brief of op een andere wijze die de minister bepaalt. In het bezwaarschrift kan hij verzoeken om gehoord te worden.<br>
+Binnen dertig dagen nadat de initiatiefnemer het voornemen tot weigering van&nbsp;de bijzondere erkenning heeft ontvangen, kan hij daartegen een gemotiveerd bezwaarschrift indienen bij het agentschap. Hij dient het bezwaarschrift in met een aangetekende brief of op een andere wijze die de minister bepaalt. In het bezwaarschrift kan hij verzoeken om gehoord te worden.<br>
 <br>
 Het bezwaarschrift wordt behandeld en over het bezwaarschrift wordt beslist conform de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
 <br>
