@@ -2,16 +2,16 @@
   "codex_id": 1033774,
   "title": "Besluit van de Vlaamse Regering van 2020-10-09 houdende wijziging van het Energiebesluit van 19 november 2010, betreffende de omzetting van Richtlijn 2018/844/EU en betreffende diverse bepalingen inzake de energie-efficiëntie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033774/VolledigDocument?datum=2020-11-07",
-  "source_sha256": "b065cd3eb96f79229db1da388dc38d97e42d92c3dfa3e211595a8541affca65e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033774/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "9c35c708664d82e9ac7096e33b2094f82110f69561771548217685e33854589d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033774&param=informatie",
-  "as_of": "2020-11-07",
+  "as_of": "2021-01-01",
   "made": "2020-10-09",
   "gazette": "2020-10-28",
   "numac": 2020043384,
   "document_start": "2020-11-07",
   "document_end": null,
-  "in_force": "2020-11-07",
-  "article_versions": 60,
-  "record_form": "consolidated version as in force on 2020-11-07; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-01-01",
+  "article_versions": 63,
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }

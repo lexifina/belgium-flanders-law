@@ -698,6 +698,24 @@ Aan titel XII, hoofdstuk III van hetzelfde besluit, het laatst gewijzigd bij het
 <br>
 "Art. 12.3.22. In afwijking van artikel 9.2.1, § 5 en onverminderd artikel 9.2.4 komen vanaf 1 januari 2022 enkel nog energieprestatiecertificaten residentiële gebouwen die zijn opgemaakt vanaf 1 januari 2019 in aanmerking voor de verplichting, vermeld in artikel 9.2.3.".
 
+### ART 53.
+
+Bijlage V bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 30 november 2018 en gewijzigd bij het besluit van de Vlaamse Regering van 28 juni 2019, wordt vervangen door de bijlage 1 die bij dit besluit gevoegd is.
+
+### ART 54.
+
+Bijlage VI bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 15 december 2017, wordt vervangen door de bijlage 2 die bij dit besluit gevoegd is.
+
+### ART 55.
+
+In bijlage IX bij hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 30 november 2018, worden de volgende wijzigingen aangebracht:<br>
+1° punt 1.f. wordt vervangen door wat volgt:<br>
+"f. In uitbreiding van paragraaf 4.2 van de norm NBN D 50-001 mogen regelbare toevoeropeningen ook worden geplaatst in een dak met een helling die groter is dan 30°. ";<br>
+2° in punt 6 wordt tussen het woord "renovaties" en de woorden "en niet als een eis" de woorden "en ingrijpende energetische renovaties" ingevoegd;<br>
+3° er wordt een punt 8 toegevoegd dat luidt als volgt:<br>
+"8. Beschouw de som van het totale geëiste buitenluchttoevoerdebiet en het totale geëiste afvoerdebiet naar buiten van de EPW-eenheid.<br>
+Ten hoogste 2% van de som, vermeld in het eerste lid, wordt vrijgesteld van de eisen, vermeld in deze bijlage. Wanneer bij toepassing van deze regeling de ganse EPB-eenheid voldoet aan de eisen uit deze bijlage, wordt verondersteld dat ook elke ruimte afzonderlijk voldoet aan die eisen.".
+
 ### ART 57.
 
 In bijlage XIII bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 27 oktober 2017, worden volgende wijzigingen aangebracht:<br>
