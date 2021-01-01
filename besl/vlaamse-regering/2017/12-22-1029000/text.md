@@ -20,7 +20,7 @@ Besluit :
 
 In dit besluit wordt verstaan onder:<br>
 1° algemene groepsvrijstellingsverordening: de verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard;<br>
-2° beslissingscomité bij het Hermesfonds: het beslissingscomité, vermeld in artikel 41ter, § 1, van het decreet van 21 december 2001;<br>
+2° beslissingscomité bij het Fonds voor Innoveren en Ondernemen: het beslissingscomité, vermeld in artikel 41ter, § 1, van het decreet van 21 december 2001;<br>
 3° consortium: samenwerking tussen minstens 3 niet-verbonden ondernemingen;<br>
 4° daadwerkelijke samenwerking: de daadwerkelijke samenwerking, vermeld in artikel 2, 90, van de algemene groepsvrijstellingsverordening;<br>
 5° decreet van 21 december 2001: het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002;<br>
@@ -53,7 +53,7 @@ Er kan geen steun worden toegekend met toepassing van dit besluit voor activitei
 <br>
 De steun kan niet worden toegekend als hij leidt tot een schending van het Unierecht als vermeld in artikel 1, lid 5, van de voormelde verordening.<br>
 <br>
-Het beslissingscomité bij het Hermesfonds leeft bij steuntoekenning de verplichtingen voor de publicatie en de informatie, vermeld in artikel 9 van de voormelde verordening, na. Als een onderneming een individuele steuntoekenning krijgt van meer dan 500.000 euro, worden de gegevens, vermeld in bijlage 3 van de voormelde verordening, gepubliceerd op de transparantiewebsite die de Europese Commissie ontwikkeld heeft.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen leeft bij steuntoekenning de verplichtingen voor de publicatie en de informatie, vermeld in artikel 9 van de voormelde verordening, na. Als een onderneming een individuele steuntoekenning krijgt van meer dan 500.000 euro, worden de gegevens, vermeld in bijlage 3 van de voormelde verordening, gepubliceerd op de transparantiewebsite die de Europese Commissie ontwikkeld heeft.
 
 ## HOOFDSTUK 2. Toepassingsgebied voor steun tot bevordering van onderzoek, ontwikkeling en innovatie van het bedrijfsleven
 
@@ -81,9 +81,9 @@ Als de Vlaamse Regering beslist een initiatief te lanceren waarbij steun toegeke
 
 ### ART 6.
 
-Het beslissingscomité bij het Hermesfonds kan met toepassing van dit besluit steun toekennen aan ondernemingen voor O&amp;O-projecten of haalbaarheidsstudies als vermeld in artikel 25 van de algemene groepsvrijstellingsverordening. De steunintensiteit per begunstigde bedraagt maximaal de steunpercentages, vermeld in artikel 25 van de voormelde verordening.<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan met toepassing van dit besluit steun toekennen aan ondernemingen voor O&amp;O-projecten of haalbaarheidsstudies als vermeld in artikel 25 van de algemene groepsvrijstellingsverordening. De steunintensiteit per begunstigde bedraagt maximaal de steunpercentages, vermeld in artikel 25 van de voormelde verordening.<br>
 <br>
-Het beslissingscomité bij het Hermesfonds kan de kosten voor de O&amp;O-projecten en de haalbaarheidsstudies, vermeld in artikel 25, lid 3 en 4, van de voormelde verordening, in aanmerking nemen.<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan de kosten voor de O&amp;O-projecten en de haalbaarheidsstudies, vermeld in artikel 25, lid 3 en 4, van de voormelde verordening, in aanmerking nemen.<br>
 <br>
 Het gesteunde deel van het project kan ook haalbaarheidsstudies ter voorbereiding van O&amp;O-activiteiten omvatten. Als een project verschillende soorten opdrachten omvat, wordt elke opdracht in een van de volgende categorieën ingedeeld: industrieel onderzoek, experimentele ontwikkeling of haalbaarheidsstudie.
 
@@ -91,7 +91,7 @@ Het gesteunde deel van het project kan ook haalbaarheidsstudies ter voorbereidin
 
 ### ART 6/1.
 
-Het beslissingscomité bij het Hermesfonds kan aan kleine ondernemingen starterssteun toekennen als vermeld in artikel 22 van de algemene groepsvrijstellingsverordening.<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan aan kleine ondernemingen starterssteun toekennen als vermeld in artikel 22 van de algemene groepsvrijstellingsverordening.<br>
 <br>
 De steunintensiteit per begunstigde bedraagt maximaal het steunbedrag, vermeld in artikel 22, lid 3, c), en lid 5, van de voormelde verordening.<br>
 <br>
@@ -101,7 +101,7 @@ In het derde lid wordt verstaan onder regionale steunkaart: de kaart met gebiede
 <br>
 Als de steunkaart, vermeld in het derde en vierde lid, wordt herzien door de Europese Commissie of de Vlaamse Regering, wordt de nieuwe steunkaart in aanmerking genomen.<br>
 <br>
-Het beslissingscomité bij het Hermesfonds beslist of de begunstigde in aanmerking komt om als innovatieve onderneming erkend te worden.<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen beslist of de begunstigde in aanmerking komt om als innovatieve onderneming erkend te worden.<br>
 <br>
 In het zesde lid wordt verstaan onder innovatieve onderneming: de innovatieve onderneming, vermeld in artikel 2, 80, van de algemene groepsvrijstellingsverordening.
 
@@ -109,13 +109,13 @@ In het zesde lid wordt verstaan onder innovatieve onderneming: de innovatieve on
 
 ### ART 7.
 
-Het beslissingscomité bij het Hermesfonds kent alleen steun toe aan projecten die uitgevoerd worden door een consortium van ondernemingen, waarbij de ondernemingen optreden als subsidiegerechtigde.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kent alleen steun toe aan projecten die uitgevoerd worden door een consortium van ondernemingen, waarbij de ondernemingen optreden als subsidiegerechtigde.
 
 ### ART 8.
 
 De bepalingen over cumulatie, vermeld in artikel 8 van de algemene groepsvrijstellingsverordening, zijn van toepassing.<br>
 <br>
-Het beslissingscomité bij het Hermesfonds kan een verbod van cumulatie van steun voor dezelfde investeringen of kosten opleggen.<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan een verbod van cumulatie van steun voor dezelfde investeringen of kosten opleggen.<br>
 <br>
 Als een project andere financiële steun krijgt van een publiekrechtelijke persoon, kan steun worden toegekend, waarbij voor de berekening van het maximale steunpercentage, vermeld in artikel 6, rekening wordt gehouden met de samengestelde steun.
 
@@ -129,17 +129,17 @@ Voor de toepassing van dit besluit wordt verstaan onder werkdagen: de werkdagen 
 
 ### ART 10.
 
-De procedure, vermeld in dit hoofdstuk, is van toepassing op de steunaanvragen, vermeld in dit besluit. Het beslissingscomité bij het Hermesfonds kan aanvullende procedurele voorschriften opleggen.
+De procedure, vermeld in dit hoofdstuk, is van toepassing op de steunaanvragen, vermeld in dit besluit. Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan aanvullende procedurele voorschriften opleggen.
 
 ## Afdeling 2. Indiening van de steunaanvraag
 
 ### ART 11.
 
-De steunaanvragers, de steunaanvraag en de activiteiten waarvoor steun aangevraagd wordt, moeten voldoen aan de modaliteiten voor de indiening, bepaald door het beslissingscomité bij het Hermesfonds, die publiek kenbaar gemaakt worden aan potentiële aanvragers.
+De steunaanvragers, de steunaanvraag en de activiteiten waarvoor steun aangevraagd wordt, moeten voldoen aan de modaliteiten voor de indiening, bepaald door het beslissingscomité bij het Fonds voor Innoveren en Ondernemen, die publiek kenbaar gemaakt worden aan potentiële aanvragers.
 
 ### ART 12.
 
-Het beslissingscomité bij het Hermesfonds kan voorzien in een gebundelde behandeling van aanvragen. In dat geval zal het beslissingscomité bij het Hermesfonds de uiterste indieningsdata per werkjaar vastleggen die publiek kenbaar gemaakt worden aan potentiële aanvragers.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan voorzien in een gebundelde behandeling van aanvragen. In dat geval zal het beslissingscomité bij het Fonds voor Innoveren en Ondernemen de uiterste indieningsdata per werkjaar vastleggen die publiek kenbaar gemaakt worden aan potentiële aanvragers.
 
 ### ART 13.
 
@@ -149,13 +149,13 @@ De steunaanvragers krijgen een schriftelijke ontvangstmelding binnen vijf werkda
 
 ### ART 14.
 
-Het beslissingscomité bij het Hermesfonds toetst de steunaanvraag aan de ontvankelijkheidsvoorwaarden, vermeld in artikel 3 en 5.<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen toetst de steunaanvraag aan de ontvankelijkheidsvoorwaarden, vermeld in artikel 3 en 5.<br>
 <br>
-Het beslissingscomité bij het Hermesfonds kan een steunaanvraag ook onontvankelijk verklaren op basis van een van de volgende elementen:<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan een steunaanvraag ook onontvankelijk verklaren op basis van een van de volgende elementen:<br>
 1° een steunaanvrager heeft onvoldoende financiële draagkracht om het project uit te voeren of te doen slagen;<br>
 2° een steunaanvrager voldoet niet aan de verplichtingen of vergunningen van de overheid;<br>
 3° een steunaanvrager heeft blijk gegeven van niet-correct gedrag naar aanleiding van vorige aanvragen;<br>
-4° de steunaanvraag is identiek aan een steunaanvraag die eerder onontvankelijk is verklaard of geweigerd is door het beslissingscomité bij het Hermesfonds, uitgezonderd als de eerdere weigering het gevolg is van budgettaire beperkingen;<br>
+4° de steunaanvraag is identiek aan een steunaanvraag die eerder onontvankelijk is verklaard of geweigerd is door het beslissingscomité bij het Fonds voor Innoveren en Ondernemen, uitgezonderd als de eerdere weigering het gevolg is van budgettaire beperkingen;<br>
 5° de steunaanvraag bevat niet voldoende informatie om beoordeeld te kunnen worden op basis van de beoordelingsdimensies, vermeld in artikel 25;<br>
 6° de aanvraag voldoet bij een prima-faciebeoordeling niet aan de minimale vereisten om in aanmerking te komen als een of meer van de steunbare projecten, vermeld in artikel 6, of aan de vereiste voor een consortium;<br>
 7° de aanvraag voldoet niet aan de modaliteiten, vermeld in artikel 11;<br>
@@ -170,7 +170,7 @@ Een onderzoeksorganisatie kan naast de mogelijkheid, vermeld in het eerste lid, 
 
 ### ART 16.
 
-Het beslissingscomité bij het Hermesfonds beslist binnen vijftien werkdagen na de ontvangst van de steunaanvraag of de steunaanvraag al dan niet ontvankelijk is.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen beslist binnen vijftien werkdagen na de ontvangst van de steunaanvraag of de steunaanvraag al dan niet ontvankelijk is.
 
 ### ART 17.
 
@@ -180,9 +180,9 @@ De steunaanvrager wordt schriftelijk op de hoogte gebracht van de beslissing tot
 
 ### ART 18.
 
-In geval van een onvolledige steunaanvraag kan het beslissingscomité bij het Hermesfonds aan de steunaanvragers vragen de steunaanvraag te vervolledigen.<br>
+In geval van een onvolledige steunaanvraag kan het beslissingscomité bij het Fonds voor Innoveren en Ondernemen aan de steunaanvragers vragen de steunaanvraag te vervolledigen.<br>
 <br>
-In het geval, vermeld in het eerste lid, worden de termijnen, vermeld in artikel 17 en 27, verlengd met een termijn die vastgesteld is door het beslissingscomité bij het Hermesfonds.<br>
+In het geval, vermeld in het eerste lid, worden de termijnen, vermeld in artikel 17 en 27, verlengd met een termijn die vastgesteld is door het beslissingscomité bij het Fonds voor Innoveren en Ondernemen.<br>
 <br>
 De steunaanvraag wordt als onontvankelijk beschouwd als de steunaanvraag niet is vervolledigd binnen de termijn, vermeld in het tweede lid.
 
@@ -190,13 +190,13 @@ De steunaanvraag wordt als onontvankelijk beschouwd als de steunaanvraag niet is
 
 ### ART 19.
 
-Het beslissingscomité bij het Hermesfonds kan een voorafgaande preselectie van de steunaanvragen organiseren conform de voorwaarden, vermeld in dit besluit.<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan een voorafgaande preselectie van de steunaanvragen organiseren conform de voorwaarden, vermeld in dit besluit.<br>
 <br>
 In het geval, vermeld in het eerste lid, wordt de termijn, vermeld in artikel 27, verlengd met dertig werkdagen.
 
 ### ART 20.
 
-Het beslissingscomité bij het Hermesfonds beslist of de steunaanvraag al dan niet geselecteerd wordt in de preselectie.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen beslist of de steunaanvraag al dan niet geselecteerd wordt in de preselectie.
 
 ### ART 21.
 
@@ -206,27 +206,27 @@ De steunaanvragers worden schriftelijk op de hoogte gebracht van de selectiebesl
 
 ### ART 22.
 
-Het beslissingscomité bij het Hermesfonds toetst de ontvankelijke steunaanvraag aan de beoordelingsdimensies, vermeld in artikel 25, en, in voorkomend geval, aan de elementen, vermeld in artikel 28.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen toetst de ontvankelijke steunaanvraag aan de beoordelingsdimensies, vermeld in artikel 25, en, in voorkomend geval, aan de elementen, vermeld in artikel 28.
 
 ### ART 23.
 
-Het beslissingscomité bij het Hermesfonds stelt een of meer externe deskundigen aan bij wie een advies ingewonnen wordt conform de beoordelingsdimensies, vermeld in artikel 25, en, in voorkomend geval, de elementen, vermeld in artikel 28.<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen stelt een of meer externe deskundigen aan bij wie een advies ingewonnen wordt conform de beoordelingsdimensies, vermeld in artikel 25, en, in voorkomend geval, de elementen, vermeld in artikel 28.<br>
 <br>
-De identiteit van de aanvrager wordt bekendgemaakt aan de externe deskundigen, tenzij de aanvrager uitdrukkelijk aangeeft dat hij wil dat de anonimiteit in acht genomen wordt ten aanzien van externe deskundigen. De aanvrager kan om redenen van vertrouwelijkheid het beslissingscomité bij het Hermesfonds ook verzoeken om sommige elementen van de aanvraag niet voor te leggen aan de deskundigen.
+De identiteit van de aanvrager wordt bekendgemaakt aan de externe deskundigen, tenzij de aanvrager uitdrukkelijk aangeeft dat hij wil dat de anonimiteit in acht genomen wordt ten aanzien van externe deskundigen. De aanvrager kan om redenen van vertrouwelijkheid het beslissingscomité bij het Fonds voor Innoveren en Ondernemen ook verzoeken om sommige elementen van de aanvraag niet voor te leggen aan de deskundigen.
 
 ### ART 24.
 
-Het beslissingscomité bij het Hermesfonds kan bijkomende informatie opvragen bij de steunaanvrager.<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan bijkomende informatie opvragen bij de steunaanvrager.<br>
 <br>
-In het geval, vermeld in het eerste lid, wordt de termijn, vermeld in artikel 27, verlengd met een termijn die vastgesteld is door het beslissingscomité bij het Hermesfonds.<br>
+In het geval, vermeld in het eerste lid, wordt de termijn, vermeld in artikel 27, verlengd met een termijn die vastgesteld is door het beslissingscomité bij het Fonds voor Innoveren en Ondernemen.<br>
 <br>
-Het beslissingscomité bij het Hermesfonds beslist op basis van de ingediende steunaanvraag als de bijkomende informatie niet wordt verleend binnen de termijn die het heeft vastgesteld.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen beslist op basis van de ingediende steunaanvraag als de bijkomende informatie niet wordt verleend binnen de termijn die het heeft vastgesteld.
 
 ## Afdeling 7. Beoordeling
 
 ### ART 25.
 
-§ 1. Het beslissingscomité bij het Hermesfonds steunt zijn beslissing om aan een project al dan niet steun te verlenen op een tweevoudige beoordeling als vermeld in het tweede lid.<br>
+§ 1. Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen steunt zijn beslissing om aan een project al dan niet steun te verlenen op een tweevoudige beoordeling als vermeld in het tweede lid.<br>
 <br>
 De aanvragen worden beoordeeld op basis van de beoordelingsdimensies voor steun aan bedrijfsprojecten voor O&amp;O-projecten en haalbaarheidsstudies in het algemeen, vermeld in paragraaf 2, en ze worden ook beoordeeld op basis van de kwaliteit van het samenwerkingsverband dat ze willen aangaan, vermeld in paragraaf 3.<br>
 <br>
@@ -265,29 +265,29 @@ De beoordelingsdimensies, vermeld in het eerste lid, worden beoordeeld op basis 
 
 ### ART 26.
 
-§ 1. Het beslissingscomité bij het Hermesfonds staat in voor de verdere invulling en verfijning van de criteria, vermeld in artikel 25.<br>
+§ 1. Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen staat in voor de verdere invulling en verfijning van de criteria, vermeld in artikel 25.<br>
 <br>
-Het beslissingscomité bij het Hermesfonds bepaalt binnen de perken van de begrotingskredieten en de algemene beleidsprioriteiten van de politieke overheid, zoals vastgelegd door de Vlaamse Regering, de selectiemechanismen voor de beoordeling van de projecten. Daarbij wordt op basis van een appreciatie voor elk van de criteria een algemene score of appreciatie gegeven en wordt elk jaar op basis van de beschikbare begroting en de verwachte instroom een drempelwaarde bepaald waaraan een project minimaal moet voldoen om steun te krijgen, die algemeen voor alle aanvragen geldt.<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen bepaalt binnen de perken van de begrotingskredieten en de algemene beleidsprioriteiten van de politieke overheid, zoals vastgelegd door de Vlaamse Regering, de selectiemechanismen voor de beoordeling van de projecten. Daarbij wordt op basis van een appreciatie voor elk van de criteria een algemene score of appreciatie gegeven en wordt elk jaar op basis van de beschikbare begroting en de verwachte instroom een drempelwaarde bepaald waaraan een project minimaal moet voldoen om steun te krijgen, die algemeen voor alle aanvragen geldt.<br>
 <br>
-Als de budgettaire mogelijkheden in verhouding tot het volume aanvragen ongewenste verdringingseffecten veroorzaken, kan het beslissingscomité bij het Hermesfonds jaarlijks een maximaal steunvolume per onderneming opleggen.<br>
+Als de budgettaire mogelijkheden in verhouding tot het volume aanvragen ongewenste verdringingseffecten veroorzaken, kan het beslissingscomité bij het Fonds voor Innoveren en Ondernemen jaarlijks een maximaal steunvolume per onderneming opleggen.<br>
 <br>
-§ 2. Het beslissingscomité bij het Hermesfonds zal bij de nadere invulling van zijn opdracht ook rekening houden met de algemene en specifieke beleidslijnen van de Vlaamse Regering, vermeld in de afspraken tussen het Agentschap Innoveren en Ondernemen en de Vlaamse minister, bevoegd voor het technologisch innovatiebeleid,&nbsp; of met concrete verzoeken van de Vlaamse Regering aan het beslissingscomité bij het Hermesfonds om initiatieven te ontwikkelen voor een specifiek programma of voor een specifiek accent binnen de algemene bedrijfssteun.<br>
+§ 2. Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen zal bij de nadere invulling van zijn opdracht ook rekening houden met de algemene en specifieke beleidslijnen van de Vlaamse Regering, vermeld in de afspraken tussen het Agentschap Innoveren en Ondernemen en de Vlaamse minister, bevoegd voor het technologisch innovatiebeleid,&nbsp; of met concrete verzoeken van de Vlaamse Regering aan het beslissingscomité bij het Fonds voor Innoveren en Ondernemen om initiatieven te ontwikkelen voor een specifiek programma of voor een specifiek accent binnen de algemene bedrijfssteun.<br>
 <br>
 In het eerste lid wordt verstaan onder Agentschap Innoveren en Ondernemen: het agentschap dat opgericht is bij het besluit van de Vlaamse Regering van 7 oktober 2005 aangaande het Agentschap Innoveren en Ondernemen.<br>
 <br>
-De Vlaamse minister, bevoegd voor het technologisch innovatiebeleid, maakt de nodige afspraken met het beslissingscomité bij het Hermesfonds voor de nadere invulling van de opdracht.
+De Vlaamse minister, bevoegd voor het technologisch innovatiebeleid, maakt de nodige afspraken met het beslissingscomité bij het Fonds voor Innoveren en Ondernemen voor de nadere invulling van de opdracht.
 
 ## Afdeling 8. Beslissing tot steuntoekenning
 
 ### ART 27.
 
-Het beslissingscomité bij het Hermesfonds beslist binnen negentig werkdagen na de ontvangst van de steunaanvraag, onverminderd de verlenging, vermeld in artikel 18, tweede lid, artikel 19, tweede lid, en artikel 24, tweede lid, of de steunaanvraag voldoet aan de beoordelingsvoorwaarden, vermeld in artikel 25, en verleent in voorkomend geval steun conform de voorwaarden, vermeld in dit besluit.<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen beslist binnen negentig werkdagen na de ontvangst van de steunaanvraag, onverminderd de verlenging, vermeld in artikel 18, tweede lid, artikel 19, tweede lid, en artikel 24, tweede lid, of de steunaanvraag voldoet aan de beoordelingsvoorwaarden, vermeld in artikel 25, en verleent in voorkomend geval steun conform de voorwaarden, vermeld in dit besluit.<br>
 <br>
-Het beslissingscomité bij het Hermesfonds kan de steunverlening afhankelijk maken van bijkomende concrete voorwaarden die het oplegt, zodat een project bij de uitvoering voldoet aan de bepalingen van dit besluit.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan de steunverlening afhankelijk maken van bijkomende concrete voorwaarden die het oplegt, zodat een project bij de uitvoering voldoet aan de bepalingen van dit besluit.
 
 ### ART 28.
 
-Het beslissingscomité bij het Hermesfonds kan een negatieve beslissing nemen of extra voorwaarden stellen op basis van een of meer van de volgende elementen:<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan een negatieve beslissing nemen of extra voorwaarden stellen op basis van een of meer van de volgende elementen:<br>
 1° een steunaanvrager heeft onvoldoende financiële draagkracht om het project uit te voeren of te doen slagen;<br>
 2° een steunaanvrager voldoet niet aan de overige verplichtingen van de overheid of beschikt niet over de noodzakelijke vergunningen;<br>
 3° een steunaanvrager heeft blijk gegeven van niet-correct gedrag naar aanleiding van vorige aanvragen, onder meer met betrekking tot de informatieverstrekking, de inhoudelijke en financiële verplichtingen of de verslaggeving;<br>
@@ -295,7 +295,7 @@ Het beslissingscomité bij het Hermesfonds kan een negatieve beslissing nemen of
 5° de aanvraag voldoet na een evaluatie ten gronde niet aan de vereisten om steun toe te kennen aan een project conform artikel 6;<br>
 6° er is onvoldoende garantie voor de financiering van het project, die uitgevoerd zal worden door onderzoeksorganisaties, waarmee het consortium van ondernemingen een samenwerkingsverband aangaat.<br>
 <br>
-Als een steunaanvraag beantwoordt aan de indieningsvoorwaarden van andere lopende steunmaatregelen, kan het beslissingscomité bij het Hermesfonds beslissen om het project binnen dat specifieke kader te behandelen, zonder dat een nieuwe aanvraag hoeft te worden ingediend.
+Als een steunaanvraag beantwoordt aan de indieningsvoorwaarden van andere lopende steunmaatregelen, kan het beslissingscomité bij het Fonds voor Innoveren en Ondernemen beslissen om het project binnen dat specifieke kader te behandelen, zonder dat een nieuwe aanvraag hoeft te worden ingediend.
 
 ### ART 29.
 
@@ -307,32 +307,32 @@ De startdatum van het project kan nooit vroeger zijn dan de datum van de ontvang
 
 ### ART 31.
 
-Het beslissingscomité bij het Hermesfonds sluit een steunovereenkomst met de steunaanvrager conform de voorwaarden, vermeld in dit besluit, volgens een typeovereenkomst die het beslissingscomité bij het Hermesfonds goedgekeurd heeft.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen sluit een steunovereenkomst met de steunaanvrager conform de voorwaarden, vermeld in dit besluit, volgens een typeovereenkomst die het beslissingscomité bij het Hermesfonds goedgekeurd heeft.
 
 ## HOOFDSTUK 5. Opvolging van steundossiers
 
 ### ART 32.
 
-Het beslissingscomité bij het Hermesfonds houdt toezicht op de naleving van de voorwaarden en de aanwending van de steun door de begunstigden van de steun die krachtens dit besluit wordt toegekend.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen houdt toezicht op de naleving van de voorwaarden en de aanwending van de steun door de begunstigden van de steun die krachtens dit besluit wordt toegekend.
 
 ### ART 33.
 
-De begunstigde van de steun brengt op geregelde tijdstippen en telkens als het beslissingscomité bij het Hermesfonds daarom verzoekt, schriftelijk verslag uit aan het beslissingscomité bij het Hermesfonds over de vordering van het project en de aanwending van de steun. Na afloop van het project maakt hij een eindverslag op.<br>
+De begunstigde van de steun brengt op geregelde tijdstippen en telkens als het beslissingscomité bij het Fonds voor Innoveren en Ondernemen daarom verzoekt, schriftelijk verslag uit aan het beslissingscomité bij het Fonds voor Innoveren en Ondernemen over de vordering van het project en de aanwending van de steun. Na afloop van het project maakt hij een eindverslag op.<br>
 <br>
-De begunstigde van de steun brengt het beslissingscomité bij het Hermesfonds onmiddellijk en schriftelijk op de hoogte van elke gebeurtenis of omstandigheid die een impact heeft of kan hebben op de ononderbroken en zorgvuldige uitvoering van het gesteunde project.
+De begunstigde van de steun brengt het beslissingscomité bij het Fonds voor Innoveren en Ondernemen onmiddellijk en schriftelijk op de hoogte van elke gebeurtenis of omstandigheid die een impact heeft of kan hebben op de ononderbroken en zorgvuldige uitvoering van het gesteunde project.
 
 ### ART 34.
 
-Als de voorwaarden, vermeld in het decreet van 21 december 2001, de voorwaarden, vermeld in dit besluit, de voorwaarden, vermeld in de steunbeslissing of in de steunovereenkomst, vermeld in artikel 31 van dit besluit, niet worden nageleefd, kan het beslissingscomité bij het Hermesfonds de volgende maatregelen treffen:<br>
+Als de voorwaarden, vermeld in het decreet van 21 december 2001, de voorwaarden, vermeld in dit besluit, de voorwaarden, vermeld in de steunbeslissing of in de steunovereenkomst, vermeld in artikel 31 van dit besluit, niet worden nageleefd, kan het beslissingscomité bij het Fonds voor Innoveren en Ondernemen de volgende maatregelen treffen:<br>
 1° de steunaanvragers in gebreke stellen;<br>
-2° de uitbetaling van de steun opschorten voor alle projecten waaraan steun is toegekend door het beslissingscomité bij het Hermesfonds;<br>
+2° de uitbetaling van de steun opschorten voor alle projecten waaraan steun is toegekend door het beslissingscomité bij het Fonds voor Innoveren en Ondernemen;<br>
 3° de steun niet uitbetalen;<br>
 4° de steun herzien;<br>
 5° bijkomende voorwaarden opleggen.
 
 ### ART 35.
 
-Het beslissingscomité bij het Hermesfonds vordert de steun terug binnen tien jaar na de ontvangst van de steunaanvraag, met behoud van de toepassing van de bepalingen in de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, hoofdstuk 8 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 en de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaringen te doen in verband met subsidies, vergoedingen en toelagen van elke aard, die geheel of gedeeltelijk ten laste zijn van de Staat als:<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen vordert de steun terug binnen tien jaar na de ontvangst van de steunaanvraag, met behoud van de toepassing van de bepalingen in de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, hoofdstuk 8 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 en de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaringen te doen in verband met subsidies, vergoedingen en toelagen van elke aard, die geheel of gedeeltelijk ten laste zijn van de Staat als:<br>
 1° de voorwaarden, vermeld in artikel 41ter, § 2, van het decreet van 21 december 2001, de voorwaarden, vermeld in dit besluit, de voorwaarden, vermeld in de steunbeslissing of in de steunovereenkomst, vermeld in artikel 31 van dit besluit, gedurende de duur van de steunovereenkomst niet worden nageleefd;<br>
 2° de wettelijke informatie- en raadplegingsprocedures bij collectief ontslag binnen vijf jaar na de beëindiging van het project niet worden nageleefd;<br>
 3° de subsidiebegunstigde nalaat gefactureerde en opeisbare financiële verplichtingen ten aanzien van een onderzoeksorganisatie te voldoen.<br>
@@ -343,7 +343,7 @@ In geval van terugvordering wordt de Europese referentierentevoet voor de terugv
 
 ### ART 36.
 
-De steunaanvragers of de begunstigden van steun kunnen beroep aantekenen bij het beslissingscomité bij het Hermesfonds tegen de volgende beslissingen:<br>
+De steunaanvragers of de begunstigden van steun kunnen beroep aantekenen bij het beslissingscomité bij het Fonds voor Innoveren en Ondernemen tegen de volgende beslissingen:<br>
 1° de beslissing van onontvankelijkheid;<br>
 2° de beslissing tot weigering van de selectie van de steunaanvraag;<br>
 3° de beslissing tot weigering van de toekenning van de steun;<br>
@@ -351,7 +351,7 @@ De steunaanvragers of de begunstigden van steun kunnen beroep aantekenen bij het
 5° de beslissing tot herziening van de steun;<br>
 6° de beslissing tot terugvordering van steun.<br>
 <br>
-Het georganiseerd beroep is niet mogelijk als het beslissingscomité bij het Hermesfonds beslist tot ingebrekestelling, herziening of terugvordering van de steun op grond van feiten die direct eenvoudig vastgesteld kunnen worden. Het betreft het niet-tijdig indienen van de verslaggeving of het niet-tijdig storten van de betalingen aan een onderzoeksorganisatie, vermeld in artikelen 28 en 33.
+Het georganiseerd beroep is niet mogelijk als het beslissingscomité bij het Fonds voor Innoveren en Ondernemen beslist tot ingebrekestelling, herziening of terugvordering van de steun op grond van feiten die direct eenvoudig vastgesteld kunnen worden. Het betreft het niet-tijdig indienen van de verslaggeving of het niet-tijdig storten van de betalingen aan een onderzoeksorganisatie, vermeld in artikelen 28 en 33.
 
 ### ART 37.
 
@@ -363,7 +363,7 @@ De verzoekers in beroep krijgen een schriftelijke ontvangstmelding binnen vijf w
 
 ### ART 39.
 
-Het beslissingscomité bij het Hermesfonds beslist over het beroep binnen zestig werkdagen na de ontvangst ervan.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen beslist over het beroep binnen zestig werkdagen na de ontvangst ervan.
 
 ### ART 40.
 
@@ -371,13 +371,13 @@ De verzoekers in beroep worden schriftelijk op de hoogte gebracht van de beroeps
 
 ### ART 41.
 
-Het beslissingscomité bij het Hermesfonds kan een of meer externe deskundigen aanstellen en een bijkomend advies inwinnen.<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan een of meer externe deskundigen aanstellen en een bijkomend advies inwinnen.<br>
 <br>
 In het geval, vermeld in het eerste lid, wordt de termijn, vermeld in artikel 40, met dertig werkdagen verlengd.
 
 ### ART 42.
 
-Het beslissingscomité bij het Hermesfonds werkt de nadere modaliteiten uit voor de indiening en de behandeling van aanvragen van een georganiseerd beroep.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen werkt de nadere modaliteiten uit voor de indiening en de behandeling van aanvragen van een georganiseerd beroep.
 
 ## HOOFDSTUK 7. Wijziging van het besluit van de Vlaamse Regering van 18 december 2015 houdende het beheer en de werking van het Fonds voor Flankerend Economisch en Innovatiebeleid en de werking van het beslissingscomité bij dat fonds
 
