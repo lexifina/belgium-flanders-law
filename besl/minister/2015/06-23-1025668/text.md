@@ -86,7 +86,7 @@ Het tegenbewijs, vermeld in artikel 8, § 1, van het besluit van 24 oktober 2014
 <br>
 Als de kennisgeving van de beslissing dat een landbouwer niet wordt beschouwd als actieve landbouwer, minder dan dertig dagen voor de uiterste indieningsdatum van de verzamelaanvraag of, in voorkomend geval, na de uiterste indieningsdatum wordt gegeven, wordt, in afwijking van het derde lid, de termijn om het tegenbewijs te leveren, verlengd tot uiterlijk dertig dagen na de kennisgeving.<br>
 <br>
-Het bewijs om aan te tonen dat men actieve landbouwer is, vermeld in artikel 8, § 1 van het besluit van 24 oktober 2014 en vermeld in het derde en vierde lid, bestaat uit een verklaring die verleend wordt met een door de bevoegde entiteit ter beschikking gesteld formulier. Dat formulier wordt ingevuld door een accountant die is ingeschreven op het tableau van het Instituut van de accountants en belastingconsulenten conform artikel 5, § 1, van de wet van 22 april 1999 betreffende de boekhoudkundige en fiscale beroepen. Een bewijs van die inschrijving kan steeds opgevraagd worden. Uit de verklaring moet blijken dat de landbouwer voldoet aan het derde lid, 1° of 2°.</p>
+Het bewijs om aan te tonen dat men actieve landbouwer is, vermeld in artikel 8, § 1 van het besluit van 24 oktober 2014 en vermeld in het derde en vierde lid, bestaat uit een verklaring die verleend wordt met een door de bevoegde entiteit ter beschikking gesteld formulier. Dat formulier wordt ingevuld door een gecertificeerd accountant als vermeld in artikel 2, 1°, van de wet van 17 maart 2019 betreffende de beroepen van accountant en belastingadviseur, die is ingeschreven in het openbaar register, vermeld in hoofdstuk 5 van de voormelde wet.&nbsp;Een bewijs van die inschrijving kan steeds opgevraagd worden. Uit de verklaring moet blijken dat de landbouwer voldoet aan het derde lid, 1° of 2°.</p>
 
 ### ART. 7.
 
@@ -489,4 +489,4 @@ Het   ministerieel besluit van 19 augustus 2009 tot instelling van een   bedrijf
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/04/03_1.pdf#page=81">Voorbereidingsblad voor de verzamelaanvraag als vermeld in artikel 3, tweede lid</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/03/03_2.pdf#page=113">Voorbereidingsblad voor de verzamelaanvraag als vermeld in artikel 3, tweede lid</a>
