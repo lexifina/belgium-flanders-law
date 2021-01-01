@@ -348,7 +348,7 @@ De organisator bezorgt het agentschap jaarlijks en uiterlijk eind januari   een 
 § 1/1. Bij de berekening en bij een herberekening van het variabel deel van het subsidiebedrag, houdt het agentschap rekening met:<br>
 1° het aantal minderjarigen in het werkingsgebied van de aanbodsvorm, met uitzondering van het Brusselse Hoofdstedelijke Gewest waar 30 % van het aantal minderjarigen in rekening wordt genomen;<br>
 2° het aandeel minderjarigen in een kansarm gezin in dat werkingsgebied;<br>
-3° de evolutie van de gemiddelde geldelijke anciënniteit van alle personeelsleden van één aanbodsvorm.</p>
+3° de anciënniteit van alle personeelsleden per organisator met een erkenning voor de uitvoering van een aanbodsvorm, vermeld in artikel 25.</p>
 
 <p>Het aantal minderjarigen in het werkingsgebied van de aanbodsvorm, vermeld in het eerste lid, 1°, wordt bepaald door het agentschap op basis van de gegevens die worden aangeleverd door de dienst Demografie, Algemene Directie Statistiek en Economische Informatie.</p>
 
@@ -357,7 +357,16 @@ De organisator bezorgt het agentschap jaarlijks en uiterlijk eind januari   een 
 2° het aantal minderjarige rechthebbenden op een verhoogde tegemoetkoming in de ziekteverzekering ten opzichte van het totaal aantal minderjarigen;<br>
 3° het aantal minderjarigen in een eenoudergezin ten opzichte van het totaal aantal minderjarigen.</p>
 
-<p>De evolutie van de gemiddelde geldelijke anciënniteit van alle personeelsleden van één aanbodsvorm, vermeld in het eerste lid, wordt bepaald door het agentschap op basis van de situatie op 1 oktober van het voorgaande jaar, in vergelijking met de situatie op 1 oktober van het daaraan voorafgaande jaar.</p>
+<p>Bij de berekening van de subsidie, vermeld in artikel 51, wordt de component, vermeld in het eerste lid, 3°, berekend op basis van de volgende elementen:<br>
+1° het theoretische aantal voltijdsequivalenten van de organisator, dat het agentschap heeft bepaald;<br>
+2° de gemiddelde geldelijke anciënniteit van de personeelsleden van die organisator.<br>
+<br>
+Het agentschap bepaalt de gemiddelde geldelijke anciënniteit, vermeld in het vierde lid, 2°, aan de hand van de volgende gegevens:<br>
+1° de geldelijke anciënniteit per personeelslid;<br>
+2° de prestaties per personeelslid.<br>
+De gemiddelde geldelijke anciënniteit wordt berekend voor dat bepaalde jaar op basis van de situatie op 1 oktober van het jaar dat eraan voorafgaat.<br>
+<br>
+Het agentschap kan nadere regels bepalen over de rapportage.</p>
 
 <p>§ 2. ...</p>
 

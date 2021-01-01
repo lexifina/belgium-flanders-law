@@ -2,16 +2,16 @@
   "codex_id": 1024351,
   "title": "Besluit van de Vlaamse Regering van 2014-03-28 tot uitvoering van het decreet van 29 november 2013 houdende de organisatie van preventieve gezinsondersteuning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024351/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "a164dbb03d3181ad95a9e6343e2f3bba8fc1c47b892c9c7b8deb62933331cf7a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024351/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "1c6cf1334aadd644a576c475aec4e78940b334513b161fbf764320a2706f4c3d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024351&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2021-01-01",
   "made": "2014-03-28",
   "gazette": "2014-08-04",
   "numac": 2014202854,
   "document_start": "2014-04-01",
   "document_end": null,
-  "in_force": "2020-01-01",
+  "in_force": "2021-01-01",
   "article_versions": 104,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
