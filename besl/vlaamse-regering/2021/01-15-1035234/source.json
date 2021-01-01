@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035234,
+  "title": "Besluit van de Vlaamse Regering van 2021-01-15 tot uitvoering van artikel 26/3 van het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid met betrekking tot steun voor ondernemersvorming",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035234/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "64a7fee20d935f99fdd3aff571ecc363f900b28453eecf4d1e2afda7ad143bbe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035234&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2021-01-15",
+  "gazette": "2021-02-23",
+  "numac": 2021020242,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
