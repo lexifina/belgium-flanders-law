@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035379,
+  "title": "Besluit van de Vlaamse Regering van 2021-02-26 tot wijziging van het besluit van de Vlaamse Regering van 31 maart 2006 tot regeling van sommige verloven voor de personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool en het besluit van de Vlaamse Regering van 3 juli 2009 betreffende het omstandigheidsverlof, het verlof wegens overmacht, het onbezoldigd ouderschapsverlof en het geboorteverlof in geval van overlijden of hospitalisatie van de moeder voor bepaalde personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding en tot wijziging van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof voor verminderde prestaties, gewettigd door sociale of familiale redenen en de afwezigheid voor verminderde prestaties wegens persoonlijke aangelegenheid ten gunste van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding, wat betreft de uitbreiding van het geboorteverlof voor de personeelsleden van het onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035379/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "1db8d75a52eda3af3e8e4c9d6cb1ad53aab4457464d59a9a906e456b8881ccd4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035379&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2021-02-26",
+  "gazette": "2021-03-31",
+  "numac": 2021020670,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
