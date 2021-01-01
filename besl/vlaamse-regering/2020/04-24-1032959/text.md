@@ -444,6 +444,10 @@ f) huisartsen die in het woonzorgcentrum werken, actief informeren over het bele
 
 ...
 
+### ART 18.
+
+In artikel 4, § 1, eerste lid, 4° van bijlage 14 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers wordt tussen het woord "sector" en het woord "te" de zinsnede ", vermeerderd met de ziekenhuisdagen in de sector," ingevoegd;
+
 ### ART 19.
 
 [... ingetrokken BVR 11 december 2020, art. 85)]
