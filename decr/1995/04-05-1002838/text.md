@@ -34,7 +34,7 @@ Onder milieuplanning wordt het geheel van activiteiten verstaan die erop gericht
 
 ### ART. 2.1.2.
 
-De milieuplanning op gewestelijk niveau omvat de plannen en programma's die in uitvoering van thematische wetgeving worden opgesteld en het tweejaarlijks opstellen van een milieurapport.
+De milieuplanning op gewestelijk niveau omvat de plannen en programma's die in uitvoering van thematische wetgeving worden opgesteld en het uitvoeren van een rapportage.
 
 ## AFDELING 2 MILIEUPLANNING OP GEWESTELIJK NIVEAU
 
@@ -42,19 +42,37 @@ De milieuplanning op gewestelijk niveau omvat de plannen en programma's die in u
 
 ### ART. 2.1.3.
 
-Het milieurapport omvat:<br /><br />1° een beschrijving, analyse en evaluatie van de bestaande toestand van het milieu;<br /><br />2° een beschrijving, analyse en evaluatie van het tot dan toe gevoerde milieubeleid; [voor zover dit relevant is voor de toetsing van de resultaten van het gevoerde milieubeleid aan de in de milieuregelgeving of de milieuplanning vastgestelde beleidsdoelstellingen;  <span class="reference">(ing. decr. 7 mei 2004, art. 2, I: 1 april 2006. Zie B.V.R. 31 maart 2006, B.S., 19 mei 2006)</span> ]<br /><br />3° een beschrijving van de verwachte ontwikkeling van het milieu bij ongewijzigd beleid en bij gewijzigd beleid volgens een aantal relevant geachte scenario's.
+De rapportage omvat minstens:<br>
+1° een beschrijving, analyse en evaluatie van de bestaande toestand van het milieu en de ruimtelijke ordening;<br>
+2° een beschrijving, analyse en evaluatie van het tot dan toe gevoerde milieubeleid; [voor zover dit relevant is voor de toetsing van de resultaten van het gevoerde milieubeleid aan de in de milieuregelgeving of de milieuplanning vastgestelde beleidsdoelstellingen; (ing. decr. 7 mei 2004, art. 2, I: 1 april 2006. Zie B.V.R. 31 maart 2006, B.S., 19 mei 2006) ]<br>
+2° /1 een beschrijving en evaluatie van het tot dan toe gevoerde ruimtelijk beleid in het licht van de doelstellingen, vermeld in artikel 1.1.4 van de Vlaamse Codex Ruimtelijke Ordening;<br>
+3° een beschrijving van de verwachte ontwikkeling van het milieu&nbsp;en ruimtelijke ordening bij ongewijzigd beleid en bij gewijzigd beleid volgens een aantal relevant geachte scenario's.
 
 ### ART. 2.1.4.
 
-Om de twee jaar wordt een milieurapport opgesteld. [...  <span class="reference">(geschr. decr. 7 mei 2004, art. 3, I: 1 april 2006)</span> ]<br /><br />[...  <span class="reference">(opgeh. decr. 7 mei 2004, art. 3, I: 1 april 2006)</span> ]
+§ 1. De rapportage, vermeld in artikel 2.1.3, gebeurt continu op basis van een meerjarig werkprogramma.<br>
+<br>
+§ 2. Het Departement Omgeving maakt het meerjarig werkprogramma op en legt dit voor advies voor aan de Strategische Adviesraad voor Ruimtelijke Ordening en Onroerend Erfgoed, de Milieu- en Natuurraad van Vlaanderen en de Sociaal-Economische Raad van Vlaanderen.<br>
+<br>
+Het meerjarig werkprogramma wordt meegedeeld aan de Vlaamse Regering en vervolgens gepubliceerd op de website van het Departement Omgeving.<br>
+<br>
+§ 3. De Vlaamse Regering kan nadere regels bepalen inzake de rapportage.
 
 ### ART. 2.1.5.
 
-§ 1. De Vlaamse Milieumaatschappij is belast met het opstellen van het milieurapport, onder begeleiding van een stuurgroep bestaande uit een voorzitter en acht leden die wetenschappelijk gevormd zijn en die als deskundig worden beschouwd.<br /><br />De voorzitter en de leden van deze stuurgroep, die geen ambtenaren van de Vlaamse Milieumaatschappij mogen zijn, worden aangewezen door de Vlaamse regering. Twee leden worden aangewezen op voordracht van het college van ambtenaren-generaal, twee op voordracht van de Vlaamse Raad voor Wetenschapsbeleid, twee op voordracht van de Milieu- en Natuurraad van Vlaanderen en twee op voordracht van de Sociaal-Economische Raad. Het secretariaat van de stuurgroep wordt waargenomen door de Vlaamse Milieumaatschappij.<br /><br />De stuurgroep is belast met de algemene begeleiding van de opstelling van het milieurapport en draagt er tevens de eindverantwoordelijkheid voor.<br /><br />De Vlaamse Milieumaatschappij kan voor het opstellen van het milieurapport samenwerkingsverbanden aangaan met andere openbare instellingen en wetenschappelijke instituten.<br /><br />§ 2. Het Vlaamse Gewest geeft jaarlijks een dotatie aan de Vlaamse Milieumaatschappij voor de opstelling van het rapport. Deze dotatie is ten laste van het Fonds voor Preventie en Sanering inzake Leefmilieu en Natuurbehoud.<br /><br />§ 3. De diensten van het ministerie van de Vlaamse Gemeenschap, de instellingen die afhangen van het Vlaamse Gewest, de ondergeschikte besturen die onder het administratief toezicht staan van het Vlaamse Gewest en de publiekrechtelijke en privaatrechtelijke rechtspersonen die belast zijn met taken van openbaar nut inzake milieu, stellen, hetzij op eenvoudige vraag van de Vlaamse Milieumaatschappij hetzij uit eigen beweging, alle informatie waarover zij beschikken en die van nut kan zijn voor het opstellen van het milieurapport ter beschikking van de Vlaamse Milieumaatschappij.<br /><br />§ 4. De Vlaamse regering kan nadere regels vaststellen voor de werking van de stuurgroep bedoeld in § 1 en de voorwaarden bepalen waaronder, overeenkomstig § 3, informatie aan het planningsteam ter beschikking wordt gesteld.
+§ 1. Het Departement Omgeving is belast met het uitvoeren van de rapportage, vermeld in artikel 2.1.3. De Vlaamse Regering kan vragen om over specifieke onderwerpen specifiek te rapporteren.<br>
+<br>
+Het Departement Omgeving kan voor het uitvoeren van de rapportage samenwerkingsverbanden aangaan met andere openbare instellingen en wetenschappelijke instituten.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen inzake de maatschappelijke en wetenschappelijke begeleiding en ondersteuning van de rapportage alsook inzake de specifieke rapportage.<br>
+<br>
+§ 2. De diensten van de Vlaamse overheid, de instellingen die afhangen van het Vlaamse Gewest, de ondergeschikte besturen die onder het administratief toezicht staan van het Vlaamse Gewest en de publiekrechtelijke en privaatrechtelijke rechtspersonen die belast zijn met taken van openbaar nut inzake milieu of ruimtelijke ordening, stellen, hetzij op eenvoudige vraag van het Departement Omgeving, hetzij uit eigen beweging, alle informatie waarover zij beschikken en die van nut kan zijn voor het uitvoeren van de rapportage ter beschikking van dit departement.<br>
+<br>
+§ 3. De Vlaamse Regering kan de voorwaarden bepalen waaronder, overeenkomstig paragraaf 2, informatie aan het Departement Omgeving ter beschikking wordt gesteld.
 
 ### ART. 2.1.6.
 
-Het milieurapport wordt ter kennis gebracht van de provincies en gemeenten.<br /><br />Aan het milieurapport wordt ruime bekendheid gegeven, op de wijze bepaald door de Vlaamse regering.
+De resultaten van de rapportage, vermeld in artikel 2.1.3, worden ter kennis gebracht van de provincies en gemeenten. Aan de resultaten wordt ruime bekendheid gegeven, op de wijze bepaald door de Vlaamse Regering.
 
 ## ONDERAFDELING 2 HET GEWESTELIJK MILIEUBELEIDSPLAN
 
@@ -1556,7 +1574,7 @@ Dit decreet voorziet, voor wat de bevoegdheden van het Vlaamse Gewest   betreft,
 ### ART. 8.1.2.
 
 In deze titel wordt verstaan onder:<br>
-1° bevoegde autoriteit: de instantie, aangewezen overeenkomstig artikel 18 van richtlijn 2003/87/ EG, namelijk het Departement Omgeving;<br>
+1° bevoegde autoriteit: de instantie, aangewezen overeenkomstig artikel 18 van richtlijn 2003/87/ EG, namelijk het VEKA;<br>
 2° BKG-installatie: een vaste technische eenheid waarin een of meer van de activiteiten en processen, zoals omschreven in de indelingslijst in bijlage I, van titel I, van het VLAREM en aangeduid met de letter Y in de vierde kolom van de indelingslijst in bijlage I, van titel I, van het VLAREM, alsmede andere op dezelfde locatie ten uitvoer gebrachte en daarmee rechtstreeks samenhangende activiteiten plaatsvinden die technisch in verband staan met voormelde activiteiten en die gevolgen kunnen hebben voor de emissies en de verontreiniging;<br>
 3° broeikasgassen: koolstofdioxide (CO2), methaan (CH4), distikstofoxide (N2O), onvolledig gefluoreerde koolwaterstoffen (HFK's), perfluorkoolwaterstoffen (PFK's) en zwavelhexafluoride (SF6);<br>
 4° eerste verbintenisperiode: de periode van 1 januari 2008 tot en met 31 december 2012;<br>
@@ -1574,6 +1592,7 @@ In deze titel wordt verstaan onder:<br>
 16° samenwerkingsakkoord van 2 september 2013: het samenwerkingsakkoord van 2 september 2013 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende het opnemen van luchtvaartactiviteiten in de regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap overeenkomstig Richtlijn 2008/101/EG van het Europees Parlement en de Raad van 19 november 2008 tot wijziging van Richtlijn 2003/87/EG teneinde ook luchtvaartactiviteiten op te nemen in de regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap;<br>
 17° ton CO2-equivalent: een metrische ton koolstofdioxide (CO2) of een hoeveelheid van een ander broeikasgas met een gelijkwaardig aardopwarmingspotentieel;<br>
 18° tweede verbintenisperiode: de periode van 1 januari 2013 tot en met 31 december 2020;<br>
+18° /1 VEKA: het agentschap, vermeld in titel II van het Energiebesluit van 19 november 2010;<br>
 19° Verordening nr. 600/2012: Verordening (EU) nr. 600/2012 van de Commissie van 21 juni 2012 inzake de verificatie van broeikasgasemissie- en tonkilometerverslagen en de accreditatie van verificateurs krachtens Richtlijn 2003/87/EG van het Europees Parlement en de Raad;<br>
 20° vliegtuigexploitant: de persoon die een luchtvaartuig exploiteert op het moment dat die een luchtvaartactiviteit uitoefent, of, als die persoon niet bekend is of niet is geïdentificeerd door de eigenaar van het vliegtuig, de eigenaar van het vliegtuig.
 
@@ -1682,7 +1701,7 @@ De Vlaamse Regering bepaalt de hoogte van de tegemoetkomingen en de kosten   die
 
 ### ART. 8.5.1.
 
-Het Departement Omgeving, legt aan de exploitant van een BKG-installatie of de vliegtuigexploitant een administratieve geldboete op voor elke ton CO2-equivalent die uitgestoten wordt en waarvoor met toepassing van artikel 8.2.1, § 1, of artikel 8.3.6, § 4, geen emissierechten zijn ingeleverd. Per ton uitgestoten CO2-equivalent bedraagt de administratieve geldboete 100 euro. De betaling van de boete wegens emissieoverschrijding ontslaat de exploitant van een BKG-installatie of de vliegtuigexploitant niet van de verplichting, bij de inlevering van emissierechten in verband met het volgende kalenderjaar, een hoeveelheid emissierechten in te leveren die gelijk is aan de emissieoverschrijding.<br>
+Het VEKA, legt aan de exploitant van een BKG-installatie of de vliegtuigexploitant een administratieve geldboete op voor elke ton CO2-equivalent die uitgestoten wordt en waarvoor met toepassing van artikel 8.2.1, § 1, of artikel 8.3.6, § 4, geen emissierechten zijn ingeleverd. Per ton uitgestoten CO2-equivalent bedraagt de administratieve geldboete 100 euro. De betaling van de boete wegens emissieoverschrijding ontslaat de exploitant van een BKG-installatie of de vliegtuigexploitant niet van de verplichting, bij de inlevering van emissierechten in verband met het volgende kalenderjaar, een hoeveelheid emissierechten in te leveren die gelijk is aan de emissieoverschrijding.<br>
 <br>
 In het eerste lid wordt verstaan onder exploitant van een BKG-installatie: de houder(s) van de milieuvergunning(en) van de BKG-installatie.<br>
 <br>
@@ -1789,7 +1808,7 @@ b) het inventariseren van de emissies van verontreinigingsfactoren in de atmosfe
 c) de modellering en de scenario-ontwikkeling;<br>
 d) het beoordelen van de hierboven vermelde gegevens en informatie;<br>
 e) het verwerken van de hierboven vermelde gegevens en informatie met het oog op het rapporteren en informeren hierover;<br>
-2° het bijdragen tot ontwikkelen van instrumenten en het uitwerken van maatregelen om de verontreiniging van de atmosfeer te voorkomen en te beperken;<br>
+2° de beleidsvoorbereiding, het opvolgen, evalueren en rapporteren over de uitvoering en voortgang van het beleid en het ontwikkelen en inzetten van instrumenten en het uitwerken en uitvoeren van maatregelen om de verontreiniging van de atmosfeer, met uitzondering van de verontreiniging als gevolg van broeikasgassen, te voorkomen en te beperken;<br>
 <br>
 § 3 ...<br>
 <br>
