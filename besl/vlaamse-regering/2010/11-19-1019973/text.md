@@ -61,11 +61,11 @@ De minister kan de bijlagen bij dit besluit wijzigen, met uitzondering van bijla
 38° de afdeling, bevoegd voor grondwater : de afdeling Operationeel Waterbeheer van de VMM;<br>
 39° de afdeling, bevoegd voor operationeel waterbeheer : de afdeling Operationeel Waterbeheer van de VMM;<br>
 40° de afdeling, bevoegd voor het ecologisch toezicht : de afdeling Ecologisch Toezicht van de VMM;<br>
-41° de afdeling, bevoegd voor het opvolgen van de luchtkwaliteit : de afdeling Lucht, Milieu en Communicatie van de VMM;<br>
+41°&nbsp;...<br>
 42° agentschap Onroerend Erfgoed : het agentschap Onroerend Erfgoed van het beleidsdomein Omgeving;<br>
 43° bevoegde afdeling :<br>
-a) voor de erkenning,&nbsp;vermeld in artikel 6, 1°, 2°, 4°, b) tot en met f) en h) tot en met l), 5°, a) tot en met c), 7°, b) en c) en 8° : het departement;<br>
-b) voor de erkenning, vermeld in artikel 6, 3° en 4°, a) : het departement;<br>
+a) voor de erkenning, vermeld in artikel 6, 1°, a) tot en met e) en g, 2°, d, 3°, 4°, a) en e) en 5°, a) tot en met c): het departement;<br>
+b) voor de erkenning, vermeld in artikel 6, 1°, f), 2°, a) tot en met c) en e) tot en met i), 4°, b) tot en met d), f), en h) tot en met l), 7°, b) en c), en 8° : het Vlaams Energie- en Klimaatagentschap;<br>
 c) voor de erkenning, vermeld in artikel 6, 5°, d) : de Mestbank;<br>
 d) voor de erkenning, vermeld in artikel 6, 5°, e) : de afdeling, bevoegd voor afval- en materialenbeheer;<br>
 e) voor de erkenning, vermeld in artikel 6, 4°, g), 5°, f), en 6° : de afdeling, bevoegd voor bodembeheer;<br>
@@ -569,11 +569,11 @@ d) water, deeldomeinen:<br>
 2) oppervlakte- en afvalwater: de afdeling, bevoegd voor operationeel waterbeheer, en aan de afdeling, bevoegd voor het ecologisch toezicht;<br>
 3) mariene waters: de afdeling, bevoegd voor het ecologisch toezicht;<br>
 e) lucht, deeldomeinen:<br>
-1) geur: de personeelsleden van het departement die deskundig zijn op het vlak van luchtverontreiniging;<br>
-2) luchtverontreiniging: de personeelsleden van het departement die deskundig zijn op het vlak van luchtverontreiniging, en aan de afdeling, bevoegd voor het opvolgen van de luchtkwaliteit;<br>
+1) geur: de personeelsleden van de Vlaamse Milieumaatschappij die deskundig zijn op het vlak van luchtverontreiniging;<br>
+2) luchtverontreiniging: de personeelsleden van de Vlaamse Milieumaatschappij die deskundig zijn op het vlak van luchtverontreiniging;<br>
 f) ...<br>
 g) geluid en trillingen: de personeelsleden van het departement die deskundig zijn op het vlak van geluidshinder;<br>
-h) klimaat: de personeelsleden van het departement die deskundig zijn op het vlak van luchtverontreiniging;<br>
+h) klimaat: de personeelsleden van&nbsp;de Vlaamse Milieumaatschappij die deskundig zijn op het vlak van luchtverontreiniging;<br>
 i) landschap, bouwkundig erfgoed en archeologie: het agentschap Onroerend Erfgoed;<br>
 3° voor de aanvragen tot erkenning als VR-deskundige als vermeld in artikel 6, 1°, e): aan de personeelsleden van het departement die deskundig zijn op het vlak van veiligheidsrapportage;<br>
 4° voor de aanvragen tot erkenning als laboratorium als vermeld in artikel 6, 5°, c): aan de personeelsleden van het departement die deskundig zijn op het vlak van bodembescherming;<br>
@@ -664,11 +664,11 @@ b) de bedrijven die in een ander gewest in België of in een andere lidstaat van
 13° bedrijf voor brandbeveiligingsapparatuur als vermeld in artikel 6, 7°, c) : de bedrijven die in een ander gewest in België of in een andere lidstaat van de Europese Economische Ruimte conform artikel 8 van verordening nr. 304/2008 een geldig certificaat hebben behaald;<br>
 14° keuringsinstelling als vermeld in artikel 6, 8° : de instellingen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 25/6.<br>
 <br>
-De erkenning, vermeld in het eerste lid, 5°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan het departement.<br>
+De erkenning, vermeld in het eerste lid, 5°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan&nbsp;de bevoegde afdeling.<br>
 <br>
-De erkenning, vermeld in het eerste lid, 7°, b), 8°, b), 9°, b), 10°, b), 11°, b), 12°, b) en 13°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan&nbsp;het departement,&nbsp;de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan het departement. De persoon of het bedrijf, vermeld in het eerste lid, 7°, b), 8°, b), 9°, b), 10°, b), 11°, b), 12°, b), en 13°, beschikt over een vertaling van zijn certificaat naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven, en legt zijn certificaat en, in voorkomend geval, de vertaling ervan voor aanhet departement, bij de melding van het gebruik van de erkenning.<br>
+De erkenning, vermeld in het eerste lid, 7°, b), 8°, b), 9°, b), 10°, b), 11°, b), 12°, b) en 13°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan&nbsp;de bevoegde afdeling,&nbsp;de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan&nbsp;de bevoegde afdeling. De persoon of het bedrijf, vermeld in het eerste lid, 7°, b), 8°, b), 9°, b), 10°, b), 11°, b), 12°, b), en 13°, beschikt over een vertaling van zijn certificaat naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven, en legt zijn certificaat en, in voorkomend geval, de vertaling ervan voor aan&nbsp;de bevoegde afdeling, bij de melding van het gebruik van de erkenning.<br>
 <br>
-De erkenning, vermeld in het eerste lid, 14°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan het departement, de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan de afdeling, bevoegd voor milieuvergunningen, en de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan het departement.<br>
+De erkenning, vermeld in het eerste lid, 14°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan de bevoegde afdeling, de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan de afdeling, bevoegd voor milieuvergunningen, en de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan&nbsp;de bevoegde afdeling.<br>
 <br>
 § 3. De erkenning van rechtswege, vermeld in paragraaf 1 en 2, is niet van toepassing op personen die niet voldoen aan de algemene erkenningsvoorwaarden, vermeld in artikel 8.<br>
 &nbsp;
@@ -791,7 +791,7 @@ De erkende airco-energiedeskundige, vermeld in artikel 6, 1°, f) :<br>
 1° toont op verzoek het materiaal dat hij gebruikt bij de uitvoering van de werkzaamheden met betrekking tot de erkenning;<br>
 2° voert de keuring, vermeld in artikel 5.16.3.3, § 3, 4°,&nbsp;van titel II van het VLAREM correct uit en interpreteert de resultaten correct;<br>
 3° bezorgt na iedere keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW als vermeld in artikel 5.16.3.3, § 3, 4°, van titel II van het VLAREM, een verslag van de keuring aan de exploitant van het gebouw met het airconditioningsysteem. Het keuringsverslag bevat het resultaat van de keuring, alsook aanbevelingen voor een kostenefficiënte verbetering van de energieprestatie van het gekeurde systeem en, in voorkomend geval, de evaluatie van de aanbevelingen die bij de vorige keuring werden geformuleerd;<br>
-4° houdt alle gegevens van de keuring op dusdanige wijze bij dat een controle op het verloop van de keuring mogelijk is. Die gegevens en het keuringsverslag worden gedurende ten minste drie jaar bewaard en worden ter beschikking gehouden van het departement en de keuringsinstelling, vermeld in artikel 58/2;<br>
+4° houdt alle gegevens van de keuring op dusdanige wijze bij dat een controle op het verloop van de keuring mogelijk is. Die gegevens en het keuringsverslag worden gedurende ten minste drie jaar bewaard en worden ter beschikking gehouden van de bevoegde afdeling en de keuringsinstelling, vermeld in artikel 58/2;<br>
 5° houdt een overzichtslijst bij van alle keuringen als vermeld in artikel 5.16.3.3, § 3, 4°,&nbsp;van titel II van het VLAREM, die hij in het voorbije kalenderjaar uitgevoerd heeft;<br>
 6° volgt vijfjaarlijks de bijscholing en slaagt voor het bijhorende examen, vermeld in artikel 43/4, 2°, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, f).<br>
 <br>
@@ -854,7 +854,7 @@ e) bij een buitendienststelling :<br>
 3) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de installatie buiten dienst gesteld heeft;<br>
 4) de naam en het erkenningsnummer van het koeltechnisch bedrijf waar de technicus werkt;<br>
 3° toont op verzoek het materiaal dat hij gebruikt bij de uitvoering van de werkzaamheden met betrekking tot de erkenning;<br>
-4° slaagt vijfjaarlijks voor het actualisatie-examen in een erkend opleidingscentrum als vermeld in artikel 6, 4°, h), of voor een gelijkwaardig examen dat aanvaard is door het departement. Als het certificaat van bekwaamheid als vermeld in artikel 17/1, 2°, of artikel 32, § 2, eerste lid, 7°, b), ouder is dan vijf jaar na de afgiftedatum, vermeld op het certificaat, slaagt hij voor het actualisatie-examen of voor een gelijkwaardig examen vóór hij de erkenning kan gebruiken. De examens die gelijkwaardig worden bevonden, worden gepubliceerd op de website van het departement;<br>
+4° slaagt vijfjaarlijks voor het actualisatie-examen in een erkend opleidingscentrum als vermeld in artikel 6, 4°, h), of voor een gelijkwaardig examen dat aanvaard is door de bevoegde afdeling. Als het certificaat van bekwaamheid als vermeld in artikel 17/1, 2°, of artikel 32, § 2, eerste lid, 7°, b), ouder is dan vijf jaar na de afgiftedatum, vermeld op het certificaat, slaagt hij voor het actualisatie-examen of voor een gelijkwaardig examen vóór hij de erkenning kan gebruiken. De examens die gelijkwaardig worden bevonden, worden gepubliceerd op de website van de bevoegde afdeling;<br>
 5° doet al het mogelijke om lekkage van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen te voorkomen of tot een minimum te beperken;<br>
 6° doet al het nodige voor de recycling, regeneratie of vernietiging van gefluoreerde broeikasgassen als een cilinder met dat broeikasgas verwijderd moet worden;<br>
 7° beschikt over een vertaling van zijn certificaat van categorie I, II, III of IV naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven;<br>
@@ -949,10 +949,10 @@ a) voor de aanvullende vorming van het eerste niveau : de graad van bachelor of 
 b) voor de aanvullende vorming van het tweede niveau : het diploma van secundair onderwijs of gelijkwaardige getuigschriften of certificaten bezitten;<br>
 c) voor de overgangscursussen van het tweede niveau naar het eerste niveau : het getuigschrift van aanvullende vorming voor milieucoördinatoren van het tweede niveau bezitten;<br>
 3° kan op basis van de opleiding die ze tot dan toe al hebben genoten, de cursisten vrijstelling verlenen van het volgen van bepaalde onderdelen van de aanvullende vorming. De vrijstelling geldt niet voor het maken van een eindwerk;<br>
-4° brengt het departement, minstens één maand vooraf op de hoogte van de datum van de examens en van de bespreking van de eindwerken. Een lijst met de vermelding van de titels van de eindwerken wordt gelijktijdig met de lijst van voormelde data aan het departement bezorgd.&nbsp;Het departement&nbsp;kan zetelen in de examen- of eindwerkjury;&nbsp;<br>
-5° stelt ten minste tweemaal per jaar een verslag op over de inhoudelijke werking van de opvolgingscommissie die waakt over de organisatie en de programma-inhoud van de cursussen. Dit verslag omvat minimaal een beschrijving van de vergadering en activiteiten, en wordt aan&nbsp;het departement&nbsp;bezorgd;&nbsp;<br>
-6° nodigt het departement uit op elke vergadering van de opvolgingscommissie. Het afdelingshoofd van&nbsp;het departement&nbsp;of zijn afgevaardigde maken van rechtswege deel uit van de opvolgingscommissie;<br>
-7° moet, als daarom wordt verzocht door&nbsp;het departement,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen en examens bij te wonen.
+4° brengt de bevoegde afdeling, minstens één maand vooraf op de hoogte van de datum van de examens en van de bespreking van de eindwerken. Een lijst met de vermelding van de titels van de eindwerken wordt gelijktijdig met de lijst van voormelde data aan de bevoegde afdeling bezorgd.&nbsp;De bevoegde afdeling kan zetelen in de examen- of eindwerkjury;&nbsp;<br>
+5° stelt ten minste tweemaal per jaar een verslag op over de inhoudelijke werking van de opvolgingscommissie die waakt over de organisatie en de programma-inhoud van de cursussen. Dit verslag omvat minimaal een beschrijving van de vergadering en activiteiten, en wordt aan&nbsp;de bevoegde afdeling bezorgd;&nbsp;<br>
+6° nodigt de bevoegde afdeling uit op elke vergadering van de opvolgingscommissie. Het afdelingshoofd van&nbsp;de bevoegde afdeling of zijn afgevaardigde maken van rechtswege deel uit van de opvolgingscommissie;<br>
+7° moet, als daarom wordt verzocht door&nbsp;de bevoegde afdeling,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen en examens bij te wonen.
 
 ### ART. 43.
 
@@ -973,9 +973,9 @@ Een persoon is geslaagd voor het examen als hij voldoet aan de volgende voorwaar
 <br>
 § 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid of, in voorkomend geval, van bijscholing inzake vloeibare brandstof uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van het departement. Het model van het certificaat wordt ter goedkeuring voorgelegd aan het departement. Een kopie van het uitgereikte certificaat wordt bezorgd aan het departement.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
 <br>
-§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
 § 4. ...<br>
 <br>
@@ -983,9 +983,9 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
 <br>
-§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;het departement minstens een maand voor een opleiding of, in voorkomend geval, de bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of, in voorkomend geval, van de bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de afdeling, bevoegd voor erkenningen,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen.&nbsp;Het departement&nbsp;kan zetelen in de examenjury.<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;de bevoegde afdeling minstens een maand voor een opleiding of, in voorkomend geval, de bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of, in voorkomend geval, van de bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de bevoegde afdeling,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen.&nbsp;De bevoegde afdeling kan zetelen in de examenjury.<br>
 <br>
-§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door het departement.</p>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de bevoegde afdeling.</p>
 
 ### ART. 43/1.
 
@@ -1017,9 +1017,9 @@ Een persoon is geslaagd voor het examen module GII als hij voor ieder onderdeel 
 <br>
 § 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen&nbsp;een certificaat van bekwaamheid of, in voorkomend geval, van bijscholing inzake gasvormige brandstof uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van het departement. Het model van het certificaat wordt ter goedkeuring voorgelegd aan het departement. Een kopie van het uitgereikte certificaat wordt bezorgd aan het departement.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
 <br>
-§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
 § 5. ...<br>
 <br>
@@ -1027,9 +1027,9 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
 <br>
-§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt het departement, minstens een maand voor een opleiding of, in voorkomend geval, de bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of, in voorkomend geval, van de bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door het departement,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen. Het departement, kan zetelen in de examenjury.<br>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt de bevoegde afdeling, minstens een maand voor een opleiding of, in voorkomend geval, de bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of, in voorkomend geval, van de bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de bevoegde afdeling,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen. De bevoegde afdeling, kan zetelen in de examenjury.<br>
 <br>
-§ 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door het departement.</p>
+§ 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de bevoegde afdeling.</p>
 
 ### ART. 43/2.
 
@@ -1045,9 +1045,9 @@ Een persoon is geslaagd voor het examen als hij in totaal minstens zestig procen
 <br>
 § 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid of, in voorkomend geval, van bijscholing inzake de verwarmingsaudit uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van het departement. Het model van het certificaat wordt ter goedkeuring voorgelegd aan het departement. Een kopie van het uitgereikte certificaat wordt bezorgd aan het departement.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
 <br>
-§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
 § 4. ...<br>
 <br>
@@ -1055,9 +1055,9 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
 <br>
-§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;het departement&nbsp;minstens een maand voor een opleiding of, in voorkomend geval, de bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of, in voorkomend geval, de bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door&nbsp;het departement&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen.&nbsp;Het departement&nbsp;kan zetelen in de examenjury.<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;de bevoegde afdeling&nbsp;minstens een maand voor een opleiding of, in voorkomend geval, de bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of, in voorkomend geval, de bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door&nbsp;de bevoegde afdeling&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen.&nbsp;De bevoegde afdeling&nbsp;kan zetelen in de examenjury.<br>
 <br>
-§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door het departement.
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de bevoegde afdeling.
 
 ### ART. 43/3.
 
@@ -1075,9 +1075,9 @@ Een persoon is geslaagd voor het examen als hij voor ieder onderdeel minstens vi
 <br>
 § 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid of, in voorkomend geval, van bijscholing inzake de controle en het onderhoud van stookolietanks uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van het departement. Het model van het certificaat wordt ter goedkeuring voorgelegd aan het departement. Een kopie van het uitgereikte certificaat wordt bezorgd aan het departement.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
 <br>
-§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
 § 4. ...<br>
 <br>
@@ -1085,9 +1085,9 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
 <br>
-§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;het departement&nbsp;minstens een maand voor een opleiding of, in voorkomend geval, de bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of, in voorkomend geval, van de bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door het departement&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen. Het departement kan zetelen in de examenjury.<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;de bevoegde afdeling&nbsp;minstens een maand voor een opleiding of, in voorkomend geval, de bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of, in voorkomend geval, van de bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de bevoegde afdeling&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen. De bevoegde afdeling kan zetelen in de examenjury.<br>
 <br>
-§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door het departement.
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de bevoegde afdeling.
 
 ### ART. 43/4.
 
@@ -1112,9 +1112,9 @@ Een persoon is geslaagd voor het examen als hij minstens zeventig procent van de
 <br>
 § 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid of van bijscholing inzake de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing, gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in § 1, respectievelijk § 2.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van het departement. Het model van het certificaat wordt ter goedkeuring voorgelegd aan het departement. Een kopie van het uitgereikte certificaat wordt bezorgd aan het departement.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
 <br>
-§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
 § 5. ....<br>
 <br>
@@ -1122,9 +1122,9 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
 <br>
-§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt het departement minstens een maand voor een opleiding of bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door het departement personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen. Het departement kan zetelen in de examenjury.<br>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt de bevoegde afdeling minstens een maand voor een opleiding of bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de bevoegde afdeling personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen. De bevoegde afdeling kan zetelen in de examenjury.<br>
 <br>
-§ 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door het departement.
+§ 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de bevoegde afdeling.
 
 ### ART. 43/5.
 
@@ -1156,9 +1156,9 @@ Een persoon is geslaagd voor het actualisatie-examen als hij minstens zestig pro
 <br>
 § 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid in de koeltechniek van categorie I, II, III of IV of van het actualisatie-examen uit nadat een persoon geslaagd is voor het examen, vermeld in paragraaf 1, respectievelijk paragraaf 2.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van het departement. Het model van het certificaat wordt ter goedkeuring voorgelegd aan het departement. Een kopie van het uitgereikte certificaat wordt bezorgd aan het departement.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
 <br>
-§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
 § 5. ...<br>
 <br>
@@ -1166,9 +1166,9 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
 <br>
-§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;het departement minstens een maand voor een examen plaatsvindt, op de hoogte van de plaats en het tijdstip van het examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door&nbsp;het departement personeelsleden de mogelijkheid bieden om de examens bij te wonen.&nbsp;Het departement kan zetelen in de examenjury.<br>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;de bevoegde afdeling minstens een maand voor een examen plaatsvindt, op de hoogte van de plaats en het tijdstip van het examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door&nbsp;de bevoegde afdeling personeelsleden de mogelijkheid bieden om de examens bij te wonen.&nbsp;De bevoegde afdeling kan zetelen in de examenjury.<br>
 <br>
-§ 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door het departement.<br>
+§ 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de bevoegde afdeling.<br>
 <br>
 § 10. Het erkende opleidingscentrum, vermeld in paragraaf 1, zorgt ervoor dat de examenjuryleden goed op de hoogte zijn van de relevante examenmethoden en examendocumenten.
 
@@ -1184,9 +1184,9 @@ Een persoon is geslaagd voor het examen als hij voor het theoretische onderdeel 
 <br>
 § 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid voor brandbeveiligingsapparatuur uit nadat een persoon geslaagd is voor het examen, vermeld in paragraaf 1.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van het departement. Het model van het certificaat wordt ter goedkeuring voorgelegd aan het departement. Een kopie van het uitgereikte certificaat wordt bezorgd aan het departement.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
 <br>
-§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
 § 4. ...<br>
 <br>
@@ -1194,9 +1194,9 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
 <br>
-§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;het departement minstens een maand voor een examen plaatsvindt, op de hoogte van de plaats en het tijdstip van het examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door&nbsp;het departement personeelsleden de mogelijkheid bieden om de examens bij te wonen.&nbsp;Het departement kan zetelen in de examenjury.<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;de bevoegde afdeling minstens een maand voor een examen plaatsvindt, op de hoogte van de plaats en het tijdstip van het examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door&nbsp;de bevoegde afdeling personeelsleden de mogelijkheid bieden om de examens bij te wonen.&nbsp;De bevoegde afdeling kan zetelen in de examenjury.<br>
 <br>
-§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door het departement.<br>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de bevoegde afdeling.<br>
 <br>
 § 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, zorgt ervoor dat de examenjuryleden goed op de hoogte zijn van de relevante examenmethoden en examendocumenten.
 
@@ -1212,9 +1212,9 @@ Een persoon is geslaagd voor het examen als hij zowel voor het theoretische als 
 <br>
 § 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid voor elektrische schakelinrichtingen uit nadat een persoon geslaagd is voor het examen, vermeld in paragraaf 1.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de het departement. Het model van het certificaat wordt ter goedkeuring voorgelegd aan het departement. Een kopie van het uitgereikte certificaat wordt bezorgd aan het departement.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
 <br>
-§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
 § 4. ...<br>
 <br>
@@ -1222,9 +1222,9 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
 <br>
-§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;het departement minstens een maand voor een examen plaatsvindt, op de hoogte van de plaats en het tijdstip van het examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door&nbsp;het departement personeelsleden de mogelijkheid bieden om de examens bij te wonen.&nbsp;Het departement kan zetelen in de examenjury.<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;de bevoegde afdeling minstens een maand voor een examen plaatsvindt, op de hoogte van de plaats en het tijdstip van het examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door&nbsp;de bevoegde afdeling personeelsleden de mogelijkheid bieden om de examens bij te wonen.&nbsp;De bevoegde afdeling kan zetelen in de examenjury.<br>
 <br>
-§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door het departement.<br>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de bevoegde afdeling.<br>
 <br>
 § 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, zorgt ervoor dat de examenjuryleden goed op de hoogte zijn van de relevante examenmethoden en examendocumenten.
 
@@ -1240,9 +1240,9 @@ Een persoon is geslaagd voor het examen als hij zowel voor het theoretische als 
 <br>
 § 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid voor apparatuur die oplosmiddelen bevat uit nadat een persoon geslaagd is voor het examen, vermeld in paragraaf 1.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van het departement. Het model van het certificaat wordt ter goedkeuring voorgelegd aan het departement. Een kopie van het uitgereikte certificaat wordt bezorgd aan het departement.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
 <br>
-§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
 § 4. ...<br>
 <br>
@@ -1250,9 +1250,9 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
 <br>
-§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;het departement minstens een maand voor een examen plaatsvindt, op de hoogte van de plaats en het tijdstip van het examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door&nbsp;het departement personeelsleden de mogelijkheid bieden om de examens bij te wonen.&nbsp;Het departement kan zetelen in de examenjury.<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;de bevoegde afdeling minstens een maand voor een examen plaatsvindt, op de hoogte van de plaats en het tijdstip van het examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door&nbsp;de bevoegde afdeling personeelsleden de mogelijkheid bieden om de examens bij te wonen.&nbsp;De bevoegde afdeling kan zetelen in de examenjury.<br>
 <br>
-§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door het departement.<br>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de bevoegde afdeling.<br>
 <br>
 § 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, zorgt ervoor dat de examenjuryleden goed op de hoogte zijn van de relevante examenmethoden en examendocumenten.
 
@@ -1260,7 +1260,7 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 
 § 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen, vermeld in artikel 6, 4°, l), organiseert de opleiding met het bijhorende examen voor personen die het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen willen behalen. Het erkende opleidingscentrum bepaalt de inhoud van de opleiding en het examen aan de hand van de onderwerpen, vermeld in de bijlage bij verordening nr. 307/2008.<br>
 <br>
-Het erkende opleidingscentrum kan gebruikmaken van de opleidings- en examenpakketten die door de instantie die het sectorale opleidingsbeleid ondersteunt, ter beschikking worden gesteld, op voorwaarde dat&nbsp;het departement de pakketten heeft goedgekeurd.<br>
+Het erkende opleidingscentrum kan gebruikmaken van de opleidings- en examenpakketten die door de instantie die het sectorale opleidingsbeleid ondersteunt, ter beschikking worden gesteld, op voorwaarde dat&nbsp;de bevoegde afdeling de pakketten heeft goedgekeurd.<br>
 <br>
 Het examen bestaat uit twee onderdelen :<br>
 1° een theoretisch onderdeel;<br>
@@ -1270,9 +1270,9 @@ Een persoon is geslaagd voor het examen als hij zowel voor het theoretische als 
 <br>
 § 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen uit nadat een persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de het departement. Het model van het certificaat wordt ter goedkeuring voorgelegd aan het departement. Een kopie van het uitgereikte certificaat wordt bezorgd aan het departement.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
 <br>
-§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
 <br>
 § 4. ...<br>
 <br>
@@ -1280,9 +1280,9 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
 <br>
-§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;het departement minstens een maand voor een opleiding van start gaat of het examen plaatsvindt, op de hoogte van de plaats en het tijdstip van de opleiding of het examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door&nbsp;het departement personeelsleden de mogelijkheid bieden om de opleidingen en examens bij te wonen.&nbsp;Het departement kan zetelen in de examenjury.<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;de bevoegde afdeling minstens een maand voor een opleiding van start gaat of het examen plaatsvindt, op de hoogte van de plaats en het tijdstip van de opleiding of het examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door&nbsp;de bevoegde afdeling personeelsleden de mogelijkheid bieden om de opleidingen en examens bij te wonen.&nbsp;De bevoegde afdeling kan zetelen in de examenjury.<br>
 <br>
-§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door het departement.<br>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de bevoegde afdeling.<br>
 <br>
 § 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt de gegevens, vermeld in punt 3° tot en met 6° van bijlage 15, die bij dit besluit is gevoegd, aan een instantie die het sectorale opleidingsbeleid ondersteunt.
 
@@ -1583,10 +1583,10 @@ c) de hoeveelheid gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen die 
 De erkende keuringsinstelling, vermeld in artikel 6, 8° :<br>
 1° is geaccrediteerd als keuringsinstelling van het type A op basis van de criteria van de norm ISO/IEC 17020 voor de keuring, vermeld in artikel 25/4, 4°, of behaalt die accreditatie binnen een termijn van een jaar, te rekenen vanaf de dag nadat de erkenning verkregen is;<br>
 2° wijst een of meer keurders aan die beschikken over een erkenning als koeltechnicus als vermeld in artikel 32, § 2, eerste lid, 7°, van categorie I of die over minstens drie jaar praktijkervaring in de koelsector beschikken;<br>
-3° reikt binnen een maand nadat een bedrijf met goed gevolg gekeurd werd als vermeld in artikel 25/4, 4°, een certificaat uit. Het certificaat bevat minstens de gegevens, vermeld in bijlage 24, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt de keuringsinstelling de instructies van het departement. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de het departement. Een kopie van het uitgereikte certificaat wordt bezorgd aan het departement;<br>
-4° bezorgt maandelijks aan het departement, een overzicht van de bedrijven die met gunstig gevolg gekeurd zijn. Dat overzicht bevat minstens de gegevens, vermeld in bijlage 22, die bij dit besluit is gevoegd;<br>
-5° behandelt en onderzoekt klachten, ingediend door het departement;<br>
-6° moet, als daarom wordt verzocht door&nbsp;het departement personeelsleden de mogelijkheid bieden om de keuring bij te wonen;<br>
+3° reikt binnen een maand nadat een bedrijf met goed gevolg gekeurd werd als vermeld in artikel 25/4, 4°, een certificaat uit. Het certificaat bevat minstens de gegevens, vermeld in bijlage 24, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt de keuringsinstelling de instructies van de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling;<br>
+4° bezorgt maandelijks aan de bevoegde afdeling, een overzicht van de bedrijven die met gunstig gevolg gekeurd zijn. Dat overzicht bevat minstens de gegevens, vermeld in bijlage 22, die bij dit besluit is gevoegd;<br>
+5° behandelt en onderzoekt klachten, ingediend door de bevoegde afdeling;<br>
+6° moet, als daarom wordt verzocht door&nbsp;de bevoegde afdeling personeelsleden de mogelijkheid bieden om de keuring bij te wonen;<br>
 7° bewaart de keuringsrapporten minstens vijf jaar.
 
 ## HOOFDSTUK 9 Schorsing en opheffing van de erkenning
@@ -1711,17 +1711,17 @@ Voor dit besluit worden het toezicht en de bestuurlijke handhaving uitgeoefend e
 
 ### ART. 58/1.
 
-§ 1.&nbsp;Het departement kan een centraal stooktoestel dat door een erkende technicus gekeurd is vóór de eerste ingebruikname, onderhouden is of aan een verwarmingsaudit onderworpen is als vermeld in het besluit inzake het onderhoud en nazicht van centrale stooktoestellen, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de het departement.<br>
+§ 1.&nbsp;de bevoegde afdeling kan een centraal stooktoestel dat door een erkende technicus gekeurd is vóór de eerste ingebruikname, onderhouden is of aan een verwarmingsaudit onderworpen is als vermeld in het besluit inzake het onderhoud en nazicht van centrale stooktoestellen, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de de bevoegde afdeling.<br>
 <br>
 Een willekeurige selectie van ten minste een statistisch relevant percentage van alle attesten van de onderhoudsbeurten en verwarmingsauditrapporten die jaarlijks worden verstrekt, wordt aan een controle onderworpen.<br>
 <br>
-§ 2.&nbsp;Het departement kan de keuringen, vermeld in artikel 39/1, eerste lid, 2°, of de keuringsverslagen, vermeld in artikel 39/1, eerste lid, 3°, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door het departement.<br>
+§ 2.&nbsp;de bevoegde afdeling kan de keuringen, vermeld in artikel 39/1, eerste lid, 2°, of de keuringsverslagen, vermeld in artikel 39/1, eerste lid, 3°, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de bevoegde afdeling.<br>
 <br>
 Een willekeurige selectie van ten minste een statistisch relevant percentage van alle keuringsverslagen die jaarlijks worden verstrekt, wordt aan een controle onderworpen.<br>
 &nbsp;
-<p style="text-align: justify;">§3.&nbsp;Het departement kan een stookolietank die door een erkende stookolietechnicus gecontroleerd, onderhouden of buiten gebruik gesteld is als vermeld in afdeling 5.17.2, 5.17.3, 6.5.4 en 6.5.5 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door het departement.<br>
+<p style="text-align: justify;">§3.&nbsp;de bevoegde afdeling kan een stookolietank die door een erkende stookolietechnicus gecontroleerd, onderhouden of buiten gebruik gesteld is als vermeld in afdeling 5.17.2, 5.17.3, 6.5.4 en 6.5.5 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de bevoegde afdeling.<br>
 <br>
-§ 4.&nbsp;Het departement kan een koelinstallatie&nbsp;of een koeleenheid op koelwagens en koelaanhangwagens die door een erkende koeltechnicus of een erkend koeltechnisch bedrijf geïnstalleerd, onderhouden, gerepareerd of buiten dienst gesteld werd, die door een erkende koeltechnicus gecontroleerd werd op lekkage of waaruit gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden teruggewonnen door een erkende koeltechnicus als vermeld in&nbsp;artikel 4.4.8.4, artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis,&nbsp;artikel 6.8.1.1 of artikel 6.8.6.1 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door het departement. Bovendien kan&nbsp;het departement het gebruik van de erkenning als koeltechnicus of als koeltechnisch bedrijf onderwerpen aan een controle door een keuringsinstelling die aangewezen is door het departement.</p>
+§ 4.&nbsp;de bevoegde afdeling kan een koelinstallatie&nbsp;of een koeleenheid op koelwagens en koelaanhangwagens die door een erkende koeltechnicus of een erkend koeltechnisch bedrijf geïnstalleerd, onderhouden, gerepareerd of buiten dienst gesteld werd, die door een erkende koeltechnicus gecontroleerd werd op lekkage of waaruit gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden teruggewonnen door een erkende koeltechnicus als vermeld in&nbsp;artikel 4.4.8.4, artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis,&nbsp;artikel 6.8.1.1 of artikel 6.8.6.1 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de bevoegde afdeling. Bovendien kan&nbsp;de bevoegde afdeling het gebruik van de erkenning als koeltechnicus of als koeltechnisch bedrijf onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de bevoegde afdeling.</p>
 
 ## [HOOFDSTUK 13/2 Keuringsinstelling (ing. BVR 1 maart 2013, art. 133, I: 3 mei 2013)]
 
@@ -1736,7 +1736,7 @@ c) in geval van een keuringsinstelling als vermeld in artikel 58/1, §3: een erk
 d) in geval van een keuringsinstelling als vermeld in artikel 58/1, § 4 : een erkenning als koeltechnicus als vermeld in artikel 32, § 2, eerste lid, 7°, van categorie I bezitten en beschikken over minstens drie jaar praktijkervaring in de koelsector;<br>
 3° in geval van een keuringsinstelling als vermeld in artikel 58/1, § 1, voor de activiteiten, vermeld in artikel 58/1, § 1, eerste lid, of in geval van een keuringsinstelling als vermeld in artikel 58/1, § 2, voor de activiteiten, vermeld in artikel 58/1, § 2, eerste lid, of in geval van een keuringsinstelling als vermeld in artikel 58/1, §3, voor de activiteiten, vermeld in artikel 58/1, §3, of in geval van een keuringsinstelling als vermeld in artikel 58/1, § 4, voor de activiteiten, vermeld in artikel 58/1, § 4, geaccrediteerd zijn als keuringsinstelling van het type A op basis van de criteria van de norm ISO/IEC 17020, hetzij een bewijs leveren dat een aanvraag om die accreditatie te verkrijgen, aanvaard is door BELAC of een gelijkwaardig accreditatiesysteem.<br>
 <br>
-Het departement&nbsp;wijst een keuringsinstelling aan voor een periode van maximaal vier jaar.
+de bevoegde afdeling wijst een keuringsinstelling aan voor een periode van maximaal vier jaar.
 
 ## [HOOFDSTUK 13/3 Registratie van een monsternemer (ing. BVR 3 mei 2019, art. 268, I: 1 oktober 2019)]
 
