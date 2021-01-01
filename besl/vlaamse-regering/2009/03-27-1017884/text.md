@@ -26,33 +26,31 @@ Besluit :
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de volgende personen die activiteiten als vermeld in artikel 2 verrichten:<br>
-1° de verzorgende personeelsleden die werken in de diensten voor gezinszorg, erkend door de Vlaamse overheid, en de personen, vermeld in artikel 6/1, eerste lid;<br>
-2° alle andere personen die beroepshalve die activiteiten verrichten in het natuurlijke thuismilieu van de gebruiker, ongeacht of ze bij een welzijnsvoorziening als vermeld in artikel 2, 3°, van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening werken of niet.
+...
 
 ## HOOFDSTUK II. Activiteiten die behoren tot de zorgdimensies
 
 ### ART. 2.
 
-Voor wat de thuiszorg betreft, behoren de volgende activiteiten tot de zorgdimensies:<br />1° activiteiten die deel uitmaken van de zorgdimensie lichamelijke zorg:<br />a) de dagelijkse lichaamszorg en comfortzorg:<br />1) hygiënische zorg uitvoeren: dagelijks toilet, wekelijks toilet, intiem toilet, bad, haarverzorging, voet- en nagelverzorging, mondhygiëne en reinigen van tanden of een kunstgebit, zorg voor een hoorapparaat, contactlenzen of een bril, scheren, opmaak en make-up, en babybadje en navelverzorging;<br />2) helpen bij het bewegen en verplaatsen, zowel binnenshuis als buitenshuis;<br />3) zorgen voor rust en slaap: ziekenbed installeren en opmaken, zorgvrager installeren in zijn bed of zetel, zorgen voor een goede houding;<br />4) helpen bij het omkleden, inclusief het kiezen van de gepaste kledij;<br />5) helpen bij het eten en drinken;<br />6) helpen bij de toiletgang: de zorgvrager begeleiden van en naar het toilet, het urinaal en de bedpan gebruiken, helpen bij incontinentie;<br />7) bijstand verlenen bij het gebruik van geneesmiddelen die vrij zijn van voorschrift van een arts;<br />8) de fysieke veiligheid van de gebruiker ondersteunen;<br />9) comfortzorg verlenen: maatregelen, handelingen en technieken die het verzorgen van zwaar zorgbehoevende personen comfortabeler laten verlopen, met minder pijn en ongemak;<br />b) de specifieke zorg voor zorgbehoevende personen:<br />1) ondersteuning bieden bij passieve of actieve beweging;<br />2) een verband of steunkousen aanbrengen (met uitzondering van compressie door middel van windels);<br />3) een prothese aanbrengen;<br />4) een stomazakje verversen bij een genezen stoma;<br />5) ondersteuning bieden bij een warmte- of koudebehandeling;<br />6) ondersteuning bieden bij het gebruik van aangepaste hulpmiddelen en verzorgingsmateriaal (met inbegrip van het vaststellen van de behoefte aan hulpmiddelen);<br />c) de uitvoering van zorgafspraken:<br />1) observeren en rapporteren volgens afspraak over temperatuur,  mictie en stoelgang, waarneembare symptomen bij disfuncties en nevenwerkingen bij behandelingen, zoals ze werden aangegeven door de behandelende arts of verpleegkundige;<br />2) bijstand verlenen bij het gebruik van orale geneesmiddelen op voorschrift van een arts, toezien op het gebruik van geneesmiddelen, therapietrouw bevorderen en de stiptheid daarbij ondersteunen, bijstand verlenen bij het verzorgen van huidirritaties;<br />d) de toepassing van eerste hulp bij ongevallen zoals van elke burger verwacht mag worden, ongeacht de ernst van de situatie;<br />e) de zorg voor een goed functionerend lichaam:<br />1) aanreiken van tips voor een gezonde levenswijze en een goede lichaamszorg: gezonde en aangepaste voeding, valpreventie en zorg voor voldoende slaap;<br />2) ondersteuning bieden bij borstvoeding;<br />3) besmettingen voorkomen: beschermingsmaatregelen tegen infectie toepassen, zowel bij zichzelf als bij de zorgvrager, en materialen reinigen en ontsmetten;<br />4) immobiliteitsproblemen vermijden: drukletsels helpen voorkomen, verstijving en misgroeiingen helpen voorkomen, en ademhaling en bloedcirculatie helpen bevorderen;<br />5) afspraken over de veiligheid van en het toezicht op zorgvragers (onder meer rusteloze en stervende personen) opvolgen en naleven;<br />2° activiteiten die deel uitmaken van de zorgdimensies psychosociale en pedagogische of agogische ondersteuning:<br />a) het geven van aandacht en aanwezigheid verzekeren;<br />b) het opmerken en begrijpen van psychosociale en emotionele problemen en het bieden van ondersteuning bij de verwerking ervan;<br />c) de ondersteuning bij:<br />1) sociale contacten;<br />2) ontspanning;<br />3) administratie en gezinsbudget;<br />4) mobiliteitsproblemen;<br />5) revalidatie en therapietrouw;<br />d) de bijzondere zorg en ondersteuning voor specifieke doelgroepen, zoals:<br />1) kansarmen;<br />2) psychisch zieken;<br />3) jonge gezinnen voor en na de geboorte van een kind;<br />4) personen met dementie;<br />5) terminale zieken;<br />e) de (ped)agogische zorg voor kinderen, zoals:<br />1) zorgen voor een baby;<br />2) ondersteuning bieden bij de opvoeding;<br />3) kinderen begeleiden bij spel en huiswerk;<br />4) toezicht houden op kinderen;<br />f) het primair en secundair preventief handelen:<br />1) ondersteunen van sociale vaardigheden;<br />2) ondersteunen van de draagkracht van zorgvragers en mantelzorgers, problemen opvangen en signaleren en de zelfzorg stimuleren;<br />3) opvangen en signaleren van crisissituaties, en de zorgvrager en zijn omgeving bijstaan in moeilijke momenten;<br />4) voorkomen en signaleren van misbehandeling of verwaarlozing;<br />5) signaleren van suïcidaal gedrag.
+...
 
 ## HOOFDSTUK III. Voorwaarden voor het verstrekken van zorg- en bijstandsverlening
 
 ### ART. 3.
 
-De personen, vermeld in artikel 1, 1° en 2°, zorgen voor de overdracht van alle relevante informatie aan de overige bij de zorgsituatie betrokken zorgverleners, vrijwilligers en mantelzorgers. Zij worden daarbij waar nodig bijgestaan door hun leidinggevende.<br /><br />De overdracht van informatie, vermeld in het eerste lid, gebeurt bij voorkeur schriftelijk. Een overdracht via elektronische post of enig ander communicatiemiddel dat resulteert in een schriftelijk stuk, wordt ook als schriftelijk beschouwd.
+...
 
 ### ART. 4.
 
-De personen, vermeld in artikel 1, 1° en 2°, mogen de volgende activiteiten alleen uitvoeren op voorwaarde dat daarover duidelijke afspraken gemaakt zijn met de overige bij de zorgsituatie betrokken professionele zorgverleners:<br />1° observeren en rapporteren over temperatuur, mictie en stoelgang, waarneembare symptomen bij disfuncties en nevenwerkingen bij behandelingen, zoals ze werden aangegeven door de behandelende arts of verpleegkundige;<br />2° bijstand verlenen bij het gebruik van orale geneesmiddelen op voorschrift van een arts, toezien op het gebruik van geneesmiddelen, therapietrouw bevorderen en de stiptheid daarbij ondersteunen, bijstand verlenen bij het verzorgen van huidirritaties.<br /><br />Die afspraken moeten schriftelijk vastgelegd zijn of deel uitmaken van het individuele zorgplan dat voor de gebruiker opgemaakt wordt. Afspraken die vastgelegd worden via elektronische post of enig ander communicatiemiddel dat resulteert in een schriftelijk stuk, worden ook als schriftelijk beschouwd.<br /><br />De personen, vermeld in artikel 1, 1° en 2°, kunnen nooit autonoom beslissen tot het uitvoeren van de activiteiten, vermeld in het eerste lid, 1° en 2°.
+...
 
 ### ART. 4/1.
 
-Van de personen, vermeld in artikel 1, 1° en 2°, wordt een permanente aandacht vereist voor de volgende signalen : <br />1° tekenen van roodheid;<br />2° huidirritatie;<br />3° tekenen van ademhalingsproblemen;<br />4° zwelling;<br />5° pijn;<br />6° nieuwe letsels;<br />7° tekenen van beginnende incontinentie, urineretentie, obstipatie;<br />8° plots gewichtsverlies;<br />9° tekenen van dreigende of aanwezige doorligwonden;<br />10° slikstoornissen;<br />11° tekenen van koorts;<br />12° plotse wijzigingen in het vermogen tot oriëntatie in tijd en ruimte;<br />13° plotse verwardheid;<br />14° tekenen van mogelijke nevenverschijnselen van medicatiegebruik;<br />15° potentiële of actuele valrisico's;<br />16° te weinig voedsel- of drankopname;<br />17° andere tekenen van plotse of langzaam vorderende, potentiële of actuele verslechtering van de gezondheidstoestand van de gebruiker.<br /><br />Bij het vaststellen van een van de signalen, vermeld in het eerste lid, hebben de personen, vermeld in artikel 1, 1° en 2°, de verantwoordelijkheid om contact op te nemen met een beoefenaar van een gezondheidszorgberoep, in het bijzonder de huisarts of verpleegkundige die al bij de zorg van die gebruiker betrokken is, of de persoon die formeel werd aangewezen voor elke gebruiker.<br /><br />De lijst van signalen, vermeld in het eerste lid, is niet limitatief en ontslaat de personen, vermeld in artikel 1, 1° en 2°, niet van hun verplichting tot alertheid voor alle mogelijke signalen die een doorverwijzing zouden vergen.
+...
 
 ### ART. 5.
 
-De personen, vermeld in artikel 1, 2°, die niet werken bij een welzijnsvoorziening als vermeld in artikel 2, 3°, van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening, moeten zich laten registreren bij het intern verzelfstandigd agentschap Zorg en Gezondheid voor zij beroepshalve activiteiten van zorg- en bijstandsverlening mogen verrichten. Het intern verzelfstandigd agentschap Zorg en Gezondheid onderzoekt of de betrokkene beantwoordt aan de kwalificatievereisten, vermeld in artikel 6, en levert als bewijs van de registratie een inschrijvingsbewijs af. De registratieplicht geldt niet voor de personen, vermeld in artikel 12.
+...
 
 ## HOOFDSTUK IV. Kwalificatievereisten
 
@@ -60,136 +58,84 @@ De personen, vermeld in artikel 1, 2°, die niet werken bij een welzijnsvoorzien
 
 ### ART. 6.
 
-De personen, vermeld in artikel 1, 1° en 2°, moeten aan een van de volgende voorwaarden voldoen:<br>
-1° ze beantwoorden aan de kwalificatievereisten voor het verzorgend personeel van de diensten voor gezinszorg, vermeld in artikel 29, tweede lid, van bijlage 2 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers;<br>
-2° ze zijn in het bezit van een conformiteitsattest dat werd uitgereikt met toepassing van artikelen 7 tot en met 11, met behoud van de toepassing van artikel 12.
+...
 
 ### ART. 6/1.
 
-Artikel 6 is niet van toepassing op stagiairs. Onder een stagiair wordt verstaan: een leerling, student of cursist die in het kader van een leerprogramma dat georganiseerd wordt door een onderwijsinstelling of een opleidingscentrum, arbeid verricht bij een dienst voor gezinszorg, in vergelijkbare omstandigheden als de personeelsleden van die dienst, om beroepservaring op te doen.<br>
-<br>
-De stage die de stagiair, vermeld in het eerste lid, loopt, moet deel uitmaken van een opleiding die leidt tot een van de studiebewijzen, vermeld in artikel 29, tweede lid, 1° tot en met 5°, van bijlage 2 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers.<br>
-<br>
-De stage, vermeld in het tweede lid, moet aan de volgende voorwaarden voldoen:<br>
-1° ze wordt gelopen bij een dienst voor gezinszorg die erkend is met toepassing van het Woonzorgdecreet van 15 februari 2019;<br>
-2° ze bestaat uit twee delen. Tijdens het eerste deel loopt de stagiair mee met een verzorgend personeelslid, en verricht hij de activiteiten van zorg- en bijstandsverlening onder toezicht van dat personeelslid. Na dat eerste deel volgt er een tussentijdse evaluatie door de dienst voor gezinszorg en de onderwijsinstelling of het opleidingscentrum waar de stagiair een opleiding volgt. De dienst bewaart een schriftelijk verslag van die evaluatie. Alleen bij een positieve tussentijdse evaluatie mag de stagiair het tweede deel van de stage aanvatten, waarin hij de activiteiten van zorg- en bijstandsverlening zelfstandig mag verrichten onder verwijderd toezicht.
+...
 
 ## Afdeling II. Erkenning van beroepskwalificaties van onderdanen van lidstaten van de Europese Economische Ruimte
 
 ### ART. 7.
 
-In deze afdeling wordt verstaan onder:<br />1° Richtlijn: de Richtlijn 2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties;<br />2° lidstaat: een lidstaat van de Europese Unie, alsook IJsland, Liechtenstein, Noorwegen en Zwitserland vanaf het ogenblik dat de Richtlijn op die landen van toepassing is;<br />3° het beroep: het beroepshalve verrichten van activiteiten als vermeld in artikel 2;<br />4° conformiteitsattest: de administratieve verklaring waarin staat dat een persoon het beroep mag verrichten, in uitvoering van de Richtlijn.<br /><br />De definities, vermeld in artikel 3 van de Richtlijn, zijn mede van toepassing.
+...
 
 ### ART. 8.
 
-§ 1. De onderdanen van een lidstaat, die houder zijn van een opleidingstitel die of bekwaamheidsattest dat in een lidstaat op wettige wijze is uitgereikt, kunnen een conformiteitsattest aanvragen in de volgende gevallen:<br>
-1° als hun opleidingstitel of bekwaamheidsattest in een lidstaat verplicht wordt gesteld voor de uitoefening van het beroep op zijn grondgebied en de opleidingstitel of het bekwaamheidsattest blijk geeft van een beroepskwalificatieniveau als vermeld in artikel 11 van de Richtlijn;<br>
-2° als ze tijdens de voorafgaande tien jaar gedurende een jaar voltijds, of gedurende een daarmee in totaal overeenkomende periode op deeltijdse basis, het beroep hebben uitgeoefend in een lidstaat waar het beroep niet gereglementeerd is en als de opleidingstitel of het bekwaamheidsattest blijk geeft van een beroepskwalificatieniveau als vermeld in punt 1°, en aantoont dat de houder op de uitoefening van het beroep voorbereid is.<br>
-<br>
-De beroepsuitoefening gedurende een jaar, vermeld in het eerste lid, 2°, is niet vereist als de aanvrager met zijn opleidingstitel kan aantonen dat hij een gereglementeerde opleiding heeft afgerond.<br>
-<br>
-§ 2. De onderdanen van een lidstaat, die houder zijn van een opleidingstitel die in een staat die geen lidstaat is, op wettige wijze is uitgereikt, kunnen een conformiteitsattest aanvragen als ze aan de volgende voorwaarden voldoen:<br>
-1° hun opleidingstitel geeft blijk van een beroepskwalificatieniveau als vermeld in paragraaf 1, eerste lid, 1°;<br>
-2° ze hebben in het beroep een beroepservaring van minstens drie jaar op het grondgebied van een lidstaat die de opleidingstitel heeft erkend en die de beroepservaring bevestigt.<br>
-<br>
-§ 3. De aanvraag voor een conformiteitsattest wordt ingediend bij het intern verzelfstandigd agentschap Zorg en Gezondheid. Ze bevat minstens de volgende documenten:<br>
-1° het nationaliteitsbewijs van de aanvrager;<br>
-2° een kopie van de opleidingstitels of bekwaamheidsattesten, vermeld in de aanvraag;<br>
-3° een verklaring van een bevoegde autoriteit van de lidstaat waaruit blijkt dat de aanvrager op basis van de voorgelegde opleidingstitel of het voorgelegde bekwaamheidsattest in die lidstaat het beroep kan uitoefenen;<br>
-4° voor zover dat van toepassing is, een verklaring van een bevoegde autoriteit van de lidstaat, waaruit blijkt dat de opleidingstitel van de aanvrager, behaald in een ander land dan een lidstaat, door die lidstaat erkend is als toegang tot het desbetreffende gereglementeerde beroep en die bevestigt dat de betrokkene over de vereiste beroepservaring beschikt;<br>
-5° voor zover dat van toepassing is, documenten die relevante beroepservaring kunnen aantonen.<br>
-<br>
-De Vlaamse minister, bevoegd voor de bijstand aan personen, kan bepalen dat voor de aanvraag een formulier wordt gebruikt, waarvan hij het model vaststelt.
+...
 
 ### ART. 9.
 
-Binnen vijftien dagen na de ontvangst van de aanvraag brengt het intern verzelfstandigd agentschap Zorg en Gezondheid de aanvrager daarvan op de hoogte en bezorgt het agentschap de aanvraag aan een extern adviesbureau. Dat adviesbureau wordt aangewezen met toepassing van de regelgeving betreffende de overheidsopdrachten en sommige opdrachten voor aanneming van werken, leveringen en diensten. Met behoud van de toepassing van artikel 10, § 2, zorgt het adviesbureau voor een objectieve en kwaliteitsvolle advisering aan het agentschap over de aanvragen voor een conformiteitsattest en biedt het daarvoor de vereiste waarborgen.<br /><br />Binnen vijftien dagen na de ontvangst van de aanvraag gaat het adviesbureau na of de aanvraag volledig is en vraagt het zo nodig aanvullende informatie of documenten op bij de aanvrager of bij een bevoegde autoriteit of enige andere instelling van de lidstaat in kwestie. Als documenten niet in het Nederlands zijn opgesteld, kan het adviesbureau vragen ze te laten vertalen door een beëdigde vertaler, gevestigd in een lidstaat. Binnen twee maanden na de ontvangst van de aanvraag of, als de aanvraag onvolledig was, na de ontvangst van alle ontbrekende informatie of documenten, bezorgt het adviesbureau over de aanvraag een gemotiveerd advies aan het agentschap.<br /><br />Binnen vijftien dagen na ontvangst van het advies, vermeld in het tweede lid, wordt de beslissing van de administrateur-generaal van het agentschap aan de aanvrager meegedeeld. De administrateur-generaal kan slechts één van de volgende beslissingen nemen:<br />1° een conformiteitsattest wordt afgeleverd;<br />2° een conformiteitsattest wordt niet afgeleverd omdat de aanvrager nog aangeduide tekorten moet wegwerken via compenserende maatregelen als vermeld in artikel 10;<br />3° een conformiteitsattest wordt niet afgeleverd omdat de toepassingsvoorwaarden van de Richtlijn niet vervuld zijn.
+...
 
 ### ART. 10.
 
-§ 1. De tekorten, vermeld in artikel 9, derde lid, 2°, kunnen slechts een van de volgende zijn:<br>
-1° wezenlijk verschillende vakken tijdens de opleiding;<br>
-2° wezenlijke verschillen in de beroepsinhoud die vereisen dat er een opleiding wordt gevolgd die betrekking heeft op vakken die wezenlijk verschillen van de vakken die vallen onder het bekwaamheidsattest of de opleidingstitel die is overgelegd.<br>
-<br>
-De tekorten kunnen, volgens de modaliteiten van artikel 14 van de Richtlijn, gecompenseerd worden op een van de volgende wijzen:<br>
-1° succesvol een proeve van bekwaamheid afleggen;<br>
-2° succesvol een aanpassingsstage van ten hoogste drie jaar doorlopen.<br>
-<br>
-Als de aanvrager de aangeduide tekorten via een compenserende maatregel succesvol weggewerkt heeft, levert de administrateur-generaal van het intern verzelfstandigd agentschap Zorg en Gezondheid hem het conformiteitsattest af.<br>
-<br>
-§ 2. Het adviesbureau, vermeld in artikel 9, eerste lid, zorgt voor de organisatie van de proeve van bekwaamheid, vermeld in paragraaf 1, tweede lid, 1°, en deelt in een gemotiveerd verslag aan het intern verzelfstandigd agentschap Zorg en Gezondheid mee of ze al dan niet succesvol werd afgelegd.<br>
-<br>
-Dat adviesbureau zorgt voor de organisatie en de opvolging van de aanpassingsstage, vermeld in paragraaf 1, tweede lid, 2°, en deelt na het einde van de stageperiode in een gemotiveerd verslag aan het agentschap mee of de stage al dan niet succesvol werd doorlopen.
+...
 
 ### ART. 11.
 
-Het conformiteitsattest vermeldt de naam, de voornaam, de geboorteplaats en -datum van de aanvrager en de redenen waarom de aanvrager voldoet aan de voorwaarden voor de toepassing van de Richtlijn. Het wordt bekleed met het zegel van de Vlaamse Gemeenschap.
+...
 
 ### ART. 12.
 
-De onderdanen van een lidstaat die hun beroepskwalificaties hebben verworven in een lidstaat, kunnen het beroep tijdelijk en incidenteel uitoefenen als ze op wettige wijze gevestigd zijn in een lidstaat om er hetzelfde beroep uit te oefenen. Alleen als het beroep of het onderwijs en de opleiding die tot het beroep toegang verleent, in die lidstaat niet gereglementeerd is, moeten ze ook in een of meer lidstaten tijdens de tien voorafgaande jaren gedurende ten minste een jaar het beroep hebben uitgeoefend.<br>
-<br>
-Vooraleer ze een eerste maal het beroep uitoefenen in het Nederlandse taalgebied, bezorgen ze het intern verzelfstandigd agentschap Zorg en Gezondheid een schriftelijke verklaring met daarin gegevens betreffende de verzekeringsdekking of soortgelijke individuele of collectieve vormen van bescherming inzake beroepsaansprakelijkheid. Die verklaring gaat vergezeld van de volgende documenten:<br>
-1° het bewijs van nationaliteit van de betrokken persoon;<br>
-2° een attest dat de betrokken persoon rechtmatig in een lidstaat gevestigd is om er het beroep uit te oefenen en dat hem op het moment van afgifte van het attest geen beroepsuitoefeningsverbod is opgelegd, ook al is het maar tijdelijk;<br>
-3° het bewijs van beroepskwalificaties;<br>
-4° als dat van toepassing is, een bewijs dat de betrokken persoon het beroep in de tien voorafgaande jaren gedurende ten minste een jaar heeft uitgeoefend op het grondgebied van een of meer lidstaten.<br>
-<br>
-De aanvrager die al een schriftelijke verklaring heeft afgelegd bij de bevoegde autoriteit van een andere deelstaat van België moet de schriftelijke verklaring, vermeld in het tweede lid, niet bezorgen.<br>
-Wanneer de reglementering van de deelstaat waar de schriftelijke verklaring werd afgelegd verschilt van de reglementering die van toepassing is in het Nederlandse taalgebied, moet de aanvrager de documenten, vermeld in het tweede lid, punt 1° tot en met 4°, bezorgen, voor zover die documenten nog niet werden bezorgd bij de schriftelijke verklaring die afgelegd werd.<br>
-<br>
-Binnen een maand na elke wezenlijke verandering in de situatie, gestaafd door een document als vermeld in het tweede lid, dient aan het agentschap een aangepast document te worden bezorgd.<br>
-<br>
-Het agentschap kan de bevoegde autoriteiten van de lidstaat waar de betrokken persoon zich gevestigd heeft om het beroep uit te oefenen, verzoeken om alle informatie over de rechtmatigheid van de vestiging en het goede gedrag van de betrokken persoon, alsook het ontbreken van eventuele tuchtrechtelijke of strafrechtelijke maatregelen in verband met de beroepsuitoefening.<br>
-<br>
-Het beroep wordt verricht onder de beroepstitel van de lidstaat waar de persoon zich heeft gevestigd om het beroep uit te oefenen. Die titel wordt vermeld in een officiële taal van die lidstaat. Als de beroepstitel in die lidstaat niet bestaat, wordt de opleidingstitel vermeld in een officiële taal van die lidstaat.
+...
 
 ## HOOFDSTUK V. Toezicht [en sancties (ing. BVR 18 november 2011, art. 5, I: 26 december 2011)]
 
 ### ART. 13.
 
-Het intern verzelfstandigd agentschap Zorg en Gezondheid en Zorginspectie   van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, §   2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006   betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de   inwerkingtreding van regelgeving tot oprichting van agentschappen in het   beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van   regelgeving met betrekking tot dat beleidsdomein, oefenen ter plaatse of op   stukken toezicht uit op de naleving van de bepalingen van hoofdstuk III van het   decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening, voor wat de   toepassing ervan op de personen, vermeld in artikel 1, 1° en 2°, betreft, en van   dit besluit.
+...
 
 ### ART. 13/1.
 
-De administrateur-generaal van het intern verzelfstandigd agentschap Zorg en Gezondheid kan overeenkomstig of ter uitvoering van artikel 9 van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening een administratieve geldboete opleggen aan : <br />1° personen die beroepshalve activiteiten van zorg- en bijstandsverlening verrichten in het natuurlijke thuismilieu van de gebruiker zonder te voldoen aan een van de voorwaarden, vermeld in artikel 6;<br />2° personen, met uitzondering van gebruikers, die een persoon als vermeld in punt 1°, belasten met het verrichten van activiteiten van zorg- en bijstandsverlening in het natuurlijke thuismilieu van de gebruiker;<br />3° personen die beroepshalve activiteiten van zorg- en bijstandsverlening verrichten in het natuurlijke thuismilieu van de gebruiker zonder de bepalingen vermeld in artikel 6 van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening en in artikel 3, 4 en 4/1 van dit besluit, na te leven;<br />4° personen, vermeld in artikel 1, 2°, die niet werken bij een welzijnsvoorziening als vermeld in artikel 2, 3°, van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening, en die beroepshalve activiteiten van zorg- en bijstandsverlening verrichten in het natuurlijke thuismilieu van de gebruiker, zonder de registratieplicht, vermeld in artikel 5, na te leven.<br /><br />De beslissing van de administrateur-generaal waarin een administratieve geldboete wordt opgelegd, wordt aangetekend met kennisgeving van ontvangst aan de betrokkene bezorgd. De beslissing vermeldt het bedrag van de administratieve geldboete en de wijze waarop de administratieve geldboete moet worden betaald binnen een termijn van dertig dagen na de ontvangst van de beslissing.
+...
 
 ### ART. 13/2.
 
-Als de betrokkene de administratieve geldboete, vermeld in artikel 13/1, weigert te betalen, wordt de geldboete ingevorderd door de ambtenaren, vermeld in artikel 2, eerste lid, van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren.<br /><br />De ambtenaren, vermeld in het eerste lid, kunnen een dwangbevel geven en uitvoerbaar verklaren.
+...
 
 ## HOOFDSTUK VI. Wijzigingsbepalingen
 
 ### ART. 14.
 
-Aan artikel 1 van bijlage I bij het besluit van de Vlaamse Regering van 18 december 1998 houdende de erkenning en de subsidiëring van verenigingen en welzijnsvoorzieningen in de thuiszorg, gewijzigd bij de besluiten van de Vlaamse Regering van 17 januari 2003, 17 maart 2006, 8 september 2006 en 19 juli 2007, wordt een tweede lid toegevoegd, dat luidt als volgt:<br /><br />« De huishoudelijke hulp, vermeld in het eerste lid, 1°, bestaat uit de volgende activiteiten:<br />1° de organisatie van het huishouden;<br />2° de zorg voor de maaltijden: maaltijden bereiden (inclusief dieetvoorschriften en babyvoeding), inmaken en bewaren van voedingswaren voor gezinsverbruik, opdienen, afruimen en afwassen;<br />3° de zorg voor kledij en linnen: wassen, strijken en verstellen;<br />4° de zorg voor woon- en leefklimaat: leefruimten hygiënisch onderhouden, bedden opmaken en verversen, zorgen voor planten in de woning en zorgen voor huisdieren;<br />5° het doen van boodschappen;<br />6° de zorg voor veiligheid en hygiëne in de woning. »
+...
 
 ### ART. 15.
 
-In artikel 3, B, van bijlage I bij het besluit van de Vlaamse Regering van 18 december 1998 houdende de erkenning en de subsidiëring van verenigingen en welzijnsvoorzieningen in de thuiszorg, gewijzigd bij de besluiten van de Vlaamse Regering van 17 maart 2006, 10 oktober 2008 en 12 december 2008, wordt punt 1° vervangen door wat volgt:<br /><br />« 1° een dienst stelt doorlopend minstens drie voltijdse equivalenten verzorgend personeel tewerk. De verzorgende personeelsleden van de dienst verrichten de activiteiten, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 27 maart 2009 tot uitvoering van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening in de thuiszorg, met inachtneming van artikel 3 en 4 van dat besluit; ».
+...
 
 ## HOOFDSTUK VII. Slotbepalingen
 
 ### ART. 16.
 
-De bijlage bij het besluit van de Vlaamse Regering van 24 juli 1997 tot regeling van de erkenning en de subsidiëring van de diensten voor gezins- en bejaardenhulp, gewijzigd bij de besluiten van de Vlaamse Regering van 18 december 1998, 31 maart 2006 en 12 januari 2007, wordt opgeheven.
+...
 
 ### ART. 17.
 
-Voor de personen, vermeld in artikel 1, 1°, en voor de personen, vermeld in artikel 1, 2°, die werken bij een welzijnsvoorziening als vermeld in artikel 2, 3°, van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening, treden artikelen 7, 8, 10 en 11 van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening in werking op de datum van de inwerkingtreding van dit besluit.<br /><br />Voor de personen, vermeld in artikel 1, 2°, die niet werken bij een welzijnsvoorziening als vermeld in artikel 2, 3°, van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening, treedt het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening, met uitzondering van artikel 9, in werking op de datum van de inwerkingtreding van dit besluit.
+...
 
 ### ART. 18.
 
-De personen, vermeld in artikel 1, 2°, die op het ogenblik van de inwerkingtreding van dit besluit al beroepshalve activiteiten van zorg- en bijstandsverlening verrichten, moeten uiterlijk op 30 juni 2010 voldoen aan de kwalificatievereisten, vermeld in artikel 6.<br /><br />De personen, vermeld in artikel 1, 2°, die niet werken bij een welzijnsvoorziening als vermeld in artikel 2, 3°, van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening, en die op het ogenblik van de inwerkingtreding van dit besluit al beroepshalve activiteiten van zorg- en bijstandsverlening verrichten, moeten uiterlijk op 30 juni 2010 voldoen aan de registratieverplichting, vermeld in artikel 5.
+...
 
 ### ART. 19.
 
-Dit besluit wordt aangehaald als: besluit betreffende de zorg- en bijstandsverlening in de thuiszorg.
+...
 
 ### ART. 20.
 
-Artikel 6, eerste lid, 2°, en artikelen 8 tot en met 11 treden in werking op 1 januari 2010.
+...
 
 ### ART. 21.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
+...
