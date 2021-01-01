@@ -83,12 +83,10 @@ De aanvraag wordt behandeld op basis van een dossier met ten minste de volgende 
 1° het aanvraagformulier;<br>
 2° een nationaliteitsbewijs;<br>
 3° een kopie van de diploma's of getuigschriften, vermeld in het aanvraagformulier, met het bijbehorende diploma- of getuigschriftsupplement;<br>
-4° een verklaring van een bevoegde autoriteit van de lidstaat waar het diploma of getuigschrift is uitgereikt, waaruit blijkt dat de kandidaat op basis van het voorgelegde diploma of getuigschrift in die lidstaat het ambt waarnaar hij gesolliciteerd heeft, met de eventueel daaraan verbonden vakken, specialiteiten, leerjaren, opleidingen of modules kan uitoefenen;<br>
+4° in voorkomend geval kan de bevoegde dienst de aanvrager verzoeken informatie te verstrekken over de opleiding. Als de aanvrager die informatie niet kan verstrekken, richt de bevoegde dienst zich tot het contactpunt, de bevoegde autoriteit, vermeld in artikel 3, 4°, van het decreet, of iedere andere relevante instelling van de lidstaat waar het diploma of getuigschrift is uitgereikt;<br>
 5° ...;<br>
 6° een verklaring van een bevoegde autoriteit van de lidstaat, waaruit blijkt dat het diploma of getuigschrift van de aanvrager, behaald in een derde land, erkend is als toegang tot het desbetreffende gereglementeerde beroep, en dat bevestigt dat de betrokkene over de vereiste beroepservaring beschikt;<br>
 7° documenten die relevante beroepservaring kunnen aantonen.<br>
-<br>
-Als de aanvrager de documenten, vermeld in het eerste lid, 4° en 5°, niet kan verstrekken, vraagt de bevoegde dienst ze op bij de bevoegde autoriteit.<br>
 <br>
 De bevoegde dienst bevestigt de ontvangst binnen vijftien kalenderdagen aan de aanvrager en deelt in voorkomend geval mee welke documenten ontbreken.
 
