@@ -2,16 +2,16 @@
   "codex_id": 1024562,
   "title": "Ministerieel besluit van 2014-04-06 betreffende de erkenning en de subsidiëring van spel- en ontmoetingsinitiatieven",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024562/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "ad3e2b5c5714defcdf36844bbbeed93766465ed21167984ff0a4fb7a2d506bf7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024562/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "8e1c05dac240be4f44ba155accdf657ed9dc36bd07571d6555d45946b29b8691",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024562&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2021-01-01",
   "made": "2014-04-06",
   "gazette": "2014-09-16",
   "numac": 2014035734,
   "document_start": "2014-04-01",
   "document_end": null,
-  "in_force": "2020-01-01",
+  "in_force": "2021-01-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
