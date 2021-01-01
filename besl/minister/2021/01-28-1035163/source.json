@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035163,
+  "title": "Ministerieel besluit van 2021-01-28 tot erkenning van de coronaviruspandemie COVID-19 als een crisis met een ernstige sociale en economische impact met betrekking tot de premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035163/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "c4ecf1e4c0a235c919d61ac722d347c411131226ebfff27b1a044db5b9e26dd6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035163&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2021-01-28",
+  "gazette": "2021-02-03",
+  "numac": 2021040364,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
