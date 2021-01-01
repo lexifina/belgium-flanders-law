@@ -81,6 +81,18 @@ Het decreet van 3 maart 2004 houdende subsidiëring van hostels, jeugdverblijfce
 
 De lopende subsidieovereenkomsten met de ondersteuningsstructuren en ADJ blijven gelden tot en met 31 december 2013.
 
+### ART 15/1.
+
+§ 1. Subsidieovereenkomsten met de ADJ, de ondersteuningsstructuren, en de toegezegde werkings- en personeelssubsidies voor de hostels en de jeugdverblijfcentra die betrekking hebben op de periode van 1 januari tot en met 31 december 2021, gelden voor vijf jaar en lopen tot en met 31 december 2022.<br>
+<br>
+Binnen de perken van de begrotingskredieten geldt voor 2022 hetzelfde jaarlijkse subsidiebedrag als vermeld in de voormelde subsidieovereenkomsten voor de jaren 2018 tot en met 2021.<br>
+<br>
+Het besluit van de Vlaamse Regering van 8 maart 2013 betreffende de subsidiëring van hostels, jeugdverblijfcentra, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme is van toepassing op de jaarlijkse verantwoording van de voormelde subsidieovereenkomsten voor het kalenderjaar 2022.<br>
+<br>
+§ 2. ADJ en de ondersteuningsstructuren dienen voor 1 april 2021 een jaarplan 2022 in als addendum bij de bestaande vierjaarlijkse beleidsnota 2018-2021. Het jaarplan 2022 bevat een actieprogramma dat aantoont hoe de doelstellingen uit de beleidsnota 2018-2021 via concrete acties verder uitgewerkt zullen worden in 2022.<br>
+<br>
+De bevoegde dienst die de Vlaamse Regering aanwijst, kan bijkomende inlichtingen vragen over het ingediende jaarplan 2022 voor 1 mei 2021. De vereniging beschikt over een termijn van veertien dagen na ontvangst van de vraag om die extra inlichtingen te bezorgen aan de bevoegde dienst. De bevoegde dienst deelt de vereniging haar beslissing mee uiterlijk op 1 juni 2021.
+
 ### ART. 16.
 
 Dit decreet treedt in werking op 1 januari 2013.
