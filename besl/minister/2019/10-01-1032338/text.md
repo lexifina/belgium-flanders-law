@@ -20,19 +20,19 @@ Besluit :
 
 ### ART 1.
 
-§ 1. Ten einde de vergoedingen, vermeld in artikel 5/1.7.1, § 2, derde lid van het Energiebesluit van 19 november 2010, voor de kosten van het jaar N te kunnen vaststellen, bezorgt elke warmte- en/of koudeleverancier, en elke warmte- en/of koudenetbeheerder jaarlijks tegen uiterlijk 31 maart van het jaar N aan het Vlaams Energieagentschap:<br>
+§ 1. Ten einde de vergoedingen, vermeld in artikel 5/1.7.1, § 2, derde lid van het Energiebesluit van 19 november 2010, voor de kosten van het jaar N te kunnen vaststellen, bezorgt elke warmte- en/of koudeleverancier, en elke warmte- en/of koudenetbeheerder jaarlijks tegen uiterlijk 31 maart van het jaar N aan het VEKA:<br>
 1° het aantal huishoudelijke afnamepunten van thermische energie die op 31 december van het jaar N-1 aangesloten zijn op de warmte- en koudenetten die op die datum door de warmte- en/of koudenetbeheerder worden beheerd, opgesplitst per warmte- en koudenet;<br>
 2° het aantal huishoudelijke afnemers van thermische energie die op 31 december van het jaar N-1 aangesloten zijn op de warmte- en koudenetten en die op die datum door de warmte- en/of koudeleverancier worden beleverd, opgesplitst per warmte- en koudenet.<br>
 <br>
 De gegevens, vermeld in het eerste lid, kunnen worden aangeleverd middels de rapportage, vermeld in artikel 10/1.1/1 van het Energiebesluit van 19 november 2010.<br>
 In afwijking van het eerste lid kunnen voor de vergoeding van de in het jaar 2019 gemaakte kosten de gegevens, vermeld in het eerste lid, uiterlijk nog tegen 31 oktober 2019 worden aangeleverd.<br>
 <br>
-§ 2. Het recht op de vergoeding voor de gemaakte kosten tot uitvoering van de sociale-openbaredienstverplichtingen voor thermische energie in het jaar N vervalt voor een warmte- en/of koudeleverancier of een warmte- en/of koudenetbeheerder echter indien die warmte- en/of koudeleverancier of die warmte- en/of koudenetbeheerder de gegevens, vermeld in § 1, eerste lid, tegen de in respectievelijk § 1, eerste lid of derde lid vermelde data niet aan het Vlaams Energieagentschap heeft bezorgd.
+§ 2. Het recht op de vergoeding voor de gemaakte kosten tot uitvoering van de sociale-openbaredienstverplichtingen voor thermische energie in het jaar N vervalt voor een warmte- en/of koudeleverancier of een warmte- en/of koudenetbeheerder echter indien die warmte- en/of koudeleverancier of die warmte- en/of koudenetbeheerder de gegevens, vermeld in § 1, eerste lid, tegen de in respectievelijk § 1, eerste lid of derde lid vermelde data niet aan het VEKA heeft bezorgd.
 
 ### ART 2.
 
 De uitbetaling van de bedragen, berekend volgens artikel 5/1.7.1, § 2, derde lid van het Energiebesluit van 19 november 2010 en betrekking hebbende op de gemaakte kosten in het jaar N, verloopt als volgt:<br>
-1° 100% na indiening van een schuldvordering tegen uiterlijk 31 oktober van het jaar N bij het Vlaams Energieagentschap, hetzij door een warmte- en/of koudeleverancier, hetzij door een warmte- en/of koudenetbeheerder;<br>
+1° 100% na indiening van een schuldvordering tegen uiterlijk 31 oktober van het jaar N bij het VEKA, hetzij door een warmte- en/of koudeleverancier, hetzij door een warmte- en/of koudenetbeheerder;<br>
 2° elke begunstigde vermeldt in zijn schuldvordering aangaande het voorschot duidelijk het warmte- of koudenet, het bedrag evenals of de schuldvordering uitgaat hetzij van een warmte- en/of koudeleverancier, hetzij van een warmte- en/of koudenetbeheerder.<br>
 <br>
 In afwijking van het eerste lid kan voor de vergoeding van de in het jaar 2019 gemaakte kosten de schuldvordering, vermeld in het eerste lid, uiterlijk nog tegen 10 december 2019 worden aangeleverd.<br>
@@ -43,18 +43,18 @@ In afwijking van het derde lid vervalt het recht op de vergoeding van de in het 
 
 ### ART 3.
 
-De afrekening, als bedoeld in artikel 5/1.7.1, § 4, van het Energiebesluit van 19 november 2010, na ontvangst en goedkeuring door het Vlaams Energieagentschap van het overzicht van de in het jaar N daadwerkelijk gemaakte kosten voor de uitvoering van de openbaredienstverplichtingen, is als volgt:<br>
-1° indien een warmte- en/of koudeleverancier of een warmte- en/of koudenetbeheerder conform artikel 5/1.7.1, § 4 van het Energiebesluit van 19 november 2010 tegen uiterlijk 1 maart van het jaar N+1 aan het Vlaams Energieagentschap geen overzicht van de in het jaar N daadwerkelijk gemaakte kosten voor de uitvoering van de openbaredienstverplichtingen heeft bezorgd, bedraagt de finale vergoeding 0 euro voor de kosten van het jaar N en wordt het hem reeds uitbetaalde bedrag volledig teruggevorderd door het Vlaams Energieagentschap;<br>
-2° indien een warmte- en/of koudeleverancier of een warmte- en/of koudenetbeheerder conform artikel 5/1.7.1, § 4 van het Energiebesluit van 19 november 2010 tegen uiterlijk 1 maart van het jaar N+1 aan het Vlaams Energieagentschap het overzicht van de in het jaar N daadwerkelijk gemaakte kosten voor de uitvoering van de openbaredienstverplichtingen heeft bezorgd, is de finale vergoeding voor de kosten van het jaar N gelijk aan de daadwerkelijk gemaakte en gerapporteerde kosten evenwel af te toppen tot de maximale vergoeding berekend volgens het artikel 5/1.7.1, § 2 van het Energiebesluit van 19 november 2010;<br>
-3° indien een warmte- en/of koudeleverancier of een warmte- en/of koudenetbeheerder conform artikel 5/1.7.1, § 4 van het Energiebesluit van 19 november 2010 tegen uiterlijk 1 maart van het jaar N+1 aan het Vlaams Energieagentschap het overzicht van de in het jaar N daadwerkelijk gemaakte kosten voor de uitvoering van de openbaredienstverplichtingen heeft bezorgd en indien de in het jaar N daadwerkelijk gemaakte en gerapporteerde kosten lager liggen dan het in artikel 2 vermelde bedrag, dan wordt het verschil teruggevorderd door het Vlaams Energieagentschap.
+De afrekening, als bedoeld in artikel 5/1.7.1, § 4, van het Energiebesluit van 19 november 2010, na ontvangst en goedkeuring door het VEKA van het overzicht van de in het jaar N daadwerkelijk gemaakte kosten voor de uitvoering van de openbaredienstverplichtingen, is als volgt:<br>
+1° indien een warmte- en/of koudeleverancier of een warmte- en/of koudenetbeheerder conform artikel 5/1.7.1, § 4 van het Energiebesluit van 19 november 2010 tegen uiterlijk 1 maart van het jaar N+1 aan het VEKA geen overzicht van de in het jaar N daadwerkelijk gemaakte kosten voor de uitvoering van de openbaredienstverplichtingen heeft bezorgd, bedraagt de finale vergoeding 0 euro voor de kosten van het jaar N en wordt het hem reeds uitbetaalde bedrag volledig teruggevorderd door het VEKA;<br>
+2° indien een warmte- en/of koudeleverancier of een warmte- en/of koudenetbeheerder conform artikel 5/1.7.1, § 4 van het Energiebesluit van 19 november 2010 tegen uiterlijk 1 maart van het jaar N+1 aan het VEKA het overzicht van de in het jaar N daadwerkelijk gemaakte kosten voor de uitvoering van de openbaredienstverplichtingen heeft bezorgd, is de finale vergoeding voor de kosten van het jaar N gelijk aan de daadwerkelijk gemaakte en gerapporteerde kosten evenwel af te toppen tot de maximale vergoeding berekend volgens het artikel 5/1.7.1, § 2 van het Energiebesluit van 19 november 2010;<br>
+3° indien een warmte- en/of koudeleverancier of een warmte- en/of koudenetbeheerder conform artikel 5/1.7.1, § 4 van het Energiebesluit van 19 november 2010 tegen uiterlijk 1 maart van het jaar N+1 aan het VEKA het overzicht van de in het jaar N daadwerkelijk gemaakte kosten voor de uitvoering van de openbaredienstverplichtingen heeft bezorgd en indien de in het jaar N daadwerkelijk gemaakte en gerapporteerde kosten lager liggen dan het in artikel 2 vermelde bedrag, dan wordt het verschil teruggevorderd door het VEKA.
 
 ### ART 4.
 
-Voor de uitvoering van controles kan het Vlaams Energieagentschap bij de warmte- en/of koudeleveranciers en de warmte- en/of koudenetbeheerders op elk moment alle gegevens opvragen die het nodig acht om de kosten voor de uitvoering van de openbaredienstverplichtingen voor thermische energie, opgelegd door of krachtens de artikelen 4/1.1.4, 4/1.1.5, 4/1.1.6, eerste lid, 2° en 3°, en 6.2.2 van het Energiedecreet van 8 mei 2009, voor het jaar N, te controleren.
+Voor de uitvoering van controles kan het VEKA bij de warmte- en/of koudeleveranciers en de warmte- en/of koudenetbeheerders op elk moment alle gegevens opvragen die het nodig acht om de kosten voor de uitvoering van de openbaredienstverplichtingen voor thermische energie, opgelegd door of krachtens de artikelen 4/1.1.4, 4/1.1.5, 4/1.1.6, eerste lid, 2° en 3°, en 6.2.2 van het Energiedecreet van 8 mei 2009, voor het jaar N, te controleren.
 
 ### ART 5.
 
-Het Vlaams Energieagentschap kan nadere regels bepalen inzake de te volgen uitbetalingsprocedure en is belast met de uitbetaling van de vergoedingen aan de warmte- en/of koudeleveranciers en de warmte- en/of koudenetbeheerders.
+Het VEKA kan nadere regels bepalen inzake de te volgen uitbetalingsprocedure en is belast met de uitbetaling van de vergoedingen aan de warmte- en/of koudeleveranciers en de warmte- en/of koudenetbeheerders.
 
 ### ART 6.
 
