@@ -25,123 +25,90 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <BR>1° administrateur-generaal : het   hoofd van het agentschap;<BR>2° agentschap : het intern verzelfstandigd   agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering   van 7 mei 2004;<BR>3° initiatiefnemer : de natuurlijke persoon of rechtspersoon   die een woonzorgvoorziening uitbaat of zal uitbaten;<BR>4° inplantingsplaats :   het onroerend goed waarop de initiatiefnemer een woonzorgvoorziening wil bouwen,   verbouwen, uitbreiden, inrichten of in gebruik nemen;<BR>5° opnamemogelijkheid :   een woongelegenheid in een woonzorgcentrum of een centrum voor kortverblijf, een   verblijfseenheid in een dagverzorgingscentrum of een centrum voor   herstelverblijf;<BR>6° voorafgaande vergunning : een vergunning als vermeld in   artikel 59 van het woonzorgdecreet van 13 maart 2009;<BR>7° woonzorgvoorziening   : een van de volgende voorzieningen als vermeld in het woonzorgdecreet van 13   maart 2009 : <BR>a) een dienst maatschappelijk werk van het ziekenfonds, een   lokaal dienstencentrum, een regionaal dienstencentrum, een   dagverzorgingscentrum, een centrum voor herstelverblijf, een centrum voor   kortverblijf of een woonzorgcentrum;<BR>b) ...<BR><BR>
+...
 
 ## HOOFDSTUK II Procedure voor het verkrijgen van de voorafgaande vergunning
 
 ### ART. 2.
 
-De initiatiefnemer die een woonzorgvoorziening wil bouwen, uitbreiden of verbouwen, die een bestaand gebouw of een deel ervan als zodanig wil inrichten of in gebruik nemen of die de capaciteit van een woonzorgvoorziening wil verhogen, bezorgt de aanvraag voor een voorafgaande vergunning voor de woonzorgvoorziening aangetekend aan het agentschap. De aanvraag wordt ook digitaal aan het agentschap bezorgd zodra het agentschap daarvoor de concrete voorwaarden en de ingangsdatum ervan bepaald heeft. Deze ingangsdatum zal ten vroegste 1 januari 2013 zijn.. <br /><br />
+...
 
 ### ART. 3.
 
-Om ontvankelijk te zijn moet de aanvraag voor een voorafgaande vergunning de volgende stukken en inlichtingen bevatten :<br>
-1° de volledige identiteit van de initiatiefnemer;<br>
-2° als de initiatiefnemer een rechtspersoon is, met uitzondering van een openbaar bestuur : de statuten van de initiatiefnemer en de eventuele wijzigingen ervan, alsook de rechtsgeldige beslissingen om de woonzorgvoorziening uit te baten of de capaciteit ervan te wijzigen en om de voorafgaande vergunning aan te vragen;<br>
-3° als de initiatiefnemer een openbaar bestuur is : de rechtsgeldige beslissingen om de woonzorgvoorziening uit te baten of de capaciteit ervan te wijzigen en om de voorafgaande vergunning aan te vragen;<br>
-4° een plan van de gemeente met aanduiding van de inplantingsplaats. Met betrekking tot de inplantingsplaats moet een van de volgende documenten bij de aanvraag gevoegd worden : een eigendomsbewijs, een bewijs van een zakelijk of een genotsrecht, een bewijs van aankoopoptie, of, als de initiatiefnemer een openbaar bestuur is, een voorlopig onteigeningsbesluit;<br>
-5° voor zover dat van toepassing is, het aantal opnamemogelijkheden of het gewijzigde aantal opnamemogelijkheden van de woonzorgvoorziening;<br>
-6° als het om een bestaand gebouw gaat dat als woonzorgvoorziening wordt ingericht of in gebruik genomen : een plan van de verschillende bouwlagen en hun afmetingen;<br>
-7° een toelichting, waarin onder meer de volgende elementen aan bod komen met betrekking tot de woonzorgvoorziening waarvoor de voorafgaande vergunning wordt aangevraagd :<br>
-a) het huidige of toekomstige profiel van de voorziening;<br>
-b) de relatie met andere woonzorgvoorzieningen in het beoogde werkingsgebied;<br>
-c) voor zover dat van toepassing is, de visie op wonen, leven en verzorgen in de voorziening;<br>
-d) de verwachte rendabiliteit en prijszetting;<br>
-e) de professionele kwaliteitsgaranties van de initiatiefnemer;<br>
-8° het bewijs dat voldaan wordt aan de evaluatiecriteria van het programma dat, met toepassing van artikel 58 van het woonzorgdecreet van 13 maart 2009, per type van woonzorgvoorziening werd vastgesteld.<br>
-<br>
-Om ontvankelijk te zijn moet de aanvraag voor een voorafgaande vergunning gebeuren aan de hand van een formulier dat door het agentschap ter beschikking wordt gesteld.<br>
-&nbsp;
+...
 
 ### ART. 4.
 
-Het agentschap onderzoekt de ontvankelijkheid van de aanvraag voor het verkrijgen van de voorafgaande vergunning. De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de regels met betrekking tot de ontvankelijkheid van de aanvraag preciseren.<br /><br />Als de aanvraag niet ontvankelijk is, brengt het agentschap de initiatiefnemer daarvan op de hoogte binnen dertig kalenderdagen na de ontvangst van de aanvraag.<br /><br />
+...
 
 ### ART. 5.
 
-§ 1. Het agentschap onderzoekt het dossier binnen negentig kalenderdagen na de ontvangst van de ontvankelijke aanvraag en gaat na of de aanvraag past binnen het programma dat per type van woonzorgvoorziening werd vastgesteld met toepassing van artikel 58 van het woonzorgdecreet van 13 maart 2009. Het agentschap kan aan de initiatiefnemer aanvullende inlichtingen vragen.<br /><br />Als er verschillende ontvankelijke aanvragen ingediend worden die betrekking hebben op hetzelfde programma in dezelfde geografische omschrijving, worden de aanvragen behandeld in chronologische volgorde, gebaseerd op de datum van de aangetekende verzending van de aanvraag.<br /><br />Bij verschillende aanvragen voor dezelfde gemeente die zowel formeel als inhoudelijk als gelijkwaardig worden beoordeeld, en waarbij het totale aantal aangevraagde opnamemogelijkheden van alle aanvragen samen de beschikbare ruimte binnen het programmacijfer overschrijdt, krijgt elke initiatiefnemer een aantal opnamemogelijkheden toegekend dat proportioneel in verhouding staat tot het gevraagde aantal, verminderd tot het maximaal beschikbare aantal. Resterende opnamemogelijkheden die bij de verdeling niet toegekend zijn, komen opnieuw in de programmatie op 1 januari na het jaar dat de voorafgaande vergunningen in het Belgisch Staatsblad verschenen zijn. <br /><br />§ 2. De voorafgaande vergunning wordt door de administrateur-generaal verleend. Ze wordt aan de initiatiefnemer bezorgd.<br /><br />De voorafgaande vergunning vermeldt de identiteit van de initiatiefnemer, de aard van de werkzaamheden, het type woonzorgvoorziening, de inplantingplaats en, voor zover dat van toepassing is, het aantal opnamemogelijkheden van de voorziening.<br /><br />§ 3. Als de administrateur-generaal het voornemen heeft de voorafgaande vergunning te weigeren, wordt de initiatiefnemer van dat gemotiveerde voornemen aangetekend met kennisgeving van ontvangst, op de hoogte gebracht. Die kennisgeving vermeldt ook de mogelijkheid en de voorwaarden om een verzoek tot heroverweging van het voornemen in te dienen als vermeld in artikel 6.<br /><br />
+...
 
 ## HOOFDSTUK III Verzoek tot heroverweging
 
 ### ART. 6.
 
-§ 1. De initiatiefnemer of zijn wettelijke vertegenwoordiger beschikt over een termijn van dertig kalenderdagen om met een aangetekende brief een gemotiveerd verzoekschrift aan het agentschap te richten, waarin hij vraagt het voornemen tot weigering van de voorafgaande vergunning of het voornemen tot weigering van de verlenging van de voorafgaande vergunning, vermeld in artikel 7, § 5, of artikel 11, § 2, vierde lid, opnieuw in overweging te nemen. In het verzoekschrift kan hij verzoeken om gehoord te worden.<br /><br />De termijn gaat in de dag na de ontvangst van het voornemen. Na die termijn wordt er onweerlegbaar van uitgegaan dat de initiatiefnemer het voornemen aanvaardt en wordt het voornemen van rechtswege geacht de definitieve beslissing te zijn.<br /><br />§ 2. Ingeval binnen de termijn, vermeld in paragraaf 1, een verzoek tot heroverweging aan het agentschap werd gericht, wordt het verzoek behandeld conform de regels die zijn vastgesteld bij of krachtens hoofdstuk III van het decreet van 7 december 2007 houdende oprichting van de Strategische Adviesraad voor het Vlaamse <br /><br />Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor voorzieningen van Welzijn, Volksgezondheid en Gezin. <br /><br />
+...
 
 ## HOOFDSTUK IV Verval van de voorafgaande vergunning
 
 ### ART. 7.
 
-§ 1. De voorafgaande vergunning vervalt van rechtswege in de onderstaande gevallen :<br>
-1° als bij de aanvraag voor een voorafgaande vergunning een&nbsp;voorlopig onteigeningsbesluit of een bewijs van aankoopoptie van de inplantingsplaats is gevoegd en, binnen een jaar na de datum van de voorafgaande vergunning de initiatiefnemer het eigendomsbewijs voor dat onroerend goed niet aan het agentschap heeft bezorgd;<br>
-2° als binnen drie jaar na de datum van de voorafgaande vergunning de initiatiefnemer aan het agentschap niet het bewijs heeft geleverd dat een omgevingsvergunning voor stedenbouwkundige handelingen werd verkregen of aangevraagd om het initiatief op de inplantingsplaats te verwezenlijken;<br>
-3° als binnen vijf jaar na de datum van de voorafgaande vergunning of binnen de termijn, bepaald met toepassing van paragraaf 3, de initiatiefnemer het initiatief niet heeft gerealiseerd. Het initiatief wordt beschouwd als gerealiseerd als ten minste een winddichte infrastructuur werd gebouwd.<br>
-<br>
-§ 2. Als de initiatiefnemer binnen vijf jaar na de datum van de voorafgaande vergunning of binnen de termijn die bepaald is met toepassing van paragraaf 3, het initiatief maar gedeeltelijk heeft gerealiseerd, vervalt de voorafgaande vergunning van rechtswege voor de niet gerealiseerde opnamemogelijkheden.<br>
-<br>
-§ 3. De administrateur-generaal kan de termijn van vijf jaar, vermeld in paragraaf 1, 3°, met maximaal drie jaar verlengen. De initiatiefnemer richt daartoe voor het verstrijken van die termijn aangetekend aan het agentschap, een gemotiveerd verzoek waarin hij naargelang van het geval aantoont dat geen van de opnamemogelijkheden of niet alle opnamemogelijkheden tijdig kunnen worden gerealiseerd.<br>
-<br>
-§ 4. De administrateur-generaal verlengt de voorafgaande vergunning. De initiatiefnemer wordt van die verlenging op de hoogte gebracht.<br>
-<br>
-§ 5. Als de administrateur-generaal het voornemen heeft de verlenging van de voorafgaande vergunning te weigeren, wordt de initiatiefnemer van dat gemotiveerde voornemen aangetekend met kennisgeving van ontvangst, op de hoogte gebracht. Die kennisgeving vermeldt ook de mogelijkheid en de voorwaarden om een verzoek tot heroverweging van het voornemen in te dienen als vermeld in artikel 6.<br>
-<br>
-§ 6. Het agentschap brengt de initiatiefnemer op de hoogte van het verval of het gedeeltelijke verval van de voorafgaande vergunning.<br>
-<br>
-§ 7. De voorafgaande vergunning vervalt geheel of gedeeltelijk als de initiatiefnemer vrijwillig geheel of gedeeltelijk afstand doet van de voorafgaande vergunning die aan hem verleend is. De opnamemogelijkheden die daarin opgenomen zijn, komen opnieuw in het programma op 1 januari na het jaar dat de beslissing over de gehele of gedeeltelijke opheffing van de verleende voorafgaande vergunning in het Belgisch Staatsblad verschenen is, tenzij de voorafgaande vergunning eerder van rechtswege vervalt. In dat geval komen de opnamemogelijkheden opnieuw in de programmatie op de datum dat de voorafgaande vergunning van rechtswege vervalt.
+...
 
 ## HOOFDSTUK V Algemene bepalingen
 
 ### ART. 8.
 
-Tenzij met uitdrukkelijke instemming van de administrateur-generaal is het voor de initiatiefnemer, op straffe van verval van de voorafgaande vergunning, verboden om af te wijken van de essentiële elementen van het vergunde initiatief, vermeld in artikel 5, § 2, tweede lid.<br /><br />De administrateur-generaal kan zijn instemming pas verlenen als de initiatiefnemer bij het agentschap een gemotiveerd verzoek heeft ingediend, vergezeld van de relevante stukken en inlichtingen, vermeld in artikel 3. In voorkomend geval wordt de voorafgaande vergunning aangepast.<br /><br />
+...
 
 ### ART. 9.
 
-Als de voorafgaande vergunning vervallen is, kan binnen twee jaar na de vervaldatum geen nieuwe voorafgaande vergunning worden afgeleverd voor dezelfde inplantingsplaats als die waarop de vervallen voorafgaande vergunning betrekking had.<br /><br />
+...
 
 ## HOOFDSTUK VI Slotbepalingen
 
 ### ART. 10.
 
-Het besluit van de Vlaamse Regering van 17 maart 1998 tot vaststelling van de regels voor het verlenen van de voorafgaande vergunning, bedoeld in artikel 10 van de decreten inzake voorzieningen voor bejaarden, gecoördineerd op 18 december 1991, gewijzigd bij de besluiten van de Vlaamse Regering van 18 december 1998, 31 maart 2006 en 12 januari 2007, wordt opgeheven.<br /><br />
+...
 
 ### ART. 11.
 
-§ 1. De aanvragen tot het verkrijgen van een voorafgaande vergunning voor   een rusthuis of een centrum voor kortverblijf, waarover op de datum van   inwerkingtreding van dit besluit nog geen beslissing werd genomen, worden verder   behandeld met toepassing van dit besluit.<BR><BR>§ 2. De administrateur-generaal   kan voorafgaande vergunningen voor rusthuizen of voor centra voor kortverblijf   die verleend zijn voor 1 januari 2010, vanaf 23 januari 2014 éénmalig met   maximaal drie jaar verlengen. De initiatiefnemer richt daarvoor vóór het   verstrijken van de geldigheidsduur van de voorafgaande vergunning aan het   agentschap een gemotiveerde aanvraag, aangetekend of tegen ontvangstbewijs,   waarin hij, naargelang van het geval, aantoont dat geen van de   opnamemogelijkheden of niet alle opnamemogelijkheden tijdig kunnen worden   gerealiseerd<STRONG>.</STRONG><BR><BR>De initiatiefnemer wordt van de beslissing   van de administrateur-generaal tot verlenging van de voorafgaande vergunning met   toepassing van het eerste lid, op de hoogte gebracht.<BR><BR>Als de   administrateur-generaal het voornemen heeft de verlenging van de voorafgaande   vergunning met toepassing van het eerste lid te weigeren, wordt de   initiatiefnemer van dat gemotiveerde voornemen aangetekend met kennisgeving van   ontvangst, op de hoogte gebracht. Die kennisgeving vermeldt ook de mogelijkheid   en de voorwaarden om een verzoek tot heroverweging van het voornemen in te   dienen als vermeld in artikel 6.<BR><BR>Als binnen de verlengde geldigheidsduur   van de voorafgaande vergunning, bepaald met toepassing van het eerste lid of met   toepassing van artikel 5 van het besluit van de Vlaamse Regering van 20 december   2013 betreffende de voorafgaande vergunning voor centra voor kortverblijf en   woonzorgcentra en tot wijziging van de regels betreffende de voorafgaande   vergunning en de erkenning van die centra, het initiatief niet of maar   gedeeltelijk verwezenlijkt werd, vervalt de voorafgaande vergunning van   rechtswege voor de niet gerealiseerde opnamemogelijkheden.<BR><BR>Het agentschap   brengt de initiatiefnemer op de hoogte van het gehele of gedeeltelijke verval   van de voorafgaande vergunning.<BR><BR>§ 3. ....<BR><BR>§ 4. De voorafgaande   vergunningen en de aanvragen tot het verkrijgen of het verlengen ervan, die op   rusthuizen betrekking hebben, worden geacht betrekking te hebben op   woonzorgcentra.<BR><BR>
+...
 
 ### ART. 11/1.
 
-In afwijking van artikel 11, § 2 wordt de geldigheidsduur van voorafgaande vergunningen voor centra voor kortverblijf of woonzorgcentra die verleend zijn voor 1 januari 2014 voor de volgende werken&nbsp;verlengd tot en met 31 december 2025:<br>
-1° het bouwen, het inrichten, het in gebruik nemen of het verplaatsen van de activiteiten naar een andere inplantingsplaats binnen de zorgregio van een centrum voor kortverblijf of een woonzorgcentrum, als die initiatieven een verdere invulling van de programmatie van die centra impliceren;<br>
-2° het verhogen van de capaciteit van een centrum voor kortverblijf of een woonzorgcentrum dat erkend of voorafgaandelijk vergund is.
+...
 
 ### ART. 12.
 
-Zolang hoofdstuk III van het decreet van 7 december 2007 houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor voorzieningen van Welzijn, Volksgezondheid en Gezin niet in werking is getreden, wordt het verzoek, vermeld in artikel 6, § 2, behandeld overeenkomstig hoofdstuk II, afdeling 3, en hoofdstuk III van het besluit van de Vlaamse Regering van 15 september 1998 betreffende de Adviserende Beroepscommissie inzake gezins- en welzijnaangelegenheden.<br /><br />
+...
 
 ### ART. 13.
 
-<P>...</P>
+...
 
 ### ART. 14.
 
-§ 1. Een lokaal dienstencentrum, een regionaal dienstencentrum of een   dagverzorgingscentrum waarvoor op de datum van inwerkingtreding van dit besluit   de behandeling van de erkenningsaanvraag is opgeschort in afwachting van de   oprichting, de verbouwing of inrichting van een gebouw, wordt geacht een   voorafgaande vergunning te hebben verkregen met als datum, de datum waarop de   kennisgeving van de opschorting van de behandeling van de erkenningsaanvraag aan   de initiatiefnemer werd verzonden.<BR><BR>&nbsp;§ 2. De voorafgaande   vergunningen, vermeld in paragraaf 1, die op 1 januari 2010 nog niet zijn   verlengd, ongeacht of op die datum de verlenging ervan is aangevraagd of niet,   en waarvoor de werkzaamheden binnen de oorspronkelijke geldigheidsduur van vijf   jaar niet zijn aangevat, kunnen door de administrateur-generaal worden verlengd   met drie jaar. De initiatiefnemer vraagt de verlenging aan conform artikel 7, §   3. Bij die aanvraag is het bewijs gevoegd dat een stedenbouwkundige vergunning   is aangevraagd voor de vestigingsplaats, vermeld in de voorafgaande vergunning.   Als de initiatiefnemer de verlenging al had aangevraagd, vervolledigt hij de   aanvraag met het voormelde bewijs.<BR><BR>De administrateur-generaal kan de   geldigheidsduur van de voorafgaande vergunning, vermeld in het eerste lid, die   al een eerste keer verlengd is, nogmaals met maximaal drie jaar verlengen. De   initiatiefnemer richt daarvoor vóór het verstrijken van de voormelde   geldigheidsduur aan het agentschap een gemotiveerde aanvraag, aangetekend of   tegen ontvangstbewijs, waarin hij, naargelang van het geval, aantoont dat geen   van de opnamemogelijkheden of niet alle opnamemogelijkheden tijdig kunnen worden   gerealiseerd.<BR><BR>De initiatiefnemer wordt op de hoogte gebracht van de   beslissing van de administrateur-generaal tot verlenging van de voorafgaande   vergunning met toepassing van het eerste of tweede lid.<BR><BR>Als de   administrateur-generaal het voornemen heeft de verlenging van de voorafgaande   vergunning met toepassing van het eerste of tweede lid te weigeren, wordt de   initiatiefnemer, aangetekend met kennisgeving van ontvangst, op de hoogte   gebracht van dat gemotiveerde voornemen. Die kennisgeving vermeldt ook de   mogelijkheid en de voorwaarden om een verzoek tot heroverweging van het   voornemen in te dienen als vermeld in artikel 6.<BR><BR>Als binnen de verlengde   geldigheidsduur van de voorafgaande vergunning, bepaald met toepassing van het   eerste of tweede lid, het initiatief niet of maar gedeeltelijk verwezenlijkt is,   vervalt de voorafgaande vergunning van rechtswege voor de niet-gerealiseerde   opnamemogelijkheden.<BR><BR>Het agentschap brengt de initiatiefnemer op de   hoogte van het gehele of gedeeltelijke verval van de voorafgaande   vergunning.<BR><BR>§ 3. De voorafgaande vergunningen, vermeld in paragraaf 1,   die op 1 januari 2010 al verlengd waren, blijven volledig onderworpen aan de   regels die voor die datum van kracht waren. Hetzelfde geldt voor voorafgaande   vergunningen die niet zijn verlengd, als de initiatiefnemer de werkzaamheden die   nodig zijn om het initiatief te verwezenlijken, heeft aangevat binnen de   oorspronkelijke geldigheidsduur van de voorafgaande vergunning.
+...
 
 ### ART. 14/1.
 
-Tot en met 31 december 2011 wordt, in afwijking van artikel 1, 2°, voor de toepassing van dit besluit op de diensten maatschappelijk werk van het ziekenfonds verstaan onder agentschap : het Departement Welzijn, Volksgezondheid en Gezin, opgericht bij het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving in dat domein.
+...
 
 ### ART. 14/2.
 
-<P>In afwijking van artikel 7, § 7, komende de volgende opnamemogelijkheden in   centra voor kortverblijf en in woonzorgcentra op 1 januari 2020 opnieuw in het   programma van die voorzieningen :<BR>1° de opnamemogelijkheden die vervat liggen   in een voorafgaande vergunning waarvan de initiatiefnemer vrijwillig volledig of   gedeeltelijk afstand doet, als de beslissing over de volledige of gedeeltelijke   opheffing van de voorafgaande vergunning in de periode van 1 januari 2012 tot en   met 31&nbsp;december 2019 in het Belgisch Staatsblad verschenen is;<BR>2° de   opnamemogelijkheden die vervat liggen in een voorafgaande vergunning die van   rechtswege vervalt in de periode van 1 januari 2013 tot en met 31&nbsp;december   2019.</P>
+...
 
 ### ART. 14/3.
 
-In afwijking van artikel 7, § 1, 2° en 3°, van dit besluit kunnen   voorafgaande vergunningen voor de realisatie van lokale en regionale   dienstencentra, waarvoor voor 1 juli 2015 een zorgstrategisch plan als vermeld   in het besluit van de Vlaamse regering van 8 juni 1999 houdende de   procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden   of in het besluit van de Vlaamse Regering van 18 maart 2011 tot regeling van de   alternatieve investeringssubsidies, verstrekt door het Vlaams   Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, is goedgekeurd,   geldig blijven tot de voltooiing van de bouwwerken en de erkenning van de   voorziening.<BR><BR>Als binnen de termijn, vermeld in artikel 7, § 1, 2°, de   stedenbouwkundige vergunning nog niet is verkregen of aangevraagd of als binnen   de termijn, vermeld in artikel 7, § 1, 3°, nog geen winddichte infrastructuur is   gerealiseerd, volstaat het dat de initiatiefnemer dat meldt aan het agentschap   en daarbij verwijst naar het voor 1 juli 2015 goedgekeurde zorgstrategische   plan. De administrateur-generaal verlengt dan de voorafgaande vergunning. De   verlenging blijft geldig tot de voltooiing van de bouwwerken en de erkenning van   de voorziening.<BR><BR>Als de procedure in het kader van het decreet van 23   februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden   wordt stopgezet, hetzij op verzoek van de initiatiefnemer, hetzij door een   negatief advies van de coördinatiecommissie bij het Vlaams Infrastructuurfonds   voor Persoonsgebonden Aangelegenheden, vervalt de mogelijkheid, vermeld in het   eerste lid. In dat geval wordt de geldigheidstermijn van de voorafgaande   vergunning nog eenmaal verlengd met maximaal drie jaar vanaf de datum van het   verzoek van de initiatiefnemer of de datum van het negatieve advies van de   coördinatiecommissie.
+...
 
 ### ART. 15.
 
-Dit besluit treedt in werking op de dag waarop het besluit van de Vlaamse Regering betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers in werking treedt, met uitzondering van artikel 1, 7°, b), en artikel 13, tweede lid, die in werking treden op de datum waarop artikel 33 tot en met 36 van het woonzorgdecreet van 13 maart 2009 in werking treden.<br /><br />
+...
 
 ### ART. 16.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.<br /><br />
+...
