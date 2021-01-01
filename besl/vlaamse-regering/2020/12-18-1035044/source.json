@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035044,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-18 tot wijziging van de regelgeving over de subsidiëring van een magnetische resonantietomograaf (NMR) en over de subsidiëring van bestralingsapparaten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035044/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "0bafc1f233f1f42f7ffffa604497c4673d632038caddef3c4c198908172794c2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035044&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2020-12-18",
+  "gazette": "2021-01-14",
+  "numac": 2020044656,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
