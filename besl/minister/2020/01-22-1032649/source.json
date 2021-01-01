@@ -2,16 +2,16 @@
   "codex_id": 1032649,
   "title": "Ministerieel besluit van 2020-01-22 tot vaststelling van de betaalkalender met tussentijdse betaaldata van de toelagen in het kader van het gezinsbeleid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032649/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "76a4caee16e2aefbeaee89d8def6f67329133708694c3f66220d832da4c4612a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032649/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "2aa9b528b6f664c85dfaa589c7f6aa47076f505f008f9ab8dd6e3feaa2e9a363",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032649&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2021-01-01",
   "made": "2020-01-22",
   "gazette": "2020-02-10",
   "numac": 2020030055,
   "document_start": "2020-01-01",
   "document_end": "2020-12-31",
-  "in_force": "2020-01-01",
+  "in_force": "2021-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
