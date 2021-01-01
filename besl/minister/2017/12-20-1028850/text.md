@@ -25,7 +25,7 @@ Besluit :<br>
 
 ### ART 1.
 
-§ 1. De begunstigde elektriciteitsdistributienetbeheerder kan voor de vergoeding, vermeld in artikel 6.4.14/3 van het Energiebesluit van 19 november 2010, een schuldvordering indienen bij het Vlaams Energieagentschap.<br>
+§ 1. De begunstigde elektriciteitsdistributienetbeheerder kan voor de vergoeding, vermeld in artikel 6.4.14/3 van het Energiebesluit van 19 november 2010, een schuldvordering indienen bij het VEKA.<br>
 &nbsp;
 
 ### ART 2.
@@ -63,12 +63,12 @@ Met hierin:<br>
 <br>
 § 3. Er moeten evenwel bewijsstukken ter beschikking te worden gehouden in de zin dat de onder artikel 2 opgegeven aantallen en boekwaarden van warmte-krachtcertificaten zich moeten weerspiegelen in de boekhouding van de elektriciteitsdistributienetbeheerder.<br>
 <br>
-§ 4. De relevante stukken moeten aan het Vlaams Energieagentschap worden bezorgd indien hier wordt om gevraagd.<br>
+§ 4. De relevante stukken moeten aan het VEKA worden bezorgd indien hier wordt om gevraagd.<br>
 &nbsp;
 
 ### ART 5.
 
-Het Vlaams Energieagentschap kan nadere regels vastleggen voor de te volgen uitbetalingsprocedures.<br>
+Het VEKA kan nadere regels vastleggen voor de te volgen uitbetalingsprocedures.<br>
 &nbsp;
 
 ### ART 6.
