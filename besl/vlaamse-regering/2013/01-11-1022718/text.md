@@ -19,7 +19,7 @@ In dit besluit wordt verstaan onder :<br>
 8° minister : de Vlaamse minister bevoegd voor het onderwijs en voor de coördinatie van het vormingsbeleid;<br>
 9° onderwijskwalificatie : het begrip vermeld in artikel 2, 17° van het decreet van 30 april 2009;<br>
 10° SERV : de Sociaal-Economische Raad van Vlaanderen;<br>
-11° SYNTRA Vlaanderen : het Vlaams Agentschap voor Ondernemersvorming;<br>
+11° Agentschap Innoveren en Ondernemen: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, opgericht bij het besluit van de Vlaamse Regering van 7 oktober 2005 aangaande het Agentschap Innoveren en Ondernemen;<br>
 12° VDAB : de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
 13° VLOR : de Vlaamse Onderwijsraad.
 
@@ -85,7 +85,19 @@ Het agentschap stelt het huishoudelijk reglement van een   valideringscommissie 
 
 ### ART. 11.
 
-<P>Een gevalideerd beroepskwalificatiedossier wordt voor inschaling aan een   inschalingscommissie voorgelegd.</P>  <P>Een inschalingscommissie als vermeld in het eerste lid wordt als volgt   samengesteld :<BR>1° zeven effectieve leden aangewezen door de SERV;<BR>2° vijf   effectieve leden aangewezen door de VLOR;<BR>3° één effectief lid aangewezen   door de VDAB en één effectief lid aangewezen door Syntra Vlaanderen;<BR>4° twee   onafhankelijke interne experten uit het agentschap.</P>  <P>De experten, vermeld in het tweede lid, 4° zijn niet stemgerechtigd en nemen   de proces- en kwaliteitsbewaking op.</P>  <P>Voor elk effectief lid word(t)(en) minimaal één tot maximaal drie   plaatsvervangers aangeduid.</P>  <P>Het voorzitterschap wordt waargenomen door een onafhankelijke externe expert,   die de minister aanwijst.</P>
+<p>Een gevalideerd beroepskwalificatiedossier wordt voor inschaling aan een inschalingscommissie voorgelegd.</p>
+
+<p>Een inschalingscommissie als vermeld in het eerste lid wordt als volgt samengesteld :<br>
+1° zeven effectieve leden aangewezen door de SERV;<br>
+2° vijf effectieve leden aangewezen door de VLOR;<br>
+3° één effectief lid aangewezen door de VDAB en één effectief lid aangewezen door het Agentschap Innoveren en Ondernemen;<br>
+4° twee onafhankelijke interne experten uit het agentschap.</p>
+
+<p>De experten, vermeld in het tweede lid, 4° zijn niet stemgerechtigd en nemen de proces- en kwaliteitsbewaking op.</p>
+
+<p>Voor elk effectief lid word(t)(en) minimaal één tot maximaal drie plaatsvervangers aangeduid.</p>
+
+<p>Het voorzitterschap wordt waargenomen door een onafhankelijke externe expert, die de minister aanwijst.</p>
 
 ### ART. 12.
 
