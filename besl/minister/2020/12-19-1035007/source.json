@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035007,
+  "title": "Ministerieel besluit van 2020-12-19 houdende wijziging van diverse ministeriële besluiten met betrekking tot de omvorming van het Vlaams Energieagentschap en de operationalisering ervan tot het VEKA en tot integratie van opdrachten inzake klimaat en energie van het Departement Omgeving in dit Vlaams Energie- en Klimaatagentschap",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035007/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "e398d77cf7866e2d62eb07698936c2de661210296c81cce59d9e126dd5c7f766",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035007&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2020-12-19",
+  "gazette": "2020-12-28",
+  "numac": 2020044544,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 120,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
