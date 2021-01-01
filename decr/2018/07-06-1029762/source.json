@@ -2,16 +2,16 @@
   "codex_id": 1029762,
   "title": "Decreet van 2018-07-06 houdende wijziging van diverse bepalingen van het Provinciedecreet van 9 december 2005",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029762/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "29f1baf3fe5078c829bee1a817934f11ed92b6439fdbfd0ed255e7c776c821ef",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029762/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "55ad6fcadbb449e5abca21743c148365400eb5814967db1bafd2e6a67ac71b05",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029762&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2021-01-01",
   "made": "2018-07-06",
   "gazette": "2018-09-27",
   "numac": 2018013845,
   "document_start": "2018-12-03",
   "document_end": null,
-  "in_force": "2020-01-01",
-  "article_versions": 228,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-01-01",
+  "article_versions": 229,
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }

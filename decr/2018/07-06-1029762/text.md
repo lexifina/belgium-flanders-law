@@ -737,6 +737,15 @@ De jaarrekening bestaat uit een beleidsevaluatie, een financiële nota en een to
 <br>
 De jaarrekening wordt vastgesteld voor 30 juni van het boekjaar dat volgt op het boekjaar waarop de rekening betrekking heeft.".
 
+### ART 105.
+
+Artikel 153 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 153. De beleidsevaluatie van de jaarrekening geeft het beleid weer dat de provincie gedurende het boekjaar heeft gevoerd en evalueert de beleidsdoelstellingen en de mate waarin ze zijn bereikt.<br>
+<br>
+De financiële nota van de jaarrekening geeft de financiële gevolgen van het gevoerde beleid weer.<br>
+<br>
+De toelichting van de jaarrekening bevat alle informatie over de verrichtingen in het ontwerp van jaarrekening die relevant is voor de raadsleden om met kennis van zaken een beslissing te kunnen nemen. Ze bevat minstens informatie over de schulden en de financiële risico's.".
+
 ### ART 106.
 
 In hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 juni 2017, wordt het opschrift van hoofdstuk IV van titel IV opgeheven.
