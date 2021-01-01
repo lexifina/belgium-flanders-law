@@ -145,7 +145,7 @@ a) een overeenkomst met een vergunde zorgaanbieder over het bieden van praktisch
 b) een overeenkomst als vermeld in artikel 7, eerste lid, 2°, van het besluit 24 juni 2016, of ze passen een lopende overeenkomst als vermeld in het voormelde artikel 7, eerste lid, 2°, aan;<br>
 c) een overeenkomst als vermeld in artikel 7, eerste lid, 3°, van het besluit van 24 juni 2016, of ze passen een lopende overeenkomst als vermeld in het voormelde artikel 7, eerste lid, 3°, aan;<br>
 d) een overeenkomst met een groene zorginitiatief die bij het agentschap is geregistreerd als vermeld in artikel 7, tweede lid, van het besluit van 24 juni 2016;<br>
-3° de budgethouders van een PAB sluiten overeenkomsten als vermeld in artikel 12, eerste lid,&nbsp;of tweede lid, 2°, van het besluit van 15 december 2000, of passen dergelijke lopende overeenkomsten aan;<br>
+3° de budgethouders van een PAB sluiten overeenkomsten als vermeld in artikel 12, eerste lid,&nbsp;of tweede lid, 2°, van het besluit van 15 december 2000, of passen dergelijke lopende overeenkomsten aan. De budgethouders van een PAB kunnen ook overeenkomsten sluiten over ondersteuning als vermeld in artikel 10, § 5, derde lid, 2°, of vierde lid, van het voormelde besluit;<br>
 4° de overeenkomsten, vermeld in punt 2° of 3°, worden gesloten voor de periodes die de minister vaststelt;<br>
 5° het persoonsvolgend budget of het PAB voor het jaar 2021 is niet toereikend om de kosten die voortvloeien uit de overeenkomsten of de aanpassingen van de overeenkomsten, vermeld in punt 2° of 3°, te betalen.<br>
 <br>
