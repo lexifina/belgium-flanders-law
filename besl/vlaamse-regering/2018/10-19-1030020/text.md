@@ -579,7 +579,7 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minist
 
 ### ART 2.
 
-<span style="font-size:10.0pt">De Vlaamse Regering bepaalt het programma van de centra voor kortverblijf met een bijkomende erkenning. </span>
+...
 
 ## Hoofdstuk 3. Erkenningsvoorwaarden
 
@@ -587,27 +587,15 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minist
 
 ### ART 3.
 
-<span style="font-size:10.0pt">Een centrum voor kortverblijf komt in aanmerking voor een bijkomende erkenning als centrum voor oriënterend kortverblijf als het gebruikers die thuis wonen, tijdelijk en op een multidisciplinaire wijze een intensief observatie- en begeleidingstraject biedt om hen naar het meest passende woonzorgaanbod toe te leiden.<br>
-<br>
-De bijkomende erkenning heeft betrekking hebben op het geheel of een gedeelte van de erkende woongelegenheden in het centrum voor kortverblijf. Een centrum voor kortverblijf met een bijkomende erkenning beschikt over ten minste vijf woongelegenheden met een bijkomende erkenning.<br>
-<br>
-Voor de bijkomende erkenning, vermeld in de eerste lid, is het vereist dat het centrum voor kortverblijf voldoet aan de erkenningsvoorwaarden voor centra voor kortverblijf, behalve als dat anders bepaald is in deze bijlage, en aan de bijkomende voorwaarden die bepaald zijn in deze bijlage.</span>
+<span style="font-size: 10pt;">.</span>..
 
 ### ART 4.
 
-<span style="font-size:10.0pt">De gebruikers van woongelegenheden met een bijzondere erkenning voldoen aan minstens twee van de volgende voorwaarden:<br>
-1°&nbsp;ze hebben een complexe zorg- en ondersteuningsvraag die niet kan worden beantwoord door opname in een ziekenhuis of een andere zorginstelling met medisch specialistische behandeling of geriatrische revalidatiezorg;<br>
-2°&nbsp;ze zijn gerangschikt in afhankelijkheidscategorie B, C, Cd of D, vermeld in artikel 150 van het koninklijk besluit van 3 juli 1996 tot uitvoering van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;</span><br>
-<span style="font-size:10.0pt">3°&nbsp;ze bevinden zich in een thuiszorgsituatie waarin het noodzakelijke ondersteunende kader niet toereikend is om op een kwaliteitsvolle wijze een observatieperiode, vraagverheldering en zorg- en ondersteuningsplan te realiseren.</span>
+<span style="font-size: 10pt;">.</span>..
 
 ### ART 5.
 
-<span style="font-size:10.0pt">Een centrum voor kortverblijf met een bijkomende erkenning heeft de volgende opdrachten:<br>
-1° een intensieve observatieperiode organiseren om de zorg- en ondersteuningsvraag in kaart te brengen;<br>
-2°&nbsp;integrale zorg en ondersteuning bieden aan de gebruiker;<br>
-3° respijtzorg bieden aan de mantelzorger;<br>
-4° een multidisciplinair zorg- en ondersteuningsplan opmaken;<br>
-5° de gebruiker begeleiden bij een uitstroom naar het natuurlijke thuismilieu of naar een andere meer gepaste woonzorgvorm.</span>
+<span style="font-size: 10pt;">.</span>..
 
 ## Afdeling 2. Voorwaarden inzake hulp- en dienstverlening
 
@@ -615,115 +603,41 @@ Voor de bijkomende erkenning, vermeld in de eerste lid, is het vereist dat het c
 
 ### ART 6.
 
-<span style="font-size:10.0pt">§1. Gebruikers van een woongelegenheid met een bijkomende erkenning verblijven minstens veertien opeenvolgende dagen in hetzelfde centrum. Ze kunnen per kalenderjaar maximaal zestig dagen in een centrum voor kortverblijf met een bijkomende erkenning verblijven. Bij de berekening van het maximale aantal verblijfsdagen wordt er geen rekening gehouden met de dagen van onvoorziene afwezigheid.<br>
-<br>
-§2. Als een gebruiker na een verblijf in het centrum voor kortverblijf met een bijkomende erkenning wordt opgenomen in een centrum voor kortverblijf, telt de verblijfsduur in het centrum voor kortverblijf met een bijkomende erkenning niet mee voor de jaarlijkse maximale verblijfsduur in het centrum voor kortverblijf, vermeld in de reguliere erkenningsvoorwaarden voor centra voor kortverblijf.</span>
+<span style="font-size: 10pt;">.</span>..
 
 ## Onderafdeling 2. Zorg en kwaliteit van zorg
 
 ### ART 7.
 
-<span style="font-size:10.0pt">§1. Het centrum voor kortverblijf met een bijkomende erkenning organiseert voor elke gebruiker een intensieve observatieperiode waarin de zorg- en ondersteuningsvraag in kaart wordt gebracht.<br>
-<br>
-De observatieperiode wordt voorafgegaan door een opnamegesprek met de gebruiker en de mantelzorger.<br>
-<br>
-§2. Tijdens de observatieperiode wordt minstens één multidisciplinair overleg georganiseerd waarin minstens de volgende aspecten in kaart worden gebracht of, als dat van toepassing is, verder worden opgevolgd:<br>
-1° lichamelijk welbevinden;<br>
-2° mentaal welbevinden;<br>
-3° participatie in de samenleving en sociale netwerkvorming;<br>
-4° woon- en leefomgeving;<br>
-5° ondersteuning door mantelzorg;<br>
-6° vroegtijdige zorgplanning.<br>
-<br>
-§3. Aansluitend op de observatieperiode organiseert het centrum voor kortverblijf met een bijkomende erkenning voor elke gebruiker een intensieve begeleidingsperiode. Tijdens die begeleidingsperiode:<br>
-1° biedt het centrum integrale zorg en ondersteuning aan de gebruiker;<br>
-2° wordt samen met de gebruiker in kwestie zijn zorg- en ondersteuningsbehoefte onderzocht, vastgesteld en vertaald in zorg- en ondersteuningsdoelstellingen;<br>
-3° wordt een zorg- en ondersteuningsplan opgesteld in samenspraak met het multidisciplinair team om de zorg- en ondersteuningsdoelstellingen te bereiken, te evalueren en zo nodig bij te sturen.<br>
-<br>
-§4. Als de gebruiker na het verblijf in het centrum terugkeert naar het natuurlijke thuismilieu, organiseert het centrum met het zorgteam een overdracht naar de zorgcoördinator of, als dat van toepassing is, naar de zorgaanbieder die het casemanagement opneemt. De vrije keuze van de gebruiker wordt daarbij op elk moment gevrijwaard.<br>
-<br>
-In dit artikel wordt verstaan onder casemanagement: de grondige analyse en evaluatie van het zorg- en ondersteuningsproces, opgebouwd en uitgevoerd door het zorgteam, om tot duidelijke probleemstelling te komen en de oplossingsgerichte procesbegeleiding en zorgafstemming die hieraan verbonden wordt.<br>
-<br>
-In dit artikel wordt verstaan onder zorgcoördinator: het lid van het zorgteam dat de taak op zich neemt om alle zorg en ondersteuning, vastgelegd op basis van de zorg- of ondersteuningsbehoeften van de persoon, af te stemmen en continu op te volgen en te evalueren. De persoon met een zorg- en ondersteuningsbehoefte of zijn wettelijke vertegenwoordiger neemt de taak van zorgcoördinator waar. Als de persoon met een zorg- en ondersteuningsbehoefte of zijn wettelijke vertegenwoordiger dat niet wil of kan, wijst het zorgteam een zorgcoördinator aan, die het vertrouwen krijgt van de persoon of zijn wettelijke vertegenwoordiger, op voorwaarde dat de vrije keuze van de gebruiker wordt gevrijwaard.</span>
+<span style="font-size: 10pt;">.</span>..
 
 ### ART 8.
 
-<span style="font-size:10.0pt">§1. Het centrum voor kortverblijf met een bijkomende erkenning volgt de gebruiker op binnen een multidisciplinair overleg. Het multidisciplinaire overleg wordt bijgewoond door de behandelende arts. Afhankelijk van de zorg- en ondersteuningsbehoeften kunnen ook andere partijen bij het multidisciplinaire overleg worden betrokken, zoals:<br>
-1° mantelzorgers;<br>
-2° diensten voor gezins- en aanvullende thuiszorg;<br>
-3° thuisverpleging;<br>
-4° maatschappelijk werkers;<br>
-5° de coördinerende raadgevende arts;<br>
-6° een zorgcoördinator of zorgaanbieder die het casemanagement opneemt.<br>
-<br>
-§2. Het centrum bewaart een verslag van elk multidisciplinair overleg in het zorgdossier van de gebruiker.</span>
+<span style="font-size: 10pt;">.</span>..
 
 ### ART 9.
 
-<span style="font-size:10.0pt">Er is regelmatig overleg en persoonlijk contact tussen de gebruiker, de mantelzorger en het centrum voor kortverblijf met een bijkomende erkenning: bij de opname en tijdens het verblijf, en tijdens de uitstroom naar het natuurlijke thuismilieu of een andere meer gepaste woonzorgvorm:<br>
-1°&nbsp;er wordt een verslag gemaakt van het opnamegesprek;<br>
-2°&nbsp;er worden in overleg met de gebruiker en de mantelzorger tussentijdse evaluaties gehouden;<br>
-3°&nbsp;er wordt transparant en objectief informatie verstrekt over het integrale aanbod van zorg en ondersteuning met als doel het zelfstandig wonen te behouden of te verbeteren. Er wordt minstens gecommuniceerd over de volgende zorg en ondersteuning:<br>
-a)&nbsp;huishoudelijke en logistieke hulp;<br>
-b)&nbsp;persoonsverzorging, (para)medische en verpleegkundige zorg en ondersteuning;<br>
-c)&nbsp;activatie en (administratieve) ondersteuning en revalidatie;<br>
-d)&nbsp;psychosociale en agogische begeleiding;<br>
-e)&nbsp;ondersteuning van de mantelzorger;<br>
-f)&nbsp;maatschappelijk werk;<br>
-4° er vindt een gezamenlijke besluitvorming plaats over de zorg- en ondersteuningsdoelstellingen;<br>
-5°&nbsp;de bewoner krijgt inzage en inspraak in het zorg- en ondersteuningsplan.</span>
+<span style="font-size: 10pt;">.</span>..
 
 ### ART 10.
 
-<span style="font-size:10.0pt">Met het oog op de realisatie van zijn opdrachten, vermeld in artikel 5, onderhoudt het centrum voor kortverblijf met een bijkomende erkenning actieve en structurele samenwerkingsverbanden met relevante zorgaanbieders.<br>
-<br>
-In het kader van die samenwerking vindt er minstens één keer per jaar een multidisciplinair overleg plaats specifiek voor het centrum voor kortverblijf met een bijkomende erkenning.</span>
+<span style="font-size: 10pt;">.</span>..
 
 ## Afdeling 3. Voorwaarden voor omkadering
 
 ### ART 11.
 
-<span style="font-size:10.0pt">Een centrum voor kortverblijf met een bijkomende erkenning moet beschikken over eigen loontrekkende of statutaire verpleegkundigen, psychologen, ergotherapeuten en sociaal werkers of sociaal verpleegkundigen.<br>
-<br>
-Per vijftien personen die gebruikmaken van het centrum voor oriënterend kortverblijf, bedraagt het personeelsbestand 3,5 voltijdsequivalenten, boven op de voltijdsequivalenten van het centrum voor kortverblijf. Het is multidisciplinair en flexibel inzetbaar, maar bestaat minstens uit de volgende disciplines:<br>
-1°&nbsp;verpleegkundige;<br>
-2°&nbsp;psycholoog;<br>
-3°&nbsp;ergotherapeut;<br>
-4°&nbsp;maatschappelijk werker of sociaal verpleegkundige.</span>
+<span style="font-size: 10pt;">.</span>..
 
 ## Hoofdstuk 4. Procedures voor de vergunning en erkenning van het centrum voor oriënterend kortverblijf
 
 ### ART 12.
 
-<span style="font-size:10.0pt">De initiatiefnemer dient een aanvraag van een planningsvergunning in met het formulier dat het agentschap ter beschikking stelt en dat minstens de volgende inlichtingen en stukken bevat:<br>
-1° de identificatiegegevens van de initiatiefnemer en het centrum voor kortverblijf waarvoor de planningsvergunning wordt aangevraagd;<br>
-2° het aantal opnamemogelijkheden waarvoor de planningsvergunning wordt aangevraagd;<br>
-3° als de initiatiefnemer een rechtspersoon is, met uitzondering van openbare besturen: de statuten en de eventuele wijzigingen ervan;<br>
-4° een kopie van de beslissing van het bevoegde orgaan om een planningsvergunning aan te vragen voor een bijkomende erkenning als centrum voor oriënterend kortverblijf of voor de wijziging van de capaciteit ervan;<br>
-5° een toelichting van het project, waarin onder meer de volgende elementen aan bod komen:<br>
-a) het huidige of toekomstige profiel van het centrum voor kortverblijf met een bijkomende erkenning;<br>
-b) de relatie met andere woonzorgvoorzieningen en zorgverleners in&nbsp;het werkingsgebied;<br>
-c) de visie op wonen, leven en verzorgen in het centrum voor kortverblijf met een bijkomende erkenning;<br>
-d)&nbsp;de verwachte rentabiliteit en prijszetting;<br>
-e) de professionele kwaliteitsgaranties van de initiatiefnemer.<br>
-<br>
-Het agentschap onderzoekt de ontvankelijkheid van de aanvraag van de planningsvergunning.<br>
-<br>
-Als de aanvraag niet ontvankelijk is, brengt het agentschap de initiatiefnemer daarvan op de hoogte binnen dertig kalenderdagen nadat het de aanvraag heeft ontvangen.</span>
+<span style="font-size: 10pt;">.</span>..
 
 ### ART 13.
 
-<span style="font-size:10.0pt">§ 1. Het agentschap onderzoekt het dossier binnen negentig kalenderdagen nadat het de ontvankelijke aanvraag heeft ontvangen, en gaat na of de aanvraag past binnen het programma, vermeld in artikel 2. Het agentschap kan aan de initiatiefnemer aanvullende inlichtingen vragen.<br>
-<br>
-Als verschillende ontvankelijke aanvragen worden ingediend die betrekking hebben op hetzelfde werkingsgebied, worden de aanvragen behandeld in chronologische volgorde, gebaseerd op de datum van de aangetekende verzending van de aanvraag.<br>
-<br>
-Als voor hetzelfde werkingsgebied verschillende aanvragen zowel formeel als inhoudelijk als gelijkwaardig worden beoordeeld, en het totale aantal aangevraagde woongelegenheden de beschikbare ruimte binnen het programmacijfer overschrijdt, krijgt elke initiatiefnemer een proportioneel aantal woongelegenheden toegekend in verhouding tot het gevraagde aantal. Resterende woongelegenheden die bij de verdeling niet kunnen worden toegekend, komen opnieuw in het programma op 1 januari na het jaar dat de planningsvergunningen in het Belgisch Staatsblad verschenen zijn.<br>
-<br>
-§ 2. De administrateur-generaal beslist over de toekenning van de planningsvergunning. Zijn beslissing wordt aan de initiatiefnemer bezorgd.<br>
-<br>
-De planningsvergunning vermeldt de identiteit van de initiatiefnemer, de inplantingsplaats, het aantal opnamemogelijkheden en de geldigheidsduur. De planningsvergunning is twee jaar geldig.<br>
-<br>
-Als de administrateur-generaal het voornemen heeft de planningsvergunning te weigeren, wordt de initiatiefnemer van dat gemotiveerde voornemen met een aangetekende brief op de hoogte gebracht. Die brief vermeldt ook de mogelijkheid en de voorwaarden om tegen het voornemen bezwaar aan te tekenen.</span>
+<span style="font-size: 10pt;">.</span>..
 
 ### ART 14.
 
@@ -763,7 +677,7 @@ Als de administrateur-generaal het voornemen heeft de erkenning te weigeren, wor
 
 ### ART 17.
 
-<span style="font-size:10.0pt">Binnen dertig kalenderdagen nadat de initiatiefnemer het voornemen tot weigering van de planningsvergunning of de bijzondere erkenning heeft ontvangen, kan hij daartegen een gemotiveerd bezwaarschrift indienen bij het agentschap. Hij dient het bezwaarschrift in met een aangetekende brief. In het bezwaarschrift kan hij verzoeken om gehoord te worden.<br>
+<span style="font-size: 10pt;">Binnen dertig kalenderdagen nadat de initiatiefnemer het voornemen tot weigering van de bijzondere erkenning heeft ontvangen, kan hij daartegen een gemotiveerd bezwaarschrift indienen bij het agentschap. Hij dient het bezwaarschrift in met een aangetekende brief. In het bezwaarschrift kan hij verzoeken om gehoord te worden.<br>
 <br>
 Het bezwaarschrift wordt behandeld en over het bezwaarschrift wordt beslist conform de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
 <br>
