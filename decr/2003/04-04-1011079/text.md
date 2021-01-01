@@ -8,9 +8,6 @@
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<br>
-...<br>
-18° steunpunt: het landelijke steunpunt voor sociaal-cultureel volwassenenwerk;<br>
 ...
 
 ### ART. 3.
@@ -217,34 +214,23 @@ In dit decreet wordt verstaan onder:<br>
 
 ### ART. 37.
 
-De Vlaamse regering kan zelf een steunpunt oprichten of kan een bestaande vereniging zonder winstoogmerk als steunpunt erkennen.
+...
 
 ### ART. 38.
 
-§ 1. Het steunpunt is een autonome organisatie die voor het werkveld van het sociaal-cultureel volwas-senenwerk de volgende kernopdrachten vervult:<br>
-1° praktijkondersteuning;<br>
-2° praktijkontwikkeling;<br>
-3° beeldvorming en communicatie.<br>
-<br>
-§ 2. Het steunpunt vervult haar kernopdrachten door middel van activiteiten als begeleiding, deskundigheidsbevordering en implementatie van kwaliteitszorg, onderzoek, ontwikkeling en gegevensverzameling, informatie en communicatie, vertegenwoordiging en internationale samenwerking.<br>
-<br>
-§ 3. Het steunpunt overlegt met de andere steunpunten, inzonderheid met de andere steunpunten uit het beleidsveld van het sociaal-cultureel volwassenenwerk.<br>
-<br>
-§ 4. Voor de uitvoering van zijn opdrachten kan het steunpunt overeenkomsten afsluiten met derden.
+...
 
 ### ART. 39.
 
-De Vlaamse regering kent het steunpunt per beleidsperiode een jaarlijkse subsidie-enveloppe toe.
+...
 
 ### ART. 40.
 
-§ 1. Vanaf de inwerkingtreding van het decreet tot en met de eerste beleidsperiode is de jaarlijkse subsidie van het steunpunt, bij gelijke werking en opdracht, gelijk aan het subsidiebedrag dat op basis van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het werkjaar 2003 aan het steunpunt voor het sociaal-cultureel werk werd toegekend.<br>
-<br>
-§ 2. Voor de volgende beleidsperiodes wordt het subsidiebedrag van het steunpunt telkens bepaald door de Vlaamse Regering op grond van de door de administratie geaggregeerde verzamelde gegevens uit de voortgangsrapporten in de aflopende beleidsperiode en de beleidsintenties van de overheid voor de komende beleidsperiode.
+...
 
 ### ART. 41.
 
-Het steunpunt legt voor de beleidsperiode een beleidsplan voor waarin de opdrachten vermeld in artikel 38 worden geconcretiseerd. Het beleidsplan bevat een financieel plan en een personeelsplan. Het beleidsplan voor een volgende beleidsperiode wordt ter goedkeuring aan de administratie voorgelegd voor 31 oktober van het laatste jaar van de lopende beleidsperiode. De goedkeuring van de administratie wordt gegeven voor 31 december van het laatste jaar van de lopende beleidsperiode. Het beleidsplan wordt jaarlijks geconcretiseerd in een voortgangsrapport. Dit voortgangsrapport wordt samen met het financiele verslag ingediend voor 1 april van het jaar volgend op het werkingsjaar waarop het voortgangsrapport betrekking heeft. Jaarlijks vindt minstens één keer een overleg plaats tussen de directie en een bestuurder van het steunpunt enerzijds en één of meerdere vertegenwoordigers van de administratie. Het steunpunt houdt in de werking rekening met de principes van de integrale kwaliteitszorg.
+...
 
 ## TITEL VI EVALUATIE
 
@@ -260,19 +246,7 @@ Het steunpunt legt voor de beleidsperiode een beleidsplan voor waarin de opdrach
 
 ### ART. 44.
 
-§ 1. ...<br>
-<br>
-§ 2. ...<br>
-<br>
-§ 3. ...<br>
-<br>
-§ 4. De subsidie-enveloppe van een organisatie die in 2011 middelen kreeg vanuit een provincie, wordt, in afwijking van artikelen 8, § 2, 10, 11, 15bis, 17, 22, 27, 31, 34 en 36, verhoogd met 90 % van de bedragen die door de provincie(s) in 2011 werden uitgekeerd als structurele ondersteuning van die organisatie.<br>
-<br>
-§ 5. Vanaf 2017 kan de Vlaamse Regering bepalen hoe de bedragen waarmee de subsidie-enveloppen van de organisaties werden verhoogd, overeenkomstig paragraaf 4, zullen worden herverdeeld over de erkende organisaties voor sociaal-cultureel volwassenenwerk.<br>
-<br>
-Een herverdeling krijgt toepassing in het tweede kalenderjaar na de beslissing van de Vlaamse Regering en op zijn vroegst vanaf het kalenderjaar dat start op 1 januari 2019.<br>
-<br>
-&nbsp;§ 6. ...
+...
 
 ### ART. 45.
 
