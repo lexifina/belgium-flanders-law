@@ -18,17 +18,17 @@ Besluit :
 
 ### ART 1.
 
-In dit besluit wordt verstaan onder besluit van 21 december 2018: het besluit van de Vlaamse Regering van 21 december 2018 tot instelling van een tegemoetkoming in de kosten bij de renovatie of verbetering van een bestaande woning of bij de realisatie van een nieuwe woning.
+...
 
 ## HOOFDSTUK 2. Algemene voorwaarden
 
 ### ART 2.
 
-De administrateur-generaal van het agentschap is gemachtigd het modelformulier, vermeld in artikel 6, § 1 van het besluit van 21 december 2018, op te maken.
+De administrateur-generaal van het agentschap is gemachtigd het modelformulier, vermeld in artikel 5.191, § 1, van het Besluit Vlaamse Codex Wonen van 2021, op te maken.
 
 ### ART 3.
 
-Het agentschap zal op basis van de gegevens van bewoning vermeld in het Rijksregister nagaan of de bewoner, vermeld in artikel 1, 4°, van het besluit van 21 december 2018 de premiewoning bewoont als hoofdverblijfplaats.
+Het agentschap zal op basis van de gegevens van bewoning vermeld in het Rijksregister nagaan of de bewoner, vermeld in artikel 5.186, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021, de premiewoning bewoont als hoofdverblijfplaats.
 
 ### ART 4.
 
@@ -42,21 +42,21 @@ Bij betwisting over het eerste gebruik als woning zijn de gegevens van het Rijks
 
 ### ART 6.
 
-Ter uitvoering van artikel 8, § 2, van het besluit van 21 december 2018 wordt het saldo van de uit te keren tegemoetkoming berekend door het verschil te maken tussen de berekende tegemoetkoming per categorie van werkzaamheden, vermeld in artikel 5, § 1, tweede lid van het besluit van 21 december 2018, en de toegekende verbeteringspremie, verkregen voor het onderdeel dat overeenstemt met de aangevraagde categorie van werkzaamheden.<br>
+Ter uitvoering van artikel 5.193, § 2, van het Besluit Vlaamse Codex Wonen van 2021 wordt het saldo van de uit te keren tegemoetkoming berekend door het verschil te maken tussen de berekende tegemoetkoming per categorie van werkzaamheden, vermeld in artikel 5.190, § 1, tweede lid, van het Besluit Vlaamse Codex Wonen van 2021, en de toegekende verbeteringspremie, verkregen voor het onderdeel dat overeenstemt met de aangevraagde categorie van werkzaamheden.<br>
 <br>
-De tegemoetkoming voor werkzaamheden in de categorie, vermeld in artikel 5, § 1, tweede lid, 1°, van het besluit van 21 december 2018, wordt verminderd met de verkregen verbeteringspremie voor dezelfde premiewoning voor gevelwerken en de behandeling van optrekkend muurvocht, vermeld in artikel 7, tweede lid, 3° en 4°, van het ministerieel besluit 27 september 2007 tot uitvoering van het besluit van de Vlaamse Regering van 18 december 1992 houdende instelling van een aanpassingspremie en een verbeteringspremie voor woningen.<br>
+De tegemoetkoming voor werkzaamheden in de categorie, vermeld in artikel 5.190, § 1, tweede lid, 1°, van het Besluit Vlaamse Codex Wonen van 2021, wordt verminderd met de verkregen verbeteringspremie voor dezelfde premiewoning voor gevelwerken en de behandeling van optrekkend muurvocht, vermeld in artikel 7, tweede lid, 3° en 4°, van het ministerieel besluit 27 september 2007 tot uitvoering van het besluit van de Vlaamse Regering van 18 december 1992 houdende instelling van een aanpassingspremie en een verbeteringspremie voor woningen.<br>
 <br>
-De tegemoetkoming voor werkzaamheden in de categorie, vermeld in artikel 5, § 1, tweede lid, 2°, van het besluit van 21 december 2018, wordt verminderd met de verkregen verbeteringspremie voor dezelfde premiewoning voor dakwerkzaamheden, vermeld in artikel 7, tweede lid, 1°, van het ministerieel besluit van 27 september 2007 tot uitvoering van het besluit van de Vlaamse Regering van 18 december 1992 houdende instelling van een aanpassingspremie en een verbeteringspremie voor woningen.<br>
+De tegemoetkoming voor werkzaamheden in de categorie, vermeld in artikel 5.190, § 1, tweede lid, 2°, van het Besluit Vlaamse Codex Wonen van 2021, wordt verminderd met de verkregen verbeteringspremie voor dezelfde premiewoning voor dakwerkzaamheden, vermeld in artikel 7, tweede lid, 1°, van het ministerieel besluit van 27 september 2007 tot uitvoering van het besluit van de Vlaamse Regering van 18 december 1992 houdende instelling van een aanpassingspremie en een verbeteringspremie voor woningen.<br>
 <br>
-De tegemoetkoming voor werkzaamheden in de categorie, vermeld in artikel 5, § 1, tweede lid, 3°, van het besluit van 21 december 2018, wordt verminderd met de verkregen verbeteringspremie voor dezelfde premiewoning voor buitenschrijnwerk, vermeld in artikel 7, tweede lid, 2°, van het ministerieel besluit van 27 september 2007 tot uitvoering van het besluit van de Vlaamse Regering van 18 december 1992 houdende instelling van een aanpassingspremie en een verbeteringspremie voor woningen.<br>
+De tegemoetkoming voor werkzaamheden in de categorie, vermeld in artikel 5.190, § 1, tweede lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021, wordt verminderd met de verkregen verbeteringspremie voor dezelfde premiewoning voor buitenschrijnwerk, vermeld in artikel 7, tweede lid, 2°, van het ministerieel besluit van 27 september 2007 tot uitvoering van het besluit van de Vlaamse Regering van 18 december 1992 houdende instelling van een aanpassingspremie en een verbeteringspremie voor woningen.<br>
 <br>
-De tegemoetkoming voor werkzaamheden in de categorie, vermeld in artikel 5, § 1, tweede lid, 4°, van het besluit van 21 december 2018, wordt verminderd met de verkregen verbeteringspremie voor dezelfde premiewoning voor de werkzaamheden vermeld in artikel 7, tweede lid, 5°, 6° en 7°, van het ministerieel besluit van 27 september 2007 tot uitvoering van het besluit van de Vlaamse Regering van 18 december 1992 houdende instelling van een aanpassingspremie en een verbeteringspremie voor woningen.
+De tegemoetkoming voor werkzaamheden in de categorie, vermeld in artikel 5.190, § 1, tweede lid, 4°, van het Besluit Vlaamse Codex Wonen van 2021, wordt verminderd met de verkregen verbeteringspremie voor dezelfde premiewoning voor de werkzaamheden vermeld in artikel 7, tweede lid, 5°, 6° en 7°, van het ministerieel besluit van 27 september 2007 tot uitvoering van het besluit van de Vlaamse Regering van 18 december 1992 houdende instelling van een aanpassingspremie en een verbeteringspremie voor woningen.
 
 ## HOOFDSTUK 3. Voorwaarden met betrekking tot de uitgevoerde werkzaamheden
 
 ### ART 7.
 
-De werkzaamheden, vermeld in artikel 5, § 1, tweede lid, van het besluit van 21 december 2018, zijn subsidiabel als het werkzaamheden betreft waarbij het bouwonderdeel gerenoveerd, verbeterd of vervangen wordt, of aangebracht wordt als het nog niet aanwezig was.<br>
+De werkzaamheden, vermeld in artikel 5.190, § 1, tweede lid, van het Besluit Vlaamse Codex Wonen van 2021, zijn subsidiabel als het werkzaamheden betreft waarbij het bouwonderdeel gerenoveerd, verbeterd of vervangen wordt, of aangebracht wordt als het nog niet aanwezig was.<br>
 <br>
 In de volgende limitatieve lijst worden de subsidiabele werkzaamheden opgesomd in vier categorieën, waarbij elke categorie werkzaamheden aan een of meer bouwonderdelen bevat. De categorieën zijn als volgt samengesteld:<br>
 1° categorie 1: de ruwbouw van de woning. Onder ruwbouw wordt verstaan het geheel van funderingen, dragende en niet-dragende muren, draagvloeren en vaste binnentrappen. De volgende werkzaamheden komen in aanmerking:<br>
@@ -113,7 +113,7 @@ Als de facturen voor de subsidiabele werkzaamheden betrekking hebben op elektric
 
 ### ART 10.
 
-De aanvrager is verplicht op eenvoudig verzoek van het agentschap de originelen van de facturen vermeld in artikel 6, § 5, 3° van het besluit van 21 december 2018 aan het agentschap voor te leggen.
+De aanvrager is verplicht op eenvoudig verzoek van het agentschap de originelen van de facturen vermeld in , vermeld in artikel 5.191, § 5, 3°, van het Besluit Vlaamse Codex Wonen van 2021, aan het agentschap voor te leggen.
 
 ## HOOFDSTUK 4. Niet-subsidiabele werkzaamheden
 
