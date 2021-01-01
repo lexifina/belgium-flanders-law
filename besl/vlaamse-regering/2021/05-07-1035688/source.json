@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035688,
+  "title": "Besluit van de Vlaamse Regering van 2021-05-07 houdende de verlenging van diverse maatregelen ingevolge COVID-19 voor het kleuter- en leerplichtonderwijs, de internaten, de academies deeltijds kunstonderwijs en de centra voor leerlingenbegeleiding voor de periode van 1 januari 2021 tot en met 30 juni 2021 en de centra voor basiseducatie en de centra voor volwassenenonderwijs voor de periode van 1 januari 2021 tot en met 31 augustus 2021",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035688/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "7ae6ee80a4ae6c1beb05a2018349dbbedd131da371265b12699a008aad5c969e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035688&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2021-05-07",
+  "gazette": "2021-06-16",
+  "numac": 2021042162,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
