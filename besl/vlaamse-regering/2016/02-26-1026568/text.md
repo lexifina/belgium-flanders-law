@@ -331,7 +331,7 @@ In afwijking van het eerste lid geldt er geen registratieverplichting voor:<br>
 
 ### ART. 5.
 
-Het Departement Omgeving is de gemachtigde dienst, vermeld in artikel 5 van het decreet van 27 november 2015.
+De Vlaamse Milieumaatschappij is de gemachtigde dienst, vermeld in artikel 5 van het decreet van 27 november 2015.
 
 ### ART. 6.
 
