@@ -836,7 +836,6 @@ Een schoolbestuur verkrijgt voor haar personeelsleden die tot de categorieën on
 3° houder zijn van de bekwaamheidsbewijzen, vermeld in artikel 3, 6°, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 en artikel 5, 8°, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991;<br>
 4° aangeworven zijn met inachtname van de reglementering over de reaffectatie en wedertewerkstelling;<br>
 5° in dienst zijn op grond van de reglementering over de omkadering;<br>
-6° in een gezondheidstoestand verkeren die de gezondheid van de leerlingen niet in gevaar brengt.<br>
 &nbsp;
 
 ### ART 67.
