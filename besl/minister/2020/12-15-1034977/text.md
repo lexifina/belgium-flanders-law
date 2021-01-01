@@ -16,6 +16,63 @@ De volgende vormvereisten zijn vervuld:<br>
 <br>
 DE VLAAMSE MINISTER VAN FINANCIEN EN BEGROTING, WONEN EN ONROEREND ERFGOED BESLUIT:
 
+### ART 1.
+
+In artikel 1 van het ministerieel besluit van 29 oktober 2010 tot nadere invulling van de regels inzake de indeling van de verrichtingen in de financiële administratie, de boekhoudkundige waarderings- en rubriceringsregels, de financiële rapportering aan de Vlaamse overheid en de boekhoudkundige organisatie van de sociale huisvestingsmaatschappijen, gewijzigd bij de ministeriële besluiten van 19 maart 2012 en 6 mei 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 7° wordt de zinsnede "de bijlage III, gevoegd bij het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode" vervangen door de zinsnede "bijlage 27, die bij het Besluit Vlaamse Codex Wonen van 2021 is gevoegd";<br>
+2° in punt 11° wordt de zinsnede "artikel 40 en 106 van de Vlaamse Wooncode" vervangen door de zinsnede "artikel 4.36 en 7.5 van Vlaamse Codex Wonen van 2021";<br>
+3° punt 12° wordt opgeheven;<br>
+4° in punt 13° wordt de zinsnede "artikel 30 van de Vlaamse Wooncode" vervangen door de zinsnede "artikel 4.7 van de Vlaamse Codex Wonen van 2021".
+
+### ART 2.
+
+In artikel 2 van hetzelfde ministerieel besluit worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede "artikel 40 van de Vlaamse Wooncode" wordt vervangen door de zinsnede "artikel 4.36 van de Vlaamse Codex Wonen van 2021";<br>
+2° de zinsnede "artikel 106 van de Vlaamse Wooncode" wordt vervangen door de zinsnede "artikel 7.5 van de voormelde codex".
+
+### ART 3.
+
+In hoofdstuk III van hetzelfde ministerieel besluit, gewijzigd bij de ministeriële besluiten van 19 maart 2012, 7 januari 2013 en 6 mei 2019, wordt het opschrift van afdeling II vervangen door wat volgt:<br>
+<br>
+"Afdeling II. Aanvullende informatie ter uitvoering van artikel 5.77, § 3, van het Besluit Vlaamse Codex Wonen van 2021".
+
+### ART 4.
+
+In artikel 6, § 2, eerste lid, 2°, van hetzelfde ministerieel besluit wordt de zinsnede "bijlage III, gevoegd bij het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode" vervangen door de zinsnede "bijlage 27, die bij het Besluit Vlaamse Codex Wonen van 2021 gevoegd is".
+
+### ART 5.
+
+In artikel 8, eerste lid, 1°, van hetzelfde ministerieel besluit, vervangen bij het ministerieel besluit van 7 januari 2013, wordt de zinsnede "artikel 4.2.1 tot en met 4.2.9 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid" vervangen door de zinsnede "artikel 5.93 tot en met 5.105 van de Vlaamse Codex Wonen van 2021".
+
+### ART 6.
+
+In artikel 18, § 1, van hetzelfde ministerieel besluit, gewijzigd bij de ministeriële besluiten van 19 maart 2012, 7 januari 2013 en 6 mei 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid, 11°, 13° en 15° wordt het woord "aantal" vervangen door de woorden "gemiddeld aantal";<br>
+2° in het tweede lid wordt de zinsnede "artikel 5 van het besluit van de Vlaamse Regering van 2 december 2005 houdende de regeling inzake het beheer van de eigen middelen van de sociale huisvestingsmaatschappijen door de Vlaamse Maatschappij voor Sociaal Wonen" vervangen door de zinsnede "artikel 4.38 van het Besluit Vlaamse Codex Wonen van 2021".
+
+### ART 7.
+
+In artikel 19 van hetzelfde ministerieel besluit, gewijzigd bij de ministeriële besluiten van 19 maart 2012, 7 januari 2013 en 6 mei 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 worden de woorden "het intern verzelfstandigd agentschap Inspectie RWO en het intern verzelfstandigd agentschap Wonen-Vlaanderen" vervangen door de woorden "de afdeling Toezicht van het agentschap Wonen-Vlaanderen";<br>
+2° in paragraaf 3, derde lid, worden de woorden "het intern verzelfstandigd agentschap Inspectie RWO" vervangen door de woorden "de afdeling Toezicht van het agentschap Wonen-Vlaanderen";<br>
+3° in paragraaf 3, vierde lid, worden de woorden "het agentschap Inspectie RWO" vervangen door de woorden "de afdeling Toezicht van het agentschap Wonen-Vlaanderen".
+
+### ART 8.
+
+Aan artikel 2, § 1, van bijlage 1, bij hetzelfde ministerieel besluit wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"In het tweede lid, 2°, wordt verstaan onder bij de aankoop komende kosten: alle kosten die nodig zijn om de aangekochte, vervaardigde of ingebrachte activa functioneel te maken voor de sociale huisvestingsmaatschappij. Het zijn kosten die noodzakelijk zijn om de voormelde activa effectief te benutten.".
+
+### ART 9.
+
+In hoofdstuk I, afdeling II, van bijlage 1, bij hetzelfde ministerieel besluit, gewijzigd bij de ministeriële besluiten van 7 januari 2013, 19 december 2014 en 6 mei 2019, wordt het opschrift van onderafdeling III vervangen door wat volgt:<br>
+<br>
+"Onderafdeling III. De boekhoudkundige verwerking van projecten in het kader van boek 5, deel 1, titel 2, van het Besluit Vlaamse Codex Wonen van 2021".
+
+### ART 10.
+
+In artikel 5, § 2, van bijlage 1, bij hetzelfde ministerieel besluit wordt de zinsnede "artikel 1, 8° van het Besluit van de Vlaamse Regering van 14 mei 2004 ter uitvoering van de bepalingen over de oprichting en de organisatie van het Garantiefonds voor Huisvesting in het kader van PPS-projecten sociale huisvesting" vervangen door de zinsnede "artikel 1.2, eerste lid, 103°, van het Besluit Vlaamse Codex Wonen van 2021".
+
 ### ART 11.
 
 In artikel 9 van bijlage 1 bij hetzelfde ministerieel besluit, gewijzigd bij de ministeriële besluiten van 19 maart 2012 en 7 januari 2013, worden de volgende wijzigingen aangebracht:<br>
@@ -61,6 +118,38 @@ a) het volledige buitenschrijnwerk vernieuwen;<br>
 b) de volledige dakbedekking vernieuwen, met gehele verwijdering van de bestaande dakbedding;<br>
 c) het volledige parament van buitengevels vernieuwen.".
 
+### ART 12.
+
+In artikel 12 van bijlage 1, bij hetzelfde ministerieel besluit wordt de zinsnede "van artikel 57 van het KB van 30 januari 2001 tot uitvoering van het Wetboek van Vennootschappen" vervangen door de zinsnede ", vermeld in artikel 3:35 van het koninklijk besluit van 29 april 2019 tot uitvoering van het Wetboek van vennootschappen en verenigingen".
+
+### ART 13.
+
+In artikel 18, tweede lid, van bijlage 1, bij hetzelfde ministerieel besluit wordt de zinsnede "het derde lid van de tweede paragraaf van artikel 37 van het Besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel" vervangen door de zinsnede "artikel 6.61, § 2, derde lid, van het Besluit Vlaamse Codex Wonen van 2021".
+
+### ART 14.
+
+Aan artikel 22, § 2, van bijlage 1, bij hetzelfde ministerieel besluit, gewijzigd bij het besluit van de Vlaamse Regering van 6 mei 2019, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"De subsidie wordt geboekt zodra de subsidiërende overheid haar verbintenis onvoorwaardelijk en voor het bedrag in kwestie bevestigt, ook al geldt daarvoor eventueel een opschortende termijn waarin de opeisbaarheid wordt uitgesteld, en ze in schijven wordt opgesplitst.".
+
+### ART 15.
+
+In artikel 31 van bijlage 1, bij hetzelfde ministerieel besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede "artikel 37, § 2 van het Kaderbesluit Sociale Huur" vervangen door de zinsnede "artikel 6.61, § 2, van het Besluit Vlaamse Codex Wonen van 2021";<br>
+2° in het derde lid wordt de zinsnede "artikel 37, § 2, 4° lid van het Besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel" vervangen door de zinsnede "artikel 6.61, § 2, vierde lid, van het Besluit Vlaamse Codex Wonen van 2021".
+
+### ART 16.
+
+In artikel 32 van bijlage 1, bij hetzelfde ministerieel besluit wordt de zinsnede "artikel 37, § 1, van het Besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel" vervangen door de zinsnede "artikel 6.61, § 1, van het Besluit Vlaamse Codex Wonen van 2021".
+
 ### ART 17.
 
 Bijlage 2 bij hetzelfde besluit wordt vervangen door de bijlage die bij dit besluit is gevoegd.
+
+### ART 18.
+
+Artikel 1, 2, 3, 4, 5, 6, 2°, artikel 9, 10, 13, 15 en 16 treden in werking op 1 januari 2021. Artikel 11 en 17 treden in werking op 31 december 2020.
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/12/22_1.pdf#page=268">Bijlage</a>
