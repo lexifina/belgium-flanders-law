@@ -264,7 +264,9 @@ In afwijking van het eerste lid, draagt het begrotingsfonds met ingang van 1 apr
 <br>
 § 4. Het fonds wordt aangewend ter financiering van :<br>
 1° de specifieke werkingskosten in verband met Onderwijscommunicatie, Klasse, Klascement en met inbegrip van projecten met Vlaamse, Europese of (inter)nationale (co)financiering;<br>
-2° alle personeels- en werkingskosten die voortvloeien uit projecten met Vlaamse, Europese en/of (inter)nationale (co)financiering.<br>
+2° alle personeels- en werkingskosten die voortvloeien uit projecten met Vlaamse, Europese en/of (inter)nationale (co)financiering;<br>
+3° projecten in het kader van klimaat;<br>
+4° uitgaven in het kader van risicomanagement.<br>
 <br>
 § 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.</p>
 
