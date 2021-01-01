@@ -149,6 +149,33 @@ Wanneer een private uitbetalingsactor de door het agentschap opgelegde rechtzett
 
 ## HOOFDSTUK 3. Criteria voor een goede werking
 
+### ART 14.
+
+De criteria om de goede werking van de private uitbetalingsactoren te kunnen garanderen, vermeld in artikel 30/4 van het decreet van 7 juli 2017, hebben betrekking op:<br>
+1° de naleving van de decretale en reglementaire bepalingen en administratieve richtlijnen over de toelagen in het kader van het gezinsbeleid, zowel op technisch, financieel als op boekhoudkundig vlak, de snelheid waarmee aan de vastgestelde tekortkomingen verholpen wordt en de mate waarin een automatische rechtentoekenning kan gerealiseerd worden;<br>
+2° de nauwkeurigheid inzake de financiering van de betalingsverrichtingen, zoals blijkt uit:<br>
+a) de naleving van de betaaldagen;<br>
+b) de tijdige en correcte boeking van de ten onrechte uitbetaalde toelagen in het kader van het gezinsbeleid;<br>
+c) de omvang van de debetten in het algemeen en van deze die het gevolg zijn van fouten van de private uitbetalingsactoren, in het bijzonder;<br>
+d) de snelheid waarmee de debetten teruggevorderd worden;<br>
+e) de bedragen die als gevolg van verjaring niet meer konden gerecupereerd worden en definitief moeten worden afgeboekt.<br>
+3° de naleving van de termijnen voor de indiening van de administratieve, boekhoudkundige, financiële en statistische documenten en de correctheid van deze stukken, evenals de stipte en foutloze bijwerking van de gegevens vervat in de groeipakket-applicatie voor de verwerking van de gegevens, bijgehouden door het agentschap;<br>
+4° de resultaten van de audits, uitgevoerd door het auditcomité als vermeld in artikel 14 van het decreet van 7 juli 2017 en van het attest en de verslaggeving van de commissaris-revisor, opgemaakt ter uitvoering van artikel 27, 16°, van het decreet van 7 juli 2017;<br>
+5° de initiatieven om de gezinnen te informeren over de toelagen in het kader van het gezinsbeleid in het algemeen en hun rechten op deze toelagen in het bijzonder, zoals via de uitbouw van de samenwerking met de Huizen van het Kind;<br>
+6° de correcte integratie van de actoren van het recht op toelagen in het kader van het gezinsbeleid in het kadaster.<br>
+<br>
+Het gewicht van de criteria voor de goede werking, vermeld in het eerste lid, wordt bepaald door de volgende wegingscoëfficiënten:<br>
+1° het criterium, vermeld in het eerste lid, 1° : 50 %;<br>
+2° het criterium, vermeld in het eerste lid, 2° : 20 %;<br>
+3° het criterium, vermeld in het eerste lid, 3° : 7,5 %;<br>
+4° het criterium, vermeld in het eerste lid, 4° : 15 %;<br>
+5° het criterium, vermeld in het eerste lid, 5° : 5 %;<br>
+6° het criterium, vermeld in het eerste lid, 6° : 2,5 %.<br>
+<br>
+De criteria voor een goede werking, vermeld in het eerste lid en de daaraan toegekende wegingscoëfficiënten, vermeld in het tweede lid, kunnen door de Vlaamse Regering, op basis van de evaluatie vermeld in artikel 30/4 van het decreet van 7 juli 2017, aangepast, vervangen of aangevuld worden.<br>
+<br>
+Het agentschap stelt praktische en technische richtlijnen vast met betrekking tot de toepassing van de criteria, vermeld in het eerste lid en monitort en controleert de naleving ervan.
+
 ## HOOFDSTUK 4. Slotbepalingen
 
 ### ART 15.
