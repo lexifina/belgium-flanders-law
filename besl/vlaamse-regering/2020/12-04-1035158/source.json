@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035158,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-04 tot wijziging van artikel 33, 34 en bijlage 1 van het besluit van de Vlaamse regering van 6 juli 1999 betreffende een geïntegreerde economische boekhouding en budgettaire rapportering voor de scholengroepen en het centrale niveau van het gemeenschapsonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035158/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "01561398a9d6a6a6736fe8455fda250b32d920ff650b139c36ccc564a33686b4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035158&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2020-12-04",
+  "gazette": "2021-02-02",
+  "numac": 2021020208,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
