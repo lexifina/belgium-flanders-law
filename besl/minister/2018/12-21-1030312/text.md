@@ -24,7 +24,7 @@ Besluit :
 
 ### ART 1.
 
-Met het oog op de rapporteringen, vermeld in artikel 16 van het besluit van de Vlaamse Regering van 20 juli 2012 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren, registreren de sociale verhuurkantoren de verrichtingen volgens een bijkomende indeling van het rekeningstelsel opgenomen in de bijlagen die bij dit ministerieel besluit zijn gevoegd.<br>
+Met het oog op de rapporteringen, vermeld in artikel 4.178 van het Besluit Vlaamse Codex Wonen van 2021, registreren de sociale verhuurkantoren de verrichtingen volgens een bijkomende indeling van het rekeningstelsel opgenomen in de bijlagen die bij dit ministerieel besluit zijn gevoegd.<br>
 <br>
 De verenigingen zonder winstoogmerk volgen de verdere opdeling zoals voorzien in bijlage 1.<br>
 <br>
@@ -50,8 +50,12 @@ Dit besluit treedt in werking op de dag van de bekendmaking in het Belgisch Staa
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/04/20_1.pdf#page=344">Bijlage 1 </a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/04/20_1.pdf#page=344">Bijkomende rekeningen voor de SVK-vzw's als vermeld in artikel 1</a><br>
+<br>
+Bij artikel 60 van het MB van 3 december 2020, I: 1 januari 2021 werd het opschrift als volgt veranderd: "Bijlage 1. Bijkomende rekeningen voor de SVK-vzw's als vermeld in artikel 1".
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/04/20_1.pdf#page=351">Bijlage 2</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/04/20_1.pdf#page=351">Bijlage 2. Bijkomende rekeningen voor de SVK-OCMW-verenigingen, SVK-welzijnsverenigingen of SVK's die opgericht zijn bij een gemeente of OCMW als vermeld in artikel 1</a><br>
+<br>
+Bij MB van 3 december 2020, werd het opschrift van bijlage 2 als volgt gewijzigd met ingang van 1 januari 2021: "Bijlage 2. Bijkomende rekeningen voor de SVK-OCMW-verenigingen, SVK-welzijnsverenigingen of SVK's die opgericht zijn bij een gemeente of OCMW als vermeld in artikel 1".
