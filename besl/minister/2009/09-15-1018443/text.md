@@ -10,7 +10,29 @@ Dit besluit is van toepassing op : <br />1° installaties met een nominaal totaa
 
 ### ART. 2.
 
-Het verwarmingsauditrapport wordt gegenereerd door de software die door het Vlaams Energieagentschap wordt aangeboden. Het verwarmingsauditrapport bevat volgende onderdelen : <br />1° de administratieve gegevens van het gebouw : <br />a) de naam van het gebouw; <br />b) de ligging; <br />c) de contactpersoon; <br />2° de kenmerken van het gebouw : <br />a) het activiteitsdomein;<br />b) het aantal m2 verwarmde oppervlakte;<br />c) de actuele brandstof in de stookplaats;<br />d) het verbruik actuele brandstof;<br />e) het totaal energieverbruik;<br />f) het genormaliseerd energieverbruik;<br />3° de huidige situatie van de verwarmingsinstallatie : <br />a) het type ketel(s);<br />b) het nominaal vermogen;<br />c) het seizoensrendement;<br />d) de factor seizoensbelasting;<br />4° de aanbevelingen betreffende de verwarmingsinstallatie;<br />5° de algemene gegevens : <br />a) de identificatiegegevens van de uitvoerder van de verwarmingsaudit;<br />b) de datum van het rapport;<br />c) de handtekening van de uitvoerder.<br /><br />
+Het verwarmingsauditrapport wordt gegenereerd door de software die door het VEKA wordt aangeboden. Het verwarmingsauditrapport bevat volgende onderdelen :<br>
+1° de administratieve gegevens van het gebouw :<br>
+a) de naam van het gebouw;<br>
+b) de ligging;<br>
+c) de contactpersoon;<br>
+2° de kenmerken van het gebouw :<br>
+a) het activiteitsdomein;<br>
+b) het aantal m2 verwarmde oppervlakte;<br>
+c) de actuele brandstof in de stookplaats;<br>
+d) het verbruik actuele brandstof;<br>
+e) het totaal energieverbruik;<br>
+f) het genormaliseerd energieverbruik;<br>
+3° de huidige situatie van de verwarmingsinstallatie :<br>
+a) het type ketel(s);<br>
+b) het nominaal vermogen;<br>
+c) het seizoensrendement;<br>
+d) de factor seizoensbelasting;<br>
+4° de aanbevelingen betreffende de verwarmingsinstallatie;<br>
+5° de algemene gegevens :<br>
+a) de identificatiegegevens van de uitvoerder van de verwarmingsaudit;<br>
+b) de datum van het rapport;<br>
+c) de handtekening van de uitvoerder.<br>
+&nbsp;
 
 ### ART. 3.
 
