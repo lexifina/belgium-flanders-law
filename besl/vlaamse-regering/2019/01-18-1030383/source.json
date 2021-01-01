@@ -2,16 +2,16 @@
   "codex_id": 1030383,
   "title": "Besluit van de Vlaamse Regering van 2019-01-18 tot vaststelling van de lijst van de gemeenten, vermeld in [artikel 5.78, eerste lid, van de Vlaamse Codex Wonen van 2021 (verv. BVR 17 juli 2020, art. 86, I: 1 januari 2021)], in het kader van de voortgangstoets van 2018",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030383/VolledigDocument?datum=2019-03-21",
-  "source_sha256": "13b398a6c9db121b7ac52b2cb6b4d33e1d8f2802f40b6e09fd2e7035c58d3f64",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030383/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "f8f38413595fb33b238066828f24ec32508503a7dc53c6ebaf6eb38390c9cfcc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030383&param=informatie",
-  "as_of": "2019-03-21",
+  "as_of": "2021-01-01",
   "made": "2019-01-18",
   "gazette": "2019-03-11",
   "numac": 2019011041,
   "document_start": "2019-03-21",
   "document_end": null,
-  "in_force": "2019-03-21",
+  "in_force": "2021-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2019-03-21; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }

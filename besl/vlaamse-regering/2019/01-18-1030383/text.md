@@ -16,7 +16,7 @@ Besluit :
 
 ### ART 1.
 
-Met toepassing van artikel 85, § 5, tweede lid, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode wordt de volgende lijst van gemeenten vastgesteld :<br>
+Met toepassing van artikel 5.78, tweede lid, van de Vlaamse Codex Wonen van 2021 wordt de volgende lijst van gemeenten vastgesteld :<br>
 1° Antwerpen;<br>
 2° Baarle-Hertog;<br>
 3° Boom;<br>
