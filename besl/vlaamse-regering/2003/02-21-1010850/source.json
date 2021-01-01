@@ -2,16 +2,16 @@
   "codex_id": 1010850,
   "title": "Besluit van de Vlaamse Regering van 2003-02-21 houdende vaststelling van de loopbaanstructuur en van de salarisschalen van het administratief en technisch personeel van de hogescholen in de Vlaamse Gemeenschap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010850/VolledigDocument?datum=2018-09-01",
-  "source_sha256": "33ce2334f41ea8bc2bae14f55204c268f95595e47a0075f6e4dbed10e420f185",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010850/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "edab5b9646345534f137c7295f9002e1c0a86d7e8ab0d1cc4a9acb2b3b4ccf04",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010850&param=informatie",
-  "as_of": "2018-09-01",
+  "as_of": "2021-01-01",
   "made": "2003-02-21",
   "gazette": "2003-04-28",
   "numac": 2003035363,
   "document_start": "2003-01-01",
   "document_end": null,
-  "in_force": "2018-09-01",
+  "in_force": "2021-01-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
