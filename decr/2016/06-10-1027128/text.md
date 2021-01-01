@@ -9,21 +9,116 @@
 
 ### ART 2.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In dit decreet wordt verstaan onder:</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° agentschap: het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen";</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° alternerende opleiding: elke opleiding van het voltijds secundair onderwijs en van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4, die door de Vlaamse Regering als duaal wordt aangeduid en elke opleiding in het deeltijds beroepssecundair onderwijs en in de leertijd. In dergelijke opleiding worden contactonderwijs bij een opleidingsverstrekker en opleiding op de werkplek gecombineerd. Beide componenten beogen samen de uitvoering van één enkel opleidingsplan en zijn daarom inhoudelijk en organisatorisch op elkaar afgestemd;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° mentor: de persoon die binnen de onderneming aangeduid wordt om de leerling op de werkplek op te leiden en te begeleiden;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° onderneming: elke natuurlijke persoon, privaatrechtelijke of publiekrechtelijke rechtspersoon die een leerling opleidt met een overeenkomst tot uitvoering van een alternerende opleiding;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° opleidingsplan: een plan dat het individuele leertraject van de leerling bevat;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">6° opleidingsverstrekker: een opleidings- of onderwijsinstelling die erkend is door de Vlaamse Gemeenschap;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">7° sectoraal partnerschap: het orgaan, vermeld in artikel 17 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen";</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">8° trajectbegeleider: het gemandateerde personeelslid van een aanbieder duaal leren, dat belast is met de opvolging en begeleiding van de leerling met het oog op de volledige realisatie van het opleidingsplan;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">9° trajectbegeleiding: een continu proces van begeleiding en opvolging van de persoonlijke ontwikkeling en de vorming van de leerling zowel tijdens het onderwijs op school als in het centrum, als tijdens de opleiding op de werkplek;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">10° Vlaams Partnerschap Duaal Leren: het orgaan, vermeld in artikel 13 tot en met 18 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen";</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">11° werkplek: een reële werkplek of een gesimuleerde werkplek buiten de school. Gesimuleerde werkplekken komen enkel in aanmerking voor zover ze eigen zijn aan de sector of de onderneming en ook door werknemers binnen een sector of onderneming gebruikt dienen te worden.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">In dit decreet wordt verstaan onder:</span><br>
+1° Agentschap voor Onderwijsdiensten: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht bij het besluit van de Vlaamse Regering van 2 september 2005 tot oprichting van het intern verzelfstandigd agentschap Agentschap voor Onderwijsdiensten<span style="color:#000000; font-family:times new roman; font-size:medium">;</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">2° alternerende opleiding: elke opleiding van het voltijds secundair onderwijs en van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4, die door de Vlaamse Regering als duaal wordt aangeduid en elke opleiding in het deeltijds beroepssecundair onderwijs en in de leertijd. In dergelijke opleiding worden contactonderwijs bij een opleidingsverstrekker en opleiding op de werkplek gecombineerd. Beide componenten beogen samen de uitvoering van één enkel opleidingsplan en zijn daarom inhoudelijk en organisatorisch op elkaar afgestemd;</span><br>
+2° bis Departement Onderwijs en Vorming: het departement, vermeld in artikel 22, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° ter Departement Werk en Sociale Economie: het departement, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">3° mentor: de persoon die binnen de onderneming aangeduid wordt om de leerling op de werkplek op te leiden en te begeleiden;</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">4° onderneming: elke natuurlijke persoon, privaatrechtelijke of publiekrechtelijke rechtspersoon die een leerling opleidt met een overeenkomst tot uitvoering van een alternerende opleiding;</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">5° opleidingsplan: een plan dat het individuele leertraject van de leerling bevat;</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">6° opleidingsverstrekker: een opleidings- of onderwijsinstelling die erkend is door de Vlaamse Gemeenschap;</span><br>
+7° sectoraal partnerschap: het orgaan, vermeld in artikel 2sexies<span style="color:#000000; font-family:times new roman; font-size:medium">;</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">8° trajectbegeleider: het gemandateerde personeelslid van een aanbieder duaal leren, dat belast is met de opvolging en begeleiding van de leerling met het oog op de volledige realisatie van het opleidingsplan;</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">9° trajectbegeleiding: een continu proces van begeleiding en opvolging van de persoonlijke ontwikkeling en de vorming van de leerling zowel tijdens het onderwijs op school als in het centrum, als tijdens de opleiding op de werkplek;</span><br>
+10° Vlaams Partnerschap Duaal Leren: het orgaan, vermeld in artikel 2bis<span style="color:#000000; font-family:times new roman; font-size:medium">;</span><br>
+10° bis Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding: het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">11° werkplek: een reële werkplek of een gesimuleerde werkplek buiten de school. Gesimuleerde werkplekken komen enkel in aanmerking voor zover ze eigen zijn aan de sector of de onderneming en ook door werknemers binnen een sector of onderneming gebruikt dienen te worden.</span><br>
 &nbsp;
 
 ## HOOFDSTUK 2 Algemene bepalingen
+
+### ART 2bis.
+
+§ 1. De Vlaamse Regering richt een Vlaams Partnerschap Duaal Leren op.<br>
+<br>
+§ 2. Het Vlaams Partnerschap Duaal Leren is samengesteld uit de volgende leden:<br>
+1° een voorzitter;<br>
+2° vier effectieve en vier plaatsvervangende leden, voorgedragen door de representatieve middenstands-, zelfstandigen- en werkgeversorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
+3° vier effectieve en vier plaatsvervangende leden, voorgedragen door de representatieve werknemersorganisaties vertegenwoordigd in de Sociaal- Economische Raad van Vlaanderen;<br>
+4° een vertegenwoordiger van het Gemeenschapsonderwijs;<br>
+5° een vertegenwoordiger van elke representatieve vereniging van schoolbesturen van het gesubsidieerd onderwijs;<br>
+6° een vertegenwoordiger van de erkende centra voor de vorming van zelfstandigen en kmo;<br>
+7° een vertegenwoordiger van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
+8° een vertegenwoordiger van het Agentschap voor Onderwijsdiensten;<br>
+9° een vertegenwoordiger van het Departement Onderwijs en Vorming;<br>
+10° een vertegenwoordiger van het Departement Werk en Sociale Economie;<br>
+11° een vertegenwoordiger van het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties &amp; Studietoelagen.<br>
+<br>
+In het eerste lid wordt onder het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties &amp; Studietoelagen verstaan: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht bij het besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen.<br>
+<br>
+Het secretariaat wordt opgenomen door het Departement Werk en Sociale Economie en het Departement Onderwijs en Vorming.<br>
+<br>
+De Vlaamse Regering regelt op voorstel van de Vlaamse minister, bevoegd voor het werk, en de Vlaamse minister, bevoegd voor het onderwijs, de werking van het secretariaat.<br>
+<br>
+De instanties, vermeld in het eerste lid, 4° tot en met 11°, duiden een effectieve en een plaatsvervangende vertegenwoordiger aan.<br>
+<br>
+Met uitzondering van de voorzitter hebben alle leden, vermeld in het eerste lid, stemrecht.<br>
+<br>
+§ 3. Het Vlaams Partnerschap Duaal Leren heeft de volgende opdrachten:<br>
+1° een onderneming erkennen of een erkenning opheffen;<br>
+2° een onderneming uitsluiten;<br>
+3° de uitvoering van de overeenkomst tot uitvoering van een alternerende opleiding wat betreft de opleiding op de werkplek controleren;<br>
+4° een jaarlijks monitoringsrapport opmaken over de stand van zaken van het duaal leren in Vlaanderen;<br>
+5° de nodige acties nemen om de ondernemingen te informeren over het duaal leren in Vlaanderen;<br>
+6° ondernemingen ondersteunen en mobiliseren om het aanbod aan werkplekken kwantitatief en kwalitatief te versterken;<br>
+7° advies verlenen over materies die het duaal leren aanbelangen.<br>
+<br>
+Het Vlaams Partnerschap Duaal Leren kan de uitvoering van de opdrachten, vermeld in het eerste lid, toevertrouwen aan een door de Vlaamse Regering aangewezen dienst. De Vlaamse Regering legt de nadere regels voor die opdrachtbepaling vast.<br>
+<br>
+§ 4. Het Vlaams Partnerschap Duaal Leren stelt een huishoudelijk reglement op dat minstens de volgende inhoud heeft:<br>
+1° de regels voor de bijeenroeping van het Vlaams Partnerschap Duaal Leren;<br>
+2° de regels voor het voorzitterschap van het Vlaams Partnerschap Duaal Leren bij afwezigheid van de voorzitter;<br>
+3° de regels voor de samenwerking tussen het Vlaams Partnerschap Duaal Leren en de sectorale partnerschappen;<br>
+4° de regels die het Vlaams Partnerschap Duaal Leren in acht moet nemen bij de uitoefening van zijn bevoegdheden;<br>
+5° de regels voor het uitnodigen van experten voor de toelichting van bepaalde agendapunten.<br>
+<br>
+Het Vlaams Partnerschap Duaal Leren legt zijn huishoudelijk reglement ter goedkeuring voor aan de Vlaamse Regering, die binnen dertig dagen nadat ze het huishoudelijk reglement heeft ontvangen, beslist om het huishoudelijk reglement al of niet goed te keuren.<br>
+<br>
+Als de Vlaamse Regering beslist het huishoudelijk reglement van het Vlaams Partnerschap Duaal Leren niet goed te keuren, verricht het Vlaams Partnerschap Duaal Leren de nodige aanpassingen en legt het huishoudelijk reglement opnieuw ter goedkeuring voor aan de Vlaamse Regering. De Vlaamse Regering beslist binnen veertien dagen nadat ze het huishoudelijk reglement heeft ontvangen, om het huishoudelijk reglement al of niet goed te keuren.<br>
+<br>
+De procedure bepaald in het tweede en derde lid is ook van toepassing als het huishoudelijk reglement wordt gewijzigd.
+
+### ART 2ter.
+
+Op voordracht van de stemgerechtigde leden van het Vlaams Partnerschap Duaal Leren benoemt de Vlaamse Regering de voorzitter van het Vlaams Partnerschap Duaal Leren.
+
+### ART 2quater.
+
+De Vlaamse Regering stelt de voorzitter en de leden van het Vlaams Partnerschap Duaal Leren, vermeld in artikel 2bis, § 2, eerste lid, 2° en 3°, aan voor een hernieuwbare periode van vijf jaar.<br>
+<br>
+Als in de loop van de termijn, vermeld in het eerste lid, een mandaat vrijkomt, stelt de Vlaamse Regering, op voordracht van de organisatie in kwestie, een nieuwe mandataris aan die het mandaat overneemt voor de nog resterende looptijd ervan.
+
+### ART 2quinquies.
+
+De Vlaamse Regering kan een vergoeding toekennen aan de leden van het Vlaams Partnerschap Duaal Leren.
+
+### ART 2sexies.
+
+Het Vlaams Partnerschap Duaal Leren kan voor de uitvoering van zijn opdrachten met betrekking tot de overeenkomsten tot uitvoering van de alternerende opleiding een samenwerkingsakkoord sluiten met een sectoraal partnerschap. Het samenwerkingsakkoord bepaalt de opdrachten van het sectoraal partnerschap.<br>
+<br>
+Het sectoraal partnerschap is samengesteld uit de volgende leden:<br>
+1° minstens drie vertegenwoordigers van de representatieve middenstands-, zelfstandigenen werkgeversorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
+2° minstens drie vertegenwoordigers van de representatieve werknemersorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
+3° een vertegenwoordiger van het Gemeenschapsonderwijs;<br>
+4° een vertegenwoordiger van elke representatieve vereniging van schoolbesturen van het gesubsidieerd onderwijs;<br>
+5° een vertegenwoordiger van de erkende centra voor de vorming van zelfstandigen en kmo;<br>
+6° een vertegenwoordiger van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
+7° een vertegenwoordiger van het Departement Onderwijs en Vorming;<br>
+8° een vertegenwoordiger van het Departement Werk en Sociale Economie;<br>
+9° een secretaris, personeelslid van het Departement Werk en Sociale Economie.<br>
+<br>
+In afwijking van het tweede lid, 1° en 2°, wordt het sectoraal partnerschap in sectoren zonder representatieve werkgevers en werknemersorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen, samengesteld uit minstens drie vertegenwoordigers van de werkgeversorganisaties en minstens drie vertegenwoordigers van de werknemersorganisaties vertegenwoordigd in de raad van bestuur van het sectorfonds van de betrokken sector.<br>
+<br>
+De instanties, vermeld in het tweede lid, duiden hun effectieve en plaatsvervangende vertegenwoordiger(s) aan.<br>
+<br>
+De leden, vermeld in het tweede lid, kiezen onder elkaar een voorzitter en een ondervoorzitter, die niet tot dezelfde geleding behoren.<br>
+<br>
+Met uitzondering van de secretaris hebben alle leden stemrecht.<br>
+<br>
+Als het samenwerkingsakkoord met het Vlaams Partnerschap Duaal Leren ook de bevoegdheden, vermeld in artikel 2bis, § 3, eerste lid, 1°, 2° en 3°, omvat, hebben, in afwijking van het zesde lid, voor die bevoegdheden alleen de leden, vermeld in het tweede lid, 1° en 2°, stemrecht.<br>
+<br>
+Het sectoraal partnerschap stelt een huishoudelijk reglement op.
 
 ### ART 3.
 
@@ -117,12 +212,7 @@ c) een mentoropleiding moet volgen;</span><br>
 
 ### ART 8.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het Vlaams Partnerschap Duaal Leren kan voor de uitvoering van zijn opdrachten betreffende de overeenkomsten tot uitvoering van de alternerende opleiding een samenwerkingsakkoord sluiten met een sectoraal partnerschap.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het samenwerkingsakkoord bepaalt de opleidingen waarop de samenwerking slaat.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het Vlaams Partnerschap Duaal Leren kan voor de uitvoering van zijn opdrachten in het kader van de overeenkomsten tot uitvoering van de alternerende opleiding waarvoor geen samenwerkingsakkoord met een sector is gesloten, een delegatie van bevoegdheid verlenen aan personeelsleden van het agentschap.</span><br>
-&nbsp;
+<span style="color:#000000; font-family:times new roman; font-size:medium">...</span>
 
 ## HOOFDSTUK 3 De overeenkomst van alternerende opleiding
 
@@ -369,9 +459,9 @@ In afwijking van artikel 18, tweede lid, is de onderneming in de volgende gevall
 
 ### ART 30.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Onverminderd de vigerende decretale en reglementaire bepalingen met betrekking tot het toezicht in het onderwijs, met inbegrip van de leertijd door de onderwijsinspectie en de bevoegde onderwijsadministratie, wordt het toezicht op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan uitgeoefend door het agentschap.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">Onverminderd de vigerende decretale en reglementaire bepalingen met betrekking tot het toezicht in het onderwijs, met inbegrip van de leertijd door de onderwijsinspectie en de bevoegde onderwijsadministratie, wordt het toezicht op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan uitgeoefend door het </span>Departement Werk en Sociale Economie<span style="color:#000000; font-family:times new roman; font-size:medium">.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap stelt voor de uitoefening van het toezicht een werkingscode op en maakt die bekend bij degenen bij wie toezicht wordt uitgeoefend.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">Het </span>Departement Werk en Sociale Economie<span style="color:#000000; font-family:times new roman; font-size:medium"> stelt voor de uitoefening van het toezicht een werkingscode op en maakt die bekend bij degenen bij wie toezicht wordt uitgeoefend.</span><br>
 &nbsp;
 
 ## HOOFDSTUK 5bis Bepalingen over gegevensverwerking
