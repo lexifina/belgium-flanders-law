@@ -65,7 +65,7 @@ b) 35 euro per warmte-krachtcertificaat voor de berekening van de bandingfactor 
 20° brandstofleveranciers : elke natuurlijke persoon of rechtspersoon die aan afnemers aardgas, stookolie, steenkool, methaan, butaan en propaan levert;<br>
 21° ...<br>
 22° bruto binnenlands energieverbruik : het primaire energieverbruik verminderd met de geleverde energie aan de internationale lucht- en scheepvaartbunkers;<br>
-22/1° B<sub><span style="font-size: small;">tot</span></sub>: de totale bandingcoëfficiënt, dat is de verhouding tussen het aantal toegekende, voor de certificatenverplichting aanvaardbare groenestroomcertificaten in kalenderjaar n-2 en de totale brutoproductie van groene stroom in het Vlaamse Gewest in datzelfde kalenderjaar zoals te rapporteren in het kader van de richtlijn 2009/28/EG en volgens de daarin vastgelegde berekeningsmethode;<br>
+22/1° B<sub><span style="font-size:small">tot</span></sub>: de totale bandingcoëfficiënt, dat is de verhouding tussen het aantal toegekende, voor de certificatenverplichting aanvaardbare groenestroomcertificaten in kalenderjaar n-2 en de totale brutoproductie van groene stroom in het Vlaamse Gewest in datzelfde kalenderjaar zoals te rapporteren in het kader van de richtlijn 2009/28/EG en volgens de daarin vastgelegde berekeningsmethode;<br>
 23° budgetmeter : een budgetmeter voor elektriciteit of een budgetmeter voor aardgas;<br>
 24° budgetmeter voor aardgas: aardgasmeter met hulpkrediet die toelaat te werken via een systeem van voorafbetaling in het kader van een aan de netbeheerder opgelegde openbaredienstverplichting inzake de bescherming van huishoudelijke afnemers bij wanbetaling;<br>
 25° budgetmeter voor elektriciteit: elektriciteitsmeter met begrenzer en hulpkrediet die toelaat te werken via een systeem van voorafbetaling in het kader van een aan de netbeheerder opgelegde openbaredienstverplichting inzake de bescherming van huishoudelijke afnemers bij wanbetaling;<br>
@@ -168,6 +168,7 @@ c) beantwoorden aan het zelfstandigheidscriterium;<br>
 a) de laagste kosten worden bepaald aan de hand van de energiegerelateerde investeringskosten, de onderhouds- en bedrijfskosten (met inbegrip van energiekosten en -besparingen, de betrokken gebouwencategorie, inkomsten van geproduceerde energie), waar van toepassing en verwijderingskosten, waar van toepassing;<br>
 b) de resterende geraamde economische levensduur van een gebouw, waarbij de energieprestatie-eisen voor het gebouw in zijn geheel worden vastgesteld, hetzij op de geraamde economische levensduur van een onderdeel van een gebouw, waarbij de energieprestatie-eisen voor afzonderlijke onderdelen van gebouwen worden vastgesteld;<br>
 en dat binnen het scala van prestatieniveaus ligt waar de berekende kosten-batenanalyse over de geraamde economische levensduur positief is;<br>
+75° /3 kredietgever: de natuurlijke persoon of rechtspersoon, vermeld in artikel I.9, 34°, van het Wetboek van Economisch Recht;<br>
 76° kwalitatieve warmte-krachtinstallatie: warmte-krachtinstallatie waarvan het productieproces voldoet aan de kwaliteitsvoorwaarden die opgelegd zijn overeenkomstig artikel 7.1.2, § 4;<br>
 77° kwalitatieve warmte-krachtkoppeling: warmte-krachtkoppeling die voldoet aan de kwaliteitsvereisten, opgelegd overeenkomstig artikel 7.1.2, § 4;<br>
 77° /1 laagspanning: een nominaal spanningsniveau van 1000 volt of lager;<br>
@@ -282,13 +283,14 @@ c) er zijn voor installaties op basis van zonne-energie minstens twaalf maanden 
 125° transmissienet : het transmissienet, vermeld in artikel 2, 7°, van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt;<br>
 126° tussenpersoon : elke natuurlijke persoon of rechtspersoon die elektriciteit of aardgas koopt met het oog op de doorverkoop aan een andere tussenpersoon of leverancier;<br>
 126/1° uitbating volgens de regels van de kunst : een uitbating overeenkomstig het « goede-huisvader »-beginsel en waarbij bovendien het potentieel aan energie-opwekking of energie-besparing ten aanzien van het vermogen van de installatie niet significant wordt onderbenut voor langdurige periodes door de expliciete of impliciete wil van de exploitant en/of eigenaar, en waarbij louter contractuele en/of commerciële overwegingen niet kunnen gelden als verschoning voor een langdurige onderbenutting van het potentieel van deze installatie. Kortdurende onderbenutting met het oog op een betere afstemming van elektriciteitsproductie en marktvraag of met het oog op een ondersteuning van het netbeheer beantwoordt wel aan het « goede-huisvader »-beginsel;<br>
+126° /1/1 VEKA: het agentschap, vermeld in titel II van het Energiebesluit van 19 november 2010;<br>
 126/2° vergunningverlenend bestuursorgaan : het bestuursorgaan dat de omgevingsvergunning voor stedenbouwkundige handelingen aflevert;<br>
 126° /3 verordening 2016/631/EU: verordening 2016/631/EU van de Commissie van 14 april 2016 tot vaststelling van een netcode betreffende eisen voor de aansluiting van elektriciteitsproducenten op het net;<br>
 126° /4 verordening 2016/1388/EU: verordening 2016/1388/EU van de Commissie van 17 augustus 2016 tot vaststelling van een netcode voor aansluiting van verbruikers;<br>
 127° verslaggever: de natuurlijke persoon of de rechtspersoon die in het kader van de energieprestatieregelgeving energieadvies aan de aangifteplichtige verstrekt en die instaat voor de decretaal verplichte rapporteringen, vermeld in titel XI, hoofdstuk I;<br>
 128° vervoersnet : het vervoersnet, vermeld in artikel 1, 10°, van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen;<br>
 129° vervoeronderneming : vervoeronderneming, vermeld in artikel 1, 9°, van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen;<br>
-130° Vlaams Energieagentschap : het agentschap dat opgericht werd door het besluit van de Vlaamse Regering van 16 april 2004 tot oprichting van het intern verzelfstandigd agentschap, het Vlaamse Energieagentschap, vervangen door het Energiebesluit van 19 november 2010;<br>
+130° ...;<br>
 131° Vlaamse Belastingdienst: het agentschap dat opgericht werd door het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het agentschap Vlaamse Belastingdienst;<br>
 131°/1 vloeibare biomassa : vloeibare brandstof voor energiedoeleinden andere dan vervoer, waaronder elektriciteit, verwarming en koeling, die geproduceerd is uit biomassa;<br>
 131/2° vollasturen :<br>
@@ -1787,7 +1789,7 @@ De kosten die de warmte- of koudenetbeheerder heeft verricht om de energiefraude
 
 ### ART 5.1.4.
 
-De netbeheerders en de warmte- of koudenetbeheerders mogen de gegevens waarover ze voor de uitoefening van hun taken, vermeld in artikel 4.1.6 of artikel 4/1.1.1, beschikken, of de gegevens die voor hen hiertoe toegankelijk zijn of worden gemaakt door het Vlaams Energieagentschap, de VREG, de toegangshouders en leveranciers of gegevens uit het Rijksregister, de Kruispuntbank Sociale Zekerheid of de Kruispuntbank voor de Ondernemingen, gebruiken om energiefraude te detecteren en vast te stellen via technieken als datamining of profilering.<br>
+De netbeheerders en de warmte- of koudenetbeheerders mogen de gegevens waarover ze voor de uitoefening van hun taken, vermeld in artikel 4.1.6 of artikel 4/1.1.1, beschikken, of de gegevens die voor hen hiertoe toegankelijk zijn of worden gemaakt door het VEKA, de VREG, de toegangshouders en leveranciers of gegevens uit het Rijksregister, de Kruispuntbank Sociale Zekerheid of de Kruispuntbank voor de Ondernemingen, gebruiken om energiefraude te detecteren en vast te stellen via technieken als datamining of profilering.<br>
 <br>
 De netbeheerders en de warmte- of koudenetbeheerders die gebruikmaken van technieken als datamining of profilering om energiefraude te detecteren en vast te stellen hanteren proportionele en relevante criteria, die periodiek kunnen variëren, en die ervoor zorgen dat de te verwerken persoonsgegevens zo beperkt mogelijk maar tegelijk relevant zijn om fraudetypologieën te detecteren. De Vlaamse Regering kan nadere regels uitvaardigen met betrekking tot de te hanteren criteria.<br>
 <br>
@@ -1886,7 +1888,7 @@ Alle kosten die verbonden zijn aan de opzegging van het leveringscontract van ee
 <br>
 Een productie-installatie met startdatum voor 1 januari 2013 krijgt enkel groenestroomcertificaten gedurende de periode van tien jaar. Indien de installatie in aanmerking komt voor de minimumsteun, vermeld in artikel 7.1.6, en die periode langer is dan tien jaar, krijgt de installatie groenestroomcertificaten gedurende de periode dat de installatie in aanmerking komt voor de minimumsteun.<br>
 <br>
-In afwijking van het tweede lid kan de eigenaar van een productie-installatie of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen, aan het Vlaams Energieagentschap een verlenging van de steunperiode, vermeld in het tweede lid, aanvragen voor de periode die nodig is om het aantal groenestroomcertificaten te ontvangen dat overeenkomt met het aantal groenestroomcertificaten, toe te kennen volgens het aantal vollasturen dat voor de betreffende projectcategorie en overeenstemmend met het initieel geïnstalleerde nominaal vermogen uit hernieuwbare energiebronnen werd gehanteerd, voor zover :<br>
+In afwijking van het tweede lid kan de eigenaar van een productie-installatie of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen, aan het VEKA een verlenging van de steunperiode, vermeld in het tweede lid, aanvragen voor de periode die nodig is om het aantal groenestroomcertificaten te ontvangen dat overeenkomt met het aantal groenestroomcertificaten, toe te kennen volgens het aantal vollasturen dat voor de betreffende projectcategorie en overeenstemmend met het initieel geïnstalleerde nominaal vermogen uit hernieuwbare energiebronnen werd gehanteerd, voor zover:<br>
 1° de installatie werd geïnstalleerd en uitgebaat volgens de regels van de kunst;<br>
 2° de opwekking van groene stroom niet gebeurt op basis van zonne-energie;<br>
 3° het aantal al ontvangen groenestroomcertificaten minstens 5 % ligt onder het aantal groenestroomcertificaten dat overeenkomt met het aantal vollasturen dat voor de betreffende projectcategorie en overeenstemmend met het initieel geïnstalleerde nominaal vermogen uit hernieuwbare energiebronnen werd gehanteerd.<br>
@@ -1898,7 +1900,7 @@ c) uitsluitend essentiële componenten betreft met het oog op groenestroomproduc
 <br>
 Het aantal groenestroomcertificaten dat gedurende de periode, vermeld in het vierde lid, voor elke 1 000 kWh elektriciteit die wordt opgewekt uit hernieuwbare energiebronnen in installaties met startdatum voor 1 januari 2013 wordt toegekend, is gelijk aan 1, vermenigvuldigd met de voor die installatie van toepassing zijnde bandingfactor. De bandingfactor is in dit geval maximaal gelijk aan 1. De periode, vermeld in het vierde lid, kan eenmalig met vijf jaar worden verlengd voor zover nog altijd aan de voorwaarden, vermeld in het vierde lid wordt voldaan. Voor die nieuwe periode wordt een nieuwe bandingfactor berekend die maximaal gelijk is aan Btot voor het lopende kalenderjaar<strong><em>.</em></strong><br>
 <br>
-Het Vlaams Energieagentschap oordeelt of een aanvraag, vermeld in het derde, vierde of vijfde lid, van de eigenaar van een productie-installatie of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen gegrond is. De eigenaar van een productie-installatie of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen levert daarvoor de vereiste bewijsstukken aan het Vlaams Energieagentschap. De eigenaar van een productie-installatie of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen stelt op eenvoudig verzoek alle benodigde aanvullende informatie aan het Vlaams Energieagentschap ter beschikking. Wanneer de eigenaar van een productie-installatie of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen een aanvraag tot verlenging, als vermeld in het vierde lid, indient zonder dat eerder een aanvraag tot verlenging, vermeld in het derde lid, werd ingediend, dan verliest deze installatie alle rechten tot verlenging van de steunperiode die ze kan verkrijgen op grond van het derde lid.<br>
+Het VEKA oordeelt of een aanvraag, vermeld in het derde, vierde of vijfde lid, van de eigenaar van een productie-installatie of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen gegrond is. De eigenaar van een productie-installatie of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen levert daarvoor de vereiste bewijsstukken aan het VEKA. De eigenaar van een productie-installatie of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen stelt op eenvoudig verzoek alle benodigde aanvullende informatie aan het VEKA ter beschikking. Wanneer de eigenaar van een productie-installatie of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen een aanvraag tot verlenging, als vermeld in het vierde lid, indient zonder dat eerder een aanvraag tot verlenging, vermeld in het derde lid, werd ingediend, dan verliest deze installatie alle rechten tot verlenging van de steunperiode die ze kan verkrijgen op grond van het derde lid.<br>
 <br>
 § 2. Wat installaties betreft die elektriciteit opwekken uit hernieuwbare energiebronnen met startdatum vanaf 1 januari 2013 en gelegen in het Vlaamse Gewest, worden groenestroomcertificaten toegekend aan de eigenaar van een productie-installatie of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen.<br>
 <br>
@@ -1948,7 +1950,7 @@ De bandingfactor is in dit geval maximaal gelijk aan 0,75.<br>
 
 ### ART. 7.1.3.
 
-<p>Groenestroomcertificaten en warmte-krachtcertificaten worden toegekend door de VREG op basis van de gegevens die hem daartoe worden overgemaakt door het Vlaams Energieagentschap, de netbeheerders, de transmissienetbeheerder, de eigenaar van de productie-installatie of diens gemachtigde.<br>
+<p>Groenestroomcertificaten en warmte-krachtcertificaten worden toegekend door de VREG op basis van de gegevens die hem daartoe worden overgemaakt door het VEKA, de netbeheerders, de transmissienetbeheerder, de eigenaar van de productie-installatie of diens gemachtigde.<br>
 <br>
 De Vlaamse Regering legt de nadere toepassingsregels en procedures vast met betrekking tot de aanvraag, de toekenning, inclusief de gevallen van de schorsing en intrekking van de uitgifte ervan, van groenestroomcertificaten en warmte-krachtcertificaten, met inbegrip van de gegevensoverdracht, bedoeld in het vorig lid. De Vlaamse Regering zorgt er hierbij voor dat een onderneming in moeilijkheden geen aanvraagdossiers voor het verkrijgen van groenestroomcertificaten of warmtekracht certificaten kan indienen.</p>
 
@@ -1962,7 +1964,7 @@ De VREG kan voor de unieke identificatie van de gebruikers van de databank het o
 
 ### ART. 7.1.4/1.
 
-§ 1. Het Vlaams Energieagentschap berekent en actualiseert minstens jaarlijks de onrendabele toppen volgens een procedure en methode die door de Vlaamse Regering wordt vastgelegd, als vermeld in § 3. De Vlaamse Regering bepaalt in dit kader de verschillende categorieën waarvoor een onrendabele top wordt berekend en houdt daarbij minstens rekening met de gehanteerde technologievorm, de vermogensklasse en de gebruikte brandstof.<br>
+§ 1. Het VEKA berekent en actualiseert minstens jaarlijks de onrendabele toppen volgens een procedure en methode die door de Vlaamse Regering wordt vastgelegd, als vermeld in § 3. De Vlaamse Regering bepaalt in dit kader de verschillende categorieën waarvoor een onrendabele top wordt berekend en houdt daarbij minstens rekening met de gehanteerde technologievorm, de vermogensklasse en de gebruikte brandstof.<br>
 <br>
 De onrendabele toppen worden berekend voor representatieve projectcategorieën. De Vlaamse Regering legt deze representatieve projectcategorieën vast. De Vlaamse Regering kan ook niet-representatieve&nbsp;projectcategorieën vastleggen waarvoor per project een specifieke onrendabele top wordt bepaald.<br>
 <br>
@@ -1970,21 +1972,21 @@ De onrendabele toppen worden berekend voor nieuwe projecten die certificaten kun
 <br>
 De onrendabele toppen worden ook berekend voor lopende projecten voor de periode dat ze certificaten kunnen ontvangen op grond van artikel 7.1.1, § 1, vierde en vijfde lid, en § 2 of § 3 of artikel 7.1.2, § 2 of § 3, volgens een methodiek die de Vlaamse Regering vastlegt, als vermeld in § 4.<br>
 <br>
-Op basis van de onrendabele toppen berekent het Vlaams Energieagentschap telkens ook de overeenstemmende bandingfactoren.<br>
+Op basis van de onrendabele toppen berekent het VEKA telkens ook de overeenstemmende bandingfactoren.<br>
 <br>
 De bandingfactoren die van toepassing zijn worden zowel voor nieuwe als voor lopende projecten aangepast als de geactualiseerde bandingfactor meer dan 2 % afwijkt van de bandingfactor die van toepassing is.<br>
 <br>
 De geactualiseerde bandingsfactoren voor lopende projecten&nbsp;en voor nieuwe projecten met een startdatum vanaf 1 augustus tot en met 31 december van het lopende kalenderjaar zijn één maand na de actualisering van toepassing.<br>
 <br>
-Het Vlaams Energieagentschap deelt minstens een keer per jaar en dit in elk geval voor 30 juni het rapport met de berekening van de onrendabele toppen en overeenstemmende bandingfactoren voor de representatieve en niet-representatieve projectcategorieën, bedoeld in het tweede lid mee aan de Vlaamse Regering en aan de minister.<br>
+Het VEKA deelt minstens een keer per jaar en dit in elk geval voor 30 juni het rapport met de berekening van de onrendabele toppen en overeenstemmende bandingfactoren voor de representatieve en niet-representatieve projectcategorieën, bedoeld in het tweede lid mee aan de Vlaamse Regering en aan de minister.<br>
 <br>
 De Vlaamse Regering legt de procedure vast voor aanpassing van de nieuwe banding factoren op basis van het rapport, meegedeeld aan de Vlaamse Regering en de minister.<br>
 <br>
-Voor relevante technologieën en projecten die buiten de vastgestelde representatieve projectcategorieën vallen, legt het Vlaams Energieagentschap ook een voorstel voor op basis van een berekening van de onrendabele top en de bandingfactor. Daarbij legt het Vlaams Energieagentschap op basis van het verwachte aantal toe te kennen certificaten een analyse voor van de verwachte impact op de certificatenmarkt en de certificatenverplichting.<br>
+Voor relevante technologieën en projecten die buiten de vastgestelde representatieve projectcategorieën vallen, legt het VEKA ook een voorstel voor op basis van een berekening van de onrendabele top en de bandingfactor. Daarbij legt het VEKA op basis van het verwachte aantal toe te kennen certificaten een analyse voor van de verwachte impact op de certificatenmarkt en de certificatenverplichting.<br>
 <br>
 § 2. ...<br>
 <br>
-§ 3. Voor het Vlaams Energieagentschap een rapport aan de Vlaamse Regering en aan de minister bezorgt, organiseert het een stakeholderoverleg. De Vlaamse Regering kan de nadere regels bepalen voor het voorwerp en de methode van dit stakeholderoverleg, en voor de deelnemers eraan.<br>
+§ 3. Voor het VEKA een rapport aan de Vlaamse Regering en aan de minister bezorgt, organiseert het een stakeholderoverleg. De Vlaamse Regering kan de nadere regels bepalen voor het voorwerp en de methode van dit stakeholderoverleg, en voor de deelnemers eraan.<br>
 <br>
 § 4. De Vlaamse Regering bepaalt de methodiek voor de berekening van de onrendabele top en houdt daarbij minstens rekening met de volgende parameters :<br>
 1° de geraamde investeringskosten in het geval van nieuwe projecten, de investeringskosten gebruikt bij de bepaling van de oorspronkelijke onrendabele top voor lopende projecten en nieuwe projecten met een startdatum vanaf 1 augustus tot en met 31 december van het lopende kalenderjaar&nbsp;tijdens de afschrijvingsperiode, en de vervangingsinvesteringskosten voor lopende projecten na de afschrijvingsperiode;<br>
@@ -2020,7 +2022,7 @@ Voor de bijstook tot 60 % van hernieuwbare energiebronnen in een kolencentrale m
 <br>
 In afwijking van het derde lid, wordt voor het gebruik van hernieuwbare energiebronnen in kolencentrales met een nominaal elektrisch vermogen van meer dan 50 MW die actief zijn op 1 januari 2011 en waar op en na deze datum niet langer producten worden verbruikt met de GN-codes 2701, 2702, 2703 of 2704, zoals bedoeld in de EG-verordening nr. 2031/2001 van de Europese Commissie van 6 augustus 2001 tot wijziging van bijlage I van EEG-Verordening nr. 2658/87 van de Raad met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijke douanetarief, het aantal voor de certificatenverplichting aanvaardbare groenestroomcertificaten verminderd met&nbsp;4%. Dit percentage kan niet verhoogd worden tot en met 30 april 2026. Indien het percentage alsnog zou verhoogd worden, vergoedt de Vlaamse overheid de eigenaars van de desbetreffende installaties voor de geleden schade.<br>
 <br>
-Het Vlaams Energieagentschap bepaalt de berekening van het aandeel hernieuwbare energiebronnen in de stroomproductie.<br>
+Het VEKA bepaalt de berekening van het aandeel hernieuwbare energiebronnen in de stroomproductie.<br>
 <br>
 Voor installaties die elektriciteit produceren op basis van zonne-energie zijn alleen de groenestroomcertificaten aanvaardbaar voor de certificatenverplichting, vermeld in artikel 7.1.10, die zijn toegekend voor elektriciteit geproduceerd tijdens de periode dat de installatie kan genieten van minimumsteun vermeld in artikel 7.1.6.<br>
 <br>
@@ -2196,12 +2198,12 @@ De Vlaamse Regering bepaalt de te volgen procedures, alsmede de modaliteiten en 
 <br>
 De Vlaamse Regering zorgt met toepassing van het eerste en het tweede lid en alleen als er op het federale niveau een gelijkaardige regeling bestaat, in jaar N voor een verrekening of terugbetaling van een bedrag ter grootte van het door de federale overheid vastgestelde op ondernemingsniveau of vestigingsniveau in het jaar N-1 door die onderneming of vestiging verschuldigde en betaalde bedrag van de door financieringssteun voor hernieuwbare energie op federaal niveau ontstane kosten. De Vlaamse Regering stelt in het kader van die verrekening of terugbetaling echter een plafond vast van een percentage van het in het jaar N-1 in totaal verschuldigde bedrag, vermeld in het eerste lid, dat die verrekening of terugbetaling niet mag overschrijden.<br>
 <br>
-§ 4. Het Vlaams Energieagentschap legt een evaluatie van de quota- en productiedoelstellingen, vermeld in § 2, voor aan de Vlaamse Regering indien :<br>
+§ 4. Het VEKA&nbsp;legt een evaluatie van de quota- en productiedoelstellingen, vermeld in § 2, voor aan de Vlaamse Regering indien :<br>
 1° het aantal beschikbare certificaten minder dan 105 % of meer dan 125 % bedraagt van het aantal voor te leggen certificaten;<br>
 2° de verhouding tussen het aantal toegekende voor de certificatenverplichting aanvaardbare certificaten en de totale bruto geproduceerde groene stroom meer dan 5 % afwijkt van de verhouding bij de vorige evaluatie;<br>
 3° de werkelijke productie per hernieuwbare energiebron meer dan 10 % afwijkt van de subdoelstellingen per hernieuwbare energiebron, vermeld in § 2. In dat geval wordt tevens geëvalueerd welke de oorzaken zijn van die afwijkingen en worden remediërende maatregelen of bijsturing van de subdoelstellingen voorgesteld.<br>
 <br>
-De resultaten van de evaluatie worden door het Vlaams Energieagentschap publiek gemaakt.<br>
+De resultaten van de evaluatie worden door het VEKA publiek gemaakt.<br>
 <br>
 Indien uit deze evaluatie blijkt dat een verwachte daling van het bruto binnenlands elektriciteitsverbruik groter zal zijn dan de verplichte stijging van de doelstelling, vermeld in § 2, doet de Vlaamse Regering een voorstel om de doelstellingen, vermeld in § 2 te verhogen.<br>
 <br>
@@ -2250,11 +2252,11 @@ Het geheel van afnamepunten van afnemers op een op 1 juli 2011 bestaand net dat 
 <br>
 Het geheel van afnamepunten van afnemers van een na 1 juli 2011 aangelegd net dat voldoet aan de criteria van artikel 1.1.3, 56° /2, wordt als één afnamepunt beschouwd, voor zover het gesloten distributienet is aangesloten op het transmissienet of het plaatselijke vervoersnet van elektriciteit.<br>
 <br>
-§ 3. Het Vlaams Energieagentschap legt een evaluatie van de quotadoelstellingen, vermeld in § 2, voor aan de Vlaamse Regering indien :<br>
+§ 3. Het VEKA legt een evaluatie van de quotadoelstellingen, vermeld in § 2, voor aan de Vlaamse Regering indien :<br>
 1° het aantal beschikbare certificaten minder dan 105 % of meer dan 125 % bedraagt van het aantal voor te leggen certificaten;<br>
 2° de verhouding tussen het aantal toegekende voor de certificatenverplichting aanvaardbare certificaten en de gerealiseerde warmte-krachtbesparing meer dan 5 % afwijkt van de verhouding bij de vorige evaluatie.<br>
 <br>
-De resultaten van de evaluatie worden door het Vlaams Energieagentschap publiek gemaakt.<br>
+De resultaten van de evaluatie worden door het VEKA publiek gemaakt.<br>
 <br>
 De Vlaamse Regering kan onder meer op basis van die evaluatie de quotadoelstelling zoals vermeld in dit artikel aanpassen.</p>
 
@@ -2445,16 +2447,28 @@ De Vlaamse Regering kan een steunprogramma opstellen met tegemoetkomingen ten vo
 ### ART. 8.2.2.
 
 §1. De Vlaamse Regering kan leningen verstrekken ter ondersteuning van investeringen in het kader van de bevordering van het rationeel energieverbruik, door:<br>
-1° via energiehuizen leningen aan eindafnemers te verstrekken voor de financiering van investeringen in privéwoningen die dienen als hoofdverblijfplaats;<br>
+1° via energiehuizen leningen aan nieuwe eigenaars of&nbsp;aan eindafnemers te verstrekken voor de financiering van investeringen in privéwoningen die dienen als hoofdverblijfplaats;<br>
 2° het rechtstreeks verstrekken van deze leningen aan eindafnemers.<br>
 <br>
 De Vlaamse Regering kan de modaliteiten voor de leningen bepalen evenals de procedure voor aanvraag en toekenning.<br>
+<br>
+De Vlaamse Regering kan voorwaarden koppelen aan het verkrijgen van een lening, zoals de opmaak van een energieprestatiecertificaat of het behalen van een minimaal energieprestatieniveau.<br>
 <br>
 De Vlaamse Regering kan bij het verstrekken van de leningen, vermeld in het eerste lid, gebruikmaken van de diensten van het Participatiefonds-Vlaanderen.<br>
 <br>
 § 2. De Vlaamse Regering bepaalt de minimale voorwaarden waaraan de energiehuizen, vermeld in § 1, eerste lid, 1°, dienen te voldoen. Tussen het Vlaamse Gewest en elke energiehuis wordt een samenwerkingsovereenkomst gesloten. De Vlaamse Regering kan een tegemoetkoming geven in de personeels- en werkingskosten van de energiehuizen.<br>
 <br>
 § 3. De Vlaamse Regering kan op voorstel van de Vlaamse minister bevoegd voor Energie schulden die door een energiehuis ten aanzien van het Vlaamse Gewest in het kader van de uitvoering van dit artikel werden gemaakt geheel of gedeeltelijk kwijtschelden. De Vlaamse Regering bepaalt nadere regels met betrekking tot de modaliteiten en de voorwaarden waaronder deze kwijtschelding kan geschieden.
+
+### ART 8.2.3.
+
+§ 1. De Vlaamse Regering kan een steunprogramma opstellen ter ondersteuning van de energetische renovatie van niet-energiezuinige woningen of wooneenheden met tegemoetkomingen ten voordele van nieuwe eigenaars van die woningen of wooneenheden.<br>
+<br>
+Deze tegemoetkoming kan de vorm aannemen van een rentesubsidie.<br>
+<br>
+De Vlaamse Regering kan de procedure voor aanvraag en toekenning bepalen.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de minimale voorwaarden waartegen de rentesubsidie wordt toegekend. Tussen de Vlaamse Regering en de kredietgevers wordt een samenwerkingsprotocol gesloten.
 
 ## HOOFDSTUK III. Steunprogramma's voor ondernemingen
 
@@ -2719,19 +2733,19 @@ Als de berekening aantoont dat het ontworpen gebouw niet zal voldoen aan de EPB-
 
 ### ART. 11.1.7.
 
-§ 1. De werken en handelingen mogen pas worden aangevat nadat een startverklaring met voorafberekening is ingediend. De startverklaring met voorafberekening wordt voor het aanvatten van de werken en handelingen door de verslaggever namens de aangifteplichtige ingediend bij het Vlaams Energieagentschap.<br>
+§ 1. De werken en handelingen mogen pas worden aangevat nadat een startverklaring met voorafberekening is ingediend. De startverklaring met voorafberekening wordt voor het aanvatten van de werken en handelingen door de verslaggever namens de aangifteplichtige ingediend bij het VEKA.<br>
 <br>
-De gegevens die aan de basis liggen van de keuze voor materialen en maatregelen om te voldoen aan de EPB-eisen, zijn opvraagbaar door het Vlaams Energieagentschap en de partijen die bij de werken en handelingen betrokken zijn. De architect en de ontwerper van de technische installatie stellen die gegevens op eerste verzoek ter beschikking.<br>
+De gegevens die aan de basis liggen van de keuze voor materialen en maatregelen om te voldoen aan de EPB-eisen, zijn opvraagbaar door het VEKA en de partijen die bij de werken en handelingen betrokken zijn. De architect en de ontwerper van de technische installatie stellen die gegevens op eerste verzoek ter beschikking.<br>
 <br>
-§ 2. De verslaggever houdt gedurende drie jaar van elke door hem opgestelde startverklaring een exemplaar en de bijbehorende gegevens bij zich. Die documenten zijn ondertekend door de verslaggever, de aangifteplichtige en de architect. De verslaggever stelt op eenvoudig verzoek een exemplaar en de bijbehorende gegevens ter beschikking aan het Vlaams Energieagentschap.<br>
+§ 2. De verslaggever houdt gedurende drie jaar van elke door hem opgestelde startverklaring een exemplaar en de bijbehorende gegevens bij zich. Die documenten zijn ondertekend door de verslaggever, de aangifteplichtige en de architect. De verslaggever stelt op eenvoudig verzoek een exemplaar en de bijbehorende gegevens ter beschikking aan het VEKA.<br>
 <br>
-§ 3. Als er voor de indiening van de EPB-aangifte een verandering van verslaggever plaatsvindt, wordt die wijziging door de nieuw aangestelde verslaggever of door de aangifteplichtige zo snel mogelijk elektronisch gemeld aan het Vlaams Energieagentschap.
+§ 3. Als er voor de indiening van de EPB-aangifte een verandering van verslaggever plaatsvindt, wordt die wijziging door de nieuw aangestelde verslaggever of door de aangifteplichtige zo snel mogelijk elektronisch gemeld aan het VEKA.
 
 ## Afdeling III. EPB-aangifte
 
 ### ART. 11.1.8.
 
-§ 1.Voor nieuwbouw gebouwen waarvoor EPB-eisen gelden als vermeld in artikel 11.1.1, § 1, dient de verslaggever namens de aangifteplichtige een EPB-aangifte in bij het Vlaams Energieagentschap binnen een termijn van&nbsp;twaalf maanden die ingaat van zodra een van de volgende voorwaarden is vervuld:<br>
+§ 1.Voor nieuwbouw gebouwen waarvoor EPB-eisen gelden als vermeld in artikel 11.1.1, § 1, dient de verslaggever namens de aangifteplichtige een EPB-aangifte in bij het VEKA binnen een termijn van&nbsp;twaalf maanden die ingaat van zodra een van de volgende voorwaarden is vervuld:<br>
 1° de ingebruikname van het gebouw, waarbij bij een nieuwbouw dit moment ten laatste steeds de eerste domiciliering van natuurlijke personen in een gebouw of de vestiging van een maatschappelijke zetel van een rechtspersoon in een gebouw is;<br>
 2° het beëindigen van de vergunnings- of meldingsplichtige werken of handelingen.<br>
 <br>
@@ -2739,17 +2753,17 @@ De EPB-aangifte wordt in elk geval ten laatste vijf jaar na het verlenen van de 
 <br>
 In afwijking van het tweede lid dient in het geval bij de nieuwbouw van meerdere EPB-eenheden de stedenbouwkundige vergunning voor onbepaalde duur conform artikel 4.2.21 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 of de omgevingsvergunning voor stedenbouwkundige handelingen conform artikel 80 van het decreet van 25 april 2014 betreffende de omgevingsvergunning uitdrukkelijk melding maakt van de verschillende fasen van het bouwproject, de termijn van vijf jaar, vermeld in het tweede lid, voor elke EPB-eenheid van die vergunning te worden gerekend per fase waaronder zij valt en waaronder de werken aan die EPB-eenheid het eerst werden gestart.<br>
 <br>
-Voor de EPB-aangifte met betrekking tot gebouwen waarvan de stedenbouwkundige vergunning in 2006 werd aangevraagd, dient de verslaggever uiterlijk twaalf maanden na de ingebruikname van het gebouw en uiterlijk vijf jaar na het verlenen van de stedenbouwkundige vergunning namens de aangifteplichtige een EPB-aangifte in bij het Vlaams Energieagentschap.<br>
+Voor de EPB-aangifte met betrekking tot gebouwen waarvan de stedenbouwkundige vergunning in 2006 werd aangevraagd, dient de verslaggever uiterlijk twaalf maanden na de ingebruikname van het gebouw en uiterlijk vijf jaar na het verlenen van de stedenbouwkundige vergunning namens de aangifteplichtige een EPB-aangifte in bij het VEKA.<br>
 <br>
-§ 1/1. Voor andere gebouwen dan de gebouwen, vermeld in paragraaf 1, waarvoor EPB-eisen gelden als vermeld in artikel 11.1.1, § 1, dient de verslaggever namens de aangifteplichtige een EPB-aangifte in bij het Vlaams Energieagentschap binnen een termijn van vijf jaar na het verlenen van de stedenbouwkundige vergunning of de omgevingsvergunning voor stedenbouwkundige handelingen of na het indienen van de melding.<br>
+§ 1/1. Voor andere gebouwen dan de gebouwen, vermeld in paragraaf 1, waarvoor EPB-eisen gelden als vermeld in artikel 11.1.1, § 1, dient de verslaggever namens de aangifteplichtige een EPB-aangifte in bij het VEKA binnen een termijn van vijf jaar na het verlenen van de stedenbouwkundige vergunning of de omgevingsvergunning voor stedenbouwkundige handelingen of na het indienen van de melding.<br>
 <br>
-§ 2. De verslaggever houdt gedurende vijf jaar van elke door hem opgestelde EPB-aangifte een&nbsp;exemplaar, de bijbehorende plannen en bijlagen bij zich. Die documenten zijn ondertekend door de verslaggever en de aangifteplichtige. De verslaggever stelt op eenvoudig verzoek een exemplaar van de EPB-aangifte, de plannen en de bijlagen ter beschikking van het Vlaams Energieagentschap.<br>
+§ 2. De verslaggever houdt gedurende vijf jaar van elke door hem opgestelde EPB-aangifte een&nbsp;exemplaar, de bijbehorende plannen en bijlagen bij zich. Die documenten zijn ondertekend door de verslaggever en de aangifteplichtige. De verslaggever stelt op eenvoudig verzoek een exemplaar van de EPB-aangifte, de plannen en de bijlagen ter beschikking van het VEKA.<br>
 <br>
-De aangifteplichtige houdt gedurende tien jaar een exemplaar van de EPB-aangifte, de bijhorende plannen en de bijlagen bij zich. Die documenten zijn ondertekend door de verslaggever en de aangifteplichtige. De aangifteplichtige stelt op eenvoudig verzoek een exemplaar van de EPB-aangifte, de plannen en de bijlagen ter beschikking aan het Vlaams Energieagentschap.<br>
+De aangifteplichtige houdt gedurende tien jaar een exemplaar van de EPB-aangifte, de bijhorende plannen en de bijlagen bij zich. Die documenten zijn ondertekend door de verslaggever en de aangifteplichtige. De aangifteplichtige stelt op eenvoudig verzoek een exemplaar van de EPB-aangifte, de plannen en de bijlagen ter beschikking aan het VEKA.<br>
 <br>
 § 3. De verslaggever stelt vanaf zijn aanstelling tot bij de indiening van de EPB-aangifte een technisch EPB-dossier samen. Het technisch EPB-dossier geeft een overzicht van de tijdens de werken genomen maatregelen met de bijhorende bewijsstukken. Op basis van het technisch EPB-dossier stelt de verslaggever de uiteindelijke EPB-aangifte op.<br>
 <br>
-Het technisch EPB-dossier kan volledig in elektronisch formaat zijn. Het wordt vijf jaar bewaard door de verslaggever en kan opgevraagd worden door het Vlaams Energieagentschap.
+Het technisch EPB-dossier kan volledig in elektronisch formaat zijn. Het wordt vijf jaar bewaard door de verslaggever en kan opgevraagd worden door het VEKA.
 
 ### ART. 11.1.9.
 
@@ -2778,7 +2792,7 @@ Als er voor een gebouw volgens artikel 11.1.1, § 2, EPB-eisen gelden is de eige
 
 De verslaggever stelt de EPB-aangifte op conform de uitgevoerde werken. Hij omschrijft&nbsp;op basis van de door de aangifteplichtige aangeleverde bewijsstukken en zijn vaststellingen opgemaakt na een controle ter plaatse de maatregelen die de energieprestaties en het binnenklimaat van het gebouw bepalen en berekent of het gebouw aan de EPB-eisen voldoet. Hij is verantwoordelijk voor de correcte rapportering van de feitelijke toestand van het gebouw in de EPB-aangifte.<br>
 <br>
-De EPB-aangifte wordt door de verslaggever ingediend per deelproject als er geen EPB-eenheden zijn, of per EPB-eenheid. Als een stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen, waarop EPB-eisen van toepassing zijn, voor de ingebruikname of voor het beëindigen van de vergunnings- of meldingsplichtige werken door een nieuwe stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen wordt gewijzigd, worden de werken die uitgevoerd zijn op basis van deze verschillende vergunningen door de verslaggever in een EPB-aangifte gerapporteerd. Als een wijziging van een bestaande stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen wordt gevraagd en het voorwerp van de aanvraag een uitbreiding van het gebouw met EPB-eenheden betreft, wordt elk van deze uitbreidingen als een aparte EPB-eenheid met een EPB-aangifte gerapporteerd. De verslaggever meldt elektronisch aan het Vlaams Energieagentschap welke energieprestatiedossiers worden samengevoegd.<br>
+De EPB-aangifte wordt door de verslaggever ingediend per deelproject als er geen EPB-eenheden zijn, of per EPB-eenheid. Als een stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen, waarop EPB-eisen van toepassing zijn, voor de ingebruikname of voor het beëindigen van de vergunnings- of meldingsplichtige werken door een nieuwe stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen wordt gewijzigd, worden de werken die uitgevoerd zijn op basis van deze verschillende vergunningen door de verslaggever in een EPB-aangifte gerapporteerd. Als een wijziging van een bestaande stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen wordt gevraagd en het voorwerp van de aanvraag een uitbreiding van het gebouw met EPB-eenheden betreft, wordt elk van deze uitbreidingen als een aparte EPB-eenheid met een EPB-aangifte gerapporteerd. De verslaggever meldt elektronisch aan het VEKA welke energieprestatiedossiers worden samengevoegd.<br>
 <br>
 De aangifteplichtige is verantwoordelijk voor het bezorgen van de gegevens en de bewijsstukken die noodzakelijk zijn voor de opmaak van de EPB-aangifte aan de verslaggever. De aangifteplichtige bezorgt in dat kader op het eerste verzoek van de verslaggever de gegevens van de materialen en installaties die in het gebouw effectief gebruikt worden en die betrekking hebben op het behalen van de EPB-eisen, aan die verslaggever.<br>
 <br>
@@ -2798,9 +2812,9 @@ De Vlaamse Regering bepaalt de nadere regels tot vaststelling van de vorm en de 
 
 ### ART. 11.1.14.
 
-§ 1. Het Vlaams Energieagentschap houdt een energieprestatiedatabank bij. Het Vlaams Energieagentschap ziet erop toe dat regelmatig bijgewerkte lijsten met geregistreerde verslaggevers ter beschikking worden gesteld.<br>
+§ 1. Het VEKA houdt een energieprestatiedatabank bij. Het VEKA ziet erop toe dat regelmatig bijgewerkte lijsten met geregistreerde verslaggevers ter beschikking worden gesteld.<br>
 <br>
-§ 2. De Vlaamse Regering bepaalt welke gegevens uit de melding, de aanvraag voor de omgevingsvergunning voor stedenbouwkundige handelingen en de omgevingsvergunning voor stedenbouwkundige handelingen door de overheid die de omgevingsvergunning voor stedenbouwkundige handelingen heeft verleend, elektronisch worden bijgehouden. Iedere overheid die bevoegd is om omgevingsvergunningen voor stedenbouwkundige handelingen te verlenen of meldingen te registreren, bezorgt het Vlaams Energieagentschap maandelijks en elektronisch een lijst van de gemelde, vergunde, geschorste en vernietigde gestarte en voltooide werken, wijzigingen of handelingen waarvoor EPB-eisen gelden. Deze gegevens worden opgenomen in de energieprestatiedatabank. De Vlaamse Regering legt vast in welke vorm die gegevens uitgewisseld worden.<br>
+§ 2. De Vlaamse Regering bepaalt welke gegevens uit de melding, de aanvraag voor de omgevingsvergunning voor stedenbouwkundige handelingen en de omgevingsvergunning voor stedenbouwkundige handelingen door de overheid die de omgevingsvergunning voor stedenbouwkundige handelingen heeft verleend, elektronisch worden bijgehouden. Iedere overheid die bevoegd is om omgevingsvergunningen voor stedenbouwkundige handelingen te verlenen of meldingen te registreren, bezorgt het VEKA maandelijks en elektronisch een lijst van de gemelde, vergunde, geschorste en vernietigde gestarte en voltooide werken, wijzigingen of handelingen waarvoor EPB-eisen gelden. Deze gegevens worden opgenomen in de energieprestatiedatabank. De Vlaamse Regering legt vast in welke vorm die gegevens uitgewisseld worden.<br>
 <br>
 Wanneer de gemeente strengere eisen vastlegt, als bedoeld in artikel 11.1.1, § 1/1, dan vermeld zij op de lijst, vermeld in het eerste lid, tevens voor welke stedenbouwkundige vergunningen deze strengere eisen van toepassing zijn.<br>
 <br>
@@ -2808,9 +2822,9 @@ Elke aangifteplichtige of verslaggever, woonachtig of met zetel in België, word
 <br>
 De gegevens in de energieprestatiedatabank zijn alleen toegankelijk voor de diensten van de Vlaamse overheid en de betrokken vergunningverlenende overheid. De verslaggever en de aangifteplichtige hebben alleen toegang tot de gegevens van hun eigen dossiers. De Vlaamse Regering bepaalt tot welke delen van de EPB-aangifte de eigenaar van het gebouw, die geen aangifteplichtige is, toegang heeft. De netbeheerder of zijn werkmaatschappij heeft in het kader van de uitvoering van de hun door of krachtens dit decreet opgelegde openbaredienstverplichtingen toegang tot de energieprestatiedatabank. De Vlaamse Regering bepaalt nadere voorwaarden betreffende welke gegevens worden vrijgegeven en de wijze waarop deze worden vrijgegeven.<br>
 <br>
-In afwijking van het vierde lid kan het Vlaams Energieagentschap in het kader van statistische en wetenschappelijke onderzoeksdoeleinden geanonimiseerde gegevens uit de energieprestatiedatabank, al dan niet gekoppeld aan de geanonimiseerde gegevens van andere databanken van de Vlaamse of federale overheid, de netbeheerder of zijn werkmaatschappij, ter beschikking stellen van belanghebbende instanties. Het Vlaams Energieagentschap bepaalt onder welke voorwaarden die gegevens mogen worden gebruikt.<br>
+In afwijking van het vierde lid kan het VEKA in het kader van statistische en wetenschappelijke onderzoeksdoeleinden geanonimiseerde gegevens uit de energieprestatiedatabank, al dan niet gekoppeld aan de geanonimiseerde gegevens van andere databanken van de Vlaamse of federale overheid, de netbeheerder of zijn werkmaatschappij, ter beschikking stellen van belanghebbende instanties. Het VEKA bepaalt onder welke voorwaarden die gegevens mogen worden gebruikt.<br>
 <br>
-In het kader van monitoring van de energieprestaties van gebouwen kan het Vlaams Energieagentschap de gegevens uit de energieprestatiedatabank koppelen aan de beschikbare gegevens bij andere databanken van de Vlaamse of federale overheid, bij de netbeheerder of zijn werkmaatschappij. Nadat die gegevens gekoppeld zijn worden die gegevens geanonimiseerd. Ze zijn in geen geval herleidbaar tot een identificeerbare natuurlijke persoon.
+In het kader van monitoring van de energieprestaties van gebouwen kan het VEKA de gegevens uit de energieprestatiedatabank koppelen aan de beschikbare gegevens bij andere databanken van de Vlaamse of federale overheid, bij de netbeheerder of zijn werkmaatschappij. Nadat die gegevens gekoppeld zijn worden die gegevens geanonimiseerd. Ze zijn in geen geval herleidbaar tot een identificeerbare natuurlijke persoon.
 
 ## [HOOFDSTUK I/1. Gebruik van verwarmingsinstallaties, technische installaties en technische bouwsystemen, gebouwautomatisering en -controlesystemen (ing. Decr 30 oktober 2020, art. 31, I: 5 december 2020)]
 
@@ -2867,17 +2881,17 @@ De Vlaamse Regering kan nadere regels bepalen betreffende de vorm van deze publi
 
 ### ART. 11.2.3.
 
-<p>§ 1. Het Vlaams Energieagentschap houdt een energieprestatiecertificatendatabank bij. De Vlaamse Regering bepaalt welke gegevens uit het energieprestatiecertificaat worden bijgehouden, doorgestuurd en opgenomen in deze databank.<br>
+<p>§ 1. Het&nbsp;VEKA houdt een energieprestatiecertificatendatabank bij. De Vlaamse Regering bepaalt welke gegevens uit het energieprestatiecertificaat worden bijgehouden, doorgestuurd en opgenomen in deze databank.<br>
 <br>
 § 2. De personen die een energieprestatiecertificaat uitreiken, sturen de in § 1 vermelde gegevens elektronisch door naar de energieprestatiecertificatendatabank. Deze personen worden in deze databank uniek geïdentificeerd. De Vlaamse Regering bepaalt de voorwaarden voor het elektronisch indienen van die gegevens en kan nadere regels vastleggen met betrekking tot de unieke identificatie.<br>
 <br>
 § 3. De gegevens in de energieprestatiecertificatendatabank zijn enkel toegankelijk voor de diensten van de Vlaamse overheid, de betrokken gemeente en de instrumenterende ambtenaar. De energiedeskundige en de eigenaar van een gebouw waarvoor een energieprestatiecertificaat is opgesteld hebben alleen toegang tot de gegevens van hun eigen dossiers. De netbeheerder of zijn werkmaatschappij heeft in het kader van de uitvoering van de hun door of krachtens dit decreet opgelegde openbaredienstverplichtingen toegang tot de energieprestatiecertificatendatabank. De Vlaamse Regering bepaalt nadere voorwaarden betreffende welke gegevens worden vrijgegeven en de wijze waarop deze worden vrijgegeven.<br>
 <br>
-In afwijking van het eerste lid kan het Vlaams Energieagentschap in het kader van statistische en wetenschappelijke onderzoeksdoeleinden geanonimiseerde gegevens uit de energieprestatiecertificatendatabank, al dan niet gekoppeld aan de geanonimiseerde gegevens van andere databanken van de Vlaamse of federale overheid, de netbeheerder of zijn werkmaatschappij, ter beschikking stellen van belanghebbende instanties. Het Vlaams Energieagentschap bepaalt onder welke voorwaarden die gegevens mogen worden gebruikt.<br>
+In afwijking van het eerste lid kan het VEKA&nbsp;in het kader van statistische en wetenschappelijke onderzoeksdoeleinden geanonimiseerde gegevens uit de energieprestatiecertificatendatabank, al dan niet gekoppeld aan de geanonimiseerde gegevens van andere databanken van de Vlaamse of federale overheid, de netbeheerder of zijn werkmaatschappij, ter beschikking stellen van belanghebbende instanties. Het VEKA&nbsp;bepaalt onder welke voorwaarden die gegevens mogen worden gebruikt.<br>
 <br>
-In het kader van monitoring van de energieprestaties van gebouwen kan het Vlaams Energieagentschap de gegevens uit de energieprestatiecertificatendatabank koppelen aan de beschikbare gegevens bij andere databanken van de Vlaamse of federale overheid, bij de netbeheerder of zijn werkmaatschappij. Nadat die gegevens gekoppeld zijn worden die gegevens geanonimiseerd. Ze zijn dan in geen geval herleidbaar tot een identificeerbare natuurlijke persoon.<br>
+In het kader van monitoring van de energieprestaties van gebouwen kan het VEKA&nbsp;de gegevens uit de energieprestatiecertificatendatabank koppelen aan de beschikbare gegevens bij andere databanken van de Vlaamse of federale overheid, bij de netbeheerder of zijn werkmaatschappij. Nadat die gegevens gekoppeld zijn worden die gegevens geanonimiseerd. Ze zijn dan in geen geval herleidbaar tot een identificeerbare natuurlijke persoon.<br>
 <br>
-In afwijking van het eerste lid kan het Vlaams Energieagentschap in het kader van wetenschappelijk onderzoek geanonimiseerde gegevens uit de energieprestatiecertificatendatabank ter beschikking stellen van belanghebbende instanties. Het Vlaams Energieagentschap bepaalt onder welke voorwaarden deze gegevens mogen worden gebruikt.<br>
+In afwijking van het eerste lid kan het het Vlaams Energieagentschap in het kader van wetenschappelijk onderzoek geanonimiseerde gegevens uit de energieprestatiecertificatendatabank ter beschikking stellen van belanghebbende instanties. Het VEKA&nbsp;bepaalt onder welke voorwaarden deze gegevens mogen worden gebruikt.<br>
 <br>
 Het Vlaams Energieagentschap kan, onder de voorwaarden bepaald door de Vlaamse Regering, een opgemaakt energieprestatiecertificaat aanpassen of wijzigen.</p>
 
@@ -2930,7 +2944,10 @@ De Vlaamse Regering kan nadere regels vaststellen met betrekking tot de accessor
 
 ### ART. 12.1.1.
 
-De minister publiceert jaarlijks, op voorstel van het Vlaams Energieagentschap, een energierapport. Het energierapport omvat voor het Vlaamse Gewest minstens :<br />1° een energiebalans;<br />2° een beschrijving en analyse van de bestaande toestand inzake energieverbruik en energieproductie, per sector en per energiedrager;<br />3° energiekengetallen per sector.
+De minister publiceert jaarlijks, op voorstel van het VEKA, een energierapport. Het energierapport omvat voor het Vlaamse Gewest minstens :<br>
+1° een energiebalans;<br>
+2° een beschrijving en analyse van de bestaande toestand inzake energieverbruik en energieproductie, per sector en per energiedrager;<br>
+3° energiekengetallen per sector.
 
 ### ART. 12.1.2.
 
@@ -2940,7 +2957,7 @@ De energiebalans bevat de volgende gegevens :<br />1° globaal :<br />a) het pri
 
 ### ART. 12.2.1.
 
-De Vlaamse Regering kan verplichtingen opleggen aan elke&nbsp;beheerder van een warmte- of koudenet, beheerder van een distributienet, transmissienet, aardgasdistributienet en vervoersnet, elke energieleverancier en elke exploitant van een energie-opwekkingsinstallatie, om het Vlaams Energieagentschap accurate, volledige en consistente mededeling te doen van noodzakelijke gegevens voor het opmaken van het energierapport en voor de onderbouwing van het Vlaamse beleid inzake rationeel energiegebruik, hernieuwbare energiebronnen en klimaatverandering en voor het sociale energiebeleid. De Vlaamse Regering legt de eisen vast inzake accuraatheid, volledigheid en consistentie. De te verstrekken gegevens hebben minstens betrekking op :<br>
+De Vlaamse Regering kan verplichtingen opleggen aan elke&nbsp;beheerder van een warmte- of koudenet, beheerder van een distributienet, transmissienet, aardgasdistributienet en vervoersnet, elke energieleverancier en elke exploitant van een energie-opwekkingsinstallatie, om het VEKA accurate, volledige en consistente mededeling te doen van noodzakelijke gegevens voor het opmaken van het energierapport en voor de onderbouwing van het Vlaamse beleid inzake rationeel energiegebruik, hernieuwbare energiebronnen en klimaatverandering en voor het sociale energiebeleid. De Vlaamse Regering legt de eisen vast inzake accuraatheid, volledigheid en consistentie. De te verstrekken gegevens hebben minstens betrekking op :<br>
 1° de afname en het verbruik van energie door objectief omschreven categorieën van afnemers van elektriciteit, aardgas, thermische energie en andere energiebronnen en het verbruiksprofiel van die afnemers;<br>
 2° de kenmerken van energie-opwekkingsinstallaties en de hoeveelheid verwerkte en opgewekte energie in die installaties.<br>
 <br>
@@ -2948,13 +2965,13 @@ De Vlaamse Regering bepaalt de categorie-indeling, de rapporteringstermijn en -w
 
 ### ART. 12.2.2.
 
-De diensten van de homogene beleidsdomeinen van de Vlaamse overheid, de instellingen die onder het Vlaamse Gewest en de Vlaamse Gemeenschap ressorteren, de ondergeschikte besturen die onder het administratief toezicht van het Vlaamse Gewest staan en de publiek- en privaatrechtelijke rechtspersonen die belast zijn met taken van openbaar nut inzake energie, stellen, op eenvoudig verzoek van het Vlaams Energieagentschap of uit eigen beweging, alle informatie waarover ze beschikken en die van nut kan zijn voor het opstellen van het energierapport en voor de onderbouwing van het Vlaams beleid inzake rationeel energiegebruik, hernieuwbare energiebronnen en klimaatverandering en voor het sociale energiebeleid, ter beschikking van het Vlaams Energieagentschap.<br>
+De diensten van de homogene beleidsdomeinen van de Vlaamse overheid, de instellingen die onder het Vlaamse Gewest en de Vlaamse Gemeenschap ressorteren, de ondergeschikte besturen die onder het administratief toezicht van het Vlaamse Gewest staan en de publiek- en privaatrechtelijke rechtspersonen die belast zijn met taken van openbaar nut inzake energie, stellen, op eenvoudig verzoek van het VEKA of uit eigen beweging, alle informatie waarover ze beschikken en die van nut kan zijn voor het opstellen van het energierapport en voor de onderbouwing van het Vlaams beleid inzake rationeel energiegebruik, hernieuwbare energiebronnen en klimaatverandering en voor het sociale energiebeleid, ter beschikking van het VEKA.<br>
 <br>
-De publiek- en privaatrechtelijke rechtspersonen die belast zijn met taken van openbaar nut inzake energie, stellen, op eenvoudig verzoek van het Vlaams Energieagentschap of uit eigen beweging minstens de gegevens betreffende het energieverbruik, de energieproductie en de ligging van residentiële en niet-residentiële gebouwen in hun gebied ter beschikking van het Vlaams Energieagentschap. Dit betreffen minstens die gebouwen die gebruikt worden door de diensten van de homogene beleidsdomeinen van de Vlaamse overheid, de instellingen die onder het Vlaamse Gewest en de Vlaamse Gemeenschap ressorteren, de gezondheidsvoorzieningen, de onderwijsinstellingen, de welzijnsvoorzieningen en van de ondergeschikte besturen die onder het administratief toezicht van het Vlaamse Gewest staan. Het Vlaams Energieagentschap kan nadere regels vastleggen betreffende de wijze, de inhoud, en de vorm van de te rapporteren gegevens. Artikel 4.1.10, eerste lid, is van toepassing op het Vlaams Energieagentschap en haar aangestelden.
+De publiek- en privaatrechtelijke rechtspersonen die belast zijn met taken van openbaar nut inzake energie, stellen, op eenvoudig verzoek van het VEKA of uit eigen beweging minstens de gegevens betreffende het energieverbruik, de energieproductie en de ligging van residentiële en niet-residentiële gebouwen in hun gebied ter beschikking van het VEKA. Dit betreffen minstens die gebouwen die gebruikt worden door de diensten van de homogene beleidsdomeinen van de Vlaamse overheid, de instellingen die onder het Vlaamse Gewest en de Vlaamse Gemeenschap ressorteren, de gezondheidsvoorzieningen, de onderwijsinstellingen, de welzijnsvoorzieningen en van de ondergeschikte besturen die onder het administratief toezicht van het Vlaamse Gewest staan. Het VEKA kan nadere regels vastleggen betreffende de wijze, de inhoud, en de vorm van de te rapporteren gegevens. Artikel 4.1.10, eerste lid, is van toepassing op het VEKA en haar aangestelden.
 
 ### ART. 12.2.3.
 
-De Vlaamse Regering kan verplichtingen opleggen aan de overheidsdiensten   en instellingen, die aan een groot aantal personen overheidsdiensten verstrekken   en die derhalve vaak door het grote publiek bezocht worden, om het Vlaams   Energieagentschap accurate, volledige en consistente mededeling te doen   betreffende de uitvoering van de verplichtingen, vermeld in artikel 11.2.1, § 2.   De Vlaamse Regering bepaalt de rapporteringstermijn en -wijze van de te   verstrekken gegevens.
+De Vlaamse Regering kan verplichtingen opleggen aan de overheidsdiensten en instellingen, die aan een groot aantal personen overheidsdiensten verstrekken en die derhalve vaak door het grote publiek bezocht worden, om het VEKA accurate, volledige en consistente mededeling te doen betreffende de uitvoering van de verplichtingen, vermeld in artikel 11.2.1, § 2. De Vlaamse Regering bepaalt de rapporteringstermijn en -wijze van de te verstrekken gegevens.
 
 ## [HOOFDSTUK III. Inventaris van het energiegebruik van overheidsgebouwen (ing. decr. 28 juni 2013, art. 15, I: 28 juni 2013)]
 
@@ -3032,13 +3049,13 @@ Gegevens of inlichtingen die in het kader van § 1 en § 2 worden verkregen, geb
 
 ### ART. 13.1.3.
 
-De Vlaamse Regering wijst de personeelsleden van het Vlaams Energieagentschap aan die bevoegd zijn voor de controle op de naleving van de verplichtingen die opgelegd zijn op basis van artikelen 7.6.1, 7.6.2, 7.7.1 en 7.7.2, van dit decreet en de uitvoeringsbesluiten ervan en voor het opleggen van de administratieve geldboetes.<br>
+De personeelsleden van het VEKA zijn bevoegd voor de controle op de naleving van de voorwaarden en de verplichtingen die opgelegd zijn op basis van artikelen 7.6.1, 7.6.2, 7.7.1 en 7.7.2 en titel VIII van dit decreet en de uitvoeringsbesluiten ervan en voor het opleggen van de administratieve geldboetes.<br>
 <br>
-De aangewezen personeelsleden kunnen daartoe aan de betrokkenen alle gegevens en inlichtingen vragen die nodig zijn voor de uitoefening van hun taken. De betrokkene aan wie een vraag is gericht om gegevens en inlichtingen te verstrekken, moet binnen de door de bevoegde personeelsleden bepaalde redelijke termijn alle medewerking verlenen.
+De personeelsleden van het VEKA kunnen daartoe aan de betrokkenen alle gegevens en inlichtingen vragen die nodig zijn voor de uitoefening van hun taken. De betrokkene aan wie een vraag is gericht om gegevens en inlichtingen te verstrekken, moet binnen de door de bevoegde personeelsleden bepaalde redelijke termijn alle medewerking verlenen.
 
 ### ART. 13.1.4.
 
-§ 1. De personeelsleden van het Vlaams Energieagentschap zijn bevoegd om de nodige controles met betrekking tot het naleven van de EPB-eisen uit te voeren en om overtredingen van de bepalingen van hoofdstuk I van titel XI en de uitvoeringsbesluiten ervan op te sporen en vast te stellen door een verslag van vaststelling.<br>
+§ 1. De personeelsleden van het VEKA zijn bevoegd om de nodige controles met betrekking tot het naleven van de EPB-eisen uit te voeren en om overtredingen van de bepalingen van hoofdstuk I van titel XI en de uitvoeringsbesluiten ervan op te sporen en vast te stellen door een verslag van vaststelling.<br>
 <br>
 Om alle nodige opsporingen en vaststellingen te verrichten, hebben de vermelde personeelsleden toegang tot de bouwplaats en de gebouwen. Tot de bewoonde gebouwen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen:<br>
 1° ze hebben de voorafgaande en schriftelijke toestemming van de bewoner of een daartoe gemachtigd persoon&nbsp;gekregen;<br>
@@ -3050,7 +3067,7 @@ De documenten, vermeld in het eerste lid, zijn minstens de documenten die betrek
 
 ### ART. 13.1.5.
 
-§1. De personeelsleden van het Vlaams Energieagentschap zijn bevoegd om de nodige controles met betrekking tot het energieprestatiecertificaat uit te voeren en om overtredingen van de bepalingen van hoofdstuk II van titel XI en de uitvoeringsbesluiten ervan op te sporen en vast te stellen door een verslag van vaststelling.<br>
+§1. De personeelsleden van het VEKA zijn bevoegd om de nodige controles met betrekking tot het energieprestatiecertificaat uit te voeren en om overtredingen van de bepalingen van hoofdstuk II van titel XI en de uitvoeringsbesluiten ervan op te sporen en vast te stellen door een verslag van vaststelling.<br>
 <br>
 Om alle nodige opsporingen en vaststellingen te verrichten, hebben de vermelde personeelsleden toegang tot de bouwplaats en de gebouwen. Tot de bewoonde gebouwen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen:<br>
 1° ze hebben de voorafgaande en schriftelijke toestemming van de bewoner of een daartoe gemachtigd persoon gekregen;<br>
@@ -3078,7 +3095,7 @@ De Vlaamse Regering wijst binnen de grenzen en onder de voorwaarden die ze bepaa
 <br>
 De Vlaamse Regering kan nadere regels vastleggen met betrekking tot de vorm en de inhoud van het verslag van vaststelling en de voorwaarden waaronder dit ter kennis wordt gebracht aan de betrokkene. De Vlaamse Regering bepaalt de voorwaarden waaronder een betrokkene bezwaar kan maken tegen de in het verslag vermelde feiten.<br>
 <br>
-Wanneer het verslag van vaststelling betrekking heeft op een van de feiten, vermeld in artikel 13.4.11, 1° tot en met 4°, dan maakt de netbeheerder dit definitieve verslag over aan het Vlaams Energieagentschap.<br>
+Wanneer het verslag van vaststelling betrekking heeft op een van de feiten, vermeld in artikel 13.4.11, 1° tot en met 4°, dan maakt de netbeheerder dit definitieve verslag over aan het VEKA.<br>
 <br>
 Om alle nodige vaststellingen te verrichten, hebben de genoemde personeelsleden toegang tot de terreinen en de gebouwen. Tot bewoonde gebouwen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen:<br>
 1° ze hebben de voorafgaande en schriftelijke toestemming van de bewoner of een daartoe gemachtigd persoon gekregen;<br>
@@ -3180,29 +3197,55 @@ De VREG legt aan iedere natuurlijke persoon of rechtspersoon die de gegevens die
 
 ### ART. 13.4.1.
 
-§ 1. Het Vlaams Energieagentschap kan de netbeheerders verplichten tot naleving van artikel 7.5.1 van dit decreet of de uitvoeringsbesluiten van dit decreet binnen de door het Vlaams Energieagentschap bepaalde termijn. Als een netbeheerder bij het verstrijken van die termijn in gebreke blijft, kan het Vlaams Energieagentschap een administratieve geldboete opleggen.<br /><br />Die administratieve geldboete mag per kalenderdag niet lager zijn dan 1000 euro en niet hoger zijn dan 100.000 euro, en in totaal niet hoger zijn dan 2 miljoen euro of 1 % van de omzet die de betrokken netbeheerder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het laatste afgelopen boekjaar.<br /><br />§ 2. Het Vlaams Energieagentschap kan de netbeheerder een administratieve geldboete opleggen van 10 cent per kilowattuur te weinig bespaarde primaire energie ten opzichte van de opgelegde hoeveelheid primaire energiebesparing per categorie van afnemers.<br /><br />§ 3. Bij niet-naleving van het REG-actieplan kan het Vlaams Energieagentschap een administratieve geldboete opleggen die niet lager is dan 1.000 euro en niet hoger dan 100.000 euro per inbreuk.<br /><br />§ 4. Bij niet-naleving van een actieverplichting kan het Vlaams Energieagentschap aan de netbeheerder een administratieve geldboete opleggen die niet lager mag zijn dan 1.000 euro en niet hoger dan 1 % van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het laatste afgelopen boekjaar.<br /><br />§ 5. Bij niet-naleving van een middelenverplichting of financieringsverbintenis kan het Vlaams Energieagentschap aan de netbeheerder een administratieve geldboete opleggen die het drievoudige bedraagt van het deel van de middelenverplichting of financieringsverbintenis dat niet werd nageleefd.<br /><br />§ 6. Als een ontwerp-REG-actieplan niet voldoet aan de voorwaarden voor vorm en inhoud die door de Vlaamse Regering werden vastgelegd, kan het Vlaams Energieagentschap de netbeheerder aanmanen om binnen een gestelde termijn de betreffende voorwaarden na te leven.<br /><br />Als de netbeheerder bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaams Energieagentschap een administratieve geldboete op van 1.000 euro per kalenderdag dat de termijn, vermeld in het eerste lid, wordt overschreden.<br /><br />§ 7. Als een ontwerp-REG-rapport niet de door de Vlaamse Regering vastgelegde gegevens bevat, kan het Vlaams Energieagentschap de netbeheerder aanmanen om binnen een gestelde termijn de betreffende gegevens aan te leveren.<br /><br />Als de netbeheerder bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaams Energieagentschap een administratieve geldboete op van 1.000 euro per kalenderdag dat de termijn, vermeld in het eerste lid, wordt overschreden.<br /><br />§ 8. Als een ontwerp-REG-actieplan, een definitieve lijst van acties, de reserveacties, de aanvraag-formulieren of het ontwerp-REG-rapport niet tijdig worden ingediend, kan het Vlaams Energieagentschap de netbeheerder een administratieve geldboete opleggen van 1.000 euro per kalenderdag dat de opgelegde termijnen worden overschreden.
+§ 1. Het VEKA kan de netbeheerders verplichten tot naleving van artikel 7.5.1 van dit decreet of de uitvoeringsbesluiten van dit decreet binnen de door het VEKA bepaalde termijn. Als een netbeheerder bij het verstrijken van die termijn in gebreke blijft, kan het VEKA een administratieve geldboete opleggen.<br>
+<br>
+Die administratieve geldboete mag per kalenderdag niet lager zijn dan 1000 euro en niet hoger zijn dan 100.000 euro, en in totaal niet hoger zijn dan 2 miljoen euro of 1 % van de omzet die de betrokken netbeheerder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het laatste afgelopen boekjaar.<br>
+<br>
+§ 2. Het VEKA kan de netbeheerder een administratieve geldboete opleggen van 10 cent per kilowattuur te weinig bespaarde primaire energie ten opzichte van de opgelegde hoeveelheid primaire energiebesparing per categorie van afnemers.<br>
+<br>
+§ 3. Bij niet-naleving van het REG-actieplan kan het VEKA een administratieve geldboete opleggen die niet lager is dan 1.000 euro en niet hoger dan 100.000 euro per inbreuk.<br>
+<br>
+§ 4. Bij niet-naleving van een actieverplichting kan het VEKA aan de netbeheerder een administratieve geldboete opleggen die niet lager mag zijn dan 1.000 euro en niet hoger dan 1 % van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het laatste afgelopen boekjaar.<br>
+<br>
+§ 5. Bij niet-naleving van een middelenverplichting of financieringsverbintenis kan het VEKA aan de netbeheerder een administratieve geldboete opleggen die het drievoudige bedraagt van het deel van de middelenverplichting of financieringsverbintenis dat niet werd nageleefd.<br>
+<br>
+§ 6. Als een ontwerp-REG-actieplan niet voldoet aan de voorwaarden voor vorm en inhoud die door de Vlaamse Regering werden vastgelegd, kan het VEKA de netbeheerder aanmanen om binnen een gestelde termijn de betreffende voorwaarden na te leven.<br>
+<br>
+Als de netbeheerder bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het VEKA een administratieve geldboete op van 1.000 euro per kalenderdag dat de termijn, vermeld in het eerste lid, wordt overschreden.<br>
+<br>
+§ 7. Als een ontwerp-REG-rapport niet de door de Vlaamse Regering vastgelegde gegevens bevat, kan het VEKA de netbeheerder aanmanen om binnen een gestelde termijn de betreffende gegevens aan te leveren.<br>
+<br>
+Als de netbeheerder bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het VEKA een administratieve geldboete op van 1.000 euro per kalenderdag dat de termijn, vermeld in het eerste lid, wordt overschreden.<br>
+<br>
+§ 8. Als een ontwerp-REG-actieplan, een definitieve lijst van acties, de reserveacties, de aanvraag-formulieren of het ontwerp-REG-rapport niet tijdig worden ingediend, kan het VEKA de netbeheerder een administratieve geldboete opleggen van 1.000 euro per kalenderdag dat de opgelegde termijnen worden overschreden.
 
 ### ART. 13.4.2.
 
-§ 1. Overtredingen van de door de Vlaamse Regering in toepassing van   artikel 12.2.1 en artikel 12.2.3 opgelegde eisen inzake de consistentie,   volledigheid en accuraatheid van de te rapporteren gegevens, worden door het   Vlaams Energieagentschap bestraft met een administratieve geldboete die niet   lager is dan 50 euro, en niet hoger dan 20.000 euro.<BR><BR>§ 2. Overtredingen   van de door de Vlaamse Regering in toepassing van artikel 12.2.1 en artikel   12.2.3, opgelegde rapporteringstermijn worden door het Vlaams Energieagentschap   bestraft met een administratieve geldboete van 250 euro per   kalenderdag.
+§ 1. Overtredingen van de door de Vlaamse Regering in toepassing van artikel 12.2.1 en artikel 12.2.3 opgelegde eisen inzake de consistentie, volledigheid en accuraatheid van de te rapporteren gegevens, worden door het VEKA bestraft met een administratieve geldboete die niet lager is dan 50 euro, en niet hoger dan 20.000 euro.<br>
+<br>
+§ 2. Overtredingen van de door de Vlaamse Regering in toepassing van artikel 12.2.1 en artikel 12.2.3, opgelegde rapporteringstermijn worden door het VEKA bestraft met een administratieve geldboete van 250 euro per kalenderdag.
 
 ### ART. 13.4.2/1.
 
-§ 1. Wanneer het Vlaams Energieagentschap vaststelt dat de eigenaar van een productie-installatie of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen in toepassing van artikel 1.1.3, 113° /2 van dit decreet informatie heeft overgemaakt die door het Vlaams Energieagentschap werd opgevraagd en die volgens de op dat moment gekende feiten niet consistent of niet in overeenstemming is met de realiteit, en die een correcte bepaling van de startdatum in de weg staat, dan kan het Vlaams Energieagentschap die eigenaar, of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen, een administratieve geldboete opleggen die minimaal 100 % en maximaal 130 % bedraagt van de onterecht ontvangen steun. De onterecht ontvangen steun wordt berekend als het aantal onterecht toegekende certificaten vermenigvuldigd met de bandingdeler.<br>
+§ 1. Wanneer het VEKA vaststelt dat de eigenaar van een productie-installatie of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen in toepassing van artikel 1.1.3, 113° /2 van dit decreet informatie heeft overgemaakt die door het VEKA werd opgevraagd en die volgens de op dat moment gekende feiten niet consistent of niet in overeenstemming is met de realiteit, en die een correcte bepaling van de startdatum in de weg staat, dan kan het VEKA die eigenaar, of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen, een administratieve geldboete opleggen die minimaal 100 % en maximaal 130 % bedraagt van de onterecht ontvangen steun. De onterecht ontvangen steun wordt berekend als het aantal onterecht toegekende certificaten vermenigvuldigd met de bandingdeler.<br>
 <br>
-Indien voor de productie-installatie waarvoor de inconsistente of foutieve gegevens, vermeld in het eerste lid, aan het Vlaams Energieagentschap werden verstrekt door het Vlaams Energieagentschap reeds een bandingfactor werd berekend, dan komt deze bandingfactor te vervallen. In voorkomend geval wordt opnieuw een bandingfactor berekend.<br>
+Indien voor de productie-installatie waarvoor de inconsistente of foutieve gegevens, vermeld in het eerste lid, aan het VEKA werden verstrekt door het VEKA reeds een bandingfactor werd berekend, dan komt deze bandingfactor te vervallen. In voorkomend geval wordt opnieuw een bandingfactor berekend.<br>
 <br>
-§ 2. Wanneer het Vlaams Energieagentschap vaststelt dat de eigenaar van een productie-installatie of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen in toepassing van artikel 7.1.1., artikel 7.1.2, 7.1.3 en 7.1/1.1 informatie heeft overgemaakt die door het Vlaams Energieagentschap werd opgevraagd en die volgens de op dat moment gekende feiten niet consistent of niet in overeenstemming is met de realiteit, en die een correcte toepassing van deze bepalingen van dit decreet in de weg staat, dan kan het Vlaams Energieagentschap die eigenaar, of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen, een administratieve geldboete opleggen die minimaal 100 % en maximaal 130 % bedraagt van de onterecht ontvangen steun. De onterecht ontvangen steun wordt berekend als het aantal onterecht toegekende certificaten vermenigvuldigd met de bandingdeler.<br>
+§ 2. Wanneer het VEKA vaststelt dat de eigenaar van een productie-installatie of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen in toepassing van artikel 7.1.1., artikel 7.1.2, 7.1.3 en 7.1/1.1 informatie heeft overgemaakt die door het VEKA werd opgevraagd en die volgens de op dat moment gekende feiten niet consistent of niet in overeenstemming is met de realiteit, en die een correcte toepassing van deze bepalingen van dit decreet in de weg staat, dan kan het VEKA die eigenaar, of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen, een administratieve geldboete opleggen die minimaal 100 % en maximaal 130 % bedraagt van de onterecht ontvangen steun. De onterecht ontvangen steun wordt berekend als het aantal onterecht toegekende certificaten vermenigvuldigd met de bandingdeler.<br>
 <br>
-Indien voor de productie-installatie waarvoor de inconsistente of foutieve gegevens, vermeld in het eerste lid, aan het Vlaams Energieagentschap werden verstrekt door het Vlaams Energieagentschap reeds een bandingfactor werd berekend, dan komt deze bandingfactor te vervallen. In voorkomend geval wordt opnieuw een bandingfactor berekend.<br>
+Indien voor de productie-installatie waarvoor de inconsistente of foutieve gegevens, vermeld in het eerste lid, aan het VEKA werden verstrekt door het VEKA reeds een bandingfactor werd berekend, dan komt deze bandingfactor te vervallen. In voorkomend geval wordt opnieuw een bandingfactor berekend.<br>
 <br>
-§ 3. Wanneer het Vlaams Energieagentschap vaststelt dat de eigenaar van een productie-installatie of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen informatie heeft overgemaakt die door het Vlaams Energieagentschap werd opgevraagd en die volgens de op dat moment gekende feiten, niet consistent of niet in overeenstemming met de realiteit is, en die een correcte berekening van een projectspecifieke bandingfactor zoals bedoeld in artikel 7.1.4/1., § 1, tweede lid, in de weg staat, dan kan het Vlaams Energieagentschap die eigenaar, of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen, een administratieve geldboete opleggen die minimaal 100 % en maximaal 130 % bedraagt van de onterecht ontvangen steun. De onterecht ontvangen steun wordt berekend als het aantal onterecht toegekende certificaten vermenigvuldigd met de bandingdeler.<br>
+§ 3. Wanneer het VEKA vaststelt dat de eigenaar van een productie-installatie of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen informatie heeft overgemaakt die door het VEKA werd opgevraagd en die volgens de op dat moment gekende feiten, niet consistent of niet in overeenstemming met de realiteit is, en die een correcte berekening van een projectspecifieke bandingfactor zoals bedoeld in artikel 7.1.4/1., § 1, tweede lid, in de weg staat, dan kan het VEKA die eigenaar, of de natuurlijke persoon of rechtspersoon die daartoe door hem werd aangewezen, een administratieve geldboete opleggen die minimaal 100 % en maximaal 130 % bedraagt van de onterecht ontvangen steun. De onterecht ontvangen steun wordt berekend als het aantal onterecht toegekende certificaten vermenigvuldigd met de bandingdeler.<br>
 <br>
-Indien voor de productie-installatie waarvoor de inconsistente of foutieve gegevens, vermeld in het eerste lid, aan het Vlaams Energieagentschap werden verstrekt door het Vlaams Energieagentschap reeds een bandingfactor werd berekend, dan komt deze bandingfactor te vervallen. In voorkomend geval wordt opnieuw een bandingfactor berekend.
+Indien voor de productie-installatie waarvoor de inconsistente of foutieve gegevens, vermeld in het eerste lid, aan het VEKA werden verstrekt door het VEKA reeds een bandingfactor werd berekend, dan komt deze bandingfactor te vervallen. In voorkomend geval wordt opnieuw een bandingfactor berekend.
 
 ### ART. 13.4.3.
 
-§ 1. Bij niet-naleving van een actieverplichting, vastgelegd in artikel 7.6.1, kan het Vlaams Energieagentschap aan de brandstofleverancier een administratieve geldboete opleggen die niet lager mag zijn dan 1000 euro en niet hoger dan 1 % van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het laatste afgelopen boekjaar.<br /><br />§ 2. Bij niet-naleving van een middelenverplichting, vastgelegd ter uitvoering van artikel 7.6.1, legt het Vlaams Energieagentschap aan de brandstofleverancier een administratieve geldboete op die het drievoudige bedraagt van het deel van de middelenverplichting dat niet werd nageleefd.<br /><br />§ 3. Bij niet-naleving van een informatie- en sensibiliseringsverplichting, vastgelegd ter uitvoering van artikel 7.6.2, kan het Vlaams Energieagentschap aan de brandstofleverancier een administratieve geldboete opleggen die niet lager mag zijn dan 1000 euro en niet hoger dan 1 % van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het laatste afgelopen boekjaar.
+§ 1. Bij niet-naleving van een actieverplichting, vastgelegd in artikel 7.6.1, kan het VEKA aan de brandstofleverancier een administratieve geldboete opleggen die niet lager mag zijn dan 1000 euro en niet hoger dan 1 % van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het laatste afgelopen boekjaar.<br>
+<br>
+§ 2. Bij niet-naleving van een middelenverplichting, vastgelegd ter uitvoering van artikel 7.6.1, legt het VEKA aan de brandstofleverancier een administratieve geldboete op die het drievoudige bedraagt van het deel van de middelenverplichting dat niet werd nageleefd.<br>
+<br>
+§ 3. Bij niet-naleving van een informatie- en sensibiliseringsverplichting, vastgelegd ter uitvoering van artikel 7.6.2, kan het VEKA aan de brandstofleverancier een administratieve geldboete opleggen die niet lager mag zijn dan 1000 euro en niet hoger dan 1 % van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het laatste afgelopen boekjaar.
 
 ### ART. 13.4.4.
 
@@ -3212,37 +3255,37 @@ Indien voor de productie-installatie waarvoor de inconsistente of foutieve gegev
 
 ### ART. 13.4.5.
 
-§ 1. Als een startverklaring of een voorafberekening niet voldoet aan de voorwaarden inzake vorm en inhoud die door de Vlaamse Regering werden vastgelegd met toepassing van artikel 11.1.13, legt het Vlaams Energieagentschap de verslaggever een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro.<br>
+§ 1. Als een startverklaring of een voorafberekening niet voldoet aan de voorwaarden inzake vorm en inhoud die door de Vlaamse Regering werden vastgelegd met toepassing van artikel 11.1.13, legt het VEKA de verslaggever een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro.<br>
 <br>
-§ 2. Als een architect niet voldoet aan de ver-plichtingen van artikel 11.1.6/1, § 3, maant het Vlaams Energieagentschap de architect aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br>
+§ 2. Als een architect niet voldoet aan de ver-plichtingen van artikel 11.1.6/1, § 3, maant het VEKA de architect aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br>
 <br>
-Als de architect bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaamse Energieagentschap de architect een adminis-tratieve geldboete op. Die administratieve geldboete bedraagt 250 euro.<br>
+Als de architect bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaamse Energieagentschap de architect een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro.<br>
 <br>
-§ 3. Als een startverklaring of een voorafberekening&nbsp;laattijdig of helemaal niet wordt ingediend, maant het Vlaams Energieagentschap de aangifteplichtige aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br>
+§ 3. Als een startverklaring of een voorafberekening&nbsp;laattijdig of helemaal niet wordt ingediend, maant het VEKA de aangifteplichtige aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br>
 <br>
-Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaams Energieagentschap de aangifteplichtige een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro.<br>
+Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het VEKA de aangifteplichtige een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro.<br>
 <br>
-§ 4. Als een EPB-aangifte niet voldoet aan de voorwaarden inzake vorm en inhoud die door de Vlaamse Regering werden vastgelegd met toepassing van artikel 11.1.13, maant het Vlaams Energieagentschap de verslaggever aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br>
+§ 4. Als een EPB-aangifte niet voldoet aan de voorwaarden inzake vorm en inhoud die door de Vlaamse Regering werden vastgelegd met toepassing van artikel 11.1.13, maant het VEKA de verslaggever aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br>
 <br>
-Als de verslaggever bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaams Energieagentschap de verslaggever een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro, vermeerderd met 1 euro per kubieke meter nieuw gecreëerd beschermd volume of bij renovatie of functiewijziging nieuw gecreëerd beschermd volume. Het Vlaams Energieagentschap legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting moet worden nageleefd.<br>
+Als de verslaggever bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het VEKA de verslaggever een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro, vermeerderd met 1 euro per kubieke meter nieuw gecreëerd beschermd volume of bij renovatie of functiewijziging nieuw gecreëerd beschermd volume. Het VEKA legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting moet worden nageleefd.<br>
 <br>
-Als de verslaggever bij het verstrijken van de termijn, vermeld in het tweede lid, in gebreke blijft, legt het Vlaams Energieagentschap de verslaggever een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt 25 euro per kalenderdag dat de in het tweede lid vermelde termijn wordt overschreven.<br>
+Als de verslaggever bij het verstrijken van de termijn, vermeld in het tweede lid, in gebreke blijft, legt het VEKA de verslaggever een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt 25 euro per kalenderdag dat de in het tweede lid vermelde termijn wordt overschreven.<br>
 <br>
-§ 5. Als een EPB-aangifte laattijdig of helemaal niet wordt ingediend, maant het Vlaams Ener-gieagentschap de aangifteplichtige aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br>
+§ 5. Als een EPB-aangifte laattijdig of helemaal niet wordt ingediend, maant het Vlaams Energieagentschap de aangifteplichtige aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br>
 <br>
-Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaams Energieagentschap de aangifteplichtige een administratieve geldboete op. Die administratieve geldboete bedraagt 1000 euro voor elke EPB-aangifte die niet of te laat is ingediend, vermeerderd met 1 euro per kubieke meter nieuw gecreëerd beschermd volume of bij renovatie of functiewijziging nieuw gecreëerd beschermd volume. Het Vlaams Energieagentschap legt ook een nieuwe termijn vast waarin de betreffende verplichting moet worden nageleefd. De maximale boete bedraagt 10.000 euro per EPB-aangifte die niet of te laat is ingediend.<br>
+Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het VEKA de aangifteplichtige een administratieve geldboete op. Die administratieve geldboete bedraagt 1000 euro voor elke EPB-aangifte die niet of te laat is ingediend, vermeerderd met 1 euro per kubieke meter nieuw gecreëerd beschermd volume of bij renovatie of functiewijziging nieuw gecreëerd beschermd volume. Het VEKA legt ook een nieuwe termijn vast waarin de betreffende verplichting moet worden nageleefd. De maximale boete bedraagt 10.000 euro per EPB-aangifte die niet of te laat is ingediend.<br>
 <br>
-Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het tweede lid, in gebreke blijft, legt het Vlaams Energieagentschap de aangifteplichtige een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt&nbsp;10 euro per kalenderdag dat de in het tweede lid vermelde termijn wordt overschreden.<br>
+Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het tweede lid, in gebreke blijft, legt het VEKA de aangifteplichtige een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt&nbsp;10 euro per kalenderdag dat de in het tweede lid vermelde termijn wordt overschreden.<br>
 <br>
-Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft en uit een controle blijkt dat de EPB-eisen niet werden gerespecteerd, legt het Vlaams Energieagentschap, naast de administratieve geldboete, vermeld in het tweede lid, de aangifteplichtige een administratieve geldboete op die het dubbele bedraagt van de administratieve geldboete die berekend is volgens de bepalingen van artikel 13.4.6. Voor de bepaling van die administratieve geldboete worden daarbij de waarden die vastgesteld zijn in de EPB-aangifte, vervangen door de waarden vastgesteld bij controle.<br>
+Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft en uit een controle blijkt dat de EPB-eisen niet werden gerespecteerd, legt het VEKA, naast de administratieve geldboete, vermeld in het tweede lid, de aangifteplichtige een administratieve geldboete op die het dubbele bedraagt van de administratieve geldboete die berekend is volgens de bepalingen van artikel 13.4.6. Voor de bepaling van die administratieve geldboete worden daarbij de waarden die vastgesteld zijn in de EPB-aangifte, vervangen door de waarden vastgesteld bij controle.<br>
 <br>
-§ 6. Als het Vlaams Energieagentschap vaststelt dat een natuurlijke persoon of rechtspersoon in strijd met de voorwaarden, vermeld in artikel 1.1.3, 127°, toch optreedt als verslaggever, maant het Vlaams Energieagentschap die persoon aan om binnen een gestelde termijn die activiteiten te staken en om de dossiers waarin hij actief is over te dragen aan een verslaggever, als vermeld in artikel 1.1.3, 127°. Het Vlaams Energieagentschap ontzegt die persoon tevens alle toegang tot de energieprestatiedatabank.<br>
+§ 6. Als het VEKA vaststelt dat een natuurlijke persoon of rechtspersoon in strijd met de voorwaarden, vermeld in artikel 1.1.3, 127°, toch optreedt als verslaggever, maant het VEKA die persoon aan om binnen een gestelde termijn die activiteiten te staken en om de dossiers waarin hij actief is over te dragen aan een verslaggever, als vermeld in artikel 1.1.3, 127°. Het VEKA ontzegt die persoon tevens alle toegang tot de energieprestatiedatabank.<br>
 <br>
-Als deze persoon bij het verstrijken van de termijn, vermeld in het eerste lid in gebreke blijft, legt het Vlaams Energieagentschap hem een boete op van 500 euro per ingediende EPB-aangifte.
+Als deze persoon bij het verstrijken van de termijn, vermeld in het eerste lid in gebreke blijft, legt het VEKA hem een boete op van 500 euro per ingediende EPB-aangifte.
 
 ### ART. 13.4.6.
 
-Als uit de EPB-aangifte blijkt dat de EPB-eisen vermeld in artikel 11.1.1, § 1, niet werden gerespecteerd, legt het Vlaams Energieagentschap, tot vijf jaar na de indiening van de EPB-aangifte, de aangifteplichtige een administratieve geldboete op van :<br>
+Als uit de EPB-aangifte blijkt dat de EPB-eisen vermeld in artikel 11.1.1, § 1, niet werden gerespecteerd, legt het VEKA, tot vijf jaar na de indiening van de EPB-aangifte, de aangifteplichtige een administratieve geldboete op van :<br>
 1° 60 euro per afwijking van 1 W/K op het vlak van de thermische isolatie van de constructie-elementen en het K-peil, zoals bepaald in 1.1.1 en 1.1.2 van de bijlage bij dit decreet;<br>
 2° 24 eurocent per afwijking van 1 MJ/jaar op het vlak van de globale energetische prestatie, zoals bepaald in 1.2 van de bijlage bij dit decreet;<br>
 3° 48 eurocent per 1000 Kh en per m3 afwijking op het vlak van het risico op oververhitting, zoals bepaald in 1.3 van de bijlage bij dit decreet;<br>
@@ -3259,15 +3302,15 @@ Als uit de EPB-aangifte blijkt dat de EPB-eisen vermeld in artikel 11.1.1, § 1,
 14° 2,5 euro per afwijking van 1 m² op de eis betreffende de energieverbruiksmeters, bepaald op de wijze, vermeld in punt 1.7.9 van de bijlage bij dit decreet.<br>
 15° 1,5 euro per afwijking van 1 kWh op vlak van het S-peil, bepaald conform punt 1.8 van de bijlage bij dit decreet.<br>
 <br>
-Het Vlaams Energieagentschap vestigt de administratieve geldboete pas als de totale administratieve geldboete die opgelegd wordt op basis van dit artikel, ten minste 250 euro bedraagt.<br>
+Het VEKA vestigt de administratieve geldboete pas als de totale administratieve geldboete die opgelegd wordt op basis van dit artikel, ten minste 250 euro bedraagt.<br>
 <br>
 De maximale boete bedraagt 25 euro per m3 nieuw gecreëerd beschermd volume en 10 euro per m3 beschermd volume dat gerenoveerd wordt of een functiewijziging ondergaat.<br>
 <br>
-§ 2. In afwijking van § 1 zal het Vlaams Energieagentschap indien uit de EPB-aangifte blijkt dat zowel aan de EPB-eisen, vermeld in artikel 11.1.1, § 1, als de EPB-eisen, vermeld in § 1/1, niet is voldaan, de sancties, vermeld in § 1, eerste lid, 1°, wat betreft het K-peil, en § 1, eerste lid, 2° en&nbsp;15°, enkel opleggen wanneer de gemeente niet binnen één jaar na het indienen van de EPB-aangifte is overgegaan tot het sanctioneren van de aangifteplichtige op grond van artikel 13.6.1, § 1. Deze sanctie wordt door het Vlaams Energieagentschap vermeerderd met de sanctie, vermeld in artikel 13.6.1, § 1, eerste lid. De maximale boete bedraagt 25 euro per m3 nieuw gecreëerd beschermd volume.
+§ 2. In afwijking van § 1 zal het VEKA indien uit de EPB-aangifte blijkt dat zowel aan de EPB-eisen, vermeld in artikel 11.1.1, § 1, als de EPB-eisen, vermeld in § 1/1, niet is voldaan, de sancties, vermeld in § 1, eerste lid, 1°, wat betreft het K-peil, en § 1, eerste lid, 2° en&nbsp;15°, enkel opleggen wanneer de gemeente niet binnen één jaar na het indienen van de EPB-aangifte is overgegaan tot het sanctioneren van de aangifteplichtige op grond van artikel 13.6.1, § 1. Deze sanctie wordt door het VEKA vermeerderd met de sanctie, vermeld in artikel 13.6.1, § 1, eerste lid. De maximale boete bedraagt 25 euro per m3 nieuw gecreëerd beschermd volume.
 
 ### ART. 13.4.7.
 
-<p>§ 1. Als bij controle blijkt dat de EPB-aangifte niet met de werkelijkheid overeenstemt, legt het Vlaams Energieagentschap tot vijf jaar na het indienen van de EPB-aangifte de verslaggever een administratieve geldboete op van :<br>
+<p>§ 1. Als bij controle blijkt dat de EPB-aangifte niet met de werkelijkheid overeenstemt, legt het VEKA tot vijf jaar na het indienen van de EPB-aangifte de verslaggever een administratieve geldboete op van :<br>
 1° 60 euro per afwijking van 1 W/K op het vlak van de thermische isolatie van de constructie-elementen en het K-peil, zoals bepaald in punt 2.1.1 en 2.1.2 van de bijlage die bij dit decreet is gevoegd;<br>
 2° 24 eurocent per afwijking van 1 MJ/jaar op het vlak van de globale energetische prestatie, zoals bepaald in punt 2.2 van de bijlage die bij dit decreet is gevoegd;<br>
 3° 48 eurocent per 1000 Kh en per m3 afwijking op het vlak van het risico op oververhitting, zoals bepaald in punt 2.3 van de bijlage die bij dit decreet is gevoegd;<br>
@@ -3309,35 +3352,35 @@ Een in de EPB-aangifte foutief opgegeven waarde met betrekking tot het S-peil ka
 <br>
 De maximale boete bedraagt 10 euro per m® beschermd volume dat nieuw gebouwd wordt, gerenoveerd wordt of een functiewijziging ondergaat en bedraagt niet meer dan 20.000 euro.</p>
 
-<p>Het Vlaams Energieagentschap vestigt de administratieve geldboete pas als de totale administratieve geldboete die opgelegd wordt op basis van dit artikel, ten minste 250 euro bedraagt.<br>
+<p>Het VEKA vestigt de administratieve geldboete pas als de totale administratieve geldboete die opgelegd wordt op basis van dit artikel, ten minste 250 euro bedraagt.<br>
 <br>
 § 2. Voor EPB-aangiften met betrekking tot gebouwen waarvan de startverklaring in 2006 werd ingediend, bedraagt de administratieve geldboete slechts de helft van het bedrag dat op basis van § 1, eerste lid, is verschuldigd, met een minimum van 250 euro.<br>
 <br>
-§ 3. De verslaggever dient binnen zestig kalenderdagen na de vestiging van de administratieve geldboete bij het Vlaams Energieagentschap een EPB-aangifte in die in overeenstemming is met de controlevaststellingen.<br>
+§ 3. De verslaggever dient binnen zestig kalenderdagen na de vestiging van de administratieve geldboete bij het VEKA een EPB-aangifte in die in overeenstemming is met de controlevaststellingen.<br>
 <br>
 De verslaggever brengt de aangifteplichtige daarvan onmiddellijk op de hoogte en bezorgt hem de nieuw ingediende EPB-aangifte. De kosten voor de herindiening van de EPB-aangifte vallen volledig ten laste van de verslaggever.<br>
 <br>
-§ 4. Als het Vlaams Energieagentschap vaststelt dat de EPB-aangifte niet in overeenstemming is met de as-builtsituatie op de datum van de indiening van de EPB-aangifte of met de gemaakte controlevaststellingen, verplicht het Vlaams Energieagentschap de verslaggever om binnen de 60 kalenderdagen een nieuwe EPB-aangifte in te dienen die in overeenstemming is met zijn controlevaststellingen.<br>
+§ 4. Als het VEKA vaststelt dat de EPB-aangifte niet in overeenstemming is met de as-builtsituatie op de datum van de indiening van de EPB-aangifte of met de gemaakte controlevaststellingen, verplicht het VEKA de verslaggever om binnen de 60 kalenderdagen een nieuwe EPB-aangifte in te dienen die in overeenstemming is met zijn controlevaststellingen.<br>
 <br>
-Als het Vlaams Energieagentschap vaststelt dat de indeling van het bouwproject in EPB-eenheden in de EPB-aangifte niet correct is gebeurd, verplicht het Vlaams Energieagentschap de verslaggever om binnen 60 kalenderdagen een nieuwe EPB-aangifte in te dienen volgens de correcte indeling in EPB-eenheden.<br>
+Als het VEKA vaststelt dat de indeling van het bouwproject in EPB-eenheden in de EPB-aangifte niet correct is gebeurd, verplicht het VEKA de verslaggever om binnen 60 kalenderdagen een nieuwe EPB-aangifte in te dienen volgens de correcte indeling in EPB-eenheden.<br>
 <br>
 De verslaggever brengt de aangifteplichtige daarvan onmiddellijk op de hoogte en bezorgt hem de nieuw ingediende EPB-aangifte. De kosten voor het herindienen van de EPB-aangifte zijn volledig ten laste van de verslaggever.<br>
 <br>
-&nbsp;§ 5. Als een overtreding van de verplichting, vermeld in paragraaf 3, eerste lid, of in paragraaf 4, eerste en tweede lid, wordt vastgesteld, maant het Vlaams Energieagentschap de verslaggever aan om binnen een vastgestelde termijn de verplichting na te leven. Als de verslaggever bij het verstrijken van die termijn in gebreke blijft, legt het Vlaams Energieagentschap een administratieve geldboete van 500 euro op. Het Vlaams Energieagentschap legt ook een nieuwe termijn vast waarin de betreffende verplichting moet worden nageleefd.<br>
+&nbsp;§ 5. Als een overtreding van de verplichting, vermeld in paragraaf 3, eerste lid, of in paragraaf 4, eerste en tweede lid, wordt vastgesteld, maant het VEKA de verslaggever aan om binnen een vastgestelde termijn de verplichting na te leven. Als de verslaggever bij het verstrijken van die termijn in gebreke blijft, legt het VEKA een administratieve geldboete van 500 euro op. Het VEKA legt ook een nieuwe termijn vast waarin de betreffende verplichting moet worden nageleefd.<br>
 <br>
-Als de verslaggever bij het verstrijken van de termijn, vermeld in het&nbsp;eerste lid, in fine,&nbsp;in gebreke blijft, legt het Vlaams Energieagentschap de verslaggever een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt 10 euro per kalenderdag dat de termijn, vermeld in het eerste lid, wordt overschreden.</p>
+Als de verslaggever bij het verstrijken van de termijn, vermeld in het&nbsp;eerste lid, in fine,&nbsp;in gebreke blijft, legt het VEKA de verslaggever een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt 10 euro per kalenderdag dat de termijn, vermeld in het eerste lid, wordt overschreden.</p>
 
 ### ART. 13.4.7/1.
 
-§ 1. Onverminderd artikel 13.4.7 kan het Vlaams Energieagentschap verslaggevers die herhaaldelijk fouten maken, verplichten om binnen een door het agentschap vastgestelde termijn te slagen voor een door of namens het agentschap georganiseerd examen. Verslaggevers die binnen deze termijn niet slagen voor dit examen, worden in hun activiteiten geschorst totdat zij alsnog slagen voor het examen.<br>
+§ 1. Onverminderd artikel 13.4.7 kan het VEKA verslaggevers die herhaaldelijk fouten maken, verplichten om binnen een door het agentschap vastgestelde termijn te slagen voor een door of namens het agentschap georganiseerd examen. Verslaggevers die binnen deze termijn niet slagen voor dit examen, worden in hun activiteiten geschorst totdat zij alsnog slagen voor het examen.<br>
 <br>
-Het Vlaams Energieagentschap kan tevens verslaggevers die blijk geven van kennelijke onbekwaamheid, die de erkenningsvoorwaarden niet naleven of die activiteiten uitvoeren die in strijd zijn met de bepalingen van artikel 11.1.6/1, § 1, tweede lid, schorsen in hun activiteiten, vermeld in dit decreet, voor een termijn die het Vlaams Energieagentschap zelf bepaalt, of de erkenning als verslaggever definitief intrekken. De Vlaamse Regering kan de gevallen bepalen waarbij vooraleer de schorsing van een verslaggever wordt opgeheven, hij dient te slagen voor een door of namens het Vlaams Energieagentschap georganiseerd examen.<br>
+Het VEKA kan tevens verslaggevers die blijk geven van kennelijke onbekwaamheid, die de erkenningsvoorwaarden niet naleven of die activiteiten uitvoeren die in strijd zijn met de bepalingen van artikel 11.1.6/1, § 1, tweede lid, schorsen in hun activiteiten, vermeld in dit decreet, voor een termijn die het VEKA zelf bepaalt, of de erkenning als verslaggever definitief intrekken. De Vlaamse Regering kan de gevallen bepalen waarbij vooraleer de schorsing van een verslaggever wordt opgeheven, hij dient te slagen voor een door of namens het VEKA georganiseerd examen.<br>
 <br>
-Wanneer de verslaggever een rechtspersoon is, kan het Vlaams Energieagentschap de sanctie, vermeld in het eerste en tweede lid, opleggen aan één of meer van de natuurlijke personen, vermeld in artikel 1.1.3, 127°.<br>
+Wanneer de verslaggever een rechtspersoon is, kan het VEKA de sanctie, vermeld in het eerste en tweede lid, opleggen aan één of meer van de natuurlijke personen, vermeld in artikel 1.1.3, 127°.<br>
 <br>
 De Vlaamse Regering kan bijkomende voorwaarden koppelen aan de opheffing van een schorsing.<br>
 <br>
-§ 2. Binnen een termijn van dertig kalenderdagen na de betekening van de beslissing van het Vlaams Energieagentschap, kan de betrokken verslaggever bij wege van aangetekend schrijven met ontvangstbewijs beroep aantekenen bij de minister. De verslaggever kan vragen om gehoord te worden.<br>
+§ 2. Binnen een termijn van dertig kalenderdagen na de betekening van de beslissing van het VEKA, kan de betrokken verslaggever bij wege van aangetekend schrijven met ontvangstbewijs beroep aantekenen bij de minister. De verslaggever kan vragen om gehoord te worden.<br>
 <br>
 De minister of zijn gemachtigde neemt een beslissing binnen een termijn van dertig kalenderdagen, die ingaat op de dag waarop het beroep is ontvangen.<br>
 <br>
@@ -3347,13 +3390,13 @@ Als de minister of zijn gemachtigde zijn beslissing niet heeft betekend binnen d
 
 § 1. Het bedrag van de verschuldigde administratieve geldboete wordt aan de betrokkene meegedeeld per aangetekende zending, met vermelding van de redenen waarom de boete wordt opgelegd en met verwijzing naar de artikelen die van toepassing zijn. In voorkomend geval wordt de berekening bijgevoegd.<br>
 <br>
-Indien de betrokkene het oneens is met de sanctie kan hij, binnen dertig kalenderdagen na de kennisgeving, vermeld in het eerste lid, het Vlaams Energieagentschap van zijn tegenargumenten op de hoogte brengen per aangetekende zending. Na het verstrijken van die termijn is de beslissing definitief.<br>
+Indien de betrokkene het oneens is met de sanctie kan hij, binnen dertig kalenderdagen na de kennisgeving, vermeld in het eerste lid, het VEKA van zijn tegenargumenten op de hoogte brengen per aangetekende zending. Na het verstrijken van die termijn is de beslissing definitief.<br>
 <br>
-Het Vlaams Energieagentschap kan zijn beslissing herroepen of het bedrag van de administratieve geldboete aanpassen als die tegenargumenten gegrond blijken te zijn. In dat geval vindt binnen de dertig kalenderdagen na het ontvangen van de tegenargumenten van de betrokkene een nieuwe kennisgeving plaats.<br>
+Het VEKA kan zijn beslissing herroepen of het bedrag van de administratieve geldboete aanpassen als die tegenargumenten gegrond blijken te zijn. In dat geval vindt binnen de dertig kalenderdagen na het ontvangen van de tegenargumenten van de betrokkene een nieuwe kennisgeving plaats.<br>
 <br>
 § 2. Na de kennisgeving, vermeld in § 1, moet de administratieve geldboete binnen zestig kalenderdagen betaald worden.<br>
 <br>
-Het Vlaams Energieagentschap kan uitstel van betaling verlenen voor een termijn die het zelf bepaalt.<br>
+Het VEKA kan uitstel van betaling verlenen voor een termijn die het zelf bepaalt.<br>
 <br>
 § 3. Indien de betrokkene in gebreke blijft bij het betalen van de administratieve geldboete, wordt de geldboete bij dwangbevel ingevorderd.<br>
 <br>
@@ -3369,15 +3412,17 @@ De verjaring wordt gestuit op de wijze en onder de voorwaarden die bepaald zijn 
 
 ### ART. 13.4.9.
 
-§ 1. Als de aangifteplichtige bij de uitvoering van de werken, handelingen   of wijzigingen de EPB-eisen, vermeld in artikel 11.1.1, § 2, niet naleeft, kan   het Vlaams Energieagentschap een administratieve geldboete opleggen die niet   lager mag zijn dan 250 euro, noch hoger dan 5.000 euro, afhankelijk van het type   gebouw, de bruikbare vloeroppervlakte of het beschermd volume.<BR><BR>§ 2. De   procedure omschreven in artikel 13.4.8 is van overeenkomstige   toepassing.
+§ 1. Als de aangifteplichtige bij de uitvoering van de werken, handelingen of wijzigingen de EPB-eisen, vermeld in artikel 11.1.1, § 2, niet naleeft, kan het VEKA een administratieve geldboete opleggen die niet lager mag zijn dan 250 euro, noch hoger dan 5.000 euro, afhankelijk van het type gebouw, de bruikbare vloeroppervlakte of het beschermd volume.<br>
+<br>
+§ 2. De procedure omschreven in artikel 13.4.8 is van overeenkomstige toepassing.
 
 ### ART 13.4.9/1.
 
-§ 1. Als het Vlaams Energieagentschap vaststelt dat in strijd met artikel 11.2/2.1 de door de Vlaamse Regering vastgestelde minimale eisen inzake renovatie bij niet-residentiële gebouwen niet werden gerespecteerd, dan kan het Vlaams Energieagentschap aan de natuurlijke persoon of de rechtspersoon op wie de verplichting rust een administratieve geldboete opleggen van 500 euro tot en met 200.000 euro.<br>
+§ 1. Als het VEKA vaststelt dat in strijd met artikel 11.2/2.1 de door de Vlaamse Regering vastgestelde minimale eisen inzake renovatie bij niet-residentiële gebouwen niet werden gerespecteerd, dan kan het VEKA aan de natuurlijke persoon of de rechtspersoon op wie de verplichting rust een administratieve geldboete opleggen van 500 euro tot en met 200.000 euro.<br>
 <br>
-Het Vlaams Energieagentschap legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting alsnog moet worden nageleefd.<br>
+Het VEKA legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting alsnog moet worden nageleefd.<br>
 <br>
-Als de natuurlijke persoon of de rechtspersoon bij het verstrijken van de termijn, vermeld in het tweede lid, nog steeds in gebreke blijft, kan het Vlaams Energieagentschap hem of haar een nieuwe administratieve geldboete opleggen, als bedoeld in het eerste lid. Het Vlaams Energieagentschap legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting alsnog moet worden nageleefd. Deze procedure wordt herhaald tot aan de op grond van artikel 11.2/2.1 vastgestelde verplichting is voldaan.<br>
+Als de natuurlijke persoon of de rechtspersoon bij het verstrijken van de termijn, vermeld in het tweede lid, nog steeds in gebreke blijft, kan het VEKA hem of haar een nieuwe administratieve geldboete opleggen, als bedoeld in het eerste lid. Het VEKA legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting alsnog moet worden nageleefd. Deze procedure wordt herhaald tot aan de op grond van artikel 11.2/2.1 vastgestelde verplichting is voldaan.<br>
 <br>
 § 2. De procedure, vermeld in artikel 13.4.8, is van overeenkomstige toepassing.
 
@@ -3387,27 +3432,27 @@ Als de natuurlijke persoon of de rechtspersoon bij het verstrijken van de termij
 
 ### ART. 13.4.10.
 
-§ 1. Als bij de controle blijkt dat het energieprestatiecertificaat niet met de werkelijkheid overeenstemt en de betrokkene werd gehoord of naar behoren werd opgeroepen, kan het Vlaams Energieagentschap de energiedeskundige die het energieprestatiecertificaat heeft afgeleverd een administratieve geldboete opleggen, die niet lager mag zijn dan 250 euro, en niet hoger dan 5.000 euro.<br>
+§ 1. Als bij de controle blijkt dat het energieprestatiecertificaat niet met de werkelijkheid overeenstemt en de betrokkene werd gehoord of naar behoren werd opgeroepen, kan het VEKA de energiedeskundige die het energieprestatiecertificaat heeft afgeleverd een administratieve geldboete opleggen, die niet lager mag zijn dan 250 euro, en niet hoger dan 5.000 euro.<br>
 <br>
-Het Vlaams Energieagentschap verplicht de energiedeskundige om binnen de dertig kalenderdagen een nieuw energieprestatiecertificaat op te maken dat in overeenstemming is met de controlevaststellingen, en om dat nieuwe energieprestatiecertificaat te overhandigen aan de eigenaar of gebruiker van het gebouw. Indien het gebouw wordt verhuurd, dan bezorgt de eigenaar tevens een kopie van het nieuwe energieprestatiecertificaat aan de huurder.&nbsp;De kosten voor de opmaak van het energieprestatiecertificaat vallen volledig ten laste van de energiedeskundige.<br>
+Het VEKA verplicht de energiedeskundige om binnen de dertig kalenderdagen een nieuw energieprestatiecertificaat op te maken dat in overeenstemming is met de controlevaststellingen, en om dat nieuwe energieprestatiecertificaat te overhandigen aan de eigenaar of gebruiker van het gebouw. Indien het gebouw wordt verhuurd, dan bezorgt de eigenaar tevens een kopie van het nieuwe energieprestatiecertificaat aan de huurder.&nbsp;De kosten voor de opmaak van het energieprestatiecertificaat vallen volledig ten laste van de energiedeskundige.<br>
 <br>
-Als een overtreding van het tweede lid wordt vastgesteld, maant het Vlaams Energieagentschap de energiedeskundige aan om binnen een vastgestelde termijn de verplichtingen na te leven. Als de energiedeskundige bij het verstrijken van die termijn in gebreke blijft, legt het Vlaams Energieagentschap de energiedeskundige een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt 10 euro per kalenderdag dat de vastgelegde termijn wordt overschreden.<br>
+Als een overtreding van het tweede lid wordt vastgesteld, maant het VEKA de energiedeskundige aan om binnen een vastgestelde termijn de verplichtingen na te leven. Als de energiedeskundige bij het verstrijken van die termijn in gebreke blijft, legt het VEKA de energiedeskundige een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt 10 euro per kalenderdag dat de vastgelegde termijn wordt overschreden.<br>
 <br>
-§ 1/1. Als het Vlaams Energieagentschap vaststelt dat een geschorste energiedeskundige in strijd met de schorsingsvoorwaarden toch actief optreedt als energiedeskundige, legt het Vlaams Energieagentschap hem een boete op van 500 euro per ingediend energieprestatiecertificaat.<br>
+§ 1/1. Als het VEKA vaststelt dat een geschorste energiedeskundige in strijd met de schorsingsvoorwaarden toch actief optreedt als energiedeskundige, legt het VEKA hem een boete op van 500 euro per ingediend energieprestatiecertificaat.<br>
 <br>
-§ 2. Als zou blijken dat de eigenaar of gebruiker van een gebouw die krachtens artikel 11.2.1, § 1, eerste lid, over een energieprestatiecertificaat moet beschikken, niet over een geldig energieprestatiecertificaat beschikt, legt het Vlaams Energieagentschap hem, op voorwaarde dat de eigenaar of gebruiker werd gehoord of naar behoren werd opgeroepen, een administratieve geldboete op die niet lager is dan 500 euro, en niet hoger dan 5.000 euro.<br>
+§ 2. Als zou blijken dat de eigenaar of gebruiker van een gebouw die krachtens artikel 11.2.1, § 1, eerste lid, over een energieprestatiecertificaat moet beschikken, niet over een geldig energieprestatiecertificaat beschikt, legt het VEKA hem, op voorwaarde dat de eigenaar of gebruiker werd gehoord of naar behoren werd opgeroepen, een administratieve geldboete op die niet lager is dan 500 euro, en niet hoger dan 5.000 euro.<br>
 <br>
-§ 3. Als bij toepassing van artikel 11.2.2 blijkt dat de eigenaar geen geldig energieprestatiecertificaat aan de koper heeft overgedragen of aan de huurder ter beschikking gesteld heeft, en de betrokkene werd gehoord of naar behoren werd opgeroepen, legt het Vlaams Energieagentschap hem een administratieve geldboete op die niet lager is dan 500 euro, en niet hoger dan 5.000 euro.<br>
+§ 3. Als bij toepassing van artikel 11.2.2 blijkt dat de eigenaar geen geldig energieprestatiecertificaat aan de koper heeft overgedragen of aan de huurder ter beschikking gesteld heeft, en de betrokkene werd gehoord of naar behoren werd opgeroepen, legt het VEKA hem een administratieve geldboete op die niet lager is dan 500 euro, en niet hoger dan 5.000 euro.<br>
 <br>
 Die administratieve geldboete kan niet worden gecumuleerd met de sanctie vermeld in § 2.<br>
 <br>
-§ 3/1. Als bij de controle blijkt dat voor een te koop of te huur gesteld gebouw waarvoor een energieprestatiecertificaat beschikbaar dient te zijn, het kengetal of het label, het adres van het gebouw of de unieke code van het energieprestatiecertificaat niet worden vermeld in de publiciteit die wordt gemaakt, of indien het vermelde kengetal of het label, het vermelde adres van het gebouw of de vermelde unieke code van het energieprestatiecertificaat niet met de werkelijkheid overeenstemt, kan het Vlaams Energieagentschap de eigenaar of gebruiker een administratieve geldboete opleggen, die niet lager mag zijn dan 250 euro, noch hoger dan 5.000 euro.<br>
+§ 3/1. Als bij de controle blijkt dat voor een te koop of te huur gesteld gebouw waarvoor een energieprestatiecertificaat beschikbaar dient te zijn, het kengetal of het label, het adres van het gebouw of de unieke code van het energieprestatiecertificaat niet worden vermeld in de publiciteit die wordt gemaakt, of indien het vermelde kengetal of het label, het vermelde adres van het gebouw of de vermelde unieke code van het energieprestatiecertificaat niet met de werkelijkheid overeenstemt, kan het VEKA de eigenaar of gebruiker een administratieve geldboete opleggen, die niet lager mag zijn dan 250 euro, noch hoger dan 5.000 euro.<br>
 <br>
-In afwijking van het eerste lid legt het Vlaams Energieagentschap de sanctie, vermeld in het eerste lid, op aan de opdrachthouder,&nbsp;lasthebber of gevolmachtigde in het geval de eigenaar of gebruiker gebruikmaakte van deze opdrachthouder,&nbsp;lasthebber of gevolmachtigde in het kader van het te koop of te huur stellen van het gebouw.<br>
+In afwijking van het eerste lid legt het VEKA de sanctie, vermeld in het eerste lid, op aan de opdrachthouder,&nbsp;lasthebber of gevolmachtigde in het geval de eigenaar of gebruiker gebruikmaakte van deze opdrachthouder,&nbsp;lasthebber of gevolmachtigde in het kader van het te koop of te huur stellen van het gebouw.<br>
 <br>
 Die administratieve geldboete kan voor de eigenaar of gebruiker niet worden gecumuleerd met de sanctie, vermeld in paragraaf 2 of 3.<br>
 <br>
-§ 3/2. Indien blijkt dat de instrumenterende ambtenaar of een derde de hem op grond van artikel 11.2.2, § 3, opgelegde verplichtingen niet heeft nageleefd, en de betrokkene werd gehoord of naar behoren opgeroepen, dan kan het Vlaams Energieagentschap hem een administratieve geldboete opleggen die niet lager is dan 250 euro en niet hoger dan 5000 euro.<br>
+§ 3/2. Indien blijkt dat de instrumenterende ambtenaar of een derde de hem op grond van artikel 11.2.2, § 3, opgelegde verplichtingen niet heeft nageleefd, en de betrokkene werd gehoord of naar behoren opgeroepen, dan kan het VEKA hem een administratieve geldboete opleggen die niet lager is dan 250 euro en niet hoger dan 5000 euro.<br>
 <br>
 § 4. De procedure in artikel 13.4.8 is van overeenkomstige toepassing.
 
@@ -3415,7 +3460,7 @@ Die administratieve geldboete kan voor de eigenaar of gebruiker niet worden gecu
 
 ### ART 13.4.11.
 
-§ 1. Het Vlaams Energieagentschap legt, na de betrokkenen te hebben gehoord of daartoe naar behoren te hebben opgeroepen, aan iedere natuurlijke persoon of rechtspersoon in de volgende gevallen een administratieve geldboete op die niet lager is dan 150 euro, en niet hoger dan 20.000 euro:<br>
+§ 1. Het VEKA legt, na de betrokkenen te hebben gehoord of daartoe naar behoren te hebben opgeroepen, aan iedere natuurlijke persoon of rechtspersoon in de volgende gevallen een administratieve geldboete op die niet lager is dan 150 euro, en niet hoger dan 20.000 euro:<br>
 1° bij het zonder machtiging van de betrokken netbeheerder handelingen uitvoeren op het distributienet of op het plaatselijk vervoernet voor elektriciteit;<br>
 2° bij het zonder machtiging de aansluiting op het distributienet of op het plaatselijk vervoernet voor elektriciteit manipuleren;<br>
 3° bij het niet uitvoeren van de meldingsverplichtingen die voortvloeien uit de toepassing van dit decreet, de uitvoeringsbesluiten ervan, het aansluitingsreglement, het aansluitingscontract of het technisch reglement;<br>
@@ -3423,7 +3468,7 @@ Die administratieve geldboete kan voor de eigenaar of gebruiker niet worden gecu
 <br>
 § 2. Het opleggen van de administratieve boete wordt aan de betrokkene meegedeeld in een met redenen omklede aangetekende brief, met verwijzing naar de bepalingen die van toepassing zijn en de hoogte van de administratieve boete.<br>
 <br>
-§ 3. Na de ontvangst van de kennisgeving, vermeld in paragraaf 2, moet de administratieve geldboete binnen zestig kalenderdagen betaald worden. Het Vlaams Energieagentschap kan uitstel van betaling verlenen voor een door haar bepaalde termijn.<br>
+§ 3. Na de ontvangst van de kennisgeving, vermeld in paragraaf 2, moet de administratieve geldboete binnen zestig kalenderdagen betaald worden. Het VEKA kan uitstel van betaling verlenen voor een door haar bepaalde termijn.<br>
 <br>
 § 4. Als de betrokkene nalaat de administratieve geldboete binnen de in paragraaf 3 bepaalde termijn te betalen, wordt de geldboete bij dwangbevel ingevorderd.<br>
 <br>
@@ -3437,7 +3482,7 @@ Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door een ambtenaar die d
 
 ### ART 13.4.12.
 
-§ 1. Wanneer het Vlaams Energieagentschap vaststelt dat niet aan de verplichtingen vastgesteld door of krachtens artikel 11/1.1.1 is voldaan, kan het Vlaams Energieagentschap aan de natuurlijke persoon of rechtspersoon die verantwoordelijk is voor het halen van die verplichting een administratieve geldboete opleggen van:<br>
+§ 1. Wanneer het VEKA vaststelt dat niet aan de verplichtingen vastgesteld door of krachtens artikel 11/1.1.1 is voldaan, kan het VEKA aan de natuurlijke persoon of rechtspersoon die verantwoordelijk is voor het halen van die verplichting een administratieve geldboete opleggen van:<br>
 1° 2000 euro per ontbrekend oplaadpunt voor elektrische voertuigen;<br>
 2° 1000 euro per parkeerplaats wanneer niet werd voorzien in infrastructuur voor leidingen om de installatie van oplaadpunten voor elektrische voertuigen in een later stadium mogelijk te maken.<br>
 <br>
@@ -3457,9 +3502,9 @@ Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door een ambtenaar die d
 
 ### ART 13.4.13.
 
-§ 1. Als het Vlaamse Energieagentschap vaststelt dat niet aan de verplichtingen, vastgesteld door of krachtens artikel 8.2.2, § 1, derde lid, of artikel 8.2.3, § 2, is voldaan, maant het Vlaams Energieagentschap de kredietnemer aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br>
+§ 1. Als het VEKA vaststelt dat niet aan de verplichtingen, vastgesteld door of krachtens artikel 8.2.2, § 1, derde lid, of artikel 8.2.3, § 2, is voldaan, maant het VEKA de kredietnemer aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br>
 <br>
-Als de kredietnemer bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaams Energieagentschap de kredietnemer een administratieve geldboete op van:<br>
+Als de kredietnemer bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het VEKA de kredietnemer een administratieve geldboete op van:<br>
 1° 300 euro voor een leningsbedrag tot en met 15.000 euro;<br>
 2° 600 euro voor een leningsbedrag van 15.001 tot en met 30.000 euro;<br>
 3° 900 euro voor een leningsbedrag van 30.001 euro tot en met 45.000 euro;<br>
@@ -3467,7 +3512,7 @@ Als de kredietnemer bij het verstrijken van de termijn, vermeld in het eerste li
 <br>
 § 2. De betrokkene wordt van de beslissing tot het opleggen van de administratieve geldboete in kennis gesteld met een aangetekende brief. De met redenen omklede kennisgeving vermeldt het bedrag van de administratieve geldboete, de bepalingen die van belang zijn en de beroepsmogelijkheid.<br>
 <br>
-§ 3. De administratieve geldboete moet worden betaald binnen zestig kalenderdagen na de kennisgeving van de definitieve beslissing. Het Vlaams Energieagentschap kan uitstel van betaling verlenen voor een door haar bepaalde termijn.<br>
+§ 3. De administratieve geldboete moet worden betaald binnen zestig kalenderdagen na de kennisgeving van de definitieve beslissing. Het VEKA kan uitstel van betaling verlenen voor een door haar bepaalde termijn.<br>
 <br>
 § 4. De vordering tot betaling van de administratieve geldboete verjaart na verloop van vijf jaar, te rekenen vanaf de dag waarop ze is ontstaan.<br>
 <br>
@@ -3798,7 +3843,7 @@ Groenestroomcertificaten en warmte-krachtcertificaten, afgeleverd voor 1 januari
 
 § 1. In afwijking van artikel 10.1.3, § 1, kan de Vlaamse Regering voor verslaggevers die zich voor 1 januari 2015 als zodanig al in de energieprestatiedatabank geregistreerd hebben en die minstens één startverklaring of één EPB-aangifte ingediend hebben, uitzonderingen toestaan op de erkenningsvoorwaarden.<br>
 <br>
-§ 2. In afwijking van artikel 11.1.6/1, § 1, tweede lid, beschikken verslaggevers over een termijn tot en met 30 juni 2017 om de mandaten, functies of activiteiten die tot de onverenigbaarheid, vermeld in artikel 11.1.6/1, § 1, tweede lid, aanleiding geven neer te leggen, en om desgevallend hun statuten aan te passen. Als de verslaggever nalaat de onverenigbare mandaten of functies neer te leggen, dan kan het Vlaams Energieagentschap de erkenning intrekken.
+§ 2. In afwijking van artikel 11.1.6/1, § 1, tweede lid, beschikken verslaggevers over een termijn tot en met 30 juni 2017 om de mandaten, functies of activiteiten die tot de onverenigbaarheid, vermeld in artikel 11.1.6/1, § 1, tweede lid, aanleiding geven neer te leggen, en om desgevallend hun statuten aan te passen. Als de verslaggever nalaat de onverenigbare mandaten of functies neer te leggen, dan kan het VEKA de erkenning intrekken.
 
 ### ART. 15.3.5/7.
 
