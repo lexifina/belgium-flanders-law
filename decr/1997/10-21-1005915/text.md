@@ -205,7 +205,7 @@ De definitief vastgestelde kaart van de historisch permanente graslanden treedt 
 
 ### ART. 10.
 
-§ 1. Het natuurrapport wordt opgesteld als een wetenschappelijk rapport in het kader van het milieurapport bedoeld in artikel 2.1.3. van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid. Het maakt er een herkenbaar maar integraal deel van uit.<br>
+§ 1. Het natuurrapport wordt opgesteld als een wetenschappelijk rapport in het kader van&nbsp;de rapportage bedoeld in artikel 2.1.3. van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid. Het maakt er een herkenbaar maar integraal deel van uit.<br>
 <br>
 Het dient tevens als inventarisatie bedoeld in artikel 7 van het Verdrag inzake biologische diversiteit, ondertekend in Rio de Janeiro op 5 juni 1992 en goedgekeurd bij decreet van 28 maart 1996.<br>
 <br>
