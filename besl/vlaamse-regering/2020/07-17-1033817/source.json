@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033817,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-17 tot wijziging van diverse decreten en besluiten van de Vlaamse Regering naar aanleiding van de codificatie van de decreten betreffende het Vlaamse woonbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033817/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "8be618483117a3031f531940685a344f74caea98549545206bc8b3a48a7699b8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033817&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2020-07-17",
+  "gazette": "2020-11-17",
+  "numac": 2020042913,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 90,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
