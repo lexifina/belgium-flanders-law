@@ -88,7 +88,7 @@ Een gevalideerd beroepskwalificatiedossier wordt voor inschaling aan een inschal
 Een inschalingscommissie wordt als volgt samengesteld :<br>
 1° zeven effectieve en zeven plaatsvervangende leden die een betrokken overheidsinstantie of een betrokken organisatie of sector aanwijst;<br>
 2° vijf effectieve en vijf plaatsvervangende leden die de Vlaamse Onderwijsraad aanwijst;<br>
-3° één effectief en één plaatsvervangend lid dat de VDAB aanwijst, en één effectief en één plaatsvervangend lid dat Syntra Vlaanderen aanwijst;<br>
+3° één effectief en één plaatsvervangend lid dat de VDAB aanwijst, en één effectief en één plaatsvervangend lid dat het Agentschap Innoveren en Ondernemen aanwijst;<br>
 4° twee onafhankelijke interne experten en twee plaatsvervangers uit het agentschap. Die experten zijn niet stemgerechtigd en nemen de proces- en kwaliteitsbewaking op.<br>
 <br>
 Het voorzitterschap wordt waargenomen door een onafhankelijke externe expert die het agentschap aanwijst.
