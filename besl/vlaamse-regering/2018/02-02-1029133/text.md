@@ -595,6 +595,25 @@ Het toezicht en de controle op de uitvoering van het decreet van 25 april 2014 e
 
 In 2018 wordt de subsidie, vermeld in artikel 48, § 1, voor het derde en vierde kwartaal uitbetaald in de maand december.
 
+### ART 51/1.
+
+In dit artikel wordt verstaan onder arbeidszorgreglementering:<br>
+1° het besluit van de Vlaamse Regering van 8 december 1998 tot uitvoering van het decreet inzake sociale werkplaatsen;<br>
+2° het ministerieel besluit van 20 december 2019 houdende toekenning van een subsidie aan een aantal arbeidszorginitiatieven in het kader van activerende arbeidszorg (2019-2020);<br>
+3° het ministerieel besluit van 27 maart 2020 houdende toekenning van een subsidie aan een aantal arbeidszorginitiatieven (2020).<br>
+<br>
+§ 2. Binnen de perken van het begrotingskrediet en met inachtname van de voorwaarden, vermeld in artikel 49/5, § 1, 1°, b) en c), 2°, en § 2, wordt met ingang van 1 april 2021 aan de organisaties die uiterlijk op 31 december 2020 beschikken over een erkenning overeenkomstig de arbeidszorgreglementering, een contingent van arbeidsmatige activiteiten in de sociale economie toegekend. Dat contingent houdt rekening met de invulling van het toegekende contingent van arbeidszorg overeenkomstig de arbeidszorgreglementering.<br>
+<br>
+De Vlaamse minister, bevoegd voor de sociale economie, bepaalt de verdere voorwaarden van de omzetting, vermeld in het eerste lid, die voor advies wordt voorgelegd aan de Adviescommissie Sociale Economie.<br>
+<br>
+§ 3. Aan de arbeidszorgmedewerkers die uiterlijk op 31 december 2020 deelnemen aan arbeidszorg overeenkomstig de arbeidszorgreglementering bij de organisaties als vermeld in paragraaf 2, wordt op 1 januari 2021 voor een periode van in beginsel twee jaar het statuut van deelnemers aan de arbeidsmatige activiteiten in de sociale economie verleend als vermeld in dit besluit.<br>
+<br>
+Het Departement Werk en Sociale Economie bezorgt aan de VDAB een nominatieve lijst met arbeidszorgmedewerkers. De VDAB evalueert tijdens een periode van uiterlijk twee jaar de gegevens, vermeld in artikel 49/1, tweede lid.<br>
+<br>
+§ 4. De Vlaamse minister, bevoegd voor de sociale economie, kan nadere voorwaarden op het vlak van leeftijd, werkloosheidsduur en deelname aan arbeidszorg bepalen voor de omzetting van de arbeidszorgmedewerkers naar deelnemers arbeidsmatige activiteiten in de sociale economie, vermeld in paragraaf 3, eerste lid.<br>
+<br>
+§ 5. De Vlaamse minister, bevoegd voor de sociale economie, kan na afloop van de periode, vermeld in paragraaf 3, eerste lid, categorieën van arbeidszorgmedewerkers om reden van gevorderde leeftijd en sociale situatie vrijstellen van de voorwaarden, vermeld in artikel 49/1 en 49/3.
+
 ### ART 52.
 
 &nbsp;Het decreet van 25 april 2014 houdende de werk- en zorgtrajecten treedt in werking op 1 februari 2018, met uitzondering van artikel 35 tot en met 37, die in werking treden op 1 mei 2018 en met uitzondering van artikel 25 en 26.
