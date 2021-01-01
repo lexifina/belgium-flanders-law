@@ -28,22 +28,22 @@ In het eerste lid, 1°, wordt verstaan onder gemeenschappelijk wonen: een woonvo
 ### ART 4.
 
 § 1. Met behoud van de toepassing van paragraaf 2, kan de Vlaamse Regering, wanneer dat noodzakelijk is om het doel van het project te kunnen realiseren, tijdens de duurtijd van het project op gemotiveerde aanvraag van de initiatiefnemer gehele of gedeeltelijke afwijkingen toestaan van de volgende bepalingen:<br>
-1° artikel 5, § 1, eerste lid, 1°, 2° en 8°, en derde lid, en artikel 5, § 2, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
-2° artikel 34, § 3, en artikel 42 van het voormelde decreet;<br>
-3° artikel 38 van het voormelde decreet, wat betreft de kwaliteitsnormen waaraan sociale woningen moeten voldoen, die krachtens dat artikel worden opgelegd als voorwaarde waaronder de subsidie wordt verleend;<br>
-4° artikel 40, § 2, derde en vierde lid, van het voormelde decreet;<br>
-5° artikel 78 en 79 van het voormelde decreet;<br>
-6° artikel 81, § 1, en artikel 82 en 83 van het voormelde decreet;<br>
-7° artikel 84 van het voormelde decreet;<br>
-8° titel VII van het voormelde decreet.<br>
+1° artikel 3.1, § 1, eerste lid, 1°, 2° en 8°, derde lid, en artikel 3.1, § 2, van de Vlaamse Codex Wonen van 2021;<br>
+2° artikel 4.27, artikel 4.45 en artikel 5.91 van de voormelde codex;<br>
+3° artikel 5.20 en 5.21 van de voormelde codex, wat betreft de kwaliteitsnormen waaraan sociale woningen moeten voldoen, die krachtens die artikelen worden opgelegd als voorwaarde waaronder de subsidie wordt verleend;<br>
+4° artikel 4.37, derde en vierde lid, van de voormelde codex;<br>
+5° boek 5, deel 4, titel 1 en 2, van de voormelde codex;<br>
+6° artikel 5.72, § 1, 5.73, 5.74 en 5.75 van de voormelde codex;<br>
+7° artikel 5.92 van de voormelde codex;<br>
+8° boek 6 van de voormelde codex.<br>
 <br>
 Op de bepaling, vermeld in paragraaf 1, eerste lid, 1°, staat de Vlaamse Regering geen afwijkingen toe als de veiligheid en gezondheid van de bewoners in het gedrang komen. De Vlaamse Regering kan bepalen wat de veiligheid en gezondheid van de bewoners in gedrang brengt.<br>
 <br>
-Zodra de Vlaamse Regering een afwijking van de bepaling, vermeld in paragraaf 1, eerste lid, 1°, toestaat, zijn de bepalingen van titel III, hoofdstuk II, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode niet van toepassing.<br>
+Zodra de Vlaamse Regering een afwijking van de bepaling, vermeld in paragraaf 1, eerste lid, 1°, toestaat, zijn de bepalingen van boek 3, deel 3, van de voormelde codex niet van toepassing.<br>
 <br>
 Wat betreft de bepalingen, vermeld in paragraaf 1, eerste lid, 2°, 5°, 6° en 8°, kan niet afgeweken worden van de voorwaarden voor onroerend bezit en inkomen die in de toepasselijke reglementering worden vastgesteld voor de rechthebbenden.<br>
 <br>
-In geen geval kan de Vlaamse Regering een afwijking toestaan van de verweermogelijkheden en de beroepsmogelijkheden die voorzien zijn in de Vlaamse Wooncode.<br>
+In geen geval kan de Vlaamse Regering een afwijking toestaan van de verweermogelijkheden en de beroepsmogelijkheden die voorzien zijn in de voormelde codex.<br>
 <br>
 § 2. In de projectaanvraag toont de initiatiefnemer aan welke wijzigingen en kosten vereist zijn om na afloop van de proefperiode weer te voldoen aan de vigerende regelgeving.
 
