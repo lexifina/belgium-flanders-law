@@ -795,7 +795,7 @@ De minister kent, met behoud van de toepassing van de sectorale subsidieregels d
 Met het oog op de versterking van de participatie van de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken in de jeugdhulpverlening gaat het agentschap Opgroeien regie over tot:<br>
 1° het inrichten van een vormingsaanbod dat jeugdhulpaanbieders versterkt in het hanteren van een participatieve basishouding;<br>
 2° de gerichte ondersteuning van de cliëntvertegenwoordigers in de Adviesraad en in het Intersectoraal Regionaal Overleg Jeugdhulp;<br>
-3° het installeren van een intersectoraal en interregionaal cliëntenforum waarin minstens minderjarigen en ouders vertegenwoordigd zijn om aan participatie in de jeugdhulpverlening vorm te geven;<br>
+3°...;<br>
 4° een monitoring van de uitoefening door minderjarigen, hun ouders, in voorkomend geval, hun opvoedingsverantwoordelijken en door de betrokken personen uit hun leefomgeving van de rechten, vermeld in het decreet van 12 juli 2013 en in het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp;<br>
 5° een driejaarlijkse rapportage aan de ministers van de monitoring, vermeld in punt 4° ;<br>
 6° gerichte acties om de uitoefening van de rechten, vermeld in punt 4°, door minderjarigen, hun ouders en, in voorkomend geval, hun opvoedingsverantwoordelijken en de betrokken personen uit hun leefomgeving te waarborgen.
@@ -962,21 +962,22 @@ De minister bepaalt welke combinaties van typemodules niet mogelijk zijn.
 <p>Met behoud van de toepassing van artikel 66, eerste en derde lid, van het decreet van 12 juli 2013 is het Intersectoraal Regionaal Overleg Jeugdhulp samengesteld uit een voorzitter, effectieve en plaatsvervangende leden.</p>
 
 <p>De leden, vermeld in artikel 66, eerste lid, van het decreet van 12 juli 2013, worden als volgt aangewezen:<br>
-1° de vertegenwoordiger van minderjarigen: op basis van een gemotiveerde kandidaatstelling door te schrijven naar een naamlijst van verenigingen in de betreffende regio;<br>
-2° de vertegenwoordiger van ouders: op basis van een gemotiveerde kandidaatstelling door te schrijven naar een naamlijst van verenigingen in de betreffende regio;<br>
-3° de vertegenwoordiger van etnisch-culturele minderheden: op voordracht van het Minderhedenforum;<br>
-4° de vertegenwoordiger van mensen in armoede: op voordracht van het Vlaams Netwerk van verenigingen waar armen het woord nemen;<br>
-5° de vertegenwoordiger van mensen met een handicap: op voordracht van het Vlaams Gebruikersoverleg voor Personen met een Handicap;<br>
+1° de vertegenwoordiger van minderjarigen: op voordracht van een cliëntenforum als vermeld in artikel 45/2 van het decreet van 12 juli 2013;<br>
+2° de vertegenwoordiger van ouders: op voordracht van een cliëntenforum als vermeld in artikel 45/2 van het decreet van 12 juli 2013;<br>
+3° de vertegenwoordiger van etnisch-culturele minderheden: op voordracht van een cliëntenforum als vermeld in artikel 45/2 van het decreet van 12 juli 2013;<br>
+4° de vertegenwoordiger van mensen in armoede: op voordracht van een cliëntenforum als vermeld in artikel 45/2 van het decreet van 12 juli 2013;<br>
+5° de vertegenwoordiger van mensen met een handicap: op voordracht van een cliëntenforum als vermeld in artikel 45/2 van het decreet van 12 juli 2013;<br>
 6° de vertegenwoordigers van de jeugdhulpaanbieders van de regio: op voordracht van de representatieve organisaties van het jeugdhulpaanbod in de regio;<br>
 7° de vertegenwoordiger van de toegangspoort in de regio: de regionale directeur van de toegangspoort;<br>
 8° de vertegenwoordiger van het vertrouwenscentrum Kindermishandeling in de regio: op voordracht van de directie van het vertrouwenscentrum Kindermishandeling;<br>
 9° de vertegenwoordiger van de ondersteuningscentra en de sociale diensten in de regio: de regioverantwoordelijke van de ondersteuningscentra;<br>
-10° ...;<br>
+10° een vertegenwoordiger van de Vlaamse Gemeenschap, belast met de ondersteuning van het Intersectoraal Regionaal Overleg Jeugdhulp;;<br>
 11° een vertegenwoordiger van de Vlaamse Gemeenschapscommissie voor de regio Brussel: op voordracht van de Vlaamse Gemeenschapscommissie.</p>
 
 <p>In elke regio wordt het Intersectoraal Regionaal Overleg Jeugdhulp, naast de leden, vermeld in artikel 66, eerste lid, van het decreet van 12 juli 2013, uitgebreid met:<br>
 1° een vertegenwoordiger van de Dienst voor Pleegzorg in de betrokken regio;<br>
-2° een vertegenwoordiger van het netwerk of de netwerken geestelijke gezondheidszorg kinder- en jeugdpsychiatrie in de betrokken regio;</p>
+2° een vertegenwoordiger van het netwerk of de netwerken geestelijke gezondheidszorg kinder- en jeugdpsychiatrie in de betrokken regio;<br>
+3° een vertegenwoordiger van gebruikers van pleegzorg, op voordracht van een cliëntenforum als vermeld in artikel 45/2 van het decreet van 12 juli 2013.</p>
 
 <p>Het Intersectoraal Regionaal Overleg Jeugdhulp kan beslissen om leden toe te voegen en een vertegenwoordiger van de jeugdmagistratuur in de betrokken regio kan deelnemen aan overleg van het Intersectoraal Regionaal Overleg Jeugdhulp.</p>
 
