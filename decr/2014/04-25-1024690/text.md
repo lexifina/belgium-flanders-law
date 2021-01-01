@@ -810,7 +810,7 @@ Buiten het voorzien in de nodige financiële waarborgen kunnen lasten onder meer
 <br>
 Lasten kunnen ook inhouden dat als de werken zijn begonnen, aan de overheid gratis, vrij en onbelast de eigendom wordt overgedragen van de in de vergunningsaanvraag vermelde openbare wegen, groene of verharde ruimten, openbare gebouwen, nutsvoorzieningen, of de gronden waarop die worden of zullen worden aangelegd.<br>
 <br>
-Als voldaan is aan de uitsluitende voorwaarde, vermeld in artikel 4.2.5 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid, verbindt de vergunningverlenende overheid van rechtswege een last aan de omgevingsvergunning met het oog op de verwezenlijking van een bescheiden woonaanbod.<br>
+Als voldaan is aan de uitsluitende voorwaarde, vermeld in artikel 5.100 van de Vlaamse Codex Wonen van 2021, verbindt de vergunningverlenende overheid van rechtswege een last aan de omgevingsvergunning met het oog op de verwezenlijking van een bescheiden woonaanbod.<br>
 <br>
 Als de uitvoering van diverse lasten financieel moet worden gewaarborgd, dan hanteert het bestuur één waarborg voor de totaliteit van de lasten in kwestie waarbij aangegeven wordt welk waarborggedeelte betrekking heeft op elk van de lasten afzonderlijk.</p>
 
