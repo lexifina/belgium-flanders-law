@@ -322,10 +322,8 @@ Bovendien moet het internaat of tehuis :<br>
 4° het minimum aantal leerlingen tellen, bepaald bij de regelgeving;<br>
 5° gevestigd zijn in lokalen die aan de voorwaarden inzake hygiëne en bewoonbaarheid voldoen;<br>
 6° beschikken over materieel en een uitrusting die beantwoorden aan de pedagogische vereisten;<br>
-7° beschikken over personeel waarvan de gezondheidstoestand die van de leerlingen niet in gevaar brengt en dat onderworpen is aan de regelgeving inzake controle op afwezigheid wegens ziekte;<br>
-8° de regelgeving naleven die het verlenen van verlof aan het personeel zal regelen.<br>
-&nbsp;<br>
-&nbsp;<br>
+7° ...<br>
+8° de regelgeving naleven die het verlenen van verlof aan het personeel zal regelen.&nbsp;<br>
 &nbsp;<br>
 §3. Wanneer een internaat of tehuis niet langer de gestelde voorwaarden vervult, zullen de financiering of subsidiering ingehouden worden, te rekenen van de datum van de ministeriële kennisgeving die steunt op de &nbsp;geconstateerde tekortkomingen. Ze zullen opnieuw verleend worden, wanneer al de voorwaarden tot financiering of subsidiëring opnieuw vervuld worden.
 
@@ -1701,7 +1699,7 @@ Een school, centrum, internaat of tehuis of een onderdeel ervan, ontvangt slecht
 1° Die onderdaan zijn van een lidstaat van de Europese Unie of van de Europese Vrijhandelsassociatie, behoudens door de Vlaamse Regering te verlenen vrijstelling;<br>
 2° Die de burgerlijke en politieke rechten genieten, behoudens een door de Vlaamse Regering te verlenen vrijstelling die samengaat met de vrijstelling bedoeld in 1°;<br>
 3° Die in het bezit zijn van de bekwaamheidsbewijzen die in de regelgeving zijn vastgelegd;<br>
-4° Wier gezondheidstoestand geen gevaar kan opleveren voor de gezondheid van de leerlingen;<br>
+4° ...<br>
 5° Die aangeworven zijn mits eerbiediging van de reglementering, inzake ontstentenis van betrekking, reaffectatie en wedertewerkstelling.
 
 ### ART V.46.
