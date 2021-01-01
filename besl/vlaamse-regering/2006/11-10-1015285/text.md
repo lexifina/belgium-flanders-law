@@ -91,7 +91,19 @@ De indiener kan binnen twintig dagen na ontvangst van een negatief advies met ee
 
 ### ART. 7.
 
-Er wordt een beroepscommissie van acht leden opgericht. Die commissie is samengesteld uit enerzijds vier afgevaardigden van het betrokken onderwijsniveau of, als het bezwaar een leerplan voor de algemene vorming van de leertijd betreft, uit vier afgevaardigden van Syntra Vlaanderen, en anderzijds vier afgevaardigden van de Vlaamse Regering. <br /><br />De afvaardiging van het onderwijsniveau is paritair samengesteld uit vertegenwoordigers van het officieel onderwijs en vertegenwoordigers van het vrij onderwijs. Er zijn evenveel plaatsvervangers als effectieve afgevaardigden.<br /><br />De afvaardiging van de Vlaamse Regering is als volgt samengesteld :<br />1° de bevoegde inspecteur-generaal, die als voorzitter fungeert, of een afgevaardigde;<br />2° twee leden van de Onderwijsinspectie;<br />3° de leidinggevende van de entiteit Curriculum of een afgevaardigde.<br /><br />Iemand die betrokken was bij de totstandkoming van het negatieve advies of het advies tot opheffing van de goedkeuring, kan geen zitting hebben in de beroepscommissie.<br /><br />De beroepscommissie stelt zelfstandig haar eigen huishoudelijk reglement op.<br /><br />
+Er wordt een beroepscommissie van acht leden opgericht. Die commissie is samengesteld uit enerzijds vier afgevaardigden van het betrokken onderwijsniveau of, als het bezwaar een leerplan voor de algemene vorming van de leertijd betreft, uit vier afgevaardigden van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, en anderzijds vier afgevaardigden van de Vlaamse Regering.<br>
+<br>
+De afvaardiging van het onderwijsniveau is paritair samengesteld uit vertegenwoordigers van het officieel onderwijs en vertegenwoordigers van het vrij onderwijs. Er zijn evenveel plaatsvervangers als effectieve afgevaardigden.<br>
+<br>
+De afvaardiging van de Vlaamse Regering is als volgt samengesteld :<br>
+1° de bevoegde inspecteur-generaal, die als voorzitter fungeert, of een afgevaardigde;<br>
+2° twee leden van de Onderwijsinspectie;<br>
+3° de leidinggevende van de entiteit Curriculum of een afgevaardigde.<br>
+<br>
+Iemand die betrokken was bij de totstandkoming van het negatieve advies of het advies tot opheffing van de goedkeuring, kan geen zitting hebben in de beroepscommissie.<br>
+<br>
+De beroepscommissie stelt zelfstandig haar eigen huishoudelijk reglement op.<br>
+&nbsp;
 
 ### ART. 8.
 
