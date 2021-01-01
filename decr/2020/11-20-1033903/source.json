@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033903,
+  "title": "Decreet van 2020-11-20 houdende wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat betreft de aangifte van automatische ontspanningstoestellen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033903/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "d712ccf2f0cd6879b0321ed4a806bd671e725e3fdcdbfe2ddedbaea1569511fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033903&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2020-11-20",
+  "gazette": "2020-12-03",
+  "numac": 2020031703,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
