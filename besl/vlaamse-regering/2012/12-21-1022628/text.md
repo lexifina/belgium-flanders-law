@@ -20,24 +20,11 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br>
-1° agentschap : het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving;<br>
-2° initiatiefnemers : naargelang het geval :<br>
-a) voor de toepassing van hoofdstuk 2 : de initiatiefnemers, vermeld in artikel 4, § 2, eerste lid, van het Financieringsbesluit;<br>
-b) voor de toepassing van hoofdstuk 3 : de initiatiefnemers, vermeld in artikel 4, § 2, tweede tot en met vierde lid, van het Financieringsbesluit;<br>
-c) voor de toepassing van hoofdstuk 4 : de initiatiefnemers, vermeld in artikel 4, § 2, vijfde lid, van het Financieringsbesluit;<br>
-3° minister : de Vlaamse minister, bevoegd voor wonen;<br>
-4° programma sociale huur : het deelprogramma van een uitvoeringsprogramma dat de verrichtingen bevat waarvoor de initiatiefnemer een marktconforme lening als vermeld in artikel 11, § 2, eerste lid, van het Financieringsbesluit, opneemt;<br>
-5° tussenkomst in de leningslast : de tussenkomst, vermeld in artikel 11, § 3, van het Financieringsbesluit;<br>
-6° tussenkomst in de prefinanciering : de tussenkomst, vermeld in artikel 26 van het Financieringsbesluit;<br>
-7° uitvoeringsprogramma : het uitvoeringsprogramma, vermeld in artikel 33, § 3, van de Vlaamse Wooncode;<br>
-8° verwerving : de aankoop van een onroerend goed of de vestiging van een recht van erfpacht of een recht van opstal op een onroerend goed;<br>
-9° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
-10° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, opgericht bij artikel 30 van de Vlaamse Wooncode.
+...
 
 ### ART. 2.
 
-Dit besluit wordt aangehaald als het Fundingbesluit van de   VMSW.<BR>
+...
 
 ## HOOFDSTUK 2 [... (opgeh. BVR 9 september 2016, art. 5, I: 1 januari 2016)]
 
@@ -45,7 +32,7 @@ Dit besluit wordt aangehaald als het Fundingbesluit van de   VMSW.<BR>
 
 ### ART. 3.
 
-<p>...</p>
+...
 
 ### ART. 4.
 
@@ -107,15 +94,15 @@ Dit besluit wordt aangehaald als het Fundingbesluit van de   VMSW.<BR>
 
 ### ART. 16.
 
-<P>Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap   beschikbare kredieten kan de minister volgens de voorwaarden, vermeld in   hoofdstuk 3 van het Financieringsbesluit, de kosten van de aanleg of de   aanpassing van wooninfrastructuur geheel of gedeeltelijk ten laste nemen of   subsidies verlenen om initiatiefnemers in staat te stellen sociale huurwoningen,   sociale koopwoningen of sociale kavels ter beschikking te stellen.<BR></P>  <P>De minister stelt de subsidies ter beschikking van de VMSW. De   terbeschikkingstelling aan de VMSW gebeurt op basis van een jaarlijkse   uitbetaling van de reële te verlenen subsidies.<BR></P>  <P>De VMSW geeft de subsidies door aan de   initiatiefnemers.<BR></P>
+...
 
 ### ART. 17.
 
-<P>De VMSW bezorgt het agentschap jaarlijks in de maand januari een   betalingsplan dat het totale geraamde bedrag aan subsidies bevat die in dat   werkingsjaar uitbetaald zullen worden aan de initiatiefnemers. In het   betalingsplan wordt voor elke subsidie het jaar van het uitvoeringsprogramma   vermeld waarop de verrichting waarvoor de subsidie verleend wordt, betrekking   heeft.<BR></P>  <P>De VMSW bezorgt het agentschap jaarlijks in de maand januari een   betalingsoverzicht dat het totale werkelijke bedrag aan subsidies bevat die in   het voorgaande werkingsjaar uitbetaald werden aan de initiatiefnemers. In het   betalingsoverzicht wordt voor elke subsidie het jaar van het   uitvoeringsprogramma vermeld waarop de verrichting waarvoor de subsidie verleend   wordt, betrekking heeft.<BR></P>
+...
 
 ### ART. 18.
 
-<P>Bij het begin van elk kwartaal stelt het agentschap 25 % van het totale   geraamde bedrag aan subsidies op het betalingsplan, vermeld in artikel 17,   eerste lid, voor het lopende werkingsjaar als voorschot ter beschikking van de   VMSW.<BR></P>  <P>Als uit het betalingsoverzicht, vermeld in artikel 17, tweede lid, blijkt dat   in het voorgaande werkingsjaar een bedrag ter beschikking werd gesteld van de   VMSW dat hoger of lager is dan het totale werkelijke bedrag aan uitbetaalde   subsidies, wordt naargelang het geval het teveel verrekend of het tekort   bijgepast bij de eerstvolgende uit te betalen voorschotten, vermeld in het   eerste lid.<BR></P>
+...
 
 ## HOOFDSTUK 4 [... (opgeh. BVR 9 september 2016, art. 6, I: 1 januari 2016)]
 
@@ -151,12 +138,12 @@ Dit besluit wordt aangehaald als het Fundingbesluit van de   VMSW.<BR>
 
 ### ART. 26.
 
-<p>...</p>
+...
 
 ### ART. 27.
 
-Dit besluit treedt in werking op 1 januari 2013.<BR>
+...
 
 ### ART. 28.
 
-De Vlaamse minister, bevoegd voor wonen, is belast met de uitvoering van   dit besluit.<BR>
+...
