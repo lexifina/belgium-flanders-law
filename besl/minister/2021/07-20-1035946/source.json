@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035946,
+  "title": "Ministerieel besluit van 2021-07-20 tot bepaling van de diensten voor gezinszorg die in aanmerking komen voor subsidiëring van schoonmaakhulp, karweihulp of oppashulp en tot bepaling van het aantal voltijdsequivalenten per functiecategorie en per dienst voor het jaar 2021",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035946/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "301b758dd52d1139abf4e65c6d26672d857cef300b1ccfdea4a87ad85df78abe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035946&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2021-07-20",
+  "gazette": "2021-08-13",
+  "numac": 2021032165,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
