@@ -65,7 +65,7 @@ De zetel van het Comité voor Kleinhandel is gevestigd op het hoofdkantoor van h
 
 ### ART 7.
 
-De minister voorziet in een werkingsbudget voor het Comité voor Kleinhandel via de werkingsuitgaven van het Hermesfonds, vermeld in artikel 41 van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting van 2002.<br>
+De minister voorziet in een werkingsbudget voor het Comité voor Kleinhandel via de werkingsuitgaven van het Fonds voor Innoveren en Ondernemen, vermeld in artikel 41 van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting van 2002.<br>
 <br>
 De minister bekrachtigt een protocol tussen het Agentschap Innoveren en Ondernemen en het Comité voor Kleinhandel over de administratieve ondersteuning waarin het Agentschap Innoveren en Ondernemen voorziet.
 
