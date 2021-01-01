@@ -49,7 +49,7 @@ a) de herziening of opheffing heeft tot gevolg dat een grotere bouwhoogte dan vo
 b) de vergunbare bouwhoogte overschrijdt een van de volgende hoogtes:<br>
 1) zestig meter boven het maaiveld;<br>
 2) een hoogte die per gemeente of per duidelijk omschreven gebied ten opzichte van het maaiveld is bepaald met toepassing van artikel 35, § 16, van het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
-8° het Vlaams Energieagentschap;<br>
+8° het Vlaams Energie- en Klimaatagentschap;<br>
 9° het Agentschap Wonen-Vlaanderen als de gronden waarop de herziening of opheffing betrekking heeft:<br>
 a) geheel of gedeeltelijk zijn bestemd als woonuitbreidingsgebied, woonreservegebied, of een daarmee vergelijkbaar gebied;<br>
 b) bestemd zijn als woongebied of een daarmee vergelijkbaar gebied en een oppervlakte hebben van ten minste één hectare;<br>
