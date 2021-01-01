@@ -19,20 +19,20 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br>
 - punt 5° : de bibliotheken, discotheken en soortgelijke diensten;<br>
 - punt 7° : het jeugdbeleid;<br>
 - punt 8° : de permanente opvoeding en de culturele animatie;<br>
-5° het decreet : artikel 49 tot en met 54 in verband met het Fonds Culturele Infrastructuur (FoCI) van het decreet van 19 december 1998 houdende bepalingen tot begeleiding van de begroting 1999 en de latere wijzigingen ervan;<br>
-6° het FoCI : de Vlaamse openbare instelling (VOI) van categorie A, « Fonds Culturele Infrastructuur » (FoCI), vermeldin artikel 49 van het decreet;<br>
+5° het decreet: het programmadecreet van 18 december 2020 houdende bepalingen tot begeleiding van de begroting 2021;<br>
+6° ...;<br>
 7° grote culturele infrastructuur: grote infrastructuur van hoog cultureel belang die van een uitzonderlijke omvang is en die zich daarbij richt tot de hele Vlaamse Gemeenschap of ruimer conform artikel 51bis, derde lid, van het decreet;<br>
-8° de minister : het lid van de Vlaamse Regering, bevoegd voor het Fonds Culturele Infrastructuur (FoCI);<br>
+8° de minister : de Vlaamse minister bevoegd voor de cultuur of de Vlaamse minister bevoegd voor de jeugd, naargelang de materie;<br>
 9° investeringssubsidie : subsidie voor het bouwen, uitbreiden, verbouwen of verwerven van infrastructuur met bovenlokaal belang;<br>
 10° culturele infrastructuur van bovenlokaal belang: grote culturele infrastructuur of sectorale prioriteiten;<br>
-11° sectorale prioriteiten: de sectorale investeringssubsidies van specifieke sectoren die door de Vlaamse Regering als prioritair worden aangeduid conform artikel 51bis, zesde lid, van het decreet;<br>
+11° sectorale prioriteiten: de sectorale investeringssubsidies van specifieke sectoren die door de Vlaamse Regering als prioritair worden aangeduid conform artikel 6, § 4, van het decreet;<br>
 12° subsidiebeslissing : verbintenis om voor een investering een investeringssubsidie toe te kennen;<br>
 13° integraal toegankelijk: de kwaliteit van een ruimte, omgeving, object en dienstverlening die het mogelijk maakt dat iedereen die ruimte, die omgeving, dat object of die dienstverlening op een gelijkwaardige en onafhankelijke manier kan bereiken, betreden, gebruiken en begrijpen;<br>
 14° duurzaamheid: de kwaliteit van een infrastructuur die ze verkrijgt door minder fossiele brandstoffen te gebruiken in haar werking en door energiezuiniger te werken.
 
 ### ART. 2.
 
-<p>Overeenkomstig artikel 51, 1° van het decreet van 19 december 1998 en binnen de perken van de goedgekeurde begroting kan de Vlaamse Gemeenschap via het FoCI investeringssubsidies verlenen voor het bouwen, uitbreiden, verbouwen of aankopen van culturele infrastructuur met bovenlokaal belang.</p>
+<p>Overeenkomstig artikel 6, § 1 van het decreet en binnen de perken van de goedgekeurde begroting kan de Vlaamse Gemeenschap via het Departement Cultuur, Jeugd en Media investeringssubsidies verlenen voor het bouwen, uitbreiden, verbouwen of aankopen van culturele infrastructuur met bovenlokaal belang.</p>
 
 <p>Dit besluit bepaalt de infrastructuurtypes waarvoor investeringssubsidies mogelijk zijn, de voorwaarden, de procedure voor de aanvraag en toekenning van subsidies en de uitbetalingsvoorwaarden en -procedure.</p>
 
@@ -54,20 +54,20 @@ De voorwaarden om in aanmerking te komen voor de subsidiëring van&nbsp;grote cu
 1° het betreft infrastructuur die van een uitzonderlijke omvang is en waarin een culturele werking wordt gerealiseerd die zich richt tot de hele Vlaamse Gemeenschap of ruimer;<br>
 2° de aanvrager heeft een rechtspersoonlijkheid volgens het publiek recht of het privaat recht;<br>
 3° de infrastructuur ligt in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br>
-4° minstens 40% van de aankoopkosten of van de bouwkosten wordt gedragen door subsidies van een andere overheid, door een inbreng in natura door andere overheden of door een inbreng van eigen middelen. De investeringssubsidie van het FoCI bedraagt nooit meer dan 60% van de aankoop- of bouwkosten. Onvoorwaardelijke subsidiebeloftes die afhankelijk gemaakt zijn van subsidiëring door de Vlaamse Gemeenschap, worden aanvaard;<br>
+4° minstens 40% van de aankoopkosten of van de bouwkosten wordt gedragen door subsidies van een andere overheid, door een inbreng in natura door andere overheden of door een inbreng van eigen middelen. De investeringssubsidie van de Vlaamse Gemeenschap bedraagt nooit meer dan 60% van de aankoop- of bouwkosten. Onvoorwaardelijke subsidiebeloftes die afhankelijk gemaakt zijn van subsidiëring door de Vlaamse Gemeenschap, worden aanvaard;<br>
 5° het decreet van 23 december 1986 houdende integratie van kunstwerken in gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot de Vlaamse Gemeenschap behoren of het decreet van 23 december 1986 houdende integratie van kunstwerken in gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot het Vlaamse Gewest behoren, worden nageleefd;<br>
 6° de functionele ruimten van het gebouw zijn integraal toegankelijk als vermeld in artikel 1, 13° ;<br>
 7° het project draagt bij tot de verhoging van de duurzaamheid van de accommodatie in kwestie, tot de verbetering van de ecologische impact en tot een energiezuinige exploitatie ervan als vermeld in artikel 7, tweede lid, 3°;<br>
 8° de aanvrager heeft een beschikkingsmacht over de infrastructuur als eigenaar. Als de aanvrager geen eigenaar is van de infrastructuur, maar huurder, erfpachter of gebruiker, bewijst hij een beschikkingsmacht voor minstens twintig jaar vanaf de datum van de subsidiebeslissing of vanaf de datum dat de aanvrager kan beschikken over de infrastructuur, als die laatste datum later valt. Als het project roerende goederen betreft, is een minimum van drie jaar vereist;<br>
 9° de aanvrager aanvaardt het toezicht op de besteding van de subsidie, de instandhouding, de renovatie en het onderhoud van de gesubsidieerde infrastructuur;<br>
-10° de aanvrager gaat de verbintenis aan tot de terugbetaling van de subsidie bij een vervreemding van de infrastructuur of bij een bestemmingswijziging ervan zonder het akkoord van het FoCI. Het bedrag van de terugbetaling wordt berekend, rekening houdend met een jaarlijkse afschrijving van 5 % als het project onroerende werken betreft en met een jaarlijkse afschrijving van 33 % als het project roerende goederen betreft. Bij vervreemding betaalt de aanvrager 60 % van de verwezenlijkte meerwaarde terug;<br>
-11° om de terugbetaling te waarborgen, kan het FoCI een zakelijke zekerheid vragen.
+10° de aanvrager gaat de verbintenis aan tot de terugbetaling van de subsidie bij een vervreemding van de infrastructuur of bij een bestemmingswijziging ervan zonder het akkoord van het Departement Cultuur, Jeugd en Media. Het bedrag van de terugbetaling wordt berekend, rekening houdend met een jaarlijkse afschrijving van 5 % als het project onroerende werken betreft en met een jaarlijkse afschrijving van 33 % als het project roerende goederen betreft. Bij vervreemding betaalt de aanvrager 60 % van de verwezenlijkte meerwaarde terug;<br>
+11° om de terugbetaling te waarborgen, kan het Departement Cultuur, Jeugd en Media een zakelijke zekerheid vragen.
 
 ### ART. 4.
 
-<p>Om voor een investeringssubsidie voor grote culturele infrastructuur in aanmerking te komen, dient de aanvrager een aanvraag in bij het FoCI.</p>
+<p>Om voor een investeringssubsidie voor grote culturele infrastructuur in aanmerking te komen, dient de aanvrager een aanvraag in bij het Departement Cultuur, Jeugd en Media.</p>
 
-<p>Het Fonds Culturele Infrastructuur kan aanvullende inlichtingen opvragen.</p>
+<p>Het Departement Cultuur, Jeugd en Media kan aanvullende inlichtingen opvragen.</p>
 
 <p>Het projectvoorstel bevat :<br>
 1° de identificatie van de aanvrager en van de infrastructuur;<br>
@@ -77,13 +77,13 @@ De voorwaarden om in aanmerking te komen voor de subsidiëring van&nbsp;grote cu
 
 <p>De aanvrager moet met het aanvraagdossier duidelijk bewijzen dat wordt voldaan aan de voorwaarden voor grote culturele infrastructuur vermeld in artikel 3.</p>
 
-<p>De aanvraagdossiers worden technisch en administratief beheerd door het FoCI, in samenwerking met de administratie bevoegd voor de gesubsidieerde infrastructuur.</p>
+<p>De aanvraagdossiers worden technisch en administratief beheerd door het Departement Cultuur, Jeugd en Media.</p>
 
 <p>De aanvragen worden uiterlijk op 15 mei van het lopende kalenderjaar ingediend.<br>
 <br>
 De aanvragen worden voor advies voorgelegd aan de dienst bevoegd voor infrastructuur van het departement CJM.</p>
 
-<p>Op voordracht van de minister neemt de Vlaamse Regering een beslissing en neemt maatregelen om deze investeringssubsidies voor grote culturele infrastructuur in te schrijven in de begroting van het FoCI.</p>
+<p>Op voordracht van de minister neemt de Vlaamse Regering een beslissing.</p>
 
 ## HOOFDSTUK 3. [... (opgeh. BVR 29 april 2022, art. 19, I: 4 augustus 2022)]
 
@@ -107,14 +107,14 @@ De aanvragen worden voor advies voorgelegd aan de dienst bevoegd voor infrastruc
 De algemene voorwaarden om in aanmerking te komen voor de subsidiëring van sectorale prioriteiten, zijn :<br>
 1° de aanvrager heeft een rechtspersoonlijkheid volgens het publiek recht of het privaat recht;<br>
 2° de infrastructuur ligt in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br>
-3° minstens 40% van de aankoopkosten of van de bouwkosten wordt gedragen door subsidies van een andere overheid, door een inbreng in natura door andere overheden of door een inbreng van eigen middelen. De investeringssubsidie van het FoCI bedraagt nooit meer dan 60% van de aankoop- of bouwkosten. Onvoorwaardelijke subsidiebeloftes die afhankelijk gemaakt zijn van subsidiëring door de Vlaamse Gemeenschap, worden aanvaard;<br>
+3° minstens 40% van de aankoopkosten of van de bouwkosten wordt gedragen door subsidies van een andere overheid, door een inbreng in natura door andere overheden of door een inbreng van eigen middelen. De investeringssubsidie van de Vlaamse Gemeenschap bedraagt nooit meer dan 60% van de aankoop- of bouwkosten. Onvoorwaardelijke subsidiebeloftes die afhankelijk gemaakt zijn van subsidiëring door de Vlaamse Gemeenschap, worden aanvaard;<br>
 4° het decreet van 23 december 1986 houdende integratie van kunstwerken in gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot de Vlaamse Gemeenschap behoren of het decreet van 23 december 1986 houdende integratie van kunstwerken in gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot het Vlaamse Gewest behoren, worden nageleefd;<br>
 5° ...;<br>
 6° ...;<br>
 7° de aanvrager heeft een beschikkingsmacht over de infrastructuur als eigenaar. Als de aanvrager geen eigenaar is van de infrastructuur, maar huurder, erfpachter of gebruiker, bewijst hij een beschikkingsmacht voor minstens twintig jaar vanaf de datum van de subsidiebeslissing of vanaf de datum dat de aanvrager kan beschikken over de infrastructuur, als die laatste datum later valt;<br>
 8° de aanvrager aanvaardt de toezichtregeling op de besteding van de subsidie, de instandhouding, de renovatie en het onderhoud van de gesubsidieerde infrastructuur;<br>
-9° de aanvrager gaat de verbintenis aan tot de terugbetaling van de subsidie bij een vervreemding van de infrastructuur of bij een bestemmingswijziging ervan, zonder het akkoord van het FoCI. Het bedrag van de terugbetaling wordt berekend, rekening houdend met een jaarlijkse afschrijving van 5 % als het project onroerende werken betreft en met een jaarlijkse afschrijving van 33 % als het project roerende goederen betreft. Bij vervreemding betaalt de aanvrager 60 % van de verwezenlijkte meerwaarde terug;<br>
-10° om de terugbetaling te waarborgen, kan het FoCI een zakelijke zekerheid vragen.
+9° de aanvrager gaat de verbintenis aan tot de terugbetaling van de subsidie bij een vervreemding van de infrastructuur of bij een bestemmingswijziging ervan, zonder het akkoord van het Departement Cultuur, Jeugd en Media. Het bedrag van de terugbetaling wordt berekend, rekening houdend met een jaarlijkse afschrijving van 5 % als het project onroerende werken betreft en met een jaarlijkse afschrijving van 33 % als het project roerende goederen betreft. Bij vervreemding betaalt de aanvrager 60 % van de verwezenlijkte meerwaarde terug;<br>
+10° om de terugbetaling te waarborgen, kan het&nbsp;Departement Cultuur, Jeugd en Media een zakelijke zekerheid vragen.
 
 ### ART. 7.
 
@@ -138,9 +138,9 @@ b) criteria:<br>
 3° energiezuiniger maken van culturele infrastructuur:<br>
 a) specifieke voorwaarden:<br>
 1) jaarlijks energieverbruik van minstens 100.000 kWH;<br>
-2) een nulmeting van het energieverbruik op basis van het werkingsjaar 2015 wordt bij de aanvraag gevoegd. Om de nulmeting 2015 te bepalen, wordt de CO2-calculator, die via het FoCI ter beschikking wordt gesteld, gebruikt;<br>
-3) een prognose voor de energiebesparing per jaar door de geplande maatregelen wordt bij de aanvraag gevoegd. Voor de berekening van de prognose worden de berekeningsformules gebruikt die door het FoCI ter beschikking worden gesteld ;<br>
-4) een jaarlijkse opvolging gedurende tien jaar van het energieverbruik via het invullen van de CO2 calculator, die via het FoCI ter beschikking wordt gesteld;<br>
+2) een nulmeting van het energieverbruik op basis van het werkingsjaar 2015 wordt bij de aanvraag gevoegd. Om de nulmeting 2015 te bepalen, wordt de CO2-calculator, die via het Departement Cultuur, Jeugd en Media ter beschikking wordt gesteld, gebruikt;<br>
+3) een prognose voor de energiebesparing per jaar door de geplande maatregelen wordt bij de aanvraag gevoegd. Voor de berekening van de prognose worden de berekeningsformules gebruikt die door het&nbsp;Departement Cultuur, Jeugd en Media ter beschikking worden gesteld ;<br>
+4) een jaarlijkse opvolging gedurende tien jaar van het energieverbruik via het invullen van de CO2 calculator, die via het Departement Cultuur, Jeugd en Media ter beschikking wordt gesteld;<br>
 5) een breder actieplan van de organisatie om het personeel en het beoogde publiek te sensibiliseren voor de problematiek;<br>
 b) criteria:<br>
 1) de aanvragen worden prestatiegericht beoordeeld. Dat wil zeggen dat de investeringskosten van de ingediende projecten gedeeld worden door de beoogde CO2-reductie, waarbij voor de berekening rekening gehouden wordt met de specificiteit van de investering. Op basis daarvan wordt een rangschikking opgemaakt, waarbij aan de hoogst gerangschikte projecten de beschikbare middelen toegekend worden. Aan de volgende maatregelen wordt voorrang verleend: de uitvoering van een energieaudit, de installatie van een slimme energiemonitor en algemene relighting, energiezuinig werklicht, dakisolatie, isolatie van de buitenmuren, isolatie van vloeren, superisolerend glas, regelsystemen, centrale verwarming, de vervanging van een stookolie-installatie door een gasinstallatie of aansluiting op een warmtenet of plaatsing van een warmtepomp, de vervanging van een bestaande installatie door een warmtepomp, plaatsing van een zonneboiler.<br>
@@ -152,11 +152,11 @@ Per aanvraag mag het maximaal toegekende bedrag, vermeld in het tweede lid, 1°,
 
 ### ART. 8.
 
-<p>In de begroting van het FoCI wordt een globaal bedrag per jaar ingeschreven voor de investeringssubsidies voor sectorale prioriteiten, zoals omschreven in artikel 7. De investeringssubsidies worden verdeeld tussen de verschillende projectaanvragers op basis van dit besluit.</p>
+<p>In de begroting&nbsp;wordt een globaal bedrag per jaar ingeschreven voor de investeringssubsidies voor sectorale prioriteiten, zoals omschreven in artikel 7. De investeringssubsidies worden verdeeld tussen de verschillende projectaanvragers op basis van dit besluit.</p>
 
-<p>Het FoCI kan aanvraagformulieren per infrastructuurtype beschikbaar stellen. Die formulieren moeten gebruikt worden bij de aanvraag.</p>
+<p>Het Departement Cultuur, Jeugd en Media kan aanvraagformulieren per infrastructuurtype beschikbaar stellen. Die formulieren moeten gebruikt worden bij de aanvraag.</p>
 
-<p>Potentiële aanvragers worden uitgenodigd om een projectvoorstel in te dienen bij het FoCI, uiterlijk op&nbsp;1 april van het lopende kalenderjaar, voor subsidiëring in het daaropvolgende kalenderjaar.</p>
+<p>Potentiële aanvragers worden uitgenodigd om een projectvoorstel in te dienen bij het Departement Cultuur, Jeugd en Media, uiterlijk op&nbsp;1 april van het lopende kalenderjaar, voor subsidiëring in het daaropvolgende kalenderjaar.</p>
 
 <p>Het projectvoorstel bevat :<br>
 1° de identificatie van de aanvrager en van de infrastructuur;<br>
@@ -168,7 +168,7 @@ Per aanvraag mag het maximaal toegekende bedrag, vermeld in het tweede lid, 1°,
 
 ### ART. 9.
 
-De minister stelt een Adviescommissie Culturele Infrastructuur samen, waarin het Departement Cultuur, Jeugd en Media, de administratie, bevoegd voor de gesubsidieerde infrastructuur, de administratie bevoegd voor de coördinatie van het Vlaamse klimaat- en energiepact, en deskundigen uit de betrokken sectoren vertegenwoordigd zijn. De minister wijst de voorzitter aan. Het secretariaat wordt georganiseerd door FoCI.<br>
+De minister stelt een Adviescommissie Culturele Infrastructuur samen, waarin het Departement Cultuur, Jeugd en Media, de administratie, bevoegd voor de gesubsidieerde infrastructuur, de administratie bevoegd voor de coördinatie van het Vlaamse klimaat- en energiepact, en deskundigen uit de betrokken sectoren vertegenwoordigd zijn. De minister wijst de voorzitter aan. Het secretariaat wordt georganiseerd door Departement Cultuur, Jeugd en Media.<br>
 <br>
 Op basis van de projectvoorstellen verleent de Adviescommissie Culturele Infrastructuur een gemotiveerd advies aan de minister over de projecten die in aanmerking komen voor subsidiëring op basis van de gestelde voorwaarden en de beoordelingscriteria.<br>
 <br>
@@ -202,4 +202,4 @@ Het besluit treedt in werking op de dag van bekendmaking in het Belgisch   Staat
 
 ### ART. 14.
 
-De Vlaamse minister, bevoegd voor de culturele aangelegenheden, is belast   met de uitvoering van dit besluit.
+De Vlaamse minister, bevoegd voor de cultuur, en de Vlaamse minister, bevoegd voor de jeugd, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
