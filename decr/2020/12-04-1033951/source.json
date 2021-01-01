@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033951,
+  "title": "Decreet van 2020-12-04 houdende aanpassing van diverse decreten met betrekking tot de omvorming van het Vlaams Energieagentschap tot het Vlaams Energie- en Klimaatagentschap, tot integratie van opdrachten inzake klimaat van het Departement Omgeving in dit Vlaams Energie- en Klimaatagentschap, tot integratie van opdrachten inzake lucht van het Departement Omgeving in de Vlaamse Milieumaatschappij en houdende rapportage door het Departement Omgeving",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033951/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "e4e8b5fdb2d27c0d949649cad48a29f034cbd684dd3cd135f6aac2373f28cd0e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033951&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2020-12-04",
+  "gazette": "2020-12-16",
+  "numac": 2020044292,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 54,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
