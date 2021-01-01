@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035227,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-18 tot overdracht van personeelsleden van het Departement Omgeving naar het Vlaams Energie- en Klimaatagentschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035227/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "3e5f18a5517a114d5ff66372f52ffd19fa2e3f30ac0a31b6c11d385bc742cdaf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035227&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2020-12-18",
+  "gazette": "2021-02-18",
+  "numac": 2021040102,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
