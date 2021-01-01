@@ -197,7 +197,7 @@ De Vlaamse minister, bevoegd voor de huisvesting, heeft delegatie om het Vlaams 
 
 ### ART 13/4.
 
-De Vlaamse minister, bevoegd voor de economie, het wetenschapsbeleid en het technologisch innovatiebeleid, heeft delegatie om in het kader van de opdracht van het Fonds Flankerend Economisch en Innovatiebeleid uitgaven tot 500.000 euro aan te gaan die passen in het sociale, economische en regionale beleid van de Vlaamse Regering.
+De Vlaamse minister, bevoegd voor de economie, het wetenschapsbeleid en het technologisch innovatiebeleid, heeft delegatie om in het kader van de opdracht van het Fonds voor Innoveren en Ondernemen uitgaven tot 500.000 euro aan te gaan die passen in het sociale, economische en regionale beleid van de Vlaamse Regering.
 
 ### ART 13/5.
 
