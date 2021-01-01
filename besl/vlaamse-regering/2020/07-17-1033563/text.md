@@ -147,6 +147,38 @@ Voor de toepassing van artikel 45, § 4, eerste lid, wordt aangenomen dat de opl
 
 Artikel 55/1 van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 28 november 2008 en gewijzigd bij het koninklijk besluit van 10 januari 2013 en het besluit van de Vlaamse Regering van 10 juli 2015, wordt opgeheven.
 
+### ART 13.
+
+Aan titel VI van hetzelfde besluit wordt een hoofdstuk 3, dat bestaat uit artikel 55/2 tot en met 55/5, toegevoegd, dat luidt als volgt:<br>
+<br>
+"Hoofdstuk 3. Verwerking van persoonsgegevens<br>
+<br>
+Art. 55/2. Van de bestuurder die conform artikel 8/1, § 2, en 13/1, § 2, een kwalificatiekaart bestuurder aanvraagt, worden de volgende gegevens verwerkt:<br>
+1° de naam en de voornaam;<br>
+2° de straatnaam, het huisnummer en desgevallend het busnummer;<br>
+3° de postcode en de naam van de gemeente;<br>
+4° het land;<br>
+5° de geboortedatum en de plaats van geboorte;<br>
+6° het telefoonnummer;<br>
+7° het e-mailadres;<br>
+8° de vermelding of de bestuurder een rijbewijs van de categorie C, van de categorie D of van de categorie C en D heeft;<br>
+9° de vermelding of het de eerste aanvraag van een Belgische kwalificatiekaart bestuurder is;<br>
+10° een recente pasfoto;<br>
+11° een kopie van het identiteitsbewijs;<br>
+12° een kopie van het rijbewijs;<br>
+13° een attest van de werkgever waar de bestuurder werkt;<br>
+14° een kopie van de werkvergunning;<br>
+15° een kopie van de initiële of de laatst uitgereikte kwalificatiekaart bestuurder.<br>
+<br>
+Art. 55/3. Het?Departement?is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+<br>
+Art. 55/4. De gegevens worden verzameld en verwerkt voor:<br>
+1° de uitreiking van de kwalificatiekaarten bestuurder, vermeld in artikel 8/1, § 3, en artikel 13/1, § 3;<br>
+2° de inspectie en controle, vermeld in titel VI, hoofdstuk 1;<br>
+3° de opmaak van algemene en naamloze statistieken door het Departement om de beleidsmaatregel te onderzoeken en evalueren.<br>
+<br>
+Art. 55/5. De gegevens worden vijf jaar bijgehouden.".
+
 ### ART 14.
 
 In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 20 januari 2017, worden een artikel 76/1 en 76/2 ingevoegd, die luiden als volgt:<br>
