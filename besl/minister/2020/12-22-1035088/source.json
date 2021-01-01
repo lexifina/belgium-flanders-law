@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035088,
+  "title": "Ministerieel besluit van 2020-12-22 tot erkenning van dopingcontroleurs en controleartsen voor de preventie en bestrijding van doping in de sport",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035088/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "d88f8a14540c7debb909bc42324565a944985a464250fe1abf8afea515f7a445",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035088&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2020-12-22",
+  "gazette": "2021-01-20",
+  "numac": 2020044653,
+  "document_start": "2021-01-01",
+  "document_end": "2022-12-31",
+  "in_force": "2021-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
