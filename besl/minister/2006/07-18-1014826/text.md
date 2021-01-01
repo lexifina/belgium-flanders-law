@@ -6,18 +6,18 @@ De Vlaamse Minister van Openbare Werken, Energie, Leefmilieu en Natuur,<br /><br
 
 ### ART. 1.
 
-In het Vlaams Energieagentschap wordt een directieraad opgericht die de bevoegdheden inzake de rechtspositie van het personeel uitoefent.<br /><br />
+In het VEKA wordt een directieraad opgericht die de bevoegdheden inzake de rechtspositie van het personeel uitoefent.<br>
+&nbsp;
 
 ### ART. 2.
 
-De directieraad is samengesteld uit de volgende personen:<br>
-1° Luc Peeters;<br>
-2° Jan Vereecke;<br>
+De directieraad van het VEKA is samengesteld uit de volgende personen:<br>
+1° Luc Peeters, administrateur-generaal;<br>
+2° Ann Collys;<br>
 3° Wim Buelens;<br>
-4° Ann Collys;<br>
-5° Nadine Dufait.<br>
-<br>
-&nbsp;
+4° Tomas Velghe;<br>
+5° Tine Tanghe;<br>
+6° Inge Delvaux.
 
 ### ART. 3.
 
