@@ -23,20 +23,7 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br>
-1° Agentschap: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen, opgericht bij het besluit van de Vlaamse Regering van 16 december 2005;<br>
-2° Entiteiten van het beleidsveld Wonen: het agentschap en de VMSW;<br>
-3° Minister: de Vlaamse minister, bevoegd voor wonen;<br>
-4° Operationele doelstellingen: de uit de Vlaamse Wooncode afgeleide doelstellingen voor sociale huisvestingsmaatschappijen, zo veel mogelijk geformuleerd in indicatoren die specifiek, meetbaar, acceptabel, resultaatgericht en tijdsgebonden zijn;<br>
-5° Prestatiebeoordeling: de procedure voor de beoordeling van de prestaties van een sociale huisvestingsmaatschappij, in voorkomend geval in vergelijking met een voorgaande beoordeling, bestaande uit de volgende stappen die achtereenvolgens doorlopen worden:<br>
-a) een meting van de prestaties van de sociale huisvestingsmaatschappij;<br>
-b) een visitatie van de sociale huisvestingsmaatschappij;<br>
-c) de opmaak van een visitatierapport waarin de prestaties van de SHM worden beoordeeld;<br>
-6° Prestatiedatabank: de databank, vermeld in artikel 33, § 1, vierde lid, 10°, van de Vlaamse Wooncode;<br>
-7° SHM: een sociale huisvestingsmaatschappij als vermeld in artikel 40 van de Vlaamse Wooncode;<br>
-8° Strategische doelstellingen: de uit de Vlaamse Wooncode afgeleide doelstellingen die de algemene beleidskeuzen aangeven;<br>
-9° Vlaamse Wooncode: het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
-10° VMSW: de Vlaamse Maatschappij voor Sociaal Wonen, publiekrechtelijk vormgegeven extern verzelfstandigd agentschap, vermeld in artikel 30 van de Vlaamse Wooncode.
+...
 
 ## HOOFDSTUK II De erkenning en de intrekking van de erkenning als SHM en de statuten van SHM's
 
@@ -44,58 +31,35 @@ c) de opmaak van een visitatierapport waarin de prestaties van de SHM worden beo
 
 ### ART. 2.
 
-Onder de voorwaarden, vermeld in artikel 40, § 1, tweede lid, van de Vlaamse Wooncode, en volgens de procedure, vermeld in deze afdeling, kan de minister vennootschappen erkennen als SHM.
+...
 
 ### ART. 3.
 
-Om als SHM erkend te kunnen worden en erkend te blijven, moeten vennootschappen als vermeld in artikel 2 van dit besluit, voldoen aan de voorwaarden, vermeld in artikel 40, § 1, tweede lid, en § 2, van de Vlaamse Wooncode.<br>
-<br>
-Ter uitvoering van artikel 40, § 1, tweede lid, 15°, van de Vlaamse Wooncode, wordt voor het vaststellen van het aantal sociale huurwoningen dat in beheer is en het aantal sociale koopwoningen dat de laatste vijf jaar gerealiseerd is, gebruikgemaakt van de informatie in de prestatiedatabank, op basis van de gegevens op 31 december van het jaar dat voorafgaat aan het jaar van de aanstelling of de mandaatverlenging van een raadslid. Die vaststelling vindt plaats bij elke aanstelling van een raadslid en bij elke verlenging van een mandaat.<br>
-<br>
-De algemene vergadering waakt er bij de samenstelling van de raad van bestuur over dat die door ervaring of opleiding over voldoende gezamenlijke deskundigheid beschikt op juridisch-technisch, economisch-financieel en sociaal vlak.<br>
-<br>
-Na voorafgaande mededeling aan de Vlaamse Regering kan de minister de voorwaarden, vermeld in het eerste lid, nader omschrijven.
+...
 
 ### ART. 4.
 
-§ 1. De vennootschappen, vermeld in artikel 2, dienen hun aanvraag tot erkenning als SHM met een beveiligde zending in bij het agentschap.<br>
-<br>
-Het aanvraagdossier bevat de gegevens en stukken waaruit blijkt dat voldaan is aan de voorwaarden, vermeld in artikel 40, § 1, tweede lid, en § 2, van de Vlaamse Wooncode. Die gegevens en stukken tonen een voldoende lokale binding met een welomschreven werkgebied en een voldoende laagdrempelige bereikbaarheid voor de doelgroep aan.<br>
-<br>
-De minister kan de gegevens en stukken die in het aanvraagdossier opgenomen moeten worden, nader bepalen. Hij kan tevens een model van verklaring als vermeld in het tweede lid, vaststellen.<br>
-<br>
-§ 2. Binnen een termijn van vijftien werkdagen, die ingaat op de dag na de ontvangst van het volledige aanvraagdossier, bezorgt het agentschap de aanvrager met een beveiligde zending een ontvangstmelding.<br>
-<br>
-Als het agentschap van oordeel is dat het aanvraagdossier onvolledig is, kan het bij de aanvrager met een beveiligde zending aanvullende documenten of inlichtingen opvragen. De aanvrager bezorgt het agentschap met een beveiligde zending de aanvullende documenten of inlichtingen.<br>
-<br>
-§ 3. Een aanvraag tot erkenning als SHM van een vennootschap als vermeld in artikel 2 is onontvankelijk als minder dan vier jaar geleden de erkenning als SHM van die vennootschap werd ingetrokken.<br>
-<br>
-§ 4. Binnen een termijn van drie maanden, die ingaat op de dag na de betekening van de ontvangstmelding, vermeld in paragraaf 2, eerste lid, neemt de minister een beslissing over de aanvraag. De aanvrager wordt met een beveiligde zending op de hoogte gebracht van de ministeriële beslissing.<br>
-<br>
-De aanvraag kan alleen worden geweigerd als de aanvrager werd gehoord. De aanvrager kan zich daarbij laten bijstaan.<br>
-<br>
-Als de minister binnen de termijn, vermeld in het eerste lid, geen beslissing neemt over de aanvraag, wordt de erkenning als SHM geacht te zijn verleend.<br>
-&nbsp;
+...
 
 ### ART. 5.
 
-De erkenning als SHM gaat in op de eerste dag van de maand die volgt op :<br />1° de datum van de erkenningsbeslissing van de minister;<br />2° de datum waarop de erkenning als SHM geacht wordt te zijn verleend.<br /><br />De erkenning als SHM geldt minstens tot de datum van de beslissing van de minister over de maatregelen die aan de eerste prestatiebeoordeling, vermeld in hoofdstuk III, verbonden worden.<br /><br />Als de Vlaamse Regering op basis van de eerste prestatiebeoordeling de erkenning als SHM niet intrekt, geldt de erkenning voor onbepaalde duur.<br /><br />
+...
 
 ## Afdeling II De intrekking van de erkenning als SHM
 
 ### ART. 6.
 
-De Vlaamse Regering kan in de volgende gevallen de erkenning als SHM van   een vennootschap als vermeld in artikel 2 intrekken :<BR>1° de vennootschap   voldoet niet meer aan de voorwaarden, vermeld in artikel 3, eerste lid, 1°; 4°   of 5°;<BR>2° de vennootschap leeft de verbintenissen, vermeld in artikel 3,   eerste lid, 2° of 3°, niet na;<BR>3° uit een prestatiebeoordeling die ten minste   vier jaar na de vorige prestatiebeoordeling plaatsvindt, blijkt dat de   vennootschap er niet in slaagt voor de&nbsp;operationele   doelstellingen&nbsp;waarvoor zij tijdens de vorige prestatiebeoordeling een   beoordeling « onvoldoende » of « voor verbetering vatbaar » behaalde, een   beoordeling « goed » of «&nbsp;zeer goed&nbsp;» te behalen.<BR><BR>De Vlaamse   Regering kan de erkenning als SHM alleen intrekken nadat de vennootschap werd   gehoord. De vennootschap kan zich daarbij laten bijstaan.<BR><BR>
+...
 
 ## Afdeling III De statuten van SHM's
 
 ### ART. 7.
 
-§ 1. Er worden modelstatuten vastgesteld voor SHM's die, zonder hun burgerlijk karakter te verliezen, de vorm aannemen van coöperatieve vennootschappen met een sociaal oogmerk.<br /><br />De modelstatuten, vermeld in het eerste lid, zijn opgenomen in bijlage I, die bij dit besluit is gevoegd.<br /><br />§ 2. Er worden modelstatuten vastgesteld voor SHM's die, zonder hun burgerlijk karakter te verliezen, de vorm aannemen van naamloze vennootschappen met een sociaal oogmerk.<br /><br />De modelstatuten, vermeld in het eerste lid, zijn opgenomen in bijlage II, die bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 8.
 
-§ 1. In de statuten van de SHM's kunnen geen wijzigingen worden aangebracht zonder de voorafgaande goedkeuring van de minister.<br /><br />De SHM's dienen hun aanvraag tot wijziging van de statuten met een beveiligde zending in bij het agentschap. Binnen een termijn van twee maanden die ingaat op de dag na de ontvangst van de gewijzigde statuten, neemt de minister een beslissing over de statutenwijziging. De SHM wordt met een beveiligde zending op de hoogte gebracht van de ministeriële beslissing.<br /><br />Als de minister binnen de termijn, vermeld in het tweede lid, geen beslissing neemt, wordt de statutenwijziging geacht te zijn goedgekeurd.<br /><br />§ 2. In afwijking van paragraaf 1, eerste lid, is de voorafgaande goedkeuring door de minister niet vereist voor de hiernavolgende statutenwijzigingen :<br />1° het in overeenstemming brengen van de statuten van SHM's met de modelstatuten, vermeld in artikel 7, § 1 of § 2;<br />2° een wijziging van de door de SHM toegevoegde inhoud, met uitzondering van de aan de modelstatuten verbonden inhoud;<br />3° de vervanging van een of meer met naam genoemde personen, aandeelhouders of vennoten, op voorwaarde dat dit geen andere wijzigingen van de statuten inhoudt;<br />4° de wijziging van de benaming van de vennootschap, op voorwaarde dat de rechtsvorm wordt behouden en dit geen aanpassingen van het aantal aandeelhouders of vennoten tot gevolg heeft;<br />5° een verhoging van het maatschappelijk kapitaal of een verschuiving van de aandeelhoudersstructuur.<br /><br />Als de SHM gebruik maakt van de mogelijkheid, vermeld in het eerste lid, brengt ze het agentschap met een beveiligde zending op de hoogte van de statutenwijziging.<br /><br />
+...
 
 ## HOOFDSTUK III De prestatiebeoordeling van SHM's
 
@@ -103,161 +67,140 @@ De Vlaamse Regering kan in de volgende gevallen de erkenning als SHM van   een v
 
 ### ART. 9.
 
-Er wordt een systeem van prestatiebeoordeling van de SHM's ingesteld.<br /><br />Het systeem van prestatiebeoordeling heeft tot doel :<br />1° de SHM's in staat te stellen hun eigen prestaties te verbeteren;<br />2° de minister alle relevante informatie te verstrekken voor de Vlaamse beleidsbeoordeling.<br />3° transparante en eenduidige informatie over de werking van SHM's te verschaffen;<br />4° de minister toe te laten de prestaties van de SHM's te meten en te volgen;<br /><br />
+...
 
 ### ART. 10.
 
-§ 1. De SHM's worden beoordeeld op de hiernavolgende prestatievelden   :<BR>1° de beschikbaarheid van woningen;<BR>2° de kwaliteit van de woningen en   de woonomgeving;<BR>3° de betaalbaarheid;<BR>4° het sociaal beleid;<BR>5° de   financiële leefbaarheid;<BR>6° de klantgerichtheid.<BR><BR>§ 2. De SHM's zijn   ertoe gehouden voor elk van de prestatievelden, vermeld in paragraaf 1, 1°, 2°   en 3°, een bijdrage te leveren tot de realisatie van de strategische   doelstellingen.<BR><BR>De mate waarin de SHM's een bijdrage leveren tot de   realisatie van de strategische doelstellingen, wordt gemeten aan de hand van   effectindicatoren.<BR><BR>§ 3. De SHM's zijn ertoe gehouden voor elk van de   prestatievelden, vermeld in paragraaf 1, een of meer operationele doelstellingen   te realiseren.<BR><BR>De mate waarin de SHM's de operationele doelstellingen   realiseren, wordt gemeten aan de hand van prestatie-indicatoren.<BR><BR>§ 4. Bij   het meten van de prestaties van de SHM's wordt alleen rekening gehouden met de   prestatie-indicatoren.<BR><BR>Bij het beoordelen van de prestaties van de SHM's   wordt rekening gehouden met de prestatie-indicatoren, de specifieke kenmerken   die eigen zijn aan de SHM's, hun woningpatrimonium, de context waarin de SHM's   functioneren en de mate waarin de SHM's de processen beheersen om de vereiste   prestaties te garanderen.<BR><BR>
+...
 
 ### ART. 11.
 
-In het kader van het prestatieveld, vermeld in artikel 10, § 1, 1°, moeten   de SHM's de volgende operationele doelstellingen realiseren, voor zover van   toepassing :<BR>1° nieuwe sociale huurwoningen realiseren;<BR>2° vormen van   sociale eigendomsverwerving aanbieden;<BR>3° ...<BR>4° gronden en panden   verwerven om sociale woonprojecten te realiseren;<BR>5° het aanbod afstemmen op   de noden van verschillende groepen.<BR><BR>
+...
 
 ### ART. 12.
 
-In het kader van het prestatieveld, vermeld in artikel 10, § 1, 2°, moeten   de SHM's de volgende operationele doelstellingen realiseren, voor zover van   toepassing :<BR>1° instaan voor het onderhoud en herstel,&nbsp;de renovatie,   verbetering, aanpassing of vervanging van het sociaal woningpatrimonium waar   nodig;<BR>2° kwaliteitsvolle woningen in een behoorlijke woonomgeving   realiseren.<BR>
+...
 
 ### ART. 13.
 
-In het kader van het prestatieveld, vermeld in artikel 10, § 1, 3°, moeten de SHM's de volgende operationele doelstellingen realiseren, voor zover van toepassing :<br />1° prijsbewust bouwen;<br />2° prijsbewust verhuren.<br /><br />
+...
 
 ### ART. 14.
 
-In het kader van het prestatieveld, vermeld in artikel 10, § 1, 4°, moeten de SHM's de volgende operationele doelstellingen realiseren, voor zover van toepassing :<br>
-1° huisvestingsondersteuning bieden aan bewoners;<br>
-2° zich inzetten voor een zo goed mogelijke woonzekerheid;<br>
-3° leefbaarheidsproblemen voorkomen en aanpakken;<br>
-4° bewonersgroepen betrekken bij sociale huurprojecten en wijkbeheer.<br>
-&nbsp;
+...
 
 ### ART. 15.
 
-In het kader van het prestatieveld, vermeld in artikel 10, § 1, 5°, moeten   de SHM's de volgende operationele doelstellingen realiseren, voor zover van   toepassing :<BR>1° financieel leefbaar zijn;<BR>2° hun kosten goed   beheersen;<BR>3° huurachterstal, sociale fraude en domiciliefraude voorkomen en   bestrijden;<BR>4° een behoorlijk financieel plan hebben en   gebruiken.<BR>
+...
 
 ### ART. 16.
 
-In het kader van het prestatieveld, vermeld in artikel 10, § 1, 6°, moeten de SHM's de volgende operationele doelstellingen realiseren, voor zover van toepassing :<br />1° burgers snel en duidelijk informeren;<br />2° beleidsinstanties en andere belanghebbende instanties snel en duidelijk informeren;<br />3° de tevredenheid van klanten meten.<br /><br />
+...
 
 ### ART. 17.
 
-§ 1. Onafhankelijk van de prestatiebeoordeling door de visitatiecommissie,   vermeld in artikel 23, kan de minister SHM's verplichten om een verbeterplan als   vermeld in paragraaf 2 op te maken en uit te voeren, een of meer van de   maatregelen, vermeld in artikel 48, eerste lid, van de Vlaamse Wooncode,   opleggen of de Vlaamse Regering voorstellen om een van de maatregelen, vermeld   in artikel 48, tweede lid, van de Vlaamse Wooncode op te leggen, voor zover dit   noodzakelijk is met het oog op :<BR>1° de verplichting voor de SHM's om een   bijdrage te leveren tot de realisatie van de strategische doelstellingen,   vermeld in artikel 10, § 2;<BR>2° de verplichting voor de SHM's om de   operationele doelstellingen te realiseren, vermeld in artikel 10, § 3;<BR>3° de   verplichting voor de SHM's om de wettelijke en reglementaire verplichtingen en   de principes van behoorlijk bestuur in acht te nemen.<BR><BR>§ 2. Het   verbeterplan omvat de concrete acties die de SHM in kwestie voorstelt om de   prestaties te verbeteren met het oog op de naleving van de verplichtingen,   vermeld in paragraaf 1. De voorgestelde acties moeten specifiek, meetbaar,   acceptabel, resultaatgericht en tijdsgebonden zijn.<BR><BR>De minister bepaalt   de termijn waarbinnen het verbeterplan aan hem moet voorgelegd worden en kan de   VMSW ermee belasten de SHM te ondersteunen bij de opmaak ervan. <BR><BR>De   beslissing van de minister tot gehele of gedeeltelijke goed- of afkeuring van   het verbeterplan wordt samen met de eventuele voorwaarden, bemerkingen of   voorstellen tot aanpassing en met de termijn voor de uitvoering ervan, met een   beveiligde zending bezorgd aan de SHM in kwestie.<BR><BR>Een afschrift van het   verbeterplan en van de beslissing van de minister wordt bezorgd aan de VMSW, aan   de voorzitter van de Visitatieraad, vermeld in artikel 22, en aan de   toezichthouder, vermeld in artikel 29bis van de Vlaamse Wooncode.
+...
 
 ## Afdeling II Gegevensverstrekking
 
 ### ART. 18.
 
-De SHM's bezorgen de actuele gegevens over de operationele doelstellingen, vermeld in artikel 11 tot en met 16, in de vorm van een digitaal prestatieregister aan de Prestatiedatabank.<br /><br />De minister bepaalt de gegevens die minimaal in het digitaal prestatieregister van een SHM moeten worden opgenomen en de frequentie en de wijze waarop de gegevens van het digitaal prestatieregister in de Prestatiedatabank moeten worden overgenomen.<br /><br />De SHM's zijn verantwoordelijk voor de juistheid van hun gegevens. Ze worden geacht de gegevens te controleren en indien nodig te verbeteren of aan te vullen.<br /><br />De gegevens van de digitale prestatieregisters worden samengebracht en eventueel geaggregeerd onder de verantwoordelijkheid van de minister of zijn gemachtigde.<br /><br />
+...
 
 ### ART. 19.
 
-De entiteiten van het beleidsveld Wonen bezorgen de Prestatiedatabank, elk wat hun bevoegdheid en werking betreft, de actuele gegevens over de operationele doelstellingen, vermeld in artikel 11 tot en met 16.<br /><br />Elke entiteit, vermeld in het eerste lid, is verantwoordelijk voor de aanlevering aan of de invoering in de Prestatiedatabank van de eigen gegevens conform de technische richtlijnen die het agentschap ter beschikking stelt.<br /><br />De minister bepaalt de gegevens die elke entiteit, vermeld in het eerste lid, minimaal ter beschikking van de Prestatiedatabank stelt, en de frequentie en de wijze waarop de gegevens ter beschikking gesteld worden.<br /><br />
+...
 
 ### ART. 20.
 
-§ 1. De entiteiten van het beleidsveld Wonen hanteren de Prestatiedatabank als beleidsinstrument om een efficiënt sociaal woonbeleid te ontwikkelen en uit te voeren en om de visitatiecommissie toe te laten de prestaties van een SHM te beoordelen.<br /><br />§ 2. De gegevens van de Prestatiedatabank worden bewaard zolang ze nodig zijn om de administratieve taken in het kader van de erkenningen van de SHM's, om het sociaal woonbeleid uit te voeren en om de ontwikkeling van het sociaal woonbeleid beleidsmatig op te volgen.<br /><br />§ 3. De entiteiten van het beleidsveld Wonen hebben toegang tot de gegevens in de Prestatiedatabank die zij zelf verstrekken.<br /><br />Toegang tot de gegevens uit de Prestatiedatabank kan enkel verleend worden aan ambtenaren van de entiteiten van het beleidsveld Wonen en aan leden van de visitatiecommissie, in zoverre die toegang vereist is in functie van de beoordeling van de prestaties van SHM's, van de verificatie van de uitvoering van een verbeterplan of van het technisch onderhoud van de databank.<br /><br />De minister of zijn gemachtigde kan de gegevens uit de Prestatiedatabank onder contractuele voorwaarden en binnen de perken van de opdrachten doorgeven voor beleidsgericht wetenschappelijk onderzoek waarvan de output eigendom blijft van de Vlaamse Gemeenschap. Afgeleide statistische informatie kan in geaggregeerde vorm worden gebruikt om het publiek te informeren.<br /><br />
+...
 
 ### ART. 21.
 
-...<br /><br />
+...
 
 ## Afdeling III De beoordeling van de prestaties van SHM's
 
 ### ART. 22.
 
-§ 1. Er wordt een ploeg van visitatoren, hierna Visitatieraad te noemen,   opgericht die bestaat uit maximaal vijftien personen die gezamenlijk over de   volgende deskundigheid en ervaring beschikken :<BR>1° kennis van sociale   aspecten en welzijnsaspecten van het wonen, met name leefbaarheid,   woonzekerheid, integratie en gelijke kansen van bewoners;<BR>2° kennis van   financiën, bedrijfskunde en bestuurskunde en ervaring in het   bedrijfsleven;<BR>3° kennis van de organisatie en financiering van de sociale   huisvesting;<BR>4° kennis van de verkoop en verhuring van onroerende goederen en   ervaring met de ontwikkeling van woonprojecten.<BR><BR>De minister benoemt de   leden en de voorzitter van de Visitatieraad, vermeld in het eerste lid, na een   openbare oproep tot kandidaatstelling.<BR><BR>§ 2. Per prestatiebeoordeling   wordt een visitatiecommissie opgericht, waarin de volgende leden van de   Visitatieraad op basis van hun specifieke expertise worden opgenomen :<BR>1° één   lid dat minimaal beschikt over de competentie, vermeld in paragraaf 1, eerste   lid, 1°;<BR>2° één lid dat minimaal beschikt over de competentie en ervaring,   vermeld in paragraaf 1, eerste lid, 2°;<BR>3° één lid dat minimaal beschikt over   de competentie, vermeld in paragraaf 1, eerste lid, 3°.<BR><BR>Minstens één van   de leden van de visitatiecommissie moet ook beschikken over de competentie en   ervaring, vermeld in paragraaf 1, eerste lid, 4°.<BR><BR>De voorzitter van de   Visitatieraad stelt de visitatiecommissies samen na overleg in de Visitatieraad   en duidt per visitatiecommissie onder de leden van de Visitatieraad een   voorzitter, twee leden en drie plaatsvervangers aan.<BR><BR>§ 3. De minister   bepaalt het bedrag van de vergoeding voor de voorzitter van de Visitatieraad en   voor de voorzitters en de leden van de visitatiecommissies.<BR><BR>§ 4. Binnen   de perken van de daartoe op de begroting van de Vlaamse Gemeenschap beschikbare   kredieten kan de minister de kosten voor de organisatie van de   prestatiebeoordeling geheel of gedeeltelijk ten laste   nemen.<BR><BR>
+...
 
 ### ART. 23.
 
-De visitatiecommissie beoordeelt periodiek, eenmaal om de&nbsp;zes jaar,   de prestaties van elke SHM na een visitatie van de SHM in kwestie.<BR><BR>In   afwijking van het eerste lid kan de minister beslissen&nbsp;om :<BR>1° de   prestatiebeoordeling van een of meer SHM's te vervroegen wanneer de SHM in   kwestie bij de laatste prestatiebeoordeling voor een of meer operationele   doelstellingen een beoordeling `voor verbetering vatbaar' of `onvoldoende'   behaald heeft;<BR>2° de prestatiebeoordeling van een of meer SHM's uit te   stellen.
+...
 
 ### ART. 24.
 
-§ 1. Minstens&nbsp;drie maanden voor de datum waarop een visitatie bij een SHM zal plaatsvinden, genereert de visitatiecommissie voor de SHM in kwestie op een gestandaardiseerde manier een output uit de Prestatiedatabank.<br>
-<br>
-Uiterlijk tien weken vóór de eerste visitatiedag bezorgt de SHM aan de visitatiecommissie een geactualiseerde versie van de in de prestatiedatabank opgenomen lijst van lokale woon- en welzijnsactoren en vertegenwoordigers van bewonersgroeperingen<br>
-<br>
-De visitatiecommissie brengt de SHM in kwestie onmiddellijk met een beveiligde zending op de hoogte van de output uit de Prestatiedatabank.<br>
-<br>
-§ 2. Als de SHM in kwestie vaststelt dat de gegevens waarop de output uit de Prestatiedatabank gebaseerd is, niet correct, niet volledig of niet recent zijn, zal ze binnen een termijn van één maand, die ingaat op de dag na de kennisgeving, vermeld in paragraaf 1, derde lid, haar digitaal prestatieregister in de Prestatiedatabank actualiseren.<br>
-&nbsp;
+...
 
 ### ART. 25.
 
-Uiterlijk één maand voor de datum waarop een visitatie bij een SHM zal plaatsvinden, bezorgt de SHM in kwestie de visitatiecommissie met een beveiligde zending alle gegevens en stukken die relevant zijn voor de prestatiebeoordeling van de SHM.<br /><br />De minister kan de gegevens en stukken die voor de prestatiebeoordeling van de SHM's aan de visitatiecommissie bezorgd moeten worden, nader bepalen.<br /><br />Als de visitatiecommissie vaststelt dat de gegevens of stukken die haar overeenkomstig het eerste lid bezorgd werden, niet correct, niet volledig of niet recent zijn, kan ze bij de SHM in kwestie de ontbrekende gegevens of stukken opvragen. De SHM in kwestie bezorgt de visitatiecommissie met een beveiligde zending de ontbrekende gegevens of stukken.<br /><br />
+...
 
 ### ART. 26.
 
-Uiterlijk tien werkdagen voor de datum waarop een visitatie bij een SHM   zal plaatsvinden, bezorgt de visitatiecommissie de SHM in kwestie de meest   recente output uit de Prestatiedatabank voor de SHM in kwestie.
+...
 
 ### ART. 27.
 
-De visitatie door de visitatiecommissie verloopt op basis van de richtlijnen in het door de minister vast te stellen draaiboek voor de prestatiebeoordeling van SHM's. Voorafgaandelijk aan de beslissing van de minister wordt het draaiboek en elke wijziging daaraan bij mededeling aan de Vlaamse Regering voorgelegd.<br /><br />
+...
 
 ### ART. 28.
 
-§ 1. De visitatiecommissie legt haar beoordeling van de prestaties van de   SHM in kwestie vast in een voorlopig visitatierapport, dat binnen een termijn   van zes weken, die ingaat op de dag na de laatste dag van de visitatie, met een   beveiligde zending wordt bezorgd aan de SHM in kwestie.<BR><BR>Het voorlopige   visitatierapport bevat ten minste de hiernavolgende gegevens :<BR>1° een   inleiding met een korte toelichting bij de opzet van de   prestatiebeoordeling;<BR>2° een samenvattende tabel met de beoordeling van de   prestaties van de SHM in kwestie per operationele doelstelling;<BR>3° een   beknopte beschrijving van de SHM in kwestie, haar voorgeschiedenis en de   omgeving waarin ze werkt;<BR>4° voor elk van de operationele doelstellingen,   voor zover van toepassing, een beoordeling 'zeer goed', 'goed', 'voor   verbetering vatbaar' of 'onvoldoende', met een motivering voor die beoordeling,   verwijzend naar de prestatie-indicatoren en naar de informatie uit de   gesprekken;<BR>5° ...<BR>6° aanbevelingen voor de SHM in kwestie;<BR>7° een   advies voor de minister over de te nemen maatregelen voor de SHM in   kwestie;<BR>8° eventuele aanbevelingen voor het Vlaamse woonbeleid.<BR><BR>§   1/1. Tot drie weken vóór de dag waarop de visitatiecommissie een toelichting   geeft aan de raad van bestuur als vermeld in paragraaf 2, kan de SHM met een   beveiligde zending technische correcties op de eerste versie van het voorlopige   visitatierapport aan de visitatiecommissie bezorgen.<BR><BR>§ 1/2. Uiterlijk één   week vóór de dag waarop de visitatiecommissie een toelichting geeft aan de raad   van bestuur als vermeld in paragraaf 2, bezorgt de visitatiecommissie met een   beveiligde zending een nieuw voorlopig visitatierapport aan de SHM, rekening   houdend met de technische correcties.<BR><BR>§ 2. De visitatiecommissie licht de   meest recente versie van het voorlopige visitatierapport toe op een vergadering   van de raad van bestuur van de SHM in kwestie die volgt op de   terbeschikkingstelling van het voorlopige visitatierapport en die binnen een   termijn van&nbsp;vijftien weken, die ingaat op de dag na de   terbeschikkingstelling van het eerste voorlopige visitatierapport, georganiseerd   moet worden.<BR><BR>Binnen een termijn van zes weken, die ingaat op de dag na de   toelichting, vermeld in het eerste lid, kan de SHM in kwestie de   visitatiecommissie met een beveiligde zending haar opmerkingen over het   voorlopige visitatierapport bezorgen.<BR><BR>
+...
 
 ### ART. 29.
 
-Rekening houdend met de opmerkingen van de SHM, vermeld in artikel 28, §   2, tweede lid, stelt de visitatiecommissie een definitief visitatierapport op,   dat binnen een termijn van tien weken door de voorzitter van de Visitatieraad   bezorgd wordt aan de minister en met een beveiligde zending aan de SHM in   kwestie.<BR><BR>Binnen een termijn van één maand, die ingaat op de dag na de   kennisgeving, vermeld in het eerste lid, kan de SHM in kwestie de   visitatiecommissie een reactie op het definitieve visitatierapport bezorgen,   waarin ze in voorkomend geval aangeeft welke initiatieven ze zal nemen om haar   prestaties te verbeteren. De voorzitter van de Visitatieraad bezorgt die reactie   eveneens aan de minister.
+...
 
 ### ART. 30.
 
-De minister beslist welke van de maatregelen, vermeld in afdeling IV, hij   verbindt aan de prestatiebeoordeling van de SHM in kwestie. De beslissing van de   minister wordt bezorgd aan de voorzitter van de Visitatieraad, het agentschap en   met een beveiligde zending aan de SHM in kwestie.<BR><BR>
+...
 
 ### ART. 31.
 
-Het agentschap maakt de beslissing van de minister over de prestatiebeoordeling, het definitieve visitatierapport van de prestatiebeoordeling en de eventuele reactie van de SHM in kwestie publiek bekend.<br /><br />De minister bepaalt de wijze waarop de publieke bekendmaking, vermeld in het eerste lid, verloopt.<br /><br />
+...
 
 ## Afdeling IV Maatregelen die aan de prestatiebeoordeling verbonden kunnen worden
 
 ### ART. 32.
 
-Als uit het definitieve visitatierapport van de prestatiebeoordeling van   een SHM blijkt dat ze voor één of meer&nbsp;operationele doelstellingen&nbsp;een   beoordeling 'zeer goed' of 'goed' behaald heeft, kan de minister een of meer van   de volgende maatregelen opleggen :<BR>1° de niet-beoordeling van   de&nbsp;operationele doelstellingen&nbsp;waarvoor de SHM in kwestie een   beoordeling 'zeer goed' of 'goed' behaald heeft, bij de eerstvolgende   prestatiebeoordeling;<BR>2° een uitstel van de eerstvolgende   prestatiebeoordeling;<BR>3° de aanduiding van de operationele   doelstellingen&nbsp;waarvoor de SHM in kwestie een beoordeling 'zeer goed' of   goed' behaald heeft, als voorbeeld voor andere SHM's.<BR><BR>
+...
 
 ### ART. 33.
 
-§ 1. Als uit het definitieve visitatierapport van de prestatiebeoordeling   van een SHM blijkt dat ze voor een of meer&nbsp;operationele   doelstellingen&nbsp;een&nbsp;beoordeling 'voor verbetering vatbaar' of   'onvoldoende' behaald heeft, kan de minister de SHM in kwestie verplichten om   een verbeterplan op te maken en uit te voeren.<BR><BR>Het verbeterplan omvat de   concrete acties die de SHM in kwestie voorstelt om de prestaties te verbeteren   op het vlak van een of meer operationele doelstellingen waarvoor de SHM in   kwestie een&nbsp;beoordeling 'voor verbetering vatbaar' of 'onvoldoende' behaald   heeft. De voorgestelde acties moeten specifiek, meetbaar, acceptabel,   resultaatgericht en tijdsgebonden zijn.<BR><BR>§ 2. De bepalingen van artikel   17, § 2, tweede, derde en vierde lid, zijn van toepassing op dit   artikel.<BR><BR>Als de minister het verbeterplan als niet voldoende of niet   haalbaar beschouwt of als binnen de termijn, vermeld in het eerste lid, geen   verbeterplan wordt bezorgd, kan hij beslissen om een of meer van de maatregelen,   vermeld in artikel 34, op te leggen.
+...
 
 ### ART. 34.
 
-Als uit het definitieve visitatierapport van de prestatiebeoordeling van een SHM blijkt dat ze voor een of meer operationele doelstellingen een beoordeling `onvoldoende' behaald heeft, kan de minister de maatregel, vermeld in artikel 33 van dit besluit, en een of meer van de maatregelen, vermeld in artikel 48, eerste lid, van de Vlaamse Wooncode, opleggen, met uitzondering van punt 6° van de voormelde bepaling.<br>
-<br>
-Met behoud van de toepassing van het eerste lid kan de minister de Vlaamse Regering voorstellen om een van de maatregelen, vermeld in artikel 48, eerste lid, 6°, en tweede lid, van de Vlaamse Wooncode, op te leggen."
+...
 
 ## HOOFDSTUK IV Overgangs- en slotbepalingen
 
 ### ART. 35.
 
-De bepalingen van dit besluit zijn van toepassing op SHM's waarvan de erkenning werd verleend voor de datum van inwerkingtreding van dit besluit, hetzij overeenkomstig het decreet van 21 december 1988 houdende oprichting van een Vlaamse Huisvestingsmaatschappij, hetzij overeenkomstig de Vlaamse Wooncode, met dien verstande dat :<br>
-1° de erkenning als SHM geldt tot op de datum waarop de minister een beslissing neemt over de maatregelen die aan de eerste prestatiebeoordeling van een SHM verbonden worden, en uiterlijk tot 31 december 2020;<br>
-2° ...;<br>
-3° ...;<br>
-4° de SHM's hun statuten binnen een termijn van twa alf maanden, die ingaat op de dag na de datum van inwerkingtreding van dit besluit, in overeenstemming moeten brengen met de modelstatuten, vermeld in artikel 7, § 1 of § 2;<br>
-5° de visitatiecommissie bij de eerste prestatiebeoordeling van een SHM in afwijking van artikel 28, § 1, tweede lid, 4°, voor elk van de operationele doelstellingen enkel een beoordeling `zeer goed', `goed' of `voor verbetering vatbaar' kan geven;<br>
-6° als de minister het verbeterplan dat een SHM moet opmaken tengevolge van de eerste prestatiebeoordeling, als niet voldoende of niet haalbaar beschouwt, hij in afwijking van artikel 33, § 2, derde lid, de SHM in kwestie kan verplichten het verbeterplan aan te passen of een vervroeging van de eerstvolgende prestatiebeoordeling kan opleggen.<br>
-&nbsp;
+...
 
 ### ART. 36.
 
-Zolang het digitaal prestatieregister niet door de SHM in kwestie kan worden aangeleverd, levert de VMSW, in afwijking van artikel 18, eerste lid, de actuele gegevens over de operationele doelstellingen, vermeld in artikelen 11 tot en met 16, aan de Prestatiedatabank.<br /><br />
+...
 
 ### ART. 37.
 
-Als een SHM fuseert met een andere SHM door die SHM over te nemen, houdt de visitatiecommissie bij haar eerstvolgende prestatiebeoordeling rekening met de definitieve visitatierapporten van de laatste prestatiebeoordeling voor de fusie en beoordeelt ze in voorkomend geval de uitvoering van de verbeterplannen die het gevolg waren van die prestatiebeoordeling.<br /><br />
+...
 
 ### ART. 38.
 
-Dit besluit treedt in werking op 1 januari 2011, met uitzondering van :<br />1° artikelen 7, 8, 22 en 35, 4°, en artikel 38 en 39, die in werking treden op de dag waarop dit besluit in het Belgisch Staatsblad bekendgemaakt wordt;<br />2° artikelen 17, 18, 19, 20, 21, 34 en 36, die in werking treden op een door de Vlaamse Regering te bepalen datum.<br /><br />
+...
 
 ### ART. 39.
 
-De Vlaamse minister, bevoegd voor de huisvesting, is belast met de uitvoering van dit besluit.<br /><br />
+...
 
 ### BIJLAGE 1
 
-BIJLAGE 1. - MODELSTATUTEN VAN EEN COOPERATIEVE VENNOOTSCHAP MET BEPERKTE AANSPRAKELIJKHEID MET EEN SOCIAAL OOGMERK<br /><br />I. BENAMING, ZETEL, DUUR, DOEL<br /><br />Artikel 1. De (benaming van de vennootschap) : ..........................................................................................<br />is een burgerlijke vennootschap die de rechtsvorm van een coöperatieve vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk heeft aangenomen, zoals bepaald in het decreet van 15 juli 1997 houdende de Vlaamse Wooncode en actief is in het Vlaamse Gewest.<br /><br />De zetel is gevestigd te ..................................................................... in het Vlaams Gewest.<br /><br />De vennootschap werd opgericht op .............<br /><br />Zij kan ontbonden worden bij beslissing van de algemene vergadering, krachtens de inzake statutenwijzigingen geldende regels en voorwaarden, en als gevolg van een door de Vlaamse Regering opgelegde verplichting tot fusie en intrekking van de erkenning.<br /><br />Art. 2. De vennootschap werd opgericht voor onbepaalde duur vanaf de datum van de eerste erkenning.<br /><br />Art. 3. De vennootschap verbindt zich in haar hoedanigheid van een door de Vlaamse Regering erkende sociale huisvestingsmaatschappij tot :<br />1° het naleven van de verplichtingen en het uitvoeren van de opdrachten die haar wettelijk worden opgelegd of waartoe zij zich contractueel heeft verbonden;<br />2° het aanvaarden van het toezicht zoals geregeld door de Vlaamse Wooncode en de besluiten ter uitvoering ervan;<br />3° het aannemen van de door de Vlaamse Regering opgestelde modelstatuten en tot het onmiddellijk aanpassen van haar statuten aan elke latere wijziging die de Vlaamse Regering aan die modelstatuten zou aanbrengen;<br />4° het aanvaarden van de procedure voor de beoordeling van de prestaties van de sociale huisvestingsmaatschappij zoals bepaald door de Vlaamse Regering;<br />5° het aanstellen van een commissaris die belast wordt met de controles zoals bepaald in het Wetboek van Vennootschappen;<br />6° het zorgen voor een behoorlijk systeem van interne controle;<br />7° het door de VMSW laten beheren van haar financiële middelen die niet noodzakelijk zijn voor de dagelijkse werking.<br /><br />Art. 4. De vennootschap heeft als doel :<br />1° de woonvoorwaarden van de woonbehoeftige gezinnen en alleenstaanden te verbeteren, inzonderheid van de meest behoeftige gezinnen en alleenstaanden, door te zorgen voor een voldoende aanbod van sociale huurwoningen of sociale koopwoningen, eventueel met inbegrip van gemeenschappelijke voorzieningen, met aandacht voor hun integratie in de lokale woonstructuur;<br />2° bij te dragen tot de herwaardering van het woningbestand, door ongeschikte woningen of ongeschikte gebouwen te renoveren, te verbeteren en aan te passen of ze zo nodig te slopen en te vervangen;<br />3° gronden en panden te verwerven voor de realisatie van sociale woonprojecten en de terbeschikkingstelling van percelen in sociale verkavelingen.<br /><br />Een gedeelte van de sociale huurwoningen moet aangepast zijn aan de behoeften van grote gezinnen, bejaarden en personen met een handicap.<br /><br />De vennootschap kan een bescheiden woonaanbod verwerven, verwezenlijken en vervreemden en niet-residentiële ruimten verwerven, realiseren, verhuren en verkopen onder de voorwaarden, vastgesteld in artikel 41, § 2 en § 3, van de Vlaamse Wooncode en eventueel nader geregeld door de Vlaamse Regering.<br /><br />II. MAATSCHAPPELIJK KAPITAAL, AANDELEN<br /><br />Art. 5. Het vaste gedeelte van het maatschappelijk kapitaal bedraagt ...... euro. Het maatschappelijk kapitaal is samengesteld uit aandelen op naam met een nominale waarde van ......... euro elk.<br /><br />Elke vennoot verbindt zich ertoe in te schrijven op minimum ............. aandelen.<br /><br />De vennoten moeten onmiddellijk 25 % van de waarde van hun aandelen voldoen. Het saldo kan, naargelang van de behoeften van de vennootschap, door de raad van bestuur opgevraagd worden. De opgevraagde stortingen mogen bij nieuwe erkenningen jaarlijks niet meer bedragen dan 10 % van het bedrag van de maatschappelijke aandelen.<br /><br />De Vlaamse Regering heeft het recht om bij de erkenning, fusie of omvorming van de vennootschap namens het Vlaamse Gewest in te tekenen op ten hoogste een vierde van het maatschappelijk kapitaal.<br /><br />De vennoten mogen geen of maar een beperkt vermogensvoordeel nastreven.<br /><br />De vennoten kunnen een afschrift van de inschrijvingen in het aandelenregister die op hem betrekking hebben, opvragen. Het afschrift bevat de naam van de vennootschap waarbij de rechtsvorm nominatief is vermeld, de naam van de titularis, de datum van toetreding en het aantal aandelen waarvan hij houder is. In chronologische volgorde worden eveneens de gedeeltelijke stortingen vermeldt die door de vennoot werden verricht tot volstorting van de omschreven aandelen.<br /><br />III. BESTUUR<br /><br />Art. 6. De vennootschap wordt bestuurd door een raad, bestaande uit ... leden. De duur van hun mandaat wordt vastgesteld op ... jaar.<br /><br />Bestuurders die hun mandaat vervullen als vertegenwoordiger van een provincie, een gemeente of een openbaar centrum voor maatschappelijk welzijn, worden gekozen uit de kandidaten die door de openbare besturen in kwestie worden voorgedragen. Hun mandaat vervalt van ambtswege op verzoek van het openbaar bestuur dat hen heeft voorgedragen, aan de vennootschap betekend bij aangetekende brief.<br /><br />Als het Vlaamse Gewest, een provincie, gemeenten en openbare centra voor maatschappelijk welzijn gezamenlijk de meerderheid van het maatschappelijk kapitaal bezitten, moeten hun afgevaardigden gezamenlijk de meerderheid bezitten in de raad van bestuur.<br /><br />Het mandaat van bestuurder is onverenigbaar met de functie van directeur of ander personeelslid van de vennootschap.<br /><br />Art. 7. De bestuurders worden door de algemene vergadering benoemd en afgezet.<br /><br />Art. 8. De raad van bestuur brengt jaarlijks een bijzonder verslag uit over de wijze waarop de vennootschap toezicht heeft uitgeoefend op het sociale oogmerk zoals bepaald in artikel 4. Dat verslag moet inzonderheid aangeven dat de uitgaven inzake investeringen, inzake de werkingskosten en bezoldigingen bestemd zijn om de verwezenlijking van het sociaal oogmerk van de vennootschap te bevorderen. Het verslag wordt ingevoegd in het jaarverslag.<br /><br />Art. 9. Binnen de perken van de statuten, is de raad van bestuur bevoegd voor alle aangelegenheden die niet voorbehouden zijn aan de algemene vergadering. De raad van bestuur beraadslaagt en beslist over alles wat de vennootschap aanbelangt.<br /><br />De raad van bestuur kan het dagelijkse bestuur van de vennootschap <br />toevertrouwen aan een in zijn schoot gevormd directiecomité dat handelt als orgaan van de vennootschap. De raad van bestuur stelt een huishoudelijk reglement op.<br /><br />Het huishoudelijk reglement bevat een nadere regeling voor de toepassing van de statuten en de regeling van de zaken van de vennootschap in het algemeen, en kan aan de vennoten of hun rechtverkrijgenden worden opgelegd voor zover dit in het belang van de vennootschap wordt geacht.<br /><br />In het reglement wordt de samenstelling van het directiecomité en diens bevoegdheden geregeld.<br /><br />Het huishoudelijke reglement bevat geen maatregelen die strijdig zijn met de wetten, decreten, de uitvoeringsbesluiten of de statuten.<br /><br />In het huishoudelijk reglement wordt opgenomen dat in geval van staking van stemmen de stem van de voorzitter doorslaggevend is. Bij geheime stemming wordt de beslissing bij staking van stemmen verworpen.<br /><br />IV. JAARREKENING, RESERVEFONDS, DIVIDEND<br /><br />Art. 10. Elk jaar worden het jaarverslag en de jaarrekening, afgesloten op 31 december, opgemaakt. Die stukken worden samen met het verslag van de commissaris gedurende de vijftien dagen die aan de algemene vergadering voorafgaan op de maatschappelijke zetel neergelegd voor inzage door de vennoten.<br /><br />Het boekjaar valt samen met het kalenderjaar.<br /><br />Art. 11. Na aftrek van de vorige verliezen wordt de winst van het boekjaar als volgt verdeeld :<br />1° jaarlijks wordt door de algemene vergadering van de nettowinst een bedrag van ten minste een twintigste afgenomen voor de vorming van een reservefonds. De verplichting tot deze afneming houdt op wanneer het reservefonds één tiende van het vaste gedeelte van het maatschappelijk kapitaal heeft bereikt;<br />2° de vennoten kunnen een dividend uitgekeerd krijgen, op het werkelijk gestorte bedrag van de aandelen waarop zij ingeschreven hebben, dat niet meer mag bedragen dan de rentevoet vermeld in artikel 1, § 2, 6° van het koninklijk besluit van 8 januari 1962 tot vaststelling van de voorwaarden tot de erkenning van de nationale groeperingen van coöperatieve vennootschappen en van de coöperatieve vennootschappen voor de nationale raad voor de coöperatie ter uitvoering van de wet van 20 juli 1955 houdende instelling van een Nationale Raad voor de Coöperatie;<br />3° het resterende gedeelte van de winst wordt toegevoegd aan de andere reservefondsen of uitgekeerd aan de door de algemene vergadering bepaalde hulp en bijstand voor organisaties met een sociaal doel.<br /><br />V. ALGEMENE VERGADERING<br /><br />Art. 12. De algemene vergadering bestaat uit al de vennoten.<br /><br />Zij komt minstens éénmaal per jaar bijeen, binnen zes maanden volgende op het afsluiten van de rekeningen, in ................. (de plaats), op ................ (datum) om ............... (uur).<br /><br />De voorzitter van de raad van bestuur, of meerdere leden van de raad van bestuur gezamenlijk, roep(t)(en) de jaarlijkse algemene vergaderingen, de bijzondere of buitengewone algemene vergaderingen, bijeen.<br /><br />De oproeping geschiedt volgens de in het huishoudelijke reglement bepaalde modaliteiten met vermelding van de agendapunten.<br /><br />Art. 13. De algemene vergadering wordt voorgezeten door de voorzitter van de raad van bestuur, bij ontstentenis van de voorzitter, in voorkomend geval, door de ondervoorzitter of bij ontstentenis van zowel de voorzitter als de ondervoorzitter, door de oudste aanwezige bestuurder.<br /><br />Art. 14. Het Vlaamse Gewest, de provincie, de gemeenten en de openbare centra voor maatschappelijk welzijn hebben evenveel stemmen als ze aandelen bezitten. Niemand van de overige vennoten mag aan de stemming deelnemen met meer dan één tiende van het aantal stemmen verbonden aan de vertegenwoordigde aandelen.<br /><br />VI. ONTBINDING, VEREFFENING<br /><br />Art. 15. Het vermogen van de ontbonden vennootschap gaat, na aanzuivering van het passief en de eventuele terugbetaling aan de vennoten van hun inbreng, over op een door de Vlaamse Regering aangewezen sociale huisvestingsmaatschappij.
+...
 
 ### BIJLAGE 2
 
-BIJLAGE 2. - MODELSTATUTEN VAN EEN NAAMLOZE VENNOOTSCHAP MET EEN SOCIAAL OOGMERK<br /><br />I. BENAMING, ZETEL, DUUR, DOEL<br /><br />Artikel 1. De (benaming van de vennootschap) : ...................................................................................................<br />is een burgerlijke vennootschap die de rechtsvorm van een naamloze vennootschap met een sociaal oogmerk heeft aangenomen, zoals bepaald in het decreet van 15 juli 1997 houdende de Vlaamse Wooncode en actief is in het Vlaamse Gewest<br /><br />De zetel is gevestigd te .................................................................. in het Vlaams Gewest.<br /><br />De vennootschap werd opgericht op ..........<br /><br />Zij kan ontbonden worden bij beslissing van de algemene vergadering, krachtens de inzake statutenwijzigingen geldende regels en voorwaarden, en als gevolg van een door de Vlaamse Regering opgelegde verplichting tot fusie en intrekking van de erkenning.<br /><br />Art. 2. De vennootschap werd opgericht voor onbepaalde duur vanaf de datum van de eerste erkenning.<br /><br />Art. 3. De vennootschap verbindt zich in haar hoedanigheid van een door de Vlaamse Regering erkende sociale huisvestingsmaatschappij tot :<br />1° het naleven van de verplichtingen en het uitvoeren van de opdrachten die haar wettelijk worden opgelegd of waartoe zij zich contractueel heeft verbonden;<br />2° het aanvaarden van het toezicht zoals geregeld door de Vlaamse Wooncode en de besluiten ter uitvoering ervan;<br />3° het aannemen van de door de Vlaamse Regering opgestelde modelstatuten en tot het onmiddellijk aanpassen van haar statuten aan elke latere wijziging die de Vlaamse Regering aan die modelstatuten zou aanbrengen;<br />4° het aanvaarden van de procedure voor de beoordeling van de prestaties van de sociale huisvestingsmaatschappij zoals bepaald door de Vlaamse Regering;<br />5° het aanstellen van een commissaris die belast wordt met de controles zoals bepaald in het Wetboek van Vennootschappen;<br />6° het zorgen voor een behoorlijk systeem van interne controle;<br />7° het door de VMSW laten beheren van haar financiële middelen die niet noodzakelijk zijn voor de dagelijkse werking.<br /><br />Art. 4. De vennootschap heeft als doel :<br />1° de woonvoorwaarden van de woonbehoeftige gezinnen en alleenstaanden te verbeteren, inzonderheid van de meest behoeftige gezinnen en alleenstaanden, door te zorgen voor een voldoende aanbod van sociale huurwoningen of sociale koopwoningen, eventueel met inbegrip van gemeenschappelijke voorzieningen, met aandacht voor hun integratie in de lokale woonstructuur;<br />2° bij te dragen tot de herwaardering van het woningbestand, door ongeschikte woningen of ongeschikte gebouwen te renoveren, te verbeteren en aan te passen of ze zo nodig te slopen en te vervangen;<br />3° gronden en panden te verwerven voor de realisatie van sociale woonprojecten en de terbeschikkingstelling van percelen in sociale verkavelingen.<br /><br />Een gedeelte van de sociale huurwoningen moet aangepast zijn aan de behoeften van grote gezinnen, bejaarden en personen met een handicap.<br /><br />De vennootschap kan een bescheiden woonaanbod verwerven, verwezenlijken en vervreemden en niet-residentiële ruimten verwerven, realiseren, verhuren en verkopen onder de voorwaarden, vastgesteld in artikel 41, § 2 en § 3, van de Vlaamse Wooncode en eventueel nader geregeld door de Vlaamse Regering.<br /><br />II. MAATSCHAPPELIJK KAPITAAL, AANDELEN<br /><br />Art. 5. Het maatschappelijk kapitaal bedraagt ......euro. Het is samengesteld <br />uit aandelen op naam met een nominale waarde van ......... euro elk.<br /><br />De (nieuwe) vennoten moeten onmiddellijk 25 % van de waarde van hun aandelen voldoen. Het saldo kan, naargelang van de behoeften van de vennootschap, door de raad van bestuur opgevraagd worden. De opgevraagde stortingen mogen bij nieuwe erkenningen jaarlijks niet meer bedragen dan 10 % van het bedrag van de maatschappelijke aandelen.<br /><br />De Vlaamse Regering heeft het recht om bij de erkenning, fusie of omvorming van de vennootschap namens het Vlaamse Gewest in te tekenen op ten hoogste een vierde van het maatschappelijk kapitaal.<br /><br />De vennoten mogen geen of maar een beperkt vermogensvoordeel nastreven.<br /><br />De vennoten verkrijgen een afschrift van de inschrijvingen in het aandelenregister die op hem betrekking hebben, opvragen. Het afschrift bevat de naam van de vennootschap waarbij de rechtsvorm nominatief is vermeld, de naam van de titularis, de datum van toetreding en het aantal aandelen waarvan hij houder is. In chronologische volgorde worden eveneens de gedeeltelijke stortingen vermeldt die door de vennoot werden verricht tot volstorting van de omschreven aandelen.<br /><br />III. BESTUUR<br /><br />Art. 6. De vennootschap wordt bestuurd door een raad, bestaande uit ... (minstens drie) leden. De duur van hun mandaat wordt vastgesteld op ... (maximaal zes jaar) jaar.<br /><br />Bestuurders die hun mandaat vervullen als vertegenwoordiger van een provincie, een gemeente of een openbaar centrum voor maatschappelijk welzijn, worden gekozen uit de kandidaten die door de openbare besturen in kwestie worden voorgedragen. Hun mandaat vervalt van ambtswege op verzoek van het openbaar bestuur dat hen heeft voorgedragen, aan de vennootschap betekend bij aangetekende brief.<br /><br />Als het Vlaamse Gewest, een provincie, gemeenten en openbare centra voor maatschappelijk welzijn gezamenlijk de meerderheid van het maatschappelijk kapitaal bezitten, moeten hun afgevaardigden gezamenlijk de meerderheid bezitten in de raad van bestuur.<br /><br />Het mandaat van bestuurder is onverenigbaar met de functie van directeur of ander personeelslid van de vennootschap.<br /><br />Art. 7. De bestuurders worden door de algemene vergadering benoemd en afgezet.<br /><br />Art. 8. De raad van bestuur brengt jaarlijks een bijzonder verslag uit over de wijze waarop de vennootschap toezicht heeft uitgeoefend op het sociale oogmerk zoals bepaald in artikel 4. Dat verslag moet inzonderheid aangeven dat de uitgaven inzake investeringen, inzake de werkingskosten en bezoldigingen bestemd zijn om de verwezenlijking van het sociaal oogmerk van de vennootschap te bevorderen. Het verslag wordt ingevoegd in het jaarverslag.<br /><br />Art. 9. Binnen de perken van de statuten, is de raad van bestuur bevoegd voor alle aangelegenheden die niet voorbehouden zijn aan de algemene vergadering. De raad van bestuur beraadslaagt en beslist over alles wat de vennootschap aanbelangt.<br /><br />De raad van bestuur kan het dagelijkse bestuur van de vennootschap toevertrouwen aan een in zijn schoot gevormd directiecomité dat handelt als orgaan van de vennootschap. De raad van bestuur stelt een huishoudelijk reglement op. Het huishoudelijk reglement bevat een nadere regeling voor de toepassing van de statuten en de regeling van de zaken van de vennootschap in het algemeen, en kan aan de vennoten of hun rechtverkrijgenden worden opgelegd voor zover dit in het belang van de vennootschap wordt geacht.<br /><br />In het reglement wordt de samenstelling van het directiecomité en diens bevoegdheden geregeld.<br /><br />Het huishoudelijke reglement bevat geen maatregelen die strijdig zijn met de wetten, decreten, de uitvoeringsbesluiten of de statuten.<br /><br />In het huishoudelijk reglement wordt opgenomen dat in geval van staking van stemmen de stem van de voorzitter doorslaggevend is. Bij geheime stemming wordt de beslissing bij staking van stemmen verworpen.<br /><br />IV. JAARREKENING, RESERVEFONDS, DIVIDEND<br /><br />Art. 10. Elk jaar worden het jaarverslag en de jaarrekening, afgesloten op 31 december, opgemaakt. Die stukken worden samen met het verslag van de commissaris gedurende de vijftien dagen die aan de algemene vergadering voorafgaan op de maatschappelijke zetel neergelegd voor inzage door de vennoten.<br /><br />Het boekjaar valt samen met het kalenderjaar.<br /><br />Art. 11. Na aftrek van de vorige verliezen wordt de winst van het boekjaar als volgt verdeeld :<br />1° jaarlijks wordt door de algemene vergadering van de nettowinst een bedrag van ten minste een twintigste afgenomen voor de vorming van een reservefonds. De verplichting tot deze afneming houdt op wanneer het reservefonds één tiende van het vaste gedeelte van het maatschappelijk kapitaal heeft bereikt;<br />2° de vennoten kunnen een dividend uitgekeerd krijgen, op het werkelijk gestorte bedrag van de aandelen waarop zij ingeschreven hebben, dat niet meer mag bedragen dan de rentevoet vermeld in artikel 1, § 2, 6° van het koninklijk besluit van 8 januari 1962 tot vaststelling van de voorwaarden tot de erkenning van de nationale groeperingen van coöperatieve vennootschappen en van de coöperatieve vennootschappen voor de Nationale Raad voor de Coöperatie ter uitvoering van de wet van 20 juli 1955 houdende instelling van een Nationale Raad voor de Coöperatie;<br />3° het resterende gedeelte van de winst wordt toegevoegd aan de andere reservefondsen of uitgekeerd aan de door de algemene vergadering bepaalde hulp en bijstand voor organisaties met een sociaal doel.<br /><br />V. ALGEMENE VERGADERING<br /><br />Art. 12. De algemene vergadering bestaat uit al de vennoten.<br /><br />Zij komt minstens éénmaal per jaar bijeen, binnen zes maanden volgende op het afsluiten van de rekeningen, in .............................. (de plaats), op ................ (datum) om ............ (uur).<br /><br />De voorzitter van de raad van bestuur, of meerdere leden van de raad van bestuur gezamenlijk, roep(t)(en) de jaarlijkse algemene vergaderingen, de bijzondere of buitengewone algemene vergaderingen, bijeen.<br /><br />De oproeping geschiedt volgens de in het huishoudelijke reglement bepaalde modaliteiten met vermelding van de agendapunten.<br /><br />Art. 13. De algemene vergadering wordt voorgezeten door de voorzitter van de raad van bestuur, bij ontstentenis van de voorzitter, in voorkomend geval, door de ondervoorzitter of bij ontstentenis van zowel de voorzitter als de ondervoorzitter, door de oudste aanwezige bestuurder.<br /><br />Art. 14. Het Vlaamse Gewest, de provincie, de gemeenten en de openbare centra voor maatschappelijk welzijn hebben evenveel stemmen als ze aandelen bezitten<br /><br />Niemand van de overige vennoten mag aan de stemming deelnemen met meer dan één tiende van het aantal stemmen verbonden aan de vertegenwoordigde aandelen.<br /><br />VI. ONTBINDING, VEREFFENING<br /><br />Art. 15. Het vermogen van de ontbonden vennootschap gaat, na aanzuivering van het passief en de eventuele terugbetaling aan de vennoten van hun inbreng, over op een door de Vlaamse Regering aangewezen sociale huisvestingsmaatschappij.
+...
