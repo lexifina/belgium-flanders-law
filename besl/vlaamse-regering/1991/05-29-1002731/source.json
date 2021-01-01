@@ -2,16 +2,16 @@
   "codex_id": 1002731,
   "title": "Besluit van de Vlaamse Regering van 1991-05-29 tot vaststelling van het presentiegeld en de vergoedingen van de voorzitters, de gemeenschapscommissarissen, de leden van de raad van bestuur en de praktijkcommissie van het [Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002731/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "cb1250daf5d27bbabba859730f93a4052a70cb026e1917595afcc67ae27e5c7d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002731/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "0e514896058c4e5fd4e7febb34906db12c2e7601e08597ccb95252fd351490a4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002731&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2021-01-01",
   "made": "1991-05-29",
   "gazette": "1991-08-15",
   "numac": 1991035939,
   "document_start": "1991-05-29",
   "document_end": "2020-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2021-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
