@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035541,
+  "title": "Besluit van de Vlaamse Regering van 2021-04-02 tot wijziging van artikel 13 van het koninklijk besluit van 27 april 1998 houdende vaststelling van de normen waaraan een functie \"gespecialiseerde spoedgevallenzorg\" moet voldoen om erkend te worden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035541/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "c3e3093be9e57c3bf0928e5b46967c3d60bd5dc17dc03a57d153045b4b6898ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035541&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2021-04-02",
+  "gazette": "2021-05-12",
+  "numac": 2021020930,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
