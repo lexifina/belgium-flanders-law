@@ -22,38 +22,210 @@ Besluit :
 
 ## HOOFDSTUK 1. Definities
 
+### ART 1.
+
+...
+
 ## HOOFDSTUK 2. Veiligheids-, gezondheids- en woningkwaliteitsnormen
+
+### ART 2.
+
+...
 
 ## HOOFDSTUK 3. Het conformiteitsonderzoek
 
+### ART 3.
+
+...
+
+### ART 4.
+
+...
+
 ## HOOFDSTUK 4. Het conformiteitsattest
+
+### ART 5.
+
+...
+
+### ART 6.
+
+...
+
+### ART 7.
+
+...
+
+### ART 8.
+
+...
+
+### ART 9.
+
+...
 
 ## HOOFDSTUK 5. Waarschuwing
 
+### ART 10.
+
+...
+
 ## HOOFDSTUK 6. Ongeschikt-, onbewoonbaar- of overbewoondverklaring
+
+### ART 11.
+
+...
+
+### ART 12.
+
+...
+
+### ART 13.
+
+...
+
+### ART 14.
+
+...
+
+### ART 15.
+
+...
+
+### ART 16.
+
+...
 
 ## HOOFDSTUK 7. De inventaris van ongeschikte en onbewoonbare woningen
 
+### ART 17.
+
+...
+
+### ART 18.
+
+...
+
+### ART 19.
+
+...
+
+### ART 20.
+
+...
+
 ## HOOFDSTUK 8. Herhuisvesting
+
+### ART 21.
+
+...
 
 ## HOOFDSTUK 9. Sancties - herstel van conformiteit
 
+### ART 22.
+
+...
+
+### ART 23.
+
+...
+
+### ART 24.
+
+...
+
 ## HOOFDSTUK 10. Aanvullende bepalingen
+
+### ART 25.
+
+...
+
+### ART 26.
+
+...
 
 ## HOOFDSTUK 11. Wijzigingsbepalingen
 
 ## Afdeling 1. Wijzigingen van het besluit van de Vlaamse Regering van 2 februari 2007 tot instelling van een tegemoetkoming in de huurprijs voor woonbehoeftige huurders
 
+### ART 27.
+
+...
+
+### ART 28.
+
+...
+
+### ART 29.
+
+...
+
 ## Afdeling 2. Wijziging van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode
+
+### ART 30.
+
+...
+
+### ART 31.
+
+...
+
+### ART 32.
+
+...
 
 ## Afdeling 3. Wijziging van het besluit van de Vlaamse Regering van 4 mei 2012 tot instelling van een tegemoetkoming voor kandidaat-huurders
 
+### ART 33.
+
+...
+
+### ART 34.
+
+...
+
 ## Afdeling 4. Wijzigingen van het besluit van de Vlaamse Regering van 20 juli 2012 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren
+
+### ART 35.
+
+...
+
+### ART 36.
+
+...
 
 ## Afdeling 5. Wijzigingen aan het besluit van de Vlaamse Regering van 7 december 2018 ter uitvoering van het Vlaams Woninghuurdecreet
 
+### ART 37.
+
+...
+
 ## HOOFDSTUK 12. Slotbepalingen
 
+### ART 38.
+
+...
+
 ### ART 39.
+
+...
+
+### ART 40.
+
+...
+
+### ART 41.
+
+...
+
+### Bijlage 1.
+
+...
+
+### BIJLAGE 2.
+
+...
+
+### BIJLAGE 3.
 
 ...
