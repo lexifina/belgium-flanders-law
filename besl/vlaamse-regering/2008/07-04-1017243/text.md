@@ -8,7 +8,15 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° ...<BR>2° besluit Lokale   Diensteneconomie : het besluit van de Vlaamse Regering van 5 oktober 2007   betreffende de lokale diensteneconomie;<BR>3° decreet : het decreet van 22   december 2006 houdende de lokale diensteneconomie;<BR>4° doelgroepwerknemers :   werknemers als vermeld in artikel 2 van het besluit Lokale   Diensteneconomie;<BR>5° SHM : de erkende sociale huisvestingsmaatschappij,   vermeld in artikel 40 van de Vlaamse Wooncode;<BR>6° Departement WSE: het   Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en   Sociale Economie;<BR>7° toezichthouder : de toezichthouder voor de sociale   huisvesting, vermeld in artikel 29bis van de Vlaamse Wooncode;<BR>8° Vlaamse   Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse   Wooncode.
+In dit besluit wordt verstaan onder :<br>
+1° ...<br>
+2° besluit Lokale Diensteneconomie : het besluit van de Vlaamse Regering van 5 oktober 2007 betreffende de lokale diensteneconomie;<br>
+3° decreet : het decreet van 22 december 2006 houdende de lokale diensteneconomie;<br>
+4° doelgroepwerknemers : werknemers als vermeld in artikel 2 van het besluit Lokale Diensteneconomie;<br>
+5° SHM : de erkende sociale huisvestingsmaatschappij, vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
+6° Departement WSE: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie;<br>
+7° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 4.79 van de Vlaamse Codex Wonen van 2021;<br>
+8° ...
 
 ## HOOFDSTUK II. Toepassingsgebied
 

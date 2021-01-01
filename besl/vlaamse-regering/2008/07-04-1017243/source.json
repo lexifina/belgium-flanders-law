@@ -2,16 +2,16 @@
   "codex_id": 1017243,
   "title": "Besluit van de Vlaamse Regering van 2008-07-04 betreffende de erkenning van initiatieven huisbewaarder in de sociale huisvesting in het kader van de lokale diensteneconomie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017243/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "fe50a88ccc88044923639ff207ec6a84e1ebab0b006dd9eb154aeea166754baf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017243/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "94e381bff57819c0e23fc16e18b78abac2ef448bc28166e446f565eca56ba796",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017243&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2021-01-01",
   "made": "2008-07-04",
   "gazette": "2008-10-29",
   "numac": 2008203785,
   "document_start": "2008-10-29",
   "document_end": null,
-  "in_force": "2017-04-01",
+  "in_force": "2021-01-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
