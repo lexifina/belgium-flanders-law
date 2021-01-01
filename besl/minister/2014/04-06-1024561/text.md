@@ -61,20 +61,20 @@ Het werkingsgebied van een inloopteam kan intragemeentelijk, gemeentelijk   of i
 Om het subsidiebedrag, vermeld in artikel 61 van het besluit van 28 maart 2014, voor elk erkend en gesubsidieerd inloopteam vast te stellen, wordt een vast bedrag vermeerderd met een variabel bedrag.<br>
 <br>
 Het vaste bedrag, vermeld in het eerste lid, bedraagt voor een inloopteam in:<br>
-1° de grootstad Antwerpen of Gent: 150.625,14 euro (honderdvijftigduizend zeshonderdvijfentwintig euro veertien cent);<br>
-2° het tweetalige gebied Brussel-Hoofdstad: 120.535,83 euro (honderdtwintigduizend vijfhonderdvijfendertig euro drieëntachtig cent);<br>
-3° een centrumstad, met uitzondering van Antwerpen en Gent: 123.057,22 euro (honderddrieëntwintigduizend zevenenvijftig euro tweeëntwintig cent);<br>
-4° andere steden en gemeenten dan de steden en gemeenten, vermeld in 1°, 2° en 3° : 104.178,61 euro (honderdvierduizend honderdachtenzeventig euro eenenzestig cent).<br>
+1° de grootstad Antwerpen of Gent: 159.879,45 euro (honderdnegenvijftigduizend achthonderdnegenenzeventig euro vijfenveertig cent);<br>
+2° het tweetalige gebied Brussel-Hoofdstad: 128.198,99 euro (honderdachtentwintigduizend honderdachtennegentig euro negenennegentig cent);<br>
+3° een centrumstad, met uitzondering van Antwerpen en Gent: 130.763,25 euro (honderddertigduizend zevenhonderddrieënzestig euro vijventwintig cent);<br>
+4° andere steden en gemeenten dan de steden en gemeenten, vermeld in 1°, 2° en 3° : 110.484,08 euro (honderdentienduizend vierhonderdvierentachtig euro acht cent.<br>
 <br>
-Om het variabele bedrag, vermeld in het eerste lid, te berekenen, geldt een basisbedrag dat bestaat uit het aantal minderjarigen in het werkingsgebied, vermenigvuldigd met 0,85 euro (vijfentachtig cent). Het basisbedrag wordt vermeerderd met het bedrag dat verkregen wordt door de samengestelde indicator te vermenigvuldigen met 20% van het basisbedrag en met het bedrag dat verkregen wordt door de samengestelde indicator te vermenigvuldigen met 20% van het vaste bedrag, vermeld in het tweede lid, en met een bedrag dat rekening houdt met de evolutie van de geldelijke anciënniteit, vermeld in artikel 61, § 1/1, eerste lid, 3°, van het besluit van 28 maart 2014.<br>
+Om het variabele bedrag, vermeld in het eerste lid, te berekenen, geldt een basisbedrag dat bestaat uit het aantal minderjarigen in het werkingsgebied, vermenigvuldigd met 0,86 euro (zessentachtig cent). Het basisbedrag wordt vermeerderd met het bedrag dat verkregen wordt door de samengestelde indicator te vermenigvuldigen met 20% van het basisbedrag en met het bedrag dat verkregen wordt door de samengestelde indicator te vermenigvuldigen met 20% van het vaste bedrag, vermeld in het tweede lid, en met een bedrag dat rekening houdt met de evolutie van de geldelijke anciënniteit, vermeld in artikel 61, § 1/1, eerste lid, 3°, van het besluit van 28 maart 2014.<br>
 <br>
 Het maximale subsidiebedrag dat aan een inloopteam kan worden toegekend, rekening houdend met de beschikbare begrotingskredieten, bedraagt voor een inloopteam in:<br>
-1° de grootstad Antwerpen of Gent: 170.105,63 euro (honderdzeventigduizend honderdvijf euro drieënzestig cent);<br>
-2° het tweetalige gebied Brussel-Hoofdstad: 139.016,83 euro (honderdnegenendertigduizend zestien euro drieëntachtig cent);<br>
-3° een centrumstad, met uitzondering van Antwerpen en Gent: 142.357,22 euro (honderdtweeënveertigduizend driehonderdzevenenvijftig euro tweeëntwintig cent);<br>
-4° andere steden en gemeenten dan de steden en gemeenten, vermeld in 1°, 2° en 3° : 115.178,61 euro (honderdvijftienduizend honderdachtenzeventig euro eenenzestig cent).<br>
+1° de grootstad Antwerpen of Gent: 179.691,11 euro (honderdnegenenzeventigduizend zeshonderdeenennegentig euro elf cent);<br>
+2° het tweetalige gebied Brussel-Hoofdstad: 146.994,17 euro (honderdzessenveertigduizend negenhonderdvierennegentig euro zeventien cent);<br>
+3° een centrumstad, met uitzondering van Antwerpen en Gent: 150.391,35 euro (honderdvijftigduizend driehonderdeenennegentig euro vijvendertig cent);<br>
+4° andere steden en gemeenten dan de steden en gemeenten, vermeld in 1°, 2° en 3° : 121.671,08 euro (honderdeenentwintigduizend zeshonderdéénenzeventig euro acht cent).<br>
 <br>
-De subsidie, vermeld in dit artikel, is gekoppeld aan de spilindex die van toepassing is op 1 januari 2019. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
+De subsidie, vermeld in dit artikel, is gekoppeld aan de spilindex die van toepassing is op 1 januari 2021. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
 
 ## HOOFDSTUK 3 Procedures
 
