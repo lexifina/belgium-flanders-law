@@ -229,18 +229,18 @@ Een overschot als vermeld in het eerste lid, wordt gecompenseerd door een tekort
 Er wordt voor elk vertrouwenscentrum kindermishandeling jaarlijks aanvullend een tegemoetkoming voor anciënniteitsontwikkeling vastgesteld, op basis van het verschil in gemiddelde anciënniteit van de personeelsleden van het vertrouwenscentrum kindermishandeling in het voorgaande jaar, in vergelijking met het basisjaar 2016.<br>
 <br>
 § 2. Onverminderd artikel 27, paragraaf 1, behoudt het vertrouwenscentrum kindermishandeling, vermeld in artikel 53, bij de berekening van het subsidiebedrag, vermeld in paragraaf 1, eerste lid, het volgende subsidiebedrag dat op dat vertrouwenscentrum kindermishandeling betrekking heeft:<br>
-1° vertrouwenscentrum kindermishandeling Antwerpen: 1.532.796,20 euro (een miljoen vijfhonderdtweeëndertigduizend zevenhonderdzesennegentig euro twintig cent);<br>
-2° vertrouwenscentrum kindermishandeling Brussel-Hoofdstad: 832.273,87 euro (achthonderdtweeëndertigduizend tweehonderddrieënzeventig euro zevenentachtig cent);<br>
-3° vertrouwenscentrum kindermishandeling Limburg: 939.868,20 euro (negenhonderdnegenendertigduizend achthonderdachtenzestig euro twintig cent);<br>
-4° vertrouwenscentrum kindermishandeling Oost-Vlaanderen: 1.165.011,10 euro (een miljoen honderdvijfenzestigduizend en elf euro tien cent);<br>
-5° vertrouwenscentrum kindermishandeling Vlaams-Brabant: 1.061.441,76 euro (een miljoen eenenzestigduizend vierhonderdeenenveertig euro zesenzeventig cent);<br>
-6° vertrouwenscentrum kindermishandeling West-Vlaanderen: 1.062.792,23 euro (een miljoen tweeënzestigduizend zevenhonderdtweeënnegentig euro drieëntwintig cent).<br>
+1° vertrouwenscentrum kindermishandeling Antwerpen: 1.626.910,85 euro (een miljoen zeshonderdzesentwintigduizend negenhonderdentien euro vijfentachtig cent);<br>
+2° vertrouwenscentrum kindermishandeling Brussel-Hoofdstad: 894.196,56 euro (achthonderdvierennegentigduizend honderdzesennegentig euro zesenvijftig cent);<br>
+3° vertrouwenscentrum kindermishandeling Limburg: 1.009.918,42 euro (een miljoen negenduizend negenhonderdachttien euro tweeënveertig cent);<br>
+4° vertrouwenscentrum kindermishandeling Oost-Vlaanderen: 1.245.123,14 euro (een miljoen tweehonderdvijfenveertigduizend honderddrieëntwintig euro veertien cent);<br>
+5° vertrouwenscentrum kindermishandeling Vlaams-Brabant: 1.130.249,38 euro (een miljoen honderddertigduizend tweehonderdnegenenveertig euro achtendertig cent);<br>
+6° vertrouwenscentrum kindermishandeling West-Vlaanderen: 1.135.978,33 euro (een miljoen honderdvijfendertigduizend negenhonderdachtenzeventig euro drieëndertig cent).<br>
 <br>
-§ 3. De jaarlijkse aanvullende subsidie voor het vertrouwenscentrum kindermishandeling dat de elektronische toegang via de chat verzekert, vermeld in artikel 10, § 1, tweede lid, bedraagt 81.712,86 euro (eenentachtigduizend zevenhonderdentwaalf euro zesentachtig cent). Als de elektronische toegang via de chat door meer dan één vertrouwenscentrum kindermishandeling wordt verzekerd, bepaalt het agentschap na overleg met de betrokken vertrouwenscentra kindermishandeling de verdeling van de aanvullende subsidie over de betreffende vertrouwenscentra kindermishandeling.<br>
+§ 3. De jaarlijkse aanvullende subsidie voor het vertrouwenscentrum kindermishandeling dat de elektronische toegang via de chat verzekert, vermeld in artikel 10, § 1, tweede lid, bedraagt 106.453,90 euro (honderdenzesduizend vierhonderddrieënvijftig euro negentig cent). Als de elektronische toegang via de chat door meer dan één vertrouwenscentrum kindermishandeling wordt verzekerd, bepaalt het agentschap na overleg met de betrokken vertrouwenscentra kindermishandeling de verdeling van de aanvullende subsidie over de betreffende vertrouwenscentra kindermishandeling.<br>
 <br>
-§ 3/1. De jaarlijkse subsidie voor de partnerorganisatie bedraagt 94.691,34 euro (vierennegentigduizend zeshonderdeenennegentig euro vierendertig cent).<br>
+§ 3/1. De jaarlijkse subsidie voor de partnerorganisatie bedraagt 100.968,13 euro (honderdduizend negenhonderdachtenzestig euro dertien cent).<br>
 <br>
-§ 4. De subsidies, vermeld in dit artikel, zijn gekoppeld aan de spilindex die van toepassing is op&nbsp;1 januari 2019. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
+§ 4. De subsidies, vermeld in dit artikel, zijn gekoppeld aan de spilindex die van toepassing is op 1 januari 2021. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
 
 ## Afdeling 4. De uitbetaling
 
