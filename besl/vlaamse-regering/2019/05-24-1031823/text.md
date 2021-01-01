@@ -244,6 +244,82 @@ De exploitant kan de plaatsing weigeren of voorwaarden voor zowel de plaatsing a
 6° er wordt een paragraaf 4 toegevoegd, die luidt als volgt :<br>
 " § 4. Tijdens de bouwfase kan water afgenomen worden via een gekeurd eentappunt of via een eentappunt dat de exploitant heeft geplaatst.".
 
+### ART 15.
+
+In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 6 december 2013, 27 november 2015, 5 februari 2016 en 15 oktober 2016, wordt een artikel 7/1 ingevoegd, dat luidt als volgt :<br>
+<br>
+"Art. 7/1. § 1. Iedere binneninstallatie wordt, louter met het oog op de bescherming van de volksgezondheid, om kwaliteitsproblemen met het water, bestemd voor menselijke consumptie, te voorkomen ten gevolge van terugstroming in de binneninstallatie of terugstroming naar het openbaar waterdistributienetwerk, aan een keuring onderworpen in de volgende gevallen :<br>
+1° vóór de eerste ingebruikname;<br>
+2° bij belangrijke wijzigingen die de volksgezondheid of de goede werking van de binneninstallatie en het openbaar waterdistributienetwerk kunnen bedreigen;<br>
+3° bij heringebruikname na een afsluiting wegens een onmiddellijke bedreiging voor de gezondheid van de verbruiker of voor de volksgezondheid en de veiligheid van de drinkwatervoorziening, op verzoek van de exploitant;<br>
+4° na vaststelling van een inbreuk op de wettelijke en technische voorschriften, op verzoek van de exploitant;<br>
+5° nadat herstelmaatregelen genomen zijn naar aanleiding van een voorafgaande keuring van de binneninstallatie.<br>
+<br>
+De keuring, vermeld in het eerste lid, heeft als doel om na te gaan of de binneninstallatie :<br>
+1° conform is voor aansluiting op de aftakking. Daarbij wordt nagegaan of de binneninstallatie voldoet aan de geldende wettelijke en technische voorschriften ter preventie van terugstroming naar het openbaar waterdistributienetwerk;<br>
+2° gebruiksconform is. Daarbij wordt nagegaan of de binneninstallatie voldoet aan de geldende wettelijke en technische voorschriften ter preventie van kwaliteitsproblemen met risico' voor de gezondheid van de gebruiker ten gevolge van terugstroming in of naar de binneninstallatie.<br>
+<br>
+§ 2. Behoudens een conforme keuring als vermeld in paragraaf 1, eerste lid, wordt een eentappunt dat gebruikt wordt tijdens de bouwfase, twee jaar na de keuringsdatum of twee jaar na de plaatsing<br>
+door de exploitant opnieuw gekeurd.<br>
+<br>
+§ 3. De klant of titularis is verantwoordelijk voor de aanvraag van de keuring, vermeld in paragraaf 1, en draagt de kosten die verbonden zijn aan de voormelde keuring.<br>
+<br>
+De klant of titularis is verplicht om alle nodige informatie over zijn binneninstallatie te bezorgen aan de exploitant of zijn aangestelde zodat die de keuring ervan kan uitvoeren.<br>
+<br>
+De klant of titularis ontvangt het keuringsattest. Een afschrift van het keuringsattest wordt rechtstreeks door diegene die de keuring uitvoert overgemaakt aan de exploitant.<br>
+<br>
+De exploitant stelt de volgende informatie ter beschikking van de toezichthoudende ambtenaar Leefmilieu in het kader van de toezichtstaken, vermeld in artikel 5.2.1.1 tot en met 5.2.1.4 van het decreet van 18 juli 2003 :<br>
+1° niet-conforme keuringsattesten waarvoor de termijn voor het nemen van herstelmaatregelen is overschreden;<br>
+2° informatie over binneninstallaties die in gebruik genomen zijn zonder voorafgaande keuring.<br>
+<br>
+De keuring, vermeld in paragraaf 1, ontslaat de klant of titularis evenwel niet van zijn verantwoordelijkheid voor het behoud van de waterkwaliteit in de binneninstallatie en het respecteren van de wettelijke en technische voorschriften ter preventie van terugstroming.<br>
+<br>
+§ 4. De exploitant is verantwoordelijk voor :<br>
+1° de organisatie van de keuring, vermeld in paragraaf 1;<br>
+2° de opvolging en de kwaliteitsborging van het keuringsproces;<br>
+3° de digitale archivering van de keuringsattesten.<br>
+<br>
+De exploitant kan de taken, vermeld in het eerste lid, via een samenwerkingsverband met derden realiseren.<br>
+<br>
+§ 5. Als de exploitant of zijn aangestelde naar aanleiding van een keuring als vermeld in paragraaf 1, vaststelt dat de binneninstallatie niet conform is voor aansluiting op de aftakking omdat er een risico op terugstroming is vanuit de binneninstallatie naar het openbaar waterdistributienetwerk, informeert de exploitant of zijn aangestelde de klant of titularis over de situatie en over de herstelmaatregelen die genomen moeten worden om de binneninstallatie conform voor aansluiting op de aftakking te maken.<br>
+<br>
+De klant of titularis voert de nodige aanpassingen uit aan de binneninstallatie zodat die conform is voor de aansluiting op de aftakking en neemt het initiatief om de herkeuring aan te vragen.<br>
+<br>
+De herstelmaatregelen aan de binneninstallatie worden voor de eerste ingebruikname uitgevoerd of binnen de termijnen die de exploitant bepaalt als de klant of titularis er al feitelijk van gebruikmaakt. De exploitant of zijn aangestelde vermeldt die termijnen op het keuringsattest.<br>
+<br>
+§ 6. Als de exploitant of zijn aangestelde naar aanleiding van een keuring als vermeld in paragraaf 1, vaststelt dat de binnenstallatie niet gebruiksconform is omdat er risico's zijn voor de gezondheid van de gebruiker ten gevolge van terugstroming in de binneninstallatie, informeert de exploitant of zijn aangestelde de klant of titularis over de situatie en over de herstelmaatregelen die genomen moeten worden om de risico's weg te nemen.<br>
+<br>
+De klant of titularis voert de nodige aanpassingen uit aan de binneninstallatie zodat die gebruiksconform is en neemt het initiatief om de herkeuring aan te vragen.<br>
+<br>
+De herstelmaatregelen aan de binneninstallatie worden uitgevoerd binnen de termijnen die de exploitant bepaalt. De exploitant of zijn aangestelde vermeldt die termijnen op het keuringsattest.<br>
+<br>
+§ 7. Als de klant of titularis die feitelijk gebruikmaakt van de waterlevering via de binneninstallatie, geen voorafgaande keuring als vermeld in paragraaf 1, heeft laten uitvoeren of de herstelmaatregelen, vermeld in paragraaf 5 en 6, niet uitgevoerd heeft binnen de gestelde termijnen, stuurt de exploitant de klant of titularis een aanmaning. In die aanmaning vermeldt de exploitant :<br>
+1° wat de klant of titularis moet doen om zijn verplichtingen na te komen, samen met de uiterste termijn waarin dat moet gebeuren, waarbij de exploitant een minimumtermijn van dertig werkdagen respecteert, tenzij er een bedreiging is voor de volksgezondheid en de veiligheid van de watervoorziening;<br>
+2° de mogelijkheid tot ontkoppeling van de binneninstallatie met de aftakking als de klant of titularis de binneninstallatie niet laat keuren of de opgelegde herstelmaatregelen weigert te nemen binnen die termijn;<br>
+3° dat een of meer van de volgende zaken al zijn gemeld aan de toezichthoudende ambtenaar Leefmilieu :<br>
+a) het niet-conform zijn van de binneninstallatie;<br>
+b) het overschrijden van de termijn voor de uitvoering van de noodzakelijke herstelmaatregelen;<br>
+c) het gebrek aan een keuring;<br>
+4° de mogelijkheid voor de exploitant om bij het uitblijven van een initiatief tot keuring van de klant of titularis of het niet nemen van de herstelmaatregelen, vermeld in paragraaf 5, door de klant of titularis, een vraag tot afsluiting bij de toezichthoudende ambtenaar Leefmilieu in te dienen.<br>
+<br>
+Als de klant of titularis de termijnen, vermeld in de aanmaning, overschrijdt, kan de exploitant ofwel de binneninstallatie ontkoppelen, waarbij er in het onroerend goed ten minste één afnamepunt voor water, bestemd voor menselijke consumptie, behouden blijft, ofwel de waterlevering begrenzen of afsluiten conform artikel 5, § 1, als een ontkoppeling verhinderd wordt door de klant of door de titularis.<br>
+<br>
+Een eerste aanmaning is kosteloos. Wanneer geen passend gevolg gegeven wordt aan deze aanmaning, stuurt de exploitant een tweede aanmaning waarbij kosten voor de verlengde dossieropvolging kunnen worden aangerekend. Voor het uitblijven van herstelmaatregelen uit paragraaf 5 kan slechts een bijkomende aanmaning verstuurd worden.<br>
+<br>
+§ 8. Als de exploitant of zijn aangestelde naar aanleiding van een keuring vaststelt dat er risico's op terugstroming in de binneninstallatie zijn met bijbehorende kwaliteitsproblemen, maar dat die geen aanleiding geven tot risico's voor de gezondheid van de gebruiker, informeert de exploitant of zijn aangestelde de klant of titularis over de situatie en adviseert hij over herstelmaatregelen om de kans op de kwaliteitsproblemen weg te nemen.<br>
+<br>
+§ 9. Als de exploitant de titularis of de klant heeft geïnformeerd, informeert, in voorkomend geval, de titularis de klant of de klant de titularis over de situatie, de noodzaak van een keuring, de noodzakelijke herstelmaatregelen en de uitgevoerde herstelmaatregelen.<br>
+<br>
+§ 10. De exploitant kan de verbinding van de binneninstallatie met de aftakking weigeren als de binneninstallatie niet voorafgaand is gekeurd of als uit een keuring blijkt dat de binneninstallatie niet conform is voor aansluiting.<br>
+<br>
+§ 11. De minister kan nadere regels vastleggen met betrekking tot de keuring van de binneninstallatie. De nadere regels hebben betrekking op :<br>
+1° de technische criteria die gebruikt worden om na te gaan of de binneninstallatie conform is voor aansluiting op de aftakking;<br>
+2° de technische criteria die gebruikt worden om na te gaan of de binneninstallatie gebruiksconform is;<br>
+3° nadere regels aangaande de termijn waarin herstelmaatregelen moeten worden uitgevoerd;<br>
+4° de organisatie van de keuring, de opvolging en kwaliteitsborging van het keuringsproces, de inhoud en de digitale archivering van de keuringsattesten;<br>
+5° de verplichting van de klant of de titularis tot het bijhouden van en ter beschikking kunnen stellen van het keuringsdossier;<br>
+6° de verdere invulling van het begrip belangrijke wijzigingen.".
+
 ### ART 16.
 
 In artikel 10 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br>
@@ -303,6 +379,209 @@ De klant gebruikt de privéwaterafvoer zodanig dat de goede werking ervan behoud
 § 3. De exploitant kan de klant of titularis verplichten om de privéwaterafvoer te herstellen of te wijzigen als de exploitant dat noodzakelijk acht om die in overeenstemming te brengen met de wettelijke en reglementaire bepalingen.<br>
 <br>
 De exploitant kan, als de voorschriften voor de privéwaterafvoer met het oog op de veiligheid, gezondheid of bescherming van het leefmilieu niet worden nageleefd, de dienstverlening schorsen of beperken.".
+
+### ART 19.
+
+In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 6 december 2013, 27 november 2015, 5 februari 2016 en 14 oktober 2016, wordt een artikel 12/1 ingevoegd, dat luidt als volgt :<br>
+<br>
+"Art. 12/1. § 1. De privéwaterafvoer moet in de volgende gevallen gekeurd worden :<br>
+1° bij nieuwbouw of herbouw conform de Vlaamse Codex Ruimtelijke Ordening;<br>
+2° bij de realisatie van een nieuwe bijkomende huisaansluiting of bij de plaatsing van een individuele sanering;<br>
+3° nadat een inbreuk op de gelijkvormigheid is vastgesteld;<br>
+4° bij de aanleg van gescheiden riolering op het openbaar domein, tenzij er een keuring is uitgevoerd voor nieuwbouw of herbouw die maximaal vijf jaar oud is;<br>
+5° nadat herstelmaatregelen genomen zijn naar aanleiding van een voorafgaande keuring van de privéwaterafvoer.<br>
+<br>
+De keuring heeft als doel na te gaan of de privéwaterafvoer conform is voor een aansluiting op de huisaansluiting of het openbaar saneringsnetwerk, waarbij wordt nagegaan of de scheiding van hemelwater en afvalwater wordt nageleefd op het private domein, de afvoer van afvalwater conform is met de wettelijke voorschriften die opgenomen zijn in de milieuwetgeving, en de opvang, de mogelijkheid tot gebruik en de afvoer van hemelwater conform is met de verordeningen inzake hemelwater, naargelang welke verordening van toepassing is op de situatie in kwestie die moet worden gekeurd, en rekening houdend met eventuele vergunningsaanvragen.<br>
+<br>
+§ 2. De klant of titularis is verantwoordelijk voor de aanvraag van de keuring, vermeld in paragraaf 1, en draagt de kosten die verbonden zijn aan de keuring.<br>
+<br>
+De klant of titularis is verplicht om alle nodige informatie over zijn privéwaterafvoer te bezorgen aan de exploitant of zijn aangestelde zodat die de privéwaterafvoer kan keuren.<br>
+<br>
+De klant of titularis ontvangt het keuringsattest. Een afschrift van het keuringsattest wordt rechtstreeks door diegene die de keuring uitvoert, overgemaakt aan de exploitant.<br>
+<br>
+De exploitant stelt de volgende informatie ter beschikking van de gemeentelijke toezichthouder :<br>
+1° de niet-conforme keuringsattesten waarvan de termijn voor het nemen van herstelmaatregelen is overschreden;<br>
+2° de informatie over privéwaterafvoeren die in gebruik zijn genomen zonder voorafgaande keuring.<br>
+<br>
+De keuring, vermeld in paragraaf 1, ontslaat de klant of titularis evenwel niet van zijn verantwoordelijkheid voor de staat van de privéwaterafvoer.<br>
+<br>
+§ 3. De exploitant is verantwoordelijk voor :<br>
+1° de organisatie van de keuring, vermeld in paragraaf 1;<br>
+2° de opvolging en de kwaliteitsborging van het keuringsproces;<br>
+3° de digitale archivering van de keuringsattesten.<br>
+<br>
+De exploitant kan de taken, vermeld in het eerste lid, via een samenwerkingsverband met derden realiseren.<br>
+<br>
+§ 4. Als de exploitant of zijn aangestelde naar aanleiding van een keuring als vermeld in paragraaf 1, vaststelt dat de privéwaterafvoer niet conform is voor aansluiting op de huisaansluiting of het openbaar saneringsnetwerk, informeert de exploitant of zijn aangestelde de klant of titularis over de situatie en over de herstelmaatregelen die genomen moeten worden om de privéwaterafvoer conform voor aansluiting op de huisaansluiting of op het openbaar saneringsnetwerk te maken.<br>
+<br>
+De klant of titularis voert de nodige aanpassingen aan de privéwaterafvoer uit en neemt het initiatief om de herkeuring aan te vragen.<br>
+<br>
+De nodige aanpassingen aan de privéwaterafvoer worden voor de eerste ingebruikname uitgevoerd of binnen de termijnen die de exploitant bepaalt, als de klant of titularis al feitelijk van de privéwaterafvoer gebruikmaakt. De exploitant of zijn aangestelde vermeldt die termijnen op het keuringsattest.<br>
+<br>
+§ 5. Als de klant of titularis geen voorafgaande keuring als vermeld in paragraaf 1, heeft laten uitvoeren, maar wel feitelijk gebruikmaakt van de privéwaterafvoer, of als de nodige aanpassingen om de privéwaterafvoer conform voor aansluiting op de huisaansluiting of het openbaar saneringsnetwerk te maken, niet worden uitgevoerd binnen de gestelde termijnen, stuurt de exploitant de klant of titularis een aanmaning.<br>
+<br>
+In die aanmaning vermeldt de exploitant :<br>
+1° wat de klant of titularis moet doen om zijn verplichtingen na te komen, samen met de uiterste termijn waarin dat moet gebeuren, waarbij de exploitant een minimumtermijn van dertig werkdagen respecteert;<br>
+2° de mogelijkheid om de dienstverlening te beperken of te schorsen als de klant of titularis de nodige aanpassingen weigert te doen om de privéwaterafvoer conform voor aansluiting op de huisaansluiting of het openbaar saneringsnetwerk te maken;<br>
+3° dat het niet-conform zijn voor aansluiting van de privéwaterafvoer en het overschrijden van de termijn voor de uitvoering van de noodzakelijke herstelmaatregelen al gemeld is bij de gemeentelijke toezichthouder.<br>
+<br>
+Een eerste aanmaning is kosteloos. Wanneer geen passend gevolg gegeven wordt aan deze aanmaning, stuurt de exploitant een tweede aanmaning waarbij kosten voor de verlengde dossieropvolging kunnen worden aangerekend.<br>
+<br>
+§ 6. Als de exploitant de titularis of de klant heeft geïnformeerd, informeert, in voorkomend geval, de titularis de klant of de klant de titularis over de situatie, de noodzakelijke aanpassingen en de uitgevoerde aanpassingen.<br>
+<br>
+§ 7. De exploitant kan de aansluiting van de privéwaterafvoer op de huisaansluiting of het openbaar saneringsnetwerk weigeren als uit de keuring blijkt dat de privéwaterafvoer niet conform is voor aansluiting op de huisaansluiting of het openbaar saneringsnetwerk of als de privéwaterafvoer niet voorafgaand is gekeurd.<br>
+<br>
+§ 8. De minister kan nadere regels vastleggen met betrekking tot de keuring van de privéwaterafvoer. De nadere regels hebben betrekking op :<br>
+1° de criteria die gebruikt worden om na te gaan of de privéwaterafvoer conform is voor aansluiting op de huisaansluiting of het openbaar saneringsnetwerk;<br>
+2° nadere regels aangaande de termijn waarin herstelmaatregelen moeten worden uitgevoerd;<br>
+3° de organisatie van de keuring, de opvolging en kwaliteitsborging van het keuringsproces, de inhoud en de digitale archivering van de keuringsattesten;<br>
+4° de verplichting van de klant of de titularis tot het bijhouden van en ter beschikking kunnen stellen van het keuringsdossier.".
+
+### ART 20.
+
+In hetzelfde besluit gewijzigd bij de besluiten van de Vlaamse Regering van 6 december 2013, 27 november 2015, 5 februari 2016 en 14 oktober 2016 wordt een hoofdstuk 3/1, dat bestaat uit artikel 12/2 tot en met 12/4 ingevoegd, dat luidt als volgt :<br>
+<br>
+"Hoofdstuk 3/1. Installatie voor tweedecircuitwater en de niet-aangesloten binneninstallatie<br>
+<br>
+Art. 12/2. Een installatie voor tweedecircuitwater of een niet-aangesloten binneninstallatie die aanwezig is in een onroerend goed dat aangesloten is of wordt aangesloten op het openbaar waterdistributienetwerk, moet conform de wettelijke en technische voorschriften worden aangelegd en gebruikt.<br>
+<br>
+De klant of titularis is verantwoordelijk voor de plaatsing, de wijziging, de herstelling en het onderhoud, alsook voor de goede werking ervan en draagt ook alle kosten die daaraan gekoppeld zijn.<br>
+<br>
+Art. 12/3. § 1. Iedere installatie voor tweedecircuitwater in een onroerend goed dat is aangesloten of wordt aangesloten op het openbaar waterdistributienetwerk, wordt voor de bescherming van de volksgezondheid, om kwaliteitsproblemen met het water, bestemd voor menselijke consumptie, te voorkomen ten gevolge van terugstroming naar de binneninstallatie, aan een keuring onderworpen in de volgende gevallen :<br>
+1° vóór de eerste ingebruikname;<br>
+2° bij belangrijke wijzigingen die de volksgezondheid of de goede werking van de niet-aangesloten binneninstallatie, de aangesloten binneninstallatie en het openbaar waterdistributienetwerk kunnen bedreigen of die aanleiding kunnen geven tot een onveilig gebruik van het tweedecircuitwater;<br>
+3° na vaststelling van een inbreuk op de wettelijke en technische voorschriften, op verzoek van de exploitant;<br>
+4° nadat herstelmaatregelen genomen zijn naar aanleiding van een voorafgaande keuring van de installatie voor tweedecircuitwater.<br>
+<br>
+§ 2. De keuring heeft als doel na te gaan of de installatie voor tweedecircuitwater gebruiksconform is, waarbij wordt nagegaan of het tweedecircuitwater :<br>
+1° stroomt in een afzonderlijk leidingnet en op geen enkele manier in verbinding kan komen met de binneninstallatie en, in voorkomend geval, met een niet-aangesloten binneninstallatie;<br>
+2° uitsluitend gebruikt wordt voor toepassingen die geen water, bestemd voor menselijke consumptie, als vermeld in artikel 2.1.2, 33°, van het decreet van 18 juli 2003, vereisen;<br>
+3° gebruikt wordt conform de bepalingen over het correct gebruik als vermeld in artikel 2.2.1, § 1, tweede lid, van het decreet van 18 juli 2003.<br>
+<br>
+§ 3. De klant of titularis is verantwoordelijk voor de aanvraag van de keuring en draagt de kosten die verbonden zijn aan de keuring.<br>
+<br>
+De klant of titularis ontvangt het keuringsattest. Een afschrift van het keuringsattest wordt rechtsreeks door diegene die de keuring uitvoert overgemaakt aan de exploitant.<br>
+<br>
+De exploitant stelt de volgende informatie ter beschikking van de toezichthoudende ambtenaar Leefmilieu in het kader van de toezichtstaken, vermeld in artikel 5.2.1.1 tot en met 5.2.1.4 van het decreet van 18 juli 2003 :<br>
+1° de niet-conforme keuringsattesten waarvan de termijn voor het nemen van herstelmaatregelen, zoals bedoeld in § 5, is overschreden;<br>
+2° de niet-conforme keuringsattesten zoals bedoeld in § 6;<br>
+3° de informatie over installaties voor tweedecircuitwater die in gebruik genomen zijn zonder voorafgaande keuring.<br>
+<br>
+De keuring, vermeld in paragraaf 1, ontslaat de klant of titularis niet van zijn verantwoordelijkheid voor de staat van de installatie voor tweedecircuitwater.<br>
+<br>
+§ 4. De exploitant is verantwoordelijk voor :<br>
+1° de organisatie van de keuring;<br>
+2° de opvolging en de kwaliteitsborging van het keuringsproces;<br>
+3° de digitale archivering van de keuringsattesten.<br>
+<br>
+De exploitant kan de taken, vermeld in het eerste lid, via een samenwerkingsverband met derden realiseren.<br>
+<br>
+De klant of titularis is verplicht om alle nodige informatie over zijn installatie voor tweedecircuitwater te bezorgen aan de exploitant of zijn aangestelde zodat die de installatie voor tweedecircuitwater kan keuren.<br>
+<br>
+§ 5. Als de exploitant of zijn aangestelde naar aanleiding van een keuring als vermeld in paragraaf 1, vaststelt dat de installatie voor tweedecircuitwater niet gebruiksconform is omdat het tweedecircuitwater hetzij niet stroomt in een afzonderlijk leidingnet, hetzij in verbinding kan komen met de binneninstallatie, informeert de exploitant of zijn aangestelde de klant of titularis over de situatie en over de herstelmaatregelen die moeten worden genomen.<br>
+<br>
+Wordt er reeds feitelijk gebruik gemaakt van de waterlevering via de binneninstallatie, informeert de exploitant of zijn aangestelde de klant of titularis over de termijn waarin de herstelmaatregelen genomen moeten worden. De exploitant legt de termijnen vast. De exploitant of zijn aangestelde vermeldt die termijnen op het keuringsattest.<br>
+<br>
+De klant of titularis voert de nodige aanpassingen uit aan de installatie voor tweedecircuitwater en neemt het initiatief om de herkeuring aan te vragen.<br>
+<br>
+De nodige aanpassingen aan de installatie voor tweedecircuitwater dienen uitgevoerd te zijn ofwel voor de eerste ingebruikname ervan, ofwel binnen de desgevallend opgelegde termijn.<br>
+<br>
+§ 6. Als de exploitant of zijn aangestelde naar aanleiding van een keuring als vermeld in paragraaf 1, vaststelt dat de installatie voor tweedecircuitwater niet gebruiksconform is om een of meer van de volgende redenen, informeert de exploitant of zijn aangestelde de klant of titularis over de situatie en over de herstelmaatregelen die genomen moeten worden om de risico's weg te nemen :<br>
+1° het tweedecircuitwater wordt gebruikt voor toepassingen die water, geschikt voor menselijke consumptie als vermeld in artikel 2.1.2, 33°, van het decreet van 18 juli 2003, vereisen;<br>
+2° het tweedecircuitwater wordt niet gebruikt conform artikel 2.2.1, § 1, tweede lid, van het decreet van 18 juli 2003;<br>
+3° het tweedecircuitwater kan in verbinding komen met een niet-aangesloten binneninstallatie.<br>
+<br>
+De klant of titularis voert de nodige aanpassingen uit aan de installatie voor tweedecircuitwater zodat die gebruiksconform is.<br>
+<br>
+§ 7. Als de klant of titularis geen keuring als vermeld in paragraaf 1, heeft laten uitvoeren, maar wel feitelijk gebruikmaakt van het tweedecircuitwater of als de opgelegde herstelmaatregelen, vermeld in paragraaf 5, niet worden uitgevoerd binnen de gestelde termijnen, stuurt de exploitant de klant of titularis een aanmaning. In die aanmaning vermeldt de exploitant :<br>
+1° wat de klant of titularis moet doen om zijn verplichtingen na te komen, samen met de uiterste termijn waarin dat moet gebeuren, waarbij de exploitant een minimumtermijn van dertig werkdagen respecteert, tenzij er een bedreiging is voor de volksgezondheid en de veiligheid van de watervoorziening;<br>
+2° de mogelijkheid tot ontkoppeling of afsluiting van de waterlevering als de herstelmaatregelen, vermeld in paragraaf 5, niet tijdig worden nageleefd, omdat daardoor de binneninstallatie niet conform voor aansluiting op de aftakking wordt geacht;<br>
+3° dat een of meer van de volgende zaken al zijn gemeld bij de toezichthoudende ambtenaar Leefmilieu :<br>
+a) het niet-conform zijn van de installatie voor tweedecircuitwater;<br>
+b) het overschrijden van de termijn voor de uitvoering van de herstelmaatregelen, vermeld in paragraaf 5;<br>
+c) het gebrek aan een keuring.<br>
+<br>
+Een eerste aanmaning is kosteloos. Wanneer geen passend gevolg gegeven wordt aan deze aanmaning, stuurt de exploitant een tweede aanmaning waarbij kosten voor de verlengde dossieropvolging kunnen worden aangerekend. Voor het uitblijven van herstelmaatregelen uit paragraaf 5 kan slechts één bijkomende aanmaning verstuurd worden.<br>
+<br>
+§ 8. Als de klant of titularis de termijnen die in de aanmaning zijn opgenomen om de herstelmaatregelen te nemen, vermeld in paragraaf 5, overschrijdt, kan de exploitant ofwel de binneninstallatie ontkoppelen, waarbij er in het onroerend goed ten minste één afnamepunt voor water, bestemd voor menselijke consumptie, behouden wordt, ofwel de waterlevering afsluiten conform artikel 5, § 1, als een ontkoppeling verhinderd wordt door de klant of titularis.<br>
+<br>
+§ 9. Als de exploitant de titularis of de klant daarover heeft geïnformeerd, informeert, in voorkomend geval, de titularis de klant of de klant de titularis over de situatie, de noodzakelijke herstelmaatregelen en de uitgevoerde herstelmaatregelen.<br>
+<br>
+§ 10. De minister kan nadere regels vastleggen met betrekking tot de keuring van de installatie voor tweedecircuitwater. De nadere regels hebben betrekking op :<br>
+1° de criteria die gehanteerd worden bij de beoordeling van het correcte gebruik van tweedecircuitwater, vermeld in artikel 2.2.1, § 1, tweede lid, van het decreet van 18 juli 2003;<br>
+2° nadere regels aangaande de termijn waarin herstelmaatregelen moeten worden uitgevoerd;<br>
+3° de organisatie van de keuring, de opvolging en kwaliteitsborging van het keuringsproces, de inhoud en de digitale archivering van de keuringsattesten;<br>
+4° de verplichting van de klant of de titularis tot het bijhouden van en ter beschikking kunnen stellen van het keuringsdossier.;<br>
+5° de verdere invulling van het begrip belangrijke wijzigingen.".<br>
+<br>
+Art. 12/4. § 1. Elke niet-aangesloten binneninstallatie in een onroerend goed dat is of wordt aangesloten op het openbaar waterdistributienetwerk, wordt, voor de bescherming van de volksgezondheid, om kwaliteitsproblemen met het water, bestemd voor menselijke consumptie, te voorkomen ten gevolge van terugstroming, hetzij in de niet-aangesloten binneninstallatie, hetzij naar de binneninstallatie, aan een keuring onderworpen in de volgende gevallen :<br>
+1° vóór de eerste ingebruikname;<br>
+2° bij belangrijke wijzigingen die de volksgezondheid of de goede werking van de niet-aangesloten binneninstallatie, de aangesloten binneninstallatie en het openbaar waterdistributienetwerk kunnen bedreigen;<br>
+3° bij heringebruikname na een afsluiting wegens een onmiddellijke bedreiging voor de gezondheid van de verbruiker;<br>
+4° na vaststelling van een inbreuk op de wettelijke en technische voorschriften, op verzoek van de exploitant;<br>
+5° nadat herstelmaatregelen genomen zijn naar aanleiding van een voorafgaande keuring van de niet-aangesloten binneninstallatie.<br>
+<br>
+§ 2. De keuring, vermeld in paragraaf 1, heeft als doel om na te gaan of de niet-aangesloten binneninstallatie gebruiksconform is, waarbij wordt nagaan :<br>
+1° of de niet-aangesloten binneninstallatie stroomt in een afzonderlijk leidingnet en op geen enkele manier in verbinding kan komen met de binneninstallatie;<br>
+2° of de niet-aangesloten binneninstallatie voldoet aan de geldende wettelijke en technische voorschriften ter preventie van kwaliteitsproblemen met risico voor de gezondheid van de gebruiker ten gevolge van terugstroming in of naar de niet- aangesloten binneninstallatie.<br>
+<br>
+§ 3. De klant of titularis is verantwoordelijk voor de aanvraag van de keuring, vermeld in paragraaf 1, en draagt de kosten die verbonden zijn aan de keuring.<br>
+<br>
+De klant of titularis is verplicht om alle nodige informatie over de niet-aangesloten binneninstallatie te bezorgen aan de exploitant of zijn aangestelde zodat die de binneninstallatie kan keuren.<br>
+<br>
+De klant of titularis ontvangt het keuringsattest. Een afschrift van het keuringsattest wordt rechtstreeks door diegene die de keuring uitvoert overgemaakt aan de exploitant.<br>
+<br>
+De exploitant stelt de volgende informatie ter beschikking van de toezichthoudende ambtenaar Leefmilieu in het kader van de toezichtstaken, vermeld in artikel 5.2.1.1 tot en met 5.2.1.4 van het decreet van 18 juli 2003 :<br>
+1° de niet-conforme keuringsattesten waarvan de termijn voor het nemen van herstelmaatregelen is overschreden;<br>
+2° de informatie over niet-aangesloten binneninstallaties die in gebruik zijn genomen zonder voorafgaande keuring.<br>
+<br>
+De keuring, vermeld in paragraaf 1, ontslaat de klant of titularis evenwel niet van zijn verantwoordelijkheid voor het behoud van de waterkwaliteit in de niet-aangesloten binneninstallatie en voor het respecteren van de wettelijke en technische voorschriften ter preventie van terugstroming.<br>
+<br>
+§ 4. De exploitant is verantwoordelijk voor :<br>
+1° de organisatie van de keuring, vermeld in paragraaf 1;<br>
+2° de opvolging en de kwaliteitsborging van het keuringsproces;<br>
+3° de digitale archivering van de keuringsattesten.<br>
+<br>
+De exploitant kan de taken, vermeld in het eerste lid, via een samenwerkingsverband met derden realiseren.<br>
+<br>
+§ 5. Als de exploitant of zijn aangestelde naar aanleiding van de keuring als vermeld in paragraaf 1, vaststelt dat de niet-aangesloten binneninstallatie niet gebruiksconform is omdat er een risico is op terugstroming vanuit de niet-aangesloten binneninstallatie naar de binneninstallatie, informeert de exploitant of zijn aangestelde de klant of titularis over de situatie en over de herstelmaatregelen die moeten worden genomen.<br>
+<br>
+Wordt er reeds feitelijk gebruik gemaakt van de niet-aangesloten binneninstallatie informeert de exploitant of zijn aangestelde de klant of titularis over de termijn waarbinnen de herstelmaatregelen genomen moeten worden. De exploitant legt de termijnen vast. De exploitant of zijn aangestelde vermeldt deze termijnen op het keuringsattest.<br>
+<br>
+De klant of titularis voert de nodige aanpassingen uit aan de niet-aangesloten binneninstallatie en neemt het initiatief om de herkeuring aan te vragen.<br>
+<br>
+De nodige aanpassingen aan de niet-aangesloten binneninstallatie dienen uitgevoerd te zijn ofwel voor de eerste ingebruikname ervan ofwel binnen de desgevallend opgelegde termijn.<br>
+<br>
+§ 6. Als de exploitant of zijn aangestelde naar aanleiding van een keuring als vermeld in paragraaf 1, vaststelt dat de niet-aangesloten binneninstallatie niet gebruiksconform is omdat er risico's zijn voor de gezondheid van de gebruiker ten gevolge van terugstroming in de niet-aangesloten binneninstallatie, informeert de exploitant of zijn aangestelde de klant of titularis over de situatie en over de herstelmaatregelen die genomen moeten worden om de risico's weg te nemen.<br>
+<br>
+De klant of titularis voert de nodige aanpassingen uit aan de niet-aangesloten binneninstallatie zodat die gebruiksconform is en neemt het initiatief om de herkeuring aan te vragen.<br>
+<br>
+De herstelmaatregelen aan de niet-aangesloten binneninstallatie moeten uitgevoerd zijn binnen de termijnen die de exploitant bepaalt. De exploitant of zijn aangestelde vermeldt die termijnen op het keuringsattest.<br>
+<br>
+§ 7. Als de klant of titularis die feitelijk gebruikmaakt van de niet-aangesloten binneninstallatie, geen keuring als vermeld in paragraaf 1, heeft laten uitvoeren of de herstelmaatregelen, vermeld in paragraaf 5 en 6, niet uitgevoerd heeft binnen de gestelde termijnen, stuurt de exploitant de klant of titularis een aanmaning. In die aanmaning vermeldt de exploitant :<br>
+1° wat de klant of titularis moet doen om zijn verplichtingen na te komen, samen met de uiterste termijn waarin dat moet gebeuren, waarbij de exploitant een minimumtermijn van dertig werkdagen respecteert, tenzij er een bedreiging is voor de volksgezondheid en de veiligheid van de watervoorziening;<br>
+2° de mogelijkheid tot ontkoppeling of afsluiting van de waterlevering als de herstelmaatregelen, vermeld in paragraaf 5, niet tijdig worden nageleefd, omdat daardoor de binneninstallatie niet conform voor aansluiting op de aftakking wordt geacht;<br>
+3° dat een of meer van de volgende zaken al zijn gemeld bij de toezichthoudende ambtenaar Leefmilieu :<br>
+a) het niet-conform zijn van de niet-aangesloten binneninstallatie;<br>
+b) het overschrijden van de termijn voor de uitvoering van de herstelmaatregelen, vermeld in paragraaf 5 en 6;<br>
+c) het gebrek aan een keuring.<br>
+<br>
+Een eerste aanmaning is kosteloos. Wanneer geen passend gevolg gegeven wordt aan deze aanmaning, stuurt de exploitant een tweede aanmaning waarbij kosten voor de verlengde dossieropvolging kunnen worden aangerekend. Voor het uitblijven van herstelmaatregelen uit paragraaf 5 kan slechts één bijkomende aanmaning verstuurd worden.<br>
+<br>
+§ 8. Indien de klant of titularis de in de aanmaning gestelde termijnen voor het nemen van de herstelmaatregelen bedoeld in paragraaf5 overschrijdt, kan de exploitant ofwel de binneninstallatie ontkoppelen, waarbij er in het onroerend goed ten minste één afnamepunt voor water bestemd voor menselijke consumptie behouden blijft, ofwel de waterlevering begrenzen of afsluiten overeenkomstig de bepalingen van artikel 5, paragraaf 1 van dit besluit indien een ontkoppeling verhinderd wordt door de klant of door de titularis.<br>
+<br>
+§ 9. Als de exploitant of zijn aangestelde naar aanleiding van een keuring vaststelt dat er risico's op terugstroming in de niet-aangesloten binneninstallatie zijn met bijbehorende kwaliteitsproblemen, maar dat die geen aanleiding geven tot risico's voor de gezondheid van de gebruiker, informeert de exploitant of zijn aangestelde de klant of titularis over de situatie en adviseert hij over herstelmaatregelen om de kans op de kwaliteitsproblemen weg te nemen.<br>
+<br>
+§ 10. Als de exploitant de titularis of de klant heeft geïnformeerd, informeert, in voorkomend geval, de titularis de klant of de klant de titularis over de situatie, de noodzakelijke herstelmaatregelen en de uitgevoerde herstelmaatregelen.<br>
+<br>
+§ 11. De minister kan nadere regels vastleggen met betrekking tot de keuring van de niet-aangesloten binneninstallatie.<br>
+<br>
+De nadere regels hebben betrekking op :<br>
+1° de technische criteria die gebruikt worden om na te gaan of de niet- aangesloten binneninstallatie gebruiksconform is;<br>
+2° nadere regels aangaande de termijn waarbinnen herstelmaatregelen moeten worden uitgevoerd;<br>
+3° de organisatie van de keuring, de opvolging en kwaliteitsborging van het keuringsproces, de inhoud en de digitale archivering van de keuringsattesten;<br>
+4° de verplichting van de klant of de titularis tot het bijhouden van en ter beschikking kunnen stellen van het keuringsdossier;<br>
+5° de verdere invulling van het begrip belangrijke wijzigingen.".
 
 ### ART 21.
 
@@ -421,6 +700,113 @@ In artikel 19 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse R
 
 In artikel 27/2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 6 december 2013 en vervangen bij het besluit van de Vlaamse Regering van 5 december 2016, wordt het vierde lid vervangen door wat volgt :<br>
 "Voor de saneringscomponent zijn het sociaal tarief, of compensaties, vermeld in het decreet van 18 juli 2003, van toepassing.".
+
+### ART 30.
+
+In het zelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 6 december 2013, 27 november 2015, 5 februari 2016 en 14 oktober 2016, wordt een hoofdstuk 7/2, dat bestaat uit artikel 27/5 tot en met 27/7 ingevoegd, dat luidt als volgt :<br>
+<br>
+"Hoofdstuk 7/2. Niet-aangesloten binneninstallatie en installatie voor tweedecircuitwater in onroerende goederen die niet aangesloten zijn of worden op het openbaar waterdistributienetwerk .<br>
+<br>
+Art. 27/5. Een niet-aangesloten binneninstallatie of een installatie voor tweedecircuitwater die aanwezig is in een onroerend goed dat niet aangesloten is of niet aangesloten wordt op het openbaar waterdistributienetwerk, moet conform de wettelijke en technische voorschriften worden aangelegd en gebruikt.<br>
+<br>
+De gebruiker of titularis is verantwoordelijk voor de plaatsing, de wijziging, de herstelling en het onderhoud, alsook voor de goede werking ervan en draagt ook alle kosten die daaraan verbonden zijn.<br>
+<br>
+Art. 27/6. § 1. Elke niet-aangesloten binneninstallatie in een onroerend goed dat niet aangesloten is of niet wordt aangesloten op het openbaar waterdistributienetwerk, wordt ter bescherming van de volksgezondheid aan een keuring onderworpen in de volgende gevallen :<br>
+1° vóór de eerste ingebruikname;<br>
+2° bij belangrijke wijzigingen die de volksgezondheid of de goede werking van de niet-aangesloten binneninstallatie kunnen bedreigen;<br>
+3° nadat herstelmaatregelen genomen zijn naar aanleiding van een voorafgaande keuring van de niet-aangesloten binneninstallatie.<br>
+<br>
+De keuring, vermeld in het eerste lid, heeft tot doel na te gaan of de niet-aangesloten binneninstallatie gebruiksconform is, waarbij wordt nagegaan of de niet-aangesloten binneninstallatie voldoet aan de geldende wettelijke en technische voorschriften ter preventie van kwaliteitsproblemen met risico voor de gezondheid van de gebruiker van water bestemd voor menselijke consumptie die het gevolg zijn van terugstroming in of naar de niet-aangesloten binneninstallatie.<br>
+<br>
+§ 2. De gebruiker of titularis is verantwoordelijk voor de aanvraag van de keuring, vermeld in paragraaf 1, en draagt de kosten die verbonden zijn aan de keuring.<br>
+<br>
+§ 3. De exploitant is verantwoordelijk voor :<br>
+1° de organisatie van de keuring, vermeld in paragraaf 1;<br>
+2° de opvolging en de kwaliteitsborging van het keuringsproces;<br>
+3° de digitale archivering van de keuringsattesten.<br>
+<br>
+De exploitant kan de taken, vermeld in het eerste lid, via een samenwerkingsverband aan derden delegeren.<br>
+<br>
+§ 4. De gebruiker of titularis is verplicht om alle nodige informatie over de niet-aangesloten binneninstallatie te bezorgen aan de exploitant of zijn aangestelde zodat die de niet-aangesloten binneninstallatie kan keuren.<br>
+<br>
+De klant of titularis ontvangt het keuringsattest. Een afschrift van het keuringsattest wordt rechtstreeks door diegene die de keuring uitvoert overgemaakt aan de exploitant.<br>
+<br>
+De keuring, vermeld in paragraaf 1, ontslaat de gebruiker of titularis niet van zijn verantwoordelijkheid voor het behoud van de waterkwaliteit in de niet-aangesloten binneninstallatie en voor het respecteren van de wettelijke en technische voorschriften.<br>
+<br>
+§ 5. De exploitant stelt de niet-conforme keuringsattesten waarvan de termijn voor het nemen van herstelmaatregelen is overschreden ter beschikking van de toezichthoudende ambtenaar Leefmilieu in het kader van de toezichtstaken, vermeld in artikel 5.2.1.1 tot en met 5.2.1.4 van het decreet van 18 juli 2003.<br>
+<br>
+§ 6. Als de exploitant of zijn aangestelde naar aanleiding van een keuring als vermeld in paragraaf 1, vaststelt dat de niet-aangesloten binneninstallatie niet gebruiksconform is omdat er risico's zijn voor de gezondheid van de gebruiker ten gevolge van terugstroming in de niet-aangesloten binneninstallatie, informeert de exploitant of zijn aangestelde de gebruiker of titularis over de situatie en over de herstelmaatregelen die genomen moeten worden om de risico's weg te nemen.<br>
+<br>
+De gebruiker of titularis voert de nodige aanpassingen uit aan de niet-aangesloten binneninstallatie zodat die gebruiksconform is en neemt het initiatief om de herkeuring aan te vragen.<br>
+<br>
+De herstelmaatregelen aan de niet-aangesloten binneninstallatie moeten uitgevoerd zijn binnen de termijnen die de exploitant bepaalt. De exploitant of zijn aangestelde vermeldt die termijnen op het keuringsattest.<br>
+<br>
+§ 7. Als de gebruiker of titularis die feitelijk gebruikmaakt van de niet-aangesloten binneninstallatie, de herstelmaatregelen, vermeld in paragraaf 6, niet uitgevoerd heeft binnen de gestelde termijnen, stuurt de exploitant de gebruiker of titularis een aanmaning.<br>
+<br>
+In die aanmaning vermeldt de exploitant :<br>
+1° wat de klant of titularis moet doen om zijn verplichtingen na te komen, samen met de uiterste termijn waarin dat moet gebeuren, waarbij de exploitant een minimumtermijn van dertig werkdagen respecteert, tenzij er een bedreiging is voor de volksgezondheid en de veiligheid van de watervoorziening;<br>
+2° dat een of meer van de volgende zaken al zijn gemeld bij de toezichthoudende ambtenaar Leefmilieu :<br>
+a) het niet-conform zijn van de niet-aangesloten binneninstallatie;<br>
+b) het overschrijden van de termijn voor de uitvoering van de herstelmaatregelen, vermeld in paragraaf 6.<br>
+<br>
+Wanneer geen passend gevolg gegeven wordt aan deze aanmaning, stuurt de exploitant een tweede aanmaning. Voor het verzenden van deze aanmaningen kunnen kosten voor de verlengde dossieropvolging worden aangerekend.<br>
+<br>
+§ 8. Als de exploitant of zijn aangestelde naar aanleiding van een keuring vaststelt dat er risico's op terugstroming in de niet-aangesloten binneninstallatie zijn met bijbehorende kwaliteitsproblemen, maar dat die geen aanleiding geven tot risico's voor de gezondheid van de gebruiker, informeert de exploitant of zijn aangestelde de klant of titularis over de situatie en adviseert hij over herstelmaatregelen om de kans op de kwaliteitsproblemen weg te nemen.<br>
+<br>
+Als de exploitant de titularis of de gebruiker heeft geïnformeerd, informeert, in voorkomend geval, de titularis de gebruiker of de gebruiker de titularis over de situatie, de noodzakelijke herstelmaatregelen en de uitgevoerde herstelmaatregelen.<br>
+<br>
+§ 9. De minister kan nadere regels vastleggen met betrekking tot de keuring van de niet-aangesloten binneninstallatie.<br>
+<br>
+De nadere regels hebben betrekking op :<br>
+1° de technische criteria die gebruikt worden om na te gaan of de niet-aangesloten binneninstallatie gebruiksconform is;<br>
+2° de termijn waarbinnen herstelmaatregelen moeten worden uitgevoerd;<br>
+3° de organisatie van de keuring, de opvolging en kwaliteitsborging van het keuringsproces, de inhoud en de digitale archivering van de keuringsattesten;<br>
+4° de verplichting van de gebruiker of de titularis tot het bijhouden van en ter beschikking kunnen stellen van het keuringsdossier;<br>
+5° de verdere invulling van het begrip belangrijke wijzigingen.<br>
+<br>
+Art. 27/7. § 1. Iedere installatie voor tweedecircuitwater in een onroerend goed waar watergebruikstoepassingen voorzien worden waarvoor water bestemd voor menselijke consumptie vereist is en waarbij dat goed niet aangesloten is of niet wordt aangesloten op het openbaar waterdistributienetwerk, wordt voor de bescherming van de volksgezondheid aan een keuring onderworpen in de volgende gevallen :<br>
+1° vóór de eerste ingebruikname;<br>
+2° bij belangrijke wijzigingen die de volksgezondheid of de goede werking van de niet-aangesloten binneninstallatie kunnen bedreigen of die aanleiding kunnen geven tot een onveilig gebruik van het tweedecircuitwater;<br>
+3° nadat herstelmaatregelen genomen zijn naar aanleiding van een voorafgaande keuring van de installatie voor tweedecircuitwater.<br>
+<br>
+De keuring heeft tot doel na te gaan of de installatie voor tweedecircuitwater gebruiksconform is, waarbij wordt nagegaan of het tweedecircuitwater :<br>
+1° stroomt in een afzonderlijk leidingnet en op geen enkele manier in verbinding kan komen met de niet-aangesloten binneninstallatie;<br>
+2° uitsluitend gebruikt wordt voor toepassingen die geen water, bestemd voor menselijke consumptie, als vermeld in artikel 2.1.2, 33°, van het decreet van 18 juli 2003, vereisen;<br>
+3° gebruikt wordt conform de bepalingen over het correct gebruik als vermeld in artikel 2.2.1, § 1, tweede lid, van het decreet van 18 juli 2003.<br>
+<br>
+§ 2. De gebruiker of titularis is verantwoordelijk voor de aanvraag van de keuring en draagt de kosten die verbonden zijn aan de keuring.<br>
+<br>
+§ 3. De exploitant is verantwoordelijk voor :<br>
+1° de organisatie van de keuring;<br>
+2° de opvolging en de kwaliteitsborging van het keuringsproces;<br>
+3° de digitale archivering van de keuringsattesten.<br>
+<br>
+De exploitant kan de taken, vermeld in het eerste lid, via een samenwerkingsverband aan derden delegeren.<br>
+<br>
+§ 4. De klant of titularis is verplicht om alle nodige informatie over zijn installatie voor tweedecircuitwater te bezorgen aan de exploitant of zijn aangestelde zodat die de installatie voor tweedecircuitwater kan keuren.<br>
+<br>
+De klant of titularis ontvangt het keuringsattest. Een afschrift van het keuringsattest wordt rechtstreeks door diegene die de keuring uitvoert overgemaakt aan de exploitant.<br>
+<br>
+De keuring, vermeld in paragraaf 1, ontslaat de klant of titularis niet van zijn verantwoordelijkheid voor de staat van de installatie voor tweedecircuitwater.<br>
+<br>
+§ 5. De exploitant stelt de niet-conforme keuringsattesten zoals bedoeld in paragraaf 6 ter beschikking van de toezichthoudende ambtenaar Leefmilieu in het kader van de toezichtstaken, vermeld in artikel 5.2.1.1 tot en met 5.2.1.4 van het decreet van 18 juli 2003.<br>
+<br>
+§ 6. Als de exploitant of zijn aangestelde naar aanleiding van een keuring als vermeld in paragraaf 1, vaststelt dat de installatie voor tweedecircuitwater niet gebruiksconform is om een of meer van de volgende redenen, informeert de exploitant of zijn aangestelde de klant of titularis over de situatie en over de herstelmaatregelen die genomen moeten worden om de risico's weg te nemen :<br>
+1° het tweedecircuitwater wordt gebruikt voor toepassingen die water, geschikt voor menselijke consumptie als vermeld in artikel 2.1.2, 33°, van het decreet van 18 juli 2003, vereisen;<br>
+2° het tweedecircuitwater wordt niet gebruikt conform artikel 2.2.1, § 1, tweede lid, van het decreet van 18 juli 2003;<br>
+3° het tweedecircuitwater kan in verbinding komen met een niet-aangesloten binneninstallatie.<br>
+<br>
+De klant of titularis voert de nodige aanpassingen uit aan de installatie voor tweedecircuitwater zodat die gebruiksconform is.<br>
+<br>
+§ 7. Als de exploitant de titularis of de klant daarover heeft geïnformeerd, informeert, in voorkomend geval, de titularis de klant of de klant de titularis over de situatie, de noodzakelijke herstelmaatregelen en de uitgevoerde herstelmaatregelen.<br>
+<br>
+§ 8. De minister kan nadere regels vastleggen met betrekking tot de keuring van de installatie voor tweedecircuitwater.<br>
+<br>
+De nadere regels hebben betrekking op :<br>
+1° de criteria die gehanteerd worden bij de beoordeling van het correcte gebruik van tweedecircuitwater, vermeld in artikel 2.2.1, § 1, tweede lid, van het decreet van 18 juli 2003;<br>
+2° de organisatie van de keuring, de opvolging en kwaliteitsborging van het keuringsproces, de inhoud en de digitale archivering van de keuringsattesten;<br>
+3° de verplichting van de klant of de titularis tot het bijhouden van en ter beschikking kunnen stellen van het keuringsdossier;<br>
+4° de verdere invulling van het begrip belangrijke wijzigingen."
 
 ## HOOFDSTUK 3. Wijzingen aan het besluit van 25 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning
 
