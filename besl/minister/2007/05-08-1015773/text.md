@@ -6,7 +6,11 @@ De Vlaamse minister van Binnenlands Bestuur, Stedenbeleid, Wonen en Inburgering<
 
 ### ART. 1.
 
-Volgende woningbouwgebieden zoals bepaald in bijlage bij het besluit van de Vlaamse Regering van 7 april 1998 houdende afbakening van woonvernieuwings- en woningbouwgebieden, worden erkend als bijzonder gebied bedoeld in artikel 28, 2° van het besluit van de Vlaamse Regering van 6 oktober 1998 betreffende de kwaliteitsbewaking, het recht van voorkoop en het sociaal beheersrecht op woningen :<br />38014A00, 38014A23, 38014B00, 38014B01, 38014B02, 38014B062.<br /><br />Deze woningbouwgebieden zijn aangeduid op het plan dat als bijlage bij dit besluit wordt opgenomen.<br /><br />
+Volgende woningbouwgebieden zoals bepaald in bijlage 3 bij het Besluit Vlaamse Codex Wonen van 2021, worden erkend als bijzonder gebied als vermeld in artikel 5.209, 2°, van het voormelde besluit:<br>
+38014A00, 38014A23, 38014B00, 38014B01, 38014B02, 38014B062.<br>
+<br>
+Deze woningbouwgebieden zijn aangeduid op het plan dat als bijlage bij dit besluit wordt opgenomen.<br>
+&nbsp;
 
 ### ART. 2.
 
