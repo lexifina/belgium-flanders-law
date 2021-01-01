@@ -2,16 +2,16 @@
   "codex_id": 1033393,
   "title": "Besluit van de Vlaamse Regering van 2020-07-10 tot vaststelling van de wijziging van de bouwtechnische en conceptuele richtlijnen voor de realisatie en instandhouding van sociale woningen en voor de infrastructuuraanleg voor sociale woonprojecten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033393/VolledigDocument?datum=2020-07-23",
-  "source_sha256": "417ca264325e901ef299294c4bcf5de5ba861b3f9cc2077053abaedee20ad0e5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033393/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "a50ad6ee7cdf6ce4b4362a0f6be940b14f662f84a052a73c22e882bf0a974193",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033393&param=informatie",
-  "as_of": "2020-07-23",
+  "as_of": "2021-01-01",
   "made": "2020-07-10",
   "gazette": "2020-07-13",
   "numac": 2020042223,
   "document_start": "2020-07-23",
   "document_end": "2020-12-31",
-  "in_force": "2020-07-23",
+  "in_force": "2021-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2020-07-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }

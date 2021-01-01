@@ -31,12 +31,12 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-De bouwtechnische en conceptuele richtlijnen voor de realisatie en instandhouding van sociale woningen en voor de infrastructuuraanleg voor sociale woonprojecten, zijn conform artikel 3, § 2, derde lid, van het Procedurebesluit Wonen van 14 juli 2017 opgenomen in de bijlage die bij dit besluit is gevoegd.
+...
 
 ### ART 2.
 
-De Vlaamse minister, bevoegd voor het woonbeleid, is belast met de uitvoering van dit besluit.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/07/13_2.pdf#page=19">De bouwtechnische en conceptuele richtlijnen voor de realisatie en instandhouding van sociale woningen en voor de infrastructuuraanleg voor sociale woonprojecten als vermeld in&nbsp;artikel 3, § 2, derde lid, van het Procedurebesluit Wonen van 14 juli 2017</a>
+...
