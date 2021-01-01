@@ -4,7 +4,22 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1°   ...<BR>2°&nbsp;...<BR>3°&nbsp;...<BR>4° de minister: de Vlaamse minister,   bevoegd voor het wetenschaps- en technologisch innovatiebeleid;<BR>5° Vlaamse   instelling van hoger onderwijs: een Vlaamse universiteit of een Vlaamse   hogeschool;<BR>6° onderzoeksinstelling : een entiteit, ongeacht haar rechtsvorm   (publiek- of privaatrechtelijke organisatie) of financieringswijze, die zich in   hoofdzaak bezighoudt met het verrichten van fundamenteel onderzoek, industrieel   onderzoek of experimentele ontwikkeling en het verspreiden van de resultaten   daarvan door middel van onderwijs, publicaties of technologieoverdracht, buiten   de Vlaamse instellingen van hoger onderwijs; alle winst wordt opnieuw   geïnvesteerd in die activiteiten, in de verspreiding van de resultaten daarvan,   of in onderwijs. Ondernemingen die invloed over dergelijke entiteit kunnen   uitoefenen door middel van bijvoorbeeld aandeelhouders of leden, genieten geen   preferente toegang tot de onderzoekscapaciteit van een dergelijke entiteit of   tot de resultaten van haar onderzoek;<BR>7° praktijkcentrum : een   onderzoeksinstelling die praktijkonderzoek en kennisdiffusie uitvoert voor een   bepaalde (deel)sector van de land- en tuinbouw en daartoe erkend is door de   Vlaamse overheid; <BR>8° praktijkonderzoek: onderzoek dat op korte termijn een   oplossing wil bieden aan voor de land- en tuinbouwsector relevante problemen,   alsook het bundelen en vertalen van kennis naar voor de praktijk direct   bruikbare toepassingen.<BR>9° land- en tuinbouwactiviteit: elke activiteit die   gericht is op het voortbrengen van plantaardige en dierlijke producten, evenals   hun distributie en bewaring. De verwerking van primaire grondstoffen tot   producten bestemd voor menselijke consumptie of voor industriële toepassingen   wordt hier niet onder begrepen;<BR>10° land- en tuinbouwbedrijven: elke   natuurlijke of rechtspersoon die een land- en tuinbouwactiviteit   uitoefent;<BR>11° projectaanvrager: de Vlaamse instelling van hoger onderwijs,   onderzoeksinstelling of praktijkcentrum, die in het kader van dit besluit een   projectvoorstel bij het Agentschap Innoveren en Ondernemen indient, zelfstandig   of als lid van een projectconsortium;<BR>12° projectconsortium: een   gestructureerd samenwerkingsverband van meer dan één projectaanvrager;<BR>13°   gebruikerscommissie: representatieve vertegenwoordiging van de land- en   tuinbouwbedrijven die als valorisatie-actoren van de onderzoeksresultaten   optreden.<BR>14° beslissingscomité bij het Hermesfonds: het beslissingscomité,   vermeld in artikel 41ter van het decreet van 21 december 2001 houdende   bepalingen tot begeleiding van de begroting 2002.<BR><BR>
+In dit besluit wordt verstaan onder:<br>
+1° ...<br>
+2°&nbsp;...<br>
+3°&nbsp;...<br>
+4° de minister: de Vlaamse minister, bevoegd voor het wetenschaps- en technologisch innovatiebeleid;<br>
+5° Vlaamse instelling van hoger onderwijs: een Vlaamse universiteit of een Vlaamse hogeschool;<br>
+6° onderzoeksinstelling : een entiteit, ongeacht haar rechtsvorm (publiek- of privaatrechtelijke organisatie) of financieringswijze, die zich in hoofdzaak bezighoudt met het verrichten van fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling en het verspreiden van de resultaten daarvan door middel van onderwijs, publicaties of technologieoverdracht, buiten de Vlaamse instellingen van hoger onderwijs; alle winst wordt opnieuw geïnvesteerd in die activiteiten, in de verspreiding van de resultaten daarvan, of in onderwijs. Ondernemingen die invloed over dergelijke entiteit kunnen uitoefenen door middel van bijvoorbeeld aandeelhouders of leden, genieten geen preferente toegang tot de onderzoekscapaciteit van een dergelijke entiteit of tot de resultaten van haar onderzoek;<br>
+7° praktijkcentrum : een onderzoeksinstelling die praktijkonderzoek en kennisdiffusie uitvoert voor een bepaalde (deel)sector van de land- en tuinbouw en daartoe erkend is door de Vlaamse overheid;<br>
+8° praktijkonderzoek: onderzoek dat op korte termijn een oplossing wil bieden aan voor de land- en tuinbouwsector relevante problemen, alsook het bundelen en vertalen van kennis naar voor de praktijk direct bruikbare toepassingen.<br>
+9° land- en tuinbouwactiviteit: elke activiteit die gericht is op het voortbrengen van plantaardige en dierlijke producten, evenals hun distributie en bewaring. De verwerking van primaire grondstoffen tot producten bestemd voor menselijke consumptie of voor industriële toepassingen wordt hier niet onder begrepen;<br>
+10° land- en tuinbouwbedrijven: elke natuurlijke of rechtspersoon die een land- en tuinbouwactiviteit uitoefent;<br>
+11° projectaanvrager: de Vlaamse instelling van hoger onderwijs, onderzoeksinstelling of praktijkcentrum, die in het kader van dit besluit een projectvoorstel bij het Agentschap Innoveren en Ondernemen indient, zelfstandig of als lid van een projectconsortium;<br>
+12° projectconsortium: een gestructureerd samenwerkingsverband van meer dan één projectaanvrager;<br>
+13° gebruikerscommissie: representatieve vertegenwoordiging van de land- en tuinbouwbedrijven die als valorisatie-actoren van de onderzoeksresultaten optreden.<br>
+14° beslissingscomité bij het Fonds voor Innoveren en Ondernemen: het beslissingscomité, vermeld in artikel 41ter van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002.<br>
+&nbsp;
 
 ## HOOFDSTUK II KARAKTERISTIEKEN VAN HET PROGRAMMA VOOR DE PROJECTMATIGE FINANCIERING VAN TOEGEPAST COLLECTIEF ONDERZOEK VOOR DE LAND- EN TUINBOUWSECTOR
 
@@ -46,37 +61,47 @@ De toekenning van steun kan enkel voor kosten die niet reeds gedekt zijn door en
 
 ### ART. 8.
 
-De projectvoorstellen moeten worden geformuleerd overeenkomstig de   modaliteiten inzake de aanvraagprocedure en -voorwaarden die het   beslissingscomité bij het Hermesfonds vastlegt en bekendmaakt. Het   beslissingscomité bij het Hermesfonds voorziet in één of meer uiterste   indiendata in de loop van elk kalenderjaar.<BR><BR>Het&nbsp;beslissingscomité   bij het Hermesfonds beoordeelt de ontvankelijkheid van een projectvoorstel op   basis van de formele indiening voorwaarden en -instructies, bedoeld in vorig   lid.<BR><BR>Een projectvoorstel dat niet ontvankelijk wordt verklaard, wordt   uitgesloten van verdere behandeling.<BR><BR>Uiterlijk tien werkdagen na de   uiterste indiendatum deelt het Agentschap Innoveren en Ondernemen aan de   projectaanvrager de beslissing over de ontvankelijkheid van het projectvoorstel   mee.
+De projectvoorstellen moeten worden geformuleerd overeenkomstig de modaliteiten inzake de aanvraagprocedure en -voorwaarden die het beslissingscomité bij het Fonds voor Innoveren en Ondernemen vastlegt en bekendmaakt. Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen voorziet in één of meer uiterste indiendata in de loop van elk kalenderjaar.<br>
+<br>
+Het&nbsp;beslissingscomité bij het Fonds voor Innoveren en Ondernemen beoordeelt de ontvankelijkheid van een projectvoorstel op basis van de formele indiening voorwaarden en -instructies, bedoeld in vorig lid.<br>
+<br>
+Een projectvoorstel dat niet ontvankelijk wordt verklaard, wordt uitgesloten van verdere behandeling.<br>
+<br>
+Uiterlijk tien werkdagen na de uiterste indiendatum deelt het Agentschap Innoveren en Ondernemen aan de projectaanvrager de beslissing over de ontvankelijkheid van het projectvoorstel mee.
 
 ### ART. 9.
 
-Het beslissingscomité bij het Hermesfonds zal voor de beoordeling van de   ontvankelijk verklaarde projectvoorstellen externe deskundigen aanwijzen die   zullen adviseren over de aspecten, bepaald in artikel 14, 15 en 16. Aan elk van   de colleges van deskundigen zal een vertegenwoordiger van het beleidsdomein   landbouw en visserij deelnemen.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen zal voor de beoordeling van de ontvankelijk verklaarde projectvoorstellen externe deskundigen aanwijzen die zullen adviseren over de aspecten, bepaald in artikel 14, 15 en 16. Aan elk van de colleges van deskundigen zal een vertegenwoordiger van het beleidsdomein landbouw en visserij deelnemen.
 
 ### ART. 10.
 
-Het beslissingscomité bij het Hermesfonds beslist op basis van het   dossier, waaronder het advies van de externe deskundigen, en bepaalt de omvang   en de aard van de steun, alsmede de bijzondere voorwaarden en bepalingen   ervan.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen beslist op basis van het dossier, waaronder het advies van de externe deskundigen, en bepaalt de omvang en de aard van de steun, alsmede de bijzondere voorwaarden en bepalingen ervan.
 
 ### ART. 11.
 
-Uiterlijk honderd werkdagen na de uiterste indiendatum deelt het   Agentschap Innoveren en Ondernemen aan de projectaanvrager de beslissing   van&nbsp;het beslissingscomité bij het Hermesfonds mee.
+Uiterlijk honderd werkdagen na de uiterste indiendatum deelt het Agentschap Innoveren en Ondernemen aan de projectaanvrager de beslissing van&nbsp;het beslissingscomité bij het Fonds voor Innoveren en Ondernemen mee.
 
 ### ART. 12.
 
-De steun wordt toegekend onder de voorwaarden en volgens nadere   modaliteiten die het beslissingscomité bij het Hermesfonds voor het project   vaststelt in een overeenkomst tussen het het Agentschap Innoveren en Ondernemen   en de projectaanvrager(s), met algemene bepalingen voorzien in een   type-overeenkomst, vastgesteld door het beslissingscomité bij het   Hermesfonds.<BR><BR>Elk project zal worden begeleid door een   gebruikerscommissie, namelijk een groep van externe vertegenwoordigers die   fungeert als eerste ontvanger van de projectresultaten. De voorwaarden van   samenstelling en de werking van deze gebruikerscommissie worden vastgelegd in de   type-overeenkomst.
+De steun wordt toegekend onder de voorwaarden en volgens nadere modaliteiten die het beslissingscomité bij het Fonds voor Innoveren en Ondernemen voor het project vaststelt in een overeenkomst tussen het het Agentschap Innoveren en Ondernemen en de projectaanvrager(s), met algemene bepalingen voorzien in een type-overeenkomst, vastgesteld door het beslissingscomité bij het Fonds voor Innoveren en Ondernemen.<br>
+<br>
+Elk project zal worden begeleid door een gebruikerscommissie, namelijk een groep van externe vertegenwoordigers die fungeert als eerste ontvanger van de projectresultaten. De voorwaarden van samenstelling en de werking van deze gebruikerscommissie worden vastgelegd in de type-overeenkomst.
 
 ## HOOFDSTUK V BESLISSINGSBEPALINGEN EN -CRITERIA
 
 ### ART. 13.
 
-Het beslissingscomité bij het Hermesfonds kan beslissen de steun niet toe   te kennen of kan extra voorwaarden stellen op basis van de volgende   elementen:<BR>1° als een projectaanvrager niet of slechts gedeeltelijk andere   overheidsverplichtingen of -vergunningen is nagekomen;<BR>2° als een   projectaanvrager bij vroegere projecten tekortgeschoten is in zijn normale   contractuele verplichtingen inzake onder meer informatieverstrekking,   inhoudelijke of financiële verplichtingen of verslaggeving.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan beslissen de steun niet toe te kennen of kan extra voorwaarden stellen op basis van de volgende elementen:<br>
+1° als een projectaanvrager niet of slechts gedeeltelijk andere overheidsverplichtingen of -vergunningen is nagekomen;<br>
+2° als een projectaanvrager bij vroegere projecten tekortgeschoten is in zijn normale contractuele verplichtingen inzake onder meer informatieverstrekking, inhoudelijke of financiële verplichtingen of verslaggeving.
 
 ### ART. 14.
 
-Het beslissingscomité bij het Hermesfonds zal bij zijn besluitvorming inzake steuntoekenning de volgende beoordelingsdimensies in zijn overweging meenemen:<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen zal bij zijn besluitvorming inzake steuntoekenning de volgende beoordelingsdimensies in zijn overweging meenemen:<br>
 1° de wetenschappelijk-technologische kwaliteit van het projectvoorstel, bedoeld in artikel 15;<br>
 2° het valorisatiepotentieel van het projectvoorstel: de gebruiksmogelijkheden van de resultaten voor de beoogde doelgroep van land- en tuinbouwbedrijven, bedoeld in artikel 16.<br>
 <br>
-Het beslissingscomité bij het Hermesfonds zal bij de nadere invulling van zijn opdracht ook rekening houden met de algemene en specifieke beleidslijnen van de Vlaamse Regering, zoals die blijken uit afspraken tussen het Agentschap Innoveren en Ondernemen en de Vlaamse minister, bevoegd voor het beleidsdomein economie, wetenschap en innovatie,&nbsp; of concrete verzoeken van de Vlaamse Regering aan het beslissingscomité bij het Hermesfonds om initiatieven te ontwikkelen voor een specifiek actieprogramma van de Vlaamse Regering.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen zal bij de nadere invulling van zijn opdracht ook rekening houden met de algemene en specifieke beleidslijnen van de Vlaamse Regering, zoals die blijken uit afspraken tussen het Agentschap Innoveren en Ondernemen en de Vlaamse minister, bevoegd voor het beleidsdomein economie, wetenschap en innovatie,&nbsp; of concrete verzoeken van de Vlaamse Regering aan het beslissingscomité bij het Fonds voor Innoveren en Ondernemen om initiatieven te ontwikkelen voor een specifiek actieprogramma van de Vlaamse Regering.
 
 ### ART. 15.
 
@@ -88,21 +113,35 @@ Voor de beoordeling van het valorisatiepotentieel van een projectvoorstel worden
 
 ### ART. 17.
 
-Het beslissingscomité bij het Hermesfonds kan zijn beslissing over de   steun daarenboven nemen op basis van de volgende overwegingen:<BR>1° de   complementariteit van de projectvoorstellen onderling;<BR>2° de spreiding van de   projectvoorstellen over sectoren of expertisedomeinen;<BR>3° de bijdrage tot   duurzame ontwikkeling;<BR>4° het aandeel projectvoorstellen dat als   praktijkonderzoek kan gedefinieerd worden. Het beslissingscomité bij het   Hermesfonds kan zijn steunverlening beperken tot een gedeelte van het ingediende   projectvoorstel.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan zijn beslissing over de steun daarenboven nemen op basis van de volgende overwegingen:<br>
+1° de complementariteit van de projectvoorstellen onderling;<br>
+2° de spreiding van de projectvoorstellen over sectoren of expertisedomeinen;<br>
+3° de bijdrage tot duurzame ontwikkeling;<br>
+4° het aandeel projectvoorstellen dat als praktijkonderzoek kan gedefinieerd worden. Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan zijn steunverlening beperken tot een gedeelte van het ingediende projectvoorstel.
 
 ### ART. 18.
 
-Het beslissingscomité bij het Hermesfonds&nbsp;moet zijn steunbeslissingen   beperken tot de jaarlijks bepaalde begrotingsvoorzieningen.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen&nbsp;moet zijn steunbeslissingen beperken tot de jaarlijks bepaalde begrotingsvoorzieningen.
 
 ## HOOFDSTUK VI VERZOEK TOT HERZIENING
 
 ### ART. 19.
 
-Na de beslissing van het beslissingscomité bij het Hermesfonds wordt aan   de aanvrager een afschrift betekend van de beslissing van het beslissingscomité   bij het Hermesfonds.<BR><BR>Als de beslissing negatief is, wordt uitdrukkelijk   verwezen naar het recht van de aanvrager om, overeenkomstig artikel 20, een   herziening van de beslissing te vragen.
+Na de beslissing van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen wordt aan de aanvrager een afschrift betekend van de beslissing van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen.<br>
+<br>
+Als de beslissing negatief is, wordt uitdrukkelijk verwezen naar het recht van de aanvrager om, overeenkomstig artikel 20, een herziening van de beslissing te vragen.
 
 ### ART. 20.
 
-De aanvrager kan de herziening vragen van de beslissing van het   beslissingscomité bij het Hermesfonds tot weigering van steun, zonder evenwel de   opportuniteit van de beslissing in vraag te kunnen stellen.<BR><BR>De herziening   wordt, op straffe van verval gevraagd met een aangetekende brief, binnen een   termijn van twintig werkdagen na afgifte op de post van de betekening van de   beslissing.<BR><BR>Het verzoekschrift tot herziening bevat, op straffe van   onontvankelijkheid, een opgave van de objectief apprecieerbare elementen van het   dossier dat aan het beslissingscomité bij het Hermesfonds ter beslissing werd   voorgelegd, waarvan de aanvrager beweert dat de incorrecte appreciatie kennelijk   bepalend is geweest voor het nemen van de bestreden beslissing; alsmede de   argumenten ter weerlegging van de bedoelde appreciatie.<BR><BR>De aanvrager   beschikt daartoe over het recht op inzage van het dossier, zoals dat ter   beslissing is voorgelegd aan het beslissingscomité bij het   Hermesfonds.<BR><BR>Het beslissingscomité bij het Hermesfonds beslist binnen   dertig werkdagen na ontvangst van het verzoekschrift tot herziening en bepaalt   tevens hoe deze beslissing verder kan uitgevoerd worden.
+De aanvrager kan de herziening vragen van de beslissing van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen tot weigering van steun, zonder evenwel de opportuniteit van de beslissing in vraag te kunnen stellen.<br>
+<br>
+De herziening wordt, op straffe van verval gevraagd met een aangetekende brief, binnen een termijn van twintig werkdagen na afgifte op de post van de betekening van de beslissing.<br>
+<br>
+Het verzoekschrift tot herziening bevat, op straffe van onontvankelijkheid, een opgave van de objectief apprecieerbare elementen van het dossier dat aan het beslissingscomité bij het Fonds voor Innoveren en Ondernemen ter beslissing werd voorgelegd, waarvan de aanvrager beweert dat de incorrecte appreciatie kennelijk bepalend is geweest voor het nemen van de bestreden beslissing; alsmede de argumenten ter weerlegging van de bedoelde appreciatie.<br>
+<br>
+De aanvrager beschikt daartoe over het recht op inzage van het dossier, zoals dat ter beslissing is voorgelegd aan het beslissingscomité bij het Fonds voor Innoveren en Ondernemen.<br>
+<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen beslist binnen dertig werkdagen na ontvangst van het verzoekschrift tot herziening en bepaalt tevens hoe deze beslissing verder kan uitgevoerd worden.
 
 ## HOOFDSTUK VII EIGENDOMSRECHTEN EN VALORISATIE
 
@@ -118,7 +157,7 @@ Elke projectaanvrager heeft de plicht om de projectresultaten tegen reproductiek
 
 ### ART. 23.
 
-<P>Met behoud van de bevoegdheid van het beslissingscomité bij het Hermesfonds   is het Agentschap Innoveren en Ondernemen belast met het toezicht op de   aanwending door de projectaanvragers van de steun die krachtens dit besluit   wordt toegekend.</P>
+<p>Met behoud van de bevoegdheid van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen is het Agentschap Innoveren en Ondernemen belast met het toezicht op de aanwending door de projectaanvragers van de steun die krachtens dit besluit wordt toegekend.</p>
 
 ### ART. 24.
 
@@ -126,7 +165,7 @@ De projectaanvragers leveren op geregelde tijdstippen schriftelijk verslag   aan
 
 ### ART. 25.
 
-De projectaanvrager die de voorwaarden en de bepalingen waaronder de steun   werd toegekend niet naleeft, wordt in gebreke gesteld. Vanaf de   ingebrekestelling wordt elke verdere steun aan het project geschorst. De   ingebrekestelling kan aanleiding geven tot een herziening van de steun door het   beslissingscomité bij het Hermesfonds. De vordering van terugbetaling van de   oneigenlijk aangewende of herziene steun wordt ingeleid door het   beslissingscomité bij het Hermesfonds. Als het project in consortiumverband   wordt uitgevoerd, is de terugvordering beperkt tot de steun die de individuele   projectaanvrager heeft ontvangen.
+De projectaanvrager die de voorwaarden en de bepalingen waaronder de steun werd toegekend niet naleeft, wordt in gebreke gesteld. Vanaf de ingebrekestelling wordt elke verdere steun aan het project geschorst. De ingebrekestelling kan aanleiding geven tot een herziening van de steun door het beslissingscomité bij het Fonds voor Innoveren en Ondernemen. De vordering van terugbetaling van de oneigenlijk aangewende of herziene steun wordt ingeleid door het beslissingscomité bij het Fonds voor Innoveren en Ondernemen. Als het project in consortiumverband wordt uitgevoerd, is de terugvordering beperkt tot de steun die de individuele projectaanvrager heeft ontvangen.
 
 ### ART. 26.
 
@@ -136,7 +175,7 @@ De projectaanvrager kan in beroep gaan tegen de beslissing van het   beslissings
 
 ### ART. 27.
 
-De personeelsleden van het Agentschap Innoveren en Ondernemen, de leden   van het beslissingscomité bij het Hermesfonds, de leden van de colleges van   deskundigen, alsmede alle andere personen die ambtshalve kennis krijgen van een   dossier zoals bedoeld in dit besluit, zullen de gegevens in kwestie als strikt   vertrouwelijk behandelen, ze niet meedelen aan derden, noch in hun eigen   voordeel aanwenden.
+De personeelsleden van het Agentschap Innoveren en Ondernemen, de leden van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen, de leden van de colleges van deskundigen, alsmede alle andere personen die ambtshalve kennis krijgen van een dossier zoals bedoeld in dit besluit, zullen de gegevens in kwestie als strikt vertrouwelijk behandelen, ze niet meedelen aan derden, noch in hun eigen voordeel aanwenden.
 
 ## HOOFDSTUK X SLOTBEPALINGEN
 
@@ -152,4 +191,24 @@ De Vlaamse minister, bevoegd voor wetenschappen en technologische innovatie, is 
 
 ### Tekst
 
-Als projectkosten kunnen in aanmerking worden genomen de kosten die, na de   startdatum, opgenomen in de overeenkomst die bedoeld wordt in artikel 12 door de   projectuitvoerders worden gemaakt en betaald zijn. Deze kosten moeten   noodzakelijk zijn en rechtstreeks aan het project toegerekend kunnen   worden<BR><BR>De projectkosten omvatten de volgende kosten<BR><BR>1°   personeelskosten (onderzoekers en technici a rato van hun activiteiten binnen   het project);<BR><BR>2° overige werkingskosten die de volgende kosten   omvatten<BR><BR>a) kosten van apparatuur, uitrusting, land en gebouwen die   uitsluitend en permanent (behalve als ze op commerciële basis worden afgestaan)   voor onderzoek worden gebruikt;<BR><BR>b) kosten, verschuldigd aan derden voor   advies en soortgelijke diensten die uitsluitend voor onderzoek worden gebruikt,   met inbegrip van uitbesteed onderzoek, aangekochte technische kennis, octrooien,   enzovoort;<BR><BR>c) extra algemene kosten die rechtstreeks uit de   onderzoeksactiviteiten voortvloeien, maar die niet direct toewijsbaar   zijn;<BR><BR>d) andere exploitatiekosten (zoals die van materiaal, leveranties   en dergelijke) die rechtstreeks uit de onderzoeksactiviteiten   voortvloeien.<BR><BR>Het beslissingscomité bij het Hermesfonds kan de overige   werkingskosten uitdrukken in standaardkosten, namelijk een vast bedrag per   voltijds equivalent onderzoeker in een onderzoeksproject.<BR><BR>Het is   toegestaan extra algemene kosten en andere exploitatiekosten forfaitair te   berekenen met een maximum van 20 % van de directe kosten.<BR><BR>Het   beslissingscomité bij het Hermesfonds kan binnen deze algemene bepalingen de   aanvaarde kosten vastleggen en beperken. Hierbij zullen de nodige garanties   worden ingebouwd dat de gemaakte kosten reëel zijn en betrekking hebben op   onderzoek.
+Als projectkosten kunnen in aanmerking worden genomen de kosten die, na de startdatum, opgenomen in de overeenkomst die bedoeld wordt in artikel 12 door de projectuitvoerders worden gemaakt en betaald zijn. Deze kosten moeten noodzakelijk zijn en rechtstreeks aan het project toegerekend kunnen worden<br>
+<br>
+De projectkosten omvatten de volgende kosten<br>
+<br>
+1° personeelskosten (onderzoekers en technici a rato van hun activiteiten binnen het project);<br>
+<br>
+2° overige werkingskosten die de volgende kosten omvatten<br>
+<br>
+a) kosten van apparatuur, uitrusting, land en gebouwen die uitsluitend en permanent (behalve als ze op commerciële basis worden afgestaan) voor onderzoek worden gebruikt;<br>
+<br>
+b) kosten, verschuldigd aan derden voor advies en soortgelijke diensten die uitsluitend voor onderzoek worden gebruikt, met inbegrip van uitbesteed onderzoek, aangekochte technische kennis, octrooien, enzovoort;<br>
+<br>
+c) extra algemene kosten die rechtstreeks uit de onderzoeksactiviteiten voortvloeien, maar die niet direct toewijsbaar zijn;<br>
+<br>
+d) andere exploitatiekosten (zoals die van materiaal, leveranties en dergelijke) die rechtstreeks uit de onderzoeksactiviteiten voortvloeien.<br>
+<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan de overige werkingskosten uitdrukken in standaardkosten, namelijk een vast bedrag per voltijds equivalent onderzoeker in een onderzoeksproject.<br>
+<br>
+Het is toegestaan extra algemene kosten en andere exploitatiekosten forfaitair te berekenen met een maximum van 20 % van de directe kosten.<br>
+<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan binnen deze algemene bepalingen de aanvaarde kosten vastleggen en beperken. Hierbij zullen de nodige garanties worden ingebouwd dat de gemaakte kosten reëel zijn en betrekking hebben op onderzoek.
