@@ -6,7 +6,7 @@
 
 ### ART. 1.
 
-Initiatiefnemers die een of meerdere onroerende goederen overdragen   volgens de voorwaarden van het besluit van de Vlaamse Regering van 29 september   2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door   de Vlaamse Maatschappij voor Sociaal Wonen en de sociale   huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode, bezorgen de   VMSW binnen een termijn van een maand na elke overdracht een volledig ingevuld   en ondertekend formulier conform bijlagen 1 tot en met 5 bij dit   besluit.<BR>
+Initiatiefnemers die een of meerdere onroerende goederen overdragen volgens de voorwaarden , vermeld in artikel 4.54 tot en met 4.58, artikel 4.149 tot en met 4.155 of artikel 5.216 tot en met 5.227 van het Besluit Vlaamse Codex Wonen van 2021, bezorgen de VMSW binnen een termijn van een maand na elke overdracht een volledig ingevuld en ondertekend formulier conform bijlagen 1 tot en met 5 bij dit besluit.
 
 ### ART. 2.
 
