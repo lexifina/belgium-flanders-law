@@ -24,7 +24,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 27 maart 1991 betreffen
 
 § 1. De personeelsleden, vermeld in artikel 1, krijgen omstandigheidsverlof naar aanleiding van de volgende gebeurtenissen :<br>
 1° huwelijk van het personeelslid en het afleggen van een verklaring van wettelijke samenwoning door het personeelslid :&nbsp;twee werkdagen;<br>
-2° bevalling van de echtgenote of samenwonende partner : tien werkdagen, te nemen binnen een periode van dertig kalenderdagen vanaf de bevalling, of binnen een periode van vier maanden vanaf de bevalling voor de bevallingen vanaf 1 april 2009. Van deze tien werkdagen moeten er minimaal vijf dagen aaneen sluiten. Mits de inrichtende macht akkoord gaat, mogen de voornoemde vijf dagen ook niet aaneensluitend genomen worden;<br>
+2° ...;<br>
 3° overlijden van de echtgenoot of samenwonende partner, van een bloed- of aanverwant in de eerste graad van het personeelslid of van de samenwonende partner : vier werkdagen;<br>
 4° huwelijk of afleggen van een verklaring van wettelijke samenwoning van een kind van het personeelslid, van de echtgenoot of van de samenwonende partner : twee werkdagen;<br>
 5° huwelijk van bloed- of aanverwant in de eerste graad, die geen kind is, of in de tweede graad, van het personeelslid, van de echtgenoot of van de samenwonende partner : de dag van het huwelijk;<br>
@@ -54,6 +54,30 @@ Uit een medisch attest moet blijken dat de aanwezigheid van het personeelslid bi
 De verloven, vermeld in artikel 2 en 3, worden gelijkgesteld met een periode van dienstactiviteit. Tijdens die verloven heeft het personeelslid recht op salaris of salaristoelage en op verhoging tot een hoger salaris of een hogere salaristoelage.<br /><br />
 
 ## [HOOFDSTUK II/1 Omstandigheidsverlof naar aanleiding van de bevalling (ing. BVR 26 februari 2021, art. 7, I: 1 januari 2021)]
+
+### ART 4/1.
+
+§ 1. Een personeelslid heeft recht op omstandigheidsverlof naar aanleiding van de bevalling bij de geboorte van een kind waarvan de afstamming aan de kant van het personeelslid vaststaat.<br>
+<br>
+Bij afwezigheid van een persoon die omstandigheidsverlof naar aanleiding van de bevalling opneemt op grond van de afstamming van het kind, heeft het personeelslid dat gehuwd is of samenwoont met de moeder van het kind recht op het omstandigheidsverlof naar aanleiding van de bevalling.<br>
+<br>
+Het recht op bevallingsverlof, vermeld in het besluit van de Vlaamse Regering van 8 juni 2012 betreffende het bevallingsverlof voor bepaalde personeelsleden van het onderwijs, sluit voor dezelfde ouder het recht op omstandigheidsverlof naar aanleiding van de bevalling uit.<br>
+<br>
+Het omstandigheidsverlof naar aanleiding van de bevalling wordt in mindering gebracht van het recht op opvangverlof vermeld in het besluit van de Vlaamse regering van 9 november 1994 betreffende het opvangverlof voor de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding met het oog op adoptie en pleegvoogdij.<br>
+<br>
+§ 2. Het omstandigheidsverlof naar aanleiding van de bevalling bedraagt tien werkdagen voor geboortes die plaatsvonden voor 1 januari 2021. Voor geboortes die plaatsvinden vanaf 1 januari 2021 bedraagt het omstandigheidsverlof naar aanleiding van de bevalling vijftien werkdagen. Voor geboortes die plaatsvinden vanaf 1 januari 2023 bedraagt het omstandigheidsverlof naar aanleiding van de bevalling twintig werkdagen.<br>
+<br>
+Het omstandigheidsverlof naar aanleiding van de bevalling moet genomen worden binnen een periode van vier maanden vanaf de bevalling, waarbij minimaal vijf dagen aaneensluitend moeten worden genomen. Als de inrichtende macht akkoord gaat, mogen de voormelde vijf dagen ook niet aaneensluitend genomen worden.
+
+### ART 4/2.
+
+Als een personeelslid in verschillende instellingen of centra werkt gedurende de dagen waarop het omstandigheidsverlof naar aanleiding van de bevalling neemt, dan geldt dat verlof voor alle instellingen of centra, waarbij het in zijn totaliteit beperkt is tot het aantal werkdagen, vermeld in artikel 4/1.<br>
+<br>
+Personeelsleden die zowel in de privé-sector als in het onderwijs werken, hebben maar één keer recht op het aantal dagen omstandigheidsverlof naar aanleiding van de bevalling, vermeld in artikel 4/1.
+
+### ART 4/3.
+
+Het omstandigheidsverlof naar aanleiding van de bevalling wordt gelijkgesteld met dienstactiviteit. Tijdens de eerste tien werkdagen van het verlof heeft het personeelslid recht op salaris of salaristoelage en op verhoging tot een hoger salaris of een hogere salaristoelage. Vanaf de elfde werkdag ontvangt het personeelslid 82% van het brutosalaris. Voor de bepaling van dit salaris wordt het brutosalaris op jaarbasis begrensd op 26.230€ (100%).
 
 ## HOOFDSTUK III Onbezoldigd ouderschapsverlof
 
