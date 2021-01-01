@@ -9,12 +9,12 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 ### ART. 2.
 
 In dit decreet wordt verstaan onder :<br>
-1° Vlabinvest : het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, vermeld in artikel 16 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992;<br>
+1° Vlabinvest : het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, vermeld in artikel 5.11, eerste lid, van de Vlaamse Codex Wonen van 2021;<br>
 2° Vlabinvest apb: het Agentschap voor Woon- en Zorginfrastructuurbeleid voor Vlaams-Brabant, opgericht als het Agentschap voor Grond- en Woonbeleid voor Vlaams-Brabant bij artikel 1 van het besluit van de provincieraad van Vlaams-Brabant van 22 oktober 2013, en omgevormd tot het Agentschap voor Woon- en Zorginfrastructuurbeleid voor Vlaams-Brabant bij besluit van de provincieraad van Vlaams-Brabant;<br>
 3° welzijns- en gezondheidsvoorzieningen: organisaties die activiteiten uitoefenen op het domein van de aangelegenheden, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, waarvoor de Vlaamse Gemeenschap bevoegd is, en van de aangelegenheden, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van de organisaties die activiteiten uitoefenen op het domein van het onthaal en de integratie van inwijkelingen, het medisch schooltoezicht en de medisch verantwoorde sportbeoefening;<br>
 4° initiatiefnemers: gemeenten, openbare centra voor maatschappelijk welzijn, verenigingen van gemeenten of van openbare centra voor maatschappelijk welzijn, publiekrechtelijke of privaatrechtelijke rechtspersonen die in Vlaams-Brabant een activiteit uitoefenen of in de toekomst een activiteit willen uitoefenen op het domein van de aangelegenheden, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, waarvoor de Vlaamse Gemeenschap bevoegd is, en van de aangelegenheden, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van de organisaties die activiteiten uitoefenen op het domein van het onthaal en de integratie van inwijkelingen, het medisch schooltoezicht en de medisch verantwoorde sportbeoefening, of publiekrechtelijke of privaatrechtelijke rechtspersonen die voor investeringen in zorginfrastructuur samenwerken met een welzijns- of gezondheidsvoorziening als vermeld in punt 3° ;<br>
 5° sector: een aangelegenheid als vermeld in punt 3°, of een onderdeel ervan.<br>
-6° VMSW: de Vlaamse Maatschappij voor Sociaal Wonen, opgericht bij artikel 30 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.
+6° VMSW: de Vlaamse Maatschappij voor Sociaal Wonen, opgericht bij artikel 4.7 van de Vlaamse Codex Wonen van 2021.
 
 ## [HOOFDSTUK 2 Opdracht van bevoegdheid voor het voeren van een specifiek grond- en woonbeleid en een specifiek welzijns- en gezondheidsinfrastructuurbeleid (verv. decr. 22 december 2017, art. 5, I: 1 januari 2018)]
 
@@ -26,7 +26,7 @@ Die bevoegdheid omvat in het bijzonder :<br>
 1° het voeren van een grondbeleid en het realiseren van woonprojecten met een sociaal karakter in de gemeenten van de provincie Vlaams-Brabant;<br>
 2° de uitbouw van voorzieningen die noodzakelijk worden geacht om het Vlaamse karakter en een hoogwaardige woonkwaliteit in deze regio te behouden of te bevorderen.</p>
 
-<p>Een woonproject met sociaal karakter als vermeld in het tweede lid, 1°, is een woonproject als bedoeld in artikel 42bis van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.</p>
+<p>Een woonproject met sociaal karakter als vermeld in het tweede lid, 1°, is een woonproject als bedoeld in artikel 4.41 van de Vlaamse Codex Wonen van 2021.</p>
 
 ### ART 3/1.
 
@@ -78,7 +78,7 @@ De VMSW vult het subsidiebedrag, vermeld in het eerste lid, aan met de winsten d
 
 ### ART 7/1.
 
-De interesten, vermeld in artikel 19, tweede lid, van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992 worden door Vlabinvest apb geboekt in het intern financieringsfonds Wonen.
+De interesten, vermeld in artikel 5.15 van de Vlaamse Codex Wonen van 2021 worden door Vlabinvest apb geboekt in het intern financieringsfonds Wonen.
 
 ### ART 7/2.
 
