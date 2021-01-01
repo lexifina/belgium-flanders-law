@@ -58,6 +58,12 @@ In artikel 8, § 2, van hetzelfde besluit, gewijzigd bij de besluiten van de Vla
 
 In artikel 10, § 2, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 4 april 2014, wordt het tweede lid opgeheven.
 
+### ART 10.
+
+De volgende regelingen worden opgeheven:<br>
+1° het besluit van de Vlaamse regering van 22 juni 2001 tot bepaling van de voorwaarden voor de toekenning van subsidies aan gemeenten voor de opmaak van het eerste vergunningenregister en het eerste plannenregister, gewijzigd bij de besluiten van de Vlaamse Regering van 23 juni 2006, 1 februari 2008, 9 september 2011 en 24 februari 2017;<br>
+2° het besluit van de Vlaamse Regering van 4 april 2014 houdende de digitalisering van het ruimtelijke vergunningenbeleid, gewijzigd bij het besluit van de Vlaamse Regering van 24 februari 2017.
+
 ### ART 11.
 
 Gemeenten waarvoor de gemeenteraad uiterlijk op 31 december 2020 overgaat tot de vaststelling van het eerste plannenregister, komen in aanmerking voor subsidiëring met toepassing van het besluit van de Vlaamse Regering van 22 juni 2001 tot bepaling van de voorwaarden voor de toekenning van subsidies aan gemeenten voor de opmaak van het eerste vergunningenregister en het eerste plannenregister, zoals van kracht op 31 december 2020.
