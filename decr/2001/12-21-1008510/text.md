@@ -206,81 +206,83 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 ### ART. 41.
 
-§ 1. Er wordt een Fonds voor Flankerend Economisch en Innovatiebeleid opgericht, hierna te noemen het Hermesfonds.<br>
+§ 1. Er wordt een Fonds voor Innoveren en Ondernemen opgericht.<br>
 <br>
-Het Hermesfonds wordt ingesteld bij het Agentschap Innoveren en&nbsp;Ondernemen.<br>
+Het Fonds voor Innoveren en Ondernemen wordt ingesteld bij het Agentschap Innoveren en&nbsp;Ondernemen.<br>
 <br>
-§ 2. Het Hermesfonds heeft rechtspersoonlijkheid. De bepalingen van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut, die van toepassing zijn op de instellingen van categorie A zijn op het Hermesfonds van toepassing voor- zover er in dit decreet niet wordt van afgeweken.<br>
+§ 2. Het Fonds voor Innoveren en Ondernemen heeft rechtspersoonlijkheid. De bepalingen van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut, die van toepassing zijn op de instellingen van categorie A zijn op het Fonds voor Innoveren en Ondernemen van toepassing voor- zover er in dit decreet niet wordt van afgeweken.<br>
 <br>
-§ 3. De financiële middelen van het Hermesfonds zijn :<br>
+§ 3. De financiële middelen van het Fonds voor Innoveren en Ondernemen zijn :<br>
 1° een jaarlijkse dotatie ten laste van de algemene uitgavenbegroting van het Vlaamse Gewest of de Vlaamse Gemeenschap;<br>
 2° financiële, personele of materiële ondersteuning door openbare besturen of door internationale of supranationale organisaties of organen;<br>
 3° tegemoetkomingen van de europese Unie in uitgaven met betrekking tot de tenuitvoerlegging van europese programma's;<br>
 4° leningen, na machtiging door de Vlaamse Regering;<br>
-5° de terugbetaling van sommen die voortvloeien uit de uitvoering van de taken van het Hermesfonds;<br>
-6° ontvangsten die voortvloeien uit daden van beheer of beschikking met betrekking tot het eigen patrimonium of intellectuele rechten waarvan het Hermesfonds de titularis is;<br>
+5° de terugbetaling van sommen die voortvloeien uit de uitvoering van de taken van het Fonds voor Innoveren en Ondernemen;<br>
+6° ontvangsten die voortvloeien uit daden van beheer of beschikking met betrekking tot het eigen patrimonium of intellectuele rechten waarvan het Fonds voor Innoveren en Ondernemen de titularis is;<br>
 7° toevallige ontvangsten, met inbegrip van schenkingen, legaten en de opbrengst van sponsoring;<br>
-8° alle inkomsten die voortvloeien uit diensten die door het Hermesfonds aan derden worden verstrekt tegen betaling;<br>
-9° inkomsten uit eigen participaties, met inbegrip van de verkoop ervan, en uit door het Hermesfonds verstrekte kredieten aan derden;<br>
-10° subsidies waarvoor het Hermesfonds als begunstigde in aanmerking komt;<br>
+8° alle inkomsten die voortvloeien uit diensten die door het Fonds voor Innoveren en Ondernemen aan derden worden verstrekt tegen betaling;<br>
+9° inkomsten uit eigen participaties, met inbegrip van de verkoop ervan, en uit door het Fonds voor Innoveren en Ondernemen verstrekte kredieten aan derden;<br>
+10° subsidies waarvoor het Fonds voor Innoveren en Ondernemen als begunstigde in aanmerking komt;<br>
 11° inkomsten uit beleggingen;<br>
-12° andere inkomsten in het kader van de taken van het Hermesfonds;<br>
+12° andere inkomsten in het kader van de taken van het Fonds voor Innoveren en Ondernemen;<br>
 13° inkomsten uit de terbeschikkingstelling aan derden, tegen betaling, van overheidsinformatie die zich tot een dergelijke terbeschikkingstelling leent;<br>
-14° het eventuele saldo op het einde van het voorgaande begrotingsjaar op het Hermesfonds;<br>
+14° het eventuele saldo op het einde van het voorgaande begrotingsjaar op het Fonds voor Innoveren en Ondernemen;<br>
 15° andere inkomsten, na goedkeuring door de Vlaamse minister, bevoegd voor de economie en het technologisch innovatiebeleid, en de Vlaamse minister, bevoegd voor de financiën en de begrotingen.<br>
 <br>
-§ 3bis. Het Hermesfonds neemt de vermogensbestanddelen, rechten en plichten, van het Vlaams Agentschap Ondernemen die in uitvoering van artikel 3 van het decreet van 19 december 2008 houdende diverse maatregelen inzake de ontbinding van het Vlaams Agentschap Ondernemen en houdende de inrichting van een comité voor preventief bedrijfsbeleid door de Vlaamse Regering worden toegewezen aan het Hermesfonds, over.<br>
+§ 3bis. Het Fonds voor Innoveren en Ondernemen neemt de vermogensbestanddelen, rechten en plichten, van het Vlaams Agentschap Ondernemen die in uitvoering van artikel 3 van het decreet van 19 december 2008 houdende diverse maatregelen inzake de ontbinding van het Vlaams Agentschap Ondernemen en houdende de inrichting van een comité voor preventief bedrijfsbeleid door de Vlaamse Regering worden toegewezen aan het Fonds voor Innoveren en Ondernemen, over.<br>
 <br>
-Het Hermesfonds neemt ook het vermogen, de rechten en plichten en de activiteiten van het Agentschap voor Innovatie door Wetenschap en Technologie, vermeld in artikel 3 van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid, over die ter uitvoering van artikel 4 van het decreet van 20 november 2015 houdende diverse maatregelen inzake de herstructurering van de agentschappen van het beleidsdomein Economie, Wetenschap en Innovatie door de Vlaamse Regering worden toegewezen aan het Hermesfonds<br>
+Het Fonds voor Innoveren en Ondernemen neemt ook het vermogen, de rechten en plichten en de activiteiten van het Agentschap voor Innovatie door Wetenschap en Technologie, vermeld in artikel 3 van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid, over die ter uitvoering van artikel 4 van het decreet van 20 november 2015 houdende diverse maatregelen inzake de herstructurering van de agentschappen van het beleidsdomein Economie, Wetenschap en Innovatie door de Vlaamse Regering worden toegewezen aan het Fonds voor Innoveren en Ondernemen.<br>
 <br>
-De middelen die voortvloeien uit de overgedragen rechten en plichten worden gevoegd bij het vermogen van het Hermesfonds.<br>
+Het Fonds voor Innoveren en Ondernemen neemt ook het vermogen, de rechten en plichten en de activiteiten van het publiekrechtelijk vormgegeven extern verzelfstandigd Agentschap Vlaams Agentschap voor ondernemingsvorming - Syntra Vlaanderen, vermeld in artikel 3 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen", over die ter uitvoering van artikel 3 van het decreet van 19 juni 2020 tot opheffing van het publiekrechtelijk vormgegeven extern verzelfstandigd Agentschap "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen", tot regeling van de taken en bevoegdheden en tot wijziging van de naam "Hermesfonds" worden toegewezen aan het Fonds voor Innoveren en Ondernemen.<br>
 <br>
-§ 3ter. Het Hermesfonds wordt gemachtigd om een reservefonds aan te leggen.<br>
+De middelen die voortvloeien uit de overgedragen rechten en plichten worden gevoegd bij het vermogen van het Fonds voor Innoveren en Ondernemen.<br>
+<br>
+§ 3ter. Het Fonds voor Innoveren en Ondernemen wordt gemachtigd om een reservefonds aan te leggen.<br>
 <br>
 De middelen in het reservefonds mogen worden aangewend voor :<br>
-1° de taken die krachtens dit decreet aan het Hermesfonds zijn opgedragen of die door de Vlaamse Regering aan het Hermesfonds of aan het Agentschap Ondernemen worden gegeven;<br>
-2° het verwerven en beheren van patrimonium dat wordt aangewend voor de realisatie van de taken die krachtens dit decreet aan het Hermesfonds zijn opgedragen of die door de Vlaamse Regering aan het Hermesfonds of aan het Agentschap Ondernemen worden gegeven.<br>
+1° de taken die krachtens dit decreet aan het Fonds voor Innoveren en Ondernemen zijn opgedragen of die door de Vlaamse Regering aan het Fonds voor Innoveren en Ondernemen of aan het Agentschap Ondernemen worden gegeven;<br>
+2° het verwerven en beheren van patrimonium dat wordt aangewend voor de realisatie van de taken die krachtens dit decreet aan het Fonds voor Innoveren en Ondernemen zijn opgedragen of die door de Vlaamse Regering aan het Fonds voor Innoveren en Ondernemen of aan het Agentschap Ondernemen worden gegeven.<br>
 <br>
 Het reservefonds wordt gestijfd door :<br>
-1° de middelen die aan het Hermesfonds worden overgedragen ter uitvoering van § 3bis ;<br>
+1° de middelen die aan het Fonds voor Innoveren en Ondernemen worden overgedragen ter uitvoering van § 3bis ;<br>
 2° de intresten of andere inkomsten uit de middelen, vermeld in punt 1°.<br>
 <br>
-§ 4. Het Hermesfonds neemt de uitgaven voor zijn rekening die voortvloeien uit :<br>
+§ 4. Het Fonds voor Innoveren en Ondernemen neemt de uitgaven voor zijn rekening die voortvloeien uit :<br>
 1° de toepassing van de wettelijke en decretale en overige reglementaire bepalingen met betrekking tot het economisch ondersteuningsbeleid en het innovatiebeleid;<br>
 2° de studies in verband met het economisch ondersteuningsbeleid en het innovatiebeleid;<br>
-3° de Vlaamse cofinanciering in de uitgaven van europese programma's die aansluiten bij de doelstellingen van het Hermesfonds en het Agentschap Innoveren en Ondernemen;<br>
+3° de Vlaamse cofinanciering in de uitgaven van europese programma's die aansluiten bij de doelstellingen van het Fonds voor Innoveren en Ondernemen en het Agentschap Innoveren en Ondernemen;<br>
 4° de bijdragen aan de werking van nationale en internationale organisaties die actief zijn op het vlak van economische ontwikkeling of innovatiebeleid;<br>
-5° elke andere uitgave die past in het sociaal, economisch, innovatie-, ruimtelijk economisch en handelsvestigingenbeleid van de Vlaamse Regering.<br>
+5° elke andere uitgave die past in het sociaal, economisch, ondernemersvormings-, innovatie-, ruimtelijk economisch, handelsvestigingen- en ondernemingsbeleid van de Vlaamse Regering.<br>
 <br>
-§ 5. De Vlaamse regering beschikt over de kredieten van het Hermesfonds voor al wat dienen kan in het raam van het sociaal, economisch, innovatie-, ruimtelijk economisch, handelsvestigingen- en ondernemingsbeleid.<br>
+§ 5. De Vlaamse regering beschikt over de kredieten van het Fonds voor Innoveren en Ondernemen voor al wat dienen kan in het raam van het sociaal, economisch, ondernemersvormings-, innovatie-, ruimtelijk economisch, handelsvestigingen- en ondernemingsbeleid.<br>
 <br>
-§ 6. Het Hermesfonds neemt de op 31 december 2001 uitstaande rechten en plichten ten laste van het Fonds voor de Economische Expansie en Regionale Reconversie - Grote Ondernemingen en ten laste van het Fonds voor de Economische Expansie en Regionale Reconversie - Kleine Ondernemingen over.<br>
+§ 6. Het Fonds voor Innoveren en Ondernemen neemt de op 31 december 2001 uitstaande rechten en plichten ten laste van het Fonds voor de Economische Expansie en Regionale Reconversie - Grote Ondernemingen en ten laste van het Fonds voor de Economische Expansie en Regionale Reconversie - Kleine Ondernemingen over.<br>
 <br>
-De middelen die voortvloeien uit de overgedragen rechten en plichten, worden bij de financiële middelen van het Hermesfonds gevoegd.<br>
+De middelen die voortvloeien uit de overgedragen rechten en plichten, worden bij de financiële middelen van het Fonds voor Innoveren en Ondernemen gevoegd.<br>
 <br>
-De op 31 december 2001 beschikbare saldi van het Fonds voor de Economische Expansie en Regionale Reconversie - Grote Ondernemingen en het Fonds voor de Economische Expansie en Regionale Reconversie - Kleine Ondernemingen worden overgedragen aan het Hermesfonds.<br>
+De op 31 december 2001 beschikbare saldi van het Fonds voor de Economische Expansie en Regionale Reconversie - Grote Ondernemingen en het Fonds voor de Economische Expansie en Regionale Reconversie - Kleine Ondernemingen worden overgedragen aan het Fonds voor Innoveren en Ondernemen.<br>
 <br>
-§ 7. Het vastgestelde verschil in de jaarrekening van het Hermesfonds tussen het gecumuleerde bedrijfsresultaat en het gecumuleerde budgettaire resultaat wordt op 1 januari 2016 door een correctieboeking weggewerkt.<br>
+§ 7. Het vastgestelde verschil in de jaarrekening van het Fonds voor Innoveren en Ondernemen tussen het gecumuleerde bedrijfsresultaat en het gecumuleerde budgettaire resultaat wordt op 1 januari 2016 door een correctieboeking weggewerkt.<br>
 <br>
 De Vlaamse Regering kan de nodige maatregelen nemen om deze bepaling uit te voeren.<br>
 <br>
 § 8. ...<br>
 <br>
-§ 9. De Vlaamse Regering regelt de werking en het beheer van het Hermesfonds. Ze stelt de nodige diensten, uitrusting, installaties en personeelsleden van haar diensten ter beschikking van het Hermesfonds en kan, overeenkomstig de ter zake geldende algemene beginselen, sommige van haar bevoegdheden delegeren aan de leidend ambtenaar die zij daartoe aanwijst.<br>
+§ 9. De Vlaamse Regering regelt de werking en het beheer van het Fonds voor Innoveren en Ondernemen. Ze stelt de nodige diensten, uitrusting, installaties en personeelsleden van haar diensten ter beschikking van het Fonds voor Innoveren en Ondernemen en kan, overeenkomstig de ter zake geldende algemene beginselen, sommige van haar bevoegdheden delegeren aan de leidend ambtenaar die zij daartoe aanwijst.<br>
 <br>
 § 10. (niet opgenomen)<br>
 <br>
 (Heft de artikelen 1 en 2 van het decreet van 21 december 1990 houdende begrotingstechnische bepalingen alsmede de bepalingen tot begeleiding van de begroting 1991 op)<br>
 <br>
-§ 11. Het Hermesfonds neemt de op 31 december 2015 uitstaande vorderingen, verbintenissen en verplichtingen over van het Fonds voor de verwerving, het beheer en de vervreemding van onroerende goederen, opgericht bij het decreet van 18 december 2009 houdende bepalingen tot begeleiding van de begroting 2010.
+§ 11. Het Fonds voor Innoveren en Ondernemen neemt de op 31 december 2015 uitstaande vorderingen, verbintenissen en verplichtingen over van het Fonds voor de verwerving, het beheer en de vervreemding van onroerende goederen, opgericht bij het decreet van 18 december 2009 houdende bepalingen tot begeleiding van de begroting 2010.
 
 ### ART. 41bis.
 
-Het Hermesfonds kan voor de verwezenlijking van zijn doel contracten sluiten in het raam van een aanneming, onderaanneming, tijdelijke vereniging, consortium, en alle andere geschikt bevonden samenwerkingsverbanden, roerende en onroerende goederen verwerven en vervreemden en in het algemeen alle nuttige rechtshandelingen stellen.
+Het Fonds voor Innoveren en Ondernemen kan voor de verwezenlijking van zijn doel contracten sluiten in het raam van een aanneming, onderaanneming, tijdelijke vereniging, consortium, en alle andere geschikt bevonden samenwerkingsverbanden, roerende en onroerende goederen verwerven en vervreemden en in het algemeen alle nuttige rechtshandelingen stellen.
 
 ### ART. 41ter.
 
-§ 1. Bij het Hermesfonds wordt een beslissingscomité opgericht dat bestaat uit twaalf stemgerechtigde leden, natuurlijke personen, waaronder een voorzitter.<br>
+§ 1. Bij het Fonds voor Innoveren en Ondernemen wordt een beslissingscomité opgericht dat bestaat uit twaalf stemgerechtigde leden, natuurlijke personen, waaronder een voorzitter.<br>
 <br>
 § 2. De Vlaamse Regering kan steun verlenen aan projecten ter bevordering van de economie of de innovatie :<br>
 1° aan ondernemingen onder de voorwaarden, vermeld in dit decreet, de van toepassing zijnde europese regelgeving inzake staatssteun en de uitvoeringsbesluiten;<br>
@@ -306,75 +308,75 @@ Er kan op basis van een steunregeling als vermeld in dit decreet pas steun toege
 <br>
 Binnen de grenzen bepaald door de Vlaamse Regering staat het beslissingscomité in voor de beslissing over het uitschrijven en bepalen van nadere modaliteiten en criteria van de programma's of combinaties van programma's, de volledige beoordeling en toekenning van de steun en de opvolging ervan.<br>
 <br>
-De Vlaamse Regering bepaalt welke instrumenten met betrekking tot de steunverlening tot de bevoegdheid van het beslissingscomité bij het Hermesfonds behoren.<br>
+De Vlaamse Regering bepaalt welke instrumenten met betrekking tot de steunverlening tot de bevoegdheid van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen behoren.<br>
 <br>
-Het beslissingscomité bij het Hermesfonds is ervoor bevoegd om een beslissing over de toekenning van steun te nemen, ongeacht het bedrag van de toe te kennen steun.<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen is ervoor bevoegd om een beslissing over de toekenning van steun te nemen, ongeacht het bedrag van de toe te kennen steun.<br>
 <br>
-§ 3. De Vlaamse Regering benoemt de leden van het beslissingscomité bij het Hermesfonds :<br>
+§ 3. De Vlaamse Regering benoemt de leden van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen :<br>
 1° twee leden worden aangesteld op voordracht van de Vlaamse Interuniversitaire Raad, vermeld in artikel II.40 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
 2° één lid wordt aangesteld uit een dubbeltal dat voorgedragen is door de Vlaamse Hogescholenraad (VLHORA);<br>
 3° één lid wordt aangesteld uit een dubbeltal, gezamenlijk voorgedragen door de Strategische Onderzoekscentra, erkend overeenkomstig artikel 29 van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid, gewijzigd bij de decreten van 21 december 2012 en 25 april 2014;<br>
 4° vier leden worden aangesteld uit een dubbeltal, voorgedragen door de organisaties die vertegenwoordigd zijn in de Sociaal-Economische Raad van Vlaanderen;<br>
 5° vier leden uit het bedrijfsleven, die vertrouwd zijn met het economisch en het innovatiebeleid.<br>
 <br>
-De leden van het beslissingscomité bij het Hermesfonds worden onder de personen, vermeld in paragraaf 3, door de Vlaamse Regering benoemd voor een hernieuwbare termijn van vijf jaar.<br>
+De leden van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen worden onder de personen, vermeld in paragraaf 3, door de Vlaamse Regering benoemd voor een hernieuwbare termijn van vijf jaar.<br>
 <br>
 De termijn van vijf jaar, vermeld in het tweede lid, vangt aan zes maanden na de beëdiging van een nieuwe Vlaamse Regering na algehele vernieuwing van het Vlaams Parlement. Als tussen de beëindiging van twee opeenvolgende regeringen minder of meer dan vijf jaar is verlopen, wordt die termijn overeenkomstig aangepast.<br>
 <br>
-Als in de loop van de termijn een mandaat van lid van het beslissingscomité bij het Hermesfonds vrijkomt, stelt de Vlaamse Regering een nieuwe mandataris aan die het mandaat overneemt voor de nog resterende looptijd ervan. In voorkomend geval wordt het mandaat van al de zittende leden van het beslissingscomité bij het Hermesfonds van rechtswege verlengd tot wanneer de Vlaamse Regering bij het verstrijken van de termijn de leden van het beslissingscomité bij het Hermesfonds heeft aangesteld.<br>
+Als in de loop van de termijn een mandaat van lid van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen vrijkomt, stelt de Vlaamse Regering een nieuwe mandataris aan die het mandaat overneemt voor de nog resterende looptijd ervan. In voorkomend geval wordt het mandaat van al de zittende leden van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen van rechtswege verlengd tot wanneer de Vlaamse Regering bij het verstrijken van de termijn de leden van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen heeft aangesteld.<br>
 <br>
-De uittredende leden van het beslissingscomité bij het Hermesfonds zijn herbenoembaar.<br>
+De uittredende leden van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen zijn herbenoembaar.<br>
 <br>
-De secretaris-generaal van het Fonds voor Wetenschappelijk Onderzoek, vermeld in artikel 15 van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid, en de secretaris-generaal van het Departement Economie, Wetenschap en Innovatie wonen de vergaderingen van het beslissingscomité bij het Hermesfonds bij met raadgevende stem.<br>
+De secretaris-generaal van het Fonds voor Wetenschappelijk Onderzoek, vermeld in artikel 15 van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid, en de secretaris-generaal van het Departement Economie, Wetenschap en Innovatie wonen de vergaderingen van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen bij met raadgevende stem.<br>
 <br>
-§ 4. Onder voorbehoud van eventuele andere onverenigbaarheden is het mandaat van lid van het beslissingscomité bij het Hermesfonds onverenigbaar met :<br>
+§ 4. Onder voorbehoud van eventuele andere onverenigbaarheden is het mandaat van lid van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen onverenigbaar met :<br>
 1° een mandaat in het europees Parlement, de Kamer van Volksvertegenwoordigers, de Senaat, het Vlaams Parlement en het Brussels Hoofdstedelijk Parlement;<br>
 2° het ambt van minister of staatssecretaris en de hoedanigheid van kabinetslid van een Vlaams minister;<br>
 3° het ambt van personeelslid van het Agentschap Innoveren en Ondernemen.<br>
 <br>
 Als een lid niet voldoet aan de voorwaarden, vermeld in het eerste lid, beschikt hij over een termijn van drie maanden om de mandaten of functies die tot de onverenigbaarheid aanleiding geven, neer te leggen.<br>
 <br>
-Als het lid nalaat de onverenigbare mandaten of functies neer te leggen, wordt hij na afloop van de termijn, vermeld in het tweede lid, van rechtswege geacht zijn mandaat in het beslissingscomité bij het Hermesfonds te hebben neergelegd, zonder dat dit afbreuk doet aan de rechtsgeldigheid van de handelingen die hij inmiddels heeft gesteld of van de beraadslagingen waaraan hij inmiddels heeft deelgenomen. Hij wordt vervangen conform paragraaf 3, vierde lid.<br>
+Als het lid nalaat de onverenigbare mandaten of functies neer te leggen, wordt hij na afloop van de termijn, vermeld in het tweede lid, van rechtswege geacht zijn mandaat in het beslissingscomité bij het Fonds voor Innoveren en Ondernemen te hebben neergelegd, zonder dat dit afbreuk doet aan de rechtsgeldigheid van de handelingen die hij inmiddels heeft gesteld of van de beraadslagingen waaraan hij inmiddels heeft deelgenomen. Hij wordt vervangen conform paragraaf 3, vierde lid.<br>
 <br>
-De Vlaamse Regering bepaalt een regeling inzake de vergoeding van de leden van het beslissingscomité bij het Hermesfonds.<br>
+De Vlaamse Regering bepaalt een regeling inzake de vergoeding van de leden van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen.<br>
 <br>
-§ 5. De leden van het beslissingscomité bij het Hermesfonds kunnen op elk moment worden ontslagen door de Vlaamse Regering, al dan niet op voorstel van de instantie die hen heeft voorgedragen, vermeld in paragraaf 3, eerste lid.<br>
+§ 5. De leden van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kunnen op elk moment worden ontslagen door de Vlaamse Regering, al dan niet op voorstel van de instantie die hen heeft voorgedragen, vermeld in paragraaf 3, eerste lid.<br>
 <br>
-§ 6. De Vlaamse Regering wijst onder de leden van het beslissingscomité bij het Hermesfonds een voorzitter aan.<br>
+§ 6. De Vlaamse Regering wijst onder de leden van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen een voorzitter aan.<br>
 <br>
-Het hoofd van het Agentschap Innoveren en Ondernemen is van rechtswege de secretaris van het beslissingscomité bij het Hermesfonds.<br>
+Het hoofd van het Agentschap Innoveren en Ondernemen is van rechtswege de secretaris van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen.<br>
 <br>
-§ 7. De secretaris van het beslissingscomité, vermeld in paragraaf 6, tweede lid, neemt deel aan alle vergaderingen van het beslissingscomité. De secretaris verzorgt de oproepingsagenda, alsook de voorbereiding van de vergaderingen van het beslissingscomité. De secretaris staat ook in voor het opstellen van de notulen van het beslissingscomité. De secretaris kan zich laten vervangen volgens de regels vastgelegd in het huishoudelijk reglement, vermeld in paragraaf 9. De secretaris van het beslissingscomité bij het Hermesfonds vertegenwoordigt het Hermesfonds in en buiten rechte.<br>
+§ 7. De secretaris van het beslissingscomité, vermeld in paragraaf 6, tweede lid, neemt deel aan alle vergaderingen van het beslissingscomité. De secretaris verzorgt de oproepingsagenda, alsook de voorbereiding van de vergaderingen van het beslissingscomité. De secretaris staat ook in voor het opstellen van de notulen van het beslissingscomité. De secretaris kan zich laten vervangen volgens de regels vastgelegd in het huishoudelijk reglement, vermeld in paragraaf 9. De secretaris van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen vertegenwoordigt het Fonds voor Innoveren en Ondernemen in en buiten rechte.<br>
 <br>
-§ 8. Het beslissingscomité bij het Hermesfonds kan bevoegdheden delegeren aan het hoofd van het Agentschap Innoveren en Ondernemen, dit alles met mogelijkheid van verdere delegatie door de leidend ambtenaar.<br>
+§ 8. Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan bevoegdheden delegeren aan het hoofd van het Agentschap Innoveren en Ondernemen, dit alles met mogelijkheid van verdere delegatie door de leidend ambtenaar.<br>
 <br>
 De Vlaamse Regering legt de hoogte van het bedrag vast waarboven beslissingen over individuele steundossiers niet kunnen worden gedelegeerd.<br>
 <br>
-§ 9. Het beslissingscomité bij het Hermesfonds stelt, met inachtneming van dit decreet en de uitvoeringsbesluiten ervan, een huishoudelijk reglement op waarin het zijn werkwijze nader regelt.<br>
+§ 9. Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen stelt, met inachtneming van dit decreet en de uitvoeringsbesluiten ervan, een huishoudelijk reglement op waarin het zijn werkwijze nader regelt.<br>
 <br>
 Het huishoudelijk reglement regelt in elk geval :<br>
-1° de frequentie en de wijze van bijeenroeping van de vergaderingen van het beslissingscomité bij het Hermesfonds;<br>
-2° de inhoud van de oproeping tot de vergaderingen van het beslissingscomité bij het Hermesfonds;<br>
-3° het aanwezigheidsquorum dat geldt opdat het beslissingscomité bij het Hermesfonds geldig kan beraadslagen;<br>
-4° het gebruik van volmachten als een lid van het beslissingscomité bij het Hermesfonds verhinderd is om deel te nemen aan een vergadering van het beslissingscomité;<br>
-5° het meerderheidsquorum dat geldt opdat het beslissingscomité bij het Hermesfonds geldig beslissingen kan nemen;<br>
-6° de wijze waarop genotuleerd wordt tijdens de vergaderingen van het beslissingscomité bij het Hermesfonds en de wijze waarop de notulen bewaard worden;<br>
-7° de regeling van belangenconflicten die zich kunnen voordoen bij de leden van het beslissingscomité bij het Hermesfonds.<br>
+1° de frequentie en de wijze van bijeenroeping van de vergaderingen van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen;<br>
+2° de inhoud van de oproeping tot de vergaderingen van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen;<br>
+3° het aanwezigheidsquorum dat geldt opdat het beslissingscomité bij het Fonds voor Innoveren en Ondernemen geldig kan beraadslagen;<br>
+4° het gebruik van volmachten als een lid van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen verhinderd is om deel te nemen aan een vergadering van het beslissingscomité;<br>
+5° het meerderheidsquorum dat geldt opdat het beslissingscomité bij het Fonds voor Innoveren en Ondernemen geldig beslissingen kan nemen;<br>
+6° de wijze waarop genotuleerd wordt tijdens de vergaderingen van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen en de wijze waarop de notulen bewaard worden;<br>
+7° de regeling van belangenconflicten die zich kunnen voordoen bij de leden van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen.<br>
 <br>
-Na vaststelling van het huishoudelijk reglement, vermeld in het eerste lid, of na een wijziging ervan, legt het beslissingscomité bij het Hermesfonds het huishoudelijk reglement, respectievelijk de aangebrachte wijziging, ter goedkeuring voor aan de Vlaamse Regering.<br>
+Na vaststelling van het huishoudelijk reglement, vermeld in het eerste lid, of na een wijziging ervan, legt het beslissingscomité bij het Fonds voor Innoveren en Ondernemen het huishoudelijk reglement, respectievelijk de aangebrachte wijziging, ter goedkeuring voor aan de Vlaamse Regering.<br>
 <br>
 De Vlaamse Regering bepaalt de datum van inwerkingtreding van het huishoudelijk reglement.<br>
 <br>
-§ 10. De personeelsleden van het Agentschap Innoveren en Ondernemen, de leden van het beslissingscomité bij het Hermesfonds, de externe deskundigen, alsook alle andere personen die ambtshalve kennis krijgen van een steunaanvraag of opvolging ervan, zijn voor de gegevens van of over bedrijven, organisaties, instellingen of personen over vindingen, innovaties of onderzoeksresultaten, of over hun uitgangspunten of methoden om tot dergelijke vindingen, innovaties of onderzoeksresultaten te komen, alsook de tijdens de behandeling of opvolging van een aanvraag geformuleerde adviezen, ertoe gehouden om ze :<br>
+§ 10. De personeelsleden van het Agentschap Innoveren en Ondernemen, de leden van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen, de externe deskundigen, alsook alle andere personen die ambtshalve kennis krijgen van een steunaanvraag of opvolging ervan, zijn voor de gegevens van of over bedrijven, organisaties, instellingen of personen over vindingen, innovaties of onderzoeksresultaten, of over hun uitgangspunten of methoden om tot dergelijke vindingen, innovaties of onderzoeksresultaten te komen, alsook de tijdens de behandeling of opvolging van een aanvraag geformuleerde adviezen, ertoe gehouden om ze :<br>
 1° strikt vertrouwelijk te behandelen;<br>
 2° alleen mee te delen of te laten meedelen aan derden als dat in het rechtstreekse belang is van de onderneming, de organisatie, de instelling of de persoon die de steunaanvraag doen, of als dat een functioneel onderdeel is van de behandeling van de aanvraag, of van een lopend dossier door het Agentschap Innoveren en Ondernemen;<br>
 3° nooit in eigen voordeel of met het oog op een persoonlijk voordeel te gebruiken of te verspreiden.<br>
 <br>
-De verplichtingen, vermeld in het eerste lid, blijven gelden, ook na het einde van de tewerkstelling bij de Vlaamse overheid of na de aanstelling als lid van het beslissingscomité bij het Hermesfonds of als externe deskundige, of na het einde van de uitoefening van elke andere opdracht op verzoek van het Agentschap Innoveren en Ondernemen.
+De verplichtingen, vermeld in het eerste lid, blijven gelden, ook na het einde van de tewerkstelling bij de Vlaamse overheid of na de aanstelling als lid van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen of als externe deskundige, of na het einde van de uitoefening van elke andere opdracht op verzoek van het Agentschap Innoveren en Ondernemen.
 
 ### ART. 41quater.
 
-§ 1. Het Hermesfonds staat voor de beslissingen die genomen worden door het beslissingscomité bij het Hermesfonds, onder de controlebevoegdheid van de Vlaamse minister onder wie het Agentschap Innoveren en Ondernemen ressorteert. Die controle wordt uitgeoefend door een regeringsafgevaardigde, benoemd en afgezet door de Vlaamse Regering, op voordracht van de Vlaamse minister onder wie het Agentschap Innoveren en Ondernemen ressorteert.<br>
+§ 1. Het Fonds voor Innoveren en Ondernemen staat voor de beslissingen die genomen worden door het beslissingscomité bij het Fonds voor Innoveren en Ondernemen, onder de controlebevoegdheid van de Vlaamse minister onder wie het Agentschap Innoveren en Ondernemen ressorteert. Die controle wordt uitgeoefend door een regeringsafgevaardigde, benoemd en afgezet door de Vlaamse Regering, op voordracht van de Vlaamse minister onder wie het Agentschap Innoveren en Ondernemen ressorteert.<br>
 <br>
 Daarnaast wordt een regeringsafgevaardigde, benoemd en afgezet door de Vlaamse Regering op voordracht van de Vlaamse minister, bevoegd voor de financiën en de begrotingen, met dezelfde controlefunctie als de regeringsafgevaardigde, vermeld in het eerste lid, inzake alle beslissingen met een budgettaire of financiële weerslag.<br>
 <br>
@@ -386,27 +388,27 @@ De Vlaamse Regering kan regels vaststellen voor de uitvoering van de opdrachten,
 <br>
 § 2. De regeringsafgevaardigden waken over de naleving van de wetgeving.<br>
 <br>
-§ 3. De regeringsafgevaardigden worden uitgenodigd om alle vergaderingen van het beslissingscomité bij het Hermesfonds bij te wonen en hebben er een raadgevende stem. De regeringsafgevaardigden ontvangen de volledige agenda van de vergaderingen waarop zij worden uitgenodigd, alsook elk bijbehorend document, uiterlijk vijf werkdagen vóór de datum van de vergaderingen, behalve in geval van met redenen omklede buitengewone omstandigheden. De regeringsafgevaardigden ontvangen de notulen van de vergaderingen van het beslissingscomité bij het Hermesfonds.<br>
+§ 3. De regeringsafgevaardigden worden uitgenodigd om alle vergaderingen van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen bij te wonen en hebben er een raadgevende stem. De regeringsafgevaardigden ontvangen de volledige agenda van de vergaderingen waarop zij worden uitgenodigd, alsook elk bijbehorend document, uiterlijk vijf werkdagen vóór de datum van de vergaderingen, behalve in geval van met redenen omklede buitengewone omstandigheden. De regeringsafgevaardigden ontvangen de notulen van de vergaderingen van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen.<br>
 <br>
-De regeringsafgevaardigden kunnen op elk moment ter plaatse inzage nemen van de boeken, brieven, notulen en, in het algemeen, van alle documenten en geschriften van het Hermesfonds. De regeringsafgevaardigden kunnen van de leden van het beslissingscomité bij het Hermesfonds alle verduidelijkingen en inlichtingen vorderen en alle verificaties verrichten die zij nodig achten voor de uitvoering van hun mandaat.<br>
+De regeringsafgevaardigden kunnen op elk moment ter plaatse inzage nemen van de boeken, brieven, notulen en, in het algemeen, van alle documenten en geschriften van het Fonds voor Innoveren en Ondernemen. De regeringsafgevaardigden kunnen van de leden van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen alle verduidelijkingen en inlichtingen vorderen en alle verificaties verrichten die zij nodig achten voor de uitvoering van hun mandaat.<br>
 <br>
-§ 4. Een regeringsafgevaardigde kan binnen een termijn van vier werkdagen beroep aantekenen bij de Vlaamse minister op wiens voordracht hij is aangesteld tegen elke beslissing van het beslissingscomité bij het Hermesfonds die hij strijdig acht met de wetgeving.<br>
+§ 4. Een regeringsafgevaardigde kan binnen een termijn van vier werkdagen beroep aantekenen bij de Vlaamse minister op wiens voordracht hij is aangesteld tegen elke beslissing van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen die hij strijdig acht met de wetgeving.<br>
 <br>
-De termijn om beroep in te stellen tegen een beslissing van het beslissingscomité bij het Hermesfonds gaat in op de dag van de vergadering waarop de beslissing is genomen, als de regeringsafgevaardigde daarop regelmatig was uitgenodigd, en, in het tegenovergestelde geval, de dag waarop de beslissing aan hem werd betekend of, bij gebrek daaraan, de dag waarop hij van de beslissing kennis heeft gekregen.<br>
+De termijn om beroep in te stellen tegen een beslissing van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen gaat in op de dag van de vergadering waarop de beslissing is genomen, als de regeringsafgevaardigde daarop regelmatig was uitgenodigd, en, in het tegenovergestelde geval, de dag waarop de beslissing aan hem werd betekend of, bij gebrek daaraan, de dag waarop hij van de beslissing kennis heeft gekregen.<br>
 <br>
 Het beroep, vermeld in het eerste lid, is opschortend.<br>
 <br>
-Elk beroep van een regeringsafgevaardigde wordt dezelfde dag met een aangetekende brief meegedeeld aan de secretaris van het beslissingscomité bij het Hermesfonds, vermeld in artikel 41ter, § 6, tweede lid, en aan de Vlaamse minister op wiens voordracht de betreffende regeringsafgevaardigde is aangesteld.<br>
+Elk beroep van een regeringsafgevaardigde wordt dezelfde dag met een aangetekende brief meegedeeld aan de secretaris van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen, vermeld in artikel 41ter, § 6, tweede lid, en aan de Vlaamse minister op wiens voordracht de betreffende regeringsafgevaardigde is aangesteld.<br>
 <br>
-De secretaris van het beslissingscomité bij het Hermesfonds brengt elk beroep binnen een termijn van twee werkdagen vanaf de ontvangst daarvan schriftelijk, met de elektronische post of elk ander telecommunicatiemiddel dat kan resulteren in een schriftelijk stuk aan de kant van de geadresseerde, ter kennis van de voorzitter en de andere leden van het beslissingscomité bij het Hermesfonds.<br>
+De secretaris van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen brengt elk beroep binnen een termijn van twee werkdagen vanaf de ontvangst daarvan schriftelijk, met de elektronische post of elk ander telecommunicatiemiddel dat kan resulteren in een schriftelijk stuk aan de kant van de geadresseerde, ter kennis van de voorzitter en de andere leden van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen.<br>
 <br>
-§ 5. Binnen een termijn van tien werkdagen, die ingaat op dezelfde dag als de termijn, vermeld in paragraaf 4, tweede lid, betekent de Vlaamse minister bij wie het beroep werd ingesteld, aan het beslissingscomité bij het Hermesfonds de nietigverklaring van de beslissing.<br>
+§ 5. Binnen een termijn van tien werkdagen, die ingaat op dezelfde dag als de termijn, vermeld in paragraaf 4, tweede lid, betekent de Vlaamse minister bij wie het beroep werd ingesteld, aan het beslissingscomité bij het Fonds voor Innoveren en Ondernemen de nietigverklaring van de beslissing.<br>
 <br>
 § 6. Elk jaar brengen de regeringsafgevaardigden vóór 1 maart verslag uit bij de Vlaamse minister op wiens voordracht zij zijn aangesteld, over de uitvoering van hun taken.<br>
 <br>
-De Vlaamse Regering stelt jaarlijks een verslag op over de werking en het beheer van het Hermesfonds, alsook over de werking van het beslissingscomité bij het Hermesfonds. Het verslag wordt aan het Vlaams Parlement meegedeeld vóór 30 juni van het daaropvolgende jaar.<br>
+De Vlaamse Regering stelt jaarlijks een verslag op over de werking en het beheer van het Fonds voor Innoveren en Ondernemen, alsook over de werking van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen. Het verslag wordt aan het Vlaams Parlement meegedeeld vóór 30 juni van het daaropvolgende jaar.<br>
 <br>
-§ 7. Als de naleving van de wet dat vereist, kan de Vlaamse minister onder wie het Agentschap Innoveren en Ondernemen ressorteert, of de regeringsafgevaardigden het beslissingscomité bij het Hermesfonds verplichten om, binnen de door hem gestelde termijn, te beraadslagen over iedere door hem bepaalde aangelegenheid, binnen de taken van het beslissingscomité bij het Hermesfonds.<br>
+§ 7. Als de naleving van de wet dat vereist, kan de Vlaamse minister onder wie het Agentschap Innoveren en Ondernemen ressorteert, of de regeringsafgevaardigden het beslissingscomité bij het Fonds voor Innoveren en Ondernemen verplichten om, binnen de door hem gestelde termijn, te beraadslagen over iedere door hem bepaalde aangelegenheid, binnen de taken van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen.<br>
 <br>
 § 8. ....
 

@@ -2,16 +2,16 @@
   "codex_id": 1008510,
   "title": "Decreet van 2001-12-21 houdende bepalingen tot begeleiding van de begroting 2002",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008510/VolledigDocument?datum=2019-04-18",
-  "source_sha256": "7f31fc44e4775281aae60082aad8039283385516bb7b81f74c6bb4ac5465b56e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008510/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "033181d5bedb6253b908c357f206e3ee3698840df24a014f2f5838794f6b8b6c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008510&param=informatie",
-  "as_of": "2019-04-18",
+  "as_of": "2021-01-01",
   "made": "2001-12-21",
   "gazette": "2001-12-29",
   "numac": 2001036491,
   "document_start": "2002-01-01",
   "document_end": null,
-  "in_force": "2019-04-18",
+  "in_force": "2021-01-01",
   "article_versions": 78,
-  "record_form": "consolidated version as in force on 2019-04-18; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
