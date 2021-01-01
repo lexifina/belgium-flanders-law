@@ -365,7 +365,8 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 			2° ondernemerschap<br>
 			3° groei-ondersteuning KMO's en groeibedrijven<br>
 			4° vergroening/klimaat<br>
-			5° ruimtelijke economie</td>
+			5° ruimtelijke economie<br>
+			6° de ondernemersvorming, met inbegrip van de bezoldigde stages in dit kader</td>
 		</tr>
 		<tr>
 			<td>wetenschappelijk onderzoek</td>
@@ -662,7 +663,7 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		<tr>
 			<td>competenties</td>
 			<td>de professionele vorming:<br>
-			1° de beroepsomscholing en -bijscholing, vermeld in artikel 4, 16°, van de bijzondere wet, met inbegrip van de middenstands- en ondernemersopleiding, maar met uitzondering van de land- en tuinbouwvorming<br>
+			1° de beroepsomscholing en -bijscholing, vermeld in artikel 4, 16°, van de bijzondere wet, met uitzondering van de land- en tuinbouwvorming&nbsp;en de ondernemersvorming, inclusief de bezoldigde stages in dit kader<br>
 			2° de beroepsopleiding, de omscholing en de herscholing van mindervaliden, vermeld in artikel 5, § 1, II, 4°, van de bijzondere wet<br>
 			3° de stelsels van alternerend leren, vermeld in artikel 4, 17°, van de bijzondere wet, onverminderd de bevoegdheid van het beleidsdomein Onderwijs en Vorming, vermeld in artikel 7, § 1<br>
 			4° de toekenning van de premies aan de werkgevers en de leerlingen, vermeld in artikel 6, § 1, IX, 7°, d), van de bijzondere wet<br>
@@ -1028,7 +1029,7 @@ De aangelegenheden die bij artikel 3 tot en met 13 aan de verschillende beleidsd
 1° Participatiemaatschappij Vlaanderen;<br>
 2° Limburgse Reconversiemaatschappij;<br>
 3° Vlaamse Participatiemaatschappij;<br>
-3° bis Vlaams Energiebedrijf;<br>
+3° bis ...;<br>
 4° ...;<br>
 5° ...;<br>
 6° Fonds voor Wetenschappelijk Onderzoek-Vlaanderen;<br>
@@ -1080,7 +1081,12 @@ De aangelegenheden die bij artikel 3 tot en met 13 aan de verschillende beleidsd
 
 ### ART. 25.
 
-§ 1. Voor het beleidsdomein Werk en Sociale Economie wordt het Vlaams   Ministerie van Werk en Sociale Economie opgericht, dat bestaat uit het   gelijknamige departement. <BR><BR>§ 2. De agentschappen met   rechtspersoonlijkheid die tot het beleidsdomein Werk en Sociale Economie   behoren, zijn : <BR>1° Vlaamse Dienst voor Arbeidsbemiddeling en   Beroepsopleiding; <BR>2° Vlaams Agentschap voor Ondernemersvorming - Syntra   Vlaanderen; <BR>3° ESF-Agentschap
+§ 1. Voor het beleidsdomein Werk en Sociale Economie wordt het Vlaams Ministerie van Werk en Sociale Economie opgericht, dat bestaat uit het gelijknamige departement.<br>
+<br>
+§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Werk en Sociale Economie behoren, zijn :<br>
+1° Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
+2° ...;<br>
+3° ESF-Agentschap
 
 ### ART. 26.
 
@@ -1117,7 +1123,7 @@ De aangelegenheden die bij artikel 3 tot en met 13 aan de verschillende beleidsd
 § 1. Voor het beleidsdomein Omgeving wordt het Vlaams Ministerie van Omgeving opgericht, dat bestaat uit het gelijknamige departement en vijf agentschappen zonder rechtspersoonlijkheid:<br>
 1° Wonen-Vlaanderen;<br>
 2° Onroerend Erfgoed;<br>
-3° Vlaams Energieagentschap;<br>
+3° het Vlaams Energie- en Klimaatagentschap;<br>
 4° Agentschap voor Natuur en Bos;<br>
 5° Instituut voor Natuur- en Bosonderzoek.<br>
 <br>
@@ -1126,7 +1132,7 @@ De aangelegenheden die bij artikel 3 tot en met 13 aan de verschillende beleidsd
 2° Vlaamse Milieumaatschappij;<br>
 3° Openbare Vlaamse Afvalstoffenmaatschappij;<br>
 4° Vlaamse Landmaatschappij;<br>
-5° ....<br>
+5° het Vlaams Energiebedrijf.<br>
 <br>
 § 3. ....<br>
 <br>
