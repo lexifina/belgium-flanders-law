@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035197,
+  "title": "Ministerieel besluit van 2021-01-26 over de overschrijding van het persoonsvolgend budget of het PAB voor het jaar 2021 als gevolg van COVID-19",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035197/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "171dcd0d12a7d08306e88ea57fad4d929f9f6b24b0942a1d236d0f8976164c69",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035197&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2021-01-26",
+  "gazette": "2021-02-09",
+  "numac": 2021040495,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
