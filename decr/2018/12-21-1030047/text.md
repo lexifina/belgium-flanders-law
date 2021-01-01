@@ -259,6 +259,10 @@ Artikel 3.4.2.0.2 van hetzelfde decreet wordt opgeheven.
 
 In artikel 3.4.2.0.5, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 8 december 2017 en gewijzigd bij het decreet van 18 mei 2018, wordt de zinsnede "vermeld in artikel 2.9.4.2.3, tweede lid, artikel 2.9.4.2.11, § 2, tweede lid, artikel 2.9.4.2.12, § 1, derde lid, artikel 2.9.4.2.13, § 1, tweede lid, artikel 2.9.4.2.14, § 7," vervangen door de zinsnede "vermeld in artikel 2.9.4.2.3, tweede lid, artikel 2.9.4.2.11, § 2, tweede lid, of § 3, tweede lid, artikel 2.9.4.2.12, § 1, tweede lid, of § 2, tweede lid, artikel 2.9.4.2.13, § 1, tweede lid, artikel 2.9.4.2.14, § 5, tweede lid, of § 7,".
 
+### ART 36.
+
+Artikel 3.4.7.0.4 van hetzelfde decreet wordt opgeheven.
+
 ### ART 37.
 
 Artikel 3.4.7.0.5 van hetzelfde decreet wordt opgeheven.
