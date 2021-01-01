@@ -6,7 +6,7 @@
 
 ### ART. 1.
 
-Dit decreet regelt een gewestaangelegenheid.
+Dit decreet regelt een gewestaangelegenheid, met uitzondering van hoofdstuk 6/1, dat een gemeenschapsaangelegenheid regelt.
 
 ### ART. 2.
 
@@ -39,11 +39,17 @@ c) geen kleine onderneming zijn;<br>
 
 ### ART. 4.
 
-De cumulatie van steun, zoals vermeld in artikel 107 van het Verdrag betreffende de Werking van de Europese Unie, ongeacht de bron, hetzij Europees, federaal, Vlaams, provinciaal of gemeentelijk niveau, en in welke vorm ook verleend, met betrekking tot dezelfde investeringen of kosten mag niet tot gevolg hebben dat de geldende Europese maximumsteunplafonds worden overschreden.<br /><br />De Vlaamse Regering kan een verbod van cumulatie van steun voor dezelfde investeringen of kosten opleggen.<br />
+De cumulatie van steun, zoals vermeld in artikel 107 van het Verdrag betreffende de Werking van de Europese Unie, ongeacht de bron, hetzij Europees, federaal, Vlaams, provinciaal of gemeentelijk niveau, en in welke vorm ook verleend, met betrekking tot dezelfde investeringen of kosten mag niet tot gevolg hebben dat de geldende Europese maximumsteunplafonds worden overschreden.<br>
+<br>
+De Vlaamse Regering kan een verbod van cumulatie van steun voor dezelfde investeringen of kosten opleggen.<br>
+<br>
+Dit artikel is niet van toepassing op hoofdstuk 6/1.
 
 ### ART. 5.
 
-Er kan alleen steun worden verleend als die een stimulerend effect heeft. De Vlaamse Regering bepaalt wanneer aan die voorwaarde is voldaan.
+Er kan alleen steun worden verleend als die een stimulerend effect heeft. De Vlaamse Regering bepaalt wanneer aan die voorwaarde is voldaan.<br>
+<br>
+Dit artikel is niet van toepassing op hoofdstuk 6/1.
 
 ## Afdeling 4. Voorwaarden met betrekking tot steun toegekend overeenkomstig hoofdstuk 2 en 3
 
@@ -169,11 +175,82 @@ De steunintensiteit wordt berekend als een percentage van de in aanmerking komen
 
 ## [Afdeling 1. Definities (ing. decr. 19 juni 2020, art. 53, I: 1 januari 2021)]
 
+### ART 26/1.
+
+In dit hoofdstuk wordt verstaan onder departement: het Departement Werk en Sociale Economie, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
+
 ## [Afdeling 2. Toepassingsgebied (ing. decr. 19 juni 2020, art. 55, I: 1 januari 2021)]
+
+### ART 26/2.
+
+§ 1. In dit artikel wordt verstaan onder:<br>
+1° erkend centrum: een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen dat erkend is conform de voorwaarden, vermeld in paragraaf 5;<br>
+2° ondernemerschapstraject: een traject dat voldoet aan de voorwaarden, vermeld in paragraaf 3;<br>
+3° toegewezen traject: een traject dat voldoet aan de voorwaarden, vermeld in paragraaf 4.<br>
+<br>
+§ 2. De Vlaamse Regering kan steun verlenen aan erkende centra voor de uitvoering van ondernemerschapstrajecten en toegewezen trajecten onder de voorwaarden, vermeld in dit decreet en de uitvoeringsbesluiten ervan.<br>
+<br>
+§ 3. Het ondernemerschapstraject, vermeld in paragraaf 2, is een niet-economische dienst van algemeen belang.<br>
+<br>
+Het ondernemerschapstraject voldoet aan elk van de volgende voorwaarden:<br>
+1° het traject leidt naar zelfstandig ondernemerschap, waarin een uitstroom als<br>
+kmo-medewerker mogelijk is;<br>
+2° het traject beantwoordt aan een behoefte op de markt;<br>
+3° het traject is afgestemd op een sectoraal beroepscompetentieprofiel, het generieke ondernemersprofiel of andere regelgeving waarin competentievereisten zijn opgenomen;<br>
+4° het traject verhoogt de kansen op duurzame tewerkstelling en de economische effectiviteit;<br>
+5° het traject wordt niet aangeboden door andere private marktspelers of de toegang wordt belemmerd door specifieke drempels, die de toegang tot de opleiding belemmeren.<br>
+<br>
+De ondernemerschapstrajecten worden alleen door de erkende centra uitgevoerd en kunnen werkplekleren omvatten.<br>
+<br>
+De Vlaamse Regering kan de voorwaarden, vermeld in het eerste tot en met derde lid, verduidelijken en aanvullen.<br>
+<br>
+§ 4. Het toegewezen traject, vermeld in paragraaf 2, is een dienst van algemeen economisch belang waarop de richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende diensten op de interne markt van toepassing is.<br>
+<br>
+Het toegewezen traject heeft als doel de deelnemers sterker in te bedden binnen het ondernemerschap door hen opleidingen aan te bieden of technieken aan te leren om hun ondernemerschapscompetenties te verhogen.<br>
+<br>
+De toegewezen trajecten kunnen uitgevoerd worden door de erkende centra, de professionele en interprofessionele organisaties of andere private of publieke opleidingsverstrekkers.<br>
+<br>
+De Vlaamse Regering kan de voorwaarden, vermeld in het eerste tot en met derde lid, verduidelijken en aanvullen.<br>
+<br>
+§ 5. Een centrum als vermeld in paragraaf 2 kan erkend worden voor het verstrekken van de leertijd, de aanloopstructuuronderdelen, de duale structuuronderdelen en de ondernemerschapstrajecten als het voldoet aan elk van de volgende voorwaarden:<br>
+1° het centrum is opgericht in de vorm van een vereniging zonder winstoogmerk conform het Wetboek van Vennootschappen en Verenigingen;<br>
+2° de algemene vergadering van het centrum is uitsluitend toegankelijk voor alle representatieve middenstands-, zelfstandigenen werkgeversorganisaties die voldoen aan de voorwaarden die de Vlaamse Regering bepaalt;<br>
+3° de statuten zijn voorafgaandelijk door de Vlaamse Regering goedgekeurd conform de voorwaarden die de Vlaamse Regering bepaalt;<br>
+4° het doel van het centrum is:<br>
+a) het organiseren van leertijd, aanloopstructuuronderdelen, duale structuuronderdelen en ondernemerschapstrajecten;<br>
+b) de pedagogische begeleiding van de cursisten die de door het centrum georganiseerde vorming volgen;<br>
+c) het verlenen aan de Vlaamse Regering en aan het Agentschap Innoveren en Ondernemen van de medewerking voor bepaalde verwezenlijkingen op het gebied van de opleiding, vorming en begeleiding, met inbegrip van de innovatie en (product)ontwikkeling;<br>
+d) het sluiten van samenwerkingsakkoorden met of het deelnemen in de andere centra of derden met het oog op het optimaal functioneren van een centrum op zich of van de centra als totaliteit;<br>
+5° het centrum moet in het kader van de leertijd, de aanloopstructuuronderdelen en de duale structuuronderdelen:<br>
+a) de controle door de onderwijsinspectie mogelijk maken;<br>
+b) beantwoorden aan de bepalingen inzake structuur en organisatie van het onderwijs die bij de Codex Secundair Onderwijs, de decreetgeving op het stelsel van leren en werken en de uitvoeringsreglementering expliciet op, naargelang van het geval, de leertijd, de duale structuuronderdelen of de aanloopstructuuronderdelen, georganiseerd door het centrum, toepasbaar zijn gesteld;<br>
+c) een doeltreffend beleid voeren om het rookverbod kenbaar te maken en te handhaven, controle uitoefenen op de naleving van het verbod en overtreders sancties opleggen, conform het eigen sanctiebeleid, vermeld in het centrum of arbeidsreglement;<br>
+d) samenwerkingsafspraken maken met een centrum voor leerlingenbege leiding;<br>
+e) een beleid voor leerlingenbegeleiding voeren.<br>
+<br>
+De Vlaamse Regering kan de voorwaarden, vermeld in het eerste lid, verduidelijken en aanvullen.<br>
+<br>
+De Vlaamse Regering kan, op voorstel van een college, de erkenning voor wat betreft de leertijd van een centrum geleidelijk en volledig of gedeeltelijk opheffen als niet meer wordt voldaan aan de erkenningsvoorwaarden als vermeld in dit artikel. Dat college wordt voor de helft samengesteld uit inspectieleden uit het onderwijs en voor de helft uit inspectieleden van het departement.<br>
+<br>
+De Vlaamse Regering legt de aanvullende bepalingen vast over de werking en de organisatie van dat college, wijst de leden ervan aan en regelt de beroepsprocedure.<br>
+<br>
+De Vlaamse Regering vraagt advies aan de raad van bestuur van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding over het voldoen van een centrum aan de erkenningsvoorwaarden die betrekking hebben op de leertijd.
 
 ## [Afdeling 3. Steun (ing. decr. 19 juni 2020, art. 57, I: 1 januari 2021)]
 
+### ART 26/3.
+
+De Vlaamse Regering bepaalt de vorm van de steun, vermeld in artikel 26/2, § 2.<br>
+<br>
+Het steunbedrag is afhankelijk van de voorwaarden die de Vlaamse Regering bepaalt.
+
 ## [Afdeling 4. Toezicht en sancties (ing. decr. 19 juni 2020, art. 59, I: 1 januari 2021)]
+
+### ART 26/4.
+
+Het departement oefent het toezicht uit op de ondernemerschapstrajecten, vermeld in artikel 26/2, § 2.<br>
+<br>
+De Vlaamse Regering bepaalt de verdere modaliteiten en verdere regels van het toezicht en de sancties.
 
 ## HOOFDSTUK 7. [Innovatiesteun (verv. decr. 20 november 2015, art. 29, I: 10 december 2015)]
 
@@ -255,13 +332,21 @@ De Vlaamse Regering wordt gemachtigd om in uitvoering van de   gemeenschappelijk
 
 ### ART. 38.
 
-De Vlaamse Regering wordt gemachtigd om het decreet aan te passen aan de   toekomstige strengere of soepelere Europese reglementering.<BR><BR>Er kan op   basis van een steunregeling als vermeld in dit decreet, pas steun toegekend   worden na de inwerkingtreding van de desbetreffende   uitvoeringsbesluiten.<BR><BR>De Vlaamse Regering kan op voorwaarde van   aanmelding of kennisgeving bij de Europese Commissie steun verlenen aan   ondernemingen. Die steun is rechtstreeks gebaseerd op respectievelijk artikel   107 van het Verdrag betreffende de Werking van de Europese Unie en de algemene   groepsvrijstellingsverordening, als die steun niet ressorteert onder de   categorieën van steun, vermeld in dit decreet.
+De Vlaamse Regering wordt gemachtigd om het decreet aan te passen aan de toekomstige strengere of soepelere Europese reglementering.<br>
+<br>
+Er kan op basis van een steunregeling als vermeld in dit decreet, pas steun toegekend worden na de inwerkingtreding van de desbetreffende uitvoeringsbesluiten.<br>
+<br>
+De Vlaamse Regering kan op voorwaarde van aanmelding of kennisgeving bij de Europese Commissie steun verlenen aan ondernemingen. Die steun is rechtstreeks gebaseerd op respectievelijk artikel 107 van het Verdrag betreffende de Werking van de Europese Unie en de algemene groepsvrijstellingsverordening, als die steun niet ressorteert onder de categorieën van steun, vermeld in dit decreet.<br>
+<br>
+Dit artikel is niet van toepassing op hoofdstuk 6/1.
 
 ## HOOFDSTUK 14. De uitbetaling van de steun
 
 ### ART. 39.
 
-Met behoud van de toepassing van artikel 15 van de wet van 16 mei 2003 tot   vaststelling van de algemene bepalingen die gelden voor de begrotingen, de   controle op de subsidies en voor de boekhouding van de gemeenschappen en de   gewesten, alsook voor de organisatie van de controle door het Rekenhof zijn de   schuldvorderingen ten aanzien van het Vlaamse Gewest die uit dit decreet en de   uitvoeringsbesluiten ervan voortvloeien, verjaard en voorgoed ten voordele van   het Vlaamse Gewest vervallen als ze niet overgelegd zijn binnen een termijn   van&nbsp;twaalf maanden na de beëindiging van het project.
+Met behoud van de toepassing van artikel 15 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof zijn de schuldvorderingen ten aanzien van het Vlaamse Gewest die uit dit decreet en de uitvoeringsbesluiten ervan voortvloeien, verjaard en voorgoed ten voordele van het Vlaamse Gewest vervallen als ze niet overgelegd zijn binnen een termijn van&nbsp;twaalf maanden na de beëindiging van het project.<br>
+<br>
+Dit artikel is niet van toepassing op hoofdstuk 6/1.
 
 ## HOOFDSTUK 15. Terugvordering
 
@@ -271,7 +356,9 @@ De Vlaamse Regering bepaalt de gevallen van terugvordering met behoud van de toe
 <br>
 De Vlaamse Regering bepaalt de intrestvoet die in geval van terugvordering verschuldigd is.<br>
 <br>
-De Vlaamse Regering bepaalt de termijnen waarbinnen de feiten die aanleiding geven tot terugvordering, zich moeten voordoen, en de termijn waarin ze de steun kan terugvorderen.
+De Vlaamse Regering bepaalt de termijnen waarbinnen de feiten die aanleiding geven tot terugvordering, zich moeten voordoen, en de termijn waarin ze de steun kan terugvorderen.<br>
+<br>
+Dit artikel is niet van toepassing op hoofdstuk 6/1.
 
 ## HOOFDSTUK 16. Slotbepaling
 
