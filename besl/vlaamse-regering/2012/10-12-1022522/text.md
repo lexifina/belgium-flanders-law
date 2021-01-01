@@ -90,7 +90,7 @@ De volgende regelingen worden opgeheven :<BR>1° de decreten inzake   voorzienin
 
 ### ART. 18.
 
-Voor zover de overeenkomst, vermeld in artikel 18 van bijlage XVI bij het   besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de   erkenningsvoorwaarden en de subsidieregels voor woonzorgvoorzieningen en   verenigingen van gebruikers en mantelzorgers, betrekking heeft op het   genotsrecht van de assistentiewoning, wordt ze voor de toepassing van het   besluit van de Vlaamse Regering van 2 februari 2007 tot instelling van een   tegemoetkoming in de huurprijs voor woonbehoeftige huurders gelijkgesteld met   een huurovereenkomst als vermeld in artikel 1, 4°, van dat besluit. Voor de   vaststelling van de maandelijkse huurprijs wordt het gedeelte van de dagprijs,   dat de kosten van het genotsrecht van de assistentiewoning dekt, vermenigvuldigd   met dertig.
+Voor zover de overeenkomst, vermeld in artikel 18 van bijlage XVI bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregels voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, betrekking heeft op het genotsrecht van de assistentiewoning, wordt ze voor de toepassing van <span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">boek 5, deel 5, titel 1, van het Besluit Vlaamse Codex Wonen van 2021, gelijkgesteld met een huurovereenkomst als vermeld in artikel 5.163, eerste lid, 3°, van het voormelde besluit</span></span>. Voor de vaststelling van de maandelijkse huurprijs wordt het gedeelte van de dagprijs, dat de kosten van het genotsrecht van de assistentiewoning dekt, vermenigvuldigd met dertig.
 
 ### ART. 19.
 
