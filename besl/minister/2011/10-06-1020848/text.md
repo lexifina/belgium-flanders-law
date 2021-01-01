@@ -16,19 +16,21 @@ Besluit :
 
 ### ART. 1.
 
-Bijlage 1 bij dit besluit bevat de minimale gegevens die in het digitaal prestatieregister van een SHM, vermeld in artikel 18 van het besluit van de Vlaamse Regering van 22 oktober 2010 tot vaststelling van de aanvullende voorwaarden en de procedure voor de erkenning als sociale huisvestingsmaatschappij en tot vaststelling van de procedure voor de beoordeling van de prestaties van sociale huisvestingsmaatschappijen, moeten worden opgenomen, evenals de frequentie en de wijze waarop de gegevens van het digitaal prestatieregister in de Prestatiedatabank worden overgenomen. Het prestatieregister bevat minstens de gegevens over het jaar dat voorafgaat aan het tijdstip van de data-aanlevering.<br />
+Bijlage 1 bij dit besluit bevat de minimale gegevens die in het digitaal prestatieregister van een SHM, vermeld in artikel 4.112 van het Besluit Vlaamse Codex Wonen van 2021, moeten worden opgenomen, evenals de frequentie en de wijze waarop de gegevens van het digitaal prestatieregister in de Prestatiedatabank worden overgenomen. Het prestatieregister bevat minstens de gegevens over het jaar dat voorafgaat aan het tijdstip van de data-aanlevering.
 
 ### ART. 2.
 
-Bijlage 2 bij dit besluit bevat de minimale gegevens die het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen Vlaanderen met toepassing van artikel 19 van het besluit van de Vlaamse Regering, vermeld in artikel 1, ter beschikking moet stellen van de Prestatiedatabank, evenals de frequentie en de wijze waarop het voornoemde agentschap deze gegevens ter beschikking stelt.
+Bijlage 2 bij dit besluit bevat de minimale gegevens die het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen Vlaanderen met toepassing van artikel 4.113 van het Besluit Vlaamse Codex Wonen van 2021, ter beschikking moet stellen van de Prestatiedatabank, evenals de frequentie en de wijze waarop het voornoemde agentschap deze gegevens ter beschikking stelt.
 
 ### ART. 3.
 
-Bijlage 3 bij dit besluit bevat de minimale gegevens die de VMSW met   toepassing van artikel 19 van het besluit van de Vlaamse Regering, vermeld in   artikel 1, ter beschikking moet stellen van de Prestatiedatabank, evenals de   frequentie en de wijze waarop de VMSW deze gegevens ter beschikking   stelt.<BR><BR>De VMSW kan gebruik maken van de gegevens uit de rapportering,   vermeld in artikel 18, § 1, eerste lid, van het ministerieel besluit van 29   oktober 2010 tot nadere invulling van de regels inzake de indeling van de   verrichtingen in de financiële administratie, de boekhoudkundige waarderings- en   rubriceringsregels, de financiële rapportering aan de Vlaamse overheid en de   boekhoudkundige organisatie van de sociale huisvestingsmaatschappijen.
+Bijlage 3 bij dit besluit bevat de minimale gegevens die de VMSW met toepassing van artikel 4.113 van het Besluit Vlaamse Codex Wonen van 2021, ter beschikking moet stellen van de Prestatiedatabank, evenals de frequentie en de wijze waarop de VMSW deze gegevens ter beschikking stelt.<br>
+<br>
+De VMSW kan gebruik maken van de gegevens uit de rapportering, vermeld in artikel 18, § 1, eerste lid, van het ministerieel besluit van 29 oktober 2010 tot nadere invulling van de regels inzake de indeling van de verrichtingen in de financiële administratie, de boekhoudkundige waarderings- en rubriceringsregels, de financiële rapportering aan de Vlaamse overheid en de boekhoudkundige organisatie van de sociale huisvestingsmaatschappijen.
 
 ### ART. 4.
 
-Bijlage 4 bij dit besluit bevat de minimale gegevens die het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Inspectie RWO met toepassing van artikel 19 van het besluit van de Vlaamse Regering, vermeld in artikel 1, ter beschikking moet stellen van de Prestatiedatabank, evenals de frequentie en de wijze waarop het voornoemde agentschap deze gegevens ter beschikking stelt.
+Bijlage 4 bij dit besluit bevat de minimale gegevens die het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Inspectie RWO met toepassing van artikel 4.113 van het Besluit Vlaamse Codex Wonen van 2021, ter beschikking moet stellen van de Prestatiedatabank, evenals de frequentie en de wijze waarop het voornoemde agentschap deze gegevens ter beschikking stelt.
 
 ### ART. 5.
 
