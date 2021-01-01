@@ -22,85 +22,36 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br>
-1° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams ministerie van Omgeving;<br>
-2° minister : de Vlaamse minister, bevoegd voor woonbeleid;<br>
-3° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br>
-3° /1: Vlabinvest apb: het Agentschap voor Grond- en Woonbeleid voor Vlaams-Brabant;<br>
-4° Vlabinvest-gebied : het werkgebied van Vlabinvest APB, opgericht bij het besluit van de Provincieraad van Vlaams-Brabant van 22 oktober 2013;<br>
-5° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.
+...
 
 ### ART. 2.
 
-§ 1. De VMSW creëert een apart intern financieringsfonds, hierna Rollend Grondfonds genaamd, waarin de financiële stromen voor de verrichtingen in het kader van artikel 33, § 1, derde lid, 6°, van de Vlaamse Wooncode worden geboekt. De VMSW wordt belast met het beheer van het Rollend Grondfonds. <br /><br />Binnen de kredieten die daarvoor op de begroting van de Vlaamse Gemeenschap zijn uitgetrokken, kan de minister een rentesubsidie toekennen aan de VMSW om het Rollend Grondfonds in staat te stellen de taken te realiseren die eraan zijn toevertrouwd. De rentesubsidie dient de financieringskosten te dekken van de leningen aangegaan ter financiering van de activiteiten van het Rollend Grondfonds.<br /><br />Bij het begin van elk kwartaal bezorgt de VMSW het agentschap een overzicht van alle leningen die ze is aangegaan met de middelen van het Rollend Grondfonds, waarvan de vervaldag in het lopende kwartaal valt. Op basis van dat overzicht betaalt het agentschap het subsidiebedrag voor het lopende kwartaal uit aan de VMSW. <br /><br />§ 2. De VMSW rapporteert jaarlijks aan het agentschap over de activiteiten van het Rollend Grondfonds. Het rapport omvat een overzicht van de genomen grondbeleidsmaatregelen, de geïnvesteerde middelen en de projecten die gerealiseerd zijn met de middelen vanuit het Rollend Grondfonds.
+...
 
 ### ART. 3.
 
-De VMSW heeft als opdracht om grondbeleidsmaatregelen, vermeld in artikel 33, § 1, vierde lid, 6° van de Vlaamse Wooncode, te treffen die noodzakelijk worden geacht om een hoogwaardige woonkwaliteit te behouden of te bevorderen.<br>
-<br>
-Onder grondbeleidsmaatregelen wordt verstaan :<br>
-1° het verwerven en het vervreemden van onroerende goederen, zowel openbaar als uit de hand;<br>
-2° het vestigen of afstaan van zakelijke rechten op onroerende goederen;<br>
-3° het nemen van tijdelijke participaties;<br>
-4° het uitoefenen van onteigeningsbevoegdheden;<br>
-5° het uitoefenen van een recht van voorkoop;<br>
-6° het verstrekken van leningen aan sociale huisvestingsmaatschappijen en gemeenten voor de financiering van verwervingen in het kader van artikel 33, § 1, vierde lid, 6°, van de Vlaamse Wooncode;<br>
-7° het verstrekken van leningen aan Vlabinvest apb voor de financiering van verwervingen voor de realisatie van huurwoningen in het kader van artikel 33, § 1, vierde lid, 6°, van de Vlaamse Wooncode.<br>
-<br>
-Voor de grondbeleidsmaatregelen, vermeld in het tweede lid, 1° tot en met 5° en 7°, kan de VMSW een beroep doen op het Rollend Grondfonds.<br>
-<br>
-Voor de grondbeleidsmaatregel, vermeld in het tweede lid, 6°, kan de VMSW een beroep doen op de verbintenissenmachtiging die opgenomen is in het begrotingsdecreet van de Vlaamse Gemeenschap om sociale huisvestingsmaatschappijen en gemeenten in staat te stellen om sociale woningen ter beschikking te stellen als vermeld in artikel 3, § 1, en artikel 11, § 1, van het Financieringsbesluit van 21 december 2012. Jaarlijks kan de minister daarvoor een volume reserveren.<br>
-<br>
-Als de grondbeleidsmaatregel, vermeld in het eerste lid, een grondaankoop betreft, moet die grondaankoop beantwoorden aan een of meer van de volgende criteria :<br>
-1° de grond komt onmiddellijk in aanmerking voor bebouwing;<br>
-2° de grond komt niet onmiddellijk voor bebouwing in aanmerking omdat :<br>
-a) de grond in een woonuitbreidingsgebied ligt als vermeld in het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerp-gewestplannen en gewestplannen;<br>
-b) volgens de huidige bestemming van het gewestplan de grond niet onmiddellijk voor woningbouw in aanmerking komt, maar een ruimtelijk structuurplan, een ruimtelijk beleidsplan&nbsp;of een ontwerp van ruimtelijk uitvoeringsplan een woonbestemming op basis van een principebeslissing van een gemeente, provincie of de Vlaamse overheid in het vooruitzicht stelt;<br>
-c) de grond gelegen is in een ontsluitbare woonzone.<br>
-<br>
-Onder een hoogwaardige woonkwaliteit wordt de kwaliteit van de woningen en de woonomgeving verstaan, waarbij aan elk van volgende voorwaarden is voldaan :<br>
-1° de woningen voldoen aan de elementaire veiligheids-, gezondheids- en woonkwaliteitsvereisten, vastgesteld bij of krachtens artikel 5 van de Vlaamse Wooncode;<br>
-2° als er sociale woningen worden opgericht, moeten die woningen voldoen aan de door de minister vast te stellen technische normen waaraan sociale woningen moeten voldoen;<br>
-3° de woonomgeving is kwalitatief hoogstaand door een combinatie van de volgende kenmerken :<br>
-a) een behoorlijke wooninfrastructuur, met inbegrip van gemeenschapsvoorzieningen;<br>
-b) een vermenging van soorten woningen en woningtypes;<br>
-c) een vermenging van voorzieningen voor verschillende doelgroepen;<br>
-d) een goede integratie van nieuwe projecten in de bestaande omgeving.
+...
 
 ### ART. 4.
 
-De middelen van het Rollend Grondfonds kunnen enkel worden aangewend ter financiering van grondbeleidsmaatregelen in gemeenten die minstens aan één van beide criteria voldoen :<br />1° de gemeente behoort tot de 50 % Vlaamse gemeenten waar de gemiddelde bouwgrondprijs per vierkante meter het hoogst is; <br />2° de gemeente behoort tot het Vlabinvest-gebied. <br /><br />Voor de eerste vaststelling van de lijst van gemeenten, die als bijlage bij dit besluit is gevoegd, wordt de gemiddelde bouwgrondprijs per vierkante meter voor het jaar 2007 gehanteerd, op basis van de gegevens van de Algemene Directie Statistiek en Economische Informatie van de Federale Overheidsdienst Economie, K.M.O., Middenstand en Energie. Er wordt geen rekening gehouden met de gemeenten waarvoor niet voldoende statistisch cijfermateriaal voorhanden is.<br /><br />Tweejaarlijks, en voor het eerst in 2014, actualiseert de minister de lijst van gemeenten, vermeld in het tweede lid, uiterlijk zes maanden na de bekendmaking van de meest recente statistische gegevens van de Algemene Directie Statistiek en Economische Informatie van de Federale Overheidsdienst Economie, K.M.O., Middenstand en Energie. Zolang geen nieuwe lijst in het Belgisch Staatsblad is bekendgemaakt, blijft de vorige lijst van kracht.
+...
 
 ### ART. 5.
 
-§ 1. De middelen van het Rollend Grondfonds worden aangewend binnen het Vlabinvest-gebied volgens de krachtens hoofdstuk II van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992 geformuleerde doelstellingen. <br /><br />§ 2. In de gemeenten buiten het Vlabinvest-gebied die behoren tot het werkingsgebied, vastgesteld bij artikel 4, kunnen de middelen van het Rollend Grondfonds op verzoek van een sociale huisvestingsmaatschappij of een gemeente aangewend worden ter financiering van een grondbeleidsmaatregel als volgende voorwaarden vervuld zijn :<br />1° de grondbeleidsmaatregel past in een grootschalig project. Onder een grootschalig project wordt verstaan :<br />a) in de centrumsteden Aalst, Antwerpen, Brugge, Genk, Gent, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas en Turnhout, een project met een vloeroppervlakte van ten minste 5 000 m2 of een project met een grondoppervlakte van ten minste 5 000 m2;<br />b) elders in het Vlaamse Gewest, een project met een grondoppervlakte van ten minste 5 000 m2;<br />2° het project heeft een gemengde bestemming. De grondverwerving is gericht op de realisatie van in hoofdzaak een sociaal woonaanbod in combinatie met een andere bestemming, zoals zorgvoorzieningen, studentenhuisvesting, bescheiden woonaanbod, andere functiegebonden gebouwen;<br />3° in de gemeente waar de grondbeleidsmaatregel toegepast wordt, maakt de sociale huisvestingsmaatschappij een nota op wat betreft hun reservegronden in die gemeente. Daarbij geeft de sociale huisvestingsmaatschappij aan welke visie en ontwikkelingsperspectief die gronden hebben.<br /><br />§ 3. Alvorens verbintenissen aan te gaan voor grondbeleidsmaatregelen, zoals vermeld in paragraaf 2, die gefinancierd worden met middelen afkomstig van het Rollend Grondfonds beoordeelt de VMSW de opportuniteit van de grondbeleidsmaatregel, waarbij zowel de maatschappelijke als financiële kosten en baten in rekening worden genomen. Hierbij wordt bijzondere aandacht verleend aan het verwachte rendement op projectbasis als aan het rollend karakter van het Rollend Grondfonds in haar geheel. Als het initiatief voor de grondbeleidsmaatregel uitgaat van de sociale huisvestingsmaatschappij, wordt een niet-bindend advies van de gemeente ingewonnen. Wanneer de gemeente haar advies niet verleent binnen dertig kalenderdagen, wordt het geacht gunstig te zijn.
+...
 
 ### ART. 5/1.
 
-§ 1. Een verwerving als vermeld in artikel 3, tweede lid, 6° en 7°, moet voldoen aan dezelfde voorwaarden als de voorwaarden, vermeld in artikel 3, 4 en 5, § 1 en § 2.<br>
-<br>
-De sociale huisvestingsmaatschappij, Vlabinvest apb of een gemeente die een lening met toepassing van artikel 3, tweede lid, 6° en 7°, bij de VMSW wil aangaan, dient daarvoor een gemotiveerde aanvraag in bij de VMSW, voorafgaand aan de verwerving. De VMSW onderzoekt het voorstel van de initiatiefnemer. Binnen twee maanden nadat de VMSW het aanvraagdossier volledig heeft verklaard, maakt de VMSW een advies op, rekening houdend met de criteria, vermeld in dit besluit. De minister neemt op basis van het advies van de VMSW een beslissing over de toekenning.<br>
-<br>
-§ 2. Het gedeelte van de verwerving dat gefinancierd kan worden met een lening als vermeld in artikel 3, tweede lid, 6°, van dit besluit, blijft beperkt tot het subsidiabele bedrag, vermeld in artikel 5, § 1, van het Financieringsbesluit van 21 december 2012, met betrekking tot gedeelte van de grond waarop sociale huurwoningen en de wooninfrastructuur die daarmee samenhangt, zullen worden gerealiseerd.<br>
-<br>
-In afwijking van artikel 11, § 1, van het Financieringsbesluit van 21 december 2012 wordt de lening&nbsp;aan sociale huisvestingsmaatschappijen en gemeenten verstrekt binnen een periode van drie maanden na de datum van de beslissing over de toekenning door de minister, vermeld in paragraaf 1, tweede lid. De aflossingsperiode van de lening start op het einde van de tweede maand die volgt op de datum van de vaststelling van de eindafrekening van de werken door de VMSW, van de sociale huurwoningen die op de grond worden gerealiseerd en uiterlijk tien jaar na het verstrekken van de lening.<br>
-<br>
-§ 2/1. Het gedeelte van de verwerving dat gefinancierd kan worden met een lening, als vermeld in artikel 3, tweede lid, 7°, blijft beperkt tot het gedeelte van de grond waarop sociale huurwoningen en de wooninfrastructuur die daarmee samenhangt, zullen worden gerealiseerd. Het bedrag van de lening is gelijk aan de reële kostprijs van de aankoop, en beperkt tot de schattingswaarde, van dat gedeelte.<br>
-<br>
-Aan Vlabinvest apb wordt een renteloze bulletlening verstrekt binnen een periode van drie maanden na de datum van de beslissing over de toekenning door de minister, vermeld in paragraaf 1, tweede lid. De lening heeft een looptijd van vijf jaar, en kan éénmaal verlengd worden door de VMSW met vijf jaar. De lening wordt terugbetaald bij de verkoop van de grond waarop de lening betrekking heeft.<br>
-<br>
-§ 3. In afwijking van paragraaf 1 kan de VMSW binnen het volume, vermeld in artikel 3, vierde lid, een lening als vermeld in paragraaf 2, tweede lid, verstrekken aan sociale huisvestingsmaatschappijen en gemeenten die gronden van de VMSW willen aankopen die eerder met middelen uit het Rollend Grondfonds zijn aangekocht.<br>
-<br>
-In afwijking van paragraaf 1 kan de VMSW, binnen de verbintenissenmachtiging van het Rollend Grondfonds, een lening als vermeld in paragraaf 2/1, tweede lid, verstrekken aan Vlabinvest apb die gronden van de VMSW wil aankopen die eerder met middelen uit het Rollend Grondfonds zijn aangekocht.
+...
 
 ### ART. 6.
 
-Verbintenissen die de VMSW is aangegaan voor grondbeleidsmaatregelen die gefinancierd worden met de middelen van het Rollend Grondfonds in een of meer gemeenten die niet meer voorkomen op de meest recente lijst die bekendgemaakt is in het Belgisch Staatsblad, vermeld in artikel 4, behouden hun uitwerking totdat de eerstvolgende actualisatie van de lijst van gemeenten, vermeld in artikel 4, in het Belgisch Staatsblad is bekendgemaakt.
+...
 
 ### ART. 7.
 
-De Vlaamse minister, bevoegd voor woonbeleid, is belast met de uitvoering van dit besluit.
+...
 
 ### BIJLAGE
 
-Gemeenten vermeld in artikel 4, tweede lid<br /><br />1° Aalter<br />2° Aartselaar<br />3° Affligem<br />4° Antwerpen<br />5° Arendonk<br />6° Asse<br />7° Baarle-Hertog<br />8° Beerse<br />9° Beersel<br />10° Berlare<br />11° Bertem<br />12° Bever<br />13° Beveren<br />14° Bierbeek<br />15° Blankenberge<br />16° Bocholt<br />17° Boechout<br />18° Bonheiden<br />19° Bornem<br />20° Borsbeek<br />21° Brasschaat<br />22° Brecht<br />23° Bredene<br />24° Brugge<br />25° De Haan<br />26° De Panne<br />27° De Pinte<br />28° Denderleeuw<br />29° Destelbergen<br />30° Dilbeek<br />31° Drogenbos<br />32° Duffel<br />33° Edegem<br />34° Eeklo<br />35° Erpe-Mere<br />36° Essen<br />37° Galmaarden<br />38° Gavere<br />39° Geel<br />40° Gent<br />41° Gooik<br />42° Grimbergen<br />43° Grobbendonk<br />44° Haacht<br />45° Haaltert<br />46° Halle<br />47° Hamme<br />48° Hasselt<br />49° Herent<br />50° Herenthout<br />51° Herne<br />52° Hoeilaart<br />53° Holsbeek<br />54° Hoogstraten<br />55° Hove<br />56° Huldenberg<br />57° Izegem<br />58° Jabbeke<br />59° Kalmthout<br />60° Kampenhout<br />61° Kapellen<br />62° Kapelle-op-den-Bos<br />63° Kasterlee<br />64° Keerbergen<br />65° Knesselare<br />66° Knokke-Heist<br />67° Koksijde<br />68° Kontich<br />69° Kortenberg<br />70° Kortrijk<br />71° Kraainem<br />72° Kruibeke<br />73° Laarne<br />74° Lede<br />75° Lendelede<br />76° Lennik<br />77° Leuven<br />78° Liedekerke<br />79° Lier<br />80° Lille<br />81° Linkebeek<br />82° Lint<br />83° Lommel<br />84° Londerzeel<br />85° Lovendegem<br />86° Lubbeek<br />87° Machelen<br />88° Maldegem<br />89° Malle<br />90° Mechelen<br />91° Meise<br />92° Melle<br />93° Merchtem<br />94° Merelbeke<br />95° Merksplas<br />96° Middelkerke<br />97° Mortsel<br />98° Nazareth<br />99° Neerpelt<br />100° Nevele<br />101° Niel<br />102° Nieuwerkerken<br />103° Nieuwpoort<br />104° Nijlen<br />105° Oostende<br />106° Oosterzele<br />107° Opwijk<br />108° Oudenburg<br />109° Oud-Heverlee<br />110° Oud-Turnhout<br />111° Overijse<br />112° Pepingen<br />113° Ranst<br />114° Ravels<br />115° Retie<br />116° Rijkevorsel<br />117° Roosdaal<br />118° Rumst<br />119° Schelle<br />120° Schilde<br />121° Schoten<br />122° Sint-Genesius-Rode<br />123° Sint-Gillis-Waas<br />124° Sint-Katelijne-Waver<br />125° Sint-Lievens-Houtem<br />126° Sint-Martens-Latem<br />127° Sint-Niklaas<br />128° Sint-Pieters-Leeuw<br />129° Stabroek<br />130° Steenokkerzeel<br />131° Stekene<br />132° Temse<br />133° Ternat<br />134° Tervuren<br />135° Torhout<br />136° Tremelo<br />137° Turnhout<br />138° Vilvoorde<br />139° Vosselaar<br />140° Waasmunster<br />141° Waregem<br />142° Wemmel<br />143° Wervik<br />144° Wevelgem<br />145° Wezembeek-Oppem<br />146° Wijnegem<br />147° Willebroek<br />148° Wommelgem<br />149° Wuustwezel<br />150° Zandhoven<br />151° Zaventem<br />152° Zelzate<br />153° Zemst<br />154° Zoersel<br />155° Zutendaal<br />156° Zwijndrecht
+...
