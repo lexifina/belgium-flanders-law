@@ -2,16 +2,16 @@
   "codex_id": 1022627,
   "title": "Besluit van de Vlaamse Regering van 2012-12-21 houdende de financiering van verrichtingen in het kader van sociale woonprojecten en de daaraan verbonden werkingskosten (citeeropschrift:\"Financieringsbesluit\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022627/VolledigDocument?datum=2020-10-24",
-  "source_sha256": "3b9264b2c02cd5ac1c71ed48c908387101dc75d5fc4e784abe6b122a93292558",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022627/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "fd25e611617bcc1ba428d92490fb9c022bf62ba6027a5c004560cd2b12c31f20",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022627&param=informatie",
-  "as_of": "2020-10-24",
+  "as_of": "2021-01-01",
   "made": "2012-12-21",
   "gazette": "2013-01-15",
   "numac": 2013035024,
   "document_start": "2013-01-01",
   "document_end": "2020-12-31",
-  "in_force": "2020-10-24",
+  "in_force": "2021-01-01",
   "article_versions": 99,
-  "record_form": "consolidated version as in force on 2020-10-24; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }

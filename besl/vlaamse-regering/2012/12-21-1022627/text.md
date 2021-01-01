@@ -52,274 +52,57 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br>
-1° appartement : woning in een gebouw waarin zich minimaal twee woningen in verschillende bouwlagen boven elkaar bevinden, en die geen duplex is;<br>
-1° /1 ...;<br>
-2° archeologische opgraving : het gebruik van wetenschappelijke methoden en technieken waarmee doelbewust de ondergrondse, aan de oppervlakte of onder water aanwezige archeologische artefacten en archeologische sites worden opgespoord, vrijgelegd en door opgraving worden onderzocht en waarbij de archeologische artefacten en onderzoeksdocumenten archeologische ensembles vormen;<br>
-3° archeologisch vooronderzoek : het gebruik van wetenschappelijke methoden en technieken waarmee doelbewust archeologische artefacten en archeologische sites worden opgespoord en gewaardeerd zonder de erfgoedwaarden in situ wezenlijk aan te tasten te onderscheiden in archeologisch vooronderzoek met ingreep in de bodem met mogelijks enig effect op de erfgoedwaarden in situ zoals de aanleg van proefsleuven, proefputten, vlakken of andere intrusieve methoden met grondverzet en archeologisch vooronderzoek zonder ingreep in de bodem zonder aanwending van grondwerkzaamheden of activiteiten die enig effect hebben op de erfgoedwaarden in situ. Voorbeelden van archeologisch vooronderzoek zonder ingreep in de bodem zijn veldprospectie, luchtfotografische prospectie, geofysische prospectie en archivalisch onderzoek;<br>
-4° besluit Beheersvergoeding : het besluit van de Vlaamse Regering van 13 januari 2012 tot vaststelling van nadere regels voor de bijdragen van de sociale woonactoren in de financiering van de Vlaamse Maatschappij voor Sociaal Wonen;<br>
-5° bestaande woonkern : een gebied als vermeld in artikel 2, § 1, eerste lid, 3°, van de Vlaamse Wooncode;<br>
-6° beveiligde zending : een van de volgende betekeningswijzen :<br>
-a) een aangetekende brief;<br>
-b) een afgifte tegen ontvangstbewijs;<br>
-c) elke andere door de minister toegestane betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
-6° /1 bouwrijp maken : het voor bebouwing geschikt maken van bouwpercelen bestemd voor het woonproject, inbegrepen de opmaak van een stedenbouwkundige studie, met uitzondering van de sloop en de infrastructuurwerken;<br>
-7° decreet Grond- en Pandenbeleid : het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid;<br>
-8° duplex : woning in een gebouw waarin zich twee woningen in verschillende bouwlagen boven elkaar bevinden en waarvan iedere woning toegankelijk is via een gescheiden ingang of trap die uitkomtop het openbare domein op het gelijkvloerse niveau;<br>
-9° eengezinswoning : elk bebouwd onroerend goed dat hoofdzakelijk bestemd is voor de huisvesting van één gezin of één alleenstaande, waarin zich geen andere woningen bevinden;<br>
-10° GSC : de gewestelijke sociale correctie;<br>
-10° /1 infrastructuurwerken : de volgende werken als ze noodzakelijk zijn voor de woningen in kwestie :<br>
-a) werken aan de wegenuitrusting, namelijk het aanleggen of aanpassen en het geschikt maken van :<br>
-1) de toegangs- en circulatieruimten voor alle verkeersdeelnemers;<br>
-2) de parkeerplaatsen, fietsenstallingen;<br>
-3) de vaste constructies binnen de toegangs- en circulatieruimten;<br>
-b) werken aan de inrichtingen voor afvoer en zuivering van afvalwater, namelijk het aanleggen of aanpassen en het geschikt maken van :<br>
-1) de waterafvoerleiding tot het dichtstbijzijnde lozingspunt, de wachtbuizen voor de aansluiting van de woningen;<br>
-2) de gemalen, zuiveringsstations en andere voorzieningen die op advies van de VMSW noodzakelijk worden geacht voor de normale waterafvoer of ter voorkoming van de verontreiniging door afvalwater;<br>
-c) openbare verlichting en de daarbij horende netuitbreiding aanleggen of aanpassen;<br>
-d) werken aan het openbare watervoorzieningsnet, namelijk het aanleggen of aanpassen en het uitrusten van de uitbreiding van het waterbedelingsnet, uitgezonderd de huisaansluitingen, maar met inbegrip van de hydranten;<br>
-e) omgevingswerken, namelijk werken aan :<br>
-1) groenvoorzieningen;<br>
-2) verhardingen voor niet-gemotoriseerd verkeer en recreatief gebruik;<br>
-3) al dan niet vast straatmeubilair en speeltuigen;<br>
-4) vaste constructies voor plant-, water- en speelvakken;<br>
-5) andere bijkomende werken, zoals plaatselijke draineringen, beperkte parkeeroppervlakten, met uitsluiting van werken van burgerlijke bouwkunde;<br>
-11° instandhouding : de investering in de renovatie, verbetering of aanpassing van bestaande woningen, gebouwen of niet-residentiële ruimten;<br>
-12° Kaderbesluit Sociale Huur : het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode;<br>
-13° minister : de Vlaamse minister, bevoegd voor wonen;<br>
-14° realisatie : de nieuwbouw of vervangingsbouw van woningen en niet-residentiële ruimten, en de inrichting van kavels;<br>
-15° referentiejaar : de periode van 1 januari tot en met 31 december van het jaar dat voorafgaat aan het jaar waarin de berekening van de GSC plaatsvindt;<br>
-16° rekening-courant bij de VMSW : de rekening bij de VMSW waarop de middelen van de SHM beheerd worden, vermeld in het besluit van de Vlaamse Regering van 2 december 2005 houdende de regeling inzake het beheer van de eigen middelen van de sociale huisvestingsmaatschappijen door de Vlaamse Maatschappij voor Sociaal Wonen;<br>
-17° rijwoning : een woning waarvan twee zijden verbonden zijn met andere gebouwen of bestaan uit wachtgevels;<br>
-18° schattingsprijs : de raming van de waarde van een onroerend goed door een van de volgende personen of instanties, op voorwaarde dat een raming van een persoon of instantie als vermeld in punt a) en b), primeert op een raming van een persoon of instantie als vermeld in punt c), d) en e) :<br>
-a) ...;<br>
-b) een commissaris van de Vlaamse Belastingdienst die bevoegd is voor schattingen;<br>
-c) een notaris;<br>
-d) een landmeter-expert, na gezamenlijk akkoord over de schatter;<br>
-e) een door de VMSW gemachtigde ambtenaar, als de VMSW zelf geen partij is bij de onroerende transactie waarvoor het schattingsverslag wordt opgemaakt;<br>
-19° SHM : een erkende sociale huisvestingsmaatschappij als vermeld in artikel 40 van de Vlaamse Wooncode;<br>
-19° /1 sloop : de sloop van een of meer constructies, alsook de uitvoering van werken die er integrerend deel van uitmaken, zoals onder meer het wegnemen van leidingen, het uitvoeren van beveiligingswerken en het afwerken van de door de sloop vrijgekomen gevels van belendende gebouwen;<br>
-20° strategische grondaankoop : de aankoop van een grond waarvan de aankoopprijs minder dan de helft van de reële verkoopwaarde op de vrije markt van vergelijkbare bouwrijpe gronden in die regio bedraagt en :<br>
-a) die pas op middellange termijn voor bebouwing in aanmerking komt omdat hij gelegen is in een woonuitbreidingsgebied dat pas op middellange termijn mag worden aangesneden, of;<br>
-b) die volgens de huidige bestemming van het gewestplan niet onmiddellijk voor woningbouw in aanmerking komt maar waar een ruimtelijk structuurplan of een ontwerp ruimtelijk uitvoeringsplan een woonbestemming in het vooruitzicht stelt, of;<br>
-c) die gelegen is in een niet-uitgeruste woonzone;<br>
-21° structurele leegstand : een leegstaande woning die gedurende minimaal zes maanden leegstaat of zal leegstaan als gevolg van de geplande uitvoering van een renovatie- of bouwproject;<br>
-22° tenlasteneming : de rechtstreekse betaling van kosten door een subsidiërende overheid aan aannemers van opdrachten van werken, leveringen en diensten in het kader van een subsidieaanvraag;<br>
-23° ...;<br>
-24° ...;<br>
-25° verwerving : de aankoop van een onroerend goed of de vestiging van een recht van erfpacht of een recht van opstal op een onroerend goed;<br>
-26° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
-26°/1 Vlabinvest APB: het Agentschap voor Grond- en Woonbeleid voor Vlaams-Brabant, opgericht bij het besluit van de Provincieraad van Vlaams-Brabant van 22 oktober 2013;<br>
-27° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, opgericht bij artikel 30 van de Vlaamse Wooncode.<br>
-28° VWF : het Vlaams Woningfonds, vermeld in artikel 50 van de Vlaamse Wooncode;<br>
-29° woningbouwgebied : een gebied als vermeld in bijlage 2 bij het besluit van de Vlaamse Regering van 7 april 1998 houdende de afbakening van woonvernieuwings- en woningbouwgebieden;<br>
-30° woongebied : de gebieden die :<br>
-a) ofwel geordend worden door een ruimtelijk uitvoeringsplan en vallen onder de categorie van gebiedsaanduiding « wonen »;<br>
-b) ofwel geordend worden door een plan van aanleg en aangewezen zijn als een woongebied in de zin van artikel 5.1.0 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerp-gewestplannen en de gewestplannen;<br>
-31° woonproject met sociaal karakter : een woonproject dat geheel of gedeeltelijk gefinancierd wordt met middelen van het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, opgericht bij artikel 16 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992, of van Vlabinvest APB, opgericht bij het besluit van de Provincieraad van Vlaams-Brabant van 22 oktober 2013;<br>
-32° woonvernieuwingsgebied : een gebied als vermeld in bijlage 1 bij het besluit van de Vlaamse Regering van 7 april 1998 houdende de afbakening van woonvernieuwings- en woningbouwgebieden.
+...
 
 ### ART. 2.
 
-Dit besluit wordt aangehaald als het Financieringsbesluit.
+...
 
 ### ART. 3.
 
-<p>§ 1. Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kan de minister volgens de voorwaarden, vermeld in hoofdstuk 2, jaarlijks subsidies verlenen om initiatiefnemers in staat te stellen sociale huurwoningen ter beschikking te stellen.</p>
-
-<p>De minister stelt de subsidies voor de financiering van verrichtingen voor de realisatie en de instandhouding van sociale huurwoningen, vermeld in artikel 4, § 1, 1°, ter beschikking van de VMSW. De VMSW geeft de subsidies in de vorm van een tussenkomst in de leningslast door aan de initiatiefnemers.</p>
-
-<p>§ 2. Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kan de minister volgens de voorwaarden, vermeld in hoofdstuk 3, de kosten van de aanleg of de aanpassing van wooninfrastructuur geheel of gedeeltelijk ten laste nemen, of subsidies verlenen om initiatiefnemers in staat te stellen sociale huur- of koopwoningen ter beschikking te stellen.</p>
-
-<p>De minister stelt de subsidies voor de financiering van verrichtingen voor de realisatie en de instandhouding van sociale huur- of koopwoningen, vermeld in artikel 4, § 1, 2°, ter beschikking van de VMSW. De VMSW geeft de subsidies door aan de initiatiefnemers of betaalt daarmee de tenlastenemingen.</p>
-
-<p>§ 3. Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kan de minister volgens de voorwaarden, vermeld in hoofdstuk 4, jaarlijks subsidies verlenen om initiatiefnemers in staat te stellen sociale huurwoningen ter beschikking te stellen.</p>
-
-<p>De minister stelt de subsidies voor de financiering van verrichtingen voor de realisatie en de instandhouding van sociale huurwoningen, vermeld in artikel 4, § 1, 3°, ter beschikking van de VMSW. De VMSW geeft de subsidies in de vorm van een tussenkomst in de prefinanciering door aan de initiatiefnemers.</p>
-
-<p>§ 4. Om SHM's in staat te stellen huurverminderingen als vermeld in artikel 72, eerste lid, 3°, van de Vlaamse Wooncode, toe te kennen, kent de minister de SHM's een GSC toe volgens de voorwaarden, vermeld in hoofdstuk 5.</p>
+...
 
 ### ART. 4.
 
-<p>§ 1. Voor de financiering van&nbsp;de meerjarenplanning en de kortetermijnplanning, vermeld in artikel 33, § 3, van de Vlaamse Wooncode, wordt een onderscheid gemaakt tussen de volgende verrichtingen :<br>
-1° verrichtingen voor de realisatie en de instandhouding van sociale huurwoningen waarvoor aan de initiatiefnemers een tussenkomst in de leningslast verstrekt kan worden :<br>
-a) de verwerving van een of meer onroerende goederen;<br>
-b) de sloop van een of meer constructies;<br>
-c) de nieuwbouw of vervangingsbouw van een of meer sociale huurwoningen;<br>
-d) de investering in de renovatie, verbetering of aanpassing van een of meer sociale huurwoningen;<br>
-e) elke combinatie van de verrichtingen, vermeld in punt a), b), c) en d);<br>
-2° verrichtingen voor de realisatie en de instandhouding van sociale huurwoningen, en voor de realisatie en de instandhouding van sociale huurwoningen, sociale koopwoningen of bescheiden huurwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2, waarvoor de kosten geheel of gedeeltelijk ten laste genomen kunnen worden of waarvoor aan de initiatiefnemers een subsidie toegekend kan worden :<br>
-a) de aanleg of aanpassing van wooninfrastructuur, in het bijzonder :<br>
-1) bouwrijp maken van gronden en, alleen voor verrichtingen voor de realisatie en de instandhouding van sociale koopwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2, sloop van de aanwezige constructies;<br>
-2) uitvoering van infrastructuurwerken;<br>
-3) oprichting van gemeenschapsvoorzieningen;<br>
-4) ...;<br>
-b) ...;<br>
-c) ...;<br>
-3° verwervingen voor de realisatie van sociale huurwoningen waarvoor aan de initiatiefnemers een tussenkomst in de prefinanciering verstrekt kan worden.</p>
-
-<p>§ 2. De tussenkomst in de leningslast voor de verrichtingen, vermeld in paragraaf 1, 1°, wordt verstrekt aan de volgende initiatiefnemers :<br>
-1° de SHM's;<br>
-2° het VWF, voor verwervingen, voor de vervangingsbouw van sociale huurwoningen en voor investeringen in de renovatie, verbetering of aanpassing van een of meer sociale huurwoningen;<br>
-3° gemeenten en intergemeentelijke samenwerkingsverbanden als vermeld in het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br>
-4° openbare centra voor maatschappelijk welzijn of OCMW-verenigingen.</p>
-
-<p>De tenlasteneming of subsidie voor de verrichtingen, vermeld in paragraaf 1, 2°, a), wordt verstrekt aan de volgende initiatiefnemers :<br>
-1° de SHM's;<br>
-2° het VWF;<br>
-3° gemeenten en intergemeentelijke samenwerkingsverbanden als vermeld in het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br>
-4° openbare centra voor maatschappelijk welzijn of OCMW-verenigingen;<br>
-5° andere initiatiefnemers als vermeld in artikel 75 van de Vlaamse Wooncode die door de Vlaamse Regering als initiatiefnemer erkend worden.<br>
-<br>
-De tussenkomst in de prefinanciering voor de verwervingen voor de realisatie van sociale huurwoningen, vermeld in paragraaf 1, 3°, wordt verstrekt aan de initiatiefnemers, vermeld in het eerste lid.</p>
-
-<p>De VMSW kan de financiering, vermeld in het eerste tot en met het vijfde lid, ook zelf aanwenden volgens dezelfde voorwaarden.</p>
+...
 
 ### ART. 4/1.
 
-In dit artikel wordt verstaan onder het besluit van 29 september 2006 : het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode.<br>
-<br>
-Voor de initiatiefnemers, met uitzondering van de VMSW en de SHM's&nbsp;die van het Vlaamse Gewest subsidies ontvingen of ontvangen voor de verrichtingen, vermeld in artikel 4, § 1, 2°, voor de realisatie of de instandhouding van sociale huurwoningen, sociale koopwoningen of sociale kavels, gelden de volgende bepalingen :<br>
-1° de verplichting voor de verkoper met betrekking tot de oppervlaktenorm voor sociale kavels, vermeld in artikel 5, tweede lid, van het besluit van 29 september 2006;<br>
-2° de verplichting voor de koper met betrekking tot de volumenorm voor de woning op de sociale kavel en op de middelgrote kavel, vermeld in de artikelen 5, tweede lid, en 7, tweede lid, van het besluit van 29 september 2006;<br>
-3° de bepalingen, vermeld in artikel 2/1 van het besluit van 29 september 2006;<br>
-4° de woonbehoeftigheidsvoorwaarden voor de kandidaat-kopers van kavels of woningen, vermeld in artikel 3 van het besluit van 29 september 2006;<br>
-5° de bepalingen, vermeld in artikel 8 van het besluit van 29 september 2006;<br>
-6° de bepalingen, vermeld in artikel 10/1 van het besluit van 29 september 2006;<br>
-7° ...;<br>
-8° ...;<br>
-9° het reglement van de verplichtingen en sancties voor de kopers van sociale koopwoningen en sociale kavels, opgenomen in bijlage VI, die bij het besluit van 29 september 2006 is gevoegd.
+...
 
 ## HOOFDSTUK 2. Verrichtingen voor de realisatie en de instandhouding van sociale huurwoningen waarvoor een tussenkomst in de leningslast wordt verstrekt
 
 ### ART. 5.
 
-<p>§ 1. Voor de verwerving, vermeld in artikel 4, § 1, 1°, a), is het subsidiabele bedrag gelijk aan de som van :<br>
-1° de kostprijs van de verwerving, vermeld in paragraaf 2;<br>
-2° de extra kosten bij de verwerving, vermeld in paragraaf 3;<br>
-3° de vergoeding, verschuldigd op basis van hoofdstuk 2, afdeling 1, van het besluit Beheersvergoeding;<br>
-4° de btw of de registratierechten op de kostprijs van de verwerving en op de extra kosten bij de verwerving;</p>
-
-<p>§ 2. Als de verwerving de aankoop van een of meer onroerende goederen betreft, is de kostprijs gelijk aan de reële kostprijs van de aankoop, beperkt tot de schattingsprijs, verminderd met eventuele subsidies die voor de aankoop zijn verstrekt op een andere basis dan dit besluit. Onroerende goederen kunnen aangekocht worden door tussenkomst van een commissaris van de Vlaamse Belastingdienst die bevoegd is voor schattingen. In dat geval, of bij uitoefening van het recht van voorkoop, is er geen beperking op de reële kostprijs.</p>
-
-<p>De kostprijs, vermeld in het eerste lid, wordt beperkt tot een prijsplafond, dat wordt vastgesteld op het moment van de ondertekening van de verkoopovereenkomst. Als basis voor de berekening van het prijsplafond wordt het bedrag gebruikt dat gelijk is aan 15.000 euro per te realiseren sociale huurwoning, cumulatief verhoogd met :<br>
-1° 5.000 euro als het onroerend goed in woongebied ligt;<br>
-2° 5.000 euro als de te realiseren huurwoningen eengezinswoningen zijn;<br>
-3° 12.500 euro als de grond volledig uitgerust is.</p>
-
-<p>Het bedrag, vermeld in het tweede lid, wordt vermenigvuldigd met een factor die gelijk is aan de verhouding van de verkoopprijs per vierkante meter van bouwgronden in de gemeente in kwestie tot de verkoopprijs per vierkante meter van bouwgronden in het Vlaamse Gewest, met een ondergrens van 0,75 en een bovengrens van 1,50. De minister stelt jaarlijks&nbsp;in de maand&nbsp;mei voor elke gemeente de factor vast waarmee het bedrag, vermeld in het tweede lid, wordt vermenigvuldigd. Voor de vaststelling van de bouwgrondprijs in het Vlaamse Gewest, respectievelijk de bouwgrondprijs in een gemeente wordt gerekend met het gemiddelde van de prijs waartegen bouwgrond tijdens de laatste vijf jaar is verkocht, zoals die door de Federale Overheidsdienst Economie wordt bekendgemaakt, gewogen volgens het aantal vierkante meter per verkoop in kwestie. Voor gemeenten in het werkgebied van Vlabinvest APB geldt een minimale verhoging met 10 %.</p>
-
-<p>Als de kostprijs, vermeld in het eerste lid, onder het prijsplafond ligt dat is berekend overeenkomstig het tweede en het derde lid, kan het saldo worden toegevoegd aan de prijsplafonds voor toekomstige aankopen, op voorwaarde dat die plaatsvinden binnen een termijn van vijf jaar na de huidige aankoop. De som van de bedragen die aan de prijsplafonds voor toekomstige aankopen worden toegevoegd, blijft beperkt tot het beschikbare saldo van de huidige aankoop. Voor elke individuele toekomstige aankoop mag het toepasselijke prijsplafond op basis van deze regel met maximaal 20 % verhoogd worden.</p>
-
-<p>Als de verwerving de onteigening van een of meer onroerende goederen betreft, is de kostprijs gelijk aan het bedrag van de onteigeningsvergoeding, met inbegrip van de wederbeleggingsvergoeding. Dat bedrag wordt beperkt tot een prijsplafond, dat wordt vastgesteld op het moment van de onteigeningsakte. Het prijsplafond wordt vastgesteld overeenkomstig het tweede en het derde lid. Het vierde lid is van overeenkomstige toepassing op een onteigening.</p>
-
-<p>Als de verwerving de vestiging van een recht van erfpacht of een recht van opstal op een of meer onroerende goederen betreft, is de kostprijs gelijk aan het bedrag dat op het moment van de vestiging van het zakelijk recht wordt betaald. Dat bedrag wordt beperkt tot een prijsplafond, dat wordt vastgesteld op het moment van de vestiging van het recht van erfpacht of het recht van opstal. Het prijsplafond bedraagt 25 % van het prijsplafond, berekend overeenkomstig het eerste tot en met het derde lid, voor een erfpacht- of opstalperiode van maximaal veertig jaar, en wordt vermeerderd met een half procentpunt per extra jaar. Het vierde lid is niet van toepassing op de vestiging van een recht van erfpacht of een recht van opstal.</p>
-
-<p>§ 3. De extra kosten bij de verwerving betreffen de reële uitgaven met betrekking tot :<br>
-1° het ereloon van de notaris en de aktekosten;<br>
-2° de opmeting van het onroerend goed;<br>
-3° het grondmechanisch en milieutechnisch onderzoek;<br>
-4° het archeologisch vooronderzoek zonder ingreep in de bodem;<br>
-5° keuringen of proeven.</p>
-
-<p>De extra kosten worden beperkt tot 2 % van de kostprijs van de verwerving, vermeld in paragraaf 2.</p>
+...
 
 ### ART. 6.
 
-<P>Voor de sloop, vermeld in artikel 4, § 1, 1°, b), is het subsidiabele bedrag   gelijk aan de reële kostprijs van de sloop, verminderd met eventuele subsidies   die voor de sloop zijn verstrekt op een andere basis dan dit besluit. De reële   kostprijs van de sloop is de som van :<BR>1° de kosten voor de aanneming van de   sloop;<BR>2° de erelonen;<BR>3° de btw op de aanneming;<BR>4° de vergoeding,   verschuldigd op basis van hoofdstuk 2, afdeling 1, van het besluit   Beheersvergoeding.<BR></P>  <P>Technisch ondeelbare werken die niet uitsluitend ten behoeve van de te   realiseren sociale huurwoningen worden uitgevoerd, worden in het subsidiabele   bedrag opgenomen a rato van het grondaandeel van de sociale huurwoningen in   kwestie.</P>
+...
 
 ### ART. 7.
 
-<p>§ 1. Voor de bouw, vermeld in artikel 4, § 1, 1°, c), is het subsidiabele bedrag gelijk aan de som van :<br>
-1° de kostprijs van de bouw, vermeld in paragraaf 2;<br>
-2° de studiekosten, vermeld in paragraaf 3;<br>
-3° de btw op de kostprijs van de bouw en op de studiekosten;<br>
-4° de vergoeding, verschuldigd op basis van hoofdstuk 2, afdeling 1, van het besluit Beheersvergoeding.</p>
-
-<p>§ 2. De kostprijs van de bouw is gelijk aan de reële kostprijs van de bouw, verminderd met eventuele subsidies die voor de bouw zijn verstrekt op een andere basis dan dit besluit, beperkt tot een prijsplafond dat wordt bepaald op basis van de simulatietabel&nbsp;voor bouwverrichtingen die is opgenomen in de&nbsp;normen waaraan sociale woningen moeten voldoen, vastgesteld krachtens artikel 3, § 1, van het Procedurebesluit Wonen.</p>
-
-<p>Het prijsplafond wordt vastgesteld op de datum van de opening van de bieding. Tijdens de uitvoering van de werkzaamheden worden de contractueel overeengekomen prijsherzieningen pro rata toegepast op het prijsplafond, op basis van de procentuele stijging van het totale aanbestedingsbedrag.</p>
-
-<p>§ 3. De studiekosten betreffen de reële uitgaven, exclusief btw, voor :<br>
-1° de studie en de leiding van de werkzaamheden;<br>
-2° de veiligheids- en de gezondheidscoördinatie;<br>
-3° het toezicht op de uitvoering van de opdracht;<br>
-4° archeologisch vooronderzoek met ingreep in de bodem en archeologische opgravingen;<br>
-5° keuringen of proeven;<br>
-6° het houden van de plaatsingsprocedure;<br>
-7° de asbestinventaris,ingevolge het koninklijk besluit van 16 maart 2006 betreffende de bescherming van de werknemers tegen de risico's van blootstelling aan asbest;<br>
-8° de EPB-aangifte, ingevolge het decreet van 22 december 2006 houdende eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat van gebouwen en tot invoering van een energieprestatiecertificaat en tot wijziging van artikel 22 van het REG-decreet.</p>
-
-<p>De studiekosten worden beperkt tot 10 % van de kostprijs van de bouw, vermeld in paragraaf 2.</p>
+...
 
 ### ART. 8.
 
-<p>§ 1. Voor de investering, vermeld in artikel 4, § 1, 1°, d), is het subsidiabele bedrag gelijk aan de som van :<br>
-1° de kostprijs van de investering, vermeld in paragraaf 2;<br>
-2° de studiekosten, vermeld in paragraaf 3;<br>
-3° de btw op de kostprijs van de investering en op de studiekosten;<br>
-4° de vergoeding, verschuldigd op basis van hoofdstuk 2, afdeling 1, van het besluit Beheersvergoeding.</p>
-
-<p>§ 2. De kostprijs van de investering is gelijk aan de reële kostprijs van de investering, verminderd met eventuele subsidies die voor de investering zijn verstrekt op een andere basis dan dit besluit, beperkt tot een prijsplafond dat wordt bepaald op basis van de simulatietabel voor investeringsverrichtingen die is opgenomen in de normen waaraan sociale woningen moeten voldoen, vastgesteld bij artikel 3, § 1, van het Procedurebesluit Wonen van 14 juli 2017.<br>
-<br>
-Het prijsplafond wordt vastgesteld op de datum van de opening van de bieding. Tijdens de uitvoering van de werkzaamheden worden de contractueel overeengekomen prijsherzieningen pro rata toegepast op het prijsplafond, op basis van de procentuele stijging van het totale aanbestedingsbedrag.<br>
-<br>
-Als de investering wordt gedaan in gebouwen, woningen of aanhorigheden die zijn aangekocht conform artikel 9, en als het gedeelte van het subsidiabele bedrag dat aan de verwervingskosten is toegeschreven en dat het subsidiabele bedrag voor grondverwerving, vermeld in artikel 5, overschrijdt, groter is dan 50% van het subsidiabele bedrag, vermeld in artikel 7, dat van toepassing is op de bouw van dezelfde woningtypes, wordt de lening bijkomend beperkt tot het subsidiabele bedrag, vermeld in artikel 7, dat van toepassing is op de bouw van dezelfde woningtypes, verminderd met de niet-afgeschreven investeringskosten. De niet-afgeschreven investeringskosten worden berekend als de som van :<br>
-1° de kosten van verrichtingen als vermeld in artikel 4, § 1, 1°, c) of d), waarvoor een renteloze lening in de zin van het besluit van de Vlaamse Regering, vermeld in artikel 81, 1°, of een marktconforme lening als vermeld in artikel 11, § 2, eerste lid, van dit besluit werd verleend;<br>
-2° het gedeelte van het subsidiabele bedrag dat conform artikel 9 aan de verwervingskosten is toegeschreven en dat het subsidiabele bedrag voor grondverwerving, vermeld in artikel 5, overschrijdt.<br>
-<br>
-Elk van de uitgaven, vermeld in het vierde lid, 1° en 2°, wordt individueel verminderd met een drieëndertigste per volledig jaar dat is verlopen sinds 1 januari van het jaar waarin de uitgave plaatsvond.<br>
-<br>
-§ 3. De studiekosten bij een investering betreffen de reële uitgaven, exclusief btw, vermeld in artikel 7, § 3, en worden beperkt tot 10 % van de kostprijs van de investering, vermeld in paragraaf 2.</p>
+...
 
 ### ART. 9.
 
-<p>§ 1. Voor de combinatie van een verwerving als vermeld in artikel 4, § 1, 1°, a), en een bouw als vermeld in artikel 4, § 1, 1°, c), of een investering als vermeld in artikel 4, § 1, 1°, d),&nbsp;is het subsidiabele bedrag gelijk aan de som van het subsidiabele bedrag voor de verwerving, vermeld in artikel 5, § 1, en het subsidiabele bedrag voor de bouw, vermeld in artikel 7, § 1, die van toepassing zijn op een verwerving en een bouw voor dezelfde combinatie van woningtypes en aanhorigheden als betrokken in het woonproject. Bij het bepalen van het subsidiabele bedrag wordt geen rekening gehouden met eigenschappen van de grond die een kostprijsverhogend effect hebben op de bouw. Het gedeelte van het subsidiabele bedrag dat aan de verwerving kan worden toegeschreven, blijft beperkt tot de schattingsprijs. Voor de verwerving wordt het prijsplafond genomen dat van toepassing is op het moment van de ondertekening van de verkoopovereenkomst, de onteigeningsakte of de vestiging van het recht van erfpacht of het recht van opstal. Voor de bouw&nbsp;of de investering wordt het prijsplafond genomen dat van toepassing is op de datum van de opening van de bieding. Tijdens de uitvoering van de werkzaamheden worden de contractueel overeengekomen prijsherzieningen pro rata toegepast op het prijsplafond, op basis van de procentuele stijging van het totale aanbestedingsbedrag.<br>
-<br>
-De verwerving van een bestaande woning waarin geen investeringen gedaan hoeven te worden voor ze ter beschikking kan worden gesteld als sociale huurwoning, wordt gelijkgesteld met een combinatie van een verwerving en een bouw&nbsp;of een investering als vermeld in het eerste lid. De respectievelijke prijsplafonds zijn deze die van toepassing zijn op het moment van de ondertekening van de verkoopovereenkomst, de onteigeningsakte of de vestiging van het recht van erfpacht of het recht van opstal.<br>
-<br>
-§ 2. ...<br>
-<br>
-§ 3. Het eventuele saldo onder het toepasselijke prijsplafond van een verwerving dat overeenkomstig artikel 5, § 2, vierde lid, aan het prijsplafond voor een andere verwerving wordt toegevoegd, kan voor de toepassing van de eerste en tweede paragraaf in rekening gebracht worden, als dat ook werkelijk aan die verwerving wordt besteed. Als het bedrag dat besteed wordt aan een verwerving, lager is dan het toepasselijke prijsplafond voor de verwerving, vermeld in artikel 5, § 2, eerste tot en met derde lid, wordt het eventuele bedrag dat daardoor extra aan de bouw of de investering wordt besteed, afgetrokken van het saldo, vermeld in artikel 5, § 2, vierde lid.</p>
+...
 
 ### ART. 10.
 
-<p>Als uit de verkoop van een of meer sociale huurwoningen een netto-opbrengst als vermeld in artikel 2, § 2, van bijlage III bij het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode, overblijft, wordt 50 % van de netto-opbrengst in mindering gebracht van het subsidiabele bedrag voor de financiering van de eerstvolgende verrichtingen voor de realisatie of de instandhouding van sociale huurwoningen in de zin van dit hoofdstuk.</p>
-
-<p>Als de initiatiefnemer daarvoor kiest, kan dat bedrag voor de financiering van andere dan de voormelde eerstvolgende verrichtingen in mindering gebracht worden van :<br>
-1° het subsidiabele bedrag voor de financiering van een binnen een termijn van vijf jaar na verkoop van de sociale huurwoning of sociale huurwoningen geplande of lopende investering in renovatie, verbetering of aanpassing als vermeld in artikel 4, § 1, 1°, d);<br>
-2° het subsidiabele bedrag voor de financiering van een binnen de termijn, vermeld in punt 1°, geplande verwerving als vermeld in artikel 4, § 1, 1°, a), waarvoor een bulletlening op tien jaar als vermeld in artikel 11, § 1, eerste lid, of in artikel 22, § 1, eerste lid, wordt verstrekt,die in dat geval niet meer kan worden omgezet in een marktconforme lening als vermeld in artikel 11, § 2;<br>
-3° het saldo boven het toepasselijke prijsplafond van een binnen de termijn, vermeld in punt 1°, geplande of lopende verrichting als vermeld in artikel 4, § 1, 1°.</p>
-
-<p>In afwijking van het eerste lid wordt de netto-opbrengst uit de verkoop van een of meer sociale huurwoningen niet verplicht geherinvesteerd als het niet-investeren van de netto-opbrengst een rechtstreeks positief effect heeft op de stand van de negatieve rekening-courant van de SHM bij de VMSW of op de negatieve vrije cashflow in het eerste, tweede of derde jaar van de door de VMSW voor de SHM opgemaakte financiële planning. Deze afwijking geldt enkel als een SHM volgens de door de VMSW voor de SHM opgemaakte financiële planning in de eerste drie jaren een negatief saldo op de rekening-courant van de SHM bij de VMSW vertoont of in het eerste, tweede of derde jaar van de financiële planning een combinatie kent van ten minste een jaar met een negatief saldo op de rekening-courant van de SHM bij de VMSW en van ten minste een jaar met een negatieve vrije cashflow.</p>
+...
 
 ### ART. 11.
 
-<p>§ 1. Voor de financiering van verwervingen van onbebouwde onroerende goederen als vermeld in artikel 4, § 1, 1°, a), verstrekt de VMSW in aanvang een bulletlening op tien jaar,gekoppeld aan een tussenkomst in de prefinanciering als vermeld in hoofdstuk 4, als de initiatiefnemer daarvan wil gebruikmaken. Een bulletlening is een marktconforme lening waarop de initiatiefnemer tijdens de looptijd geen kapitaalaflossingen doet maar alleen op 31 december de jaarlijkse intresten hoeft te betalen. Het ontleende kapitaal wordt ten laatste aan het einde van de looptijd van de bulletlening in een keer afgelost.</p>
-
-<p>Voor de financiering van verwervingen van goede woningen als vermeld in artikel 1, 10°, van het Procedurebesluit Wonen van 14 juli 2017, verstrekt de VMSW in afwijking van het eerste lid een markconforme lening als vermeld in paragraaf 2, eerste lid, gekoppeld aan een tussenkomst in de leningslast als vermeld in paragraaf 3, als de initiatiefnemer daarvan wil gebruikmaken. Voor de financiering van verwervingen van andere bebouwde onroerende goederen dan goede woningen verstrekt de VMSW een bulletlening op tien jaar als vermeld in het eerste lid, gekoppeld aan een tussenkomst in de prefinanciering als vermeld in hoofdstuk 4, als de initiatiefnemer daarvan wil gebruikmaken.</p>
-
-<p>Op voorwaarde dat een verrichting voor de realisatie of de instandhouding van sociale huurwoningen op de grond in kwestie vatbaar is voor toewijzing op een jaarbudget conform artikel 21, § 1, vijfde lid, van het Procedurebesluit Wonen van 14 juli 2017, zet de VMSW binnen een termijn van een maand na de datum van kennisneming van de gunning de bulletlening, vermeld in het eerste en het tweede lid, om in een markconforme lening als vermeld in paragraaf 2, eerste lid, gekoppeld aan een tussenkomst in de leningslast als vermeld in paragraaf 3, als de initiatiefnemer daarvan wil gebruikmaken. Als de VMSW in de maand december op de hoogte wordt gebracht van de gunning van de werkzaamheden, zet zij de bulletlening om in een marktconforme lening in de maand januari van het jaar dat volgt.</p>
-
-<p>Als een initiatiefnemer de verwerving met eigen middelen heeft gefinancierd, verstrekt de VMSW op de wijze, vermeld in het derde lid, een marktconforme lening als vermeld in paragraaf 2, eerste lid, gekoppeld aan een tussenkomst in de leningslast als vermeld in paragraaf 3, als de initiatiefnemer daarvan wil gebruikmaken. Als een initiatiefnemer de verwerving met middelen van het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, opgericht bij artikel 16 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992, of van Vlabinvest APB heeft gefinancierd, die door de initiatiefnemer aan dat fonds of dat agentschap moeten worden terugbetaald, dan wordt dit gelijkgesteld met een verwerving met eigen middelen.</p>
-
-<p>Voor de financiering van sloop-, bouw- en investeringsverrichtingen als vermeld in artikel 4, § 1, 1°, b), c) en d), verstrekt de VMSW naargelang de vordering van de werkzaamheden een marktconforme lening als vermeld in paragraaf 2, eerste lid, gekoppeld aan een tussenkomst in de leningslast als vermeld in paragraaf 3, als de initiatiefnemer daarvan wil gebruikmaken.</p>
-
-<p>§ 2. De marktconforme lening die de VMSW verstrekt, is een lening met een looptijd van 33 jaar met de toepasselijke referentierentevoet, in voorkomend geval verhoogd met een marge. De methodiek van vaststelling van de referentierentevoet en de marge worden door de raad van bestuur van de VMSW bepaald. De kapitaalaflossingen op die lening stemmen overeen met de kapitaalaflossingen op een theoretische lening voor hetzelfde bedrag en met dezelfde looptijd, maar met een negatieve rentevoet van -1 % waarvan de annuïteiten jaarlijks met 2 % toenemen.</p>
-
-<p>Als de initiatiefnemer een bedrag wil lenen dat hoger is dan het subsidiabele bedrag voor de verrichting in kwestie, verstrekt de VMSW een marktconforme lening als vermeld in het eerste lid voor het subsidiabele bedrag en een aanvullende lening voor het gedeelte dat het subsidiabele bedrag overschrijdt. De kapitaalaflossingen op de aanvullende lening verlopen volgens een annuïteitentabel met vaste annuïteiten met de toepasselijke referentierentevoet, in voorkomend geval verhoogd met een marge. De methodiek van vaststelling van de referentierentevoet en de marge worden door de raad van bestuur van de VMSW bepaald.</p>
-
-<p>§ 3. De tussenkomst in de leningslast wordt verleend bij elke aflossing op de marktconforme lening, vermeld in paragraaf 2, eerste lid, inclusief de eventuele tussentijdse vereffening van interesten.</p>
-
-<p>De tussenkomst is gelijk aan de verschuldigde rente op de marktconforme lening die de VMSW verstrekt, vermeld in paragraaf 2, eerste lid.</p>
-
-<p>Zodra de aflossingsperiode van de marktconforme lening begint te lopen, wordt de tussenkomst verhoogd met 1 % van het openstaande af te lossen kapitaal.</p>
-
-<p>§ 4. Op voorstel van de raad van bestuur van de VMSW legt de minister de voorwaarden voor de toekenning en uitbetaling van de leningen die de VMSW verstrekt overeenkomstig dit artikel en voor de terugbetaling ervan, vast in een basisreglement.</p>
+...
 
 ### ART. 11/1.
 
-De SHM kan, na advies van de VMSW, een lening sluiten bij een regionale of   lokale overheid en bij een publiekrechtelijke instelling als de lening wordt   verstrekt tegen een voordelige rentevoet. De SHM bezorgt de aflossingstabel aan   de VMSW. De lening komt niet in aanmerking bij de berekening van de GSC, vermeld   in hoofdstuk 5 van dit besluit.
+...
 
 ## [HOOFDSTUK 3. Verrichtingen voor de realisatie en de instandhouding van sociale huurwoningen, en voor de realisatie en de instandhouding van sociale huurwoningen, sociale koopwoningen of bescheiden huurwoningen in een gemengd sociaal woonproject, waarvoor een tenlasteneming of een subsidie wordt verleend (verv. BVR 10 mei 2019, art. 2, I: 1 januari 2020)]
 
@@ -327,202 +110,83 @@ De SHM kan, na advies van de VMSW, een lening sluiten bij een regionale of   lok
 
 ### ART. 12.
 
-<p>§ 1. De initiatiefnemer treedt op als aanbestedende overheid voor de aanleg of de aanpassing van de wooninfrastructuur, vermeld in artikel 4, § 1, 2°, a), tenzij hij met de VMSW, de gemeente en eventuele andere betalende partijen afspreekt wie van hen in hun naam zal optreden als aanbestedende overheid.<br>
-<br>
-Als de VMSW optreedt als aanbestedende of als medeaanbestedende overheid voor de aanleg of de aanpassing van de wooninfrastructuur, verleent de VMSW een tenlasteneming overeenkomstig de bepalingen van artikel 13 en 14. Zo niet verleent de VMSW een subsidie aan de aanbestedende overheid overeenkomstig de bepalingen van artikel 15.</p>
-
-<p>§ 2. In afwijking van paragraaf 1 komt de aanleg of de aanpassing van wooninfrastructuur, vermeld in artikel 4, § 1, 2°, a), niet in aanmerking voor een tenlasteneming of een&nbsp;subsidie als voor de verwerving van de grond waarop de infrastructuur wordt aangelegd of aangepast, een financiering als uitgeruste grond in de zin van artikel 4, § 2, tweede lid, 3°, van het besluit van de Vlaamse Regering van 12 oktober 2007, vermeld in artikel 81, 1°, of in de zin van artikel 5, § 2, tweede lid, 3°, van dit besluit, werd verleend.</p>
+...
 
 ### ART. 12/1.
 
-De ontwerpers van een stedenbouwkundige studie voor de aanleg of   aanpassing van wooninfrastructuur moeten voldoen aan de volgende kwalificaties   om in aanmerking te komen : <BR>1° ontwerper stedenbouw : master in stedenbouw   en de ruimtelijke planning of gelijkwaardig;<BR>2° ontwerper wegen- en   rioleringswerken : master in de ingenieurswetenschappen optie bouwkunde, master   in de industriële ingenieurswetenschappen optie bouwkunde of   gelijkwaardig;<BR>3° ontwerper omgevingswerken : professionele bachelor in de   landschapsarchitectuur of gelijkwaardig.
+...
 
 ### ART 12/2.
 
-Het minimumaandeel sociale huurwoningen van het gemengd sociaal woonproject, vermeld in artikel 60, § 1, tweede lid, van de Vlaamse Wooncode, wordt vastgesteld op 80% van het totale aantal te realiseren sociale huurwoningen, sociale koopwoningen of bescheiden huurwoningen van datzelfde project. In dat geval komt het volledige project volgens de voorwaarden, vermeld in deze afdeling, in aanmerking voor de tenlasteneming of subsidiëring van de aanleg of de aanpassing van wooninfrastructuur.
+...
 
 ### ART. 13.
 
-<p>§ 1. Voor de verrichting, vermeld in artikel 4, § 1, 2°, a), 1), is het bedrag waarop de tenlasteneming berekend wordt, gelijk aan de som, inclusief btw, van :<br>
-1° de kostprijs van het bouwrijp maken, vermeld in paragraaf 2;<br>
-2° de algemene kosten, vermeld in paragraaf 3;<br>
-3° de contractuele prijsherzieningen.</p>
-
-<p>§ 2. De kostprijs van het bouwrijp maken van de gronden is gelijk aan de reële kostprijs van het bouwrijp maken, met inbegrip van de eventuele sloop van de aanwezige constructies.</p>
-
-<p>Magazijnkosten, beheer- en coördinatiekosten, vervoerskosten, alsook eventuele kosten voor de uitvoering van archeologisch vooronderzoek met ingreep in de bodem of van verplichte archeologische opgravingen, maken deel uit van de kostprijs, vermeld in het eerste lid.</p>
-
-<p>§ 3. De algemene kosten zijn de reële uitgaven voor :<br>
-1° de studie en de leiding van de werkzaamheden;<br>
-2° de veiligheids- en de gezondheidscoördinatie;<br>
-3° het toezicht op de uitvoering van de opdracht;<br>
-4° het grondmechanisch en milieutechnisch onderzoek;<br>
-5° keuringen of proeven;<br>
-6° het archeologisch vooronderzoek zonder ingreep in de bodem;<br>
-7° het houden van de plaatsingsprocedure.</p>
-
-<p>§ 4. De tenlasteneming bedraagt 100 % van het bedrag, vermeld in paragraaf 1.</p>
-
-<p>Een verrichting die enerzijds de belangen van de sociale huurwoningen die tot het project behoren, of de belangen van de sociale huurwoningen, sociale koopwoningen of bescheiden huurwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2, en anderzijds andere gemeenschappelijke belangen of private belangen ten goede komt, wordt ten laste genomen op basis van door de minister vastgestelde criteria voor evenredige verdeling.</p>
-
-<p>§ 5. De kosten van meerwerken worden ten laste genomen als de VMSW oordeelt dat ze bestemd en noodzakelijk zijn voor de oprichting of de bruikbaarheid van de sociale huurwoningen die tot het woonproject behoren, of van de sociale huurwoningen, sociale koopwoningen of bescheiden huurwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2.</p>
+...
 
 ### ART. 14.
 
-<p>§ 1. Voor de verrichtingen, vermeld in artikel 4, § 1, 2°, a), 2) en 3), is het bedrag waarop de tenlasteneming berekend wordt, gelijk aan de som, inclusief btw, van :<br>
-1° de kostprijs van de uitvoering van de infrastructuurwerken of van de oprichting van de gemeenschapsvoorzieningen, vermeld in paragraaf 2;<br>
-2° de algemene kosten, vermeld in artikel 13, § 3;<br>
-3° de contractuele prijsherzieningen.</p>
-
-<p>§ 2. De kostprijs van de uitvoering van de infrastructuurwerken is gelijk aan de reële kostprijs voor de uitvoering van de infrastructuurwerken.</p>
-
-<p>De kostprijs van de oprichting van de gemeenschapsvoorzieningen is gelijk aan de reële kostprijs voor de oprichting van de gemeenschapsvoorzieningen.</p>
-
-<p>Magazijnkosten, beheer- en coördinatiekosten, vervoerskosten, alsook eventuele kosten voor de uitvoering van archeologisch vooronderzoek met ingreep in de bodem of van verplichte archeologische opgravingen, maken deel uit van de kostprijs, vermeld in het eerste lid.</p>
-
-<p>§ 3. De tenlasteneming wordt als volgt berekend :<br>
-1° als de verrichting betrekking heeft op de realisatie of de instandhouding van sociale huurwoningen binnen een bestaande woonkern of op de realisatie of de instandhouding van sociale huurwoningen, sociale koopwoningen of bescheiden huurwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2, binnen een bestaande woonkern, bedraagt de tenlasteneming 100% van het bedrag, vermeld in paragraaf 1;<br>
-2° ...;<br>
-3° als de verrichting betrekking heeft op de realisatie of de instandhouding van sociale huurwoningen buiten een bestaande woonkern of op de realisatie of de instandhouding van sociale huurwoningen, sociale koopwoningen of bescheiden huurwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2, buiten een bestaande woonkern, bedraagt de tenlasteneming 80% van het bedrag, vermeld in paragraaf 1;<br>
-4° ...;<br>
-5° ...;<br>
-6° het gedeelte van een technisch ondeelbare verrichting die andere gemeenschappelijke belangen dan de belangen van de sociale huurwoningen die tot het project behoren, of de belangen van de sociale huurwoningen, sociale koopwoningen of bescheiden huurwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2, ten goede komt, wordt ten laste genomen voor 60 %;<br>
-7° een verrichting die enerzijds de belangen van de sociale huurwoningen die tot het project behoren&nbsp;of de belangen van de sociale huurwoningen, sociale koopwoningen of bescheiden huurwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2, en anderzijds andere gemeenschappelijke belangen of private belangen ten goede komt, wordt ten laste genomen op basis van door de minister vastgestelde criteria voor evenredige verdeling.</p>
-
-<p>Het maximumbedrag van de tenlasteneming, berekend overeenkomstig het eerste lid, wordt vastgesteld op 20.000 euro, inclusief btw, per bestaande of toekomstige sociale huurwoning&nbsp;of per bestaande of toekomstige sociale huurwoning, sociale koopwoning of bescheiden huurwoning in een gemengd sociaal woonproject als vermeld in artikel 12/2, met ontsluiting via de aan te leggen of aan te passen wooninfrastructuur.</p>
-
-<p>Op gemotiveerd verzoek van de VMSW kan de minister beslissen dat de tenlasteneming, berekend overeenkomstig het eerste lid, het maximumbedrag, vermeld in het tweede lid, met ten hoogste 50 % mag overschrijden. In haar verzoek licht de VMSW toe welke elementen tot een overschrijding van het maximumbedrag leiden en om welke redenen het Vlaamse Gewest de overschrijding toch ten laste zou moeten nemen.</p>
-
-<p>§ 4. De kosten van meerwerken worden ten laste genomen overeenkomstig de bepalingen van artikel 13, § 5.</p>
+...
 
 ### ART. 15.
 
-<p>§ 1. Voor de verrichting, vermeld in artikel 4, § 1, 2°, a),1), is het subsidiabele bedrag gelijk aan de som, inclusief de niet-aftrekbare btw, van :<br>
-1° de kostprijs van het bouwrijp maken, vermeld in artikel 13, § 2;<br>
-2° de algemene kosten, forfaitair vastgesteld op 10 % van de kostprijs, inclusief decontractuele prijsherzieningen.<br>
-<br>
-Als het een verrichting voor de realisatie van sociale koopwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2, betreft, wordt de som, vermeld in het eerste lid, verhoogd met het gedeelte van de verschuldigde btw op de verkoopprijs van de sociale koopwoningen als gevolg van de verrekening van de subsidie met de verkoopprijs voor de berekening van de btw.</p>
-
-<p>De subsidie bedraagt 100 % van het subsidiabele bedrag, vermeld in het eerste lid.</p>
-
-<p>Als een verrichting enerzijds de belangen van de sociale huurwoningen die tot het project behoren&nbsp;of de belangen van de sociale huurwoningen, sociale koopwoningen of bescheiden huurwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2, en anderzijds andere gemeenschappelijke belangen of private belangen ten goede komt, wordt de subsidie berekend op basis van de door de minister vastgestelde criteria voor evenredige verdeling.</p>
-
-<p>§ 2. Voor de verrichtingen, vermeld in artikel 4, § 1, 2°, a), 2) en 3), is het subsidiabele bedrag gelijk aan de som, inclusief de niet-aftrekbare btw, van :<br>
-1° de kostprijs van de uitvoering van de infrastructuurwerken of van de oprichting van de gemeenschapsvoorzieningen, vermeld in artikel 14, § 2;<br>
-2° de algemene kosten, forfaitair vastgesteld op 10 % van de kostprijs, inclusief de contractuele prijsherzieningen.<br>
-<br>
-Als het een verrichting voor de realisatie van sociale koopwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2, betreft, wordt de som, vermeld in het eerste lid, verhoogd met het gedeelte van de verschuldigde btw op de verkoopprijs van de sociale koopwoningen als gevolg van de verrekening van de subsidie met de verkoopprijs voor de berekening van de btw.<br>
-<br>
-De subsidie wordt berekend overeenkomstig artikel 14, § 3, eerste lid, met dien verstande dat :<br>
-1° met « de tenlasteneming » telkens « de subsidie » bedoeld wordt en dat met « het bedrag, vermeld in paragraaf 1 » telkens « het subsidiabele bedrag, vermeld in het eerste lid » bedoeld wordt;<br>
-2° het maximumbedrag van de subsidie per bestaande of toekomstige sociale huurwoning&nbsp;of per bestaande of toekomstige sociale huurwoning, sociale koopwoning of bescheiden huurwoning in een gemengd sociaal woonproject als vermeld in artikel 12/2, met ontsluiting via de aan te leggen of aan te passen wooninfrastructuur wordt vastgesteld op :<br>
-a) 20.000 euro, inclusief btw, in geval van&nbsp;een openbare of niet-openbare procedure overeenkomstig de overheidsopdrachtenwetgeving;<br>
-b) 16.000 euro, inclusief btw, in andere gevallen.</p>
-
-<p>Als voor een verrichting als vermeld in artikel 4, § 1, 2°, a), 2) of 3), zowel tenlastenemingen als subsidies verleend worden, is een cumulatie mogelijk tot een maximumbedrag van 20.000 euro, inclusief btw, per bestaande of toekomstige sociale huurwoning&nbsp;of per bestaande of toekomstige sociale huurwoning, sociale koopwoning of bescheiden huurwoning in een gemengd sociaal woonproject als vermeld in artikel 12/2, met ontsluiting via de aan te leggen of aan te passen wooninfrastructuur, a rato van het deel of de delen van de verrichting waarvoor de procedure van een openbare of niet-openbare procedure overeenkomstig de overheidsopdrachtenwetgeving wordt toegepast.</p>
-
-<p>Op gemotiveerd verzoek van de initiatiefnemer en na advies van de VMSW kan de minister beslissen dat de som van de tenlastenemingen en subsidies, respectievelijk berekend overeenkomstig artikel 14, § 3, eerste lid, en het derde lid van deze paragraaf, het maximumbedrag, vermeld in het vierde lid, met ten hoogste 50 % mag overschrijden. In zijn verzoek licht de initiatiefnemer toe welke elementen tot een overschrijding van het maximumbedrag leiden en om welke redenen het Vlaamse Gewest de overschrijding toch ten laste zou moeten nemen of zou moeten subsidiëren.</p>
-
-<p>§ 3. De kosten voor meerwerken kunnen gesubsidieerd worden als de VMSW, op basis van door de initiatiefnemer aangebrachte gegevens, oordeelt dat ze bestemd en noodzakelijk zijn voor de oprichting of de bruikbaarheid van de sociale huurwoningen die tot het project behoren, of van de sociale huurwoningen, sociale koopwoningen of bescheiden huurwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2.</p>
+...
 
 ### ART. 16.
 
-Per begrotingsjaar kan de minister slechts overschrijdingen van de   maximumbedragen, vermeld in artikel 14, § 3, tweede lid, en in artikel 15, § 2,   vierdelid, ten laste nemen of subsidiëren tot maximaal 3 % van het daarvoor op   de begroting van de Vlaamse Gemeenschap voorziene budget voor de verrichtingen,   vermeld in artikel 4, § 1, 2°, a).
+...
 
 ### ART. 17.
 
-<p>§ 1. Als voor een verrichting als vermeld in artikel 4, § 1, 2°, a),een tenlasteneming of een subsidie is aangevraagd, geldt&nbsp;het verstrijken van een termijn van veertien kalenderdagen vanaf een verzoek tot toewijzing op een jaarbudget als vermeld in artikel 21, § 2, derde lid, van het Procedurebesluit Wonen van 14 juli 2017, als beslissing tot toekenning van de tenlasteneming of de subsidie.</p>
-
-<p>§ 2. ...<br>
-<br>
-§ 3. Voor de uitbetaling van de subsidies, vermeld in artikel 15, § 1, tweede lid, en § 2, tweede lid, worden aan de initiatiefnemers voorschotten uitgekeerd die worden berekend op basis van het&nbsp; gunningsbedrag van de werken, inclusief btw.</p>
-
-<p>De voorschotten worden als volgt uitbetaald :<br>
-1° een eerste schijf van 30 % van het subsidiebedrag na de overlegging van het aanvangsbevel;<br>
-2° een tweede schijf van 30 % van het subsidiebedrag als de kostprijs van de uitgevoerde werkzaamheden, met uitzondering van de kosten van meerwerken en de prijsherzieningen, meer bedraagt dan 75 % van het voorschot, vermeld in punt 1° ;<br>
-3° een derde schijf van 30 % van het subsidiebedrag als de kostprijs van de uitgevoerde werkzaamheden, met uitzondering van de kosten van meerwerken en de prijsherzieningen, meer bedraagt dan 75 % van de voorschotten, vermeld in punt 1° en 2°.</p>
-
-<p>Het saldo van het subsidiebedrag wordt uitbetaald na de goedkeuring van de eindafrekening.</p>
+...
 
 ### ART. 18.
 
-<p>De grond waarin of waarop de infrastructuurwerken worden uitgevoerd, en de wooninfrastructuur zelf worden uiterlijk twaalf maanden na de voorlopige oplevering van de weg- en rioleringswerkzaamheden&nbsp;aan de gemeente overgedragen om in het gemeentelijk openbaar domein te worden opgenomen.<br>
-<br>
-De initiatiefnemer kan de gemeenschapsvoorzieningen overeenkomstig artikel 65, tweede lid van de Vlaamse Wooncode, binnen de termijn, vermeld in het eerste lid, aan de gemeente overdragen om in het gemeentelijk openbaar domein te worden opgenomen.</p>
-
-<p>De overdracht, vermeld in het eerste en het tweede&nbsp;lid, wordt geregeld bij akte, verleden door een notaris, als de gemeente in kwestie daarmee instemt, of door de burgemeester met toepassing van artikel 9 van de wet van 27 mei 1870 houdende vereenvoudiging van de administratieve formaliteiten inzake onteigening voor openbaar nut, en op basis van een opmetingsplan van de initiatiefnemer.</p>
+...
 
 ### ART. 19.
 
-Deze afdeling is van overeenkomstige toepassing op de verrichtingen, vermeld in artikel 4, § 1, 2°, a), die deel uitmaken van een woonproject met sociaal karakter, met dien verstande dat:<br>
-1° met "sociale huurwoningen" telkens de huurwoningen worden bedoeld die deel uitmaken van een woonproject met sociaal karakter;<br>
-2° met "sociale huur- en koopwoningen in een gemengd sociaal woonproject als vermeld in artikel 12/2" telkens de huurwoningen, sociale koopwoningen of bescheiden huurwoningen worden bedoeld die deel uitmaken van een woonproject met sociaal karakter waarin het aandeel huurwoningen minimaal 80% bedraagt van het totale aantal te realiseren huurwoningen, sociale koopwoningen of bescheiden huurwoningen.<br>
-<br>
-Als de kandidaat-koper of -erfpachtnemer van een koopwoning of een kavel die gefinancierd is met middelen van het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, opgericht bij artikel 16 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992, of van Vlabinvest APB, niet voldoet aan de inkomensvoorwaarden, vermeld in artikel 3, § 1, van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode, wordt het bedrag van de tenlasteneming of het bedrag van de forfaitaire subsidie voor de aanleg of aanpassing van wooninfrastructuur verrekend in de verkoopprijs van de woning of kavel of verrekend in de erfpachtcanon.<br>
-<br>
-De verkoper of erfpachtgever betaalt overeenkomstig artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof het bedrag van de tenlasteneming of de forfaitaire subsidie terug aan het Vlaamse Gewest, ten bate van het Fonds voor de Huisvesting, vermeld in artikel 59 van de Vlaamse Wooncode.
+...
 
 ## Afdeling 2. [... (opgeh. BVR 18 december 2015, art. 9, I: 1 januari 2015)]
 
 ### ART. 20.
 
-<P><STRONG><EM>...</EM></STRONG></P>
+...
 
 ### ART. 21.
 
-<P>...</P>
+...
 
 ### ART. 22.
 
-<P>...</P>
+...
 
 ## Afdeling 3. [... (opgeh. BVR 18 december 2015, art. 10, I: 1 januari 2015)]
 
 ### ART. 23.
 
-<P>...</P>
+...
 
 ### ART. 24.
 
-<P>...</P>
+...
 
 ### ART. 25.
 
-<P>...</P>
+...
 
 ## [Afdeling 4. Beoordeling van de ligging in een bestaande woonkern (ing. BVR 25 oktober 2013, art. 49, I: 1 januari 2014)]
 
 ### ART. 25/1.
 
-&nbsp;§ 1. Het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving oordeelt of een project in een bestaande woonkern ligt. Het levert daarvoor een attest « ligging in een bestaande woonkern » af.<br>
-<br>
-§ 2. De initiatiefnemer kan het agentschap, vermeld in paragraaf 1, een aanvraag voor een attest « ligging in een bestaande woonkern » bezorgen.<br>
-<br>
-Binnen een termijn van dertig kalenderdagen, die ingaat op de dag na de ontvangst van de aanvraag, vermeld in het eerste lid, oordeelt het agentschap of het project in een bestaande woonkern ligt. Het agentschap voert de beslissing in het Projectportaal, vermeld in&nbsp;artikel 5 van het Procedurebesluit Wonen van 14 juli 2017, in en brengt de initiatiefnemer op de hoogte. De vaststelling van de ligging in een bestaande woonkern wordt neergelegd in een attest, dat in voorkomend geval bij de beslissing van het agentschap gevoegd wordt.<br>
-<br>
-Als het agentschap vanwege de onvolledigheid van de aanvraag bijkomende documenten of inlichtingen moet opvragen, wordt de vervaltermijn, vermeld in het tweede lid, geschorst. De termijn begint opnieuw te lopen op de zevende kalenderdag na de ontvangst van de bijkomende documenten of inlichtingen.<br>
-<br>
-Als het agentschap niet tijdig een beslissing neemt, wordt het project geacht in een bestaande woonkern te liggen.<br>
-<br>
-§ 3. De initiatiefnemer van wie de aanvraag voor een attest « ligging in een bestaande woonkern » afgewezen wordt, kan daartegen beroep aantekenen.<br>
-<br>
-Het beroep wordt op straffe van onontvankelijkheid ingediend met een beveiligde zending op het adres van het agentschap, vermeld in paragraaf 1. De minister doet uitspraak over het beroep binnen een termijn van vijfenveertig kalenderdagen, die ingaat op de dag na de betekening van het beroepschrift.<br>
-<br>
-Een weigering van Wonen-Vlaanderen om een attest « ligging in een bestaande woonkern » af te geven is definitief als binnen dertig kalenderdagen die ingaat op de dag na de kennisgeving van de beslissing door het agentschap, geen beroep is ingesteld, bij een negatieve uitspraak van de minister over het beroep of bij gebrek aan een uitspraak binnen de termijn van vijfenveertig kalenderdagen, vermeld in het tweede lid.<br>
-<br>
-Het agentschap voert de beslissing van de minister over het beroep in het Projectportaal, vermeld in&nbsp;artikel 5 van het Procedurebesluit Wonen van 14 juli 2017, in en brengt de initiatiefnemer met een beveiligde zending op de hoogte. In voorkomend geval wordt een attest « ligging in een bestaande woonkern » bij de beslissing van de minister gevoegd.<br>
-<br>
-Als vanwege de onvolledigheid van het dossier bijkomende documenten of inlichtingen opgevraagd moeten worden, wordt de vervaltermijn, vermeld in het tweede lid, geschorst. De termijn begint opnieuw te lopen op de zevende kalenderdag na de betekening met een beveiligde zending van de bijkomende documenten of inlichtingen.
+...
 
 ## HOOFDSTUK 4.[Verwervingen voor de realisatie van sociale huurwoningen waarvoor een tussenkomst in de prefinanciering wordt verstrekt (verv. BVR 18 december 2015, art. 11, I: 1 januari 2015)]
 
 ### ART. 26.
 
-<p>§ 1. De tussenkomst in de prefinanciering van verwervingen voor de realisatie van sociale huurwoningen wordt verstrekt zodra de bouwverrichting principieel vatbaar is voor opname in de meerjarenplanning conform artikel 14, § 3, vierde of zesde lid, van het Procedurebesluit Wonen van 14 juli 2017.<br>
-<br>
-De tussenkomst in de prefinanciering, vermeld in het eerste lid, wordt verleend bij elke betaling op 31 december van de jaarlijkse intresten op de bulletlening, vermeld in artikel 11, § 1, eerste lid. De tussenkomst is gelijk aan de verschuldigde rente op 40% van het subsidiabele bedrag, vermeld in artikel 5, § 1, met een rentevoet die overeenstemt met de rentevoet die aangerekend wordt op de bulletlening.</p>
-
-<p>§ 2. De tussenkomst in de prefinanciering van verwervingen voor de realisatie van sociale huurwoningen wordt stopgezet zodra de bulletlening overeenkomstig artikel 11, § 1, derde lid, wordt omgezet in een markconforme lening, gekoppeld aan een tussenkomst in de leningslast, en uiterlijk na vijf jaar.</p>
+...
 
 ## HOOFDSTUK 5. Toekenning van een GSC aan SHM's
 
@@ -530,78 +194,47 @@ De tussenkomst in de prefinanciering, vermeld in het eerste lid, wordt verleend 
 
 ### ART. 27.
 
-<P>§ 1. De GSC wordt aan een SHM toegekend als de inkomsten in het   referentiejaar, vermeld in afdeling 2, lager zijn dan de uitgaven in het   referentiejaar, vermeld in afdeling 3.<BR></P>  <P>De inkomsten en uitgaven, vermeld in het eerste lid, van een SHM hebben   betrekking op alle sociale huurwoningen in eigendom of in huur van de SHM in   kwestie, met uitzondering van alle woningen binnen een woonproject met sociaal   karakter die gefinancierd zijn met middelen van het Investeringsfonds voor   Grond- en Woonbeleid voor Vlaams-Brabant, opgericht bij artikel 16 van het   decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de   begroting 1992, of van Vlabinvest APB, en op alle niet-residentiële ruimten van   de SHM in kwestie die gesubsidieerd zijn door het Vlaamse Gewest.<BR></P>  <P>Voor de toepassing van het tweede lid wordt een niet-residentiële ruimte van   een SHM vermoed gesubsidieerd te zijn door het Vlaamse Gewest, tenzij de SHM   aantoont dat de realisatie ervan met eigen middelen is bekostigd en dat er geen   overeenkomstige financieringskosten in de uitgaven voor de GSC worden   verrekend.<BR></P>  <P>§ 2. De GSC voor een referentiejaar is gelijk aan het negatieve verschil   tussen de inkomsten en uitgaven van dat referentiejaar, vermeld in paragraaf 1,   eerste lid, na de verrekening van eventuele positieve saldo's van voorgaande   referentiejaren overeenkomstig het tweede lid.<BR></P>  <P>Als de inkomsten in een referentiejaar hoger zijn dan de uitgaven in   datzelfde referentiejaar, dat ten vroegste 2011 betreft, wordt het positieve   saldo overgedragen naar het volgende referentiejaar. Als zich in het volgende   referentiejaar een negatief saldo voordoet, wordt dat met het positieve saldo   van het voorgaande referentiejaar verrekend. Het eventuele resterende positieve   saldo wordt verder overgedragen naar de volgende referentiejaren, waarbij het   positieve saldo van het vroegste referentiejaar als eerste wordt verrekend. In   het zesde jaar na het oorspronkelijke referentiejaar vervalt het eventuele   resterende positieve saldo van dat oorspronkelijke   referentiejaar.</P>
+...
 
 ### ART. 28.
 
-<p>§ 1. De minister stelt de berekeningswijze van de GSC vast. De VMSW berekent jaarlijks de GSC aan de hand van de gegevens uit het referentiejaar, die de SHM's elektronisch ter beschikking stellen van de VMSW volgens de procedure die de minister vaststelt. In het kader van beleidsevaluatie stelt de VMSW ter uitvoering van artikel 24 van de Vlaamse Wooncode dezelfde gegevens ook ter beschikking van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving.</p>
-
-<p>De minister kan de uitbetaling van de GSC of een gedeelte ervan gedurende maximaal vijf jaar inhouden als een SHM de gegevens, vermeld in het eerste lid, niet of laattijdig ter beschikking stelt.</p>
-
-<p>§ 2. In het referentiejaar wordt aan de SHM een voorschot op de GSC toegekend. Bij de vaststelling van het voorschot op de GSC wordt rekening gehouden met de evolutie van de inkomsten en uitgaven van de voorbije jaren, en met de beschikbare informatie over het referentiejaar zelf. De SHM waaraan het voorgaande referentiejaar een GSC is toegekend, ontvangt een voorschot van maximaal 90 % van de voor het voorgaande referentiejaar toegekende GSC. De minister kan de nadere voorwaarden voor het vaststellen van het voorschot op de GSC bepalen en legt de verdere voorwaarden voor de uitbetaling van de GSC aan de SHM's vast.</p>
-
-<p>In het jaar dat volgt op het referentiejaar wordt de definitieve GSC vastgesteld op basis van de gegevens over het referentiejaar. Het saldo van de GSC wordt verrekend met het voorschot op de GSC voor het volgende referentiejaar.</p>
-
-<p>§ 3. Als aanvullende informatie later uitwijst dat de berekening van de GSC niet correct was, wordt het saldo verrekend bij de vaststelling van het voorschot voor het lopende referentiejaar, op voorwaarde dat die verrekening maximaal vijf jaar na het oorspronkelijke referentiejaar plaatsvindt. Als een door een SHM te veel ontvangen bedrag niet verrekend kan worden omdat er geen GSC meer verschuldigd is aan de SHM, stelt de SHM het te veel ontvangen bedrag ter beschikking van de VMSW binnen een jaar nadat de VMSW om terugbetaling van het te veel ontvangen bedrag heeft verzocht, op voorwaarde dat het verzoek binnen vijf jaar na het referentiejaar plaatsvindt.<br>
-<br>
-§ 4. In geval van een fusie van twee of meer SHM's, een herstructurering door splitsing, of bij inbreng van een bedrijfstak of een algemeenheid in een SHM, wordt de GSC voor het referentiejaar waarin de fusie, splitsing of inbreng plaatsvindt, ongeacht de datum van de boekhoudkundige retroactiviteit, met ingang van 1 januari van dat referentiejaar berekend door de betrokken verrichtingen van alle vennootschappen of delen van vennootschappen samen te voegen op basis van de vennootschappen die ontstaan na de fusie, splitsing of inbreng. Voor de referentiejaren die de fusie voorafgaan, worden de GSC en eventuele latere correcties daarop berekend voor de afzonderlijke vennootschappen, zonder onderlinge verrekening. De resulterende bedragen komen ten goede van of zijn verschuldigd door de fusievennootschap, en worden in geval van een splitsing of inbreng verdeeld op basis van de verdeling van het vermogen die in de splitsings- of inbrengakte is bepaald.<br>
-<br>
-In het referentiejaar waarin de fusie plaatsvindt, vervallen alle eventuele positieve saldi van de voorgaande referentiejaren, vermeld in artikel 27, § 2, tweede lid.</p>
+...
 
 ## Afdeling 2. De inkomsten
 
 ### ART. 29.
 
-De volgende inkomsten van de SHM worden in aanmerking genomen voor de berekening van de GSC :<br>
-1° de theoretische huurinkomsten, vermeld in artikel 30, § 1;<br>
-2° de positieve interest op de rekening-courant bij de VMSW;<br>
-3° de positieve interest van andere rekeningen dan die bij de VMSW;<br>
-4° de financiële tegemoetkomingen, vermeld in :<br>
-a) artikel 12 van het besluit van de Vlaamse Regering van 14 mei 2004 houdende bepalingen inzake PPS-projecten sociale huisvesting in toepassing van artikel 33 van de Vlaamse Wooncode en artikel II.5 en III.9 van de bijlage, gevoegd bij het voormelde besluit;<br>
-b) artikel 4 tot en met 11 en artikel 12 tot en met 17 van het besluit van de Vlaamse Regering van 23 juli 1992 tot uitvoering van artikel 49 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992;<br>
-c) artikel 2 van het besluit van de Vlaamse Regering van 19 mei 1987 tot instelling van een huurcompensatie;<br>
-d) artikel 2, eerste lid, b) van het besluit van de Vlaamse Regering van 4 april 1990 tot aanmoediging van de bouw van sociale huurwoningen;<br>
-5° de korting, toegekend op basis van hoofdstuk 2, afdeling 4, van het besluit Beheersvergoeding, als ze werd verrekend met de vergoeding verschuldigd op basis van hoofdstuk 2, afdeling 2, van het besluit Beheersvergoeding;<br>
-6° andere door de minister te bepalen inkomsten, na overleg met de sector en na mededeling aan de Vlaamse Regering;<br>
-7° de vergoeding, vermeld in artikel 35, § 1, eerste lid, van het Kaderbesluit Sociale Huur, als de plaatsing van de fotovoltaïsche installatie werd gefinancierd met een marktconforme lening als vermeld in artikel 11, § 2, eerste lid.
+...
 
 ### ART. 30.
 
-<p>§ 1. De theoretische huurinkomsten zijn de reële huurinkomsten van alle woningen of gebouwen in eigendom of in huur van de SHM die overeenkomstig artikel 27, § 1, van dit besluit in aanmerking genomen worden voor de GSC-berekening.<br>
-<br>
-Met betrekking tot de sociale huurwoningen die verhuurd worden volgens het Kaderbesluit Sociale Huur, wordt in afwijking van het eerste lid rekening gehouden met de huurinkomsten die de SHM in het referentiejaar zou ontvangen in de veronderstelling dat alle huurders gedurende de twaalf maanden van het referentiejaar de volledig verschuldigde, reële huurprijs betalen. Voor die berekening wordt rekening gehouden met de aangepaste huurprijs, vermeld in artikel 46 van het voormelde besluit.<br>
-<br>
-Als de verhuring van een sociale huurwoning als vermeld in het tweede lid, gedurende een bepaalde periode van het jaar onderbroken is door niet-structurele leegstand, wordt daarvoor gedurende die periode de gemiddelde verschuldigde reële huurprijs van alle zittende huurders in het referentiejaar van die SHM in aanmerking genomen.<br>
-<br>
-Als artikel 78, § 2, van het Kaderbesluit Sociale Huur op een of meer woningen van de SHM van toepassing is, wordt, met behoud van het tweede, derde en vierde lid, voor de vaststelling van de theoretische huurinkomsten rekening gehouden met de totale huurprijs met toepassing van artikel 38 tot en met 50 van het voormelde besluit.</p>
-
-<p>§ 2. Voor de berekening van de GSC wordt de positieve interest op de rekening-courant bij de VMSW, vermeld in artikel 29, 2°, van dit besluit, verminderd met het product van de interestvoet op de rekening-courant op lange termijn en het bedrag van 15.000 euro per volle schijf van 500 sociale huurwoningen in het patrimonium van de SHM. De vermindering bedraagt maximaal 20.000 euro.</p>
+...
 
 ## Afdeling 3. De uitgaven
 
 ### ART. 31.
 
-<P>De volgende uitgaven van de SHM worden in aanmerking genomen voor de   berekening van de GSC :<BR>1° de onroerende voorheffing, vermeld in artikel 32,   § 1;<BR>2° de kapitaals- en interestlasten van leningen, aangegaan bij de VMSW,   vermeld in artikel 32, § 2, in voorkomend geval verminderd met de verleende   tussenkomst in de leningslast, vermeld in artikel 11, § 3, en de verleende   tussenkomst in de prefinanciering, vermeld in artikel 26, § 1;<BR>3° de   kapitaals- en interestlasten van leningen, aangegaan bij een andere instelling   dan de VMSW voor 1 januari 2008, waarvan kan worden aangetoond dat ze   rechtstreeks zijn aangewend voor de realisatie of de instandhouding van sociale   huurwoningen;<BR>4° de huurachterstand, forfaitair vastgesteld op 1 % van de   theoretische huurinkomsten, vermeld in artikel 30, § 1;<BR>5° de kosten die   verbonden zijn aan leegstand, forfaitair vastgesteld op 1,5 % van de   theoretische huurinkomsten, vermeld in artikel 30, § 1;<BR>6° de algemene   werkings- en onderhoudskosten, vermeld in artikel 32, § 3;<BR>7° de kosten voor   een sociale dienst, vermeld in artikel 32, § 4;<BR>8° de vergoeding voor   geïnvesteerde rekening-courantmiddelen, vermeld in artikel 32, § 5;<BR>9° de   vergoeding, verschuldigd op basis van hoofdstuk 2, afdeling 2, van het besluit   Beheersvergoeding;<BR>10° het bedrag, verschuldigd op basis van artikel 3 van   het besluit Beheersvergoeding;<BR>11° de erfpachtcanon, vermeld in artikel III.4   van de bijlage bij het besluit van de Vlaamse Regering van 14 mei 2004 houdende   bepalingen inzake PPS-projecten sociale huisvesting in toepassing van artikel 33   van de Vlaamse Wooncode;<BR>12° de huurprijs die betaald is met toepassing van   het besluit van de Vlaamse Regering van 19 mei 1987 tot instelling van een   huurcompensatie of van het besluit van de Vlaamse Regering van 4 april 1990 tot   aanmoediging van de bouw van sociale huurwoningen;<BR>13° de met toepassing van   artikel 47 van het Kaderbesluit Sociale Huur effectief verrekende vermindering   van de onroerende voorheffing;<BR>14° forfaitaire werkingskosten van 10.000 euro   per maand voor de projectbegeleiding van sociale woonprojecten met geraamde   investeringskosten van minimaal 25.000.000 euro, gedurende een periode van   maximaal zestig maanden vanaf de <BR>kennisgeving van de gunning van het   project.&nbsp;Dit sociale woonproject heeft betrekking op één locatie en vormt   een geografisch en technisch samenhangend geheel;<BR>15° de kosten voor het   vervullen van de functie van een conciërge, vermeld in artikel 32, § 6;<BR>16°   andere door de minister te bepalen uitgaven, na overleg met de sector en na   mededeling aan de Vlaamse Regering.<BR></P>  <P>In afwijking van het eerste lid, 2°, en met behoud van de toepassing van   artikel 87 worden de kapitaals- en interestlasten van een lening bij de VMSW die   werd verstrekt vanaf 1 januari 1996 en op 31 december 2012 nog niet volledig is   terugbetaald, niet in aanmerking genomen voor de berekening van de GSC als de   totale looptijd van de lening in kwestie, namelijk het aantal jaren tussen de   begin- en eindtermijn van de kapitaalaflossingen, minder dan dertig jaar   is.</P>
+...
 
 ### ART. 32.
 
-<P>§ 1. De onroerende voorheffing betreft de aanslag voor het referentiejaar.   Als de aanslag met betrekking tot het referentiejaar voor bepaalde woningen of   gebouwen nog niet bekend is of het voorwerp uitmaakt van een geschil, wordt die   aanslag naar best vermogen geschat in het referentiejaar en eventueel later   verrekend op de wijze, vermeld in artikel 28, § 3.<BR></P>  <P>§ 2. De kapitaals- en interestlasten van leningen bij de VMSW bevatten alle   lasten, uitgezonderd de vervroegde kapitaalaflossingen of kapitaalaflossingen op   overbruggingskredieten en de eventuele wederbeleggingsvergoedingen of andere   kosten die te wijten zijn aan de aflossingen, met betrekking tot volgende   leningen :<BR>1° de leningen bij de VMSW met betrekking tot sociale   huurwoningen, uitgezonderd de aanvullende leningen, vermeld in artikel 11, § 2,   tweede lid, en de bulletleningen, vermeld in artikel 11, § 1;<BR>2° de   bulletleningen, vermeld in artikel 11, § 1, eerste lid, met betrekking tot de   strategische grondaankoop en gedurende de eerste tien jaar na het aangaan van de   leningen;<BR>3° de leningen met toepassing van :<BR>a) het besluit van de   Vlaamse Regering van 23 juli 1992 tot uitvoering van artikel 49 van het decreet   van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting   1992;<BR>b) het besluit van de Vlaamse Regering van 19 mei 1987 tot instelling   van een huurcompensatie;<BR>c) het besluit van de Vlaamse Regering van 4 april   1990 tot aanmoediging van de bouw van sociale woningen.<BR></P>  <P>§ 3. Na mededeling aan de Vlaamse Regering wordt de wijze van berekening van   de algemene werkings- en onderhoudskosten vastgesteld door de minister op basis   van geëvalueerde objectieve gegevens die de SHM's aanreiken volgens de   richtlijnen van de minister.<BR></P>  <P>§ 4. Voor de kosten voor een sociale dienst wordt per volledige schijf van   500 sociale huurwoningen in het patrimonium van de SHM forfaitair een uitgave   van 20.000 euro gerekend, op voorwaarde dat de SHM aantoont dat ze per volledige   schijf effectief minstens een personeelslid halftijds inzet voor de   basisbegeleidingstaken, die de minister vaststelt.<BR></P>  <P>§ 5. De vergoeding voor geïnvesteerde rekening-courantmiddelen is gelijk aan   de interest op een marktconforme lening met een afbetalingstermijn van dertig   jaar, van kracht op 1 januari van het referentiejaar, verhoogd met 0,5   procentpunt, vermenigvuldigd met de som van de subsidiabele bedragen met   betrekking tot de verrichtingen, vermeld in artikel 4, § 1, 1°, die met eigen   middelen die de SHM beschikbaar heeft op de rekening-courant bij de VMSW, zijn   bekostigd.<BR></P>  <P>De vergoeding voor geïnvesteerde rekening-courantmiddelen wordt gedurende   dertig jaar verrekend voor die verrichtingen, vanaf het jaar van de opname ervan   in een uitvoeringsprogramma vanaf 1 januari 2008.<BR></P>  <P>§ 6. De kosten voor het vervullen van de functie van conciërge worden in   aanmerking genomen op voorwaarde dat de conciërge wordt aangeworven in het kader   van een erkenning voor lokale diensteneconomie als vermeld in het besluit van de   Vlaamse Regering van 4 juli 2008 betreffende de erkenning van initiatieven   huisbewaarder in de sociale huisvesting in het kader van de lokale   diensteneconomie.<BR></P>  <P>De kosten die overeenkomstig het eerste lid in aanmerking genomen worden,   zijn gelijk aan het totale bedrag van de bewezen loon- en omkaderingskosten voor   het vervullen van de functie van een conciërge, in voorkomend geval verminderd   met de volgende premies of betoelagingen :<BR>1° de loonpremie en de   omkaderingspremie, toegekend in het kader van het besluit van de Vlaamse   Regering van 5 oktober 2007 betreffende de lokale diensteneconomie;<BR>2° de   doelgroepvermindering, toegekend in het kader van het koninklijk besluit van 16   mei 2003 tot uitvoering van het hoofdstuk 7 van titel IV van de programmawet van   24 december 2002 betreffende de harmonisering en vereenvoudiging van de   regelingen inzake verminderingen van de sociale zekerheidsbijdragen;<BR>3° de   lokale en bovenlokale cofinanciering in het kader van de erkenning van lokale   diensteneconomie;<BR>4° alle andere tegemoetkomingen in de loon- en   omkaderingskosten.<BR></P>  <P>Met behoud van de toepassing van het eerste lid worden de kosten die   overeenkomstig het tweede lid in aanmerking worden genomen, beperkt tot 40.000   euro per voltijds equivalent dat de functie van conciërge   uitoefent.</P>
+...
 
 ## HOOFDSTUK 6. Toezicht, controle en handhaving
 
 ### ART. 33.
 
-Met behoud van de toepassing van artikel 3, tweede lid, 13°, van het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen is de toezichthouder, vermeld in artikel 29bis van de Vlaamse Wooncode, bevoegd om controle uit te oefenen op de aanwending van de tenlastenemingen en subsidies, toegekend overeenkomstig hoofdstuk 3.
+...
 
 ### ART. 34.
 
-De vergoeding voor geïnvesteerde rekening-courantmiddelen, vermeld in   artikel 32, § 5, kan alleen worden toegepast als de SHM de bepalingen in het   besluit van de Vlaamse Regering van 2 december 2005 houdende de regeling inzake   het beheer van de eigen middelen van de sociale huisvestingsmaatschappijen door   de Vlaamse Maatschappij voor Sociaal Wonen correct uitvoert.
+...
 
 ## HOOFDSTUK 7. Indexatiebepaling
 
 ### ART. 35.
 
-<P>§ 1. De prijsplafonds, vermeld in artikel 5, § 2, tweede lid, worden   jaarlijks op 1 januari aangepast aan de evolutie van de verkoopprijs per   vierkante meter van bouwgronden in het Vlaamse Gewest tijdens de laatste vier   bekende kwartalen, zoals die door de Federale Overheidsdienst Economie wordt   bekendgemaakt, met als basis de gemiddelde verkoopprijs van 111 euro per   vierkante meter in 2005. Het resultaat wordt afgerond naar het eerstvolgende   veelvoud van 100 euro.<BR><BR>§ 2. De maximumbedragen, vermeld in artikel 14, §   3, tweede lid, en artikel 15, § 2, derde en vierde lid, worden jaarlijks op 1   januari aangepast aan de evolutie van de ABEX-index van november van het   voorgaande jaar, met als basis de ABEX-index van november 2008. Het resultaat   wordt afgerond naar het eerstvolgende veelvoud van 100 euro.<BR></P>  <P>§ 3. Het bedrag met betrekking tot de vrijstelling op de rekening-courant,   vermeld in artikel 30, § 2, en het bedrag met betrekking tot de sociale dienst,   vermeld in artikel 32, § 4, worden jaarlijks op 1 januari aangepast aan de   evolutie van de gezondheidsindex, naar het gezondheidsindexcijfer van de maand   december van het voorgaande jaar en met als basis het gezondheidsindexcijfer van   102,15 van 2005. Het resultaat wordt afgerond naar het eerstvolgende veelvoud   van 100 euro.<BR></P>  <P>Het bedrag, vermeld in artikel 32, § 6, derde lid, wordt jaarlijks op 1   januari aangepast aan de evolutie van de gezondheidsindex, naar het   gezondheidsindexcijfer van de maand december van het voorgaande jaar en met als   basis het gezondheidsindexcijfer van 110,90 van 2009. Het resultaat wordt   afgerond naar het eerstvolgende veelvoud van 100 euro.</P>
+...
 
 ## HOOFDSTUK 8. Wijzigingsbepalingen
 
@@ -609,248 +242,248 @@ De vergoeding voor geïnvesteerde rekening-courantmiddelen, vermeld in   artikel
 
 ### ART. 36.
 
-In artikel 20, eerste lid, van het besluit van de Vlaamse Regering van 16   juni 1998 tot aanmoediging van projecten inzake het zelfstandig wonen van   personen met een fysieke handicap in sociale woonwijken, vervangen bij het   besluit van de Vlaamse Regering van 30 oktober 2009, worden de woorden « en   houdende de financiering van verrichtingen in het kader van sociale   woonprojecten » opgeheven.
+...
 
 ## Afdeling 2. Wijziging van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdrachten van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode
 
 ### ART. 37.
 
-<P>In bijlage III, artikel 9, bij het besluit van de Vlaamse Regering van 29   september 2006 betreffende de voorwaarden voor de overdrachten van onroerende   goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale   huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode worden de   volgende wijzigingen aangebracht :<BR></P>  <P>1° in paragraaf 3, eerste lid, wordt punt 3° vervangen door wat volgt :<BR>«   3° de renovatie van het eigen sociaal huurpatrimonium; »;<BR></P>  <P>2° aan paragraaf 3, eerste lid, wordt een punt 4° toegevoegd, dat luidt als   volgt :<BR>« 4° de aankoop van gronden. »;<BR></P>  <P>3° aan paragraaf 5 wordt een tweede lid toegevoegd, dat luidt als volgt   :<BR>« Met behoud van de toepassing van het eerste lid kunnen afwijkingen van de   plicht tot herinvestering worden toegestaan als het niet-investeren van de   netto-opbrengst een rechtstreeks positief effect heeft op de stand van de   negatieve rekening-courant van de SHM bij de VMSW of op de negatieve vrije   cashflow in het eerste, tweede of derde jaar van de door de VMSW voor de SHM   opgemaakte financiële planning. Deze afwijking geldt enkel als een SHM volgens   de door de VMSW voor de SHM opgemaakte financiële planning in de eerste drie   jaren een negatief saldo op de rekening-courant van de SHM bij de VMSW vertoont   of in het eerste, tweede of derde jaar van de financiële planning een combinatie   kent van ten minste een jaar met een negatief saldo op de rekening-courant van   de SHM bij de VMSW en van ten minste een jaar met een negatieve vrije cashflow.   ».</P>
+...
 
 ### ART. 38.
 
-<P>In bijlage V bij hetzelfde besluit, toegevoegd bij het besluit van de Vlaamse   Regering van 30 oktober 2009 en gewijzigd bij de besluiten van 1 oktober 2010, 7   oktober 2011 en 13 januari 2012, wordt artikel 1 vervangen door wat volgt :</P>  <P><BR>« Artikel 1. In deze bijlage zijn de begrippen, vermeld in het decreet   van 15 juli 1997 houdende de Vlaamse Wooncode en in het besluit van de Vlaamse   Regering van 18 juli 2008 houdende de procedure voor de planning, de   vaststelling en de goedkeuring van de uitvoeringsprogramma's in het kader van de   planmatige realisatie van sociale woonprojecten, van toepassing, en wordt   daarnaast verstaan onder het Programmatiebesluit : het besluit van de Vlaamse   Regering van 18 juli 2008 houdende de procedure voor de planning, de   vaststelling en de goedkeuring van de uitvoeringsprogramma's in het kader van de   planmatige realisatie van sociale woonprojecten. ».</P>
+...
 
 ### ART. 39.
 
-In bijlage V, artikel 6, bij hetzelfde besluit, toegevoegd bij het besluit   van de Vlaamse Regering van 30 oktober 2009, wordt het woord « BTW » vervangen   door de woorden « de niet-aftrekbare btw ».
+...
 
 ### ART. 40.
 
-<P>Aan bijlage V, artikel 7, bij hetzelfde besluit, toegevoegd bij het besluit   van de Vlaamse Regering van 30 oktober 2009 en gewijzigd bij het besluit van de   Vlaamse Regering van 1 oktober 2010, wordt een tweede lid toegevoegd, dat luidt   als volgt :<BR></P>  <P>« De door de initiatiefnemer ontvangen subsidie, vermeld in hoofdstuk 3,   afdeling 3, van het Financieringsbesluit, wordt in mindering gebracht van de   kostprijs die overeenkomstig het eerste lid wordt vastgesteld.   ».</P>
+...
 
 ### ART. 41.
 
-In bijlage V, artikel 9, bij hetzelfde besluit, toegevoegd bij het besluit   van de Vlaamse Regering van 30 oktober 2009, wordt de zinsnede « het besluit van   12 oktober 2007 houdende de financiering van de sociale   huisvestingsmaatschappijen voor de realisatie van sociale huurwoningen en de   daaraan verbonden werkingskosten » vervangen door de woorden « het   Financieringsbesluit ».
+...
 
 ## Afdeling 3. Wijziging van het besluit van de Vlaamse Regering van 21 september 2007 houdende subsidiëring van projecten ter ondersteuning van het lokaal woonbeleid
 
 ### ART. 42.
 
-In artikel 6, § 3, eerste lid, 2°, van het besluit van de Vlaamse Regering   van 21 september 2007 houdende subsidiëring van projecten ter ondersteuning van   het lokaal woonbeleid, vervangen bij het besluit van de Vlaamse Regering van 10   december 2010, worden de woorden « en houdende de financiering van verrichtingen   in het kader van sociale woonprojecten » opgeheven.
+...
 
 ## Afdeling 4. Wijziging van het besluit van de Vlaamse Regering van 18 juli 2008 houdende de procedure voor de planning, de vaststelling en de goedkeuring van de uitvoeringsprogramma's in het kader van de planmatige realisatie van sociale woonprojecten en houdende de financiering van verrichtingen in het kader van sociale woonprojecten
 
 ### ART. 43.
 
-In het opschrift van het besluit van de Vlaamse Regering van 18 juli 2008   houdende de procedure voor de planning, de vaststelling en de goedkeuring van de   uitvoeringsprogramma's in het kader van de planmatige realisatie van sociale   woonprojecten en houdende de financiering van verrichtingen in het kader van   sociale woonprojecten worden de woorden « en houdende de financiering van   verrichtingen in het kader van sociale woonprojecten » opgeheven.
+...
 
 ### ART. 44.
 
-In artikel 4, § 1, vijfde lid, van hetzelfde besluit,wordt de zinsnede «   een financiering als vermeld in hoofdstuk IV, afdeling I, of een tenlasteneming   of een subsidie als vermeld in hoofdstuk IV, afdeling II, » vervangen door de   zinsnede « een tussenkomst in de leningslast als vermeld in hoofdstuk 2 van het   Financieringsbesluit of een tenlasteneming of een subsidie als vermeld in   hoofdstuk 3 van het Financieringsbesluit ».
+...
 
 ### ART. 45.
 
-<P>In artikel 11, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit   van 30 oktober 2009, worden de volgende wijzigingen aangebracht :<BR></P>  <P>1° de zinsnede « hoofdstuk IV, afdeling II » wordt vervangen door de zinsnede   « hoofdstuk 3 van het Financieringsbesluit »;<BR></P>  <P>2° de zinsnede « artikel 39, § 1, derde lid » wordt vervangen door de   zinsnede « artikel 22, § 2, tweede lid, van het Financieringsbesluit »;<BR></P>  <P>3° de zinsnede « artikel 40, § 1, tweede lid » wordt vervangen door de   zinsnede « artikel 17, § 1, tweede lid, of artikel 24, § 1, tweede lid, van het   Financieringsbesluit ».</P>
+...
 
 ### ART. 46.
 
-In artikel 14 van hetzelfde besluit wordt de zinsnede « een financiering   als vermeld in hoofdstuk IV, afdeling I, of een subsidie als vermeld in   hoofdstuk IV, afdeling II, » vervangen door de zinsnede « een tussenkomst in de   leningslast als vermeld in hoofdstuk 2 van het Financieringsbesluit of een   subsidie als vermeld in hoofdstuk 3 van het voormelde besluit ».
+...
 
 ### ART. 47.
 
-<P>In artikel 15 van hetzelfde besluit, gewijzigd bij het besluit van 30 oktober   2009, worden de volgende wijzigingen aangebracht :<BR></P>  <P>1° in het eerste lid wordt de zinsnede « een financiering als vermeld in   hoofdstuk IV, afdeling I, of een tenlasteneming of een subsidie als vermeld in   hoofdstuk IV, afdeling II, » vervangen door de zinsnede « een tussenkomst in de   leningslast als vermeld in hoofdstuk 2 van het Financieringsbesluit of een   tenlasteneming of een subsidie als vermeld in hoofdstuk 3 van het voormelde   besluit »;<BR></P>  <P>2° in het tweede lid wordt de zinsnede « een financiering als vermeld in   hoofdstuk IV, afdeling I, » vervangen door de zinsnede « een tussenkomst in de   leningslast als vermeld in hoofdstuk 2 van het Financieringsbesluit,   ».</P>
+...
 
 ### ART. 48.
 
-In artikel 16, eerste lid, van hetzelfde besluit wordt de zin « De   erelonen van die ontwerpers worden vastgelegd op de begroting van de Vlaamse   Gemeenschap binnen de perken van de daartoe beschikbare kredieten in de   enveloppe, vermeld in artikel 8, tweede lid, 3°. » opgeheven.
+...
 
 ### ART. 49.
 
-<P>In artikel 19 van hetzelfde besluit worden de volgende wijzigingen   aangebracht :<BR></P>  <P>1° in paragraaf 1, derde lid, wordt de zinsnede « artikel 40, § 1, tweede lid   » vervangen door de zinsnede « artikel 17, § 1, tweede lid, of artikel 24, § 1,   tweede lid, van het Financieringsbesluit »;<BR></P>  <P>2° in paragraaf 2 wordt aan het tweede lid een punt 3° toegevoegd, dat luidt   als volgt :<BR>« 3° de verrichting kadert in een door de VMSW gelanceerde oproep   gericht aan private actoren om projectvoorstellen in te dienen met betrekking   tot de verwezenlijking van sociale koopwoningen overeenkomstig de voor de   sociale huisvestingsmaatschappijen geldende prijs- en kwaliteitsnormen.   ».</P>
+...
 
 ### ART. 50.
 
-<P>In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van   30 januari 2009, 30 oktober 2009, 1 oktober 2010, 20 mei 2011, 7 oktober 2011 en   16 maart 2012, wordt een artikel 19/7 ingevoegd, dat luidt als volgt :<BR></P>  <P>« Art. 19/7. Voor de toepassing van artikel 4.2.8, eerste lid, van het   decreet grond- en pandenbeleid wordt het geïndexeerde bedrag, vastgesteld   overeenkomstig artikel 5, § 2, tweede lid, 1° en 2°, van het   Financieringsbesluit, beschouwd als het forfaitair bedrag voor het grondaandeel   bij de aankoop van een bestaande woning waaraan hoogstens beperkte investeringen   moeten worden gedaan voor ze ter beschikking kan worden gesteld als sociale   huurwoning. ».</P>
+...
 
 ### ART. 51.
 
-In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering   van 30 januari 2009, 30 oktober 2009, 1 oktober 2010, 20 mei 2011, 7 oktober   2011 en 16 maart 2012, wordt hoofdstuk IV, dat bestaat uit artikel 20 tot en met   42, opgeheven.
+...
 
 ### ART. 52.
 
-In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering   van 30 januari 2009, 30 oktober 2009, 1 oktober 2010, 20 mei 2011, 7 oktober   2011 en 16 maart 2012, wordt hoofdstuk IV/1, dat bestaat uit artikel 42/1,   opgeheven.
+...
 
 ### ART. 53.
 
-Artikel 49 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse   Regering van 30 oktober 2009 en gewijzigd bij het besluit van de Vlaamse   Regering van 1 oktober 2010, wordt opgeheven.
+...
 
 ### ART. 54.
 
-Artikel 50 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse   Regering van 30 oktober 2009, wordt opgeheven.
+...
 
 ### ART. 55.
 
-<P>In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van   30 januari 2009, 30 oktober 2009, 1 oktober 2010, 20 mei 2011, 7 oktober 2011 en   16 maart 2012, wordt een artikel 50/3 ingevoegd, dat luidt als volgt :<BR></P>  <P>« Art. 50/3. In afwijking van artikel 19/2, artikel 19/3 en artikel 19/4   spreekt de VMSW zich uit over de conformiteit van het voorstel van   prijsberekening met de prijsnormen waaraan sociale woningen en sociale kavels   moesten voldoen voor 1 januari 2013 als op die datum een aanvraag tot afgifte   van deelattest nummer 1 aan de VMSW is bezorgd. ».</P>
+...
 
 ### ART. 56.
 
-In bijlage 1, artikel 1, bij hetzelfde besluit, toegevoegd bij het besluit   van de Vlaamse Regering van 30 oktober 2009 en gewijzigd bij het besluit van 7   oktober 2011, wordt punt 1° opgeheven.
+...
 
 ### ART. 57.
 
-<P>Aan bijlage 1, artikel 3, bij hetzelfde besluit, toegevoegd bij het besluit   van de Vlaamse Regering van 30 oktober 2009 en gewijzigd bij het besluit van de   Vlaamse Regering van 1 oktober 2010, wordt een tweede lid toegevoegd, dat luidt   als volgt :<BR></P>  <P>« De initiatiefnemer kan het gedeelte van de vergoeding, verschuldigd op   basis van hoofdstuk 2, afdeling 6, van het besluit van de Vlaamse Regering van   13 januari 2012 tot vaststelling van nadere regels voor de bijdragen van de   sociale woonactoren en de private actoren in de financiering van de Vlaamse   Maatschappij voor Sociaal Wonen, dat 0,5 % van de verkoopprijs, vermeld in het   eerste lid, overschrijdt, toevoegen aan die verkoopprijs. ».</P>
+...
 
 ### ART. 58.
 
-<P>In bijlage 1, artikel 4, bij hetzelfde besluit, toegevoegd bij het besluit   van de Vlaamse Regering van 30 oktober 2009, wordt punt 3° vervangen door wat   volgt :<BR></P>  <P>« 3° de btw op de kostprijs van de grond. ».</P>
+...
 
 ### ART. 59.
 
-In bijlage 1, artikel 5, bij hetzelfde besluit, toegevoegd bij het besluit   van de Vlaamse Regering van 30 oktober 2009, wordt de zinsnede « vermeld in   artikel 4, § 2, tweede en derde lid, » vervangen door de zinsnede « vastgesteld   overeenkomstig artikel 5, § 2, eerste tot en met derde lid, ».
+...
 
 ### ART. 60.
 
-In bijlage 1, artikel 6, bij hetzelfde besluit, toegevoegd bij het besluit   van de Vlaamse Regering van 30 oktober 2009, wordt de zinsnede « artikel 4, § 3,   eerste lid, » vervangen door de zinsnede « artikel 5, § 3, eerste lid,   ».
+...
 
 ### ART. 61.
 
-In bijlage 1, artikel 8, bij hetzelfde besluit, toegevoegd bij het besluit   van de Vlaamse Regering van 30 oktober 2009, wordt de zinsnede « artikel 6, § 2,   eerste tot en met vijfde lid, » vervangen door de zinsnede « artikel 7, § 2,   eerste lid, ».
+...
 
 ### ART. 62.
 
-<P>Aan bijlage 1, artikel 12, bij hetzelfde besluit, toegevoegd bij het besluit   van de Vlaamse Regering van 30 oktober 2009 en gewijzigd bij het besluit van de   Vlaamse Regering van 1 oktober 2010, wordt een tweede lid toegevoegd, dat luidt   als volgt :<BR></P>  <P>« De initiatiefnemer kan het gedeelte van de vergoeding, verschuldigd op   basis van hoofdstuk 2, afdeling 6, van het besluit van de Vlaamse Regering van   13 januari 2012 tot vaststelling van nadere regels voor de bijdragen van de   sociale woonactoren en de private actoren in de financiering van de Vlaamse   Maatschappij voor Sociaal Wonen, dat 0,5 % van de verkoopprijs, vermeld in het   eerste lid, overschrijdt, toevoegen aan die verkoopprijs. ».</P>
+...
 
 ## Afdeling 5. Wijziging van het besluit van de Vlaamse Regering van 12 december 2008 houdende de facultatieve subsidiëring van sociale huisvestingsmaatschappijen voor proefprojecten sociale passiefwoningen
 
 ### ART. 63.
 
-In artikel 5, eerste lid, van het besluit van de Vlaamse Regering van 12   december 2008 houdende de facultatieve subsidiëring van sociale   huisvestingsmaatschappijen voor proefprojecten sociale passiefwoningen, wordt de   zinsnede « hoofdstuk III van het besluit van de Vlaamse Regering van 12 oktober   2007 houdende de financiering van de sociale huisvestingsmaatschappijen voor de   realisatie van sociale huurwoningen en de daaraan verbonden werkingskosten »   vervangen door de zinsnede « hoofdstuk 2 van het Financieringsbesluit   ».
+...
 
 ## Afdeling 6. Wijziging van het besluit van de Vlaamse Regering van 7 oktober 2011 betreffende de werking en het beheer van het Investeringsfonds voor grond- en woonbeleid voor Vlaams-Brabant en tot wijziging van diverse besluiten tot uitvoering van de Vlaamse Wooncode
 
 ### ART. 64.
 
-In artikel 6, eerste lid, van het besluit van de Vlaamse Regering van 7   oktober 2011 betreffende de werking en het beheer van het Investeringsfonds voor   grond- en woonbeleid voor Vlaams-Brabant en tot wijziging van diverse besluiten   tot uitvoering van de Vlaamse Wooncode worden de woorden « en houdende de   financiering van verrichtingen in het kader van sociale woonprojecten »   opgeheven.
+...
 
 ## Afdeling 7. Wijziging van het besluit van de Vlaamse Regering van 10 november 2011 tot bepaling van de nadere regelen voor de opvolging van de realisatie van het bindend sociaal objectief en tot bepaling van de methodologie en de criteria voor de uitvoering van een tweejaarlijkse voortgangstoets
 
 ### ART. 65.
 
-In artikel 1, 1°, van het besluit van de Vlaamse Regering van 10 november   2011 tot bepaling van de nadere regelen voor de opvolging van de realisatie van   het bindend sociaal objectief en tot bepaling van de methodologie en de criteria   voor de uitvoering van een tweejaarlijkse voortgangstoets worden de woorden « en   houdende de financiering van verrichtingen in het kader van sociale   woonprojecten » opgeheven.
+...
 
 ## Afdeling 8. Wijziging van het besluit van de Vlaamse Regering van 13 januari 2012 tot vaststelling van nadere regels voor de bijdragen van de sociale woonactoren in de financiering van de Vlaamse Maatschappij voor Sociaal Wonen
 
 ### ART. 66.
 
-In het opschrift van het besluit van de Vlaamse Regering van 13 januari   2012 tot vaststelling van nadere regels voor de bijdragen van de sociale   woonactoren in de financiering van de Vlaamse Maatschappij voor Sociaal Wonen   worden tussen de woorden « sociale woonactoren » en de woorden « in de   financiering » de woorden « en de private actoren » ingevoegd.
+...
 
 ### ART. 67.
 
-<P>In artikel 1 van hetzelfde besluit worden de volgende wijzigingen aangebracht   :<BR></P>  <P>1° punt 2° wordt opgeheven;<BR></P>  <P>2° punt 4° wordt vervangen door wat volgt :<BR>« 4° GSC : de gewestelijke   sociale correctie, vermeld in artikel 3, § 4, van het Financieringsbesluit   »;<BR></P>  <P>3° er worden een punt 7° /1 en een punt 7° /2 ingevoegd, die luiden als volgt   :<BR>« 7° /1 private actoren : verkavelaars en bouwheren die onderworpen zijn   aan de attestering door de VMSW, vermeld in artikel 4.1.20 van het decreet van   27 maart 2009 betreffende het grond- en pandenbeleid;<BR>7° /2   Programmatiebesluit : het besluit van de Vlaamse Regering van 18 juli 2008   houdende de procedure voor de planning, de vaststelling en de goedkeuring van de   uitvoeringsprogramma's in het kader van de planmatige realisatie van sociale   woonprojecten; ».</P>
+...
 
 ### ART. 68.
 
-<P>In artikel 2 van hetzelfde besluit worden de volgende wijzigingen aangebracht   :<BR></P>  <P>1° in paragraaf 1, eerste lid, 1°, wordt de zinsnede « artikel 10, eerste   lid, » vervangen door de zinsnede « artikel 11, § 2, eerste lid, »;<BR></P>  <P>2° in paragraaf 2, eerste lid, wordt de zinsnede « artikel 15, § 2, eerste   lid, » vervangen door de zinsnede « artikel 28, § 2, eerste lid, ».<BR></P>  <P>3° er wordt een paragraaf 3 toegevoegd, die luidt als volgt :<BR>« § 3. De   private actoren betalen een beheersvergoeding voor de dienstverlening, gekoppeld   aan de attesteringen door de VMSW, vermeld in artikel 4.1.20 van het decreet van   27 maart 2009 betreffende het grond- en pandenbeleid, overeenkomstig artikel 8/1   en 8/2 van dit besluit. ».</P>
+...
 
 ### ART. 69.
 
-In artikel 3, eerste lid, van hetzelfde besluit wordt de zinsnede «   artikel 10, eerste lid, »vervangen door de zinsnede « artikel 11, § 2, eerste   lid, ».
+...
 
 ### ART. 70.
 
-In hoofdstuk 2 van hetzelfde besluit wordt in het opschrift van afdeling 1   en afdeling 5 de zinsnede « artikel 10, eerste lid, » vervangen door de zinsnede   « artikel 11, § 2, eerste lid, ».
+...
 
 ### ART. 71.
 
-<P>In artikel 4 van hetzelfde besluit worden de volgende wijzigingen aangebracht   :<BR></P>  <P>1° in paragraaf 1, eerste lid, wordt de zinsnede « artikel 10, eerste lid, »   vervangen door de zinsnede « artikel 11, § 2, eerste lid, »;<BR></P>  <P>2° er wordt een paragraaf 3 toegevoegd, die luidt als volgt :<BR>« § 3. In   afwijking van paragraaf 1 zijn de sociale woonactoren geen vergoeding   verschuldigd als ze bij de VMSW een lening aangaan volgens artikel 11, § 2,   eerste lid, van het Financieringsbesluit, voor de aankoop van een sociale   huurwoning van een private actor die overeenkomstig afdeling 6 een vergoeding   aan de VMSW heeft betaald. ».</P>
+...
 
 ### ART. 72.
 
-<P>In artikel 5 van hetzelfde besluit worden de volgende wijzigingen aangebracht   :<BR></P>  <P>1° in paragraaf 1, tweede lid, wordt de zinsnede « artikel 17, § 1, »   vervangen door de zinsnede « artikel 30, § 1, »;<BR></P>  <P>2° in paragraaf 2, vierde lid, wordt de zinsnede « artikel 15, § 2, eerste   lid, » vervangen door de zinsnede « artikel 28, § 2, eerste lid   ».</P>
+...
 
 ### ART. 73.
 
-<P>In artikel 6 van hetzelfde besluit worden de volgende wijzigingen aangebracht   :<BR></P>  <P>1° in paragraaf 1 worden het eerste en het tweede lid vervangen door wat   volgt :<BR>« Sociale woonactoren die woningen of kavels verkopen volgens het   Overdrachtenbesluit, betalen een vergoeding voor de ondersteuning van   verkoopactiviteiten.<BR>De vergoeding bedraagt 1 % van de verkoopprijs,   exclusief btw. »;<BR></P>  <P>2° in paragraaf 2 wordt de zinsnede « artikel 10, eerste lid, » vervangen   door de zinsnede « artikel 11, § 2, eerste lid, ».</P>
+...
 
 ### ART. 74.
 
-<P>In artikel 7 van hetzelfde besluit worden de volgende wijzigingen aangebracht   :<BR></P>  <P>1° in paragraaf 1, eerste lid, in paragraaf 2, tweede lid, en in paragraaf 3   wordt de zinsnede « artikel 10, eerste lid, » vervangen door de zinsnede «   artikel 11, § 2, eerste lid, »;<BR></P>  <P>2° in paragraaf 2, derde lid, wordt de zinsnede « artikel 15, § 2, tweede   lid, » vervangen door de zinsnede « artikel 28, § 2, tweede lid,   ».</P>
+...
 
 ### ART. 75.
 
-In artikel 8 van hetzelfde besluit wordt de zinsnede « artikel 10, eerste   lid, » telkens vervangen door de zinsnede « artikel 11, § 2, eerste lid,   ».
+...
 
 ### ART. 76.
 
-<P>Aan hoofdstuk 2 van hetzelfde besluit wordt een afdeling 6, die bestaat uit   een artikel 8/1 en een artikel 8/2, toegevoegd, die luidt als volgt :<BR></P>  <P>« Afdeling 6. - Vergoeding voor de dienstverlening die de VMSW verstrekt aan   private actoren<BR></P>  <P>Art. 8/1. § 1. Private actoren die in het kader van de uitvoering van een   sociale last als vermeld in artikel 4.1.16, § 1, van het decreet van 27 maart   2009 betreffende het grond- en pandenbeleid, sociale huurwoningen realiseren,   betalen een vergoeding voor de dienstverlening van de VMSW in het kader van de   attestering van de sociale huurwoningen.<BR></P>  <P>De vergoeding, vermeld in het eerste lid, wordt berekend door de percentages,   vermeld in artikel 4, § 1, tweede lid, toe te passen op de som van de   verkoopprijzen, exclusief btw, van de gerealiseerde sociale huurwoningen die   worden bepaald op basis van hoofdstuk 2 van bijlage 1 bij het   Programmatiebesluit.<BR></P>  <P>§ 2. Bij elke aanvraag tot afgifte van het deelattest nummer 1 betaalt de   initiatiefnemer de VMSW een forfaitair bedrag van 300 euro.<BR></P>  <P>Bij de aanvraag tot afgifte van het deelattest nummer 3 betaalt de   initiatiefnemer de VMSW de vergoeding, vermeld in paragraaf 1, tweede lid,   verminderd met de bij de aanvraag of aanvragen tot afgifte van het deelattest   nummer 1 betaalde forfaitaire bedragen van 300 euro.<BR></P>  <P>Als na de afgifte van het deelattest nummer 1 wordt beslist het project niet   uit te voeren, brengt de initiatiefnemer de VMSW daarvan op de hoogte. De reeds   betaalde forfaitaire bedragen van 300 euro zijn niet terugvorderbaar.<BR></P>  <P>§ 3. De bepalingen van dit artikel zijn van overeenkomstige toepassing op   private actoren die op vrijwillige basis sociale huurwoningen realiseren als   vermeld in artikel 4.1.16, § 3, van het decreet van 27 maart 2009 betreffende   het grond- en pandenbeleid.<BR></P>  <P>Art. 8/2. § 1. Private actoren die in het kader van de uitvoering van een   sociale last als vermeld in artikel 4.1.16, § 1, van het decreet van 27 maart   2009 betreffende het grond- en pandenbeleid, sociale koopwoningen realiseren,   betalen een vergoeding voor de dienstverlening van de VMSW in het kader van de   attestering van de sociale koopwoningen.<BR></P>  <P>De vergoeding, vermeld in het eerste lid, wordt berekend door de percentages,   vermeld in artikel 6, § 1, tweede lid, toe te passen op de som van de   verkoopprijzen, exclusief btw, van de gerealiseerde sociale koopwoningen die   worden bepaald op basis van hoofdstuk 3 van bijlage 1 bij het   Programmatiebesluit.<BR></P>  <P>§ 2. Bij elke aanvraag tot afgifte van het deelattest nummer 1 betaalt de   initiatiefnemer de VMSW een forfaitair bedrag van 300 euro.<BR></P>  <P>Bij de aanvraag tot afgifte van het deelattest nummer 3 betaalt de   initiatiefnemer de VMSW de vergoeding, vermeld in paragraaf 1, tweede lid,   verminderd met de bij de aanvraag of aanvragen tot afgifte van het deelattest   nummer 1 betaalde forfaitaire bedragen van 300 euro.<BR></P>  <P>Als na de afgifte van het deelattest nummer 1 wordt beslist het project niet   uit te voeren, brengt de initiatiefnemer de VMSW daarvan op de hoogte. De reeds   betaalde forfaitaire bedragen van 300 euro zijn niet terugvorderbaar.   ».</P>
+...
 
 ### ART. 77.
 
-In artikel 13, eerste lid, van hetzelfde besluit wordt tussen de woorden «   de sociale woonactoren » en de woorden « en de VMSW » de zinsnede « , de private   actoren » ingevoegd.
+...
 
 ### ART. 78.
 
-<P>In artikel 16 van hetzelfde besluit worden de volgende wijzigingen   aangebracht :<BR></P>  <P>1° in paragraaf 1, eerste lid, worden de woorden « bij de sociale woonactoren   » vervangen door de woorden « bij de sociale woonactoren en de private actoren »   en worden de woorden « op de werking van de sociale woonactoren » vervangen door   de woorden « op hun eigen werking »;<BR></P>  <P>2° in paragraaf 2 wordt tussen het eerste en het tweede lid een lid   ingevoegd, dat luidt als volgt :<BR>« Bij elke verrichting waarvoor een private   actor een vergoeding betaalt overeenkomstig hoofdstuk 2, afdeling 6, organiseert   de VMSW een bevraging waarbij minimaal de volgende zaken worden voorgelegd   :<BR>1° de vraag naar de bevindingen van de private actor in kwestie bij de   samenwerking met de VMSW tijdens de uitvoering van de verrichting;<BR>2° de   mogelijkheid voor de private actor in kwestie om in eigen bewoordingen een   evaluatie te geven. ».</P>
+...
 
 ### ART. 79.
 
-<P>In hetzelfde besluit wordt een artikel 33/1 ingevoegd, dat luidt als volgt   :<BR></P>  <P>« Art. 33/1. In afwijking van artikel 8/2, § 1, tweede lid, wordt de   vergoeding voor de dienstverlening van de VMSW in het kader van de attestering   van de sociale koopwoningen berekend door op de som van de verkoopprijzen,   exclusief btw, van de gerealiseerde sociale koopwoningen die worden bepaald op   basis van hoofdstuk 3 van bijlage 1 bij het Programmatiebesluit, de volgende   percentages toe te passen :<BR>1° 0,8 % in 2013;<BR>2° 0,9 % in 2014.   ».</P>
+...
 
 ### ART. 80.
 
-<P>Aan artikel 34 van hetzelfde besluit wordt een punt 3° toegevoegd, dat luidt   als volgt :<BR></P>  <P>« 3° voor wat de private actoren betreft : op 1 januari 2013.   ».</P>
+...
 
 ## HOOFDSTUK 9. Slotbepalingen
 
 ### ART. 81.
 
-De volgende regelingen worden opgeheven :<BR>1° het besluit van de Vlaamse   Regering van 12 oktober 2007 houdende de financiering van de sociale   huisvestingsmaatschappijen voor de realisatie van sociale huurwoningen en de   daaraan verbonden werkingskosten, gewijzigd bij de besluiten van de Vlaamse   Regering van 14 maart 2008, 12 november 2010, 19 november 2010, 30 september   2011, 7 oktober 2011, 28 oktober 2011, 13 januari 2012 en 16 maart 2012;<BR>2°   het ministerieel besluit van 3 februari 2009 tot bepaling van de voorwaarden   waaronder de kosten voor het invullen van de functie van een conciërge in   aanmerking genomen worden voor de berekening van de gewestelijke sociale   correctie, gewijzigd bij het ministerieel besluit van 24 februari 2011;<BR>3°   het ministerieel besluit van 7 mei 2009 tot bepaling van de inkomsten en   uitgaven die bijkomend in aanmerking worden genomen voor de berekening van de   Gewestelijke Sociale Correctie (GSC), gewijzigd bij het ministerieel besluit van   24 februari 2011.
+...
 
 ### ART. 82.
 
-<P>In uitvoering van artikel 64, § 3, van de Vlaamse Wooncode kan de minister   binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap   beschikbare kredieten de kosten van de aanleg of de aanpassing van   wooninfrastructuur, in het bijzonder van de verrichtingen, vermeld in artikel 4,   § 1, 2°, a), 1), 2) en 3), van dit besluit, geheel of gedeeltelijk ten laste   nemen, of voor die verrichtingen subsidies toekennen aan een OCMW of een   vereniging zonder winstoogmerk als er serviceflats worden opgericht in het kader   van een onroerende leasingovereenkomst tussen Serviceflats Invest nv en het OCMW   of de vereniging zonder winstoogmerk. De minister stelt de subsidies ter   beschikking van de VMSW. De VMSW geeft de subsidies door aan de initiatiefnemers   of betaalt hiermee de tenlastenemingen.<BR></P>  <P>Afdeling 1 van hoofdstuk 3 is van overeenkomstige toepassing op de   verrichtingen, vermeld in het eerste lid, met dien verstande dat met « sociale   woningen » telkens « serviceflats » worden bedoeld.<BR></P>  <P>De mogelijkheid, vermeld in het eerste lid, vervalt zodra Serviceflats Invest   nv de in de Algemene Overeenkomst opgenomen doelstelling om 2000 serviceflats te   realiseren, heeft bereikt.</P>
+...
 
 ### ART. 83.
 
-<P>Als voor een verrichting als vermeld in artikel 4, § 1, 2°, of voor de bouw,   renovatie, verbetering of aanpassing van sociale huurwoningen voor 1 januari   2013 een belofte van tenlasteneming of een belofte van subsidie is verleend   krachtens hoofdstuk IV van het besluit van de Vlaamse Regering van 18 juli 2008   houdende de procedure voor de planning, de vaststelling en de goedkeuring van de   uitvoeringsprogramma's in het kader van de planmatige realisatie van sociale   woonprojecten en houdende de financiering van verrichtingen in het kader van   sociale woonprojecten, blijft de voor voornoemde datum toepasselijke regeling   van toepassing op die verrichting.</P>  <P>Als voor de bouw, renovatie, verbetering of aanpassing van sociale   huurwoningen voor 1 januari 2013 een belofte van subsidie is verleend of een   uitdrukkelijke instemming is gegeven om de gunningsprocedure op te starten,   blijft de regeling die van toepassing was voor de voormelde datum, van   toepassing op die verrichting. </P>
+...
 
 ### ART. 84.
 
-<P>Voor de verwerving van onroerende goederen als vermeld in artikel 4, § 1, 1°,   a), wordt geen tussenkomst in de leningslast toegekend als vermeld in artikel   11, § 3, als de datum van de akte van verwerving dateert van voor 1 januari   2008. In dat geval is artikel 9 ook niet van toepassing.<BR></P>  <P>In afwijking van het eerste lid wordt voor verwervingen die hebben   plaatsgevonden na 1 januari 2006 en waarvoor een ontvankelijke subsidieaanvraag   is ingediend op basis van het besluit van de Vlaamse Regering van 19 december   1996 betreffende het grond- en pandenbeleid voor huisvestingsdoeleinden in   woonkernen, ter uitvoering van de artikelen 94 en 95 van de Huisvestingscode, en   waarvoor op 1 januari 2008 nog geen belofte van subsidie was gegeven, wel een   tussenkomst in de leningslast toegekend als vermeld in artikel 11, § 3, van dit   besluit. In dat geval is artikel 9 van toepassing.<BR></P>  <P>Artikel 11, § 1, derde lid, is van toepassing op verwervingen waarvoor een   bulletlening als vermeld in artikel 10, tweede lid, van het besluit van de   Vlaamse Regering van 12 oktober 2007, vermeld in artikel 81, 1°, is verstrekt   die op 1 januari 2013 nog niet is omgezet naar een renteloze lening als vermeld   in artikel 10, eerste lid, van dat besluit. In dat geval is artikel 9 van   toepassing.<BR></P>  <P>Voor bouw- en renovatieverrichtingen als vermeld in artikel 4, § 1, 1°, c) en   d), die aanbesteed zijn voor 1 juli 2008, worden de prijsplafonds, verkregen   door de toepassing van artikel 7, § 2, en artikel 8, § 2, met 15 %   verhoogd.</P>
+...
 
 ### ART. 84/1.
 
-Als vóór 1 januari 2015 een tussenkomst in de prefinanciering van een   verwerving is verleend, blijft in afwijking van artikel 26 de regeling die van   toepassing was voor de voormelde datum, van toepassing.
+...
 
 ### ART. 85.
 
-Voor de bepaling van de theoretische huurinkomsten, vermeld in artikel 30,   § 1, voor de jaren 2012 en 2013 wordt geen rekening gehouden met de   huurvermindering, vermeld in artikel 70, § 5, van het Kaderbesluit Sociale   Huur.
+...
 
 ### ART. 86.
 
-<P>De algemene werkings- en onderhoudskosten, vermeld in artikel 32, § 3, zijn   voor 2011 tot en met 2019, per sociale huurwoning, forfaitair vastgesteld op   :<BR>1° 1.000 euro voor een appartement;<BR>2° 860 euro voor een eengezinswoning   of een duplex.<BR></P>  <P>Voor structurele leegstand in de periode, vermeld in het eerste lid, worden   geen algemene werkings- en onderhoudskosten vastgesteld.<BR></P>  <P>Voor de toepassing in het referentiejaar worden de bedragen, vermeld in het   eerste lid, aangepast aan de gezondheidsindex van de maand juni van dat jaar,   met als basis de gezondheidsindex 102,15 van 2005. Het resultaat wordt afgerond   naar het eerstvolgende veelvoud van 10 euro.</P>
+...
 
 ### ART. 87.
 
-<P>&nbsp;§ 1. Met behoud van de toepassing van paragraaf 2 worden de kapitaals-   en interestlasten van een lening bij de VMSW die werd verstrekt vanaf 1 januari   1996 en op 31 december 2012 nog niet volledig is terugbetaald, niet in   aanmerking genomen voor de berekening van de GSC van 2011 en 2012 als de totale   looptijd van de lening in kwestie, namelijk het aantal jaren tussen de begin- en   eindtermijn van de kapitaalaflossingen, minder dan dertig jaar is.<BR></P>  <P>§ 2. De VMSW geeft de SHM's in 2013 de mogelijkheid om bij haar aangegane   leningen met een looptijd van minder dan dertig jaar die op 31 december 2012 nog   niet volledig zijn terugbetaald, vervroegd terug te betalen met een nieuwe   marktconforme lening met een looptijd van dertig jaar, in die zin dat de totale   looptijd van bij de aanvang van de kapitaalaflossing op de vervroegd   terugbetaalde lening tot de laatste aflossing op de nieuwe lening dertig jaar   bedraagt. De vertrekbasis voor die herfinanciering is 31 december 2010 voor de   bepaling van de resterende looptijd en het uitstaande saldo. De verschuldigde   wederbeleggingsvergoeding kan mee in de nieuwe lening worden opgenomen.<BR></P>  <P>Voor de aflossingen in 2011 en verder wordt uitgegaan van de aflossingstabel   van de nieuw afgesloten lening. De SHM betaalt in 2013 het saldo, rekening   houdend met het bedrag dat effectief is terugbetaald tot en met 2012. In de GSC   van 2011 en verder wordt rekening gehouden met de aflossingen volgens de   aflossingstabel van de nieuw afgesloten lening.<BR></P>  <P>§ 3. De VMSW geeft de SHM's vanaf 2013 de mogelijkheid om bij haar aangegane   leningen met een looptijd van minder dan dertig jaar die op 31 december van het   volgende jaar nog niet volledig zijn terugbetaald,vervroegd terug te betalen met   een nieuwe marktconforme lening met een looptijd van dertig jaar, in die zin dat   de totale looptijd van bij de aanvang van de kapitaalaflossing op de vervroegd   terugbetaalde lening tot de laatste aflossing op de nieuwe lening dertig jaar   bedraagt. De vertrekbasis voor die herfinanciering is dan 31 december van het   voorgaand jaar voor de bepaling van de resterende looptijd en het uitstaande   saldo. De verschuldigde wederbeleggingsvergoeding kan mee in de nieuwe lening   worden opgenomen.<BR></P>  <P>In de GSC van het referentiejaar waarin de lening wordt geherfinancierd,   wordt rekening gehouden met de aflossingen volgens de aflossingstabel van de   nieuw afgesloten lening.</P>
+...
 
 ### ART. 88.
 
-Bij de opmaak van de begroting van het Vlaamse Gewest voor de periode 2012   tot en met 2020 hanteert de Vlaamse Regering de tabel met investeringsvolumes   voor verrichtingen die bedoeld zijn om sociale huurwoningen ter beschikking te   stellen die als bijlage bij dit besluit is gevoegd.
+...
 
 ### ART. 89.
 
-Artikel 2, hoofdstuk 2 en artikel 33 van het besluit van de Vlaamse   Regering van 13 januari 2012 tot vaststelling van nadere regels voor de   bijdragen van de sociale woonactoren en de private actoren in de financiering   van de Vlaamse Maatschappij voor Sociaal Wonen treden in werking op 1 januari   2013, wat de andere sociale woonactoren dan de SHM's betreft.
+...
 
 ### ART. 90.
 
-<P>Dit besluit treedt in werking op 1 januari 2013.<BR></P>  <P>Artikel 11 heeft uitwerking met ingang van het uitvoeringsprogramma voor het   jaar 2012, voor wat de financiering van sloop-, bouw- en   investeringsverrichtingen als vermeld in artikel 4, § 1, 1°, b), c) en d),   betreft.<BR></P>  <P>Artikel 86 en 87, § 1 en § 2, hebben uitwerking met ingang van het   referentiejaar 2011.</P>
+...
 
 ### ART. 91.
 
-De Vlaamse minister, bevoegd voor wonen, is belast met de uitvoering van   dit besluit.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2016/10/24_1.pdf#page=67">http://www.ejustice.just.fgov.be/mopdf/2016/10/24_1.pdf#page=67</a>
+...
