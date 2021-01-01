@@ -14,11 +14,15 @@ In   dit besluit wordt verstaan onder:<BR   style="WHITE-SPACE: normal; WORD-SPA
 
 ### ART. 2.
 
-<P>&nbsp;Het beheer van het Hermesfonds valt   onder de bevoegdheid van de Vlaamse minister, bevoegd voor het   agentschap.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   agentschap wordt belast met de algemene leiding en beheer, de werking en de   vertegenwoordiging van het Hermesfonds. Het hoofd van het agentschap treedt op   als leidend ambtenaar van het Hermesfonds, waarbij de delegaties en de   mogelijkheden tot subdelegatie die gelden in de verhouding tussen het Agentschap   en het hoofd van het Agentschap naar analogie gelden voor de handelingen van de   leidend ambtenaar van het Hermesfonds in het kader van het beheer van het   Hermesfonds.</P>
+<p>Het beheer van het Fonds voor Innoveren en Ondernemen valt onder de bevoegdheid van de Vlaamse minister, bevoegd voor het agentschap.</p>
+
+<p>Het agentschap wordt belast met de algemene leiding en beheer, de werking en de vertegenwoordiging van het Fonds voor Innoveren en Ondernemen. Het hoofd van het agentschap treedt op als leidend ambtenaar van het Fonds voor Innoveren en Ondernemen, waarbij de delegaties en de mogelijkheden tot subdelegatie die gelden in de verhouding tussen het Agentschap en het hoofd van het Agentschap naar analogie gelden voor de handelingen van de leidend ambtenaar van het Fonds voor Innoveren en Ondernemen in het kader van het beheer van het Fonds voor Innoveren en Ondernemen.</p>
 
 ### ART. 3.
 
-<P>&nbsp;In afwijking van artikel 2, is het   beslissingscomité bij het Hermesfonds, onverminderd delegatie, bevoegd voor de   beslissingen in het kader van de instrumenten met betrekking tot steunverlening   bedoeld in artikel 6, § 1.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   hoofd van het agentschap is ertoe gemachtigd ook de nota's, ambtsberichten,   briefwisseling en documenten met betrekking tot de besluitvorming van het   beslissingscomité te ondertekenen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>In afwijking van artikel 2, is het beslissingscomité bij het Fonds voor Innoveren en Ondernemen, onverminderd delegatie, bevoegd voor de beslissingen in het kader van de instrumenten met betrekking tot steunverlening bedoeld in artikel 6, § 1.</p>
+
+<p>Het hoofd van het agentschap is ertoe gemachtigd ook de nota's, ambtsberichten, briefwisseling en documenten met betrekking tot de besluitvorming van het beslissingscomité te ondertekenen.</p>
 
 ### ART. 4.
 
@@ -30,7 +34,7 @@ In   dit besluit wordt verstaan onder:<BR   style="WHITE-SPACE: normal; WORD-SPA
 
 ### ART. 5.
 
-Het   Hermesfonds maakt voor zijn werking gebruik van het personeel, de uitrusting en   de installaties van het agentschap.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+Het Fonds voor Innoveren en Ondernemen maakt voor zijn werking gebruik van het personeel, de uitrusting en de installaties van het agentschap.
 
 ## Hoofdstuk 4 Het beslissingscomité bij het [Fonds voor Innoveren en Ondernemen (verv. BVR 20 november 2020, art. 44, I: 1 januari 2021)]
 
@@ -64,9 +68,9 @@ Het   Hermesfonds maakt voor zijn werking gebruik van het personeel, de uitrusti
 7° de opvolging van het project of programma met inbegrip van de vordering tot terugbetaling van oneigenlijk aangewende steun;<br>
 8° het bepalen van de voor steun in aanmerking komende kosten.<br>
 <br>
-§ 4. Het beslissingscomité is ertoe gemachtigd zijn bevoegdheden tot toekenning van steun en inzake de opvolging van projecten te delegeren aan de leidend ambtenaar van het Hermesfonds met uitzondering van de bevoegdheden vermeld in artikel 6 § 2 1°, 2° en 6°.<br>
+§ 4. Het beslissingscomité is ertoe gemachtigd zijn bevoegdheden tot toekenning van steun en inzake de opvolging van projecten te delegeren aan de leidend ambtenaar van het Fonds voor Innoveren en Ondernemen met uitzondering van de bevoegdheden vermeld in artikel 6 § 2 1°, 2° en 6°.<br>
 <br>
-De delegatie aan de leidend ambtenaar van het Hermesfonds voor toekenning van steun in een individueel dossier mag het bedrag van 500.000 euro niet overschrijden.</p>
+De delegatie aan de leidend ambtenaar van het Fonds voor Innoveren en Ondernemen voor toekenning van steun in een individueel dossier mag het bedrag van 500.000 euro niet overschrijden.</p>
 
 ## Afdeling 2 Geldelijke bepalingen
 
