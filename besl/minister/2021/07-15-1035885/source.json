@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035885,
+  "title": "Ministerieel besluit van 2021-07-15 over de verdeling van de middelen voor de terbeschikkingstelling van budgetten voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor het jaar 2021",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035885/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "958ebae45be45700880ad4ac59a75780060af55da8157636c6446153765bbde1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035885&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2021-07-15",
+  "gazette": "2021-08-02",
+  "numac": 2021031968,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
