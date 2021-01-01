@@ -305,7 +305,7 @@ Het bezwaar schort de uitvoering van de beslissing niet op.<br>
 
 ### ART 26.
 
-Ter uitvoering van artikel 8, tweede lid, van het decreet van 26 april 2019 ontvangt de voor het afstammingscentrum vergunde organisatie jaarlijks vanaf 2020, binnen de marge van de begrotingskredieten, een basissubsidie voor personeels- en werkingskosten van 300.000 euro.<br>
+Ter uitvoering van artikel 8, tweede lid, van het decreet van 26 april 2019 ontvangt de voor het afstammingscentrum vergunde organisatie jaarlijks vanaf 2020, binnen de marge van de begrotingskredieten, een basissubsidie voor personeels- en werkingskosten van 306.581,66 euro (driehonderdenzesduizend vijfhonderdeenentachtig euro zesenzestig cent).<br>
 <br>
 Het bedrag, vermeld in het eerste lid, wordt toegekend voor de werking gedurende een volledig kalenderjaar en wordt verminderd pro rata met de maanden waarin in het jaar in kwestie geen prestaties zijn geleverd.<br>
 <br>
@@ -314,7 +314,9 @@ De voor het afstammingscentrum vergunde organisatie behoudt haar recht op subsid
 2° ze voert de opdrachten uit, vermeld in artikel 3 en 4 van het voormelde decreet;<br>
 3° ze leeft de subsidievoorschriften na, vermeld in artikel 26 tot 30 van dit besluit.<br>
 <br>
-De subsidie, vermeld in het eerste lid, is gekoppeld aan de spilindex die van toepassing is op 1 januari 2020. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
+De subsidie, vermeld in het eerste lid, is gekoppeld aan de spilindex die van toepassing is op 1 januari 2020. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.<br>
+<br>
+Per kwartaal en uiterlijk op het einde van de eerste maand van het kwartaal in kwestie keert Opgroeien regie aan het afstammingscentrum een voorschot uit. Het bedrag van dat voorschot bedraagt een vierde van 90% van de jaarsubsidie. Het saldo van 10% van de jaarsubsidie wordt uitbetaald in de loop van het daaropvolgende jaar.
 
 ### ART 27.
 
