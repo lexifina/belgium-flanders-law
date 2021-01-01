@@ -129,14 +129,14 @@ Het samenwerkingsakkoord tussen de Staat, de Vlaamse Gemeenschap en de Franse Ge
 ### ART. 24.
 
 Voor de toepassing van deze afdeling worden de hierna volgende begrippen gebruikt:<br>
-1° de inventarisbeheerder: de gewestelijke entiteit die door de Vlaamse Regering belast wordt met het beheer van de inventaris, vermeld in artikel 26;<br>
+1° ...;<br>
 2° gebouw: elk bebouwd onroerend goed, dat zowel het hoofdgebouw als de bijgebouwen omvat, met uitzondering van de bebouwde onroerende goederen die vallen onder de toepassing van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<br>
 3° gewestelijk ambtenaar: de ambtenaar die met toepassing van de regels, vastgesteld door de Vlaamse Regering wordt aangewezen en die binnen zijn ambtsgebied belast is met opdrachten inzake kwaliteitsbewaking als vermeld in titel III van de Vlaamse Wooncode;<br>
 4° sociale woonorganisaties: de Vlaamse Maatschappij voor Sociaal Wonen, de erkende sociale huisvestingsmaatschappijen, vermeld in het decreet van 15 juli 1997 houdende de Vlaamse Wooncode en het Vlaams Woningfonds van de Grote Gezinnen;<br>
 5° woning: elk onroerend goed of deel ervan dat hoofdzakelijk bestemd is voor de huisvesting van een gezin of alleenstaande;<br>
-6° inventarisatiedatum: datum waarop de woning voor de eerste maal in de inventaris wordt opgenomen of, zolang de woning niet uit de inventaris is geschrapt, het ogenblik van het verstrijken van elke nieuwe periode van twaalf maanden vanaf de datum van de eerste inschrijving;<br>
+6° ...;<br>
 7° Vlaamse Wooncode: het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
-8° inventaris: de inventaris, vermeld in artikel 26;<br>
+8° ...;<br>
 9° houder van het zakelijk recht: de persoon, vermeld in artikel 2.5.2.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013.
 
 ## ONDERAFDELING 2 [... (opgeh. Decr. 9 juli 2021, art. 198, I: 20 september 2021)]
@@ -167,63 +167,23 @@ Woningen die door het Vlaamse Gewest geïnventariseerd zijn als ongeschikt of on
 
 ### ART. 26.
 
-<p>§ 1. Overeenkomstig de bepalingen die door de Vlaamse Regering worden vastgesteld, maakt de inventarisbeheerder een inventaris met afzonderlijke lijsten van:<br>
-1° woningen die ongeschikt of onbewoonbaar zijn verklaard overeenkomstig de artikelen 15 tot en met 16quater van de Vlaamse Wooncode;<br>
-2° woningen die onbewoonbaar zijn verklaard overeenkomstig artikel 135 van de Nieuwe Gemeentewet.<br>
-<br>
-§ 2. Elke gemeente ontvangt een uittreksel van de in de inventaris geregistreerde woningen die zich op haar grondgebied bevinden.<br>
-<br>
-De gemeente moet aan elkeen die erom verzoekt inzage verlenen in de lijst met de in de inventaris geregistreerde woningen en de gegevens van de kadastrale legger die op deze woningen betrekking hebben.</p>
+...
 
 ### ART. 27.
 
-De woningen, vermeld in artikel 26, § 1, 1°, worden ingeschreven op de inventarislijst op de datum van het besluit van de burgemeester, vermeld in artikel 15 van de Vlaamse Wooncode, of, in het geval van een beslissing tot ongeschikt- of onbewoonbaarverklaring in beroep, op de datum van het besluit, vermeld in artikel 16bis, eerste lid, van de Vlaamse Wooncode.<br>
-<br>
-De woningen, vermeld in artikel 26, § 1, 2°, worden ingeschreven op de inventarislijst op datum van het besluit van de burgemeester.<br>
-<br>
-De bepalingen van dit artikel gelden ook voor de afsplitsbare woningen en voor de bedrijfsruimten waarvan de woning van de eigenaar als verblijfplaats wordt benut en een niet-afsplitsbaar onderdeel uitmaakt als vermeld in artikel 2, 1°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten.
+...
 
 ### ART. 28.
 
-§ 1. Door een registratieattest wordt de opname in de inventaris door de inventarisbeheerder betekend aan de houders van het zakelijk recht, zoals bekend bij de Administratie van het kadaster, de registratie en de domeinen van het geïnventariseerde goed. De Vlaamse Regering bepaalt hiervoor de voorwaarden.<br>
-<br>
-§ 2. Voor de woningen, vermeld in artikel 26, § 1, 1°, geldt een besluit als vermeld in artikel 27, eerste lid, als registratieattest. De opname in de inventaris wordt vermeld in het besluit. Tegen dat besluit en de registratie kan bij de Vlaamse Regering beroep aangetekend worden overeenkomstig artikel 15, § 2, van de Vlaamse Wooncode.<br>
-<br>
-§ 3. Voor de woningen, vermeld in artikel 26, § 1, 2°, bezorgt de inventarisbeheerder het registratieattest binnen vijftien dagen na de ontvangst van het besluit tot onbewoonbaarverklaring aan de houder van het zakelijk recht.<br>
-<br>
-Als de houder van het zakelijk recht aantoont dat hij tegen het besluit tot onbewoonbaarverklaring een klacht heeft ingediend bij de toezichthoudende overheid overeenkomstig artikel 254 van het Gemeentedecreet van 15 juli 2005, dan wordt de opname op de lijst, vermeld in artikel 26, geschorst tot de procedure overeenkomstig artikel 255 tot 258 van het Gemeentedecreet volledig is afgerond.<br>
-<br>
-De gemeenteoverheid brengt de inventarisbeheerder op de hoogte van het gemotiveerde besluit of van het definitieve antwoord van de toezichthoudende overheid als vermeld in artikel 258 van het Gemeentedecreet.<br>
-<br>
-Binnen dertig dagen nadat de indiener van de klacht het definitieve antwoord van de toezichthoudende overheid heeft ontvangen overeenkomstig artikel 258 van het Gemeentedecreet, kan hij tegen de registratie beroep indienen bij de Vlaamse Regering. De Vlaamse Regering neemt een beslissing binnen drie maanden na ontvangst van het beroepschrift. Bij ontstentenis van een beslissing binnen die termijn, wordt het beroep geacht te zijn ingewilligd.
+...
 
 ### ART. 29.
 
-De instrumenterende ambtenaar die belast is met de overdracht van het zakelijk recht, vermeld in artikel 2.5.2.0.1, eerste lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013, moet de verkrijger van het zakelijk recht uiterlijk op het ogenblik van de overdracht van het zakelijk recht op de hoogte brengen van de kennisgeving van de vaststelling tot ongeschiktheid of onbewoonbaarheid ervan of van de opname van de woning in de inventaris.<br>
-<br>
-Een door beide partijen ingevuld en ondertekend formulier wordt door de notaris of een partij uiterlijk zeven dagen na de overdracht van het zakelijk recht aan de inventarisbeheerder en aan de bevoegde entiteit van de Vlaamse administratie gezonden.
+...
 
 ### ART. 30.
 
-§ 1. De inventarisbeheerder schrapt een woning uit de lijst, vermeld in artikel 26, § 1, 1°, op aangetekend verzoek van de houder van het zakelijk recht of zijn rechtsopvolger zodra hij bewijst dat de woning weer voldoet aan de vereisten en normen, vastgesteld met toepassing van artikel 5 van de Vlaamse Wooncode.<br>
-<br>
-Als de woning gesloopt is of een andere bestemming heeft gekregen, schrapt de inventarisbeheerder de woning op basis van het besluit van de burgemeester tot opheffing van de ongeschikt- of onbewoonbaarverklaring.<br>
-<br>
-Met behoud van de toepassing van artikel 20bis, § 6, derde lid, van de Vlaamse Wooncode, wordt het bewijs als vermeld in het eerste lid geleverd overeenkomstig artikel 7 van hetzelfde decreet.<br>
-<br>
-§ 2. De inventarisbeheerder schrapt een woning uit de lijst, vermeld in artikel 26, § 1, 2°, op aangetekend verzoek van de houder van het zakelijk recht of zijn rechtsopvolger zodra hij bewijst dat de burgemeester het onbewoonbaarheidsbesluit heeft opgeheven of het bewijs als vermeld in paragraaf 1, eerste lid, levert.<br>
-<br>
-§ 3. De inventarisbeheerder geeft de houder van het zakelijk recht, of desgevallend zijn rechtsopvolger binnen drie maanden na het verzoek tot schrapping kennis van de beslissing daaromtrent.<br>
-<br>
-Als de kennisgeving, vermeld in het eerste lid, niet is gebeurd binnen de voorziene termijn, wordt het verzoek tot schrapping geacht te zijn ingewilligd.<br>
-<br>
-§ 4. In de gevallen, vermeld in paragraaf 1, eerste lid, vermeldt de inventarisbeheerder als datum van schrapping de eerste dag waarop de woning weer voldoet aan de vereisten en normen, vastgesteld met toepassing van artikel 5 van de Vlaamse Wooncode.<br>
-<br>
-In de gevallen, vermeld in paragraaf 1, tweede lid, vermeldt de inventarisbeheerder als datum van schrapping de eerste dag van de sloop of herbestemming.<br>
-<br>
-In de gevallen, vermeld in paragraaf 2, vermeldt de inventarisbeheerder als datum van schrapping de datum van het opheffingsbesluit van de burgemeester of de eerste dag waarop de woning voldoet aan de vereisten en normen, vastgesteld met toepassing van artikel 5 van de Vlaamse Wooncode.<br>
-<br>
-Als de kennisgeving, vermeld in paragraaf 3, niet is gebeurd binnen de voorziene termijn, wordt de datum van herstel die de houder van het zakelijk recht in het verzoek tot schrapping aangeeft, als datum van schrapping vermeld.
+...
 
 ### ART. 31.
 
