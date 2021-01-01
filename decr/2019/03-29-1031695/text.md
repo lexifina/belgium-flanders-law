@@ -20,7 +20,7 @@ In dit decreet wordt verstaan onder:<br>
 In dit artikel wordt verstaan onder verordening (EU) 651/2014: de verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard.<br>
 <br>
 Alle steun die wordt toegekend op grond van dit decreet en de volgende decretale bepalingen, decreten en de uitvoeringsbesluiten ervan, worden verleend binnen de grenzen en de voorwaarden, vermeld in de verordening (EU) 651/2014:<br>
-1° artikel 49 tot en met 54 van het decreet van 19 december 1998 houdende bepalingen tot begeleiding van de begroting 1999;<br>
+1° ...;<br>
 2° het decreet van 22 december 2000 betreffende de amateurkunsten;<br>
 3° artikel 31 tot en met 37 van het decreet van 5 juli 2002 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2002;<br>
 4° het decreet van 7 mei 2004 betreffende de toepassing van intersectorale akkoorden voor organisaties ressorterend onder het paritair comité voor de sociaal-culturele sector;<br>
@@ -315,6 +315,14 @@ In artikel 2 van het decreet van 22 december 2000 betreffende de amateurkunsten,
 In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2016, wordt hoofdstuk III, dat bestaat uit artikel 13 en 14, opgeheven.
 
 ## HOOFDSTUK 12. Wijzigingen van het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk
+
+### ART 44.
+
+In het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk worden de volgende artikelen opgeheven:<br>
+1° artikel 2, gewijzigd bij de decreten van 14 maart 2008 en 7 juli 2017;<br>
+2° artikel 37 tot en met 39;<br>
+3° artikel 40, gewijzigd bij het decreet van 6 juli 2012;<br>
+4° artikel 41, vervangen bij het decreet van 6 juli 2012.
 
 ### ART 45.
 
