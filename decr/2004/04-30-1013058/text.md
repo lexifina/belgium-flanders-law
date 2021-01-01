@@ -10,7 +10,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 In dit decreet wordt verstaan onder:<br>
 1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018 ;;<br>
-2° kinderopvang: kinderopvang van baby's en peuters en de buitenschoolse opvang van kinderen in al zijn vormen;<br>
+2° kinderopvang: de kinderopvang, vermeld in artikel 2 van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
 3° preventieve gezinsondersteuning : het geheel van maatregelen en aanbod dat gericht is op het bevorderen van het welbevinden van alle gezinnen met kinderen, en aanstaande ouders met inbegrip van de ondersteuning op het vlak van opvoeding en preventieve gezondheidszorg;<br>
 4° gezin: primaire leefvormen of samenlevingsvormen waarin meerdere personen min of meer duurzame relaties onderhouden;<br>
 5° voorzieningen: elke organisatievorm die dienstverlening, hulpverlening of ondersteuning organiseert of verleent aan kinderen, jongeren en gezinnen;<br>
@@ -19,7 +19,10 @@ In dit decreet wordt verstaan onder:<br>
 8° jeugd- en gezinsbeleid: het jeugdbeleid, vermeld in artikel 5, § 1, II, 6°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, en het gezinsbeleid, vermeld in punt 6° ;<br>
 9° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 10° het agentschap Opgroeien: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien, vermeld in artikel 1, 1°, van het besluit van de Vlaamse Regering van 24 oktober 2008 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien;<br>
-11° jongere: een persoon tot en met de leeftijd van vijfentwintig jaar.
+11° jongere: een persoon tot en met de leeftijd van vijfentwintig jaar<br>
+12° buitenschoolse activiteiten: de buitenschoolse activiteiten, vermeld in artikel 2, 1°, van het decreet van 3 mei 2019 houdende de organisatie van buitenschoolse opvang en de afstemming tussen buitenschoolse activiteiten;<br>
+13° kleuteropvang: de kleuteropvang, vermeld in artikel 2, 3°, van het decreet van 3 mei 2019 houdende de organisatie van buitenschoolse opvang en de afstemming tussen buitenschoolse activiteiten;<br>
+14° opvang lager onderwijs: de opvang lager onderwijs, vermeld in artikel 2, 8°, van het decreet van 3 mei 2019 houdende de organisatie van buitenschoolse opvang en de afstemming tussen buitenschoolse activiteiten.
 
 ## HOOFDSTUK II OPRICHTING
 
@@ -74,6 +77,7 @@ e) de pleegzorg;<br>
 f) de integrale jeugdhulp;<br>
 g) de jeugddelinquentie;<br>
 h) het aanbod voor ondersteuning van jongeren met een handicap of een vermoeden van handicap in de typemodule diagnostiek of de typemodule GES+ in de multifunctionele centra, vermeld in artikel 1, 6°, van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, en het aanbod georganiseerd door de centra voor ontwikkelingsstoornissen, vermeld in hoofdstuk 2 van het besluit van de Vlaamse Regering van 16 juni 1998 tot regeling van de erkenning en de subsidiëring van de centra voor ontwikkelingsstoornissen;<br>
+i) de buitenschoolse activiteiten;<br>
 2° de financiering van de personen, vermeld in artikel 4, § 2, beheren en de voorzieningen subsidiëren, met uitzondering van de financiering van de persoonsvolgende financiering voor personen met een handicap, vermeld in artikel 3 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap.<br>
 <br>
 Het beheren van de financiering van de personen en de subsidiëring aan de voorzieningen, vermeld in paragraaf 1, 2°, omvat de volgende taken:<br>
@@ -81,7 +85,7 @@ Het beheren van de financiering van de personen en de subsidiëring aan de voorz
 2° de gezinsbijslagen en toelagen met betrekking tot het gezinsbeleid ontvangen en de bijdragen van personen ten aanzien van wie hulp wordt georganiseerd, innen;<br>
 3° de financiële lasten ten gevolge van de toepassing van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht en het decreet van 29 juni 2012 houdende de organisatie van pleegzorg opnemen. In die financiële lasten zijn de wedden, de voorschotten daarop en de vergoedingen of uitkeringen die een toebehoren van de wedden vormen of ermee gelijkstaan, van het personeel van de diensten van de Vlaamse Regering niet inbegrepen.<br>
 <br>
-§ 2. Naast de kerntaken, vermeld in paragraaf 1, voert het agentschap ook de volgende taken uit voor de in paragraaf 1, 1°, a) tot en met h), vermelde domeinen:<br>
+§ 2. Naast de kerntaken, vermeld in paragraaf 1, voert het agentschap ook de volgende taken uit voor de in paragraaf 1, 1°, a) tot en met i), vermelde domeinen:<br>
 1° het voeren van een geïntegreerd jeugd- en gezinsbeleid, dat de volgende taken omvat:<br>
 a) beleid voorbereiden en ontwikkelen;<br>
 b) beleid implementeren, coördineren en integreren;<br>
@@ -115,6 +119,14 @@ b) de kwaliteit van de erkende en vergunde voorzieningen, diensten, samenwerking
 Het agentschap kan optreden als uitbetalingsinstelling voor lokale besturen die subsidies verlenen als vermeld in artikel 12, § 1, van het decreet van 20 april 2012 en waarmee het agentschap een convenant heeft gesloten.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels wat betreft de voorwaarden waaronder het agentschap kan optreden als uitbetalingsinstelling als vermeld in het tweede lid.
+
+### ART 6/1.
+
+De taak inzake de regie van buitenschoolse activiteiten omvat in elk geval de toekenning van een kwaliteitslabel aan organisatoren van kleuteropvang en het handhaven van de kwaliteitsvoorwaarden zoals vermeld in het decreet van 3 mei 2019 houdende de organisatie van buitenschoolse opvang en de afstemming tussen buitenschoolse activiteiten.<br>
+<br>
+Het agentschap kan in opdracht van de Vlaamse Regering volledig of gedeeltelijk worden belast met het toezicht op de naleving van de kwaliteitsvoorwaarden die bij het kwaliteitslabel behoren.<br>
+<br>
+Het agentschap kan meewerken aan het ontwikkelen van het inspiratiekader voor een geïntegreerd aanbod van buitenschoolse activiteiten.
 
 ### ART. 7.
 
@@ -165,7 +177,9 @@ De taak inzake binnenlandse en interlandelijke adoptie omvat naast de kerntaken,
 
 ### ART. 8/1.
 
-...
+Het agentschap ondersteunt organisatoren en actoren die relevant zijn voor kinderopvang, kleuteropvang, opvang lager onderwijs en preventieve gezinsondersteuning. Het agentschap kan daarvoor samenwerken met andere instanties.<br>
+<br>
+De Vlaamse Regering bepaalt daarvoor de nadere regels.
 
 ### ART. 9.
 
@@ -173,11 +187,11 @@ Onverminderd de behandeling van klachten over de eigen werking en dienstverlenin
 
 ### ART. 10.
 
-Het agentschap voert de taken, vermeld in artikel 5, 6, 7, 7/1, 7/2, 7/3 en 8,&nbsp;uit in samenhang met:<br>
+Het agentschap voert de taken, vermeld in artikel 5, 6, 6/1, 7, 7/1, 7/2, 7/3, 8 en 8/1,&nbsp;uit in samenhang met:<br>
 1° het door andere beleidsdomeinen en beleidsniveaus gevoerde beleid;<br>
 2° het door de Vlaamse Gemeenschap gevoerde beleid inzake welzijn en gezondheid.<br>
 <br>
-Het agentschap ontwikkelt terreinexpertise met betrekking tot de taken, vermeld in artikelen 5, 6, 7, 7/1, 7/2, 7/3 en 8.<br>
+Het agentschap ontwikkelt terreinexpertise met betrekking tot de taken, vermeld in artikel 5, 6, 6/1, 7, 7/1, 7/2, 7/3, 8 en 8/1.<br>
 <br>
 Het agentschap zal de verworven kennis en expertise ter beschikking stellen in het kader van de toepassing van artikel III.2, derde lid, van het Bestuursdecreet.<br>
 <br>
@@ -186,7 +200,7 @@ Het agentschap zal haar dienstverlening permanent optimaliseren en vernieuwen op
 In het kader van zijn missie als vermeld in artikel 4, § 1, en zijn kerntaken als vermeld in artikel 5, kan het agentschap de persoonsgegevens verwerken van alle toekomstige ouders en van alle pasgeboren kinderen en hun ouders die noodzakelijk zijn om de taken inzake preventieve gezinsondersteuning, vermeld in artikel 7, § 1, uit te voeren. De concrete gegevensstromen die hiertoe noodzakelijk zijn, moeten beantwoorden aan de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd.<br>
 <br>
 Het agentschap registreert en verwerkt alle gegevens, met inbegrip van persoonsgegevens met betrekking tot de personen, vermeld in artikel 4, § 2, die noodzakelijk zijn om:<br>
-1° de taken, bedoeld in artikelen&nbsp;5, 6, 7, 7/1, 7/2, 7/3 en 8 uit te voeren;<br>
+1° de taken, vermeld in artikel 5, 6, 6/1, 7, 7/1, 7/2, 7/3, 8 en 8/1 uit te voeren;<br>
 2° de beleidsgerichte input als bedoeld in&nbsp;artikel III.2, derde lid, van het Bestuursdecreet te leveren.<br>
 <br>
 De Vlaamse regering bepaalt de nadere regels met betrekking tot de gegevensregistratie en verwerking, onverminderd de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.
@@ -197,7 +211,7 @@ Het agentschap werkt voor de realisatie van zijn taken samen en sluit samenwerki
 
 ### ART. 12.
 
-De Vlaamse regering kan binnen het kader van de taak van het agentschap, vermeld in artikelen&nbsp;5, 6, 7, 7/1, 7/2, 7/3 en 8, nadere regels bepalen met betrekking tot de normen en de voorwaarden om initiatieven toe te staan en of te subsidiëren, met dien verstande dat de toelatings- en/of erkenningsbeslissing bij het agentschap berust.
+De Vlaamse regering kan binnen het kader van de taak van het agentschap, vermeld in artikel 5, 6, 6/1, 7, 7/1, 7/2, 7/3, 8 en 8/1, nadere regels bepalen met betrekking tot de normen en de voorwaarden om initiatieven toe te staan en of te subsidiëren, met dien verstande dat de toelatings- en/of erkenningsbeslissing bij het agentschap berust.
 
 ### ART. 13.
 
