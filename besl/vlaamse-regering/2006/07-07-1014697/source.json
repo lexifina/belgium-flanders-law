@@ -2,16 +2,16 @@
   "codex_id": 1014697,
   "title": "Besluit van de Vlaamse Regering van 2006-07-07 houdende de regeling van de rechtsopvolging van de Vlaamse Huisvestingsmaatschappij naar aanleiding van de omvorming ervan tot het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Maatschappij voor Sociaal Wonen en houdende de toewijzing van de goederen, de rechten en verplichtingen van de Vlaamse Huisvestingsmaatschappij en van de afdeling Gesubsidieerde Infrastructuur van het ministerie van de Vlaamse Gemeenschap, wat het beleidsveld woonbeleid betreft, aan de Vlaamse Maatschappij voor Sociaal Wonen en aan het [Vlaams Ministerie van Omgeving]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014697/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "8e3bac78fccc6056560505d5b4fafaca2b0d0d06b261246288a6a66dce273631",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014697/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "0b4efd4d57f594f941cdc367a39c1156224426872bc53339367b3fa02740752a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014697&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2021-01-01",
   "made": "2006-07-07",
   "gazette": "2006-07-28",
   "numac": 2006036147,
   "document_start": "2006-07-01",
   "document_end": "2020-12-31",
-  "in_force": "2017-04-01",
+  "in_force": "2021-01-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
