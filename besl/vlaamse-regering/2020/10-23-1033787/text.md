@@ -259,29 +259,190 @@ In afwijking van artikel 19, § 1, eerste lid, van het Procedurebesluit Wonen va
 
 ## Afdeling 1. Sociale huur
 
+### ART 33.
+
+Tijdens fase rood kan de verhuurder, ter uitvoering van artikel 6.28, derde lid, van de Vlaamse Codex Wonen van 2021 een huurovereenkomst van zes maanden als vermeld in titel II van het Vlaams Woninghuurdecreet van 9 november 2018 sluiten met een alleenstaande die of een gezin dat ten gevolge van het van toepassing zijn van fase rood in een noodsituatie verkeren. Als de huurovereenkomst eindigt tijdens fase rood, wordt de huurovereenkomst op verzoek van de huurder verlengd met zes maanden.<br>
+<br>
+Tijdens fase rood worden de verhuringen, vermeld in artikel 6.71, eerste lid, 2°, van het Besluit Vlaamse Codex Wonen van 2021, voor zover die gebeuren in het kader van opvang van alleenstaanden of gezinnen in een noodsituatie ten gevolge van het van toepassing zijn van fase rood, niet meegerekend voor het percentage, vermeld in artikel 6.74 van het Besluit Vlaamse Codex Wonen van 2021.<br>
+<br>
+De verhuurder die het eerste of het tweede lid toepast, meldt dat voorafgaand aan het sluiten van de huurovereenkomst aan de toezichthouder, vermeld in artikel 4.79 van de Vlaamse Codex Wonen van 2021.
+
+### ART 34.
+
+De maximale termijn, vermeld in artikel 6.14, tweede lid, 1°, van het Besluit Vlaamse Codex Wonen van 2021, wordt verlengd tot dertig kalenderdagen na de beëindiging van fase rood als de termijn verstrijkt tijdens de duurtijd van fase rood, in de volgende gevallen:<br>
+1° de woning die ongeschikt- of onbewoonbaar is verklaard, ligt in een gebied waarvoor fase rood geldt;<br>
+2° de persoon die zich wil inschrijven, woont intussen in een gebied waarvoor fase rood geldt;<br>
+3° het kantoor van de verhuurder ligt in het gebied waarvoor fase rood geldt.
+
+### ART 35.
+
+Als de actualisering van de inschrijvingsregisters, vermeld in artikel 6.6 van het Besluit Vlaamse Codex Wonen van 2021, nog niet gestart is op het moment dat fase rood van toepassing wordt in het gebied waar het kantoor van de verhuurder ligt, wordt de actualisering pas opgestart na de beëindiging van fase rood.<br>
+<br>
+Als de actualisering van de inschrijvingsregisters, vermeld in artikel 6.6 van het Besluit Vlaamse Codex Wonen van 2021, al gestart is op het moment dat fase rood van toepassing wordt in het gebied waar het kantoor van de verhuurder ligt, begint de reglementair bepaalde reactietermijn te lopen op de dag die volgt op de beëindiging van fase rood.<br>
+<br>
+Als bij actualisering een kandidaat-huurder niet reageert binnen de reglementair bepaalde termijn, gaat de verhuurder na of de kandidaat-huurder woont in een gebied waarvoor fase rood geldt. Als dat het geval is, begint de reglementair bepaalde reactietermijn te lopen op de dag die volgt op de beëindiging van fase rood.
+
+### ART 36.
+
+Als fase rood geldt voor het gebied waar de kandidaat-huurder woont, wordt het niet tijdig reageren op een aanbod slechts in rekening gebracht voor de schrappingsgrond, vermeld in het artikel 6.10, eerste lid, 6°, van het Besluit Vlaamse Codex Wonen van 2021, als de kandidaat-huurder niet reageert binnen een termijn van 15 kalenderdagen na de beëindiging van fase rood.
+
+### ART 37.
+
+De maximale termijn, vermeld in artikel 6.19, derde lid, en vierde lid, van het Besluit Vlaamse Codex Wonen van 2021, wordt verlengd tot dertig kalenderdagen na de beëindiging van fase rood als de termijn verstrijkt tijdens de duurtijd van fase rood, in de volgende gevallen:<br>
+1° het roerend of onroerend goed waarvan is vastgesteld dat het niet hoofdzakelijk voor wonen is bestemd, of de woning die onbewoonbaar of ongeschikt verklaard is, ligt in een gebied waarvoor fase rood geldt;<br>
+2° de noodwoning waarin de persoon die zich wil inschrijven, woont, ligt in een gebied waarvoor fase rood geldt;<br>
+3° het kantoor van de verhuurder ligt in een gebied waarvoor fase rood geldt.
+
+### ART 38.
+
+In afwijking van artikel 6.30, tweede lid, van het Besluit Vlaamse Codex Wonen van 2021 wordt de termijn die begint te lopen of nog aan het lopen is tijdens de duurtijd van fase rood voor het gebied waar de kandidaat-huurder woont of waar het kantoor van de verhuurder ligt, verlengd tot dertig kalenderdagen na de beëindiging van fase rood in het gebied waar fase rood het langste geldt.
+
+### ART 39.
+
+De huurder krijgt een uitstel van één jaar als vermeld in artikel 6.38, vierde lid, van het Besluit Vlaamse Codex Wonen van 2021, om te voldoen aan de huurdersverplichting, vermeld in artikel 6.20, eerste lid, 5° en 6°, van de Vlaamse Codex Wonen van 2021, als tijdens het jaar na huurder te zijn geworden fase rood geldt in het gebied waar de huurder woont.
+
 ## Afdeling 2. Sociale koop
+
+### ART 40.
+
+Als de actualisering van de inschrijvingsregisters, vermeld in artikel 5, § 2, van bijlage 22 en 23 van het Besluit Vlaamse Codex Wonen van 2021, nog niet gestart is op het moment dat fase rood van toepassing wordt in het gebied waar het kantoor van de verkoper ligt, wordt de actualisering pas opgestart na de beëindiging van fase rood.<br>
+<br>
+Als de actualisering van de inschrijvingsregisters, vermeld in het eerste lid, al gestart is op het moment dat fase rood van toepassing wordt in het gebied waar het kantoor van de verkoper ligt, begint de door de verkoper bepaalde reactietermijn te lopen op de dag die volgt op de beëindiging van fase rood.<br>
+<br>
+Als bij actualisering een kandidaat-koper niet reageert binnen de door de verkoper bepaalde termijn, gaat de verkoper na of de kandidaat-koper woont in een gebied waarvoor fase rood geldt. Als dat het geval is, begint de door de verkoper bepaalde reactietermijn te lopen op de dag die volgt op de beëindiging van fase rood.
 
 ## Afdeling 3. Woningkwaliteitsbeleid
 
+### ART 41.
+
+De bepalingen van dit artikel zijn van toepassing tijdens een civiele noodsituatie met betrekking tot de volksgezondheid, vastgesteld door de Vlaamse Regering.<br>
+<br>
+Als tijdens fase geel, oranje of rood een verzoek tot afgifte van een conformiteitsattest met toepassing van artikel 3.6, § 1, eerste lid, van de Vlaamse Codex Wonen van 2021 wordt ingediend en de burgemeester vaststelt dat het conformiteitsonderzoek niet veilig kan doorgaan omwille van het risico op besmetting, vangt een nieuwe behandelingstermijn van zestig dagen als vermeld in artikel 3.7, § 1, tweede lid, van de Vlaamse Codex Wonen van 2021, aan op de dag die volgt op de overgang naar fase groen. In dat geval geldt bij afgifte van een conformiteitsattest de datum van het verzoek als de datum waarop de woning conform werd bevonden.<br>
+<br>
+Als tijdens fase geel, oranje of rood een verzoek tot afgifte van een conformiteitsattest met toepassing van artikel 3.7, § 2, van de Vlaamse Codex Wonen van 2021 wordt ingediend en de gewestelijk ambtenaar vaststelt dat het conformiteitsonderzoek niet veilig kan doorgaan omwille van het risico op besmetting, geldt bij afgifte van een conformiteitsattest de datum van het verzoek als de datum waarop de woning conform werd bevonden.
+
+### ART 42.
+
+De bepalingen van dit artikel zijn van toepassing tijdens een civiele noodsituatie met betrekking tot de volksgezondheid, vastgesteld krachtens artikel 4, § 1, eerste lid, 1°, van het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid.<br>
+<br>
+Als tijdens fase geel, oranje of rood bij de behandeling van een beroep, ingesteld met toepassing van artikel 3.14, eerste lid, of 3.26, eerste lid, van de Vlaamse Codex Wonen van 2021, een onderzoek ter plaatse nodig is en het agentschap vaststelt dat dit onderzoek niet veilig kan doorgaan omwille van het risico op besmetting, vangt een nieuwe termijn van drie maanden als vermeld in artikel 3.14, derde lid, van de Vlaamse Codex Wonen van 2021, aan op de dag die volgt op de overgang naar fase groen.<br>
+<br>
+Een hoorzitting als vermeld in artikel 3.14, eerste lid, van de Vlaamse Codex Wonen van 2021, kan tijdens fasen geel, oranje en rood vervangen worden door een uitnodiging om binnen een bepaalde termijn standpunten en argumenten schriftelijk nader toe te lichten.
+
+### ART 43.
+
+In afwijking van artikel 3.2, § 5, eerste lid, 1°, van het Besluit Vlaamse Codex Wonen van 2021 zijn de afwijkingen op de vereisten en normen bij verhuring buiten het sociale huurstelsel voor de opvang van dak- en thuislozen toegestaan tijdens fase rood tot dertig kalenderdagen na de beëindiging van fase rood, zonder beperking inzake maximale duur.
+
 ## Afdeling 4. Sociale verhuurkantoren
+
+### ART 44.
+
+In afwijking van artikel 4.176, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021 bedraagt in 2021 het percentage van het tweede voorschot 50% van het toegestane maximumbedrag. Het derde voorschot vervalt.
 
 ## Afdeling 5. Tegemoetkomingen, leningen en waarborgen
 
 ## Onderafdeling 1. Vlaamse huursubsidie
 
+### ART 45.
+
+Als een gemotiveerd verzoek tot ongeschikt, onbewoonbaar- of overbewoondverklaring werd ingediend tijdens fasen geel, oranje of rood en de burgemeester of de gewestelijk ambtenaar stelt vast dat het conformiteitsonderzoek niet veilig kan doorgaan omwille van het risico op besmetting, geldt voor de vervulling van de voorwaarde, vermeld in artikel 5.164, § 1, eerste lid, 1°, a) en c) van het Besluit Vlaamse Codex Wonen van 2021, de datum van het gemotiveerde verzoek om de woning ongeschikt, onbewoonbaar of overbewoond te verklaren, als datum van het besluit dat de burgemeester of minister over dat verzoek neemt. Als binnen drie maanden na de overgang naar fase groen vaststellingen inzake het vervullen van deze voorwaarde onmogelijk zijn, geldt een vermoeden dat aan die voorwaarde is voldaan.
+
+### ART 46.
+
+In afwijking van artikel 5.167, § 2, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021 wordt tijdens fase rood de termijn van negen maanden opgeschort tot de dag die volgt op de beëindiging van fase rood.
+
+### ART 47.
+
+In afwijking van artikel 5.168, § 1, tweede lid, 1°, van het Besluit Vlaamse Codex Wonen van 2021 kan de huurder tijdens fasen geel, oranje en rood de aanvraag indienen door afgifte bij het agentschap, door verzending per brief of via elektronische weg.<br>
+<br>
+In afwijking van artikel 5.168, § 1, derde lid, van het voormelde besluit kan tijdens fase rood de aanvraag worden ingediend tot uiterlijk twaalf maanden na de aanvangsdatum van de huurovereenkomst.<br>
+<br>
+In afwijking van artikel 5.168, § 2, van het voormelde besluit wordt bij de bepaling van de termijn of een woning als een transitwoning kan worden beschouwd geen rekening gehouden met de duurtijd van fase rood.
+
+### ART 48.
+
+In afwijking van artikel 5.169, vierde lid, van het voormelde besluit wordt het beroep tegen een beslissing of het stilzitten van het agentschap dat via elektronische weg wordt ingediend, tijdens fasen geel, oranje en rood als ontvankelijk beschouwd. Overschrijding van de beroepstermijn van twee maanden leidt tijdens fase rood niet tot onontvankelijkheid.
+
+### ART 49.
+
+In afwijking van artikel 5.174, zevende lid, 3°, van het voormelde besluit wordt tijdens fase rood de termijn van negen maanden opgeschorte uitbetaling die leidt tot stopzetting van de tegemoetkoming, opgeschort tot de dag die volgt op de beëindiging van fase rood.
+
 ## Onderafdeling 2. Vlaamse huurpremie
+
+### ART 50.
+
+In afwijking van artikel 5.177, achtste lid, van het Besluit Vlaamse Codex Wonen van 2021 wordt bij de bepaling van de termijn van negen maanden voor verhuizingen buiten het werkgebied van de oorspronkelijke domiciliemaatschappij na 15 maart 2020 geen rekening gehouden met de duurtijd van fase rood.
+
+### ART 51.
+
+In afwijking van artikel 5.181, § 2, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021 wordt het beroep tegen een beslissing of het stilzitten van het agentschap dat via elektronische weg wordt ingediend, tijdens fasen geel, oranje en rood als ontvankelijk beschouwd. Overschrijding van de beroepstermijn van twee maanden leidt tijdens fase rood niet tot onontvankelijkheid.
+
+### ART 52.
+
+In afwijking van artikel 5.184, eerste lid, 3°, van het voormelde besluit wordt tijdens fase rood de termijn van negen maanden opgeschorte uitbetaling die leidt tot stopzetting van de tegemoetkoming, opgeschort tot de dag die volgt op de beëindiging van fase rood.
 
 ## Onderafdeling 3. Vlaamse renovatiepremie
 
+### ART 53.
+
+In afwijking van artikel 5.193, § 1, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021 kan voor aanvragen ingediend tussen 15 maart 2020 en 31 december 2020 het bedrag van de tegemoetkoming berekend worden op basis van facturen die op de aanvraagdatum ouder zijn dan twee jaar maar niet dateren van voor 15 maart 2018.<br>
+<br>
+Als op 1 januari 2021 fase rood van toepassing is, kan de minister:<br>
+1° de regeling, vermeld in het eerste lid, verlengen voor aanvragen ingediend voor een door hem te bepalen datum in 2021;<br>
+2° voor de toepassing van artikel 12 van het voormelde besluit van 21 december 2018 en in afwijking van artikel 6, § 1, tweede lid, van het besluit van de Vlaamse Regering van 30 oktober 2015 tot instelling van een tegemoetkoming in de kosten bij de renovatie van een bestaande woning of bij de realisatie van een nieuwe woning, de mogelijkheid om een tweede aanvraag in te dienen meer dan twee jaar na de aanvraagdatum van de eerste aanvraag verlengen voor aanvragen ingediend voor een door hem te bepalen datum in 2021.
+
 ## Onderafdeling 4. Verzekering gewaarborgd wonen
+
+### ART 54.
+
+In afwijking van artikel 5.154, tweede lid, 2°, van het Besluit Vlaamse Codex Wonen van 2021 wordt tijdens fase rood de termijn van een jaar voor de aanvraagdatum opgeschort tot de dag die volgt op de beëindiging van fase rood.
+
+### ART 55.
+
+In afwijking van artikel 5.157, § 5, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021:<br>
+1° kan tijdens fasen geel, oranje en rood door middel van een aangetekende brief of via elektronische weg beroep ingesteld worden bij de administrateur-generaal van het agentschap;<br>
+2° wordt tijdens fase rood de termijn om beroep in te stellen tegen de beslissing, vermeld in artikel 5.157, § 4, van het voormelde besluit, opgeschort tot de dag die volgt op de beëindiging van fase rood.
 
 ## Onderafdeling 5. Fonds ter bestrijding van Uithuiszettingen
 
+### ART 56.
+
+In afwijking van artikel 5.33, § 1, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021 bedraagt de tegemoetkoming van het Fonds voor die begeleidingen waarvoor het Fonds het formulier, vermeld in artikel 4, eerste lid, van het voormelde besluit van het OCMW heeft ontvangen tijdens fase geel, oranje of rood:<br>
+1° bij de start van de begeleiding door het OCMW een vast bedrag van 200 euro;<br>
+2° bij de start van de begeleiding door het OCMW een bedrag van 45% van de huurachterstal, met een maximum van 1.125 euro;<br>
+3° bij de beëindiging van de begeleiding door het OCMW een bedrag van 15% van de huurachterstal, met een maximum van 375 euro.
+
 ## Onderafdeling 6. [... (opgeh. BVR 22 april 2022, art. 1, I: 4 juni 2022)]
+
+### ART 57.
+
+De kredietgever, vermeld in artikel 5.117, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021, kan aan de ontlener kosteloos betalingsuitstel toestaan als de ontlener aantoont dat zijn inkomsten zijn gedaald als gevolg van de coronavirusmaatregelen of als gevolg van het ziekteverlof door het coronavirus. De ontlener krijgt dan een betalingsuitstel van maximaal zes maanden waarbij geen kapitaal of interesten worden afgelost. Als de ontlener na het verstrijken van die termijn kan aantonen dat zijn inkomsten nog steeds gedaald zijn als gevolg van de coronavirusmaatregelen of als gevolg van het ziekteverlof door het coronavirus, kan het betalingsuitstel met drie maanden worden verlengd. De verlenging van de periode van betalingsuitstel met drie maanden kan herhaaldelijk na elkaar worden aangevraagd door de ontlener. De interesten tijdens de periode van betalingsuitstel zijn achteraf niet verschuldigd. Na de periode van betalingsuitstel wordt de looptijd van de lening verlengd met het aantal maanden van betalingsuitstel.<br>
+<br>
+In afwijking van artikel 5.127, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021 kan na het toestaan van betalingsuitstel de looptijd van de lening meer dan 360 maanden bedragen en moet de lening niet volledig zijn terugbetaald in het jaar waarin de jongste ontlener 75 jaar wordt.
 
 ## Onderafdeling 7. [... (opgeh. BVR 22 april 2022, art. 1, I: 4 juni 2022)]
 
+### ART 58.
+
+De kredietgever, vermeld in artikel 5.137, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021, aanvaardt een daling van het inkomen als gevolg van de coronavirusmaatregelen of als gevolg van het ziekteverlof door het coronavirus als uitzonderlijk geval om een uitstel van betaling als vermeld in artikel 5.146, § 2, tweede lid, van het voormelde besluit, toe te staan. De ontlener krijgt dan een betalingsuitstel van maximaal zes maanden waarbij geen kapitaal wordt afgelost. Als de ontlener na het verstrijken van die termijn kan aantonen dat zijn inkomsten nog steeds gedaald zijn als gevolg van de coronavirusmaatregelen of als gevolg van het ziekteverlof door het coronavirus, kan het betalingsuitstel met drie maanden worden verlengd. De verlenging van de periode van betalingsuitstel met drie maanden kan herhaaldelijk na elkaar worden aangevraagd door de ontlener. Na de periode van betalingsuitstel wordt de looptijd van de lening verlengd met het aantal maanden van betalingsuitstel.<br>
+<br>
+In afwijking van artikel 5.146, § 1, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021, kan na het toestaan van betalingsuitstel de looptijd van de lening meer dan 24 maanden bedragen.
+
 ## Afdeling 6. Behandelingstermijnen bij bijeenkomsten van de beoordelingscommissie
+
+### ART 59.
+
+Tijdens fase rood kan de VMSW de beoordelingscommissie, vermeld in artikel 4.32 van het Besluit Vlaamse Codex Wonen van 2021, laten bijeenkomen. In dat geval gelden artikel 61 en 62.
+
+### ART 60.
+
+In afwijking van artikel 4.26, § 3, tweede lid, van het Besluit Vlaamse Codex Wonen van 2021 brengt de VMSW tijdens fase rood binnen een termijn van veertien kalenderdagen, die ingaat op de dag na de ontvangst van het uitvoeringsdossier, een advies uit bij het uitvoeringsdossier.<br>
+<br>
+Als het advies van de VMSW niet tijdig wordt verleend, wordt het uitvoeringsdossier geacht in overeenstemming te zijn met de normen en de bouwtechnische en conceptuele richtlijnen, en is de verrichting principieel vatbaar voor opname in de kortetermijnplanning op de laatste dag van de termijn van veertien kalenderdagen, vermeld in het eerste lid, die in voorkomend geval is verlengd conform artikel 4.26, § 3, derde lid, van het voormelde besluit.
+
+### ART 61.
+
+In afwijking van artikel 4.28, § 1, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021 stelt de VMSW tijdens fase rood een lijst op van bouw- en investeringsverrichtingen die op de zevende kalenderdag voor een beoordelingscommissie principieel vatbaar zijn voor opname in de kortetermijnplanning en waarvoor conform artikel 4.27 van voormelde besluit blijkt dat de initiatiefnemer beschikt over de vereiste vergunningen, meldingen en een zakelijk recht op de gronden. De verrichtingen die na de voormelde datum de status `principieel vatbaar voor opname in de kortetermijnplanning' krijgen, komen in aanmerking voor de daarop volgende beoordelingscommissie. De voorwaarde dat de initiatiefnemer beschikt over de vereiste vergunningen, meldingen en een zakelijk recht op de gronden, wordt beoordeeld op de dag waarop de beoordelingscommissie bijeenkomt.
 
 ## HOOFDSTUK 9. Slotbepalingen
 
