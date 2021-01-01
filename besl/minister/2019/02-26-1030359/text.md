@@ -18,17 +18,17 @@ Besluit :
 
 ### ART 1.
 
-In dit besluit wordt verstaan onder besluit van 21 december 2018: het besluit van de Vlaamse Regering van 21 december 2018 tot instelling van een aanpassingspremie voor woningen.
+...
 
 ## HOOFDSTUK 2. Algemene voorwaarden
 
 ### ART 2.
 
-De administrateur-generaal van het agentschap is gemachtigd het modelformulier, vermeld in artikel 6 van het besluit van 21 december 2018, op te maken.
+De administrateur-generaal van het agentschap is gemachtigd het modelformulier, vermeld in artikel 5.201 van het Besluit Vlaamse Codex Wonen van 2021, op te maken.
 
 ### ART 3.
 
-Het agentschap zal op basis van de gegevens van bewoning vermeld in het Rijksregister nagaan of de bewoner vermeld in artikel 1, 4° van het besluit van 21 december 2018 de premiewoning bewoont als hoofdverblijfplaats.
+Het agentschap zal op basis van de gegevens van bewoning vermeld in het Rijksregister nagaan of de bewoner , vermeld in artikel 5.196, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021, de premiewoning bewoont als hoofdverblijfplaats.
 
 ### ART 4.
 
@@ -63,7 +63,7 @@ Als de aanvraag betrekking heeft op een bestaande of een nieuwe zorgwoning met t
 
 ### ART 7.
 
-De aanvrager is verplicht op eenvoudig verzoek van het agentschap de originelen van de facturen vermeld in artikel 8, tweede lid van het besluit van 21 december 2018 aan het agentschap voor te leggen.
+De aanvrager is verplicht op eenvoudig verzoek van het agentschap de originelen van de facturen, vermeld in artikel 5.203, tweede lid, van het Besluit Vlaamse Codex Wonen van 2021, aan het agentschap voor te leggen.
 
 ## HOOFDSTUK 4. Slotbepalingen
 
