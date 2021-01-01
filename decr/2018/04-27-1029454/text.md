@@ -346,7 +346,7 @@ Een bestuur verkrijgt voor zijn personeelsleden een salaris als deze personeelsl
 a) onderdaan zijn van de Europese Unie of de Europese Vrijhandelsassociatie, behalve in geval van een door de Vlaamse Regering te verlenen vrijstelling;<br>
 b) de burgerlijke en politieke rechten genieten, behalve in het geval van een door de Vlaamse Regering te verlenen vrijstelling die samengaat met de vrijstelling, vermeld in punt a);<br>
 c) in het bezit zijn van een door de Vlaamse Regering bepaald bekwaamheidsbewijs voor het ambt waarin ze zijn aangesteld;<br>
-d) in een gezondheidstoestand verkeren die de gezondheid van de leerlingen niet in gevaar brengt;<br>
+d) ...<br>
 e) voldoen aan de taalvereisten zoals bepaald in de artikelen 17bis tot en met 17quinquies van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, respectievelijk de artikelen 19bis tot en met 19quinquies van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991;<br>
 2° aangeworven zijn conform de reglementering over de reaffectatie en wedertewerkstelling;<br>
 3° in dienst zijn op grond van de reglementering over de personeelsformatie.<br>
