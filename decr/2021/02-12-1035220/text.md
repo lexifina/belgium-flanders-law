@@ -12,6 +12,10 @@ In aanvulling op artikel 84 van hetzelfde decreet kan de Vlaamse Regering in de 
 
 In aanvulling op artikel 85sexies van hetzelfde decreet kan de Vlaamse Regering in de periode van 1 maart 2020 tot en met 31 augustus 2021 aan scholen voor buitengewoon basisonderwijs bijkomende werkingsmiddelen toekennen om de kosten te compenseren die ze gemaakt hebben om hun onderwijsaanbod in veilige omstandigheden te organiseren. De Vlaamse Regering bepaalt de wijze waarop het bedrag per school berekend wordt en de wijze waarop het uitbetaald wordt.
 
+### ART 5.
+
+In afwijking van artikel 169, § 5, van hetzelfde decreet wordt de subsidie de eerste keer toegekend voor de periode van 1 september 2015 tot en met 31 december 2021, en wordt het verlof wegens bijzondere opdracht toegekend voor zes schooljaren.
+
 ## HOOFDSTUK 3. Afwijking van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap
 
 ## HOOFDSTUK 4. Afwijkingen van de Codex Secundair Onderwijs van 17 december 2010
