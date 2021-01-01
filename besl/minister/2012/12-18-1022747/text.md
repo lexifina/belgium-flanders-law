@@ -14,7 +14,9 @@ Als sjabloon voor en toelichting bij de toewijzingsaanvraag, vermeld in   artike
 
 ### ART. 3.
 
-<P>De toewijzingsaanvraag, vermeld in artikel 1, 1°, alsmede de meldingen   vermeld in artikel 1, 2°, 3° en 4°, moeten door het verificatiebureau   geverifieerd worden alvorens deze aan de afdeling bezorgd worden.<BR></P>  <P>De exploitant van een BKG-installatie verstuurt de toewijzingsaanvraag,   vermeld in artikel 1, 1°, alsmede de meldingen vermeld in artikel 1, 2°, 3° en   4°, naar de afdeling door middel van een e-mail naar het volgend e-mailadres   emissierechten@vlaanderen.be.<BR></P>
+<p>De toewijzingsaanvraag, vermeld in artikel 1, 1°, alsmede de meldingen vermeld in artikel 1, 2°, 3° en 4°, moeten door het verificatiebureau geverifieerd worden alvorens deze aan het Vlaams Energie- en Klimaatagentschap bezorgd worden.</p>
+
+<p>De exploitant van een BKG-installatie verstuurt de toewijzingsaanvraag, vermeld in artikel 1, 1°, alsmede de meldingen vermeld in artikel 1, 2°, 3° en 4°, naar&nbsp;het Vlaams Energie- en Klimaatagentschap door middel van een e-mail naar het volgend e-mailadres emissierechten@vlaanderen.be.</p>
 
 ### ART. 4.
 
