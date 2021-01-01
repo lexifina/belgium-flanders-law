@@ -72,6 +72,7 @@ c) in het voltijds gewoon secundair onderwijs en het deeltijds beroepssecundair 
 10° /3 contactonderwijs : onderwijs waarbij er een rechtstreeks en regelmatig contact is tussen de leraar of begeleider van een onderwijsactiviteit en de leerling, gebonden aan een bepaald tijdstip en plaats van onderwijsverstrekking;<br>
 11° cursist : een regelmatige leerling in het hoger beroepsonderwijs;<br>
 12° deeltijds beroepssecundair onderwijs : het onderwijs dat minder weken per jaar of minder lesuren per week omvat dan bepaald is voor het voltijds secundair onderwijs;<br>
+12° /0 Departement Werk en Sociale Economie: het departement, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 12° /1 differentiërende maatregelen: maatregelen waarbij de school, binnen het gemeenschappelijk curriculum, een beperkte variatie in het onderwijsleerproces aanbrengt om beter tegemoet te komen aan de behoeften van individuele leerlingen of groepen van leerlingen;<br>
 12° /2 dispenserende maatregelen: maatregelen waarbij de school doelen toevoegt aan het gemeenschappelijk curriculum of de leerling vrijstelt van doelen van het gemeenschappelijk curriculum en die, waar mogelijk, vervangt door gelijkwaardige doelen, in die mate dat ofwel de doelen voor de studiebekrachtiging in functie van de finaliteit voor het betreffende structuuronderdeel ofwel de doelen voor het doorstromen naar het beoogde vervolgonderwijs of naar de arbeidsmarkt nog in voldoende mate kunnen bereikt worden;<br>
 12° /3 disproportionaliteit/disproportioneel: onredelijkheid van aanpassingen aangetoond na een proces van afweging met toepassing van de criteria, als vermeld in artikel 2, § 2 en § 3, van het Protocol van 19 juli 2007 betreffende het begrip redelijke aanpassingen in België krachtens de wet van 25 februari 2003 ter bestrijding van discriminatie en tot wijziging van de wet van 15 februari 1993 tot oprichting van een Centrum voor gelijkheid van kansen en voor racismebestrijding;<br>
@@ -99,7 +100,7 @@ b) in een reële arbeidsomgeving bij een werkgever;<br>
 c) onder gelijkaardige omstandigheden als reguliere werknemers van die werkgever;<br>
 d) waarbij effectieve arbeid wordt verricht;<br>
 e) met de bedoeling beroepservaring op te doen;<br>
-17° /3 leertijd: de opleiding, vermeld in artikel 27 tot en met 30 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen";<br>
+17° /3 leertijd: de opleiding, vermeld in artikel 2, 15°, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
 17° /3 leerling met specifieke onderwijsbehoeften: leerling met langdurige en belangrijke participatieproblemen die te wijten zijn aan het samenspel tussen:<br>
 a) één of meerdere functiebeperkingen op mentaal, psychisch, lichamelijk of zintuiglijk vlak en;<br>
 b) beperkingen bij het uitvoeren van activiteiten en;<br>
@@ -148,7 +149,7 @@ c) hetzij de oprichting van een op 1 oktober van de zes voorafgaande schooljaren
 42° /1 studiedomein: een inhoudelijk samenhangend thematisch geheel van studierichtingen die van abstract tot praktisch geordend zijn;<br>
 43° ...<br>
 43° /0 studierichting: de combinatie van basisvorming, specifiek gedeelte en complementair gedeelte;<br>
-43° /1 Syntra Vlaanderen: het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen";<br>
+43° /1 ...;<br>
 43° /1/1 systematisch contact: een periodiek contact waarop de leerling en het centrum voor leerlingenbegeleiding in persoon samenzitten en er een uniform aanbod voor populaties of doelgroepen wordt voorzien ter uitvoering van het begeleidingsdomein preventieve gezondheidszorg;<br>
 44° trekkende bevolking : de binnenschippers, de kermis- en circusexploitanten en Bartiesten en de woonwagenbewoners bedoeld in artikel 2, 3° van het decreet van 28 april 1998 inzake het Vlaams beleid ten aanzien van etnisch-culturele minderheden;<br>
 44° /1 uitbreiding van zorg: fase in het zorgcontinuüm waarbij de school de maatregelen uit de fase van verhoogde zorg onverkort verderzet en het centrum voor leerlingenbegeleiding een proces van handelingsgerichte diagnostiek opstart. Het centrum voor leerlingenbegeleiding richt zich daarbij op een uitgebreide analyse van de onderwijs- en opvoedingsbehoeften van de leerling en op de ondersteuningsbehoeften van de leerkracht(en) en ouders met het oog op het formuleren van adviezen voor het optimaliseren van het proces van afstemming van het onderwijs- en opvoedingsaanbod op de zorgvraag van de leerling. Het centrum voor leerlingenbegeleiding bepaalt in samenspraak met de school en de ouders welke bijkomende inzet van middelen, hulp of expertise, hetzij ten aanzien van de school, de leerling, al dan niet in zijn context, wenselijk is alsook de omvang en de duur daarvan;<br>
@@ -271,7 +272,7 @@ Deze paragraaf geldt niet voor een school die wordt opgericht.
 7° de reglementering betreffende verlofregeling en aanwending van de schooltijd in acht nemen;<br>
 8° beantwoorden aan de op het structuuronderdeel toepasbare decretale en reglementaire bepalingen inzake erkende onderwijskwalificaties, eindtermen, ontwikkelingsdoelen, specifieke eindtermen, erkende beroepskwalificaties, curriculumdossiers, leerplannen of individuele handelingsplannen;<br>
 9° samenwerkingsafspraken maken met een centrum voor leerlingenbegeleiding en een beleid op leerlingenbegeleiding voeren;<br>
-10° beschikken over personeel waarvan de gezondheidstoestand de gezondheid van de leerlingen niet in gevaar brengt;<br>
+10° ...<br>
 11° als school in het geheel van haar werking de internationaalrechtelijke en grondwettelijke beginselen op het gebied van de rechten van de mens en van het kind in het bijzonder eerbiedigen;<br>
 12° voor wat het gemeenschapsonderwijs en het gesubsidieerd officieel onderwijs betreft :<br>
 a) een open karakter hebben door open te staan voor alle leerlingen, ongeacht de ideologische, filosofische of godsdienstige opvattingen van de ouders en de leerling;<br>
@@ -331,7 +332,28 @@ De Vlaamse Gemeenschap verleent aan de gesubsidieerde scholen van het secundair 
 
 ### ART. 18.
 
-§ 1. Een school ontvangt slechts financiering of subsidiering voor haar personeelsleden : <br />1° die onderdaan zijn van een lidstaat van de Europese Unie of van de Europese Vrijhandelsassociatie, behoudens door de Vlaamse Regering te verlenen vrijstelling;<br />2° die de burgerlijke en politieke rechten genieten, behoudens een door de Vlaamse Regering te verlenen vrijstelling die samengaat met de vrijstelling bedoeld in 1°;<br />3° die in het bezit zijn van de vereiste, voldoende geachte of de andere door de Vlaamse Regering vastgelegde bekwaamheidsbewijzen; <br />4° wier gezondheidstoestand geen gevaar kan opleveren voor de gezondheid van de leerlingen;<br />5° die aangeworven zijn mits eerbiediging van de reglementering inzake terbeschikkingstelling, reaffectatie en wedertewerkstelling.<br /><br />§ 2. Wanneer het arbeidsgerecht, bij een in kracht van gewijsde gegaan vonnis of arrest, een beslissing van een schoolbestuur van het gesubsidieerd vrij onderwijs houdende beëindiging of vermindering van de opdracht van een door het schoolbestuur vastbenoemd personeelslid, strijdig acht met het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, bekomt dit personeelslid de salaristoelage voor het geheel of voor een deel van de opdracht die hem ontnomen werd, alsof hij in dienstactiviteit was gebleven, en verliest het schoolbestuur de salaristoelage voor het geheel of voor een deel van de betrekking, zolang het de betrekking aan een ander niet-rechthebbend personeelslid toewijst.<br /><br />Deze bepaling heeft ook uitwerking wanneer de kamer van beroep, zoals bedoeld in artikel 69 van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, het ontslag van een vastbenoemd personeelslid door het schoolbestuur als gevolg van een tuchtmaatregel vernietigt.<br /><br />Deze bepaling heeft ook uitwerking wanneer het college van beroep, zoals bedoeld in artikel 47septies decies van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, één van de evaluaties met eindconclusie 'onvoldoende' die tot het ontslag hebben geleid, zoals bedoeld in hoofdstuk Vter van hetzelfde decreet, van een vastbenoemd personeelslid heeft vernietigd.<br /><br />Het verlies van de salaristoelage voor een betrekking neemt een einde voor het schoolbestuur :<br />1° ofwel op het ogenblik dat de onregelmatige handeling door het schoolbestuur is hersteld;<br />2° ofwel indien hetzelfde of een ander schoolbestuur het benadeelde personeelslid, met zijn akkoord, overneemt;<br />3° ofwel op het ogenblik dat het benadeelde personeelslid zonder geldige reden weigert een door hetzelfde schoolbestuur of een ander schoolbestuur aangeboden betrekking in hetzelfde ambt met dezelfde statutaire toestand te aanvaarden;<br />4° ofwel op het ogenblik dat het benadeelde personeelslid zich, om redenen vreemd aan het geschil, in de voorwaarden voor definitieve ambtsneerlegging bevindt.<br /><br />De salaristoelage, die gedurende de periode tussen het onrechtmatig ontslag en de betekening aan de diensten van de Vlaamse Regering bevoegd voor het onderwijs van het vonnis of arrest, of van de uitspraak van de hierboven vermelde kamers van beroep of het hierboven vermelde college van beroep, aan het schoolbestuur werd toegekend, wordt van dit schoolbestuur teruggevorderd en wordt vervolgens toegekend aan het ten onrechte ontslagen personeelslid.<br /><br />Vanaf de hogervermelde betekening betalen de diensten van de Vlaamse Regering bevoegd voor onderwijs de salaristoelage rechtstreeks aan het ten onrechte ontslagen personeelslid tot op het ogenblik dat voldaan wordt aan één van de vier voorwaarden, hierboven vermeld. (17)
+§ 1. Een school ontvangt slechts financiering of subsidiering voor haar personeelsleden :<br>
+1° die onderdaan zijn van een lidstaat van de Europese Unie of van de Europese Vrijhandelsassociatie, behoudens door de Vlaamse Regering te verlenen vrijstelling;<br>
+2° die de burgerlijke en politieke rechten genieten, behoudens een door de Vlaamse Regering te verlenen vrijstelling die samengaat met de vrijstelling bedoeld in 1°;<br>
+3° die in het bezit zijn van de vereiste, voldoende geachte of de andere door de Vlaamse Regering vastgelegde bekwaamheidsbewijzen;<br>
+4° ...<br>
+5° die aangeworven zijn mits eerbiediging van de reglementering inzake terbeschikkingstelling, reaffectatie en wedertewerkstelling.<br>
+<br>
+§ 2. Wanneer het arbeidsgerecht, bij een in kracht van gewijsde gegaan vonnis of arrest, een beslissing van een schoolbestuur van het gesubsidieerd vrij onderwijs houdende beëindiging of vermindering van de opdracht van een door het schoolbestuur vastbenoemd personeelslid, strijdig acht met het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, bekomt dit personeelslid de salaristoelage voor het geheel of voor een deel van de opdracht die hem ontnomen werd, alsof hij in dienstactiviteit was gebleven, en verliest het schoolbestuur de salaristoelage voor het geheel of voor een deel van de betrekking, zolang het de betrekking aan een ander niet-rechthebbend personeelslid toewijst.<br>
+<br>
+Deze bepaling heeft ook uitwerking wanneer de kamer van beroep, zoals bedoeld in artikel 69 van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, het ontslag van een vastbenoemd personeelslid door het schoolbestuur als gevolg van een tuchtmaatregel vernietigt.<br>
+<br>
+Deze bepaling heeft ook uitwerking wanneer het college van beroep, zoals bedoeld in artikel 47septies decies van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, één van de evaluaties met eindconclusie 'onvoldoende' die tot het ontslag hebben geleid, zoals bedoeld in hoofdstuk Vter van hetzelfde decreet, van een vastbenoemd personeelslid heeft vernietigd.<br>
+<br>
+Het verlies van de salaristoelage voor een betrekking neemt een einde voor het schoolbestuur :<br>
+1° ofwel op het ogenblik dat de onregelmatige handeling door het schoolbestuur is hersteld;<br>
+2° ofwel indien hetzelfde of een ander schoolbestuur het benadeelde personeelslid, met zijn akkoord, overneemt;<br>
+3° ofwel op het ogenblik dat het benadeelde personeelslid zonder geldige reden weigert een door hetzelfde schoolbestuur of een ander schoolbestuur aangeboden betrekking in hetzelfde ambt met dezelfde statutaire toestand te aanvaarden;<br>
+4° ofwel op het ogenblik dat het benadeelde personeelslid zich, om redenen vreemd aan het geschil, in de voorwaarden voor definitieve ambtsneerlegging bevindt.<br>
+<br>
+De salaristoelage, die gedurende de periode tussen het onrechtmatig ontslag en de betekening aan de diensten van de Vlaamse Regering bevoegd voor het onderwijs van het vonnis of arrest, of van de uitspraak van de hierboven vermelde kamers van beroep of het hierboven vermelde college van beroep, aan het schoolbestuur werd toegekend, wordt van dit schoolbestuur teruggevorderd en wordt vervolgens toegekend aan het ten onrechte ontslagen personeelslid.<br>
+<br>
+Vanaf de hogervermelde betekening betalen de diensten van de Vlaamse Regering bevoegd voor onderwijs de salaristoelage rechtstreeks aan het ten onrechte ontslagen personeelslid tot op het ogenblik dat voldaan wordt aan één van de vier voorwaarden, hierboven vermeld. (17)
 
 ## [Onderafdeling 2. Onderwijzend personeel - herverdeling en overdracht van uren (verv. decr. 6 juli 2018, art. 27, I: 1 oktober 2018)]
 
@@ -1104,7 +1126,22 @@ De vzw Brussels ondersteuningscentrum secundair onderwijs ontvangt de in deze on
 
 ### ART. 47.
 
-§ 1. De Vlaamse Regering kan, afhankelijk van de beschikbare begrotingskredieten, aan scholen met technisch of beroepsgerichte opleidingen, extra middelen toekennen die bestemd zijn voor investeringen in didactische uitrusting. Onder investering in didactische uitrusting wordt verstaan : de aankoop van didactische uitrusting of de beveiliging van reeds aanwezige didactische uitrusting.<br /><br />De Vlaamse Regering bepaalt de lijst van structuuronderdelen die onder de investeringsoperatie vallen.<br /><br />§ 2. Per regelmatige leerling op de door de Vlaamse Regering te bepalen teldatum worden extra middelen toegekend.<br /><br />Om voor extra middelen in aanmerking te kunnen komen, moeten de betrokken scholen een investeringsplan opstellen. Het investeringsplan moet voldoen aan de door de Vlaamse Regering vastgelegde, minimale onderdelen.<br /><br />§ 3. De beoordeling van de ingediende investeringsplannen gebeurt door een commissie die paritair is samengesteld uit drie afgevaardigden van het Vlaams Ministerie van Onderwijs en Vorming en twee afgevaardigden van de onderwijsinspectie, enerzijds, en één afgevaardigde per onderwijsnet, voorgedragen door het Gemeenschapsonderwijs en de betrokken representatieve verenigingen van schoolbesturen van het gesubsidieerd onderwijs, en één afgevaardigde van het Vlaams Agentschap voor Ondernemersvorming-Syntra Vlaanderen, anderzijds.<br /><br />De commissie stelt haar huishoudelijk reglement op en kan experten toelaten tot de vergadering.<br /><br />De commissie garandeert dat een aanvankelijk als « onvoldoende » bevonden plan, bijgestuurd kan worden en éénmaal opnieuw mag worden ingediend binnen een door haar vooropgestelde termijn, die evenwel nooit minder kan zijn dan 10 werkdagen te rekenen vanaf de beslissing van de commissie.<br /><br />§ 4. De Vlaamse Regering kan verdere regels vastleggen inzake de toekenning, de uitbetaling en de controle op de aanwending van deze extra middelen. (46)<br /><br />
+§ 1. De Vlaamse Regering kan, afhankelijk van de beschikbare begrotingskredieten, aan scholen met technisch of beroepsgerichte opleidingen, extra middelen toekennen die bestemd zijn voor investeringen in didactische uitrusting. Onder investering in didactische uitrusting wordt verstaan : de aankoop van didactische uitrusting of de beveiliging van reeds aanwezige didactische uitrusting.<br>
+<br>
+De Vlaamse Regering bepaalt de lijst van structuuronderdelen die onder de investeringsoperatie vallen.<br>
+<br>
+§ 2. Per regelmatige leerling op de door de Vlaamse Regering te bepalen teldatum worden extra middelen toegekend.<br>
+<br>
+Om voor extra middelen in aanmerking te kunnen komen, moeten de betrokken scholen een investeringsplan opstellen. Het investeringsplan moet voldoen aan de door de Vlaamse Regering vastgelegde, minimale onderdelen.<br>
+<br>
+§ 3. De beoordeling van de ingediende investeringsplannen gebeurt door een commissie die paritair is samengesteld uit drie afgevaardigden van het Vlaams Ministerie van Onderwijs en Vorming en twee afgevaardigden van de onderwijsinspectie, enerzijds, en één afgevaardigde per onderwijsnet, voorgedragen door het Gemeenschapsonderwijs en de betrokken representatieve verenigingen van schoolbesturen van het gesubsidieerd onderwijs, en één afgevaardigde van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, anderzijds.<br>
+<br>
+De commissie stelt haar huishoudelijk reglement op en kan experten toelaten tot de vergadering.<br>
+<br>
+De commissie garandeert dat een aanvankelijk als « onvoldoende » bevonden plan, bijgestuurd kan worden en éénmaal opnieuw mag worden ingediend binnen een door haar vooropgestelde termijn, die evenwel nooit minder kan zijn dan 10 werkdagen te rekenen vanaf de beslissing van de commissie.<br>
+<br>
+§ 4. De Vlaamse Regering kan verdere regels vastleggen inzake de toekenning, de uitbetaling en de controle op de aanwending van deze extra middelen. (46)<br>
+&nbsp;
 
 ### ART. 48.
 
@@ -4409,7 +4446,25 @@ Hij is daarenboven regelmatige leerling :<br>
 
 ### ART. 256.
 
-§ 1. Het diploma van secundair onderwijs wordt uitgereikt aan de leerlingen van het secundair onderwijs :<br />1° die hun studies volbracht hebben overeenkomstig de wettelijke, decretale en reglementaire bepalingen;<br />2° die houder zijn van :<br />a) een getuigschrift van de tweede graad van het secundair onderwijs, uitgereikt door een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde school, door Syntra Vlaanderen in de leertijd, of door de Examencommissie van de Vlaamse Gemeenschap en die het eerste leerjaar van de derde graad van het algemeen, technisch of kunstsecundair onderwijs en het tweede leerjaar van de derde graad van het algemeen, technisch of kunstsecundair onderwijs met vrucht volbracht hebben;<br />b) een getuigschrift van de tweede graad van het secundair onderwijs, uitgereikt door een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde school , door Syntra Vlaanderen in de leertijd, of door de Examencommissie van de Vlaamse Gemeenschap en die het eerste leerjaar van de derde graad van het algemeen, technisch, kunst- of beroepssecundair onderwijs en het tweede en het derde leerjaar van de derde graad van het beroepssecundair onderwijs met vrucht volbracht hebben; <br />c) een getuigschrift van de tweede graad van het secundair onderwijs, uitgereikt door een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde school , door Syntra Vlaanderen in de leertijd, of door de examencommissie van de Vlaamse Gemeenschap, en die het eerste en tweede leerjaar van de vierde graad van het secundair onderwijs met vrucht volbracht hebben;<br />d) een getuigschrift van de tweede graad van het secundair onderwijs, uitgereikt door een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde school, door Syntra Vlaanderen in de leertijd, of door de examencommissie van de Vlaamse Gemeenschap, en die het tweede leerjaar van de derde graad van het beroepssecundair onderwijs en het eerste leerjaar van de vierde graad van het secundair onderwijs met vrucht volbracht hebben;<br />e) een getuigschrift van de tweede graad van het secundair onderwijs, uitgereikt door een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde school, door Syntra Vlaanderen in de leertijd, of door de examencommissie van de Vlaamse Gemeenschap, en die het hoger beroepsonderwijs van het secundair onderwijs met vrucht volbracht hebben.<br /><br />§ 2. Voor de toepassing van dit artikel wordt met het diploma van secundair onderwijs gelijkgesteld :<br />1° het getuigschrift van hoger middelbaar onderwijs;<br />2° het diploma van hoger secundair technisch onderwijs;<br />3° het diploma van hoger secundair kunstonderwijs;<br />4° de bekwaamheidsbewijzen, die vóór 1 september 1975 gelijkgesteld waren met die vermeld onder punt 1°, 2° of 3°;<br />5° het getuigschrift van hoger secundair onderwijs. <br /><br />§ 3. Voor de toepassing van dit artikel wordt met het getuigschrift van de tweede graad van het secundair onderwijs gelijkgesteld :<br />1° het getuigschrift van lager secundair onderwijs;<br />2° het studiegetuigschrift van het tweede leerjaar van de tweede graad van het secundair onderwijs, uitgereikt in de schooljaren 1996-1997 tot en met 1998-1999. (255)
+§ 1. Het diploma van secundair onderwijs wordt uitgereikt aan de leerlingen van het secundair onderwijs :<br>
+1° die hun studies volbracht hebben overeenkomstig de wettelijke, decretale en reglementaire bepalingen;<br>
+2° die houder zijn van :<br>
+a) een getuigschrift van de tweede graad van het secundair onderwijs, uitgereikt door een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde school, door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding in de leertijd, of door de Examencommissie van de Vlaamse Gemeenschap en die het eerste leerjaar van de derde graad van het algemeen, technisch of kunstsecundair onderwijs en het tweede leerjaar van de derde graad van het algemeen, technisch of kunstsecundair onderwijs met vrucht volbracht hebben;<br>
+b) een getuigschrift van de tweede graad van het secundair onderwijs, uitgereikt door een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde school , door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding in de leertijd, of door de Examencommissie van de Vlaamse Gemeenschap en die het eerste leerjaar van de derde graad van het algemeen, technisch, kunst- of beroepssecundair onderwijs en het tweede en het derde leerjaar van de derde graad van het beroepssecundair onderwijs met vrucht volbracht hebben;<br>
+c) een getuigschrift van de tweede graad van het secundair onderwijs, uitgereikt door een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde school , door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding in de leertijd, of door de examencommissie van de Vlaamse Gemeenschap, en die het eerste en tweede leerjaar van de vierde graad van het secundair onderwijs met vrucht volbracht hebben;<br>
+d) een getuigschrift van de tweede graad van het secundair onderwijs, uitgereikt door een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde school, door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding in de leertijd, of door de examencommissie van de Vlaamse Gemeenschap, en die het tweede leerjaar van de derde graad van het beroepssecundair onderwijs en het eerste leerjaar van de vierde graad van het secundair onderwijs met vrucht volbracht hebben;<br>
+e) een getuigschrift van de tweede graad van het secundair onderwijs, uitgereikt door een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde school, door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding in de leertijd, of door de examencommissie van de Vlaamse Gemeenschap, en die het hoger beroepsonderwijs van het secundair onderwijs met vrucht volbracht hebben.<br>
+<br>
+§ 2. Voor de toepassing van dit artikel wordt met het diploma van secundair onderwijs gelijkgesteld :<br>
+1° het getuigschrift van hoger middelbaar onderwijs;<br>
+2° het diploma van hoger secundair technisch onderwijs;<br>
+3° het diploma van hoger secundair kunstonderwijs;<br>
+4° de bekwaamheidsbewijzen, die vóór 1 september 1975 gelijkgesteld waren met die vermeld onder punt 1°, 2° of 3°;<br>
+5° het getuigschrift van hoger secundair onderwijs.<br>
+<br>
+§ 3. Voor de toepassing van dit artikel wordt met het getuigschrift van de tweede graad van het secundair onderwijs gelijkgesteld :<br>
+1° het getuigschrift van lager secundair onderwijs;<br>
+2° het studiegetuigschrift van het tweede leerjaar van de tweede graad van het secundair onderwijs, uitgereikt in de schooljaren 1996-1997 tot en met 1998-1999. (255)
 
 ## [HOOFDSTUK 3. Examencommissie van de Vlaamse Gemeenschap voor het secundair onderwijs (ing. Decr. 29 juni 2012, art. III.4, I: 1 oktober 2012)]
 
@@ -5979,7 +6034,7 @@ In afwijking van het eerste lid kan een duaal structuuronderdeel ook opstarten n
 
 § 1. In afwachting van de progressieve uitrol van de modernisering van het secundair onderwijs vanaf 1 september 2019, zijn de duale structuuronderdelen ingericht volgens standaardtrajecten.<br>
 <br>
-§ 2. Voor elk duaal structuuronderdeel wordt één standaardtraject ontwikkeld, gebaseerd op een of meerdere beroepskwalificaties of één of meerdere deelkwalificaties, onder coördinatie van de bevoegde diensten van de Vlaamse Gemeenschap in overleg met de betrokken sector, het Gemeenschapsonderwijs, de representatieve verenigingen van schoolbesturen van het gesubsidieerde onderwijs, een afvaardiging van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen en de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding. Standaardtrajecten worden door de Vlaamse minister van Onderwijs en de Vlaamse minister van Werk ter goedkeuring voorgelegd aan de Vlaamse Regering.<br>
+§ 2. Voor elk duaal structuuronderdeel wordt één standaardtraject ontwikkeld, gebaseerd op een of meerdere beroepskwalificaties of één of meerdere deelkwalificaties, onder coördinatie van de bevoegde diensten van de Vlaamse Gemeenschap in overleg met de betrokken sector, het Gemeenschapsonderwijs, de representatieve verenigingen van schoolbesturen van het gesubsidieerde onderwijs, een afvaardiging van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, het Departement Werk en Sociale Economie en de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding. Standaardtrajecten worden door de Vlaamse minister van Onderwijs en de Vlaamse minister van Werk ter goedkeuring voorgelegd aan de Vlaamse Regering.<br>
 <br>
 Een standaardtraject bevat in elk geval:<br>
 1° de reguliere opleidingsduur uitgedrukt in jaren of semesters;<br>
@@ -6130,11 +6185,11 @@ In een duaal structuuronderdeel hebben gepaste en redelijke aanpassingen voor ee
 
 ### ART 357/20.
 
-Het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen staat als regisseur van de werkplekcomponent in voor de uitbouw en het beheer van een duurzaam netwerk van erkende leerondernemingen.
+Het Vlaams Partnerschap Duaal Leren staat als regisseur van de werkplekcomponent in voor de uitbouw en het beheer van een duurzaam netwerk van erkende leerondernemingen.
 
 ### ART 357/21.
 
-De aanbieder duaal leren en de leerling kiezen samen een geschikte werkplek. Ze kunnen daarbij een beroep doen op de sector of het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen.<br>
+De aanbieder duaal leren en de leerling kiezen samen een geschikte werkplek. Ze kunnen daarbij een beroep doen op de sector of het Vlaams Partnerschap Duaal Leren.<br>
 <br>
 Tussen de onderneming of de vertegenwoordiger van de onderneming en de leerling vindt een intakegesprek plaats, met het oog op het sluiten van een overeenkomst in het kader van een duaal structuuronderdeel. De leerling kan daarbij ondersteund worden door de trajectbegeleider bij onder andere het intakegesprek, de voorbereiding en de opvolging ervan.
 
@@ -6224,7 +6279,7 @@ De Vlaamse Regering bepaalt:<br>
 
 Het kwaliteitstoezicht op duale structuuronderdelen verloopt conform de bepalingen van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.<br>
 <br>
-Onverminderd het eerste lid, wordt voor duale structuuronderdelen het kwaliteitstoezicht gezamenlijk uitgevoerd door de onderwijsinspectie en het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen. De onderwijsinspectie neemt de coördinerende rol op voor het geheel van het kwaliteitstoezicht op het leertraject. De onderwijsinspectie coördineert het kwaliteitstoezicht op de schoolcomponent. Het Vlaams Agentschap voor Ondernemersvorming - SYNTRA Vlaanderen - wordt uitgenodigd om deel te nemen aan de doorlichting als extern deskundige, vermeld in artikel 37 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs. Het Vlaams Agentschap voor Ondernemersvorming - SYNTRA Vlaanderen - coördineert het kwaliteitstoezicht van de werkplekcomponent binnen het leertraject. De onderwijsinspectie wordt uitgenodigd voor dat toezicht.<br>
+Onverminderd het eerste lid, wordt voor duale structuuronderdelen het kwaliteitstoezicht gezamenlijk uitgevoerd door de onderwijsinspectie en het Departement Werk en Sociale Economie. De onderwijsinspectie neemt de coördinerende rol op voor het geheel van het kwaliteitstoezicht op het leertraject. De onderwijsinspectie coördineert het kwaliteitstoezicht op de schoolcomponent. Het Departement Werk en Sociale Economie&nbsp;wordt uitgenodigd om deel te nemen aan de doorlichting als extern deskundige, vermeld in artikel 37 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs. Het Departement Werk en Sociale Economie coördineert het kwaliteitstoezicht van de werkplekcomponent binnen het leertraject. De onderwijsinspectie wordt uitgenodigd voor dat toezicht.<br>
 <br>
 De Vlaamse Regering kan de verdere modaliteiten van het toezicht bepalen.<br>
 <br>
@@ -6258,7 +6313,7 @@ Een overlegforum is minstens samengesteld uit:<br>
 5° een afgevaardigde van het Regionaal Technologisch Centrum, waarvan het werkingsgebied geheel of gedeeltelijk samenvalt met het werkingsgebied van het overlegforum in kwestie;<br>
 6° een afgevaardigde van de Openbare Centra voor Maatschappelijk Welzijn uit het werkingsgebied van het overlegforum in kwestie;<br>
 7° een afgevaardigde van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding met kennis van het werkingsgebied van het overlegforum;<br>
-8° een afgevaardigde van het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br>
+8° een afgevaardigde van het Departement Werk en Sociale Economie;<br>
 9° een afgevaardigde namens het Departement Onderwijs en Vorming.
 
 ### ART 357/34.
@@ -6490,7 +6545,7 @@ Een aanbieder duaal leren kan een duaal structuuronderdeel opstarten tot en met 
 
 ### ART 357/62.
 
-Voor elk duaal structuuronderdeel wordt één standaardtraject ontwikkeld dat gebaseerd is op een of meerdere beroepskwalificaties, onder coördinatie van de bevoegde diensten van de Vlaamse Gemeenschap en in overleg met de betrokken sector, het Gemeenschapsonderwijs, de representatieve verenigingen van schoolbesturen van het gesubsidieerde onderwijs, een afvaardiging van de centra voor de vorming van zelfstandigen en kleine en middelgrote ondernemingen, het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen en de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding. Standaardtrajecten worden op voordracht van de Vlaamse minister van Onderwijs en de Vlaamse minister van Werk ter goedkeuring voorgelegd aan de Vlaamse Regering.<br>
+Voor elk duaal structuuronderdeel wordt één standaardtraject ontwikkeld dat gebaseerd is op een of meerdere beroepskwalificaties, onder coördinatie van de bevoegde diensten van de Vlaamse Gemeenschap en in overleg met de betrokken sector, het Gemeenschapsonderwijs, de representatieve verenigingen van schoolbesturen van het gesubsidieerde onderwijs, een afvaardiging van de centra voor de vorming van zelfstandigen en kleine en middelgrote ondernemingen, het Departement Werk en Sociale Economie en de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding. Standaardtrajecten worden op voordracht van de Vlaamse minister van Onderwijs en de Vlaamse minister van Werk ter goedkeuring voorgelegd aan de Vlaamse Regering.<br>
 <br>
 Een standaardtraject vermeldt in elk geval:<br>
 1° de reguliere opleidingsduur uitgedrukt in jaren of semesters;<br>
