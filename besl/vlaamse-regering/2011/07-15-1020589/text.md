@@ -668,7 +668,7 @@ Binnen zestig dagen na ontvangst van de volledige aanvraag brengt het departemen
 2° de omvang van het maximale gewaarborgde bedrag;<br>
 3° het verwachte thermisch vermogen.<br>
 <br>
-Het departement kan daarbij het advies inwinnen van het Vlaams Energieagentschap en deskundigen op het gebied van geologische kennis over de diepe ondergrond. In dat geval wordt de termijn, vermeld in het eerste lid, met dertig dagen verlengd.
+Het departement kan daarbij het advies inwinnen van het Vlaams Energie- en Klimaatagentschap en deskundigen op het gebied van geologische kennis over de diepe ondergrond. In dat geval wordt de termijn, vermeld in het eerste lid, met dertig dagen verlengd.
 
 ### ART 14/39/12.
 
@@ -787,7 +787,7 @@ De termijn, vermeld in het eerste lid, kan eenmaal met twaalf maanden worden ver
 3° de restwaarde van de put;<br>
 4° de uit te keren waarborg;<br>
 <br>
-Het departement kan daarbij het advies inwinnen van het Vlaams Energieagentschap en deskundigen op het gebied van geologische kennis over de diepe ondergrond. In dat geval wordt de termijn, vermeld in het eerste lid, met dertig dagen verlengd.<br>
+Het departement kan daarbij het advies inwinnen van het Vlaams Energie- en Klimaatagentschap en deskundigen op het gebied van geologische kennis over de diepe ondergrond. In dat geval wordt de termijn, vermeld in het eerste lid, met dertig dagen verlengd.<br>
 <br>
 § 4 Binnen negentig dagen na ontvangst van de volledige aanvraag tot vaststelling beslissen de Vlaamse minister, bevoegd voor het energiebeleid, en de Vlaamse minister, bevoegd voor de natuurlijke rijkdommen, over de uit te keren waarborg en wordt het betreffende ministerieel besluit voorafgaand aan de ondertekening als mededeling voorgelegd aan de Vlaamse Regering.
 
