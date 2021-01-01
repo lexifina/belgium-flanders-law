@@ -2,16 +2,16 @@
   "codex_id": 1032528,
   "title": "Besluit van de Vlaamse Regering van 2019-12-06 houdende de vaststelling van de verplichte bijdrage van de reders van Belgische vissersvaartuigen voor 2020 aan het Fonds voor Scheepsjongeren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032528/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "18b3e90779363a6505d90732c5616cc48aea39a003ee385f4c336ae825370c2f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032528/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "df14ab0d53798de9d69abf6dea79301ce27fa7f62dcf7d012387ec0ae9e8a09b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032528&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2021-01-01",
   "made": "2019-12-06",
   "gazette": "2019-12-24",
   "numac": 2019031146,
   "document_start": "2020-01-01",
   "document_end": "2020-12-31",
-  "in_force": "2020-01-01",
+  "in_force": "2021-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
