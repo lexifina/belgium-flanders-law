@@ -2,16 +2,16 @@
   "codex_id": 1033888,
   "title": "Besluit van de Vlaamse Regering van 2020-11-13 betreffende een tijdelijke uitbreiding van het verlof wegens overmacht en betreffende de dringende aanpassing van de bekwaamheidsbewijzen van de artsen in de centra voor leerlingenbegeleiding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033888/VolledigDocument?datum=2020-11-16",
-  "source_sha256": "7da5a1543cb32201446319132e7ade208b052f345d57a925d538ef2f69d4f729",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033888/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "54c29c80684bb215184aecd4dc83250c3462fb6d620e27655e64194936d69b00",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033888&param=informatie",
-  "as_of": "2020-11-16",
+  "as_of": "2021-01-01",
   "made": "2020-11-13",
   "gazette": "2020-11-30",
   "numac": 2020043786,
   "document_start": "2020-11-16",
   "document_end": null,
-  "in_force": "2020-11-16",
-  "article_versions": 6,
-  "record_form": "consolidated version as in force on 2020-11-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
