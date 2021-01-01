@@ -22,6 +22,11 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In artikel 1.1.1, § 1 van het Energiebesluit van 19 november 2010, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 3 april 2020, wordt een punt 65° /1 ingevoegd, dat luidt als volgt:<br>
+"65° /1° marginale gronden: bermen en gesloten stortgebieden niet bestemd als natuurgebied of landbouwgebied, onverminderd andere verplichtingen ter zake;".
+
 ### ART 4.
 
 In artikel 7.4.4, § 3, 1°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 13 september 2013, wordt punt b) vervangen door wat volgt:<br>
