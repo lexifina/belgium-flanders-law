@@ -29,11 +29,11 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder de Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br /><br />
+...
 
 ### ART. 2.
 
-Als het besluit van de burgemeester waarbij een woning ongeschikt of onbewoonbaar wordt verklaard, gepaard gaat met het opleggen van renovatie-, verbeterings- of aanpassingswerkzaamheden zoals vermeld in artikel 15, § 1, tweede lid, van de Vlaamse Wooncode, stelt de burgemeester de gewestelijke ambtenaar daarvan in kennis voor de termijn verstreken is die hij voor de uitvoering van die werkzaamheden heeft toegekend.<br /><br />De persoon die de renovatie-, verbeterings- of aanpassingswerkzaamheden, vermeld in het eerste lid, moet uitvoeren binnen de termijn, vermeld in artikel 15, § 1, tweede lid, van de Vlaamse Wooncode, stelt de gewestelijke ambtenaar onmiddellijk schriftelijk in kennis zodra de werkzaamheden zijn uitgevoerd.<br /><br />
+...
 
 ### ART. 3.
 
@@ -41,8 +41,8 @@ Als het besluit van de burgemeester waarbij een woning ongeschikt of onbewoonbaa
 
 ### ART. 4.
 
-Het decreet van 7 juli 2006 houdende wijziging van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, van het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers en van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, wat betreft de versterking van het instrumentarium woonkwaliteitsbewaking, treedt in werking op de datum van de inwerkingtreding van dit besluit.<br /><br />
+...
 
 ### ART. 5.
 
-De Vlaamse minister, bevoegd voor de Huisvesting, is belast met de uitvoering van dit besluit.<br /><br />
+...
