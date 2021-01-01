@@ -66,7 +66,7 @@ Zij draagt de titel "Vlaams minister van Economie, Innovatie, Werk, Sociale econ
 3° de Participatiemaatschappij Vlaanderen;<br>
 4° de Vlaamse Participatiemaatschappij;<br>
 5° de Vlaamse Milieuholding;<br>
-6° het Fonds voor Flankerend Economisch en Innovatiebeleid (hermesfonds);<br>
+6° het Fonds voor Innoveren en Ondernemen;<br>
 7° het Fonds Wetenschappelijk onderzoek - Vlaanderen;<br>
 8° het agentschap Plantentuin Meise;<br>
 9° de Vlaamse Instelling voor Technologisch Onderzoek;<br>
@@ -138,7 +138,7 @@ Zij draagt de titel "Vlaams minister van Justitie en Handhaving, Omgeving, Energ
 8° het Rubiconfonds;<br>
 9° de Vlaamse maatschappij voor watervoorziening;<br>
 10° Natuurinvest;<br>
-11° het Vlaams Energieagentschap;<br>
+11° het Vlaams Energie- en Klimaatagentschap;<br>
 12° het Vlaams Energiebedrijf;<br>
 13° Toerisme Vlaanderen.
 
