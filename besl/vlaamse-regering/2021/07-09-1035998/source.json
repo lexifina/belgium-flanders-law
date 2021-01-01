@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035998,
+  "title": "Besluit van de Vlaamse Regering van 2021-07-09 tot wijziging van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap, het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering en het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035998/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "8404bfd0ca8849eca02cc1e9e4164154a81b60c4f8e3e9d8894f1aaab7cccb66",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035998&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2021-07-09",
+  "gazette": "2021-08-25",
+  "numac": 2021021672,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
