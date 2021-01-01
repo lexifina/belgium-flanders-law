@@ -271,13 +271,13 @@ Als een dossier dat persoonsgegevens als vermeld in het eerste lid, bevat, naar 
 
 ### ART 21.
 
-<span style="color: rgb(0, 0, 0);">§ 1. De opgelegde exclusieve bestuurlijke geldboete en voordeelontneming worden door het Departement&nbsp;Omgeving van de Vlaamse overheid geïnd en ingevorderd ten voordele van het Hermesfonds. Zij beslissen over de gemotiveerde verzoeken tot kwijtschelding, vermindering of uitstel van betaling. De Vlaamse Regering bepaalt de nadere procedurele regels voor de behandeling van die verzoeken.</span><br>
+<span style="color:#000000">§ 1. De opgelegde exclusieve bestuurlijke geldboete en voordeelontneming worden door het Departement&nbsp;Omgeving van de Vlaamse overheid geïnd en ingevorderd ten voordele van het Fonds voor Innoveren en Ondernemen. Zij beslissen over de gemotiveerde verzoeken tot kwijtschelding, vermindering of uitstel van betaling. De Vlaamse Regering bepaalt de nadere procedurele regels voor de behandeling van die verzoeken.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0);">§ 2. Bij gebrek aan voldoening van de exclusieve bestuurlijke geldboete en desgevallend voordeelontneming, vermeerderd met de invorderingskosten, wordt door de ambtenaar die belast is met de invordering, een dwangbevel uitgevaardigd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de ambtenaar die daarvoor is aangewezen door de Vlaamse Regering.</span><br>
+<span style="color:#000000">§ 2. Bij gebrek aan voldoening van de exclusieve bestuurlijke geldboete en desgevallend voordeelontneming, vermeerderd met de invorderingskosten, wordt door de ambtenaar die belast is met de invordering, een dwangbevel uitgevaardigd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de ambtenaar die daarvoor is aangewezen door de Vlaamse Regering.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0);">De betekening en uitvoering van het dwangbevel geschiedt volgens de procedure die is voorzien in hoofdstuk V van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.</span><br>
+<span style="color:#000000">De betekening en uitvoering van het dwangbevel geschiedt volgens de procedure die is voorzien in hoofdstuk V van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0);">§ 3. De vordering tot betaling van de verschuldigde bedragen en kosten verjaart na verloop van driehonderdvijfenzestig dagen. Die termijn gaat in op de dag die volgt op de dag waarop deze moesten worden betaald. De verjaring wordt gestuit op de wijze en onder de voorwaarden, vermeld in artikel 2244 en volgende van het Burgerlijk Wetboek.</span><br>
+<span style="color:#000000">§ 3. De vordering tot betaling van de verschuldigde bedragen en kosten verjaart na verloop van driehonderdvijfenzestig dagen. Die termijn gaat in op de dag die volgt op de dag waarop deze moesten worden betaald. De verjaring wordt gestuit op de wijze en onder de voorwaarden, vermeld in artikel 2244 en volgende van het Burgerlijk Wetboek.</span><br>
 &nbsp;
 
 ## Afdeling 4 Bestuurlijke maatregelen
