@@ -2,16 +2,16 @@
   "codex_id": 1023397,
   "title": "Besluit van de Vlaamse Regering van 2013-10-18 tot reglementering van de verhuring van bescheiden huurwoningen van sociale huisvestingsmaatschappijen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023397/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "225770e59eb65747fe22c05a5b39ac7f853ff25e9869920f935e96838e83fe91",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023397/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "881ebbff571e7468e4f2e6ae750af6d2892495d1c6de6147744f94c6b417c845",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023397&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2021-01-01",
   "made": "2013-10-18",
   "gazette": "2013-11-25",
   "numac": 2013036078,
   "document_start": "2014-01-01",
   "document_end": "2020-12-31",
-  "in_force": "2020-01-01",
+  "in_force": "2021-01-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
