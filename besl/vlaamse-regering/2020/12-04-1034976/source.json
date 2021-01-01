@@ -1,0 +1,17 @@
+{
+  "codex_id": 1034976,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-04 tot wijziging van het besluit van de Vlaamse Regering van 21 maart 2014 betreffende de administratieve samenwerking op het gebied van belastingen, wat betreft de regeling van de meldingsplicht en een progressieve schaal van de administratieve geldboetes",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1034976/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "f135df34464a00b9aa2f4cfaa5515fba13bfd1c261f187f9951d494b379c862f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1034976&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2020-12-04",
+  "gazette": "2020-12-22",
+  "numac": 2020016409,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
