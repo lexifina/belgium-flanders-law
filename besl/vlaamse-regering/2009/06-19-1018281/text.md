@@ -48,9 +48,9 @@ Het agentschap oefent ambtshalve controle uit op de naleving van de voorwaarden 
 
 In afwachting van de inwerkingtreding van artikel 2.2.10 van het decreet grond- en pandenbeleid bezorgen respectievelijk het Departement&nbsp;Omgeving en de gemeenten aan het agentschap de gegevens van :<br>
 1° de inventaris van leegstaande of verwaarloosde bedrijfsruimten, vermeld in artikel 3, § 1, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<br>
-2° de leegstandsregisters, vermeld in artikel 2.2.6 van het decreet grond- en pandenbeleid.<br>
+2° de leegstandsregisters, vermeld in boek 2, deel 2, titel 3, van de Vlaamse Codex Wonen van 2021.<br>
 <br>
-Het agentschap stelt op schriftelijk verzoek van natuurlijke personen die zich bekendmaken als kandidaat-kredietgever of -kredietnemer, de gegevens ter beschikking die betrekking hebben op de ligging, in de uitdrukkelijk in het verzoek aangegeven gemeenten, van onroerende goederen die ten hoogste vier opeenvolgende jaren opgenomen zijn in een register of inventaris als vermeld in het eerste lid, of op een lijst van ongeschikte of onbewoonbare woningen of verwaarloosde gebouwen of woningen als vermeld in artikel 28, § 1, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996.
+Het agentschap stelt op schriftelijk verzoek van natuurlijke personen die zich bekendmaken als kandidaat-kredietgever of -kredietnemer, de gegevens ter beschikking die betrekking hebben op de ligging, in de uitdrukkelijk in het verzoek aangegeven gemeenten, van onroerende goederen die ten hoogste vier opeenvolgende jaren opgenomen zijn in een register of inventaris als vermeld in het eerste lid, of op een lijst van ongeschikte of onbewoonbare woningen of verwaarloosde gebouwen of woningen als vermeld in artikel 3.21, § 1, van de Vlaamse Codex Wonen van 2021.
 
 ### ART. 9.
 
