@@ -2,16 +2,16 @@
   "codex_id": 1032531,
   "title": "Ministerieel besluit van 2019-12-23 houdende tijdelijke aanvullende maatregelen voor het jaar 2020 tot het behoud van de visbestanden in zee",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032531/VolledigDocument?datum=2020-11-25",
-  "source_sha256": "98d457dad9626be3768ad48644070ebe82c066d0005747c7474c22b8600cfce5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032531/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "664071129605af3a003d8f28a96e9395da39cc079d6f49daea027ff76ac940e2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032531&param=informatie",
-  "as_of": "2020-11-25",
+  "as_of": "2021-01-01",
   "made": "2019-12-23",
   "gazette": "2019-12-27",
   "numac": 2019015907,
   "document_start": "2020-01-01",
   "document_end": "2020-12-31",
-  "in_force": "2020-11-25",
+  "in_force": "2021-01-01",
   "article_versions": 34,
-  "record_form": "consolidated version as in force on 2020-11-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
