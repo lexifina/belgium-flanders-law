@@ -509,7 +509,7 @@ In   artikel 145<SUP   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: norm
 7° artikel 22, 6°, 23, § 3bis, 34, eerste lid, 13°, 35, § 3, 37, § 12 en § 20, 47, 56, § 2, eerste lid, 3°, en 56, § 3, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, gewijzigd bij de wetten van 20 december 1995, 22 februari 1998, 24 december 1999, 10 augustus 2001, 17 december 2004, 27 december 2005, 24 juli 2008, 19 december 2008, 22 december 2008, 10 december 2009 en 27 december 2012;<br>
 8° artikel 10bis en artikel 10ter van het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling en tot subsidiëring van een Vlaams Centrum Schuldenlast, gewijzigd bij de decreten van 28 april 2006, 10 juli 2008 en 21 juni 2013;<br>
 9° artikel 91 en artikel 169 van het decreet basisonderwijs van 25 februari 1997;<br>
-10° artikel 58 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, gewijzigd bij de decreten van 23 maart 2012 en 31 mei 2013;<br>
+10° artikel 4.56, 4.70 en 4.74 van de Vlaamse Codex Wonen van 2021;<br>
 11° artikel 13, 36, 44 en 51 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, gewijzigd bij de decreten van 19 juli 2002, 30 april 2004, 7 december 2007, 1 maart 2013, 28 maart 2014 en 9 mei 2014;<br>
 12° het decreet van 28 april 1998 betreffende het Vlaamse integratiebeleid, gewijzigd bij de decreten van 30 april 2009 en 6 juli 2012;<br>
 13° artikel 29bis en 29ter van het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens, artikel 29bis, gewijzigd bij het decreet van 8 mei 2009, en artikel 29ter, ingevoegd bij het decreet van 24 december 2004;<br>
