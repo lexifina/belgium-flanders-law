@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033344,
+  "title": "Decreet van 2020-06-19 tot opheffing van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming Syntra Vlaanderen, tot regeling van de taken en bevoegdheden en tot wijziging van de naam Hermesfonds",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033344/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "dd5b5714bc247b25eb303d69ddb6b2eae3e0c0bc63d06fd6a226be863c23590c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033344&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2020-06-19",
+  "gazette": "2020-07-08",
+  "numac": 2020041989,
+  "document_start": "2021-12-31",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 81,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
