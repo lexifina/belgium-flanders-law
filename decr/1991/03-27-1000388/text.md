@@ -1366,7 +1366,7 @@ Het personeelslid heeft recht op borstvoedingspauzes op het werk conform de bepa
 
 ### ART 51decies.
 
-§ 1. Dit artikel is van toepassing op een personeelslid wiens betrekking vacant is verklaard in toepassing van artikel 33, § 1, 4° en 5°, of artikel 84undevicies.<br>
+§ 1. Dit artikel is van toepassing op een personeelslid wiens betrekking vacant is verklaard in toepassing van artikel 33, § 1, 4° en 5°, artikel 84undevicies of artikel 84vicies septies.<br>
 <br>
 § 2. Het personeelslid van wie de betrekking volgens paragraaf 1 vacant is verklaard, blijft na de vacantverklaring van die betrekking in de administratieve en geldelijke toestand die verbonden is aan zijn verlof of afwezigheid.<br>
 <br>
@@ -2019,6 +2019,77 @@ Ieder centrum voor volwassenenonderwijs verifieert de door het Ministerie van On
 De Vlaamse minister, bevoegd voor het onderwijs, bezorgt uiterlijk op 15 februari 2019 aan ieder centrum voor volwassenenonderwijs dat een hbo5-opleiding aanbiedt en aan de hogeschool waarmee het centrum een intentieverklaring over die opleiding afgesloten heeft, de geverifieerde en gecorrigeerde lijsten met de in artikel 84vicies ter, § 1, eerste lid, 1° en 3°, vermelde personeelsleden.<br>
 <br>
 De Vlaamse minister, bevoegd voor het onderwijs, bezorgt uiterlijk op 15 februari 2019 aan ieder centrum voor volwassenenonderwijs dat een specifieke lerarenopleiding aanbiedt en aan de hogeschool en universiteit waarmee het centrum een intentieverklaring over die opleiding afgesloten heeft, de geverifieerde en gecorrigeerde lijsten met de in artikel 84vicies ter, § 1, eerste lid, 2° en 3°, vermelde personeelsleden.
+
+### ART 84viciessexies.
+
+§ 1. In afwijking van artikel 33, moet de inrichtende macht met het oog op een vaste benoeming op 1 juli 2021, voor 15 juni 2021 aan de personeelsleden van haar instellingen de vacante betrekkingen meedelen. Behoort een instelling tot een scholengemeenschap dan deelt de inrichtende macht van die instelling de vacante betrekkingen in haar instellingen die behoren tot die scho- lengemeenschap mee aan de personeelsleden van de scholengemeenschap. De mededeling van de vacante betrekkingen omvat:<br>
+1° alle vacante betrekkingen in de betrokken instelling of instellingen op 15 mei 2021;<br>
+2° eventueel de betrekkingen die in de periode van 15 mei tot en met 1 juli 2021 vacant zullen worden ten gevolge van de pensionering of de terbeschikkingstelling voorafgaand aan het rustpensioen van de titularis. De inrichtende macht kan deze betrekkingen eveneens meedelen als vacante betrekking met het oog op een vaste benoeming;<br>
+3° de betrekking van een vastbenoemd personeelslid dat uiterlijk op 15 mei 2021 in toepassing van artikel V.75, § 2, van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016 ter beschikking wordt gesteld wegens ontstentenis van betrekking. Op het ogenblik van deze terbeschikkingstelling wordt de betrekking waar het personeelslid titularis van is een vacante betrekking;<br>
+4° het deel van de betrekking in een wervingsambt van het bestuurs- en onderwijzend personeel van een vastbenoemd personeelslid waarvoor dat personeelslid op 15 mei 2021 een verlof wegens verminderde prestaties vanaf de leeftijd van 55 jaar geniet als vermeld in artikel 5, § 1, 3°, van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof en de afwezigheid voor verminderde prestaties;<br>
+5° het deel van de betrekking in een wervingsambt van het bestuurs- en onder- wijzend personeel van een vastbenoemd personeelslid waarvoor dat personeelslid op 15 mei 2021 een gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 50 of 55 jaar geniet als vermeld in artikel 9 van het besluit van de Vlaamse Regering van 9 september 2011 betreffende de loopbaanonderbreking van de personeelsleden van het onderwijs en de centra voor leerlingen- begeleiding;<br>
+6° de betrekking of het deel van de betrekking in een wervingsambt van het bestuurs- en onderwijzend personeel van een vastbenoemd personeelslid waarvoor dat personeelslid op 15 mei 2021 van dat schooljaar voor een volledig schooljaar afwezig is omwille van een of meer van volgende verlofstelsels:<br>
+a) verlof wegens bijzondere opdracht zoals bepaald in artikel 51quater van dit decreet;<br>
+b) verlof wegens opdracht zoals bepaald in artikel 51quater van dit decreet;<br>
+c) verlof voor vakbondsopdrachten zoals bepaald in artikel 53 van het decreet van 5 april 1995 tot oprichting van onderhandelingscomités in het vrij gesubsidieerd onderwijs of zoals bepaald in het koninklijk besluit van 16 december 1981 betreffende het syndicaal verlof in het Gesubsidieerd onderwijs;<br>
+d) verlof om een ambt uit te oefenen in een ministerieel kabinet zoals bepaald in het besluit van de Vlaamse Regering van 28 juli 1995 betreffende het verlof om een ambt uit te oefenen in een ministerieel kabinet van een lid van een Gemeenschaps- of Gewestregering, van een lid van de Federale Regering of van een gewestelijk staatssecretaris, en bij een secretariaat, de cel algemene beleidscoördinatie en een cel algemeen beleid bij een lid van de Federale Regering door personeelsleden van het onderwijs en van de centra voor leerlingenbegeleiding;<br>
+e) verlof erkende politieke groepen zoals bepaald in het besluit van de Vlaamse Regering van 19 december 1991 betreffende het verlof dat aan de personeelsleden van het onderwijs en de psycho-medisch-sociale centra wordt verleend voor het verrichten van bepaalde prestaties ten behoeve van in de wetgevende vergaderingen van de Staat en van de Gemeenschappen en of de Gewesten erkende politieke groepen, respectievelijk ten behoeve van de voorzitters van die groepen;<br>
+f) politiek verlof zoals bepaald in artikel 29 tot en met artikel 36bis van het decreet van 28 april 1993 betreffende het onderwijs IV;<br>
+g) verlof voor verminderde prestaties zoals bepaald in hoofdstuk II van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof en de afwezigheid voor verminderde prestaties;<br>
+h) afwezigheid voor verminderde prestaties zoals bepaald in hoofdstuk III van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof en de afwezigheid voor verminderde prestaties.<br>
+<br>
+De mededeling van de vacante betrekkingen bevat een duidelijke omschrijving van de aangeboden betrekkingen en vermeldt de vorm waarin en de termijn waarbinnen een personeelslid moet kandideren, evenals de voorwaarden om in aanmerking te komen voor een vaste benoeming. Dit bericht wordt aan alle in het eerste lid bedoelde personeelsleden meegedeeld en openbaar gemaakt.<br>
+<br>
+§ 2. In afwijking van paragraaf 1, eerste lid, bepaalt de inrichtende macht afzonder- lijk voor haar centra voor volwassenenonderwijs jaarlijks op basis van een beleids- plan en na onderhandelingen in het bevoegde lokale onderhandelingscomité welke vacante betrekkingen ze meedeelt.<br>
+<br>
+De inrichtende macht moet de vacante betrekkingen waarover in het bevoegde lokale onderhandelingscomité geen akkoord wordt bereikt, meedelen als het gaat om vacante betrekkingen die gedurende de drie aan het betrokken schooljaar voorafgaande schooljaren ook vacant waren. De inrichtende macht moet met het oog op de vaste benoeming op 1 juli 2021 alleszins de betrekkingen, vermeld in paragraaf 1, eerste lid, 4°, 5° en 6°, meedelen.
+
+### ART 84viciessepties.
+
+§ 1. In afwijking van artikel 31 kan een inrichtende macht een personeelslid op 1 juli 2021 vast benoemen in een ambt in een vacant ver- klaarde betrekking als vermeld in artikel 84vicies sexies, als dat personeelslid op het ogenblik van de vaste benoeming voldoet aan de voorwaarden van artikel 19 en hij, rekening houdend met artikel 77, daarenboven:<br>
+1° op 31 mei 2021 ten minste 360 dagen dienstanciënniteit heeft verworven in het bedoelde ambt in een of meer instellingen van de inrichtende macht. Als het een leraar betreft in het bezit van een voldoend geacht bekwaamheidsbewijs moeten de 360 dagen gepresteerd zijn in het vak of de specialiteit van de vacant verklaarde betrekking;<br>
+2° zich kandidaat heeft gesteld in de vorm en binnen de termijn, vermeld in de oproep tot de kandidaten;<br>
+3° op 30 juni 2021 in een instelling van de inrichtende macht waar hij de in punt 1° vereiste dienstanciënniteit heeft verworven, tijdelijk is aangesteld in het ambt waarvoor hij zich kandidaat heeft gesteld. Behoort de instelling waar het personeelslid tijdelijk is aangesteld niet tot een scholengemeenschap, dan vervult het personeelslid deze voorwaarde voor alle instellingen van de inrichtende macht die niet tot een scholengemeenschap behoren. Behoort de instelling waar het personeelslid tijdelijk is aangesteld tot een scholengemeenschap, dan vervult het personeelslid deze voorwaarde voor alle instellingen van de inrichtende macht in de scholengemeenschap. Is het personeelslid op 30 juni 2021 aangesteld in het ambt van leraar met een vereist bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, dan geldt dit als een aanstelling in dat ambt voor alle opleidingen, modules of vakken en specialiteiten waarvoor dat vereiste bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, geldt. Is het personeelslid op<br>
+30 juni 2021 aangesteld in het ambt van leraar met een voldoend geacht bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, in een opleiding, module, vak of specialiteit dan geldt dit als een aanstelling in dat ambt voor die opleiding, die module, dat vak of die specialiteit en daarenboven ook voor alle opleidingen, modules, vakken en specialiteiten waarvoor het personeelslid een vereist bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit. Voor het personeelslid dat werd aangesteld bij wijze van reaffectatie of wedertewerkstelling en voor het personeelslid bedoeld in hoofdstuk IVbis voor wat betreft het volume van zijn opdracht waarvoor hij is vast benoemd en waarvoor hij een verlof heeft verkregen om tijdelijk een andere opdracht uit te oefenen, moeten, voor zover hij het ambt van leraar uitoefent, de 360 dagen dienstanciënniteit verworven zijn in de opleiding, de module, het vak of de specialiteit van de vacant verklaarde betrekking;<br>
+4° als laatste evaluatie in het betrokken ambt geen evaluatie met de eindconclusie "onvoldoende" verkregen heeft bij de inrichtende macht waar de vacante betrekking zich situeert. Als het personeelslid de evaluatie met eindconclusie "onvoldoende" kreeg in een instelling van de inrichtende macht die behoort tot een scholengemeenschap, dan geldt deze bepaling voor alle instellingen van deze inrichtende macht die behoren tot deze scholengemeenschap. Als het personeelslid de evaluatie met eindconclusie "onvoldoende" kreeg in een instelling van de inrichtende macht die niet behoort tot een scholengemeenschap, dan geldt deze bepaling voor alle instellingen van deze inrichtende macht die niet behoren tot een scholengemeenschap. Als het personeelslid niet werd geëvalueerd, wordt deze voorwaarde geacht voldaan te zijn.<br>
+<br>
+De vaste benoeming is slechts mogelijk als het personeelslid de betrekking in hoofdambt uitoefent.<br>
+<br>
+§ 2. Als er meerdere personeelsleden zijn die zich kandidaat stellen voor vaste benoeming in eenzelfde betrekking moet de inrichtende macht bij de toewijzing van de vaste benoeming in die betrekking de volgende volgorde respecteren:<br>
+1° de personeelsleden die deeltijds benoemd zijn in het ambt;<br>
+2° de tijdelijke personeelsleden die uiterlijk op 30 juni 2021 tijdelijk aangesteld zijn voor doorlopende duur;<br>
+3° de tijdelijke personeelsleden die uiterlijk op 31 mei 2021 in het ambt ten minste 580 dagen dienstanciënniteit hebben verworven in een of meer instellingen van de inrichtende macht of desgevallend in een of meer instellingen van dezelfde scholengemeenschap en waarvan minstens 360 dagen zijn verworven in een of meer instellingen van de inrichtende macht. De inrichtende macht kan voor de 360 dagen dienstanciënniteit ook rekening houden met diensten die een personeelslid heeft verworven in een of meer instellingen van een andere inrichtende macht;<br>
+4° de tijdelijke personeelsleden die uiterlijk op 31 mei 2021 in het ambt waarvoor ze zich kandidaat stellen ten minste 360 dagen dienstanciënniteit hebben verworven in een of meer instellingen van de inrichtende macht.<br>
+<br>
+De inrichtende macht kan beslissen om een tijdelijk personeelslid dat voldoet aan de voorwaarde, vermeld in het eerste lid, 4°, niet vast te benoemen, op voorwaarde dat het personeelslid dan een schriftelijke motivatie krijgt waarin de inrichtende macht opneemt om welke redenen ze de vaste benoeming weigert. Dit geldt ook als het tijdelijk personeelslid de enige kandidaat is voor de vacant verklaarde betrekking.<br>
+<br>
+De inrichtende macht kan binnen elke groep, vermeld in het eerste lid, bij- komende criteria bepalen om een vaste benoeming toe te kennen. Deze criteria worden onderhandeld in het daartoe bevoegde lokaal onderhandelingscomité.<br>
+<br>
+§ 3. In de instellingen van het gesubsidieerd vrij onderwijs wordt elke benoeming in een wervingsambt en elke wijziging ervan schriftelijk vastgesteld. De overeenkomst vermeldt ten minste:<br>
+1° de benaming en het adres van de inrichtende macht en van de instelling waarin het personeelslid tewerkgesteld wordt;<br>
+2° de identiteit van het personeelslid;<br>
+3° het uit te oefenen ambt en de omvang van de opdracht;<br>
+4° in voorkomend geval, het pedagogisch project, de aanvullende verplichtingen en onverenigbaarheden.<br>
+<br>
+De overeenkomst van benoeming wordt opgemaakt in ten minste twee exemplaren, waarvan één bestemd voor het personeelslid.<br>
+<br>
+§ 4. In de instellingen van het gesubsidieerd officieel onderwijs wordt elke benoeming in een wervingsambt en elke wijziging ervan vastgesteld bij besluit van de inrichtende macht. Het besluit vermeldt ten minste:<br>
+1° de benaming en het adres van de inrichtende macht en van de instelling waarin het personeelslid tewerkgesteld wordt;<br>
+2° de identiteit van het personeelslid;<br>
+3° het uit te oefenen ambt en de omvang van de opdracht;<br>
+4° in voorkomend geval, het pedagogisch project, de aanvullende verplichtingen en onverenigbaarheden.<br>
+<br>
+Een afschrift van dit besluit wordt meegedeeld aan het betrokken personeelslid.<br>
+<br>
+§ 5. Bij ontstentenis van hetzij de schriftelijke overeenkomst bedoeld in paragraaf 3, hetzij het besluit bedoeld in paragraaf 4, wordt het personeelslid geacht vast benoemd te zijn voor het ambt, voor de opdracht en in de betrekking die het werkelijk uitoefent.<br>
+<br>
+§ 6. Het personeelslid wordt benoemd bij een inrichtende macht en geaffecteerd aan een instelling van deze inrichtende macht.<br>
+<br>
+§ 7. De Vlaamse Regering bepaalt de regels volgens welke de vaste benoeming, de nieuwe affectatie en de mutatie worden meegedeeld aan het Departement Onderwijs opdat zij zouden uitwerking hebben ten aanzien van de overheid.<br>
+<br>
+§ 8. De Vlaamse Regering bepaalt de gevolgen van een nieuwe vaste benoeming ten aanzien van de door het betrokken personeelslid voorheen reeds verkregen vaste benoeming, met dien verstande dat een personeelslid slechts vast benoemd kan zijn ten belope van maximaal één voltijdse betrekking in hoofdambt. Het voltijds karakter wordt bepaald in functie van de prestaties vereist voor een voltijdse betrekking in het ambt van de nieuwe benoeming.<br>
+<br>
+§ 9. In afwijking van artikel 33, § 1, gaat de vaste benoeming in op 1 juli 2021 volgend op de vacantverklaring, voor zover de betrekking op die datum nog vacant is.
 
 ## TITEL III ANDERE BEPALINGEN
 
