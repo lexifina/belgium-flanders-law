@@ -11,6 +11,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 4° cursist : een persoon die een opleiding volgt of ingeschreven was in het volwassenenonderwijs, in het deeltijds kunstonderwijs, bij Syntra, bij de VDAB of in het Sociaal-Cultureel Volwassenenwerk of een persoon die een opleiding gevolgd heeft in het school- of kalenderjaar dat voorafgaat aan de datum van de oproep;<br>
 5° decreet: het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad;<br>
 6° departement: bevoegde dienst of ambtenaar van het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap;<br>
+6° bis Departement Werk en Sociale Economie: het departement, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 7° directeur : elk personeelslid in een onderwijsinstelling dat functioneert in het ambt van directeur, algemeen of coördinerend directeur op het moment van zijn voordracht;<br>
 8° GO! Ouders : oudervereniging van het Gemeenschapsonderwijs;<br>
 9° minister: de Vlaamse minister, bevoegd voor het onderwijs;<br>
@@ -19,7 +20,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 12° OVSG: Onderwijssecretariaat voor Steden en Gemeenten;<br>
 13° POV: Provinciaal Onderwijs Vlaanderen;<br>
 14° : SOCIUS : Steunpunt voor Sociaal Cultureel Volwassenenwerk;<br>
-15° : Syntra Vlaanderen : het Vlaams Agentschap voor Ondernemersvorming;<br>
+15°...;<br>
 15° bis SYNTRUM : de koepelorganisatie die optreedt als vertegenwoordiger van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen;<br>
 16° vakorganisatie: een personeelsvereniging van het onderwijs aangesloten bij een in de Sociaal-Economische Raad van Vlaanderen vertegenwoordigde syndicale organisatie;<br>
 17° VCOV: Vlaamse Confederatie van Ouders en Ouderverenigingen;<br>
@@ -72,7 +73,7 @@ De Raad voor het basisonderwijs bestaat uit&nbsp;22 leden en wordt samengesteld 
 ### ART. 5.
 
 De Raad voor levenslang en levensbreed leren bestaat uit&nbsp;31 leden:<br>
-1°&nbsp;11 vertegenwoordigers van de inrichtende machten en opleidingsverstrekkers waarvan één aangeduid door het Gemeenschapsonderwijs, één aangewezen door OKO, één aangeduid door POV, één aangeduid door OVSG, drie aangeduid door het Katholiek Onderwijs Vlaanderen, drie vertegenwoordigers van de andere opleidingsverstrekkers aangeduid door Syntra Vlaanderen, VDAB en SOCIUS in overleg met de voogdijminister en één vertegenwoordiger aangeduid door de federatie voor basiseducatie;<br>
+1°&nbsp;11 vertegenwoordigers van de inrichtende machten en opleidingsverstrekkers waarvan één aangeduid door het Gemeenschapsonderwijs, één aangewezen door OKO, één aangeduid door POV, één aangeduid door OVSG, drie aangeduid door het Katholiek Onderwijs Vlaanderen, drie vertegenwoordigers van de andere opleidingsverstrekkers aangeduid door het Departement Werk en Sociale Economie, VDAB en SOCIUS in overleg met de voogdijminister en één vertegenwoordiger aangeduid door de federatie voor basiseducatie;<br>
 2° vier directeurs, van wie één uit het officieel deeltijds kunstonderwijs, twee uit het volwassenenonderwijs, van wie één uit het officieel en één uit het vrij onderwijs, samen voorgedragen door de representatieve verenigingen van inrichtende machten en het GO! en de representatieve vakorganisaties en één directeur van een centrum voor basiseducatie, samen voorgedragen door de Federatie Basiseducatie en de representatieve vakorganisaties;<br>
 3° zes vertegenwoordigers van het personeel waarvan twee aangeduid door het ACOD, drie aangeduid door het COC en COV en één aangeduid door het VSOA;<br>
 4° vier cursisten;<br>
