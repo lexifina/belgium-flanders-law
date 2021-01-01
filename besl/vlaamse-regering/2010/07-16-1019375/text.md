@@ -371,7 +371,7 @@ In het eerste lid wordt verstaan onder:<br>
 
 ### ART. 8.5.
 
-Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor het plaatsen of verplaatsen van één of meer woonwagens, als vermeld in   artikel 2, § 1, 33°, van het decreet van 15 juli 1997 houdende de Vlaamse   Wooncode, op een residentieel woonwagenterrein of doortrekkersterrein voor   woonwagenbewoners, als vermeld in artikel 1, 4° en 5°, van het besluit van de   Vlaamse Regering van 12 mei 2000 houdende de subsidiëring van de verwerving, de   inrichting, de renovatie en de uitbreiding van woonwagenterreinen voor   woonwagenbewoners, op voorwaarde dat het terrein in kwestie vergund of   hoofdzakelijk vergund is.
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het plaatsen of verplaatsen van één of meer woonwagens, als vermeld in artikel 1.3, § 1, eerste lid, 73°, van de Vlaamse Codex Wonen van 2021, op een residentieel woonwagenterrein of doortrekkersterrein voor woonwagenbewoners, als vermeld in artikel 1.3, § 1, eerste lid, 11° en 43°, van de voormelde codex, op voorwaarde dat het terrein in kwestie vergund of hoofdzakelijk vergund is.
 
 ## HOOFDSTUK 9 [Publiciteitsinrichtingen (verv. BVR 12 mei 2023, art. 15, I: 1 januari 2024)]
 
