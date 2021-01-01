@@ -150,9 +150,9 @@ De opstartkosten alsook de kosten die betrekking hebben op de herstructurering v
 1. Patenten, licenties, knowhow, octrooien, merken en andere soortgelijke rechten;<br>
 2. Computer software.<br>
 <br>
-§ 2. Kosten van onderzoek en ontwikkeling worden ten laste van de resultatenrekening van het boekjaar genomen waarin ze werden gemaakt.<br>
+§ 2. Uitgaven van onderzoek en ontwikkeling worden ten laste van de resultatenrekening van het boekjaar genomen waarin ze werden gemaakt.<br>
 <br>
-§ 3. Voor kosten van computersoftware is activering toegestaan ingeval van duurzaam gebruik, maar wordt verplicht vanaf [2.500 euro (verv. B.V.R. 22 februari 2002, art. 3, I: 1 januari 2002)] per eenheid.
+&nbsp;§ 3. Voor de uitgaven, vermeld in paragraaf 1, is activering verplicht in geval van duurzaam gebruik vanaf 2500 euro per eenheid. Onder dat bedrag zijn ze ten laste van de resultatenrekening van het boekjaar.
 
 ## ONDERAFDELING D MATERIELE VASTE ACTIVA
 
@@ -288,7 +288,12 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 1.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2000/03/15_1S.pdf#page=7">Jaarrekening en rekeningenstelsel</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2000/03/15_1S.pdf#page=7">Jaarrekening en rekeningenstelsel</a><br>
+<br>
+Bij besluit van de Vlaamse Regering van 4 december 2020, BS 2 februari 2021 worden met ingang van 1 januari 2021 de volgende wijzigingen aangebracht in Hoofdstuk II van bijlage 1:<br>
+<br>
+1° de zinsnede "232 computeruitrusting" wordt opgeheven.<br>
+2° de zinsnede "243 Telematicamateriaal" wordt vervangen door de zinsnede "243 informatica- en telematicamateriaal".
 
 ### BIJLAGE 2.
 
