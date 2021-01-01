@@ -380,7 +380,7 @@ d) een aanpassing van het openbaar vervoersnetwerk van De Lijn;<br>
 5° gronden waarop volgens het Grondeninformatieregister van de OVAM een van de volgende bodemonderzoeken werden uitgevoerd:<br>
 a) een oriënterend bodemonderzoek met als conclusie dat verdere maatregelen voor de behandeling van de bodemverontreiniging noodzakelijk zijn;<br>
 b) een beschrijvend bodemonderzoek;<br>
-1.23. het Vlaams Energieagentschap;<br>
+1.23. het Vlaams Energie- en Klimaatagentschap;<br>
 1.24. het departement Cultuur, Jeugd, Sport en Media als de voorziene bestemmingen van de gronden binnen het voorgenomen uitvoeringsplan invloed kunnen hebben op bestaande of geplande jeugdverblijfplaatsen;<br>
 1.25. het Federaal Agentschap voor Nucleaire Controle als de gronden, die binnen de begrenzing van het voorgenomen uitvoeringsplan liggen:<br>
 1° volgens de bestaande plannen van aanleg of uitvoeringsplannen de bestemming hebben voor een nucleaire centrale of aanhorigheden;<br>
