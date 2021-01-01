@@ -20,4 +20,4 @@ Het ministerieel besluit van 5 juli 2012 houdende vaststelling van het draaiboek
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/06/15_1.pdf#page=277">Draaiboek voor de prestatiebeoordeling van sociale huisvestingsmaatschappijen</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/12/18_1.pdf#page=165">Draaiboek voor de prestatiebeoordeling van sociale huisvestingsmaatschappijen als vermeld in artikel 1</a>
