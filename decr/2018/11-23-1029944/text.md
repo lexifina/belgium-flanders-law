@@ -54,7 +54,8 @@ De publieke pensioenstelsels van alle openbare werkgevers, vermeld in het tweede
 <br>
 § 5. De volgende openbare werkgevers kunnen de uitvoering van hun publieke pensioenstelsels ook toevertrouwen aan het Vlaams Pensioenfonds:<br>
 1° de rechtspersonen die ressorteren onder de Vlaamse Gemeenschap en het Vlaamse Gewest en die niet behoren tot de openbare werkgevers, vermeld in paragraaf 4, tweede lid;<br>
-2° de lokale besturen.<br>
+2° de lokale besturen;<br>
+3° de Vlaamse Gemeenschapscommissie.<br>
 <br>
 De openbare werkgevers, vermeld in het eerste lid van deze paragraaf, kunnen de uitvoering van hun publieke pensioenstelsel toevertrouwen aan het Vlaams Pensioenfonds op voorwaarde dat hun publieke pensioenstelsel:<br>
 1° voldoet aan de kenmerken, vermeld in artikel 12, eerste lid;<br>
