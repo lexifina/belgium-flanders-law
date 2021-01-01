@@ -2,16 +2,16 @@
   "codex_id": 1013081,
   "title": "Decreet van 2004-05-07 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap \"Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen\"",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013081/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "b21537cb2a67187ca0a79da962e45c6e9cfdff8680fcccde7dd1f4fb5317c87f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013081/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "7f10992dcdc7d193d9d52d411be3c5790f218103b8ef80fafca641e01b010569",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013081&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2021-01-01",
   "made": "2004-05-07",
   "gazette": "2004-06-09",
   "numac": 2004035898,
   "document_start": "2006-04-01",
   "document_end": "2020-12-31",
-  "in_force": "2020-01-01",
+  "in_force": "2021-01-01",
   "article_versions": 52,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
