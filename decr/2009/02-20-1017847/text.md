@@ -65,7 +65,9 @@ Bij elke daling of stijging van het aantal opgenomen studiepunten met 2 % of mee
 <br>
 § 3. De investeringsmiddelen dragen uitsluitend bij tot de dekking van de uitgaven voor de aankoop van gebouwen, voor gehele of gedeeltelijke nieuwbouw of verbouwing, voor de voorafgaande afbraakwerken, voor de omgevingswerken, voor de eerste uitrusting, voor de aankoop van gronden, voor de aankoop van didactische en wetenschappelijke apparatuur die bestemd is voor het onderwijs, en voor de onroerende investeringen voor de sociale voorzieningen, en tot dekking van de kapitaal- en intrestlasten die voortvloeien uit leningen voor de investeringsuitgaven.<br>
 <br>
-§ 4. Als aanvulling op de bedragen, vermeld in paragraaf 1, ontvangt de Hogere Zeevaartschool in begrotingsjaar 2018 een eenmalige bijkomende investeringsdotatie van 10.000.000 euro.
+§ 4. Als aanvulling op de bedragen, vermeld in paragraaf 1, ontvangt de Hogere Zeevaartschool in begrotingsjaar 2018 een eenmalige bijkomende investeringsdotatie van 10.000.000 euro.<br>
+<br>
+§ 5. Als aanvulling op de bedragen, vermeld in paragraaf 1, ontvangt de Hogere Zeevaartschool in het begrotingsjaar 2021 eenmalige bijkomende investeringsmiddelen ten bedrage van 100.000 euro.
 
 ## HOOFDSTUK III. Overgangsbepalingen voor het personeel
 
