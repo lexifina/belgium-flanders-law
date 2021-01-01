@@ -2,16 +2,16 @@
   "codex_id": 1023679,
   "title": "Besluit van de Vlaamse Regering van 2013-12-20 betreffende het kwaliteitstoezicht op de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, wat de leertijd betreft",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023679/VolledigDocument?datum=2020-10-01",
-  "source_sha256": "688ec3f8fad0263310d2fbc8ed6c633a70853f0492942e41657d0a9f9c140260",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023679/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "f7ab76b693f8f628f15b2e4296efc6da099094075c62b7872c1c4902341c836e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023679&param=informatie",
-  "as_of": "2020-10-01",
+  "as_of": "2021-01-01",
   "made": "2013-12-20",
   "gazette": "2014-01-30",
   "numac": 2014035088,
   "document_start": "2014-01-01",
   "document_end": null,
-  "in_force": "2020-10-01",
+  "in_force": "2021-01-01",
   "article_versions": 39,
-  "record_form": "consolidated version as in force on 2020-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
