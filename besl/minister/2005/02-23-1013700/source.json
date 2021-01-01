@@ -2,16 +2,16 @@
   "codex_id": 1013700,
   "title": "Ministerieel besluit van 2005-02-23 inzake de rapportering van afnamegegevens door de beheerders van de aardgas- en elektriciteitsnetten en van productiegegevens door de exploitanten van hernieuwbare energie-installaties met warmteproductie, van warmtekracht- en van zelfopwekkingsinstallaties",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013700/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "62e5537b226116ff437f50b9edc3b56a1381a3891968ac90ab524ff6f382e8cc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013700/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "f0461f320209a08b41023b07edc55fb0b6ae97dc7236f0c764e2bee6559b501a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013700&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2021-01-01",
   "made": "2005-02-23",
   "gazette": "2005-03-16",
   "numac": 2005035316,
   "document_start": null,
   "document_end": null,
-  "in_force": "2011-01-01",
+  "in_force": "2021-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
