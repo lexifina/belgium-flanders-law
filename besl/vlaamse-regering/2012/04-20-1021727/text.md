@@ -926,21 +926,21 @@ Het eerste en tweede lid gelden ook voor emissierechten die verleend zijn door e
 <br>
 Naast de te betalen administratieve geldboete blijft de exploitant van een BKG-installatie of de vliegtuigexploitant ertoe gehouden de alsnog verschuldigde emissierechten in te leveren. Hij doet dat bij de inlevering van emissierechten voor het volgende kalenderjaar.<br>
 <br>
-§ 2. Binnen zestig dagen na de vaststelling van de overtreding, vermeld in paragraaf 1, brengt de leidend ambtenaar van het departement de exploitant van een BKG-installatie of de vliegtuigexploitant op de hoogte van de beslissing tot het opleggen van een administratieve geldboete conform artikel 8.5.1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid. De exploitant van een BKG-installatie of de vliegtuigexploitant wordt uitgenodigd om binnen een termijn van tien dagen na die kennisgeving per aangetekende brief zijn verweer mee te delen conform artikel 8.5.4, § 2, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid. Na het verstrijken van die termijn is de beslissing definitief.<br>
+§ 2. Binnen zestig dagen na de vaststelling van de overtreding, vermeld in paragraaf 1, brengt de leidend ambtenaar van het VEKA de exploitant van een BKG-installatie of de vliegtuigexploitant op de hoogte van de beslissing tot het opleggen van een administratieve geldboete conform artikel 8.5.1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid. De exploitant van een BKG-installatie of de vliegtuigexploitant wordt uitgenodigd om binnen een termijn van tien dagen na die kennisgeving per aangetekende brief zijn verweer mee te delen conform artikel 8.5.4, § 2, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid. Na het verstrijken van die termijn is de beslissing definitief.<br>
 <br>
 De exploitant van een BKG-installatie of de vliegtuigexploitant wordt er ook op gewezen dat hij :<br>
 1° op verzoek de documenten waarop de beslissing tot het opleggen van een administratieve boete berust, kan inzien en er kopieën van kan krijgen;<br>
-2° mondeling zijn verweer kan toelichten. De exploitant van een BKG-installatie of de vliegtuigexploitant richt daarvoor aan het departement een aanvraag binnen tien dagen na de ontvangst van de kennisgeving.<br>
+2° mondeling zijn verweer kan toelichten. De exploitant van een BKG-installatie of de vliegtuigexploitant richt daarvoor aan het VEKA een aanvraag binnen tien dagen na de ontvangst van de kennisgeving.<br>
 <br>
-§ 3. Binnen een termijn van negentig dagen na de kennisgeving van de beslissing tot het opleggen van een administratieve geldboete kan de leidend ambtenaar van het departement de beslissing tot het opleggen van een administratieve geldboete&nbsp;conform artikel 8.5.1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid herroepen of het bedrag aanpassen, als het verweer gegrond blijkt te zijn. In dat geval zal een nieuwe kennisgeving plaatsvinden. De administratieve geldboete moet binnen zestig dagen worden betaald na de kennisgeving van de definitieve beslissing.<br>
+§ 3. Binnen een termijn van negentig dagen na de kennisgeving van de beslissing tot het opleggen van een administratieve geldboete kan de leidend ambtenaar van het VEKA de beslissing tot het opleggen van een administratieve geldboete&nbsp;conform artikel 8.5.1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid herroepen of het bedrag aanpassen, als het verweer gegrond blijkt te zijn. In dat geval zal een nieuwe kennisgeving plaatsvinden. De administratieve geldboete moet binnen zestig dagen worden betaald na de kennisgeving van de definitieve beslissing.<br>
 <br>
 Met inachtneming van de bepalingen van de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshandelingen vermeldt de beslissing het opgelegde bedrag, alsook de termijn waarin en de manier waarop de administratieve geldboete moet worden betaald.<br>
 <br>
-§ 4. De leidend ambtenaar van het departement kan op schriftelijk en gemotiveerd verzoek van de exploitant van een BKG-installatie of de vliegtuigexploitant eenmalig uitstel van betaling verlenen voor een termijn van zestig dagen.<br>
+§ 4. De leidend ambtenaar van het VEKA kan op schriftelijk en gemotiveerd verzoek van de exploitant van een BKG-installatie of de vliegtuigexploitant eenmalig uitstel van betaling verlenen voor een termijn van zestig dagen.<br>
 <br>
-§ 5. Als de exploitant van een BKG-installatie of de vliegtuigexploitant na het verstrijken van de betalingstermijn de administratieve geldboete niet heeft betaald, wordt die geldboete bij dwangbevel ingevorderd. Een door de leidend ambtenaar van het Departement Omgeving aangesteld personeelslid, wordt ermee belast het dwangbevel uit te vaardigen en de administratieve geldboete in te vorderen.<br>
+§ 5. Als de exploitant van een BKG-installatie of de vliegtuigexploitant na het verstrijken van de betalingstermijn de administratieve geldboete niet heeft betaald, wordt die geldboete bij dwangbevel ingevorderd. Een door de leidend ambtenaar van het VEKA&nbsp;aangesteld personeelslid, wordt ermee belast het dwangbevel uit te vaardigen en de administratieve geldboete in te vorderen.<br>
 <br>
-§ 6. De lijst met de namen van de exploitanten van een BKG-installatie of de vliegtuigexploitant die onvoldoende emissierechten hebben ingeleverd om te voldoen aan hun verplichtingen, vermeld in artikel 4.10.1.2. van titel II van het VLAREM of vermeld in artikel 56/39 van dit besluit, wordt jaarlijks bekendgemaakt op de website van het departement.
+§ 6. De lijst met de namen van de exploitanten van een BKG-installatie of de vliegtuigexploitant die onvoldoende emissierechten hebben ingeleverd om te voldoen aan hun verplichtingen, vermeld in artikel 4.10.1.2. van titel II van het VLAREM of vermeld in artikel 56/39 van dit besluit, wordt jaarlijks bekendgemaakt op de website van het VEKA.
 
 ### ART. 63/1.
 
@@ -964,7 +964,7 @@ Een exploitant van een BKG-installatie mag geen CER's of ERU's inleveren die voo
 
 ### ART. 66.
 
-§ 1. De exploitant van een BKG-installatie mag in de periode van 2008 tot   2020 CER's en ERU's gebruiken, met uitzondering van de CER's en ERU's, vermeld   in artikel 65, tot 11 % van de aan de BKG-installatie toegewezen hoeveelheid   emissierechten tijdens de eerste verbintenisperiode, dan wel het   internationaalkredietrecht voor die periode, naargelang welke hoeveelheid het   hoogste is.<BR><BR>Als de exploitant van een BKG-installatie ervoor opteert de   BKG-installatie overeenkomstig artikel 23, tweede lid, op te splitsen per vaste   technische eenheid, moet het maximale gebruik van CER's en ERU's overeenkomstig   het eerste lid verdeeld worden over de vaste technische eenheden die tijdens de   eerste verbintenisperiode één BKG-installatie uitmaakten.<BR><BR>§ 2. De   exploitant van een BKG-installatie kan, in overeenstemming met de toepasselijke   Europese regelgeving, CER's en ERU's boven de 11 %, vermeld in paragraaf 1,   eerste lid, gebruiken tot een hoeveelheid waarmee de gecombineerde kosteloze   toewijzing tijdens de eerste verbintenisperiode en de totale hoeveelheid waarop   hij recht heeft gelijk is aan een bepaald percentage van zijn geverifieerde   emissies in de periode van 2005 tot en met 2007. Dit bijkomend gebruik van CER's   en ERU's is enkel toegestaan na bepaling van dit percentage door de Vlaamse   minister, overeenkomstig paragraaf 4.<BR><BR>§ 3. Nieuwkomers, met inbegrip van   nieuwkomers uit de eerste verbintenisperiode die geen kosteloze toewijzing van   emissierechten of geen rechten op het gebruik van CER's en ERU's hebben gekregen   in de eerste verbintenisperiode, en nieuwe bedrijfstakken kunnen CER's en ERU's   gebruiken tot een hoeveelheid die overeenkomt met een percentage van 4,5 % van   hun geverifieerde emissies in de periode van 2013 tot en met 2020.<BR><BR>§ 4.   De Vlaamse minister kan, in overeenstemming met de toepasselijke Europese   regelgeving, de percentages vermeld in paragrafen 1 tot en met 3, bepalen of   aanpassen.
+...
 
 ### ART. 67.
 
@@ -992,7 +992,7 @@ Zodra een internationale overeenkomst inzake klimaatverandering voor de periode 
 
 ### ART. 73.
 
-De Vlaamse minister kan in bijkomende categorieën van projecten voorzien die CER's en ERU's genereren die niet gebruikt mogen worden door een exploitant van een BKG-installatie.
+...
 
 ## [Afdeling 1/1. De inlevering en het gebruik van CER's en ERU's door de vliegtuigexploitant (ing. BVR 4 april 2014, art. 25, I: 6 mei 2014)]
 
@@ -1132,7 +1132,7 @@ Bijlage II, toegevoegd bij het besluit van de Vlaamse Regering van 4 september 2
 
 ### ART. 102.
 
-Het departement bezorgt de Europese Commissie jaarlijks een verslag over de uitvoering van dit besluit en de bepalingen in het VLAREM inzake emissiehandel. In dat verslag wordt bijzondere aandacht besteed aan de regelingen voor de toewijzing van emissierechten en de bewaking, rapportering en verificatie van de emissies van broeikasgassen uit BKG-installaties.
+Het VEKA bezorgt de Europese Commissie jaarlijks een verslag over de uitvoering van dit besluit en de bepalingen in het VLAREM inzake emissiehandel. In dat verslag wordt bijzondere aandacht besteed aan de regelingen voor de toewijzing van emissierechten en de bewaking, rapportering en verificatie van de emissies van broeikasgassen uit BKG-installaties.
 
 ### ART. 103.
 

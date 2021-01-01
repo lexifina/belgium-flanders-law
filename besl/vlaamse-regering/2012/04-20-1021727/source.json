@@ -2,16 +2,16 @@
   "codex_id": 1021727,
   "title": "Besluit van de Vlaamse Regering van 2012-04-20 inzake verhandelbare emissierechten voor broeikasgassen voor vaste installaties[, luchtvaartactiviteiten] en de inzet van flexibele mechanismen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021727/VolledigDocument?datum=2019-10-25",
-  "source_sha256": "0627c445c8d8fc2d008d7788e6c8063c0bb213cbc501809dfe0d54193694d6d2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021727/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "882bee7f60c0a920552f06566fd5353311eaf9573a572e3722c5762bb9697c35",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021727&param=informatie",
-  "as_of": "2019-10-25",
+  "as_of": "2021-01-01",
   "made": "2012-04-20",
   "gazette": "2012-05-10",
   "numac": 2012035465,
   "document_start": "2012-05-20",
   "document_end": null,
-  "in_force": "2019-10-25",
+  "in_force": "2021-01-01",
   "article_versions": 171,
-  "record_form": "consolidated version as in force on 2019-10-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
