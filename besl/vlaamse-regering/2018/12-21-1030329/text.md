@@ -404,7 +404,7 @@ Het departement treedt op als verantwoordelijke voor de verwerking van persoonsg
 
 ### ART 42.
 
-Overeenkomstig artikel 22, 23, 32 en 35, wisselt het departement de nodige DmfA-persoonsgegevens uit met de Rijksdienst voor Sociale Zekerheid. Overeenkomstig artikel 29 wisselt het departement de nodige persoonsgegevens uit met Syntra Vlaanderen en het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen.
+Overeenkomstig artikel 22, 23, 32 en 35, wisselt het departement de nodige DmfA-persoonsgegevens uit met de Rijksdienst voor Sociale Zekerheid. Overeenkomstig artikel 29 wisselt het departement de nodige persoonsgegevens uit met het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen.
 
 ### ART 43.
 
