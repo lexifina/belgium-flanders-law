@@ -110,13 +110,9 @@ De indicator welzijnsaanbod wordt uitgedrukt als een percentage dat weergeeft we
 
 ### ART 6.
 
-Het programmatieverschil wordt bepaald door het verschil tussen de indicatoren welzijnsaanbod en welzijnsvraag. In een provincie is sprake van een programmatie-evenwicht als het programmatieverschil tussen - 1,0% en + 1,0% ligt.<br>
+Het programmatieverschil wordt bepaald door het verschil tussen de indicatoren welzijnsaanbod en welzijnsvraag.&nbsp;<br>
 <br>
-Voor elke erkende voltijdsequivalent uitbreiding in de centra voor algemeen welzijnswerk wordt berekend in welke provincies er geen programmatie-evenwicht is. Als niet in alle provincies een evenwicht gerealiseerd is, worden de volgende toewijzingsregels gehanteerd:<br>
-1° provincies met een negatief programmatieverschil hoger dan - 1,0% krijgen prioriteit. De provincie met het hoogste verschil krijgt de uitbreiding;<br>
-2° provincies met een positief programmatieverschil hoger dan 1,0% komen niet in aanmerking voor uitbreiding;<br>
-3° als de toewijzingsregels, vermeld in punt 1° of 2°, niet van toepassing zijn, bepaalt de minister in welke provincies de uitbreiding wordt ingezet, waarbij de toewijzing het bestaande programmatie-evenwicht niet mag doorbreken.<br>
-&nbsp;
+Voor elke erkende voltijdsequivalent uitbreiding in de centra voor algemeen welzijnswerk wordt het programmatieverschil per provincie berekend. Provincies met een negatief programmatieverschil waarvan de absolute waarde groter is dan 1,0% krijgen prioriteit bij toewijzing van de uitbreiding. Als de voormelde toewijzingsregel niet van toepassing is, bepaalt de minister in welke provincies de uitbreiding wordt ingezet.
 
 ### ART 7.
 
