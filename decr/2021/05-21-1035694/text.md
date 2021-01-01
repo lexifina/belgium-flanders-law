@@ -465,6 +465,33 @@ In artikel 50 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<
 
 ## HOOFDSTUK 15. Wijzigingen van het decreet van 3 mei 2019 houdende de organisatie van buitenschoolse opvang en de afstemming tussen buitenschoolse activiteiten
 
+### ART 96.
+
+In artikel 2, eerste lid, van het decreet van 3 mei 2019 houdende de organisatie van buitenschoolse opvang en de afstemming tussen buitenschoolse activiteiten worden de volgende wijzigingen aangebracht:<br>
+1° voor punt 1°, dat punt 1° /1 wordt, wordt een nieuw punt 1° ingevoegd, dat luidt als volgt:<br>
+"1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;";<br>
+2° punt 4° wordt opgeheven.
+
+### ART 97.
+
+In artikel 11, eerste lid, van hetzelfde decreet worden de woorden "Kind en Gezin" vervangen door de woorden "Het agentschap".
+
+### ART 98.
+
+In artikel 14 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 en paragraaf 3, eerste en tweede lid, worden de woorden "Kind en Gezin" vervangen door de woorden "Het agentschap";<br>
+2° in paragraaf 2, tweede lid, worden de woorden "Kind en Gezin" vervangen door de woorden "het agentschap".
+
+### ART 99.
+
+Aan artikel 15 van hetzelfde decreet wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"Als de Vlaamse Regering gedurende de overgangstermijn een subsidie, vermeld in artikel 12, toekent aan lokale besturen, dan wordt de bestaande subsidie, vermeld in artikel 17, eerste lid, daarin verrekend.".
+
+### ART 100.
+
+In artikel 17, derde lid, van hetzelfde decreet worden de woorden "Kind en Gezin" vervangen door de woorden "het agentschap".
+
 ## HOOFDSTUK 16. Wijzigingen van het programmadecreet van 20 december 2019 bij de begroting 2020
 
 ### ART 101.
