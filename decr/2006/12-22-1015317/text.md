@@ -459,7 +459,12 @@ In afwachting van de vaststelling, door de Vlaamse Regering, van het eerste inve
 
 ### ART. 63.
 
-Een huurdienst, erkend overeenkomstig artikel 56 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, gewijzigd bij de decreten van 19 maart 2004 en 24 maart 2006, die een geregulariseerde DAC-werknemer in dienst heeft, heeft jaarlijks recht op een subsidie die gelijk is aan de bezoldiging van deze werknemer.<br /><br />De Vlaamse Regering bepaalt de specifieke personeelskosten die voor subsidiëring in aanmerking komen, de betalingsmodaliteiten van de subsidiëring alsmede de vervangingsmogelijkheden en -voorwaarden.<br /><br />Als de arbeidsovereenkomst van een geregulariseerde DAC-werknemer wordt beëindigd, blijft de subsidie behouden voor de sector van de huurdiensten. De subsidie zal worden aangewend voor de noden binnen de sector. De Vlaamse Regering bepaalt de criteria op basis waarvan de subsidie zal worden toegewezen en de verdere uitvoeringsmaatregelen.<br /><br />
+Een huurdienst, erkend overeenkomstig artikel 4.54 of 4.68 van de Vlaamse Codex Wonen van 2021, gewijzigd bij de decreten van 19 maart 2004 en 24 maart 2006, die een geregulariseerde DAC-werknemer in dienst heeft, heeft jaarlijks recht op een subsidie die gelijk is aan de bezoldiging van deze werknemer.<br>
+<br>
+De Vlaamse Regering bepaalt de specifieke personeelskosten die voor subsidiëring in aanmerking komen, de betalingsmodaliteiten van de subsidiëring alsmede de vervangingsmogelijkheden en -voorwaarden.<br>
+<br>
+Als de arbeidsovereenkomst van een geregulariseerde DAC-werknemer wordt beëindigd, blijft de subsidie behouden voor de sector van de huurdiensten. De subsidie zal worden aangewend voor de noden binnen de sector. De Vlaamse Regering bepaalt de criteria op basis waarvan de subsidie zal worden toegewezen en de verdere uitvoeringsmaatregelen.<br>
+&nbsp;
 
 ### ART. 64.
 
