@@ -30,22 +30,21 @@ De vergoeding voor een vaststelling die de MDT-arts uitvoert conform artikel 17,
 
 De vergoeding van de evaluerende arts bedraagt:<br>
 1° voor de opdrachten, vermeld in artikel 25, eerste lid, 1°, van het besluit van 7 december 2018:<br>
-a) voor een evaluatie in een spreekkamer: 35,28 euro;<br>
-b) voor een evaluatie aan huis: 42,17 euro;<br>
-c) voor een te laat uitgevoerde evaluatie: 29,52 euro;<br>
-d) voor een evaluatie onder begeleiding van een mentorarts: 17,64 euro;<br>
+a) voor een evaluatie in een spreekkamer: 83,29 euro;<br>
+b) voor een evaluatie aan huis: 83,29 euro;<br>
+c) voor een evaluatie onder begeleiding van een mentorarts: 41,65 euro;<br>
 2° voor de opdrachten die hij in het kader van een beroepsprocedure voor de arbeidsrechtbank heeft uitgevoerd, vermeld in artikel 25, derde lid, van het voormelde besluit:<br>
-a) voor een tegenexpertise in het kader van een beroepsprocedure voor de arbeidsrechtbank: 170,69 euro;<br>
-b) voor een omstandig verslag in geval van afwezigheid bij een beroepsprocedure: 85,35 euro;<br>
-3° voor de opleidingen, vermeld in artikel 25, eerste lid, 2°, van het voormelde besluit, waarvan Kind en Gezin heeft bepaald dat het die vergoedt: 65,32 euro per uur.
+a) voor een tegenexpertise in het kader van een beroepsprocedure voor de arbeidsrechtbank: 174,10 euro;<br>
+b) voor een omstandig verslag in geval van afwezigheid bij een beroepsprocedure: 87,06 euro;<br>
+3° voor de opleidingen, vermeld in artikel 25, eerste lid, 2°, van het voormelde besluit, waarvan Kind en Gezin heeft bepaald dat het die vergoedt: 66,63 euro per uur.
 
 ### ART 4.
 
-De vergoeding van de evaluerende arts die optreedt als mentorarts, als vermeld in artikel 32 van het besluit van 7 december 2018, bedraagt 52,90 euro voor het begeleiden van een evaluatie als mentorarts.
+De vergoeding van de evaluerende arts die optreedt als mentorarts, als vermeld in artikel 32 van het besluit van 7 december 2018, bedraagt 124,93 euro voor het begeleiden van een evaluatie als mentorarts.
 
 ### ART 5.
 
-De bedragen, vermeld in artikel 2, 3 en 4, zijn uitgedrukt tegen 100% en worden gekoppeld aan het spilindexcijfer 105,10.<br>
+De bedragen, vermeld in artikel 2, 3 en 4, zijn uitgedrukt tegen 100% en worden gekoppeld aan het spilindexcijfer 107,20.<br>
 <br>
 Ze worden gekoppeld aan de afgevlakte gezondheidsindex, vermeld in artikel 2, § 2, eerste lid, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, die wordt berekend en toegepast conform artikel 2 tot en met 2quater van het voormelde besluit.<br>
 <br>
@@ -55,7 +54,7 @@ De aanpassing van de bedragen gebeurt telkens twee maanden nadat de voormelde af
 
 ### ART 6.
 
-De evaluerende arts bewijst zijn gevorderde en actieve kennis van het Nederlands als vermeld in artikel 22, § 1, eerste lid, 3°, van het besluit van 7 december 2018, door een attest voor te leggen waaruit een taalvaardigheidsniveau C1 (ERK-niveau) blijkt voor luisteren, gesprekken voeren, lezen en schrijven.
+De evaluerende arts bewijst zijn gevorderde en actieve kennis van het Nederlands als vermeld in artikel 22, § 1, eerste lid, 3°, van het besluit van 7 december 2018, door een studiebewijs van het genoten onderwijs als vermeld in artikel 24, tweede lid, van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie of door een attest voor te leggen waaruit een taalvaardigheidsniveau C1 (ERK-niveau) blijkt voor luisteren, gesprekken voeren, lezen en schrijven.
 
 ## HOOFDSTUK 4. Slotbepaling
 
