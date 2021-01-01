@@ -46,13 +46,41 @@ Het tijdelijke personeelslid heeft tijdens dit verlof geen recht op bezoldiging.
 
 ## [HOOFDSTUK II/1 Geboorteverlof (ing. BVR 26 februari 2021, art. 2, I: 1 januari 2021)]
 
+### ART 7/1.
+
+§ 1. Een personeelslid heeft recht op geboorteverlof naar aanleiding van de geboorte van een kind waarvan de afstamming aan de kant van het personeelslid vaststaat.<br>
+<br>
+Bij afwezigheid van een persoon die geboorteverlof opneemt op grond van de afstamming van het kind, heeft het personeelslid dat gehuwd is of samenwoont met de moeder van het kind recht op het geboorteverlof.<br>
+<br>
+Het recht op moederschapsbescherming, vermeld in hoofdstuk II, sluit voor dezelfde ouder het recht op geboorteverlof uit.<br>
+<br>
+Het geboorteverlof wordt in mindering gebracht van het recht op opvangverlof vermeld in hoofdstuk III/2.<br>
+<br>
+§ 2. Het geboorteverlof bedraagt tien werkdagen voor geboortes die plaatsvonden voor 1 januari 2021. Voor geboortes die plaatsvinden vanaf 1 januari 2021 bedraagt het geboorteverlof vijftien werkdagen. Voor geboortes die plaatsvinden vanaf 1 januari 2023 bedraagt het geboorteverlof twintig werkdagen.<br>
+<br>
+Het geboorteverlof moet genomen worden binnen een periode van vier maanden vanaf de bevalling, waarbij minimaal zeven dagen aaneensluitend moeten worden genomen.
+
+### ART 7/2.
+
+Als een personeelslid in verschillende instellingen werkt gedurende de dagen waarop het geboorteverlof neemt, dan geldt dat verlof voor alle instellingen, waarbij het in zijn totaliteit beperkt is tot het aantal werkdagen, vermeld in artikel 7/1.<br>
+<br>
+Personeelsleden die zowel in de privé-sector als in het onderwijs werken, hebben maar één keer recht op het aantal dagen geboorteverlof, vermeld in artikel 7/1.
+
+### ART 7/3.
+
+Het geboorteverlof wordt gelijkgesteld met dienstactiviteit.<br>
+<br>
+Het geboorteverlof wordt voor vastbenoemde personeelsleden bezoldigd gedurende de eerste tien werkdagen. Vanaf de elfde werkdag ontvangt het personeelslid 82% van het brutosalaris. Voor de bepaling van dit salaris wordt het brutosalaris op jaarbasis begrensd op 26.230€ (100%).<br>
+<br>
+Het tijdelijke personeelslid ontvangt voor het geboorteverlof gedurende drie werkdagen zijn salaris. Tijdens de resterende dagen wordt de betaling van het salaris geschorst en ontvangt het personeelslid een uitkering van het ziekenfonds. De hogeschool vult die uitkering aan tot aan het nettosalaris gedurende zeven werkdagen.
+
 ## HOOFDSTUK III Omstandigheidsverlof
 
 ### ART. 8.
 
 § 1. De personeelsleden hebben naar aanleiding van de hierna opgesomde gebeurtenissen recht op omstandigheidsverlof voor een als volgt bepaalde duur:<br>
 1° huwelijk of afleggen van een verklaring van wettelijke samenwoning van het personeelslid: twee werkdagen;<br>
-2° bevalling van de echtgenote of de samenwonende partner: tien werkdagen geboorteverlof, te nemen binnen een periode van vier maanden vanaf de bevalling, met dien verstande dat minimum zeven dagen aaneensluitend moeten worden genomen.<br>
+2° ...<br>
 3° overlijden van de echtgenoot, samenwonende partner, van een bloed- of aanverwant in de 1e graad: vier werkdagen;<br>
 4° huwelijk&nbsp;of afleggen van een verklaring van wettelijke samenwoning van een kind van het personeelslid of een kind van de samenwonende partner: twee werkdagen;<br>
 5° overlijden van een bloed- of aanverwant, die onder hetzelfde dak als het personeelslid woont, ongeacht de graad van verwantschap: twee werkdagen;<br>
@@ -60,17 +88,9 @@ Het tijdelijke personeelslid heeft tijdens dit verlof geen recht op bezoldiging.
 7° deelneming aan een jury, oproeping als getuige of persoonlijke verschijning voor een rechtbank: de nodige tijd;<br>
 8° uitoefening van het ambt van voorzitter of bijzitter in een hoofdstembureau, enig stembureau of bureau voor stemopneming bij de parlements-, de provincieraads- en de gemeenteraadsverkiezingen, met inbegrip van het Europees Parlement: de nodige tijd.<br>
 <br>
-§ 2. Het omstandigheidsverlof wordt met dienstactiviteit gelijkgesteld.<br>
+§ 2. Het omstandigheidsverlof wordt met dienstactiviteit gelijkgesteld. Het omstandigheidsverlof wordt bezoldigd.<br>
 <br>
-Het omstandigheidsverlof wordt voor benoemde personeelsleden bezoldigd.<br>
-<br>
-Het omstandigheidsverlof wordt voor tijdelijke personeelsleden bezoldigd, waarbij een afwijkende regeling geldt voor het omstandigheidsverlof naar aanleiding van de bevalling van de echtgenote of de samenwonende partner.<br>
-<br>
-Het tijdelijke personeelslid ontvangt voor het omstandigheidsverlof naar aanleiding van de bevalling van de echtgenote of samenwonende partner, gedurende drie van de tien werkdagen zijn salaris. Tijdens de resterende zeven dagen wordt de betaling van het salaris geschorst en ontvangt het personeelslid een uitkering via het ziekenfonds, die door de hogeschool wordt aangevuld tot aan het nettosalaris.<br>
-<br>
-§ 3. Wanneer een personeelslid in meerdere instellingen werkt gedurende de dagen waarop hij omstandigheidsverlof neemt, dan geldt dit verlof voor alle instellingen, met dien verstande dat het in zijn totaliteit beperkt is tot de in dit artikel vastgelegde aantal werkdagen.<br>
-<br>
-Personeelsleden die zowel in de privé-sector als in het onderwijs werken, hebben slechts één maal recht op een periode van tien werkdagen omstandigheidsverlof naar aanleiding van de bevalling van de echtgenote of samenwonende partner.
+§ 3. Wanneer een personeelslid in meerdere instellingen werkt gedurende de dagen waarop hij omstandigheidsverlof neemt, dan geldt dit verlof voor alle instellingen, met dien verstande dat het in zijn totaliteit beperkt is tot de in dit artikel vastgelegde aantal werkdagen.
 
 ## [HOOFDSTUK III/1 Uitzonderlijk verlof wegens overmacht (ing. BVR 9 september 2011, art. 3)]
 
@@ -108,7 +128,7 @@ De ingangsdatum van het opvangverlof geeft aan welke duur van toepassing is.<br>
 <br>
 De maximumduur van het opvangverlof wordt verdubbeld wanneer het kind getroffen is door een lichamelijke of geestelijke ongeschiktheid van ten minste 66% of een aandoening heeft die tot gevolg heeft dat ten minste 4 punten toegekend worden in pijler 1 van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag of die tot gevolg heeft dat ten minste 9 punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving betreffende de gezinsbijslag.<br>
 <br>
-Wanneer het personeelslid een geboorteverlof, vermeld in artikel 8, § 1, 2°, opneemt of opgenomen heeft, wordt dit verlof in mindering gebracht van het opvangverlof.
+Wanneer het personeelslid een geboorteverlof, vermeld in hoofdstuk II/1, opneemt of opgenomen heeft, wordt dit verlof in mindering gebracht van het opvangverlof.
 
 ### ART. 8/4.
 
@@ -312,11 +332,11 @@ Ziekteverlof of een terbeschikkingstelling wegens ziekte schorten de afwezigheid
 
 ### ART. 21.
 
-In afwijking van artikel 8, § 2, vierde lid, wordt het omstandigheidsverlof naar aanleiding van de bevalling van de echtgenote of de samenwonende partner voor de tijdelijke personeelsleden bezoldigd en dit voor de bevallingen die plaatsvonden tussen 1 september 2005 en de definitieve goedkeuring van dit besluit.
+...
 
 ### ART. 22.
 
-In afwijking van artikel 8, § 1, 2° kan het omstandigheidsverlof n.a.v. de bevalling van de echtgenote of de samenwonende partner, voor alle bevallingen die plaatsvonden tussen 1 september 2005 en de definitieve goedkeuring van dit besluit, uitzonderlijk genomen worden tot het einde van het academiejaar 2005-2006.
+...
 
 ## HOOFDSTUK VIII Slotbepalingen
 

@@ -2,16 +2,16 @@
   "codex_id": 1014433,
   "title": "Besluit van de Vlaamse Regering van 2006-03-31 tot regeling van sommige verloven [...] voor de personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014433/VolledigDocument?datum=2020-09-01",
-  "source_sha256": "60393a181365a68b15acdb6d407d6604d0efaf9b3ed176178ee1f9d6d0e23026",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014433/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "9bbc74584b403782a05c2d8ee6292ac981fdb51bce5bc3007403bd0ccd2d995c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014433&param=informatie",
-  "as_of": "2020-09-01",
+  "as_of": "2021-01-01",
   "made": "2006-03-31",
   "gazette": "2006-04-19",
   "numac": 2006035582,
   "document_start": "2006-03-31",
   "document_end": null,
-  "in_force": "2020-09-01",
-  "article_versions": 40,
-  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-01-01",
+  "article_versions": 43,
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
