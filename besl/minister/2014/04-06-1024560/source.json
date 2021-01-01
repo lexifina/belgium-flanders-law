@@ -2,16 +2,16 @@
   "codex_id": 1024560,
   "title": "Ministerieel besluit van 2014-04-06 betreffende de regels voor de erkenning en de subsidiëring van mobiel aanbod door vrijwilligers",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024560/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "d94321229c11c2d9fbd8038fc7ad0f92e002980d6974d18fae4420c3c8d1df4e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024560/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "4480dcfa9a205c3682c0db93a5afe24792c08f26785d57d22f00dcd7e818fef9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024560&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2021-01-01",
   "made": "2014-04-06",
   "gazette": "2014-09-16",
   "numac": 2014035697,
   "document_start": "2014-04-01",
   "document_end": null,
-  "in_force": "2020-01-01",
+  "in_force": "2021-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
