@@ -6,7 +6,15 @@ De Vlaamse minister van Binnenlands Bestuur, Stedenbeleid, Wonen en Inburgering,
 
 ### ART. 1.
 
-Volgende woningbouwgebieden zoals bepaald in bijlage bij het besluit van de Vlaamse Regering van 7 april 1998 houdende afbakening van woonvernieuwings- en woningbouwgebieden, worden erkend als bijzonder gebied bedoeld in artikel 28, 2° van het besluit van de Vlaamse Regering van 6 oktober 1998 betreffende de kwaliteitsbewaking, het recht van voorkoop en het sociaal beheersrecht op woningen :<br />1° 11002A15, 11002C22, 11002C23, 11002C24, 11002C41, 11002C42,<br />11002C43, 11002C44, 11002C45, 11002F60, 11002F61, 11002H40, 11002H43, 11002H44, 11002H84, 11002J820, 11002J83, 11002J84, 11002J85, 11002Q001, 11002Q021, 11002Q052, 11002Q072, 11002R101, 11002R12, 11002R13, 11002S00, 11002S01, 11002S02, 11002S03, 11002S04, 11002S05, 11002S30, 11002S31, 11002T00, 11002T01, 11002T02, 11002T05;<br />2° 11002A01, 11002F62, 11002H41, 11002H83.<br /><br />Deze woningbouwgebieden zijn aangeduid op het plan dat als bijlage bij dit besluit wordt opgenomen.<br /><br />In de woningbouwgebieden bepaald in het eerste lid, 2°, wordt het recht van voorkoop uitsluitend uitgeoefend met het oog op het verlenen van zakelijke rechten op sociale woningen of sociale kavels.<br /><br />
+Volgende woningbouwgebieden zoals bepaald in bijlage 3 bij het Besluit Vlaamse Codex Wonen van 2021 , worden erkend als bijzonder gebied als vermeld in artikel 5.209, 2°, van het voormelde besluit :<br>
+1° 11002A15, 11002C22, 11002C23, 11002C24, 11002C41, 11002C42,<br>
+11002C43, 11002C44, 11002C45, 11002F60, 11002F61, 11002H40, 11002H43, 11002H44, 11002H84, 11002J820, 11002J83, 11002J84, 11002J85, 11002Q001, 11002Q021, 11002Q052, 11002Q072, 11002R101, 11002R12, 11002R13, 11002S00, 11002S01, 11002S02, 11002S03, 11002S04, 11002S05, 11002S30, 11002S31, 11002T00, 11002T01, 11002T02, 11002T05;<br>
+2° 11002A01, 11002F62, 11002H41, 11002H83.<br>
+<br>
+Deze woningbouwgebieden zijn aangeduid op het plan dat als bijlage bij dit besluit wordt opgenomen.<br>
+<br>
+In de woningbouwgebieden bepaald in het eerste lid, 2°, wordt het recht van voorkoop uitsluitend uitgeoefend met het oog op het verlenen van zakelijke rechten op sociale woningen of sociale kavels.<br>
+&nbsp;
 
 ### ART. 2.
 
