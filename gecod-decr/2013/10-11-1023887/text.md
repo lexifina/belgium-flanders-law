@@ -5212,61 +5212,61 @@ Het bedrag, vermeld in punt 1°, a), wordt vanaf het begrotingsjaar 2012 geïnde
 
 <p>&nbsp;</p>
 
-<table class="MsoNormalTable" style="border: 1pt solid windowtext; border-image: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-border-insideh: .75pt outset #222222; mso-border-insidev: .75pt outset #222222; mso-cellspacing: 0cm;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-image:none; border:1pt solid windowtext; mso-border-alt:solid windowtext .5pt; mso-border-insideh:.75pt outset #222222; mso-border-insidev:.75pt outset #222222; mso-cellspacing:0cm; mso-padding-alt:2.25pt 2.25pt 2.25pt 2.25pt">
 	<tbody>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>Vanaf begrotingsjaar 2011</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>SOW</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>106.006.274,49</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>VOWprof</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>388.455.586,86</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>VOWac</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>168.108.359,32</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>VOWun</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>332.386.458,65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>SOZun</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>111.306.588,21</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>VOZun</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>186.768.469,67</p>
 			</td>
 		</tr>
@@ -5284,30 +5284,30 @@ De bedragen, vermeld in deze paragraaf, zijn op indexniveau 2011.<br>
 <br>
 §6. Vanaf het begrotingsjaar 2014 worden voor de componenten SOWprof2014, SOWhko2014 en SOWun2014, vermeld in paragraaf 2, de volgende bedragen vastgelegd:</p>
 
-<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook:1184">
 	<tbody>
 		<tr>
-			<td style="width: 118.8pt; background-color: transparent;">
+			<td style="background-color:transparent; width:118.8pt">
 			<p>1° SOWprof2014</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 148.85pt; background-color: transparent;">
-			<p style="text-align: right;">59.667.613,95 euro;</p>
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; width:148.85pt">
+			<p style="text-align:right">59.667.613,95 euro;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 118.8pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:118.8pt">
 			<p>2° SOWhko2014</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 148.85pt; background-color: transparent;">
-			<p style="text-align: right;">3.845.018,60 euro;</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:148.85pt">
+			<p style="text-align:right">3.845.018,60 euro;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 118.8pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:118.8pt">
 			<p>3° SOWun2014</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 148.85pt; background-color: transparent;">
-			<p style="text-align: right;">42.493.641,94 euro.</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:148.85pt">
+			<p style="text-align:right">42.493.641,94 euro.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -5338,45 +5338,45 @@ In afwijking van het bepaalde in het eerste lid worden voor de begrotingsjaren 2
 
 <p>&nbsp;</p>
 
-<table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-cellspacing: 0cm;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-image:none; border:1pt outset #222222; mso-border-alt:outset #222222 .75pt; mso-cellspacing:0cm; mso-padding-alt:2.25pt 2.25pt 2.25pt 2.25pt">
 	<tbody>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>Begrotingsjaar 2011</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>290.291,99</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>Begrotingsjaar 2012</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>580.583,98</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>Begrotingsjaar 2013</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>870.875,96</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>Begrotingsjaar 2014</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1.161.167,95</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>Vanaf begrotingsjaar 2015</p>
 			</td>
-			<td style="background-color: transparent;">
+			<td style="background-color:transparent">
 			<p>1.451.459,94</p>
 			</td>
 		</tr>
@@ -5392,251 +5392,112 @@ Voor de begrotingsjaren 2012 en 2013 worden de indexeringsbepalingen opgenomen i
 <br>
 Voor het begrotingsjaar 2015 worden de indexeringsbepalingen opgenomen in paragraaf 4, 10 en 12, derde lid, van dit artikel, artikel III.9, § 8, laatste lid, III.21, § 4, eerste lid, en III.21, § 4, eerste lid, in artikel III.123, III.24, § 3, III.34, § 5, tweede lid, III.37, § 1, tweede lid, III.40, § 2, III.43, § 1, derde lid, III.45, § 1, tweede lid, III.59, § 3, III.77, tweede lid, en III.114, § 3, toegepast overeenkomstig de bepaling in paragraaf 9, tweede lid.<br>
 <br>
-§12. De bedragen VOWprof, als vermeld of berekend conform dit artikel, worden ver&shy;meerderd met de volgende bedragen en de bedragen vermeld in paragraaf 1, zijn de volgende (uitgedrukt in euro):</p>
+§12. De bedragen VOWprof, als vermeld of berekend conform dit artikel, worden ver­meerderd met de volgende bedragen en de bedragen vermeld in paragraaf 1, zijn de volgende (uitgedrukt in euro):</p>
 
-<p>&nbsp;</p>
-
-<table class="MsoNormalTable" style="border: currentColor; border-image: none; width: 100%; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="width: 18.2%; height: 6.35pt; background-color: transparent;" rowspan="2">
-			<p style="text-align: center;">begrotingsjaar</p>
-			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: center;">VOWprof</p>
-			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
-			<p style="text-align: center;">VOWprof2014</p>
-			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 45.44%; height: 6.35pt; background-color: transparent;" colspan="2">
-			<p style="text-align: center;">VOWhko2014</p>
-			</td>
+			<td colspan="" rowspan="2>">begrotingsjaar</td>
+			<td>VOWprof</td>
+			<td>VOWprof2014</td>
+			<td colspan="2">VOWhko2014</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 12.6pt; background-color: transparent;">
-			<p style="text-align: center;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 12.6pt; background-color: transparent;" colspan="2">
-			<p style="text-align: center;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 12.6pt; background-color: transparent;">
-			<p style="text-align: center;">bedrag professionele kunstopleidingen</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 12.6pt; background-color: transparent;">
-			<p style="text-align: center;">bedrag bijzondere weddeschalen</p>
-			</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>bedrag professionele kunstopleidingen</td>
+			<td>bedrag bijzondere weddeschalen</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
-			<p>2012</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.18%; height: 6.35pt; background-color: transparent;" colspan="2">
-			<p>&nbsp;&nbsp; 800.000</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.18%; height: 6.35pt; background-color: transparent;">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p>&nbsp;</p>
-			</td>
+			<td>2012</td>
+			<td>800.000</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
-			<p>2013</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.18%; height: 6.35pt; background-color: transparent;" colspan="2">
-			<p>5.200.000</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.18%; height: 6.35pt; background-color: transparent;">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p>&nbsp;</p>
-			</td>
+			<td>2013</td>
+			<td>5.200.000</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
-			<p>2014</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
-			<p>&nbsp; 7.500.000</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">100.000</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">&nbsp;</p>
-			</td>
+			<td>2014</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;7.500.000</td>
+			<td>100.000</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
-			<p>2015</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
-			<p>10.900.000</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">100.000</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">900.000</p>
-			</td>
+			<td>2015</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;10.900.000</td>
+			<td>100.000</td>
+			<td>900.000</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
-			<p>2016</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
-			<p>14.300.000</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">100.000</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">3.700.000</p>
-			</td>
+			<td>2016</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;14.300.000</td>
+			<td>100.000</td>
+			<td>3.700.000</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
-			<p>2017</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
-			<p>17.666.520</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">100.000</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">3.700.000</p>
-			</td>
+			<td>2017</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;17.666.520</td>
+			<td>100.000</td>
+			<td>3.700.000</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
-			<p>2018</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
-			<p>20.966.520</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">100.000</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">3.700.000</p>
-			</td>
+			<td>2018</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;20.966.520</td>
+			<td>100.000</td>
+			<td>3.700.000</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
-			<p>2019</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
-			<p>24.366.520</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">100.000</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">3.700.000</p>
-			</td>
+			<td>2019</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;24.366.520</td>
+			<td>100.000</td>
+			<td>3.700.000</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
-			<p>2020</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
-			<p>27.766.520</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">100.000</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">3.700.000</p>
-			</td>
+			<td>2020</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;27.766.520</td>
+			<td>100.000</td>
+			<td>3.700.000</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
-			<p>2021</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
-			<p>31.166.520</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">100.000</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">3.700.000</p>
-			</td>
+			<td>2021</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;27.766.520</td>
+			<td>100.000</td>
+			<td>3.700.000</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
-			<p>2022</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
-			<p>34.566.520</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">100.000</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">3.700.000</p>
-			</td>
+			<td>2022</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;31.166.520</td>
+			<td>100.000</td>
+			<td>3.700.000</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
-			<p>vanaf 2023</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
-			<p>37.066.520</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">100.000</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: right;">3.700.000</p>
-			</td>
+			<td>2023</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;34.566.520</td>
+			<td>100.000</td>
+			<td>3.700.000</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">&nbsp;</td>
-			<td style="background-color: transparent;">&nbsp;</td>
-			<td style="background-color: transparent;">&nbsp;</td>
-			<td style="background-color: transparent;">&nbsp;</td>
-			<td style="background-color: transparent;">&nbsp;</td>
-			<td style="background-color: transparent;">&nbsp;</td>
+			<td>vanaf 2024</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;37.066.520</td>
+			<td>100.000</td>
+			<td>3.700.000</td>
 		</tr>
 	</tbody>
 </table>
@@ -5649,22 +5510,20 @@ Vanaf het begrotingsjaar 2014 wordt jaarlijks een bedrag toegevoegd van 1.254.05
 Het bedrag dat nodig is voor de aanpassing van de regeling van de bijzondere weddeschalen, wordt alleen toegekend als er een generieke regeling is uitgewerkt voor de uitoefening van nevenactiviteiten in het hoger onderwijs.<br>
 <br>
 §13. De bedragen VOWun en VOZun, als vermeld of berekend conform dit artikel, worden vermeerderd met de volgende bedragen en de bedragen, vermeld in paragraaf 2, zijn de volgende (uitgedrukt in euro):</p>
-&nbsp;
 
 <table border="1">
 	<tbody>
 		<tr>
 			<td>Begrotingsjaar</td>
 			<td>VOWun</td>
-			<td>VOWun 2014</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;VOZun</td>
-			<td>VOZun 2014</td>
+			<td colspan="2">VOWun2014</td>
+			<td>VOZun</td>
+			<td>VOZun2014</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;ZAP</td>
-			<td>Puntengewichten</td>
+			<td>Punten- gewichten</td>
 			<td>ZAP</td>
 			<td>ZAP</td>
 			<td>ZAP</td>
@@ -5744,13 +5603,21 @@ Het bedrag dat nodig is voor de aanpassing van de regeling van de bijzondere wed
 		<tr>
 			<td>2021</td>
 			<td>&nbsp;</td>
+			<td>&nbsp;7.519.000</td>
+			<td>12.186.000</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;9.971.000</td>
+		</tr>
+		<tr>
+			<td>2022</td>
+			<td>&nbsp;</td>
 			<td>&nbsp;8.519.000</td>
 			<td>13.726.000</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;11.231.000</td>
 		</tr>
 		<tr>
-			<td>2022</td>
+			<td>2023</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;9.519.000</td>
 			<td>15.321.000</td>
@@ -5758,7 +5625,7 @@ Het bedrag dat nodig is voor de aanpassing van de regeling van de bijzondere wed
 			<td>&nbsp;12.536.000</td>
 		</tr>
 		<tr>
-			<td>2023</td>
+			<td>2024</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;11.219.000</td>
 			<td>16.476.000</td>
@@ -5766,7 +5633,7 @@ Het bedrag dat nodig is voor de aanpassing van de regeling van de bijzondere wed
 			<td>&nbsp;13.481.000</td>
 		</tr>
 		<tr>
-			<td>vanaf 2024</td>
+			<td>vanaf 2025</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;11.700.000</td>
 			<td>17.270.000</td>
@@ -5823,7 +5690,9 @@ Vanaf het begrotingsjaar 2025 kan het bedrag voor VOWhbo, vermeld in deze paragr
 <br>
 Vanaf het begrotingsjaar 2025 wordt het bedrag voor VOWhbo, vermeld in deze paragraaf, geïndexeerd aan de hand van de indexformule, vermeld in paragraaf 9.<br>
 <br>
-§ 18. In het begrotingsjaar 2020 wordt het bedrag VOWprof, vermeld in of berekend conform dit artikel, vermeerderd met 4.000.000 euro.
+§ 18. In het begrotingsjaar 2020 wordt het bedrag VOWprof, vermeld in of berekend conform dit artikel, vermeerderd met 4.000.000 euro.<br>
+<br>
+§ 19. In het begrotingsjaar 2021 wordt het bedrag VOWprof, vermeld in of berekend conform dit artikel, vermeerderd met 8.000.000 euro.
 
 ### ART. III.6.
 
@@ -5879,7 +5748,11 @@ In het variabel onderwijsdeel VOWac is de waarde van een financieringspunt in he
 
 ### ART. III.6/1.
 
-In afwijking van artikel III.6, § 1, § 2 en § 3, van deze codex, evolueren   in de begrotingsjaren 2015 en 2016 de bedragen van de variabele onderwijsdelen   niet als het aantal opgenomen studiepunten in het desbetreffende variabele   onderwijsdeel berekend voor de begrotingsjaren 2015 en 2016 toeneemt met ten   minste 2% ten opzichte van de referentiepunten. Er worden ook geen nieuwe   referentiepunten vastgelegd bij een eventuele stijging van 2% of meer van het   aantal opgenomen studiepunten voor het desbetreffende variabele   onderwijsdeel.
+In afwijking van artikel III.6, § 1, § 2 en § 3, van deze codex, evolueren in de begrotingsjaren 2015 en 2016 de bedragen van de variabele onderwijsdelen niet als het aantal opgenomen studiepunten in het desbetreffende variabele onderwijsdeel berekend voor de begrotingsjaren 2015 en 2016 toeneemt met ten minste 2% ten opzichte van de referentiepunten. Er worden ook geen nieuwe referentiepunten vastgelegd bij een eventuele stijging van 2% of meer van het aantal opgenomen studiepunten voor het desbetreffende variabele onderwijsdeel.<br>
+<br>
+In afwijking van artikel III.6, § 1, § 2 en § 3, van deze codex, evolueren in het begrotingsjaar 2021 de bedragen van de variabele onderwijsdelen VOWun en VOWac niet als het aantal opgenomen studiepunten in het desbetreffende variabele onderwijsdeel berekend voor het begrotingsjaar 2021 toeneemt met ten minste 2% ten opzichte van de referentiepunten. Er worden ook geen nieuwe referentiepunten vastgelegd bij een eventuele stijging van 2% of meer van het aantal opgenomen studiepunten voor het desbetreffende variabele onderwijsdeel.<br>
+<br>
+Onder VOWun, vermeld in het vorige lid, wordt begrepen VOWun vermeerderd met het bedrag uit de kolom VOWun2014ZAP, zoals vermeld in paragraaf 2 van artikel III.6. Onder VOWac, vermeld in het vorige lid, wordt begrepen VOWac ver- minderd met het bedrag van het variabele onderwijsdeel VOWhko en vermeerderd met het bedrag uit de kolom VOWun2014puntengewichten, vermeld in paragraaf 2 van artikel III.6.
 
 ## Onderafdeling 2 De onderwijssokkel
 
@@ -6984,6 +6857,11 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 <br>
 6° In afwijking van punt 1°, c), bedraagt voor het begrotingsjaar 2020 het puntengewicht voor het studiegebied Industriële Wetenschappen en Technologie 1,25. In afwijking van punt 1°, i), bedraagt voor het begrotingsjaar 2020 het puntengewicht voor het studiegebied Handelswetenschappen en Bedrijfskunde 1,01.<br>
 <br>
+7° in afwijking van punt 1°, c), bedraagt voor het begrotingsjaar 2021 het puntengewicht voor het studiegebied Industriële wetenschappen en technologie 1,25.<br>
+In afwijking van punt 1°, i), bedraagt voor het begrotingsjaar 2021 het puntengewicht voor het studiegebied Handelswetenschappen en bedrijfskunde 1,01;<br>
+<br>
+8° in afwijking van punt 1°, i), bedraagt voor het begrotingsjaar 2021 het puntengewicht voor de bacheloropleiding "bachelor in de toegepaste informatica" 1,25.<br>
+<br>
 § 1/1. In het begrotingsjaar 2014 bedraagt het puntengewicht voor de doctoraten in het studiegebied Nautische wetenschappen 3.<br>
 Voor de berekening van het variabele onderzoeksdeel, vermeld in artikel III.22, worden met ingang van het begrotingsjaar 2015 voor de weging van het aantal doctoraatsdiploma's de volgende puntengewichten gebruikt:</p>
 &nbsp;
@@ -7208,229 +7086,229 @@ Als in de begrotingsjaren 2008 tot en met 2013 de som van de werkingsuitkeringen
 <br>
 §2. De volgende gegarandeerde minimumbedragen worden vastgelegd voor de hogescholen en de universiteiten :</p>
 
-<table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-image:none; border:1pt outset #222222; mso-border-alt:outset #222222 .75pt; mso-cellspacing:0cm; mso-padding-alt:2.25pt 2.25pt 2.25pt 2.25pt">
 	<tbody>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>Instelling</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>gegarandeerd minimum (uitgedrukt in EUR)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>1° Arteveldehogeschool</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;39.172.027,94</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>2° Erasmushogeschool Brussel</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;28.221.507,42</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>3° Hogeschool Antwerpen</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;44.770.310,04</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>4° Hogeschool Gent</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;74.423.088,34</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>5° Hogeschool Sint-Lukas Brussel</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;&nbsp; 7.340.568,70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>6° LUCA School of Arts</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;38.412.534,58</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>7° Hogeschool West-Vlaanderen</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;19.816.734,54</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>8° Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;40.252.379,35</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>9° Katholieke Hogeschool Brugge-Oostende</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;17.798.398,64</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>10° Thomas More Kempen</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;31.364.082,66</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>11° Katholieke Hogeschool Leuven</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;27.088.744,74</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>12° Katholieke Hogeschool Limburg</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;29.971.388,38</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>13° Thomas More Mechelen</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;19.961.758,26</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>14° Katholieke Hogeschool Sint-Lieven</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;26.915.201,11</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>15° Katholieke Hogeschool Zuid-West-Vlaanderen</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;29.164.438,69</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>16° Thomas More Antwerpen</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;13.008.546,51</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>17° Plantijn-Hogeschool</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;13.941.258,15</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>18° Provinciale Hogeschool Limburg</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;20.857.698,06</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>19° GROEP T - Internationale Hogeschool Leuven</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;10.766.708,92</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>20° HUB-EHSAL</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;21.305.296,34</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>21° XIOS Hogeschool Limburg</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;15.193.074,25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>22° HUB-KUBrussel</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp;&nbsp; 5.502.000,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>23° KULeuven</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>222.899.082,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>24° UGent</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>196.584.425,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>25° Universiteit Antwerpen</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp; 85.954.139,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>26° VUB</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp; 78.279.046,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 258.15pt; background-color: transparent;">
+			<td style="background-color:transparent; width:258.15pt">
 			<p>27° UHasselt/tUL</p>
 			</td>
-			<td style="width: 7cm; background-color: transparent;">
+			<td style="background-color:transparent; width:7cm">
 			<p>&nbsp; 24.528.509,00<br>
 			&nbsp;</p>
 			</td>
@@ -7463,13 +7341,11 @@ Vanaf het begrotingsjaar 2019 worden de totale werkingsmiddelen van de hogeschol
 <br>
 De bedragen, vermeld in het eerste en het tweede lid, worden vanaf het begrotingsjaar 2020 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.<br>
 <br>
-§ 9. Vanaf het begrotingsjaar 2020 worden de totale werkingsmiddelen van de hoge-scholen (inclusief de Hogere Zeevaartschool) met 4.390.165 euro vermeerderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke hogeschool in de totale werkingsmiddelen.<br>
+§ 9. In het begrotingsjaar 2020 worden de totale werkingsmiddelen van de hoge-scholen (inclusief de Hogere Zeevaartschool) met 4.390.165 euro vermeerderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke hogeschool in de totale werkingsmiddelen.<br>
 <br>
-Het bedrag, vermeld in het eerste lid, wordt vanaf het begrotingsjaar 2021 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.<br>
+§ 10. Vanaf het begrotingsjaar 2021 worden de totale werkingsmiddelen van de hogescholen (inclusief de Hogere Zeevaartschool) met 6.468.329,21 euro vermeerderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke hogeschool in de totale werkingsmiddelen.<br>
 <br>
-§ 10. Vanaf het begrotingsjaar 2021 worden de totale werkingsmiddelen van de hogescholen (inclusief de Hogere Zeevaartschool) met 5.092.455 euro vermeerderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke hogeschool in de totale werkingsmiddelen.<br>
-<br>
-Vanaf het begrotingsjaar 2021 worden de totale werkingsmiddelen van de universiteiten met 7.119.565 euro vermeerderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke universiteit in de totale werkingsmiddelen.<br>
+Vanaf het begrotingsjaar 2021 worden de totale werkingsmiddelen van de universiteiten met 8.842.117,00 euro vermeerderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke universiteit in de totale werkingsmiddelen.<br>
 <br>
 De bedragen, vermeld in het eerste en het tweede lid, worden vanaf het begrotingsjaar 2022 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.</p>
 
@@ -7806,7 +7682,165 @@ c. de betaling van andere uitgaven ten voordele van het Vlaamse hoger onderwijs.
 
 ### ART. III.39.
 
-<P style="MARGIN: 0cm 0cm 0pt">§1. Vanaf het begrotingsjaar 2014 ontvangen de   hogescholen een uitkering van 7.616.782,04 euro als aanvullende   onderzoeksmiddelen voor de academisch gerichte kunstopleidingen in de Schools of   Arts. Dit bedrag wordt vanaf het begrotingsjaar 2013 geïndexeerd aan de hand van   de indexformule, vermeld in artikel III.5, §9.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het bedrag, vermeld in het eerste lid, wordt   vermeerderd met de volgende bedragen: </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <TABLE class=MsoNormalTable   style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; mso-table-layout-alt: fixed; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt"   cellSpacing=0 cellPadding=0 border=1>    <TBODY>    <TR style="HEIGHT: 12.6pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-TOP: windowtext 1pt solid; HEIGHT: 12.6pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt"       vAlign=top width=141>        <P>begrotingsjaar </P></TD>      <TD       style="BORDER-TOP: windowtext 1pt solid; HEIGHT: 12.6pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=141>        <P style="TEXT-ALIGN: center" align=center>bedrag (uitgedrukt in miljoen         euro)</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 1">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P>2014</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P style="TEXT-ALIGN: center" align=center>&nbsp; 2,18</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 2">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P>2015</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P style="TEXT-ALIGN: center" align=center>&nbsp; 3,16</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 3">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P>2016</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P style="TEXT-ALIGN: center" align=center>&nbsp; 4,13</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 4">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P>2017</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P style="TEXT-ALIGN: center" align=center>&nbsp; 5,11</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 5">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P>2018</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P style="TEXT-ALIGN: center" align=center>&nbsp; 6,41</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 6">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P>2019</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P style="TEXT-ALIGN: center" align=center>&nbsp; 7,71</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 7">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P>2020</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P style="TEXT-ALIGN: center" align=center>&nbsp; 9,01</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 8">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P>2021</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P style="TEXT-ALIGN: center" align=center>10,31</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 9">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P>2022</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P style="TEXT-ALIGN: center" align=center>11,61</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 10; mso-yfti-lastrow: yes">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P>vanaf 2023</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 105.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=141>        <P style="TEXT-ALIGN: center" align=center>12,93</P></TD></TR></TBODY></TABLE>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het bedrag dat in het begrotingsjaar t nominaal   wordt toegevoegd, zijnde het verschil tussen het bedrag voor het begrotingsjaar   t en het bedrag voor het begrotingsjaar t-1, vermeld in het tweede lid, wordt   vanaf het begrotingsjaar t+1 geïndexeerd aan de hand van de indexformule,   vermeld in artikel III.5, §9. Voor het berekenen van de nominale toename worden   de bedragen vermeld in de artikelen III.37, §3, 1°, en III.38, §2, 1°, en de   bedragen vermeld in het tweede lid als 1 geheel beschouwd.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§2. De bedragen, vermeld in paragraaf 1, worden   onder de hogescholen verdeeld naar rato van het aantal opgenomen studiepunten en   het aantal uitgereikte diploma’s in de academisch gerichte kunstopleidingen.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Voor de vaststelling van het aantal opgenomen   studiepunten in de academisch gerichte kunstopleidingen in een hogeschool wordt   voor het begrotingsjaar t het gemiddelde aantal studiepunten in aanmerking   genomen over de academiejaren t-7/t-6 tot en met t-3/t-2 waarvoor studenten   onder diplomacontract zich hebben ingeschreven voor een academische initiële   bachelor- of masteropleiding binnen een School of Arts.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Voor de vaststelling van het aantal uitgereikte   diploma’s in de academisch gerichte kunstopleidingen in een hogeschool wordt   voor het begrotingsjaar t het gemiddelde aantal uitgereikte diploma’s in   aanmerking genomen over de academiejaren t-7/t-6 tot en met t-3/t-2 in een   academische initiële bachelor- of masteropleiding binnen een School of Arts.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Zowel het aantal opgenomen studiepunten als het   aantal uitgereikte diploma’s wordt voor 50% meegerekend.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§3. Vanaf het begrotingsjaar 2014 ontvangen de   universiteiten een uitkering van 23.514.788,22 euro als aanvullende   onderzoeksmiddelen voor de academisch gerichte hogeschoolopleidingen die met   ingang van het academiejaar 2013-2014 geïntegreerd zijn in de universiteiten.   Dat bedrag wordt vanaf het begrotingsjaar 2013 geïndexeerd aan de hand van de   indexformule, vermeld in artikel III.5, §9.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het bedrag, vermeld in het eerste lid, wordt   vermeerderd met de volgende bedragen (uitgedrukt in miljoen euro):</P>  <P style="MARGIN: 0cm 0cm 0pt">  <TABLE border=1>    <TBODY>    <TR>      <TD>Begrotingsjaar       <TD>Bedrag (uitgedrukt in miljoen euro)<BR>    <TR>      <TD>2014       <TD>12,82<BR>    <TR>      <TD>2015       <TD>18,64<BR>    <TR>      <TD>2016       <TD>21,61<BR>    <TR>      <TD>2017       <TD>27,43<BR>    <TR>      <TD>2018       <TD>32,73<BR>    <TR>      <TD>2019       <TD>38,23<BR>    <TR>      <TD>2020       <TD>43,53<BR>    <TR>      <TD>2021       <TD>48,83<BR>    <TR>      <TD>2022       <TD>54,33<BR>    <TR>      <TD>2023       <TD>58,01<BR>    <TR>      <TD>vanaf 2024       <TD>60,67</TD></TR></TBODY></TABLE><BR>Het bedrag dat in het begrotingsjaar t   nominaal wordt toegevoegd, zijnde het verschil tussen het bedrag voor het   begrotingsjaar t en het bedrag voor het begrotingsjaar t-1, vermeld in het   tweede lid, wordt vanaf het begrotingsjaar t+1 geïndexeerd aan de hand van de   indexformule, vermeld in artikel III.5, §9. Voor het berekenen van de nominale   toename worden de bedragen vermeld in de artikelen III.37, §3, 2°, en III.38,   §2, 2°, en de bedragen vermeld in het tweede lid als 1 geheel beschouwd.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§4. De bedragen, vermeld in paragraaf 3, worden   onder de universiteiten verdeeld naar rato van het aantal opgenomen studiepunten   en het aantal uitgereikte diploma’s in de academisch gerichte opleidingen   waarvan de onderwijsbevoegdheid met ingang van het academiejaar 2013-2014   overgedragen is van de hogescholen aan de universiteiten.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Voor de vaststelling van het aantal opgenomen   studiepunten in een universiteit wordt voor het begrotingsjaar t het gemiddelde   aantal studiepunten in aanmerking genomen over de academiejaren t-7/t-6 tot en   met t-3/t-2 waarvoor studenten onder diplomacontract zich hebben ingeschreven   voor een academische initiële bachelor- of masteropleiding waarvan de   onderwijsbevoegdheid met ingang van het academiejaar 2013-2014 overgedragen is   aan de desbetreffende universiteit.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Voor de vaststelling van het aantal uitgereikte   diploma’s in een universiteit wordt voor het begrotingsjaar t het gemiddelde   aantal uitgereikte diploma’s in aanmerking genomen over de academiejaren t-7/t-6   tot en met t-3/t-2 in een academische initiële bachelor- of masteropleiding   waarvan de onderwijsbevoegdheid met ingang van het academiejaar 2013-2014   overgedragen is aan de desbetreffende universiteit.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Voor de vaststelling van het aantal opgenomen   studiepunten en van het aantal uitgereikte diploma’s, vermeld in het tweede en   derde lid, worden de opgenomen studiepunten en de uitgereikte diploma’s in de   academische initiële bachelor- of masteropleidingen, waarvan de   onderwijsbevoegdheid met ingang van het academiejaar 2013-2014 overgedragen is   aan een universiteit, geacht behoord te hebben bij de ontvangende universiteit   tijdens de relevante academiejaren, nodig voor de berekening van het vijfjarige   gemiddelde.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Zowel het aantal opgenomen studiepunten als het   aantal uitgereikte diploma’s wordt voor 50% meegerekend.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§5. In afwijking van paragraaf 2 en 4 kan vanaf   het begrotingsjaar 2019 de jaarlijkse toename van de aanvullende   onderzoeksmiddelen verdeeld worden op basis van outputindicatoren. De Vlaamse   Regering stelt daarvoor een werkgroep samen die uiterlijk tegen 30 juni 2015 een   voorstel uitwerkt. Op basis van dat voorstel legt de Vlaamse Regering tegen 1   januari 2016 de concrete verdelingswijze vast, alsook de lijst van   outputindicatoren.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§6. De middelen, vermeld in dit artikel, worden   met behoud van bestemming toegevoegd aan de werkingsuitkering.<BR><BR>§ 7. De   bedragen van de aanvullende onderzoeksmiddelen, berekend overeenkomstig dit   artikel, met uitzondering van de bedragen vermeld in paragraaf 1 en paragraaf 3   die vanaf 2015 toegevoegd worden, worden vanaf het begrotingsjaar 2015 met 2 %   verminderd.<BR><BR>§ 8. De bedragen van de aanvullende onderzoeksmiddelen,   berekend overeenkomstig dit artikel, met uitzondering van de bedragen vermeld in   paragraaf 1 en paragraaf 3 die vanaf 2015 toegevoegd worden, worden vanaf het   begrotingsjaar 2016 bijkomend met 1% verminderd.</P>
+<p style="margin-left:0cm; margin-right:0cm">§1. Vanaf het begrotingsjaar 2014 ontvangen de hogescholen een uitkering van 7.616.782,04 euro als aanvullende onderzoeksmiddelen voor de academisch gerichte kunstopleidingen in de Schools of Arts. Dit bedrag wordt vanaf het begrotingsjaar 2013 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, wordt vermeerderd met de volgende bedragen:</p>
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>begrotingsjaar</td>
+			<td>bedrag (uitgedrukt in miljoen euro)</td>
+		</tr>
+		<tr>
+			<td>2014</td>
+			<td>2,18</td>
+		</tr>
+		<tr>
+			<td>2015</td>
+			<td>3,16</td>
+		</tr>
+		<tr>
+			<td>2016</td>
+			<td>4,13</td>
+		</tr>
+		<tr>
+			<td>2017</td>
+			<td>5,11</td>
+		</tr>
+		<tr>
+			<td>2018</td>
+			<td>6,41</td>
+		</tr>
+		<tr>
+			<td>2019</td>
+			<td>7,71</td>
+		</tr>
+		<tr>
+			<td>2020</td>
+			<td>9,01</td>
+		</tr>
+		<tr>
+			<td>2021</td>
+			<td>9,01</td>
+		</tr>
+		<tr>
+			<td>2022</td>
+			<td>10,31</td>
+		</tr>
+		<tr>
+			<td>2023</td>
+			<td>11,61</td>
+		</tr>
+		<tr>
+			<td>vanaf 2024</td>
+			<td>12,93</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-left:0cm; margin-right:0cm"><br>
+Het bedrag dat in het begrotingsjaar t nominaal wordt toegevoegd, zijnde het verschil tussen het bedrag voor het begrotingsjaar t en het bedrag voor het begrotingsjaar t-1, vermeld in het tweede lid, wordt vanaf het begrotingsjaar t+1 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9. Voor het berekenen van de nominale toename worden de bedragen vermeld in de artikelen III.37, §3, 1°, en III.38, §2, 1°, en de bedragen vermeld in het tweede lid als 1 geheel beschouwd.</p>
+
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm">§2. De bedragen, vermeld in paragraaf 1, worden onder de hogescholen verdeeld naar rato van het aantal opgenomen studiepunten en het aantal uitgereikte diploma’s in de academisch gerichte kunstopleidingen.</p>
+
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm">Voor de vaststelling van het aantal opgenomen studiepunten in de academisch gerichte kunstopleidingen in een hogeschool wordt voor het begrotingsjaar t het gemiddelde aantal studiepunten in aanmerking genomen over de academiejaren t-7/t-6 tot en met t-3/t-2 waarvoor studenten onder diplomacontract zich hebben ingeschreven voor een academische initiële bachelor- of masteropleiding binnen een School of Arts.</p>
+
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm">Voor de vaststelling van het aantal uitgereikte diploma’s in de academisch gerichte kunstopleidingen in een hogeschool wordt voor het begrotingsjaar t het gemiddelde aantal uitgereikte diploma’s in aanmerking genomen over de academiejaren t-7/t-6 tot en met t-3/t-2 in een academische initiële bachelor- of masteropleiding binnen een School of Arts.</p>
+
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm">Zowel het aantal opgenomen studiepunten als het aantal uitgereikte diploma’s wordt voor 50% meegerekend.</p>
+
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm">§3. Vanaf het begrotingsjaar 2014 ontvangen de universiteiten een uitkering van 23.514.788,22 euro als aanvullende onderzoeksmiddelen voor de academisch gerichte hogeschoolopleidingen die met ingang van het academiejaar 2013-2014 geïntegreerd zijn in de universiteiten. Dat bedrag wordt vanaf het begrotingsjaar 2013 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, wordt vermeerderd met de volgende bedragen (uitgedrukt in miljoen euro):</p>
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>begrotingsjaar</td>
+			<td>bedrag (uitgedrukt in miljoen euro)</td>
+		</tr>
+		<tr>
+			<td>2014</td>
+			<td>12,82</td>
+		</tr>
+		<tr>
+			<td>2015</td>
+			<td>18,64</td>
+		</tr>
+		<tr>
+			<td>2016</td>
+			<td>21,61</td>
+		</tr>
+		<tr>
+			<td>2017</td>
+			<td>27,43</td>
+		</tr>
+		<tr>
+			<td>2018</td>
+			<td>32,73</td>
+		</tr>
+		<tr>
+			<td>2019</td>
+			<td>38,23</td>
+		</tr>
+		<tr>
+			<td>2020</td>
+			<td>43,53</td>
+		</tr>
+		<tr>
+			<td>2021</td>
+			<td>43,53</td>
+		</tr>
+		<tr>
+			<td>2022</td>
+			<td>48,83</td>
+		</tr>
+		<tr>
+			<td>2023</td>
+			<td>54,33</td>
+		</tr>
+		<tr>
+			<td>2024</td>
+			<td>58,01</td>
+		</tr>
+		<tr>
+			<td>vanaf 2025</td>
+			<td>60,67</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<br>
+Het bedrag dat in het begrotingsjaar t nominaal wordt toegevoegd, zijnde het verschil tussen het bedrag voor het begrotingsjaar t en het bedrag voor het begrotingsjaar t-1, vermeld in het tweede lid, wordt vanaf het begrotingsjaar t+1 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9. Voor het berekenen van de nominale toename worden de bedragen vermeld in de artikelen III.37, §3, 2°, en III.38, §2, 2°, en de bedragen vermeld in het tweede lid als 1 geheel beschouwd.<br>
+<br>
+§4. De bedragen, vermeld in paragraaf 3, worden onder de universiteiten verdeeld naar rato van het aantal opgenomen studiepunten en het aantal uitgereikte diploma’s in de academisch gerichte opleidingen waarvan de onderwijsbevoegdheid met ingang van het academiejaar 2013-2014 overgedragen is van de hogescholen aan de universiteiten.<br>
+<br>
+Voor de vaststelling van het aantal opgenomen studiepunten in een universiteit wordt voor het begrotingsjaar t het gemiddelde aantal studiepunten in aanmerking genomen over de academiejaren t-7/t-6 tot en met t-3/t-2 waarvoor studenten onder diplomacontract zich hebben ingeschreven voor een academische initiële bachelor- of masteropleiding waarvan de onderwijsbevoegdheid met ingang van het academiejaar 2013-2014 overgedragen is aan de desbetreffende universiteit.<br>
+<br>
+Voor de vaststelling van het aantal uitgereikte diploma’s in een universiteit wordt voor het begrotingsjaar t het gemiddelde aantal uitgereikte diploma’s in aanmerking genomen over de academiejaren t-7/t-6 tot en met t-3/t-2 in een academische initiële bachelor- of masteropleiding waarvan de onderwijsbevoegdheid met ingang van het academiejaar 2013-2014 overgedragen is aan de desbetreffende universiteit.<br>
+<br>
+Voor de vaststelling van het aantal opgenomen studiepunten en van het aantal uitgereikte diploma’s, vermeld in het tweede en derde lid, worden de opgenomen studiepunten en de uitgereikte diploma’s in de academische initiële bachelor- of masteropleidingen, waarvan de onderwijsbevoegdheid met ingang van het academiejaar 2013-2014 overgedragen is aan een universiteit, geacht behoord te hebben bij de ontvangende universiteit tijdens de relevante academiejaren, nodig voor de berekening van het vijfjarige gemiddelde.<br>
+<br>
+Zowel het aantal opgenomen studiepunten als het aantal uitgereikte diploma’s wordt voor 50% meegerekend.<br>
+<br>
+§5. In afwijking van paragraaf 2 en 4 kan vanaf het begrotingsjaar 2019 de jaarlijkse toename van de aanvullende onderzoeksmiddelen verdeeld worden op basis van outputindicatoren. De Vlaamse Regering stelt daarvoor een werkgroep samen die uiterlijk tegen 30 juni 2015 een voorstel uitwerkt. Op basis van dat voorstel legt de Vlaamse Regering tegen 1 januari 2016 de concrete verdelingswijze vast, alsook de lijst van outputindicatoren.<br>
+<br>
+§6. De middelen, vermeld in dit artikel, worden met behoud van bestemming toegevoegd aan de werkingsuitkering.<br>
+<br>
+§ 7. De bedragen van de aanvullende onderzoeksmiddelen, berekend overeenkomstig dit artikel, met uitzondering van de bedragen vermeld in paragraaf 1 en paragraaf 3 die vanaf 2015 toegevoegd worden, worden vanaf het begrotingsjaar 2015 met 2 % verminderd.<br>
+<br>
+§ 8. De bedragen van de aanvullende onderzoeksmiddelen, berekend overeenkomstig dit artikel, met uitzondering van de bedragen vermeld in paragraaf 1 en paragraaf 3 die vanaf 2015 toegevoegd worden, worden vanaf het begrotingsjaar 2016 bijkomend met 1% verminderd.
 
 ### ART. III.40.
 
@@ -7971,103 +8005,59 @@ Vanaf het begrotingsjaar 2017 wordt een bedrag van minstens 10.000.000 euro toeg
 <br>
 §2. De bedragen, vermeld in paragraaf 1, worden vermeerderd met de volgende bedragen (uitgedrukt in miljoen euro):</p>
 
-<table class="MsoNormalTable" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-table-layout-alt: fixed; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="width: 102.6pt; height: 12.6pt; background-color: transparent;">
-			<p>begrotingsjaar</p>
-			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 12.6pt; background-color: transparent;">
-			<p style="text-align: center;">bedrag (uitgedrukt in miljoen euro)</p>
-			</td>
+			<td>begrotingsjaar</td>
+			<td>bedrag (uitgedrukt in miljoen euro)</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p>2013</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: center;">0,6</p>
-			</td>
+			<td>2013</td>
+			<td>0,6</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p>2014</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: center;">1,1</p>
-			</td>
+			<td>2014</td>
+			<td>1,1</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p>2015</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: center;">1,5</p>
-			</td>
+			<td>2015</td>
+			<td>1,5</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p>2016</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: center;">2,0</p>
-			</td>
+			<td>2016</td>
+			<td>2,0</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p>2017</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: center;">2,5</p>
-			</td>
+			<td>2017</td>
+			<td>2,5</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p>2018</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: center;">3,0</p>
-			</td>
+			<td>2018</td>
+			<td>3,0</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p>2019</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: center;">3,4</p>
-			</td>
+			<td>2019</td>
+			<td>3,4</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p>2020</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: center;">3,9</p>
-			</td>
+			<td>2020</td>
+			<td>3,9</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p>2021</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: center;">4,5</p>
-			</td>
+			<td>2021</td>
+			<td>3,9</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p>2022</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: center;">4,8</p>
-			</td>
+			<td>2022</td>
+			<td>4,5</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p>vanaf 2023</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
-			<p style="text-align: center;">5,2</p>
-			</td>
+			<td>2023</td>
+			<td>4,8</td>
+		</tr>
+		<tr>
+			<td>vanaf 2024</td>
+			<td>5,2</td>
 		</tr>
 	</tbody>
 </table>
@@ -9256,25 +9246,25 @@ Het bedrag voor de Antwerp Management School, berekend overeenkomstig dit artike
 
 ### ART. III.119.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. De Vlaamse Regering kan in de vorm van een jaarlijkse toelage bijdragen in de financiering van de hogere instituten voor schone kunsten en van instellingen die excellente kunstopleidingen organiseren.<br>
+<p style="margin-left:0cm; margin-right:0cm">§1. De Vlaamse Regering kan in de vorm van een jaarlijkse toelage bijdragen in de financiering van de hogere instituten voor schone kunsten en van instellingen die excellente kunstopleidingen organiseren.<br>
 <br>
 Het totale bedrag van de toelage wordt vastgesteld op 3.202.000 euro vanaf 1 januari 2007.<br>
 <br>
 Dit bedrag wordt vanaf het begrotingsjaar 2008 jaarlijks op de volgende wijze aangepast :</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">0,8 x (Ln/L07) + (Cn/C07) waarbij :</p>
+<p style="margin-left:0cm; margin-right:0cm">0,8 x (Ln/L07) + (Cn/C07) waarbij :</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">- Ln/L07 gelijk is aan de verhouding tussen de geraamde index van de eenheidsloonkosten op het einde van het betrokken begrotingsjaar en de index van de eenheidsloonkosten op het einde van het begrotingsjaar 2007;</p>
+<p style="margin-left:0cm; margin-right:0cm">- Ln/L07 gelijk is aan de verhouding tussen de geraamde index van de eenheidsloonkosten op het einde van het betrokken begrotingsjaar en de index van de eenheidsloonkosten op het einde van het begrotingsjaar 2007;</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">- Cn/C07 gelijk is aan de verhouding tussen de geraamde index van de consumptieprijzen op het einde van het betrokken begrotingsjaar en de index van de consumptieprijzen op het einde van het begrotingsjaar 2007.<br>
+<p style="margin-left:0cm; margin-right:0cm">- Cn/C07 gelijk is aan de verhouding tussen de geraamde index van de consumptieprijzen op het einde van het betrokken begrotingsjaar en de index van de consumptieprijzen op het einde van het begrotingsjaar 2007.<br>
 <br>
 De indexformule vermeld in het derde lid wordt in het begrotingsjaar 2010 niet toegepast.<br>
 <br>
 Voor de begrotingsjaren 2012, 2013 en 2015 wordt het bedrag, vermeld in het tweede lid, geïndexeerd aan de hand van de volgende indexformule:</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">0,8 x (Ln/L07) + 0,2 waarbij :</p>
+<p style="margin-left:0cm; margin-right:0cm">0,8 x (Ln/L07) + 0,2 waarbij :</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">- Ln/L07 gelijk is aan de verhouding tussen de geraamde index van de eenheidsloonkosten op het einde van het betrokken begrotingsjaar en de index van de eenheidsloonkosten op het einde van het begrotingsjaar 2007.<br>
+<p style="margin-left:0cm; margin-right:0cm">- Ln/L07 gelijk is aan de verhouding tussen de geraamde index van de eenheidsloonkosten op het einde van het betrokken begrotingsjaar en de index van de eenheidsloonkosten op het einde van het begrotingsjaar 2007.<br>
 <br>
 In de begrotingsjaren 2015 en 2016 wordt een bedrag van 250.000 euro toegevoegd aan de toelage vermeld in deze paragraaf.<br>
 <br>
@@ -9302,7 +9292,16 @@ De besluiten die de Vlaamse Regering neemt in uitvoering van de bepalingen van d
 <br>
 § 6. De bedragen voor de hogere instituten voor schone kunsten en voor de instellingen die excellente kunstopleidingen organiseren, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 2 % verminderd. Voor de berekening van de 2 % worden de bijkomende toelagen van 250.000 euro in 2015 en 2016 en van 400.000 euro vanaf 2018 niet in rekening gebracht.<br>
 <br>
-§ 7. De bedragen voor de hogere instituten voor schone kunsten en voor de instellingen die excellente kunstopleidingen organiseren, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2020 met 265.000 euro verminderd.</p>
+§ 7. De bedragen voor de hogere instituten voor schone kunsten en voor de instellingen die excellente kunstopleidingen organiseren, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2020 met 265.000 euro verminderd.<br>
+<br>
+§ 8. De toelage, vermeld in paragraaf 1 en berekend overeenkomstig dit artikel, wordt in het begrotingsjaar 2021 als volgt verdeeld over de hogere instituten voor schone kunsten en de instellingen die excellente kunstopleidingen organiseren:<br>
+1° de toelage voor P.A.R.T.S. (Performing Arts, Research and Training Studies) wordt vastgesteld op 1.297.000 euro;<br>
+2° de toelage voor het HISK (Hoger Instituut voor Schone Kunsten) wordt vast- gesteld op 1.178.000 euro;<br>
+3° de toelage voor het Orpheus Instituut wordt vastgesteld op 750.000 euro;<br>
+4° de toelage voor de IOA (International Opera Academy) wordt vastgesteld op 497.000 euro;<br>
+5° de toelage voor PoPoK (Posthogeschool voor Podiumkunsten) wordt vastgesteld op 457.000 euro.<br>
+<br>
+De bedragen vermeld in het eerste lid, worden in het begrotingsjaar 2021 geïndexeerd overeenkomstig de bepalingen in paragraaf 1 van dit artikel.</p>
 
 ## TITEL 4 Evaluatie
 
@@ -10787,19 +10786,11 @@ Wanneer er tijdens de mandaatstermijn een einde komt aan het mandaat van een eff
 
 ### ART. V.106.
 
-<p>Voor de toegang tot een ambt van het personeel van de hogescholen gelden de volgende algemene toelatingsvoorwaarden: <!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
-
-<p>1°&nbsp;&nbsp; onderdaan zijn van een lidstaat van de Europese Unie of van de Europese Vrijhandelsassociatie;</p>
-
-<p>2°&nbsp;&nbsp; de burgerlijke en politieke rechten genieten;</p>
-
-<p>3°&nbsp;&nbsp; houder zijn van een vereist bekwaamheidsbewijs;</p>
-
-<p>4°&nbsp;&nbsp; een gedrag hebben dat in overeenstemming is met de eisen van het beoogde ambt;</p>
-
-<p>5°&nbsp;&nbsp; ...;</p>
-
-<p>6°&nbsp;&nbsp; de lichamelijke geschiktheid bezitten die vereist is voor het uit te oefenen ambt.</p>
+<p>Voor de toegang tot een ambt van het personeel van de hogescholen gelden de volgende algemene toelatingsvoorwaarden:<br>
+<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /-->1°&nbsp;&nbsp; onderdaan zijn van een lidstaat van de Europese Unie of van de Europese Vrijhandelsassociatie;<br>
+2°&nbsp;&nbsp; de burgerlijke en politieke rechten genieten;<br>
+3°&nbsp;&nbsp; houder zijn van een vereist bekwaamheidsbewijs;<br>
+4°&nbsp;&nbsp; een gedrag hebben dat in overeenstemming is met de eisen van het beoogde ambt;</p>
 
 <p>&nbsp;</p>
 
