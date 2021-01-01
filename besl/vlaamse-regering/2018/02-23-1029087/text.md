@@ -20,7 +20,7 @@ Besluit :
 
 In dit besluit wordt verstaan onder :<br>
 1° Agentschap Innoveren en Ondernemen : het intern verzelfstandigd agentschap, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 7 oktober 2005 aangaande het Agentschap Innoveren en Ondernemen;<br>
-2° beslissingscomité bij het Hermesfonds : het beslissingscomité, vermeld in artikel 41ter, § 1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002;<br>
+2° beslissingscomité bij het Fonds voor Innoveren en Ondernemen : het beslissingscomité, vermeld in artikel 41ter, § 1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002;<br>
 3° departement : het Departement Economie, Wetenschap en Innovatie, vermeld in artikel 21, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 4° kaderregeling voor onderzoek en ontwikkeling : de kaderregeling betreffende staatssteun voor onderzoek, ontwikkeling en innovatie (EU Publicatieblad van 27 juni 2014, C 198/1);<br>
 5° onderzoek en ontwikkeling : een activiteit van fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling als vermeld in punt 15 van de kaderregeling voor onderzoek en ontwikkeling;<br>
@@ -50,7 +50,7 @@ iii) het bijzonder decreet van 3 februari 2017 tot wijziging van diverse bepalin
 
 ### ART 2.
 
-Binnen de perken van de beschikbare jaarlijkse begrotingskredieten kunnen Vlaamse aanbestedende overheden cofinanciering door het Hermesfonds verwerven voor de aankoop van diensten van onderzoek en ontwikkeling voor maximaal 50% van de totale kosten voor de Vlaamse aanbestedende overheid.<br>
+Binnen de perken van de beschikbare jaarlijkse begrotingskredieten kunnen Vlaamse aanbestedende overheden cofinanciering door het Fonds voor Innoveren en Ondernemen verwerven voor de aankoop van diensten van onderzoek en ontwikkeling voor maximaal 50% van de totale kosten voor de Vlaamse aanbestedende overheid.<br>
 <br>
 De cofinanciering is alleen bestemd voor de onderzoeks- en ontwikkelingsdiensten voor het ontwikkelen, testen of valideren van innovatieve producten, diensten of systemen. De cofinanciering is niet bestemd voor de uiteindelijke aankoop van het innovatieve product, dienst of systeem.
 
@@ -98,7 +98,7 @@ Het opdrachtdocument voor de opdracht voor diensten van onderzoek en ontwikkelin
 
 ### ART 7.
 
-Het opdrachtdocument, vermeld in artikel 6, § 3, wordt overgemaakt aan het Agentschap Innoveren en Ondernemen, dat het opdrachtdocument beoordeelt en het vervolgens voor goedkeuring voorlegt aan het beslissingscomité bij het Hermesfonds. De goedkeuring van het opdrachtdocument houdt een principiële goedkeuring in van de cofinanciering van de geraamde kosten van de opdracht.<br>
+Het opdrachtdocument, vermeld in artikel 6, § 3, wordt overgemaakt aan het Agentschap Innoveren en Ondernemen, dat het opdrachtdocument beoordeelt en het vervolgens voor goedkeuring voorlegt aan het beslissingscomité bij het Fonds voor Innoveren en Ondernemen. De goedkeuring van het opdrachtdocument houdt een principiële goedkeuring in van de cofinanciering van de geraamde kosten van de opdracht.<br>
 <br>
 Bij de beoordeling en de goedkeuring van het opdrachtdocument wordt rekening gehouden met de volgende elementen :<br>
 1° de opdracht omvat onderzoeks- en ontwikkelingsdiensten;<br>
@@ -126,15 +126,15 @@ Het evaluatiepanel wordt in voorkomend geval aangevuld met vertegenwoordigers va
 <br>
 Het evaluatiepanel kan overgaan tot raadpleging van één of meer deelnemers en onderhandelen over de voorwaarden van de opdracht met één of meer van hen.<br>
 <br>
-Het evaluatiepanel maakt een evaluatieverslag op van de ingediende offertes en eventuele bijkomende raapleging en onderhandeling, dat minstens een evaluatie en rangschikking bevat van de ingediende offertes op basis van de criteria, vermeld in het opdrachtdocument, vermeld in artikel 6, § 3, en een voorstel voor de beslissing van het beslissingscomité bij het Hermesfonds over het definitieve bedrag van de cofinanciering.<br>
+Het evaluatiepanel maakt een evaluatieverslag op van de ingediende offertes en eventuele bijkomende raapleging en onderhandeling, dat minstens een evaluatie en rangschikking bevat van de ingediende offertes op basis van de criteria, vermeld in het opdrachtdocument, vermeld in artikel 6, § 3, en een voorstel voor de beslissing van het beslissingscomité bij het Fonds voor Innoveren en Ondernemen over het definitieve bedrag van de cofinanciering.<br>
 <br>
-Het evaluatieverslag wordt binnen een redelijke termijn na het aflopen van de indieningstermijn voor offertes op het beslissingscomité bij het Hermesfonds gebracht voor een beslissing over het definitieve bedrag van de cofinanciering.<br>
+Het evaluatieverslag wordt binnen een redelijke termijn na het aflopen van de indieningstermijn voor offertes op het beslissingscomité bij het Fonds voor Innoveren en Ondernemen gebracht voor een beslissing over het definitieve bedrag van de cofinanciering.<br>
 <br>
-Het beslissingscomité bij het Hermesfonds kan de beslissing over het definitieve bedrag van de cofinanciering delegeren aan het hoofd van het Agentschap Innoveren en Ondernemen.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan de beslissing over het definitieve bedrag van de cofinanciering delegeren aan het hoofd van het Agentschap Innoveren en Ondernemen.
 
 ### ART 10.
 
-Na deze definitieve goedkeuring van de cofinanciering door het beslissingscomité bij het Hermesfonds neemt de Vlaamse aanbestedende overheid de beslissing tot plaatsing van de opdracht voor diensten van onderzoek en ontwikkeling, op basis van het evaluatieverslag voorgelegd aan het beslissingscomité bij het Hermesfonds.<br>
+Na deze definitieve goedkeuring van de cofinanciering door het beslissingscomité bij het Fonds voor Innoveren en Ondernemen neemt de Vlaamse aanbestedende overheid de beslissing tot plaatsing van de opdracht voor diensten van onderzoek en ontwikkeling, op basis van het evaluatieverslag voorgelegd aan het beslissingscomité bij het Fonds voor Innoveren en Ondernemen.<br>
 <br>
 De gekozen uitvoerders en de niet gekozen uitvoerders van een opdracht voor diensten van onderzoek en ontwikkeling die conform artikel 32 van de wet van 17 juni 2016 inzake overheidsopdrachten uitgesloten zijn van het toepassingsgebied van overheidsopdrachten worden onmiddellijk op de hoogte gebracht van de beslissing, vermeld in het eerste lid.<br>
 <br>
@@ -144,7 +144,7 @@ De gekozen uitvoerders en de niet gekozen uitvoerders van de opdrachten voor die
 
 ### ART 11.
 
-De Vlaamse aanbestedende overheid kan beroep aantekenen bij het beslissingscomité bij het Hermesfonds tegen de beslissing tot weigering van cofinanciering.
+De Vlaamse aanbestedende overheid kan beroep aantekenen bij het beslissingscomité bij het Fonds voor Innoveren en Ondernemen tegen de beslissing tot weigering van cofinanciering.
 
 ### ART 12.
 
@@ -156,7 +156,7 @@ De verzoeker in beroep krijgt een schriftelijke ontvangstmelding binnen vijf wer
 
 ### ART 14.
 
-Over het beroep wordt door het beslissingscomité bij het Hermesfonds beslist binnen een termijn van vijfenveertig werkdagen na de ontvangst van het beroep.
+Over het beroep wordt door het beslissingscomité bij het Fonds voor Innoveren en Ondernemen beslist binnen een termijn van vijfenveertig werkdagen na de ontvangst van het beroep.
 
 ### ART 15.
 
@@ -164,13 +164,13 @@ De verzoeker in beroep wordt schriftelijk op de hoogte gebracht van de beroepsbe
 
 ### ART 16.
 
-Het beslissingscomité bij het Hermesfonds kan een of meer externe deskundigen aanstellen en een bijkomend advies inwinnen.<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan een of meer externe deskundigen aanstellen en een bijkomend advies inwinnen.<br>
 <br>
 In het geval, vermeld in het eerste lid, wordt de termijn, vermeld in artikel 16, met dertig werkdagen verlengd.
 
 ### ART 17.
 
-Het beslissingscomité bij het Hermesfonds werkt de nadere modaliteiten uit voor de indiening en de behandeling van aanvragen voor het willig beroep.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen werkt de nadere modaliteiten uit voor de indiening en de behandeling van aanvragen voor het willig beroep.
 
 ## HOOFDSTUK 9. Uitvoering van de opdracht
 
