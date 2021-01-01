@@ -28,7 +28,7 @@ Het agentschap berekent de tegemoetkoming, vermeld in artikel 9, § 4, eerste li
 
 Het agentschap gaat voor de berekening van de tegemoetkoming, vermeld in artikel 2, voor een kalenderjaar uit van het bedrag van de eindejaarspremie die voor dat kalenderjaar wordt vermeld in de collectieve arbeidsovereenkomst van het paritair comité 337 tot vaststelling van de bijlage in uitvoering van de collectieve arbeidsovereenkomst van 3 december 2019 inzake de toekenning van een jaarlijkse eindejaarspremie.<br>
 <br>
-Het bedrag, vermeld in het eerste lid, voor het jaar 2019 wordt verhoogd met het percentage voor patronale lasten voor het derde kwartaal van het jaar 2020. Het bedrag, vermeld in het eerste lid, voor het jaar 2020 wordt verhoogd met het percentage voor patronale lasten voor het vierde kwartaal van het jaar 2020.
+Het bedrag, vermeld in het eerste lid, voor het jaar 2019 wordt verhoogd met het percentage voor patronale lasten voor het derde kwartaal van het jaar 2020. Het bedrag, vermeld in het eerste lid, voor het jaar 2020 wordt verhoogd met het percentage voor patronale lasten voor het vierde kwartaal van het jaar 2020.&nbsp;Het bedrag, vermeld in het eerste lid, wordt voor het jaar 2021 verhoogd met het percentage voor patronale lasten voor het vierde kwartaal van het jaar 2021.
 
 ### ART 4.
 
