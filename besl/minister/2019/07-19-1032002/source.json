@@ -2,16 +2,16 @@
   "codex_id": 1032002,
   "title": "Ministerieel besluit van 2019-07-19 houdende de uitvoering van diverse bepalingen van het Kwaliteitstoezichtbesluit voor de Beleidsvelden Werkgelegenheid en Professionele Vorming van 19 juli 2019 en de aanduiding van de dienst, vermeld in artikel 4, eerste lid, van het besluit van de Vlaamse Regering betreffende de uitvoering van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032002/VolledigDocument?datum=2019-09-02",
-  "source_sha256": "f6b860f064d30e3b4e4714f91580fb6bad02fe7098ff6f77225ef79726fed5a1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032002/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "f0edd25afe2b4acddf5b626ce9db954746362a9dd2695eb26f553a654c802c0e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032002&param=informatie",
-  "as_of": "2019-09-02",
+  "as_of": "2021-01-01",
   "made": "2019-07-19",
   "gazette": "2019-08-05",
   "numac": 2019041750,
   "document_start": "2019-09-02",
   "document_end": null,
-  "in_force": "2019-09-02",
+  "in_force": "2021-01-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2019-09-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }

@@ -48,8 +48,7 @@ De organisatie kan een onontvankelijke erkenningsaanvraag aanvullen binnen drie 
 
 Het erkenningsteam, vermeld in artikel 13 van het besluit van 19 juli 2019, is samengesteld uit twee of meer personeelsleden van een of meer van de volgende instanties:<br>
 1° het departement;<br>
-2° de VDAB;<br>
-3° Syntra Vlaanderen.<br>
+2° de VDAB.<br>
 <br>
 Het departement bepaalt per dossier de effectieve samenstelling van het erkenningsteam. De samenstelling van het erkenningsteam is afhankelijk van de bijzonderheden van het dossier en de expertise van het personeelslid of de personeelsleden, vermeld in het eerste lid.
 
@@ -60,8 +59,7 @@ Het departement bepaalt per dossier de effectieve samenstelling van het erkennin
 Het team van toezichthouders, vermeld in artikel 20 van het besluit van 19 juli 2019, is samengesteld uit twee of meer personeelsleden van twee of meer van de volgende instanties:<br>
 1° het departement;<br>
 2° de VDAB;<br>
-3° Syntra Vlaanderen;<br>
-4° in voorkomend geval de onderwijsinspectie, als de onderwijsinspectie gebruikmaakt van de mogelijkheid, vermeld in artikel 22, tweede lid, van het besluit van 19 juli 2019.<br>
+3° in voorkomend geval de onderwijsinspectie, als de onderwijsinspectie gebruikmaakt van de mogelijkheid, vermeld in artikel 22, tweede lid, van het besluit van 19 juli 2019.<br>
 <br>
 Het departement bepaalt per dossier de effectieve samenstelling van het team van toezichthouders. De samenstelling van het team van toezichthouders is afhankelijk van de bijzonderheden van het dossier en de expertise van het personeelslid of de personeelsleden, vermeld in het eerste lid.
 
