@@ -222,7 +222,8 @@ In artikel 5.6.6, § 1, van dezelfde codex, gewijzigd bij het decreet van 16 jul
 
 ### ART. 53.
 
-De door de Vlaamse Regering vast te stellen nadere regels voor de betaling van de bijdragen van de sociale huisvestingsmaatschappijen, vermeld in artikel 36 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, zoals vervangen bij het decreet van 24 maart 2006, kunnen uitwerking hebben met ingang van 1 januari 2008.<br /><br />
+De door de Vlaamse Regering vast te stellen nadere regels voor de betaling van de bijdragen van de sociale huisvestingsmaatschappijen, vermeld in artikel 4.31 van de Vlaamse Codex Wonen van 2021, zoals vervangen bij het decreet van 24 maart 2006, kunnen uitwerking hebben met ingang van 1 januari 2008.<br>
+&nbsp;
 
 ### ART. 54.
 
