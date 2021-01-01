@@ -17,13 +17,13 @@ In dit besluit wordt verstaan onder :<br>
 a) creatie van gegevens die, aanvullend op de gegevens van de boekhoudkundige administraties, vereist zijn voor de opmaak van de financiële rapportering aan de VMSW, vermeld in artikel 18;<br>
 b) creatie van bewijsstukken voor de registratie van verrichtingen in de boekhoudkundige administraties van de SHM die ingevolge de Boekhoudwet en de uitvoeringsbesluiten ervan, in de boekhouding van de SHM geregistreerd moeten worden;<br>
 6° financiële administratie : het geheel van de boekhoudkundige administraties, in voorkomend geval aangevuld met een of meer extracomptabele financiële administraties;<br>
-7° huurlasten : de huurlasten, vermeld in artikel 1, § 1 van de bijlage III, gevoegd bij het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode;<br>
+7° huurlasten : de huurlasten, vermeld in artikel 1, § 1 van bijlage 27, die bij het Besluit Vlaamse Codex Wonen van 2021 is gevoegd;<br>
 8° integrale renovatie : renovatie of omvorming van een woning waarbij het niveau van wooncomfort door vernieuwing van de woninguitrusting in die mate verbeterd wordt, dat ze geschikt is om gedurende een nieuwe investeringscyclus van 33 jaar gebruikt te worden voor de huisvesting van bewoners;<br>
 9° minister : de Vlaamse minister, bevoegd voor het beleidsveld Wonen;<br>
 10° project : één of meer terreinen, gebouwen of een geheel van terreinen en gebouwen die geografisch en organisatorisch een geheel vormen voor het beheer ervan door de sociale huisvestingsmaatschappij;<br>
-11° sociale huisvestingsmaatschappijen : de vennootschappen, vermeld in artikel 40 en 106 van de Vlaamse Wooncode;<br>
-12° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
-13° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30 van de Vlaamse Wooncode;<br>
+11° sociale huisvestingsmaatschappijen : de vennootschappen, vermeld in artikel 4.36 en 7.5 van Vlaamse Codex Wonen van 2021;<br>
+12° ...;<br>
+13° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 4.7 van de Vlaamse Codex Wonen van 2021;<br>
 14° wettelijke jaarrekeningrapportering : de statutaire jaarrekening die ingevolge artikel 92 en 93 van het Wetboek van Vennootschappen jaarlijks door de zaakvoerders of bestuurders van een vennootschap wordt opgemaakt;<br>
 15° woningen : een sociaal woonproject met inbegrip van aanhorigheden zoals garages, staanplaatsen, ondergrondse parkings en omgevingswerken;<br>
 16° werken in onroerende staat : het bouwen, verbouwen, het afwerken, het inrichten, het herstellen, het onderhouden, het reinigen en het afbreken, geheel of ten dele, van een uit zijn aard onroerend goed, alsook de handelingen die erin bestaan een roerend goed te leveren en het meteen op zodanige wijze aan te brengen aan een onroerend goed dat het onroerend uit zijn aard wordt.
@@ -32,7 +32,7 @@ b) creatie van bewijsstukken voor de registratie van verrichtingen in de boekhou
 
 ### ART. 2.
 
-Dit besluit is van toepassing op de vennootschappen die de Vlaamse Regering als sociale huisvestingsmaatschappij heeft erkend met uitvoering van artikel 40 van de Vlaamse Wooncode of die een tijdelijke erkenning hebben met uitvoering van artikel 106 van de Vlaamse Wooncode.
+Dit besluit is van toepassing op de vennootschappen die de Vlaamse Regering als sociale huisvestingsmaatschappij heeft erkend met uitvoering van artikel 4.36 van de Vlaamse Codex Wonen van 2021 of die een tijdelijke erkenning hebben met uitvoering van artikel 7.5 van de voormelde codex.
 
 ### ART. 3.
 
@@ -62,7 +62,7 @@ b) het bedrag voor de onderhouds- en herstellingswerkzaamheden ten laste van de 
 <br>
 § 2. Wat het onderscheid tussen de onderhouds- en herstellingswerkzaamheden ten laste van de sociale huisvestingsmaatschappij en die ten laste van de huurder betreft, voldoet de sociale huisvestingsmaatschappij aan de gestelde voorwaarde als ze in haar financiële administratie de volgende gegevens opneemt :<br>
 1° de kostendekkende facturatie aan de huurder van de vergoedingen die apart van de huurprijs en huurlasten worden aangerekend voor de onderhouds- en herstellingswerkzaamheden, en recuperaties van huurschade, en aparte registratie van de opbrengst van die facturatie in de boekhouding op het moment dat die vergoedingen aan de sociale huisvestingsmaatschappij verschuldigd zijn;<br>
-2° de aparte registratie in de boekhouding van de huurlasten die betrekking hebben op de vergoeding voor onderhoudswerkzaamheden ten laste van de huurder, vermeld in artikel 1, § 1, van bijlage III, gevoegd bij het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode.<br>
+2° de aparte registratie in de boekhouding van de huurlasten die betrekking hebben op de vergoeding voor onderhoudswerkzaamheden ten laste van de huurder, vermeld in artikel 1, § 1, van bijlage 27, die bij het Besluit Vlaamse Codex Wonen van 2021 gevoegd is.<br>
 <br>
 De onderhouds- en herstellingswerkzaamheden die ten laste vallen van de sociale huisvestingsmaatschappij, worden bepaald door middel van de vaststelling van het verschil tussen :<br>
 1° enerzijds het totale bedrag van de onderhouds- en herstellingskosten van de verhuurde woningen als som van :<br>
@@ -79,7 +79,7 @@ b) het totale bedrag van de werkingskosten van de regie, vermeld in artikel 5, 2
 ### ART. 8.
 
 Voor de onderstaande activiteiten wordt in voorkomend geval en met toepassing van de richtlijn 2006/111/EG van de Europese Commissie van 16 november 2006 bij de registratie van de verrichtingen een extra onderscheid gemaakt tussen :<br>
-1° de verrichtingen inzake het bescheiden woonaanbod, vermeld in artikel 4.2.1 tot en met 4.2.9 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid;<br>
+1° de verrichtingen inzake het bescheiden woonaanbod, vermeld in artikel 5.93 tot en met 5.105 van de Vlaamse Codex Wonen van 2021;<br>
 2° ...;<br>
 3° de overige verrichtingen inzake leveringen van diensten of goederen die geen betrekking hebben op leveringen waarvoor het Vlaamse Gewest aan de sociale huisvestingsmaatschappij een bijzonder of uitsluitend recht heeft verleend.<br>
 <br>
@@ -164,14 +164,14 @@ De sociale huisvestingsmaatschappij heeft, uiterlijk op 31 december 2011, een do
 8° de samenstelling van de huuropbrengsten en de ermee samenhangende opbrengsten en de evolutie van de vorderingen en schulden t.a.v. de huurders van de sociale huisvestingsmaatschappij;<br>
 9° de onderhoudskosten ten laste van de sociale huisvestingsmaatschappij,&nbsp;wat de sociale huuractiviteit betreft;<br>
 10° de werkingskosten die betrekking hebben op de sociale huuractiviteit, opgedeeld in personeelskosten en andere kosten;<br>
-11° het aantal VTE dat betrekking heeft op de sociale huuractiviteit, opgesplitst in arbeiders en bedienden;<br>
+11° het gemiddeld aantal&nbsp;VTE dat betrekking heeft op de sociale huuractiviteit, opgesplitst in arbeiders en bedienden;<br>
 12° de werkingskosten die betrekking hebben op de sociale koopactiviteit, opgedeeld in personeelskosten en andere kosten;<br>
-13° het aantal VTE dat betrekking heeft op de sociale koopactiviteit, opgesplitst in arbeiders en bedienden;<br>
+13° het gemiddeld aantal VTE dat betrekking heeft op de sociale koopactiviteit, opgesplitst in arbeiders en bedienden;<br>
 14° de werkingskosten die betrekking hebben op de activiteit waarbij bijzondere sociale leningen worden toegekend, opgedeeld in personeelskosten en andere kosten;<br>
-15° het aantal VTE dat betrekking heeft op de activiteit waarbij bijzondere sociale leningen worden toegekend, opgesplitst in arbeiders en bedienden;<br>
+15° het gemiddeld aantal VTE dat betrekking heeft op de activiteit waarbij bijzondere sociale leningen worden toegekend, opgesplitst in arbeiders en bedienden;<br>
 16° de verrichtingen vermeld in artikel 9 betreffende de boekjaren waarvoor de gedelegeerd bestuurder van de VMSW dit bepaalt.<br>
 <br>
-De rapportering, vermeld in het eerste lid, 3°, 8° tot 16°, gebeurt elektronisch op de manier die de VMSW vaststelt en voorafgaand meedeelt aan de sociale huisvestingsmaatschappijen via het overleg, vermeld in artikel 5 van het besluit van de Vlaamse Regering van 2 december 2005 houdende de regeling inzake het beheer van de eigen middelen van de sociale huisvestingsmaatschappijen door de Vlaamse Maatschappij voor Sociaal Wonen.<br>
+De rapportering, vermeld in het eerste lid, 3°, 8° tot 16°, gebeurt elektronisch op de manier die de VMSW vaststelt en voorafgaand meedeelt aan de sociale huisvestingsmaatschappijen via het overleg, vermeld in artikel 4.38 van het Besluit Vlaamse Codex Wonen van 2021.<br>
 <br>
 De rapporteringen, vermeld in het eerste lid, 1°, 2° en 4° tot en met 7°, worden aan de VMSW geleverd door middel van een bestand. De VMSW stelt de sociale huisvestingsmaatschappijen jaarlijks in kennis van de bestandsformaten waarmee de bestanden bij haar ingediend kunnen worden, en van de manier waarop dat moet gebeuren. De inhoud van de rapporten, vermeld in het eerste lid, 8° en 9°, wordt door de VMSW in overleg met het intern verzelfstandigd agentschap Wonen-Vlaanderen vastgelegd.<br>
 <br>
@@ -179,7 +179,7 @@ De rapporteringen, vermeld in het eerste lid, 1°, 2° en 4° tot en met 7°, wo
 
 ### ART. 19.
 
-§ 1. De rapporteringen, vermeld in artikel 18, § 1, worden jaarlijks uiterlijk een maand na de algemene vergadering van de sociale huisvestingsmaatschappij waarop de jaarrekening van het afgesloten boekjaar wordt goedgekeurd, aan de VMSW bezorgd. De VMSW verwerkt de gegevens van de rapportering vermeld in artikel 18, § 1, 3° en 8° tot 16° in databanken. Zij stelt de onverwerkte gegevens van de rapporteringen alsook de verwerkte gegevens van de rapportering vermeld in artikel 18, § 1, 3°, ter beschikking van het intern verzelfstandigd agentschap Inspectie RWO en het intern verzelfstandigd agentschap Wonen-Vlaanderen. De VMSW stelt de onverwerkte rapporteringen onmiddellijk ter beschikking en verwerkt de rapportering vermeld in artikel 18, § 1, 3° en 8° tot 16° tegen uiterlijk 31 augustus van het kalenderjaar dat volgt op het afgesloten boekjaar.<br>
+§ 1. De rapporteringen, vermeld in artikel 18, § 1, worden jaarlijks uiterlijk een maand na de algemene vergadering van de sociale huisvestingsmaatschappij waarop de jaarrekening van het afgesloten boekjaar wordt goedgekeurd, aan de VMSW bezorgd. De VMSW verwerkt de gegevens van de rapportering vermeld in artikel 18, § 1, 3° en 8° tot 16° in databanken. Zij stelt de onverwerkte gegevens van de rapporteringen alsook de verwerkte gegevens van de rapportering vermeld in artikel 18, § 1, 3°, ter beschikking van de afdeling Toezicht van het agentschap Wonen-Vlaanderen. De VMSW stelt de onverwerkte rapporteringen onmiddellijk ter beschikking en verwerkt de rapportering vermeld in artikel 18, § 1, 3° en 8° tot 16° tegen uiterlijk 31 augustus van het kalenderjaar dat volgt op het afgesloten boekjaar.<br>
 <br>
 § 2 Enkel rapporten die conform artikel 18 ingediend worden, worden als geldig ingediende rapporteringen beschouwd.<br>
 <br>
@@ -187,9 +187,9 @@ De rapporteringen, vermeld in het eerste lid, 1°, 2° en 4° tot en met 7°, wo
 <br>
 De bestanden betreffende de rapportering vermeld in artikel 18, § 1, 3°, bevatten een functie op het vlak van interne consistentie waarmee de gelijkheid van actief en passief en deze van kosten en opbrengsten nagegaan wordt. Een bestand dat niet voldoet aan deze eis van interne consistentie, kan niet als een geldig ingediende rapportering beschouwd worden. De sociale huisvestingsmaatschappij wordt hiervan binnen de 10 werkdagen na de ontvangst door de VMSW in kennis gesteld.<br>
 <br>
-Uiterlijk op 31 augustus, bezorgt de VMSW aan het intern verzelfstandigd agentschap Inspectie RWO een overzicht van de rapporteringen die hetzij na 31 juli, hetzij niet geldig bij haar zijn ingediend.<br>
+Uiterlijk op 31 augustus, bezorgt de VMSW aan de afdeling Toezicht van het agentschap Wonen-Vlaanderen een overzicht van de rapporteringen die hetzij na 31 juli, hetzij niet geldig bij haar zijn ingediend.<br>
 <br>
-Als de VMSW na 31&nbsp;juli nog rapporten ontvangt, worden deze op dezelfde wijze ter beschikking gesteld als de rapporten die tijdig zijn ingediend. De verwerking door de VMSW van de rapportering vermeld in artikel 18, § 1, 3° en 8° tot 16°, gebeurt binnen de maand na de ontvangst ervan. Als het agentschap Inspectie RWO in het kader van haar controlewerkzaamheden verbeterde of aanvullende informatie in bezit heeft betreffende de rapporteringen, vermeld in artikel 18, § 1, 3° en 8° tot 16°, stelt het die informatie ter beschikking van de VMSW en het intern verzelfstandigd agentschap Wonen-Vlaanderen.
+Als de VMSW na 31&nbsp;juli nog rapporten ontvangt, worden deze op dezelfde wijze ter beschikking gesteld als de rapporten die tijdig zijn ingediend. De verwerking door de VMSW van de rapportering vermeld in artikel 18, § 1, 3° en 8° tot 16°, gebeurt binnen de maand na de ontvangst ervan. Als de afdeling Toezicht van het agentschap Wonen-Vlaanderen in het kader van haar controlewerkzaamheden verbeterde of aanvullende informatie in bezit heeft betreffende de rapporteringen, vermeld in artikel 18, § 1, 3° en 8° tot 16°, stelt het die informatie ter beschikking van de VMSW en het intern verzelfstandigd agentschap Wonen-Vlaanderen.
 
 ## HOOFDSTUK VII Slotbepalingen
 
@@ -227,6 +227,8 @@ De aanschaffingswaarde van de terreinen en gebouwen wordt bepaald als de som van
 3° in voorkomend geval, de rente op vreemd vermogen dat wordt gebruikt voor de financiering van de constructie of de renovatie van gebouwen, voor zover deze betrekking heeft op de periode die aan de gebruiksklaarheid voorafgaat.<br>
 <br>
 De opname in de aanschaffingswaarde van de rente op vreemd vermogen, zoals vermeld in het tweede lid, 3e van deze paragraaf, is een mogelijkheid. Wanneer de sociale huisvestingsmaatschappij hiervoor opteert, neemt ze dit op in de lijst van waarderingsregels die door de raad van bestuur van de sociale huisvestingsmaatschappij worden goedgekeurd. De sociale huisvestingsmaatschappij past deze waarderingsregel consistent jaarlijks toe op alle gebouwen of renovaties die met rentedragende leningen geconstrueerd of gerenoveerd worden.<br>
+<br>
+In het tweede lid, 2°, wordt verstaan onder bij de aankoop komende kosten: alle kosten die nodig zijn om de aangekochte, vervaardigde of ingebrachte activa functioneel te maken voor de sociale huisvestingsmaatschappij. Het zijn kosten die noodzakelijk zijn om de voormelde activa effectief te benutten.<br>
 <br>
 § 2. De externe, bij de aankoop komende kosten omvatten onder meer:<br>
 1. Inzake verwervingen:<br>
@@ -328,7 +330,11 @@ d. de kosten van sloping van gebouwen of andere constructies indien de sloopwerk
 
 ### ART. 5.
 
-§ 1. Wanneer de sociale huisvestingsmaatschappij gebruiksrechten op lange termijn op bebouwde onroerende goederen bezit op grond van erfpacht-, opstal-, leasing- of soortgelijke overeenkomsten bezit waarbij de contractueel te storten termijnen, naast de rente en de kosten van de verrichting, ook de integrale wedersamenstelling dekken van het kapitaal dat de gever in het gebouw heeft geïnvesteerd, wordt de aanschaffingswaarde van het gebouw geboekt onder de rubriek III. D. « Leasing en soortgelijk rechten » van de actiefzijde van de balans van de jaarrekening. Dit gebeurt ten bedrage van het gedeelte van de volgens de overeenkomst te storten termijnen dat strekt tot de wedersamenstelling van de kapitaalwaarde van het gebouw waarop de overeenkomst betrekking heeft. De overeenkomstige verplichtingen aan de passiefzijde worden geboekt onder de rubriek VIII. A. 3 « Leasingschulden en soortgelijke schulden » en IX. A « Schulden op meer dan 1 jaar die binnen het jaar vervallen » van de passiefzijde van de balans ten belope van het gedeelte van de in de volgende boekjaren te storten termijnen dat strekt tot de wedersamenstelling van de kapitaalwaarde van het gebouw waarop de overeenkomst betrekking heeft.<br /><br />§ 2. Het gedeelte van de erfpachtcanon, vermeld in artikel III.4 van de PPS-overeenkomst van artikel 1, 8° van het Besluit van de Vlaamse Regering van 14 mei 2004 ter uitvoering van de bepalingen over de oprichting en de organisatie van het Garantiefonds voor Huisvesting in het kader van PPS-projecten sociale huisvesting, dat strekt tot de wedersamenstelling van de kapitaalwaarde van de gebouwen die het voorwerp zijn van de erfpachtovereenkomst die deel uitmaakt van de voornoemde PPS-overeenkomst, wordt verwerkt zoals vermeld in de eerste paragraaf van dit artikel.<br /><br />§ 3. De benodigde informatie voor een correcte boekhoudkundige verwerking wordt aan de sociale huisvestingsmaatschappij verstrekt door de erfpachtgever waarmee deze de bovenvermelde vierpartijenovereenkomst heeft afgesloten. Deze informatie betreft enerzijds het totale aan de erfpachtgever verschuldigde kapitaalbedrag dat de sociale huisvestingsmaatschappij volgens de bepalingen in § 1 van dit artikel dient te boeken op het passief van de balans, en anderzijds de samenstelling van de erfpachttermijnen in een kapitaalgedeelte, interestgedeelte en een gedeelte betreffende de andere kosten van de verrichting, zijnde de kosten van de grote onderhouds- en herstellinsgwerken ten laste van de erfpachtgever die vermeld worden in artikel III.8 van de PPS-overeenkomst, en de beheersvergoeding ten laste van de erfpachtgever die vermeld wordt in artikel III.9 van de PPS-overeenkomst.
+§ 1. Wanneer de sociale huisvestingsmaatschappij gebruiksrechten op lange termijn op bebouwde onroerende goederen bezit op grond van erfpacht-, opstal-, leasing- of soortgelijke overeenkomsten bezit waarbij de contractueel te storten termijnen, naast de rente en de kosten van de verrichting, ook de integrale wedersamenstelling dekken van het kapitaal dat de gever in het gebouw heeft geïnvesteerd, wordt de aanschaffingswaarde van het gebouw geboekt onder de rubriek III. D. « Leasing en soortgelijk rechten » van de actiefzijde van de balans van de jaarrekening. Dit gebeurt ten bedrage van het gedeelte van de volgens de overeenkomst te storten termijnen dat strekt tot de wedersamenstelling van de kapitaalwaarde van het gebouw waarop de overeenkomst betrekking heeft. De overeenkomstige verplichtingen aan de passiefzijde worden geboekt onder de rubriek VIII. A. 3 « Leasingschulden en soortgelijke schulden » en IX. A « Schulden op meer dan 1 jaar die binnen het jaar vervallen » van de passiefzijde van de balans ten belope van het gedeelte van de in de volgende boekjaren te storten termijnen dat strekt tot de wedersamenstelling van de kapitaalwaarde van het gebouw waarop de overeenkomst betrekking heeft.<br>
+<br>
+§ 2. Het gedeelte van de erfpachtcanon, vermeld in artikel III.4 van de PPS-overeenkomst van artikel 1.2, eerste lid, 103°, van het Besluit Vlaamse Codex Wonen van 2021, dat strekt tot de wedersamenstelling van de kapitaalwaarde van de gebouwen die het voorwerp zijn van de erfpachtovereenkomst die deel uitmaakt van de voornoemde PPS-overeenkomst, wordt verwerkt zoals vermeld in de eerste paragraaf van dit artikel.<br>
+<br>
+§ 3. De benodigde informatie voor een correcte boekhoudkundige verwerking wordt aan de sociale huisvestingsmaatschappij verstrekt door de erfpachtgever waarmee deze de bovenvermelde vierpartijenovereenkomst heeft afgesloten. Deze informatie betreft enerzijds het totale aan de erfpachtgever verschuldigde kapitaalbedrag dat de sociale huisvestingsmaatschappij volgens de bepalingen in § 1 van dit artikel dient te boeken op het passief van de balans, en anderzijds de samenstelling van de erfpachttermijnen in een kapitaalgedeelte, interestgedeelte en een gedeelte betreffende de andere kosten van de verrichting, zijnde de kosten van de grote onderhouds- en herstellinsgwerken ten laste van de erfpachtgever die vermeld worden in artikel III.8 van de PPS-overeenkomst, en de beheersvergoeding ten laste van de erfpachtgever die vermeld wordt in artikel III.9 van de PPS-overeenkomst.
 
 ## Afdeling III Tijdstip waarop investeringen in terreinen en gebouwen opgenomen worden in de boekhouding van de sociale huisvestingsmaatschappij
 
@@ -421,7 +427,7 @@ Terreinen die onder de materiële vaste activa geboekt zijn, kunnen het voorwerp
 
 ### ART. 12.
 
-Wanneer naar aanleiding van een nieuw te realiseren gebouw of een integrale renovatie wordt vastgesteld dat de waarde van het terrein of het bestaande gebouw duurzaam uitstijgt boven de netto-boekwaarde van dat moment, kan de sociale huisvestingsmaatschappij opteren om onder de voorwaarden van artikel 57 van het KB van 30 januari 2001 tot uitvoering van het Wetboek van Vennootschappen voor dit terrein of gebouw een herwaarderingsmeerwaarde te boeken. Deze herwaarderingsmeerwaarde wordt verantwoord met een schattingsverslag van een expert.
+Wanneer naar aanleiding van een nieuw te realiseren gebouw of een integrale renovatie wordt vastgesteld dat de waarde van het terrein of het bestaande gebouw duurzaam uitstijgt boven de netto-boekwaarde van dat moment, kan de sociale huisvestingsmaatschappij opteren om onder de voorwaarden, vermeld in artikel 3:35 van het koninklijk besluit van 29 april 2019 tot uitvoering van het Wetboek van vennootschappen en verenigingen voor dit terrein of gebouw een herwaarderingsmeerwaarde te boeken. Deze herwaarderingsmeerwaarde wordt verantwoord met een schattingsverslag van een expert.
 
 ## Onderafdeling III Vooruitbetalingen betreffende niet-gerealiseerde projecten
 
@@ -495,7 +501,9 @@ Inzake de vorderingen die betrekking hebben op vertrokken huurders, worden alle 
 
 ### ART. 18.
 
-De verrekening door middel van schuldvergelijking van schulden, vermeld in artikel 17 van deze bijlage, met vorderingen op dezelfde huurder, vermeld in artikel 16 van deze bijlage, gebeurt nadat de betrokken vorderingen en schulden resp. op het debet en credit van de overeenkomstige grootboekrekeningen zijn geboekt.<br /><br />Wanneer de sociale huisvestingsmaatschappij in uitvoering van het derde lid van de tweede paragraaf van artikel 37 van het Besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel bij de beëindiging van het huurcontract een gedeelte of het geheel van de door de huurder of namens de huurder gestorte huurwaarborg door middel van schuldvergelijking verrekent met openstaande vorderingen van de sociale huisvestingsmaatschappij op dezelfde huurder, gebeurt dit door de debitering van de waarborgschuld ten opzichte van de creditering van de openstaande vordering of vorderingen op deze huurder. Het niet-verrekende gedeelte van de waarborgschuld wordt in voorkomend geval gedebiteerd ten opzichte van een creditering van een financiële rekening naar aanleiding van de terugbetaling van dit bedrag aan de huurder.
+De verrekening door middel van schuldvergelijking van schulden, vermeld in artikel 17 van deze bijlage, met vorderingen op dezelfde huurder, vermeld in artikel 16 van deze bijlage, gebeurt nadat de betrokken vorderingen en schulden resp. op het debet en credit van de overeenkomstige grootboekrekeningen zijn geboekt.<br>
+<br>
+Wanneer de sociale huisvestingsmaatschappij in uitvoering van artikel 6.61, § 2, derde lid, van het Besluit Vlaamse Codex Wonen van 2021 bij de beëindiging van het huurcontract een gedeelte of het geheel van de door de huurder of namens de huurder gestorte huurwaarborg door middel van schuldvergelijking verrekent met openstaande vorderingen van de sociale huisvestingsmaatschappij op dezelfde huurder, gebeurt dit door de debitering van de waarborgschuld ten opzichte van de creditering van de openstaande vordering of vorderingen op deze huurder. Het niet-verrekende gedeelte van de waarborgschuld wordt in voorkomend geval gedebiteerd ten opzichte van een creditering van een financiële rekening naar aanleiding van de terugbetaling van dit bedrag aan de huurder.
 
 ### ART. 19.
 
@@ -521,7 +529,9 @@ Het bedrag dat ingevolge het vorige lid geboekt wordt onder de uitgestelde belas
 <br>
 Ook subsidies die toegekend worden voor investeringen in niet-afschrijfbare vaste activa zoals terreinen, worden opgenomen in de rubriek VI. « Kapitaalsubsidies » na aftrek van de uitgestelde belastingen.<br>
 <br>
-§ 2. Wanneer de regelgeving die de toekenning van de projectsubsidies regelt, opschortende voorwaarden oplegt aangaande de opeisbaarheid van deze subsidies bij de subsidiërende overheid, wordt het bedrag ervan opgenomen op de balans van de sociale huisvestingsmaatschappij al naargelang de opschortende voorwaarden voldaan zijn en de subsidie, of gedeelten ervan, opeisbaar worden en dit onafhankelijk van de datum van de storting van de opgevraagde subsidiebedragen.
+§ 2. Wanneer de regelgeving die de toekenning van de projectsubsidies regelt, opschortende voorwaarden oplegt aangaande de opeisbaarheid van deze subsidies bij de subsidiërende overheid, wordt het bedrag ervan opgenomen op de balans van de sociale huisvestingsmaatschappij al naargelang de opschortende voorwaarden voldaan zijn en de subsidie, of gedeelten ervan, opeisbaar worden en dit onafhankelijk van de datum van de storting van de opgevraagde subsidiebedragen.<br>
+<br>
+De subsidie wordt geboekt zodra de subsidiërende overheid haar verbintenis onvoorwaardelijk en voor het bedrag in kwestie bevestigt, ook al geldt daarvoor eventueel een opschortende termijn waarin de opeisbaarheid wordt uitgesteld, en ze in schijven wordt opgesplitst.
 
 ### ART. 23.
 
@@ -567,11 +577,17 @@ De leningen die de VMSW aan de sociale huisvestingsmaatschappijen toekent worden
 
 ### ART. 31.
 
-Wanneer de sociale huisvestingsmaatschappij ervoor opteert om de gelden van de huurwaarborgen van de sociale huurders met een contract van onbepaalde duur conform artikel 37, § 2 van het Kaderbesluit Sociale Huur in haar handen te laten storten, vormen deze waarborgsommen een schuld op het passief van de balans van de sociale huisvestingsmaatschappij ten aanzien van haar huurders onder de rubrieken VIIII. D. « Schulden op meer dan één jaar - overige schulden » en IX. A. « Schulden op meer dan een jaar die binnen het jaar vervallen ».<br /><br />De bedragen welke onder de rubriek IX. A. « Schulden op meer dan een jaar die binnen het jaar vervallen » worden opgenomen betreffen de volgende gevallen :<br />1° waarborgschulden ten aanzien van huurders waarvan op balansdatum bekend is dat het huurcontract binnen het jaar zal stopgezet worden, hetzij op initiatief van de huurder, hetzij op initiatief van de sociale huisvestingsmaatschappij;<br />2° het gedeelte van de uitstaande waarborgschulden waarvan op basis van historische, statistische informatie op balansdatum kan verwacht worden dat het betrekking heeft op huurcontracten die binnen het jaar stopgezet zullen worden, indien dit bedrag significant hoger ligt dan het bedrag onder 1° van dit lid.<br /><br />Deze schulden worden gewaardeerd volgens hun nominale waarde, verhoogd met de ingevolge artikel 37, § 2, 4° lid van het Besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel jaarlijks op 31 december of bij de afloop van het huurcontract gekapitaliseerde interesten. De interesten die gekapitaliseerd worden naar aanleiding van de afloop van het huurcontract, worden voorafgaand aan de afboeking van de schuld gekapitaliseerd.
+Wanneer de sociale huisvestingsmaatschappij ervoor opteert om de gelden van de huurwaarborgen van de sociale huurders met een contract van onbepaalde duur conform artikel 6.61, § 2, van het Besluit Vlaamse Codex Wonen van 2021 in haar handen te laten storten, vormen deze waarborgsommen een schuld op het passief van de balans van de sociale huisvestingsmaatschappij ten aanzien van haar huurders onder de rubrieken VIIII. D. « Schulden op meer dan één jaar - overige schulden » en IX. A. « Schulden op meer dan een jaar die binnen het jaar vervallen ».<br>
+<br>
+De bedragen welke onder de rubriek IX. A. « Schulden op meer dan een jaar die binnen het jaar vervallen » worden opgenomen betreffen de volgende gevallen :<br>
+1° waarborgschulden ten aanzien van huurders waarvan op balansdatum bekend is dat het huurcontract binnen het jaar zal stopgezet worden, hetzij op initiatief van de huurder, hetzij op initiatief van de sociale huisvestingsmaatschappij;<br>
+2° het gedeelte van de uitstaande waarborgschulden waarvan op basis van historische, statistische informatie op balansdatum kan verwacht worden dat het betrekking heeft op huurcontracten die binnen het jaar stopgezet zullen worden, indien dit bedrag significant hoger ligt dan het bedrag onder 1° van dit lid.<br>
+<br>
+Deze schulden worden gewaardeerd volgens hun nominale waarde, verhoogd met de ingevolge artikel 6.61, § 2, vierde lid, van het Besluit Vlaamse Codex Wonen van 2021 jaarlijks op 31 december of bij de afloop van het huurcontract gekapitaliseerde interesten. De interesten die gekapitaliseerd worden naar aanleiding van de afloop van het huurcontract, worden voorafgaand aan de afboeking van de schuld gekapitaliseerd.
 
 ### ART. 32.
 
-Wanneer de sociale huisvestingsmaatschappij in uitvoering van artikel 37, § 1, van het Besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ervoor opteert om de huurwaarborgen te beheren volgens de regeling in artikel 10 van afdeling II van titel VIII van boek III van het Burgerlijk Wetboek, vormen deze waarborgen een zakelijke zekerheid die door de huurder ten gunste van de sociale huisvestingsmaatschappij wordt gesteld en worden zij door de sociale huisvestingsmaatschappij aldus geboekt op rekeningen binnen de klasse 03 « Ontvangen zekerheden ».
+Wanneer de sociale huisvestingsmaatschappij in uitvoering van artikel 6.61, § 1, van het Besluit Vlaamse Codex Wonen van 2021 ervoor opteert om de huurwaarborgen te beheren volgens de regeling in artikel 10 van afdeling II van titel VIII van boek III van het Burgerlijk Wetboek, vormen deze waarborgen een zakelijke zekerheid die door de huurder ten gunste van de sociale huisvestingsmaatschappij wordt gesteld en worden zij door de sociale huisvestingsmaatschappij aldus geboekt op rekeningen binnen de klasse 03 « Ontvangen zekerheden ».
 
 ### ART. 33.
 
