@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035542,
+  "title": "Besluit van de Vlaamse Regering van 2021-04-02 tot wijziging van artikel 18 van het koninklijk besluit van 10 augustus 1998 houdende vaststelling van de normen waaraan een functie \"mobiele urgentiegroep\" (MUG) moet voldoen om te worden erkend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035542/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "cd79924a87cf1a3b0cfda4ca9cbe03da7b53c54a9949167139c7f13f82b85b4f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035542&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2021-04-02",
+  "gazette": "2021-05-12",
+  "numac": 2021020931,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
