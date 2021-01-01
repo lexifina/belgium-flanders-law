@@ -44,9 +44,9 @@ Het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving stelt de 
 
 ### ART 2.
 
-De gebreken die een veiligheids- of gezondheidsrisico inhouden, vermeld in artikel 13, derde lid, van het Vlaams Woninghuurdecreet, hebben betrekking op de volgende gebreken, die opgenomen zijn in bijlage 1 en 3 van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de kwaliteits- en veiligheidsnormen voor woningen:<br>
-1° gebreken van categorie III in verband met vocht, stabiliteit en toegankelijkheid;<br>
-2° gebreken van categorie IV met uitzondering van het gebrek in verband met de totale nettovloeroppervlakte van de woonlokalen.
+De gebreken die een veiligheids- of gezondheidsrisico inhouden, vermeld in artikel 13, derde lid, van het Vlaams Woninghuurdecreet, hebben betrekking op de volgende gebreken, die opgenomen zijn in <span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">bijlage 4 en 5 van het Besluit Vlaamse Codex Wonen van 2021</span></span>:<br>
+1° gebreken van categorie II in verband met vocht, stabiliteit en toegankelijkheid;<br>
+2° gebreken van categorie III.
 
 ### ART 3.
 
