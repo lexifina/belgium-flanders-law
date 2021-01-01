@@ -169,32 +169,83 @@ De bewijslevering, vermeld in het eerste en tweede lid, is een noodzakelijke voo
 <br>
 § 2. Het belastingkrediet wordt berekend op basis van de bedragen die de kredietgever uitgeleend of ter beschikking gesteld heeft in het kader van een of meer Winwinleningen.<br>
 <br>
-§ 3. Het rekenkundig gemiddelde van alle uitgeleende of ter beschikking gestelde bedragen op 1 januari en 31 december van het belastbare tijdperk wordt als berekeningsgrondslag van het belastingkrediet genomen. Die berekeningsgrondslag bedraagt ten hoogste 50.000 euro per belastingplichtige.<br>
+§ 3. Het rekenkundig gemiddelde van de openstaande saldi van alle uitgeleende of ter beschikking gestelde bedragen op 1 januari en 31 december van het belastbare tijdperk wordt als berekeningsgrondslag van het belastingkrediet genomen. Die berekeningsgrondslag bedraagt ten hoogste 75.000 euro per belastingplichtige.<br>
 <br>
 § 4.&nbsp;Het belastingkrediet bedraagt 2,5 percent van de grondslag, vermeld in § 3.<br>
 <br>
 § 5. Het belastingkrediet wordt toegestaan voor de looptijd van de Winwinlening, te beginnen met het aanslagjaar dat verbonden is aan het belastbare tijdperk waarin de Winwinlening werd gesloten.<br>
 <br>
-Het belastingkrediet wordt alleen verleend, als de kredietgever per aanslagjaar conform artikel 7, eerste en tweede lid, het bewijs ter beschikking houdt van de federale belastingadministratie.<br>
+Het belastingkrediet wordt alleen verleend, als de kredietgever per aanslagjaar conform artikel 7, eerste en tweede lid, het bewijs ter beschikking houdt van de belastingadministratie.<br>
 <br>
-Het fiscale voordeel wordt ontzegd voor het aanslagjaar waarvoor de bewijslevering ontbreekt, niet correct is, of onvolledig is.<br>
+Het belastingkrediet wordt ontzegd voor het aanslagjaar waarvoor de bewijslevering ontbreekt, niet correct is, of onvolledig is.<br>
 <br>
-Er is geen mogelijkheid tot overdracht van het gederfde fiscale voordeel naar volgende aanslagjaren.<br>
+Er is geen mogelijkheid tot overdracht van het gederfde belastingkrediet naar volgende aanslagjaren.<br>
 <br>
-Het fiscale voordeel vervalt vanaf het aanslagjaar dat verbonden is met het belastbare tijdperk waarin de kredietgever de Winwinlening vervroegd opeisbaar heeft gesteld, overeenkomstig de bepalingen van artikel 4, § 2, of waarin de kredietgever overleden is.<br>
+Het belastingkrediet vervalt vanaf het aanslagjaar dat verbonden is met het belastbare tijdperk waarin de kredietgever de Winwinlening vervroegd opeisbaar heeft gesteld, overeenkomstig de bepalingen van artikel 4, § 2, of waarin de kredietgever overleden is.<br>
 <br>
-Het fiscale voordeel vervalt vanaf het aanslagjaar dat verbonden is met het belastbare tijdperk waarin de ambtshalve schrapping heeft plaatsgevonden.<br>
+Het belastingkrediet vervalt vanaf het aanslagjaar dat verbonden is met het belastbare tijdperk waarin de ambtshalve schrapping heeft plaatsgevonden.<br>
 <br>
 § 6. ....<br>
 <br>
 § 7. ....<br>
 &nbsp;
 
+### ART 8/1.
+
+§ 1. Aan de Vriendenaandeelhouder die onderworpen is aan de personenbelasting zoals gelokaliseerd in het Vlaamse Gewest, conform artikel 5/1, § 2, van de Bijzondere Financieringswet, wordt een belastingkrediet toegekend.<br>
+<br>
+§ 2. Het belastingkrediet wordt berekend op basis van de bedragen die de Vriendenaandeelhouder heeft volgestort.<br>
+<br>
+§ 3. De grondslag waarop het belastingkrediet wordt toegekend, wordt berekend naar rato van het aantal dagen dat het Vriendenaandeel in het belastbare tijdperk is aangehouden. Die berekeningsgrondslag bedraagt ten hoogste 75.000 euro per belastingplichtige.<br>
+<br>
+§ 4. Het belastingkrediet bedraagt 2,5 % van de grondslag, vermeld in paragraaf 3.<br>
+<br>
+§ 5. Het belastingkrediet wordt toegestaan voor een periode van maximaal vijf jaar.<br>
+<br>
+Het belastingkrediet wordt alleen verleend als de Vriendenaandeelhouder per aanslagjaar, conform artikel 7/1, het bewijs ter beschikking houdt van de belastingadministratie.<br>
+<br>
+Het belastingkrediet wordt ontzegd voor het aanslagjaar waarvoor de bewijslevering ontbreekt, niet correct is of onvolledig is.<br>
+<br>
+Het gederfde belastingkrediet kan niet naar de volgende aanslagjaren overgedragen worden.<br>
+<br>
+Het belastingkrediet vervalt vanaf de dag waarop de Vriendenaandeelhouder overlijdt.<br>
+<br>
+Het belastingkrediet vervalt vanaf de dag waarop het Vriendenaandeel ambtshalve is geschrapt.<br>
+<br>
+Het belastingkrediet vervalt vanaf de dag waarop de emittent failliet is verklaard of ontbonden is.<br>
+<br>
+De uitgaven van de belastingplichtige die in aanmerking genomen zijn voor de toepassing van een federale belastingvermindering of een federaal belastingkrediet komen niet in aanmerking voor het belastingkrediet, bedoeld in dit decreet.
+
+### ART 8/2.
+
+De berekeningsgrondslag van de Winwinlening en het Vriendenaandeel samen mag niet meer bedragen dan 75.000 euro per belastingplichtige.
+
 ## [Afdeling 2. Eenmalig belastingkrediet voor de kredietgever van de Winwinlening (verv. decr. 27 november 2020, art. 13, I: 24 december 2020)]
 
 ### ART. 9.
 
-§ 1. Aan de kredietgever wordt een eenmalig belastingkrediet onder de   volgende voorwaarden toegekend:<BR>a) tijdens of binnen maximaal zes maanden na   de looptijd van de lening doet zich een van de gevallen, vermeld in artikel 4, §   2, 1°, voor;<BR>b) de kredietnemer kan een deel of het geheel van de   Winwinlening niet terugbetalen;<BR>c) de kredietgever is onderworpen aan de   personenbelasting, zoals gelokaliseerd in het Vlaamse Gewest overeenkomstig   artikel 5/1, § 2, van de Bijzondere Financieringswet;<BR>d) de kredietgever   heeft de Winwinlening opeisbaar gesteld.<BR><BR>§ 2. Het bedrag van de hoofdsom   dat tijdens het belastbaar tijdperk definitief verloren is gegaan, wordt genomen   als berekeningsgrondslag van het eenmalig belastingkrediet.<BR><BR>§ 3. De   grondslag, vermeld in § 2, bedraagt ten hoogste 50.000 euro.<BR><BR>§ 4. Het   eenmalig belastingkrediet bedraagt 30 percent van de grondslag, vermeld in §   2.<BR><BR>§ 5. Het eenmalig belastingkrediet wordt toegekend voor het   aanslagjaar dat verbonden is met het belastbare tijdperk waarin vaststaat dat   een gedeelte of het geheel van de hoofdsom van de Winwinlening definitief   verloren is.<BR><BR>De Vlaamse Regering bepaalt de wijze waarop bewezen moet   worden dat wegens faillissement, kennelijk onvermogen of vrijwillige of   gedwongen ontbinding of vereffening een gedeelte of het geheel van de hoofdsom   van de Winwinlening definitief verloren is.<BR><BR>Het recht op het eenmalig   belastingkrediet wordt bij overlijden van de kredietgever overgedragen aan zijn   rechtverkrijgenden. In dat geval zijn de bepalingen van dit artikel van   toepassing op de rechtverkrijgenden in de verhouding dat zij de Winwinlening   hebben verkregen.<BR><BR>Het eenmalig belastingkrediet wordt niet toegekend voor   het aanslagjaar dat verbonden is met het belastbare tijdperk waarin de   ambtshalve schrapping&nbsp;heeft plaatsgevonden. <BR><BR>§ 6.   <STRONG><EM>..</EM></STRONG>.<BR><BR>
+§ 1. Aan de kredietgever wordt een eenmalig belastingkrediet onder de volgende voorwaarden toegekend:<br>
+a) tijdens of binnen maximaal zes maanden na de looptijd van de lening doet zich een van de gevallen, vermeld in artikel 4, § 2, 1°, voor;<br>
+b) de kredietnemer kan een deel of het geheel van de Winwinlening niet terugbetalen;<br>
+c) de kredietgever is onderworpen aan de personenbelasting, zoals gelokaliseerd in het Vlaamse Gewest overeenkomstig artikel 5/1, § 2, van de Bijzondere Financieringswet;<br>
+d) de kredietgever heeft de Winwinlening opeisbaar gesteld.<br>
+<br>
+§ 2. Het bedrag van de hoofdsom dat tijdens het belastbaar tijdperk definitief verloren is gegaan, wordt genomen als berekeningsgrondslag van het eenmalig belastingkrediet.<br>
+<br>
+§ 3. De grondslag, vermeld in § 2, bedraagt ten hoogste 75.000 euro.<br>
+<br>
+§ 4. Het eenmalig belastingkrediet bedraagt 30 percent van de grondslag, vermeld in § 2.<br>
+<br>
+§ 5. Het eenmalig belastingkrediet wordt toegekend voor het aanslagjaar dat verbonden is met het belastbare tijdperk waarin vaststaat dat een gedeelte of het geheel van de hoofdsom van de Winwinlening definitief verloren is.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop bewezen moet worden dat wegens faillissement, kennelijk onvermogen of vrijwillige of gedwongen ontbinding of vereffening een gedeelte of het geheel van de hoofdsom van de Winwinlening definitief verloren is.<br>
+<br>
+Het recht op het eenmalig belastingkrediet wordt bij overlijden van de kredietgever overgedragen aan zijn rechtverkrijgenden. In dat geval zijn de bepalingen van dit artikel van toepassing op de rechtverkrijgenden in de verhouding dat zij de Winwinlening hebben verkregen.<br>
+<br>
+Het eenmalig belastingkrediet wordt niet toegekend voor het aanslagjaar dat verbonden is met het belastbare tijdperk waarin de ambtshalve schrapping&nbsp;heeft plaatsgevonden.<br>
+<br>
+§ 6. <strong><em>..</em></strong>.<br>
+&nbsp;
 
 ## [HOOFDSTUK VI/1 COVID-19-crisismaatregelen (ing. decr. 2 oktober 2020, art. 8, I: 7 oktober 2020)]
 
@@ -203,6 +254,12 @@ Het fiscale voordeel vervalt vanaf het aanslagjaar dat verbonden is met het bela
 Ter gelegenheid van de COVID-19-crisis die de Vlaamse Regering bij besluit als dusdanig erkent, kan de Vlaamse Regering toestaan dat Winwinleningen, die voorafgaand aan de inwerkingtreding van deze bepaling geregistreerd zijn en waarvan de contractuele looptijd in 2020 verstrijkt, door de partijen in onderlinge overeenstemming verlengd kunnen worden, zonder dat die verlenging meer dan twee jaar mag bedragen.<br>
 <br>
 De Vlaamse Regering kan terugbetalingsvoorwaarden en modaliteiten koppelen aan de verlenging van de looptijd van de Winwinlening, vermeld in het eerste lid.
+
+### ART 9/2.
+
+Ter gelegenheid van de COVID-19-crisis die de Vlaamse Regering bij besluit als dusdanig erkent, kan de Vlaamse Regering toestaan en beslissen dat het percentage van het eenmalig belastingkrediet, vermeld in artikel 9, § 4, wordt opgetrokken tot maximaal 40%. De verhoging van het eenmalig belastingkrediet geldt alleen voor Winwinleningen die gesloten zijn na 15 maart 2020 tot op de datum die de Vlaamse Regering bepaalt en ten laatste tot 31 december 2021.<br>
+<br>
+De Vlaamse Regering kan terugbetalingsvoorwaarden en modaliteiten koppelen aan de verhoging van het eenmalig belastingkrediet, vermeld in het eerste lid.
 
 ## HOOFDSTUK VII Slotbepaling
 
