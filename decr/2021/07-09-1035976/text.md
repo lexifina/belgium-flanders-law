@@ -58,9 +58,29 @@ In artikel 85bis, § 3, derde lid, 8°, van hetzelfde decreet, ingevoegd bij het
 
 ## Afdeling 3. Aanvullende werkingsmiddelen voor pedagogische begeleidingsdiensten ter versterking van de brede basiszorg en verhoogde zorg in scholen voor gewoon basisen secundair onderwijs
 
+### ART 29.
+
+In het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, het laatst gewijzigd bij het decreet van 18 december 2020, wordt een artikel 19/1 ingevoegd, dat luidt als volgt:<br>
+"Art. 19/1. De pedagogische begeleidingsdiensten van het Katholiek Onderwijs Vlaanderen, de Onderwijsvereniging van Steden en Gemeenten, het Provinciaal Onderwijs Vlaanderen en het Onderwijs van de Vlaamse Gemeenschap, GO! ontvangen in begrotingsjaar 2021 3,5 miljoen euro aan aanvullende werkingsmiddelen voor de ondersteuning van scholen voor gewoon basisen secundair onderwijs in de versterking van hun brede basiszorg en verhoogde zorg.<br>
+<br>
+De aanvullende werkingsmiddelen, vermeld in het eerste lid, worden verdeeld over deze pedagogische begeleidingsdiensten naar rato van het aantal organieke betrekkingen in de onderwijsinstellingen verbonden aan de pedagogische begeleidingsdienst.".
+
 ## Afdeling 4. Indexering middelen Hogere Kunstinstituten
 
+### ART 30.
+
+In artikel III.119, § 8, van de Codex Hoger Onderwijs van 11 oktober 2013, ingevoegd bij het decreet van 18 december 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 5° wordt de zinsnede "apass (advanced performance and scenography studies)" vervangen door de zinsnede "PoPoK (Posthogeschool voor Podiumkunsten)";<br>
+2° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"De bedragen vermeld in het eerste lid, worden in het begrotingsjaar 2021 geïndexeerd overeenkomstig de bepalingen in paragraaf 1 van dit artikel.".
+
 ## Afdeling 5. Wijziging van de decreetsbepaling voor het begrotingsfonds van het departement Onderwijs en Vorming.
+
+### ART 31.
+
+Aan artikel 41, § 4, van het decreet van 20 december 2013 houdende bepalingen tot begeleiding van de begroting 2014, vervangen bij het decreet van 8 juli 2016, worden een punt 3° en 4° toegevoegd, die luiden als volgt:<br>
+"3° projecten in het kader van klimaat;<br>
+4° uitgaven in het kader van risicomanagement.".
 
 ## Afdeling 6. Machtiging aan AGION voor verbintenissen voor huursubsidies
 
