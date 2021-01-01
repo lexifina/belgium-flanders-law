@@ -4649,7 +4649,11 @@ Het bedrag van de eindejaarstoelage is de som van het forfaitaire gedeelte   en 
 
 ### ART. 136.
 
-Het personeelslid ontvangt het volledige bedrag van de toelage, vermeld in artikel 135, als het als titularis van een betrekking met volledige prestaties het volledige salaris heeft ontvangen tijdens de hele duur van de referentieperiode.<br /><br />Als het personeelslid niet het volledige salaris heeft ontvangen als titularis van een betrekking met volledige prestaties of onvolledige prestaties, wordt het bedrag van de toelage verminderd in verhouding tot het salaris dat het werkelijk heeft ontvangen.<br /><br />De periodes waarin het personeelslid tijdens de referentieperiode als titularis van een betrekking met volledige prestaties of onvolledige prestaties met ouderschapsverlof, als vermeld in het koninklijk besluit van 29 oktober 1997 tot invoering van een recht op ouderschapsverlof in het kader van de onderbreking van de beroepsloopbaan, was, of met bevallingsverlof was met toepassing van de Arbeidswet van 16 maart 1971, worden gelijkgesteld met periodes waarvoor het personeelslid het salaris volledig heeft ontvangen.<br />
+Het personeelslid ontvangt het volledige bedrag van de toelage, vermeld in artikel 135, als het als titularis van een betrekking met volledige prestaties het volledige salaris heeft ontvangen tijdens de hele duur van de referentieperiode.<br>
+<br>
+Als het personeelslid niet het volledige salaris heeft ontvangen als titularis van een betrekking met volledige prestaties of onvolledige prestaties, wordt het bedrag van de toelage verminderd in verhouding tot het salaris dat het werkelijk heeft ontvangen.<br>
+<br>
+De periodes waarin het personeelslid tijdens de referentieperiode als titularis van een betrekking met volledige prestaties of onvolledige prestaties met ouderschapsverlof, als vermeld in het koninklijk besluit van 29 oktober 1997 tot invoering van een recht op ouderschapsverlof in het kader van de onderbreking van de beroepsloopbaan, was, of met bevallingsverlof was met toepassing van de Arbeidswet van 16 maart 1971,&nbsp;of omstandigheidsverlof genoot voor een gebeurtenis als vermeld in artikel 209, eerste lid, 2°, worden gelijkgesteld met periodes waarvoor het personeelslid het salaris volledig heeft ontvangen.
 
 ### ART. 137.
 
@@ -5100,8 +5104,16 @@ In het bijzonder moeten de algemene regels voor de eventuele vroegtijdige opzegg
 			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">2° bevalling van de echtgenote of samenwonende partner, of ter gelegenheid van de geboorte van een kind dat wettelijk afstamt van de werknemer :</p>
 			</td>
 			<td style="background-color:transparent; height:14.2pt; width:120pt">
-			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">10 werkdagen</p>
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
 			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:14.2pt; width:263.4pt">voor een geboorte vanaf 1 januari 2021</td>
+			<td style="background-color:transparent; height:14.2pt; width:120pt">15 werkdagen</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:14.2pt; width:263.4pt">voor een geboorte vanaf 1 januari 2023</td>
+			<td style="background-color:transparent; height:14.2pt; width:120pt">20 werkdagen</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; height:14.2pt; width:263.4pt">
@@ -5186,15 +5198,18 @@ In het bijzonder moeten de algemene regels voor de eventuele vroegtijdige opzegg
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
-
-<p>De raad bepaalt de nadere algemene regels voor het indienen van de aanvragen en het toekennen van het verlof.<br>
+<p><br>
+De raad bepaalt de nadere algemene regels voor het indienen van de aanvragen en het toekennen van het verlof.<br>
 <br>
-Het omstandigheidsverlof wordt gelijkgesteld met dienstactiviteit en is in alle gevallen bezoldigd, met uitzondering van een deel van het vaderschapsverlof voor contractuele personeelsleden in de gevallen die hierna omschreven worden.<br>
+Het omstandigheidsverlof wordt gelijkgesteld met dienstactiviteit en is in alle gevallen bezoldigd, met uitzondering van het omstandigheidsverlof voor een gebeurtenis als vermeld in het eerste lid, 2°.<br>
 <br>
-Voor het contractuele personeelslid wordt het verlof ter gelegenheid van de geboorte van een kind waarvan de afstamming aan zijn zijde vaststaat, vermeld in 2°, toegekend volgens de regels van het arbeidsrecht, in het bijzonder volgens de regeling, vermeld in artikel 30, § 2, van de wet van 3 juli 1978 op de arbeidsovereenkomsten.</p>
+De volgende beloningsregeling geldt voor het omstandigheidsverlof voor een gebeurtenis als vermeld in het eerste lid, 2° :<br>
+1° als de geboorte vanaf 1 januari 2021 plaatsvindt, heeft het statutaire personeelslid gedurende de eerste tien dagen recht op een doorbetaling van het salaris en gedurende de vijf resterende dagen recht op een brutosalaris van 82%. Om het salaris te bepalen, wordt het brutosalaris op jaarbasis begrensd op 26.230 euro tegen 100%;<br>
+2° als de geboorte vanaf 1 januari 2023 plaatsvindt, heeft het statutaire personeelslid gedurende de eerste tien dagen recht op een doorbetaling van het salaris en gedurende de tien resterende dagen recht op een brutosalaris van 82%. Om het salaris te bepalen, wordt het brutosalaris op jaarbasis begrensd op 26.230 euro tegen 100%.<br>
+<br>
+Voor het contractuele personeelslid wordt het omstandigheidsverlof voor een gebeurtenis als vermeld in het eerste lid, 2°, toegekend conform de regeling, vermeld in artikel 30, § 2, van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.<br>
+<br>
+Voor het personeelslid dat conform artikel 218 dienstvrijstelling heeft gekregen voor de gebeurtenis, vermeld in het eerste lid, 2°, worden die dagen dienstvrijstelling verminderd met het aantal dagen, vermeld in het eerste lid, 2°.</p>
 
 ## HOOFDSTUK X. [Onbetaald verlof als recht (verv. BVR 2 december 2016, art. 4, I: 1 februari 2017)]
 
