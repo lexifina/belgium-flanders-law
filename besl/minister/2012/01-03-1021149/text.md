@@ -17,7 +17,11 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° besluit van 22 oktober 2010 : het besluit van de Vlaamse Regering van 22 oktober 2010 tot vaststelling van de aanvullende voorwaarden en de procedure voor de erkenning als sociale huisvestingsmaatschappij en tot vaststelling van de procedure voor de beoordeling van de prestaties van sociale huisvestingsmaatschappijen;<br />2° visitatiecommissie : de commissie, vermeld in artikel 22, § 2, eerste lid, van het besluit van 22 oktober 2010;<br />3° visitator : lid van de ploeg van visitatoren, vermeld in artikel 22, § 1, eerste lid, van het besluit van 22 oktober 2010.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1°...;<br>
+2° visitatiecommissie : de commissie, vermeld in artikel 4.115, § 2, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021;<br>
+3° visitator : lid van de ploeg van visitatoren, vermeld in artikel 4.115, § 1, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021.<br>
+&nbsp;
 
 ### ART. 2.
 
@@ -25,7 +29,7 @@ De vergoeding voor de visitatoren die de prestaties van de SHM's beoordelen, wor
 1° voor een prestatiebeoordeling van een SHM wordt aan elk lid van de visitatiecommissie een bedrag van 5300 euro toegekend, aangevuld met een bedrag van 3000 euro voor de voorzitter van de visitatiecommissie;<br>
 2° voor een vergadering op verzoek van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen wordt aan elke visitator die op de vergadering aanwezig is, een bedrag toegekend in verhouding tot de duur van de vergadering, waarbij uitgegaan wordt van een bedrag van 1100 euro voor een volledige dag.<br>
 <br>
-De vergoeding voor de voorzitter van de Visitatieraad, vermeld in artikel 22, § 2, derde lid, van het besluit van 22 oktober 2010, wordt forfaitair vastgesteld op 6000 euro per kwartaal. Als de voorzitter van de voormelde Visitatieraad optreedt als voorzitter van een visitatiecommissie, dekt die forfaitaire vergoeding ook de aanvullende vergoeding van de voorzitter van een visitatiecommissie, vermeld in het eerste lid, 1°.<br>
+De vergoeding voor de voorzitter van de Visitatieraad, vermeld in artikel 4.115, § 2, derde lid, van het Besluit Vlaamse Codex Wonen van 2021, wordt forfaitair vastgesteld op 6000 euro per kwartaal. Als de voorzitter van de voormelde Visitatieraad optreedt als voorzitter van een visitatiecommissie, dekt die forfaitaire vergoeding ook de aanvullende vergoeding van de voorzitter van een visitatiecommissie, vermeld in het eerste lid, 1°.<br>
 <br>
 Als de voorzitter of een lid van de visitatiecommissie verhinderd is, kan hij zich met akkoord van de voorzitter van de voormelde Visitatieraad laten vervangen door een andere visitator. In dat geval stelt de voorzitter het aandeel vast in de vergoeding, berekend conform het eerste lid, 1°, dat aan de plaatsvervanger betaald wordt voor de prestaties die hij geleverd heeft.<br>
 <br>
@@ -35,7 +39,7 @@ De eerste dag van het bezoek van de visitatiecommissie aan de SHM is bepalend vo
 
 ### ART. 3.
 
-De bedragen, respectievelijk vermeld in artikel 2, eerste lid, 1° en 2° worden betaald nadat het definitieve visitatierapport, vermeld in artikel 29 van het besluit van 22 oktober 2010, is bezorgd aan de minister.<br>
+De bedragen, respectievelijk vermeld in artikel 2, eerste lid, 1° en 2° worden betaald nadat het definitieve visitatierapport, vermeld in artikel 4.122 van het Besluit Vlaamse Codex Wonen van 2021, is bezorgd aan de minister.<br>
 <br>
 Het bedrag, vermeld in artikel 2, eerste lid, 3°, wordt betaald vanaf de dag die volgt op de dag waarop de vergadering heeft plaatsgevonden.<br>
 <br>
