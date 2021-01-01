@@ -93,6 +93,13 @@ Aan artikel 31/1, eerste lid, 2° van het besluit van de Vlaamse Regering van 9 
 
 ## HOOFDSTUK 7. Wijzigingen van het besluit van de Vlaamse Regering van 10 maart 2017 betreffende de erkenning van beroepskwalificaties voor gereglementeerde beroepen in het onderwijs in het kader van de Europese Richtlijn 2005/36
 
+### ART 9.
+
+In artikel 4 van het besluit van de Vlaamse Regering van de Vlaamse Regering van 10 maart 2017 betreffende de erkenning van beroepskwalificaties voor gereglementeerde beroepen in het onderwijs in het kader van de Europese Richtlijn 2005/36, gewijzigd bij het besluit van de Vlaamse Regering van 28 juni 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt punt 4° vervangen door wat volgt:<br>
+"4° in voorkomend geval kan de bevoegde dienst de aanvrager verzoeken informatie te verstrekken over de opleiding. Als de aanvrager die informatie niet kan verstrekken, richt de bevoegde dienst zich tot het contactpunt, de bevoegde autoriteit, vermeld in artikel 3, 4°, van het decreet, of iedere andere relevante instelling van de lidstaat waar het diploma of getuigschrift is uitgereikt;";<br>
+2° het tweede lid wordt opgeheven.
+
 ## HOOFDSTUK 8. Verlof voor een meelooptraject voor directeur in het basisonderwijs, deeltijds kunstonderwijs, secundair onderwijs, volwassenenonderwijs en de centra voor leerlingenbegeleiding
 
 ### ART 17.
