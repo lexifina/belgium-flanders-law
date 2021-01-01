@@ -74,10 +74,13 @@ De leden worden door de Vlaamse Regering voor een periode van vier jaar benoemd,
 
 ### ART. 4.
 
-De minister nodigt organisaties en geledingen uit om kandidaten voor te dragen voor de mandaten vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, eerste lid, 1° tot en met 5°, tweede lid, 1°, a) tot en met d), tweede lid, 2° a) tot en met c) en § 4, 1° tot en met 4°.<br>
+De minister nodigt organisaties en geledingen uit om kandidaten voor te dragen voor de mandaten vermeld in artikel 2,&nbsp;&nbsp;§ 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, eerste lid, 2° tot en met 5°, tweede lid, 1°, a) tot en met d), tweede lid, 2° a) tot en met c) en § 4, 1° tot en met 4°.<br>
 <br>
 Hij houdt hierbij rekening met de maatschappelijke relevantie en de belangrijkheid van deze organisaties en geledingen evenals met de verscheidenheid ervan.<br>
-&nbsp;
+<br>
+Vier van de acht vertegenwoordigers van de gebruikers, vermeld in artikel 2, § 3, eerste lid, 1°, van dit besluit, worden voorgedragen door een cliëntenforum als vermeld in artikel 45/2 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.<br>
+<br>
+De voordracht van de andere vier vertegenwoordigers van de gebruikers dan de vertegenwoordigers, vermeld in het derde lid, gebeurt met toepassing van het eerste en tweede lid.
 
 ### ART. 5.
 
