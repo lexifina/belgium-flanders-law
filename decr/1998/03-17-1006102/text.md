@@ -32,7 +32,15 @@ De artikelen 1, 2, 5 en 6 hebben uitwerking met ingang van 1 november 1997. Arti
 
 ### ART. 8.
 
-De Vlaamse Huisvestingsmaatschappij, bedoeld in artikel 30 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, en het Vlaams Woningfonds van de Grote Gezinnen, bedoeld in artikel 50 van hetzelfde decreet, krijgen als opdracht om onder de in dit artikel vermelde voorwaarden tussenkomsten in de aankoopprijs en in de betaling van de leningslast te verschaffen voor leningen aangegaan voor de verwerving van een bouwgrond die gelegen is in de door de Vlaamse regering nader te bepalen gebieden van de provincie Vlaams-Brabant.<br /><br />De Vlaamse regering kan, afhankelijk van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, aan de Vlaamse Huisvestingsmaatschappij en het Vlaams Woningfonds van de Grote Gezinnen een subsidie verlenen voor de in het eerste lid bedoelde verrichting.<br /><br />Het Vlaams Woningfonds van de Grote Gezinnen kan de tussenkomst enkel verlenen aan gezinnen met minstens twee kinderen ten laste en voor zover de bouwgronden gelegen zijn in de door de Vlaamse regering nader te bepalen woonvernieuwings- of woningbouwgebieden van de provincie Vlaams-Brabant, bedoeld in artikel 23 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br /><br />De tussenkomsten kunnen enkel worden verleend aan particulieren die voldoen aan de door de Vlaamse regering te bepalen eigendoms- en inkomensvoorwaarde.<br /><br />De Vlaamse regering bepaalt de nadere voorwaarden voor de toepassing van dit artikel.
+De Vlaamse Huisvestingsmaatschappij, bedoeld in artikel 4.7 van de Vlaamse Codex Wonen van 2021, en het Vlaams Woningfonds van de Grote Gezinnen, bedoeld in artikel 4.60 van de voormelde codex, krijgen als opdracht om onder de in dit artikel vermelde voorwaarden tussenkomsten in de aankoopprijs en in de betaling van de leningslast te verschaffen voor leningen aangegaan voor de verwerving van een bouwgrond die gelegen is in de door de Vlaamse regering nader te bepalen gebieden van de provincie Vlaams-Brabant.<br>
+<br>
+De Vlaamse regering kan, afhankelijk van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, aan de Vlaamse Huisvestingsmaatschappij en het Vlaams Woningfonds van de Grote Gezinnen een subsidie verlenen voor de in het eerste lid bedoelde verrichting.<br>
+<br>
+Het Vlaams Woningfonds van de Grote Gezinnen kan de tussenkomst enkel verlenen aan gezinnen met minstens twee kinderen ten laste en voor zover de bouwgronden gelegen zijn in de door de Vlaamse regering nader te bepalen woonvernieuwings- of woningbouwgebieden van de provincie Vlaams-Brabant, bedoeld in artikel 2.36 van de Vlaamse Codex Wonen van 2021.<br>
+<br>
+De tussenkomsten kunnen enkel worden verleend aan particulieren die voldoen aan de door de Vlaamse regering te bepalen eigendoms- en inkomensvoorwaarde.<br>
+<br>
+De Vlaamse regering bepaalt de nadere voorwaarden voor de toepassing van dit artikel.
 
 ## HOOFDSTUK II STEDELIJK BELEID
 
