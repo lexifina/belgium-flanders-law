@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:<br>
 1° aanvang van de normale werking: de eerste dag van de verrichtingen;<br>
 2° annuleren van emissierechten: het ongeldig of onbruikbaar maken van emissierechten;<br>
 3° besluit van 27 november 2015: het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
-4° departement: het Departement Omgeving;<br>
+4° ...;<br>
 5° EU-ETS: het systeem voor de handel in broeikasgasemissierechten binnen de Unie om de emissies van broeikasgassen op een kosteneffectieve en economisch efficiënte wijze te verminderen, vastgesteld bij richtlijn 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van een systeem voor de handel in broeikasgasemissierechten binnen de Unie en tot wijziging van Richtlijn 96/61/EG van de Raad;<br>
 6° exploitant van een BKG-installatie: de houder(s) van de omgevingsvergunning(en) van een BKG-installatie;<br>
 7° exploitant van een nieuwkomer: de houder(s) van de omgevingsvergunning(en) van een nieuwkomer;<br>
@@ -68,7 +68,8 @@ b) tijdens de toewijzingsperiode 2026-2030: een BKG-installatie waaraan voor het
 11° persoon: een natuurlijk persoon of een rechtspersoon;<br>
 12° register: het deel van het geconsolideerd systeem van Europese registers overeenkomstig artikel 19 van richtlijn 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van richtlijn 96/61/EG van de Raad en artikel 10 van verordening (EU) 525/2013 van het Europees Parlement en de Raad van 21 mei 2013 betreffende een bewakings- en rapportagesysteem voor de uitstoot van broeikasgassen en een rapportagemechanisme voor overige informatie op nationaal niveau en op het niveau van de Unie met betrekking tot klimaatverandering, en tot intrekking van beschikking nr. 280/2004/EG, dat wordt beheerd door België;<br>
 13° registeradministrateur: de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu, die de rekeningen en de gebruikers in het register beheert die als Belgische nationale administrateur is aangewezen conform verordening (EU) 389/2013 van de Commissie van 2 mei 2013 tot instelling van een EU-register overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad, Beschikkingen 280/2004/EG en 406/2009/EG van het Europees Parlement en de Raad en tot intrekking van de Verordeningen (EU) 920/2010 en 1193/2011 van de Commissie;<br>
-14° titel II van het VLAREM: het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne.
+14° titel II van het VLAREM: het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
+15° VEKA: het Vlaams Energie- en Klimaatagentschap, opgericht bij artikel 2.1.1 van het Energiebesluit van 19 november 2010.
 
 ## HOOFDSTUK 2. Bepalingen voor BKG-installaties ter voorbereiding van de periode 2021-2030
 
@@ -80,28 +81,28 @@ b) tijdens de toewijzingsperiode 2026-2030: een BKG-installatie waaraan voor het
 <br>
 In afwijking van paragraaf 1 kan de exploitant van een BKG-installatie die op een site over meerdere omgevingsvergunningen beschikt, het geheel van de ingedeelde inrichtingen of activiteiten op de site samenvoegen bij de aanvang van de periode 2021-2030. De grenzen van de BKG-installatie vallen in voorkomend geval samen met de grenzen van de samengevoegde omgevingsvergunningen.<br>
 <br>
-In afwijking van paragraaf 1 kan de exploitant van een BKG-installatie die beschikt over een omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit die meerdere installaties vergunt, die installaties bij de aanvang van de periode 2021-2030 opsplitsen per vaste technische eenheid als ze allemaal kunnen worden aangemerkt als een vaste technische eenheid als vermeld in artikel 49, tweede lid, van het besluit van 27 november 2015. Het departement kan nagaan of voldaan is aan de voorwaarden van de definitie van vaste technische eenheid. De grenzen van elke BKG-installatie vallen in voorkomend geval samen met de grenzen van de vaste technische eenheid.<br>
+In afwijking van paragraaf 1 kan de exploitant van een BKG-installatie die beschikt over een omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit die meerdere installaties vergunt, die installaties bij de aanvang van de periode 2021-2030 opsplitsen per vaste technische eenheid als ze allemaal kunnen worden aangemerkt als een vaste technische eenheid als vermeld in artikel 49, tweede lid, van het besluit van 27 november 2015. Het VEKA kan nagaan of voldaan is aan de voorwaarden van de definitie van vaste technische eenheid. De grenzen van elke BKG-installatie vallen in voorkomend geval samen met de grenzen van de vaste technische eenheid.<br>
 <br>
-De vraag tot aanpassing van de grenzen van de BKG-installatie, vermeld in het eerste tot en met het derde lid, wordt samen met de aanvraag tot kosteloze toewijzing van emissierechten bij het departement ingediend.<br>
+De vraag tot aanpassing van de grenzen van de BKG-installatie, vermeld in het eerste tot en met het derde lid, wordt samen met de aanvraag tot kosteloze toewijzing van emissierechten bij het VEKA ingediend.<br>
 <br>
-§ 3. Als er tijdens de periode 2021-2030 sprake is van een fusie of splitsing als vermeld in artikel 25 van de gedelegeerde verordening (EU) 2019/331, meldt de exploitant van een BKG-installatie dat onverwijld aan het departement. Artikel 25 van de voormelde verordening is van toepassing.<br>
+§ 3. Als er tijdens de periode 2021-2030 sprake is van een fusie of splitsing als vermeld in artikel 25 van de gedelegeerde verordening (EU) 2019/331, meldt de exploitant van een BKG-installatie dat onverwijld aan het VEKA. Artikel 25 van de voormelde verordening is van toepassing.<br>
 <br>
-§ 4. De exploitant van een BKG-installatie die beschikt over een omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit die meerdere installaties vergunt, kan die installaties bij de aanvang van de periode 2026-2030 opsplitsen per vaste technische eenheid als ze allemaal kunnen worden aangemerkt als een vaste technische eenheid als vermeld in artikel 49, tweede lid, van het besluit van 27 november 2015. Het departement gaat na of voldaan is aan de voorwaarden van de definitie van vaste technische eenheid en de bepalingen uit Richtlijn 2003/87/EG van het Europees Parlement en de Raad en de gedelegeerde verordening (EU) 2019/331. De grenzen van elke BKG-installatie vallen in voorkomend geval samen met de grenzen van de vaste technische eenheid.<br>
+§ 4. De exploitant van een BKG-installatie die beschikt over een omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit die meerdere installaties vergunt, kan die installaties bij de aanvang van de periode 2026-2030 opsplitsen per vaste technische eenheid als ze allemaal kunnen worden aangemerkt als een vaste technische eenheid als vermeld in artikel 49, tweede lid, van het besluit van 27 november 2015. Het VEKA gaat na of voldaan is aan de voorwaarden van de definitie van vaste technische eenheid en de bepalingen uit Richtlijn 2003/87/EG van het Europees Parlement en de Raad en de gedelegeerde verordening (EU) 2019/331. De grenzen van elke BKG-installatie vallen in voorkomend geval samen met de grenzen van de vaste technische eenheid.<br>
 <br>
-De vraag tot aanpassing van de grenzen van de BKG-installatie, vermeld in het eerste lid, wordt samen met de aanvraag tot kosteloze toewijzing van emissierechten, vermeld in artikel 5, lid 2, bij het departement ingediend.
+De vraag tot aanpassing van de grenzen van de BKG-installatie, vermeld in het eerste lid, wordt samen met de aanvraag tot kosteloze toewijzing van emissierechten, vermeld in artikel 5, lid 2, bij het VEKA ingediend.
 
 ### ART 4.
 
 § 1. Voor een nieuwkomer worden bij de opstart de grenzen vastgesteld op een van de volgende wijzen:<br>
 1° de grenzen vallen samen met de grenzen van de omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit;<br>
 2° de exploitant van een nieuwkomer die op een site over meerdere omgevingsvergunningen beschikt, kan het geheel van de ingedeelde inrichtingen of activiteiten op de site samenvoegen. De grenzen van de BKG-installatie vallen in voorkomend geval samen met de grenzen van de samengevoegde omgevingsvergunningen;<br>
-3° de exploitant van een nieuwkomer die beschikt over een omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit die meerdere installaties vergunt, kan die installaties opsplitsen per vaste technische eenheid als ze allemaal kunnen worden aangemerkt als een vaste technische eenheid als vermeld in artikel 49, tweede lid, van het besluit van 27 november 2015. Het departement kan nagaan of voldaan is aan de voorwaarden van de definitie van vaste technische eenheid. De grenzen van elke nieuwkomer vallen in voorkomend geval samen met de grenzen van de vaste technische eenheid.<br>
+3° de exploitant van een nieuwkomer die beschikt over een omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit die meerdere installaties vergunt, kan die installaties opsplitsen per vaste technische eenheid als ze allemaal kunnen worden aangemerkt als een vaste technische eenheid als vermeld in artikel 49, tweede lid, van het besluit van 27 november 2015. Het VEKA kan nagaan of voldaan is aan de voorwaarden van de definitie van vaste technische eenheid. De grenzen van elke nieuwkomer vallen in voorkomend geval samen met de grenzen van de vaste technische eenheid.<br>
 <br>
-§ 2. Als er tijdens de periode 2021-2030 sprake is van een fusie of splitsing als vermeld in artikel 25 van de gedelegeerde verordening (EU) 2019/331, meldt de exploitant van een nieuwkomer dat onverwijld aan het departement. Artikel 25 van de voormelde verordening is van toepassing.<br>
+§ 2. Als er tijdens de periode 2021-2030 sprake is van een fusie of splitsing als vermeld in artikel 25 van de gedelegeerde verordening (EU) 2019/331, meldt de exploitant van een nieuwkomer dat onverwijld aan het VEKA. Artikel 25 van de voormelde verordening is van toepassing.<br>
 <br>
-§ 3. De exploitant van een nieuwkomer die beschikt over een omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit die meerdere installaties vergunt, kan die installaties bij de aanvang van de periode 2026-2030 opsplitsen per vaste technische eenheid als ze allemaal kunnen worden aangemerkt als een vaste technische eenheid als vermeld in artikel 49, tweede lid, van het besluit van 27 november 2015. Het departement gaat na of voldaan is aan de voorwaarden van de definitie van vaste technische eenheid en de bepalingen uit Richtlijn 2003/87/EG van het Europees Parlement en de Raad en de gedelegeerde verordening (EU) 2019/331. De grenzen van elke BKG-installatie vallen in voorkomend geval samen met de grenzen van de vaste technische eenheid.<br>
+§ 3. De exploitant van een nieuwkomer die beschikt over een omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit die meerdere installaties vergunt, kan die installaties bij de aanvang van de periode 2026-2030 opsplitsen per vaste technische eenheid als ze allemaal kunnen worden aangemerkt als een vaste technische eenheid als vermeld in artikel 49, tweede lid, van het besluit van 27 november 2015. Het VEKA gaat na of voldaan is aan de voorwaarden van de definitie van vaste technische eenheid en de bepalingen uit Richtlijn 2003/87/EG van het Europees Parlement en de Raad en de gedelegeerde verordening (EU) 2019/331. De grenzen van elke BKG-installatie vallen in voorkomend geval samen met de grenzen van de vaste technische eenheid.<br>
 <br>
-De vraag tot aanpassing van de grenzen van de BKG-installatie, vermeld in het eerste lid, wordt samen met de aanvraag tot kosteloze toewijzing van emissierechten, vermeld in artikel 5, lid 2, bij het departement ingediend.
+De vraag tot aanpassing van de grenzen van de BKG-installatie, vermeld in het eerste lid, wordt samen met de aanvraag tot kosteloze toewijzing van emissierechten, vermeld in artikel 5, lid 2, bij het VEKA ingediend.
 
 ## HOOFDSTUK 3. De kosteloze toewijzing van emissierechten tijdens de periode 2021-2030
 
@@ -111,27 +112,27 @@ De vraag tot aanpassing van de grenzen van de BKG-installatie, vermeld in het ee
 
 De exploitant van een BKG-installatie die in aanmerking wil komen voor een kosteloze toewijzing van emissierechten voor de periode 2021-2025, dient uiterlijk op 30 juni 2019 bij het departement een aanvraag in conform artikel 4 van de gedelegeerde verordening (EU) 2019/331. De exploitant dient de aanvraag elektronisch in. Hij bezorgt zowel een ondertekende versie in pdf-formaat als een versie in Excelformaat.<br>
 <br>
-De exploitant van een BKG-installatie die in aanmerking wil komen voor een kosteloze toewijzing van emissierechten voor de periode 2026-2030, dient uiterlijk op 31 mei 2024 bij het departement een aanvraag in conform artikel 4 van de voormelde verordening. De exploitant dient de aanvraag elektronisch in. Hij bezorgt zowel een ondertekende versie in pdf-formaat als een versie in Excelformaat. Het departement kan op gemotiveerde wijze een uitstel van maximaal één maand verlenen.<br>
+De exploitant van een BKG-installatie die in aanmerking wil komen voor een kosteloze toewijzing van emissierechten voor de periode 2026-2030, dient uiterlijk op 31 mei 2024 bij het VEKA een aanvraag in conform artikel 4 van de voormelde verordening. De exploitant dient de aanvraag elektronisch in. Hij bezorgt zowel een ondertekende versie in pdf-formaat als een versie in Excelformaat. Het VEKA kan op gemotiveerde wijze een uitstel van maximaal één maand verlenen.<br>
 <br>
 De aanvraag, vermeld in het eerste en het tweede lid, wordt ingediend conform artikel 4 van de gedelegeerde verordening (EU) 2019/331. De exploitant van een BKG-installatie ziet erop toe dat er geen overlappingen tussen subinstallaties en geen dubbeltellingen zijn.
 
 ### ART 6.
 
-§ 1. Het departement controleert conform artikel 15, lid 1, van de gedelegeerde verordening (EU) 2019/331 of de aanvragen tot kosteloze toewijzing van emissierechten voldoen aan de bepalingen van de gedelegeerde verordening (EU) 2019/331 en kan zich daarvoor laten bijstaan door externe experten. Die controle kan ertoe leiden dat de exploitant van een BKG-installatie de ingediende aanvraag tot kosteloze toewijzing van emissierechten aanpast.<br>
+§ 1. Het VEKA controleert conform artikel 15, lid 1, van de gedelegeerde verordening (EU) 2019/331 of de aanvragen tot kosteloze toewijzing van emissierechten voldoen aan de bepalingen van de gedelegeerde verordening (EU) 2019/331 en kan zich daarvoor laten bijstaan door externe experten. Die controle kan ertoe leiden dat de exploitant van een BKG-installatie de ingediende aanvraag tot kosteloze toewijzing van emissierechten aanpast.<br>
 <br>
-Als de aanvraag tot kosteloze toewijzing van emissierechten voldoet aan de bepalingen van de voormelde verordening (EU) 2019/331, aanvaardt het departement die aanvraag.<br>
+Als de aanvraag tot kosteloze toewijzing van emissierechten voldoet aan de bepalingen van de voormelde verordening (EU) 2019/331, aanvaardt het VEKA die aanvraag.<br>
 <br>
-§ 2. Het departement brengt de exploitant van een BKG-installatie op elektronische wijze op de hoogte van de beslissing.<br>
+§ 2. Het VEKA brengt de exploitant van een BKG-installatie op elektronische wijze op de hoogte van de beslissing.<br>
 <br>
 Bij niet aanvaarding van de aanvraag kan de exploitant van de BKG-installatie beroep aantekenen bij de minister. De minister beslist over dit beroep binnen de 30 dagen.<br>
 <br>
-§ 3. Op basis van de ontvangen en aanvaarde aanvragen tot kosteloze toewijzing van emissierechten stelt het departement voor de periode 2021-2025 en de periode 2026-2030 een lijst op die voor elke BKG-installatie informatie bevat over de volgende aspecten:<br>
+§ 3. Op basis van de ontvangen en aanvaarde aanvragen tot kosteloze toewijzing van emissierechten stelt het VEKA voor de periode 2021-2025 en de periode 2026-2030 een lijst op die voor elke BKG-installatie informatie bevat over de volgende aspecten:<br>
 1° de productieactiviteit;<br>
 2° de overdracht van warmte en gassen;<br>
 3° de elektriciteitsproductie;<br>
 4° de emissies op het niveau van de subinstallatie tijdens de vijf kalenderjaren die voorafgaan aan de indiening, vermeld in artikel 5.<br>
 <br>
-§ 4. Het departement bezorgt de lijst voor de periode 2021-2025 en de periode 2026-2030, vermeld in paragraaf 3, aan de nationale klimaatcommissie, die die lijst op haar beurt uiterlijk vijftien maanden voor de start van de periode 2021-2025 of de periode 2026-2030 bij de Europese Commissie indient.
+§ 4. Het VEKA bezorgt de lijst voor de periode 2021-2025 en de periode 2026-2030, vermeld in paragraaf 3, aan de nationale klimaatcommissie, die die lijst op haar beurt uiterlijk vijftien maanden voor de start van de periode 2021-2025 of de periode 2026-2030 bij de Europese Commissie indient.
 
 ### ART 7.
 
@@ -145,25 +146,25 @@ De minister kan nadere regels en procedures bepalen voor de indiening van de aan
 
 Kosteloze toewijzingen worden alleen verstrekt aan BKG-installaties waarvoor de gegevens, vermeld in artikel 6, § 3, zijn ingediend bij de Europese Commissie conform artikel 6, § 4.<br>
 <br>
-Een exploitant van een BKG-installatie kan altijd afstand doen van de jaarlijkse hoeveelheid kosteloos toegewezen emissierechten conform artikel 24 van de gedelegeerde verordening (EU) 2019/331. Hij dient daarvoor een aanvraag in bij het departement. Hij kan die aanvraag niet herroepen gedurende de periode waarop de aanvraag betrekking heeft.
+Een exploitant van een BKG-installatie kan altijd afstand doen van de jaarlijkse hoeveelheid kosteloos toegewezen emissierechten conform artikel 24 van de gedelegeerde verordening (EU) 2019/331. Hij dient daarvoor een aanvraag in bij het VEKA. Hij kan die aanvraag niet herroepen gedurende de periode waarop de aanvraag betrekking heeft.
 
 ### ART 9.
 
 De minister beslist over de voorlopige jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor elke BKG-installatie voor de periode 2021-2025 of de periode 2026-2030 conform artikel 14, lid 5, van de gedelegeerde verordening (EU) 2019/331, als de Europese Commissie de opname van een BKG-installatie op de lijst, vermeld in artikel 6, § 3, van dit besluit, en de daarbij behorende gegevens niet verwerpt, en als de Europese Commissie de aangepaste benchmarks voor de periode 2021-2025 of de periode 2026-2030 heeft vastgesteld.<br>
 <br>
-Het departement brengt elke exploitant van een BKG-installatie op elektronische wijze op de hoogte van de voorlopige jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de periode 2021-2025 of de periode 2026-2030.
+Het VEKA brengt elke exploitant van een BKG-installatie op elektronische wijze op de hoogte van de voorlopige jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de periode 2021-2025 of de periode 2026-2030.
 
 ### ART 10.
 
 Als de Europese Commissie de uniforme transsectorale correctiefactor heeft bekendgemaakt voor de periode 2021-2025 of de periode 2026-2030, beslist de minister over de definitieve jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor elke BKG-installatie voor de periode 2021-2025 of de periode 2026-2030 conform artikel 14, lid 7, van de gedelegeerde verordening (EU) 2019/331.<br>
 <br>
-Het departement brengt elke exploitant op elektronische wijze op de hoogte van de definitieve jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de periode 2021-2025 of de periode 2026-2030.
+Het VEKA brengt elke exploitant op elektronische wijze op de hoogte van de definitieve jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de periode 2021-2025 of de periode 2026-2030.
 
 ### ART 11.
 
 De definitieve jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor BKG-installaties wordt in voorkomend geval aangepast conform de toewijzingsregels van de uitvoerende verordening, vermeld in artikel 10bis, paragraaf 21, van de richtlijn.<br>
 <br>
-Het departement brengt de exploitant van een BKG-installatie op elektronische wijze op de hoogte van de aanpassing van de definitieve jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de periode 2021-2025 of de periode 2026-2030.<br>
+Het VEKA brengt de exploitant van een BKG-installatie op elektronische wijze op de hoogte van de aanpassing van de definitieve jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de periode 2021-2025 of de periode 2026-2030.<br>
 <br>
 De minister kan nadere regels en procedures opstellen voor de aanpassing van de definitieve jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor BKG-installaties conform de toewijzingsregels van de uitvoerende verordening, vermeld in artikel 10bis, paragraaf 21, van de richtlijn.
 
@@ -171,25 +172,25 @@ De minister kan nadere regels en procedures opstellen voor de aanpassing van de 
 
 ### ART 12.
 
-De exploitant van een nieuwkomer die in aanmerking wil komen voor een kosteloze toewijzing van emissierechten dient bij het departement een aanvraag in conform artikel 5 van de gedelegeerde verordening (EU) 2019/331. De exploitant dient de aanvraag elektronisch in. Hij bezorgt zowel een ondertekende versie in pdf-formaat als een versie in Excelformaat.<br>
+De exploitant van een nieuwkomer die in aanmerking wil komen voor een kosteloze toewijzing van emissierechten dient bij het VEKA een aanvraag in conform artikel 5 van de gedelegeerde verordening (EU) 2019/331. De exploitant dient de aanvraag elektronisch in. Hij bezorgt zowel een ondertekende versie in pdf-formaat als een versie in Excelformaat.<br>
 <br>
 De aanvraag, vermeld in het eerste lid, wordt ingediend conform artikel 5 van de voormelde verordening. De exploitant van een nieuwkomer ziet erop toe dat er geen overlappingen tussen sub-installaties en geen dubbeltellingen zijn.
 
 ### ART 13.
 
-§ 1. Het departement controleert conform artikel 5 van de gedelegeerde verordening (EU) 2019/331 of de aanvraag tot kosteloze toewijzing van emissierechten voor een nieuwkomer voldoet aan de bepalingen van voormelde verordening en kan zich daarvoor laten bijstaan door externe experten. Die controle kan ertoe leiden dat de exploitant van een BKG-installatie de ingediende aanvraag tot kosteloze toewijzing van emissierechten aanpast.<br>
+§ 1. Het VEKA controleert conform artikel 5 van de gedelegeerde verordening (EU) 2019/331 of de aanvraag tot kosteloze toewijzing van emissierechten voor een nieuwkomer voldoet aan de bepalingen van voormelde verordening en kan zich daarvoor laten bijstaan door externe experten. Die controle kan ertoe leiden dat de exploitant van een BKG-installatie de ingediende aanvraag tot kosteloze toewijzing van emissierechten aanpast.<br>
 <br>
-Als de aanvraag tot kosteloze toewijzing van emissierechten voor een nieuwkomer voldoet aan de bepalingen van de voormelde verordening, keurt het departement conform artikel 5 van de voormelde verordening de aanvraag en de aanvang van de normale werking goed en beslist de minister conform artikel 18 van voormelde verordening over de voorlopige jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de nieuwkomer.<br>
+Als de aanvraag tot kosteloze toewijzing van emissierechten voor een nieuwkomer voldoet aan de bepalingen van de voormelde verordening, keurt het VEKA conform artikel 5 van de voormelde verordening de aanvraag en de aanvang van de normale werking goed en beslist de minister conform artikel 18 van voormelde verordening over de voorlopige jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de nieuwkomer.<br>
 <br>
-§ 2. Het departement brengt de exploitant van een nieuwkomer op elektronische wijze op de hoogte van de gemotiveerde beslissing over het al of niet goedkeuren van de aanvraag tot kosteloze toewijzing van emissierechten voor de nieuwkomer en van de voorlopige jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de nieuwkomer.<br>
+§ 2. Het VEKA brengt de exploitant van een nieuwkomer op elektronische wijze op de hoogte van de gemotiveerde beslissing over het al of niet goedkeuren van de aanvraag tot kosteloze toewijzing van emissierechten voor de nieuwkomer en van de voorlopige jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de nieuwkomer.<br>
 <br>
 Bij niet goedkeuring van de aanvraag of de voorlopige jaarlijkse hoeveelheid kosteloos toegewezen emissierechten kan de exploitant van de BKG-installatie beroep aantekenen bij de minister. De minister beslist over dit beroep binnen de 30 dagen.<br>
 <br>
-§ 3. Het departement brengt de Europese Commissie onmiddellijk op de hoogte van de voorlopige jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de nieuwkomer.<br>
+§ 3. Het VEKA brengt de Europese Commissie onmiddellijk op de hoogte van de voorlopige jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de nieuwkomer.<br>
 <br>
 § 4. Als de Europese Commissie de voorlopige jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de nieuwkomer niet verwerpt, beslist de minister over de definitieve hoeveelheid kosteloos toegewezen emissierechten voor de nieuwkomer conform artikel 18 van de gedelegeerde verordening (EU) 2019/331.<br>
 <br>
-Het departement brengt de exploitant van een nieuwkomer op elektronische wijze op de hoogte van de definitieve hoeveelheid kosteloos toegewezen emissierechten voor de nieuwkomer.
+Het VEKA brengt de exploitant van een nieuwkomer op elektronische wijze op de hoogte van de definitieve hoeveelheid kosteloos toegewezen emissierechten voor de nieuwkomer.
 
 ### ART 14.
 
@@ -201,7 +202,7 @@ De minister kan nadere regels en procedures bepalen voor de indiening van de aan
 
 De definitieve jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor nieuwkomers wordt in voorkomend geval aangepast conform de toewijzingsregels van de uitvoerende verordening, vermeld in artikel 10bis, paragraaf 21, van de richtlijn.<br>
 <br>
-Het departement brengt de exploitant van een nieuwkomer op elektronische wijze op de hoogte van de aanpassing van de definitieve jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de periode 2021-2025 of de periode 2026-2030.<br>
+Het VEKA brengt de exploitant van een nieuwkomer op elektronische wijze op de hoogte van de aanpassing van de definitieve jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de periode 2021-2025 of de periode 2026-2030.<br>
 <br>
 De minister kan nadere regels en procedures opstellen voor de aanpassing van de definitieve jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor nieuwkomers conform de toewijzingsregels van de uitvoerende verordening, vermeld in artikel 10bis, paragraaf 21, van de richtlijn
 
@@ -216,23 +217,23 @@ De minister kan nadere regels en procedures opstellen voor de aanpassing van de 
 <br>
 De omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit, vermeld in het eerste lid, 1°, betreft de volledige omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit of het deel van de omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit dat betrekking heeft op de BKG-installatie.<br>
 <br>
-§ 2. De exploitant van een BKG-installatie meldt elk geval, vermeld in paragraaf 1, eerste lid, onverwijld aan het departement.<br>
+§ 2. De exploitant van een BKG-installatie meldt elk geval, vermeld in paragraaf 1, eerste lid, onverwijld aan het VEKA.<br>
 <br>
 De minister kan nadere regels en procedures opstellen voor de melding.<br>
 <br>
-§ 3. Als de exploitant van een BKG-installatie de melding, vermeld in paragraaf 2, niet bezorgt aan het departement conform de regels opgesteld door de minister, kan het departement vaststellen dat aan een van de voorwaarden, vermeld in paragraaf 1, eerste lid, is voldaan op basis van een gemotiveerd advies van het verificatiebureau.<br>
+§ 3. Als de exploitant van een BKG-installatie de melding, vermeld in paragraaf 2, niet bezorgt aan het VEKA conform de regels opgesteld door de minister, kan het VEKA vaststellen dat aan een van de voorwaarden, vermeld in paragraaf 1, eerste lid, is voldaan op basis van een gemotiveerd advies van het verificatiebureau.<br>
 <br>
 In het eerste lid wordt verstaan onder verificatiebureau: de organisatie die is aangesteld om de correcte uitvoering van de energiebeleidsovereenkomst te bewaken, en daarover adviezen te verstrekken en verslag uit te brengen, vermeld in artikel 4 van de energiebeleidsovereenkomst voor de verankering van en voor blijvende energie-efficiëntie in de Vlaamse energie-intensieve industrie (VER-bedrijven), goedgekeurd door de Vlaamse Regering op 4 april 2014.<br>
 <br>
 § 4. Met behoud van de toepassing van artikel 11 en 15 stelt de minister in alle gevallen, vermeld in paragraaf 1, eerste lid, de kosteloze toewijzing van emissierechten vast op nul voor de resterende kalenderjaren van de periode 2021-2025 of de periode 2026-2030. De vaststelling van de kosteloze toewijzing van emissierechten op nul start in het jaar nadat aan een van de voorwaarden, vermeld in paragraaf 1, eerste lid, is voldaan.<br>
 <br>
-§ 5. Het departement brengt de exploitant van een BKG-installatie op elektronische wijze op de hoogte van de stopzetting van de jaarlijkse hoeveelheid kosteloos toegewezen emissierechten.
+§ 5. Het VEKA brengt de exploitant van een BKG-installatie op elektronische wijze op de hoogte van de stopzetting van de jaarlijkse hoeveelheid kosteloos toegewezen emissierechten.
 
 ## Afdeling 5. Openbaarmaking van informatie en confidentiële bedrijfsinformatie
 
 ### ART 17.
 
-Voor elke BKG-installatie wordt de hoeveelheid kosteloos toegewezen emissierechten openbaar gemaakt op de website van het departement.<br>
+Voor elke BKG-installatie wordt de hoeveelheid kosteloos toegewezen emissierechten openbaar gemaakt op de website van het VEKA.<br>
 <br>
 Informatie die onder het beroepsgeheim valt, wordt niet openbaar gemaakt aan andere personen of autoriteiten, tenzij op grond van andere wettelijke, bestuursrechtelijke of administratieve bepalingen.
 
@@ -242,27 +243,27 @@ Informatie die onder het beroepsgeheim valt, wordt niet openbaar gemaakt aan and
 
 Tijdens de periode 2021-2030 wordt jaarlijks, uiterlijk op 28 februari, de hoeveelheid kosteloos toegewezen emissierechten voor het kalenderjaar in kwestie verleend aan de exploitant van een BKG-installatie.<br>
 <br>
-Het departement geeft de eerste opdracht om emissierechten te verlenen aan nieuwkomers nadat de kosteloze toewijzing van emissierechten voor de nieuwkomer conform artikel 13, § 4, van dit besluit, is vastgesteld. De emissierechten die voor de resterende kalenderjaren van de periode 2021-2025 of de periode 2026-2030 zijn toegewezen, worden uiterlijk op 28 februari van het kalenderjaar in kwestie verleend.
+Het VEKA geeft de eerste opdracht om emissierechten te verlenen aan nieuwkomers nadat de kosteloze toewijzing van emissierechten voor de nieuwkomer conform artikel 13, § 4, van dit besluit, is vastgesteld. De emissierechten die voor de resterende kalenderjaren van de periode 2021-2025 of de periode 2026-2030 zijn toegewezen, worden uiterlijk op 28 februari van het kalenderjaar in kwestie verleend.
 
 ### ART 19.
 
-In afwijking van artikel 18 kan het departement de verlening van kosteloze toewijzing van emissierechten aan de exploitant van een BKG-installatie opschorten als de BKG-installatie niet meer in bedrijf is, tot het moment dat de activiteiten opnieuw worden opgestart.<br>
+In afwijking van artikel 18 kan het VEKA de verlening van kosteloze toewijzing van emissierechten aan de exploitant van een BKG-installatie opschorten als de BKG-installatie niet meer in bedrijf is, tot het moment dat de activiteiten opnieuw worden opgestart.<br>
 <br>
-In afwijking van artikel 18 geeft het departement de opdracht aan de registeradministrateur om de verlening van emissierechten uit te stellen, als de hoeveelheid kosteloos toegewezen rechten werd verlaagd conform artikel 11, eerste lid, artikel 15, eerste lid, of artikel 16, § 4, en als de aangepaste hoeveelheid kosteloos toegewezen rechten nog niet is opgenomen in het register. De emissierechten worden pas verleend als de aangepaste verlaagde hoeveelheid kosteloos toegewezen rechten is opgenomen in het register.
+In afwijking van artikel 18 geeft het VEKA de opdracht aan de registeradministrateur om de verlening van emissierechten uit te stellen, als de hoeveelheid kosteloos toegewezen rechten werd verlaagd conform artikel 11, eerste lid, artikel 15, eerste lid, of artikel 16, § 4, en als de aangepaste hoeveelheid kosteloos toegewezen rechten nog niet is opgenomen in het register. De emissierechten worden pas verleend als de aangepaste verlaagde hoeveelheid kosteloos toegewezen rechten is opgenomen in het register.
 
 ### ART 20.
 
 § 1. In dit artikel wordt verstaan onder onverschuldigd verleende emissierechten: het positieve verschil tussen de hoeveelheid emissierechten verleend conform artikel 18 en de hoeveelheid emissierechten toegewezen op grond van de beslissingen, vermeld in artikel 10, 11, 13, 15 en 16.<br>
 <br>
-§ 2. Als er onverschuldigde emissierechten zijn verleend, stelt het departement de hoeveelheid onverschuldigd verleende emissierechten vast binnen twee jaar na de dag van de verlening ervan. Het departement brengt de exploitant van de BKG-installatie op elektronische wijze op de hoogte van die vaststelling. Daarbij vermeldt het departement minstens:<br>
+§ 2. Als er onverschuldigde emissierechten zijn verleend, stelt het VEKA de hoeveelheid onverschuldigd verleende emissierechten vast binnen twee jaar na de dag van de verlening ervan. Het VEKA brengt de exploitant van de BKG-installatie op elektronische wijze op de hoogte van die vaststelling. Daarbij vermeldt het VEKA minstens:<br>
 1° de hoeveelheid onverschuldigd verleende emissierechten;<br>
 2° de motivatie waarom die hoeveelheid emissierechten onverschuldigd verleend zijn.<br>
 <br>
-§ 3. Het departement vordert een equivalente hoeveelheid van de onverschuldigd verleende emissierechten terug van de exploitant van de BKG-installatie.<br>
+§ 3. Het VEKA vordert een equivalente hoeveelheid van de onverschuldigd verleende emissierechten terug van de exploitant van de BKG-installatie.<br>
 <br>
-Als de onverschuldigd verleende emissierechten het gevolg zijn van een stopzetting die is vastgesteld conform artikel 16, § 3, kan het departement opdracht geven aan de registeradministrateur om een equivalente hoeveelheid van de onverschuldigd verleende emissierechten namens de exploitant van de BKG-installatie terug te storten.<br>
+Als de onverschuldigd verleende emissierechten het gevolg zijn van een stopzetting die is vastgesteld conform artikel 16, § 3, kan het VEKA opdracht geven aan de registeradministrateur om een equivalente hoeveelheid van de onverschuldigd verleende emissierechten namens de exploitant van de BKG-installatie terug te storten.<br>
 <br>
-§ 4. Als de hoeveelheid onverschuldigd verleende emissierechten niet kan worden teruggevorderd van de exploitant van de BKG-installatie in kwestie, geeft het departement de opdracht aan de registeradministrateur om de hoeveelheid onverschuldigd verleende emissierechten in mindering te brengen bij de eerstvolgende verlening aan de exploitant van de BKG-installatie in kwestie.
+§ 4. Als de hoeveelheid onverschuldigd verleende emissierechten niet kan worden teruggevorderd van de exploitant van de BKG-installatie in kwestie, geeft het VEKA de opdracht aan de registeradministrateur om de hoeveelheid onverschuldigd verleende emissierechten in mindering te brengen bij de eerstvolgende verlening aan de exploitant van de BKG-installatie in kwestie.
 
 ## HOOFDSTUK 5. De overdracht van emissierechten
 
@@ -288,7 +289,7 @@ Emissierechten die zijn verleend met ingang van 1 januari 2013, zijn voor onbepa
 <br>
 Emissierechten die worden verleend met ingang van 1 januari 2021, bevatten een aanduiding waaruit blijkt in welke periode van tien jaar, te rekenen vanaf 1 januari 2021, ze zijn verstrekt. Ze zijn geldig voor emissies met ingang van het eerste jaar van die periode.<br>
 <br>
-Het eerste en tweede lid gelden ook voor emissierechten die verleend zijn door een andere bevoegde autoriteit dan het departement.
+Het eerste en tweede lid gelden ook voor emissierechten die verleend zijn door een andere bevoegde autoriteit dan het VEKA.
 
 ### ART 25.
 
@@ -305,23 +306,23 @@ Met ingang van 1 januari 2019 worden alle emissierechten, met uitzondering van d
 <br>
 Daarnaast blijft de exploitant van een BKG-installatie ertoe gehouden de verschuldigde emissierechten in te leveren. Hij doet dat bij de inlevering van emissierechten voor het volgende kalenderjaar.<br>
 <br>
-§ 2. Binnen zestig dagen na de vaststelling van de overtreding, vermeld in paragraaf 1, brengt de leidend ambtenaar van het departement de exploitant van een BKG-installatie op de hoogte van de beslissing tot het opleggen van een administratieve geldboete als vermeld in artikel 8.5.1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid. De exploitant van een BKG-installatie wordt uitgenodigd om binnen tien dagen na die kennisgeving met een aangetekende brief zijn verweer mee te delen conform artikel 8.5.4, § 2, van het voormelde decreet. Na het verstrijken van die termijn is de beslissing definitief.<br>
+§ 2. Binnen zestig dagen na de vaststelling van de overtreding, vermeld in paragraaf 1, brengt de leidend ambtenaar van het VEKA de exploitant van een BKG-installatie op de hoogte van de beslissing tot het opleggen van een administratieve geldboete als vermeld in artikel 8.5.1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid. De exploitant van een BKG-installatie wordt uitgenodigd om binnen tien dagen na die kennisgeving met een aangetekende brief zijn verweer mee te delen conform artikel 8.5.4, § 2, van het voormelde decreet. Na het verstrijken van die termijn is de beslissing definitief.<br>
 <br>
 De exploitant van een BKG-installatie wordt er ook op gewezen dat hij:<br>
 1° op verzoek de documenten waarop de beslissing tot het opleggen van een administratieve boete berust, kan inzien en er kopieën van kan krijgen;<br>
 2° mondeling zijn verweer kan toelichten.<br>
 <br>
-De exploitant van een BKG-installatie dient daarvoor bij het departement een aanvraag in binnen tien dagen na de ontvangst van de kennisgeving.<br>
+De exploitant van een BKG-installatie dient daarvoor bij het VEKA een aanvraag in binnen tien dagen na de ontvangst van de kennisgeving.<br>
 <br>
-§ 3. Binnen negentig dagen na de kennisgeving van de beslissing om een administratieve geldboete op te leggen kan de leidend ambtenaar van het departement de beslissing om een administratieve geldboete op te leggen als vermeld in artikel 8.5.1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, herroepen of het bedrag aanpassen, als het verweer gegrond blijkt te zijn. In dat geval wordt een nieuwe kennisgeving gedaan. De administratieve geldboete wordt betaald binnen zestig dagen na de kennisgeving van de definitieve beslissing.<br>
+§ 3. Binnen negentig dagen na de kennisgeving van de beslissing om een administratieve geldboete op te leggen kan de leidend ambtenaar van het VEKA de beslissing om een administratieve geldboete op te leggen als vermeld in artikel 8.5.1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, herroepen of het bedrag aanpassen, als het verweer gegrond blijkt te zijn. In dat geval wordt een nieuwe kennisgeving gedaan. De administratieve geldboete wordt betaald binnen zestig dagen na de kennisgeving van de definitieve beslissing.<br>
 <br>
 De beslissing vermeldt het opgelegde bedrag, alsook de termijn waarin en de manier waarop de administratieve geldboete moet worden betaald.<br>
 <br>
-§ 4. De leidend ambtenaar van het departement kan op schriftelijk en gemotiveerd verzoek van de exploitant van een BKG-installatie eenmalig voor zestig dagen uitstel van betaling verlenen.<br>
+§ 4. De leidend ambtenaar van het VEKA kan op schriftelijk en gemotiveerd verzoek van de exploitant van een BKG-installatie eenmalig voor zestig dagen uitstel van betaling verlenen.<br>
 <br>
-§ 5. Als de exploitant van een BKG-installatie na het verstrijken van de betalingstermijn de administratieve geldboete niet heeft betaald, wordt die geldboete bij dwangbevel ingevorderd. Een personeelslid die door de leidend ambtenaar van het departement is aangesteld, wordt ermee belast het dwangbevel uit te vaardigen en de administratieve geldboete in te vorderen.<br>
+§ 5. Als de exploitant van een BKG-installatie na het verstrijken van de betalingstermijn de administratieve geldboete niet heeft betaald, wordt die geldboete bij dwangbevel ingevorderd. Een personeelslid die door de leidend ambtenaar van het VEKA is aangesteld, wordt ermee belast het dwangbevel uit te vaardigen en de administratieve geldboete in te vorderen.<br>
 <br>
-§ 6. De lijst met de namen van de exploitanten van de BKG-installaties die onvoldoende emissierechten hebben ingeleverd om te voldoen aan hun verplichtingen, vermeld in artikel 4.10.1.2 van titel II van het VLAREM, wordt jaarlijks bekendgemaakt op de website van het departement.
+§ 6. De lijst met de namen van de exploitanten van de BKG-installaties die onvoldoende emissierechten hebben ingeleverd om te voldoen aan hun verplichtingen, vermeld in artikel 4.10.1.2 van titel II van het VLAREM, wordt jaarlijks bekendgemaakt op de website van het VEKA.
 
 ## HOOFDSTUK 8. Wijzigingen van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne
 
@@ -569,6 +570,12 @@ In artikel 63 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Re
 3° in paragraaf 3 en paragraaf 4 worden de woorden "het afdelingshoofd van de afdeling" telkens vervangen door de woorden "de leidend ambtenaar van het departement";<br>
 4° in paragraaf 6 wordt de zinsnede ", uiterlijk op 31 mei, bekendgemaakt op het internet en in het Belgisch Staatsblad" vervangen door de woorden "bekendgemaakt op de website van het departement".
 
+### ART 62.
+
+In hetzelfde besluit worden de volgende artikelen opgeheven:<br>
+1° artikel 66, gewijzigd bij het besluit van de Vlaamse Regering van 4 april 2014;<br>
+2° artikel 73.
+
 ### ART 63.
 
 In artikel 102 van hetzelfde besluit worden de woorden "de afdeling" vervangen door de woorden "het departement".
@@ -594,11 +601,11 @@ In artikel 37, § 7, van het besluit van de Vlaamse Regering tot uitvoering van 
 
 ### ART 67.
 
-§ 1. Het departement bezorgt de Europese Commissie jaarlijks een verslag over de uitvoering van dit besluit en de bepalingen in het VLAREM over de emissiehandel. In dat verslag wordt bijzondere aandacht besteed aan de regelingen voor de toewijzing van emissierechten en de bewaking, rapportering en verificatie van de emissies van broeikasgassen uit BKG-installaties. In voorkomend geval wordt om de drie jaar ook bijzondere aandacht besteed aan de gelijkwaardige maatregelen die zijn vastgesteld voor uitgesloten BKG-installaties.<br>
+§ 1. Het VEKA bezorgt de Europese Commissie jaarlijks een verslag over de uitvoering van dit besluit en de bepalingen in het VLAREM over de emissiehandel. In dat verslag wordt bijzondere aandacht besteed aan de regelingen voor de toewijzing van emissierechten en de bewaking, rapportering en verificatie van de emissies van broeikasgassen uit BKG-installaties. In voorkomend geval wordt om de drie jaar ook bijzondere aandacht besteed aan de gelijkwaardige maatregelen die zijn vastgesteld voor uitgesloten BKG-installaties.<br>
 <br>
-§ 2. Als conform artikel 10bis, lid 6, van de richtlijn financiële maatregelen worden vastgesteld ter compensatie van de indirecte emissiekosten, publiceert het departement jaarlijks het totaalbedrag aan compensatie dat is verstrekt per begunstigde bedrijfstak en deeltak op de website van het departement.<br>
+§ 2. Als conform artikel 10bis, lid 6, van de richtlijn financiële maatregelen worden vastgesteld ter compensatie van de indirecte emissiekosten, publiceert het VEKA jaarlijks het totaalbedrag aan compensatie dat is verstrekt per begunstigde bedrijfstak en deeltak op de website van het VEKA.<br>
 <br>
-Als in België meer dan 25% van de opbrengsten uit de veiling van emissierechten worden gebruikt ter compensatie van de indirecte emissiekosten, bezorgt het departement in samenspraak met het beleidsdomein EWI een verslag met redenen voor de overschrijding van dat percentage aan de Nationale Klimaatcommissie, die het verslag publiceert op haar website.
+Als in België meer dan 25% van de opbrengsten uit de veiling van emissierechten worden gebruikt ter compensatie van de indirecte emissiekosten, bezorgt het VEKA in samenspraak met het beleidsdomein EWI een verslag met redenen voor de overschrijding van dat percentage aan de Nationale Klimaatcommissie, die het verslag publiceert op haar website.
 
 ### ART 68.
 
@@ -621,7 +628,7 @@ Artikel 62 treedt in werking op 1 januari 2021.
 
 ### ART 70.
 
-De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, kan de beslissingen, vermeld in artikel 9, 10, 13, § 1 en § 4, delegeren aan het hoofd van het departement.
+De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, kan de beslissingen, vermeld in artikel 9, 10, 13, § 1 en § 4, delegeren aan het hoofd van het VEKA.
 
 ### ART 71.
 
