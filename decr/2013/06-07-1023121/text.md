@@ -18,7 +18,7 @@ c) niet ingeschreven zijn in het kleuteronderwijs;<br>
 4° centrum : voor zover ze opleidingen Nederlands tweede taal aanbieden een van de volgende entiteiten :<br>
 a) het centrum, vermeld in artikel 2, 4°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
 b) een talencentrum, opgericht door een universiteit als bedoeld in artikel 4 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen;<br>
-c) een erkend centrum voor vorming van zelfstandigen en kleine of middelgrote ondernemingen als vermeld in artikel 36 tot en met 38 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap ``Vlaams Agentschap voor Ondernemingsvorming - Syntra Vlaanderen'';<br>
+c) een erkend centrum voor vorming van zelfstandigen en kleine of middelgrote ondernemingen als vermeld in artikel 26/2 van het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid;<br>
 d) een centrum voor beroepsopleiding als vermeld in artikel 64 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding.<br>
 5° ...;<br>
 6° EVA : het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, vermeld in artikel 16;<br>
@@ -64,7 +64,7 @@ Bij verwijzing naar personen wordt hierna de mannelijke vorm gebruikt. De mannel
 
 <p>Het Vlaamse integratiebeleid richt zich op de gehele samenleving en heeft daarbij naargelang het geval, speciale aandacht voor de volgende bijzondere doelgroepen:<br>
 1° personen van buitenlandse herkomst;<br>
-2° personen die legaal in België verblijven en die wonen in een woonwagen als vermeld in artikel 2, 33°, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, met uitzondering van personen die verblijven op een residentieel woonwagenterrein en bewoners van campings of gebieden met weekendverblijven.</p>
+2° personen die legaal in België verblijven en die wonen in een woonwagen als vermeld in artikel 1.3, § 1, eerste lid, 73°, van de Vlaamse Codex Wonen van 2021, met uitzondering van personen die verblijven op een residentieel woonwagenterrein en bewoners van campings of gebieden met weekendverblijven.</p>
 
 <p>Daarnaast richt het Vlaamse integratiebeleid zich ook op vreemdelingen zonder wettig verblijf, meer bepaald vreemdelingen die zich in België bevinden zonder wettig verblijfsstatuut en die wegens een noodsituatie begeleiding vragen.</p>
 
@@ -568,7 +568,7 @@ De regie over een behoeftedekkend en behoeftegericht aanbod Nederlands als tweed
 3° /1 opmaken en vervolgens minstens vijfjaarlijks actualiseren van een Vlaams Afsprakenkader NT2;<br>
 4° met het oog op de taken, vermeld in punt 1°, 2°, 2° /1, 3° en 3° /1, organiseert het EVA, op structurele basis:<br>
 a) regionaal overleg met de centra, vermeld in artikel 2, eerste lid, 4°. Het regionaal overleg keurt het plan, vermeld in punt 2° /1, goed;<br>
-b) overleg op Vlaams niveau met de onderwijsverstrekkers, de Federatie voor Basiseducatie, de centra, vermeld in artikel 2, eerste lid, 4°, b), de VDAB, Syntra Vlaanderen, het beleidsdomein Onderwijs en Vorming, en het departement of intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, vermeld in artikel 16, § 4. Dat overleg keurt het ontwerp van het Vlaams Afsprakenkader NT2 en de actualisering ervan, vermeld in punt 3° /1, goed.<br>
+b) overleg op Vlaams niveau met de onderwijsverstrekkers, de Federatie voor Basiseducatie, de centra, vermeld in artikel 2, eerste lid, 4°, b), de VDAB, Agentschap voor Innoveren en Ondernemen, het beleidsdomein Onderwijs en Vorming, en het departement of intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, vermeld in artikel 16, § 4. Dat overleg keurt het ontwerp van het Vlaams Afsprakenkader NT2 en de actualisering ervan, vermeld in punt 3° /1, goed.<br>
 De Vlaamse Regering kan de nadere modaliteiten bepalen over de organisatie van het regionaal overleg en het overleg op Vlaams niveau.<br>
 <br>
 De pedagogische begeleidingsdiensten, vermeld in artikel 14 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, en het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs, vermeld in artikel 44 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, voorzien samen in een ondersteuningsaanbod voor lesgevers Nederlands als tweede taal. Het voorstel van ondersteuningsaanbod wordt besproken op het regionaal overleg, vermeld in het eerste lid, 4°, a).
