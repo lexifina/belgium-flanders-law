@@ -2,16 +2,16 @@
   "codex_id": 1032860,
   "title": "Besluit van de Vlaamse Regering van 2020-04-03 houdende maatregelen voor de instrumenten van het Vlaamse woonbeleid ten gevolge van de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032860/VolledigDocument?datum=2020-10-25",
-  "source_sha256": "6b4837e7bf5ae8335d0684c78e847753c7c9f74c1a34b3a104383a5f8380163e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032860/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "54882bc7682eb7d838f4e6c68fdfa4c0c8898a471ca2ffafdacb5345ef200626",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032860&param=informatie",
-  "as_of": "2020-10-25",
+  "as_of": "2021-01-01",
   "made": "2020-04-03",
   "gazette": "2020-04-15",
   "numac": 2020020752,
   "document_start": "2020-04-15",
   "document_end": null,
-  "in_force": "2020-10-25",
-  "article_versions": 10,
-  "record_form": "consolidated version as in force on 2020-10-25; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
