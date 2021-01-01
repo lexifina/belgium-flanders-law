@@ -238,31 +238,31 @@ De bepalingen van dit hoofdstuk zijn van toepassing op de reeds aanhangig gemaak
 
 ### ART. 49.
 
-Bij het ministerie van de Vlaamse Gemeenschap wordt een fonds culturele infrastructuur opgericht, hierna het Fonds te noemen. Dit Fonds heeft rechtspersoonlijkheid en wordt gerangschikt onder de instellingen van categorie A vermeld in artikel 1 van de wet van 16 maart 1954 betreffende de controle van sommige instellingen van openbaar nut, zoals gewijzigd bij decreet van 8 juli 1996 en bij decreet van 16 december 1997.<br /><br />De bepalingen van deze wet zijn op dit Fonds van toepassing voorzover er in dit decreet niet wordt van afgeweken.
+...
 
 ### ART. 50.
 
-De middelen van het Fonds zijn:<br /><br />a) een jaarlijkse dotatie lastens de begroting van de Vlaamse Gemeenschap;<br /><br />b) het gebeurlijke saldo op het einde van het voorgaande begrotingsjaar;<br /><br />c) de eventuele inbreng van derden als cultuursponsoring voor de realisatie van culturele infrastructuur;<br /><br />d) de terugvorderingen van de ten onrechte gedane betalingen;<br /><br />e) [de opbrengsten van de ontvangsten voortvloeiend uit het beheer en het vervreemden van onroerende goederen beheerd door de administratie Cultuur, worden volledig toegewezen aan het Fonds Culturele Infrastructuur (FoCI), dit in afwijking van artikel 93, § 2, van het decreet van 22 december 1993 houdende bepalingen tot begeleiding van de begroting 1994, gewijzigd door artikel 28 van het decreet van 22 november 1995 houdende bepalingen tot begeleiding van de begroting 1996.  <span class="reference">(verv. decr. 24 december 2004, art. 28, I: 1 januari 2004)</span> ]
+...
 
 ### ART. 51.
 
-Het Fonds heeft tot taak:<br />1° investeringssubsidies te verstrekken voor het bouwen, uitbreiden, verbouwen of aankopen van culturele infrastructuur met supra-lokaal belang;<br />2° het aankopen, het bouwen en het verbouwen van de eigen culturele infrastructuur van de Vlaamse Gemeenschap en het ten laste nemen van de kosten ervan voor uitrusting en apparatuur, de eigenaarverplichtingen, de onroerende voorheffing en het eigenaaronderhoud. <br />3° het betalen van huurgelden, erfpachtvergoedingen, beschikbaarheidsvergoedingen en andere kosten voor het gebruiksrecht van gebouwen en terreinen, die ressorteren onder het beheer van de entiteiten Cultuur en Jeugd van het beleidsdomein Cultuur, Jeugd, Sport en Media van de Vlaamse Gemeenschap.<br />
+...
 
 ### ART. 51bis.
 
-De Vlaamse regering bepaalt onder welke voorwaarden en op welke wijze de   investeringssubsi-dies, bedoeld in artikel 51, 1°, door het Fonds worden   verstrekt.<BR><BR>De investeringssubsidies betreffen enerzijds de subsidiëring   van grote infrastructuren van hoog cultureel belang en anderzijds sectorale   investeringssubsidies.<BR><BR>Onder grote infrastructuren van hoog cultureel   belang worden verstaan: infrastructuren die van een uitzonderlijke omvang zijn   en waarin een culturele werking wordt gerealiseerd die zich richt tot de ganse   bevolking.<BR><BR>De subsidiëring van grote infrastructuren van een   uitzonderlijke omvang wordt nominatim in de begroting van het Fonds voor   Culturele Infrastructuur ingeschreven.<BR><BR>De Raad voor Cultuur, Jeugd, Sport   en Media&nbsp;adviseert mee over de langetermijnvisie en -planning aangaande de   nieuwe grote infrastructuren van hoog cultureel belang.<BR><BR>Onder sectorale   investeringssubsidies worden verstaan: subsidies toegekend als tussenkomst in de   infrastructuuruitgaven van specifieke sectoren die door de Vlaamse regering als   prioritair worden aangeduid. De Vlaamse regering legt deze prioriteit vast voor   een bepaalde periode. De Vlaamse regering bepaalt het globaal hiervoor te   bestemmen subsidiebedrag.<BR><BR>Voor het toekennen van sectorale subsidies   wordt door de Vlaamse regering, binnen het Fonds voor culturele infrastructuur,   een adviescommissie opgericht met deelname van de administratie Cultuur en   deskundigen i.v.m. de betrokken sectoren.<BR><BR>De regeling voor het toekennen   van subsidies zal volgende bestanddelen bevatten:<BR>- de bepaling van de   kandidaat-subsidietrekker en de voorwaarden om voor subsidiëring in aanmerking   te komen;<BR>- de bepaling i.v.m. terugbetaling van de toegekende subsidies, bij   vervreemding van de infrastructuur of bestemmingswij-ziging ervan;<BR>- voor de   toekenning van sectorale investeringssubsidies, zal de regeling nog   bevatten:<BR>- de wijze en de termijnen van het indienen van aanvragen;<BR>- de   beoordelingscriteria;<BR>- de wijze van principiële toezegging;<BR>- de   uitbetalingsvoorwaarden en -modaliteiten.
+...
 
 ### ART. 52.
 
-Het Fonds neemt op datum van zijn inwerkingtreding de op 31 december 1998 uitstaande verbin-tenissen over aangegaan lastens programma 45.5 basisallocaties 45.01, 52.51, 52.53, 52.54 en 71.01. van de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
+...
 
 ### ART. 53.
 
-De Vlaamse regering stelt jaarlijks een verslag op over de werking en het beheer van het Fonds. Het verslag wordt aan het Vlaams Parlement meegedeeld.
+...
 
 ### ART. 54.
 
-De Vlaamse regering stelt het personeel en materieel ter beschikking van het Fonds.
+...
 
 ## HOOFDSTUK XIII EMANCIPATIEZAKEN
 
