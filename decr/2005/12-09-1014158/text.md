@@ -721,7 +721,7 @@ Diegene die een gedeputeerde vervangt, met toepassing van § 1, tweede of derde 
 Als de grens vastgesteld in het eerste lid, wordt overschreden, wordt de som van de in het voorgaande lid vermelde vergoedingen, salarissen of presentiegelden die voortvloeien uit de uitoefening van een openbaar mandaat, een openbare functie of een openbaar ambt van politieke aard, verminderd tot het passende beloop. Onder vergoedingen, salarissen en presentiegelden die voortvloeien uit de uitoefening van een openbaar mandaat, een openbare functie of een openbaar ambt van politieke aard dienen te worden begrepen :<br>
 1° presentiegelden ontvangen als lid van de gemeenteraad, als lid van de raad voor maatschappelijk welzijn en als lid van de bestuursorganen van gemeentelijk extern verzelfstandigde agentschappen en hun filialen;<br>
 2° presentiegelden ontvangen als lid van bestuursorganen van een intergemeentelijk samenwerkingsverband als vermeld in deel 3, titel 3, van het decreet van 22 december 2017 over het lokaal bestuur;<br>
-3° presentiegelden ontvangen als lid van bestuursorganen van sociale huisvestingsmaatschappijen als vermeld in het decreet houdende de Vlaamse Wooncode;<br>
+3° presentiegelden ontvangen als lid van bestuursorganen van sociale huisvestingsmaatschappijen als vermeld in de Vlaamse Codex Wonen van 2021;<br>
 4° presentiegelden ontvangen als lid van bestuursorganen van de rechtspersonen als vermeld in artikel 386 van het decreet van 22 december 2017 over het lokaal bestuur;<br>
 5° presentiegelden ontvangen als lid van bestuursorganen van rechtspersonen als vermeld in artikel 188;<br>
 6° presentiegelden ontvangen als lid van bestuursorganen van rechtspersonen als vermeld in deel 3, titel 4, hoofdstuk 2 tot en met 6, van het decreet van 22 december 2017 over het lokaal bestuur.<br>
@@ -1386,11 +1386,17 @@ In afwijking van artikel 248 beschikt de toezichthoudende overheid over vijftig 
 
 Nadat de rekeningen van de boekhouding, vermeld in artikel 145, in overeenstemming zijn gebracht met de gegevens van de inventaris van al de bezittingen, rechten, vorderingen, schulden en verplichtingen, van welke aard ook, van de provincie, worden ze samengevat opgenomen in het ontwerp van de jaarrekening.<br>
 <br>
+De jaarrekening bestaat uit een beleidsevaluatie, een financiële nota en een toelichting.<br>
+<br>
 De jaarrekening wordt vastgesteld voor 30 juni van het boekjaar dat volgt op het boekjaar waarop de rekening betrekking heeft.
 
 ### ART. 153.
 
-De provincieraad kan zonder voorafgaande budgetwijziging over de uitgaven beslissen die door dwingende en onvoorziene omstandigheden vereist zijn, op voorwaarde dat hij daartoe een met redenen omkleed besluit neemt.<br /><br />In dezelfde omstandigheden en als het geringste uitstel onbetwistbare schade zou veroorzaken, kan de deputatie op eigen verantwoordelijkheid over de uitgaven beslissen. De deputatie brengt de provincieraad daarvan onverwijld op de hoogte.<br /><br />De bevoegdheid om over de uitgaven te beslissen, houdt de bevoegdheid in tot het vaststellen van de voorwaarden van overheidsopdrachten, het vaststellen van de wijze van gunning van overheidsopdrachten, het voeren van de gunningsprocedure, de gunning en de uitvoering van de overheidsopdrachten.<br /><br />In de gevallen, vermeld in het eerste en het tweede lid, worden de nodige kredieten onverwijld ingeschreven door een budgetwijziging. De betaling mag evenwel worden uitgevoerd, zonder de budgetwijziging af te wachten.
+De beleidsevaluatie van de jaarrekening geeft het beleid weer dat de provincie gedurende het boekjaar heeft gevoerd en evalueert de beleidsdoelstellingen en de mate waarin ze zijn bereikt.<br>
+<br>
+De financiële nota van de jaarrekening geeft de financiële gevolgen van het gevoerde beleid weer.<br>
+<br>
+De toelichting van de jaarrekening bevat alle informatie over de verrichtingen in het ontwerp van jaarrekening die relevant is voor de raadsleden om met kennis van zaken een beslissing te kunnen nemen. Ze bevat minstens informatie over de schulden en de financiële risico's.
 
 ## [Afdeling VI Bijzondere bepaling over het bestuurlijk toezicht op de jaarrekening (ing. decr. 6 juli 2018, art. 108, I: 3 december 2018)]
 
