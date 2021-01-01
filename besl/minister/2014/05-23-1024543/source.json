@@ -2,16 +2,16 @@
   "codex_id": 1024543,
   "title": "Ministerieel besluit van 2014-05-23 houdende actualisatie van de lijst van gemeenten, vermeld in [artikel 4.41, tweede lid, van het Besluit Vlaamse Codex Wonen van 2021 (verv. MB 23 mei 2014, art. 35, I: 1 januari 2021)]",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024543/VolledigDocument?datum=2014-09-20",
-  "source_sha256": "256a5ff39c7bdeaa3c473b7f1a38006cbe5529ea28668d5d87831788d5a358da",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024543/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "96f453a071d9b4e2225f081847b2054e6b6b4930278e7b700a46f58f4e6671d5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024543&param=informatie",
-  "as_of": "2014-09-20",
+  "as_of": "2021-01-01",
   "made": "2014-05-23",
   "gazette": "2014-09-10",
   "numac": 2014035764,
   "document_start": "2014-09-20",
   "document_end": null,
-  "in_force": "2014-09-20",
+  "in_force": "2021-01-01",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2014-09-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
