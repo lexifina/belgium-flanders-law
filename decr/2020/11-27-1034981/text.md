@@ -100,6 +100,40 @@ De Vlaamse Regering bepaalt de vormgeving van het bewijs, vermeld in het eerste 
 <br>
 De bewijslevering, vermeld in het eerste en tweede lid, is een noodzakelijke voorwaarde om het belastingkrediet, vermeld in hoofdstuk VI, te kunnen krijgen.".
 
+### ART 11.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 2 oktober 2020, wordt een artikel 8/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 8/1. § 1. Aan de Vriendenaandeelhouder die onderworpen is aan de personenbelasting zoals gelokaliseerd in het Vlaamse Gewest, conform artikel 5/1, § 2, van de Bijzondere Financieringswet, wordt een belastingkrediet toegekend.<br>
+<br>
+§ 2. Het belastingkrediet wordt berekend op basis van de bedragen die de Vriendenaandeelhouder heeft volgestort.<br>
+<br>
+§ 3. De grondslag waarop het belastingkrediet wordt toegekend, wordt berekend naar rato van het aantal dagen dat het Vriendenaandeel in het belastbare tijdperk is aangehouden. Die berekeningsgrondslag bedraagt ten hoogste 75.000 euro per belastingplichtige.<br>
+<br>
+§ 4. Het belastingkrediet bedraagt 2,5 % van de grondslag, vermeld in paragraaf 3.<br>
+<br>
+§ 5. Het belastingkrediet wordt toegestaan voor een periode van maximaal vijf jaar.<br>
+<br>
+Het belastingkrediet wordt alleen verleend als de Vriendenaandeelhouder per aanslagjaar, conform artikel 7/1, het bewijs ter beschikking houdt van de belastingadministratie.<br>
+<br>
+Het belastingkrediet wordt ontzegd voor het aanslagjaar waarvoor de bewijslevering ontbreekt, niet correct is of onvolledig is.<br>
+<br>
+Het gederfde belastingkrediet kan niet naar de volgende aanslagjaren overgedragen worden.<br>
+<br>
+Het belastingkrediet vervalt vanaf de dag waarop de Vriendenaandeelhouder overlijdt.<br>
+<br>
+Het belastingkrediet vervalt vanaf de dag waarop het Vriendenaandeel ambtshalve is geschrapt.<br>
+<br>
+Het belastingkrediet vervalt vanaf de dag waarop de emittent failliet is verklaard of ontbonden is.<br>
+<br>
+De uitgaven van de belastingplichtige die in aanmerking genomen zijn voor de toepassing van een federale belastingvermindering of een federaal belastingkrediet komen niet in aanmerking voor het belastingkrediet, bedoeld in dit decreet.".
+
+### ART 12.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 2 oktober 2020, wordt een artikel 8/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 8/2. De berekeningsgrondslag van de Winwinlening en het Vriendenaandeel samen mag niet meer bedragen dan 75.000 euro per belastingplichtige.".
+
 ### ART 13.
 
 In hoofdstuk VI van hetzelfde decreet, gewijzigd bij de decreten van 10 december 2010, 19 december 2014 en 2 oktober 2020, wordt het opschrift van afdeling 2 vervangen door wat volgt:<br>
