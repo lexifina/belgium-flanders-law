@@ -2,16 +2,16 @@
   "codex_id": 1019995,
   "title": "Ministerieel besluit van 2011-01-26 tot uitvoering van het besluit van de Vlaamse Regering van 22 februari 2008 tot toekenning van strategische investerings- en opleidingssteun aan ondernemingen in het Vlaamse Gewest",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019995/VolledigDocument?datum=2010-12-17",
-  "source_sha256": "2fdb8507dce5b71446ace6b7b234062547af767e4053b5875fd8d24d241db29a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019995/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "5cb44f854dab2d24dc548f2e981d054a219b5d72635aac4e38b6d3999919402c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019995&param=informatie",
-  "as_of": "2010-12-17",
+  "as_of": "2021-01-01",
   "made": "2011-01-26",
   "gazette": "2011-02-07",
   "numac": 2011035090,
   "document_start": "2010-12-17",
   "document_end": null,
-  "in_force": "2010-12-17",
+  "in_force": "2021-01-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2010-12-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
