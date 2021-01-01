@@ -820,13 +820,7 @@
 
 ### ART. 172.
 
-De jaarrekening omvat een beleidsnota, een financiële nota en een samenvatting van de algemene rekeningen.<br>
-<br>
-De beleidsnota geeft het beleid weer dat de gemeente gedurende het financiële boekjaar heeft gevoerd. De beleidsnota omvat een toelichting over de financiële toestand van de gemeente en verwoordt de aansluiting met de financiële nota.<br>
-<br>
-De financiële nota bevat minstens de exploitatierekening, de investeringsrekening en de liquiditeitenrekening.<br>
-<br>
-De samenvatting van de algemene rekeningen omvat de balans en de staat van opbrengsten en kosten.
+...
 
 ### ART. 173.
 
