@@ -44,6 +44,10 @@ Kredietgevers kunnen aanspraak maken op de belastingkredieten, vermeld in het ee
 1° de akte van verlenging wordt gesloten uiterlijk op 31 december 2020;<br>
 2° de akte van verlenging en de nieuwe aflossingstabel worden geregistreerd overeenkomstig artikel 10/3 van het Winwinleningbesluit van 20 juli 2006.
 
+### ART 3.
+
+Ter uitvoering van artikel 9/2, eerste lid van het decreet van 19 mei 2006 betreffende de Winwinlening wordt voor de Winwinleningen die geldig gesloten worden na 15 maart 2020 en ten laatste op 31 december 2021 het eenmalig belastingkrediet zoals bedoeld in artikel 9 van het decreet van 19 mei 2006 naar 40% gebracht en dit voor de ganse contractuele looptijd van de Winwinlening.
+
 ### ART 4.
 
 Dit besluit treedt in werking op de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 3, dat in werking treedt vanaf aanslagjaar 2021.
