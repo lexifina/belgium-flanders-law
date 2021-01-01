@@ -2,16 +2,16 @@
   "codex_id": 1018134,
   "title": "Decreet van 2009-04-30 betreffende de kwalificatiestructuur",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018134/VolledigDocument?datum=2019-09-01",
-  "source_sha256": "67995ea11d44cf74afed41ab4748800ad89ae158d8bf5c3133e95379f977c4b5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018134/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "13d67a76e2377e326ac66c734a41ac1ee6c8c7d4dc234d201c88b043809c57fd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018134&param=informatie",
-  "as_of": "2019-09-01",
+  "as_of": "2021-01-01",
   "made": "2009-04-30",
   "gazette": "2009-07-16",
   "numac": 2009035656,
   "document_start": "2009-07-26",
   "document_end": null,
-  "in_force": "2019-09-01",
+  "in_force": "2021-01-01",
   "article_versions": 51,
-  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }

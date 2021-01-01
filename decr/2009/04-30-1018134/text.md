@@ -223,11 +223,25 @@ Onderwijskwalificaties zijn afgeronde en ingeschaalde gehelen van competenties d
 
 ### ART. 10.
 
-§ 1. De Vlaamse Regering bepaalt jaarlijks de prioriteiten inzake het opstellen van beroepskwalificatiedossiers.<br /><br />§ 2. De bevoegde dienst van de Vlaamse Regering coördineert het opstellen van de beroepskwalificatiedossiers. Bij deze voorbereiding doet de bevoegde dienst een beroep op sectorale en/of interprofessionele sociale partners, VDAB, Syntra Vlaanderen en onafhankelijke experten.<br /><br />§ 3. Een beroepskwalificatiedossier komt in eerste instantie tot stand op basis van één of meerdere beroepscompetentieprofielen die door de sociale partners in de SERV zijn gevalideerd. Bij het ontbreken van beroepscompetentieprofielen komt het dossier tot stand aan de hand van normatieve beroepsreferentiekaders en bij ontstentenis daarvan of ter aanvulling ervan aan de hand van niet-normatieve referentiekaders uit binnen- of buitenland. De competenties worden beschreven zodanig dat een inschaling op basis van descriptorelementen mogelijk is.<br /><br />§ 4. Een valideringscommissie bestaande uit interprofessionele sociale partners, VDAB, Syntra Vlaanderen en onafhankelijke experten valideert het beroepskwalificatiedossier. Deze validering bevestigt dat met het geheel van competenties opgenomen in het beroepskwalificatiedossier een beroep kan worden uitgeoefend.<br /><br />§ 5. De Vlaamse Regering bepaalt onder welke voorwaarden en voor welke sectoren ze beroepskwalificatiedossiers opstelt voor maatschappelijke rollen gebaseerd op een competentieprofiel.
+§ 1. De Vlaamse Regering bepaalt jaarlijks de prioriteiten inzake het opstellen van beroepskwalificatiedossiers.<br>
+<br>
+§ 2. De bevoegde dienst van de Vlaamse Regering coördineert het opstellen van de beroepskwalificatiedossiers. Bij deze voorbereiding doet de bevoegde dienst een beroep op sectorale en/of interprofessionele sociale partners, VDAB, Agentschap Innoveren en Ondernemen en onafhankelijke experten.<br>
+<br>
+§ 3. Een beroepskwalificatiedossier komt in eerste instantie tot stand op basis van één of meerdere beroepscompetentieprofielen die door de sociale partners in de SERV zijn gevalideerd. Bij het ontbreken van beroepscompetentieprofielen komt het dossier tot stand aan de hand van normatieve beroepsreferentiekaders en bij ontstentenis daarvan of ter aanvulling ervan aan de hand van niet-normatieve referentiekaders uit binnen- of buitenland. De competenties worden beschreven zodanig dat een inschaling op basis van descriptorelementen mogelijk is.<br>
+<br>
+§ 4. Een valideringscommissie bestaande uit interprofessionele sociale partners, VDAB, Agentschap Innoveren en Ondernemen en onafhankelijke experten valideert het beroepskwalificatiedossier. Deze validering bevestigt dat met het geheel van competenties opgenomen in het beroepskwalificatiedossier een beroep kan worden uitgeoefend.<br>
+<br>
+§ 5. De Vlaamse Regering bepaalt onder welke voorwaarden en voor welke sectoren ze beroepskwalificatiedossiers opstelt voor maatschappelijke rollen gebaseerd op een competentieprofiel.
 
 ### ART. 11.
 
-De bevoegde dienst van de Vlaamse Regering legt een gevalideerd beroepskwalificatiedossier voor inschaling voor aan een inschalingscommissie.<br /><br />Voor een beroepskwalificatiedossier dat wordt opgesteld volgens paragrafen 2, 3 en 4 van artikel 10 wordt de helft van de deskundigen van de inschalingscommissie aangeduid door de SERV en de andere helft door de Vlor, VDAB en Syntra Vlaanderen.<br /><br />Voor een beroepskwalificatiedossier dat wordt opgesteld volgens paragraaf 5 van artikel 10 wordt de helft van de deskundigen van de inschalingscommissie aangeduid door hetzij een betrokken overheidsinstantie, hetzij een betrokken sector en de andere helft door de Vlor, VDAB en Syntra Vlaanderen.<br /><br />Er worden ten minste twee niet-stemgerechtigde onafhankelijke experten door de bevoegde dienst van de Vlaamse Regering aan de inschalingscommissie toegevoegd.
+De bevoegde dienst van de Vlaamse Regering legt een gevalideerd beroepskwalificatiedossier voor inschaling voor aan een inschalingscommissie.<br>
+<br>
+Voor een beroepskwalificatiedossier dat wordt opgesteld volgens paragrafen 2, 3 en 4 van artikel 10 wordt de helft van de deskundigen van de inschalingscommissie aangeduid door de SERV en de andere helft door de Vlor, VDAB en Agentschap Innoveren en Ondernemen.<br>
+<br>
+Voor een beroepskwalificatiedossier dat wordt opgesteld volgens paragraaf 5 van artikel 10 wordt de helft van de deskundigen van de inschalingscommissie aangeduid door hetzij een betrokken overheidsinstantie, hetzij een betrokken sector en de andere helft door de Vlor, VDAB en Agentschap Innoveren en Ondernemen.<br>
+<br>
+Er worden ten minste twee niet-stemgerechtigde onafhankelijke experten door de bevoegde dienst van de Vlaamse Regering aan de inschalingscommissie toegevoegd.
 
 ### ART. 12.
 
