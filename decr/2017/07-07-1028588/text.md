@@ -197,7 +197,7 @@ De aanstelling, vermeld in het tweede lid, gebeurt ten minste voor het volume da
 
 Een centrumbestuur kan een personeelslid tijdelijk aanstellen als het personeelslid voldoet aan de voorwaarden, vermeld in artikel 88, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, en daarenboven:<br>
 1° van onberispelijk gedrag is, zoals blijkt uit een uittreksel van het strafregister dat niet langer dan één jaar tevoren is afgegeven;<br>
-2° de lichamelijke geschiktheid bezit die vereist is om het ambt uit te oefenen;<br>
+2° ...<br>
 3° voldoet aan de taalvereisten, vermeld in artikel 28 tot en met 30 van dit decreet.
 
 ### ART 28.
@@ -447,7 +447,7 @@ Om tegemoet te komen aan een tekort op de arbeidsmarkt, kan de Vlaamse Regering 
 
 Een centrumbestuur kan een personeelslid tijdelijk aanstellen als het personeelslid voldoet aan de voorwaarden, vermeld in artikel 88, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, en daarenboven:<br>
 1° van onberispelijk gedrag is, zoals dat blijkt uit een uittreksel van het strafregister dat niet langer dan één jaar tevoren is afgegeven;<br>
-2° de lichamelijke geschiktheid bezit die vereist is om het ambt uit te oefenen;<br>
+2° ...<br>
 3° voldoet aan de taalvereisten, vermeld in artikel 28 tot en met artikel 30 van dit decreet;<br>
 4° houder is van een voldoende geacht bekwaamheidsbewijs voor het ambt, zoals door de Vlaamse Regering bepaald in het besluit van de Vlaamse Regering van 29 mei 2009 tot vaststelling van de ambten, de bekwaamheidsbewijzen en de salarisschalen in de centra voor basiseducatie.
 
