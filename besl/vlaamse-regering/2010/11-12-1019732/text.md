@@ -965,7 +965,11 @@ Het bedrag van de eindejaarstoelage is de som van het forfaitaire gedeelte   en 
 
 ### ART. 99.
 
-Het personeelslid ontvangt het volledige bedrag van de eindejaarstoelage als het als titularis van een betrekking met volledige prestaties het volledige salaris heeft ontvangen tijdens de hele duur van de referentieperiode.<br /><br />Als het personeelslid niet het volledige salaris heeft ontvangen als titularis van een betrekking met volledige prestaties of onvolledige prestaties, wordt het bedrag van de eindejaarstoelage verminderd in verhouding tot het salaris dat het werkelijk heeft ontvangen.<br /><br />De periodes waarin het personeelslid tijdens de referentieperiode als titularis van een betrekking met volledige prestaties of onvolledige prestaties met ouderschapsverlof als vermeld in het koninklijk besluit van 29 oktober 1997 tot invoering van een recht op ouderschapsverlof in het kader van de onderbreking van de beroepsloopbaan, was of met bevallingsverlof was met toepassing van de Arbeidswet van 16 maart 1971, worden gelijkgesteld met periodes waarvoor het personeelslid het salaris volledig heeft ontvangen.
+Het personeelslid ontvangt het volledige bedrag van de eindejaarstoelage als het als titularis van een betrekking met volledige prestaties het volledige salaris heeft ontvangen tijdens de hele duur van de referentieperiode.<br>
+<br>
+Als het personeelslid niet het volledige salaris heeft ontvangen als titularis van een betrekking met volledige prestaties of onvolledige prestaties, wordt het bedrag van de eindejaarstoelage verminderd in verhouding tot het salaris dat het werkelijk heeft ontvangen.<br>
+<br>
+De periodes waarin het personeelslid tijdens de referentieperiode als titularis van een betrekking met volledige prestaties of onvolledige prestaties met ouderschapsverlof als vermeld in het koninklijk besluit van 29 oktober 1997 tot invoering van een recht op ouderschapsverlof in het kader van de onderbreking van de beroepsloopbaan, was of met bevallingsverlof was met toepassing van de Arbeidswet van 16 maart 1971,&nbsp;of omstandigheidsverlof genoot naar aanleiding van de bevalling van de echtgenote of samenwonende partner, of ter gelegenheid van de geboorte van een kind dat wettelijk afstamt van de werknemer, worden gelijkgesteld met periodes waarvoor het personeelslid het salaris volledig heeft ontvangen.
 
 ### ART. 100.
 
