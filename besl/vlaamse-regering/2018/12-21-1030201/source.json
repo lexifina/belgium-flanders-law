@@ -2,16 +2,16 @@
   "codex_id": 1030201,
   "title": "Besluit van de Vlaamse Regering van 2018-12-21 tot instelling van een tegemoetkoming in de kosten bij de renovatie of verbetering van een bestaande woning of bij de realisatie van een nieuwe woning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030201/VolledigDocument?datum=2019-02-01",
-  "source_sha256": "1a27592a7340da1e1fd3fe9f87432a09113bc090c998c7bbde33ede96ff79eec",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030201/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "3d0601f7b0068531caa8f2a2c209eb01d598a97dbe7c4af4e5d2f5593f9b0ba4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030201&param=informatie",
-  "as_of": "2019-02-01",
+  "as_of": "2021-01-01",
   "made": "2018-12-21",
   "gazette": "2019-01-30",
   "numac": 2019010453,
   "document_start": "2019-02-01",
   "document_end": "2020-12-31",
-  "in_force": "2019-02-01",
+  "in_force": "2021-01-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2019-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
