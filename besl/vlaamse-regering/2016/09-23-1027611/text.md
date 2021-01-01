@@ -262,6 +262,16 @@ De HDD-waarde moet aan de hand van de volgende door Eurostat vastgestelde method
 <br>
 De formule wordt toegepast overeenkomstig het Europese referentiedocument over de beste beschikbare technieken voor afvalverbranding. De berekeningswijze en de toepassing van de formule worden goedgekeurd en geverifieerd door de OVAM.".
 
+### ART 22.
+
+Aan artikel 4.3.1, eerste lid, van hetzelfde besluit wordt een punt 12° toegevoegd, dat luidt als volgt :<br>
+"12° afgedankte matrassen.".
+
+### ART 23.
+
+Aan artikel 4.3.2, eerste lid, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 4 mei 2012 en 16 november 2012, wordt een punt 19° toegevoegd, dat luidt als volgt :<br>
+"19° afgedankte matrassen.".
+
 ### ART 24.
 
 In artikel 4.3.4, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 mei 2014, worden de woorden "mag de afvalstoffenproducent verschillende" vervangen door de zinsnede "mag de inzamelaar, afvalstoffenhandelaar of -makelaar verschillende".
