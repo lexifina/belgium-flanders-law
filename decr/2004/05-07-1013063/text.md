@@ -22,7 +22,8 @@ In dit decreet wordt verstaan onder:<br>
 11° verplicht ingeschreven werkzoekende: de werkzoekende die is ingeschreven bij de VDAB met het oog op het verkrijgen van een werkloosheidsuitkering of een inschakelingsuitkering.<br>
 12° persoon met een arbeidshandicap : een persoon met een langdurig en belangrijk probleem van deelname aan het arbeidsleven dat te wijten is aan het samenspel tussen functiestoornissen van mentale, psychische, lichamelijke of zintuiglijke aard, beperkingen bij het uitvoeren van activiteiten en persoonlijke en externe factoren. De Vlaamse Regering bepaalt de voorwaarden en de procedure aan de hand waarvan de VDAB bepaalt of een persoon al dan niet een arbeidshandicap heeft;<br>
 13° leefloongerechtigde: iedere persoon die recht heeft op een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, of die recht heeft op financiële maatschappelijke steun, equivalent aan het leefloon, vermeld in artikel 60, § 3, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, met uitzondering van de personen voor wie tewerkstelling niet haalbaar is om gezondheids- of billijkheidsredenen.<br>
-14° persoon op beroepsactieve leeftijd: alle personen tussen vijftien jaar en de pensioengerechtigde leeftijd die niet meer onderworpen zijn aan de voltijdse leerplicht, met inbegrip van gepensioneerden die zich vrijwillig inschrijven als werkzoekende.
+14° persoon op beroepsactieve leeftijd: alle personen tussen vijftien jaar en de pensioengerechtigde leeftijd die niet meer onderworpen zijn aan de voltijdse leerplicht, met inbegrip van gepensioneerden die zich vrijwillig inschrijven als werkzoekende;<br>
+15° leertijd: het traject dat bestaat uit een praktijkopleiding in een onderneming, aangevuld met een theoretische opleiding in een erkend centrum als vermeld in artikel 26/2, § 1, 1°, van het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid, dat voldoet aan de regels, vermeld in artikel 22/20 tot en met 22/23 van dit decreet.
 
 ## HOOFDSTUK II OPRICHTING
 
@@ -158,7 +159,20 @@ d) gegevens verzamelen, analyseren, verwerken en bijhouden die noodzakelijk zijn
 a) de doelstellingen in dit artikel te bereiken;<br>
 b) de verhoging van de werkzaamheidsgraad te faciliteren of een duurzame loopbaan te realiseren van de personen op beroepsactieve leeftijd die in het Vlaamse Gewest gedomicilieerd zijn;<br>
 c) transparante en betrouwbare arbeidsmarktinformatie te verschaffen;<br>
-d) in een relevant aanbod op maat voor werkgevers en personen te kunnen voorzien.<br>
+d) in een relevant aanbod op maat voor werkgevers en personen te kunnen voorzien;<br>
+<br>
+15° taken in het kader van de leertijd:<br>
+a) het bereik, de effectiviteit en de kwaliteit van de leertijd periodiek evalueren, monitoren, auditen en bijsturen;<br>
+b) de trajecten en modules controleren. Die controle gebeurt met het oog op:<br>
+1) de kwaliteit en het financieel correcte verloop van de leertijd;<br>
+2) de conformiteit met de reglementering;<br>
+c) de nodige instrumenten en procedures voor kennisborging en verspreiding opzetten;<br>
+d) de voorwaarden en de criteria vastleggen waaraan de kwaliteitssystemen binnen de leertijd moeten voldoen;<br>
+e) controleren of voor het uitreiken van studiebewijzen leertijd voldaan is aan alle voorwaarden, vermeld in hoofdstuk III van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap;<br>
+f) het algemeen pedagogisch didactisch toezicht uitoefenen op de uitvoering van de overeenkomsten in de leertijd;<br>
+g) de financiering van de leertijd.<br>
+De Vlaamse Regering bepaalt wie verantwoordelijk is voor de uitbetaling, de werkvoorwaarden en de geldelijke regeling van de lesgevers in de leertijd;<br>
+h) een beleid binnen de leertijd voor de inbedding van doel- en kansengroepen ontwikkelen en coördineren.<br>
 <br>
 De Vlaamse Regering bepaalt de verschillende categorieën van de doelgroep, vermeld in het eerste lid, 12°, a).<br>
 <br>
@@ -419,7 +433,7 @@ Elke stagegever kan toetreden tot de krachtens dit decreet uitgewerkte stagevorm
 
 De VDAB kan stages inzetten voor werkzoekenden om competenties aan te leren en toe te passen, waardoor de afstand tot de arbeidsmarkt wordt verkleind.<br>
 <br>
-De bepalingen van deze afdeling zijn alleen van toepassing op de stagevormen die georganiseerd worden of erkend zijn door de VDAB. Deze bepalingen zijn onder meer niet van toepassing op de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde stages, studies, leertijd of opleidingen in het kader van onderwijs, centra voor deeltijdse vorming en centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen en op het Vlaams Agentschap voor Ondernemersvorming Syntra Vlaanderen.<br>
+De bepalingen van deze afdeling zijn alleen van toepassing op de stagevormen die georganiseerd worden of erkend zijn door de VDAB. Deze bepalingen zijn onder meer niet van toepassing op de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde stages, studies, leertijd of opleidingen in het kader van onderwijs, centra voor deeltijdse vorming en centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen.<br>
 <br>
 De Vlaamse Regering bepaalt na advies van de raad van bestuur van de VDAB de vormen, de voorwaarden en de nadere regels voor stages die ze organiseert. De Vlaamse Regering kan ook na advies van de raad van bestuur van de VDAB de regels voor aanvragen van stages en voor overeenkomsten in het kader daarvan bepalen, alsook de nadere regels voor de schorsing, stopzetting of verlenging van stages.
 
@@ -438,6 +452,50 @@ Bij niet-naleving van de bepalingen van deze afdeling en de uitvoeringsbesluiten
 De Vlaamse Regering bepaalt na advies van de raad van bestuur van de VDAB de nadere regels ter uitvoering van het eerste lid.
 
 ## [AFDELING 6 DE LEERTIJD (ing. decr. 19 juni 2020, art. 16, I: 1 januari 2021)]
+
+### ART 22/20.
+
+De leertijd bestaat uit een praktijkopleiding in een onderneming, aangevuld met een theoretische vorming in een erkend centrum als vermeld in artikel 26/2, § 1, 1°, van het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid.<br>
+<br>
+De theoretische vorming omvat een algemene vorming en een beroepsgerichte vorming. Er kunnen ook aanvullende taalcursussen worden verstrekt.<br>
+<br>
+Praktijkopleiding en aanvullende theoretische vorming zijn onlosmakelijk met elkaar verbonden en beantwoorden aan de bepalingen van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap.
+
+### ART 22/21.
+
+De praktijkopleiding in de leertijd omvat het sluiten van een overeenkomst als vermeld in artikel 3 van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen.
+
+### ART 22/22.
+
+De erkende centra, vermeld in artikel 22/20, eerste lid, organiseren de theoretische vorming en de taalcursussen.<br>
+<br>
+Aan een centrum kan de VDAB conform de voorwaarden die de Vlaamse Regering bepaalt, en conform eventuele bijkomende voorwaarden opgenomen in het ondernemingsplan, de volgende subsidies en financiële compensaties toekennen:<br>
+1° een subsidie voor de leertijd;<br>
+2° een subsidie of financiële compensatie voor de huur, het verwerven, de nieuwbouw, het eigenaarsonderhoud en de uitrusting van gebouwen conform de regels die de Vlaamse Regering vaststelt;<br>
+3° een subsidie of financiële compensatie voor innovatie en productontwikkeling conform de regels die de Vlaamse Regering vaststelt;<br>
+4° een subsidie of financiële compensatie voor projecten in het kader van de uitvoering van het ondernemingsplan conform de regels die de Vlaamse Regering vaststelt;<br>
+5° een subsidie voor het doel- en kansengroepenbeleid in de leertijd.<br>
+<br>
+De subsidies, vermeld in het tweede lid, 1° en 2°, kunnen de volgende vormen aannemen:<br>
+1° een productiesubsidie;<br>
+2° een effectiviteitssubsidie.<br>
+<br>
+De subsidies, vermeld in het eerste lid, 1° en 2°, worden geval per geval toegekend op grond van een ondernemingsplan dat aan de VDAB ter goedkeuring wordt voorgelegd en op grond van de voorwaarden bepaald in het vijfde lid.<br>
+<br>
+Een centrum als vermeld in het eerste lid komt in aanmerking voor een subsidie als het in het kader van de leertijd:<br>
+1° deelneemt aan en samenwerkt binnen een of meer overlegfora als vermeld in artikel 357/32 van de Codex Secundair Onderwijs van 17 december 2010;<br>
+2° binnen zijn opdrachten maximale inspanningen levert om het voltijds engagement voor elke jongere te realiseren;<br>
+3° deelneemt aan en samenwerkt binnen een lokaal overlegplatform opgericht overeenkomstig deel VIII, hoofdstuk 1, afdeling 2, van het besluit van 28 oktober 2016 betreffende codificatie van sommige bepalingen voor het onderwijs.<br>
+<br>
+In het vijfde lid, 3°, wordt verstaan onder samenwerken:<br>
+1° de gegevens leveren, vermeld in deel VIII, hoofdstuk 1, afdeling 3, van het besluit van 28 oktober 2016 betreffende codificatie van sommige bepalingen voor het onderwijs;<br>
+2° de afspraken naleven, vermeld in deel VIII, hoofdstuk 1, afdeling 3, van het besluit van 28 oktober 2016 betreffende codificatie van sommige bepalingen voor het onderwijs.<br>
+<br>
+De subsidiëring voor de leertijd van een centrum dat niet meer voldoet aan alle subsidiëringsvoorwaarden, wordt door de VDAB volledig of gedeeltelijk ingehouden. Met behoud van de toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begroting, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, kan de inhouding ook op voorstel van de onderwijsinspectie als het gaat om de voorwaarden, vermeld in het vijfde lid. De Vlaamse Regering bepaalt de aanvullende bepalingen voor die inhouding en regelt de beroepsprocedure.
+
+### ART 22/23.
+
+De Vlaamse Regering bepaalt de voorwaarden voor de erkenning van de studiebewijzen in verband met de leertijd.
 
 ## HOOFDSTUK VII FINANCIËLE MIDDELEN
 
@@ -461,6 +519,12 @@ De Vlaamse Regering bepaalt na advies van de raad van bestuur van de VDAB de nad
 § 3. Het agentschap kan schenkingen of legaten aanvaarden. Het daartoe gemandateerde orgaan beoordeelt vooraf de opportuniteit en de risico's van de aanvaarding.
 
 ## [HOOFDSTUK VII/1. TOEZICHT, KWALITEIT EN SANCTIES (ing. decr. 19 juni 2020, art. 21, I: 1 januari 2021)]
+
+### ART 23/1.
+
+Met behoud van de toepassing van de geldende decretale en reglementaire bepalingen over het toezicht in het onderwijs, met inbegrip van het toezicht op de leertijd door de onderwijsinspectie en de bevoegde onderwijsadministratie, wordt het toezicht op de uitvoering, vermeld in hoofdstuk VI, afdeling 6, en de uitvoeringsbesluiten van dit decreet, uitgeoefend door het Departement Werk en Sociale Economie.<br>
+<br>
+De Vlaamse Regering bepaalt de verdere modaliteiten en verdere regels van het toezicht en de kwaliteit.
 
 ## HOOFDSTUK VIII COÖRDINATIE
 
