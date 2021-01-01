@@ -186,7 +186,7 @@ De ondernemer brengt het departement onmiddellijk en op eigen initiatief op de h
 
 ### ART 12.
 
-De minister bepaalt, op gezamenlijke voordracht van de leden van de Commissie Transitiepremie de lijst met de prestarterstrajecten. De Commissie Transitiepremie is samengesteld uit telkens één lid van het departement, de VDAB, het Vlaams Agentschap Innoveren en Ondernemen en het Vlaams Agentschap voor Ondernemersvorming Syntra Vlaanderen.
+De minister bepaalt, op gezamenlijke voordracht van de leden van de Commissie Transitiepremie de lijst met de prestarterstrajecten. De Commissie Transitiepremie is samengesteld uit telkens één lid van het departement, de VDAB en het Vlaams Agentschap Innoveren en Ondernemen.
 
 ### ART 13.
 

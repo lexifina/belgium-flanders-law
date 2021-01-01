@@ -2,16 +2,16 @@
   "codex_id": 1029103,
   "title": "Besluit van de Vlaamse Regering van 2018-02-23 tot uitvoering van het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029103/VolledigDocument?datum=2020-03-27",
-  "source_sha256": "d967bd971f158ad7060e381fe16a569913d513cc7bb7b72c5320ca8472220e2a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029103/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "1577e72df0b32f7fc8d00381acc8b22511f2df576c33f587c869aed56db7eea5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029103&param=informatie",
-  "as_of": "2020-03-27",
+  "as_of": "2021-01-01",
   "made": "2018-02-23",
   "gazette": "2018-03-09",
   "numac": 2018011208,
   "document_start": "2018-03-15",
   "document_end": null,
-  "in_force": "2020-03-27",
+  "in_force": "2021-01-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2020-03-27; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
