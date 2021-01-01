@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035626,
+  "title": "Ministerieel besluit van 2021-05-04 tot vastlegging van het totale aantal subsidiabele uren gastopvang 2021 en tot bepaling van het maximale aantal subsidiabele uren gastopvang per erkende dienst voor het jaar 2021",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035626/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "24dbd54397992471e88e9acab06774b276aecdb2388b234e579656417f7673a7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035626&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2021-05-04",
+  "gazette": "2021-06-04",
+  "numac": 2021041516,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
