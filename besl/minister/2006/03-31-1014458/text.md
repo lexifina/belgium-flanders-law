@@ -4,11 +4,14 @@
 
 ### ART. 1.
 
-Dit besluit is van toepassing op het Vlaams Energieagentschap van het Vlaams ministerie van Leefmilieu, Natuur en Energie, voor de domeinen waarvoor de minister bevoegd is.
+Dit besluit is van toepassing op het VEKA van het Vlaams ministerie van Omgeving, voor de domeinen waarvoor de minister bevoegd is.
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° minister: het lid van de Vlaamse Regering, bevoegd voor het energiebeleid;<br />2° Vlaams Energieagentschap : het agentschap, opgericht bij titel II van het Energiebesluit van 19 november 2010 <br />3° hoofd van het agentschap: het personeelslid dat door de Vlaamse Regering belast is met de algemene leiding, de werking en de vertegenwoordiging van het in punt 2° bedoelde agentschap.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° minister: het lid van de Vlaamse Regering, bevoegd voor het energiebeleid en klimaatbeleid;<br>
+2° VEKA: het agentschap, opgericht bij titel II van het Energiebesluit van 19 november 2010<br>
+3° hoofd van het agentschap: het personeelslid dat door de Vlaamse Regering belast is met de algemene leiding, de werking en de vertegenwoordiging van het in punt 2° bedoelde agentschap.
 
 ### ART. 3.
 
@@ -16,7 +19,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br />1° minister: het 
 
 ### ART. 4.
 
-Het hoofd van het agentschap kan de hiervoor in aanmerking komende aan hem gedelegeerde bevoegdheden, geheel of gedeeltelijk subdelegeren, aan personeelsleden van het Vlaams Energieagentschap, tot op het meest functionele niveau. Elke subdelegatie wordt meegedeeld aan het Rekenhof en aan de minister.
+Het hoofd van het agentschap kan de hiervoor in aanmerking komende aan hem gedelegeerde bevoegdheden, geheel of gedeeltelijk subdelegeren, aan personeelsleden van het VEKA, tot op het meest functionele niveau. Elke subdelegatie wordt meegedeeld aan het Rekenhof en aan de minister.
 
 ## HOOFDSTUK II Specifieke delegaties
 
@@ -25,7 +28,8 @@ Het hoofd van het agentschap kan de hiervoor in aanmerking komende aan hem gedel
 Het hoofd van het agentschap wordt, inzake het energiebeleid, gemachtigd om:<br>
 1° in toepassing van artikel 7.3.1 van het Energiebesluit van 19 november 2010 subsidies toe te kennen tot 25.000 euro<br>
 2° binnen de perken van de in de begroting voorziene kredieten, facultatieve subsidies te verlenen voor een bedrag van maximum 500 euro, op voorwaarde dat de principiële goedkeuring daarvoor schriftelijk wordt gegeven door de minister;<br>
-3° met betrekking tot rechtsgedingen een hoger beroep of een voorziening in cassatie in te stellen.
+3° met betrekking tot rechtsgedingen een hoger beroep of een voorziening in cassatie in te stellen.<br>
+4° op te treden als wettelijke vertegenwoordiger van het Vlaamse Gewest, in zijn hoedanigheid van persoon die de opening van de rekening aanvraagt en van rekeninghouder van de persoonstegoedrekeningen in het registersysteem, geopend overeenkomstig artikel 13 van de Verordening nr. 920/2010 van de Commissie van 7 oktober 2010 inzake een gestandaardiseerd en beveiligd registersysteem overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad en beschikking nr. 280/2004/EG van het Europees Parlement en de Raad.
 
 ### ART. 6.
 
