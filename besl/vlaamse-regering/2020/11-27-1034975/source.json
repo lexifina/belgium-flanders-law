@@ -1,0 +1,17 @@
+{
+  "codex_id": 1034975,
+  "title": "Besluit van de Vlaamse Regering van 2020-11-27 houdende indeling bij de gemeentewegen van een weggedeelte van de Koninginnelaan op het grondgebied van de stad Gent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1034975/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "809311967155d7d83f4f92b3b43f072744611e83de34a06487f0a34b9bad968b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1034975&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2020-11-27",
+  "gazette": "2020-12-22",
+  "numac": 2020016352,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
