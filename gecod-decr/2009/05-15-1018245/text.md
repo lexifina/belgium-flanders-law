@@ -1646,7 +1646,7 @@ b) het geheel of gedeeltelijk herbouwen of vervangen van buitenmuren of dragende
 13° ...;<br>
 14° verkavelen : een grond vrijwillig verdelen in twee of meer&nbsp;kavels om ten minste één van deze kavels te verkopen of te verhuren voor méér dan negen jaar, om er een recht van erfpacht of opstal op te vestigen, of om één van deze overdrachtsvormen aan te bieden, zelfs onder opschortende voorwaarde, zulks met het oog op woningbouw of de oprichting van constructies;<br>
 15° verkrot : niet voldoend aan de elementaire eisen van stabiliteit;<br>
-16° woning : een goed, vermeld in artikel 2, § 1, eerste lid, 31°, van de Vlaamse Wooncode;<br>
+16° woning : een goed, vermeld in artikel 1.3, § 1, eerste lid, 66°, van de Vlaamse Codex Wonen van 2021;<br>
 17° zonevreemde constructie : hetzij een constructie die niet beantwoordt aan de voor het perceel geldende bestemmingsvoorschriften en die niet gelegen is binnen een minder dan vijftien jaar oude niet-vervallen verkaveling, hetzij een constructie die gelegen is in een reservatiestrook en die niet behoort tot de nutswerken waarvoor de reservatiestrook is afgebakend;<br>
 18° zorgwonen : een vorm van wonen waarbij voldaan is aan alle hiernavolgende voorwaarden :<br>
 a) in een bestaande woning wordt één ondergeschikte wooneenheid gecreëerd,<br>
@@ -3019,7 +3019,18 @@ Het stedenbouwkundig uittreksel bestaat uit een informatief uittreksel uit het p
 
 ### ART. 5.4.1.
 
-Voor de toepassing van dit hoofdstuk wordt verstaan onder :<br />1° « weekendverblijf » : een al dan niet verplaatsbare en vanuit bouwfysisch oogpunt hoofdzakelijk vergunde constructie die krachtens de stedenbouwkundige voorschriften niet tot permanente bewoning kan worden bestemd, en die voldoet aan alle volgende voorwaarden :<br />a) zij heeft een maximaal bouwvolume van 300 m3,<br />b) onverminderd het tweede lid voldoet zij aan de vereisten, vastgesteld bij en krachtens artikel 5, § 1, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode,<br />c) zij is niet gelegen in een natuurgebied met wetenschappelijke waarde of natuurreservaat, aangewezen op een plan van aanleg of een ruimtelijk uitvoeringsplan;<br />2° « permanente bewoners » : personen die voldoen aan beide hiernavolgende voorwaarden :<br />a) op 31 augustus 2009 betrekken zij reeds gedurende ten minste één jaar een weekendverblijf als hoofdverblijfplaats, zulks blijkens een voorlopige of definitieve inschrijving in het bevolkingsregister of het vreemdelingenregister van de betrokken gemeente,<br />b) zij hebben geen andere woning volledig in volle eigendom of volledig in vruchtgebruik.<br /><br />Indien een constructie voldoet aan alle voorwaarden, vermeld in het eerste lid, 1°, a) en c). <br /><br />Maar volgens de bevindingen van het conformiteitsonderzoek, vermeld in artikel 5, § 2, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, aangetast is door tekortkomingen die verholpen kunnen worden door renovatie-, verbeterings- of aanpassingswerken, dan wordt de constructie voor de toepassing van dit hoofdstuk als een weekendverblijf beschouwd totdat deze werken zijn uitgevoerd, op voorwaarde dat de voltooiing van de werken geschiedt binnen de termijnen, gesteld krachtens artikel 18, § 1, eerste lid, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode. Indien de reglementaire normen in uitvoering van artikel 18, § 1, eerste lid, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, bepaalde personen vrijstellen van deze termijnen, dan wordt deze vrijstellingenregeling buiten toepassing gelaten.
+Voor de toepassing van dit hoofdstuk wordt verstaan onder :<br>
+1° « weekendverblijf » : een al dan niet verplaatsbare en vanuit bouwfysisch oogpunt hoofdzakelijk vergunde constructie die krachtens de stedenbouwkundige voorschriften niet tot permanente bewoning kan worden bestemd, en die voldoet aan alle volgende voorwaarden :<br>
+a) zij heeft een maximaal bouwvolume van 300 m3,<br>
+b) onverminderd het tweede lid voldoet zij aan de vereisten, vastgesteld bij en krachtens artikel 3.1, § 1, van de Vlaamse Codex Wonen van 2021,<br>
+c) zij is niet gelegen in een natuurgebied met wetenschappelijke waarde of natuurreservaat, aangewezen op een plan van aanleg of een ruimtelijk uitvoeringsplan;<br>
+2° « permanente bewoners » : personen die voldoen aan beide hiernavolgende voorwaarden :<br>
+a) op 31 augustus 2009 betrekken zij reeds gedurende ten minste één jaar een weekendverblijf als hoofdverblijfplaats, zulks blijkens een voorlopige of definitieve inschrijving in het bevolkingsregister of het vreemdelingenregister van de betrokken gemeente,<br>
+b) zij hebben geen andere woning volledig in volle eigendom of volledig in vruchtgebruik.<br>
+<br>
+Indien een constructie voldoet aan alle voorwaarden, vermeld in het eerste lid, 1°, a) en c).<br>
+<br>
+Maar volgens de bevindingen van het conformiteitsonderzoek, vermeld in artikel 3.1, § 2, van de Vlaamse Codex Wonen van 2021, aangetast is door tekortkomingen die verholpen kunnen worden door renovatie-, verbeterings- of aanpassingswerken, dan wordt de constructie voor de toepassing van dit hoofdstuk als een weekendverblijf beschouwd totdat deze werken zijn uitgevoerd, op voorwaarde dat de voltooiing van de werken geschiedt binnen de termijnen, gesteld krachtens artikel 3.30, § 1, eerste lid, van de Vlaamse Codex Wonen van 2021. Indien de reglementaire normen in uitvoering van artikel 3.30, § 1, eerste lid, van de Vlaamse Codex Wonen van 2021, bepaalde personen vrijstellen van deze termijnen, dan wordt deze vrijstellingenregeling buiten toepassing gelaten.
 
 ## Afdeling 2 Planologisch oplossingskader
 
@@ -3044,7 +3055,7 @@ Het woonrecht vervalt eveneens indien en van zodra de permanente bewoner :<br>
 2° een andere woning volledig in volle eigendom of volledig in vruchtgebruik verwerft;<br>
 3° na 1 september 2009 met betrekking tot het weekendverblijf een misdrijf of een inbreuk als vermeld in artikel 6.2.1 en 6.2.2., begaat.<br>
 <br>
-Het woonrecht vervalt ten slotte indien het weekendverblijf tenietgaat of niet langer voldoet aan de vereisten, vermeld in artikel 5 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br>
+Het woonrecht vervalt ten slotte indien het weekendverblijf tenietgaat of niet langer voldoet aan de vereisten, vermeld in artikel 3.1 van de Vlaamse Codex Wonen van 2021.<br>
 <br>
 § 3. Het woonrecht houdt in hoofde van de permanente bewoners en hun gezinsleden het recht in om het weekendverblijf permanent te bewonen gedurende de periode waarbinnen het woonrecht geldt. De gezinsleden genieten geen eigenstandig woonrecht en bouwen daartoe geen rechten op.<br>
 <br>
@@ -3108,7 +3119,7 @@ De Vlaamse Regering kan de specifieke wijze bepalen waarop artikel 335 van het d
 <br>
 § 2. De volgende personen zijn ontheven :<br>
 1°&nbsp;de eigenaars van één enkele onbebouwde grond bij uitsluiting van enig ander onroerend goed;<br>
-2° de Vlaamse Maatschappij voor Sociaal Wonen en de erkende sociale huisvestingsmaatschappijen, vermeld in het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br>
+2° de Vlaamse Maatschappij voor Sociaal Wonen en de erkende sociale huisvestingsmaatschappijen, vermeld in de Vlaamse Codex Wonen van 2021.<br>
 <br>
 De krachtens het eerste lid, 2°, verleende ontheffingen gelden slechts gedurende de vijf kalenderjaren die volgen op de verwerving van het goed. Ze gelden gedurende de vijf dienstjaren die volgen op de inwerkingtreding van de belastingverordening, indien het goed op dat tijdstip reeds verworven is.<br>
 <br>
