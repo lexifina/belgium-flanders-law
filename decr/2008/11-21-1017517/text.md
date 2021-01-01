@@ -534,7 +534,10 @@ Aan artikel 29bis van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode 
 
 ### ART. 35.
 
-De ambtenaren die met toepassing van het laatste lid van artikel 59 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode door de Vlaamse Regering belast zijn met de invordering van subsidies en tegemoetkomingen, evenals de ambtenaren die belast zijn met het opstellen, viseren en uitvoerbaar verklaren van de dwangbevelen, kunnen deze bevoegdheden ook uitoefenen om de andere dan de in het artikel 59 van voormeld decreet bedoelde subsidies en tegemoetkomingen die op het vlak van huisvesting, zoals bedoeld in artikel 6, § 1, IV, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen werden verstrekt, terug te vorderen wanneer de begunstigden de aangegane verbintenissen of gestelde voorwaarden niet naleven.<br /><br />De teruggevorderde subsidies en tegemoetkomingen worden toegewezen aan het Fonds voor de Huisvesting, bedoeld in artikel 59 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br /><br />
+De ambtenaren die met toepassing van artikel 5.4 van de Vlaamse Codex Wonen van 2021 door de Vlaamse Regering belast zijn met de invordering van subsidies en tegemoetkomingen, evenals de ambtenaren die belast zijn met het opstellen, viseren en uitvoerbaar verklaren van de dwangbevelen, kunnen deze bevoegdheden ook uitoefenen om de andere dan de in het artikel 5.2 van de voormelde codex bedoelde subsidies en tegemoetkomingen die op het vlak van huisvesting, zoals bedoeld in artikel 6, § 1, IV, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen werden verstrekt, terug te vorderen wanneer de begunstigden de aangegane verbintenissen of gestelde voorwaarden niet naleven.<br>
+<br>
+De teruggevorderde subsidies en tegemoetkomingen worden toegewezen aan het Fonds voor de Huisvesting, bedoeld in artikel 5.1 van de Vlaamse Codex Wonen van 2021.<br>
+&nbsp;
 
 ## Afdeling IV Sociale huurwoningen
 
@@ -548,13 +551,13 @@ In artikel 98 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, gew
 
 § 1. Voor de toepassing van dit artikel wordt verstaan onder :<br>
 1° Bestuurdecreet: het Bestuursdecreet van 7 december 2018 ;<br>
-2° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
+2° ...;<br>
 3° domeindecreet : het decreet van 24 maart 2006 houdende wijziging van decretale bepalingen inzake wonen als gevolg van het bestuurlijk beleid;<br>
-4° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30, § 1, eerste lid, van de Vlaamse Wooncode;<br>
-5° VHM : de Vlaamse Huisvestingsmaatschappij, vermeld in artikel 30, § 1, tweede lid, van de Vlaamse Wooncode;<br>
+4° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 4.7, eerste lid, van de Vlaamse Codex Wonen van 2021;<br>
+5° VHM : de Vlaamse Huisvestingsmaatschappij, vermeld in artikel 4.7, tweede lid, van de Vlaamse Codex Wonen van 2021;<br>
 6° ministerie : het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed.<br>
 <br>
-§ 2. De statuten van de VMSW, goedgekeurd door de buitengewone algemene vergadering der aandeelhouders van de VHM op 27 juni 2006, houdende de omvorming van de VHM tot de VMSW, zoals bepaald in artikel 30, § 1, zesde lid, van de Vlaamse Wooncode worden goedgekeurd met uitsluiting van artikel 3, § 1, 6°, 7° en 8°, van de statuten.<br>
+§ 2. De statuten van de VMSW, goedgekeurd door de buitengewone algemene vergadering der aandeelhouders van de VHM op 27 juni 2006, houdende de omvorming van de VHM tot de VMSW, zoals bepaald in artikel 4.7, zesde lid, van de Vlaamse Codex Wonen van 2021 worden goedgekeurd met uitsluiting van artikel 3, § 1, 6°, 7° en 8°, van de statuten.<br>
 <br>
 § 3. De VMSW geldt met ingang van de datum van de inwerkingtreding van artikel 33 van het domeindecreet als de algemene rechtsopvolger van de VHM, waarvan ze de rechtspersoonlijkheid voortzet.<br>
 <br>
@@ -563,7 +566,7 @@ De goederen, de rechten en de verplichtingen van de VHM, met inbegrip van de rec
 § 4. De roerende goederen, de rechten en de verplichtingen van de VHM, met inbegrip van de rechten en verplichtingen die voortvloeien uit de hangende en toekomstige gerechtelijke procedures, die betrekking hebben op taken en opdrachten die ter uitvoering van het Bestuursdecreet worden toevertrouwd aan het ministerie, worden overgedragen aan het Vlaamse Gewest en toegewezen aan de entiteiten van het ministerie overeenkomstig de verdeling, opgenomen in de inventaris, vermeld in § 6, tweede lid.<br>
 <br>
 § 5. De goederen, de rechten en de verplichtingen van het Vlaamse Gewest, die betrekking hebben op taken en opdrachten inzake woonbeleid, die uitgeoefend worden door de afdeling Gesubsidieerde Infrastructuur van het ministerie van de Vlaamse Gemeenschap, met inbegrip van de rechten en verplichtingen die voortvloeien uit de hangende en toekomstige gerechtelijke procedures, worden overeenkomstig de verdeling, opgenomen in de inventaris, vermeld in § 6, tweede lid :<br>
-1° overgedragen aan de VMSW als ze betrekking hebben op taken en opdrachten die krachtens artikelen 33 en 34 van de Vlaamse Wooncode worden toevertrouwd aan de VMSW;<br>
+1° overgedragen aan de VMSW als ze betrekking hebben op taken en opdrachten die krachtens hoofdstuk 2 en 3 van boek 4, deel 1, titel 2, van de Vlaamse Codex Wonen van 2021 worden toevertrouwd aan de VMSW;<br>
 2° toegewezen aan entiteiten van het ministerie als ze betrekking hebben op taken en opdrachten die ter uitvoering van het Bestuursdecreet worden toevertrouwd aan het ministerie.<br>
 <br>
 § 6. De goederen, rechten en verplichtingen, vermeld in §§ 4 en 5, worden kosteloos overgedragen in de staat waarin ze zich bevinden en, als het gaat om onroerende goederen, met inbegrip van hun actieve en passieve erfdienstbaarheden, de bijzondere lasten die verbonden zijn aan de verwerving ervan, alsmede de eventuele aan derden verleende rechten.<br>
