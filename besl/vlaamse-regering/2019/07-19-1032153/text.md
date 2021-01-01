@@ -53,7 +53,7 @@ In dit besluit wordt verstaan onder:<br>
 6° EVC-instrument: het EVC-instrument, vermeld in artikel 1, 2°, van het besluit van de Vlaamse Regering van 19 juli 2019 betreffende de uitvoering van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties;<br>
 7° EVC- standaard: de EVC-standaard, vermeld in artikel 1, 5°, van het besluit van de Vlaamse Regering van 19 juli 2019 betreffende de uitvoering van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties;<br>
 8° minister: de Vlaamse minister, bevoegd voor de professionele vorming;<br>
-9° Syntra Vlaanderen: het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen";<br>
+9° Agentschap Innoveren en Ondernemen: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, opgericht bij het besluit van de Vlaamse Regering van 7 oktober 2005 aangaande het Agentschap Innoveren en Ondernemen;;<br>
 10° VDAB: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, vermeld in artikel 3, § 1, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.
 
 ### ART 2.
@@ -76,7 +76,7 @@ De Erkenningscommissie is samengesteld uit:<br>
 1° een voorzitter vanuit het departement, of zijn plaatsvervanger;<br>
 2° een secretaris vanuit het departement, of zijn plaatsvervanger;<br>
 3° een vertegenwoordiger van de VDAB, of zijn plaatsvervanger;<br>
-4° een vertegenwoordiger van Syntra Vlaanderen, of zijn plaatsvervanger.<br>
+4° een vertegenwoordiger van het Agentschap Innoveren en Ondernemen, of zijn plaatsvervanger.<br>
 <br>
 Gedurende drie jaar vanaf de inwerkingtreding van dit besluit wordt een vertegenwoordiger van AHOVOKS of zijn plaatsvervanger toegevoegd aan de Erkenningscommissie.<br>
 <br>
@@ -113,7 +113,7 @@ De Beroepscommissie is samengesteld uit:<br>
 1° een voorzitter vanuit het departement, of zijn plaatsvervanger;<br>
 2° een secretaris vanuit het departement, of zijn plaatsvervanger;<br>
 3° een vertegenwoordiger van de VDAB, of zijn plaatsvervanger;<br>
-4° een vertegenwoordiger van Syntra Vlaanderen, of zijn plaatsvervanger;<br>
+4° een vertegenwoordiger van het Agentschap Innoveren en Ondernemen, of zijn plaatsvervanger;<br>
 5° een vertegenwoordiger van AHOVOKS, of zijn plaatsvervanger.<br>
 <br>
 De Beroepscommissie kan een beroep doen op deskundigen en technici conform de voorwaarden van het huishoudelijk reglement, vermeld in artikel 10.<br>
@@ -267,9 +267,9 @@ De Beroepscommissie brengt de organisatie en de Erkenningscommissie of het depar
 ### ART 27.
 
 Het departement coördineert het proces van het kwaliteitstoezicht. Het departement:<br>
-1° centraliseert de erkenningsaanvragen, wijst de aanvragen toe aan het erkenningsteam en stelt het team van toezichthouders aan, in samenspraak met de VDAB en Syntra Vlaanderen;<br>
+1° centraliseert de erkenningsaanvragen, wijst de aanvragen toe aan het erkenningsteam en stelt het team van toezichthouders aan, in samenspraak met de VDAB;<br>
 2° verzamelt de erkenningsbeslissingen van de erkenningscommissie en geeft ze door aan het register, vermeld in artikel 5, § 2, tweede lid, van het decreet van 26 april 2019;<br>
-3° bepaalt welke beroepskwalificerende trajecten op welk moment aan een kwaliteitstoezicht worden onderworpen, in samenspraak met de VDAB, Syntra Vlaanderen en gedurende de termijn, vermeld in artikel 22, tweede lid, de onderwijsinspectie;<br>
+3° bepaalt welke beroepskwalificerende trajecten op welk moment aan een kwaliteitstoezicht worden onderworpen, in samenspraak met de VDAB en gedurende de termijn, vermeld in artikel 22, tweede lid, de onderwijsinspectie;<br>
 4° monitort het proces en de procedure van kwaliteitstoezicht;<br>
 5° monitort het aantal lerenden of EVC-kandidaten die al dan niet een traject succesvol hebben doorlopen om een beroepskwalificatie te verwerven;<br>
 6° verleent informatie over alle aspecten van het proces van kwaliteitstoezicht.
