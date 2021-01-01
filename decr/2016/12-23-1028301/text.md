@@ -2876,7 +2876,7 @@ De Werkvennootschap (begrotingsartikel MB0-1MHF5AY-IS) wordt gemachtigd voor een
 <br>
 § 5. De minister die bevoegd is voor de huisvesting wordt ertoe gemachtigd de VMSW in staat te stellen voor een bedrag van maximaal 220.000.000 euro verbintenissen aan te gaan voor het verstrekken van marktconforme leningen voor de financiering van verrichtingen die onder de opdrachten van de initiatiefnemers vallen en die niet onder de programma's vermeld onder de paragrafen 1 tot en met 3 worden gefinancierd (NE0-1NEC5AN-IS).<br>
 <br>
-§ 6. De minister die bevoegd is voor de huisvesting wordt ertoe gemachtigd om ten laste van de begroting van de VMSW de subsidies vermeld in artikel 49, § 3, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, toe te kennen.
+§ 6. De minister die bevoegd is voor de huisvesting wordt ertoe gemachtigd om ten laste van de begroting van de VMSW de subsidies vermeld in artikel 4.50 van de Vlaamse Codex Wonen van 2021, toe te kennen.
 
 ### ART 33.
 

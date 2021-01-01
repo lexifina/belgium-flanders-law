@@ -2,16 +2,16 @@
   "codex_id": 1028301,
   "title": "Decreet van 2016-12-23 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2017",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028301/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "31c609b3ce8de6677b2b810fc80eed8d13e052aeb33b31b847ec31b9144eb345",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028301/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "916095ad64e3ef16c66e5fee678846949f8cd88cb30c7301fa0bc93422553ec3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028301&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2021-01-01",
   "made": "2016-12-23",
   "gazette": "2017-06-09",
   "numac": 2017011913,
   "document_start": "2017-01-01",
   "document_end": null,
-  "in_force": "2017-01-01",
+  "in_force": "2021-01-01",
   "article_versions": 161,
-  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
