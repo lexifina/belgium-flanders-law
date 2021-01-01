@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033957,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-11 houdende wijziging van diverse besluiten met betrekking tot de omvorming van het Vlaams Energieagentschap en de operationalisering ervan tot het Vlaams Energie- en Klimaatagentschap en tot integratie van opdrachten inzake klimaat en energie van het Departement Omgeving in het Vlaams Energie- en Klimaatagentschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033957/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "2ef0041a3cb1e9c27a57de2550c6a770b5c90dbc37e95af07daa4c1d370a80f0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033957&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2020-12-11",
+  "gazette": "2020-12-17",
+  "numac": 2020016363,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 226,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
