@@ -34,6 +34,125 @@ In afwachting dat het beveiligde centrale gegevensbestand, vermeld in het eerste
 1° de automatische uitwisseling van gegevens, vermeld in artikel 11/1, § 1 en § 2, van het voormelde decreet, verloopt conform paragraaf 1;<br>
 2° voor de toepassing van artikel 11/1, § 5, 8°, van het voormelde decreet wordt de ontvangst van de inlichtingen door de bevoegde autoriteit onmiddellijk en in elk geval niet later dan zeven werkdagen na de ontvangst van de inlichtingen, als dat mogelijk is, via elektronische weg aan de verstrekkende autoriteit bevestigd.
 
+### ART 3/3.
+
+De intermediair of de relevante belastingplichtige voldoet aan de verplichtingen, vermeld in artikel 11/3 tot en met 11/10, van het decreet van 21 juni 2013 betreffende de administratieve samenwerking op het gebied van belastingen, door een melding in te dienen bij het orgaan dat is vastgesteld bij een samenwerkingsakkoord als vermeld in artikel 92bis van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, of, bij gebrek daaraan, bij de Vlaamse Belastingdienst. Die melding wordt gedaan op de wijze die de Vlaamse minister, bevoegd voor de fiscaliteit, vaststelt.<br>
+<br>
+De melding, vermeld in het eerste lid, wordt gedaan met een formulier dat, al naargelang het geval, uitgereikt wordt door het orgaan, vermeld in het eerste lid, of door de Vlaamse Belastingdienst.
+
+### ART 3/4.
+
+Naar aanleiding van de melding van een grensoverschrijdende constructie die ten minste een van de wezenskenmerken, vermeld in artikel 5/1 van het decreet van 21 juni 2013 betreffende de administratieve samenwerking op het gebied van belastingen, bevat, wordt een uniek referentienummer toegekend, dat bij elke volgende melding over dezelfde grensoverschrijdende constructie wordt meegedeeld, zowel bij meldingen door elke betrokken intermediair als bij meldingen door de relevante belastingplichtige.<br>
+<br>
+De intermediair die het uniek referentienummer van de bevoegde instanties ontvangt, geeft dat, samen met de samenvatting over de gemelde constructie, onmiddellijk door aan de andere betrokken intermediairs en aan de relevante belastingplichtige.
+
+### ART 3/5.
+
+<span style="color:#000000">De schaal van de administratieve geldboetes voor de overtredingen, vermeld in artikel 30/1, eerste en tweede lid, van het decreet van 21 juni 2013 betreffende de administratieve samenwerking op het gebied van belastingen, wordt op de volgende wijze vastgesteld:</span><br>
+&nbsp;
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>aard van de overtreding</td>
+			<td>boete</td>
+		</tr>
+		<tr>
+			<td>1° onvolledig verstrekken van de inlichtingen:</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>a) overtreding niet gedaan met bedrieglijk opzet of het oogmerk te schaden:</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>1) eerste overtreding</td>
+			<td>1250 euro</td>
+		</tr>
+		<tr>
+			<td>2) tweede overtreding</td>
+			<td>2500 euro</td>
+		</tr>
+		<tr>
+			<td>3) derde overtreding</td>
+			<td>5000 euro</td>
+		</tr>
+		<tr>
+			<td>4) vierde overtreding</td>
+			<td>10.000 euro</td>
+		</tr>
+		<tr>
+			<td>5) volgende overtredingen</td>
+			<td>12.500 euro</td>
+		</tr>
+		<tr>
+			<td>b) overtreding gedaan met bedrieglijk opzet of het oogmerk te schaden:</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>1) eerste overtreding</td>
+			<td>2500 euro</td>
+		</tr>
+		<tr>
+			<td>2) tweede overtreding</td>
+			<td>5000 euro</td>
+		</tr>
+		<tr>
+			<td>3) derde overtreding</td>
+			<td>10.000 euro</td>
+		</tr>
+		<tr>
+			<td>4) vierde overtreding</td>
+			<td>20.000 euro</td>
+		</tr>
+		<tr>
+			<td>5) volgende overtredingen</td>
+			<td>25.000 euro</td>
+		</tr>
+		<tr>
+			<td>2° niet of laattijdig verstrekken van de inlichtingen:</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>a) overtreding niet gedaan met bedrieglijk opzet of het oogmerk te schaden:</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>1) eerste overtreding</td>
+			<td>5000 euro</td>
+		</tr>
+		<tr>
+			<td>2) tweede overtreding</td>
+			<td>12.500 euro</td>
+		</tr>
+		<tr>
+			<td>3) derde overtreding</td>
+			<td>31.250 euro</td>
+		</tr>
+		<tr>
+			<td>4) volgende overtredingen</td>
+			<td>50.000 euro</td>
+		</tr>
+		<tr>
+			<td>b) overtreding gedaan met bedrieglijk opzet of het oogmerk te schaden:</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>1) eerste overtreding</td>
+			<td>12.500 euro</td>
+		</tr>
+		<tr>
+			<td>2) tweede overtreding</td>
+			<td>37.500 euro</td>
+		</tr>
+		<tr>
+			<td>3) volgende overtredingen</td>
+			<td>100.000 euro</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="color:#000000">De leidend ambtenaar van de Vlaamse Belastingdienst wijst de personeelsleden aan die bevoegd zijn om de boetes, vermeld in artikel 30/1, eerste en tweede lid, van het voormelde decreet, op te leggen.</span>
+
 ### ART. 4.
 
 Dit besluit heeft uitwerking met ingang van 27 juni 2013.
