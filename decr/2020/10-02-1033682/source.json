@@ -2,16 +2,16 @@
   "codex_id": 1033682,
   "title": "Decreet van 2020-10-02 tot wijziging van het decreet van 19 mei 2006 betreffende de Winwinlening, wat betreft de COVID-19-Winwinlening",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033682/VolledigDocument?datum=2020-10-07",
-  "source_sha256": "981f16817444df1855b7995e630a2aaff09da39edbfc38638470ca7fba16ccf1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033682/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "14dd58d488137227fc3c992007bdf05b726dfffd7fb9599919dbcd05326f5458",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033682&param=informatie",
-  "as_of": "2020-10-07",
+  "as_of": "2021-01-01",
   "made": "2020-10-02",
   "gazette": "2020-10-06",
   "numac": 2020015698,
   "document_start": "2020-10-07",
   "document_end": null,
-  "in_force": "2020-10-07",
-  "article_versions": 8,
-  "record_form": "consolidated version as in force on 2020-10-07; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-01-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }

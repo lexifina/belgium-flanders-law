@@ -40,6 +40,18 @@ In artikel 7 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 19 
 "Te rekenen vanaf het jaar dat volgt op het jaar waarin een Winwinlening is gesloten, houdt de kredietgever het bewijs, dat hij in het belastbare tijdperk een of meer Winwinleningen heeft uitstaan, en het bewijs van verlenging van de looptijd van de Winwinlening als vermeld in artikel 9/1, ter beschikking van de belastingadministratie.";<br>
 2° in het derde lid worden de woorden "fiscale voordeel" vervangen door het woord "belastingkrediet".
 
+### ART 6.
+
+In artikel 8 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 19 december 2014, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 3 wordt vervangen door wat volgt:<br>
+" § 3. Het rekenkundig gemiddelde van de openstaande saldi van alle uitgeleende of ter beschikking gestelde bedragen op 1 januari en 31 december van het belastbare tijdperk wordt als berekeningsgrondslag van het belastingkrediet genomen. Die berekeningsgrondslag bedraagt ten hoogste 75.000 euro per belastingplichtige.";<br>
+2° in paragraaf 5, tweede lid, wordt het woord "federale" opgeheven;<br>
+3° in paragraaf 5, derde tot en met zesde lid, worden de woorden "fiscale voordeel" telkens vervangen door het woord "belastingkrediet".
+
+### ART 7.
+
+In artikel 9, § 3, van hetzelfde decreet wordt het bedrag "50.000 euro" vervangen door het bedrag "75.000 euro".
+
 ### ART 8.
 
 In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2016, wordt een hoofdstuk VI/1 ingevoegd, dat luidt als volgt:<br>
@@ -53,6 +65,14 @@ In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2016,
 "Art. 9/1. Ter gelegenheid van de COVID-19-crisis die de Vlaamse Regering bij besluit als dusdanig erkent, kan de Vlaamse Regering toestaan dat Winwinleningen, die voorafgaand aan de inwerkingtreding van deze bepaling geregistreerd zijn en waarvan de contractuele looptijd in 2020 verstrijkt, door de partijen in onderlinge overeenstemming verlengd kunnen worden, zonder dat die verlenging meer dan twee jaar mag bedragen.<br>
 <br>
 De Vlaamse Regering kan terugbetalingsvoorwaarden en modaliteiten koppelen aan de verlenging van de looptijd van de Winwinlening, vermeld in het eerste lid.".
+
+### ART 10.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2016, wordt in hoofdstuk VI/1, ingevoegd bij artikel 8, een artikel 9/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 9/2. Ter gelegenheid van de COVID-19-crisis die de Vlaamse Regering bij besluit als dusdanig erkent, kan de Vlaamse Regering toestaan en beslissen dat het percentage van het eenmalig belastingkrediet, vermeld in artikel 9, § 4, wordt opgetrokken tot maximaal 40%. De verhoging van het eenmalig belastingkrediet geldt alleen voor Winwinleningen die gesloten zijn na 15 maart 2020 tot op de datum die de Vlaamse Regering bepaalt en ten laatste tot 31 december 2021.<br>
+<br>
+De Vlaamse Regering kan terugbetalingsvoorwaarden en modaliteiten koppelen aan de verhoging van het eenmalig belastingkrediet, vermeld in het eerste lid.".
 
 ### ART 11.
 
