@@ -2,16 +2,16 @@
   "codex_id": 1028580,
   "title": "Besluit van de Vlaamse Regering van 2017-07-14 houdende de procedureregels voor de subsidiëring van infrastructuur van ziekenhuizen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028580/VolledigDocument?datum=2020-12-07",
-  "source_sha256": "f4ce9f63f7a3555460d6aca061317c3d7b728897dd9100e02dc10676517abaf9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028580/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "d2d8b48681af270b780ef55c87c6af2135404c057c5bde344b16d12e07591a76",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028580&param=informatie",
-  "as_of": "2020-12-07",
+  "as_of": "2021-01-01",
   "made": "2017-07-14",
   "gazette": "2017-09-06",
   "numac": 2017040672,
   "document_start": "2017-01-01",
   "document_end": null,
-  "in_force": "2020-12-07",
+  "in_force": "2021-01-01",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2020-12-07; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }

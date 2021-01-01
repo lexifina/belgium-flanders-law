@@ -119,7 +119,7 @@ De procedure voor de goedkeuring van een masterplan en om een akkoord strategisc
 
 Een aanvraag tot goedkeuring van een masterplan en van een akkoord strategisch forfait voor een project wordt gericht aan het Fonds. De aanvraag bevat al de volgende gegevens en documenten:<br>
 1° de ondertekende notulen van de vergadering van de bevoegde organen van de aanvrager met de beslissing om het masterplan en het betreffende project goed te keuren en de aanvraag tot goedkeuring ervan in te dienen;<br>
-2° stukken waaruit blijkt dat het masterplan waarvoor goedkeuring wordt gevraagd en het project waarvoor een akkoord strategisch forfait wordt gevraagd, passen in de zorgstrategische planning, vermeld in artikel 5 van het besluit van 14 juli 2017, of binnen de voorwaarden, vermeld in artikel 13 van het besluit van 14 juli 2017;<br>
+2° stukken waaruit blijkt dat het masterplan waarvoor goedkeuring wordt gevraagd en het project waarvoor een akkoord strategisch forfait wordt gevraagd, passen in de zorgstrategische planning, vermeld in artikel 5, § 1, van het besluit van 14 juli 2017, of beantwoorden aan de voorwaarden, vermeld in artikel 5, § 2, van het voormelde besluit;<br>
 3° het masterplan en een beschrijving van het betreffende project met inbegrip van de bouwtechnische en financiële aspecten ervan;<br>
 4° de gegevens waaruit blijkt dat de aanvrager beschikt over de nodige financiële middelen die vereist zijn voor de volledige autofinanciering van het project als het een project met volledige autofinanciering zonder voorafgaand akkoord strategisch forfait betreft;<br>
 5° een verklaring op erewoord over het project waarvoor een akkoord strategisch forfait wordt gevraagd, voor de toepassing van artikel 23 van dit besluit;<br>
@@ -214,12 +214,12 @@ b) de kwaliteitsvereisten;<br>
 c) de programmatie;<br>
 d) de aanvrager;<br>
 e) de prioriteiten tussen de aanvragen van de verschillende aanvragers;<br>
-f) de conformiteit met de zorgstrategische planning, vermeld in artikel 5 van het besluit van 14 juli 2017, of met de voorwaarden, vermeld in artikel 13 van het besluit van 14 juli 2017;<br>
+f) de conformiteit met de zorgstrategische planning, vermeld in artikel 5, § 1, van het besluit van 14 juli 2017, of met de voorwaarden, vermeld in artikel 5, § 2, van het voormelde besluit;<br>
 2° een of meer personeelsleden die ter beschikking staan van het Fonds:<br>
 a) over de financiële aspecten, onder meer over de begrotingsweerslag op het activiteitenprogramma bij de exploitatie van het project, waarbij ook gevraagd wordt een raming op te maken van de eventuele financiële weerslag van het project op de opeenvolgende begrotingsjaren;<br>
 b) over het beantwoorden aan de bouwtechnische en bouwfysische normen, over de technische aspecten en over de kostprijsraming;<br>
 c) over de controle van de verwantschapsband, vermeld in artikel 3, eerste lid, en artikel 4 van dit besluit;<br>
-d) over het beantwoorden aan de voorwaarden, vermeld in artikel 13 van het besluit van 14 juli 2017.<br>
+d) over het beantwoorden aan de voorwaarden, vermeld in artikel 5, § 2, van het besluit van 14 juli 2017.<br>
 <br>
 § 3. Het agentschap en de personeelsleden, vermeld in paragraaf 2, kunnen aanvullende inlichtingen vragen aan de aanvrager. Ze bezorgen hun advies aan het Fonds binnen zestig dagen na de ontvangst van de adviesvraag.
 
