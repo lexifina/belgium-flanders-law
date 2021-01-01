@@ -76,6 +76,57 @@ In artikel 18, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van 
 
 ## HOOFDSTUK 3. Wijzigingen van het Besluit Vlaamse Codex Wonen van 2021
 
+### ART 7.
+
+In artikel 1.2, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021 worden de volgende wijzigingen aangebracht :<br>
+1° punt 3° wordt opgeheven;<br>
+2° punt 59° wordt vervangen door wat volgt :<br>
+"59° infrastructuurwerken : de volgende werken als ze noodzakelijk zijn voor de woningen in kwestie :<br>
+a) werken aan de wegenuitrusting, namelijk het aanleggen of aanpassen en het geschikt maken van :<br>
+1) de toegangs- en circulatieruimten voor alle verkeersdeelnemers;<br>
+2) de parkeerplaatsen, fietsenstallingen;<br>
+3) de vaste constructies binnen de toegangs- en circulatieruimten;<br>
+b) werken aan de inrichtingen voor afvoer en zuivering van afvalwater, namelijk het aanleggen of aanpassen en het geschikt maken van :<br>
+1) de waterafvoerleiding tot het dichtstbijzijnde lozingspunt, de wachtbuizen voor de aansluiting van de woningen;<br>
+2) de gemalen, zuiveringsstations en andere voorzieningen die op advies van de VMSW noodzakelijk worden geacht voor de normale waterafvoer of ter voorkoming van de verontreiniging door afvalwater;<br>
+c) openbare verlichting en de daarbij horende netuitbreiding aanleggen of aanpassen;<br>
+d) werken aan het openbare watervoorzieningsnet, namelijk het aanleggen of aanpassen en het uitrusten van de uitbreiding van het waterbedelingsnet, uitgezonderd de huisaansluitingen, maar met inbegrip van de hydranten;<br>
+e) omgevingswerken, namelijk werken aan :<br>
+1) groenvoorzieningen;<br>
+2) verhardingen voor niet-gemotoriseerd verkeer en recreatief gebruik;<br>
+3) al dan niet vast straatmeubilair en speeltuigen;<br>
+4) vaste constructies voor plant-, water- en speelvakken;<br>
+5) andere bijkomende werken, zoals plaatselijke draineringen, beperkte parkeeroppervlakten, met uitsluiting van werken van burgerlijke bouwkunde;".
+
+### ART 8.
+
+In artikel 5.50, § 4, van hetzelfde besluit wordt de zinsnede "De subsidie die vanaf 2016 uit het Vlaams Klimaatfonds aan de VMSW toegekend wordt" vervangen door de zinsnede "De subsidies die vanaf 2016 uit het Vlaams Klimaatfonds en via een toelage vanuit het begrotingsartikel QF0-1QDG2QK-IS aan de VMSW toegekend worden".
+
+### ART 9.
+
+In artikel 5.57, eerste lid, van hetzelfde besluit wordt punt 4° opgeheven.
+
+### ART 10.
+
+In artikel 5.62 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br>
+1° in paragraaf 1 wordt de zinsnede "artikel 5.57, eerste lid, 2°, 3° en 4° " vervangen door de zinsnede "artikel 5.57, eerste lid, 2° en 3° ";<br>
+2° in paragraaf 1 wordt punt 1° vervangen door wat volgt :<br>
+"1° de kostprijs van de uitvoering van de infrastructuurwerken of van de oprichting van de gemeenschapsvoorzieningen, vermeld in paragraaf 2;";<br>
+3° in paragraaf 2 wordt het derde lid opgeheven;<br>
+4° in paragraaf 3, eerste lid, worden punt 2° en punt 4° opgeheven.
+
+### ART 11.
+
+In artikel 5.63, § 2, van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br>
+1° in het eerste lid wordt de zinsnede "artikel 5.57, eerste lid, 2°, 3° en 4° " vervangen door de zinsnede "artikel 5.57, eerste lid, 2° en 3° ";<br>
+2° in het eerste lid wordt punt 1° vervangen door wat volgt :<br>
+"1° de kostprijs van de uitvoering van de infrastructuurwerken of van de oprichting van de gemeenschapsvoorzieningen, vermeld in artikel 5.62, § 2;";<br>
+3° in het vierde lid wordt de zinsnede "artikel 5.57, eerste lid, 2°, 3° of 4° " vervangen door de zinsnede "artikel 5.57, eerste lid, 2° of 3° ".
+
+### ART 12.
+
+In artikel 5.66, eerste lid, van hetzelfde besluit wordt de zinsnede "verrichtingen, vermeld in artikel 5.57, eerste lid, 2° en 4°, " vervangen door het woord "infrastructuurwerken".
+
 ## HOOFDSTUK 4. Slotbepalingen
 
 ### ART 13.
