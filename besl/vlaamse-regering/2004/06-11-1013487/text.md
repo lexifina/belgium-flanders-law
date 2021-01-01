@@ -19,7 +19,7 @@ c) andere biologische organismen die potentieel schade kunnen toebrengen aan de 
 6° fysische factoren: natuurkundige verschijnselen die potentieel schadelijk zijn voor de gezondheid van de mens door hun akoestische, mechanische, thermische of elektromagnetische eigenschappen, met uitzondering van ioniserende straling;<br>
 6° /1 gebruikers : personen die, niet-werkgerelateerd, verschillende dagen per week gedurende meerdere uren per dag aanwezig zijn of verblijven in een publiek toegankelijk gebouw;<br>
 7° gemeentelijke huisvestingsambtenaar: de door de burgemeester aangestelde technische ambtenaar, belast met aspecten van het wonen;<br>
-8° gewestelijke ambtenaar: de ambtenaar die door de Vlaamse Regering wordt aangewezen en die binnen zijn ambtsgebied belast is met opdrachten inzake kwaliteitsbewaking, zoals bedoeld in titel III van de Vlaamse Wooncode;<br>
+8° gewestelijke ambtenaar: de ambtenaar die door de Vlaamse Regering wordt aangewezen en die binnen zijn ambtsgebied belast is met opdrachten inzake kwaliteitsbewaking, zoals bedoeld in boek 3 van de Vlaamse Codex Wonen van 2021;<br>
 9° gezondheid: toestand van lichamelijk, geestelijk en sociaal welbevinden bij de mens;<br>
 10° interventiewaarde : de meetbare blootstellingswaarde van een chemische, fysische of biotische factor, waarbij een actie vereist is als ze bereikt of overschreden wordt, omdat het blootstellingsniveau een gezondheidsrisico kan inhouden;<br>
 11° Logo: een door de Vlaamse Regering erkend samenwerkingsverband voor loco-regionaal gezondheidsoverleg en -organisatie binnen een aaneengesloten gebied;<br>
@@ -41,7 +41,7 @@ Al wie verantwoordelijk is voor de bouw, het onderhoud of de uitrusting van woni
 
 ### ART. 3.
 
-Onverminderd de bepalingen van de Vlaamse Wooncode, mag het binnenmilieu geen duidelijk aanwijsbare gezondheidsrisico's inhouden.<br>
+Onverminderd de bepalingen van de Vlaamse Codex Wonen van 2021, mag het binnenmilieu geen duidelijk aanwijsbare gezondheidsrisico's inhouden.<br>
 <br>
 Bij de beoordeling van die vereiste wordt onder meer rekening gehouden met de richtwaarden, de interventiewaarden en andere bepalingen, in de bijlage bij dit besluit.<br>
 <br>
