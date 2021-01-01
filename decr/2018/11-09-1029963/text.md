@@ -136,9 +136,9 @@ Leveringsplicht en staat van het goed<br>
 <br>
 § 1. De verhuurder is verplicht het goed in alle opzichten in goede staat van onderhoud te leveren.<br>
 <br>
-Het gehuurde goed moet beantwoorden aan de elementaire vereisten van veiligheid, gezondheid en woningkwaliteit, vermeld in artikel 5 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, hierna de Vlaamse Wooncode te noemen.<br>
+Het gehuurde goed moet beantwoorden aan de vereiste van conformiteit, vermeld in artikel 1.3, § 1, eerste lid, 8°, van de Vlaamse Codex Wonen van 2021.<br>
 <br>
-De aanwezigheid van een conformiteitsattest als vermeld in artikel 7 van de Vlaamse Wooncode, dat binnen drie maanden voor de aanvang van de huurovereenkomst werd afgeleverd, geldt als vermoeden van de naleving van de verplichting, vermeld in het tweede lid.<br>
+De aanwezigheid van een conformiteitsattest als vermeld in artikel 3.6 van de Vlaamse Codex Wonen van 2021, dat binnen drie maanden voor de aanvang van de huurovereenkomst werd afgeleverd, geldt als vermoeden van de naleving van de verplichting, vermeld in het tweede lid.<br>
 <br>
 § 2. Een huurovereenkomst die wordt gesloten voor een goed dat niet voldoet aan de vereisten, vermeld in paragraaf 1, tweede lid, is nietig. De nietigheid moet door de rechter worden vastgesteld.<br>
 <br>
@@ -158,7 +158,7 @@ Er kan van de vereisten, vermeld in artikel 12, § 1, tweede lid, worden afgewek
 <br>
 Zolang het gehuurde goed gebreken vertoont die een veiligheids- of gezondheidsrisico inhouden, mag de huurder het gehuurde goed niet bewonen. De Vlaamse Regering stelt de gebreken vast die een veiligheids- of gezondheidsrisico inhouden en kan regels vastleggen met betrekking tot het bewijs van het herstel van deze gebreken.<br>
 <br>
-Als het gehuurde goed in overeenstemming werd gebracht met de vereisten, vermeld in artikel 12, § 1, tweede lid, vraagt de huurder een conformiteitsattest als vermeld in artikel 7 van de Vlaamse Wooncode.<br>
+Als het gehuurde goed in overeenstemming werd gebracht met de vereisten, vermeld in artikel 12, § 1, tweede lid, vraagt de huurder een conformiteitsattest als vermeld in artikel 3.6 van de Vlaamse Codex Wonen van 2021.<br>
 <br>
 Als tegenprestatie verbindt de verhuurder zich ertoe tijdens een bepaalde periode die meer dan negen jaar kan bedragen, af te zien van het recht om de huurovereenkomst vervroegd op te zeggen of van het recht de herziening van de huurprijs te vragen of verbindt hij zich ertoe de huurprijs te verlagen of kwijt te schelden.<br>
 <br>
@@ -225,7 +225,7 @@ De verhuurder bezorgt de volgende documenten aan de huurder op het moment van de
 1° de hem verleende omgevingsvergunning voor stedenbouwkundige handelingen als deze voor de werkzaamheden vereist is; en<br>
 2° een omstandig bestek of een beschrijving van de werkzaamheden samen met een gedetailleerde kostenraming of een aannemingsovereenkomst.<br>
 <br>
-§ 2. De werken moeten worden aangevat binnen zes maanden en worden beëindigd binnen vierentwintig maanden na het verstrijken van de opzegging door de verhuurder of na de teruggave van het goed door de huurder als de teruggave later plaatsvindt. Na de beëindiging van de werken, vraagt de verhuurder een conformiteitsattest als vermeld in artikel 7 van de Vlaamse Wooncode.<br>
+§ 2. De werken moeten worden aangevat binnen zes maanden en worden beëindigd binnen vierentwintig maanden na het verstrijken van de opzegging door de verhuurder of na de teruggave van het goed door de huurder als de teruggave later plaatsvindt. Na de beëindiging van de werken, vraagt de verhuurder een conformiteitsattest als vermeld in artikel 3.6 van de Vlaamse Codex Wonen van 2021.<br>
 <br>
 Als de verhuurder de werkzaamheden niet binnen de gestelde termijn en voorwaarden uitvoert en geen bewijs van buitengewone omstandigheden kan leveren, heeft de huurder recht op een vergoeding die gelijk is aan achttien maanden huur.<br>
 <br>
@@ -288,7 +288,7 @@ Als de verhuurder binnen de termijn, vermeld in het tweede lid, geen opzegging h
 <br>
 Als de verhuurder de huurovereenkomst bij het verstrijken van de derde driejarige periode of van een volgende driejarige periode beëindigt met toepassing van artikel 19, § 1, is de vergoeding gelijk aan drie maanden huur.<br>
 <br>
-§ 2. Wanneer de huurovereenkomst wordt gesloten tussen enerzijds een private verhuurder en anderzijds een sociaal verhuurkantoor dat overeenkomstig artikel 56 van de Vlaamse Wooncode erkend is als huurdienst of de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30 van de Vlaamse Wooncode, en de huurovereenkomst wordt gesloten voor een duurtijd gelijk aan of langer dan vijftien jaar, kunnen de partijen overeenkomen om de mogelijkheid van vroegtijdige beëindiging, vermeld in artikel 20, § 1, uit te sluiten of te beperken.
+§ 2. Wanneer de huurovereenkomst wordt gesloten tussen enerzijds een private verhuurder en anderzijds een sociaal verhuurkantoor dat overeenkomstig artikel 4.54 van de Vlaamse Codex Wonen van 2021 erkend is als huurdienst of de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 4.7 van de Vlaamse Codex Wonen van 2021, en de huurovereenkomst wordt gesloten voor een duurtijd gelijk aan of langer dan vijftien jaar, kunnen de partijen overeenkomen om de mogelijkheid van vroegtijdige beëindiging, vermeld in artikel 20, § 1, uit te sluiten of te beperken.
 
 ### ART 23.
 
@@ -384,7 +384,7 @@ Onderhuur<br>
 <br>
 § 1. De huurder die een woning in huur genomen heeft die hij tot zijn hoofdverblijfplaats bestemt, mag het goed niet volledig onderverhuren.<br>
 <br>
-In afwijking van het eerste lid kunnen een gemeente, een autonoom gemeentebedrijf, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging als vermeld in deel 3, titel 4, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing is, de sociale ondernemingen voor zover ze erkend zijn volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019 en de sociale woonorganisaties, vermeld in titel V van de Vlaamse Wooncode, het goed aan een of meer natuurlijke personen geheel onderverhuren, als aan al de volgende voorwaarden is voldaan:<br>
+In afwijking van het eerste lid kunnen een gemeente, een autonoom gemeentebedrijf, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging als vermeld in deel 3, titel 4, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing is, de sociale ondernemingen voor zover ze erkend zijn volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019 en de sociale woonorganisaties, vermeld in boek 4, deel 1, van de Vlaamse Codex Wonen van 2021, het goed aan een of meer natuurlijke personen geheel onderverhuren, als aan al de volgende voorwaarden is voldaan:<br>
 1° de voormelde natuurlijke personen zijn minder gegoed of bevinden zich in een behartenswaardige sociale situatie;<br>
 2° de voormelde natuurlijke personen bestemmen het goed uitsluitend tot hun hoofdverblijfplaats;<br>
 3° de verhuurder heeft ingestemd met de mogelijkheid om het goed te dien einde onder te verhuren.<br>
@@ -696,7 +696,7 @@ De rechter wijst de vordering tot aanvaarding van een persoon als huurder alleen
 1° als die persoon niet gedurende ten minste één jaar in het goed zijn hoofdverblijfplaats heeft en met de huurder een duurzame gemeenschappelijke huishouding heeft;<br>
 2° als, mede gelet op wat is vastgesteld over de gemeenschappelijke huishouding en de tijdsduur daarvan, de vordering kennelijk alleen de strekking heeft die persoon op korte termijn de positie van huurder te verschaffen;<br>
 3° als die persoon vanuit financieel oogpunt onvoldoende waarborg biedt voor een behoorlijke nakoming van de huur;<br>
-4° als de bezettingsnorm die vastgesteld is krachtens artikel 5, § 1, derde lid, van de Vlaamse Wooncode, zou worden overschreden.<br>
+4° als de bezettingsnorm die vastgesteld is krachtens artikel 3.1, § 1, vierde lid, van de Vlaamse Codex Wonen van 2021, zou worden overschreden.<br>
 <br>
 § 2. De huurders zijn tegenover de verhuurder hoofdelijk en ondeelbaar gehouden voor de uitvoering van de verplichtingen van de huurovereenkomst, met dien verstande dat een huurder niet gehouden is voor verplichtingen die zijn ontstaan voordat hij huurder werd. De huurders oefenen samen de rechten uit die voortvloeien uit de huurovereenkomst.<br>
 <br>
@@ -709,7 +709,7 @@ Als de verhuurder en de overblijvende huurder of huurders daar niet binnen drie 
 De rechter wijst de vordering tot aanvaarding van een persoon als huurder alleen af:<br>
 1° als die persoon vanuit financieel oogpunt onvoldoende waarborg biedt voor een behoorlijke nakoming van de huur;<br>
 2° als de overblijvende huurder of huurders uitdrukkelijk te kennen geven die persoon niet te kunnen aanvaarden;<br>
-3° als de bezettingsnorm die vastgesteld is krachtens artikel 5, § 1, derde lid, van de Vlaamse Wooncode, zou worden overschreden.<br>
+3° als de bezettingsnorm die vastgesteld is krachtens artikel 3.1, § 1, vierde lid, van de Vlaamse Codex Wonen van 2021, zou worden overschreden.<br>
 <br>
 Na aanvaarding door de verhuurder en de overblijvende huurder of huurders of na een rechterlijke beslissing waarin een nieuwe huurder wordt aanvaard, is de huurder, vermeld in het eerste lid, na het verstrijken van de opzeggingstermijn niet langer gehouden tot het nakomen van de huurdersverplichtingen.<br>
 <br>
