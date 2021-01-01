@@ -764,6 +764,10 @@ In afwijking van het eerste lid wordt artikel 44, § 4 en § 5, van hetzelfde de
 
 Artikel 23 en 24 van het Participatiedecreet van 18 januari 2008, gewijzigd bij het decreet van 21 maart 2014, worden opgeheven.
 
+### ART 58.
+
+Het besluit van de Vlaamse Regering betreffende de uitvoering van het decreet van 7 mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele sector voor wat betreft de erkende of gesubsidieerde organisaties uit het sociaal-culturele volwassenenwerk van 29 april 2011, wordt opgeheven met ingang van 1 januari 2021.
+
 ## HOOFDSTUK 2 Overgangsbepalingen
 
 ### ART 59.
