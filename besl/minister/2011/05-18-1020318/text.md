@@ -8,7 +8,15 @@ De Vlaamse minister van Energie, Wonen, Steden en Sociale Economie, <br />Gelet 
 
 ### ART. 1.
 
-§ 1. Het Vlaamse Gewest lanceert een oproep voor steun aan demonstratieprojecten inzake innovatieve energietechnologieën of (ver)bouwconcepten.<br /><br />§ 2. De steun wordt toegekend aan natuurlijke personen, ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen, binnen de middelen die de minister daartoe in het Energiefonds reserveert.<br /><br />§ 3. Aan elke oproep is een vooraf bepaalde subsidie-enveloppe verbonden.<br /><br />§ 4. De subsidie wordt toegekend volgens een wedstrijdformule. <br /><br />§ 5. De oproep en de evaluatiecriteria worden bekend gemaakt via de website van het Vlaams Energieagentschap.
+§ 1. Het Vlaamse Gewest lanceert een oproep voor steun aan demonstratieprojecten inzake innovatieve energietechnologieën of (ver)bouwconcepten.<br>
+<br>
+§ 2. De steun wordt toegekend aan natuurlijke personen, ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen, binnen de middelen die de minister daartoe in het Energiefonds reserveert.<br>
+<br>
+§ 3. Aan elke oproep is een vooraf bepaalde subsidie-enveloppe verbonden.<br>
+<br>
+§ 4. De subsidie wordt toegekend volgens een wedstrijdformule.<br>
+<br>
+§ 5. De oproep en de evaluatiecriteria worden bekend gemaakt via de website van het VEKA.
 
 ### ART. 2.
 
@@ -20,11 +28,28 @@ Als subsidiabele kosten worden beschouwd de investeringskosten, exclusief btw, i
 
 ### ART. 4.
 
-§ 1. De subsidieaanvraag wordt ingediend aan de hand van een op de website van het Vlaams Energieagentschap ter beschikking gesteld formulier.<br /><br />§ 2. Het Vlaams Energieagentschap onderzoekt of het in de aanvraag vervatte project : <br />1° in het Vlaams Gewest een voorbeeldfunctie kan vervullen op het vlak van innovatie en reproduceerbaarheid, die in verhouding staat tot de gevraagde subsidie. Projecten die zo specifiek zijn dat ze geen navolging kunnen vinden, komen niet in aanmerking voor ondersteuning.<br />2° gepaard gaat met een energiebesparing en voldoende commercialisering- en rendabiliteitsvooruitzichten biedt. De terugverdientijd bedraagt ten minste 5 jaar. Voor projectvoorstellen met een technologische focus bedraagt de terugverdientijd ten hoogste 12 jaar. <br />Voor projectvoorstellen met de focus op een zeer ingrijpende verbetering van energieprestaties van gebouwen bedraagt de terugverdientijd maximaal 30 jaar.<br /><br />De terugverdientijd wordt gedefinieerd als zijnde de verhouding tussen de meerkost en de energiebesparing (uitgedrukt in euro) van de nieuwe technologie of de innovatieve bouwconcepten in vergelijking met een klassieke installatie of de traditionele bouwconcepten die hetzelfde doel beogen.<br /><br />§ 3. Het Vlaams Energieagentschap kan in het kader van haar onderzoek van de in § 2 vermelde elementen bijkomende informatie bij de projectindiener opvragen. De projectindiener bezorgt, op straffe van verval van het recht tot subsidiering, het Vlaams Energieagentschap de gevraagde informatie binnen een door het agentschap gestelde termijn. De aanvraag wordt pas als volledig beschouwd nadat alle informatie is ontvangen.
+§ 1. De subsidieaanvraag wordt ingediend aan de hand van een op de website van het VEKA ter beschikking gesteld formulier.<br>
+<br>
+§ 2. Het&nbsp;VEKA onderzoekt of het in de aanvraag vervatte project :<br>
+1° in het Vlaams Gewest een voorbeeldfunctie kan vervullen op het vlak van innovatie en reproduceerbaarheid, die in verhouding staat tot de gevraagde subsidie. Projecten die zo specifiek zijn dat ze geen navolging kunnen vinden, komen niet in aanmerking voor ondersteuning.<br>
+2° gepaard gaat met een energiebesparing en voldoende commercialisering- en rendabiliteitsvooruitzichten biedt. De terugverdientijd bedraagt ten minste 5 jaar. Voor projectvoorstellen met een technologische focus bedraagt de terugverdientijd ten hoogste 12 jaar.<br>
+Voor projectvoorstellen met de focus op een zeer ingrijpende verbetering van energieprestaties van gebouwen bedraagt de terugverdientijd maximaal 30 jaar.<br>
+<br>
+De terugverdientijd wordt gedefinieerd als zijnde de verhouding tussen de meerkost en de energiebesparing (uitgedrukt in euro) van de nieuwe technologie of de innovatieve bouwconcepten in vergelijking met een klassieke installatie of de traditionele bouwconcepten die hetzelfde doel beogen.<br>
+<br>
+§ 3. Het&nbsp;VEKA kan in het kader van haar onderzoek van de in § 2 vermelde elementen bijkomende informatie bij de projectindiener opvragen. De projectindiener bezorgt, op straffe van verval van het recht tot subsidiering, het&nbsp; VEKA de gevraagde informatie binnen een door het agentschap gestelde termijn. De aanvraag wordt pas als volledig beschouwd nadat alle informatie is ontvangen.
 
 ### ART. 5.
 
-§ 1. De subsidieaanvraag is ontvankelijk als die voldoet aan de voorwaarden vermeld in artikel 4, § 2.<br /><br />§ 2. De subsidie-enveloppe wordt verdeeld over de best gerangschikte ontvankelijke subsidieaanvragen, in afnemende volgorde tot de subsidie-enveloppe is opgebruikt.<br /><br />§ 3. Het Vlaams Energieagentschap doet een gemotiveerd voorstel tot subsidiering aan de minister, bevoegd voor het energiebeleid, binnen de 60 dagen na de einddatum van de oproep. <br /><br />§ 4. De minister, bevoegd voor het energiebeleid, beslist, binnen de 60 dagen na ontvangst van het gemotiveerd voorstel van het Vlaams Energieagentschap over de al dan niet subsidiering.<br /><br />§ 5. De projectaanvrager wordt binnen de 30 dagen na de beslissing van de minister, bevoegd voor het energiebeleid, hiervan op de hoogte gesteld.
+§ 1. De subsidieaanvraag is ontvankelijk als die voldoet aan de voorwaarden vermeld in artikel 4, § 2.<br>
+<br>
+§ 2. De subsidie-enveloppe wordt verdeeld over de best gerangschikte ontvankelijke subsidieaanvragen, in afnemende volgorde tot de subsidie-enveloppe is opgebruikt.<br>
+<br>
+§ 3. Het VEKA doet een gemotiveerd voorstel tot subsidiering aan de minister, bevoegd voor het energiebeleid, binnen de 60 dagen na de einddatum van de oproep.<br>
+<br>
+§ 4. De minister, bevoegd voor het energiebeleid, beslist, binnen de 60 dagen na ontvangst van het gemotiveerd voorstel van het VEKA over de al dan niet subsidiering.<br>
+<br>
+§ 5. De projectaanvrager wordt binnen de 30 dagen na de beslissing van de minister, bevoegd voor het energiebeleid, hiervan op de hoogte gesteld.
 
 ### ART. 6.
 
@@ -34,7 +59,11 @@ De subsidie wordt toegekend bij besluit van de minister, bevoegd voor het energi
 
 ### ART. 7.
 
-§ 1. Er zal per gesubsidieerd demonstratieproject door het Vlaams Energieagentschap een begeleidingscommissie worden opgericht die de uitvoering van het project opvolgt. <br /><br />§ 2. De begeleidingscommissie bepaalt de modaliteiten met betrekking tot de monitoring van het project. De monitoring loopt gedurende minstens 1 jaar en dient te worden uitgevoerd volgens de richtlijnen van de begeleidingscommissie.<br /><br />§ 3. De begunstigde verbindt er zich toe de nodige informatie voor de technische en economische evaluatie te bezorgen aan deze begeleidingscommissie en zijn volle medewerking te verlenen aan metingen die dienen uitgevoerd te worden om disseminatie van de resultaten mogelijk te maken.<br />
+§ 1. Er zal per gesubsidieerd demonstratieproject door het VEKA een begeleidingscommissie worden opgericht die de uitvoering van het project opvolgt.<br>
+<br>
+§ 2. De begeleidingscommissie bepaalt de modaliteiten met betrekking tot de monitoring van het project. De monitoring loopt gedurende minstens 1 jaar en dient te worden uitgevoerd volgens de richtlijnen van de begeleidingscommissie.<br>
+<br>
+§ 3. De begunstigde verbindt er zich toe de nodige informatie voor de technische en economische evaluatie te bezorgen aan deze begeleidingscommissie en zijn volle medewerking te verlenen aan metingen die dienen uitgevoerd te worden om disseminatie van de resultaten mogelijk te maken.
 
 ### ART. 8.
 
@@ -42,11 +71,21 @@ De uitbetaling van de subsidie gebeurt in twee schijven na ontvangst van een sch
 
 ### ART. 9.
 
-§ 1. Indien de begunstigde het project wil wijzigen, kan hij dit enkel doen indien hij eerst een met redenen omklede aanvraag heeft ingediend en de toestemming van het Vlaams Energieagentschap heeft gekregen.<br /><br />Indien de begunstigde zonder de toestemming van het Vlaams Energieagentschap toch wijzigingen doorvoert, dan zal het Vlaams Energieagentschap de betaling van de voorschotten, vermeld in artikel 8 stopzetten.<br /><br />§ 2. De begunstigde onderwerpt zich aan iedere controle door het Vlaams Energieagentschap met betrekking tot alle onderdelen van het programma.
+§ 1. Indien de begunstigde het project wil wijzigen, kan hij dit enkel doen indien hij eerst een met redenen omklede aanvraag heeft ingediend en de toestemming van het VEKA heeft gekregen.<br>
+<br>
+Indien de begunstigde zonder de toestemming van het VEKA toch wijzigingen doorvoert, dan zal het&nbsp;VEKA de betaling van de voorschotten, vermeld in artikel 8 stopzetten.<br>
+<br>
+§ 2. De begunstigde onderwerpt zich aan iedere controle door het VEKA met betrekking tot alle onderdelen van het programma.
 
 ### ART. 10.
 
-§ 1. Het Vlaams Energieagentschap kan de uitbetaling van de subsidie stopzetten en/of terugbetaling eisen als en in de mate dat : <br />1° het project niet voldoet aan alle wettelijke bepalingen;<br />2° één of meerdere bepalingen van dit besluit of het subsidiebesluit niet werden nageleefd;<br />3° de subsidie niet wordt aangewend voor de doeleinden waarvoor ze is verleend;<br />4° de begunstigde de controle verhindert of belemmert.<br /><br />§ 2. Wanneer het Vlaams Energieagentschap haar betalingen aan de begunstigde stopzet, zal zij haar gemotiveerde beslissing bij aangetekende brief de begunstigde ter kennis brengen. Tegen deze beslissing kan door de begunstigde bij aangetekende brief binnen de dertig dagen bij de minister, bevoegd voor het energiebeleid, een gemotiveerd bezwaarschrift worden ingediend. De minister, bevoegd voor het energiebeleid, beslist over het bezwaar binnen een termijn van drie maanden na ontvangst van het bezwaarschrift.
+§ 1. Het VEKA&nbsp;kan de uitbetaling van de subsidie stopzetten en/of terugbetaling eisen als en in de mate dat :<br>
+1° het project niet voldoet aan alle wettelijke bepalingen;<br>
+2° één of meerdere bepalingen van dit besluit of het subsidiebesluit niet werden nageleefd;<br>
+3° de subsidie niet wordt aangewend voor de doeleinden waarvoor ze is verleend;<br>
+4° de begunstigde de controle verhindert of belemmert.<br>
+<br>
+§ 2. Wanneer het VEKA haar betalingen aan de begunstigde stopzet, zal zij haar gemotiveerde beslissing bij aangetekende brief de begunstigde ter kennis brengen. Tegen deze beslissing kan door de begunstigde bij aangetekende brief binnen de dertig dagen bij de minister, bevoegd voor het energiebeleid, een gemotiveerd bezwaarschrift worden ingediend. De minister, bevoegd voor het energiebeleid, beslist over het bezwaar binnen een termijn van drie maanden na ontvangst van het bezwaarschrift.
 
 ## HOOFDSTUK III. Slotbepalingen
 

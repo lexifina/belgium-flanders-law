@@ -2,16 +2,16 @@
   "codex_id": 1020318,
   "title": "Ministerieel besluit van 2011-05-18 tot bepaling van de nadere voorwaarden voor het bekomen van steun voor demonstratieprojecten inzake rationeel energieverbruik die een nieuwe verwezenlijking in het Vlaamse Gewest betekenen en commercialisering- en rendabiliteitsvooruitzichten bieden",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020318/VolledigDocument?datum=2011-06-26",
-  "source_sha256": "4990dbe3dff75538f897a41d5d94a3f7abcd04f28a0e8211866efc17c5b01f5c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020318/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "0898b0e680a4867d5c18de9c0e820d72355c9a0e413a78c1352b1abe2d13faf1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020318&param=informatie",
-  "as_of": "2011-06-26",
+  "as_of": "2021-01-01",
   "made": "2011-05-18",
   "gazette": "2011-06-16",
   "numac": 2011202941,
   "document_start": "2011-06-26",
   "document_end": null,
-  "in_force": "2011-06-26",
+  "in_force": "2021-01-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2011-06-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
