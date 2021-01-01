@@ -8,6 +8,10 @@
 
 ## HOOFDSTUK 4. Wijzigingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991
 
+### ART 41.
+
+In artikel 17 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 16 juni 2017, wordt paragraaf 2 opgeheven.
+
 ## HOOFDSTUK 5. Wijzigingen van het decreet tot oprichting van onderhandelingscomités in het vrij gesubsidieerd onderwijs van 5 april 1995
 
 ## HOOFDSTUK 6. Wijzigingen van het decreet basisonderwijs van 25 februari 1997
@@ -25,6 +29,10 @@ a) een leerling die beschikt over een jeugdhulpverleningsbeslissing als vermeld 
 1) een gemandateerde voorziening als vermeld in artikel 33 en 42 van het voormelde decreet;<br>
 2) een sociale dienst van de jeugdrechtbank met toepassing van artikel 80 van het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp;<br>
 b) een niet-begeleide minderjarige vreemdeling voor wie de voorwaarden, vermeld in de Programmawet (I) van 24 december 2002, titel XIII, hoofdstuk VI, afdeling 3, artikel 5, vervuld zijn;";
+
+### ART 91.
+
+In artikel 73, § 1, van hetzelfde decreet, gewijzigd bij de decreten van 13 juli 2001 en 10 juli 2003, wordt punt 6° opgeheven.
 
 ### ART 98.
 
@@ -60,6 +68,14 @@ In het vijfde lid wordt verstaan onder Gemeenschappelijk Europees Referentiekade
 
 ## HOOFDSTUK 11. Wijzigingen van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs
 
+### ART 125.
+
+In artikel 88, § 1, van hetzelfde decreet, gewijzigd bij de decreten van 16 juni 2017 en 7 juli 2017, wordt punt d) opgeheven.
+
+### ART 130.
+
+In artikel 106, § 1, 1°, van hetzelfde decreet, ingevoegd bij het decreet van 8 mei 2009, wordt punt d) opgeheven.
+
 ## HOOFDSTUK 12. Wijzigingen van het decreet van 14 december 2007 houdende de organisatie en werking van de regionale technologische centra
 
 ### ART 133.
@@ -80,6 +96,10 @@ In artikel 20, derde lid, van hetzelfde decreet wordt de zinsnede ", de regering
 
 ## HOOFDSTUK 14. Wijziging van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap
 
+### ART 136.
+
+In artikel 10, § 1, tweede lid, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, wordt punt 11° opgeheven.
+
 ## HOOFDSTUK 15. Wijzigingen van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs
 
 ## HOOFDSTUK 16. Wijzigingen van de Codex Secundair Onderwijs van 17 december 2010
@@ -97,6 +117,14 @@ a) een leerling die beschikt over een jeugdhulpverleningsbeslissing als vermeld 
 1) een gemandateerde voorziening als vermeld in artikel 33 en 42 van het voormelde decreet;<br>
 2) een sociale dienst van de jeugdrechtbank met toepassing van artikel 80 van het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp;<br>
 b) een niet-begeleide minderjarige vreemdeling voor wie de voorwaarden, vermeld in de Programmawet (I) van 24 december 2002, titel XIII, hoofdstuk VI, afdeling 3, artikel 5, vervuld zijn;".
+
+### ART 148.
+
+In artikel 15, § 1, van dezelfde codex, het laatst gewijzigd bij het decreet van 27 april 2018, wordt punt 10° opgeheven.
+
+### ART 149.
+
+In artikel 18, § 1, van dezelfde codex, wordt punt 4° opgeheven.
 
 ## HOOFDSTUK 17. Wijzigingen van de Codex Hoger Onderwijs van 11 oktober 2013
 
@@ -124,6 +152,10 @@ In artikel IV.83, § 4, van dezelfde codex, gewijzigd bij het decreet van 16 jun
 <br>
 "Voor de universiteiten wordt de goedkeuring, vermeld in het eerste lid, beschouwd als verworven als de bevoegde regeringscommissaris in de analyse van de jaarrekening, rekening houdend met alle relevante informatie, een gunstig advies uitbrengt.".
 
+### ART 229.
+
+In artikel V.106 van dezelfde codex, gewijzigd bij het decreet van 16 juni 2017, wordt punt 6° opgeheven.
+
 ## HOOFDSTUK 18. Wijzigingen van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016
 
 ### ART 233.
@@ -132,9 +164,29 @@ In de de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, 
 <br>
 "Art. III.2/1. De overheveling van een internaat naar een andere inrichtende macht heeft ten aanzien van het Vlaams Ministerie van Onderwijs en Vorming uitwerking op 1 september.".
 
+### ART 234.
+
+In artikel III.4, § 2, van dezelfde codificatie, gewijzigd bij het decreet van 16 juni 2017, wordt punt 7° opgeheven.
+
+### ART 239.
+
+In artikel V.45 van dezelfde codificatie, wordt punt 4° opgeheven.
+
 ## HOOFDSTUK 19. Wijzigingen van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie
 
+### ART 243.
+
+In artikel 27 van het decreet betreffende de rechtspositie van de personeelsleden in de basiseducatie wordt punt 2° opgeheven.
+
+### ART 244.
+
+In artikel 49 van hetzelfde decreet wordt punt 2° opgeheven.
+
 ## HOOFDSTUK 20. Wijzigingen van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs
+
+### ART 248.
+
+In artikel 66 van hetzelfde decreet wordt punt 6° opgeheven.
 
 ### ART 249.
 
@@ -149,5 +201,9 @@ Aan artikel 126 van hetzelfde decreet, gewijzigd bij het decreet van 3 juli 2020
 " § 3. De rationalisatienormen, vermeld in paragraaf 1 en 2, zijn niet van toepassing op academies voor deeltijds kunstonderwijs waarvan de hoofdvestigingsplaats gevestigd is in de gemeente Voeren.".
 
 ## HOOFDSTUK 21. Wijziging van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding
+
+### ART 262.
+
+In artikel 24, 1°, van hetzelfde decreet wordt punt d) opgeheven.
 
 ## HOOFDSTUK 22. Inwerkingtreding en toepassingsgebied in de tijd
