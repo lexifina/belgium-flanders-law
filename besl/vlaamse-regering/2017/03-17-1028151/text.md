@@ -183,8 +183,8 @@ Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die 
 ### ART 20/1.
 
 Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die geen openbaar bestuur is, ontvangt een subsidie voor de lonen van de kinderbegeleiders van het initiatief voor buitenschoolse opvang. De subsidie bedraagt:<br>
-1° 113,23 euro per equivalentvolle opvangplaats voor de eerste 21 equivalentvolle opvangplaatsen;<br>
-2° 74,30 euro per equivalentvolle opvangplaats vanaf de 22ste equivalentvolle opvangplaats.
+1° 175,81 euro per equivalentvolle opvangplaats voor de eerste 21 equivalentvolle opvangplaatsen;<br>
+2° 115,38 euro per equivalentvolle opvangplaats vanaf de 22ste equivalentvolle opvangplaats.
 
 ## Afdeling 3 Projecten FCUD
 
@@ -224,7 +224,7 @@ Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD
 
 ### ART 24/2.
 
-Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD krijgt, die geen openbaar bestuur is, ontvangt van het agentschap Opgroeien regie een subsidie voor de lonen van de FCUD kinderbegeleiders in die buitenschoolse opvang. De subsidie bedraagt 3.302,41 euro per voltijds equivalent.
+Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD krijgt, die geen openbaar bestuur is, ontvangt van het agentschap Opgroeien regie een subsidie voor de lonen van de FCUD kinderbegeleiders in die buitenschoolse opvang. De subsidie bedraagt 5.127,83 euro per voltijds equivalent.
 
 ## Afdeling 4 Buitenschoolse opvang in een afzonderlijke binnenruimte
 
@@ -294,8 +294,8 @@ Een organisator met een subsidie voor flexibele opvangpool, die een openbaar bes
 
 ### ART 37.
 
-&nbsp;Een organisator met een subsidie voor een project gesco ontvangt van het agentschap een subsidie tot uitvoering van het Vlaams Intersectoraal Akkoord. De subsidie bedraagt :<br>
-1° voor een organisator die geen openbaar bestuur is, 4164,00 euro per voltijdsequivalent weerwerkgesco;<br>
+Een organisator met een subsidie voor een project gesco ontvangt van het agentschap een subsidie tot uitvoering van het Vlaams Intersectoraal Akkoord. De subsidie bedraagt :<br>
+1° voor een organisator die geen openbaar bestuur is, 5.373,28 euro per voltijdsequivalent weerwerkgesco;<br>
 2° voor een organisator die een openbaar bestuur is, 1371,93 euro per voltijdsequivalent weerwerkgesco.<br>
 <br>
 In het eerste lid wordt verstaan onder subsidie voor een project gesco: een subsidie voor een project gesco als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 15 juli 2016 betreffende subsidiëring van projecten vanuit het vroegere Fonds voor Collectieve Uitrustingen en Diensten en voor personeelsleden met een gewezen gescostatuut.
