@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035768,
+  "title": "Besluit van de Vlaamse Regering van 2021-05-28 tot overdracht van een personeelslid van het Departement Welzijn, Volksgezondheid en Gezin naar het agentschap Opgroeien ingevolge de verschuiving van de decretale opdracht `participatie van de cliënt in de jeugdhulp'",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035768/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "e239143685902df0bfd6daea56baf4cd5cd48e27ff40efc7225ee76746359623",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035768&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2021-05-28",
+  "gazette": "2021-07-01",
+  "numac": 2021042288,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
