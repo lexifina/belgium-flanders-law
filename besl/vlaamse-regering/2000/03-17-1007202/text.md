@@ -6,7 +6,32 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° het decr
 
 ### ART. 2.
 
-Binnen de perken van de hiertoe op de begroting voorziene kredieten kan de minister jaarlijks subsidies toekennen aan koepelverenigingen die voldoen aan de in het decreet en in dit besluit gestelde voorwaarden.<br /><br />Indien binnen eenzelfde onderwijsniveau verscheidene koepelverenigingen aan de subsidiëringsvoorwaarden voldoen, worden de op de begroting beschikbare middelen over de koepelverenigingen verdeeld in verhouding tot het aantal raden dat elk ervan overkoepelt.
+Binnen de perken van de hiertoe op de begroting voorziene kredieten kan de minister jaarlijks subsidies toekennen aan studentenkoepelverenigingen die voldoen aan de in het decreet en in dit besluit gestelde voorwaarden.<br>
+<br>
+Indien verscheidene studentenkoepelverenigingen aan de subsidiëringsvoorwaarden voldoen, worden de op de begroting beschikbare middelen over de studentenkoepelverenigingen verdeeld in verhouding tot het aantal raden dat elk ervan overkoepelt.<br>
+<br>
+De studentenkoepelvereniging moet een aanvraag indienen, zoals bepaald in artikel 3 tot en met 6.
+
+### ART 2/1.
+
+§ 1. Binnen de perken van de hiertoe op de begroting voorziene kredieten kan de minister voor een periode van één of meerdere jaren subsidies toekennen aan leerlingenkoepelverenigingen die voldoen aan de in het decreet en in dit besluit gestelde voorwaarden.<br>
+<br>
+In het geval de minister een subsidie voor meer dan één jaar aan een leerlingenkoepelvereniging toekent, wordt de subsidie jaarlijks geëvalueerd en jaarlijks uitbetaald zoals bepaald in artikel 7 en gelden de bepalingen zoals geformuleerd in paragraaf 2.<br>
+<br>
+Indien binnen eenzelfde onderwijsniveau verscheidene leerlingenkoepelverenigingen in aanmerking komen voor een subsidie, worden de op de begroting beschikbare middelen over de leerlingenkoepelverenigingen verdeeld in verhouding tot het aantal raden dat elk ervan overkoepelt.<br>
+<br>
+§ 2. De Vlaamse Regering sluit een beheersovereenkomst met de leerlingenkoepelvereniging af voor de betreffende subsidieperiode. Deze beheersovereenkomst bevat ten minste:<br>
+1° de doelstellingen;<br>
+2° de planning, rapportering en opvolging van de werkzaamheden;<br>
+3° de aanwending van de subsidie.<br>
+<br>
+De leerlingenkoepelvereniging moet geen aanvraag indienen, zoals bepaald in artikel 3 tot en met 6.<br>
+<br>
+De leerlingenkoepelvereniging maakt een planning die bestaat uit een werkingsprogramma voor de betreffende subsidieperiode met overeenstemmende begroting, en jaarlijks een actieplan met concrete acties en een overeenstemmende begroting. Het werkingsprogramma voor de betreffende periode is maximaal afgestemd op de doelstellingen uit de beheersovereenkomst.<br>
+<br>
+De jaarlijkse rapportering over de realisatie van de doelstellingen en acties gebeurt aan de hand van een inhoudelijk verslag en een financieel verslag.<br>
+<br>
+Een opvolgingsgroep opgericht door het Departement Onderwijs en Vorming van het Vlaams Ministerie van Onderwijs en Vorming staat in voor de periodieke opvolging van de werking van de leerlingenkoepelvereniging.
 
 ### ART. 3.
 
@@ -26,7 +51,9 @@ De administratie gaat na of de aanvrager aan alle decretale voorwaarden voldoet 
 
 ### ART. 7.
 
-[De subsidie wordt jaarlijks als volgt uitbetaald: drie voorschotten en een saldo. Elk voorschot kan ten hoogste 30 % bedragen van de totale financiering. De aanvragen tot uitbetaling van de voorschotten worden om de drie maand gericht aan het ministerie van de Vlaamse Gemeenschap. Het eerste voorschot wordt uitbetaald na betekening van het subsidiebesluit. Het saldo wordt uitbetaald na de neerlegging van het jaarverslag en mits staving en voorlegging van alle bewijsstukken betreffende de gemaakte kosten.  <span class="reference">(verv. B.V.R. 17 november 2000, art. 1, I: 1 oktober 2000)</span> ]<br /><br />Tevens wordt een boekhouding voorgelegd van het voorbije werkjaar waarbij de kosten opgedeeld worden per soort zoals omschreven in artikel 9 van het decreet.
+De jaarlijkse subsidie wordt uitbetaald in twee schijven:<br>
+1° 80 % na de goedkeuring van de planning van de werkzaamheden en de begroting voor het betreffende werkingsjaar;<br>
+2° 20 % na de goedkeuring van de rapportering van de werkzaamheden en het financieel verslag betreffende het werkingsjaar.
 
 ### ART. 8.
 
