@@ -2,16 +2,16 @@
   "codex_id": 1021169,
   "title": "Besluit van de Vlaamse Regering van 2011-12-02 houdende de subsidiëring van sociale huisvestingsmaatschappijen voor uitgaven met betrekking tot rationeel energiegebruik en groene warmte",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021169/VolledigDocument?datum=2020-10-24",
-  "source_sha256": "9c416ecc0f1fd4224213137ebc3827041eb810494c04f40bed13516c0be98c8c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021169/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "5ab2ccd7cc2c13a654b2e5cef72b673b66fe0ccf6b3f71df1d6b15fedd112fb5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021169&param=informatie",
-  "as_of": "2020-10-24",
+  "as_of": "2021-01-01",
   "made": "2011-12-02",
   "gazette": "2012-01-13",
   "numac": 2011036035,
   "document_start": "2011-11-01",
   "document_end": "2020-12-31",
-  "in_force": "2020-10-24",
+  "in_force": "2021-01-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2020-10-24; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
