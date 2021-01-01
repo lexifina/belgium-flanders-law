@@ -23,6 +23,11 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## Hoofdstuk 2. Wijzigingen van het besluit van de Vlaamse regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap
 
+### ART 5.
+
+In artikel 12, § 1, eerste lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 20 november 2020, wordt punt 1°, vervangen door wat volgt:<br>
+“1° een arbeidsovereenkomst tussen de budgethouder en de persoonlijke assistent, waarbij de budgethouder als werkgever voldoet aan de fiscale en sociaal-rechterlijke verplichtingen In de voormelde verplichtingen zijn de bepalingen over het minimumloon en de bepalingen over de eindejaarspremie zoals vastgesteld binnen het paritair comité 337, en de bepalingen over verplaatsingen, zoals vastgesteld binnen het paritair sub comité 319.01, inbegrepen.”.
+
 ## Hoofdstuk 3. Wijzigingen van het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap
 
 ### ART 7.
@@ -36,6 +41,22 @@ In artikel 12 van hetzelfde besluit, vervangen bij het besluit van 25 mei 2018 e
 “In afwijking van het vijfde lid, 2°, kunnen de personen met een handicap, vermeld in het vijfde lid, 1°, bij wie het agentschap met toepassing van het besluit van de Vlaamse Regering van 16 september 2022 over een experiment voor de gedeeltelijke terbeschikkingstelling van budgetten voor niet-rechtstreeks toegankelijke zorg en ondersteuning aan personen met een handicap in prioriteitengroep twee, een beslissing heeft genomen over de gedeeltelijke terbeschikkingstelling van een budget dat is toegewezen na afhandeling van een aanvraag van een budget of een aanvraag tot herziening als vermeld in het vijfde lid, 2°, conform het zesde en het zevende lid rechtstreeks toegankelijke hulp combineren met een budget.”.
 
 ## Hoofdstuk 4. Wijzigingen van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget
+
+### ART 9.
+
+In artikel 37/0, §2, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 maart 2021, wordt tussen de woorden “van het toegewezen budget” en de woorden “De beslissing” de zin “Om de budgetcategorie vast te stellen, wordt de waarde 5 voor de parameter begeleiding, vermeld in het multidisciplinaire verslag, omgezet in de waarde 6 en wordt de waarde 6 omgezet in de waarde 8.” ingevoegd.
+
+### ART 11.
+
+In de bijlage bij het hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 5 maart 2021, worden in tabel 3 de volgende wijzigingen aangebracht:<br>
+1° in de eerste kolom wordt de rij<br>
+“B4/P1 – B4/P2 – B3/P3 – B2/P4 – B2/P5 – B5/P1”<br>
+vervangen door de rij<br>
+“B4/P1 - B4/P2 - B3/P3 - B2/P4 - B2/P5 - B5/P1 - B6/P1”;<br>
+2° in de eerste kolom wordt de rij<br>
+“B3/P5 – B5/P3 – B7/P1 – B2/P6 – B6/P1 - B2/P7”<br>
+vervangen door de rij<br>
+“B3/P5 -B5/P3 - B7/P1 - B2/P6 - B2/P7”.&nbsp;
 
 ## Hoofdstuk 5. Wijzigingen van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering
 
