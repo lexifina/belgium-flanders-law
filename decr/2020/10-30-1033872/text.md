@@ -155,6 +155,25 @@ In titel VIII, hoofdstuk I, van hetzelfde decreet wordt een artikel 8.1.2 ingevo
 4° de resultaten van een energieaudit;<br>
 5° de resultaten van een andere relevante, transparante en proportionele methode die de verbetering in energieprestatie aantoont.".
 
+### ART 25.
+
+Aan artikel 8.2.2 van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij het decreet van 3 juli 2015, worden volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, 1°, worden tussen het woord "leningen" en de woorden "aan eindafnemers" de woorden "aan nieuwe eigenaars of" ingevoegd;<br>
+2° in paragraaf 1 wordt tussen het tweede en derde lid een nieuw lid ingevoegd, dat luidt als volgt:<br>
+"De Vlaamse Regering kan voorwaarden koppelen aan het verkrijgen van een lening, zoals de opmaak van een energieprestatiecertificaat of het behalen van een minimaal energieprestatieniveau.".
+
+### ART 26.
+
+Aan titel VIII, hoofdstuk II, van hetzelfde decreet wordt een artikel 8.2.3 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 8.2.3. § 1. De Vlaamse Regering kan een steunprogramma opstellen ter ondersteuning van de energetische renovatie van niet-energiezuinige woningen of wooneenheden met tegemoetkomingen ten voordele van nieuwe eigenaars van die woningen of wooneenheden.<br>
+<br>
+Deze tegemoetkoming kan de vorm aannemen van een rentesubsidie.<br>
+<br>
+De Vlaamse Regering kan de procedure voor aanvraag en toekenning bepalen.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de minimale voorwaarden waartegen de rentesubsidie wordt toegekend. Tussen de Vlaamse Regering en de kredietgevers wordt een samenwerkingsprotocol gesloten.".
+
 ### ART 27.
 
 In artikel 8.3.1/1, § 1, van hetzelfde decreet, ingevoegd bij het decreet van 17 februari 2017 en gewijzigd bij het decreet van 16 december 2018, worden tussen het eerste en tweede lid twee leden ingevoegd, die luiden als volgt:<br>
@@ -273,6 +292,14 @@ In artikel 13.1.2 van hetzelfde decreet, het laatst gewijzigd bij het decreet va
 1° in paragraaf 1 worden tussen het woord "marktpartij" en de zinsnede ", warmte- of koudeneteigenaar" de woorden "of de ondernemingen waarin de netbeheerders of de werkmaatschappij rechtstreeks of onrechtstreeks participeren" ingevoegd;<br>
 2° in paragraaf 2, tweede lid, wordt tussen de woorden "iedere marktpartij" en de zinsnede ", warmte- of koudeneteigenaar" de woorden "of de ondernemingen waarin de netbeheerders of de werkmaatschappij rechtstreeks of onrechtstreeks participeren" ingevoegd;<br>
 3° in paragraaf 3, eerste lid, wordt tussen de woorden "De marktpartij" en de zinsnede ", warmte- of koudeneteigenaar" de woorden "of de ondernemingen waarin de netbeheerders of de werkmaatschappij rechtstreeks of onrechtstreeks participeren" ingevoegd.
+
+### ART 40.
+
+Artikel 13.1.3 van hetzelfde decreet, gewijzigd bij het decreet van 24 februari 2017, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 13.1.3. De personeelsleden van het Vlaams Energieagentschap zijn bevoegd voor de controle op de naleving van de voorwaarden en de verplichtingen die opgelegd zijn op basis van artikelen 7.6.1, 7.6.2, 7.7.1 en 7.7.2 en titel VIII van dit decreet en de uitvoeringsbesluiten ervan en voor het opleggen van de administratieve geldboetes.<br>
+<br>
+De personeelsleden van het Vlaams Energieagentschap kunnen daartoe aan de betrokkenen alle gegevens en inlichtingen vragen die nodig zijn voor de uitoefening van hun taken. De betrokkene aan wie een vraag is gericht om gegevens en inlichtingen te verstrekken, moet binnen de door de bevoegde personeelsleden bepaalde redelijke termijn alle medewerking verlenen.".
 
 ### ART 41.
 
