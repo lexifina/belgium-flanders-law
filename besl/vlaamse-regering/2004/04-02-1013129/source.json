@@ -2,16 +2,16 @@
   "codex_id": 1013129,
   "title": "Besluit van de Vlaamse Regering van 2004-04-02 [houdende de voorwaarden waaronder kredietmaatschappijen erkend kunnen worden en ter bepaling van de kredietinstellingen erkend door de Vlaamse Regering, ter uitvoering van artikel 78 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013129/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "c6e010280fa3fb2df8c436f6a3baf9af03b159e474596635c2261b4e445bcb33",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013129/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "8fd766531848a04fc10467d795eb110649333b2e858ee235bd073f04982fd269",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013129&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2021-01-01",
   "made": "2004-04-02",
   "gazette": "2004-06-24",
   "numac": 2004035970,
   "document_start": null,
   "document_end": "2020-12-31",
-  "in_force": "2017-04-01",
+  "in_force": "2021-01-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
