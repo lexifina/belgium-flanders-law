@@ -2,16 +2,16 @@
   "codex_id": 1016823,
   "title": "Ministerieel besluit van 2008-06-06 tot vastlegging van de nadere regels voor de aanvraag en de toekenning van premies voor het uitvoeren van energiebesparende investeringen in woongebouwen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016823/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "945113ba08177249a046aaa424c82f63b8f598a855a82564faa311c8a314add9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016823/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "3f687c2cdbfc8d23e6dc302c1208c3bfbddbebd0343c176939899a9978febcf6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016823&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2021-01-01",
   "made": "2008-06-06",
   "gazette": "2008-06-11",
   "numac": 2008035629,
   "document_start": "2008-06-21",
   "document_end": "2020-12-31",
-  "in_force": "2011-01-01",
+  "in_force": "2021-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
