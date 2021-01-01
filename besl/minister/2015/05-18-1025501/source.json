@@ -2,16 +2,16 @@
   "codex_id": 1025501,
   "title": "Ministerieel besluit van 2015-05-18 houdende vaststelling van de sjabloon en de toelichting van het emissieverslag, de sjabloon en de toelichting van het rapport tonkilometergegevens en de sjabloon en de toelichting van het verificatierapport voor vliegtuigexploitanten voor de periode 2013-2020",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025501/VolledigDocument?datum=2015-06-28",
-  "source_sha256": "9621daf315c1e68edec3f7bf9144bf3e3a370d587ea496558c2d30f4fd0a0bf0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025501/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "ebf747f40ca419a8f781579205b095431ac725eeda85e804fdd4b110080411fd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025501&param=informatie",
-  "as_of": "2015-06-28",
+  "as_of": "2021-01-01",
   "made": "2015-05-18",
   "gazette": "2015-06-18",
   "numac": 2015035737,
   "document_start": "2015-06-28",
   "document_end": null,
-  "in_force": "2015-06-28",
+  "in_force": "2021-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2015-06-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
