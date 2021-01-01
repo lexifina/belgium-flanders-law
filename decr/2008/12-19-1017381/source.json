@@ -2,16 +2,16 @@
   "codex_id": 1017381,
   "title": "Decreet van 2008-12-19 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017381/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "cbc72346b7a3ed63beb7bf1acbec9d3857f1c6edc1560838f182071a269a9c45",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017381/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "bae1d4b9293cdf3e2a1a2b4bd67314e6c11204cf9803b19c09f8308d18ba48ce",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017381&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2021-01-01",
   "made": "2008-12-19",
   "gazette": "2008-12-24",
   "numac": 2008036450,
   "document_start": "3000-01-01",
   "document_end": "2018-12-31",
-  "in_force": "2020-01-01",
+  "in_force": "2021-01-01",
   "article_versions": 295,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
