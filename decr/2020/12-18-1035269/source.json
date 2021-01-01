@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035269,
+  "title": "Decreet van 2020-12-18 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2021",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035269/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "226fe8be1070e85a1cddd588dd61718a00c41d66294251e643598d9fec029a2e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035269&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2020-12-18",
+  "gazette": "2021-03-05",
+  "numac": 2021020220,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 124,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
