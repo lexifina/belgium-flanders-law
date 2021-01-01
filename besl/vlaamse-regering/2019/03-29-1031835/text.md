@@ -170,6 +170,18 @@ In artikel 5, tweede lid, en artikel 9, tweede lid, van het besluit van de Vlaam
 
 ## HOOFDSTUK 2. [... (opgeh. BVR 30 oktober 2020, art. 7, I: 1 januari 2021)]
 
+### ART 20.
+
+...
+
+### ART 21.
+
+...
+
+### ART 22.
+
+...
+
 ## HOOFDSTUK 3. Slotbepalingen
 
 ### ART 23.
