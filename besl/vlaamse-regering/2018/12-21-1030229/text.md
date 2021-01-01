@@ -24,7 +24,7 @@ Besluit :
 
 ### ART 1.
 
-Het besluit van de Vlaamse Regering van 27 januari 1988 houdende sommige maatregelen tot harmonisatie van de toelagen en presentiegelden aan commissarissen, gemachtigden van financiën, afgevaardigden van de Vlaamse Regering, voorzitters en leden van niet-adviserende bijzondere commissies of van raden van bestuur van instellingen en ondernemingen die onder de Vlaamse Regering behoren, is van toepassing op de regeringsafgevaardigden die op grond van artikel 55 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode door de Vlaamse Regering aangewezen zijn bij de cvba Vlaams Woningfonds.<br>
+Het besluit van de Vlaamse Regering van 27 januari 1988 houdende sommige maatregelen tot harmonisatie van de toelagen en presentiegelden aan commissarissen, gemachtigden van financiën, afgevaardigden van de Vlaamse Regering, voorzitters en leden van niet-adviserende bijzondere commissies of van raden van bestuur van instellingen en ondernemingen die onder de Vlaamse Regering behoren, is van toepassing op de regeringsafgevaardigden die op grond van artikel 4.67 van de Vlaamse Codex Wonen van 2021 door de Vlaamse Regering aangewezen zijn bij de cvba Vlaams Woningfonds.<br>
 <br>
 Voor de toepassing van het eerste lid wordt de cvba Vlaams Woningfonds beschouwd als een instelling van categorie III als vermeld in artikel 3, § 1, c), van het voormelde besluit.
 
