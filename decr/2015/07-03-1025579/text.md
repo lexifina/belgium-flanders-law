@@ -234,7 +234,7 @@ Artikel   14.1.2 van hetzelfde decreet wordt vervangen door wat volgt :<BR   sty
 
 <p>§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.<br>
 <br>
-§ 6. Om de verkeersveiligheid te bevorderen, kan de Vlaamse Regering, binnen de perken van de begrotingskredieten, een subsidie verlenen aan de gemeenten voor projecten die de aanleg of de verbetering van de infrastructuur aan schoolomgevingen tot doel hebben, andere dan deze bedoeld in artikel 26/10 en artikel 26/12 van het decreet van 20 maart 2009 betreffende het mobiliteitsbeleid.<br>
+§ 6. Om de verkeersveiligheid te bevorderen, kan de Vlaamse Regering, binnen de perken van de begrotingskredieten, een subsidie verlenen aan de gemeenten voor projecten die de aanleg of de verbetering van de infrastructuur aan schoolomgevingen langs gemeente- of gewestwegen of van schoolroutes langs gemeentewegen tot doel hebben, andere dan deze bedoeld in artikel 29 van het decreet van 26 april 2019 betreffende de basisbereikbaarheid.<br>
 <br>
 Enkel de uitvoering van de in de projectdossiers beschreven maatregelen en acties komen in aanmerking voor een subsidie. De voorbereidende werkzaamheden, zoals de opmaak van het projectdossier en eventuele bijkomende studies, onderzoeken of analyses komen niet in aanmerking voor een subsidie.<br>
 <br>
