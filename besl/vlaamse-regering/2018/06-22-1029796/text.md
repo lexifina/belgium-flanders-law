@@ -679,162 +679,251 @@ In het derde lid wordt verstaan onder Zorginspectie: Zorginspectie als vermeld i
 
 ### BIJLAGE
 
-<span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;"><span style="color: rgb(0, 0, 0);">Bijlage 2. Zorggroepen</span><br>
+<span style="font-size:12px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="color:#000000">Zorggroepen</span><br>
 <br>
-<span style="color: rgb(0, 0, 0);">De gebruikers worden ingedeeld in zorggroepen conform de volgende tabel en op basis van de volgende criteria:</span><br>
-<span style="color: rgb(0, 0, 0);">1° het type ondersteuning dat ze genieten, uitgedrukt in de parameters begeleidingsintensiteit (B-waarden), permanentie (P-waarden), vastgesteld met het zorgzwaarte-instrument, vermeld in artikel 1, 24°, van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget, of, bij gebreke aan die vaststelling, vastgesteld conform artikel 15 en 16 van het besluit van de Vlaamse Regering van 24 juni 2016 houdende de transitie van personen met een handicap die gebruikmaken van een persoonlijke-assistentiebudget of een persoonsgebonden budget of die ondersteund worden door een flexibel aanbodcentrum voor meerderjarigen of een thuisbegeleidingsdienst, naar persoonsvolgende financiering en houdende de transitie van de flexibele aanbodcentra voor meerderjarigen en de thuisbegeleidingsdiensten;</span><br>
-<span style="color: rgb(0, 0, 0);">2° de rolstoelafhankelijkheid in huis, vastgesteld op de manier die de minister bepaalt;</span><br>
-<span style="color: rgb(0, 0, 0);">3° ernstige gedragsstoornissen, vastgesteld op de manier die de minister bepaalt, waarbij gebruikers die aan die schaal voldoen, worden ingedeeld in zorggroep 1;</span><br>
-<span style="color: rgb(0, 0, 0);">4° de persoon met een handicap waarvan de parameters begeleidingsintensiteit (B-waarden) en permanentie (P-waarden) nog niet werden vastgesteld, worden verondersteld een gebruiker te zijn die behoort tot zorggroep 2 als voor de capaciteitseenheid woonondersteuning wordt geboden, of een gebruiker die behoort tot zorggroep 5 als voor de capaciteitseenheid alleen dagondersteuning wordt geboden.&nbsp;</span></span></span>
-<table style="width: 700px; -webkit-text-stroke-width: 0px;" border="1">
+<span style="color:#000000">De gebruikers worden ingedeeld in zorggroepen conform tabel 1 en op basis van de volgende criteria:</span><br>
+<span style="color:#000000">1° het type ondersteuning dat ze genieten, uitgedrukt in de parameters begeleidingsintensiteit (B-waarden), permanentie (P-waarden), vastgesteld met het zorgzwaarte-instrument, vermeld in artikel 1, 24°, van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget, of, bij gebreke aan die vaststelling, vastgesteld conform artikel 15 en 16 van het besluit van de Vlaamse Regering van 24 juni 2016 houdende de transitie van personen met een handicap die gebruikmaken van een persoonlijke-assistentiebudget of een persoonsgebonden budget of die ondersteund worden door een flexibel aanbodcentrum voor meerderjarigen of een thuisbegeleidingsdienst, naar persoonsvolgende financiering en houdende de transitie van de flexibele aanbodcentra voor meerderjarigen en de thuisbegeleidingsdiensten;</span><br>
+<span style="color:#000000">1° /1 als de parameters begeleidingsintensiteit of permanentie, vermeld in punt 1°, door een nieuwe beslissing van toewijzing van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning gewijzigd worden, gelden de nieuwe parameters begeleidingsintensiteit of permanentie voor de indeling in zorggroepen vanaf de datum van de nieuwe beslissing van toewijzing van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning;<br>
+1° /2: indien de parameters begeleidingsintensiteit of permanentie, vermeld in punt 1°, werden bepaald aan de hand de methodiek met B-waarden 1 tot en met 6, worden de B-waarden omgezet naar nieuwe B-waarden volgens de tabel 2, die bij deze bijlage is gevoegd;<br>
+2° de rolstoelafhankelijkheid in huis, vastgesteld op de manier die de minister bepaalt;</span><br>
+<span style="color:#000000">3° ernstige gedragsstoornissen, vastgesteld op de manier die de minister bepaalt, waarbij gebruikers die aan die schaal voldoen, worden ingedeeld in zorggroep 1;</span><br>
+<span style="color:#000000">4° de persoon met een handicap waarvan de parameters begeleidingsintensiteit (B-waarden) en permanentie (P-waarden) nog niet werden vastgesteld, worden verondersteld een gebruiker te zijn die behoort tot zorggroep 2 als voor de capaciteitseenheid woonondersteuning wordt geboden, of een gebruiker die behoort tot zorggroep 5 als voor de capaciteitseenheid alleen dagondersteuning wordt geboden.&nbsp;<br>
+5° de gebruiker die verblijft in een erkende unit voor geïnterneerden als vermeld in artikel 10 van het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden, wordt verondersteld een gebruiker te zijn die behoort tot zorggroep 1, tenzij met toepassing van punt 1° of 1/1° de parameters begeleidingsintensiteit of permanentie bepaald zijn;<br>
+6° de gebruiker van wie de zorgaanbieder een individuele dienstverleningsovereenkomst heeft geregistreerd overeenkomstig artikel 9, derde lid van het besluit van de Vlaamse Regering van 14 december 2018 over de zorg en ondersteuning voor geïnterneerde personen met een handicap door vergunde zorgaanbieders, wordt, tenzij met toepassing van punt 1° of 1/1° de parameters begeleidingsintensiteit of permanentie bepaald zijn, verondersteld te behoren tot de volgende zorggroepen in de volgende gevallen:<br>
+a) zorggroep 1 als de module dag- en woonondersteuning +, vermeld in de bijlage bij het voormeld besluit, toegekend en verstrekt wordt;<br>
+b) zorggroep 2 als de module dag- en woonondersteuning, vermeld in de bijlage bij het voormeld besluit, toegekend en verstrekt wordt;<br>
+c) zorggroep 2 als de module woonondersteuning, vermeld in de bijlage bij het voormeld besluit, toegekend en verstrekt wordt;<br>
+d) zorggroep 4 als de module dagondersteuning, vermeld in de bijlage bij het voormeld besluit, toegekend en verstrekt wordt;<br>
+7° de gebruiker van wie met toepassing van artikel 6, § 2, tweede lid, van het besluit van de Vlaamse Regering van 28 september 2018 over de zorg en ondersteuning voor personen met een niet-aangeboren hersenletsel of tetraplegie ten gevolge van een hoge dwarslaesie met de hoogste zorg- en ondersteuningsnood, zeven dagen op zeven dag- en woonondersteuning gesubsidieerd wordt, wordt verondersteld een gebruiker te zijn die behoort tot zorggroep 2, tenzij met toepassing van punt 1° of 1/1° de parameters begeleidingsintensiteit of permanentie bepaald zijn.</span></span></span><br>
+<br>
+Tabel 1
+<table border="1">
 	<tbody>
 		<tr>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">woon- en dagondersteuning</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">P1</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">P2</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">P3</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">P4</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">P5</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">P6</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">P7&nbsp;</span></span></td>
+			<td>woon- en dagondersteuning</td>
+			<td>P1</td>
+			<td>P2</td>
+			<td>P3</td>
+			<td>P4</td>
+			<td>P5</td>
+			<td>P6</td>
+			<td>P7</td>
 		</tr>
 		<tr>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">B1</span></span></td>
+			<td>B1</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">3</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2&nbsp;</span></span></td>
+			<td>3</td>
+			<td>1 of 2</td>
+			<td>1 of 2</td>
 		</tr>
 		<tr>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">B2</span></span></td>
+			<td>B2</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">3</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2&nbsp;</span></span></td>
+			<td>3</td>
+			<td>1 of 2</td>
+			<td>1 of 2</td>
 		</tr>
 		<tr>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">B3</span></span></td>
+			<td>B3</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">3</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">3</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">3</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2&nbsp;</span></span></td>
+			<td>3</td>
+			<td>3</td>
+			<td>3</td>
+			<td>1 of 2</td>
+			<td>1 of 2</td>
 		</tr>
 		<tr>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">B4</span></span></td>
+			<td>B4</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">3</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">3</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">3</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2&nbsp;</span></span></td>
+			<td>3</td>
+			<td>3</td>
+			<td>3</td>
+			<td>1 of 2</td>
+			<td>1 of 2</td>
 		</tr>
 		<tr>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">B5</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">3</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">3</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">3</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">3</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2&nbsp;</span></span></td>
+			<td>B5</td>
+			<td>3</td>
+			<td>3</td>
+			<td>3</td>
+			<td>3</td>
+			<td>3</td>
+			<td>1 of 2</td>
+			<td>1 of 2</td>
 		</tr>
 		<tr>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">B6</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2&nbsp;</span></span></td>
+			<td>B6</td>
+			<td>3</td>
+			<td>3</td>
+			<td>3</td>
+			<td>3</td>
+			<td>1 of 2</td>
+			<td>1 of 2</td>
+			<td>1 of 2</td>
 		</tr>
 		<tr>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">Rolstoelafhankelijk in huis</span></span></td>
-			<td colspan="7"><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">1 of 2&nbsp;</span></span></td>
+			<td>B7</td>
+			<td>3</td>
+			<td>3</td>
+			<td>3</td>
+			<td>3</td>
+			<td>1 of 2</td>
+			<td>1 of 2</td>
+			<td>1 of 2</td>
 		</tr>
 		<tr>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">alleen dagondersteuning</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">P1</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">P2</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">P3</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">P4</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">P5</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">P6</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">P7&nbsp;</span></span></td>
+			<td>B8</td>
+			<td>1 of 2</td>
+			<td>1 of 2</td>
+			<td>1 of 2</td>
+			<td>1 of 2</td>
+			<td>1 of 2</td>
+			<td>1 of 2</td>
+			<td>1 of 2</td>
 		</tr>
 		<tr>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">B1</span></span></td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">5</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4&nbsp;</span></span></td>
+			<td>rolstoelafhankelijk in huis</td>
+			<td colspan="7">1 of 2</td>
 		</tr>
 		<tr>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">B2</span></span></td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">5</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4&nbsp;</span></span></td>
+			<td>alleen dagondersteuning</td>
+			<td>P1</td>
+			<td>P2</td>
+			<td>P3</td>
+			<td>P4</td>
+			<td>P5</td>
+			<td>P6</td>
+			<td>P7</td>
 		</tr>
 		<tr>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">B3</span></span></td>
+			<td>B1</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">5</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">5</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">5</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4&nbsp;</span></span></td>
-		</tr>
-		<tr>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">B4</span></span></td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">5</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">5</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">5</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4&nbsp;</span></span></td>
+			<td>5</td>
+			<td>4</td>
+			<td>4</td>
 		</tr>
 		<tr>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">B5</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">5</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">5</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">5</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">5</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4&nbsp;</span></span></td>
+			<td>B2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>5</td>
+			<td>4</td>
+			<td>4</td>
 		</tr>
 		<tr>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">B6</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4</span></span></td>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4&nbsp;</span></span></td>
+			<td>B3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>5</td>
+			<td>5</td>
+			<td>5</td>
+			<td>4</td>
+			<td>4</td>
 		</tr>
 		<tr>
-			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">rolstoelafhankelijk in huis</span></span></td>
-			<td colspan="7"><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">4</span></span></td>
+			<td>B4</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>5</td>
+			<td>5</td>
+			<td>5</td>
+			<td>4</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>B5</td>
+			<td>5</td>
+			<td>5</td>
+			<td>5</td>
+			<td>5</td>
+			<td>5</td>
+			<td>4</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>B6</td>
+			<td>5</td>
+			<td>5</td>
+			<td>5</td>
+			<td>5</td>
+			<td>4</td>
+			<td>4</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>B7</td>
+			<td>5</td>
+			<td>5</td>
+			<td>5</td>
+			<td>5</td>
+			<td>4</td>
+			<td>4</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>B8</td>
+			<td>4</td>
+			<td>4</td>
+			<td>4</td>
+			<td>4</td>
+			<td>4</td>
+			<td>4</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>rolstoelafhankelijk in huis</td>
+			<td colspan="7" style="text-align:center">4</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 2
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Oude B-Waarde</td>
+			<td>Nieuwe B-Waarde</td>
+		</tr>
+		<tr>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>8</td>
 		</tr>
 	</tbody>
 </table>
