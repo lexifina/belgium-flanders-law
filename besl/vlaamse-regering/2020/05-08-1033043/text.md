@@ -499,7 +499,7 @@ In deze afdeling wordt verstaan onder besluit van 17 juni 2016: het besluit van 
 
 ### ART 68.
 
-Als de geplande upgrade of installatie in 2020 van een NMR, vermeld in artikel 2 van het besluit van 17 juni 2016, door de uitbraak van COVID-19 niet kon plaatsvinden in 2020, kan de forfaitaire subsidie van 129.302,16 euro worden toegekend vanaf 2021 voor die uitgestelde upgrade of installatie die in 2021 plaatsvindt.
+Als de geplande upgrade of installatie in 2020 van een NMR, vermeld in artikel 2 van het besluit van 17 juni 2016, door de uitbraak van COVID-19 niet kon plaatsvinden in 2020, kan de forfaitaire subsidie van 114.188,92 euro worden toegekend vanaf 2021 voor die uitgestelde upgrade of installatie die in 2021 plaatsvindt.
 
 ### ART 69.
 
