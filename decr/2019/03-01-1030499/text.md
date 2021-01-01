@@ -334,7 +334,7 @@ Vanaf het ogenblik dat hij een belofte van subsidiëring ontvangt, moet elke beg
 <br>
 De organisatie stuurt voor elk jaar waarin de projectsubsidie wordt toegekend een financieel en inhoudelijk verslag naar de administratie.<br>
 <br>
-Alleen kosten die gemaakt zijn in de looptijd van het project komen in aanmerking. Als de nettokosten, dat zijn de aangetoonde kosten, verminderd met de inkomsten die voortvloeien uit de realisatie van het project of product, minder bedragen dan de ontvangen subsidie, wordt het verschil teruggevorderd.<br>
+Alleen kosten die gemaakt zijn in de looptijd van het project komen in aanmerking.<br>
 <br>
 De Vlaamse Regering kan de nadere regels bepalen met betrekking tot de vorm, de termijnen en de wijze van indienen van het financieel en inhoudelijk verslag.<br>
 <br>
@@ -368,6 +368,10 @@ De Vlaamse Regering kan de procedures voor de beoordeling van de dossiers nader 
 De Vlaamse Regering kan de nadere regels bepalen voor het toezicht op de subsidie en de monitoring en evaluatie van de gesubsidieerde organisaties.
 
 ## HOOFDSTUK 9. Slotbepalingen
+
+### ART 26.
+
+Het Circusdecreet van 21 november 2008, gewijzigd bij het decreet van 20 december 2013, wordt opgeheven.
 
 ### ART 27.
 
