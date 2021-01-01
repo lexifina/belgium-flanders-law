@@ -34,7 +34,8 @@ In dit besluit wordt verstaan onder:<br>
 11° het uitvoeren van opdrachten voor de Europese Commissie, waaronder het beheer van de EFRO-fondsen;<br>
 12° Het Agentschap voert de promotie en draagt bij tot het belang van design en productontwikkeling;<br>
 13° het administratieve en inhoudelijke en financiële beheer en de opvolging van initiatieven en opdrachten, opgedragen door de Vlaamse Regering;<br>
-14° het uitvoeren van taken van beleidsondersteuning.<br>
+14° het uitvoeren van taken van beleidsondersteuning;<br>
+15° het stimuleren van de ondernemersvorming.<br>
 16° het bepalen van de manier en de nadere inhoud van de toegang van de burger tot de gegevens over de rechtspersonen en natuurlijke personen in hun hoedanigheid van ondernemer in overleg met de betrokken overheidsinstanties en externe overheden als vermeld in artikel II.7, achtste lid, van het Bestuursdecreet van 7 december 2018. De toegang is beperkt tot de gegevens die op de burger zelf, in zijn hoedanigheid van ondernemer, betrekking hebben.<br>
 <br>
 § 2. Het Agentschap beschikt over een eigen inspectiedienst die toeziet op de correcte aanwending van de financiële stimuli en belast is met de controle en het toezicht op en voorstelling van minnelijke schikking inzake alle bevoegdheden toegewezen aan het Agentschap Innoveren en Ondernemen;<br>
