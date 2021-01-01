@@ -1684,7 +1684,7 @@ In deze paragraaf wordt verstaan onder vergoedingen, wedden en presentiegelden d
 2° lid van een provincieraad of als lid van een bestuursorgaan van een provinciaal extern verzelfstandigd agentschap of een filiaal ervan;<br>
 3° mandataris van een openbaar centrum voor maatschappelijk welzijn, als lid van een bestuursorgaan van een gemeentelijk extern verzelfstandigd agentschap of een filiaal ervan;<br>
 4° lid van een bestuursorgaan van een intergemeentelijk samenwerkingsverband als vermeld in deel 3, titel 3, van dit decreet;<br>
-5° lid van een bestuursorgaan van een sociale huisvestingsmaatschappij als vermeld in het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
+5° lid van een bestuursorgaan van een sociale huisvestingsmaatschappij als vermeld in de Vlaamse Codex Wonen van 2021;<br>
 6° lid van een bestuursorgaan van een rechtspersoon als vermeld in artikel 386 van dit decreet;<br>
 7° lid van een bestuursorgaan van een rechtspersoon als vermeld in artikel 188 van het Provinciedecreet van 9 december 2005;<br>
 8° lid van een bestuursorgaan of adviesorgaan van een publiekrechtelijke of privaatrechtelijke rechtspersoon waarin een dienstverlenende of opdrachthoudende vereniging rechtstreeks of onrechtstreeks deelneemt, overeenkomstig artikel 472, eerste lid, van dit decreet;<br>
@@ -2723,6 +2723,14 @@ Nadat de rekeningen van de boekhouding, vermeld in artikel 253, in overeenstemmi
 De jaarrekening bestaat uit een beleidsevaluatie, een financiële nota en een toelichting.<br>
 <br>
 De jaarrekening wordt vastgesteld voor 30 juni van het boekjaar dat volgt op het boekjaar waarop de rekening betrekking heeft.
+
+### ART 261.
+
+De beleidsevaluatie van de jaarrekening geeft het beleid weer dat de gemeente en het openbaar centrum voor maatschappelijk welzijn gedurende het boekjaar hebben gevoerd en evalueert de beleidsdoelstellingen en de mate waarin ze zijn bereikt.<br>
+<br>
+De financiële nota van de jaarrekening geeft de financiële gevolgen van het gevoerde beleid weer.<br>
+<br>
+De toelichting van de jaarrekening bevat alle informatie over de verrichtingen in het ontwerp van jaarrekening die relevant is voor de raadsleden om met kennis van zaken een beslissing te kunnen nemen. Ze bevat minstens informatie over de schulden en de financiële risico's.
 
 ## Afdeling 6. Bijzondere bepaling over het bestuurlijk toezicht op de jaarrekening
 
