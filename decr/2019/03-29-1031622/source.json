@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031622,
+  "title": "Decreet van 2019-03-29 tot wijziging van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, het decreet van 15 juli 1997 houdende de Vlaamse Wooncode en de Vlaamse Codex Fiscaliteit van 13 december 2013",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031622/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "57bc72c57538dd80711c8bd63da78eb5164ddc07963a7ede6e8e1cae5d9d9c38",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031622&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2019-03-29",
+  "gazette": "2019-04-29",
+  "numac": 2019011985,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 39,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
