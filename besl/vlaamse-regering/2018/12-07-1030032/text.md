@@ -469,7 +469,7 @@ Het bezwaar wordt behandeld met inachtneming van de regels die zijn vastgesteld 
 
 ### ART 43.
 
-Een evaluerende arts die besluit zijn activiteiten in uitvoering van dit besluit stop te zetten, meldt dat zo snel mogelijk elektronisch aan het agentschap Opgroeien regie. Het agentschap Opgroeien regie zet de erkenning stop vanaf de opgegeven stopzettingsdatum.
+Een evaluerend arts die besluit zijn activiteiten in uitvoering van dit besluit stop te zetten, meldt dat zo snel mogelijk elektronisch aan het agentschap Opgroeien regie. Het agentschap Opgroeien regie zet de erkenning stop vanaf de opgegeven stopzettingsdatum.
 
 ## HOOFDSTUK 5. Pleegzorgtoeslag
 
