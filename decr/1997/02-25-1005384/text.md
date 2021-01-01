@@ -1830,7 +1830,15 @@ Een schoolbestuur dat werken, leveringen of diensten aanneemt die geheel of gede
 
 ### ART. 73.
 
-§ 1. Een schoolbestuur bekomt voor zijn personeelsleden die tot de   categorieën bestuurs- en onder-wijzend, beleids- en ondersteunend,&nbsp;medisch,   paramedisch, psycho-logisch, orthopedagogisch of sociaal personeel behoren een   salaris indien die personeelsleden voldoen aan de volgende voorwaarden:<BR>1°   onderdaan zijn van een lidstaat van de Europese Unie of van de Europese   Vrijhandelsassociatie, behoudens door de Vlaamse regering te verlenen   vrijstelling;&nbsp;<BR> 2° de burgerlijke en politieke rechten genieten,   behoudens een door de Vlaamse regering te verlenen vrijstelling die samengaat   met de vrijstelling bedoeld in 1°; <BR>3° houder zijn van de   bekwaamheidsbewijzen zoals bedoeld in artikel 74;<BR>4° aangeworven zijn met   inachtname van de reglementering inzake de reaffectatie en   wedertewerkstelling;<BR>5° in dienst zijn op grond van de reglementering inzake   de personeelsformatie;<BR>6° in een gezondheidstoestand verkeren die de   gezondheid van de leerlingen niet in gevaar brengt.<BR><BR>§ 2. De salarissen   worden door Agodi rechtstreeks en maandelijks aan de betrokken personeelsleden   uitbetaald.
+§ 1. Een schoolbestuur bekomt voor zijn personeelsleden die tot de categorieën bestuurs- en onder-wijzend, beleids- en ondersteunend,&nbsp;medisch, paramedisch, psycho-logisch, orthopedagogisch of sociaal personeel behoren een salaris indien die personeelsleden voldoen aan de volgende voorwaarden:<br>
+1° onderdaan zijn van een lidstaat van de Europese Unie of van de Europese Vrijhandelsassociatie, behoudens door de Vlaamse regering te verlenen vrijstelling;&nbsp;<br>
+2° de burgerlijke en politieke rechten genieten, behoudens een door de Vlaamse regering te verlenen vrijstelling die samengaat met de vrijstelling bedoeld in 1°;<br>
+3° houder zijn van de bekwaamheidsbewijzen zoals bedoeld in artikel 74;<br>
+4° aangeworven zijn met inachtname van de reglementering inzake de reaffectatie en wedertewerkstelling;<br>
+5° in dienst zijn op grond van de reglementering inzake de personeelsformatie;<br>
+6° ...<br>
+<br>
+§ 2. De salarissen worden door Agodi rechtstreeks en maandelijks aan de betrokken personeelsleden uitbetaald.
 
 ### ART. 74.
 
@@ -1874,8 +1882,6 @@ f) het schoolbestuur organiseert buitengewoon lager onderwijs van type 4, hierna
 g) ...;<br>
 h) het schoolbestuur organiseert, conform artikel 24, § 1, tweede lid, van de gecoördineerde Grondwet, neutraal onderwijs, hierna voorafname 1 (V1) te noemen;<br>
 i) het schoolbestuur biedt, conform artikel 24, § 1, vierde lid, van de gecoördineerde grondwet, de keuze aan tussen onderricht in een van de erkende godsdiensten en de niet-confessionele zedenleer, hierna voorafname 2 (V2) te noemen.<br>
-<br>
-In afwijking van het eerste lid, 1°, b), wordt voor het begrotingsjaar 2020 voor de scholen die tellen conform artikel 87, § 1, onder leerlingenkenmerk 2 begrepen, het krijgen van een schooltoelage: er wordt een schooltoelage gegeven aan de leerling, als vermeld in het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap uitbetaald ten gunste van de leerling, hierna leerlingenkenmerk 2 te noemen. Voor de toepassing van dit artikel worden de leerlingen die alleen door ongewettigde afwezigheid of onvoldoende aanwezigheid geen recht op een schooltoelage hadden, ook meegerekend;<br>
 <br>
 § 2. Leerlingenkenmerk 4 wordt als volgt vastgesteld :<br>
 1° in een eerste fase wordt de schoolse vertraging van alle buurten berekend. De berekening van de schoolse vertraging, is gebaseerd op alle leerlingen van het gewoon onderwijs die school hebben gelopen in een onderwijsinstelling, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap. Per buurt wordt het percentage vijftienjarige leerlingen berekend die de afgelopen zes tot tien jaar op vijftienjarige leeftijd twee of meer jaar schoolse vertraging hebben opgelopen. Buurten waarvan de berekening van de schoolse vertraging gebaseerd is op minder dan vijftig vijftienjarigen worden hierna dunbevolkte buurten genoemd;<br>
