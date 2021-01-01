@@ -416,9 +416,15 @@ Het agentschap houdt daarbij rekening met de bepalingen van artikel 80.</p>
 
 ### ART 54/1.
 
-Aan elk CKG wordt, bovenop de subsidie-enveloppe, een bijkomende subsidie toegekend tot uitvoering van het vierde Vlaamse Intersectoraal Akkoord van 2 december 2011 voor de private social- en non-profitsectoren voor de periode 2011 tot 2015 en het vijfde Vlaams Intersectoraal Akkoord van 8 juni 2018 voor de social/non profitsectoren voor de periode 2018-2020.<br>
+Aan het CKG wordt, boven op de subsidie-enveloppe, vermeld in artikel 68, een bijkomende subsidie toegekend tot uitvoering van de volgende akkoorden:<br>
+1° het vierde Vlaams Intersectoraal Akkoord van 2 december 2011 voor de private social- en non-profitsectoren voor de periode 2011 tot 2015;<br>
+2° het vijfde Vlaams Intersectoraal Akkoord van 8 juni 2018 voor de social-/non-profitsectoren voor de periode 2018-2020;<br>
+3° het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social-/non-profitsectoren voor de periode 2021-2025.<br>
 <br>
-Bij de pro-rata verdeling van de beschikbare middelen over de CKG's houdt het agentschap rekening met het aantal voltijdse equivalenten per CKG.
+Bij de pro-rataverdeling van de beschikbare middelen over de CKG's houdt het agentschap rekening met al de volgende parameters:<br>
+1° het aandeel van de typemodules die het CKG aanbiedt;<br>
+2° de verhouding van de subsidie-enveloppes van de CKG's;<br>
+3° het aantal voltijdsequivalenten per CKG.
 
 ### ART. 55.
 
