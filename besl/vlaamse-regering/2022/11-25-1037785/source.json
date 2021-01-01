@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037785,
+  "title": "Besluit van de Vlaamse Regering van 2022-11-25 tot wijziging van verschillende besluiten van de Vlaamse Regering ter uitvoering van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social-/non-profitsectoren voor de periode 2021 - 2025 voor de sector personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037785/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "5b3c9b0fe469c1d12b549f9062e4bdd2cb4bdb9f7f09c76a17c3c4345ddec599",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037785&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2022-11-25",
+  "gazette": "2023-02-02",
+  "numac": 2022034722,
+  "document_start": "2021-03-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
