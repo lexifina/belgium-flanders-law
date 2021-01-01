@@ -107,6 +107,10 @@ In artikel 2.3.4.2.1, § 2, van hetzelfde decreet worden de volgende wijzigingen
 
 In artikel 2.9.4.2.8, § 1, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, wordt de zinsnede "waarvan de verkoopwaarde voor elk van de kavels niet meer bedraagt dan het kadastraal inkomen, vermenigvuldigd met een door de Vlaamse Regering vastgestelde coëfficiënt" vervangen door de zinsnede "waarvan de oppervlakte van elk van de kavels niet meer bedraagt dan vijf hectare,".
 
+### ART 13.
+
+In artikel 2.9.6.0.1, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij het decreet van 23 december 2016, worden punt 6° en punt 7° opgeheven.
+
 ### ART 14.
 
 In artikel 2.9.6.0.2, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij het decreet van 23 december 2016, worden de volgende wijzigingen aangebracht:<br>
