@@ -788,7 +788,7 @@ De subsidie moet worden aangewend voor de uitvoering van de verplichte activitei
 
 ### ART 3.
 
-De bepalingen van hoofdstuk 4 van het besluit van de Vlaamse Regering van 16 november 2018 over het lokaal woonbeleid zijn van toepassing.
+De bepalingen van boek 2, deel 2, van het Besluit Vlaamse Codex Wonen van 2021 zijn van toepassing.
 
 ### ART 4.
 

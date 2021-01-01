@@ -2,16 +2,16 @@
   "codex_id": 1032702,
   "title": "Ministerieel besluit van 2019-12-12 houdende de subsidiëring van intergemeentelijke projecten ter ondersteuning van het lokaal woonbeleid voor de periode 2020-2025",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032702/VolledigDocument?datum=2019-12-12",
-  "source_sha256": "9ac6ff440622bbf3f33af13fe81040257e3f558c89d414d00edac8da6962cf4a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032702/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "d6f27f868f4ac14c6f5a1f62db82e36ccd010ce4b5359ab1c466803c8adc1a2e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032702&param=informatie",
-  "as_of": "2019-12-12",
+  "as_of": "2021-01-01",
   "made": "2019-12-12",
   "gazette": "2020-03-05",
   "numac": 2020040481,
   "document_start": "2019-12-12",
   "document_end": null,
-  "in_force": "2019-12-12",
+  "in_force": "2021-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2019-12-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
