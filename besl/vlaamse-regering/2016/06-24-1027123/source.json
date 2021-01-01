@@ -2,16 +2,16 @@
   "codex_id": 1027123,
   "title": "Besluit van de Vlaamse Regering van 2016-06-24 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027123/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "34966291e0f23dd2d989ba818fd25ffde84f5b14693979e2cb7b299d72a497e4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027123/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "1ec94d00a5b38106fa4bf9cfbf636e99a83ff5a1831916885b5e87cc0f858d8a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027123&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2021-01-01",
   "made": "2016-06-24",
   "gazette": "2016-08-16",
   "numac": 2016036148,
   "document_start": "2016-09-01",
   "document_end": null,
-  "in_force": "2020-01-01",
+  "in_force": "2021-01-01",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }

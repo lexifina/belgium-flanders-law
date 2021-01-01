@@ -49,16 +49,16 @@ De budgethouder kan het budget gebruiken als een voucher, als een cashbudget of 
 
 ### ART 3.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. In dit artikel wordt verstaan onder:</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° organisatiegebonden kosten: organisatiegebonden personeelskosten en organisatiegebonden werkingskosten;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° organisatiegebonden personeelskosten: de personeelskosten die ingezet worden voor het management en het beleid binnen de voorziening, en alle andere personeelsfuncties die niet gelieerd zijn aan de zorg en ondersteuning van de persoon met een handicap maar tot doel hebben de globale werking van de organisatie te faciliteren;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° organisatiegebonden werkingsmiddelen: middelen die niet direct ingezet worden voor de zorg en ondersteuning van de persoon met een handicap, maar die tot doel hebben het functioneren van de organisatie als dusdanig mogelijk te maken.</span><br>
+§ 1. In dit artikel wordt verstaan onder:<br>
+1° organisatiegebonden kosten: organisatiegebonden personeelskosten en organisatiegebonden werkingskosten;<br>
+2° organisatiegebonden personeelskosten: de personeelskosten die ingezet worden voor het management en het beleid binnen de voorziening, en alle andere personeelsfuncties die niet gelieerd zijn aan de zorg en ondersteuning van de persoon met een handicap maar tot doel hebben de globale werking van de organisatie te faciliteren;<br>
+3° organisatiegebonden werkingsmiddelen: middelen die niet direct ingezet worden voor de zorg en ondersteuning van de persoon met een handicap, maar die tot doel hebben het functioneren van de organisatie als dusdanig mogelijk te maken.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. Als een budgethouder kiest voor een cashbudget ontvangt hij van het agentschap daarnaast nog een bedrag van 11,94 % van het gedeelte van het budget dat hij besteedt als een cashbudget voor de vergoeding van beheerskosten.</span><br>
+§ 2. Als een budgethouder kiest voor een cashbudget ontvangt hij van het agentschap daarnaast nog een bedrag van 11,94 % van het gedeelte van het budget dat hij besteedt als een cashbudget voor de vergoeding van beheerskosten.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid stelt het agentschap geen bedrag voor de vergoeding van beheerskosten ter beschikking als de budgethouder het cashbudget inzet bij een zorgaanbieder die vergund is door het agentschap.</span><br>
+In afwijking van het eerste lid stelt het agentschap geen bedrag voor de vergoeding van beheerskosten ter beschikking als de budgethouder het cashbudget inzet bij een zorgaanbieder die vergund is door het agentschap.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 3. Als een budgethouder ervoor kiest om zijn budget volledig of gedeeltelijk te gebruiken als een voucher, heeft de vergunde zorgaanbieder recht op organisatiegebonden personeelspunten.<br>
+§ 3. Als een budgethouder ervoor kiest om zijn budget volledig of gedeeltelijk te gebruiken als een voucher, heeft de vergunde zorgaanbieder recht op organisatiegebonden personeelspunten.<br>
 <br>
 Het agentschap bepaalt voor elke vergunde zorgaanbieder jaarlijks het aantal organisatiegebonden personeelspunten, vermeld in het eerste lid. Het agentschap berekent daarvoor het gemiddelde van het totale aantal zorggebonden punten die de vergunde zorgaanbieder voor de twee voorafgaande kalenderjaren conform artikel 13, tweede lid, heeft geregistreerd bij het agentschap.<br>
 <br>
@@ -67,29 +67,33 @@ Het jaarlijks aantal organisatiegebonden personeelspunten, vermeld in het tweede
 2° voor het jaar 2021: 17,85% van het gemiddelde aantal zorggebonden punten, vermeld in het tweede lid;<br>
 3° vanaf het jaar 2022: 16,18 % van het gemiddelde aantal zorggebonden punten, vermeld in het tweede lid.<br>
 <br>
-Het bedrag per punt bedraagt 864 euro (achthonderdvierenzestig euro).</span><br>
+Het bedrag per punt bedraagt 864 euro (achthonderdvierenzestig euro).<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De vergunde zorgaanbieder mag de organisatiegebonden personeelspunten, vermeld in het tweede en derde lid, omzetten in werkingsmiddelen tegen een bedrag per personeelspunt a rato van de navolgende percentage:<br>
+De vergunde zorgaanbieder mag de organisatiegebonden personeelspunten, vermeld in het tweede en derde lid, omzetten in werkingsmiddelen tegen een bedrag per personeelspunt a rato van de navolgende percentage:<br>
 1° in het kalenderjaar 2020: 55%;<br>
 2° in het kalenderjaar 2021: 60%;<br>
 3° in het kalenderjaar 2020: 65%.<br>
 <br>
 Het bedrag, vermeld in het tweede lid, mag niet aangewend worden voor de aanwerving van personeel of voor de vergoeding van eigen personeelskosten. De besteding van het bedrag mag gespreid worden over meer dan een boekhoudkundig jaar.<br>
 <br>
-Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).</span><br>
+Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 4. Als een budgethouder ervoor kiest om zijn budget volledig of gedeeltelijk als cashbudget te gebruiken bij een vergunde zorgaanbieder, heeft de vergunde zorgaanbieder recht op een vergoeding voor organisatiegebonden kosten.<br>
+§ 4. Als een budgethouder ervoor kiest om zijn budget volledig of gedeeltelijk als cashbudget te gebruiken bij een vergunde zorgaanbieder, heeft de vergunde zorgaanbieder recht op een vergoeding voor organisatiegebonden kosten.<br>
 <br>
 Het agentschap bepaalt voor elke vergunde zorgaanbieder jaarlijks het bedrag van de vergoeding voor de organisatiegebonden kosten, vermeld in het eerste lid. Het agentschap berekent daarvoor het gemiddelde van de totale bedragen van de vergoedingen, vermeld in de overeenkomsten met vergunde zorgaanbieders, die de budgethouders conform artikel 17, § 1, eerste lid, voor de twee voorafgaande kalenderjaren hebben geregistreerd bij het agentschap.<br>
 <br>
 De vergoeding voor organisatiegebonden kosten, vermeld in het tweede lid, bedraagt:<br>
 1° voor het jaar 2020: 19,40% van het gemiddelde bedrag, vermeld in het tweede lid;<br>
 2° voor het jaar 2021: 17,85% van het gemiddelde bedrag, vermeld in het tweede lid;<br>
-3° vanaf het jaar 2022: 16,18 % van het gemiddelde bedrag, vermeld in het tweede lid.</span><br>
+3° vanaf het jaar 2022: 16,18 % van het gemiddelde bedrag, vermeld in het tweede lid.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De vergunde zorgaanbieder mag de vergoeding, vermeld in het eerste lid, omzetten in personeelspunten tegen het bedrag per personeelspunt, vermeld in paragraaf 3, vijfde lid.</span><br>
+De vergoeding voor organisatiegebonden kosten die is bepaald conform het derde lid, 3°, wordt verhoogd met 3,9%.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 5. In afwijking van paragraaf 3, tweede lid, wordt het aantal organisatiegebonden personeelspunten, vermeld in paragraaf 3, eerste lid, voor een zorgaanbieder die conform het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap wordt vergund door het agentschap, voor het kalenderjaar waarin de vergunning wordt verleend, vastgesteld op basis van het totale aantal zorggebonden punten die voor dat kalenderjaar conform artikel 13, tweede lid, van dit besluit, zijn geregistreerd bij het agentschap. De vergoeding voor organisatiegebonden kosten wordt in afwijking van paragraaf 4, tweede lid, vastgesteld op basis van het totale bedrag van de vergoedingen, vermeld in de overeenkomsten met vergunde zorgaanbieders, die de budgethouders voor dat kalenderjaar conform artikel 17, § 1, eerste lid, van dit besluit hebben geregistreerd bij het agentschap.<br>
+De vergunde zorgaanbieder mag de vergoeding, vermeld in het eerste lid, omzetten in personeelspunten tegen het bedrag per personeelspunt, vermeld in paragraaf 3, vijfde lid.<br>
+<br>
+De vergunde zorgaanbieder ontvangt van het agentschap jaarlijks voor de bedragen van de vergoedingen, vermeld in de overeenkomsten met vergunde zorgaanbieders, die de budgethouders dat jaar conform artikel 17, §1, eerste lid, hebben geregistreerd bij het agentschap, een vergoeding van 3,9% op het totaal van de voormelde bedragen.<br>
+<br>
+§ 5. In afwijking van paragraaf 3, tweede lid, wordt het aantal organisatiegebonden personeelspunten, vermeld in paragraaf 3, eerste lid, voor een zorgaanbieder die conform het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap wordt vergund door het agentschap, voor het kalenderjaar waarin de vergunning wordt verleend, vastgesteld op basis van het totale aantal zorggebonden punten die voor dat kalenderjaar conform artikel 13, tweede lid, van dit besluit, zijn geregistreerd bij het agentschap. De vergoeding voor organisatiegebonden kosten wordt in afwijking van paragraaf 4, tweede lid, vastgesteld op basis van het totale bedrag van de vergoedingen, vermeld in de overeenkomsten met vergunde zorgaanbieders, die de budgethouders voor dat kalenderjaar conform artikel 17, § 1, eerste lid, van dit besluit hebben geregistreerd bij het agentschap.<br>
 <br>
 Voor het kalenderjaar dat volgt op het kalenderjaar waarin de vergunning is verleend, worden de organisatiegebonden personeelspunten, vermeld in paragraaf 3, eerste lid, berekend op basis van het gemiddelde van het totale aantal zorggebonden punten die conform artikel 13, tweede lid, zijn geregistreerd bij het agentschap voor het kalenderjaar waarin de vergunning is verleend en voor het kalenderjaar dat volgt op het kalenderjaar waarin de vergunning is verleend.<br>
 <br>
@@ -109,7 +113,7 @@ Als het maximum, vermeld in het eerste en tweede lid, overschreden wordt, wordt 
 <br>
 Als de vergunde zorgaanbieder niet verder wordt gesubsidieerd, wordt het gecumuleerde bedrag van de reserves aan het agentschap teruggestort.<br>
 <br>
-In afwijking van het vijfde lid hoeven de reserves die aangelegd zijn voor het sociaal passief, na expliciete goedkeuring door het agentschap, niet aan het agentschap te worden teruggestort.</span><br>
+In afwijking van het vijfde lid hoeven de reserves die aangelegd zijn voor het sociaal passief, na expliciete goedkeuring door het agentschap, niet aan het agentschap te worden teruggestort.<br>
 &nbsp;
 
 ## HOOFDSTUK 2 Besteding van het budget
