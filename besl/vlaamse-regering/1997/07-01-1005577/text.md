@@ -120,7 +120,14 @@ Als er aan de verwaarlozing of leegstand van een bedrijfsruimte een einde komt, 
 
 ### ART. 20.
 
-De aanvraag voor de belofte van subsidie voor de verwerving van   bedrijfsruimten wordt ingediend door de openbare centra voor maatschappelijk   welzijn, gemeenten, verenigingen van gemeenten, de erkende sociale   huisvestingsmaatschappijen, vermeld in het decreet van 15 juli 1997 houdende de   Vlaamse Wooncode, de erkende Provinciale Ontwikkelingsmaatschappijen of het   Vlaams Woningfonds voor de Grote Gezinnen. De aanvraag dient de volgende   documenten te bevatten:<BR>1° een kopie van het registratie-attest waaruit   blijkt dat de bedrijfsruimte in de Inventaris is geregistreerd;<BR>2° een   situering en verantwoording van de beoogde verwerving en van de   herbestemming;<BR>3° een raming van de kostprijs van de beoogde verwerving,   bepaald op basis van het schattingsverslag opgesteld door het Comité tot Aankoop   of door de bevoegde Ontvanger der Registratie;<BR>4° een uittreksel uit de   notulen van het beheersorgaan van de initiatiefnemer, waaruit blijkt dat   besloten is tot:<BR>a) de verwerving van de bedrijfsruimten en de uitvoering van   sanerings- en, herbestemmingswerkzaamheden, eventueel onder voorbehoud van   toekenning van een subsidie;<BR>b) de aanvraag voor subsidiëring van de   verwerving;<BR>c) de verbintenis om de aanvraag voor subsidiëring van de   saneringswerkzaamheden in te dienen samen met de basisstudie, binnen 6 maanden   na de betekening van het definitieve voorstel van subsidiebedrag voor de   verwerving.
+De aanvraag voor de belofte van subsidie voor de verwerving van bedrijfsruimten wordt ingediend door de openbare centra voor maatschappelijk welzijn, gemeenten, verenigingen van gemeenten, de erkende sociale huisvestingsmaatschappijen, vermeld in de Vlaamse Codex Wonen van 2021, de erkende Provinciale Ontwikkelingsmaatschappijen of het Vlaams Woningfonds voor de Grote Gezinnen. De aanvraag dient de volgende documenten te bevatten:<br>
+1° een kopie van het registratie-attest waaruit blijkt dat de bedrijfsruimte in de Inventaris is geregistreerd;<br>
+2° een situering en verantwoording van de beoogde verwerving en van de herbestemming;<br>
+3° een raming van de kostprijs van de beoogde verwerving, bepaald op basis van het schattingsverslag opgesteld door het Comité tot Aankoop of door de bevoegde Ontvanger der Registratie;<br>
+4° een uittreksel uit de notulen van het beheersorgaan van de initiatiefnemer, waaruit blijkt dat besloten is tot:<br>
+a) de verwerving van de bedrijfsruimten en de uitvoering van sanerings- en, herbestemmingswerkzaamheden, eventueel onder voorbehoud van toekenning van een subsidie;<br>
+b) de aanvraag voor subsidiëring van de verwerving;<br>
+c) de verbintenis om de aanvraag voor subsidiëring van de saneringswerkzaamheden in te dienen samen met de basisstudie, binnen 6 maanden na de betekening van het definitieve voorstel van subsidiebedrag voor de verwerving.
 
 ### ART. 21.
 
