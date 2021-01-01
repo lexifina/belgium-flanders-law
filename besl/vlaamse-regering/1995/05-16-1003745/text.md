@@ -26,8 +26,6 @@ De onbetwiste en opeisbare niet-fiscale schuldvorderingen als gevolg van de take
 <br>
 De onbetwiste en opeisbare niet-fiscale schuldvorderingen als gevolg van de taken van het Departement Werk en Sociale Economie worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
-De onbetwiste en opeisbare niet-fiscale schuldvorderingen als gevolg van de taken van het Fonds Culturele Infrastructuur worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
-<br>
 De onbetwiste en opeisbare ten onrechte door verzekeringsinstellingen uitbetaalde tegemoetkomingen en de aan verzekeringsinstellingen, rechthebbenden, vervoerders, verzekeringsinstellingen en zorgvoorzieningen krachtens het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging, opgelegde administratieve geldboeten en eventuele invorderingskosten, worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.
 
 ### ART. 1bis.
