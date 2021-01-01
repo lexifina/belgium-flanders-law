@@ -18,7 +18,21 @@ De begunstigden van de subsidie moeten beschikken over een eigendomstitel,   een
 
 ### ART. 4.
 
-<P>Het Vlaams Energieagentschap lanceert de call en maakt bekend binnen welke   periode de aanvragen kunnen ingediend worden.<BR></P>  <P>De subsidieaanvraag wordt ingediend bij het Vlaams Energieagentschap door   middel van een op de website van het Vlaams Energieagentschap ter beschikking   gesteld aanvraagformulier. De subsidiabele kosten worden aangetoond door middel   van facturen. Enkel facturen die dateren van na de subsidieaanvraag komen in   aanmerking.<BR></P>  <P>Als subsidiabele kosten worden beschouwd alle kosten die rechtstreeks   verbonden zijn aan de installatie van de WKK en die aantoonbaar noodzakelijk   zijn voor de goede werking van de installatie, inclusief voorafgaandelijk   studiewerk en de meetapparatuur, vermeld in artikel 2, tweede lid, steeds   exclusief BTW.<BR></P>  <P>Het Vlaams Energieagentschap rangschikt de aanvragen in volgorde van   indienen.<BR></P>  <P>De hoogst gerangschikte projecten worden gesubsidieerd tot het maximum   steunbedrag van 200.000 euro voor het betreffende kalenderjaar bereikt is. De   resterende aanvragen worden, mits de aanvrager in het kader van de nieuwe   indieningsronde kenbaar maakt het projectvoorstel te behouden, doorgeschoven   naar de volgende indieningsronde en daar terug gerangschikt samen met de nieuwe   aanvragen.<BR></P>  <P>Het Vlaams Energieagentschap doet een voorstel tot subsidiering aan de   minister, bevoegd voor het energiebeleid, binnen de 60 dagen na de einddatum van   de oproep. <BR></P>  <P>De minister, bevoegd voor het energiebeleid, beslist binnen de 60 dagen na   ontvangst van het voorstel van het Vlaams Energieagentschap over de al dan niet   subsidiëring.<BR></P>  <P>De projectaanvrager wordt binnen de 30 dagen na de beslissing van de   minister, bevoegd voor het energiebeleid, hiervan op de hoogte   gesteld.</P>
+<p>Het VEKA lanceert de call en maakt bekend binnen welke periode de aanvragen kunnen ingediend worden.</p>
+
+<p>De subsidieaanvraag wordt ingediend bij het VEKA door middel van een op de website van het VEKA ter beschikking gesteld aanvraagformulier. De subsidiabele kosten worden aangetoond door middel van facturen. Enkel facturen die dateren van na de subsidieaanvraag komen in aanmerking.</p>
+
+<p>Als subsidiabele kosten worden beschouwd alle kosten die rechtstreeks verbonden zijn aan de installatie van de WKK en die aantoonbaar noodzakelijk zijn voor de goede werking van de installatie, inclusief voorafgaandelijk studiewerk en de meetapparatuur, vermeld in artikel 2, tweede lid, steeds exclusief BTW.</p>
+
+<p>Het VEKA rangschikt de aanvragen in volgorde van indienen.</p>
+
+<p>De hoogst gerangschikte projecten worden gesubsidieerd tot het maximum steunbedrag van 200.000 euro voor het betreffende kalenderjaar bereikt is. De resterende aanvragen worden, mits de aanvrager in het kader van de nieuwe indieningsronde kenbaar maakt het projectvoorstel te behouden, doorgeschoven naar de volgende indieningsronde en daar terug gerangschikt samen met de nieuwe aanvragen.</p>
+
+<p>Het VEKA doet een voorstel tot subsidiering aan de minister, bevoegd voor het energiebeleid, binnen de 60 dagen na de einddatum van de oproep.</p>
+
+<p>De minister, bevoegd voor het energiebeleid, beslist binnen de 60 dagen na ontvangst van het voorstel van het VEKA over de al dan niet subsidiëring.</p>
+
+<p>De projectaanvrager wordt binnen de 30 dagen na de beslissing van de minister, bevoegd voor het energiebeleid, hiervan op de hoogte gesteld.</p>
 
 ### ART. 5.
 
@@ -26,7 +40,15 @@ De subsidie wordt toegekend bij besluit van de minister, bevoegd voor het   ener
 
 ### ART. 6.
 
-<P>De begunstigde van de subsidie zal op geregelde tijdstippen, en tenminste   trimestrieel, de energiestromen, zoals per kwartier geregistreerd door de   meetapparatuur vermeld in artikel 2, tweede lid, overmaken aan het Vlaams   Energieagentschap.<BR></P>  <P>De eerste schijf van 40 % kan door het Vlaams Energieagentschap worden   uitbetaald na indiening bij het agentschap van een schuldvordering, een kopie   van de studie ter dimensionering en selectie van de geselecteerde WKK, alsook   een finaal goedgekeurde offerte. <BR></P>  <P>De tweede schijf van 40 % kan na de oplevering van de installatie door het   Vlaams Energieagentschap worden uitbetaald, na indiening bij het agentschap van   een schuldvordering, een kopie van de facturen, het opleveringsverslag, alsook   bewijs van de aansluiting van de installatie op het plaatselijke   distributienet.<BR></P>  <P>Het saldo van de subsidie zal door het Vlaams Energieagentschap worden   uitbetaald na indiening bij het agentschap van een schuldvordering, de   meetgegevens voor een periode van minstens 12 maanden en een oplijsting van de   maatregelen die desgevallend genomen werden ter verbetering van het totale   rendement.<BR></P>  <P>De oplevering vindt plaats binnen de 36 maanden na toekenning van de steun   door de minister. Deze periode kan verlengd worden mits hiervoor een   gemotiveerde aanvraag wordt ingediend bij het Vlaams   Energieagentschap.</P>
+<p>De begunstigde van de subsidie zal op geregelde tijdstippen, en tenminste trimestrieel, de energiestromen, zoals per kwartier geregistreerd door de meetapparatuur vermeld in artikel 2, tweede lid, overmaken aan het VEKA.</p>
+
+<p>De eerste schijf van 40 % kan door het VEKA worden uitbetaald na indiening bij het agentschap van een schuldvordering, een kopie van de studie ter dimensionering en selectie van de geselecteerde WKK, alsook een finaal goedgekeurde offerte.</p>
+
+<p>De tweede schijf van 40 % kan na de oplevering van de installatie door het VEKA worden uitbetaald, na indiening bij het agentschap van een schuldvordering, een kopie van de facturen, het opleveringsverslag, alsook bewijs van de aansluiting van de installatie op het plaatselijke distributienet.</p>
+
+<p>Het saldo van de subsidie zal door het VEKA worden uitbetaald na indiening bij het agentschap van een schuldvordering, de meetgegevens voor een periode van minstens 12 maanden en een oplijsting van de maatregelen die desgevallend genomen werden ter verbetering van het totale rendement.</p>
+
+<p>De oplevering vindt plaats binnen de 36 maanden na toekenning van de steun door de minister. Deze periode kan verlengd worden mits hiervoor een gemotiveerde aanvraag wordt ingediend bij het VEKA.</p>
 
 ### ART. 7.
 

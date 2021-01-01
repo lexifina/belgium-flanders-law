@@ -2,16 +2,16 @@
   "codex_id": 1023321,
   "title": "Ministerieel besluit van 2013-10-02 houdende de voorwaarden voor de toekenning van een subsidie voor de plaatsing van micro-warmtekrachtinstallaties door erkende sociale huisvestingsmaatschappijen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023321/VolledigDocument?datum=2013-10-28",
-  "source_sha256": "bce186ad98de741e366d1b43b6b55eef1d7d385d8d4ee9b21c98ff1613b80b8c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023321/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "2cf4da98c6eb4170d9c049e20248e1e3dde404f8417ae6be391aaa9b45f1d8e6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023321&param=informatie",
-  "as_of": "2013-10-28",
+  "as_of": "2021-01-01",
   "made": "2013-10-02",
   "gazette": "2013-10-18",
   "numac": 2013205570,
   "document_start": "2013-10-28",
   "document_end": null,
-  "in_force": "2013-10-28",
+  "in_force": "2021-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2013-10-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
