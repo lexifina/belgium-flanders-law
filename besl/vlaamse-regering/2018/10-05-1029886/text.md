@@ -32,152 +32,169 @@ Dit besluit is van toepassing op de leden van het onderwijzend personeel van de 
 <br>
 Aan de ambten van assistent, werkleider, doctor-assistent, docent, hoofddocent, hoogleraar en gewoon hoogleraar is ook een bijzondere salarisschaal verbonden.<br>
 <br>
-§ 2. De salarisschalen van het onderwijzend personeel van de hogescholen zijn als volgt vastgesteld:
-<table border="1" style="-webkit-text-stroke-width:0px; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; width:900px; word-spacing:0px">
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">§ 2. De salarisschalen van het onderwijzend personeel van de hogescholen worden vastgesteld op de wijze, vermeld in de volgende tabel:</span></span></span>
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
 	<tbody>
 		<tr>
-			<td>Ambt</td>
-			<td>Salarisschaal en minimumleeftijd</td>
-			<td>Minimum-salaris</td>
-			<td>Maximum-salaris</td>
-			<td>Tussentijdse verhogingen</td>
+			<td>ambt</td>
+			<td>salarisschaal en minimumleeftijd</td>
+			<td>minimumsalaris</td>
+			<td>maximumsalaris</td>
+			<td>tussentijdse verhogingen</td>
 		</tr>
 		<tr>
-			<td>Praktijklector</td>
+			<td>praktijklector</td>
 			<td>316 (22j.)</td>
-			<td>22.565,52</td>
-			<td>35.469,03</td>
-			<td>3 x 1: 568,93<br>
-			12 x 2: 933,06</td>
+			<td>22.745,51</td>
+			<td>36.692,42</td>
+			<td>3 x 1: 573,47<br>
+			12 x 2: 940,50 1 x 9: 940,50</td>
 		</tr>
 		<tr>
-			<td>Hoofdpraktijklector</td>
+			<td>hoofdpraktijklector</td>
 			<td>348 (22j.)</td>
-			<td>23.475,88</td>
-			<td>38.428,45</td>
-			<td>3 x 1: 614,47<br>
-			12 x 2 : 1.092,43</td>
+			<td>23.663,12</td>
+			<td>39.836,05</td>
+			<td>3 x 1: 619,37<br>
+			12 x 2: 1101,14 1 x 9: 1101,14</td>
 		</tr>
 		<tr>
 			<td>Lector</td>
 			<td>502 (24j.)</td>
-			<td>24.249,61</td>
-			<td>40.885,47</td>
-			<td>3 x 1: 705,47<br>
-			11 x 2: 1.319,95</td>
+			<td>24.443,03</td>
+			<td>42.542,09</td>
+			<td>3 x 1: 711,10<br>
+			11 x 2: 1330,48<br>
+			1 x 11: 1330,48</td>
 		</tr>
 		<tr>
 			<td>Hoofdlector</td>
 			<td>509 (24j.)</td>
-			<td>26.775,72</td>
-			<td>43.411,58</td>
-			<td>3 x 1: 705,47<br>
-			11 x 2: 1.319,95</td>
+			<td>26.989,28</td>
+			<td>45.088,34</td>
+			<td>3 x 1: 711,10<br>
+			11 x 2: 1330,48<br>
+			1 x 11: 1330,48</td>
 		</tr>
 		<tr>
 			<td>Assistent</td>
 			<td>502 (24j.)</td>
-			<td>24.249,61</td>
-			<td>40.885,47</td>
-			<td>3 x 1: 705,47<br>
-			11 x 2: 1.319,95</td>
+			<td>24.443,03</td>
+			<td>42.542,09</td>
+			<td>3 x 1: 711,10<br>
+			11 x 2: 1330,48<br>
+			1 x 11: 1330,48</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;508 (24j.)<br>
-			Bijzondere salarisschaal</td>
-			<td>18.350,75</td>
-			<td>30.894,96</td>
-			<td>3 x 1: 531,97<br>
-			11 x 2: 995,30</td>
+			bijzondere salaris-schaal</td>
+			<td>18.497,11</td>
+			<td>32.144,62</td>
+			<td>3 x 1: 536,21<br>
+			11 x 2:1003,24<br>
+			1 x 11: 1003,24</td>
 		</tr>
 		<tr>
-			<td>Werkleider Doctor-assistent</td>
+			<td>werkleider doctor-assistent</td>
 			<td>509 (24j.)</td>
-			<td>26.775,72</td>
-			<td>43.411,58</td>
-			<td>3 x 1: 705,47<br>
-			11 x 2: 1.319,95</td>
+			<td>26.989,28</td>
+			<td>45.088,34</td>
+			<td>3 x 1: 711,10<br>
+			11 x 2: 1330,48<br>
+			1 x 11: 1330,48</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;510 (24j.)<br>
-			Bijzondere salarisschaal</td>
-			<td>20.255,36</td>
-			<td>32.799,57</td>
-			<td>3 x 1: 531,97<br>
-			11 x 2: 995,30</td>
+			bijzondere salaris-schaal</td>
+			<td>20.416,92</td>
+			<td>34.064,43</td>
+			<td>3 x 1: 536,21<br>
+			11 x 2: 1003,24<br>
+			1 x 11: 1003,24</td>
 		</tr>
 		<tr>
 			<td>Docent</td>
 			<td>528 (24j.)</td>
-			<td>28.755,66</td>
-			<td>45.391,52</td>
-			<td>3 x 1: 705,47<br>
-			11 x 2: 1.319,95</td>
+			<td>28.985,02</td>
+			<td>47.084,08</td>
+			<td>3 x 1: 711,10<br>
+			11 x 2: 1330,48<br>
+			1 x 11: 1330,48</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;512 (24j.)<br>
-			Bijzondere salarisschaal</td>
-			<td>22.420,56</td>
-			<td>35.356,97</td>
-			<td>3 x 1: 548,56<br>
-			11 x 2: 1.026,43</td>
+			bijzondere salarisschaal</td>
+			<td>22.599,39</td>
+			<td>36.673,65</td>
+			<td>3 x 1: 552,94<br>
+			11 x 2: 1034,62<br>
+			1 x 11: 1034,62</td>
 		</tr>
 		<tr>
 			<td>Hoofddocent</td>
 			<td>515 (24j.)</td>
-			<td>30.917,77</td>
-			<td>48.191,19</td>
-			<td>3 x 1: 751,01<br>
-			11 x 2: 1.365,49</td>
+			<td>31.164,37</td>
+			<td>49.952,05</td>
+			<td>3 x 1: 757,00<br>
+			11 x 2: 1376,39<br>
+			1 x 11: 1376,39</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;513 (24j.)<br>
-			Bijzondere salarisschaal</td>
-			<td>24.176,19</td>
-			<td>37.936,36</td>
-			<td>3 x 1: 651,29<br>
-			11 x 2: 1.073,30</td>
+			bijzondere salaris-schaal</td>
+			<td>24.369,02</td>
+			<td>39.320,78</td>
+			<td>3 x 1: 656,48<br>
+			11 x 2: 1081,86<br>
+			1 x 11: 1081,86</td>
 		</tr>
 		<tr>
 			<td>Hoogleraar</td>
 			<td>544 (24j.)</td>
-			<td>35.833,45</td>
-			<td>52.469,31</td>
-			<td>3 x 1: 705,47<br>
-			11 x 2: 1.319,95</td>
+			<td>36.119,26</td>
+			<td>54.218,32</td>
+			<td>3 x 1: 711,10<br>
+			11 x 2: 1330,48<br>
+			1 x 11: 1330,48</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;519 (24j.)<br>
-			Bijzondere salarisschaal</td>
-			<td>27.924,19</td>
-			<td>40.860,60</td>
-			<td>3 x 1: 548,56<br>
-			11 x 2: 1.026,43</td>
+			bijzondere salaris-schaal</td>
+			<td>28.146,92</td>
+			<td>42.221,18</td>
+			<td>3 x 1: 552,94<br>
+			11 x 2: 1034,62<br>
+			1 x 11: 1034,62</td>
 		</tr>
 		<tr>
-			<td>Gewoon hoogleraar</td>
+			<td>gewoon hoogleraar</td>
 			<td>520 (24j.)</td>
-			<td>46.411,35</td>
-			<td>70.904,53</td>
-			<td>3 x 1: 975,05<br>
-			11 x 2: 1.960,73</td>
+			<td>46.781,53</td>
+			<td>73.446,43</td>
+			<td>3 x 1: 982,82<br>
+			11 x 2: 1976,37<br>
+			1 x 11: 1976,37</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;521 (24j.)<br>
-			Bijzondere salarisschaal</td>
-			<td>36.149,57</td>
-			<td>55.194,71</td>
-			<td>3 x 1: 758,18<br>
-			11 x 2: 1.524,60</td>
+			bijzondere salaris-schaal</td>
+			<td>36.437,91</td>
+			<td>57.171,72</td>
+			<td>3 x 1: 764,23<br>
+			11 x 2: 1536,76<br>
+			1 x 11: 1536,76</td>
 		</tr>
 	</tbody>
 </table>
+<br>
+&nbsp;
 
 ### ART 3.
 

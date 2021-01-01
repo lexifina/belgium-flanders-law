@@ -2,16 +2,16 @@
   "codex_id": 1029886,
   "title": "Besluit van de Vlaamse Regering van 2018-10-05 tot vaststelling van de salarisschalen van de leden van het onderwijzend personeel van de hogescholen in de Vlaamse Gemeenschap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029886/VolledigDocument?datum=2018-09-01",
-  "source_sha256": "19590e41203e4862cb6431a71707da728716a3b8f3ecd8ea97c3503f17faafd4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029886/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "b5d52f02f075bc7a7d9a4ccc4c3f844c6fbadca7a03313bc6b4f3ce7c6fac415",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029886&param=informatie",
-  "as_of": "2018-09-01",
+  "as_of": "2021-01-01",
   "made": "2018-10-05",
   "gazette": "2018-11-07",
   "numac": 2018040744,
   "document_start": "2018-09-01",
   "document_end": null,
-  "in_force": "2018-09-01",
+  "in_force": "2021-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
