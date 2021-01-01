@@ -12,7 +12,7 @@ Het agentschap behoort tot het beleidsdomein Omgeving.
 
 ### ART. 2.
 
-Het agentschap heeft als missie te waken over het recht op wonen als vermeld in artikel 3 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode. Het ondersteunt de Vlaamse minister, bevoegd voor de huisvesting bij de voorbereiding, de monitoring, de opvolging en de evaluatie van het beleid inzake wonen en voert het beleid uit door :<br>
+Het agentschap heeft als missie te waken over het recht op wonen als vermeld in artikel 1.5 van de Vlaamse Codex Wonen van 2021. Het ondersteunt de Vlaamse minister, bevoegd voor de huisvesting bij de voorbereiding, de monitoring, de opvolging en de evaluatie van het beleid inzake wonen en voert het beleid uit door :<br>
 1° de drempel te verlagen voor mensen die een woning huren, renoveren of verwerven;<br>
 2° de financieringskost die aan voormelde verrichtingen verbonden is te drukken door middel van subsidies of andere risicoverminderende maatregelen die de huurder, koper, verbouwer of bouwer rechtstreeks of onrechtstreeks ten goede komen en die de woningmarkt niet verstoren;<br>
 3° de kwaliteit van de aangeboden woningen te bewaken en met kracht misbruiken op de private huurmarkt te bestrijden;<br>
@@ -40,11 +40,11 @@ Binnen het kader dat de minister, bevoegd voor de huisvesting, vaststelt heeft h
 2° het beleidsmatig investeringsprogramma voor sociale woonprojecten op te maken en te evalueren en de uitvoering ervan op te volgen;<br>
 3° de erkenning van sociale woonorganisaties en kredietmaatschappijen voor te bereiden en de in de regelgeving ter zake voorgeschreven verrichtingen inzake financiering, subsidiëring en waarborgverlening uit te voeren;<br>
 4° de beslissingen van de Vlaamse Regering voor te bereiden over :<br>
-a) de afbakening van woonvernieuwings- en woningbouwgebieden, vermeld in artikel 23, § 1, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, of van bijzondere gebieden, vermeld in artikel 85, § 1, tweede lid, 3°, van voormeld decreet;<br>
-b) de onteigeningsmachtigingen, vermeld in artikel 34, § 2, van voormeld decreet;<br>
-c) het sociaal beheer, vermeld in artikel 90, van voormeld decreet;<br>
-d) de lokale toewijzingsreglementen, vermeld in artikel 95, § 2, van voormeld decreet;<br>
-5° de werkzaamheden van de visitatiecommissies, opgericht bij het besluit van de Vlaamse Regering van 22 oktober 2010 tot vaststelling van de aanvullende voorwaarden en de procedure voor de erkenning als sociale huisvestingsmaatschappij en tot vaststelling van de procedure voor de beoordeling van de prestaties van sociale huisvestingsmaatschappijen, te plannen en te coördineren en de resultaten van de visitaties verder op te volgen;<br>
+a) de afbakening van woonvernieuwings- en woningbouwgebieden, vermeld in artikel 2.36 van de Vlaamse Codex Wonen van 2021, of van bijzondere gebieden, vermeld in artikel 5.76, § 1, tweede lid, 3°, van de voormelde codex;<br>
+b) de onteigeningsmachtigingen, vermeld in artikel 4.26 van de voormelde codex;<br>
+c) het sociaal beheer, vermeld in boek 5, deel 7, van de voormelde codex;<br>
+d) de lokale toewijzingsreglementen, vermeld in artikel 6.14 van de voormelde codex;<br>
+5° de werkzaamheden van de visitatiecommissies, <span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">vermeld in boek 4, deel 1, titel 3, hoofdstuk 1, van het Besluit Vlaamse Codex Wonen van 2021</span></span>, te plannen en te coördineren en de resultaten van de visitaties verder op te volgen;<br>
 6° de gemeenten te begeleiden en te ondersteunen bij de uitwerking van hun lokaal woon- en grond- en pandenbeleid en bij het lokale woonoverleg;<br>
 7° subsidies aan gemeenten of aan intergemeentelijke samenwerkingsverbanden uit te betalen voor projecten intergemeentelijk woonbeleid en voor de opmaak en de actualisering van de gemeentelijke leegstandsregisters;<br>
 8° adviezen te verlenen over bijzondere plannen van aanleg, ruimtelijke uitvoeringsplannen en de milieueffectrapportering overeenkomstig de regelgeving ter zake;<br>
@@ -58,25 +58,25 @@ d) de voorbereiding van de beslissingen van de Vlaamse Regering inzake beroepen 
 12° te zorgen voor kennisbeheer, informatieverstrekking en sensibilisering met betrekking tot alle hiervoor omschreven taken;<br>
 13° controle uit te oefenen op de voorwaarden, verbintenissen en aanwending van subsidies, toelagen, premies of tegemoetkomingen die worden toegekend ter ondersteuning van het beleid inzake huisvesting, onder meer op grond van de hierna vermelde bepalingen en van de besluiten die genomen zijn ter uitvoering ervan:<br>
 a) de Huisvestingscode, gevoegd bij het koninklijk besluit van 10 december 1970 en bekrachtigd door de wet van 2 juli 1971;<br>
-b) hoofdstuk II en hoofdstuk IV van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992;<br>
+b) hoofdstuk IV van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992;<br>
 c) hoofdstuk III van het decreet van 18 december 1992 houdende bepalingen tot begeleiding van de begroting 1993;<br>
-d) het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
+d) de Vlaamse Codex Wonen van 2021;<br>
 e) het besluit van de provincieraad van de provincie Vlaams-Brabant van 22 oktober 2013 tot oprichting van het autonoom provinciebedrijf Vlabinvest APB;<br>
 en deze subsidies, toelagen, premies of tegemoetkomingen in te vorderen bij de begunstigden die de verbintenissen of voorwaarden niet naleven of die ze niet aanwenden voor de doeleinden waarvoor ze werden toegekend;<br>
-14° de handhavingsmaatregelen toe te passen, vermeld in artikel 20 tot en met 20quinquies van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
-15° toezicht uit te oefenen op de sociale woonorganisaties en de sociale kredietverstrekkers met toepassing van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, met inbegrip van de sancties die kunnen worden getroffen door de toezichthouder voor de sociale huisvesting;<br>
+14° de handhavingsmaatregelen toe te passen, vermeld in boek 3, deel 9, van de Vlaamse Codex Wonen van 2021;<br>
+15° toezicht uit te oefenen op de sociale woonorganisaties en de sociale kredietverstrekkers met toepassing van de Vlaamse Codex Wonen van 2021, met inbegrip van de sancties die kunnen worden getroffen door de toezichthouder voor de sociale huisvesting;<br>
 16° controle uit te oefenen op de toewijzing van woningen die geheel of gedeeltelijk werden gefinancierd op basis van de bepalingen van:<br>
 a) de Huisvestingscode, gevoegd bij het koninklijk besluit van 10 december 1970, bekrachtigd door de wet van 2 juli 1971;<br>
-b) hoofdstuk II en hoofdstuk IV van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992;<br>
+b) hoofdstuk IV van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992;<br>
 c) hoofdstuk III van het decreet van 18 december 1992 houdende bepalingen tot begeleiding van de begroting 1993;<br>
-d) het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
+d) de Vlaamse Codex Wonen van 2021;<br>
 e) het besluit van de provincieraad van de provincie Vlaams-Brabant van 22 oktober 2013 tot oprichting van het autonoom provinciebedrijf Vlabinvest APB.<br>
 <br>
 Met behoud van de toepassing van de bepaling van het tweede lid, 13° en 15°, behoort het administratief toezicht op de lokale en provinciale besturen niet tot de bevoegdheid van het agentschap.
 
 ### ART. 4.
 
-Het agentschap is niet bevoegd voor de opdrachten die door of ter uitvoering van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode worden toevertrouwd aan de Vlaamse Maatschappij voor Sociaal Wonen.
+Het agentschap is niet bevoegd voor de opdrachten die door of ter uitvoering van de Vlaamse Codex Wonen van 2021 worden toevertrouwd aan de Vlaamse Maatschappij voor Sociaal Wonen.
 
 ### ART. 5.
 
@@ -106,19 +106,19 @@ Met toepassing van artikel 18 van het besluit van de Vlaamse Regering van 10 okt
 1° op het volledige grondgebied van het Vlaamse Gewest de functie uit te oefenen van gewestelijke ambtenaar, vermeld in:<br>
 a) artikel 24, 3°, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br>
 b) artikel 15 van het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers;<br>
-c) artikel 2, 7°, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
+c) artikel 1.3, § 1, eerste lid, 18°, van de Vlaamse Codex Wonen van 2021;<br>
 2° gewestelijke ambtenaren als vermeld in 1° aan te stellen en hun werkingsgebied vast te stellen;<br>
 3° alle in het ondernemingsplan nominatief opgenomen gereglementeerde subsidies, toelagen, premies en tegemoetkomingen te verlenen binnen het daartoe ter beschikking gestelde budget.<br>
 <br>
 Het hoofd van het agentschap:<br>
-1° wordt aangewezen als gemachtigde voor het viseren en uitvoerbaar verklaren van dwangbevelen als vermeld in artikel 59 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br>
+1° wordt aangewezen als gemachtigde voor het viseren en uitvoerbaar verklaren van dwangbevelen als vermeld in artikel 5.4 van de Vlaamse Codex Wonen van 2021.<br>
 2° kan, op het volledige grondgebied van het Vlaamse Gewest, de functie uitoefenen van:<br>
-a) wooninspecteur als vermeld in artikel 20 van voormeld decreet van 15 juli 1997;<br>
-b) toezichthouder voor de sociale huisvesting als vermeld in artikel 29bis van voormeld decreet van 15 juli 1997.<br>
+a) wooninspecteur als vermeld in artikel 3.37 van de voormelde codex;<br>
+b) toezichthouder voor de sociale huisvesting als vermeld in artikel 4.79 van de voormelde codex.<br>
 3° worden de volgende specifieke delegaties verleend:<br>
 a) het aanstellen van wooninspecteurs en toezichthouders voor de sociale huisvesting en het bepalen van hun ambtsgebieden;<br>
 b) het aanwijzen van ambtenaren die belast worden met de invordering van subsidies, toelagen, premies en tegemoetkomingen en het opstellen van dwangbevelen als vermeld in 1° ;<br>
-c) het aanstellen van ambtenaren met opsporings- en vaststellingsbevoegdheid als vermeld in artikel 20 § 2 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.
+c) het aanstellen van ambtenaren met opsporings- en vaststellingsbevoegdheid als vermeld in artikel 3.37 van de voormelde codex.
 
 ## HOOFDSTUK IV Controle, voortgangscontrole en toezicht
 
