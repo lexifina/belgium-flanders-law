@@ -16,7 +16,7 @@ Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der   instellingen
 
 ### ART. 1.1.0.0.1.
 
-<p>De begrippen, gehanteerd in titel 2, hoofdstuk 5, worden geïnterpreteerd in overeenstemming met de bepalingen van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de kwaliteits- en veiligheidsnormen voor woningen.<br>
+<p>De begrippen, gehanteerd in titel 2, hoofdstuk 5, worden geïnterpreteerd in overeenstemming met de bepalingen van <span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">boek 3 van het Besluit Vlaamse Codex Wonen van 2021</span></span>.<br>
 <br>
 De begrippen, gehanteerd in titel 2, hoofdstuk 6, worden geïnterpreteerd in overeenstemming met de bepalingen van het besluit van de Vlaamse Regering van 1 juli 1997 tot uitvoering van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten.<br>
 <br>
@@ -702,8 +702,8 @@ Voorbehouden voor toekomstig gebruik.
 ### ART. 3.1.0.0.2.
 
 <p>De gemeenten ontvangen voor de administratiekosten die ze ter uitvoering van de heffing ongeschikte en onbewoonbare woningen moeten maken:<br>
-1° een eenmalige vergoeding van 15 % van de opbrengst van de eerste belasting met betrekking tot de onroerende goederen die op het grondgebied van de gemeente liggen, met een maximum van 125 euro per belaste woning of gebouw, voor elke woning waarvoor de gemeente conform artikel 15, tweede lid, van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de kwaliteits- en veiligheidsnormen voor woningen het agentschap heeft ingelicht;<br>
-2° vanaf de eerste heffing, 6% van de jaarlijkse opbrengst van de belasting met betrekking tot de onroerende goederen die op het grondgebied van de gemeente liggen voor het beheer van de inventaris, inclusief de opsporings- en vaststellingskosten, op voorwaarde dat de gemeente het agentschap over de woningen heeft ingelicht conform artikel 15, tweede lid, van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de kwaliteits- en veiligheidsnormen voor woningen.</p>
+1° een eenmalige vergoeding van 15 % van de opbrengst van de eerste belasting met betrekking tot de onroerende goederen die op het grondgebied van de gemeente liggen, met een maximum van 125 euro per belaste woning of gebouw, voor elke woning waarvoor de gemeente conform <span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">artikel 3.16, tweede lid, van het Besluit Vlaamse Codex Wonen van 2021</span></span> het agentschap heeft ingelicht;<br>
+2° vanaf de eerste heffing, 6% van de jaarlijkse opbrengst van de belasting met betrekking tot de onroerende goederen die op het grondgebied van de gemeente liggen voor het beheer van de inventaris, inclusief de opsporings- en vaststellingskosten, op voorwaarde dat de gemeente het agentschap over de woningen heeft ingelicht conform <span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">artikel 3.16, tweede lid, van het Besluit Vlaamse Codex Wonen van 2021</span></span>.</p>
 
 <p>De gemeentelijke opcentiemen, de nalatigheidsinteresten, de administratieve geldboetes en de kosten worden niet in aanmerking genomen voor de berekening van de opbrengst van de belasting, vermeld in het vorige lid.</p>
 
@@ -719,7 +719,7 @@ De vergoeding, vermeld in artikel 3.1.0.0.6 van de Vlaamse Codex Fiscaliteit van
 1° de gegevens over de eigendommen van de erkende sociale verhuurkantoren voor de toepassing van artikel 2.1.4.0.1, § 2, eerste lid, 5°, van de voormelde codex;<br>
 2° de meldingen, vermeld in artikel 2.1.4.0.1, § 2, derde lid, van de voormelde codex, voor de toepassing van artikel 2.1.4.0.1, § 2, eerste lid, 7°, van de voormelde codex;<br>
 3° de meldingen, vermeld in artikel 2.1.4.0.1, § 2/1, tweede lid, van de voormelde codex;<br>
-4° de informatie over de energiezuinige woningen en gebouwen die het Vlaams Energieagentschap aanlevert voor de toepassing van artikel 2.1.5.0.1, § 2, van de voormelde codex;<br>
+4° de informatie over de energiezuinige woningen en gebouwen die het Vlaams Energie- en Klimaatagentschap aanlevert voor de toepassing van artikel 2.1.5.0.1, § 2, van de voormelde codex;<br>
 5° de aanvragen, vermeld in artikel 2.1.6.0.2 van de voormelde codex;<br>
 6° de aanvragen, vermeld in artikel 2.2.6.0.1, § 3, eerste lid, van de voormelde codex, voor de toepassing van artikel 2.2.6.0.1, § 2, 2°, van de voormelde codex.
 
