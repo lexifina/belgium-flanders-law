@@ -38,7 +38,7 @@ Bij ontvangst van een integraal milieujaarverslag stuurt de administratie de rel
 1° het Departement Omgeving;<br>
 2° de Openbare Vlaamse Afvalstoffenmaatschappij, ter uitvoering van titel II van het VLAREM en van het besluit van de Vlaamse Regering van februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br>
 3° de Vlaamse Milieumaatschappij ter uitvoering van titel II van het VLAREM;<br>
-4° ...<br>
+4° het VEKA.<br>
 <br>
 Als de administratie het integrale milieujaarverslag elektronisch ontving of het op een korte termijn elektronisch beschikbaar kan stellen, volstaat het dat zij de informatie via elektronische weg aan bovengenoemde diensten beschikbaar stelt.<br>
 <br>
