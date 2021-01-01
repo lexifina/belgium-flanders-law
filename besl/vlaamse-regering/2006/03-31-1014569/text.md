@@ -27,7 +27,7 @@ d) aansturen en evalueren van sectorale steunpunten;<br>
 e) aansturen van particuliere voorzieningen die overheidstaken uitvoeren;<br>
 f) aansturen van cultuurspreidingsinitiatieven;<br>
 g) zorgen voor het uitbouwen en onderhouden van internationale sectorale contacten;<br>
-h) beheren van het Masereelcentrum, het domein Gaasbeek en de landcommanderij Alden Biesen;<br>
+h) beheren van de buitendiensten van het Departement Cultuur, Jeugd en Media, met uitzondering van de buitendienst, vermeld in punt 6°, h), en de buitendienst met de taak, vermeld in 6°, j);<br>
 i) beheren van de erfgoed- en kunstcollecties van en toevertrouwd aan de Vlaamse Gemeenschap;<br>
 j) beheren van het Topstukkenfonds;<br>
 k) beschermen, subsidiëren, inspecteren, controleren en verwerven van topstukken;<br>
@@ -43,7 +43,8 @@ f) organiseren van cultuurspreidingsinitiatieven;<br>
 g) zorgen voor het uitbouwen en onderhouden van internationale sectorale contacten;<br>
 h) beheren van het Vlaams Cultureel Centrum Voeren;<br>
 i) coördineren van het jeugd- en kinderrechtenbeleid;<br>
-j) uitlenen van kampeermateriaal voor de jeugd.<br>
+j) uitlenen van kampeermateriaal voor de jeugd;<br>
+7° het beheren van de eigen cultuur- en jeugdinfrastructuur en het verlenen van subsidies voor cultuur- en jeugdinfrastructuur.<br>
 &nbsp;
 
 ### ART. 4.
