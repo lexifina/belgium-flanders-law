@@ -20,7 +20,7 @@ Deze codex regelt een gewestaangelegenheid.<BR>
 5° bevoegd personeelslid : het personeelslid van de Vlaamse administratie dat wordt aangewezen conform de besluiten van de Vlaamse Regering, en dat belast is met de uitvoering van de bepalingen van deze codex;<br>
 5° /1 decreet Kilometerheffing : decreet van 3 juli 2015 tot invoering van de kilometerheffing en de stopzetting van de heffing van het eurovignet en tot wijziging van de Vlaamse Codex Fiscaliteit in dat verband;<br>
 6° decreet van 19 april 1995 : het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<br>
-7° decreet van 22 december 1995 : het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br>
+7° ...;<br>
 7° /1 dienstverlener : elke door een tolheffende instantie, vermeld in artikel 4, tweede lid, 2°, van het decreet Kilometerheffing op haar tolgebied, vermeld in artikel 5, § 2, derde lid, 1°, van het decreet Kilometerheffing toegelaten juridische entiteit die een dienst aanbiedt van facturatie aan gebruikers, inning en afdracht aan de gewesten van de kilometerheffing op basis van gegevens die geregistreerd zijn door een elektronische registratievoorziening;<br>
 7° /2 dienstverleningsovereenkomst : de overeenkomst tussen de houder van een voertuig en een dienstverlener naar zijn keuze, die voorafgaand aan het gebruik van enige weg voor dat voertuig moet worden gesloten;<br>
 7° /3 elektronische registratievoorziening : de elektronische boordapparatuur bestemd voor de plaatsbepaling van het voertuig waarin de boordapparatuur is geplaatst, die, al dan niet met behulp van elektronische apparatuur op afstand, data uitwisselt om te komen tot de registratie van afgelegde kilometers, alsook tot de berekening van de kilometerheffing op die geregistreerde afstand;<br>
@@ -141,7 +141,9 @@ In titel 2, hoofdstuk 13, en in titel 3, wordt, overeenkomstig artikel 76 van he
 
 ### ART. 1.1.0.0.3.
 
-<P>De begrippen, gehanteerd in titel 2, hoofdstuk 5, van deze codex, worden   geïnterpreteerd in overeenstemming met de bepalingen van hoofdstuk VIII,   afdeling 2, van het decreet van 22 december 1995.<BR></P>  <P>De begrippen, gehanteerd in titel 2, hoofdstuk 6, van deze codex, worden   geïnterpreteerd in overeenstemming met de bepalingen van het decreet van 19   april 1995.<BR></P>
+<p>De begrippen, gehanteerd in titel 2, hoofdstuk 5, van deze codex, worden geïnterpreteerd in overeenstemming met de bepalingen van artikel 1.3 en boek 3, deel 5, titel 2, van de Vlaamse Codex Wonen van 2021.</p>
+
+<p>De begrippen, gehanteerd in titel 2, hoofdstuk 6, van deze codex, worden geïnterpreteerd in overeenstemming met de bepalingen van het decreet van 19 april 1995.</p>
 
 ### ART. 1.1.0.0.4.
 
@@ -182,7 +184,7 @@ Voor de vaststelling van de belastbare grondslag wordt geen rekening   gehouden 
 § 2. In afwijking van paragraaf 1 bedraagt het tarief 2,54 % voor :<br>
 1° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan Openbare Centra voor Maatschappelijk Welzijn of aan door haar opgerichte verenigingen waarvan slechts één of meer Openbare Centra voor Maatschappelijk Welzijn deel uitmaken;<br>
 2° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan gemeenten;<br>
-3° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan de Vlaamse Maatschappij voor Sociaal Wonen of aan de erkende sociale huisvestingsmaatschappijen, vermeld in artikel 40 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
+3° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan de Vlaamse Maatschappij voor Sociaal Wonen of aan de erkende sociale huisvestingsmaatschappijen, vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
 4° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan het Vlaams Woningfonds;<br>
 5° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan een erkend sociaal verhuurkantoor;<br>
 6° ...;<br>
@@ -444,7 +446,7 @@ Op aanvraag van de belastingschuldige wordt ook een vrijstelling van de onroeren
 1° de onroerende goederen die zijn gebruikt om een kleinhandelsactiviteit uit te oefenen, die in een winkelarm gebied liggen en die op grond van een geldige omgevingsvergunning verbouwd worden tot een of meerdere woningen;<br>
 2° de onroerende goederen waarvan minstens de benedenverdieping wordt gebruikt om een kleinhandelsactiviteit uit te oefenen, die in een kernwinkelgebied liggen en waarvan een of meer verdiepingen boven de kleinhandelsactiviteit op grond van een geldige omgevingsvergunning verbouwd worden tot een of meer woningen;<br>
 3° de onroerende goederen waar sloopwerkzaamheden, gevolgd door vervangbouw, worden uitgevoerd en die voorafgaand aan de omgevingsvergunning of meldingsakte opgenomen zijn in een van de volgende inventarissen:<br>
-a) de inventaris van ongeschikte of onbewoonbare woningen, vermeld in artikel 26, § 1, van het decreet van 22 december 1995;<br>
+a) de inventaris van ongeschikte of onbewoonbare woningen, vermeld in artikel 3.19, § 1, van de Vlaamse Codex Wonen van 2021;<br>
 b) de inventaris van leegstaande of verwaarloosde bedrijfsruimten, vermeld in artikel 3, § 1, van het decreet van 19 april 1995.<br>
 <br>
 In het eerste lid wordt verstaan onder:<br>
@@ -621,7 +623,7 @@ De plaats, de datum en het uur van de weging of van het volledige   onderzoek va
 </table>
 
 <p>&nbsp;§ 2/1. Voor de personenauto's, de auto's voor dubbel gebruik en de minibussen die na 31 december 2015 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid wordt de belasting berekend, op basis van de tabel, vermeld in paragraaf 2, met in achtneming van volgende elementen:<br>
-1° in functie van de CO<sub>2</sub>-uitstoot van het voertuig, gemeten tijdens de homologatie ervan volgens de geldende Europese regelgeving, wordt het tarief<br>
+1° in functie van de CO<sub>2</sub>-uitstoot van het voertuig, gemeten tijdens de homologatie ervan volgens de op het moment van de eerste inschrijving geldende Europese regelgeving, wordt het tarief<br>
 a) vermeerderd met 0,30% voor iedere gram CO<sub>2</sub>-uitstoot per kilometer boven 122 gram en niet hoger dan 500 gram;<br>
 b) verminderd met 0,30% voor iedere gram CO<sub>2</sub>-uitstoot per kilometer onder 122 gram, maar hoger dan 24 gram;<br>
 2° in functie van de euronorm en de brandstofsoort van het voertuig en desgevallend de aanwezigheid van een roetfilter wordt het tarief met een percentage vermeerderd of verminderd overeenkomstig de volgende tabel:</p>
@@ -687,10 +689,18 @@ In afwijking van artikel 2.2.4.0.2, § 2, bedraagt de belasting, berekend overee
 <br>
 Deze paragraaf is alleen van toepassing op wegvoertuigen van natuurlijke personen en andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.<br>
 <br>
+&nbsp;§ 2/2. Voor de personenauto's, de auto's voor dubbel gebruik en de minibus- sen die voor de eerste keer na 31 december 2020 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid wordt de belasting berekend, vermeld in paragraaf 2/1, met dien verstande dat het element, vermeld onder paragraaf 2/1, 1°, als volgt wordt toegepast: in functie van de CO2-uitstoot van het voertuig, gemeten tijdens de homologatie ervan volgens de geldende Europese regelgeving, wordt het tarief:<br>
+a) vermeerderd met 0,30% voor iedere gram CO2-uitstoot per kilometer boven 149 gram en niet hoger dan 500 gram;<br>
+b) verminderd met 0,30% voor iedere gram CO2-uitstoot per kilometer onder 149 gram, maar hoger dan 24 gram.<br>
+<br>
+Deze paragraaf is alleen van toepassing op voertuigen van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.<br>
+<br>
+Deze paragraaf is ook van toepassing op de personenauto's, de auto's voor dubbel gebruik en de minibussen die voor de eerste keer na 31 december 2020 worden ingeschreven bij een vergelijkbare instelling binnen de Europese Economische Ruimte of een andere staat, wanneer zij nadien worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid.<br>
+<br>
 § 3. Voor de motorvoertuigen, bestemd voor het vervoer van goederen waarvan&nbsp;het maximaal toegestane totaalgewicht 3 500 kilogram niet overschrijdt, de lijkwagens, de alleenrijdende landbouwtractoren en de alleenrijdende trekkers, andere dan die, vermeld in paragraaf 6, bedraagt de belasting 19,32 euro per 500 kg maximaal toegestane totaalgewicht.<br>
 <br>
 § 3/1. Voor de motorvoertuigen, bestemd voor het vervoer van goederen, de lijkwagens, de alleenrijdende landbouwtractoren en de alleenrijdende trekkers, als het andere voertuigen zijn dan de voertuigen, vermeld in paragraaf 6, die na 30 juni 2017 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid en waarvan de maximaal toegelaten massa maximum 2500 kilogram bedraagt, bedraagt de belasting 19,32 euro per 500 kg maximaal toegelaten massa, met inachtneming van volgende elementen:<br>
-1° in functie van de CO<sub>2</sub>-uitstoot van het voertuig, gemeten tijdens de homologatie ervan volgens de geldende Europese regelgeving, wordt het tarief<br>
+1° in functie van de CO<sub>2</sub>-uitstoot van het voertuig, gemeten tijdens de homologatie ervan volgens de op het moment van de eerste inschrijving geldende Europese regelgeving, wordt het tarief<br>
 a) vermeerderd met 0,30% voor iedere gram CO<sub>2</sub>-uitstoot per kilometer boven 122 gram en niet hoger dan 500 gram;<br>
 b) verminderd met 0,30% voor iedere gram CO<sub>2</sub>-uitstoot per kilometer onder 122 gram, maar hoger dan 24 gram;<br>
 2° in functie van de euronorm en de brandstofsoort van het voertuig en, in voorkomend geval, de aanwezigheid van een roetfilter wordt het tarief met een percentage vermeerderd of verminderd conform de volgende tabel:<br>
@@ -806,6 +816,14 @@ In functie van de euronorm van het voertuig en, in voorkomend geval, de aanwezig
 In afwijking van artikel 2.2.4.0.2, § 2, bedraagt de belasting, berekend overeenkomstig het eerste lid, minimum 40 euro.<br>
 <br>
 Deze paragraaf is alleen van toepassing op voertuigen van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.<br>
+<br>
+§ 3/3. Voor de motorvoertuigen, bestemd voor het vervoer van goederen, de lijkwagens, de alleenrijdende landbouwtractoren en de alleenrijdende trekkers, als het andere voertuigen zijn dan de voertuigen, vermeld in paragraaf 6, die voor de eerste keer na 31 december 2020 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid en waarvan de maximaal toegelaten massa maximum 2500 kilogram bedraagt, wordt de belasting berekend als vermeld in paragraaf 3/1, met dien verstande dat het element, vermeld onder paragraaf 3/1, 1°, als volgt wordt toegepast: in functie van de CO2-uitstoot van het voertuig, gemeten tijdens de homologatie ervan volgens de geldende Europese regelgeving, wordt het tarief:<br>
+a) vermeerderd met 0,30% voor iedere gram CO2-uitstoot per kilometer boven 149 gram en niet hoger dan 500 gram;<br>
+b) verminderd met 0,30% voor iedere gram CO2-uitstoot per kilometer onder 149 gram, maar hoger dan 24 gram.<br>
+<br>
+Deze paragraaf is alleen van toepassing op voertuigen van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.<br>
+<br>
+Deze paragraaf is ook van toepassing op de motorvoertuigen, vermeld in het eerste lid, die voor de eerste keer na 31 december 2020 worden in- geschreven bij een vergelijkbare instelling binnen de Europese Economische Ruimte of een andere staat, wanneer zij nadien worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid.<br>
 <br>
 § 4. Voor de motorfietsen bedraagt de belasting 49,44 euro.<br>
 <br>
@@ -1397,7 +1415,7 @@ Als de euronorm van het voertuig niet bekend is, wordt die parameter voor de toe
 
 ### ART. 2.2.4.0.7.
 
-Als de CO<sub>2</sub>-uitstoot van het voertuig niet bekend is, wordt die parameter voor de toepassing van artikel 2.2.4.0.1, § 2/1, eerste lid, 1°, artikel 2.2.4.0.1, § 3/2, bepaald aan de hand van de brandstofsoort, de cilinderinhoud en de euronorm, vermeld in de volgende tabel:<br>
+§1. Als de CO<sub>2</sub>-uitstoot van het voertuig niet bekend is, wordt die parameter voor de toepassing van artikel 2.2.4.0.1, § 2/1, eerste lid, 1°, artikel 2.2.4.0.1, § 3/2, bepaald aan de hand van de brandstofsoort, de cilinderinhoud en de euronorm, vermeld in de volgende tabel:<br>
 &nbsp;
 <table border="1">
 	<tbody>
@@ -1523,6 +1541,109 @@ Als de CO<sub>2</sub>-uitstoot van het voertuig niet bekend is, wordt die parame
 		</tr>
 	</tbody>
 </table>
+<br>
+§2. Als de CO2-uitstoot van het voertuig niet bekend is, wordt die parameter voor de toepassing van artikel 2.2.4.0.1, §2/2 en artikel 2.2.4.0.1, §3/3, bepaald volgens volgende formule:<br>
+CO2-uitstoot = Constante + (Parameter_CC x CC) + (Parameter_KW x KW) + (Parameter_FPK x FPK) + (Parameter_ZP x ZP) + (Parameter_CC_KW x CC x KW)<br>
++ (Parameter_CC_FPK x CC x FPK) + (Parameter_KW_FPK x KW x FPK) + (Para- meter_CC_KW_FPK x CC x KW x FPK).<br>
+<br>
+De parameters, vermeld in het eerste lid, worden gedefinieerd als volgt: 1°&nbsp;&nbsp; &nbsp;CC = de cilinderinhoud in cc gedeeld door 1000;<br>
+2°&nbsp;&nbsp; &nbsp;KW = het vermogen van de motor uitgedrukt in kilowatt gedeeld door 100; 3°&nbsp;&nbsp; &nbsp;FPK = het vermogen van de motor uitgedrukt in fiscale pk;<br>
+4°&nbsp;&nbsp; &nbsp;ZP = het aantal zitplaatsen.<br>
+&nbsp;<br>
+De overige parameters, vermeld in het eerste lid, worden voor de toepassing van deze formule, bepaald aan de hand van de brandstofsoort, vermeld in de volgende tabel:<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:1px solid #231f20; height:120px; vertical-align:top; width:106px">&nbsp;</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:1px solid #231f20; height:120px; vertical-align:top; width:98px">Benzine en andere<br>
+			brandstoffen, met uitzondering van aardgas, diesel en<br>
+			plug-inhybride</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:1px solid #231f20; height:120px; vertical-align:top; width:94px">Diesel</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:1px solid #231f20; height:120px; vertical-align:top; width:83px">Benzine plug- inhybride</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:1px solid #231f20; height:120px; vertical-align:top; width:83px">Diesel plug- inhybride</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:1px solid #231f20; height:120px; vertical-align:top; width:87px">Aardgas</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:106px">Parameter constante</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:98px">58.3304</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:94px">1017.5710</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:83px">75.3124</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:83px">1716.4604</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:87px">7627.0345</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:106px">Parameter_CC</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:98px">2.9316</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:94px">-403.6269</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:83px">-126.9417</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:83px">-102.5352</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:87px">-8617.6901</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:106px">Parameter_KW</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:98px">53.6921</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:94px">-817.4980</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:83px">56.3978</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:83px">-1333.5261</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:87px">-8710.9573</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:106px">Parameter_FPK</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:98px">5.0617</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:94px">-96.0669</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:83px">27.1787</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:83px">-229.5888</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:87px">-606.3489</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:106px">Parameter_ZP</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:98px">1.9861</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:94px">1.9861</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:83px">1.9861</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:83px">1.9861</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:87px">1.9861</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:106px">Parameter_CC_ KW</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:98px">17.2267</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:94px">399.2770</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:83px">-51.8607</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:83px">-344.2686</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:87px">8134.2581</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:106px">Parameter_CC_ FPK</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:98px">-0.2578</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:94px">41.8433</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:83px">-1.0233</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:83px">51.2497</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:87px">817.4474</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:106px">Parameter_ KW_FPK</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:98px">-5.4089</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:94px">76.3656</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:83px">-2.7148</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:83px">245.7955</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:87px">905.1812</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:106px">Parameter_CC_ KW_FPK</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:98px">0.1784</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:94px">-34.3605</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:83px">3.1869</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:83px">-30.2220</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:87px">-854.6351</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De CO2-uitstoot, zoals berekend in het eerste lid, is minstens gelijk aan nul.<br>
+<br>
+Een plug-inhybride voertuig is een voertuig dat aangedreven wordt door een elektrische motor en een verbrandingsmotor waarvoor de energie geleverd wordt aan de elektrische motor door batterijen die volledig opgeladen kunnen worden via een aansluiting aan een externe energiebron buiten het voertuig.<br>
+<br>
+Een voertuig op aardgas is een voertuig waarvan de motor, ook al is het maar gedeeltelijk of tijdelijk, aangedreven wordt met aardgas.
 
 ### ART. 2.2.4.0.8.
 
@@ -1644,9 +1765,15 @@ Dit artikel is niet van toepassing op de voertuigen, vermeld in artikel 2.2.4.0.
 
 ### ART. 2.2.6.0.7.
 
-Er wordt tot en met 31 december 2020 geen belasting geheven op:<br>
+Er wordt op volgende voertuigen die uiterlijk op 31 december 2020 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid geen belasting geheven op:<br>
 1° voertuigen waarvan de motor, ook al is het maar gedeeltelijk of tijdelijk, aangedreven wordt met aardgas;<br>
 2° plug-in hybride voertuigen met een maximale CO<sub>2</sub>-uitstoot van 50 gram per kilometer.<br>
+<br>
+De vrijstelling, vermeld in het eerste lid, wordt ook toegekend voor voertuigen, die na 31 december 2020 ingeschreven worden in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid of bij een vergelijkbare instelling binnen de Europese Economische Ruimte of een andere staat en nadien in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid, en die voldoen aan de volgende voorwaarden:<br>
+1° het wegvoertuig werd voor 12 oktober 2020 besteld;<br>
+2° een kopie van de bestelbon wordt aan de bevoegde entiteit van de Vlaamse administratie bezorgd voor 15 januari 2021, samen met een formulier, afgeleverd door deze entiteit, dat wordt ondertekend door de betrokken belastingplichtige, en dat minstens de volgende gegevens bevat:<br>
+a) hetzij het identificatienummer uit het Rijksregister van de natuurlijke personen, hetzij het ondernemingsnummer dat bekend is bij de Kruispuntbank van Ondernemingen, hetzij het identificatienummer, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid, van de persoon op wiens naam het voertuig ingeschreven werd of zal ingeschreven worden in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid;<br>
+b) de voornamen, de achternaam en het domicilieadres van de natuurlijke persoon of de naam, de rechtsvorm en het adres van de maat- schappelijke zetel van de rechtspersoon op wiens naam het voertuig ingeschreven werd of zal ingeschreven worden in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid.<br>
 <br>
 Een plug-in hybride voertuig is een voertuig dat aangedreven wordt door een elektrische motor en een verbrandingsmotor waarvoor de energie geleverd wordt aan de elektrische motor door batterijen die volledig opgeladen kunnen worden via een aansluiting aan een externe energiebron buiten het voertuig.<br>
 <br>
@@ -1705,11 +1832,319 @@ De belasting op de personenauto's, auto's voor dubbel gebruik en de minibussen, 
 
 ### ART. 2.3.4.1.2.
 
-<P>De belasting wordt berekend volgens de volgende formule:<BR>BIV=   ((CO<SUB>2</SUB> * f + x) /246)<SUP>6</SUP> * 4500 + c) * LC<BR><BR>De   parameters, vermeld in het eerste lid, worden gedefinieerd als volgt :<BR>1°   CO<SUB>2</SUB> = de CO<SUB>2</SUB>-uitstoot van het wegvoertuig, gemeten tijdens   de homologatie ervan volgens de geldende Europese regelgeving;<BR>2° f = 0,88   voor wegvoertuigen die aangedreven worden door lpg;<BR>f = 0,93 voor   wegvoertuigen die aangedreven worden door aardgas;<BR>f = 0,744 voor   wegvoertuigen die aangedreven worden door zowel aardgas als benzine, als ze als   benzinewagen gehomologeerd zijn;<BR>f = 1 voor andere wegvoertuigen;<BR>3° x =   CO<SUB>2</SUB>-correctie in functie van de technologische evolutie; x is gelijk   aan 0 g CO<SUB>2</SUB>/km en wordt jaarlijks verhoogd met 4,5 g   CO<SUB>2</SUB>/km vanaf het jaar 2013;<BR>4° c = constante (luchtcomponent) in   functie van de euronorm en de brandstofsoort van het wegvoertuig, vermeld in de   volgende tabel : <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Brandstofsoort       <TD>Euronorm       <TD>Bedrag in euro<BR>    <TR>      <TD>Diesel       <TD>euro 0       <TD>2.863,15<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;euro 1       <TD>840,00<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;euro 2       <TD>622,57<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;euro 3       <TD>493,36<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;euro 3 + roetfilter       <TD>467,06<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;euro 4       <TD>467,06<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;euro 4 + roetfilter       <TD>459,35<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;euro 5 of EEV       <TD>459,35<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;euro 6       <TD>454,07<BR>    <TR>      <TD>Benzine, en andere brandstoffen       <TD>euro 0       <TD>1138,78<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;euro 1       <TD>509,28<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;euro 2       <TD>152,29<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;euro 3       <TD>95,53<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;euro 4       <TD>22,93<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;euro 5 of EEV       <TD>20,61<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;euro 6       <TD>20,61</TD></TR></TBODY></TABLE></P><BR>5° LC = leeftijdscorrectie in functie   van de ouderdom van het wegvoertuig, vermeld in de volgende tabel : <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>ouderdom van het wegvoertuig op basis van de datum van de eerste         inschrijving ervan, in het binnenland of in het buitenland, vermeld op het         inschrijvingsbewijs       <TD>waarde LC in % <BR>    <TR>      <TD>minder dan 12 volle maanden       <TD>100 <BR>    <TR>      <TD>van 12 volle maanden tot en met 23 volle maanden       <TD>90 <BR>    <TR>      <TD>van 24 volle maanden tot en met 35 volle maanden       <TD>80 <BR>    <TR>      <TD>van 36 volle maanden tot en met 47 volle maanden       <TD>70 <BR>    <TR>      <TD>van 48 volle maanden tot en met 59 volle maanden       <TD>60 <BR>    <TR>      <TD>van 60 volle maanden tot en met 71 volle maanden       <TD>50 <BR>    <TR>      <TD>van 72 volle maanden tot en met 83 volle maanden       <TD>40 <BR>    <TR>      <TD>van 84 volle maanden tot en met 95 volle maanden       <TD>30 <BR>    <TR>      <TD>van 96 volle maanden tot en met 107 volle maanden       <TD>20 <BR>    <TR>      <TD>meer dan 107 volle maanden       <TD>10<BR></TD></TR></TBODY></TABLE><BR>
+<p>De belasting wordt berekend volgens de volgende formule:<br>
+BIV= ((CO<sub>2</sub> * f + x) /246)<sup>6</sup> * 4500 + c) * LC<br>
+<br>
+De parameters, vermeld in het eerste lid, worden gedefinieerd als volgt :<br>
+1° CO<sub>2</sub> = de CO<sub>2</sub>-uitstoot van het wegvoertuig, gemeten tijdens de homologatie ervan volgens de op het moment van de eerste inschrijving geldende Europese regelgeving;<br>
+2° f = 0,88 voor wegvoertuigen die aangedreven worden door lpg;<br>
+f = 0,93 voor wegvoertuigen die aangedreven worden door aardgas;<br>
+f = 0,744 voor wegvoertuigen die aangedreven worden door zowel aardgas als benzine, als ze als benzinewagen gehomologeerd zijn;<br>
+f = 1 voor andere wegvoertuigen;<br>
+3° x = CO<sub>2</sub>-correctie in functie van de technologische evolutie; x is gelijk aan 0 g CO<sub>2</sub>/km en wordt jaarlijks verhoogd met 4,5 g CO<sub>2</sub>/km vanaf het jaar 2013;<br>
+4° c = constante (luchtcomponent) in functie van de euronorm en de brandstofsoort van het wegvoertuig, vermeld in de volgende tabel :</p>
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Brandstofsoort</td>
+			<td>Euronorm</td>
+			<td>Bedrag in euro</td>
+		</tr>
+		<tr>
+			<td>Diesel</td>
+			<td>euro 0</td>
+			<td>2.863,15</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 1</td>
+			<td>840,00</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 2</td>
+			<td>622,57</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 3</td>
+			<td>493,36</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 3 + roetfilter</td>
+			<td>467,06</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 4</td>
+			<td>467,06</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 4 + roetfilter</td>
+			<td>459,35</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 5 of EEV</td>
+			<td>459,35</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 6</td>
+			<td>454,07</td>
+		</tr>
+		<tr>
+			<td>Benzine, en andere brandstoffen</td>
+			<td>euro 0</td>
+			<td>1138,78</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 1</td>
+			<td>509,28</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 2</td>
+			<td>152,29</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 3</td>
+			<td>95,53</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 4</td>
+			<td>22,93</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 5 of EEV</td>
+			<td>20,61</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 6</td>
+			<td>20,61</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+<br>
+5° LC = leeftijdscorrectie in functie van de ouderdom van het wegvoertuig, vermeld in de volgende tabel :
+<table border="1">
+	<tbody>
+		<tr>
+			<td>ouderdom van het wegvoertuig op basis van de datum van de eerste inschrijving ervan, in het binnenland of in het buitenland, vermeld op het inschrijvingsbewijs</td>
+			<td>waarde LC in %</td>
+		</tr>
+		<tr>
+			<td>minder dan 12 volle maanden</td>
+			<td>100</td>
+		</tr>
+		<tr>
+			<td>van 12 volle maanden tot en met 23 volle maanden</td>
+			<td>90</td>
+		</tr>
+		<tr>
+			<td>van 24 volle maanden tot en met 35 volle maanden</td>
+			<td>80</td>
+		</tr>
+		<tr>
+			<td>van 36 volle maanden tot en met 47 volle maanden</td>
+			<td>70</td>
+		</tr>
+		<tr>
+			<td>van 48 volle maanden tot en met 59 volle maanden</td>
+			<td>60</td>
+		</tr>
+		<tr>
+			<td>van 60 volle maanden tot en met 71 volle maanden</td>
+			<td>50</td>
+		</tr>
+		<tr>
+			<td>van 72 volle maanden tot en met 83 volle maanden</td>
+			<td>40</td>
+		</tr>
+		<tr>
+			<td>van 84 volle maanden tot en met 95 volle maanden</td>
+			<td>30</td>
+		</tr>
+		<tr>
+			<td>van 96 volle maanden tot en met 107 volle maanden</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>meer dan 107 volle maanden</td>
+			<td>10</td>
+		</tr>
+	</tbody>
+</table>
+
+### ART 2.3.4.1.2/1.
+
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">De belasting wordt voor de voertuigen, vermeld in artikel 2.3.4.1.1, die voor de eerste keer worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid na 31 december 2020, berekend volgens de volgende formule:</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">BIV= ((CO</span></span></span><sub>2</sub><span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">&nbsp;* f * q) /246)6 * 4500 + c) * LC</span></span></span><br>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">De parameters, vermeld in het eerste lid, worden gedefinieerd als volgt:</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">1° CO</span></span></span><sub>2</sub><span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">&nbsp;= de CO</span></span></span><sub>2</sub><span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">-uitstoot van het wegvoertuig, gemeten tijdens de homologatie ervan volgens de geldende Europese regelgeving;</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">2° f = 0,88 voor wegvoertuigen die aangedreven worden door lpg;</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">f = 0,93 voor wegvoertuigen die aangedreven worden door aardgas;</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">f = 0,744 voor wegvoertuigen die aangedreven worden door zowel aardgas als benzine, als ze als benzinewagen gehomologeerd zijn;</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">f = 1 voor andere wegvoertuigen;</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">3° q = een factor in functie van de Europese emissienormen voor 2025 en 2030; q is gelijk aan 1,07 in 2021 en wordt jaarlijks verhoogd met 0,035 vanaf het jaar 2022;</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">4° c = constante (luchtcomponent) in functie van de euronorm en de brand- stofsoort van het wegvoertuig, vermeld in de volgende tabel:</span></span></span>
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>Brandstofsoort</td>
+			<td>Euronorm</td>
+			<td>Bedrag in euro</td>
+		</tr>
+		<tr>
+			<td>Diesel</td>
+			<td>euro 0</td>
+			<td>2.863,15</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 1</td>
+			<td>840,00</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 2</td>
+			<td>622,57</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 3</td>
+			<td>493,36</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 3 + roetfilter</td>
+			<td>467,06</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 4</td>
+			<td>467,06</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 4 + roetfilter</td>
+			<td>459,35</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 5 of EEV</td>
+			<td>459,35</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 6</td>
+			<td>454,07</td>
+		</tr>
+		<tr>
+			<td>Benzine, en andere brandstoffen</td>
+			<td>euro 0</td>
+			<td>1138,78</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 1</td>
+			<td>509,28</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 2</td>
+			<td>152,29</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 3</td>
+			<td>95,53</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 4</td>
+			<td>22,93</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 5 of EEV</td>
+			<td>20,61</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;euro 6</td>
+			<td>20,61</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">5° LC = leeftijdscorrectie in functie van de ouderdom van het wegvoertuig, ver- meld in de volgende tabel:</span></span></span>
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>ouderdom van het wegvoertuig op basis van de datum van de eerste inschrijving ervan, in het binnenland of in het buitenland, vermeld op het inschrijvingsbewijs</td>
+			<td>waarde LC in %</td>
+		</tr>
+		<tr>
+			<td>minder dan 12 volle maanden</td>
+			<td>100</td>
+		</tr>
+		<tr>
+			<td>van 12 volle maanden tot en met 23 volle maanden</td>
+			<td>90</td>
+		</tr>
+		<tr>
+			<td>van 24 volle maanden tot en met 35 volle maanden</td>
+			<td>80</td>
+		</tr>
+		<tr>
+			<td>van 36 volle maanden tot en met 47 volle maanden</td>
+			<td>70</td>
+		</tr>
+		<tr>
+			<td>van 48 volle maanden tot en met 59 volle maanden</td>
+			<td>60</td>
+		</tr>
+		<tr>
+			<td>van 60 volle maanden tot en met 71 volle maanden</td>
+			<td>50</td>
+		</tr>
+		<tr>
+			<td>van 72 volle maanden tot en met 83 volle maanden</td>
+			<td>40</td>
+		</tr>
+		<tr>
+			<td>van 84 volle maanden tot en met 95 volle maanden</td>
+			<td>30</td>
+		</tr>
+		<tr>
+			<td>van 96 volle maanden tot en met 107 volle maanden</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>meer dan 107 volle maanden</td>
+			<td>10</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
 
 ### ART. 2.3.4.1.3.
 
-De belasting bedraagt nooit minder dan 41,99 euro en nooit meer dan 10.497,70 euro. In afwijking van artikel 2.3.4.1.2 bedraagt de belasting 41,99 euro voor de wegvoertuigen die een eerste keer in het verkeer zijn gesteld 30 jaar geleden of eerder en voor de wegvoertuigen die voldoen aan een van de volgende voorwaarden:<br>
+De belasting bedraagt nooit minder dan 41,99 euro en nooit meer dan 10.497,70 euro. In afwijking van artikel 2.3.4.1.2 en artikel 2.3.4.1.2/1 bedraagt de belasting 41,99 euro voor de wegvoertuigen die een eerste keer in het verkeer zijn gesteld 30 jaar geleden of eerder en voor de wegvoertuigen die voldoen aan een van de volgende voorwaarden:<br>
 1° in aanslagjaar 2017 sedert meer dan vijfentwintig jaar in het verkeer zijn gebracht;<br>
 2° in aanslagjaar 2018 sedert meer dan zesentwintig jaar in het verkeer zijn gebracht;<br>
 3° in aanslagjaar 2019 sedert meer dan zevenentwintig jaar in het verkeer zijn gebracht;<br>
@@ -1718,7 +2153,7 @@ De belasting bedraagt nooit minder dan 41,99 euro en nooit meer dan 10.497,70 eu
 
 ### ART. 2.3.4.1.4.
 
-De bedragen, vermeld in artikel 2.3.4.1.2, tweede lid, 4°, en de bedragen,   vermeld in artikel 2.3.4.1.3, zijn gekoppeld aan de schommelingen van het   algemeen indexcijfer van de consumptieprijzen van het Rijk. De bedragen worden   aangepast op 1 juli van elk jaar op grond van de schommelingen van het algemeen   indexcijfer van de consumptieprijzen van het Rijk, vastgesteld tussen de maand   mei van het vorige jaar en de maand mei van het lopende jaar. De bedragen,   vermeld in artikel 2.3.4.1.2 en artikel 2.3.4.1.3, zijn de bedragen die van   toepassing waren op 1 juli 2015.<BR>
+De bedragen, vermeld in artikel 2.3.4.1.2, tweede lid, 4°, en artikel 2.3.4.1.2/1, tweede lid, 4°, en de bedragen, vermeld in artikel 2.3.4.1.3, zijn gekoppeld aan de schommelingen van het algemeen indexcijfer van de consumptieprijzen van het Rijk. De bedragen worden aangepast op 1 juli van elk jaar op grond van de schommelingen van het algemeen indexcijfer van de consumptieprijzen van het Rijk, vastgesteld tussen de maand mei van het vorige jaar en de maand mei van het lopende jaar. De bedragen, vermeld in artikel 2.3.4.1.2, 2.3.4.1.2/1 en artikel 2.3.4.1.3, zijn de bedragen die van toepassing waren op 1 juli 2015.
 
 ### ART. 2.3.4.1.5.
 
@@ -1726,7 +2161,230 @@ Als de euronorm van het wegvoertuig niet bekend is, wordt die parameter   bepaal
 
 ### ART. 2.3.4.1.6.
 
-Als de CO<SUB>2</SUB>-uitstoot van het wegvoertuig niet bekend is, wordt   die parameter bepaald aan de hand van de brandstofsoort, de cilinderinhoud en de   euronorm, vermeld in de volgende tabel : <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>brandstofsoort       <TD>cilinderinhoud in cc       <TD colSpan=7 align=center>Euronorm <BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;       <TD>6       <TD>5       <TD>4       <TD>3       <TD>2       <TD>1       <TD>0 <BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;       <TD colSpan=7 align=center>CO<SUB>2</SUB>-emissies in g/km <BR>    <TR>      <TD>benzine en andere brandstoffen, met uitzondering van diesel en aardgas      <TD>minder dan 1400       <TD>117       <TD>125       <TD>140       <TD>150       <TD>164       <TD>173       <TD>175 <BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;1400 tot en met 2000       <TD>150       <TD>159       <TD>172       <TD>185       <TD>200       <TD>211       <TD>213 <BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;meer dan 2000       <TD>228       <TD>238       <TD>247       <TD>259       <TD>279       <TD>295       <TD>297 <BR>    <TR>      <TD>diesel       <TD>minder dan 1400       <TD>98       <TD>103       <TD>120       <TD>116       <TD>125       <TD>132       <TD>133 <BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;1400 tot en met 2000       <TD>117       <TD>125       <TD>144       <TD>151       <TD>163       <TD>173       <TD>174 <BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;meer dan 2000       <TD>159       <TD>169       <TD>201       <TD>199       <TD>214       <TD>226       <TD>228 <BR>    <TR>      <TD>aardgas       <TD>minder dan 1400       <TD>94       <TD>100       <TD>112       <TD>120       <TD>131       <TD>139       <TD>140 <BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;1400 tot en met 2000       <TD>120       <TD>127       <TD>138       <TD>148       <TD>160       <TD>169       <TD>171 <BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;meer dan 2000       <TD>182       <TD>190       <TD>198       <TD>207       <TD>223       <TD>236       <TD>238<BR></TD></TR></TBODY></TABLE><BR>
+§1. Als de CO<sub>2</sub>-uitstoot van het wegvoertuig niet bekend is, wordt die parameter voor de toepassing van artikel 2.3.4.2.1, bepaald aan de hand van de brandstofsoort, de cilinderinhoud en de euronorm, vermeld in de volgende tabel :
+<table border="1">
+	<tbody>
+		<tr>
+			<td>brandstofsoort</td>
+			<td>cilinderinhoud in cc</td>
+			<td colspan="7">Euronorm</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>6</td>
+			<td>5</td>
+			<td>4</td>
+			<td>3</td>
+			<td>2</td>
+			<td>1</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td colspan="7">CO<sub>2</sub>-emissies in g/km</td>
+		</tr>
+		<tr>
+			<td>benzine en andere brandstoffen, met uitzondering van diesel en aardgas</td>
+			<td>minder dan 1400</td>
+			<td>117</td>
+			<td>125</td>
+			<td>140</td>
+			<td>150</td>
+			<td>164</td>
+			<td>173</td>
+			<td>175</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;1400 tot en met 2000</td>
+			<td>150</td>
+			<td>159</td>
+			<td>172</td>
+			<td>185</td>
+			<td>200</td>
+			<td>211</td>
+			<td>213</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;meer dan 2000</td>
+			<td>228</td>
+			<td>238</td>
+			<td>247</td>
+			<td>259</td>
+			<td>279</td>
+			<td>295</td>
+			<td>297</td>
+		</tr>
+		<tr>
+			<td>diesel</td>
+			<td>minder dan 1400</td>
+			<td>98</td>
+			<td>103</td>
+			<td>120</td>
+			<td>116</td>
+			<td>125</td>
+			<td>132</td>
+			<td>133</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;1400 tot en met 2000</td>
+			<td>117</td>
+			<td>125</td>
+			<td>144</td>
+			<td>151</td>
+			<td>163</td>
+			<td>173</td>
+			<td>174</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;meer dan 2000</td>
+			<td>159</td>
+			<td>169</td>
+			<td>201</td>
+			<td>199</td>
+			<td>214</td>
+			<td>226</td>
+			<td>228</td>
+		</tr>
+		<tr>
+			<td>aardgas</td>
+			<td>minder dan 1400</td>
+			<td>94</td>
+			<td>100</td>
+			<td>112</td>
+			<td>120</td>
+			<td>131</td>
+			<td>139</td>
+			<td>140</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;1400 tot en met 2000</td>
+			<td>120</td>
+			<td>127</td>
+			<td>138</td>
+			<td>148</td>
+			<td>160</td>
+			<td>169</td>
+			<td>171</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;meer dan 2000</td>
+			<td>182</td>
+			<td>190</td>
+			<td>198</td>
+			<td>207</td>
+			<td>223</td>
+			<td>236</td>
+			<td>238</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+§2. Als de CO2-uitstoot van het voertuig niet bekend is, wordt die parameter voor de toepassing van artikel 2.3.4.1.2/1, bepaald volgens volgende formule: CO2-uitstoot = Constante + (Parameter_CC x CC) + (Parameter_KW x KW) + (Parameter_FPK x FPK) + (Parameter_ZP x ZP) + (Parameter_CC_KW x CC x KW) + (Parameter_CC_FPK x CC x FPK) + (Parameter_KW_FPK x KW x FPK)<br>
++ (Parameter_CC_KW_FPK x CC x KW x FPK).<br>
+&nbsp;<br>
+De parameters, vermeld in het eerste lid, worden gedefinieerd als volgt: 1° CC = de cilinderinhoud in cc gedeeld door 1000;<br>
+2° KW = het vermogen van de motor uitgedrukt in kilowatt gedeeld door 100; 3° FPK = het vermogen van de motor uitgedrukt in fiscale pk;<br>
+4° ZP = het aantal zitplaatsen.<br>
+<br>
+De overige parameters, vermeld in het eerste lid, worden voor de toepassing van deze formule, bepaald aan de hand van de brandstofsoort, vermeld in de volgende tabel:
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:1px solid #231f20; height:106px; vertical-align:top; width:85px">&nbsp;</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:1px solid #231f20; height:106px; vertical-align:top; width:98px">Benzine en andere brand- stoffen, met uitzondering van aardgas, diesel en<br>
+			plug-inhybride</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:1px solid #231f20; height:106px; vertical-align:top; width:85px">Diesel</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:1px solid #231f20; height:106px; vertical-align:top; width:85px">Benzine plug- inhybride</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:1px solid #231f20; height:106px; vertical-align:top; width:85px">Diesel plug- inhybride</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:1px solid #231f20; height:106px; vertical-align:top; width:85px">Aardgas</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">Parameter constante</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:98px">58.3304</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">1017.5710</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">75.3124</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">1716.4604</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">7627.0345</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">Parameter_ CC</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:98px">2.9316</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">-403.6269</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">-126.9417</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">-102.5352</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">-8617.6901</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">Parameter_ KW</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:98px">53.6921</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">-817.4980</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">56.3978</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">-1333.5261</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">-8710.9573</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">Parameter_ FPK</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:98px">5.0617</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">-96.0669</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">27.1787</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">-229.5888</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">-606.3489</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">Parameter_ ZP</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:98px">1.9861</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">1.9861</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">1.9861</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">1.9861</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">1.9861</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">Parameter_ CC_KW</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:98px">17.2267</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">399.2770</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">-51.8607</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">-344.2686</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">8134.2581</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">Parameter_ CC_FPK</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:98px">-0.2578</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">41.8433</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">-1.0233</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">51.2497</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">817.4474</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">Parameter_ KW_FPK</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:98px">-5.4089</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">76.3656</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">-2.7148</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">245.7955</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:34px; vertical-align:top; width:85px">905.1812</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:48px; vertical-align:top; width:85px">Parameter_ CC_KW_ FPK</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:48px; vertical-align:top; width:98px">0.1784</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:48px; vertical-align:top; width:85px">-34.3605</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:48px; vertical-align:top; width:85px">3.1869</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:48px; vertical-align:top; width:85px">-30.2220</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:48px; vertical-align:top; width:85px">-854.6351</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De CO2-uitstoot, zoals berekend in het eerste lid, is minstens gelijk aan nul.<br>
+Een plug-inhybride voertuig is een voertuig dat aangedreven wordt door een elektrische motor en een verbrandingsmotor waarvoor de energie geleverd wordt aan de elektrische motor door batterijen die volledig opgeladen kunnen worden via een aansluiting aan een externe energiebron buiten het voertuig.<br>
+<br>
+Een voertuig op aardgas is een voertuig waarvan de motor, ook al is het maar gedeeltelijk of tijdelijk, aangedreven wordt met aardgas.
 
 ### ART. 2.3.4.1.7.
 
@@ -1965,7 +2623,13 @@ Voor voertuigen waarvan het belastbaar vermogen 11 fiscale paardenkracht te bove
 <br>
 Dit artikel is alleen van toepassing op de wegvoertuigen, vermeld in artikel 2.3.4.1.1.<br>
 <br>
-De vermindering, vermeld in het eerste lid, wordt toegekend tot en met 31 december 2020.
+De vermindering, vermeld in het eerste lid, wordt toegekend voor voertuigen die uiterlijk op 31 december 2020 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid.<br>
+<br>
+De vermindering, vermeld in het eerste lid, wordt ook toegekend voor voer- tuigen die na 31 december 2020 ingeschreven worden in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid of bij een vergelijk- bare instelling binnen de Europese Economische Ruimte of een andere staat en nadien in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid, en die voldoen aan de volgende voorwaarden:<br>
+1° het wegvoertuig werd voor 12 oktober 2020 besteld;<br>
+2° een kopie van de bestelbon wordt aan de bevoegde entiteit van de Vlaamse administratie bezorgd voor 15 januari 2021, samen met een formulier, afgeleverd door deze entiteit, dat wordt ondertekend door de betrokken belastingplichtige, en dat minstens de volgende gegevens bevat:<br>
+a) hetzij het identificatienummer uit het Rijksregister van de natuurlijke personen, hetzij het ondernemingsnummer dat bekend is bij de Kruispuntbank van Ondernemingen, hetzij het identificatienummer, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid, van de persoon op wiens naam het voertuig ingeschreven werd of zal ingeschreven worden in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid;<br>
+b) de voornamen, de achternaam en het domicilieadres van de natuur- lijke persoon of de naam, de rechtsvorm en het adres van de maat- schappelijke zetel van de rechtspersoon op wiens naam het voertuig ingeschreven werd of zal ingeschreven worden in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid.
 
 ## Afdeling 6 Vrijstellingen
 
@@ -2002,13 +2666,19 @@ In het eerste lid wordt verstaan onder op afstand bestuurde luchtvaartuigsysteme
 
 ### ART. 2.3.6.0.3.
 
-Er wordt tot en met 31 december 2020 geen belasting geheven op:<br>
+Er wordt voor volgende voertuigen die uiterlijk op 31 december 2020 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid geen belasting geheven op:<br>
 1° voertuigen&nbsp;waarvan het belastbaar vermogen 11 fiscale paardenkracht niet te boven gaat en waarvan de motor, ook al is het maar gedeeltelijk of tijdelijk, aangedreven wordt met aardgas;<br>
 2° plug-in hybride voertuigen met een maximale CO<sub>2</sub>-uitstoot van 50 gram per kilometer.<br>
 <br>
 Een plug-in hybride voertuig is een voertuig dat aangedreven wordt door een elektrische motor en een verbrandingsmotor waarvoor de energie geleverd wordt aan de elektrische motor door batterijen die volledig opgeladen kunnen worden via een aansluiting aan een externe energiebron buiten het voertuig.<br>
 <br>
-Dit artikel is alleen van toepassing op de wegvoertuigen, vermeld in artikel 2.3.4.1.1.
+Dit artikel is alleen van toepassing op de wegvoertuigen, vermeld in artikel 2.3.4.1.1.<br>
+<br>
+De vrijstelling, vermeld in het eerste lid, wordt ook toegekend voor voertuigen, die na 31 december 2020 ingeschreven worden in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid of bij een vergelijk- bare instelling binnen de Europese Economische Ruimte of een andere staat en nadien in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid, en die voldoen aan de volgende voorwaarden:<br>
+1° het wegvoertuig werd voor 12 oktober 2020 besteld;<br>
+2° een kopie van de bestelbon wordt aan de bevoegde entiteit van de Vlaamse administratie bezorgd voor 15 januari 2021, samen met een formulier, afgeleverd door deze entiteit, dat wordt ondertekend door de betrokken belastingplichtige, en dat minstens de volgende gegevens bevat:<br>
+a) hetzij het identificatienummer uit het Rijksregister van de natuur- lijke personen, hetzij het ondernemingsnummer dat bekend is bij de Kruispuntbank van Ondernemingen, hetzij het identificatienummer, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprich- ting en organisatie van een Kruispuntbank van de sociale zekerheid, van de persoon op wiens naam het voertuig ingeschreven werd of zal ingeschreven worden in het repertorium van het Directoraat-gene- raal Mobiliteit en Verkeersveiligheid;<br>
+b) de voornamen, de achternaam en het domicilieadres van de natuur- lijke persoon of de naam, de rechtsvorm en het adres van de maat- schappelijke zetel van de rechtspersoon op wiens naam het voertuig ingeschreven werd of zal ingeschreven worden in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid.
 
 ## Afdeling 7 Wijze van heffing
 
@@ -2322,12 +2992,14 @@ Voorbehouden voor toekomstig gebruik.<BR>
 ### ART. 2.5.1.0.1.
 
 § 1. De gemeenten zijn gemachtigd tot het heffen van een gemeentelijke heffing op ongeschikte en/of onbewoonbare woningen die opgenomen zijn in de inventaris, rekening houdend met het minimale voorschrift dat de minimumaanslag bedraagt:<br>
-a) 500 euro voor een kamer als vermeld in artikel 2, § 1, eerste lid, 10° bis, van de Vlaamse Wooncode;<br>
+a) 500 euro voor een kamer als vermeld in artikel 1.3, § 1, eerste lid, 25°, van de Vlaamse Codex Wonen van 2021;<br>
 b) 990 euro voor elke andere woning dan deze, vermeld in a).<br>
 <br>
 § 2. De gemeente geeft vóór 31 maart van het aanslagjaar aan de bevoegde entiteit van de Vlaamse administratie kennis over de heffing, vermeld in paragraaf 1, aan de hand van een voor eensluidend verklaard afschrift van het gemeenteraadsbesluit.<br>
 <br>
-§ 3. Er wordt een gewestelijke heffing ongeschikte en onbewoonbare woningen geheven op ongeschikte en onbewoonbare woningen die opgenomen zijn in de inventaris. Als de gemeente een eigen heffingsreglement heeft dat minstens één van de minima voorziet vermeld in paragraaf 1, dan wordt in die gemeente de gewestelijke heffing ongeschikte en onbewoonbare woningen niet geheven.
+§ 3. Er wordt een gewestelijke heffing ongeschikte en onbewoonbare woningen geheven op ongeschikte en onbewoonbare woningen die opgenomen zijn in de inventaris. Als de gemeente een eigen heffingsreglement heeft dat minstens één van de minima voorziet vermeld in paragraaf 1, dan wordt in die gemeente de gewestelijke heffing ongeschikte en onbewoonbare woningen niet geheven.<br>
+<br>
+Voor de toepassing van het eerste lid geldt, behalve in geval van sloop, het vermoeden dat de woning die is opgenomen in de inventaris, vermeld in artikel 3.19, § 1, van de Vlaamse Codex Wonen van 2021, ononderbroken is blijven voortbestaan vanaf datum van de opname in de inventaris tot op de datum van de schrapping uit deze inventaris met toepassing van artikel 3.23. Dit vermoeden kan slechts worden weerlegd wanneer de woning ophield voort te bestaan na het uitvoeren van handelingen waarvoor een omgevingsvergunning werd afgeleverd.
 
 ## Afdeling 2 Belastingplichtigen
 
@@ -2340,23 +3012,23 @@ b) 990 euro voor elke andere woning dan deze, vermeld in a).<br>
 
 <p>Als een van de zakelijke rechten, vermeld in het eerste lid, in onverdeeldheid toebehoort aan meer dan één persoon, geldt de onverdeeldheid als belastingplichtige.</p>
 
-<p>Bij ontstentenis van de kennisgeving, vermeld in artikel 29 van het decreet van 22 december 1995, aan de inventarisbeheerder en aan de bevoegde entiteit van de Vlaamse administratie, wordt de overdrager van het zakelijk recht, in afwijking van het eerste lid, als belastingplichtige beschouwd voor de eerstvolgende heffing die na de overdracht van het zakelijk recht ontstaat.</p>
-
 ## Afdeling 3 Belastbare grondslag
 
 ### ART. 2.5.3.0.1.
 
-De heffing wordt vastgesteld op basis van het kadastraal inkomen van de woning.
+De heffing wordt vastgesteld op een basisbedrag van 1100 euro.<br>
+<br>
+Het basisbedrag, vermeld in het eerste lid, wordt jaarlijks aangepast op 1 januari op grond van de schommelingen van het algemeen indexcijfer van de consumptieprijzen van het Rijk, vastgesteld tussen de maand november van het vorige jaar en de maand november van het lopende jaar.<br>
+<br>
+Het aangepast basisbedrag, vermeld in het tweede lid, wordt afgerond op de lagere vijftig euro.
 
 ## Afdeling 4 Tarieven
 
 ### ART. 2.5.4.0.1.
 
-<p>De heffing wordt berekend volgens de volgende formule : KI * (P + 1).</p>
-
-<p>De parameters, vermeld in het eerste lid, worden gedefinieerd als volgt :<br>
-1° KI = het kadastraal inkomen, vermeld in artikel 2.5.3.0.1, dat niet minder bedraagt dan 990 euro. Als zich verschillende gebouwen of woningen op een kadastraal perceel bevinden, staat KI voor het kadastraal inkomen van de grond en de opstanden van het hele perceel, vermenigvuldigd met een breuk waarin de teller gelijk is aan de oppervlakte van de geïnventariseerde woning, en de noemer gelijk is aan de totale oppervlakte van de gebouwen of de woningen die zich op het kadastraal perceel bevinden, en bedraagt het KI niet minder dan 990 euro;<br>
-2° P = het aantal periodes van twaalf maanden dat het gebouw of de woning zonder onderbreking is opgenomen op de desbetreffende lijst in de inventaris, en dat niet meer bedraagt dan vier.</p>
+De heffing wordt berekend volgens de volgende formule: B * (P + 1), waarbij:<br>
+- B gelijk is aan het geïndexeerd basisbedrag, vermeld in artikel 2.5.3.0.1, afgerond naar het eerstvolgende natuurlijk getal;<br>
+- P gelijk is aan het aantal periodes van twaalf maanden dat de woning zonder onderbreking is opgenomen op de desbetreffende lijst in de inventaris, vermeld in artikel 3.19, § 1, van de Vlaamse Codex Wonen van 2021, en waarbij P niet meer bedraagt dan vier.
 
 ### ART. 2.5.4.0.2.
 
@@ -2380,14 +3052,18 @@ De houder van een zakelijk recht wordt vrijgesteld van de heffing als hij&nbsp;d
 1° de woningen die binnen de grenzen liggen van een door de bevoegde overheid goedgekeurd onteigeningsplan of waarvoor geen stedenbouwkundige vergunning meer wordt afgeleverd omdat een onteigeningsplan wordt voorbereid;<br>
 2°...;<br>
 3°&nbsp;de woningen die getroffen zijn door een ramp die zich heeft voorgedaan onafhankelijk van de wil van de belastingplichtige, gedurende een periode van twee jaar die volgt op de datum van de ramp;<br>
-4°&nbsp;de woningen waarvoor het sociaal beheersrecht conform artikel 90, § 2 en § 3, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, ingesteld is;<br>
-5° de woningen waarvoor een renovatiecontract als vermeld in artikel 18, § 2, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, gesloten is.</p>
+4°&nbsp;de woningen waarvoor het sociaal beheersrecht conform artikel 5.82 tot 5.85 van de Vlaamse Codex Wonen van 2021, ingesteld is;<br>
+5° de woningen waarvoor een renovatiecontract als vermeld in artikel 3.30, § 2, van de Vlaamse Codex Wonen van 2021, gesloten is.</p>
 
 <p>Onder een ramp als vermeld in het eerste lid, 3°, wordt verstaan elke gebeurtenis die uiterlijk waarneembare schade veroorzaakt aan&nbsp;de woning, waardoor het gebruik of de bewoning van&nbsp;de woning geheel of ten dele onmogelijk wordt.</p>
 
 <p>§ 2. Er wordt een vrijstelling van de heffing wegens overmacht verleend aan de houder van het zakelijk recht die aantoont dat de woning&nbsp;opgenomen blijft in de inventaris om redenen die onafhankelijk zijn van zijn wil. Die vrijstelling wordt verleend voor een termijn van één jaar, maar wordt jaarlijks verlengd als de overmacht aanhoudt.</p>
 
 <p>De Vlaamse Regering kan nadere regels vaststellen om de gevallen van overmacht te beoordelen en om de aanvang van de termijn van de vrijstelling te bepalen.</p>
+
+### ART 2.5.6.0.3.
+
+&nbsp;De Vlaamse Regering kan nadere procedurele regels vaststellen voor de aanvraag en de toekenning van vrijstellingen als vermeld in artikel 2.5.6.0.1 en 2.5.6.0.2.
 
 ## Afdeling 7 Wijze van heffing
 
@@ -2410,26 +3086,30 @@ De houder van een zakelijk recht wordt vrijgesteld van de heffing als hij&nbsp;d
 
 ### ART. 2.5.7.0.3.
 
-<p>Er wordt een opschorting van de heffing verleend zodra de belastingplichtige een stedenbouwkundige vergunning, een schriftelijke bevestiging van de volledig bevonden aanvraag voor een stedenbouwkundige vergunning, opgemaakt door de gemeentelijke stedenbouwkundige ambtenaar, of een gedetailleerd renovatieschema voorlegt waaruit blijkt dat hij de nodige renovatiewerken gaat uitvoeren. Als de belastingplichtige tijdens de termijn van vier maanden na de kennisgeving van&nbsp;het besluit tot ongeschikt- of onbewoonbaarverklaring, vermeld in artikel 27 van het decreet van 22 december 1995, een stedenbouwkundige vergunning, een schriftelijke bevestiging van de volledig bevonden aanvraag voor een stedenbouwkundige vergunning, opgemaakt door de gemeentelijke stedenbouwkundige ambtenaar, of een gedetailleerd renovatieschema voorlegt en dat document dateert van voor het besluit tot ongeschikt- of onbewoonbaarverklaring, op basis waarvan de inventarisatie van de woning gebeurt, dan gaat de opschorting in op de datum van de inventarisatie in plaats van op de datum waarop de stedenbouwkundige vergunning, de schriftelijke bevestiging van de volledig bevonden aanvraag voor een stedenbouwkundige vergunning, opgemaakt door de gemeentelijke stedenbouwkundige ambtenaar, of het gedetailleerde renovatieschema voorgelegd wordt.</p>
-
-<p>Het gedetailleerde renovatieschema moet de volgende stukken bevatten :<br>
+Er wordt een opschorting van de heffing verleend zodra de belastingplichtige:<br>
+- een omgevingsvergunning tot sloop of een schriftelijke bevestiging van de volledig bevonden aanvraag voor een omgevingsvergunning tot sloop, opgemaakt door de gemeentelijke stedenbouwkundige ambtenaar, voorlegt;<br>
+- een gedetailleerd renovatieschema voorlegt waaruit blijkt dat hij de nodige renovatiewerken zal uitvoeren met het oog op het herstel van de conformiteit, vermeld in artikel 1.3, § 1, eerste lid, 8°, van de Vlaamse Codex Wonen van 2021.<br>
+<br>
+Het gedetailleerde renovatieschema bevat al de volgende stukken:<br>
 1° een tekening of schets van de woning met aanduiding van de geplande werken;<br>
 2° een volledige opsomming en korte beschrijving van alle geplande werken;<br>
-3° een raming van de kosten van de geplande werken door middel van een van de volgende stukken :<br>
+3° een raming van de kosten van de geplande werken via een van de volgende stukken:<br>
 a) een offerte voor de levering en plaatsing van materialen door een aannemer;<br>
 b) een offerte voor de levering van materialen als de werken in eigen beheer worden uitgevoerd;<br>
 c) een combinatie van beide offertes;<br>
-4° een fotoreportage van de&nbsp;delen van de woning&nbsp;die gerenoveerd worden.</p>
+4° een fotoreportage van de delen van de woning die gerenoveerd worden.<br>
+<br>
+De opschorting geldt voor de heffingen die verschuldigd zijn op de inventarisatiedata die in de periode van opschorting vallen.<br>
+<br>
+De periode van opschorting eindigt op het moment dat de renovatiewerkzaamheden beëindigd zijn of de sloop voltooid is. Ze kan niet langer duren dan twee jaar, tenzij de belastingplichtige aantoont dat voor het herstel van de conformiteit, vermeld in het eerste lid, een omgevingsvergunning noodzakelijk is of tenzij de werken betrekking hebben op drie of meer gebouwen of woningen, of zo omvangrijk zijn dat ze niet kunnen worden voltooid in twee jaar. In die gevallen bedraagt de maximale periode vier jaar.<br>
+<br>
+De opschorting wordt ongedaan gemaakt als de ongeschikte en/of onbewoonbare woning op het einde van de periode van opschorting of op het ogenblik van de overdracht van een zakelijk recht als vermeld in artikel 2.5.2.0.1, niet uit de inventaris geschrapt is, tenzij op dat ogenblik een periode van vrijstelling loopt met toepassing van artikel 2.5.6.0.1 of 2.5.6.0.2. De opschorting wordt ook ongedaan gemaakt als de aanvraag van een omgevingsvergunning tot sloop geweigerd wordt. De opgeschorte heffingen zijn in die gevallen alsnog verschuldigd.<br>
+<br>
+Als de renovatiewerkzaamheden of de sloop worden uitgevoerd door een sociale woonorganisatie, de gemeente of het Openbaar Centrum voor Maatschappelijk Welzijn, dan kan de termijn, vermeld in het vierde lid, door de Vlaamse Regering worden verlengd op grond van een verslag over de voorbereiding of de vordering van de werkzaamheden.
 
-<p>Voor de toepassing van de bepalingen van hoofdstuk VIII, afdeling 2, van het decreet van 22 december 1995 wordt sloop die gevolgd wordt door vervangingsbouw, gelijkgesteld met renovatiewerkzaamheden.</p>
+### ART 2.5.7.0.4.
 
-<p>De opschorting geldt voor de heffingen die verschuldigd zijn op de inventarisatiedata die in de periode van opschorting vallen.</p>
-
-<p>De periode van opschorting eindigt op het moment dat de renovatiewerkzaamheden beëindigd zijn. Ze kan niet langer duren dan vier jaar, tenzij de renovatiewerkzaamheden betrekking hebben op drie of meer gebouwen of woningen, of dermate omvangrijk zijn dat ze niet kunnen worden voltooid in vier jaar, in welke gevallen de maximale periode vijf jaar bedraagt.</p>
-
-<p>De opschorting wordt ongedaan gemaakt als de renovatiewerken die opgenomen zijn in de stedenbouwkundige vergunning of in het gedetailleerde renovatieschema, op het einde van de periode van opschorting niet beëindigd zijn, tenzij op dat ogenblik een periode van vrijstelling loopt met toepassing van artikel 2.5.6.0.1 of 2.5.6.0.2. De opschorting wordt ook ongedaan gemaakt als de aanvraag van een stedenbouwkundige vergunning geweigerd wordt. De opgeschorte heffingen zijn in die gevallen alsnog verschuldigd.</p>
-
-<p>Als de renovatiewerkzaamheden worden uitgevoerd door een sociale woonorganisatie, de gemeente of het Openbaar Centrum voor Maatschappelijk Welzijn, dan kan de termijn van vier of vijf jaar door de Vlaamse Regering worden verlengd op grond van een verslag over de voorbereiding of de vordering van de werkzaamheden.</p>
+De Vlaamse Regering kan nadere procedurele regels vaststellen voor de aanvraag en de toekenning van opschortingen als vermeld in artikel 2.5.7.0.2 en 2.5.7.0.3.
 
 ## Hoofdstuk 6 Leegstandsheffing bedrijfsruimten
 
@@ -2915,7 +3595,20 @@ Het toe te passen tarief is het tarief dat van kracht is op de dag van het   ove
 
 ### ART. 2.7.4.2.1.
 
-In afwijking van artikel 2.7.4.1.1 bedraagt het tarief van de erfbelasting   8,5 % voor de legaten aan :<BR>1° het Vlaamse Gewest en de Vlaamse   Gemeenschap;<BR>2° de Vlaamse, de Franse en de Gemeenschappelijke   Gemeenschapscommissie;<BR>3° de Franse en de Duitstalige Gemeenschap en aan het   Waalse en het Brusselse Hoofdstedelijke Gewest;<BR>4° een staat in de Europese   Economische Ruimte;<BR>5° de provincies en gemeenten in het Vlaamse   Gewest;<BR>6° de openbare instellingen van de publiekrechtelijke rechtspersonen,   vermeld in punt 1° tot en met 5° ;<BR>7° erkende sociale   huisvestingsmaatschappijen als vermeld in artikel 40 van de Vlaamse Wooncode van   15 juli 1997;<BR>8° de coöperatieve vennootschap Vlaams Woningfonds van de grote   gezinnen;<BR>9° dienstverlenende en opdrachthoudende verenigingen als vermeld in   artikel 12, § 2, 2° en 3°, van het decreet van 6 juli 2001 houdende de   intergemeentelijke samenwerking;<BR>10° verenigingen zonder winstoogmerk,   ziekenfondsen en landsbonden van ziekenfondsen, beroepsverenigingen,   internationale verenigingen zonder winstoogmerk, private stichtingen en   stichtingen van openbaar nut;<BR>11° openbare centra voor maatschappelijk   welzijn.<BR><BR>Het verlaagde tarief, vermeld in het eerste lid, is ook van   toepassing op gelijksoortige rechtspersonen die opgericht zijn volgens en   onderworpen zijn aan de wetgeving van een andere staat van de Europese   Economische Ruimte, en die bovendien hun statutaire zetel, hun hoofdbestuur of   hun hoofdvestiging binnen de Europese Economische Ruimte hebben.
+In afwijking van artikel 2.7.4.1.1 bedraagt het tarief van de erfbelasting 8,5 % voor de legaten aan :<br>
+1° het Vlaamse Gewest en de Vlaamse Gemeenschap;<br>
+2° de Vlaamse, de Franse en de Gemeenschappelijke Gemeenschapscommissie;<br>
+3° de Franse en de Duitstalige Gemeenschap en aan het Waalse en het Brusselse Hoofdstedelijke Gewest;<br>
+4° een staat in de Europese Economische Ruimte;<br>
+5° de provincies en gemeenten in het Vlaamse Gewest;<br>
+6° de openbare instellingen van de publiekrechtelijke rechtspersonen, vermeld in punt 1° tot en met 5° ;<br>
+7° erkende sociale huisvestingsmaatschappijen als vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
+8° de coöperatieve vennootschap Vlaams Woningfonds van de grote gezinnen;<br>
+9° dienstverlenende en opdrachthoudende verenigingen als vermeld in artikel 12, § 2, 2° en 3°, van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br>
+10° verenigingen zonder winstoogmerk, ziekenfondsen en landsbonden van ziekenfondsen, beroepsverenigingen, internationale verenigingen zonder winstoogmerk, private stichtingen en stichtingen van openbaar nut;<br>
+11° openbare centra voor maatschappelijk welzijn.<br>
+<br>
+Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijksoortige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een andere staat van de Europese Economische Ruimte, en die bovendien hun statutaire zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.
 
 ### ART. 2.7.4.2.2.
 
@@ -3237,7 +3930,7 @@ Dat tarief is niet van toepassing op de schenkingen onder de levenden van roeren
 4° een staat van de Europese Economische Ruimte;<br>
 5° provincies en gemeenten in het Vlaamse Gewest;<br>
 6° de openbare instellingen van de publiekrechtelijke rechtspersonen, vermeld in de punt 1° tot en met 5° ;<br>
-7° erkende sociale huisvestingsmaatschappijen als vermeld in artikel 40 van de Vlaamse Wooncode;<br>
+7° erkende sociale huisvestingsmaatschappijen als vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
 8° de coöperatieve vennootschap Vlaams Woningfonds van de grote gezinnen;<br>
 9° dienstverlenende en opdrachthoudende verenigingen als vermeld in artikel 12, § 2, 2° en 3°, van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br>
 10° verenigingen zonder winstoogmerk, ziekenfondsen en landsbonden van ziekenfondsen, beroepsverenigingen, internationale verenigingen zonder winstoogmerk, private stichtingen en stichtingen van openbaar nut;<br>
@@ -3370,7 +4063,7 @@ TABEL II<br>
 <br>
 Het verschil tussen de schenkbelasting, berekend overeenkomstig de tabellen van artikel 2.8.4.1.1, § 1, en de schenkbelasting, berekend overeenkomstig de tabellen van het eerste lid, wordt teruggegeven overeenkomstig de bepalingen van artikel 3.6.0.0.6, § 1/1. Het abattement toegepast overeenkomstig artikel 2.8.3.0.4 en de vermindering verleend overeenkomstig artikel 2.8.5.0.1 blijft in dat geval behouden.<br>
 <br>
-§ 2. In afwijking van artikel 2.8.4.1.1, § 1, wordt de schenkbelasting voor schenkingen van onroerende goederen gelegen in het Vlaamse Gewest&nbsp;en gedaan met ingang van 1 juli 2015, berekend volgens het tarief, vermeld in paragraaf 1, op voorwaarde dat de begiftigden of een van hen, binnen een termijn van drie jaar vanaf de datum van de akte van schenking het conformiteitsattest, vermeld in titel III, hoofdstuk II, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, en een geregistreerde huurovereenkomst voor het geschonken goed met een minimumduur van negen jaar, beiden daterend van na de datum van de akte van schenking, voorlegt. Noch de schenker, noch de begiftigden of een van hen mogen in de geregistreerde huurovereenkomst als huurder optreden.<br>
+§ 2. In afwijking van artikel 2.8.4.1.1, § 1, wordt de schenkbelasting voor schenkingen van onroerende goederen gelegen in het Vlaamse Gewest&nbsp;en gedaan met ingang van 1 juli 2015, berekend volgens het tarief, vermeld in paragraaf 1, op voorwaarde dat de begiftigden of een van hen, binnen een termijn van drie jaar vanaf de datum van de akte van schenking het conformiteitsattest, vermeld in boek 3, deel 3, van de Vlaamse Codex Wonen van 2021, en een geregistreerde huurovereenkomst voor het geschonken goed met een minimumduur van negen jaar, beiden daterend van na de datum van de akte van schenking, voorlegt. Noch de schenker, noch de begiftigden of een van hen mogen in de geregistreerde huurovereenkomst als huurder optreden.<br>
 <br>
 Het verschil tussen de schenkbelasting, berekend overeenkomstig de tabellen van artikel 2.8.4.1.1, § 1, en de schenkbelasting, berekend overeenkomstig het eerste lid, wordt teruggegeven overeenkomstig de bepalingen van artikel 3.6.0.0.6, § 1/2. Het abattement toegepast overeenkomstig artikel 2.8.3.0.4 en de vermindering verleend overeenkomstig artikel 2.8.5.0.1 blijft in dat geval behouden.<br>
 <br>
@@ -3660,7 +4353,11 @@ Als een akte of geschrift, overeengekomen tussen dezelfde partijen,   verschille
 
 ### ART. 2.9.4.2.3.
 
-In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 1,50 % voor   verkoopovereenkomsten van woningen die gesloten zijn door de Vlaamse   Maatschappij voor Sociaal Wonen of door de erkende sociale   huisvestingsmaatschappijen, vermeld in artikel 40 van het decreet van 15 juli   1997 houdende de Vlaamse Wooncode, en voor kopers die voldoen aan de   voorwaarden, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 29   september 2006 betreffende de voorwaarden voor de overdracht van onroerende   goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale   huisvestingmaatschappijen ter uitvoering van de Vlaamse Wooncode.<BR><BR>Als na   de aankoop blijkt dat de kopers niet meer voldoen aan de voorwaarden, vermeld in   artikel 3 van het besluit van de Vlaamse Regering van 29 september 2006   betreffende de voorwaarden voor de overdracht van onroerende goederen door de   Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingmaatschappijen   ter uitvoering van de Vlaamse Wooncode, of aan de voorwaarden tot behoud of   bewoning, opgelegd door de Vlaamse Maatschappij voor Sociaal Wonen of door de   erkende sociale huisvestingsmaatschappijen, vermeld in artikel 40 van het   decreet van 15 juli 1997 houdende de Vlaamse Wooncode, zijn ze het verkooprecht,   vermeld in artikel 2.9.4.1.1, verschuldigd na aftrek van de reeds geheven   belasting.<BR><BR>Het verlaagde tarief, vermeld in het eerste lid, is ook van   toepassing op gelijksoortige rechtspersonen die opgericht zijn volgens en   onderworpen zijn aan de wetgeving van een staat van de Europese Economische   Ruimte, en die bovendien hun statutaire zetel, hun hoofdbestuur of hun   hoofdvestiging binnen de Europese Economische Ruimte hebben.
+In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 1,50 % voor verkoopovereenkomsten van woningen die gesloten zijn door de Vlaamse Maatschappij voor Sociaal Wonen of door de erkende sociale huisvestingsmaatschappijen, vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021, en voor kopers die voldoen aan de voorwaarden, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingmaatschappijen ter uitvoering van de Vlaamse Codex Wonen van 2021.<br>
+<br>
+Als na de aankoop blijkt dat de kopers niet meer voldoen aan de voorwaarden, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingmaatschappijen ter uitvoering van de Vlaamse Codex Wonen van 2021, of aan de voorwaarden tot behoud of bewoning, opgelegd door de Vlaamse Maatschappij voor Sociaal Wonen of door de erkende sociale huisvestingsmaatschappijen, vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021, zijn ze het verkooprecht, vermeld in artikel 2.9.4.1.1, verschuldigd na aftrek van de reeds geheven belasting.<br>
+<br>
+Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijksoortige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een staat van de Europese Economische Ruimte, en die bovendien hun statutaire zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.
 
 ### ART. 2.9.4.2.4.
 
@@ -3733,8 +4430,8 @@ De koper die de voorwaarden, vermeld in het eerste lid, 1° of 2°, niet is nage
 ### ART 2.9.4.2.12.
 
 § 1. Het verlaagde tarief, vermeld in artikel 2.9.4.2.11, wordt verminderd tot&nbsp;5 % als aan al de volgende voorwaarden is voldaan:<br>
-1° de verkrijger verbindt zich ertoe aan de aangekochte woning een ingrijpende energetische renovatie uit te voeren als vermeld in artikel 1.1.1, § 2, 50°, van het Energiebesluit van 19 november 2010;<br>
-2° de verkrijger moet binnen een termijn van vijf jaar vanaf de datum van de authentieke aankoopakte een energieprestatiecertificaat bouw als vermeld in artikel 9.2.11 van het Energiebesluit van 19 november 2010, bekomen waaruit blijkt dat de renovatiewerken die aan de aangekochte woning uitgevoerd zijn, betrekking hebben op werken als vermeld in punt 1° ;<br>
+1° de verkrijger verbindt zich ertoe aan de aangekochte woning een ingrijpende energetische renovatie uit te voeren als vermeld in artikel 1.1.1, § 2, 50°, van het Energiebesluit van 19 november 2010, een gedeeltelijke herbouw uit te voeren als vermeld in artikel 1.1.1, § 2, 46/2°, of een herbouw uit te voeren als vermeld in artikel 1.1.1, § 2, 47/2°, van het voormelde besluit;<br>
+2° de verkrijger moet binnen een termijn van vijf jaar vanaf de datum van de authentieke aankoopakte een energieprestatiecertificaat bouw als vermeld in artikel 9.2.11 van het Energiebesluit van 19 november 2010, bekomen waaruit blijkt dat de werken die aan de aangekochte woning uitgevoerd zijn, betrekking hebben op werken als vermeld in punt 1° ;<br>
 3° de verkrijger is op de datum van de authentieke aankoopakte niet voor de geheelheid volle eigenaar van een andere woning of bouwgrond. Als er verschillende verkrijgers zijn, zijn ze op de vermelde datum niet samen voor de geheelheid volle eigenaar van een andere woning of bouwgrond;<br>
 4° de verkrijger verbindt zich ertoe zijn inschrijving in het bevolkingsregister of het vreemdelingenregister te nemen op het adres van de aangekochte woning binnen vijf jaar na de datum van de authentieke aankoopakte;<br>
 5° de verplichting, vermeld in artikel 3.12.3.0.1, § 1, is nageleefd.<br>
@@ -3839,8 +4536,8 @@ b) de aanwijzing bij authentieke akte uiterlijk plaatsvindt op de vijfde werkdag
 3° de overeenkomsten tot overdracht van het vruchtgebruik op de blote eigenaar, als de evenredige registratiebelasting, de erfbelasting of een soortgelijk recht door de blote eigenaar of door een vorige blote eigenaar, zijn rechtsvoorganger, op de waarde van de volle eigendom is voldaan;<br>
 4° andere overdrachten onder bezwarende titel dan die welke aan de belasting, overeenkomstig artikel 115bis het federale Wetboek van Registratie-, Hypotheek- en Griffierechten onderworpen zijn, van gebouwen, gedeelten van gebouwen en het bijbehorende terrein, overeenkomstig artikel 1, § 9, van het Wetboek van de Belasting over de Toegevoegde Waarde, alsook de vestigingen, overdrachten of wederoverdrachten van de zakelijke rechten, overeenkomstig artikel 9, tweede lid, 2°, van het Wetboek van de Belasting over de Toegevoegde Waarde met betrekking tot gebouwen, gedeelten van gebouwen en het bijhorende terrein, overeenkomstig artikel 1, § 9, van het Wetboek van de Belasting over de Toegevoegde Waarde, op voorwaarde dat de belasting over de toegevoegde waarde opeisbaar is op de levering van die goederen of de vestiging, de overdracht of wederoverdracht van die rechten;<br>
 5° de contracten van onroerende financieringshuur, overeenkomstig artikel 44, § 3, 2°, b, van het Wetboek van de Belasting over de Toegevoegde Waarde;<br>
-6° de inbreng van goederen in&nbsp;Europese economische samenwerkingsverbanden;<br>
-7° de teruggave van de onroerende goederen aan de leden van een economisch samenwerkingsverband of van een Europees economisch samenwerkingsverband die de goederen hebben ingebracht door de ontbinding van het samenwerkingsverband of de uittreding van de leden.<br>
+6° ...;<br>
+7° ...<br>
 <br>
 Als aan de voorwaarden, vermeld in het eerste lid, 1°, niet is voldaan, wordt de aanwijzing van lastgever voor de toepassing van dit hoofdstuk als een wederverkoop beschouwd.<br>
 <br>
@@ -4368,9 +5065,11 @@ Als de combinatie, vermeld in het eerste lid, de aard vertoont van een competiti
 	</tbody>
 </table>
 <br>
-De tarieven, vermeld in het eerste lid, worden met ingang van 1 januari 2020 jaarlijks geïndexeerd met behulp van de coëfficiënt die wordt verkregen door het algemene indexcijfer van de consumptieprijzen van het Rijk, voor de maand november van het vorige jaar te delen door het algemene indexcijfer van de consumptieprijzen van het Rijk voor de maand november van het jaar 2018. Daarbij worden de volgende afrondingen toegepast:<br>
+Een vierde van de belasting, vermeld in het eerste lid, is verschuldigd voor elk kwartaal waarin een automatisch ontspanningstoestel is opgesteld.<br>
+<br>
+De tarieven, vermeld in het eerste lid, worden met ingang van 1 januari 2020 jaarlijks geïndexeerd met behulp van de coëfficiënt die wordt verkregen door het algemene indexcijfer van de consumptieprijzen van het Rijk, voor de maand oktober van het vorige jaar te delen door het algemene indexcijfer van de consumptieprijzen van het Rijk voor de maand oktober van het jaar 2018. Daarbij worden de volgende afrondingen toegepast:<br>
 1° de coëfficiënt wordt afgerond op het hogere of lagere tienduizendste naargelang het cijfer van de honderdduizendsten al of niet vijf bereikt;<br>
-2° na de toepassing van de coëfficiënt wordt het verkregen bedrag afgerond op de hogere of lagere eurocent naargelang het cijfer van het tiende van de eurocent al dan niet vijf bereikt.
+2° na de toepassing van de coëfficiënt wordt het verkregen bedrag afgerond op het dichtstbijzijnde veelvoud van 40 cent.
 
 ### ART 2.13.4.0.2.
 
@@ -4380,7 +5079,7 @@ De provincies en de gemeenten zijn niet gemachtigd tot het heffen van opcentieme
 
 ### ART 2.13.5.0.1.
 
-In afwijking van artikel 2.13.4.0.1, eerste lid, is drie vierde, de helft of een vierde van het jaarbedrag verschuldigd als de opstelling van het automatische ontspanningstoestel respectievelijk gebeurt in de loop van het tweede, het derde of het vierde kwartaal.
+...
 
 ### ART 2.13.5.0.2.
 
@@ -4792,9 +5491,9 @@ c) de klasse van de kansspelinrichting, vermeld in artikel 6 van de Kansspelwet 
 d) het aantal toestellen per categorie als vermeld in artikel 2.13.3.0.1, dat wordt opgesteld;<br>
 e) de periode van de opstelling per categorie als vermeld in artikel 2.13.3.0.1.<br>
 <br>
-De belastingplichtige geeft elke wijziging van de elementen van de aangifte, vermeld in het tweede lid, 2°, aan uiterlijk de voorlaatste werkdag voor hij de wijzigingen in de opstelling doorvoert. In afwijking daarvan wordt een wijziging van punt 2°, d) en e), alleen doorgegeven als daardoor het bedrag van de belasting, vermeld in artikel 2.13.4.0.1, eerste lid, toeneemt.<br>
+De belastingplichtige geeft elke wijziging van de elementen van de aangifte, vermeld in het tweede lid, 2°, aan uiterlijk de voorlaatste werkdag voor hij de wijzigingen in de opstelling doorvoert. In afwijking daarvan wordt een wijziging van punt 2°, d) en e), alleen doorgegeven als daardoor het bedrag van de belasting, vermeld in artikel 2.13.4.0.1, eerste en tweede lid, toeneemt.<br>
 <br>
-Bij gebrek aan andersluidende kennisgeving is de aangifte die ingediend is voor een jaar, geldig voor de volgende jaren.<br>
+Bij gebrek aan andersluidende kennisgeving is de aangifte die ingediend is voor een kwartaal, geldig voor de volgende kwartalen.<br>
 <br>
 De aangifteplicht die is bepaald in dit artikel geldt niet voor de opstelling van automatische ontspanningstoestellen, vermeld in artikel 2.13.3.0.1, § 2, eerste lid, 3° en 4°.
 
@@ -4825,10 +5524,10 @@ Het belastbare tijdperk is voor :<br>
 2° de verkeersbelasting voor de voertuigen, vermeld in artikel 2.2.2.0.1, § 2, eerste lid, gelijk aan elke periode van twaalf achtereenvolgende maanden, waarvan de eerste ingaat de eerste dag van de maand waarin het voertuig in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid is ingeschreven of moet worden ingeschreven;<br>
 3° de verkeersbelasting voor de voertuigen, vermeld in artikel 2.2.2.0.1, § 2, tweede lid, voor de eerste keer gelijk aan het aantal maanden dat begrepen is tussen de eerste dag van de maand waarin het voertuig in de loop van een burgerlijk jaar in gebruik is genomen op de openbare weg, en 31 december van hetzelfde jaar. Vervolgens is het gelijk aan elke periode van twaalf maanden die aanvangt op 1 januari van elk volgend kalenderjaar;<br>
 4° ...;<br>
-5° de heffing ongeschikte en onbewoonbare woningen gelijk aan de opeenvolgende periodes van twaalf maanden die volgen op de inventarisatiedatum, vermeld in artikel 24, 6°, van het decreet van 22 december 1995;<br>
+5° de heffing ongeschikte en onbewoonbare woningen gelijk aan de opeenvolgende periodes van twaalf maanden die volgen op de datum van de inventarisatie, vermeld in artikel 3.20 van de Vlaamse Codex Wonen van 2021;<br>
 6° de kilometerheffing gelijk aan de kalenderdag waarop de kilometers worden afgelegd op de niet-geconcedeerde weg;<br>
 7° de belasting op de spelen en weddenschappen gelijk aan het aanslagjaar;<br>
-8° de belasting op de automatische ontspanningstoestellen gelijk aan het aanslagjaar.</p>
+8° de belasting op de automatische ontspanningstoestellen gelijk aan het kwartaal waarin een automatisch ontspanningstoestel is opgesteld.</p>
 
 ## Afdeling 3 Aanslagtermijn
 
@@ -4975,7 +5674,7 @@ Als een voertuig in de loop van een aanslagjaar wordt afgevoerd van het   repert
 
 ### ART. 3.4.7.0.4.
 
-<P>Het eurovignet wordt terugbetaald voor de nog niet aangevangen volledige   maanden van het tijdvak waarvoor het eurovignet is betaald, na aftrek van een   bedrag van vijfentwintig euro voor administratiekosten.<BR></P>  <P>In geval van vervanging van een voertuig onder hetzelfde inschrijvingsnummer   wordt het eurovignet voor een jaar in mindering gebracht voor de volledige   maanden die nog niet aangevangen zijn van de periode waarvoor het eurovignet   voor een jaar door de belastingplichtige verschuldigd is voor het vervangende   voertuig, na aftrek van een bedrag van vijfentwintig euro voor   administratiekosten.<BR></P>
+...
 
 ### ART. 3.4.7.0.5.
 
@@ -4987,9 +5686,7 @@ Inzake de registratiebelasting worden de aanvullende rechten die ingevolge   een
 
 ### ART 3.4.7.0.7.
 
-Als een automatisch ontspanningstoestel in de loop van een aanslagjaar niet meer wordt opgesteld, wordt de betaalde belasting op de automatische ontspanningstoestellen op aanvraag van de belastingplichtige teruggegeven in verhouding tot de nog niet aangevangen kwartalen.<br>
-<br>
-De aanvraag, vermeld in het eerste lid, wordt ingediend bij het bevoegde personeelslid uiterlijk de laatste dag van het kwartaal waarin het toestel wordt opgesteld.
+...
 
 ## Afdeling 8 Betalingsfaciliteiten
 
@@ -5049,7 +5746,7 @@ De belastingschuldige die om om het even welke vrijstelling of   vermindering ve
 
 ### ART. 3.5.3.0.4.
 
-Als de belastingschuldige beroep kon aantekenen met toepassing van artikel 28 van het decreet van 22 december 1995, of beroep kon aantekenen met toepassing van artikel 7 van het decreet van 19 april 1995, kan hij bij zijn bezwaar tegen de belasting de opname in de inventaris niet meer betwisten.
+Als de belastingschuldige beroep kon aantekenen met toepassing van artikel 3.21 van de Vlaamse Codex Wonen van 2021, of beroep kon aantekenen met toepassing van artikel 7 van het decreet van 19 april 1995, kan hij bij zijn bezwaar tegen de belasting de opname in de inventaris niet meer betwisten.
 
 ## Afdeling 4 Onderzoeksbevoegdheden
 
@@ -5226,7 +5923,13 @@ De openbare of ministeriële ambtenaren en officieren die, krachtens de   bepali
 
 ### ART. 3.9.1.0.1.
 
-<P>§ 1. Bij wanbetaling binnen de termijnen, vermeld in hoofdstuk 4, afdeling 2,   brengen de verschuldigde sommen ten bate van het Vlaamse Gewest, voor de duur   van het verwijl, een interest van 7 % op jaarbasis op, berekend per   kalendermaand.<BR></P>  <P>Die interest wordt voor elke aanslag per kalendermaand berekend op de nog   verschuldigde som, afgerond op het lagere veelvoud van tien euro, hetzij vanaf   de eerste dag van de maand die volgt op de vervaldag, hetzij vanaf de eerste dag   van de maand die volgt op de vorige betaling als een som is aangerekend op de   hoofdsom van de schuld, tot op de laatste dag van de maand waarin de betaling   plaatsvindt.<BR></P>  <P>De nalatigheidsinterest is niet verschuldigd als hij geen vijf euro per maand   bedraagt.<BR></P>  <P>§ 2. Als de kennisgeving van de beslissing, vermeld in artikel 3.5.6.0.1,   eerste lid, niet plaatsvindt binnen zes maanden na de datum van de ontvangst van   het bezwaarschrift, is de nalatigheidsinterest, vermeld in paragraaf 1, niet   verschuldigd voor het betwiste gedeelte van de aanslag gedurende het tijdperk   dat begint op de eerste dag van de maand die volgt op de maand waarin de termijn   van zes maanden verstrijkt en dat afloopt op het einde van de maand waarin een   vordering conform artikel 1385undecies van het Gerechtelijk Wetboek wordt   ingesteld en, bij ontstentenis van een dergelijke vordering, op het einde van de   maand waarin de voormelde beslissing is meegedeeld.<BR></P>
+<p>§ 1. Bij wanbetaling binnen de termijnen, vermeld in hoofdstuk 4, afdeling 2, brengen de verschuldigde sommen ten bate van het Vlaamse Gewest, voor de duur van het verwijl, een interest van 4&nbsp;% op jaarbasis op, berekend per kalendermaand.</p>
+
+<p>Die interest wordt voor elke aanslag per kalendermaand berekend op de nog verschuldigde som, afgerond op het lagere veelvoud van tien euro, hetzij vanaf de eerste dag van de maand die volgt op de vervaldag, hetzij vanaf de eerste dag van de maand die volgt op de vorige betaling als een som is aangerekend op de hoofdsom van de schuld, tot op de laatste dag van de maand waarin de betaling plaatsvindt.</p>
+
+<p>De nalatigheidsinterest is niet verschuldigd als hij geen vijf euro per maand bedraagt.</p>
+
+<p>§ 2. Als de kennisgeving van de beslissing, vermeld in artikel 3.5.6.0.1, eerste lid, niet plaatsvindt binnen zes maanden na de datum van de ontvangst van het bezwaarschrift, is de nalatigheidsinterest, vermeld in paragraaf 1, niet verschuldigd voor het betwiste gedeelte van de aanslag gedurende het tijdperk dat begint op de eerste dag van de maand die volgt op de maand waarin de termijn van zes maanden verstrijkt en dat afloopt op het einde van de maand waarin een vordering conform artikel 1385undecies van het Gerechtelijk Wetboek wordt ingesteld en, bij ontstentenis van een dergelijke vordering, op het einde van de maand waarin de voormelde beslissing is meegedeeld.</p>
 
 ### ART. 3.9.1.0.2.
 
@@ -5240,7 +5943,7 @@ De rechtspersoon die inzake de erfbelasting de schorsing, vermeld in   artikel 3
 
 ### ART. 3.9.2.0.1.
 
-<p>Bij terugbetaling van belastingen, nalatigheidsinteresten, belastingverhogingen of administratieve geldboeten wordt moratoriuminterest toegekend tegen een rentevoet van 7 % op jaarbasis, berekend per kalendermaand.</p>
+<p>Bij terugbetaling van belastingen, nalatigheidsinteresten, belastingverhogingen of administratieve geldboeten wordt moratoriuminterest toegekend tegen een rentevoet van 4 % op jaarbasis, berekend per kalendermaand.</p>
 
 <p>Die interest wordt voor elke aanslag per kalendermaand berekend op het bedrag van elke betaling, afgerond op het lagere veelvoud van tien euro. De maand waarin de betaling is uitgevoerd, wordt niet meegerekend, maar de maand waarin aan de belastingschuldige het bericht wordt gestuurd dat de terug te betalen som ter beschikking is, wordt voor een hele maand geteld.</p>
 
@@ -5758,9 +6461,7 @@ Dit artikel is niet van toepassing in geval van bijvoeging of van neerlegging, i
 
 ### ART 3.12.4.0.1.
 
-De invoerder, de fabrikant of al wie rechtstreeks of onrechtstreeks als dusdanig optreedt, geeft voor de rangschikking, vermeld in artikel 2.13.3.0.1, elk model van automatisch ontspanningstoestel aan vooraleer hij in het Vlaamse Gewest opstelt, verkoopt of verhuurt. Als een toestel niet wordt aangegeven, wordt het toestel ambtshalve gerangschikt in categorie A.<br>
-<br>
-Als de invoerder, de fabrikant of al wie rechtstreeks of onrechtstreeks als dusdanig optreedt, geen aangifte tot rangschikking indient bij de federale belastingdiensten, dient hij een aangifte tot rangschikking in bij de bevoegde entiteit van de Vlaamse administratie. Indien een aangifte tot rangschikking wordt ingediend bij de federale belastingdiensten, aanvaardt de bevoegde entiteit van de Vlaamse administratie de genomen beslissing tot rangschikking voor de toepassing van artikel 2.13.4.0.1.
+De invoerder, de fabrikant of al wie rechtstreeks of onrechtstreeks als dusdanig optreedt, geeft voor de rangschikking, vermeld in artikel 2.13.3.0.1, § 2, elk model van automatisch ontspanningstoestel aan bij de bevoegde entiteit van de Vlaamse administratie voor hij in het Vlaamse Gewest opstelt, verkoopt of verhuurt. Als een toestel niet wordt aangegeven, wordt het toestel ambtshalve gerangschikt in categorie A, vermeld in artikel 2.13.3.0.1, § 2, eerste lid, 1°
 
 ## [Afdeling [5 (verv. decr. 20 november 2020, art. 8)][. Verplichtingen in het kader van de burgerlijke vordering (ing. Decr. 21 december 2018, art. 47, I: 7 januari 2019)]
 
@@ -6250,11 +6951,98 @@ Iedere persoon die een overtreding van de bepalingen van deze codex   betreffend
 
 ### ART. 3.18.0.0.7.
 
-De erfgenaam, legataris of begiftigde die niet alle goederen heeft   aangegeven overeenkomstig de bepalingen van artikel 3.3.1.0.8, betaalt een   belastingverhoging die gelijk is aan 20 % van de daardoor verschuldigde   aanvullende rechten.<BR><BR>De belastingverhoging, vermeld in het eerste lid,   wordt verminderd tot 10 % van de erdoor verschuldigde aanvullende rechten als   een erfgenaam, legataris of begiftigde uit eigen beweging, en binnen tien   maanden na hetzij het overlijden, hetzij de start van de aangiftetermijn zoals   berekend overeenkomstig artikel 3.3.1.0.6, derde of vierde lid, een goed dat in   afwijking van artikel 3.3.1.0.8 niet was opgenomen in de aangifte, alsnog   aangeeft.
+De erfgenaam, legataris of begiftigde die niet alle goederen heeft aangegeven overeenkomstig de bepalingen van artikel 3.3.1.0.8, betaalt een belastingverhoging die gelijk is aan 20 % van de daardoor verschuldigde aanvullende rechten.<br>
+<br>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">De belastingverhoging, vermeld in het eerste lid, wordt vervangen door een belastingverhoging conform de onderstaande tabel als een erfgenaam, legataris of begiftigde uit eigen beweging, een goed dat in afwijking van artikel 3.3.1.0.8 niet was opgenomen in de aangifte, alsnog aangeeft:</span></span></span>
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td colspan="2">ogenblik van indiening na het verstrijken van de aangiftetermijn, vermeld in artikel 3.3.1.0.5, § 2, VCF of artikel 3.3.1.0.6 VCF</td>
+			<td rowspan="2">belastingverhoging in % van de te betalen erfbelasting</td>
+		</tr>
+		<tr>
+			<td>vanaf de eerste dag van</td>
+			<td>tot en met de laatste dag van</td>
+		</tr>
+		<tr>
+			<td>maand 1</td>
+			<td>maand 1</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>maand 2</td>
+			<td>maand 2</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>maand 3</td>
+			<td>maand 3</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>maand 4</td>
+			<td>maand 4</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>maand 5</td>
+			<td>maand 5</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td>maand 6</td>
+			<td>maand 6</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>maand 7</td>
+			<td>maand 10</td>
+			<td>10</td>
+		</tr>
+	</tbody>
+</table>
 
 ### ART. 3.18.0.0.8.
 
-<P>Als wordt vastgesteld dat de aangegeven waarde van de aangegeven goederen te   laag is, is een belastingverhoging verschuldigd, conform de onderstaande tabel   :<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD colSpan=2 align=center>verhouding van het tekort in %<BR>ten opzichte         van de aangegeven waarde van het goed       <TD rowSpan=2>belastingverhoging in % van de aanvullende rechten<BR>    <TR>      <TD>Vanaf       <TD>tot<BR>    <TR>      <TD>10       <TD>25       <TD>5<BR>    <TR>      <TD>25       <TD>50       <TD>10<BR>    <TR>      <TD>50       <TD>100       <TD>15<BR>    <TR>      <TD>100       <TD>&nbsp;       <TD>&nbsp;20<BR></TD></TR></TBODY></TABLE><BR>In afwijking van het eerste lid,   wordt de belastingverhoging in voorkomend geval verminderd tot 10 % van de   erdoor verschuldigde aanvullende rechten als een erfgenaam, legataris of   begiftigde uit eigen beweging, en binnen tien maanden na hetzij het overlijden,   hetzij de start van de aangiftetermijn zoals berekend overeenkomstig artikel   3.3.1.0.6, derde of vierde lid, voor een goed dat in afwijking van artikel   3.3.1.0.8 voor een te lage waarde was opgenomen in de aangifte, alsnog een   hogere waarde aangeeft.</P>
+<p>Als wordt vastgesteld dat de aangegeven waarde van de aangegeven goederen te laag is, is een belastingverhoging verschuldigd, conform de onderstaande tabel :</p>
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td colspan="2">verhouding van het tekort in %<br>
+			ten opzichte van de aangegeven waarde van het goed</td>
+			<td rowspan="2">belastingverhoging in % van de aanvullende rechten</td>
+		</tr>
+		<tr>
+			<td>Vanaf</td>
+			<td>tot</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>25</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td>25</td>
+			<td>50</td>
+			<td>10</td>
+		</tr>
+		<tr>
+			<td>50</td>
+			<td>100</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>100</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;20</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+In afwijking van het eerste lid, wordt de belastingverhoging verminderd tot de helft van het percentage van de verschuldigde aanvullende rechten, vermeld in het eerste lid, als een erfgenaam, legataris of begiftigde uit eigen beweging, en binnen tien maanden na hetzij het overlijden, hetzij de start van de aangiftetermijn zoals berekend overeenkomstig artikel 3.3.1.0.6, derde of vierde lid, voor een goed dat in afwijking van artikel 3.3.1.0.8 voor een te lage waarde was opgenomen in de aangifte, alsnog een hogere waarde aangeeft.
+<p>&nbsp;</p>
 
 ### ART. 3.18.0.0.9.
 
@@ -6325,9 +7113,9 @@ In afwijking van het eerste lid bedraagt de belastingverhoging 100% als de overt
 
 ### ART 3.18.0.0.15/2.
 
-In geval van een ambtshalve aanslag als vermeld in artikel 2.13.7.0.1, is een belastingverhoging per automatisch ontspanningstoestel verschuldigd van 20% van de belasting op de automatische ontspanningstoestellen voor een kalenderjaar, vermeld in artikel 2.13.4.0.1.<br>
+In geval van een ambtshalve aanslag als vermeld in artikel 2.13.7.0.1, is een belastingverhoging per automatisch ontspanningstoestel verschuldigd van 20% van de verschuldigde belasting, met een minimum van 50 euro per aanslag.<br>
 <br>
-In afwijking van het eerste lid bedraagt de belastingverhoging 100% als de overtredingen zijn gepleegd met de bedoeling de belasting te ontduiken of de vestiging ervan onmogelijk te maken, of indien het gaat om een verboden automatisch ontspanningstoestel als bedoeld in artikel 2.13.7.0.2.
+In afwijking van het eerste lid bedraagt de belastingverhoging 100%, met een minimum van 100 euro per aanslag, als de overtredingen zijn gepleegd met de bedoeling de belasting te ontduiken of de vestiging ervan onmogelijk te maken, of indien het gaat om een verboden automatisch ontspanningstoestel als bedoeld in artikel 2.13.7.0.2.
 
 ### ART. 3.18.0.0.16.
 
