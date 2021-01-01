@@ -76,6 +76,11 @@ In artikel 478, § 3, eerste lid, 2°, van hetzelfde besluit worden tussen de zi
 Aan artikel 497, § 2, derde lid, van hetzelfde besluit wordt de volgende zin toegevoegd:<br>
 "De minister kan ook bijkomende regels vaststellen over de duur van de erkenning en de weigering, wijziging of intrekking van de erkenning.".
 
+### ART 19.
+
+In artikel 498, § 2, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 december 2018, wordt punt 3° vervangen door wat volgt:<br>
+"3° geen financiering hebben ontvangen voor een referentiepersoon dementie op basis van de sociale akkoorden van 2011 en 2013 met betrekking tot de jobcreatie voor de referentieperiode van 1 juli 2016 tot en met 30 juni 2017;".
+
 ### ART 24.
 
 Aan artikel 507 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 28 juni 2019, wordt een derde lid toegevoegd, dat luidt als volgt:<br>

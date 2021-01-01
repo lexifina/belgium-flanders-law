@@ -2,16 +2,16 @@
   "codex_id": 1035092,
   "title": "Besluit van de Vlaamse Regering van 2020-12-04 tot wijziging van artikel 1 en bepalingen in boek 3 en boek 5 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035092/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "b04a4e8dae337196a2a9a9240191be953d4c795ef85c34bac397e44dc4aca47c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035092/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "8c203dfc7be67cb2e4a175cfe9ccbf573653a416ea49b34a2330cd9cfc0b8b6d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035092&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2021-01-01",
   "made": "2020-12-04",
   "gazette": "2021-01-21",
   "numac": 2021020036,
   "document_start": "2021-01-31",
   "document_end": null,
-  "in_force": "2020-01-01",
-  "article_versions": 19,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-01-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
