@@ -6,7 +6,22 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder :<br />1° administratie : de administratieve entiteit van de Vlaamse administratieve diensten die verantwoordelijk is voor de uitvoering van het jeugdbeleid, zoals bedoeld in artikel 4, 7°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br />2° adviescommissie : een door de Vlaamse Regering opgerichte commissie die adviseert over individuele subsidieaanvragen;<br />3° gelijkekansenbeleid : beleid dat er op gericht is belemmeringen op te heffen die verbonden zijn aan sekse, handicap, afkomst, sociaal-economische positie en leeftijd, om deel te nemen aan het economische, politieke en sociale leven;<br />4° gezondheidsindex : het prijsindexcijfer dat berekend wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994;<br />5° jeugd : personen tot en met dertig jaar, of een deel van die bevolkingsgroep;<br />6° jeugd- en kinderrechtenbeleid : de integrale en geïntegreerde visie en de daarop gebaseerde systematische en planmatige maatregelen van een overheid die een waarneembaar effect beogen op de jeugd, met bijzondere aandacht voor de rechten van het kind, als ethisch en wettelijk kader;<br />7° jeugdsector : de op basis van dit decreet gesubsidieerde verenigingen;<br />8° jeugdwerk : sociaal-cultureel werk op basis van niet-commerciële doelen voor of door de jeugd van drie tot en met dertig jaar, in de vrije tijd, onder educatieve begeleiding en ter bevordering van de algemene en integrale ontwikkeling van de jeugd die daaraan deelneemt op vrijwillige basis;<br />9° jeugdwerker : elke persoon die verantwoordelijkheid op zich neemt in jeugdwerk en aantoonbare ervaring heeft, of inspanningen levert op het vlak van scholing of vorming met betrekking tot jeugdwerk;<br />10° projectsubsidie : een subsidie die toegekend wordt ter ondersteuning van een initiatief dat zowel qua opzet of doelstelling als in de tijd is afgebakend;<br />11° rechten van het kind : de rechten van het kind, vermeld in de bepalingen en beginselen van het Verdrag inzake de Rechten van het Kind, aangenomen in New York op 20 november 1989, en in de bijbehorende facultatieve protocollen, zoals goedgekeurd door het Vlaams Parlement;<br />12° vereniging zonder winstoogmerk : een vereniging die is opgericht overeenkomstig de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen;<br />13° werkingssubsidie : een subsidie die toegekend wordt ter ondersteuning van de personeels- en werkingskosten die voortvloeien uit een structurele werking die een continu en permanent karakter vertoont.
+In dit decreet wordt verstaan onder :<br>
+1° administratie : de administratieve entiteit van de Vlaamse administratieve diensten die verantwoordelijk is voor de uitvoering van het jeugdbeleid, zoals bedoeld in artikel 4, 7°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
+1° /1 aanspreekpunt integriteit (API): persoon of personen die het aanspreekpunt vormen voor gevallen van grensoverschrijdend gedrag waarbij de individuele fysieke, psychische en seksuele integriteit van personen wordt geschaad. Het aanspreekpunt integriteit is belast met de eerste opvang en doorverwijzing, en zorgt voor de coördinatie van interne procedures ter bevordering van de integriteit van personen. Het aanspreekpunt integriteit is belast met de preventie en ondersteuning, en moet vormen van grensoverschrijdend gedrag tegengaan;<br>
+2° adviescommissie : een door de Vlaamse Regering opgerichte commissie die adviseert over individuele subsidieaanvragen;<br>
+3° gelijkekansenbeleid : beleid dat er op gericht is belemmeringen op te heffen die verbonden zijn aan sekse, handicap, afkomst, sociaal-economische positie en leeftijd, om deel te nemen aan het economische, politieke en sociale leven;<br>
+4° gezondheidsindex : het prijsindexcijfer dat berekend wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994;<br>
+4° /1 integriteitsbeleid: een beleid met maatregelen die de organisatie in acht moet nemen met het oog op de bewaring en de bevordering van de individuele fysieke, psychische en seksuele integriteit van personen;<br>
+5° jeugd : personen tot en met dertig jaar, of een deel van die bevolkingsgroep;<br>
+6° jeugd- en kinderrechtenbeleid : de integrale en geïntegreerde visie en de daarop gebaseerde systematische en planmatige maatregelen van een overheid die een waarneembaar effect beogen op de jeugd, met bijzondere aandacht voor de rechten van het kind, als ethisch en wettelijk kader;<br>
+7° jeugdsector : de op basis van dit decreet gesubsidieerde verenigingen;<br>
+8° jeugdwerk : sociaal-cultureel werk op basis van niet-commerciële doelen voor of door de jeugd van drie tot en met dertig jaar, in de vrije tijd, onder educatieve begeleiding en ter bevordering van de algemene en integrale ontwikkeling van de jeugd die daaraan deelneemt op vrijwillige basis;<br>
+9° jeugdwerker : elke persoon die verantwoordelijkheid op zich neemt in jeugdwerk en aantoonbare ervaring heeft, of inspanningen levert op het vlak van scholing of vorming met betrekking tot jeugdwerk;<br>
+10° projectsubsidie : een subsidie die toegekend wordt ter ondersteuning van een initiatief dat zowel qua opzet of doelstelling als in de tijd is afgebakend;<br>
+11° rechten van het kind : de rechten van het kind, vermeld in de bepalingen en beginselen van het Verdrag inzake de Rechten van het Kind, aangenomen in New York op 20 november 1989, en in de bijbehorende facultatieve protocollen, zoals goedgekeurd door het Vlaams Parlement;<br>
+12° vereniging zonder winstoogmerk : een vereniging die is opgericht overeenkomstig de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen;<br>
+13° werkingssubsidie : een subsidie die toegekend wordt ter ondersteuning van de personeels- en werkingskosten die voortvloeien uit een structurele werking die een continu en permanent karakter vertoont.
 
 ### ART. 3.
 
@@ -394,6 +409,81 @@ De vereniging stuurt na afloop van het project een financieel en werkingsverslag
 Enkel kosten die gemaakt zijn in de looptijd van het project komen in aanmerking. Als de nettokosten, dat zijn de aangetoonde kosten, verminderd met de uit de realisatie van het project of product voortvloeiende inkomsten, minder bedragen dan de ontvangen subsidie, wordt het verschil teruggevorderd.<br>
 <br>
 De Vlaamse Regering kan de nadere regels bepalen.
+
+### ART. 17.
+
+§ 1. Om te worden gesubsidieerd in het kader van dit decreet moet de begunstigde :<br>
+1° een vereniging zonder winstoogmerk zijn;<br>
+2° in zijn werking de principes en de regels van de democratie aanvaarden en ook de rechten van het kind en het Europees Verdrag tot bescherming van de Rechten van de Mens en de fundamentele vrijheden onderschrijven en uitdragen;<br>
+3° zijn zetel hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br>
+4° ervoor zorgen dat alle gegevens die verband houden met de erkennings- en subsidiëringsvoorwaarden op de zetel voorhanden zijn in het Nederlands en die ter beschikking stellen voor onderzoek door de administratie;<br>
+5° de bevoegdheden die wettelijk toekomen aan de algemene vergadering of aan de raad van bestuur, niet overdragen aan een derde;<br>
+6° op zelfstandige wijze de financiën beheren en het eigen beleid bepalen, wat blijkt uit het feit dat de vereniging :<br>
+a) over een eigen secretariaat beschikt dat duidelijk kan worden onderscheiden van elke andere rechtspersoon; het secretariaat van de vereniging is ondergebracht op de zetel van de vereniging;<br>
+b) werkgever en opdrachtgever is van haar personeel;<br>
+c) de programmering van de vereniging bepaalt en uitvoert;<br>
+d) over een eigen post- of bankrekening beschikt;<br>
+e) activiteiten organiseert of diensten verleent in eigen naam.<br>
+<br>
+Vanaf het ogenblik dat hij erkend wordt of een belofte van subsidiëring ontvangt, moet elke begunstigde ook :<br>
+1° meewerken aan onderzoek dat door of namens de Vlaamse Regering wordt georganiseerd met het oog op het voeren van een jeugd- en kinderrechtenbeleid;<br>
+2° het logo van de Vlaamse Gemeenschap opnemen op alle informatiedragers die betrekking hebben op initiatieven die gesubsidieerd worden in het kader van dit decreet;<br>
+3° een financieel verslag en een werkingsverslag indienen, goedgekeurd door de algemene vergadering van de vereniging;<br>
+4° een boekhouding voeren en die zo organiseren dat de aanwending van de subsidies op elk ogenblik financieel kan worden gecontroleerd;<br>
+5° toestaan dat de administratie en het Rekenhof de werking en de boekhouding, zo nodig ter plaatse, onderzoeken.<br>
+<br>
+Om in het kader van dit decreet een werkingssubsidie te ontvangen moet de begunstigde bovendien:<br>
+1° een integriteitsbeleid voeren. De Vlaamse Regering bepaalt de nadere voorwaarden voor het voeren van dat integriteitsbeleid;<br>
+2° een aanspreekpunt integriteit organiseren. De Vlaamse Regering bepaalt wat het uitvoeren van de taken van het aanspreekpunt integriteit inhoudt en stelt de wijze vast waarop de organisatie aantoont hoe deze taken worden uitgevoerd.<br>
+<br>
+De verenigingen die op basis van dit decreet een werkingssubsidie ontvangen, die nen jaarlijks, samen met het financiële verslag, bij de administratie een verslag in van een bedrijfsrevisor die lid is van het Instituut van de Bedrijfsrevisoren of van een extern accountant die geen andere opdrachten vervult voor de vereniging. De Vlaamse Regering bepaalt de datum van indiening en de vormvereisten.<br>
+<br>
+In afwijking van § 1, 1°, komen voor de toekenning van subsidies zoals bedoeld in artikel 16, § 3, eerste lid, 4°, in aanmerking:<br>
+1° feitelijke verenigingen;<br>
+2° privaatrechtelijke rechtspersonen met een niet-commercieel karakter;<br>
+3° intergemeentelijke projectverenigingen.<br>
+<br>
+§ 2. Om de hoogte van de subsidiebedragen voor de verenigingen, vermeld in artikel 8, te bepalen, om de hoogte van de variabele subsidies, vermeld in artikel 13, te bepalen en om de hoogte van de projectsubsidies, vermeld in artikel 16, te bepalen, worden, rekening houdend met de specificiteit van de organisatie, de volgende beoordelingscriteria gehanteerd, als die relevant zijn voor de beoordeling van de gesubsidieerde initiatieven :<br>
+1° profilering en positionering;<br>
+2° langetermijnvisie;<br>
+3° inhoudelijk concept en concrete uitwerking;<br>
+4° samenwerking en netwerking met andere actoren in binnen- of buitenland;<br>
+5° haalbaarheid;<br>
+6° bereik;<br>
+7° gelijkekansenbeleid;<br>
+8° financiële onderbouw van de werking;<br>
+9° transparantie die wordt verschaft over de relatie van de initiatieven van de vereniging die voor subsidiëring worden voorgesteld enerzijds met andere initiatieven van deze vereniging anderzijds, en de wijze waarop die initiatieven gefinancierd worden;<br>
+10° het onderschrijven en uitdragen van de rechten van het kind.<br>
+<br>
+Als de vereniging al eerder op basis van het decreet gesubsidieerd werd, wordt ook rekening gehouden met de wijze waarop de vereniging invulling heeft gegeven aan haar verplichtingen.<br>
+<br>
+Ter aanvulling van de genoemde beoordelingscriteria mag de Vlaamse Regering aanvullende beoordelingscriteria bepalen. De lijst van aanvullende criteria moet uiterlijk zes maanden voor de uiterste indieningsdatum van de aanvraag tot subsidiëring kenbaar gemaakt worden.<br>
+<br>
+§ 3. Met het oog op de advisering inzake de toekenning van variabele subsidies aan de verenigingen, vermeld in artikelen 9, 10 en 11, en de toekenning van projectsubsidies, vermeld in artikel 16, paragrafen 2 en 3, stelt de Vlaamse Regering een of meer adviescommissies samen met personen die aanwijsbaar over de nodige expertise beschikken.<br>
+<br>
+Een adviescommissie kan alle initiatieven nemen die ze nodig acht. Ze kan onder meer de organisatie die de aanvraag tot subsidiëring heeft ingediend horen, deskundigen horen, aanvullende documenten en gegevens opvragen en een bezoek ter plaatse brengen of aan de administratie vragen een onderzoek ter plaatse uit te voeren.<br>
+<br>
+De leden van een adviescommissie ontvangen een vergoeding voor hun werkzaamheden en verplaatsingen. De Vlaamse Regering bepaalt de nadere modaliteiten van deze vergoedingen.<br>
+<br>
+Het lidmaatschap van een adviescommissie is niet verenigbaar met de hoedanigheid van lid van de jeugdraad, personeelslid of lid van de raad van bestuur van de vereniging, vermeld in artikel 8, paragraaf 1, of de hoedanigheid van personeelslid of lid van de raad van bestuur van een organisatie waarvan de beleidsnota of de subsidieaanvraag moet worden behandeld door de adviescommissie. Een lid van een adviescommissie wordt aangesteld voor een termijn van vier jaar. Dat mandaat kan slechts eenmaal verlengd worden. Het lidmaatschap van dezelfde commissie kan maximaal acht jaar bedragen.<br>
+<br>
+De adviescommissies worden bijgestaan door de administratie.<br>
+<br>
+§ 4. Een vereniging die op basis van dit decreet een werkingssubsidie ontvangt, kan gedurende de periode waarin die vereniging haar beleidsnota uitvoert, onbeperkt een reserve aanleggen met eigen inkomsten en subsidies.<br>
+<br>
+Als reserve moet het resultaat beschouwd worden van de optelling van rekening 13, bestemde fondsen, en rekening 14, overgedragen resultaat, van de balans, zoals omschreven in de minimumindeling van het algemeen rekeningenstelsel, als bijlage gevoegd bij het koninklijk besluit van 19 december 2003 betreffende de boekhoudkundige verplichtingen en de openbaarmaking van de jaarrekening van bepaalde verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk en stichtingen.<br>
+<br>
+Als de vereniging op het einde van de beleidsperiode nog beschikt over een reserve, dan kan ze die reserve overdragen naar de volgende beleidsperiode op voorwaarde dat, ten opzichte van de bestaande reserve bij het begin van de beleidsperiode, de aangroei niet meer bedraagt dan twintig percent van de gemiddelde jaarlijkse kosten berekend over de beleidsperiode. De Vlaamse Regering kan een afwijking toestaan van het bepaalde percentage, op voorwaarde dat de vereniging daartoe aan de administratie een gemotiveerd bestedingsplan bezorgt voor de te veel opgebouwde reserve of voor de gehele reserve.<br>
+<br>
+Als bij de afrekening van het laatste werkingsjaar van de beleidsperiode de aangroei van de reserve meer bedraagt dan hetgeen bepaald werd in het derde lid, dan wordt het teveel ingehouden op het nog uit te keren saldo van de werkingssubsidie en wordt het eventueel daarna nog resterende bedrag in mindering gebracht op de subsidies van de volgende beleidsperiode, tot maximaal het bedrag van de werkingssubsidie die toegekend is voor het laatste jaar voorafgaand aan de nieuwe beleidsperiode.<br>
+<br>
+Als aan de vereniging na afloop van de beleidsperiode waarop de beleidsnota betrekking heeft, geen werkingssubsidie meer wordt verleend, dan is de vereniging verplicht een gemotiveerd bestedingsplan voor alle reserves die op basis van dit artikel werden aangelegd, in te dienen bij de administratie. Die reserves moeten, in voorkomend geval, prioritair aangewend worden om te voldoen aan de arbeidsrechtelijke verplichtingen.<br>
+<br>
+De regeling voor reserves is ook van toepassing op de verenigingen die op basis van dit decreet een werkingssubsidie ontvangen, maar geen beleidsnota indienen, met dien verstande dat voor die verenigingen de beleidsperiode de periode van vier jaar is vanaf het eerste jaar van subsidiëring op basis van dit decreet, en daarna elke volgende periode van vier jaar.<br>
+<br>
+§ 5.&nbsp;De&nbsp;verenigingen waarvan werd vastgesteld dat zij aan alle voorwaarden voldoen voor de toekenning van een werkingssubsidie, ontvangen per kwartaal een voorschot van 22,5 percent van het subsidiebedrag dat voor dat jaar toegekend wordt.<br>
+<br>
+Het saldo wordt uitbetaald voor 1 juli van het volgende jaar.
 
 ### ART. 17/1.
 
