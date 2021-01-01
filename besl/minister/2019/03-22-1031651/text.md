@@ -105,13 +105,13 @@ De jaarlijkse rapportage, vermeld in artikel 39 en 54 van het besluit van 28 maa
 
 Om het subsidiebedrag, vermeld in artikel 61 van het besluit van 28 maart 2014, voor elk erkend en gesubsidieerd gezinsondersteunend aanbod ter preventie van vrouwelijke genitale verminking en gedwongen huwelijken vast te stellen, wordt een vast bedrag vermeerderd met een variabel bedrag.<br>
 <br>
-Het vaste bedrag, vermeld in het eerste lid, bedraagt voor een gezinsondersteunend aanbod ter preventie van vrouwelijke genitale verminking en gedwongen huwelijken 15.142,89 euro (vijftienduizend honderdtweeënveertig euro negenentachtig cent).<br>
+Het vaste bedrag, vermeld in het eerste lid, bedraagt voor een gezinsondersteunend aanbod ter preventie van vrouwelijke genitale verminking en gedwongen huwelijken 17.127,72 euro (zeventienduizend honderdzevenentwintig euro tweeënzeventig cent).<br>
 <br>
 Om het variabele bedrag, vermeld in het eerste lid, te berekenen, geldt een basisbedrag dat bestaat uit het aantal minderjarigen in het werkingsgebied, vermenigvuldigd met 0,02 euro (twee cent). Het basisbedrag wordt vermeerderd met het bedrag dat verkregen wordt door de samengestelde indicator te vermenigvuldigen met 20% van het basisbedrag en met een bedrag dat rekening houdt met de evolutie van de geldelijke anciënniteit, vermeld in artikel 61, § 1/1, eerste lid, 3°, van het besluit van 28 maart 2014.<br>
 <br>
-Het maximale subsidiebedrag dat aan een gezinsondersteunend aanbod ter preventie van vrouwelijke genitale verminking en gedwongen huwelijken kan worden toegekend, rekening houdend met de beschikbare begrotingskredieten, bedraagt 41.077,43 euro (eenenveertigduizend zevenenzeventig euro drieënveertig cent).<br>
+Het maximale subsidiebedrag dat aan een gezinsondersteunend aanbod ter preventie van vrouwelijke genitale verminking en gedwongen huwelijken kan worden toegekend, rekening houdend met de beschikbare begrotingskredieten, bedraagt 43.503,15 euro (drieënveertigduizend vijfhonderdendrie euro vijftien cent).<br>
 <br>
-De subsidie, vermeld in dit artikel, is gekoppeld aan de spilindex die van toepassing is op 1 januari 2019. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
+De subsidie, vermeld in dit artikel, is gekoppeld aan de spilindex die van toepassing is op 1 januari 2021. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
 
 ## HOOFDSTUK 4. Procedures
 
