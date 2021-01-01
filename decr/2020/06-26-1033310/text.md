@@ -8,6 +8,15 @@ Dit decreet regelt een gewestaangelegenheid.
 
 In artikel 2.9.4.2.11, § 2, eerste lid, 2°, van de Vlaamse Codex Fiscaliteit van 13 december 2013, ingevoegd bij het decreet van 18 mei 2018, wordt het woord "twee" vervangen door het woord "drie".
 
+### ART 3.
+
+In artikel 2.9.4.2.12, § 1, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 18 mei 2018 en gewijzigd bij de decreten van 21 december 2018 en 20 december 2019, worden de volgende wijzigingen aangebracht :<br>
+<br>
+1° punt 1° wordt vervangen door wat volgt :<br>
+"1° de verkrijger verbindt zich ertoe aan de aangekochte woning een ingrijpende energetische renovatie uit te voeren als vermeld in artikel 1.1.1, § 2, 50°, van het Energiebesluit van 19 november 2010, een gedeeltelijke herbouw uit te voeren als vermeld in artikel 1.1.1, § 2, 46/2°, of een herbouw uit te voeren als vermeld in artikel 1.1.1, § 2, 47/2°, van het voormelde besluit;";<br>
+<br>
+2° in punt 2° wordt het woord "renovatiewerken" vervangen door het woord "werken".
+
 ### ART 4.
 
 In artikel 2.9.4.2.14 van hetzelfde decreet, ingevoegd bij het decreet van 18 mei 2018 en gewijzigd bij de decreten van 6 juli 2018, 21 december 2018 en 20 december 2019, worden de volgende wijzigingen aangebracht :<br>
