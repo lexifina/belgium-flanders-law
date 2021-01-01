@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033904,
+  "title": "Besluit van de Vlaamse Regering van 2020-10-30 tot opheffing van het besluit van de Vlaamse Regering van 27 maart 2009 tot uitvoering van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening in de thuiszorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033904/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "5114b3297aea3b3ec2af730a71eeaf3a6042add4fa9fa16048e680df889f4a64",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033904&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2020-10-30",
+  "gazette": "2020-12-03",
+  "numac": 2020043791,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
