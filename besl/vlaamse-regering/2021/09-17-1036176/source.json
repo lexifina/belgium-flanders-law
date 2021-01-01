@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036176,
+  "title": "Besluit van de Vlaamse Regering van 2021-09-17 tot vaststelling van het totale aantal subsidiabele uren gezinszorg voor de diensten voor gezinszorg voor het jaar 2021, en het bedrag voor de maatregelen uit de Vlaamse Intersectorale Akkoorden voor de social/non-profitsectoren voor de diensten voor gezinszorg en tot wijziging van het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036176/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "26eeae3bf4fbcc2fe789f898bc1e1a524e84150795d8a3fe1f841a47ec915cef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036176&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2021-09-17",
+  "gazette": "2021-10-25",
+  "numac": 2021042872,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
