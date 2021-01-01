@@ -53,6 +53,16 @@ Het administratief basisdossier en het financieel plan wordt in het geval, verme
 
 ## Afdeling 2. Koninklijk besluit van 6 november 1979 tot vaststelling van de normen inzake beveiliging tegen brand en paniek waaraan ziekenhuizen moeten voldoen
 
+### ART 5.
+
+§ 1. In afwijking van artikel 2, eerste lid, van het koninklijk besluit van 6 november 1979 heeft het ontbreken van het attest, vermeld in artikel 1 van het voormelde koninklijk besluit, niet tot gevolg dat geen erkenning als vermeld in artikel 1 van het voormelde koninklijk besluit, kan worden verleend voor de erkenningsaanvragen die zijn ingediend in de periode van 1 januari 2021 tot en met 30 september 2021.<br>
+<br>
+In de gevallen, vermeld in het eerste lid, wordt het attest, vermeld in artikel 1 van het voormelde koninklijk besluit, uiterlijk op 31 december 2021 aan het agentschap Zorg en Gezondheid bezorgd. In de tussenliggende periode moet de ziekenhuisbeheerder de veiligheid maximaal waarborgen in overeenstemming met de brandveiligheidsvoorschriften.<br>
+<br>
+§ 2. In afwijking van artikel 2, tweede lid, van het koninklijk besluit van 6 november 1979 heeft het ontbreken van een nieuw attest niet tot gevolg dat geen verlenging van erkenning kan worden verleend voor aanvragen die zijn ingediend in de periode van 1 januari 2021 tot en met 30 september 2021.<br>
+<br>
+In de gevallen, vermeld in het eerste lid, wordt het nieuwe attest uiterlijk op 31 december 2021 aan het agentschap Zorg en Gezondheid bezorgd. In de tussenliggende periode moet de ziekenhuisbeheerder de veiligheid maximaal waarborgen in overeenstemming met de brandveiligheidsvoorschriften.
+
 ### ART 6.
 
 De termijn, vermeld in artikel 5 van het koninklijk besluit van 6 november 1979, wordt geschorst gedurende de periode van civiele noodsituatie.
@@ -66,6 +76,12 @@ De termijnen, vermeld in artikel 4, tweede lid, artikel 5, § 1, eerste lid, en 
 De termijnen, vermeld in artikel 7, § 1 en § 2, van het voormelde besluit, worden geschorst gedurende de periode van civiele noodsituatie voor de lokale dienstencentra, vermeld in artikel 9 en 10 van het Woonzorgdecreet van 15 februari 2019.
 
 ## Afdeling 4. Besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers
+
+### ART 9.
+
+In afwijking van artikel 4, § 1, eerste lid, 6°, van het besluit van 5 juni 2009 leidt het gebrek aan bewijs dat de voorziening voldoet aan de toepasselijke brandveiligheidsreglementering, niet tot de onontvankelijkheid van erkenningsaanvragen die zijn ingediend in de periode van 1 januari 2021 tot en met 30 september 2021.<br>
+<br>
+Het bewijs dat de voorziening voldoet aan de toepasselijke brandveiligheidsreglementering, wordt in het geval, vermeld in het eerste lid, uiterlijk op 31 december 2021 aan het agentschap Zorg en Gezondheid bezorgd. In de tussenliggende periode moet de initiatiefnemer de veiligheid maximaal waarborgen in overeenstemming met de brandveiligheidsvoorschriften.
 
 ### ART 10.
 
@@ -82,6 +98,22 @@ Voor de toepassing van artikel 6, eerste lid, van het voormelde besluit, geldt d
 Voor de toepassing van artikel 18, derde lid, van het voormelde besluit, gelden de termijnen, vermeld in artikel 5, 6, tweede lid, artikel 7, eerste lid, en artikel 8, eerste lid, van het voormelde besluit, zoals ze in voorkomend geval geschorst zijn conform het eerste lid.
 
 ## Afdeling 5. Besluit van de Vlaamse Regering van 9 december 2011 tot vaststelling van de specifieke brandveiligheidsnormen waaraan lokale dienstencentra, centra voor dagverzorging, centra voor dagopvang, centra voor kortverblijf, centra voor herstelverblijf, groepen van assistentiewoningen en woonzorgcentra moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen
+
+### ART 13.
+
+§ 1. De geldigheidsduur van de attesten A die vóór 1 januari 2022 om een andere reden dan de uitreiking van een nieuw attest voor dezelfde voorziening van rechtswege vervallen zijn of vervallen conform artikel 4, eerste lid, van het besluit van 9 december 2011, of artikel 5 van het voormelde besluit van 9 december 2011, wordt verlengd tot en met 31 maart 2022, ook als de geldigheidsduur door die verlenging langer dan acht jaar is.<br>
+<br>
+In afwijking van het eerste lid worden de attesten maar verlengd tot de datum van de uitreiking van een nieuw attest voor de voorziening in kwestie als het nieuwe attest vóór 31 maart 2022 uitgereikt wordt.<br>
+<br>
+§ 2. De geldigheidsduur van de attesten B die vóór 1 januari 2022 om een andere reden dan de uitreiking van een nieuw attest voor dezelfde voorziening van rechtswege vervallen zijn of vervallen conform artikel 4, tweede lid van het besluit van 9 december 2011, of artikel 5 van het voormelde besluit, wordt verlengd tot en met 31 maart 2022, ook als de totale geldigheidsduur door die verlenging langer dan negen jaar is.<br>
+<br>
+In afwijking van het eerste lid worden de attesten maar verlengd tot de datum van de uitreiking van een nieuw attest voor de voorziening in kwestie als het nieuwe attest vóór 31 maart 2022 uitgereikt wordt.<br>
+<br>
+§ 3. In de periode waarvoor de geldigheidsduur van attesten conform paragraaf 1 en paragraaf 2 is verlengd, leeft de initiatiefnemer de toepasselijke brandveiligheidsvoorschriften na.<br>
+<br>
+§ 4. In de gevallen, vermeld in paragraaf 1 en 2, bezorgt de voorziening in kwestie, in afwijking van artikel 4, derde lid, van het besluit van 9 december 2011, uiterlijk op 30 september 2021 een aanvraag aan de burgemeester om een nieuw onderzoek te laten uitvoeren door de hulpverleningszone, als dat voor die datum nog niet gebeurd is. Daarbij worden, in voorkomend geval, een geactualiseerde stand van zaken van het stappenplan met de nog uit te voeren werken en een verdere planning meegestuurd.<br>
+<br>
+§ 5. In de gevallen, vermeld in paragraaf 1 en 2, bezorgt de burgemeester het attest met het bijbehorende verslag, in afwijking van artikel 7, tweede lid, artikel 8, § 1, tweede lid, en § 4, tweede lid, en artikel 9, tweede lid, van het besluit van 9 december 2011, uiterlijk op 1 maart 2022.
 
 ### ART 14.
 
@@ -138,6 +170,12 @@ De initiatiefnemer meldt uiterlijk op 31 januari 2023 aan het agentschap Zorg en
 De termijnen, vermeld in artikel 4, tweede lid, artikel 5, § 1, eerste lid, en artikel 7, § 1, eerste lid, van het besluit van 18 december 2020, worden geschorst gedurende de periode van civiele noodsituatie.<br>
 <br>
 De termijnen, vermeld in artikel 8, § 1 en § 2, van het voormelde besluit, worden geschorst gedurende de periode van civiele noodsituatie voor de lokale dienstencentra, vermeld in artikel 9 en 10 van het Woonzorgdecreet van 15 februari 2019, en de centra voor kortverblijf type 2, vermeld in artikel 26, § 1, tweede lid, 2°, van het voormelde decreet.
+
+### ART 24.
+
+In afwijking van artikel 3, eerste lid, 9°, van het besluit van 18 december 2020 leidt het ontbreken van een administratief basisdossier niet tot de onontvankelijkheid van aanvragen van een voorafgaande vergunning als vermeld in artikel 52 van het Woonzorgdecreet van 15 februari 2019 die zijn ingediend in de periode van 1 januari 2021 tot en met 31 december 2022.<br>
+<br>
+Het administratief basisdossier wordt in voorkomend geval uiterlijk op 1 januari 2023 aan het agentschap Zorg en Gezondheid bezorgd.
 
 ## HOOFDSTUK 3. Opgroeien
 
