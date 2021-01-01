@@ -2,16 +2,16 @@
   "codex_id": 1017120,
   "title": "Decreet van 2008-07-10 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017120/VolledigDocument?datum=2020-09-01",
-  "source_sha256": "b3ce271b9b4152ab9906e483d1820b10c40ac044bbd0f03d4be9291cd0c4a118",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017120/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "6efcd54b9ec88a9ea3e90afaf1e94eb012b22ee36cfc0694b0eaf2fbd78583c0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017120&param=informatie",
-  "as_of": "2020-09-01",
+  "as_of": "2021-01-01",
   "made": "2008-07-10",
   "gazette": "2008-10-03",
   "numac": 2008203342,
   "document_start": "2008-09-01",
   "document_end": null,
-  "in_force": "2020-09-01",
+  "in_force": "2021-01-01",
   "article_versions": 164,
-  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }

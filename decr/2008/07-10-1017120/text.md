@@ -8,7 +8,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
 
 ### ART. 2.
 
-Dit decreet is van toepassing op de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde centra voor deeltijds beroepssecundair onderwijs, en centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen en op het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen.<br>
+Dit decreet is van toepassing op de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde centra voor deeltijds beroepssecundair onderwijs, en centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen en op de VDAB.<br>
 &nbsp;
 
 ### ART. 3.
@@ -35,11 +35,11 @@ e) op 31 december volgend op de aanvang van het schooljaar de leeftijd van 18 ja
 a) één of meerdere functiebeperkingen op mentaal, psychisch, lichamelijk of zintuiglijk vlak en;<br>
 b) beperkingen bij het uitvoeren van activiteiten en;<br>
 c) persoonlijke en externe factoren;<br>
-8° leertijd : de opleiding als vermeld in artikel 26, 1°, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br>
+8° leertijd: de opleiding, vermeld in artikel 2, 15°, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
 9° lokaal comité : het voor arbeidsvoorwaarden en personeelsaangelegenheden bevoegde lokale overlegorgaan of onderhandelingsorgaan;<br>
 10° module : het kleinste te certificeren deel van een opleiding in het deeltijds beroepssecundair onderwijs, dat overeenstemt met een bepaalde inhoud;<br>
 10° bis NAFT: NAFT zoals bepaald in de vigerende decreet- en regelgeving op de bijzondere jeugdbijstand en de integrale jeugdhulp;<br>
-10°ter ondernemersopleiding : de opleiding als vermeld in artikelen 26, 2°, en 31, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br>
+10°ter ...;<br>
 11° onthaalonderwijs : een specifiek en tijdelijk onderwijsaanbod dat anderstalige nieuwkomers voorbereidt op betere doorstroming naar arbeidsdeelname. Dit onderwijsaanbod is gericht op taalvaardigheid, inburgering en zelfredzaamheid. De Vlaamse Regering bakent de doelgroep af, ten minste rekening houdend met de criteria `leeftijd', `taalkennis Nederlands' en `duurtijd van de aanwezigheid op het Belgische grondgebied' van de anderstalige nieuwkomers.;<br>
 12° ...;<br>
 13° ...;<br>
@@ -51,7 +51,7 @@ b) in een reële arbeidsomgeving bij een werkgever;<br>
 c) onder gelijkaardige omstandigheden als reguliere werknemers van die werkgever;<br>
 d) waarbij effectieve arbeid wordt verricht die aansluit bij de gevolgde opleiding;<br>
 e) met de bedoeling beroepservaring op te doen.<br>
-15° Syntra Vlaanderen : het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen als vermeld in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br>
+15° ...;<br>
 16° trajectbegeleider: het aangewezen personeelslid dat in het centrum voor deeltijds beroepssecundair onderwijs belast is met trajectbegeleiding; de gemandateerde persoon die in het centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen belast is met trajectbegeleiding;<br>
 17° ...;<br>
 18° trajectbegeleiding : een continu proces van begeleiding en opvolging van de persoonlijke ontwikkeling en de vorming van jongeren tijdens de component leren en de component werkplekleren en dit in overleg met de betrokken actoren met als ultiem doel de toeleiding naar de arbeidsmarkt;<br>
@@ -147,7 +147,7 @@ Een opleiding deeltijds beroepssecundair onderwijs wordt erkend als aan alle ond
 8° beantwoorden aan de decretale en reglementaire bepalingen inzake eindtermen en leerplannen voor zover de uitreiking wordt beoogd van eindstudiebewijzen die identiek zijn aan die van het voltijds gewoon secundair onderwijs;<br>
 9° samenwerkingsafspraken maakt met een centrum voor leerlingenbegeleiding en een beleid op leerlingenbegeleiding voeren;<br>
 10° ...<br>
-11° beschikken over personeel waarvan de gezondheidstoestand de gezondheid van de jongeren niet in gevaar brengt;<br>
+11° ...<br>
 12° de internationaalrechtelijke en grondwettelijke beginselen op het gebied van de rechten van de mens en van het kind in het bijzonder eerbiedigen;<br>
 13° voor het officieel onderwijs :<br>
 a) een open karakter hebben door open te staan voor alle jongeren, ongeacht de ideologische, filosofische of godsdienstige opvattingen van de ouders en de jongere;<br>
@@ -230,11 +230,21 @@ De theoretische vorming binnen de leertijd wordt door de Vlaamse Gemeenschap erk
 
 ### ART. 15.
 
-Voor de erkenning, binnen de leertijd, van een opleiding van een centrum   voor vorming van zelfstandigen en kleine en middelgrote ondernemingen moeten   alle voorwaarden als vermeld in artikel 37 van het decreet van 7 mei 2004 tot   oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd   agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, zijn   vervuld.<BR><BR>Als aan die voorwaarden niet meer wordt voldaan, kan de Vlaamse   Regering, op voorstel van een college dat voor de helft is samengesteld uit   leden van de onderwijsinspectie en voor de helft uit personeelsleden van Syntra   Vlaanderen, de erkenning binnen de leertijd van een centrum of een opleiding   ervan al dan niet geleidelijk opheffen. Zij kan evenwel de opheffing van de   erkenning ook beperken tot de al dan niet geleidelijke opheffing van de   bevoegdheid om eindstudiebewijzen, die identiek zijn aan die van het voltijds   gewoon secundair onderwijs, uit te reiken.<BR><BR>De Vlaamse Regering legt de   aanvullende bepalingen vast over de werking en de organisatie van dat college,   wijst de leden ervan aan en regelt de beroepsprocedure.<BR><BR>
+Voor de erkenning, binnen de leertijd, van een opleiding van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen moeten alle voorwaarden als vermeld in artikel 26/2, § 5, van het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid, zijn vervuld.<br>
+<br>
+Als aan die voorwaarden niet meer wordt voldaan, kan de Vlaamse Regering, op voorstel van een college dat voor de helft is samengesteld uit leden van de onderwijsinspectie en voor de helft uit personeelsleden van het Departement Werk en Sociale Economie, de erkenning binnen de leertijd van een centrum of een opleiding ervan al dan niet geleidelijk opheffen. Zij kan evenwel de opheffing van de erkenning ook beperken tot de al dan niet geleidelijke opheffing van de bevoegdheid om eindstudiebewijzen, die identiek zijn aan die van het voltijds gewoon secundair onderwijs, uit te reiken.<br>
+<br>
+In het tweede lid wordt verstaan onder het Departement Werk en Sociale Economie: het departement, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
+<br>
+De Vlaamse Regering legt de aanvullende bepalingen vast over de werking en de organisatie van dat college, wijst de leden ervan aan en regelt de beroepsprocedure.<br>
+&nbsp;
 
 ### ART. 16.
 
-Voor de subsidiëring, binnen de leertijd, van een opleiding van een   centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen   moeten alle voorwaarden als vermeld in artikel 38 van het decreet van 7 mei 2004   tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd   agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, zijn   vervuld.<BR><BR>Met behoud van de erkenning wordt de subsidiëring, binnen de   leertijd, van een centrum dat niet meer voldoet aan alle   subsidiëringsvoorwaarden of een opleiding ervan die niet meer voldoet aan al die   voorwaarden, door Syntra Vlaanderen geheel of gedeeltelijk   ingehouden.<BR><BR>
+Voor de subsidiëring, binnen de leertijd, van een opleiding van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen moeten alle voorwaarden als vermeld in artikel 22/22 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding", zijn vervuld.<br>
+<br>
+Met behoud van de erkenning wordt de subsidiëring, binnen de leertijd, van een centrum dat niet meer voldoet aan alle subsidiëringsvoorwaarden of een opleiding ervan die niet meer voldoet aan al die voorwaarden, door de VDAB geheel of gedeeltelijk ingehouden.<br>
+&nbsp;
 
 ### ART 16bis.
 
@@ -285,11 +295,32 @@ De Vlaamse Regering legt, afzonderlijk voor het deeltijds beroepssecundair onder
 
 ### ART. 23.
 
-§ 1. Om de lijsten van opleidingen vast te stellen, worden alle bestaande   opleidingen gescreend op basis van beroepskwalificaties. De screening strekt   ertoe een rationeel en transparant opleidingsaanbod tot stand te brengen door   middel van, eventueel, omzetting, samenvoeging of schrapping van   opleidingen.<BR><BR>§ 2. De screening van de bestaande opleidingen wordt   uitgevoerd door een commissie, die bestaat uit :<BR>1° afgevaardigden van de   bevoegde dienst van de Vlaamse Gemeenschap, de onderwijsinspectie, het   Agentschap voor Onderwijsdiensten; <BR>2° deskundigen in de beroepswereld,   intern of extern aan de opleidingensector.<BR><BR>De bevoegde dienst van de   Vlaamse Gemeenschap stelt de commissie samen en neemt het voorzitterschap ervan   waar.<BR><BR>De conclusies van de commissie worden voor het deeltijds   beroepssecundair onderwijs ter advies voorgelegd aan de Vlaamse Onderwijsraad en   voor de leertijd aan de raad van bestuur van Syntra Vlaanderen.<BR><BR>Op basis   van de conclusies van de commissie en het advies van de Vlaamse Onderwijsraad,   respectievelijk de raad van bestuur van Syntra Vlaanderen, neemt de Vlaamse   Regering een beslissing.<BR>
+§ 1. Om de lijsten van opleidingen vast te stellen, worden alle bestaande opleidingen gescreend op basis van beroepskwalificaties. De screening strekt ertoe een rationeel en transparant opleidingsaanbod tot stand te brengen door middel van, eventueel, omzetting, samenvoeging of schrapping van opleidingen.<br>
+<br>
+§ 2. De screening van de bestaande opleidingen wordt uitgevoerd door een commissie, die bestaat uit :<br>
+1° afgevaardigden van de bevoegde dienst van de Vlaamse Gemeenschap, de onderwijsinspectie, het Agentschap voor Onderwijsdiensten;<br>
+2° deskundigen in de beroepswereld, intern of extern aan de opleidingensector.<br>
+<br>
+De bevoegde dienst van de Vlaamse Gemeenschap stelt de commissie samen en neemt het voorzitterschap ervan waar.<br>
+<br>
+De conclusies van de commissie worden voor het deeltijds beroepssecundair onderwijs ter advies voorgelegd aan de Vlaamse Onderwijsraad en voor de leertijd aan de raad van bestuur van de VDAB.<br>
+<br>
+Op basis van de conclusies van de commissie en het advies van de Vlaamse Onderwijsraad, respectievelijk de raad van bestuur van de VDAB, neemt de Vlaamse Regering een beslissing.
 
 ### ART. 24.
 
-§ 1.&nbsp;De Vlaamse Regering kan op basis van beroepskwalificaties nieuwe   opleidingen vastleggen.<BR><BR>De Vlaamse Regering kan daartoe, al dan niet in   het kader van de screening als vermeld in artikel 23, § 1, zelf het initiatief   nemen of ze kan onderbouwde voorstellen in overweging nemen die door   opleidingsverstrekkers of derden worden ingediend.<BR><BR>§ 2. Een initiatief   tot of een voorstel van nieuwe opleiding wordt voorgelegd aan de commissie als   vermeld in artikel 23, § 2. De commissie onderzoekt het voorstel ten minste op   volledigheid, correctheid en actualiteitswaarde, en formuleert conclusies.   <BR><BR>Het oorspronkelijke initiatief of voorstel en de conclusies van de   commissie worden ter advies voorgelegd aan de Vlaamse Onderwijsraad, aan de raad   van bestuur van Syntra Vlaanderen of aan beide, afhankelijk van waar de   opleiding wordt ondergebracht.<BR><BR>Op basis van de conclusies van de   commissie en het advies van de Vlaamse Onderwijsraad, respectievelijk de raad   van bestuur van Syntra Vlaanderen of beide, neemt de Vlaamse Regering een   beslissing.<BR><BR>De Vlaamse Regering legt de termijnen vast met betrekking tot   de indienings- en adviseringsprocedure.<BR><BR>
+§ 1.&nbsp;De Vlaamse Regering kan op basis van beroepskwalificaties nieuwe opleidingen vastleggen.<br>
+<br>
+De Vlaamse Regering kan daartoe, al dan niet in het kader van de screening als vermeld in artikel 23, § 1, zelf het initiatief nemen of ze kan onderbouwde voorstellen in overweging nemen die door opleidingsverstrekkers of derden worden ingediend.<br>
+<br>
+§ 2. Een initiatief tot of een voorstel van nieuwe opleiding wordt voorgelegd aan de commissie als vermeld in artikel 23, § 2. De commissie onderzoekt het voorstel ten minste op volledigheid, correctheid en actualiteitswaarde, en formuleert conclusies.<br>
+<br>
+Het oorspronkelijke initiatief of voorstel en de conclusies van de commissie worden ter advies voorgelegd aan de Vlaamse Onderwijsraad, aan de raad van bestuur van de VDAB of aan beide, afhankelijk van waar de opleiding wordt ondergebracht.<br>
+<br>
+Op basis van de conclusies van de commissie en het advies van de Vlaamse Onderwijsraad, respectievelijk de raad van bestuur van de VDAB of beide, neemt de Vlaamse Regering een beslissing.<br>
+<br>
+De Vlaamse Regering legt de termijnen vast met betrekking tot de indienings- en adviseringsprocedure.<br>
+&nbsp;
 
 ### ART. 25.
 
@@ -355,9 +386,9 @@ Bij de organisatie van het leerprogramma werkt de klassenraad op een   systemati
 <br>
 Voor de praktijkopleiding in de leertijd wordt een overeenkomst vermeld in artikel 3 van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen gesloten.<br>
 <br>
-De theoretische vorming in een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen wordt verstrekt gedurende ten minste 30 weken per schooljaar naar rata van minimaal 8 wekelijkse uren, waaronder minimaal 4 uren algemene vorming en minimaal 4 uren beroepsgerichte vorming. De raad van bestuur van Syntra Vlaanderen kan voor bijzondere gevallen beslissen om een opleiding in een ander week- of jaarritme te organiseren op voorwaarde dat geen afbreuk wordt gedaan aan het totale aantal uren op jaarbasis.<br>
+De theoretische vorming in een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen wordt verstrekt gedurende ten minste 30 weken per schooljaar naar rata van minimaal 8 wekelijkse uren, waaronder minimaal 4 uren algemene vorming en minimaal 4 uren beroepsgerichte vorming. Het centrumbestuur kan voor bijzondere gevallen beslissen om een opleiding in een ander week- of jaarritme te organiseren op voorwaarde dat geen afbreuk wordt gedaan aan het totale aantal uren op jaarbasis.<br>
 <br>
-Vanaf het schooljaar dat begint in het kalenderjaar waarin de jongere de leeftijd van 18 jaar bereikt, kan Syntra Vlaanderen de jongere vrijstellen van de algemene vorming.<br>
+Vanaf het schooljaar dat begint in het kalenderjaar waarin de jongere de leeftijd van 18 jaar bereikt, kan de klassenraad de jongere vrijstellen van de algemene vorming.<br>
 <br>
 Bij de organisatie van de leertijd werkt een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen op een systematische, planmatige en transparante wijze samen met het centrum voor leerlingenbegeleiding en de betrokken personen en doet in het bijzonder voor jongeren met specifieke onderwijsbehoeften gepaste en redelijke aanpassingen, waaronder remediërende, differentiërende, compenserende of dispenserende maatregelen naargelang de noden van de jongere. De specifieke onderwijsbehoeften van jongeren en de ondersteuningsbehoeften van het onderwijspersoneel en de ouders staan daarbij centraal.<br>
 <br>
@@ -372,11 +403,17 @@ In de leertijd kan de wekelijkse lessentabel, de vakken moderne vreemde   talen 
 
 ### ART. 32.
 
-§ 1. De Vlaamse Regering bepaalt in overleg met de beroepssectoren, de   Sociaal-Economische Raad van Vlaanderen en de raad van bestuur van Syntra   Vlaanderen, welke door de Vlaamse Regering vóór 1 januari 2014 vastgelegde   referentiekaders worden opgeheven en door welke beroepskwalificaties ze worden   vervangen. Van deze beroepskwalificaties worden, onverkort, de doelen voor de   beroepsgerichte vorming van de opleidingen binnen de leertijd   afgeleid.<BR><BR>De doelen waarborgen de toepassing van eventuele Europese,   federale of Vlaamse regelgeving inzake beroepsuitoefening.<BR>Voor een opleiding   die zowel in de leertijd als in het deeltijds beroepssecundair onderwijs   voorkomt, geldt hetzelfde referentiekader. Als de leertijd en het deeltijds   beroepssecundair onderwijs hetzelfde referentiekader hanteren, dan geldt dat   vanaf hetzelfde schooljaar.<BR><BR>§ 2. De bepalingen van § 1 gelden niet voor   opleidingen binnen de leertijd die door de centra worden georganiseerd in   afwachting van het opleidingsaanbod dat tot stand komt na screening als vermeld   in artikel 23, § 1. In voorkomend geval worden de door de raad van bestuur van   Syntra Vlaanderen goedgekeurde programma's als referentiekader gehanteerd waarin   de minimale leerdoelen en -inhouden van de opleiding in kwestie worden   beschreven.<BR><BR>
+§ 1. De Vlaamse Regering bepaalt in overleg met de beroepssectoren, de Sociaal-Economische Raad van Vlaanderen en de raad van bestuur van de VDAB, welke door de Vlaamse Regering vóór 1 januari 2014 vastgelegde referentiekaders worden opgeheven en door welke beroepskwalificaties ze worden vervangen. Van deze beroepskwalificaties worden, onverkort, de doelen voor de beroepsgerichte vorming van de opleidingen binnen de leertijd afgeleid.<br>
+<br>
+De doelen waarborgen de toepassing van eventuele Europese, federale of Vlaamse regelgeving inzake beroepsuitoefening.<br>
+Voor een opleiding die zowel in de leertijd als in het deeltijds beroepssecundair onderwijs voorkomt, geldt hetzelfde referentiekader. Als de leertijd en het deeltijds beroepssecundair onderwijs hetzelfde referentiekader hanteren, dan geldt dat vanaf hetzelfde schooljaar.<br>
+<br>
+§ 2. De bepalingen van § 1 gelden niet voor opleidingen binnen de leertijd die door de centra worden georganiseerd in afwachting van het opleidingsaanbod dat tot stand komt na screening als vermeld in artikel 23, § 1. In voorkomend geval worden de door de raad van bestuur van de VDAB goedgekeurde programma's als referentiekader gehanteerd waarin de minimale leerdoelen en -inhouden van de opleiding in kwestie worden beschreven.<br>
+&nbsp;
 
 ### ART. 33.
 
-§ 1. Om het studiepeil te waarborgen, en uitsluitend met het oog op de uitreiking in de leertijd van graad- of leerjaargebonden eindstudiebewijzen, identiek aan die van het voltijds gewoon secundair onderwijs, zijn de bepalingen over eindtermen en leerplannen als vermeld in artikel 29, van toepassing op de algemene vorming.<br /><br />Dat houdt in dat de algemene vorming wordt verstrekt op basis van enerzijds door de Vlaamse Regering goedgekeurde leerplannen waarin op herkenbare wijze de vakgebonden eindtermen moeten worden opgenomen, en anderzijds, en uiterlijk vanaf het schooljaar 2010-2011, met inachtname van de vakoverschrijdende eindtermen.<br /><br />Met vakgebonden eindtermen worden de eindtermen voor de vakken van de basisvorming bedoeld, met uitzondering van het vak lichamelijke opvoeding, van respectievelijk de tweede graad - eerste en tweede leerjaar, de derde graad - eerste en tweede leerjaar, of de derde graad - derde leerjaar, van het voltijds gewoon beroepssecundair onderwijs, naargelang van het geval. Met vakoverschrijdende eindtermen worden de eindtermen bedoeld van respectievelijk de tweede graad of de derde graad van het voltijds gewoon beroepssecundair onderwijs, naargelang van het geval. <br /><br />§ 2. Als Syntra Vlaanderen oordeelt dat de eindtermen onvoldoende ruimte laten voor zijn eigen pedagogische en onderwijskundige opvattingen of ermee onverzoenbaar zijn, dient het bij de Vlaamse Regering een aanvraag tot afwijking in. In voorkomend geval gelden de afwijkingsvoorwaarden en -procedure die ook van toepassing zijn in het voltijds gewoon secundair onderwijs als vermeld in artikel 147 van de codificatie betreffende het secundair onderwijs.<br /><br />
+Voor de toekenning van graad of leerjaargebonden eindstudiebewijzen, identiek aan die van het voltijds gewoon beroepssecundair onderwijs, zijn op de algemene vorming van de leertijd de bepalingen over eindtermen en op die eind termen gebaseerde leerplannen als vermeld in deel IV, titel 1, hoofdstuk 1, afdeling 3, van de Codex Secundair Onderwijs van 17 december 2010 van toepassing, met uitzondering van de eindtermen en leerplannen die zijn gekoppeld aan het vak lichamelijke opvoeding.
 
 ## Onderafdeling V Organisatie deeltijdse vorming
 
@@ -408,7 +445,7 @@ In het deeltijds beroepssecundair onderwijs en in de leertijd, gefinancierd of g
 
 § 1. Het deeltijds beroepssecundair onderwijs en de leertijd zijn toegankelijk voor jongeren die enerzijds aan de voltijdse leerplicht hebben voldaan en anderzijds de leeftijd van 25 jaar nog niet hebben bereikt. Ze kunnen worden gevolgd uiterlijk tot het einde van het schooljaar waarin jongeren de leeftijd van 25 jaar bereiken.<br>
 <br>
-In afwijking van het voorgaande kan een jongere evenwel bijzondere toelating krijgen om vanaf het begin van het schooljaar waarin hij deeltijds leerplichtig wordt, het deeltijds beroepssecundair onderwijs of de leertijd te volgen. Die toelating wordt gegeven door de directie van het centrum voor deeltijds beroepssecundair onderwijs in kwestie of door Syntra Vlaanderen, naargelang van het geval, op advies van het centrum voor leerlingenbegeleiding waarmee de instelling voor voltijds onderwijs waar de jongere de lessen volgt, samenwerkt.<br>
+In afwijking van het voorgaande kan een jongere evenwel bijzondere toelating krijgen om vanaf het begin van het schooljaar waarin hij deeltijds leerplichtig wordt, het deeltijds beroepssecundair onderwijs of de leertijd te volgen. Die toelating wordt gegeven door de directie van het centrum voor deeltijds beroepssecundair onderwijs of door de directie van het centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen in kwestie op advies van het centrum voor leerlingenbegeleiding waarmee de instelling voor voltijds onderwijs waar de jongere de lessen volgt, samenwerkt.<br>
 <br>
 § 2. ...
 
@@ -417,6 +454,8 @@ In afwijking van het voorgaande kan een jongere evenwel bijzondere toelating kri
 Een jongere kan niet tot een opleiding in het deeltijds beroepssecundair onderwijs of in de leertijd worden toegelaten als hij al in het bezit is van een eindstudiebewijs van dezelfde opleiding, behaald in het secundair onderwijs, in het volwassenenonderwijs, in de leertijd of in het ondernemerschapstraject.<br>
 <br>
 Een jongere kan niet tot een module van een opleiding in het deeltijds beroepssecundair onderwijs worden toegelaten als hij die module al met vrucht heeft gevolgd in het secundair onderwijs of in het volwassenenonderwijs.<br>
+<br>
+In het eerste lid wordt verstaan onder het ondernemerschapstraject: een traject als vermeld in artikel 26/2, § 1, 2°, van het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid.<br>
 &nbsp;
 
 ### ART. 41.
@@ -440,12 +479,12 @@ Voor de leerlingen in kwestie kan de Vlaamse Regering nooit toelatingsvoorwaarde
 
 ### ART. 43.
 
-In de leertijd kan de raad van bestuur van Syntra Vlaanderen voor bepaalde opleidingen bijzondere instapvoorwaarden inzake leeftijd of vooropleiding vastleggen.<br>
+In de leertijd kan de raad van bestuur van de VDAB voor bepaalde opleidingen bijzondere instapvoorwaarden inzake leeftijd of vooropleiding vastleggen.<br>
 &nbsp;
 
 ### ART. 44.
 
-Rechtstreekse inschrijving in een centrum om aan de component leren te voldoen, is enkel mogelijk in een centrum voor deeltijds beroepssecundair onderwijs of, via de trajectbegeleider Syntra Vlaanderen, in een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen.<br>
+Rechtstreekse inschrijving in een centrum om aan de component leren te voldoen, is enkel mogelijk in een centrum voor deeltijds beroepssecundair onderwijs of, via de trajectbegeleider, in een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen.<br>
 &nbsp;
 
 ### ART. 45.
@@ -555,7 +594,8 @@ In elk van die gevallen kan het centrum dat uitschrijft, weigeren om de betrokke
 
 ### ART. 61.
 
-Tijdens de periodes dat de jongere de component werkplekleren effectief invult, moet een vertegenwoordiger van het centrum voor deeltijds beroepssecundair onderwijs waar de jongere is ingeschreven of een trajectbegeleider Syntra Vlaanderen bereikbaar zijn. Deze verplichting kan echter geen afbreuk doen aan de statutaire rechten van de individuele personeelsleden. Als de uitvoering van deze bepaling voor personeelsleden verplichtingen met zich meebrengt die er anders niet zouden geweest zijn, moet het centrumbestuur in een passende compensatieregeling voorzien. Deze regeling vergt het uitdrukkelijk, schriftelijk en voorafgaand akkoord van het betrokken personeelslid en wordt desgevallend onderhandeld in het bevoegde lokaal comité. <br /><br />
+Tijdens de periodes dat de jongere de component werkplekleren effectief invult, moet een vertegenwoordiger van het centrum voor deeltijds beroepssecundair onderwijs waar de jongere is ingeschreven of een trajectbegeleider in een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen bereikbaar zijn. Deze verplichting kan echter geen afbreuk doen aan de statutaire rechten van de individuele personeelsleden. Als de uitvoering van deze bepaling voor personeelsleden verplichtingen met zich meebrengt die er anders niet zouden geweest zijn, moet het centrumbestuur in een passende compensatieregeling voorzien. Deze regeling vergt het uitdrukkelijk, schriftelijk en voorafgaand akkoord van het betrokken personeelslid en wordt desgevallend onderhandeld in het bevoegde lokaal comité.<br>
+&nbsp;
 
 ### ART. 61bis.
 
@@ -842,7 +882,7 @@ De uren-leraar binnen een centrum voor deeltijds beroepssecundair onderwijs word
 
 ### ART. 93.
 
-§ 1. De centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen worden gesubsidieerd op basis van de vigerende regelgeving betreffende de erkenning en de subsidiëring van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen in uitvoering van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, zoals gewijzigd.<br>
+§ 1. De centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen worden gesubsidieerd op basis van de vigerende regelgeving betreffende de subsidiëring van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen in uitvoering van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.<br>
 <br>
 § 2. ...<br>
 &nbsp;
