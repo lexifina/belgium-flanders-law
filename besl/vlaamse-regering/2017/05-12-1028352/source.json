@@ -2,16 +2,16 @@
   "codex_id": 1028352,
   "title": "Besluit van de Vlaamse Regering van 2017-05-12 tot regeling van steun aan ondernemingen voor ontwikkeling en innovatie in Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028352/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "181a95fd280b82b9d972a773772ef2f5f20f1a4e403cf97af7dd38af11ec0bf5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028352/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "c4118fcfc31d784b2171c8760f1dca2a1e88f7c5f2e8766fd8c046bd4d47be5c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028352&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2021-01-01",
   "made": "2017-05-12",
   "gazette": "2017-06-22",
   "numac": 2017012549,
   "document_start": "2017-10-01",
   "document_end": null,
-  "in_force": "2020-01-01",
+  "in_force": "2021-01-01",
   "article_versions": 49,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
