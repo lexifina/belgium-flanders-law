@@ -781,7 +781,127 @@ Dit artikel is niet van toepassing op de projectverenigingen.<br>
 
 ## Afdeling 1 De inhoud van de jaarrekening
 
+### ART 17.
+
+De beleidsevaluatie bevat ten minste al de volgende elementen:<br>
+1° per beleidsdoelstelling uit de strategische nota waar de prioritaire acties of actieplannen in kaderen, en per prioritaire actie of prioritair actieplan, een omschrijving van de mate van realisatie, en de ontvangsten en uitgaven voor exploitatie, investeringen en financiering, voor het jaar waarop de jaarrekening betrekking heeft;<br>
+2° per beleidsdoelstelling uit de strategische nota waar de prioritaire acties of actieplannen in kaderen, het totaal van de ontvangsten en uitgaven voor exploitatie, investeringen en financiering, voor de niet-prioritaire acties of actieplannen voor het jaar waarop de jaarrekening betrekking heeft;<br>
+3° een verwijzing naar de plaats waar het overzicht ter beschikking is met de omschrijving van alle beleidsdoelstellingen, actieplannen en acties, en de bijbehorende ontvangsten en uitgaven die zijn opgenomen in de jaarrekening.<br>
+&nbsp;
+
+### ART 18.
+
+De financiėle nota van de jaarrekening bestaat uit al de volgende onderdelen:<br>
+1° de doelstellingenrekening;<br>
+2° de staat van het financieel evenwicht;<br>
+3° de realisatie van de kredieten;<br>
+4° de balans;<br>
+5° de staat van opbrengsten en kosten.<br>
+<br>
+Het eerste lid, 4° en 5°, is niet van toepassing op de districten.<br>
+&nbsp;
+
+### ART 19.
+
+De doelstellingenrekening, vermeld in artikel 18, eerste lid, 1°, bevat al de volgende elementen voor het boekjaar waarop de jaarrekening betrekking heeft:<br>
+1° de ontvangsten en uitgaven per beleidsdoelstelling waar de prioritaire acties in kaderen;<br>
+2° de ontvangsten en uitgaven van de beleidsdoelstellingen waar geen prioritaire acties in kaderen;<br>
+3° de ontvangsten en uitgaven waar geen beleidsdoelstellingen voor werden geformuleerd.<br>
+<br>
+Voor de besturen die gebruikmaken van de mogelijkheid, vermeld in artikel 8, tweede lid, wordt het woord "acties", vermeld in het eerste lid, 1° en 2°, gelezen als "actieplannen".<br>
+<br>
+De doelstellingenrekening, vermeld in artikel 18, eerste lid, 1°, bevat naast de gerealiseerde ontvangsten en uitgaven ook telkens de ramingen van de ontvangsten en de uitgaven die opgenomen zijn in de laatste aanpassing van het meerjarenplan.<br>
+&nbsp;
+
+### ART 20.
+
+De staat van het financieel evenwicht, vermeld in artikel 18, eerste lid, 2°, bevat voor het boekjaar waarop de jaarrekening betrekking heeft, minstens de volgende elementen:<br>
+1° een vergelijking van het beschikbaar budgettair resultaat met dat in de laatste aanpassing van het meerjarenplan;<br>
+2° een vergelijking van de autofinancieringsmarge met die in de laatste aanpassing van het meerjarenplan;<br>
+3° een vergelijking van de gecorrigeerde autofinancieringsmarge met die in de laatste aanpassing van het meerjarenplan.<br>
+<br>
+Artikel 11, tweede en derde lid, zijn van overeenkomstige toepassing op de staat van het financieel evenwicht, vermeld in artikel 18, eerste lid, 2°.<br>
+&nbsp;
+
+### ART 21.
+
+De realisatie van de kredieten, vermeld in artikel 18, eerste lid, 3°, bevat de gerealiseerde ontvangsten en uitgaven en de kredieten die voor dat boekjaar opgenomen waren in het meerjarenplan.<br>
+&nbsp;
+
+### ART 22.
+
+De balans, vermeld in artikel 18, eerste lid, 4°, geeft een overzicht van het vermogen van het bestuur op het einde van het boekjaar en van het vermogen op het einde van het vorige boekjaar.<br>
+&nbsp;
+
+### ART 23.
+
+De staat van opbrengsten en kosten, vermeld in artikel 18, eerste lid, 5°, vermeldt naast de opbrengsten en kosten van het boekjaar de opbrengsten en kosten van het vorige boekjaar.<br>
+&nbsp;
+
+### ART 24.
+
+De activa zijn de middelen waarover het bestuur beschikt en waarvan verwacht wordt dat ze toekomstige economische voordelen of dienstverleningspotentieel voor het bestuur opleveren.<br>
+<br>
+Die activa zijn opgesplitst in vlottende activa en vaste activa.<br>
+<br>
+De actiefbestanddelen die aan minstens een van de volgende criteria voldoen, behoren tot de vlottende activa:<br>
+1° er wordt verwacht dat het actiefbestanddeel wordt gerealiseerd of bestemd is voor verkoop of verbruik in de normale exploitatiecyclus;<br>
+2° er wordt verwacht dat het actiefbestanddeel wordt gerealiseerd binnen het jaar na de balansdatum;<br>
+3° het actiefbestanddeel wordt in eerste instantie aangehouden om te worden verhandeld;<br>
+4° het actiefbestanddeel is een liquide middel of een geldbelegging, tenzij het beperkt is in het gebruik of ingewisseld moet worden voor de vereffening van een schuld van meer dan een jaar na de balansdatum.<br>
+<br>
+Alle andere actiefbestanddelen dan de actiefbestanddelen, vermeld in het derde lid, behoren tot de vaste activa.<br>
+&nbsp;
+
+### ART 25.
+
+De passiva zijn de financieringsbronnen van de activa.<br>
+<br>
+De passiva zijn opgesplitst in:<br>
+1° schulden: de huidige verplichtingen van het bestuur die aangegaan zijn om economische voordelen of dienstverleningspotentieel te verwerven, die voortvloeien uit gebeurtenissen uit het verleden en waarvan verwacht wordt dat ze resulteren in een uitgaande geldstroom voor het bestuur;<br>
+2° het nettoactief.<br>
+<br>
+De schulden, vermeld in het tweede lid, 1°, zijn opgesplitst in schulden op korte termijn en schulden op lange termijn.<br>
+<br>
+De schulden die aan een van de volgende criteria voldoen behoren tot de schulden op korte termijn:<br>
+1° er wordt verwacht dat de schuld wordt ingelost binnen de normale exploitatiecyclus;<br>
+2° de schuld wordt binnen het jaar na de balansdatum ingelost;<br>
+3° de schuld wordt in eerste instantie aangehouden om te worden verhandeld;<br>
+4° het bestuur heeft geen onvoorwaardelijk recht om de aflossing van de schuld tot ten minste een jaar na de balansdatum uit te stellen.<br>
+<br>
+Alle andere schulden dan de schulden, vermeld in het vierde lid, behoren tot de schulden op lange termijn.<br>
+&nbsp;
+
+### ART 26.
+
+De staat van opbrengsten en kosten, vermeld in artikel 18, eerste lid, 5°, bevat al de volgende elementen:<br>
+1° de opbrengsten;<br>
+2° de kosten;<br>
+3° het overschot of tekort van het boekjaar;<br>
+4° de verwerking van het overschot of het tekort van het boekjaar, als dat van toepassing is.<br>
+<br>
+Een opbrengst is een transactie die een toename van economische voordelen of dienstverleningspotentieel tijdens het boekjaar tot gevolg heeft als de instroom resulteert in een toename van het nettoactief, vermeld in artikel 25, tweede lid, 2°.<br>
+<br>
+Een kost is een transactie die tijdens het boekjaar een afname van economische voordelen of dienstverleningspotentieel tot gevolg heeft, in een van de volgende vormen:<br>
+1° een uitstroom of verbruik van activa;<br>
+2° het ontstaan van schulden die resulteren in een vermindering van het nettoactief, vermeld in artikel 25, tweede lid, 2°.<br>
+<br>
+Het overschot of het tekort van het boekjaar is het verschil tussen het totaal van de opbrengsten en het totaal van de kosten.<br>
+&nbsp;
+
 ## Afdeling 2 Diverse bepalingen
+
+### ART 27.
+
+Na de vaststelling van een jaarrekening door de raad worden de cijfers ervan verwerkt in de eerstvolgende aanpassing van het meerjarenplan.<br>
+&nbsp;
+
+### ART 28.
+
+Fouten in de jaarrekening van een voorgaande periode worden gecorrigeerd in de eerste jaarrekening die voor vaststelling aan de raad wordt voorgelegd nadat de fout ontdekt is.<br>
+<br>
+Fouten die beslissingen van de raad kunnen beļnvloeden, worden verklaard in de toelichting bij de jaarrekening.<br>
+&nbsp;
 
 ## TITEL 3 De opvolgingsrapportering
 
