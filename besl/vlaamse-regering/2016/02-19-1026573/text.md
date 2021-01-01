@@ -61,7 +61,7 @@ De dienst voor binnenlandse adoptie bezorgt jaarlijks, uiterlijk op 31 maart, ee
 
 ### ART. 10.
 
-<p>§ 1. Overeenkomstig artikel 19, § 1, van het decreet Binnenlandse Adoptie van 3 juli 2015 ontvangt de vergunde dienst voor binnenlandse adoptie jaarlijks vanaf 2017, binnen de marge van de begrotingskredieten, een basissubsidie voor personeels- en werkingskosten van 507.099,03&nbsp;euro.</p>
+<p>§ 1. Overeenkomstig artikel 19, § 1, van het decreet Binnenlandse Adoptie van 3 juli 2015 ontvangt de vergunde dienst voor binnenlandse adoptie jaarlijks vanaf 2017, binnen de marge van de begrotingskredieten, een basissubsidie voor personeels- en werkingskosten van 527.923,11 euro (vijfhonderdzevenentwintigduizend negenhonderddrieëntwintig euro elf cent).</p>
 
 <p>Overeenkomstig artikel 19, § 1, van het decreet Binnenlandse Adoptie van 3 juli 2015 wordt de basissubsidie vermeerderd met een forfaitaire subsidie van:<br>
 1° 2735 euro per begeleiding van een afstandsouder als vermeld in artikel 14, § 4, 1° tot en met 4°, van het decreet Binnenlandse Adoptie van 3 juli 2015. Er is sprake van een begeleiding als er een dossier werd aangemaakt op naam van de afstandsouder en er een uitgebreid contact was tussen de dienst voor binnenlandse adoptie en de afstandsouder;<br>
