@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035287,
+  "title": "Ministerieel besluit van 2021-02-23 tot wijziging van het ministerieel besluit van 26 maart 2019 tot uitvoering van het besluit van de Vlaamse Regering van 7 december 2018 betreffende de nadere regels voor het verkrijgen van een zorgtoeslag, wat betreft de vergoedingen voor evaluerende artsen en het bewijs over de gevorderde en actieve kennis van het Nederlands",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035287/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "e0f6ef44cdc2c4fdf8b18ed4676cfcd5a523d209a4b55406e665b9b8ff301199",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035287&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2021-02-23",
+  "gazette": "2021-03-10",
+  "numac": 2021040692,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
