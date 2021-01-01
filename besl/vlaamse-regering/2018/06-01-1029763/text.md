@@ -135,7 +135,7 @@ Bij de screening, vermeld in het eerste lid, wordt alleszins rekening gehouden m
 3° voor structuuronderdelen met finaliteit arbeidsmarkt: de stand van zaken op het vlak van beroepskwalificaties, arbeidsmarkt en tewerkstelling;<br>
 4° voor structuuronderdelen met dubbele finaliteit: de aansluitingsmogelijkheden op en de slaagcijfers in de studiegebieden van het hoger onderwijs die aansluiten op het studiedomein van het secundair onderwijs enerzijds en de stand van zaken op het vlak van beroepskwalificaties, arbeidsmarkt en tewerkstelling anderzijds.<br>
 <br>
-Uiterlijk op 1 september van het schooljaar dat vooraf gaat aan het schooljaar van de inwerkingtreding ervan, neemt de Vlaamse Regering een beslissing over het eventueel voorstel van bijsturing van het studieaanbod dat uit de screening volgt. De Vlaamse Regering neemt haar beslissing na advies van enerzijds de Vlaamse Onderwijsraad en anderzijds, louter voor structuuronderdelen met dubbele finaliteit of finaliteit arbeidsmarkt, de Sociaal-Economische Raad van Vlaanderen en de raad van bestuur van Syntra Vlaanderen.
+Uiterlijk op 1 september van het schooljaar dat vooraf gaat aan het schooljaar van de inwerkingtreding ervan, neemt de Vlaamse Regering een beslissing over het eventueel voorstel van bijsturing van het studieaanbod dat uit de screening volgt. De Vlaamse Regering neemt haar beslissing na advies van enerzijds de Vlaamse Onderwijsraad en anderzijds, louter voor structuuronderdelen met dubbele finaliteit of finaliteit arbeidsmarkt, de Sociaal-Economische Raad van Vlaanderen en de raad van bestuur van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.
 
 ### ART 3/1.
 
