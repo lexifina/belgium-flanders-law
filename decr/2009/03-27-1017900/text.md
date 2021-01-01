@@ -24,12 +24,12 @@ c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de d
 6° Geïntegreerd Beheers- en Controlesysteem : het registratiesysteem in de zin van titel II, hoofdstuk 4, van de verordening (EG) nr. 1782/2003 van de Raad van 29 september 2003 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers en houdende wijziging van de verordeningen (EEG) nr. 2019/93, (EG) nr. 1452/2001, (EG) 1453/2001, (EG) nr. 1454/2001, (EG) nr. 1868/94, (EG) nr. 1251/1999, (EG) nr. 1254/1999, (EG) nr. 1673/2000, (EEG) nr. 2358/71 en (EG) nr. 2529/2001;<br>
 7° groepswoningbouw : het gemeenschappelijk oprichten van woningen die een gemeenschappelijke werf hebben en fysisch of stedenbouwkundig met elkaar verbonden zijn;<br>
 8° grond(- en panden)speculatie : het in handen houden van gronden (of panden) met het oogmerk om deze met abnormale winsten te verkopen bij prijsstijgingen ten gevolge van de kunstmatige creatie van schaarste aan gronden (of panden);<br>
-9° hoofdverblijfplaats : de woning, vermeld in artikel 2, § 1, eerste lid, 10°, van de Vlaamse Wooncode;<br>
+9° hoofdverblijfplaats : de woning, vermeld in artikel 1.3, § 1, eerste lid, 21°, van de Vlaamse Codex Wonen van 2021;<br>
 10° kavels : de in een omgevingsvergunning voor het verkavelen van gronden van een niet vervallen verkaveling afgebakende percelen;<br>
 10° /1 landmeter-expert : de landmeter-expert, ingeschreven op het tableau van de beoefenaars van het beroep als bedoeld in de wet van 11 mei 2003 tot bescherming van de titel en van het beroep van landmeter-expert en op wie het koninklijk besluit van 15 december 2005 tot vaststelling van de voorschriften inzake de plichtenleer van de landmeter-expert van toepassing is;<br>
 11° onbebouwd : beantwoordend aan de criteria voor opname in het register van onbebouwde percelen, gesteld bij en krachtens artikel 5.6.1 van de Vlaamse Codex Ruimtelijke Ordening;<br>
 12° plan van aanleg : een gewestplan, een algemeen plan van aanleg of een bijzonder plan van aanleg;<br>
-13° renovatie : de werkzaamheden, vermeld in artikel 2, § 1, eerste lid, 18°, van de Vlaamse Wooncode, alsmede sloopwerkzaamheden gevolgd door vervangingsbouw;<br>
+13° renovatie : de werkzaamheden, vermeld in artikel 1.3, § 1, eerste lid, 41°, van de Vlaamse Codex Wonen van 2021, alsmede sloopwerkzaamheden gevolgd door vervangingsbouw;<br>
 14° register van onbebouwde percelen : het register, vermeld in artikel 5.6.1 van de Vlaamse Codex Ruimtelijke Ordening;<br>
 14°/1 schattingsprijs : de raming van de waarde van een onroerend goed door een van de volgende personen of instanties, op voorwaarde dat een raming van een persoon of instantie als vermeld in punt 1° en 2°, primeert op een raming van een persoon of instantie als vermeld in punt 3°, 4° en 5° :<br>
 1° de ambtenaar van de Algemene Administratie van de Patrimoniale Documentatie van de Federale Overheidsdienst Financiën die bevoegd is voor schattingen;<br>
@@ -43,9 +43,9 @@ b) het bestaande en geplande aanbod aan huurwoningen die gehuurd worden middels 
 c) ...<br>
 d) het desgevallend door de gemeente geïnventariseerde bescheiden woonaanbod;<br>
 16° sociaal woonaanbod : het aanbod aan huurwoningen, koopwoningen en kavels dat voldoet aan beide hiernavolgende voorwaarden :<br>
-a) zij zijn volledig onderhevig aan de reglementering aangaande het sociale huurstelsel of de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen (VMSW) en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode;<br>
+a) zij zijn volledig onderhevig aan de reglementering aangaande het sociale huurstelsel of de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen (VMSW) en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Codex Wonen van 2021;<br>
 b) zij worden bestemd tot hoofdverblijfplaats, respectievelijk tot oprichting van een woning die tot hoofdverblijfplaats zal worden bestemd;<br>
-17° sociale woonorganisatie : een organisatie, vermeld in artikel 2, § 1, eerste lid, 26°, van de Vlaamse Wooncode;<br>
+17° sociale woonorganisatie : een organisatie, vermeld in artikel 1.3, § 1, eerste lid, 53°, van de Vlaamse Codex Wonen van 2021;<br>
 18° stedenbouwkundig voorschrift : een reglementaire bepaling, opgenomen in een ruimtelijk uitvoeringsplan, een plan van aanleg, een stedenbouwkundige verordening of een bouwverordening;<br>
 19° verkavelingsvoorschrift : een reglementair voorschrift, opgenomen in een omgevingsvergunning voor het verkavelen van gronden, aangaande de wijze waarop kavels bebouwd kunnen worden;<br>
 20° Vlaamse besturen :<br>
@@ -63,9 +63,9 @@ b) hun werking is rechtstreeks of onrechtstreeks onderworpen aan enig toezicht i
 1) een administratief toezicht;<br>
 2) een toezicht op de aanwending van de werkingsmiddelen;<br>
 3) de aanwijzing, door een Vlaams bestuur, van ten minste de helft van de leden van de directie, van de raad van bestuur, of van de raad van toezicht;<br>
-22° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
+22° ...;<br>
 22° /1 Vlabinvest apb: het Agentschap voor Woon- en Zorginfrastructuurbeleid voor Vlaams-Brabant, opgericht als het Agentschap voor Grond- en Woonbeleid voor Vlaams-Brabant bij artikel 1 van het besluit van de provincieraad van Vlaams-Brabant van 22 oktober 2013, en omgevormd tot het Agentschap voor Woon- en Zorginfrastructuurbeleid voor Vlaams-Brabant bij besluit van de provincieraad van Vlaams-Brabant;<br>
-23° woning : een goed, vermeld in artikel 2, § 1, eerste lid, 31°, van de Vlaamse Wooncode;<br>
+23° woning : een goed, vermeld in artikel 1.3, § 1, eerste lid, 66°, van de Vlaamse Codex Wonen van 2021;<br>
 24° woongebied : de gebieden die :<br>
 a) ofwel geordend worden door een ruimtelijk uitvoeringsplan en sorteren onder de categorie van gebiedsaanduiding « wonen »;<br>
 b) ofwel geordend worden door een plan van aanleg en aangewezen zijn als woongebied in de zin van artikel 5.1.0 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerp-gewestplannen en de gewestplannen;<br>
@@ -92,7 +92,16 @@ Het Vlaamse Gewest voert in samenwerking met de provincies en de gemeenten een g
 
 ### ART. 2.1.2.
 
-Het grond- en pandenbeleid is gericht op een maatschappelijk gewenst en kwaliteitsvol ruimtegebruik en dient ten minste volgende doelstellingen :<br />1° het bevorderen van een duurzame ruimtelijke ontwikkeling, vermeld in artikel 1.1.4 van de Vlaamse Codex Ruimtelijke Ordening;<br />2° het voorzien in een voldoende ruim en kwalitatief aanbod aan gronden, panden en infrastructuren die nodig of nuttig zijn voor de verwezenlijking van de economische, sociale en culturele rechten, vermeld in artikel 23 van de Grondwet, en voor het recht op menswaardig wonen, vermeld in artikel 3 van de Vlaamse Wooncode;<br />3° het verwezenlijken van ruimtelijke ontwikkelingskansen voor de diverse maatschappelijke sectoren en activiteiten;<br />4° het scheppen van ruimtelijke strategieën en voorzieningen die sociale cohesie bevorderen;<br />5° het versneld verwezenlijken van bestemmingsvoorschriften door middel van gebiedsontwikkeling en -herontwikkeling;<br />6° het terugdringen en tegengaan van grond- en pandenspeculatie;<br />7° het faciliteren van de ontwikkeling en verwezenlijking van ruimtelijke projecten door publieke, publiek-private of private actoren;<br />8° een rechtvaardige verdeling van de gevolgen van bestemmingsvoorschriften, of de wijziging daarvan, over overheid, eigenaars, en gebruikers.<br /><br />
+Het grond- en pandenbeleid is gericht op een maatschappelijk gewenst en kwaliteitsvol ruimtegebruik en dient ten minste volgende doelstellingen :<br>
+1° het bevorderen van een duurzame ruimtelijke ontwikkeling, vermeld in artikel 1.1.4 van de Vlaamse Codex Ruimtelijke Ordening;<br>
+2° het voorzien in een voldoende ruim en kwalitatief aanbod aan gronden, panden en infrastructuren die nodig of nuttig zijn voor de verwezenlijking van de economische, sociale en culturele rechten, vermeld in artikel 23 van de Grondwet, en voor het recht op menswaardig wonen, vermeld in artikel 1.5 van de Vlaamse Codex Wonen van 2021;<br>
+3° het verwezenlijken van ruimtelijke ontwikkelingskansen voor de diverse maatschappelijke sectoren en activiteiten;<br>
+4° het scheppen van ruimtelijke strategieën en voorzieningen die sociale cohesie bevorderen;<br>
+5° het versneld verwezenlijken van bestemmingsvoorschriften door middel van gebiedsontwikkeling en -herontwikkeling;<br>
+6° het terugdringen en tegengaan van grond- en pandenspeculatie;<br>
+7° het faciliteren van de ontwikkeling en verwezenlijking van ruimtelijke projecten door publieke, publiek-private of private actoren;<br>
+8° een rechtvaardige verdeling van de gevolgen van bestemmingsvoorschriften, of de wijziging daarvan, over overheid, eigenaars, en gebruikers.<br>
+&nbsp;
 
 ### ART. 2.1.3.
 
@@ -107,8 +116,8 @@ c) de compensatie van kapitaalschade;<br>
 3° de instrumenten, vermeld in het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<br>
 4° de Vlaamse voorkooprechten, vermeld in artikel 2, 2°, van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten;<br>
 5° de koopplichten, vermeld in artikel 20 van het decreet van 16 juni 2006 houdende het oprichten van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen;<br>
-6° het recht van wederinkoop, vermeld in artikel 84 van de Vlaamse Wooncode;<br>
-7° het sociaal beheersrecht, vermeld in artikel 90 van de Vlaamse Wooncode;<br>
+6° het recht van wederinkoop, vermeld in artikel 5.92 van de Vlaamse Codex Wonen van 2021;<br>
+7° het sociaal beheersrecht, vermeld in boek 5, deel 7, van de Vlaamse Codex Wonen van 2021;<br>
 8° de ruilverkaveling, kavelruil, herverkaveling en landinrichting als vermeld in het decreet van 28 maart 2014 betreffende de landinrichting;<br>
 9° de natuurinrichting, vermeld in artikel 47 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 10° de onteigening ten algemenen nutte;<br>
@@ -273,13 +282,13 @@ Een kredietgever die uiterlijk op 31 december 2018 een renovatieovereenkomst slu
 1° het onroerend goed is op het ogenblik van het sluiten van de renovatieovereenkomst sinds ten hoogste vier opeenvolgende jaren opgenomen in één of meer van volgende registers, inventarissen of lijsten, gelijktijdig of consecutief :<br>
 a) het leegstandsregister;<br>
 b) de inventaris van leegstaande en/of verwaarloosde bedrijfsruimten, vermeld in artikel 3, § 1, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<br>
-c) het register van verwaarloosde gebouwen en woningen, vermeld in artikel 25, § 1, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br>
-d) de inventaris van ongeschikte en onbewoonbare woningen, vermeld in artikel 26, § 1, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br>
+c) het register van verwaarloosde gebouwen en woningen, vermeld in artikel 2.15 van de Vlaamse Codex Wonen van 2021;<br>
+d) de inventaris van ongeschikte en onbewoonbare woningen, vermeld in artikel 3.19, § 1, van de Vlaamse Codex Wonen van 2021;<br>
 2° het onroerend goed wordt na de renovatie bestemd tot hoofdverblijfplaats van ten minste één van de kredietnemers, en dit, behoudens in het geval van overlijden of een plotse ramp, voor een periode van ten minste acht opeenvolgende jaren.<br>
 <br>
 § 2. Een renovatieovereenkomst heeft een looptijd van ten hoogste dertig jaar.<br>
 <br>
-§ 3. De rentevoet van een renovatieovereenkomst is bij het aangaan van de lening ten hoogste gelijk aan de in uitvoering van artikel 79 van de Vlaamse Wooncode bepaalde referentierentevoet voor het toestaan van leningen aan particulieren door de Vlaamse Maatschappij voor Sociaal Wonen. De toepasselijke referentievoet is deze die geldt zes maanden voor het sluiten van de renovatieovereenkomst.<br>
+§ 3. De rentevoet van een renovatieovereenkomst is bij het aangaan van de lening ten hoogste gelijk aan de in uitvoering van artikel 5.65 van de Vlaamse Codex Wonen van 2021 bepaalde referentierentevoet voor het toestaan van leningen aan particulieren door de Vlaamse Maatschappij voor Sociaal Wonen. De toepasselijke referentievoet is deze die geldt zes maanden voor het sluiten van de renovatieovereenkomst.<br>
 <br>
 De rentevoet van een renovatieovereenkomst kan vijfjaarlijks worden herzien. De herziene rentevoet is ten hoogste gelijk aan de referentierentevoet, vermeld in het eerste lid, die geldt zes maanden voor de vijfde, tiende, vijftiende, twintigste, respectievelijk vijfentwintigste verjaardag van de renovatieovereenkomst.<br>
 <br>
@@ -1400,7 +1409,11 @@ Aan artikel 5 van het decreet van 16 juni 2006 betreffende het oprichten van de 
 
 ### ART. 7.3.2.
 
-De gegevens als opgenomen in de lijst van leegstaande gebouwen en/of woningen, vermeld in artikel 28, § 1, eerste lid, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, worden overgedragen naar en opgenomen in het leegstandsregister. Voor wat betreft de gegevens die op basis van deze overdracht opgenomen worden in het leegstandsregister, is de beroepsprocedure, vermeld in artikel 2.2.7, paragraaf 2 en paragraaf 3, niet van toepassing. De Vlaamse Regering kan nadere regelen bepalen aangaande de wijze van gegevensoverdracht.<br /><br />Zolang deze overdracht en opname niet zijn gerealiseerd, wordt de lijst van leegstaande gebouwen en/of woningen, voor de toepassing van dit decreet en van de Vlaamse Wooncode, beschouwd als leegstandsregister.<br /><br />Het eerste en het tweede lid zijn van overeenkomstige toepassing op de gemeentelijke leegstandsregisters die tot het jaar 2009 worden aangehouden in gemeenten die beschikken over een autonome leegstandsheffing.<br />
+De gegevens als opgenomen in de lijst van leegstaande gebouwen en/of woningen, vermeld in artikel 3.21, § 1, eerste lid, van de Vlaamse Codex Wonen van 2021, worden overgedragen naar en opgenomen in het leegstandsregister. Voor wat betreft de gegevens die op basis van deze overdracht opgenomen worden in het leegstandsregister, is de beroepsprocedure, vermeld in artikel 2.2.7, paragraaf 2 en paragraaf 3, niet van toepassing. De Vlaamse Regering kan nadere regelen bepalen aangaande de wijze van gegevensoverdracht.<br>
+<br>
+Zolang deze overdracht en opname niet zijn gerealiseerd, wordt de lijst van leegstaande gebouwen en/of woningen, voor de toepassing van dit decreet en van de Vlaamse Codex Wonen van 2021, beschouwd als leegstandsregister.<br>
+<br>
+Het eerste en het tweede lid zijn van overeenkomstige toepassing op de gemeentelijke leegstandsregisters die tot het jaar 2009 worden aangehouden in gemeenten die beschikken over een autonome leegstandsheffing.
 
 ### ART. 7.3.2/1.
 
