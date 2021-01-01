@@ -24,4 +24,4 @@ Een energiehuis kan na 1 januari 2019 aan een natuurlijk persoon die niet behoor
 
 ### ART 2.
 
-De vergelijkbaarheid van de voorwaarden gebeurt aan de hand van actualisatiefactoren op basis van de OLO-rentecurve waarvan het resultaat door het Vlaams Energieagentschap aan de energiehuizen maandelijks wordt overgemaakt.
+De vergelijkbaarheid van de voorwaarden gebeurt aan de hand van actualisatiefactoren op basis van de OLO-rentecurve waarvan het resultaat door het VEKA aan de energiehuizen maandelijks wordt overgemaakt.
