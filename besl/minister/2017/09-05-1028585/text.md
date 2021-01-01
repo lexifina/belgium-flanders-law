@@ -34,7 +34,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-§ 1. De initiatiefnemer bezorgt de VMSW conform artikel 6, tweede lid, 4°, van het Procedurebesluit Wonen van 14 juli 2017 een rapport over de huidige staat van de gebouwen of woningen die deel uitmaken van het project, hierna scorecard te noemen.<br>
+§ 1. De initiatiefnemer bezorgt de VMSW conform artikel 4.13, tweede lid, 4°, van het Besluit Vlaamse Codex Wonen van 2021 een rapport over de huidige staat van de gebouwen of woningen die deel uitmaken van het project, hierna scorecard te noemen.<br>
 <br>
 In de scorecard geeft de initiatiefnemer een score van 1 (uitstekende staat) tot en met 6 (onherstelbaar) voor de volgende elementen die betrekking hebben op de staat van de gebouwen of woningen:<br>
 1° externe kenmerken;<br>
@@ -50,9 +50,9 @@ Op basis van de scorecard stelt de VMSW voor de gebouwen of woningen een conditi
 3° interne kenmerken: 20%;<br>
 4° technische installaties: 20%.<br>
 <br>
-In de scorecard geeft de initiatiefnemer aan of de huidige staat van de gebouwen of woningen wel (score van 0) of niet (score van 1) voldoet aan de elementaire veiligheids-, gezondheids- en woningkwaliteitsvereisten, vastgesteld bij of krachtens artikel 5 van de Vlaamse Wooncode. Als een element niet onderzocht kan worden, wordt dat aangegeven als `onbekend'.<br>
+In de scorecard geeft de initiatiefnemer aan of de huidige staat van de gebouwen of woningen wel (score van 0) of niet (score van 1) voldoet aan de elementaire veiligheids-, gezondheids- en woningkwaliteitsvereisten, vastgesteld bij of krachtens artikel 3.1 van de Vlaamse Codex Wonen van 2021. Als een element niet onderzocht kan worden, wordt dat aangegeven als `onbekend'.<br>
 <br>
-Als een gebouw of woning niet voldoet aan een of meer van de veiligheids- en gezondheidsaspecten, vastgesteld bij of krachtens artikel 5 van de Vlaamse Wooncode, trekt de VMSW punten af van de conditiescore. Per aanwezig veiligheids- of gezondheidsrisico wordt de volgende negatieve score toegekend:<br>
+Als een gebouw of woning niet voldoet aan een of meer van de veiligheids- en gezondheidsaspecten, vastgesteld bij of krachtens artikel 3.1 van de Vlaamse Codex Wonen van 2021, trekt de VMSW punten af van de conditiescore. Per aanwezig veiligheids- of gezondheidsrisico wordt de volgende negatieve score toegekend:<br>
 1° stabiliteit: -10%;<br>
 2° brandveiligheid: -10%;<br>
 3° veiligheid van de installaties: -15%;<br>
@@ -60,7 +60,7 @@ Als een gebouw of woning niet voldoet aan een of meer van de veiligheids- en gez
 5° valbeveiliging: -5%;<br>
 6° binnenklimaat: -5%.<br>
 <br>
-§ 2. De initiatiefnemer bezorgt de VMSW conform artikel 6, tweede lid, 5°, van het Procedurebesluit Wonen van 14 juli 2017 een toelichtingsnota waarin hij:<br>
+§ 2. De initiatiefnemer bezorgt de VMSW conform artikel 4.13, tweede lid, 5°, van het Besluit Vlaamse Codex Wonen van 2021 een toelichtingsnota waarin hij:<br>
 1° de keuze motiveert die hij heeft gemaakt voor de vervangingsbouw of de investeringsverrichting;<br>
 2° een inschatting maakt van de planning van de werkzaamheden voor de volgende vijf jaar;<br>
 3° in voorkomend geval een beschrijving geeft van de voorgestelde fasering.
@@ -79,7 +79,7 @@ Als niet is voldaan aan een of elk van beide voorwaarden, vermeld in het eerste 
 
 Een project dat voorziet in de nieuwbouw van sociale huurwoningen, en een project dat voorziet in de verwerving van een of meer goede woningen, passen in het bindend sociaal objectief van de gemeente als een van de volgende gevallen zich voordoet:<br>
 1° het project ligt in een gemeente die haar objectief voor sociale huurwoningen nog niet heeft behaald en dat niet zal behalen, rekening houdend met het gerealiseerde en geplande sociaal huuraanbod;<br>
-2° het project past in een sociaal woonbeleidsconvenant als vermeld in artikel 4.1.4, § 3, tweede lid, van het decreet Grond- en Pandenbeleid.<br>
+2° het project past in een sociaal woonbeleidsconvenant als vermeld in artikel 5.52, eerste lid, van de Vlaamse Codex Wonen van 2021.<br>
 <br>
 Voor de toepassing van het eerste lid worden de volgende gegevens gebruikt:<br>
 1° het gerealiseerde sociaal huuraanbod in de gemeente: het aanbod aan sociale huurwoningen volgens de meest recente jaarlijkse meting van het sociaal huuraanbod, waarbij:<br>
@@ -96,8 +96,8 @@ Een project dat voorziet in de vervangingsbouw van sociale huurwoningen waarbij 
 ### ART 6.
 
 Bij de opmaak van de meerjarenplanning en de kortetermijnplanning houdt de beoordelingscommissie binnen de perken van de kredieten die daarvoor beschikbaar zijn op de begroting van de Vlaamse Gemeenschap, rekening met:<br>
-1° het beleidsmatig investeringsprogramma, vermeld in artikel 22, § 2, van de Vlaamse Wooncode;<br>
-2° artikel 33, § 3, eerste lid, van de Vlaamse Wooncode;<br>
+1° het beleidsmatig investeringsprogramma, vermeld in artikel 2.22 van de Vlaamse Codex Wonen van 2021;<br>
+2° artikel 4.13, § 2, eerste lid, van de Vlaamse Codex Wonen van 2021;<br>
 3° de aangegane engagementen en overeenkomsten.
 
 ### ART 7.
