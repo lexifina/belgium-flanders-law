@@ -2,16 +2,16 @@
   "codex_id": 1020337,
   "title": "Besluit van de Vlaamse Regering van 2011-04-29 betreffende de uitvoering van het decreet van 7 mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele sector voor wat betreft de erkende of gesubsidieerde organisaties uit het sociaal-culturele volwassenenwerk",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020337/VolledigDocument?datum=2020-11-24",
-  "source_sha256": "785e796bf297499f077aaa7093e6a906e6033f9f3721db3fab1df3d4ddb48470",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020337/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "85a8a50a472dc4bc8aae82f5cf792d0efd6593ce5fd1edd4d5c56d8043a048bb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020337&param=informatie",
-  "as_of": "2020-11-24",
+  "as_of": "2021-01-01",
   "made": "2011-04-29",
   "gazette": "2011-06-21",
   "numac": 2011202987,
   "document_start": "2011-06-21",
   "document_end": "2020-12-31",
-  "in_force": "2020-11-24",
+  "in_force": "2021-01-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2020-11-24; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
