@@ -28,9 +28,19 @@ Besluit :
 
 ## HOOFDSTUK 1. Wijzigingen van het koninklijk besluit van 30 januari 1979 betreffende de toekenning van een vakantiegeld aan het personeel van 's lands algemeen bestuur
 
+### ART 1.
+
+Artikel 3 van het koninklijk besluit van 30 januari 1979 betreffende de toekenning van een vakantiegeld aan het personeel van 's lands algemeen bestuur, vervangen bij het besluit van 28 maart 2014, wordt opgeheven.
+
 ### ART 2.
 
 In artikel 4 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 28 maart 2014 en gewijzigd bij het besluit van de Vlaamse Regering van 19 januari 2018, wordt de zinsnede "in 2018 en 2019" vervangen door de zinsnede "in 2020".
+
+### ART 3.
+
+Artikel 4 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 28 maart 2014 en gewijzigd bij dit besluit, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 4. De personeelsleden die betaald worden door het Ministerie van Onderwijs en Vorming, ontvangen een vakantiegeld waarvan het bedrag 92 % bedraagt van een twaalfde van hun geïndexeerd jaarsalaris dat het salaris bepaalt dat verschuldigd is voor de maand maart van het vakantiejaar.".
 
 ### ART 4.
 
@@ -56,6 +66,10 @@ In artikel 5, § 2/bis van hetzelfde besluit, ingevoegd bij het besluit van de V
 <br>
 "3° voor het jaar 2019 wordt het forfaitaire bedrag verhoogd met een niet-geïndexeerd bedrag van 6,58 euro;<br>
 4° vanaf 2020 wordt het forfaitair bedrag verhoogd met een niet-geïndexeerd bedrag van 8,55 euro.".
+
+### ART 8.
+
+Artikel 5bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 28 maart 2014, wordt opgeheven.
 
 ## Hoofdstuk 4. Slotbepalingen
 
