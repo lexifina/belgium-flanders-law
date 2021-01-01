@@ -2,16 +2,16 @@
   "codex_id": 1017754,
   "title": "Ministerieel besluit van 2009-03-03 tot vastlegging van de nadere regels voor de aanvraag en de toekenning van subsidies aan sociale verhuurkantoren voor het uitvoeren van energiebesparende investeringen in woongebouwen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017754/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "7d9e132f6fea26d4bf10e350bb7e19b8db7e70e5e977b82d962ee5941535fe6e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017754/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "a23d7f5e36261cee8d461426c6822ab2d2e44b345594d2ac910e1055d2dcd97c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017754&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2021-01-01",
   "made": "2009-03-03",
   "gazette": "2009-03-31",
   "numac": 2009201329,
   "document_start": "2009-04-10",
   "document_end": "2020-12-31",
-  "in_force": "2011-01-01",
+  "in_force": "2021-01-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }
