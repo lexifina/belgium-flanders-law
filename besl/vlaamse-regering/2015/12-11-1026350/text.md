@@ -115,7 +115,9 @@ De   bijstandsorganisaties hebben een collectieve opdracht, zowel voor de   budg
 
 ### ART. 14.
 
-<P>De   bijstandsorganisaties rapporteren jaarlijks voor 1 maart aan het agentschap over   het aantal leden op 1 januari van het lopende jaar, hun werking in het voorbije   jaar en de in het voorbije jaar verleende dienstverlening. Het agentschap stelt   de modaliteiten en de wijze van rapportering vast.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   agentschap kan een samenwerkingsovereenkomst met de bijstandsorganisaties   sluiten om de informatie-uitwisseling tussen de bijstandsorganisaties en het   agentschap efficiënt te laten verlopen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De bijstandsorganisaties registreren hun leden bij het agentschap op de wijze die het agentschap vaststelt. Ze rapporteren jaarlijks voor 1 maart aan het agentschap over hun werking in het voorbije jaar en de dienstverlening die ze hebben verleend in het voorbije jaar. Het agentschap stelt de modaliteiten en de wijze van rapportering vast.</p>
+
+<p>Het agentschap kan een samenwerkingsovereenkomst met de bijstandsorganisaties sluiten om de informatie-uitwisseling tussen de bijstandsorganisaties en het agentschap efficiënt te laten verlopen.</p>
 
 ## HOOFDSTUK 5 Procedure om een vergunning aan te vragen
 
@@ -127,15 +129,14 @@ De   bijstandsorganisaties hebben een collectieve opdracht, zowel voor de   budg
 
 ### ART. 16.
 
-<p>Binnen de perken van de daarvoor op de begroting vastgelegde kredieten, kent het agentschap aan vergunde bijstandsorganisaties een jaarlijkse basissubsidie toe om de collectieve opdracht, vermeld in artikel 10, uit te voeren.</p>
-
-<p>De basissubsidie bedraagt minimaal 40.096&nbsp;euro. Voor bijstandsorganisaties die volgens de rapportering, vermeld in artikel 14, meer dan vijfhonderd leden tellen bedraagt de basissubsidie 90.216&nbsp;euro. Voor bijstandsorganisaties die volgens de rapportering, vermeld in artikel 10, minder dan vijfhonderd leden tellen, wordt de basissubsidie berekend volgens de formule:</p>
-
-<p>Aantal leden gedeeld door vijfhonderd vermenigvuldigd met 90.216 euro.</p>
-
-<p>Per aangesloten budgethouder, zoals vastgesteld in de rapportering, vermeld in artikel 14, kent het agentschap een subsidie van 170,41 euro toe.</p>
-
-<p>De subsidies, vermeld in het tweede en derde lid, worden jaarlijks voor 1 april van het kalenderjaar waarop ze betrekking hebben, uitbetaald.</p>
+<p>Binnen de perken van de daarvoor op de begroting vastgelegde kredieten, kent het agentschap aan vergunde bijstandsorganisaties een jaarlijkse subsidie toe om de collectieve opdracht, vermeld in artikel 10, uit te voeren.<br>
+<br>
+Per budgethouder die bij een bijstandsorganisatie is aangesloten conform de registraties, vermeld in artikel 14, eerste lid, op 1 januari van het kalenderjaar waarvoor een subsidie wordt toegekend, kent het agentschap een subsidie van 236 euro toe aan de bijstandsorganisatie waarbij de budgethouder is aangesloten.<br>
+<br>
+Als een budgethouder zich bij meer dan een bijstandsorganisatie aansluit als lid wordt de subsidie, vermeld in het tweede lid, toegekend aan de vergunde bijstandsorganisatie waarbij de budgethouder zich het eerst heeft aangesloten.<br>
+<br>
+De subsidies, vermeld in het tweede lid, worden jaarlijks voor 1 april van het kalenderjaar waarop ze betrekking hebben, uitbetaald.<br>
+75% van de subsidies die op jaarbasis worden toegekend conform dit artikel, wordt besteed aan personeelskosten.</p>
 
 ### ART 16/1.
 
@@ -153,7 +154,8 @@ In afwijking van het vijfde lid hoeven de reserves die aangelegd zijn voor het s
 
 ### ART. 17.
 
-&nbsp;De bedragen, vermeld in artikel 16,   worden vanaf 1 januari 2016 jaarlijks aangepast, rekening houdend met het   indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk   besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot   vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens   de formule:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">(basisbedrag   x G-index december 20..)/G-index december 2015
+Het bedrag, vermeld in artikel 16, tweede lid, wordt vanaf 1 januari 2022 jaarlijks aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule:<br>
+(basisbedrag x G-index december 20..)/G-index december 2020.
 
 ## HOOFDSTUK 7 Toezicht
 
