@@ -114,15 +114,15 @@ Het agentschap werkt, in overleg met het werkveld, de nadere richtlijnen uit.
 
 Om het subsidiebedrag, vermeld in artikel 61 van het besluit van 28 maart 2014, voor erkende en gesubsidieerde kind- en ouderactiviteiten voor lokale armoedebestrijding vast te stellen, wordt een vast bedrag vermeerderd met een variabel bedrag.<br>
 <br>
-Het vaste bedrag, vermeld in het eerste lid, bedraagt voor kind- en ouderactiviteiten voor lokale armoedebestrijding 53.714,33 euro (drieënvijftigduizend zevenhonderdveertien euro drieëndertig cent).<br>
+Het vaste bedrag, vermeld in het eerste lid, bedraagt voor kind- en ouderactiviteiten voor lokale armoedebestrijding 57.218,58 euro (zevenenvijftigduizend tweehonderdachttien euro achtenvijftig cent).<br>
 <br>
-Om het variabele bedrag, vermeld in het eerste lid, te berekenen, geldt een basisbedrag dat bestaat uit het aantal minderjarigen in het werkingsgebied, vermenigvuldigd met 0,65 euro (vijfenzestig cent). Het basisbedrag wordt vermeerderd met het bedrag dat verkregen wordt door de samengestelde indicator te vermenigvuldigen met 20% van het basisbedrag en met een bedrag dat rekening houdt met de evolutie van de geldelijke anciënniteit, vermeld in artikel 61, § 1/1, eerste lid, 3°, van het besluit van 28 maart 2014.<br>
+Om het variabele bedrag, vermeld in het eerste lid, te berekenen, geldt een basisbedrag dat bestaat uit het aantal minderjarigen in het werkingsgebied, vermenigvuldigd met 0,66 euro (zessenzestig cent). Het basisbedrag wordt vermeerderd met het bedrag dat verkregen wordt door de samengestelde indicator te vermenigvuldigen met 20% van het basisbedrag en met een bedrag dat rekening houdt met de evolutie van de geldelijke anciënniteit, vermeld in artikel 61, § 1/1, eerste lid, 3°, van het besluit van 28 maart 2014.<br>
 <br>
-Het maximale subsidiebedrag dat aan kind- en ouderactiviteiten voor lokale armoedebestrijding kan worden toegekend, rekening houdend met de beschikbare begrotingskredieten, bedraagt 57.166,33 euro (zevenenvijftigduizend honderdzesenzestig euro drieëndertig cent).<br>
+Het maximale subsidiebedrag dat aan kind- en ouderactiviteiten voor lokale armoedebestrijding kan worden toegekend, rekening houdend met de beschikbare begrotingskredieten, bedraagt 60.729,26 euro (zestigduizend zevenhonderdnegenentwintig euro zessentwintig cent).<br>
 <br>
 In een gemeente waar er gemiddeld zestig of meer kinderen in kansarmoede worden geboren, kunnen maximaal twee kind- en ouderactiviteiten voor lokale armoedebestrijding worden gesubsidieerd.<br>
 <br>
-De subsidie, vermeld in dit artikel, is gekoppeld aan de spilindex die van toepassing is op 1 januari 2019. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
+De subsidie, vermeld in dit artikel, is gekoppeld aan de spilindex die van toepassing is op 1 januari 2021. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
 
 ## HOOFDSTUK 4 Procedures
 
