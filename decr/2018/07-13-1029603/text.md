@@ -4,6 +4,26 @@
 
 Dit decreet regelt een gemeenschapsaangelegenheid.
 
+### ART 2.
+
+In artikel 2 van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector wordt een punt 2° /1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"2° /1 aanspreekpunt integriteit (API) : persoon of personen die het aanspreekpunt vormen voor gevallen van grensoverschrijdend gedrag waarbij de individuele fysieke, psychische en seksuele integriteit van personen wordt geschaad. Het aanspreekpunt integriteit is belast met de eerste opvang en doorverwijzing, en zorgt voor de coördinatie van interne procedures ter bevordering van de integriteit van personen. Het aanspreekpunt integriteit is belast met de preventie en ondersteuning, en moet vormen van grensoverschrijdend gedrag tegengaan;".
+
+### ART 3.
+
+In artikel 2 van hetzelfde decreet wordt een punt 5° /1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"5° /1 integriteitsbeleid: een beleid met maatregelen die de sportfederatie in acht moet nemen met het oog op de bewaring en de bevordering van de individuele fysieke, psychische en seksuele integriteit van personen;".
+
+### ART 4.
+
+In artikel 11, § 1, eerste lid, van hetzelfde decreet worden een punt 3° /1 en 3° /2 ingevoegd, die luiden als volgt :<br>
+<br>
+"3° /1 een integriteitsbeleid voeren. De Vlaamse Regering bepaalt de nadere voorwaarden voor het voeren van dat integriteitsbeleid;<br>
+<br>
+3° /2 een aanspreekpunt integriteit organiseren. De Vlaamse Regering bepaalt wat het uitvoeren van de taken van het aanspreekpunt integriteit inhoudt en stelt de wijze vast waarop de sportfederatie aantoont hoe deze taken worden uitgevoerd;".
+
 ### ART 5.
 
 In artikel 2 van het decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid wordt een punt 1° /1 ingevoegd, dat luidt als volgt :<br>
