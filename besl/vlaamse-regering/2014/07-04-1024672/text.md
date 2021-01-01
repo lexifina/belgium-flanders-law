@@ -38,7 +38,15 @@ In dit besluit wordt verstaan onder:<BR>1° betalingsaanvraag: het verzoek   tot
 
 ### ART. 3.
 
-<P>§ 1. Om een subsidie te verkrijgen voor de toepassing van een maatregel als   vermeld in artikel 2, eerste lid, 1°, gaat de landbouwer een verbintenis aan   voor de duur van twee of drie opeenvolgende jaren, afhankelijk van de wettelijke   omschakeltermijn.<BR></P>  <P>§ 2. Om een subsidie te verkrijgen voor de toepassing van een maatregel als   vermeld in artikel 2, eerste lid, 2°, gaat de landbouwer een verbintenis aan   voor de duur van vijf opeenvolgende jaren.<BR></P>  <P>§ 3. De verbintenissen, vermeld in paragraaf 1 en 2, kunnen worden aangegaan   vanaf 1 januari 2015.<BR></P>  <P>De verbintenissen, vermeld in paragraaf 1 en 2, kunnen uitsluitend worden   aangegaan voor percelen landbouwgrond die in het Vlaamse Gewest liggen.<BR></P>  <P>In het tweede lid wordt verstaan onder landbouwgrond: het landbouwareaal dat   in uitvoering van artikel 32, tweede lid, van Verordening (EU) nr. 1307/2013 van   het Europees parlement en de Raad van 17 december 2013 tot vaststelling van   voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de   steunregelingen van het gemeenschappelijk landbouwbeleid en tot intrekking van   Verordening (EG) nr. 637/2008 van de Raad en Verordening (EG) nr. 73/2009 van de   Raad als subsidiabel wordt beschouwd.<BR></P>
+<p>§ 1. Om een subsidie te verkrijgen voor de toepassing van een maatregel als vermeld in artikel 2, eerste lid, 1°, gaat de landbouwer een verbintenis aan voor de duur van twee of drie opeenvolgende jaren, afhankelijk van de wettelijke omschakeltermijn.</p>
+
+<p>§ 2. Om een subsidie te verkrijgen voor de toepassing van een maatregel als vermeld in artikel 2, eerste lid, 2°, gaat de landbouwer een verbintenis aan voor de duur van één jaar.</p>
+
+<p>§ 3. De verbintenissen, vermeld in paragraaf 1 en 2, kunnen worden aangegaan vanaf 1 januari 2015.</p>
+
+<p>De verbintenissen, vermeld in paragraaf 1 en 2, kunnen uitsluitend worden aangegaan voor percelen landbouwgrond die in het Vlaamse Gewest liggen.</p>
+
+<p>In het tweede lid wordt verstaan onder landbouwgrond: het landbouwareaal dat in uitvoering van artikel 32, tweede lid, van Verordening (EU) nr. 1307/2013 van het Europees parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EG) nr. 637/2008 van de Raad en Verordening (EG) nr. 73/2009 van de Raad als subsidiabel wordt beschouwd.</p>
 
 ## HOOFDSTUK 3 Subsidies
 
