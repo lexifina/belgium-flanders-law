@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035291,
+  "title": "Ministerieel besluit van 2021-02-24 tot vastlegging van het totale aantal subsidiabele uren oppashulp voor de erkende diensten voor oppashulp en tot bepaling van het maximale aantal subsidiabele uren oppashulp per erkende dienst voor het werkjaar 2021",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035291/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "c02c38581d93222f5d6f373d7ccc4d955a5dede2ca51cbce31ca549cde69133f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035291&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2021-02-24",
+  "gazette": "2021-03-11",
+  "numac": 2021040744,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
