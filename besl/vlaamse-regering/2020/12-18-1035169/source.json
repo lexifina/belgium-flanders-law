@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035169,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-18 tot vastlegging van de procedure voor het verlenen van voorafgaande vergunningen en planningsvergunningen voor lokale dienstencentra, centra voor dagopvang van een dienst voor gezinszorg, centra voor dagverzorging, centra voor kortverblijf, centra voor herstelverblijf of woonzorgcentra, en tot bepaling van de elementen van de globale zorgstrategische visie voor deze voorafgaande vergunningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035169/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "7f3f7c1886800bd31ef71b95f8e2f7f3816fac91fc7a207ebaeee154f0369313",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035169&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2020-12-18",
+  "gazette": "2021-02-04",
+  "numac": 2021040076,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 47,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
