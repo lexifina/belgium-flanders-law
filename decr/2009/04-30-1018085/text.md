@@ -870,13 +870,63 @@ De Vlaamse Regering waakt erover dat de activiteiten van het   Expertisecentrum 
 
 ## [Afdeling I. Erkenning en strategische doelstellingen van het Kenniscentrum Data & Maatschappij (ing. decr. 18 december 2020, art. 64, I: 1 januari 2021)]
 
+### ART 63/13/1.
+
+De Vlaamse Regering is ertoe gemachtigd om over te gaan tot de erkenning van een Kenniscentrum Data &amp; Maatschappij, dat opgericht wordt door een consortium van instellingen uit het hoger onderwijs.
+
+### ART 63/13/2.
+
+Het Kenniscentrum Data &amp; Maatschappij speelt in op het disruptieve karakter van artificiële intelligentie en heeft als strategische doelstellingen:<br>
+1° een breed gedragen co-design approach voor het uittekenen van AI-beleid;<br>
+2° stimuleren van maatschappelijk debat rond acceptatie van de technologie;<br>
+3° het aanleveren van thought leadership over zowel maatschappelijk als economisch aanvaardbare ontwikkelingstrajecten voor AI;<br>
+4° de identificatie en validatie van belangrijke menselijke factoren in de ontwikkeling van AI;<br>
+5° de ontwikkeling van juridische kaders en richtsnoeren voor beleidsmakers en bedrijven.<br>
+<br>
+De Vlaamse Regering kan het kenniscentrum belasten met bijzondere opdrachten.
+
 ## [Afdeling II. Bestuur en werking (ing. decr. 18 december 2020, art. 67, I: 1 januari 2021)]
+
+### ART 63/13/3.
+
+Het Kenniscentrum Data &amp; Maatschappij bezit geen rechtspersoonlijkheid.<br>
+<br>
+Op basis van de in artikel 63/13/2 vermelde strategische doelstellingen maakt het Kenniscentrum Data &amp; Maatschappij een vijfjarenplanning op bij het afsluiten van een vijfjarige convenant. Jaarlijks wordt op basis van deze convenant een jaarplanning opgemaakt na afstemming met de stuurgroep van het Kenniscentrum Data &amp; Maatschappij.
+
+### ART 63/13/4.
+
+De samenstelling van de stuurgroep wordt vastgelegd in het convenant.<br>
+<br>
+De voortgang van de activiteiten van het Kenniscentrum wordt opgevolgd door een stuurgroep. De taakstelling van de stuurgroep wordt vastgelegd in het convenant.
 
 ## [Afdeling III. Convenant (ing. decr. 18 december 2020, art. 70, I: 1 januari 2021)]
 
+### ART 63/13/5.
+
+De Vlaamse Regering en een consortium van instellingen uit Hoger Onderwijs sluiten voor de organisatie van het Kenniscentrum Data &amp; Maatschappij een vijfjaarlijks convenant waarin ten minste volgende elementen zijn opgenomen:<br>
+1° de modaliteiten waaronder de Vlaamse Regering de subsidies verleent;<br>
+2° de strategische en operationele doelstellingen van de instelling;<br>
+3° de regels voor de meting en de opvolging ervan;<br>
+4° de betalingsregeling voor de jaarlijkse subsidie van het Vlaamse Gewest of de Vlaamse Gemeenschap;<br>
+5° de financiële bepalingen over de aanwending van de subsidies en de reserve- vorming;<br>
+6° een rapporteringsmechanisme en een mechanisme dat bestemd is voor de opvolging van de werking;<br>
+7° de maatregelen in geval van niet-naleving van het convenant;<br>
+8° de gevallen waarin en de wijze waarop het convenant tijdens de looptijd ervan kan worden gewijzigd;<br>
+9° de duur en de opzeggings- en verlengingsmogelijkheden van het convenant; 10° de samenwerkingsovereenkomst tussen de partners uit het consortium als bijlage.
+
 ## [Afdeling IV. Subsidie (ing. decr. 18 december 2020, art. 72, I: 1 januari 2021)]
 
+### ART 63/13/6.
+
+&nbsp;De Vlaamse Regering stelt binnen de beschikbare begrotingskredieten een jaarlijkse subsidie ter beschikking aan de consortiumpartners.
+
 ## [Afdeling V. Evaluatie (ing. decr. 18 december 2020, art. 74, I: 1 januari 2021)]
+
+### ART 63/13/7.
+
+De Vlaamse Regering waakt erover dat de activiteiten van het Kenniscentrum Data &amp; Maatschappij worden geëvalueerd voor het verstrijken van het lopende convenant, aan de hand van de strategische en operationele doelstellingen die vastgelegd zijn in het convenant.<br>
+<br>
+De voorwaarden voor een nieuw convenant worden onder meer bepaald door de resultaten van de evaluatie.
 
 ## [TITEL IV/1. WETENSCHAPSCOMMUNICATIE EN STRUCTURELE PARTNERS (ing. decr. 25 april 2014, art. 103, I:8 september 2014)]
 
