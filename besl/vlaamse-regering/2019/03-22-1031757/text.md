@@ -942,6 +942,14 @@ De minister kan bijkomende uitzonderingen voorzien om rekening te houden met mil
 <br>
 § 3. Het gebruik van kunststoffen afvalzakken zonder gerecycleerde kunststoffen wordt voor bestaande voorraden die aangekocht werden voor de ingangsdatum van het verbod, toegelaten tot maximaal 6 maanden na de ingang van het verbod.".
 
+### ART 68.
+
+Aan hoofdstuk 5, afdeling 5.3 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 16 november 2012, 23 mei 2014, 23 september 2016, 10 februari 2017 en 22 december 2017, wordt een onderafdeling 5.3.14 die bestaat uit artikel 5.3.14.1, toegevoegd, die luidt als volgt:<br>
+<br>
+"Onderafdeling 5.3.14. Voorwaarden voor het gebruik van stickers op groenten en fruit<br>
+<br>
+Art. 5.3.14.1. Het gebruik van stickers die rechtstreeks aangebracht worden op groenten en fruit is verboden, tenzij de informatie op de sticker functioneel of wettelijk verplicht is of tenzij de stickers gecertificeerd als thuiscomposteerbaar zijn.".
+
 ### ART 69.
 
 In artikel 6.1.1.2 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 23 mei 2014, worden de volgende wijzigingen aangebracht:<br>
