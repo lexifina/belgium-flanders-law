@@ -46,7 +46,7 @@ b) de andere raden, commissies, comités en andere organen, ongeacht de benaming
 2) hun opdracht bestaat er hoofdzakelijk in advies te verlenen, ongeacht de benaming ervan, uit eigen beweging of op verzoek;<br>
 3) ze verlenen advies aan onder meer het Vlaams Parlement, de Vlaamse Regering, een Vlaamse minister of de Vlaamse administratie;<br>
 4° Vlaamse openbare instellingen die niet behoren tot de Vlaamse administratie:<br>
-a) het Fonds Flankerend Economisch Beleid - Hermes;<br>
+a) het Fonds voor Innoveren en Ondernemen;<br>
 b) het Financieringsinstrument voor de Vlaamse Visserij- en Aquacultuursector - FIVA;<br>
 c) het Fonds Culturele Infrastructuur - FoCI;<br>
 d) het Garantiefonds Huisvesting;<br>
