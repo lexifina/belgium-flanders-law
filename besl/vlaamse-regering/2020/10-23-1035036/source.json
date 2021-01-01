@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035036,
+  "title": "Besluit van de Vlaamse Regering van 2020-10-23 tot regeling van het vakantiegeld en de eindejaarstoelage voor de personeelsleden van de universiteiten in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035036/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "9eeebb6af682989c09cc084183cfb99a3271c724369cff5b79d849fcbb627535",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035036&param=informatie",
+  "as_of": "2021-01-01",
+  "made": "2020-10-23",
+  "gazette": "2021-01-13",
+  "numac": 2020044518,
+  "document_start": "2021-01-01",
+  "document_end": null,
+  "in_force": "2021-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
