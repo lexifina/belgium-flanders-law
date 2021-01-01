@@ -24,6 +24,22 @@ DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID, GEZIN EN ARMOEDEBESTRIJDING BE
 
 ## HOOFDSTUK 1. Uitvoering van het besluit van de Vlaamse Regering van 13 november 2020
 
+### ART 1.
+
+In dit besluit wordt verstaan onder het besluit van 13 november 2020: het besluit van de Vlaamse Regering van 13 november 2020 tot regeling van een algemene en een selectieve subsidie voor de organisatoren van kinderopvang en buitenschoolse opvang en tot regeling van maatregelen voor de gezinnen in de kinderopvang en de buitenschoolse opvang naar aanleiding van de gevolgen van het COVID-19-virus.
+
+### ART 2.
+
+In de maand januari 2021 kan het agentschap de volgende subsidies toekennen:<br>
+1° een algemene subsidie als vermeld in artikel 4 en 5 van het besluit van 13 november 2020 voor de organisator van kinderopvang;<br>
+2° een algemene subsidie als vermeld in artikel 10 en 11 van hetzelfde besluit voor de organisator van buitenschoolse opvang.
+
+### ART 3.
+
+Het percentage van de plaatsen op de erkenning of het attest van toezicht of van de plaatsen met toestemming waarvoor een organisator de subsidie, vermeld in artikel 11, eerste lid, 1° en 2°, van hetzelfde besluit, ontvangt, bedraagt 30 % voor de periode van 1 tot en met 31 januari 2021 voor de organisator die de dienstverlening gewoon voortzet.<br>
+<br>
+In afwijking van het eerste lid bedraagt van 1 tot en met 31 januari 2021 het percentage 80 % van het aantal plaatsen op de erkenning of het attest van toezicht of van de plaatsten met toestemming voor de openingsdagen waarop de organisator door een verplichte sluiting, zoals vermeld in artikel 1, 21°, van hetzelfde besluit, de dienstverlening niet kan voortzetten.
+
 ## HOOFDSTUK 2. Wijziging van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013
 
 ### ART 4.
