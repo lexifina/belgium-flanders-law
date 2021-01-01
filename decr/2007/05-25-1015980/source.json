@@ -2,16 +2,16 @@
   "codex_id": 1015980,
   "title": "Decreet van 2007-05-25 houdende de harmonisering van de procedures van voorkooprechten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015980/VolledigDocument?datum=2018-09-01",
-  "source_sha256": "3b12765d97da60034353f348a3d8537299e064b4583f89a6223b6b7822191596",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015980/VolledigDocument?datum=2021-01-01",
+  "source_sha256": "68757b544c6731c2ded7aae4b7e423c1ab8ebe75127b61b573eb12faad4d92c2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015980&param=informatie",
-  "as_of": "2018-09-01",
+  "as_of": "2021-01-01",
   "made": "2007-05-25",
   "gazette": "2007-07-24",
   "numac": 2007036173,
   "document_start": "2012-10-01",
   "document_end": null,
-  "in_force": "2018-09-01",
+  "in_force": "2021-01-01",
   "article_versions": 47,
-  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
 }

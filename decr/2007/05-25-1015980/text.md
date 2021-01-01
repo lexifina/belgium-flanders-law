@@ -30,7 +30,25 @@ De Vlaamse Regering kan een procedure uitwerken in geval van   onbeschikbaarheid
 
 ### ART. 5.
 
-<P>§ 1. Iedere begunstigde meldt aan het agentschap de Vlaamse voorkooprechten   die hem zijn toegekend en waarvoor hij aanbiedingen via het e-voorkooploket wil   ontvangen.<BR><BR>Voor de voorkooprechten, vermeld in artikel 85 van het decreet   van 15 juli 1997 houdende de Vlaamse Wooncode, geldt de volgende regeling:<BR>1°   voor de voorkooprechten, vermeld in artikel 85, § 1, eerste lid, van het   voormelde decreet, moet elke begunstigde zelf de melding doen aan het   agentschap;<BR>2° voor de voorkooprechten, vermeld in artikel 85, § 1, tweede   lid, 1° en 2°, van het voormelde decreet, volstaat de melding door de   administratieve eenheid die met de afbakening belast is;<BR>3° voor de   voorkooprechten, vermeld in artikel 85, § 1, tweede lid, 3°, van het voormelde   decreet, volstaat de melding door de Vlaamse Regering of zijn   gemachtigde.<BR><BR>§ 2. De melding, vermeld in paragraaf 1, wordt digitaal   gedaan en bevat:<BR>1° de aanwijzing van de begunstigden;<BR>2° de percelen   waarop een Vlaams voorkooprecht uitgeoefend kan worden;<BR>3° de wet of het   decreet waarbij of krachtens hetwelk het voorkooprecht is toegekend.<BR><BR>De   melding, vermeld in paragraaf 1, wordt gedaan volgens de specificaties die het   agentschap heeft aangegeven.<BR><BR>Elke begunstigde is op eigen kosten belast   met de melding, vermeld in paragraaf 1 en in deze paragraaf.<BR><BR>§ 3. Opdat   percelen in het geografisch themabestand `Vlaamse voorkooprechten' opgenomen   kunnen worden, moeten ze geïdentificeerd zijn volgens de kadastrale gegevens of,   bij gebrek aan kadastrale gegevens, volgens een unieke identificatiecode die het   agentschap heeft opgegeven en de geografische ligging. Een perceel kan in het   geografisch themabestand `Vlaamse voorkooprechten' worden opgeno- men als het   voor de helft of meer in een afgebakend gebied ligt.<BR><BR>§ 4. Elke   begunstigde blijft aansprakelijk voor de meldingen, vermeld in paragraaf 2. Het   agentschap is aansprakelijk voor de verwerking van de   meldingen.</P>
+<p>§ 1. Iedere begunstigde meldt aan het agentschap de Vlaamse voorkooprechten die hem zijn toegekend en waarvoor hij aanbiedingen via het e-voorkooploket wil ontvangen.<br>
+<br>
+Voor de voorkooprechten, vermeld in boek 5, deel 6, van de Vlaamse Codex Wonen van 2021, geldt de volgende regeling:<br>
+1° voor de voorkooprechten, vermeld in artikel 5.76, § 1, eerste lid, van de voormelde codex, moet elke begunstigde zelf de melding doen aan het agentschap;<br>
+2° voor de voorkooprechten, vermeld in artikel 5.76, § 1, tweede lid, 1° en 2°, van de voormelde codex, volstaat de melding door de administratieve eenheid die met de afbakening belast is;<br>
+3° voor de voorkooprechten, vermeld in artikel 5.76, § 1, tweede lid, 3°, van de voormelde codex, volstaat de melding door de Vlaamse Regering of zijn gemachtigde.<br>
+<br>
+§ 2. De melding, vermeld in paragraaf 1, wordt digitaal gedaan en bevat:<br>
+1° de aanwijzing van de begunstigden;<br>
+2° de percelen waarop een Vlaams voorkooprecht uitgeoefend kan worden;<br>
+3° de wet of het decreet waarbij of krachtens hetwelk het voorkooprecht is toegekend.<br>
+<br>
+De melding, vermeld in paragraaf 1, wordt gedaan volgens de specificaties die het agentschap heeft aangegeven.<br>
+<br>
+Elke begunstigde is op eigen kosten belast met de melding, vermeld in paragraaf 1 en in deze paragraaf.<br>
+<br>
+§ 3. Opdat percelen in het geografisch themabestand `Vlaamse voorkooprechten' opgenomen kunnen worden, moeten ze geïdentificeerd zijn volgens de kadastrale gegevens of, bij gebrek aan kadastrale gegevens, volgens een unieke identificatiecode die het agentschap heeft opgegeven en de geografische ligging. Een perceel kan in het geografisch themabestand `Vlaamse voorkooprechten' worden opgeno- men als het voor de helft of meer in een afgebakend gebied ligt.<br>
+<br>
+§ 4. Elke begunstigde blijft aansprakelijk voor de meldingen, vermeld in paragraaf 2. Het agentschap is aansprakelijk voor de verwerking van de meldingen.</p>
 
 ### ART. 6.
 
