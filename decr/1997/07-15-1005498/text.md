@@ -17,26 +17,31 @@ a) een aangetekend schrijven;<br>
 b) een afgifte tegen ontvangstbewijs;<br>
 c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
 4° Heffingsdecreet : afdeling 2, van hoofdstuk VIII, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br>
+4° bis conforme woning: een woning die geen enkel gebrek als vermeld in artikel 5, § 1, derde lid, 2° en 3°, vertoont;<br>
+4° ter conformiteit: het vertonen van geen enkel gebrek als vermeld in artikel 5, § 1, derde lid, 2° en 3° ;<br>
 5° gemeenschapsvoorzieningen : de installaties of gebouwen van collectieve aard en van sociaal of cultureel belang, met inbegrip van voorzieningen die bijdragen tot een verwevenheid van functies op buurtniveau;<br>
 6° woonbehoeftig : verkerend in een feitelijke economische en maatschappelijke situatie waarin een behoorlijke huisvesting slechts kan worden verworven of behouden met extra of omvattende steun;<br>
 7° gewestelijk ambtenaar : de ambtenaar die met toepassing van de regels, vastgesteld door de Vlaamse Regering wordt aangewezen en die binnen zijn ambtsgebied belast is met opdrachten inzake kwaliteitsbewaking, zoals bedoeld in titel III;<br>
 8° gezin : meerdere personen die op duurzame wijze in dezelfde woning samenwonen en daar hun hoofdverblijfplaats hebben;<br>
 9° ...;<br>
 10° hoofdverblijfplaats : de woning waar een gezin of een alleenstaande effectief en gewoonlijk verblijft;<br>
-10° bis kamer : een woning waarin een toilet, een bad of douche of een kookgelegenheid ontbreken en waarvan de bewoners voor een of meer van die voorzieningen aangewezen zijn op de gemeenschappelijke ruimten in of aansluitend bij het gebouw waarvan de woning deel uitmaakt;<br>
-11° onaangepaste woning : een woning die niet aangepast is aan de fysieke mogelijkheden van bejaarden of personen met een handicap of die niet aangepast is aan de woningbezetting volgens de normen, vastgesteld met toepassing van artikel 5, § 1, derde lid;<br>
-12° onbewoonbare woning : een woning die niet in aanmerking komt voor bewoning omdat ze gebreken vertoont die een veiligheids- of gezondheidsrisico inhouden;<br>
+10° bis houder van het zakelijk recht: de persoon of de personen met een recht van volle eigendom, opstal, erfpacht of vruchtgebruik met betrekking tot een gebouw of een woning;<br>
+10° ter inventaris: de inventaris, vermeld in artikel 16quinquies;<br>
+10° quater inventarisbeheerder: de gewestelijke entiteit die met toepassing van artikel 16quinquies, § 1, tweede lid, door de Vlaamse Regering belast wordt met het beheer van de inventaris;<br>
+10° quinquies kamer: een woning waarin een toilet, een bad of douche, of een kookgelegenheid ontbreken en waarvan de bewoners voor een of meer van die voorzieningen aangewezen zijn op de gemeenschappelijke ruimten in of aansluitend bij het gebouw waarvan de woning deel uitmaakt;<br>
+11° onaangepaste woning : een woning die niet aangepast is aan de fysieke mogelijkheden van bejaarden of personen met een handicap;<br>
+12° onbewoonbare woning : een woning met minstens één gebrek van categorie III als vermeld in artikel 5, § 1, derde lid, 3°;<br>
 13° ongeschikt gebouw : een gebouw dat niet meer geschikt is voor een gebruik waarvoor het oorspronkelijk bestemd was;<br>
-14° ongeschikte woning : een woning die niet beantwoordt aan de veiligheids-, gezondheids- of kwaliteitsnormen, opgelegd door de Vlaamse Wooncode;<br>
+14° ongeschikte woning : een woning met minstens één gebrek van categorie II als vermeld in artikel 5, § 1, derde lid, 2°, of van categorie III als vermeld in artikel 5, § 1, derde lid, 3°;<br>
 15° opvulbouw : de realisatie van één of meer woningen binnen een bestaande woonkern, die in verhouding tot het aantal bestaande woningen een klein deel ervan uitmaken;<br>
-16° overbewoonde woning : een woning die onaangepast is vanwege de woningbezetting, waarbij het aantal bewoners van de woning zo groot is dat het een veiligheids- of gezondheidsrisico vormt;<br>
+16° overbewoonde woning: een woning waar een overschrijding van de bezettingsnorm, vastgesteld met toepassing van artikel 5, § 1, vierde lid, een veiligheids- of gezondheidsrisico of mensonwaardige levensomstandigheden veroorzaakt;<br>
 17° personen met een handicap : personen die voldoen aan de criteria om een attest te bekomen volgens het besluit van de Vlaamse Regering tot bepaling van de attesten die in aanmerking worden genomen om een ernstige handicap vast te stellen;<br>
 18° renovatie : de uitvoering van structurele ingrepen die vooral betrekking hebben op de stabiliteit, de bouwfysica of de veiligheid, aan een woning of gebouw dat bestemd is om te worden bewoond;<br>
 19° renovatie- of opvulbouwproject : een sociaal woonproject dat omvangrijke structurele ingrepen inhoudt, met name renovatie, vervangingsbouw en/of opvulbouw, met betrekking tot één of meer woningen, gebouwen of percelen die gelegen zijn in een bestaande woonkern;<br>
 19° bis vervangingsbouw: een gebouw of woning volledig afbreken en op hetzelfde perceel een of meer nieuwe woningen oprichten;<br>
 20° sociale huisvestingsmaatschappij : de erkende sociale huisvestingsmaatschappijen, vermeld in artikel 40;<br>
 21° erkende huurdiensten : huurdersbonden of sociale verhuurkantoren die door de Vlaamse Regering erkend zijn overeenkomstig artikel 56;<br>
-22° sociale huurwoning : een woning die niet behoort tot het bescheiden woonaanbod, vermeld in artikel 1.2, eerste lid, 1°, van het decreet Grond- en Pandenbeleid, die als hoofdverblijfplaats verhuurd of onderverhuurd wordt door :<br>
+22° sociale huurwoning : een woning die niet behoort tot het bescheiden woonaanbod, vermeld in artikel 1.2, eerste lid, 1°, van het decreet Grond- en Pandenbeleid,&nbsp;die als hoofdverblijfplaats verhuurd of onderverhuurd wordt door :<br>
 a) de Vlaamse Maatschappij voor Sociaal Wonen of een sociale huisvestingsmaatschappij;<br>
 b) de sociale verhuurkantoren die overeenkomstig artikel 56 erkend zijn als huurdienst;<br>
 c) het Vlaams Woningfonds, een gemeente, een intergemeentelijk samenwerkingsverband, een OCMW of een welzijnsvereniging, voor zover er voor die woning een van de volgende subsidies werd verleend :<br>
@@ -63,14 +68,15 @@ c) een gemeente, voor zover het perceel verworven werd met toepassing van het re
 29° tegemoetkoming : een voordeel dat krachtens de Vlaamse Wooncode wordt verleend aan gezinnen of alleenstaanden;<br>
 30° verbetering : de uitvoering van beperkte ingrepen aan een woning, vooral met betrekking tot het comfort, de toegankelijkheid, de energie-efficiëntie of de privacy ten aanzien van de onmiddellijke woonomgeving;<br>
 31° woning : elk onroerend goed of het deel ervan dat hoofdzakelijk bestemd is voor de huisvesting van een gezin of alleenstaande;<br>
+31° bis wooninspecteur: de ambtenaar die met toepassing van artikel 20, § 2, eerste lid, door de Vlaamse Regering aangewezen wordt als wooninspecteur;<br>
 32° woonproject : een sociaal woonproject of een ander woonproject dat wordt opgezet om te voorzien in de huisvesting van gezinnen of alleenstaanden of om hun woonsituatie te verbeteren.<br>
-Een woonproject is sociaal wanneer het de realisatie van sociale huurwoningen, sociale koopwoningen of sociale kavels, met inbegrip van de eventuele gemeenschappelijke voorzieningen en bescheiden huurwoningen&nbsp;betreft.<br>
+Een woonproject is sociaal wanneer het de realisatie van sociale huurwoningen, sociale koopwoningen of sociale kavels, met inbegrip van de eventuele gemeenschappelijke voorzieningen en bescheiden huurwoningen betreft.<br>
 Een sociaal woonproject is gemengd wanneer aan minstens één van de volgende voorwaarden is voldaan :<br>
 a) het woonproject omvat of realiseert een menging van sociale huurwoningen met sociale koopwoningen en/of bescheiden huurwoningen;<br>
 b) de sociale huurwoningen en/of sociale koopwoningen worden zodanig geïntegreerd in de bestaande woonstructuur dat er een menging ontstaat met woningen van de privésector;<br>
 33° woonwagen : een woongelegenheid, gekenmerkt door flexibiliteit en verplaatsbaarheid, bestemd voor permanente en niet-recreatieve bewoning;<br>
 34° ...;<br>
-35° de Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen;<br>
+35° ...;<br>
 36° niet-residentiële ruimte : elk onroerend goed of deel ervan dat niet bestemd is voor de huisvesting van een gezin of een alleenstaande en dat geen gemeenschapsvoorziening is noch een specifieke voorziening zoals bedoeld in artikel 72, eerste lid, 2°.<br>
 37° landmeter-expert: de landmeter-expert, ingeschreven op het tableau van de beoefenaars van het beroep als bedoeld in de wet van 11 mei 2003 tot bescherming van de titel en van het beroep van landmeter-expert en op wie het koninklijk besluit van 15 december 2005 tot vaststelling van de voorschriften inzake de plichtenleer van de landmeter-expert van toepassing is.<br>
 38° welzijnsvereniging: een vereniging als vermeld in deel 3, titel 4, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur;<br>
@@ -214,6 +220,11 @@ Het Woonbeleidsplan Vlaanderen moet de realisatie van de doelstellingen, vermeld
 <br>
 Elke woning moet voldoen aan de vereisten van brandveiligheid, met inbegrip van de specifieke en aanvullende veiligheidsnormen die de Vlaamse Regering vaststelt. Een woning moet uitgerust zijn met één of meer rookmelders geplaatst op de wijze bepaald door de Vlaamse Regering of moet beschikken over een brand|Updetectiesysteem dat gekeurd en gecertificeerd is door een daartoe erkend organisme.<br>
 <br>
+Bij de nadere bepaling van de vereisten, vermeld in het eerste lid, en de vaststelling van de specifieke en aanvullende veiligheidsnormen, vermeld in het tweede lid, hanteert de Vlaamse Regering een of meer lijsten van mogelijke gebreken die onderverdeeld zijn in de volgende drie categorieën:<br>
+1° gebreken van categorie I: kleine gebreken die de levensomstandigheden van de bewoners negatief beïnvloeden of die potentieel kunnen uitgroeien tot ernstige gebreken;<br>
+2° gebreken van categorie II: ernstige gebreken die de levensomstandigheden van de bewoners negatief beïnvloeden maar die geen direct gevaar vormen voor hun veiligheid of gezondheid, waardoor de woning niet in aanmerking zou komen voor bewoning;<br>
+3° gebreken van categorie III: ernstige gebreken die mensonwaardige levensomstandigheden veroorzaken of die een direct gevaar vormen voor de veiligheid of de gezondheid van de bewoners, waardoor de woning niet in aanmerking komt voor bewoning.<br>
+<br>
 De omvang van de woning moet minstens beantwoorden aan de woningbezetting. De Vlaamse Regering stelt de normen voor de vereiste minimale omvang van de woning vast in relatie tot de gezinssamenstelling.<br>
 <br>
 § 2. Met behoud van de toepassing van paragraaf 1 stelt de Vlaamse Regering aanvullende vereisten en normen vast voor kamers. De bepalingen van deze titel zijn van toepassing op de kamers.<br>
@@ -224,9 +235,27 @@ De Vlaamse Regering kan voor de tijdelijke huisvesting van gezinnen of alleensta
 <br>
 Tenzij de Vlaamse Regering anders bepaalt zijn de bepalingen van hoofdstuk II van deze titel niet van toepassing als de uitvoering van het eerste of het tweede lid aanleiding geeft tot specifieke of afwijkende vereisten of normen.<br>
 <br>
-§ 4. De Vlaamse Regering bepaalt de criteria en de procedure om de conformiteit van een woning met de vereisten en normen, vastgesteld met toepassing van paragraaf 1 en 2 en paragraaf 3, eerste en tweede lid, vast te stellen. Ze kan ook de wijze bepalen waarop de mogelijkheid om eventuele tekortkomingen via renovatie-, verbeterings- of aanpassings-werkzaamheden te verhelpen, beoordeeld wordt.<br>
+§ 4. De Vlaamse Regering bepaalt de criteria en de procedure om vast stellen of een woning voldoet aan de vereisten en normen, vastgesteld met toepassing van paragraaf 1 en 2, en paragraaf 3, eerste en tweede lid. Ze kan ook de wijze bepalen waarop de mogelijkheid om eventuele tekortkomingen via renovatie-, verbeterings- of aanpassings-werkzaamheden te verhelpen, beoordeeld wordt.<br>
 <br>
-§ 5. De Vlaamse Regering stelt een webtoepassing ter beschikking van huurders en verhuurders, die toelaat een inschatting te maken van de markthuurprijs van een woning op basis van de woningkenmerken, de ligging en het adres. Daarbij houdt ze rekening met de woonkwaliteit, met de omvang en de ligging van de woning, met het onderscheid tussen kamers en andere woningen en met eventuele specifieke woonvormen als vermeld in paragraaf 3, eerste lid.
+§ 5. De Vlaamse Regering stelt een webtoepassing ter beschikking van huurders en verhuurders, die toelaat een inschatting te maken van de markthuurprijs van een woning op basis van de woningkenmerken, de ligging en het adres. Daarbij houdt ze rekening met de woonkwaliteit, met de omvang en de ligging van de woning, met het onderscheid tussen kamers en andere woningen en met eventuele specifieke woonvormen als vermeld in paragraaf 3, eerste lid.<br>
+<br>
+§ 6. De Vlaamse Regering kan voorwaarden vastleggen waaraan kandidaat-controleurs van de kwaliteit van woningen moeten voldoen. Die voorwaarden hebben in ieder geval betrekking op:<br>
+1° diploma's en opleiding;<br>
+2° beroepskennis en -ervaring;<br>
+3° de onafhankelijke wijze van handelen van de controleur ten aanzien van opdrachtgevers en commerciële belangen.<br>
+<br>
+De Vlaamse Regering kan:<br>
+1° categorieën van controleurs bepalen;<br>
+2° de procedure voor de erkenning van de controleurs bepalen;<br>
+3° de procedure en voorwaarden voor de schorsing en intrekking van die erkenning vaststellen;<br>
+4° voorwaarden koppelen aan de opheffing van een schorsing;<br>
+5° kwaliteitseisen vastleggen en de instantie aanwijzen die belast is met de controle op de werkzaamheden van controleurs.<br>
+<br>
+De Vlaamse Regering kan voorwaarden vastleggen waaraan de opleidingsinstellingen voor de controleurs dienen te voldoen en kan ook voorwaarden vastleggen waaraan de lesgevers van een opleidingsinstelling moeten voldoen.<br>
+<br>
+De Vlaamse Regering kan de procedure voor de erkenning van de opleidingsinstellingen en de procedure en voorwaarden voor de schorsing en intrekking van die erkenning vastleggen. De Vlaamse Regering kan ook kwaliteitseisen vastleggen voor de opleiding en de lesgevers en wijst de instantie aan die belast is met de controle op hun werkzaamheden.<br>
+<br>
+De Vlaamse Regering kan tevens de inhoud van de door de erkende opleidingsinstellingen aan de controleurs te verstrekken opleidingen bepalen.
 
 ### ART. 6.
 
@@ -244,19 +273,27 @@ De Vlaamse Regering kan nadere regels bepalen voor de gemeentelijke verordeninge
 
 ### ART. 7.
 
-§ 1. De conformiteit met de vereisten en normen, vastgesteld met toepassing van artikel 5, van een woning die verhuurd wordt of te huur of ter beschikking gesteld wordt als hoofdverblijfplaats of met het oog op de huisvesting van een of meer studenten, kan blijken uit het conformiteitsattest dat de burgemeester afgeeft op eigen initiatief of op verzoek. Het conformiteitsattest vermeldt ook de toegestane maximale woningbezetting volgens de normen, vastgesteld met toepassing van artikel 5, § 1, derde lid.<br>
+§ 1. De conformiteit van een woning die verhuurd wordt of te huur of ter beschikking gesteld wordt als hoofdverblijfplaats of voor de huisvesting van een of meer studenten, kan blijken uit het conformiteitsattest dat de burgemeester afgeeft op eigen initiatief of op verzoek. Het conformiteitsattest vermeldt de aanwezigheid van eventuele gebreken als vermeld in artikel 5, § 1, derde lid, 1°, en de toegestane maximale woningbezetting volgens de normen die worden vastgesteld met toepassing van artikel 5, § 1, vierde lid.<br>
 <br>
-De Vlaamse Regering stelt het model, de vergoeding voor de afgifte en de regels voor de bekendmaking van het conformiteitsattest vast.<br>
+De Vlaamse Regering stelt het model, de vergoeding voor de behandeling van een aanvraag tot afgifte en de regels voor de bekendmaking van het conformiteitsattest vast.<br>
 <br>
-§ 2. In afwijking van paragraaf 1 :<br>
-1° geldt het proces-verbaal van uitvoering, vermeld in artikel 20bis, § 6, derde lid, als conformiteitsattest, op voorwaarde dat uit het proces-verbaal blijkt dat de woning opnieuw voldoet aan de elementaire veiligheids-, gezondheids- en woonkwaliteitsvereisten, vastgesteld met toepassing van artikel 5;<br>
-2° kan de gewestelijk ambtenaar een conformiteitsattest afgeven aan de verhuurder :<br>
-a) voor een woning die voor verhuring aangeboden wordt aan een sociaal verhuurkantoor als vermeld in artikel 56;<br>
-b) na een conformiteitsonderzoek voor de tegemoetkoming in de huurprijs, vermeld in artikel 82.
+§ 2. In afwijking van paragraaf 1 geldt het proces-verbaal van uitvoering, vermeld in artikel 20bis, § 6, derde lid, als conformiteitsattest, op voorwaarde dat uit het proces-verbaal blijkt dat de woning opnieuw conform is.<br>
+<br>
+In afwijking van paragraaf 1 kan de gewestelijk ambtenaar een conformiteitsattest afgeven aan de verhuurder in een van de volgende gevallen:<br>
+1° voor een woning die voor verhuring aangeboden wordt aan een sociaal verhuurkantoor als vermeld in artikel 56;<br>
+2° na een conformiteitsonderzoek voor de tegemoetkoming in de huurprijs, vermeld in artikel 82.<br>
+<br>
+In afwijking van paragraaf 1 kan de wooninspecteur, naar aanleiding van een vraag tot hercontrole als vermeld in artikel 20bis, § 6, voor een conforme woning een conformiteitsattest afgeven, als het herstel dat met toepassing van artikel 20bis, § 1, is gevorderd voor meerdere woningen in een pand, nog niet volledig is uitgevoerd, op voorwaarde dat hij alle woningen waarvan het herstel is gevorderd onderzoekt en het niet-afgeven van het conformiteitsattest zou leiden tot het verschuldigd zijn van een nakende heffing of een ander ernstig nadeel zou berokkenen aan de aanvrager.
 
 ### ART. 8.
 
-<P>§ 1. Het verzoek, vermeld in artikel 7, § 1, eerste lid, wordt ingediend bij   de burgemeester van de gemeente waarin de woning ligt, door de natuurlijke   persoon of de rechtspersoon die als eigenaar, mede-eigenaar, vruchtgebruiker,   erfpachter, opstalhouder of onderverhuurder een woning als hoofdverblijfplaats   of met het oog op de huisvesting van een of meer studenten verhuurt of te huur   of ter beschikking stelt.<BR><BR>De burgemeester neemt binnen zestig dagen na de   datum van het verzoek een beslissing over de afgifte van het   conformiteitsattest, na een conformiteitsonderzoek dat verloopt volgens de   procedure, vermeld in artikel 5, § 4.<BR><BR>§ 2. Als de burgemeester de afgifte   van het conformiteitsattest weigert of geen beslissing neemt, kan de verzoeker   binnen dertig dagen na de ontvangst van de weigering of na het verstrijken van   de termijn, vermeld in paragraaf 1, tweede lid, een conformiteitsonderzoek   aanvragen bij de gewestelijk ambtenaar, die in dat geval zelf het   conformiteitsattest kan afgeven.</P>
+<p>§ 1. Het verzoek, vermeld in artikel 7, § 1, eerste lid, wordt ingediend bij de burgemeester van de gemeente waarin de woning ligt, door de natuurlijke persoon of de rechtspersoon die als eigenaar, mede-eigenaar, vruchtgebruiker, erfpachter, opstalhouder of onderverhuurder een woning als hoofdverblijfplaats of met het oog op de huisvesting van een of meer studenten verhuurt of te huur of ter beschikking stelt.<br>
+<br>
+De burgemeester neemt binnen zestig dagen na de datum van het verzoek een beslissing over de afgifte van het conformiteitsattest, na een conformiteitsonderzoek dat verloopt volgens de procedure, vermeld in artikel 5, § 4.<br>
+<br>
+§ 2. Als de burgemeester de afgifte van het conformiteitsattest weigert of geen beslissing neemt, kan de verzoeker binnen dertig dagen na de ontvangst van de weigering of na het verstrijken van de termijn, vermeld in paragraaf 1, tweede lid, een conformiteitsonderzoek aanvragen bij de gewestelijk ambtenaar, die in dat geval zelf het conformiteitsattest kan afgeven.<br>
+<br>
+De Vlaamse Regering stelt de vergoeding voor de behandeling van een aanvraag tot afgifte van het conformiteitsattest door de gewestelijk ambtenaar vast.</p>
 
 ### ART. 9.
 
@@ -277,7 +314,16 @@ Met behoud van de toepassing van het tweede lid geldt de termijn, vermeld in het
 
 ### ART. 11.
 
-Met behoud van de toepassing van de wettelijke bepalingen over de   opsporing van de wanbedrijven, vermeld in artikel 20, hebben de instanties die   overeenkomstig de procedure, vermeld in artikel 5, § 4, bevoegd zijn om een   conformiteitsonderzoek in te stellen, het recht de woning tussen acht uur en   twintig uur te bezoeken om de conformiteit met de veiligheids-, gezondheids- en   woonkwaliteitsnormen vast te stellen en de naleving ervan te   controleren.<BR><BR>De huurder en de verhuurder zijn verplicht alle nodige   inlichtingen te verstrekken om het conformiteitsonderzoek in de beste   omstandigheden te laten verlopen.
+Met behoud van de toepassing van de wettelijke bepalingen over de opsporing van de wanbedrijven, vermeld in artikel 20 van dit decreet, hebben de instanties die conform de procedure, vermeld in artikel 5, § 4, van dit decreet, bevoegd zijn om een conformiteitsonderzoek in te stellen, het recht om de woning tussen acht uur en twintig uur te bezoeken om vast te stellen of de woning voldoet aan de vereisten en normen, vastgesteld met toepassing van artikel 5, § 1 en § 2, en § 3, eerste en tweede lid.<br>
+<br>
+Om hun opdracht, vermeld in het eerste lid, uit te oefenen, kunnen die instanties de volgende handelingen stellen:<br>
+1° de identiteit opnemen, de voorlegging van identiteitsdocumenten vorderen en de persoonsgegevens die ze in het kader van hun opdracht verzameld hebben bijhouden zolang dat nodig is voor de uitoefening van die opdracht, maar nooit langer dan tien jaar;<br>
+2° inlichtingen vorderen van iedereen die betrokken is bij of kennis heeft of kan hebben van de feiten die worden gecontroleerd;<br>
+3° zonder voorafgaande waarschuwing de onmiddellijke voorlegging vorderen van alle informatie, documenten en informatiedragers in geschreven, digitale of analoge vorm;<br>
+4° zich kosteloos een kopie laten verstrekken in de vorm die ze vragen of zelf een kopie maken van de documenten die voorgelegd worden;<br>
+5° van hun vaststellingen melding maken in een verslag.<br>
+<br>
+De huurder en de verhuurder zijn verplicht alle nodige inlichtingen te verstrekken en medewerking te verlenen die redelijkerwijze noodzakelijk is om het conformiteitsonderzoek in de beste omstandigheden te laten verlopen.
 
 ### ART. 12.
 
@@ -293,15 +339,51 @@ Met behoud van de toepassing van de wettelijke bepalingen over de   opsporing va
 
 ## [HOOFDSTUK IIbis WAARSCHUWING (ing. decr. 29 maart 2019, art. 8, I: 1 januari 2021)]
 
+### ART 14bis.
+
+Een gemeente die een melding ontvangt over de mogelijk gebrekkige kwaliteit van een woning geeft een ontvangstbewijs aan de melder, verstrekt hem informatie over de procedures, vermeld in dit hoofdstuk en in hoofdstuk III, en kan binnen een korte termijn, die de Vlaamse Regering nader bepaalt, een conformiteitsonderzoek uitvoeren, dat verloopt volgens de procedure, vermeld in artikel 5, § 4.<br>
+<br>
+Als wordt vastgesteld dat de woning niet conform is, kan de gemeente, in de gevallen die de Vlaamse Regering nader bepaalt, aan de houder van het zakelijk recht een termijn geven om de woning conform te maken. De gemeente doet dit binnen de maand na de melding, vermeld in het eerste lid. De gegeven hersteltermijn eindigt in ieder geval binnen de drie maanden na deze melding. Tegelijkertijd waarschuwt de gemeente de houder van het zakelijk recht voor de mogelijke gevolgen bij gebrek aan herstel en brengt ze de bewoners van de toegekende hersteltermijn op de hoogte.<br>
+<br>
+Bij melding van herstel en uiterlijk binnen drie maanden na de melding, vermeld in het eerste lid, onderzoekt de gemeente de woning een tweede keer conform de procedure, vermeld in artikel 5, § 4. Als wordt vastgesteld dat de woning conform is, geeft de burgemeester een conformiteitsattest af.<br>
+<br>
+Het ontbreken van een melding van herstel binnen de toegekende hersteltermijn als vermeld in het derde lid, of het ontbreken van een vaststelling van conformiteit binnen drie maanden na het conformiteitsonderzoek, vermeld in het eerste lid, geldt als de indiening van een verzoek om de woning ongeschikt of onbewoonbaar te verklaren, vermeld in artikel 16, § 1, eerste lid. In dat geval kan de gemeente de procedure, vermeld in het eerste, tweede en derde lid, niet meer herhalen.
+
+### ART 14ter.
+
+&nbsp;De Vlaamse Regering kan nadere formele en procedurele regels bepalen voor de toepassing van dit hoofdstuk.
+
 ## HOOFDSTUK III ONGESCHIKT- EN ONBEWOONBAARVERKLARING
 
 ### ART. 15.
 
-<P>§ 1. Met behoud van de toepassing van artikel 135 van de Nieuwe Gemeentewet   kan de burgemeester, op eigen initiatief of op verzoek, een woning die niet   beantwoordt aan de vereisten en normen, vastgesteld met toepassing van artikel   5, bij besluit ongeschikt of onbewoonbaar verklaren, op voorwaarde dat de   gewestelijk ambtenaar de ongeschikt- of onbewoonbaarverklaring geadviseerd heeft   en na de eigenaar en de bewoner gehoord te hebben. De burgemeester neemt in dat   geval alle maatregelen die hij noodzakelijk acht ter uitvoering van zijn   besluit.<BR><BR>Als na het horen van de betrokkenen blijkt dat de gebreken die   aanleiding gegeven hebben tot het advies van de gewestelijk ambtenaar, vermeld   in het eerste lid, geheel of gedeeltelijk hersteld zijn, kan de burgemeester,   die vaststelt dat de woning nog niet beantwoordt aan de vereisten en normen,   vastgesteld met toepassing van artikel 5, toch een besluit nemen als vermeld in   het eerste lid.<BR><BR>§ 2. In afwijking van artikel 18, § 1, kan de   burgemeester, voor een of meer gebreken die vastgesteld zijn bij het   conformiteitsonderzoek, de uitvoering binnen een termijn van maximaal vijftien   dagen, van de dringende renovatie-, verbeterings- of aanpassingswerkzaamheden   opleggen.<BR><BR>Als de dringende werkzaamheden niet uitgevoerd worden binnen de   termijn, vermeld in het eerste lid, kan de burgemeester ze zelf laten uitvoeren.   Op vertoon van een staat kunnen de kosten van de uitgevoerde werkzaamheden in   dat geval verhaald worden op de eigenaar.<BR><BR>§ 3. Op verzoek van de   gemeenteraad kan de Vlaamse Regering de burgemeester vrijstellen van de   verplichting om het advies van de gewestelijk ambtenaar, vermeld in paragraaf 1,   eerste lid, te vragen. De Vlaamse Regering bepaalt de voorwaarden voor de   vrijstelling. De vrijstelling geldt vanaf de goedkeuring ervan door de Vlaamse   Regering. Ze kan op elk moment ingetrokken worden als blijkt dat niet meer   voldaan is aan de voorwaarden waaronder ze verleend is. </P>
+<p>§ 1. Met behoud van de toepassing van artikel 135 van de Nieuwe Gemeentewet kan de burgemeester, op eigen initiatief of op verzoek, een woning die niet conform is, bij besluit ongeschikt of onbewoonbaar verklaren, op voorwaarde dat de gewestelijk ambtenaar de ongeschikt- of onbewoonbaarverklaring geadviseerd heeft en na de eigenaar en de bewoner gehoord te hebben. De burgemeester neemt in dat geval alle maatregelen die hij noodzakelijk acht ter uitvoering van zijn besluit.<br>
+<br>
+Als na het horen van de betrokkenen blijkt dat de gebreken die aanleiding gegeven hebben tot het advies van de gewestelijk ambtenaar, vermeld in het eerste lid, geheel of gedeeltelijk hersteld zijn, kan de burgemeester, die vaststelt dat de woning nog niet conform is, toch een besluit nemen als vermeld in het eerste lid.<br>
+<br>
+§ 2. De burgemeester kan, voor een of meer gebreken van categorie III als vermeld in artikel 5, § 1, derde lid, 3°, die vastgesteld zijn bij het conformiteitsonderzoek, de uitvoering binnen een termijn van maximaal vijftien dagen, van de dringende renovatie-, verbeterings- of aanpassingswerkzaamheden opleggen.<br>
+<br>
+Als de dringende werkzaamheden niet uitgevoerd worden binnen de termijn, vermeld in het eerste lid, kan de burgemeester ze zelf laten uitvoeren. Op vertoon van een staat kunnen de kosten van de uitgevoerde werkzaamheden in dat geval verhaald worden op de eigenaar.<br>
+<br>
+§ 3. Op verzoek van de gemeenteraad kan de Vlaamse Regering de burgemeester vrijstellen van de verplichting om het advies van de gewestelijk ambtenaar, vermeld in paragraaf 1, eerste lid, te vragen. De Vlaamse Regering bepaalt de voorwaarden voor de vrijstelling. De vrijstelling geldt vanaf de goedkeuring ervan door de Vlaamse Regering. Ze kan op elk moment ingetrokken worden als blijkt dat niet meer voldaan is aan de voorwaarden waaronder ze verleend is.</p>
 
 ### ART. 16.
 
-<P>§ 1. Het verzoek om een woning ongeschikt of onbewoonbaar te verklaren, kan   ingediend worden door het gemeentebestuur, de voorzitter van de raad voor   maatschappelijk welzijn, de gewestelijk ambtenaar, een sociale woonorganisatie,   de gezondheidsinspecteur van het ambtsgebied waarin de woning ligt, de   wooninspecteur of iedereen die blijk geeft van een belang.<BR><BR>De   burgemeester neemt een beslissing binnen drie maanden na de ontvangst van het   verzoek, vermeld in het eerste lid. Hij mag voorbijgaan aan de adviesvereiste,   vermeld in artikel 15, § 1, eerste lid, als de gewestelijk ambtenaar geen advies   uitgebracht heeft binnen 75 dagen na de ontvangst van de adviesvraag en zolang   hij niet in kennis gesteld is van een advies dat uitgebracht is na die   termijn.<BR><BR>§ 2. Tegen de beslissing van de burgemeester, vermeld in   paragraaf 1, tweede lid, kan binnen dertig dagen na de betekening van de   beslissing beroep aangetekend worden bij de Vlaamse Regering. Als de indiener   van het beroep mondeling gehoord wil worden, vermeldt hij dat in zijn   beroepschrift. Bij de kennisgeving van de ontvankelijkheid van het beroep nodigt   de Vlaamse Regering de eigenaar, de bewoner en de burgemeester uit om hun   argumenten schriftelijk kenbaar te maken.<BR><BR>De Vlaamse Regering voegt alle   tijdig ingestelde beroepen tegen dezelfde beslissing verplicht samen. Alle   betrokken partijen worden onverwijld in kennis gesteld van de   samenvoeging.<BR><BR>De Vlaamse Regering neemt een beslissing binnen drie   maanden na de ontvangst van het laatst ingestelde beroep. Die termijn wordt   verlengd tot vier maanden als er op verzoek van de indiener van het beroep een   hoorzitting gehouden wordt. Als er geen beslissing genomen wordt binnen de   termijn van drie of vier maanden, wordt het beroep geacht afgewezen te   zijn.<BR><BR>§ 3. Als de burgemeester geen beslissing neemt over het verzoek,   vermeld in paragraaf 1, eerste lid, kunnen de verzoeker en de overige   instanties, vermeld in paragraaf 1, eerste lid, beroep aantekenen bij de Vlaamse   Regering binnen twaalf maanden na het verstrijken van de termijn van drie   maanden, vermeld in paragraaf 1, tweede lid. Als de indiener van het beroep   mondeling gehoord wil worden, vermeldt hij dat in zijn beroepschrift. De Vlaamse   Regering nodigt de eigenaar en de bewoner uit om hun argumenten schriftelijk   kenbaar te maken en brengt de burgemeester op de hoogte van het beroep en van   het verval van zijn beslissingsbevoegdheid.<BR><BR>De Vlaamse Regering neemt een   beslissing binnen drie maanden na de ontvangst van het beroep tegen het   stilzitten van de burgemeester. Die termijn wordt verlengd tot vier maanden als   er op verzoek van de indiener van het beroepschrift een hoorzitting gehouden   wordt. Als er geen beslissing genomen wordt binnen de termijn van drie of vier   maanden, wordt het beroep geacht afgewezen te zijn.</P>
+<p>§ 1. Het verzoek om een woning ongeschikt of onbewoonbaar te verklaren, kan ingediend worden door het gemeentebestuur, de voorzitter van de raad voor maatschappelijk welzijn, de gewestelijk ambtenaar, een sociale woonorganisatie, de wooninspecteur of iedereen die blijk geeft van een belang.<br>
+<br>
+De burgemeester neemt een beslissing binnen drie maanden na de ontvangst van het verzoek, vermeld in het eerste lid. Als een gemeente heeft gekozen voor de toepassing van de procedure, vermeld in hoofdstuk IIbis, geldt alleen de termijn die loopt na de toepassing van artikel 14bis, vierde lid, op voorwaarde dat de gemeente een conformiteitsonderzoek als vermeld in artikel 14bis, eerste lid, heeft uitgevoerd binnen de daar vermelde korte termijn, en een hersteltermijn heeft toegekend als vermeld in artikel 14bis, tweede lid, binnen de daar vermelde termijn van een maand.<br>
+<br>
+De burgemeester mag voorbijgaan aan de adviesvereiste, vermeld in artikel 15, § 1, eerste lid, als de gewestelijk ambtenaar geen advies uitgebracht heeft binnen 75 dagen na de ontvangst van de adviesvraag en zolang hij niet op de hoogte gebracht is van een advies dat uitgebracht is na die termijn.<br>
+<br>
+§ 2. Tegen de beslissing van de burgemeester, vermeld in paragraaf 1, tweede lid, kan binnen dertig dagen na de betekening van de beslissing beroep aangetekend worden bij de Vlaamse Regering. Als de indiener van het beroep mondeling gehoord wil worden, vermeldt hij dat in zijn beroepschrift. Bij de kennisgeving van de ontvankelijkheid van het beroep nodigt de Vlaamse Regering de eigenaar, de bewoner en de burgemeester uit om hun argumenten schriftelijk kenbaar te maken.<br>
+<br>
+De Vlaamse Regering voegt alle tijdig ingestelde beroepen tegen dezelfde beslissing verplicht samen. Alle betrokken partijen worden onverwijld in kennis gesteld van de samenvoeging.<br>
+<br>
+De Vlaamse Regering neemt een beslissing binnen drie maanden na de ontvangst van het laatst ingestelde beroep. Die termijn wordt verlengd tot vier maanden als er op verzoek van de indiener van het beroep een hoorzitting gehouden wordt. Als er geen beslissing genomen wordt binnen de termijn van drie of vier maanden, wordt het beroep geacht afgewezen te zijn.<br>
+<br>
+§ 3. Als de burgemeester geen beslissing neemt over het verzoek, vermeld in paragraaf 1, eerste lid, kunnen de verzoeker en de overige instanties, vermeld in paragraaf 1, eerste lid, beroep aantekenen bij de Vlaamse Regering binnen twaalf maanden na het verstrijken van de termijn van drie maanden, vermeld in paragraaf 1, tweede lid. Als de indiener van het beroep mondeling gehoord wil worden, vermeldt hij dat in zijn beroepschrift. De Vlaamse Regering nodigt de eigenaar en de bewoner uit om hun argumenten schriftelijk kenbaar te maken en brengt de burgemeester op de hoogte van het beroep en van het verval van zijn beslissingsbevoegdheid.<br>
+<br>
+De Vlaamse Regering neemt een beslissing binnen drie maanden na de ontvangst van het beroep tegen het stilzitten van de burgemeester. Die termijn wordt verlengd tot vier maanden als er op verzoek van de indiener van het beroepschrift een hoorzitting gehouden wordt. Als er geen beslissing genomen wordt binnen de termijn van drie of vier maanden, wordt het beroep geacht afgewezen te zijn.</p>
 
 ### ART. 16bis.
 
@@ -319,17 +401,98 @@ De Vlaamse Regering kan nadere formele en procedurele regels bepalen voor   de t
 
 ## [HOOFDSTUK IIIbis INVENTARIS VAN ONGESCHIKTE EN ONBEWOONBARE WONINGEN (ing. decr. 29 maart 2019, art. 11, I: 1 januari 2021)]
 
+### ART 16quinquies.
+
+§ 1. De inventarisbeheerder maakt een inventaris met afzonderlijke lijsten van:<br>
+1° woningen die ongeschikt of onbewoonbaar zijn verklaard conform artikel 15 tot en met 16quater van dit decreet;<br>
+2° woningen die onbewoonbaar zijn verklaard conform artikel 135 van de Nieuwe Gemeentewet.<br>
+<br>
+De Vlaamse Regering wijst de inventarisbeheerder, vermeld in het eerste lid, aan en bepaalt de nadere regels voor de vorm en de wijze waarop de inventaris wordt bijgehouden en beheerd.<br>
+<br>
+§ 2. Elke gemeente ontvangt een uittreksel van de in de inventaris geregistreerde woningen die zich op haar grondgebied bevinden.<br>
+<br>
+De gemeente verleent aan iedereen die erom verzoekt inzage in de lijst met de woningen die geregistreerd zijn in de inventaris en de gegevens van de kadastrale legger die op die woningen betrekking hebben.
+
+### ART 16sexies.
+
+De woningen, vermeld in artikel 16quinquies, § 1, 1°, worden ingeschreven op de inventarislijst op de datum van het besluit van de burgemeester, vermeld in artikel 15, § 1, of, in geval van een beslissing tot ongeschikt- of onbewoonbaarverklaring in beroep, op de datum van het besluit, vermeld in artikel 16bis, eerste lid.<br>
+<br>
+De woningen, vermeld in artikel 16quinquies, § 1, 2°, worden ingeschreven op de inventarislijst op de datum van het besluit van de burgemeester.<br>
+<br>
+Dit artikel geldt ook voor de afsplitsbare woningen en voor de bedrijfsruimten waarvan de woning van de eigenaar als verblijfplaats wordt benut en een niet-afsplitsbaar onderdeel uitmaakt als vermeld in artikel 2, 1°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten.
+
+### ART 16septies.
+
+§ 1. De inventarisbeheerder betekent de opname in de inventaris met een registratieattest aan de houders van het zakelijk recht, zoals bekend bij de Federale Overheidsdienst Financiën, dienst Patrimoniumdocumentatie, van het geïnventariseerde goed. De Vlaamse Regering bepaalt de nadere regels met betrekking tot de vorm, de inhoud en het gebruik van het registratieattest.<br>
+<br>
+§ 2. Voor de woningen, vermeld in artikel 16quinquies, § 1, 1°, geldt een besluit als vermeld in artikel 16sexies, eerste lid, als registratieattest. Het voormelde besluit vermeldt de opname in de inventaris. Tegen dat besluit en de registratie kan bij de Vlaamse Regering beroep aangetekend worden conform artikel 16, § 2.<br>
+<br>
+§ 3. Voor de woningen, vermeld in artikel 16quinquies, § 1, 2°, bezorgt de inventarisbeheerder het registratieattest aan de houder van het zakelijk recht binnen dertig dagen na de ontvangst van het besluit tot onbewoonbaarverklaring.<br>
+<br>
+Als de houder van het zakelijk recht aantoont dat hij tegen het besluit tot onbewoonbaarverklaring een klacht heeft ingediend bij de toezichthoudende overheid conform artikel 331 van het decreet van 22 december 2017 over het lokaal bestuur, dan wordt de opname op de lijst, vermeld in artikel 16quinquies, geschorst tot de procedure conform artikel 332 tot en met 334 van het decreet over het lokaal bestuur volledig is afgerond.<br>
+<br>
+De gemeenteoverheid brengt de inventarisbeheerder op de hoogte van het besluit of van het definitieve antwoord van de toezichthoudende overheid, vermeld in artikel 333 van het decreet van 22 december 2017 over het lokaal bestuur.<br>
+<br>
+Binnen dertig dagen nadat de indiener van de klacht het definitieve antwoord van de toezichthoudende overheid heeft ontvangen conform artikel 333 van het decreet van 22 december 2017 over het lokaal bestuur, kan hij tegen de registratie beroep indienen bij de Vlaamse Regering. De Vlaamse Regering neemt een beslissing binnen drie maanden na de ontvangst van het beroepschrift. Als er binnen die termijn geen beslissing wordt genomen, wordt het beroep geacht te zijn afgewezen.
+
+### ART 16octies.
+
+De instrumenterende ambtenaar die belast is met de overdracht van een zakelijk recht als vermeld in artikel 2.5.2.0.1, eerste lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013, brengt de verkrijger van het zakelijk recht uiterlijk op het ogenblik van de overdracht van het zakelijk recht op de hoogte van de kennisgeving van de vaststelling tot ongeschiktheid of onbewoonbaarheid ervan of van de opname van de woning in de inventaris.<br>
+<br>
+Een door beide partijen ingevuld en ondertekend formulier wordt door de notaris of een partij uiterlijk dertig dagen na de overdracht van het zakelijk recht naar de inventarisbeheerder verstuurd.
+
+### ART 16novies.
+
+§ 1. De inventarisbeheerder schrapt een woning uit de lijst, vermeld in artikel 16quinquies, § 1, 1°, op aangetekend verzoek van de houder van het zakelijk recht of zijn rechtsopvolger zodra hij bewijst dat de woning weer conform is.<br>
+<br>
+Als de woning gesloopt is of een andere bestemming heeft gekregen, schrapt de inventarisbeheerder de woning op basis van het besluit van de burgemeester tot opheffing van de ongeschikt- of onbewoonbaarverklaring of op basis van het in artikel 20bis, § 6, derde lid, vermelde proces-verbaal van uitvoering waarin de sloop of herbestemming wordt vastgesteld.<br>
+<br>
+Met behoud van de toepassing van artikel 20bis, § 6, derde lid, wordt het bewijs, vermeld in het eerste lid, geleverd conform artikel 7.<br>
+<br>
+§ 2. De inventarisbeheerder schrapt een woning uit de lijst, vermeld in artikel 16quinquies, § 1, 2°, op verzoek per beveiligde zending, van de houder van het zakelijk recht of zijn rechtsopvolger, zodra hij bewijst dat de burgemeester het onbewoonbaarheidsbesluit heeft opgeheven of het bewijs, vermeld in paragraaf 1, eerste lid, levert.<br>
+<br>
+§ 3. De inventarisbeheerder brengt de houder van het zakelijk recht, of in voorkomend geval zijn rechtsopvolger, binnen drie maanden na het verzoek tot schrapping op de hoogte van de beslissing daarover.<br>
+<br>
+Als de kennisgeving, vermeld in het eerste lid, niet is gebeurd binnen de vastgestelde termijn, wordt het verzoek tot schrapping geacht te zijn ingewilligd.<br>
+<br>
+§ 4. In de gevallen, vermeld in paragraaf 1, eerste lid, vermeldt de inventarisbeheerder als datum van schrapping de eerste dag waarop de woning weer conform is.<br>
+<br>
+In de gevallen, vermeld in paragraaf 1, tweede lid, vermeldt de inventarisbeheerder als datum van schrapping de eerste dag van de sloop of herbestemming.<br>
+<br>
+In de gevallen, vermeld in paragraaf 2, vermeldt de inventarisbeheerder als datum van schrapping de datum van het opheffingsbesluit van de burgemeester of de eerste dag waarop de woning conform is.<br>
+<br>
+Als de kennisgeving, vermeld in paragraaf 3, niet is gebeurd binnen de vastgestelde termijn, wordt de datum van herstel die de houder van het zakelijk recht in het verzoek tot schrapping aangeeft, als datum van schrapping vermeld.
+
 ## HOOFDSTUK IV OVERBEWOONDE WONINGEN
 
 ### ART. 17.
 
-<P>§ 1. Als een woning na een conformiteitsonderzoek overbewoond blijkt te zijn,   kan de burgemeester ze, op eigen initiatief of op verzoek van de voorzitter van   de raad voor maatschappelijk welzijn, van de gewestelijk ambtenaar, van de   wooninspecteur of van de gezondheidsinspecteur binnen zijn ambtsgebied, bij   besluit overbewoond verklaren, op voorwaarde dat de gewestelijk ambtenaar de   overbewoondverklaring heeft geadviseerd.<BR><BR>De burgemeester neemt de nodige   maatregelen om de overbewoning ongedaan te maken door één of meer bewoners te   herhuisvesten zoals bepaald in artikel 17bis.<BR><BR>§ 2. De burgemeester neemt   een beslissing binnen drie maanden na de ontvangst van het verzoek, vermeld in   paragraaf 1, eerste lid. Hij mag voorbijgaan aan de adviesvereiste, vermeld in   paragraaf 1, eerste lid, als de gewestelijk ambtenaar geen advies uitgebracht   heeft binnen 75 dagen na de ontvangst van de adviesvraag en zolang hij niet in   kennis gesteld is van een advies dat uitgebracht is na die termijn.<BR><BR>§ 3.   Tegen de beslissing van de burgemeester, vermeld in paragraaf 2, kan binnen   dertig dagen na de betekening van de beslissing beroep aangetekend worden bij de   Vlaamse Regering. Als de indiener van het beroep mondeling gehoord wil worden,   vermeldt hij dat in zijn beroepschrift. Bij de kennisgeving van de   ontvankelijkheid van het beroep nodigt de Vlaamse Regering de eigenaar, de   bewoner en de burgemeester uit om hun argumenten schriftelijk kenbaar te   maken.<BR><BR>De Vlaamse Regering voegt alle tijdig ingestelde beroepen tegen   dezelfde beslissing verplicht samen. Alle betrokken partijen worden onverwijld   in kennis gesteld van de samenvoeging.<BR><BR>De Vlaamse Regering neemt een   beslissing binnen drie maanden na de ontvangst van het laatst ingestelde beroep.   Die termijn wordt verlengd tot vier maanden als er op verzoek van de indiener   van het beroep een hoorzitting gehouden wordt. Als er geen beslissing genomen   wordt binnen de termijn van drie of vier maanden, wordt het beroep geacht   afgewezen te zijn.<BR><BR>§ 4. Als de burgemeester geen beslissing neemt, kunnen   de verzoeker en de overige instanties, vermeld in paragraaf 1, eerste lid,   beroep aantekenen bij de Vlaamse Regering binnen twaalf maanden na het   verstrijken van de termijn van drie maanden, vermeld in paragraaf 2. Als de   indiener van het beroep mondeling gehoord wil worden, vermeldt hij dat in zijn   beroepschrift. <BR>De Vlaamse Regering nodigt de eigenaar en de bewoner uit om   hun argumenten schriftelijk kenbaar te maken en brengt de burgemeester op de   hoogte van het beroep en van het verval van zijn   beslissingsbevoegdheid.<BR><BR>De Vlaamse Regering neemt een beslissing binnen   drie maanden na de ontvangst van het beroep tegen het stilzitten van de   burgemeester. Die termijn wordt verlengd tot vier maanden als er op verzoek van   de indiener van het beroep een hoorzitting gehouden wordt. Als er geen   beslissing genomen wordt binnen de termijn van drie of vier maanden, wordt het   beroep geacht afgewezen te zijn.<BR><BR>§ 5. De Vlaamse Regering kan in beroep   zelf het besluit nemen om de woning overbewoond te verklaren en de nodige   maatregelen bevelen. In dat geval zijn de bepalingen van artikel 16bis, tweede   lid, van toepassing.<BR><BR>§ 6. De Vlaamse Regering kan nadere formele en   procedurele regels bepalen voor de toepassing van dit hoofdstuk. Ze kan de   vrijstelling, vermeld in artikel 15, § 3, uitbreiden tot het advies van de   gewestelijk ambtenaar over de overbewoondverklaring. </P>
+<p>§ 1. Als een woning na een conformiteitsonderzoek overbewoond blijkt te zijn, kan de burgemeester ze, op eigen initiatief of op verzoek van de voorzitter van de raad voor maatschappelijk welzijn, van de gewestelijk ambtenaar of van de wooninspecteur, bij besluit overbewoond verklaren, op voorwaarde dat de gewestelijk ambtenaar de overbewoondverklaring heeft geadviseerd.<br>
+<br>
+De burgemeester neemt de nodige maatregelen om de overbewoning ongedaan te maken door één of meer bewoners te herhuisvesten zoals bepaald in artikel 17bis.<br>
+<br>
+§ 2. De burgemeester neemt een beslissing binnen drie maanden na de ontvangst van het verzoek, vermeld in paragraaf 1, eerste lid. Hij mag voorbijgaan aan de adviesvereiste, vermeld in paragraaf 1, eerste lid, als de gewestelijk ambtenaar geen advies uitgebracht heeft binnen 75 dagen na de ontvangst van de adviesvraag en zolang hij niet in kennis gesteld is van een advies dat uitgebracht is na die termijn.<br>
+<br>
+§ 3. Tegen de beslissing van de burgemeester, vermeld in paragraaf 2, kan binnen dertig dagen na de betekening van de beslissing beroep aangetekend worden bij de Vlaamse Regering. Als de indiener van het beroep mondeling gehoord wil worden, vermeldt hij dat in zijn beroepschrift. Bij de kennisgeving van de ontvankelijkheid van het beroep nodigt de Vlaamse Regering de eigenaar, de bewoner en de burgemeester uit om hun argumenten schriftelijk kenbaar te maken.<br>
+<br>
+De Vlaamse Regering voegt alle tijdig ingestelde beroepen tegen dezelfde beslissing verplicht samen. Alle betrokken partijen worden onverwijld in kennis gesteld van de samenvoeging.<br>
+<br>
+De Vlaamse Regering neemt een beslissing binnen drie maanden na de ontvangst van het laatst ingestelde beroep. Die termijn wordt verlengd tot vier maanden als er op verzoek van de indiener van het beroep een hoorzitting gehouden wordt. Als er geen beslissing genomen wordt binnen de termijn van drie of vier maanden, wordt het beroep geacht afgewezen te zijn.<br>
+<br>
+§ 4. Als de burgemeester geen beslissing neemt, kunnen de verzoeker en de overige instanties, vermeld in paragraaf 1, eerste lid, beroep aantekenen bij de Vlaamse Regering binnen twaalf maanden na het verstrijken van de termijn van drie maanden, vermeld in paragraaf 2. Als de indiener van het beroep mondeling gehoord wil worden, vermeldt hij dat in zijn beroepschrift.<br>
+De Vlaamse Regering nodigt de eigenaar en de bewoner uit om hun argumenten schriftelijk kenbaar te maken en brengt de burgemeester op de hoogte van het beroep en van het verval van zijn beslissingsbevoegdheid.<br>
+<br>
+De Vlaamse Regering neemt een beslissing binnen drie maanden na de ontvangst van het beroep tegen het stilzitten van de burgemeester. Die termijn wordt verlengd tot vier maanden als er op verzoek van de indiener van het beroep een hoorzitting gehouden wordt. Als er geen beslissing genomen wordt binnen de termijn van drie of vier maanden, wordt het beroep geacht afgewezen te zijn.<br>
+<br>
+§ 5. De Vlaamse Regering kan in beroep zelf het besluit nemen om de woning overbewoond te verklaren en de nodige maatregelen bevelen. In dat geval zijn de bepalingen van artikel 16bis, tweede lid, van toepassing.<br>
+<br>
+§ 6. De Vlaamse Regering kan nadere formele en procedurele regels bepalen voor de toepassing van dit hoofdstuk. Ze kan de vrijstelling, vermeld in artikel 15, § 3, uitbreiden tot het advies van de gewestelijk ambtenaar over de overbewoondverklaring.</p>
 
 ## [HOOFDSTUK IVbis HERHUISVESTING (ing. decr. 29 maart 2013, art. 21, I: 11 augustus 2013)]
 
 ### ART. 17bis.
 
-§ 1. Als de bewoners van een ongeschikte, onbewoonbare of overbewoonde woning geherhuisvest moeten worden&nbsp;omdat dit noodzakelijk is wegens ernstige risico's voor hun veiligheid en gezondheid en de bepalingen van artikel 18, § 2, niet toegepast kunnen worden, neemt de burgemeester de nodige maatregelen voor de bewoners die voldoen aan de voorwaarden die de Vlaamse Regering vaststelt. Hij kan daarbij onder meer de gemeentelijke huisvestingsmogelijkheden benutten of een beroep doen op de medewerking van het openbaar centrum voor maatschappelijk welzijn of van de sociale woonorganisaties, waarvan het werkingsgebied zich uitstrekt tot het grondgebied van de gemeente.<br>
+§ 1. Als de bewoners van een onbewoonbare of overbewoonde woning of van een goed als vermeld in artikel 20, § 1, tweede lid, geherhuisvest moeten worden omdat dit noodzakelijk is wegens mensonwaardige levensomstandigheden of ernstige risico's voor hun veiligheid en gezondheid en de bepalingen van artikel 18, § 2, niet toegepast kunnen worden, neemt de burgemeester de nodige maatregelen voor de bewoners die voldoen aan de voorwaarden die de Vlaamse Regering vaststelt. Hij kan daarbij onder meer de gemeentelijke huisvestingsmogelijkheden benutten of een beroep doen op de medewerking van het openbaar centrum voor maatschappelijk welzijn of van de sociale woonorganisaties, waarvan het werkingsgebied zich uitstrekt tot het grondgebied van de gemeente.<br>
 <br>
 De Vlaamse Regering kan, binnen de kredieten die daartoe ingeschreven worden op de begroting van het Vlaamse Gewest en onder de voorwaarden die ze bepaalt, initiatieven nemen om de ontwikkeling van gemeentelijke herhuisvestingsmogelijkheden aan te moedigen of te ondersteunen.<br>
 <br>
@@ -347,7 +510,13 @@ Als de gemeente daartoe een samenwerkingsovereenkomst sluit met de Vlaamse Reger
 
 ### ART. 18.
 
-§ 1. Als de woning, die ongeschikt of onbewoonbaar werd verklaard of   waarvoor de afgifte van een conformiteitsattest werd geweigerd, volgens de   bevindingen van het conformiteitsonderzoek dat verloopt volgens de procedure,   vermeld in artikel 5, § 4 , in aanmerking komt voor renovatie-, verbeterings- of   aanpassingswerkzaamheden, dan moeten die worden uitgevoerd binnen een termijn   die de Vlaamse regering vaststelt. De Vlaamse regering kan daarbij een   bijzondere regeling vast-stellen voor de eigenaar, de houder van het recht van   erfpacht of opstal, of de vruchtgebruiker die de woning zelf   be-woont.<BR><BR>Voor de renovatie-, verbeterings- of aanpassingswerkzaamheden   kan onder de gestelde voorwaarden een tegemoetkoming worden verleend zoals   bedoeld in artikel 83.<BR><BR>§ 2. De gemeente, het openbaar centrum voor   maatschappelijk welzijn of een sociale woonorganisatie, uitgezonderd een   huurdersbond, kunnen de werkzaamheden uitvoeren, voor zover ze contractueel een   zakelijk recht op de woning verkrijgen of ze de woning voor minstens negen jaar   huren. In dat laatste geval mag de huurprijs van de woning niet hoger zijn dan   een bedrag dat wordt berekend op grond van de objectieve criteria, vastgesteld   door de Vlaamse regering, waarbij er rekening wordt gehouden met de slechte   staat van de woning.<BR><BR>De initiatiefnemer moet de bewoners van de woning,   die voldoen aan de door de Vlaamse regering vastgestelde voorwaarden,   herhuisvesten.
+§ 1. Als de woning, die ongeschikt of onbewoonbaar werd verklaard of waarvoor de afgifte van een conformiteitsattest werd geweigerd, volgens de bevindingen van het conformiteitsonderzoek dat verloopt volgens de procedure, vermeld in artikel 5, § 4 , in aanmerking komt voor renovatie-, verbeterings- of aanpassingswerkzaamheden, dan moeten die door de houder van het zakelijk recht worden uitgevoerd.<br>
+<br>
+Voor de renovatie-, verbeterings- of aanpassingswerkzaamheden kan onder de gestelde voorwaarden een tegemoetkoming worden verleend zoals bedoeld in artikel 83.<br>
+<br>
+§ 2. De gemeente, het openbaar centrum voor maatschappelijk welzijn of een sociale woonorganisatie, uitgezonderd een huurdersbond, kunnen de werkzaamheden uitvoeren, voor zover ze contractueel een zakelijk recht op de woning verkrijgen of ze de woning voor minstens negen jaar huren. In dat laatste geval mag de huurprijs van de woning niet hoger zijn dan een bedrag dat wordt berekend op grond van de objectieve criteria, vastgesteld door de Vlaamse regering, waarbij er rekening wordt gehouden met de slechte staat van de woning.<br>
+<br>
+De initiatiefnemer moet de bewoners van de woning, die voldoen aan de door de Vlaamse regering vastgestelde voorwaarden, herhuisvesten.
 
 ### ART. 19.
 
@@ -355,7 +524,7 @@ Als de woning die ongeschikt of onbewoonbaar werd verklaard of waarvoor de   afg
 
 ### ART. 20.
 
-§ 1. Als een woning of een specifieke woonvorm als vermeld in artikel 5, § 3, eerste lid, niet voldoet aan de vereisten en normen, vastgesteld met toepassing van artikel 5, rechtstreeks of via tussenpersoon wordt verhuurd, te huur gesteld of ter beschikking gesteld met het oog op bewoning, wordt de verhuurder, de eventuele onderverhuurder of diegene die de woning ter beschikking stelt, gestraft met een gevangenisstraf van zes maanden tot drie jaar en een geldboete van 500 tot 25.000 euro of met een van die straffen alleen.<br>
+§ 1.&nbsp;Als een niet-conforme of overbewoonde woning rechtstreeks of via tussenpersoon wordt verhuurd, te huur gesteld of ter beschikking gesteld met het oog op bewoning, wordt de verhuurder, de eventuele onderverhuurder of diegene die de woning ter beschikking stelt, gestraft met een gevangenisstraf van zes maanden tot drie jaar en een geldboete van 500 tot 25.000 euro of met een van die straffen alleen.<br>
 <br>
 Wanneer een roerend of een onroerend goed dat niet hoofdzakelijk voor wonen bestemd is, rechtstreeks of via een tussenpersoon wordt verhuurd, te huur gesteld of ter beschikking gesteld met het oog op bewoning terwijl dit goed gebreken vertoont die een veiligheids- of gezondheidsrisico inhouden of terwijl in dit goed de basisnutsvoorzieningén zoals elektriciteit, sanitair, kookgelegenheid en verwarmingsmogelijkheid ontbreken of niet behoorlijk functioneren, wordt de verhuurder, de eventuele onderverhuurder of diegene die dat roerend of onroerend goed ter beschikking stelt, gestraft met een gevangenisstraf van zes maanden tot drie jaar en een geldboete van 500 tot 25.000 euro of met een van die straffen alleen.<br>
 <br>
@@ -370,17 +539,37 @@ De wooninspecteur deelt aan de burgemeester en de gewestelijke ambtenaar mee voo
 &nbsp;§ 3. De agenten, officieren van gerechtelijke politie en ambtenaren, vermeld in paragraaf 2, hebben toegang tot de bouwplaatsen en de gebouwen om alle nodige opsporingen en vaststellingen te verrichten.<br>
 Als de verrichtingen de kenmerken van een huiszoeking dragen, mogen ze alleen uitgevoerd worden op voorwaarde dat de politierechter daartoe een machtiging heeft verstrekt.<br>
 <br>
-§ 4. De burgemeester en de ambtenaren, vermeld in paragraaf 2, kunnen de verhuurde of te huur of ter beschikking gestelde woningen die niet beantwoorden aan de vereisten en normen, vastgesteld met toepassing van artikel 5, verzegelen. Ze kunnen onder dezelfde voorwaarden overgaan tot verzegeling van de specifieke woonvormen, vermeld in artikel 5, § 3, eerste lid.<br>
+§ 4. In deze paragraaf wordt verstaan onder beboetingsambtenaar: de ambtenaar die met toepassing van de regels, vastgesteld door de Vlaamse Regering, wordt aangewezen en die binnen zijn ambtsgebied belast is met de opdrachten, vermeld in deze paragraaf.<br>
 <br>
-Als de verzegeling gepaard gaat met gedwongen uitdrijving neemt de burgemeester de nodige initiatieven met het oog op de herhuisvesting van de bewoners in kwestie, zoals bepaald in artikel 17bis.<br>
+De burgemeester en de ambtenaren, vermeld in paragraaf 2, kunnen de verhuurde of te huur of ter beschikking gestelde woningen die niet conform of overbewoond zijn, en goederen als vermeld in paragraaf 1, tweede lid, verzegelen.<br>
 <br>
-De verhuurder, de volle eigenaar, de houder van het recht van opstal of erfpacht, de vruchtgebruiker of de bewoner kunnen tegen de verzegeling beroep instellen bij de Vlaamse Regering binnen een termijn van tien dagen nadat de verzegeling aan hem bekendgemaakt werd. Het beroep werkt niet opschortend. De Vlaamse Regering bepaalt de procedure voor het instellen en het behandelen van het beroep.<br>
+Een goed als vermeld in het tweede lid, kan ook verzegeld worden als er al een misdrijf als vermeld in artikel 20, § 1, is vastgesteld en het goed niet langer verhuurd, te huur of ter beschikking gesteld wordt.<br>
 <br>
-De doorbreking van de verzegeling wordt gelijkgesteld met een misdrijf in de zin van artikel 283 tot en met 288 van het Strafwetboek.
+Als de verzegeling gepaard gaat met gedwongen uitdrijving, neemt de burgemeester de nodige initiatieven voor de herhuisvesting van de bewoners in kwestie, vermeld in artikel 17bis.<br>
+<br>
+De doorbreking van de verzegeling wordt gelijkgesteld met een misdrijf als vermeld in artikel 283 tot en met 288 van het Strafwetboek.<br>
+<br>
+De verhuurder, de houder van het zakelijk recht en de bewoner kunnen tegen de verzegeling beroep instellen bij de Vlaamse Regering binnen tien dagen nadat ze op de hoogte zijn gebracht van de verzegeling. Het beroep werkt niet opschortend. De Vlaamse Regering bepaalt de procedure voor het instellen en het behandelen van het beroep.<br>
+<br>
+De verhuurder, de houder van het zakelijk recht en de bewoner kunnen een verzoek tot opheffing van de verzegeling indienen bij de instantie die heeft verzegeld, als het verzoek betrekking heeft op het uitvoeren van herstelwerkzaamheden of dient om eventuele schade te beperken of te vermijden. Tegen een weigering om de verzegeling op te heffen, is beroep mogelijk bij de Vlaamse Regering. De Vlaamse Regering bepaalt de procedure voor het instellen en het behandelen van het beroep.<br>
+<br>
+Het schenden van een verzegeling of het niet-naleven van de voorwaarden die gekoppeld werden aan de opheffing van de verzegeling, is strafbaar met een administratieve geldboete van 500 euro tot 5000 euro. De boete wordt opgelegd door de beboetingsambtenaar.<br>
+<br>
+De beboetingsambtenaar brengt de beboete persoon of rechtspersoon met een beveiligde zending op de hoogte van zijn voornemen om een geldboete op te leggen en doet daarbij een voorstel op basis van de elementen van het dossier.<br>
+<br>
+De beboete persoon of rechtspersoon kan een schriftelijk verweer indienen binnen dertig dagen nadat het voornemen om een geldboete op te leggen bij de post is afgegeven. Als de betrokkene ook mondeling gehoord wil worden, vermeldt hij dat uitdrukkelijk in het schriftelijk verweer.<br>
+<br>
+De beboetingsambtenaar neemt een beslissing over het schriftelijk verweer binnen dertig dagen na de ontvangst ervan. Die termijn kan eenmalig met dertig dagen verlengd worden. Als er een mondelinge hoorzitting plaatsvindt, bedraagt de beslissingstermijn zestig dagen na de ontvangst van het schriftelijk verweer. Die termijn kan eenmalig met dertig dagen verlengd worden. De beslissing van de beboetingsambtenaar wordt verzonden met een beveiligde zending. De administratieve geldboete wordt betaald binnen dertig dagen nadat de beslissing bij de post is afgegeven.<br>
+<br>
+Als de geldboete niet wordt betaald binnen dertig dagen nadat het voornemen om een geldboete op te leggen of de beslissing na schriftelijk verweer bij de post is afgegeven, vaardigt de beboetingsambtenaar een dwangbevel uit dat wordt geviseerd en uitvoerbaar verklaard door de leidend ambtenaar van de entiteit waartoe de beboetingsambtenaar behoort. Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot. Binnen een termijn van dertig dagen na de betekening van het dwangbevel kan de persoon of rechtspersoon aan wie dit dwangbevel betekend is via gerechtsdeurwaardersexploot een met redenen omkleed verzet doen bij de rechtbank van het arrondissement van de plaats waar het verzegelde goed ligt.<br>
+<br>
+Op het dwangbevel zijn de bepalingen van deel V van het Gerechtelijk Wetboek houdende bewarend beslag en middelen van tenuitvoerlegging van toepassing.<br>
+<br>
+Tegen de beslissing van de beboetingsambtenaar over het ingediende verweer is beroep mogelijk bij de Raad van State, die oordeelt met volle rechtsmacht. Dit beroep heeft geen schorsende werking.
 
 ### ART. 20bis.
 
-§ 1. Naast de straf kan de rechtbank de overtreder bevelen om werken uit te voeren om de woning , het pand dat het gebouw met de aanwezige woonentiteiten omvat, of de specifieke woonvorm als vermeld in artikel 5, § 3, eerste lid, te laten voldoen aan de vereisten en normen, vastgesteld met toepassing van artikel 5. Als de rechtbank vaststelt dat de woning niet in aanmerking komt voor werkzaamheden, of dat het gaat om een goed als vermeld in artikel 20, § 1, tweede lid, beveelt ze de overtreder om er een andere bestemming aan te geven overeenkomstig de bepalingen van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 of om de woning of het goed te slopen, tenzij de sloop ervan verboden is op grond van wettelijke, decretale of reglementaire bepalingen.Dat gebeurt ambtshalve of op vordering van de wooninspecteur of het college van burgemeester en schepenen van de gemeente waar de woning, het pand of het goed ligt.<br>
+§ 1. Naast de straf kan de rechtbank de overtreder bevelen om werken uit te voeren om de woning of het pand dat het gebouw met de aanwezige woningen omvat, conform te maken en om de overbewoning te beëindigen. Als de rechtbank vaststelt dat de woning niet in aanmerking komt voor werkzaamheden, of dat het gaat om een goed als vermeld in artikel 20, § 1, tweede lid, beveelt ze de overtreder om er een andere bestemming aan te geven overeenkomstig de bepalingen van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 of om de woning of het goed te slopen, tenzij de sloop ervan verboden is op grond van wettelijke, decretale of reglementaire bepalingen.Dat gebeurt ambtshalve of op vordering van de wooninspecteur of het college van burgemeester en schepenen van de gemeente waar de woning, het pand of het goed ligt.<br>
 <br>
 De rechtbank bepaalt de termijn voor de uitvoering van de herstelmaatregelen en kan, op vordering van de wooninspecteur of het college van burgemeester en schepenen, eveneens een dwangsom bepalen per dag vertraging in de tenuitvoerlegging van de herstelmaatregelen. De termijn voor de uitvoering van de herstelmaatregelen bedraagt maximaal twee jaar.<br>
 <br>
@@ -388,13 +577,15 @@ De rechtbank bepaalt de termijn voor de uitvoering van de herstelmaatregelen en 
 <br>
 De wooninspecteur of het college van burgemeester en schepenen stuurt een afschrift van de vordering, vermeld in paragraaf 1, naar de overtreder en naar de eigenaar van de woning, het pand&nbsp;of het goed waarvoor de vordering werd ingeleid.<br>
 <br>
-De woningen, panden en goederen waarop een vordering als vermeld in paragraaf 1 rust, worden opgenomen op een lijst die actief openbaar gemaakt kan worden.<br>
+De wooninspecteur neemt de woningen, panden en goederen waarop een vordering als vermeld in paragraaf 1, rust, op in een register dat actief openbaar wordt gemaakt. De Vlaamse Regering kan nadere regels bepalen voor de vorm, inhoud, beheer en gebruik van dat register.<br>
 <br>
-§ 3. De vordering wordt uitdrukkelijk gemotiveerd vanuit het oogpunt van de elementaire veiligheids-, gezondheids- en woonkwaliteitsvereisten, vermeld in artikel 5.<br>
+Als een vordering als vermeld in paragraaf 1, wordt ingeleid in naam van het college van burgemeester en schepenen, wordt daarvan een afschrift bezorgd aan de wooninspecteur met het oog op de opname van die vordering in het register, vermeld in het derde lid.<br>
+<br>
+§ 3. De vordering wordt uitdrukkelijk gemotiveerd vanuit het oogpunt van de conformiteit van de woning en het beëindigen van de overbewoning.<br>
 <br>
 § 4. De vordering vermeldt minstens de gebreken op basis waarvan het herstel wordt gevorderd.<br>
 <br>
-§ 5. De wooninspecteur en het college van burgemeester en schepenen kunnen ook voor de rechtbank van eerste aanleg, zetelend in burgerlijke aangelegenheden, in het gerechtelijk arrondissement waar de woning, het pand, de specifieke woonvorm of het goed, vermeld in artikel 20, § 1, zich bevindt, de uitvoering van herstelmaatregelen<br>
+§ 5. De wooninspecteur en het college van burgemeester en schepenen kunnen ook voor de rechtbank van eerste aanleg, zetelend in burgerlijke aangelegenheden, in het gerechtelijk arrondissement waar de woning, het pand of het goed, vermeld in artikel 20, § 1, zich bevindt, de uitvoering van herstelmaatregelen<br>
 vorderen zoals omschreven in § 1.<br>
 <br>
 § 5bis. De hoven en rechtbanken die uitspraak doen over de vorderingen, vermeld in paragraaf 1, bezorgen een afschrift aan de herstelvorderende overheid binnen de termijn om rechtsmiddelen tegen de uitspraak aan te wenden.<br>
@@ -403,9 +594,9 @@ vorderen zoals omschreven in § 1.<br>
 <br>
 De controle ter plaatse, vermeld in het eerste lid, wordt pas uitgevoerd na de betaling van een vergoeding. De Vlaamse Regering bepaalt het bedrag van de vergoeding en de nadere regelen voor de inning ervan. De opbrengst van de vergoeding wordt toegewezen aan het Fonds voor de Wooninspectie, vermeld in artikel 19 van het decreet van 29 juni 2007 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2007.<br>
 <br>
-De wooninspecteur stelt een proces-verbaal van uitvoering op. Behoudens bewijs van het tegendeel geldt alleen het proces-verbaal van uitvoering als bewijs van het herstel en van de datum van het herstel. De wooninspecteur zendt een afschrift van het proces-verbaal van uitvoering aan het college van burgemeester en schepenen en aan de overtreder en de eigenaar van de woning, het pand, de specifieke woonvorm of het goed, vermeld in artikel 20, § 1. De burgemeester kan geen conformiteitsattest afleveren zolang uit het proces-verbaal van uitvoering niet blijkt dat de herstelmaatregel volledig uitgevoerd is.<br>
+De wooninspecteur stelt een proces-verbaal van uitvoering op. Behoudens bewijs van het tegendeel geldt alleen het proces-verbaal van uitvoering als bewijs van het herstel en van de datum van het herstel. De wooninspecteur zendt een afschrift van het proces-verbaal van uitvoering aan het college van burgemeester en schepenen en aan de overtreder en de eigenaar van de woning, het pand of het goed, vermeld in artikel 20, § 1. De burgemeester of de gewestelijk ambtenaar kunnen geen conformiteitsattest afleveren zolang uit het proces-verbaal van uitvoering niet blijkt dat de herstelmaatregel volledig uitgevoerd is.<br>
 <br>
-§ 7. Voor het geval dat de herstelmaatregelen door de overtreder niet binnen de door de rechtbank gestelde termijn worden uitgevoerd, beveelt het vonnis van de rechter, bedoeld in §§ 1 en 5, dat de wooninspecteur, het college van burgemeester en schepenen of eventueel de burgerlijke partij, ambtshalve in de uitvoering ervan kan voorzien.<br>
+§ 7. Voor het geval dat de herstelmaatregelen door de overtreder niet binnen de door de rechtbank gestelde termijn worden uitgevoerd, beveelt het vonnis van de rechter, bedoeld in §§ 1 en 5, dat de wooninspecteur, het college van burgemeester en schepenen&nbsp;en eventueel de burgerlijke partij, ambtshalve in de uitvoering ervan kan voorzien.<br>
 <br>
 Wanneer de overtreder in gebreke blijft is hij verplicht alle uitvoeringskosten te vergoeden op vertoon van een staat, opgesteld door de overheid, bedoeld in het eerste lid, of begroot en uitvoerbaar verklaard door de beslagrechter in de burgerlijke rechtbank.<br>
 <br>
@@ -418,17 +609,39 @@ De overtreder is verplicht alle kosten te vergoeden op vertoon van een staat opg
 
 ### ART. 20ter.
 
-De dagvaarding voor de correctionele rechtbank op grond van artikel 20, of   het exploot tot inleiding van het geding, bedoeld in artikel 20bis, § 5, is pas   ontvankelijk na overschrijving in het hypotheekkantoor van het gebied waar de   goederen gelegen zijn.<BR><BR>Elke eindbeslissing die in de zaak gewezen is,   wordt op de kant van de overgeschreven dagvaarding of van het overgeschreven   exploot ingeschreven op de wijze, bepaald in artikel 84 van de hypotheekwet. Bij   gebrek aan een overschrijving, bedoeld in het eerste lid, wordt de   eindbeslissing ingeschreven op de kant van de overschrijving van de titel van   verkrijging.<BR><BR>Hetzelfde geldt voor het proces-verbaal waarbij wordt   vastgesteld dat het vonnis is uitgevoerd.<BR><BR>De dagvaarding of het exploot   vermeldt de kadastrale omschrijving van het onroerend goed dat het voorwerp   uitmaakt van het misdrijf en identificeert de eigenaar ervan, in de vorm en   onder de sanctie voorgeschreven door de wetgeving inzake hypotheken.<BR><BR>Elke   eindbeslissing die in de zaak gewezen is, is steeds tegenstelbaar aan   derden-verkrijgers, van wie de titel niet was overgeschreven vóór de in het   eerste lid bedoelde overschrijving, of vóór de inschrijving van de dagvaarding   of het exploot tot inleiding van het geding, op de kant van de overschrijving   van een eerdere titel van verkrijging.<BR><BR>Als openbare besturen of derden   wegens het in gebreke blijven van de veroordeelde of van de nieuwe houder van   het zakelijk recht, vermeld in artikel 20quater, gedwongen zijn om het vonnis   uit te voeren, wordt de daaruit te hunnen bate voortvloeiende schuldvordering   gewaarborgd door een wettelijke hypotheek, die ingeschreven, vernieuwd,   verminderd of gedeeltelijk doorgehaald wordt overeenkomstig de bepalingen in de   hoofdstukken IV en V van de hypotheekwet.<BR><BR>Die waarborg dekt ook de   schuldvordering ten gevolge van de kosten van de hypothecaire formaliteiten. die   door hen zijn voorgeschoten en die ten laste komen van de veroordeelde of van de   nieuwe houder van het zakelijk recht, vermeld in artikel   20quater.<BR>
+De dagvaarding voor de correctionele rechtbank op grond van artikel 20, of het exploot tot inleiding van het geding, bedoeld in artikel 20bis, § 5, is pas ontvankelijk na overschrijving in het bevoegde kantoor van de Algemene Administratie van de Patrimoniumdocumentatie van het gebied waar de goederen gelegen zijn.<br>
+<br>
+Elke eindbeslissing die in de zaak gewezen is, wordt op de kant van de overgeschreven dagvaarding of van het overgeschreven exploot ingeschreven op de wijze, bepaald in artikel 84 van de hypotheekwet. Bij gebrek aan een overschrijving, bedoeld in het eerste lid, wordt de eindbeslissing ingeschreven op de kant van de overschrijving van de titel van verkrijging.<br>
+<br>
+Hetzelfde geldt voor het proces-verbaal waarbij wordt vastgesteld dat het vonnis of arrest is uitgevoerd en voor het proces-verbaal waarbij wordt vastgesteld dat de in artikel 20bis, § 1, vermelde herstelvordering werd uitgevoerd nadat het exploot tot inleiding van het geding, bedoeld in artikel 20bis, § 5, is overgeschreven.<br>
+<br>
+De dagvaarding of het exploot vermeldt de kadastrale omschrijving van het onroerend goed dat het voorwerp uitmaakt van het misdrijf en identificeert de eigenaar ervan, in de vorm en onder de sanctie voorgeschreven door de wetgeving inzake hypotheken.<br>
+<br>
+De uitvoering door of in de plaats van de veroordeelde, van de publieke herstelmaatregel die is opgelegd met toepassing van artikel 20bis, moet door iedereen worden gedoogd.<br>
+<br>
+Met behoud van de toepassing van het vijfde lid kunnen derden-verkrijgers die niet in het geding zijn tussengekomen en van wie de titel al was overgeschreven vóór de hypothecaire publiciteit, vermeld in het eerste en tweede lid, derdenverzet instellen tegen de eindbeslissing waarin de herstelmaatregel, vermeld in het vijfde lid, is opgelegd.<br>
+<br>
+Als openbare besturen of derden wegens het in gebreke blijven van de veroordeelde of van de nieuwe houder van het zakelijk recht, vermeld in artikel 20quater, gedwongen zijn om het vonnis uit te voeren, wordt de daaruit te hunnen bate voortvloeiende schuldvordering gewaarborgd door een wettelijke hypotheek, die ingeschreven, vernieuwd, verminderd of gedeeltelijk doorgehaald wordt overeenkomstig de bepalingen in de hoofdstukken IV en V van de hypotheekwet.<br>
+<br>
+Die waarborg dekt ook de schuldvordering ten gevolge van de kosten van de hypothecaire formaliteiten. die door hen zijn voorgeschoten en die ten laste komen van de veroordeelde of van de nieuwe houder van het zakelijk recht, vermeld in artikel 20quater.
 
 ### ART. 20quater.
 
 Als er op een roerend of onroerend goed ten gevolge van een definitieve rechterlijke beslissing een verplichting rust om herstelmaatregelen uit te voeren als vermeld in artikel 20bis, wordt die verplichting op het ogenblik dat een authentieke akte wordt opgesteld voor de overdracht van een zakelijk recht op het goed, in een afzonderlijke akte vermeld. In die akte wordt ook vermeld dat de nieuwe houder van het zakelijk recht de verbintenis aangaat om, met behoud van de toepassing van de verplichting voor de overtreder, de opgelegde herstelmaatregelen uit te voeren en de eventuele uitvoeringskosten te vergoeden overeenkomstig artikel 20bis, § 7, tweede lid.<br>
 <br>
-De instrumenterende ambtenaar bezorgt een afschrift van de afzonderlijke akte, vermeld in het eerste lid, aan de wooninspecteur en is ertoe gehouden de grosse af te leveren op zijn verzoek.
+De instrumenterende ambtenaar bezorgt een afschrift van de afzonderlijke akte, vermeld in het eerste lid, aan de wooninspecteur en is ertoe gehouden de grosse af te leveren op zijn verzoek.<br>
+<br>
+De kosten voor het opstellen van de afzonderlijke akte zijn ten laste van de overdrager van het zakelijk recht.
 
 ### ART. 20quinquies.
 
-De overtreder brengt voor het afsluiten van de overeenkomst tot overdracht van een zakelijk recht, de kandidaat-houder van het zakelijk recht op de hoogte dat op het goed een vordering of veroordeling als vermeld in artikel 20bis, § 1, rust. In de overeenkomst tot overdracht van het zakelijk recht wordt vermeld dat op het goed een bovenvermelde vordering of veroordeling rust.<br /><br />Met behoud van het recht om een schadevergoeding te eisen, vernietigt de rechtbank, op vordering van de nieuwe houder van het zakelijk recht, de titel van overdracht van zakelijk recht als de overtreder niet voldaan heeft aan de verplichting, vermeld in het eerste lid.<br /><br />In afwijking van het tweede lid kan de nieuwe houder van het zakelijk recht de vordering tot vernietiging niet inroepen als de informatie, vermeld in het eerste lid, wordt meegedeeld bij het verlijden van de authentieke akte en als de nieuwe houder van het zakelijk recht verzaakt aan de vordering tot vernietiging.
+De overtreder brengt voor het afsluiten van de overeenkomst tot overdracht van een zakelijk recht, de kandidaat-overnemer op de hoogte dat op het goed een vordering of veroordeling als vermeld in artikel 20bis, § 1, rust. In de overeenkomst tot overdracht van het zakelijk recht wordt vermeld dat op het goed een bovenvermelde vordering of veroordeling rust.<br>
+<br>
+Met behoud van het recht om een schadevergoeding te eisen, vernietigt de rechtbank, op vordering van de overnemer, de titel van overdracht van zakelijk recht als de overtreder niet voldaan heeft aan de verplichting, vermeld in het eerste lid.<br>
+<br>
+In afwijking van het tweede lid kan de overnemer de vordering tot vernietiging niet inroepen als de informatie, vermeld in het eerste lid, wordt meegedeeld bij het verlijden van de authentieke akte en als de nieuwe houder van het zakelijk recht verzaakt aan de vordering tot vernietiging.<br>
+<br>
+Als een zakelijk recht op een roerend of onroerend goed wordt overgedragen, consulteert de instrumenterend ambtenaar het register van herstelvorderingen, vermeld in artikel 20bis, § 2, derde lid, en neemt hij de daarin opgenomen informatie op in de akte van overdracht. Als het register over dat goed geen informatie bevat, wordt dat ook vermeld in de akte.
 
 ## TITEL IV DE ORGANISATIE VAN HET WOONBELEID
 
@@ -1409,16 +1622,16 @@ Als een tegemoetkoming wordt verleend overeenkomstig artikel 82, betaalt het Vla
 
 ### ART. 82.
 
-Om het verlaten van een voor bewoning ongeschikte of onaangepaste woning aan te moedigen kan er, met toepassing van artikel 81, een tegemoetkoming in de installatiekosten en in de huurprijs worden verleend ten behoeve van woonbehoeftige gezinnen en alleenstaanden om een woning te huren die voldoet aan de volgende drie voorwaarden:<br>
-1° de woning is geschikt om in te wonen;<br>
-2° de woning is aangepast aan de gezinssamenstelling;<br>
-3° de woning is aangepast aan de fysieke mogelijkheden van de huurder.<br>
+Om het verlaten van een ongeschikte, onaangepaste of overbewoonde woning aan te moedigen kan er, met toepassing van artikel 81, een tegemoetkoming in de installatiekosten en in de huurprijs worden verleend ten behoeve van woonbehoeftige gezinnen en alleenstaanden om een woning te huren die voldoet aan de volgende drie voorwaarden:<br>
+1° de woning is conform;<br>
+2° de woning is niet onaangepast;<br>
+3° de woning is niet overbewoond.<br>
 <br>
-Als de betrokken huurders een sociale huurwoning, als vermeld in artikel 2, §1, eerste lid, 22°,a) en c), krijgen toegewezen of hun oorspronkelijk ongeschikte of onaangepaste woning opnieuw betrekken nadat ze werd gerenoveerd of aangepast met toepassing van artikel 18 of 90, kan enkel de tegemoetkoming in de installatiekosten, vermeld in het eerste lid, worden verleend.<br>
+Als de betrokken huurders een sociale huurwoning, als vermeld in artikel 2, §1, eerste lid, 22°,a) en c), krijgen toegewezen of hun oorspronkelijk ongeschikte, onaangepaste of overbewoonde woning opnieuw betrekken nadat ze werd gerenoveerd of aangepast met toepassing van artikel 18 of 90, kan enkel de tegemoetkoming in de installatiekosten, vermeld in het eerste lid, worden verleend.<br>
 <br>
 De in dit artikel vermelde tegemoetkoming kan, onder de voorwaarden die de Vlaamse regering bepaalt, worden toegekend aan dakloze gezinnen of alleenstaanden.<br>
 <br>
-Zonder een voor bewoning ongeschikte of onaangepaste woning te hebben verlaten kan aan de woonbehoeftige gezinnen en alleenstaanden die een geschikte en aangepaste woning huren een tegemoetkoming in de huurprijs worden verleend, voorzover geen sociale huurwoning als vermeld in artikel 2, §1, eerste lid, 22°, a) en c), wordt betrokken. De Vlaamse regering bepaalt nader de voorwaarden en de bepalingen terzake.
+Zonder een ongeschikte, onaangepaste of overbewoonde woning te hebben verlaten kan aan de woonbehoeftige gezinnen en alleenstaanden die een geschikte en aangepaste woning huren een tegemoetkoming in de huurprijs worden verleend, voorzover geen sociale huurwoning als vermeld in artikel 2, §1, eerste lid, 22°, a) en c), wordt betrokken. De Vlaamse regering bepaalt nader de voorwaarden en de bepalingen terzake.
 
 ### ART. 83.
 
@@ -1453,7 +1666,7 @@ Als overeenkomstig boek III, titel VI, hoofdstuk VI, afdeling I, van het Burgerl
 § 1. De initiatiefnemer die met toepassing van artikel 18, § 2, of artikel 90, § 3, tweede lid, renovatie-, verbeterings- of aanpassingswerkzaamheden uitgevoerd heeft aan een woning, beschikt over een recht van voorkoop op die woning gedurende de duur van de renovatieovereenkomst of het sociaal beheersrecht.<br>
 <br>
 Onverminderd het eerste lid, krijgen het Vlaams Woningfonds, Vlabinvest apb, de sociale huisvestingsmaatschappijen binnen hun werkgebied, en de gemeenten op hun grondgebied, een recht van voorkoop op:<br>
-1° een woning die opgenomen is in het leegstandsregister, vermeld in artikel 2.2.6 van het decreet Grond- en Pandenbeleid, in het register van verwaarloosde gebouwen en woningen, vermeld in artikel 25, § 1, van het Heffingsdecreet, of in de inventaris van ongeschikte en onbewoonbare woningen, vermeld in artikel 26, § 1, van het Heffingsdecreet;<br>
+1° een woning die opgenomen is in het leegstandsregister, vermeld in artikel 2.2.6 van het decreet Grond- en Pandenbeleid, in het register van verwaarloosde gebouwen en woningen, vermeld in artikel 25, § 1, van het Heffingsdecreet, of in de inventaris;<br>
 2° de woning, bedoeld in artikel 19, die niet werd gesloopt binnen de door de Vlaamse regering bepaalde termijn;<br>
 3° een perceel, bestemd voor woningbouw, dat gelegen is in een door de Vlaamse regering te bepalen bijzonder gebied.<br>
 <br>
@@ -1509,15 +1722,15 @@ Wanneer een begunstigde van een recht op voorkoop, bedoeld in artikel 85, § 1, 
 
 ### ART. 90.
 
-§ 1. In dit artikel wordt verstaan onder de woningbezitter: de volle eigenaar, de houder van het recht van opstal of erfpacht of de vruchtgebruiker, naargelang van het geval.<br>
+§ 1.....<br>
 <br>
-§ 2. De gemeente verkrijgt onder de voorwaarden, vermeld in dit artikel, een sociaal beheersrecht over de woning die minstens twee jaar opgenomen is in het leegstandsregister, vermeld in artikel 2.2.6 van het decreet Grond- en Pandenbeleid, in de inventaris van ongeschikte en onbewoonbare woningen, vermeld in artikel 26, § 1, van het Heffingsdecreet, of, als de woningbezitter ze niet zelf bewoont, in het register van verwaarloosde gebouwen en woningen, vermeld in artikel 25, § 1, van het Heffingsdecreet.<br>
+§ 2. De gemeente verkrijgt onder de voorwaarden, vermeld in dit artikel, een sociaal beheersrecht over de woning die minstens twee jaar opgenomen is in het leegstandsregister, vermeld in artikel 2.2.6 van het decreet Grond- en Pandenbeleid, in de inventaris, of, als de houder van het zakelijk recht ze niet zelf bewoont, in het register van verwaarloosde gebouwen en woningen, vermeld in artikel 25, § 1, van het Heffingsdecreet.<br>
 <br>
-De gemeente die overweegt om een sociaal beheersrecht te vestigen op een woning als vermeld in het eerste lid, kan met een beveiligde zending het verzoek richten tot de woningbezitter om binnen een termijn van maximaal een maand toegang te verlenen tot de woning. Als de toegang geweigerd wordt of na het verstrijken van de termijn van een maand kan de burgemeester, met behoud van de toepassing van het derde lid, bij bevel machtiging verlenen om de woning zonder toestemming te bezoeken tussen acht uur en twintig uur.<br>
+De gemeente die overweegt om een sociaal beheersrecht te vestigen op een woning als vermeld in het eerste lid, kan met een beveiligde zending het verzoek richten tot de houder van het zakelijk recht om binnen een termijn van maximaal een maand toegang te verlenen tot de woning. Als de toegang geweigerd wordt of na het verstrijken van de termijn van een maand kan de burgemeester, met behoud van de toepassing van het derde lid, bij bevel machtiging verlenen om de woning zonder toestemming te bezoeken tussen acht uur en twintig uur.<br>
 <br>
 Als de woning bewoond is, wordt het verzoek, vermeld in het tweede lid, gericht aan de bewoner. Het bevel van de burgemeester, vermeld in hetzelfde lid, kan in dat geval maar worden uitgevoerd als de politierechter daartoe een machtiging heeft verstrekt.<br>
 <br>
-De gemeente die een sociaal beheersrecht wil vestigen op een woning als vermeld in het eerste lid, maakt met een beveiligde zending haar voornemen bekend aan de woningbezitter en nodigt hem uit zijn opmerkingen aan de gemeente te bezorgen binnen een termijn van een maand. Als de woningbezitter zijn opmerkingen bezorgt, kan hij vragen om mondeling gehoord te worden. De gemeente neemt een beslissing, waarbij ze rekening houdt met de opmerkingen die ze ontvangen heeft, en met de elementen die eventueel op de hoorzitting aangebracht zijn, of, bij gebrek aan opmerkingen of een hoorzitting, na het verstrijken van de termijn van een maand. De gemeente brengt de woningbezitter binnen zes maanden na de bekendmaking van het voornemen met een beveiligde zending op de hoogte van haar beslissing.<br>
+De gemeente die een sociaal beheersrecht wil vestigen op een woning als vermeld in het eerste lid, maakt met een beveiligde zending haar voornemen bekend aan de houder van het zakelijk recht en nodigt hem uit zijn opmerkingen aan de gemeente te bezorgen binnen een termijn van een maand. Als de houder van het zakelijk recht zijn opmerkingen bezorgt, kan hij vragen om mondeling gehoord te worden. De gemeente neemt een beslissing, waarbij ze rekening houdt met de opmerkingen die ze ontvangen heeft, en met de elementen die eventueel op de hoorzitting aangebracht zijn, of, bij gebrek aan opmerkingen of een hoorzitting, na het verstrijken van de termijn van een maand. De gemeente brengt de houder van het zakelijk recht binnen zes maanden na de bekendmaking van het voornemen met een beveiligde zending op de hoogte van haar beslissing.<br>
 <br>
 § 3. Vanaf de datum van de schriftelijke kennisgeving van de beslissing, vermeld in paragraaf 2, vierde lid, beschikt de gemeente gedurende een termijn van negen jaar over de bevoegdheid om de woning te beheren, met inbegrip van het recht om ze te verhuren als sociale huurwoning met toepassing van de bepalingen van titel VII.<br>
 <br>
@@ -1527,25 +1740,25 @@ Zolang er geen werkzaamheden worden uitgevoerd, kan de gemeente een beslissing n
 <br>
 Als de termijn, vermeld in het eerste lid, niet volstaat om de kosten van de werkzaamheden, vermeld in het tweede lid, de jaarlijkse vergoeding, vermeld in paragraaf 4, en de normale beheerskosten te recupereren, wordt hij verlengd met de termijn die de gemeente nodig acht om de voormelde kosten te recupereren. De Vlaamse Regering stelt de werkzaamheden vast waarvan de kosten in aanmerking komen voor de eventuele verlenging van de termijn en kan een nadere omschrijving vaststellen van het begrip "normale beheerskosten".<br>
 <br>
-Als er daarentegen op het einde van de termijn, vermeld in het eerste lid, een batig saldo is, wordt dat saldo uitgekeerd aan de woningbezitter.<br>
+Als er daarentegen op het einde van de termijn, vermeld in het eerste lid, een batig saldo is, wordt dat saldo uitgekeerd aan de houder van het zakelijk recht.<br>
 <br>
-§ 4. De woningbezitter ontvangt vanaf de schriftelijke kennisgeving, vermeld in paragraaf 3, eerste lid, een jaarlijkse vergoeding die overeenkomt met de onroerende voorheffing, vermeld in artikel 1.1.0.0.2, eerste lid, 14°, van de Vlaamse Codex Fiscaliteit van 13 december 2013.<br>
+§ 4. De houder van het zakelijk recht ontvangt vanaf de schriftelijke kennisgeving, vermeld in paragraaf 3, eerste lid, een jaarlijkse vergoeding die overeenkomt met de onroerende voorheffing, vermeld in artikel 1.1.0.0.2, eerste lid, 14°, van de Vlaamse Codex Fiscaliteit van 13 december 2013.<br>
 <br>
 De vergoeding, vermeld in het eerste lid, wordt jaarlijks uitgekeerd op de verjaardag van de schriftelijke kennisgeving, vermeld in paragraaf 3, eerste lid.<br>
 <br>
-§ 5. De woningbezitter kan tegen de beslissing tot vestiging van het sociaal beheersrecht en tegen de uitoefening ervan beroep instellen bij de Vlaamse Regering. Het beroep schort de uitoefening van het sociaal beheersrecht niet op.<br>
+§ 5. De houder van het zakelijk recht kan tegen de beslissing tot vestiging van het sociaal beheersrecht en tegen de uitoefening ervan beroep instellen bij de Vlaamse Regering. Het beroep schort de uitoefening van het sociaal beheersrecht niet op.<br>
 <br>
 De Vlaamse Regering regelt de procedure om het beroep in te stellen en te behandelen.<br>
 <br>
-§ 6. De woningbezitter is verplicht de huurovereenkomsten na te leven die de gemeente heeft gesloten.<br>
+§ 6. De houder van het zakelijk recht is verplicht de huurovereenkomsten na te leven die de gemeente heeft gesloten.<br>
 <br>
 De bewoner die de woning in kwestie als laatste bewoonde voor de beslissing tot vestiging van het sociaal beheersrecht, en die voldoet aan de voorwaarden die de Vlaamse Regering bepaalt, krijgt een absolute prioriteit bij de toewijzing van de woning.<br>
 <br>
-§ 7. De woningbezitter kan het sociaal beheersrecht voor het verstrijken van de termijn, vermeld in paragraaf 3, eerste of vierde lid, beëindigen als hij alle kosten die door de gemeente terugvorderbaar zijn, betaald heeft en hij aan de zittende huurder een huurovereenkomst als vermeld in artikel 3, § 1, van boek III, titel VIII, hoofdstuk II, afdeling II, van het Burgerlijk Wetboek aangeboden heeft, met een huurprijs die hoogstens 120 % van de laatst betaalde huurprijs bedraagt.<br>
+§ 7. De houder van het zakelijk recht kan het sociaal beheersrecht voor het verstrijken van de termijn, vermeld in paragraaf 3, eerste of vierde lid, beëindigen als hij alle kosten die door de gemeente terugvorderbaar zijn, betaald heeft en hij aan de zittende huurder een huurovereenkomst als vermeld in artikel 3, § 1, van boek III, titel VIII, hoofdstuk II, afdeling II, van het Burgerlijk Wetboek aangeboden heeft, met een huurprijs die hoogstens 120 % van de laatst betaalde huurprijs bedraagt.<br>
 <br>
 Als de zittende huurder het aanbod weigert, kan de woning vrij te huur aangeboden worden.<br>
 <br>
-§ 8. Zowel de beslissing tot vestiging van het sociaal beheersrecht als de beëindiging van het sociaal beheersrecht wordt overgeschreven in de registers van de hypotheekbewaarder. De overschrijving gebeurt met een akte waaraan de burgemeester authenticiteit verleent. De Vlaamse Regering stelt het model van die akte vast
+§ 8. Zowel de beslissing tot vestiging van het sociaal beheersrecht als de beëindiging van het sociaal beheersrecht wordt overgeschreven in de registers van de hypothecaire openbaarmaking. De overschrijving gebeurt met een akte waaraan de burgemeester authenticiteit verleent. De Vlaamse Regering stelt het model van die akte vast
 
 ## TITEL VII DE VERHURING VAN WONINGEN IN DE SOCIALE SECTOR
 
@@ -1613,7 +1826,7 @@ De toelichting, vermeld in het derde lid, wordt aangepast als de regelgeving wij
 <br>
 § 3. Naast de verplichtingen van de huurder, vermeld in het Vlaams Woninghuurdecreet, leeft de huurder de volgende verplichtingen na :<br>
 1° in de sociale huurwoning zijn hoofdverblijfplaats hebben en er gedomicilieerd zijn;<br>
-2° alleen toestaan dat een persoon in de sociale huurwoning zijn hoofdverblijfplaats vestigt als dat niet leidt tot een onaangepaste woning en die bijwoonst melden aan de verhuurder;<br>
+2° alleen toestaan dat een persoon in de sociale huurwoning zijn hoofdverblijfplaats vestigt als dat niet leidt tot een onaangepaste woning of een woning die niet voldoet aan de normen, vermeld in artikel 5, § 1, vierde lid, en die bijwoonst melden aan de verhuurder;<br>
 3° alleen toestaan dat de persoon, vermeld in artikel 95, § 1, derde of vierde lid, in de sociale huurwoning bijwoont als dat in overeenstemming is met de voorwaarden, vermeld in artikel 95, § 1, derde of vierde lid;<br>
 4° de elementen die nodig zijn voor de huurprijsberekening meedelen als de verhuurder hierom verzoekt;<br>
 5° ...<br>
@@ -1624,7 +1837,7 @@ De toelichting, vermeld in het derde lid, wordt aangepast als de regelgeving wij
 10° voor zover de huurder een begeleidingsovereenkomst&nbsp;met een welzijns- of gezondheidsvoorziening heeft ondertekend, de afspraken naleven die opgenomen zijn in die overeenkomst;<br>
 11° instemmen met een verhuizing naar een andere sociale huurwoning in de volgende gevallen:<br>
 a) als de verhuurder dat wegens renovatie-, aanpassings- of sloopwerkzaamheden aan de bewoonde sociale huurwoning noodzakelijk acht of als de sociale huurwoning wordt verkocht;<br>
-b) als de huurder een onaangepaste woning bewoont;<br>
+b) als de huurder een onaangepaste woning of een woning die niet voldoet aan de normen, vermeld in artikel 5, § 1, vierde lid,&nbsp;bewoont;<br>
 c) als de sociale huurwoning die aangepast is aan de fysieke mogelijkheden van personen met een handicap, niet langer wordt bewoond door een persoon die daar nood aan heeft, tenzij de verhuurder een gemotiveerde afwijking toestaat;<br>
 d) als de sociale huurwoning een sociale assistentiewoning is als bepaald door de Vlaamse Regering, en niet langer wordt bewoond door een persoon die minstens 65 jaar oud is, tenzij de verhuurder een gemotiveerde afwijking toestaat;<br>
 12° voor zover de huurder een huurder is van een sociale assistentiewoning, instemmen met een verhuizing naar een meer passende zorgvoorziening als naar het oordeel van de behandelende arts, na overleg met de huurder, de familie van de huurder en andere betrokken zorgverleners, de lichamelijke of geestelijke gezondheidstoestand van de huurder van die aard is dat een opname in een meer passende zorgvoorziening noodzakelijk is, op voorwaarde dat de beheersinstantie als bepaald door de Vlaamse Regering, in overleg met de huurder en zijn familie of mantelzorgers, dat passend verblijf voorziet;<br>
@@ -1679,7 +1892,7 @@ Elke huurder en kandidaat-huurder van een sociale huurwoning beschikt over een i
 <br>
 In afwijking van het eerste lid moeten kandidaat-huurders niet voldoen aan de toelatingsvoorwaarden als ze op het moment van de toewijzing al huurder zijn van een andere sociale huurwoning van dezelfde verhuurder of, bij gedwongen herhuisvesting omwille van renovatie, aanpassing, sloop of verkoop, van een andere verhuurder.<br>
 <br>
-Als een persoon huwt of gehuwd is met een referentiehuurder en hij wil met de referentiehuurder gaan samenwonen in de sociale huurwoning na de aanvang van de huurovereenkomst, kan dat alleen als hij samen met de referentiehuurder voldoet aan de voorwaarden, vermeld in het eerste lid, en als de bijwoonst niet leidt tot een onaangepaste woning. Als die voorwaarden zijn vervuld, wordt de echtgenoot van rechtswege huurder. Hetzelfde geldt voor een persoon die wettelijk gaat samenwonen met een referentiehuurder na de aanvang van de huurovereenkomst.<br>
+Als een persoon huwt of gehuwd is met een referentiehuurder en hij wil met de referentiehuurder gaan samenwonen in de sociale huurwoning na de aanvang van de huurovereenkomst, kan dat alleen als hij samen met de referentiehuurder voldoet aan de voorwaarden, vermeld in het eerste lid, en als de bijwoonst niet leidt tot een onaangepaste woning of een woning die niet voldoet aan de normen, vermeld in artikel 5, § 1, vierde lid. Als die voorwaarden zijn vervuld, wordt de echtgenoot van rechtswege huurder. Hetzelfde geldt voor een persoon die wettelijk gaat samenwonen met een referentiehuurder na de aanvang van de huurovereenkomst.<br>
 <br>
 De feitelijke partner van de referentiehuurder die na de aanvang van de huurovereenkomst in de sociale huurwoning is komen bijwonen, kan na een jaar met de referentiehuurder te hebben samengewoond, de woning slechts blijven bewonen als hij samen met de referentiehuurder voldoet aan de voorwaarden, vermeld in het eerste lid. Als die voorwaarden zijn vervuld, wordt de feitelijke partner van rechtswege huurder.<br>
 <br>
