@@ -28,7 +28,12 @@ De lijst van de centra voor deeltijds beroepssecundair onderwijs die bij de inwe
 
 ### ART. 5.
 
-§ 1. Syntra Vlaanderen houdt bij de beslissing tot gehele of gedeeltelijke inhouding van de subsidiëring van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, vermeld in artikel 16, tweede lid, van het decreet, rekening met de volgende afwegingen :<br />1° de aanleiding tot en de aard en ernst van het niet meer voldoen aan de gestelde subsidiëringsvoorwaarden;<br />2° de bereidheid van het centrumbestuur tot het opmaken van een haalbaar voorstel tot remediëring enerzijds, en de implementatie van dat voorstel anderzijds;<br />3° de impact van de beslissing van Syntra Vlaanderen, in het bijzonder wat het tijdstip van de inhouding betreft, zowel op de continuïteit van de werking van het centrum als op de centrumpopulatie.<br /><br />§ 2. Het centrumbestuur heeft het recht binnen vijftien kalenderdagen na de betekening van de principiële beslissing van Syntra Vlaanderen tot gehele of gedeeltelijke inhouding, om een verweerschrift in te dienen bij de raad van bestuur van Syntra Vlaanderen. De raad van bestuur van Syntra Vlaanderen neemt een definitieve beslissing binnen vijfenveertig kalenderdagen na de betekening in kwestie. Als na het verstrijken van die datum geen definitieve beslissing aan het centrumbestuur werd betekend, blijft de subsidiëring behouden. De definitieve beslissing over de inhouding gaat in op een door de raad van bestuur van Syntra Vlaanderen te bepalen datum.
+§ 1. De VDAB houdt bij de beslissing tot gehele of gedeeltelijke inhouding van de subsidiëring van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, vermeld in artikel 16, tweede lid, van het decreet, rekening met de volgende afwegingen :<br>
+1° de aanleiding tot en de aard en ernst van het niet meer voldoen aan de gestelde subsidiëringsvoorwaarden;<br>
+2° de bereidheid van het centrumbestuur tot het opmaken van een haalbaar voorstel tot remediëring enerzijds, en de implementatie van dat voorstel anderzijds;<br>
+3° de impact van de beslissing van de VDAB, in het bijzonder wat het tijdstip van de inhouding betreft, zowel op de continuïteit van de werking van het centrum als op de centrumpopulatie.<br>
+<br>
+§ 2. Het centrumbestuur heeft het recht binnen vijftien kalenderdagen na de betekening van de principiële beslissing van de VDAB tot gehele of gedeeltelijke inhouding, om een verweerschrift in te dienen bij de raad van bestuur van de VDAB. De raad van bestuur van de VDAB neemt een definitieve beslissing binnen vijfenveertig kalenderdagen na de betekening in kwestie. Als na het verstrijken van die datum geen definitieve beslissing aan het centrumbestuur werd betekend, blijft de subsidiëring behouden. De definitieve beslissing over de inhouding gaat in op een door de raad van bestuur van de VDAB te bepalen datum.
 
 ## HOOFDSTUK IV. Opleidingsaanbod deeltijds beroepssecundair onderwijs en leertijd
 
@@ -216,7 +221,7 @@ Voor individuele situaties en in uitzonderlijke omstandigheden kan van een of me
 
 ### ART. 10.
 
-De gemotiveerde beslissing van de praktijkcommissie tot uitsluiting van een jongere uit de leertijd, vermeld in artikel 55, § 3, van het decreet, wordt schriftelijk meegedeeld aan de jongere, en zijn wettelijk vertegenwoordiger indien de jongere minderjarig is.<br /><br />De jongere, en zijn wettelijk vertegenwoordiger indien de jongere minderjarig is, kunnen binnen veertien kalenderdagen na kennisneming van de gemotiveerde beslissing van de praktijkcommissie een schriftelijk bezwaar aantekenen bij de praktijkcommissie. Dat bezwaar heeft geen opschortende werking. De praktijkcommissie vraagt aan Syntra Vlaanderen een advies over dit bezwaar. Daartoe hoort Syntra Vlaanderen de partijen. Syntra Vlaanderen bezorgt aan de praktijkcommissie een advies, samen met een schriftelijk verslag van het verhoor van de jongere, en zijn wettelijk vertegenwoordiger indien de jongere minderjarig is.<br /><br />De praktijkcommissie spreekt zich uit binnen twee maanden na ontvangst van het bezwaar. De zittingsdatum van de praktijkcommissie alsook het voorstel van beslissing worden aan de jongere, en zijn wettelijk vertegenwoordiger indien de jongere minderjarig is, meegedeeld. Zij kunnen inzage vragen van het dossier, een schriftelijke verdediging neerleggen, of persoonlijk hun inzichten verwoorden tijdens de zitting.<br /><br />De jongere, en zijn wettelijk vertegenwoordiger indien de jongere minderjarig is, worden door Syntra Vlaanderen zo snel mogelijk en in elk geval binnen een termijn van 15 dagen op de hoogte gebracht van de beslissing van de praktijkcommissie.
+...
 
 ## HOOFDSTUK VIII. Verplichte aanwezigheid
 
@@ -245,11 +250,11 @@ De volgende certificaten gelden als een bewijs van beroepskwalificatie :<br>
 
 ### ART. 13.
 
-De examennormen in de leertijd, vermeld in artikel 77 van het decreet, zijn bepaald in het besluit van de Vlaamse Regering van 13 februari 2009 betreffende de leertijd, vermeld in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen.
+...
 
 ### ART. 14.
 
-De beroepsprocedure tegen een beslissing van de praktijkcommissie, vermeld in artikel 79 van het decreet, is bepaald in het besluit van de Vlaamse Regering van 13 februari 2009 betreffende de leertijd, vermeld in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen.
+...
 
 ### ART. 15.
 
@@ -1575,7 +1580,7 @@ Visbereider
 
 ### BIJLAGE V/8
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/07/06_1.pdf#page=43">Bijlage V/8</a>
+...
 
 ### BIJLAGE VI
 
@@ -1630,7 +1635,7 @@ Getuigschrift over de basiskennis van het bedrijfsbeheer (deeltijds   beroepssec
 
 ### BIJLAGE XIV
 
-<p><a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_16.pdf#page=4" target="_blank" title=" Bijlage   13">Bijlage 14</a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2021/02/19_1.pdf#page=207">Combinatie van certificaten die leiden tot een getuigschrift leertijd</a></p>
 
 ### BIJLAGE XV
 
@@ -1639,8 +1644,7 @@ Getuigschrift over de basiskennis van het bedrijfsbeheer (deeltijds   beroepssec
 
 ### BIJLAGE XVI
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=189">Model</a><br>
-&nbsp;
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/02/19_1.pdf#page=208">Model van getuigschrift leertijd</a>
 
 ### BIJLAGE XVII
 
