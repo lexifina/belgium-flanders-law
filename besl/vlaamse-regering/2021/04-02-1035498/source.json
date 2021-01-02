@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035498,
+  "title": "Besluit van de Vlaamse Regering van 2021-04-02 tot wijziging van artikel 3 van het besluit van de Vlaamse Regering van 27 november 2020 waarbij rukwinden met lokaal karakter tussen 1 juni en 27 juli 2019 als een algemene ramp worden beschouwd en waarbij de geografische uitgestrektheid van die ramp wordt afgebakend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035498/VolledigDocument?datum=2021-01-02",
+  "source_sha256": "cd144bb72e9a6306f7ba1840ec4261ea95414a9d436f4f1371e975227ef0d8de",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035498&param=informatie",
+  "as_of": "2021-01-02",
+  "made": "2021-04-02",
+  "gazette": "2021-04-29",
+  "numac": 2021041298,
+  "document_start": "2021-01-02",
+  "document_end": null,
+  "in_force": "2021-01-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-01-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
