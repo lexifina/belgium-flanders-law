@@ -1,0 +1,17 @@
+{
+  "codex_id": 1034984,
+  "title": "Besluit van de Vlaamse Regering van 2020-11-27 waarbij de hagel tussen 1 juni en 27 juli 2019 als een algemene ramp wordt beschouwd en waarbij de geografische uitgestrektheid van die ramp wordt afgebakend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1034984/VolledigDocument?datum=2021-01-02",
+  "source_sha256": "2e11fb2ce0a9ea3d4ab1f4d84983863917fb6fcce2c94e4fe4931ef294947582",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1034984&param=informatie",
+  "as_of": "2021-01-02",
+  "made": "2020-11-27",
+  "gazette": "2020-12-23",
+  "numac": 2020016359,
+  "document_start": "2021-01-02",
+  "document_end": null,
+  "in_force": "2021-01-02",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-01-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
