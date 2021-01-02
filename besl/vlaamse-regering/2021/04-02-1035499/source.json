@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035499,
+  "title": "Besluit van de Vlaamse Regering van 2021-04-02 tot wijziging van artikel 3 van het besluit van de Vlaamse Regering van 27 november 2020 waarbij de overvloedige regenval tussen 1 juni en 27 juli 2019 als een algemene ramp wordt beschouwd en waarbij de geografische uitgestrektheid van die ramp wordt afgebakend, bl. 40977.",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035499/VolledigDocument?datum=2021-01-02",
+  "source_sha256": "b85551f31265b01713e5e3ae430945cf8b0c508f01cbef3b4f4c836d6e950e3c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035499&param=informatie",
+  "as_of": "2021-01-02",
+  "made": "2021-04-02",
+  "gazette": "2021-04-29",
+  "numac": 2021041299,
+  "document_start": "2021-01-02",
+  "document_end": null,
+  "in_force": "2021-01-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-01-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
