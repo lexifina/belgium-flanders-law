@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035500,
+  "title": "Besluit van de Vlaamse Regering van 2021-04-02 tot invoeging van artikel 2/1 in het besluit van de Vlaamse Regering van 27 november 2020 waarbij de hagel tussen 1 juni en 27 juli 2019 als een algemene ramp wordt beschouwd en waarbij de geografische uitgestrektheid van die ramp wordt afgebakend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035500/VolledigDocument?datum=2021-01-02",
+  "source_sha256": "7bed31b8843288bbe4d0fcad00f987c762b4fa2f3769fd61e3d0f226a9c08ceb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035500&param=informatie",
+  "as_of": "2021-01-02",
+  "made": "2021-04-02",
+  "gazette": "2021-04-29",
+  "numac": 2021041300,
+  "document_start": "2021-01-02",
+  "document_end": null,
+  "in_force": "2021-01-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-01-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
