@@ -1,0 +1,17 @@
+{
+  "codex_id": 1034983,
+  "title": "Besluit van de Vlaamse Regering van 2020-11-20 houdende indeling bij de gemeentewegebied van de gewestweg N148 tussen kilometerpunt 8,903 en 10,603 op het grondgebied van de gemeente Schelle",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1034983/VolledigDocument?datum=2021-01-02",
+  "source_sha256": "959f75815fdeebfcfe59764b80086c8fe3b3f4ea42e22104c3826ab861413cef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1034983&param=informatie",
+  "as_of": "2021-01-02",
+  "made": "2020-11-20",
+  "gazette": "2020-12-23",
+  "numac": 2020016350,
+  "document_start": "2021-01-02",
+  "document_end": null,
+  "in_force": "2021-01-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-01-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
