@@ -175,21 +175,11 @@ Het bewijs van onderneming in moeilijkheden of in herstructurering moet blijken 
 <br>
 - hetzij het attest van erkenning als onderneming in herstructurering afgeleverd door de federale minister van Tewerkstelling en Arbeid, overeenkomstig het koninklijk besluit van 21 maart 1997 houdende uitvoering van artikel 9 van het koninklijk besluit van 24 februari 1997 houdende nadere voorwaarden met betrekking tot de tewerkstellingsakkoorden in toepassing van de artikelen 7, § 2, 30, § 2, en 33 van de wet van 26 juli 1996 tot bevordering van de werkgelegenheid en tot preventieve vrijwaring van het concurrentievermogen;<br>
 <br>
-- &nbsp;hetzij een plan met opgave van de substantiële daling van de economische activiteiten van de onderneming ten gevolge van de impact van de coronavirusmaatregelen dat werd goedgekeurd door de ondernemingsraad of bij gebrek daaraan, door de vakbondsafvaardiging of bij gebrek daaraan, door het comité voor preventie en bescherming op het werk, of bij gebrek daaraan, dat werd opgenomen in het arbeidsreglement.<br>
-<br>
-In dit besluit wordt verstaan onder substantiële daling van de economische activiteiten: een daling met minimum 20 % van de omzet, de productie of het aantal bestellingen in de maand waarin de arbeidsduurvermindering start, ten opzichte van dezelfde maand van het jaar voordien.<br>
-<br>
-Het plan bevat:<br>
-1° de opgave van de arbeidsherverdelingsmaatregelen en de link met het impact van de coronavirusmaatregelen;<br>
-2° de opgave van het aantal arbeidsplaatsen die het voorwerp uitmaken van de maatregelen;<br>
-3° de opgave van de periode van de maatregelen;<br>
-4° de btw-aangiften van alle betreffende maanden.
+- hetzij een herstructureringsplan, dat voor advies is voorgelegd aan de ondernemingsraad, of bij gebreke daaraan, aan de syndicale afvaardiging, of bij gebreke daaraan, aan het comité voor preventie en bescherming op het werk, of bij gebreke daaraan, aan de vertegenwoordigers van de representatieve werknemersorganisaties.
 
 ### ART. 20.
 
-Het recht op de aanmoedigingspremie bij verminderde arbeidsduur wordt verworven vanaf het ogenblik dat de onderneming, conform de in artikel 19 beschreven procedure, het statuut verkrijgt van onderneming in moeilijkheden of in herstructurering. Na opening van het recht kan de premie gedurende maximum 2 jaar worden toegekend.<br>
-<br>
-De aanmoedigingspremie bij verminderde arbeidsduur kan in geval van een vermindering van de arbeidsduur met 20 % van de voltijdse arbeidsregeling niet gecombineerd worden met de looncompensatie, vermeld in artikel 28/6/4., § 1, vierde lid, van het koninklijk besluit nr. 46 van 26 juni 2020 tot uitvoering van artikel 5, § 1, 5°, van de wet van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II) tot ondersteuning van de werkgevers en de werknemers.
+Het recht op de aanmoedigingspremie bij verminderde arbeidsduur wordt verworven vanaf het ogenblik dat de onderneming, conform de in artikel 19 beschreven procedure, het statuut verkrijgt van onderneming in moeilijkheden of in herstructurering. Na opening van het recht kan de premie gedurende maximum 2 jaar worden toegekend.
 
 ### ART. 21.
 
@@ -201,9 +191,7 @@ De aanmoedigingspremie bij verminderde arbeidsduur kan niet gecombineerd worden 
 <br>
 § 2. De werknemer die zijn arbeidsprestaties vermindert met minimum 20 % van het aantal uren van de gemiddelde wekelijkse arbeidsduur van een voltijdse werknemer, ontvangt per maand een aanmoedigingspremie van 75 euro.<br>
 <br>
-§ 3. De werknemer die zijn arbeidsprestaties vermindert met minimum 10 % en minder dan 20 % van het aantal uren van de gemiddelde wekelijkse arbeidsduur van een voltijdse werknemer, ontvangt per maand een aanmoedigingspremie van 50 euro.<br>
-<br>
-§ 4. Een wijziging van de arbeidsduurvermindering geldend voor de werknemers aan wie de aanmoedigingspremie wordt toegekend moet binnen de 30 dagen door de werknemer worden gemeld aan de administratie. De werkgever van de betrokken werknemers kan namens deze werknemers de wijzigingen aan de administratie meedelen, mits de werkgever daartoe uitdrukkelijk door de werknemers werd gemandateerd.
+§ 3. De werknemer die zijn arbeidsprestaties vermindert met minimum 10 % en minder dan 20 % van het aantal uren van de gemiddelde wekelijkse arbeidsduur van een voltijdse werknemer, ontvangt per maand een aanmoedigingspremie van 50 euro.
 
 ## HOOFDSTUK IV PROCEDURE
 
