@@ -1,0 +1,17 @@
+{
+  "codex_id": 1034995,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-04 houdende indeling bij de gemeentewegen van het weggedeelte van de gewestweg N456G tussen kilometerpunt 0,000 en 0,146 op het grondgebied van de stad Gent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1034995/VolledigDocument?datum=2021-01-03",
+  "source_sha256": "0e72e1afa9fc666fb8af4326eae30565aa9f3f86efd6f9ed708526f9c89855a3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1034995&param=informatie",
+  "as_of": "2021-01-03",
+  "made": "2020-12-04",
+  "gazette": "2020-12-24",
+  "numac": 2020044421,
+  "document_start": "2021-01-03",
+  "document_end": null,
+  "in_force": "2021-01-03",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-01-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
