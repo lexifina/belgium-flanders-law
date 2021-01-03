@@ -1,0 +1,17 @@
+{
+  "codex_id": 1034994,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-04 houdende indeling bij de gemeentewegen van een weggedeelte van de gewestweg Vlaamsekaai op het grondgebied van de stad Gent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1034994/VolledigDocument?datum=2021-01-03",
+  "source_sha256": "6e6568c6c5b601d7dc5cb27d72a9f061fcd3370e6d4745dfcd986388263a82fb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1034994&param=informatie",
+  "as_of": "2021-01-03",
+  "made": "2020-12-04",
+  "gazette": "2020-12-24",
+  "numac": 2020044403,
+  "document_start": "2021-01-03",
+  "document_end": null,
+  "in_force": "2021-01-03",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-01-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
