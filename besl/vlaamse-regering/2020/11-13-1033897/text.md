@@ -135,6 +135,17 @@ Het internaat kan enkel van deze regeling gebruik maken indien er daadwerkelijk 
 <br>
 In afwijking van het eerste lid kunnen in de internaten met permanente openstelling deze vervangingen worden toegestaan vanaf 1 november 2020.
 
+### ART 9/1.
+
+§ 1. Dit artikel is van toepassing op:<br>
+1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
+2° de personeelsleden, vermeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
+3° de personeelsleden vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie;<br>
+4° de tijdelijke en de benoemde personeelsleden van de hogescholen in de Vlaamse Gemeenschap, die behoren tot de categorieën van het onderwijzend of van het administratief en technisch personeel, bedoeld in deel 5, titel 2 en titel 5, hoofdstuk 2 van de Codex Hoger Onderwijs, gecodificeerd op 11 oktober 2013;<br>
+5° de personeelsleden, vermeld in artikel III.35, § 1, 1° tot en met 3° en in artikel III.36, § 4, van de Codex Hoger Onderwijs, die effectief in een hogeschool zijn tewerkgesteld.<br>
+<br>
+§ 2. Als een personeelslid in de periode die loopt vanaf 4 januari 2021 tot en met 30 juni 2021 in quarantaine is ten gevolge van terugkeer uit een rode zone en thuiswerk is niet mogelijk, dan moet het personeelslid een verlof of afwezigheid voor verminderde prestaties opnemen gedurende zijn afwezigheid.
+
 ### ART 10.
 
 Dit besluit treedt in werking op de datum van de goedkeuring.<br>
