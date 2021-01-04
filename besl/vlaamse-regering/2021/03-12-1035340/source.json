@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035340,
+  "title": "Besluit van de Vlaamse Regering van 2021-03-12 tot wijziging van het Besluit van de Vlaamse Regering van 13 november 2020 houdende diverse dringende maatregelen ingevolge COVID-19 voor de centra voor leerlingenbegeleiding, het onderwijspersoneel, de academies deeltijds kunstonderwijs, de centra voor volwassenonderwijs en de centra voor basiseducatie houdende wijziging van het besluit van de Vlaamse Regering van 5 juni 2020 tot toekenning van extra werkingsbudget voor de scholen van het gewoon en buitengewoon basis- en secundair onderwijs omwille van de genomen maatregelen en hieraan verbonden extra onkosten gemaakt door de scholen tegen verspreiding van COVID-19 m.b.t. de internaten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035340/VolledigDocument?datum=2021-01-04",
+  "source_sha256": "517e6c49502e10c66c0d627b0b0e3eaa4a179d28c6ea7c42041448c6005ed14f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035340&param=informatie",
+  "as_of": "2021-01-04",
+  "made": "2021-03-12",
+  "gazette": "2021-03-23",
+  "numac": 2021020619,
+  "document_start": "2021-04-02",
+  "document_end": null,
+  "in_force": "2021-01-04",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2021-01-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
