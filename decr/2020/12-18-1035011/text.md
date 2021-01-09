@@ -175,9 +175,53 @@ In afwachting van een erkenning van een sociale huisvestingsmaatschappij om op t
 
 ## Afdeling 3. Wijzingen aan het decreet van 29 april 1991 tot vaststelling van de algemene regelen inzake de erkenning en de subsidiëring van de milieu- en natuurverenigingen
 
+### ART 18.
+
+In het opschrift van het decreet van 29 april 1991 tot vaststelling van de algemene regelen inzake de erkenning en de subsidiëring van de milieu- en natuurverenigingen, gewijzigd bij het decreet van 30 april 2004, wordt de zinsnede "milieu- en natuurverenigingen" vervangen door de zinsnede "de milieu-, natuur-, en ruimteverenigingen".
+
+### ART 19.
+
+In artikel 11 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2004 en 18 december 2015, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° paragraaf 1 wordt vervangen door wat volgt:<br>
+<br>
+" § 1. Binnen de perken van de begrotingskredieten kan de Vlaamse Regering, onder de in dit decreet vastgestelde regels, subsidies verlenen voor milieu-, natuur- en ruimteverenigingen en voor projecten die de leefmilieukwaliteit, de biodiversiteit of de ruimtelijke kwaliteit bevorderen, of die bijdragen tot klimaatadaptatie of -mitigatie.";<br>
+<br>
+2° in paragraaf 3 wordt punt 1° vervangen door wat volgt:<br>
+<br>
+"1° opgericht zijn in de vorm van een vereniging zonder winstoogmerk of stichting en met als hoofddoelstelling het bevorderen van de leefmilieu- kwaliteit, de biodiversiteit of de ruimtelijke kwaliteit;".
+
+### ART 20.
+
+Artikel 12 van hetzelfde decreet, gewijzigd bij de decreten van 21 december 1994 en 18 december 2015, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 12. De erkende milieu-, natuur- en ruimteverenigingen kunnen met toepassing van de aanvullende regels, vermeld in artikel 16, een subsidie ontvangen die bestemd is voor de werking. De activiteiten waarvoor de erkende milieu-, natuur- en ruimteverenigingen in toepassing van andere reglementeringen subsidies ontvangen vanwege de Vlaamse Gemeenschap of het Vlaamse Gewest komen niet in aanmerking voor het berekenen van de subsidie.".
+
+### ART 21.
+
+Artikel 13 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2004 en 18 december 2015, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 13. Er kan aan milieu-, natuur- en ruimteverenigingen en aan andere actoren een subsidie worden toegekend voor de uitwerking van projecten die de leefmilieukwaliteit, de biodiversiteit of de ruimtelijke kwaliteit bevorderen of die bijdragen tot klimaatadaptatie of -mitigatie. De Vlaamse Regering kan de nadere regels voor het verlenen van die projectsubsidie bepalen.".
+
 ## Afdeling 4. Uitbreiding van de betalingsmodaliteiten van de retributie voor een bodemattest via wijziging van het Bodemdecreet van 27 oktober 2006
 
+### ART 22.
+
+In artikel 162, § 9, van het Bodemdecreet van 27 oktober 2006, gewijzigd bij de decreten van 21 december 2007, 28 maart 2014 en 18 december 2015, wordt punt 1° opgeheven.
+
 ## Afdeling 5. Wijzigingen aan het decreet van 13 juli 2012 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012
+
+### ART 23.
+
+In artikel 14 van het decreet van 13 juli 2012 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012, gewijzigd bij de decreten van 23 december 2016, 22 december 2017, 6 juli 2018 en 29 maart 2019, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 5 wordt het eerste streepje vervangen door wat volgt:<br>
+<br>
+"- de cofinanciering van intern Vlaams klimaatbeleid met het oog op het behalen van de Vlaamse broeikasgasemissiereductiedoelstellingen. Deze beleidsmaatregelen of projecten dragen bij tot de Vlaamse niet-ETS- reductiedoelstelling of tot de Vlaamse LULUCF no-debetregel;";<br>
+<br>
+2° paragraaf 6 wordt vervangen door wat volgt:<br>
+<br>
+" § 6. De Vlaamse Regering beschikt over de kredieten van het Fonds voor de financiering van de onder paragraaf 3 en paragraaf 5 vermelde taken. De Vlaamse Regering bepaalt de cofinancieringspercentages die van toepassing zijn voor de besteding, vermeld onder paragraaf 5, eerste streepje.".
 
 ## Afdeling 6. Optimalisatie heffingen afval- en materialenbeleid
 
