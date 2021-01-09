@@ -23,6 +23,10 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## HOOFDSTUK 1. Algemene bepaling
 
+### ART 1.
+
+Dit besluit voorziet in de gedeeltelijke omzetting van richtlijn (EU) 2018/844 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2010/31/EU betreffende de energieprestatie van gebouwen en Richtlijn 2012/27/EU betreffende energie-efficiëntie.
+
 ## HOOFDSTUK 2. Wijzigingen aan het Energiebesluit van 19 november 2010
 
 ### ART 2.
@@ -324,6 +328,38 @@ Aan artikel 6.4.1/9, van hetzelfde besluit, ingevoegd bij het besluit van de Vla
 <br>
 "De minister kan nadere regels bepalen voor het profiel waaraan de projectpromotoren, vermeld in het zevende, achtste, en negende lid, moeten voldoen, alsook voor de taken die in project moeten worden uitgevoerd en voor de financiële ondersteuning.".
 
+### ART 13.
+
+In artikel 6.4.1/12 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 september 2011 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 18 september 2020, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 1 worden de woorden "paragraaf 2, 3 en 4" vervangen door de woorden "paragraaf 2, 3, 4, 4/4 en 4/5";<br>
+<br>
+2° in paragraaf 2, tweede lid worden tussen de woorden "van de Vlaamse Gemeenschap" en de woorden "en het Energiefonds", de zinsnede ", het Klimaatfonds," ingevoegd;<br>
+<br>
+3° aan paragraaf 3 wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"In afwijking van het eerste lid, worden voor energiescans uitgevoerd in het kalenderjaar 2021 afwijkende forfaitaire bedragen aan de elektriciteitsdistributienetbeheerder toegekend van maximaal 286 euro per uitgevoerd eerste bezoek of voor een daaropvolgende begeleiding bij de uitvoering van energiebesparende investeringen, of een forfaitaire vergoeding van maximaal 246 euro voor een op het eerste bezoek volgende begeleiding op maat van kwetsbare doelgroepen. Als het eerste bezoek of de daaropvolgende begeleiding op maat van kwetsbare doelgroepen wordt uitgevoerd bij een afnemer vermeld in artikel 6.4.8/1, tweede lid, 5°, wordt een forfaitaire vergoeding toegekend van maximaal 226 euro.";<br>
+<br>
+4° er wordt een paragraaf 4/4 ingevoegd, die luidt als volgt:<br>
+<br>
+" § 4/4. In afwijking van paragraaf 2 kan de minister voor de meerkost ten gevolge van de verhoging, vermeld in artikel 6.4.1/1, eerste lid, 3° en 6°, en artikel 6.4.1/5, § 1, eerste lid, 3° en 6°, ten opzichte van de kosten van de premies, vermeld in artikel 6.4.1/1, eerste lid, 3° en 6°, gewijzigd bij het besluit van de Vlaamse Regering van 18 september 2020, en artikel 6.4.1/5, § 1 eerste lid, 3° en 6°, gewijzigd bij het besluit van de Vlaamse Regering van 18 september 2020, op de in het Energiefonds of algemene uitgavenbegroting beschikbare middelen, per kalenderjaar aan elke elektriciteitsdistributienetbeheerder een vergoeding toekennen.<br>
+<br>
+De effectieve vergoeding wordt per kalenderjaar berekend door de op de algemene uitgavenbegroting van de Vlaamse Gemeenschap en het Energiefonds beschikbare middelen te verdelen over de overeenkomstig het aandeel van elke elektriciteitsnetbeheerder in het maximale bedrag voor de meerkost van de verleende premies, als vermeld in het eerste lid, in de periode die loopt van het vierde kwartaal van het voorafgaande kalenderjaar tot en met het derde kwartaal van het kalenderjaar.";<br>
+<br>
+5° er wordt een paragraaf 4/5 ingevoegd, die luidt als volgt:<br>
+<br>
+" § 4/5. In afwijking van paragraaf 2 kan de minister voor de meerkost ten gevolge van de verhoging, vermeld in artikel 6.4.1/1/2 en artikel 6.4.1/5, § 1, tweede en derde lid, ten opzichte van de kosten van de premies, vermeld in artikel 6.4.1/1, 1° en 3° en artikel 6.4.1/1/5, § 1, eerste lid, 1° en 3°, op de in het Energiefonds of algemene uitgavenbegroting beschikbare middelen, per kalenderjaar aan elke elektriciteitsdistributienetbeheerder een vergoeding toekennen.<br>
+<br>
+De effectieve vergoeding wordt per kalenderjaar berekend door de op de algemene uitgavenbegroting van de Vlaamse Gemeenschap en het Energiefonds beschikbare middelen te verdelen over de overeenkomstig het aandeel van elke elektriciteitsnetbeheerder in het maximale bedrag voor de meerkost van de verleende premies, als vermeld in het eerste lid, in de periode die loopt van het vierde kwartaal van het voorafgaande kalenderjaar tot en met het derde kwartaal van het kalenderjaar.";<br>
+<br>
+6° in paragraaf 5, tweede lid wordt de zinsnede "paragraaf 4/2 en 4/3" vervangen door de zinsnede "paragraaf 4/2 tot en met 4/5";<br>
+<br>
+7° in paragraaf 5, derde lid worden de woorden "tot en met 4/3" vervangen door de woorden "tot en met 4/5";<br>
+<br>
+8° in paragraaf 5, derde lid wordt de zinsnede "paragraaf 4/3," vervangen door de zinsnede "paragraaf 4/5, paragraaf 4/4, paragraaf 4/3,"<br>
+<br>
+9° in paragraaf 5, vierde lid worden de zinsnede "tot en met 4/3" vervangen door de zinsnede "tot en met 4/5".
+
 ### ART 14.
 
 In het opschrift van titel VI, hoofdstuk VI van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 februari 2018, worden tussen de woorden "financieringssteun voor hernieuwbare energie" en de woorden "ontstane kosten" de woorden "en warmte-krachtkoppeling" ingevoegd.
@@ -530,6 +566,40 @@ a) de kredietnemer voor zijn woning of appartement middels zijn resultaatsverbin
 b) de kredietnemer voor zijn woning middels zijn resultaatsverbintenis label B beoogde maar label C behaalde;<br>
 2° 75% teruggevorderd als de kredietnemer voor zijn woning middels zijn resultaatsverbintenis label A beoogde maar label C behaalde.".
 
+### ART 25.
+
+In hetzelfde besluit wordt een titel IX/1, die bestaat uit artikel 9/1.1.1 tot en met 9/1.1.8, ingevoegd, die luidt als volgt:<br>
+<br>
+"Titel IX/1. Elektromobiliteit<br>
+<br>
+Art. 9/1.1.1. Nieuwe, niet voor bewoning bestemde gebouwen of parkeergebouwen en bestaande, niet voor bewoning bestemde gebouwen of parkeergebouwen die een ingrijpende renovatie ondergaan, met een parkeerterrein met meer dan tien parkeerplaatsen worden cumulatief voorzien van:<br>
+1° minstens twee oplaadpunten voor normaal of hoog vermogen voor een elektrisch voertuig;<br>
+2° infrastructuur voor leidingen, of minstens goten voor elektrische kabels, voor minstens één op vier parkeerplaatsen, om de installatie van oplaadpunten voor normaal of hoog vermogen voor elektrische voertuigen in een later stadium mogelijk te maken.<br>
+<br>
+De verplichtingen, vermeld in het eerste lid, gelden als het parkeerterrein zich binnen het gebouw of parkeergebouw bevindt en, in geval van ingrijpende renovaties, de renovatiemaatregelen ook betrekking hebben op het parkeerterrein of de elektrische infrastructuur van het gebouw of parkeergebouw.<br>
+<br>
+De verplichtingen, vermeld in het eerste lid, gelden ook als het een naastgelegen parkeerterrein betreft, en, in het geval van ingrijpende renovaties, renovatiemaatregelen ook betrekking hebben op het parkeerterrein of de elektrische infrastructuur van het parkeerterrein.<br>
+<br>
+Art. 9/1.1.2. Alle niet voor bewoning bestemde gebouwen met meer dan twintig parkeerplaatsen worden uiterlijk op 1 januari 2025 uitgerust met minstens twee oplaadpunten voor normaal of hoog vermogen voor een elektrisch voertuig.<br>
+<br>
+Art. 9/1.1.3. Nieuwe voor bewoning bestemde gebouwen met een parkeerterrein met twee of meer parkeerplaatsen worden voorzien van infrastructuur voor leidingen, of minstens goten voor elektrische kabels, om de installatie van oplaadpunten voor normaal of hoog vermogen voor elektrische voertuigen op elke parkeerplaats in een later stadium mogelijk te maken.<br>
+<br>
+Bestaande, voor bewoning bestemde gebouwen die een ingrijpende renovatie ondergaan, met een parkeerterrein met meer dan tien parkeerplaatsen worden voorzien van infrastructuur voor leidingen, of minstens goten voor elektrische kabels, om de installatie van oplaadpunten voor normaal of hoog vermogen voor elektrische voertuigen op elke parkeerplaats in een later stadium mogelijk te maken.<br>
+<br>
+De verplichting, vermeld in het eerste en tweede lid, geldt als het parkeerterrein zich binnen het gebouw bevindt en, in geval van ingrijpende renovaties, de renovatiemaatregelen betrekking hebben op het parkeerterrein of de elektrische infrastructuur van het gebouw.<br>
+<br>
+De verplichting, vermeld in het eerste en tweede lid, geldt ook als het een naastgelegen parkeerterrein betreft en, in geval van ingrijpende renovaties, de renovatiemaatregelen betrekking hebben op het parkeerterrein of de elektrische infrastructuur van het parkeerterrein.<br>
+<br>
+Art. 9/1.1.4. De verplichtingen, vermeld in artikel 9/1.1.1 en 9/1.1.3, zijn niet van toepassing op gebouwen of parkeergebouwen waarvoor een aanvraag tot het verkrijgen van een omgevingsvergunning als vermeld in artikel 4.2.1, 1°, 5° en 6° van de Vlaamse Codex Ruimtelijke ordening van 15 mei 2009, is ingediend voor 11 maart 2021.<br>
+<br>
+Art. 9/1.1.5. Bij ingrijpende renovaties gelden de verplichtingen, vermeld in artikel 9/1.1.1 en 9/1.1.3, alleen voor dat gedeelte van de werken aan en investeringen in oplaadinstallaties en leidingen waarvan de kosten niet meer bedragen dan 7% van de totale kosten van de renovatie.<br>
+<br>
+Art. 9/1.1.6. De Vlaamse Regering kan het ambitieniveau in de verplichtingen van deze titel naar boven bijstellen op basis van de evolutie van het aantal elektrische voertuigen. Minstens in 2024 wordt hiertoe een evaluatie uitgevoerd voor nieuwe of ingrijpend te renoveren gebouwen of parkeergebouwen. Voor de bestaande gebouwen of parkeergebouwen vindt minstens in 2028 een evaluatie plaats."<br>
+<br>
+Art. 9/1.1.7. Als er voor een bestaand gebouw of parkeergebouw conform artikel 9/1.1.1, artikel 9/1.1.2 of artikel 9/1.1.3, eisen gelden voor elektromobiliteit, is de eigenaar van of, in afwijking daarvan indien toepasselijk, de houder van een zakelijk recht op het gebouw of parkeergebouw verantwoordelijk om te voldoen aan die eisen. Bij nieuwbouw is dat de vergunninghouder.<br>
+<br>
+Art. 9/1.1.8. De minister, kan de voorwaarden bepalen waaraan de onderdelen van de elektrische installatie, zoals de oplaadpunten, de leidingen, de goten, de aansluiting en het hoofdschakel- en verdeelbord, moeten voldoen.".
+
 ### ART 26.
 
 Artikel 12.3.16 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 februari 2018, wordt vervangen door wat volgt:<br>
@@ -592,8 +662,32 @@ In artikel 15 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<
 
 ## HOOFDSTUK 5. Slotbepalingen
 
+### ART 33.
+
+Artikel 21 en artikel 22 van het decreet van 30 oktober 2020 tot wijziging van het Energiedecreet van 8 mei 2009 treden in werking.
+
 ### ART 34.
 
 Artikel 6.2/1.7 en bijlage III/3 van het Energiebesluit van 19 november 2010, zoals van kracht vóór de datum van de inwerkingtreding van artikel 6 en artikel 27, 1°, 2° en 3°, blijven van toepassing op projecten, waarvoor op de datum van de inwerkingtreding van dit artikel:<br>
 1° al een definitieve bandingfactor als vermeld in artikel 6.2/1.7, § 2, van het Energiebesluit van 19 november 2010, werd verkregen;<br>
 2° al een voorlopige bandingfactor werd verkregen conform de procedure, vermeld artikel 6.2/1.7, § 1, van het voormelde besluit, zoals van kracht vóór de datum van de inwerkingtreding van dit artikel.
+
+### ART 35.
+
+De artikelen 14 tot en met 18, 26 en 28 van dit besluit treden in werking op de datum van de bekendmaking ervan in het Belgisch Staatsblad.<br>
+<br>
+Artikel 20 en artikel 29 van dit besluit treedt in werking op de datum van de bekendmaking ervan in het Belgisch Staatsblad en niet later dan 31 december 2020.<br>
+<br>
+Artikel 2 tot en met 12, artikel 19, artikel 21, artikel 22, artikel 24, artikel 27, 1°, 2°, en 3°, artikel 30 tot en met 32, 1° en 2°, en artikel 34 van dit besluit treden in werking op 1 januari 2021.<br>
+<br>
+Artikel 23, artikel 27, 4°, en artikel 32, 3° van dit besluit treden in werking op 1 april 2021.<br>
+<br>
+De artikelen 6.4.1/1, 6.4.1/1/2 en 6.4.1/5, § 1, van het Energiebesluit van 19 november 2010, zoals gewijzigd bij de artikelen 7, 8 en 10 van dit besluit, zijn voor het eerst van toepassing op eindfacturen met datum vanaf 1 januari 2021.<br>
+<br>
+HOOFDSTUK XV. van titel VII van het Energiebesluit van 19 november 2010, ingevoegd bij artikel 24 van dit besluit, is voor het eerst van toepassing op aanvragen voor hoofdkredieten vanaf 1 januari 2021."<br>
+<br>
+Artikel 7.12.1, § 4 van het Energiebesluit van 19 november 2010, in de lezing voorafgaand aan de wijziging bij artikel 22, 3° en 4°, blijft van toepassing op de dossiers waarbij de aanvraag voor het verkrijgen van de omgevingsvergunning voor stedenbouwkundige handelingen werd ingediend voor 1 januari 2021.
+
+### ART 36.
+
+De Vlaamse minister, bevoegd voor de energie, is belast met de uitvoering van dit besluit.
