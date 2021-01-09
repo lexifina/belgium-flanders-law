@@ -138,6 +138,20 @@ In artikel 5.1.3 van hetzelfde decreet, ingevoegd bij het decreet van 24 februar
 
 In artikel 7.1.3, tweede lid, van hetzelfde decreet, vervangen bij het decreet van 14 maart 2014 en gewijzigd bij het decreet van 16 november 2018, worden de woorden "en de toekenning" vervangen door de zinsnede ", de toekenning, inclusief de gevallen van de schorsing en intrekking van de uitgifte ervan,".
 
+### ART 21.
+
+In artikel 7.1.10 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 16 november 2018, wordt paragraaf 3/1 opgeheven.
+
+### ART 22.
+
+In titel VII, hoofdstuk I, afdeling V, onderafdeling III, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 14 maart 2014, wordt een artikel 7.1.11/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 7.1.11/1. Het op ondernemingsniveau of vestigingsniveau verschuldigde bedrag van de door financieringssteun voor hernieuwbare energie en kwalitatieve warmte-krachtkoppeling ontstane kosten wordt beperkt tot 4% van de bruto toegevoegde waarde van de betrokken onderneming of vestiging. Voor ondernemingen of vestigingen met een elektriciteitsintensiteit van ten minste 20% wordt dit beperkt tot 0,5% van de bruto toegevoegde waarde van de betrokken onderneming of vestiging. Dit houdt in dat in afwijking van artikel 7.1.10, § 3, en artikel 7.1.11, § 2/1, de factor Ev, vermeld in artikel 7.1.10, § 2, en artikel 7.1.11, § 2, wordt verminderd met 100% van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt van de betrokken onderneming of vestigingseenheid naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarvan de certificaatplichtige, vermeld in artikel 7.1.10, § 1, en artikel 7.1.11, § 1, toegangshouder was.<br>
+<br>
+De Vlaamse Regering bepaalt de te volgen procedures, alsmede de modaliteiten en voorwaarden waaraan moet worden voldaan voor het verkrijgen van deze vermindering. De Vlaamse Regering maakt de toepassing van deze paragraaf afhankelijk van het storten van een bijdrage in het Energiefonds in het jaar n-1.<br>
+<br>
+De Vlaamse Regering zorgt met toepassing van het eerste en het tweede lid en alleen als er op het federale niveau een gelijkaardige regeling bestaat, in het jaar N voor een verrekening of terugbetaling van een bedrag ter grootte van het door de federale overheid vastgestelde op ondernemingsniveau of vestigingsniveau in het jaar N-1 door die onderneming of vestiging verschuldigde en betaalde bedrag van de door financieringssteun voor hernieuwbare energie en kwalitatieve warmtekrachtkoppeling op federaal niveau ontstane kosten. De Vlaamse Regering stelt in het kader van die verrekening of terugbetaling echter een plafond vast van een percentage van het in het jaar n-1 in totaal verschuldigde bedrag, vermeld in het eerste lid, dat die verrekening of terugbetaling niet mag overschrijden.".
+
 ### ART 23.
 
 In titel VIII van hetzelfde decreet wordt het opschrift van hoofdstuk I vervangen door wat volgt:<br>
