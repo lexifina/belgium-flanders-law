@@ -1495,7 +1495,28 @@ De inschrijving heeft plaats, niettegenstaande beroep, op voorlegging van een af
 
 ### ART. 162.
 
-§ 1. De Vlaamse Regering kan de toegankelijkheid van het   grondeninformatieregiser afhankelijk stellen van de betaling van een   retributie.<BR><BR>§ 2. De Vlaamse Regering kan de beoordeling van een verslag   van oriënterend bodemonderzoek, een verslag van site-onderzoek, een verslag van   beschrijvend bodemonderzoek, een verslag van oriënterend en beschrijvend   bodemonderzoek, een verslag van aanvullende onderzoeksverrichtingen, evenals een   bodemsaneringsproject, een beperkt bodemsaneringsproject, een aangevuld of   gewijzigd bodemsaneringsproject ", een eindevaluatieonderzoek&nbsp;afhankelijk   stellen van de betaling van een retributie.<BR><BR>§ 3. De Vlaamse Regering kan   de beoordeling van een aanvraag tot vrijstelling van de saneringsplicht   afhankelijk stellen van de betaling van een retributie.<BR><BR>§ 4. De Vlaamse   Regering kan de beoordeling van een aanvraag tot cofinanciering en van de   aanvraag tot toepassing van de draagkrachtregeling afhankelijk stellen van de   betaling van een retributie.<BR><BR>§ 5. De Vlaamse Regering kan de beoordeling   van een aanvraag tot erkenning als bodembeheerorganisatie, tussentijdse   opslagplaats en grondreinigingscentrum afhankelijk stellen van de betaling van   een retributie.<BR><BR>§ 6. De Vlaamse Regering kan de beoordeling van een   aanvraag tot toepassing van haar bevoegdheden, vermeld in artikelen 164 en 165,   afhankelijk stellen van de betaling van een retributie.<BR><BR>§ 7. De Vlaamse   Regering kan de beoordeling van een beroep, vermeld in artikelen 146 en 153,   afhankelijk stellen van de betaling van een retributie.<BR><BR>§ 8. Als de OVAM   ambtshalve optreedt overeenkomstig artikelen 157 of 158 van dit decreet, of   artikel 16.4.7, § 1, 3°, of artikel 16.4.16, tweede lid, van titel XVI van het   decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid zijn   de ingebrekeblijvende plichtige of de aansprakelijke personen een retributie   verschuldigd aan de OVAM.<BR><BR>§ 9. Als de Vlaamse Regering in de gevallen,   vermeld in § 1 tot en met § 7, een retributie vaststelt, moet, op straffe van   onontvankelijkheid, het bewijs van betaling van de retributie gevoegd worden   :<BR>1° bij de aanvraag van een bodemattest;<BR>2° bij het verslag van   oriënterend bodemonderzoek, het verslag van beschrijvend bodemonderzoek, het   verslag van oriënterend en beschrijvend bodemonderzoek, het verslag van   aanvullende onderzoeksverrichtingen, het bodemsaneringsproject, het beperkt   bodemsaneringsproject, het aangevuld of gewijzigd bodemsaneringsproject, het   eindevaluatieonderzoek;<BR>3° bij het verzoek, vermeld in § 2, of bij de   aanvraag, vermeld in § 3 tot en met § 6;<BR>4° bij het beroep, vermeld in §   7.<BR><BR>
+§ 1. De Vlaamse Regering kan de toegankelijkheid van het grondeninformatieregiser afhankelijk stellen van de betaling van een retributie.<br>
+<br>
+§ 2. De Vlaamse Regering kan de beoordeling van een verslag van oriënterend bodemonderzoek, een verslag van site-onderzoek, een verslag van beschrijvend bodemonderzoek, een verslag van oriënterend en beschrijvend bodemonderzoek, een verslag van aanvullende onderzoeksverrichtingen, evenals een bodemsaneringsproject, een beperkt bodemsaneringsproject, een aangevuld of gewijzigd bodemsaneringsproject ", een eindevaluatieonderzoek&nbsp;afhankelijk stellen van de betaling van een retributie.<br>
+<br>
+§ 3. De Vlaamse Regering kan de beoordeling van een aanvraag tot vrijstelling van de saneringsplicht afhankelijk stellen van de betaling van een retributie.<br>
+<br>
+§ 4. De Vlaamse Regering kan de beoordeling van een aanvraag tot cofinanciering en van de aanvraag tot toepassing van de draagkrachtregeling afhankelijk stellen van de betaling van een retributie.<br>
+<br>
+§ 5. De Vlaamse Regering kan de beoordeling van een aanvraag tot erkenning als bodembeheerorganisatie, tussentijdse opslagplaats en grondreinigingscentrum afhankelijk stellen van de betaling van een retributie.<br>
+<br>
+§ 6. De Vlaamse Regering kan de beoordeling van een aanvraag tot toepassing van haar bevoegdheden, vermeld in artikelen 164 en 165, afhankelijk stellen van de betaling van een retributie.<br>
+<br>
+§ 7. De Vlaamse Regering kan de beoordeling van een beroep, vermeld in artikelen 146 en 153, afhankelijk stellen van de betaling van een retributie.<br>
+<br>
+§ 8. Als de OVAM ambtshalve optreedt overeenkomstig artikelen 157 of 158 van dit decreet, of artikel 16.4.7, § 1, 3°, of artikel 16.4.16, tweede lid, van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid zijn de ingebrekeblijvende plichtige of de aansprakelijke personen een retributie verschuldigd aan de OVAM.<br>
+<br>
+§ 9. Als de Vlaamse Regering in de gevallen, vermeld in § 1 tot en met § 7, een retributie vaststelt, moet, op straffe van onontvankelijkheid, het bewijs van betaling van de retributie gevoegd worden :<br>
+1° ...;<br>
+2° bij het verslag van oriënterend bodemonderzoek, het verslag van beschrijvend bodemonderzoek, het verslag van oriënterend en beschrijvend bodemonderzoek, het verslag van aanvullende onderzoeksverrichtingen, het bodemsaneringsproject, het beperkt bodemsaneringsproject, het aangevuld of gewijzigd bodemsaneringsproject, het eindevaluatieonderzoek;<br>
+3° bij het verzoek, vermeld in § 2, of bij de aanvraag, vermeld in § 3 tot en met § 6;<br>
+4° bij het beroep, vermeld in § 7.<br>
+&nbsp;
 
 ### ART. 163.
 
