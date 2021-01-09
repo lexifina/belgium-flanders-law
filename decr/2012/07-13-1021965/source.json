@@ -2,16 +2,16 @@
   "codex_id": 1021965,
   "title": "Decreet van 2012-07-13 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021965/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "5407a55c60f300e204803c301cc02ab93cc8cca5d6cbed59a4920e680a062510",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021965/VolledigDocument?datum=2021-01-09",
+  "source_sha256": "d237c3a25adc845aa1b6bb2433bb9d5f617ae2d2a2c1bf0c470931c4df58dfc8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021965&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2021-01-09",
   "made": "2012-07-13",
   "gazette": "2012-07-24",
   "numac": 2012035868,
   "document_start": "2012-07-25",
   "document_end": null,
-  "in_force": "2020-01-01",
+  "in_force": "2021-01-09",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-01-09; future article versions excluded; article text as the API gives it"
 }

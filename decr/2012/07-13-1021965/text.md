@@ -88,7 +88,7 @@ In artikel 18 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderw
 - De bedragen toegekend aan het Vlaamse Gewest, overeenkomstig artikel 65quater, § 5, 1°, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en Gewesten, gewijzigd bij de bijzondere wet van 6 januari 2014.<br>
 <br>
 § 5. Met betrekking tot de periodes na 2012 mogen de inkomsten van het Fonds aangewend worden voor:<br>
-- de uitvoering van intern Vlaams klimaatbeleid met het oog op het behalen van de Vlaamse broeikasgasemissiereductiedoelstellingen;<br>
+- de cofinanciering van intern Vlaams klimaatbeleid met het oog op het behalen van de Vlaamse broeikasgasemissiereductiedoelstellingen. Deze beleidsmaatregelen of projecten dragen bij tot de Vlaamse niet-ETS- reductiedoelstelling of tot de Vlaamse LULUCF no-debetregel;<br>
 - de uitvoering van het Vlaamse beleid inzake de flexibiliteitsmechanismen van het Protocol van Kyoto of zoals uitgewerkt in Europese of internationale wetgeving of akkoorden;<br>
 - de uitvoering van Vlaamse bijdrage(n) in het kader van de internationale steun aan ontwikkelingslanden in hun strijd tegen klimaatverandering in overeenstemming met de beslissingen van de United Nations Framework Convention on Climate Change (UNFCCC);<br>
 - de remediëring van competitiviteitsverlies bij de Vlaamse bedrijven ten gevolge van Europees of internationaal klimaatbeleid;<br>
@@ -96,7 +96,7 @@ In artikel 18 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderw
 <br>
 Ter uitvoering hiervan is het voor het Fonds in afwijking van artikel 15, §3, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 toegestaan om middelen te storten richting AGION, het GO! en andere begrotingsfondsen binnen de Vlaamse overheid, én worden deze begrotingsfondsen gemachtigd om deze middelen te ontvangen vanuit het Vlaams Klimaatfonds. De Vlaamse Regering wordt gemachtigd om hiertoe de passende begrotingsartikelen te creëren.<br>
 <br>
-§ 6. De Vlaamse Regering beschikt over de kredieten van het Fonds voor de financiering van de onder paragraaf 3 en paragraaf 5 vermelde taken.
+§ 6. De Vlaamse Regering beschikt over de kredieten van het Fonds voor de financiering van de onder paragraaf 3 en paragraaf 5 vermelde taken. De Vlaamse Regering bepaalt de cofinancieringspercentages die van toepassing zijn voor de besteding, vermeld onder paragraaf 5, eerste streepje.
 
 ## HOOFDSTUK 4. Wijzigingen aan het Energiedecreet van 8 mei 2009
 
