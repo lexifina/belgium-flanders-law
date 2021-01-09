@@ -2192,13 +2192,9 @@ Het geheel van afnamepunten van afnemers van een na 1 juli 2011 aangelegd net da
 <br>
 In afwijking van het derde en vierde lid wordt het geheel van afnemers die instaan voor het verzorgen van openbaar vervoer niet als één afnamepunt beschouwd.<br>
 <br>
-§ 3/1. Het op ondernemingsniveau of vestigingsniveau&nbsp;verschuldigde bedrag van de door financieringssteun voor hernieuwbare energie ontstane kosten wordt beperkt tot 4% van de bruto toegevoegde waarde van de betrokken onderneming of vestiging. Voor&nbsp;ondernemingen of vestigingen&nbsp;met een elektriciteitsintensiteit van ten minste 20% wordt dit beperkt tot 0,5% van de bruto toegevoegde waarde van de betrokken onderneming of vestiging. Dit houdt in dat in afwijking van paragraaf 3 de factor Ev, vermeld in paragraaf 2, wordt verminderd met 100% van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt van de betrokken onderneming of vestigingseenheid naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarvan de certificaatplichtige, vermeld in paragraaf 1, toegangshouder was.<br>
+§ 3/1. ...<br>
 <br>
-De Vlaamse Regering bepaalt de te volgen procedures, alsmede de modaliteiten en voorwaarden waaraan moet worden voldaan voor het verkrijgen van deze vermindering. De Vlaamse Regering maakt de toepassing van deze paragraaf afhankelijk van het storten van een bijdrage in het Energiefonds in het jaar n-1.<br>
-<br>
-De Vlaamse Regering zorgt met toepassing van het eerste en het tweede lid en alleen als er op het federale niveau een gelijkaardige regeling bestaat, in jaar N voor een verrekening of terugbetaling van een bedrag ter grootte van het door de federale overheid vastgestelde op ondernemingsniveau of vestigingsniveau in het jaar N-1 door die onderneming of vestiging verschuldigde en betaalde bedrag van de door financieringssteun voor hernieuwbare energie op federaal niveau ontstane kosten. De Vlaamse Regering stelt in het kader van die verrekening of terugbetaling echter een plafond vast van een percentage van het in het jaar N-1 in totaal verschuldigde bedrag, vermeld in het eerste lid, dat die verrekening of terugbetaling niet mag overschrijden.<br>
-<br>
-§ 4. Het VEKA&nbsp;legt een evaluatie van de quota- en productiedoelstellingen, vermeld in § 2, voor aan de Vlaamse Regering indien :<br>
+§ 4. Het VEKA legt een evaluatie van de quota- en productiedoelstellingen, vermeld in § 2, voor aan de Vlaamse Regering indien :<br>
 1° het aantal beschikbare certificaten minder dan 105 % of meer dan 125 % bedraagt van het aantal voor te leggen certificaten;<br>
 2° de verhouding tussen het aantal toegekende voor de certificatenverplichting aanvaardbare certificaten en de totale bruto geproduceerde groene stroom meer dan 5 % afwijkt van de verhouding bij de vorige evaluatie;<br>
 3° de werkelijke productie per hernieuwbare energiebron meer dan 10 % afwijkt van de subdoelstellingen per hernieuwbare energiebron, vermeld in § 2. In dat geval wordt tevens geëvalueerd welke de oorzaken zijn van die afwijkingen en worden remediërende maatregelen of bijsturing van de subdoelstellingen voorgesteld.<br>
@@ -2261,6 +2257,14 @@ De resultaten van de evaluatie worden door het VEKA publiek gemaakt.<br>
 De Vlaamse Regering kan onder meer op basis van die evaluatie de quotadoelstelling zoals vermeld in dit artikel aanpassen.</p>
 
 ## Onderafdeling III. Gemeenschappelijke bepalingen
+
+### ART 7.1.11/1.
+
+Het op ondernemingsniveau of vestigingsniveau verschuldigde bedrag van de door financieringssteun voor hernieuwbare energie en kwalitatieve warmte-krachtkoppeling ontstane kosten wordt beperkt tot 4% van de bruto toegevoegde waarde van de betrokken onderneming of vestiging. Voor ondernemingen of vestigingen met een elektriciteitsintensiteit van ten minste 20% wordt dit beperkt tot 0,5% van de bruto toegevoegde waarde van de betrokken onderneming of vestiging. Dit houdt in dat in afwijking van artikel 7.1.10, § 3, en artikel 7.1.11, § 2/1, de factor Ev, vermeld in artikel 7.1.10, § 2, en artikel 7.1.11, § 2, wordt verminderd met 100% van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt van de betrokken onderneming of vestigingseenheid naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarvan de certificaatplichtige, vermeld in artikel 7.1.10, § 1, en artikel 7.1.11, § 1, toegangshouder was.<br>
+<br>
+De Vlaamse Regering bepaalt de te volgen procedures, alsmede de modaliteiten en voorwaarden waaraan moet worden voldaan voor het verkrijgen van deze vermindering. De Vlaamse Regering maakt de toepassing van deze paragraaf afhankelijk van het storten van een bijdrage in het Energiefonds in het jaar n-1.<br>
+<br>
+De Vlaamse Regering zorgt met toepassing van het eerste en het tweede lid en alleen als er op het federale niveau een gelijkaardige regeling bestaat, in het jaar N voor een verrekening of terugbetaling van een bedrag ter grootte van het door de federale overheid vastgestelde op ondernemingsniveau of vestigingsniveau in het jaar N-1 door die onderneming of vestiging verschuldigde en betaalde bedrag van de door financieringssteun voor hernieuwbare energie en kwalitatieve warmtekrachtkoppeling op federaal niveau ontstane kosten. De Vlaamse Regering stelt in het kader van die verrekening of terugbetaling echter een plafond vast van een percentage van het in het jaar n-1 in totaal verschuldigde bedrag, vermeld in het eerste lid, dat die verrekening of terugbetaling niet mag overschrijden.
 
 ### ART. 7.1.12.
 
