@@ -97,3 +97,13 @@ In hetzelfde besluit wordt een artikel 7/1 ingevoegd, dat luidt als volgt:<br>
 "Art. 7/1. Dit besluit houdt op uitwerking te hebben op 31 december 2021.".
 
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 15.
+
+Het decreet van 18 december 2020 tot wijziging van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid en van het decreet van 29 mei 2020 tot organisatie van de meldingsplicht en het contactonderzoek in het kader van COVID-19 treedt in werking op de dag die volgt op de bekendmaking van dit besluit in het Belgisch Staatsblad, met uitzondering van artikel 7 tot en met 15, die uitwerking hebben met ingang van 1 juli 2020.<br>
+<br>
+Dit besluit treedt in werking op de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 7 tot en met 14, die uitwerking hebben met ingang van 1 juli 2020.
+
+### ART 16.
+
+De Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, is belast met de uitvoering van dit besluit.
