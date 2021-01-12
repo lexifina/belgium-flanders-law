@@ -23,6 +23,58 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## HOOFDSTUK 1. Uitvoering van artikel 34/1, tweede lid, en artikel 47/1 van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid
 
+### ART 1.
+
+In dit hoofdstuk wordt verstaan onder agentschap: het intern verzelfstandigd agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid".
+
+### ART 2.
+
+Overeenkomstig artikel 34/1, tweede lid, van het decreet van 21 december 2003 wordt het agentschap aangewezen als de verwerkingsverantwoordelijke voor de persoonsgegevens, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
+
+### ART 3.
+
+De termijn van de tijdelijke afzondering, vermeld in artikel 47/1, § 1, eerste lid, van het decreet van 21 november 2003, is:<br>
+1° minimaal zeven dagen na aanvang van de symptomen en tot ten minste drie dagen zonder koorts en met verbetering van de respiratoire symptomen, als er symptomen van COVID-19 zijn;<br>
+2° zeven dagen vanaf de datum van de COVID-19-test, als er geen symptomen van COVID-19 zijn.<br>
+<br>
+De tijdelijke afzondering, vermeld in artikel 47/1, § 2, eerste lid, van het voormelde decreet, duurt tien dagen vanaf de laatste dag dat de persoon in kwestie in een hoogrisicogebied is geweest, tenzij die persoon een negatieve COVID-19-test heeft ondergaan vanaf de zevende dag van de tijdelijke afzondering.<br>
+<br>
+De tijdelijke afzondering, vermeld in artikel 47/1, § 3, eerste lid, van hetzelfde decreet, duurt tien dagen vanaf het laatste contact dat heeft geleid tot een verhoogd risico op COVID-19, tenzij de persoon een negatieve COVID-19-test heeft ondergaan vanaf de zevende dag van die tijdelijke afzondering.<br>
+<br>
+In afwijking van het tweede en derde lid kan de termijn van de tijdelijke afzondering, vermeld in artikel 47/1, § 2, eerste lid, en § 3, eerste lid, tijdelijk worden opgeheven om een noodzakelijke activiteit te vervullen, als die activiteit niet kan worden uitgesteld.
+
+### ART 4.
+
+In artikel 47/1, § 2, vierde lid, 1°, van het decreet van 21 november 2003 wordt onder een beperkte duur minder dan 48 uur verstaan.<br>
+<br>
+De inschatting van de kans op besmetting, vermeld in artikel 47/1, § 2, vierde lid, 2°, van het voormelde decreet gebeurt via een zelfevaluatie die is opgenomen in het Passagier Lokalisatie Formulier van de bevoegde federale dienst.<br>
+<br>
+De essentiële redenen, vermeld in artikel 47/1, § 2, vierde lid, 3°, van het voormelde decreet van 21 november 2003 waarvoor de tijdelijke afzondering, vermeld in artikel 47/1, § 2, eerste lid, van het decreet van 21 november 2003 en de verplichting om zich bij een COVID-19 testcentrum, een triagecentrum of hun behandelende arts te melden, vermeld in artikel 47/1, § 2, tweede lid, van hetzelfde decreet, niet gelden, zijn:<br>
+1° grensbewoners of grensarbeiders;<br>
+2° vervoerspersoneel dat belast is met goederenvervoer en ander vervoerspersoneel, als dat nodig is voor de uitoefening van hun functie;<br>
+3° diplomaten;<br>
+4° personeelsleden van een internationale organisatie of personen die door een internationale organisatie zijn uitgenodigd en van wie de fysieke aanwezigheid vereist is voor de goede werking van die organisatie;<br>
+5° militair personeel;<br>
+6° personeel van de openbare ordediensten;<br>
+7° personeel van de Federale Politie;<br>
+8° personeel van de Dienst Vreemdelingenzaken;<br>
+9° douanepersoneel;<br>
+10° humanitaire hulpverleners en civiel beschermingspersoneel bij de uitoefening van hun functie;<br>
+11° passagiers op doorreis, ongeacht vanwaaruit ze reizen;<br>
+12° zeevarenden bij de uitoefening van hun functie;<br>
+13° hooggekwalificeerde personen, als hun werk vanuit economisch standpunt noodzakelijk is en niet kan worden uitgesteld. Daaronder worden ook beroepssporters verstaan die zich verplaatsen bij de uitoefening van hun professionele activiteit;<br>
+14° leerlingen, studenten en stagiairs die zich dagelijks naar het buitenland verplaatsen.<br>
+<br>
+Een persoon die conform artikel 47/1, § 2, vierde lid, 3°, van het voormelde decreet, vrijgesteld is van de tijdelijke afzondering, vermeld in artikel 47/1, § 2, eerste lid, van het voormelde decreet, en van de verplichting om zich bij een COVID-19-testcentrum, een triagecentrum of zijn behandelende arts te melden, vermeld in artikel 47/1, § 2, tweede lid, van het voormelde decreet, legt het bewijs daarvan voor in het kader van de handhaving van de maatregel, vermeld in artikel 47/1 van het voormelde decreet.
+
+### ART 5.
+
+De personen, vermeld in artikel 47/1, § 3, eerste lid, van het decreet van 21 november 2003, worden via het centrale contactcentrum, via een lokaal contactcentrum of via een arts op de hoogte gebracht van het feit dat ze een verhoogd risico op COVID-19 hebben.
+
+### ART 6.
+
+Er is een verhoogd risico op COVID-19 als vermeld in artikel 47/1, § 3, eerste lid, van het decreet van 21 november 2003, als dat door het centrale contactcentrum, een lokaal contactcentrum of een arts wordt vastgesteld conform de richtlijnen van de bevoegde federale dienst overeenkomstig artikel 47/1, § 3, vijfde lid, van het voormelde decreet.
+
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering van 12 juni 2020 tot uitvoering van het decreet van 29 mei 2020 tot organisatie van de meldingsplicht en het contactonderzoek in het kader van COVID-19
 
 ### ART 7.
