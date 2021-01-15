@@ -21,16 +21,16 @@ Besluit :<br>
 
 ### ART 1.
 
-Het Compendium voor Monsterneming en Analyse in het kader van het Materialendecreet en het Bodemdecreet, afgekort CMA, en de bijhorende inhoudstabel, gevoegd als bijlage bij dit besluit, worden goedgekeurd.
+...
 
 ### ART 2.
 
-Het ministerieel besluit van 14 februari 2018 houdende de vaststelling van het Compendium voor Monsterneming en Analyse wordt opgeheven.
+...
 
 ### ART 3.
 
-Dit besluit treedt in werking op 15 januari 2020.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/01/13_1.pdf#page=165">Compendium voor Monsterneming en Analyse (CMA)</a>
+...
