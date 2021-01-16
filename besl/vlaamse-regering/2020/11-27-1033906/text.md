@@ -25,37 +25,20 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-In dit besluit wordt verstaan onder:<br>
-1° Coronavirusmaatregelen: de maatregelen van het Overlegcomité van 16 oktober 2020 inzake het coronavirus en de daaruit voortvloeiende maatregelen van de bevoegde autoriteiten inzake burgerlijke veiligheid;<br>
-2° IBO: de individuele beroepsopleiding, vermeld in artikel 90 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding;<br>
-3° de VDAB: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, vermeld in artikel 3, § 1, van het decreet van 7 mei 2004;<br>
-4° IBO-premie: de premie, vermeld in artikel 93 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding;<br>
-5° IBO-cursist: een cursist zoals vermeld in artikel 1, 9° van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding die verbonden was met een IBO-overeenkomst op 16 oktober 2020 en voor de IBO-overeenkomsten die zijn opgestart na 16 oktober 2020.
+...
 
 ### ART 2.
 
-Wanneer de IBO-overeenkomst is stopgezet ingevolge de Coronavirusmaatregelen, ontvangt de IBO-cursist uitzonderlijk nog een premie.<br>
-<br>
-De IBO-cursist die geen werkloosheidsuitkering heeft, ontvangt een premie die 70% van de IBO-premie bedraagt waarop de IBO-cursist recht had op het moment van stopzetten van de IBO-overeenkomst.<br>
-<br>
-De IBO-cursist die een werkloosheidsuitkering heeft, ontvangt een forfaitaire premie die 225 euro bedraagt.<br>
-<br>
-De premie wordt maandelijks toegekend. Een maand loopt van de zestiende tot en met de vijftiende van de volgende maand.<br>
-<br>
-De premie wordt toegekend voor de initiële duurtijd van de IBO-overeenkomst. Deze periode wordt, indien zij ten einde loopt na 15 januari 2021, beperkt tot 15 januari 2021.<br>
-<br>
-Het recht op de premie houdt op indien er vanaf de tweede maand wordt vastgesteld dat er in de voorafgaande maand een tewerkstelling of IBO wordt vastgesteld.
+...
 
 ### ART 3.
 
-Het recht op de premie wordt toegekend voor de IBO-overeenkomsten die liepen op 16 oktober 2020 en voor de IBO-overeenkomsten die zijn opgestart na 16 oktober 2020.<br>
-<br>
-De premie wordt maandelijks uitgekeerd.
+...
 
 ### ART 4.
 
-Dit besluit heeft uitwerking met ingang van 16 oktober 2020 en treedt buiten werking op 16 januari 2021.
+...
 
 ### ART 5.
 
-De Vlaamse minister, bevoegd voor werk, is belast met de uitvoering van dit besluit.
+...
