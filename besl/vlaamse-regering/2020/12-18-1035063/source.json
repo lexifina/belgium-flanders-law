@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035063,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-18 houdende de toekenning van een bijkomende toelage aan de hogeronderwijsinstellingen voor noodzakelijke digitalisering ingevolge impact van COVID-19 op het academiejaar 2020-2021",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035063/VolledigDocument?datum=2021-01-28",
+  "source_sha256": "41ecd32bbb8d83baba7882be04989f2c7de187993f4d6b718948fa30564c5366",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035063&param=informatie",
+  "as_of": "2021-01-28",
+  "made": "2020-12-18",
+  "gazette": "2021-01-18",
+  "numac": 2021020133,
+  "document_start": "2021-01-28",
+  "document_end": null,
+  "in_force": "2021-01-28",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2021-01-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
