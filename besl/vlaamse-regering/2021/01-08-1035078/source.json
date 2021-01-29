@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035078,
+  "title": "Besluit van de Vlaamse Regering van 2021-01-08 tot wijziging van de VLAREME van 28 oktober 2016, wat betreft de equivalente maatregelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035078/VolledigDocument?datum=2021-01-29",
+  "source_sha256": "2ae68009e724b8d8a112e8810dde3ecd46570c49a0943a4452226f3f22d65489",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035078&param=informatie",
+  "as_of": "2021-01-29",
+  "made": "2021-01-08",
+  "gazette": "2021-01-19",
+  "numac": 2021020156,
+  "document_start": "2021-01-29",
+  "document_end": null,
+  "in_force": "2021-01-29",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-01-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
