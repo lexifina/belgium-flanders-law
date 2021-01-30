@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035090,
+  "title": "Ministerieel besluit van 2020-12-05 tot vaststelling van de maatregelen en de modaliteiten tot uitvoering van het natuurinrichtingsproject Wellemeersen en omgeving Oude Dender en tot ontheffing van verbodsbepalingen die gelden in het Vlaams Ecologisch Netwerk",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035090/VolledigDocument?datum=2021-01-30",
+  "source_sha256": "132414d7a1c95265f5d6473a8303798338c91f8110d1565c389cd821872a5d3c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035090&param=informatie",
+  "as_of": "2021-01-30",
+  "made": "2020-12-05",
+  "gazette": "2021-01-20",
+  "numac": 2020016418,
+  "document_start": "2021-01-30",
+  "document_end": null,
+  "in_force": "2021-01-30",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2021-01-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
