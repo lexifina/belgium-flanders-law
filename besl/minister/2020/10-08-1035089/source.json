@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035089,
+  "title": "Ministerieel besluit van 2020-10-08 tot wijziging van het ministerieel besluit van 4 juli 2011 tot aanwijzing van de sociaalrechtelijke inspecteurs en de ambtenaren bevoegd voor het opleggen van de administratieve geldboeten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035089/VolledigDocument?datum=2021-01-30",
+  "source_sha256": "690fce27697d0fd8ac66b4ea13f723e750c8860cf16d0173d3cf6d740b7c1654",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035089&param=informatie",
+  "as_of": "2021-01-30",
+  "made": "2020-10-08",
+  "gazette": "2021-01-20",
+  "numac": 2020044521,
+  "document_start": "2021-01-30",
+  "document_end": null,
+  "in_force": "2021-01-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-01-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
