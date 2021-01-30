@@ -24,16 +24,13 @@ Het ministerieel besluit van 2 februari 2009 tot aanwijzing van sociaalrechtelij
 
 ### BIJLAGE
 
-De sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie zijn:<br>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">De sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie zijn:</span></span></span><br>
 &nbsp;
-<table border="1">
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
 	<tbody>
 		<tr>
 			<td>Aerts Lorette</td>
-			<td>Lambrechts Ann</td>
-		</tr>
-		<tr>
-			<td>Bergiers Jean-Marc</td>
 			<td>Marchand Thalassa</td>
 		</tr>
 		<tr>
@@ -73,35 +70,35 @@ De sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van 
 			<td>Smits Elke</td>
 		</tr>
 		<tr>
-			<td>De Wilde Hedwig</td>
+			<td>De Wit Jurgen</td>
 			<td>Tothezan Otilia</td>
 		</tr>
 		<tr>
-			<td>De Wit Jurgen</td>
+			<td>Decraene Evelien</td>
 			<td>Van der Velde Petra</td>
 		</tr>
 		<tr>
-			<td>Decraene Evelien</td>
+			<td>Dhondt Nathalie</td>
 			<td>Van Duppen Nick</td>
 		</tr>
 		<tr>
-			<td>Dhondt Nathalie</td>
+			<td>Dumeez Nele</td>
 			<td>Van Neygen Elke</td>
 		</tr>
 		<tr>
-			<td>Dumeez Nele</td>
+			<td>Feremans David</td>
 			<td>Van Osselaer Koenraad</td>
 		</tr>
 		<tr>
-			<td>Feremans David</td>
+			<td>Gijsel Lize</td>
 			<td>Van Parys Willem</td>
 		</tr>
 		<tr>
-			<td>Gijsel Lize</td>
+			<td>Haerinck Frank</td>
 			<td>Vandaele Chris</td>
 		</tr>
 		<tr>
-			<td>Haerinck Frank</td>
+			<td>Haerinck Jana</td>
 			<td>Vandenameele Vincent</td>
 		</tr>
 		<tr>
@@ -110,10 +107,14 @@ De sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van 
 		</tr>
 		<tr>
 			<td>Herman Katrien</td>
-			<td>Verhaegen Jelle</td>
+			<td>Velghe Wim</td>
 		</tr>
 		<tr>
 			<td>Joosten Guy</td>
+			<td>Verhaegen Jelle</td>
+		</tr>
+		<tr>
+			<td>Lambrechts Ann</td>
 			<td>Verstraaten Katty</td>
 		</tr>
 	</tbody>
