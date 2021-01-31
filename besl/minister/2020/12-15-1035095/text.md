@@ -35,9 +35,19 @@ In artikel 4 van hetzelfde ministerieel besluit worden de volgende wijzigingen a
 2° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
 "In afwijking van het eerste lid passen de projecten, vermeld in het eerste lid, in het bindend sociaal objectief van de gemeente als ze louter gefinancierd worden op de wijze, vermeld in artikel 4.10, 2°, h), van het Besluit Vlaamse Codex Wonen van 2021. Dit lid is niet van toepassing op huurwoningen die worden gerealiseerd met een lening vanuit het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, vermeld in artikel 5.11, tweede lid, van de Vlaamse Codex Wonen van 2021.".
 
+### ART 5.
+
+Aan artikel 5 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"In afwijking van het eerste lid passen de projecten, vermeld in het eerste lid, in het bindend sociaal objectief van de gemeente als ze louter gefinancierd worden op de wijze, vermeld in artikel 4.10, 2°, h), van het Besluit Vlaamse Codex Wonen van 2021. Dit lid is niet van toepassing op huurwoningen die worden gerealiseerd met een lening vanuit het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, vermeld in artikel 5.11, tweede lid, van de Vlaamse Codex Wonen van 2021".
+
 ### ART 7.
 
 In artikel 6 van hetzelfde ministerieel besluit worden de volgende wijzigingen aangebracht:<br>
 1° in punt 1° wordt de zinsnede "artikel 22, § 2, van de Vlaamse Wooncode" vervangen door de zinsnede "artikel 2.22 van de Vlaamse Codex Wonen van 2021";<br>
 2° punt 2° wordt vervangen door wat volgt:<br>
 "2° artikel 4.13, § 2, eerste lid, van de Vlaamse Codex Wonen van 2021;".
+
+### ART 8.
+
+Artikel 1, 2, 3, 1° en artikel 7 treden in werking op 1 januari 2021.

@@ -2,16 +2,16 @@
   "codex_id": 1035095,
   "title": "Ministerieel besluit van 2020-12-15 tot wijziging van artikel 2, 4, 5 en 6 van het ministerieel besluit van 5 september 2017 houdende vaststelling van het kader voor de renovatietoets en de lokale woontoets en van het financiële kader ter uitvoering van artikel 4, eerste lid, van het Procedurebesluit Wonen van 14 juli 2017",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035095/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "ff98631ce770dc95ab91609125e48231d1bc32f36f73fcadb75fbb6b5817da43",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035095/VolledigDocument?datum=2021-01-31",
+  "source_sha256": "870162909f1658c7639208df71b84d4e1d2a22832c6d635db6dbb1bdfe271610",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035095&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2021-01-31",
   "made": "2020-12-15",
   "gazette": "2021-01-21",
   "numac": 2020031720,
   "document_start": "2021-01-31",
   "document_end": null,
-  "in_force": "2021-01-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-01-31",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2021-01-31; future article versions excluded; article text as the API gives it"
 }
