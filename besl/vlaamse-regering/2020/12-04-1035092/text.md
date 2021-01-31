@@ -28,6 +28,24 @@ Aan artikel 424 van hetzelfde besluit wordt een paragraaf 3 toegevoegd, die luid
 <br>
 " § 3. De minister bepaalt de regels om de scores, vermeld in paragraaf 1 en 2, te bepalen.".
 
+### ART 3.
+
+In artikel 425, tweede lid, van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in punt 5°, b), en 6°, wordt het woord "geneesheer-specialist" vervangen door het woord "arts-specialist";<br>
+2° in punt 6° worden de woorden "of bevestigd" opgeheven.
+
+### ART 4.
+
+In artikel 426, tweede lid, 3°, van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "of bevestigd" worden opgeheven;<br>
+2° het woord "geneesheer-specialist" wordt vervangen door het woord "arts-specialist".
+
+### ART 5.
+
+Artikel 428 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 28 juni 2019, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 428. "De woonzorgcentra, centra voor kortverblijf en centra voor dagverzorging leven voor het personeel alle arbeidsvoorwaarden (met inbegrip van loon- en tewerkstellingsvoorwaarden) na die bepaald zijn in wettelijke, decretale en reglementaire bepalingen, in collectieve arbeidsovereenkomsten en in de protocollen zoals voorzien in de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel in de publieke sector.".
+
 ### ART 6.
 
 In artikel 431, tweede lid, van het hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 28 juni 2019, wordt punt 17° opgeheven.
@@ -53,6 +71,10 @@ Als het centrum voor dagverzorging tijdens de referentieperiode niet voldoet aan
 
 In artikel 435, § 3, van hetzelfde besluit wordt het woord "geneesheer-specialist" vervangen door het woord "arts-specialist".
 
+### ART 10.
+
+In artikel 442 en 450, § 1, eerste lid, 4°, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 28 juni 2019, wordt het woord "geneesheer-specialist" vervangen door het woord "arts-specialist".
+
 ### ART 11.
 
 In artikel 456, § 1, vijfde lid, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 17 mei 2019 en 28 juni 2019, wordt het woord "dagverzorgingscentrum" telkens vervangen door de woorden "centrum voor dagverzorging".
@@ -67,9 +89,33 @@ In artikel 463 van hetzelfde besluit wordt het vierde lid vervangen door wat vol
 In artikel 467 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 28 juni 2019, wordt het tweede lid vervangen door wat volgt:<br>
 "Als door het overlijden van de gebruiker of door zijn opname in een ziekenhuis of revalidatieziekenhuis niet wordt voldaan aan de minimale verblijfsduur van zes uur, wordt de tegemoetkoming, vermeld in het eerste lid, betaald.".
 
+### ART 14.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 26 juni 2020, wordt een artikel 473/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 473/1. Als een foutieve basistegemoetkoming voor zorg is bepaald voor een bepaalde factureringsperiode, herberekent het agentschap de basistegemoetkoming voor zorg.<br>
+<br>
+Het agentschap recupereert het onterecht betaalde bedrag door de basistegemoetkoming voor zorg te verminderen, of het woonzorgcentrum recupereert, in voorkomend geval met bijbehorend centrum voor kortverblijf, het te weinig betaalde bedrag door de basistegemoetkoming voor zorg te verhogen. Die vermindering of verhoging wordt vanaf de dag waarop de herberekende tegemoetkoming gecommuniceerd wordt, toegepast gedurende een even lange periode als de periode waarin het woonzorgcentrum, in voorkomend geval met bijbehorend centrum voor kortverblijf, in het verleden onterecht de foutieve tegemoetkoming heeft ontvangen.<br>
+<br>
+Als het agentschap het onterecht betaalde bedrag niet kan recupereren door de basistegemoetkoming voor zorg te verminderen, wordt het onterecht betaalde bedrag van het woonzorgcentrum, in voorkomend geval met bijbehorend centrum voor kortverblijf, teruggevorderd. Als het woonzorgcentrum, in voorkomend geval met bijbehorend centrum voor kortverblijf, het onterecht betaalde bedrag niet kan recupereren door de basistegemoetkoming voor zorg te verhogen, betaalt het agentschap het te weinig betaalde bedrag rechtstreeks aan het woonzorgcentrum, in voorkomend geval met bijbehorend centrum voor kortverblijf.".
+
 ### ART 15.
 
 In artikel 478, § 3, eerste lid, 2°, van hetzelfde besluit worden tussen de zinsnede "20%" en het woord "worden" de woorden "van de norm" ingevoegd.
+
+### ART 16.
+
+In artikel 490, derde lid, van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede "vanaf de eerste dag van het trimester waarin de voorziening voldoet aan de voorwaarden, vermeld in het tweede lid" wordt vervangen door de zinsnede "vanaf de eerste dag van de maand waarin de voorziening voldoet aan de voorwaarden, vermeld in het tweede lid, en mits het voldoen aan deze voorwaarden uiterlijk diezelfde maand gemeld wordt via de elektronische vragenlijst, vermeld in artikel 452";<br>
+2° de volgende zin wordt toegevoegd:<br>
+"Als die melding op een later tijdstip wordt gedaan, heeft het woonzorgcentrum recht op de tegemoetkoming vanaf de eerste dag van de maand waarin het voldoen aan de voorwaarden is gemeld.".
+
+### ART 17.
+
+In artikel 493, derde lid, van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede "vanaf de eerste dag van het trimester waarin het voldoet aan de voorwaarden, vermeld in dit artikel" wordt vervangen door de zinsnede "vanaf de eerste dag van de maand waarin de voorziening voldoet aan de voorwaarden, vermeld in dit artikel, en mits het voldoen aan die voorwaarden uiterlijk diezelfde maand gemeld wordt via de elektronische vragenlijst, vermeld in artikel 452";<br>
+2° de volgende zin wordt toegevoegd:<br>
+"Als die melding op een later tijdstip wordt gedaan, heeft het woonzorgcentrum recht op de tegemoetkoming vanaf de eerste dag van de maand waarin het voldoen aan de voorwaarden is gemeld.".
 
 ### ART 18.
 
@@ -81,6 +127,31 @@ Aan artikel 497, § 2, derde lid, van hetzelfde besluit wordt de volgende zin to
 In artikel 498, § 2, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 december 2018, wordt punt 3° vervangen door wat volgt:<br>
 "3° geen financiering hebben ontvangen voor een referentiepersoon dementie op basis van de sociale akkoorden van 2011 en 2013 met betrekking tot de jobcreatie voor de referentieperiode van 1 juli 2016 tot en met 30 juni 2017;".
 
+### ART 20.
+
+In artikel 500 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid wordt de zin "Een exemplaar van het contract waardoor de coördinerend en raadgevend arts verbonden is aan het woonzorgcentrum met een bijkomende erkenning, wordt door het woonzorgcentrum aan het agentschap bezorgd." vervangen door de zin "Op verzoek van het agentschap wordt het contract waardoor de coördinerende en raadgevende arts verbonden is aan het woonzorgcentrum met een bijkomende erkenning, aan het agentschap bezorgd.";<br>
+2° er worden een derde en een vierde lid toegevoegd, die luiden als volgt:<br>
+"Het woonzorgcentrum heeft recht op de tegemoetkoming, vermeld in het eerste lid, vanaf de begindatum, vermeld in het ondernemingscontract waardoor de coördinerend en raadgevend arts verbonden is aan het woonzorgcentrum met een bijkomende erkenning, en op voorwaarde dat de gegevens van de coördinerend en raadgevend arts uiterlijk in dezelfde maand van de begindatum gemeld worden via de elektronische vragenlijst, vermeld in artikel 452. Als die melding op een later tijdstip wordt gedaan, heeft het woonzorgcentrum recht op de tegemoetkoming vanaf de eerste dag van de maand waarin de gegevens worden gemeld.<br>
+Het woonzorgcentrum heeft geen recht meer op de tegemoetkoming, vermeld in het eerste lid, vanaf de einddatum, vermeld in het ondernemingscontract, of bij de stopzetting van het ondernemingscontract vanaf de dag die volgt op die stopzetting.".
+
+### ART 21.
+
+In artikel 502, § 5, van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede "vanaf de eerste dag van het trimester waarin de voorziening voldoet aan de voorwaarden, vermeld in paragraaf 3" wordt vervangen door de zinsnede "vanaf de eerste dag van de maand waarin de voorziening voldoet aan de voorwaarden, vermeld in dit paragraaf 3 en mits het voldoen aan die voorwaarden uiterlijk diezelfde maand gemeld wordt via de elektronische vragenlijst, vermeld in artikel 452";<br>
+2° de volgende zin wordt toegevoegd:<br>
+"Als die melding op een later tijdstip wordt gedaan, heeft het woonzorgcentrum recht op de tegemoetkoming vanaf de eerste dag van de maand waarin het voldoen aan de voorwaarden is gemeld.".
+
+### ART 23.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 26 juni 2020, wordt een artikel 506/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 506/1. Als voor een bepaalde factureringsperiode een foutieve basistegemoetkoming voor zorg is bepaald, herberekent het agentschap de basistegemoetkoming voor zorg.<br>
+<br>
+Het agentschap recupereert het onterecht betaalde bedrag door de basistegemoetkoming voor zorg te verminderen, of het centrum voor dagverzorging recupereert het te weinig betaalde bedrag door de basistegemoetkoming voor zorg te verhogen. Die vermindering of verhoging wordt vanaf de dag waarop de herberekende tegemoetkoming gecommuniceerd wordt, toegepast gedurende een even lange periode als de periode waarin het centrum voor dagverzorging in het verleden onterecht de foutieve tegemoetkoming heeft ontvangen.<br>
+<br>
+Als het agentschap het onterecht betaalde bedrag niet kan recupereren door de basistegemoetkoming voor zorg te verminderen, wordt het onterecht betaalde bedrag van het centrum voor dagverzorging teruggevorderd. Als het centrum voor dagverzorging het onterecht betaalde bedrag niet kan recupereren door de basistegemoetkoming voor zorg te verhogen, betaalt het agentschap het te weinig betaalde bedrag rechtstreeks aan het centrum voor dagverzorging.".
+
 ### ART 24.
 
 Aan artikel 507 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 28 juni 2019, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
@@ -89,10 +160,30 @@ Aan artikel 507 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse 
 2° de wijze waarop en de situaties waarin de afstand, vermeld in het eerste lid, gewijzigd wordt;<br>
 3° de afrondingsregels van de tegemoetkoming, vermeld in het eerste lid.".
 
+### ART 25.
+
+In artikel 510, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 28 juni 2019, worden de volgende wijzigingen aangebracht:<br>
+1° tussen het woord "die" en het woord "vergoed" wordt het woord "kunnen" ingevoegd;<br>
+2° de zinsnede ", ongeacht of de voormelde voorzieningen de tegemoetkoming voor zorg factureren aan de zorgkassen of niet" wordt toegevoegd.
+
+### ART 26.
+
+In artikel 513, § 2, tweede lid, van hetzelfde besluit wordt het woord "geneesheer-specialist" vervangen door het woord "arts-specialist".
+
 ### ART 27.
 
 Aan artikel 521, § 1, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 28 juni 2019, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
 "De minister bepaalt de instructies voor de digitale facturatie die betrekking hebben op de algemene procedure, de recordtekening en de beschrijving van de velden.".
+
+### ART 28.
+
+In artikel 527, derde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 maart 2019, wordt het bedrag "25 euro" vervangen door het bedrag "24,51 euro".
+
+### ART 29.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 26 juni 2020, wordt een artikel 530/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 530/1. Voor gebruikers die geen aanspraak maken op de basistegemoetkoming voor zorg in een woonzorgcentrum, een centrum voor kortverblijf of een centrum voor dagverzorging doordat ze niet voldoen aan de verplichtingen, vermeld in deel 1, titel 6, van het decreet van 18 mei 2018, kan de voorziening per dag voor die gebruiker maximaal het bedrag van de basistegemoetkoming voor zorg voor die voorziening, zoals bepaald conform de bepalingen van dit besluit, factureren aan de gebruiker zelf, of aan de instelling die optreedt als verzekeringsinstelling voor de gebruiker in kwestie.".
 
 ### ART 30.
 
@@ -119,3 +210,17 @@ In artikel 662/7 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 ### ART 34.
 
 In 662/8, zesde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 13 december 2019, wordt het woord "dagverzorgingscentrum" telkens vervangen door de woorden "centrum voor dagverzorging".
+
+### ART 35.
+
+Artikel 2, 7, 8, 12, 13, 15, 18, 24 en 27, hebben uitwerking met ingang van 1 januari 2019.<br>
+<br>
+Artikel 19 is van toepassing vanaf 1 januari 2021.<br>
+<br>
+Artikel 1, 6, 9, 11, en artikel 30 tot en met 34 hebben uitwerking met ingang van 1 januari 2020.<br>
+<br>
+Artikel 22 treedt in werking op een datum die de minister bepaalt.
+
+### ART 36.
+
+De Vlaamse minister, bevoegd voor Welzijn, Volksgezondheid, Gezin en Armoedebestrijding, is belast met de uitvoering van dit besluit.
