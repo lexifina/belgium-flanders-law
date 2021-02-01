@@ -14,19 +14,19 @@ Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffend
 <br>
 Ter uitvoering van artikel 24, § 2, van het voormelde decreet wordt voor bijzondere doelgroepen op de volgende wijze afgeweken van het minimale aantal lestijden:<br>
 1° voor het studiegebied bakkerij:<br>
-a) de opleiding Banketbakkerij kan voor traaglerende cursisten 920 lestijden omvatten, waarbij de module Stage Bakkerij 240 lestijden omvat;<br>
-b) de opleiding Bakker kan voor traaglerende cursisten 920 lestijden omvatten, waarbij de module Stage Bakkerij 240 lestijden omvat;<br>
+a) de opleiding Banketbakkerij kan voor traaglerende cursisten 920 lestijden omvatten, waarbij de module Stage Banketbakkerij 240 lestijden omvat en voor snel lerende cursisten 720 lestijden omvatten, waarbij de module Stage Banketbakkerij 40 lestijden omvat;<br>
+b) de opleiding Bakker kan voor traaglerende cursisten 920 lestijden omvatten, waarbij de module Stage Bakkerij 240 lestijden omvat en voor snel lerende cursisten 720 lestijden omvatten, waarbij de module Stage Bakkerij 40 lestijden omvat;<br>
 c) de opleiding Medewerker Bakkerij kan voor traaglerende cursisten 840 lestijden bij een maximale afwijking omvatten, waarbij alle modules 120 lestijden omvatten;<br>
 2° voor het studiegebied slagerij:<br>
 a) de opleiding Bereider van Vleesproducten (Charcutier) kan voor traaglerende cursisten 240 lestijden omvatten, waarbij de module Ontvangstcontrole en voorraadbeheer slagerij 80 lestijden omvat;<br>
 b) de opleiding Medewerker Slagerij kan voor traaglerende cursisten bij een maximale afwijking 600 lestijden omvatten, waarbij alle modules 120 lestijden omvatten;<br>
 c) de opleiding Slager Distributie kan voor traaglerende cursisten bij een maximale afwijking 600 lestijden omvatten, waarbij alle modules 120 lestijden omvatten;<br>
-d) de opleiding Slager-Spekslager kan voor traaglerende cursisten bij een maximale afwijking 1120 lestijden omvatten, waarbij de module Stage Slagerij 240 lestijden omvat en de module Aankoop-, verkoop- en voorraadbeheer slagerij 80 lestijden omvat;<br>
+d) de opleiding Slager-Spekslager kan voor traaglerende cursisten bij een maximale afwijking 1120 lestijden omvatten, waarbij de module Stage Slagerij 240 lestijden omvat en de module Aankoop-, verkoop- en voorraadbeheer slagerij 80 lestijden omvat en voor snel lerende cursisten 880 lestijden omvatten, waarbij de module Stage Slagerij 40 lestijden omvat;<br>
 e) de opleiding Vleesbereider kan voor traaglerende cursisten 160 lestijden omvatten, waarbij de module Ontvangstcontrole en voorraadbeheer slagerij 80 lestijden omvat;<br>
 f) de opleiding Vleesbewerker kan voor traaglerende cursisten 240 lestijden omvatten, waarbij de module Ontvangstcontrole en voorraadbeheer slagerij 80 lestijden omvat;<br>
-g) de opleiding Wild- en Gevogelteslager kan voor traaglerende cursisten bij een maximale afwijking 760 lestijden omvatten, waarbij de module Aankoop-, verkoop- en voorraadbeheer slagerij en de module Ontvangstcontrole en panklaar maken wild en gevogelte elk 80 lestijden omvatten en de module Stage wild- en gevogelteslagerij 240 lestijden omvat;<br>
+g) de opleiding Wild- en Gevogelteslager kan voor traaglerende cursisten bij een maximale afwijking 760 lestijden omvatten, waarbij de module Aankoop-, verkoop- en voorraadbeheer slagerij en de module Ontvangstcontrole en panklaar maken wild en gevogelte elk 80 lestijden omvatten en de module Stage wild- en gevogelteslagerij 240 lestijden omvat en voor snel lerende cursisten 480 lestijden omvatten, waarbij de module Stage Wild- en Gevogelteslagerij 40 lestijden omvat;<br>
 3° voor het studiegebied horeca :<br>
-a) de opleiding Medewerker Fastfood kan voor traag lerende cursisten 240 lestijden omvatten, waarbij de modules Werken in de spoelkeuken, Klassieke fastfoodgerechten en Trendy fastfoodgerechten elk 120 lestijden omvatten;<br>
+a) de opleiding Medewerker Fastfood kan voor traag lerende cursisten 240 lestijden omvatten, waarbij de modules Klassieke fastfoodgerechten en Trendy fastfoodgerechten elk 120 lestijden omvatten;<br>
 b) de opleiding Medewerker Spoelkeuken kan voor traag lerende cursisten 120 lestijden omvatten, waarbij de module Werken in de spoelkeuken 120 lestijden omvat.
 
 ### ART. 2.
