@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035096,
+  "title": "Decreet van 2020-12-11 houdende tweede aanpassing van de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2020",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035096/VolledigDocument?datum=2021-02-01",
+  "source_sha256": "b2d533682a94978d0798c77993e05e9299033a69897947de5b65fef02b182725",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035096&param=informatie",
+  "as_of": "2021-02-01",
+  "made": "2020-12-11",
+  "gazette": "2021-01-22",
+  "numac": 2021020076,
+  "document_start": "2021-02-01",
+  "document_end": null,
+  "in_force": "2021-02-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
