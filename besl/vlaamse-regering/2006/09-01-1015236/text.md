@@ -74,7 +74,7 @@ In het gewoon basisonderwijs :<br />1° worden de wervingsambten van administrat
 
 ### BIJLAGE V.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/10/16_1.pdf#page=55">Bijlage V</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/03/22_1.pdf#page=79">Bijlage V</a>
 
 ## BIJLAGE VI
 
