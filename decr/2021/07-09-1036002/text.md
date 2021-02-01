@@ -72,6 +72,10 @@ In het vijfde lid wordt verstaan onder Gemeenschappelijk Europees Referentiekade
 
 In artikel 88, § 1, van hetzelfde decreet, gewijzigd bij de decreten van 16 juni 2017 en 7 juli 2017, wordt punt d) opgeheven.
 
+### ART 127.
+
+In artikel 98, § 2, derde lid, 8°, van hetzelfde decreet, vervangen bij het decreet van 16 maart 2018, wordt tussen de zinsnede "1,875" en het woord "voor" de zinsnede "voor de geletterdheidsmodules Regie over het Eigen Leren," ingevoegd.
+
 ### ART 130.
 
 In artikel 106, § 1, 1°, van hetzelfde decreet, ingevoegd bij het decreet van 8 mei 2009, wordt punt d) opgeheven.
