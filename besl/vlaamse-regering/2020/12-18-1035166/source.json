@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035166,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-18 tot erkenning van het graduaat in het maatschappelijk werk als nieuwe opleiding van de Hogeschool West-Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035166/VolledigDocument?datum=2021-02-01",
+  "source_sha256": "47ef6697509f304832c8f1ef33f81f308e074c940118d3d616d8e1e84fd8f16e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035166&param=informatie",
+  "as_of": "2021-02-01",
+  "made": "2020-12-18",
+  "gazette": "2021-02-04",
+  "numac": 2021040086,
+  "document_start": "2021-02-01",
+  "document_end": null,
+  "in_force": "2021-02-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
