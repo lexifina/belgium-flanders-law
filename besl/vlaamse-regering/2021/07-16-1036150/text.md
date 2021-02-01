@@ -26,6 +26,14 @@ DE VLAAMSE REGERING BESLUIT:
 Aan artikel VI 26, § 1, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en vervangen bij het besluit van de Vlaamse Regering van 24 juni 2016, wordt de volgende zin toegevoegd:<br>
 "De adviseur met salarisschaal A218, A251 of A252 die overgeplaatst wordt naar de graad van adviseur, behoudt salarisschaal A218, A251 of A252.".
 
+### ART 5.
+
+Aan deel VI, titel 9 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 16 maart 2007, 23 mei 2008, 29 mei 2009 en 24 juni 2016, wordt een hoofdstuk 5, dat bestaat uit artikel VI 118ter, toegevoegd, dat luidt als volgt:<br>
+<br>
+"Hoofdstuk 5. Bijzondere bepalingen met betrekking tot de regeling van de rechtspositie van het personeel van de Vlaamse Informatie- en screeningsdienst op de lokale geloofsgemeenschappen<br>
+<br>
+Art. VI 118ter. Alleen de personen die beschikken over een veiligheidsmachtiging van het niveau "GEHEIM" uitgereikt door de Nationale Veiligheidsoverheid die niet ouder is dan vijf jaar, zoals bedoeld in de wet van 11 december 1998 betreffende de classificatie en de veiligheidsmachtigingen, veiligheidsattesten en veiligheidsadviezen, hebben toegang tot een functie bij de Vlaamse Informatie-en screeningsdienst op de lokale geloofsgemeenschappen.".
+
 ### ART 9.
 
 In artikel VII 20, § 2, 1°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 29 mei 2009, wordt de zinsnede "zoals bedoeld in artikel VII 6 § 2" vervangen door de zinsnede ", vermeld in artikel VII 6, § 2, § 2bis, § 2ter en § 3.".
