@@ -17,7 +17,10 @@
 10° team Jeugdhulpregie: het team, vermeld in artikel 17 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
 11° Intersectorale Regionale Prioriteitencommissie: het orgaan, vermeld in artikel 26, § 1, 5°, en in artikel 26, derde lid, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
 12° toegangspoort: het orgaan, vermeld in artikel 17 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
-13° multifunctioneel centrum: een multifunctioneel centrum als vermeld in artikel 1, 6°, van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap.<br>
+13° multifunctioneel centrum: een multifunctioneel centrum als vermeld in artikel 1, 6°, van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
+14° bijstandsorganisatie: een bijstandsorganisatie als vermeld in artikel 1, 2°, van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering;<br>
+15° hoogdrempelige individuele bijstand: hoogdrempelige individuele bijstand als vermeld in artikel 12, eerste lid, van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering;<br>
+16° Zorginspectie: Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.<br>
 <br>
 § 2. Binnen de kredieten die het agentschap hiervoor op zijn begroting heeft uitgetrokken, kan de toegangspoort voor minderjarigen en voor meerderjarigen die een voortzetting van de jeugdhulpverlening hebben gevraagd als vermeld in artikel 18, § 3 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, overeenkomstig de bepalingen van dit besluit aan de personen met een handicap een persoonlijk assistentiebudget toekennen.
 
@@ -81,26 +84,28 @@ Het maximumbedrag wordt, behalve bij combinatie met bijstand verleend door een v
 <br>
 § 5. De eerste inschaling neemt een aanvang op de eerste dag van de maand die volgt op de datum van de jeugdhulpverleningsbeslissing. Het uitstappen uit het PAB neemt een aanvang op de eerste dag van het kalenderkwartaal dat volgt op de datum van de jeugdhulpverleningsbeslissing.<br>
 <br>
-§ 6. De toekenning van het PAB vervalt als de persoonlijke assistent niet met het verlenen van persoonlijke assistentie is gestart ten laatste op de eerste dag van de vierde maand na de aanvangsdatum, vermeld in de beslissing tot toekenning van het PAB.<br>
+§ 6. De toekenning van het PAB vervalt als de budgethouder niet met de besteding van het PAB is gestart op de eerste dag van de vijfde maand die volgt op de maand van de aanvangsdatum van de eerste inschaling, vermeld in paragraaf 5.<br>
 <br>
-De budgethouder moet het bewijs leveren dat de persoonlijke assistent met het verlenen van assistentie is gestart. Hij kan dat doen door een overeenkomst als vermeld in artikel 12 te bezorgen, waaruit blijkt dat de assistentie een aanvang neemt op het tijdstip, vermeld in het eerste lid.<br>
+De budgethouder start met het besteden van het PAB als hij een overeenkomst als vermeld in artikel 12, § 1 of § 2, heeft gesloten en die overeenkomst conform artikel 12, § 3, heeft geregistreerd.<br>
 <br>
-Als de budgethouder het bestaan van overmacht aantoont kan&nbsp;het team Jeugdhulpregie de termijn, vermeld in het eerste&nbsp;lid, verlengen.<br>
+Als de budgethouder het bestaan van overmacht aantoont kan&nbsp;het agentschap de termijn, vermeld in het eerste&nbsp;lid, verlengen.<br>
 <br>
 De budgethouder opent een aparte rekening waarop de PAB-budgetten gestort worden en waarvan alle uitgaven met betrekking tot het PAB worden gedaan. Die rekening mag alleen gebruikt worden voor PAB-gerelateerde verrichtingen.<br>
 <br>
-§ 7. Met ingang van de eerste dag van de vierde maand van een aaneengesloten voltijds verblijf in een woonzorgcentrum met een bijkomende erkenning wordt de toekenning van het PAB opgeschort.<br>
-<br>
-De budgethouder deelt de opname in een woonzorgcentrum met een bijkomende erkenning mee aan het agentschap voor het einde van de eerste maand van het verblijf in het woonzorgcentrum met een bijkomende erkenning.<br>
+§ 7. ...<br>
 <br>
 § 8. Bij overlijden van de budgethouder ten behoeve van wie de assistentie werd ingekocht, kan maximaal een vierde van het maximumbedrag, vermeld in paragraaf 1, besteed worden aan verbrekingsvergoedingen ten voordele van de persoonlijke assistenten. Als aan de hand van kostenstaten bewezen wordt dat het maximumbedrag, vermeld in paragraaf 1, niet volstaat, kan het agentschap maximaal een vierde van dat maximumbedrag extra toekennen om de verbrekingsvergoedingen te betalen. Alleen bewijsbare kosten kunnen ten laste genomen worden.<br>
 <br>
 § 9. De toekenning van een PAB wordt in de volgende gevallen opgeschort:<br>
 1° de betrokken persoon met een handicap heeft een jeugdhulpverleningsbeslissing waarbij jeugdhulpverlening waarvoor de betrokken persoon met een handicap bij de toegangspoort is aangemeld, door een gemandateerde voorziening als vermeld in hoofdstuk 8, afdeling 2, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, wordt omgezet in een of meer modules niet rechtstreeks toegankelijke jeugdhulpverlening;<br>
 2° de betrokken persoon met een handicap heeft een jeugdhulpverleningsbeslissing waarbij jeugdhulpverlening waarvoor een verzoek van de jeugdrechter als vermeld in artikel 55 van het voormelde decreet, is ingediend bij de toegangspoort, wordt omgezet in een of meer modules niet rechtstreeks toegankelijke jeugdhulpverlening;<br>
-3° de betrokken persoon met een handicap is geplaatst door de jeugdrechter.<br>
+3° de betrokken persoon met een handicap is geplaatst door de jeugdrechter;<br>
+4° de betrokken persoon met een handicap verblijft tijdelijk in een residentiële setting voor een observatie en behandeltraject of voor crisisopvang.<br>
 <br>
-Het PAB wordt opgeschort met ingang van de eerste dag van de vierde maand die volgt op de aanvangsdatum, vermeld in jeugdhulpbeslissing, of die volgt op de aanvangsdatum van de plaatsing.
+Het PAB wordt opgeschort met ingang van de volgende dagen:<br>
+1° de eerste dag van de vierde maand die volgt op de maand van de aanvangsdatum, vermeld in jeugdhulpbeslissing, in de gevallen, vermeld in het eerste lid, 1° en 2° ;<br>
+2° de eerste dag van de vierde maand of de eerste dag die volgt op de aanvangsdatum van de plaatsing in het geval, vermeld in het eerste lid, 3° ;<br>
+3° de eerste dag van de vierde maand die volgt op de maand waarin het tijdelijke verblijf is gestart in het geval, vermeld in het eerste lid, 4°.
 
 ### ART. 8bis.
 
@@ -137,13 +142,7 @@ bedrag van het jaar x = (bedrag van het jaar x-1 x G-index december jaar x-1)/G-
 <br>
 Als het met toepassing van het eerste lid berekende bedrag voor het jaar x lager is dan het bedrag voor het jaar x-1, wordt de aanpassing van de bedragen, vermeld in het eerste lid, niet toegepast, maar verrekend met de volgende indexaanpassing. In dat geval worden de bedragen, vermeld in het eerste lid, van dat volgende jaar aangepast, rekening houdend met het feit dat de noemer van de breuk gevormd wordt door de noemer die gebruikt wordt voor de berekening van de bedragen van het voorgaande jaar.<br>
 <br>
-De Vlaamse minister, bevoegd voor de bijstand aan personen, kan, gedurende het eerste jaar van de effectieve aanwending van het PAB, de budgethoogte beperken tot 80% van de bedragen, vermeld in het eerste lid.<br>
-<br>
-Het derde lid is niet van toepassing op een PAB dat is toegekend met toepassing van artikel 8bis.<br>
-<br>
-§ 2. In afwijking van paragraaf 1 wordt het bedrag van de vergoedbare assistentie voor de budgethouders met een arbeidsovereenkomst die voldoet aan de voorwaarden, vermeld in artikel 12, eerste lid, 1°, verhoogd met 7% van de gemaakte en bewijsbare kosten van de arbeidsovereenkomst. De gemaakte en bewijsbare kosten kunnen niet hoger zijn dan het maximumbedrag, vermeld in paragraaf 1.<br>
-<br>
-Dit bedrag moet de budgethouder besteden aan vergoedbare assistentie als vermeld in artikel 10.<br>
+§ 2. Voor het eerste jaar van de toekenning van een PAB wordt het maximumbedrag dat is vastgesteld conform artikel 8, § 1, herrekend naar rato van de resterende dagen van het kalenderjaar.<br>
 <br>
 §3. Als de budgethouder een overeenkomst sluit als vermeld in artikel 12, §1, eerste lid, 1°, of §2, eerste lid, 1°, kan hij aanspraak maken op een verhoging van het maximumbedrag dat conform artikel 8, §1, is vastgesteld, geïndexeerd conform paragraaf 1, met maximaal 15,75% van de volgende kosten die verband houden met een arbeidsovereenkomst en die vermeld worden op de kostenstaten, vermeld in artikel 11/1, §2, eerste lid, die worden ingediend bij het agentschap:&nbsp;<br>
 1°&nbsp;&nbsp; &nbsp;brutolonen;<br>
@@ -152,17 +151,21 @@ Dit bedrag moet de budgethouder besteden aan vergoedbare assistentie als vermeld
 4°&nbsp;&nbsp; &nbsp;maaltijdcheques;<br>
 5°&nbsp;&nbsp; &nbsp;opzegvergoedingen.<br>
 <br>
-De verhoging van het maximumbudget, vermeld in het eerste lid, kan alleen worden aangewend voor de vergoeding van de kosten, vermeld in het eerste lid.</p>
+De verhoging van het maximumbudget, vermeld in het eerste lid, kan alleen worden aangewend voor de vergoeding van de kosten, vermeld in het eerste lid.<br>
+<br>
+§ 4. Als de budgethouder een overeenkomst sluit als vermeld in artikel 12, § 1, eerste lid, 1°, of § 2, eerste lid, 1°, betaalt het agentschap een tegemoetkoming voor de eindejaarspremie die is vastgesteld in de collectieve arbeidsovereenkomsten inzake de toekenning van een jaarlijkse eindejaarspremie die zijn afgesloten in het paritair comité 337. De Vlaamse minister, bevoegd voor de personen met een beperking, bepaalt de wijze waarop het bedrag van de tegemoetkoming wordt berekend en houdt daarbij rekening met het bedrag van de eindejaarspremie dat is vastgesteld binnen het paritair comité 337 en met de middelen die daarvoor op de begroting van het agentschap zijn ingeschreven.<br>
+<br>
+Het agentschap vraagt met het oog op de berekening en de betaling van de tegemoetkoming voor de eindejaarspremie, vermeld in het eerste lid, de volgende gegevens op bij de Rijksdienst voor de Sociale Zekerheid:<br>
+1° de identificatiegegevens van de budgethouders die overeenkomsten als vermeld in het eerste lid hebben gesloten;<br>
+2° de identificatiegegevens van de werknemers in kwestie en de gegevens over hun tewerkstelling.</p>
 
 ### ART. 10.
 
 § 1. Minstens 95% van de vergoedbare assistentie moet voor personeelskosten worden aangewend. Sociale en fiscale werkgeverslasten, alsook noodzakelijke verzekeringskosten en diverse kosten die met de arbeidssituatie verbonden zijn, opleidingen en wettelijk bepaalde kosten die verband houden met de inzet van vrijwilligers en de kosten die verband houden met de inzet van hoogdrempelige individuele bijstand als vermeld in artikel 12, eerste lid, van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering, worden ook als personeelskosten beschouwd. Alleen de personeelskosten die de persoon met een handicap met betrekking tot zijn assistentie heeft gemaakt en kan bewijzen, kunnen vergoed worden.<br>
 <br>
-De persoon met een handicap bewaart alle bewijsstukken, behalve die voor andere kosten dan personeelskosten waarvan het totale bedrag per jaar niet meer dan 500 euro bedraagt, gedurende een periode van zeven jaar thuis en legt ze voor op verzoek van het agentschap of een entiteit, belast met de inspectie.<br>
+Maximaal 5 % van de vergoedbare assistentie wordt aangewend voor andere kosten dan de personeelskosten, vermeld in het eerste lid. Die andere kosten hoeven niet bewezen te worden.<br>
 <br>
 Het agentschap bepaalt welke bewijsstukken de budgethouder op verzoek moet voorleggen ter staving van de kosten, vermeld in het eerste lid.<br>
-<br>
-Het agentschap stelt een model van kostenstaat ter beschikking dat de budgethouder bezorgt met vermelding van de bewijsbare kosten.<br>
 <br>
 § 2. Voor vergoeding komen de volgende categorieën van handelingen van een persoonlijke assistent in aanmerking:<br>
 1° praktische, inhoudelijke en organisatorische hulp en/of ondersteuning bij huishoudelijke en lichamelijke activiteiten en bij verplaatsingen;<br>
@@ -179,61 +182,79 @@ Het agentschap stelt een model van kostenstaat ter beschikking dat de budgethoud
 5° budgetbegeleiding;<br>
 6° de kosten van verplaatsingen met de wagen van de persoonlijke assistent en/of de budgethouder met uitzondering van woon- werkverkeer van de persoonlijke assistent, tewerkgesteld met een arbeidsovereenkomst als vermeld in artikel 12, eerste lid, 1°.<br>
 <br>
-§ 4. De combinatie van het PAB met bijstand, verleend door een multifunctioneel centrum voor minderjarige personen met een handicap, hierna MFC te noemen, of een flexibel aanbodcentrum voor meerderjarige personen met een handicap, hierna FAM te noemen, erkend door het agentschap, is niet mogelijk.<br>
+§ 4. Het is niet mogelijk om het PAB te combineren met bijstand die wordt verleend door een multifunctioneel centrum.<br>
 <br>
-In afwijking van het eerste lid is de combinatie van het PAB en de bijstand, bestaande uit dagondersteuning, schoolaanvullende dagopvang of schoolvervangende dagopvang, verleend door een FAM of een MFC, mogelijk, evenwel zonder dat de activiteiten van de assistent overlappen met de bijstand verleend door die voorzieningen. Het toegekende PAB wordt verminderd met het percentage dat het resultaat is van :<br>
-1° de verhouding tussen de kostprijs van volledige residentiële opvang in een internaat en de kostprijs van de bijstand verleend door een semi-internaat voor schoolgaanden als de persoon met een handicap het PAB combineert&nbsp;met schoolaanvullende dagopvang in een MFC;<br>
-2° de verhouding tussen de kostprijs van volledige residentiële opvang in een internaat en de kostprijs van de bijstand verleend door een semi-internaat voor niet-schoolgaanden, als de persoon met een handicap het PAB combineert met schoolvervangende dagopvang in een MFC;<br>
-3° de verhouding tussen de kostprijs van volledige residentiële opvang in een tehuis niet-werkenden nursing en een dagcentrum als de persoon met een handicap het PAB combineert met FAM-dagondersteuning en ondersteuningsveld z85, vermeld in het ministerieel besluit van 1 maart 2012 houdende vaststelling van de ondersteuningsvelden, toegekend heeft gekregen;<br>
-4° de verhouding tussen de kostprijs van volledige residentiële opvang in een tehuis niet-werkenden bezigheid en een dagcentrum als de persoon met een handicap het PAB combineert met FAM-dagondersteuning en ondersteuningsveld z85, vermeld in het ministerieel besluit van 1 maart 2012 houdende vaststelling van de ondersteuningsvelden, niet toegekend heeft gekregen.<br>
+In afwijking van het eerste lid is het mogelijk om het PAB te combineren met de bijstand die wordt verleend door een multifunctioneel centrum en die bestaat uit schoolaanvullende dagopvang of schoolvervangende dagopvang. De activiteiten van de assistent mogen daarbij niet overlappen met de bijstand die wordt verleend door het multifunctioneel centrum. Het toegekende PAB wordt verminderd met het percentage dat het resultaat is van:<br>
+1° de verhouding tussen de kostprijs van volledige residentiële opvang in een internaat en de kostprijs van de bijstand die wordt verleend door een semi-internaat voor schoolgaanden, als de persoon met een handicap het PAB combineert met schoolaanvullende dagopvang in een multifunctioneel centrum;<br>
+2° de verhouding tussen de kostprijs van volledige residentiële opvang in een internaat en de kostprijs van de bijstand die wordt verleend door een semi-internaat voor niet-schoolgaanden, als de persoon met een handicap het PAB combineert met schoolvervangende dagopvang in een multifunctioneel centrum.<br>
 <br>
-Met ingang van 1 januari 2014 wordt in het tweede lid verstaan onder kostprijs de kostprijs van het werkingsjaar 2014. Die kostprijs wordt ook gehanteerd voor de berekeningen vanaf 1 januari 2015.<br>
+De kostprijs, vermeld in het tweede lid, is de kostprijs van het werkingsjaar 2014.<br>
 <br>
-In afwijking van het eerste lid kan een persoon met een handicap aan wie een PAB is toegekend met toepassing van het protocol noodsituatie, vermeld in artikel 20 van het besluit van de Vlaamse Regering van 17 maart 2006 betreffende de regie van de zorg en bijstand tot sociale integratie van personen met een handicap en betreffende de erkenning en subsidiëring van een Vlaams Platform van verenigingen van personen met een handicap, bijstand krijgen verleend door een voorziening voor opvang, behandeling en begeleiding van personen met een handicap. In dat geval wordt de gemiddelde kostprijs van de ondersteuning die geboden wordt in een noodsituatie, vermeld in hoofdstuk III van het besluit van de Vlaamse Regering van 27 maart 2009 houdende de wijze van subsidiëring door het Vlaams Agentschap voor Personen met een Handicap van de opvang van personen met een handicap in een noodsituatie, in mindering gebracht van het toegekende PAB.<br>
+§ 5. In deze paragraaf wordt verstaan onder kortdurend: gedurende maximaal 92 dagen gedurende een kalenderjaar, al dan niet aaneensluitend.<br>
 <br>
-Eveneens in afwijking van het eerste lid is de combinatie van het PAB met de bijstand bestaande uit kortdurende woon- of dagondersteuning van een FAM of kortdurende modules verblijf in een MFC of in het kader van logeerfunctie mogelijk in die zin dat het PAB kan worden aangewend om de verleende bijstand te vergoeden. Die combinatie is alleen mogelijk voor zover de bijstand, verleend door de voorziening, niet al wordt vergoed krachtens andere reglementeringen inzake de maatschappelijke integratie van personen met een handicap.<br>
+In afwijking van paragraaf 4, eerste lid, is het mogelijk om het PAB te combineren met de bijstand die bestaat uit kortdurend verblijf in een MFC, in die zin dat het PAB kan worden aangewend om de verleende bijstand te vergoeden. Die combinatie is alleen mogelijk als de bijstand, verleend door het multifunctioneel centrum, niet al wordt vergoed krachtens andere reglementeringen op het gebied van de maatschappelijke integratie van personen met een handicap.<br>
 <br>
-Onverminderd de bepalingen van § 3 is combinatie mogelijk van het PAB met&nbsp;ziekenhuizen, revalidatiecentra en voorzieningen inzake welzijn, tewerkstelling, beroepsopleiding of vrijetijdsbesteding die door de federale, communautaire of regionale overheden gesubsidieerd worden mogelijk. De combinatie van het PAB met residentiële en semi-residentiële voorzieningen die door de federale, communautaire of regionale overheden worden gesubsidieerd is evenwel alleen mogelijk voor zover het voorzieningen betreft die een soortgelijke ondersteuning bieden als de voorzieningen, vermeld in het tweede of vierde lid.<br>
+Het PAB kan worden aangewend om kortdurende woonondersteuning of kortdurende dagondersteuning te vergoeden die wordt verleend door een van de volgende zorgaanbieders:<br>
+1° een zorgaanbieder die door het agentschap is vergund conform het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap;<br>
+2° een zorgaanbieder die geregistreerd is bij het agentschap conform artikel 7, eerste lid, 3°, van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders.<br>
 <br>
-Als de combinatie een kortverblijf binnen&nbsp;een woonzorgcentrum, met of zonder bijkomende erkenning betreft, wordt het PAB verminderd met het gemiddelde bedrag van de kosten van kortdurende woon- of dagondersteuning van een FAM.<br>
+Het PAB kan ook worden aangewend om kortdurende dagondersteuning die wordt geboden door groene zorginitiatieven als vermeld in artikel 7, tweede lid, van het voormelde besluit van 24 juni 2016, die bij het agentschap geregistreerd zijn, te vergoeden.<br>
 <br>
-Als de combinatie een kortverblijf in een niet door de overheid gesubsidieerd&nbsp;woonzorgcentrum zonder bijkomende erkenning of een woonzorgcentrum met een bijkomende erkenning betreft, worden de bewezen kosten verminderd met de eigen bijdrage, in rekening gebracht als personeelskost, vermeld in paragraaf 1.<br>
+Het PAB kan worden aangewend om maximaal 36 mobiele begeleidingen als vermeld in artikel 1, 5°, van het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap, of maximaal 51 ambulante begeleidingen als vermeld in artikel 1, 2°, van het voormelde besluit, te vergoeden per kalenderjaar als ze worden geboden door een multifunctioneel centrum of door een zorgaanbieder als vermeld in het derde lid, 1°.&nbsp;<br>
 <br>
-De combinatie van het PAB met een typemodule binnen de pleegzorg als vermeld in hoofdstuk 2, afdeling 1, van het besluit van de Vlaamse Regering van 8 november 2013 houdende de organisatie van pleegzorg is mogelijk, evenwel zonder dat de activiteiten van de assistent overlappen met de bijstand verleend binnen de pleegzorg.
+§ 6. Met behoud van de toepassing van paragraaf 3 is het mogelijk om het PAB te combineren met ziekenhuizen, revalidatiecentra en voorzieningen voor welzijn, tewerkstelling, beroepsopleiding of vrijetijdsbesteding die door de federale of regionale overheden gesubsidieerd worden, als het voorzieningen betreft die een soortgelijke ondersteuning bieden als de ondersteuning, vermeld in paragraaf 4, tweede lid.<br>
+<br>
+Het is mogelijk om het PAB te combineren met een typemodule binnen de pleegzorg als vermeld in hoofdstuk 2, afdeling 1, van het besluit van de Vlaamse Regering van 8 november 2013 houdende de organisatie van pleegzorg. De activiteiten van de assistent mogen echter niet overlappen met de bijstand die wordt verleend binnen de pleegzorg.
 
 ### ART. 11.
 
-§ 1. Per kwartaal stelt het agentschap bij wijze van voorschot een vierde   van het krachtens artikel 8, § 1 bedoelde maximumbedrag   beschikbaar.<BR><BR>Jaarlijks of bij het beëindigen van de periode van   toekenning van het PAB zullen uitbetaalde voorschotten voor niet-gemaakte kosten   en niet-bewijsbare personeelskosten teruggevorderd of in mindering gebracht   worden. <BR><BR>Te rekenen vanaf de datum dat alle overeenkomstig artikel 10, §   1, vierde lid, voor de afrekening vereiste kostenstaten aan het agentschap   bezorgd zijn, en op zijn vroegst vanaf 1 januari van het jaar dat volgt op het   jaar waarop het PAB betrekking heeft, bedraagt de maximale afhandelingstermijn   door het agentschap vanaf 1 januari 2010 twintig maanden. Vanaf 1 januari 2011   bedraagt die maximale afhandelingstermijn door het agentschap zestien maanden.   Vanaf 1 januari 2012 bedraagt de maximale afhandelingstermijn door het   agentschap één jaar.<BR><BR>§ 2. Het agentschap stelt de nadere regels vast   inzake het beschikbaar stellen en uitbetalen van het PAB aan de   budgethouder.
+...
 
 ### ART. 11/1.
 
-§ 1. Het agentschap kent een terugvorderbaar voorschot toe dat maximaal vijf twaalfden bedraagt van het maximumbedrag dat conform artikel 8, § 1, is vastgesteld. Het terugvorderbaar voorschot wordt niet aangerekend op het PAB van de budgethouder.<br>
+§ 1. De budgethouders ontvangen bij de opstart van het PAB een terugvorderbaar voorschot ten bedrage van drie twaalfden van het maximumbedrag dat conform artikel 8, § 1, is vastgesteld, nadat ze een overeenkomst als vermeld in artikel 12, § 1 of § 2, sluiten en die overeenkomst conform artikel 12, § 3, hebben geregistreerd.<br>
 <br>
-Als het maximumbedrag dat conform artikel 8, § 1, is vastgesteld, verminderd wordt conform artikel 10, § 4, tweede lid, wordt het terugvorderbaar voorschot verminderd tot vijf twaalfden van het verminderde maximumbedrag..<br>
+Als het maximumbedrag dat conform artikel 8, § 1, is vastgesteld, verminderd wordt conform artikel 10, § 4, tweede lid, wordt het terugvorderbaar voorschot verminderd tot drie twaalfden van het verminderde maximumbedrag.<br>
 <br>
-§ 2. ...<br>
+Het terugvorderbaar voorschot wordt niet aangerekend op het PAB.<br>
 <br>
-§ 3. Het agentschap past het terugvorderbaar voorschot bij binnen dertig dagen na ontvangst van de kostenstaat voor de bewijsbare kosten die erop vermeld staan. De budgethouder mag maximaal zes kostenstaten per jaar indienen. Het agentschap kan hetterugvorderbaar voorschot maximaal zes keer per kalenderjaar bijpassen.<br>
+Het terugvorderbaar voorschot wordt bij de beëindiging van de toekenning van het PAB aan het agentschap terugbetaald.<br>
 <br>
-Kostenstaten die betrekking hebben op het vorige jaar, worden vóór 1 maart van het lopende jaar ingediend. Kostenstaten die laattijdig bij het agentschap ingediend worden, komen niet voor vergoeding in aanmerking.<br>
+§ 2. De budgethouders delen de kosten die ze maken in het kader van de besteding van het PAB mee aan het agentschap met een kostenstaat. Het agentschap stelt een model van kostenstaat ter beschikking. Nadat het agentschap die kostenstaat heeft ontvangen, betaalt het de kosten, vermeld op de kostenstaat, als aan de voorwaarden, vermeld in artikel 10 is voldaan en als voor de kosten, vermeld in artikel 10, § 1, eerste lid, een overeenkomst als vermeld in artikel 12, § 1 of § 2, is geregistreerd conform artikel 12, § 3.<br>
 <br>
-Toepassing van dit artikel kan er niet toe leiden dat het toegekende PAB op jaarbasis overschreden wordt.<br>
+Het agentschap betaalt de bedragen, vermeld op de kostenstaten, tot het maximumbedrag per kalenderjaar, dat is vastgesteld conform artikel 8, § 1, geïndexeerd conform artikel 9, § 1, en in voorkomend geval verminderd conform artikel 10, § 4, tweede lid, is opgebruikt.<br>
 <br>
-§ 4. Het agentschap bepaalt de nadere regels voor het ter beschikking stellen van het terugvorderbaar voorschot en het in aanmerking nemen van de kostenstaten.
+De kostenstaten voor een kalenderjaar worden uiterlijk op 1 april van het volgende kalenderjaar aan het agentschap bezorgd. De kosten, die op de kostenstaten zijn vermeld, die na die datum worden ingediend, worden niet betaald.<br>
+<br>
+In afwijking van het derde lid kan de budgethouder in uitzonderlijke gevallen en na akkoord van het agentschap tot maximaal twee jaar na de datum, vermeld in het derde lid, kostenstaten indienen voor bijkomende kosten.
 
 ## HOOFDSTUK V VERHOUDING BUDGETHOUDER - PERSOONLIJKE ASSISTENT
 
 ### ART. 12.
 
-De budgethouder is opdrachtgever van de persoonlijke assistent en sluit in die hoedanigheid een overeenkomst inzake de persoonlijke assistentie af. Die overeenkomst kan de vorm aannemen van:<br>
+§ 1. De budgethouder is opdrachtgever van de persoonlijke assistent en sluit in die hoedanigheid een overeenkomst over de persoonlijke assistentie af. Die overeenkomst kan de vorm aannemen van een van de volgende overeenkomsten:<br>
 1° een arbeidsovereenkomst tussen de budgethouder en de persoonlijke assistent, waarbij de budgethouder als werkgever voldoet aan de fiscale en sociaal-rechterlijke verplichtingen In de voormelde verplichtingen zijn de bepalingen over het minimumloon en de bepalingen over de eindejaarspremie zoals vastgesteld binnen het paritair comité 337, en de bepalingen over verplaatsingen, zoals vastgesteld binnen het paritair sub comité 319.01, inbegrepen;<br>
-2° een overeenkomst, waarbij wordt voorzien in zijn persoonlijke assistentie, die de budgethouder sluit met een uitzend-kantoor, een zelfstandig dienstverlener of met een voorziening of instelling, die een verklaring op erewoord aan het agentschap voorlegt, waarin staat dat de activiteiten die in het kader van deze overeenkomst worden verricht niet reeds door de federale, communautaire, regionale of lokale overheden worden gesubsidieerd;<br>
-3° een overeenkomst inzake de persoonlijke assistentie die afgesloten wordt met een familielid dat tot de tweede graad verwant is of met een persoon die deel uitmaakt van het gezin van de budgethouder;<br>
-4° een overeenkomst met een voorziening voor opvang, behandeling en begeleiding van personen met een handicap met het oog op het verlenen van ondersteuning in de vorm van logeerfunctie of kortverblijf.<br>
+2° een overeenkomst, waarbij wordt voorzien in de persoonlijke assistentie van de budgethouder, die de budgethouder sluit met een uitzendkantoor, een zelfstandig dienstverlener of met een voorziening of instelling, die een verklaring op erewoord aan het agentschap voorlegt, waarin staat dat de activiteiten die in het kader van die overeenkomst worden verricht, niet al door de federale, communautaire, regionale of lokale overheden worden gesubsidieerd;<br>
+3° een overeenkomst over de persoonlijke assistentie die gesloten wordt met een familielid dat tot de tweede graad verwant is of met een persoon die deel uitmaakt van het gezin van de budgethouder;<br>
+4° een overeenkomst over de persoonlijke assistentie met een organisatie die vrijwilligers ter beschikking stelt.<br>
 <br>
-De budgethouder moet deze overeenkomsten aan het agentschap bezorgen.<br>
+Naast de overeenkomsten, vermeld in het eerste lid, kan de budgethouder in het kader van de besteding van het PAB ook de volgende overeenkomsten sluiten:<br>
+1° een overeenkomst met een aanbieder van zorg en ondersteuning die vergund of erkend is door het agentschap of geregistreerd is bij het agentschap over het bieden van ondersteuning als vermeld in artikel 10, § 5;<br>
+2° een overeenkomst met een bijstandsorganisatie over het verlenen van hoogdrempelige individuele bijstand.<br>
 <br>
-Minderjarigen kunnen alleen tewerkgesteld worden als persoonlijke assistent met een overeenkomst voor tewerkstelling van studenten als vermeld in de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten. Bovendien komen die overeenkomsten alleen in aanmerking voor vergoeding in het kader van het PAB als de persoonlijke assistent geen bloed- of aanverwant is tot de tweede graad, noch deel uitmaakt van het gezin van de budgethouder of van de persoon met een handicap voor wie het PAB werd toegekend. De budgethouder moet als werkgever voldoen aan alle fiscale en sociaal rechtelijke verplichtingen, daarin inbegrepen de bepalingen over het minimumloon en verplaatsingen, zoals vastgesteld binnen het paritair comité 319.01.
+§ 2. Minderjarigen kunnen alleen persoonlijke assistentie verlenen in het kader van de volgende overeenkomsten:<br>
+1° een overeenkomst voor tewerkstelling van studenten als vermeld in Titel VII van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten. De budgethouder voldoet als werkgever aan alle fiscale en sociaalrechtelijke verplichtingen, daarin inbegrepen de bepalingen over het minimumloon en verplaatsingen, zoals vastgesteld binnen het paritair comité 319.01 en de bepalingen over de eindejaarspremie zoals vastgesteld binnen het paritair comité 337;<br>
+2° een overeenkomst als vermeld in paragraaf 1, eerste lid, 4°.<br>
+<br>
+Vóór de ingangsdatum van een overeenkomst als vermeld in het eerste lid, 1°, de budgethouder het schriftelijke bewijs van de machtiging door een ouder of de voogd, vermeld in artikel 43 van de wet van 3 juli 1978 betreffende arbeidsovereenkomsten, aan het agentschap. De budgethouder bezorgt een machtiging door een ouder of de voogd aan het agentschap voor de ingangsdatum van de overeenkomst, vermeld in het eerste lid, 2°. Het agentschap stelt een model voor de machtigingen ter beschikking.<br>
+<br>
+§ 3. De budgethouders registreren voor alle overeenkomsten die ze hebben gesloten de volgende gegevens, op de wijze die het agentschap bepaalt:<br>
+1° de identificatiegegevens van de budgethouder;<br>
+2° de identificatiegegevens van de natuurlijke persoon of rechtspersoon die ondersteuning biedt;<br>
+3° de startdatum en de duur van de overeenkomst;<br>
+4° de ondersteuning, vermeld in artikel 10, § 2, of § 5, die wordt geboden of de vermelding dat de overeenkomst over hoogdrempelige individuele bijstand gaat;<br>
+5° de kostprijs per prestatie-eenheid;<br>
+6° een beschrijving van de ondersteuning die wordt geboden
 
 ### ART. 13.
 
@@ -241,19 +262,17 @@ De in artikel 12 bedoelde overeenkomst bevat minstens:<BR>1° de identiteit   va
 
 ### ART 13/1.
 
-Aan iedere budgethouder die start met het PAB-budget, verleent het agentschap boven op het toegekende PAB-budget een aanvullende subsidie van 150 euro om een verkennend gesprek te voeren met een bijstandsorganisatie als vermeld in artikel 1, 2°, van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering.<br>
+Aan iedere budgethouder die start met het PAB-budget, verleent het agentschap boven op het toegekende PAB-budget een aanvullende subsidie van 170 euro om een verkennend gesprek te voeren met een bijstandsorganisatie.<br>
 <br>
-Het subsidiebedrag, vermeld in het tweede lid, wordt betaald aan de bijstandsorganisaties en wordt vanaf 1 januari 2008 jaarlijks aangepast overeenkomstig artikel 18, § 2.
+Het subsidiebedrag, vermeld in het eerste lid, wordt betaald aan de bijstandsorganisaties en wordt vanaf 1 januari 2022 jaarlijks aangepast, rekening houdend met het indexcijfer der consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule: (basisbedrag jaar x-1) x (G-index december jaar x-1)/G-index december jaar x-2.". Het bedrag dat wordt verkregen, wordt rekenkundig afgerond tot op de euro.).
 
 ### ART 13/2.
 
 Iedere budgethouder ontvangt van het agentschap een bedrag van 50 euro boven op het toegekende PAB.<br>
 <br>
-De budgethouder kan het bedrag van 50 euro, vermeld in het eerste lid, aanwenden voor het betalen van het lidgeld van de bijstandsorganisatie, die vergund is door het agentschap waarvan hij lid wordt.<br>
+De budgethouder kan het bedrag van 50 euro, vermeld in het eerste lid, aanwenden voor het betalen van het lidgeld van de bijstandsorganisatie.<br>
 <br>
-Als de budgethouder geen lid wordt van een bijstandsorganisatie kan hij het bedrag van 50 euro, vermeld in het eerste lid, besteden aan vergoedbare assistentie overeenkomstig artikel 10.<br>
-<br>
-Het subsidiebedrag, vermeld in het eerste lid, wordt vanaf 1 januari 2008 jaarlijks aangepast overeenkomstig artikel 18, § 2.
+Als de budgethouder geen lid wordt van een bijstandsorganisatie kan hij het bedrag van 50 euro, vermeld in het eerste lid, besteden aan vergoedbare assistentie overeenkomstig artikel 10.
 
 ## HOOFDSTUK VI [... (opgeh. BVR 15 december 2017, art. 9, I: 1 januari 2017)]
 
@@ -291,15 +310,42 @@ Het subsidiebedrag, vermeld in het eerste lid, wordt vanaf 1 januari 2008 jaarli
 
 ### ART. 19.
 
-De personeelsleden van het bevoegde agentschap controleren&nbsp;of de bepalingen van dit besluit worden nageleefd.
+Zorginspectie controleert ter plaatse of op basis van documenten of de bepalingen, vermeld in dit besluit, worden nageleefd.<br>
+<br>
+De budgethouders verlenen hun medewerking aan de uitoefening van het toezicht door Zorginspectie.
 
 ### ART. 19bis.
 
-Als uit de vaststellingen, uitgevoerd overeenkomstig artikel 19, blijkt   dat het PAB werd aangewend buiten de toepassing van dit besluit, kan de   administrateur-generaal van het agentschap overgaan tot de terugvordering,   vermindering of opschorting van het PAB, of tot de stopzetting ervan. De   administrateur-generaal houdt bij het nemen van die maatregel rekening met de   omvang en de frequentie van de vastgestelde overtredingen.<BR><BR>Als   vastgesteld wordt dat een budgethouder herhaaldelijk nalaat de vereiste   kostenstaten of de door het agentschap of een entiteit, belast met inspectie,   gevraagde bewijsstukken tijdig in te dienen, kan de administrateur-generaal hem   verplichten tot intensieve ondersteuning door een budgethoudersvereniging of   zorgconsulent. Als de budgethouder niet ingaat op die verplichting, zet de   administrateur-generaal het PAB stop. Het PAB wordt in dat geval voortgezet als   de budgethouder een wettelijke vertegenwoordiger toegekend heeft   gekregen.<BR><BR>Om de budgethouder toe te laten de wettelijk verplichte   opzegvergoedingen te betalen, kan de budgethouder, na stopzetting van de   toekenning van het PAB, niettemin een bedrag betaald krijgen dat overeenstemt   met de toepasselijke opzegvergoeding voor maximaal zes maanden. De totale door   het agentschap uitbetaalde som mag niet meer bedragen dan het toegekende   budget.
+§ 1. Als Zorginspectie of het agentschap vaststelt dat niet is voldaan aan de voorwaarden, vermeld in artikel 10, § 1 tot en met § 3, brengt het agentschap de budgethouder daarvan op de hoogte en informeert het de budgethouder over de aard van de niet-conformiteit.<br>
+<br>
+Na twee vaststellingen van niet-conformiteit als vermeld in het eerste lid, binnen een periode van drie maanden, kan het agentschap de betrokken budgethouder verwijzen naar een bijstandsorganisatie. De budgethouder sluit een overeenkomst met een bijstandsorganisatie waarin wordt voorzien in vier sessies hoogdrempelige individuele bijstand. De bijstand die wordt geboden door de bijstandsorganisatie, wordt vergoed met het PAB.<br>
+<br>
+De budgethouder registreert de overeenkomst conform artikel 12, § 3. De bijstandsorganisatie informeert het agentschap over de bijstand die is verleend.<br>
+<br>
+§ 2. Als de budgethouder geen overeenkomst als vermeld in paragraaf 1, tweede lid, sluit of als het agentschap of Zorginspectie opnieuw twee keer vaststelt dat niet is voldaan aan de voorwaarden, vermeld in artikel 10, § 1 tot en met § 3, of artikel 12, kan het agentschap beslissen dat de budgethouder zich gedurende een periode van maximaal twee jaar laat bijstaan door een bijstandsorganisatie voor:<br>
+1° de opmaak van een overeenkomst als vermeld in artikel 12;<br>
+2° de registratie van die overeenkomsten conform artikel 12, § 3;<br>
+3° de opmaak en mededeling van de kostenstaten, vermeld in artikel 11/1, § 2, eerste lid.<br>
+<br>
+Het agentschap informeert de budgethouder over de beslissing, vermeld in het eerste lid.<br>
+<br>
+De budgethouder sluit een overeenkomst met een bijstandsorganisatie over het verlenen van hoogdrempelige individuele bijstand, die wordt vergoed met het PAB. De budgethouder registreert de overeenkomst conform artikel 12, § 3.<br>
+<br>
+§ 3. Als de budgethouder geen overeenkomst sluit als vermeld in paragraaf 2, derde lid, binnen twee maanden vanaf de datum van de beslissing van het agentschap, vermeld in paragraaf 2, eerste lid, vervalt de toekenning van het PAB.
+
+### ART 19ter.
+
+Als Zorginspectie of het agentschap vaststelt dat niet is voldaan aan de voorwaarden, vermeld in artikel 10, § 4 tot en met § 6, brengt het agentschap de budgethouder op de hoogte van de vaststelling van de niet-toegelaten combinatie. Als de budgethouder die niet-toegelaten combinatie niet heeft beëindigd binnen drie maanden vanaf de dag na de mededeling van het agentschap over die niet-toegelaten combinatie, wordt de toekenning van het PAB stopgezet, behalve in de gevallen, vermeld in artikel 8, § 9.
+
+### ART 19quater.
+
+Om de budgethouder toe te laten de wettelijk verplichte opzegvergoedingen te betalen, kan de budgethouder, na de stopzetting van de toekenning van het PAB, conform artikel 19bis, § 3, of artikel 19ter, aanspraak maken op een bedrag dat overeenstemt met de toepasselijke opzegvergoeding voor maximaal zes maanden. De totale som die het agentschap uitbetaalt, mag niet meer bedragen dan het toegekende PAB.<br>
+<br>
+Met behoud van de toepassing van artikel 19bis of artikel 19ter kan het agentschap de kosten die terugbetaald zijn aan de budgethouder, terugvorderen als vastgesteld wordt dat niet is voldaan aan de voorwaarden, vermeld in artikel 10 of in artikel 12.
 
 ### ART. 20.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen, benoemt een onafhankelijke des-kundigencommissie met een of meerdere kamers van 5 personen die de in artikel 2 en 8 bedoelde beslissingen neemt, en regelt de werking van deze commissie. Deze deskundigencommissie is multidisciplinair samengesteld en omvat minstens een ambtenaar van het agentschap en een ervaringsdeskundige. Voor elk lid van de deskundigencommissie wordt een plaatsvervanger benoemd.
+...
 
 ## HOOFDSTUK IX SPECIFIEKE BEPALINGEN
 
