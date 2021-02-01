@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035518,
+  "title": "Besluit van de Vlaamse Regering van 2021-04-23 tot vaststelling van de regels voor de toekenning van een subsidie aan de verstrekkers van mobiliteitshulpmiddelen en aan de ondernemingen in opdracht waarvan de verstrekkers van mobiliteitshulpmiddelen werken, om bepaalde kosten ten gevolge van de COVID-19-epidemie te vergoeden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035518/VolledigDocument?datum=2021-02-01",
+  "source_sha256": "41cfa920df7a9aa9d5675be5bb65c875082e43c93291d44d30003ff134e8cb5e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035518&param=informatie",
+  "as_of": "2021-02-01",
+  "made": "2021-04-23",
+  "gazette": "2021-05-05",
+  "numac": 2021031318,
+  "document_start": "2021-02-01",
+  "document_end": null,
+  "in_force": "2021-02-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2021-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
