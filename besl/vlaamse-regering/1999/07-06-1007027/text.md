@@ -158,7 +158,58 @@ De opstartkosten alsook de kosten die betrekking hebben op de herstructurering v
 
 ### ART. 34.
 
-§ 1. De materiële vaste activa betreffen de activa die eigendom zijn van de scholengroepen of van het centrale niveau en die duurzaam voor de werking worden aangewend, alsmede andere zakelijke rechten die de scholengroepen of het centrale niveau bezitten en die duurzaam worden gebruikt voor de werking, wanneer de vergoedingen bij aanvang van het contract werden vooruitbetaald.<br /><br />De materiële vaste activa omvatten:<br /><br />1° terreinen en gebouwen;<br /><br />2° installaties, machines en uitrusting,<br /><br />3° meubilair en materieel;<br /><br />4° vaste activa in leasing of op grond van een soortgelijk recht;<br /><br />5° vaste activa in aanbouw, vooruitbetalingen en andere.<br /><br />§ 2. De vervaardigingsprijs van eigen geproduceerde vaste activa omvat naast de kosten van de materialen en arbeid ook alle andere kosten die direct toerekenbaar zijn aan dit actief.<br /><br />Onrechtstreekse productiekosten worden niet opgenomen in de vervaardigingsprijs.<br /><br />§ 3. Kosten ten gevolge van verbetering en onderhoud van materiële vaste activa mogen geactiveerd worden op voorwaarde dat deze meer dan 50 % van de vervangingswaarde van het oorspronkelijk actief bedragen en deze kosten verondersteld worden:<br /><br />1° de capaciteit te verhogen en/of;<br /><br />2° de technische mogelijkheden te verbeteren en/of;<br /><br />3° de oorspronkelijke geschatte levensduur te verlengen en/of;<br /><br />4° het actief in overeenstemming te brengen met veiligheidsvoorschriften en/of milieureglementeringen.<br /><br />Courante onderhouds- en herstellingswerken worden volledig ten laste van de resultatenrekening genomen in het jaar dat ze werden uitgevoerd.<br /><br />§ 4. Materiële vaste activa moeten op individuele basis minimaal vanaf [500 euro (verv. B.V.R. 28 juni 2002, art. 1, I: 1 januari 2001)] geactiveerd worden.<br /><br />(Het B.V.R. van 22 februari 2002, dat vóór het B.V.R. van 28 juni 2002 werd gepubliceerd heeft het bedrag van 50 000 BEF door 1250 _ vervangen m.i.v. 1 januari 2002. Vermoedelijk was het de bedoeling het bedrag van 500 _ slechts 1 jaar te laten gelden tussen 1 januari 2001 en 1 januari 2002)<br /><br />§ 5. Voor vruchtgebruik, erfdienstbaarheden en erfpacht wordt verwezen naar de gangbare boekhoudkundige verwerking hiervan.<br /><br />§ 6. De afschrijvingen voor activa in leasing en de afschrijvingen voor de inrichting van gehuurde gebouwen worden gespreid over dezelfde duur als die welke worden toegepast voor een overeenkomstig materieel vast activum in eigendom.<br /><br />§ 7. Volgende afschrijvingspercentages dienen toegepast te worden:<br /><br />- vaste gebouwen: 3 %<br /><br />- semi-permanente gebouwen: 4 %<br /><br />- voorlopige paviljoenen: 10 %<br /><br />- machines en installaties: 6,6 %<br /><br />- meubilair: 6,6 %<br /><br />- bussen: 8,3 %<br /><br />- (rollend) materieel ander dan bussen: 20 %<br /><br />- computer hardware en software: 33 %<br /><br />[- telematica: 10 %  <span class="reference">(ing. B.V.R. 19 november 2004, art. 2, I: 1 januari 2005)</span> ]<br /><br />§ 8. Materiële vaste activa kunnen geherwaardeerd worden wanneer blijkt dat de marktwaarde op een duurzame wijze hoger zou liggen dan de boekwaarde. Deze correctie wordt geboekt tegenover de rubriek herwaarderingsmeerwaarden op de passiefzijde van de balans.<br /><br />Deze herwaarderingsmeerwaarden worden afgeschreven over de resterende levensduur van het actiefbestanddeel rechtstreeks tegenover de initiële geboekte meerwaarde op de balans. Bij een latere waardevermindering mag de herwaarderingsmeerwaarde worden afgeboekt tot beloop van het nog niet afgeschreven gedeelte van de meerwaarde.<br /><br />Herwaarderingsmeerwaarden kunnen niet geïncorporeerd worden in het kapitaal of in de reserves.
+§ 1. De materiële vaste activa betreffen de activa die eigendom zijn van de scholengroepen of van het centrale niveau en die duurzaam voor de werking worden aangewend, alsmede andere zakelijke rechten die de scholengroepen of het centrale niveau bezitten en die duurzaam worden gebruikt voor de werking, wanneer de vergoedingen bij aanvang van het contract werden vooruitbetaald.<br>
+<br>
+De materiële vaste activa omvatten:<br>
+1° terreinen en gebouwen;<br>
+2° installaties, machines en uitrusting,<br>
+3° meubilair en materieel;<br>
+4° vaste activa in leasing of op grond van een soortgelijk recht;<br>
+5° vaste activa in aanbouw, vooruitbetalingen en andere.<br>
+<br>
+§ 2. De vervaardigingsprijs van eigen geproduceerde vaste activa omvat naast de kosten van de materialen en arbeid ook alle andere kosten die direct toerekenbaar zijn aan dit actief.<br>
+<br>
+Onrechtstreekse productiekosten worden niet opgenomen in de vervaardigingsprijs.<br>
+<br>
+§ 3. Uitgaven voor verbetering en onderhoud van materiële vaste activa met uitzondering van infrastructuurwerken worden geactiveerd op voorwaarde dat ze meer dan 50% van de vervangingswaarde van het oorspronkelijke actief bedragen en die uitgaven voor een of meer van de volgende doelstellingen worden gedaan:<br>
+1° de capaciteit verhogen;<br>
+2° de technische mogelijkheden verbeteren;<br>
+3° de oorspronkelijke geschatte levensduur verlengen;<br>
+4° het actief in overeenstemming brengen met veiligheidsvoorschriften of milieureglementeringen.<br>
+<br>
+De uitgaven, vermeld in het eerste lid, mogen niet geactiveerd worden als ze 50% of minder van de vervangingswaarde van het oorspronkelijke actief bedragen.<br>
+<br>
+Courante onderhouds- en herstellingswerken zijn volledig ten laste van de resultatenrekening in het jaar dat ze zijn uitgevoerd.<br>
+<br>
+§ 4. Materiële vaste activa moeten vanaf 500 euro per eenheid geactiveerd worden. Installaties (rekening 230) en meubilair (rekening 244) worden vanaf 2500 euro per bestelling geactiveerd. Onder de voormelde bedragen zijn ze ten laste van de resultatenrekening van het boekjaar.<br>
+<br>
+Infrastructuurwerken worden geactiveerd op voorwaarde dat ze minimaal 10.000 euro per opdracht bedragen en ze voor een van de volgende werken worden gedaan:<br>
+1° nieuwbouw en vervangingsbouw van een gebouw;<br>
+2° werken die een substantiële verbetering van het gebouw inhouden en die betrekking hebben op veiligheid, milieu, hygiëne of vernieuwd gebruik van het gebouw;<br>
+3° vervangen van delen die aan het einde van hun levensduur gekomen zijn (bv. vervanging cv, dak vernieuwen, poort vervangen...);<br>
+4° bouwkundige ingrijpende duurzame wijzigingen (bv. aanleg parking, overkapping speelplaats, nieuwe keuken, herinrichting indeling lokalen...).<br>
+<br>
+De infrastructuurwerken, vermeld in het eerste lid, onder het bedrag, vermeld in het eerste lid, en andere infrastructuurwerken zijn ten laste van de resultatenrekening van het boekjaar. De vervanging van beschadigde delen wordt altijd in kosten genomen (bv. gebroken venster, stormschade...).<br>
+<br>
+§ 5. Voor vruchtgebruik, erfdienstbaarheden en erfpacht wordt verwezen naar de gangbare boekhoudkundige verwerking hiervan.<br>
+<br>
+§ 6. De afschrijvingen voor activa in leasing en de afschrijvingen voor de inrichting van gehuurde gebouwen worden gespreid over dezelfde duur als die welke worden toegepast voor een overeenkomstig materieel vast activum in eigendom.<br>
+<br>
+§ 7. Volgende afschrijvingspercentages dienen toegepast te worden:<br>
+- vaste gebouwen: 3 %<br>
+- semi-permanente gebouwen: 4 %<br>
+- voorlopige paviljoenen: 10 %<br>
+- machines en installaties: 6,6 %<br>
+- meubilair: 6,6 %<br>
+- bussen: 8,3 %<br>
+- (rollend) materieel ander dan bussen: 20 %<br>
+- &nbsp;computer hardware en software en telematica: 33 %<br>
+<br>
+§ 8. Materiële vaste activa kunnen geherwaardeerd worden wanneer blijkt dat de marktwaarde op een duurzame wijze hoger zou liggen dan de boekwaarde. Deze correctie wordt geboekt tegenover de rubriek herwaarderingsmeerwaarden op de passiefzijde van de balans.<br>
+<br>
+Deze herwaarderingsmeerwaarden worden afgeschreven over de resterende levensduur van het actiefbestanddeel rechtstreeks tegenover de initiële geboekte meerwaarde op de balans. Bij een latere waardevermindering mag de herwaarderingsmeerwaarde worden afgeboekt tot beloop van het nog niet afgeschreven gedeelte van de meerwaarde.<br>
+<br>
+Herwaarderingsmeerwaarden kunnen niet geïncorporeerd worden in het kapitaal of in de reserves.
 
 ## ONDERAFDELING E FINANCIELE VASTE ACTIVA
 
