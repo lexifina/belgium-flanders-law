@@ -16,6 +16,11 @@ Het besluit van de Vlaamse Regering van 28 juni 2019 tot wijziging van artikel 3
 
 ## Afdeling 1. Wijziging van de wet van 10 oktober 1967 houdende het Gerechtelijk Wetboek
 
+### ART 3.
+
+Aan artikel 601ter van de wet van 10 oktober 1967 houdende het Gerechtelijk Wetboek, ingevoegd bij de wet van 13 mei 1999 en het laatst gewijzigd bij het decreet van 9 maart 2018, wordt een punt 8° toegevoegd, dat luidt als volgt:<br>
+"8° het beroep tegen de beslissing tot oplegging van een administratieve geldboete, vermeld in artikel 29quater, § 5, van de wet betreffende de politie over het wegverkeer, gecoördineerd op 16 maart 1968.".
+
 ## Afdeling 2. Wijzigingen van de wet betreffende de politie over het wegverkeer, gecoördineerd op 16 maart 1968
 
 ### ART 4.
@@ -93,6 +98,55 @@ Tevens kan de Vlaamse Regering periodieke retributies bepalen voor de uitoefenin
 De in het eerste lid, 1°, 2° en 8°, en het tweede lid, vermelde diensten omvatten niet de diensten waarvoor een retributie als vermeld in artikel 27, tweede en derde lid, kan worden bepaald.<br>
 <br>
 De Vlaamse Regering kan de bedragen en de wijze waarop de retributies moeten worden voldaan evenals de procedure bij niet-naleving bepalen.".
+
+### ART 6.
+
+In dezelfde wet, het laatst gewijzigd bij het decreet van 13 december 2019, wordt een artikel 29quater ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 29quater. § 1. De gemeenteraad kan in zijn reglementen of verordeningen administratieve geldboetes bepalen voor beperkte snelheidsovertredingen in welk geval die overtredingen niet strafrechtelijk worden bestraft.<br>
+<br>
+§ 2. De gemeenteraden kunnen alleen administratieve geldboetes als vermeld in paragraaf 1 bepalen als al de volgende voorwaarden vervuld zijn:<br>
+1° het betreft een overschrijding van de toegelaten maximumsnelheid met niet meer dan 20 kilometer per uur;<br>
+2° de snelheidsovertredingen worden begaan op een plaats waar de snelheid beperkt is tot 30 of 50 kilometer per uur;<br>
+3° het gaat om snelheidsovertredingen vastgesteld volgens de voorwaarden, vermeld in artikel 62, met uitzondering van het zesde en achtste lid, met automatisch werkende toestellen als vermeld in hetzelfde artikel, die volledig worden gefinancierd door de lokale overheid;<br>
+4° de snelheidsovertredingen worden begaan door meerderjarige natuurlijke personen of door rechtspersonen;<br>
+5° er wordt niet gelijktijdig een andere overtreding vastgesteld.<br>
+<br>
+§ 3. De bedragen van de administratieve geldboetes die de gemeenteraad in zijn reglementen of verordeningen bepaalt, zijn gelijk aan de bedragen die de Vlaamse Regering bepaalt ter uitvoering van artikel 65, § 1, tweede lid.<br>
+<br>
+De administratieve geldboete wordt betaald op de wijze die in het betalingsverzoek is bepaald.<br>
+<br>
+§ 4. Het proces-verbaal van de overtreding wordt binnen veertien dagen nadat de overtreding is vastgesteld, aan de sanctionerend ambtenaar, vermeld in artikel 6 van de wet van 24 juni 2013 betreffende de gemeentelijke administratieve sancties, bezorgd.<br>
+<br>
+Binnen veertien dagen na de dag waarop de sanctionerend ambtenaar het proces-verbaal heeft ontvangen, bezorgt hij dat proces-verbaal samen met de vermelding van het bedrag van de administratieve geldboete aan de overtreder.<br>
+<br>
+De overtreder betaalt de administratieve geldboete binnen dertig dagen na de kennisgeving ervan, tenzij de overtreder binnen die termijn zijn schriftelijke verweermiddelen bezorgt aan de sanctionerend ambtenaar.<br>
+<br>
+Als de sanctionerend ambtenaar de verweermiddelen onontvankelijk of ongegrond verklaart, brengt hij de overtreder daarvan op de hoogte binnen dertig dagen met de vermelding van de administratieve geldboete die moet worden betaald.<br>
+<br>
+De administratieve geldboete wordt betaald binnen dertig dagen na de kennisgeving van de beslissing, vermeld in het vierde lid.<br>
+<br>
+Als de sanctionerend ambtenaar binnen dertig dagen na de dag waarop hij de verweermiddelen van de overtreder heeft ontvangen, de verweermiddelen van de overtreder niet onontvankelijk of niet ongegrond verklaart, worden die verweermiddelen geacht aanvaard te zijn.<br>
+<br>
+De beslissing om een administratieve geldboete op te leggen, heeft uitvoerbare kracht als ze definitief geworden is. De voormelde beslissing is definitief op een van de volgende tijdstippen:<br>
+1° dertig dagen na de kennisgeving van de administratieve geldboete, vermeld in het tweede lid, als er geen beroep is aangetekend;<br>
+2° dertig dagen na de kennisgeving van de beslissing, vermeld in het vierde lid, als er geen beroep is aangetekend.<br>
+<br>
+§ 5. Tegen een beslissing waarbij een administratieve geldboete wordt opgelegd, kan degene aan wie de boete is opgelegd, binnen een maand na de kennisgeving van de beslissing volgens de burgerlijke procedure beroep aantekenen bij de politierechtbank.<br>
+<br>
+De politierechtbank oordeelt over de wettelijkheid en de proportionaliteit van de opgelegde administratieve geldboete. Hij kan de opgelegde administratieve geldboete bevestigen of herzien. De beslissing van de politierechtbank is niet vatbaar voor hoger beroep.<br>
+<br>
+§ 6. Als de sanctionerend ambtenaar tijdens de procedure, vermeld in paragraaf 4, vaststelt dat de voorwaarden om een administratieve geldboete op te leggen, vermeld in paragraaf 2, niet vervuld zijn, brengt hij de vaststeller van de overtreding daarvan op de hoogte zodat de strafrechtelijke procedure kan worden gevolgd. Met het oog hierop kan een protocol worden opgesteld tussen de betrokken diensten en overheden.<br>
+<br>
+§ 7. De relevante persoons- en informatiegegevens, bedoeld in artikel 44, § 2, eerste lid, van de wet van 24 juni 2013 betreffende de gemeentelijke administratieve sancties, worden opgenomen in het register van gemeentelijke administratieve sancties, vermeld in artikel 44, § 1, van dezelfde wet.<br>
+<br>
+§ 8. De vordering tot voldoening van de administratieve geldboete verjaart na vijf jaar vanaf de datum waarop zij betaald moet worden. De verjaring kan gestuit worden op de wijze en onder de voorwaarden, vermeld in artikel 2244 tot en met 2250 van het Burgerlijk Wetboek.<br>
+<br>
+§ 9. De gemeente kwalificeert als verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de verordening (EU) 2016/679 en voldoet aan de verplichtingen vervat in artikel 26 van de verordening (EU) 2016/679 die in dat verband op haar rusten.<br>
+<br>
+De gemeente en de sanctionerende ambtenaar verzamelen en verwerken slechts die persoonsgegevens die noodzakelijk zijn om de overtreder te identificeren en noodzakelijk zijn voor de controle en de sanctionering van de snelheidsovertreding.<br>
+<br>
+De verzamelde gegevens worden bewaard voor een periode van zes jaar.".
 
 ## Afdeling 3. Wijziging van de wet van 21 juni 1985 betreffende de technische eisen waaraan elk voertuig voor vervoer te land, de onderdelen ervan, evenals het veiligheidstoebehoren moeten voldoen
 
