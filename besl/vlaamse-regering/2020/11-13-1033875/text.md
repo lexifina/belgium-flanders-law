@@ -164,17 +164,23 @@ b) voor opvang op een schoolvrije dag : 14 euro per openingsdag op een schoolvri
 <br>
 In het eerste lid, 5°, wordt verstaan onder project FCUD zieke kinderen : het project, vermeld in artikel 1, 4°, van het besluit van de Vlaamse Regering van 15 juli 2016 betreffende subsidiëring van projecten vanuit het vroegere Fonds voor Collectieve Uitrustingen en Diensten en voor personeelsleden met een gewezen gescostatuut, dat opvang van zieke kinderen organiseert.<br>
 <br>
-De minister bepaalt het percentage, vermeld in het eerste lid, 1° en 2°. De minister bepaalt die percentages per volledige kalendermaand op basis van de evolutie van de aanwezigheden in de opvang en van de geldende federale maatregelen in het kader van de bestrijding van de verspreiding van het COVID-19-virus. De minister kan een onderscheid maken in het percentage naargelang de organisator al of niet verplicht gesloten is.
+De minister bepaalt het percentage, vermeld in het eerste lid, 1° en 2°. De minister bepaalt die percentages per volledige kalendermaand op basis van de evolutie van de aanwezigheden in de opvang en van de geldende federale maatregelen in het kader van de bestrijding van de verspreiding van het COVID-19-virus. De minister kan een onderscheid maken in het percentage naargelang de organisator al of niet verplicht gesloten is.<br>
+<br>
+De organisator van buitenschoolse opvang kan voor een hoger percentage plaatsen dan het percentage dat de minister bepaalt conform het derde lid, een subsidie ontvangen als hij gemotiveerd kan aantonen in zijn aanvraag dat het verschil tussen een bezetting van 80% en het effectief gerealiseerde bezettingspercentage in de maand in kwestie groter is dan het percentage dat de minister bepaald heeft conform het derde lid en dat dit het rechtstreeks gevolg is van de COVID-19-epidemie. Als dat verschil groter is, bepaalt het vastgestelde verschil tussen een 80% bezetting en de effectief gerealiseerde bezetting voor welk percentage plaatsen het agentschap de subsidie betaalt.<br>
+<br>
+Om het effectief gerealiseerde bezettingspercentage, vermeld in het vierde lid, te berekenen, gebruikt de organisator het berekeningsinstrument dat het agentschap ter beschikking stelt.
 
 ## [Afdeling 2. Selectieve compensatie-optie 1 buitenschoolse opvang (verv. BVR 26 november 2021, art. 5, I: 1 december 2021)]
 
 ### ART 12.
 
-Het agentschap kent de selectieve subsidie toe aan de organisator van buitenschoolse opvang als de organisator daarvoor conform artikel 15 van dit besluit een aanvraag indient en voldoet aan de voorwaarden, vermeld in artikel 7.
+Het agentschap kent de selectieve subsidie toe aan de organisator van buitenschoolse opvang als de organisator daarvoor conform artikel 15 van dit besluit een aanvraag indient en voldoet aan al de volgende voorwaarden:<br>
+1° de organisator is onderworpen aan een verplichte sluiting, aan een doelgroepbeperking of wordt geconfronteerd met de sluiting van een of meer scholen waarvan de organisator normaal gezien leerlingen opvangt;<br>
+2° de voorwaarden, vermeld in artikel 7, 2° en 3°.&nbsp;
 
 ### ART 13.
 
-In geval van een verplichte sluiting van de volledige opvanglocatie bedraagt de subsidie voor de organisator van buitenschoolse opvang :<br>
+In geval van een verplichte sluiting van de volledige opvanglocatie&nbsp;of in geval van de sluiting van alle scholen als dit tot gevolg heeft dat er voor geen enkel kind opvang nodig is, bedraagt de subsidie voor de organisator van buitenschoolse opvang :<br>
 1° voor de opvanglocatie van een organisator van buitenschoolse opvang met een erkenning zonder subsidie of met een attest van toezicht :<br>
 a) voor opvang op een schooldag : 8,75 euro per openingsdag op een schooldag per plaats voor 80 % van de plaatsen op de erkenning of het attest van toezicht;<br>
 b) voor opvang op een schoolvrije dag : 17,50 euro per openingsdag op een schoolvrije dag per plaats voor 80 % van de plaatsen op de erkenning of het attest van toezicht;<br>
@@ -194,7 +200,7 @@ c) op woensdagnamiddag : 6 uur;<br>
 d) op een schoolvrije dag en een schoolvakantiedag : 11 uur;<br>
 2° maximaal beschikbare opvangaanbod : het resultaat van de berekening waarbij per opvangmoment per openingsdag het aantal erkende plaatsen of plaatsen op het attest van toezicht wordt vermenigvuldigd met de gemiddelde duurtijd van het opvangmoment, waarna het resultaat van al die vermenigvuldigingen wordt opgeteld.<br>
 <br>
-In geval van een doelgroepbeperking of gedeeltelijke sluiting van de opvanglocatie bedraagt de subsidie voor de organisator van buitenschoolse opvang :<br>
+In geval van een doelgroepbeperking, van een gedeeltelijke sluiting van de opvanglocatie of van een beduidend lagere bezetting die het gevolg is van de sluiting van een of meer scholen waarvan de organisator normaal gezien leerlingen opvangt, bedraagt de subsidie voor de organisator van buitenschoolse opvang :<br>
 1° voor de organisator van buitenschoolse opvang met een erkenning zonder subsidie van het agentschap of met een attest van toezicht :<br>
 a) voor opvang op een schooldag : 8,75 euro per verloren plaats per openingsdag op een schooldag;<br>
 b) voor opvang op een schoolvrije dag : 17,50 euro per verloren plaats per openingsdag op een schoolvrije dag;<br>
@@ -238,16 +244,17 @@ Voor de aanvraag van een selectieve subsidie door een organisator van kinderopva
 Voor de aanvraag van een algemene subsidie door een organisator van buitenschoolse opvang bezorgt de organisator naast de gegevens, vermeld in het tweede lid, 1°, 2° en 5°, al de volgende gegevens :<br>
 1° voor de algemene subsidie vermeld in artikel 11, eerste lid, 1° tot en met 4° : het aantal openingsdagen voor opvang op een schooldag en voor opvang op een schoolvrije dag;<br>
 2° voor de algemene subsidie vermeld in artikel 11, eerste lid, 5° : het aantal aanwezigheidsdagen in de voorafgaande maand en het aantal aanwezigheidsdagen in dezelfde periode in 2019;<br>
-3° verklaring op erewoord over het feit dat de organisator voldoet aan de voorwaarden, vermeld in artikel 7.<br>
+3° verklaring op erewoord over het feit dat de organisator voldoet aan de voorwaarden, vermeld in artikel 7;<br>
+4° het ingevulde berekeningsinstrument, vermeld in artikel 11, vijfde lid, als dat van toepassing is.<br>
 <br>
-Voor de aanvraag van een selectieve subsidie door een organisator van buitenschoolse opvang bezorgt de organisator naast de gegevens, vermeld in het tweede lid, 1°, 2° en 5°, al de volgende gegevens over de periode van de verplichte sluiting of doelgroepbeperking in de maand waarvoor de subsidie gevraagd wordt :<br>
-1° de periode waarvoor de verplichte sluiting of doelgroepbeperking geldt;<br>
+Voor de aanvraag van een selectieve subsidie door een organisator van buitenschoolse opvang bezorgt de organisator naast de gegevens, vermeld in het tweede lid, 1°, 2° en 5°, al de volgende gegevens over de periode van de verplichte sluiting, de doelgroepbeperking of de sluiting van de scholen in de maand waarvoor de subsidie gevraagd wordt :<br>
+1° de periode waarvoor de verplichte sluiting, de doelgroepbeperking of de sluiting van de scholen geldt;<br>
 2° voor de organisator met de subsidie voor inkomenstarief : het aantal en de duur van de afwezigheidsdagen en het aantal en de duur van de aanwezigheidsdagen;<br>
-3° voor de organisator zonder de subsidie voor inkomenstarief, in geval van een aanvraag naar aanleiding van doelgroepbeperking of gedeeltelijke verplichte sluiting :<br>
+3° voor de organisator zonder de subsidie voor inkomenstarief, in geval van een aanvraag naar aanleiding van een doelgroepbeperking, van een gedeeltelijke verplichte sluiting of van een beduidend lagere bezetting die het gevolg is van de sluiting van een of meer scholen:<br>
 a) het aantal openingsdagen per opvangmoment;<br>
 b) het aantal effectieve aanwezigheden per opvangmoment;<br>
-4° voor de organisator zonder de subsidie voor inkomenstarief, in geval van een volledige verplichte sluiting : het aantal voorziene openingsdagen op een schooldag en op een schoolvrije dag;<br>
-5° de beschrijving van de reden van de sluiting en vermelding van de instantie die de beslissing tot sluiting heeft genomen, of de vermelding van de regelgeving die de verplichte sluiting of de doelgroepbeperking bevat.
+4° voor de organisator zonder de subsidie voor inkomenstarief, in geval van een volledige verplichte sluiting&nbsp;of van de afwezigheid van opvangvragen door een sluiting van alle scholen : het aantal voorziene openingsdagen op een schooldag en op een schoolvrije dag;<br>
+5° de beschrijving van de reden van de sluiting en vermelding van de instantie die de beslissing tot sluiting heeft genomen, of de vermelding van de regelgeving die de verplichte sluiting, de doelgroepbeperking of de sluiting van de scholen bevat.
 
 ### ART 16.
 
