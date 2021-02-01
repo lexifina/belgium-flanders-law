@@ -40,7 +40,7 @@ a) 20 lestijden van 50 minuten als het ambt wordt uitgeoefend in de volgende stu
 21) Printmedia;<br>
 22) Scandinavische talen;<br>
 23) Slavische talen;<br>
-b) 20 lestijden van 50 minuten als het ambt wordt uitgeoefend in de geletterdheidsmodules Nederlands en Leren leren;<br>
+b) 20 lestijden van 50 minuten als het ambt wordt uitgeoefend in de geletterdheidsmodules Nederlands en Leren leren of de geletterdheidsmodules regie over het eigen leren;<br>
 c) 21 lestijden van 50 minuten als het ambt wordt uitgeoefend in de volgende studiegebieden:<br>
 1) Ambachtelijk erfgoed, als het gaat om de opleidingen Boekvergulder, Hulpboekbinder, Manueel Boekbinder en Manueel Boekbinder-Boekvergulder;<br>
 2) Toerisme;<br>
