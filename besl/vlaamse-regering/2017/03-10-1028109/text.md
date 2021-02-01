@@ -167,15 +167,17 @@ Minstens 95% van de persoonsvolgende middelen die worden aangewend conform artik
 
 ### ART 10.
 
-De persoon met een handicap of zijn wettelijke vertegenwoordiger delen aan het agentschap het bedrag van de persoonsvolgende middelen mee dat op jaarbasis zal worden aangewend conform artikel 8.<br>
+De personen met een handicap of hun wettelijke vertegenwoordiger delen aan het agentschap het bedrag van de persoonsvolgende middelen mee dat op jaarbasis wordt aangewend conform artikel 8.<br>
 <br>
-Het agentschap stelt het bedrag, vermeld in het eerste lid, ter beschikking bij wijze van een werkkapitaal. Het werkkapitaal bedraagt maximum vijf twaalfden van het bedrag, vermeld in het eerste lid. In voorkomend geval wordt het werkkapitaal berekend op basis het bedrag op jaarbasis, vermeld in het eerste lid, herberekend pro rato het aantal resterende maanden van het kalenderjaar. Het agentschap bepaalt de hoogte van het werkkapitaal.<br>
+Het agentschap kent bij de opstart van de aanwending van het bedrag, vermeld in het eerste lid, conform artikel 8, een terugvorderbaar voorschot toe dat drie twaalfden van het bedrag, vermeld in het eerste lid, bedraagt.<br>
 <br>
-Het agentschap past het werkkapitaal bij binnen dertig dagen nadat de persoon met een handicap of zijn wettelijke vertegenwoordiger kostenstaten met vermelding van de gemaakte kosten aan het agentschap heeft bezorgd. Het agentschap stelt een model van kostenstaat ter beschikking.<br>
+Het terugvorderbaar voorschot wordt niet aangerekend op het bedrag, vermeld in het eerste lid.<br>
 <br>
-Kostenstaten die betrekking hebben op het vorige jaar, worden vóór 1 maart van het lopende jaar ingediend. Kostenstaten die laattijdig bij het agentschap ingediend worden, komen niet voor vergoeding in aanmerking.<br>
+Het terugvorderbaar voorschot wordt bij de beëindiging van de aanwending conform artikel 8, aan het agentschap terugbetaald.<br>
 <br>
-Het agentschap bepaalt de nadere regels voor het ter beschikking stellen van het werkkapitaal en het in aanmerking nemen van de kostenstaten.
+De personen met een handicap of hun wettelijke vertegenwoordiger delen de kosten die worden gemaakt in het kader van de besteding van het bedrag, vermeld in het eerste lid, mee aan het agentschap met een kostenstaat. Het agentschap stelt een model van kostenstaat ter beschikking. Nadat het agentschap die kostenstaat heeft ontvangen, betaalt het de kosten, vermeld op de kostenstaat, tot het bedrag, vermeld in het eerste lid, is opgebruikt.<br>
+<br>
+De kostenstaten voor een kalenderjaar worden uiterlijk op 1 april van het volgende kalenderjaar aan het agentschap bezorgd. De kosten, vermeld op de kostenstaten, die na die datum worden ingediend, worden niet betaald.
 
 ### ART 11.
 
