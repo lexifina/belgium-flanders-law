@@ -699,13 +699,15 @@ Het eerste lid is niet van toepassing indien de onderdaan van een derde land om 
 
 § 1. De inkomsten worden geacht de betrokkene in staat te stellen in zijn behoeften of in die van zijn gezin te voorzien als het betaalde loon niet lager is dan het gemiddeld gewaarborgde maandelijks minimuminkomen dat door de collectieve arbeidsovereenkomst nr. 43 van 2 mei 1988 betreffende de waarborg van een gemiddeld minimummaandinkomen wordt beoogd.<br>
 <br>
-Voor de toepassing van afdeling 2 van hoofdstuk 8 van dit besluit, worden verschillende contracten in aanmerking genomen bij de berekening van de inkomsten vermeld in het eerste lid.<br>
+Het eerste lid is niet van toepassing op aanvragen van een toelating tot arbeid voor seizoenarbeiders als vermeld in hoofdstuk 8, afdeling 2.<br>
 <br>
-Bij de berekening van de bezoldigingsbedragen vermeld in artikel 17, eerste lid, 1°, 2°, 4°, 12°, voor wat de trainers betreft, en 13°, worden verschillende contracten voor deeltijdse prestaties in aanmerking genomen, voor zover elk contract voldoet aan de bezoldiging vermeld in het eerste lid.<br>
+Bij de berekening van de bezoldigingsbedragen vermeld in artikel 17, eerste lid, 1°, 2°,&nbsp;12°, voor wat de trainers betreft, en 13°, worden verschillende contracten voor deeltijdse prestaties in aanmerking genomen, voor zover elk contract voldoet aan de bezoldiging vermeld in het eerste lid.<br>
 <br>
-In afwijking van het vorige lid, wordt met toepassing van artikel 17, eerste lid, 4°, de toelating tot arbeid aan gasthoogleraren toegekend voor deeltijdse prestaties, als het betaalde loon lager is dan het gemiddeld gewaarborgde maandelijks minimuminkomen dat door de collectieve arbeidsovereenkomst nr. 43 van 2 mei 1988 beoogd wordt, indien de betrokkene aantoont over voldoende bestaansmiddelen te beschikken.<br>
+In afwijking van het vorige lid, wordt met toepassing van artikel 17, eerste lid, 1°, de toelating tot arbeid aan&nbsp;internationaal docenten toegekend voor deeltijdse prestaties, als het betaalde loon lager is dan het gemiddeld gewaarborgde maandelijks minimuminkomen dat door de collectieve arbeidsovereenkomst nr. 43 van 2 mei 1988 beoogd wordt, indien de betrokkene aantoont over voldoende bestaansmiddelen te beschikken.<br>
 <br>
-§ 2. De eerste paragraaf van dit artikel geldt met behoud van de toepassing van de loonvoorwaarden die verschuldigd zijn krachtens door de Koning overeenkomstig de wet van 5 december 1968 betreffende de collectieve arbeidsovereenkomsten en de paritaire comités algemeen verbindend verklaarde collectieve arbeidsovereenkomsten.
+§ 2. De eerste paragraaf van dit artikel geldt met behoud van de toepassing van de loonvoorwaarden die verschuldigd zijn krachtens door de Koning overeenkomstig de wet van 5 december 1968 betreffende de collectieve arbeidsovereenkomsten en de paritaire comités algemeen verbindend verklaarde collectieve arbeidsovereenkomsten.<br>
+<br>
+§ 3. De bezoldiging van de buitenlandse werknemer die met toepassing van artikel 8, § 1, tweede lid, toegelaten wordt tot arbeid voor een periode langer dan een jaar, wordt jaarlijks aangepast conform paragraaf 1, eerste lid, of artikel 17, eerste lid, 1° en 2°, artikel 21, 2°, of artikel 26, 4°.
 
 ### ART 77.
 
