@@ -159,6 +159,20 @@ In artikel 58/2, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit va
 In artikel 12 van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, vervangen bij het besluit van de Vlaamse Regering van 25 april 2014 en gewijzigd bij de besluiten van de Vlaamse Regering van 11 december 2015, 27 november 2015 en 7 september 2018, wordt punt 7° opnieuw opgenomen in de volgende lezing:<br>
 "7° de door de leidend ambtenaar van het Vlaams Energie- en Klimaatagentschap aan te stellen personeelsleden van het Vlaams Energie- en Klimaatagentschap;".
 
+### ART 26.
+
+In artikel 23 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 7 september 2018, worden de punten 2°, 6° en 7° opgeheven.
+
+### ART 27.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 3 mei 2019, wordt artikel 27 opnieuw opgenomen in de volgende lezing:<br>
+<br>
+"Art. 27. De toezichthouders, vermeld in artikel 12, 7°, oefenen het toezicht uit op de toepassing van de milieuvoorschriften, vermeld in of vastgesteld krachtens de volgende regelgeving en dat enkel op het vlak van de verplichtingen inzake erkenning van personen en het gebruik van de erkenning:<br>
+1° titel V van het decreet, enkel voor wat betreft de erkenning als airco-energiedeskundige, vermeld in artikel 6, 1°, f) van het VLAREL en de erkenning als opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW, vermeld in artikel 6, 4°, f) van het VLAREL;<br>
+2° de wet Luchtverontreiniging;<br>
+3° verordening (EG) nr. 1005/2009 van het Europees Parlement en de Raad van 16 september 2009 betreffende de ozonlaagafbrekende stoffen;<br>
+4° verordening (EU) nr. 517/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende gefluoreerde broeikasgassen en tot intrekking van Verordening (EG) nr. 842/2006.".
+
 ## HOOFDSTUK 4. Wijziging van het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning
 
 ### ART 28.
