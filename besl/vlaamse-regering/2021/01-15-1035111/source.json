@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035111,
+  "title": "Besluit van de Vlaamse Regering van 2021-01-15 tot vaststelling van de datum van de inwerkingtreding van artikel 3 en 6 van het decreet van 9 oktober 2020 houdende diverse bepalingen over het gemeenschappelijk vervoer, het algemeen mobiliteitsbeleid, de weginfrastructuur en het wegenbeleid, en de waterinfrastructuur en het waterbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035111/VolledigDocument?datum=2021-02-04",
+  "source_sha256": "16b478f57d06c7e5021646b95b3cd6b72927f73742b2e6d13c0b77f63c524d89",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035111&param=informatie",
+  "as_of": "2021-02-04",
+  "made": "2021-01-15",
+  "gazette": "2021-01-25",
+  "numac": 2021040034,
+  "document_start": "2021-02-04",
+  "document_end": null,
+  "in_force": "2021-02-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-02-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
