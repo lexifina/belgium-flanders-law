@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035109,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-18 tot herverdeling van het begrotingsartikel JB0-1JBB2AB-PR naar begrotingsartikelen JB0-1JAB2ZZ-WT, JB0-1JDB2AD-WT, JB0-1JDB2IB-WT en JB0-1JDB2AA-WT van de Vlaamse Gemeenschap voor het begrotingsjaar 2020",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035109/VolledigDocument?datum=2021-02-04",
+  "source_sha256": "2dd1e6d728573026f981fe838cf4f3bb4f2d3b85fb590f6cbd322305d2e33e3a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035109&param=informatie",
+  "as_of": "2021-02-04",
+  "made": "2020-12-18",
+  "gazette": "2021-01-25",
+  "numac": 2021030023,
+  "document_start": "2021-02-04",
+  "document_end": null,
+  "in_force": "2021-02-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-02-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
