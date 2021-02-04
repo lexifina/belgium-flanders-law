@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035113,
+  "title": "Ministerieel besluit van 2020-12-21 over de emissienormen voor ceremonieel vervoer en het vervoer van personen met verminderde mobiliteit",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035113/VolledigDocument?datum=2021-02-04",
+  "source_sha256": "deda0143da1a9f35a2eddda599fd8cd1d2ebd803e6934460ad1f4575ec61bc95",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035113&param=informatie",
+  "as_of": "2021-02-04",
+  "made": "2020-12-21",
+  "gazette": "2021-01-25",
+  "numac": 2021020188,
+  "document_start": "2021-02-04",
+  "document_end": null,
+  "in_force": "2021-02-04",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-02-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
