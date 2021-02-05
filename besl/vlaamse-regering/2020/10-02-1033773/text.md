@@ -112,7 +112,9 @@ Het agentschap betaalt de subsidie uiterlijk op 15 februari 2021, op voorwaarde 
 <br>
 Voor de subsidie, vermeld in artikel 4, eerste lid, 1°, van dit besluit, voldoet de organisator aan de voorwaarden, vermeld in artikel 3, tweede lid van dit besluit, en aan de voorwaarden, vermeld in artikel 4 van het besluit van de Vlaamse Regering van 7 december 2018 houdende de kinderopvangtoeslag en kleutertoeslag.<br>
 <br>
-Als de organisator niet voldoet aan de voorwaarden, vermeld in het derde en het vierde lid, vervalt het recht op subsidie.
+Als de organisator niet voldoet aan de voorwaarden, vermeld in het derde en het vierde lid, vervalt het recht op subsidie.<br>
+<br>
+De organisator die de subsidie toegekend kreeg, kan bij het agentschap een rechtzetting doen van de gegevens, vermeld in het tweede lid, 2° tot en met 4°, uiterlijk 31 maart 2021.
 
 ### ART 6.
 
@@ -188,7 +190,9 @@ c) het aantal effectieve aanwezigheden per opvangmoment;<br>
 7° verklaring op erewoord over het feit dat de organisator voldoet aan de voorwaarden, vermeld in artikel 7;<br>
 8° datum en ondertekening.<br>
 <br>
-Het agentschap betaalt de subsidie uiterlijk op 15 februari 2021, op voorwaarde dat de organisator voldoet aan de voorwaarden, vermeld in artikel 7. Als de organisator niet voldoet aan de voormelde voorwaarden, vervalt het recht op subsidie.
+Het agentschap betaalt de subsidie uiterlijk op 15 februari 2021, op voorwaarde dat de organisator voldoet aan de voorwaarden, vermeld in artikel 7. Als de organisator niet voldoet aan de voormelde voorwaarden, vervalt het recht op subsidie.<br>
+<br>
+De organisator die de subsidie toegekend kreeg, kan bij het agentschap een rechtzetting doen van de gegevens, vermeld in het tweede lid, 2° tot en met 5°, uiterlijk 31 maart 2021.
 
 ## HOOFDSTUK 4. Maatregelen voor de gezinnen
 
