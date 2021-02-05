@@ -188,6 +188,10 @@ De aanvraag voor de subsidie, vermeld in artikel 5 tot en met 9/1, wordt uiterli
 
 Als de organisator voldoet aan de voorwaarden, vermeld in artikel 10, betaalt het agentschap de subsidie uiterlijk twee maanden na ontvangst van de aanvraag.
 
+### ART 12/1.
+
+De organisator die de subsidie toegekend kreeg, kan bij het agentschap een rechtzetting doen van de gegevens, vermeld in artikel 11, 2° tot en met 3/1°, uiterlijk 31 maart 2021.
+
 ### ART 13.
 
 In afwijking van artikel 8, tweede lid van het besluit van de Vlaamse Regering van 15 juli 2016 betreffende subsidiëring van projecten vanuit het vroegere Fonds voor Collectieve Uitrustingen en Diensten en voor personeelsleden met een gewezen gescostatuut, wordt de subsidie voor een project FCUD buitenschoolse opvang en project FCUD opvang zieke kinderen niet verminderd als de bezetting geen 80% bedraagt door een daling van de aanwezigheidsdagen tijdens de periode dat de coronamaatregelen gelden.
