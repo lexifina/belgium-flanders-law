@@ -10,15 +10,17 @@
 
 <p>In dit besluit wordt verstaan onder:<br>
 1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
-1°/1 attest draagkracht: het attest draagkracht van een kinderbegeleider, vermeld in artikel 12 van het Vergunningsbesluit van 22 november 2013;<br>
+1°/1...<br>
 2° brandveiligheidsattest: een brandveiligheidsattest als vermeld in artikel 23, tweede lid, van het Vergunningsbesluit van 22 november 2013;<br>
 3° brandveiligheidsvoorschriften: de specifieke brandveiligheidsvoorschriften, vermeld in artikel 23 van het Vergunningsbesluit van 22 november 2013;<br>
 4° decreet van 20 april 2012: het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
 5° elektronische handtekening: een geavanceerde elektronische handtekening met gekwalificeerd certificaat als vermeld in artikel 2, 2° en 4°, van de wet van 9 juli 2001 houdende vaststelling van bepaalde regels in verband met het juridisch kader voor de elektronische handtekening,de elektronisch aangetekende zending en certificatiediensten;<br>
 6° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
 6° /1 nieuwe gemeente: het lokaal bestuur van de nieuwe gemeente, vermeld in artikel 343, 2°, van het decreet van 22 december 2017 over het lokaal bestuur;<br>
-6° /2 OCMW: het openbaar centrum voor maatschappelijk welzijn, vermeld in het decreet van 22 december 2017 over het lokaal bestuur;<br>
+6° /2 nieuwe kinderopvangplaats: een kinderopvangplaats waarvoor gedurende minstens drie maanden voor de algemene oproep tot op de dag dat het agentschap een algemene oproep als vermeld in artikel 57, § 3, naar de organisatoren stuurt, geen vergunning is toegekend of een vergunning is toegekend maar de kinderopvangplaats nog niet gestart is. Met een nieuwe kinderopvangplaats wordt gelijkgesteld: de kinderopvangplaats die vergund en opgestart is op de dag dat het agentschap de algemene oproep, vermeld in artikel 57, § 3, naar de organisatoren stuurt, op voorwaarde dat de organisator in een andere kinderopvanglocatie in dezelfde subsidiegroep een vergunning vraagt voor een nieuwe kinderopvangplaats en deze kinderopvangplaats opstart na de dag dat het agentschap de algemene oproep verstuurde en uiterlijk op het moment van de aanvraag van de subsidietoekenning na een subsidiebelofte, vermeld in artikel 79;<br>
+6° /3 OCMW: het openbaar centrum voor maatschappelijk welzijn, vermeld in het decreet van 22 december 2017 over het lokaal bestuur;<br>
 7° opvangvorm: het soort kinderopvang dat de organisator aanbiedt, zijnde de groepsopvang, vermeld in artikel 4, 2°, van het decreet van 20 april 2012, of de gezinsopvang, vermeld in artikel 4, 1°, van het decreet van 20 april 2012;<br>
+7° /0 programmatiesubsidie: de subsidie voor inkomenstarief, de plussubsidie, de subsidie voor centrum inclusieve kinderopvang, de subsidie voor dringende kinderopvang, de subsidie voor kinderopvang met flexibele openingstijden of de subsidie voor structurele inclusieve kinderopvang, vermeld in artikel 1, 14°, 14° /1, 14° /2, 17°, 17° /1, en 18°, van het Subsidiebesluit van 22 november 2013;<br>
 7° /1 samengevoegde gemeenten: het lokaal bestuur van de samengevoegde gemeenten, vermeld in artikel 343, 4°, van het decreet van 22 december 2017 over het lokaal bestuur;<br>
 7° /2 ...<br>
 8° subsidie: een of meer van de subsidies, vermeld in artikel 1, 1°, 14°, 14° /1, 16°, 17°, 17° /1 en 18°, van het Subsidiebesluit van 22 november 2013;<br>
@@ -48,7 +50,7 @@ Het aantal toe te kennen vergunde kinderopvangplaatsen is onder meer afhankelijk
 1° voor gezinsopvang:<br>
 a) de vraag van de organisator;<br>
 b) de beschikbare infrastructuur volgens de verklaring op erewoord van de organisator, vermeld in artikel 3 en 9 van het Vergunningsbesluit van 22 november 2013;<br>
-c) het maximale aantal tegelijk aanwezige kinderen volgens het attest draagkracht;<br>
+c) ...<br>
 2° voor groepsopvang:<br>
 a) de vraag van de organisator;<br>
 b) de beschikbare infrastructuur volgens het verslag over de infrastructuur met een positief advies;<br>
@@ -123,11 +125,15 @@ b) het brandveiligheidsattest A of B;<br>
 4° voor gezinsopvang:<br>
 a) een uittreksel uit het strafregister van alle kinderbegeleiders als vermeld in artikel 10 en 43, § 2, eerste lid, 1°, van het Vergunningsbesluit van 22 november 2013;<br>
 b) een uittreksel uit het strafregister van alle personen met regelmatig direct contact in de kinderopvanglocatie als vermeld in artikel 10 en 45, eerste lid, 1°, van het Vergunningsbesluit van 22 november 2013;<br>
-c) een attest draagkracht van alle kinderbegeleiders.
+c) ...
 
 ### ART. 10.
 
-De organisator die op het moment van de aanvraag van een vergunning   minstens twaalf vergunningen heeft voor hetzij gezinsopvang hetzij groepsopvang,   en een aanvraag indient voor dezelfde opvangvorm, moet de documenten, vermeld in   artikel 9, niet bezorgen op voorwaarde dat:<BR>1° hij op het elektronische   aanvraagformulier, vermeld in artikel 8, bijkomend een verklaring op erewoord   ondertekent dat hij:<BR>a) de documenten, vermeld in artikel 9, heeft;<BR>b)   voor het gevraagde aantal kinderopvangplaatsen voor gezinsopvang een attest   draagkracht heeft en voor het gevraagde aantal kinderopvangplaatsen voor   groepsopvang een verslag over de infrastructuur met een positief advies en een   brandveiligheidsattest A of B heeft;<BR>2° er geen gegronde indicatie is waaruit   blijkt dat de verklaringen van de organisator niet overeenstemmen met de   realiteit.<BR>
+De organisator die op het moment van de aanvraag van een vergunning minstens twaalf vergunningen heeft voor hetzij gezinsopvang hetzij groepsopvang, en een aanvraag indient voor dezelfde opvangvorm, moet de documenten, vermeld in artikel 9, niet bezorgen op voorwaarde dat:<br>
+1° hij op het elektronische aanvraagformulier, vermeld in artikel 8, bijkomend een verklaring op erewoord ondertekent dat hij:<br>
+a) de documenten, vermeld in artikel 9, heeft;<br>
+b) voor het gevraagde aantal kinderopvangplaatsen voor groepsopvang een verslag over de infrastructuur met een positief advies en een brandveiligheidsattest A of B heeft;<br>
+2° er geen gegronde indicatie is waaruit blijkt dat de verklaringen van de organisator niet overeenstemmen met de realiteit.
 
 ### ART. 11.
 
@@ -484,10 +490,10 @@ Als het agentschap geen beslissing heeft genomen of de aanvrager daarvan niet op
 
 <p>Het agentschap kent een subsidie voor gezinsopvang of groepsopvang toe als aan de volgende voorwaarden is voldaan:<br>
 1° er budget te verdelen is;<br>
-2° een subsidiebelofte is toegekend door het agentschap&nbsp;na een algemene oproep en op basis van de programmatieregels;<br>
+2° voor de programmatiesubsidies heeft het agentschap na een algemene oproep op basis van de programmatieregels een subsidiebelofte toegekend en voor de basissubsidie heeft het agentschap een subsidiebelofte toegekend;<br>
 3° de aanvraag van de organisator voor een subsidietoekenning ontvankelijk is;<br>
 4° de organisator een vergunning heeft;<br>
-5° na onderzoek ten gronde blijkt de organisator recht te hebben op de subsidie.</p>
+5° na onderzoek ten gronde blijkt de organisator te voldoen aan de criteria uit het beslissingskader waarvan hij in de aanvraag van de subsidiebelofte had meegedeeld dat hij er uiterlijk bij de subsidietoekenning aan zou voldoen en blijkt de organisator recht te hebben op de subsidie.</p>
 
 <p>Voor de subsidie, vermeld in artikel 1, 16°, van het Subsidiebesluit van 22 november 2013, hoeft de voorwaarde, vermeld in het eerste lid, 2°, niet voldaan te zijn.</p>
 
@@ -511,62 +517,48 @@ Als het agentschap het voornemen heeft om de subsidie te weigeren op basis van e
 
 ### ART. 57.
 
-<p>§ 1. In dit artikel wordt verstaan onder:<br>
-1° ...;<br>
-2° Mirage: een databestand van het agentschap waarin gegevens op kindniveau worden geregistreerd die door het agentschap worden verzameld via contacten met kraamklinieken en gezinnen en waarbij telkens bepaalde kenmerken over het kind en het gezin worden geregistreerd;<br>
-3° nieuwe kinderopvangplaats: een kinderopvangplaats waarvoor nog geen vergunning is toegekend op de dag dat het agentschap een algemene oproep naar de organisatoren stuurt;<br>
-4° omschakeling van een bestaande kinderopvangplaats: de omschakeling van een kinderopvangplaats zonder subsidie naar een kinderopvangplaats waarvoor een subsidie wordt toegekend of de omschakeling van een kinderopvangplaats waarvoor een bepaalde subsidietrap is toegekend naar een kinderopvangplaats waarvoor een hogere subsidietrap wordt toegekend;<br>
-5° soort subsidie: de subsidie voor Centrum inclusieve kinderopvang, de subsidie voor kinderopvang met flexibele openingstijden of de subsidie voor structurele inclusieve kinderopvang, vermeld in het Subsidiebesluit van 22 november 2013;<br>
-6° subsidietrap: het niveau van subsidie gekoppeld aan specifieke subsidievoorwaarden, waarbij aan een hogere subsidietrap meer specifieke subsidievoorwaarden verbonden zijn ten opzichte van een lagere subsidietrap.<br>
+§ 1. Het agentschap kent een subsidiebelofte toe voor een programmatiesubsidie conform paragraaf 2 tot en met 4.<br>
 <br>
-§ 2. Als er nieuw subsidiebudget beschikbaar is, bepaalt de minister de programmatie ervan conform de volgende opeenvolgende stappen. De minister bepaalt:<br>
-1° hoeveel het totale subsidiebudget bedraagt dat verdeeld kan worden;<br>
-2° hoeveel van het totale subsidiebudget dat verdeeld kan worden, bestemd is voor welke subsidietrap of voor welke soort subsidie;<br>
-3° of er een voorafname is van het totale subsidiebudget dat verdeeld kan worden, per subsidietrap of per soort subsidie als vermeld in punt 2°, voor bepaalde geografische gebieden of voor specifieke situaties;<br>
-4° hoe de gebieden geografisch afgebakend worden waarin aanvragen onderling vergeleken zullen worden. Dat kan verschillend zijn voor gezinsopvang en voor groepsopvang;<br>
-5° in welke geografische gebieden subsidies verdeeld worden, hoe de gebieden gerangschikt zijn en hoeveel subsidieerbare plaatsen per geografisch gebied maximaal verdeeld kunnen worden, op basis van de principes, vermeld in paragraaf 3 tot en met 9, of op basis van de behoefte aan subsidieerbare kinderopvangplaatsen die het geografische gebied aangetoond heeft;<br>
-6° voor de subsidies, vermeld in artikel 1, 1°, 14° en 17°, van het Subsidiebesluit van 22 november 2013, geldt bijkomend:<br>
-a) hoeveel van het subsidiebudget dat verdeeld kan worden, per subsidietrap bestemd is voor nieuwe kinderopvangplaatsen en hoeveel bestemd is voor de omschakeling van bestaande kinderopvangplaatsen naar een hogere subsidietrap;<br>
-b) hoeveel van het subsidiebudget per subsidietrap hetzij voor nieuwe kinderopvangplaatsen, hetzij voor de omschakeling van bestaande kinderopvangplaatsen bestemd is voor groepsopvang en hoeveel voor gezinsopvang;<br>
-7° de bijkomende ontvankelijkheids-, de voorrangs-, de uitsluitings- en de gegrondheidscriteria die relevant zijn bij de beoordeling door het agentschap om binnen een bepaald geografisch gebied verschillende subsidieaanvragen op een objectieve wijze tegen elkaar af te wegen, waarbij de minister kan bepalen dat rekening gehouden wordt met een adviesscore van het lokaal bestuur.<br>
+§ 2. Als er nieuw subsidiebudget beschikbaar is voor een programmatiesubsidie, wordt dat verdeeld binnen de geografische gebieden op basis van de behoefte aan die programmatiesubsidie. De behoefte wordt berekend op basis van het verschil tussen de behoefte aan de programmatiesubsidie en het beschikbare aanbod met de programmatiesubsidie.<br>
 <br>
-§ 3. Om de geografische gebieden te bepalen die in aanmerking komen, en de rangschikking ervan voor de toekenning van subsidies voor nieuwe kinderopvangplaatsen met basissubsidie en met subsidie voor inkomenstarief gelden de volgende opeenvolgende stappen:<br>
-1° de geografische gebieden worden van hoog naar laag gerangschikt volgens het verschil tussen enerzijds de potentiële vraag, meer bepaald het aantal kinderen jonger dan drie jaar met een werkende of werkzoekende moeder die gehuwd of samenwonend is, en met een alleenstaande ouder, en anderzijds het aanbod, meer bepaald het totale aantal kinderopvangplaatsen in alle kinderopvanglocaties;<br>
-2° per geografisch gebied wordt bepaald tot welke subsidietrap de nieuwe kinderopvangplaatsen kunnen behoren. Dat gebeurt door voor elk geografisch gebied de behoefte aan het soort subsidieerbare kinderopvangplaatsen te bepalen. Om die behoefte te bepalen, wordt in elk geografisch gebied:<br>
-a) voor de subsidie voor inkomenstarief: het aandeel van de subsidieerbare kinderopvangplaatsen en kinderopvangplaatsen met subsidiebeloftes met subsidie voor inkomenstarief afgezet tegenover het totale aantal vergunde kinderopvangplaatsen;<br>
-b) voor de basissubsidie: het aandeel van de subsidieerbare kinderopvangplaatsen en de kinderopvangplaatsen met subsidiebeloftes met alleen een basissubsidie afgezet tegenover het totale aantal vergunde kinderopvangplaatsen.<br>
+Het agentschap berekent de behoefte en het aanbod op basis van de beschikbare objectieve en relevante cijfergegevens, waaronder, voor wat betreft de subsidie voor inkomenstarief en de plussubsidie, minstens de gegevens, vermeld in artikel 3, zesde lid, van het decreet van 20 april 2012. Het agentschap kan een beroep doen op de gegevens van de lokale loketten kinderopvang om de behoefte te berekenen.<br>
 <br>
-De minister bepaalt het aantal hoogst gerangschikte geografische gebieden conform paragraaf 2, 5° en paragraaf 3, eerste lid, waarvan de aanvragen in aanmerking komen. De minister stelt voor die geografische gebieden de grenspercentages vast die bepalen tot welk niveau de behoefte, vermeld in het eerste lid, 2°, gedekt moet worden.<br>
+Het agentschap bepaalt op basis van de vastgestelde behoefte uit welke geografische gebieden een organisator een aanvraag van een subsidiebelofte kan indienen.<br>
 <br>
-De minister kan nadere voorwaarden bepalen voor geografische gebieden die de behoefte aan subsidieerbare kinderopvangplaatsen binnen hun gebied willen aantonen, en kan, in voorkomend geval, het aantal en de rangschikking van die gebieden vastleggen.<br>
+§ 3. Het agentschap doet voor de programmatie en de verdeling van het budget een algemene oproep bij kandidaten om een aanvraag van een subsidiebelofte in te dienen voor de programmatiesubsidie die verdeeld kan worden.<br>
 <br>
-§ 4. Voor de rangschikking van de aanvragen bij de omschakeling van bestaande kinderopvangplaatsen zonder subsidie naar kinderopvangplaatsen met basissubsidie wordt rekening gehouden met de opstartdatum van de kinderopvanglocatie of van de kinderopvangplaatsen zonder subsidie. De minister bepaalt op welke manier de aanvragen gerangschikt worden op basis van de opstartdatum.<br>
+De algemene oproep van het agentschap bevat al de volgende gegevens:<br>
+1° de vermelding dat het om een standaard vergelijkende procedure gaat waarbij de beslissingen tot toekenning van de subsidiebelofte definitief zijn, ondanks een eventueel bezwaar of beroep tegen een weigeringsbeslissing van een andere aanvrager;<br>
+2° het subsidiebudget, voor welke programmatiesubsidie het budget bestemd is en vanaf wanneer het subsidiebudget beschikbaar is;<br>
+3° bij de subsidie voor inkomenstarief, de subsidie voor dringende kinderopvang en de subsidie voor kinderopvang met flexibele openingstijden de vermelding van de voorafname voor de grootsteden Antwerpen, het tweetalige gebied Brussel-hoofdstad en Gent. Tot 31 december 2024 gelden volgende percentages:<br>
+a) 15% voor Antwerpen;<br>
+b) 10% voor het tweetalige gebied Brussel-hoofdstad;<br>
+c) 5% voor Gent;<br>
+4° bij de andere programmatiesubsidies de vermelding of er een voorafname is van het budget voor de grootsteden, vermeld in punt 3°, en hoeveel die bedraagt, op basis van de aanwezigheid van de doelgroepen van de programmatiesubsidie die verdeeld wordt;<br>
+5° de voorrang die geldt in de grootsteden, vermeld in punt 3°, voor de aanvraag van een organisator die van het lokaal bestuur een identiek subsidiebedrag ontvangt voor dezelfde specifieke dienstverlening als het bedrag en de specifieke dienstverlening van de programmatiesubsidie die verdeeld wordt op voorwaarde dat de subsidie van het lokaal bestuur toegekend is conform artikel 112/1, § 2;<br>
+6° de voorafname van het budget voor specifieke situaties waar het om behartenswaardige redenen noodzakelijk is om in een voorafname te voorzien, als dat van toepassing is;<br>
+7° uit welke geografische gebieden een organisator een aanvraag van een subsidiebelofte kan indienen, rekening houdend met de behoefte, vermeld in paragraaf 2, of en hoe de geografische gebieden gerangschikt worden, en hoeveel budget per geografisch gebied maximaal verdeeld kan worden. Het agentschap bewaakt daarbij het evenwicht tussen voldoende spreiding van het budget tussen de geografische gebieden en geen te grote versnippering van het budget;<br>
+8° de vermelding dat het budget bestemd is voor nieuwe kinderopvangplaatsen, voor de omschakeling van bestaande kinderopvangplaatsen of voor beide en, als dat van toepassing is, onder welke voorwaarden het lokaal bestuur aan het agentschap kan vragen om de bestemming van het bedoelde budget voor een bepaald maximaal deel van het budget te verschuiven;<br>
+9° de vermelding dat het budget bedoeld is voor groepsopvang, voor gezinsopvang of voor beide;<br>
+10° de vermelding dat de basissubsidie of een van de programmatiesubsidies automatisch mee wordt toegekend bij de toekenning van een subsidiebelofte voor een programmatiesubsidie in het kader van de algemene oproep;<br>
+11° de begindatum en de einddatum voor de indiening van een aanvraag van een subsidiebelofte, waarbij de termijn tussen de begindatum en de einddatum minstens één maand bedraagt;<br>
+12° de beslissingstermijnen, vermeld in artikel 63 tot en met 74;<br>
+13° het aanvraagformulier dat gebruikt moet worden;<br>
+14° het beslissingskader.<br>
 <br>
-§ 5. Om de geografische gebieden te bepalen die in aanmerking komen, en de rangschikking ervan voor de toekenning van subsidies voor de omschakeling van bestaande kinderopvangplaatsen naar kinderopvangplaatsen met subsidie voor inkomenstarief gelden de volgende opeenvolgende stappen:<br>
-1° om per geografisch gebied te bepalen of het gebied in aanmerking komt voor verdeling van subsidies voor omschakeling naar kinderopvangplaatsen met subsidie voor inkomenstarief wordt voor elk geografisch gebied bepaald of er behoefte is aan subsidieerbare kinderopvangplaatsen met subsidie voor inkomenstarief. In elk geografisch gebied wordt daarvoor gekeken naar het aandeel van het totale aantal kinderopvangplaatsen zonder subsidie en zonder subsidiebelofte voor inkomenstarief in het totale aantal vergunde kinderopvangplaatsen van het gebied. De geografische gebieden worden van hoog naar laag gerangschikt volgens die behoefte, waarbij het gebied met de grootste behoefte bovenaan komt;<br>
-2° voor de omschakeling van bestaande kinderopvangplaatsen zonder subsidie naar kinderopvangplaatsen met basissubsidie, gecombineerd met subsidie voor inkomenstarief, en voor de omschakeling van bestaande kinderopvangplaatsen met basissubsidie naar kinderopvangplaatsen met subsidie voor inkomenstarief bepaalt de minister, voor het aandeel van het totale aantal subsidieerbare kinderopvangplaatsen met inkomenstarief, berekend conform punt 1°, grenspercentages om nader te bepalen of er in dat geografische gebied omschakeling naar subsidie inkomenstarief mogelijk is.<br>
+In het tweede lid, 8°, wordt verstaan onder de omschakeling van een bestaande kinderopvangplaats: de omschakeling van een kinderopvangplaats die vergund en opgestart is op het moment van de algemene oproep zonder een bepaalde programmatiesubsidie van het agentschap naar een kinderopvangplaats waarvoor die programmatiesubsidie wordt toegekend.<br>
 <br>
-De minister bepaalt het aantal hoogst gerangschikte geografische gebieden conform paragraaf 2, 5° en paragraaf 5, eerste lid, waarvan de aanvragen in aanmerking komen.<br>
+In het beslissingskader, vermeld in het tweede lid, 14°, bepaalt het agentschap de criteria aan de hand waarvan het agentschap, naargelang de principes van de algemene oproep, per geografisch gebied, als de geografische gebieden gerangschikt worden, of over de geografische gebieden heen de verschillende subsidieaanvragen op een objectieve wijze beoordeelt en rangschikt om te beslissen welke aanvragen een subsidiebelofte krijgen. Dat beslissingskader kan ontvankelijkheidscriteria, uitsluitingscriteria, voorrangscriteria en inhoudelijke vergelijkingscriteria bevatten. De criteria die het agentschap bepaalt, resulteren erin dat de subsidiebeloftes toegekend worden aan de aanvragen die de beste beoordeling krijgen op de criteria die betrekking hebben op een of meer van de volgende kenmerken:<br>
+1° de duurzaamheid van de organisator en de kinderopvanglocatie;<br>
+2° het beleidsvoerende vermogen van de organisator, waaronder de financiële en bestuurlijke weerbaarheid en transparantie en het organisatorische management van de organisator in het algemeen;<br>
+3° het medewerkersbeleid;<br>
+4° de wijze van uitvoering van de specifieke dienstverlening in het kader van de te verdelen subsidie;<br>
+5° het netwerk van de organisator in het kader van de kinderopvangactiviteiten en de samenwerking met andere relevante actoren;<br>
+6° de lokale meerwaarde en relevantie van de aanvraag op basis van een gemotiveerd negatief of positief advies met een score van het lokaal bestuur waarbij het lokaal bestuur een procedure en criteria hanteert als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 mei 2013 houdende het lokaal beleid kinderopvang. De criteria van het lokaal bestuur zijn andere criteria dan degene die het agentschap in de algemene oproep hanteert.<br>
 <br>
-De minister kan nadere voorwaarden bepalen voor geografische gebieden die de behoefte aan subsidieerbare kinderopvangplaatsen binnen hun gebied willen aantonen, en, in voorkomend geval, het aantal en de rangschikking van die gebieden.<br>
+§ 4. De minister oefent goedkeuringstoezicht uit op de algemene oproep van het agentschap. In het kader van dat goedkeuringstoezicht controleert de minister of de algemene oproep van het agentschap, met inbegrip van het beslissingskader, voldoet aan de bepalingen van het decreet van 20 april 2012 en dit besluit.<br>
 <br>
-§ 6. Om de geografische gebieden te bepalen die in aanmerking komen, en de rangschikking ervan voor de nieuwe kinderopvangplaatsen met plussubsidie en voor de omschakeling van bestaande kinderopvangplaatsen naar kinderopvangplaatsen met plussubsidie, gelden de volgende opeenvolgende stappen:<br>
-1° per geografisch gebied, met uitzondering van het tweetalige gebied Brussel-Hoofdstad, wordt vastgesteld hoeveel kinderen er in een bepaalde periode die de minister bepaalt, geboren zijn in een kansarm gezin, zoals geregistreerd in Mirage. De geografische gebieden worden op basis daarvan gerangschikt, waarbij het gebied met de meeste kinderen die in een kansarm gezin geboren zijn, bovenaan staat;<br>
-2° om de geografische gebieden te bepalen die in aanmerking komen voor subsidieerbare plaatsen met plussubsidie, bepaalt de minister een minimale aanwezigheid van het aantal kinderen dat geboren is in een kansarm gezin, zoals geregistreerd in Mirage, in die bepaalde periode.<br>
-<br>
-De minister bepaalt het aantal hoogst gerangschikte geografische gebieden conform paragraaf 2, 5° en paragraaf 6, eerste lid, waarvan de aanvragen in aanmerking komen. De minister stelt voor die geografische gebieden de grenspercentages vast die bepalen tot welk niveau subsidieerbare kinderopvangplaatsen met plussubsidie kunnen worden toegekend.<br>
-<br>
-§ 7. Om de geografische gebieden te bepalen die in aanmerking komen voor de subsidie voor Centrum inclusieve kinderopvang, vermeld in artikel 1, 14° /1, van het Subsidiebesluit van 22 november 2013, en voor de subsidie voor structurele inclusieve kinderopvang, vermeld in artikel 1, 18°, van het voormelde besluit, wordt rekening gehouden met het beschikbare aanbod met dezelfde soort subsidie als de subsidie die verdeeld kan worden. Het beschikbare aanbod wordt bekeken binnen het geografische gebied. Hoe lager het beschikbare aanbod is, hoe hoger het geografische gebied in de rangschikking staat.<br>
-<br>
-§ 8. Om de geografische gebieden te bepalen die in aanmerking komen voor de subsidie voor ruimere openingsmomenten, vermeld in artikel 1, 17° /1, b), van het Subsidiebesluit van 22 november 2013, wordt het subsidiebudget verhoudingsgewijs verdeeld over de geografische gebieden op basis van de behoefte aan kinderopvang met ruimere openingsmomenten. De behoefte wordt bepaald door in elk geografisch gebied de totale aanwezigheid van de volgende groepen te berekenen:<br>
-1° het aantal kinderen jonger dan drie jaar in een gezin met twee werkende ouders;<br>
-2° het aantal kinderen jonger dan drie jaar in een eenoudergezin waarvan de ouder werkt.<br>
-<br>
-§ 9. Om de geografische gebieden te bepalen die in aanmerking komen voor de subsidie voor dringende kinderopvang, vermeld in artikel 1, 14° /2, van het Subsidiebesluit van 22 november 2013, wordt het subsidiebudget verhoudingsgewijs verdeeld over de geografische gebieden op basis van de behoefte aan dringende opvangplaatsen. De behoefte wordt bepaald door in elk geografisch gebied de totale aanwezigheid van de volgende groepen te berekenen:<br>
-1° het aantal kinderen jonger dan drie jaar in een eenoudergezin, waarbij de ouder werkzoekend is, vermenigvuldigd met factor 3;<br>
-2° het aantal kinderen jonger dan drie jaar in een eenoudergezin, waarbij de ouder werkt of niet beroepsactief is maar wel een uitkering van de Rijksdienst voor Arbeidsvoorziening krijgt;<br>
-3° het aantal kinderen jonger dan drie jaar in een gezin waarvan minstens één persoon werkzoekend is;<br>
-4° het aantal kinderen jonger dan drie jaar geboren in een kansarm gezin, zoals geregistreerd in Mirage.</p>
+Het agentschap kan geen algemene oproep versturen voordat de minister het goedkeuringstoezicht, vermeld in het eerste lid, uitgeoefend heeft.
 
 ### ART. 58.
 
@@ -594,11 +586,11 @@ b) de identiteitsgegevens en de contactgegevens, waaronder minstens de voor- en 
 4° de gegevens over de subsidie die gevraagd wordt:<br>
 a) welke subsidie gevraagd wordt;<br>
 b) voor welke opvangvorm de subsidie gevraagd wordt;<br>
-c) voor welke zorgregio of gemeente de subsidie gevraagd wordt;<br>
+c) voor welk geografisch gebied de subsidie gevraagd wordt;<br>
 d) het gevraagde aantal subsidieerbare kinderopvangplaatsen;<br>
 5° de gegevens over de wijze waarop de organisator de geplande realisatie van de gevraagde subsidie zal doen:<br>
 a) als dat relevant is: de naam en het adres van de kinderopvanglocatie;<br>
-b) de gegevens waaruit blijkt dat voldaan is aan de bepalingen van de algemene oproep, vermeld in artikel 58;<br>
+b) voor de verdeling van subsidiebeloftes naar aanleiding van een algemene oproep als vermeld in artikel 57 of 58, de gegevens waaruit blijkt dat voldaan is aan de bepalingen van de algemene oproep, vermeld in artikel 57 of&nbsp;58;<br>
 6° een verklaring op erewoord over:<br>
 a) het feit dat de persoon die de aanvraag doet, gemachtigd is om te handelen in naam van de organisator;<br>
 b) de kennisname van de voorwaarden voor de specifieke dienstverlening, vermeld in het Subsidiebesluit van 22 november 2013;<br>
@@ -606,11 +598,11 @@ b) de kennisname van de voorwaarden voor de specifieke dienstverlening, vermeld 
 
 ### ART. 60.
 
-Naast het aanvraagformulier, vermeld in artikel 59, bezorgt de organisator de documenten waaruit blijkt dat voldaan is aan de bepalingen van de algemene oproep, vermeld in artikel 58, met de post of elektronisch, volgens de administratieve richtlijnen van het agentschap.
+Naast het aanvraagformulier, vermeld in artikel 59, bezorgt de organisator de documenten waaruit blijkt dat voldaan is aan de bepalingen van de algemene oproep, vermeld in artikel 57 of 58, met de post of elektronisch, volgens de administratieve richtlijnen van het agentschap.
 
 ### ART. 61.
 
-De aanvraag wordt ingediend binnen de in de algemene oproep vastgelegde   termijn, vermeld in artikel 58.<BR>
+De aanvraag wordt in het kader van een algemene oproep als vermeld in artikel 57 of 58,&nbsp;ingediend binnen de in de algemene oproep vastgelegde termijn, vermeld in artikel 58.
 
 ### ART. 62.
 
@@ -626,7 +618,11 @@ Als de organisator van een kinderopvanglocatie die recht heeft op een   subsidie
 
 ### ART. 63.
 
-De aanvraag van een subsidiebelofte is ontvankelijk als de aanvraag   cumulatief aan de volgende voorwaarden voldoet. De aanvraag:<BR>1° wordt   ingediend binnen de in de oproep vastgelegde termijnen;<BR>2° bevat de nodige   gegevens op het aanvraagformulier, vermeld in artikel 59;<BR>3° bevat de nodige   documenten, vermeld in artikel 60 en 62;<BR>4° voldoet aan eventuele bijkomende   ontvankelijkheidsvoorwaarden als vermeld in artikel 58, 5°.<BR>
+De aanvraag van een subsidiebelofte is ontvankelijk als de aanvraag cumulatief aan de volgende voorwaarden voldoet. De aanvraag:<br>
+1° wordt ingediend binnen de in de oproep vastgelegde termijnen;<br>
+2° bevat de nodige gegevens op het aanvraagformulier, vermeld in artikel 59;<br>
+3° bevat de nodige documenten, vermeld in artikel 60 en 62;<br>
+4° voldoet aan eventuele bijkomende ontvankelijkheidsvoorwaarden die zijn opgenomen in het beslissingskader, vermeld in artikel 57, § 3, tweede lid, 14°, of vermeld in artikel 58, derde lid, 3°.
 
 ### ART. 64.
 
@@ -659,11 +655,13 @@ Als het agentschap geen beslissing heeft genomen of de organisator daarvan niet 
 
 ### ART. 69.
 
-Het agentschap&nbsp;maakt een voorstel van verdeling van de beschikbare subsidieerbare plaatsen op basis van het totaal te verdelen subsidiebudget, en de wijze waarop het verdeeld zal worden, vermeld in artikel 58, 6°.
+In het kader van een algemene oproep als vermeld in artikel 57 of 58, maakt het agentschap een voorstel van verdeling van de beschikbare subsidieerbare plaatsen op basis van het totaal te verdelen subsidiebudget, en een voorstel voor de wijze waarop het verdeeld moet worden op basis van de procedure, vermeld in artikel 57, § 2 tot en met § 4, of artikel 58, tweede tot en met vierde lid.
 
 ### ART. 70.
 
-Het agentschap beslist over de gegrondheid van de aanvraag van een subsidiebelofte op basis van het voorstel van verdeling uiterlijk negentig kalenderdagen na de einddatum voor de indiening van de aanvraag van een subsidiebelofte. Als die termijn van negentig kalenderdagen geheel of gedeeltelijk in de maand juli of augustus valt, wordt de termijn met dertig kalenderdagen verlengd.
+Het agentschap beslist over de gegrondheid van de aanvraag van een subsidiebelofte in het kader van een algemene oproep als vermeld in artikel 57 of 58, op basis van het voorstel van verdeling uiterlijk negentig kalenderdagen na de einddatum voor de indiening van de aanvraag van een subsidiebelofte. Als die termijn van negentig kalenderdagen geheel of gedeeltelijk in de maand juli of augustus valt, wordt de termijn met dertig kalenderdagen verlengd.<br>
+<br>
+Als de minister het goedkeuringstoezicht niet heeft uitgeoefend binnen de termijn, vermeld in artikel 57, § 4, wordt de termijn, vermeld in het eerste lid, verlengd tot de minister het goedkeuringstoezicht uitgeoefend heeft.
 
 ### ART. 71.
 
@@ -682,6 +680,7 @@ d) de vermelding dat de subsidiebelofte gedeeltelijk of volledig kan worden stop
 e) de mogelijkheid en de modaliteiten om een verlenging van de subsidiebelofte te vragen;<br>
 f) in geval van groepsopvang: in welke kinderopvanglocatie de subsidieerbare plaatsen eerst gerealiseerd moeten worden;<br>
 g) in geval van gezinsopvang: in welke gemeente de subsidieerbare plaatsen eerst gerealiseerd moeten worden.<br>
+h) de vermelding dat de subsidiebelofte niet omgezet kan worden in een subsidietoekenning als de organisator niet voldoet aan de criteria in het beslissingskader, vermeld in artikel 57, § 3, tweede lid, 14°, en vierde lid, of artikel 58, derde lid, 3°, op basis waarvan zijn aanvraag is beoordeeld en gerangschikt;<br>
 4° in geval van gedeeltelijke toekenning of weigering: de mogelijkheid om bezwaar aan te tekenen en de wijze waarop dat moet gebeuren;<br>
 5° in geval van weigering van de subsidiebelofte: de vermelding van het gevolg daarvan, meer bepaald dat er geen subsidie toegekend kan worden;<br>
 6° de datum van de beslissing en de elektronische handtekening van het agentschap.
@@ -694,7 +693,7 @@ Het agentschap bezorgt op de volgende wijze de beslissing over de subsidiebeloft
 
 ### ART. 74.
 
-Als het agentschap geen beslissing heeft genomen of de organisator daarvan niet op de hoogte heeft gebracht binnen de termijnen die van toepassing zijn, wordt de subsidiebelofte geacht geweigerd te zijn. Het agentschap kan nadien nog een andere beslissing nemen.
+...
 
 ## Afdeling 4 Verlenging van de subsidiebelofte
 
@@ -744,9 +743,11 @@ c) de verwijzing naar de subsidiebelofte;<br>
 d) de kinderopvanglocatie waar de organisator de specifieke dienstverlening zal aanbieden, waarbij voor de eerste realisatie:<br>
 1) in geval van groepsopvang: de kinderopvanglocatie moet overeenstemmen met de kinderopvanglocatie die is opgegeven in de aanvraag van een subsidiebelofte;<br>
 2) in geval van gezinsopvang: de gemeente waar de kinderopvanglocatie gelegen is moet overeenstemmen met de gemeente die is opgegeven in de aanvraag van een subsidiebelofte;<br>
+e) op welke manier de organisator voldoet aan de criteria van Opgroeien regie in het beslissingskader, vermeld in artikel 57, § 3, tweede lid, 14°, en derde lid, of artikel 58, derde lid, 3°, waarvan hij in de aanvraag van de subsidiebelofte had medegedeeld dat hij er uiterlijk bij de subsidietoekenning aan zou voldoen;<br>
 4° een verklaring op erewoord over:<br>
 a) het feit dat de persoon die de aanvraag doet, gemachtigd is om te handelen in naam van de organisator;<br>
 b) de kennisname van de voorwaarden voor de specifieke dienstverlening, vermeld in het Subsidiebesluit van 22 november 2013;<br>
+c) de realisatie van de criteria uit het beslissingskader, vermeld in artikel 57, § 3, tweede lid, 14°, en derde lid, die door het lokaal bestuur werden beoordeeld en waarvan de organisator in het kader van de aanvraag van de subsidiebelofte meedeelde eraan te voldoen ten laatste bij de subsidietoekenning;<br>
 5° de datum en de handtekening van de organisator.
 
 ### ART. 80.
@@ -1024,47 +1025,40 @@ Het bezwaar schort de uitvoering van de beslissing niet   op.<BR>
 
 ### ART 112/1.
 
-Het agentschap treedt op als uitbetalingsinstelling als aan al de volgende voorwaarden is voldaan:<br>
-1° er is een convenant gesloten tussen het agentschap en een lokaal bestuur over de subsidiëring van kinderopvangplaatsen door het lokaal bestuur;<br>
-2° het lokaal bestuur heeft een subsidie toegekend aan organisatoren om te werken met het systeem inkomenstarief, vermeld in artikel 27 tot en met artikel 36/1 van het Subsidiebesluit van 22 november 2013;<br>
-3° de subsidie van het lokaal bestuur bestaat uit de bedragen, vermeld in artikel 17 tot en met artikel 19 van het Subsidiebesluit van 22 november 2013;<br>
-4° het lokaal bestuur heeft een aanvraag tot tussenkomst als uitbetalingsinstelling ingediend bij het agentschap;<br>
-5° na onderzoek door het agentschap blijkt dat de werkwijze van het lokaal bestuur en de organisatoren, en de afspraken in het convenant het mogelijk maken dat het agentschap optreedt als uitbetalingsinstelling.
+§ 1. Voor het agentschap een algemene oproep als vermeld in artikel 57, doet voor een programmatiesubsidie, stelt het agentschap aan de lokale besturen van de steden waarvoor een voorafname is als vermeld in artikel 57, § 3, tweede lid, 3°, de vraag of die lokale besturen vanuit hun meerjarenplanning over kinderopvang willen aansluiten bij de algemene oproep van het agentschap om vanuit het lokaal bestuur dezelfde subsidie toe te kennen aan organisatoren binnen hun grondgebied om te werken voor dezelfde specifieke dienstverlening.<br>
+<br>
+Het agentschap bezorgt aan de lokale besturen die willen aansluiten bij de algemene oproep, de rangschikking van de aanvragen die geen subsidiebelofte kregen van het agentschap omdat het budget niet toereikend was.<br>
+<br>
+§ 2. In het kader van een algemene oproep als vermeld in artikel 57, verleent het agentschap in de grootsteden Antwerpen, Gent en het tweetalige gebied Brussel-hoofdstad voorrang aan de aanvraag van een organisator die van het lokaal bestuur dezelfde subsidie ontvangt voor dezelfde specifieke dienstverlening als de programmatiesubsidie die het agentschap kan verdelen, als aan een van de volgende voorwaarden voldaan is:<br>
+1° de subsidie van het lokaal bestuur is toegekend in het kader, vermeld in de eerste paragraaf, het eerste lid;<br>
+2° de subsidie van het lokaal bestuur is toegekend voor nieuwe kinderopvangplaatsen, na een algemene oproep met een beslissingskader van het lokaal bestuur buiten de algemene oproep van het agentschap. In dit geval neemt het lokaal bestuur in het beslissingskader de criteria op die het agentschap bij de meest recente algemene oproep hanteerde en eventueel daarbij ook eigen aanvullende objectieve en relevante criteria als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 mei 2013 houdende het lokaal beleid kinderopvang, die voor de oproep door het lokaal bestuur goedgekeurd zijn door het agentschap.<br>
+<br>
+§ 3. In de situaties waarin het lokaal bestuur conform paragraaf 1 en 2 dezelfde subsidie toekent aan de organisator voor dezelfde specifieke dienstverlening als de dienstverlening waarvoor het agentschap de subsidie verleent, treedt het agentschap op als uitbetalingsinstelling die de subsidie betaalt.<br>
+<br>
+Het agentschap sluit een convenant met de lokale besturen, vermeld in het eerste lid. De convenant bevat afspraken over:<br>
+1° de verplichtingen van het agentschap voor de voorafname, vermeld in artikel 57, § 3, tweede lid, 3°, en de voorrang, vermeld in paragraaf 2;<br>
+2° de informatie-uitwisseling met het oog op de toekenning van subsidies door het lokaal bestuur in het geval, vermeld in paragraaf 1;<br>
+3° de informatie-uitwisseling met het oog op het optreden als uitbetalingsinstelling door het agentschap;<br>
+4° de betalingsmodaliteiten van de subsidie door het agentschap aan de organisatoren en door het lokaal bestuur aan het agentschap;<br>
+5° de engagementen die het lokaal bestuur aangaat;<br>
+6° het toezicht op de naleving van de subsidievoorwaarden en de handhaving bij de organisatoren die het lokaal bestuur subsidieert;<br>
+7° de modaliteiten tot beëindiging of tot wijziging van het convenant.
 
 ### ART 112/2.
 
-De aanvraag tot tussenkomst als uitbetalingsinstelling wordt ingediend met een formulier dat het agentschap ter beschikking stelt, en dat de volgende gegevens bevat:<br>
-1° de gegevens van het lokaal bestuur:<br>
-a) de naam en het adres van het lokaal bestuur;<br>
-b) de contactgegevens van het lokaal bestuur, waaronder minstens de voor- en achternaam, het telefoonnummer en het e-mailadres van de contactpersoon;<br>
-2° de gegevens van de organisatoren die een subsidietoekenning van het lokaal bestuur hebben en waaraan een subsidie moet betaald worden, waaronder minstens de naam, het ondernemingsnummer en het aantal subsidieerbare plaatsen;<br>
-3° de gewenste startdatum van de uitbetaling door het agentschap;<br>
-4° een verklaring op erewoord over het feit dat de persoon die de aanvraag indient, gemachtigd is om te handelen in naam van het lokaal bestuur;<br>
-5° de datum en de handtekening.<br>
-<br>
-Het lokaal bestuur voegt bij het aanvraagformulier de beslissingen tot subsidietoekenning waarvoor hij de aanvraag indient.
+...
 
 ### ART 112/3.
 
-Het agentschap onderzoekt de aanvraag en beslist uiterlijk dertig kalenderdagen na de datum van ontvangst van de aanvraag.
+...
 
 ### ART 112/4.
 
-Als het agentschap de aanvraag goedkeurt, zorgt het lokaal bestuur ervoor dat de betrokken organisatoren de gegevens, vermeld in artikel 7 tot en met 10 van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, bezorgen aan het agentschap.<br>
-<br>
-Het agentschap betaalt op basis van die gegevens, vermeld in het eerste lid, conform artikel 7 tot en met 9 van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, de subsidiebedragen rechtstreeks aan de organisator.<br>
-<br>
-Het agentschap bezorgt elk kwartaal een factuur aan het lokaal bestuur.<br>
-<br>
-Als een subsidiegroep zowel subsidieerbare plaatsen met basissubsidie en inkomenstarief van het agentschap als van het lokaal bestuur heeft, wordt de te betalen subsidie verhoudingsgewijs verdeeld tussen het agentschap en het lokaal bestuur.
+...
 
 ### ART 112/5.
 
-Het toezicht op de naleving van de subsidievoorwaarden die het lokaal bestuur oplegt aan de organisatoren voor hun subsidie, wordt uitgevoerd door het lokaal bestuur, met uitzondering van de naleving van de voorwaarden, vermeld in artikel 21, 22, 23 en artikel 27 tot en met 36/1 van het Subsidiebesluit van 22 november 2013.<br>
-<br>
-Als het agentschap inbreuken vaststelt, bezorgt het die gegevens aan het lokaal bestuur.<br>
-<br>
-Het agentschap neemt geen enkele bestuurlijke maatregel of bestuurlijke geldboete met betrekking tot de naleving van de subsidievoorwaarden voor de subsidie van het lokaal bestuur door de organisator.
+...
 
 ### ART 112/6.
 
