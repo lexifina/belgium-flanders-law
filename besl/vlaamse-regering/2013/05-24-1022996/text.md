@@ -21,8 +21,10 @@
 Het lokaal bestuur heeft een taak betreffende het lokaal beleid kinderopvang. Die taak houdt in dat het lokaal bestuur :<br>
 1° een Lokaal Overleg Kinderopvang opricht;<br>
 2° beleidsdoelstellingen voor kinderopvang bepaalt;<br>
-3° een advies kan geven aan het agentschap over de uitbreiding van de kinderopvang binnen het eigen grondgebied;<br>
-4° lokale actoren en gebruikers informeert.
+3° een advies kan geven aan het agentschap over de uitbreiding van vergunde kinderopvangplaatsen enerzijds en over de toekenning van subsidieerbare kinderopvangplaatsen anderzijds, rekening houdend met de lokale context binnen het eigen grondgebied;<br>
+4° lokale actoren en gebruikers informeert.<br>
+<br>
+Het lokaal bestuur treedt bij de uitvoering van de taak, vermeld in het eerste lid, neutraal op, onder andere door de rol van lokale regisseur en de rol van organisator te scheiden.
 
 ## HOOFDSTUK 2 Lokaal Overleg Kinderopvang oprichten
 
@@ -48,9 +50,18 @@ Het lokaal bestuur neemt de beleidsdoelstellingen voor kinderopvang op in   de s
 
 ### ART. 7.
 
-<p>Het lokaal bestuur kan het agentschap een advies geven over de uitbreiding van de kinderopvang binnen het eigen grondgebied.</p>
+<p>De adviestaak, vermeld in artikel 2, 3°, houdt het volgende in:<br>
+1° een advies over de opportuniteit van een aanvraag vergunning voor de opstart of de uitbreiding van een kinderopvanglocatie groepsopvang in de gemeente;<br>
+2° een advies met eventueel een score over een aanvraag voor subsidieerbare kinderopvangplaatsen.</p>
 
-<p>Dat advies is gebaseerd op de strategische meerjarenplanning, en voor de gemeenten uit het tweetalige gebied Brussel-Hoofdstad op de beleidsnota, vermeld in artikel 6.</p>
+<p>Dat advies is gebaseerd op de strategische meerjarenplanning, en voor de gemeenten uit het tweetalige gebied Brussel-Hoofdstad op de beleidsnota, vermeld in artikel 6.<br>
+<br>
+Het lokaal bestuur voorziet in een procedure en criteria op basis waarvan het advies wordt opgemaakt. De procedure en de criteria voldoen aan de volgende voorwaarden:<br>
+1° de criteria zijn transparant, objectief en relevant. Het lokaal bestuur motiveert dat;<br>
+2° de procedure en de criteria zijn vooraf voor advies voorgelegd aan het Lokaal Overleg Kinderopvang van de gemeente;<br>
+3° de procedure en de criteria zijn publiek raadpleegbaar en zijn bekendgemaakt aan de organisatoren van kinderopvang voor organisatoren een aanvraag kunnen indienen bij het agentschap.<br>
+<br>
+Het lokaal bestuur voorziet in een procedure met hoorrecht voor de organisator om opmerkingen te formuleren bij het uitgebrachte advies. Het lokaal bestuur informeert de organisator over die procedure uiterlijk op het moment dat het advies aan de organisator wordt bezorgd.</p>
 
 ## HOOFDSTUK 5 Lokale actoren en gebruikers informeren
 
