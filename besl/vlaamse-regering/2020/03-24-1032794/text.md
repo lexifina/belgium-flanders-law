@@ -112,7 +112,9 @@ b) de organisator voldoet aan de voorwaarden vermeld in artikel 5 § 1, tweede l
 <br>
 § 3. Als de organisator voldoet aan de voorwaarden, vermeld in § 1, betaalt het agentschap de subsidie uiterlijk twee maanden na ontvangst van de aanvraag.<br>
 <br>
-In afwijking van het eerste lid, zal het agentschap de subsidie betalen uiterlijk twee maanden na het bezorgen van de gegevens in het kader van de kinderopvangtoeslag als de organisator niet conform artikel 4, tweede lid van het besluit van 7 december 2018 houdende de kinderopvangtoeslag en kleutertoeslag de gegevens tijdig bezorgde aan het agentschap.
+In afwijking van het eerste lid, zal het agentschap de subsidie betalen uiterlijk twee maanden na het bezorgen van de gegevens in het kader van de kinderopvangtoeslag als de organisator niet conform artikel 4, tweede lid van het besluit van 7 december 2018 houdende de kinderopvangtoeslag en kleutertoeslag de gegevens tijdig bezorgde aan het agentschap.<br>
+<br>
+§ 4. De organisator die de subsidie toegekend kreeg, kan bij het agentschap een rechtzetting doen van de gegevens, vermeld in § 2, 2°, uiterlijk 31 maart 2021.
 
 ### ART 6.
 
@@ -143,7 +145,9 @@ a) de organisator artikel 3 naleeft;<br>
 b) de organisator voldoet aan de voorwaarden vermeld in artikel 6 § 1, tweede lid;<br>
 4° datum en ondertekening.<br>
 <br>
-§ 3. Het agentschap berekent en betaalt deze subsidie uiterlijk op 31 december 2020 als de organisator aan de voorwaarden, vermeld in het eerste lid, voldoet en op voorwaarde dat de organisator tijdig de gegevens bezorgde zoals vermeld in artikel 10 § 1 van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013.
+§ 3. Het agentschap berekent en betaalt deze subsidie uiterlijk op 31 december 2020 als de organisator aan de voorwaarden, vermeld in het eerste lid, voldoet en op voorwaarde dat de organisator tijdig de gegevens bezorgde zoals vermeld in artikel 10 § 1 van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013.<br>
+<br>
+§ 4. De organisator die de subsidie toegekend kreeg, kan bij het agentschap een rechtzetting doen van de gegevens, vermeld in § 2, 2°, uiterlijk 31 maart 2021.
 
 ### ART 7.
 
@@ -172,7 +176,9 @@ a) de organisator artikel 3 naleeft;<br>
 b) de organisator voldoet aan de voorwaarden vermeld in artikel 7 § 1, tweede lid;<br>
 4° datum en ondertekening.<br>
 <br>
-§ 3. Het agentschap berekent en betaalt deze subsidie uiterlijk op 31 december 2020 als de organisator aan de voorwaarden, vermeld in het eerste lid, voldoet en op voorwaarde dat de organisator tijdig de gegevens bezorgde zoals vermeld in artikel 10 § 1 van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013.
+§ 3. Het agentschap berekent en betaalt deze subsidie uiterlijk op 31 december 2020 als de organisator aan de voorwaarden, vermeld in het eerste lid, voldoet en op voorwaarde dat de organisator tijdig de gegevens bezorgde zoals vermeld in artikel 10 § 1 van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013.<br>
+<br>
+§ 4. De organisator die de subsidie toegekend kreeg, kan bij het agentschap een rechtzetting doen van de gegevens, vermeld in § 2, 2°, uiterlijk 31 maart 2021.
 
 ### ART 8.
 
