@@ -268,6 +268,10 @@ Als de organisator de gegevens niet tijdig bezorgt aan het agentschap conform ar
 <br>
 Als het agentschap de gegevens, vermeld in het derde en vierde lid, niet ontvangen heeft binnen 120 dagen nadat het de aanvraag heeft ontvangen, vervalt het recht op de algemene of selectieve subsidie waarop de aanvraag betrekking heeft.
 
+### ART 16/1.
+
+De organisator die de subsidie toegekend kreeg, kan bij het agentschap een rechtzetting doen van de gegevens, vermeld in artikel 15, tweede lid, 3°, artikel 15, derde lid, 1°, artikel 15, vierde lid, 1° en 2°, artikel 15, vijfde lid, 1° tot en met 4°, uiterlijk de laatste dag van de vierde maand na de maand waarop de gegevens betrekking hebben.
+
 ## HOOFDSTUK 5. Toezicht en handhaving
 
 ### ART 17.
