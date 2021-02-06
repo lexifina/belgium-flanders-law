@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035123,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-04 tot wijziging van het besluit van de Vlaamse Regering van 16 mei 2014 houdende de rechtspleging voor sommige Vlaamse bestuursrechtscolleges, wat de verkorte procedure betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035123/VolledigDocument?datum=2021-02-06",
+  "source_sha256": "f16e756f6f2eeb7c380e4b5676f04c5c4df3e11eeacc5b2579323f44451b23cb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035123&param=informatie",
+  "as_of": "2021-02-06",
+  "made": "2020-12-04",
+  "gazette": "2021-01-27",
+  "numac": 2021040010,
+  "document_start": "2021-02-06",
+  "document_end": null,
+  "in_force": "2021-02-06",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-02-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
