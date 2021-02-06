@@ -534,6 +534,8 @@ Dit deel is van toepassing op de beroepen die worden ingediend tegen :<br>
 
 § 1. De voorzitter van het College of de door hem aangewezen bestuursrechter kan ambtshalve onderzoeken of het beroep volgens de vereenvoudigde procedure kan worden behandeld of alleen korte debatten vereist.<br>
 <br>
+Wanneer een verzoekschrift een vordering tot schorsing, als vermeld in artikel 40, § 1, van het decreet, en een vordering tot vernietiging bevat, kan een verkorte procedure worden toegepast op deze vorderingen gezamenlijk of op een van de vorderingen afzonderlijk.<br>
+<br>
 § 2. In afwijking van artikel 62, eerste lid, en 74, § 1, eerste lid, kan de griffier de verweerder vragen om het administratief dossier in te dienen binnen een termijn van acht dagen.<br>
 <br>
 Als het administratief dossier niet in het bezit is van de verweerder, brengt de verweerder de griffie daarvan onmiddellijk en schriftelijk op de hoogte en geeft hij aan waar het administratief dossier zich bij zijn weten bevindt. De griffier vordert het administratief dossier op bij het bestuursorgaan dat het onder zich heeft. Dat bestuursorgaan zendt het gevorderde dossier onmiddellijk naar de griffie.<br>
