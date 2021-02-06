@@ -55,7 +55,40 @@ De wegeninspecteurs verplaatsen zich in een dienstvoertuig, voorzien van de kent
 
 ## Afdeling 1. Onmiddellijke inning en consignatie
 
+### ART 5.
+
+De onmiddellijke inning is uitgesloten wanneer er ten gevolge van de inbreuk andere schade is dan de schade, vermeld in artikel 3, tweede lid van het decreet van 3 mei 2013, ontstaan aan de openbare weg, zijn aanhorigheden en de kunstwerken die erin liggen.
+
+### ART 6.
+
+§ 1. Als de overtreder de administratieve geldboete conform artikel 17, § 6, van het decreet van 3 mei 2013 onmiddellijk betaald heeft, kan de wegeninspecteur in plaats van een proces-verbaal een verslag van vaststelling opmaken.<br>
+<br>
+Het verslag van vaststelling bevat minstens al de volgende informatie:<br>
+1° de identiteit van de overtreder of, in voorkomend geval, de onderneming;<br>
+2° de plaats, de datum en het tijdstip van de inbreuk;<br>
+3° de geschonden decretale of reglementaire bepalingen;<br>
+4° het bedrag van de onmiddellijke inning.<br>
+<br>
+§ 2. De wegeninspecteur bezorgt een afschrift van het verslag van vaststelling aan de overtreder en aan de wegeninspecteur-controleur.<br>
+<br>
+§ 3. Als de administratieve geldboete in consignatie is gegeven, noteert de wegeninspecteur het bedrag van de consignatie in het proces-verbaal.
+
 ## Afdeling 2. Wijze waarop de onmiddellijke inning gebeurt
+
+### ART 7.
+
+§ 1. De onmiddellijke inning of de consignatie, vermeld in afdeling 1, gebeurt met een betaalterminal.<br>
+<br>
+De wegeninspecteur kan in bijzondere omstandigheden andere wijzen van betaling dan de betaalterminal, vermeld in het eerste lid, toestaan. Hij noteert in voorkomend geval de redenen daarvoor in het verslag van vaststelling of in het proces-verbaal.<br>
+<br>
+§ 2. Als de overtreder of, in voorkomend geval, de onderneming een woonplaats of vaste verblijfplaats in België heeft en de administratieve geldboete niet onmiddellijk betaald heeft, bezorgt de wegeninspecteur binnen veertien dagen na de dag waarop de inbreuk is vastgesteld, samen met het afschrift van het proces-verbaal, een voorstel tot onmiddellijke inning aan de overtreder of, in voorkomend geval, aan de onderneming.<br>
+<br>
+Het voorstel tot onmiddellijke inning bevat al de volgende gegevens:<br>
+1° het bedrag van de administratieve geldboete;<br>
+2° de vereiste betalingsgegevens;<br>
+3° de gevolgen in geval van niet-tijdige betaling.<br>
+<br>
+De overtreder of, in voorkomend geval, de onderneming beschikt over een vervaltermijn van tien dagen na de dag waarop de wegeninspecteur het voorstel tot onmiddellijke inning heeft verzonden conform het eerste lid.
 
 ## HOOFDSTUK 4. Administratieve procedure
 
