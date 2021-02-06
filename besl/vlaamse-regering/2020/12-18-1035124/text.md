@@ -190,4 +190,18 @@ In artikel 6.69, eerste lid, van hetzelfde besluit worden de woorden "voor de ee
 
 ## HOOFDSTUK 2. Wijzigingen van het ministerieel besluit van 21 december 2007 houdende uitvoering van een aantal bepalingen van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode
 
+### ART 25.
+
+In het ministerieel besluit van 21 december 2007 houdende uitvoering van een aantal bepalingen van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode worden de volgende artikelen opgeheven:<br>
+1° artikel 5;<br>
+2° artikel 7/1, ingevoegd bij het ministerieel besluit van 21 oktober 2009 en vervangen bij het ministerieel besluit van 2 december 2013.
+
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 26.
+
+Artikel 1 tot en met 24 treden in werking op 1 januari 2021.
+
+### ART 27.
+
+De Vlaamse minister, bevoegd voor het woonbeleid, is belast met de uitvoering van dit besluit.
