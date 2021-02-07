@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029589,
+  "title": "Decreet van 2018-07-13 houdende de erkennings- en bemiddelingscommissie voor slachtoffers van historisch misbruik",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029589/VolledigDocument?datum=2021-02-07",
+  "source_sha256": "ca212cee9bbdd9428872f008fe4b03cbe2233e99c18e3813e351ad8907ecaf54",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029589&param=informatie",
+  "as_of": "2021-02-07",
+  "made": "2018-07-13",
+  "gazette": "2018-08-02",
+  "numac": 2018031587,
+  "document_start": "2021-02-07",
+  "document_end": null,
+  "in_force": "2021-02-07",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2021-02-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
