@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035131,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-18 tot wijziging van het koninklijk besluit van 12 december 2001 betreffende de dienstencheques en het koninklijk besluit van 7 juni 2007 betreffende het opleidingsfonds dienstencheques",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035131/VolledigDocument?datum=2021-02-07",
+  "source_sha256": "ffe66927cde9dd33a062ae20b298d0dae3856bebfebd7473d2a1343399d24e5e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035131&param=informatie",
+  "as_of": "2021-02-07",
+  "made": "2020-12-18",
+  "gazette": "2021-01-28",
+  "numac": 2021030168,
+  "document_start": "2021-02-07",
+  "document_end": null,
+  "in_force": "2021-02-07",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2021-02-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
