@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035133,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-19 betreffende het welzijn van konijnen in fokkerijen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035133/VolledigDocument?datum=2021-02-07",
+  "source_sha256": "26440ee6d8a14883c58aef9429005fdb1eee02b29299bdcf5a2d3032151760c3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035133&param=informatie",
+  "as_of": "2021-02-07",
+  "made": "2020-12-19",
+  "gazette": "2021-01-28",
+  "numac": 2021030207,
+  "document_start": "2021-02-07",
+  "document_end": null,
+  "in_force": "2021-02-07",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2021-02-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
