@@ -14,9 +14,37 @@ In dit besluit wordt verstaan onder:<BR>1° bevoegde entiteit: het   Departement
 
 Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.<BR><BR>De aangelegenheden, vermeld in het eerste lid, omvatten:<BR>1°   het in ontvangst nemen en het onderzoek van de aanvragen tot erkenning, tot   uitbreiding van de regels en van de aanvragen van de verplichte betalingen door   niet-leden, en van de nodige bewijsstukken;<BR>2° de coördinatie van de   controles;<BR>3° het in ontvangst nemen van wijzigingen in de samenstelling van   producentenorganisaties, unies van producentenorganisaties en   brancheorganisaties;<BR>4° het verrichten van controles op de erkenningscriteria   en de ledenlijst van producentenorganisaties, unies van producentenorganisaties   en brancheorganisaties;<BR>5° de mededelingen aan en de contacten met de   Commissie van de Europese Gemeenschappen.
 
+### ART 1/2.
+
+Dit besluit voorziet in de gedeeltelijke uitvoering van Verordening (EU) nr. 1308/2013.
+
 ### ART. 2.
 
-<P>Dit besluit is van toepassing op producentenorganisaties, unies van   producentenorganisaties en brancheorganisaties in de volgende sectoren:<BR>1°   granen;<BR>2° rijst;<BR>3° gedroogde voedergewassen;<BR>4° zaaizaad;<BR>5°   hop;<BR>6° olijfolie en tafelolijven;<BR>7° natuurlijke vezels van vlas en   hennep;<BR>8° bananen;<BR>9° wijn;<BR>10° levende planten en producten van de   bloementeelt;<BR>11° ruwe tabak;<BR>12° rundvlees;<BR>13° varkensvlees;<BR>14°   schapen- en geitenvlees;<BR>15° eieren;<BR>16° vlees van pluimvee;<BR>17°   bijenteelt;<BR>18° zijderupsen<BR>19° aardappelen;<BR>20° cichorei;<BR>21°   konijnen.<BR></P>  <P>De minister kan, binnen de sectoren, vermeld in het eerste lid, producten of   productgroepen, hierna deelsectoren te noemen, aanduiden, die omwille van hun   specifieke eigenschappen een duidelijk af te bakenen onderdeel van de sector   vormen.<BR></P>
+<p>Dit besluit is van toepassing op producentenorganisaties, unies van producentenorganisaties en brancheorganisaties in de volgende sectoren:<br>
+1° granen;<br>
+2° rijst;<br>
+2° /1 suiker;<br>
+3° gedroogde voedergewassen;<br>
+4° zaaizaad;<br>
+5° hop;<br>
+6° olijfolie en tafelolijven;<br>
+7° natuurlijke vezels van vlas en hennep;<br>
+8° bananen;<br>
+9° wijn;<br>
+10° levende planten en producten van de bloementeelt;<br>
+11° ruwe tabak;<br>
+12° rundvlees;<br>
+13° varkensvlees;<br>
+14° schapen- en geitenvlees;<br>
+15° eieren;<br>
+16° vlees van pluimvee;<br>
+17° bijenteelt;<br>
+18° zijderupsen<br>
+19° aardappelen;<br>
+20° cichorei;<br>
+21° konijnen.</p>
+
+<p>De minister kan, binnen de sectoren, vermeld in het eerste lid, producten of productgroepen, hierna deelsectoren te noemen, aanduiden, die omwille van hun specifieke eigenschappen een duidelijk af te bakenen onderdeel van de sector vormen.</p>
 
 ## HOOFDSTUK 2 Erkenning van producentenorganisaties en unies van producentenorganisaties
 
