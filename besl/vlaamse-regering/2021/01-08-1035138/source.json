@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035138,
+  "title": "Besluit van de Vlaamse Regering van 2021-01-08 tot wijziging van artikel 2 van het besluit van de Vlaamse Regering van 31 januari 2014 betreffende erkenningen van producenten- en brancheorganisaties, wat betreft de toevoeging van de sector suiker",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035138/VolledigDocument?datum=2021-02-08",
+  "source_sha256": "a9cfe1a398cdf610da290f81b3253937958d5636ddf2600e08f7dcb382895f5b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035138&param=informatie",
+  "as_of": "2021-02-08",
+  "made": "2021-01-08",
+  "gazette": "2021-01-29",
+  "numac": 2021020192,
+  "document_start": "2021-02-08",
+  "document_end": null,
+  "in_force": "2021-02-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-02-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
