@@ -2,16 +2,16 @@
   "codex_id": 1033592,
   "title": "Besluit van de Vlaamse Regering van 2020-07-17 tot herverdeling vanuit provisioneel krediet GB0-1GBF2FA-PR van de Vlaamse Gemeenschap voor het begrotingsjaar 2020",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033592/VolledigDocument?datum=2020-08-29",
-  "source_sha256": "8283681f22926760220cd62898a12923a126d2e7c3d51821df4721cb07c4a185",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033592/VolledigDocument?datum=2021-02-08",
+  "source_sha256": "5cc604ac3cf0d487a3c1032f8d69b8f03a27ffd64ce5990a87bb6dd93fc9849b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033592&param=informatie",
-  "as_of": "2020-08-29",
+  "as_of": "2021-02-08",
   "made": "2020-07-17",
   "gazette": "2020-08-19",
   "numac": 2020042686,
   "document_start": "2020-08-29",
   "document_end": null,
-  "in_force": "2020-08-29",
+  "in_force": "2021-02-08",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2020-08-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-02-08; future article versions excluded; article text as the API gives it"
 }
