@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035136,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-18 tot herverdeling van het begrotingsartikel JB0-1JBB2AC-PR naar begrotingsartikel JB0-1JFB2FY-IS van de Vlaamse Gemeenschap voor het begrotingsjaar 2020",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035136/VolledigDocument?datum=2021-02-08",
+  "source_sha256": "9ab9d4693fca243a1296c453280b020f1576306fd6a0b419d6877ec68f17fb7c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035136&param=informatie",
+  "as_of": "2021-02-08",
+  "made": "2020-12-18",
+  "gazette": "2021-01-29",
+  "numac": 2021020103,
+  "document_start": "2021-02-08",
+  "document_end": null,
+  "in_force": "2021-02-08",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-02-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
