@@ -34,8 +34,8 @@ Overeenkomstig artikel 34/1, tweede lid, van het decreet van 21 december 2003 wo
 ### ART 3.
 
 De termijn van de tijdelijke afzondering, vermeld in artikel 47/1, § 1, eerste lid, van het decreet van 21 november 2003, is:<br>
-1° minimaal zeven dagen na aanvang van de symptomen en tot ten minste drie dagen zonder koorts en met verbetering van de respiratoire symptomen, als er symptomen van COVID-19 zijn;<br>
-2° zeven dagen vanaf de datum van de COVID-19-test, als er geen symptomen van COVID-19 zijn.<br>
+1° minimaal&nbsp;tien dagen na aanvang van de symptomen en tot ten minste drie dagen zonder koorts en met verbetering van de respiratoire symptomen, als er symptomen van COVID-19 zijn;<br>
+2°&nbsp;tien dagen vanaf de datum van de COVID-19-test, als er geen symptomen van COVID-19 zijn.<br>
 <br>
 De tijdelijke afzondering, vermeld in artikel 47/1, § 2, eerste lid, van het voormelde decreet, duurt tien dagen vanaf de laatste dag dat de persoon in kwestie in een hoogrisicogebied is geweest, tenzij die persoon een negatieve COVID-19-test heeft ondergaan vanaf de zevende dag van de tijdelijke afzondering.<br>
 <br>
@@ -64,6 +64,8 @@ De essentiële redenen, vermeld in artikel 47/1, § 2, vierde lid, 3°, van het 
 12° zeevarenden bij de uitoefening van hun functie;<br>
 13° hooggekwalificeerde personen, als hun werk vanuit economisch standpunt noodzakelijk is en niet kan worden uitgesteld. Daaronder worden ook beroepssporters verstaan die zich verplaatsen bij de uitoefening van hun professionele activiteit;<br>
 14° leerlingen, studenten en stagiairs die zich dagelijks naar het buitenland verplaatsen.<br>
+15° grensscholieren die reizen in het kader van het leerplichtonderwijs;<br>
+16° personen die reizen in het kader van grensoverschrijdend co-ouderschap.<br>
 <br>
 Een persoon die conform artikel 47/1, § 2, vierde lid, 3°, van het voormelde decreet, vrijgesteld is van de tijdelijke afzondering, vermeld in artikel 47/1, § 2, eerste lid, van het voormelde decreet, en van de verplichting om zich bij een COVID-19-testcentrum, een triagecentrum of zijn behandelende arts te melden, vermeld in artikel 47/1, § 2, tweede lid, van het voormelde decreet, legt het bewijs daarvan voor in het kader van de handhaving van de maatregel, vermeld in artikel 47/1 van het voormelde decreet.
 
