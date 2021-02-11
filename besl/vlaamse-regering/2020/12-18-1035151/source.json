@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035151,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-18 tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2020 in het kader van het zesde Vlaams Intersectoraal Akkoord",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035151/VolledigDocument?datum=2021-02-11",
+  "source_sha256": "0942c5d0200ebb41c442fe19620f1b73d2bc87022ad5880a1e6bc1cb9b193bbe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035151&param=informatie",
+  "as_of": "2021-02-11",
+  "made": "2020-12-18",
+  "gazette": "2021-02-01",
+  "numac": 2021040019,
+  "document_start": "2021-02-11",
+  "document_end": null,
+  "in_force": "2021-02-11",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-02-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
