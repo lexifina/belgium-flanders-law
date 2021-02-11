@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035143,
+  "title": "Besluit van de Vlaamse Regering van 2020-09-18 tot erkenning van de beroepskwalificatie tolk Vlaamse gebarentaal",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035143/VolledigDocument?datum=2021-02-11",
+  "source_sha256": "3f23a4af2501f5f2876ce490ef41b8aa6700aa4b43edabc6a930d3779195b75f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035143&param=informatie",
+  "as_of": "2021-02-11",
+  "made": "2020-09-18",
+  "gazette": "2021-02-01",
+  "numac": 2020016006,
+  "document_start": "2021-02-11",
+  "document_end": null,
+  "in_force": "2021-02-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-02-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
