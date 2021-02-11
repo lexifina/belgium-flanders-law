@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035144,
+  "title": "Besluit van de Vlaamse Regering van 2020-09-18 tot erkenning van de beroepskwalificatie begeleider in de sociale economie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035144/VolledigDocument?datum=2021-02-11",
+  "source_sha256": "de6a3d96154781aec487a9bef7cfd502791d9c27febbc1d2813da2b124df9de2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035144&param=informatie",
+  "as_of": "2021-02-11",
+  "made": "2020-09-18",
+  "gazette": "2021-02-01",
+  "numac": 2021030087,
+  "document_start": "2021-02-11",
+  "document_end": null,
+  "in_force": "2021-02-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-02-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
