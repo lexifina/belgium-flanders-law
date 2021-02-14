@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035170,
+  "title": "Besluit van de Vlaamse Regering van 2021-01-08 tot wijziging van het besluit van de Vlaamse Regering van 6 september 2019 tot bepaling van de nadere regels over de projectmethodologie en de projectstuurgroep in het kader van de basisbereikbaarheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035170/VolledigDocument?datum=2021-02-14",
+  "source_sha256": "5d6e88f90a82bf9730cbd2f3cbff3088e7c2b4b931ab853828e55f102a66d8aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035170&param=informatie",
+  "as_of": "2021-02-14",
+  "made": "2021-01-08",
+  "gazette": "2021-02-04",
+  "numac": 2021020230,
+  "document_start": "2021-02-14",
+  "document_end": null,
+  "in_force": "2021-02-14",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-02-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
