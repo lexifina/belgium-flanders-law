@@ -67,7 +67,7 @@ Mevrouw Nadine Vanhaecke, commissaris, oefent vanaf het academiejaar 2019-2020 h
 <br>
 Mevrouw Marleen Deputter, commissaris, oefent vanaf het academiejaar 2019-2020 het toezicht uit op cluster B.<br>
 <br>
-De heer Yannick De Clercq, commissaris, oefent vanaf het academiejaar 2019-2020 het toezicht uit op cluster C.<br>
+De heer Erik Maes, commissaris, oefent vanaf het academiejaar 2019-2020 het toezicht uit op cluster C.<br>
 <br>
 De heer Raf Suys, commissaris, oefent vanaf het academiejaar 2019-2020 het toezicht uit op cluster D.<br>
 <br>
@@ -77,9 +77,13 @@ De heer Sebastiaan Deryckere, commissaris, oefent vanaf het academiejaar 2019-20
 
 De regeringscommissaris die belast is met cluster A, treedt ook op als relatieambtenaar voor Antwerp Management School en staat in voor het toezicht op de uitvoering van de beheersovereenkomst en de naleving van de subsidiëringsvoorwaarden bij het Instituut voor Tropische Geneeskunde.<br>
 <br>
-De regeringscommissaris die belast is met cluster C, treedt ook op als relatieambtenaar voor Vlerick Business School.<br>
+De regeringscommissaris die belast is met cluster C, treedt ook op als relatieambtenaar voor Vlerick Business School en het Orpheus Instituut.<br>
 <br>
-De regeringscommissaris die belast is met cluster E, treedt ook op als relatieambtenaar voor de transnationale Universiteit Limburg.
+De regeringscommissaris die belast is met cluster E, treedt ook op als relatieambtenaar voor de transnationale Universiteit Limburg en het Hoger Instituut voor Schone Kunsten.<br>
+<br>
+De regeringscommissaris die belast is met cluster B, treedt ook op als relatieambtenaar voor de Operastudio Vlaanderen.<br>
+<br>
+De regeringscommissaris die belast is met cluster D, treedt ook op als relatieambtenaar voor a•pass (advanced performance and scenography studies) en P.A.R.T.S.
 
 ### ART 7.
 
