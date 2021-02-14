@@ -44,7 +44,7 @@ c) andere maatregelen dan de maatregelen, vermeld in punt a) en b), die bijdrage
 
 § 1. De projecten, vermeld in artikel 4 tot en met 6, worden door de initiatiefnemer op een gecoördineerde en geïntegreerde wijze ontworpen, uitgewerkt, geanalyseerd en geëvalueerd. Dat gebeurt op een gefaseerde wijze, waarbij de volgende fasen worden onderscheiden:<br>
 1° een onderzoeksfase waarin de feitelijke, financiële en juridische context en de eventuele oplossingsvarianten voor een mobiliteitsprobleem worden geanalyseerd en waarbij de voorkeursoplossing wordt aangewezen. De PSG, vermeld in hoofdstuk 3, afdeling 1, sluit die fase af met een startkeuze;<br>
-2° een ontwerpfase waarin het voorontwerp wordt uitgewerkt op basis van de gekozen oplossing. De PSG sluit die fase af met een projectkeuze;<br>
+2° een ontwerpfase waarin het project wordt uitgewerkt op basis van de gekozen oplossing. De PSG sluit die fase af met een projectkeuze;<br>
 3° een evaluatiefase waarin aangegeven wordt hoe het project of de cluster van samenhangende projecten bijdraagt tot de oplossing van het mobiliteitsprobleem, vermeld in 1°.<br>
 <br>
 § 2. De initiatiefnemer rapporteert aan de PSG met de volgende documenten over de processtappen die conform paragraaf 1, worden doorlopen:<br>
@@ -109,7 +109,7 @@ De initiatiefnemer beslist daarvoor op basis van een of meer van de volgende cri
 
 ### ART 4.
 
-§ 1. De infrastructuurgebonden projecten betreffen:<br>
+§ 1. De infrastructuurgebonden projecten betreffen uitsluitend:<br>
 1° de aanleg van nieuwe gewestwegen of de herinrichting van bestaande gewestwegen, met inbegrip van de bijbehorende kruispunten;<br>
 2° de aanleg van nieuwe fietsinfrastructuur of de herinrichting van bestaande fietsinfrastructuur langs gewestwegen;<br>
 3° de aanleg van nieuwe fietsinfrastructuur of de herinrichting van bestaande fietsinfrastructuur langs wegen die een alternatief is voor fietsinfrastructuur langs gewestwegen;<br>
@@ -119,18 +119,19 @@ De initiatiefnemer beslist daarvoor op basis van een of meer van de volgende cri
 7° de aanleg of herinrichting van wegen die gericht is op de beveiliging van schoolbuurten;<br>
 8° de aanleg of herinrichting van wegen die gericht is op de duurzame ontsluiting van een tewerkstellings-, winkel- of dienstenzone van bovenlokaal belang of met een significante mobiliteitsimpact;<br>
 9° de herinrichting van stationsomgevingen;<br>
-10° de aanleg, heraanleg of herinrichting van tram- en busbanen en andere infrastructuurgebonden doorstromingsmaatregelen voor het geregeld vervoer;<br>
+10° de aanleg of herinrichting van tram- en busbanen en andere infrastructuurgebonden doorstromingsmaatregelen voor het geregeld vervoer;<br>
 11° de aanleg of herinrichting van mobipunten en carpoolparkings als vermeld in artikel 42 van het decreet Basisbereikbaarheid;<br>
 12° de aanleg of de plaatsing van schermen en gronddammen langs een gewestweg die het wegverkeerslawaai verminderen;<br>
-13° het bouwen of vernieuwen van sluizen, bruggen en stuwen op of langs waterwegen en die aansluiten op of onderdeel vormen van het waterwegennetwerk, het wegennetwerk of het bovenlokaal functioneel fietsroutenetwerk;<br>
-14° de aanleg, heraanleg of herinrichting van laad- en loskaaien langs waterwegen, die worden ontsloten op het wegennetwerk;<br>
-15° de aanleg, heraanleg of herinrichting van publiek toegankelijke infrastructuurprojecten op watergebonden gronden.<br>
+13° het bouwen of herinrichten van sluizen en bruggen die aansluiten op publiek toegankelijke voetgangers-, fiets- of weginfrastructuur of het openbaarvervoernetwerk;<br>
+14° de aanleg of uitbreiding van laad- en loskaaien langs waterwegen en die aansluiten op publiek toegankelijke voetgangers-, fiets- of weginfrastructuur of het openbaarvervoernetwerk;<br>
+15° de aanleg of herinrichting van publiek toegankelijke voetgangers-, fiets- of weginfrastructuur op watergebonden gronden.<br>
 <br>
 § 2. De infrastructuurgebonden projecten, vermeld in paragraaf 1, 1° tot en met 11°, en 13° tot en met 15°, worden uitgevoerd conform artikel 2, § 1, op voorwaarde dat voldaan is aan een van de volgende voorwaarden:<br>
 1° de totale investeringskosten van de werken worden op ten minste 500.000 euro geraamd;<br>
 2° het betreft geen werken aan of op autosnelwegen;<br>
 3° het betreft geen baggerwerkzaamheden voor de instandhouding van de diepten van waterwegen;<br>
-4° het betreft geen dringende herstellingen aan bestaande infrastructuur.<br>
+4° het betreft geen&nbsp;herstellingen aan bestaande infrastructuur.<br>
+5° het betreft geen aanleg, heraanleg of herinrichting van de kustzone in het kader van kustverdediging, met inbegrip van zandsuppleties.<br>
 <br>
 De infrastructuurgebonden projecten, vermeld in paragraaf 1, 12°, worden uitgevoerd conform artikel 2, § 1, op voorwaarde dat voldaan is aan een van de volgende voorwaarden:<br>
 1° de totale investeringskosten van de werken worden op ten minste 500.000 euro geraamd;<br>
@@ -145,7 +146,7 @@ In afwijking van het eerste en het tweede lid worden infrastructuurgebonden proj
 § 3. In dit artikel wordt verstaan onder:<br>
 1° gewestweg: de weg die eigendom is of onder het beheer valt van het Vlaamse Gewest;<br>
 2° watergebonden gronden: de gronden die eigendom zijn of onder het beheer vallen van de waterwegbeheerder;<br>
-3° waterweg: een bevaarbare waterloop of een bevaarbaar kanaal in het Vlaamse Gewest, met inbegrip van kunstwerken, langsinfrastructuur en dienstgebouwen.
+3° waterweg: een bevaarbare waterloop of een bevaarbaar kanaal in het Vlaamse Gewest, met inbegrip van kunstwerken, langsinfrastructuur en dienstgebouwen. Als waterweg wordt niet beschouwd: de scheepvaartwegen, vermeld in artikel 3, 1, van het Verdrag tussen het Vlaams Gewest en het Koninkrijk der Nederlanden inzake het gemeenschappelijk nautisch beheer in het Scheldegebied ondertekend te Middelburg op 21 december 2005 en de uitvoeringsbeslissingen ervan.
 
 ### ART 5.
 
@@ -172,11 +173,11 @@ Voor de projecten, vermeld in het eerste lid, wordt een unieke verantwoordingsno
 
 ### ART 7.
 
-Als er voor de infrastructuurgebonden projecten, vermeld in artikel 4, § 1, van dit besluit, een plan-MER over plannen en programma's moet worden opgemaakt, conform titel IV, hoofdstuk II, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, kan de startkeuze, vermeld in artikel 2, § 1, 1° van dit besluit, op zijn vroegst genomen worden nadat de bevoegde administratie, vermeld in artikel 4.1.1, § 1, 12°, van het voormelde decreet, het plan-MER conform artikel 4.2.11, § 4, van het voormelde decreet, heeft goedgekeurd.<br>
+Als de infrastructuurgebonden projecten, vermeld in artikel 4, § 1, van dit besluit, deel uitmaken van een plan of programma waarvoor een plan-MER moet worden opgemaakt conform titel IV, hoofdstuk II, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, kan de startkeuze, vermeld in artikel 2, § 1, 1°, van dit besluit, op zijn vroegst genomen worden nadat de bevoegde overheid het plan of programma waarvoor het plan-MER is opgemaakt, definitief heeft vastgesteld.<br>
 <br>
-Als er voor de infrastructuurgebonden projecten, vermeld in artikel 4, § 1, van dit besluit, een project-MER moet worden opgemaakt, conform titel IV, hoofdstuk III, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, kan de projectkeuze, vermeld in artikel 2, § 1, 2° van dit besluit, op zijn vroegst genomen worden nadat de bevoegde administratie vermeld in artikel 4.1.1, § 1, 12° van het voormelde decreet, het project-MER conform artikel 4.3.8, § 3, van het voormelde decreet, heeft goedgekeurd.<br>
+Als er voor de infrastructuurgebonden projecten, vermeld in artikel 4, § 1, van dit besluit, een ruimtelijk uitvoeringsplan moet worden opgemaakt conform titel II, hoofdstuk II, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, kan de startkeuze, vermeld in artikel 2, § 1, 1°, van dit besluit, op zijn vroegst worden genomen nadat de bevoegde overheid het ruimtelijk uitvoeringsplan definitief heeft goedgekeurd.<br>
 <br>
-Als er voor de infrastructuurgebonden projecten, vermeld in artikel 4, § 1, van dit besluit, een ruimtelijk uitvoeringsplan moet worden opgemaakt, conform titel II, hoofdstuk II, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, wordt de projectmethodologie, vermeld in artikel 2, § 1, van dit besluit, beperkt tot een ontwerpfase en een evaluatiefase.<br>
+Als er voor de infrastructuurgebonden projecten, vermeld in artikel 4, § 1, van dit besluit, een project-MER moet worden opgemaakt conform titel IV, hoofdstuk III, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, wordt bij de startkeuze, vermeld in artikel 2, § 1, 1°, van dit besluit, rekening gehouden met het ontwerp van project-MER.<br>
 <br>
 Als de infrastructuurgebonden projecten, vermeld in artikel 4, § 1, van dit besluit, onderworpen worden aan de geïntegreerde besluitvormingsprocedure, conform hoofdstuk 2 van het decreet van 25 april 2014 betreffende complexe projecten, wordt de projectmethodologie, vermeld in artikel 2, § 1, van dit besluit, niet gevolgd.
 
