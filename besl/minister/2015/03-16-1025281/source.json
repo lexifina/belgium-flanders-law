@@ -2,16 +2,16 @@
   "codex_id": 1025281,
   "title": "Ministerieel besluit van 2015-03-16 tot bepaling van bijkomende structurele voorafnames voor de toekenning van een erfgoedpremie volgens de bijzondere procedure",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025281/VolledigDocument?datum=2018-11-22",
-  "source_sha256": "b58f9d800976559289ba99de95df9ba969a1ef3af3b3acc198fe5c2f877e5258",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025281/VolledigDocument?datum=2021-02-15",
+  "source_sha256": "f5ea395ac7135429d6b2043163bd4db7cb9b39e1b8a522739db2c003028e46f5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025281&param=informatie",
-  "as_of": "2018-11-22",
+  "as_of": "2021-02-15",
   "made": "2015-03-16",
   "gazette": "2015-04-16",
   "numac": 2015035424,
   "document_start": "2015-04-26",
   "document_end": "2021-02-14",
-  "in_force": "2018-11-22",
+  "in_force": "2021-02-15",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2018-11-22; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-02-15; future article versions excluded; article text as the API gives it"
 }
