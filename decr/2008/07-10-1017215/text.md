@@ -12,6 +12,14 @@ Voor de toepassing van dit decreet wordt verstaan onder :<br>
 1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018;<br>
 2° het Wetboek van vennootschappen : de wet van 7 mei 1999 houdende het Wetboek van vennootschappen.
 
+### ART 2/1.
+
+Door een fusie door overneming, overeenkomstig artikel 12:2 van het Wetboek van vennootschappen en verenigingen, wordt de LOM Oostende-Brugge ontbonden zonder vereffening en gaat het hele vermogen, zowel de rechten als de verplichtingen, van de LOM Oostende-Brugge over op de LOM Antwerpen. De aandeelhouders van de LOM Oostende-Brugge worden vergoed met aandelen in de LOM Antwerpen. De LOM Antwerpen, die voortaan LOM Vlaanderen heet, geldt als algemene rechtsopvolger van de LOM Oostende-Brugge.<br>
+<br>
+In het eerste lid wordt verstaan onder:<br>
+1° LOM Oostende-Brugge: de luchthavenontwikkelingsmaatschappij Oostende- Brugge, vermeld in artikel 3, 2°, en artikel 4, § 1, van het decreet van 10 juli 2008 betreffende het beheer en de uitbating van de regionale luchthavens Oostende-Brugge, Kortrijk-Wevelgem en Antwerpen, zoals van kracht op de dag vóór de datum van de inwerkingtreding van artikel 4 van dit decreet;<br>
+2° LOM Antwerpen: de luchthavenontwikkelingsmaatschappij Antwerpen, vermeld in artikel 66/1, 2°, en artikel 66/2, § 1, van het decreet van 10 juli 2008 betreffende het beheer en de uitbating van de regionale luchthavens Oostende-Brugge, Kortrijk-Wevelgem en Antwerpen, zoals van kracht op de dag vóór de datum van de inwerkingtreding van artikel 20 en 22 van dit decreet.
+
 ## DEEL II. [... (opgeh. decr. 8 januari 2021, art. 4, I: 15 september 2021)]
 
 ## HOOFDSTUK I. [... (opgeh. decr. 8 januari 2021, art. 4, I: 15 september 2021)]
