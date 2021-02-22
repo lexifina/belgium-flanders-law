@@ -24,6 +24,25 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In artikel 9 van het besluit van de Vlaamse Regering houdende diverse dringende maatregelen ingevolge COVID-19 voor de centra voor leerlingenbegeleiding, het onderwijspersoneel, de academies deeltijds kunstonderwijs, de centra voor volwassenonderwijs en de centra voor basiseducatie houdende wijziging van het besluit van de Vlaamse Regering van 5 juni 2020 tot toekenning van extra werkingsbudget voor de scholen van het gewoon en buitengewoon basis- en secundair onderwijs omwille van de genomen maatregelen en hieraan verbonden extra onkosten gemaakt door de scholen tegen verspreiding van COVID-19 m.b.t. de internaten wordt een paragraaf 3 ingevoegd, die luidt als volgt:<br>
+<br>
+" § 3. Vanaf 22 februari 2021 tot en met 31 maart 2021 kunnen vervangingen worden toegestaan van een personeelslid dat in minimaal drie scholen is tewerkgesteld en dat tijdelijk niet fysiek aanwezig kan zijn omwille van de geldende veiligheidsmaatregelen in:<br>
+- het ambt van kleuteronderwijzer algemene en sociale vorming;<br>
+- het ambt van onderwijzer algemene en sociale vorming;<br>
+- de ambten van het paramedisch personeel van het buitengewoon basis- en buitengewoon secundair onderwijs type 1 en type 2;<br>
+- het ambt van kinderverzorger in het gewoon basisonderwijs.<br>
+<br>
+Het gaat om ambten waarbij voor de uitoefening van de opdracht fysiek contact nodig is en waarbij de afstand van anderhalve meter niet gegarandeerd kan worden.<br>
+<br>
+De vervanging van een afwezig personeelslid is enkel mogelijk als aan de volgende voorwaarden is voldaan:<br>
+- het personeelslid werkt in minstens drie verschillende scholen;<br>
+- er is lokaal geen oplossing gevonden om de afwezigheid van het personeelslid in de derde school op te vangen;<br>
+- de vervanging is noodzakelijk in functie van het beperken van risico's bij fysiek contact;<br>
+- er is een vervanger beschikbaar;<br>
+- er is lokaal sociaal overleg geweest in het bevoegde onderhandelingscomité met aandacht voor de afspraak dat niet altijd dezelfde school de school is waar de opdracht niet meer uitgeoefend kan worden."
+
 ### ART 2.
 
 In hetzelfde besluit wordt een artikel 9/1 ingevoegd, dat luidt als volgt:<br>
