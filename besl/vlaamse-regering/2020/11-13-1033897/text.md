@@ -133,7 +133,22 @@ Het internaat stuurt daartoe een verklaring op eer aan het Agentschap voor Onder
 <br>
 Het internaat kan enkel van deze regeling gebruik maken indien er daadwerkelijk een vervanger is gevonden en ingezet.<br>
 <br>
-In afwijking van het eerste lid kunnen in de internaten met permanente openstelling deze vervangingen worden toegestaan vanaf 1 november 2020.
+In afwijking van het eerste lid kunnen in de internaten met permanente openstelling deze vervangingen worden toegestaan vanaf 1 november 2020.<br>
+<br>
+§ 3. Vanaf 22 februari 2021 tot en met 31 maart 2021 kunnen vervangingen worden toegestaan van een personeelslid dat in minimaal drie scholen is tewerkgesteld en dat tijdelijk niet fysiek aanwezig kan zijn omwille van de geldende veiligheidsmaatregelen in:<br>
+- het ambt van kleuteronderwijzer algemene en sociale vorming;<br>
+- het ambt van onderwijzer algemene en sociale vorming;<br>
+- de ambten van het paramedisch personeel van het buitengewoon basis- en buitengewoon secundair onderwijs type 1 en type 2;<br>
+- het ambt van kinderverzorger in het gewoon basisonderwijs.<br>
+<br>
+Het gaat om ambten waarbij voor de uitoefening van de opdracht fysiek contact nodig is en waarbij de afstand van anderhalve meter niet gegarandeerd kan worden.<br>
+<br>
+De vervanging van een afwezig personeelslid is enkel mogelijk als aan de volgende voorwaarden is voldaan:<br>
+- het personeelslid werkt in minstens drie verschillende scholen;<br>
+- er is lokaal geen oplossing gevonden om de afwezigheid van het personeelslid in de derde school op te vangen;<br>
+- de vervanging is noodzakelijk in functie van het beperken van risico's bij fysiek contact;<br>
+- er is een vervanger beschikbaar;<br>
+- er is lokaal sociaal overleg geweest in het bevoegde onderhandelingscomité met aandacht voor de afspraak dat niet altijd dezelfde school de school is waar de opdracht niet meer uitgeoefend kan worden.
 
 ### ART 9/1.
 
