@@ -22,6 +22,20 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In artikel 4.223 van het Besluit Vlaamse Codex Wonen van 2021 wordt het derde lid opgeheven.
+
+### ART 2.
+
+In boek 4, deel 2, titel 1, hoofdstuk 4, van hetzelfde besluit wordt een afdeling 2/1, die bestaat uit artikel 4.229/1, ingevoegd, die luidt als volgt:<br>
+<br>
+"Afdeling 2/1. Bepaling over de de-minimissteun<br>
+<br>
+Art. 4.229/1. De subsidiebedragen die worden toegestaan met toepassing van dit hoofdstuk, worden verleend met inachtneming van de voorwaarden, vermeld in de verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun.<br>
+<br>
+De steun die via de erkende verhuurdersorganisaties ten goede komt van een private verhuurder of vastgoedmakelaar, bedraagt per drie jaar ten hoogste 1500 euro per private verhuurder of vastgoedmakelaar.".
+
 ### ART 3.
 
 Aan boek 5, deel 2, titel 3, hoofdstuk 1, van hetzelfde besluit wordt een artikel 5.57/1 toegevoegd, dat luidt als volgt:<br>
@@ -53,3 +67,11 @@ Het Fonds, vermeld in het eerste lid, deelt de basishuurprijzen van elke PPS-won
 ### ART 5.
 
 In artikel 36 van het besluit van de Vlaamse Regering van 23 oktober 2020 houdende maatregelen voor het Vlaamse Woonbeleid ten gevolge van de beperkende coronavirusmaatregelen wordt de zinsnede "artikel 10" vervangen door de zinsnede "artikel 6.10".
+
+### ART 6.
+
+Artikel 3 en 4 hebben uitwerking met ingang van 1 januari 2021 en artikel 5 heeft uitwerking met ingang van 3 november 2020.
+
+### ART 7.
+
+De Vlaamse minister, bevoegd voor het woonbeleid, is belast met de uitvoering van dit besluit.
