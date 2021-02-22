@@ -10,7 +10,19 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° advocaat: een persoon die als   advocaat ingeschreven is op de lijst van de stagiairs, het tableau van de Orde   der Advocaten of een onderdaan van een lidstaat van de Europese Unie die,   volgens de bepalingen van het Gerechtelijk Wetboek, gerechtigd is het beroep van   advocaat uit te oefenen of een titel van advocaat te voeren;<BR>2° afschrift:   een fotokopie of een digitale kopie;<BR>3° beschikking: de beslissing van de   voorzitter van het College, van de kamervoorzitter of een bestuursrechter, die   alleen betrekking heeft op procedurele aangelegenheden;<BR>4° bestreden   beslissing: een beslissing als vermeld in artikel 2, 7°, van het decreet;<BR>5°   beveiligde zending: een van de betekeningswijzen als vermeld in artikel 2, 8°,   van het decreet;<BR>6° College: een Vlaams Bestuursrechtscollege als vermeld in   artikel 2, 1°, van het decreet;<BR>7° decreet: het decreet van 4 april 2014   betreffende de organisatie en de rechtspleging van sommige Vlaamse   bestuursrechtscolleges;<BR>8° huishoudelijk reglement: het huishoudelijk   reglement, vermeld in artikel 11 van het decreet;<BR>9° kamervoorzitter: het lid   van het College dat een kamer als vermeld in artikel 12 van het decreet   voorzit.<BR>
+In dit besluit wordt verstaan onder:<br>
+1° advocaat: een persoon die als advocaat ingeschreven is op de lijst van de stagiairs, het tableau van de Orde der Advocaten of een onderdaan van een lidstaat van de Europese Unie die, volgens de bepalingen van het Gerechtelijk Wetboek, gerechtigd is het beroep van advocaat uit te oefenen of een titel van advocaat te voeren;<br>
+2° afschrift: een fotokopie of een digitale kopie;<br>
+3° beschikking: de beslissing van de voorzitter van het College, van de kamervoorzitter of een bestuursrechter, die alleen betrekking heeft op procedurele aangelegenheden;<br>
+4° bestreden beslissing: een beslissing als vermeld in artikel 2, 7°, van het decreet;<br>
+5° beveiligde zending: een van de betekeningswijzen als vermeld in artikel 2, 8°, van het decreet;<br>
+6° College: een Vlaams Bestuursrechtscollege als vermeld in artikel 2, 1°, van het decreet;<br>
+7° decreet: het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges;<br>
+8° huishoudelijk reglement: het huishoudelijk reglement, vermeld in artikel 11 van het decreet;<br>
+9° kamervoorzitter: het lid van het College dat een kamer als vermeld in artikel 12 van het decreet voorzit;<br>
+10° het digitaal loket: het loket van de Vlaamse bestuursrechtscolleges, vermeld in artikel 8/1, § 1;<br>
+11° gebruiker: iedere natuurlijke persoon die zich na authenticatie toegang heeft verleend tot het digitaal loket;<br>
+12° Verordening 2016/679: Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG.
 
 ### ART. 2.
 
@@ -69,6 +81,62 @@ Op het ogenblik dat een partij voor de eerste keer een inventaris overmaakt, gee
 § 3. Het administratief dossier bevat de bestreden beslissing, de geïnventariseerde stukken op grond waarvan die beslissing is genomen en in voorkomend geval een bewijs van de datum van de kennisgeving van de beslissing door het bestuur aan de verzoeker.<br>
 <br>
 § 4. De partijen en hun raadsmannen kunnen ter griffie kennis nemen van de verzoekschriften, het administratief dossier, de processtukken, de overtuigingsstukken en de uitspraken.</p>
+
+### ART 8/1.
+
+§ 1. De Dienst van de Bestuursrechtscolleges stelt een digitaal loket ter beschikking waarop documenten in het kader van de rechtspleging elektronisch kunnen worden neergelegd.<br>
+<br>
+De elektronische neerlegging wordt beschouwd als een beveiligde zending als vermeld in artikel 2, 8°, c van het decreet.<br>
+<br>
+Het digitaal loket is toegankelijk via een webpagina van de Dienst van de Bestuursrechtscolleges.<br>
+<br>
+Wie toegang tot het digitaal loket wil verkrijgen, authenticeert zich via:<br>
+1° een elektronische identiteitskaart;<br>
+2° een federaal token;<br>
+3° een beveiligingscode via een mobiele app;<br>
+4° een beveiligingscode via sms;<br>
+5° een andere authenticatie die aanvaard is door de Vlaamse minister, bevoegd voor justitie en handhaving, zoals vastgelegd in een ministerieel besluit.<br>
+<br>
+De Dienst van de Bestuursrechtscolleges publiceert op zijn website een handleiding over de authenticatie en de elektronische neerlegging van de documenten.<br>
+<br>
+§ 2. De Dienst van de Bestuursrechtscolleges kan richtlijnen vastleggen voor de toegelaten formaten, de maximale grootte en de andere technische vereisten die gesteld worden aan de neergelegde documenten. Die richtlijnen worden gepubliceerd op de website van de dienst.<br>
+<br>
+Alle documenten die in het kader van de elektronische neerlegging verzonden worden, voldoen aan de volgende voorwaarden:<br>
+1° de documenten zijn virusvrij en kopieerbaar;<br>
+2° de documenten kunnen worden geopend en gelezen door de Dienst van de Bestuursrechtscolleges.<br>
+<br>
+§ 3. Als gebruikers documenten elektronisch neerleggen in het digitaal loket in het kader van de rechtspleging volgen ze de aanduidingen en vullen ze de daartoe bestemde velden in. Ze vermelden het rolnummer waaronder de vordering is ingeschreven als ze dat kennen.<br>
+<br>
+§ 4. Als gebruikers documenten elektronisch neerleggen in het kader van de rechtspleging, leggen ze tegelijkertijd ook de bijbehorende overtuigingsstukken, vermeld in de inventaris, elektronisch neer.<br>
+<br>
+§ 5. Verzoekschriften en processtukken, die worden neergelegd in het digitaal loket worden gehandtekend aan de hand van een "gekwalificeerde elektronische handtekening", zoals gedefinieerd in artikel 3, eerste lid, 12°, van de verordening (EU) Nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van Richtlijn 1999/93/EG.<br>
+<br>
+Als de handtekening van verschillende natuurlijke personen noodzakelijk is, worden die allemaal elektronisch aangebracht.<br>
+<br>
+§ 6. Elk document in het kader van de rechtspleging dat in het digitaal loket wordt neergelegd, wordt geacht de originele versie van dat stuk te zijn.<br>
+<br>
+§ 7. De betekening door elektronische neerlegging wordt geacht plaats te vinden op de datum van neerlegging die wordt vastgesteld door het digitaal loket.<br>
+<br>
+Het digitaal loket voorziet in de mogelijkheid dat een gebruiker een bewijs van de datum van de neerlegging kan printen.<br>
+<br>
+§ 8. Als het digitaal loket als applicatie volledig onbeschikbaar is en het elektronisch neerleggen van documenten in het kader van de rechtspleging onmogelijk is, wordt een foutmelding getoond aan de gebruiker die kan worden geprint.<br>
+<br>
+Die foutmelding geldt als bewijs van de volledige onbeschikbaarheid en kan door een partij of een belanghebbende in voorkomend geval worden ingeroepen als begin van bewijs van overmacht als die onbeschikbaarheid plaatsvindt op de vervaldag van een termijn.<br>
+<br>
+§ 9. De elektronische neerlegging leidt tot de verwerking van persoonsgegevens van de gebruiker, door de medewerkers van de Dienst van de Bestuursrechtscolleges.<br>
+<br>
+Die verwerking kadert in de plicht van de Vlaamse bestuursrechtscolleges om binnen hun bevoegdheden recht te spreken en de neergelegde documenten te behandelen binnen de toepasselijke rechtspleging.<br>
+<br>
+De volgende categorieën van persoonsgegevens worden in het kader van de elektronische neerlegging verwerkt:<br>
+1° contactgegevens<br>
+2° persoonlijke contactgegevens<br>
+3° identificatiegegevens<br>
+<br>
+De gegevens kaderen in de plicht, vermeld in het tweede lid, en worden verwerkt op grond van artikel 6, eerste lid, c) en e), artikel 9, tweede lid, f) van de Verordening 2016/679.<br>
+<br>
+De Dienst van de Bestuursrechtscolleges geldt als verwerkingsverantwoordelijke als vermeld in artikel 4, 7°, van de Verordening 2016/679.<br>
+<br>
+De gegevens die worden verwerkt om de gebruiker te authenticeren en om tot de eigenlijke neerlegging over te gaan, worden bewaard gedurende een termijn van vijf jaar.
 
 ### ART. 9.
 
