@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:<br>
 
 Alle steun die toegekend wordt met toepassing van dit besluit en de uitvoeringsbesluiten ervan, wordt verleend binnen de grenzen en de voorwaarden, vermeld in de tijdelijke kaderregeling.<br>
 <br>
-De minister bepaalt per oproep de uiterste indieningsdatum van een aanvraag en de uiterste datum waarop het evenement moet doorgaan. De beslissing tot toekenning van de steun moet genomen worden uiterlijk op 31 december 2020. Indien de tijdelijke kaderregeling door de Europese Commissie zou worden verlengd, wordt de termijn vermeld in dit artikel voor dezelfde duur verlengd.
+De minister bepaalt per oproep de uiterste indieningsdatum van een aanvraag en de uiterste datum waarop het evenement moet doorgaan. De beslissing tot toekenning van de steun moet genomen worden uiterlijk op 31 december 2021. Indien de tijdelijke kaderregeling door de Europese Commissie zou worden verlengd, wordt de termijn vermeld in dit artikel voor dezelfde duur verlengd.
 
 ### ART 3.
 
@@ -82,7 +82,7 @@ De steunaanvrager heeft een operationele exploitatiezetel in België.
 
 ### ART 7.
 
-De steunaanvrager geeft een overzicht van de verkregen steun sinds 19 maart 2020 waaruit blijkt dat inclusief de gevraagde steun op basis van dit besluit, het maximum van 800.000 euro, vermeld in hoofdstuk 3.1 van de tijdelijke kaderregeling, nog niet overschreden is.
+De steunaanvrager geeft een overzicht van de verkregen steun sinds 19 maart 2020 waaruit blijkt dat inclusief de gevraagde steun op basis van dit besluit, het maximum van 1,8 mio euro, vermeld in hoofdstuk 3.1 van de tijdelijke kaderregeling, nog niet overschreden is.
 
 ### ART 8.
 
@@ -104,7 +104,7 @@ Het evenement draagt vanuit zijn netwerkkarakter bij tot de heropstart van de vo
 
 ### ART 11.
 
-Het evenement kan volgens het business plan rendabel georganiseerd worden, rekening houdende met eventuele projectsubsidies voor de realisatie van het evenement, en rekening houdende met de op het ogenblik van de aanvraag gekende richtlijnen van de nationale veiligheidsraad, de Vlaamse, provinciale of lokale overheid voor de organisatie van evenementen.
+Het evenement kan volgens het business plan rendabel georganiseerd worden, rekening houdende met eventuele projectsubsidies voor de realisatie van het evenement, en rekening houdende met de op het ogenblik van de aanvraag gekende richtlijnen van de federale, Vlaamse, provinciale of lokale overheid voor de organisatie van evenementen.
 
 ### ART 12.
 
@@ -127,7 +127,7 @@ In het eerste lid wordt verstaan onder plaatsvinden van het evenement: de dag wa
 ### ART 16.
 
 De volgende evenementen zijn uitgesloten van steun:<br>
-1° evenementen die de richtlijnen van de nationale veiligheidsraad, de Vlaamse, provinciale of lokale overheid niet kunnen naleven. De steunaanvrager voegt bij zijn aanvraag de groene score van de CERM-scan toe, en, afhankelijk van de aantallen, een uitzondering hierop op basis van artikel 12 van het ministerieel besluit van 30 juni 2020 houdende dringende maatregelen om de verspreiding van het coronavirus te beperken;<br>
+1° evenementen die de richtlijnen van de federale, Vlaamse, provinciale of lokale overheid niet kunnen naleven. De steunaanvrager voegt bij zijn aanvraag het bewijs toe dat hij de geldende regelgeving op vlak van de organisatie van het type evenement kan naleven om het evenement coronaveilig te organiseren. Voor zover er geen specifieke regelgeving voor het te organiseren type evenement van toepassing is, voegt de steunaanvrager bij zijn aanvraag het bewijs toe dat hij in staat is voldoende bijkomende maatregelen te nemen om het evenement coronaveilig te organiseren;<br>
 2° evenementen van politieke partijen;<br>
 3° evenementen die aanzetten tot haat of tot rassenhaat;<br>
 4° evenementen die in strijd zijn met de publieke orde of met de goede zeden;<br>
@@ -169,15 +169,15 @@ a) de mate waarin een commerciële hefboom wordt gecreëerd om de gehele eveneme
 
 De steun wordt toegekend in de vorm van een financierings- en verzekeringsmechanisme, waarbij de steun terugbetaald wordt als het evenement kan plaatsvinden.<br>
 <br>
-Enkel indien het evenement niet mag doorgaan omwille van een beslissing van de nationale veiligheidsraad of de Vlaamse overheid of een provinciale of regionale lockdown, die evenementen verbiedt in het kader van de maatregelen naar aanleiding van Covid-19 kan de steunaanvrager de steun definitief krijgen, beperkt tot de niet recupereerbare kosten en onvermijdbare facturen.<br>
+Enkel indien het evenement niet mag doorgaan omwille van een beslissing van de federale of de Vlaamse overheid of een provinciale of regionale lockdown, die evenementen verbiedt in het kader van de maatregelen naar aanleiding van Covid-19 kan de steunaanvrager de steun definitief krijgen, beperkt tot de niet recupereerbare kosten en onvermijdbare facturen.<br>
 <br>
-Indien tussen het moment van steuntoekenning en het moment waarop het evenement doorgaat een beslissing genomen wordt door de nationale veiligheidsraad, de Vlaamse, provinciale of lokale overheid, die een rechtstreekse impact heeft op het evenement of de goede organisatie van het evenement onzeker maakt, treedt de steunaanvrager in overleg met het agentschap Innoveren en Ondernemen om af te spreken welk gevolg deze beslissing heeft voor de uitvoering van het evenement. Indien de steunaanvrager hierbij als een goede huisvader aantoont dat het evenement door deze beslissing niet kan doorgaan en de gevolgen van de beslissing van de nationale veiligheidsraad, de Vlaamse, provinciale of lokale overheid niet kunnen opgevangen worden door aanpassingen aan de organisatie van het evenement aanvaardt het agentschap Innoveren en Ondernemen deze motivering als een beslissing zoals bedoeld in lid 2.
+Indien tussen het moment van steuntoekenning en het moment waarop het evenement doorgaat een beslissing genomen wordt door de federale, Vlaamse, provinciale of lokale overheid, die een rechtstreekse impact heeft op het evenement of de goede organisatie van het evenement onzeker maakt, treedt de steunaanvrager in overleg met het agentschap Innoveren en Ondernemen om af te spreken welk gevolg deze beslissing heeft voor de uitvoering van het evenement. Indien de steunaanvrager hierbij als een goede huisvader aantoont dat het evenement door deze beslissing niet kan doorgaan en de gevolgen van de beslissing van de federale, Vlaamse, provinciale of lokale overheid niet kunnen opgevangen worden door aanpassingen aan de organisatie van het evenement aanvaardt het agentschap Innoveren en Ondernemen deze motivering als een beslissing zoals bedoeld in lid 2.
 
 ## Afdeling 2. Hoogte van de steun
 
 ### ART 19.
 
-De toegekende steun bedraagt minimaal 25.000 euro en maximaal 800.000 euro.
+De toegekende steun bedraagt minimaal 25.000 euro en maximaal 1,8 mio euro.
 
 ### ART 20.
 
@@ -260,6 +260,10 @@ De steun wordt in één schijf uitbetaald. De steunaanvrager kan de uitbetaling 
 ### ART 32.
 
 De aanvragen tot uitbetaling worden ingediend binnen de drie maanden nadat de steunaanvrager de beslissing zoals voorzien in artikel 30 ontvangen heeft en altijd voor de startdatum van het evenement.
+
+### ART 32/1.
+
+De steunaanvrager handelt volgens de concrete richtlijnen die het Agentschap Innoveren en Ondernemen inzake uitbetaling en verjaring van steun bezorgt.
 
 ## HOOFDSTUK 8. Vergoeding voor het genot van de maatregel
 
