@@ -73,7 +73,7 @@ De huurder die met toepassing van dit besluit al een handelshuurlening kreeg kan
 
 ### ART 5.
 
-De Huurder dient een aanvraag in via de website van het Agentschap Innoveren en Ondernemen voor 1 maart 2021. Een aanvraag kan betrekking hebben op meerdere panden van eenzelfde Verhuurder, waarvoor de Huurder één Handelshuurlening vraagt. De Huurder vermeldt daarbij haar KBO-nummer.&nbsp;De Verhuurder bevestigt de aanvraag voor 4 maart 2021. De aanvraag wordt elektronisch afgehandeld. Het Agentschap Innoveren en Ondernemen onderzoekt de naleving van de voorwaarden die zijn opgelegd bij dit besluit.
+De Huurder dient een aanvraag in via de website van het Agentschap Innoveren en Ondernemen voor 1 juli 2021. Een aanvraag kan betrekking hebben op meerdere panden van eenzelfde Verhuurder, waarvoor de Huurder één Handelshuurlening vraagt. De Huurder vermeldt daarbij haar KBO-nummer.&nbsp;De Verhuurder bevestigt de aanvraag voor 8 juli 2021. De aanvraag wordt elektronisch afgehandeld. Het Agentschap Innoveren en Ondernemen onderzoekt de naleving van de voorwaarden die zijn opgelegd bij dit besluit.
 
 ### ART 6.
 
@@ -81,7 +81,9 @@ Het agentschap Innoveren en Ondernemen informeert de aanvragers over de (on)ontv
 
 ### ART 7.
 
-Het Agentschap Innoveren en Ondernemen geeft de gegevens van Huurders van wie de aanvraag ontvankelijk bevonden wordt door aan PMV/z-Leningen nv. Deze legt in naam en voor rekening van het Vlaamse Gewest aan die Huurders een leningovereenkomst voor. De Huurders ondertekenen die leningovereenkomst en bezorgen deze terug aan de diensten van PMV/z-Leningen. Van zodra PMV/z-Leningen nv de ondertekende leningovereenkomst ontvangen heeft, betaalt het de verschuldigde huur op een Belgisch rekeningnummer op naam van de Verhuurder. Deze betaling geldt als een betaling van de Huurder.
+Het Agentschap Innoveren en Ondernemen geeft de gegevens van Huurders van wie de aanvraag ontvankelijk bevonden wordt door aan PMV/z-Leningen nv. Deze legt in naam en voor rekening van het Vlaamse Gewest aan die Huurders een leningovereenkomst voor. De Huurders ondertekenen die leningovereenkomst en bezorgen deze terug aan de diensten van PMV/z-Leningen. Van zodra PMV/z-Leningen nv de ondertekende leningovereenkomst ontvangen heeft, betaalt het de verschuldigde huur op een Europees rekeningnummer op naam van de Verhuurder. Deze betaling geldt als een betaling van de Huurder.<br>
+<br>
+PMV/z-Leningen is gemachtigd om aangepaste afbetalingstermijnen te verlenen aan ondernemingen die omwille van coronavirusmaatregelen blijvend of opnieuw gesloten zijn. Uiterlijk drie maanden nadat de coronavirusmaatregelen die aanleiding gaven tot een verplichte sluiting zijn opgeheven moet de onderneming een eerste afbetaling van de lening doen.
 
 ### ART 8.
 
