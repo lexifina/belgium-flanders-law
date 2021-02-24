@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035241,
+  "title": "Besluit van de Vlaamse Regering van 2021-01-22 tot wijziging van het besluit van de Vlaamse Regering van 19 december 2014 betreffende steun aan de investeringen en aan de overname in de landbouw",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035241/VolledigDocument?datum=2021-02-24",
+  "source_sha256": "9cddc93ef9ce5320ce485d29ecd0b7007c17f9f5f0fe00b22c50c5d95136bf4e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035241&param=informatie",
+  "as_of": "2021-02-24",
+  "made": "2021-01-22",
+  "gazette": "2021-02-24",
+  "numac": 2021040349,
+  "document_start": "2021-02-24",
+  "document_end": null,
+  "in_force": "2021-02-24",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2021-02-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
