@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035218,
+  "title": "Ministerieel besluit van 2020-12-18 tot toekenning van een instapmoment aan bepaalde woonzorgcentra, centra voor kortverblijf en dagverzorgingscentra",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035218/VolledigDocument?datum=2021-02-26",
+  "source_sha256": "c02eb03c89d134085a5bb9999909bf7fc381ceb92e9851575e9636dcb6e679b8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035218&param=informatie",
+  "as_of": "2021-02-26",
+  "made": "2020-12-18",
+  "gazette": "2021-02-16",
+  "numac": 2021040416,
+  "document_start": "2021-02-26",
+  "document_end": null,
+  "in_force": "2021-02-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-02-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
