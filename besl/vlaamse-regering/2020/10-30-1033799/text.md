@@ -38,7 +38,7 @@ In toepassing van artikel 4, § 1, eerste lid, 1°, van het decreet van 20 maart
 <br>
 Voor de civiele noodsituatie, vermeld in het eerste lid, geldt het volgende :<br>
 1° de startdatum is 30 oktober 2020;<br>
-2° de duurtijd bedraagt 120 dagen, zodat deze civiele noodsituatie blijft vastgesteld tot en met 27 februari 2021;<br>
+2° de duurtijd bedraagt 120 dagen, zodat deze civiele noodsituatie blijft vastgesteld tot en met 26 februari 2021;<br>
 3° deze civiele noodsituatie geldt louter in het kader van de afwijkingsregeling op de omgevingsvergunnings- of omgevingsmeldingsplicht voorzien in artikel 4 van het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid.<br>
 <br>
 De bijzondere regeling vermeld in artikel 4 van het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid, geldt zolang de civiele noodsituatie is vastgesteld.

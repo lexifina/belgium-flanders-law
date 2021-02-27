@@ -2,16 +2,16 @@
   "codex_id": 1033799,
   "title": "Besluit van de Vlaamse Regering van 2020-10-30 houdende vaststelling van een civiele noodsituatie met betrekking tot de volksgezondheid, zoals vermeld in het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid, naar aanleiding van de heropleving van het COVID-19 virus",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033799/VolledigDocument?datum=2020-10-30",
-  "source_sha256": "737fc8aa9ca27bd61353a787f3903f3108fced27624c1c1911433fa15612128f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033799/VolledigDocument?datum=2021-02-27",
+  "source_sha256": "d625beadc1095a32a831d931672a8e89486983ce983d9bede5153fc05306ab1c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033799&param=informatie",
-  "as_of": "2020-10-30",
+  "as_of": "2021-02-27",
   "made": "2020-10-30",
   "gazette": "2020-11-09",
   "numac": 2020010456,
   "document_start": "2020-10-30",
   "document_end": null,
-  "in_force": "2020-10-30",
+  "in_force": "2021-02-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2020-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-02-27; future article versions excluded; article text as the API gives it"
 }
