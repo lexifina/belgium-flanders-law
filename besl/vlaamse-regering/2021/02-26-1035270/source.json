@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035270,
+  "title": "Besluit van de Vlaamse Regering van 2021-02-26 houdende de verlenging van de duur van de civiele noodsituatie en de afwijkingsregeling, zoals vastgesteld bij het besluit van de Vlaamse Regering van 30 oktober 2020 houdende vaststelling van een civiele noodsituatie met betrekking tot de volksgezondheid, zoals vermeld in het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid, naar aanleiding van de heropleving van het COVID-19 virus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035270/VolledigDocument?datum=2021-02-27",
+  "source_sha256": "9c302ff03e4ea90cc6cae27e67c6f790646dc3e600777950be42dcb58e152fff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035270&param=informatie",
+  "as_of": "2021-02-27",
+  "made": "2021-02-26",
+  "gazette": "2021-03-05",
+  "numac": 2021040824,
+  "document_start": "2021-02-27",
+  "document_end": null,
+  "in_force": "2021-02-27",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-02-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
