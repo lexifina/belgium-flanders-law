@@ -52,3 +52,20 @@ In artikel 15 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<
 3° in het vijfde lid, 3°, worden de woorden "doelgroepbeperking of gedeeltelijke verplichte sluiting" vervangen door de zinsnede "een doelgroepbeperking, van een gedeeltelijke verplichte sluiting of van een beduidend lagere bezetting die het gevolg is van de sluiting van een of meer scholen";<br>
 4° in het vijfde lid, 4°, worden tussen de woorden "volledige verplichte sluiting" en de zinsnede ": het aantal" de woorden "of van de afwezigheid van opvangvragen door een sluiting van alle scholen" ingevoegd;<br>
 5° in het vijfde lid, 5°, worden de woorden "de verplichte sluiting of de doelgroepbeperking" vervangen door de zinsnede "de verplichte sluiting, de doelgroepbeperking of de sluiting van de scholen".
+
+### ART 6.
+
+In artikel 16 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het derde lid wordt het woord "betaalt" vervangen door het woord "beslist";<br>
+2° in het derde lid wordt de zinsnede "de subsidiebedragen, vermeld in artikel 5, eerste lid, 1°, van dit besluit," opgeheven;<br>
+3° in het vierde lid wordt het woord "betaalt" vervangen door het woord "beslist";<br>
+4° in het vierde lid wordt de zinsnede "de subsidiebedragen, vermeld in artikel 5, eerste lid, 2° en 3°, artikel 11, eerste lid, 3° en 4°, artikel 13, 3° en 4°, en artikel 14, tweede lid, 3° en 4°, van dit besluit," opgeheven;<br>
+5° in het vierde lid wordt de zinsnede "bezorgd, aan" vervangen door de woorden "bezorgd aan"."
+
+### ART 7.
+
+Artikel 1 tot en met 5 hebben uitwerking met ingang van 1 februari 2021.
+
+### ART 8.
+
+De Vlaamse minister, bevoegd voor opgroeien, is belast met de uitvoering van dit besluit.
