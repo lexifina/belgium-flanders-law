@@ -262,9 +262,9 @@ Het agentschap beslist over de aanvraag uiterlijk zestig kalenderdagen na de dag
 <br>
 Als de subsidie wordt toegekend, betaalt het agentschap de subsidie uiterlijk dertig dagen na de dag waarop het de beslissing tot toekenning heeft genomen.<br>
 <br>
-Als de organisator de gegevens niet tijdig bezorgt aan het agentschap conform artikel 4, tweede lid, van het besluit van de Vlaamse Regering van 7 december 2018 houdende de kinderopvangtoeslag en kleutertoeslag, betaalt het agentschap in afwijking van het eerste lid de subsidiebedragen, vermeld in artikel 5, eerste lid, 1°, van dit besluit, uiterlijk zestig dagen na de dag waarop het de gegevens in het kader van de kinderopvangtoeslag heeft ontvangen.<br>
+Als de organisator de gegevens niet tijdig bezorgt aan het agentschap conform artikel 4, tweede lid, van het besluit van de Vlaamse Regering van 7 december 2018 houdende de kinderopvangtoeslag en kleutertoeslag, beslist het agentschap in afwijking van het eerste lid uiterlijk zestig dagen na de dag waarop het de gegevens in het kader van de kinderopvangtoeslag heeft ontvangen.<br>
 <br>
-Als de organisator de gegevens niet tijdig bezorgt aan het agentschap conform artikel 10, § 1, van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, betaalt het agentschap in afwijking van het eerste lid de subsidiebedragen, vermeld in artikel 5, eerste lid, 2° en 3°, artikel 11, eerste lid, 3° en 4°, artikel 13, 3° en 4°, en artikel 14, tweede lid, 3° en 4°, van dit besluit, uiterlijk zestig dagen na de dag waarop de organisator de gegevens heeft bezorgd, aan het agentschap in het kader van het systeem inkomenstarief.<br>
+Als de organisator de gegevens niet tijdig bezorgt aan het agentschap conform artikel 10, § 1, van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, beslist het agentschap in afwijking van het eerste lid uiterlijk zestig dagen na de dag waarop de organisator de gegevens heeft bezorgd aan het agentschap in het kader van het systeem inkomenstarief.<br>
 <br>
 Als het agentschap de gegevens, vermeld in het derde en vierde lid, niet ontvangen heeft binnen 120 dagen nadat het de aanvraag heeft ontvangen, vervalt het recht op de algemene of selectieve subsidie waarop de aanvraag betrekking heeft.
 
