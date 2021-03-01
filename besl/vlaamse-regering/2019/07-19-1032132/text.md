@@ -76,7 +76,7 @@ De steun voor de werken, vermeld in artikel 28, eerste lid, 7° tot en met 9°, 
 <br>
 Als er geen sprake is van staatssteun, worden de bepalingen van dit besluit toegepast. Als er wel sprake is van staatssteun wordt een rechtvaardigingsgrond gezocht in de Europese staatssteunregelgeving, bij voorkeur in de algemene groepsvrijstellingsverordening, dan wel in de andere onderdelen van de Europese staatssteun regelgeving of via een aanmelding bij de Europese Commissie.<br>
 <br>
-§ 3. De onderneming die een steunaanvraag indient, mag op de datum van de toekenning van de steun geen achterstallige schulden hebben bij de Rijksdienst voor Sociale Zekerheid, geen onderneming in moeilijkheden zijn als vermeld in artikel 2, 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees of nationaal recht hebben lopen, waarbij een toegekende steun wordt teruggevorderd als vermeld in artikel 1, lid 4, van de voormelde verordening.<br>
+§ 3. De onderneming mag op de indieningsdatum van de steunaanvraag geen achterstallige schulden hebben bij de Rijksdienst voor Sociale Zekerheid, geen onderneming in moeilijkheden zijn als vermeld in artikel 2, 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees of nationaal recht hebben lopen, waarbij een toegekende steun wordt teruggevorderd.<br>
 <br>
 Er kan geen steun worden toegekend met toepassing van dit besluit voor werkzaamheden die verband houden met de uitvoer naar derde landen of voor werkzaamheden die afhangen van het gebruik van binnenlandse goederen als vermeld in artikel 1, lid 2, van de voormelde verordening.<br>
 <br>
