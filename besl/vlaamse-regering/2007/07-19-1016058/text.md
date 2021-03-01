@@ -107,7 +107,7 @@ De organisaties die op 31 december 2018 erkend zijn als organisaties die de vrij
 
 ### ART. 10.
 
-<p>§ 1. Aan de erkende organisaties worden subsidies verleend die op jaarbasis 77.337,20 euro bedragen.<br>
+<p>§ 1. Aan de erkende organisaties worden subsidies verleend die op jaarbasis 79.415,48 euro euro bedragen.<br>
 <br>
 Het subsidiebedrag, vermeld in het eerste lid, wordt verhoogd met de volgende bedragen :<br>
 1° voor het jaar 2008 met 505 euro;<br>
