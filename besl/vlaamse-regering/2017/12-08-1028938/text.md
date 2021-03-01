@@ -75,10 +75,9 @@ De steunaanvrager is een onderneming als vermeld in artikel 3, 1°, van het decr
 ### ART 5.
 
 Een steunaanvrager neemt een van de volgende rechtsvormen aan:<br>
-1° een natuurlijke persoon die koopman is of een zelfstandig beroep uitoefent;<br>
-2° een handelsvennootschap met rechtspersoonlijkheid van privaat recht;<br>
-3° een burgerlijke vennootschap met handelsvorm van privaat recht;<br>
-4° een buitenlandse onderneming met een statuut dat gelijkwaardig is aan het statuut, vermeld in punt 1° tot en met 3°.
+1° een natuurlijke persoon die zelfstandig een beroepsactiviteit uitoefent;<br>
+2° een vennootschap met rechtspersoonlijkheid van privaat recht;<br>
+3° een buitenlandse onderneming met een statuut dat gelijkwaardig is aan het statuut, vermeld in punt 1° en 2°.
 
 ### ART 6.
 
@@ -92,7 +91,7 @@ De steunaanvrager is een onafhankelijke producent als vermeld in artikel 2, 49°
 
 Een administratieve overheid als vermeld in artikel 14 van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, of een buitenlandse vergelijkbare administratieve overheid mag geen dominerende invloed hebben op het beleid van de steunaanvrager.<br>
 <br>
-Er is een vermoeden van dominerende invloed als vermeld in het eerste lid, als de steunaanvrager voor 50% of meer van het kapitaal of de stemrechten rechtstreeks of onrechtstreeks in handen is van de administratieve overheid, vermeld in het eerste lid.<br>
+Er is een vermoeden van dominerende invloed als vermeld in het eerste lid, als de steunaanvrager voor 50% of meer van het kapitaal, de inbreng of de stemrechten rechtstreeks of onrechtstreeks in handen is van de administratieve overheid, vermeld in het eerste lid.<br>
 <br>
 Het vermoeden, vermeld in het tweede lid, kan weerlegd worden als de steunaanvrager kan aantonen dat de administratieve overheid, vermeld in het eerste lid, in werkelijkheid geen dominerende invloed uitoefent op het beleid van de steunaanvrager. De minister neemt daarover een beslissing.
 
