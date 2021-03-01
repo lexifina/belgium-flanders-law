@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035351,
+  "title": "Besluit van de Vlaamse Regering van 2021-02-26 tot wijziging van artikel 19 van het besluit van de Vlaamse Regering van 7 december 2018 betreffende de nadere regels voor het verkrijgen van een zorgtoeslag",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035351/VolledigDocument?datum=2021-03-01",
+  "source_sha256": "497f553811a87b2c380fedc51f8815f0e2faeeee74482486de14ba8ef074365d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035351&param=informatie",
+  "as_of": "2021-03-01",
+  "made": "2021-02-26",
+  "gazette": "2021-03-25",
+  "numac": 2021030697,
+  "document_start": "2021-03-01",
+  "document_end": null,
+  "in_force": "2021-03-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
