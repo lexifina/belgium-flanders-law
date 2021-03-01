@@ -242,6 +242,12 @@ Het agentschap Opgroeien regie&nbsp;stuurt zes maanden voor de tijdstippen, verm
 <br>
 De beslissing tot toekenning of weigering van de zorgtoeslag voor een kind met een specifieke ondersteuning, die voortvloeit uit de ambtshalve herziening, heeft uitwerking vanaf de eerste dag van de maand na de einddatum van de geldigheid van de vorige beslissing.<br>
 <br>
+Als op de einddatum van de geldigheid van de vorige beslissing geen ambtshalve herziening plaatsvindt en de begunstigden een ingevuld inlichtingenformulier hebben bezorgd aan het agentschap Opgroeien regie, wordt de vorige beslissing verlengd tot de datum waarop de beslissing die voortvloeit uit de ambtshalve herziening wordt genomen.<br>
+<br>
+In het vijfde lid wordt verstaan onder agentschap Opgroeien regie: het agentschap, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie.<br>
+<br>
+Als met toepassing van de beslissing die voortvloeit uit de ambtshalve herziening die plaatsvindt na een verlenging als vermeld in het vijfde lid, een hoger bedrag kan worden toegekend voor de periode vóór de ambtshalve herziening na een verlenging als vermeld in het vijfde lid, betaalt de uitbetalingsactor het verschil. Als de beslissing die voortvloeit uit de voormelde ambtshalve herziening tot een lager bedrag leidt, heeft die beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin die beslissing is genomen.<br>
+<br>
 § 2. Als wordt vastgesteld dat er een materiële fout is begaan in de verwerking van de beslissing, wordt die rechtgezet door de evaluerende arts of de MDT-arts. De evaluerende arts of de MDT-arts bezorgt de vaststelling aan het agentschap Opgroeien regie. Het agentschap Opgroeien regie bezorgt die vaststelling aan de uitbetalingsactor.<br>
 <br>
 Als door de rechtzetting, vermeld in het eerste lid, een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil, voor de periode die de evaluerende arts of de MDT-arts bepaalt. Als de nieuwe beslissing tot een lager bedrag leidt, heeft die beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de evaluerende arts of de MDT-arts de vaststelling heeft meegedeeld aan het agentschap Opgroeien regie.
