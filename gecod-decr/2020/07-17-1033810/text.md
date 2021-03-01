@@ -3271,35 +3271,35 @@ De feitelijke partner van de referentiehuurder die na de aanvang van de huurover
 
 ### ART 6.16.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Een sociale huurwoning wordt verhuurd op grond van een schriftelijke huurovereenkomst die minstens de hierna vermelde gegevens bevat:</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">1° de datum waarop de huurovereenkomst ingaat;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">2° de identiteit van de huurder en van de verhuurder;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">3° het adres van de sociale huurwoning en de aanwijzing van alle ruimtes en gedeelten van het gebouw die het voorwerp van de verhuur zijn;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">4° de duur van de huurovereenkomst;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">5° de basishuurprijs en in voorkomend geval de huurprijs die overeenkomstig artikel 6.23 berekend wordt bij de aanvang van de huurovereenkomst, en de manier waarop de huurprijs betaald wordt;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">6° het bedrag van de kosten en vergoedingen die betrekking hebben op diensten of leveringen aan de huurder bij de aanvang van de huurovereenkomst;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">7° het bedrag van de waarborg;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">8° in voorkomend geval de vermelding van het reglement van inwendige orde;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">9° een verwijzing naar de toelichting, vermeld in artikel 6.17, eerste lid.</span></span></span></span><br>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Een sociale huurwoning wordt verhuurd op grond van een schriftelijke huurovereenkomst die minstens de hierna vermelde gegevens bevat:</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° de datum waarop de huurovereenkomst ingaat;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° de identiteit van de huurder en van de verhuurder;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">3° het adres van de sociale huurwoning en de aanwijzing van alle ruimtes en gedeelten van het gebouw die het voorwerp van de verhuur zijn;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">4° de duur van de huurovereenkomst;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">5° de basishuurprijs en in voorkomend geval de huurprijs die overeenkomstig artikel 6.23 berekend wordt bij de aanvang van de huurovereenkomst, en de manier waarop de huurprijs betaald wordt;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">6° het bedrag van de kosten, lasten en vergoedingen die betrekking hebben op diensten of leveringen aan de huurder bij de aanvang van de huurovereenkomst;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">7° het bedrag van de waarborg;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">8° in voorkomend geval de vermelding van het reglement van inwendige orde;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">9° een verwijzing naar de toelichting, vermeld in artikel 6.17, eerste lid.</span></span></span><br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering stelt een typehuurovereenkomst vast. Van de typehuurovereenkomst kan enkel worden afgeweken in de gevallen die de Vlaamse Regering bepaalt. </span></span></span></span></p>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De Vlaamse Regering stelt een typehuurovereenkomst vast. Van de typehuurovereenkomst kan enkel worden afgeweken in de gevallen die de Vlaamse Regering bepaalt. </span></span></span></p>
 
 ### ART 6.17.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Er wordt een toelichting op maat van de huurder gemaakt over de regelgevende bepalingen die van toepassing zijn op de verhouding tussen de huurder en de verhuurder. De verhuurder bezorgt de toelichting aan de huurder bij de ondertekening van de huurovereenkomst. De toelichting bevat minstens informatie over de volgende elementen:</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">1° de verplichtingen van de verhuurder en de huurder;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">2° de plaatsbeschrijving;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">3° de duur van de huurovereenkomst;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">4° de huurprijsberekening en huurprijsherziening;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">5° de kosten en vergoedingen die betrekking hebben op diensten of leveringen aan de huurder;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">6° de mogelijkheden inzake vermindering van de onroerende voorheffing voor huurders;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">7° de waarborg;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">8° de brandverzekering;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">9° de regeling met betrekking tot de huurherstellingen;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">10° de beëindiging van de huurovereenkomst;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">11° de mogelijkheden voor de huurder om zijn rechten of belangen te beschermen tegenover de verhuurder.</span></span></span></span><br>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Er wordt een toelichting op maat van de huurder gemaakt over de regelgevende bepalingen die van toepassing zijn op de verhouding tussen de huurder en de verhuurder. De verhuurder bezorgt de toelichting aan de huurder bij de ondertekening van de huurovereenkomst. De toelichting bevat minstens informatie over de volgende elementen:</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° de verplichtingen van de verhuurder en de huurder;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° de plaatsbeschrijving;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">3° de duur van de huurovereenkomst;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">4° de huurprijsberekening en huurprijsherziening;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">5° de kosten, lasten en vergoedingen die betrekking hebben op diensten of leveringen aan de huurder;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">6° de mogelijkheden inzake vermindering van de onroerende voorheffing voor huurders;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">7° de waarborg;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">8° de brandverzekering;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">9° de regeling met betrekking tot de huurherstellingen;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">10° de beëindiging van de huurovereenkomst;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">11° de mogelijkheden voor de huurder om zijn rechten of belangen te beschermen tegenover de verhuurder.</span></span></span><br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De toelichting, vermeld in het eerste lid, wordt aangepast als de regelgeving wijzigt. De verhuurder zorgt ervoor dat de huurder op een toegankelijke manier van de gewijzigde toelichting kennis kan nemen.</span></span></span></span></p>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De toelichting, vermeld in het eerste lid, wordt aangepast als de regelgeving wijzigt. De verhuurder zorgt ervoor dat de huurder op een toegankelijke manier van de gewijzigde toelichting kennis kan nemen.</span></span></span></p>
 
 ## Titel 2. Plaatsbeschrijving
 
@@ -3313,10 +3313,10 @@ De feitelijke partner van de referentiehuurder die na de aanvang van de huurover
 
 ### ART 6.19.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Naast de verplichtingen van de verhuurder, vermeld in het Vlaams Woninghuurdecreet, leeft de verhuurder van een sociale huurwoning de volgende verplichtingen na:</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">1° hij deelt aan de huurder de te betalen huurprijs mee en geeft bij het aangaan van de huurovereenkomst een indicatie van de kosten en vergoedingen die betrekking hebben op diensten of leveringen aan de huurder;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">2° hij voert de basisbegeleidingstaken die de Vlaamse Regering vaststelt, uit;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">3° als hij de huurovereenkomst wil opzeggen wegens een tekortkoming als vermeld in artikel 6.33, eerste lid, 2°, verwittigt hij vooraf het OCMW, dat op de meest aangewezen wijze en binnen zijn wettelijke opdracht hulp aanbiedt.</span></span></span></span></p>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Naast de verplichtingen van de verhuurder, vermeld in het Vlaams Woninghuurdecreet, leeft de verhuurder van een sociale huurwoning de volgende verplichtingen na:</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° hij deelt aan de huurder de te betalen huurprijs mee en geeft bij het aangaan van de huurovereenkomst een indicatie van de kosten, lasten&nbsp;en vergoedingen die betrekking hebben op diensten of leveringen aan de huurder;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° hij voert de basisbegeleidingstaken die de Vlaamse Regering vaststelt, uit;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">3° als hij de huurovereenkomst wil opzeggen wegens een tekortkoming als vermeld in artikel 6.33, eerste lid, 2°, verwittigt hij vooraf het OCMW, dat op de meest aangewezen wijze en binnen zijn wettelijke opdracht hulp aanbiedt.</span></span></span></p>
 
 ## Deel 8. Verplichtingen van de huurder
 
@@ -3367,19 +3367,25 @@ De feitelijke partner van de referentiehuurder die na de aanvang van de huurover
 
 ### ART 6.24.
 
-<span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering bepaalt welke kosten en vergoedingen ten laste van de verhuurder en de huurder kunnen worden gelegd en welke regels gelden voor de inning en de controle erop. </span></span>
+<span style="font-size:10.0pt">De Vlaamse Regering bepaalt welke kosten en lasten ten laste van de verhuurder en de huurder kunnen worden gelegd en welke regels gelden voor de inning en de controle erop. </span>
 
 ### ART 6.25.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De verhuurder kan een billijk deel van het financiële voordeel dat de huurder geniet door het gebruik van hernieuwbare energiebronnen als vermeld in artikel 1.1.3, 65°, van het Energiedecreet van 8 mei 2009, recupereren via een periodieke vergoeding. Die vergoeding kan pas worden aangerekend nadat de installatie in gebruik is genomen.</span></span></span></span><br>
+<p style="margin-left:0cm; margin-right:0cm">De verhuurder recupereert via een periodieke vergoeding een billijk deel van het financiële voordeel dat de huurder geniet door het gebruik van hernieuwbare energiebronnen als vermeld in artikel 1.1.3, 65°, van het Energiedecreet. Die vergoeding kan pas worden aangerekend nadat de installatie in gebruik is genomen.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De periodieke vergoeding, vermeld in het eerste lid, mag nooit meer bedragen dan het werkelijke voordeel dat de huurder in diezelfde periode heeft genoten en kan forfaitair berekend worden op basis van een installatie die afgestemd is op een normaal verbruik.</span></span></span></span><br>
+De periodieke vergoeding, vermeld in het eerste lid, bedraagt nooit meer dan het financiële voordeel dat de huurder in de desbetreffende periode heeft genoten en wordt berekend op basis van het werkelijke verbruik van de hernieuwbare energiebronnen door die huurder.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De periodieke vergoeding is maximaal de som van de jaarlijkse lineaire afschrijving van de investering over de verwachte levensduur van de installatie, en de jaarlijkse financierings-, beheers-, onderhouds- en herstellingskosten naar verhouding van de periode die wordt aangerekend.</span></span></span></span><br>
+De periodieke vergoeding, vermeld in het eerste lid, is maximaal de som van de jaarlijkse lineaire afschrijving van de investering over de verwachte levensduur van de installatie, en de jaarlijkse financierings-, beheers-, onderhouds- en herstellingskosten, met inbegrip van de aangelegde en aangewende voorzieningen voor grote onderhouds- en herstellingswerken, en verminderd met andere opbrengsten uit de investering naar verhouding van de periode die wordt aangerekend. Verliezen die in vorige periodes zijn ontstaan als gevolg van de toepassing van de beperking, vermeld in het tweede en zevende lid, worden daarbij verrekend.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Als de verhuurder een vergoeding ontvangt die hoger is dan het maximale bedrag, vermeld in het tweede en derde lid, betaalt hij het te veel geïnde bedrag terug aan de huurder.</span></span></span></span><br>
+Als de huurder een periodieke vergoeding betaalt die hoger is dan het maximale bedrag, vermeld in het tweede en derde lid, wordt het te veel geïnde bedrag door de verhuurder teruggestort.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering bepaalt de berekeningswijze van de periodieke vergoeding, alsook de gevallen waarbij de periodieke vergoeding verminderd of niet aangerekend wordt.</span></span></span></span></p>
+De verhuurder zorgt voor de plaatsing van een productiemeter die voldoet aan de normen, vermeld in het technisch reglement voor de distributie van elektriciteit, vermeld in artikel 1.1.3, 117°, van het Energiedecreet, om de productieopbrengst van de installatie te volgen.<br>
+<br>
+De Vlaamse Regering bepaalt de berekeningswijze van de periodieke vergoeding, de wijze waarop de verhuurder de verbruiksgegevens van de huurder kan opvragen en de gevallen waarin de vergoeding verminderd of niet aangerekend wordt.<br>
+<br>
+In afwijking van het tweede lid bepaalt de Vlaamse Regering de gevallen waarin en de voorwaarden waaronder de vergoeding forfaitair kan worden berekend op basis van een installatie die afgestemd is op een normaal verbruik. De Vlaamse Regering bepaalt de berekeningswijze van die forfaitaire vergoeding.<br>
+<br>
+Dit artikel is niet van toepassing op sociale verhuurkantoren.</p>
 
 ## Titel 3. Huurwaarborg
 
