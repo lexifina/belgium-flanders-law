@@ -94,6 +94,20 @@ In artikel 31 van het besluit van de Vlaamse Regering van 17 november 2017 betre
 
 ## HOOFDSTUK 6. Wijzigingen van het besluit van de Vlaamse Regering van 12 oktober 2018 houdende de erkenning en de subsidiëring van consultatiebureaus en de erkenning van consultatiebureauartsen
 
+### ART 8.
+
+In artikel 41, § 1, van het besluit van de Vlaamse Regering van 12 oktober 2018 houdende de erkenning en de subsidiëring van consultatiebureaus en de erkenning van consultatiebureauartsen worden de volgende wijzigingen aangebracht:<br>
+1° aan het eerste lid wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
+"3° een variabele component van 0,77 euro (zevenenzeventig cent) per uitgevoerd zittingsuur voor personeelskosten van de organisator, ter uitvoering van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social-/non-profitsectoren voor de periode 2021-2025.";<br>
+2° aan het tweede lid wordt de zinsnede ", en de variabele component, vermeld in het eerste lid, 3° " toegevoegd.
+
+### ART 9.
+
+In artikel 99, § 2, van hetzelfde besluit, vervangen en gewijzigd bij het besluit van de Vlaamse Regering van 7 februari 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "en het" vervangen door de zinsnede ", het";<br>
+2° aan het eerste lid wordt de zinsnede "en het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social-/non-profitsectoren voor de periode 2021-2025" toegevoegd;<br>
+3° in het tweede lid wordt het bedrag "2,95 euro" vervangen door de zinsnede "4,42 euro (vier euro tweeënveertig cent)".
+
 ## HOOFDSTUK 7. Wijzigingen van het besluit van de Vlaamse Regering van 8 mei 2020 tot uitvoering van het decreet van 26 april 2019 houdende de oprichting van een afstammingscentrum en een DNA-databank
 
 ### ART 10.
