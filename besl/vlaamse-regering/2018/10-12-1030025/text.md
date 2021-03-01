@@ -345,9 +345,10 @@ Het agentschap kent jaarlijks per prenataal consultatiebureau, vermeld in artike
 1° een vaste component van 1326 euro per jaar voor personeelskosten;<br>
 2° een variabele component voor werkingskosten die als volgt wordt berekend:<br>
 a) een bedrag van 27,07 euro per toegekend uur voor de organisatie van het preventief consultaanbod;<br>
-b) het bedrag berekend conform punt a), wordt verhoogd met 17,5% voor een kwaliteitsvolle werking.<br>
+b) het bedrag berekend conform punt a), wordt verhoogd met 17,5% voor een kwaliteitsvolle werking;<br>
+3° een variabele component van 0,77 euro (zevenenzeventig cent) per uitgevoerd zittingsuur voor personeelskosten van de organisator, ter uitvoering van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social-/non-profitsectoren voor de periode 2021-2025.<br>
 <br>
-Voor de organisatie en het beheer van het preventief consultaanbod in een Opvangcentrum voor asielzoekers of op een locatie buiten het consultatiebureau conform artikel 25, en voor de organisatie en het beheer van het prenataal consultaanbod bestaat het subsidiebedrag alleen uit de variabele component, vermeld in het eerste lid, 2°, a).<br>
+Voor de organisatie en het beheer van het preventief consultaanbod in een Opvangcentrum voor asielzoekers of op een locatie buiten het consultatiebureau conform artikel 25, en voor de organisatie en het beheer van het prenataal consultaanbod bestaat het subsidiebedrag alleen uit de variabele component, vermeld in het eerste lid, 2°, a), en de variabele component, vermeld in het eerste lid, 3°.<br>
 <br>
 De bedragen, vermeld in het eerste lid, zijn uitgedrukt tegen 100% en worden gekoppeld aan het spilindexcijfer 105,10.<br>
 <br>
@@ -952,9 +953,9 @@ In afwijking van artikel 93 meldt de organisator, vermeld in het eerste lid, de 
 <br>
 De organisator, vermeld in het eerste lid, krijgt een maandelijkse subsidie die gelijk is aan de vergoeding voor artsen, vermeld in artikel 75 van dit besluit.<br>
 <br>
-§ 2. Bovenop de subsidies, vermeld in paragraaf 1, krijgt de organisator, vermeld in paragraaf 1, met arts-bedienden nog een bijkomende subsidie tot uitvoering van het vierde Vlaamse Intersectoraal Akkoord van 2 december 2011 voor de private social- en non-profitsectoren voor de periode 2011 tot 2015 en het vijfde Vlaams Intersectoraal Akkoord van 8 juni 2018 voor de social/non profitsectoren voor de periode 2018-2020.<br>
+§ 2. Bovenop de subsidies, vermeld in paragraaf 1, krijgt de organisator, vermeld in paragraaf 1, met arts-bedienden nog een bijkomende subsidie tot uitvoering van het vierde Vlaamse Intersectoraal Akkoord van 2 december 2011 voor de private social- en non-profitsectoren voor de periode 2011 tot 2015, het vijfde Vlaams Intersectoraal Akkoord van 8 juni 2018 voor de social/non profitsectoren voor de periode 2018-2020 en het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social-/non-profitsectoren voor de periode 2021-2025.<br>
 <br>
-De subsidie, vermeld in het eerste lid, bedraagt 2,95 euro per uur uitgevoerd door een arts-bediende. Dat bedrag wordt geïndexeerd conform artikel 41, § 1, derde lid.<br>
+De subsidie, vermeld in het eerste lid, bedraagt 4,42 euro (vier euro tweeënveertig cent) per uur uitgevoerd door een arts-bediende. Dat bedrag wordt geïndexeerd conform artikel 41, § 1, derde lid.<br>
 <br>
 § 3. De organisatoren die een beroep willen doen op de overgangsbepaling, vermeld in paragraaf 1, eerste lid, melden dat uiterlijk vóór 1 februari 2019 aan het agentschap. Als er een einde komt aan hun overeenkomst met de arts-bediende, melden ze dat onmiddellijk aan het agentschap. Vanaf 1 januari 2019 mogen geen nieuwe bediendencontracten met artsen afgesloten worden.
 

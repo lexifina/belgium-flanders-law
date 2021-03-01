@@ -2,16 +2,16 @@
   "codex_id": 1030025,
   "title": "Besluit van de Vlaamse Regering van 2018-10-12 houdende de erkenning en de subsidiëring van consultatiebureaus en de erkenning van consultatiebureauartsen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030025/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "e27300dddb21f352c1b38f4d24e9f95ecfd0a9e092a8b9625e432fbfcdfd76a3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030025/VolledigDocument?datum=2021-03-01",
+  "source_sha256": "47a65385dee6f2e008e5490f16e65c3af83c67866c2cece3e2e1f133e4f79948",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030025&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2021-03-01",
   "made": "2018-10-12",
   "gazette": "2018-12-21",
   "numac": 2018032484,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2020-01-01",
+  "in_force": "2021-03-01",
   "article_versions": 106,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-03-01; future article versions excluded; article text as the API gives it"
 }
