@@ -24,34 +24,39 @@ Het ministerieel besluit van 2 februari 2009 tot aanwijzing van sociaalrechtelij
 
 ### BIJLAGE
 
+<span style="font-size:medium"><span style="color:#000000">Lijst van sociaalrechtelijke inspecteurs als vermeld in artikel 3</span></span><br>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">De sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie zijn:</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000">De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie:</span></span><br>
 &nbsp;
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
 	<tbody>
 		<tr>
 			<td>Aerts Lorette</td>
 			<td>Marchand Thalassa</td>
 		</tr>
 		<tr>
-			<td>Botteldoorn Kristof</td>
+			<td>Beckers Mieke</td>
 			<td>Mariën Lieven</td>
 		</tr>
 		<tr>
-			<td>Caestecker Nicky</td>
+			<td>Botteldoorn Kristof</td>
 			<td>Martens Evi</td>
 		</tr>
 		<tr>
-			<td>Carlier Sofie</td>
+			<td>Caestecker Nicky</td>
 			<td>Matthys David</td>
 		</tr>
 		<tr>
-			<td>Cauwels Koen</td>
+			<td>Carlier Sofie</td>
 			<td>Nollet Bart</td>
 		</tr>
 		<tr>
-			<td>Chaïbi Abdellah</td>
+			<td>Cauwels Koen</td>
 			<td>Paternoster Johanna</td>
+		</tr>
+		<tr>
+			<td>Chaïbi Abdellah</td>
+			<td>Pauwels Miet</td>
 		</tr>
 		<tr>
 			<td>Costermans Cornelia</td>
@@ -63,50 +68,66 @@ Het ministerieel besluit van 2 februari 2009 tot aanwijzing van sociaalrechtelij
 		</tr>
 		<tr>
 			<td>Cretskens Luc</td>
-			<td>Segers Tom</td>
+			<td>Schietecatte Maarten</td>
 		</tr>
 		<tr>
 			<td>Cuypers Ines</td>
-			<td>Smits Elke</td>
+			<td>Schoeters Patrice</td>
+		</tr>
+		<tr>
+			<td>De Brue Ine</td>
+			<td>Schouteet Nathalie</td>
+		</tr>
+		<tr>
+			<td>De Saedeleir Inge</td>
+			<td>Sebreghts Annik</td>
 		</tr>
 		<tr>
 			<td>De Wit Jurgen</td>
-			<td>Tothezan Otilia</td>
+			<td>Segers Elke</td>
 		</tr>
 		<tr>
 			<td>Decraene Evelien</td>
-			<td>Van der Velde Petra</td>
+			<td>Segers Tom</td>
+		</tr>
+		<tr>
+			<td>Dehondt Eric</td>
+			<td>Smits Elke</td>
 		</tr>
 		<tr>
 			<td>Dhondt Nathalie</td>
-			<td>Van Duppen Nick</td>
+			<td>Van der Velde Petra</td>
 		</tr>
 		<tr>
 			<td>Dumeez Nele</td>
-			<td>Van Neygen Elke</td>
+			<td>Van Duppen Nick</td>
 		</tr>
 		<tr>
 			<td>Feremans David</td>
-			<td>Van Osselaer Koenraad</td>
+			<td>Van Neygen Elke</td>
 		</tr>
 		<tr>
 			<td>Gijsel Lize</td>
-			<td>Van Parys Willem</td>
+			<td>Van Osselaer Koenraad</td>
 		</tr>
 		<tr>
 			<td>Haerinck Frank</td>
-			<td>Vandaele Chris</td>
+			<td>Van Parys Willem</td>
 		</tr>
 		<tr>
 			<td>Haerinck Jana</td>
-			<td>Vandenameele Vincent</td>
+			<td>Vandaele Chris</td>
 		</tr>
 		<tr>
 			<td>Heirman Alexander</td>
-			<td>Vandenbussche Stefanie</td>
+			<td>Vandenameele Vincent</td>
 		</tr>
 		<tr>
 			<td>Herman Katrien</td>
+			<td>Vandenbussche Stefanie</td>
+		</tr>
+		<tr>
+			<td>Jacobs Pascal</td>
 			<td>Velghe Wim</td>
 		</tr>
 		<tr>
@@ -116,6 +137,10 @@ Het ministerieel besluit van 2 februari 2009 tot aanwijzing van sociaalrechtelij
 		<tr>
 			<td>Lambrechts Ann</td>
 			<td>Verstraaten Katty</td>
+		</tr>
+		<tr>
+			<td>Lasure Sabien</td>
+			<td>&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
