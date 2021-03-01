@@ -360,9 +360,9 @@ Budgethouders kunnen pas een kostenstaat met bedragen die ze vrij hebben besteed
 
 ### ART 23.
 
-<span style="color:#000000; font-family:times new roman; font-size:medium">§ 1. Als budgethouders in het kader van de besteding van het budget als cashbudget een arbeidsovereenkomst sluiten, voldoen ze aan hun fiscale en sociaal-rechterlijke verplichtingen als werkgever, de bepalingen over het minimumloon en de verplaatsingen, zoals vastgesteld binnen het paritair subcomité 319.01 en de bepalingen over de eindejaarspremie die zijn opgenomen in de collectieve arbeidsovereenkomsten die hierover worden aangenomen binnen het paritair comité 337.<br>
+§1. Als budgethouders in het kader van de besteding van het budget als cashbudget een arbeidsovereenkomst sluiten, voldoen ze aan hun fiscale en sociaal-rechterlijke verplichtingen als werkgever, aan de bepalingen over de verplaatsingen, zoals vastgesteld binnen het paritair subcomité 319.01 en aan de bepalingen over het minimumloon en de eindejaarspremie die zijn opgenomen in de collectieve arbeidsovereenkomsten die hierover worden aangenomen binnen het paritair comité 337.<br>
 <br>
-§ 2. Als budgethouders een beroep willen doen op een minderjarige voor het bieden van zorg en ondersteuning, kan dat alleen in het kader van een van de volgende overeenkomsten :<br>
+§2. Als budgethouders een beroep willen doen op een minderjarige voor het bieden van zorg en ondersteuning, kan dat alleen in het kader van een van de volgende overeenkomsten :<br>
 1° een overeenkomst voor tewerkstelling van studenten als vermeld in Titel VII van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten. De budgethouder voldoet als werkgever aan alle fiscale en sociaal rechtelijke verplichtingen, de bepalingen over het minimumloon en verplaatsingen, zoals vastgesteld binnen het paritair comité 319.01 en de bepalingen over de eindejaarspremie die zijn opgenomen in de collectieve arbeidsovereenkomsten die hierover worden aangenomen binnen het paritair comité 337;<br>
 2° een overeenkomst met een organisatie die vrijwilligers ter beschikking stelt.<br>
 <br>
@@ -370,11 +370,20 @@ Vóór de ingangsdatum van een overeenkomst als vermeld in het eerste lid, 1°, 
 <br>
 De budgethouder bezorgt een machtiging door een ouder of de voogd aan het agentschap voor de ingangsdatum van de overeenkomst, vermeld in het eerste lid, 2°. Het agentschap stelt een model voor de machtigingen ter beschikking.<br>
 <br>
-§ 3. In het geval, vermeld in paragraaf 1 en paragraaf 2, eerste lid, 1°, betaalt het agentschap een tegemoetkoming voor de eindejaarspremie die is vastgesteld binnen het paritair comité 337. De Vlaamse minister, bevoegd voor de personen met een beperking, bepaalt de wijze waarop het bedrag van de tegemoetkoming wordt berekend en houdt daarbij rekening met het bedrag van de eindejaarspremie dat is vastgesteld binnen het paritair comité 337 en met de middelen die daarvoor op de begroting van het agentschap zijn ingeschreven.<br>
+§3. In het geval, vermeld in paragraaf 1 en paragraaf 2, eerste lid, 1°, betaalt het agentschap een tegemoetkoming voor de eindejaarspremie die is vastgesteld binnen het paritair comité 337. De Vlaamse minister, bevoegd voor de personen met een beperking, bepaalt de wijze waarop het bedrag van de tegemoetkoming wordt berekend en houdt daarbij rekening met het bedrag van de eindejaarspremie dat is vastgesteld binnen het paritair comité 337 en met de middelen die daarvoor op de begroting van het agentschap zijn ingeschreven.<br>
 <br>
 Het agentschap vraagt met het oog op de berekening en de betaling van de tegemoetkoming voor de eindejaarspremie, vermeld in het tweede lid, de volgende gegevens op bij de Rijksdienst voor de Sociale Zekerheid :<br>
 1° de identiteit van de budgethouders die overeenkomsten als vermeld in het eerste lid hebben afgesloten;<br>
-de identiteit van de werknemers in kwestie en de gegevens over hun tewerkstelling.</span>
+de identiteit van de werknemers in kwestie en de gegevens over hun tewerkstelling.<br>
+<br>
+§4. In het geval, vermeld in paragraaf 1 en paragraaf 2, eerste lid, 1°, kan de budgethouder aanspraak maken op een verhoging van het budget met maximaal 8,75% van de volgende kosten die verband houden met een arbeidsovereenkomst en die vermeld worden op de kostenstaten, vermeld in artikel 22, die worden ingediend bij het agentschap:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;brutolonen;<br>
+2°&nbsp;&nbsp; &nbsp;vakantiegeld;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;kosten in verband met de dienstverlening door een sociaal secretariaat;<br>
+4°&nbsp;&nbsp; &nbsp;maaltijdcheques;<br>
+5°&nbsp;&nbsp; &nbsp;opzegvergoedingen.<br>
+<br>
+De verhoging van het maximumbudget, vermeld in het eerste lid, kan alleen worden aangewend voor de vergoeding van de kosten, vermeld in het eerste lid.
 
 ### ART 24.
 
