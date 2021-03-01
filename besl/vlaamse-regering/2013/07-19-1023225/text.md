@@ -30,13 +30,18 @@ In dit besluit wordt verstaan onder :<BR>1° decreet van 16 maart 2012 :   het d
 
 ### ART. 4/1.
 
-Een onderneming komt alleen voor steun in aanmerking als ze aan een van de   volgende voorwaarden voldoet :<BR>1° de onderneming is een natuurlijke persoon   die koopman is of een zelfstandig beroep uitoefent;<BR>2° de onderneming is een   handelsvennootschap met rechtspersoonlijkheid van privaat recht;<BR>3° de   onderneming is een burgerlijke vennootschap met handelsvorm van privaat   recht;<BR>4° de onderneming is een buitenlandse onderneming met een statuut dat   gelijkwaardig is aan het statuut, vermeld in punt 1° tot en met 3°.<BR><BR>Om   voor steun in aanmerking te komen moet de onderneming over een exploitatiezetel   in het Vlaamse Gewest beschikken of zich ertoe verbinden in het Vlaamse Gewest   een exploitatiezetel te vestigen. De minister kan een uitzondering   toestaan.
+Een onderneming komt alleen voor steun in aanmerking als ze aan een van de volgende voorwaarden voldoet:<br>
+1° de onderneming is een natuurlijke persoon die zelfstandig een beroepsactiviteit uitoefent;<br>
+2° de onderneming is een vennootschap met rechtspersoonlijkheid van privaat recht;<br>
+3° de onderneming is een buitenlandse onderneming met een statuut dat gelijkwaardig is aan het statuut, vermeld in punt 1° en 2°.<br>
+<br>
+Om voor steun in aanmerking te komen moet de onderneming over een exploitatiezetel in het Vlaamse Gewest beschikken of zich ertoe verbinden in het Vlaamse Gewest een exploitatiezetel te vestigen. De minister kan een uitzondering toestaan.
 
 ### ART. 5.
 
 <p>Er wordt geen steun verleend aan ondernemingen die niet voldoen aan de regelgeving die van toepassing is in het Vlaamse Gewest.<br>
 <br>
-De onderneming mag op de indieningsdatum van de steunaanvraag geen achterstallige schulden hebben bij de Rijksdienst voor Sociale Zekerheid en op de datum van de steuntoekenning geen onderneming in moeilijkheden zijn als vermeld in artikel 2, 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees, nationaal of regionaal recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.<br>
+De onderneming mag op de indieningsdatum van de steunaanvraag geen achterstallige schulden hebben bij de Rijksdienst voor Sociale Zekerheid, geen onderneming in moeilijkheden zijn als vermeld in artikel 2, 18, van de algemene vrijstellingsverordening, en geen procedure op basis van Europees, nationaal of regionaal recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.<br>
 <br>
 In afwijking van het tweede lid geldt de voorwaarde over ondernemingen in moeilijkheden niet voor een starter als vermeld in artikel 22, 2, van de algemene groepsvrijstellingsverordening. Het maximale steunbedrag, vermeld in artikel 22, lid 3, c), en lid 5, van de voormelde verordening, wordt alleen toegepast als dat lager is dan de maximale steunintensiteit, vermeld in dit besluit en de uitvoeringsbesluiten ervan.</p>
 
@@ -46,7 +51,9 @@ Met behoud van de toepassing van artikel 14, punt 5, van de algemene   vrijstell
 
 ### ART. 7.
 
-<P>Er kan geen steun verleend worden aan ondernemingen als een administratieve   overheid als vermeld in artikel 14 van de wetten op de Raad van State,   gecoördineerd op 12 januari 1973, over een dominerende invloed beschikt. Er is   een vermoeden van dominerende invloed als de onderneming voor 50 % of meer van   het kapitaal of de stemrechten rechtstreeks of onrechtstreeks in handen is van   de administratieve overheid.<BR></P>  <P>Dat vermoeden kan weerlegd worden als de onderneming kan aantonen dat de   administratieve overheid, vermeld in het eerste lid, in werkelijkheid geen   dominerende invloed uitoefent op het beleid van de onderneming. Het Agentschap   Innoveren en Ondernemen neemt daarover een beslissing bij de   ontvankelijkheidscontrole.<BR></P>
+<p>Er kan geen steun verleend worden aan ondernemingen als een administratieve overheid als vermeld in artikel 14 van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, over een dominerende invloed beschikt. Er is een vermoeden van dominerende invloed als de onderneming voor 50 % of meer van het kapitaal, de inbreng of de stemrechten rechtstreeks of onrechtstreeks in handen is van de administratieve overheid.</p>
+
+<p>Dat vermoeden kan weerlegd worden als de onderneming kan aantonen dat de administratieve overheid, vermeld in het eerste lid, in werkelijkheid geen dominerende invloed uitoefent op het beleid van de onderneming. Het Agentschap Innoveren en Ondernemen neemt daarover een beslissing bij de ontvankelijkheidscontrole.</p>
 
 ### ART. 8.
 
