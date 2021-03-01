@@ -38,7 +38,12 @@ In dit besluit wordt verstaan onder:<BR>1° aanzienlijke   capaciteitsuitbreidin
 
 ### ART. 1/1.
 
-Een onderneming komt alleen voor steun in aanmerking als ze aan een van de   volgende voorwaarden voldoet :<BR>1° de onderneming is een natuurlijke persoon   die koopman is of een zelfstandig beroep uitoefent;<BR>2° de onderneming is een   handelsvennootschap met rechtspersoonlijkheid van privaat recht;<BR>3° de   onderneming is een burgerlijke vennootschap met handelsvorm van privaat   recht;<BR>4° de onderneming is een buitenlandse onderneming met een statuut dat   gelijkwaardig is aan het statuut, vermeld in punt 1° tot en met 3°.<BR><BR>Om in   aanmerking te komen voorsteun moet de onderneming vanaf de indieningsdatum van   de steunaanvraag over een exploitatiezetel in het Vlaamse Gewest   beschikken.
+Een onderneming komt alleen voor steun in aanmerking als ze aan een van de volgende voorwaarden voldoet:<br>
+1° de onderneming is een natuurlijke persoon die zelfstandig een beroepsactiviteit uitoefent;<br>
+2° de onderneming is een vennootschap met rechtspersoonlijkheid van privaat recht;<br>
+3° de onderneming is een buitenlandse onderneming met een statuut dat gelijkwaardig is aan het statuut, vermeld in punt 1° en 2°.<br>
+<br>
+Om in aanmerking te komen voorsteun moet de onderneming vanaf de indieningsdatum van de steunaanvraag over een exploitatiezetel in het Vlaamse Gewest beschikken.
 
 ### ART. 2.
 
