@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035235,
+  "title": "Besluit van de Vlaamse Regering van 2021-02-05 tot wijziging van het besluit van de Vlaamse Regering van 25 mei 2018 tot aanpassing van de regelgeving betreffende het vervoer van gevaarlijke goederen over de binnenwateren aan de wetenschappelijke en technische vooruitgang, wat betreft de elektronische meldplicht voor schepen die gevaarlijke goederen vervoeren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035235/VolledigDocument?datum=2021-03-01",
+  "source_sha256": "648c857cedf04eb6431a7dd71ab89a1311b139809f28fbda7fc0ffb4bcc19cb5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035235&param=informatie",
+  "as_of": "2021-03-01",
+  "made": "2021-02-05",
+  "gazette": "2021-02-23",
+  "numac": 2021020379,
+  "document_start": "2021-03-01",
+  "document_end": null,
+  "in_force": "2021-03-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2021-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
