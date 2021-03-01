@@ -86,11 +86,15 @@ De steun wordt toegekend in de vorm van een subsidie.
 
 ### ART. 12.
 
-§ 1. Om in aanmerking te komen voor steun moet een onderneming voldoen aan de bepalingen van artikel 1, 6° en 7°. Om aan het zelfstandigheidscriterium te voldoen mag ze niet voor 25 % of meer van het kapitaal of van de stemrechten in handen zijn van een grote onderneming of van verscheidene grote ondernemingen samen.<br /><br />Voor de toepassing van het zelfstandigheidscriterium wordt onder een grote onderneming verstaan, die 250 of meer werknemers telt of die een jaaromzet heeft van meer dan 50 miljoen euro en een balanstotaal van meer dan 43 miljoen euro.<br /><br />§ 2. Ondernemingen die formeel aan het zelfstandigheidscriterium beantwoorden, maar waarin in werkelijkheid de zeggenschap door een grote onderneming of door verscheidene grote ondernemingen samen wordt uitgeoefend, voldoen niet aan de definitie van § 1, tweede lid.
+§ 1. Om in aanmerking te komen voor steun moet een onderneming voldoen aan de bepalingen van artikel 1, 6° en 7°. Om aan het zelfstandigheidscriterium te voldoen mag ze niet voor 25 % of meer van het kapitaal, van de inbreng of van de stemrechten in handen zijn van een grote onderneming of van verscheidene grote ondernemingen samen.<br>
+<br>
+Voor de toepassing van het zelfstandigheidscriterium wordt onder een grote onderneming verstaan, die 250 of meer werknemers telt of die een jaaromzet heeft van meer dan 50 miljoen euro en een balanstotaal van meer dan 43 miljoen euro.<br>
+<br>
+§ 2. Ondernemingen die formeel aan het zelfstandigheidscriterium beantwoorden, maar waarin in werkelijkheid de zeggenschap door een grote onderneming of door verscheidene grote ondernemingen samen wordt uitgeoefend, voldoen niet aan de definitie van § 1, tweede lid.
 
 ### ART. 13.
 
-Er kan geen steun verleend worden aan ondernemingen waarvan 25 % of meer van het kapitaal of de stemrechten rechtstreeks of onrechtstreeks in handen is van een administratieve overheid als vermeld in artikel 14 van de gecoördineerde wetten op de Raad van State.
+Er kan geen steun verleend worden aan ondernemingen waarvan 25 % of meer van het kapitaal, de inbreng of de stemrechten rechtstreeks of onrechtstreeks in handen is van een administratieve overheid als vermeld in artikel 14 van de gecoördineerde wetten op de Raad van State.
 
 ## Onderafdeling 2 Tewerkstelling, omzet en balanstotaal
 
