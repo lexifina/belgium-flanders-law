@@ -1472,6 +1472,10 @@ Elk analoog televisietoestel met een integraal beeldscherm waarvan de zichtbare 
 
 Alle voor de ontvangst van digitale televisiesignalen bestemde apparatuur die in Vlaanderen wordt verkocht, verhuurd of anderszins ter beschikking wordt gesteld, en waarmee digitale televisiesignalen kunnen worden gedecodeerd, moet geschikt zijn om :<br />1° het decoderen van dergelijke signalen mogelijk te maken volgens het gemeenschappelijke Europese coderingsalgoritme dat beheerd wordt door een erkende Europese normalisatie-instantie;<br />2° de signalen weer te geven die ongecodeerd worden uitgezonden mits, in geval van gehuurde apparatuur, de huurder de huurovereenkomst naleeft.
 
+### ART 209/1.
+
+Een autoradio-ontvanger die wordt ingebouwd in een nieuw voertuig van categorie M dat op de markt wordt aangeboden voor verkoop of verhuur, bevat een ontvanger die ten minste radiodiensten kan ontvangen en reproduceren die via digitale terrestrische radio-uitzendingen worden uitgezonden. Onder voertuig van categorie M wordt begrepen de voertuigen zoals omschreven in het koninklijk besluit van 15 maart 1968 houdende algemeen reglement op de technische eisen waaraan de auto's, hun aanhangwagens, hun onderdelen en hun veiligheidstoebehoren moeten voldoen.
+
 ### ART. 210.
 
 De aanbieders van omroepdiensten en de dienstenverdelers die gebruikmaken van systemen voor voorwaardelijke toegang, maken uitsluitend gebruik van systemen voor voorwaardelijke toegang die de nodige technische mogelijkheden bieden voor een goedkope controleoverdracht. Dat houdt in dat de mogelijkheid wordt geboden aan dienstenverdelers of aanbieders van omroepnetwerken om volledige controle te hebben over de diensten door middel van dergelijke systemen van voorwaardelijke toegang.
