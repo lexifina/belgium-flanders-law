@@ -53,9 +53,18 @@ DE VLAAMSE REGERING BESLUIT:
 
 Bij het toezicht op de verantwoording van subsidies binnen de beleidsvelden jeugd en media, worden de onderbouwde kosten van gesubsidieerde activiteiten die niet, beperkt of gewijzigd hebben plaatsgevonden ingevolge de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge het coronavirus COVID-19, binnen de perken van de begrotingskredieten in aanmerking genomen.
 
+### ART 1/1.
+
+Bij het toezicht op de werkingsverslagen, zoals bepaald in artikel 10 en artikel 18 van het besluit van 8 maart 2013 betreffende de subsidiëring van hostels, jeugdverblijfcentra, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme volgende voorwaarden uit artikel 12 van het decreet van 6 juli 2012 houdende subsidiëring van hostels, jeugdverblijfcentra, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme wordt beschouwd als behaald voor de periode van 1 januari tot en met 31 december 2021:<br>
+1° ten minste duizend overnachtingen voor jeugd realiseren;<br>
+2° Voor centra van het type C of hostels:<br>
+a) ten minste tweehonderd dagen per jaar open zijn, waarvan tachtig vakantiedagen;<br>
+b) ten minste tweeduizend overnachtingen voor jeugd realiseren per jaar;<br>
+c) als het om een jeugdverblijfcentrum gaat, per jaar ten minste tien jeugdverenigingen ontvangen.
+
 ### ART 2.
 
-In het geval de uitbetaling van subsidies in het beleidsveld jeugd gebeurt in meerdere voorschotten en een saldo, zal in afwijking van de termijnen bepaald in decreten en besluiten, in het jaar 2020 binnen de perken van de begrotingsartikelen de uitbetaling van deze voorschotten maximaal worden vervroegd.
+In het geval de uitbetaling van subsidies in het beleidsveld jeugd gebeurt in meerdere voorschotten en een saldo, zal in afwijking van de termijnen bepaald in decreten en besluiten, in de jaren 2020 en 2021 binnen de perken van de begrotingsartikelen de uitbetaling van deze voorschotten maximaal worden vervroegd.
 
 ### ART 3.
 
@@ -63,7 +72,7 @@ In afwijking van de artikelen 9, 10 en 11 van het decreet van 20 januari 2012 ho
 
 ### ART 4.
 
-Met behoud van artikel 17, § 1, tweede lid en artikel 18, derde lid van hetzelfde decreet wordt aan de verenigingen die gesubsidieerd worden op basis van de artikelen 9, 10, 11 van dit decreet, het toegekende subsidiebedrag gegarandeerd voor het jaar 2020, indien ze ingevolge de civiele noodsituatie met betrekking tot de volksgezondheid wegens het coronavirus COVID-19, de modules vermeld in de artikelen 9, § 2, 10, § 2 en 11, § 2 en de uitvoering van de subsidieovereenkomst vermeld in art. 8, § 8 en art. 13, § 4, niet konden realiseren.
+Met behoud van artikel 17, § 1, tweede lid en artikel 18, derde lid van hetzelfde decreet wordt aan de verenigingen die gesubsidieerd worden op basis van de artikelen 9, 10, 11 van dit decreet, het toegekende subsidiebedrag gegarandeerd voor de jaren 2020 en 2021, indien ze ingevolge de civiele noodsituatie met betrekking tot de volksgezondheid wegens het coronavirus COVID-19, de modules vermeld in de artikelen 9, § 2, 10, § 2 en 11, § 2 en de uitvoering van de subsidieovereenkomst vermeld in art. 8, § 8 en art. 13, § 4, niet konden realiseren.
 
 ### ART 5.
 
