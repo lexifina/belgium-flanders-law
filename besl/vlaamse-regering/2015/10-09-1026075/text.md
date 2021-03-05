@@ -74,7 +74,7 @@ Actoren   als vermeld in artikel 56 van verordening (EU) nr. 1305/2013 kunnen ee
 5° de complementariteit met bestaande initiatieven. Iedere operationele groep gaat na of er kennis over het behandelde onderwerp aanwezig is bij de praktijkcentra of het Instituut voor Landbouw- en Visserijonderzoek en toont aan op welke manier hij die kennis benut. Als de kennis niet benut wordt, moet dat gemotiveerd worden;<br>
 6° wijze van verspreiding van de resultaten.</p>
 
-<p>In het eerste lid, 5°, wordt verstaan onder praktijkcentra : de centra, vermeld in het besluit van de Vlaamse Regering van 14 mei 2004 betreffende de toekenning van facultatieve subsidies aan Praktijkcentra actief in de voorlichting en ontwikkeling van Land- en Tuinbouw.</p>
+<p>In het eerste lid, 5°, wordt verstaan onder praktijkcentra: de praktijkcentra die deelnemen aan een samenwerkingsverband wetenschappelijk en praktijkgericht onderzoek over de plantaardige sector dat erkend is conform het besluit van de Vlaamse Regering van 10 februari 2017 houdende de erkenning van samenwerkingsverbanden in het wetenschappelijk en praktijkgericht onderzoek over de sectoren en de activiteiten, vermeld in artikel 3 van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid.</p>
 
 <p>De minister kan de beoordelingscriteria, vermeld in het eerste lid, per oproep en per fase nader bepalen.</p>
 

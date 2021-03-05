@@ -2,16 +2,16 @@
   "codex_id": 1026075,
   "title": "Besluit van de Vlaamse Regering van 2015-10-09 betreffende het subsidiëren van operationele groepen inzake het Europees Partnerschap voor Innovatie - netwerk voor de productiviteit en duurzaamheid in de landbouw",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026075/VolledigDocument?datum=2018-12-30",
-  "source_sha256": "e071211479be1e400d20e93a439333226cbc6c6831803ed2afe124c054d1a820",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026075/VolledigDocument?datum=2021-03-05",
+  "source_sha256": "cde10ad23b92200b6e12ca6c3116588174f39964960e3b5bc3e147e8642e0f88",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026075&param=informatie",
-  "as_of": "2018-12-30",
+  "as_of": "2021-03-05",
   "made": "2015-10-09",
   "gazette": "2015-11-10",
   "numac": 2015036324,
   "document_start": "2015-11-20",
   "document_end": "2023-04-20",
-  "in_force": "2018-12-30",
+  "in_force": "2021-03-05",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2018-12-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-03-05; future article versions excluded; article text as the API gives it"
 }
