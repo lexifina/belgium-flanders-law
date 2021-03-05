@@ -234,7 +234,8 @@ De basissubsidie voor groepsopvang bedraagt&nbsp;752,28 euro per gesubsidieerde 
 a) de kinderopvangprestaties 's nachts;<br>
 b) de kinderopvangprestaties voor de kinderen die tot het thuismilieu van de kinderbegeleider gezinsopvang behoren, en voor wie de kinderbegeleider de verantwoordelijkheid draagt;<br>
 c) de kinderopvangprestaties waarvoor de organisator ervoor kiest om niet met het systeem inkomenstarief te werken als vermeld in artikel 27, tweede lid;<br>
-3° er worden niet meer kinderopvangprestaties gesubsidieerd dan 120% van het aantal gesubsidieerde kinderopvangplaatsen, vermenigvuldigd met het minimum aantal verplichte openingsdagen, vermeld in artikel 14. Voor de berekening van dat percentage tellen kinderopvangprestaties die vijf tot elf uur duren, mee voor 100%, en kinderopvangprestaties die minder dan vijf uur duren, voor 60%.</p>
+3° er worden niet meer kinderopvangprestaties gesubsidieerd dan 120% van het aantal gesubsidieerde kinderopvangplaatsen, vermenigvuldigd met het minimum aantal verplichte openingsdagen, vermeld in artikel 14. Voor de berekening van dat percentage tellen kinderopvangprestaties die vijf tot elf uur duren, mee voor 100%, en kinderopvangprestaties die minder dan vijf uur duren, voor 60%;<br>
+4° de prestatie die verricht wordt in het kader van het aanbod om de doelstellingen te verwezenlijken, vermeld in artikel 5 of 7 van het besluit van de Vlaamse Regering van 5 maart 2021 over de financiering van vernieuwend aanbod in de preventieve gezinsondersteuningen, en die niet in de vergunde kinderopvanglocatie plaatsvindt, wordt aanvullend gelijkgesteld aan een kinderopvangprestatie als vermeld in punt 1°.</p>
 
 <p>Het deel op basis van de leeftijd van de personen, vermeld in het eerste lid, 2°, wordt als volgt berekend :<br>
 1° de subsidie bedraagt 431,42 euro per gesubsidieerde kinderopvangplaats per kalenderjaar als de gemiddelde leeftijd van die personen twintig jaar is;<br>
@@ -254,7 +255,8 @@ De minister bepaalt de nadere regels, onder meer op welke wijze de verantwoordel
 2° alle kinderopvangprestaties van elke kinderopvanglocatie groepsopvang uit de subsidiegroep die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1, tellen mee, met uitzondering van de volgende kinderopvangprestaties:<br>
 a) de kinderopvangprestaties 's nachts;<br>
 b) de kinderopvangprestaties waarvoor de organisator ervoor kiest om niet met het systeem inkomenstarief te werken als vermeld in artikel 27, tweede lid;<br>
-3° er worden niet meer kinderopvangprestaties gesubsidieerd dan 120% van het aantal gesubsidieerde kinderopvangplaatsen, vermenigvuldigd met het minimum aantal verplichte openingsdagen, vermeld in artikel 14. Voor de berekening van dat percentage tellen kinderopvangprestaties die vijf tot elf uur duren, mee voor 100%, en kinderopvangprestaties die minder dan vijf uur duren, voor 60%.</p>
+3° er worden niet meer kinderopvangprestaties gesubsidieerd dan 120% van het aantal gesubsidieerde kinderopvangplaatsen, vermenigvuldigd met het minimum aantal verplichte openingsdagen, vermeld in artikel 14. Voor de berekening van dat percentage tellen kinderopvangprestaties die vijf tot elf uur duren, mee voor 100%, en kinderopvangprestaties die minder dan vijf uur duren, voor 60%;<br>
+4° de prestatie die verricht wordt in het kader van het aanbod om de doelstellingen te verwezenlijken, vermeld in artikel 5 of 7 van het besluit van de Vlaamse Regering van 5 maart 2021 over de financiering van vernieuwend aanbod in de preventieve gezinsondersteuning, en die niet in de vergunde kinderopvanglocatie plaatsvindt, wordt aanvullend gelijkgesteld aan een kinderopvangprestatie als vermeld in punt 2°.</p>
 
 <p>Het deel op basis van de leeftijd van de personen, vermeld in het eerste lid, 2°, wordt als volgt berekend :<br>
 1° de subsidie bedraagt&nbsp;5286,12 euro per gesubsidieerde kinderopvangplaats per kalenderjaar als de gemiddelde leeftijd van deze personen twintig jaar is;<br>
@@ -457,7 +459,8 @@ a) heeft een inkomen dat lager ligt dan het inkomen dat leidt tot het standaard 
 b) heeft een inkomen dat lager ligt dan het inkomen dat leidt tot het standaard minimumtarief en hebben beiden minstens een tewerkstelling van gemiddeld 19 uren per week;<br>
 c) heeft in toepassing van artikel 57ter van de organieke wet van 8 juli 1976 betreffende de OCMW 's geen recht op maatschappelijke dienstverlening van het OCMW, en beschikt over een attest van het Federaal Agentschap voor de Opvang van Asielzoekers of een van zijn partners in de zin van artikel 2, 9°, van de wet van 12 januari 2007 betreffende de opvang van asielzoekers en van bepaalde andere categorieën van vreemdelingen waaruit blijkt dat het gezin recht heeft op materiële hulp zoals bedoeld in artikel 2, 6°, van diezelfde wet van 12 januari 2007 of medische begeleiding zoals bedoeld in de artikelen 24 en 25 van diezelfde wet van 12 januari 2007;<br>
 3° de contracthouder vraagt het attest inkomenstarief aan voor een pleegkind dat bij hem inwoont;<br>
-4° de contracthouder vraagt het attest inkomenstarief aan voor een kind van een minderjarige tienermoeder.<br>
+4° de contracthouder vraagt het attest inkomenstarief aan voor een kind van een minderjarige tienermoeder;<br>
+5° de contracthouder vraagt het attest inkomenstarief aan voor een kind dat opgevangen wordt in het kader van het aanbod om de doelstellingen te verwezenlijken, vermeld in artikel 5 of 7 van het besluit van de Vlaamse Regering van 5 maart 2021 over de financiering van vernieuwend aanbod in de preventieve gezinsondersteuning.<br>
 <br>
 § 2. Het individueel verminderd inkomenstarief wordt bepaald in de vorm van:<br>
 1° een vermindering van 25% of 50% van het berekende inkomenstarief;<br>
