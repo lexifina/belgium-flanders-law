@@ -36,3 +36,7 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 3.
 
 In afwijking van artikel 4, eerste lid, van het besluit van de Vlaamse Regering van 10 november 2006 tot vaststelling van de goedkeuringscriteria en indieningsmodaliteiten van de leerplannen, worden leerplannen van de studierichting Defensie en veiligheid, derde graad technisch secundair onderwijs, die op 1 september 2021 van toepassing worden in het eerste leerjaar van die graad, ingediend bij de bevoegde inspecteur-generaal uiterlijk 31 maart 2021.
+
+### ART 10.
+
+Als de kost van het totale aantal aanvragen de hoogte van de beschikbare begrotingskredieten bereikt, wordt de toekenning van extra lestijden, uren-leraar of lesuren, zoals vermeld in artikel 2 van het decreet van 5 maart 2021 tot toekenning van extra lestijden, lesuren en uren-leraar voor de remediëring van leerlingen die een leerachterstand hebben opgelopen door COVID-19, stop gezet. Het maximale budget voor het totale aantal aanvragen wordt vastgelegd op 30.000.000 euro.

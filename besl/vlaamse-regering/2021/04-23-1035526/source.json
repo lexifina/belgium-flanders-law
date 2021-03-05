@@ -2,16 +2,16 @@
   "codex_id": 1035526,
   "title": "Besluit van de Vlaamse Regering van 2021-04-23 voor het nemen van dringende en tijdelijke maatregelen in het onderwijs ten gevolge van de COVID-19-crisis met betrekking tot de geïntegreerde proeven en kwalificatieproeven, het uitstel voor het indienen van leerplannen, het behoud van het statuut van gehuwd of zelfstandig student, het verlengen van subsidies voor de projecten `Taalstimulerende activiteiten' en `Lezen op School' en de budgetbeheersing inzake bijkomende lestijden, lesuren en uren-leraar voor de remediëring van leerlingen die leerachterstand hebben opgelopen door COVID-19",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035526/VolledigDocument?datum=2021-01-31",
-  "source_sha256": "da52d4c61a97036b7cf82762eeade19bd97afe6378f7eb96faaa49dba4886d51",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035526/VolledigDocument?datum=2021-03-05",
+  "source_sha256": "12868949c2c8399fa88accfd1e6c3fed89cb7a3710c9b5c711c7fc673102ea15",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035526&param=informatie",
-  "as_of": "2021-01-31",
+  "as_of": "2021-03-05",
   "made": "2021-04-23",
   "gazette": "2021-05-06",
   "numac": 2021031393,
   "document_start": "2021-04-23",
   "document_end": null,
-  "in_force": "2021-01-31",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2021-01-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-03-05",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-03-05; future article versions excluded; article text as the API gives it"
 }
