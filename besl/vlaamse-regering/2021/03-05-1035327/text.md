@@ -51,3 +51,26 @@ Artikel 6 van het besluit van de Vlaamse Regering van 3 april 2020 tot regeling 
 "Art. 6. Met behoud van artikel 4, § 1 van het besluit van de Vlaamse Regering van 9 mei 2014 betreffende de kadervormingstrajecten, vermeld in artikel 17/1 van het decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid wordt:<br>
 1° in de periode van 13 maart 2020 tot en met 31 december 2021, aan een deelnemer van het theoretisch gedeelte na het volgen van minimaal 15 cursusuren toegelaten een begeleide stage in het jeugdwerk te doen. De stage die 50 uren duurt moet uiterlijk op 31 december 2021 afgerond zijn;<br>
 2° de termijn van maximaal drie jaar, zoals vermeld in het vierde lid van paragraaf 1 van hetzelfde besluit, verlengd tot uiterlijk 31 december 2021 voor deelnemers die in de periode van 13 maart 2020 tot en met 31 december 2021 de maximale trajecttermijn van drie jaar bereiken.".
+
+### ART 2.
+
+In artikel 2 en 4 van het besluit van de Vlaamse Regering van 3 april 2020 tot regeling van bepaalde tijdelijke maatregelen in de beleidsvelden jeugd en media door de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge het coronavirus COVID-19 wordt de zinsnede "het jaar 2020" telkens vervangen door de zinsnede "de jaren 2020 en 2021".
+
+### ART 3.
+
+In hetzelfde besluit wordt een artikel 1/1 ingevoegd dat luidt als volgt:<br>
+<br>
+" Art. 1/1. Bij het toezicht op de werkingsverslagen, zoals bepaald in artikel 10 en artikel 18 van het besluit van 8 maart 2013 betreffende de subsidiëring van hostels, jeugdverblijfcentra, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme volgende voorwaarden uit artikel 12 van het decreet van 6 juli 2012 houdende subsidiëring van hostels, jeugdverblijfcentra, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme wordt beschouwd als behaald voor de periode van 1 januari tot en met 31 december 2021:<br>
+1° ten minste duizend overnachtingen voor jeugd realiseren;<br>
+2° Voor centra van het type C of hostels:<br>
+a) ten minste tweehonderd dagen per jaar open zijn, waarvan tachtig vakantiedagen;<br>
+b) ten minste tweeduizend overnachtingen voor jeugd realiseren per jaar;<br>
+c) als het om een jeugdverblijfcentrum gaat, per jaar ten minste tien jeugdverenigingen ontvangen.".
+
+### ART 4.
+
+Dit besluit heeft uitwerking met ingang van de datum van ondertekening ervan, uitgezonderd artikel 1 dat uitwerking heeft met ingang van 16 november 2020.
+
+### ART 5.
+
+De Vlaamse minister, bevoegd voor de jeugd, is belast met de uitvoering van dit besluit.
