@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035247,
+  "title": "Besluit van de Vlaamse Regering van 2021-01-08 tot wijziging van diverse besluiten over leefmilieu, wat betreft de gedeeltelijke omzetting van richtlijn (EU) 2018/844 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2010/31/EU betreffende de energieprestatie van gebouwen en Richtlijn 2012/27/EU betreffende energie-efficiëntie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035247/VolledigDocument?datum=2021-03-07",
+  "source_sha256": "84a64cbff70624308e3c62b46504c0f07958af0ac0dbe1e5e42786fb37c26524",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035247&param=informatie",
+  "as_of": "2021-03-07",
+  "made": "2021-01-08",
+  "gazette": "2021-02-25",
+  "numac": 2021040213,
+  "document_start": "2021-03-07",
+  "document_end": null,
+  "in_force": "2021-03-07",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2021-03-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
