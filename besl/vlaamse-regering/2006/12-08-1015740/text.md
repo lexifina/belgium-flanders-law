@@ -23,8 +23,8 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br>
 4° titel II van het Vlarem : het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
 5° de toezichthouder : de toezichthouder, vermeld in het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, die het toezicht uitoefent op de toepassing van de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging;<br>
 6° stooktoestel : technisch toestel waarin vaste, vloeibare of gasvormige brandstof verbrand wordt om de gegenereerde warmte te gebruiken voor ruimteverwarming&nbsp;en optioneel&nbsp;voor de aanmaak van warm verbruikswater;<br>
-<span style="text-align:justify">7° stooktoestel aangesloten als type B (open stooktoestel): een stooktoestel&nbsp; aangesloten op een rookgasafvoerkanaal, waarbij de verbrandingslucht ontnomen wordt uit het stooklokaal;</span><br>
-<span style="text-align:justify">8° stooktoestel aangesloten als type C (gesloten stooktoestel): een stooktoestel, waarvan de verbrandingskamer gesloten is ten opzichte van het stooklokaal. De leidingen voor de aanvoer van de verbrandingslucht en de afvoer van de rookgassen en het eindstuk vormen een geheel met het toestel;</span><br>
+7° stooktoestel aangesloten als type B (open stooktoestel): een stooktoestel&nbsp; aangesloten op een rookgasafvoerkanaal, waarbij de verbrandingslucht ontnomen wordt uit het stooklokaal;<br>
+8° stooktoestel aangesloten als type C (gesloten stooktoestel): een stooktoestel, waarvan de verbrandingskamer gesloten is ten opzichte van het stooklokaal. De leidingen voor de aanvoer van de verbrandingslucht en de afvoer van de rookgassen en het eindstuk vormen een geheel met het toestel;<br>
 9° centraal stooktoestel : een stooktoestel met een centrale stookketel, en, optioneel, een aparte brander, waarbij de gegenereerde warmte via een geleid en gekanaliseerd transportsysteem gedistribueerd wordt naar meerdere, afzonderlijke ruimten waar deze warmte aangewend wordt om het binnenklimaat van de betreffende ruimte te conditioneren en, optioneel, naar een voorziening voor de productie van warm verbruikswater;<br>
 10° nieuw centraal stooktoestel : een centraal stooktoestel dat na de inwerkingtreding van dit besluit een van onderstaande handelingen heeft ondergaan :<br>
 a) het stooktoestel werd voor het eerst in gebruik genomen;<br>
@@ -61,17 +61,17 @@ Bij tegenstrijdigheden is de opgegeven volgorde bepalend;<br>
 32° reinigingsattest: het attest dat opgemaakt wordt na het beëindigen van de reinigingsbeurt van het centrale stooktoestel of het rookgasafvoerkanaal;<br>
 33° verbrandingsattest: het attest dat opgemaakt wordt na de verbrandingscontrole van het centrale stooktoestel;<br>
 34° keuringsrapport: het rapport dat opgemaakt wordt na de keuring voor de eerste ingebruikname van het centrale stooktoestel;<br>
-35° verwarmingsauditrapport : verslag van de verwarmingsaudit van de gehele verwarmingsinstallatie, dat een beoordeling van het rendement van de ketel en van de ketelgrootte vergeleken met de verwarmingsbehoeften van het gebouw bevat, alsook het advies over vervanging van de ketel, over andere wijzigingen van het verwarmingssysteem en alternatieve oplossingen die een significante energiebesparing kunnen realiseren;<br>
+35° verwarmingsauditrapport: een verslag van de verwarmingsaudit van de gehele verwarmingsinstallatie. Het verslag omvat een beoordeling van het rendement van de ketel en van de ketelgrootte vergeleken met de verwarmingsbehoeften van het gebouw. In voorkomend geval wordt rekening gehouden met het vermogen van het verwarmingssysteem om zijn prestatie onder gemiddelde werkomstandigheden te optimaliseren. Het verslag omvat ook het advies over de vervanging van de ketel, aanbevelingen voor andere wijzigingen van het verwarmingssysteem en alternatieve oplossingen die een kostenefficiënte verbetering van de energieprestatie kunnen realiseren;<br>
 36° ...;<br>
 37° schoorsteenveger : persoon, die vakbekwaam is in het reinigen en controleren van het rookgasafvoerkanaal van een stooktoestel;<br>
 38° geschoolde vakman : persoon die vakbekwaam is in het onderhouden van een centraal stooktoestel, gevoed met vaste brandstof;<br>
 39° energieaudit : audit uitgevoerd conform het besluit van de Vlaamse Regering van 11 januari 2008 houdende de invoering van het energieprestatiecertificaat residentiële gebouwen bij verkoop en verhuur en de uitvoering van de energieaudit;<br>
 40° gebouw : een overdekte constructie met muren waarvoor energie gebruikt wordt om het binnenklimaat te regelen;<br>
 41° nominaal vermogen : het maximale verwarmingsvermogen, uitgedrukt in kW, dat door de fabrikant voor continu gebruik is aangegeven en gegarandeerd, waarbij het door hem aangegeven nuttig rendement wordt gehaald.<br>
-<span style="text-align:justify">42° niet-premix-brander: een brander waarbij maar een deel van de verbrandingslucht gemengd wordt met de brandstof vóór de aanvang van de verbranding;</span><br>
-<span style="text-align:justify">43° premix-brander: een brander waarbij alle verbrandingslucht gemengd wordt met de brandstof vóór de aanvang van de verbranding;</span><br>
-<span style="text-align:justify">44° ketel met ventilatorbrander: een ketel met brander die los van de verwarmingsketel verkocht mag worden, waarbij de verbrandingslucht wordt aangevoerd met behulp van een ventilator. De ketel beantwoordt aan de norm EN 676 voor gasvormige brandstoffen en aan de norm EN 267 voor vloeibare brandstoffen;</span><br>
-<span style="text-align:justify">45° toestel type B1: toestel type B uitgerust met een valwindafleider/trekonderbreker, dat zijn verbrandingslucht haalt uit het lokaal waar het geplaatst is en dat aangesloten dient te worden op een leiding voor de afvoer voor verbrandingsgassen met natuurlijke trek.</span><br>
+42° niet-premix-brander: een brander waarbij maar een deel van de verbrandingslucht gemengd wordt met de brandstof vóór de aanvang van de verbranding;<br>
+43° premix-brander: een brander waarbij alle verbrandingslucht gemengd wordt met de brandstof vóór de aanvang van de verbranding;<br>
+44° ketel met ventilatorbrander: een ketel met brander die los van de verwarmingsketel verkocht mag worden, waarbij de verbrandingslucht wordt aangevoerd met behulp van een ventilator. De ketel beantwoordt aan de norm EN 676 voor gasvormige brandstoffen en aan de norm EN 267 voor vloeibare brandstoffen;<br>
+45° toestel type B1: toestel type B uitgerust met een valwindafleider/trekonderbreker, dat zijn verbrandingslucht haalt uit het lokaal waar het geplaatst is en dat aangesloten dient te worden op een leiding voor de afvoer voor verbrandingsgassen met natuurlijke trek.<br>
 .
 
 ### ART. 3.
@@ -279,7 +279,12 @@ In afwijking van het eerste lid, laat de eigenaar van een centraal stooktoestel 
 <span style="text-align:justify">b. die ook erkend is als technicus vloeibare brandstof, als het totaal geïnstalleerd nominaal vermogen van het centraal stooktoestel, gevoed met vloeibare brandstof, meer dan 100 kW bedraagt of indien de verwarmingsinstallatie, gevoed met vloeibare brandstof, uit meerdere ketels bestaat;</span><br>
 <span style="text-align:justify">c. als het centraal stooktoestel gevoed wordt met vaste brandstof.</span><br>
 <br>
-§ 3....
+§ 3. In afwijking van paragraaf 1 geldt voor de volgende gevallen een vrijstelling van de verplichting tot uitvoering van de verwarmingsaudit:<br>
+1° centrale stooktoestellen die onder een overeengekomen energieprestatiecriterium of een contractuele regeling vallen waarin een overeengekomen niveau van energie-efficiëntieverbetering is vermeld;<br>
+2° centrale stooktoestellen die beheerd worden door een nutsbedrijf- of netwerkexploitant en daarom aan prestatiemonitoringmaatregelen aan de systeemzijde zijn onderworpen;<br>
+3° niet-residentiële gebouwen met een of meer centrale stooktoestellen die voorzien zijn van gebouwautomatiserings- en controlesystemen als vermeld in artikel 11.1/1.2 van het Energiedecreet van 8 mei 2009.<br>
+<br>
+In de gevallen, vermeld in het eerste lid, 1° en 2°, moet de aanpak hetzelfde globale resultaat opleveren als de verwarmingsaudit, vermeld in paragraaf 1. De centrale stooktoestellen moeten worden onderworpen aan een regelmatige beoordeling. De Vlaamse minister, bevoegd voor de energie, kan de nadere regels vaststellen om na te gaan of aan deze voorwaarde is voldaan.
 
 ### ART. 10.
 
