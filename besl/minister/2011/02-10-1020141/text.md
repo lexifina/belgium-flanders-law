@@ -14,20 +14,20 @@ Besluit :
 
 ### ART. 1.
 
-Dit besluit voorziet in de gedeeltelijke omzetting van Richtlijn 2002/91/EG van het Europees Parlement en de Raad van 16 december 2002 betreffende de energieprestatie van gebouwen, zoals herschikt bij richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010.
+...
 
 ### ART. 2.
 
-Airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW worden ten minste iedere vijf jaar gekeurd. Airconditioningsystemen met een nominaal koelvermogen van 50 kW of meer worden ten minste iedere drie jaar gekeurd. Airconditioningsystemen met een nominaal koelvermogen van 250 kW of meer worden ten minste iedere twee jaar gekeurd.
+...
 
 ### ART. 3.
 
-Airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW die na de inwerkingtreding van dit artikel worden geïnstalleerd, worden binnen twaalf maanden na de eerste inbedrijfstelling ervan gekeurd.
+...
 
 ### ART. 4.
 
-De keuring omvat een controle van de documentatie, een visuele inspectie van het airconditioningsysteem, een beoordeling van het correcte gebruik van het airconditioningsysteem en het controleren van een aantal werkingsparameters van het airconditioningsysteem. <br /><br />Airconditioningsystemen worden gekeurd op basis van het rekenblad "Keuring-energieprestatie-airconditioningsystemen", dat ter beschikking wordt gesteld op de website van het Departement Leefmilieu, Natuur en Energie.
+...
 
 ### ART. 5.
 
-Artikel 3 treedt in werking op de eerste dag van de vijfde maand die volgt op de maand waarin het in het Belgisch Staatsblad is bekendgemaakt.
+...
