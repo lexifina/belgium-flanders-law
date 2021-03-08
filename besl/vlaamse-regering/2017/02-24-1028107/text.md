@@ -18,14 +18,12 @@ Besluit :
 
 ### ART 1.
 
-§ 1. Bij de schuldovername wordt voorrang gegeven aan klassieke leningen. Dat zijn leningen met een vaste of variabele of herzienbare rentevoet, waarbij de herziening gebeurt op basis van een referentierentevoet, die onafhankelijk van een financiële instelling wordt bepaald.<br>
-<br>
-§ 2. Bij de schuldovername wordt geen voorrang gegeven aan gestructureerde leningen. Dat zijn leningen waaraan een gestructureerd product verbonden is. Onder gestructureerde producten worden onder andere verstaan: swaps, opties, inflatiegebonden producten en andere.
+...
 
 ### ART 2.
 
-Leningen die de gemeenten aangaan na hun principiële beslissing tot vrijwillige samenvoeging en na de inwerkingtreding van dit besluit, komen alleen voor schuldovername in aanmerking als er geen structuren aan verbonden zijn en de looptijd niet meer dan drie jaar bedraagt.
+...
 
 ### ART 3.
 
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, en de Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
+...

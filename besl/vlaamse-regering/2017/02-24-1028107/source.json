@@ -2,16 +2,16 @@
   "codex_id": 1028107,
   "title": "Besluit van de Vlaamse Regering van 2017-02-24 tot vaststelling van de nadere regels voor de schuldovername in het kader van de vrijwillige samenvoeging van gemeenten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028107/VolledigDocument?datum=2017-04-16",
-  "source_sha256": "f5094773664dc065cbb8475c08aefc4aa2b8f0f0cc3e204fdfb3d9d7c507ccea",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028107/VolledigDocument?datum=2021-03-08",
+  "source_sha256": "4573c5b1055751b3258c71ccb22b29908e5e511d03715462dd4ed21adb34faba",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028107&param=informatie",
-  "as_of": "2017-04-16",
+  "as_of": "2021-03-08",
   "made": "2017-02-24",
   "gazette": "2017-04-06",
   "numac": 2017011448,
   "document_start": "2017-04-16",
   "document_end": "2021-03-07",
-  "in_force": "2017-04-16",
+  "in_force": "2021-03-08",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2017-04-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-03-08; future article versions excluded; article text as the API gives it"
 }
