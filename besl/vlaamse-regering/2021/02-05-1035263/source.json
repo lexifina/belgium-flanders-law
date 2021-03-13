@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035263,
+  "title": "Besluit van de Vlaamse Regering van 2021-02-05 tot ontwikkeling van de onderwijskwalificatie graduaat in de productie-assistentie in de creatieve sector",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035263/VolledigDocument?datum=2021-03-13",
+  "source_sha256": "b99a046ed67987885cab77cb565255ca41c4d1d6152495d638a70253ebf2d864",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035263&param=informatie",
+  "as_of": "2021-03-13",
+  "made": "2021-02-05",
+  "gazette": "2021-03-03",
+  "numac": 2021020432,
+  "document_start": "2021-03-13",
+  "document_end": null,
+  "in_force": "2021-03-13",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-03-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
