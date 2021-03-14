@@ -822,11 +822,25 @@ De Vlaamse Regulator voor de Media kan de erkende landelijke, regionale, netwerk
 
 ### ART. 134.
 
-De erkenningen voor landelijke, regionale, netwerk- en lokale radio-omroeporganisaties worden verleend voor negen jaar, met ingang van de datum die in het erkenningsbesluit is opgenomen.<br>
+§ 1. De erkenningen en zendvergunningen van de op datum van inwerkingtreding van dit artikel bestaande landelijke radio-omroeporganisaties en landelijke radio-omroeporganisaties van rechtswege vervallen op 31 december 2022.<br>
 <br>
-Als de landelijke, regionale, netwerk- of lokale radio-omroeporganisatie één jaar na de datum van ingang van de erkenning nog niet uitzendt, kan de erkenning door de Vlaamse Regulator voor de Media ambtshalve worden ingetrokken. Bij definitieve stopzetting van de activiteiten van de landelijke, regionale, netwerk- of lokale radio-omroeporganisatie vervallen de erkenning en de zendvergunning van rechtswege. De Vlaamse Regering bepaalt daarover de nadere modaliteiten.<br>
+Nieuwe erkenningen voor de landelijke radio-omroeporganisaties worden met ingang van 1 januari 2023 verleend voor vijf jaar. Deze erkenningen kunnen worden verlengd met een periode van maximaal drie jaar. Een verzoek tot verlenging wordt ingediend conform artikel 219, uiterlijk één jaar voor de lopende erkenningstermijn verstreken is.<br>
 <br>
-Met behoud van de toepassing van de andere bepalingen van dit decreet worden erkenningen als landelijke, regionale, netwerk- of lokale radio-omroep die verkregen zijn voor een frequentie die tijdens een lopende erkenningsperiode vrijgekomen is, alleen toegekend voor de resterende duur van de initiële erkenningsperiode.
+Als de Vlaamse Regering besluit om de erkenning niet te verlengen of te verlengen voor een kortere duur dan drie jaar brengt ze de aanvrager uiterlijk zes maanden voor de erkenningstermijn verstreken is, op de hoogte met een aangetekende brief die gericht is aan de maatschappelijke zetel. De beslissing om de verlenging al dan niet toe te staan en de duur van de mogelijke verlenging worden gemotiveerd op grond van de afschaffing van de FM-uitzendingen, vermeld in artikel 133, § 1, vijfde en zesde lid. Als de datum van de afschaffing van de FM-uitzendingen in de periode van de mogelijke verlenging van de erkenning valt, kan de erkenningstermijn ingekort worden tot minder dan drie jaar overeenkomstig de datum van de afschaffing van de FM-uitzendingen. De Vlaamse Regering bepaalt de nadere voorwaarden en modaliteiten.<br>
+<br>
+§ 2. De erkenningen voor de netwerkradio-omroeporganisaties en de lokale radio-omroeporganisaties die verkregen zijn in de periode tussen 1 januari 2018 en 31 december 2019, zijn verleend voor negen jaar met ingang van de datum die in het erkenningsbesluit is opgenomen.<br>
+<br>
+§ 3. Bij de stopzetting van de activiteiten van een landelijke, netwerk- of lokale radio- omroeporganisatie vervallen de erkenning en de zendvergunning van rechtswege.<br>
+<br>
+Voor het frequentiepakket van de landelijke, netwerk- of lokale radio-omroeporganisatie, waarvan de erkenning en de zendvergunning van rechtswege is vervallen, kunnen opnieuw erkenningen worden toegekend conform de bepalingen van deze afdeling. In dat geval worden ze alleen toegekend voor de resterende duur van de initiële erkenningsperiode.<br>
+<br>
+§ 4. Als de datum van de afschaffing van de FM-uitzendingen die de Vlaamse Regering bepaalt conform artikel 133, § 1, zesde lid, valt voor de resterende duur van de initiële erkenningsperiode verstreken is, wordt de erkenning in afwijking van paragraaf 3, tweede lid, tweede zin, alleen toegekend tot de datum van deze afschaffing.<br>
+<br>
+Als de datum van de afschaffing van de FM-uitzendingen die de Vlaamse Regering bepaalt, bepaald wordt voor afloop van de initiële erkenningstermijn maar uiterlijk drie jaar na afloop van de initiële erkenningstermijn, vermeld in paragraaf 3, tweede lid, of het eerste lid, valt, kan de Vlaamse Regering de verleende erkenning verlengen tot dat tijdstip. De Vlaamse Regering bepaalt de nadere voorwaarden en modaliteiten.<br>
+<br>
+§ 5. De Vlaamse Regering kan in afwijking van paragraaf 3 en 4 beslissen om vrijgekomen FM-frequenties te herverdelen onder bestaande erkenningen om de ontvangst van die erkenningen te optimaliseren, zolang de beslissing tot afschaffing van FM-uitzendingen conform artikel 133, § 1, zesde lid, niet genomen is. Als de datum van de afschaffing van FM-uitzendingen bepaald is, kan de Vlaamse Regering beslissen de frequenties niet te herverdelen of niet opnieuw uit te reiken. De Vlaamse Regering bepaalt de nadere voorwaarden en modaliteiten.<br>
+<br>
+§ 6. Als de landelijke, netwerk- of lokale radio-omroeporganisatie één jaar na de ingangsdatum van de erkenning nog niet uitzendt via minstens de helft van de toegekende frequenties, kan de Vlaamse Regulator voor de Media de erkenning ambtshalve intrekken.
 
 ### ART 134/1.
 
@@ -854,7 +868,23 @@ De landelijke radio-omroeporganisaties hebben tot taak een verscheidenheid van p
 
 ### ART. 138.
 
-§ 1. Om erkend te worden en te blijven, moeten de landelijke radio-omroeporganisaties voldoen aan het volgende :<br />1° de voorwaarden, vermeld in artikelen 129, 130, 131 en 135;<br />2° de volgende voorwaarden :<br />a) de landelijke radio-omroeporganisaties worden opgericht in de vorm van een rechtspersoon. Het maatschappelijke doel van de rechtspersoon is het verzorgen van radioprogramma's. De landelijke radio-omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van hun maatschappelijke doel, voor zover die activiteiten samenvallen of verband houden met de omroepactiviteiten. De leden van de raad van bestuur bekleden geen politiek mandaat en zijn geen beheerder of bestuurder van de openbare omroeporganisatie of van een andere rechtspersoon die een landelijke radio-omroeporganisatie beheert;<br />b) de rechtspersoon, vermeld in punt a), exploiteert niet meer dan twee landelijke radio-omroeporganisaties. Rechtstreekse of onrechtstreekse bindingen tussen landelijke radio-omroeporganisaties leiden er niet toe dat een onderneming of rechtspersoon zeggenschap uitoefent over meer dan twee landelijke radio-omroeporganisaties;<br />c) de landelijke radio-omroeporganisaties zenden minstens vier journaals per dag uit die een verscheidenheid aan onderwerpen bevatten. Journaals en informatieve programma's worden verzorgd door een eigen redactie die hoofdzakelijk bestaat uit erkende beroepsjournalisten. Voor de journaals is een hoofdredacteur verantwoordelijk;<br />d) in de programmaopbouw moet een Nederlands-talig muziekaanbod gegarandeerd worden. De Vlaamse Regering kan daartoe aanvullende bepalingen vastleggen in een besluit.<br /><br />§ 2. De Vlaamse Regering legt aanvullende kwalificatiecriteria op en kent aan elk van die criteria een weging toe.<br /><br />De aanvullende kwalificatiecriteria, vermeld in het eerste lid, hebben betrekking op :<br />1° de concrete invulling van het programma-aanbod en het zendschema, in het bijzonder de verscheidenheid in de programmering;<br />2° de media-ervaring;<br />3° het financiële plan;<br />4° het businessplan;<br />5° de technische (zend)infrastructuur.
+§ 1. Om erkend te worden en te blijven, moeten de landelijke radio-omroeporganisaties voldoen aan het volgende :<br>
+1° de voorwaarden, vermeld in artikelen 129, 130, 131 en 135;<br>
+2° de volgende voorwaarden :<br>
+a) de landelijke radio-omroeporganisaties worden opgericht in de vorm van een rechtspersoon. Het maatschappelijke doel van de rechtspersoon is het verzorgen van radioprogramma's. De landelijke radio-omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van hun maatschappelijke doel, voor zover die activiteiten samenvallen of verband houden met de omroepactiviteiten. De leden van de raad van bestuur bekleden geen politiek mandaat en zijn geen beheerder of bestuurder van de openbare omroeporganisatie of van een andere rechtspersoon die een landelijke radio-omroeporganisatie beheert;<br>
+b) de rechtspersoon, vermeld in punt a), exploiteert niet meer dan twee landelijke radio-omroeporganisaties. Rechtstreekse of onrechtstreekse bindingen tussen landelijke radio-omroeporganisaties leiden er niet toe dat een onderneming of rechtspersoon zeggenschap uitoefent over meer dan twee landelijke radio-omroeporganisaties;<br>
+c) de landelijke radio-omroeporganisaties zenden minstens vier journaals per dag uit die een verscheidenheid aan onderwerpen bevatten. Journaals en informatieve programma's worden verzorgd door een eigen redactie die hoofdzakelijk bestaat uit erkende beroepsjournalisten. Voor de journaals is een hoofdredacteur verantwoordelijk;<br>
+d) in de programmaopbouw moet een Nederlands-talig muziekaanbod gegarandeerd worden. De Vlaamse Regering kan daartoe aanvullende bepalingen vastleggen in een besluit.<br>
+<br>
+§ 2. De Vlaamse Regering legt aanvullende kwalificatiecriteria op en kent aan elk van die criteria een weging toe.<br>
+<br>
+De aanvullende kwalificatiecriteria, vermeld in het eerste lid, hebben ten minste betrekking op :<br>
+1° de concrete invulling van het programma-aanbod en het zendschema, in het bijzonder de verscheidenheid in de programmering;<br>
+2° de media-ervaring;<br>
+3° het financiële plan;<br>
+4° het businessplan;<br>
+5° de technische (zend)infrastructuur;<br>
+6° de verwezenlijkingen, plannen, intenties, en engagementen rond digitale radio-uitzendingen via DAB+ en andere vormen van digitale radio.
 
 ### ART. 139.
 
@@ -1742,11 +1772,7 @@ Hoofdstuk II van de wet van 23 juni 1961 betreffende het recht tot antwoord inge
 
 ### ART. 242.
 
-De beperking tot de resterende duur van de lopende erkenningsperiode, vermeld in artikel 134, geldt enkel voor erkenningen die worden uitgereikt na de datum van inwerkingtreding van dit decreet. Radio-omroeporganisaties die een erkenning en vergunning gekregen hebben voor de datum van inwerkingtreding van dit decreet, behouden hun erkenning en vergunning voor de duur die bepaald was op het moment van de uitreiking van de erkenning of vergunning.<br>
-<br>
-Alle erkenningen en vergunningen die voor de inwerkingtreding van dit decreet werden uitgereikt aan particuliere radio-omroeporganisaties, blijven gelden tot 31 december 2017. Erkenningen en vergunningen die aan particuliere radio-omroeporganisaties worden uitgereikt na de inwerkingtreding van dit decreet vervallen op 31 december 2017.<br>
-<br>
-Met ingang van 1 januari 2018 en in afwijking van het tweede lid vervallen de erkenningen en zendvergunningen van de landelijke radio-omroeporganisaties en van de landelijke radio-omroeporganisatie van rechtswege, vermeld in artikel 143, tweede lid, op 31 december 2021.
+...
 
 ### ART. 243.
 
