@@ -29,7 +29,7 @@ In dit besluit wordt verstaan onder:<br>
 ### ART 2.
 
 In 2020-2021 bestaat het totaal te verdelen budget uit:<br>
-1° een nieuw subsidiebudget van 3.697.000 euro (drie miljoen zeshonderdzevenennegentigduizend euro);<br>
+1° een nieuw subsidiebudget van 5.161.409 euro (vijf miljoen honderdeenenzestigduizend vierhonderdennegen euro);<br>
 2° een vrijgekomen bestaand budget van 48.000 euro (achtenveertigduizend euro) in de gemeente Torhout, dat herbesteed wordt in die gemeente.
 
 ### ART 3.
@@ -119,7 +119,51 @@ Dit besluit heeft uitwerking met ingang van 15 oktober 2020.
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/12/17_1.pdf#page=214">Tabel met de voorafname van het te verdelen budget voor de gebieden, vermeld in artikel 3</a>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Bijlage 1. Tabel met de voorafnamen van het te verdelen budget voor de gebieden, vermeld in artikel 3</span></span></span><br>
+&nbsp;
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>budget</td>
+			<td>richtinggevend aantal plaatsen</td>
+		</tr>
+		<tr>
+			<td>TOTAAL</td>
+			<td>100%</td>
+			<td>€ 5.161.409</td>
+			<td>634</td>
+		</tr>
+		<tr>
+			<td>voorafname Antwerpen</td>
+			<td>15%</td>
+			<td>€ 774.211,35</td>
+			<td>95</td>
+		</tr>
+		<tr>
+			<td>voorafname tweetalig gebied Brussel-Hoofdstad</td>
+			<td>10%</td>
+			<td>€ 516.140,90</td>
+			<td>63</td>
+		</tr>
+		<tr>
+			<td>voorafname Gent</td>
+			<td>5%</td>
+			<td>€ 258.070,45</td>
+			<td>32</td>
+		</tr>
+		<tr>
+			<td>voorafname Torhout</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;€ 48.000</td>
+			<td>6</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
 
 ### BIJLAGE 2
 

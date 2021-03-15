@@ -2,16 +2,16 @@
   "codex_id": 1033959,
   "title": "Ministerieel besluit van 2020-12-10 tot uitvoering van artikel 57 van het Procedurebesluit van 9 mei 2014, wat betreft de programmatieregels voor de verdeling van de subsidie voor inkomenstarief voor bestaande kinderopvangplaatsen in 2020-2021",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033959/VolledigDocument?datum=2020-10-15",
-  "source_sha256": "ffab9f792d2daba8f6694c2993e38169dfbbb7b86745a21db1cdc174f1c3397d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033959/VolledigDocument?datum=2021-03-15",
+  "source_sha256": "c1069b5cb94ed9053411b70a87a9a18f572ee8914a323d44f4f152924ad6281c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033959&param=informatie",
-  "as_of": "2020-10-15",
+  "as_of": "2021-03-15",
   "made": "2020-12-10",
   "gazette": "2020-12-17",
   "numac": 2020044305,
   "document_start": "2020-10-15",
   "document_end": null,
-  "in_force": "2020-10-15",
+  "in_force": "2021-03-15",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2020-10-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-03-15; future article versions excluded; article text as the API gives it"
 }
