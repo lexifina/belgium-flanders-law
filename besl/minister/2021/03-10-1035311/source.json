@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035311,
+  "title": "Ministerieel besluit van 2021-03-10 over de oproep 2021/1 voor de thema's digitalisering en internationalisering",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035311/VolledigDocument?datum=2021-03-15",
+  "source_sha256": "8c75887436a7423e6e053cf6d789bd9a74a892fd2a4d3fd38b447fdeba776fcb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035311&param=informatie",
+  "as_of": "2021-03-15",
+  "made": "2021-03-10",
+  "gazette": "2021-03-16",
+  "numac": 2021030588,
+  "document_start": "2021-03-15",
+  "document_end": null,
+  "in_force": "2021-03-15",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2021-03-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
