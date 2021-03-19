@@ -8,21 +8,56 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° decreet van 25 april 2014: het   decreet van 25 april 2014 betreffende het Onderwijs XXIV;<BR>2°   onderwijsinstelling: de scholen, centra en instellingen van het basisonderwijs,   het secundair onderwijs, de leertijd, het deeltijds kunstonderwijs, het   volwassenenonderwijs, het deeltijds onderwijs, basiseducatie en het hoger   onderwijs.<BR>
+In dit besluit wordt verstaan onder:<br>
+1° codificatie: de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, bekrachtigd bij het decreet van 23 december 2016;<br>
+2° onderwijsinstelling: de scholen, centra en instellingen van het basisonderwijs, het secundair onderwijs, de leertijd, het deeltijds kunstonderwijs, het volwassenenonderwijs, het deeltijds onderwijs, basiseducatie en het hoger onderwijs.
 
 ### ART. 2.
 
-<P>De Vlaamse Regering subsidieert binnen de beschikbare begrotingskredieten   projecten van onderwijsinstellingen die cultuureducatie in het onderwijs   stimuleren.<BR></P>  <P>De Vlaamse Regering lanceert twee keer per schooljaar een oproep om een   aanvraag in te dienen.<BR></P>  <P>De oproep voor projecten die uitgevoerd worden in de periode die start op 1   september, wordt gelanceerd op 16 november van het voorgaande kalenderjaar of de   eerste daaropvolgende werkdag. De oproep vermeldt het maximale budget dat voor   deze periode kan worden toegekend.<BR></P>  <P>De oproep voor projecten die uitgevoerd worden in de periode die start op 1   februari, wordt gelanceerd op 16 mei van het voorgaande kalenderjaar of de   eerste daaropvolgende werkdag. De oproep vermeldt het maximale budget dat voor   deze periode kan worden toegekend.<BR></P>
+<p>De Vlaamse Regering subsidieert binnen de beschikbare begrotingskredieten projecten van onderwijsinstellingen die cultuureducatie in het onderwijs stimuleren.</p>
+
+<p>De Vlaamse Regering lanceert twee keer per schooljaar een oproep om een aanvraag in te dienen.</p>
+
+<p>De oproep voor projecten die uitgevoerd worden in de periode die start op 1 september, wordt gelanceerd op 16 november van het voorgaande kalenderjaar of de eerste daaropvolgende werkdag.</p>
+
+<p>De oproep voor projecten die uitgevoerd worden in de periode die start op 1 februari, wordt gelanceerd op 16 mei van het voorgaande kalenderjaar of de eerste daaropvolgende werkdag.&nbsp;</p>
 
 ## HOOFDSTUK 2 Toekenningsvoorwaarden en wijze van toekenning
 
 ### ART. 3.
 
-Om in aanmerking te komen voor subsidiëring, moet het project:<BR>1°   ingediend worden door middel van het volledig ingevulde online   aanvraagformulier, dat op de door de Vlaamse Regering aangewezen website   beschikbaar gesteld wordt;<BR>2° tijdig ingediend worden, hetzij uiterlijk op 15   mei voor projecten die uitgevoerd worden in de daaropvolgende periode van 1   september tot en met 31 januari van het aansluitende kalenderjaar, hetzij   uiterlijk op 15 november voor projecten die uitgevoerd worden in de   daaropvolgende periode van 1 februari tot en met 30 juni van het aansluitende   kalenderjaar;<BR>3° volledig uitgevoerd worden hetzij in de periode die start op   1 september en eindigt op 31 januari van hetzelfde schooljaar, hetzij in de   periode die start op 1 februari en eindigt op 30 juni van hetzelfde   schooljaar;<BR>4° gekoppeld zijn aan het lesgebeuren.<BR>
+Om in aanmerking te komen voor subsidiëring, moet het project:<br>
+1° ingediend worden door middel van het volledig ingevulde online aanvraagformulier, dat op de door de Vlaamse Regering aangewezen website beschikbaar gesteld wordt;<br>
+2° tijdig ingediend worden, hetzij uiterlijk op 15 mei voor projecten die uitgevoerd worden in de daaropvolgende periode van 1 september tot en met 31 januari van het aansluitende kalenderjaar, hetzij uiterlijk op 15 november voor projecten die uitgevoerd worden in de daaropvolgende periode van 1 februari tot en met 30 juni van het aansluitende kalenderjaar;<br>
+3° volledig uitgevoerd worden hetzij in de periode die start op 1 september en eindigt op 31 januari van hetzelfde schooljaar, hetzij in de periode die start op 1 februari en eindigt op 30 juni van hetzelfde schooljaar;<br>
+4° gekoppeld zijn aan het lesgebeuren en gericht zijn op een duurzame verankering van cultuureducatie.
 
 ### ART. 4.
 
-<P>De bevoegde dienst beoordeelt de projectaanvragen op basis van de criteria,   vermeld in artikel 3 van dit besluit, en in artikel X.1 van het decreet van 25   april 2014.<BR></P>  <P>De criteria, vermeld in artikel X.1, eerste lid, vijfde zin, 1°, van het   decreet van 25 april 2014 en artikel 3, 1° tot en met 3°, van dit besluit, zijn   ontvankelijkheidcriteria.<BR></P>  <P>De criteria, vermeld in artikel X.1, eerste lid, vijfde zin, 2° tot en met   5°, van het decreet van 25 april 2014 en artikel 3, 4°, van dit besluit, zijn   inhoudelijke criteria.<BR></P>  <P>De ontvankelijke projectaanvragen worden gerangschikt op basis van het totale   puntenaantal dat de bevoegde dienst aan het project toekent, op basis van elk   van de vijf gelijkwaardige criteria, vermeld in het derde lid. Voor elk van deze   criteria kent de bevoegde dienst een score toe van nul tot vier, waarbij:<BR>a.   een score van nul betekent dat de projectaanvraag niet beantwoordt aan het   criterium in kwestie;<BR>b. een score van een betekent dat de projectaanvraag in   beperkte mate beantwoordt aan het criterium in kwestie;<BR>c. een score van twee   betekent dat de projectaanvraag in redelijke mate beantwoordt aan het criterium   in kwestie;<BR>d. een score van drie betekent dat de projectaanvraag in hoge   mate beantwoordt aan het criterium in kwestie;<BR>e. een score van vier betekent   dat de projectaanvraag in heel hoge mate beantwoordt aan het criterium in   kwestie.<BR></P>  <P>In afwijking van het vierde lid kan voor het criterium vermeld in artikel 3,   4°, van dit besluit, alleen een score nul vermeld in het vierde lid, a., of een   score vier vermeld in het vierde lid, d., toegekend worden. De score vier wordt   in dit geval toegekend, zodra de projectaanvraag gekoppeld is aan het   lesgebeuren.<BR></P>  <P>Een ontvankelijke projectaanvraag die op een of meerdere van de criteria,   vermeld in het derde lid, een score nul kreeg, komt niet in aanmerking voor   subsidiëring, ongeacht het totale puntenaantal.<BR></P>  <P>Indien de subsidies die beschikbaar werden gesteld voor de periode, vermeld   in artikel 2, derde of vierde lid, ontoereikend zijn om alle ontvankelijke   projectaanvragen die in aanmerking komen te subsidiëren, worden de subsidies   toegekend volgens de rangschikking, vermeld in het vierde lid. Projectaanvragen   met dezelfde score worden gerangschikt volgens het tijdstip van indienen,   waarbij voorrang verleend wordt aan het project dat het eerst werd   ingediend.<BR></P>  <P>De projectaanvragen die omwille van ontoereikende beschikbare kredieten voor   de periode geen subsidie kunnen ontvangen wegens een te lage rangschikking,   worden afgewezen.<BR></P>  <P>De bevoegde dienst deelt zijn beslissing over de projectaanvragen mee aan de   onderwijsinstelling uiterlijk op:<BR>1° 30 juni voor de projecten die uitgevoerd   worden in de daaropvolgende periode van 1 september tot en met 31 januari van   het aansluitende kalenderjaar;<BR>2° 31 januari voor de projecten die uitgevoerd   worden in de daaropvolgende periode van 1 februari tot en met 30 juni van   hetzelfde kalenderjaar.<BR></P>
+<p>De bevoegde dienst beoordeelt de projectaanvragen op basis van de criteria, vermeld in artikel 3 van dit besluit, en in artikel IV.33 van de codificatie.</p>
+
+<p>De criteria, vermeld in artikel IV.33, derde lid, 1°, van de codificatie, en artikel 3, 1° tot en met 3°, van dit besluit, zijn ontvankelijkheidcriteria.</p>
+
+<p>De criteria, vermeld in artikel IV.33, derde lid, 2° tot en met 5°, van de codificatie en artikel 3, 4°, van dit besluit, zijn inhoudelijke criteria.</p>
+
+<p>De ontvankelijke projectaanvragen worden gerangschikt op basis van het totale puntenaantal dat de bevoegde dienst aan het project toekent, op basis van elk van de vijf gelijkwaardige criteria, vermeld in het derde lid. De bevoegde dienst kent een globale score toe van nul tot vier, waarbij:<br>
+a. een score van nul betekent dat de projectaanvraag niet beantwoordt aan de criteria;<br>
+b. een score van een betekent dat de projectaanvraag in beperkte mate beantwoordt aan de criteria;<br>
+c. een score van twee betekent dat de projectaanvraag in redelijke mate beantwoordt aan de criteria;<br>
+d. een score van drie betekent dat de projectaanvraag in hoge mate beantwoordt aan de criteria;<br>
+e. een score van vier betekent dat de projectaanvraag in heel hoge mate beantwoordt aan de criteria.</p>
+
+<p>Voor onderwijsinstellingen die tijdens de drie voorgaande schooljaren geen aanvraag hebben ingediend voor een subsidie in toepassing van dit besluit, wordt het totale puntenaantal verhoogd met een vaste coëfficiënt op basis van het totale puntenaantal.</p>
+
+<p>Een ontvankelijke projectaanvraag die op een of meerdere van de criteria, vermeld in het derde lid, een score nul kreeg, komt niet in aanmerking voor subsidiëring, ongeacht het totale puntenaantal.</p>
+
+<p>Indien de subsidies die beschikbaar werden gesteld voor de periode, vermeld in artikel 2, derde of vierde lid, ontoereikend zijn om alle ontvankelijke projectaanvragen die in aanmerking komen te subsidiëren, worden de subsidies toegekend volgens de rangschikking, vermeld in het vierde lid. Projectaanvragen met dezelfde score worden gerangschikt volgens het tijdstip van indienen, waarbij voorrang verleend wordt aan het project dat het eerst werd ingediend.</p>
+
+<p>De projectaanvragen die omwille van ontoereikende beschikbare kredieten voor de periode geen subsidie kunnen ontvangen wegens een te lage rangschikking, worden afgewezen.</p>
+
+<p>De bevoegde dienst deelt zijn beslissing over de projectaanvragen mee aan de onderwijsinstelling uiterlijk op:<br>
+1° 30 juni voor de projecten die uitgevoerd worden in de daaropvolgende periode van 1 september tot en met 31 januari van het aansluitende kalenderjaar;<br>
+2° 31 januari voor de projecten die uitgevoerd worden in de daaropvolgende periode van 1 februari tot en met 30 juni van hetzelfde kalenderjaar.</p>
 
 ## HOOFDSTUK 3 Bepaling van het subsidiebedrag en betalingsmodaliteiten
 
@@ -32,7 +67,15 @@ Om in aanmerking te komen voor subsidiëring, moet het project:<BR>1°   ingedie
 
 ### ART. 6.
 
-<P>De subsidie wordt uitbetaald na afloop van het project, na voorlegging   van:<BR>1° een inhoudelijk verslag waarin de realisaties met betrekking tot de   toekenningsvoorwaarden, vermeld in artikel X.1, eerste lid, vijfde zin, 2° tot   en met 5°, van het decreet van 25 april 2014 en artikel 3, 4°, van dit besluit,   vermeld worden;<BR>2° een financieel verslag dat een overzicht en een   beschrijving bevat van alle inkomsten en uitgaven. De beschrijving moet toelaten   om vast te stellen of de gedane uitgaven ressorteren onder een van de vier   kosten, vermeld in artikel 5, tweede lid.<BR></P>  <P>De documenten, vermeld in het eerste lid, moeten uiterlijk een maand na de   geplande einddatum van het project worden ingediend.<BR></P>  <P>De facturen of andere uitgavebewijsstukken worden door de onderwijsinstelling   ter beschikking gehouden.<BR></P>  <P>Eventuele inkomsten van het project, worden niet in mindering gebracht van   het toe te kennen subsidiebedrag.<BR></P>
+<p>De subsidie wordt uitbetaald na afloop van het project, na voorlegging van:<br>
+1° een inhoudelijk verslag waarin de realisaties met betrekking tot de toekenningsvoorwaarden, vermeld in artikel IV.33, derde lid, 2° tot en met 5°, van de codificatie en artikel 3, 4°, van dit besluit, vermeld worden;<br>
+2° een financieel verslag dat een overzicht en een beschrijving bevat van alle inkomsten en uitgaven. De beschrijving moet toelaten om vast te stellen of de gedane uitgaven ressorteren onder een van de vier kosten, vermeld in artikel 5, tweede lid.</p>
+
+<p>De documenten, vermeld in het eerste lid, moeten uiterlijk een maand na de geplande einddatum van het project worden ingediend.</p>
+
+<p>De facturen of andere uitgavebewijsstukken worden door de onderwijsinstelling ter beschikking gehouden.</p>
+
+<p>Eventuele inkomsten van het project, worden niet in mindering gebracht van het toe te kennen subsidiebedrag.</p>
 
 ### ART. 7.
 
