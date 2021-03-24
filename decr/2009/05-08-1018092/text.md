@@ -3879,7 +3879,9 @@ Indien de afnamepunten, vermeld in het eerste en tweede lid, op 1 januari 2021 e
 
 ### ART 15.3.5/13.
 
-Voor productie-installaties voor zonne-energie met een maximaal AC-vermogen van 10 kVA die geïnstalleerd worden vanaf 1 januari 2021 moet de elektrische productie die geïnjecteerd wordt op het distributienet worden opgekocht.<br>
+Voor decentrale productie-installaties met een maximaal AC-vermogen van 10 kVA die geïnstalleerd worden vanaf 1 januari 2021 moet de elektrische productie die geïnjecteerd wordt op het distributienet worden opgekocht.<br>
+<br>
+Voor decentrale productie-installaties met een maximaal AC-vermogen van 10 kVA die voor 1 januari 2021 werden geïnstalleerd en waarvoor een digitale meter is geplaatst, moet de elektrische productie die geïnjecteerd wordt op het distributienet, worden opgekocht.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere modaliteiten, en wie tegen welke minimumvergoeding moet opkopen.
 
