@@ -13,7 +13,7 @@ De volgende personen worden aangeduid als effectieve leden van de beheerscommiss
 ### ART 2.
 
 De volgende personen worden aangeduid als plaatsvervangende leden van de beheerscommissie van het Eigen Vermogen Informatie Vlaanderen:<br>
-1° een personeelslid van het agentschap Informatie Vlaanderen, die de beheerscommissie plaatsvervangend voorzit: de heer Joris Sanders;<br>
+1° een personeelslid van het agentschap Informatie Vlaanderen, die de beheerscommissie plaatsvervangend voorzit: mevrouw Inge Lynen;<br>
 2° een afgevaardigde van het agentschap Facilitair Bedrijf: de heer Stefan Desmet;<br>
 3° een afgevaardigde van de Vlaamse Landmaatschappij: mevrouw Annita Stevens;<br>
 4° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de financiën en de begrotingen: de heer Peter Vandermeersch;<br>
