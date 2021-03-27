@@ -31,7 +31,13 @@ De v.z.w. de Rand heeft tot missie het Nederlandstalige karakter van de Vlaamse 
 
 ### ART. 5.
 
-De v.z.w. de Rand heeft tot taak:<br /><br />1° te fungeren als documentatie- en informatiecentrum met een beperkte ombudsfunctie;<br /><br />2° ondersteuning te verlenen aan alle mogelijke sociaal-culturele en educatieve samenwerkingsverbanden;<br /><br />3° op verzoek van de Vlaamse regering ondersteuning te verlenen met betrekking tot de aangelegenheden, bedoeld in artikel 4, 1° tot en met 17°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br /><br />4° de Vlaamse belangen in de regio te behartigen;<br /><br />5° de integratie van anderstaligen te bevorderen;<br /><br />6° de culturele en andere infrastructuur, opgesomd in artikel 12, als gemeenschapscentra te beheren, overeenkomstig de bepalingen van dit decreet.
+De v.z.w. de Rand heeft tot taak:<br>
+1° ...;<br>
+2° ondersteuning te verlenen aan alle mogelijke sociaal-culturele en educatieve samenwerkingsverbanden;<br>
+3° op verzoek van de Vlaamse regering ondersteuning te verlenen met betrekking tot de aangelegenheden, bedoeld in artikel 4, 1° tot en met 17°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
+4° de Vlaamse belangen in de regio te behartigen;<br>
+5° de integratie van anderstaligen te bevorderen;<br>
+6° de culturele en andere infrastructuur, opgesomd in artikel 12, als gemeenschapscentra te beheren, overeenkomstig de bepalingen van dit decreet.
 
 ## HOOFDSTUK V BESTUUR EN WERKING
 
@@ -39,17 +45,20 @@ De v.z.w. de Rand heeft tot taak:<br /><br />1° te fungeren als documentatie- e
 
 § 1. De algemene vergadering en de raad van&nbsp;bestuur van de v.z.w. de Rand moeten worden samengesteld op basis van artikel 9, c, van de wet van 16 juli 1973 waarbij de bescherming van de ideologische en filosofische strekkingen gewaarborgd wordt.<br>
 <br>
-§ 2. De algemene vergadering van de vzw ``de Rand'' bestaat uit negentien leden. Acht leden zijn vertegenwoordigers van de Vlaamse Gemeenschap en beschikken elk over drie stemmen in de algemene vergadering. Vier leden zijn vertegenwoordigers van de provincie Vlaams-Brabant en beschikken elk over twee stemmen in de algemene vergadering. Zeven leden zijn elk vertegenwoordiger van een programmeringscommissie en beschikken elk over één stem in de algemene vergadering.<br>
+§ 2. De algemene vergadering van de vzw de Rand bestaat uit de volgende negentien leden:<br>
+1° acht leden die vertegenwoordigers van de Vlaamse Gemeenschap zijn;<br>
+2° vier leden die vertegenwoordigers van de provincie Vlaams-Brabant zijn;<br>
+3° zeven leden die elk vertegenwoordiger zijn van een stuurgroep als vermeld in artikel 7, § 1.<br>
 <br>
-§ 3. De raad van bestuur van de vzw "de Rand" bestaat uit achttien leden. Drie leden worden door de algemene vergadering op voordracht van de Vlaamse Gemeenschap benoemd. Twee leden worden door de algemene vergadering op voordracht van de provincie Vlaams-Brabant benoemd. Zeven leden worden door de algemene vergadering op voordracht van de programmeringscommissies benoemd. Zes onafhankelijke leden worden benoemd overeenkomstig artikel III.40, III.41, eerste tot en met derde en vijfde lid, en artikel III.42 van het Bestuursdecreet. Ze beschikken elk over één stem in de raad van bestuur.<br>
+Overeenkomstig artikel 9:17 van het Wetboek van vennootschappen en verenigingen heeft ieder lid van de algemene vergadering een gelijk stemrecht, tenzij de statuten anders bepalen.<br>
 <br>
-De artikelen III.37, III.38, III.39 en III.43 van het Bestuursdecreet zijn van toepassing op de raad van bestuur van de vzw "de Rand".
+§ 3. De raad van bestuur van de vzw "de Rand" bestaat uit achttien leden. Drie leden worden door de algemene vergadering op voordracht van de Vlaamse Gemeenschap benoemd. Twee leden worden door de algemene vergadering op voordracht van de provincie Vlaams-Brabant benoemd. Zeven leden worden door de algemene vergadering op voordracht van de stuurgroepen, vermeld in artikel 7, § 1, van dit decreet, benoemd. Zes onafhankelijke leden worden benoemd overeenkomstig artikel III.40, III.41, eerste tot en met derde en vijfde lid, en artikel III.42 van het Bestuursdecreet. Ze beschikken elk over één stem in de raad van bestuur.
 
 ### ART. 7.
 
-§ 1. Om de opdracht te verwezenlijken, bepaald in artikel 12, § 2, wordt er door de raad van bestuur van v.z.w. de Rand voor ieder gemeenschapscentrum een programmeringscommissie opgericht, waarvan de leden worden voorgedragen door de raden voor cultuurbeleid, die representatief zijn voor het Nederlandstalige culturele werk binnen de gemeenten, opgesomd in artikel 12, § 1.<br>
+§ 1. Om de opdracht te verwezenlijken, bepaald in artikel 12, § 2, wordt er door de raad van bestuur van v.z.w. de Rand voor ieder gemeenschapscentrum een stuurgroep opgericht, waarvan de leden worden voorgedragen door de raden voor cultuurbeleid, die representatief zijn voor het Nederlandstalige culturele werk binnen de gemeenten, opgesomd in artikel 12, § 1.<br>
 <br>
-§ 2. De programmeringscommissie vervult haar opdracht op basis van een huishoudelijk reglement en binnen de krachtlijnen en de financiële grenzen, bepaald door de raad van bestuur van v.z.w. de Rand.
+§ 2. De stuurgroep vervult haar opdracht op basis van een huishoudelijk reglement en binnen de krachtlijnen en de financiële grenzen, bepaald door de raad van bestuur van v.z.w. de Rand.
 
 ## HOOFDSTUK VI SAMENWERKINGSOVEREENKOMST
 
@@ -61,7 +70,7 @@ Er wordt tussen de Vlaamse Gemeenschap en de v.z.w. de Rand een samenwerkingsove
 
 ### ART. 9.
 
-De v.z.w. de Rand moet een beëdigd bedrijfsrevisor aanstellen, die haar financiële toestand, haar jaarrekening en de regelmatigheid van haar financiële verrichtingen controleert.
+...
 
 ### ART 9/1.
 
@@ -87,7 +96,7 @@ De regeringscommissaris kan van de bestuurders alle inlichtingen en ophelderinge
 <br>
 § 3. De Vlaamse Regering stelt de vergoeding van de regeringscommissaris vast.<br>
 <br>
-§ 4. De artikelen III.49 tot en met III.56 van het Bestuursdecreet zijn van toepassing op de regeringscommissaris aangesteld bij de vzw "de Rand".
+§ 4. ...
 
 ## HOOFDSTUK VIII FINANCIËLE BEPALINGEN EN TERBESCHIKKINGSTELLING VAN PERSONEEL EN INFRASTRUCTUUR
 
@@ -134,7 +143,19 @@ De Vlaamse regering is gemachtigd om personeel ter beschikking te stellen van de
 
 ### ART. 12/1.
 
-De provincie Vlaams-Brabant voert een beleid dat het Vlaamse karakter van   de provincie, en van de Vlaamse Rand rond Brussel in het bijzonder, respecteert,   uitstraalt en versterkt.<BR><BR>De provincie Vlaams-Brabant is in verband met   het beleid, vermeld in het eerste lid, bevoegd om :<BR>1° sensibiliseringsacties   te organiseren voor anderstaligen om hen ertoe aan te zetten het Nederlands te   leren en te gebruiken.<BR>De nadruk ligt hierbij op het leren en gebruiken van   het Nederlands door anderstaligen. Anderstaligen en nieuwkomers in   Vlaams-Brabant zullen aangezet worden om Nederlands te leren en te gebruiken.   Niet alleen omdat het de officiële taal is, maar omdat de kennis van de   streektaal essentieel is voor een geslaagde integratie en de kansen verhoogt in   het onderwijs en op de arbeidsmarkt;<BR>2° ondersteuningsmateriaal te   ontwikkelen dat de integratie van anderstaligen kan faciliteren.<BR>De provincie   Vlaams-Brabant zal ondersteuningsmateriaal ontwikkelen voor verschillende   sectoren die de integratie van anderstaligen binnen deze sectoren moeten   faciliteren;<BR>3° het gemeenschapsgevoel in de Vlaamse Rand te   stimuleren.<BR>De provincie Vlaams-Brabant zal er samen met de betrokken   partners naar streven dat alle inwoners in de Vlaamse Rand op een respectvolle   en gemeenschapsbetrokken manier met elkaar omgaan, uiteraard in het volle besef   dat ze in het Nederlandstalige Vlaams-Brabant wonen en er welkom zijn. Daartoe   ondersteunt het provinciebestuur sociaal-culturele en toeristische initiatieven   in de ruime zin, die de maatschappelijke participatie van de inwoners stimuleren   en bijdragen leveren tot een verbetering van het leefklimaat in de regio;<BR>4°   een coördinerende en stimulerende rol te spelen ten aanzien van de   gemeenten.<BR>De provincie Vlaams-Brabant zal via de vorming en ondersteuning   van gemeentebesturen en het stimuleren van netwerken en intergemeentelijke   samenwerkingsverbanden een coördinerende en ondersteunende rol spelen om zo te   komen tot de nodige afstemming tussen alle partners inzake het beleid Vlaams   karakter;<BR>5° actief mee te werken aan het verzamelen en ontsluiten van   informatie over de Vlaamse Rand.<BR>De provincie Vlaams-Brabant zal actief   meewerken aan het verder ontsluiten van de kennis over de Vlaamse   Rand.<BR><BR>In het bestuursakkoord worden verdere modaliteiten bepaald over het   afstemmen van het provinciale en het Vlaamse beleid inzake de ondersteuning van   de Vlaamse Rand.
+In afwijking van artikel 2, § 3, van het Provinciedecreet van 9 december 2005, voert de provincie Vlaams-Brabant een beleid dat het Vlaamse karakter van de provincie, en van de Vlaamse Rand rond Brussel in het bijzonder, respecteert, uitstraalt en versterkt.<br>
+<br>
+De provincie Vlaams-Brabant is in verband met het beleid, vermeld in het eerste lid, bevoegd om :<br>
+1° sensibiliseringsacties te organiseren voor anderstaligen om hen ertoe aan te zetten het Nederlands te leren en te gebruiken.<br>
+De nadruk ligt hierbij op het leren en gebruiken van het Nederlands door anderstaligen. Anderstaligen en nieuwkomers in Vlaams-Brabant zullen aangezet worden om Nederlands te leren en te gebruiken. Niet alleen omdat het de officiële taal is, maar omdat de kennis van de streektaal essentieel is voor een geslaagde integratie en de kansen verhoogt in het onderwijs en op de arbeidsmarkt;<br>
+2° ondersteuningsmateriaal te ontwikkelen dat de integratie van anderstaligen kan faciliteren.<br>
+De provincie Vlaams-Brabant zal ondersteuningsmateriaal ontwikkelen voor verschillende sectoren die de integratie van anderstaligen binnen deze sectoren moeten faciliteren;<br>
+3° het gemeenschapsgevoel in de Vlaamse Rand te stimuleren.<br>
+De provincie Vlaams-Brabant zal er samen met de betrokken partners naar streven dat alle inwoners in de Vlaamse Rand op een respectvolle en gemeenschapsbetrokken manier met elkaar omgaan, uiteraard in het volle besef dat ze in het Nederlandstalige Vlaams-Brabant wonen en er welkom zijn. Daartoe ondersteunt het provinciebestuur sociaal-culturele en toeristische initiatieven in de ruime zin, die de maatschappelijke participatie van de inwoners stimuleren en bijdragen leveren tot een verbetering van het leefklimaat in de regio;<br>
+4° een coördinerende en stimulerende rol te spelen ten aanzien van de gemeenten.<br>
+De provincie Vlaams-Brabant zal via de vorming en ondersteuning van gemeentebesturen en het stimuleren van netwerken en intergemeentelijke samenwerkingsverbanden een coördinerende en ondersteunende rol spelen om zo te komen tot de nodige afstemming tussen alle partners inzake het beleid Vlaams karakter;<br>
+5° actief mee te werken aan het verzamelen en ontsluiten van informatie over de Vlaamse Rand.<br>
+De provincie Vlaams-Brabant zal actief meewerken aan het verder ontsluiten van de kennis over de Vlaamse Rand.
 
 ## HOOFDSTUK IX MACHTIGING AAN DE VLAAMSE REGERING OM DE REGELGEVING AAN TE PASSEN EN TE COÖRDINEREN
 
