@@ -230,7 +230,7 @@ Met toepassing van artikel 4, § 1, eerste lid, 6°, van het besluit van de Vlaa
 <br>
 Het bewijs dat de groep van assistentiewoningen voldoet aan de nieuwe brandveiligheidsreglementering moet uiterlijk op 1 oktober 2021 bij het agentschap aankomen.<br>
 <br>
-Uiterlijk op 31 maart 2021 bezorgt de voorziening in kwestie een aanvraag aan de burgemeester om een onderzoek te laten uitvoeren door de hulpverleningszone, als dat voor die datum nog niet gebeurd is. Daarbij worden in voorkomend geval een geactualiseerde stand van zaken van de nog uit te voeren werken en een verdere planning meegestuurd.<br>
+Uiterlijk op 31 maart 2022 bezorgt de voorziening in kwestie een aanvraag aan de burgemeester om een onderzoek te laten uitvoeren door de hulpverleningszone, als dat voor die datum nog niet gebeurd is. Daarbij worden in voorkomend geval een geactualiseerde stand van zaken van de nog uit te voeren werken en een verdere planning meegestuurd.<br>
 <br>
 In afwijking van artikel 7, tweede lid, artikel 8, § 1, tweede lid, en § 4, tweede lid, en artikel 9, tweede lid, bezorgt de burgemeester het attest met het bijbehorende verslag uiterlijk op 1 september 2022.
 
@@ -238,7 +238,7 @@ In afwijking van artikel 7, tweede lid, artikel 8, § 1, tweede lid, en § 4, tw
 
 Voor de lokale dienstencentra die vóór 1 oktober 2018 erkend zijn, of waarvoor vóór 1 oktober 2018 een erkenningsaanvraag is ingediend, moet het bewijs dat het lokaal dienstencentrum voldoet aan de nieuwe brandveiligheidsreglementering uiterlijk op 1 oktober 2021 bij het agentschap aankomen.<br>
 <br>
-Uiterlijk op 31 maart 2021 bezorgt de voorziening in kwestie een aanvraag aan de burgemeester om een onderzoek te laten uitvoeren door de hulpverleningszone, als dat voor die datum nog niet gebeurd is. Daarbij worden in voorkomend geval een geactualiseerde stand van zaken van de nog uit te voeren werken en een verdere planning meegestuurd.<br>
+Uiterlijk op 31 maart 2022 bezorgt de voorziening in kwestie een aanvraag aan de burgemeester om een onderzoek te laten uitvoeren door de hulpverleningszone, als dat voor die datum nog niet gebeurd is. Daarbij worden in voorkomend geval een geactualiseerde stand van zaken van de nog uit te voeren werken en een verdere planning meegestuurd.<br>
 <br>
 In afwijking van artikel 7, tweede lid, artikel 8, § 1, tweede lid, en § 4, tweede lid, en artikel 9, tweede lid, bezorgt de burgemeester het attest met het bijbehorende verslag uiterlijk op 1 september 2022.
 
