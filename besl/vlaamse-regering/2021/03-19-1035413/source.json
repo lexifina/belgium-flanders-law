@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035413,
+  "title": "Besluit van de Vlaamse Regering van 2021-03-19 tot wijziging van het besluit van de Vlaamse Regering van 13 november 2020 tot regeling van een algemene en selectieve subsidie voor de organisatoren van kinderopvang en buitenschoolse opvang en van maatregelen voor de gezinnen in de kinderopvang en de buitenschoolse opvang naar aanleiding van de gevolgen van het COVID-19-virus, wat betreft de verlenging, en de regeling van compensatie bij afwezigheid door vaccinatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035413/VolledigDocument?datum=2021-03-31",
+  "source_sha256": "459990ad79643e6260d409eed8f6e52df065898135bda07feb343ef553d0e1a6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035413&param=informatie",
+  "as_of": "2021-03-31",
+  "made": "2021-03-19",
+  "gazette": "2021-04-07",
+  "numac": 2021020740,
+  "document_start": "2021-03-31",
+  "document_end": null,
+  "in_force": "2021-03-31",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
