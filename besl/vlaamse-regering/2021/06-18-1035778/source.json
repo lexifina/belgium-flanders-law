@@ -2,16 +2,16 @@
   "codex_id": 1035778,
   "title": "Besluit van de Vlaamse Regering van 2021-06-18 tot bepaling van afwijkingen van de administratieve procedures en de termijnen in de regelgeving van het beleidsdomein Welzijn, Volksgezondheid en Gezin door de uitbraak van COVID-19 en tot wijziging van diverse besluiten van de Vlaamse Regering van het beleidsdomein Welzijn, Volksgezondheid en Gezin",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035778/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "ac6cb822186df8d7b44aa44646f94c3646d05cb6b7b58ad6c0e3cf8b1ebc1154",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035778/VolledigDocument?datum=2021-03-31",
+  "source_sha256": "87e2546a01a37f55edd0ea1157f063e7e1c6866d80961fb89c99f01d58003162",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035778&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2021-03-31",
   "made": "2021-06-18",
   "gazette": "2021-07-07",
   "numac": 2021021219,
   "document_start": "2021-07-17",
   "document_end": null,
-  "in_force": "2021-01-01",
-  "article_versions": 25,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-03-31",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2021-03-31; future article versions excluded; article text as the API gives it"
 }

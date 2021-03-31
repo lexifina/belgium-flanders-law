@@ -249,4 +249,8 @@ In de gevallen, vermeld in het eerste lid, gebeurt de beraadslaging en de stemmi
 
 ## Afdeling 2. Wijzigingen van het besluit van de Vlaamse Regering van 8 mei 2020 tot aanpassing van administratieve procedures en termijnen in de regelgeving van het beleidsdomein Welzijn, Volksgezondheid en Gezin door de uitbraak van COVID-19 en tot wijziging van diverse besluiten van de Vlaamse Regering van dat beleidsdomein
 
+### ART 34.
+
+In artikel 15, § 1, tweede lid, § 2 en § 3, tweede lid, en artikel 19, tweede lid, van het besluit van de Vlaamse Regering van 8 mei 2020 tot aanpassing van administratieve procedures en termijnen in de regelgeving van het beleidsdomein Welzijn, Volksgezondheid en Gezin door de uitbraak van COVID-19 en tot wijziging van diverse besluiten van de Vlaamse Regering van dat beleidsdomein, wordt de datum "31 maart 2021" vervangen door de datum "31 december 2021".
+
 ## HOOFDSTUK 6. Slotbepalingen
