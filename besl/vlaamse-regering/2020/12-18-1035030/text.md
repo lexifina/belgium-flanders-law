@@ -165,7 +165,7 @@ De minister is belast met de uitvoering van dit besluit en bepaalt de periodes, 
 
 Dit besluit heeft uitwerking met ingang van 1 oktober 2020, met uitzondering van artikel 2, § 1, tweede tot en met vijfde lid, artikel 2, § 2 en § 3, en artikel 7, vijfde lid, 2°, die uitwerking hebben met ingang van 1 januari 2021 en artikel 14, § 1, tweede lid, 2°, c), dat uitwerking heeft met ingang van 14 maart 2020.<br>
 <br>
-Dit besluit houdt op uitwerking te hebben op 31 maart 2021.
+Dit besluit houdt op uitwerking te hebben op 30 juni 2021.
 
 ### ART 17.
 
