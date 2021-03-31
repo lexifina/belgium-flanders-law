@@ -175,13 +175,13 @@ In deze afdeling wordt verstaan onder koninklijk besluit van 6 november 1979: he
 1° worden attesten die dateren van 2019 en die gevoegd worden bij aanvragen tot erkenning ingediend uiterlijk op 31 maart 2021, aanvaard.<br>
 2° heeft het ontbreken van een attest niet tot gevolg dat geen erkenning als vermeld in artikel 1 van het voormelde koninklijk besluit, kan worden verleend voor wat erkenningsaanvragen die zijn ingediend in de periode van 20 maart 2020 tot en met 31 december 2020.<br>
 <br>
-In de gevallen, vermeld in het eerste lid, 2°, wordt het attest uiterlijk op 31 maart 2021 aan het agentschap bezorgd. In de tussenliggende periode neemt de ziekenhuisbeheerder alle noodzakelijke maatregelen om de brandveiligheid maximaal te garanderen.<br>
+In de gevallen, vermeld in het eerste lid, 2°, wordt het attest uiterlijk op 31 december 2021 aan het agentschap bezorgd. In de tussenliggende periode neemt de ziekenhuisbeheerder alle noodzakelijke maatregelen om de brandveiligheid maximaal te garanderen.<br>
 <br>
-§ 2. In afwijking van artikel 2, tweede lid, 1°, van het koninklijk besluit van 6 november 1979 worden attesten die dateren van 2014 en die gevoegd worden bij aanvragen tot verlenging van erkenning die uiterlijk op 31 maart 2021 zijn ingediend, aanvaard.<br>
+§ 2. In afwijking van artikel 2, tweede lid, 1°, van het koninklijk besluit van 6 november 1979 worden attesten die dateren van 2014 en die gevoegd worden bij aanvragen tot verlenging van erkenning die uiterlijk op 31 december 2021 zijn ingediend, aanvaard.<br>
 <br>
 § 3. In afwijking van artikel 2, tweede lid, 2°, van het koninklijk besluit van 6 november 1979 heeft het ontbreken van een nieuw attest niet tot gevolg dat geen verlenging van erkenning kan worden verleend voor aanvragen betreft die zijn ingediend in de periode van 20 maart 2020 tot en met 31 december 2020.<br>
 <br>
-In de gevallen, vermeld in het eerste lid, wordt het attest uiterlijk op 31 maart 2021 aan het agentschap bezorgd. In de tussenliggende periode neemt de ziekenhuisbeheerder alle noodzakelijke maatregelen om de brandveiligheid maximaal te garanderen.
+In de gevallen, vermeld in het eerste lid, wordt het attest uiterlijk op 31 december 2021 aan het agentschap bezorgd. In de tussenliggende periode neemt de ziekenhuisbeheerder alle noodzakelijke maatregelen om de brandveiligheid maximaal te garanderen.
 
 ### ART 16.
 
@@ -205,7 +205,7 @@ De termijnen, vermeld in artikel 4, tweede lid, artikel 5, § 1, eerste lid, art
 
 In afwijking van artikel 4, § 1, eerste lid, 6°, van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers leidt het gebrek aan bewijs dat de voorziening aan de toepasselijke brandveiligheidsreglementering voldoet, niet tot de onontvankelijkheid van erkenningsaanvragen die zijn ingediend in de periode van 20 maart 2020 tot en met 31 december 2020.<br>
 <br>
-Het bewijs dat de voorziening aan de toepasselijke brandveiligheidsreglementering voldoet wordt in voorkomend geval uiterlijk op 31 maart 2021 aan het agentschap bezorgd. In de tussenliggende periode neemt de initiatiefnemer alle noodzakelijke maatregelen om de brandveiligheid in de voorziening maximaal te garanderen.
+Het bewijs dat de voorziening aan de toepasselijke brandveiligheidsreglementering voldoet wordt in voorkomend geval uiterlijk op 31 december 2021 aan het agentschap bezorgd. In de tussenliggende periode neemt de initiatiefnemer alle noodzakelijke maatregelen om de brandveiligheid in de voorziening maximaal te garanderen.
 
 ### ART 20.
 

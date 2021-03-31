@@ -2,16 +2,16 @@
   "codex_id": 1033043,
   "title": "Besluit van de Vlaamse Regering van 2020-05-08 tot aanpassing van administratieve procedures en termijnen in de regelgeving van het beleidsdomein Welzijn, Volksgezondheid en Gezin door de uitbraak van COVID-19 en tot wijziging van diverse besluiten van de Vlaamse Regering van dat beleidsdomein",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033043/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "644e1ef05cba7b3b5ff953c247f93904caaecfcdd579dc3f01e4ebe10c419d5f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033043/VolledigDocument?datum=2021-03-31",
+  "source_sha256": "7b3282b8237187a5ea78ac6ac17d69a0889221af62c1ce8337991facdb8b8640",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033043&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2021-03-31",
   "made": "2020-05-08",
   "gazette": "2020-05-26",
   "numac": 2020041443,
   "document_start": "2020-03-20",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2021-03-31",
   "article_versions": 87,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-03-31; future article versions excluded; article text as the API gives it"
 }
