@@ -84,7 +84,7 @@ In de periode van 1 januari 2021 tot en met 31 december 2021 is het verboden:<br
 1° te vissen in het ICES-gebied IIIa, zijnde Skagerrak;<br>
 2° te vissen in het ICES-gebied VIa, zijnde West van Schotland;<br>
 3° haring te vissen in de ICES-gebieden I, II;<br>
-4° de visserij te beoefenen met een vissersvaartuig van het KVS in de ICES-gebieden VIIh, j, k. In de periode van 1 januari tot en met&nbsp;31 maart 2021 geldt dit verbod ook voor vaartuigen behorende tot het GVS;<br>
+4° de visserij te beoefenen met een vissersvaartuig van het KVS in de ICES-gebieden VIIh, j, k. In de periode van 1 januari tot en met&nbsp;30 april 2021 geldt dit verbod ook voor vaartuigen behorende tot het GVS;<br>
 5° de spanvisserij op kabeljauw te beoefenen;<br>
 6° uitgerust te zijn of te vissen met vistuig TR3 dat niet permanent voorzien is van een zeeflap;<br>
 7° gericht te vissen op zeebaars met staand tuig met een maaswijdte kleiner dan 120 mm;<br>
@@ -175,7 +175,7 @@ De registratie van visuren in het elektronisch logboek is verplicht.
 
 § 1. Het systeem van beperking van aantal zeedagen in het ICES-gebied VIIe ingesteld overeenkomstig bijlage II van Verordening (EU) nr. 2020/123 van de Raad van 27 januari 2020 tot vaststelling, voor 2020, van de vangstmogelijkheden voor sommige visbestanden en groepen visbestanden welke in de wateren van de Unie en, voor vaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing zijn, is van toepassing in januari 2021.<br>
 <br>
-Het aantal zeedagen in het ICES-gebied VIIe, vermeld in bijlage II van Verordening (EU) nr. 2021/ van de Raad van januari 2021 tot vaststelling, voor 2021, van de vangstmogelijkheden voor sommige visbestanden en groepen visbestanden welke in de wateren van de Unie en, voor vaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing zijn, toegekend voor de periode van 1 januari 2021 tot en met 31 maart 2021.<br>
+Het aantal zeedagen in het ICES-gebied VIIe, vermeld in bijlage II van Verordening (EU) nr. 2021/92 van de Raad van 28 januari 2021 tot vaststelling, voor 2021, van de vangstmogelijkheden voor bepaalde visbestanden en groepen visbestanden welke in de wateren van de Unie en, voor vissersvaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing zijn, toegekend voor de periode van 1 januari 2021 tot en met 31 juli 2021.<br>
 <br>
 In ICES-gebied VIIe is de overdracht van zeedagen tussen individuele vissersvaartuigen verboden.<br>
 <br>
@@ -203,17 +203,17 @@ Zodra een vissersvaartuig het maximum aantal toegelaten vaartdagen, vermeld in a
 
 ### ART 14.
 
-§ 1. Het totale tongquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen van het KVS, bedraagt 104 ton voor de periode van 1 januari 2021 tot en met 31 maart 2021.<br>
+§ 1. Het totale tongquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen van het KVS, bedraagt 467 ton voor de periode van 1 januari 2021 tot en met 31 december 2021.<br>
 <br>
-Het totale tongquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen van het GVS, bedraagt 243 ton voor de periode van 1 januari 2021 tot en met 31 maart 2021.<br>
+Het totale tongquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen van het GVS, bedraagt 1090 ton voor de periode van 1 januari 2021 tot en met 31 december 2021.<br>
 <br>
-Het de-minimisquotum bedraagt 18 ton tong. De drempelwaarde bedoeld in artikel 8 wordt voor de tongvisserij in de ICES-gebieden II, IV vastgelegd op maximaal 10% van de reeds in de visreis in kwestie gerealiseerde tongvangst in het gebied in kwestie. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit die ICES-gebieden.<br>
+Het de-minimisquotum bedraagt 82 ton tong. De drempelwaarde bedoeld in artikel 8 wordt voor de tongvisserij in de ICES-gebieden II, IV vastgelegd op maximaal 10% van de reeds in de visreis in kwestie gerealiseerde tongvangst in het gebied in kwestie. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit die ICES-gebieden.<br>
 <br>
-§ 2. Van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 1650 kg, vermeerderd met een hoeveelheid die gelijk is aan 25 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+§ 2. Van 1 januari 2021 tot en met 31 oktober 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5500 kg, vermeerderd met een hoeveelheid die gelijk is aan 85 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
-§ 3. Van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 2250 kg, vermeerderd met een hoeveelheid die gelijk is aan 10 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+§ 3. Van 1 januari 2021 tot en met 30 juni 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5500 kg, vermeerderd met een hoeveelheid die gelijk is aan 20 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
-In afwijking van het eerste lid is het in de periode van 1 januari 2021 tot en met 31 maart 2021 in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat uitsluitend de passieve visserij bedrijft, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 1.950 kg, vermeerderd met een hoeveelheid die gelijk is aan 12 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+In afwijking van het eerste lid is het in de periode van 1 januari 2021 tot en met 31 oktober 2021 in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat uitsluitend de passieve visserij bedrijft, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 6500 kg, vermeerderd met een hoeveelheid die gelijk is aan 40 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
 § 4. Er worden geen gecombineerde visreizen toegestaan tussen ICES-gebieden II, IV en VIIf, g en tussen ICES-gebieden II, IV en VIIa.
 
@@ -237,11 +237,11 @@ Van 16 maart 2021 tot en met 31 oktober 2021 is het in de ICES-gebieden II, IV, 
 
 ### ART 16.
 
-§ 1. Het totale tongquotum in de ICES-gebieden VIIf, g, dat gereserveerd is voor de vissersvaartuigen van het KVS, bedraagt 17 ton voor de periode van 1 januari 2021 tot en met 31 maart 2021.<br>
+§ 1. Het totale tongquotum in de ICES-gebieden VIIf, g, dat gereserveerd is voor de vissersvaartuigen van het KVS, bedraagt 68 ton voor de periode van 1 januari 2021 tot en met 31 oktober 2021.<br>
 <br>
-Het totale tongquotum in de ICES-gebieden VIIf, g dat gereserveerd is voor de vissersvaartuigen van het GVS, bedraagt 234 ton voor de periode van 1 januari 2021 tot en met 31 maart 2021.<br>
+Het totale tongquotum in de ICES-gebieden VIIf, g dat gereserveerd is voor de vissersvaartuigen van het GVS, bedraagt 764 ton voor de periode van 1 januari 2021 tot en met 31 december 2021.<br>
 <br>
-Het de-minimisquotum wordt vastgelegd op 8 ton tong. De drempelwaarde vermeld in artikel 8 voor de tongvisserij in de ICES-gebieden VIIf, g bedraagt maximaal 5% van de reeds in de visreis in kwestie gerealiseerde tongvangst in het gebied in kwestie. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit die ICES-gebieden.<br>
+Het de-minimisquotum wordt vastgelegd op 26 ton tong. De drempelwaarde vermeld in artikel 8 voor de tongvisserij in de ICES-gebieden VIIf, g bedraagt maximaal 5% van de reeds in de visreis in kwestie gerealiseerde tongvangst in het gebied in kwestie. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit die ICES-gebieden.<br>
 <br>
 &nbsp;§ 2. Van 1 januari 2021 tot en met 31 december 2021 is het voor een vissersvaartuig van het KVS verboden in de ICES-gebieden VIIf, g aanwezig te zijn.<br>
 <br>
@@ -249,7 +249,7 @@ In afwijking van het eerste lid is het vanaf 1 februari 2021 tot 31 oktober 2021
 <br>
 Om aan de lijst, vermeld in het tweede lid, toegevoegd te kunnen worden, richten de eigenaars van vissersvaartuigen voor 21 januari 2021 met een aangetekende brief of per e-mail een aanvraag tot de bevoegde entiteit.<br>
 <br>
-Behoudens herziening door de bevoegde entiteit bedraagt de minimale toegewezen hoeveelheid tong VIIf, g voor de periode 1 februari 2021 tot en met 31 oktober 2021, 4000 kg per vaartuig dat op de lijst, vermeld in het tweede lid, wordt opgenomen.<br>
+Behoudens herziening door de bevoegde entiteit bedraagt de toegewezen hoeveelheid tong VIIf, g voor de periode 1 februari 2021 tot en met 31 oktober 2021, 5000 kg per vaartuig dat op de lijst, vermeld in het tweede lid, wordt opgenomen.<br>
 <br>
 Bij overschrijding van de hoeveelheden tong, vermeld in het vierde lid, worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in mindering gebracht op de hoeveelheid tong die aan het vissersvaartuig wordt toegekend voor 2022.<br>
 <br>
@@ -261,21 +261,22 @@ Bij het niet opvissen van minstens 80% van het toegewezen quotum wordt het niet-
 <br>
 Het betrokken vaartuig wordt, indien het geen quotum heeft opgevist, behoudens overmacht, voor een periode van 3 jaar uitgesloten van de mogelijkheid om nog een aanvraag voor een specifieke visvergunning in te dienen.<br>
 <br>
-§ 3. Van 1 januari 2021 tot en met 30 juni 2021 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 1000 kg verhoogd met een hoeveelheid, die gelijk is aan 6 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.
+§ 3. Van 1 januari 2021 tot en met 30 juni 2021 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 3000 kg verhoogd met een hoeveelheid, die gelijk is aan 11 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+&nbsp;
 
 ## Afdeling 4. Kabeljauw westelijke wateren - ICES-gebieden VIIb, c, VIIe-k, VIII
 
 ### ART 17.
 
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII voor een vissersvaartuig van het KVS verboden een totale kabeljauwvangst te realiseren die groter is dan 50 kg.<br>
+In de periode van 1 januari 2021 tot en met 31 oktober 2021 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII voor een vissersvaartuig van het KVS verboden een totale kabeljauwvangst te realiseren die groter is dan 50 kg.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII voor een vissersvaartuig van het GVS verboden een totale kabeljauwvangst te realiseren die groter is dan 100 kg.
+In de periode van 1 januari 2021 tot en met 30 juni 2021 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII voor een vissersvaartuig van het GVS verboden een totale kabeljauwvangst te realiseren die groter is dan 100 kg.
 
 ## Afdeling 5. Kabeljauw oostelijk kanaal - ICES-gebied VIId
 
 ### ART 18.
 
-Van 1 januari 2021 tot en met 31 maart 2021 is het in het ICES-gebied VIId voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 1 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.
+Van 1 januari 2021 tot en met 31 oktober 2021 is het in het ICES-gebied VIId voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 1 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.
 
 ## Afdeling 6. Tong Golf van Gascogne - ICES-gebieden VIIIa, b
 
@@ -289,7 +290,8 @@ De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa,b is verboden 
 
 ### ART 20.
 
-§ 1. In de periode 1 januari 2021 tot 31 maart 2021 is het in het ICES-gebied VIIa voor een vaartuig van het GVS verboden een totale tongvangst te realiseren die groter is dan 3250 kg, een wetenschappelijk quotum niet meegerekend.<br>
+§ 1. In de periode 1 januari 2021 tot 30 juni 2021 is het in het ICES-gebied VIIa voor een vaartuig van het GVS verboden een totale tongvangst te realiseren die groter is dan 10.000 kg, een wetenschappelijk quotum niet meegerekend.<br>
+ICES-gebied VIIa is gesloten voor vaartuigen van het KVS.<br>
 <br>
 Er wordt een wetenschappelijk tongquotum in het ICES-gebied VIIa voorbehouden van 12 ton, verdeeld over telkens een visreis per kwartaal van maximaal 3000 kg tong.<br>
 <br>
@@ -305,29 +307,29 @@ De visreis moet volledig in ICES-gebied VIIa plaatsvinden en gedurende de volled
 <br>
 Indien een eigenaar van een vaartuig, aangeduid conform lid 4, behoudens in geval van overmacht, niet deelneemt aan het wetenschappelijk onderzoek, komt het vaartuig niet langer in aanmerking voor analoog wetenschappelijk onderzoek tot en met 2022 en wordt de toegekende hoeveelheid tong, voor de betreffende toewijsperiode verminderd met het aantal kg tong zoals toegewezen conform lid 2. Indien dit verschil een negatieve hoeveelheid oplevert, zal het tekort worden afgehouden van het vastgestelde tongquotum voor het betreffende vaartuig in een andere toewijsperiode in hetzelfde of volgende jaar.<br>
 <br>
-§ 2. Het totale tongquotum in het ICES-gebied VIId, dat gereserveerd is voor de vissersvaartuigen van het KVS, bedraagt 70 ton voor de periode van 1 januari 2021 tot en met 31 maart 2021.<br>
+§ 2. Het totale tongquotum in het ICES-gebied VIId, dat gereserveerd is voor de vissersvaartuigen van het KVS, bedraagt 338 ton voor de periode van 1 januari 2021 tot en met 31 december 2021.<br>
 <br>
-Het totale tongquotum in het ICES-gebied VIId, dat gereserveerd is voor de vissersvaartuigen van het GVS, bedraagt 109 ton voor de periode van 1 januari 2021 tot en met 31 maart 2021.<br>
+Het totale tongquotum in het ICES-gebied VIId, dat gereserveerd is voor de vissersvaartuigen van het GVS, bedraagt 507 ton voor de periode van 1 januari 2021 tot en met 31 december 2021.<br>
 <br>
-Het de-minimisquotum bedraagt 6 ton tong. De drempelwaarde vermeld in artikel 8 bedraagt voor de tongvisserij in het ICES-gebied VIId maximaal 5% van de reeds in de visreis in kwestie gerealiseerde tongvangst in dat ICES-gebied. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit dat ICES-gebied.<br>
+Het de-minimisquotum bedraagt 22 ton tong. De drempelwaarde vermeld in artikel 8 bedraagt voor de tongvisserij in het ICES-gebied VIId maximaal 5% van de reeds in de visreis in kwestie gerealiseerde tongvangst in dat ICES-gebied. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit dat ICES-gebied.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in het ICES-gebied VIId voor een vissersvaartuig van het KVS verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 350 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+In de periode van 1 januari 2021 tot en met 31 oktober 2021 is het in het ICES-gebied VIId voor een vissersvaartuig van het KVS verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 350 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in het ICES-gebied VIId voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 700 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+In de periode van 1 januari 2021 tot en met 30 juni 2021 is het in het ICES-gebied VIId voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 700 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het voor een vissersvaartuig van het KVS, die gemengde zeereizen in de ICES-gebieden VIId, II en IV maakt, verboden bij de tongvangst in de ICES-gebieden II, IV per zeereis een hoeveelheid te overschrijden die gelijk is aan 350 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de ICES-gebieden II, IV.<br>
+In de periode van 1 januari 2021 tot en met 31 oktober 2021 is het voor een vissersvaartuig van het KVS, die gemengde zeereizen in de ICES-gebieden VIId, II en IV maakt, verboden bij de tongvangst in de ICES-gebieden II, IV per zeereis een hoeveelheid te overschrijden die gelijk is aan 350 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de ICES-gebieden II, IV.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het voor een vissersvaartuig van het GVS, die gemengde zeereizen in de ICES-gebieden VIId en II, IV maakt, verboden bij de tongvangst in de ICES-gebieden II, IV een hoeveelheid te overschrijden die gelijk is aan 700 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de ICES-gebieden II, IV.<br>
+In de periode van 1 januari 2021 tot en met 30 juni 2021 is het voor een vissersvaartuig van het GVS, die gemengde zeereizen in de ICES-gebieden VIId en II, IV maakt, verboden bij de tongvangst in de ICES-gebieden II, IV een hoeveelheid te overschrijden die gelijk is aan 700 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de ICES-gebieden II, IV.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het voor een vissersvaartuig van het KVS, die gemengde zeereizen in de ICES-gebieden VIId, en VIIf, g maakt, verboden bij de tongvangst in het ICES-gebied VIId per zeereis een hoeveelheid te overschrijden die gelijk is aan 175 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het ICES gebied VIId.<br>
+In de periode van 1 januari 2021 tot en met 31 oktober 2021 is het voor een vissersvaartuig van het KVS, die gemengde zeereizen in de ICES-gebieden VIId, en VIIf, g maakt, verboden bij de tongvangst in het ICES-gebied VIId per zeereis een hoeveelheid te overschrijden die gelijk is aan 175 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het ICES gebied VIId.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het voor een vissersvaartuig van het GVS, die gemengde zeereizen in de ICES-gebieden VIId, en VIIf, g maakt, verboden bij de tongvangst in het ICES-gebied VIId per zeereis een hoeveelheid te overschrijden die gelijk is aan 350 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het ICES gebied VIId.<br>
+In de periode van 1 januari 2021 tot en met 30 juni 2021 is het voor een vissersvaartuig van het GVS, die gemengde zeereizen in de ICES-gebieden VIId, en VIIf, g maakt, verboden bij de tongvangst in het ICES-gebied VIId per zeereis een hoeveelheid te overschrijden die gelijk is aan 350 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het ICES gebied VIId.<br>
 <br>
-§ 3. Het tongquotum voor de periode van 1 januari 2021 tot 31 maart 2021 bedraagt 13 ton. Het de-minimisquotum voor tong in het ICES-gebied VIIe bedraagt 0,5 ton tong. De drempelwaarde vermeld in artikel 8, bedraagt voor de tongvisserij in het ICES-gebied VIIe maximaal 5% van de reeds in de visreis in kwestie gerealiseerde tongvangst in het gebied in kwestie. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit dat ICES-gebied VIIe.<br>
+&nbsp;§ 3. Het tongquotum in het ICES-gebied VIIe, voor de periode van 1 januari 2021 tot 31 december 2021, bedraagt 68 ton. Het de-minimisquotum voor tong in het ICES-gebied VIIe bedraagt 2 ton tong. De drempelwaarde vermeld in artikel 8, bedraagt voor de tongvisserij in het ICES-gebied VIIe maximaal 5% van de reeds in de visreis in kwestie gerealiseerde tongvangst in het gebied in kwestie. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit dat ICES-gebied VIIe.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in het ICES-gebied VIIe voor een vissersvaartuig van het KVS verboden een totale tongvangst te realiseren die groter is dan 600 kg.<br>
+In de periode van 1 januari 2021 tot en met 31 oktober 2021 is het in het ICES-gebied VIIe voor een vissersvaartuig van het KVS verboden een totale tongvangst te realiseren die groter is dan 1200 kg.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in het ICES-gebied VIIe voor een vissersvaartuig van het GVS verboden een totale tongvangst te realiseren die groter is dan 1200 kg.<br>
+In de periode van 1 januari 2021 tot en met 31 oktober 2021 is het in het ICES-gebied VIIe voor een vissersvaartuig van het GVS verboden een totale tongvangst te realiseren die groter is dan 2400 kg.<br>
 <br>
 Ingeval van gemengde visreizen met aanwezigheid in de ICES-gebieden VIIe en VIIf, g, is het in ICES-gebied VIIe verboden een hoeveelheid te overschrijden van 300 kg, gerealiseerd tijdens die zeereis in dat ICES-gebied.
 
@@ -335,7 +337,11 @@ Ingeval van gemengde visreizen met aanwezigheid in de ICES-gebieden VIIe en VIIf
 
 ### ART 21.
 
-De tongvangst in ICES-gebieden VIIh, j, k is verboden in de periode van 1 januari 2021 tot en met 31 januari 2021.
+De tongvangst in ICES-gebieden VIIh, j, k is verboden in de periode van 1 januari 2021 tot en met 30 april 2021.<br>
+<br>
+Vanaf 1 mei 2021 tot en met 31 oktober 2021 is het in de ICES-gebieden VIIh, j, k voor een vissersvaartuig van het GVS verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden van 750 kg per vaartuig in die ICES-gebieden.<br>
+<br>
+Ingeval van gemengde visreizen met aanwezigheid in de ICES-gebieden VIIh, j, k en VIIf, g, is het in de ICES-gebieden VIIh, j, k verboden een hoeveelheid te overschrijden van 300 kg, gerealiseerd tijdens die zeereis in dat ICES-gebied
 
 ## Afdeling 3. Schol
 
@@ -343,33 +349,43 @@ De tongvangst in ICES-gebieden VIIh, j, k is verboden in de periode van 1 januar
 
 § 1. In de periode van 1 januari 2021 tot en met 15 februari 2021 is het in de ICES-gebieden VIId, e voor een vissersvaartuig van het KVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 1200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden. Vanaf 16 februari tot 31 maart valt dit terug op 800 kg per vaartdag.<br>
 <br>
+In de periode van 1 april 2021 tot en met 31 oktober 2021 is het in de ICES-gebieden VIId, e voor een vissersvaartuig van het KVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 1200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
 In de periode van 1 januari 2021 tot en met 15 februari 2021 is het in de ICES-gebieden VIId, e voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 2400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden. Vanaf 16 februari tot 31 maart valt dit terug op 1600 kg per vaartdag.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het voor een vissersvaartuig van het KVS, die gemengde zeereizen in de ICES-gebieden VIId en IV maakt, verboden bij de scholvangst in de ICES-gebieden IV per zeereis een hoeveelheid te overschrijden die gelijk is aan 800 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de ICES-gebieden IV.<br>
+In de periode van 1 april 2021 tot en met 30 juni 2021 is het in de ICES-gebieden VIId, e voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 2400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het voor een vissersvaartuig van het GVS, die gemengde zeereizen in de ICES-gebieden VIId en IV maakt, verboden bij de scholvangst in de ICES-gebieden IV een hoeveelheid te overschrijden die gelijk is aan 1600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de ICES-gebieden IV.<br>
+In de periode van 1 januari 2021 tot en met 31 oktober 2021 is het voor een vissersvaartuig van het KVS, die gemengde zeereizen in de ICES-gebieden VIId, e, en IV maakt, verboden bij de scholvangst in de ICES-gebieden IV per zeereis een hoeveelheid te overschrijden die gelijk is aan 800 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de ICES-gebieden IV.<br>
+<br>
+In de periode van 1 januari 2021 tot en met 30 juni 2021 is het voor een vissersvaartuig van het GVS, die gemengde zeereizen in de ICES-gebieden VIId, e, en IV maakt, verboden bij de scholvangst in de ICES-gebieden IV een hoeveelheid te overschrijden die gelijk is aan 1600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de ICES-gebieden IV.<br>
 <br>
 § 2. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het KVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.
+In de periode van 1 april 2021 tot en met 31 oktober 2021 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het KVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In de periode van 1 april 2021 tot en met 30 juni 2021 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In de periode van 1 mei 2021 tot en met 31 oktober 2020 is het in de ICES-gebieden VIIh, j, k voor een vissersvaartuig van het GVS verboden een totale scholvangst te realiseren die groter is dan 100 kg. Voor vaartuigen van het KVS is de scholvangst in ICES-gebieden VIIh, j, k verboden.
 
 ## Afdeling 4. Kabeljauw
 
 ### ART 23.
 
-§ 1. Het totale kabeljauwquotum in de ICES-gebieden II, IV, dat gereserveerd is voor de vissersvaartuigen van het KVS, bedraagt 16 ton voor de periode van 1 januari 2021 tot en met 31 maart 2021. Bij uitputting van dat quotum, is het voor die vissersvaartuigen verboden nog kabeljauw aan te voeren uit die ICES-gebieden.<br>
+§ 1. Het totale kabeljauwquotum in de ICES-gebieden II, IV, dat gereserveerd is voor de vissersvaartuigen van het KVS, bedraagt 52 ton voor de periode van 1 januari 2021 tot en met 31 december 2021. Bij uitputting van dat quotum, is het voor die vissersvaartuigen verboden nog kabeljauw aan te voeren uit die ICES-gebieden.<br>
 <br>
-Het totale kabeljauwquotum in de ICES-gebieden II, IV, dat gereserveerd is voor de vissersvaartuigen van het GVS, bedraagt 93 ton voor de periode van 1 januari 2021 tot en met 31 maart 2021. Bij uitputting van dat quotum, is het voor die vissersvaartuigen verboden nog kabeljauw aan te voeren uit die ICES-gebieden.<br>
+Het totale kabeljauwquotum in de ICES-gebieden II, IV, dat gereserveerd is voor de vissersvaartuigen van het GVS, bedraagt 295 ton voor de periode van 1 januari 2021 tot en met 31 december 2021. Bij uitputting van dat quotum, is het voor die vissersvaartuigen verboden nog kabeljauw aan te voeren uit die ICES-gebieden.<br>
 <br>
 De drempelwaarde bedoeld in artikel 8 wordt voor de kabeljauwvisserij met vistuig TR2 in de ICES-gebied IVc vastgelegd op maximaal 4% van de reeds in de visreis in kwestie gerealiseerde kabeljauwvangst in het gebied in kwestie. Bij uitputting van het de-minimisquotum, is het voor die vissersvaartuigen TR2 verboden nog gebruik te maken van de-minimis voor kabeljauw afkomstig uit dit ICES-gebied.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS, dat volgens de Officiële lijst der Belgische zeeschepen 2021 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
+In de periode van 1 januari 2021 tot en met 31 december 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS, dat volgens de Officiële lijst der Belgische zeeschepen 2021 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
 <br>
-§ 2. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS, dat volgens de Officiële lijst der Belgische zeeschepen 2021 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 2. In de periode van 1 januari 2021 tot en met 30 juni 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS, dat volgens de Officiële lijst der Belgische zeeschepen 2021 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 § 3. De hierboven vermelde hoeveelheden worden vanaf 1 januari 2021 bijkomend met 300 kg per vaartdag verhoogd, als het vaartuig in kwestie gedurende de gehele visreis gebruik maakt van netmaaswijdtes van groter dan 100mm in de bordenvisserij (TR1) of groter dan 120mm in de boomkorvisserij (BT1). Vanaf 1 februari 2021 vallen deze vaartuigen terug op 100 kg per vaartdag.<br>
 <br>
-§ 4. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 50 kg.
+§ 4. In de periode van 1 januari 2021 tot en met 30 juni 2021 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 80 kg.
 
 ## Afdeling 5. Rog
 
@@ -377,17 +393,21 @@ In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebi
 
 § 1. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 120 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
+In de periode van 1 april 2021 tot en met 31 oktober 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 125 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
 In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 240 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In afwijking van het eerste en tweede lid, worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2021 uitsluitend uitgerust is met de planken.<br>
+In de periode van 1 april 2021 tot en met 30 juni 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-§ 2. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in ICES-gebied VIId voor een vissersvaartuig van het KVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 75 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+In afwijking van het tweede en vierde lid, worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2021 uitsluitend uitgerust is met de planken of met de zegen.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in ICES-gebied VIId voor een vissersvaartuig van het GVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+§ 2. In de periode van 1 januari 2021 tot en met 31 oktober 2021 is het in ICES-gebied VIId voor een vissersvaartuig van het KVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 75 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
-§ 3. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig van het KVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 350 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+In de periode van 1 januari 2021 tot en met 31 juni 2021 is het in ICES-gebied VIId voor een vissersvaartuig van het GVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig van het GVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 700 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+§ 3. In de periode van 1 januari 2021 tot en met 31 oktober 2021 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig van het KVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+<br>
+In de periode van 1 januari 2021 tot en met 30 juni 2021 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig van het GVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
 § 4. De gevangen hoeveelheden rog boven de toegekende hoeveelheden vermeld in paragraaf 1, 2 en 3 moeten worden teruggezet wegens hoge overleving volgens de bepalingen van de discardplannen Noordzee en westelijke wateren.
 
@@ -395,61 +415,67 @@ In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in ICES-gebiede
 
 ### ART 25.
 
-§ 1. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig verboden bij makreelvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis.<br>
+§ 1. In de periode van 1 januari 2021 tot en met 31 oktober 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig verboden bij makreelvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis.<br>
 <br>
 Het totale makreelquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen die volgens de Officiële lijst der Belgische zeeschepen 2021 uitsluitend uitgerust zijn met de zegen en die per zeereis minder dan 10 kg Noordzeetong aanlanden, bedraagt 60 ton. Zolang dat quotum niet is opgebruikt, geldt de beperking, vermeld in het eerste lid, niet.<br>
 <br>
 § 2. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het voor een vissersvaartuig verboden bij de haringvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 800 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis, behalve in de ICES-gebieden I, II.<br>
 <br>
-§ 3. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het voor een vissersvaartuig verboden bij de heekvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis.<br>
+In de periode van 1 april 2021 tot en met 31 oktober 2021 is het voor een vissersvaartuig verboden bij de haringvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis, behalve in de ICES-gebieden I, II.<br>
+<br>
+§ 3. In de periode van 1 januari 2021 tot en met 30 juni 2021 is het voor een vissersvaartuig verboden bij de heekvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis.<br>
 <br>
 § 4. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de vangsten van tongschar en witje per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
+In de periode van 1 april 2021 tot en met 31 oktober 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de vangsten van tongschar en witje per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
 In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de vangsten van tongschar en witje per zeereis een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-§ 5. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 april 2021 tot en met 30 juni 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de vangsten van tongschar en witje per zeereis een hoeveelheid te overschrijden die gelijk is aan 800 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, IV, Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 5. In de periode van 1 januari 2021 tot en met 31 oktober 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In de periode van 1 januari 2021 tot en met 30 juni 2021 is het in de ICES-gebieden II, IV, Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 In afwijking van het eerste en tweede lid worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2021 uitsluitend uitgerust is met de planken of met de zegen.<br>
 <br>
-§ 6. Het totale wijtingquotum in de ICES-gebieden VIIb-k, dat gereserveerd is voor de vissersvaartuigen die volgens de Officiële lijst der Belgische zeeschepen 2021 uitgerust zijn met de planken of met de zegen, bedraagt maximaal 40% van het beschikbaar quotum voor de periode van 1 januari 2021 tot en met 31 maart 2021. Bij uitputting van dat segmentsquotum, is het voor die vissersvaartuigen verboden nog wijting aan te voeren uit de ICES-gebieden VIIb-k.<br>
+§ 6. Het totale wijtingquotum in de ICES-gebieden VIIb-k, dat gereserveerd is voor de vissersvaartuigen die volgens de Officiële lijst der Belgische zeeschepen 2021 uitgerust zijn met de planken of met de zegen, bedraagt maximaal 40% van het beschikbaar quotum voor de periode van 1 januari 2021 tot en met 31 december 2021. Bij uitputting van dat segmentsquotum, is het voor die vissersvaartuigen verboden nog wijting aan te voeren uit de ICES-gebieden VIIb-k.<br>
 <br>
-§ 7. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden VIIb-k voor een vissersvaartuig van het KVS verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 7. In de periode van 1 januari 2021 tot en met 31 oktober 2021 is het in de ICES-gebieden VIIb-k voor een vissersvaartuig van het KVS verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden VIIb-k voor een vissersvaartuig van het GVS verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 januari 2021 tot en met 30 juni 2021 is het in de ICES-gebieden VIIb-k voor een vissersvaartuig van het GVS verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In afwijking van het eerste en tweede lid worden de maximaal toegelaten vangsthoeveelheden die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2021 uitsluitend uitgerust is met de planken vastgesteld op respectievelijk 100 kg en 200kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd in die ICES-gebieden.<br>
+In afwijking van het eerste en tweede lid worden, tussen 1 januari 2021 en 31 maart 2021, de maximaal toegelaten vangsthoeveelheden die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2021 uitsluitend uitgerust is met de planken vastgesteld op respectievelijk 100 kg en 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd in die ICES-gebieden. Deze afwijking vervalt vanaf 1 april 2021.<br>
 <br>
-In afwijking van het tweede en derde lid worden de maximaal toegelaten vangsthoeveelheden die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2021 uitsluitend uitgerust is met de zegen, vastgesteld op 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd in die ICES-gebieden.<br>
+In afwijking van het tweede en derde lid worden, tussen 1 januari 2021 en 31 maart 2021, de maximaal toegelaten vangsthoeveelheden die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2021 uitsluitend uitgerust is met de zegen, vastgesteld op 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd in die ICES-gebieden. Deze afwijking vervalt vanaf 1 april 2021..<br>
 <br>
-§ 8. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in het ICES-gebied VIIa voor een vissersvaartuig van het GVS verboden bij wijtingvangsten een hoeveelheid te overschrijden die gelijk is aan 100 kg.<br>
+§ 8. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in het ICES-gebied VIIa voor een vissersvaartuig van het GVS verboden bij wijtingvangsten een hoeveelheid te overschrijden die gelijk is aan 100 kg.&nbsp;In de periode van 1 april 2021 tot en met 30 juni 2021 is het in het ICES-gebied VIIa voor een vissersvaartuig van het GVS verboden bij wijtingvangsten een hoeveelheid te overschrijden die gelijk is aan 80 kg.<br>
 <br>
 § 9. De de-minimis voor wijting in de ICES-gebieden II, IV bedraagt 2% van het quotum voor tong en schol in deze gebieden.<br>
 <br>
-De de-minimis voor wijting in de ICES-gebieden VIIb-k bedraagt 1 ton.<br>
+De de-minimis voor wijting in de ICES-gebieden VIIb-k bedraagt 4 ton.<br>
 <br>
 De drempelwaarde vermeld in artikel 8 bedraagt voor de wijting in de ICES-gebieden II, IV en ICES-gebieden VIIb-k maximaal 10% van de reeds in de visreis in kwestie gerealiseerde wijtingvangst in het gebied in kwestie. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor wijting uit deze ICES-gebieden.<br>
 <br>
-§ 10. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, III, IV voor een vissersvaartuig van het KVS verboden bij de zwarte koolvisvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 40 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 10. In de periode van 1 januari 2021 tot en met 31 oktober 2021 is het in de ICES-gebieden II, III, IV voor een vissersvaartuig van het KVS verboden bij de zwarte koolvisvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 40 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, III, IV voor een vissersvaartuig van het GVS verboden bij de zwarte koolvisvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 80 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 januari 2021 tot en met 30 juni 2021 is het in de ICES-gebieden II, III, IV voor een vissersvaartuig van het GVS verboden bij de zwarte koolvisvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 80 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 Voor de vaartdagen waarop het vissersvaartuig actief is met vistuig van de inspanningsgroep TR1, worden de hoeveelheden, vermeld in het tweede lid, verdubbeld.<br>
 <br>
 De beperkingen vermeld in het eerste en tweede lid zijn niet van toepassing zolang geen 60% van het quotum in kwestie, inclusief quotaruilen, is opgebruikt.<br>
 <br>
-§ 11. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de tarbot- en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 11. In de periode van 1 januari 2021 tot en met 31 oktober 2021 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de tarbot- en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de tarbot en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 januari 2021 tot en met 30 juni 2021 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de tarbot en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-§ 12. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden VII, VIII voor een vissersvaartuig van het GVS verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 12. In de periode van 1 januari 2021 tot en met 30 juni 2021 is het in de ICES-gebieden VII, VIII voor een vissersvaartuig van het GVS verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden VII, VIII voor een vissersvaartuig van het KVS verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 januari 2021 tot en met 31 oktober 2021 is het in de ICES-gebieden VII, VIII voor een vissersvaartuig van het KVS verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-§ 13. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het voor de Noorse zone, voor een vissersvaartuig van het GVS verboden bij de zeeduivelvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 13. In de periode van 1 januari 2021 tot en met 30 juni 2021 is het voor de Noorse zone, voor een vissersvaartuig van het GVS verboden bij de zeeduivelvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 170 kg productgewicht, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden. Zeeduivel uit de Noorse zone wordt niet gekopt aangeland.<br>
 <br>
-§ 14. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, IV, inclusief Noorse zone, voor een vissersvaartuig van het GVS verboden bij de lengvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 30 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 14. In de periode van 1 januari 2021 tot en met 30 juni 2021 is het in de ICES-gebieden II, IV, inclusief Noorse zone, voor een vissersvaartuig van het GVS verboden bij de lengvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 30 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 De beperkingen, vermeld in het eerste lid, zijn niet van toepassing zolang geen 60% van het quotum in kwestie, inclusief quotaruilen, is opgebruikt.<br>
 <br>
