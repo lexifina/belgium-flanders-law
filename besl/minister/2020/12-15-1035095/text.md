@@ -35,11 +35,37 @@ In artikel 4 van hetzelfde ministerieel besluit worden de volgende wijzigingen a
 2° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
 "In afwijking van het eerste lid passen de projecten, vermeld in het eerste lid, in het bindend sociaal objectief van de gemeente als ze louter gefinancierd worden op de wijze, vermeld in artikel 4.10, 2°, h), van het Besluit Vlaamse Codex Wonen van 2021. Dit lid is niet van toepassing op huurwoningen die worden gerealiseerd met een lening vanuit het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, vermeld in artikel 5.11, tweede lid, van de Vlaamse Codex Wonen van 2021.".
 
+### ART 4.
+
+Artikel 4 van hetzelfde ministerieel besluit, gewijzigd bij dit ministerieel besluit, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 4. Een project dat voorziet in de nieuwbouw van sociale huurwoningen, en een project dat voorziet in de verwerving van een of meer goede woningen, passen in het bindend sociaal objectief van de gemeente als een van de volgende gevallen zich voordoet:<br>
+1° het project ligt in een gemeente met een positief saldo op de BSO-planner van het Projectportaal en het project overschrijdt met maximaal tien eenheden de BSO-planner,<br>
+2° het project ligt in een gemeente met een positief saldo op de convenant-planner van het Projectportaal en het project overschrijdt met maximaal tien eenheden de convenant-planner.<br>
+<br>
+De BSO-planner, vermeld in het eerste lid, 1°, monitort het gerealiseerde en het geplande sociale huuraanbod in functie van het bindend sociaal objectief, waarbij:<br>
+1° voor het gerealiseerde sociale huuraanbod in de gemeente: het aanbod aan sociale huurwoningen volgens de meest recente jaarlijkse meting van het sociale huuraanbod, waarbij:<br>
+a) bijkomende sociale huurwoningen van sociale verhuurkantoren sinds de nulmeting pas meetellen als ten minste 90 % van het objectief voor sociale huurwoningen behaald is of behaald zal worden, rekening houdend met het gerealiseerde en geplande sociale huuraanbod;<br>
+b) overdrachten waarvan de verkoopovereenkomst wordt gesloten na 31 oktober 2017, van sociale huurwoningen van een gemeente, OCMW, intergemeentelijk samenwerkingsverband of OCMW-vereniging aan een sociale huisvestingsmaatschappij niet meetellen;<br>
+2° voor het geplande sociale huuraanbod in de gemeente: het aanbod aan sociale huurwoningen volgens de meest recente Projectenlijst die de VMSW aan de beoordelingscommissie heeft voorgelegd.<br>
+<br>
+De convenant-planner, vermeld in het eerste lid, 2°, monitort het gerealiseerde en het geplande sociale huuraanbod dat verwezenlijkt is met een sociaal woonbeleidsconvenant als vermeld in artikel 5.52, eerste lid, van de Vlaamse Codex Wonen van 2021.<br>
+<br>
+De gemeente kan voor een overschrijding met meer dan tien eenheden een gemotiveerd verzoek tot afwijking richten aan de Vlaamse minister bevoegd voor het woonbeleid.<br>
+<br>
+In afwijking van het eerste lid passen de projecten, vermeld in het eerste lid, in het bindend sociaal objectief van de gemeente als ze louter gefinancierd worden op de wijze, vermeld in artikel 4.10, 2°, h), van het Besluit Vlaamse Codex Wonen van 2021. Dit lid is niet van toepassing op huurwoningen die worden gerealiseerd met een lening vanuit het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, vermeld in artikel 5.11, tweede lid, van de Vlaamse Codex Wonen van 2021.".
+
 ### ART 5.
 
 Aan artikel 5 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 <br>
 "In afwijking van het eerste lid passen de projecten, vermeld in het eerste lid, in het bindend sociaal objectief van de gemeente als ze louter gefinancierd worden op de wijze, vermeld in artikel 4.10, 2°, h), van het Besluit Vlaamse Codex Wonen van 2021. Dit lid is niet van toepassing op huurwoningen die worden gerealiseerd met een lening vanuit het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, vermeld in artikel 5.11, tweede lid, van de Vlaamse Codex Wonen van 2021".
+
+### ART 6.
+
+In artikel 5 van hetzelfde ministerieel besluit, gewijzigd bij dit ministerieel besluit, wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+"De gemeente kan voor een overschrijding met meer dan tien eenheden een gemotiveerd verzoek tot afwijking richten aan de Vlaamse minister bevoegd voor het woonbeleid.".
 
 ### ART 7.
 
