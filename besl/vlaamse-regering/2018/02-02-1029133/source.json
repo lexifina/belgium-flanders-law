@@ -2,16 +2,16 @@
   "codex_id": 1029133,
   "title": "Besluit van de Vlaamse Regering van 2018-02-02 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029133/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "64aac9e889d1bbf468fb8d5f207f6fc019312ba868d20504c20ab32df93072c6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029133/VolledigDocument?datum=2021-04-01",
+  "source_sha256": "647b578ffbcec1dea1d87398b62251fe27284e81e36b49517a0a6f0468a31738",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029133&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2021-04-01",
   "made": "2018-02-02",
   "gazette": "2018-03-19",
   "numac": 2018030624,
   "document_start": "2018-02-15",
   "document_end": "2023-06-30",
-  "in_force": "2021-01-01",
-  "article_versions": 57,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-04-01",
+  "article_versions": 72,
+  "record_form": "consolidated version as in force on 2021-04-01; future article versions excluded; article text as the API gives it"
 }
