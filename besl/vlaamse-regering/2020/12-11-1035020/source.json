@@ -2,16 +2,16 @@
   "codex_id": 1035020,
   "title": "Besluit van de Vlaamse Regering van 2020-12-11 tot bepaling van een aantal maatregelen ter ondersteuning van de woonzorgcentra, de centra voor kortverblijf, de centra voor dagverzorging en de centra voor dagopvang naar aanleiding van de COVID-19-crisis vanaf 1 oktober 2020",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035020/VolledigDocument?datum=2020-10-01",
-  "source_sha256": "0fb6f0b43d41f9b954b5064b59924df6df95ce13d86a1272db95ec8577bf5419",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035020/VolledigDocument?datum=2021-04-01",
+  "source_sha256": "da00f73086b1c129e7654ae15e7653b2cba12d1de6664c2c9828224803abad75",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035020&param=informatie",
-  "as_of": "2020-10-01",
+  "as_of": "2021-04-01",
   "made": "2020-12-11",
   "gazette": "2021-01-08",
   "numac": 2020044553,
   "document_start": "2020-10-01",
   "document_end": null,
-  "in_force": "2020-10-01",
+  "in_force": "2021-04-01",
   "article_versions": 91,
-  "record_form": "consolidated version as in force on 2020-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-04-01; future article versions excluded; article text as the API gives it"
 }
