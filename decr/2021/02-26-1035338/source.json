@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035338,
+  "title": "Decreet van 2021-02-26 tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de Vlaamse Codex Ruimtelijke Ordening, wat betreft de opheffing vande Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu ende overheveling van taken inzake omgevingshandhaving",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035338/VolledigDocument?datum=2021-04-01",
+  "source_sha256": "aa251f6e84dc4d28f47ce4be6c97073e79d4a7b4b35d0fa41a744fe9f30b7a6f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035338&param=informatie",
+  "as_of": "2021-04-01",
+  "made": "2021-02-26",
+  "gazette": "2021-03-23",
+  "numac": 2021030463,
+  "document_start": "2021-04-01",
+  "document_end": null,
+  "in_force": "2021-04-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2021-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
