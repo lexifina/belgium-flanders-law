@@ -492,6 +492,22 @@ In artikel 7.12.1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 <br>
 " § 7. In afwijking van paragraaf 1 tot en met 4 komen dossiers waarbij de omgevingsvergunning voor stedenbouwkundige handelingen werd aangevraagd vanaf de dag dat voor de werken en doelgroep die het voorwerp uitmaakt van deze premie een btw-verlaging naar 6 procent in werking treedt, niet in aanmerking voor de sloop-en-heropbouwpremie indien zij op basis van de federale btw-wetgeving in aanmerking kunnen komen voor de btw-verlaging naar 6 procent bij sloop en heropbouw.".
 
+### ART 23.
+
+Aan artikel 7.14.1 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 18 september 2020, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 2, eerste lid wordt het bedrag "250 euro" vervangen door het bedrag "200 euro";<br>
+<br>
+2° in paragraaf 2, eerste lid wordt het bedrag "3200 euro" vervangen door het bedrag "1800 euro";<br>
+<br>
+3° in paragraaf 4 wordt het vierde lid vervangen door wat volgt:<br>
+<br>
+"Als op 1 maart premieaanvragen zijn aangemeld voor meer dan 25 percent van het in de begroting beschikbaar gestelde budget, of als op 1 mei premieaanvragen zijn aangemeld voor meer dan 50 percent van het in de begroting beschikbaar gestelde budget, of als op 1 augustus premieaanvragen zijn aangemeld voor meer dan 75 percent van het in de begroting beschikbaar gestelde budget, kan de minister op basis van een cijfermatig onderbouwde evaluatie besluiten het premiebedrag of het premieplafond voor toekomstige premieaanvragen gedurende het lopende jaar verlagen.";<br>
+<br>
+4° aan paragraaf 4 wordt een vijfde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"Voor toepassing van elk premiejaar of -periode bepaalt de datum van de eerste aanmelding, vermeld in § 4, eerste lid, het premiebedrag en de premievoorwaarden die voor dat premiejaar of -periode van toepassing zijn.".
+
 ### ART 24.
 
 Aan titel VII van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 9 oktober 2020, wordt een hoofdstuk XV, dat bestaat uit artikel 7.15.1. tot en met 7.15.6, toegevoegd, dat luidt als volgt:<br>
