@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035389,
+  "title": "Besluit van de Vlaamse Regering van 2021-03-26 tot wijziging van het besluit van de Vlaamse Regering van 23 februari 2018 tot uitvoering van het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren, wat betreft de doelgroep en premiebedragen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035389/VolledigDocument?datum=2021-04-01",
+  "source_sha256": "7b6461bf51d8d565cd032febd406e3c3967e87b06a11f74a71a8450ecd8e210a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035389&param=informatie",
+  "as_of": "2021-04-01",
+  "made": "2021-03-26",
+  "gazette": "2021-04-06",
+  "numac": 2021020737,
+  "document_start": "2021-04-01",
+  "document_end": null,
+  "in_force": "2021-04-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2021-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
