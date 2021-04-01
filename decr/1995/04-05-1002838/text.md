@@ -2660,79 +2660,95 @@ Als een schriftelijke mededeling het startpunt is voor een termijn en gedaan is 
 
 ### ART. 16.2.1.
 
-<P>De Vlaamse Regering is belast met de coördinatie en de inhoudelijke invulling   van het handhavingsbeleid inzake milieu en ruimtelijke   ordening.</P>
+<p>§ 1. Met inachtneming van de prerogatieven van de bevoegde overheden is de Vlaamse Regering belast met de coördinatie en de inhoudelijke invulling van het handhavingsbeleid inzake milieu, ruimtelijke ordening en de integratie ervan in omgeving, omgevingshandhavingsbeleid genaamd.<br>
+<br>
+§ 2. Om de milieuwetgeving, de Vlaamse Codex Ruimtelijke Ordening en het decreet van 25 april 2014 betreffende de omgevingsvergunning doelmatig te handhaven, overlegt de Vlaamse Regering met de overheden die daarvoor bevoegd zijn.<br>
+<br>
+De afspraken die gemaakt worden op basis van het overleg, vermeld in het eerste lid, worden in protocollen vastgelegd.<br>
+<br>
+De Vlaamse Regering kan de procedure bepalen om protocollen als vermeld in het tweede lid, vast te leggen.</p>
 
 ### ART. 16.2.2.
 
-<P>Ter ondersteuning van het Vlaams Parlement en de Vlaamse Regering wordt een   gewestelijke raad voor de handhaving van de milieuwetgeving en de handhaving van   de bepalingen van de Vlaamse Codex Ruimtelijke Ordening opgericht, hierna de   Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu te noemen.</P>
+<p>§ 1. De Vlaamse Regering maakt een vijfjaarlijks omgevingshandhavingsprogramma op dat de overkoepelende strategische en operationele beleidsdoelstellingen en beleidsprioriteiten voor een gewestelijk geïntegreerd en afgestemd omgevingshandhavingsbeleid bevat en dat de vijfjaarlijkse individuele handhavingsprioriteiten van de handhavingsinstanties bundelt. De overkoepelende beleidsdoelstellingen omvatten de gewestelijke beleidsvisie en de gewestelijke beleidslijnen voor omgevingshandhaving. Dit schept rechten noch plichten voor de rechtsonderhorigen.<br>
+<br>
+Aanbevelingen over de handhaving op gemeentelijk en provinciaal niveau en over de samenwerking met en tussen al de betrokken beleidsniveaus kunnen toegevoegd worden aan het omgevingshandhavingsprogramma, vermeld in het eerste lid.<br>
+<br>
+Het omgevingshandhavingsprogramma wordt opgemaakt in overeenstemming met het recht, met inbegrip van de algemene beginselen van behoorlijk bestuur.<br>
+<br>
+De Vlaamse Regering kan de beleidsprioriteiten, vermeld in het eerste lid, verfijnen of aanvullen.<br>
+<br>
+§ 2. De overheden die deel uitmaken van het Vlaamse Gewest en die belast zijn met de handhaving van het milieurecht, de Vlaamse Codex Ruimtelijke Ordening of het decreet van 25 april 2014 betreffende de omgevingsvergunning bezorgen op eenvoudig verzoek hun vijfjaarlijkse individuele handhavingsprioriteiten.<br>
+<br>
+De Vlaamse Regering nodigt de overheden die belast zijn met de handhaving van het milieurecht, de Vlaamse Codex Ruimtelijke Ordening of het decreet van 25 april 2014 betreffende de omgevingsvergunning en waarvoor het Vlaamse Gewest niet bevoegd is, uit om hun vijfjaarlijkse individuele handhavingsprioriteiten te bezorgen.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen voor de procedure om de individuele handhavingsprioriteiten te bezorgen.<br>
+<br>
+§ 3. De Vlaamse Regering kan voor het omgevingshandhavingsprogramma nadere regels vaststellen voor de inhoud, de opmaak, de inwerkingtreding, de verspreiding en de actualisering ervan.<br>
+<br>
+Voor de actualisering van de beleidsprioriteiten, vermeld in paragraaf 1, derde lid, kan de Vlaamse Regering nadere regels vaststellen voor de inwerkintreding en verspreiding ervan.<br>
+<br>
+§ 4. Het definitieve omgevingshandhavingsprogramma wordt vastgesteld op grond van:<br>
+1° een ontwerp van omgevingshandhavingsprogramma;<br>
+2° de adviezen van de volgende instanties over het ontwerp, vermeld in punt 1° :<br>
+a) de bevoegde strategische adviesraden over milieu, ruimtelijke ordening en omgeving;<br>
+b) de Sociaal-Economische Raad van Vlaanderen;<br>
+c) de Vereniging van Vlaamse Steden en Gemeenten;<br>
+d) de Vereniging van Vlaamse Streekontwikkelingsintercommunales.<br>
+<br>
+§ 5. Het Milieuhandhavingsprogramma 2015-2019 van 22 april 2016 blijft van kracht tot en met de dag vóór de datum van de inwerkingtreding van het vijfjaarlijkse omgevingshandhavingsprogramma.</p>
 
 ### ART. 16.2.3.
 
-<P>Met het oog op een doelmatige handhaving van de milieuwetgeving en de   bepalingen van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 pleegt de   Vlaamse Regering, daarin bijgestaan door de Vlaamse Hoge Handhavingsraad voor   Ruimte en Milieu, systematisch overleg met de daarvoor bevoegde   overheden.<BR><BR>De op basis van dat overleg gemaakte afspraken worden in   protocollen vastgelegd.<BR><BR>De Vlaamse Regering bepaalt de manier waarop de   protocollen worden vastgelegd.</P>
+<p>§ 1. De Vlaamse Regering rapporteert periodiek in het tweede en het vijfde jaar van de regeerperiode over het omgevingshandhavingsbeleid en de omgevingshandhavingsuitvoering.<br>
+<br>
+De rapportering omvat een beschrijving, analyse en evaluatie van de bestaande toestand van de omgevingshandhavingsuitvoering en van het gevoerde omgevingshandhavingsbeleid zoals opgenomen in de vastgestelde beleidsdoelstellingen en van de individuele handhavingsprioriteiten in het omgevingshandhavingsprogramma, vermeld in artikel 16.2.2.<br>
+<br>
+§ 2. Jaarlijks stellen alle overheden die deel uitmaken van het Vlaamse Gewest en die belast zijn met de handhaving van het milieurecht, de Vlaamse Codex Ruimtelijke Ordening of het decreet van 25 april 2014 betreffende de omgevingsvergunning, alle cijfermatige informatie ter beschikking waarover ze beschikken en die van nut kan zijn voor de periodieke rapportering, vermeld in paragraaf 1. Ze doen dat op eenvoudig verzoek of uit eigen beweging.<br>
+<br>
+Jaarlijks nodigt de Vlaamse Regering de overheden die belast zijn met de handhaving van het milieurecht, de Vlaamse Codex Ruimtelijke Ordening of het decreet van 25 april 2014 betreffende de omgevingsvergunning, waarvoor het Vlaamse Gewest niet bevoegd is, uit om de cijfermatige informatie waarover ze beschikken en die van nut kan zijn voor de periodieke rapportering, vrijwillig ter beschikking te stellen.<br>
+<br>
+Met het oog op de periodieke rapportering, vermeld in paragraaf 1, kan bijkomend aan de cijfermatige informatie, vermeld in het eerste en tweede lid, een bijbehorende toelichting gevraagd worden aan deze overheden.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen voor de procedure om de cijfermatige informatie en de bijbehorende toelichting te bezorgen.<br>
+<br>
+§ 3. De rapportering, vermeld in paragraaf 1, wordt meegedeeld aan het Vlaams Parlement.<br>
+<br>
+§ 4. De Vlaamse Regering kan nadere regels vaststellen voor de inhoud, de opmaak en de verspreiding van de rapportering, vermeld in paragraaf 1, en ook voor de jaarlijkse publicatie van de cijfermatige informatie.</p>
 
 ### ART. 16.2.4.
 
-De Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu coördineert de   opmaak van een vijfjaarlijks milieuhandhavingsprogramma dat de   handhavingsprioriteiten van de handhavingsinstanties, vermeld in dit decreet,   bundelt. De handhavingsinstanties stellen daarvoor zelf een individueel   vijfjaarlijks handhavingsprogramma op dat op eenvoudig verzoek wordt bezorgd aan   de Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu.<BR><BR>In het   milieuhandhavingsprogramma worden ook de strategische en operationele   doelstellingen van de&nbsp;Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu   vermeld die jaarlijks worden geëvalueerd in het   milieuhandhavingsrapport.<BR><BR>De Vlaamse Hoge Handhavingsraad voor Ruimte en   Milieu legt het milieuhandhavingsprogramma ter goedkeuring voor aan de Vlaamse   Regering.<BR><BR>De Vlaamse Regering kan de nadere regels vaststellen voor de   inhoud, de opstelling, de verspreiding en de actualisering van het   milieuhandhavingsprogramma. De Vlaamse Regering kan eveneens nadere regels   vaststellen voor de afstemming van het milieuhandhavingsprogramma met andere   beleidsdocumenten.
+De Vlaamse Regering organiseert een netwerk- en kennisplatform voor de handhavingspartners die betrokken zijn bij de handhaving van de milieuwetgeving, de Vlaamse Codex Ruimtelijke Ordening en het decreet van 25 april 2014 betreffende de omgevingsvergunning. Op dat forum wisselen ze informatie uit over hun taken en opdrachten en wordt de onderlinge kennisdeling gefaciliteerd om de stroomlijning van de handhaving te stimuleren.
 
 ### ART. 16.2.5.
 
-<P>Jaarlijks stelt de Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu een   handhavingsrapport op. Alle overheden die deel uitmaken van het Vlaamse Gewest   en die belast zijn met de handhaving van het milieurecht stellen, hetzij op   eenvoudige vraag van de Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu,   hetzij uit eigen beweging, alle informatie waarover ze beschikken en die van nut   kan zijn voor de opstelling van het handhavingsrapport, ter beschikking van de   Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu.<BR><BR>De Vlaamse Regering   zal de overheden die belast zijn met de handhaving van het milieurecht en   waarvoor het Vlaamse Gewest niet bevoegd is, uitnodigen om de informatie   waarover ze beschikken en die ook van nut kan zijn voor de opstelling van het   handhavingsrapport, vrijwillig ter beschikking te stellen van de Vlaamse Hoge   Handhavingsraad voor Ruimte en Milieu.<BR><BR>Het handhavingsrapport omvat   minstens de volgende onderdelen :<BR>1° een algemene evaluatie van het in het   afgelopen kalenderjaar gevoerde gewestelijke handhavingsbeleid;<BR>2° een   specifieke evaluatie van de inzet van de afzonderlijke   handhavingsinstrumenten;<BR>3° een overzicht van de gevallen waarin, binnen de   gestelde termijn, geen uitspraak werd gedaan over de beroepen tegen besluiten   houdende bestuurlijke maatregelen;<BR>4° een evaluatie van de   beslissingspraktijk van de parketten inzake het al dan niet strafrechtelijk   behandelen van een vastgesteld misdrijf inzake milieu;<BR>5° een overzicht en   vergelijking van het door de gemeenten en provincies gevoerde handhavingsbeleid   inzake milieu;<BR>6° een inventaris van de inzichten die tijdens de handhaving   werden opgedaan en die kunnen worden aangewend voor de verbetering van de   milieuregelgeving, beleidsvisies en beleidsuitvoering;<BR>7° aanbevelingen voor   de verdere ontwikkeling van het handhavingsbeleid inzake milieu.<BR><BR>Het   handhavingsrapport van de Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu kan   naast de rapportering over de milieuhandhaving ook rapportering over de   handhaving van de Vlaamse Codex Ruimtelijke Ordening bevatten. Alle overheden   die deel uitmaken van het Vlaamse Gewest en die belast zijn met de handhaving   van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, stellen daarvoor,   hetzij op eenvoudige vraag van de Vlaamse Hoge Handhavingsraad voor Ruimte en   Milieu, hetzij uit eigen beweging, alle informatie waarover ze beschikken en die   van nut kan zijn voor de opstelling van het handhavingsrapport, ter beschikking   van de Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu. De rapportering over   de handhaving van de Vlaamse Codex Ruimtelijke Ordening omvat minstens de   onderdelen opgesomd in het vorige lid.<BR><BR>De Vlaamse Hoge Handhavingsraad   voor Ruimte en Milieu deelt het handhavingsrapport mee aan de Vlaamse Regering.   Die bezorgt het handhavingsrapport aan het Vlaams Parlement, de   Sociaal-Economische Raad van Vlaanderen, de Milieu- en Natuurraad van   Vlaanderen, de Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed,   de provincies en de gemeenten.<BR><BR>De Vlaamse Regering kan nadere regels   vaststellen voor de inhoud, de opstelling en de verspreiding van het   handhavingsrapport.</P>
+<p>...</p>
 
 ## [AFDELING II ... (opgeh. decr. 26 februari 2021, art. 8, I: 1 april 2021)]
 
 ### ART. 16.2.6.
 
-<P>De Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu stelt de krachtlijnen   en de prioriteiten van het beleid inzake de handhaving van de milieuwetgeving   voor. Hij doet dat op eigen initiatief of op verzoek van het Vlaams Parlement of   de Vlaamse Regering.<BR><BR>De Vlaamse Hoge Handhavingsraad voor Ruimte en   Milieu kan op eigen initiatief of op verzoek van het Vlaams Parlement of de   Vlaamse Regering voorstellen en adviezen formuleren in het kader van het   handhavingsbeleid Ruimtelijke Ordening en ten aanzien van het gewestelijk   handhavingsprogramma ruimtelijke ordening zoals bedoeld in artikel 6.1.3, § 1,   van de Vlaamse Codex Ruimtelijke Ordening.</P>
+<p>...</p>
 
 ### ART. 16.2.7.
 
-<p>§ 1. De Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu telt dertien leden, alsook een vaste secretaris. De Vlaamse Regering benoemt de leden na voordracht, en de voorzitter, de ondervoorzitter en de vaste secretaris onder de personen die deskundig zijn op het vlak van de handhaving van het milieurecht of op het vlak van de handhaving van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.<br>
-<br>
-§ 2. De Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu wordt als volgt samengesteld :<br>
-1° een voorzitter;<br>
-2° een ondervoorzitter, deskundig op het vlak van de handhaving van de milieuwetgeving;<br>
-3° een ondervoorzitter, deskundig op het vlak van de handhaving van de Vlaamse Codex Ruimtelijke Ordening;<br>
-4° zeven leden op voordracht van de beleidsraad van het beleidsdomein Leefmilieu, Natuur en Energie;<br>
-5° een lid op voordracht van de beleidsraad van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
-6° een lid op voordracht van de Milieu- en Natuurraad van Vlaanderen;<br>
-7° een lid op voordracht van de Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<br>
-8° een lid op voordracht van de Sociaal-Economische Raad van Vlaanderen;<br>
-9° een lid op voordracht van de Vereniging van de Vlaamse Provincies;<br>
-10° een lid op voordracht van de Vereniging van Vlaamse Steden en Gemeenten.<br>
-<br>
-Voor de leden, vermeld in het eerste lid, 4° tot en met 10°, wordt telkens een plaatsvervanger aangewezen.<br>
-<br>
-De leden, vermeld in 4° tot en met 10°, worden voorgedragen op een dubbeltal dat in een evenwichtige vertegenwoordiging van mannen en vrouwen voorziet.<br>
-<br>
-Een lid mag geen verkozen politiek mandaat uitoefenen.<br>
-<br>
-De samenstelling, vermeld in het eerste lid, kan verder worden uitgebreid met :<br>
-1° een vertegenwoordiger, aangewezen op voordracht van het college van procureurs-generaal, ter vertegenwoordiging van de parketten-generaal bij de hoven van beroep;<br>
-2° een vertegenwoordiger, aangewezen op voordracht van het college van procureurs-generaal, ter vertegenwoordiging van de parketten bij de rechtbanken van eerste aanleg;<br>
-3° een vertegenwoordiger, aangewezen op voordracht van de bevoegde minister van Binnenlandse Zaken, ter vertegenwoordiging van de federale politie;<br>
-4° een vertegenwoordiger, aangewezen op voordracht van de bevoegde minister van Binnenlandse Zaken, ter vertegenwoordiging van de lokale politie.<br>
-<br>
-Voor de leden, vermeld in het vijfde lid, wordt ook telkens een plaatsvervanger aangewezen.<br>
-<br>
-Het niet aanwijzen van de vertegenwoordigers, vermeld in het vijfde lid, heeft geen gevolgen, noch voor de werking van de Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu, noch voor de geldigheid van de handelingen die de raad stelt.<br>
-<br>
-§ 3. De leden van de Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu worden benoemd voor vijf jaar. Hun benoeming is hernieuwbaar. Een lid van wie het mandaat vacant verklaard wordt, wordt binnen drie maanden vervangen.</p>
+<p>...</p>
 
 ### ART. 16.2.8.
 
-De Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu kan om bijzondere   vraagstukken te onderzoeken een beroep doen op externe deskundigen en kan   werkgroepen oprichten, onder de voorwaarden, bepaald in het huishoudelijk   reglement.
+...
 
 ### ART. 16.2.9.
 
-<P>De Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu stelt zijn   huishoudelijk reglement op, dat minstens het volgende regelt :<BR>1° de   bevoegdheden van de voorzitter en de ondervoorzitters;<BR>2° de wijze van   bijeenroeping en beraadslaging;<BR>3° de frequentie van de vergaderingen;<BR>4°   de voorwaarden waaronder de Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu   een beroep kan doen op externe deskundigen of op permanente of tijdelijke   werkgroepen.<BR><BR>Het huishoudelijk reglement en de wijzigingen ervan worden   ter goedkeuring voorgelegd aan de Vlaamse Regering.</P>
+<p>...</p>
 
 ### ART. 16.2.10.
 
-De Vlaamse Regering stelt de Vlaamse Hoge Handhavingsraad voor Ruimte en   Milieu een permanent secretariaat en de nodige middelen ter beschikking. Ze   stelt eveneens de vergoedingen vast die aan de leden van de Vlaamse Hoge   Handhavingsraad voor Ruimte en Milieu worden toegekend.
+...
 
 ### ART. 16.2.11.
 
-De Vlaamse Regering kan nadere regels vaststellen voor de organisatie en   de werking van de Vlaamse Hoge Handhavingsraad voor Ruimte en   Milieu.
+...
 
 ## [HOOFDSTUK III TOEZICHT (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
 
