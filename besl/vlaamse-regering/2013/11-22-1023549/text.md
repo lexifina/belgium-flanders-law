@@ -229,7 +229,7 @@ De basissubsidie voor groepsopvang bedraagt&nbsp;752,28 euro per gesubsidieerde 
 2° een deel op basis van de leeftijd van de verantwoordelijken en van de medewerkers die in de kinderopvanglocatie instaan voor de systematische ondersteuning van de verantwoordelijke en die voldoen aan de voorwaarden over de kennis van het Nederlands en over de kwalificatie waaraan de verantwoordelijke moet voldoen.</p>
 
 <p>Het deel op basis van kinderopvangprestaties, vermeld in het eerste lid, 1°, wordt als volgt berekend :<br>
-1° de subsidie bedraagt 23,24 euro voor een kinderopvangprestatie die vijf tot elf uur duurt, en bedraagt 60% van dat bedrag voor een kinderopvangprestatie die minder dan vijf uur duurt;<br>
+1° de subsidie bedraagt 24,06 euro voor een kinderopvangprestatie die vijf tot elf uur duurt, en bedraagt 60% van dat bedrag voor een kinderopvangprestatie die minder dan vijf uur duurt;<br>
 2° alle kinderopvangprestaties van elke kinderopvanglocatie gezinsopvang uit de subsidiegroep die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1, tellen mee, met uitzondering van de volgende kinderopvangprestaties :<br>
 a) de kinderopvangprestaties 's nachts;<br>
 b) de kinderopvangprestaties voor de kinderen die tot het thuismilieu van de kinderbegeleider gezinsopvang behoren, en voor wie de kinderbegeleider de verantwoordelijkheid draagt;<br>
@@ -848,7 +848,7 @@ Binnen de overgangsperiode van twaalf jaar en voor de bedragen, vermeld in het e
 2° fase 2: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 416,47 euro en het bedrag, vermeld in het eerste lid, 2°, met 7,28 euro. Deze fase heeft uitwerking vanaf 1 december 2018;<br>
 3° fase 3: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 630,78 euro en het bedrag, vermeld in het eerste lid, 2°, met 11,04 euro. Deze fase heeft uitwerking vanaf 1 december 2018;<br>
 4° fase 4: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 417,21 euro en het bedrag, vermeld in het eerste lid, 2°, met 7,31 euro. Deze fase heeft uitwerking vanaf 1 juli 2020;<br>
-5° fase 5: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 355,87 euro en het bedrag, vermeld in het eerste lid, 2°, met 6,23 euro;<br>
+5° fase 5: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 380,69 euro en het bedrag, vermeld in het eerste lid, 2°, met 6,67 euro. Deze fase heeft uitwerking met ingang van 1 april 2021;<br>
 6° fase 6: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 355,87 euro en het bedrag, vermeld in eerste lid, 2°, met 6,23 euro;<br>
 7° fase 7: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 355,07 euro en het bedrag, vermeld in het eerste lid, 2°, met 6,20 euro.</p>
 
@@ -895,7 +895,7 @@ In afwijking van artikel 21 heeft de organisator een bezetting :<BR>1° van   70
 ### ART. 65.
 
 Zolang de kinderbegeleider werkt volgens het sociaal statuut van de aangesloten onthaalouders, betaalt de organisator aan de kinderbegeleider:<br>
-1° een kostenvergoeding van 20,77 euro per kinderopvangprestatie die vijf tot elf uur duurt, 60% van dat bedrag per kinderopvangprestatie die minder dan vijf uur duurt, en 160% van dat bedrag per kinderopvangprestatie die elf uur of meer duurt, of per kinderopvangprestatie 's nachts;<br>
+1° een kostenvergoeding van 21,55 euro per kinderopvangprestatie die vijf tot elf uur duurt, 60% van dat bedrag per kinderopvangprestatie die minder dan vijf uur duurt, en 160% van dat bedrag per kinderopvangprestatie die elf uur of meer duurt, of per kinderopvangprestatie 's nachts;<br>
 2° de subsidie flexibele gezinsopvang, vermeld in artikel 40/1, eerste lid, 1° ;<br>
 3° de subsidie voor individuele inclusieve kinderopvang, vermeld in artikel 41, per kinderopvangprestatie van een kind met een specifieke zorgbehoefte voor wie het agentschap een specifieke toekenning van bepaalde duur heeft verleend.
 
