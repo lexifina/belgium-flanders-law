@@ -33,7 +33,7 @@ Het agentschap kan conform de bepalingen van dit besluit een subsidie toekennen 
 
 ### ART 3.
 
-De subsidie, vermeld in artikel 4, kan ten vroegste ingaan vanaf 1 april 2019 en kan uiterlijk lopen tot en met 31 maart 2021.<br>
+De subsidie, vermeld in artikel 4, kan ten vroegste ingaan vanaf 1 april 2019 en kan uiterlijk lopen tot en met 31 maart 2023.<br>
 <br>
 In afwijking van het eerste lid, gaat de subsidie in vanaf 1 januari 2019 voor de kinderbegeleiders gezinsopvang die al onder het werknemersstatuut werken in het kader van het besluit van de Vlaamse Regering van 22 mei 2015 houdende de regeling van de toekenning van een subsidie voor een vernieuwend project betreffende het werknemersstatuut van de kinderbegeleider gezinsopvang aan organisatoren met een vergunning.
 
