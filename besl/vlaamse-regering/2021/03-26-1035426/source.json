@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035426,
+  "title": "Besluit van de Vlaamse Regering van 2021-03-26 houdende de verlenging van diverse maatregelen ingevolge COVID-19 voor het onderwijspersoneel, voor uitzonderlijke opvang in de internaten, IPO en MPIGO, busbegeleiders in het buitengewoon onderwijs en contactonderzoek door de centra voor leerlingenbegeleiding voor het derde trimester van schooljaar 2020-2021",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035426/VolledigDocument?datum=2021-04-01",
+  "source_sha256": "7349b5ef9c1b7154df52688be8f7fa42ae71a8635b34ea311f6f1049ed984fd1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035426&param=informatie",
+  "as_of": "2021-04-01",
+  "made": "2021-03-26",
+  "gazette": "2021-04-09",
+  "numac": 2021030925,
+  "document_start": "2021-04-10",
+  "document_end": null,
+  "in_force": "2021-04-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
