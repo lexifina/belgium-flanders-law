@@ -562,14 +562,19 @@ Het agentschap kan geen algemene oproep versturen voordat de minister het goedke
 
 ### ART. 58.
 
-Het agentschap doet op basis van de programmatieregels, vermeld in artikel 57, een algemene oproep tot indiening van een aanvraag van een subsidiebelofte, en vermeldt daarbij:<br>
-1° dat het om een standaard vergelijkende procedure gaat waarbij de beslissingen tot subsidiebelofte definitief zijn, ondanks een eventueel bezwaar of beroep tegen een weigeringsbeslissing van een andere aanvrager;<br>
-2° de begindatum en einddatum voor de indiening van een aanvraag van een subsidiebelofte, waarbij de termijn tussen de begindatum en de einddatum minstens twee maanden bedraagt;<br>
-3° de beslissingstermijnen, vermeld in artikel 63 tot en met 74;<br>
-4° het aanvraagformulier dat gebruikt moet worden;<br>
-5° de criteria van&nbsp;ontvankelijkheid, voorrang, uitsluiting en gegrondheid;<br>
-6° het totaal te verdelen subsidiebudget, en de wijze waarop het verdeeld zal worden conform artikel 57;<br>
-7° een raming van het aantal toe te kennen kinderopvangplaatsen en het soort kinderopvangplaatsen op basis van de bepaling, vermeld in punt 6°.
+Conform het tweede tot en met het vierde lid kent het agentschap een subsidiebelofte toe voor de basissubsidie voor een kinderopvangplaats waarvoor de organisator het systeem inkomenstarief, vermeld in artikel 27 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, toepast of zal toepassen.<br>
+<br>
+Als er budget is om de basissubsidie voor kinderopvangplaatsen waarvoor de organisator het systeem inkomenstarief, vermeld in artikel 27 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, toepast of zal toepassen, toe te kennen, doet het agentschap een algemene oproep bij kandidaten om een aanvraag van een subsidiebelofte voor de basissubsidie in te dienen.<br>
+<br>
+De algemene oproep van het agentschap, vermeld in het tweede lid, bevat al de volgende gegevens:<br>
+1° het subsidiebudget dat bestemd is om kinderopvangplaatsen, waarvoor de organisator met het systeem inkomenstarief, vermeld in artikel 27 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, werkt of zal werken, een basissubsidie toe te kennen, en vanaf wanneer het subsidiebudget beschikbaar is;<br>
+2° de voorafname van het budget voor de grootsteden Antwerpen, het tweetalige gebied Brussel-hoofdstad en Gent. Tot 31 december 2024 gelden volgende percentages:<br>
+a) 15% voor Antwerpen;<br>
+b) 10% voor het tweetalige gebied Brussel-hoofdstad;<br>
+c) 5% voor Gent;<br>
+3° de gegevens, vermeld in artikel 57, § 3, tweede lid, 1°, 6°, 9°, 11°, 12°, 13° en 14°, van dit besluit.<br>
+<br>
+De algemene oproep vindt plaats conform artikel 57, § 4.
 
 ## HOOFDSTUK 3 Aanvraag en toekenning van een subsidiebelofte
 
@@ -591,6 +596,7 @@ d) het gevraagde aantal subsidieerbare kinderopvangplaatsen;<br>
 5° de gegevens over de wijze waarop de organisator de geplande realisatie van de gevraagde subsidie zal doen:<br>
 a) als dat relevant is: de naam en het adres van de kinderopvanglocatie;<br>
 b) voor de verdeling van subsidiebeloftes naar aanleiding van een algemene oproep als vermeld in artikel 57 of 58, de gegevens waaruit blijkt dat voldaan is aan de bepalingen van de algemene oproep, vermeld in artikel 57 of&nbsp;58;<br>
+c) voor de subsidiebelofte voor de basissubsidie voor kinderopvangplaatsen waarvoor de organisator met een vrije prijs werkt of zal werken, en die is aangevraagd conform artikel 61, tweede lid: de gegevens waaruit blijkt op welke manier de organisator tegen de gewenste startdatum een vergunning zal hebben en kan voldoen aan de subsidievoorwaarden;<br>
 6° een verklaring op erewoord over:<br>
 a) het feit dat de persoon die de aanvraag doet, gemachtigd is om te handelen in naam van de organisator;<br>
 b) de kennisname van de voorwaarden voor de specifieke dienstverlening, vermeld in het Subsidiebesluit van 22 november 2013;<br>
@@ -602,7 +608,9 @@ Naast het aanvraagformulier, vermeld in artikel 59, bezorgt de organisator de do
 
 ### ART. 61.
 
-De aanvraag wordt in het kader van een algemene oproep als vermeld in artikel 57 of 58,&nbsp;ingediend binnen de in de algemene oproep vastgelegde termijn, vermeld in artikel 58.
+De aanvraag in het kader van een algemene oproep als vermeld in artikel 57 of 58, wordt ingediend binnen de in de algemene oproep vastgelegde termijn, vermeld in artikel 58.<br>
+<br>
+De aanvraag van de basissubsidie voor kinderopvangplaatsen waarvoor de organisator met een vrije prijs werkt, kan op elk moment ingediend worden als er nog budget beschikbaar is. Het agentschap behandelt die aanvragen in de volgorde waarin ze ontvangen worden.
 
 ### ART. 62.
 
@@ -619,7 +627,7 @@ Als de organisator van een kinderopvanglocatie die recht heeft op een   subsidie
 ### ART. 63.
 
 De aanvraag van een subsidiebelofte is ontvankelijk als de aanvraag cumulatief aan de volgende voorwaarden voldoet. De aanvraag:<br>
-1° wordt ingediend binnen de in de oproep vastgelegde termijnen;<br>
+1° wordt ingediend binnen de in de oproep vastgelegde termijnen, vermeld in artikel 57, § 3, tweede lid, 11°, of artikel 58, derde lid, 3°, of, wat betreft de aanvraag, vermeld in artikel 61, tweede lid, wordt die aanvraag niet ingediend nadat het agentschap meedeelt dat er geen budget meer beschikbaar is;<br>
 2° bevat de nodige gegevens op het aanvraagformulier, vermeld in artikel 59;<br>
 3° bevat de nodige documenten, vermeld in artikel 60 en 62;<br>
 4° voldoet aan eventuele bijkomende ontvankelijkheidsvoorwaarden die zijn opgenomen in het beslissingskader, vermeld in artikel 57, § 3, tweede lid, 14°, of vermeld in artikel 58, derde lid, 3°.
@@ -666,6 +674,12 @@ Als de minister het goedkeuringstoezicht niet heeft uitgeoefend binnen de termij
 ### ART. 71.
 
 Het agentschap kan tijdens de termijn, vermeld in artikel 70, bijkomende gegevens vragen aan de organisator. De organisator bezorgt die gegevens binnen de door het agentschap bepaalde termijn.
+
+### ART 71/1.
+
+Het agentschap beslist over de gegrondheid van de aanvraag van een subsidiebelofte voor de basissubsidie voor kinderopvangplaatsen waarvoor de organisator met een vrije prijs werkt of zal werken, uiterlijk zestig kalenderdagen na de datum van de beslissing over de ontvankelijkheid van de aanvraag, vermeld in artikel 66.<br>
+<br>
+Het agentschap kan de subsidiebelofte toekennen binnen de perken van het beschikbare budget. Als er geen budget meer beschikbaar is, informeert het agentschap onmiddellijk alle organisatoren daarover schriftelijk en via de website.
 
 ### ART. 72.
 
@@ -808,12 +822,7 @@ Het agentschap kan de aanvraag tot wijziging van een subsidietoekenning toekenne
 a) de organisator voldeed het voorgaande kalenderjaar in de nieuwe subsidiegroep voor de subsidieerbare kinderopvangplaatsen aan de voorwaarden, vermeld in artikel 21 van het Subsidiebesluit van 22 november 2013 of als dat niet het geval is, kan hij aantonen dat hij de vier meest recente kwartalen wel voldoet;<br>
 b) de organisator kan aantonen dat hij na de overheveling minstens evenveel vergunde kinderopvangplaatsen zal hebben als subsidieerbare kinderopvangplaatsen in de zorgregio en dat hij na de overheveling zal voldoen aan de voorwaarden, vermeld in artikel 42, tweede lid, van het Vergunningsbesluit van 22 november 2013;<br>
 c) de organisator kan aantonen dat hij na de overheveling zal voldoen aan de voorwaarden, vermeld in artikel 21 van het Subsidiebesluit van 22 november 2013, in de nieuwe zorgregio;;<br>
-2° een organisator die subsidieerbare kinderopvangplaatsen van een subsidiegroep gezinsopvang of een subsidiegroep groepsopvang door samenwerkende onthaalouders wil overhevelen naar een subsidiegroep in een aangrenzende zorgregio op voorwaarde dat:<br>
-a) de organisator ten gevolge van de omzetting naar aanleiding van de inwerkingtreding van het decreet van 20 april 2012 een klein aantal subsidieerbare kinderopvangplaatsen heeft in een subsidiegroep;<br>
-b) de organisator de overheveling vraagt na stopzetting van de laatste kinderopvanglocatie in die zorgregio;<br>
-c) de overheveling gebeurt naar de subsidiegroep in de aangrenzende zorgregio waar hij op het moment van de inwerkingtreding van het decreet van 20 april 2012, al subsidieerbare kinderopvangplaatsen had en waar hij de meeste subsidieerbare kinderopvangplaatsen heeft op het moment van de aanvraag;<br>
-d) er in die oorspronkelijke subsidiegroep sinds de omzetting geen nieuwe vergunning voor gezinsopvang of groepsopvang door samenwerkende onthaalouders is opgestart;<br>
-e) het een overheveling betreft van maximaal acht subsidieerbare kinderopvangplaatsen;<br>
+2° ...<br>
 3° een organisator die subsidieerbare kinderopvangplaatsen, met uitzondering van subsidieerbare kinderopvangplaatsen met alleen basissubsidie, wil overhevelen naar een andere geografische subsidiegroep wegens de verhuizing van een kinderopvanglocatie groepsopvang op voorwaarde dat:<br>
 a) de nieuwe kinderopvanglocatie zich op korte afstand bevindt van de kinderopvanglocatie uit de subsidiegroep waar de subsidieerbare kinderopvangplaatsen zich bevonden;<br>
 b) de organisator kan aantonen dat de gemeente waarnaar de subsidieerbare kinderopvangplaatsen worden overgeheveld, een grotere nood heeft aan kinderopvang dan de gemeente waar de kinderopvanglocatie was;<br>
@@ -830,8 +839,11 @@ a) de organisator voldeed het voorgaande kalenderjaar in de nieuwe subsidiegroep
 b) de organisator kan aantonen dat hij na de overheveling minstens evenveel vergunde kinderopvangplaatsen zal hebben als subsidieerbare kinderopvangplaatsen in de zorgregio en dat hij zal voldoen aan de voorwaarden, vermeld in artikel 42, tweede lid, van het Vergunningsbesluit van 22 november 2013;<br>
 c) de organisator kan aantonen dat hij na de overheveling zal voldoen aan de voorwaarden, vermeld in artikel 21 van het Subsidiebesluit van 22 november 2013, in de nieuwe zorgregio;<br>
 d) de lokale besturen van de gemeenten van de zorgregio waar de organisator nieuwe vergunde kinderopvangplaatsen zal realiseren voor die overheveling, geven een positief advies over de nieuwe vergunde en subsidieerbare kinderopvangplaatsen.<br>
+8° een organisator die de subsidieerbare kinderopvangplaatsen, waarvoor het agentschap zonder de overheveling een beslissing tot vermindering of stopzetting van subsidieerbare kinderopvangplaatsen zal nemen wegens niet-naleving van de voorwaarden, vermeld in artikel 21 van het Subsidiebesluit van 22 november 2013, of omdat de termijn van het voorbehoud, vermeld in artikel 4, 2°, van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, is verstreken, wil overhevelen van een subsidiegroep gezinsopvang of subsidiegroep groepsopvang door samenwerkende onthaalouders naar een subsidiegroep groepsopvang. Het agentschap beslist hoeveel subsidieerbare kinderopvangplaatsen maximaal overgeheveld kunnen worden. Die overheveling kan alleen als de organisator voldoet aan al de volgende voorwaarden:<br>
+a) de kinderopvangplaatsen worden overgeheveld naar een gemeente die behoort tot de subsidiegroep gezinsopvang of groepsopvang samenwerkende onthaalouders van waaruit de plaatsen worden overgeheveld;<br>
+b) de organisator voldoet binnen de gemeente, waarnaar de plaatsen overgeheveld worden, aan de voorwaarden, vermeld in punt 7°, a) tot en met c).<br>
 <br>
-Als de organisator in het kalenderjaar van de overheveling van subsidieerbare kinderopvangplaatsen conform het geval, vermeld in het eerste lid, 7°, niet voldoet aan de voorwaarden, vermeld in artikel 21 van het Subsidiebesluit van 22 november 2013, in de zorgregio waarnaar de plaatsen overgeheveld zijn, vermindert het agentschap automatisch het aantal subsidieerbare plaatsen met maximaal het aantal overgehevelde plaatsen, met ingang van 1 januari van het kalenderjaar na de overheveling.
+Als de organisator in het kalenderjaar van de overheveling van subsidieerbare kinderopvangplaatsen conform het geval, vermeld in het eerste lid, 7° of 8°, niet voldoet aan de voorwaarden, vermeld in artikel 21 van het Subsidiebesluit van 22 november 2013, in de zorgregio of de gemeente&nbsp;waarnaar de plaatsen overgeheveld zijn, vermindert het agentschap automatisch het aantal subsidieerbare plaatsen met maximaal het aantal overgehevelde plaatsen, met ingang van 1 januari van het kalenderjaar na de overheveling.
 
 ### ART. 89.
 
@@ -1164,6 +1176,10 @@ De organisator die op de datum van de inwerkingtreding van het decreet van   20 
 <p>In afwijking van het eerste lid, is de subsidiebelofte slechts drie maanden geldig als het bestaande voorbehoud geldig is tot en met 1 april 2014.</p>
 
 <p>De subsidiebelofte, vermeld in het eerste en het tweede lid, zijn niet verlengbaar.</p>
+
+### ART 122/1.
+
+Tot en met 31 maart 2026 wordt voor de toekenning van de basissubsidie voor kinderopvangplaatsen die voor 1 april 2021 vergund zijn en waarvoor de organisator met een vrije prijs werkt, geen subsidiebelofte toegekend volgens de procedure als vermeld in artikel 61, tweede lid, maar wordt de subsidiebelofte toegekend na een algemene oproep als vermeld in artikel 58.
 
 ## Afdeling 4 Nieuwe aanvragen
 
