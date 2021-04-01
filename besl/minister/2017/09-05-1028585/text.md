@@ -78,20 +78,26 @@ Als niet is voldaan aan een of elk van beide voorwaarden, vermeld in het eerste 
 ### ART 4.
 
 Een project dat voorziet in de nieuwbouw van sociale huurwoningen, en een project dat voorziet in de verwerving van een of meer goede woningen, passen in het bindend sociaal objectief van de gemeente als een van de volgende gevallen zich voordoet:<br>
-1° het project ligt in een gemeente die haar objectief voor sociale huurwoningen nog niet heeft behaald en dat niet zal behalen, rekening houdend met het gerealiseerde en geplande sociaal huuraanbod;<br>
-2° het project past in een sociaal woonbeleidsconvenant als vermeld in artikel 5.52, eerste lid, van de Vlaamse Codex Wonen van 2021.<br>
+1° het project ligt in een gemeente met een positief saldo op de BSO-planner van het Projectportaal en het project overschrijdt met maximaal tien eenheden de BSO-planner,<br>
+2° het project ligt in een gemeente met een positief saldo op de convenant-planner van het Projectportaal en het project overschrijdt met maximaal tien eenheden de convenant-planner.<br>
 <br>
-Voor de toepassing van het eerste lid worden de volgende gegevens gebruikt:<br>
-1° het gerealiseerde sociaal huuraanbod in de gemeente: het aanbod aan sociale huurwoningen volgens de meest recente jaarlijkse meting van het sociaal huuraanbod, waarbij:<br>
-a) bijkomende sociale huurwoningen van sociale verhuurkantoren sinds de nulmeting pas meetellen als ten minste 90% van het objectief voor sociale huurwoningen is behaald of zal behaald worden, rekening houdend met het gerealiseerde en geplande sociaal huuraanbod;<br>
+De BSO-planner, vermeld in het eerste lid, 1°, monitort het gerealiseerde en het geplande sociale huuraanbod in functie van het bindend sociaal objectief, waarbij:<br>
+1° voor het gerealiseerde sociale huuraanbod in de gemeente: het aanbod aan sociale huurwoningen volgens de meest recente jaarlijkse meting van het sociale huuraanbod, waarbij:<br>
+a) bijkomende sociale huurwoningen van sociale verhuurkantoren sinds de nulmeting pas meetellen als ten minste 90 % van het objectief voor sociale huurwoningen behaald is of behaald zal worden, rekening houdend met het gerealiseerde en geplande sociale huuraanbod;<br>
 b) overdrachten waarvan de verkoopovereenkomst wordt gesloten na 31 oktober 2017, van sociale huurwoningen van een gemeente, OCMW, intergemeentelijk samenwerkingsverband of OCMW-vereniging aan een sociale huisvestingsmaatschappij niet meetellen;<br>
-2° het geplande sociaal huuraanbod in de gemeente: het aanbod aan sociale huurwoningen volgens de meest recente Projectenlijst die de VMSW aan de beoordelingscommissie heeft voorgelegd.<br>
+2° voor het geplande sociale huuraanbod in de gemeente: het aanbod aan sociale huurwoningen volgens de meest recente Projectenlijst die de VMSW aan de beoordelingscommissie heeft voorgelegd.<br>
+<br>
+De convenant-planner, vermeld in het eerste lid, 2°, monitort het gerealiseerde en het geplande sociale huuraanbod dat verwezenlijkt is met een sociaal woonbeleidsconvenant als vermeld in artikel 5.52, eerste lid, van de Vlaamse Codex Wonen van 2021.<br>
+<br>
+De gemeente kan voor een overschrijding met meer dan tien eenheden een gemotiveerd verzoek tot afwijking richten aan de Vlaamse minister bevoegd voor het woonbeleid.<br>
 <br>
 In afwijking van het eerste lid passen de projecten, vermeld in het eerste lid, in het bindend sociaal objectief van de gemeente als ze louter gefinancierd worden op de wijze, vermeld in artikel 4.10, 2°, h), van het Besluit Vlaamse Codex Wonen van 2021. Dit lid is niet van toepassing op huurwoningen die worden gerealiseerd met een lening vanuit het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, vermeld in artikel 5.11, tweede lid, van de Vlaamse Codex Wonen van 2021.
 
 ### ART 5.
 
 Een project dat voorziet in de vervangingsbouw van sociale huurwoningen waarbij er sprake is van een toename met meer dan 20% ten opzichte van het huidige aantal sociale huurwoningen op projectniveau, en een project dat een investeringsverrichting omvat waarvoor een vergunning, een melding of een verhuisbeweging is vereist waarbij er sprake is van een toename met meer dan 20% ten opzichte van het huidige aantal sociale huurwoningen op projectniveau, passen binnen het bindend sociaal objectief van de gemeente als een van de gevallen, vermeld in artikel 4, eerste lid, zich voordoet.<br>
+<br>
+De gemeente kan voor een overschrijding met meer dan tien eenheden een gemotiveerd verzoek tot afwijking richten aan de Vlaamse minister bevoegd voor het woonbeleid.<br>
 <br>
 In afwijking van het eerste lid passen de projecten, vermeld in het eerste lid, in het bindend sociaal objectief van de gemeente als ze louter gefinancierd worden op de wijze, vermeld in artikel 4.10, 2°, h), van het Besluit Vlaamse Codex Wonen van 2021. Dit lid is niet van toepassing op huurwoningen die worden gerealiseerd met een lening vanuit het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, vermeld in artikel 5.11, tweede lid, van de Vlaamse Codex Wonen van 2021.
 
