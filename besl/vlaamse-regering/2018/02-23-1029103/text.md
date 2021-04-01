@@ -60,7 +60,9 @@ Als de ondernemer een beroepsbezigheid als zaakvoerder, vennoot of bestuurder va
 9° zich ertoe verbinden gedurende de hele periode waarin de transitiepremie toegekend wordt voor de laatste werkgever bij wie de ondernemer in dienst was, geen diensten te verrichten als zelfstandige ten voordele van of in opdracht van, die werkgever of van de groep waartoe die werkgever behoort;<br>
 10° gedurende de afgelopen zes jaar vanaf de datum van de laatste uitbetaling van een transitiepremie tot de datum waarop de transitiepremie opnieuw wordt aangevraagd het voordeel van de transitiepremie voor ondernemers niet hebben gekregen.<br>
 <br>
-In geval van een crisis met een ernstige sociale en economische impact die als dusdanig door de minister is erkend, wordt de termijn van zes maanden, vermeld in het eerste lid, 2°, automatisch verlengd met telkens 3 maanden tot zolang de minister dit niet meer noodzakelijk acht.
+In geval van een crisis met een ernstige sociale en economische impact die als dusdanig door de minister is erkend, wordt de termijn van zes maanden, vermeld in het eerste lid, 2°, automatisch verlengd met telkens 3 maanden tot zolang de minister dit niet meer noodzakelijk acht.<br>
+<br>
+De leeftijdsvoorwaarde van 45 jaar, vermeld in het eerste lid, punt 6°, geldt niet voor aanvragen die worden ingediend met ingang van 1 april 2021 tot en met 31 maart 2022.
 
 ## HOOFDSTUK 3. Bedrag en looptijd van de transitiepremie
 
@@ -110,9 +112,57 @@ In geval van een crisis met een ernstige sociale en economische impact die als d
 	</tbody>
 </table>
 
+### ART 3/1.
+
+In afwijking van artikel 3 wordt de transitiepremie maandelijks toegekend voor maximaal 24 maanden, op zijn vroegste vanaf de maand die volgt op de start van een beroepsbezigheid als zelfstandige in hoofdberoep, voor de hiernavolgende categorieën van ondernemers:<br>
+1° de ondernemers die de leeftijdsvoorwaarde van 45 jaar niet hebben bereikt en die met ingang van 1 april 2021 een aanvraag hebben ingediend;<br>
+2° de ondernemers die de leeftijdsvoorwaarde van 45 jaar hebben bereikt en die met ingang van 1 juni 2021 een aanvraag hebben ingediend.<br>
+<br>
+Het bruto bedrag van de transitiepremie vertoont het volgende degressieve verloop:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Maanden</td>
+			<td>In euro per maand</td>
+		</tr>
+		<tr>
+			<td>1 tot 3</td>
+			<td>500</td>
+		</tr>
+		<tr>
+			<td>4 tot 6</td>
+			<td>450</td>
+		</tr>
+		<tr>
+			<td>7 tot 9</td>
+			<td>400</td>
+		</tr>
+		<tr>
+			<td>10 tot 12</td>
+			<td>350</td>
+		</tr>
+		<tr>
+			<td>13 tot 15</td>
+			<td>300</td>
+		</tr>
+		<tr>
+			<td>16 tot 18</td>
+			<td>250</td>
+		</tr>
+		<tr>
+			<td>19 tot 21</td>
+			<td>200</td>
+		</tr>
+		<tr>
+			<td>22 tot 24</td>
+			<td>150</td>
+		</tr>
+	</tbody>
+</table>
+
 ### ART 4.
 
-De uitbetaling van de transitiepremie wordt geschorst tijdens de periodes van primaire ongeschiktheid en moederschapsrust die gedekt zijn door uitkeringen in het kader van de ziekteverzekering voor zelfstandigen. De ondernemer behoudt het recht op het maximale aantal maandelijkse premies vermeld in artikel 3.
+De uitbetaling van de transitiepremie wordt geschorst tijdens de periodes van primaire ongeschiktheid en moederschapsrust die gedekt zijn door uitkeringen in het kader van de ziekteverzekering voor zelfstandigen. De ondernemer behoudt het recht op het maximale aantal maandelijkse premies vermeld in artikel 3 en artikel 3/1.
 
 ### ART 5.
 
