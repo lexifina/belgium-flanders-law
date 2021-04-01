@@ -19,19 +19,19 @@ In dit besluit wordt verstaan onder het besluit van 18 december 2020: het beslui
 
 ### ART 2.
 
-De voorzieningen vermeld, in artikel 1, 18°, van het besluit van 18 december 2020 kunnen voor de periode van 1 januari 2021 tot en met 31 maart 2021 aanspraak maken op een tegemoetkoming als vermeld in artikel 6, eerste lid, van het voormelde besluit van 18 december 2020.
+De voorzieningen vermeld, in artikel 1, 18°, van het besluit van 18 december 2020 kunnen voor de periode van 1 januari 2021 tot en met 30 juni 2021 aanspraak maken op een tegemoetkoming als vermeld in artikel 6, eerste lid, van het voormelde besluit van 18 december 2020.
 
 ### ART 3.
 
 Voor de toepassing van artikel 13, tweede lid, van het besluit van de Vlaamse Regering van 30 september 2011 betreffende de erkenning en subsidiëring van diensten Ondersteuningsplan en een mentororganisatie voor het voortraject van personen met een handicap voor het jaar 2020 wordt het aantal personeelspunten dat overeenstemt met het aantal begeleidingen waarvoor de dienst is erkend, proportioneel verminderd rekening houdend met de periode die loopt van 1 oktober 2020 tot en met 31 december 2020.<br>
 <br>
-Voor de toepassing van artikel 13, tweede lid, van het besluit van de Vlaamse Regering van 30 september 2011 betreffende de erkenning en subsidiëring van diensten Ondersteuningsplan en een mentororganisatie voor het voortraject van personen met een handicap voor het jaar 2021 wordt het aantal personeelspunten dat overeenstemt met het aantal begeleidingen waarvoor de dienst is erkend, proportioneel verminderd met een periode die gelijk is aan een achtste van een kalenderjaar.
+Voor de toepassing van artikel 13, tweede lid, van het besluit van de Vlaamse Regering van 30 september 2011 betreffende de erkenning en subsidiëring van diensten Ondersteuningsplan en een mentororganisatie voor het voortraject van personen met een handicap voor het jaar 2021 wordt het aantal personeelspunten dat overeenstemt met het aantal begeleidingen waarvoor de dienst is erkend, proportioneel verminderd met een periode die gelijk is aan een vierde van een kalenderjaar.
 
 ### ART 4.
 
 Voor de toepassing van artikel 10, § 1, zevende lid, van het besluit van de Vlaamse Regering van 19 juli 2007 tot vaststelling van de bepalingen en voorwaarden van erkenning en subsidiëring van organisaties inzake vrijetijdszorg voor personen met een handicap voor het jaar 2020 wordt het minimaal aantal prestaties, vermeld in artikel 10, § 1, zevende lid, proportioneel verminderd rekening houdend met de periode die loopt van 1 oktober 2020 tot en met 31 december 2020.<br>
 <br>
-Voor de toepassing van artikel 10, § 1, zevende lid, van het besluit van de Vlaamse Regering van 19 juli 2007 tot vaststelling van de bepalingen en voorwaarden van erkenning en subsidiëring van organisaties inzake vrijetijdszorg voor personen met een handicap voor het jaar 2021 wordt het minimaal aantal prestaties, vermeld in artikel 10, § 1, zevende lid, proportioneel verminderd rekening houdend met de periode die loopt van 1 januari 2021 tot en met 31 maart 2021.
+Voor de toepassing van artikel 10, § 1, zevende lid, van het besluit van de Vlaamse Regering van 19 juli 2007 tot vaststelling van de bepalingen en voorwaarden van erkenning en subsidiëring van organisaties inzake vrijetijdszorg voor personen met een handicap voor het jaar 2021 wordt het minimaal aantal prestaties, vermeld in artikel 10, § 1, zevende lid, proportioneel verminderd rekening houdend met de periode die loopt van 1 januari 2021 tot en met 30 juni 2021.
 
 ### ART 5.
 
@@ -39,13 +39,13 @@ In dit artikel wordt verstaan onder het besluit van 22 februari 2013: het beslui
 <br>
 Voor de toepassing van artikel 6, laatste lid, van het besluit van 22 februari 2013, voor het jaar 2020 voor de voorzieningen die zijn erkend conform artikel 2, tweede tot en met het zesde lid, van hetzelfde besluit, wordt het aantal personeelspunten waarvoor de voorzieningen zijn erkend proportioneel verminderd rekening houdend met de periode die loopt van 1 oktober 2020 tot en met 31 december 2020.<br>
 <br>
-Voor de toepassing van artikel 6, laatste lid, van het besluit van 22 februari 2013, voor het jaar 2021 voor de voorzieningen die zijn erkend conform artikel 2, eerste lid, van hetzelfde besluit, wordt het aantal personeelspunten waarvoor de voorziening is erkend verminderd met 12,5 %.<br>
+Voor de toepassing van artikel 6, laatste lid, van het besluit van 22 februari 2013, voor het jaar 2021 voor de voorzieningen die zijn erkend conform artikel 2, eerste lid, van hetzelfde besluit, wordt het aantal personeelspunten waarvoor de voorziening is erkend verminderd met 25 %.<br>
 <br>
-Voor de toepassing van artikel 6, laatste lid, van het besluit van 22 februari 2013 voor het jaar 2021 voor de voorzieningen die zijn erkend conform artikel 2, tweede tot en met zesde lid wordt het aantal personeelspunten waarvoor de voorziening zijn erkend verminderd met 25 %.
+Voor de toepassing van artikel 6, laatste lid, van het besluit van 22 februari 2013 voor het jaar 2021 voor de voorzieningen die zijn erkend conform artikel 2, tweede tot en met zesde lid wordt het aantal personeelspunten waarvoor de voorziening zijn erkend verminderd met 50 %.
 
 ### ART 6.
 
-Bijstandsorganisaties kunnen voor de periode van 1 oktober 2020 tot en met 31 maart 2021 aanspraak maken op een subsidie conform artikel 12 van het besluit van 18 december 2020.
+Bijstandsorganisaties kunnen voor de periode van 1 oktober 2020 tot en met 30 juni 2021 aanspraak maken op een subsidie conform artikel 12 van het besluit van 18 december 2020.
 
 ### ART 7.
 

@@ -2,16 +2,16 @@
   "codex_id": 1035506,
   "title": "Ministerieel besluit van 2021-04-09 over de vermindering van de outputnormen van een aantal diensten en organisaties voor personen met een handicap, over de compensatie van gederfde vergoedingen voor woonkosten en over een compenserende subsidie voor bijstandsorganisaties",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035506/VolledigDocument?datum=2020-10-01",
-  "source_sha256": "764060a13178432d7992cb557e14b3a9a88f42bd3784ade8c3cd6d2890ef6607",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035506/VolledigDocument?datum=2021-04-01",
+  "source_sha256": "69a6e7eaadbda4f55687d212e2decfb25704fa06c99041b1f2c72ed7bcd8c25c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035506&param=informatie",
-  "as_of": "2020-10-01",
+  "as_of": "2021-04-01",
   "made": "2021-04-09",
   "gazette": "2021-04-30",
   "numac": 2021041288,
   "document_start": "2020-10-01",
   "document_end": null,
-  "in_force": "2020-10-01",
+  "in_force": "2021-04-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2020-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-04-01; future article versions excluded; article text as the API gives it"
 }
