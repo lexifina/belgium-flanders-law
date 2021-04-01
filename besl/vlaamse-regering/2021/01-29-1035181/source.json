@@ -2,16 +2,16 @@
   "codex_id": 1035181,
   "title": "Besluit van de Vlaamse Regering van 2021-01-29 tot wijziging van de regelgeving over de voorwaarden en procedure in het kader van de toekenning van een vergunning of subsidie aan een organisator van kinderopvang en buitenschoolse opvang en over voorwaarden voor het lokaal bestuur in het kader van het lokaal beleid kinderopvang",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035181/VolledigDocument?datum=2021-02-05",
-  "source_sha256": "b73287bb1ec5348a85c2d081b47091df615eea7d18b4c0382f690b52fa7e339e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035181/VolledigDocument?datum=2021-04-01",
+  "source_sha256": "437fb7188927e902c89157ed638ad040bfdc827db5e83d294a361b52307b007d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035181&param=informatie",
-  "as_of": "2021-02-05",
+  "as_of": "2021-04-01",
   "made": "2021-01-29",
   "gazette": "2021-02-05",
   "numac": 2021040433,
   "document_start": null,
   "document_end": null,
-  "in_force": "2021-02-05",
-  "article_versions": 32,
-  "record_form": "consolidated version as in force on 2021-02-05; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-04-01",
+  "article_versions": 36,
+  "record_form": "consolidated version as in force on 2021-04-01; future article versions excluded; article text as the API gives it"
 }

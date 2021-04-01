@@ -128,6 +128,24 @@ In het beslissingskader, vermeld in het tweede lid, 14°, bepaalt het agentschap
 <br>
 Het agentschap kan geen algemene oproep versturen voordat de minister het goedkeuringstoezicht, vermeld in het eerste lid, uitgeoefend heeft.".
 
+### ART 16.
+
+Artikel 58 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 8 september 2017, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 58. Conform het tweede tot en met het vierde lid kent het agentschap een subsidiebelofte toe voor de basissubsidie voor een kinderopvangplaats waarvoor de organisator het systeem inkomenstarief, vermeld in artikel 27 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, toepast of zal toepassen.<br>
+<br>
+Als er budget is om de basissubsidie voor kinderopvangplaatsen waarvoor de organisator het systeem inkomenstarief, vermeld in artikel 27 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, toepast of zal toepassen, toe te kennen, doet het agentschap een algemene oproep bij kandidaten om een aanvraag van een subsidiebelofte voor de basissubsidie in te dienen.<br>
+<br>
+De algemene oproep van het agentschap, vermeld in het tweede lid, bevat al de volgende gegevens:<br>
+1° het subsidiebudget dat bestemd is om kinderopvangplaatsen, waarvoor de organisator met het systeem inkomenstarief, vermeld in artikel 27 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, werkt of zal werken, een basissubsidie toe te kennen, en vanaf wanneer het subsidiebudget beschikbaar is;<br>
+2° de voorafname van het budget voor de grootsteden Antwerpen, het tweetalige gebied Brussel-hoofdstad en Gent. Tot 31 december 2024 gelden volgende percentages:<br>
+a) 15% voor Antwerpen;<br>
+b) 10% voor het tweetalige gebied Brussel-hoofdstad;<br>
+c) 5% voor Gent;<br>
+3° de gegevens, vermeld in artikel 57, § 3, tweede lid, 1°, 6°, 9°, 11°, 12°, 13° en 14°, van dit besluit.<br>
+<br>
+De algemene oproep vindt plaats conform artikel 57, § 4.".
+
 ### ART 17.
 
 In artikel 59 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
@@ -167,6 +185,14 @@ In artikel 70 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<
 2° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 "Als de minister het goedkeuringstoezicht niet heeft uitgeoefend binnen de termijn, vermeld in artikel 57, § 4, wordt de termijn, vermeld in het eerste lid, verlengd tot de minister het goedkeuringstoezicht uitgeoefend heeft.".
 
+### ART 23.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 7 juni 2019, wordt een artikel 71/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 71/1. Het agentschap beslist over de gegrondheid van de aanvraag van een subsidiebelofte voor de basissubsidie voor kinderopvangplaatsen waarvoor de organisator met een vrije prijs werkt of zal werken, uiterlijk zestig kalenderdagen na de datum van de beslissing over de ontvankelijkheid van de aanvraag, vermeld in artikel 66.<br>
+<br>
+Het agentschap kan de subsidiebelofte toekennen binnen de perken van het beschikbare budget. Als er geen budget meer beschikbaar is, informeert het agentschap onmiddellijk alle organisatoren daarover schriftelijk en via de website.".
+
 ### ART 24.
 
 Aan artikel 72, 3°, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 8 september 2017, wordt een punt h) toegevoegd, dat luidt als volgt:<br>
@@ -183,6 +209,17 @@ Aan artikel 79, 3°, van hetzelfde besluit, gewijzigd bij het besluit van de Vla
 "e) op welke manier de organisator voldoet aan de criteria van Opgroeien regie in het beslissingskader, vermeld in artikel 57, § 3, tweede lid, 14°, en derde lid, of artikel 58, derde lid, 3°, waarvan hij in de aanvraag van de subsidiebelofte had medegedeeld dat hij er uiterlijk bij de subsidietoekenning aan zou voldoen;".<br>
 2° in punt 4° wordt een punt c) ingevoegd, dat luidt als volgt:<br>
 "c) de realisatie van de criteria uit het beslissingskader, vermeld in artikel 57, § 3, tweede lid, 14°, en derde lid, die door het lokaal bestuur werden beoordeeld en waarvan de organisator in het kader van de aanvraag van de subsidiebelofte meedeelde eraan te voldoen ten laatste bij de subsidietoekenning;".
+
+### ART 27.
+
+In artikel 88 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 9 oktober 2015 en 14 september 2018, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt punt 2° opgeheven;<br>
+2° aan het eerste lid wordt een punt 8° toegevoegd, dat luidt als volgt:<br>
+"8° een organisator die de subsidieerbare kinderopvangplaatsen, waarvoor het agentschap zonder de overheveling een beslissing tot vermindering of stopzetting van subsidieerbare kinderopvangplaatsen zal nemen wegens niet-naleving van de voorwaarden, vermeld in artikel 21 van het Subsidiebesluit van 22 november 2013, of omdat de termijn van het voorbehoud, vermeld in artikel 4, 2°, van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, is verstreken, wil overhevelen van een subsidiegroep gezinsopvang of subsidiegroep groepsopvang door samenwerkende onthaalouders naar een subsidiegroep groepsopvang. Het agentschap beslist hoeveel subsidieerbare kinderopvangplaatsen maximaal overgeheveld kunnen worden. Die overheveling kan alleen als de organisator voldoet aan al de volgende voorwaarden:<br>
+a) de kinderopvangplaatsen worden overgeheveld naar een gemeente die behoort tot de subsidiegroep gezinsopvang of groepsopvang samenwerkende onthaalouders van waaruit de plaatsen worden overgeheveld;<br>
+b) de organisator voldoet binnen de gemeente, waarnaar de plaatsen overgeheveld worden, aan de voorwaarden, vermeld in punt 7°, a) tot en met c).";<br>
+3° in het tweede lid wordt tussen de zinsnede "vermeld in het eerste lid, 7° " en de zinsnede ", niet voldoet" de zinsnede "of 8° " ingevoegd;<br>
+4° in het tweede lid worden tussen de woorden "in de zorgregio" en de woorden "waarnaar de" de woorden "of de gemeente" ingevoegd.
 
 ### ART 28.
 
@@ -216,6 +253,12 @@ Het agentschap sluit een convenant met de lokale besturen, vermeld in het eerste
 ### ART 30.
 
 Artikel 112/2 tot en met 112/5 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 8 september 2017, worden opgeheven.
+
+### ART 31.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 7 juni 2019, wordt een artikel 122/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 122/1. Tot en met 31 maart 2026 wordt voor de toekenning van de basissubsidie voor kinderopvangplaatsen die voor 1 april 2021 vergund zijn en waarvoor de organisator met een vrije prijs werkt, geen subsidiebelofte toegekend volgens de procedure als vermeld in artikel 61, tweede lid, maar wordt de subsidiebelofte toegekend na een algemene oproep als vermeld in artikel 58.".
 
 ## HOOFDSTUK 4. Wijziging van het besluit van de Vlaamse Regering van 24 maart 2020 tot bestrijding van de negatieve gevolgen van het COVID-19 virus voor de gezinnen en de organisatoren van kinderopvang
 
