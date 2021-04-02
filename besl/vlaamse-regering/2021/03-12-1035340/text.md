@@ -55,3 +55,11 @@ In hetzelfde besluit wordt een artikel 9/1 ingevoegd, dat luidt als volgt:<br>
 5° de personeelsleden, vermeld in artikel III.35, § 1, 1° tot en met 3° en in artikel III.36, § 4, van de Codex Hoger Onderwijs, die effectief in een hogeschool zijn tewerkgesteld.<br>
 <br>
 § 2. Als een personeelslid in de periode die loopt vanaf 4 januari 2021 tot en met 30 juni 2021 in quarantaine is ten gevolge van terugkeer uit een rode zone en thuiswerk is niet mogelijk, dan moet het personeelslid een verlof of afwezigheid voor verminderde prestaties opnemen gedurende zijn afwezigheid."
+
+### ART 3.
+
+Artikel 1 treedt in werking op 22 februari 2021. Artikel 2 heeft uitwerking met ingang van 4 januari 2021.
+
+### ART 4.
+
+De Vlaamse minister, bevoegd voor onderwijs, is belast met de uitvoering van dit besluit.
