@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035345,
+  "title": "Decreet van 2021-03-05 tot wijziging van artikel 37 van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges, wat de injunctie betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035345/VolledigDocument?datum=2021-04-03",
+  "source_sha256": "8edfc0fcf13a1ca0996499279cafaef642d74e8788634e44515f7b2888a8b670",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035345&param=informatie",
+  "as_of": "2021-04-03",
+  "made": "2021-03-05",
+  "gazette": "2021-03-24",
+  "numac": 2021030604,
+  "document_start": "2021-04-03",
+  "document_end": null,
+  "in_force": "2021-04-03",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-04-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
