@@ -416,12 +416,12 @@ Een onwettigheid geeft alleen aanleiding tot een vernietiging, als de partij die
 
 ### ART. 37.
 
-§ 1. Na gehele of gedeeltelijke vernietiging kan een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), de verwerende partij bevelen om met inachtneming van de overwegingen die opgenomen zijn in zijn uitspraak een nieuwe beslissing te nemen of een andere handeling te stellen. Het kan daarbij de volgende voorwaarden opleggen:<br>
-1° welbepaalde rechtsregels of rechtsbeginselen moeten bij de totstandkoming van de nieuwe beslissing worden betrokken;<br>
-2° welbepaalde procedurele handelingen moeten voorafgaand aan de nieuwe beslissing worden gesteld;<br>
-3° welbepaalde onregelmatige motieven of kennelijk onredelijke motieven mogen niet bij de totstandkoming van de nieuwe beslissing worden betrokken.<br>
+§ 1. Als de verwerende partij na een gehele of gedeeltelijke vernietiging gehouden is een nieuwe beslissing te nemen of een andere handeling te stellen, beveelt een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), de verwerende partij om met inachtneming van de overwegingen die in zijn uitspraak zijn opgenomen, een nieuwe beslissing te nemen of een andere handeling te stellen. Het kan daarbij de volgende voorwaarden opleggen:<br>
+1° welbepaalde rechtsregels of rechtsbeginselen worden bij de totstandkoming van de nieuwe beslissing betrokken;<br>
+2° welbepaalde procedurele handelingen worden vóór de nieuwe beslissing gesteld;<br>
+3° welbepaalde onregelmatige motieven of kennelijk onredelijke motieven worden niet bij de totstandkoming van de nieuwe beslissing betrokken.<br>
 <br>
-Een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), kan aan het bevel, opgelegd conform het eerste lid, een ordetermijn verbinden voor de uitvoering ervan.<br>
+Een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), verbindt aan het bevel, opgelegd in het eerste lid, een ordetermijn voor de uitvoering ervan.<br>
 <br>
 De ordetermijn, vermeld in het tweede lid, wordt geschorst zolang een cassatieberoep, gericht tegen het arrest van het Vlaams bestuursrechtscollege dat dit bevel bevat, aanhangig is bij de Raad van State.<br>
 <br>
