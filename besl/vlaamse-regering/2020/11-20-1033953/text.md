@@ -64,7 +64,7 @@ g) het passen op kinderen van klanten of bezoekers;<br>
 
 ### ART 2.
 
-Het Agentschap Binnenlands Bestuur kent een eenmalige projectsubsidie toe aan de lokale besturen die op basis van de voorwaarden, vermeld in artikel 5 tot en met 7, in aanmerking komen voor een subsidie voor de compensatie van de kosten voor noodopvang van schoolkinderen vanaf 9 november 2020 tot en met 2 april 2021.<br>
+Het Agentschap Binnenlands Bestuur kent een eenmalige projectsubsidie toe aan de lokale besturen die op basis van de voorwaarden, vermeld in artikel 5 tot en met 7, in aanmerking komen voor een subsidie voor de compensatie van de kosten voor noodopvang van schoolkinderen vanaf 9 november 2020 tot en met 30 juni 2021.<br>
 <br>
 De toekenning van deze eenmalige projectsubsidie aan de lokale besturen gebeurt op basis van de ingediende aanvragen, vermeld in artikel 5, 1°.
 
@@ -72,7 +72,11 @@ De toekenning van deze eenmalige projectsubsidie aan de lokale besturen gebeurt 
 
 De subsidie bedraagt:<br>
 1° voor de inzet van personeel: 20 euro per effectief opgevangen kind per volledige dag en 10 euro per effectief opgevangen kind per halve dag;<br>
-2° voor de inzet of het veiligheidsonderhoud van de infrastructuur: 10 euro per effectief opgevangen kind per dag.
+2° voor de inzet of het veiligheidsonderhoud van de infrastructuur: 10 euro per effectief opgevangen kind per dag.<br>
+<br>
+In afwijking van het vorige lid, en in het geval dat er voor de noodopvang tijdens een vakantieperiode een ouderbijdrage wordt gevraagd zoals vermeld in artikel 7, tweede lid, bedraagt de subsidie:<br>
+1° voor de inzet van personeel: 10 euro per effectief opgevangen kind per volledige dag en 5 euro per effectief opgevangen kind per halve dag;<br>
+2° voor de inzet of het veiligheidsonderhoud van de infrastructuur: 5 euro per effectief opgevangen kind per dag.
 
 ### ART 4.
 
@@ -103,7 +107,7 @@ Om de subsidie, vermeld in artikel 2, te kunnen ontvangen, voldoet het lokaal be
 
 ### ART 6.
 
-Het lokaal bestuur dient uiterlijk op 1 juni 2021 via digitale weg bij het Agentschap Binnenlands Bestuur een aanvraag in voor het ontvangen van de subsidie, vermeld in artikel 2, In deze aanvraag bezorgt het lokaal bestuur de volgende informatie:<br>
+Het lokaal bestuur dient uiterlijk op 31 jul 2021 via digitale weg bij het Agentschap Binnenlands Bestuur een aanvraag in voor het ontvangen van de subsidie, vermeld in artikel 2, In deze aanvraag bezorgt het lokaal bestuur de volgende informatie:<br>
 1° de identificatiegegevens van het lokaal bestuur;<br>
 2° per lokale actor en per datum waarop de opvang heeft plaatsgevonden, het aantal effectief opgevangen kinderen in het licht van de getrapte organisatie van de noodopvang, vermeld in artikel 4;<br>
 3° een verklaring op eer dat "De gegevens over het aantal effectief opgevangen kinderen correct zijn.";<br>
@@ -117,13 +121,15 @@ Het lokaal bestuur wendt de subsidie, vermeld in artikel 2, enkel aan ter compen
 2° het bijkomend opvangaanbod, zoals vermeld in artikel 4, wordt door geen enkele andere steunmaatregel of financieringsbron gecompenseerd;<br>
 3° het gaat om opvang tijdens de schooluren in een schoolperiode van schoolkinderen voor wie geen onderwijs op school georganiseerd wordt, maar die wel nood hebben aan opvang of om opvang tijdens een vakantieperiode van schoolkinderen die nood hebben aan opvang;<br>
 4° de subsidie wordt in geen geval aangewend om de kosten voor informele opvang te compenseren;<br>
-5° het gaat om noodopvang die georganiseerd wordt in de periode van 9 november 2020 tot en met 2 april 2021;<br>
+5° het gaat om noodopvang die georganiseerd wordt in de periode van 9 november 2020 tot en met 30 juni 2021;<br>
 6° het gaat om noodopvang die kosteloos georganiseerd wordt voor de ouders;<br>
-7° De subsidie kan in geval van opvang door organisatoren buitenschoolse opvang, enkel aangewend worden om bijkomend opvangaanbod te compenseren dat buiten de normale buitenschoolse opvanguren georganiseerd wordt en voldoet aan de voorwaarden, vermeld in dit artikel. Een organisator buitenschoolse opvang kan enkel aanspraak maken op de subsidie, vermeld in artikel 2, op voorwaarde dat hij alle beschikbare en op een andere manier gesubsidieerde opvanguren heeft uitgeput. De organisator buitenschoolse opvang bezorgt hierover een verklaring op eer aan het lokaal bestuur en kan dit op vraag van het agentschap Opgroeien regie en het Agentschap Binnenlands Bestuur ook aantonen.
+7° De subsidie kan in geval van opvang door organisatoren buitenschoolse opvang, enkel aangewend worden om bijkomend opvangaanbod te compenseren dat buiten de normale buitenschoolse opvanguren georganiseerd wordt en voldoet aan de voorwaarden, vermeld in dit artikel. Een organisator buitenschoolse opvang kan enkel aanspraak maken op de subsidie, vermeld in artikel 2, op voorwaarde dat hij alle beschikbare en op een andere manier gesubsidieerde opvanguren heeft uitgeput. De organisator buitenschoolse opvang bezorgt hierover een verklaring op eer aan het lokaal bestuur en kan dit op vraag van het agentschap Opgroeien regie en het Agentschap Binnenlands Bestuur ook aantonen.<br>
+<br>
+In afwijking van het eerste lid, 6°, kan er voor de noodopvang tijdens vakantieperiodes, vermeld in artikel 4, tweede lid, 2°, wel een ouderbijdrage gevraagd worden en hoeft deze noodopvang dus niet kosteloos georganiseerd te worden voor de ouders.
 
 ### ART 8.
 
-Als het lokaal bestuur voldoet aan de voorwaarden om de subsidie te ontvangen, betaalt het Agentschap Binnenlands Bestuur het volledige subsidiebedrag uit, uiterlijk op 30 september 2021.
+Als het lokaal bestuur voldoet aan de voorwaarden om de subsidie te ontvangen, betaalt het Agentschap Binnenlands Bestuur het volledige subsidiebedrag uit, uiterlijk op 30 november 2021.
 
 ### ART 9.
 
