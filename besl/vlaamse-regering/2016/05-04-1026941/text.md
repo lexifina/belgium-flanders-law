@@ -75,14 +75,25 @@
 
 ### ART 5.
 
-<span style="color: rgb(0, 0, 0);">Een selectiecommissie, waarvan de samenstelling ter bekrachtiging aan de Vlaamse Regering wordt meegedeeld, bestaande uit de leden van de raad van bestuur van AGION, selecteert de aanvragen en bepaalt de rangschikking van de aanvragen op basis van de volgende criteria :</span><br>
-<span style="color: rgb(0, 0, 0);">1° de dwingende behoefte aan onderwijshuisvesting;</span><br>
-<span style="color: rgb(0, 0, 0);">2° de kostenefficiëntie van het project;</span><br>
-<span style="color: rgb(0, 0, 0);">3° de huurtermijn en de wijze waarop het project past in de langetermijnvisie van de inrichtende macht op de infrastructuur;</span><br>
-<span style="color: rgb(0, 0, 0);">4° de duurzaamheid van het project, waarbij onder meer de toegankelijkheid, de energiecertificering, de ecologische componenten en de verhouding tot de beschikbare ruimte in overweging worden genomen;</span><br>
-<span style="color: rgb(0, 0, 0);">5° de brede inzetbaarheid en het multifunctionele karakter van de te huren infrastructuur;</span><br>
-<span style="color: rgb(0, 0, 0);">6° de mate waarin de inrichtende macht een subsidieaanvraag bij AGION heeft ingediend in het kader van een langetermijnoplossing voor de infrastructuur op de vestigingsplaats, waarbij wordt gekeken naar de datum van de indiening van de subsidieaanvraag;</span><br>
-<span style="color: rgb(0, 0, 0);">7° de mate waarin extra capaciteit op het grondgebied van de (fusie)gemeente in kwestie wordt gegenereerd waar de behoefte het grootst is en waar tegemoetgekomen wordt aan de schoolkeuze, als de aanvraag betrekking heeft op een project waarbij nieuwe capaciteitsuitbreiding gerealiseerd wordt.</span><br>
+<span style="color:#000000">Een selectiecommissie, waarvan de samenstelling ter bekrachtiging aan de Vlaamse Regering wordt meegedeeld, bestaande uit de leden van de raad van bestuur van AGION, selecteert de aanvragen en bepaalt de rangschikking van de aanvragen op basis van de volgende criteria :</span><br>
+<span style="color:#000000">1° de dwingende behoefte aan onderwijshuisvesting;</span><br>
+<span style="color:#000000">2° de kostenefficiëntie van het project;</span><br>
+<span style="color:#000000">3° de huurtermijn en de wijze waarop het project past in de langetermijnvisie van de inrichtende macht op de infrastructuur;</span><br>
+<span style="color:#000000">4° de duurzaamheid van het project, waarbij onder meer de toegankelijkheid, de energiecertificering, de ecologische componenten en de verhouding tot de beschikbare ruimte in overweging worden genomen;</span><br>
+<span style="color:#000000">5° de brede inzetbaarheid en het multifunctionele karakter van de te huren infrastructuur;</span><br>
+<span style="color:#000000">6° de mate waarin de inrichtende macht een subsidieaanvraag bij AGION heeft ingediend in het kader van een langetermijnoplossing voor de infrastructuur op de vestigingsplaats, waarbij wordt gekeken naar de datum van de indiening van de subsidieaanvraag;</span><br>
+<span style="color:#000000">7° de mate waarin extra capaciteit op het grondgebied van de (fusie)gemeente in kwestie wordt gegenereerd waar de behoefte het grootst is en waar tegemoetgekomen wordt aan de schoolkeuze, als de aanvraag betrekking heeft op een project waarbij nieuwe capaciteitsuitbreiding gerealiseerd wordt.<br>
+<br>
+Een aanvraag kan maximaal 80 punten behalen, waarbij de volgende gewichten worden toegekend aan de selectiecriteria die worden vermeld in het eerste lid:<br>
+1° de dwingende behoefte aan onderwijshuisvesting: 10 punten<br>
+2° de kostenefficiëntie van het project: 5 punten<br>
+3° de huurtermijn en de wijze waarop het project past in de langetermijnvisie van de inrichtende macht op de infrastructuur: 15 punten<br>
+4° de duurzaamheid van het project, waarbij onder meer de toegankelijkheid, de energiecertificering, de ecologische componenten en de verhouding tot de beschikbare ruimte in overweging worden genomen: 10 punten<br>
+5° de brede inzetbaarheid en het multifunctionele karakter van de te huren infrastructuur: 15 punten<br>
+6° de mate waarin de inrichtende macht een subsidieaanvraag bij AGION heeft ingediend in het kader van een langetermijnoplossing voor de infrastructuur op de vestigingsplaats, waarbij wordt gekeken naar de datum van indiening van de subsidieaanvraag: 10 punten<br>
+7° de mate waarin extra capaciteit op het grondgebied van de (fusie)gemeente in kwestie wordt gegenereerd waar de behoefte het grootst is en waar tegemoetgekomen wordt aan de schoolkeuze, als de aanvraag betrekking heeft op een project waarbij nieuwe capaciteitsuitbreiding gerealiseerd wordt: 15 punten.<br>
+<br>
+Een aanvraag moet een minimumscore van 40 punten behalen om in aanmerking te komen voor selectie op basis van de beoordeling van de selectiecriteria en hun gewicht zoals vermeld in het tweede lid.</span><br>
 &nbsp;
 
 ### ART 6.
