@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035350,
+  "title": "Besluit van de Vlaamse Regering van 2021-02-26 tot wijziging van de VLAREME van 28 oktober 2016, wat betreft het gebruik van debietmeters in bewerkings- en verwerkingseenheden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035350/VolledigDocument?datum=2021-04-04",
+  "source_sha256": "2d299b1a167def78087fae5370cc1c11ef119a14b279d57deb615e20cf044192",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035350&param=informatie",
+  "as_of": "2021-04-04",
+  "made": "2021-02-26",
+  "gazette": "2021-03-25",
+  "numac": 2021020587,
+  "document_start": "2021-04-04",
+  "document_end": null,
+  "in_force": "2021-04-04",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2021-04-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
