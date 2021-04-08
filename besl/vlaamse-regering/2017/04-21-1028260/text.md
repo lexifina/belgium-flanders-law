@@ -86,7 +86,11 @@ De steun wordt verleend voor de verstrekking van één portie per leerling en pe
 <br>
 In afwijking van het tweede lid wordt aan indicatorscholen steun verleend voor de verstrekking van één portie per leerling en per week gedurende tien weken in een eerste periode van verstrekking, die loopt van 1 september tot en met 31 januari en gedurende tien weken in een tweede periode van verstrekking, die loopt van 1 januari tot en met 30 april. De verstrekking tijdens de tweede periode mag pas starten nadat de verstrekking tijdens de eerste periode afgelopen is.<br>
 <br>
-De ministers kunnen beslissen om de frequentie per week waarmee producten verstrekt mogen worden, of het aantal weken waarin ze verstrekt mogen worden, uit te breiden, en de voorwaarden bepalen waaraan de onderwijsinstellingen moeten voldoen om voor die uitbreiding in aanmerking te komen.
+De ministers kunnen beslissen om de frequentie per week waarmee producten verstrekt mogen worden, of het aantal weken waarin ze verstrekt mogen worden, uit te breiden, en de voorwaarden bepalen waaraan de onderwijsinstellingen moeten voldoen om voor die uitbreiding in aanmerking te komen.<br>
+<br>
+In afwijking van het tweede lid vindt voor het schooljaar 2020-2021 de periode van tien weken waarin de verstrekking gebeurt, plaats van 1 september 2020 tot en met 30 juni 2021.<br>
+<br>
+In afwijking van het derde lid vindt voor het schooljaar 2020-2021 de periode van tien weken waarin de eerste periode van verstrekking gebeurt, plaats van 1 september 2020 tot en met 30 juni 2021, en vindt de periode van tien weken waarin de tweede periode van verstrekking gebeurt, plaats van 1 januari 2021 tot en met 30 juni 2021.
 
 ### ART 6.
 
