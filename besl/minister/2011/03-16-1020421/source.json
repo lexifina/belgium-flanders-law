@@ -2,16 +2,16 @@
   "codex_id": 1020421,
   "title": "Ministerieel besluit van 2011-03-16 tot vaststelling van zes rode lijsten in uitvoering van artikel 5 van het soortenbesluit",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020421/VolledigDocument?datum=2011-07-23",
-  "source_sha256": "a6dbcce9e65cda8bd9cad36fa814729f73a1ea13b83345d4411d06b8cf47b0b7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020421/VolledigDocument?datum=2021-04-08",
+  "source_sha256": "fea0eab6cfe70778a33f49da1d8344f1994066a32941e25c4ae5e1833e68406f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020421&param=informatie",
-  "as_of": "2011-07-23",
+  "as_of": "2021-04-08",
   "made": "2011-03-16",
   "gazette": "2011-07-13",
   "numac": 2011035522,
   "document_start": "2011-07-23",
   "document_end": null,
-  "in_force": "2011-07-23",
+  "in_force": "2021-04-08",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2011-07-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-04-08; future article versions excluded; article text as the API gives it"
 }
