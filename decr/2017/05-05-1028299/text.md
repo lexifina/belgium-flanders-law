@@ -31,7 +31,7 @@ Het minimale begrotingskrediet voor de subsidiëring van bovenlokale sportinfras
 
 Binnen de perken van de begroting en onder de voorwaarden, vermeld in dit decreet, kan de Vlaamse Regering investeringssubsidies verlenen om bovenlokale sportinfrastructuur in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad te bouwen of te renoveren.<br>
 <br>
-De subsidie wordt per bovenlokale sportinfrastructuur verleend als tegemoetkoming in de investeringskosten. De Vlaamse Regering bepaalt welke investeringskosten voor subsidiëring in aanmerking komen.
+De investeringssubsidies voor bovenlokale sportinfrastructuur worden toegekend als tegemoetkoming in de investeringskosten. De Vlaamse Regering bepaalt welke investeringskosten voor subsidiëring in aanmerking komen.
 
 ### ART 5.
 
@@ -55,14 +55,17 @@ De Vlaamse Regering bepaalt de criteria waaraan sportinfrastructuur wordt getoet
 
 § 1. Om in aanmerking te komen voor subsidiëring, moet aan al de volgende voorwaarden voldaan zijn :<br>
 1° de sportinfrastructuurwerken zijn nog niet gestart op het moment van de subsidieaanvraag;<br>
-2° de subsidieaanvrager is eigenaar of beschikt over een langdurig zakelijk recht op de grond waarop de sportinfrastructuur wordt gebouwd of gerenoveerd;<br>
+2° de subsidieaanvrager is eigenaar of beschikt over een langdurig zakelijk recht op de grond waarop de sportinfrastructuur wordt gebouwd of gerenoveerd of bewijst met een overeenkomst of met een beslissing van de bevoegde rechtspersoon dat het zakelijk recht zal worden gevestigd uiterlijk op de datum van de aanvang van de werken;<br>
 3° de sportinfrastructuur wordt opengesteld voor een breed publiek;<br>
 4° de subsidieaanvrager garandeert billijke toegangsprijzen voor de gebruikers van de sportinfrastructuur;<br>
-5° voor de sportinfrastructuur kunnen de nodige stedenbouwkundige vergunningen bekomen worden;<br>
-6° de sportinfrastructuur kan tijdig opgeleverd worden, uiterlijk binnen drie jaar na de toekenning van de investeringssubsidie;<br>
+5° voor de sportinfrastructuur kunnen de nodige omgevingsvergunningen en voor sportinfrastructuur, gelegen in het tweetalige gebied Brussel-Hoofdstad, de nodige stedenbouwkundige vergunningen en milieuvergunningen bekomen worden;<br>
+6° de sportinfrastructuur kan tijdig opgeleverd worden, uiterlijk binnen drie en een half jaar na de uiterlijke datum voor de indiening van de subsidieaanvraag;<br>
 7° de sportinfrastructuur is financieel haalbaar en financieel duurzaam;<br>
 8° de sportinfrastructuur is energetisch duurzaam;<br>
-9° de sportinfrastructuurwerken hebben een minimale investeringswaarde aan sportgerelateerde investeringskosten.<br>
+9° de sportinfrastructuurwerken hebben een minimale investeringswaarde aan sportgerelateerde investeringskosten;<br>
+10° voor de sportinfrastructuur gelegen in het tweetalige gebied Brussel-Hoofdstad garandeert de subsidieaanvrager dat de sportinfrastructuur prioritair opengesteld wordt aan Nederlandstalige scholen, aan erkende sportfederaties of erkende organisaties voor de sportieve vrijetijdsbesteding, of aan sportclubs, aangesloten bij een erkende sportfederatie of verenigingen, aangesloten bij een erkende organisatie voor de sportieve vrijetijdsbesteding.<br>
+<br>
+In het eerste lid, 10°, wordt verstaan onder erkende sportfederaties of erkende organisaties voor de sportieve vrijetijdsbesteding: de sportfederaties, respectievelijk de organisaties voor de sportieve vrijetijdsbesteding, die erkend zijn op grond van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector.<br>
 <br>
 Sport Vlaanderen gaat na of de subsidieaanvraag in aanmerking kan komen voor subsidiëring op basis van de voorwaarden, vermeld in het eerste lid.<br>
 <br>
@@ -88,7 +91,7 @@ De subsidieaanvragen die aan al de subsidievoorwaarden, vermeld in artikel 6 en 
 1° de mate waarin de sportinfrastructuur tegemoetkomt aan de reële behoefte aan bovenlokale sportinfrastructuur;<br>
 2° de mate waarin de sportinfrastructuur een groot aantal mensen bereikt;<br>
 3° de mate waarin de sportinfrastructuur via samenwerking wordt gerealiseerd of uitgebaat;<br>
-4° de mate waarin de sportinfrastructuur integraal toegankelijk is;<br>
+4° de mate waarin de sportinfrastructuur voor iedereen bereikbaar en toegankelijk is;<br>
 5° de mate waarin de sportinfrastructuur innovatief is.<br>
 <br>
 De Vlaamse Regering kan de nadere invulling en het gewicht van de beoordelingscriteria bepalen, vermeld in het eerste lid, en bepaalt de wijze waarop de beoordelingscommissie bovenlokale sportinfrastructuur de subsidieaanvragen beoordeelt.
@@ -101,7 +104,7 @@ De Vlaamse Regering kan de nadere invulling en het gewicht van de beoordelingscr
 <br>
 De Vlaamse Regering kan in een bijzondere regeling voorzien voor het bepalen van het maximale subsidiebedrag voor sportinfrastructuur in het tweetalige gebied Brussel-Hoofdstad.<br>
 <br>
-§ 2. De ingediende projecten bovenlokale sportinfrastructuur gelegen in het tweetalige gebied Brussel-Hoofdstad krijgen voor het totaal van de ingediende projecten, gelegen in het tweetalige gebied Brussel-Hoofdstad, voorrang op de ingediende projecten bovenlokale sportinfrastructuur gelegen in het Nederlandse taalgebied, tot een maximaal bedrag van 5% van het minimumbedrag zoals vermeld in artikel 3, vierde lid, gedurende een Vlaamse beleidsperiode. De beoordeling gebeurt onderling volgens de beoordelingscriteria vermeld in artikel 9, eerste lid. Indien het maximale bedrag is bereikt, worden de ingediende projecten bovenlokale sportinfrastructuur gelegen in het tweetalige gebied Brussel-Hoofdstad samen met de ingediende projecten bovenlokale sportinfrastructuur gelegen in het Nederlandse taalgebied beoordeeld en gerangschikt.<br>
+§ 2. De ingediende subsidieaanvragen voor bovenlokale sportinfrastructuur gelegen in het tweetalige gebied Brussel-Hoofdstad krijgen voor het totaal van de ingediende subsidieaanvragen voor bovenlokale sportinfrastructuur gelegen in het tweetalige gebied Brussel-Hoofdstad, voorrang op de ingediende subsidieaanvragen voor bovenlokale sportinfrastructuur gelegen in het Nederlandse taalgebied, tot een maximaal bedrag van 5% van het minimumbedrag zoals vermeld in artikel 3, vierde lid, gedurende een Vlaamse beleidsperiode. De beoordeling gebeurt onderling volgens de beoordelingscriteria vermeld in artikel 9, eerste lid. Indien het maximale bedrag is bereikt, worden de ingediende subsidieaanvragen voor bovenlokale sportinfrastructuur gelegen in het tweetalige gebied Brussel-Hoofdstad samen met de ingediende subsidieaanvragen voor bovenlokale sportinfrastructuur gelegen in het Nederlandse taalgebied beoordeeld en gerangschikt.<br>
 <br>
 Indien de voorziene middelen in een begrotingsjaar hoger zijn dan het minimale bedrag, vermeld in artikel 3, vierde lid, wordt het maximale bedrag, vermeld in het eerste lid, verhoogd tijdens dat begrotingsjaar met 5% van het bijkomende bedrag dat ingeschreven staat in dat begrotingsjaar.
 
@@ -125,7 +128,7 @@ Binnen de perken van de begroting en onder de voorwaarden, vermeld in dit decree
 <br>
 De investeringssubsidies voor topsportinfrastructuur worden per olympiade toegekend als tegemoetkoming in de investeringskosten. De Vlaamse Regering bepaalt welke investeringskosten voor subsidiëring in aanmerking komen.<br>
 <br>
-In het tweede lid wordt verstaan onder olympiade: de periode van vier jaar die begint op 1 januari van het jaar na de Olympische Zomerspelen, en die eindigt op 31 december van het jaar van de Olympische Zomerspelen.
+In het tweede lid wordt verstaan onder olympiade: de periode van vier jaar die begint op 1 januari van het jaar na de oorspronkelijk geplande Olympische Zomerspelen, en die eindigt op 31 december van het jaar van de oorspronkelijk geplande Olympische Zomerspelen.
 
 ### ART 14.
 
@@ -141,9 +144,9 @@ Voor de subsidiëring van topsportinfrastructuur in het tweetalige gebied Brusse
 
 § 1. Om in aanmerking te komen voor subsidiëring, moet aan al de volgende voorwaarden voldaan zijn :<br>
 1° de topsportinfrastructuurwerken zijn nog niet gestart op het moment van de subsidieaanvraag;<br>
-2° de subsidieaanvrager is eigenaar of beschikt over een langdurig zakelijk recht op de grond waarop de topsportinfrastructuur wordt gebouwd, gerenoveerd of ingericht;<br>
-3° voor de topsportinfrastructuur kunnen de nodige stedenbouwkundige vergunningen bekomen worden;<br>
-4° de topsportinfrastructuur wordt tijdig opgeleverd, uiterlijk binnen drie jaar na de goedkeuring van de subsidieaanvraag;<br>
+2° de subsidieaanvrager is eigenaar of beschikt over een langdurig zakelijk recht op de grond waarop de topsportinfrastructuur wordt gebouwd, gerenoveerd of ingericht of bewijst met een overeenkomst of met een beslissing van de bevoegde rechtspersoon dat het zakelijk recht zal worden gevestigd uiterlijk op de datum van de aanvang van de werken;<br>
+3° voor de topsportinfrastructuur kunnen de&nbsp;nodige omgevingsvergunningen en voor topsportinfrastructuur, gelegen in het tweetalige gebied Brussel-Hoofdstad, de nodige stedenbouwkundige vergunningen&nbsp;en milieuvergunningen bekomen worden;<br>
+4° de topsportinfrastructuur wordt tijdig opgeleverd, uiterlijk binnen drie en een half jaar na de uiterlijke datum voor de indiening van de subsidieaanvraag;<br>
 5° de topsportinfrastructuur is financieel haalbaar en financieel duurzaam;<br>
 6° de topsportinfrastructuur is prioritair bestemd voor topsportfederaties, waarvan de disciplines toekomstgericht ondersteund worden door het Vlaamse topsportbeleid;<br>
 7° de topsportinfrastructuur is energetisch duurzaam.<br>
