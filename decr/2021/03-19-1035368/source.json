@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035368,
+  "title": "Decreet van 2021-03-19 tot wijziging van artikel 12 van het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt en artikel 38 van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035368/VolledigDocument?datum=2021-04-09",
+  "source_sha256": "f6d7ba30908de25a72d62221d27e42f705fc60351eb3b079227065e2f961f68e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035368&param=informatie",
+  "as_of": "2021-04-09",
+  "made": "2021-03-19",
+  "gazette": "2021-03-30",
+  "numac": 2021030780,
+  "document_start": "2021-04-09",
+  "document_end": null,
+  "in_force": "2021-04-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-04-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
