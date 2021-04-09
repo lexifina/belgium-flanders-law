@@ -43,7 +43,7 @@ In het eerste lid wordt verstaan onder sportgerelateerde investeringskosten:<br>
 2° de investeringskosten die gerelateerd zijn aan de werken en de investeringen met betrekking tot andere voorzieningen die in functie van de sportinfrastructuur in kwestie noodzakelijk zijn voor het bestaan of voor het optimale gebruik van de sportinfrastructuur.<br>
 <br>
 De volgende werken, investeringen en kosten worden uitgesloten van de subsidiëring, vermeld in het eerste lid:<br>
-1° groenaanleg;<br>
+1° groenaanleg en omgevingsaanleg;<br>
 2° investeringen in voorzieningen die voor recreatie bestemd zijn en die niet noodzakelijk zijn om de sport te beoefenen;<br>
 3° horecavoorzieningen;<br>
 4° investeringen in kantoor- of administratieve ruimtes;<br>
@@ -78,7 +78,7 @@ Aan de criteria van bovenlokaliteit, vermeld in het eerste lid, wordt het volgen
 <br>
 De minister kan het toegekende gewicht aan de criteria van bovenlokaliteit, vermeld in het derde lid, wijzigen. Het gewicht van elk criterium bedraagt minimaal 5% en maximaal 20%.<br>
 <br>
-De mate van bovenlokaliteit van een sportinfrastructuur wordt berekend aan de hand van de gewogen criteria, vermeld in het eerste en derde lid. De mate van bovenlokaliteit resulteert in een score op 10, waarbij de score 0 overeenstemt met de laagste waarde van bovenlokaliteit en de score 10 overeenstemt met de hoogste waarde van bovenlokaliteit.<br>
+De mate van bovenlokaliteit van een sportinfrastructuur wordt berekend aan de hand van de gewogen criteria, vermeld in het eerste en derde lid. De mate van bovenlokaliteit resulteert in een score op 10, waarbij de score 0 overeenstemt met de laagste waarde van bovenlokaliteit en de score 10 overeenstemt met de hoogste waarde van bovenlokaliteit.&nbsp;Als een subsidieaanvraag betrekking heeft op meerdere of verschillende sportinfrastructuren, wordt de mate van bovenlokaliteit berekend voor elke sportinfrastructuur. De score van de sportinfrastructuur met de hoogste waarde van bovenlokaliteit komt in aanmerking voor het bepalen van de mate van bovenlokaliteit.<br>
 <br>
 De minimale waarde van bovenlokaliteit waaraan projecten moeten voldoen om in aanmerking te komen voor subsidiëring wordt vastgesteld op 2 op 10. De minister kan de minimale waarde van bovenlokaliteit waaraan projecten moeten voldoen om in aanmerking te komen voor subsidiëring wijzigen. De minimale waarde van bovenlokaliteit bedraagt minimaal 1 en maximaal 3.
 
@@ -86,19 +86,23 @@ De minimale waarde van bovenlokaliteit waaraan projecten moeten voldoen om in aa
 
 ### ART 4.
 
-Ter uitvoering van artikel 7, § 1, derde lid, van het decreet van 5 mei 2017 wordt met de subsidievoorwaarde, vermeld in artikel 7, § 1, eerste lid, 1°, van het voormelde decreet, bedoeld dat geen enkele van de voor subsidiëring in aanmerking komende werken al gestart of voltooid mogen zijn. Dat geldt niet voor het ontwerpen van de nieuwbouw of renovatie van de sportinfrastructuur en voor het bouwrijp maken van het terrein.
+Ter uitvoering van artikel 7, § 1, vierde lid, van het decreet van 5 mei 2017 wordt met de subsidievoorwaarde, vermeld in artikel 7, § 1, eerste lid, 1°, van het voormelde decreet, bedoeld dat geen enkele van de voor subsidiëring in aanmerking komende werken al gestart of voltooid mogen zijn. Dat geldt niet voor het ontwerpen van de nieuwbouw of renovatie van de sportinfrastructuur en voor het bouwrijp maken van het terrein.
+
+### ART 4/1.
+
+Ter uitvoering van artikel 7, § 1, vierde lid, van het decreet van 5 mei 2017 wordt voor de subsidievoorwaarde, vermeld in artikel 7, § 1, eerste lid, 2°, van het voormelde decreet, met de overeenkomst of de beslissing van de bevoegde rechtspersoon een overeenkomst of beslissing zonder opschortende of ontbindende voorwaarde bedoeld, met uitzondering van de opschortende of ontbindende voorwaarde die betrekking heeft op de toekenning van de subsidie op basis van het voormelde decreet.
 
 ### ART 5.
 
-Ter uitvoering van artikel 7, § 1, derde lid, van het decreet van 5 mei 2017 wordt met de subsidievoorwaarde, vermeld in artikel 7, § 1, eerste lid, 4°, van het voormelde decreet, bedoeld dat de subsidieaanvrager moet garanderen dat de toegangsprijzen voor de gebruikers marktconform zullen zijn.
+Ter uitvoering van artikel 7, § 1, vierde lid, van het decreet van 5 mei 2017 wordt met de subsidievoorwaarde, vermeld in artikel 7, § 1, eerste lid, 4°, van het voormelde decreet, bedoeld dat de subsidieaanvrager moet garanderen dat de toegangsprijzen voor de gebruikers marktconform zullen zijn.
 
 ### ART 6.
 
-Ter uitvoering van artikel 7, § 1, derde lid, van het decreet van 5 mei 2017 wordt voor de subsidievoorwaarde, vermeld in artikel 7, § 1, eerste lid, 6°, van het voormelde decreet, met de oplevering het moment van de voorlopige oplevering bedoeld.
+Ter uitvoering van artikel 7, § 1, vierde lid, van het decreet van 5 mei 2017 wordt voor de subsidievoorwaarde, vermeld in artikel 7, § 1, eerste lid, 6°, van het voormelde decreet, met de oplevering het moment van de voorlopige oplevering bedoeld.
 
 ### ART 7.
 
-Ter uitvoering van artikel 7, § 1, derde lid, van het decreet van 5 mei 2017 wordt met de subsidievoorwaarde, vermeld in artikel 7, § 1, eerste lid, 7°, van het voormelde decreet, het volgende bedoeld:<br>
+Ter uitvoering van artikel 7, § 1, vierde lid, van het decreet van 5 mei 2017 wordt met de subsidievoorwaarde, vermeld in artikel 7, § 1, eerste lid, 7°, van het voormelde decreet, het volgende bedoeld:<br>
 1° financieel haalbaar: de financiering van het project is gegarandeerd, rekening houdend met de eventuele toekenning van een subsidie;<br>
 2° financieel duurzaam: uit de inschatting van de inkomstenstructuur en de kostenstructuur van de bovenlokale sportinfrastructuur, rekening houdend met vervangingsinvesteringen, blijkt dat ze duurzaam is.<br>
 <br>
@@ -108,7 +112,7 @@ De voorwaarde, vermeld in het eerste lid, 2°, wordt aangetoond met het ingevuld
 
 ### ART 8.
 
-Ter uitvoering van artikel 7, § 1, vierde lid, van het decreet van 5 mei 2017 wordt de minimale energetische norm waaraan de sportinfrastructuur moet voldoen na de sportinfrastructuurwerken bepaald als volgt: als de sportinfrastructuur waarvoor subsidie aangevraagd wordt, een of meer EPN-eenheden bevat, moeten de functionele delen waar de sport beoefend wordt, na de sportinfrastructuurwerken voldoen aan het E-peil dat van toepassing zal zijn één jaar na de datum van de aanvraag van de omgevingsvergunning voor stedenbouwkundige handelingen of de stedenbouwkundige vergunning. De basis voor de berekening van dat E-peil is:<br>
+Ter uitvoering van artikel 7, § 1, vijfde lid, van het decreet van 5 mei 2017 wordt de minimale energetische norm waaraan de sportinfrastructuur moet voldoen na de sportinfrastructuurwerken bepaald als volgt: als de sportinfrastructuur waarvoor subsidie aangevraagd wordt, een of meer EPN-eenheden bevat, moeten de functionele delen waar de sport beoefend wordt, na de sportinfrastructuurwerken voldoen aan het E-peil dat van toepassing zal zijn één jaar na de datum van de aanvraag van de omgevingsvergunning voor stedenbouwkundige handelingen of de stedenbouwkundige vergunning. De basis voor de berekening van dat E-peil is:<br>
 1° in geval van nieuwbouw: het E-peil, vermeld in artikel 9.1.11 van het Energiebesluit van 19 november 2010;<br>
 2° in geval van ingrijpende energetische renovatie: het E-peil, vermeld in artikel 9.1.17 van het Energiebesluit van 19 november 2010.<br>
 <br>
@@ -121,7 +125,7 @@ In het eerste lid wordt verstaan onder:<br>
 
 ### ART 9.
 
-Ter uitvoering van artikel 7, § 1, vijfde lid, van het decreet van 5 mei 2017, wordt de minimale investeringswaarde aan sportgerelateerde investeringskosten van de bovenlokale sportinfrastructuurwerken bepaald op 500.000 euro, exclusief btw.<br>
+Ter uitvoering van artikel 7, § 1, zesde lid, van het decreet van 5 mei 2017, wordt de minimale investeringswaarde aan sportgerelateerde investeringskosten van de bovenlokale sportinfrastructuurwerken bepaald op 500.000 euro, exclusief btw.<br>
 <br>
 De minister kan het bedrag van de minimale investeringswaarde aan sportgerelateerde investeringskosten, vermeld in het eerste lid, aanpassen indien zou blijken dat dit bedrag te hoog of te laag ligt in functie van potentiële bovenlokale sportinfrastructuren die beantwoorden aan de drempelwaarde van de mate van bovenlokaliteit, vermeld in artikel 3, zesde lid.<br>
 <br>
@@ -152,8 +156,9 @@ Ter uitvoering van artikel 9, tweede lid, van het voormelde decreet worden de vo
 1° het beoordelingscriterium, vermeld in artikel 9, eerste lid, 1°, van het voormelde decreet: de mate waarin er, rekening houdend met onder meer participatiecijfers en mogelijke trends of evoluties in sportparticipatie, behoefte is aan de sportinfrastructuur;<br>
 2° het beoordelingscriterium, vermeld in artikel 9, eerste lid, 2°, van het voormelde decreet: met bereik wordt het aantal sporters dat een sportinfrastructuur zou kunnen bereiken of bedienen op jaarbasis, bedoeld;<br>
 3° het beoordelingscriterium, vermeld in artikel 9, eerste lid, 3°, van het voormelde decreet: de mate waarin intergemeentelijk, of met sportfederaties of sportclubs, of intersectoraal of met gebruikers wordt samengewerkt zodat de realisatie of de exploitatie doelmatiger verloopt. Bij de beoordeling wordt rekening gehouden met de context waarin de sportinfrastructuur wordt gerealiseerd;<br>
-4° het beoordelingscriterium, vermeld in artikel 9, eerste lid, 4°, van het voormelde decreet: de mate waarin in het concept maximaal rekening wordt gehouden met elke doelgroep, zodat elke doelgroep optimaal kan gebruikmaken van de sportinfrastructuur. Bij de beoordeling wordt rekening gehouden met de context waarin de sportinfrastructuur wordt gerealiseerd;<br>
-5° het beoordelingscriterium, vermeld in artikel 9, eerste lid, 5°, van het voormelde decreet: de mate waarin wordt ingespeeld op trends of de mate waarin bij de realisatie of exploitatie nieuwe technologieën worden gebruikt.
+4° het beoordelingscriterium, vermeld in artikel 9, eerste lid, 4°, van het voormelde decreet: de mate waarin in het concept maximaal rekening wordt gehouden met elke gebruikersgroep, zodat de sportinfrastructuur goed bereikbaar is, en iedereen optimaal kan gebruikmaken van de sportinfrastructuur. Bij de beoordeling wordt rekening gehouden met de context waarin de sportinfrastructuur wordt gerealiseerd;<br>
+5° het beoordelingscriterium, vermeld in artikel 9, eerste lid, 5°, van het voormelde decreet: de mate waarin wordt ingespeeld op trends&nbsp;die een impact hebben op het Vlaamse sportgedrag in de toekomst of de mate waarin bij de realisatie of exploitatie nieuwe technologieën&nbsp;of methodieken worden gebruikt.&nbsp;Belangrijke trends zijn: zuinig ruimtegebruik, toenemende bevolkingsgroei en vergrijzing, verstedelijking, multiculturele samenleving, klimaatverandering en duurzaamheid.<br>
+&nbsp;
 
 ### ART 12.
 
@@ -181,7 +186,9 @@ Sport Vlaanderen onderzoekt de ontvankelijkheid van de subsidieaanvragen. Een aa
 <br>
 De ontvankelijke aanvragen worden ter beoordeling voorgelegd aan de beoordelingscommissie bovenlokale sportinfrastructuur. De beoordelingscommissie bovenlokale sportinfrastructuur deelt haar advies over de selectie, de rangschikking en het subsidiebedrag, vermeld in artikel 8, tweede lid, van het voormelde decreet, mee aan de minister.<br>
 <br>
-De minister beslist na het advies van Sport Vlaanderen over het beantwoorden aan de subsidievoorwaarden, vermeld in artikel 6 en 7 van het voormelde decreet, en na het advies van de beoordelingscommissie bovenlokale sportinfrastructuur over de selectie, de rangschikking van de subsidieaanvragen en over het subsidiebedrag. Uiterlijk op 30 september deelt de minister zijn beslissing mee.
+De minister beslist na het advies van Sport Vlaanderen over het beantwoorden aan de subsidievoorwaarden, vermeld in artikel 6 en 7 van het voormelde decreet, en na het advies van de beoordelingscommissie bovenlokale sportinfrastructuur over de selectie, de rangschikking van de subsidieaanvragen en over het subsidiebedrag. Uiterlijk op 30 september deelt de minister zijn beslissing mee.<br>
+<br>
+Als conform artikel 11 van het decreet van 5 mei 2017 een tweede indienmoment wordt georganiseerd, geldt voor die aanvragen tot subsidiëring van bovenlokale sportinfrastructuur dat ze uiterlijk op 30 september worden ingediend en dat de minister uiterlijk op 15 januari zijn beslissing meedeelt.
 
 ## HOOFDSTUK 3 Nadere bepalingen over de subsidiëring voor de bouw, renovatie of inrichting van topsportinfrastructuur in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad
 
@@ -196,7 +203,7 @@ In het eerste lid wordt verstaan onder sportgerelateerde investeringskosten:<br>
 2° de investeringskosten die gerelateerd zijn aan de werken en de investeringen met betrekking tot andere voorzieningen die in functie van de topsportinfrastructuur in kwestie noodzakelijk zijn voor het bestaan of voor het optimale gebruik van de topsportinfrastructuur.<br>
 <br>
 De volgende werken en kosten worden uitgesloten van de subsidiëring, vermeld in het eerste lid:<br>
-1° groenaanleg;<br>
+1° groenaanleg en omgevingsaanleg;<br>
 2° cafetariavoorzieningen;<br>
 3° studiekosten;<br>
 4° kosten van de aankoop van het bouwterrein of daarmee verbonden kosten;<br>
@@ -208,6 +215,10 @@ De volgende werken en kosten worden uitgesloten van de subsidiëring, vermeld in
 ### ART 16.
 
 Ter uitvoering van artikel 15, § 1, vierde lid, van het decreet van 5 mei 2017 wordt met de subsidievoorwaarde, vermeld in artikel 15, § 1, eerste lid, 1°, van het voormelde decreet, bedoeld dat geen enkele van de voor subsidiëring in aanmerking komende werken al gestart of voltooid mogen zijn. Dat geldt niet voor het ontwerpen van de nieuwbouw of renovatie van de topsportinfrastructuur en voor het bouwrijp maken van het terrein.
+
+### ART 16/1.
+
+Ter uitvoering van artikel 15, § 1, vierde lid, van het decreet van 5 mei 2017 wordt voor de subsidievoorwaarde, vermeld in artikel 15, § 1, eerste lid, 2°, van het voormelde decreet, met de overeenkomst of de beslissing van de bevoegde rechtspersoon een overeenkomst of beslissing zonder opschortende of ontbindende voorwaarde bedoeld, met uitzondering van de opschortende of ontbindende voorwaarde die betrekking heeft op de toekenning van de subsidie op basis van het voormelde decreet.
 
 ### ART 17.
 
@@ -225,7 +236,7 @@ De voorwaarde, vermeld in het eerste lid, 2°, wordt aangetoond met het ingevuld
 
 ### ART 19.
 
-Ter uitvoering van artikel 15, § 1, vierde lid, van het decreet van 5 mei 2017 worden voor de subsidievoorwaarde, vermeld in artikel 15, § 1, eerste lid, 6°, van het voormelde decreet, jaarlijks met de topsportfederaties in kwestie de gebruiksuren van de topsportinfrastructuur voor de dagelijkse training van topsporters en topsporttalenten vastgelegd.
+Ter uitvoering van artikel 15, § 1, vierde lid, van het decreet van 5 mei 2017 worden voor de subsidievoorwaarde, vermeld in artikel 15, § 1, eerste lid, 6°, van het voormelde decreet, jaarlijks met de topsportfederaties in kwestie de gebruiksuren van de topsportinfrastructuur voor de dagelijkse training van topsporters en topsporttalenten vastgelegd.&nbsp;Een prioritaire terbeschikkingstelling voor topsport wordt gegarandeerd voor een contingent van minimaal honderd gebruiksuren per kalenderjaar. Die prioritaire terbeschikkingstelling wordt vastgelegd in een engagementsverklaring Topsport tussen de subsidieaanvrager en de topsportfederaties in kwestie.
 
 ### ART 20.
 
