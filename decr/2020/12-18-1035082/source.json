@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035082,
+  "title": "Decreet van 2020-12-18 tot wijziging van artikel 4, 7, 9, 10, 13 en 15 van het decreet van 5 mei 2017 houdende de ondersteuning van bovenlokale sportinfrastructuur en topsportinfrastructuur",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035082/VolledigDocument?datum=2021-04-09",
+  "source_sha256": "8aa496d3ba8307077d3dcfa9dfbba46bc8be587e65e0ad88b5d80a01429dbdc9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035082&param=informatie",
+  "as_of": "2021-04-09",
+  "made": "2020-12-18",
+  "gazette": "2021-01-20",
+  "numac": 2021020075,
+  "document_start": "2021-04-09",
+  "document_end": null,
+  "in_force": "2021-04-09",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2021-04-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
