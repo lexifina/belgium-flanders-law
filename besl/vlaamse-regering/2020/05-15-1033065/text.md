@@ -140,7 +140,7 @@ In afwijking van artikel 3, 2°, van het besluit van de Vlaamse Regering van 20 
 
 ### ART 14.
 
-In artikel 13, derde lid, van het decreet van 5 mei 2017 houdende de ondersteuning van bovenlokale sportinfrastructuur en topsportinfrastructuur, wordt de definitie olympiade, toegepast als volgt: de periode van vier jaar die begint op 1 januari van het jaar na de oorspronkelijk geplande Olympische Zomerspelen, en die eindigt op 31 december van het jaar van de oorspronkelijk geplande Olympische Zomerspelen.
+...
 
 ### ART 15.
 
