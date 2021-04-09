@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035369,
+  "title": "Besluit van de Vlaamse Regering van 2021-02-26 over de modaliteiten voor een kortere terugvorderingstermijn voor technische installaties bij gesubsidieerde onderwijsinfrastructuur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035369/VolledigDocument?datum=2021-04-09",
+  "source_sha256": "734b12f993560a871c82eb7d45df688c43b9da679779c865827dc018f439f8a7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035369&param=informatie",
+  "as_of": "2021-04-09",
+  "made": "2021-02-26",
+  "gazette": "2021-03-30",
+  "numac": 2021030842,
+  "document_start": "2021-04-09",
+  "document_end": null,
+  "in_force": "2021-04-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-04-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
