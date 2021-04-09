@@ -198,7 +198,7 @@ Alle bepalingen van boek I van het Strafwetboek, hoofdstuk VII en artikel 85 nie
 
 ### ART. 38.
 
-Personen die een slachtoffer van discriminatie vertegenwoordigen of in zijn voordeel getuigen tijdens een procedure, gericht op het doen naleven van dit decreet, genieten dezelfde bescherming als die, vermeld in artikel 37.
+Personen die aan een slachtoffer van discriminatie steun verlenen door het slachtoffer te verdedigen of te vertegenwoordigen, of door voor het slachtoffer te getuigen, genieten dezelfde bescherming als de bescherming, vermeld in artikel 37.
 
 ### ART. 39.
 
