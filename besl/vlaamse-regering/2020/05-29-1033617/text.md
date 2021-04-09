@@ -37,6 +37,7 @@ In dit besluit wordt verstaan onder:<br>
 6° centrum voor kinderzorg en gezinsondersteuning: een erkend centrum voor kinderzorg en gezinsondersteuning als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 9 november 2012 inzake erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning;<br>
 7° centrum voor kortverblijf: een centrum voor kortverblijf als vermeld in artikel 25 van het Woonzorgdecreet van 15 februari 2019;<br>
 8° decreet van 6 juli 2018: het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
+8° /1 dienst voor gezinszorg: een dienst voor gezinszorg als vermeld in artikel 11 van het Woonzorgdecreet van 15 februari 2019;<br>
 9° eenheid: een eenheid, zoals bekend bij de bevoegde entiteit op 1 april 2020;<br>
 10° gebruiker: een persoon die residentieel in een voorziening voor personen met een handicap verblijft;<br>
 11° initiatief van beschut wonen met een collectieve woongelegenheid: een initiatief van beschut wonen als vermeld in artikel 2, 9°, van het decreet van 6 juli 2018, dat een collectieve woongelegenheid ter beschikking stelt;<br>
@@ -77,7 +78,8 @@ Dit besluit is van toepassing op de volgende instellingen:<br>
 10° de residentiële voorzieningen in de jeugdhulp;<br>
 11° de voorzieningen voor personen met een handicap;<br>
 12° de centra voor algemeen welzijnswerk;<br>
-13° de centra voor kinderzorg en gezinsondersteuning.
+13° de centra voor kinderzorg en gezinsondersteuning;<br>
+14° de diensten voor gezinszorg.
 
 ### ART 3.
 
@@ -87,15 +89,17 @@ Als ter uitvoering van dit besluit staatssteun in de zin van het Verdrag betreff
 
 ### ART 4.
 
-De instellingen, met uitzondering van de algemene, universitaire en psychiatrische ziekenhuizen, ontvangen een subsidie voor de kosten die ze hebben gemaakt om de gevolgen te beperken van de civiele noodsituatie met betrekking tot de volksgezondheid, namelijk de COVID-19-epidemie, en die verband houden met:<br>
+De instellingen, met uitzondering van de algemene, universitaire en psychiatrische ziekenhuizen en de diensten voor gezinszorg, ontvangen een subsidie voor de kosten die ze hebben gemaakt om de gevolgen te beperken van de civiele noodsituatie met betrekking tot de volksgezondheid, namelijk de COVID-19-epidemie, en die verband houden met:<br>
 1° de investeringen in roerende en onroerende infrastructuur die noodzakelijk zijn om de opvangcapaciteit te verhogen, aan te passen of in haar oorspronkelijke staat te herstellen;<br>
 2° de financiering van het beschermingsmateriaal, de desinfecteringsproducten, het testmateriaal, de wasserij en de speciale afvalverwerking.<br>
 <br>
-De algemene, universitaire en psychiatrische ziekenhuizen ontvangen een subsidie voor de kosten die verband houden met de investeringen in roerende en onroerende infrastructuur die noodzakelijk zijn om de opvangcapaciteit te verhogen, aan te passen of in haar oorspronkelijke staat te herstellen als gevolg van de civiele noodsituatie voor de volksgezondheid, namelijk de COVID-19-epidemie.
+De algemene, universitaire en psychiatrische ziekenhuizen ontvangen een subsidie voor de kosten die verband houden met de investeringen in roerende en onroerende infrastructuur die noodzakelijk zijn om de opvangcapaciteit te verhogen, aan te passen of in haar oorspronkelijke staat te herstellen als gevolg van de civiele noodsituatie voor de volksgezondheid, namelijk de COVID-19-epidemie.<br>
+<br>
+De diensten voor gezinszorg ontvangen een subsidie voor de kosten die ze hebben gemaakt om de gevolgen te beperken van de civiele noodsituatie voor de volksgezondheid, namelijk de COVID-19-epidemie, en die verband houden met de financiering van het beschermingsmateriaal en de desinfecteringsproducten.
 
 ### ART 5.
 
-§ 1. Met het oog op de doelstelling, vermeld in artikel 4, wordt aan elke instelling automatisch een forfaitaire subsidie toegekend.<br>
+§ 1. Met het oog op de doelstelling, vermeld in artikel 4, wordt aan elke instelling, met uitzondering van de diensten voor gezinszorg, automatisch een forfaitaire subsidie toegekend.<br>
 <br>
 § 2. De forfaitaire subsidie voor de instellingen, vermeld in de volgende tabel, wordt, conform de volgende tabel, berekend als volgt: het forfaitaire bedrag x het aantal eenheden.
 <table border="1" style="width:1000px">
@@ -223,6 +227,8 @@ De kosten, vermeld in het eerste lid, hebben betrekking op de uitgavenposten die
 <br>
 In afwijking van het tweede lid, 6° tot en met 9°, kunnen de kosten, vermeld in het eerste lid, voor de algemene, universitaire en psychiatrische ziekenhuizen geen betrekking hebben op het beschermingsmateriaal, de desinfecteringsproducten, het testmateriaal, de wasserij en de speciale afvalverwerking.<br>
 <br>
+In afwijking van het eerste lid tonen de diensten voor gezinszorg alleen de kosten aan die aanleiding geven tot een bijkomende subsidie. In afwijking van het tweede lid kunnen de kosten, vermeld in het eerste lid, voor de diensten voor gezinszorg alleen betrekking hebben op het beschermingsmateriaal en de desinfecteringsproducten.<br>
+<br>
 De minister kan de uitgavenposten, vermeld in het tweede lid, nader bepalen en bijkomende uitgavenposten bepalen.<br>
 <br>
 § 3. Voor de instellingen, vermeld in de volgende tabel, kan de som van het forfaitaire bedrag, vermeld in artikel 5, § 2, en het bedrag van de bijkomende subsidie, vermeld in paragraaf 1, het maximumbedrag per eenheid die conform artikel 5, § 2, in rekening wordt gebracht, niet overschrijden:
@@ -328,7 +334,9 @@ De psychiatrische en revalidatieziekenhuizen die de minister aanwijst om capacit
 	</tbody>
 </table>
 <br>
-§ 5. Voor de centra voor algemeen welzijnswerk kan de som van het forfaitaire bedrag, vermeld in artikel 5, § 4, en het bedrag van de bijkomende subsidie, vermeld in paragraaf 1, per effectief gebruikte opvangplaats die conform artikel 5, § 4, in rekening wordt gebracht, niet hoger zijn dan 400 euro.
+§ 5. Voor de centra voor algemeen welzijnswerk kan de som van het forfaitaire bedrag, vermeld in artikel 5, § 4, en het bedrag van de bijkomende subsidie, vermeld in paragraaf 1, per effectief gebruikte opvangplaats die conform artikel 5, § 4, in rekening wordt gebracht, niet hoger zijn dan 400 euro.<br>
+<br>
+§ 6. Voor de diensten voor gezinszorg kan de bijkomende subsidie, vermeld in paragraaf 1, het maximumbedrag van 0,165 euro per toegekend uur gezinszorg in 2020 niet overschrijden.
 
 ### ART 7.
 
@@ -342,7 +350,9 @@ Het Fonds of de bevoegde entiteit onderzoekt de aanvraag formeel en inhoudelijk 
 <br>
 De leidend ambtenaar van het Departement Welzijn, Volksgezondheid en Gezin, opgericht bij het besluit van 31 maart 2006, kent in voorkomend geval de bijkomende subsidie toe aan de aanvragende instelling.<br>
 <br>
-De bijkomende subsidie wordt uiterlijk twee maanden na de beslissing tot toekenning van de bijkomende subsidie, vermeld in het vierde lid, in één schijf uitbetaald aan de instelling.
+De bijkomende subsidie wordt uiterlijk twee maanden na de beslissing tot toekenning van de bijkomende subsidie, vermeld in het vierde lid, in één schijf uitbetaald aan de instelling.<br>
+<br>
+In afwijking van het tweede lid bezorgen de diensten voor gezinszorg een overzicht van de kosten die ze gemaakt hebben tussen 13 maart 2020 en 30 juni 2020. De bezorgde facturen of stavingstukken dateren van de periode van 13 maart 2020 tot en met 30 juni 2020. De facturen en stavingstukken die dateren van na 30 juni 2020 kunnen alleen worden ingediend als de dienst voor gezinszorg kan aantonen dat de bestelling voor 30 juni 2020 is geplaatst.
 
 ### ART 8.
 

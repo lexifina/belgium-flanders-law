@@ -2,16 +2,16 @@
   "codex_id": 1033617,
   "title": "Besluit van de Vlaamse Regering van 2020-05-29 tot vaststelling van de regels voor de toekenning van een subsidie aan [... (opgeh. BVR 19 maart 2021, art. 1, I: 9 april 2021)] voorzieningen in het beleidsdomein Welzijn, Volksgezondheid en Gezin voor de vergoeding van bepaalde kosten ten gevolge van de COVID-19-epidemie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033617/VolledigDocument?datum=2020-05-29",
-  "source_sha256": "bc8516b13b435b092f714712ab2fa0228fb33d9e67cfe65abf05514c4b04071e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033617/VolledigDocument?datum=2021-04-09",
+  "source_sha256": "8029087a2bbe02f2de788209337987acb5dd5ae975d778f72cc34ceb4244e8b5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033617&param=informatie",
-  "as_of": "2020-05-29",
+  "as_of": "2021-04-09",
   "made": "2020-05-29",
   "gazette": "2020-08-24",
   "numac": 2020031202,
   "document_start": "2020-05-29",
   "document_end": null,
-  "in_force": "2020-05-29",
+  "in_force": "2021-04-09",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2020-05-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-04-09; future article versions excluded; article text as the API gives it"
 }
