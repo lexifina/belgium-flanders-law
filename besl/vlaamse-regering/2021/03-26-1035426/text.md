@@ -34,6 +34,26 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+Er wordt een extra bedrag t.b.v. maximaal 1.215.083 euro voorzien voor uitzonderlijke opvang tijdens de periode van 19 april 2021 tot en met 30 juni 2021 door:<br>
+1° internaten vermeld in de artikelen III.21 en III.35, van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016;<br>
+2° tehuizen vermeld in de artikelen III.1, § 1, eerste lid, III.20, III.35, § 1, 2° en III.37, van dezelfde codificatie;<br>
+3° internaten buitengewoon onderwijs vermeld in hoofdstuk 4, afdeling 1, onderafdeling 2, van dezelfde codificatie;<br>
+4° internaten met permanente openstelling vermeld in hoofdstuk 6, van dezelfde codificatie.<br>
+<br>
+Het bedrag per instelling wordt berekend door per halve dag uitzonderlijke opvang het aantal aanwezige uitzonderlijk opgevangen internen te vermenigvuldigen met 50 euro.<br>
+<br>
+De meerkosten dienen te worden verantwoord naar AGODI toe.
+
+### ART 2.
+
+Voor de busbegeleiding wordt een extra bedrag van 376.334,79 euro voorzien voor de extra personeelskost tijdens de periode van 19 april 2021 tot en met 30 juni 2021 voor de extra ritten van het collectief leerlingenvervoer die de Lijn organiseert in kader van de corona-maatregelen.
+
+### ART 3.
+
+Voor de periode van 19 april 2021 tot en met 30 juni 2021 wordt 3.337.487,82 euro extra middelen toegekend aan de CLB's voor de extra kosten ten gevolge van het uitvoeren van de opdrachten rond contactonderzoek. Het bedrag wordt onder de CLB's verdeeld op basis van hun aandeel in de nieuwe omkadering.
+
 ### ART 4.
 
 § 1. Dit artikel is van toepassing op:/<br>
@@ -100,3 +120,13 @@ De vervanging van een afwezig personeelslid is enkel mogelijk als aan de volgend
 - de vervanging is noodzakelijk in functie van het beperken van risico's bij fysiek contact;<br>
 - er is een vervanger beschikbaar;<br>
 - er is lokaal sociaal overleg geweest in het bevoegde onderhandelingscomité met aandacht voor de afspraak dat niet altijd dezelfde school de school is waar de opdracht niet meer uitgeoefend kan worden."
+
+### ART 6.
+
+Dit besluit treedt in werking op de dag die volgt op de bekendmaking in het Belgisch Staatsblad.<br>
+<br>
+Artikel 4 en 5 hebben uitwerking met ingang van 1 april 2021.
+
+### ART 7.
+
+De Vlaamse minister, bevoegd voor het Onderwijs is belast met de uitvoering van dit besluit.
