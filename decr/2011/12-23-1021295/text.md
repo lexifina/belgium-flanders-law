@@ -6,7 +6,11 @@ Dit decreet regelt een gewestaangelegenheid.<br /><br />
 
 ### ART. 2.
 
-Dit decreet voorziet in de gedeeltelijke omzetting van richtlijn 2008/98/EG van het Europees Parlement en de Raad van 19 november 2008 betreffende afvalstoffen en tot intrekking van een aantal richtlijnen.<br /><br />
+Dit decreet voorziet in de gedeeltelijke omzetting van:<br>
+1° richtlijn (EU) 2008/98/EG van het Europees Parlement en de Raad van 19 november 2008 betreffende afvalstoffen en tot intrekking van een aantal richtlijnen;<br>
+2° richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van richtlijn 2008/98/EG betreffende afvalstoffen;<br>
+3° richtlijn (EU) 2019/883 van het Europees Parlement en de Raad van 17 april 2019 inzake havenontvangstvoorzieningen voor de afvalafgifte van schepen, tot wijziging van Richtlijn 2010/65/EU en tot intrekking van Richtlijn 2000/59/ EG;<br>
+4° richtlijn (EU) 2019/904 van het Europees Parlement en de Raad van 5 juni 2019 betreffende de vermindering van de effecten van bepaalde kunststofproducten op het milieu.
 
 ### ART. 3.
 
@@ -18,15 +22,17 @@ c) het al dan niet verontreinigde water dat wordt geloosd in een oppervlaktewate
 d) huishoudelijk en bedrijfsafvalwater dat overeenkomstig de bepalingen van het decreet van 24 januari 1984 inzake het grondwaterbeheer en van het decreet van 25 april 2014 betreffende de omgevingsvergunning indirect wordt geloosd in het grondwater;<br>
 e) onuitgegraven bodem, met inbegrip van duurzaam met de bodem verbonden gebouwen;<br>
 f) radioactieve afvalstoffen, voor zover ze niet als vrijgegeven afvalstoffen worden beschouwd als vermeld in het samenwerkingsakkoord tussen de federale Staat en de Gewesten van 17 oktober 2002 met betrekking tot het beheer van vrijgegeven afvalstoffen;<br>
+g) stoffen die bestemd zijn voor gebruik als voedermiddelen als vermeld in artikel 3, lid 2, g), van verordening (EG) nr. 767/2009 van het Europees Parlement en de Raad van 13 juli 2009 betreffende het in de handel brengen en het gebruik van diervoeders, tot wijziging van Verordening (EG) nr. 1831/2003 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 79/373/EEG van de Raad, Richtlijn 80/511/EEG van de Commissie, Richtlijnen 82/471/EEG, 83/228/EEG, 93/74/EEG, 93/113/EG en 96/25/EG van de Raad en Beschikking 2004/217/EG van de Commissie, en die geen dierlijke bijproducten bevatten of daaruit bestaan;<br>
 2° afvalstoffenhandelaar : iedere onderneming die als verantwoordelijke optreedt bij het aankopen en vervolgens verkopen van afval, met inbegrip van handelaars die de afvalstoffen niet fysiek in hun bezit hebben;<br>
 3° afvalstoffenmakelaar : iedere onderneming die ten behoeve van anderen de verwijdering of de nuttige toepassing van afvalstoffen organiseert, met inbegrip van makelaars die de afvalstoffen niet fysiek in hun bezit hebben;<br>
 4° afvalstoffenproducent : elke natuurlijke persoon of rechtspersoon wiens activiteiten afvalstoffen voortbrengen, zijnde de eerste afvalproducent, of eenieder die voorbehandelingen, vermengingen of andere bewerkingen verricht die leiden tot een wijziging in de aard of de samenstelling van die afvalstoffen;<br>
 5° afvalstoffenverwerking : nuttige toepassing of verwijdering, met inbegrip van voorbereidende handelingen die aan nuttige toepassing of verwijdering voorafgaan;<br>
 5° /1 asbesthoudende materialen: de materialen die op basis van -voorkennis en een beoordeling met het blote oog of op basis van een geldige monstername en analyse asbest bevatten;<br>
 6° bedrijfsafvalstoffen : afvalstoffen die ontstaan ten gevolge van een industriële, ambachtelijke of wetenschappelijke activiteit, en de afvalstoffen die daarmee gelijkgesteld worden bij een besluit van de Vlaamse Regering;<br>
-7° beheren van afvalstoffen : het inzamelen, het tussentijds opslaan en overslaan, het vervoeren, het nuttig toepassen en het verwijderen van afvalstoffen, met inbegrip van het houden van toezicht op die handelingen en het uitvoeren van de nazorg voor de stortplaatsen na sluiting, en met inbegrip van activiteiten van afvalstoffenhandelaars of -makelaars;<br>
+7° beheren van afvalstoffen : het inzamelen, het tussentijds opslaan en overslaan, het vervoeren, het nuttig toepassen, met inbegrip van sortering, en het verwijderen van afvalstoffen,&nbsp;met inbegrip van het houden van toezicht op die handelingen en het uitvoeren van de nazorg voor de stortplaatsen na sluiting, en met inbegrip van activiteiten van afvalstoffenhandelaars of -makelaars;<br>
 8° beste beschikbare technieken: beste beschikbare technieken als vermeld bij of krachtens titel V van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
 9° bijzondere afvalstoffen : huishoudelijke, gevaarlijke, bedrijfsafvalstoffen of andere afvalstoffen die wegens hun aard, samenstelling, herkomst of verwerking een bijzondere regeling behoeven. De Vlaamse Regering kan bepalen welke afvalstoffen als bijzondere afvalstoffen worden beschouwd;<br>
+9° /1 bioafval: biologisch afbreekbaar tuin-en plantsoenafval, levensmiddelen-en keukenafval van huishoudens, kantoren, restaurants en andere voedingsdiensten, groothandels, kantines, cateringfaciliteiten en winkels, en vergelijkbare afvalstoffen van de levensmiddelenindustrie;<br>
 10° de OVAM : de Openbare Vlaamse Afvalstoffenmaatschappij, vermeld in artikel 10.3.1, § 1, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
 11° gemengd stedelijk afval : huishoudelijk afval, alsmede bedrijfs-, industrieel en institutioneel afval dat qua aard en samenstelling te vergelijken is met huishoudelijk afval, behoudens de in bijlage van beschikking 2000/532/EG onder 20 01 genoemde fracties die afzonderlijk aan de bron worden ingezameld, en de onder 20 02 van die bijlage genoemde andere afvalstoffen;<br>
 12° gescheiden inzameling : de inzameling waarbij een afvalstroom gescheiden wordt naar soort en aard van het afval om een specifieke behandeling te vergemakkelijken;<br>
@@ -37,34 +43,59 @@ f) radioactieve afvalstoffen, voor zover ze niet als vrijgegeven afvalstoffen wo
 17° huishoudelijke afvalstoffen : afvalstoffen die ontstaan door de normale werking van een particuliere huishouding en afvalstoffen die daarmee gelijkgesteld worden bij een besluit van de Vlaamse Regering;<br>
 18° inzameling : het verzamelen van afvalstoffen, inclusief de voorlopige sortering en de voorlopige opslag van afvalstoffen, om deze daarna te vervoeren naar een afvalverwerkingsinstallatie;<br>
 19° levenscyclusdenken : een benadering waarbij wordt gekeken naar de effecten die optreden tijdens de hele levenscyclus van een materiaal;<br>
+19° /1 levensmiddelenafval: alle levensmiddelen als vermeld in artikel 2 van verordening (EG) nr. 178/2002 van het Europees Parlement en de Raad van 28 januari 2002 tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden, die afvalstoffen zijn geworden;<br>
 20° lokale besturen : provincies, provinciebedrijven, gemeenten, gemeentebedrijven en intergemeentelijke samenwerkingsverbanden;<br>
 21° materiaal : elke stof die wordt of is ontgonnen, gewonnen, geteeld, verwerkt, geproduceerd, verdeeld, in gebruik genomen, afgedankt of opnieuw verwerkt, of elk voorwerp dat wordt geproduceerd, verdeeld, in gebruik genomen, afgedankt of opnieuw gebruikt, inclusief de daaruit ontstane afvalstoffen;<br>
 22° materiaalkringloop : het geheel van opeenvolgende handelingen in een levenscyclus of stofstroom, gaande van de ontginning of winning en teelt, over de verwerking, de productie, de distributie, de opslag of overslag, het transport, het gebruik en hergebruik, de afdanking, de verwijdering en het eventueel opnieuw inzetten waarbij een of meer materialen, bedoeld of onbedoeld, worden doorgegeven van de ene fase in de levenscyclus naar een andere;<br>
+22° /1 niet-gevaarlijke afvalstof: een afvalstof die geen gevaarlijke afvalstof is;<br>
 23° nuttige toepassing : elke handeling met als voornaamste resultaat dat afvalstoffen een nuttig doel dienen door hetzij in de betrokken installatie, hetzij in de ruimere economie andere materialen te vervangen die anders voor een specifieke functie zouden zijn gebruikt, of waardoor de afvalstof voor die functie wordt klaargemaakt, alsook de handelingen die als dusdanig worden bepaald door de Vlaamse Regering;<br>
 24° preventie : maatregelen die worden genomen voordat een stof of voorwerp afvalstof is geworden, ter vermindering van :<br>
 a) de hoeveelheid afvalstoffen, inclusief via het hergebruik van voorwerpen of de verlenging van de levensduur van voorwerpen;<br>
 b) de negatieve gevolgen van de geproduceerde afvalstoffen voor het milieu en de menselijke gezondheid;<br>
-c) het gehalte aan schadelijke stoffen in stoffen en voorwerpen;<br>
+c) het gehalte aan schadelijke stoffen in materialen;<br>
 25° recyclage : elke nuttige toepassing waardoor afvalstoffen opnieuw worden bewerkt tot producten of stoffen, voor het oorspronkelijke doel of voor een ander doel. Dat omvat het opnieuw bewerken van organisch afval, maar het omvat niet energieterugwinning, noch het opnieuw bewerken tot materialen die bestemd zijn om te worden gebruikt als brandstof of als opvulmateriaal;<br>
+25° /1 regeling voor uitgebreide producentenverantwoordelijkheid: een reeks maatregelen die de Vlaamse Regering conform artikel 21 vaststelt om ervoor te zorgen dat producenten van producten de financiële of financiële en organisatorische verantwoordelijkheid dragen voor het beheer van de afvalfase in de levenscyclus van een product;<br>
+25° /2 stedelijk afval: gemengd afval en gescheiden ingezameld afval van huishoudens, met inbegrip van papier en karton, glas, metaal, plastic, bioafval, hout, textiel, verpakkingen, afgedankte elektrische en elektronische apparatuur, afgedankte batterijen en accu's, grofvuil, met inbegrip van matrassen en meubels, en gemengd afval en gescheiden ingezameld afval uit andere bronnen dan de voormelde bronnen als de aard en samenstelling van dat afval vergelijkbaar zijn met de aard en samenstelling van afval van huishoudens. Stedelijk afval omvat geen afval van productie, landbouw, bosbouw, visserij, septische tanks en het riolerings- en zuiveringsstelsel, met inbegrip van zuiveringsslib, afgedankte voertuigen of bouw- en sloopafval;<br>
 26° verwijdering : iedere handeling die geen nuttige toepassing is, zelfs indien de handeling er in tweede instantie toe leidt dat stoffen of energie worden teruggewonnen, alsook de handelingen die als dusdanig worden bepaald door de Vlaamse Regering;<br>
 27° voorbereiding voor hergebruik : elke nuttige toepassing die bestaat uit het controleren, schoonmaken of repareren, waarbij voorwerpen of componenten van voorwerpen die afvalstoffen zijn geworden, worden klaargemaakt zodat ze kunnen worden hergebruikt zonder dat verdere voorbehandeling nodig is.<br>
+<br>
+De definitie, vermeld in het eerste lid, 25° /2, doet geen afbreuk aan de toewijzing van verantwoordelijkheden voor afvalbeheer aan publieke of private actoren.<br>
 <br>
 § 2. Voor de toepassing van afdeling 6 van hoofdstuk 3 wordt verstaan onder:<br>
 1° asbest: de vezelachtige silicaten actinoliet, amosiet, anthofylliet, chrysotiel, crocidoliet en tremoliet;<br>
 2° constructie met risicobouwjaar: de constructie met inbegrip van al wat onroerend is geworden door bestemming of incorporatie, met bouwjaar 2000 of ouder, met uitsluiting van de openbare ondergrondse infrastructuur die bestemd is voor de transit, het transport, de transmissie of de distributie van vaste, vloeibare of gasvormige stoffen, energie of informatie. Een constructie is een gebouw, een bouwwerk, een vaste inrichting, een verharding met uitzondering van steenslag, al dan niet bestaande uit duurzame materialen, in de grond ingebouwd, aan de grond bevestigd of op de grond steunend omwille van de stabiliteit, en bestemd om ter plaatse te blijven staan of liggen, ook al kan het goed uit elkaar genomen worden, verplaatst worden, of is het goed volledig ondergronds;<br>
 3° eenvoudig bereikbare asbesthoudende materialen: de asbesthoudende materialen die waar te nemen en weg te nemen zijn zonder de bouwkundige integriteit van een constructie of erfgoedkenmerken van een beschermd onroerend erfgoed aan te tasten binnen de normale beheers- en onderhoudscycli of een vergelijkbare stilstand bij industriële installaties. Asbesthoudende materialen die bedekt zijn door een ander materiaal, met uitzondering van een laag verf, coating, behang, kunststof of textiel, zijn niet eenvoudig bereikbaar, tenzij het bedekkend materiaal kan worden weggenomen zonder het te beschadigen;<br>
 4° eigenaar: de volle of blote eigenaar. Wanneer het eigendomsrecht in onverdeeldheid is, wordt elk van de onverdeelde houders van dat recht hoofdelijk en ondeelbaar beschouwd als eigenaar;<br>
+4° /1 gebouweenheid: een in functioneel opzicht zelfstandige eenheid binnen een gebouw;<br>
 5° hechtgebonden asbesthoudende materialen: asbestcement, asbesthoudende vloertegels en vloerbekledingen, asbesthoudende bitumen en roofingproducten en asbesthoudende pakkingen en dichtingen waarvan het bindmiddel bestaat uit cement, bitumen, kunststof of lijm;<br>
 6° niet-hechtgebonden asbesthoudende materialen: alle asbesthoudende materialen die niet hechtgebonden zijn;<br>
 7° openbare, technische toegankelijke constructie met risicobouwjaar: een voor mensen toegankelijke constructie met risicobouwjaar die van openbaar nut is met hoofdzakelijk technische functie vervat onder kunstwerken en lijninfrastructuur en hun aanhorigheden;<br>
 8° overdracht: het onder levenden overdragen van een eigendomsrecht, het onder levenden vestigen of overdragen van een recht van vruchtgebruik, een erfpacht, een opstalrecht of een zakelijk recht van gebruik. Een onteigening en een erfenis worden niet beschouwd als een overdracht;<br>
 9° toegankelijke constructie met risicobouwjaar: elke constructie met risicobouwjaar die mensen binnen kunnen betreden. Een constructie kan binnen betreden worden als ze minstens bestaat uit een dak dat gedragen wordt door constructie-elementen, en als een mens er normaal in kan staan of lopen;<br>
-10° publieke constructie met risicobouwjaar: elke constructie met risicobouwjaar die een publieke organisatie huisvest die aan een groot aantal personen overheidsdiensten verstrekken. Een publieke organisatie is een overheid, een parastatale, of een organisatie die publieke diensten aanbiedt die door een overheid worden verzorgd, uitbesteed of gesubsidieerd.<br>
+10° publieke constructie met risicobouwjaar: elke constructie met risicobouwjaar die een publieke organisatie huisvest die aan een groot aantal personen overheidsdiensten verstrekken. Een publieke organisatie is een overheid, een parastatale, of een organisatie die publieke diensten aanbiedt die door een overheid worden verzorgd, uitbesteed of gesubsidieerd;<br>
+11° wooneenheid: een gebouweenheid die over de nodige woonvoorzieningen beschikt om autonoom te kunnen functioneren.<br>
 &nbsp;
 
 ### ART. 4.
 
-§ 1. Dit decreet draagt bij aan het bereiken van de doelstellingen met betrekking tot duurzame ontwikkeling, als vermeld in artikel 7bis van de gecoördineerde Grondwet.<br /><br />§ 2. De doelstelling van dit decreet is het vaststellen van maatregelen voor het tot stand brengen van materiaalkringlopen waarbij :<br />1° de gezondheid van de mens en het milieu gevrijwaard worden tegen de schadelijke invloed van de productie en het beheer van afvalstoffen;<br />2° de uitputting van hernieuwbare en niet-hernieuwbare hulpbronnen, de verspilling van materialen en energie in het algemeen en de schadelijke gevolgen voor mens en milieu, verbonden aan materiaalgebruik en -verbruik, worden tegengegaan.<br /><br />§ 3. In het bijzonder worden in dit decreet maatregelen vastgesteld :<br />1° waarbij steeds wordt gestreefd naar het beste resultaat voor milieu en gezondheid, rekening houdend met de effecten die optreden tijdens de volledige levenscyclus, en waarbij als prioriteitsvolgorde de volgende hiërarchie wordt gehanteerd :<br />a) de preventie van afvalstoffen en een efficiënter en minder milieubelastend gebruik en verbruik van materialen via aangepaste productie- en consumptiepatronen;<br />b) de voorbereiding van afvalstoffen voor hergebruik;<br />c) de recyclage van afvalstoffen en de inzet van materialen in gesloten materiaalkringlopen;<br />d) andere vormen van nuttige toepassing van afvalstoffen, zoals energieterugwinning en de inzet van materialen als energiebron;<br />e) de verwijdering van afvalstoffen, met storten als laatste optie;<br />2° om ervoor te zorgen dat het beheer van materiaalkringlopen en afvalstoffen geen gevaar oplevert voor de gezondheid van de mens en geen nadelige gevolgen heeft voor het milieu, met name :<br />a) zonder risico voor water, lucht, bodem, fauna en flora en klimaat op te leveren;<br />b) zonder geluids- en geurhinder te veroorzaken;<br />c) zonder schade aan natuur- en landschapsschoon te berokkenen.<br /><br />
+§ 1. Dit decreet draagt bij aan het bereiken van de doelstellingen met betrekking tot duurzame ontwikkeling, als vermeld in artikel 7bis van de gecoördineerde Grondwet.<br>
+<br>
+§ 2. De doelstelling van dit decreet is maatregelen vaststellen om een circulaire economie te bevorderen en om materiaalkringlopen tot stand te brengen waarbij :<br>
+1° de gezondheid van de mens en het milieu beschermd worden door afvalproductie en de negatieve gevolgen van afvalproductie en -beheer te voorkomen of te verminderen;<br>
+2° de uitputting van hernieuwbare en niet-hernieuwbare hulpbronnen, de verspilling van materialen en energie in het algemeen en de schadelijke gevolgen voor mens en milieu, verbonden aan materiaalgebruik en -verbruik, worden tegengegaan.<br>
+<br>
+§ 3. In het bijzonder worden in dit decreet maatregelen vastgesteld :<br>
+1° waarbij steeds wordt gestreefd naar het beste resultaat voor milieu en gezondheid, rekening houdend met de effecten die optreden tijdens de volledige levenscyclus, en waarbij als prioriteitsvolgorde de volgende hiërarchie wordt gehanteerd :<br>
+a) de preventie van afvalstoffen en een efficiënter en minder milieubelastend gebruik en verbruik van materialen via aangepaste productie- en consumptiepatronen;<br>
+b) de voorbereiding van afvalstoffen voor hergebruik;<br>
+c) de recyclage van afvalstoffen en de inzet van materialen in gesloten materiaalkringlopen;<br>
+d) andere vormen van nuttige toepassing van afvalstoffen, zoals energieterugwinning en de inzet van materialen als energiebron;<br>
+e) de verwijdering van afvalstoffen, met storten als laatste optie;<br>
+2° om ervoor te zorgen dat het beheer van materiaalkringlopen en afvalstoffen geen gevaar oplevert voor de gezondheid van de mens en geen nadelige gevolgen heeft voor het milieu, met name :<br>
+a) zonder risico voor water, lucht, bodem, fauna en flora en klimaat op te leveren;<br>
+b) zonder geluids- en geurhinder te veroorzaken;<br>
+c) zonder schade aan natuur- en landschapsschoon te berokkenen.<br>
+&nbsp;
 
 ### ART 4/1.
 
@@ -78,7 +109,7 @@ De Vlaamse Regering kan met het oog op het bereiken van de doelstellingen, verme
 
 ### ART. 6.
 
-§ 1. De natuurlijke personen en rechtspersonen die afvalstoffen beheren, houden een chronologisch afvalstoffenregister bij waarin onder meer de aangevoerde en afgevoerde hoeveelheid, aard, oorsprong en, als dat van toepassing is, bestemming, frequentie van de inzameling, wijze van vervoer en van behandeling van de ingezamelde, opgehaalde, vervoerde, verwijderde of nuttig toegepaste afvalstoffen zijn vermeld. De Vlaamse Regering stelt nadere regels vast met betrekking tot de inhoud en de voorwaarden van dat afvalstoffenregister. De Vlaamse Regering kan groepen van natuurlijke personen en rechtspersonen van die plicht ontslaan. Met behoud van de bepalingen van het decreet van 25 april 2014 betreffende de omgevingsvergunning, kan de Vlaamse Regering toestaan dat bij de individuele beoordeling van vergunningsplichtige of meldingsplichtige activiteiten, vermeld in artikel 11, wordt afgeweken van de inhoud en de voorwaarden van het afvalstoffenregister.<br>
+§ 1. De natuurlijke personen en rechtspersonen die afvalstoffen beheren, houden een chronologisch afvalstoffenregister bij waarin onder meer de aangevoerde en afgevoerde hoeveelheid, aard, oorsprong, de hoeveelheid materialen die verkregen zijn door voorbereiding voor hergebruik, recycling of andere handelingen van nuttige toepassing en, als dat van toepassing is, bestemming, frequentie van de inzameling, wijze van vervoer en van behandeling van de ingezamelde, opgehaalde, vervoerde, verwijderde of nuttig toegepaste afvalstoffen zijn vermeld. De Vlaamse Regering stelt nadere regels vast met betrekking tot de inhoud en de voorwaarden van dat afvalstoffenregister. De Vlaamse Regering kan groepen van natuurlijke personen en rechtspersonen van die plicht ontslaan. Met behoud van de bepalingen van het decreet van 25 april 2014 betreffende de omgevingsvergunning, kan de Vlaamse Regering toestaan dat bij de individuele beoordeling van vergunningsplichtige of meldingsplichtige activiteiten, vermeld in artikel 11, wordt afgeweken van de inhoud en de voorwaarden van het afvalstoffenregister.<br>
 <br>
 De natuurlijke personen en rechtspersonen die afvalstoffen beheren, melden bepaalde gegevens met betrekking tot de ingezamelde, opgehaalde, verwijderde of nuttig toegepaste afvalstoffen aan de OVAM. De Vlaamse Regering kan vaststellen dat de OVAM natuurlijke personen en rechtspersonen selecteert om gegevens te melden. De Vlaamse Regering bepaalt welke gegevens worden gemeld en op welke wijze dat gebeurt.<br>
 <br>
@@ -112,11 +143,13 @@ De Vlaamse Regering kan :<br>
 3° voor bepaalde afvalstoffen afvalverwerkingshandelingen opleggen of verbieden.<br>
 <br>
 § 2. De natuurlijke personen of rechtspersonen die een kringloopcentrum uitbaten waar voorwerpen die in aanmerking komen voor producthergebruik worden ingezameld voor selectie met het oog op hergebruik, of worden opgeslagen, gesorteerd, gereinigd of hersteld en verkocht, moeten beschikken over een erkenning. De Vlaamse Regering stelt de nadere regels voor de erkenning vast. Ze bepaalt de voorwaarden en de procedure tot erkenning en de voorwaarden en de procedure tot opheffing, intrekking en schorsing ervan.<br>
+<br>
+§ 3. De inzamelaar van afvalstoffen biedt aan de afvalstoffenproducent een inzamelformule aan die de afvalstoffenproducent stimuleert de afvalstoffen zo aan te bieden dat bij de verwerking van afvalstoffen de doelstellingen, vermeld in artikel 4, § 2, en de hiërarchie, vermeld in artikel 4, § 3, 1°, maximaal kunnen worden toegepast. De inzamelformule, gericht op de selectieve inzameling, slaat op de wijze waarop de afvalstoffen worden ingezameld, zoals de gebruikte recipiënten, de inzamelfrequentie, de tarieven en de tariferingsformule. De Vlaamse Regering kan daarvoor nadere regels vaststellen.<br>
 &nbsp;
 
 ### ART. 10.
 
-Overeenkomstig het beginsel 'de vervuiler betaalt' worden de kosten van het afvalstoffenbeheer gedragen door de eerste afvalstoffenproducent, de huidige of de vorige houders van afvalstoffen, de producent van het product waaruit het afval is voortgekomen, of de distributeurs of invoerders van een dergelijk product. De Vlaamse Regering kan daarvoor nadere regels vaststellen.<br /><br />
+Met behoud van de toepassing van artikel 21 en overeenkomstig het beginsel 'de vervuiler betaalt' worden de kosten van het afvalstoffenbeheer, met inbegrip van de kosten voor de noodzakelijke infrastructuur en de exploitatie ervan, gedragen door de oorspronkelijke afvalstoffenproducent, de huidige of de vorige houders van afvalstoffen, de producent van het product waaruit het afval is voortgekomen, of de distributeurs of invoerders van een dergelijk product. De Vlaamse Regering kan daarvoor nadere regels vaststellen.
 
 ### ART. 11.
 
@@ -176,11 +209,118 @@ In de bestekken van besturen van het Vlaamse Gewest en van lokale besturen worde
 
 ### ART. 17.
 
-§ 1. De OVAM coördineert de opmaak van preventieprogramma's en hun eventuele herziening, en volgt de uitvoering ervan op. De Vlaamse Regering wijst de overheidsinstellingen aan die worden betrokken bij de opmaak en de uitvoering van de preventieprogramma's.<br /><br />Voor de opmaak en uitvoering van preventieprogramma's worden overlegplatformen opgericht, overeenkomstig artikel 19.<br /><br />§ 2. De preventieprogramma's bestaan minimaal uit maatregelen en initiatieven die worden genomen ter bevordering van de preventie van afvalstoffen, een efficiënter en minder milieubelastend gebruik en verbruik van materialen via ecodesign en aangepaste productie- en consumptiepatronen, en een beter beheer van materiaalkringlopen overeenkomstig artikel 4. Ze zijn erop gericht de milieueffecten van materiaalkringlopen en in het bijzonder van de productie van afvalstoffen, los te koppelen van de economische groei. Voor zover dat noodzakelijk of raadzaam is, wordt bij het vaststellen van die maatregelen samengewerkt met omliggende landen of regio's, lokale besturen of de federale overheid.<br /><br />Aan de maatregelen, vermeld in het eerste lid, worden in de preventieprogramma's passende kwalitatieve en kwantitatieve indicatoren, streefcijfers of doelstellingen verbonden, aan de hand waarvan de voortgang en het effect van de maatregelen en hun bijdrage tot de doelstelling worden geëvalueerd.<br /><br />§ 3. De ontwerpen van preventieprogramma's of de ontwerpen van wijziging van preventieprogramma's worden bij uittreksel bekendgemaakt in het Belgisch Staatsblad en voor een termijn van twee maanden ter inzage gelegd bij de gemeenten en bij de OVAM. Gedurende die termijn kan iedereen bezwaren of opmerkingen schriftelijk ter kennis brengen van de OVAM.<br /><br />§ 4. Tegelijkertijd met hun bekendmaking worden de ontwerpen van preventieprogramma's bezorgd aan de Milieu- en Natuurraad van Vlaanderen, die een met redenen omkleed advies uitbrengt binnen een vervaltermijn van twee maanden na ontvangst van het ontwerp. Dit advies is niet bindend.<br /><br />Tegelijk met de bezorging van de ontwerpen van preventieprogramma's aan de Milieu- en Natuurraad van Vlaanderen, worden deze ook overgemaakt aan het Vlaams Parlement.<br /><br />§ 5. De Vlaamse Regering stelt de preventieprogramma's vast, rekening houdend met de gegeven adviezen en met de ingediende bezwaren of opmerkingen. Als de Vlaamse Regering de uitgebrachte adviezen niet volgt of niet aan de ingediende bezwaren of opmerkingen tegemoetkomt, hetzij geheel of gedeeltelijk, dan verantwoordt ze dat in een verslag dat wordt gevoegd bij de bekendmaking, vermeld in paragraaf 6.<br /><br />§ 6. De preventieprogramma's worden bij uittreksel bekendgemaakt in het Belgisch Staatsblad. Ze liggen ter inzage bij de OVAM, de provincies en de gemeenten en worden geplaatst op de website van de OVAM.<br /><br />§ 7. De preventieprogramma's kunnen worden geïntegreerd in de uitvoeringsplannen voor het beheer van materiaalkringlopen en afvalstoffen, vermeld in artikel 18. In voorkomend geval zullen ze als duidelijk onderscheiden preventiemaatregelen worden aangegeven.<br /><br />§ 8. De preventieprogramma's gelden voor de administratieve overheden van het Vlaamse Gewest, de provincies, de gemeenten en de publiekrechtelijke of privaatrechtelijke instellingen die belast zijn met taken van openbaar nut inzake milieubeleid. De geldigheidsduur van de preventieprogramma's wordt in ieder programma afzonderlijk bepaald. De preventieprogramma's worden minstens eenmaal om de zes jaar geëvalueerd en zo nodig herzien.<br /><br />§ 9. Bepalingen van de preventieprogramma's zijn bindend, behalve als uitdrukkelijk in die programma's is aangegeven dat ze niet bindend zijn. In die gevallen zijn ze indicatief. Van de bindende bepalingen kan alleen worden afgeweken bij een beslissing van de Vlaamse Regering, als daarvoor gewichtige redenen zijn en met behoorlijke motivering. Bepalingen van preventieprogramma's die strijdig zijn met een gewestelijk plan of programma van latere datum met verordenende of verbindende kracht, verliezen hun geldigheid.<br /><br />§ 10. De Vlaamse Regering kan nadere regels vaststellen voor de opmaak, vaststelling, opvolging en uitvoering van de preventieprogramma's en de daarin opgenomen inspraak door belanghebbenden.<br /><br />
+§ 1. De OVAM coördineert de opmaak van preventieprogramma's en hun eventuele herziening, en volgt de uitvoering ervan op. De Vlaamse Regering wijst de overheidsinstellingen aan die worden betrokken bij de opmaak en de uitvoering van de preventieprogramma's.<br>
+<br>
+Voor de opmaak en uitvoering van preventieprogramma's worden overlegplatformen opgericht, overeenkomstig artikel 19.<br>
+<br>
+§ 2. De preventieprogramma's bestaan, voor zover van toepassing, minimaal uit maatregelen met de volgende doelstellingen:<br>
+1° duurzame productie- en consumptiemodellen bevorderen en ondersteunen;<br>
+2° het ontwerp, de fabricage en het gebruik van producten aanmoedigen die voldoen aan één of meer van de volgende voorwaarden:<br>
+a) ze zijn hulpbronnenefficiënt;<br>
+b) ze zijn duurzaam, ook wat betreft levensduur. Er is dus geen geplande veroudering;<br>
+c) ze zijn repareerbaar, zowel naar praktische mogelijkheden als naar betaalbaarheid ten opzichte van de aanschaf van een nieuw toestel;<br>
+d) ze zijn herbruikbaar;<br>
+e) ze zijn opwaardeerbaar;<br>
+3° de producten die kritieke grondstoffen bevatten, in kaart brengen om te voorkomen dat die materialen afval worden;<br>
+4° producten hergebruiken en systemen invoeren die reparatie- en hergebruikactiviteiten stimuleren, namelijk voor elektrische en elektronische apparatuur, textiel en meubelen, verpakkingen, bouwmaterialen en -producten;<br>
+5° in voorkomend geval en met behoud van de toepassing van de intellectuele eigendomsrechten de beschikbaarheid van losse onderdelen, handleidingen, technische informatie of andere instrumenten, apparatuur of software die de reparatie en het hergebruik van producten mogelijk maken, aanmoedigen, zonder afbreuk te doen aan de kwaliteit en veiligheid ervan;<br>
+6° de afvalproductie verminderen in processen in verband met de industriële productie, de winning van mineralen, de verwerkende industrie en bouw- en sloopwerkzaamheden, rekening houdend met de beste beschikbare technieken;<br>
+7° de productie van levensmiddelenafval in de primaire productie, de verwerking en de industrie, in de detailhandel en de overige distributie van levensmiddelen, in restaurants, catering en huishoudens verminderen;<br>
+8° voedselschenkingen en andere herverdeling voor menselijke consumptie aanmoedigen, waarbij het menselijke gebruik voorrang heeft op diervoeding en op de herverwerking tot producten die niet voor de voeding bestemd zijn;<br>
+9° de vermindering van het gehalte aan gevaarlijke stoffen in materialen en producten bevorderen, onverminderd de geharmoniseerde wettelijke vereisten voor die materialen en producten;<br>
+10° de productie verminderen van afvalstoffen die niet geschikt zijn voor de voorbereiding voor hergebruik of recycling;<br>
+11° vaststellen welke producten de belangrijkste bronnen van zwerfafval vormen, namelijk in het natuurlijke en mariene milieu, en zwerfafval van die producten voorkomen en verminderen;<br>
+12° de productie van zwerfvuil in zee voorkomen;<br>
+13° voorlichtingscampagnes ontwikkelen en ondersteunen om de bewustwording over afvalpreventie en zwerfafval te bevorderen.<br>
+<br>
+Een preventieprogramma omschrijft verder, indien relevant, het nut en de bijdrage aan de afvalpreventie van de hierna genoemde niet-limitatieve lijst van instrumenten en maatregelen, zoals:<br>
+1° planningsmaatregelen invoeren of andere economische instrumenten toepassen die een efficiënt gebruik van grondstoffen bevorderen;<br>
+2° onderzoek en ontwikkeling bevorderen met het oog op schonere technologieën en producten die minder verspilling veroorzaken, en de resultaten van onderzoek en ontwikkeling op dat gebied verspreiden en toepassen;<br>
+3° relevante en doeltreffende indicatoren ontwikkelen voor de milieudruk als gevolg van de productie van afvalstoffen. Die indicatoren helpen bij de preventie van afvalproductie op alle niveaus, van productvergelijkingen op communautair niveau tot acties die plaatselijke instanties ondernemen;<br>
+4° ecologische ontwerpen en de systematische integratie van milieuaspecten in het ontwerp van een product bevorderen om de milieuprestaties van het product gedurende de hele levenscyclus ervan te verbeteren;<br>
+5° informatie over afvalpreventietechnieken verstrekken om de toepassing van de beste beschikbare technieken door het bedrijfsleven te vergemakkelijken;<br>
+6° het personeel van de bevoegde instanties opleiden om afvalpreventie-eisen in vergunningen op te nemen;<br>
+7° afvalpreventiemaatregelen in installaties opnemen;<br>
+8° bewustmakingscampagnes voeren of financiële, besluitvormings- of andere steun aan bedrijven verlenen;<br>
+9° vrijwillige overeenkomsten, consumenten- of producentenpanels of sectoraal overleg gebruiken om ervoor te zorgen dat de betrokken bedrijven of industriële sectoren eigen afvalpreventieplannen of -doelstellingen vaststellen of maatregelen nemen om verspilling die door producten of verpakkingen veroorzaakt is, een halt toe te roepen;<br>
+10° geloofwaardige milieumanagementsystemen bevorderen, bijvoorbeeld EMAS en ISO 14001;<br>
+11° economische instrumenten inzetten, zoals de beloning van "schoon" aankoopgedrag of de instelling van een door de consument verplicht te betalen vergoeding voor een verpakkingsartikel of -element dat anders gratis ter beschikking zou worden gesteld;<br>
+12° bewustmakingscampagnes voeren en informatie verstrekken voor het brede publiek of specifieke categorieën van consumenten;<br>
+13° geloofwaardige milieukeurmerken bevorderen;<br>
+14° overeenkomsten met het bedrijfsleven of met de distributie sluiten over de beschikbaarheid van afvalpreventie-informatie en van producten met een minder groot milieueffect;<br>
+15° in het kader van aankopen door publieke organisaties en bedrijven: milieu-, recyclage- en afvalpreventiecriteria integreren in aanbestedingen en contracten;<br>
+16° hergebruik of herstelling bevorderen van afgedankte producten of componenten ervan die daarvoor in aanmerking komen, namelijk via educatieve, economische, logistieke of andere maatregelen, zoals het ondersteunen of opzetten van erkende herstellings- en kringloopcentra en -netwerken, in het bijzonder in dichtbevolkte gebieden;<br>
+17° de vervanging van producten bevorderen door alternatieven die een aantoonbare lagere ecologische voetafdruk hebben.<br>
+<br>
+De Vlaamse Regering stelt een specifiek programma vast voor de preventie van levensmiddelenafval en bepaalt wie dit coördineert, opvolgt en welke overheidsinstanties daar buiten de OVAM bij worden betrokken..<br>
+<br>
+§ 3. De ontwerpen van preventieprogramma's of de ontwerpen van wijziging van preventieprogramma's worden bij uittreksel bekendgemaakt in het Belgisch Staatsblad en voor een termijn van twee maanden ter inzage gelegd bij de gemeenten en bij de OVAM. Gedurende die termijn kan iedereen bezwaren of opmerkingen schriftelijk ter kennis brengen van de OVAM.<br>
+<br>
+§ 4. Tegelijkertijd met hun bekendmaking worden de ontwerpen van preventieprogramma's bezorgd aan de Milieu- en Natuurraad van Vlaanderen, die een met redenen omkleed advies uitbrengt binnen een vervaltermijn van twee maanden na ontvangst van het ontwerp. Dit advies is niet bindend.<br>
+<br>
+Tegelijk met de bezorging van de ontwerpen van preventieprogramma's aan de Milieu- en Natuurraad van Vlaanderen, worden deze ook overgemaakt aan het Vlaams Parlement.<br>
+<br>
+§ 5. De Vlaamse Regering stelt de preventieprogramma's vast, rekening houdend met de gegeven adviezen en met de ingediende bezwaren of opmerkingen. Als de Vlaamse Regering de uitgebrachte adviezen niet volgt of niet aan de ingediende bezwaren of opmerkingen tegemoetkomt, hetzij geheel of gedeeltelijk, dan verantwoordt ze dat in een verslag dat wordt gevoegd bij de bekendmaking, vermeld in paragraaf 6.<br>
+<br>
+§ 6. De preventieprogramma's worden bij uittreksel bekendgemaakt in het Belgisch Staatsblad. Ze liggen ter inzage bij de OVAM, de provincies en de gemeenten en worden geplaatst op de website van de OVAM.<br>
+<br>
+§ 7. De preventieprogramma's kunnen worden geïntegreerd in de uitvoeringsplannen voor het beheer van materiaalkringlopen en afvalstoffen, vermeld in artikel 18. In voorkomend geval zullen ze als duidelijk onderscheiden preventiemaatregelen worden aangegeven.<br>
+<br>
+§ 8. De preventieprogramma's gelden voor de administratieve overheden van het Vlaamse Gewest, de provincies, de gemeenten en de publiekrechtelijke of privaatrechtelijke instellingen die belast zijn met taken van openbaar nut inzake milieubeleid. De geldigheidsduur van de preventieprogramma's wordt in ieder programma afzonderlijk bepaald. De preventieprogramma's worden minstens eenmaal om de zes jaar geëvalueerd en zo nodig herzien.<br>
+<br>
+§ 9. Bepalingen van de preventieprogramma's zijn bindend, behalve als uitdrukkelijk in die programma's is aangegeven dat ze niet bindend zijn. In die gevallen zijn ze indicatief. Van de bindende bepalingen kan alleen worden afgeweken bij een beslissing van de Vlaamse Regering, als daarvoor gewichtige redenen zijn en met behoorlijke motivering. Bepalingen van preventieprogramma's die strijdig zijn met een gewestelijk plan of programma van latere datum met verordenende of verbindende kracht, verliezen hun geldigheid.<br>
+<br>
+§ 10. De Vlaamse Regering kan nadere regels vaststellen voor de opmaak, vaststelling, opvolging en uitvoering van de preventieprogramma's en de daarin opgenomen inspraak door belanghebbenden.<br>
+&nbsp;
 
 ### ART. 18.
 
-§ 1. De OVAM ontwerpt uitvoeringsplannen voor het beheer van materiaalkringlopen en afvalstoffen, ontwerpt hun eventuele herziening en volgt de uitvoering ervan op. Die plannen bestrijken, afzonderlijk of gezamenlijk, het hele geografische grondgebied van het Vlaamse Gewest.<br /><br />Voor de opmaak van het ontwerp en de uitvoering van de uitvoeringsplannen worden overlegplatformen opgericht, overeenkomstig artikel 19.<br /><br />§ 2. In de uitvoeringsplannen worden de maatregelen opgenomen voor het tot stand brengen van een adequaat geïntegreerd netwerk van installaties voor de verwijdering van afval en van installaties voor de nuttige toepassing van gemengd stedelijk afval, ingezameld van particuliere huishoudens, ook als die inzameling dergelijk afval van andere producenten omvat, rekening houdend met de beste beschikbare technieken. Die maatregelen worden genomen met het oog op zelfvoorziening voor de verwijdering van afval en voor de nuttige toepassing van bovengenoemde afvalstromen en moeten het mogelijk maken om de respectieve afvalstromen te verwijderen of nuttig toe te passen in een van de meest nabijgelegen installaties die daarvoor geschikt is met behulp van de meeste geschikte methoden en technologieën om een hoog niveau van bescherming van milieu en volksgezondheid te waarborgen. Voor zover dat noodzakelijk of raadzaam is, wordt bij het vaststellen van die maatregelen samengewerkt met omliggende landen of regio's.<br /><br />Tenzij in gevallen van overmacht, kan gemengd stedelijk afval dat volledig apart van afval van particuliere huishoudens wordt ingezameld, slechts worden uitgevoerd wanneer het in Vlaanderen werd ingezameld volgens de regels opgesteld door de Vlaamse Regering.<br /><br />§ 3. De uitvoeringsplannen kunnen een analyse bevatten van een of meer materiaalkringlopen en hun effecten op milieu en gezondheid, alsook een overzicht van maatregelen die moeten worden genomen in verschillende fasen van de levenscyclus om de milieu- en gezondheidseffecten van het gebruik en verbruik van de materialen in kwestie te verlagen, overeenkomstig de doelstellingen, vermeld in artikel 4.<br /><br />§ 4. De uitvoeringsplannen bevatten minimaal een analyse van de bestaande situatie in verband met afvalbeheer in het algemeen of voor een of meer categorieën van afvalstoffen in het bijzonder, alsook de maatregelen die moeten worden genomen om voorbereiding voor hergebruik, recyclage, andere vormen van nuttige toepassing en verwijdering van afvalstoffen milieuvriendelijker te maken, alsook een evaluatie van hoe het plan de uitvoering van de doelstellingen en de bepalingen van dit decreet zal ondersteunen.<br /><br />§ 5. De uitvoeringsplannen hebben als doel de samenhang te bevorderen van maatregelen die door verschillende actoren, betrokken bij het beheer van materiaalkringlopen en afvalstoffen, worden genomen.<br /><br />§ 6. In het bijzonder bevatten de uitvoeringsplannen ten minste de volgende elementen :<br />1° soort, hoeveelheid en bron van de binnen het Vlaamse Gewest geproduceerde afvalstoffen en van de afvalstoffen die naar verwachting vanuit of naar het Vlaamse Gewest zullen worden overgebracht, en een evaluatie van de ontwikkeling van de afvalstromen in de toekomst;<br />2° bestaande regelingen voor afvalinzameling en grote verwijderingsinstallaties en installaties voor nuttige toepassing, inclusief speciale regelingen voor afgewerkte oliën, gevaarlijke afvalstoffen of afvalstromen waarvoor specifieke communautaire wetgeving bestaat;<br />3° een beoordeling van de behoefte aan nieuwe inzamelingsregelingen, sluiting van bestaande afvalinstallaties, extra afvalverwerkingsinstallaties, overeenkomstig paragraaf 2, en, indien nodig, de daarmee samenhangende investeringen;<br />4° voldoende informatie over locatiecriteria voor de keuze van locaties, en capaciteit van toekomstige verwijderingsinstallaties of belangrijke installaties voor nuttige toepassing, indien nodig;<br />5° algemeen afvalbeheerbeleid, inclusief geplande afvalbeheertechnologieën en -methoden of beleid voor afval dat specifieke beheersproblemen oplevert;<br />6° passende kwalitatieve en kwantitatieve indicatoren, streefcijfers of doelstellingen, verbonden aan de maatregelen, vermeld in paragraaf 2, aan de hand waarvan de voortgang en het effect van de maatregelen en hun bijdrage tot de doelstelling, vermeld in artikel 4, wordt geëvalueerd.<br /><br />§ 7. De ontwerpen van uitvoeringsplannen of de ontwerpen van wijziging van de uitvoeringsplannen worden bij uittreksel bekendgemaakt in het Belgisch Staatsblad en voor een termijn van twee maanden ter inzage gelegd bij de gemeenten en bij de OVAM. Gedurende die termijn kan iedereen bezwaren of opmerkingen schriftelijk ter kennis brengen van de OVAM.<br /><br />§ 8. Tegelijkertijd met hun bekendmaking worden de ontwerpen, vermeld in paragraaf 7, bezorgd aan de Milieu- en Natuurraad van Vlaanderen, die een met redenen omkleed advies uitbrengt binnen een vervaltermijn van twee maanden na ontvangst van het ontwerp. Dit advies is niet bindend.<br /><br />Tegelijk met de bezorging van de ontwerpen van uitvoeringsplannen of de ontwerpen van wijziging van uitvoeringsplannen aan de Milieu- en Natuurraad van Vlaanderen, worden deze ook overgemaakt aan het Vlaams Parlement.<br /><br />§ 9. De Vlaamse Regering stelt de uitvoeringsplannen of wijzigingen daaraan vast, rekening houdend met de gegeven adviezen en met de ingediende bezwaren of opmerkingen. Als de Vlaamse Regering de uitgebrachte adviezen niet volgt of niet aan de ingediende bezwaren of opmerkingen tegemoetkomt, hetzij geheel of gedeeltelijk, dan verantwoordt ze dat in een verslag dat wordt gevoegd bij de bekendmaking, vermeld in paragraaf 10.<br /><br />§ 10. De uitvoeringsplannen worden bij uittreksel bekendgemaakt in het Belgisch Staatsblad. Ze liggen ter inzage bij de OVAM, de provincies en de gemeenten en worden geplaatst op de website van de OVAM.<br /><br />§ 11. De uitvoeringsplannen gelden voor de administratieve overheden van het Vlaamse Gewest, de provincies, de gemeenten en de publiekrechtelijke of privaatrechtelijke instellingen die belast zijn met taken van openbaar nut inzake milieubeleid. De geldigheidsduur van de uitvoeringsplannen wordt in ieder plan afzonderlijk bepaald. De uitvoeringsplannen worden minstens eenmaal om de zes jaar geëvalueerd en zo nodig herzien.<br /><br />§ 12. Bepalingen van de uitvoeringsplannen zijn bindend, behalve als uitdrukkelijk in die plannen is aangegeven dat ze niet bindend zijn. In die gevallen zijn ze indicatief. Van de bindende bepalingen kan alleen worden afgeweken bij een beslissing van de Vlaamse Regering, als daarvoor gewichtige redenen zijn en met behoorlijke motivering. Bepalingen van de uitvoeringsplannen die strijdig zijn met een gewestelijk plan van latere datum met verordenende of verbindende kracht, verliezen hun geldigheid.<br /><br />§ 13. De Vlaamse Regering kan nadere regels vaststellen voor de opmaak, vaststelling, opvolging en uitvoering van de uitvoeringsplannen en de daarin voorziene inspraak door belanghebbenden.<br /><br />
+§ 1. De OVAM ontwerpt uitvoeringsplannen voor het beheer van materiaalkringlopen en afvalstoffen, ontwerpt hun eventuele herziening en volgt de uitvoering ervan op. Die plannen bestrijken, afzonderlijk of gezamenlijk, het hele geografische grondgebied van het Vlaamse Gewest.<br>
+<br>
+Voor de opmaak van het ontwerp en de uitvoering van de uitvoeringsplannen worden overlegplatformen opgericht, overeenkomstig artikel 19.<br>
+<br>
+§ 2. In de uitvoeringsplannen worden de maatregelen opgenomen voor het tot stand brengen van een adequaat geïntegreerd netwerk van installaties voor de verwijdering van afval en van installaties voor de nuttige toepassing van gemengd stedelijk afval, ingezameld van particuliere huishoudens, ook als die inzameling dergelijk afval van andere producenten omvat, rekening houdend met de beste beschikbare technieken. Die maatregelen worden genomen met het oog op zelfvoorziening voor de verwijdering van afval en voor de nuttige toepassing van bovengenoemde afvalstromen en moeten het mogelijk maken om de respectieve afvalstromen te verwijderen of nuttig toe te passen in een van de meest nabijgelegen installaties die daarvoor geschikt is met behulp van de meeste geschikte methoden en technologieën om een hoog niveau van bescherming van milieu en volksgezondheid te waarborgen. Voor zover dat noodzakelijk of raadzaam is, wordt bij het vaststellen van die maatregelen samengewerkt met omliggende landen of regio's.<br>
+<br>
+Tenzij in gevallen van overmacht, kan gemengd stedelijk afval dat volledig apart van afval van particuliere huishoudens wordt ingezameld, slechts worden uitgevoerd wanneer het in Vlaanderen werd ingezameld volgens de regels opgesteld door de Vlaamse Regering.<br>
+<br>
+§ 3. De uitvoeringsplannen kunnen een analyse bevatten van een of meer materiaalkringlopen en hun effecten op milieu en gezondheid, alsook een overzicht van maatregelen die moeten worden genomen in verschillende fasen van de levenscyclus om de milieu- en gezondheidseffecten van het gebruik en verbruik van de materialen in kwestie te verlagen, overeenkomstig de doelstellingen, vermeld in artikel 4.<br>
+<br>
+§ 4. De uitvoeringsplannen bevatten minimaal een analyse van de bestaande situatie in verband met afvalbeheer in het algemeen of voor een of meer categorieën van afvalstoffen in het bijzonder, alsook de maatregelen die moeten worden genomen om voorbereiding voor hergebruik, recyclage, andere vormen van nuttige toepassing en verwijdering van afvalstoffen milieuvriendelijker te maken, alsook een evaluatie van hoe het plan de uitvoering van de doelstellingen en de bepalingen van dit decreet zal ondersteunen.<br>
+<br>
+§ 5. De uitvoeringsplannen hebben als doel de samenhang te bevorderen van maatregelen die door verschillende actoren, betrokken bij het beheer van materiaalkringlopen en afvalstoffen, worden genomen.<br>
+<br>
+§ 6. In het bijzonder bevatten de uitvoeringsplannen ten minste de volgende elementen :<br>
+1° soort, hoeveelheid en bron van de binnen het Vlaamse Gewest geproduceerde afvalstoffen en van de afvalstoffen die naar verwachting vanuit of naar het Vlaamse Gewest zullen worden overgebracht, en een evaluatie van de ontwikkeling van de afvalstromen in de toekomst;<br>
+2° bestaande grote verwijderingsinstallaties en installaties voor nuttige toepassing inclusief speciale regelingen voor afgewerkte olie, gevaarlijke afvalstoffen, afvalstoffen die aanzienlijke hoeveelheden kritieke grondstoffen bevatten, of afvalstromen waarvoor specifieke Uniewetgeving bestaat;<br>
+3° een beoordeling van de noodzaak om bestaande afvalinstallaties te sluiten, van de behoefte aan extra afvalinstallatie-infrastructuur conform paragraaf 2, en van de investeringen en andere financiële middelen die nodig zijn, namelijk voor de lokale autoriteiten, om te voorzien in die behoeften. Die beoordeling wordt opgenomen in de relevante uitvoeringsplannen of andere strategische documenten die gelden;<br>
+3° /1 informatie over de maatregelen om de hoeveelheid afvalstoffen te beperken die naar stortplaatsen gaan;<br>
+3° /2 een beoordeling van:<br>
+a) de bestaande regelingen voor afvalinzameling, inclusief voor de materialen en gebieden die door gescheiden inzameling worden bestreken, en van de maatregelen om de werking ervan te verbeteren;<br>
+b) de behoefte aan nieuwe inzamelingsregelingen;<br>
+4° voldoende informatie over locatiecriteria voor de keuze van locaties, en capaciteit van toekomstige verwijderingsinstallaties of belangrijke installaties voor nuttige toepassing, indien nodig;<br>
+5° algemeen afvalbeheerbeleid, inclusief geplande afvalbeheertechnologieën en -methoden of beleid voor afval dat specifieke beheersproblemen oplevert;<br>
+6° passende kwalitatieve en kwantitatieve indicatoren en doelstellingen, met name voor:<br>
+a) de hoeveelheid geproduceerd afval en de verwerking ervan;<br>
+b) stedelijk afval dat wordt verwijderd of energieterugwinning ondergaat;<br>
+7° maatregelen ter bestrijding en voorkoming van alle vormen van zwerfafvalproductie en voor het opruimen van alle soorten zwerfafval;<br>
+8° maatregelen en doelstellingen voor preventie, hergebruik, recyclage en ander beheer van stedelijk afval, waaronder verpakkingsafval, en zwerfvuil.<br>
+<br>
+§ 7. De ontwerpen van uitvoeringsplannen of de ontwerpen van wijziging van de uitvoeringsplannen worden bij uittreksel bekendgemaakt in het Belgisch Staatsblad en voor een termijn van twee maanden ter inzage gelegd bij de gemeenten en bij de OVAM. Gedurende die termijn kan iedereen bezwaren of opmerkingen schriftelijk ter kennis brengen van de OVAM.<br>
+<br>
+§ 8. Tegelijkertijd met hun bekendmaking worden de ontwerpen, vermeld in paragraaf 7, bezorgd aan de Milieu- en Natuurraad van Vlaanderen, die een met redenen omkleed advies uitbrengt binnen een vervaltermijn van twee maanden na ontvangst van het ontwerp. Dit advies is niet bindend.<br>
+<br>
+Tegelijk met de bezorging van de ontwerpen van uitvoeringsplannen of de ontwerpen van wijziging van uitvoeringsplannen aan de Milieu- en Natuurraad van Vlaanderen, worden deze ook overgemaakt aan het Vlaams Parlement.<br>
+<br>
+§ 9. De Vlaamse Regering stelt de uitvoeringsplannen of wijzigingen daaraan vast, rekening houdend met de gegeven adviezen en met de ingediende bezwaren of opmerkingen. Als de Vlaamse Regering de uitgebrachte adviezen niet volgt of niet aan de ingediende bezwaren of opmerkingen tegemoetkomt, hetzij geheel of gedeeltelijk, dan verantwoordt ze dat in een verslag dat wordt gevoegd bij de bekendmaking, vermeld in paragraaf 10.<br>
+<br>
+§ 10. De uitvoeringsplannen worden bij uittreksel bekendgemaakt in het Belgisch Staatsblad. Ze liggen ter inzage bij de OVAM, de provincies en de gemeenten en worden geplaatst op de website van de OVAM.<br>
+<br>
+§ 11. De uitvoeringsplannen gelden voor de administratieve overheden van het Vlaamse Gewest, de provincies, de gemeenten en de publiekrechtelijke of privaatrechtelijke instellingen die belast zijn met taken van openbaar nut inzake milieubeleid. De geldigheidsduur van de uitvoeringsplannen wordt in ieder plan afzonderlijk bepaald. De uitvoeringsplannen worden minstens eenmaal om de zes jaar geëvalueerd en zo nodig herzien.<br>
+<br>
+§ 12. Bepalingen van de uitvoeringsplannen zijn bindend, behalve als uitdrukkelijk in die plannen is aangegeven dat ze niet bindend zijn. In die gevallen zijn ze indicatief. Van de bindende bepalingen kan alleen worden afgeweken bij een beslissing van de Vlaamse Regering, als daarvoor gewichtige redenen zijn en met behoorlijke motivering. Bepalingen van de uitvoeringsplannen die strijdig zijn met een gewestelijk plan van latere datum met verordenende of verbindende kracht, verliezen hun geldigheid.<br>
+<br>
+§ 13. De Vlaamse Regering kan nadere regels vaststellen voor de opmaak, vaststelling, opvolging en uitvoering van de uitvoeringsplannen en de daarin voorziene inspraak door belanghebbenden.<br>
+&nbsp;
 
 ### ART. 19.
 
@@ -195,7 +335,78 @@ Om uitvoering te geven aan de maatregelen, vermeld in artikel 21, § 1, kan de V
 
 ### ART. 21.
 
-§ 1. Om preventie, hergebruik, recyclage en andere nuttige toepassingen van afvalstoffen te stimuleren kan de Vlaamse Regering maatregelen nemen om ervoor te zorgen dat iedere natuurlijke persoon of rechtspersoon die beroepsmatig producten ontwikkelt, vervaardigt, behandelt, verwerkt, verkoopt of invoert (producent van het product), een uitgebreide producentenverantwoordelijkheid draagt.<br /><br />De maatregelen, vermeld in het eerste lid, kunnen bestaan uit het opleggen van regels en verplichtingen aan de natuurlijke personen en rechtspersonen, vermeld in het eerste lid, en hebben betrekking op :<br />1° het volledig of gedeeltelijk verantwoordelijk stellen voor de organisatie van de inzameling van de afvalstoffen die voortkomen uit producten die ze op de markt gebracht hebben;<br />2° het verplicht doen aanvaarden van die afvalstoffen;<br />3° het volledig of gedeeltelijk verantwoordelijk stellen voor het daaropvolgende beheer van die afvalstoffen;<br />4° het toewijzen van de financiële verantwoordelijkheid voor de inzameling en verwerking van die afvalstoffen overeenkomstig artikel 10;<br />5° het verstrekken van openbaar beschikbare informatie over milieuverantwoord productgebruik en over de mate waarin en de manier waarop het product herbruikbaar en recycleerbaar is.<br /><br />De maatregelen, vermeld in het eerste lid, kunnen ook maatregelen zijn die stimuleren om producten in die mate te ontwerpen dat de milieueffecten en de afvalproductie zowel bij de vervaardiging als bij het latere gebruik van de producten worden verminderd, en om ervoor te zorgen dat de producten die afval zijn geworden, nuttig worden toegepast en verwijderd als vermeld in artikel 4. Dergelijke maatregelen kunnen onder meer aanmoedigen tot het ontwikkelen, vervaardigen en in de handel brengen van producten die geschikt zijn voor meervoudig gebruik, die technisch duurzaam zijn en die, zodra ze afval zijn geworden, geschikt zijn voor een passende en veilige recyclage, voor andere nuttige toepassing en voor milieuverantwoorde verwijdering.<br /><br />§ 2. De Vlaamse Regering wijst de producten of afvalstoffen aan waarvoor een vorm van uitgebreide producentenverantwoordelijkheid geldt. Ze houdt daarbij rekening met de technische uitvoerbaarheid, de economische haalbaarheid en de effecten in hun totaliteit op het milieu, de volksgezondheid en de maatschappij, met inachtneming van de noodzaak een goede werking van de markt te garanderen.<br /><br />§ 3. De uitgebreide producentenverantwoordelijkheid wordt toegepast met behoud van de toepassing van de verantwoordelijkheid voor afvalbeheer, vermeld in artikel 12, § 3, en met behoud van de toepassing van de bestaande specifieke wetgeving inzake afvalstromen en producten.<br /><br />§ 4. De natuurlijke personen of rechtspersonen, vermeld in paragraaf 1, eerste lid, kunnen voor de nakoming van de verplichtingen die hen door of krachtens dit artikel worden opgelegd, op eigen kosten een beroep doen op derden, onder de voorwaarden die de Vlaamse Regering bepaalt.<br /><br />Voor de inzameling van huishoudelijke afvalstoffen is, naast eventuele andere inzamelkanalen, de samenwerking met de gemeenten verplicht. De Vlaamse Regering stelt in dat geval nadere regels vast voor het bepalen van een billijke vergoeding die de natuurlijke personen of rechtspersonen, vermeld in paragraaf 1, moeten betalen aan de gemeenten voor de inzameling van de huishoudelijke afvalstoffen die in de gemeentelijke inzamelkanalen terechtkomen.<br /><br />De Vlaamse Regering kan van die verplichting tot samenwerking afwijken als andere inzamelingskanalen efficiënter en effectiever zijn. Voor afvalstoffen waarvoor de samenwerking met de gemeenten niet verplicht is, zijn de gemeenten niet verplicht de afvalstoffen te aanvaarden via de gemeentelijke inzamelkanalen en hebben de gemeenten derhalve ook geen recht op de billijke vergoeding, vermeld in het tweede lid.<br /><br />
+§ 1. Om preventie, hergebruik, recyclage en andere nuttige toepassingen van afvalstoffen te stimuleren kan de Vlaamse Regering maatregelen nemen om ervoor te zorgen dat iedere natuurlijke persoon of rechtspersoon die beroepsmatig producten ontwikkelt, vervaardigt, behandelt, verwerkt, verkoopt of invoert (producent van het product), een uitgebreide producentenverantwoordelijkheid draagt.<br>
+<br>
+De maatregelen, vermeld in het eerste lid, kunnen bestaan uit het opleggen van regels en verplichtingen aan de natuurlijke personen en rechtspersonen, vermeld in het eerste lid, en hebben betrekking op :<br>
+1° het volledig of gedeeltelijk verantwoordelijk stellen voor de organisatie van de inzameling van de afvalstoffen die voortkomen uit producten die ze op de markt gebracht hebben;<br>
+2° het verplicht doen aanvaarden van die afvalstoffen;<br>
+3° het volledig of gedeeltelijk verantwoordelijk stellen voor het daaropvolgende beheer van die afvalstoffen;<br>
+4° conform artikel 10 de financiële verantwoordelijkheid toewijzen voor het beheer van de afvalstoffen die voortkomen uit producten die ze op de markt gebracht hebben;<br>
+5° het verstrekken van openbaar beschikbare informatie over milieuverantwoord productgebruik en over de mate waarin en de manier waarop het product herbruikbaar en recycleerbaar is.<br>
+<br>
+Als de maatregelen, vermeld in het eerste lid, bestaan uit het opzetten van regelingen voor uitgebreide producentenverantwoordelijkheid, zijn de vereisten, vermeld in artikel 21/1, van toepassing. De Vlaamse Regering kan besluiten dat producenten die uit eigen beweging financiële of financiële en organisatorische verantwoordelijkheden voor het beheer van de afvalfase in de levenscyclus van een product op zich nemen, sommige of alle vereisten, vermeld in artikel 21/1, moeten toepassen.<br>
+<br>
+De maatregelen, vermeld in het eerste lid, kunnen ook maatregelen zijn die stimuleren om producten in die mate te ontwerpen dat de milieueffecten en de afvalproductie zowel bij de vervaardiging als bij het latere gebruik van de producten worden verminderd, en om ervoor te zorgen dat de producten die afval zijn geworden, nuttig worden toegepast en verwijderd als vermeld in artikel 4. Dergelijke maatregelen kunnen onder meer het ontwikkelen, vervaardigen en in de handel brengen aanmoedigen van producten en componenten van producten die:<br>
+a) geschikt zijn voor meervoudig gebruik;<br>
+b) gerecycleerde materialen bevatten;<br>
+c) technisch duurzaam en gemakkelijk te repareren zijn, zowel naar praktische mogelijkheden als naar betaalbaarheid ten opzichte van de aanschaf van een nieuw toestel;<br>
+d) zodra ze afval zijn geworden, geschikt zijn voor de voorbereiding voor hergebruik en functionele hoogwaardige recycling om een juiste toepassing van de afvalstoffenhiërarchie mogelijk te maken.<br>
+<br>
+Bij de maatregelen, vermeld in het eerste lid, wordt rekening gehouden met de effecten van producten gedurende hun volledige levenscyclus, met de afvalhiërarchie en, in voorkomend geval, met het potentieel voor meervoudige recyclage, andere nuttige toepassingen en milieuverantwoorde verwijdering.<br>
+<br>
+§ 2. De Vlaamse Regering wijst de producten of afvalstoffen aan waarvoor een vorm van uitgebreide producentenverantwoordelijkheid geldt. Ze houdt daarbij rekening met de technische uitvoerbaarheid, de economische haalbaarheid en de effecten in hun totaliteit op het milieu, de volksgezondheid en de maatschappij, met inachtneming van de noodzaak een goede werking van de markt te garanderen.<br>
+<br>
+§ 2/1. Als bepaalde producten of afvalstoffen een relevant aandeel van de zwerfvuilkosten en van de milieudruk ten gevolge van zwerfvuil veroorzaken, worden die kosten gedragen door de producenten. De Vlaamse Regering wijst de producten of afvalstoffen aan die een relevant aandeel van de totale zwerfvuilkosten en milieudruk uitmaken en kan nadere regels vaststellen om hun aandeel in de zwerfvuilkosten te bepalen. De zwerfvuilkosten omvatten de kosten voor:<br>
+1° bewustmakingsmaatregelen;<br>
+2° het inzamelen van afval van die producten, dat in openbare inzamelsystemen wordt afgedankt, inclusief de kosten voor de infrastructuur en de exploitatie ervan en voor het daaropvolgende vervoer en de verwerking van dat afval;<br>
+3° het opruimen van het zwerfafval van de voormelde producten, en voor het daaropvolgende vervoer en de verwerking van dat zwerfafval;<br>
+4° het verzamelen en rapporteren van gegevens over de hoeveelheden die op de markt gebracht zijn;<br>
+5° andere algemene kosten van het beleid tegen zwerfvuil.<br>
+<br>
+De te dekken zwerfvuilkosten bedragen niet meer dan de kosten die noodzakelijk zijn om de diensten, vermeld in het eerste lid, op een kostenefficiënte manier aan te bieden, en kunnen door de Vlaamse Regering voor de betrokken actoren op transparante wijze worden vastgelegd. De kosten voor het opruimen, vervoeren en verwerken van zwerfafval blijven beperkt tot kosten voor werkzaamheden door of namens overheidsinstanties. De berekeningsmethode wordt zodanig ontwikkeld dat de kosten voor het opruimen, vervoeren en verwerken van zwerfafval proportioneel kunnen worden vastgesteld. Om de administratieve kosten zo laag mogelijk te houden, kan de Vlaamse Regering voor het opruimen, vervoeren en verwerken van zwerfafval een financiële bijdrage bepalen door passende meerjarige vaste bedragen vast te stellen.<br>
+<br>
+§ 3. De uitgebreide producentenverantwoordelijkheid wordt toegepast met behoud van de toepassing van de verantwoordelijkheid voor afvalbeheer, vermeld in artikel 12, § 3, en met behoud van de toepassing van de bestaande specifieke wetgeving inzake afvalstromen en producten.<br>
+<br>
+§ 4. De natuurlijke personen of rechtspersonen, vermeld in paragraaf 1, eerste lid, kunnen voor de nakoming van de verplichtingen die hen door of krachtens dit artikel worden opgelegd, op eigen kosten een beroep doen op derden, onder de voorwaarden die de Vlaamse Regering bepaalt.<br>
+<br>
+Voor de inzameling van huishoudelijke afvalstoffen is, naast eventuele andere inzamelkanalen, de samenwerking met de gemeenten verplicht. De Vlaamse Regering stelt in dat geval nadere regels vast voor het bepalen van een billijke vergoeding die de natuurlijke personen of rechtspersonen, vermeld in paragraaf 1, moeten betalen aan de gemeenten voor de inzameling van de huishoudelijke afvalstoffen die in de gemeentelijke inzamelkanalen terechtkomen.<br>
+<br>
+De Vlaamse Regering kan van die verplichting tot samenwerking afwijken als andere inzamelingskanalen efficiënter en effectiever zijn. Voor afvalstoffen waarvoor de samenwerking met de gemeenten niet verplicht is, zijn de gemeenten niet verplicht de afvalstoffen te aanvaarden via de gemeentelijke inzamelkanalen en hebben de gemeenten derhalve ook geen recht op de billijke vergoeding, vermeld in het tweede lid.<br>
+&nbsp;
+
+### ART 21/1.
+
+§ 1. Als de Vlaamse Regering conform artikel 21, § 1, eerste lid, regelingen voor uitgebreide producentenverantwoordelijkheid vaststelt, zorgt ze ervoor dat:<br>
+1° een duidelijke omschrijving wordt gegeven van de taken en verantwoordelijkheden van alle betrokken actoren, waaronder:<br>
+a) de producenten die producten op het grondgebied op de markt brengen;<br>
+b) de organisaties die namens hen verplichtingen op grond van de uitgebreide producentenverantwoordelijkheid nakomen;<br>
+c) de private of publieke inzamelaars en afvalverwerkers;<br>
+d) de lokale besturen;<br>
+e) de exploitanten van installaties voor hergebruik en voorbereiding voor hergebruik en de ondernemingen van de sociale economie, als dat van toepassing is;<br>
+2° doelstellingen voor afvalbeheer worden vastgesteld, in overeenstemming met de afvalhiërarchie, om ten minste de kwantitatieve doelstellingen te behalen die relevant zijn voor de regeling voor uitgebreide producentenverantwoordelijkheid en andere kwantitatieve en/of kwalitatieve doelstellingen die relevant worden geacht voor de regeling voor uitgebreide producentenverantwoordelijkheid;<br>
+3° een rapportagesysteem wordt opgezet om gegevens te verzamelen over:<br>
+a) de producten die producenten op het grondgebied op de markt brengen;<br>
+b) de inzameling en verwerking van afval dat afkomstig is van die producten, met vermelding van de materiaalstromen als dat van toepassing is;<br>
+c) andere gegevens dan de gegevens, vermeld in punt a) en b), die relevant zijn voor de toepassing van punt 2° ;<br>
+4° een gelijke behandeling en non-discriminatie van producenten worden gewaarborgd, ongeacht hun oorsprong of grootte, met inbegrip van kleine en middelgrote ondernemingen en producenten van kleine hoeveelheden producten;<br>
+5° de nodige maatregelen worden genomen om de houders van afvalstoffen te informeren over afvalpreventie, hergebruik en voorbereiding voor hergebruik, terugname- en inzamelingssystemen en het voorkomen van zwerfvuil;<br>
+6° de nodige maatregelen worden genomen om de houders van afvalstoffen aan te sporen om hun afval af te leveren bij de bestaande systemen voor gescheiden inzameling.<br>
+<br>
+§ 2. Als de Vlaamse Regering conform artikel 21, § 1, eerste lid, regelingen voor uitgebreide producentenverantwoordelijkheid vaststelt, neemt ze de nodige maatregelen om ervoor te zorgen dat de financiële bijdragen die de producent betaalt om zijn verplichtingen voor de uitgebreide producentenverantwoordelijkheid na te komen, aan de volgende voorwaarden voldoen:<br>
+1° ze dekken minstens de volgende kosten voor de producten die de producent op de markt brengt:<br>
+a) de kosten van de gescheiden inzameling van afval en vervolgens het vervoer en de verwerking ervan, met inbegrip van de verwerking die nodig is om te voldoen aan de doelstellingen, rekening houdend met de inkomsten uit het gebruik en de verkoop van secundaire grondstoffen van hun producten en niet-opgeëist statiegeld;<br>
+b) de kosten van het verstrekken van passende informatie aan afvalstoffenhouders conform paragraaf 1, 5° ;<br>
+c) de kosten van het verzamelen en rapporteren van gegevens conform paragraaf 1, 3° ;<br>
+2° in geval van collectieve uitvoering van de verplichtingen voor de uitgebreide producentenverantwoordelijkheid zijn ze, als dat mogelijk is, gedifferentieerd voor afzonderlijke producten of groepen van soortgelijke producten. Daarbij wordt uitgegaan van de gehele levenscyclus, in afstemming met de geldende Europese vereisten en, als die beschikbaar zijn, op basis van geharmoniseerde Europese criteria. Voor de differentiatie kan rekening worden gehouden met:<br>
+a) duurzaamheid;<br>
+b) repareerbaarheid;<br>
+c) herbruikbaarheid en recycleerbaarheid;<br>
+d) de aanwezigheid van gevaarlijke stoffen;<br>
+3° ze bedragen niet meer dan de kosten die nodig zijn om de afvalbeheersdiensten op kostenefficiënte wijze te verrichten. Die kosten worden op transparante wijze vastgesteld tussen de betrokken actoren.<br>
+<br>
+De voorwaarde, vermeld in het eerste lid, 1°, is niet van toepassing op regelingen voor uitgebreide producentenverantwoordelijkheid die zijn vastgesteld voor afgedankte elektrische en elektronische apparatuur, afgedankte voertuigen of afgedankte batterijen en accu's.<br>
+<br>
+Als dat wordt gerechtvaardigd door de noodzaak om een adequaat afvalbeheer en de economische levensvatbaarheid van de regeling voor uitgebreide producentenverantwoordelijkheid te waarborgen, kan er afgeweken worden van de verdeling van financiële verantwoordelijkheid, vermeld in het eerste lid, 1°, a). Die afwijking kan alleen op voorwaarde dat de producenten ten minste 80% van de noodzakelijke kosten dragen en mits de overige kosten worden gedragen door de afvalstoffenproducent of de distributeur van het product waaruit het afval is voortgekomen.
 
 ## HOOFDSTUK 3 Bepalingen over het beheer van specifieke materiaalkringlopen en afvalstoffen
 
@@ -217,7 +428,28 @@ Producenten van bedrijfsafvalstoffen moeten op hun kosten de afvalstoffen een nu
 
 ### ART. 25.
 
-§ 1. Houders van bedrijfsafvalstoffen en afvalstoffenmakelaars en   -handelaars moeten de afvalstoffen nuttig toepassen of verwijderen :<BR>1°   binnen de onderneming waarin de afvalstoffen zijn ontstaan of worden behandeld,   in overeenstemming met de omgevingsvergunning, vermeld in artikel 11, of met de   andere toepasselijke wettelijke, decretale of reglementaire voorschriften;<BR>2°   door afgifte aan een natuurlijk persoon of rechtspersoon die overeenkomstig   artikel 11 houder is van een vergunning voor de verwijdering of nuttige   toepassing van de afvalstoffen, of die voldaan heeft aan de meldingsplicht, of   die een geregistreerde afvalstoffenhandelaar of -makelaar is als vermeld in   artikel 13;<BR>3° door afgifte aan een in een ander gewest of land gevestigde   natuurlijk persoon of rechtspersoon die overeenkomstig de daar geldende   wetgeving de afvalstoffen :<BR>a) mag verwijderen als er geen merkelijk   dichterbij gelegen, vergunde verwijderingsinrichting is die de afvalstoffen op   een verantwoorde wijze kan verwijderen onder vergelijkbare voorwaarden;<BR>b)   nuttig mag toepassen.<BR><BR>§ 2. Iedere afgifte van bedrijfsafvalstoffen als   vermeld in paragraaf 1, 2° en 3°, gebeurt tegen de ontvangst van een   afgiftebewijs, al dan niet in elektronische vorm. Met behoud van de toepassing   van artikel 23 moeten de houders van bedrijfsafvalstoffen dat afgiftebewijs op   elk moment kunnen voorleggen tot minstens vijf jaar na de datum van de afgifte   van de afvalstoffen.<BR><BR>§ 3. Het afgiftebewijs vermeldt :<BR>1° datum van   afgifte;<BR>2° naam en woonplaats van de producent of de inrichting waarvan de   afvalstoffen in ontvangst worden genomen;<BR>3° naam en woonplaats van de   natuurlijke persoon of rechtspersoon, vermeld in paragraaf 1, 2° en 3°, aan wie   de afvalstoffen worden afgegeven;<BR>4° aard, herkomst, samenstelling en   hoeveelheid van de afgegeven afvalstoffen;<BR>5° beoogde wijze van   verwerking.<BR><BR>De Vlaamse Regering kan nadere regels vaststellen voor het   afgiftebewijs, vermeld in paragraaf 2 en 3.<BR><BR>
+§ 1. Houders van bedrijfsafvalstoffen en afvalstoffenmakelaars en -handelaars moeten de afvalstoffen nuttig toepassen of verwijderen :<br>
+1° binnen de onderneming waarin de afvalstoffen zijn ontstaan of worden behandeld, in overeenstemming met de omgevingsvergunning, vermeld in artikel 11, of met de andere toepasselijke wettelijke, decretale of reglementaire voorschriften;<br>
+2° door afgifte aan een natuurlijk persoon of rechtspersoon die overeenkomstig artikel 11 houder is van een vergunning voor de verwijdering of nuttige toepassing van de afvalstoffen, of die voldaan heeft aan de meldingsplicht, of die een geregistreerde afvalstoffenhandelaar of -makelaar is als vermeld in artikel 13;<br>
+3° door afgifte aan een in een ander gewest of land gevestigde natuurlijk persoon of rechtspersoon die overeenkomstig de daar geldende wetgeving de afvalstoffen :<br>
+a) mag verwijderen als er geen merkelijk dichterbij gelegen, vergunde verwijderingsinrichting is die de afvalstoffen op een verantwoorde wijze kan verwijderen onder vergelijkbare voorwaarden;<br>
+b) nuttig mag toepassen.<br>
+<br>
+§ 2. Iedere afgifte van bedrijfsafvalstoffen als vermeld in paragraaf 1, 2° en 3°, gebeurt tegen de ontvangst van een afgiftebewijs, al dan niet in elektronische vorm. Met behoud van de toepassing van artikel 23 moeten de houders van bedrijfsafvalstoffen dat afgiftebewijs op elk moment kunnen voorleggen tot minstens vijf jaar na de datum van de afgifte van de afvalstoffen.<br>
+<br>
+Het eerste lid is niet van toepassing als voldaan is aan de volgende cumulatieve voorwaarden:<br>
+1° de aard, samenstelling en hoeveelheid van het bedrijfsafval van de afvalstoffenproducent zijn vergelijkbaar met de aard, samenstelling en hoeveelheid van huishoudelijke afvalstoffen. De Vlaamse Regering kan hiertoe nadere regels bepalen;<br>
+2° het bedrijfsafval van de afvalstoffenproducent wordt samen met huishoudelijk afval in één ronde ingezameld.<br>
+<br>
+§ 3. Het afgiftebewijs vermeldt :<br>
+1° datum van afgifte;<br>
+2° naam en woonplaats van de producent of de inrichting waarvan de afvalstoffen in ontvangst worden genomen;<br>
+3° naam en woonplaats van de natuurlijke persoon of rechtspersoon, vermeld in paragraaf 1, 2° en 3°, aan wie de afvalstoffen worden afgegeven;<br>
+4° aard, herkomst, samenstelling en hoeveelheid van de afgegeven afvalstoffen;<br>
+5° beoogde wijze van verwerking.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen voor het afgiftebewijs, vermeld in paragraaf 2 en 3.<br>
+&nbsp;
 
 ## Afdeling 3 Huishoudelijke afvalstoffen
 
@@ -241,7 +473,26 @@ De bepalingen van afdeling 1 en 2 en van hoofdstuk 2 zijn van toepassing op de g
 
 ### ART. 30.
 
-§ 1. Gevaarlijke afvalstoffen die worden verwijderd, moeten worden geregistreerd en geïdentificeerd.<br /><br />§ 2. Gevaarlijke afvalstoffen moeten bij de inzameling, het vervoer en de tijdelijke opslag deugdelijk zijn verpakt of opgeslagen en voorzien worden van een etiket, overeenkomstig de geldende internationale en Europese voorschriften. Telkens als gevaarlijke afvalstoffen worden vervoerd, moet er een identificatieformulier bijgevoegd zijn, al dan niet in elektronische vorm, met de toepasselijke gegevens, vermeld in bijlage I B van verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen.<br /><br />De Vlaamse Regering kan nadere regels vaststellen voor de verpakking, opslag en identificatie van gevaarlijke afvalstoffen.<br /><br />§ 3. De natuurlijke personen of rechtspersonen die aan afvalstoffenverwerking doen, mogen gevaarlijke afvalstoffen niet mengen met andere categorieën gevaarlijke afvalstoffen, noch met andere afvalstoffen, stoffen of materialen. Onder mengen wordt ook het verdunnen van gevaarlijke stoffen verstaan.<br /><br />Van de verbodsbepaling, vermeld in het eerste lid, kan worden afgeweken, indien de Vlaamse Regering andere maatregelen voorziet om ervoor te zorgen dat gevaarlijke afvalstoffen niet worden gemengd met andere categorieën gevaarlijke afvalstoffen, noch met andere afvalstoffen, stoffen of materialen.<br /><br />§ 4. In afwijking van paragraaf 3 kan in de vergunning, vermeld in artikel 11, worden toegelaten dat gevaarlijke afvalstoffen gemengd worden met andere gevaarlijke afvalstoffen of met andere afvalstoffen, stoffen of materialen, als : <br />1° dit vereist is om de veiligheid bij de verwijdering of de nuttige toepassing te verbeteren;<br />2° daarmee geen afbreuk wordt gedaan aan de bepalingen van artikel 12, § 3;<br />3° daarmee de negatieve gevolgen van het afvalbeheer op de menselijke gezondheid en het milieu niet worden vergroot;<br />4° de handeling in kwestie in overeenstemming is met de beste beschikbare technieken.<br /><br />§ 5. Als gevaarlijke afvalstoffen in strijd met paragraaf 3 en 4 gemengd zijn, moet een scheidingsbehandeling worden uitgevoerd, als dat technisch en economisch haalbaar is en als dat voor de naleving van artikel 12, § 3, nodig is.<br /><br />
+§ 1. Gevaarlijke afvalstoffen die worden verwijderd, moeten worden geregistreerd en geïdentificeerd.<br>
+<br>
+§ 2. Gevaarlijke afvalstoffen moeten bij de inzameling, het vervoer en de tijdelijke opslag deugdelijk zijn verpakt of opgeslagen en voorzien worden van een etiket, overeenkomstig de geldende internationale en Europese voorschriften. Telkens als gevaarlijke afvalstoffen worden vervoerd, moet er een identificatieformulier bijgevoegd zijn, al dan niet in elektronische vorm, met de toepasselijke gegevens, vermeld in bijlage I B van verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen voor de verpakking, opslag en identificatie van gevaarlijke afvalstoffen.<br>
+<br>
+§ 3. De natuurlijke personen of rechtspersonen die aan afvalstoffenverwerking doen, mogen gevaarlijke afvalstoffen niet mengen met andere categorieën gevaarlijke afvalstoffen, noch met andere afvalstoffen, stoffen of materialen. Onder mengen wordt ook het verdunnen van gevaarlijke stoffen verstaan.<br>
+<br>
+Van de verbodsbepaling, vermeld in het eerste lid, kan worden afgeweken, indien de Vlaamse Regering andere maatregelen voorziet om ervoor te zorgen dat gevaarlijke afvalstoffen niet worden gemengd met andere categorieën gevaarlijke afvalstoffen, noch met andere afvalstoffen, stoffen of materialen.<br>
+<br>
+§ 4. In afwijking van paragraaf 3 kan in de vergunning, vermeld in artikel 11, worden toegelaten dat gevaarlijke afvalstoffen gemengd worden met andere gevaarlijke afvalstoffen of met andere afvalstoffen, stoffen of materialen, als :<br>
+1° dit vereist is om de veiligheid bij de verwijdering of de nuttige toepassing te verbeteren;<br>
+2° daarmee geen afbreuk wordt gedaan aan de bepalingen van artikel 12, § 3;<br>
+3° daarmee de negatieve gevolgen van het afvalbeheer op de menselijke gezondheid en het milieu niet worden vergroot;<br>
+4° de handeling in kwestie in overeenstemming is met de beste beschikbare technieken.<br>
+<br>
+§ 5. Als gevaarlijke afvalstoffen in strijd met paragraaf 3 en 4 gemengd zijn, moet een scheidingsbehandeling worden uitgevoerd, als dat technisch en economisch haalbaar is en als dat voor de naleving van artikel 12, § 3, nodig is.<br>
+<br>
+Als conform het eerste lid geen scheiding vereist is, wordt het gemengd afval verwerkt in een faciliteit die beschikt over een vergunning om dat mengsel te verwerken conform artikel 11.<br>
+&nbsp;
 
 ### ART. 31.
 
@@ -311,7 +562,7 @@ Een asbestveilige toestand is een toestand waarin bij normaal gebruik van de pub
 <br>
 Asbesthoudende materialen hebben een laag risico wanneer het op basis van hun aard, staat en voorkomen weinig waarschijnlijk is dat asbestvezels kunnen vrijkomen. Asbesthoudende materialen worden veilig beheerd als de materialen met laag risico deze status behouden en er voor de materialen met niet-laag risico maatregelen zijn getroffen om het risico op het vrijkomen van asbestvezels te verhinderen. In het inspectieprotocol, vermeld in artikel 33/10, § 3, kunnen nadere regels worden vastgesteld omtrent de risico-evaluatie en het veilig beheer van asbesthoudende materialen.<br>
 <br>
-Voor publieke constructies met risicobouwjaar waarvoor de eigenaar overeenkomstig artikel 33/9 over een asbestinventarisattest moet beschikken, bewijst dit attest of al dan niet aan de verplichting, vermeld in het eerste lid, 1°, is voldaan. Voor de andere constructies met risicobouwjaar kan de Vlaamse Regering bepalen hoe de naleving van deze verplichting kan worden aangetoond.
+Voor publieke constructies met risicobouwjaar waarvoor de eigenaar overeenkomstig artikel 33/9 over een asbestinventarisattest moet beschikken, bewijst dit attest of al dan niet aan de verplichting, vermeld in het eerste lid, 1°, is voldaan. Voor de andere publieke constructies met risicobouwjaar kan de Vlaamse Regering bepalen hoe de naleving van deze verplichting kan worden aangetoond.
 
 ### ART 33/7.
 
@@ -339,7 +590,11 @@ De Vlaamse Regering stelt een lijst van afvalstoffen op, overeenkomstig de gelde
 
 ### ART. 36.
 
-Sommige specifieke afvalstoffen zijn niet langer afvalstoffen als ze een behandeling voor nuttige toepassing, waaronder recyclage, hebben ondergaan, en als ze voldoen aan specifieke criteria die opgesteld moeten worden onder de volgende voorwaarden :<br />1° de stof of het voorwerp wordt gebruikelijk toegepast voor specifieke doelen;<br />2° er is een markt voor of vraag naar de stof of het voorwerp;<br />3° de stof of het voorwerp voldoet aan de technische voorschriften voor de specifieke doelen en aan de voor producten geldende wetgeving en normen;<br />4° het gebruik van de stof of het voorwerp heeft over het geheel genomen geen ongunstige effecten op het milieu of de menselijke gezondheid.<br /><br />Die criteria moeten worden uitgewerkt overeenkomstig artikel 39 en 40.<br /><br />
+Afvalstoffen worden niet langer als afvalstoffen beschouwd als ze een behandeling voor recyclage of andere nuttige toepassing hebben ondergaan en ze voldoen aan al de volgende voorwaarden:<br>
+1° de stof of het voorwerp is bestemd om te worden gebruikt voor specifieke doelen;<br>
+2° er is een markt voor of vraag naar de stof of het voorwerp;<br>
+3° de stof of het voorwerp voldoet aan de technische voorschriften voor de specifieke doelen, vermeld in punt 1°, en aan de voor producten geldende wetgeving en normen;<br>
+4° het gebruik van de stof of het voorwerp heeft over het geheel genomen geen ongunstige effecten op het milieu of de menselijke gezondheid.
 
 ### ART. 37.
 
@@ -351,11 +606,38 @@ Bodemmaterialen, als vermeld in artikel 2, 33°, van het Bodemdecreet van 27 okt
 
 ### ART. 39.
 
-§ 1. De Vlaamse Regering wijst indien nodig, overeenkomstig Europese voorschriften, de materialen aan en legt specifieke criteria op om aan te geven of het betreffende materiaal kan worden beschouwd als een bijproduct of als een materiaal dat de einde-afvalfase heeft bereikt.<br /><br />§ 2. Als er voor een specifiek materiaal geen Europese criteria zijn vastgelegd, kan de Vlaamse Regering voor dat materiaal specifieke criteria uitwerken die moeten garanderen dat de voorwaarden, vermeld in artikel 36 en 37, zijn vervuld.<br /><br />De criteria, vermeld in het eerste lid, kunnen onder meer betrekking hebben op de herkomst van het materiaal, de manier waarop het is ingezameld, geproduceerd of verwerkt, de aard en samenstelling van het materiaal, grenswaarden voor verontreinigende stoffen, het toegelaten gebruiksgebied, de toegelaten wijze van aanwending en de aanwezigheid van een kwaliteitsborgingssysteem dat waakt over input, procesvoering en eindkwaliteit.<br /><br />Bij de evaluatie van de over het geheel genomen ongunstige effecten op het milieu en de menselijke gezondheid, vermeld in artikel 36, 4°, en artikel 37, 4°, wordt rekening gehouden met de doelstellingen, vermeld in artikel 4, § 3.<br /><br />§ 3. De Vlaamse Regering stelt nadere regels vast voor de wijze waarop materialen worden aangewezen, en voor de wijze waarop daarvoor criteria worden uitgewerkt, overeenkomstig paragraaf 1 en 2.<br /><br />§ 4. Afvalstoffen die overeenkomstig de criteria, vermeld in paragraaf 1 en 2, niet langer als afvalstoffen gelden, gelden ook als gerecycleerd of nuttig toegepast in het kader van het halen van eventuele doelstellingen voor recyclage of nuttige toepassing.<br /><br />
+§ 1. De Vlaamse Regering wijst indien nodig, overeenkomstig Europese voorschriften, de materialen aan en legt specifieke criteria op om aan te geven of het betreffende materiaal kan worden beschouwd als een bijproduct of als een materiaal dat de einde-afvalfase heeft bereikt.<br>
+<br>
+&nbsp;§ 2. Als er voor een specifiek materiaal geen Europese criteria zijn vastgelegd, kan de Vlaamse Regering specifieke criteria uitwerken die moeten garanderen dat de voorwaarden, vermeld in artikel 36 en 37, zijn vervuld.<br>
+<br>
+De criteria, vermeld in het eerste lid, waarborgen een hoog niveau van bescherming van het milieu en de menselijke gezondheid en bevorderen een behoedzaam en rationeel gebruik van natuurlijke hulpbronnen. Ze hebben betrekking op:<br>
+1° het afvalmateriaal dat als input voor de handeling voor nuttige toepassing mag worden gebruikt;<br>
+2° de toegelaten verwerkingsprocessen en -technieken;<br>
+3° de kwaliteitscriteria voor materialen die het resultaat zijn van de handeling voor nuttige toepassing overeenkomstig de toepasselijke productnormen, waaronder, als dat nodig is, grenswaarden voor verontreinigende stoffen;<br>
+4° de vereisten waaraan beheerssystemen moeten voldoen om aan te tonen dat de criteria zijn nageleefd, met inbegrip van kwaliteitscontrole en interne controle en, in voorkomend geval, accreditatie;<br>
+5° de vereiste inzake conformiteitsverklaring.<br>
+<br>
+Bij de evaluatie van de over het geheel genomen ongunstige effecten op het milieu en de menselijke gezondheid, vermeld in artikel 36, 4°, en artikel 37, 4°, wordt rekening gehouden met de doelstellingen, vermeld in artikel 4, § 3..<br>
+<br>
+§ 3. De Vlaamse Regering stelt nadere regels vast voor de wijze waarop materialen worden aangewezen, en voor de wijze waarop daarvoor criteria worden uitgewerkt, overeenkomstig paragraaf 1 en 2.<br>
+<br>
+§ 4. Afvalstoffen die overeenkomstig de criteria, vermeld in paragraaf 1 en 2, niet langer als afvalstoffen gelden, gelden ook als gerecycleerd of nuttig toegepast in het kader van het halen van eventuele doelstellingen voor recyclage of nuttige toepassing.<br>
+&nbsp;
 
 ### ART. 40.
 
-De Vlaamse Regering kan eisen dat een grondstofverklaring wordt afgeleverd die aantoont dat aan de voorwaarden en criteria, vermeld in artikel 36, 37 en 39, is voldaan.<br /><br />De OVAM beslist over de aanvragen voor het afleveren van een grondstofverklaring. Tegen de beslissingen van de OVAM over het afleveren van een grondstofverklaring kan beroep worden ingediend bij de Vlaamse minister bevoegd voor het leefmilieu.<br /><br />De Vlaamse Regering kan nadere regels vaststellen voor de procedure voor het afleveren van een grondstofverklaring, de behandeling van de beroepen en de voorwaarden van een grondstofverklaring.<br /><br />
+§1. De Vlaamse Regering kan eisen dat een grondstofverklaring wordt afgeleverd die aantoont dat aan de voorwaarden en criteria, vermeld in artikel 36, 37 en 39, is voldaan.<br>
+<br>
+De OVAM beslist over de aanvragen voor het afleveren van een grondstofverklaring. Tegen de beslissingen van de OVAM over het afleveren van een grondstofverklaring kan beroep worden ingediend bij de Vlaamse minister bevoegd voor het leefmilieu.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen voor de procedure voor het afleveren van een grondstofverklaring, de behandeling van de beroepen en de voorwaarden van een grondstofverklaring.<br>
+<br>
+§ 2. Voor materialen waarvoor geen specifieke criteria bestaan en die niet bestemd zijn om te worden ingezet als brandstof, kan de houder een zelfbeoordeling uitvoeren op basis van de voorwaarden, vermeld in artikel 36 of 37. De Vlaamse Regering kan regels uitwerken waarmee de houder kan verifiëren of een bepaald materiaal niet of niet meer als een afvalstof moet worden beschouwd.<br>
+<br>
+§ 3. Een natuurlijke of rechtspersoon die voor de eerste keer een materiaal gebruikt dat niet langer een afvalstof is en niet in de handel is gebracht, of een materiaal voor het eerst sinds het niet langer een afvalstof is, in de handel brengt, ziet erop toe dat het materiaal voldoet aan de vereisten in kwestie, vermeld in de wetgeving over de chemische stoffen en producten.<br>
+<br>
+Aan de voorwaarden, vermeld in artikel 36 of 37, is voldaan voordat de wetgeving over de chemische stoffen en producten van toepassing is op het materiaal dat niet of niet meer als een afvalstof moet worden beschouwd.<br>
+&nbsp;
 
 ## HOOFDSTUK 5 Milieubijdragen, milieuheffingen en retributies
 
@@ -363,7 +645,10 @@ De Vlaamse Regering kan eisen dat een grondstofverklaring wordt afgeleverd die a
 
 ### ART. 41.
 
-De havenbeheerder zorgt ervoor dat de kosten voor het gebruik van de havenontvangstvoorzieningen die verbonden zijn aan de afgifte van scheepsafval van de zeevaart, met inbegrip van de behandeling en verwerking van het scheepsafval, worden betaald met bijdragen van de schepen via een kostendekkingssysteem dat niet mag aanzetten tot de lozing van afval in zee.<br /><br />De Vlaamse Regering kan nadere regels vaststellen waaraan het kostendekkingssysteem moet voldoen.<br /><br />
+De havenbeheerder zorgt ervoor dat de kosten voor het gebruik van de havenontvangstvoorzieningen die verbonden zijn aan de afgifte van afval van schepen van de zeevaart, met inbegrip van de ontvangst en verwerking van dat afval en met uitzondering van passief opgevist afval, worden betaald met bijdragen van de schepen via een kostendekkingssysteem dat niet mag aanzetten tot de lozing van afval in zee.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen waaraan het kostendekkingssysteem moet voldoen.<br>
+&nbsp;
 
 ### ART. 42.
 
@@ -653,7 +938,10 @@ De gemeenten zijn ertoe gerechtigd een beroep te doen op de OVAM met het oog op 
 
 § 1. De Vlaamse Regering kan de beoordeling van een aanvraag tot erkenning als laboratorium voor de uitvoering van analyses op stalen van afvalstoffen en bodem, vermeld in artikel 7, tweede lid, afhankelijk stellen van de betaling van een retributie.<br>
 <br>
-De Vlaamse Regering kan de aanvraag tot opname in een register als vermeld in artikel 13, § 1, afhankelijk stellen van de betaling van een retributie.<br>
+De Vlaamse Regering kan de opname in het register, vermeld in artikel 13, afhankelijk stellen van een retributie die de kosten dekt van al de volgende elementen:<br>
+1° de administratieve behandeling van de aanvraag;<br>
+2° het beheer van het register;<br>
+3° de uitoefening van het toezicht op de voorwaarden die aan de registratie gekoppeld zijn.<br>
 <br>
 De Vlaamse Regering kan de beoordeling van een aanvraag tot erkenning of registratie voor het beheer van dierlijke bijproducten als vermeld in artikel 33, § 3, afhankelijk stellen van de betaling van een retributie.<br>
 <br>
