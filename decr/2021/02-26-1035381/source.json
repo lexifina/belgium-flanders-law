@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035381,
+  "title": "Decreet van 2021-02-26 tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035381/VolledigDocument?datum=2021-04-11",
+  "source_sha256": "d871ff966d2a8b2bf35388263c82319ef11940b26fe2d404202127511e79d00c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035381&param=informatie",
+  "as_of": "2021-04-11",
+  "made": "2021-02-26",
+  "gazette": "2021-04-01",
+  "numac": 2021020625,
+  "document_start": "2021-04-11",
+  "document_end": null,
+  "in_force": "2021-04-11",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2021-04-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
