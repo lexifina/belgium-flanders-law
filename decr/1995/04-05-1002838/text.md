@@ -1910,7 +1910,10 @@ e) het verwerken van de hierboven bedoelde gegevens en informatie met het oog op
 16° asbesthoudende materialen te ontmantelen, in te zamelen, te transporteren of te verwerken, en de ontzorging, de prefinanciering of financiering daarvan, vermeld in artikel 33/8 van het Materialendecreet;<br>
 17° een asbestinventaris op te maken conform artikel 33/12 van het Materialendecreet, en de ontzorging, de prefinanciering of financiering daarvan, vermeld in artikel 33/8 van het Materialendecreet;<br>
 18° aanvragen te behandelen en de erkenning, vermeld in artikel 33/16 van het Materialendecreet, te verlenen, te schorsen en op te heffen;<br>
-19° de retributies, vermeld in artikel 66, § 1, van het Materialendecreet, te innen.<br>
+19° de retributies, vermeld in artikel 66, § 1, van het Materialendecreet, te innen;<br>
+20° het uitvoeren van de taken in het kader van de bijzondere afvalstoffen, vermeld in artikel 22 en 32 van het Materialendecreet;<br>
+21° het uitvoeren van de taken in het kader van toezicht, handhaving en veiligheidsmaatregelen als vermeld in titel XVI;<br>
+22° het aanduiden van een organisatie voor het overnemen van de taken van de certificatie-instelling asbest, vermeld in artikel 33/16 van het Materialendecreet.<br>
 <br>
 § 3. De taken van de OVAM met betrekking tot de bodemsanering zijn:<br>
 1° het ontwikkelen van instrumenten en het uitwerken van maatregelen om nieuwe bodemverontreiniging te voorkomen;<br>
