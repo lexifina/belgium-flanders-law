@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035435,
+  "title": "Samenwerkingsakkoord van 2021-03-24 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de gegevensoverdracht van noodzakelijke gegevens naar de gefedereerde entiteiten, de lokale overheden of politiediensten met als doel het handhaven van de verplichte quarantaine of testing van de reizigers komende van buitenlandse zones bij wie een quarantaine of testing verplicht is bij aankomst in België",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035435/VolledigDocument?datum=2021-04-12",
+  "source_sha256": "0048887eb6f99c4b86ff181fa97d46aaed98db97823c7acf4decc1fc1542ec35",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035435&param=informatie",
+  "as_of": "2021-04-12",
+  "made": "2021-03-24",
+  "gazette": "2021-04-12",
+  "numac": 2021030911,
+  "document_start": "2021-04-12",
+  "document_end": null,
+  "in_force": "2021-04-12",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2021-04-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
