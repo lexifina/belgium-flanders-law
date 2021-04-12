@@ -184,7 +184,11 @@ Uiterlijk op 1 oktober van het jaar waarin de subsidieaanvraag is ingediend, bes
 
 ### ART. 10.
 
-<P>In zoverre de wet op de overheidsopdrachten van toepassing is, houdt de   subsidietrekker zich aan de bepalingen van die wet in verband met de gunning van   de opdracht en de uitvoering ervan. Daarvoor moet de subsidietrekker, voor hij   overgaat tot de gunningsprocedure, het ontwerp, het lastenboek, de plannen en de   gedetailleerde raming, alsook de vereiste vergunningen, voor advies voorleggen   aan het FoCI. Aan de Vlaamse bouwmeester kan advies worden gevraagd over de   architecturale kwaliteit.<BR></P>  <P>Voor de werken gegund worden, moet de subsidietrekker het resultaat van de   gunningsprocedureter goedkeuring voorleggen aan het FoCI.<BR></P>  <P>De subsidie wordt uitbetaald door het FoCI op basis van de vorderingsstaten   en de bijbehorende facturen op naam van de subsidietrekker die goedgekeurd zijn   door het FoCI. De aanvraag tot uitbetaling kan ingediend worden tot zes jaar na   de beslissing van de minister om de investeringssubsidie te verlenen. De datum   van het ministerieel besluit geldt als referentiedatum.</P>
+<p>De regelgeving over de overheidsopdrachten wordt toegepast bij alle werken, diensten en leveringen waarvoor een investeringssubsidie is verleend. Elke subsidietrekker houdt zich als aanbestedende overheid aan de bepalingen over de gunning van de opdracht en de uitvoering ervan, vermeld in de regelgeving over overheidsopdrachten. De subsidietrekker legt in elk geval, voor hij overgaat tot de plaatsingsprocedure, het ontwerp, het lastenboek, de plannen en de gedetailleerde raming, en ook de vereiste vergunningen, voor advies voor aan het Departement Cultuur, Jeugd en Media. Aan de Vlaamse bouwmeester kan advies worden gevraagd over de architecturale kwaliteit.<br>
+<br>
+Voor de werken gegund worden, legt de subsidietrekker het resultaat van de gunningsprocedure ter goedkeuring voor aan het Departement Cultuur, Jeugd en Media.<br>
+<br>
+Het Departement Cultuur, Jeugd en Media betaalt de subsidie uit op basis van de vorderingsstaten en de bijbehorende facturen op naam van de subsidietrekker die goedgekeurd zijn door het Departement Cultuur, Jeugd en Media. De aanvraag tot uitbetaling kan ingediend worden tot zes jaar na de beslissing van de minister om de investeringssubsidie te verlenen. De datum van het ministerieel besluit geldt als referentiedatum.</p>
 
 ### ART. 11.
 
