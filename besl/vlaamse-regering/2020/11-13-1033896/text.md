@@ -133,7 +133,7 @@ Het Agentschap Innoveren en Ondernemen kan de waarachtigheid van de door de onde
 <br>
 In toepassing van artikel 40 van het decreet van 16 maart 2012 wordt de subsidie teruggevorderd binnen zes jaar na de indieningsdatum van de steunaanvraag in geval van niet-naleving van de voorwaarden die zijn opgelegd bij het decreet van 16 maart 2012, dit besluit of de uitvoeringsbesluiten.<br>
 <br>
-Ondernemingen moeten de subsidies die ten onrechte ontvangen werden, terugbetalen aan het Agentschap Innoveren en Ondernemen.
+Ondernemingen moeten de subsidies die ten onrechte ontvangen werden, verhoogd met een administratiekost van 100 euro, terugbetalen aan het Agentschap Innoveren en Ondernemen.
 
 ### ART 9.
 
