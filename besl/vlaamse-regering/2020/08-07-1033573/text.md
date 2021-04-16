@@ -91,8 +91,6 @@ d) vereffening;<br>
 
 ### ART 7.
 
-De steun verleend in het kader van dit besluit kan niet gecumuleerd worden met de achtergestelde lening verleend door PMV ten gevolge van de coronavirusmaatregelen van meer dan 75.000 euro. Dit cumulverbod geldt niet voor de ondernemingen voor wie een tussenkomst voorzien is vanuit het noodfonds.<br>
-<br>
 De steun verleend in het kader van dit besluit kan niet gecumuleerd worden met de bijkomende sluitingspremie zoals bedoeld in artikel 8 van het besluit van de Vlaamse Regering van 20 maart 2020 tot toekenning van steun aan ondernemingen die verplicht moeten sluiten ten gevolge van de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus, voor zover die betrekking heeft op de maanden augustus en september 2020.<br>
 <br>
 De steun verleend in het kader van dit besluit is intuitu personae en kan niet overgedragen worden aan een derde en is niet vatbaar voor beslag.
@@ -119,7 +117,7 @@ Het Agentschap Innoveren en Ondernemen kan de waarachtigheid van de door de onde
 <br>
 In toepassing van artikel 40 van het decreet van 16 maart 2012 wordt de subsidie teruggevorderd binnen zes jaar na de indieningsdatum van de steunaanvraag in geval van niet-naleving van de voorwaarden die zijn opgelegd bij het decreet van 16 maart 2012, dit besluit of de uitvoeringsbesluiten.<br>
 <br>
-Ondernemingen moeten de subsidies die ten onrechte ontvangen werden, terugbetalen aan het Agentschap Innoveren en Ondernemen.
+Ondernemingen moeten de subsidies die ten onrechte ontvangen werden, verhoogd met een administratiekost van 100 euro, terugbetalen aan het Agentschap Innoveren en Ondernemen.
 
 ### ART 10.
 
