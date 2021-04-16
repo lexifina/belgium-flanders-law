@@ -127,7 +127,7 @@ De onderneming dient een subsidieaanvraag in via de website van het Agentschap I
 <br>
 Er moet voor de maanden, vermeld in artikel 1, 8°, twee aparte subsidieaanvragen worden ingediend.<br>
 <br>
-De subsidieaanvraag voor de maand januari 2021 wordt ten vroegste op 16 februari 2021 en ten laatste op 15 maart 2021 ingediend. De subsidieaanvraag voor de maand februari 2021 wordt ten vroegste op 16 maart 2021 en ten laatste op 15 april 2021 ingediend.<br>
+De subsidieaanvraag voor de maand januari 2021 wordt ten vroegste op 16 februari 2021 en ten laatste op 15 maart 2021 ingediend. De subsidieaanvraag voor de maand februari 2021 wordt ten vroegste op 16 maart 2021 en ten laatste op 30 april 2021 ingediend.<br>
 <br>
 De subsidieaanvraag wordt elektronisch afgehandeld.<br>
 <br>
@@ -135,7 +135,7 @@ Het Agentschap Innoveren en Ondernemen onderzoekt de naleving van de voorwaarden
 <br>
 De onderneming ontvangt een schriftelijke kennisgeving van de beslissing, vermeld in het vierde lid.<br>
 <br>
-Als het Agentschap Innoveren en Ondernemen beslist dat de subsidie wordt toegekend, wordt ze uitbetaald onder de voorwaarde dat de onderneming zich niet bevindt in één van de rechtstoestanden, vermeld in artikel 5, 1°.<br>
+Als het Agentschap Innoveren en Ondernemen beslist dat de subsidie wordt toegekend, wordt ze uitbetaald onder de voorwaarde dat de onderneming de voorwaarden die zijn opgelegd bij het decreet van 16 maart 2012, dit besluit of de uitvoeringsbesluiten ervan heeft nageleefd, zich niet bevindt in één van de rechtstoestanden, vermeld in artikel 5, 1°, en geen openstaande onbetwiste schuld heeft bij het Agentschap Innoveren en Ondernemen naar aanleiding van een terugvordering van een toegekende corona hinderpremie, corona compensatiepremie, corona ondersteuningspremie of een Vlaams Beschermingsmechanisme. De voormelde terugvordering kan verminderd worden met het subsidiebedrag dat wordt toegekend naar aanleiding van een nieuwe subsidieaanvraag.<br>
 <br>
 De subsidie wordt alleen uitbetaald op een Belgisch rekeningnummer op naam van de begunstigde onderneming. De begunstigde onderneming blijft steeds verantwoordelijk voor de naleving van de voorwaarden waarbij de steun werd toegekend en voor de verantwoording van de aanwending ervan.
 
@@ -145,7 +145,7 @@ Het Agentschap Innoveren en Ondernemen kan de waarachtigheid van onder meer de d
 <br>
 In toepassing van artikel 40 van het decreet van 16 maart 2012 wordt de subsidie teruggevorderd binnen zes jaar na de indieningsdatum van de steunaanvraag in geval van niet-naleving van de voorwaarden die zijn opgelegd bij het decreet van 16 maart 2012, dit besluit of de uitvoeringsbesluiten.<br>
 <br>
-Ondernemingen moeten de subsidies die ten onrechte ontvangen werden, terugbetalen aan het Agentschap Innoveren en Ondernemen.
+Ondernemingen moeten de subsidies die ten onrechte ontvangen werden, verhoogd met een administratiekost van 100 euro, terugbetalen aan het Agentschap Innoveren en Ondernemen.
 
 ### ART 9.
 
