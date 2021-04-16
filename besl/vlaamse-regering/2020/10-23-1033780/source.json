@@ -2,16 +2,16 @@
   "codex_id": 1033780,
   "title": "Besluit van de Vlaamse Regering van 2020-10-23 betreffende het Vlaams Beschermingsmechanisme voor ondernemingen die een omzetdaling hebben ten gevolge van de verstrengde coronavirusmaatregelen genomen op 6 en 16 oktober 2020 en tot wijziging van artikel 6 van het besluit van de Vlaamse Regering van 20 maart 2020 tot toekenning van steun aan ondernemingen die verplicht moeten sluiten ten gevolge van de maatregelen genomen door de Nationale Veiligheidsraad vanaf 12 maart 2020 inzake het coronavirus",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033780/VolledigDocument?datum=2020-10-30",
-  "source_sha256": "45bef17ea3d82e84028be667c6f471c3565ae7453db570344068d01ef980bc58",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033780/VolledigDocument?datum=2021-04-16",
+  "source_sha256": "1d5403bc964ceb38dbd53ca49648c2d02c8ce5f43f9bd4006e554d27b36de517",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033780&param=informatie",
-  "as_of": "2020-10-30",
+  "as_of": "2021-04-16",
   "made": "2020-10-23",
   "gazette": "2020-10-30",
   "numac": 2020031611,
   "document_start": "2020-10-30",
   "document_end": null,
-  "in_force": "2020-10-30",
+  "in_force": "2021-04-16",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2020-10-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-04-16; future article versions excluded; article text as the API gives it"
 }
