@@ -99,8 +99,6 @@ d) vereffening;<br>
 
 ### ART 9.
 
-De steun verleend in het kader van dit besluit kan niet gecumuleerd worden met de achtergestelde lening verleend door PMV ten gevolge van de coronavirusmaatregelen van meer dan 75.000 euro.<br>
-<br>
 De steun verleend in het kader van dit besluit is intuitu personae en kan niet overgedragen worden aan een derde en is niet vatbaar voor beslag.
 
 ### ART 10.
@@ -119,11 +117,11 @@ De subsidie wordt alleen uitbetaald op een Belgisch rekeningnummer op naam van d
 
 ### ART 11.
 
-Het Agentschap Innoveren en Ondernemen kan de waarachtigheid van de door de onderneming gerapporteerde omzetdaling controleren op basis van administratieve gegevens en van de boekhouding van de onderneming, en dit zowel voorafgaandelijk aan als tot vijf jaar na de uitbetaling van de subsidie.<br>
+Het Agentschap Innoveren en Ondernemen kan de waarachtigheid van de door de onderneming gerapporteerde omzetdaling controleren op basis van administratieve gegevens en van de boekhouding van de onderneming, en dit zowel voorafgaandelijk aan als tot vijf jaar na de uitbetaling van de subsidie.&nbsp;Die informatie kan ook opgevraagd worden bij de federale of Vlaamse gegevensbronnen.<br>
 <br>
 In toepassing van artikel 40 van het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid, wordt de subsidie teruggevorderd binnen zes jaar na de indieningsdatum van de steunaanvraag in geval van niet-naleving van de voorwaarden die zijn opgelegd bij het decreet van 16 maart 2012, dit besluit of de uitvoeringsbesluiten.<br>
 <br>
-Ondernemingen moeten de subsidies die ten onrechte ontvangen werden, terugbetalen aan het Agentschap Innoveren en Ondernemen.
+Ondernemingen moeten de subsidies die ten onrechte ontvangen werden, verhoogd met een administratiekost van 100 euro, terugbetalen aan het Agentschap Innoveren en Ondernemen.
 
 ### ART 12.
 
