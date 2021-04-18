@@ -45,7 +45,7 @@ Een contractueel personeelslid heeft tijdens dit verlof geen recht op salaris.".
 
 ### ART 2.
 
-Dit besluit heeft uitwerking met ingang van 1 oktober 2020 en treedt buiten werking op 31 december 2020.
+Dit besluit heeft uitwerking met ingang van 1 oktober 2020.
 
 ### ART 3.
 
