@@ -174,7 +174,11 @@ De organisator van gezinsopvang zorgt voor de mogelijkheid tot veilige   evacuat
 
 ### ART. 28.
 
-<P>De organisator heeft een procedure grensoverschrijdend gedrag en meldt elke   situatie van grensoverschrijdend gedrag zo snel mogelijk aan Kind en Gezin.   <BR></P>  <P>In het eerste lid wordt verstaan onder grensoverschrijdend gedrag : een   situatie waarin een kind in relatie tot een persoon die aanwezig is tijdens de   kinderopvang, slachtoffer is of dreigt te worden van bedreigingen of   geweld.<BR></P>  <P>De procedure grensoverschrijdend gedrag legt vast hoe grensoverschrijdend   gedrag gedetecteerd wordt, hoe er gepast op gereageerd kan worden en hoe aan   preventie kan worden gedaan.<BR></P>
+<p>De organisator heeft een procedure grensoverschrijdend gedrag en meldt elke situatie van grensoverschrijdend gedrag zo snel mogelijk aan het agentschap.</p>
+
+<p>In het eerste lid wordt verstaan onder grensoverschrijdend gedrag : een situatie waarin een kind in relatie tot een persoon die aanwezig is tijdens de kinderopvang, slachtoffer is of dreigt te worden van bedreigingen of geweld.</p>
+
+<p>De procedure grensoverschrijdend gedrag legt vast hoe grensoverschrijdend gedrag gedetecteerd wordt, hoe er gepast op gereageerd kan worden en hoe aan preventie kan worden gedaan.</p>
 
 ## Onderafdeling 6 Verzekering
 
