@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035419,
+  "title": "Decreet van 2021-03-19 tot wijziging van artikel 3.1.13 van het Energiedecreet van 8 mei 2009, wat het jaarrapport van de regulator betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035419/VolledigDocument?datum=2021-04-18",
+  "source_sha256": "eac39c9e015edff56d4f5f0e2c7fad4ec0b648bbe8719e55e4ad8ba7ae865d24",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035419&param=informatie",
+  "as_of": "2021-04-18",
+  "made": "2021-03-19",
+  "gazette": "2021-04-08",
+  "numac": 2021020650,
+  "document_start": "2021-04-18",
+  "document_end": null,
+  "in_force": "2021-04-18",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2021-04-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
