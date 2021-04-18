@@ -633,7 +633,7 @@ De VREG zendt de jaarrekening, vergezeld van het verslag van de bedrijfsrevisor 
 <br>
 § 8. De VREG stelt jaarlijks uiterlijk op 31 januari een ondernemingsplan voor dat jaar vast en deelt het mee aan het Vlaams Parlement. Het omvat onder meer de beleids- en beheersdoelstellingen, zowel meerjarig als voor het komende jaar, en de operationele vertaling ervan. Als bij het verstrijken van een ondernemingsplan geen nieuw ondernemingsplan in werking is getreden, blijft het bestaande ondernemingsplan van toepassing tot op het ogenblik dat het nieuwe ondernemingsplan in werking treedt.<br>
 <br>
-§ 9. De VREG stelt jaarlijks een jaarrapport over de uitvoering van het ondernemingsplan op dat hij aan het Vlaams Parlement overzendt. Wat betreft de punten 1°, 3° en 4° gebeurt dit voor 31 januari van het jaar volgend op het betrokken boekjaar. Wat betreft punt 2° gebeurt dit voor 31 maart van het jaar volgend op het betrokken boekjaar. Het jaarrapport van de VREG heeft onder meer betrekking op:<br>
+§ 9. De VREG stelt jaarlijks een jaarrapport op over de uitvoering van het ondernemingsplan en bezorgt dat rapport aan het Vlaams Parlement vóór 31 maart van het jaar dat volgt op het desbetreffende boekjaar. Het jaarrapport van de VREG heeft onder meer betrekking op:<br>
 1° de uitvoering van het ondernemingsplan van het voorgaande jaar;<br>
 2° de staat van zijn werkingskosten en de wijze waarop zij gedekt zijn, met inbegrip van een overzicht van activa/passiva en het verslag van de bedrijfsrevisor;<br>
 3° de evolutie van de energiemarkten;<br>
