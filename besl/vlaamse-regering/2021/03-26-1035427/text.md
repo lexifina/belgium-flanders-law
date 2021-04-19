@@ -56,3 +56,11 @@ Aan artikel 7 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt a
 ### ART 4.
 
 In artikel 6 van hetzelfde besluit wordt de zinssnede "op 1 juni 2021" vervangen door de zinssnede "op 31 jul 2021" en in artikel 8 van hetzelfde besluit wordt de zinssnede "op 30 september 2021" vervangen door de zinssnede "op 30 november 2021".
+
+### ART 5.
+
+Artikelen 1 tot en met 4 hebben uitwerking met ingang van 3 april 2021.
+
+### ART 6.
+
+De Vlaamse minister, bevoegd voor het binnenlands bestuur en het stedenbeleid en de Vlaamse minister, bevoegd voor opgroeien, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
