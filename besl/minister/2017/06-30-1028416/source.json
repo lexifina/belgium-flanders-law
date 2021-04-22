@@ -2,16 +2,16 @@
   "codex_id": 1028416,
   "title": "Ministerieel besluit van 2017-06-30 tot aanduiding van de gewestelijke overleginstantie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028416/VolledigDocument?datum=2020-08-20",
-  "source_sha256": "817e04a649df64aa821346bd21e5e8b58cf5a84afb208fec3084f4f425d31e28",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028416/VolledigDocument?datum=2021-04-22",
+  "source_sha256": "0789799c622e5e21ab80946cc0019acb5375073b1220f064f56f157134607e10",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028416&param=informatie",
-  "as_of": "2020-08-20",
+  "as_of": "2021-04-22",
   "made": "2017-06-30",
   "gazette": "2017-07-12",
   "numac": 2017203665,
   "document_start": "2017-07-22",
   "document_end": null,
-  "in_force": "2020-08-20",
+  "in_force": "2021-04-22",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2020-08-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-04-22; future article versions excluded; article text as the API gives it"
 }

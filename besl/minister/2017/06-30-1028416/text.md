@@ -35,7 +35,7 @@ b) als plaatsvervanger: Mevr. Lieve Vriens;<br>
 a) als lid: de heer Lieven De Stoppeleire;<br>
 b) als plaatsvervanger: de heer Mark Wulfrancke;<br>
 6° voor de Boerenbond:<br>
-a) als lid: Mevr. Leen Franchois;<br>
+a) als lid: de heer Nick François;<br>
 b) als plaatsvervanger: de heer Bart Beliën;<br>
 7° voor het Aanspreekpunt Privaat Beheer Natuur en Bos:<br>
 a) als lid: Mevr. Valerie Vandenabeele en de heer Jurgen Tack;<br>
@@ -51,12 +51,12 @@ a) als lid: de heer Steven Betz;<br>
 b) als plaatsvervanger: Mevr. Sofie Coppens;<br>
 11° voor het departement Landbouw en Visserij van de Vlaamse overheid:<br>
 a) als lid: Mevr. Nicole Van Duyse;<br>
-b) als plaatsvervanger: Mevr. Elke Ramon;<br>
+b) als plaatsvervanger: de heer Tuur Jena;<br>
 12° voor het departement Mobiliteit en Openbare Werken van de Vlaamse overheid:<br>
 a) als lid: Mevr. Astrid Van Vosselen;<br>
 b) als plaatsvervanger: Mevr. Valerie Vandeurzen;<br>
 13° voor het departement Omgeving van de Vlaamse overheid:<br>
-a) als lid: Mevr. Tanya Cerulus;<br>
+a) als lid: de heer Robin De Smedt;<br>
 b) als plaatsvervanger: Mevr. Jana Van Hoyweghe.<br>
 <br>
 Mevr. Marleen Evenepoel, administrateur-generaal van het Agentschap voor Natuur en Bos, vermeld in het eerste lid, 1°, treedt op als voorzitter van de gewestelijke overleginstantie ter uitvoering van de organiserende en sturende taak die conform artikel 50quinquies, derde lid, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu is toegewezen aan het Agentschap voor Natuur en Bos.<br>
