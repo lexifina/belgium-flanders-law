@@ -2472,7 +2472,26 @@ Deze tegemoetkoming kan de vorm aannemen van een rentesubsidie.<br>
 <br>
 De Vlaamse Regering kan de procedure voor aanvraag en toekenning bepalen.<br>
 <br>
-§ 2. De Vlaamse Regering bepaalt de minimale voorwaarden waartegen de rentesubsidie wordt toegekend. Tussen de Vlaamse Regering en de kredietgevers wordt een samenwerkingsprotocol gesloten.
+§ 2. De Vlaamse Regering bepaalt de minimale voorwaarden waartegen de rentesubsidie wordt toegekend. Tussen de Vlaamse Regering en de kredietgevers wordt een samenwerkingsprotocol gesloten.<br>
+<br>
+§ 3. In het kader van de steunprogramma's, vermeld in paragraaf 1, worden de volgende categorieën van persoonsgegevens door de kredietgevers verwerkt en aan het VEKA bezorgd:<br>
+1° de identificatiegegevens van de kredietnemers;<br>
+2° de identificatiegegevens en het type van het gebouw of de gebouweenheid;<br>
+3° de voorwaarden en kenmerken van de leningen;<br>
+4° het rekeningnummer van de kredietnemer;<br>
+5° de energiegegevens van het gebouw;<br>
+6° het certificaatnummer van het energieprestatiecertificaat;<br>
+7° de datum van de authentieke akte van verwerving of, bij gebrek daaraan, de datum van de authentieke kredietakte, de onderhandse kredietovereenkomst of de eerste opname van het hoofdkrediet.<br>
+<br>
+Voor de unieke identificatie van de betrokken persoon of personen kan het rijksregisternummer, het BIS-nummer of het vreemdelingennummer opgevraagd en verwerkt worden.<br>
+<br>
+Voor de verwerking van persoonsgegevens in het kader van het toekennen van de steunprogramma's, vermeld in paragraaf 1, zijn de kredietgevers de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+<br>
+Voor de verwerking van persoonsgegevens in het kader van het beheer van de steunprogramma's, vermeld in paragraaf 1, is het VEKA de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+<br>
+De Vlaamse Regering kan nadere voorwaarden en modaliteiten bepalen met betrekking tot de gegevensuitwisseling tussen de kredietgevers en het VEKA.<br>
+<br>
+De Vlaamse Regering bepaalt voor de verwerking van persoonsgegevens een bewaartermijn. Deze termijn is niet langer dan noodzakelijk voor de toepassing van de door of krachtens dit artikel vastgestelde regels of voor de toepassing van artikel 13.4.13, en is niet langer dan dertig jaar.
 
 ## HOOFDSTUK III. Steunprogramma's voor ondernemingen
 
@@ -2585,7 +2604,9 @@ Onverminderd het eerste lid voldoet elk energiehuis om als kredietbemiddelaar of
 1° het beschikt over rechtspersoonlijkheid;<br>
 2° het beschikt over de nodige expertise en kritische capaciteit op technisch, juridisch, financieel en boekhoudkundig vlak;<br>
 3° het kan werken volgens het derde-investeerderprincipe en fungeren als lokale ESCO in het kader van de financiering van tussenkomsten voor de door de Vlaamse Regering vastgestelde doelgroep;<br>
-4° het kan de sociale begeleiding van de door de Vlaamse Regering vastgestelde doelgroep garanderen.
+4° het kan de sociale begeleiding van de door de Vlaamse Regering vastgestelde doelgroep garanderen.<br>
+<br>
+Voor de verwerkingen van persoonsgegevens in het kader van het toekennen van een energielening zijn de energiehuizen de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
 
 ### ART. 9.1.3.
 
@@ -2593,7 +2614,23 @@ Onverminderd het eerste lid voldoet elk energiehuis om als kredietbemiddelaar of
 
 ### ART. 9.1.4.
 
-<P>...</P>
+<p>In het kader van de uitvoering van hun taak, vermeld in artikel 9.1.1, 1°, bezorgen de energiehuizen de volgende categorieën van persoonsgegevens aan het VEKA:<br>
+1° de identificatiegegevens van de kredietnemers;<br>
+2° de identificatiegegevens en het type van het gebouw of de gebouweenheid;<br>
+3° de voorwaarden en kenmerken van de energielening;<br>
+4° de energiegegevens van het gebouw;<br>
+5° het certificaatnummer van het energieprestatiecertificaat;<br>
+6° de datum van de authentieke akte van verwerving, de datum van de aangifte van nalatenschap of, bij gebrek daaraan, de datum van het aanslagbiljet van de erfbelasting dat door de Vlaamse Belastingdienst werd opgemaakt.<br>
+<br>
+Voor de unieke identificatie van de betrokkene kan het ondernemingsnummer, het rijksregisternummer, het BIS-nummer of het vreemdelingennummer opgevraagd en verwerkt worden.<br>
+<br>
+De Vlaamse Regering bepaalt voor welk type energielening die persoonsgegevens aan het VEKA moeten worden bezorgd.<br>
+<br>
+Voor de verwerking van persoonsgegevens in het kader van het beheer van energieleningen is het VEKA de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+<br>
+De Vlaamse Regering kan nadere voorwaarden en modaliteiten bepalen met betrekking tot de gegevensuitwisseling tussen de energiehuizen en het VEKA.<br>
+<br>
+De Vlaamse Regering bepaalt voor de verwerking van persoonsgegevens een bewaartermijn. Deze termijn is niet langer dan noodzakelijk voor de toepassing van de door of krachtens dit artikel en artikel 8.2.2 vastgestelde regels of voor de toepassing van artikel 13.4.13, en is niet langer dan dertig jaar.</p>
 
 ## TITEL X. [ERKENNING VAN ENERGIEDESKUNDIGEN, VERSLAGGEVERS EN OPLEIDINGSINSTELLINGEN EN DE CERTIFICERING VAN AANNEMERS (verv. decr. 14 maart 2014, art. 4, I: 28 maart 2014)]
 
