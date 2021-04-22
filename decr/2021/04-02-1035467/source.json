@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035467,
+  "title": "Decreet van 2021-04-02 tot wijziging van het Energiedecreet van 8 mei 2009, wat de uitwisseling van gegevens tussen kredietgevers en het VEKA betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035467/VolledigDocument?datum=2021-04-22",
+  "source_sha256": "d6ea00135109c47ff8321cf170d7a9fd71e0e3cb598b40eb2cd0a796ef60935f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035467&param=informatie",
+  "as_of": "2021-04-22",
+  "made": "2021-04-02",
+  "gazette": "2021-04-21",
+  "numac": 2021031100,
+  "document_start": "2021-04-22",
+  "document_end": null,
+  "in_force": "2021-04-22",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-04-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
