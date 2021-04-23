@@ -33,10 +33,64 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In afwijking van artikel 56 van het besluit van de Vlaamse Regering van 19 juli 2002 betreffende de organisatie van het voltijds secundair onderwijs:<br>
+1° is de organisatie van een geïntegreerde proef in het schooljaar 2020-2021 facultatief;<br>
+2° doet, in voorkomend geval, de afwezigheid door overmacht van deskundigen bij de beoordeling van de in 1° vermelde proef, geen afbreuk aan de rechtsgeldigheid van die beoordeling.
+
+### ART 2.
+
+In afwijking van artikel 17 van het besluit van de Vlaamse Regering van 6 december 2002 betreffende de organisatie van het buitengewoon secundair onderwijs van opleidingsvorm 3:<br>
+1° is de organisatie van een kwalificatieproef in het schooljaar 2020-2021 facultatief;<br>
+2° doet, in voorkomend geval, de afwezigheid door overmacht van deskundigen bij de beoordeling van de in 1° vermelde proef in de kwalificatiecommissie, geen afbreuk aan de rechtsgeldigheid van die beoordeling.
+
 ### ART 3.
 
 In afwijking van artikel 4, eerste lid, van het besluit van de Vlaamse Regering van 10 november 2006 tot vaststelling van de goedkeuringscriteria en indieningsmodaliteiten van de leerplannen, worden leerplannen van de studierichting Defensie en veiligheid, derde graad technisch secundair onderwijs, die op 1 september 2021 van toepassing worden in het eerste leerjaar van die graad, ingediend bij de bevoegde inspecteur-generaal uiterlijk 31 maart 2021.
 
+### ART 4.
+
+In afwijking van artikel 6/2 van het besluit van de Vlaamse Regering van 7 september 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, behoudt de gehuwde student het statuut van gehuwd student tijdens het academiejaar 2020-2021 als hij over dit statuut beschikte in het verleden en dit statuut nooit heeft verloren.
+
+### ART 5.
+
+In afwijking van artikel 7/2 van hetzelfde besluit behoudt de student het statuut van zelfstandig student tijdens het academiejaar 2020-2021 op voorwaarde dat:<br>
+1° hij over dit statuut beschikte in het verleden en dit statuut nooit heeft verloren; en<br>
+2° hij niet voldoet aan de voorwaarden van het statuut van gehuwd student, vermeld in artikel 6 van hetzelfde besluit.
+
+### ART 6.
+
+In afwijking van artikel 4 van het besluit van de Vlaamse Regering van 10 juli 2020 tot toekenning van een projectsubsidie van maximaal 2.240.658 euro voor de organisatie van taalstimulerende activiteiten Nederlands in de schoolvakanties en de buitenschoolse opvang voor kinderen en jongeren, voor de periode van 20 juli 2020 tot en met 31 augustus 2021, kunnen activiteiten in het kader van de projecten `Taalstimulerende activiteiten' die gepland waren voor de periode van 20 juli 2020 tot 31 augustus 2021, maar die niet hebben kunnen plaatsvinden omwille van de maatregelen inzake COVID-19, nog plaatsvinden tot 31 augustus 2022.<br>
+<br>
+De bepaling in het eerste lid doet geen afbreuk aan de mogelijkheid van de begunstigden om voor het schooljaar 2021-2022 een nieuwe subsidie te verkrijgen voor de organisatie van taalstimulerende activiteiten. De activiteiten die in het kader van de nieuwe subsidie worden georganiseerd moeten duidelijk te onderscheiden zijn van de activiteiten die worden georganiseerd in toepassing van het eerste lid, opdat dubbele financiering van eenzelfde activiteit uitgesloten wordt.
+
+### ART 7.
+
+In afwijking van artikel 6, paragraaf 3, van hetzelfde besluit stelt de begunstigde die gebruik maakt van de mogelijkheid vermeld in artikel 6 de stukken uiterlijk op 30 september 2021 digitaal ter beschikking van de afdeling Horizontaal Beleid, voor de activiteiten die werden georganiseerd in de periode van 20 juli 2020 tot 31 augustus 2021, en uiterlijk op 30 september 2022, voor de activiteiten die gepland waren voor de periode van 20 juli 2020 tot 31 augustus 2021, maar pas werden georganiseerd in het schooljaar 2021-2022.
+
+### ART 8.
+
+In afwijking van artikel 4 van het besluit van de Vlaamse Regering van 17 juli 2020 tot toekenning van projectsubsidies van voor de projectoproep Lezen op school 2020 voor de periode van 1 september 2020 tot en met 31 augustus 2021 kunnen activiteiten in het kader van de projecten `Lezen op School' die gepland waren voor de periode van 1 september 2020 tot 31 augustus 2021, maar die niet hebben kunnen plaatsvinden omwille van de maatregelen inzake COVID-19, nog plaatsvinden tot 31 augustus 2022.<br>
+<br>
+De bepaling in het eerste lid doet geen afbreuk aan de mogelijkheid van de begunstigden om voor het schooljaar 2021-2022 een nieuwe subsidie te verkrijgen voor de organisatie van projecten `Lezen op school'. De activiteiten die in het kader van de nieuwe subsidie worden georganiseerd moeten duidelijk te onderscheiden zijn van de activiteiten die worden georganiseerd in toepassing van het eerste lid, opdat dubbele financiering van eenzelfde activiteit uitgesloten wordt.
+
+### ART 9.
+
+In afwijking van artikel 6, paragraaf 3, van hetzelfde besluit stelt de begunstigde die gebruik maakt van de mogelijkheid vermeld in artikel 8 de stukken uiterlijk op 30 september 2021 digitaal ter beschikking van de afdeling Horizontaal Beleid, voor de activiteiten die werden georganiseerd in de periode van 20 juli 2020 tot 31 augustus 2021, en uiterlijk op 30 september 2022, voor de activiteiten die gepland waren voor de periode van 20 juli 2020 tot 31 augustus, maar pas werden georganiseerd in het schooljaar 2021-2022.
+
 ### ART 10.
 
 Als de kost van het totale aantal aanvragen de hoogte van de beschikbare begrotingskredieten bereikt, wordt de toekenning van extra lestijden, uren-leraar of lesuren, zoals vermeld in artikel 2 van het decreet van 5 maart 2021 tot toekenning van extra lestijden, lesuren en uren-leraar voor de remediëring van leerlingen die een leerachterstand hebben opgelopen door COVID-19, stop gezet. Het maximale budget voor het totale aantal aanvragen wordt vastgelegd op 30.000.000 euro.
+
+### ART 11.
+
+Dit besluit treedt in werking op de datum van de goedkeuring.<br>
+<br>
+Artikel 3 heeft uitwerking met ingang van 31 januari 2021.<br>
+<br>
+Artikel 10 heeft uitwerking met ingang van 5 maart 2021.
+
+### ART 12.
+
+De Vlaamse minister, bevoegd voor onderwijs, is belast met de uitvoering van dit besluit.
