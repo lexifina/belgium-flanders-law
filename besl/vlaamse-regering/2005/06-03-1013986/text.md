@@ -764,9 +764,9 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 
 ### ART. 12.
 
-&nbsp;§ 1. Het beleidsdomein Mobiliteit en Openbare Werken omvat de volgende beleidsvelden en bevoegdheden:<br>
-&nbsp;
-<table border="1">
+<br>
+§ 1. Het beleidsdomein Mobiliteit en Openbare Werken omvat de volgende beleidsvelden en bevoegdheden:
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
 	<tbody>
 		<tr>
 			<td>beleidsveld</td>
@@ -774,7 +774,7 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>regionale luchthavens</td>
-			<td>1° de uitrusting en de uitbating van de luchthavens en de openbare vliegvelden, vermeld in artikel 6, § 1, X, 7° van de bijzondere wet<br>
+			<td>1° de uitrusting en de uitbating van de luchthavens en de openbare vliegvelden, vermeld in artikel 6, § 1, X, 7°, van de bijzondere wet<br>
 			2° de vestigingsvoorwaarden met betrekking tot mobiliteit en logistiek</td>
 		</tr>
 		<tr>
@@ -787,7 +787,8 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		<tr>
 			<td>algemeen mobiliteitsbeleid</td>
 			<td>1° het beleid inzake multimodale mobiliteit, synchro- en combimobiliteit, integrale mobiliteit en logistiek<br>
-			2° de vestigingsvoorwaarden met betrekking tot mobiliteit en logistiek</td>
+			2° de vestigingsvoorwaarden met betrekking tot mobiliteit en logistiek<br>
+			3° het stimuleren van de omschakeling naar zero-emissievervoermiddelen en vervoermiddelen die aangedreven worden door alternatieve brandstoffen, met inbegrip van de uitrol van de bijbehorende laad- en tankinfrastructuur die geen betrekking heeft op de infrastructuur van gebouwen en naastgelegen parkeerterreinen, vermeld in artikel 8 van richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen</td>
 		</tr>
 		<tr>
 			<td>weginfrastructuur en beleid</td>
@@ -818,9 +819,9 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 	</tbody>
 </table>
 <br>
-§ 2. Het beleidsdomein Mobiliteit en Openbare Werken omvat de volgende inhoudelijke structuurelementen:<br>
-&nbsp;
-<table border="1">
+§ 2. Het beleidsdomein Mobiliteit en Openbare Werken omvat de volgende inhoudelijke structuurelementen:
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
 	<tbody>
 		<tr>
 			<td>beleidsveld</td>
@@ -844,7 +845,7 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		<tr>
 			<td>algemeen mobiliteitsbeleid</td>
 			<td>1° algemene beleidsondersteuning<br>
-			2° modi-overschrijdend mobiliteitsbeleid</td>
+			2° modioverschrijdend mobiliteitsbeleid 3° het stimuleren van de omschakeling naar zero-emissievervoermiddelen en vervoermiddelen die aangedreven worden door alternatieve brandstoffen, met inbegrip van de uitrol van de bijbehorende laad- en tankinfrastructuur die geen betrekking heeft op de infrastructuur van gebouwen en naastgelegen parkeerterreinen, vermeld in artikel 8 van richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen</td>
 		</tr>
 		<tr>
 			<td>weginfrastructuur en beleid</td>
@@ -864,6 +865,8 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 	</tbody>
 </table>
+<br>
+&nbsp;
 
 ### ART. 13.
 
