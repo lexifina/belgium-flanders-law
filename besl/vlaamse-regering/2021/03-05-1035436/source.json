@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035436,
+  "title": "Besluit van de Vlaamse Regering van 2021-03-05 tot wijziging van artikel 12 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035436/VolledigDocument?datum=2021-04-23",
+  "source_sha256": "17ffc22a37d7487977aa01a062d0d3510ddd496638c90a13f07429193656c657",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035436&param=informatie",
+  "as_of": "2021-04-23",
+  "made": "2021-03-05",
+  "gazette": "2021-04-13",
+  "numac": 2021020698,
+  "document_start": "2021-04-23",
+  "document_end": null,
+  "in_force": "2021-04-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-04-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
