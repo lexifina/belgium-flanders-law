@@ -957,7 +957,9 @@ In deze afdeling wordt verstaan onder :<br />1° referentieperiode : de periode 
 
 ### ART. 97.
 
-Het personeelslid ontvangt jaarlijks een eindejaarstoelage.
+Het personeelslid ontvangt jaarlijks een eindejaarstoelage.<br>
+<br>
+De raad kan beslissen dat de eindejaarstoelage volledig of gedeeltelijk door het personeelslid op vrijwillige basis kan worden ingeruild tegen voordelen ter bevordering van de fietsmobiliteit. Hij bepaalt daarvoor de nadere regels in de rechtspositieregeling van het OCMW-personeel.
 
 ### ART. 98.
 
@@ -1144,7 +1146,17 @@ Het personeelslid heeft recht op maaltijdcheques, die op jaarbasis voor ten mins
 
 ### ART. 123.
 
-§ 1. Het OCMW sluit een collectieve hospitalisatieverzekering af voor :<br />1° de statutaire personeelsleden;<br />2° de personeelsleden met een arbeidsovereenkomst van onbepaalde duur.<br /><br />De OCMW-besturen nemen de premie voor de hospitalisatieverzekering voor de personeelsleden, vermeld in punt 1° en 2°, die voltijds of halftijds werken, volledig ten laste.<br /><br />§ 2. In afwijking van paragraaf 1 kan de raad bepalen dat :<br />1° de verzekeringspremie voor de personeelsleden die minder dan halftijds werken, slechts gedeeltelijk ten laste wordt genomen;<br />2° een hospitalisatieverzekering wordt afgesloten voor sommige contractuele personeelsleden met een arbeidsovereenkomst van bepaalde duur.<br /><br />§ 3. Voor de toepassing van paragraaf 2, 1° en 2°, is de raad gebonden aan de keuzes en aan de eventuele regels daarover in de rechtspositieregeling van het gemeentepersoneel.
+§ 1. Het OCMW sluit een collectieve hospitalisatieverzekering af voor :<br>
+1° de statutaire personeelsleden;<br>
+2° de personeelsleden met een arbeidsovereenkomst van onbepaalde duur.<br>
+<br>
+De OCMW-besturen nemen de premie voor de hospitalisatieverzekering voor de personeelsleden, vermeld in punt 1° en 2°, die ten minste halftijds aangesteld zijn of die een arbeidsovereenkomst voor ten minste een halftijdse betrekking hebben gesloten, volledig ten laste.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 kan de raad bepalen dat :<br>
+1° de verzekeringspremie maar gedeeltelijk ten laste wordt genomen voor de personeelsleden die minder dan halftijds aangesteld zijn, of die een arbeidsovereenkomst voor minder dan een halftijdse betrekking hebben gesloten;<br>
+2° een hospitalisatieverzekering wordt afgesloten voor sommige contractuele personeelsleden met een arbeidsovereenkomst van bepaalde duur.<br>
+<br>
+§ 3. Voor de toepassing van paragraaf 2, 1° en 2°, is de raad gebonden aan de keuzes en aan de eventuele regels daarover in de rechtspositieregeling van het gemeentepersoneel.
 
 ### ART. 124.
 
@@ -1216,7 +1228,21 @@ Voor personeelsleden met een specifieke arbeidsregeling kan de raad, indien nodi
 
 ### ART. 138.
 
-§ 1. Het personeelslid heeft jaarlijks recht op een aantal werkdagen betaalde vakantie. Het aantal werkdagen betaalde vakantie bedraagt zesentwintig dagen voor een volledig arbeidsjaar.<br /><br />De raad stelt de nadere regels voor de opname van de vakantiedagen vast.<br /><br />§ 2. Elke periode met recht op salaris geeft recht op jaarlijkse vakantiedagen, rekening houdend met de prestatieregeling.<br /><br />Als een personeelslid in de loop van het jaar in dienst treedt of zijn functie definitief neerlegt, worden zijn vakantiedagen in evenredige mate verminderd.<br /><br />Het aantal vakantiedagen wordt verminderd in verhouding tot het aantal onbezoldigde verlofdagen dat wordt opgenomen.<br /><br />§ 3. De raad regelt de volgende aangelegenheden in overeenstemming met de bepalingen daarover in de rechtspositieregeling van het gemeentepersoneel :<br />1° de eventuele gelijkstelling van periodes met recht op een uitkering in het kader van de ziekte- en invaliditeitsverzekering of met recht op een wachtgeld, met periodes die recht geven op jaarlijkse vakantiedagen;<br />2° de rechten van het statutaire personeelslid dat ziek wordt voor de aanvang van een aangevraagde en toegestane vakantie, of tijdens de vakantie.
+§ 1. Het personeelslid heeft jaarlijks recht op een aantal werkdagen betaalde vakantie. Het aantal werkdagen betaalde vakantie bedraagt zesentwintig dagen voor een volledig arbeidsjaar.<br>
+<br>
+De raad stelt de nadere regels voor de opname van de vakantiedagen vast.<br>
+<br>
+De raad kan beslissen dat vakantiedagen die per kalenderjaar boven het minimum van vierentwintig dagen jaarlijkse vakantie toegekend worden, door het personeelslid op vrijwillige basis kunnen worden ingeruild tegen voordelen ter bevordering van de fietsmobiliteit. Hij bepaalt daarvoor de nadere regels in de rechtspositieregeling van het OCMW-personeel.<br>
+<br>
+§ 2. Elke periode met recht op salaris geeft recht op jaarlijkse vakantiedagen, rekening houdend met de prestatieregeling.<br>
+<br>
+Als een personeelslid in de loop van het jaar in dienst treedt of zijn functie definitief neerlegt, worden zijn vakantiedagen in evenredige mate verminderd.<br>
+<br>
+Het aantal vakantiedagen wordt verminderd in verhouding tot het aantal onbezoldigde verlofdagen dat wordt opgenomen.<br>
+<br>
+§ 3. De raad regelt de volgende aangelegenheden in overeenstemming met de bepalingen daarover in de rechtspositieregeling van het gemeentepersoneel :<br>
+1° de eventuele gelijkstelling van periodes met recht op een uitkering in het kader van de ziekte- en invaliditeitsverzekering of met recht op een wachtgeld, met periodes die recht geven op jaarlijkse vakantiedagen;<br>
+2° de rechten van het statutaire personeelslid dat ziek wordt voor de aanvang van een aangevraagde en toegestane vakantie, of tijdens de vakantie.
 
 ### ART. 139.
 
@@ -1227,7 +1253,7 @@ Met behoud van de toepassing van de wet betreffende de feestdagen van 4 januari 
 ### ART. 140.
 
 De raad stelt, rekening houdend met het dienstverband, de regels over de volgende aangelegenheden vast in overeenstemming met de regels daarover in de rechtspositieregeling van het gemeentepersoneel :<br>
-1° het bevallingsverlof en het opvangverlof;<br>
+1° het bevallingsverlof, opvangverlof, pleegzorgverlof en pleegouderverlof;<br>
 2° het ziekteverlof;<br>
 3° in voorkomend geval, de disponibiliteit;<br>
 4° het omstandigheidsverlof;<br>
