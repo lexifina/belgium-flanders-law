@@ -2,16 +2,16 @@
   "codex_id": 1035448,
   "title": "Besluit van de Vlaamse Regering van 2021-03-12 houdende maatregelen ten gevolge van de pandemie veroorzaakt door COVID-19 en tot wijziging van de minimale voorwaarden voor de rechtspositieregeling van het personeel van de gemeenten, de openbare centra voor maatschappelijk welzijn en de provincies",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035448/VolledigDocument?datum=2020-10-01",
-  "source_sha256": "95c9ce735c44ff2e3658f91f9f78d2e326c349fbd74bdb3567a03be0adf33247",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035448/VolledigDocument?datum=2021-04-24",
+  "source_sha256": "6412a5dd84acba159ab82c2c55c2284aecfb80071e714430068529f11ab1f73f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035448&param=informatie",
-  "as_of": "2020-10-01",
+  "as_of": "2021-04-24",
   "made": "2021-03-12",
   "gazette": "2021-04-14",
   "numac": 2021030998,
   "document_start": "2021-04-24",
   "document_end": null,
-  "in_force": "2020-10-01",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2020-10-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-04-24",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2021-04-24; future article versions excluded; article text as the API gives it"
 }
