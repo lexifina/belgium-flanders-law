@@ -2,16 +2,16 @@
   "codex_id": 1032306,
   "title": "Besluit van de Vlaamse Regering van 2019-06-28 tot vaststelling van het landinrichtingsplan Openruimteverbindingen Rupelstreek",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032306/VolledigDocument?datum=2019-10-13",
-  "source_sha256": "035b2eeaacc4c5910bc02749fea143c177ea8be6d5c8ab34aef9ee1a6351d6d2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032306/VolledigDocument?datum=2021-04-24",
+  "source_sha256": "b1268e190e6d1b05b689f37fe0640eaf390b2e15f69d3f7323d980e6174be640",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032306&param=informatie",
-  "as_of": "2019-10-13",
+  "as_of": "2021-04-24",
   "made": "2019-06-28",
   "gazette": "2019-10-03",
   "numac": 2019041985,
   "document_start": "2019-10-13",
   "document_end": null,
-  "in_force": "2019-10-13",
+  "in_force": "2021-04-24",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2019-10-13; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-04-24; future article versions excluded; article text as the API gives it"
 }

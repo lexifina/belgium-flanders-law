@@ -181,7 +181,7 @@ De gemeente Niel is belast met de uitvoering van maatregel 2.7.1 van het landinr
 
 ### ART 21.
 
-Regionaal Landschap Rivierenland vzw is belast met de uitvoering van maatregel 2.3.2 van het landinrichtingsplan Openruimteverbindingen Rupelstreek. Die maatregel wordt uitgevoerd op gronden van de gemeente Niel, die beheerd worden door de gemeente Niel.
+...
 
 ### ART 22.
 
@@ -206,4 +206,7 @@ De Vlaamse minister, bevoegd voor de landinrichting en het natuurbehoud, is bela
 
 Landinrichtingsplan Openruimteverbindingen Rupelstreek als vermeld in artikel 1<br>
 <br>
-(niet gepubliceerd in Staatsblad)
+(niet gepubliceerd in Staatsblad)<br>
+<br>
+* Bij BVR van 12 februari 2021, BS 14 april 2021 wordt het hoofdstuk 5. Uitvoeringsprogramma en financieringsplan van het landinrichtingsplan met ingang van 24 april 2021 als volgt gewijzigd:<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/04/14_1.pdf#page=35">Uitvoeringsprogramma en financieringsplan</a>
