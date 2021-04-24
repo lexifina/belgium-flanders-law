@@ -4657,7 +4657,9 @@ De periodes waarin het personeelslid tijdens de referentieperiode als titularis 
 
 ### ART. 137.
 
-De eindejaarstoelage wordt uiterlijk tijdens de maand december van het in aanmerking te nemen jaar in één keer uitbetaald.<br />
+De eindejaarstoelage wordt uiterlijk tijdens de maand december van het in aanmerking te nemen jaar in één keer uitbetaald.<br>
+<br>
+De raad kan beslissen dat de eindejaarstoelage volledig of gedeeltelijk door het personeelslid op vrijwillige basis kan worden ingeruild tegen voordelen ter bevordering van de fietsmobiliteit. Hij bepaalt daarvoor de nadere regels in de rechtspositieregeling.
 
 ## HOOFDSTUK III. De onregelmatige prestaties
 
@@ -4825,7 +4827,15 @@ Het personeelslid heeft recht op maaltijdcheques, die op jaarbasis voor ten mins
 
 ### ART. 160.
 
-§ 1. De besturen sluiten een collectieve hospitalisatieverzekering af voor :<br />1° de statutaire personeelsleden;<br />2° de personeelsleden met een arbeidsovereenkomst van onbepaalde duur.<br /><br />De besturen nemen de premie voor de hospitalisatieverzekering voor de personeelsleden, vermeld in punt 1° en 2°, die voltijds of halftijds werken, volledig ten laste.<br /><br />§ 2. In afwijking van § 1 kan de raad bepalen dat :<br />1° de verzekeringspremie voor de personeelsleden die minder dan halftijds werken, slechts gedeeltelijk ten laste wordt genomen;<br />2° een hospitalisatieverzekering wordt afgesloten voor sommige contractuele personeelsleden met een arbeidsovereenkomst van bepaalde duur.<br />
+§ 1. De besturen sluiten een collectieve hospitalisatieverzekering af voor :<br>
+1° de statutaire personeelsleden;<br>
+2° de personeelsleden met een arbeidsovereenkomst van onbepaalde duur.<br>
+<br>
+De besturen nemen de premie voor de hospitalisatieverzekering voor de personeelsleden, vermeld in punt 1° en 2°, die ten minste halftijds aangesteld zijn of die een arbeidsovereenkomst voor ten minste een halftijdse betrekking hebben gesloten, volledig ten laste.<br>
+<br>
+§ 2. In afwijking van § 1 kan de raad bepalen dat :<br>
+1° de verzekeringspremie maar gedeeltelijk ten laste wordt genomen voor de personeelsleden die minder dan halftijds aangesteld zijn, of die een arbeidsovereenkomst voor minder dan een halftijdse betrekking hebben gesloten;<br>
+2° een hospitalisatieverzekering wordt afgesloten voor sommige contractuele personeelsleden met een arbeidsovereenkomst van bepaalde duur.
 
 ### ART. 161.
 
@@ -4843,7 +4853,11 @@ Bij het gebruik van de trein voor de verplaatsing van en naar het werk wordt het
 
 ### ART. 164.
 
-Een maandelijkse fietsvergoeding wordt toegekend aan het personeelslid dat   de verplaatsing van en naar het werk volledig of gedeeltelijk met de fiets   aflegt.<BR><BR>De raad bepaalt het bedrag dat per kilometer wordt toegekend. Dat   bedrag is minimaal gelijk aan 0,15 euro per kilometer en maximaal gelijk aan het   bedrag dat op grond van de fiscale wetgeving en socialezekerheidswetgeving is   vrijgesteld van belasting en sociale bijdragen.
+Een maandelijkse fietsvergoeding wordt toegekend aan het personeelslid dat de verplaatsing van en naar het werk volledig of gedeeltelijk met de fiets aflegt.<br>
+<br>
+De raad bepaalt het bedrag dat per kilometer wordt toegekend. Dat bedrag is minimaal gelijk aan 0,15 euro per kilometer en maximaal gelijk aan het bedrag dat op grond van de fiscale wetgeving en socialezekerheidswetgeving is vrijgesteld van belasting en sociale bijdragen.<br>
+<br>
+De raad kan bepalen dat het personeelslid het bedrag van de fietsvergoeding, vermeld in het eerste lid, ook op vrijwillige basis kan inruilen tegen voordelen ter bevordering van de fietsmobiliteit. De raad bepaalt daarvoor de nadere regels in de rechtspositieregeling.
 
 ### ART. 165.
 
@@ -4901,7 +4915,13 @@ Voor personeelsleden met een specifieke arbeidsregeling kan de raad, indien nodi
 
 ### ART. 176.
 
-§ 1. Het personeelslid heeft jaarlijks recht op een door de raad te bepalen aantal werkdagen betaalde vakantie. Het aantal dagen vakantie mag voor een volledig arbeidsjaar niet minder bedragen dan dertig werkdagen en niet meer dan vijfendertig werkdagen.<br /><br />De vakantiedagen worden genomen naar keuze van het personeelslid, met inachtneming van de behoeften van de dienst. De raad kan hierover nadere regels uitwerken.<br /><br />§ 2. In afwijking van § 1, tweede lid, kan het personeelslid vier dagen vakantie nemen, zonder dat het dienstbelang kan worden ingeroepen om de vakantie te weigeren.<br />
+§ 1. Het personeelslid heeft jaarlijks recht op een door de raad te bepalen aantal werkdagen betaalde vakantie. Het aantal dagen vakantie mag voor een volledig arbeidsjaar niet minder bedragen dan dertig werkdagen en niet meer dan vijfendertig werkdagen.<br>
+<br>
+De vakantiedagen worden genomen naar keuze van het personeelslid, met inachtneming van de behoeften van de dienst. De raad kan hierover nadere regels uitwerken.<br>
+<br>
+De raad kan beslissen dat vakantiedagen die per kalenderjaar boven het minimum van achtentwintig dagen jaarlijkse vakantie toegekend worden, door het personeelslid op vrijwillige basis kunnen worden ingeruild tegen voordelen ter bevordering van de fietsmobiliteit. Hij bepaalt daarvoor de nadere regels in de rechtspositieregeling.<br>
+<br>
+§ 2. In afwijking van § 1, tweede lid, kan het personeelslid vier dagen vakantie nemen, zonder dat het dienstbelang kan worden ingeroepen om de vakantie te weigeren.
 
 ### ART. 177.
 
@@ -4937,11 +4957,67 @@ Bij verlenging van de postnatale rustperiode in overeenstemming met artikel 39, 
 
 ### ART. 183.
 
-Het statutaire personeelslid krijgt op zijn verzoek opvangverlof als een minderjarig kind in zijn gezin wordt opgenomen met het oog op adoptie of pleegvoogdij.<br /><br />Het opvangverlof bedraagt ten hoogste zes of ten hoogste vier weken naargelang het opgenomen kind de leeftijd van drie jaar nog niet heeft bereikt of al bereikt heeft.<br /><br />De maximumduur van het opvangverlof wordt verdubbeld als het opgenomen kind een handicap heeft.<br /><br />Als slechts een van de samenwonende partners adopteert of de pleegvoogdij uitoefent, kan alleen die persoon het verlof genieten.<br /><br />Tijdens het opvangverlof behoudt het statutaire personeelslid het recht op zijn gebruikelijke salaris.<br /><br />De raad kan bepalen dat :<br />1° de uitoefening van het recht op adoptieverlof een einde neemt op het ogenblik waarop het kind de leeftijd van acht jaar bereikt tijdens de opname van het verlof;<br />2° het adoptieverlof opgenomen moet worden in een aaneengesloten periode.<br /><br />De raad kan bepalen dat de uitoefening van het recht op adoptieverlof een aanvang moet nemen binnen twee maanden die volgen op de inschrijving van het kind als lid van het gezin van de werknemer.<br />
+§ 1. Het statutaire personeelslid krijgt op zijn verzoek opvangverlof als een minderjarig kind in zijn gezin wordt opgenomen met het oog op adoptie of pleegvoogdij.<br>
+<br>
+Het opvangverlof bedraagt zes weken per personeelslid. Dat verlof verhoogt met twee weken voor een adoptieouder of pleegvoogd en, voor beide adoptieouders of pleegvoogden samen:<br>
+1° met drie weken vanaf 1 januari 2023;<br>
+2° met vier weken vanaf 1 januari 2025;<br>
+3° met vijf weken vanaf 1 januari 2027.<br>
+<br>
+De bijkomende weken, vermeld in het tweede lid, worden onderling verdeeld als beide ouders het kind adopteren of pleegvoogd worden.<br>
+<br>
+De maximumduur van het opvangverlof wordt verdubbeld als het opgenomen kind aan een van de volgende voorwaarden voldoet:<br>
+1° het heeft een lichamelijke of geestelijke ongeschiktheid van ten minste 66%;<br>
+2° het heeft een aandoening die tot gevolg heeft dat ten minste vier punten toegekend worden in pijler 1 van de medisch-sociale schaal in de zin van de regelgeving over de kinderbijslag;<br>
+3° het heeft een aandoening die tot gevolg heeft dat ten minste negen punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving over de kinderbijslag.<br>
+<br>
+De maximumduur van het opvangverlof wordt per personeelslid met twee weken verlengd bij de gelijktijdige adoptie of pleegvoogdij van meerdere minderjarige kinderen.<br>
+<br>
+Als maar een van de samenwonende partners het kind adopteert of de pleegvoogdij uitoefent, heeft alleen die persoon recht op het verlof.<br>
+<br>
+§ 2. Tijdens het opvangverlof behoudt het statutaire personeelslid het recht op zijn gebruikelijke salaris.<br>
+<br>
+Het verlof begint binnen twee maanden nadat het kind is ingeschreven als deel uitmakend van het gezin.<br>
+<br>
+In het kader van een interlandelijke adoptie kan het opvangverlof ook de periode bestrijken die voorafgaat aan de daadwerkelijke opvang van het geadopteerde kind in België, als die voorafgaande periode niet meer bedraagt dan vier weken en als ze wordt besteed aan de voorbereiding van de daadwerkelijke opvang van het kind.<br>
+<br>
+De raad kan bepalen dat het opvangverlof opgenomen moet worden in een aaneengesloten periode.
 
 ## [Afdeling III. Pleegzorgverlof (ing. BVR 12 maart 2021, art. 16, I: 24 april 2021)]
 
+### ART 183/1.
+
+Het statutaire personeelslid heeft per kalenderjaar recht op zes dagen pleegzorgverlof.<br>
+<br>
+Het pleegzorgverlof wordt aan het statutaire personeelslid toegekend conform artikel 30quater, § 1, van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, en artikel 2 tot en met 6 van het koninklijk besluit van 27 oktober 2008 betreffende de afwezigheid van het werk met het oog op het verstrekken van pleegzorgen.<br>
+<br>
+Het statutaire personeelslid heeft recht op 82 % van het brutosalaris.
+
 ## [Afdeling IV. Pleegouderverlof (ing. BVR 12 maart 2021, art. 16, I: 24 april 2021)]
+
+### ART 183/2.
+
+§ 1. In deze paragraaf wordt verstaan onder langdurige pleegzorg: de pleegzorg waarvan bij het begin duidelijk is dat het pleegkind voor minstens zes maanden in hetzelfde pleeggezin zal verblijven.<br>
+<br>
+In geval van langdurige pleegzorg heeft het statutaire personeelslid dat pleegzorger is als vermeld in artikel 2, 12°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, een eenmalig recht op pleegouderverlof gedurende een aaneengesloten periode van maximaal zes weken voor de zorg van het pleegkind.<br>
+<br>
+Het pleegouderverlof van zes weken van het statutaire personeelslid verhoogt met twee weken voor een pleegouder en, voor beide pleegouders samen:<br>
+1° met drie weken vanaf 1 januari 2023;<br>
+2° met vier weken vanaf 1 januari 2025;<br>
+3° met vijf weken vanaf 1 januari 2027.<br>
+<br>
+De bijkomende weken, vermeld in het tweede lid, worden onderling verdeeld als het pleeggezin bestaat uit twee personen, die beide zijn aangesteld als pleegouder van het kind.<br>
+<br>
+De maximumduur van het pleegouderverlof wordt verdubbeld als het opgenomen kind voldoet aan een van de volgende voorwaarden:<br>
+1° het kind heeft een lichamelijke of geestelijke ongeschiktheid van ten minste 66%;<br>
+2° het kind heeft een aandoening die tot gevolg heeft dat ten minste vier punten toegekend worden in pijler 1 van de medisch-sociale schaal in de zin van de regelgeving over de kinderbijslag;<br>
+3° het kind heeft een aandoening die tot gevolg heeft dat ten minste negen punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving over de kinderbijslag.<br>
+<br>
+De maximumduur van het pleegouderverlof wordt met twee weken per pleegouder verlengd bij het gelijktijdige onthaal van meerdere minderjarige kinderen naar aanleiding van een plaatsing in het kader van langdurige pleegzorg.<br>
+<br>
+§ 2. Het verlof begint binnen twaalf maanden nadat het kind is ingeschreven als deel uitmakend van het gezin.<br>
+<br>
+Tijdens de eerste drie dagen van het pleegouderverlof heeft het personeelslid recht op een doorbetaling van het salaris. Vanaf de vierde dag heeft een statutair personeelslid recht op 82 % van het brutosalaris.
 
 ## HOOFDSTUK V. Het ziekteverlof
 
