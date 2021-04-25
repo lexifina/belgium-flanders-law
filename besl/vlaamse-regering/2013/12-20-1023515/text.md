@@ -1464,6 +1464,10 @@ In titel II van hetzelfde besluit, het laatst gewijzigd bij het besluit   van de
 
 In titel III van hetzelfde besluit, het laatst gewijzigd bij het decreet van 22 december 2006, worden, wat betreft het Vlaamse Gewest, hoofdstuk II, dat bestaat uit artikel 36 tot en met 38, hoofdstuk IV, dat bestaat uit artikel 51 en 52, en hoofdstuk V, dat bestaat uit artikel 53 tot en met 55, opgeheven.
 
+### ART 4.1.0.0.3/2.
+
+In titel III van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 14 december 2018, wordt, wat betreft het Vlaamse Gewest, hoofdstuk I, dat bestaat uit artikel 35bis, opgeheven.
+
 ### ART. 4.1.0.0.4.
 
 Titel V van hetzelfde besluit, gewijzigd bij het Koninklijk besluit van 14   april 1993 en het besluit van de Vlaamse Regering van 10 december 2010, die   bestaat uit artikel 58 en 58bis, wordt opgeheven.
