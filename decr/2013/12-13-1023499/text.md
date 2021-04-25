@@ -68,14 +68,14 @@ Als het voertuig, aangewezen als lichte vrachtauto in de reglementering, vermeld
 De gewone verblijfplaats van iemand die zijn beroepsmatige bindingen op een andere plaats heeft dan zijn persoonlijke bindingen en daardoor afwisselend verblijft op verschillende plaatsen in twee of meer staten, wordt evenwel geacht zich op dezelfde plaats te bevinden als zijn persoonlijke bindingen, op voorwaarde dat hij op geregelde tijden terugkeert naar die plaats. Die laatste voorwaarde vervalt als de betrokkene in een staat verblijft voor een opdracht van een bepaalde duur. Het feit dat college wordt gelopen of een school wordt bezocht, houdt niet in dat de gewone verblijfplaats wordt verplaatst;<br>
 6° euronorm: de maximumdrempel voor de concentratie van bepaalde vervuilende stoffen in de uitlaatgassen van motorvoertuigen, bepaald in opeenvolgende Europese richtlijnen en verordeningen;<br>
 7° wegvoertuigen: de personenauto's, auto's voor dubbel gebruik en minibussen zoals die voertuigen zijn omschreven in de reglementering van de inschrijving van de motorvoertuigen en de aanhangwagens en zoals ze worden verstaan in de zin van de laatste zin van punt 2°, voor zover die voertuigen voorzien zijn van of voorzien moeten zijn van een andere nummerplaat dan een in het kader van de bedoelde regeling uitgereikte proefrittenplaat, handelaarsplaat, beroepsplaat, nationale plaat of tijdelijke plaat die geen internationale kentekenplaat is;<br>
-8° vennootschap: in afwijking van het eerste lid, 21°, een vennootschap als vermeld in de wet van 7 mei 1999 houdende het Wetboek van Vennootschappen.<br>
+8° vennootschap: in afwijking van het eerste lid, 21°, een vennootschap als vermeld in het Wetboek van vennootschappen en verenigingen.<br>
 <br>
 In titel 2, hoofdstuk 3, wordt verstaan onder :<br>
 1° wegvoertuigen : de personenauto's, auto's voor dubbel gebruik, minibussen en motorfietsen, zoals die voertuigen zijn omschreven in de reglementering van de inschrijving van de motorvoertuigen en de aanhangwagens en zoals ze worden verstaan in de zin van de laatste zin van punt 2° van het vorige lid, voor zover die voertuigen voorzien zijn van of voorzien moeten zijn van een andere nummerplaat dan een in het kader van de bedoelde regeling uitgereikte proefrittenplaat, handelaarsplaat of tijdelijke plaat die geen internationale kentekenplaat is;<br>
 2° luchtvaartuigen : de vliegtuigen, watervliegtuigen, helikopters, zweefvliegtuigen, luchtballons of bestuurbare luchtschepen en andere luchtvaartuigen, zwaarder of lichter dan lucht, met of zonder motor, als ze ingeschreven zijn of moeten zijn;<br>
 3° boten : de jachten en pleziervaartuigen die langer zijn dan 7,5 meter, als daarvoor een vlaggenbrief afgeleverd is of afgeleverd moet zijn;<br>
 4° euronorm: de maximumdrempel voor de concentratie van bepaalde vervuilende stoffen in de uitlaatgassen van motorvoertuigen, bepaald in opeenvolgende Europese richtlijnen en verordeningen;<br>
-5° vennootschap: in afwijking van het eerste lid, 21°, een vennootschap als vermeld in de wet van 7 mei 1999 houdende het Wetboek van Vennootschappen.<br>
+5° vennootschap: in afwijking van het eerste lid, 21°, een vennootschap als vermeld in het Wetboek van vennootschappen en verenigingen.<br>
 <br>
 In titel 2, hoofdstuk 4, wordt verstaan onder :<br>
 1° EURO-emissieklasse : de klasse gedefinieerd op basis van de emissiegrenswaarden, vermeld in bijlage 0 van richtlijn 1999/62/EG van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen;<br>
@@ -125,11 +125,11 @@ In titel 2, hoofdstuk 8, wordt de schenkbelasting, vermeld in het eerste lid, 19
 4° de schenking van roerende goederen door een niet-rijksinwoner natuurlijke persoon of een rechtspersoon aan een niet-rijksinwoner natuurlijke persoon of een rechtspersoon als de schenking ter registratie wordt aangeboden in het Vlaamse Gewest.<br>
 <br>
 In titel 2, hoofdstuk 9, wordt in afwijking van het eerste lid verstaan onder :<br>
-1° gehandicapt kind : een kind met een specifieke ondersteuningsbehoefte als vermeld in artikel 3, § 1, 39°, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid;<br>
+1° ...;<br>
 2° aanhorigheid : elk gebouwd of ongebouwd onroerend goed dat volgens de aard, de ligging, de oppervlakte en de waarde ervan een normale bijhorigheid vormt, al naargelang het geval, hetzij van het huis of de verdieping of het gedeelte van verdieping, hetzij van een op te richten woning;<br>
-3° kinderen ten laste : de kinderen die deel uitmaken van het feitelijke gezin van de verkrijger op de datum van de akte van verkrijging en die, gedurende het kalenderjaar dat aan die datum voorafgaat, persoonlijk geen bestaansmiddelen hebben genoten waarvan het nettobedrag hoger is dan de nettobedragen, vermeld in artikel 136 en artikel 141 van het federale WIB 92;<br>
-4° kadastraal inkomen : het inkomen, vastgesteld overeenkomstig titel IX van het federale WIB 92;<br>
-5° ...;<br>
+3° ...;<br>
+4° ...;<br>
+5° onbebouwd landgoed: het onroerend goed dat bestaat uit een of meer gronden die voor het landbouwbedrijf gebruikt worden of bestemd zijn, met uitsluiting van gebouwen en de grond waarop deze gebouwen zich bevinden;<br>
 6° woning : het huis of het geheel of het gedeelte van een verdieping van een gebouw dat hetzij dadelijk, hetzij na normale herstellings- of onderhoudswerken hoofdzakelijk dient of zal dienen tot huisvesting van één gezin of een persoon, met in voorkomend geval de aanhorigheden die tegelijk met het huis, het geheel of het gedeelte van een verdieping worden verkregen;<br>
 7° bouwgrond : een perceel grond dat stedenbouwkundig bestemd is tot woningbouw of een onroerend goed dat ermee wordt gelijkgesteld. Het geheel of het gedeelte van een gebouw dat, pas na de uitvoering van andere werken dan normale herstellings- of onderhoudswerken, kan dienen tot huisvesting van een gezin of een persoon, met in voorkomend geval de aanhorigheden die tegelijk met het gebouw worden verkregen, wordt met een bouwgrond gelijkgesteld;<br>
 8° kernsteden: de gemeenten Aalst, Antwerpen, Boom, Brugge, Dendermonde, Genk, Gent, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas, Turnhout en Vilvoorde;<br>
@@ -190,11 +190,11 @@ Voor de vaststelling van de belastbare grondslag wordt geen rekening   gehouden 
 6° ...;<br>
 7° de eigendommen die toebehoren aan rechtspersonen, erkend overeenkomstig artikel 7, tweede lid, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap en die gebruikt worden voor wooninfrastructuur voor personen met een handicap, vermeld in artikel 2, 2°, van hetzelfde decreet, die een duidelijk vastgestelde behoefte aan zorg en ondersteuning hebben. De Vlaamse Regering bepaalt de wijze waarop de behoefte aan zorg en ondersteuning wordt vastgesteld.<br>
 <br>
-Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijkaardige onroerende goederen van gelijkaardige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een staat van de Europese Economische Ruimte, en die bovendien hun statutaire zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.<br>
+Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijkaardige onroerende goederen van gelijkaardige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een staat van de Europese Economische Ruimte, en die bovendien hun&nbsp;zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.<br>
 <br>
 Het verlaagde tarief, vermeld in het eerste lid, 7°, wordt toegekend vanaf het aanslagjaar waarin uiterlijk op 31 maart aan de bevoegde entiteit van de Vlaamse administratie gemeld wordt dat een rechtspersoon erkend is overeenkomstig artikel 7, tweede lid, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap. De toekenning geldt tot het einde van de erkenning. Elke beëindiging van een erkenning moet uiterlijk op 31 maart van het jaar dat volgt op de beëindiging aan de bevoegde entiteit van de Vlaamse administratie gemeld worden.<br>
 <br>
-§ 2/1. In afwijking van paragraaf 1 bedraagt het tarief 2,4 % voor de eigendommen die door een erkend sociaal verhuurkantoor worden gehuurd met toepassing van en conform de voorwaarden, vermeld in artikel 2 en 3 van het besluit van de Vlaamse Regering van 20 juli 2012 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren.<br>
+§ 2/1. In afwijking van paragraaf 1 bedraagt het tarief 2,4 % voor de eigendommen die door een erkend sociaal verhuurkantoor worden gehuurd met toepassing van en conform de voorwaarden, vermeld in artikel 4.55, tweede en derde lid, van de Vlaamse Codex Wonen van 2021 en in artikel 4.168 van het Besluit Vlaamse Codex Wonen van 2021.<br>
 <br>
 Het verlaagde tarief, vermeld in het eerste lid, wordt toegekend vanaf het aanslagjaar waarin uiterlijk op 31 maart aan de bevoegde entiteit van de Vlaamse administratie gemeld wordt dat de eigendom op 1 januari van het aanslagjaar gehuurd wordt door een erkend sociaal verhuurkantoor. De toekenning geldt tot het einde van de huurovereenkomst. Elke vroegtijdige beëindiging van de huurovereenkomst wordt uiterlijk op 31 maart van het jaar dat volgt op de beëindiging aan de bevoegde entiteit van de Vlaamse administratie gemeld.<br>
 <br>
@@ -426,7 +426,7 @@ Het belastingkrediet, vermeld in het eerste lid, komt volledig ten laste van het
 5° de nieuwe onroerende goederen, vermeld in artikel 471, § 3, van het federale WIB 92, die overeenkomstig artikel 472, § 2, van het federale WIB 92 na 1 januari 1998 en voor 1 januari 2008 aanleiding hebben gegeven tot een verhoogd kadastraal inkomen in vergelijking met het kadastraal inkomen per 1 januari 1998;<br>
 6° de nieuwe onroerende goederen, vermeld in artikel 471, § 3, van het federale WIB 92, waarvoor voor de eerste keer, overeenkomstig artikel 472, § 2, van het federale WIB 92, een kadastraal inkomen is vastgesteld na 1 januari 1998 en voor 1 januari 2008;<br>
 7° de onroerende goederen die onder de toepassing van het Bosdecreet van 13 juni 1990 vallen en die erkend zijn voor de productie van bosbouwkundig teeltmateriaal als vermeld in artikel 42 van het voormelde decreet;<br>
-8° de als monument beschermde onroerende goederen of delen ervan die de Vlaamse Regering in erfpacht heeft gegeven of in volle eigendom heeft afgestaan aan een vereniging of stichting die is opgericht overeenkomstig de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen, en waarvan de hoofddoelstelling erin bestaat een of meer beschermde onroerende goederen waarvan ze eigenaar of erfpachter is, in stand te houden, te beheren en te ontsluiten;<br>
+8° de als monument beschermde onroerende goederen of delen ervan die de Vlaamse Regering in erfpacht heeft gegeven of in volle eigendom heeft afgestaan aan een vereniging of stichting die is opgericht overeenkomstig het Wetboek van vennootschappen en verenigingen, en waarvan de hoofddoelstelling erin bestaat een of meer beschermde onroerende goederen waarvan ze eigenaar of erfpachter is, in stand te houden, te beheren en te ontsluiten;<br>
 9° de onroerende goederen, vermeld in artikel 471, § 3, van het federale WIB 92 voor het gedeelte dat overeenstemt met het kadastraal inkomen van de nieuwe onroerende goederen waarvoor overeenkomstig artikel 472, § 2, van het federale WIB 92 een kadastraal inkomen wordt vastgesteld vanaf 1 januari 2014 en voor 1 januari 2020. Die vrijstelling kan cumulatief worden genoten met de vrijstellingen, vermeld in punt 4° tot en met punt 6°;<br>
 10° de onbebouwde onroerende goederen waarvoor een natuurbeheerplan als vermeld in artikel 16ter, § 1, 4°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, is goedgekeurd conform de bepalingen en uitvoeringsbepalingen van het voormelde decreet.</p>
 
@@ -434,7 +434,7 @@ Het belastingkrediet, vermeld in het eerste lid, komt volledig ten laste van het
 
 <p>De vrijstelling, vermeld in het eerste lid, 5°, wordt verleend voor het gedeelte dat het kadastraal inkomen, vastgesteld op 1 januari 1998, overschrijdt.</p>
 
-<p>De vrijstellingen, vermeld in het eerste lid, 1° tot en met 3°, worden ook verleend als het onroerend goed in kwestie het voorwerp uitmaakt van een financiering door middel van financiële leasing of huurkoop met uitgestelde eigendomsoverdracht voor de duur van de overeenkomst. Onder die overeenkomsten worden zowel de leasingovereenkomsten, vermeld in artikel 44, § 3, 2°, b), van het Wetboek van de belasting over de toegevoegde waarde, als de leasingovereenkomsten, vermeld in de uitvoeringsbesluiten van het Wetboek van Vennootschappen, begrepen.</p>
+<p>De vrijstellingen, vermeld in het eerste lid, 1° tot en met 3°, worden ook verleend als het onroerend goed in kwestie het voorwerp uitmaakt van een financiering door middel van financiële leasing of huurkoop met uitgestelde eigendomsoverdracht voor de duur van de overeenkomst. Onder die overeenkomsten worden zowel de leasingovereenkomsten, vermeld in artikel 44, § 3, 2°, b), van het Wetboek van de belasting over de toegevoegde waarde, als de leasingovereenkomsten of vergelijkbare overeenkomsten, vermeld in het koninklijk besluit van 29 april 2019 tot uitvoering van het Wetboek van vennootschappen en verenigingen, begrepen.</p>
 
 <p>In afwijking van het eerste lid, 4° en 9°, wordt de vrijstelling verleend, hetzij voor nieuwe onroerende goederen waarvoor voor de eerste keer een kadastraal inkomen is vastgesteld, hetzij voor het gedeelte dat het kadastraal inkomen, vastgesteld op 1 januari 1998, overschrijdt voor nieuwe onroerende goederen die na 1 januari 1998 aanleiding hebben gegeven tot een verhoogd kadastraal inkomen in vergelijking met het kadastraal inkomen per 1 januari 1998, voor de belastingplichtige die behoort tot een doelgroep waarvoor de Vlaamse Regering, met toepassing van artikel 7.7.1, § 2, van het Energiedecreet van 8 mei 2009, een ontwerp van energiebeleidsovereenkomst heeft voorgelegd aan het Vlaams Parlement, en de belastingplichtige die overeenkomst niet heeft ondertekend of niet naleeft.</p>
 
@@ -1346,6 +1346,7 @@ b) in aanslagjaar 2018 sedert meer dan zesentwintig jaar in het verkeer zijn geb
 c) in aanslagjaar 2019 sedert meer dan zevenentwintig jaar in het verkeer zijn gebracht;<br>
 d) in aanslagjaar 2020 sedert meer dan achtentwintig jaar in het verkeer zijn gebracht;<br>
 e) in aanslagjaar 2021 sedert meer dan negenentwintig jaar in het verkeer zijn gebracht;<br>
+f) in aanslagjaar 2022 sedert meer dan dertig jaar in het verkeer zijn gebracht;<br>
 2° de kampeeraanhangwagens en de aanhangwagens die speciaal zijn ontworpen voor het vervoer van één boot.</p>
 
 <p>Artikel 2.2.6.0.3, eerste lid, artikel 2.2.6.0.4, artikel 3.3.2.0.1 en artikel 3.4.7.0.3 zijn niet van toepassing op de belasting, vermeld in het eerste lid.</p>
@@ -1370,7 +1371,15 @@ Deze paragraaf is niet van toepassing op de voertuigen, vermeld in artikel 2.2.4
 
 ### ART. 2.2.4.0.5.
 
-<P>§ 1. Overeenkomstig artikel 42 van het federale Wetboek van 23 november 1965   van de met inkomstenbelastingen gelijkgestelde belastingen, zijn de provincies,   de agglomeraties en de gemeenten niet gemachtigd tot het heffen van opcentiemen   op de verkeersbelasting of enigerlei belasting op de voertuigen, vermeld in   artikel 2.2.1.0.1, behoudens wat betreft de vaartuigen, de bootjes, de   bromfietsen en de motorfietsen respectievelijk bedoeld in artikel 2.2.6.0.1, §   1, eerste lid, 6° en 10° .<BR></P>  <P>§ 2. In afwijking van paragraaf 1 wordt voor de gemeenten een opdeciem   geheven op de verkeersbelasting die het Vlaamse Gewest op autovoertuigen   heft.<BR></P>  <P>Als de gemeente deel uitmaakt van een agglomeratie van gemeenten, wordt 20 %   van de opbrengst van die opdeciem toegekend aan de agglomeratie van   gemeenten.<BR></P>  <P>§ 3. In afwijking van paragraaf 2 wordt de opdeciem niet toegepast op de   belasting op :<BR>1° voertuigen die uitsluitend gebruikt worden voor bezoldigd   vervoer van personen krachtens een machtiging uitgereikt voor de exploitatie van   autocardiensten, ter uitvoering van de besluitwet van 30 december 1946   betreffende het bezoldigd vervoer van personen over de weg met autobussen en met   autocars;<BR>2° voertuigen waarvoor de belasting verminderd is met toepassing   van artikel 2.2.5.0.2.<BR></P>
+<p>§ 1. Overeenkomstig artikel 42 van het federale Wetboek van 23 november 1965 van de met inkomstenbelastingen gelijkgestelde belastingen, zijn de provincies, de agglomeraties en de gemeenten niet gemachtigd tot het heffen van opcentiemen op de verkeersbelasting of enigerlei belasting op de voertuigen, vermeld in artikel 2.2.1.0.1, behoudens wat betreft de vaartuigen, de bootjes, de bromfietsen en de motorfietsen respectievelijk bedoeld in artikel 2.2.6.0.1, § 1, eerste lid, 6° en 10° .</p>
+
+<p>§ 2. In afwijking van paragraaf 1 wordt voor de gemeenten een opdeciem geheven op de verkeersbelasting die het Vlaamse Gewest op autovoertuigen heft.</p>
+
+<p>Als de gemeente deel uitmaakt van een agglomeratie van gemeenten, wordt 20 % van de opbrengst van die opdeciem toegekend aan de agglomeratie van gemeenten.</p>
+
+<p>§ 3. In afwijking van paragraaf 2 wordt de opdeciem niet toegepast op de belasting op :<br>
+1° voertuigen die uitsluitend gebruikt worden voor bezoldigd vervoer van personen krachtens een machtiging uitgereikt voor de exploitatie van autocardiensten, ter uitvoering van de besluitwet van 30 december 1946 betreffende het bezoldigd vervoer van personen over de weg met autobussen en met autocars;<br>
+2° ...</p>
 
 ### ART. 2.2.4.0.6.
 
@@ -1657,7 +1666,14 @@ Een halfopen roetfilter wordt geacht aanwezig te zijn bij voertuigen als de prem
 
 ### ART. 2.2.4.0.9.
 
-De belasting voor de personenauto's, de auto's voor dubbel gebruik en de   minibussen, vermeld in artikel 2.2.4.0.1, § 2/1, wordt berekend op basis van de   bepalingen van dit hoofdstuk zoals deze van toepassing waren vóór 1 januari   2016, meer bepaald wat betreft de tarieven, vermeld in deze afdeling, de   verminderingen, vermeld in afdeling 5, en de vrijstellingen, vermeld in afdeling   6.<BR><BR>Op straffe van verval wordt aan de volgende voorwaarden voldaan:<BR>1°   het wegvoertuig werd vóór 31 oktober 2015 besteld;<BR>2° het wegvoertuig wordt   na 31 december 2015 voor de eerste keer ingeschreven in het repertorium van het   Directoraat-generaal Mobiliteit en Verkeersveiligheid;<BR>3° een kopie van de   bestelbon wordt aan de bevoegde entiteit van de Vlaamse administratie bezorgd   vóór 15 januari 2016, samen met een formulier, afgeleverd door deze entiteit,   dat wordt ondertekend door de betrokken belastingplichtige, en dat minstens de   volgende gegevens bevat:<BR>a) hetzij het identificatienummer uit het   Rijksregister van de natuurlijke personen, hetzij het ondernemingsnummer dat   bekend is bij de Kruispuntbank van Ondernemingen, hetzij het   identificatienummer, vermeld in artikel 8 van de wet van 15 januari 1990   houdende oprichting en organisatie van een Kruispuntbank van de sociale   zekerheid, van de persoon op wiens naam het voertuig ingeschreven werd of zal   ingeschreven worden in het repertorium van het Directoraat-generaal Mobiliteit   en Verkeersveiligheid;<BR>b) de voornamen, de achternaam en het domicilieadres   van de natuurlijke persoon of de naam, de rechtsvorm en het adres van de   maatschappelijke zetel van de rechtspersoon op wiens naam het voertuig   ingeschreven werd of zal ingeschreven worden in het repertorium van het   Directoraat-generaal Mobiliteit en Verkeersveiligheid.
+De belasting voor de personenauto's, de auto's voor dubbel gebruik en de minibussen, vermeld in artikel 2.2.4.0.1, § 2/1, wordt berekend op basis van de bepalingen van dit hoofdstuk zoals deze van toepassing waren vóór 1 januari 2016, meer bepaald wat betreft de tarieven, vermeld in deze afdeling, de verminderingen, vermeld in afdeling 5, en de vrijstellingen, vermeld in afdeling 6.<br>
+<br>
+Op straffe van verval wordt aan de volgende voorwaarden voldaan:<br>
+1° het wegvoertuig werd vóór 31 oktober 2015 besteld;<br>
+2° het wegvoertuig wordt na 31 december 2015 voor de eerste keer ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid;<br>
+3° een kopie van de bestelbon wordt aan de bevoegde entiteit van de Vlaamse administratie bezorgd vóór 15 januari 2016, samen met een formulier, afgeleverd door deze entiteit, dat wordt ondertekend door de betrokken belastingplichtige, en dat minstens de volgende gegevens bevat:<br>
+a) hetzij het identificatienummer uit het Rijksregister van de natuurlijke personen, hetzij het ondernemingsnummer dat bekend is bij de Kruispuntbank van Ondernemingen, hetzij het identificatienummer, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid, van de persoon op wiens naam het voertuig ingeschreven werd of zal ingeschreven worden in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid;<br>
+b) de voornamen, de achternaam en het domicilieadres van de natuurlijke persoon of de naam, de rechtsvorm en het adres van de&nbsp; zetel van de rechtspersoon op wiens naam het voertuig ingeschreven werd of zal ingeschreven worden in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid.
 
 ## Afdeling 5 Verminderingen
 
@@ -1671,7 +1687,7 @@ De belasting voor de personenauto's, de auto's voor dubbel gebruik en de   minib
 
 ### ART. 2.2.5.0.3.
 
-<P>De belasting wordt met 10 % verminderd als ze is verschuldigd krachtens een   regelmatige aangifte, ingediend door een belastingplichtige die op 1 januari van   het aanslagjaar, en dit tot minstens 30 juni drie of meer motorvoertuigen   aangeeft die zijn geïnvesteerd in een handels- of nijverheidsbedrijf en die   uitsluitend worden gebruikt voor het bezoldigd vervoer van personen krachtens   een machtiging uitgereikt voor de exploitatie van autocardiensten, ter   uitvoering van de besluitwet van 30 december 1946 betreffende het bezoldigd   vervoer van personen over de weg met autobussen en met autocars.<BR></P>  <P>De vermindering van 10 % is niet van toepassing op de belasting, verminderd   met toepassing van artikel 2.2.5.0.2.<BR></P>
+<p>De belasting wordt met 10 % verminderd als ze is verschuldigd krachtens een regelmatige aangifte, ingediend door een belastingplichtige die op 1 januari van het aanslagjaar, en dit tot minstens 30 juni drie of meer motorvoertuigen aangeeft die zijn geïnvesteerd in een handels- of nijverheidsbedrijf en die uitsluitend worden gebruikt voor het bezoldigd vervoer van personen krachtens een machtiging uitgereikt voor de exploitatie van autocardiensten, ter uitvoering van de besluitwet van 30 december 1946 betreffende het bezoldigd vervoer van personen over de weg met autobussen en met autocars.</p>
 
 ### ART. 2.2.5.0.4.
 
@@ -1755,7 +1771,28 @@ De Vlaamse Regering bepaalt de wijze van de aanvraag van de terugbetaling, verme
 
 ### ART. 2.2.6.0.5.
 
-<P>§ 1. Er wordt een vrijstelling van de belasting verleend voor de   personenauto's, de auto's voor dubbel gebruik, de minibussen, met inbegrip van   de aanhangwagens van die voertuigen, en de motorfietsen die tijdelijk in België   worden ingevoerd door een natuurlijke persoon die zijn gewone verblijfplaats in   een andere staat van de Europese Economische Ruimte heeft, en die op het   Belgische grondgebied voor persoonlijk of voor beroepsmatig gebruik van de   invoerder worden aangewend.<BR></P>  <P>De vrijstelling, vermeld in het eerste lid, wordt ook verleend aan de   natuurlijke personen met gewone verblijfplaats in een land dat geen deel   uitmaakt van de Europese Economische Ruimte, als in dat land dezelfde   vrijstelling wordt toegekend aan de Belgische verblijfhouders.<BR></P>  <P>§ 2. De vrijstelling, vermeld in paragraaf 1, wordt verleend voor een al dan   niet ononderbroken duur van niet meer dan zes maanden per tijdvak van twaalf   maanden.<BR></P>  <P>In afwijking van het eerste lid wordt :<BR>1° de duur van de vrijstelling op   zeven maanden vastgesteld per tijdvak van twaalf maanden bij beroepsmatig   gebruik van het voertuig door een tussenpersoon in handel, industrie of   ambacht;<BR>2° de duur van de vrijstelling niet in de tijd beperkt als het   voertuig door de invoerder wordt gebruikt voor de weg die hij in België   regelmatig aflegt om zich uitsluitend van zijn verblijfplaats naar de   arbeidsplaats van de onderneming in België en terug te begeven;<BR>3° de   vrijstelling verleend voor de werkelijke duur van de studies als het voertuig   wordt gebruikt door een student die in België verblijft, met als enig doel er te   studeren.<BR></P>  <P>§ 3. De tijdelijk ingevoerde voertuigen moeten zijn verkregen of moeten zijn   ingevoerd met toepassing van de algemene belastingregeling voor de binnenlandse   markt van een andere staat en mogen niet wegens de uitvoer in aanmerking komen   voor ontheffing of teruggave van omzetbelastingen, accijnzen of andere   verbruiksbelastingen.<BR></P>  <P>De voertuigen, verkregen of ingevoerd in een andere staat, met vrijstelling   van alle belastingen in het kader van de voorrechten, verleend aan de   diplomatieke zendingen en consulaire posten en aan hun leden, aan de   internationale instellingen en aan hun leden, en aan de krijgsmachten van de   staten die toegetreden zijn tot het Noord-Atlantisch Verdrag, andere dan de   Belgische krijgsmacht, en aan hun leden, worden geacht te hebben voldaan aan de   algemene belastingregeling voor de binnenlandse markt van die staat.<BR></P>  <P>§ 4. De tijdelijk ingevoerde voertuigen mogen in België niet worden   overgedragen, noch verhuurd, noch uitgeleend. Bij tijdelijke invoer voor   persoonlijk gebruik, met uitsluiting van het gebruik, vermeld in paragraaf 2,   tweede lid, 2° en 3°, en als ze toebehoren aan een verhuuronderneming met   maatschappelijke zetel in het buitenland, kunnen ze aan een niet-verblijfhouder   worden wederverhuurd met het oog op de wederuitvoer, als ze zich in België   bevinden ingevolge de uitvoering van een huurovereenkomst die hier te lande is   verstreken. De voertuigen mogen ook naar de staat van de plaats van   oorspronkelijke huur worden teruggebracht door een personeelslid van de   verhuuronderneming, zelfs als dat personeelslid zijn gewone verblijfplaats in   België heeft.<BR></P>  <P>§ 5. Als de tijdelijke invoer plaatsvindt voor beroepsmatig gebruik en voor   het gebruik, vermeld in paragraaf 2, tweede lid, 2° en 3°, moet de voorwaarde,   vermeld in paragraaf 3, vervuld zijn in de staat waarin de gebruiker zijn gewone   verblijfplaats heeft. Die voorwaarde wordt geacht te zijn vervuld als de   voertuigen voorzien zijn van een gewone nummerplaat van die staat, met   uitzondering van alle tijdelijke nummerplaten.<BR></P>  <P>Voor voertuigen die ingeschreven zijn in een staat waar de afgifte van   nummerplaten niet verbonden is aan de inachtneming van de algemene   belastingregeling voor de buitenlandse markt, moeten de gebruikers, met alle   door het gemeen recht toegelaten bewijsmiddelen, met uitzondering van de eed,   bewijzen dat ze de verbruiksbelastingen hebben betaald.<BR></P>  <P>De voertuigen die voor dezelfde doeleinden worden ingevoerd, mogen bovendien   niet worden gebruikt voor vervoer van personen tegen betaling of ander materieel   voordeel, of voor om het even welk vervoer van goederen, al dan niet tegen   betaling.<BR></P>
+<p>§ 1. Er wordt een vrijstelling van de belasting verleend voor de personenauto's, de auto's voor dubbel gebruik, de minibussen, met inbegrip van de aanhangwagens van die voertuigen, en de motorfietsen die tijdelijk in België worden ingevoerd door een natuurlijke persoon die zijn gewone verblijfplaats in een andere staat van de Europese Economische Ruimte heeft, en die op het Belgische grondgebied voor persoonlijk of voor beroepsmatig gebruik van de invoerder worden aangewend.</p>
+
+<p>De vrijstelling, vermeld in het eerste lid, wordt ook verleend aan de natuurlijke personen met gewone verblijfplaats in een land dat geen deel uitmaakt van de Europese Economische Ruimte, als in dat land dezelfde vrijstelling wordt toegekend aan de Belgische verblijfhouders.</p>
+
+<p>§ 2. De vrijstelling, vermeld in paragraaf 1, wordt verleend voor een al dan niet ononderbroken duur van niet meer dan zes maanden per tijdvak van twaalf maanden.</p>
+
+<p>In afwijking van het eerste lid wordt :<br>
+1° de duur van de vrijstelling op zeven maanden vastgesteld per tijdvak van twaalf maanden bij beroepsmatig gebruik van het voertuig door een tussenpersoon in handel, industrie of ambacht;<br>
+2° de duur van de vrijstelling niet in de tijd beperkt als het voertuig door de invoerder wordt gebruikt voor de weg die hij in België regelmatig aflegt om zich uitsluitend van zijn verblijfplaats naar de arbeidsplaats van de onderneming in België en terug te begeven;<br>
+3° de vrijstelling verleend voor de werkelijke duur van de studies als het voertuig wordt gebruikt door een student die in België verblijft, met als enig doel er te studeren.</p>
+
+<p>§ 3. De tijdelijk ingevoerde voertuigen moeten zijn verkregen of moeten zijn ingevoerd met toepassing van de algemene belastingregeling voor de binnenlandse markt van een andere staat en mogen niet wegens de uitvoer in aanmerking komen voor ontheffing of teruggave van omzetbelastingen, accijnzen of andere verbruiksbelastingen.</p>
+
+<p>De voertuigen, verkregen of ingevoerd in een andere staat, met vrijstelling van alle belastingen in het kader van de voorrechten, verleend aan de diplomatieke zendingen en consulaire posten en aan hun leden, aan de internationale instellingen en aan hun leden, en aan de krijgsmachten van de staten die toegetreden zijn tot het Noord-Atlantisch Verdrag, andere dan de Belgische krijgsmacht, en aan hun leden, worden geacht te hebben voldaan aan de algemene belastingregeling voor de binnenlandse markt van die staat.</p>
+
+<p>§ 4. De tijdelijk ingevoerde voertuigen mogen in België niet worden overgedragen, noch verhuurd, noch uitgeleend. Bij tijdelijke invoer voor persoonlijk gebruik, met uitsluiting van het gebruik, vermeld in paragraaf 2, tweede lid, 2° en 3°, en als ze toebehoren aan een verhuuronderneming met zetel in het buitenland, kunnen ze aan een niet-verblijfhouder worden wederverhuurd met het oog op de wederuitvoer, als ze zich in België bevinden ingevolge de uitvoering van een huurovereenkomst die hier te lande is verstreken. De voertuigen mogen ook naar de staat van de plaats van oorspronkelijke huur worden teruggebracht door een personeelslid van de verhuuronderneming, zelfs als dat personeelslid zijn gewone verblijfplaats in België heeft.</p>
+
+<p>§ 5. Als de tijdelijke invoer plaatsvindt voor beroepsmatig gebruik en voor het gebruik, vermeld in paragraaf 2, tweede lid, 2° en 3°, moet de voorwaarde, vermeld in paragraaf 3, vervuld zijn in de staat waarin de gebruiker zijn gewone verblijfplaats heeft. Die voorwaarde wordt geacht te zijn vervuld als de voertuigen voorzien zijn van een gewone nummerplaat van die staat, met uitzondering van alle tijdelijke nummerplaten.</p>
+
+<p>Voor voertuigen die ingeschreven zijn in een staat waar de afgifte van nummerplaten niet verbonden is aan de inachtneming van de algemene belastingregeling voor de buitenlandse markt, moeten de gebruikers, met alle door het gemeen recht toegelaten bewijsmiddelen, met uitzondering van de eed, bewijzen dat ze de verbruiksbelastingen hebben betaald.</p>
+
+<p>De voertuigen die voor dezelfde doeleinden worden ingevoerd, mogen bovendien niet worden gebruikt voor vervoer van personen tegen betaling of ander materieel voordeel, of voor om het even welk vervoer van goederen, al dan niet tegen betaling.</p>
 
 ### ART. 2.2.6.0.6.
 
@@ -2149,7 +2186,8 @@ De belasting bedraagt nooit minder dan 41,99 euro en nooit meer dan 10.497,70 eu
 2° in aanslagjaar 2018 sedert meer dan zesentwintig jaar in het verkeer zijn gebracht;<br>
 3° in aanslagjaar 2019 sedert meer dan zevenentwintig jaar in het verkeer zijn gebracht;<br>
 4° in aanslagjaar 2020 sedert meer dan achtentwintig jaar in het verkeer zijn gebracht;<br>
-5° in aanslagjaar 2021 sedert meer dan negenentwintig jaar in het verkeer zijn gebracht.
+5° in aanslagjaar 2021 sedert meer dan negenentwintig jaar in het verkeer zijn gebracht;<br>
+6° in aanslagjaar 2022 sedert meer dan dertig jaar in het verkeer zijn gebracht.
 
 ### ART. 2.3.4.1.4.
 
@@ -2462,25 +2500,11 @@ Als het vermogen van eenzelfde motor, uitgedrukt in fiscale paardenkracht (pk) e
 
 <p>§ 2. Voor de wegvoertuigen waarvan de motor, ook al is het maar gedeeltelijk of tijdelijk, aangedreven wordt met vloeibaar petroleumgas of andere vloeibare koolwaterstofgassen, wordt de belasting, berekend conform paragraaf 1, 1°, verminderd met 298 euro, in voorkomend geval beperkt tot het bedrag van de belasting.</p>
 
-<p>Als de verbrandingsmotor van een wegvoertuig wordt aangedreven door verschillende brandstofsoorten en het voertuig daardoor in aanmerking komt voor een combinatie van de vermindering voor benzine en lpg, wordt de toe te kennen vermindering beperkt tot het hoogste bedrag dat voor dat aanslagjaar voor een bepaalde soort van brandstof van toepassing is.</p>
-
-<p>De wegvoertuigen waaraan het Europese homologatieattest 98/69B of 1999/102B of 1999/96B is toegekend, worden geacht te beantwoorden aan de emissienorm "euro 4".</p>
-
-<p>§ 3. De belasting, berekend conform paragraaf 1, 1°, en paragraaf 2, wordt verminderd tot het percentage van de belasting voor de wegvoertuigen, vermeld in de volgende tabel, naargelang de voertuigen al ingeschreven zijn geweest in het binnenland of in het buitenland voor ze definitief ingevoerd werden :</p>
+<p>Als de verbrandingsmotor van een wegvoertuig wordt aangedreven door verschillende brandstofsoorten en het voertuig daardoor in aanmerking komt voor een combinatie van de vermindering voor benzine en lpg, wordt de toe te kennen vermindering beperkt tot het hoogste bedrag dat voor dat aanslagjaar voor een bepaalde soort van brandstof van toepassing is.<br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+§ 3. De belasting, berekend conform paragraaf 1, 1°, en paragraaf 2, wordt verminderd tot het percentage van de belasting voor de wegvoertuigen, vermeld in de volgende tabel, naargelang de voertuigen al ingeschreven zijn geweest in het binnenland of in het buitenland voor ze definitief ingevoerd werden :</p>
 &nbsp;
+
 <table border="1">
 	<tbody>
 		<tr>
@@ -2973,7 +2997,21 @@ Voorbehouden voor toekomstig gebruik.<BR>
 
 ### ART. 2.4.6.0.1.
 
-<P>§ 1. Er wordt in een vrijstelling van de heffing voorzien voor de voertuigen   die :<BR>1° in het Waalse Gewest of het Brusselse Hoofdstedelijke Gewest   overeenkomstig de aldaar geldende bepalingen zijn vrijgesteld van de   heffing;<BR>2° uitsluitend gebruikt worden voor en door defensie, bescherming   burgerbevolking, brandweer en politie en als zodanig uiterlijk herkenbaar   zijn;<BR>3° speciaal en uitsluitend voor medische doeleinden zijn uitgerust en   als zodanig uiterlijk herkenbaar zijn;<BR>4° de aard hebben van een landbouw-,   tuinbouw- of bosbouwvoertuig, die slechts in beperkte mate worden gebruikt op de   openbare weg in België en die uitsluitend worden gebruikt voor landbouw,   tuinbouw, visteelt en bosbouwwerkzaamheden.<BR><BR>§ 2. De vrijstellingen,   vermeld in paragraaf 1, 2° tot en met 4°, kunnen alleen worden toegekend als ze   worden aangevraagd voor het begin van het belastbare tijdperk en zullen pas   uitwerking hebben vanaf het belastbare tijdperk dat volgt op de toekenning van   de vrijstelling.<BR><BR>§ 3. Als het adres, vermeld in de persoonsgegevens van   de houder van het voertuig op het kentekenbewijs van het voertuig, zoals   vastgesteld krachtens de wetgeving betreffende de inschrijving van voertuigen,   gelegen is op het grondgebied van het Vlaamse Gewest, vraagt de houder van een   voertuig als vermeld in paragraaf 1, 2° tot en met 4°, de betreffende   vrijstelling aan bij de bevoegde entiteit van de Vlaamse   administratie.<BR><BR>Als het voertuig niet beschikt over een kentekenbewijs als   vermeld in het eerste lid, vraagt de houder van een voertuig als vermeld in   paragraaf 1, 2° tot en met 4°, van wie het domicilie of de maatschappelijke   zetel gelegen is op het grondgebied van het Vlaamse Gewest, de betreffende   vrijstelling aan bij de bevoegde entiteit van de Vlaamse   administratie.<BR><BR>De houder van een voertuig als vermeld in paragraaf 1, 2°   tot en met 4°, dat niet in België moet zijn ingeschreven, dient de betreffende   vrijstelling aan te vragen bij Viapass.<BR><BR>§ 4. De vrijstellingen vermeld in   paragraaf 1 blijven gelden tot niet langer aan de voorwaarden van dit artikel is   voldaan.<BR><BR>§ 5. De bevoegde entiteit van de Vlaamse administratie maakt   onmiddellijk aan Viapass de voertuigen kenbaar die van een vrijstelling genieten   ingevolge dit artikel.</P>
+<p>§ 1. Er wordt in een vrijstelling van de heffing voorzien voor de voertuigen die :<br>
+1° in het Waalse Gewest of het Brusselse Hoofdstedelijke Gewest overeenkomstig de aldaar geldende bepalingen zijn vrijgesteld van de heffing;<br>
+2° uitsluitend gebruikt worden voor en door defensie, bescherming burgerbevolking, brandweer en politie en als zodanig uiterlijk herkenbaar zijn;<br>
+3° speciaal en uitsluitend voor medische doeleinden zijn uitgerust en als zodanig uiterlijk herkenbaar zijn;<br>
+4° de aard hebben van een landbouw-, tuinbouw- of bosbouwvoertuig, die slechts in beperkte mate worden gebruikt op de openbare weg in België en die uitsluitend worden gebruikt voor landbouw, tuinbouw, visteelt en bosbouwwerkzaamheden.<br>
+<br>
+§ 2. De vrijstellingen, vermeld in paragraaf 1, 2° tot en met 4°, kunnen alleen worden toegekend als ze worden aangevraagd voor het begin van het belastbare tijdperk en zullen pas uitwerking hebben vanaf het belastbare tijdperk dat volgt op de toekenning van de vrijstelling.<br>
+<br>
+§ 3. De houder van een voertuig als vermeld in paragraaf 1, 2° tot en met 4°, van wie het domicilie of de zetel op het grondgebied van het Vlaamse Gewest ligt, vraagt de vrijstelling, vermeld in paragraaf 1, 2° tot en met 4°, aan bij de bevoegde entiteit van de Vlaamse administratie.<br>
+<br>
+De houder van een voertuig als vermeld in paragraaf 1, 2° tot en met 4°, dat niet in België moet zijn ingeschreven, dient de betreffende vrijstelling aan te vragen bij Viapass.<br>
+<br>
+§ 4. De vrijstellingen vermeld in paragraaf 1 blijven gelden tot niet langer aan de voorwaarden van dit artikel is voldaan.<br>
+<br>
+§ 5. De bevoegde entiteit van de Vlaamse administratie maakt onmiddellijk aan Viapass de voertuigen kenbaar die van een vrijstelling genieten ingevolge dit artikel.</p>
 
 ## Afdeling 7 Wijze van heffing
 
@@ -3018,7 +3056,7 @@ Voor de toepassing van het eerste lid geldt, behalve in geval van sloop, het ver
 
 De heffing wordt vastgesteld op een basisbedrag van 1100 euro.<br>
 <br>
-Het basisbedrag, vermeld in het eerste lid, wordt jaarlijks aangepast op 1 januari op grond van de schommelingen van het algemeen indexcijfer van de consumptieprijzen van het Rijk, vastgesteld tussen de maand november van het vorige jaar en de maand november van het lopende jaar.<br>
+Het basisbedrag, vermeld in het eerste lid, wordt met ingang van 1 januari 2022 jaarlijks aangepast op 1 januari op grond van de schommelingen van het algemene indexcijfer van de consumptieprijzen van het Rijk, vastgesteld tussen de maand november van het jaar voorafgaand aan het vorige jaar en de maand november van het vorige jaar.<br>
 <br>
 Het aangepast basisbedrag, vermeld in het tweede lid, wordt afgerond op de lagere vijftig euro.
 
@@ -3237,7 +3275,7 @@ Overeenkomstig artikel 3, 4°, van de bijzondere wet van 16 januari 1989   betre
 
 De erfbelasting is verschuldigd ongeacht of de verkrijging gebeurt ingevolge wettelijke devolutie, uiterste wilsbeschikking of contractuele erfstelling.<br>
 <br>
-Naast het geval, vermeld in het eerste lid, is de erfbelasting ook verschuldigd op een verkrijging van vruchtgebruik met toepassing van artikel 858bis van het Burgerlijk Wetboek, tenzij de langstlevende echtgenoot of wettelijk samenwonende aan het vruchtgebruik heeft verzaakt conform paragraaf&nbsp;6 van het voormelde artikel.
+Naast het geval, vermeld in het eerste lid, is de erfbelasting ook verschuldigd op een verkrijging van vruchtgebruik met toepassing van artikel 858bis van het Burgerlijk Wetboek, tenzij de langstlevende echtgenoot of wettelijk samenwonende voor het overlijden van de schenker aan het vruchtgebruik heeft verzaakt conform paragraaf&nbsp;6 van het voormelde artikel.
 
 ### ART. 2.7.1.0.3.
 
@@ -3603,12 +3641,12 @@ In afwijking van artikel 2.7.4.1.1 bedraagt het tarief van de erfbelasting 8,5 %
 5° de provincies en gemeenten in het Vlaamse Gewest;<br>
 6° de openbare instellingen van de publiekrechtelijke rechtspersonen, vermeld in punt 1° tot en met 5° ;<br>
 7° erkende sociale huisvestingsmaatschappijen als vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
-8° de coöperatieve vennootschap Vlaams Woningfonds van de grote gezinnen;<br>
+8° het Vlaams Woningfonds;<br>
 9° dienstverlenende en opdrachthoudende verenigingen als vermeld in artikel 12, § 2, 2° en 3°, van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br>
 10° verenigingen zonder winstoogmerk, ziekenfondsen en landsbonden van ziekenfondsen, beroepsverenigingen, internationale verenigingen zonder winstoogmerk, private stichtingen en stichtingen van openbaar nut;<br>
 11° openbare centra voor maatschappelijk welzijn.<br>
 <br>
-Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijksoortige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een andere staat van de Europese Economische Ruimte, en die bovendien hun statutaire zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.
+Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijksoortige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een andere staat van de Europese Economische Ruimte, en die bovendien hun zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.
 
 ### ART. 2.7.4.2.2.
 
@@ -3625,7 +3663,7 @@ Voor de toepassing van het tweede lid komen de aandelen die toebehoren aan recht
 § 2. Voor de toepassing van dit artikel, artikel 2.7.4.2.3 en artikel 2.7.4.2.4 wordt verstaan onder :<br>
 1° familiale onderneming : een nijverheids-, handels-, ambachts- of landbouwbedrijf of een vrij beroep dat door de erflater of zijn partner, al dan niet samen met anderen, persoonlijk wordt geëxploiteerd en uitgeoefend;<br>
 2° familiale vennootschap : een vennootschap die de uitoefening van een nijverheids-, handels-, ambachts- of landbouwactiviteit, of van een vrij beroep tot&nbsp;voorwerp heeft en uitoefent.<br>
-Als de vennootschap aan het voorgaande niet beantwoordt, maar minstens 30 % van de aandelen houdt van minstens één directe dochtervennootschap die aan die voorwaarde beantwoordt en die haar zetel van werkelijke leiding heeft in een van de staten van de Europese Economische Ruimte, wordt ze ook beschouwd als een familiale vennootschap.<br>
+Als de vennootschap aan het voorgaande niet beantwoordt, maar&nbsp;aandelen houdt die minstens 30% van de stemrechten van één directe dochtervennootschap vertegenwoordigen die aan die voorwaarde beantwoordt en die haar zetel van werkelijke leiding heeft in een van de staten van de Europese Economische Ruimte, wordt ze ook beschouwd als een familiale vennootschap.<br>
 Vennootschappen die geen reële economische activiteit hebben, worden uitgesloten van het verlaagde tarief, vermeld in paragraaf 1. Een vennootschap wordt geacht geen reële economische activiteit te hebben als uit de balansposten van ofwel de goedgekeurde jaarrekening in geval van een vennootschap als vermeld in paragraaf 2, 2°, eerste lid, ofwel de goedgekeurde geconsolideerde jaarrekening in geval van een vennootschap als vermeld in paragraaf 2, 2°, tweede lid, van minstens een van de drie boekjaren voorafgaand aan de datum van overlijden van de erflater cumulatief blijkt :<br>
 a) dat de bezoldigingen, sociale lasten en pensioenen een percentage gelijk of lager dan 1,50 % uitmaken van de totale activa;<br>
 b) de terreinen en gebouwen meer dan 50 % uitmaken van het totale actief. De verkrijger kan het tegenbewijs daarvan leveren.<br>
@@ -3634,7 +3672,9 @@ a) bezoldigingen, sociale lasten en pensioenen : de waarde, opgenomen onder de g
 b) terreinen en gebouwen : de waarde, opgenomen onder de gelijknamige balanspost van de jaarrekening of van de geconsolideerde jaarrekening, of onder een soortgelijke post van de jaarrekening of van de geconsolideerde jaarrekening. Als een vennootschap geen jaarrekening volgens het standaardmodel naar Belgisch recht hoeft neer te leggen, wordt een soortgelijke post bedoeld die opgenomen is onder de post materiële vaste activa;<br>
 c) totaal actief : de waarde, opgenomen onder de balanspost totaal van de activa van de jaarrekening of onder een soortgelijke post van de jaarrekening of van de geconsolideerde jaarrekening;<br>
 3° aandelen :<br>
-a) elk deelbewijs met stemrecht dat een deel van het maatschappelijk kapitaal vertegenwoordigt;<br>
+a) naargelang het geval:<br>
+1) als de familiale vennootschap een naamloze vennootschap, een Europese vennootschap of een Europese coöperatieve vennootschap is, dan wel een vennootschap met een andere rechtsvorm waarvoor het Belgische of buitenlandse recht dat haar beheerst, voorziet in een vergelijkbaar begrip: elk deelbewijs met stemrecht dat een deel van het kapitaal vertegenwoordigt;<br>
+2) als de familiale vennootschap een vennootschapsvorm heeft waarvoor het Belgische of buitenlandse recht dat de vennootschap beheerst, niet voorziet in het begrip kapitaal of een vergelijkbaar begrip: elk deelbewijs met stemrecht dat is uitgereikt als tegenprestatie voor een inbreng of naar aanleiding van de incorporatie van onbeschikbare reserves;<br>
 b) de certificaten van aandelen, uitgereikt door rechtspersonen met een zetel in een van de staten van de Europese Economische Ruimte, ter vertegen-woordiging van aandelen van familiale vennootschappen die aan de gestelde voorwaarden voldoen en waarvan de rechtspersoon de verplichting heeft om de dividenden en andere vermogensvoordelen onmiddellijk en uiterlijk binnen een maand door te storten aan de certificaathouder;<br>
 4° familie van de erflater of de aandeelhouder als vermeld in paragraaf 1, eerste lid, 2° :<br>
 a) de partner van de erflater of aandeelhouder, waarbij het begrip partner voor de aandeelhouder op een gelijkaardige wijze moet worden geïnterpreteerd als dat het geval is voor de erflater;<br>
@@ -3652,8 +3692,8 @@ d) de kinderen van broers en zussen van de erflater of aandeelhouder.<br>
 <br>
 § 2. Het verlaagde tarief, vermeld in artikel 2.7.4.2.2, § 1, eerste lid, 2°, wordt alleen behouden als de volgende voorwaarden cumulatief zijn vervuld :<br>
 1° de familiale vennootschap blijft gedurende drie jaar vanaf de datum van het overlijden van de erflater voldoen aan de voorwaarden, vermeld in artikel 2.7.4.2.2, § 2, 2° ;<br>
-2° een activiteit van de familiale vennootschap wordt zonder onderbreking voortgezet gedurende drie jaar vanaf de datum van het overlijden van de erflater en voor elk van de drie jaar wordt een jaarrekening of geconsolideerde jaarrekening opgemaakt en in voorkomend geval gepubliceerd overeenkomstig de vigerende boekhoudwetgeving van de lidstaat waar de maatschappelijke zetel gevestigd is op het ogenblik van het overlijden, die ook aangewend is ter verantwoording van de aangifte in de inkomstenbelasting.<br>
-Ondernemingen of vennootschappen waarvan de maatschappelijke zetel buiten het Vlaamse Gewest, maar binnen België ligt, moeten een jaarrekening of geconsolideerde jaarrekening opmaken en in voorkomend geval publiceren overeenkomstig de vigerende boekhoudwetgeving in België op het ogenblik van het overlijden;<br>
+2° een activiteit van de familiale vennootschap wordt zonder onderbreking voortgezet gedurende drie jaar vanaf de datum van het overlijden van de erflater en voor elk van de drie jaar wordt een jaarrekening of geconsolideerde jaarrekening opgemaakt en in voorkomend geval gepubliceerd overeenkomstig de vigerende boekhoudwetgeving van de lidstaat waar de zetel gevestigd is op het ogenblik van het overlijden, die ook aangewend is ter verantwoording van de aangifte in de inkomstenbelasting.<br>
+Ondernemingen of vennootschappen waarvan de zetel buiten het Vlaamse Gewest, maar binnen België ligt, moeten een jaarrekening of geconsolideerde jaarrekening opmaken en in voorkomend geval publiceren overeenkomstig de vigerende boekhoudwetgeving in België op het ogenblik van het overlijden;<br>
 3° naargelang het geval:<br>
 a) wanneer de familiale vennootschap een naamloze vennootschap, een Europese vennootschap of een Europese coöperatieve vennootschap is, dan wel een vennootschap met een andere rechtsvorm waarvoor het Belgische of buitenlandse recht dat haar beheerst, voorziet in een vergelijkbaar begrip: het kapitaal daalt niet door uitkeringen of terugbetalingen gedurende drie jaar vanaf de datum van het overlijden van de erflater;<br>
 b) wanneer de familiale vennootschap een vennootschapsvorm heeft waarvoor het Belgische of buitenlandse recht dat de vennootschap beheerst, niet voorziet in het begrip kapitaal of een vergelijkbaar begrip: het eigen vermogen daalt niet gedurende drie jaar vanaf de datum van het overlijden van de erflater door uitkeringen of terugbetalingen tot onder het bedrag van de tot op de datum van het overlijden verrichte inbrengen, zoals dat blijkt uit de jaarrekening;<br>
@@ -3701,7 +3741,40 @@ Het verkooprecht en het verdeelrecht dat geheven wordt bij de registratie   van 
 
 ### ART. 2.7.6.0.1.
 
-§ 1. De waarde van de maatschappelijke rechten, vermeld in paragraaf 2,   die door de erflater of door zijn echtgenoot ten minste vijf jaar vóór het   openvallen van de nalatenschap en uiterlijk in het jaar 2005 zijn verworven en   die gedurende de vermelde termijn ingeschreven waren op naam van de erflater of   van zijn echtgenoot, of de waarde van hetgeen verkregen wordt als terugbetaling   van diezelfde maatschappelijke rechten, wordt vrijgesteld van het   successierecht. Als de erflater op het moment van de inschrijving niet heeft   geopteerd voor de kapitalisatie van het inkomen dat periodiek toegekend is aan   het maatschappelijk recht, wordt het bedrag dat voor de vrijstelling in   aanmerking komt, toch berekend alsof voor kapitalisatie gekozen is.<BR><BR>De   vrijstelling, vermeld in het eerste lid, heeft alleen betrekking op de waarde   van de maatschappelijke rechten die op datum van de terugbetaling ervan minstens   drie jaar volgestort zijn. De mogelijkheid tot vrijstelling vervalt in geval van   terugbetaling aan, of vervreemding door de inschrijver van de vermelde   maatschappelijke rechten.<BR><BR>De vrijstelling, vermeld in het eerste lid, is   gelijk aan het kleinste van de volgende bedragen :<BR>1° de beurswaarde van de   maatschappelijke rechten waarvoor een attest als vermeld in paragraaf 4 gevraagd   wordt, verhoogd met het gekapitaliseerde bedrag van de periodieke netto   inkomsten (na belasting) toegewezen aan de rechten die voor de vrijstelling in   aanmerking komen met betrekking tot de periode waarvoor de Vlaamse Regering de   emitterende beleggingsvennootschap met vast kapitaal erkende;<BR>2° het bedrag   van de volstorting van de maatschappelijke rechten waarvoor een attest als   vermeld in paragraaf 4 gevraagd wordt, verhoogd met het gekapitapliseerde bedrag   van de periodieke netto inkomsten (na belasting) toegewezen aan de rechten die   voor de vrijstelling in aanmerking komen met betrekking tot de periode waarvoor   de Vlaamse Regering de emitterende beleggingsvennootschap met vast kapitaal   erkende.<BR><BR>Het gekapitaliseerd bedrag, vermeld in het eerste lid, bevat   enkel de inkomsten toegekend aan de maatschappelijke rechten waarvoor, gelet op   artikel 7 en 8 van het besluit van de Vlaamse Regering van 3 mei 1995 tot   regeling van de vrijstelling inzake successierechten verbonden aan de   maatschappelijke rechten in vennootschappen opgericht in het kader van de   realisatie en/of financiering van investeringsprogramma's van serviceflats,   aangetoond is dat de overledene of zijn echtgenoot er houder van was.<BR><BR>Als   slechts een gedeelte van de beurswaarde of van het bedrag van de volstorting van   de maatschappelijke rechten voor effectieve vrijstelling in aanmerking komt, zal   bovendien het gekapitaliseerd bedrag van de periodieke netto inkomsten slechts   in dezelfde verhouding worden bijgeteld.<BR><BR>Het gekapitaliseerd bedrag is   gelijk aan de effectief uitgekeerde dividenden tijdens de periode, vermeld in   het eerste lid.<BR><BR>§ 2. Onder maatschappelijke rechten wordt verstaan de   maatschappelijke rechten in een vennootschap die door de Vlaamse Regering is   erkend in het kader van de financiering en de realisatie van serviceflatgebouwen   als vermeld in artikel 88, § 5, van het Woonzorgdecreet van 13 maart 2009, of   woningcomplexen met dienstverlening als vermeld in artikel 88, § 1 en § 2, van   het Woonzorgdecreet van 13 maart 2009.<BR><BR>§ 3. Om erkend te worden door de   Vlaamse Regering moet de vennootschap, vermeld in paragraaf 2, minstens voldoen   aan de volgende voorwaarden :<BR>1° haar maatschappelijke zetel gevestigd hebben   in de Europese Economische Ruimte;<BR>2° opgericht zijn na 1 januari 1995;<BR>3°   vanaf het ogenblik van de uitgifte van de maatschappelijke rechten, vermeld in   paragraaf 2, en minstens tot 27 november 2012, uitsluitend de financiering en   realisatie van projecten voor de oprichting van serviceflatgebouwen tot doel   hebben gehad;<BR>4° vanaf 27 november 2012 :<BR>a) voor het Vlaamse Gewest   uitsluitend de financiering en realisatie van projecten voor de oprichting van   serviceflatgebouwen als vermeld in artikel 88, § 5, van het Woonzorgdecreet van   13 maart 2009, of de financiering en realisatie van projecten inzake onroerende   goederen voor voorzieningen in het kader van het Woonzorgdecreet van 13 maart   2009, of de financiering en realisatie van projecten inzake onroerende goederen   voor personen met een handicap tot doel hebben;<BR>b) voor de Europese   Economische Ruimte, uitgezonderd het Vlaamse Gewest, uitsluitend de financiering   en realisatie van soortgelijke projecten inzake onroerende goederen tot doel   hebben;<BR>5° de gelden, die zijn ingezameld ingevolge de uitgifte van de   maatschappelijke rechten, vermeld in paragraaf 2, integraal besteden of besteed   hebben aan projecten binnen de Europese Economische Ruimte.<BR><BR>§ 4. Op   verzoek van de houder van maatschappelijke rechten of van zijn   rechtverkrijgenden, wordt een attest uitgereikt voor het verkrijgen van de   vrijstelling van het successierecht. Dit attest wordt, in de vorm vastgesteld   door de Vlaamse Regering, door de betrokken financiële instelling slechts   uitgereikt voor maatschappelijke rechten waarop, op de datum van het openvallen   van de nalatenschap wegens het overlijden van de houder van de rechten of zijn   echtgenoot, minstens vijf jaar vóór het overlijden van de houder ingeschreven   werd en die reeds drie jaar volgestort werden.<BR><BR>Met inschrijving wordt   gelijkgesteld de verwerving op een andere wijze uiterlijk in het jaar 2005, van   maatschappelijke rechten in een door de Vlaamse Regering erkende   beleggingsvennootschap met vast kapitaal of een gereglementeerde   vastgoedvennootschap als vermeld in artikel 2, 1°, van de wet van 12 mei 2014   betreffende de gereglementeerde vastgoedvennootschappen. Dit houdt tevens in dat   een verwerving na het jaar 2005, met uitzondering van verkrijging onder   echtgenoten en erfgenamen in de eerste graad waarbij geen vrijstelling van de   erfbelasting verworven werd, nooit aanleiding kan geven tot vrijstelling van de   erfbelasting.<BR><BR>Het attest vermeldt de bedragen, vermeld in paragraaf 1,   derde lid, met betrekking tot het geheel van de maatschappelijke rechten die   voor een hele of gedeeltelijke vrijstelling in aanmerking komen.<BR><BR>Bij   uitreiking van een tweede attest wordt bovendien melding gemaakt van het vorige   attest en van de datum waarop het werd afgegeven.<BR><BR>§ 5. Als de erkenning,   vermeld in paragraaf 3, ingetrokken wordt, brengt dat niet het vervallen van de   vrijstellingsmogelijkheid mee ten aanzien van de waarde van de maatschappelijke   rechten waarop ingeschreven is, in de mate dat die volgestort zijn voor de   intrekking van de erkenning. De vrijstelling wordt in dat geval beperkt tot de   waarde, bepaald met toepassing van paragraaf 1, op de datum van de intrekking   van de vrijstelling.
+§ 1. De waarde van de maatschappelijke rechten, vermeld in paragraaf 2, die door de erflater of door zijn echtgenoot ten minste vijf jaar vóór het openvallen van de nalatenschap en uiterlijk in het jaar 2005 zijn verworven en die gedurende de vermelde termijn ingeschreven waren op naam van de erflater of van zijn echtgenoot, of de waarde van hetgeen verkregen wordt als terugbetaling van diezelfde maatschappelijke rechten, wordt vrijgesteld van het successierecht. Als de erflater op het moment van de inschrijving niet heeft geopteerd voor de kapitalisatie van het inkomen dat periodiek toegekend is aan het maatschappelijk recht, wordt het bedrag dat voor de vrijstelling in aanmerking komt, toch berekend alsof voor kapitalisatie gekozen is.<br>
+<br>
+De vrijstelling, vermeld in het eerste lid, heeft alleen betrekking op de waarde van de maatschappelijke rechten die op datum van de terugbetaling ervan minstens drie jaar volgestort zijn. De mogelijkheid tot vrijstelling vervalt in geval van terugbetaling aan, of vervreemding door de inschrijver van de vermelde maatschappelijke rechten.<br>
+<br>
+De vrijstelling, vermeld in het eerste lid, is gelijk aan het kleinste van de volgende bedragen :<br>
+1° de beurswaarde van de maatschappelijke rechten waarvoor een attest als vermeld in paragraaf 4 gevraagd wordt, verhoogd met het gekapitaliseerde bedrag van de periodieke netto inkomsten (na belasting) toegewezen aan de rechten die voor de vrijstelling in aanmerking komen met betrekking tot de periode waarvoor de Vlaamse Regering de emitterende beleggingsvennootschap met vast kapitaal erkende;<br>
+2° het bedrag van de volstorting van de maatschappelijke rechten waarvoor een attest als vermeld in paragraaf 4 gevraagd wordt, verhoogd met het gekapitapliseerde bedrag van de periodieke netto inkomsten (na belasting) toegewezen aan de rechten die voor de vrijstelling in aanmerking komen met betrekking tot de periode waarvoor de Vlaamse Regering de emitterende beleggingsvennootschap met vast kapitaal erkende.<br>
+<br>
+Het gekapitaliseerd bedrag, vermeld in het eerste lid, bevat enkel de inkomsten toegekend aan de maatschappelijke rechten waarvoor, gelet op artikel 7 en 8 van het besluit van de Vlaamse Regering van 3 mei 1995 tot regeling van de vrijstelling inzake successierechten verbonden aan de maatschappelijke rechten in vennootschappen opgericht in het kader van de realisatie en/of financiering van investeringsprogramma's van serviceflats, aangetoond is dat de overledene of zijn echtgenoot er houder van was.<br>
+<br>
+Als slechts een gedeelte van de beurswaarde of van het bedrag van de volstorting van de maatschappelijke rechten voor effectieve vrijstelling in aanmerking komt, zal bovendien het gekapitaliseerd bedrag van de periodieke netto inkomsten slechts in dezelfde verhouding worden bijgeteld.<br>
+<br>
+Het gekapitaliseerd bedrag is gelijk aan de effectief uitgekeerde dividenden tijdens de periode, vermeld in het eerste lid.<br>
+<br>
+§ 2. Onder maatschappelijke rechten wordt verstaan de maatschappelijke rechten in een vennootschap die door de Vlaamse Regering is erkend in het kader van de financiering en de realisatie van serviceflatgebouwen als vermeld in artikel 88, § 5, van het Woonzorgdecreet van 13 maart 2009, of woningcomplexen met dienstverlening als vermeld in artikel 88, § 1 en § 2, van het Woonzorgdecreet van 13 maart 2009.<br>
+<br>
+§ 3. Om erkend te worden door de Vlaamse Regering moet de vennootschap, vermeld in paragraaf 2, minstens voldoen aan de volgende voorwaarden :<br>
+1° haar zetel gevestigd hebben in de Europese Economische Ruimte;<br>
+2° opgericht zijn na 1 januari 1995;<br>
+3° vanaf het ogenblik van de uitgifte van de maatschappelijke rechten, vermeld in paragraaf 2, en minstens tot 27 november 2012, uitsluitend de financiering en realisatie van projecten voor de oprichting van serviceflatgebouwen&nbsp;als voorwerp hebben gehad;<br>
+4° vanaf 27 november 2012 :<br>
+a) voor het Vlaamse Gewest uitsluitend de financiering en realisatie van projecten voor de oprichting van serviceflatgebouwen als vermeld in artikel 88, § 5, van het Woonzorgdecreet van 13 maart 2009, of de financiering en realisatie van projecten inzake onroerende goederen voor voorzieningen in het kader van het Woonzorgdecreet van 13 maart 2009, of de financiering en realisatie van projecten inzake onroerende goederen voor personen met een handicap als voorwerp hebben;<br>
+b) voor de Europese Economische Ruimte, uitgezonderd het Vlaamse Gewest, uitsluitend de financiering en realisatie van soortgelijke projecten inzake onroerende goederen als voorwerp hebben;<br>
+5° de gelden, die zijn ingezameld ingevolge de uitgifte van de maatschappelijke rechten, vermeld in paragraaf 2, integraal besteden of besteed hebben aan projecten binnen de Europese Economische Ruimte.<br>
+<br>
+§ 4. Op verzoek van de houder van maatschappelijke rechten of van zijn rechtverkrijgenden, wordt een attest uitgereikt voor het verkrijgen van de vrijstelling van het successierecht. Dit attest wordt, in de vorm vastgesteld door de Vlaamse Regering, door de betrokken financiële instelling slechts uitgereikt voor maatschappelijke rechten waarop, op de datum van het openvallen van de nalatenschap wegens het overlijden van de houder van de rechten of zijn echtgenoot, minstens vijf jaar vóór het overlijden van de houder ingeschreven werd en die reeds drie jaar volgestort werden.<br>
+<br>
+Met inschrijving wordt gelijkgesteld de verwerving op een andere wijze uiterlijk in het jaar 2005, van maatschappelijke rechten in een door de Vlaamse Regering erkende beleggingsvennootschap met vast kapitaal of een gereglementeerde vastgoedvennootschap als vermeld in artikel 2, 1°, van de wet van 12 mei 2014 betreffende de gereglementeerde vastgoedvennootschappen. Dit houdt tevens in dat een verwerving na het jaar 2005, met uitzondering van verkrijging onder echtgenoten en erfgenamen in de eerste graad waarbij geen vrijstelling van de erfbelasting verworven werd, nooit aanleiding kan geven tot vrijstelling van de erfbelasting.<br>
+<br>
+Het attest vermeldt de bedragen, vermeld in paragraaf 1, derde lid, met betrekking tot het geheel van de maatschappelijke rechten die voor een hele of gedeeltelijke vrijstelling in aanmerking komen.<br>
+<br>
+Bij uitreiking van een tweede attest wordt bovendien melding gemaakt van het vorige attest en van de datum waarop het werd afgegeven.<br>
+<br>
+§ 5. Als de erkenning, vermeld in paragraaf 3, ingetrokken wordt, brengt dat niet het vervallen van de vrijstellingsmogelijkheid mee ten aanzien van de waarde van de maatschappelijke rechten waarop ingeschreven is, in de mate dat die volgestort zijn voor de intrekking van de erkenning. De vrijstelling wordt in dat geval beperkt tot de waarde, bepaald met toepassing van paragraaf 1, op de datum van de intrekking van de vrijstelling.
 
 ### ART. 2.7.6.0.2.
 
@@ -3931,14 +4004,14 @@ Dat tarief is niet van toepassing op de schenkingen onder de levenden van roeren
 5° provincies en gemeenten in het Vlaamse Gewest;<br>
 6° de openbare instellingen van de publiekrechtelijke rechtspersonen, vermeld in de punt 1° tot en met 5° ;<br>
 7° erkende sociale huisvestingsmaatschappijen als vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
-8° de coöperatieve vennootschap Vlaams Woningfonds van de grote gezinnen;<br>
+8° het Vlaams Woningfonds;<br>
 9° dienstverlenende en opdrachthoudende verenigingen als vermeld in artikel 12, § 2, 2° en 3°, van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br>
 10° verenigingen zonder winstoogmerk, ziekenfondsen en landsbonden van ziekenfondsen, beroepsverenigingen, internationale verenigingen zonder winstoogmerk, private stichtingen en stichtingen van openbaar nut;<br>
 11° openbare centra voor maatschappelijk welzijn.<br>
 <br>
 In afwijking van het eerste lid wordt de schenkbelasting, vermeld in paragraaf 1 en 2, gebracht op 100 euro voor de schenkingen, inclusief inbrengen om niet, gedaan aan rechtspersonen als vermeld in het eerste lid, 10°, als de schenker zelf een rechtspersoon als vermeld in het eerste lid, 10°, is.<br>
 <br>
-Het tarief, vermeld in het eerste en tweede lid, is ook van toepassing op gelijksoortige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een andere staat van de Europese Economische Ruimte, en die bovendien hun statutaire zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.
+Het tarief, vermeld in het eerste en tweede lid, is ook van toepassing op gelijksoortige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een andere staat van de Europese Economische Ruimte, en die bovendien hun&nbsp; zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.
 
 ### ART. 2.8.4.1.2.
 
@@ -4101,7 +4174,8 @@ Het verschil tussen de schenkbelasting, berekend conform artikel 2.8.4.1.1, § 3
 <br>
 § 6. Het voordeel van de toepassing van paragraaf 1 of 3 kan niet gecombineerd worden met de premies, vermeld in artikel 10.2.1 van het Onroerenderfgoeddecreet van 12 juli 2013, noch met de belastingvermindering van de personenbelasting, vermeld in artikel 14536 van het Wetboek van de Inkomstenbelastingen 1992, als de voormelde premies of de belastingvermindering betrekking hebben op dezelfde beheersmaatregelen, werkzaamheden of diensten als de beheersmaatregelen, de werkzaamheden of de diensten, vermeld in paragraaf 1, eerste lid, 1°.<br>
 <br>
-§ 7. Voor de toepassing van dit artikel moet voldaan zijn aan de verplichtingen van artikel 3.12.3.0.1, § 1, 5°, en § 3, vijfde lid.
+§ 7. Voor de toepassing van dit artikel moet voldaan zijn aan de verplichtingen van artikel 3.12.3.0.1, § 1, 5°, en § 3, eerste lid.<br>
+&nbsp;
 
 ## [Afdeling 5. Verminderingen (ing. Decr. 19 december 2014, art. 95, I: 1 januari 2015)]
 
@@ -4117,7 +4191,8 @@ Er wordt een vrijstelling van de schenkbelasting verleend voor :<br>
 1° de overeenkomsten houdende schenking van vruchtgebruik aan de blote eigenaar, als de schenkbelasting of de erfbelasting of een soortgelijk recht door de blote eigenaar of door een vorige blote eigenaar, zijn rechtsvoorganger, op de waarde van de volle eigendom is voldaan;<br>
 2° de overeenkomsten houdende schenking van onroerende goederen die in het buitenland liggen;<br>
 3° op voorwaarde van wederkerigheid, de akten houdende schenking aan vreemde staten van onroerende goederen die bestemd zijn tot vestiging van hun diplomatieke of consulaire vertegenwoordiging in België, of voor de woning van het hoofd van de standplaats;<br>
-4° de akten houdende schenking van onroerende goederen als vermeld in artikel 2.8.4.1.1, § 1, voor zover die schenking plaatsvindt met het oog op de realisatie van een brownfieldproject dat het voorwerp uitmaakt of zal uitmaken van een bownfieldconvenant als vermeld in het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten.<br>
+4° de akten houdende schenking van onroerende goederen als vermeld in artikel 2.8.4.1.1, § 1, voor zover die schenking plaatsvindt met het oog op de realisatie van een brownfieldproject dat het voorwerp uitmaakt of zal uitmaken van een bownfieldconvenant als vermeld in het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten;<br>
+5° de akten die met toepassing van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn of deel 3, titel 4, van het decreet van 22 december 2017 over het lokaal bestuur, verrichtingen vaststellen als vermeld in artikel 2.8.1.0.1, hetzij ten bate van openbare centra voor maatschappelijk welzijn, hetzij ten bate van op grond van de voormelde wet of decreten opgerichte verenigingen, alsook akten houdende verrichtingen als vermeld in artikel 2.8.1.0.1, na ontbinding of splitsing van een voormelde vereniging.<br>
 <br>
 De vrijstelling, vermeld in het eerste lid, 4°, wordt alleen verleend als bij de aan de formaliteit van de registratie onderworpen akte of verklaring over de overeenkomst een attest is gevoegd waarin wordt bevestigd dat de schenking plaatsvindt met het oog op de realisatie van een brownfieldproject dat het voorwerp uitmaakt of zal uitmaken van een brownfieldconvenant, en dat de onroerende goederen waarvoor de vrijstelling wordt gevraagd, deel uitmaken van dat brownfieldproject. De Vlaamse Regering bepaalt de nadere regels voor de vormgeving van dat attest.<br>
 <br>
@@ -4144,7 +4219,7 @@ Voor de toepassing van het tweede lid komen de aandelen die toebehoren aan recht
 § 2. Voor de toepassing van dit artikel en artikel 2.8.6.0.4 tot en met artikel 2.8.6.0.7 wordt verstaan onder :<br>
 1° familiale onderneming : een nijverheids-, handels-, ambachts- of landbouwbedrijf of een vrij beroep dat door de schenker of zijn partner, al dan niet samen met anderen, persoonlijk wordt geëxploiteerd en uitgeoefend;<br>
 2° familiale vennootschap : een vennootschap die de uitoefening van een nijverheids-, handels-, ambachts- of landbouwactiviteit, of van een vrij beroep tot&nbsp;voorwerp heeft en uitoefent.<br>
-Als de vennootschap aan het voorgaande niet beantwoordt, maar minstens 30 % van de aandelen houdt van minstens één directe dochtervennootschap die aan die voorwaarde beantwoordt en die haar zetel van werkelijke leiding heeft in een van de staten van de Europese Economische Ruimte, wordt ze ook beschouwd als een familiale vennootschap.<br>
+Als de vennootschap aan het voorgaande niet beantwoordt, maar aandelen houdt die minstens 30 % van de stemrechten van één directe dochtervennootschap vertegenwoordigen die aan die voorwaarde beantwoordt en die haar zetel van werkelijke leiding heeft in een van de staten van de Europese Economische Ruimte, wordt ze ook beschouwd als een familiale vennootschap.<br>
 Vennootschappen die geen reële economische activiteit hebben, worden uitgesloten van de vrijstelling, vermeld in paragraaf 1. Een vennootschap wordt geacht geen reële economische activiteit te hebben als uit de balansposten van ofwel de goedgekeurde jaarrekening in geval van een vennootschap als vermeld in paragraaf 2, punt 2°, eerste lid, ofwel de goedgekeurde geconsolideerde jaarrekening in geval van een vennootschap als vermeld in paragraaf 2, punt 2°, tweede lid, van minstens een van de drie boekjaren die voorafgaan aan de datum van de authentieke akte van schenking, cumulatief blijkt dat :<br>
 a) de bezoldigingen, sociale lasten en pensioenen een percentage uitmaken dat gelijk is aan of lager is dan 1,50 % van de totale activa;<br>
 b) de terreinen en gebouwen meer dan 50 % uitmaken van het totale actief. De begiftigde kan het tegenbewijs daarvan leveren.<br>
@@ -4153,7 +4228,9 @@ a) bezoldigingen, sociale lasten en pensioenen : de waarde, opgenomen onder de g
 b) terreinen en gebouwen : de waarde, opgenomen onder de gelijknamige balanspost van de jaarrekening of van de geconsolideerde jaarrekening of onder een soortgelijke post van de jaarrekening of van de geconsolideerde jaarrekening. Als een vennootschap geen jaarrekening volgens het standaardmodel naar Belgisch recht hoeft neer te leggen, wordt een soortgelijke post bedoeld die opgenomen is onder de post materiële vaste activa;<br>
 c) totaal actief : de waarde, opgenomen onder de balanspost totaal van de activa van de jaarrekening of onder een soortgelijke post van de jaarrekening of van de geconsolideerde jaarrekening;<br>
 3° aandelen :<br>
-a) elk deelbewijs met stemrecht dat een deel van het maatschappelijk kapitaal vertegenwoordigt;<br>
+a) naargelang het geval:<br>
+1) als de familiale vennootschap een naamloze vennootschap, een Europese vennootschap of een Europese coöperatieve vennootschap is, dan wel een vennootschap met een andere rechtsvorm waarvoor het Belgische of buitenlandse recht dat haar beheerst, voorziet in een vergelijkbaar begrip: elk deelbewijs met stemrecht dat een deel van het kapitaal vertegenwoordigt;<br>
+2) als de familiale vennootschap een vennootschapsvorm heeft waarvoor het Belgische of buitenlandse recht dat de vennootschap beheerst, niet voorziet in het begrip kapitaal of een vergelijkbaar begrip: elk deelbewijs met stemrecht dat is uitgereikt als tegenprestatie voor een inbreng of naar aanleiding van de incorporatie van onbeschikbare reserves;<br>
 b) de certificaten van aandelen, uitgereikt door rechtspersonen met een zetel in een van de staten van de Europese Economische Ruimte, ter vertegenwoordiging van aandelen van familiale vennootschappen die aan de gestelde voorwaarden voldoen en waarvan de rechtspersoon de verplichting heeft om de dividenden en andere vermogensvoordelen onmiddellijk en uiterlijk binnen een maand door te storten aan de certificaathouder;<br>
 4° familie van de schenker of de aandeelhouder als vermeld in paragraaf 1, eerste lid, 2° :<br>
 a) de partner van de schenker of aandeelhouder, waarbij het begrip partner voor de aandeelhouder op een gelijkaardige wijze moet worden geïnterpreteerd als dat het geval is voor de schenker;<br>
@@ -4165,7 +4242,9 @@ d) de kinderen van broers en zussen van de schenker of aandeelhouder.<br>
 
 ### ART. 2.8.6.0.4.
 
-De vrijstelling, vermeld in artikel 2.8.6.0.3, is alleen toepasselijk als   de volgende voorwaarden cumulatief zijn vervuld :<BR>1° de schenking van de   activa of aandelen van de familiale onderneming of vennootschap wordt   vastgesteld bij authentieke akte;<BR>2° aan de verplichtingen, vermeld in   artikel 3.12.3.0.1, § 1, 4°, en § 5, is voldaan.
+De vrijstelling, vermeld in artikel 2.8.6.0.3, is alleen toepasselijk als de volgende voorwaarden cumulatief zijn vervuld :<br>
+1° de schenking van de activa of aandelen van de familiale onderneming of vennootschap wordt vastgesteld bij authentieke akte;<br>
+2° aan de verplichtingen, vermeld in artikel 3.12.3.0.1, § 1 en § 5, is voldaan.
 
 ### ART. 2.8.6.0.5.
 
@@ -4179,8 +4258,8 @@ Voor de toepassing van artikel 2.8.6.0.3 en artikel 2.8.6.0.6., § 1, 2°,   moe
 <br>
 § 2. De vrijstelling, vermeld in artikel 2.8.6.0.3, § 1, eerste lid, 2°, wordt alleen behouden als de volgende voorwaarden cumulatief zijn vervuld :<br>
 1° de familiale vennootschap blijft gedurende drie jaar vanaf de datum van de authentieke akte van schenking voldoen aan de voorwaarden, vermeld in artikel 2.8.6.0.3, § 2, 2° ;<br>
-2° een activiteit van de familiale vennootschap wordt zonder onderbreking voortgezet gedurende drie jaar vanaf de datum van de authentieke akte van schenking en voor elk van de drie jaar wordt een jaarrekening of geconsolideerde jaarrekening opgemaakt die in voorkomend geval wordt gepubliceerd overeenkomstig de vigerende boekhoudwetgeving van de lidstaat waar de maatschappelijke zetel gevestigd is op het ogenblik van de datum van de authentieke akte van schenking, die ook aangewend is ter verantwoording van de aangifte in de inkomstenbelasting.<br>
-Ondernemingen of vennootschappen waarvan de maatschappelijke zetel buiten het Vlaamse Gewest maar binnen België ligt, moeten een jaarrekening of geconsolideerde jaarrekening opmaken en in voorkomend geval publiceren overeenkomstig de vigerende boekhoudwetgeving in België op de datum van de authentieke akte van schenking;<br>
+2° een activiteit van de familiale vennootschap wordt zonder onderbreking voortgezet gedurende drie jaar vanaf de datum van de authentieke akte van schenking en voor elk van de drie jaar wordt een jaarrekening of geconsolideerde jaarrekening opgemaakt die in voorkomend geval wordt gepubliceerd overeenkomstig de vigerende boekhoudwetgeving van de lidstaat waar de&nbsp; zetel gevestigd is op het ogenblik van de datum van de authentieke akte van schenking, die ook aangewend is ter verantwoording van de aangifte in de inkomstenbelasting.<br>
+Ondernemingen of vennootschappen waarvan de&nbsp; zetel buiten het Vlaamse Gewest maar binnen België ligt, moeten een jaarrekening of geconsolideerde jaarrekening opmaken en in voorkomend geval publiceren overeenkomstig de vigerende boekhoudwetgeving in België op de datum van de authentieke akte van schenking;<br>
 3° naargelang het geval:<br>
 a) wanneer de familiale vennootschap een naamloze vennootschap, een Europese vennootschap of een Europese coöperatieve vennootschap is, dan wel een vennootschap met een andere rechtsvorm waarvoor het Belgische of buitenlandse recht dat haar beheerst, voorziet in een vergelijkbaar begrip: het kapitaal daalt niet door uitkeringen of terugbetalingen gedurende drie jaar vanaf de datum van de authentieke akte van schenking;<br>
 b) wanneer de familiale vennootschap een vennootschapsvorm heeft waarvoor het Belgische of buitenlandse recht dat de vennootschap beheerst, niet voorziet in het begrip kapitaal of een vergelijkbaar begrip: het eigen vermogen daalt niet gedurende drie jaar vanaf de datum van de authentieke akte van schenking door uitkeringen of terugbetalingen tot onder het bedrag van de tot op de datum van de authentieke akte van schenking verrichte inbrengen, zoals dat blijkt uit de jaarrekening;<br>
@@ -4230,6 +4309,10 @@ Voor de toepassing van de vrijstelling, vermeld in het eerste lid, is vereist da
 5° de vrijstelling wordt gevraagd overeenkomstig artikel 3.12.3.0.1, § 1, 3° en 4°.<br>
 <br>
 Voor de toepassing van dit artikel moet onder brutowaarde worden begrepen: de belastbare waarde van de betrokken goederen voor de heffing van de erfbelasting, vóór enige aftrek van passief.
+
+### ART 2.8.6.0.10.
+
+Er wordt een vrijstelling van de schenkbelasting verleend voor de akten in der minne die betrekking hebben op onroerende goederen die uitsluitend bestemd zijn voor onderwijs, en die verleden zijn op naam van of ten voordele van de inrichtende machten van het gemeenschapsonderwijs of het gesubsidieerd onderwijs, of op naam van of ten voordele van verenigingen zonder winstoogmerk voor patrimoniaal beheer die uitsluitend tot doel hebben onroerende goederen ter beschikking te stellen voor onderwijs dat door de voormelde inrichtende machten wordt verstrekt.
 
 ## [Afdeling 7. Wijze van heffing (ing. Decr. 19 december 2014, art. 105, I: 1 januari 2015)]
 
@@ -4357,11 +4440,24 @@ In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 1,50 % voor verkoop
 <br>
 Als na de aankoop blijkt dat de kopers niet meer voldoen aan de voorwaarden, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingmaatschappijen ter uitvoering van de Vlaamse Codex Wonen van 2021, of aan de voorwaarden tot behoud of bewoning, opgelegd door de Vlaamse Maatschappij voor Sociaal Wonen of door de erkende sociale huisvestingsmaatschappijen, vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021, zijn ze het verkooprecht, vermeld in artikel 2.9.4.1.1, verschuldigd na aftrek van de reeds geheven belasting.<br>
 <br>
-Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijksoortige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een staat van de Europese Economische Ruimte, en die bovendien hun statutaire zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.
+Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijksoortige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een staat van de Europese Economische Ruimte, en die bovendien hun zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.
 
 ### ART. 2.9.4.2.4.
 
-§ 1. In afwijking van artikel 2.9.4.1.1 wordt het tarief van het   verkooprecht verlaagd tot 4% voor overeenkomsten houdende overdrachten ten   bezwarende titel, uit de hand en bij authentieke akte, met uitsluiting van de   inbrengen, vermeld in artikel 115bis van het federale Wetboek van Registratie-,   Hypotheek- en Griffierechten, waarbij de verkrijger een persoon is die zijn   beroep maakt van het kopen en verkopen van onroerende goederen.<BR><BR>§ 2. Voor   de toepassing van het verlaagde tarief, vermeld in paragraaf 1, moeten de   volgende voorwaarden vervuld zijn :<BR>1° de verkrijger ondertekent een   beroepsverklaring en dient die in;<BR>2° de verkrijger stelt op eigen kosten   zekerheid met toepassing van artikel 3.10.5.1.3, eerste lid;<BR>3° de verkrijger   heeft de erkenning verkregen van een in België gevestigde vertegenwoordiger die   met toepassing van artikel 3.10.4.4.5 met hem instaat voor de nakoming van zijn   fiscale verplichtingen als hij :<BR>a) een natuurlijke persoon is en zijn   wettelijke verblijfplaats buiten de Europese Economische Ruimte heeft;<BR>b) een   rechtspersoon is zonder vestiging in België waarvan de maatschappelijke zetel   gevestigd is buiten de Europese Economische Ruimte.<BR><BR>§ 3. De akte die de   verklaring, vermeld in artikel 3.12.3.0.1, § 1, niet bevat of waarbij de   verklaring, vermeld in artikel 3.12.3.0.1, § 3, derde lid, niet gevoegd is,   wordt tegen het tarief, vermeld in artikel 2.9.4.1.1, geregistreerd zonder enige   mogelijkheid tot teruggave.<BR><BR>Een andere beroepspersoon dan de persoon,   vermeld in paragraaf 2, 3°, kan de erkenning verkrijgen van een in België   gevestigde vertegenwoordiger die medeaansprakelijk is en hoofdelijk met hem   instaat voor de nakoming van zijn fiscale verplichtingen.<BR><BR>§ 4. Als de   persoon die een beroepsverklaring heeft ondertekend, bij het verstrijken van een   termijn van vijf jaar na die verklaring, geen drie wederverkopen kan aantonen   waardoor blijkt dat hij het aangegeven beroep werkelijk uitoefent, is hij op al   zijn aankopen het verkooprecht, vermeld in artikel 2.9.4.1.1, verschuldigd na   aftrek van de reeds geheven belasting.
+§ 1. In afwijking van artikel 2.9.4.1.1 wordt het tarief van het verkooprecht verlaagd tot 4% voor overeenkomsten houdende overdrachten ten bezwarende titel, uit de hand en bij authentieke akte, met uitsluiting van de inbrengen, vermeld in artikel 115bis van het federale Wetboek van Registratie-, Hypotheek- en Griffierechten, waarbij de verkrijger een persoon is die zijn beroep maakt van het kopen en verkopen van onroerende goederen.<br>
+<br>
+§ 2. Voor de toepassing van het verlaagde tarief, vermeld in paragraaf 1, moeten de volgende voorwaarden vervuld zijn :<br>
+1° de verkrijger ondertekent een beroepsverklaring en dient die in;<br>
+2° ...;<br>
+3° de verkrijger heeft de erkenning verkregen van een in België gevestigde vertegenwoordiger die met toepassing van artikel 3.10.4.4.5 met hem instaat voor de nakoming van zijn fiscale verplichtingen als hij :<br>
+a) een natuurlijke persoon is en zijn wettelijke verblijfplaats buiten de Europese Economische Ruimte heeft;<br>
+b) een rechtspersoon is zonder vestiging in België waarvan de&nbsp; zetel gevestigd is buiten de Europese Economische Ruimte.<br>
+<br>
+§ 3. De akte die de verklaring, vermeld in artikel 3.12.3.0.1, § 1, niet bevat of waarbij de verklaring, vermeld in artikel 3.12.3.0.1, § 3, tweede lid, niet gevoegd is, wordt tegen het tarief, vermeld in artikel 2.9.4.1.1, geregistreerd zonder enige mogelijkheid tot teruggave.<br>
+<br>
+Een andere beroepspersoon dan de persoon, vermeld in paragraaf 2, 3°, kan de erkenning verkrijgen van een in België gevestigde vertegenwoordiger die medeaansprakelijk is en hoofdelijk met hem instaat voor de nakoming van zijn fiscale verplichtingen.<br>
+<br>
+§ 4. Als de persoon die een beroepsverklaring heeft ondertekend, bij het verstrijken van een termijn van vijf jaar na die verklaring, geen drie wederverkopen kan aantonen waardoor blijkt dat hij het aangegeven beroep werkelijk uitoefent, is hij op al zijn aankopen het verkooprecht, vermeld in artikel 2.9.4.1.1, verschuldigd na aftrek van de reeds geheven belasting.
 
 ### ART. 2.9.4.2.5.
 
@@ -4369,17 +4465,23 @@ Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijk
 
 ### ART. 2.9.4.2.6.
 
-Bij overlijden van de vertegenwoordiger van een beroepspersoon als vermeld   in artikel 2.9.4.2.4, § 2, 3°, bij de intrekking van zijn erkenning of als hij   onbekwaam wordt verklaard om als vertegenwoordiger op te treden, moet binnen een   termijn van zes maanden in zijn vervanging voorzien worden.<BR><BR>Als de   voorschriften, vermeld in het eerste lid en in artikel 3.10.5.1.3, tweede lid,   niet voldaan zijn, is de belasting, vermeld in artikel 2.9.4.2.5, verschuldigd   voor de niet-wederverkochte goederen.
+Bij overlijden van de vertegenwoordiger van een beroepspersoon als vermeld in artikel 2.9.4.2.4, § 2, 3°, bij de intrekking van zijn erkenning of als hij onbekwaam wordt verklaard om als vertegenwoordiger op te treden, moet binnen een termijn van zes maanden in zijn vervanging voorzien worden.<br>
+<br>
+Als de voorschriften, vermeld in het eerste lid, niet voldaan zijn, is de belasting, vermeld in artikel 2.9.4.2.5, verschuldigd voor de niet-wederverkochte goederen.
 
 ### ART. 2.9.4.2.7.
 
-In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 6% voor een   koopovereenkomst ter verwezenlijking van haar maatschappelijk doel :<BR>1° door   een maatschappij die erkend is door de Vlaamse Maatschappij voor Sociaal Wonen,   op voorwaarde van bewijs van haar erkenning;<BR>2° door het Vlaams   Woningfonds.<BR><BR>Het verlaagde tarief, vermeld in het eerste lid, is ook van   toepassing op gelijksoortige rechtspersonen die opgericht zijn volgens en   onderworpen zijn aan de wetgeving van een staat van de Europese Economische   Ruimte, en die bovendien hun statutaire zetel, hun hoofdbestuur of hun   hoofdvestiging binnen de Europese Economische Ruimte hebben.
+In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 6% voor een koopovereenkomst ter verwezenlijking van haar voorwerp :<br>
+1° door een maatschappij die erkend is door de Vlaamse Maatschappij voor Sociaal Wonen, op voorwaarde van bewijs van haar erkenning;<br>
+2° door het Vlaams Woningfonds.<br>
+<br>
+Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijksoortige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een staat van de Europese Economische Ruimte, en die bovendien hun zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.
 
 ### ART. 2.9.4.2.8.
 
 § 1. In afwijking van artikel 2.9.4.1.1 wordt het tarief van het verkooprecht verlaagd tot 6% voor de ruilovereenkomsten van ongebouwde landgoederen&nbsp;waarvan de oppervlakte van elk van de kavels niet meer bedraagt dan vijf hectare, op voorwaarde dat het waardeverschil tussen elk van de kavels of de opleg een vierde van de verkoopwaarde van de minste kavel niet te boven gaat.<br>
 <br>
-Voor de toepassing van het tarief, vermeld in het eerste lid, moet voldaan zijn aan de verplichtingen van artikel 3.12.3.0.1, § 1 en § 3, tweede lid.<br>
+Voor de toepassing van het tarief, vermeld in het eerste lid, moet voldaan zijn aan de verplichtingen van artikel 3.12.3.0.1, § 1 en § 3, derde lid.<br>
 <br>
 § 2. Voor elke te laag bevonden opleg of elk te laag bevonden waardeverschil, zijn aanvullende rechten verschuldigd.<br>
 <br>
@@ -4387,7 +4489,13 @@ Hetzelfde geldt voor elke overschatting van de kavels die een vermindering van h
 
 ### ART. 2.9.4.2.9.
 
-§ 1. Een overeenkomst als vermeld in artikel 2.9.1.0.1, wordt onderworpen   aan een tarief van 10 euro als ze niet bij authentieke akte is vastgesteld, en   als binnen de termijnen, overeenkomstig artikel 32 of artikel 33 van het   federale Wetboek van Registratie-, Hypotheek- en Griffierechten, samen met de   ter registratie aangeboden akte of het ter registratie aangeboden geschrift een   schriftelijk vastgestelde overeenkomst ter registratie wordt aangeboden waarin   alle partijen verklaren de eerste overeenkomst in der minne te hebben ontbonden   of vernietigd of waarin ze verklaren dat een in de eerste overeenkomst   uitdrukkelijk bedongen ontbindende voorwaarde al is vervuld.<BR><BR>Het tarief,   vermeld in het eerste lid, geldt niet voor de inbrengen door een natuurlijke   persoon van een woning in een Belgische vennootschap, noch voor overeenkomsten   die onderworpen zijn aan het tarief, vermeld in artikel 2.9.4.2.4, § 1.<BR><BR>§   2. De schriftelijk vastgestelde overeenkomst waarin alle partijen verklaren een   overeenkomst, zoals omschreven in artikel 2.9.1.0.1, te hebben ontbonden of   vernietigd of waarin ze verklaren dat een in die overeenkomst uitdrukkelijk   bedongen ontbindende voorwaarde is vervuld, wordt geregistreerd tegen het tarief   van 10 euro op voorwaarde dat die ontbonden of vernietigde overeenkomst :<BR>1°   niet bij authentieke akte is vastgesteld;<BR>2° dateert van minder dan één jaar   vóór de dagtekening van de ter registratie aangeboden   overeenkomst.
+§ 1. Een overeenkomst als vermeld in artikel 2.9.1.0.1, wordt onderworpen aan een tarief van 10 euro als ze niet bij authentieke akte is vastgesteld, en als binnen de termijnen, overeenkomstig artikel 32 of artikel 33 van het federale Wetboek van Registratie-, Hypotheek- en Griffierechten, samen met de ter registratie aangeboden akte of het ter registratie aangeboden geschrift een schriftelijk vastgestelde overeenkomst ter registratie wordt aangeboden waarin alle partijen verklaren de eerste overeenkomst in der minne te hebben ontbonden of vernietigd of waarin ze verklaren dat een in de eerste overeenkomst uitdrukkelijk bedongen ontbindende voorwaarde al is vervuld.<br>
+<br>
+Het tarief, vermeld in het eerste lid, geldt niet voor de inbrengen door een natuurlijke persoon van een woning in een Belgische vennootschap.<br>
+<br>
+§ 2. De schriftelijk vastgestelde overeenkomst waarin alle partijen verklaren een overeenkomst, zoals omschreven in artikel 2.9.1.0.1, te hebben ontbonden of vernietigd of waarin ze verklaren dat een in die overeenkomst uitdrukkelijk bedongen ontbindende voorwaarde is vervuld, wordt geregistreerd tegen het tarief van 10 euro op voorwaarde dat die ontbonden of vernietigde overeenkomst :<br>
+1° niet bij authentieke akte is vastgesteld;<br>
+2° dateert van minder dan één jaar vóór de dagtekening van de ter registratie aangeboden overeenkomst.
 
 ### ART 2.9.4.2.10.
 
@@ -4396,7 +4504,7 @@ Hetzelfde geldt voor elke overschatting van de kavels die een vermindering van h
 § 2. Voor de toepassing van het verlaagde tarief, vermeld in paragraaf 1, moeten de volgende voorwaarden vervuld zijn:<br>
 1° de verkrijgers verbinden zich ertoe dat minstens het bedrag dat overeenkomt met het verschil tussen het verkooprecht, geheven met toepassing van paragraaf 1, en het verkooprecht, verschuldigd bij gebrek aan toepassing van hetzelfde artikel, binnen vijf jaar vanaf de datum van de authentieke akte van verkrijging geïnvesteerd wordt in beheersmaatregelen, werkzaamheden of diensten die noodzakelijk zijn voor het behoud of de herwaardering van erfgoedkenmerken en -elementen van het beschermde monument, vermeld in artikel 2.1, 16°, van het Onroerenderfgoeddecreet van 12 juli 2013. De voormelde beheersmaatregelen, werkzaamheden of diensten dienen opgenomen te zijn in een goedgekeurd beheersplan als vermeld in punt 2°, dat geldig is bij de aanvang van de voormelde beheersmaatregelen, werkzaamheden of diensten;<br>
 2° voor het beschermde monument, vermeld in artikel 2.1, 16°, van het Onroerenderfgoeddecreet van 12 juli 2013, is er een goedgekeurd beheersplan of zal een beheersplan opgemaakt worden conform hoofdstuk 8 van het Onroerenderfgoeddecreet van 12 juli 2013 en hoofdstuk 8 van het Onroerenderfgoedbesluit van 16 mei 2014. Het beheersplan is goedgekeurd of zal worden goedgekeurd door het agentschap, vermeld in artikel 2.1, 2°, van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-3° de verkrijgers voldoen aan de verplichting, vermeld in artikel 3.12.3.0.1, § 1 en § 3, vijfde lid.<br>
+3° de verkrijgers voldoen aan de verplichting, vermeld in artikel 3.12.3.0.1, § 1 en § 3, vierde lid.<br>
 <br>
 § 3. Het bedrag, vermeld in paragraaf 2, 1°, is exclusief btw.<br>
 <br>
@@ -4418,8 +4526,8 @@ Het voordeel van de toepassing van de tariefvermindering uit dit artikel kan nie
 De koper die de voorwaarde, vermeld in het eerste lid, 2°, niet is nagekomen, is aanvullende rechten verschuldigd.<br>
 <br>
 § 3. In afwijking van paragraaf 2, 1°, wordt geen rekening gehouden met de woning of de bouwgrond als:<br>
-1° de verkrijger zich ertoe verbindt om dit onroerend goed uiterlijk één jaar na de datum van de authentieke akte volledig en ten bezwarende titel te vervreemden en aantoont dat er een causaal verband bestaat tussen die vervreemding en de verkrijging tegen het verlaagd tarief, vermeld in paragraaf 1, en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, eerste lid;<br>
-2° het onroerend goed uiterlijk een jaar na de datum van de authentieke akte van verkrijging, al dan niet gedwongen, wordt onteigend en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, tweede lid.<br>
+1° de verkrijger zich ertoe verbindt om dit onroerend goed uiterlijk één jaar na de datum van de authentieke akte volledig en ten bezwarende titel te vervreemden en aantoont dat er een causaal verband bestaat tussen die vervreemding en de verkrijging tegen het verlaagd tarief, vermeld in paragraaf 1, en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, vijfde lid;<br>
+2° het onroerend goed uiterlijk een jaar na de datum van de authentieke akte van verkrijging, al dan niet gedwongen, wordt onteigend en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, zesde lid.<br>
 <br>
 De koper die de voorwaarden, vermeld in het eerste lid, 1° of 2°, niet is nagekomen, is aanvullende rechten verschuldigd.<br>
 <br>
@@ -4439,8 +4547,8 @@ De koper die de voorwaarden, vermeld in het eerste lid, 1° of 2°, niet is nage
 De&nbsp;koper die de voorwaarden, vermeld in het eerste lid, 1°, 2° en 4°, niet is nagekomen, is aanvullende rechten verschuldigd.<br>
 <br>
 § 2. In afwijking van paragraaf 1, 3°, wordt geen rekening gehouden met de woning of de bouwgrond als:<br>
-1° de verkrijger zich ertoe verbindt om dit onroerend goed uiterlijk één jaar na de datum van de authentieke akte volledig en ten bezwarende titel te vervreemden en aantoont dat er een causaal verband bestaat tussen die vervreemding en de verkrijging tegen het verlaagd tarief, vermeld in paragraaf 1, en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, eerste lid;<br>
-2° het onroerend goed uiterlijk een jaar na de datum van de authentieke akte van verkrijging, al dan niet gedwongen, wordt onteigend en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, tweede lid.<br>
+1° de verkrijger zich ertoe verbindt om dit onroerend goed uiterlijk één jaar na de datum van de authentieke akte volledig en ten bezwarende titel te vervreemden en aantoont dat er een causaal verband bestaat tussen die vervreemding en de verkrijging tegen het verlaagd tarief, vermeld in paragraaf 1, en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, zevende lid;<br>
+2° het onroerend goed uiterlijk een jaar na de datum van de authentieke akte van verkrijging, al dan niet gedwongen, wordt onteigend en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, achtste lid.<br>
 <br>
 De koper die de voorwaarden, vermeld in het eerste lid, 1° of 2°, niet is nagekomen, is aanvullende rechten verschuldigd.<br>
 <br>
@@ -4449,7 +4557,7 @@ De koper die de voorwaarden, vermeld in het eerste lid, 1° of 2°, niet is nage
 ### ART 2.9.4.2.13.
 
 § 1. In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 7 % voor overeenkomsten houdende zuivere aankoop, waarbij door een of meer natuurlijke personen samen en gelijktijdig de geheelheid volle eigendom van een woning wordt verkregen als aan de volgende voorwaarden is voldaan:<br>
-1° de verkrijger verbindt zich ertoe om binnen een termijn van drie jaar vanaf de datum van de authentieke akte een huurovereenkomst met een minimumduur van 9 jaar voor het aangekochte goed af te sluiten met een erkend sociaal verhuurkantoor met toepassing van en in overeenstemming met de voorwaarden, vermeld in artikel 2 en 3 van het besluit van de Vlaamse Regering van 20 juli 2012 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren;<br>
+1° de verkrijger verbindt zich ertoe om binnen een termijn van drie jaar vanaf de datum van de authentieke akte een huurovereenkomst met een minimumduur van 9 jaar voor het aangekochte goed af te sluiten met een erkend sociaal verhuurkantoor met toepassing van en in overeenstemming met de voorwaarden, vermeld in artikel 4.55, tweede en derde lid, van de Vlaamse Codex Wonen van 2021, en artikel 4.168 van het Besluit Vlaamse Codex Wonen van 2021;<br>
 2° de verkrijger verbindt zich ertoe om binnen een termijn van drie jaar en zes maanden een kopie van de geregistreerde huurovereenkomst, vermeld in punt 1°, in te dienen bij de bevoegde entiteit van de Vlaamse administratie;<br>
 3° de verplichting, vermeld in artikel 3.12.3.0.1, § 1, is nageleefd.<br>
 <br>
@@ -4478,8 +4586,8 @@ Om het tarief, vermeld in paragraaf 1, te kunnen toepassen, voldoen de verkrijge
 Het voordeel van de toepassing van de tariefvermindering, vermeld in paragraaf 1, kan niet gecombineerd worden met de premies, vermeld in artikel 10.2.1 van het Onroerenderfgoeddecreet van 12 juli 2013,&nbsp;noch met de vermindering van de personenbelasting, vermeld in artikel 145<sup>36</sup> van het Wetboek van de Inkomstenbelastingen 1992, als de voormelde premies of de belastingvermindering betrekking hebben op dezelfde beheersmaatregelen, werkzaamheden of diensten als de beheersmaatregelen, de werkzaamheden of de diensten, vermeld in artikel 2.9.4.2.10, § 2, 1°.<br>
 <br>
 § 5. In afwijking van de voorwaarde, vermeld in artikel 2.9.4.2.11, § 2, eerste lid, 1°, wordt er geen rekening gehouden met de woning of de bouwgrond als:<br>
-1° de verkrijger zich ertoe verbindt om dit onroerend goed uiterlijk één jaar na de datum van de authentieke akte volledig en ten bezwarende titel te vervreemden en aantoont dat er een causaal verband bestaat tussen die vervreemding en de verkrijging tegen het verlaagd tarief, vermeld in paragraaf 1, en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, eerste lid;<br>
-2° het onroerend goed uiterlijk een jaar na de datum van de authentieke akte van verkrijging, al dan niet gedwongen, wordt onteigend en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, tweede lid.<br>
+1° de verkrijger zich ertoe verbindt om dit onroerend goed uiterlijk één jaar na de datum van de authentieke akte volledig en ten bezwarende titel te vervreemden en aantoont dat er een causaal verband bestaat tussen die vervreemding en de verkrijging tegen het verlaagd tarief, vermeld in paragraaf 1, en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, negende lid;<br>
+2° het onroerend goed uiterlijk een jaar na de datum van de authentieke akte van verkrijging, al dan niet gedwongen, wordt onteigend en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, tiende lid.<br>
 <br>
 De koper die de voorwaarden, vermeld in het eerste lid, 1° of 2°, niet is nagekomen, is aanvullende rechten verschuldigd.<br>
 <br>
@@ -4542,7 +4650,7 @@ b) de aanwijzing bij authentieke akte uiterlijk plaatsvindt op de vijfde werkdag
 Als aan de voorwaarden, vermeld in het eerste lid, 1°, niet is voldaan, wordt de aanwijzing van lastgever voor de toepassing van dit hoofdstuk als een wederverkoop beschouwd.<br>
 <br>
 In afwijking van hetgeen vermeld is in het eerste lid, 1°, a) en b), moet om de vrijstelling van het verkooprecht te genieten :<br>
-1° bij toewijzingen die wettelijk gedaan zijn onder de opschortende voorwaarde van ontstentenis van opbod, de aanwijzing van lastgever gedaan worden vóór de notaris die toewijzing gedaan heeft, of hem betekend worden uiterlijk op de vijfde werkdag nadat de wettelijke termijn voor opbod verstrijkt;<br>
+1°...;<br>
 2° bij toewijzingen ten gevolge van een hoger bod op de vrijwillige vervreemding van onroerende goederen, de aanwijzing van lastgever gedaan worden vóór de notaris die toewijzing heeft gedaan, of hem betekend worden uiterlijk op de vijfde werkdag na de dag van de toewijzing.<br>
 <br>
 In de gevallen, vermeld in het derde lid, wordt de aanwijzing ingeschreven of vermeld onderaan op het proces-verbaal van toewijzing zonder dat ze aan het bevoegde personeelslid betekend moet worden.<br>
@@ -4551,7 +4659,7 @@ Als de toewijzingen, vermeld in het eerste lid, 2°, wel aanleiding geven tot de
 <br>
 Het eerste lid, 2°, is ook van toepassing op de toewijzingen naar aanleiding van prijsverhoging in de gevallen waarin het voorbehoud van prijsverhoging geen opschortende voorwaarde uitmaakt.<br>
 <br>
-Om de vrijstelling, vermeld in het eerste lid, 4°, te verkrijgen, moet voldaan zijn aan de verplichtingen, vermeld in artikel 3.12.3.0.1, § 1, 4°, en § 5, vierde lid.<br>
+Om de vrijstelling, vermeld in het eerste lid, 4°, te verkrijgen, moet voldaan zijn aan de verplichtingen, vermeld in artikel 3.12.3.0.1, § 1 en § 5, zesde lid.<br>
 <br>
 Als onroerende goederen verkregen worden in andere omstandigheden dan de omstandigheden, vermeld in het eerste lid, 7°, is voor de verkrijging, vermeld in het eerste lid, 7°, hoe ze ook gebeurt, het verkooprecht verschuldigd.
 
@@ -4570,7 +4678,7 @@ a) de Vlaamse Maatschappij voor Watervoorziening;<br>
 b) de verenigingen of intercommunales, vermeld in de wet van 22 december 1986 betreffende de intercommunales en het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br>
 c) de Vlaamse Vervoermaatschappij - De Lijn;<br>
 d) de Federale Participatie- en Investeringsmaatschappij en de gewestelijke investeringsmaatschappijen;<br>
-9° de akten die, bij toepassing van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn of het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn, de overgave vaststellen van goederen aan openbare centra voor maatschappelijk welzijn ofwel de overgave van goederen aan op grond van voornoemde wet of decreet&nbsp;opgerichte verenigingen.<br>
+9° de akten die, bij toepassing van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn , het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn of deel 3, titel 4, van het decreet van 22 december 2017 over het lokaal bestuur, de overgave vaststellen van goederen aan openbare centra voor maatschappelijk welzijn ofwel de overgave van goederen aan verenigingen die op grond van de voormelde wet of de voormelde decreten zijn opgericht.<br>
 <br>
 Het eerste lid, 1° tot en met 7°, is alleen van toepassing op de akten waarvan de kosten wettelijk ten laste van vermelde entiteiten vallen.<br>
 <br>
@@ -4601,9 +4709,9 @@ Er wordt een vrijstelling van het verkooprecht verleend voor de ruilovereenkomst
 
 In afwijking van artikel 2.9.1.0.3 wordt een vrijstelling van het verkooprecht verleend voor :<br>
 1° de omvorming van een vennootschap met rechtspersoonlijkheid in een vennootschap van een verschillende soort en de omzetting van een vereniging zonder winstoogmerk in een coöperatieve vennootschap erkend als sociale onderneming. Dit punt is ook van toepassing als de omvorming plaatsvindt via een vereffening, gevolgd door de oprichting van een nieuwe vennootschap, als in die oprichting voorzien wordt in de akte van invereffeningstelling en als ze binnen vijftien dagen na de akte plaatsvindt;<br>
-2° de overbrenging van de zetel van de werkelijke leiding of van de statutaire zetel van een vennootschap, als die overbrenging gebeurt uit het grondgebied van een staat van de Europese Economische Ruimte of als het een overbrenging naar België betreft van de zetel van de werkelijke leiding van een vennootschap waarvan de statutaire zetel zich al op het grondgebied van de vermelde gemeenschap bevindt. Dit punt is alleen van toepassing als het vaststaat dat de vennootschap behoort tot de soort van vennootschappen die onderworpen zijn aan een belasting op het bijeenbrengen van kapitaal in het land dat in aanmerking komt voor het voordeel van de vrijstelling.<br>
+2° de overbrenging van de zetel van de werkelijke leiding of van de zetel van een vennootschap, als die overbrenging gebeurt uit het grondgebied van een staat van de Europese Economische Ruimte of als het een overbrenging naar België betreft van de zetel van de werkelijke leiding van een vennootschap waarvan de zetel zich al op het grondgebied van de vermelde gemeenschap bevindt. Dit punt is alleen van toepassing als het vaststaat dat de vennootschap behoort tot de soort van vennootschappen die onderworpen zijn aan een belasting op het bijeenbrengen van kapitaal in het land dat in aanmerking komt voor het voordeel van de vrijstelling.<br>
 <br>
-In alle gevallen, vermeld in het eerste lid, wordt het verkooprecht geheven op de vermeerdering van het statutaire kapitaal van de vennootschap, zonder nieuwe inbreng, of op de inbrengen van nieuwe goederen die gedaan worden ter gelegenheid van de omvorming, de wijziging van het voorwerp of de overbrenging van de zetel.
+In alle gevallen, vermeld in het eerste lid, is het verkooprecht verschuldigd op de inbrengen van nieuwe goederen conform artikel 2.9.1.0.1 of 2.9.1.0.3.
 
 ### ART. 2.9.6.0.6.
 
@@ -4617,7 +4725,7 @@ Er wordt een vrijstelling van het verkooprecht verleend voor vonnissen en   arre
 <br>
 De vrijstelling, vermeld in het eerste lid, wordt verleend op voorwaarde dat uiterlijk bij de aanbieding ter registratie van de authentieke koopakte een overeenkomst is gesloten met het Agentschap voor Natuur en Bos waaruit de intentie blijkt om een natuurbeheerplan voor het onroerend goed te laten goedkeuren.<br>
 <br>
-§ 3. Voor de toepassing van dit artikel moet voldaan zijn aan de verplichtingen van artikel 3.12.3.0.1, § 1, 4°, en § 5, achtste en negende lid.
+§ 3. Voor de toepassing van dit artikel moet voldaan zijn aan de verplichtingen, vermeld in artikel 3.12.3.0.1, § 1 en § 5, negende en tiende lid.
 
 ## [Afdeling 7. Wijze van heffing (ing. Decr. 19 december 2014, art. 156, I: 1 januari 2015)]
 
@@ -4706,9 +4814,9 @@ Voorbehouden voor toekomstig gebruik
 Er wordt een vrijstelling van het verdeelrecht verleend voor :<br>
 1° de overeenkomsten tot overdracht van het vruchtgebruik op de blote eigenaar, als de evenredige registratiebelasting, de erfbelasting of een soortgelijk recht door de blote eigenaar of door een vorige blote eigenaar, zijn rechtsvoorganger, op de waarde van de volle eigendom is voldaan;<br>
 2° de overeenkomsten, vermeld in artikel 2.10.1.0.1, andere dan die welke aan de belasting, overeenkomstig artikel 115bis van het federale Wetboek van Registratie-, Hypotheek- en Griffierechten onderworpen zijn, van gebouwen, gedeelten van gebouwen en het bijhorende terrein, vermeld in artikel 1, § 9, van het federale Wetboek van de Belasting over de Toegevoegde Waarde, alsook de vestigingen, overdrachten of wederoverdrachten van de zakelijke rechten, vermeld in artikel 9, tweede lid, 2°, van het Wetboek van de Belasting over de Toegevoegde Waarde met betrekking tot gebouwen, gedeelten van gebouwen en het bijhorende terrein, vermeld in artikel 1, § 9, van het Wetboek van de Belasting over de Toegevoegde Waarde, op voorwaarde dat de belasting over de toegevoegde waarde opeisbaar is op de levering van die goederen of de vestiging, de overdracht of wederoverdracht van die rechten.<br>
-3° de akten die met toepassing van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn of het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn, verrichtingen vaststellen als vermeld in artikel 2.10.1.0.1, hetzij ten bate van openbare centra voor maatschappelijk welzijn hetzij ten bate van op grond van de voormelde wet opgerichte verenigingen, alsook akten houdende verrichtingen als vermeld in artikel 2.10.1.0.1, na ontbinding of splitsing van een voormelde vereniging.<br>
+3° de akten die met toepassing van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn of deel 3, titel 4, van het decreet van 22 december 2017 over het lokaal bestuur, verrichtingen vaststellen als vermeld in artikel 2.10.1.0.1, hetzij ten bate van openbare centra voor maatschappelijk welzijn hetzij ten bate van verenigingen die op grond van de voormelde wet of de voormelde decreten zijn opgericht, alsook akten houdende verrichtingen als vermeld in artikel 2.10.1.0.1, na ontbinding of splitsing van een voormelde vereniging.<br>
 <br>
-Om de vrijstelling, vermeld in het eerste lid, 2°, te verkrijgen, moet voldaan zijn aan de verplichtingen, vermeld in artikel 3.12.3.0.1, § 1, 4°, en § 5, vierde lid.
+Om de vrijstelling, vermeld in het eerste lid, 2°, te verkrijgen, moet voldaan zijn aan de verplichtingen, vermeld in artikel 3.12.3.0.1, § 1 en § 5, zesde lid.
 
 ### ART. 2.10.6.0.2.
 
@@ -4799,6 +4907,10 @@ Er wordt een vrijstelling van het recht op hypotheekvestiging verleend voor elke
 ### ART. 2.11.6.0.2.
 
 Er wordt een vrijstelling van het recht op hypotheekvestiging verleend   voor de gewaarborgde verbintenis die voortvloeit uit een overeenkomst waarop een   registratiebelasting van minstens 1% is geheven.
+
+### ART 2.11.6.0.3.
+
+Er wordt een vrijstelling van het recht op hypotheekvestiging verleend voor de akten in der minne die betrekking hebben op onroerende goederen die uitsluitend bestemd zijn voor onderwijs, en die verleden zijn op naam van of ten voordele van de inrichtende machten van het gemeenschapsonderwijs of het gesubsidieerd onderwijs, of op naam van of ten voordele van verenigingen zonder winstoogmerk voor patrimoniaal beheer die uitsluitend tot doel hebben onroerende goederen ter beschikking te stellen voor onderwijs dat door de voormelde inrichtende machten wordt verstrekt.
 
 ## [Afdeling 7. Wijze van heffing (ing. Decr. 19 december 2014, art. 206, I: 1 januari 2015)]
 
@@ -5101,7 +5213,7 @@ De belasting wordt gevestigd op zicht van de aangifte, vermeld in artikel 3.3.1.
 
 ### ART 2.13.7.0.2.
 
-Met uitzondering van afdeling 5 en afdeling 6, is dit hoofdstuk niet van toepassing op de automatische ontspanningstoestellen waarvan de exploitatie is verboden krachtens artikel 4, 7 en 8 van de Kansspelwet van 7 mei 1999.
+Afdeling 5 en 6 van dit hoofdstuk zijn niet van toepassing op de automatische ontspanningstoestellen waarvan de exploitatie is verboden krachtens artikel 4, 7 en 8 van de Kansspelwet van 7 mei 1999.
 
 ## TITEL 3 Inning en invordering
 
@@ -5217,7 +5329,7 @@ De Vlaamse Regering kan de regels bepalen voor de inkohiering ten laste   van ov
 
 ### ART. 3.2.4.0.1.
 
-Als een vennootschap wordt overgenomen of gesplitst in het kader van een   fusie, een aan een fusie gelijkgestelde verrichting of een splitsing als vermeld   in artikel 671 tot en met 677 van het Wetboek van Vennootschappen, of een   soortgelijke vennootschapsrechtelijke verrichting onder buitenlands recht, kan   de aanslag die betrekking heeft op belastbare feiten die dateren van vóór de   vermelde verrichting, binnen de termijnen, bepaald in dit hoofdstuk, gevestigd   worden op naam van de overnemende vennootschap of de verkrijgende   vennootschappen, zelfs op een tijdstip waarop de overgenomen of gesplitste   vennootschap als rechtspersoon niet langer bestaat.<BR>
+Als een vennootschap wordt overgenomen of gesplitst in het kader van een fusie, een aan een fusie gelijkgestelde verrichting of een splitsing als vermeld in artikel 12:2 tot en met 12:8 van het Wetboek van vennootschappen en verenigingen, of een soortgelijke vennootschapsrechtelijke verrichting onder buitenlands recht, kan de aanslag die betrekking heeft op belastbare feiten die dateren van vóór de vermelde verrichting, binnen de termijnen, bepaald in dit hoofdstuk, gevestigd worden op naam van de overnemende vennootschap of de verkrijgende vennootschappen, zelfs op een tijdstip waarop de overgenomen of gesplitste vennootschap als rechtspersoon niet langer bestaat.
 
 ## Afdeling 5 Berekening en afrondingswijze
 
@@ -5307,16 +5419,16 @@ Met behoud van de toepassing van artikel 3.18.0.0.6, § 2, kan de   aangifteterm
 8° de nauwkeurige aanduiding en raming van elk goed afzonderlijk dat deel uitmaakt van het belastbare actief, alsook de vermelding van de kadastrale afdeling, het kadastraal perceel en de ligging als het een onroerend goed betreft. Als de erfgenamen, algemene legatarissen en begiftigden en iedereen die ertoe gehouden is een aangifte van nalatenschap in te dienen met toepassing van artikel 3.3.1.0.9/1, een schatter-expert aanstellen om een schatting te maken van het geheel of een deel van de onroerende goederen die zich in België bevinden en die voor hun verkoopwaarde moeten of kunnen worden aangegeven, wordt het deskundige schattingsverslag bij de aangifte van nalatenschap gevoegd;<br>
 9° voor alle polissen die op de dag van het overlijden van kracht waren met betrekking tot lichamelijke roerende goederen : de naam of de firma en het domicilie van de verzekeraar, de datum van de polis en het nummer ervan, alsook de verzekerde goederen en de verzekerde waarde als de door de erflater nagelaten lichamelijk roerende goederen verzekerd waren tegen brand, diefstal of een ander risico. Er moet ook uitdrukkelijk bevestigd worden dat, voor zover de aangevers weten, de goederen niet het voorwerp van andere polissen uitmaakten. Als de goederen in kwestie niet verzekerd waren op de dag van het overlijden, moet dat uitdrukkelijk in de aangifte bevestigd worden;<br>
 10° behoudens als toepassing wordt gemaakt van artikel 2.7.3.4.2, eerste lid, de aanduiding van iedere schuld die in mindering van het belastbare actief toegelaten kan worden, met opgave van de voornamen, de achternaam en het domicilie van de schuldeiser, van de oorzaak van de schuld en van de datum van de akte, als er een bestaat. Als de afwijking, vermeld in artikel 2.7.4.1.1, § 2, derde lid, van toepassing is, moet bij de schulden die specifiek zijn aangegaan om de gezinswoning te verwerven of te behouden, uitdrukkelijk worden vermeld dat ze met dat doel zijn aangegaan;<br>
-11° het actief en het passief van de gemeenschap in geval van toepassing van artikel 3.3.1.0.5, § 1, derde lid;<br>
+11°...;<br>
 12° de begunstigde persoon, alsook de datum van de akten of aangiften, en de grondslag waarop het registratierecht is of moet worden geheven als de erflater ten bate van zijn erfgenamen, legatarissen of begiftigden schenkingen heeft gedaan die vastgesteld zijn door akten, die dagtekenen van minder dan drie jaar vóór de datum van het overlijden en die vóór dezelfde datum tot de formaliteit van de registratie aangeboden zijn of verplicht registreerbaar geworden zijn. Ongeacht de datum van de akte geldt deze regel ook als de schenking gedaan is onder een opschortende voorwaarde die vervuld is ingevolge het overlijden van de schenker of minder dan drie jaar vóór dat overlijden;<br>
 13° als de erflater het vruchtgebruik van goederen gehad heeft of met fideï-commis bezwaarde goederen verkregen heeft : welke die goederen zijn, met aanduiding van de personen die tot het genot van de volle eigendom zijn gekomen of voordeel getrokken hebben uit het fideï-commis ten gevolge van het overlijden van de erflater;<br>
 14° met aanduiding van de betrokken persoon of de betrokken goederen, de vraag tot toepassing van :<br>
 a) het abattement, vermeld in artikel 2.7.3.2.12;<br>
 b) het verlaagde tarief, vermeld in artikel 2.7.4.2.2. In voorkomend geval moet bij de aangifte de volgende informatie gevoegd worden :<br>
-1) de benaming en het ondernemingsnummer van de familiale onderneming of familiale vennootschap waarvoor het voordeel gevraagd wordt;<br>
+1) de naam en het ondernemingsnummer van de familiale onderneming of familiale vennootschap waarvoor het voordeel gevraagd wordt;<br>
 2) de voornaam en de achternaam van de medeaandeelhouders van de erflater en hun graad van verwantschap met de erflater;<br>
 3) hetzij de activa van de familiale onderneming met een duidelijke omschrijving en verwijzing naar de boekhouding en, als het onroerende goederen betreft, de vermelding of ze al dan niet hoofdzakelijk voor bewoning worden aangewend of zijn bestemd, hetzij het aantal aandelen en de precieze aard van alle aandelen van een familiale vennootschap met enerzijds de vermelding van het aantal aandelen dat in het bezit was van de erflater en van andere bij naam te noemen medeaandeelhouders, alsook met het percentage van de stemrechten dat zij vertegenwoordigen, en anderzijds de aard van het zakelijk recht dat de erflater en andere bij naam te noemen personen bezitten;<br>
-4) kopieën van de goedgekeurde jaarrekeningen van de drie boekjaren die voorafgaan aan het overlijden van de erflater, opgemaakt overeenkomstig de vigerende boekhoudwetgeving van de plaats waar de maatschappelijke zetel gevestigd is als de maatschappelijke zetel van de onderneming of vennootschap niet in België ligt;<br>
+4) kopieën van de goedgekeurde jaarrekeningen van de drie boekjaren die voorafgaan aan het overlijden van de erflater, opgemaakt overeenkomstig de vigerende boekhoudwetgeving van de plaats waar de zetel gevestigd is als de zetel van de onderneming of vennootschap niet in België ligt;<br>
 5) kopieën van het rechtsgeldige aandelenregister of, bij gebrek daaraan, de door alle aandeelhouders ondertekende notulen van de laatste algemene vergadering die voorafgaat aan het overlijden van de erflater, waaruit op ondubbelzinnige wijze de participaties blijken, vermeld in artikel 2.7.4.2.2, § 1, eerste lid, 2°, of tweede lid;<br>
 6) een kopie van de laatste voor het overlijden door de erflater ingediende fiscale aangifte voor de personenbelasting wat familiale ondernemingen betreft;<br>
 7) een kopie van de gecoördineerde statuten, zoals van toepassing op de dag van het overlijden;<br>
@@ -5329,6 +5441,7 @@ h) ...;<br>
 i) de vrijstelling, vermeld in artikel 2.7.6.0.4;<br>
 j) de vrijstelling, vermeld in artikel 2.7.4.1.1, § 2, derde lid;<br>
 k) de vrijstelling, vermeld in artikel 2.7.6.0.5. In voorkomend geval moeten de verzoekers in de aangifte verklaren dat ze kennis hebben van het bepaalde in artikel 16septiesdecies, eerste lid, 1°, en het tweede tot en met het vierde lid van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu. In voorkomend geval wordt hetzij een afschrift van de beslissing tot goedkeuring van het natuurbeheerplan, vermeld in artikel 16octies, § 1, eerste lid, 5°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, hetzij een afschrift van de overeenkomst, vermeld in artikel 2.7.6.0.5, § 2, tweede lid, gevoegd bij de aangifte;<br>
+m) de vrijstelling, vermeld in artikel 2.7.6.0.6, § 1;<br>
 15° in voorkomend geval de erfovereenkomst, vermeld in artikel 1100/7 van het Burgerlijk Wetboek. In dat geval wordt een kopie van die notariële erfovereenkomst bij de aangifte gevoegd;<br>
 16° in voorkomend geval de verkrijgingen van vruchtgebruik met toepassing van artikel 858bis van het Burgerlijk Wetboek. In dat geval wordt een kopie van de akte van schenking bij de aangifte gevoegd. In geval van verzaking aan het vruchtgebruik op een ander tijdstip wordt het stuk gevoegd waaruit die verzaking blijkt;<br>
 17° in voorkomend geval welke schenkingen, levensverzekeringen en legaten aan inbreng of inkorting zijn onderworpen en in bevestigend geval op welke wijze de inbreng of inkorting gebeurt.<br>
@@ -5366,7 +5479,9 @@ De bevoegde entiteit van de Vlaamse administratie bevestigt de ontvangst van de 
 <br>
 Als de bevoegde entiteit van de Vlaamse administratie een plaatsbezoek noodzakelijk acht, worden de aanvragers ingelicht over de datum en het uur waarop dat plaatsbezoek zal plaatsvinden.<br>
 <br>
-Het gemotiveerde resultaat van de schatting wordt schriftelijk ter kennis gebracht van de aanvragers. De schatting is bindend voor de bevoegde entiteit van de Vlaamse administratie en zal bijgevolg gebruikt worden voor de berekening van de erfbelasting.
+Het gemotiveerde resultaat van de schatting wordt schriftelijk ter kennis gebracht van de aanvragers. De schatting is bindend voor de bevoegde entiteit van de Vlaamse administratie en zal bijgevolg gebruikt worden voor de berekening van de erfbelasting.<br>
+<br>
+De aanvraag tot schatting, vermeld in dit artikel, heeft voor de aanvrager tot gevolg dat het bindende karakter van de schatting, vermeld in artikel 3.3.1.0.9/1, vervalt voor hetzelfde onroerend goed.
 
 ### ART 3.3.1.0.9/1.
 
@@ -5467,7 +5582,7 @@ De aangifteplicht die is bepaald in dit artikel geldt niet voor de van belasting
 
 ### ART 3.3.1.0.15.
 
-Voor de toepassing van titel 2, hoofdstuk 12, dient de belastingplichtige de eerste werkdag van de maand bij de bevoegde entiteit van de Vlaamse administratie een aangifte in voor de verrichtingen die gerealiseerd zijn in de vorige maand.<br>
+Voor de toepassing van titel 2, hoofdstuk 12, dient de belastingplichtige uiterlijk de vijfde werkdag van de maand bij de bevoegde entiteit van de Vlaamse administratie een aangifte in voor de verrichtingen die gerealiseerd zijn in de vorige maand.<br>
 <br>
 De aangifte, vermeld in het eerste lid, vermeldt:<br>
 1° hetzij het identificatienummer uit het Rijksregister van de natuurlijke personen, hetzij het ondernemingsnummer dat bekend is bij de Kruispuntbank van Ondernemingen, hetzij het identificatienummer, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid, van de belastingplichtige;<br>
@@ -5590,7 +5705,11 @@ Het aanslagbiljet vermeldt :<BR>1° de verzendingsdatum;<BR>2° de datum van   u
 
 ### ART. 3.3.5.0.1.
 
-<P>De aanslagbiljetten worden in gesloten omslag aan de belastingschuldigen   toegezonden. <BR></P>  <P>Zodra de bevoegde entiteit van de Vlaamse administratie voor een bepaalde   belasting het daarvoor vereiste elektronische platform ter beschikking stelt,   kunnen de belastingschuldigen er evenwel voor opteren om de aanslagbiljetten   voor die belasting te ontvangen door middel van een procedure waarbij   informaticatechnieken worden gebruikt. De aanbieding via een dergelijke   procedure geldt als rechtsgeldige kennisgeving van het   aanslagbiljet.<BR></P>
+<p>De aanslagbiljetten worden in gesloten omslag aan de belastingschuldigen toegezonden.</p>
+
+<p>Zodra de bevoegde entiteit van de Vlaamse administratie voor een bepaalde belasting&nbsp;en voor een bepaald documenttype het daarvoor vereiste elektronische platform ter beschikking stelt, kunnen de belastingschuldigen&nbsp;of hun vertegenwoordigers er evenwel voor opteren om de aan hen verzonden aanslagbiljetten en de andere documenten over die belasting te ontvangen door middel van een procedure waarbij informaticatechnieken worden gebruikt. De aanbieding via een dergelijke procedure geldt als rechtsgeldige kennisgeving van het aanslagbiljet of van het document in kwestie.<br>
+<br>
+De Vlaamse Regering bepaalt de toepassingsmodaliteiten van de procedure, vermeld in het tweede lid.</p>
 
 ### ART. 3.3.5.0.2.
 
@@ -5752,7 +5871,9 @@ Als de belastingschuldige beroep kon aantekenen met toepassing van artikel 3.21 
 
 ### ART. 3.5.4.0.1.
 
-<P>Om de behandeling van het bezwaarschrift te verzekeren beschikt elk bevoegde   personeelslid over de bewijsmiddelen en de bevoegdheden die aan de administratie   verleend zijn met toepassing van artikel 3.13.1.1.1, 3.13.1.1.2, 3.13.1.1.3,   3.13.1.2.1 tot en met 3.13.1.2.5, 3.13.1.3.1 tot en met 3.13.1.3.6, 3.13.1.4.1,   3.13.1.4.2, 3.17.0.0.1 en 3.19.0.0.1.<BR></P>  <P>Bovendien kan hij, in het kader van dat bezwaarschrift, van de   kredietinstellingen die onderworpen zijn aan de wet van 22 maart 1993 op het   statuut van en het toezicht op de kredietinstellingen, alle inlichtingen   vorderen waarvan ze kennis hebben en die nuttig kunnen   zijn.<BR></P>
+<p>Om de behandeling van het bezwaarschrift te verzekeren beschikt elk bevoegde personeelslid over de bewijsmiddelen en de bevoegdheden die aan de administratie verleend zijn met toepassing van artikel 3.13.1.1.1, 3.13.1.1.2, 3.13.1.1.3, 3.13.1.2.1 tot en met 3.13.1.2.5, 3.13.1.3.1 tot en met 3.13.1.3.6, 3.13.1.4.1, 3.13.1.4.2, 3.17.0.0.1 en 3.19.0.0.1.</p>
+
+<p>Bovendien kan hij, in het kader van dat bezwaarschrift, van de kredietinstellingen die onderworpen zijn aan de wet van 25 april 2014 op het statuut van en het toezicht op kredietinstellingen en beursvennootschappen, alle inlichtingen vorderen waarvan ze kennis hebben en die nuttig kunnen zijn.</p>
 
 ### ART. 3.5.4.0.2.
 
@@ -5897,7 +6018,21 @@ Een aanslag kan door het bevoegde personeelslid nietig verklaard worden   omdat 
 
 ### ART. 3.7.0.0.2.
 
-<P>§ 1. Als een aanslag nietig verklaard is omdat hij niet is gevestigd   overeenkomstig een wettelijke regel, met uitzondering van een regel over de   verjaring, kan de bevoegde entiteit van de Vlaamse administratie, zelfs als de   termijn om de aanslag te vestigen al verlopen is, op naam van dezelfde   belastingplichtige, op grond van dezelfde belastingelementen of op een gedeelte   ervan, een nieuwe aanslag vestigen binnen drie maanden vanaf de datum waarop de   beslissing van het bevoegde personeelslid niet meer voor de rechter kan worden   gebracht.<BR></P>  <P>§ 2. Als tegen een beslissing van het bevoegde personeelslid een vordering in   rechte is ingesteld en de rechter de aanslag geheel of ten dele nietig   verklaart, om een andere reden dan verjaring, blijft de zaak gedurende een   termijn van zes maanden vanaf de rechterlijke beslissing ingeschreven op de rol.   Gedurende die termijn van zes maanden die de termijnen om verzet of hoger beroep   aan te tekenen of om een voorziening in cassatie in te dienen schorst, kan de   bevoegde entiteit van de Vlaamse administratie een subsidiaire aanslag door   middel van conclusies aan het oordeel van de rechter onderwerpen op naam van   dezelfde belastingschuldige en op grond van dezelfde belastingelementen als in   de initiële aanslag of op grond van een deel van die belastingelementen.<BR></P>  <P>Als de bevoegde entiteit van de Vlaamse administratie binnen de termijn van   zes maanden een subsidiaire aanslag aan de rechter voorlegt, beginnen, in   afwijking van het eerste lid, de termijnen om verzet of hoger beroep aan te   tekenen of om een voorziening in cassatie in te dienen, te lopen vanaf de   betekening van de rechterlijke beslissing over de subsidiaire aanslag.<BR></P>  <P>De subsidiaire aanslag is alleen invorderbaar of terugbetaalbaar ter   uitvoering van de rechterlijke beslissing.<BR></P>  <P>Als de subsidiaire aanslag gevestigd wordt voor een met toepassing van   paragraaf 3 gelijkgestelde belastingplichtige, wordt die aanslag aan de rechter   onderworpen door een aan de gelijkgestelde belastingschuldige betekend   verzoekschrift met dagvaarding om te verschijnen.<BR></P>  <P>§ 3. De volgende personen worden gelijkgesteld met dezelfde   belastingplichtige :<BR>1° de erfgenamen van de belastingplichtige;<BR>2° zijn   echtgenoot of wettelijk samenwonende en de huwgemeenschap;<BR>3° de overnemende   of de verkrijgende vennootschappen, naargelang het geval.<BR></P>
+<p>§ 1. Als een aanslag nietig verklaard is omdat hij niet is gevestigd overeenkomstig een wettelijke regel, met uitzondering van een regel over de verjaring, kan de bevoegde entiteit van de Vlaamse administratie, zelfs als de termijn om de aanslag te vestigen al verlopen is, op naam van dezelfde belastingplichtige, op grond van dezelfde belastingelementen of op een gedeelte ervan, een nieuwe aanslag vestigen binnen drie maanden vanaf de datum waarop de beslissing van het bevoegde personeelslid niet meer voor de rechter kan worden gebracht.</p>
+
+<p>§ 2. Als tegen een beslissing van het bevoegde personeelslid een vordering in rechte is ingesteld en de rechter de aanslag geheel of ten dele nietig verklaart, om een andere reden dan verjaring, blijft de zaak gedurende een termijn van zes maanden vanaf de rechterlijke beslissing ingeschreven op de rol. Gedurende die termijn van zes maanden die de termijnen om verzet of hoger beroep aan te tekenen of om een voorziening in cassatie in te dienen schorst, kan de bevoegde entiteit van de Vlaamse administratie een subsidiaire aanslag door middel van conclusies aan het oordeel van de rechter onderwerpen op naam van dezelfde belastingschuldige en op grond van dezelfde belastingelementen als in de initiële aanslag of op grond van een deel van die belastingelementen.</p>
+
+<p>Als de bevoegde entiteit van de Vlaamse administratie binnen de termijn van zes maanden een subsidiaire aanslag aan de rechter voorlegt, beginnen, in afwijking van het eerste lid, de termijnen om verzet of hoger beroep aan te tekenen of om een voorziening in cassatie in te dienen, te lopen vanaf de betekening van de rechterlijke beslissing over de subsidiaire aanslag.</p>
+
+<p>De subsidiaire aanslag is alleen invorderbaar of terugbetaalbaar ter uitvoering van de rechterlijke beslissing.</p>
+
+<p>Als de subsidiaire aanslag gevestigd wordt voor een met toepassing van paragraaf 3 gelijkgestelde belastingplichtige, wordt die aanslag aan de rechter onderworpen door een aan de gelijkgestelde belastingschuldige betekend verzoekschrift met dagvaarding om te verschijnen.</p>
+
+<p>§ 3. De volgende personen worden gelijkgesteld met dezelfde belastingplichtige :<br>
+1° de erfgenamen van de belastingplichtige;<br>
+2° zijn echtgenoot of wettelijk samenwonende en de huwgemeenschap;<br>
+3° de overnemende of de verkrijgende vennootschappen, naargelang het geval;<br>
+4° de vereffenaar van de rechtspersoon waarvan de vereffening gesloten is, in die hoedanigheid of, bij afwezigheid daarvan, de personen die beschouwd worden als vereffenaar krachtens deel 1, boek 2, titel 8, van het Wetboek van vennootschappen en verenigingen, gedurende de periode, vermeld in artikel 2:143 van het voormelde wetboek.</p>
 
 ## Hoofdstuk 8 Gerechtelijk beroep
 
@@ -5989,7 +6124,7 @@ De met erfstelling bezwaarde erfgenaam die de aangifte in het geval, vermeld in 
 
 ### ART. 3.10.3.1.3.
 
-Als een legaat ten behoeve van een rechtspersoon met statutaire zetel,   hoofdbestuur of hoofdvestiging op het grondgebied van een staat van de Europese   Economische Ruimte aan een machtiging of aan een goedkeuring van de overheid   onderworpen is, wordt inzake de erfbelasting, op schriftelijk verzoek van de   rechtspersoon, de invordering van de belastingen en toebehoren, verschuldigd   door die rechtspersoon, geschorst gedurende twee maanden.
+Als een legaat ten behoeve van een rechtspersoon met zetel, hoofdbestuur of hoofdvestiging op het grondgebied van een staat van de Europese Economische Ruimte aan een machtiging of aan een goedkeuring van de overheid onderworpen is, wordt inzake de erfbelasting, op schriftelijk verzoek van de rechtspersoon, de invordering van de belastingen en toebehoren, verschuldigd door die rechtspersoon, geschorst gedurende twee maanden.
 
 ### ART. 3.10.3.1.4.
 
@@ -6009,7 +6144,7 @@ In geval van toepassing van artikel 2.8.4.2.3, tweede lid, zijn de   schenker en
 
 ### ART. 3.10.3.1.8.
 
-Als de verklaring over de uitbating van de geruilde onroerende goederen,   vermeld in artikel 3.12.3.0.1, § 3, vierde lid, onjuist wordt bevonden, zijn de   partijen hoofdelijk gehouden tot de betaling van de aanvullende   rechten.
+Als de verklaring over de uitbating van de geruilde onroerende goederen, vermeld in artikel 3.12.3.0.1, § 3, derde lid, onjuist wordt bevonden, zijn de partijen hoofdelijk gehouden tot de betaling van de aanvullende rechten.
 
 ## Onderafdeling 2 Rechtstreekse vervolging
 
@@ -6067,11 +6202,11 @@ De Vlaamse Regering kan bepalen welke personen belast zijn met vervolging   en w
 
 ### ART. 3.10.4.2.1.
 
-&nbsp;De invordering van de belasting die gevestigd is op naam van de   vennoten of leden van de burgerlijke vennootschappen en verenigingen zonder   rechtspersoonlijkheid, kan rechtstreeks ten laste van de burgerlijke   vennootschap of vereniging worden vervolgd als die belasting proportioneel   overeenstemt met het aandeel van de vennoten of leden in de niet-uitgekeerde   winst of baten van die vennootschappen of verenigingen.<BR>
+De invordering van de belasting die gevestigd is op naam van de vennoten van vennootschappen zonder rechtspersoonlijkheid of van de leden van verenigingen zonder rechtspersoonlijkheid, kan rechtstreeks ten laste van de vennootschap of de vereniging worden vervolgd als die belasting proportioneel overeenstemt met het aandeel van de vennoten of leden in de niet-uitgekeerde winst of baten van die vennootschappen of verenigingen.
 
 ### ART. 3.10.4.2.2.
 
-De invordering van de belasting van een met toepassing van artikel 673 tot   en met 675 van het Wetboek van vennootschappen of van een gelijkaardige   vennootschapsrechtelijke verrichting onder buitenlands recht gesplitste   vennootschap die gevestigd is op naam van de verkrijgende vennootschappen, kan,   behalve in geval van afwijkende vermeldingen in de akte die de verrichting   vaststelt, worden verricht op naam van iedere verkrijgende vennootschap. Elke   verkrijgende vennootschap is hoofdelijk gehouden tot betaling van de   belasting.<BR>
+De invordering van de belasting van een met toepassing van artikel 12:4 tot en met 12:6 van het Wetboek van vennootschappen en verenigingen of van een gelijkaardige vennootschapsrechtelijke verrichting onder buitenlands recht gesplitste vennootschap die gevestigd is op naam van de verkrijgende vennootschappen, kan, behalve in geval van afwijkende vermeldingen in de akte die de verrichting vaststelt, worden verricht op naam van iedere verkrijgende vennootschap. Elke verkrijgende vennootschap is hoofdelijk gehouden tot betaling van de belasting.
 
 ## Onderafdeling 3 Invordering bij erfgenamen
 
@@ -6142,7 +6277,7 @@ Het stellen van een zakelijke zekerheid of van een persoonlijke borg als   verme
 
 ### ART. 3.10.5.1.3.
 
-Wat de registratiebelasting betreft, moeten de personen die hun beroep   maken van het kopen en verkopen van onroerende goederen, op eigen kosten   zekerheid stellen voor de invordering van de sommen die bij de toepassing van   artikel 2.9.4.2.4, § 4, artikel 2.9.4.2.5, artikel 2.9.4.2.6 en artikel   3.18.0.0.11, eerste lid, 8° en 9° vorderbaar kunnen worden om het verlaagde   tarief, vermeld in artikel 2.9.4.2.4, § 1, te kunnen genieten.<BR><BR>Als de   zekerheid, vermeld in het eerste lid, ontoereikend wordt, moet de betrokken   beroepspersoon, binnen de door het bevoegde personeelslid vastgestelde termijn,   een aanvullende zekerheid stellen.<BR><BR>Het bevoegde personeelslid bepaalt de   aard en het bedrag van de zekerheid, vermeld in het eerste lid, of van de   aanvullende zekerheid, vermeld in het tweede lid. Die zekerheid moet gesteld   worden onder de door het bevoegde personeelslid bepaalde voorwaarden en mag niet   minder dan 5000 euro bedragen.
+...
 
 ## Onderafdeling 2 Voorrecht
 
@@ -6156,7 +6291,7 @@ Wat de registratiebelasting betreft, moeten de personen die hun beroep   maken v
 
 ### ART. 3.10.5.2.3.
 
-Inzake de registratiebelasting heeft het Vlaamse Gewest, voor de   invordering van de belastingen en toebehoren, die eisbaar worden uit hoofde van   titel 2, hoofdstuk 8 tot en met hoofdstuk 11, een voorrecht op de sommen en   waarden die het voorwerp uitmaken van de veroordeling, verreffening of   rangregeling.<BR><BR>De belastingen en toebehoren, vermeld in het eerste lid,   gaan boven alle schuldvorderingen van de begunstigden van de veroordelingen,   vereffeningen of rangregelingen.
+...
 
 ## Onderafdeling 3 Wettelijke hypotheek
 
@@ -6268,7 +6403,9 @@ Artikel 3.12.1.0.1 tot en met 3.12.1.0.6 zijn van toepassing op elke   persoon d
 
 ### ART. 3.12.1.0.8.
 
-<P>Met het akkoord van de belastingschuldige zijn de banken, onderworpen aan de   wet van 22 maart 1993 op het statuut van en het toezicht op de   kredietinstellingen, de ondernemingen, onderworpen aan het koninklijk besluit   nr. 225 van 7 januari 1936 tot reglementering van de hypothecaire leningen en   tot inrichting van de controle op de ondernemingen van hypothecaire leningen, en   de hypotheekondernemingen, onderworpen aan de wet van 4 augustus 1992 op het   hypothecair krediet, gemachtigd het bericht, vermeld in artikel 3.12.1.0.1, toe   te sturen en in staat om de kennisgeving, vermeld in artikel 3.12.1.0.2, te   ontvangen.<BR></P>  <P>De afgifte door die instellingen van een attest aan de notaris betreffende de   verzending van het bericht en het gevolg dat daaraan gegeven wordt door de   bevoegde personeelsleden, stelt de aansprakelijkheid van die instellingen in de   plaats van die van de notaris.<BR></P>
+<p>Met het akkoord van de belastingschuldige zijn de banken die onderworpen zijn aan de wet van 25 april 2014 op het statuut van en het toezicht op kredietinstellingen en beursvennootschappen, en ook de kredietgevers en bemiddelaars inzake hypothecair krediet die onderworpen zijn aan boek VII, titel 4, hoofdstuk 4, van het Wetboek van economisch recht, gemachtigd het bericht, vermeld in artikel 3.12.1.0.1, toe te sturen en in staat om de kennisgeving, vermeld in artikel 3.12.1.0.2, te ontvangen.</p>
+
+<p>De afgifte door die instellingen van een attest aan de notaris betreffende de verzending van het bericht en het gevolg dat daaraan gegeven wordt door de bevoegde personeelsleden, stelt de aansprakelijkheid van die instellingen in de plaats van die van de notaris.</p>
 
 ### ART. 3.12.1.0.9.
 
@@ -6312,19 +6449,19 @@ De aansprakelijkheid door de openbare ambtenaren en ministeriële   officieren, 
 
 ### ART. 3.12.1.0.14.
 
-<p>§ 1. Met behoud van de toepassing van artikel 3.12.1.0.1 tot en met 3.12.1.0.8 is de overdracht in eigendom of in vruchtgebruik van een geheel van goederen, samengesteld uit onder meer elementen die het behoud van de clientèle mogelijk maken, die voor de uitoefening van een vrij beroep, ambt of post of een industrieel, handels- of landbouwbedrijf worden aangewend, alsook de vestiging van een vruchtgebruik op dezelfde goederen, pas tegenstelbaar aan de bevoegde personeelsleden na verloop van de maand die volgt op de maand waarin een eensluidend verklaard afschrift van de akte tot overdracht of vestiging ter kennis is gebracht van het bevoegde personeelslid van de woonplaats of van de maatschappelijke zetel van de overdrager.</p>
+<p>§ 1. Met behoud van de toepassing van artikel 3.12.1.0.1 tot en met 3.12.1.0.8 is de overdracht in eigendom of in vruchtgebruik van een geheel van goederen, samengesteld uit onder meer elementen die het behoud van de clientèle mogelijk maken, die voor de uitoefening van een vrij beroep, ambt of post of een industrieel, handels- of landbouwbedrijf worden aangewend, alsook de vestiging van een vruchtgebruik op dezelfde goederen, pas tegenstelbaar aan de bevoegde personeelsleden na verloop van de maand die volgt op de maand waarin een eensluidend verklaard afschrift van de akte tot overdracht of vestiging ter kennis is gebracht van het bevoegde personeelslid van de woonplaats of van de&nbsp;zetel van de overdrager.</p>
 
 <p>§ 2. De overnemer is hoofdelijk aansprakelijk voor de betaling van de belastingschulden, verschuldigd door de overdrager na verloop van de termijn, vermeld in paragraaf 1, voor het bedrag dat al door hem is betaald of verstrekt, of voor een bedrag dat overeenstemt met de nominale waarde van de aandelen die in ruil voor de overdracht zijn toegekend vóór de afloop van de voormelde termijn.</p>
 
 <p>§ 3. Paragraaf 1 en 2 zijn niet van toepassing als de overdrager bij de akte van overdracht een certificaat voegt dat uitsluitend met dat doel is opgemaakt door het personeelslid, vermeld in paragraaf 1, binnen dertig dagen die voorafgaan aan de kennisgeving van de overeenkomst.</p>
 
-<p>De uitreiking van dat certificaat is afhankelijk van een aanvraag die de overdrager in tweevoud heeft ingediend bij het bevoegde personeelslid van de belastingen van de woonplaats of de maatschappelijke zetel van de overdrager.</p>
+<p>De uitreiking van dat certificaat is afhankelijk van een aanvraag die de overdrager in tweevoud heeft ingediend bij het bevoegde personeelslid van de belastingen van de woonplaats of de zetel van de overdrager.</p>
 
 <p>Het certificaat wordt geweigerd door het bevoegde personeelslid als de overdrager bedragen verschuldigd blijft als belastingen en toebehoren op de dag van de aanvraag of als de aanvraag is ingediend na de aankondiging van of tijdens een belastingonderzoek of na het verzenden van een verzoek om inlichtingen.</p>
 
 <p>Het certificaat wordt ofwel uitgereikt ofwel geweigerd binnen een termijn van dertig dagen na de indiening van de vraag van de overdrager.</p>
 
-<p>§ 4. De overdrachten die worden uitgevoerd door een curator, een gerechtsmandataris, belast met het organiseren en realiseren van een overdracht onder gerechtelijk gezag met toepassing van XX.85 van het Wetboek van Economisch Recht of in geval van fusie, splitsing, inbreng van de algemeenheid van goederen of van een tak van werkzaamheid, verricht overeenkomstig de bepalingen van het Wetboek van Vennootschappen, zijn niet onderworpen aan de bepalingen van dit artikel.</p>
+<p>§ 4. De overdrachten die worden uitgevoerd door een curator, een gerechtsmandataris, belast met het organiseren en realiseren van een overdracht onder gerechtelijk gezag met toepassing van XX.85 van het Wetboek van Economisch Recht of in geval van fusie, splitsing, inbreng van de algemeenheid van goederen of van een tak van werkzaamheid, verricht overeenkomstig de bepalingen van het Wetboek van vennootschappen en verenigingen, zijn niet onderworpen aan de bepalingen van dit artikel.</p>
 
 <p>§ 5. De Vlaamse Regering kan modellen vaststellen voor de aanvraag en het certificaat, vermeld in dit artikel.</p>
 
@@ -6346,12 +6483,16 @@ Als openbare of private kredietinstellingen of -inrichtingen kredieten,   lening
 1° de voorwaarden van het abattement, vermeld in artikel 2.8.3.0.4, vervuld zijn;<br>
 2° de voorwaarden van het verlaagde tarief dat ze willen verkrijgen, vervuld zijn;<br>
 3° de voorwaarden van hetzij de vermindering, hetzij de vrijstelling die ze willen verkrijgen, vervuld zijn of vervuld zullen worden;<br>
-4° ze de toepassing vragen van artikel 2.8.6.0.3, artikel 2.8.6.0.9, artikel 2.9.4.2.10, artikel 2.9.4.2.11, artikel 2.9.4.2.12, artikel 2.9.4.2.13, artikel 2.9.4.2.14, artikel 2.9.5.0.1, artikel 2.9.6.0.1, eerste lid, 4°, artikel 2.9.6.0.2, artikel 2.10.4.0.1, tweede lid, artikel 2.10.6.0.1, eerste lid, 2°, of artikel 2.10.6.0.2;<br>
+4° ze de toepassing vragen van artikel 2.8.6.0.3, artikel 2.8.6.0.8, artikel 2.8.6.0.9, artikel 2.9.4.2.10, artikel 2.9.4.2.11, artikel 2.9.4.2.12, artikel 2.9.4.2.13, artikel 2.9.4.2.14, artikel 2.9.5.0.1, artikel 2.9.6.0.1, eerste lid, 4°, artikel 2.9.6.0.2,&nbsp;artikel 2.9.6.0.7, artikel 2.10.4.0.1, tweede lid, artikel 2.10.6.0.1, eerste lid, 2°, of artikel 2.10.6.0.2;<br>
 5° het geschonken onroerend goed een beschermd monument is en dat het voornemen bestaat toepassing te vragen van artikel 2.8.4.4.1.<br>
 <br>
 § 2. Als partijen de toepassing vragen van het abattement, vermeld in artikel 2.10.3.0.2, maken ze ook melding van het aantal kinderen die recht geven op een verhoging van het bedrag, vermeld in dat artikel, met vermelding van hun naam, geboortedatum en afstammingsband.<br>
 <br>
-§ 3. Voor de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.4, moet de verklaring, vermeld in paragraaf 1, vóór de registratie door de verkrijger of, in zijn naam, door de notaris zijn ondertekend.<br>
+§ 3. Als de partijen de toepassing van het tarief, vermeld in artikel 2.8.4.4.1, § 1, van deze codex, inroepen, is vereist dat de volgende elementen in de verklaring, vermeld in paragraaf 1, worden vermeld:<br>
+1° het goedgekeurde beheersplan, vermeld in artikel 2.8.4.4.1, § 1, eerste lid, 2°, van deze codex, met opgave van de referentie en ook de datum van de goedkeuring van het beheersplan door het agentschap, vermeld in artikel 2.1, 2°, van het Onroerenderfgoeddecreet van 12 juli 2013. Als het beheersplan nog niet is opgemaakt en goedgekeurd op het moment waarop de authentieke akte van schenking wordt verleden, wordt in de verklaring vermeld dat er een beheersplan opgemaakt zal worden als vermeld in artikel 8.1.1 tot en met 8.1.3 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+2° het feit dat ze op de hoogte zijn van de bepalingen, vermeld in artikel 10.5.2 van het Onroerenderfgoeddecreet van 12 juli 2013.<br>
+<br>
+Voor de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.4, moet de verklaring, vermeld in paragraaf 1, vóór de registratie door de verkrijger of, in zijn naam, door de notaris zijn ondertekend.<br>
 <br>
 Als partijen de toepassing vragen van het verlaagde tarief, vermeld in artikel 2.9.4.2.8, is vereist dat :<br>
 1° de verkoopwaarde van elke kavel door de partijen wordt aangegeven, hetzij in de akte, hetzij onderaan op de akte, vóór de registratie;<br>
@@ -6399,12 +6540,12 @@ Als de vermindering wordt gevraagd met toepassing van artikel 2.9.5.0.1, vierde 
 Aan de toepassing van paragraaf 1, 3°, juncto artikel 2.9.5.0.2 kan ook voldaan zijn als het verzoek en de vermeldingen het voorwerp uitmaken van een verzoek, ondertekend door de natuurlijke persoon, dat gevoegd is bij de akte die of het geschrift dat ter registratie aangeboden is en dat aanleiding geeft tot de heffing van het verkooprecht.<br>
 <br>
 § 5. Als partijen de toepassing vragen van de vrijstelling, vermeld in artikel 2.8.6.0.3, en als de schenking ook andere goederen omvat dan de goederen, vermeld in artikel 2.8.6.0.3, § 1, geven ze nauwkeurig aan voor welke van de geschonken goederen die deel uitmaken van de familiale onderneming of van het aandelenpakket van de familiale vennootschap, de toepassing van de vrijstelling gevraagd wordt, en voor welke van de geschonken goederen geen toepassing van de vrijstelling gevraagd wordt. Daarnaast moet melding gemaakt worden van :<br>
-1° de benaming en het ondernemingsnummer van de familiale onderneming of familiale vennootschap waarvoor de vrijstelling gevraagd wordt;<br>
+1° de naam en het ondernemingsnummer van de familiale onderneming of familiale vennootschap waarvoor de vrijstelling gevraagd wordt;<br>
 2° in voorkomend geval, de voornaam en achternaam van de medeaandeelhouders van de schenker en hun graad van verwantschap met de schenker;<br>
 3° hetzij de activa van de familiale onderneming met een duidelijke omschrijving en verwijzing naar de boekhouding en, als het onroerende goederen betreft, de vermelding of ze al dan niet hoofdzakelijk voor bewoning worden aangewend of zijn bestemd, hetzij het aantal aandelen en de precieze aard van alle aandelen van een familiale vennootschap met enerzijds de vermelding van het aantal aandelen dat in het bezit was van de schenker en van andere bij naam te noemen mede-aandeelhouders,&nbsp;alsook met het percentage van de stemrechten dat zij vertegenwoordigen, en anderzijds de aard van het zakelijk recht dat de schenker en andere bij naam te noemen personen bezitten.<br>
 <br>
 Als toepassing gemaakt wordt van het eerste lid, en om de vrijstelling, vermeld in artikel 2.8.6.0.3, te kunnen verkrijgen, moeten de volgende bescheiden binnen zeven dagen vanaf de werkdag die volgt op de datum van registratie van de authentieke akte van de schenking bij de bevoegde entiteit van de Vlaamse administratie ingediend zijn :<br>
-1° kopieën van de goedgekeurde jaarrekeningen van de drie boekjaren die voorafgaan aan de authentieke akte van de schenking, opgemaakt overeenkomstig de vigerende boekhoudwetgeving van de plaats waar de maatschappelijke zetel gevestigd is als de maatschappelijke zetel van de onderneming of vennootschap niet in België ligt;<br>
+1° kopieën van de goedgekeurde jaarrekeningen van de drie boekjaren die voorafgaan aan de authentieke akte van de schenking, opgemaakt overeenkomstig de vigerende boekhoudwetgeving van de plaats waar de zetel gevestigd is als de zetel van de onderneming of vennootschap niet in België ligt;<br>
 2° kopieën van het rechtsgeldige aandelenregister of, bij gebrek daaraan, de door alle aandeelhouders ondertekende notulen van de laatste algemene vergadering die voorafgaat aan de authentieke akte van schenking, waaruit op ondubbelzinnige wijze de participaties blijken, vermeld in artikel 2.8.6.0.3, § 1;<br>
 3° een kopie van de laatste door de schenker ingediende fiscale aangifte voor de personenbelasting wat familiale ondernemingen betreft;<br>
 4° een kopie van de gecoördineerde statuten, zoals die van toepassing zijn op de datum van de authentieke akte van de schenking.<br>
@@ -6447,7 +6588,17 @@ In geval van een schenking moet de notaris in de akte een verklaring van   de sc
 
 ### ART. 3.12.3.0.5.
 
-§ 1. Alle uitgiften, afschriften of uittreksels van een burgerlijke   authentieke akte die aan de registratie onderworpen is, moeten het bedrag en de   datum van betaling van de registratiebelasting vermelden.<BR><BR>§ 2. De   verplichting, vermeld in paragraaf 1, geldt niet voor :<BR>1° de uitgiften van   akten, verleden voor notarissen of bestuurlijke overheden, die aanleiding geven   tot het vervullen van een hypothecaire formaliteit;<BR>2° de uitgiften en   uittreksels van akten, verleden voor notarissen, die aanleiding geven tot   neerlegging op de griffie van de Rechtbank van Koophandel overeenkomstig artikel   67 van het Wetboek van Vennootschappen;<BR>3° de uitgiften en uittreksels van   akten, verleden voor notarissen, die worden uitgereikt met als enig doel de   inschrijving van een onderneming bij een ondernemingsloket, op voorwaarde dat   het uitdrukkelijk vermeld wordt op de uitgifte of het uittreksel;<BR>4°   afschriften die vereist zijn voor de betekening van exploten en van andere   soortgelijke akten;<BR>5° afschriften waarvan de aflevering wegens   hoogdringendheid is bevolen door de voorzitter van de rechtbank van eerste   aanleg;<BR>6° de gedematerialiseerde afschriften van notariële akten die worden   neergelegd in de Notariële Aktebank overeenkomstig artikel 18 van de wet van 25   ventôse jaar XI op het notarisambt;<BR>7° de uitgiften van akten, gemaakt met   het oog op de aanbieding ervan ter formaliteit van de registratie;<BR>8° de   uitgiften van akten, verleden door notarissen, vermeld in artikel 1394/1 van het   Gerechtelijk Wetboek, die ingevolge artikel 1394/18 van het Gerechtelijk Wetboek   aan het centraal bestand van vonnissen, arresten en akten houdende toekenning   van een onderhoudsuitkering moeten bezorgd worden.".
+§ 1. Alle uitgiften, afschriften of uittreksels van een burgerlijke authentieke akte die aan de registratie onderworpen is, moeten het bedrag en de datum van betaling van de registratiebelasting vermelden.<br>
+<br>
+§ 2. De verplichting, vermeld in paragraaf 1, geldt niet voor :<br>
+1° de uitgiften van akten, verleden voor notarissen of bestuurlijke overheden, die aanleiding geven tot het vervullen van een hypothecaire formaliteit;<br>
+2° de uitgiften en uittreksels van akten, verleden voor notarissen, die aanleiding geven tot neerlegging op de griffie van de Rechtbank van Koophandel overeenkomstig artikel 2:12 van het Wetboek van vennootschappen en verenigingen;<br>
+3° de uitgiften en uittreksels van akten, verleden voor notarissen, die worden uitgereikt met als enig doel de inschrijving van een onderneming bij een ondernemingsloket, op voorwaarde dat het uitdrukkelijk vermeld wordt op de uitgifte of het uittreksel;<br>
+4° afschriften die vereist zijn voor de betekening van exploten en van andere soortgelijke akten;<br>
+5° afschriften waarvan de aflevering wegens hoogdringendheid is bevolen door de voorzitter van de rechtbank van eerste aanleg;<br>
+6° de gedematerialiseerde afschriften van notariële akten die worden neergelegd in de Notariële Aktebank overeenkomstig artikel 18 van de wet van 25 ventôse jaar XI op het notarisambt;<br>
+7° de uitgiften van akten, gemaakt met het oog op de aanbieding ervan ter formaliteit van de registratie;<br>
+8° de uitgiften van akten, verleden door notarissen, vermeld in artikel 1394/1 van het Gerechtelijk Wetboek, die ingevolge artikel 1394/18 van het Gerechtelijk Wetboek aan het centraal bestand van vonnissen, arresten en akten houdende toekenning van een onderhoudsuitkering moeten bezorgd worden.".
 
 ### ART. 3.12.3.0.6.
 
@@ -6579,7 +6730,11 @@ De bevoegde entiteit van de Vlaamse administratie mag de juistheid nagaan   van 
 
 ### ART. 3.13.1.3.7.
 
-Artikel 96 tot en met artikel 99 en artikel 101 tot en met artikel 1032   van het federale Wetboek van Successierechten, en de ter uitvoering daarvan   genomen besluiten, blijven onverminderd van toepassing met het oog op de juiste   heffing en de invordering van het successierecht. De erin vermelde federale   belastingdiensten en federale belastingambtenaren behouden de bevoegdheden en   taken die uit die bepalingen voortvloeien.<BR><BR>De bestuursdiensten van de   staat bezorgen de aldus verkregen informatie overeenkomstig artikel 3.13.1.4.2   aan de bevoegde entiteit van de Vlaamse administratie.<BR><BR>De aangewezen   ambtenaar van de bestuursdienst van de staat moet het bevoegde personeelslid op   de hoogte brengen van de opmaak van de lijst of inventaris, vermeld in artikel   98, laatste lid, en artikel 101, eerste lid, van het federale Wetboek van   Successierechten. Het bevoegde personeelslid kan in voorkomend geval de opmaak   van de lijst of inventaris, vermeld in deze artikelen, bijwonen.
+Artikel 96 tot en met artikel 99 en artikel 101 tot en met artikel 103<sup>2</sup> van het federale Wetboek van Successierechten, en de ter uitvoering daarvan genomen besluiten, blijven onverminderd van toepassing met het oog op de juiste heffing en de invordering van het successierecht. De erin vermelde federale belastingdiensten en federale belastingambtenaren behouden de bevoegdheden en taken die uit die bepalingen voortvloeien.<br>
+<br>
+De bestuursdiensten van de staat bezorgen de aldus verkregen informatie overeenkomstig artikel 3.13.1.4.2 aan de bevoegde entiteit van de Vlaamse administratie.<br>
+<br>
+De aangewezen ambtenaar van de bestuursdienst van de staat moet het bevoegde personeelslid op de hoogte brengen van de opmaak van de lijst of inventaris, vermeld in artikel 98, laatste lid, en artikel 101, eerste lid, van het federale Wetboek van Successierechten. Het bevoegde personeelslid kan in voorkomend geval de opmaak van de lijst of inventaris, vermeld in deze artikelen, bijwonen.
 
 ## Onderafdeling 4 Plichten van openbare instellingen
 
@@ -6597,7 +6752,9 @@ Artikel 96 tot en met artikel 99 en artikel 101 tot en met artikel 1032   van he
 
 <p>Voor de verkeersbelasting, de belasting op de inverkeerstelling, het eurovignet en de kilometerheffing houden de bevoegde personeelsleden toezicht op de naleving van de bepalingen van deze codex en de uitvoeringsbesluiten ervan met betrekking tot de voertuigen die zich op de openbare weg bevinden. Ze kunnen alle documenten die nuttig zijn voor de identificatie van het voertuig of vaartuig, van de bestuurder of houder doen voorleggen, alsook een ander document dat de betaling van de belasting bewijst. Ze zijn gemachtigd zonder enige bijstand de garages, de hangars en de berg- of aanmeerplaatsen te onderzoeken.<br>
 <br>
-Voor de belasting op de spelen en weddenschappen en de belasting op de automatische ontspanningstoestellen houden de bevoegde personeelsleden toezicht op de naleving van de bepalingen van deze codex en de uitvoeringsbesluiten ervan op de plaatsen waar die spelen en weddenschappen plaatsvinden of de automatische ontspanningstoestellen opgesteld zijn.</p>
+Voor de belasting op de spelen en weddenschappen en de belasting op de automatische ontspanningstoestellen houden de bevoegde personeelsleden toezicht op de naleving van de bepalingen van deze codex en de uitvoeringsbesluiten ervan op de plaatsen waar die spelen en weddenschappen plaatsvinden of de automatische ontspanningstoestellen opgesteld zijn.<br>
+<br>
+De bevoegde personeelsleden die toezicht houden op de naleving van de bepalingen van deze codex en de uitvoeringsbesluiten ervan kunnen zich bij een controle ter plaatse alle documenten laten voorleggen die nuttig zijn voor de identificatie van de personen die aan de controle onderworpen zijn.</p>
 
 ### ART. 3.13.2.0.2.
 
@@ -6692,11 +6849,19 @@ De schorsing begint bij het opstarten van de strafvordering, en eindigt op een v
 
 ### ART. 3.15.1.0.1.
 
-<P>Overeenkomstig artikel 460 van het federale WIB 92 wordt de strafvordering   uitgeoefend door het Openbaar Ministerie.</P>  <P>Het Openbaar Ministerie kan echter geen vervolgingen instellen, indien het   kennis heeft gekregen van de feiten ten gevolge van een klacht of een aangifte   van het bevoegd personeelslid dat niet de machtiging had waarvan sprake is in   artikel 29, tweede lid, van het Wetboek van Strafvordering.</P>  <P>Het Openbaar Ministerie kan de strafrechtelijk strafbare feiten vervolgen   waarvan het tijdens het in artikel 29, derde lid, van het Wetboek van   Strafvordering bedoelde overleg kennis heeft genomen.</P>
+<p>Overeenkomstig artikel 460 van het federale WIB 92 en artikel 94, § 1, van het Wetboek van de minnelijke en gedwongen invordering van fiscale en niet-fiscale schuldvorderingen wordt de strafvordering uitgeoefend door het Openbaar Ministerie.</p>
+
+<p>Het Openbaar Ministerie kan echter geen vervolgingen instellen, indien het kennis heeft gekregen van de feiten ten gevolge van een klacht of een aangifte van het bevoegd personeelslid dat niet de machtiging had waarvan sprake is in artikel 29, §2, van het Wetboek van Strafvordering.</p>
+
+<p>Het Openbaar Ministerie kan de strafrechtelijk strafbare feiten vervolgen waarvan het tijdens het in artikel 29, §3, van het Wetboek van Strafvordering bedoelde overleg kennis heeft genomen.</p>
 
 ### ART. 3.15.1.0.2.
 
-<P>§ 1. Overeenkomstig artikel 461 van het federale WIB 92 en onverminderd het   in artikel 29, derde lid, van het Wetboek van Strafvordering bedoelde overleg   kan de procureur des Konings, indien hij een vervolging instelt wegens feiten   die strafrechtelijk strafbaar zijn ingevolge de bepalingen van deze codex of van   de ter uitvoering ervan genomen besluiten, het advies vragen van het bevoegde   personeelslid. De procureur des Konings voegt het feitenmateriaal waarover hij   beschikt bij zijn verzoek om advies. Het bevoegde personeelslid antwoordt op dit   verzoek binnen vier maanden na de ontvangst ervan.</P>  <P>In geen geval schorst het verzoek om advies de strafvordering.</P>  <P>§ 2. Overeenkomstig artikel 462 van het federale WIB 92 en in het kader van   de kennisgeving en het overleg bedoeld in artikel 29, tweede en derde lid, van   het Wetboek van Strafvordering, deelt het bevoegde personeelslid, de gegevens   van het fiscaal dossier met betrekking tot de feiten die strafrechtelijk   strafbaar zijn ingevolge de bepalingen van deze codex of van de ter uitvoering   ervan genomen besluiten mede aan het Openbaar Ministerie.</P>
+<p>§ 1. Overeenkomstig artikel 461 van het federale WIB 92 en onverminderd het in artikel 29, §3, van het Wetboek van Strafvordering bedoelde overleg kan de procureur des Konings, indien hij een vervolging instelt wegens feiten die strafrechtelijk strafbaar zijn ingevolge de bepalingen van deze codex of van de ter uitvoering ervan genomen besluiten, het advies vragen van het bevoegde personeelslid. De procureur des Konings voegt het feitenmateriaal waarover hij beschikt bij zijn verzoek om advies. Het bevoegde personeelslid antwoordt op dit verzoek binnen vier maanden na de ontvangst ervan.</p>
+
+<p>In geen geval schorst het verzoek om advies de strafvordering.</p>
+
+<p>§ 2. Overeenkomstig artikel 462 van het federale WIB 92 en in het kader van de kennisgeving en het overleg bedoeld in artikel 29, §2 en §3, van het Wetboek van Strafvordering, deelt het bevoegde personeelslid, de gegevens van het fiscaal dossier met betrekking tot de feiten die strafrechtelijk strafbaar zijn ingevolge de bepalingen van deze codex of van de ter uitvoering ervan genomen besluiten mede aan het Openbaar Ministerie.</p>
 
 ## Afdeling 2 Opsporing van inbreuken
 
@@ -6708,11 +6873,13 @@ De schorsing begint bij het opstarten van de strafvordering, en eindigt op een v
 
 ### ART. 3.15.3.0.1.
 
-Een persoon die met bedrieglijk opzet of met het oogmerk om te schaden de   bepalingen van deze codex of van de besluiten die genomen zijn ter uitvoering   ervan, overtreedt, wordt gestraft met een gevangenisstraf van acht dagen tot   twee jaar en met een geldboete van 250 euro tot 125.000 euro of met een van die   straffen alleen.
+Een persoon die met bedrieglijk opzet of met het oogmerk om te schaden de bepalingen van deze codex of van de besluiten die genomen zijn ter uitvoering ervan, overtreedt, wordt gestraft met een gevangenisstraf van acht dagen tot twee jaar en met een geldboete van 250 euro tot 500.000 euro of met een van die straffen alleen.
 
 ### ART. 3.15.3.0.2.
 
-<P>Een persoon wordt gestraft met een gevangenisstraf van een maand tot vijf   jaar en met een geldboete van 250 euro tot 125.000 euro of met een van die   straffen alleen als hij, met het oogmerk om een van de misdrijven, vermeld in   artikel 3.15.3.0.1, te plegen, in openbare geschriften, in handelsgeschriften of   in private geschriften valsheid pleegt, of als hij gebruikmaakt van een   geschrift dat op die manier vervalst is.</P>  <P>Een persoon die willens en wetens een vals getuigschrift opstelt dat de   belangen van het Vlaamse Gewest kan schaden of die van een dergelijk   getuigschrift gebruikmaakt, wordt gestraft met een gevangenisstraf van acht   dagen tot twee jaar en met een geldboete van 250 euro tot 125.000 euro of met   een van die straffen alleen.</P>
+<p>Een persoon wordt gestraft met een gevangenisstraf van een maand tot vijf jaar en met een geldboete van 250 euro tot 125.000 euro of met een van die straffen alleen als hij, met het oogmerk om een van de misdrijven, vermeld in artikel 3.15.3.0.1, te plegen, in openbare geschriften, in handelsgeschriften of in private geschriften valsheid pleegt, of als hij gebruikmaakt van een geschrift dat op die manier vervalst is.</p>
+
+<p>Een persoon die willens en wetens een vals getuigschrift opstelt dat de belangen van het Vlaamse Gewest kan schaden of die van een dergelijk getuigschrift gebruikmaakt, wordt gestraft met een gevangenisstraf van acht dagen tot twee jaar en met een geldboete van 250 euro tot 500.000 euro of met een van die straffen alleen.</p>
 
 ### ART. 3.15.3.0.3.
 
@@ -6720,7 +6887,7 @@ Een persoon die een valse getuigenis aflegt, die als tolk of als   deskundige ee
 
 ### ART. 3.15.3.0.4.
 
-De niet-verschijning of de weigering om te getuigen in de onderzoeken die   toegelaten zijn met toepassing van artikel 3.5.4.0.1, 3.5.8.0.1, 3.13.1.3.1 en   3.13.1.3.5, wordt gestraft met een gevangenisstraf van acht dagen tot zes   maanden en met een geldboete van 125 euro tot 12.500 euro of met een van die   straffen alleen.
+De niet-verschijning of de weigering om te getuigen in de onderzoeken die toegelaten zijn met toepassing van artikel 3.5.4.0.1, 3.5.8.0.1, 3.13.1.3.1 en 3.13.1.3.5, wordt gestraft met een gevangenisstraf van acht dagen tot zes maanden en met een geldboete van 125 euro tot 500.000 euro of met een van die straffen alleen.
 
 ### ART. 3.15.3.0.5.
 
@@ -6732,11 +6899,11 @@ De schending van het beroepsgeheim, vermeld in artikel 3.19.0.0.2, wordt   gestr
 
 ### ART. 3.15.3.0.7.
 
-Een persoon die rechtstreeks of onrechtstreeks het verbod of de sluiting, uitgesproken met toepassing van artikel 3.15.3.0.6 of 3.16.0.0.5, overtreedt, wordt gestraft met een gevangenisstraf van acht dagen tot twee jaar en met een geldboete van 250 euro tot 125.000 euro of met een van die straffen alleen.
+Een persoon die rechtstreeks of onrechtstreeks het verbod of de sluiting, uitgesproken met toepassing van artikel 3.15.3.0.6 of 3.16.0.0.5, overtreedt, wordt gestraft met een gevangenisstraf van acht dagen tot twee jaar en met een geldboete van 250 euro tot 500.000 euro of met een van die straffen alleen.
 
 ### ART. 3.15.3.0.8.
 
-De wet van 5 maart 1952 betreffende de opdecimes op de strafrechterlijke   geldboeten, is niet van toepassing op de misdrijven, vermeld in artikel   3.15.3.0.1, 3.15.3.0.2, 3.15.3.0.4 en 3.15.3.0.7.
+De wet van 5 maart 1952 betreffende de opdecimes op de strafrechterlijke geldboeten, is van toepassing op de misdrijven, vermeld in artikel 3.15.3.0.1, 3.15.3.0.2, 3.15.3.0.4 en 3.15.3.0.7.
 
 ### ART. 3.15.3.0.9.
 
@@ -6844,7 +7011,9 @@ Het bewijs dat te leveren is krachtens artikel 2.7.1.0.6, § 2, tweede lid,   ar
 
 ### ART. 3.17.0.0.12.
 
-In het geval, vermeld in artikel 2.7.3.4.2, derde lid, moet het bestaan   van de schulden bewezen worden door de bewijsmiddelen die in rechte toelaatbaar   zijn in de verhouding tussen schuldeiser en schuldenaar.<BR><BR>De schulden met   betrekking tot het beroep van de erflater en de schulden met betrekking tot de   huishoudelijke uitgaven van het verstreken jaar en van het lopende jaar kunnen   door getuigen en vermoedens worden vastgesteld.
+In het geval, vermeld in artikel 2.7.3.4.2, zevende lid, moet het bestaan van de schulden bewezen worden door de bewijsmiddelen die in rechte toelaatbaar zijn in de verhouding tussen schuldeiser en schuldenaar.<br>
+<br>
+De schulden met betrekking tot het beroep van de erflater en de schulden met betrekking tot de huishoudelijke uitgaven van het verstreken jaar en van het lopende jaar kunnen door getuigen en vermoedens worden vastgesteld.
 
 ## Hoofdstuk 18 Belastingverhogingen en administratieve geldboetes
 
@@ -6858,7 +7027,7 @@ In het geval, vermeld in artikel 2.7.3.4.2, derde lid, moet het bestaan   van de
 3° voor iedere overtreding van artikel 3.12.3.0.6 : een administratieve geldboete van 50 euro ten laste van de notaris of gerechtsdeurwaarder;<br>
 4° voor iedere overtreding van artikel 3.3.1.0.8, § 1, 9° : een administratieve geldboete van 50 euro tot 250 euro ten laste van iedere overtreder afzonderlijk;<br>
 5° voor iedere overtreding van artikel 3.10.5.5.2 en artikel 3.13.1.2.8 : een administratieve geldboete van 250 euro tot 500 euro ten laste van iedere overtreder afzonderlijk;<br>
-6° voor iedere overtreding van artikel 3.13.1.3.7, die volgt uit een overtreding van artikel 96, 97, 99 of 1031 van het federale Wetboek van Successierechten : een administratieve geldboete van 250 euro tot 500 euro ten laste van iedere overtreder afzonderlijk;<br>
+6° voor iedere overtreding van artikel 3.13.1.3.7, die volgt uit een overtreding van artikel 96, 97, 99 of 103<sup>1</sup>&nbsp;van het federale Wetboek van Successierechten : een administratieve geldboete van 250 euro tot 500 euro ten laste van iedere overtreder afzonderlijk;<br>
 7° voor iedere overtreding van artikel 3.13.1.2.1, derde en vierde lid, en artikel 3.13.1.3.1, § 1 en § 6 : een administratieve geldboete van 250 euro tot 2500 euro ten laste van iedere overtreder afzonderlijk;<br>
 8° voor iedere overtreding van artikel 3.13.1.3.7, die volgt uit een overtreding van artikel 98, 101 of 1021 van het federale Wetboek van Successierechten : een administratieve geldboete van 250 euro tot 2500 euro ten laste van iedere overtreder afzonderlijk;<br>
 9° voor iedere weigering van inzageverlening, waardoor inbreuk wordt gepleegd op artikel 3.13.1.1.1, artikel 3.13.1.2.1 of artikel 3.13.1.3.1 : een administratieve geldboete van 250 euro tot 2500 euro ten laste van de persoon, vermeld in artikel 2.9.4.2.4, § 1, die de beroepsverklaring, vermeld in artikel 2.9.4.2.4, § 2, 1°, heeft ondertekend;<br>
@@ -7075,7 +7244,7 @@ Een belastingverhoging van 20 % van de registratiebelasting, respectievelijk van
 11° de natuurlijke persoon die het voordeel heeft genoten van artikel 2.9.5.0.1, in geval van onjuistheid of niet-nakoming van de vermeldingen, voorgeschreven bij artikel 2.9.5.0.2;<br>
 12° de cedent in geval van onjuiste vermeldingen omtrent de voorwaarden, vermeld in artikel 2.9.6.0.1, eerste lid, 4° ;<br>
 13° de natuurlijke persoon die een teruggave van de registratiebelasting heeft ontvangen met toepassing van artikel 3.6.0.0.6, in geval van onjuistheid of niet-nakoming van de vermeldingen, voorgeschreven bij artikel 3.6.0.0.6, § 3, zesde lid;<br>
-14° de partijen in geval van onjuistheid van de verklaring over de uitbating van de geruilde onroerende goederen, vermeld in artikel 3.12.3.0.1, § 3, vierde lid;<br>
+14° de partijen in geval van onjuistheid van de verklaring over de uitbating van de geruilde onroerende goederen, vermeld in artikel 3.12.3.0.1, § 3, derde lid;<br>
 15° de partijen, als voor de toepassing van artikel 3.12.3.0.4 bewuste vermeldingen ontbreken of als ze onjuist of onvolledig zijn;<br>
 16° de personen die een verklaring afgelegd hebben over elke andere onjuistheid, bevonden in de elementen van een verklaring in of onderaan op de akte, gesteld tot vereffening van de registratiebelasting, dan de onjuistheid die beboet wordt met de belastingverhoging, vermeld in artikel 3.18.0.0.15.<br>
 <br>
@@ -7149,7 +7318,7 @@ Het bevoegde personeelslid reikt op verzoek van de betrokkenen in   rechtstreeks
 <br>
 In het verzoek wordt opgave gedaan van de gegevens, vermeld in artikel 3.12.3.0.1, § 5, eerste lid, en de bescheiden, vermeld in artikel 3.12.3.0.1, § 5, tweede lid, worden toegevoegd.<br>
 <br>
-§ 2. De bevoegde entiteit van de Vlaamse administratie verleent het attest, vermeld in paragraaf 1, binnen zestig dagen na de ontvangst van het verzoek.<br>
+§ 2. De bevoegde entiteit van de Vlaamse administratie verleent het attest, vermeld in paragraaf 1, binnen negentig dagen na de ontvangst van het verzoek.<br>
 <br>
 Als het verzoek niet alle gegevens, vermeld in 3.12.3.0.1, § 5, eerste lid, of de bescheiden, vermeld in artikel 3.12.3.0.1, § 5, tweede lid, bevat, meldt de bevoegde entiteit van de Vlaamse administratie dat voor het verstrijken van de termijn, vermeld in het eerste lid, met opgave van de gegevens of bescheiden die ontbreken. In dat geval zal de termijn, vermeld in het eerste lid, geschorst worden vanaf de datum van verzending van die melding tot de datum van ontvangst van de ontbrekende gegevens of bescheiden door de bevoegde entiteit van de Vlaamse administratie.
 
@@ -7278,9 +7447,10 @@ De volgende regelingen worden opgeheven :<br>
 2° het wetboek van 23 november 1965 van de met inkomstenbelastingen gelijkgestelde belastingen, zoals van toepassing op de verkeersbelasting op de autovoertuigen en de belasting op de inverkeerstelling wat betreft het Vlaamse Gewest, het laatst gewijzigd bij het decreet van 9 november 2012, met uitzondering van artikel 3, 35, 42, 94, 95 en 107;<br>
 2° /1 het wetboek van 23 november 1965 van de met Inkomstenbelastingen Gelijkgestelde Belastingen, zoals van toepassing op de belasting op de spelen en weddenschappen en de belasting op de automatische ontspanningstoestellen wat betreft het Vlaamse Gewest, het laatst gewijzigd bij het decreet van 3 juli 2015, met uitzondering van artikel 66 en 76;<br>
 3° de wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend in Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van een Eurovignet overeenkomstig richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993 wat betreft het Vlaamse Gewest, het laatst gewijzigd bij het decreet van 9 november 2012, met uitzondering van artikel 1, 2, eerste lid, 2bis en 3, eerste lid;<br>
-4° het Wetboek van Successierechten, zoals van toepassing voor wat betreft het Vlaamse Gewest, voor de belastingen, vermeld in artikel 3, 4°, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten, het laatst gewijzigd bij de wet van 21 december 2013, met uitzondering van artikel 1, artikel 60bis, § 1 tot en met § 9, § 10, 1° en 3°, § 11, tweede tot en met vijfde lid (als het betrekking heeft op overlijdens van voor 1 januari 2012), artikel 76, artikel 96 tot en met 99 van het federale Wetboek van Successierechten, artikel 101 tot en met 103 van het federale Wetboek van Successierechten, artikel 144, artikel 145, artikel 163 en boek II, IIbis en III;<br>
+4° het Wetboek van Successierechten, zoals van toepassing voor wat betreft het Vlaamse Gewest, voor de belastingen, vermeld in artikel 3, 4°, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten, het laatst gewijzigd bij de wet van 21 december 2013, met uitzondering van artikel 1, artikel 60bis, § 1 tot en met § 9, § 10, 1° en 3°, § 11, tweede tot en met vijfde lid (als het betrekking heeft op overlijdens van voor 1 januari 2012), artikel 76, artikel 96 tot en met 99 van het federale Wetboek van Successierechten, artikel 101 tot en met 103<sup>2</sup> van het federale Wetboek van Successierechten, artikel 144, artikel 145, artikel 163 en boek II, IIbis en III;<br>
 5° het Wetboek der Registratie-, Hypotheek- en Griffierechten, zoals van toepassing voor wat betreft het Vlaamse Gewest voor de belastingen, vermeld in artikel 3, 6°, 7° en 8°, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten, het laatst gewijzigd bij het decreet van 28 maart 2014, met uitzondering van artikel 1, artikel 2 (met uitzondering van het derde lid, de woorden "alsook de voorschriften die voor de juiste heffing van de verschuldigde rechten nodig zijn"), artikel 2bis tot en met artikel 8bis, artikel 9, eerste en tweede lid, artikel 10, tweede lid, artikel 11, tweede en derde lid, artikel 13, artikel 19, artikel 21<sup>1</sup>, artikel 21<sup>2</sup>, 1°, artikel 23 tot en met artikel 34, artikel 35, eerste en vijfde lid (als die leden geen betrekking hebben op de registratiebelasting), artikel 35, tweede en derde lid, artikel 36 tot en met artikel 39, artikel 41, 2° en 3°, artikel 41bis, artikel 43 (als het geen betrekking heeft op schenkbelasting, verkooprecht of verdeelrecht), artikel 75, tweede lid, tweede zin, artikel 77 tot en met artikel 84, artikel 88, artikel 921 (als het geen betrekking heeft op het recht van hypotheekvestiging), artikel 922, artikel 94, artikel 103, artikel 115 tot en met artikel 119, artikel 121 (als het geen betrekking heeft op verkooprecht), artikel 122, artikel 123, artikel 124, artikel 128, artikel 142 tot en met artikel 145, artikel 158, artikel 159, 9° en 14°,&nbsp;artikel 160, artikel 161, 1° (als het geen betrekking heeft op verkooprecht of verdeelrecht), 1° bis, 3° (als het geen betrekking heeft op verkooprecht), 4° (als het geen betrekking heeft op registratiebelasting), 5°, 10°, 12° en 13°, artikel 162 tot en met artikel 165, artikel 166 (als het geen betrekking heeft op de openbare verkoping van onroerende goederen), artikel 170, tweede lid, artikel 173, 3°, 4°, 5° en 6°, artikel 176 tot en met artikel 180, artikel 184, artikel 184bis (als het geen betrekking heeft op schenkbelasting, verkooprecht of verdeelrecht), artikel 206, tweede lid, artikel 206bis, derde lid,<br>
 artikel 207bis, tweede lid, artikel 209, eerste lid, 5°, artikel 210, tweede lid, artikel 226 tot en met artikel 236, artikel 237 tot en met artikel 287, artikel 290, artikel 301, artikel 302 tot en met artikel 304;<br>
+5° /1 artikel 161, 1°, van het Wetboek der Registratie-, Hypotheek- en Griffierechten, zoals van toepassing voor het Vlaamse Gewest voor de belastingen, vermeld in artikel 3, eerste lid, 6°, 7° en 8°, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten, als het betrekking heeft op schenkbelasting en op het recht op hypotheekvestiging;<br>
 6° artikel 9 van het organiek besluit van 18 maart 1831 van het bestuur van `s lands middelen voor wat betreft de administratieve geldboetes of de belastingverhogingen opgelegd in toepassing van titel 3, hoofdstuk 18;<br>
 7° artikel 4, 5, de bijlage en de tweede bijlage van het koninklijk besluit van 11 januari 1940 betreffende de uitvoering van het Wetboek der Registratie-, Hypotheek- en Griffierechten;<br>
 8° artikel 3 van het besluit van de Vlaamse Regering van 2 maart 2012 tot uitvoering van de artikelen 140quinquies en 140sexies van het Wetboek der Registratie-, Hypotheek- en Griffierechten en de artikelen 60/4 en 60/5 van het Wetboek der Successierechten;<br>
@@ -7338,15 +7508,17 @@ De belastingen, vermeld in artikel 3, eerste lid, 4° en 6° tot en met 8°,   v
 
 De termijn van drie jaar, vermeld in artikel 2.9.4.2.11, § 2, eerste lid, 2°, en de termijn van vijf jaar, vermeld in artikel 2.9.4.2.14, § 2, tweede lid, 1°, geldt van rechtswege ook voor de verkoopovereenkomsten die zijn gesloten vanaf 1 juni 2018 en voor 1 juni 2020 met toepassing van het tarief, vermeld in respectievelijk artikel 2.9.4.2.11 en 2.9.4.2.14.
 
+### ART 5.0.0.0.15.
+
+De zekerheden die werden gesteld ter uitvoering van artikel 3.10.5.1.3, zoals het van toepassing was voor de opheffing van dat artikel, worden vrijgegeven. Kosten die aan deze vrijgave zouden verbonden zijn, zijn ten laste van de borgsteller.
+
 ### ART 5.1.0.0.14.
 
-In afwijking van artikel 3.3.1.0.14, dient elke belastingplichtige zijn aangifte in bij de bevoegde entiteit van de Vlaamse administratie uiterlijk op 31 januari 2019 voor de organisatie van:<br>
-1° eenmalige spelen en weddenschappen, die georganiseerd worden tussen 1 en 31 januari 2019;<br>
-2° spelen en weddenschappen met een voortdurend karakter, die georganiseerd worden vanaf 1 januari 2019 of na 31 december 2018 verder georganiseerd worden.
+...
 
 ### ART 5.1.0.0.15.
 
-In afwijking van artikel 3.3.1.0.16 dient de belastingplichtige de aangifte voor de opstelling van een automatisch ontspanningstoestel vanaf 1 januari 2019 bij de bevoegde entiteit van de Vlaamse administratie in uiterlijk op 31 januari 2019.
+...
 
 ## TITEL 6 Citeertitel
 
