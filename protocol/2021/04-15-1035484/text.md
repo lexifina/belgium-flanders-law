@@ -179,6 +179,63 @@ De Gemeenschappelijke Gemeenschapscommissie, vertegenwoordigd door het Verenigd 
 <br>
 Hierna gezamenlijk de Partijen genoemd; zijn overeengekomen wat volgt:
 
+### ART 1.
+
+Voor de toepassing van dit protocolakkoord wordt verstaan onder:<br>
+1° "samenwerkingsakkoord van 25 augustus 2020": het samenwerkingsakkoord van 25 augustus 2020 tussen de Federale staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie, betreffende de gezamenlijke gegevensverwerking door Sciensano en de door de bevoegde gefedereerde entiteiten of door de bevoegde agentschappen aangeduide contactcentra, gezondheidsinspecties en mobiele teams in het kader van een contactonderzoek bij personen die (vermoedelijk) met het coronavirus COVID19 besmet zijn op basis van een gegevensbank bij Sciensano;<br>
+2° "samenwerkingsakkoord van 24 maart 2021": het samenwerkingsakkoord van 24 maart 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waals Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de gegevensoverdracht van noodzakelijke gegevens naar de gefedereerde entiteiten, de lokale overheden of politiediensten met als doel het handhaven van de verplichte quarantaine of testing van de reizigers komende van buitenlandse zones bij wie een quarantaine of testing verplicht is bij aankomst in België;<br>
+3° "Gegevensbank I": de gegevensbank opgericht bij Sciensano bedoeld in artikel 1, § 1, 6°, van het samenwerkingsakkoord van 25 augustus 2020;<br>
+4° "cluster": een concentratie van personen besmet of mogelijks besmet met het coronavirus COVID-19 in collectiviteiten bedoeld in artikel 1, § 1, 2°, van het samenwerkingsakkoord van 25 augustus 2020;<br>
+5° "collectiviteit": een gemeenschap van personen met betrekking tot dewelke de bevoegde gezondheidsinspecties oordelen dat er een verhoogd risico op de verspreiding van het coronavirus COVID-19 bestaat, bedoeld in artikel 1, § 1, 3°, van het samenwerkingsakkoord van 25 augustus 2020;<br>
+6° "Personen Categorie II": de personen bij wie een coronavirus COVID-19-test is uitgevoerd bedoeld in artikel 1, § 1, 14°, van het samenwerkingsakkoord van 25 augustus 2020;<br>
+7° "Passenger Locator Form (PLF)": formulier dat reizigers voorafgaand aan hun reis dienen in te vullen en in voorkomend geval voor te leggen aan de vervoerder voorafgaand aan boarding bedoeld in artikel 1, 1°, van het samenwerkingsakkoord van 24 maart 2021;<br>
+8 ° "Gegevensbank PLF": de databank, opgericht bij de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu, bedoeld in artikel 1, 4°, van het samenwerkingsakkoord van 24 maart 2021;<br>
+9° "INSZ-nummer": het identificatienummer bedoeld in artikel 8, § 1, 1° of 2°, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid.
+
+### ART 2.
+
+§ 1. Met het oog op het ondersteunen van het opsporen en onderzoeken van clusters en collectiviteiten kan de Rijksdienst voor Sociale Zekerheid in de hoedanigheid van verwerker ten behoeve van de bevoegde gefedereerde entiteiten, die ieder voor hun bevoegdheid, optreden als verwerkingsverantwoordelijke, de in paragraaf 2 bepaalde persoonsgegevens uit Gegevensbank I van Personen Categorie II voor zover de coronavirus COVID-19-test uitwees dat ze besmet zijn, verwerken, samenvoegen en vergelijken met identificatie-, contact-, tewerkstellings- en verblijfsgegevens.<br>
+<br>
+§ 2. De persoonsgegevens afkomstig uit Gegevensbank I, bedoeld in paragraaf 1, betreffen:<br>
+1° het INSZ-nummer;<br>
+2° de datum van de coronavirus COVID-19-test;<br>
+3° de postcode.<br>
+<br>
+§ 3. De persoonsgegevens uit Gegevensbank I worden door de voormelde Rijksdienst niet langer bewaard dan noodzakelijk voor de doeleinden waarvoor zij worden verwerkt en worden uiterlijk 14 kalenderdagen te rekenen vanaf de datum van ontvangst van deze persoonsgegevens verwijderd.<br>
+<br>
+De bevoegde gefedereerde entiteiten bewaren de persoonsgegevens die resulteren uit de verwerkingen bedoeld in paragraaf 1 overeenkomstig artikel 15 van het samenwerkingsakkoord van 25 augustus 2020.
+
+### ART 3.
+
+§ 1. Met het oog op het ondersteunen van het opsporen en onderzoeken van clusters en collectiviteiten en met het oog op het handhaven van de verplichte quarantaine en testing kan de Rijksdienst voor Sociale Zekerheid in de hoedanigheid van verwerker ten behoeve van de bevoegde gefedereerde entiteiten, die ieder voor hun bevoegdheid, optreden als verwerkingsverantwoordelijke, de in paragraaf 2 bepaalde persoonsgegevens afkomstig uit de gegevensbank PLF van de in het buitenland wonende of verblijvende werknemers en zelfstandigen die werkzaamheden uitoefenen in België, verwerken, samenvoegen en vergelijken met identificatie-, contact-, tewerkstellings- en verblijfsgegevens.<br>
+<br>
+§ 2. De persoonsgegevens afkomstig uit de gegevensbank PLF bedoeld in paragraaf 1, betreffen:<br>
+1° naam en voornaam;<br>
+2° geslacht;<br>
+3° geboortedatum;<br>
+4° het INSZ-nummer of, voor de personen aan wie geen INSZ-nummer werd toegekend, paspoort- of identiteitskaartnummer;<br>
+5° telefoonnummer(s);<br>
+6° verblijfsadres;<br>
+7° e-mailadres;<br>
+8° aanduiding of betrokkene al dan niet langer dan 48 uur in België zal verblijven;<br>
+9° aanduiding of het al dan niet een professionele reis betreft;<br>
+10° in voorkomend geval, het certificaatnummer van de professionele reis;<br>
+11° aanduiding of betrokkene al dan niet een inwoner van België is;<br>
+12° aanduiding of betrokkene al dan niet 48 uren in het buitenland heeft verbleven;<br>
+13° land of landen en, in voorkomend geval, de regio of regio's in het buitenland waar betrokkene heeft verbleven;<br>
+14° begin- en einddatum van het verblijf in het buitenland;<br>
+15° aankomstdatum in België.<br>
+<br>
+§ 3. In overeenstemming met artikel 1, § 5, van het samenwerkingsakkoord van 24 maart 2021 en onverminderd de toepassing van artikel 1, §§ 1, 2, en 3, van hetzelfde samenwerkingsakkoord kunnen de partijen, in geval van wijziging van het PLF, de persoonsgegevens bedoeld in paragraaf 2, verduidelijken, wijzigen of aanvullen bij uitvoerend samenwerkingsakkoord zoals voorzien in artikel 92bis, § 1, derde lid, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.<br>
+<br>
+§ 4. De persoonsgegevens afkomstig uit de gegevensbank PLF worden door de voormelde Rijksdienst niet langer bewaard dan noodzakelijk voor de doeleinden waarvoor zij worden verwerkt en worden gewist uiterlijk 28 kalenderdagen na de datum van aankomst van de betrokkene op het Belgisch grondgebied.<br>
+<br>
+De bevoegde gefedereerde entiteiten bewaren de persoonsgegevens die resulteren uit de verwerkingen bedoeld in paragraaf 1 en die zij verwerken met het oog op het opsporen van clusters en collectiviteiten overeenkomstig artikel 15 van het samenwerkingsakkoord van 25 augustus 2020.<br>
+<br>
+De bevoegde gefedereerde entiteiten bewaren de persoonsgegevens die resulteren uit de verwerkingen bedoeld in paragraaf 1 en die zij verwerken met het oog op het handhaven van de verplichte quarantaine en testing overeenkomstig artikel 5 van het samenwerkingsakkoord van 24 maart 2021.<br>
+<br>
+§ 5. De persoonsgegevens die resulteren uit de verwerkingen bedoeld in paragraaf 1 mogen, overeenkomstig artikel 3, § 2, van het samenwerkingsakkoord van 24 maart 2021 en de regelgeving van de gefedereerde entiteiten, door de gefedereerde entiteiten worden meegedeeld aan de lokale overheden en door de gefedereerde entiteiten en de lokale overheden aan de politiediensten, die deze persoonsgegevens verder mogen verwerken met het oog op de opvolging en de handhaving van de verplichte quarantaine en testing.
+
 ### ART 4.
 
 § 1. Met het oog op het toezicht op de arbeidsplaatsen bedoeld in artikel 16, 10°, van het Sociaal Strafwetboek door de sociaal inspecteurs bedoeld in artikel 17, § 2, eerste lid, van het Sociaal Strafwetboek op de naleving van de maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, mag de Rijksdienst voor Sociale Zekerheid, in de hoedanigheid van verwerkingsverantwoordelijke, de in paragraaf 2 bepaalde persoonsgegevens uit de gegevensbank PLF van personen die ertoe gehouden zijn het PLF in te vullen verder verwerken, samenvoegen en vergelijken met identificatie-, contact-, en tewerkstellingsgegevens.<br>
@@ -200,3 +257,19 @@ Hierna gezamenlijk de Partijen genoemd; zijn overeengekomen wat volgt:
 § 3. De persoonsgegevens die voortkomen uit de verwerkingen bedoeld in paragraaf 1, kunnen door de voormelde Rijksdienst enkel worden meegedeeld aan de sociaal inspecteurs van de diensten of instellingen bedoeld in artikel 17, § 2, eerste lid, van het Sociaal Strafwetboek, die belast zijn met het toezicht op de naleving op de arbeidsplaatsen van de maatregelen om de verspreiding van het coronavirus COVID-19 te beperken voor het verwerkingsdoeleinde bepaald in paragraaf 1.<br>
 <br>
 § 4. De persoonsgegevens afkomstig uit de PLF-gegevensbank bedoeld in paragraaf 2 en de persoonsgegevens die voortkomen uit de verwerkingen bedoeld in paragraaf 1 worden door de voormelde Rijksdienst en door de bevoegde sociaal inspecteurs bedoeld in artikel 17, § 2, eerste lid, van het Sociaal Strafwetboek niet langer bewaard dan noodzakelijk voor de doeleinden waarvoor zij worden verwerkt en worden vernietigd uiterlijk 28 dagen na de datum van aankomst van de betrokkene op het Belgisch grondgebied.
+
+### ART 5.
+
+§ 1. De Interministeriële conferentie Volksgezondheid houdt toezicht op de uitvoering en naleving van dit protocolakkoord en legt, indien nodig, voorstellen tot aanpassing voor.<br>
+<br>
+§ 2. De Interministeriële conferentie Volksgezondheid komt bijeen zodra een partij bij het protocolakkoord daarom verzoekt.
+
+### ART 6.
+
+Onderhavig protocolakkoord is geen samenwerkingsakkoord zoals bedoeld in artikel 92bis van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen. Partijen streven ernaar om, op basis van de bepalingen van dit protocolakkoord, een samenwerkingsakkoord te bereiken.
+
+### ART 7.
+
+Dit protocolakkoord treedt in werking op de dag waarop het in het Belgisch Staatsblad wordt bekendgemaakt, met uitzondering van artikel 4 dat uitwerking heeft met ingang van 12 januari 2021.<br>
+<br>
+Dit protocolakkoord houdt op uitwerking te hebben op de dag waarop een samenwerkingsakkoord tussen de Federale Staat, de Vlaamse Gemeenschap, de Duitstalige Gemeenschap, het Waalse Gewest en de Gemeenschappelijke Gemeenschapscommissie betreffende bijzondere verwerkingen met het oog op het opsporen en onderzoeken van clusters en collectiviteiten, met het oog op de handhaving van de verplichte quarantaine en testing en met het oog op het toezicht op de naleving door de bevoegde sociaal inspecteurs van de maatregelen om de verspreiding van het coronavirus COVID-19 tegen te gaan op de arbeidsplaatsen in werking treedt.

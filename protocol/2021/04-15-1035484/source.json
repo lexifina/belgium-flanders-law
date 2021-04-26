@@ -2,16 +2,16 @@
   "codex_id": 1035484,
   "title": "Protocol van 2021-04-15 tussen de Federale Staat, de Vlaamse Gemeenschap, de Duitstalige Gemeenschap, het Waalse Gewest en de Gemeenschappelijke Gemeenschapscommissie betreffende bijzondere verwerkingen met het oog op het opsporen en onderzoeken van clusters en collectiviteiten, met het oog op de handhaving van de verplichte quarantaine en testing en met het oog op het toezicht op de naleving door de bevoegde sociaal inspecteurs van de maatregelen om de verspreiding van het coronavirus COVID-19 tegen te gaan op de arbeidsplaatsen",
   "type": "Protocol",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035484/VolledigDocument?datum=2021-01-12",
-  "source_sha256": "eceb7c1adeaa44441137d757f5a221654d3043880e4eec21e9062fa7da41a6a4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035484/VolledigDocument?datum=2021-04-26",
+  "source_sha256": "c54ce43a152d77480e1fd5b7c1c7d8dd54136a7b5ed3534fe9a681dd0bbe37af",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035484&param=informatie",
-  "as_of": "2021-01-12",
+  "as_of": "2021-04-26",
   "made": "2021-04-15",
   "gazette": "2021-04-26",
   "numac": 2021031114,
   "document_start": "2021-04-26",
   "document_end": null,
-  "in_force": "2021-01-12",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2021-01-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-04-26",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2021-04-26; future article versions excluded; article text as the API gives it"
 }
