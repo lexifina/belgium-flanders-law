@@ -36,7 +36,15 @@ Het hoofd van het Agentschap is gemachtigd om binnen de perken van de bestaande 
 
 ### ART. 7.
 
-Het hoofd van het Agentschap is gemachtigd om binnen de perken van de bestaande regelgeving :<br />1° het bedrag te bepalen van de vergoeding die op voorstel van de gouverneur aan de secretaris-penningmeester van de provinciale riviervisserijcommissie kan worden toegekend overeenkomstig artikel 7 van het koninklijk besluit van 13 december 1954 betreffende de provinciale visserijcommissies en het centraal comité van het visserijfonds;<br />2° het reglement van orde goed te keuren dat door de provinciale riviervisserijcommissie werd opgesteld conform artikel 11 van het koninklijk besluit van 13 december 1954 betreffende de provinciale visserijcommissies en het centraal comité van het visserijfonds;<br />3° het reglement van orde goed te keuren dat door het Centraal comité van het visserijfonds werd opgesteld conform artikel 18 van het koninklijk besluit van 13 december 1954 betreffende de provinciale visserijcommissies en het centraal comité van het visserijfonds.<br /><br />
+Het hoofd van het Agentschap is gemachtigd om binnen de perken van de bestaande regelgeving :<br>
+1° het bedrag te bepalen van de vergoeding die op voorstel van de gouverneur aan de secretaris-penningmeester van de provinciale riviervisserijcommissie kan worden toegekend overeenkomstig artikel 7 van het koninklijk besluit van 13 december 1954 betreffende de provinciale visserijcommissies en het centraal comité van het visserijfonds;<br>
+2° het reglement van orde goed te keuren dat door de provinciale riviervisserijcommissie werd opgesteld conform artikel 11 van het koninklijk besluit van 13 december 1954 betreffende de provinciale visserijcommissies en het centraal comité van het visserijfonds;<br>
+3° het reglement van orde goed te keuren dat door het Centraal comité van het visserijfonds werd opgesteld conform artikel 18 van het koninklijk besluit van 13 december 1954 betreffende de provinciale visserijcommissies en het centraal comité van het visserijfonds;<br>
+4° het vissen, het toepassen van sommige wijzen van vissen, het vangen van sommige vissoorten of categorieën evenals het gebruik van bijzondere lokazen of tuigen tijdelijk toe te staan of te verbieden als vermeld in artikel 14 van de wet van 1 juli 1954 op de riviervisserij, met het oog op proefnemingen of op het gewestelijk of plaatselijk nut;<br>
+5° machtigingen te verlenen voor het vangen of vervoeren van vissen of kreeften als vermeld in artikel 17 van de wet van 1 juli 1954 op de riviervisserij;<br>
+6° machtigingen te verlenen om vis uit te storten in de wateren waarop de wet van 1 juli 1954 op de riviervisserij van toepassing is als vermeld in artikel 25 van de wet van 1 juli 1954 op de riviervisserij;<br>
+7° de leden van het comité en hun plaatsvervangers te benoemen als vermeld in artikel 13 van het koninklijk besluit van 13 december 1954 betreffende de provinciale visserijcommissies en het centraal comité van het visserijfonds, gewijzigd bij het besluit van de Vlaamse Regering van 7 maart 2008.<br>
+&nbsp;
 
 ## HOOFDSTUK IV Delegaties inzake natuurbehoudsregelgeving
 
