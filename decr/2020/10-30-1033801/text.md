@@ -99,13 +99,13 @@ In afwijking van artikel 2 van het decreet van 20 februari 2009 betreffende de H
 
 ### ART 18.
 
-In afwijking van artikel 35, § 2, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs onderzoekt de onderwijsinspectie voor het schooljaar 2020-2021 uiterlijk acht maanden na de start van het schooljaar via een doorlichting of de school voldoet aan de decretaal vastgelegde voorwaarden voor erkenning. De Vlaamse Regering beslist uiterlijk op 31 mei 2021 over de erkenning.
+In afwijking van artikel 35, § 2, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs onderzoekt de onderwijsinspectie voor het schooljaar 2020-2021 uiterlijk 15 juni 2021 via een doorlichting of de school voldoet aan de decretaal vastgelegde voorwaarden voor erkenning. De Vlaamse Regering beslist uiterlijk op 15 juli 2021 over de erkenning.
 
 ## HOOFDSTUK 6. Afwijkingen van de Codex Secundair Onderwijs van 17 december 2010 en wijziging van dezelfde codex
 
 ### ART 19.
 
-In afwijking van artikel 14, § 2, tweede lid, en artikel 15, § 2, tweede lid, van de Codex Secundair Onderwijs van 17 december 2010, neemt de Vlaamse Regering voor het schooljaar 2020-2021 uiterlijk op 31 mei 2021 een beslissing.
+In afwijking van artikel 14, § 2, tweede lid, en artikel 15, § 2, tweede lid, van de Codex Secundair Onderwijs van 17 december 2010, neemt de Vlaamse Regering voor het schooljaar 2020-2021 uiterlijk op 15 juli 2021 een beslissing.
 
 ### ART 20.
 
