@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035460,
+  "title": "Besluit van de Vlaamse Regering van 2021-03-26 tot wijziging van artikel 1 van het besluit van de Vlaamse Regering van 5 februari 2021 tot vaststelling van de lijst van gemeenten, vermeld in artikel 5.78 van de Vlaamse Codex Wonen van 2021, in het kader van de voortgangstoets van 2020",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035460/VolledigDocument?datum=2021-04-29",
+  "source_sha256": "8e9cfb1aeab5d953f1739e85e3a45b8af199f5d8939f904004d7fff22e6b8f61",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035460&param=informatie",
+  "as_of": "2021-04-29",
+  "made": "2021-03-26",
+  "gazette": "2021-04-19",
+  "numac": 2021030973,
+  "document_start": "2021-04-29",
+  "document_end": null,
+  "in_force": "2021-04-29",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-04-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
