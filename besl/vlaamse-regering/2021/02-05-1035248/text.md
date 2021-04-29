@@ -19,54 +19,46 @@ DE VLAAMSE REGERING BESLUIT :
 
 ### ART 1.
 
-Met toepassing van artikel 5.78 van de Vlaamse Codex Wonen wordt de volgende lijst van gemeenten vastgesteld:<br>
-1) Antwerpen;<br>
-2) Avelgem;<br>
-3) Baarle-Hertog;<br>
-4) Boom;<br>
-5) Bornem;<br>
-6) Dendermonde;<br>
-7) Dilsen-Stokkem;<br>
-8) Duffel;<br>
-9) Eeklo;<br>
-10) Genk;<br>
-11) Gent;<br>
-12) Hamme;<br>
-13) Heist-op-den-Berg;<br>
-14) Herentals;<br>
-15) Herenthout;<br>
-16) Houthalen-Helchteren;<br>
-17) Ieper;<br>
-18) Kortrijk;<br>
-19) Kuurne;<br>
-20) Lier;<br>
-21) Lokeren;<br>
-22) Maaseik;<br>
-23) Maasmechelen;<br>
-24) Mechelen;<br>
-25) Menen;<br>
-26) Mesen;<br>
-27) Moerbeke;<br>
-28) Nieuwpoort;<br>
-29) Olen;<br>
-30) Oostende;<br>
-31) Oudenburg;<br>
-32) Roeselare;<br>
-33) Schelle;<br>
-34) Sint-Truiden;<br>
-35) Spiere-Helkijn;<br>
-36) Temse;<br>
-37) Tielt;<br>
-38) Tongeren;<br>
-39) Turnhout;<br>
-40) Veurne;<br>
-41) Vilvoorde;<br>
-42) Wachtebeke;<br>
-43) Wervik;<br>
-44) Wielsbeke;<br>
-45) Willebroek;<br>
-46) Zelzate;<br>
-47) Zwevegem.
+Ter uitvoering van artikel 5.78, tweede lid, van de Vlaamse Codex Wonen van 2021 wordt de volgende lijst van gemeenten vastgesteld:<br>
+1° Antwerpen;<br>
+2° Baarle-Hertog;<br>
+3° Boom;<br>
+4° Bornem;<br>
+5° Dendermonde;<br>
+6° Dilsen-Stokkem;<br>
+7° Duffel;<br>
+8° Eeklo;<br>
+9° Genk;<br>
+10° Gent;<br>
+11° Hamme;<br>
+12° Herentals;<br>
+13° Herenthout;<br>
+14° Ieper;<br>
+15° Kortrijk;<br>
+16° Kuurne;<br>
+17° Lokeren;<br>
+18° Maaseik;<br>
+19° Maasmechelen;<br>
+20° Mechelen;<br>
+21° Menen;<br>
+22° Mesen;<br>
+23° Nieuwpoort;<br>
+24° Olen;<br>
+25° Oostende;<br>
+26° Schelle;<br>
+27° Sint-Truiden;<br>
+28° Spiere-Helkijn;<br>
+29° Temse;<br>
+30° Tielt;<br>
+31° Turnhout;<br>
+32° Veurne;<br>
+33° Vilvoorde;<br>
+34° Wachtebeke;<br>
+35° Wervik;<br>
+36° Wielsbeke;<br>
+37° Willebroek;<br>
+38° Zelzate;<br>
+39° Zwevegem.
 
 ### ART 2.
 
