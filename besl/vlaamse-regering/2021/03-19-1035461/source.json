@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035461,
+  "title": "Besluit van de Vlaamse Regering van 2021-03-19 houdende de regeling van subsidies aan gemeenten in het kader van veilige schoolroutes op gemeentewegen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035461/VolledigDocument?datum=2021-04-30",
+  "source_sha256": "6f7d5d536bd8af454c6fbd23bfc81b213bf6ccd76e25a7718bc3a1301a728eac",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035461&param=informatie",
+  "as_of": "2021-04-30",
+  "made": "2021-03-19",
+  "gazette": "2021-04-20",
+  "numac": 2021020744,
+  "document_start": "2021-04-30",
+  "document_end": null,
+  "in_force": "2021-04-30",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2021-04-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
