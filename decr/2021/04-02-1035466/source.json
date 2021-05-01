@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035466,
+  "title": "Decreet van 2021-04-02 tot wijziging van artikel 3, 5 en 35 van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, wat betreft onder andere de invoering van opleidingscentra voor interventiehonden",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035466/VolledigDocument?datum=2021-05-01",
+  "source_sha256": "ee207f86242e8f8874101ec9bcf69c2bcc8bb6c75449bf60a7c0aeae2a24fde7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035466&param=informatie",
+  "as_of": "2021-05-01",
+  "made": "2021-04-02",
+  "gazette": "2021-04-21",
+  "numac": 2021031065,
+  "document_start": "2021-05-01",
+  "document_end": null,
+  "in_force": "2021-05-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
