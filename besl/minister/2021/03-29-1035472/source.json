@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035472,
+  "title": "Ministerieel besluit van 2021-03-29 tot wijziging van artikel 3, 4 en 5 van het ministerieel besluit van 30 juni 2017 tot uitvoering van het besluit van de Vlaamse Regering van 21 april 2017 betreffende de ondersteuning van de verstrekking van groenten, fruit en melk aan leerlingen in onderwijsinstellingen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035472/VolledigDocument?datum=2021-05-01",
+  "source_sha256": "192956757d33cf73f933bdb868944f7659e90d60b9ecdfa56dc2926353d5d654",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035472&param=informatie",
+  "as_of": "2021-05-01",
+  "made": "2021-03-29",
+  "gazette": "2021-04-21",
+  "numac": 2021031001,
+  "document_start": "2021-05-01",
+  "document_end": null,
+  "in_force": "2021-05-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
