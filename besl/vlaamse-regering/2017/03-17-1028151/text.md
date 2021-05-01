@@ -106,6 +106,16 @@ Een organisator groepsopvang met een subsidie voor inkomenstarief T2a die geen o
 
 Een organisator groepsopvang met een subsidie voor inkomenstarief T2a die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
 
+### ART 8/1.
+
+Een organisator groepsopvang met een subsidie voor inkomenstarief T2a die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt:<br>
+1° 231,85 euro per gesubsidieerde kinderopvangplaats als de gemiddelde leeftijd van de personen, vermeld in artikel 5, vierde lid, twintig jaar is;<br>
+2° voor elk jaar boven op de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar, tot maximaal een gemiddelde leeftijd van zestig jaar wordt het bedrag, vermeld in punt 1°, verhoogd met 3,30 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie T2a ontvangt.<br>
+<br>
+Een organisator groepsopvang met een subsidie voor inkomenstarief T2b die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt:<br>
+1° 188,11 euro per gesubsidieerde kinderopvangplaats als de gemiddelde leeftijd van de personen, vermeld in artikel 5, vierde lid, twintig jaar is;<br>
+2° voor elk jaar boven op de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar, tot maximaal een gemiddelde leeftijd van zestig jaar, wordt het bedrag, vermeld in punt 1°, verhoogd met 2,70 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie T2b ontvangt.
+
 ### ART 9.
 
 Een organisator groepsopvang met een subsidie voor inkomenstarief T2a of T2b die een openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering van 45,78 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie voor inkomenstarief T2a of T2b ontvangt.
@@ -125,6 +135,16 @@ Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a die geen o
 ### ART 12.
 
 Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
+
+### ART 12/1.
+
+Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt:<br>
+1° 17,08 euro per gesubsidieerde kinderopvangplaats als de gemiddelde leeftijd van de personen, vermeld in artikel 5, vierde lid, twintig jaar is;<br>
+2° voor elk jaar boven op de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar, tot maximaal een gemiddelde leeftijd van zestig jaar, wordt het bedrag, vermeld in punt 1°, verhoogd met 0,20 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie T2a ontvangt.<br>
+<br>
+Een organisator gezinsopvang met een subsidie voor inkomenstarief T2b die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt:<br>
+1° 13,61 euro per gesubsidieerde kinderopvangplaats als de gemiddelde leeftijd van de personen, vermeld in artikel 5, vierde lid, twintig jaar is;<br>
+2° voor elk jaar boven op de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar, tot maximaal een gemiddelde leeftijd van zestig jaar wordt het bedrag, vermeld in punt 1°, verhoogd met 0,16 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie T2b ontvangt.
 
 ### ART 13.
 
@@ -172,6 +192,13 @@ Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die 
 ### ART 19.
 
 Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
+
+### ART 19/1.
+
+Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt:<br>
+1° 283,07 euro per equivalentvolle opvangplaats voor de eerste 21 equivalentvolle opvangplaatsen;<br>
+2° 141,53 euro per equivalentvolle opvangplaats vanaf de 22ste equivalentvolle opvangplaats;<br>
+3° 94,36 euro per equivalentvolle opvangplaats vanaf de 23ste equivalentvolle opvangplaats.
 
 ### ART 20.
 
@@ -226,6 +253,10 @@ Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD
 
 Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD krijgt, die geen openbaar bestuur is, ontvangt van het agentschap Opgroeien regie een subsidie voor de lonen van de FCUD kinderbegeleiders in die buitenschoolse opvang. De subsidie bedraagt 5.127,83 euro per voltijds equivalent.
 
+### ART 24/3.
+
+Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD krijgt, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning van de FCUD-coördinatoren in die buitenschoolse opvang. De subsidie bedraagt 2.160,69 euro per voltijds equivalent.
+
 ## Afdeling 4 Buitenschoolse opvang in een afzonderlijke binnenruimte
 
 ### ART 25.
@@ -239,6 +270,10 @@ Een organisator met een subsidie voor buitenschoolse opvang in een afzonderlijke
 ### ART 27.
 
 Een organisator met een subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
+
+### ART 27/1.
+
+Een organisator met een subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning van 83,89 euro per gesubsidieerde opvangplaats.
 
 ### ART 28.
 
@@ -257,6 +292,10 @@ Een organisator met een subsidie voor lokale diensten, die geen openbaar bestuur
 ### ART 31.
 
 Een organisator met een subsidie voor lokale diensten, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
+
+### ART 31/1.
+
+Een organisator met een subsidie voor lokale diensten, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning van 248,19 euro per gesubsidieerde opvangplaats.
 
 ### ART 32.
 
@@ -281,6 +320,10 @@ Een organisator met een subsidie voor flexibele opvangpool, die geen openbaar be
 ### ART 34.
 
 &nbsp;Een organisator met een subsidie voor flexibele opvangpool, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor de eindejaarspremie van 908,36 euro per voltijdsequivalent doelgroepwerknemer.
+
+### ART 34/1.
+
+Een organisator met een subsidie voor flexibele opvangpool, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning van 2 160,69 euro per voltijdsequivalent doelgroepwerknemer.
 
 ### ART 35.
 
