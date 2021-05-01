@@ -38,6 +38,27 @@ In artikel 145<sup>46/1</sup>&nbsp;van het Wetboek van de Inkomstenbelastingen 1
 
 ## Afdeling 3. Wijziging aan het decreet van 15 juli 2011 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap NV Vlaams Energiebedrijf
 
+### ART 21.
+
+Aan artikel 4 van het decreet van 15 juli 2011 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap NV Vlaams Energiebedrijf wordt een paragraaf 5 toegevoegd, die luidt als volgt:<br>
+" § 5. Het Vlaams Energiebedrijf en haar dochterondernemingen kunnen middelen toekennen aan publieke entiteiten voor zover deze rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van de opdrachten, vermeld in paragraaf 2.".
+
+### ART 22.
+
+Aan artikel 5 van het hetzelfde decreet, waarvan de bestaande tekst paragraaf 1 zal vormen, wordt een paragraaf 2 toegevoegd, die luidt als volgt:<br>
+" § 2. Het Vlaams Energiebedrijf en haar dochterondernemingen kunnen in het kader van (beheers-)opdrachten, voor zover deze rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van de opdrachten vermeld in artikel 4, § 2, beschikken over volgende ontvangsten:<br>
+1° dotaties en toelagen;<br>
+2° leningen;<br>
+3° fiscale heffingen voor zover ze bij decreet toegewezen zijn aan het Vlaams Energiebedrijf;<br>
+4° retributies voor zover ze bij decreet toegewezen zijn aan het Vlaams Energiebedrijf;<br>
+5° schenkingen en legaten in contanten. De raad van bestuur beoordeelt vooraf de opportuniteit en de risico's van de aanvaarding;<br>
+6° inkomsten uit eigen participaties en uit door het Vlaams Energiebedrijf verstrekte leningen aan derden;<br>
+7° opbrengsten uit de verkoop van eigen participaties;<br>
+8° de subsidies waarvoor het Vlaams Energiebedrijf als begunstigde in aanmerking komt;<br>
+9° terugvorderingen van ten onrechte gedane uitgaven;<br>
+10° vergoedingen voor prestaties aan derden, volgens de voorwaarden, bepaald in de samenwerkingsovereenkomst;<br>
+11° opbrengsten uit intellectuele rechten;".
+
 ## Afdeling 4. Dierenwelzijnsfonds
 
 ## Afdeling 5. Wijziging aan de Vlaamse Codex Wonen van 2021
