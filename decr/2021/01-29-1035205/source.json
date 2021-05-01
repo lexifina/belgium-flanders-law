@@ -2,16 +2,16 @@
   "codex_id": 1035205,
   "title": "Decreet van 2021-01-29 tot wijziging van artikel 5 en 42 van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035205/VolledigDocument?datum=2021-02-21",
-  "source_sha256": "8eac1320cccd1921af9a3814b0af80c3d33338008ac2d8b3171edf41ab09e6ed",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035205/VolledigDocument?datum=2021-05-01",
+  "source_sha256": "f77691120b990b63e6ca145805ee1868a293b81f4f9ec6f3797930a7461a65d7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035205&param=informatie",
-  "as_of": "2021-02-21",
+  "as_of": "2021-05-01",
   "made": "2021-01-29",
   "gazette": "2021-02-11",
   "numac": 2021040398,
   "document_start": "2021-02-21",
   "document_end": null,
-  "in_force": "2021-02-21",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2021-02-21; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-05-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-05-01; future article versions excluded; article text as the API gives it"
 }
