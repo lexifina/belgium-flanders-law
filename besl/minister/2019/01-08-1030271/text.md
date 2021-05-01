@@ -24,20 +24,20 @@ Besluit :
 
 ### ART 1.
 
-De lijst met aandoeningen en voorgaande feiten van personen met een indicatie van een arbeidshandicap en de lijst met de multidisciplinaire informatie, bepaald in artikel 4,&nbsp;eerste lid, 1°, en tweede lid,&nbsp;1°, van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap worden aangehecht als bijlage bij dit besluit.
+...
 
 ### ART 2.
 
-Het Agentschap Innoveren en Ondernemen, vermeld in artikel 7 van het decreet van 20 november 2015 houdende diverse maatregelen inzake de herstructurering van het beleidsdomein Economie, Wetenschap en Innovatie, is gelast met het beoordelen van de zelfstandige activiteit, bepaald in artikel 35, derde lid, van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap.
+...
 
 ### ART 3.
 
-Het ministerieel besluit van 30 mei 2018 tot vaststelling van de lijst met aandoeningen en voorgaande feiten van personen met een indicatie van een arbeidshandicap en de lijst met multidisciplinaire informatie, bepaald in artikel 4, tweede lid, 1° en 2°, van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap wordt opgeheven.
+...
 
 ### ART 4.
 
-Dit besluit treedt in werking op 1 januari 2019.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/02/15_1.pdf#page=1579">Bijlage</a>
+...
