@@ -2460,15 +2460,19 @@ In afwijking van het eerste lid wordt het aandeel van de personeelskosten in de 
 
 ### ART 193/1.
 
-De in dit artikel vermelde maatregel is van toepassing op de revalidatievoorzieningen waarvan het in bijlage 9 bij dit besluit vermelde erkenningsnummer begint met nummer 7.71, 7.72, 7.73, 7.74, 7.76, 9.53, 9.65 of 9.69.<br>
+§ 1. De in dit artikel vermelde maatregel is van toepassing op de revalidatievoorzieningen waarvan het in bijlage 9 bij dit besluit vermelde erkenningsnummer begint met nummer 7.71, 7.72, 7.73, 7.74, 7.76, 9.53, 9.65 of 9.69.<br>
 <br>
 Vanaf april 2020 wordt een budgetgarantie voorzien als bepaald in dit artikel.<br>
 <br>
-Vanaf 15 april 2020 wordt maandelijks een compenserend budget ingevolge de COVID-19 pandemie betaald. Het compenserend budget is het verschil tussen het het bedrag dat gefactureerd wordt op basis van een reguliere activiteit en het bedrag dat, met respect voor de bepalingen van dit besluit, aan de verzekeringsinstellingen gefactureerd werd voor de gerealiseerde revalidatieprestaties in de voorbije maand. Het bedrag dat gefactureerd wordt op basis van een reguliere activiteit wordt door het agentschap berekend en is het product van het aantal eenheidsprestaties in de overeenstemmende maand van het voorbije jaar met de vigerende eenheidsprijs zoals vermeld in artikel 191, § 1, 1°. Als de revalidatievoorziening staaft dat in de overeenstemmende maand van het voorbije jaar uitzonderlijke omstandigheden waren, waardoor de overeenstemmende maand niet representatief is en significante afwijkingen van de normale activiteitsgraad bestaan, kan het aantal eenheidsprestaties worden bijgesteld na onderzoek door het agentschap.<br>
+Vanaf 15 april 2020 wordt maandelijks een compenserend budget ingevolge de COVID-19 pandemie betaald. Het compenserend budget is het verschil tussen het het bedrag dat gefactureerd wordt op basis van een reguliere activiteit en het bedrag dat, met respect voor de bepalingen van dit besluit, aan de verzekeringsinstellingen gefactureerd werd voor de gerealiseerde revalidatieprestaties in de voorbije maand. Het bedrag dat gefactureerd wordt op basis van een reguliere activiteit wordt door het agentschap berekend en is het product van het aantal eenheidsprestaties in de overeenstemmende maand van het voorbije jaar met de vigerende eenheidsprijs zoals vermeld in artikel 191, § 1, 1°. Vanaf april 2021 is het bedrag dat gefactureerd wordt op basis van een reguliere activiteit het bedrag dat door het agentschap werd berekend voor de overeenstemmende maand van het jaar 2020. Als de revalidatievoorziening staaft dat in de overeenstemmende maand van het voorbije jaar uitzonderlijke omstandigheden waren, waardoor de overeenstemmende maand niet representatief is en significante afwijkingen van de normale activiteitsgraad bestaan, kan het aantal eenheidsprestaties worden bijgesteld na onderzoek door het agentschap.<br>
 <br>
 Wat betreft het persoonlijk aandeel van de zorggebruikers kan het compenserend budget, vermeld in het tweede lid, niet worden gewijzigd.<br>
 <br>
-De minister bepaalt het tijdstip waarop deze maatregel eindigt.
+Er kan een laatste keer een compenserend budget worden aangerekend voor de maand juni 2021.<br>
+<br>
+§ 2. In september 2021 doet het agentschap een eindafrekening voor het in paragraaf 1 bepaalde compenserend budget van het jaar 2020. Het agentschap berekent het verschil tussen de voor het jaar 2020 betaalde bedrag aan compenserend budget en het bedrag dat de revalidatievoorziening voor 90 % van het theoretisch aantal eenheidsverstrekkingen, vermeld in artikel 191, § 1, 3°, zou kunnen hebben factureren. Als een revalidatievoorziening in 2019 meer dan 90 % van het theoretisch aantal eenheidsprestaties heeft gefactureerd, wordt in de berekening van het verschil rekening gehouden met het percentage dat in 2019 werd gefactureerd. Het bedrag dat aldus werd berekend wordt hetzij teruggevorderd van de revalidatievoorziening, hetzij betaald door het agentschap.<br>
+<br>
+In september 2022 doet het agentschap een eindafrekening voor het in paragraaf 1 bepaalde compenserend budget van het jaar 2021. Hiervoor wordt dezelfde methodologie gevolgd als in het eerste lid, toegepast op de eerste zes maanden van het jaar 2021.
 
 ## HOOFDSTUK 2. Tegemoetkomingen voor reiskosten
 
@@ -3288,7 +3292,7 @@ Vanaf 15 april 2020 wordt maandelijks een compenserend budget ingevolge de COVID
 <br>
 Wat betreft het persoonlijk aandeel van de zorggebruikers kan het compenserend budget, vermeld in het tweede lid, niet worden gewijzigd.<br>
 <br>
-De minister bepaalt het tijdstip waarop deze maatregel eindigt.
+Er kan een laatste keer een compenserend budget worden aangerekend voor de maand juni 2021.
 
 ## HOOFDSTUK 3. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
