@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035508,
+  "title": "Ministerieel besluit van 2021-04-28 tot vaststelling van een keurings- en certificeringsreglement voor de productie van pootaardappelen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035508/VolledigDocument?datum=2021-05-01",
+  "source_sha256": "a5e921c6b39ec7c7b00dd988718da5f289942f36d8c620b9b5d04689017f16af",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035508&param=informatie",
+  "as_of": "2021-05-01",
+  "made": "2021-04-28",
+  "gazette": "2021-04-30",
+  "numac": 2021020776,
+  "document_start": "2021-05-01",
+  "document_end": null,
+  "in_force": "2021-05-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
