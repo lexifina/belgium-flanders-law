@@ -39,6 +39,12 @@ In artikel VI 1 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse 
 <br>
 "In afwijking van het tweede lid, kan de oproep gericht worden tot de personeelsleden van het agentschap Opgroeien en het agentschap Opgroeien regie samen.".
 
+### ART 4.
+
+In hetzelfde besluit, het laatst gewijzigd door het besluit van de Vlaamse regering van 11 september 2000, wordt een artikel VI 3quater ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. VI 3quater. Als de functie voorkomt op de lijst van knelpuntfuncties, vermeld in artikel III 3, § 1, kan de lijnmanager, voorafgaand aan de vacant verklaring bij horizontale mobiliteit of bevordering, afwijken van de diplomavoorwaarde, vermeld in bijlage 4 of in artikel VI 46 § 2.".
+
 ### ART 5.
 
 Aan artikel VI 12, § 1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, vervangen bij het besluit van de Vlaamse regering van 29 april 2011 en gewijzigd bij de besluiten van de Vlaamse Regering van 21 februari 2014 en 3 juli 2015, wordt een zesde lid toegevoegd, dat luidt als volgt:<br>
@@ -87,6 +93,12 @@ In artikel VI 168, tweede en derde lid, van hetzelfde besluit, ingevoegd bij het
 1° "de zinsnede "conform artikel VII 209" wordt vervangen door de zinsnede "conform artikel VII 210";<br>
 2° de zinsnede "vermeld in artikel VII 209", wordt vervangen door de zinsnede "vermeld in de artikelen VII 209 en VII 210, § 2".
 
+### ART 13.
+
+In artikel VII 2, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, en vervangen bij het besluit van de Vlaamse Regering van 20 april 2018, wordt tussen het eerste en het tweede lid, een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+"Voor de N-functies doet de opdrachtgever de valorisatie.".
+
 ### ART 14.
 
 In artikel VII 12, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 6 september 2019, wordt een punt 3° bis ingevoegd, dat luidt als volgt:<br>
@@ -104,6 +116,46 @@ In deel VII, titel 2, hoofdstuk 3, van hetzelfde besluit, ingevoegd bij het besl
 ### ART 16.
 
 In artikel VII 56, § 1, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, en gewijzigd bij de besluiten van de Vlaamse Regering van 13 november 2015 en 20 april 2018, wordt het woord "Jongerenwelzijn" vervangen door het woord "Opgroeien".
+
+### ART 17.
+
+In artikel VII 76 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, en vervangen bij het besluit van de Vlaamse Regering van 27 januari 2017, wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+"De verplaatsingen die het personeelslid maakt om de volgende redenen worden gelijkgesteld met een dienstreis:<br>
+1° medisch onderzoek;<br>
+2° deelname aan een vormingsactiviteit;<br>
+3° zijn personeelsdossier inkijken als de te consulteren documenten niet elektronisch geraadpleegd kunnen worden;<br>
+4° een proef of examen afleggen;<br>
+5° een arbeids(weg)ongeval;<br>
+6° een gesprek met de vertrouwenspersoon of de preventieadviseur psychosociale aspecten;<br>
+7° deelname aan een zitting van de raad van beroep als assessor.".
+
+### ART 18.
+
+In artikel VII 78, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, en vervangen bij het besluit van de Vlaamse Regering van 27 januari 2017, worden tussen het woord "dient" en het woord "binnen" de woorden "op straffe van verval van recht" ingevoegd.
+
+### ART 19.
+
+Artikel VII 91 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, vervangen bij het besluit van de Vlaamse Regering van 1 februari 2013 en gewijzigd bij het besluit van de Vlaamse Regering van 11 september 2020, wordt vervangen door wat volgt:<br>
+<br>
+"Art. VII 91. Tenzij het reglementair anders bepaald is, hebben de personeelsleden van het Departement Kanselarij en Buitenlandse Zaken die Vlaanderen in het buitenland vertegenwoordigen recht op de volgende vergoedingen, toelagen en voordelen waarvan de Vlaamse minister, bevoegd voor de human resources, in overleg met de functionele minister het bedrag en de toekenningsvoorwaarden bepaalt:<br>
+1° een postvergoeding;<br>
+2° een terugkeertoelage;<br>
+3° een vergoeding voor dienstreizen;<br>
+4° een vergoeding voor een verlofreis naar België;<br>
+5° een vergoeding voor verhuiskosten;<br>
+6° een vergoeding voor de huur van een woning in het buitenland;<br>
+7° een vergoeding voor schoolkosten;<br>
+8° een verzekering voor medische kosten en repatriëring;<br>
+9° een inrichtingsvergoeding;<br>
+10° een vergoeding voor de beveiliging van een woning en de inwonenden bij aanstelling in een risicopost;<br>
+11° een verzekering gewaarborgd inkomen bij ziekte of ongeval;<br>
+12° een vergoeding voor een verluchtingsreis of maatregelen in het kader van luchtverontreiniging;<br>
+13° een dienstvoertuig voor posten in Afrika.".
+
+### ART 20.
+
+In artikel VII 109bis, tweede lid, 2°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 mei 2008, en gewijzigd bij het besluit van de Vlaamse Regering van 27 januari 2017, worden de woorden "en als gids bij het KMSKA" opgeheven.
 
 ### ART 21.
 
