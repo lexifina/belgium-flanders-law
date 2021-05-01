@@ -262,9 +262,7 @@ De in artikel 12 bedoelde overeenkomst bevat minstens:<BR>1° de identiteit   va
 
 ### ART 13/1.
 
-Aan iedere budgethouder die start met het PAB-budget, verleent het agentschap boven op het toegekende PAB-budget een aanvullende subsidie van 170 euro om een verkennend gesprek te voeren met een bijstandsorganisatie.<br>
-<br>
-Het subsidiebedrag, vermeld in het eerste lid, wordt betaald aan de bijstandsorganisaties en wordt vanaf 1 januari 2022 jaarlijks aangepast, rekening houdend met het indexcijfer der consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule: (basisbedrag jaar x-1) x (G-index december jaar x-1)/G-index december jaar x-2.". Het bedrag dat wordt verkregen, wordt rekenkundig afgerond tot op de euro.).
+Budgethouders die starten met het PAB kunnen aanspraak maken op bijstand bij de opstart van de besteding als vermeld in artikel 16/0, § 2, van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering. Ze sluiten zich daarvoor als lid aan bij een bijstandsorganisatie die is vergund door het agentschap conform artikel 6 tot en met artikel 8 van het voormelde besluit. Ze doen dat binnen het jaar te rekenen vanaf de datum van de jeugdhulpverleningsbeslissing, vermeld in artikel 2, § 1, 28°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, over de toekenning van een persoonlijke assistentiebudget. Ze hoeven daarvoor geen lidgeld te betalen. Ze hoeven de bijstand ook niet te vergoeden met het PAB.
 
 ### ART 13/2.
 
