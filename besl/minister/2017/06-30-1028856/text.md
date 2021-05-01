@@ -54,13 +54,13 @@ Het maximale steunbedrag, vermeld in artikel 6, tweede lid, van het besluit van 
 <br>
 Het maximale steunbedrag, vermeld in artikel 6, derde lid, van het besluit van 21 april 2017, bedraagt zes euro voor de verstrekking van groenten en fruit en&nbsp;twaalf euro voor de verstrekking van melk.<br>
 <br>
-De documenten, vermeld in artikel 6, vierde lid, van het besluit van 21 april 2017, zijn de facturen en betaalbewijzen. Op deze facturen staan de soorten aangeleverde groenten, fruit en melk, de hoeveelheid, het totaal bedrag, het btw-bedrag en de datum van levering.
+De documenten, vermeld in artikel 6, vijfde lid, van het besluit van 21 april 2017, zijn de facturen en betaalbewijzen. Op deze facturen staan de soorten aangeleverde groenten, fruit en melk, de hoeveelheid, het totaal bedrag, het btw-bedrag en de datum van levering.
 
 ### ART 4.
 
 Een deelnameverklaring als vermeld in artikel 7, eerste lid, van het besluit van 21 april 2017, wordt elektronisch ingediend via het e-loket.<br>
 <br>
-De uiterste indieningsdatum, vermeld in artikel 7, vierde lid, van het besluit van 21 april 2017, is&nbsp;1 oktober&nbsp;van het schooljaar in kwestie.<br>
+De uiterste indieningsdatum, vermeld in artikel 7, zesde lid, van het besluit van 21 april 2017, is&nbsp;1 oktober&nbsp;van het schooljaar in kwestie.<br>
 <br>
 Als de dag, vermeld in het tweede lid, een weekenddag is, is de eerstvolgende maandag de uiterste dag voor de indiening van de deelnameverklaring.
 
@@ -68,7 +68,9 @@ Als de dag, vermeld in het tweede lid, een weekenddag is, is de eerstvolgende ma
 
 De steunaanvraag, vermeld in artikel 9, eerste lid, van het besluit van 21 april 2017, wordt elektronisch ingediend via het e-loket.<br>
 <br>
-De uiterste indieningsdatum, vermeld in artikel 9, vierde lid, van het besluit van 21 april 2017, is 30&nbsp;april voor een steunaanvraag die betrekking heeft op een verstrekking als vermeld in artikel 5, tweede lid, van het besluit van 21 april 2017, en&nbsp;31 juli&nbsp;voor een steunaanvraag die betrekking heeft op een verstrekking als vermeld in artikel 5, derde lid, van het besluit van 21 april 2017.
+De uiterste indieningsdatum, vermeld in artikel 9, vijfde lid, van het besluit van 21 april 2017, is 30&nbsp;april voor een steunaanvraag die betrekking heeft op een verstrekking als vermeld in artikel 5, tweede lid, van het besluit van 21 april 2017, en&nbsp;31 juli&nbsp;voor een steunaanvraag die betrekking heeft op een verstrekking als vermeld in artikel 5, derde lid, van het besluit van 21 april 2017.<br>
+<br>
+In afwijking van het tweede lid is de uiterste indieningsdatum voor het schooljaar 2020-2021 31 augustus 2021 voor een steunaanvraag die betrekking heeft op een verstrekking als vermeld in artikel 5, tweede en derde lid, van het besluit van 21 april 2017.
 
 ### ART 6.
 
