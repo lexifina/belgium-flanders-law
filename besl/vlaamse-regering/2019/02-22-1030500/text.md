@@ -42,8 +42,8 @@ In afwijking van het eerste lid, gaat de subsidie in vanaf 1 januari 2019 voor d
 ### ART 4.
 
 De subsidie bedraagt:<br>
-1° voor de organisator die onder de private sector valt: 13.516,14 euro per voltijdsequivalent kinderbegeleider per kalenderjaar;<br>
-2° voor de organisator die onder de publieke sector valt: 17.625,03 euro per voltijdsequivalent kinderbegeleider per kalenderjaar.<br>
+1° voor de organisator die onder de private sector valt: 14.698,54 euro per voltijdsequivalent kinderbegeleider per kalenderjaar;<br>
+2° voor de organisator die onder de publieke sector valt: 18.410,00 euro per voltijdsequivalent kinderbegeleider per kalenderjaar.<br>
 <br>
 Het bedrag, vermeld in het eerste lid, wordt verhoudingsgewijs verminderd als een voltijdsequivalent of een fractie ervan uit het vernieuwende project stapt en niet vervangen wordt binnen maximaal drie maanden, vanaf de eerste dag van de maand nadat de gewijzigde situatie zich heeft voorgedaan. Als blijkt dat binnen de voormelde periode van drie maanden geen invulling kon worden gegeven, wordt het aandeel dat betrekking heeft op de verminderde voltijdsequivalent verrekend met het daaropvolgende kwartaal of door de organisator terugbetaald vanaf de eerste dag van de maand nadat de gewijzigde situatie zich heeft voorgedaan.
 

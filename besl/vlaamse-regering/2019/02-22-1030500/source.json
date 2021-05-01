@@ -2,16 +2,16 @@
   "codex_id": 1030500,
   "title": "Besluit van de Vlaamse Regering van 2019-02-22 houdende de toekenning van een subsidie voor een vernieuwend project werknemersstatuut van de kinderbegeleider gezinsopvang",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030500/VolledigDocument?datum=2021-04-01",
-  "source_sha256": "163c38f1c2aa20cdddad79d3827d7d7f572cbef991ee340b466a46e77fd4817b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030500/VolledigDocument?datum=2021-05-01",
+  "source_sha256": "f91aa6e1e04655bf8f3c45f60e922820d65b71f03eb79b40cea2d64a3393e214",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030500&param=informatie",
-  "as_of": "2021-04-01",
+  "as_of": "2021-05-01",
   "made": "2019-02-22",
   "gazette": "2019-04-02",
   "numac": 2019011328,
   "document_start": "2019-01-01",
   "document_end": "2021-03-31",
-  "in_force": "2021-04-01",
+  "in_force": "2021-05-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2021-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-05-01; future article versions excluded; article text as the API gives it"
 }
