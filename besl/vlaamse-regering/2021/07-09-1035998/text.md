@@ -23,6 +23,12 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## Afdeling 1. Wijzigingen van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap
 
+### ART 1.
+
+Artikel 13/1 van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap, ingevoegd bij het besluit van de Vlaamse Regering van 15 december 2017 en vervangen bij het besluit van de Vlaamse Regering van 20 november 2020, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 13/1. Budgethouders die starten met het PAB kunnen aanspraak maken op bijstand bij de opstart van de besteding als vermeld in artikel 16/0, § 2, van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering. Ze sluiten zich daarvoor als lid aan bij een bijstandsorganisatie die is vergund door het agentschap conform artikel 6 tot en met artikel 8 van het voormelde besluit. Ze doen dat binnen het jaar te rekenen vanaf de datum van de jeugdhulpverleningsbeslissing, vermeld in artikel 2, § 1, 28°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, over de toekenning van een persoonlijke assistentiebudget. Ze hoeven daarvoor geen lidgeld te betalen. Ze hoeven de bijstand ook niet te vergoeden met het PAB.".
+
 ## Afdeling 2. Wijzigingen van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering
 
 ### ART 3.
@@ -45,6 +51,41 @@ De subsidies, vermeld in het tweede lid, worden jaarlijks voor 1 april van het k
 <br>
 75% van de subsidies die op jaarbasis worden toegekend conform dit artikel, wordt besteed aan personeelskosten.".
 
+### ART 5.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 juli 2020, wordt een artikel 16/0 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 16/0. § 1. In dit artikel wordt verstaan onder persoonlijke-assistentiebudget: een persoonlijke-assistentiebudget als vermeld in artikel 19/2 van het decreet van 7 mei 2004.<br>
+<br>
+§ 2. Binnen de perken van de daarvoor op de begroting vastgelegde kredieten, kent het agentschap in de volgende gevallen aan vergunde bijstandsorganisaties subsidies toe voor het verlenen van bijstand aan budgethouders bij de opstart van de besteding van het persoonsvolgend budget of van het persoonlijke- assistentiebudget en voor de vergoeding van het lidgeld voor een jaar:<br>
+1° er is voor het eerst een persoonlijke-assistentiebudget toegekend;<br>
+2° er is voor het eerst een persoonsvolgend budget ter beschikking gesteld en er was geen persoonlijke-assistentiebudget toegekend. Bij de vaststelling of het om een eerste terbeschikkingstelling gaat, wordt geen rekening gehouden met de terbeschikkingstelling van een persoonsvolgend budget conform artikel 28 tot en met 31 van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget.<br>
+<br>
+De bijstand, vermeld in het eerste lid, heeft tot doel om de besteding van het persoonlijke assistentiebudget of het persoonsvolgend budget tijdig en correct op te starten.<br>
+<br>
+De bijstandsorganisaties hanteren voor het verlenen van bijstand als vermeld in het eerste lid, een methodiek die het agentschap in samenspraak met de vergunde bijstandsorganisaties vaststelt.<br>
+<br>
+§ 3. Het agentschap kent een bedrag toe van 800 euro per budgethouder aan de vergunde bijstandsorganisatie bij wie een budgethouder zich als lid aansluit in de gevallen, vermeld in paragraaf 2, eerste lid, binnen het jaar te rekenen vanaf de datum van de jeugdhulpverleningsbeslissing, vermeld in artikel 2, § 1, 28°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, over de toekenning van een persoonlijke-assistentiebudget of vanaf de datum van de beslissing van het agentschap over de terbeschikkingstelling van een persoonsvolgend budget.<br>
+<br>
+Voor alle budgethouders, vermeld in paragraaf 2, eerste lid, kan maar één keer de subsidie, vermeld in het eerste lid, worden toegekend. Als budgethouders als vermeld in paragraaf 2, eerste lid, zich bij meer dan één bijstandsorganisatie aansluiten als lid, wordt de subsidie toegekend aan de bijstandsorganisatie bij wie ze zich het eerst als lid hebben aangesloten.<br>
+<br>
+Het agentschap betaalt de subsidie, vermeld in het eerste lid, op kwartaalbasis, voor het einde van de tweede maand die volgt op een afgelopen kwartaal.<br>
+<br>
+De vergunde bijstandsorganisaties bezorgen een jaarverslag aan het agentschap voor 1 maart van het kalenderjaar dat volgt op het kalenderjaar waarop de subsidies, vermeld in het derde lid, betrekking hebben.<br>
+<br>
+Het agentschap bepaalt de vorm en de inhoud van het jaarverslag, dat minstens de volgende elementen behandelt:<br>
+1° het aantal budgethouders aan wie bijstand als vermeld in paragraaf 2, is verleend;<br>
+2° de wijze waarop bijstand is verleend en de behaalde resultaten;<br>
+3° de mate waarin bijkomende hoogdrempelige individuele bijstand nodig is die door de budgethouder wordt betaald;<br>
+4° een resultatenrekening waarin alle kosten en opbrengsten van de gesubsidieerde activiteiten zijn opgenomen;<br>
+5° conclusies, tendensen en inzichten in verschillende snelheden van opstarten, die in samenspraak met de andere vergunde bijstandsorganisaties tot stand zijn gekomen.<br>
+<br>
+Als het agentschap dat nodig acht, kan het overlegmomenten organiseren met de vergunde bijstandsorganisaties om de resultaten van de bijstand, vermeld in paragraaf 2, en de methodiek, vermeld in paragraaf 2, derde lid, tussentijds te evalueren.".
+
+### ART 6.
+
+In artikel 16/1, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 11 januari 2019, wordt de zinsnede "artikel 16, vijfde lid," vervangen door de zinsnede "artikel 16, vierde lid, en artikel 16/0, § 3, derde lid.".
+
 ### ART 7.
 
 Artikel 17 van hetzelfde besluit wordt vervangen door wat volgt:<br>
@@ -53,6 +94,14 @@ Artikel 17 van hetzelfde besluit wordt vervangen door wat volgt:<br>
 (basisbedrag x G-index december 20..)/G-index december 2020.".
 
 ## Afdeling 3. Wijziging van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders
+
+### ART 8.
+
+In het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 5 maart 2021, wordt een artikel 9/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 9/1. Als het agentschap voor het eerst een budget ter beschikking stelt en er geen persoonlijke-assistentiebudget als vermeld in artikel 19/2 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, is toegekend, kunnen budgethouders aanspraak maken op bijstand bij de opstart van de besteding als vermeld in artikel 16/0, § 2, van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering. Ze sluiten zich daarvoor als lid aan bij een bijstandsorganisatie die is vergund door het agentschap conform artikel 6 tot en met 8 van het voormelde besluit. Ze hoeven daarvoor geen lidgeld te betalen. Ze hoeven de bijstand ook niet te vergoeden met het budget.<br>
+<br>
+Bij de vaststelling of het om een eerste terbeschikkingstelling gaat, wordt geen rekening gehouden met de terbeschikkingstelling van een persoonsvolgend budget conform artikel 28 tot en met artikel 31 van het besluit van 27 november 2015.".
 
 ## HOOFDSTUK 2. Slotbepalingen
 
