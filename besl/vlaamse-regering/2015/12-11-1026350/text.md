@@ -138,9 +138,38 @@ Als een budgethouder zich bij meer dan een bijstandsorganisatie aansluit als lid
 De subsidies, vermeld in het tweede lid, worden jaarlijks voor 1 april van het kalenderjaar waarop ze betrekking hebben, uitbetaald.<br>
 75% van de subsidies die op jaarbasis worden toegekend conform dit artikel, wordt besteed aan personeelskosten.</p>
 
+### ART 16/0.
+
+§ 1. In dit artikel wordt verstaan onder persoonlijke-assistentiebudget: een persoonlijke-assistentiebudget als vermeld in artikel 19/2 van het decreet van 7 mei 2004.<br>
+<br>
+§ 2. Binnen de perken van de daarvoor op de begroting vastgelegde kredieten, kent het agentschap in de volgende gevallen aan vergunde bijstandsorganisaties subsidies toe voor het verlenen van bijstand aan budgethouders bij de opstart van de besteding van het persoonsvolgend budget of van het persoonlijke- assistentiebudget en voor de vergoeding van het lidgeld voor een jaar:<br>
+1° er is voor het eerst een persoonlijke-assistentiebudget toegekend;<br>
+2° er is voor het eerst een persoonsvolgend budget ter beschikking gesteld en er was geen persoonlijke-assistentiebudget toegekend. Bij de vaststelling of het om een eerste terbeschikkingstelling gaat, wordt geen rekening gehouden met de terbeschikkingstelling van een persoonsvolgend budget conform artikel 28 tot en met 31 van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget.<br>
+<br>
+De bijstand, vermeld in het eerste lid, heeft tot doel om de besteding van het persoonlijke assistentiebudget of het persoonsvolgend budget tijdig en correct op te starten.<br>
+<br>
+De bijstandsorganisaties hanteren voor het verlenen van bijstand als vermeld in het eerste lid, een methodiek die het agentschap in samenspraak met de vergunde bijstandsorganisaties vaststelt.<br>
+<br>
+§ 3. Het agentschap kent een bedrag toe van 800 euro per budgethouder aan de vergunde bijstandsorganisatie bij wie een budgethouder zich als lid aansluit in de gevallen, vermeld in paragraaf 2, eerste lid, binnen het jaar te rekenen vanaf de datum van de jeugdhulpverleningsbeslissing, vermeld in artikel 2, § 1, 28°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, over de toekenning van een persoonlijke-assistentiebudget of vanaf de datum van de beslissing van het agentschap over de terbeschikkingstelling van een persoonsvolgend budget.<br>
+<br>
+Voor alle budgethouders, vermeld in paragraaf 2, eerste lid, kan maar één keer de subsidie, vermeld in het eerste lid, worden toegekend. Als budgethouders als vermeld in paragraaf 2, eerste lid, zich bij meer dan één bijstandsorganisatie aansluiten als lid, wordt de subsidie toegekend aan de bijstandsorganisatie bij wie ze zich het eerst als lid hebben aangesloten.<br>
+<br>
+Het agentschap betaalt de subsidie, vermeld in het eerste lid, op kwartaalbasis, voor het einde van de tweede maand die volgt op een afgelopen kwartaal.<br>
+<br>
+De vergunde bijstandsorganisaties bezorgen een jaarverslag aan het agentschap voor 1 maart van het kalenderjaar dat volgt op het kalenderjaar waarop de subsidies, vermeld in het derde lid, betrekking hebben.<br>
+<br>
+Het agentschap bepaalt de vorm en de inhoud van het jaarverslag, dat minstens de volgende elementen behandelt:<br>
+1° het aantal budgethouders aan wie bijstand als vermeld in paragraaf 2, is verleend;<br>
+2° de wijze waarop bijstand is verleend en de behaalde resultaten;<br>
+3° de mate waarin bijkomende hoogdrempelige individuele bijstand nodig is die door de budgethouder wordt betaald;<br>
+4° een resultatenrekening waarin alle kosten en opbrengsten van de gesubsidieerde activiteiten zijn opgenomen;<br>
+5° conclusies, tendensen en inzichten in verschillende snelheden van opstarten, die in samenspraak met de andere vergunde bijstandsorganisaties tot stand zijn gekomen.<br>
+<br>
+Als het agentschap dat nodig acht, kan het overlegmomenten organiseren met de vergunde bijstandsorganisaties om de resultaten van de bijstand, vermeld in paragraaf 2, en de methodiek, vermeld in paragraaf 2, derde lid, tussentijds te evalueren.
+
 ### ART 16/1.
 
-Het gedeelte van de toegekende subsidies, vermeld in artikel 16, vijfde lid, dat de verantwoorde kosten overschrijdt, mag worden aangewend voor de aanleg van reserves tot maximaal 20 % van het subsidiebedrag, met uitzondering van het sociaal passief.<br>
+Het gedeelte van de toegekende subsidies, vermeld in artikel 16, vierde lid, en artikel 16/0, § 3, derde lid, dat de verantwoorde kosten overschrijdt, mag worden aangewend voor de aanleg van reserves tot maximaal 20 % van het subsidiebedrag, met uitzondering van het sociaal passief.<br>
 <br>
 De totale gecumuleerde reserves, met uitzondering van het sociaal passief, kunnen maximaal 50 % van het subsidiebedrag van het laatst gesubsidieerde werkingsjaar bedragen.<br>
 <br>
