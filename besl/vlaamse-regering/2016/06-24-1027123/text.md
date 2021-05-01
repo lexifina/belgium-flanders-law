@@ -197,6 +197,12 @@ Als budgethouders aan het agentschap meedelen dat ze afzien van de terbeschikkin
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° ofwel een overeenkomst heeft afgesloten als vermeld in artikel 7 en de gegevens over de overeenkomst conform artikel 17 heeft meegedeeld aan het agentschap.</span><br>
 &nbsp;
 
+### ART 9/1.
+
+Als het agentschap voor het eerst een budget ter beschikking stelt en er geen persoonlijke-assistentiebudget als vermeld in artikel 19/2 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, is toegekend, kunnen budgethouders aanspraak maken op bijstand bij de opstart van de besteding als vermeld in artikel 16/0, § 2, van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering. Ze sluiten zich daarvoor als lid aan bij een bijstandsorganisatie die is vergund door het agentschap conform artikel 6 tot en met 8 van het voormelde besluit. Ze hoeven daarvoor geen lidgeld te betalen. Ze hoeven de bijstand ook niet te vergoeden met het budget.<br>
+<br>
+Bij de vaststelling of het om een eerste terbeschikkingstelling gaat, wordt geen rekening gehouden met de terbeschikkingstelling van een persoonsvolgend budget conform artikel 28 tot en met artikel 31 van het besluit van 27 november 2015.
+
 ### ART 10.
 
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. De budgethouder kan met het oog op het starten met het besteden van het budget een deel van zijn budget als cashbudget of voucher gebruiken voor meer hoogdrempelige individuele bijstand die verleend wordt door een bijstandsorganisatie. Het deel van het budget dat hij daarvoor kan gebruiken bedraagt maximaal de kostprijs in euro's of zorggebonden punten voor vier sessies.</span><br>
