@@ -331,9 +331,9 @@ De wijk-werkcheque wordt als geldig beschouwd als hij al de gegevens, vermeld in
 
 De wijk-werkcheque heeft een geldigheidsduur van twaalf maanden. De cheque moet gebruikt worden tijdens de geldigheidsduur.<br>
 <br>
-In afwijking van het eerste lid heeft een geldige wijk-werkcheque met een uitgiftedatum tot en met 13 maart 2020 een geldigheidsduur van vijftien maanden.<br>
+In afwijking van het eerste lid heeft een geldige wijk-werkcheque met een uitgiftedatum tot en met 29 maart 2021 een geldigheidsduur van vijftien maanden.<br>
 <br>
-Met behoud van toepassing van artikel 42 en onder voorbehoud van het tweede lid, wordt de geldigheidsduur van een wijk-werkcheque met een vervaldatum vanaf 12 maart 2020 tot en met 12 juni 2020 verlengd met drie maanden.<br>
+Met behoud van toepassing van artikel 42 en onder voorbehoud van het tweede lid, wordt de geldigheidsduur van een wijk-werkcheque met een vervaldatum vanaf 29 maart 2021 tot en met 1 juni 2021 verlengd met drie maanden.<br>
 <br>
 De Vlaamse minister, bevoegd voor werk, kan de uitgifte- en vervaldatum alsook de termijnen van verlenging, zoals vermeld in lid twee en drie, aanpassen.<br>
 &nbsp;
