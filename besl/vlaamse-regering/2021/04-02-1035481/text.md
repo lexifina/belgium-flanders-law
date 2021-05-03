@@ -191,6 +191,31 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT :
 
+### ART 1.
+
+In het besluit van de Vlaamse Regering van 16 juli 2010 tot bepaling van stedenbouwkundige handelingen waarvoor geen omgevingsvergunning nodig is, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 juli 2020, wordt een hoofdstuk 13/1, dat bestaat uit artikel 13/1.1, ingevoegd, dat luidt als volgt :<br>
+<br>
+"Hoofdstuk 13/1. Tijdelijke regeling voor terrassen voor de horeca<br>
+<br>
+Art. 13/1.1. Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig om al dan niet gesloten of overdekte terrassen of terrasconstructies te plaatsen, zowel op privaat als op openbaar domein, bij bestaande, hoofdzakelijk vergunde of vergund geachte horecazaken als al de volgende voorwaarden zijn vervuld :<br>
+1° de terrasconstructie wordt volledig geplaatst binnen een straal van dertig meter van het hoofdgebouw van de horecazaak;<br>
+2° er wordt geen bijkomende verharding aangelegd, met uitzondering van de terrasconstructie zelf en de strikt noodzakelijke toegang tot de terrasconstructie;<br>
+3° de plaatsing gaat niet gepaard met :<br>
+a) een ontbossing;<br>
+b) een wijziging van vegetatie of kleine landschapselementen;<br>
+c) een aanmerkelijke reliëfwijziging;<br>
+d) een wijziging van waterlichamen.<br>
+<br>
+De vrijstelling, vermeld in het eerste lid, geldt tot en met 31 maart 2022. De terrasconstructie en de strikt noodzakelijke toegang ertoe worden vóór 1 mei 2022 verwijderd, tenzij de plaatsing inmiddels vergund is of rechtsgeldig beroep gedaan wordt op een andere bepaling van dit besluit.".
+
 ### ART 2.
 
 In het besluit van de Vlaamse Regering van 16 juli 2010 tot bepaling van stedenbouwkundige handelingen waarvoor geen omgevingsvergunning nodig is, het laatst gewijzigd bij dit besluit, wordt hoofdstuk 13/1, dat bestaat uit artikel 13/1.1, opgeheven.
+
+### ART 3.
+
+Artikel 2 treedt in werking op 1 mei 2022.
+
+### ART 4.
+
+De Vlaamse minister, bevoegd voor de omgeving en de natuur, is belast met de uitvoering van dit besluit.
