@@ -120,7 +120,7 @@ De periodes van loopbaanonderbreking, vermeld in het eerste lid, moeten onmiddel
 <br>
 De periodes van loopbaanonderbreking, vermeld in het eerste lid, moeten onmiddellijk op elkaar aansluiten. In dat geval wordt afgeweken van de ingangsdatum, vermeld in artikel 9, § 1 van dit besluit.<br>
 <br>
-§ 5/2. De gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 55 jaar of vanaf de leeftijd van vijftig jaar indien artikel 9, § 3, § 4 of § 5 van toepassing is, wordt geschorst op het ogenblik dat het personeelslid het recht doet gelden op een loopbaanonderbreking voor palliatieve zorgen of voor het hervatten van het werk binnen de periode van 16 maart 2020 tot en met 30 juni 2020 ingevolge de coronacrisis.<br>
+§ 5/2. De gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 55 jaar of vanaf de leeftijd van vijftig jaar indien artikel 9, § 3, § 4 of § 5 van toepassing is, wordt geschorst op het ogenblik dat het personeelslid het recht doet gelden op een loopbaanonderbreking voor palliatieve zorgen of voor het hervatten van het werk binnen de periode van 16 maart 2020 tot en met 30 juni 2020 of 3 mei 2021 tot en met 31 augustus 2021 ingevolge de coronacrisis.<br>
 <br>
 § 6. In afwijking van artikel 12, § 1 en § 2 wordt de volledige en de gedeeltelijke loopbaanonderbreking toegestaan tijdens de periode waarin het personeelslid een beroepsopleiding volgt.<br>
 <br>
