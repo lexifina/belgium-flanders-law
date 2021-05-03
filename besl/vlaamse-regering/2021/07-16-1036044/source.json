@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036044,
+  "title": "Besluit van de Vlaamse Regering van 2021-07-16 tot wijziging van het besluit van de Vlaamse regering van 24 mei 2002 betreffende de onderbreking van de beroepsloopbaan van de personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool, het Vlaams personeelsstatuut van 13 januari 2006, het besluit van de Vlaamse Regering van 9 september 2011 betreffende de loopbaanonderbreking van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding en het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet, wat betreft loopbaanonderbreking",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036044/VolledigDocument?datum=2021-05-03",
+  "source_sha256": "8f7d517f00cea23645f92d47d05b9cde3e85d15159bb8b8ed8486b46dee302e3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036044&param=informatie",
+  "as_of": "2021-05-03",
+  "made": "2021-07-16",
+  "gazette": "2021-09-14",
+  "numac": 2021032815,
+  "document_start": "2021-05-03",
+  "document_end": null,
+  "in_force": "2021-05-03",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2021-05-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
