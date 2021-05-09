@@ -9,17 +9,20 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid. Het zet onder meer
 ### ART. 2.
 
 In dit decreet wordt verstaan onder :<br>
-1° actualiteitenprogramma : een programma waarin een of meer actuele gebeurtenissen worden behandeld en/of becommentarieerd<br>
-1°/1 applicatieprogramma-interface, afgekort API : software-interface tussen externe toepassingen, die beschikbaar gesteld wordt door omroeporganisaties, dienstenverdelers of netwerkoperatoren, en de hulpmiddelen voor digitale televisie- en radio-omroep in de geavanceerde digitale eindapparatuur;<br>
+1° aanbieder van videoplatformdiensten: de natuurlijke of rechtspersoon die een videoplatformdienst aanbiedt;<br>
+1°/1 actualiteitenprogramma : een programma waarin een of meer actuele gebeurtenissen worden behandeld en/of becommentarieerd<br>
+1°/2 applicatieprogramma-interface, afgekort API : software-interface tussen externe toepassingen, die beschikbaar gesteld wordt door omroeporganisaties, dienstenverdelers of netwerkoperatoren, en de hulpmiddelen voor digitale televisie- en radio-omroep in de geavanceerde digitale eindapparatuur;<br>
 2° breedbeeldtelevisieprogramma : programma dat geheel of gedeeltelijk is geproduceerd en gemonteerd om te worden weergegeven in een schermvullend breedbeeldformaat. Het 16 :9-formaat geldt als referentiekader voor breedbeeldtelevisieprogramma's;<br>
 3° boodschappen van algemeen nut :<br>
 a) elke boodschap over hun beleid, die uitgaat van overheden of openbare instellingen, verenigingen of overheidsbedrijven die een meerderheid van overheidsvertegenwoordigers in de raad van bestuur hebben en een taak van openbare dienst vervullen die niet door de particuliere sector wordt uitgeoefend, en die bevoegd zijn voor en zich geheel of gedeeltelijk richten tot de Vlaamse Gemeenschap of de Nederlandstalige bevolking van het tweetalige gebied Brussel-Hoofdstad, ongeacht de vorm en ongeacht de betaling of de betalingswijze;<br>
 b) elke boodschap over hun opdracht van algemeen belang, die uitgaat van sociale en humanitaire verenigingen of van verenigingen die behoren tot het domein van het algemeen welzijn, ongeacht de vorm en ongeacht de betaling of de betalingswijze;<br>
 c) elke boodschap die uitgaat van door openbare besturen erkende of gesubsidieerde culturele verenigingen, en die ertoe strekt hun culturele activiteiten aan het publiek kenbaar te maken, ongeacht de vorm en ongeacht de betaling of de betalingswijze;<br>
 4° collectieve antenne ten behoeve van een gesloten gebruikersgroep : een installatie voor het opvangen van signalen van radio-omroep en televisie, waaraan verscheidene eindontvangsttoestellen zijn verbonden en voor het gebruik waarvan - buiten het aandeel van de gebruiker in de werkelijke kosten die uit de installatie, de werking en het onderhoud van de installatie voortvloeien - geen enkel abonnementsgeld wordt geëist;<br>
-5° commerciële communicatie : beelden of geluiden die dienen om rechtstreeks of onrechtstreeks de goederen, de diensten of het imago van een natuurlijke persoon of rechtspersoon die een economische activiteit verricht, te promoten. Dergelijke beelden of geluiden vergezellen of maken deel uit van een programma, tegen betaling of een soortgelijke vergoeding of voor zelfpromotie. Vormen van commerciële communicatie zijn onder meer reclame, sponsoring, telewinkelen en productplaatsing;<br>
+5° commerciële communicatie: beelden, al dan niet met geluid, of geluiden die dienen om rechtstreeks of onrechtstreeks de goederen, de diensten of het imago van een natuurlijke of rechtspersoon die een economische activiteit verricht, te promoten. Dergelijke beelden of geluiden vergezellen of maken deel uit van een programma of van door gebruikers gegenereerde inhoud, tegen betaling of een soortgelijke vergoeding of ten behoeve van zelfpromotie. Vormen van commerciële communicatie zijn onder meer reclame, sponsoring, telewinkelen en productplaatsing;<br>
 6° competitie : een reeks van wedstrijden van een groep van clubs waarbij elke club tegen alle andere clubs moet spelen of waarbij telkens twee clubs tegen elkaar moeten spelen, waarbij de verliezer wordt uitgeschakeld;<br>
+6° /1 Contactcomité: het contactcomité, vermeld in artikel 29 van richtlijn 2010/13/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten);<br>
 7° dienstenverdeler : elke rechtspersoon die door middel van elektronische communicatienetwerken een of meer omroepdiensten levert aan het publiek. De omroeporganisatie die alleen de eigen omroepdiensten ter beschikking van het publiek stelt, is geen dienstenverdeler;<br>
+7° /1 door gebruikers gegenereerde inhoud: een reeks bewegende beelden, al dan niet met geluid, of een reeks van klanken of geluiden, bestemd voor het algemene publiek of een deel ervan, die ongeacht de duur ervan een afzonderlijk element vormt, die door een gebruiker is gecreeerd en door die gebruiker of een andere gebruiker is geüpload naar een videoplatformdienst;<br>
 8° elektronisch communicatienetwerk : de transmissiesystemen en in voorkomend geval de schakel- of routeringsapparatuur en andere middelen, waaronder netwerkelementen die niet actief zijn, die het mogelijk maken om signalen van radio-omroep en de televisie over te brengen via draad, radiogolven, optische of andere elektromagnetische middelen, voor zover die voor de overdracht van signalen van radio-omroep en televisie worden gebruikt, waaronder satellietomroepnetwerken, vaste (circuit- en pakketgeschakelde, met inbegrip van internet) en mobiele netwerken, elektriciteitsnetten, etheromroepnetwerken en kabelomroepnetwerken;<br>
 9° elektronische communicatiedienst : een gewoonlijk tegen vergoeding aangeboden dienst die geheel of hoofdzakelijk bestaat in het overbrengen, waaronder schakel- en routeringsverrichtingen, van signalen van radio-omroep en televisie via elektronische communicatienetwerken;<br>
 10° etheromroepnetwerk : elektronisch communicatienetwerk waardoor signalen van radio-omroep en televisie in digitale vorm, al dan niet gecodeerd, via aardse zenders aan derden worden doorgegeven. Een etheromroepnetwerk kan radio-omroep- en televisiesignalen doorgeven in de hele Vlaamse Gemeenschap of in een deel ervan;<br>
@@ -48,30 +51,32 @@ c) producties die geen Europese producties zijn als vermeld in a), maar die verv
 23° niet-lineaire radiodienst : een niet-lineaire auditieve omroepdienst of auditieve omroepdienst op aanvraag, dat is een door een omroeporganisatie aangeboden omroepdienst die de gebruiker de mogelijkheid biedt om auditieve programma's te beluisteren op zijn individuele verzoek en op het door hem gekozen moment op basis van een door de omroeporganisatie geselecteerde programmacatalogus;<br>
 24° niet-lineaire televisiedienst : een niet-lineaire audiovisuele omroepdienst of audiovisuele omroepdienst op aanvraag, dat is een door een omroeporganisatie aangeboden omroepdienst die de gebruiker de mogelijkheid biedt om audiovisuele programma's te bekijken op zijn individuele verzoek en op het door hem gekozen moment op basis van een door de omroeporganisatie geselecteerde programmacatalogus;<br>
 25° omroepactiviteit : elke activiteit die bestaat in het ter beschikking stellen van bewegende beelden, al dan niet met geluid, of van een reeks van klanken of geluiden bestemd voor het algemene publiek of een deel ervan via elektronische communicatienetwerken. Omroepactiviteit wordt ook wel radio-omroep en televisie genoemd;<br>
-26° omroepdienst :<br>
-a) een dienst als vermeld in artikel 56 en 57 van het Verdrag betreffende de werking van de Europese Unie, die valt onder de redactionele verantwoordelijkheid van de aanbieder van de dienst, met als hoofddoel de levering aan het algemene publiek van audiovisuele of auditieve programma's ter informatie, vermaak, educatie of met culturele inslag, via elektronische communicatienetwerken; en/of<br>
+26° omroepdienst:<br>
+a) een dienst als vermeld in artikel 56 en 57 van het Verdrag betreffende de werking van de Europese Unie, die valt onder de redactionele verantwoordelijkheid van een omroeporganisatie, waarbij het hoofddoel van de dienst of een losstaand gedeelte daarvan bestaat uit audiovisuele of auditieve programma's leveren voor het algemene publiek, ter informatie, vermaak, educatie of met culturele inslag door middel van elektronische communicatienetwerken. Omroepdiensten zijn radiodiensten of televisiediensten;<br>
 b) de commerciële communicatie;<br>
 27° omroeporganisatie : de natuurlijke persoon of de rechtspersoon die de redactionele verantwoordelijkheid draagt voor de keuze van de inhoud van de omroepdienst en die bepaalt hoe die wordt georganiseerd;<br>
 28° omroepprogramma : het geheel van programma's en alle additioneel meegestuurde informatie dat door een omroeporganisatie op basis van een programmaschema wordt aangeboden onder een merk of titel;<br>
 29° organisator :<br>
 a) de persoon of vereniging die een evenement organiseert;<br>
 b) de houder van de exploitatierechten op het evenement;<br>
-30° productplaatsing : elke vorm van audiovisuele commerciële communicatie die bestaat in het opnemen van of het verwijzen naar een product of dienst of een desbetreffend handelsmerk binnen het kader van een televisieprogramma;<br>
-31° programma : een reeks bewegende beelden, al dan niet met geluid, of een reeks van klanken of geluiden, die een afzonderlijk element van een door een omroeporganisatie opgesteld schema of een catalogus vormt; voorbeelden van programma's zijn bioscoopfilms, sportevenementen, komische series, documentaires, kinderprogramma's en origineel drama;<br>
+30° productplaatsing: elke vorm van audiovisuele commerciële communicatie die bestaat in het opnemen van, of het verwijzen naar, een product, dienst of handelsmerk in het kader van een programma of door gebruikers gegenereerde inhoud, tegen betaling of een soortgelijke vergoeding;<br>
+31° programma: een reeks bewegende beelden, al dan niet met geluid, of een reeks van klanken of geluiden, die ongeacht de duur ervan, een afzonderlijk element vormt van een schema opgesteld door een omroeporganisatie of een catalogus opgesteld door een omroeporganisatie, met inbegrip van bioscoopfilms, videoclips, sportevenementen, komische series, documentaires, kinderprogramma's en origineel drama;<br>
 32° programma-aanbod : het geheel van aangeboden programma's;<br>
 33° radiodienst : een auditieve omroepdienst;<br>
 34° radio-omroeporganisatie : een aanbieder van radiodiensten;<br>
 35° reclame : de audiovisuele of auditieve boodschap van een publieke of particuliere onderneming of natuurlijke persoon - in welke vorm dan ook - over de uitoefening van een commerciële, industriële, ambachtelijke activiteit of van een beroep, ter bevordering van de levering tegen betaling van goederen of diensten, met inbegrip van onroerende goederen, rechten en verplichtingen, die tegen betaling of soortgelijke vergoeding dan wel voor zelfpromotie in een lineaire omroepdienst wordt uitgezonden;<br>
 36° redactiestatuut : een schriftelijk referentiekader waarin de onderlinge verhoudingen worden vastgelegd tussen redactie, hoofdredactie en directie. Het garandeert de onafhankelijke werking van de redactie ten opzichte van de omroeporganisatie;<br>
+36° /1 redactionele beslissing: een beslissing die op regelmatige basis wordt genomen met het oog op de uitoefening van redactionele verantwoordelijkheid en verband houdt met het dagelijkse beheer van de omroepdienst;<br>
 37° redactionele verantwoordelijkheid : de uitoefening van effectieve controle op de keuze van programma's en de organisatie ervan in hetzij een chronologisch schema, in geval van lineaire televisie- en radiodiensten, hetzij een catalogus, in geval van niet-lineaire televisie- en radiodiensten;<br>
 38° richtlijn audiovisuele mediadiensten : richtlijn 89/552/EEG van 3 oktober 1989 van het Europees Parlement en de Raad betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten, en de latere wijzigingen ervan;<br>
 39° satellietomroepnetwerk : elektronisch communicatienetwerk waardoor radio-omroep- en televisiesignalen in digitale vorm, al dan niet gecodeerd, via satelliet aan derden worden doorgegeven;<br>
 40° secundaire lineaire omroeporganisatie : de omroep van de Vlaamse Gemeenschap of elke lineaire omroeporganisatie die geen exclusieve uitzendrechten voor de Vlaamse Gemeenschap heeft verworven, als er exclusieve uitzendrechten op het evenement zijn verleend;<br>
-41° sponsoring : elke bijdrage van een publieke of particuliere onderneming, een overheid of een natuurlijke persoon die zich niet bezighoudt met het aanbieden van omroepdiensten of met de vervaardiging van audiovisuele of auditieve producties, aan de financiering van omroepdiensten of programma's met het doel zijn of haar naam, handelsmerk, imago, activiteiten of producten meer bekendheid te geven;<br>
+41° sponsoring: elke bijdrage van een publieke of particuliere onderneming of natuurlijke persoon die zich niet bezighoudt met het aanbieden van omroepdiensten of videoplatformdiensten of met de vervaardiging van audiovisuele of auditieve werken, aan de financiering van omroepdiensten, videoplatformdiensten, door gebruikers gegenereerde inhoud of programma's, met het doel zijn of haar naam, handelsmerk, imago, activiteiten of producten meer bekendheid te geven;<br>
 42° systeem voor voorwaardelijke toegang : elke technische maatregel of regeling waarbij toegang tot een beschermd radio- of televisieomroepprogramma in begrijpelijke vorm afhankelijk wordt gemaakt van een abonnement of een andere vorm van voorafgaande individuele machtiging;<br>
 43° televisiedienst : een audiovisuele omroepdienst;<br>
 44° televisieomroeporganisatie : een aanbieder van televisiediensten;<br>
 45° telewinkelen : rechtstreekse aanbiedingen aan het publiek die worden uitgezonden met het oog op de levering tegen betaling van goederen of diensten, met inbegrip van onroerende goederen, rechten en verplichtingen;<br>
+45° /1 videoplatformdienst: een dienst als vermeld in artikel 56 en 57 van het Verdrag betreffende de werking van de Europese Unie, waarbij het hoofddoel van de dienst, een daarvan losstaand gedeelte of een essentiële functie daarvan bestaat in het aanbieden van programma's, door gebruikers gegenereerde inhoud, of beide, aan het algemene publiek, waarvoor de aanbieder van het videoplatform geen redactionele verantwoordelijkheid draagt, ter informatie, vermaak of educatie via elektronische communicatienetwerken en waarvan de organisatie wordt bepaald door de aanbieder van het videoplatform, onder meer met automatische middelen of algoritmen, namelijk door weergeven, taggen en rangschikken;<br>
 46° zelfpromotie : de aanprijzing door een omroepdienst van eigen producten, diensten, programma's of netten;<br>
 47° zendapparatuur : ieder apparaat dat geheel of gedeeltelijk bestemd is om naar het publiek signalen van radio-omroep en televisie draadloos uit te zenden;<br>
 48° zendvergunning : vergunning voor de exploitatie van ieder apparaat dat is bestemd om draadloos signalen van radio-omroep of televisie uit te zenden;<br>
@@ -347,7 +352,23 @@ De vrijheid van meningsuiting is gewaarborgd voor omroepactiviteiten.<br /><br /
 
 ### ART. 38.
 
-Omroepactiviteiten mogen niet aansporen tot haat en geweld.
+Omroepactiviteiten mogen niet:<br>
+1° aanzetten tot geweld of haat jegens een groep personen of een lid van een groep van personen in het bijzonder op grond van:<br>
+a) geslacht;<br>
+b) ras;<br>
+c) kleur;<br>
+d) etnische of sociale afkomst;<br>
+e) genetische kenmerken;<br>
+f) taal;<br>
+g) godsdienst of overtuiging;<br>
+h) politieke of andere denkbeelden;<br>
+i) het behoren tot een nationale minderheid;<br>
+j) vermogen;<br>
+k) geboorte;<br>
+l) een handicap;<br>
+m) leeftijd;<br>
+n) seksuele geaardheid;<br>
+2° publiekelijk aanzetten tot het plegen van een terroristisch misdrijf als vermeld in artikel 137 en 140bis van het Strafwetboek.
 
 ## TITEL II. BEPALINGEN OVER OMROEPDIENSTEN
 
@@ -359,7 +380,35 @@ In de programma's wordt elke vorm van discriminatie geweerd. Het programma-aanbo
 
 ### ART. 40.
 
-Aanbieders van omroepdiensten stellen de volgende informatie gemakkelijk, rechtstreeks en permanent ter beschikking van de kijkers en luisteraars :<br />1° de naam van de aanbieder van de omroepdienst;<br />2° het geografische adres waar de aanbieder van de omroepdienst gevestigd is;<br />3° nadere gegevens van de aanbieder van de omroepdienst, waaronder zijn e-mail- of webadres, zodat hij snel, rechtstreeks en doeltreffend kan worden bereikt;<br />4° voor zover dat van toepassing is, de bevoegde regulerende of toezichthoudende organen.
+Aanbieders van omroepdiensten stellen de volgende informatie gemakkelijk, rechtstreeks en permanent ter beschikking van de kijkers en luisteraars :<br>
+1° de naam van de aanbieder van de omroepdienst;<br>
+2° het geografische adres waar de aanbieder van de omroepdienst gevestigd is;<br>
+3° nadere gegevens van de aanbieder van de omroepdienst, waaronder zijn e-mail- of webadres, zodat hij snel, rechtstreeks en doeltreffend kan worden bereikt;<br>
+4° de vermelding dat de aanbieder van de omroepdienst onder de bevoegdheid van de Vlaamse Gemeenschap en onder het toezicht van de Vlaamse Regulator voor de Media valt.
+
+### ART 40/1.
+
+§ 1. Televisieomroepdiensten uit andere lidstaten van de Europese Unie, of uit een andere staat in de Europese Economische Ruimte genieten de vrijheid van ontvangst en doorgifte.<br>
+<br>
+§ 2. Onverminderd paragraaf 1, kan de Vlaamse Regulator voor de Media voorlopige maatregelen nemen met betrekking tot de vrijheid van ontvangst of de doorgifte van een specifieke televisieomroepdienst die wordt aangeboden door een televisieomroeporganisatie die onder de bevoegdheid van een andere lidstaat valt. Hiervoor gelden de volgende voorwaarden:<br>
+1° tijdens de voorafgaande 12 maanden heeft de televisieomroeporganisatie al minstens tweemaal een duidelijke, belangrijke en ernstige inbreuk gepleegd op artikel 38, 1°, of artikel 42, of afbreuk gedaan aan de volksgezondheid of een belangrijk en ernstig risico daarop gevormd;<br>
+2° de Vlaamse Regulator voor de Media heeft de televisieomroeporganisatie, de lidstaat en de Europese Commissie schriftelijk in kennis gesteld van de vermeende inbreuken en van de evenredige maatregelen die de Vlaamse Regulator voor de Media voornemens is te treffen indien een dergelijke inbreuk opnieuw plaatsvindt;<br>
+3° de Vlaamse Regulator voor de Media heeft de rechten van verdediging van de televisieomroeporganisatie geëerbiedigd en heeft met name die televisieomroeporganisatie de mogelijkheid gegeven zijn standpunt inzake de vermeende inbreuken kenbaar te maken; en<br>
+4° overleg met de lidstaat en met de Europese Commissie, heeft binnen een maand na de ontvangst door de Europese Commissie van de onder punt 2° bedoelde kennisgeving niet tot een minnelijke schikking geleid.<br>
+<br>
+Indien de Europese Commissie besluit dat die maatregelen, vermeld in het eerste lid, niet verenigbaar zijn met het recht van de Europese Unie, beëindigt de Vlaamse Regulator voor de Media deze maatregelen onverwijld.<br>
+<br>
+§ 3. Onverminderd paragraaf 1, kan de Vlaamse Regulator voor de Media voorlopige maatregelen nemen indien een televisieomroepdienst die wordt geleverd door een onder de bevoegdheid van een andere lidstaat vallende televisieomroeporganisatie een duidelijke, belangrijke en ernstige inbreuk pleegt op artikel 38, 2°, of afbreuk doet aan of een belangrijk en ernstig risico vertoont dat afbreuk zal worden gedaan aan de openbare veiligheid, met inbegrip van de bescherming van de nationale veiligheid en defensie.<br>
+<br>
+Deze uitzonderingsregeling is onderhavig aan de volgende voorwaarden:<br>
+1° tijdens de voorgaande 12 maanden heeft de omroeporganisatie het in het eerste lid bedoelde gedrag minstens eenmaal vertoond;<br>
+2° de Vlaamse Regulator voor de Media heeft de televisieomroeporganisatie, de lidstaat en de Europese Commissie schriftelijk in kennis gesteld van de vermeende inbreuken en van de evenredige maatregelen die de Vlaamse Regulator voor de Media voornemens is te treffen indien die inbreuken opnieuw plaatsvinden.<br>
+<br>
+De Vlaamse Regulator voor de Media eerbiedigt de rechten van verdediging van de betrokken televisieomroeporganisatie en geeft met name deze televisieomroeporganisatie de mogelijkheid zijn standpunt inzake de vermeende inbreuken kenbaar te maken.<br>
+<br>
+Indien de Europese Commissie besluit dat de maatregelen, vermeld in het eerste lid, niet verenigbaar zijn met het recht van de Europese Unie, beëindigt de Vlaamse Regulator voor de Media deze maatregelen onverwijld.<br>
+<br>
+§ 4. De Vlaamse Regulator voor de Media kan in dringende gevallen, niet later dan een maand na de vermeende inbreuk, afwijken van de in paragraaf 3, tweede lid, 1° en 2°, vastgestelde voorwaarden. In dat geval moeten de getroffen maatregelen zo spoedig mogelijk, met opgave van de redenen waarom de Vlaamse Regulator voor de Media van oordeel is dat het om een dringend geval gaat, worden meegedeeld aan de Europese Commissie en de lidstaat onder wiens bevoegdheid de omroeporganisatie valt.
 
 ## HOOFDSTUK II. Specifieke bepalingen over de bescherming van minderjarigen bij het bekijken van lineaire en niet-lineaire televisiediensten
 
@@ -369,19 +418,23 @@ De bepalingen van dit hoofdstuk zijn eveneens van toepassing op teletekst.
 
 ### ART. 42.
 
-Lineaire televisieomroeporganisaties mogen geen programma's uitzenden die de lichamelijke, geestelijke of zedelijke ontwikkeling van minderjarigen ernstig zouden kunnen aantasten, met name programma's waarin pornografische scènes of beelden van nodeloos geweld voorkomen.<br /><br />Deze bepaling geldt ook voor andere programma's die schade kunnen toebrengen aan de lichamelijke, geestelijke of zedelijke ontwikkeling van minderjarigen, tenzij door de keuze van het tijdstip van uitzending of door technische maatregelen wordt gewaarborgd dat minderjarigen in het verzorgingsgebied of zendgebied de uitzendingen normaliter niet zullen zien of beluisteren.<br /><br />Als dergelijke programma's ongecodeerd worden uitgezonden, moeten ze voorafgegaan worden door een akoestische waarschuwing of moeten ze gedurende de hele uitzending herkenbaar zijn aan een visueel symbool.<br /><br />De bepalingen van het eerste en het tweede lid gelden ook voor aankondigingen van programma's die uitgezonden worden door lineaire televisieomroeporganisaties.
+Televisieomroeporganisaties zenden, al dan niet op individueel verzoek, geen programma's uit die de lichamelijke, geestelijke of morele ontwikkeling van minderjarigen zouden kunnen aantasten, tenzij de televisieomroeporganisatie door selectie van de tijd van uitzenden, instrumenten voor leeftijdscontrole of andere technische maatregelen waarborgt dat minderjarigen die programma's normaliter niet te horen of te zien krijgen. De maatregelen zijn evenredig aan de mogelijke schade die het programma kan berokkenen. Programma's waarin pornografische beelden of beelden van nodeloos geweld voorkomen, worden versleuteld uitgezonden of aangeboden, of worden onderworpen aan een doeltreffend ouderlijk toezicht.<br>
+<br>
+Televisieomroeporganisaties verstrekken voldoende informatie aan de kijkers over programma's die de lichamelijke, geestelijke of morele ontwikkeling van minderjarigen kunnen aantasten door middel van een systeem dat het potentieel schadelijk karakter van de programma's nader omschrijft. De Vlaamse Regering legt daarvoor de nadere voorwaarden en procedures vast.<br>
+<br>
+Persoonsgegevens van minderjarigen die televisieomroeporganisaties verzamelen ter uitvoering van dit artikel worden niet verwerkt voor commerciële doeleinden.
 
 ### ART. 43.
 
-De Vlaamse Regering kan de lineaire televisieomroeporganisaties en niet-lineaire televisiediensten regels opleggen voor het vermelden van bepaalde beelden en signalen bij de vertoning van programma's die een invloed kunnen hebben op kinderen en jongeren, waarbij aangegeven wordt voor welke leeftijdsgroep ze geschikt zijn.
+...
 
 ### ART. 44.
 
-De Vlaamse Regulator voor de Media kan de dienstenverdeler of de netwerkoperator verplichten het doorgeven van een programma van een lineaire televisieomroeporganisatie voorlopig te schorsen als dat een duidelijke, belangrijke en ernstige inbreuk vormt op de bepalingen van artikel 38 en artikel 42, eerste en tweede lid, en als de lineaire televisieomroeporganisatie in kwestie in de voorgaande twaalf maanden al ten minste tweemaal een inbreuk gepleegd heeft op dezelfde bepalingen, waarover de Vlaamse Regulator voor de Media zich heeft uitgesproken.<br /><br />De Vlaamse Regulator voor de Media brengt daartoe vooraf de lineaire televisieomroeporganisatie in kwestie schriftelijk op de hoogte van de ten laste gelegde inbreuken en van het voornemen om beperkingen aan de doorgifte op te leggen als nogmaals een dergelijke inbreuk gepleegd wordt.<br /><br />Als het gaat om een lineaire televisieomroeporganisatie uit een andere lidstaat van de Europese Unie, brengt de Vlaamse Regulator voor de Media de Europese Commissie schriftelijk op de hoogte van de ten laste gelegde inbreuken en van het voornemen om beperkingen aan de doorgifte op te leggen als nogmaals een dergelijke inbreuk gepleegd wordt.<br /><br />Als binnen een termijn van vijftien kalenderdagen, te rekenen vanaf die kennisgeving, overleg met de Europese Commissie en de lidstaat van de Europese Unie van waaruit uitgezonden wordt, niet tot een minnelijke schikking heeft geleid en de ten laste gelegde inbreuk blijft doorgaan, wordt de voorlopige schorsing effectief.
+...
 
 ### ART. 45.
 
-Niet-lineaire televisieomroeporganisaties stellen de door hen verstrekte diensten op aanvraag die de lichamelijke, geestelijke of zedelijke ontwikkeling van minderjarigen ernstig zouden kunnen schaden zodanig beschikbaar dat minderjarigen dergelijke televisiediensten op aanvraag normaliter niet te horen of te zien krijgen.
+...
 
 ## HOOFDSTUK III. [... (opgeh. decr. 13 juli 2012, art. 8, I: 27 augustus 2012)]
 
@@ -423,7 +476,7 @@ De bepalingen van deze afdeling zijn ook van toepassing op teletekst.
 
 ### ART. 52.
 
-De aanbieders van omroepdiensten mogen geen commerciële communicatie en boodschappen van algemeen nut uitzenden die in strijd zijn met wettelijke bepalingen.<br /><br />De aanbieders van omroepdiensten mogen bovendien geen commerciële communicatie en boodschappen van algemeen nut uitzenden die niet in overeenstemming zijn met de beginselen van de bescherming van het privéleven, de eerlijke behandeling van de consument en de eerlijke mededinging.
+De aanbieders van omroepdiensten mogen geen commerciële communicatie en boodschappen van algemeen nut uitzenden die in strijd zijn met wettelijke bepalingen.
 
 ### ART. 53.
 
@@ -433,41 +486,65 @@ Commerciële communicatie en boodschappen van algemeen nut moeten gemakkelijk al
 
 Sluikreclame is verboden.<br /><br />Onder sluikreclame als vermeld in het eerste lid, wordt verstaan commerciële communicatie die bestaat uit het vermelden of vertonen van goederen, diensten, naam, handelsmerk of activiteiten van een producent van goederen of een aanbieder van diensten in programma's, als de omroeporganisatie daarmee beoogt reclame te maken en het publiek kan worden misleid omtrent de aard van de vermelding of de vertoning. Die bedoeling wordt met name geacht aanwezig te zijn als de vermelding of de vertoning tegen betaling of een andere vergoeding gebeurt.
 
+### ART 54/1.
+
+Bij commerciële communicatie en boodschappen van algemeen nut worden geen subliminale technieken gebruikt.
+
 ### ART. 55.
 
-Commerciële communicatie en boodschappen van algemeen nut mogen niet zo opgezet zijn dat ze :<br />1° de menselijke waardigheid aantasten;<br />2° aanzetten tot gewelddadige of discriminerende gedragingen.<br /><br />Commerciële communicatie mag niet zo opgezet zijn dat het enige vorm van discriminatie op grond van geslacht, ras of etnische afstamming, nationaliteit, godsdienst of levensbeschouwing, handicap, leeftijd of seksuele geaardheid bevat of bevordert.
+Commerciële communicatie mag niet zo opgezet zijn dat ze:<br>
+1° de menselijke waardigheid aantast;<br>
+2° enige vorm van discriminatie bevat of bevordert op grond van:<br>
+a) geslacht;<br>
+b) ras of etnische afstamming;<br>
+c) nationaliteit;<br>
+d) godsdienst of levensbeschouwing;<br>
+e) handicap;<br>
+f) leeftijd;<br>
+g) seksuele geaardheid.<br>
+<br>
+Boodschappen van algemeen nut mogen niet zo opgezet zijn dat ze:<br>
+1° de menselijke waardigheid aantasten;<br>
+2° enige vorm van discriminatie bevorderen op grond van:<br>
+a) geslacht;<br>
+b) ras of etnische afstamming;<br>
+c) nationaliteit;<br>
+d) godsdienst of levensbeschouwing;<br>
+e) handicap;<br>
+f) leeftijd;<br>
+g) seksuele geaardheid.
 
 ### ART. 56.
 
-Commerciële communicatie en boodschappen van algemeen nut mogen geen elementen bevatten met kwetsende of misprijzende uitlatingen over religieuze, filosofische of politieke overtuigingen.
+...
 
 ### ART. 57.
 
-Commerciële communicatie mag degenen die een bepaald product of een bepaalde dienst niet verbruiken of gebruiken, niet in diskrediet brengen.
+...
 
 ### ART. 58.
 
-Commerciële communicatie en boodschappen van algemeen nut mogen personen niet uitbeelden in hun persoonlijke of maatschappelijke hoedanigheid of naar hen verwijzen zonder hun voorafgaande toestemming.<br /><br />Commerciële communicatie en boodschappen van algemeen nut mogen niet zonder vooraf gegeven toestemming persoonlijke eigendommen afbeelden of ernaar verwijzen op een wijze die laat veronderstellen dat de betrokkene daarin heeft toegestemd. Bij beelden van of verwijzingen naar persoonlijke eigendommen is geen toestemming vereist voor wat integrerend tot het straatbeeld behoort. Voor gerichte en uitdrukkelijke verwijzingen is de toestemming wel vereist.
+...
 
 ### ART. 59.
 
-Commerciële communicatie mag geen elementen bevatten die inspelen op gevoelens van angst.
+...
 
 ### ART. 60.
 
-§ 1. Commerciële communicatie mag geen elementen bevatten die erop gericht zijn de consument te misleiden op het gebied van :<br />1° de kenmerken van de goederen of diensten, zoals beschikbaarheid, aard, uitvoering, samenstelling, procédé en datum van fabricage of levering, geschiktheid voor het gebruik, gebruiksmogelijkheden, hoeveelheid, specificatie, geografische of commerciële oorsprong of van het gebruik te verwachten resultaten, of uitslagen en essentiële uitkomsten van onderzoek van de goederen of diensten;<br />2° de prijs of de wijze van prijsberekening, alsook de voorwaarden waaronder de goederen worden geleverd of de diensten worden verricht;<br />3° de hoedanigheid, kwalificaties en rechten van de adverteerder, zoals zijn identiteit en zijn vermogen, zijn bekwaamheden en zijn industriële, commerciële of intellectuele eigendomsrechten of zijn bekroningen en onderscheidingen.<br /><br />§ 2. Onder misleidende commerciële communicatie wordt elke vorm van reclame verstaan die op enigerlei wijze, waaronder begrepen wordt haar opmaak, de personen tot wie ze zich richt of die ze bereikt, misleidt of kan misleiden en die door haar misleidende karakter hun economische gedrag kan beïnvloeden, of die om die redenen een concurrent schade toebrengt of kan toebrengen.
+...
 
 ### ART. 61.
 
-Commerciële communicatie en boodschappen van algemeen nut mogen niet op een verkeerde of misleidende manier gebruikmaken van wetenschappelijke en technische publicaties. Wetenschappelijke en technische termen mogen niet worden misbruikt om bepaalde beweringen een pseudowetenschappelijke basis te verstrekken.
+...
 
 ### ART. 62.
 
-Commerciële communicatie en boodschappen van algemeen nut mogen niet aansporen tot gedrag dat schadelijk is voor de gezondheid of de veiligheid, of dat in hoge mate schadelijk is voor het milieu.<br /><br />Commerciële communicatie en boodschappen van algemeen nut mogen geen elementen bevatten die ertoe kunnen leiden de kijker of luisteraar te misleiden over de milieueffecten.<br /><br />Commerciële communicatie en boodschappen van algemeen nut mogen geen aanduidingen of suggesties bevatten waardoor het risico voor de gezondheid en de veiligheid voor de consumenten en voor derden wordt geminimaliseerd.
+Commerciële communicatie en boodschappen van algemeen nut mogen niet aansporen tot gedrag dat schadelijk is voor de gezondheid of de veiligheid, of dat in hoge mate schadelijk is voor het milieu.
 
 ### ART. 63.
 
-De getuigenissen, attesten en aanbevelingen waarop in commerciële communicatie en in boodschappen van algemeen nut een beroep wordt gedaan, moeten authentiek zijn, mogen niet uit hun context gerukt zijn en mogen niet achterhaald zijn. Het gebruik van getuigenissen, attesten en aanbevelingen is alleen toegestaan als de auteur zijn toestemming geeft.
+...
 
 ## Afdeling III. Commerciële communicatie over specifieke producten
 
@@ -477,7 +554,7 @@ De bepalingen van deze afdeling zijn eveneens van toepassing op teletekst.
 
 ### ART. 65.
 
-Commerciële communicatie over sigaretten en andere tabaksproducten is verboden.
+Commerciële communicatie over sigaretten, elektronische sigaretten en navulverpakkingen en andere tabaksproducten is verboden.
 
 ### ART. 66.
 
@@ -551,7 +628,10 @@ Televisieprogramma's mogen worden onderbroken voor reclame of telewinkelen, met 
 <br>
 § 2. Het aandeel televisiereclame- en telewinkelspots bedraagt tussen 6 uur 's ochtends en 18 uur 's avonds niet meer dan 20 percent van dat tijdvak. Het aandeel televisiereclame- en telewinkelspots bedraagt tussen 18 uur 's avonds en middernacht niet meer dan 20 percent van dat tijdvak.<br>
 <br>
-§ 3. Paragraaf 2 is niet van toepassing op boodschappen van de lineaire televisieomroeporganisaties over hun eigen programma's en rechtstreeks daarvan afgeleide ondersteunende producten, op sponsorboodschappen en op productplaatsing.<br>
+§ 3. Paragraaf 2 is niet van toepassing op:<br>
+1° de boodschappen van de televisieomroeporganisatie over de eigen programma's en ondersteunende producten die daarvan rechtstreeks zijn afgeleid;<br>
+2° de boodschappen van de televisieomroeporganisatie over programma's en omroepdiensten van andere entiteiten die tot dezelfde omroeporganisatie behoren;<br>
+3° de sponsorboodschappen, productplaatsing en neutrale frames tussen redactionele inhoud en televisiereclame- of telewinkelspots en tussen individuele spots.<br>
 <br>
 § 4. De openbare omroeporganisatie van de Vlaamse Gemeenschap en de aanbieders van lineaire omroepdiensten delen de Vlaamse Regulator voor de Media mee welke boodschappen van algemeen nut ze gratis uitzenden.<br>
 <br>
@@ -609,7 +689,7 @@ De sponsorvermeldingen op de VRT mogen uitsluitend de naam van de sponsor, de ha
 
 ### ART. 93.
 
-Omroepdiensten en programma's mogen niet worden gesponsord door ondernemingen waarvan de voornaamste activiteit bestaat in de vervaardiging of verkoop van sigaretten en andere tabaksproducten.
+Omroepdiensten en programma's mogen niet worden gesponsord door ondernemingen waarvan de voornaamste activiteit bestaat in de vervaardiging of verkoop van sigaretten en andere tabaksproducten, elektronische sigaretten en navulverpakkingen.
 
 ### ART. 94.
 
@@ -633,17 +713,33 @@ Het vermelden of vertonen van het logo van een sponsor is verboden tijdens kinde
 
 De bepalingen van deze onderafdeling zijn alleen van toepassing op televisiediensten.
 
+### ART 98/1.
+
+De bepalingen van deze onderafdeling zijn alleen van toepassing op programma's die vanaf 9 mei 2021 zijn geproduceerd.
+
 ### ART. 99.
 
-Productplaatsing is toegestaan ten aanzien van :<br />1° het opnemen of het verwijzen naar een product of dienst of een desbetreffend handelsmerk tegen betaling. In voorkomend geval is product plaatsing enkel toegestaan in (televisie)films, series, sportprogramma's en lichte amusementsprogramma's, met uitzondering van kinderprogramma's;<br />2° goederen of diensten die gratis worden geleverd, zoals productiehulp en prijzen, met het oog op de opneming ervan in een programma. In voorkomend geval is productplaatsing toegestaan in alle soorten programma's, behoudens in alle kinderprogramma's van de openbare omroeporganisatie van de Vlaamse Gemeenschap. De Vlaamse Regering kan dit verbod uitbreiden tot de kinderprogramma's van de andere omroeporganisaties.
+Productplaatsing is verboden in:<br>
+1° journaals en politieke informatieprogramma's;<br>
+2° consumentenprogramma's;<br>
+3° religieuze programma's;<br>
+4° kinderprogramma's.
 
 ### ART. 100.
 
-§ 1. De programma's die productplaatsing bevatten, voldoen aan al de volgende voorwaarden :<br />1° de inhoud en, in geval van lineaire uitzendingen, de programmering ervan, worden nooit dusdanig beïnvloed dat de verantwoordelijkheid en de redactionele onafhankelijkheid van de omroeporganisatie worden aangetast;<br />2° ze sporen niet rechtstreeks aan tot aankoop of huur van goederen of diensten, in het bijzonder door die producten of diensten specifiek aan te prijzen;<br />3° het product of de dienst in kwestie krijgt geen overmatige aandacht;<br />4° als het programma in kwestie is geproduceerd of besteld door de omroeporganisatie zelf of door een aan hem verbonden onderneming, worden de kijkers duidelijk gewezen op de aanwezigheid van productplaatsing. Het programma in kwestie wordt in het begin en op het einde ervan, en als het na een reclamepauze wordt hervat, op passende wijze als zodanig aangeduid om verwarring bij de kijkers te voorkomen. De Vlaamse Regering kan daarover nadere regels bepalen.<br /><br />§ 2. De voorwaarden van paragraaf 1 zijn van toepassing op programma's die na de inwerkingtreding van dit decreet zijn geproduceerd.
+§ 1. De programma's die productplaatsing bevatten, voldoen aan al de volgende voorwaarden :<br>
+1° de inhoud en de programmering ervan in een schema in geval van lineaire televisie-uitzendingen, of de opneming ervan in een catalogus in geval van niet-lineaire televisie-uitzendingen, worden nooit zodanig beïnvloed dat de verantwoordelijkheid en de redactionele onafhankelijkheid van de televisieomroeporganisatie worden aangetast;<br>
+2° ze sporen niet rechtstreeks aan tot aankoop of huur van goederen of diensten, in het bijzonder door die producten of diensten specifiek aan te prijzen;<br>
+3° het product of de dienst in kwestie krijgt geen overmatige aandacht;<br>
+4° als het programma in kwestie is geproduceerd of besteld door de omroeporganisatie zelf of door een aan hem verbonden onderneming, worden de kijkers duidelijk gewezen op de aanwezigheid van productplaatsing. Het programma in kwestie wordt in het begin en op het einde ervan, en als het na een reclamepauze wordt hervat, op passende wijze als zodanig aangeduid om verwarring bij de kijkers te voorkomen. De Vlaamse Regering kan daarover nadere regels bepalen.<br>
+<br>
+§ 2. ...
 
 ### ART. 101.
 
-Programma's mogen in geen geval productplaatsing bevatten voor :<br />1° tabaksproducten of sigaretten of ondernemingen waarvan de voornaamste activiteit in de productie of verkoop van sigaretten en andere tabaksproducten bestaat;<br />2° specifieke geneesmiddelen of medische behandelingen die in België alleen op voorschrift beschikbaar zijn.
+Programma's mogen in geen geval productplaatsing bevatten voor :<br>
+1° sigaretten en andere tabaksproducten, elektronische sigaretten en navulverpakkingen, of ondernemingen waarvan de voornaamste activiteit bestaat in de productie of verkoop van die producten;<br>
+2° specifieke geneesmiddelen of medische behandelingen die in België alleen op voorschrift beschikbaar zijn.
 
 ## HOOFDSTUK V. Recht van antwoord en recht van mededeling
 
@@ -1000,9 +1096,9 @@ Particuliere radio-omroeporganisaties die hun omroepprogramma's uitsluitend via 
 
 ### ART. 149.
 
-§ 1. Eenieder kan, onder de voorwaarden van deze afdeling, radiodiensten aanbieden, voor zover :<br>
-1° de omroeporganisatie is opgericht als een rechtspersoon en onder de bevoegdheid van de Vlaamse Gemeenschap valt;<br>
-2° de omroeporganisatie voldoet aan de voorwaarden, vermeld in artikelen 129, 130 en 131.<br>
+§ 1. Eenieder kan, onder de voorwaarden van dit hoofdstuk, radiodiensten aanbieden via een kabelomroepnetwerk, een etheromroepnetwerk, een satellietomroepnetwerk of via het internet, als:<br>
+1° de entiteit die deze aanbiedt opgericht is als een privaatrechtelijke rechtspersoon, of een natuurlijke persoon is die zelfstandig een beroepsactiviteit uitoefent en onder de bevoegdheid van de Vlaamse Gemeenschap valt. In het geval van een privaatrechtelijke rechtspersoon bestaat het maatschappelijk doel in het aanbieden van radiodiensten via een kabelomroepnetwerk, een etheromroepnetwerk, een satellietomroepnetwerk of via het internet;<br>
+2° de entiteit die deze aanbiedt voldoet aan de voorwaarden, vermeld in artikel 129, 130 en 131.<br>
 <br>
 § 2. De Vlaamse Regulator voor de Media moet minimaal veertien kalenderdagen voor het starten van de dienst op de hoogte worden gebracht van het aanbieden van deze diensten.<br>
 <br>
@@ -1020,7 +1116,11 @@ Elke latere wijziging van die informatie, inzonderheid elke wijziging in de raad
 
 ### ART. 150.
 
-§ 1. Eenieder kan, onder de voorwaarden van dit hoofdstuk, niet-lineaire radiodiensten aanbieden, voor zover hij is opgericht als een rechtspersoon en valt onder de bevoegdheid van de Vlaamse Gemeenschap.<br /><br />Het maatschappelijk doel van niet-lineaire radio-omroeporganisaties bestaat in het aanbieden van niet-lineaire radiodiensten op aanvraag. De aanbieders kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van hun maatschappelijk doel.<br /><br />§ 2. De Vlaamse Regulator voor de Media moet minimaal veertien kalenderdagen voor het starten van de dienst op de hoogte worden gebracht van het aanbieden van een niet-lineaire radiodienst. Die kennisgeving wordt conform artikel 219 gedaan. De kennisgeving moet minstens de volgende informatie bevatten : de plaats van uitzending, de plaats van vestiging, de wijze waarop het programmasignaal wordt verspreid, en de statuten.<br /><br />§ 3. De Vlaamse Regering bepaalt de nader te verstrekken gegevens die de kennisgeving moet bevatten en welke latere wijzigingen in die gegevens aan de Vlaamse Regulator voor de Media moeten worden meegedeeld.
+§ 1. Eenieder kan, onder de voorwaarden van dit hoofdstuk, niet-lineaire radiodiensten aanbieden, als de entiteit die deze aanbiedt opgericht is als een privaatrechtelijke rechtspersoon, of een natuurlijke persoon is die zelfstandig een beroepsactiviteit uitoefent en onder de bevoegdheid van de Vlaamse Gemeenschap valt. In het geval van een privaatrechtelijke rechtspersoon bestaat het maatschappelijk doel in het verzorgen van niet-lineaire radiodiensten. De rechtspersoon kan alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van zijn maatschappelijk doel.<br>
+<br>
+§ 2. De Vlaamse Regulator voor de Media moet minimaal veertien kalenderdagen voor het starten van de dienst op de hoogte worden gebracht van het aanbieden van een niet-lineaire radiodienst. Die kennisgeving wordt conform artikel 219 gedaan. De kennisgeving moet minstens de volgende informatie bevatten : de plaats van uitzending, de plaats van vestiging, de wijze waarop het programmasignaal wordt verspreid, en de statuten.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de nader te verstrekken gegevens die de kennisgeving moet bevatten en welke latere wijzigingen in die gegevens aan de Vlaamse Regulator voor de Media moeten worden meegedeeld.
 
 ## TITEL IV. TELEVISIEDIENSTEN
 
@@ -1030,13 +1130,64 @@ Elke latere wijziging van die informatie, inzonderheid elke wijziging in de raad
 
 ### ART. 150/1.
 
-§ 1. Een televisieomroeporganisatie valt onder de bevoegdheid van de   Vlaamse Gemeenschap als ze aan een van de onderstaande voorwaarden voldoet :   <BR>1° ze is gevestigd in het Nederlandse taalgebied;<BR>2° ze is gevestigd in   het tweetalige gebied Brussel-Hoofdstad en de activiteiten behoren uitsluitend   tot de Vlaamse Gemeenschap.<BR><BR>§ 2. Een televisieomroeporganisatie is   gevestigd in het Nederlandse taalgebied of in het tweetalige gebied   Brussel-Hoofdstad als ze aan een van de onderstaande voorwaarden voldoet :   <BR>1° het hoofdkantoor is gevestigd in het Nederlandse taalgebied of in het   tweetalige gebied Brussel-Hoofdstad, waar de redactionele beslissingen worden   genomen;<BR>2° een aanzienlijk deel van het personeel van de   televisieomroeporganisatie werkt in het Nederlandse taalgebied of in het   tweetalige gebied Brussel-Hoofdstad, waar het hoofdkantoor is gevestigd, terwijl   de redactionele beslissingen worden genomen in een andere lidstaat van de   Europese Unie;<BR>3° een aanzienlijk deel van het personeel van de   televisieomroeporganisatie werkt in het Nederlandse taalgebied of in het   tweetalige gebied Brussel-Hoofdstad, waar de redactionele beslissingen worden   genomen, terwijl het hoofdkantoor gevestigd is in een andere lidstaat van de   Europese Unie;<BR>4° het hoofdkantoor is gevestigd in het Nederlandse taalgebied   of in het tweetalige gebied Brussel-Hoofdstad, waar een aanzienlijk deel van het   personeel van de televisieomroeporganisatie werkt, terwijl de redactionele   beslissingen worden genomen in een andere lidstaat van de Europese Unie, waar   ook een aanzienlijk deel van het personeel van de televisieomroeporganisatie   werkt;<BR>5° er is geen aanzienlijk deel van het personeel van de   televisieomroeporganisatie dat werkt in het Nederlandse taalgebied, in het   tweetalige gebied Brussel-Hoofdstad of in een andere lidstaat van de Europese   Unie, maar de televisieomroeporganisatie is het eerst begonnen met het aanbieden   van televisiediensten in het Nederlandse taalgebied of in het tweetalige gebied   Brussel-Hoofdstad overeenkomstig het recht van de Vlaamse Gemeenschap en de   televisieomroeporganisatie heeft een duurzame en reële band met de economie van   de Vlaamse Gemeenschap;<BR>6° een aanzienlijk deel van het personeel van de   televisieomroeporganisatie werkt in het Nederlandse taalgebied of in het   tweetalige gebied Brussel-Hoofdstad, waar het hoofdkantoor is gevestigd, terwijl   de redactionele beslissingen worden genomen in een land dat geen lidstaat is van   de Europese Unie;<BR>7° een aanzienlijk deel van het personeel van de   televisieomroeporganisatie werkt in het Nederlandse taalgebied of in het   tweetalige gebied Brussel-Hoofdstad, waar de redactionele beslissingen worden   genomen, terwijl het hoofdkantoor gevestigd is in een land dat geen lidstaat is   van de Europese Unie.<BR><BR>§ 3. Een televisieomroeporganisatie die niet   voldoet aan een van de voorwaarden, vermeld in paragraaf 2, valt onder de   bevoegdheid van de Vlaamse Gemeenschap als ze aan een van de onderstaande   voorwaarden voldoet : <BR>1° ze maakt gebruik van een aarde-satellietverbinding   vanuit het Nederlandse taalgebied of van een aarde-satellietverbinding vanuit   het tweetalige gebied Brussel-Hoofdstad die uitsluitend behoort tot de Vlaamse   Gemeenschap;<BR>2° ze maakt gebruik van satellietcapaciteit die behoort tot de   bevoegdheid van de Vlaamse Gemeenschap hoewel ze geen gebruikmaakt van een   aarde-satellietverbinding als vermeld in punt 1°.<BR><BR>§ 4. Een   televisieomroeporganisatie die niet voldoet aan een van de voorwaarden, vermeld   in paragraaf 2 of paragraaf 3, valt onder de bevoegdheid van de Vlaamse   Gemeenschap als ze gevestigd is in het Nederlandse taalgebied of in het   tweetalige gebied Brussel-Hoofdstad volgens artikel 49 tot en met 55 van het   Verdrag betreffende de werking van de Europese Unie.<BR><BR>§ 5. Dit decreet is   niet van toepassing op televisiediensten die uitsluitend bestemd zijn voor   ontvangst in een land dat geen lidstaat is van de Europese Unie, en die niet   rechtstreeks of onrechtstreeks met standaardapparatuur voor de consument door   het publiek in het Nederlandse taalgebied en het tweetalige gebied   Brussel-Hoofdstad of elders in de Europese Unie worden ontvangen.
+§ 1. Een televisieomroeporganisatie valt onder de bevoegdheid van de Vlaamse Gemeenschap als ze aan een van de onderstaande voorwaarden voldoet :<br>
+1° ze is gevestigd in het Nederlandse taalgebied;<br>
+2° ze is gevestigd in het tweetalige gebied Brussel-Hoofdstad en de activiteiten behoren uitsluitend tot de Vlaamse Gemeenschap.<br>
+<br>
+§ 2. Een televisieomroeporganisatie is gevestigd in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad als ze aan een van de onderstaande voorwaarden voldoet :<br>
+1° het hoofdkantoor is gevestigd in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, waar de redactionele beslissingen worden genomen;<br>
+2° een aanzienlijk deel van het personeel van de televisieomroeporganisatie&nbsp;dat bij de programmagerelateerde activiteiten van de televisiedienst is betrokken werkt in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, waar het hoofdkantoor is gevestigd, terwijl de redactionele beslissingen worden genomen in een andere lidstaat van de Europese Unie;<br>
+3° een aanzienlijk deel van het personeel van de televisieomroeporganisatie&nbsp;dat bij de programmagerelateerde activiteiten van de televisiedienst is betrokken werkt in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, waar de redactionele beslissingen worden genomen, terwijl het hoofdkantoor gevestigd is in een andere lidstaat van de Europese Unie;<br>
+4° het hoofdkantoor is gevestigd in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, waar een aanzienlijk deel van het personeel van de televisieomroeporganisatie&nbsp;dat bij de programmagerelateerde activiteiten van de televisiedienst is betrokken werkt, terwijl de redactionele beslissingen worden genomen in een andere lidstaat van de Europese Unie, waar ook een aanzienlijk deel van het personeel van de televisieomroeporganisatie werkt;<br>
+5° er is geen aanzienlijk deel van het personeel van de televisieomroeporganisatie dat bij de programmagerelateerde activiteiten van de televisiedienst is betrokken dat werkt in het Nederlandse taalgebied, in het tweetalige gebied Brussel-Hoofdstad of in een andere lidstaat van de Europese Unie, maar de televisieomroeporganisatie is het eerst begonnen met het aanbieden van televisiediensten in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad overeenkomstig het recht van de Vlaamse Gemeenschap en de televisieomroeporganisatie heeft een duurzame en reële band met de economie van de Vlaamse Gemeenschap;<br>
+6° een aanzienlijk deel van het personeel van de televisieomroeporganisatie&nbsp;dat bij de programmagerelateerde activiteiten van de televisiedienst is betrokken werkt in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, waar het hoofdkantoor is gevestigd, terwijl de redactionele beslissingen worden genomen in een land dat geen lidstaat is van de Europese Unie;<br>
+7° een aanzienlijk deel van het personeel van de televisieomroeporganisatie dat bij de programmagerelateerde activiteiten van de televisiedienst is betrokken werkt in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, waar de redactionele beslissingen worden genomen, terwijl het hoofdkantoor gevestigd is in een land dat geen lidstaat is van de Europese Unie.<br>
+<br>
+§ 3. Een televisieomroeporganisatie die niet voldoet aan een van de voorwaarden, vermeld in paragraaf 2, valt onder de bevoegdheid van de Vlaamse Gemeenschap als ze aan een van de onderstaande voorwaarden voldoet :<br>
+1° ze maakt gebruik van een aarde-satellietverbinding vanuit het Nederlandse taalgebied of van een aarde-satellietverbinding vanuit het tweetalige gebied Brussel-Hoofdstad die uitsluitend behoort tot de Vlaamse Gemeenschap;<br>
+2° ze maakt gebruik van satellietcapaciteit die behoort tot de bevoegdheid van de Vlaamse Gemeenschap hoewel ze geen gebruikmaakt van een aarde-satellietverbinding als vermeld in punt 1°.<br>
+<br>
+§ 4. Een televisieomroeporganisatie die niet voldoet aan een van de voorwaarden, vermeld in paragraaf 2 of paragraaf 3, valt onder de bevoegdheid van de Vlaamse Gemeenschap als ze gevestigd is in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad volgens artikel 49 tot en met 55 van het Verdrag betreffende de werking van de Europese Unie en de activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren.<br>
+<br>
+§ 4/1. Televisieomroeporganisaties brengen de Vlaamse Regulator voor de Media op de hoogte van elke wijziging die van invloed kan zijn om de bevoegdheid conform paragraaf 2 tot en met 4, te bepalen. Die kennisgeving gebeurt conform artikel 219.<br>
+<br>
+§ 4/2. De Vlaamse Regulator voor de Media houdt een actuele lijst bij met de televisieomroeporganisaties ten aanzien van wie hij bevoegd is. Die lijst vermeldt voor elke televisieomroeporganisatie de criteria, vermeld in paragraaf 2 tot en met 4, waarop de bevoegdheid van de Vlaamse Regulator voor de Media is gebaseerd. De Vlaamse Regulator voor de Media bezorgt die lijst, met inbegrip van de actualiseringen, aan de Europese Commissie.<br>
+<br>
+§ 4/3. Als tussen de Vlaamse Regulator voor de Media en de nationale regulerende instantie of het nationale regulerende orgaan van een andere lidstaat van de Europese Unie geen overeenstemming wordt bereikt over wie bevoegd is voor een televisieomroeporganisatie in het kader van de procedures, vermeld in artikel 40/1, 221 en 222, brengt de Vlaamse Regulator voor de Media de Europese Commissie daarvan onmiddellijk op de hoogte.<br>
+<br>
+§ 5. Dit decreet is niet van toepassing op televisiediensten die uitsluitend bestemd zijn voor ontvangst in een land dat geen lidstaat is van de Europese Unie, en die niet rechtstreeks of onrechtstreeks met standaardapparatuur voor de consument door het publiek in het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad of elders in de Europese Unie worden ontvangen.
 
 ## [Afdeling I/1 Toegang tot televisiediensten voor personen met een handicap (verv. decr. 19 maart 2021, art. 25, I: 9 mei 2021)]
 
 ### ART. 151.
 
-§ 1. De openbare omroeporganisatie van de Vlaamse Gemeenschap en de particuliere televisieomroeporganisaties maken een aanzienlijk deel van hun omroepprogramma toegankelijk voor personen met een visuele of auditieve handicap. Hiervoor wordt gebruikgemaakt van ondertiteling, audiobeschrijving, gebarentaal en auditieve ondertiteling.<br /><br />§ 2. De regionale televisieomroeporganisaties maken hun journaals op weekdagen vanaf 20 uur toegankelijk voor personen met een auditieve handicap. Daarvoor wordt gebruikgemaakt van ondertiteling.<br /><br />§ 3. Private televisieomroeporganisaties met een gemiddeld marktaandeel van 2 % die een hoofdjournaal uitzenden en gedurende zes maanden voorafgaand aan de eerste uitzending ervan een gemiddeld marktaandeel van 2 % hebben, moeten dat hoofdjournaal ondertitelen. Het hoofdjournaal is het journaal met gemiddeld het hoogste kijkcijfer.<br /><br />Private televisieomroeporganisaties die starten met het uitzenden van een hoofdjournaal maar op de dag van de eerste uitzending ervan geen marktaandeel van 2 % hebben, moeten dat hoofdjournaal ondertitelen binnen een termijn van 12 maanden die begint te lopen vanaf de dag dat de private televisieomroeporganisaties ononderbroken gedurende 6 maanden een gemiddeld marktaandeel van 2 % hebben gehad.<br /><br />Private televisieomroeporganisaties die op 1 januari 2010 een marktaandeel van 2 % hadden en nog steeds hebben bij de inwerkingtreding van dit decreet, en die andere journaals dan het hoofdjournaal en actualiteitenprogramma's uitzenden of die starten met het uitzenden van andere journaals dan het hoofdjournaal en actualiteitenprogramma's, moeten deze andere journaals dan het hoofdjournaal en 90 % van de actualiteitenprogramma's ondertitelen ten laatste op 1 januari 2013. Private televisieomroeporganisaties die na 1 januari 2013 starten met het uitzenden van andere journaals dan het hoofdjournaal en actualiteitenprogramma's en die gedurende 6 maanden voorafgaand aan deze startdatum een ononderbroken marktaandeel van 2 % hebben, dienen deze andere journaals dan het hoofdjournaal en 90 % van de actualiteitenprogramma's te ondertitelen van bij de start van de uitzendingen. Deze verplichting geldt niet voor actualiteitenprogramma's die uitsluitend aan sportverslaggeving zijn gewijd.<br /><br />Private televisieomroeporganisaties die starten met het uitzenden van andere journaals dan het hoofdjournaal en actualiteitenprogramma's maar op 1 januari 2010 geen gemiddeld marktaandeel van 2 % hebben, moeten deze andere journaals dan het hoofdjournaal en 90 % van de actualiteitenprogramma's ondertitelen binnen een termijn van 36 maanden die begint te lopen vanaf de dag dat de private televisieomroeporganisaties ononderbroken gedurende 6 maanden een gemiddeld marktaandeel van 2 % hebben gehad. Deze verplichting geldt niet voor actualiteitenprogramma's die uitsluitend aan sportverslaggeving zijn gewijd.<br /><br />Het marktaandeel van een private omroeporganisatie is het aandeel dat een private omroeporganisatie heeft in het totale kijkcijferbereik op de televisieomroepmarkt binnen een bepaalde periode.<br /><br />§ 4. De Vlaamse Regering legt een tijdspad en quota op voor :<br />1° andere ondertiteling dan vermeld in paragraaf 2 en 3;<br />2° audiobeschrijving;<br />3° gebarentaal;<br />4° auditieve ondertiteling.<br /><br />§ 5. De Vlaamse Regering verstrekt subsidies voor elke techniek om televisiediensten toegankelijk te maken.<br /><br />De Vlaamse Regering legt daarvoor criteria vast.
+§ 1. De openbare omroeporganisatie van de Vlaamse Gemeenschap en de particuliere televisieomroeporganisaties maken hun programma's voortdurend en in toenemende mate met evenredige maatregelen toegankelijk voor personen met een handicap.<br>
+<br>
+Om programma's toegankelijk te maken voor personen met een visuele of auditieve handicap worden ondertiteling, audiobeschrijving, gebarentaal en auditieve ondertiteling gebruikt.<br>
+<br>
+§ 2. De regionale televisieomroeporganisaties maken hun journaals op weekdagen vanaf 20 uur toegankelijk voor personen met een auditieve handicap. Daarvoor wordt gebruikgemaakt van ondertiteling.<br>
+<br>
+Private televisieomroeporganisaties met een gemiddeld marktaandeel van 19 maart 2021 die een hoofdjournaal uitzenden en gedurende zes maanden voorafgaand aan de eerste uitzending ervan een gemiddeld marktaandeel van 2% hebben, ondertitelen dat hoofdjournaal. Het hoofdjournaal is het journaal met gemiddeld het hoogste kijkcijfer.<br>
+<br>
+Private televisieomroeporganisaties die starten met het uitzenden van een hoofdjournaal maar op de dag van de eerste uitzending ervan geen marktaandeel van 2% hebben, ondertitelen dat hoofdjournaal binnen twaalf maanden vanaf de dag dat de private televisieomroeporganisatie ononderbroken gedurende zes maanden een gemiddeld marktaandeel van 2% heeft.<br>
+<br>
+Private televisieomroeporganisaties die op 1 januari 2010 een marktaandeel van 2% hadden en nog altijd een marktaandeel van 2% hebben op de dag van de inwerkingtreding van het decreet van 19 maart 2021 tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de gedeeltelijke omzetting van richtlijn (EU) 2018/1808 van het Europees Parlement en de Raad van 14 november 2018 tot wijziging van Richtlijn 2010/13/EU betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten) in het licht van een veranderende marktsituatie, en die andere journaals dan het hoofdjournaal en actualiteitenprogramma's uitzenden of die starten met het uitzenden van andere journaals dan het hoofdjournaal en actualiteitenprogramma's, ondertitelen uiterlijk op 1 januari 2013 die andere journaals dan het hoofdjournaal en 90% van de actualiteitenprogramma's.<br>
+<br>
+Private televisieomroeporganisaties die starten met het uitzenden van andere journaals dan het hoofdjournaal en actualiteitenprogramma's maar op 1 januari 2010 geen gemiddeld marktaandeel van 2% hebben, ondertitelen die andere journaals dan het hoofdjournaal en 90% van de actualiteitenprogramma's binnen 36 maanden vanaf de dag dat de private televisieomroeporganisatie ononderbroken gedurende zes maanden een gemiddeld marktaandeel van 2% heeft. Die verplichting geldt niet voor actualiteitenprogramma's die uitsluitend aan sportverslaggeving zijn gewijd. Het marktaandeel van een private omroeporganisatie is het aandeel dat een private omroeporganisatie heeft in het totale kijkcijferbereik op de televisieomroepmarkt binnen een bepaalde periode.<br>
+<br>
+§ 3. De Vlaamse Regering legt een tijdspad en quota op voor:<br>
+1° andere ondertiteling dan de ondertiteling, vermeld in paragraaf 2;<br>
+2° audiobeschrijving;<br>
+3° gebarentaal;<br>
+4° auditieve ondertiteling.<br>
+<br>
+§ 4. De openbare omroeporganisatie van de Vlaamse Gemeenschap en de particuliere televisieomroeporganisaties bezorgen elk jaar vóór 31 maart aan de Vlaamse Regulator voor de Media een verslag over de wijze waarop gedurende het voorgaande jaar aan paragraaf 1, 2 en 3 is voldaan, met vermelding van eventuele actiepunten. De Vlaamse Regulator voor de Media maakt die verslagen openbaar.<br>
+<br>
+§ 5. De Vlaamse Regering verstrekt subsidies voor elke techniek om televisiediensten toegankelijk te maken. De Vlaamse Regering legt daarvoor criteria vast.<br>
+<br>
+§ 6. Televisieomroeporganisaties zenden noodinformatie, voor zover redelijkerwijze mogelijk, met inbegrip van mededelingen en aankondigingen bij natuurrampen, uit op een wijze die toegankelijk is voor personen met een handicap.<br>
+<br>
+§ 7. De Vlaamse Regulator voor de Media onderhoudt een onlinecontactpunt om informatie te verstrekken en klachten te ontvangen met betrekking tot dit artikel. Het contactpunt is gemakkelijk toegankelijk voor personen met een handicap.
 
 ## Afdeling II. Het uitzenden van cinematografische werken
 
@@ -1059,6 +1210,10 @@ De televisieomroeporganisatie van de Vlaamse Gemeenschap en de particuliere line
 ### ART. 155.
 
 De televisieomroeporganisatie van de Vlaamse Gemeenschap en de particuliere lineaire televisieomroeporganisaties streven ernaar om ten minste tien procent van hun niet aan informatie, sport, spel, reclame, teletekst en telewinkelen gewijde zendtijd te besteden aan Europese producties die vervaardigd zijn door van de televisieomroeporganisaties onafhankelijke producenten.<br /><br />Een aanzienlijk deel ervan moet worden besteed aan recente producties. Dat zijn producties die binnen een periode van vijf jaar nadat ze gemaakt zijn, worden uitgezonden.<br /><br />Er moet voldoende ruimte worden gemaakt voor recente Nederlandstalige Europese producties.<br /><br />De Vlaamse Regering kan ter uitvoering van leden 1, 2 en 3 quota opleggen.
+
+### ART 155/1.
+
+Met het oog op het verzekeren van pluralisme in de media, vrijheid van meningsuiting en culturele diversiteit kan de Vlaamse Regering criteria vastleggen en maatregelen opleggen aan ondernemingen om ervoor te zorgen dat er passende aandacht wordt voorzien, en zichtbaarheid en vindbaarheid wordt gegarandeerd voor televisiediensten van algemeen belang.
 
 ### ART. 156.
 
@@ -1104,7 +1259,13 @@ De particuliere lineaire televisieomroeporganisaties hebben als maatschappelijk 
 
 ### ART. 161.
 
-Private televisieomroeporganisaties moeten aangemeld worden bij de Vlaamse Regulator voor de Media. De kennisgeving wordt minimaal veertien kalenderdagen voor de start van het aanbieden van de lineaire televisiediensten gedaan.<br /><br />De kennisgeving wordt conform artikel 219 gedaan en moet minstens de volgende informatie bevatten : alle gegevens die kunnen dienen om te bepalen of de Vlaamse Gemeenschap bevoegd is voor de televisiedienst in kwestie, de statuten, de financiële structuur, en een duidelijke omschrijving van de te leveren dienst.<br /><br />Na de kennisgeving moet elke wijziging van de informatie, vermeld in het tweede lid, door de private omroeporganisatie in kwestie zo spoedig mogelijk aan de Vlaamse Regulator voor de Media worden meegedeeld.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor de kennisgevingen die de private televisieomroeporganisaties moeten naleven.
+Private televisieomroeporganisaties moeten aangemeld worden bij de Vlaamse Regulator voor de Media. De kennisgeving wordt minimaal veertien kalenderdagen voor de start van het aanbieden van de lineaire televisiediensten gedaan.<br>
+<br>
+De kennisgeving wordt conform artikel 219 gedaan en moet minstens de volgende informatie bevatten : alle gegevens die kunnen dienen om te bepalen of de Vlaamse Gemeenschap bevoegd is voor de televisiedienst in kwestie, de statuten, de financiële structuur, en een duidelijke omschrijving van de te leveren dienst.&nbsp;Als de lineaire televisiedienst geheel of hoofdzakelijk gericht is op het publiek van een andere lidstaat van de Europese Unie, brengt de Vlaamse Regulator voor de Media de nationale regulerende instantie of het nationaal regulerende orgaan van die andere lidstaat van de Europese Unie op de hoogte van de kennisgeving.<br>
+<br>
+Na de kennisgeving moet elke wijziging van de informatie, vermeld in het tweede lid, door de private omroeporganisatie in kwestie zo spoedig mogelijk aan de Vlaamse Regulator voor de Media worden meegedeeld.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de kennisgevingen die de private televisieomroeporganisaties moeten naleven.
 
 ### ART. 162.
 
@@ -1112,7 +1273,13 @@ Voor elk omroepprogramma is een kennisgeving vereist.<br /><br />Private televis
 
 ### ART. 163.
 
-Eenieder kan, onder de voorwaarden van dit hoofdstuk, private lineaire televisiediensten aanbieden, voor zover :<br />1° de aanbieder van lineaire televisiediensten is opgericht als een privaatrechtelijke rechtspersoon en onder de bevoegdheid van de Vlaamse Gemeenschap valt;<br />2° het maatschappelijk doel van de privaatrechtelijke rechtspersoon bestaat in het aanbieden van lineaire televisiediensten, met uitsluiting van het aanbieden van lineaire omroepdiensten als vermeld in artikel 165. De private omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van hun maatschappelijk doel;<br />3° de private omroeporganisatie onafhankelijk is van een politieke partij;<br />4° de uitzendingen onder de redactionele eindverantwoordelijkheid staan van het personeel;<br />5° de private omroeporganisatie in het Nederlands uitzendt, behoudens afwijkingen, toe te staan door de Vlaamse Regering.
+Eenieder kan, onder de voorwaarden van dit hoofdstuk, lineaire televisiediensten aanbieden, als de entiteit die deze aanbiedt opgericht is als een privaatrechtelijke rechtspersoon, of een natuurlijke persoon is die zelfstandig een beroepsactiviteit uitoefent en onder de bevoegdheid van de Vlaamse Gemeenschap valt. In het geval van een privaatrechtelijke rechtspersoon bestaat het maatschappelijk doel in het verzorgen van lineaire televisiediensten. De rechtspersoon kan alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van zijn maatschappelijk doel.<br>
+<br>
+De lineaire televisieomroeporganisaties zijn onafhankelijk van politieke partijen.<br>
+<br>
+De uitzendingen van lineaire televisieomroeporganisaties staan onder de redactionele eindverantwoordelijkheid van het personeel.<br>
+<br>
+De lineaire televisieomroeporganisaties zenden uit in het Nederlands, behoudens afwijkingen, toe te staan door de Vlaamse Regering.
 
 ### ART. 164.
 
@@ -1228,17 +1395,167 @@ Elke wijziging in de raad van bestuur en de algemene vergadering van de regional
 
 ### ART. 174.
 
-Eenieder kan, onder de voorwaarden van dit hoofdstuk, niet-lineaire televisiediensten aanbieden, als :<br />1° de entiteit die deze aanbiedt opgericht is als een privaatrechtelijke rechtspersoon en onder de bevoegdheid van de Vlaamse Gemeenschap valt;<br />2° het maatschappelijk doel van de privaatrechtelijke rechtspersoon bestaat in het verzorgen van niet-lineaire televisiediensten, inzonderheid op digitale wijze. De rechtspersoon kan alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van zijn maatschappelijk doel.<br /><br />De niet-lineaire televisieomroeporganisaties kunnen, al dan niet tegen betaling, geheel of gedeeltelijk gecodeerd uitzenden en zijn onafhankelijk van een politieke partij.<br /><br />De niet-lineaire televisieomroeporganisaties zenden minstens in het Nederlands uit, behoudens uitzonderingen toe te staan door de Vlaamse Regering.
+Eenieder kan, onder de voorwaarden van dit hoofdstuk, niet-lineaire televisiediensten aanbieden, als de entiteit die deze aanbiedt opgericht is als een privaatrechtelijke rechtspersoon, of een natuurlijke persoon is die zelfstandig een beroepsactiviteit uitoefent en onder de bevoegdheid van de Vlaamse Gemeenschap valt. In het geval van een privaatrechtelijke rechtspersoon bestaat het maatschappelijk doel in het verzorgen van niet-lineaire televisiediensten, inzonderheid op digitale wijze. De rechtspersoon kan alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van zijn maatschappelijk doel.<br>
+<br>
+De niet-lineaire televisieomroeporganisaties kunnen, al dan niet tegen betaling, geheel of gedeeltelijk gecodeerd uitzenden en zijn onafhankelijk van een politieke partij.<br>
+<br>
+De niet-lineaire televisieomroeporganisaties zenden minstens in het Nederlands uit, behoudens uitzonderingen toe te staan door de Vlaamse Regering.
 
 ### ART. 175.
 
-De Vlaamse Regulator voor de Media moet minimaal veertien kalenderdagen voor het starten van de dienst op de hoogte worden gebracht van het aanbieden van een niet-lineaire televisiedienst.<br /><br />De kennisgeving wordt conform artikel 219 gedaan en moet minstens de volgende informatie bevatten : alle gegevens die kunnen dienen om te bepalen of de Vlaamse Gemeenschap bevoegd is voor de televisiedienst in kwestie, de statuten, en een duidelijke omschrijving van de te leveren dienst.<br /><br />De Vlaamse Regering bepaalt de nader te verstrekken gegevens die de kennisgeving moet bevatten, alsook de latere wijzigingen in die gegevens die aan de Vlaamse Regulator voor de Media moeten worden meegedeeld.<br /><br />Als de niet-lineaire televisieomroeporganisaties hun aanbod uitbreiden met een nieuw soort dienst, moeten ze een afzonderlijke kennisgeving verrichten.<br /><br />Na de kennisgeving moet elke wijziging in de informatie, vermeld in het eerste lid, door de niet-lineaire televisieomroeporganisatie in kwestie zo spoedig mogelijk aan de Vlaamse Regulator voor de Media worden meegedeeld.
+De Vlaamse Regulator voor de Media moet minimaal veertien kalenderdagen voor het starten van de dienst op de hoogte worden gebracht van het aanbieden van een niet-lineaire televisiedienst.<br>
+<br>
+De kennisgeving wordt conform artikel 219 gedaan en moet minstens de volgende informatie bevatten : alle gegevens die kunnen dienen om te bepalen of de Vlaamse Gemeenschap bevoegd is voor de televisiedienst in kwestie, de statuten, en een duidelijke omschrijving van de te leveren dienst.&nbsp;Als de niet-lineaire televisiedienst geheel of hoofdzakelijk gericht is op het publiek van een andere lidstaat van de Europese Unie, brengt de Vlaamse Regulator voor de Media de nationale regulerende instantie of het nationaal regulerende orgaan van die andere lidstaat van de Europese Unie op de hoogte van de kennisgeving.<br>
+<br>
+De Vlaamse Regering bepaalt de nader te verstrekken gegevens die de kennisgeving moet bevatten, alsook de latere wijzigingen in die gegevens die aan de Vlaamse Regulator voor de Media moeten worden meegedeeld.<br>
+<br>
+Als de niet-lineaire televisieomroeporganisaties hun aanbod uitbreiden met een nieuw soort dienst, moeten ze een afzonderlijke kennisgeving verrichten.<br>
+<br>
+Na de kennisgeving moet elke wijziging in de informatie, vermeld in het eerste lid, door de niet-lineaire televisieomroeporganisatie in kwestie zo spoedig mogelijk aan de Vlaamse Regulator voor de Media worden meegedeeld.
 
 ### ART. 176.
 
-De Vlaamse Regulator voor de Media kan de dienstenverdeler of de netwerkoperator verplichten het doorgeven van een niet-lineaire televisiedienst te schorsen of te staken als die niet-lineaire televisiedienst een inbreuk maakt op, of een ernstig risico inhoudt voor :<br />1° de openbare orde, in het bijzonder de preventie van, het onderzoek naar, de opsporing en de vervolging van strafbare feiten, waaronder de bescherming van minderjarigen en de bestrijding van het aanzetten tot haat wegens ras, geslacht, godsdienst of nationaliteit en van schendingen van de menselijke waardigheid ten aanzien van individuen;<br />2° de bescherming van de volksgezondheid;<br />3° de openbare veiligheid, met inbegrip van het waarborgen van de nationale veiligheid en defensie.<br /><br />Als de niet-lineaire televisieomroeporganisatie, vermeld in het eerste lid, onder de bevoegdheid van een andere lidstaat van de Europese Unie valt, moet de Vlaamse Regulator voor de Media vooraleer het doorgeven van de niet-lineaire televisiedienst te laten schorsen of staken :<br />1° de Europese Commissie en de lidstaat van de Europese Unie, onder wiens bevoegdheid de niet-lineaire televisieomroeporganisatie valt, kennis geven van het voornemen om het doorgeven van de niet-lineaire televisiedienst te laten schorsen of staken;<br />2° de lidstaat van de Europese Unie, onder wiens bevoegdheid de niet-lineaire televisieomroeporganisatie valt, verzoeken om maatregelen te nemen. De Vlaamse Regulator voor de Media kan het doorgeven van de niet-lineaire televisiedienst pas laten schorsen of staken als de lidstaat van de Europese Unie niet of onvoldoende op het verzoek van de Vlaamse Regulator voor de Media is ingegaan.<br /><br />In urgente gevallen kan de Vlaamse Regulator voor de Media afwijken van het tweede lid. In dat geval moet het bevel tot schorsing of staking van het doorgeven van niet-lineaire televisiediensten op zo kort mogelijke termijn ter kennis worden gebracht van de Europese Commissie en van de lidstaat van de Europese Unie onder wiens bevoegdheid de niet-lineaire televisieomroeporganisatie valt, met opgave van de redenen van urgentie.<br /><br />De bepalingen van dit artikel zijn van toepassing onverminderd eventuele rechtszaken, met inbegrip van het vooronderzoek en van handelingen die verricht zijn in het kader van een strafrechtelijk onderzoek.
+...
 
 ## [DEEL III/1. Videoplatformdiensten (ing. decr. 19 maart 2021, art. 33, I: 9 mei 2021)]
+
+### ART 176/1.
+
+Eenieder kan conform de bepalingen, vermeld in dit deel, videoplatformdiensten aanbieden, als de entiteit die deze aanbiedt opgericht is als een privaatrechtelijke rechtspersoon, of een natuurlijke persoon is die zelfstandig een beroepsactiviteit uitoefent en onder de bevoegdheid van de Vlaamse Gemeenschap valt. In het geval van een privaatrechtelijke rechtspersoon bestaat het maatschappelijk doel in het aanbieden van videoplatformdiensten. De rechtspersoon kan alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van zijn maatschappelijk doel.
+
+### ART 176/2.
+
+De aanbieder van videoplatformdiensten brengt de Vlaamse Regulator voor de Media minimaal veertien kalenderdagen voor het starten van de dienst op de hoogte van het aanbieden van videoplatformdiensten.<br>
+<br>
+De kennisgeving gebeurt conform artikel 219 en bevat minstens de volgende informatie:<br>
+1° alle gegevens die kunnen dienen om te bepalen of de Vlaamse Gemeenschap bevoegd is voor de aanbieder van videoplatformdiensten in kwestie;<br>
+2° de statuten;<br>
+3° een duidelijke omschrijving van de te leveren dienst.<br>
+<br>
+De Vlaamse Regering bepaalt de nader te verstrekken gegevens die de kennisgeving moet bevatten, en ook de latere wijzigingen in die gegevens die aan de Vlaamse Regulator voor de Media moeten worden meegedeeld.<br>
+<br>
+Aanbieders die op de datum van inwerkingtreding van dit decreet reeds videoplatformdiensten aanbieden, doen de kennisgeving, vermeld in het tweede lid, uiterlijk zes maanden nadat de Vlaamse Regering de nader te verstrekken gegevens en de latere wijzigingen in die gegevens die aan de Vlaamse Regulator voor de Media moeten worden meegedeeld, heeft bepaald.<br>
+<br>
+Als aanbieders van videoplatformdiensten hun aanbod uitbreiden met een nieuw soort dienst, brengen ze de Vlaamse Regulator voor de Media daarvan op de hoogte met een afzonderlijke kennisgeving.<br>
+<br>
+Na de kennisgeving delen de aanbieders van videoplatformdiensten zo spoedig mogelijk elke wijziging in de informatie, vermeld in het tweede lid, aan de Vlaamse Regulator voor de Media mee.
+
+### ART 176/3.
+
+§ 1. In dit artikel wordt verstaan onder:<br>
+1° dochteronderneming: een onderneming waarover een moederonderneming zeggenschap heeft, met inbegrip van elke dochteronderneming van een uiteindelijke moederonderneming;<br>
+2° groep: een moederonderneming, al haar dochterondernemingen en alle andere ondernemingen die er op organisatorisch gebied economische en juridische banden mee hebben;<br>
+3° moederonderneming: een onderneming die zeggenschap heeft over een of meer dochterondernemingen.<br>
+<br>
+§ 2. Voor de toepassing van dit decreet valt een aanbieder van videoplatformdiensten onder de bevoegdheid van de Vlaamse Gemeenschap als hij overeenkomstig artikel I.18, 4°, van het Wetboek van economisch recht gevestigd is in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en de activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren.<br>
+<br>
+§ 3. Een aanbieder van videoplatformdiensten die niet overeenkomstig artikel I.18, 4°, van het Wetboek van economisch recht is gevestigd in een lidstaat van de Europese Unie, valt voor de toepassing van dit decreet onder de bevoegdheid van de Vlaamse Gemeenschap:<br>
+1° als hij een moederonderneming of een dochteronderneming heeft die gevestigd is in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en de activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren; of<br>
+2° als hij deel uitmaakt van een groep en een andere onderneming van de groep gevestigd is in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en de activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren.<br>
+<br>
+§ 4. Als de moederonderneming en de dochteronderneming of de andere ondernemingen van de groep, vermeld in paragraaf 3, allemaal gevestigd zijn in verschillende lidstaten van de Europese Unie, valt de aanbieder van videoplatformdiensten onder de bevoegdheid van de Vlaamse Gemeenschap:<br>
+1° als de moederonderneming gevestigd is in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en haar activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren; of bij gebreke van een dergelijke vestiging<br>
+2° als de dochteronderneming gevestigd is in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en haar activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren; of bij gebreke van een dergelijke vestiging<br>
+3° als een andere onderneming van de groep, vermeld in paragraaf 3, gevestigd is in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en haar activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren.<br>
+<br>
+§ 5. Als de moederonderneming, vermeld in paragraaf 3, niet gevestigd is in een lidstaat van de Europese Unie en als verschillende dochterondernemingen als vermeld in paragraaf 3, gevestigd zijn in verschillende lidstaten van de Europese Unie, valt de aanbieder van videoplatformdiensten onder de bevoegdheid van de Vlaamse Gemeenschap als een dochteronderneming voor het eerst met haar activiteiten begon in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en de activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren, mits de aanbieder van videoplatformdiensten een duurzame en reële band met de economie van de Vlaamse Gemeenschap heeft.<br>
+<br>
+Als de moederonderneming en de dochteronderneming, vermeld in paragraaf 3, niet gevestigd zijn in een lidstaat van de Europese Unie en als verschillende andere ondernemingen van de groep als vermeld in paragraaf 3, gevestigd zijn in verschillende lidstaten van de Europese Unie, valt de aanbieder van videoplatformdiensten onder de bevoegdheid van de Vlaamse Gemeenschap als een andere onderneming van de groep voor het eerst met haar activiteiten begon in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en de activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren, mits de aanbieder van videoplatformdiensten een duurzame en reële band met de economie van de Vlaamse Gemeenschap heeft.<br>
+<br>
+§ 6. Artikel XII.3, XII.4, XII.6, XII.17, XII.18, XII.19 en XII.20 van het Wetboek van economisch recht zijn van toepassing op aanbieders van videoplatformdiensten die vallen onder de bevoegdheid van de Vlaamse Gemeenschap.<br>
+<br>
+§ 7. De Vlaamse Regulator voor de Media maakt en handhaaft een actuele lijst met de aanbieders van videoplatformdiensten ten aanzien van wie hij bevoegd is.<br>
+<br>
+De lijst vermeldt voor elke aanbieder van videoplatformdiensten de criteria, vermeld in paragraaf 2 tot en met 5, waarop de bevoegdheid van de Vlaamse Regulator voor de Media is gebaseerd. De Vlaamse Regulator voor de Media bezorgt die lijst, met inbegrip van actualiseringen, aan de Europese Commissie.<br>
+<br>
+§ 8. Als tussen de Vlaamse Regulator voor de Media en de nationale regulerende instantie of het nationale regulerende orgaan van een andere lidstaat van de Europese Unie geen overeenstemming wordt bereikt over wie bevoegd is voor een aanbieder van videoplatformdiensten, brengt de Vlaamse Regulator voor de Media de Europese Commissie daarvan onmiddellijk op de hoogte.
+
+### ART 176/4.
+
+§ 1. Onverminderd de toepassing van artikel XII.17, XII.18, XII.19 en XII.20 van het Wetboek van economisch recht nemen aanbieders van videoplatformdiensten de nodige passende maatregelen om:<br>
+1° minderjarigen te beschermen tegen programma's, door gebruikers gegenereerde inhoud en commerciële communicatie die hun lichamelijke, geestelijke of morele ontwikkeling van minderjarigen zouden kunnen aantasten als vermeld in artikel 42 van dit decreet;<br>
+2° het algemene publiek te beschermen tegen programma's, door gebruikers gegenereerde inhoud en commerciële communicatie die aanzetten tot geweld of haat jegens een groep personen of lid van een groep op grond van:<br>
+a) geslacht;<br>
+b) ras;<br>
+c) kleur;<br>
+d) etnische of sociale afkomst;<br>
+e) genetische kenmerken;<br>
+f) taal;<br>
+g) godsdienst of overtuiging;<br>
+h) politieke of andere denkbeelden;<br>
+i) het behoren tot een nationale minderheid;<br>
+j) vermogen;<br>
+k) geboorte;<br>
+l) een handicap;<br>
+m) leeftijd;<br>
+n) seksuele geaardheid;<br>
+3° het algemene publiek te beschermen tegen programma's, door gebruikers gegenereerde inhoud en commerciële communicatie met inhoud waarvan de verspreiding een activiteit inhoudt die een misdrijf is, met name:<br>
+a) het publiekelijk aanzetten tot het plegen van een terroristisch misdrijf als vermeld in artikel 137 en 140bis van het Strafwetboek;<br>
+b) strafbare feiten met betrekking tot kinderpornografie als vermeld in artikel 383bis van het Strafwetboek;<br>
+c) strafbare feiten op het gebied van racisme en vreemdelingenhaat als vermeld in artikel 20 en 21 van de wet van 30 juli 1981 tot bestraffing van bepaalde door racisme of xenofobie ingegeven daden.<br>
+<br>
+§ 2. De volgende maatregelen zijn passende maatregelen als vermeld in paragraaf 1:<br>
+1° de voorschriften, vermeld in paragraaf 1, in de voorwaarden van de videoplatformdiensten opnemen en die voorschriften toepassen;<br>
+2° programma's, door gebruikers gegenereerde inhoud en commerciële communicatie waarin pornografische beelden of beelden van nodeloos geweld voorkomen versleuteld aanbieden of die onderwerpen aan een doeltreffend ouderlijk toezicht;<br>
+3° transparante en gebruiksvriendelijke mechanismen tot stand brengen en gebruiken waarmee de gebruikers van videoplatformdiensten programma's, door gebruikers gegenereerde inhoud en commerciële communicatie die op de videoplatformdienst worden aangeboden bij de aanbieder van die videoplatformdienst kunnen rapporteren of markeren;<br>
+4° systemen tot stand brengen en gebruiken waarmee de aanbieder van een videoplatformdienst de gebruikers van die videoplatformdienst kan uitleggen welk gevolg er is gegeven aan de rapporteringen en markeringen, vermeld in punt 3° ;<br>
+5° systemen voor leeftijdscontrole van gebruikers van videoplatformdiensten met betrekking tot programma's, door gebruikers gegenereerde inhoud en commerciële communicatie die de lichamelijke, geestelijke of morele ontwikkeling van minderjarigen kan aantasten tot stand brengen en gebruiken;<br>
+6° gemakkelijk te bedienen systemen tot stand brengen en gebruiken waarmee de gebruikers van videoplatformdiensten een beoordeling kunnen geven van de programma's, door gebruikers gegenereerde inhoud en commerciële communicatie die aangeboden worden op de videoplatformdiensten;<br>
+7° systemen voor ouderlijk toezicht ter beschikking stellen die door de eindgebruiker van de videoplatformdienst worden beheerd voor programma's, door gebruikers gegenereerde inhoud en commerciële communicatie die de lichamelijke, geestelijke of morele ontwikkeling van minderjarigen kunnen aantasten;<br>
+8° transparante, gemakkelijk te gebruiken en doeltreffende procedures tot stand brengen en gebruiken om klachten van de gebruikers van de videoplatformdiensten bij de aanbieder van videoplatformdiensten over de uitvoering van de maatregelen, vermeld in punt 3° tot en met 7°, te behandelen en af te handelen;<br>
+9° doeltreffende maatregelen en instrumenten op het gebied van mediawijsheid voorzien en de bekendheid van gebruikers met die maatregelen en instrumenten vergroten.<br>
+<br>
+Persoonsgegevens van minderjarigen die aanbieders van videoplatformdiensten verzamelen ter uitvoering van het eerste lid, 5° en 7°, worden niet verwerkt voor commerciële doeleinden.<br>
+<br>
+§ 3. Als de aanbieders van videoplatformdiensten de passende maatregelen, vermeld in paragraaf 2, nemen, houden ze rekening met al de volgende elementen:<br>
+1° de aard van de inhoud in kwestie;<br>
+2° de schade die de inhoud kan berokkenen;<br>
+3° de kenmerken van de te beschermen categorie personen;<br>
+4° de rechten die in het geding zijn en de gerechtvaardigde belangen, en het algemeen belang.<br>
+<br>
+De passende maatregelen, vermeld in paragraaf 2, zijn uitvoerbaar en proportioneel en houden rekening met de omvang van de videoplatformdienst en de aard van de verleende dienst, en leiden niet tot eventuele controlemaatregelen vooraf of filtering bij het uploaden van inhoud die niet voldoen aan de bepalingen, vermeld in artikel XII.20, § 1, van het Wetboek van economisch recht.<br>
+<br>
+§ 4. De Vlaamse Regering bepaalt hierover nadere regels.
+
+### ART 176/5.
+
+Aanbieders van videoplatformdiensten zijn vrij in het op enige wijze in de handel brengen, verkopen of organiseren van commerciële communicatie, met uitzondering van de beperkingen en verplichtingen, vermeld in dit decreet.<br>
+Voor de commerciële communicatie die de aanbieders van videoplatformdiensten in de handel brengen, verkopen of organiseren leven ze de voorschriften na, vermeld in artikel 52 tot en met 55, artikel 62, artikel 65 tot en met 69, artikel 71 tot en met 77 en artikel 90 tot en met 97.
+
+### ART 176/6.
+
+§ 1. De aanbieders van videoplatformdiensten nemen voor de commerciële communicatie die ze niet in de handel brengen, verkopen of organiseren de volgende passende maatregelen om te voldoen aan de voorschriften, vermeld in artikel 52 tot en met 55, artikel 62, artikel 65 tot en met 69, artikel 71 tot en met 77 en artikel 90 tot en met 101:<br>
+1° de voorschriften, vermeld in artikel 52 tot en met 55, artikel 62, artikel 65 tot en met 69, artikel 71 tot en met 77 en artikel 90 tot en met 101, in de voorwaarden van de videoplatformdiensten opnemen en die voorschriften toepassen;<br>
+2° een functie ter beschikking stellen waarmee gebruikers die door gebruikers gegenereerde inhoud uploaden, kunnen verklaren dat die inhoud commerciële communicatie bevat, op voorwaarde dat ze dat weten of redelijkerwijs zouden kunnen weten;<br>
+3° transparante en gebruiksvriendelijke mechanismen tot stand brengen en gebruiken waarmee de gebruikers van een videoplatformdienst commerciële communicatie die op de videoplatformdienst wordt aangeboden bij die aanbieder kunnen rapporteren of markeren;<br>
+4° systemen tot stand brengen en gebruiken waarmee de aanbieder van een videoplatformdienst de gebruikers van die videoplatformdienst kan uitleggen welk gevolg er is gegeven aan de rapporteringen en markeringen, vermeld in punt 3° ;<br>
+5° systemen voor leeftijdscontrole van gebruikers van videoplatformdiensten voor commerciële communicatie die op de videoplatformdienst wordt aangeboden en die de lichamelijke, geestelijke of morele ontwikkeling van minderjarigen kan aantasten tot stand brengen en gebruiken;<br>
+6° gemakkelijk te bedienen systemen tot stand brengen en gebruiken waarmee de gebruikers van videoplatformdiensten een beoordeling kunnen geven van de op videoplatformdiensten aangeboden commerciële communicatie;<br>
+7° systemen voor ouderlijk toezicht ter beschikking stellen die door de eindgebruiker van de videoplatformdienst worden beheerd voor programma's, door gebruikers gegenereerde inhoud en commerciële communicatie die de lichamelijke, geestelijke of morele ontwikkeling van minderjarigen kunnen aantasten;<br>
+8° transparante, gemakkelijk te gebruiken en doeltreffende procedures tot stand brengen en gebruiken om klachten van de gebruikers van de videoplatformdiensten bij de aanbieder van videoplatformdiensten over de uitvoering van de maatregelen, vermeld in punt 3° tot en met 7°, te behandelen en af te handelen;<br>
+9° doeltreffende maatregelen en instrumenten voorzien op het gebied van mediawijsheid en de bekendheid van gebruikers met die maatregelen en instrumenten vergroten.<br>
+<br>
+Persoonsgegevens van minderjarigen die aanbieders van videoplatformdiensten verzamelen ter uitvoering van het eerste lid, 5° en 7°, worden niet verwerkt voor commerciële doeleinden.<br>
+<br>
+§ 2. Als de aanbieders van videoplatformdiensten de passende maatregelen, vermeld in paragraaf 1, namen, houden ze rekening met al de volgende elementen:<br>
+1° de aard van de inhoud in kwestie;<br>
+2° de schade die de inhoud kan berokkenen;<br>
+3° de kenmerken van de te beschermen categorie personen;<br>
+4° de rechten die in het geding zijn en de gerechtvaardigde belangen, en met het algemeen belang.<br>
+<br>
+De passende maatregelen, vermeld in paragraaf 1, zijn uitvoerbaar en proportioneel en houden rekening met de omvang van de videoplatformdienst en de aard van de verleende dienst, en leiden niet tot eventuele controlemaatregelen vooraf of filtering bij het uploaden van inhoud die niet voldoen aan de bepalingen, vermeld in artikel XII.20, § 1, van het Wetboek van economisch recht.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt hierover nadere regels.
+
+### ART 176/7.
+
+&nbsp;De aanbieders van videoplatformdiensten informeren de gebruikers duidelijk als programma's en door gebruikers gegenereerde inhoud commerciële communicatie bevatten als ze daarvan op de hoogte zijn.
+
+### ART 176/8.
+
+De Vlaamse Regulator voor de Media ziet erop toe dat de aanbieders van videoplatformdiensten die onder de bevoegdheid van de Vlaamse Gemeenschap vallen, passende maatregelen nemen conform artikel 176/4 tot en met 176/7 en dat ze die maatregelen toepassen.<br>
+<br>
+Als de Vlaamse Regulator voor de Media klachten of opmerkingen ontvangt over aanbieders van videoplatformdiensten die niet onder de bevoegdheid van de Vlaamse Gemeenschap vallen, bezorgt de Vlaamse Regulator voor de Media die klachten of opmerkingen aan de nationale regulerende instantie of het nationale regulerende orgaan van de bevoegde lidstaat.
 
 ## DEEL IV. Dienstenverdelers
 
@@ -1258,7 +1575,27 @@ Dienstenverdelers maken ten minste de volgende informatie gemakkelijk, rechtstre
 
 ### ART. 180.
 
-<P>§ 1. Dienstenverdelers geven de lineaire televisieomroepprogramma's die deel   uitmaken van hun aanbod van televisiediensten in de Vlaamse Gemeenschap,   onverkort, ongewijzigd en in hun geheel, door op het ogenblik dat ze worden   uitgezonden. Dat geldt ook voor de bijbehorende diensten, vermeld in artikel   185, § 1, tweede lid, laatste zin.<BR><BR>§ 2. Elke functionaliteit die een   dienstenverdeler aan de eindgebruikers aanbiedt en die het mogelijk maakt om de   in het eerste lid bedoelde lineaire televisieomroepprogramma's op een   uitgestelde, verkorte of gewijzigde wijze te bekijken, is onderworpen aan de   voorafgaande toestemming van de betrokken televisieomroeporganisatie. De   voorafgaande toestemming is vereist van iedere televisieomroeporganisatie die   onder het toepassingsgebied van artikel 154, eerste en tweede lid,   valt.<BR><BR>De betrokken televisieomroeporganisatie en dienstenverdeler   onderhandelen te goeder trouw en dienen hun toestemmingswijze op een redelijke   en proportionele wijze uit te oefenen.<BR><BR>Wanneer een akkoord hierover leidt   tot financiële vergoedingen van de dienstenverdelers aan de   televisieomroeporganisaties, dan dienen die te worden aangewend voor   Nederlandstalige Europese producties, overeenkomstig artikel 154.<BR><BR>De   Vlaamse Regering kan nadere regels opleggen met het oog op de controle en/of de   handhaving van deze regel.<BR><BR>§ 3. Functionaliteiten die afbreuk doen aan de   redactionele autonomie en verantwoordelijkheid van de betrokken   televisieomroeporganisaties kunnen altijd worden geweigerd.<BR><BR>§ 4. Indien   er geen overeenkomst met betrekking tot de toestemming kan worden gesloten   binnen een termijn van drie maanden te rekenen vanaf het ogenblik dat de   dienstenverdeler per aangetekend schrijven de televisieomroeporganisatie   omstandig heeft ingelicht van zijn intentie tot het aanbieden van een   functionaliteit waarvoor de toestemming vereist is van de   televisieomroeporganisatie zoals vermeld in paragraaf 2, zullen de partijen een   beroep doen op bemiddeling. De meest gerede partij zal daartoe per aangetekend   schrijven gericht aan de voorzitter van de raad van bestuur van de Vlaamse   Regulator voor de Media verzoeken om een bemiddelingsprocedure op te starten   binnen een termijn van zeven werkdagen na ontvangst van dat verzoek. Een besluit   van de Vlaamse Regering bepaalt de nadere regels van de bemiddelingsprocedure,   die maximaal drie maanden mag duren.<BR><BR>Indien de bemiddelingsprocedure niet   leidt tot een akkoord tussen de partijen, formuleert de bemiddelaar een advies   tot besluit van de bemiddelingsopdracht. De meest gerede partij kan de zaak   aanhangig maken bij de bevoegde rechtscolleges.<BR><BR>§ 5. Dienstenverdelers   maken commerciële communicatie die deel uitmaakt van hun dienst duidelijk als   zodanig herkenbaar. De bepalingen van afdeling II. Basisregels bij het gebruik   van commerciële communicatie, afdeling III. Commerciële communicatie over   specifieke producten en afdeling IV Commerciële communicatie die gericht is op   minderjarigen, jongeren en kinderen, deel III. Radio-Omroep en Televisie, titel   II. Bepalingen over Omroepdiensten, hoofdstuk IV Commerciële communicatie zijn   van toepassing op de commerciële communicatie die dienstenverdelers brengen in   hun eigen diensten aan de abonnees.<BR><BR>§ 6. Dienstenverdelers nemen alle   redelijke technische maatregelen om ervoor te zorgen dat de toegang van   minderjarigen tot omroepdiensten die hun lichamelijke, geestelijke of zedelijke   ontwikkeling ernstig zouden kunnen aantasten, beperkt kan worden, of dat hun   aanbod dergelijke diensten niet bevat en brengen de afnemers van hun diensten   van deze maatregelen op de hoogte. Die verplichting is van toepassing op alle   omroepdiensten in hun aanbod, en op de elektronische programmagids of andere   audiovisuele of tekstgebaseerde informatie die deel uitmaakt van hun   dienstverlening.</P>
+<p>§ 1. Dienstenverdelers geven de lineaire televisieomroepprogramma's die deel uitmaken van hun aanbod van televisiediensten in de Vlaamse Gemeenschap, onverkort, ongewijzigd en in hun geheel, door op het ogenblik dat ze worden uitgezonden. Dat geldt ook voor de bijbehorende diensten, vermeld in artikel 185, § 1, tweede lid, laatste zin.<br>
+<br>
+Dienstenverdelers stellen de niet-lineaire televisiediensten en de daarin vervatte programma's, die deel uitmaken van hun aanbod van televisiediensten in de Vlaamse Gemeenschap, onverkort, ongewijzigd en in hun geheel, ter beschikking. Dat geldt ook voor de bijbehorende diensten, vermeld in artikel 185, § 1, tweede lid, laatste zin.<br>
+<br>
+§ 2. Elke functionaliteit die een dienstenverdeler aan de eindgebruikers aanbiedt en die het mogelijk maakt om de in het eerste lid van paragraaf 1 bedoelde lineaire televisieomroepprogramma's op een uitgestelde, verkorte of gewijzigde wijze te bekijken, is onderworpen aan de voorafgaande toestemming van de betrokken televisieomroeporganisatie. De voorafgaande toestemming is vereist van iedere televisieomroeporganisatie die onder het toepassingsgebied van artikel 154, eerste en tweede lid, valt.<br>
+<br>
+Elke functionaliteit die een dienstenverdeler aan de eindgebruikers aanbiedt en die het mogelijk maakt om de in het tweede lid van paragraaf 1 bedoelde niet-lineaire televisiediensten en de daarin vervatte programma's, op een verkorte of gewijzigde manier te bekijken, is onderworpen aan de voorafgaande toestemming van de betrokken televisieomroeporganisatie. De voorafgaande toestemming is vereist van iedere televisieomroeporganisatie die onder het toepassingsgebied van artikel 157, § 1 en § 2, valt.<br>
+<br>
+De betrokken televisieomroeporganisatie en dienstenverdeler onderhandelen te goeder trouw en dienen hun toestemmingswijze op een redelijke en proportionele wijze uit te oefenen. Wanneer een akkoord hierover leidt tot financiële vergoedingen van de dienstenverdelers aan de televisieomroeporganisaties, dan dienen die te worden aangewend voor Nederlandstalige Europese producties, overeenkomstig artikel 154 en 157.<br>
+<br>
+De Vlaamse Regering kan nadere regels opleggen met het oog op de controle en/of de handhaving van deze regel..<br>
+<br>
+§ 3. Functionaliteiten die afbreuk doen aan de redactionele autonomie en verantwoordelijkheid van de betrokken televisieomroeporganisaties kunnen altijd worden geweigerd.<br>
+<br>
+§ 4. Indien er geen overeenkomst met betrekking tot de toestemming kan worden gesloten binnen een termijn van drie maanden te rekenen vanaf het ogenblik dat de dienstenverdeler per aangetekend schrijven de televisieomroeporganisatie omstandig heeft ingelicht van zijn intentie tot het aanbieden van een functionaliteit waarvoor de toestemming vereist is van de televisieomroeporganisatie zoals vermeld in paragraaf 2, zullen de partijen een beroep doen op bemiddeling. De meest gerede partij zal daartoe per aangetekend schrijven gericht aan de voorzitter van de raad van bestuur van de Vlaamse Regulator voor de Media verzoeken om een bemiddelingsprocedure op te starten binnen een termijn van zeven werkdagen na ontvangst van dat verzoek. Een besluit van de Vlaamse Regering bepaalt de nadere regels van de bemiddelingsprocedure, die maximaal drie maanden mag duren.<br>
+<br>
+Indien de bemiddelingsprocedure niet leidt tot een akkoord tussen de partijen, formuleert de bemiddelaar een advies tot besluit van de bemiddelingsopdracht. De meest gerede partij kan de zaak aanhangig maken bij de bevoegde rechtscolleges.<br>
+<br>
+§ 5. Dienstenverdelers maken commerciële communicatie die deel uitmaakt van hun dienst duidelijk als zodanig herkenbaar. De bepalingen van afdeling II. Basisregels bij het gebruik van commerciële communicatie, afdeling III. Commerciële communicatie over specifieke producten en afdeling IV Commerciële communicatie die gericht is op minderjarigen, jongeren en kinderen, deel III. Radio-Omroep en Televisie, titel II. Bepalingen over Omroepdiensten, hoofdstuk IV Commerciële communicatie zijn van toepassing op de commerciële communicatie die dienstenverdelers brengen in hun eigen diensten aan de abonnees.<br>
+<br>
+§ 6. Dienstenverdelers nemen alle redelijke technische maatregelen om ervoor te zorgen dat de toegang van minderjarigen tot omroepdiensten die hun lichamelijke, geestelijke of zedelijke ontwikkeling ernstig zouden kunnen aantasten, beperkt kan worden, of dat hun aanbod dergelijke diensten niet bevat en brengen de afnemers van hun diensten van deze maatregelen op de hoogte. Die verplichting is van toepassing op alle omroepdiensten in hun aanbod, en op de elektronische programmagids of andere audiovisuele of tekstgebaseerde informatie die deel uitmaakt van hun dienstverlening.</p>
 
 ### ART. 181.
 
@@ -1271,6 +1608,10 @@ Het is een dienstenverdeler toegestaan via het elektronische communicatienetwerk
 ### ART. 183.
 
 De dienstenverdelers kunnen niet aansprakelijk gesteld worden voor de door de omroeporganisaties doorgegeven informatie of voor het verschaffen van toegang tot die informatie, noch voor de op verzoek van de omroeporganisatie opgeslagen informatie, op voorwaarde dat aan elk van de volgende voorwaarden is voldaan :<br />1° in geval van lineaire en niet-lineaire diensten wijzigt de dienstenverdeler de doorgegeven informatie van de omroeporganisaties niet;<br />2° in geval van niet-lineaire diensten ligt het initiatief om de informatie door te geven niet bij de dienstenverdeler;<br />3° in geval van niet-lineaire diensten wordt de ontvanger van de doorgegeven informatie in verband met die diensten niet door de dienstenverdeler bepaald.<br /><br />Het eerste lid doet geen afbreuk aan de mogelijkheid van de Vlaamse Regulator voor de Media om in overeenstemming met de bepalingen van dit decreet te eisen dat de dienstenverdeler een inbreuk beëindigt of voorkomt.
+
+### ART 183/1.
+
+Dienstenverdelers zoals bepaald in artikel 177, eerste lid, mogen geen persoonsgegevens van minderjarigen voor commerciële doeleinden verwerken die ze verzamelen in uitvoering van instrumenten voor leeftijdscontrole of andere technische maatregelen die zij treffen om ervoor te zorgen dat minderjarigen programma's die hun lichamelijke, geestelijke of morele ontwikkeling zouden kunnen aantasten normaliter niet te horen of te zien krijgen.
 
 ### ART. 184.
 
@@ -1343,7 +1684,7 @@ De Vlaamse Regering bepaalt de percentages, vermeld in het eerste lid, 2° en 3�
 
 ### ART. 187.
 
-De dienstenverdelers die gebruikmaken van het netwerk van aanbieders van elektronische communicatienetwerken, van wie het netwerk niet voor een significant aantal eindgebruikers het belangrijkste middel is om televisieomroepprogramma's te ontvangen, mogen de volgende omroepprogramma's doorgeven :<br>
+De dienstenverdelers die geen dienstverleners zijn als vermeld in artikel 185, § 1, eerste lid, mogen de volgende omroepprogramma's doorgeven:<br>
 1° omroepprogramma's van de openbare omroeporganisatie van de Vlaamse Gemeenschap;<br>
 2° omroepprogramma's van de bij de Vlaamse Regulator voor de Media aangemelde omroeporganisaties;<br>
 2° /l het omroepprogramma van de regionale televisieomroeporganisatie binnen het verzorgingsgebied van die regionale televisieomroeporganisatie;<br>
@@ -1582,6 +1923,8 @@ De Vlaamse Regering gaat over tot vervanging van een lid van een kamer als dat l
 4° ontslagen is van ambtswege met toepassing van § 5, tweede lid;<br>
 5° afgezet is met toepassing van artikel 217.<br>
 <br>
+Het in het tweede lid van dit artikel bedoelde besluit wordt naar behoren gemotiveerd, wordt vooraf ter kennis gebracht en is beschikbaar voor het publiek.<br>
+<br>
 De voorzitter en de ondervoorzitter van beide kamers worden aangesteld bij besluit van de Vlaamse Regering.<br>
 <br>
 De Vlaamse Regering bepaalt het bedrag van de vergoedingen dat aan de leden van de kamers van de Vlaamse Regulator voor de Media moet worden toegekend. Ze bepaalt hun vergoedingen voor reis- en verblijfskosten.<br>
@@ -1617,14 +1960,21 @@ De voorzitter van een kamer stelt het ontslag van ambtswege van een lid vast, na
 13° het toezicht houden op de correctheid van de bereikcijfers die door de dienstenverdelers ter beschikking worden gesteld, het berekenen van het gemiddeld procentueel dagbereik van de regionale televisieomroeporganisaties, en het berekenen van de afzonderlijke bereikvergoedingen als vermeld in artikel 166/1, § 2, lid 6, die de dienstenverdelers verschuldigd zijn aan de regionale omroeporganisaties;<br>
 14° met behoud van de toepassing van paragraaf 3, eerste lid, 2°, niet-bindende interpretatieve richtsnoeren opstellen die de bepalingen van dit decreet of de uitvoeringsbesluiten ervan verduidelijken;<br>
 15° met behoud van de toepassing van paragraaf 3, eerste lid, 3°, adviezen formuleren als dit decreet en de uitvoeringsbesluiten ervan erin voorzien, of op verzoek van de Vlaamse Regering;<br>
-16° de uitvoering van de opdrachten omschreven in en/of voortvloeiend uit artikel 157 en de uitvoeringsbesluiten ervan.<br>
+16° de uitvoering van de opdrachten omschreven in en/of voortvloeiend uit artikel 157 en de uitvoeringsbesluiten ervan;<br>
+17° het maken en handhaven van de lijst, vermeld in artikel 150/1, § 4/2;<br>
+18° de Europese Commissie inlichten als vermeld in artikel 150/1, § 4/3;<br>
+19° het openbaar maken van de verslagen, vermeld in artikel 151, § 4;<br>
+20° het contactpunt onderhouden als vermeld in artikel 151, § 7;<br>
+21° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van de andere lidstaat van de Europese Unie over de kennisgeving, vermeld in artikel 161, tweede lid, en in artikel 175, tweede lid;<br>
+22° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van een andere staat over de klachten of de opmerkingen, vermeld in artikel 176/8;<br>
+23° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van de andere lidstaat van de Europese Unie, vermeld in artikel 220/1.<br>
 <br>
 De algemene kamer handelt volledig autonoom bij de uitoefening van haar bevoegdheden, vermeld in paragraaf 2. In geval van betwistingen wordt de algemene kamer in rechte vertegenwoordigd door haar voorzitter.<br>
 <br>
 § 3. De kamer voor onpartijdigheid en bescherming van minderjarigen heeft de volgende taken:<br>
-1° uitspraak doen over geschillen die gerezen zijn naar aanleiding van de toepassing van artikel 38, 39, 42, 44, 45, 72, 5°, 176, 1°, en 180, § 6;<br>
-2° niet-bindende interpretatieve richtsnoeren opstellen over artikel 38, 39, 42, 44, 45, 72, 5°, 176, 1°, en 180, § 6;<br>
-3° adviezen formuleren als dit decreet en de uitvoeringsbesluiten ervan erin voorzien, of op verzoek van de Vlaamse Regering over artikel 38, 39, 42, 44, 45, 72, 5°, 176, 1°, en 180, § 6.<br>
+1° uitspraak doen over geschillen die gerezen zijn naar aanleiding van de toepassing van artikel 38, 39, 40/1, 42, 72, 5°, 176/4, § 1, 1°, en artikel 176/4, § 1, 2°;<br>
+2° niet-bindende interpretatieve richtsnoeren opstellen over artikel 38, 39, 40/1, 42, 72, 5°, 176/4, § 1, 1°, en artikel 176/4, § 1, 2°;<br>
+3° adviezen formuleren als dit decreet en de uitvoeringsbesluiten ervan erin voorzien, of op verzoek van de Vlaamse Regering over artikel 38, 39, 40/1, 42, 72, 5°, 176/4, § 1, 1°, en artikel 176/4, § 1, 2°.<br>
 <br>
 De kamer voor onpartijdigheid en bescherming van minderjarigen doet daarbij volledig autonoom uitspraak. In geval van betwistingen wordt de kamer voor onpartijdigheid en bescherming van minderjarigen in rechte vertegenwoordigd door haar voorzitter.<br>
 <br>
@@ -1642,15 +1992,50 @@ Kennisgevingen, aanvragen voor een erkenning of zendvergunning en klachten worde
 
 ### ART. 220.
 
-§ 1. De algemene kamer doet uitspraak, hetzij ambtshalve, hetzij op verzoek van de Vlaamse Regering, hetzij naar aanleiding van een schriftelijke, met redenen omklede en ondertekende klacht die haar kan worden voorgelegd door elke belanghebbende en, in geval van een klacht met betrekking tot de bepalingen over commerciële communicatie en boodschappen van algemeen nut, door elke natuurlijke persoon of rechtspersoon.<br /><br />Over de inhoud van reclame kan de algemene kamer enkel uitspraak doen naar aanleiding van een schriftelijke, met redenen omklede en ondertekende klacht. Om ontvankelijk te zijn moet de klacht ingediend zijn uiterlijk de vijftiende dag na de gebeurtenis die aanleiding heeft gegeven tot de klacht.<br /><br />§ 2. De kamer voor onpartijdigheid en bescherming van minderjarigen doet uitspraak, hetzij ambtshalve wat betreft het toezicht op artikel 42, 44, 45, 72, 5°, en artikel 176, 1°, hetzij op verzoek van de Vlaamse Regering, hetzij naar aanleiding van een klacht die op straffe van onontvankelijkheid ingediend is uiterlijk de vijftiende dag na de datum van de uitzending van het programma door eenieder die blijk geeft van een benadeling of een belang.<br /><br />§ 3. In geval van betwisting over welke kamer bevoegd is om kennis te nemen van een klacht, wijst het college van voorzitters van de Vlaamse Regulator voor de Media de kamer aan die bevoegd is om kennis te nemen van de klacht. Het college van voorzitters bestaat uit de voorzitters van de algemene kamer en van de kamer voor onpartijdigheid en bescherming van minderjarigen. Als de voorzitter van de algemene kamer of de voorzitter van de kamer voor onpartijdigheid en bescherming van minderjarigen verhinderd is, wordt die in het college van voorzitters vervangen door de ondervoorzitter van de respectieve kamer.<br /><br />§ 4. De Vlaamse Regering bepaalt de procedures en de termijnen voor het indienen, onderzoeken en afhandelen van de aanvragen en klachten en voor het nemen van sancties. Daarbij moeten het recht om gehoord te worden op tegenspraak, de plicht tot motivering en de beginselen van openbaarheid van bestuur gegarandeerd worden.
+§ 1. De algemene kamer doet uitspraak, hetzij ambtshalve, hetzij op verzoek van de Vlaamse Regering, hetzij naar aanleiding van een schriftelijke, met redenen omklede en ondertekende klacht die haar kan worden voorgelegd door elke belanghebbende en, in geval van een klacht met betrekking tot de bepalingen over commerciële communicatie en boodschappen van algemeen nut, door elke natuurlijke persoon of rechtspersoon.<br>
+<br>
+Over de inhoud van reclame kan de algemene kamer enkel uitspraak doen naar aanleiding van een schriftelijke, met redenen omklede en ondertekende klacht. Om ontvankelijk te zijn moet de klacht ingediend zijn uiterlijk de vijftiende dag na de gebeurtenis die aanleiding heeft gegeven tot de klacht.<br>
+<br>
+§ 2. De kamer voor onpartijdigheid en bescherming van minderjarigen doet uitspraak, hetzij ambtshalve wat betreft het toezicht op artikel 40/1, 42, 72, 5°, 176/4, § 1, 1°, en artikel 176/4, § 1, 2°&nbsp;, hetzij op verzoek van de Vlaamse Regering, hetzij naar aanleiding van een klacht die op straffe van onontvankelijkheid ingediend is uiterlijk de vijftiende dag na de datum van de uitzending van het programma door eenieder die blijk geeft van een benadeling of een belang.<br>
+<br>
+§ 3. In geval van betwisting over welke kamer bevoegd is om kennis te nemen van een klacht, wijst het college van voorzitters van de Vlaamse Regulator voor de Media de kamer aan die bevoegd is om kennis te nemen van de klacht. Het college van voorzitters bestaat uit de voorzitters van de algemene kamer en van de kamer voor onpartijdigheid en bescherming van minderjarigen. Als de voorzitter van de algemene kamer of de voorzitter van de kamer voor onpartijdigheid en bescherming van minderjarigen verhinderd is, wordt die in het college van voorzitters vervangen door de ondervoorzitter van de respectieve kamer.<br>
+<br>
+§ 4. De Vlaamse Regering bepaalt de procedures en de termijnen voor het indienen, onderzoeken en afhandelen van de aanvragen en klachten en voor het nemen van sancties. Daarbij moeten het recht om gehoord te worden op tegenspraak, de plicht tot motivering en de beginselen van openbaarheid van bestuur gegarandeerd worden.
+
+### ART 220/1.
+
+Als een lidstaat van de Europese Unie een verzoek heeft over de activiteiten van een televisieomroeporganisatie die valt onder de bevoegdheid van de Vlaamse Gemeenschap maar een televisiedienst aanbiedt die gericht is op die lidstaat van de Europese Unie, verstrekt de Vlaamse Regulator voor de Media de regulerende instantie of het regulerende orgaan van de bevoegde lidstaat alle informatie die nuttig kan zijn om het verzoek te behandelen. De Vlaamse Regulator voor de Media doet al het mogelijke om het verzoek binnen twee maanden te behandelen.
 
 ### ART. 221.
 
-§ 1. Als de Vlaamse Regulator voor de Media van oordeel is dat een lineaire televisieomroeporganisatie die onder de bevoegdheid valt van een lidstaat van de Europese Unie een lineaire televisiedienst aanbiedt die volledig of hoofdzakelijk gericht is op de Vlaamse Gemeenschap, kan hij contact opnemen met de bevoegde lidstaat van de Europese Unie, om een wederzijds aanvaardbare oplossing voor ondervonden problemen mogelijk te maken.<br /><br />De Vlaamse Regulator voor de Media mag het Contactcomité, vermeld in artikel 23 van de Richtlijn Audiovisuele Mediadiensten, vragen om de zaak te onderzoeken.<br /><br />§ 2. De Vlaamse Regulator voor de Media kan passende maatregelen nemen tegen de lineaire televisieomroeporganisatie, vermeld in paragraaf 1, als aan de volgende voorwaarden is voldaan :<br />1° hij is van oordeel dat het resultaat van de toepassing van paragraaf 1 niet bevredigend is;<br />2° de lineaire televisieomroeporganisatie, vermeld in paragraaf 1, heeft zich in een lidstaat van de Europese Unie gevestigd om de strengere voorschriften te omzeilen op de gebieden die door de richtlijn Audiovisuele Mediadiensten worden gecoördineerd en die op hem van toepassing zouden zijn als hij in de Vlaamse Gemeenschap zou zijn gevestigd.<br /><br />De Vlaamse Regulator voor de Media kan daartoe sancties opleggen als vermeld in titel IV van dit deel en de dienstenverdelers of netwerkoperatoren verplichten de doorgifte van de lineaire televisiedienst te schorsen.<br /><br />§ 3. De Vlaamse Regulator voor de Media neemt de passende maatregelen, vermeld in paragraaf 2, als hij de Europese Commissie en de lidstaat van de Europese Unie waar de lineaire televisieomroeporganisatie gevestigd is, in kennis heeft gesteld van zijn voornemen om dergelijke maatregelen te nemen, met opgave van de redenen waarop hij zijn beoordeling heeft gebaseerd, van het feit dat de Europese Commissie besloten heeft dat de maatregelen verenigbaar zijn met het gemeenschapsrecht en in het bijzonder dat de beoordeling van de Vlaamse Regulator voor de Media gegrond is.
+§ 1. Als de Vlaamse Regulator voor de Media van oordeel is dat een televisieomroeporganisatie die onder de bevoegdheid valt van een lidstaat van de Europese Unie een televisiedienst aanbiedt die volledig of hoofdzakelijk gericht is op de Vlaamse Gemeenschap, kan hij contact opnemen met de bevoegde lidstaat van de Europese Unie om een wederzijds aanvaardbare oplossing voor problemen mogelijk te maken.<br>
+<br>
+De Vlaamse Regulator voor de Media mag het Contactcomité vragen om de zaak te onderzoeken.<br>
+<br>
+§ 2. De Vlaamse Regulator voor de Media kan passende maatregelen nemen tegen de televisieomroeporganisatie, vermeld in paragraaf 1, als aan al de volgende voorwaarden is voldaan:<br>
+1° hij is van oordeel dat het resultaat van de toepassing van paragraaf 1 niet bevredigend is;<br>
+2° hij toont redelijkerwijs aan dat de televisieomroeporganisatie, vermeld in paragraaf 1, zich in een lidstaat van de Europese Unie heeft gevestigd en daardoor de strengere voorschriften omzeilt op de gebieden die door de richtlijn 2010/13/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten) worden gecoördineerd en die op de televisieomroeporganisatie van toepassing zouden zijn als ze in de Vlaamse Gemeenschap zou zijn gevestigd, zonder dat moet worden bewezen dat de televisieomroeporganisatie, vermeld in paragraaf 1, die strengere voorschriften beoogt te omzeilen.<br>
+<br>
+De passende maatregelen, vermeld in het eerste lid, voldoen aan de volgende voorwaarden:<br>
+1° ze zijn objectief noodzakelijk;<br>
+2° ze worden op niet-discriminerende wijze genomen;<br>
+3° ze zijn geschikt om de beoogde doelstellingen te verwezenlijken;<br>
+4° ze beperken zich tot wat noodzakelijk is om de beoogde doelstellingen te verwezenlijken.<br>
+<br>
+De Vlaamse Regulator voor de Media kan daartoe sancties opleggen als vermeld in titel IV, en de dienstenverdelers of de netwerkoperatoren verplichten de doorgifte van de televisiedienst te schorsen.<br>
+<br>
+§ 3. De Vlaamse Regulator voor de Media neemt de passende maatregelen, vermeld in paragraaf 2, als aan al de volgende voorwaarden is voldaan:<br>
+1° hij heeft de Europese Commissie en de lidstaat van de Europese Unie waar de televisieomroeporganisatie gevestigd is, op de hoogte gebracht van zijn voornemen om dergelijke maatregelen te nemen, met opgave van de redenen waarop hij zijn beoordeling heeft gebaseerd;<br>
+2° hij heeft de rechten van verdediging van de betrokken televisieomroeporganisatie geëerbiedigd en heeft die televisieomroeporganisatie de mogelijkheid gegeven haar standpunt kenbaar te maken over de vermeende omzeiling en de maatregelen die hij wil nemen;<br>
+3° de Europese Commissie heeft besloten dat de maatregelen verenigbaar zijn met het Unierecht en in het bijzonder dat de beoordeling van de Vlaamse Regulator voor de Media gegrond is.
 
 ### ART. 222.
 
-De Vlaamse Regulator voor de Media verzoekt de lineaire televisieomroeporganisatie waarvan de televisie-uitzendingen volledig of hoofdzakelijk op het grondgebied van een lidstaat van de Europese Unie zijn gericht, de regels van algemeen publiek belang na te leven als hij daartoe een met reden omkleed verzoek krijgt van die lidstaat van de Europese Unie over ondervonden problemen met die televisie-uitzendingen.<br /><br />Binnen twee maanden na de ontvangst van het met redenen omklede verzoek licht de Vlaamse Regulator voor de Media de lidstaat van de Europese Unie in over het gevolg dat aan zijn verzoek is gegeven.<br /><br />De Vlaamse Regulator voor de Media mag het Contactcomité, vermeld in artikel 23 van de Richtlijn Audiovisuele Mediadiensten, vragen om de zaak te onderzoeken.
+De Vlaamse Regulator voor de Media verzoekt de televisieomroeporganisatie waarvan de televisiediensten volledig of hoofdzakelijk op het grondgebied van een lidstaat van de Europese Unie zijn gericht, de regels van algemeen belang na te leven als hij daartoe een gemotiveerd verzoek krijgt van die lidstaat van de Europese Unie over vastgestelde problemen met die televisiediensten.<br>
+<br>
+De Vlaamse Regulator voor de Media informeert de verzoekende lidstaat van de Europese Unie regelmatig over de stappen die zijn ondernomen om de problemen, vermeld in het eerste lid, aan te pakken. Binnen twee maanden na de dag waarop de Vlaamse Regulator voor de Media het gemotiveerde verzoek, vermeld in het eerste lid, heeft ontvangen, licht de Vlaamse Regulator voor de Media de verzoekende lidstaat en de Europese Commissie in over de verkregen resultaten en licht hij in voorkomend geval toe waarom geen oplossing kon worden gevonden.<br>
+<br>
+De Vlaamse Regulator voor de Media mag het Contactcomité vragen om de zaak te onderzoeken.
 
 ### ART. 223.
 
@@ -1673,11 +2058,13 @@ De raad van bestuur is bevoegd om alle handelingen te verrichten die nodig of di
 De raad van bestuur heeft inzonderheid de volgende opdrachten en bevoegdheden :<br>
 1° de beheersovereenkomst met de minister sluiten;<br>
 2° de rapportering over de uitvoering van de beheersovereenkomst goedkeuren;<br>
-3° de begroting opmaken;<br>
+3° de jaarlijkse begroting opmaken;<br>
 4° de begrotingskredieten herverdelen;<br>
 5° de algemene rekening opmaken;<br>
 6° over de uitvoering van de begroting rapporteren;<br>
-7° het jaarlijkse activiteitenverslag opmaken.
+7° het jaarlijkse activiteitenverslag opmaken.<br>
+<br>
+De jaarlijkse begroting, vermeld in het tweede lid, wordt openbaar gemaakt.
 
 ### ART. 227.
 
@@ -1685,26 +2072,35 @@ De gedelegeerd bestuurder is belast met het dagelijks bestuur en vertegenwoordig
 
 ### ART 227/1.
 
-De Vlaamse Regulator voor de Media neemt deel aan Vlaamse, inter-federale en nationale samenwerkingsverbanden of geschillenorganen waarin hij zitting heeft. De bevoegde kamer kan daarvoor delegatie verlenen aan een lid van de bevoegde kamer of aan een personeelslid van de Vlaamse Regulator voor de Media.
+De Vlaamse Regulator voor de Media neemt deel aan Vlaamse, inter-federale en nationale samenwerkingsverbanden of geschillenorganen waarin hij zitting heeft. De bevoegde kamer kan daarvoor delegatie verlenen aan een lid van de bevoegde kamer of aan een personeelslid van de Vlaamse Regulator voor de Media.<br>
+<br>
+De Vlaamse Regulator voor de Media neemt deel aan de werking van de Europese Groep van regelgevende instanties voor audiovisuele mediadiensten ERGA, vermeld in artikel 30ter van richtlijn 2010/13/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten).
 
 ## TITEL IV. SANCTIES
 
 ### ART. 228.
 
-Als de algemene kamer, binnen de grenzen van haar bevoegdheden, vermeld in artikel 220, § 1, een overtreding van de bepalingen van dit decreet vaststelt, kan ze aan de omroeporganisatie, dienstenverdeler in kwestie of het netwerk in kwestie de volgende sancties opleggen :<br>
+Als de algemene kamer, binnen de grenzen van haar bevoegdheden, vermeld in artikel 220, § 1, een overtreding van de bepalingen van dit decreet vaststelt, kan ze aan elke natuurlijke persoon of rechtspersoon waarop dit decreet van toepassing is de volgende sancties opleggen :<br>
 1° de waarschuwing met het bevel de overtreding stop te zetten;<br>
 2° het bevel de uitspraak uit te zenden op het tijdstip en op de wijze die bevolen zijn door de algemene kamer, op kosten van de overtreder. Als de uitspraak niet wordt uitgezonden op het tijdstip en de wijze zoals die bevolen zijn, kan een adminis-tratieve geldboete als vermeld in punt 4°, worden opgelegd;<br>
 3° de verplichte publicatie van de beslissing in dag- en/of weekbladen, op kosten van de overtreder. Als de uitspraak niet wordt gepubliceerd op de wijze zoals die bevolen is, kan een administratieve geldboete als vermeld in punt 4°, worden opgelegd;<br>
 4° een administratieve geldboete tot 125.000 euro;<br>
 5° de schorsing of intrekking van de zendvergunning;<br>
 6° de schorsing of intrekking van de erkenning van de omroeporganisatie;<br>
-7° de doorgifteschorsing overeenkomstig artikel 176.<br>
+7° de doorgifteschorsing, vermeld in artikel 40/1.<br>
 <br>
 In geval van het ongebruikt laten van de toegewezen zendmogelijkheden of het verkeerd gebruiken ervan, kan de algemene kamer de erkenning van een landelijke, regionale, netwerk- of lokale radio-omroeporganisatie of de vergunning voor een etheromroepnetwerk schorsen of intrekken.
 
 ### ART. 229.
 
-Als de kamer voor onpartijdigheid en bescherming van minderjarigen, binnen de grenzen van haar bevoegdheden, vermeld in artikel 220, § 2, van dit decreet, een overtreding op de bepalingen van dit decreet vaststelt, kan ze aan een omroep van of erkend door de Vlaamse Gemeenschap of aangemeld bij de Vlaamse Regulator voor de Media :<br />1° een waarschuwing geven met eventueel het bevel om de overtreding stop te zetten;<br />2° het bevel geven de uitspraak uit te zenden op het tijdstip en de wijze die door haar bepaald zijn. Bij een inbreuk op artikelen 42, 44 en 72, 5° kan een administratieve geldboete als vermeld in punt 4°, worden opgelegd als de uitspraak niet wordt uitgezonden op het tijdstip en de wijze zoals die bevolen zijn;<br />3° bij een inbreuk op artikel 42, 44, 45 en 72, 5° de verplichte publicatie van de uitspraak in dag- en/of weekbladen opleggen op kosten van de overtreder. Als de uitspraak niet wordt gepubliceerd op de wijze zoals die bevolen is, kan een administratieve geldboete als vermeld in punt 4°, worden opgelegd;<br />4° bij een inbreuk op artikel 42, 44, 45 en 72, 5° een administratieve geldboete tot 125.000 euro opleggen;<br />5° de doorgifte schorsen overeenkomstig artikelen 44 en 176.<br /><br />Als de kamer voor onpartijdigheid en bescherming van minderjarigen een duidelijke, belangrijke en ernstige inbreuk vaststelt op de bepalingen van artikelen 38, 39 , 42 en 72, 5°, kan de kamer voor onpartijdigheid en bescherming van minderjarigen ten aanzien van alle omroeporganisaties aan de Vlaamse Regering de schorsing voorstellen van de doorgifte van een programma overeenkomstig de bepalingen van artikel 44.
+Als de kamer voor onpartijdigheid en bescherming van minderjarigen, binnen de grenzen van haar bevoegdheden, vermeld in artikel 220, § 2, van dit decreet, een overtreding op de bepalingen van dit decreet vaststelt, kan ze aan elke natuurlijke persoon of rechtspersoon waarop dit decreet van toepassing is:<br>
+1° een waarschuwing geven met eventueel het bevel om de overtreding stop te zetten;<br>
+2° het bevel geven de uitspraak uit te zenden op het tijdstip en de wijze die door haar bepaald zijn. Bij een inbreuk op de bepalingen, vermeld in artikel 40/1, 42 en 72, 5°,&nbsp; kan een administratieve geldboete als vermeld in punt 4°, worden opgelegd als de uitspraak niet wordt uitgezonden op het tijdstip en de wijze zoals die bevolen zijn;<br>
+3° bij een inbreuk op de bepalingen, vermeld in artikel 40/1, 42 en 72, 5°, de verplichte publicatie van de uitspraak in dag- en/of weekbladen opleggen op kosten van de overtreder. Als de uitspraak niet wordt gepubliceerd op de wijze zoals die bevolen is, kan een administratieve geldboete als vermeld in punt 4°, worden opgelegd;<br>
+4° bij een inbreuk op de bepalingen, vermeld in artikel 40/1, 42 en 72, 5°, een administratieve geldboete tot 125.000 euro opleggen;<br>
+5° de doorgifte schorsen conform artikel 40/1.<br>
+<br>
+Als de kamer voor onpartijdigheid en bescherming van minderjarigen een duidelijke, belangrijke en ernstige inbreuk vaststelt op de bepalingen van artikelen 38, 39 , 42 en 72, 5°, kan de kamer voor onpartijdigheid en bescherming van minderjarigen ten aanzien van alle omroeporganisaties aan de Vlaamse Regering de schorsing voorstellen van de doorgifte van een programma conform artikel 40/1.
 
 ### ART. 230.
 
