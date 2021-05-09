@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035496,
+  "title": "Decreet van 2021-03-19 tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de gedeeltelijke omzetting van richtlijn (EU) 2018/1808 van het Europees Parlement en de Raad van 14 november 2018 tot wijziging van Richtlijn 2010/13/EU betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten) in het licht van een veranderende marktsituatie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035496/VolledigDocument?datum=2021-05-09",
+  "source_sha256": "798dd50dca2e9b3ba96df9202822de17b98f6d243f4515252b4b0816d15df81e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035496&param=informatie",
+  "as_of": "2021-05-09",
+  "made": "2021-03-19",
+  "gazette": "2021-04-29",
+  "numac": 2021020866,
+  "document_start": "2021-05-09",
+  "document_end": null,
+  "in_force": "2021-05-09",
+  "article_versions": 54,
+  "record_form": "consolidated version as in force on 2021-05-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
