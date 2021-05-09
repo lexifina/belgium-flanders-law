@@ -259,9 +259,19 @@ De aanvraag van ondersteuning door een unit voor geïnterneerden bevat de volgen
 <br>
 Als de persoon met een handicap die ondersteuning van een unit voor geïnterneerden vraagt of voor wie die ondersteuning wordt gevraagd, al erkend is door het agentschap als een persoon met een handicap, wordt alleen het aanvraagdocument, vermeld in het eerste lid, 1°, bezorgd aan het agentschap.<br>
 <br>
-De aanvraag wordt ingediend door de persoon met een handicap of zijn wettelijke vertegenwoordiger.<br>
+Het aanvraagdocument, vermeld in het eerste lid, 1°, wordt ingediend door de persoon met een handicap, zijn wettelijke vertegenwoordiger of zijn bewindvoerder in het geval, vermeld in het vierde lid. Het aanvraagdocument kan bezorgd worden met de post of elektronisch op de wijze die het agentschap vaststelt. Als het document met de post wordt bezorgd, wordt het ondertekend door de persoon met een handicap of zijn wettelijke vertegenwoordiger en in het geval, vermeld in het vierde lid, door de bewindvoerder.<br>
 <br>
 Als de persoon met een handicap rechtelijk beschermd is met toepassing van de wet van 17 maart 2013 tot hervorming van de regelingen inzake onbekwaamheid en tot instelling van een nieuwe beschermingsstatus die strookt met de menselijke waardigheid, kan de aanvraag tot toewijzing van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning, alsook de aanvraag tot herziening worden ingediend door de bewindvoerder als de persoon volledig onbekwaam is verklaard, zowel wat betreft de persoon als wat betreft de goederen, en als de bewindvoerder vertegenwoordigingsbevoegdheid heeft gekregen, en in de andere gevallen door de persoon met een handicap samen met de bewindvoerder.<br>
+<br>
+De beslissing van het agentschap tot toewijzing van ondersteuning aan een unit voor geïnterneerden vervalt in de volgende gevallen:<br>
+1° met ingang van de eerste dag van de vijfde maand die volgt op maand waarin het agentschap de beslissing heeft genomen over de terbeschikkingstelling van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap;<br>
+2° als er binnen een jaar vanaf de datum van de beslissing geen individuele dienstverleningsovereenkomst is gesloten als vermeld in artikel 9 van het besluit van 4 februari 2011, over de ondersteuning van een unit voor geïnterneerden;<br>
+3° vanaf het ogenblik van de definitieve invrijheidstelling, vermeld in artikel 77 van de wet van 5 mei 2014 betreffende de internering, behalve in het geval, vermeld in artikel 11, tweede lid, van dit besluit;<br>
+4° als de geïnterneerde persoon opnieuw verblijft in een inrichting als vermeld in artikel 11, eerste lid, 3°, van dit besluit.<br>
+5° vanaf de dag van het overlijden van de geïnterneerde persoon;<br>
+6° als het agentschap een beslissing heeft genomen als vermeld in artikel 6, § 3, vierde lid, van het besluit van de Vlaamse Regering van 14 december 2018 over de zorg en ondersteuning voor geïnterneerde personen met een handicap door vergunde zorgaanbieders, behalve als een individuele dienstverleningsovereenkomst is gesloten als vermeld in artikel 9 van het besluit van 4 februari 2011, over de ondersteuning aan een unit voor geïnterneerden.<br>
+<br>
+In afwijking van het vijfde lid, 4°, vervalt de beslissing van het agentschap tot toewijzing van ondersteuning aan een unit voor geïnterneerden niet als gedurende drie maanden vanaf de ingangsdatum van de individuele dienstverleningsovereenkomst over de ondersteuning aan een unit voor geïnterneerden, die ondersteuning wordt gecombineerd met een verblijf of een gedeeltelijk verblijf in een inrichting als vermeld in artikel 11, eerste lid, 3°.<br>
 &nbsp;
 
 ### ART 22.
