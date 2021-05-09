@@ -33,7 +33,7 @@ In dit besluit wordt verstaan onder :<br>
 De volgende personen kunnen bij het agentschap aanspraak maken op zorg en ondersteuning conform dit besluit :<br>
 1° personen met een niet-aangeboren hersenletsel of tetraplegie door een hoge dwarslaesie (C4 of hoger), die acuut en plots is ontstaan en een onomkeerbare breuk in de levenslijn tot gevolg heeft. Die breuk manifesteert zich vóór de leeftijd van 65 jaar. De toestand van de persoon is niet meer voor verbetering vatbaar en vereist de beschikbaarheid van een gespecialiseerd kader en de permanente aanwezigheid van een professionele zorgverlener. Als dat nodig is, kan de zorgverlener onmiddellijk ingrijpen en ondersteuning bieden. Een herintegratie in het gezin of in de thuissituatie wordt door de medische toestand van de persoon met een niet-aangeboren hersenletsel of tetraplegie door een hoge dwarslaesie (C4 of hoger) als onmogelijk beschouwd;<br>
 2° personen met een niet-aangeboren hersenletsel, vermeld in punt 1°, die ernstige gezondheidsproblemen hebben in combinatie met cognitieve of gedragsmatige problemen en personen met tetraplegie door een hoge dwarslaesie (C4 of hoger) die ernstige gezondheidsproblemen hebben;<br>
-3° personen met een grote zorg- en ondersteuningsnood, wat resulteert in minstens een budgetcategorie X op basis van de afname van het zorgzwaarte-instrument;<br>
+3° personen met een grote zorg- en ondersteuningsnood, wat resulteert in minstens een budgetcategorie 16 op basis van de afname van het zorgzwaarte-instrument;<br>
 4° personen die op het moment van de aanvraag, vermeld in artikel 3, in een residentiële inrichting voor neurologische of locomotorische revalidatie verblijven.
 
 ## HOOFDSTUK III. Aanvraag en afhandeling van de aanvraag
@@ -50,13 +50,15 @@ Het agentschap kan bijkomende informatie opvragen.<br>
 <br>
 Het medisch attest wordt opgemaakt door een erkende revalidatiearts die verbonden is aan een revalidatieziekenhuis of een afdeling voor neurologische of locomotorische revalidatie van een ziekenhuis. In het medisch attest wordt aangetoond dat de persoon in kwestie voldoet aan de voorwaarden, vermeld in artikel 2, 1°, 2° en 4°.<br>
 <br>
+Het aanvraagdocument kan aan het agentschap bezorgd worden met de post of elektronisch op de wijze die het agentschap bepaalt. Als het met de post wordt bezorgd, wordt het ondertekend doorde aanvrager .<br>
+<br>
 § 3. De objectivering van de nood aan zorg en ondersteuning van de persoon in kwestie gebeurt aan de hand van de afname van het zorgzwaarte-instrument.<br>
 <br>
 De aanvrager kan zich wenden tot een multidisciplinair team als vermeld in artikel 22 van het besluit van de Vlaamse regering van 24 juli 1991 betreffende de indiening en afhandeling van de aanvraag van ondersteuning bij het Vlaams Agentschap voor Personen met een Handicap voor de afname van het zorgzwaarte-instrument.<br>
 <br>
 De afname van het zorgzwaarte-instrument kan ten vroegste plaatsvinden na afloop van een periode van zes maanden na de plotse breuk in de levenslijn, vermeld in artikel 2, 1°.<br>
 <br>
-§ 4. Het ondersteuningsplan persoonsvolgende financiering wordt binnen twaalf maanden na de beslissing, vermeld in artikel 4, § 3, bezorgd aan het agentschap. Als het ondersteuningsplan persoonsvolgende financiering door de aanvrager zelf wordt bezorgd, geldt bijkomend de voorwaarde dat het ondersteuningsplan persoonsvolgende financiering binnen de voormelde termijn van twaalf maanden wordt goedgekeurd door het agentschap.
+§ 4. Het ondersteuningsplan persoonsvolgende financiering wordt binnen twaalf maanden na de beslissing, vermeld in artikel 4, § 3,&nbsp;op de wijze, vermeld in artikel 8 van het besluit van 27 november 2015 bezorgd aan het agentschap. Als het ondersteuningsplan persoonsvolgende financiering door de aanvrager zelf wordt bezorgd, geldt bijkomend de voorwaarde dat het ondersteuningsplan persoonsvolgende financiering binnen de voormelde termijn van twaalf maanden wordt goedgekeurd door het agentschap.
 
 ### ART 4.
 
