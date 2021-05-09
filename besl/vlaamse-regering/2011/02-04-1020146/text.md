@@ -175,7 +175,7 @@ Onder leefkosten wordt verstaan de vergoeding voor het levensonderhoud. Het gaat
 6° medicatie;<br>
 7° verzorgingsproducten;<br>
 8° kleding;<br>
-9° vervoer;<br>
+9° vervoer, behalve als de kosten van vervoer als een onderdeel van de kosten van de ondersteuning worden aangerekend;<br>
 10° ontspanning;<br>
 11° abonnementen;<br>
 12° verzekeringen.<br>
