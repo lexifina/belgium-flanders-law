@@ -209,9 +209,9 @@ De verklaringen op erewoord die gebruikt worden om de gegevens te verzamelen, wo
 
 ### ART. 6bis.
 
-Met toepassing van artikel 140, § 1, 3°, van het decreet worden de vestigingsplaatsen in het Vlaamse Gewest gegeopositioneerd op basis van de geografische coördinaten, beschikbaar bij het Agentschap&nbsp;Informatie Vlaanderen, op de eerste schooldag van februari van het voorgaande schooljaar. Daarbij wordt gebruikgemaakt van de technische voorschriften van de CRAB-specificaties, vermeld in artikel 5 van het ministerieel besluit van 25 maart 2011 tot vaststelling van de CRAB-specificaties.<br>
+Met toepassing van artikel 140, § 1, 3°, van het decreet worden de vestigingsplaatsen in het Vlaamse Gewest gegeopositioneerd op basis van de geografische coördinaten, beschikbaar bij het Agentschap&nbsp;Digitaal Vlaanderen, op de eerste schooldag van februari van het voorgaande schooljaar. Daarbij wordt gebruikgemaakt van de technische voorschriften van de CRAB-specificaties, vermeld in artikel 5 van het ministerieel besluit van 25 maart 2011 tot vaststelling van de CRAB-specificaties.<br>
 <br>
-Indien de positie van een vestigingsplaats beschikbaar bij&nbsp;het agentschap Informatie Vlaanderen zich niet ten minste op het perceel bevindt waar de vestigingsplaats ligt, wordt er in afwijking van het eerste lid, gewerkt met de geopositie van de betrokken vestigingsplaats zoals deze, beschikbaar is in de bestanden van het ministerie van onderwijs en vorming.<br>
+Indien de positie van een vestigingsplaats beschikbaar bij&nbsp;het agentschap Digitaal Vlaanderen zich niet ten minste op het perceel bevindt waar de vestigingsplaats ligt, wordt er in afwijking van het eerste lid, gewerkt met de geopositie van de betrokken vestigingsplaats zoals deze, beschikbaar is in de bestanden van het ministerie van onderwijs en vorming.<br>
 <br>
 Met toepassing van artikel 140, § 1, 3°, van het decreet worden de vestigingsplaatsen in het Brusselse Hoofdstedelijke Gewest gegeopositioneerd op basis van de geografische coördinaten, beschikbaar bij de dienst van het Brusselse Hoofdstedelijke Gewest die bevoegd is voor geopositionering, op de eerste schooldag van februari van het voorgaande schooljaar.<br>
 <br>
