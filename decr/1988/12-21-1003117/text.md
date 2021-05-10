@@ -22,7 +22,8 @@ Dit decreet regelt een aangelegenheid bedoeld in artikel 107quater van de Grondw
 5° het decreet algemene bepalingen milieubeleid : het decreet van 5 april 1995 houdende de algemene bepalingen inzake milieubeleid;<br>
 6° het decreet Vlaamse Grondenbank : het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen;<br>
 7° het decreet Landinrichting: het decreet van 28 maart 2014 betreffende de landinrichting;<br>
-8° administratieve overheid: het Vlaamse Gewest, de Vlaamse Gemeenschap, de diensten en agentschappen die afhangen van het Vlaamse Gewest of de Vlaamse Gemeenschap, de besturen die onderworpen zijn aan het administratieve toezicht van het Vlaamse Gewest of de Vlaamse Gemeenschap, alsook de publiekrechtelijke en privaatrechtelijke rechtspersonen die belast zijn met taken van openbaar nut.
+8° administratieve overheid: het Vlaamse Gewest, de Vlaamse Gemeenschap, de diensten en agentschappen die afhangen van het Vlaamse Gewest of de Vlaamse Gemeenschap, de besturen die onderworpen zijn aan het administratieve toezicht van het Vlaamse Gewest of de Vlaamse Gemeenschap, alsook de publiekrechtelijke en privaatrechtelijke rechtspersonen die belast zijn met taken van openbaar nut;<br>
+9° agentschap Digitaal Vlaanderen: het agentschap Digitaal Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen.
 
 ## [HOOFDSTUK III STATUUT, KAPITAAL EN AANDELEN, DUUR EN ONTBINDING VAN HET AGENTSCHAP (verv. decr. 7 mei 2004, art. 4)]
 
@@ -58,13 +59,13 @@ De aandeelhouders zijn slechts gebonden door verliezen ten belope van het bedrag
 <br>
 § 3. De statuten van het agentschap worden, na goedkeuring door de Vlaamse Regering, vastgesteld in een notariële akte houdende oprichting van de Vlaamse Landmaatschappij. De statuten kunnen slecht worden gewijzigd mits goedkeuring door de Vlaamse Regering.<br>
 <br>
-§ 4. De roerende goederen van de afdeling Ondersteunend Centrum GIS-Vlaanderen, afdeling van de Vlaamse Landmaatschappij, opgericht bij decreet van 21 december 1988 houdende oprichting van de Vlaamse Landmaatschappij, worden kosteloos en in de staat waarin ze zich bevinden overgedragen aan het agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen.<br>
+§ 4. De roerende goederen van de afdeling Ondersteunend Centrum GIS-Vlaanderen, afdeling van de Vlaamse Landmaatschappij, opgericht bij decreet van 21 december 1988 houdende oprichting van de Vlaamse Landmaatschappij, worden kosteloos en in de staat waarin ze zich bevinden overgedragen aan het agentschap Digitaal Vlaanderen.<br>
 <br>
-Voor de overdracht, vermeld in het eerste lid, wordt een inventaris van alle roerende goederen, met inbegrip van de rechten en verplichtingen opgemaakt in gezamenlijk overleg tussen de leidinggevende personeelsleden van de VLM en het agentschap Informatie Vlaanderen, die opgenomen wordt in de jaarrekening.<br>
+Voor de overdracht, vermeld in het eerste lid, wordt een inventaris van alle roerende goederen, met inbegrip van de rechten en verplichtingen opgemaakt in gezamenlijk overleg tussen de leidinggevende personeelsleden van de VLM en het agentschap Digitaal Vlaanderen, die opgenomen wordt in de jaarrekening.<br>
 <br>
-Het agentschap Informatie Vlaanderen treedt in de rechten en verplichtingen van de VLM, met inbegrip van de rechten en verplichtingen die voortvloeien uit gerechtelijke procedures.<br>
+Het agentschap Digitaal Vlaanderen treedt in de rechten en verplichtingen van de VLM, met inbegrip van de rechten en verplichtingen die voortvloeien uit gerechtelijke procedures.<br>
 <br>
-De beschikbare middelen van de VLM die verbonden zijn aan de rechten en verplichtingen, vermeld in het derde lid, worden overgedragen aan het agentschap Informatie Vlaanderen op basis van de afgesloten rekening.
+De beschikbare middelen van de VLM die verbonden zijn aan de rechten en verplichtingen, vermeld in het derde lid, worden overgedragen aan het agentschap Digitaal Vlaanderen op basis van de afgesloten rekening.
 
 ### ART. 3.
 
@@ -130,7 +131,7 @@ Het agentschap vervult deze taak onder meer door :<br>
 3° informatie over onroerende goederen te bundelen en centraal beschikbaar te stellen;<br>
 4° een centraal meldingspunt voor verkoopsaanbiedingen uit te bouwen binnen het eigen beleidsdomein.<br>
 <br>
-§ 5. Het agentschap heeft als taak ondersteuning te geven aan het agentschap Informatie Vlaanderen.<br>
+§ 5. Het agentschap heeft als taak ondersteuning te geven aan het agentschap Digitaal Vlaanderen.<br>
 <br>
 § 6. Het agentschap heeft als taak een gronddatabank uit te bouwen en te beheren.<br>
 <br>
