@@ -2,22 +2,22 @@
 
 ### ART 1.
 
-De volgende personen worden aangeduid als effectieve leden van de beheerscommissie van het Eigen Vermogen Informatie Vlaanderen:<br>
-1° de leidend ambtenaar of een personeelslid van het agentschap Informatie Vlaanderen, die de beheerscommissie voorzit: mevrouw Barbara Van Den Haute;<br>
-2° de leidend ambtenaar van het agentschap Facilitair Bedrijf: de heer Frank Geets;<br>
+De volgende personen worden aangeduid als effectieve leden van de beheerscommissie van het Eigen Vermogen Digitaal Vlaanderen:<br>
+1° de leidend ambtenaar of een personeelslid van het agentschap Digitaal Vlaanderen, die de beheerscommissie voorzit: mevrouw Barbara Van Den Haute;<br>
+2° ...;<br>
 3° de leidend ambtenaar van de Vlaamse Landmaatschappij: de heer Toon Denys;<br>
 4° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de financiën en de begrotingen: mevrouw Lotte Baeten;<br>
-5° een vertegenwoordiger van de Vlaamse minister, bevoegd voor het informatie- en IT-beleid: de heer Jan Smedts;<br>
+5° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de digitalisering: de heer Jan Smedts;<br>
 6° een vertegenwoordiger van de beheerders van een netwerk van water, elektriciteit, gas, telecommunicatie, teledistributie en rioleringen in Vlaanderen: mevrouw Hilde Beeckmans.
 
 ### ART 2.
 
-De volgende personen worden aangeduid als plaatsvervangende leden van de beheerscommissie van het Eigen Vermogen Informatie Vlaanderen:<br>
-1° een personeelslid van het agentschap Informatie Vlaanderen, die de beheerscommissie plaatsvervangend voorzit: mevrouw Inge Lynen;<br>
-2° een afgevaardigde van het agentschap Facilitair Bedrijf: de heer Stefan Desmet;<br>
+De volgende personen worden aangeduid als plaatsvervangende leden van de beheerscommissie van het Eigen Vermogen Digitaal Vlaanderen:<br>
+1° een personeelslid van het agentschap Digitaal Vlaanderen, die de beheerscommissie plaatsvervangend voorzit: mevrouw Inge Lynen;<br>
+2° ...;<br>
 3° een afgevaardigde van de Vlaamse Landmaatschappij: mevrouw Annita Stevens;<br>
 4° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de financiën en de begrotingen: de heer Peter Vandermeersch;<br>
-5° een vertegenwoordiger van de Vlaamse minister, bevoegd voor het informatie- en IT-beleid: mevrouw Karolien Van Dorpe;<br>
+5° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de digitalisering: mevrouw Karolien Van Dorpe;<br>
 6° een vertegenwoordiger van de beheerders van een netwerk van water, elektriciteit, gas, telecommunicatie, teledistributie en rioleringen in Vlaanderen: de heer Filip Broekaert.
 
 ### ART 3.
