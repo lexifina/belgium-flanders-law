@@ -99,7 +99,7 @@ Het agentschap heeft als missie bij te dragen tot de realisatie van de doelstell
 2) binnen zijn beleidsdomein, ofwel goederen te verwerven in naam en voor rekening van agentschappen met rechtspersoonlijkheid van het beleidsdomein, ofwel goederen te verwerven in eigen naam en voor eigen rekening, administratief te beheren tot aan de overdracht en over te dragen;<br>
 3) informatie over onroerende goederen te bundelen en centraal beschikbaar te stellen;<br>
 4) een centraal meldingspunt voor verkoopsaanbiedingen uit te bouwen binnen het eigen beleidsdomein;<br>
-5° ondersteuning te geven aan het agentschap Informatie Vlaanderen;<br>
+5° ondersteuning te geven aan het agentschap Digitaal Vlaanderen;<br>
 6° een gronddatabank uit te bouwen en te beheren en vervult deze taak onder meer door:<br>
 1) informatie over kenmerken en gebruik van de bodem en gegevens over inrichtingsaspecten van de open ruimte op te slaan, te verwerken en te beheren;<br>
 2) zijn medewerking te verlenen bij de uitvoering van studies over de interpretatie van de gegevens naar hun economische, sociale en ruimtelijke implicaties;<br>
