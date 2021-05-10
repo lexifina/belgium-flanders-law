@@ -14,7 +14,7 @@ Voor de toepassing van dit decreet wordt begrepen onder:<br>
 1° grootschalige geografische gegevens: geografische gegevens omtrent fenomenen die cartografisch binnen een schaalbereik van 1/250 tot 1/5 000 kunnen worden afgebeeld;<br>
 2° grootschalige referentiegegevens: alle grootschalige geografische gegevens die opgenomen zijn in het Grootschalig Referentie Bestand;<br>
 3° Grootschalig Referentie Bestand, hierna 'GRB' genoemd: het databanksysteem waarin de grootschalige referentiegegevens over het grondgebied van het Vlaamse Gewest worden opgenomen, bijgehouden en toegankelijk gemaakt;<br>
-4° het agentschap : het intern verzelfstandigd agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen;<br>
+4° agentschap: het intern verzelfstandigd agentschap Digitaal Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen;<br>
 5° ...;<br>
 6° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het Bestuursdecreet van 7 december 2018 ;<br>
 7° netbeheerder van een fysiek leidingnet: netbeheerder bedoeld in artikel 21, 1°, van een of meerdere leidingnetten bedoeld in artikel 21,2° tot en met 5°, voor zover die leidingnetten aanwezig zijn op het grondgebied van het Vlaamse Gewest;<br>
@@ -141,13 +141,13 @@ De aanmaak, de bijhouding en het beheer van het GRB worden gefinancierd door:<br
 2° de opbrengst van de vergoedingen bedoeld in afdeling II van dit hoofdstuk die krachtens artikel 20 toekomen aan het Vlaamse Gewest;<br>
 3° de opbrengst van de heffingen bedoeld in afdeling III van dit hoofdstuk.<br>
 <br>
-De in 2° en 3° van het vorige lid vermelde opbrengsten worden integraal toegewezen aan het&nbsp;Eigen Vermogen Informatie Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende diverse maatregelen inzake de ontbinding van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Agentschap voor Geografische Informatie Vlaanderen en de oprichting van het Eigen Vermogen Informatie Vlaanderen en uitsluitend aangewend voor deze financiering.
+De in 2° en 3° van het vorige lid vermelde opbrengsten worden integraal toegewezen aan het&nbsp;Eigen Vermogen Digitaal Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende de oprichting van het Eigen Vermogen Digitaal Vlaanderen en uitsluitend aangewend voor deze financiering.
 
 ### ART. 19.
 
-In de rekeningen van het Eigen Vermogen Informatie Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende diverse maatregelen inzake de ontbinding van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Agentschap voor Geografische Informatie Vlaanderen en de oprichting van het Eigen Vermogen Informatie Vlaanderen worden de inkomsten en uitgaven die betrekking hebben op het GRB afzonderlijk vermeld.<br>
+In de rekeningen van het Eigen Vermogen Digitaal Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende de oprichting van het Eigen Vermogen Digitaal Vlaanderen worden de inkomsten en uitgaven die betrekking hebben op het GRB afzonderlijk vermeld.<br>
 <br>
-Het Eigen Vermogen Informatie Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende diverse maatregelen inzake de ontbinding van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Agentschap voor Geografische Informatie Vlaanderen en de oprichting van het Eigen Vermogen Informatie Vlaanderen brengt jaarlijks verslag uit aan het stuurorgaan Vlaams Informatie- en ICT-beleid&nbsp;omtrent deze inkomsten en uitgaven.
+Het Eigen Vermogen Digitaal Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende de oprichting van het Eigen Vermogen Digitaal Vlaanderen brengt jaarlijks verslag uit aan het stuurorgaan Vlaams Informatie- en ICT-beleid&nbsp;omtrent deze inkomsten en uitgaven.
 
 ## AFDELING 2 VERGOEDING DOORDERDEN
 
