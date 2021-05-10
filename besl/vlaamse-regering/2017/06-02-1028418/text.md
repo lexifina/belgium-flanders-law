@@ -86,7 +86,7 @@ Het stuurorgaan kan voor het vervullen van zijn taken een beroep doen op de mede
 <br>
 Het stuurorgaan rapporteert jaarlijks aan de Vlaamse Regering over de realisering van zijn opdrachten.<br>
 <br>
-Het agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen, zorgt voor het secretariaat van het stuurorgaan en draagt de werkingskosten van het stuurorgaan en van de werkgroepen die erin worden opgericht.<br>
+Het agentschap Digitaal Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen, zorgt voor het secretariaat van het stuurorgaan en draagt de werkingskosten van het stuurorgaan en van de werkgroepen die erin worden opgericht.<br>
 <br>
 Om de vergaderingen van het stuurorgaan voor te bereiden, wordt het secretariaat bijgestaan door de drie digitaliseringsverantwoordelijken, vermeld in artikel 2/1, 2°.
 
