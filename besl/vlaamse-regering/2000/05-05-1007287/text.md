@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-Het college van burgemeester en schepenen stelt een inventaris op van alle plannen en verordeningen die overeenkomstig artikel 5.1.1 van de Vlaamse Codex Ruimtelijke Ordening, in het plannenregister opgenomen moeten worden. Als de inventaris als een digitale databank wordt opgemaakt, dan gebeurt dit conform de technische normen, ter beschikking van de gemeente gesteld door het Departement Omgeving, in samenspraak met het agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen, hierna agentschap Informatie Vlaanderen te noemen.<br>
+Het college van burgemeester en schepenen stelt een inventaris op van alle plannen en verordeningen die overeenkomstig artikel 5.1.1 van de Vlaamse Codex Ruimtelijke Ordening, in het plannenregister opgenomen moeten worden. Als de inventaris als een digitale databank wordt opgemaakt, dan gebeurt dit conform de technische normen, ter beschikking van de gemeente gesteld door het Departement Omgeving, in samenspraak met het agentschap Digitaal Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen, hierna agentschap Digitaal Vlaanderen te noemen.<br>
 <br>
 De inventaris maakt deel uit van het plannenregister.
 
@@ -64,7 +64,7 @@ Ontwerp-plannen, plannen en verordeningen die worden opgeheven of op enige ander
 
 ### ART. 15.
 
-Als de gemeente het gehele plannenregister of een deel ervan in digitale vorm wil opmaken, actueel houden, uitwisselen of publiceren, moet ze rekening houden met de technische aanbeveling aangaande de uitwisseling van digitale geografische gegevens voor het plannenregister, die ter beschikking wordt gesteld door het Departement RWO, in samenspraak met het agentschap Informatie Vlaanderen.
+Als de gemeente het gehele plannenregister of een deel ervan in digitale vorm wil opmaken, actueel houden, uitwisselen of publiceren, moet ze rekening houden met de technische aanbeveling aangaande de uitwisseling van digitale geografische gegevens voor het plannenregister, die ter beschikking wordt gesteld door het Departement RWO, in samenspraak met het agentschap Digitaal Vlaanderen.
 
 ### ART. 16.
 

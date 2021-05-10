@@ -2,16 +2,16 @@
   "codex_id": 1007287,
   "title": "Besluit van de Vlaamse Regering van 2000-05-05 houdende bepaling van de nadere regels voor de opmaak en de actualisering van het plannenregister",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007287/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "7adf3035bb9f2486ae318dddcfa81ab9536068964e0e9106570a49d28ffd52db",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007287/VolledigDocument?datum=2021-05-10",
+  "source_sha256": "1d5428364fc91d55e240a3ddb059275ae8e4b48b4dbd19b8c03d0f1794a82eae",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007287&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2021-05-10",
   "made": "2000-05-05",
   "gazette": "2000-05-23",
   "numac": 2000035514,
   "document_start": "2000-05-01",
   "document_end": null,
-  "in_force": "2017-04-01",
+  "in_force": "2021-05-10",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-05-10; future article versions excluded; article text as the API gives it"
 }
