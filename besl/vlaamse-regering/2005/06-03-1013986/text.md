@@ -67,7 +67,7 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 ### ART. 3.
 
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span>§ 1. Het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie omvat de volgende beleidsvelden en bevoegdheden:</span></span></span>
+<span style="font-size:medium"><span style="color:#000000">§ 1. Het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie omvat de volgende beleidsvelden en bevoegdheden:</span></span>
 <table border="1" style="letter-spacing:normal; text-transform:none">
 	<tbody>
 		<tr>
@@ -110,12 +110,13 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>rampenschade</td>
-			<td>de financiële tegemoetkoming naar aanleiding van schade, veroorzaakt door 1° algemene rampen, vermeld in artikel 6, § 1, II, eerste lid, 5°, van de bijzondere wet<br>
+			<td>1° de financiële tegemoetkoming naar aanleiding van schade, veroorzaakt door 1° algemene rampen, vermeld in artikel 6, § 1, II, eerste lid, 5°, van de bijzondere wet<br>
 			2° landbouwrampen, vermeld in artikel 6, § 1, V, eerste lid, 2°, van de bijzondere wet</td>
 		</tr>
 		<tr>
 			<td>gelijke kansen en integratie en inburgering</td>
-			<td>1° het gelijkekansenbeleid, gericht op de thema's gender, seksuele diversiteit, toegankelijkheid en handicap 2° het gelijkebehandelingsbeleid gericht op de bestrijding van discriminatie<br>
+			<td>1° het gelijkekansenbeleid, gericht op de thema's gender, seksuele diversiteit, toegankelijkheid en handicap<br>
+			2° het gelijkebehandelingsbeleid gericht op de bestrijding van discriminatie<br>
 			3° het beleid inzake onthaal en integratie van inwijkelingen, vermeld in artikel 5, § 1, II, 3°, van de bijzondere wet</td>
 		</tr>
 		<tr>
@@ -135,9 +136,12 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>digitalisering</td>
-			<td>1° het e-government<br>
-			2° de informatiemaatschappij, informatie structureren, opslaan, uitwisselen en ontsluiten, en de infolijn<br>
-			3° de uitbouw van een geografische-informatie-infrastructuur</td>
+			<td>het beleid en het leveren van diensten inzake:<br>
+			1° de digitale transformatie van de instanties<br>
+			2° databeheer, data-uitwisseling en data-toepassingen<br>
+			3° burgergerichte digitale communicatie en interactie<br>
+			4° ICT-infrastructuur, digitale werkplek en ICT-toepassingen<br>
+			5° ICT-veiligheid en gegevensbescherming</td>
 		</tr>
 		<tr>
 			<td>bestuursrechtspraak</td>
@@ -154,12 +158,12 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>interne dienstverlening Vlaamse overheid</td>
-			<td>1° het algemeen beleid inzake de facilitaire dienstverlening in de Vlaamse administratie<br>
-			2° het algemeen beleid inzake overheidsopdrachten in de Vlaamse administratie<br>
-			3° het algemeen beleid inzake het vastgoedbeheer in de Vlaamse administratie<br>
-			4° het algemeen beleid inzake informatie- en communicatietechnologie in de Vlaamse administratie<br>
-			5° het algemeen beleid inzake personeel en organisatieontwikkeling in de Vlaamse administratie, inclusief het interne diversiteitsbeleid inzake personeel, het personeelsbeheer van de kabinetten en de uitvoering van het statuut van de leden van de Vlaamse Regering en inclusief het crisisbeheer<br>
-			6° de audit van de Vlaamse administratie</td>
+			<td>1° het algemene beleid inzake de facilitaire dienstverlening in de Vlaamse administratie<br>
+			2° het algemene beleid inzake overheidsopdrachten in de Vlaamse administratie, met inbegrip van de enige aankoopcentrale<br>
+			3° het algemene beleid inzake het vastgoedbeheer in de Vlaamse administratie<br>
+			4° het algemene beleid inzake het documentbeheer<br>
+			5° het algemene beleid inzake personeel en organisatieontwikkeling in de Vlaamse administratie, inclusief het interne diversiteitsbeleid inzake personeel, het personeelsbeheer van de kabinetten en de uitvoering van het statuut van de leden van de Vlaamse Regering en inclusief het crisisbeheer<br>
+			5° de audit van de Vlaamse administratie</td>
 		</tr>
 		<tr>
 			<td>toerisme</td>
@@ -174,9 +178,9 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 	</tbody>
 </table>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span>§ 2. Het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie omvat de volgende inhoudelijke structuurelementen:</span></span></span>
+<span style="font-size:medium"><span style="color:#000000">§ 2. Het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie omvat de volgende inhoudelijke structuurelementen:</span></span>
 
-<table style="letter-spacing:normal; text-transform:none">
+<table border="1" style="letter-spacing:normal; text-transform:none">
 	<tbody>
 		<tr>
 			<td>beleidsveld</td>
@@ -200,7 +204,8 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>gelijke kansen en integratie en inburgering</td>
-			<td>1° gelijke kansen 2° integratie en inburgering</td>
+			<td>1° gelijke kansen<br>
+			2° integratie en inburgering</td>
 		</tr>
 		<tr>
 			<td>Brussel</td>
@@ -218,7 +223,8 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>digitalisering</td>
-			<td>digitalisering</td>
+			<td>1° digitalisering<br>
+			2° ICT</td>
 		</tr>
 		<tr>
 			<td>bestuursrechtspraak</td>
@@ -230,11 +236,11 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>interne dienstverlening Vlaamse overheid</td>
-			<td>1° facilities<br>
+			<td>1° facilitair management<br>
 			2° vastgoed<br>
-			3° ICT<br>
+			3° documentbeheer<br>
 			4° overheidsopdrachten<br>
-			5° HR<br>
+			5° hr<br>
 			6° audit Vlaamse overheid</td>
 		</tr>
 		<tr>
@@ -998,7 +1004,7 @@ De aangelegenheden die bij artikel 3 tot en met 13 aan de verschillende beleidsd
 2° Agentschap Overheidspersoneel;<br>
 3° Agentschap Facilitair Bedrijf;<br>
 4° Agentschap Binnenlands Bestuur;<br>
-5° Agentschap Informatie Vlaanderen.<br>
+5° Agentschap Digitaal Vlaanderen.<br>
 <br>
 § 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie behoren, zijn :<br>
 1° de Rand;<br>
