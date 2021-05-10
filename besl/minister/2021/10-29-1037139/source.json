@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037139,
+  "title": "Ministerieel besluit van 2021-10-29 tot wijziging van het ministerieel besluit van 24 januari 2020 tot aanduiding van de leden van de beheerscommissie van het Eigen Vermogen Informatie Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037139/VolledigDocument?datum=2021-05-10",
+  "source_sha256": "4336bffc0c25df5582b47b83b913e33d0648a605d5e36114633f6224c002afa7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037139&param=informatie",
+  "as_of": "2021-05-10",
+  "made": "2021-10-29",
+  "gazette": "2021-12-14",
+  "numac": 2021022561,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2021-05-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-05-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
