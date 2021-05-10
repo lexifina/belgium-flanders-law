@@ -7,46 +7,49 @@
 Voor de toepassing van dit besluit wordt verstaan onder:<br>
 1° Het Algemeen Delegatiebesluit : het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen;<br>
 2° agentschap: het agentschap Facilitair Bedrijf, vermeld in artikel 2;<br>
-3° minister: de Vlaamse minister, bevoegd voor het algemeen beleid inzake facilitaire dienstverlening en het vastgoedbeheer in de Vlaamse administratie, en voor het algemeen beleid inzake informatie- en communicatietechnologie in de Vlaamse administratie;<br>
+3° minister: de Vlaamse minister, bevoegd voor het facilitair management, de Vlaamse minister, bevoegd voor het vastgoed, de Vlaamse minister, bevoegd voor de overheidsopdrachten, en de Vlaamse minister, bevoegd voor het documentbeheer;<br>
 4° ...<br>
-5° het lijnmanagement: de hoofden van de organisatorische entiteiten binnen de Vlaamse overheid die het hiërarchisch en functioneel gezag over het personeel van hun entiteit uitoefenen.
+5° het lijnmanagement: de hoofden van de organisatorische entiteiten binnen de Vlaamse overheid die het hiërarchisch en functioneel gezag over het personeel van hun entiteit uitoefenen;<br>
+6° lokale overheden: de lokale overheden, vermeld in artikel I.3, 5°, van het Bestuursdecreet van 7 december 2018;<br>
+7° Vlaamse overheid: de Vlaamse overheid, vermeld in artikel I.3, 1°, van het Bestuursdecreet van 7 december 2018.
 
 ## HOOFDSTUK II BENAMING, DOELSTELLINGEN EN TAKEN VAN HET AGENTSCHAP
 
 ### ART. 2.
 
-<p>Binnen het Vlaams Ministerie Kanselarij, Bestuur, Buitenlandse Zaken en Justitie wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de benaming "agentschap Facilitair Bedrijf". Het agentschap wordt opgericht voor de beleidsondersteuning en beleidsuitvoering inzake facilitaire dienstverlening, vastgoedbeheer, overheidsopdrachten en informatie- en communicatietechnologie en het openbare archiefwezen.<br>
+<p>Binnen het Vlaams Ministerie Kanselarij, Bestuur, Buitenlandse Zaken en Justitie wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de benaming "agentschap Facilitair Bedrijf". Het agentschap wordt opgericht voor de beleidsondersteuning en beleidsuitvoering inzake facilitaire dienstverlening, vastgoedbeheer, overheidsopdrachten van de Vlaamse overheid en inzake het documentbeheer van de Vlaamse overheid en van de lokale overheden.<br>
 <br>
 Het agentschap behoort tot het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie.</p>
 
 ### ART. 3.
 
-<P>Het agentschap heeft als missie het verstrekken van facilitaire   dienstverlening met het oog op het kwaliteitsvol, effectief, marktconform en   zuinig uitbouwen en beheren van het patrimonium en het aanbieden van   ICT-diensten, producten en advies om de dienstverlening van de   organisatie-entiteiten binnen de beleidsdomeinen en van de provinciale en lokale   besturen te ondersteunen, en zo bij te dragen tot de optimale werking van de   Vlaamse overheid als geheel.</P>
+<p>Het agentschap heeft als missie om een inspirerende en duurzame werkomgeving te creëren opdat de personeelsleden van de Vlaamse overheid kunnen uitblinken.</p>
 
 ### ART. 4.
 
-<p>Het agentschap heeft tot taak de operationele ondersteuning en uitvoering van facilitaire diensten in de diverse beleidsdomeinen. Dat omvat de volgende activiteiten:<br>
-1° het uitvoeren van het portefeuille-, ruimte- en projectbeheer, alsook het optreden als technische studiecel voor het vastgoed van de Vlaamse administratie;<br>
-2° het leveren van ondersteunende gebouwgebonden diensten op het vlak van technisch onderhoud, verhuizingen, bekabeling, energiebeheer, beheer van meubilair, beveiliging, catering, schoonmaak, beheer van vergaderzalen, reprografie, postbedeling, afvalverwerking in de gebouwen van de Vlaamse administratie;<br>
-3° het leveren van niet-gebouwgebonden facilitaire diensten op het vlak van de aankoop en het beheer van roerende goederen.<br>
+<p>Het agentschap heeft tot taak diensten inzake vastgoed marktconform aan te bieden. Dat omvat onder meer de volgende activiteiten:<br>
+1° de beleidscoördinatie, -voorbereiding en -uitvoering van het vastgoedbeleid voor de gebouwen van de Vlaamse overheid;<br>
+2° het beheer van de vastgoedportefeuille van gebouwen die in beheer van het agentschap zijn;<br>
+3° de coördinatie en ondersteuning van de inrichtingswerken en bouwprojecten voor de gebouwen van de Vlaamse overheid.<br>
 <br>
-Het agentschap heeft tot taak op te treden als gemeenschappelijke aankoopcentrale voor het plaatsen van overheidsopdrachten en raamovereenkomsten met betrekking tot werken, leveringen of diensten die bestemd zijn voor de departementen en de intern verzelfstandigde agentschappen. De gemeenschappelijke aankoopcentrale kan die raamovereenkomsten ook plaatsen voor andere instanties van de Vlaamse of de lokale overheid, vermeld in artikel I.3, 1°, of artikel I.3, 5°, van het bestuursdecreet van 7 december 2018, en voor de Vlaamse Gemeenschapscommissie, die op eigen verantwoordelijkheid kunnen afnemen.<br>
+Het agentschap heeft tot taak duurzame facilitaire diensten marktconform aan te bieden. Dat omvat onder meer de volgende activiteiten:<br>
+1° gebouwgebonden facilitaire dienstverlening leveren, verhuisbewegingen begeleiden, veiligheid garanderen, in netwerken voorzien, gebouwen onderhouden en onderhoudswerken uitvoeren en milieu- en energiebeheer opvolgen in gebouwen die in beheer van het agentschap zijn;<br>
+2° de aankoop van facilitaire goederen en diensten, met inbegrip van de budgetreservatie, de bestelling, de opvolging van de levering en het beheer van de goederen en diensten.<br>
 <br>
 Het agentschap heeft tot taak diensten inzake overheidsopdrachten aan te bieden. Dat omvat onder meer de volgende activiteiten:<br>
 1° de beleidscoördinatie, -voorbereiding en -uitvoering voor overheidsopdrachten, met inbegrip van de gewestelijke aspecten inzake overheidsopdrachten, het Vlaams Samenwerkingsforum Overheidsopdrachten en het lidmaatschap van de federale Commissie voor de overheidsopdrachten en daarmee samenhangend de ondersteuning van de Vlaamse Regering bij haar taken over de erkenning van aannemers van werken;<br>
-2° als aankoopcentrale optreden om overheidsopdrachten en raamovereenkomsten te plaatsen voor werken, leveringen of diensten die bestemd zijn voor instanties van de Vlaamse of de lokale overheid, vermeld in artikel I.3, 1° en artikel I.3, 5°, van het Bestuursdecreet van 7 december 2018, en voor de Vlaamse Gemeenschapscommissie;<br>
-3° de rol vervullen van kenniscentrum overheidsopdrachten ter ondersteuning van de entiteiten van de Vlaamse overheid met het oog op de professionalisering van de overheidsopdrachtenpraktijk, onder andere door juridische adviesverlening en door opleidingen en informatie aan te bieden aan de Vlaamse overheid, vermeld in artikel I.3, 1°, van het Bestuursdecreet van 7 december 2018;<br>
+2° als enige aankoopcentrale voor de Vlaamse administratie, vermeld in artikel I.3, 2°, van het Bestuursdecreet van 7 december 2018, optreden voor gangbare en gebruikelijke ondersteunende goederen en diensten, onder meer binnen de thema's facility, ICT, personeel en organisatie. De aankoopcentrale kan ook andere overheidsopdrachten en raamovereenkomsten voor werken, leveringen of diensten plaatsen voor de Vlaamse overheid, de lokale overheden en voor de Vlaamse Gemeenschapscommissie;<br>
+3° de rol vervullen van kenniscentrum overheidsopdrachten ter ondersteuning van de Vlaamse overheid met het oog op de professionalisering van de overheidsopdrachtenpraktijk, onder andere door juridische adviesverlening en door opleidingen en informatie aan de Vlaamse overheid aan te bieden;<br>
 4° rechtszaken behandelen over overheidsopdrachten van entiteiten die behoren tot de rechtspersoon van de Vlaamse Gemeenschap of het Vlaamse Gewest. Voor het beleidsdomein Mobiliteit en Openbare Werken worden alleen de rechtszaken behandeld die vóór 1 september 2010 zijn ingeleid.<br>
 <br>
-Het agentschap heeft tot taak diensten inzake informatie- en communicatietechnologie aan te bieden ter ondersteuning van de entiteiten van de Vlaamse overheid en van de lokale en provinciale besturen. Dat omvat de volgende activiteiten:<br>
-1° het voorbereiden, uitvoeren en evalueren van het beleid inzake informatie- en communicatietechnologie;<br>
-2° het aanbieden van een ruime waaier aan ICT-diensten;<br>
-3° het investeren in gemeenschappelijke ICT -omgevingen met het oog op schaalvoordelen en een betere integratie;<br>
-4° het verlenen van advies op basis van intern opgebouwde expertise.<br>
+Het agentschap heeft tot taak diensten inzake documentbeheer aan te bieden. Dat omvat onder meer de volgende activiteiten:<br>
+1° de beleidscoördinatie, -voorbereiding en -uitvoering inzake het beheer, de bewaring en de vernietiging van bestuursdocumenten;<br>
+2° de ondersteuning van de Vlaamse overheid en van de lokale overheden conform artikel III.86 van het Bestuursdecreet van 7 december 2018;<br>
+3° het beheer en de bewaring van de bestuursdocumenten van de Vlaamse overheid;<br>
+4° de ondersteuning van de Vlaamse overheid en van de lokale overheden bij de optimalisering van hun interne processen;<br>
+5° de ontwikkeling van een instrumentarium voor het procesbeheer van de Vlaamse overheid en van de lokale overheden.<br>
 <br>
-Het agentschap heeft tot taak het beleid inzake het openbare archiefwezen uit te voeren, te coördineren en te ondersteunen.<br>
-<br>
-Het agentschap ondersteunt de instanties van de Vlaamse overheid en van de lokale overheden conform artikel III.86 van het bestuursdecreet van 7 december 2018.</p>
+&nbsp;</p>
 
 ### ART. 4/1.
 
