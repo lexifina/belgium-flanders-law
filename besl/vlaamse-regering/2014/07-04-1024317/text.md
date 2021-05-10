@@ -8,17 +8,27 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° agentschap Facilitair Bedrijf:   het agentschap bedoeld in artikel 2 van het besluit van de Vlaamse Regering van   11 juni 2004 tot oprichting van het intern verzelfstandigd agentschap   "agentschap Facilitair Bedrijf";<BR>2° DAB Informatie Vlaanderen: DAB Informatie   Vlaanderen, opgericht bij artikel 79 van het decreet van 22 december 2006   houdende bepalingen tot begeleiding van de begroting 2007 en deel uitmakend van   het agentschap Facilitair Bedrijf.<BR>
+In dit besluit wordt verstaan onder:<br>
+1° agentschap Facilitair Bedrijf: het agentschap bedoeld in artikel 2 van het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het intern verzelfstandigd agentschap "agentschap Facilitair Bedrijf";<br>
+2° DAB Documentbeheer: DAB Documentbeheer, opgericht bij artikel 79 van het decreet van 22 december 2006 houdende bepalingen tot begeleiding van de begroting 2007 en deel uitmakend van het agentschap Facilitair Bedrijf.
 
 ## HOOFDSTUK 2 Beheer van de DAB [Documentbeheer (verv. BVR 7 mei 2021, art. 18, I: 10 mei 2021)]
 
 ### ART. 2.
 
-&nbsp;De lijnmanager van het agentschap Facilitair Bedrijf of zijn   plaatsvervanger is beheerder en gedelegeerd ordonnateur van de DAB Informatie   Vlaanderen. De lijnmanager is daarbij bevoegd voor:<BR>1° de aanwending van de   kredieten die ingeschreven zijn op de begroting van de DAB Informatie   Vlaanderen;<BR>2° de aanwending van de wedde-, werkings-, subsidie- en   investeringskredieten voor de DAB Informatie Vlaanderen.<BR>
+De lijnmanager van het agentschap Facilitair Bedrijf of zijn plaatsvervanger is beheerder en gedelegeerd ordonnateur van de DAB Documentbeheer. De lijnmanager is daarbij bevoegd voor:<br>
+1° de aanwending van de kredieten die ingeschreven zijn op de begroting van de DAB Documentbeheer;<br>
+2° de aanwending van de wedde-, werkings-, subsidie- en investeringskredieten voor de DAB Documentbeheer.
 
 ### ART. 3.
 
-De ontvangsten van de DAB Informatie Vlaanderen bestaan uit:<BR>1° het   saldo dat overgedragen is van het vorige jaar;<BR>2° de in het lopende jaar   geplande opname uit de reserve die is aangelegd;<BR>3° de ontvangsten van het   lopende jaar die bestaan uit:<BR>a) de dotaties die voor het betreffende   begrotingsjaar aan de DAB Informatie Vlaanderen zijn toegekend ten laste van de   algemene uitgavenbegroting van de Vlaamse Gemeenschap;<BR>b) de bedragen die   voortvloeien uit het beheer en de exploitatie door de DAB Informatie   Vlaanderen;<BR>c) de schenkingen en legaten.<BR>
+De ontvangsten van de DAB Documentbeheer bestaan uit:<br>
+1° het saldo dat overgedragen is van het vorige jaar;<br>
+2° de in het lopende jaar geplande opname uit de reserve die is aangelegd;<br>
+3° de ontvangsten van het lopende jaar die bestaan uit:<br>
+a) de dotaties die voor het betreffende begrotingsjaar aan de DAB Documentbeheer zijn toegekend ten laste van de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br>
+b) de bedragen die voortvloeien uit het beheer en de exploitatie door de DAB Documentbeheer;<br>
+c) de schenkingen en legaten.
 
 ### ART. 4.
 
@@ -28,11 +38,11 @@ De vastleggings- en vereffeningskredieten van de programma's BA en BG van   de e
 
 ### ART. 5.
 
-De statutaire personeelsleden van de entiteit e-government en ICT-Beheer,   opgenomen in bijlage 1, die bij dit besluit is gevoegd, worden overgedragen aan   het intern verzelfstandigd agentschap Facilitair Bedrijf.<BR>
+...
 
 ### ART. 6.
 
-Aan de contractuele personeelsleden van de entiteit e-government en   ICT-Beheer, opgenomen in bijlage 2, die bij dit besluit is gevoegd, biedt de in   dienst nemende overheid bij het intern verzelfstandigd agentschap Facilitair   Bedrijf een arbeidsovereenkomst aan. Op grond van dat contract worden ze met   ingang van de datum van inwerkingtreding van dit besluit bij die entiteit   tewerkgesteld voor een duur die overeenstemt met het gedeelte van hun contract   bij de entiteit e-government en ICT-Beheer dat op deze datum nog niet verstreken   is.<BR>
+...
 
 ## HOOFDSTUK 4 Wijzigingsbepalingen met betrekking tot het agentschap Facilitair Bedrijf
 
@@ -92,8 +102,8 @@ De Vlaamse minister, bevoegd voor het algemeen beleid inzake facilitaire   diens
 
 ### BIJLAGE 1
 
-Lijst van de statutaire personeelsleden, vermeld in artikel 5<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>voor- en achternaam       <TD>graad       <TD>salarisschaal<BR>    <TR>      <TD>Hans Arents       <TD>senior adviseur       <TD>A213<BR>    <TR>      <TD>Filip Arijs       <TD>hoofddeskundige       <TD>B211<BR>    <TR>      <TD>Rudi Baeyens       <TD>adviseur-informaticus       <TD>A221<BR>    <TR>      <TD>Dirk Batselier       <TD>hoofdprogrammeur       <TD>B221<BR>    <TR>      <TD>Stany Becker       <TD>hoofdprogrammeur       <TD>B222<BR>    <TR>      <TD>Paulette Boisschot       <TD>senior hoofdassistent       <TD>D311<BR>    <TR>      <TD>Kelly Bonneure       <TD>hoofddeskundige       <TD>B211<BR>    <TR>      <TD>Liliane Boschmans       <TD>informaticus       <TD>A126<BR>    <TR>      <TD>Sarah Buelens       <TD>adjunct van de directeur       <TD>A111<BR>    <TR>      <TD>Christel Claes       <TD>senior hoofdassistent       <TD>D311<BR>    <TR>      <TD>Anneleen Cosijn       <TD>adjunct van de directeur       <TD>A111<BR>    <TR>      <TD>Dirk De Beule       <TD>adviseur-informaticus       <TD>A221<BR>    <TR>      <TD>Lieve De Decker       <TD>informaticus       <TD>A126<BR>    <TR>      <TD>Nathalie De Jaeger       <TD>adviseur       <TD>A251<BR>    <TR>      <TD>Karen De Lathouwer       <TD>assistent       <TD>D111<BR>    <TR>      <TD>Hilde De Paepe       <TD>adviseur       <TD>A211<BR>    <TR>      <TD>Mathias De Schrijver       <TD>adjunct van de directeur       <TD>A112<BR>    <TR>      <TD>Katrien De Smet       <TD>adjunct van de directeur       <TD>A112<BR>    <TR>      <TD>Bruno De Vrieze       <TD>adjunct van de directeur       <TD>A112<BR>    <TR>      <TD>Karel Decoster       <TD>hoofdmedewerker       <TD>C211<BR>    <TR>      <TD>Katrien Degroote       <TD>adjunct van de directeur       <TD>A111<BR>    <TR>      <TD>Ingrid Denissen       <TD>adviseur-informaticus       <TD>A221<BR>    <TR>      <TD>Peter D'haen       <TD>hoofddeskundige       <TD>B211<BR>    <TR>      <TD>Anabel Dias       <TD>hoofddeskundige       <TD>B211<BR>    <TR>      <TD>Anne Geenen       <TD>adviseur       <TD>A211<BR>    <TR>      <TD>Marc Geerts       <TD>informaticus       <TD>A126<BR>    <TR>      <TD>Freddy Goesaert       <TD>programmeur       <TD>B124<BR>    <TR>      <TD>Lobke Kerkhofs       <TD>adjunct van de directeur       <TD>A111<BR>    <TR>      <TD>Veronique Lamont       <TD>hoofdassistent       <TD>D111<BR>    <TR>      <TD>Tina Mafrans       <TD>adjunct van de directeur       <TD>A112<BR>    <TR>      <TD>Geert Mareels       <TD>afdelingshoofd-projectleider       <TD>A286<BR>    <TR>      <TD>Wim Martens       <TD>strategiebeheerder       <TD>A286<BR>    <TR>      <TD>Roland Melotte       <TD>programmeur       <TD>B122<BR>    <TR>      <TD>Bart Misseeuw       <TD>adviseur       <TD>A251<BR>    <TR>      <TD>Patrick Natus       <TD>informaticus       <TD>A126<BR>    <TR>      <TD>Ludwig Peetermans       <TD>senior hoofddeskundige       <TD>B311<BR>    <TR>      <TD>Lieven Raes       <TD>adviseur       <TD>A251<BR>    <TR>      <TD>Erika Sacre       <TD>hoofdassistent       <TD>D211<BR>    <TR>      <TD>Bart Severi       <TD>adviseur       <TD>A211<BR>    <TR>      <TD>Marc Siemons       <TD>programmeur       <TD>B124<BR>    <TR>      <TD>Henk Smets       <TD>adviseur-informaticus       <TD>A221<BR>    <TR>      <TD>Anne Teughels       <TD>adviseur       <TD>A211<BR>    <TR>      <TD>Chris Van de Vijver       <TD>financieel-administratief beheerder       <TD>A284<BR>    <TR>      <TD>Wouter Van Den Bosch       <TD>informaticus       <TD>A126<BR>    <TR>      <TD>Jan Van den Bossche       <TD>informaticus       <TD>A126<BR>    <TR>      <TD>Paul Van den Keybus       <TD>informaticus       <TD>A127<BR>    <TR>      <TD>Maries Van der Auwera       <TD>adviseur-informaticus       <TD>A221<BR>    <TR>      <TD>Karla Van Landeghem       <TD>deskundige       <TD>B111<BR>    <TR>      <TD>BaldwinVan Sande       <TD>adviseur-informaticus       <TD>A221<BR>    <TR>      <TD>André Van Vyve       <TD>adjunct van de directeur-projectleider       <TD>A113<BR>    <TR>      <TD>Dries Vandaele       <TD>adjunct van de directeur       <TD>A111<BR>    <TR>      <TD>Jessica Vandendries       <TD>hoofdmedewerker       <TD>C211<BR>    <TR>      <TD>Henk Vanderstraeten       <TD>adviseur       <TD>A251<BR>    <TR>      <TD>Benny Vanspringel       <TD>contractbeheerder       <TD>A286<BR>    <TR>      <TD>Rita Vansteenkiste       <TD>senior hoofdassistent       <TD>D311<BR>    <TR>      <TD>Hilde Verbeke       <TD>informaticus       <TD>A126<BR>    <TR>      <TD>Dirk Vergauwen       <TD>coördinator IT-relatiebeheer       <TD>A286<BR>    <TR>      <TD>Serge Vermeir       <TD>adviseur       <TD>A251<BR>    <TR>      <TD>Caroline Vernaillen       <TD>adviseur       <TD>A211<BR>    <TR>      <TD>Annick Voets       <TD>medewerker       <TD>C112<BR>    <TR>      <TD>Ivo Wertelaers       <TD>informaticus       <TD>A125<BR></TD></TR></TBODY></TABLE><BR>
+...
 
 ### BIJLAGE 2
 
-Lijst van de contractuele personeelsleden, vermeld in artikel 6<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>voor- en achternaam       <TD>graad       <TD>salarisschaal<BR>    <TR>      <TD>Alain Caers       <TD>informaticus       <TD>A132<BR>    <TR>      <TD>Mathias De Schrijver       <TD>informaticus       <TD>A121<BR>    <TR>      <TD>Paul De Vroede       <TD>adviseur-informaticus       <TD>A221<BR>    <TR>      <TD>Daniel Du Seuil       <TD>informaticus       <TD>A121<BR>    <TR>      <TD>Jan Heirman       <TD>informaticus       <TD>A121<BR>    <TR>      <TD>Filip Langenus       <TD>informaticus       <TD>A121<BR>    <TR>      <TD>Els Michielsen       <TD>adjunct van de directeur       <TD>A111<BR>    <TR>      <TD>Seppe Santens       <TD>adjunct van de directeur       <TD>A111<BR>    <TR>      <TD>Noël Van Herreweghe       <TD>adviseur-informaticus       <TD>A221<BR>    <TR>      <TD>Vania Vande Voorde       <TD>adjunct van de directeur       <TD>A111<BR>    <TR>      <TD>Piet Verhenne       <TD>informaticus       <TD>A132<BR>    <TR>      <TD>Wai-Kong Yu       <TD>informaticus       <TD>A132<BR></TD></TR></TBODY></TABLE><BR>
+...

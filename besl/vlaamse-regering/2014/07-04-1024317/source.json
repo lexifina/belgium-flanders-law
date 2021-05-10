@@ -2,16 +2,16 @@
   "codex_id": 1024317,
   "title": "Besluit van de Vlaamse Regering van 2014-07-04 houdende [... (opgeh. BVR 7 mei 2021, art. 16, I: 10 mei 2021)] het beheer van de DAB [Documentbeheer (verv. BVR 7 mei 2021, art. 16, I: 10 mei 2021)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024317/VolledigDocument?datum=2014-07-28",
-  "source_sha256": "84243f7137af9247a128b51e465c29ba873737b6bc8106c2a2b8a8e6be93b560",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024317/VolledigDocument?datum=2021-05-10",
+  "source_sha256": "508e09f7688c42aaa492347116dc8d6d7b11e624eae0b63ba633dc5b0199c606",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024317&param=informatie",
-  "as_of": "2014-07-28",
+  "as_of": "2021-05-10",
   "made": "2014-07-04",
   "gazette": "2014-07-18",
   "numac": 2014035945,
   "document_start": "2014-07-28",
   "document_end": null,
-  "in_force": "2014-07-28",
+  "in_force": "2021-05-10",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2014-07-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-05-10; future article versions excluded; article text as the API gives it"
 }
