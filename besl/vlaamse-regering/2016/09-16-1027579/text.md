@@ -44,7 +44,7 @@ Besluit :<br>
 In dit besluit wordt verstaan onder :<br>
 1° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het bestuursdecreet van 7 december 2018;<br>
 2° ...;<br>
-3° Informatie Vlaanderen : het agentschap, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen;<br>
+3° Digitaal Vlaanderen : het agentschap, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen;<br>
 4° minister : de Vlaamse minister, bevoegd voor de informatiemaatschappij, het structureren, opslaan, uitwisselen en ontsluiten van informatie en de infolijn.<br>
 &nbsp;
 
@@ -131,7 +131,7 @@ Na een wijziging van de modellicenties kunnen bestaande licentienemers de instan
 
 ### ART 10.
 
-De overheidsinstanties, vermeld in art. II.53, § 1, van het bestuursdecreet van 7 december 2018, publiceren overzichtslijsten met de relevante metagegevens, vermeld in artikel II.62 van het bestuursdecreet van 7 december 2018, met betrekking tot de bestuursdocumenten die in een open en machinaal leesbaar formaat via elektronische weg voor hergebruik beschikbaar zijn, op de portaalsite overeenkomstig de richtlijnen die op de website van Informatie Vlaanderen worden gepubliceerd.<br>
+De overheidsinstanties, vermeld in art. II.53, § 1, van het bestuursdecreet van 7 december 2018, publiceren overzichtslijsten met de relevante metagegevens, vermeld in artikel II.62 van het bestuursdecreet van 7 december 2018, met betrekking tot de bestuursdocumenten die in een open en machinaal leesbaar formaat via elektronische weg voor hergebruik beschikbaar zijn, op de portaalsite overeenkomstig de richtlijnen die op de website van Digitaal Vlaanderen worden gepubliceerd.<br>
 <br>
 Die portaalsite staat ook ter beschikking van de andere instanties die de overzichtslijsten met de relevante metagegevens met betrekking tot hun bestuursdocumenten in een open en machinaal leesbaar formaat online toegankelijk willen maken.<br>
 &nbsp;
