@@ -28,7 +28,7 @@ De   toegang tot, het gebruik en hergebruik van het GRB is   gratis.
 
 ### ART. 6.
 
-Als bronvermelding geldt: "Bron: Grootschalig Referentie Bestand Vlaanderen, agentschap Informatie Vlaanderen".
+Als bronvermelding geldt: "Bron: Grootschalig Referentie Bestand Vlaanderen, agentschap Digitaal Vlaanderen".
 
 ## HOOFDSTUK 2 Erkenning als authentieke geografische gegevensbron
 
