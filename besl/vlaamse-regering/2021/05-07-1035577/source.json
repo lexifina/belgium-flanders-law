@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035577,
+  "title": "Besluit van de Vlaamse Regering van 2021-05-07 tot wijziging van diverse besluiten van de Vlaamse Regering naar aanleiding van de reorganisatie van ICT binnen het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035577/VolledigDocument?datum=2021-05-10",
+  "source_sha256": "28156176e06c4c0c4b914a863b3d6db1d39b09216de64d0244b8506d9051acec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035577&param=informatie",
+  "as_of": "2021-05-10",
+  "made": "2021-05-07",
+  "gazette": "2021-05-25",
+  "numac": 2021041547,
+  "document_start": "2021-05-10",
+  "document_end": null,
+  "in_force": "2021-05-10",
+  "article_versions": 55,
+  "record_form": "consolidated version as in force on 2021-05-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
