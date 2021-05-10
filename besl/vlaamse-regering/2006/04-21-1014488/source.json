@@ -2,16 +2,16 @@
   "codex_id": 1014488,
   "title": "Besluit van de Vlaamse Regering van 2006-04-21 houdende de aanwijzing van de personeelsleden die belast zijn met de vestiging, de uitvoerbaarverklaring, de controle op, de inning en de invordering van de GRB-heffingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014488/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "3c1dc60af4d6b18643ac0275ab7738205faec964e11959b08385dc8e6d524557",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014488/VolledigDocument?datum=2021-05-10",
+  "source_sha256": "d7faecba9a48cff66541a78824f2d144de458526afb7e95cc4924350500f70ea",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014488&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2021-05-10",
   "made": "2006-04-21",
   "gazette": "2006-05-09",
   "numac": 2006035709,
   "document_start": null,
   "document_end": null,
-  "in_force": "2016-01-01",
+  "in_force": "2021-05-10",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-05-10; future article versions excluded; article text as the API gives it"
 }

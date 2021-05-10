@@ -4,14 +4,14 @@
 
 Voor de toepassing van dit besluit wordt verstaan onder:<br>
 1° het decreet: het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB);<br>
-1° /1 agentschap: het intern verzelfstandigd agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen;<br>
+1° /1 agentschap: het intern verzelfstandigd agentschap Digitaal Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen;<br>
 2° de leidend ambtenaar: de leidend ambtenaar van het agentschap;<br>
 3° het afdelingshoofd: het afdelingshoofd van het agentschap;<br>
 4° de financieel verantwoordelijke: het personeelslid van het agentschap dat belast is met de leiding van de financiële afdeling.
 
 ### ART. 2.
 
-Het afdelingshoofd is belast, voor rekening van het Eigen Vermogen Informatie Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende diverse maatregelen inzake de ontbinding van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Agentschap voor Geografische Informatie Vlaanderen en de oprichting van het Eigen Vermogen Informatie Vlaanderen, met de vestiging en de uitvoerbaarverklaring van de kohieren van de heffingen, vermeld in artikel 22 van het decreet, evenals met de controle op de naleving van de verplichtingen betreffende de heffingen.<br>
+Het afdelingshoofd is belast, voor rekening van het Eigen Vermogen Digitaal Vlaanderen, vermeld in artikel 1, 5°, van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen,&nbsp;met de vestiging en de uitvoerbaarverklaring van de kohieren van de heffingen, vermeld in artikel 22 van het decreet, evenals met de controle op de naleving van de verplichtingen betreffende de heffingen.<br>
 <br>
 Het afdelingshoofd kan met de heffingsplichtige dadingen treffen, voorzover die niet leiden tot vrijstelling of vermindering van de heffing.<br>
 <br>
@@ -25,7 +25,7 @@ De leidend ambtenaar is gemachtigd om bij gebrek aan voldoening van de heffing, 
 
 ### ART. 4.
 
-De financieel verantwoordelijke is belast, voor rekening van het Eigen Vermogen Informatie Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende diverse maatregelen inzake de ontbinding van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Agentschap voor Geografische Informatie Vlaanderen en de oprichting van het Eigen Vermogen Informatie Vlaanderen, met de inning en de invordering van de heffingen, vermeld in artikel 22 van het decreet, en met het uitvaardigen van dwangbevelen, vermeld in artikel 40, § 1, van het decreet. De financieel verantwoordelijke kan de procedure in kort geding inleiden als vermeld in artikel 40, § 4, tweede lid, van het decreet.
+De financieel verantwoordelijke is belast, voor rekening van het Eigen Vermogen Digitaal Vlaanderen, vermeld in artikel 1, 5°, van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen, met de inning en de invordering van de heffingen, vermeld in artikel 22 van het decreet, en met het uitvaardigen van dwangbevelen, vermeld in artikel 40, § 1, van het decreet. De financieel verantwoordelijke kan de procedure in kort geding inleiden als vermeld in artikel 40, § 4, tweede lid, van het decreet.
 
 ### ART. 5.
 
