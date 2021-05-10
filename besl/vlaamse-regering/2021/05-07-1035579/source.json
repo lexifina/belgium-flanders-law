@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035579,
+  "title": "Besluit van de Vlaamse Regering van 2021-05-07 tot overdracht van personeelsleden van het agentschap Facilitair Bedrijf naar het agentschap Digitaal Vlaanderen naar aanleiding van de reorganisatie van ICT binnen het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035579/VolledigDocument?datum=2021-05-10",
+  "source_sha256": "2c7245df2a878bbfffff517e8e0e77d72b6af5d5b5395a884f3156b94f4219d7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035579&param=informatie",
+  "as_of": "2021-05-10",
+  "made": "2021-05-07",
+  "gazette": "2021-05-25",
+  "numac": 2021041482,
+  "document_start": "2021-05-10",
+  "document_end": null,
+  "in_force": "2021-05-10",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2021-05-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
