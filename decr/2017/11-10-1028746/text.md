@@ -126,7 +126,7 @@ De kennisgeving van de beslissing vermeldt het bedrag, de wijze waarop en de ter
 <br>
 De Vlaamse Regering bepaalt de nadere regels voor het opleggen en het betalen van de administratieve geldboete.<br>
 <br>
-§ 2. De administratieve geldboete wordt geïnd en ingevorderd ten voordele van het Eigen Vermogen Informatie Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende diverse maatregelen inzake de ontbinding van het publiekrechtelijk vormgegeven extern verzelfstandigd Agentschap voor Geografische Informatie Vlaanderen en de oprichting van het Eigen Vermogen Informatie Vlaanderen. De Vlaamse Regering wijst aan wie de geldboete kan innen en invorderen.<br>
+§ 2. De administratieve geldboete wordt geïnd en ingevorderd ten voordele van het Eigen Vermogen Digitaal Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende de oprichting van het Eigen Vermogen Digitaal Vlaanderen. De Vlaamse Regering wijst aan wie de geldboete kan innen en invorderen.<br>
 <br>
 Als de partij die in gebreke blijft, weigert de administratieve geldboete te betalen, wordt ze bij dwangbevel ingevorderd. De Vlaamse Regering wijst aan wie een dwangbevel kan uitvaardigen en uitvoerbaar kan verklaren. Een dwangbevel wordt betekend bij deurwaardersexploot met bevel tot betaling.<br>
 <br>
