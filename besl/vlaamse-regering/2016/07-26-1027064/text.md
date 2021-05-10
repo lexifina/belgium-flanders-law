@@ -45,38 +45,38 @@
 
 ### ART 2.
 
-<span style="color: rgb(0, 0, 0);">Dit besluit is van toepassing op :</span><br>
-<span style="color: rgb(0, 0, 0);">1° de personeelsleden van de Diensten Vlaamse Overheid die vallen onder het Vlaams Personeelsstatuut van 13 januari 2006;</span><br>
-<span style="color: rgb(0, 0, 0);">2° de personeelsleden vermeld in artikel 2 § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;</span><br>
-<span style="color: rgb(0, 0, 0);">3° de personeelsleden, vermeld in artikel 4, § 1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991;</span><br>
-<span style="color: rgb(0, 0, 0);">4° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;</span><br>
-<span style="color: rgb(0, 0, 0);">5° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken;</span><br>
+<span style="color:#000000">Dit besluit is van toepassing op :</span><br>
+<span style="color:#000000">1° de personeelsleden van de Diensten Vlaamse Overheid die vallen onder het Vlaams Personeelsstatuut van 13 januari 2006;</span><br>
+<span style="color:#000000">2° de personeelsleden vermeld in artikel 2 § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;</span><br>
+<span style="color:#000000">3° de personeelsleden, vermeld in artikel 4, § 1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991;</span><br>
+<span style="color:#000000">4° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;</span><br>
+<span style="color:#000000">5° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken;</span><br>
 6° de personeelsleden, vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie;<br>
-<span style="color: rgb(0, 0, 0);">7° de contractuele personeelsleden van het onderwijs en van de centra voor leerlingenbegeleiding;</span><br>
-<span style="color: rgb(0, 0, 0);">8° de personeelsleden van de universiteiten en de hogescholen in de Vlaamse Gemeenschap;</span><br>
-<span style="color: rgb(0, 0, 0);">9° de personeelsleden van provincies, de gemeenten, de openbare instellingen en de publiekrechtelijke agentschappen en verenigingen die ervan afhangen, alsook de intergemeentelijke samenwerkingsverbanden;</span><br>
-<span style="color: rgb(0, 0, 0);">10° de personeelsleden van SERV zoals bepaald door de raad ter uitvoering van artikel 7, § 3, 6bis, van het decreet van 7 mei 2004 inzake de Sociaal-Economische Raad van Vlaanderen;</span><br>
-<span style="color: rgb(0, 0, 0);">11° de personeelsleden van het UZ Gent zoals bepaald door de raad van bestuur ter uitvoering van artikel 6, § 2, 1° van het koninklijk besluit nr. 542 van 31 maart 1987 houdende de organisatie, de werking en het beheer van de rijksuniversitaire ziekenhuizen van Gent en Luik;</span><br>
-<span style="color: rgb(0, 0, 0);">12° de personeelsleden van de Vlaamse Gemeenschapscommissie;</span><br>
-<span style="color: rgb(0, 0, 0);">13° de personeelsleden van de VRT, vermeld in artikel 27 en 28 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie;</span><br>
-<span style="color: rgb(0, 0, 0);">14° de personeelsleden van de Maatschappij van de Brugse Zeehaven;</span><br>
+<span style="color:#000000">7° de contractuele personeelsleden van het onderwijs en van de centra voor leerlingenbegeleiding;</span><br>
+<span style="color:#000000">8° de personeelsleden van de universiteiten en de hogescholen in de Vlaamse Gemeenschap;</span><br>
+<span style="color:#000000">9° de personeelsleden van provincies, de gemeenten, de openbare instellingen en de publiekrechtelijke agentschappen en verenigingen die ervan afhangen, alsook de intergemeentelijke samenwerkingsverbanden;</span><br>
+<span style="color:#000000">10° de personeelsleden van SERV zoals bepaald door de raad ter uitvoering van artikel 7, § 3, 6bis, van het decreet van 7 mei 2004 inzake de Sociaal-Economische Raad van Vlaanderen;</span><br>
+<span style="color:#000000">11° de personeelsleden van het UZ Gent zoals bepaald door de raad van bestuur ter uitvoering van artikel 6, § 2, 1° van het koninklijk besluit nr. 542 van 31 maart 1987 houdende de organisatie, de werking en het beheer van de rijksuniversitaire ziekenhuizen van Gent en Luik;</span><br>
+<span style="color:#000000">12° de personeelsleden van de Vlaamse Gemeenschapscommissie;</span><br>
+<span style="color:#000000">13° de personeelsleden van de VRT, vermeld in artikel 27 en 28 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie;</span><br>
+<span style="color:#000000">14° de personeelsleden van de Maatschappij van de Brugse Zeehaven;</span><br>
 15° de personeelsleden van de Vlaamse Maatschappij voor Watervoorziening, zoals bepaald door de raad van bestuur in uitvoering van artikel 17 van het decreet van 28 juni 1983 houdende oprichting van de Vlaamse Maatschappij voor Watervoorziening;<br>
-<span style="color: rgb(0, 0, 0);">16° de personeelsleden van de Koninklijke Academie voor Nederlandse Taal- en Letterkunde, vermeld in het besluit van de Vlaamse Regering van 17 mei 2013 tot vaststelling van de regeling van de rechtspositie van het personeel van de Koninklijke Academie voor Nederlandse Taal- en Letterkunde;</span><br>
-<span style="color: rgb(0, 0, 0);">17° het secretariaatspersoneel van het Vlaams Fonds voor de letteren zoals bepaald door het dagelijks bestuur ter uitvoering van artikel 9, § 5 van het decreet van 30 maart 1999 houdende de oprichting van een Vlaams Fonds voor de letteren;</span><br>
-<span style="color: rgb(0, 0, 0);">18° het personeel van de Vlaamse bestuursrechtscolleges, vermeld in het Besluit van de Vlaamse Regering van 16 mei 2014 houdende overdracht van personeel van sommige Vlaamse bestuursrechtscolleges naar de dienst van de Bestuursrechtscolleges en tot vaststelling van de rechtspositie van dit personeel en van de bestuursrechters van sommige Vlaamse bestuursrechtscolleges.<br>
+<span style="color:#000000">16° de personeelsleden van de Koninklijke Academie voor Nederlandse Taal- en Letterkunde, vermeld in het besluit van de Vlaamse Regering van 17 mei 2013 tot vaststelling van de regeling van de rechtspositie van het personeel van de Koninklijke Academie voor Nederlandse Taal- en Letterkunde;</span><br>
+<span style="color:#000000">17° het secretariaatspersoneel van het Vlaams Fonds voor de letteren zoals bepaald door het dagelijks bestuur ter uitvoering van artikel 9, § 5 van het decreet van 30 maart 1999 houdende de oprichting van een Vlaams Fonds voor de letteren;</span><br>
+<span style="color:#000000">18° het personeel van de Vlaamse bestuursrechtscolleges, vermeld in het Besluit van de Vlaamse Regering van 16 mei 2014 houdende overdracht van personeel van sommige Vlaamse bestuursrechtscolleges naar de dienst van de Bestuursrechtscolleges en tot vaststelling van de rechtspositie van dit personeel en van de bestuursrechters van sommige Vlaamse bestuursrechtscolleges.<br>
 19° de personeelsleden van het Eigen Vermogen Instituut voor Landbouw- en Visserijonderzoek, vermeld in artikel 39 van het decreet van 23 december 2005 houdende bepalingen tot begeleiding van de begroting 2006;<br>
 20° de personeelsleden van het Eigen Vermogen Instituut voor Natuur- en Bosonderzoek, vermeld in artikel 30 van het decreet van 23 december 2005 houdende bepalingen tot begeleiding van de begroting 2006;<br>
 21° de personeelsleden van Natuurinvest, Ondersteunend Centrum van het Agentschap voor Natuur en Bos, vermeld in artikel 34 van het decreet van 19 mei 2006 houdende diverse bepalingen inzake leefmilieu en energie;<br>
 22° de personeelsleden van het Eigen Vermogen Flanders Hydraulics, vermeld in artikel 5 van het decreet van 31 januari 2003 betreffende de oprichting van een Eigen Vermogen "Flanders Hydraulics";<br>
-23° de personeelsleden van het Eigen Vermogen Informatie Vlaanderen, vermeld in artikel 9 van het decreet van 15 januari 2016 houdende diverse maatregelen inzake de ontbinding van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Agentschap voor Geografische Informatie Vlaanderen en de oprichting van het Eigen Vermogen Informatie Vlaanderen;<br>
+23° de personeelsleden van het Eigen Vermogen Digitaal Vlaanderen, vermeld in artikel 1, 5°, van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen;<br>
 24° de personeelsleden van het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten Antwerpen, vermeld in de wet van 27 juni 1930 waarbij de rechtspersoonlijkheid wordt verleend aan de wetenschappelijke instellingen en kunstinrichtingen welke van het Ministerie van Kunsten en Wetenschappen afhangen of in het koninklijk besluit van 22 september 1931 betreffende het Koninklijk Museum voor Schone Kunsten te Antwerpen - Rechtspersoonlijkheid.<br>
 25° de personeelsleden van de Vlaamse Regulator van de Elektriciteits- en Gasmarkt (VREG), vermeld in artikel 3.1.12/4, § 1 van het Energiedecreet van 8 mei 2009.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0);">De personeelsleden, vermeld in het eerste lid, zijn statutair of contractueel tewerkgesteld.</span><br>
+<span style="color:#000000">De personeelsleden, vermeld in het eerste lid, zijn statutair of contractueel tewerkgesteld.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0);">Dit besluit is niet van toepassing op de personeelsleden vermeld in het eerste lid die aan al de volgende voorwaarden voldoen :</span><br>
-<span style="color: rgb(0, 0, 0);">1° ze vallen onder het toepassingsgebied van de wet van 5 december 1968 betreffende de collectieve arbeidsovereenkomsten en de paritaire comités;</span><br>
-<span style="color: rgb(0, 0, 0);">2° ze vallen onder het toepassingsgebied van het koninklijk besluit van 12 december 2001 tot uitvoering van hoofdstuk IV van de wet van 10 augustus 2001 betreffende verzoening van werkgelegenheid en kwaliteit van het leven betreffende het stelsel van tijdskrediet, loopbaanvermindering en vermindering van de arbeidsprestaties tot een halftijdse betrekking.</span><br>
+<span style="color:#000000">Dit besluit is niet van toepassing op de personeelsleden vermeld in het eerste lid die aan al de volgende voorwaarden voldoen :</span><br>
+<span style="color:#000000">1° ze vallen onder het toepassingsgebied van de wet van 5 december 1968 betreffende de collectieve arbeidsovereenkomsten en de paritaire comités;</span><br>
+<span style="color:#000000">2° ze vallen onder het toepassingsgebied van het koninklijk besluit van 12 december 2001 tot uitvoering van hoofdstuk IV van de wet van 10 augustus 2001 betreffende verzoening van werkgelegenheid en kwaliteit van het leven betreffende het stelsel van tijdskrediet, loopbaanvermindering en vermindering van de arbeidsprestaties tot een halftijdse betrekking.</span><br>
 &nbsp;
 
 ## HOOFDSTUK 3 Voorwaarden en modaliteiten
