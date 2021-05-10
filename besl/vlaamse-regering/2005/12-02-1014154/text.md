@@ -5,7 +5,7 @@
 Voor de toepassing van dit besluit wordt verstaan onder:<br>
 1° het decreet: het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand;<br>
 2° GRB-product: een digitaal extract van de in het GRB opgenomen grootschalige referentiegegevens, toegankelijk gemaakt in een gestandaardiseerde vorm conform de GRB-specificaties, vermeld in artikel 6 van het decreet;<br>
-3° agentschap: het intern verzelfstandigd agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen.
+3° agentschap: het intern verzelfstandigd agentschap Digitaal Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen.
 
 ### ART. 2.
 
