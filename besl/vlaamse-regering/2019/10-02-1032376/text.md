@@ -35,9 +35,9 @@ Hij draagt de titel "minister-president van de Vlaamse Regering".<br>
 2° het beleidsveld Cultuur, vermeld in artikel 9, van het organisatiebesluit;<br>
 3° het beleidsveld Rampenschade, vermeld in artikel 3 van het organisatiebesluit;<br>
 4° het beleidsveld Digitalisering, vermeld in artikel 3 van het organisatiebesluit;<br>
-5° de facilities, het vastgoed, de ICT en de overheidsopdrachten, vermeld in artikel 3 van het organisatiebesluit.<br>
+5° het facilitair management, het vastgoed,&nbsp;het documentbeheer en de overheidsopdrachten, vermeld in artikel 3 van het organisatiebesluit.<br>
 <br>
-Hij draagt de titel "Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management".<br>
+Hij draagt de titel "Vlaams minister van Buitenlandse Zaken, Cultuur, Digitalisering en Facilitair Management".<br>
 <br>
 § 3. De heer Jan Jambon is bevoegd voor het bestuur van of het toezicht op de volgende instanties:<br>
 1° het Vlaams Agentschap voor Internationaal Ondernemen;<br>
@@ -48,8 +48,8 @@ Hij draagt de titel "Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Fac
 6° het Eigen Vermogen KMSKA;<br>
 7° het agentschap Facilitair Bedrijf;<br>
 8° de Vlaamse Vereniging voor ICT-personeel (Vlaanderen connect);<br>
-9° het agentschap Informatie Vlaanderen;<br>
-10° het Eigen Vermogen Informatie Vlaanderen.
+9° het agentschap Digitaal Vlaanderen;<br>
+10° het Eigen Vermogen Digitaal Vlaanderen.
 
 ### ART 3.
 
