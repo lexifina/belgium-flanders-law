@@ -100,7 +100,7 @@ Modelovereenkomst tot koppeling van een geografische gegevensbron en geografisch
 LICENTIEOVEREENKOMST<br>
 <br>
 Tussen<br>
-Agentschap Informatie Vlaanderen, (...), met officieel adres (...), vertegenwoordigd door (...), hierna het agentschap te noemen, en<br>
+Agentschap&nbsp;Digitaal Vlaanderen, (...), met officieel adres (...), vertegenwoordigd door (...), hierna het agentschap te noemen, en<br>
 <br>
 (...), met officieel adres (...), vertegenwoordigd door (...), hierna de licentienemer te noemen,<br>
 <br>
