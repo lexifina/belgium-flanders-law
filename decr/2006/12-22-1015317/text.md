@@ -552,17 +552,17 @@ Bij het verlaten van het Markiesgebouw en het North-Plazagebouw wordt niet-herbr
 
 ### ART. 79.
 
-§ 1. Er wordt een Dienst met Afzonderlijk Beheer ICT opgericht, zoals bedoeld in artikel 140 van de gecoördineerde wetten op de rijkscomptabiliteit.<br>
+§ 1. Er wordt een Dienst met Afzonderlijk Beheer Documentbeheer opgericht, zoals bedoeld in artikel 140 van de gecoördineerde wetten op de rijkscomptabiliteit.<br>
 <br>
-§ 2. De DAB ICT wordt als interne ICT-dienstverlener belast met het aanbieden van diensten inzake informatie- en communicatietechnologie ter ondersteuning van de entiteiten van de Vlaamse overheid en van de lokale en provinciale besturen.<br>
+§ 2. De DAB Documentbeheer wordt belast met het aanbieden van diensten inzake documentbeheer aan de overheidsinstanties, vermeld in artikel II.28, § 1, van het Bestuursdecreet van 7 december 2018.<br>
 <br>
 § 2bis. ....<br>
 <br>
-§ 3. De begroting van de DAB ICT wordt gestijfd door :<br>
+§ 3. De begroting van de DAB Documentbeheer wordt gestijfd door :<br>
 1° dotaties ten laste van de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br>
-2° alle ontvangsten voortvloeiend uit het beheer en de exploitatie door de DAB ICT.<br>
+2° alle ontvangsten voortvloeiend uit het beheer en de exploitatie door de DAB Documentbeheer.<br>
 <br>
-Het decreet houdende de begroting van de Vlaamse Overheid bepaalt elk jaar het bedrag van de dotaties die toegekend worden aan de DAB ICT.
+Het decreet houdende de begroting van de Vlaamse Overheid bepaalt elk jaar het bedrag van de dotaties die toegekend worden aan de DAB Documentbeheer.
 
 ## HOOFDSTUK XXIV [... (opgeh. decr. 18 december 2015, art. 7, I: 1 januari 2016)]
 
