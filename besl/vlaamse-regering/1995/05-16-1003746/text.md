@@ -16,7 +16,7 @@ De gewestelijke aangelegenheden met betrekking tot welke het invorderen van onbe
 <br>
 De onbetwiste en opeisbare niet-fiscale schuldvorderingen en de toebehoren&nbsp;inzake de toekenning van subsidies die voortvloeien uit het decreet van 13 december 2002 tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds, inzake de toekenning van facultatieve subsidies door het Agentschap voor Binnenlands Bestuur, en inzake afrekeningen die voortvloeien uit het besluit van de Vlaamse Regering van 17 oktober 2008 betreffende de bijdrage van de besturen in de uitgaven die verbonden zijn aan de gewestelijk ontvangers, worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
-De onbetwiste en opeisbare niet-fiscale schuldvorderingen, de administratieve geldboeten en de toebehoren als gevolg van de taken van het agentschap Informatie Vlaanderen en het Eigen Vermogen Informatie Vlaanderen worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
+De onbetwiste en opeisbare niet-fiscale schuldvorderingen, de administratieve geldboeten en de toebehoren als gevolg van de taken van het agentschap Digitaal Vlaanderen en het Eigen Vermogen Digitaal Vlaanderen worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
 De onbetwiste en opeisbare niet-fiscale schuldvorderingen en de toebehoren als gevolg van de taken van het agentschap Facilitair Bedrijf worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.
 
