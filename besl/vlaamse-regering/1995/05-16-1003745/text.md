@@ -18,7 +18,7 @@ De onbetwiste en opeisbare niet-fiscale schuldvorderingen als gevolg van de take
 <br>
 De onbetwiste en opeisbare niet-fiscale schuldvorderingen als gevolg van de taken van Opgroeien regie, het Departement Welzijn, Volksgezondheid en Gezin, het agentschap Zorg en Gezondheid, het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, &nbsp;het Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg en het Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid,&nbsp;worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
-De onbetwiste en opeisbare niet-fiscale schuldvorderingen en de administratieve geldboeten als gevolg van de taken van het agentschap Informatie Vlaanderen en het Eigen Vermogen Informatie Vlaanderen worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
+De onbetwiste en opeisbare niet-fiscale schuldvorderingen en de administratieve geldboeten als gevolg van de taken van het agentschap&nbsp;Digitaal Vlaanderen en het Eigen Vermogen Digitaal Vlaanderen worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
 De onbetwiste en opeisbare niet-fiscale schuldvorderingen als gevolg van de taken van het agentschap Facilitair Bedrijf worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
