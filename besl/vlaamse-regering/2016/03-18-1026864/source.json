@@ -2,16 +2,16 @@
   "codex_id": 1026864,
   "title": "Besluit van de Vlaamse Regering van 2016-03-18 houdende de oprichting van het intern verzelfstandigd agentschap [Digitaal Vlaanderen, ] [...] en de vaststelling van de werking, het beheer en de boekhouding van het [Eigen Vermogen Digitaal Vlaanderen]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026864/VolledigDocument?datum=2020-09-01",
-  "source_sha256": "72c072c8bd7ff460dd810cdcc3dd2183cbdd0d6905d70a5f2c1e7051b3777d10",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026864/VolledigDocument?datum=2021-05-10",
+  "source_sha256": "194bf0401d57409d0ce2e1e2d0f12f7c15550f7ff2226fa09fcf92df8a953c43",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026864&param=informatie",
-  "as_of": "2020-09-01",
+  "as_of": "2021-05-10",
   "made": "2016-03-18",
   "gazette": "2016-06-02",
   "numac": 2016035825,
   "document_start": "2016-01-01",
   "document_end": null,
-  "in_force": "2020-09-01",
+  "in_force": "2021-05-10",
   "article_versions": 36,
-  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-05-10; future article versions excluded; article text as the API gives it"
 }
