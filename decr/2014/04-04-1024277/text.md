@@ -15,7 +15,7 @@ Dit decreet voorziet in de gedeeltelijke omzetting van richtlijn 2014/61/EU van 
 ### ART. 3.
 
 &nbsp;In dit decreet wordt verstaan onder:<br>
-1° het agentschap : het intern verzelfstandigd agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen;<br>
+1° het agentschap: het intern verzelfstandigd agentschap Digitaal Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen;<br>
 2° andere geplande inname: een geplande inname van de openbare weg voor enige andere reden dan een werkopdracht;<br>
 2° /1 civiele werken: een geheel van bouwkundige of civieltechnische werken met een oppervlakte van meer dan 50 m², dat bestemd is om een economische of technische functie te vervullen en dat een of meer elementen van een fysieke infrastructuur omvat;<br>
 2° /2 elektronisch communicatienetwerk: de transmissiesystemen, de schakel- of routeringsapparatuur en andere middelen, zoals netwerkelementen die niet actief zijn, die het mogelijk maken signalen over te brengen, ongeacht de aard van de overgebrachte informatie, via:<br>
@@ -195,7 +195,7 @@ Als een dossier dat persoonsgegevens als vermeld in het eerste lid, bevat, naar 
 
 <p>De Vlaamse Regering bepaalt de nadere regels voor het opleggen en het betalen van de administratieve geldboete.</p>
 
-<p>§ 3. De administratieve geldboete wordt geïnd en ingevorderd ten voordele van het Eigen Vermogen Informatie Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende diverse maatregelen inzake de ontbinding van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Agentschap voor Geografische Informatie Vlaanderen en de oprichting van het Eigen Vermogen Informatie Vlaanderen. De Vlaamse Regering wijst aan wie de geldboete kan innen en invorderen.</p>
+<p>§ 3. De administratieve geldboete wordt geïnd en ingevorderd ten voordele van het Eigen Vermogen Digitaal Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende de oprichting van het Eigen Vermogen Digitaal Vlaanderen. De Vlaamse Regering wijst aan wie de geldboete kan innen en invorderen.</p>
 
 <p>Als de betrokken natuurlijke persoon of rechtspersoon weigert de administratieve geldboete te betalen, wordt ze bij dwangbevel ingevorderd. De Vlaamse Regering wijst aan wie een dwangbevel kan uitvaardigen en uitvoerbaar kan verklaren. Een dwangbevel wordt betekend bij deurwaardersexploot met bevel tot betaling.</p>
 
