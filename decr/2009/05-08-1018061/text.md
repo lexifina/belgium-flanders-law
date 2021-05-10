@@ -36,7 +36,7 @@ b) een andere instantie in België die:<br>
 20° derde partij : een natuurlijke persoon, een rechtspersoon of een groepering ervan die geen instantie is;<br>
 21° initiator : een instantie of derde partij die hetzij door of krachtens dit decreet, hetzij door of krachtens een andere wettelijke of decretale bepaling exclusieve eindverantwoordelijkheid heeft gekregen over de levensloop van een adrescomponent, met inbegrip van de relatie tussen de adrescomponent en het geografische object waarnaar ze verwijst;<br>
 22° gebruiker : iedereen die gebruik maakt van het CRAB;<br>
-23° agentschap : het intern verzelfstandigd agentschap Informatie Vlaanderen, vermeld in artikel 2 van besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen;
+23° agentschap: het intern verzelfstandigd agentschap Digitaal Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen.
 
 ## HOOFDSTUK II. Centraal Referentieadressenbestand (CRAB)
 
