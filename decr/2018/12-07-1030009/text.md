@@ -66,7 +66,7 @@ q) het Eigen Vermogen Instituut voor Landbouw- en Visserijonderzoek - ILVO;<br>
 r) het Eigen Vermogen Flanders Hydraulics;<br>
 s) het Eigen Vermogen Instituut voor Natuur- en Bosonderzoek - INBO;<br>
 t) het ondersteunend centrum van het Agentschap voor Natuur en Bos - ANB;<br>
-u) het Eigen Vermogen Informatie Vlaanderen - AIV;<br>
+u) het Eigen Vermogen Digitaal Vlaanderen - DV;<br>
 v) het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten Antwerpen - KMSKA;<br>
 w) de Limburgse Reconversiemaatschappij;<br>
 x) de Participatiemaatschappij Vlaanderen;<br>
@@ -204,7 +204,7 @@ De toegang, vermeld in het eerste lid, geldt niet ten aanzien van de overheidsin
 <br>
 Deze toegang mag alleen gebruikt worden door de burger om toegang te krijgen tot zijn gegevens en mag voor geen enkel ander doeleinde worden gebruikt.<br>
 <br>
-De manier en de nadere inhoud van de toegang wordt bepaald door het agentschap Informatie Vlaanderen in overleg met de betrokken overheidsinstanties en externe overheden.<br>
+De manier en de nadere inhoud van de toegang wordt bepaald door het agentschap Digitaal Vlaanderen in overleg met de betrokken overheidsinstanties en externe overheden.<br>
 <br>
 In afwijking van het zevende lid, duidt de Vlaamse Regering aan welke overheidsinstantie de manier en de nadere inhoud van de toegang tot gegevens met betrekking tot rechtspersonen en natuurlijke personen in hun hoedanigheid van ondernemer bepaalt in overleg met de betrokken overheidsinstanties en externe overheden.<br>
 <br>
@@ -1350,7 +1350,7 @@ Artikel III.32 is van overeenkomstige toepassing op de jaarlijkse bezoldiging, z
 <br>
 De beperkingen aan de geldelijke voorwaarden die volgen uit de toepassing van het eerste en tweede lid gelden niet voor de bestuurders die aangesteld zijn vóór 19 januari 2014 of, in voorkomend geval, vóór de datum waarop die beperkingen van toepassing zijn op de overheidsinstantie die hen aangesteld heeft, ook niet als hun mandaat verlengd wordt na deze datum.<br>
 <br>
-Het eerste lid is eveneens van toepassing op raden van bestuur van de overheidsinstanties, vermeld in artikel III.22, eerste lid, 7°, en van het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten Antwerpen en het Eigen Vermogen Informatie Vlaanderen.
+Het eerste lid is eveneens van toepassing op raden van bestuur van de overheidsinstanties, vermeld in artikel III.22, eerste lid, 7°, en van het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten Antwerpen en het Eigen Vermogen&nbsp;Digitaal Vlaanderen.
 
 ## Onderafdeling 2. Onafhankelijke bestuurders
 
@@ -1690,7 +1690,7 @@ Het stuurorgaan stelt, binnen de krijtlijnen van het strategische plan, vermeld 
 
 ### ART III.75.
 
-Het stuurorgaan staat het agentschap Informatie Vlaanderen in zijn hoedanigheid van dienstenintegrator bij in de vervulling van zijn opdrachten, en formuleert daarbij voorstellen en aanbevelingen.<br>
+Het stuurorgaan staat het agentschap Digitaal Vlaanderen in zijn hoedanigheid van dienstenintegrator bij in de vervulling van zijn opdrachten, en formuleert daarbij voorstellen en aanbevelingen.<br>
 <br>
 Het stuurorgaan brengt advies uit over:<br>
 1° de mogelijke ontsluiting via de Vlaamse dienstenintegrator, vermeld in artikel 3 van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator, en de geografische data-infrastructuur, vermeld in artikel 12 van het GDI-decreet van 20 februari 2009, van gegevensbronnen of authentieke gegevensbronnen en diensten;<br>
@@ -1706,10 +1706,10 @@ Het stuurorgaan is samengesteld uit de volgende leden:<br>
 1° een vertegenwoordiger van N-niveau of N-1-niveau per beleidsdomein als vermeld in artikel III.1, op voorstel van de managementcomités van de respectieve beleidsdomeinen;<br>
 2° drie vertegenwoordigers van de lokale overheden, van wie één vertegenwoordiger van de provincies en twee vertegenwoordigers van de gemeenten;<br>
 3° een vertegenwoordiger van het agentschap Facilitair Bedrijf;<br>
-4° een vertegenwoordiger van het agentschap Informatie Vlaanderen;<br>
+4° een vertegenwoordiger van het agentschap Digitaal Vlaanderen;<br>
 5° twee externe innovators. De Vlaamse Regering bepaalt de nadere regels voor de aanstelling van die externe innovators en de vereisten waaraan ze moeten voldoen;<br>
-6° een vertegenwoordiger van de Vlaamse minister, bevoegd voor het informatiebeleid;<br>
-7° een vertegenwoordiger van de Vlaamse minister, bevoegd voor het IT-beleid.<br>
+6° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de digitalisering;<br>
+7° ...<br>
 <br>
 De Vlaamse Regering kan de samenstelling, vermeld in het eerste lid, verder uitbreiden.<br>
 <br>
