@@ -10,7 +10,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 16 april 2004 houdende 
 
 Voor de toepassing van dit besluit wordt verstaan onder :<br>
 1° het decreet : het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB);<br>
-2° agentschap: het intern verzelfstandigd agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen;<br>
+2° agentschap: het intern verzelfstandigd agentschap Digitaal Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen;<br>
 3° recuperatie : het integreren in het GRB van grootschalige geografische gegevens die door of in opdracht van andere personen dan het&nbsp;agentschap zijn opgemeten conform de skeletbestekken of die door of in opdracht van andere personen dan het&nbsp;agentschap zijn opgemeten voorafgaandelijk aan de goedkeuring door de Vlaamse Regering van de GRB-specificaties;<br>
 4° projectzone : de projectzone, vermeld in artikel 21, 9°, van het decreet;<br>
 5° wegverbinding : de wegverbinding, bepaald door de Vlaamse Regering ter uitvoering van artikel 6 van het decreet;<br>
