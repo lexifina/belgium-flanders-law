@@ -36,7 +36,7 @@ Het agentschap heeft onder meer tot taak het uitvoeren van een samenhangend bele
 10° de ontwikkeling van een kenniscentrum inzake de lokale en provinciale besturen;<br>
 11° de coördinatie van het beleid met betrekking tot Brussel-Hoofdstad;<br>
 12° de coördinatie van het beleid met betrekking tot de Vlaamse Rand rond Brussel.<br>
-13° het permanent verbeteren van de interbestuurlijke samenwerking door de entiteiten van de Vlaamse overheid te ondersteunen bij het proactief in kaart brengen van de weerslag op de lokale besturen van regelgeving en de daarmee samenhangende processen en interacties, in samenwerking met het agentschap Informatie Vlaanderen.<br>
+13° het permanent verbeteren van de interbestuurlijke samenwerking door de entiteiten van de Vlaamse overheid te ondersteunen bij het proactief in kaart brengen van de weerslag op de lokale besturen van regelgeving en de daarmee samenhangende processen en interacties, in samenwerking met het agentschap Digitaal Vlaanderen.<br>
 <br>
 Voor de beleidsondersteuning van het integratie- en inburgeringsbeleid vervult het agentschap de taken, vermeld in artikel 30, § 1 en § 2, 1°, a), b), en c), en 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
 
