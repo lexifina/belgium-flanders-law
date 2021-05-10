@@ -66,9 +66,9 @@ De afdeling hergebruik van overheidsinformatie oefent haar opdracht uit conform 
 
 Het secretariaat van de afdeling openbaarheid van bestuur is gevestigd bij het Departement Kanselarij en Buitenlandse Zaken.<br>
 <br>
-Het secretariaat van de afdeling hergebruik is gevestigd bij Informatie Vlaanderen.<br>
+Het secretariaat van de afdeling hergebruik is gevestigd bij Digitaal Vlaanderen.<br>
 <br>
-In het tweede lid wordt verstaan onder Informatie Vlaanderen : het agentschap, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen.<br>
+In het tweede lid wordt verstaan onder Digitaal Vlaanderen: het agentschap, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen.<br>
 <br>
 Alle briefwisseling en communicatie met de beroepsinstantie wordt gericht aan het adres van het secretariaat.<br>
 &nbsp;
