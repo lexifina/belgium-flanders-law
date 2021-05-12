@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035545,
+  "title": "Ministerieel besluit van 2021-05-02 houdende de wijziging van het ministerieel besluit van 5 april 2019 houdende het aantonen van biomassakenmerken",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035545/VolledigDocument?datum=2021-05-12",
+  "source_sha256": "2e91912dd94ba5a69e38d7349fa8d308e8851f61f4e5f4e2a392cb40a7e5984d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035545&param=informatie",
+  "as_of": "2021-05-12",
+  "made": "2021-05-02",
+  "gazette": "2021-05-12",
+  "numac": 2021031520,
+  "document_start": "2021-05-12",
+  "document_end": null,
+  "in_force": "2021-05-12",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2021-05-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
