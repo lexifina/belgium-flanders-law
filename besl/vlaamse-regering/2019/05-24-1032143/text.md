@@ -104,7 +104,9 @@ De maatregelen vermeld in artikel 3, tweede lid, van het decreet van 29 maart, h
 28° het aanbieden van erkende beroepskwalificerende trajecten, vermeld in hoofdstuk 2 van het decreet van 26 april 2019 betreffende het kwaliteitstoezicht voor beroepskwalificerende trajecten op basis van een gemeenschappelijk kwaliteitskader;<br>
 29° de uitvoering van projectoproepen van het Europees Sociaal Fonds;<br>
 30° projectuitvoeringen in het kader van Europees Fonds voor Asiel, Migratie en Integratie;<br>
-31° de opleidingen, die georganiseerd zijn in het kader van de opleidingscheques, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 17 mei 2019 betreffende de opleidingscheques voor werknemers.
+31° de opleidingen, die georganiseerd zijn in het kader van de opleidingscheques, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 17 mei 2019 betreffende de opleidingscheques voor werknemers;<br>
+32° de opleiding, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 3 mei 2019 tot regeling van de VDAB-opleiding tot verzorgende en zorgkundige.<br>
+&nbsp;
 
 ## HOOFDSTUK 3. Kwaliteitsvoorwaarden
 
