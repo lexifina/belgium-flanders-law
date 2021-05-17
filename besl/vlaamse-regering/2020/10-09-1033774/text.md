@@ -210,6 +210,12 @@ Aan artikel 7.2.14 van hetzelfde besluit worden de volgende wijzigingen aangebra
 
 Aan artikel 7.2.17, eerste lid, 1° van hetzelfde besluit worden de woorden "of publiekrechtelijke rechtspersoon" toegevoegd.
 
+### ART 19.
+
+Aan artikel 7.11.4 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 10 juli 2020, wordt een paragraaf 6/1 ingevoegd, die luidt als volgt:<br>
+<br>
+" § 6. Het Vlaams Energieagentschap houdt een databank bij van alle op grond van dit hoofdstuk goedgekeurde projecten. Deze databank bevat per project minstens de identificatiegegevens van het project en van de steunaanvrager, alsook de voor het project toegekende steun. De minister kan nadere regels bepalen met betrekking tot de gegevens die in die databank worden opgenomen.".
+
 ### ART 20.
 
 In het opschrift van titel VIII, hoofdstuk I van hetzelfde besluit worden de woorden "type B" opgeheven.
