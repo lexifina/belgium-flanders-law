@@ -29,3 +29,15 @@ In artikel 14, § 1, tweede lid, 3°, van het besluit van de Vlaamse Regering va
 ### ART 2.
 
 In artikel 16, tweede lid, van hetzelfde besluit wordt de datum "31 maart 2021" vervangen door de datum "30 juni 2021".
+
+### ART 3.
+
+Artikel 1, 1°, heeft uitwerking met ingang van 1 oktober 2020.<br>
+<br>
+Artikel 1, 2°, heeft uitwerking met ingang van 1 januari 2021.<br>
+<br>
+Artikel 2 heeft uitwerking met ingang van 31 maart 2021.
+
+### ART 4.
+
+De Vlaamse minister, bevoegd voor de personen met een beperking, is belast met de uitvoering van dit besluit.
