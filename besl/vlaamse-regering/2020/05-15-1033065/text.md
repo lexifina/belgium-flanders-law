@@ -55,19 +55,11 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Bij het toezicht op de verantwoording van subsidies binnen het beleidsveld sport, worden de voor subsidiëring in aanmerking komende kosten van gesubsidieerde evenementen of activiteiten, die niet of beperkt hebben kunnen plaatsvinden in het kalenderjaar 2020 ingevolge de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge het coronavirus COVID-19, binnen de perken van de begrotingskredieten in aanmerking genomen.
+Bij het toezicht op de verantwoording van subsidies binnen het beleidsveld sport, worden de voor subsidiëring in aanmerking komende kosten van gesubsidieerde evenementen of activiteiten, die niet, aangepast of beperkt hebben kunnen plaatsvinden in het kalenderjaar 2020&nbsp;of 2021 ingevolge de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge het coronavirus COVID-19, binnen de perken van de begrotingskredieten in aanmerking genomen.
 
 ### ART 2.
 
-§ 1. Als het indienen van een door de algemene vergadering goedgekeurd financieel verslag of werkingsverslag als erkenningsvoorwaarde binnen het beleidsveld sport is gesteld, dan kan de vereniging in kwestie de reeds door de Raad van Bestuur goedgekeurde verslagen bezorgen.<br>
-<br>
-De vereniging in kwestie bezorgt het door de algemene vergadering goedgekeurde financiële verslag en werkingsverslag van het voorbije werkingsjaar nadien aan het agentschap Sport Vlaanderen. De vereniging bezorgt de verslagen uiterlijk 1 week na de effectieve goedkeuring ervan door de algemene vergadering, en ten laatste op 30 september 2020.<br>
-<br>
-§ 2. Als het indienen van een door de algemene vergadering goedgekeurd financieel verslag of werkingsverslag als subsidievoorwaarde of als voorwaarde voor de verantwoording van een subsidie binnen het beleidsveld sport is gesteld, dan kan het saldo van de betreffende subsidie uitzonderlijk en onder voorbehoud van de berekening en goedkeuring van de definitieve subsidie worden uitbetaald na het indienen van de reeds door de Raad van Bestuur goedgekeurde verslagen.<br>
-<br>
-De vereniging in kwestie bezorgt het door de algemene vergadering goedgekeurde financiële verslag en werkingsverslag van het voorbije werkingsjaar nadien aan het agentschap Sport Vlaanderen. De vereniging bezorgt de verslagen uiterlijk 1 week na de effectieve goedkeuring ervan door de algemene vergadering, en ten laatste op 30 september 2020.<br>
-<br>
-De berekening en goedkeuring van de definitieve subsidie gebeurt nadat het door de algemene vergadering goedgekeurde financiële verslag en het werkingsverslag zijn ingediend.
+...
 
 ## HOOFDSTUK 2. Specifieke tijdelijke bepalingen betreffende de toepassing van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector
 
@@ -82,19 +74,19 @@ In afwijking van artikel 25 van hetzelfde decreet, wordt de huidige Topsporttakk
 
 ### ART 5.
 
-Voor de toepassing van de erkenningsvoorwaarde met betrekking tot het aantal aangesloten leden, vermeld in artikel 4, eerste lid, 3°, van het decreet van 10 juni 2016, kan een reeds erkende sportfederatie ervoor opteren om voor 2020 het ledenaantal voor het jaar 2019 in aanmerking te laten nemen.<br>
+Voor de toepassing van de erkenningsvoorwaarde met betrekking tot het aantal aangesloten leden, vermeld in artikel 4, eerste lid, 3°, van het decreet van 10 juni 2016, kan een reeds erkende sportfederatie ervoor opteren om voor 2020 het ledenaantal voor het jaar 2019 in aanmerking te laten nemen, en voor 2021 het ledenaantal voor het jaar 2019 of 2020.<br>
 <br>
-Voor de toepassing van de erkenningsvoorwaarde met betrekking tot het aantal sportieve vrijetijdsbeoefenaars dat ze vertegenwoordigt, vermeld in artikel 40, eerste lid, 6°, van hetzelfde decreet, kan een reeds erkende organisatie voor de sportieve vrijetijdsbesteding ervoor opteren om voor 2020 het aantal sportieve vrijetijdsbeoefenaars dat ze vertegenwoordigde in het jaar 2019 in aanmerking te laten nemen. Voor de toepassing van artikel 46, tweede lid, van hetzelfde decreet, kan de organisatie voor de sportieve vrijetijdsbesteding ervoor opteren om voor de subsidie voor het werkingsjaar 2020 het aantal sportieve vrijetijdsbeoefenaars dat ze vertegenwoordigde voor het jaar 2019 in aanmerking te laten nemen.
+Voor de toepassing van de erkenningsvoorwaarde met betrekking tot het aantal sportieve vrijetijdsbeoefenaars dat ze vertegenwoordigt, vermeld in artikel 40, eerste lid, 6°, van hetzelfde decreet, kan een reeds erkende organisatie voor de sportieve vrijetijdsbesteding ervoor opteren om voor 2020 het aantal sportieve vrijetijdsbeoefenaars dat ze vertegenwoordigde in het jaar 2019 in aanmerking te laten nemen, en voor 2021 het aantal sportieve vrijetijdsbeoefenaars dat ze vertegenwoordigde in het jaar 2019 of 2020. Voor de toepassing van artikel 46, tweede lid, van hetzelfde decreet, kan de organisatie voor de sportieve vrijetijdsbesteding ervoor opteren om voor de subsidie voor het werkingsjaar 2020 het aantal sportieve vrijetijdsbeoefenaars dat ze vertegenwoordigde voor het jaar 2019 in aanmerking te laten nemen, en voor de subsidie voor het werkingsjaar 2021 het aantal sportieve vrijetijdsbeoefenaars dat ze vertegenwoordigde voor het jaar 2019 of 2020.
 
 ### ART 6.
 
-Voor de subsidie die afhankelijk is van het beantwoorden aan kwaliteitsprincipes, vermeld in artikel 9, derde lid, 1°, b), van hetzelfde decreet, kan een sportfederatie ervoor opteren om voor het werkingsjaar 2020 de score die ze behaalde in het werkingsjaar 2019 in aanmerking te laten nemen voor de volgende indicatoren:<br>
+Voor de subsidie die afhankelijk is van het beantwoorden aan kwaliteitsprincipes, vermeld in artikel 9, derde lid, 1°, b), van hetzelfde decreet, kan een sportfederatie ervoor opteren om voor het werkingsjaar 2020 de score die ze behaalde in het werkingsjaar 2019, en voor het werkingsjaar 2021 de score die ze behaalde in 2019 of 2020, in aanmerking te laten nemen voor de volgende indicatoren:<br>
 1° voor het kwaliteitsprincipe draagvlak van de sportfederatie: de indicator aantal aangesloten subsidieerbare leden van de sportfederatie, vermeld in artikel 12 van het besluit van de Vlaamse Regering van 16 september 2016 tot vaststelling van de algemene erkennings- en subsidiëringsvoorwaarden voor de georganiseerde sportsector;<br>
 2° voor het kwaliteitsprincipe kwaliteit van het aanbod van de sportfederatie:<br>
 a) de indicator aantal sportgekwalificeerde trainers die actief zijn als sporttechnisch begeleider in de sportclubs, aangesloten bij de sportfederatie, vermeld in artikel 13, § 1, eerste lid, 1°, van hetzelfde besluit;<br>
 b) de indicator aantal leden van de sportfederatie die in het werkingsjaar in kwestie een nieuwe sportkwalificatie verworven hebben, vermeld in artikel 13, § 1, eerste lid, 2°, van hetzelfde besluit.<br>
 <br>
-Indien een sportfederatie kiest om de scores van het werkingsjaar 2019 in aanmerking te laten nemen, vermeld in het eerste lid, dan geldt deze keuze voor alle in het eerste lid vermelde indicatoren. Het aantal aangesloten subsidieerbare leden van 2019 geldt in dat geval ook voor de bepaling van de basissubsidie, afhankelijk van het aantal aangesloten leden, vermeld in artikel 9, derde lid, 1°, a), en artikel 16, § 2, van het decreet van 10 juni 2016, voor de verdeling van het resterende budget voor de indicator inspanningsverbintenis voor de basisopdracht kaderopleiding en bijscholing, vermeld in artikel 13, § 5, van het besluit van 16 september 2016, en voor de verdeling van het beschikbare budget voor het kwaliteitsprincipe goed bestuur, vermeld in artikel 16 en 17 van hetzelfde besluit.
+Indien een sportfederatie kiest om de scores van het werkingsjaar 2019&nbsp;of 2020 in aanmerking te laten nemen, vermeld in het eerste lid, dan geldt deze keuze voor alle in het eerste lid vermelde indicatoren. Het aantal aangesloten subsidieerbare leden van 2019&nbsp;respectievelijk 2020 geldt in dat geval ook voor de bepaling van de basissubsidie, afhankelijk van het aantal aangesloten leden, vermeld in artikel 9, derde lid, 1°, a), en artikel 16, § 2, van het decreet van 10 juni 2016, voor de verdeling van het resterende budget voor de indicator inspanningsverbintenis voor de basisopdracht kaderopleiding en bijscholing, vermeld in artikel 13, § 5, van het besluit van 16 september 2016, en voor de verdeling van het beschikbare budget voor het kwaliteitsprincipe goed bestuur, vermeld in artikel 16 en 17 van hetzelfde besluit.
 
 ### ART 7.
 
@@ -102,7 +94,7 @@ De periode van tijdelijke werkloosheid wegens overmacht ten gevolge van de coron
 
 ### ART 8.
 
-Voor het werkingsjaar 2020 wordt aan artikel 19, eerste lid, van het besluit van de Vlaamse Regering van 27 januari 2017 betreffende de uitvoering van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector inzake de vaststelling van de voorwaarden om een subsidie te verkrijgen voor de uitvoering van de beleidsfocus topsport een punt 9° toegevoegd dat luidt als volgt:<br>
+Voor het werkingsjaar 2020&nbsp;en voor het werkingsjaar 2021 wordt aan artikel 19, eerste lid, van het besluit van de Vlaamse Regering van 27 januari 2017 betreffende de uitvoering van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector inzake de vaststelling van de voorwaarden om een subsidie te verkrijgen voor de uitvoering van de beleidsfocus topsport een punt 9° toegevoegd dat luidt als volgt:<br>
 " 9° specifieke kosten eigen aan de voorbereiding van en deelname aan multidisciplinaire stages en Olympische Spelen, Paralympische Spelen, Youth Olympic Games, European Games, EYOF en Wereldspelen waarvoor het agentschap Sport Vlaanderen voorafgaandelijk zijn uitdrukkelijk akkoord heeft verleend.".
 
 ## HOOFDSTUK 3. Specifieke tijdelijke bepalingen betreffende de toepassing van het decreet van 3 april 2009 houdende de toekenning van subsidies voor de uitbouw, de coördinatie en de promotie van het sportaanbod van de studentensportvoorzieningen van de Vlaamse universiteiten en hogescholen en de erkenning en subsidiëring van een Vlaamse overkoepelende studentensportorganisatie
@@ -114,27 +106,27 @@ Voor de toepassing van het decreet van 3 april 2009 houdende de toekenning van s
 
 ### ART 10.
 
-In afwijking van artikel 4, derde lid, van hetzelfde decreet, is het minimale percentage van 10 percent van de jaarlijkse subsidie dat de overkoepelende studentensportorganisatie moet besteden aan de concrete organisatie van associatieoverschrijdende studentensportinitiatieven en de deelname van studenten aan internationale studentensportinitiatieven niet van toepassing voor het jaar 2020.
+In afwijking van artikel 4, derde lid, van hetzelfde decreet, is het minimale percentage van 10 percent van de jaarlijkse subsidie dat de overkoepelende studentensportorganisatie moet besteden aan de concrete organisatie van associatieoverschrijdende studentensportinitiatieven en de deelname van studenten aan internationale studentensportinitiatieven niet van toepassing voor het jaar 2020 en voor het jaar 2021.
 
 ## HOOFDSTUK 4. Specifieke tijdelijke bepalingen betreffende de toepassing van het decreet van 6 juli 2012 houdende het stimuleren van een lokaal sportbeleid
 
 ### ART 11.
 
-In afwijking van artikel 25, tweede lid, van het decreet van 6 juli 2012 houdende het stimuleren en subsidiëren van een lokaal sportbeleid, gewijzigd bij de decreten van 18 november 2016 en 22 december 2017, is het maximale percentage van 70 percent van de jaarlijkse subsidie dat de organisatie voor de begeleiding van de gemeenten en de Vlaamse Gemeenschapscommissie kan besteden aan personeelskosten niet van toepassing voor het jaar 2020.
+In afwijking van artikel 25, tweede lid, van het decreet van 6 juli 2012 houdende het stimuleren en subsidiëren van een lokaal sportbeleid, gewijzigd bij de decreten van 18 november 2016 en 22 december 2017, is het maximale percentage van 70 percent van de jaarlijkse subsidie dat de organisatie voor de begeleiding van de gemeenten en de Vlaamse Gemeenschapscommissie kan besteden aan personeelskosten niet van toepassing voor het jaar 2020 en voor het jaar 2021.
 
 ### ART 12.
 
-In afwijking van artikel 5, eerste lid, van het besluit van de Vlaamse Regering van 16 november 2012 betreffende de uitvoering van het decreet van 6 juli 2012 houdende het stimuleren en subsidiëren van een lokaal sportbeleid, is het bestedingspercentage van ten minste 35% niet van toepassing voor het jaar 2020, op voorwaarde dat het in mindering genomen bestedingspercentage gevoegd wordt bij het bestedingspercentage van de Vlaamse beleidsprioriteit het ondersteunen van de kwalitatieve uitbouw van de sportverenigingen via een doelgericht subsidiebeleid, vermeld in artikel 4 van hetzelfde besluit.<br>
+In afwijking van artikel 5, eerste lid, van het besluit van de Vlaamse Regering van 16 november 2012 betreffende de uitvoering van het decreet van 6 juli 2012 houdende het stimuleren en subsidiëren van een lokaal sportbeleid, is het bestedingspercentage van ten minste 35% niet van toepassing voor het jaar 2020 en voor het jaar 2021, op voorwaarde dat het in mindering genomen bestedingspercentage gevoegd wordt bij het bestedingspercentage van de Vlaamse beleidsprioriteit het ondersteunen van de kwalitatieve uitbouw van de sportverenigingen via een doelgericht subsidiebeleid, vermeld in artikel 4 van hetzelfde besluit.<br>
 <br>
-In afwijking van artikel 6 en 7 van hetzelfde besluit is het bestedingspercentage van ten minste 10% niet van toepassing voor het jaar 2020, op voorwaarde uit de onderdelen van het ingediende jaarlijks verslag, vermeld in artikel 18, tweede lid, 2°, 3° en 4°, van hetzelfde besluit blijkt dat de uitgevoerde acties en de financiële middelen kaderen in het geheel van de Vlaamse beleidsprioriteiten, vermeld in artikel 11 van het decreet van 6 juli 2012.<br>
+In afwijking van artikel 6 en 7 van hetzelfde besluit is het bestedingspercentage van ten minste 10% niet van toepassing voor het jaar 2020 en voor het jaar 2021, op voorwaarde uit de onderdelen van het ingediende jaarlijks verslag, vermeld in artikel 18, tweede lid, 2°, 3° en 4°, van hetzelfde besluit blijkt dat de uitgevoerde acties en de financiële middelen kaderen in het geheel van de Vlaamse beleidsprioriteiten, vermeld in artikel 11 van het decreet van 6 juli 2012.<br>
 <br>
-De Vlaamse Gemeenschapscommissie mag voor het jaar 2020 een aangepast subsidiereglement, vermeld in artikel 15, tweede lid, 2°, van hetzelfde besluit indienen. De aanpassingen kunnen de erin opgenomen subsidievoorwaarden en -procedures voor de sportclubs en de maximale bestedingsmogelijkheden van de sportclubs binnen de Vlaamse beleidsprioriteiten, vermeld in artikel 11, 1° en 2°, van het decreet van 6 juli 2012 betreffen.
+De Vlaamse Gemeenschapscommissie mag voor het jaar 2020&nbsp;en voor het jaar 2021 een aangepast subsidiereglement, vermeld in artikel 15, tweede lid, 2°, van hetzelfde besluit indienen. De aanpassingen kunnen de erin opgenomen subsidievoorwaarden en -procedures voor de sportclubs en de maximale bestedingsmogelijkheden van de sportclubs binnen de Vlaamse beleidsprioriteiten, vermeld in artikel 11, 1° en 2°, van het decreet van 6 juli 2012 betreffen.
 
 ## HOOFDSTUK 5. Specifieke tijdelijke bepalingen betreffende de toepassing van het decreet van 8 november 2013 houdende het stimuleren, het coördineren en het subsidiëren van de tewerkstelling in de sportsector
 
 ### ART 13.
 
-In afwijking van artikel 3, 2°, van het besluit van de Vlaamse Regering van 20 december 2013 betreffende de uitvoering van het decreet van 8 november 2013 houdende het stimuleren, het coördineren en het subsidiëren van de tewerkstelling in de sportsector, is de erin vermelde bestedingsverplichting van 80.000 euro van de jaarlijkse subsidie voor de uitvoering van de opdracht in kwestie in het tweetalige gebied Brussel-Hoofdstad niet van toepassing in 2020. Dit geldt alleen op voorwaarde dat de organisatie voor de coördinatie en de tewerkstelling van een pool van sportbegeleiders en sportondersteuners aantoont dat de oorspronkelijk geplande initiatieven ingevolge de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge het coronavirus COVID-19 niet of beperkt konden plaatsvinden.
+In afwijking van artikel 3, 2°, van het besluit van de Vlaamse Regering van 20 december 2013 betreffende de uitvoering van het decreet van 8 november 2013 houdende het stimuleren, het coördineren en het subsidiëren van de tewerkstelling in de sportsector, is de erin vermelde bestedingsverplichting van 80.000 euro van de jaarlijkse subsidie voor de uitvoering van de opdracht in kwestie in het tweetalige gebied Brussel-Hoofdstad niet van toepassing in 2020 en in 2021. Dit geldt alleen op voorwaarde dat de organisatie voor de coördinatie en de tewerkstelling van een pool van sportbegeleiders en sportondersteuners aantoont dat de oorspronkelijk geplande initiatieven ingevolge de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge het coronavirus COVID-19 niet of beperkt konden plaatsvinden.
 
 ## HOOFDSTUK 6. Specifieke tijdelijke bepalingen betreffende de subsidiëring van sportinfrastructuur
 
@@ -144,7 +136,9 @@ In afwijking van artikel 3, 2°, van het besluit van de Vlaamse Regering van 20 
 
 ### ART 15.
 
-De uiterlijk toegestane termijn van realisatie van de werken voor een lopend project sportinfrastructuur dat in een van de projectoproepen sportinfrastructuur wordt gesubsidieerd binnen het beleidsveld sport, wordt met drie jaar verlengd ingevolge de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge het coronavirus COVID-19.
+De uiterlijk toegestane termijn van realisatie van de werken voor een lopend project sportinfrastructuur dat in een van de projectoproepen sportinfrastructuur wordt gesubsidieerd binnen het beleidsveld sport, wordt met drie jaar verlengd ingevolge de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge het coronavirus COVID-19.<br>
+<br>
+De uiterlijk toegestane termijn van realisatie van de werken voor een project bovenlokale sportinfrastructuur of topsportinfrastructuur dat&nbsp;in 2020, in 2021 wordt goedgekeurd op basis van het decreet van 5 mei 2017 houdende de ondersteuning van bovenlokale sportinfrastructuur en topsportinfrastructuur, wordt met twee jaar verlengd ingevolge de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge het coronavirus COVID-19.
 
 ## HOOFDSTUK 7. Slotbepalingen
 
