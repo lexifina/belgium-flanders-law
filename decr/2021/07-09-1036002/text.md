@@ -130,6 +130,16 @@ In artikel 15, § 1, van dezelfde codex, het laatst gewijzigd bij het decreet va
 
 In artikel 18, § 1, van dezelfde codex, wordt punt 4° opgeheven.
 
+### ART 165.
+
+Aan artikel 146 van dezelfde codex, vervangen bij het decreet van 26 januari 2018, wordt een paragraaf 5 toegevoegd, die luidt als volgt:<br>
+<br>
+" § 5. In afwijking van de termijnen, bepaald in paragraaf 1, eerste lid, en paragraaf 3, eerste lid, gelden de volgende termijnen met betrekking tot een aanvraag tot gelijkwaardigheid van vervangende eindtermen voor de door het Vlaams Parlement goedgekeurde eindtermen van de tweede graad die een schoolbestuur geacht wordt in het kader van de modernisering van het secundair onderwijs geleidelijk toe te passen vanaf 1 september 2021:<br>
+1° de indiening van de aanvraag voor het schooljaar 2021-2022 gebeurt uiterlijk drie maanden na bekendmaking in het Belgisch Staatsblad van de door het Vlaams Parlement goedgekeurde onderwijsdoelen van de tweede graad;<br>
+2° de Vlaamse Regering beslist uiterlijk vier maanden na indiening van de aanvraag.<br>
+<br>
+Tijdens het schooljaar 2021-2022 wordt gedoogd dat de aanvrager nog met de oude eindtermen of, in voorkomend geval, de oude vervangende eindtermen werkt.".
+
 ## HOOFDSTUK 17. Wijzigingen van de Codex Hoger Onderwijs van 11 oktober 2013
 
 ### ART 205.
