@@ -3045,7 +3045,13 @@ b) laat toe om na te gaan in welke mate bij een leerlingenpopulatie of een leerl
 <br>
 Voor de beoordeling van de ontvankelijkheid en van de gelijkwaardigheid wordt het gemotiveerd advies ingewonnen van een commissie van deskundigen en de onderwijsinspectie en wordt telkens de aanvrager gehoord. De Vlaamse Regering bepaalt de verdere regels voor de samenstelling van de commissie van deskundigen en van de procedure.<br>
 <br>
-§ 4. De vervangende eindtermen, uitbreidingsdoelen Nederlands, ontwikkelingsdoelen of specifieke eindtermen die door de Vlaamse Regering ontvankelijk en gelijkwaardig zijn beoordeeld, worden binnen zes maanden ter goedkeuring ingediend bij het Vlaams Parlement.
+§ 4. De vervangende eindtermen, uitbreidingsdoelen Nederlands, ontwikkelingsdoelen of specifieke eindtermen die door de Vlaamse Regering ontvankelijk en gelijkwaardig zijn beoordeeld, worden binnen zes maanden ter goedkeuring ingediend bij het Vlaams Parlement.<br>
+<br>
+§ 5. In afwijking van de termijnen, bepaald in paragraaf 1, eerste lid, en paragraaf 3, eerste lid, gelden de volgende termijnen met betrekking tot een aanvraag tot gelijkwaardigheid van vervangende eindtermen voor de door het Vlaams Parlement goedgekeurde eindtermen van de tweede graad die een schoolbestuur geacht wordt in het kader van de modernisering van het secundair onderwijs geleidelijk toe te passen vanaf 1 september 2021:<br>
+1° de indiening van de aanvraag voor het schooljaar 2021-2022 gebeurt uiterlijk drie maanden na bekendmaking in het Belgisch Staatsblad van de door het Vlaams Parlement goedgekeurde onderwijsdoelen van de tweede graad;<br>
+2° de Vlaamse Regering beslist uiterlijk vier maanden na indiening van de aanvraag.<br>
+<br>
+Tijdens het schooljaar 2021-2022 wordt gedoogd dat de aanvrager nog met de oude eindtermen of, in voorkomend geval, de oude vervangende eindtermen werkt.
 
 ### ART. 147.
 
