@@ -54,7 +54,26 @@ De wateren waar verkeersbegeleiding kan worden georganiseerd en beheerd, zijn :<
 
 ### ART. 4.
 
-Het VBS-werkingsgebied, waar door de dienst, vermeld in artikel 2, § 1, 1°, verkeersbegeleiding wordt verstrekt, is het gebied waarvan de buitengrens wordt bepaald door een lijn bestaande uit segmenten die de volgende, in coördinaten uitgedrukte posities verbindt, in de volgorde zoals hieronder aangegeven :<br />1° 51°05',40 N 002°32',80 E;<br />2° 51°16',15 N 002°23',30 E;<br />3° 51°23',60 N 002°20',20 E;<br />4° 51°25',95 N 002°30',62 E;<br />5° 51°28',75 N 002°56',00 E;<br />6° 51°33',05 N 003°05',00 E;<br />7° 51°29',02 N 003°12',65 E;<br />8° 51°26',09 N 003°17',75 E;<br />9° 51°22',75 N 003°21',01 E;<br />10° het snijpunt met de laagwaterlijn ter hoogte van grenspaal 369: 51°22',35N 003°21',08 E.<br /><br />Op het Belgische deel van de Schelde ligt het VBS-werkingsgebied tussen de Belgisch - Nederlandse grens en boei 100.<br /><br />In het gebied tussen boei 100 en de sluis van Wintam is er nog radiocontact zonder verdere verkeersbegeleiding.<br /><br />Op het Belgische deel van het kanaal Gent-Terneuzen is het VBS-werkingsgebied in het noorden begrensd door de Belgisch-Nederlandse grens en in het zuiden door het havengebied van Gent.<br /><br />De ligging van de posities, vermeld in dit artikel, is uitgedrukt in breedte en lengte volgens het geografische referentiesysteem "World Geodetic System 1984", afgekort WGS84.<br /><br />
+Het VBS-werkingsgebied, waar door de dienst, vermeld in artikel 2, § 1, 1°, verkeersbegeleiding wordt verstrekt, is het gebied waarvan de buitengrens wordt bepaald door een lijn bestaande uit segmenten die de volgende, in coördinaten uitgedrukte posities verbindt, in de volgorde zoals hieronder aangegeven :<br>
+1° 51°05',40 N 002°32',80 E;<br>
+2° 51°16',15 N 002°23',30 E;<br>
+3° 51° 23'65 N 002° 19'36 E;<br>
+4° 51° 25'95 N 002° 27'50 E;<br>
+5° 51°28',75 N 002°56',00 E;<br>
+6° 51°33',05 N 003°05',00 E;<br>
+7° 51°29',02 N 003°12',65 E;<br>
+8° 51°26',09 N 003°17',75 E;<br>
+9° 51°22',75 N 003°21',01 E;<br>
+10° het snijpunt met de laagwaterlijn ter hoogte van grenspaal 369: 51°22',35N 003°21',08 E.<br>
+<br>
+Op het Belgische deel van de Schelde ligt het VBS-werkingsgebied tussen de Belgisch - Nederlandse grens en boei 100.<br>
+<br>
+In het gebied tussen boei 100 en de sluis van Wintam is er nog radiocontact zonder verdere verkeersbegeleiding.<br>
+<br>
+Op het Belgische deel van het kanaal Gent-Terneuzen is het VBS-werkingsgebied in het noorden begrensd door de Belgisch-Nederlandse grens en in het zuiden door het havengebied van Gent.<br>
+<br>
+De ligging van de posities, vermeld in dit artikel, is uitgedrukt in breedte en lengte volgens het geografische referentiesysteem "World Geodetic System 1984", afgekort WGS84.<br>
+&nbsp;
 
 ### ART. 5.
 

@@ -2,16 +2,16 @@
   "codex_id": 1016316,
   "title": "Besluit van de Vlaamse Regering van 2007-10-26 betreffende de begeleiding van de scheepvaart",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016316/VolledigDocument?datum=2017-04-06",
-  "source_sha256": "607cefee3429ddd7189f83c7b5b3a057f560f049358ab8825bdddbf58ab21b0d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016316/VolledigDocument?datum=2021-05-31",
+  "source_sha256": "bd95838a4d6309ba9617776b37ee82fa467edc1b91788ff25eeed8b814a93664",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016316&param=informatie",
-  "as_of": "2017-04-06",
+  "as_of": "2021-05-31",
   "made": "2007-10-26",
   "gazette": "2007-11-08",
   "numac": 2007036962,
   "document_start": "2007-11-18",
   "document_end": null,
-  "in_force": "2017-04-06",
+  "in_force": "2021-05-31",
   "article_versions": 28,
-  "record_form": "consolidated version as in force on 2017-04-06; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-05-31; future article versions excluded; article text as the API gives it"
 }
