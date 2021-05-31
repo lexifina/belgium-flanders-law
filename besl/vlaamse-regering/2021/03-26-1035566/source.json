@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035566,
+  "title": "Besluit van de Vlaamse Regering van 2021-03-26 tot goedkeuring van de programmatie van opleidingen in het deeltijds beroepssecundair onderwijs en van duale structuuronderdelen in het gewoon voltijds secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035566/VolledigDocument?datum=2021-05-31",
+  "source_sha256": "b13642024a9d3a8351aeb0d4f86c50a8cfff3909adb2b6755e4c848628c5c96e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035566&param=informatie",
+  "as_of": "2021-05-31",
+  "made": "2021-03-26",
+  "gazette": "2021-05-21",
+  "numac": 2021041441,
+  "document_start": "2021-05-31",
+  "document_end": null,
+  "in_force": "2021-05-31",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-05-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
