@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035644,
+  "title": "Besluit van de Vlaamse Regering van 2021-04-30 over het verlenen van een heropstartlening aan ondernemingen met liquiditeitsproblemen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035644/VolledigDocument?datum=2021-05-31",
+  "source_sha256": "5ea0da600daa5217c4ff6f652a853fc81a687d35e658892a75e2aaee10b81560",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035644&param=informatie",
+  "as_of": "2021-05-31",
+  "made": "2021-04-30",
+  "gazette": "2021-06-08",
+  "numac": 2021041605,
+  "document_start": "2021-05-31",
+  "document_end": null,
+  "in_force": "2021-05-31",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2021-05-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
