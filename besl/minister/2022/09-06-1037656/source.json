@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037656,
+  "title": "Ministerieel besluit van 2022-09-06 tot regeling van het gebruik van de BelRAI-screener in het kader van de Vlaamse sociale bescherming",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037656/VolledigDocument?datum=2021-06-01",
+  "source_sha256": "1c5b84e61e5c576bfb087811fa2d98d3c7850502ab6f02bff63d15e9802278fc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037656&param=informatie",
+  "as_of": "2021-06-01",
+  "made": "2022-09-06",
+  "gazette": "2022-11-22",
+  "numac": 2022042136,
+  "document_start": "2021-06-01",
+  "document_end": null,
+  "in_force": "2021-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
