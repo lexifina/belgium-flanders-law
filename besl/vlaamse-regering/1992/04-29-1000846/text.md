@@ -6,7 +6,7 @@
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de personeelsleden, de instellingen, de centra en de inrichtende machten op wie de bepalingen van het decreet van 27 maart 1991 rechtspositie personeelsleden gemeenschapsonderwijs en het decreet van 27 maart 1991 rechtspositie personeelsleden gesubsidieerd personeel van toepassing zijn, met uitzondering van de personeelsleden van de pedagogische begeleidingsdiensten en de inrichtende machten die deze personeelsleden tewerkstellen en de leden van het meesters-, vak- en dienstpersoneel.
+Dit besluit is van toepassing op de personeelsleden, de instellingen, de centra en de inrichtende machten op wie de bepalingen van het decreet van 27 maart 1991 rechtspositie personeelsleden gemeenschapsonderwijs en het decreet van 27 maart 1991 rechtspositie personeelsleden gesubsidieerd personeel van toepassing zijn, met uitzondering van de leden van het meesters-, vak- en dienstpersoneel.
 
 ## HOOFDSTUK II ALGEMENE BEGRIPPEN
 
@@ -19,7 +19,8 @@ Dit besluit is van toepassing op de personeelsleden, de instellingen, de centra 
 2. het secundair onderwijs;<br>
 3. het deeltijds kunstonderwijs, dat bestaat uit het lager secundair niveau en het hoger secundair niveau. De eerste, tweede en derde graad behoren tot het lager secundair niveau en de vierde graad en de kortlopende studierichtingen behoren tot het hoger secundair niveau;<br>
 4. het volwassenenonderwijs;<br>
-5. de centra voor leerlingenbegeleiding, hierna centra genoemd;<br>
+5. de centra voor leerlingenbegeleiding, hierna centra genoemd.<br>
+6. de pedagogische begeleidingsdiensten;<br>
 3°...;<br>
 4°...;<br>
 5° ...<br>
@@ -83,7 +84,9 @@ Voor de toepassing van dit besluit beslist de inrichtende macht in het buitengew
 <br>
 § 14. Voor de toepassing van dit besluit voor de centra voor leerlingenbegeleiding beslist de inrichtende macht van een centrum bij een vermindering van het aantal omkaderingsgewichten op basis van criteria waarover wordt onderhandeld in het lokaal comité, in welke personeelscategorie of personeelscategorieën en in welke ambten binnen die personeelscategorie of -categorieën ze die vermindering toepast.<br>
 <br>
-§ 15. De criteria die een inrichtende macht in toepassing van dit artikel hanteert bij een vermindering van de jaarlijkse omkadering van een instelling worden telkens voor een periode van drie schooljaren onderhandeld in het lokaal comité.</p>
+§ 15. De criteria die een inrichtende macht in toepassing van dit artikel hanteert bij een vermindering van de jaarlijkse omkadering van een instelling worden telkens voor een periode van drie schooljaren onderhandeld in het lokaal comité.<br>
+<br>
+§&nbsp;16. Voor de toepassing van dit besluit wordt een pedagogische begeleidingsdienst beschouwd als één instelling.</p>
 
 ## HOOFDSTUK III BEPALING VAN HET BEGRIP "HETZELFDE AMBT" EN HET BEGRIP "ANDER AMBT" BIJ DE TERBESCHIKKINGSTELLING, DE REAFFECTATIE EN DE WEDERTEWERKSTELLING
 
@@ -464,6 +467,10 @@ Voor de centra wordt "hetzelfde ambt" als volgt gedefinieerd:<br>
 
 ## [AFDELING 8 DE PEDAGOGISCHE BEGELEIDINGSDIENSTEN (ing. BVR 17 juli 2020, art. 4, I: 1 juni 2021)]
 
+### ART 10bis
+
+Voor de pedagogische begeleidingsdiensten wordt "hetzelfde ambt" gedefinieerd als de ambten, vermeld in artikel 75 van het besluit van de Vlaamse Regering van 5 februari 2010 tot uitvoering van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs wat de rechtspositie van het personeel van de inspectie en de pedagogische begeleidingsdiensten betreft.
+
 ## [AFDELING 9 DE ONDERWIJSINTERNATEN (ing. BVR 14 juli 2023, art. 4, I: 1 september 2023)]
 
 ## [AFDELING 10 DE LEERSTEUNCENTRA (ing. BVR 14 juli 2023, art. 4, I: 1 september 2023)]
@@ -484,44 +491,45 @@ Onder voorbehoud van toepassing van de bepalingen, vermeld in artikel 3, § 3, z
 <br>
 De verplichting tot wedertewerkstelling geldt evenwel niet als aan een personeelslid dat ter beschikking is gesteld in een wervingsambt, een betrekking in een selectie- of bevorderingsambt zou moeten worden toegewezen of als aan een personeelslid dat ter beschikking is gesteld in een selectieambt, een betrekking in een bevorderingsambt zou moeten worden toegewezen.<br>
 <!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Vankeech</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>steenpfr</o:LastAuthor><br>  <o:Revision>3</o:Revision><br>  <o:TotalTime>44</o:TotalTime><br>  <o:Created>2011-11-23T14:11:00Z</o:Created><br>  <o:LastSaved>2011-11-23T14:13:00Z</o:LastSaved><br>  <o:Pages>2</o:Pages><br>  <o:Words>592</o:Words><br>  <o:Characters>4306</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>35</o:Lines><br>  <o:Paragraphs>9</o:Paragraphs><br>  <o:CharactersWithSpaces>4889</o:CharactersWithSpaces><br>  <o:Version>12.00</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:Zoom>90</w:Zoom><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:TrackMoves></w:TrackMoves><br>  <w:TrackFormatting></w:TrackFormatting><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:DoNotPromoteQF></w:DoNotPromoteQF><br>  <w:LidThemeOther>NL-BE</w:LidThemeOther><br>  <w:LidThemeAsian>X-NONE</w:LidThemeAsian><br>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark><br>   <w:DontVertAlignCellWithSp></w:DontVertAlignCellWithSp><br>   <w:DontBreakConstrainedForcedTables></w:DontBreakConstrainedForcedTables><br>   <w:DontVertAlignInTxbx></w:DontVertAlignInTxbx><br>   <w:Word11KerningPairs></w:Word11KerningPairs><br>   <w:CachedColBalance></w:CachedColBalance><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br>  <m:mathPr><br>   <m:mathFont m:val="e;Cambria Math"e;></m:mathFont><br>   <m:brkBin m:val="e;before"e;></m:brkBin><br>   <m:brkBinSub m:val="e;--"e;></m:brkBinSub><br>   <m:smallFrac m:val="e;off"e;></m:smallFrac><br>   <m:dispDef></m:dispDef><br>   <m:lMargin m:val="e;0"e;></m:lMargin><br>   <m:rMargin m:val="e;0"e;></m:rMargin><br>   <m:defJc m:val="e;centerGroup"e;></m:defJc><br>   <m:wrapIndent m:val="e;1440"e;></m:wrapIndent><br>   <m:intLim m:val="e;subSup"e;></m:intLim><br>   <m:naryLim m:val="e;undOvr"e;></m:naryLim><br>  </m:mathPr></w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; DefUnhideWhenUsed="e;false"e;<br>  DefSemiHidden="e;false"e; DefQFormat="e;false"e; LatentStyleCount="e;267"e;><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;Normal"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;heading 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 2"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 3"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 4"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 5"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 6"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 7"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 8"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 9"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;caption"e;/><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;Title"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; Name="e;Default Paragraph Font"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;Subtitle"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;Strong"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;Emphasis"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;99"e; Name="e;No List"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;99"e; SemiHidden="e;true"e;<br>   Name="e;Placeholder Text"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; QFormat="e;true"e; Name="e;No Spacing"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;99"e; SemiHidden="e;true"e; Name="e;Revision"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;34"e; QFormat="e;true"e;<br>   Name="e;List Paragraph"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;29"e; QFormat="e;true"e; Name="e;Quote"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;30"e; QFormat="e;true"e;<br>   Name="e;Intense Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;19"e; QFormat="e;true"e;<br>   Name="e;Subtle Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;21"e; QFormat="e;true"e;<br>   Name="e;Intense Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;31"e; QFormat="e;true"e;<br>   Name="e;Subtle Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;32"e; QFormat="e;true"e;<br>   Name="e;Intense Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;33"e; QFormat="e;true"e; Name="e;Book Title"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;37"e; SemiHidden="e;true"e;<br>   UnhideWhenUsed="e;true"e; Name="e;Bibliography"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; SemiHidden="e;true"e;<br>   UnhideWhenUsed="e;true"e; QFormat="e;true"e; Name="e;TOC Heading"e;/><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-priority:99;<br>	mso-style-qformat:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;,"e;serif"e;;&rgtaco;<br>table.MsoTableGrid<br>	&lftaco;mso-style-name:Tabelraster;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-unhide:no;<br>	border:solid windowtext 1.0pt;<br>	mso-border-alt:solid windowtext .5pt;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-border-insideh:.5pt solid windowtext;<br>	mso-border-insidev:.5pt solid windowtext;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;,"e;serif"e;;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;1026"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]-->
-<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook:480">
 	<tbody>
 		<tr>
-			<td style="width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">TERBESCHIKKINGSTELLING</p>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">TERBESCHIKKINGSTELLING</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">WEDERTEWERKSTELLING</p>
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">WEDERTEWERKSTELLING</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">alle personeelsleden, ter beschikking gesteld in de categorie van het bestuurs- en onderwijzend personeel</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">alle personeelsleden, ter beschikking gesteld in de categorie van het bestuurs- en onderwijzend personeel</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">wervingsambten van het:</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">wervingsambten van het:</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- bestuurs- en onderwijzend personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- bestuurs- en onderwijzend personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- opvoedend hulppersoneel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- opvoedend hulppersoneel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- administratief personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- administratief personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- psychologisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- psychologisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- paramedisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- paramedisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- sociaal personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- sociaal personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- orthopedagogisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- orthopedagogisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- medisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- medisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- technisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- technisch personeel</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
+&nbsp;
 
 <table border="1">
 	<tbody>
@@ -584,192 +592,192 @@ De verplichting tot wedertewerkstelling geldt evenwel niet als aan een personeel
 </table>
 &nbsp;
 
-<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook:480">
 	<tbody>
 		<tr>
-			<td style="width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">TERBESCHIKKINGSTELLING</p>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">TERBESCHIKKINGSTELLING</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">WEDERTEWERKSTELLING</p>
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">WEDERTEWERKSTELLING</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">de personeelsleden, ter beschikking gesteld in de categorie van het opvoedend hulppersoneel/het ambt van opvoeder</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">de personeelsleden, ter beschikking gesteld in de categorie van het opvoedend hulppersoneel/het ambt van opvoeder</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Wervingsambten van het:</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">Wervingsambten van het:</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- bestuurs- en onderwijzend personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- bestuurs- en onderwijzend personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- opvoedend hulppersoneel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- opvoedend hulppersoneel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- administratief personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- administratief personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- ondersteunend personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- ondersteunend personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- psychologisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- psychologisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- paramedisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- paramedisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- medisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- medisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- sociaal personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- sociaal personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- orthopedagogisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- orthopedagogisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- technisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- technisch personeel</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
 
-<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook:480">
 	<tbody>
 		<tr>
-			<td style="width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">TERBESCHIKKINGSTELLING</p>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">TERBESCHIKKINGSTELLING</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">WEDERTEWERKSTELLING</p>
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">WEDERTEWERKSTELLING</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">de personeelsleden, ter beschikking gesteld in de categorieën van het paramedisch/medisch/psychologisch/sociaal/</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">de personeelsleden, ter beschikking gesteld in de categorieën van het paramedisch/medisch/psychologisch/sociaal/</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">orthopedagogisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">orthopedagogisch personeel</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Wervingsambten van het:</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">Wervingsambten van het:</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- bestuurs- en onderwijzend personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- bestuurs- en onderwijzend personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- paramedisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- paramedisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- medisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- medisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- psychologisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- psychologisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- sociaal personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- sociaal personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- orthopedagogisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- orthopedagogisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- administratief personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- administratief personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- opvoedend hulppersoneel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- opvoedend hulppersoneel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- het technisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- het technisch personeel</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
 
-<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook:480">
 	<tbody>
 		<tr>
-			<td style="width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">TERBESCHIKKINGSTELLING</p>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">TERBESCHIKKINGSTELLING</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">WEDERTEWERKSTELLING</p>
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">WEDERTEWERKSTELLING</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">de personeelsleden, ter beschikking gesteld in de categorie van het administratief personeel, in het ambt van stafmedewerker in het volwassenenonderwijs of in het ambt van administratief medewerker, met uitzondering van de administratief medewerker in het basisonderwijs</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">de personeelsleden, ter beschikking gesteld in de categorie van het administratief personeel, in het ambt van stafmedewerker in het volwassenenonderwijs of in het ambt van administratief medewerker, met uitzondering van de administratief medewerker in het basisonderwijs</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">wervingsambten van het:</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">wervingsambten van het:</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- bestuurs- en onderwijzend personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- bestuurs- en onderwijzend personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- administratief personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- administratief personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- opvoedend hulppersoneel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- opvoedend hulppersoneel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- ondersteunend personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- ondersteunend personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- technisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- technisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- psychologisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- psychologisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- paramedisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- paramedisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- medisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- medisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- sociaal personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- sociaal personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- orthopedagogisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- orthopedagogisch personeel</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
 
-<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook:480">
 	<tbody>
 		<tr>
-			<td style="width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">TERBESCHIKKINGSTELLING</p>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">TERBESCHIKKINGSTELLING</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">WEDERTEWERKSTELLING</p>
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">WEDERTEWERKSTELLING</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">de personeelsleden, ter beschikking gesteld in de categorie van het technisch personeel</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">de personeelsleden, ter beschikking gesteld in de categorie van het technisch personeel</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">wervingsambten van het:</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">wervingsambten van het:</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- bestuurs- en onderwijzend personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- bestuurs- en onderwijzend personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- opvoedend hulppersoneel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- opvoedend hulppersoneel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- administratief personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- administratief personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- psychologisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- psychologisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- paramedisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- paramedisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- medisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- medisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- sociaal personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- sociaal personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- orthopedagogisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- orthopedagogisch personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- technisch personeel</p>
+			<p style="margin-left:0cm; margin-right:0cm">- technisch personeel</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
 
-<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook:480">
 	<tbody>
 		<tr>
-			<td style="width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">TERBESCHIKKINGSTELLING</p>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">TERBESCHIKKINGSTELLING</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">WEDERTEWERKSTELLING</p>
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">WEDERTEWERKSTELLING</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">de personeelsleden, ter beschikking gesteld in de categorie van het bestuurs- en onderwijzend personeel in het kader van taak- en functiedifferentiatie</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">de personeelsleden, ter beschikking gesteld in de categorie van het bestuurs- en onderwijzend personeel in het kader van taak- en functiedifferentiatie</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">- wervingsambten van het ondersteunend personeel<br>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">- wervingsambten van het ondersteunend personeel<br>
 			- wervingsambten in het kader van taak- en functiedifferentiatie van het :<br>
 			- bestuurs- en onderwijzend personeel<br>
 			- psychologisch personeel<br>
@@ -782,24 +790,24 @@ De verplichting tot wedertewerkstelling geldt evenwel niet als aan een personeel
 	</tbody>
 </table>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
 
-<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook:480">
 	<tbody>
 		<tr>
-			<td style="width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">TERBESCHIKKINGSTELLING</p>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">TERBESCHIKKINGSTELLING</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">WEDERTEWERKSTELLING</p>
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">WEDERTEWERKSTELLING</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">de personeelsleden, ter beschikking gesteld in de categorieën van het paramedisch/medisch/psychologisch /sociaal/orthopedagogisch personeel in het kader van taak- en functiedifferentiatie</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">de personeelsleden, ter beschikking gesteld in de categorieën van het paramedisch/medisch/psychologisch /sociaal/orthopedagogisch personeel in het kader van taak- en functiedifferentiatie</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">- wervingsambten van het ondersteunend personeel<br>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">- wervingsambten van het ondersteunend personeel<br>
 			- wervingsambten in het kader van taak- en functiedifferentiatie van het :<br>
 			- bestuurs- en onderwijzend personeel<br>
 			- psychologisch personeel<br>
@@ -808,6 +816,25 @@ De verplichting tot wedertewerkstelling geldt evenwel niet als aan een personeel
 			- orthopedagogisch personeel<br>
 			- medisch personeel</p>
 			</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>TERBESCHIKKINGSTELLING</td>
+			<td>WEDERTEWERKSTELLING</td>
+		</tr>
+		<tr>
+			<td>de personeelsleden die ter beschikking gesteld zijn in een pedagogische begeleidingsdienst in het ambt van adviseur-coördinator</td>
+			<td>- het ambt van pedagogisch adviseur - wervingsambten van het bestuurs- en onderwijzend personeel</td>
+		</tr>
+		<tr>
+			<td>de personeelsleden die ter beschikking gesteld zijn in een pedagogische begeleidingsdienst in het ambt van pedagogisch adviseur</td>
+			<td>- het ambt van adviseur-coördinator<br>
+			- wervingsambten van het bestuurs- en onderwijzend personeel</td>
 		</tr>
 	</tbody>
 </table>
@@ -831,7 +858,8 @@ Voor de toepassing van deze bepaling worden de perioden die gelijkgesteld zijn m
 4° 25 jaar voor de leden van het bestuurs- en onderwijzend personeel die een wervingsambt bekleden op hoger secundair niveau in het deeltijds kunstonderwijs en voor het psychologisch, het medisch en het orthopedagogisch personeel;<br>
 5° 24 jaar voor de leden van het bestuurs- en onderwijzend personeel in het secundair onderwijs en het volwassenenonderwijs;<br>
 6° 23 jaar voor de leden van het technisch personeel die een ambt van maatschappelijk werker, paramedisch werker, of psycho-pedagogisch werker bekleden;<br>
-7° 25 jaar voor de leden van het technisch personeel die een ambt van arts, consulent of psycho-pedagogisch consulent of die een ambt in het bestuurs- en onderwijzend personeel in de centra bekleden.
+7° 25 jaar voor de leden van het technisch personeel die een ambt van arts, consulent of psycho-pedagogisch consulent of die een ambt in het bestuurs- en onderwijzend personeel in de centra bekleden.<br>
+8° 24 jaar voor de leden van een pedagogische begeleidingsdienst die een ambt van pedagogisch adviseur of van adviseur-coördinator bekleden.
 
 ## [HOOFDSTUK VBIS DE REAFFECTATIECOMMISSIE VAN DE SCHOLENGEMEENSCHAP (ing. B.V.R. 31 augustus 1999, art. 16)]
 
@@ -1087,7 +1115,8 @@ b) in het gesubsidieerd officieel onderwijs diegene ter beschikking gesteld met 
 - in de instelling waar de vermindering van prestaties zich voordoet of<br>
 - in het geheel van de instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert.<br>
 Eens de keuze gemaakt is geldt die voor een periode van zes jaar voor alle personeelsleden in alle categorieën of voor de lopende of aanvangende legislatuur.<br>
-6° In de centra wordt in het centrum en in het ambt waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft, rekening houdend met artikel 2, § 14.
+6° In de centra wordt in het centrum en in het ambt waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft, rekening houdend met artikel 2, § 14.<br>
+7° In de pedagogische begeleidingsdiensten wordt onder de personeelsleden die "hetzelfde ambt" uitoefenen, in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft.
 
 ### ART. 23.
 
@@ -1118,7 +1147,36 @@ De personeelsleden die ter beschikking gesteld worden wegens ontstentenis van be
 
 ### ART. 25.
 
-§ 1. De inrichtende macht is verplicht om jaarlijks de hierna vermelde   gegevens van de personeelsleden die wegens ontstentenis van betrekking ter   beschikking gesteld zijn of worden aan de bevoegde diensten van het Ministerie   van Onderwijs en Vorming mede te delen met vermelding van:<BR>- de naam en de   voornaam;<BR>- de geboortedatum;<BR>- de dienstanciënniteit;<BR>- de   bekwaamheidsbewijzen;<BR>- het ambt waarin betrokkene ter beschikking gesteld is   of wordt met vermelding van het aantal uren.<BR><BR>Bij deze mededeling wordt   het verzoek gevoegd van het terbeschikkinggestelde personeelslid tot toekenning   van een wachtgeld of wachtgeldtoelage, alsmede een verklaring dat hij onder de   voorwaarden van dit besluit wil worden gereaffecteerd of wedertewerkgesteld.   Indien geen wachtgeld of wachtgeldtoelage wordt aangevraagd of bij een   laattijdige aanvraag wordt geen wachtgeld of wachtgeldtoelage   toegekend.<BR><BR>Als het personeelslid een professionaliseringstraject volgt   als vermeld in artikel 47quinquies, voegt de inrichtende macht dat ook toe aan   de mededeling. Als het personeelslid het voormelde professionaliseringstraject   voortijdig beëindigt, deelt de inrichtende macht dat onmiddellijk mee aan de   bevoegde diensten van het Vlaamse Ministerie van Onderwijs en Vorming.<BR><BR>§   2. De gegevens, de aanvraag van wachtgeld of wachtgeldtoelage en de verklaring   van het personeelslid worden meegedeeld voor de hierna vermelde data:<BR>1. Het   basisonderwijs: na 1 juli en vóór 15 augustus. In afwijking hiervan op de vijfde   werkdag van oktober voor de scholen die eerste schooldag van oktober als teldag   hebben; <BR>2. ... <BR>3. ... <BR>4. ... <BR>5. Het gewoon secundair onderwijs:   vanaf 1 juli en vóór de vijftiende september. In afwijking hiervan op de vijfde   werkdag van oktober voor scholen die 1 oktober als teldag hebben. <BR>6. Het   volwassenenonderwijs vóór de vijftiende oktober;<BR>7. Het buitengewoon   secundair onderwijs: vóór de vijftiende september. In afwijking hiervan op de   vijfde werkdag van oktober voor scholen die 1 oktober als teldag hebben. <BR>8.   Het deeltijds kunstonderwijs: vóór de vijftiende oktober;<BR>9. ... <BR>10. De   internaten en semi-internaten: vóór de tiende werkdag van oktober;<BR>11. In de   centra: vanaf 1 juli en vóór de vijftiende september.<BR><BR><BR>§ 3. Geen   enkele beslissing van terbeschikkingstelling van de inrichtende macht en   aanvraag en verklaring van het personeelslid kan worden aanvaard ingeval zij na   de gestelde datum wordt medegedeeld.<BR><BR>In uitzonderlijke omstandigheden kan   nochtans de Vlaamse minister, bevoegd voor het Onderwijs of zijn afgevaardigde   hierop, op behoorlijk gemotiveerde aanvraag, afwijking verlenen.<BR><BR>§ 4. Bij   de aanvang van een terbeschikkingstelling wegens ontstentenis van betrekking   overeenkomstig artikel 23, § 2 of § 3, moeten in afwijking van § 2 hiervoor, de   gegevens en de aanvraag om wachtgeld of wachtgeldtoelage, zoals bepaald in § 1   hiervoor, ingediend worden binnen de 10 werkdagen na de ingangsdatum   ervan.
+§ 1. De inrichtende macht is verplicht om jaarlijks de hierna vermelde gegevens van de personeelsleden die wegens ontstentenis van betrekking ter beschikking gesteld zijn of worden aan de bevoegde diensten van het Ministerie van Onderwijs en Vorming mede te delen met vermelding van:<br>
+- de naam en de voornaam;<br>
+- de geboortedatum;<br>
+- de dienstanciënniteit;<br>
+- de bekwaamheidsbewijzen;<br>
+- het ambt waarin betrokkene ter beschikking gesteld is of wordt met vermelding van het aantal uren.<br>
+<br>
+Bij deze mededeling wordt het verzoek gevoegd van het terbeschikkinggestelde personeelslid tot toekenning van een wachtgeld of wachtgeldtoelage, alsmede een verklaring dat hij onder de voorwaarden van dit besluit wil worden gereaffecteerd of wedertewerkgesteld. Indien geen wachtgeld of wachtgeldtoelage wordt aangevraagd of bij een laattijdige aanvraag wordt geen wachtgeld of wachtgeldtoelage toegekend.<br>
+<br>
+Als het personeelslid een professionaliseringstraject volgt als vermeld in artikel 47quinquies, voegt de inrichtende macht dat ook toe aan de mededeling. Als het personeelslid het voormelde professionaliseringstraject voortijdig beëindigt, deelt de inrichtende macht dat onmiddellijk mee aan de bevoegde diensten van het Vlaamse Ministerie van Onderwijs en Vorming.<br>
+<br>
+§ 2. De gegevens, de aanvraag van wachtgeld of wachtgeldtoelage en de verklaring van het personeelslid worden meegedeeld voor de hierna vermelde data:<br>
+1. Het basisonderwijs: na 1 juli en vóór 15 augustus. In afwijking hiervan op de vijfde werkdag van oktober voor de scholen die eerste schooldag van oktober als teldag hebben;<br>
+2. ...<br>
+3. ...<br>
+4. ...<br>
+5. Het gewoon secundair onderwijs: vanaf 1 juli en vóór de vijftiende september. In afwijking hiervan op de vijfde werkdag van oktober voor scholen die 1 oktober als teldag hebben.<br>
+6. Het volwassenenonderwijs vóór de vijftiende oktober;<br>
+7. Het buitengewoon secundair onderwijs: vóór de vijftiende september. In afwijking hiervan op de vijfde werkdag van oktober voor scholen die 1 oktober als teldag hebben.<br>
+8. Het deeltijds kunstonderwijs: vóór de vijftiende oktober;<br>
+9. ...<br>
+10. De internaten en semi-internaten: vóór de tiende werkdag van oktober;<br>
+11. In de centra: vanaf 1 juli en vóór de vijftiende september.<br>
+12. In de pedagogische begeleidingsdiensten: vanaf 1 juli en voor 15 september.<br>
+<br>
+§ 3. Geen enkele beslissing van terbeschikkingstelling van de inrichtende macht en aanvraag en verklaring van het personeelslid kan worden aanvaard ingeval zij na de gestelde datum wordt medegedeeld.<br>
+<br>
+In uitzonderlijke omstandigheden kan nochtans de Vlaamse minister, bevoegd voor het Onderwijs of zijn afgevaardigde hierop, op behoorlijk gemotiveerde aanvraag, afwijking verlenen.<br>
+<br>
+§ 4. Bij de aanvang van een terbeschikkingstelling wegens ontstentenis van betrekking overeenkomstig artikel 23, § 2 of § 3, moeten in afwijking van § 2 hiervoor, de gegevens en de aanvraag om wachtgeld of wachtgeldtoelage, zoals bepaald in § 1 hiervoor, ingediend worden binnen de 10 werkdagen na de ingangsdatum ervan.
 
 ## AFDELING 2 MELDING VAN DE NOG NIET GEREAFFECTEERDE OF NIET WEDERTEWERKGE-STELDE PERSONEELSLEDEN EN VAN DE VACATURES VOOR DE WERKING VAN DE REAFFECTATIECOMMISSIES
 
@@ -1182,11 +1240,13 @@ c) voor het deeltijds kunstonderwijs en het volwassenenonderwijs voor de vijfde 
 <br>
 d) voor de centra in de periode vanaf 1 augustus en in ieder geval voor 20 september.<br>
 <br>
+e) voor de pedagogische begeleidingsdiensten: in de periode vanaf 1 augustus en in ieder geval voor 15 september.<br>
+<br>
 § 5. De voorzitter van de bevoegde reaffectatiecommissie levert een ondertekend en gedateerd document af, dat in de in-stelling bewaard wordt en dat geldt als bewijs voor het tijdig indienen aan de bevoegde reaffectatiecommissie van de in § 2 en § 3 vermelde gegevens.<br>
 <br>
-§ 6. De inrichtende macht van in § 1 vermelde instellingen van het gemeenschapsonderwijs moet de in § 2 en § 3 vermelde gegevens meedelen aan de voorzitter van de reaffectatiecommissie van de scholengroep.<br>
+§ 6. De inrichtende macht van de instellingen van het gemeenschapsonderwijs, vermeld in paragraaf 1, met uitzondering van de pedagogische begeleidingsdienst, deelt de gegevens, vermeld in paragraaf 2 en 3, mee aan de voorzitter van de reaffectatiecommissie van de scholengroep.<br>
 <br>
-De inrichtende macht van in § 1 vermelde instellingen van het gesubsidieerd onderwijs moet de in § 2 en § 3 vermelde gegevens meedelen aan de voorzitter van de Vlaamse reaffectatiecommissie.
+De inrichtende macht van instellingen van het gesubsidieerd onderwijs, vermeld in paragraaf 1, en van de pedagogische begeleidingsdienst van het gemeenschapsonderwijs deelt de gegevens, vermeld in paragraaf 2 en 3, mee aan de voorzitter van de Vlaamse reaffectatiecommissie.
 
 ### ART. 25quater.
 
@@ -1710,6 +1770,25 @@ Het eerste lid is niet van toepassing op het personeelslid dat een professionali
 
 ## [HOOFDSTUK Vbis. DE PEDAGOGISCHE BEGELEIDINGSDIENST (ing. BVR 17 juli 2020, art. 19, I: 1 juni 2021)]
 
+### ART 40bis.
+
+§ 1. Elke inrichtende macht is in de volgende volgorde:<br>
+1° verplicht om de personeelsleden die bij haar ter beschikking gesteld zijn in "hetzelfde ambt", in dienst te nemen bij wijze van reaffectatie. Die verplichting is beperkt tot de prestaties waarvoor de terbeschikkingstelling is uitgesproken. Daarbij wordt het personeelslid met de grootste dienstanciënniteit eerst in dienst geroepen. Bij gelijke dienstanciënniteit heeft het personeelslid met de grootste ambtsanciënniteit voorrang;<br>
+2° verplicht om de personeelsleden die bij haar ter beschikking zijn gesteld, bij wijze van wedertewerkstelling in dienst te nemen;<br>
+3° verplicht om personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. Die verplichting geldt niet als de betrekking die moet worden toegewezen, een betrekking van adviseur-coördinator is, op voorwaarde dat de inrichtende macht de betrekking aan een van haar personeelsleden toewijst;<br>
+4° onverminderd de bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, respectievelijk het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991, in de volgende volgorde:<br>
+a) vrij om een mutatie door te voeren;<br>
+b) vrij om een ter beschikking gesteld personeelslid in dienst te nemen;<br>
+c) vrij om een personeelslid aan te stellen dat voldoet aan de voorwaarden, vermeld in artikel 2, § 2, 5°.<br>
+<br>
+§ 2. Als de inrichtende macht voldoet aan de verplichtingen, vermeld in paragraaf 1, kan de inrichtende macht een salaris of salaristoelage krijgen voor een tijdelijk personeelslid dat een betrekking bekleedt die vatbaar is voor reaffectatie of wedertewerkstelling, op voorwaarde dat de betrekking aangegeven is conform de procedure die daarvoor is voorgeschreven. Dat salaris of die salaristoelage wordt verstrekt tot de ingangsdatum van de reaffectatie of wedertewerkstelling.<br>
+<br>
+Als een ter beschikking gesteld personeelslid wordt toegewezen, neemt de inrichtende macht het personeelslid in dienst.<br>
+<br>
+§ 3. De personeelsleden die ter beschikking gesteld zijn wegens ontstentenis van betrekking en die een andere vorm van terbeschikkingstelling hebben of van een verlof of een afwezigheid gebruik maken, moeten, zelfs als ze niet onmiddellijk beschikbaar zijn, gereaffecteerd of wedertewerkgesteld worden.<br>
+<br>
+Het eerste lid is niet van toepassing op het personeelslid dat een professionaliseringstraject volgt als vermeld in artikel 47quinquies.
+
 ## [HOOFDSTUK Vter. DE ONDERWIJSINTERNATEN (ing. BVR 14 juli 2023, art. 16, I: 1 september 2023)]
 
 ## [HOOFDSTUK Vquater. DE LEERSTEUNCENTRA (ing. BVR 14 juli 2023, art. 16, I: 1 september 2023)]
@@ -1851,7 +1930,7 @@ Bij het begin van elk schooljaar kan het personeelslid die keuze wijzigen als he
 
 § 1. Na toepassing van de procedure, vermeld in titel IV van dit besluit, kunnen vastbenoemde personeelsleden die geheel of gedeeltelijk ter beschikking gesteld zijn wegens ontstentenis van betrekking en voor wie geen reaffectatie of wedertewerkstelling mogelijk is, toegewezen worden in een niet-organieke betrekking als ondersteuning van een scholengemeenschap of van een instelling die niet behoort tot een scholengemeenschap. Die toewijzing wordt toegekend door de Vlaamse reaffectatiecommissie op basis van de volgende criteria:<br>
 1° de personeelsleden kunnen alleen toegewezen worden onder de voorwaarden, vermeld in artikel 45, 1° ;<br>
-2° de ter beschikking gestelde personeelsleden worden toegewezen in het ambt van terbeschikkingstelling en in het onderwijsniveau waar ze ter beschikking gesteld zijn wegens ontstentenis van betrekking, tenzij alle betrokken partijen akkoord gaan met een toewijzing in een ander onderwijsniveau;<br>
+2° de ter beschikking gestelde personeelsleden worden toegewezen in het ambt van terbeschikkingstelling en in het onderwijsniveau waar ze ter beschikking gesteld zijn wegens ontstentenis van betrekking, tenzij alle betrokken partijen akkoord gaan met een toewijzing in een ander onderwijsniveau; Deze bepaling geldt niet voor de ter beschikking gestelde personeelsleden van een pedagogische begeleidingsdienst. Die personeelsleden worden in het ambt van terbeschikkingstelling toegewezen aan een scholengemeenschap of aan een instelling die niet tot een scholengemeenschap behoort;<br>
 3° een personeelslid dat niet toegewezen wordt aan een scholengemeenschap, kan maar in één instelling worden tewerkgesteld. In onderling akkoord kan daarvan worden afgeweken.<br>
 <br>
 Als het personeelslid toegewezen wordt als ondersteuning aan een scholengemeenschap, worden in de reaffectatiecommissie van de scholengemeenschap voorstellen besproken over die ondersteuning. Daarbij gelden de volgende principes:<br>
@@ -1859,11 +1938,13 @@ Als het personeelslid toegewezen wordt als ondersteuning aan een scholengemeensc
 2° het personeelslid dat op basis van die voorstellen een betrekking toegewezen krijgt die als "hetzelfde ambt" kan worden beschouwd, is verplicht die betrekking te aanvaarden;<br>
 3° als een toewijzing in "hetzelfde ambt" niet mogelijk is, kan de reaffectatiecommissie van de scholengemeenschap aan het personeelslid een betrekking in dezelfde categorie toewijzen die niet als "hetzelfde ambt" kan worden beschouwd. Het personeelslid kan die toewijzing weigeren. In dat geval wordt het door de reaffectatiecommissie tewerkgesteld als administratieve ondersteuning van de scholengemeenschap met de daarbij horende prestatie- en vakantieregeling.<br>
 4° de scholengemeenschap kan in onderling akkoord met het betrokken personeelslid ook een professionaliseringstraject afspreken als vermeld in artikel 47quater.<br>
+5° als het gaat om een personeelslid van een pedagogische begeleidingsdienst, bepaalt de scholengemeenschap de voorstellen tot ondersteuning op basis van de behoeften op de klasvloer van haar scholen. Ze houdt daarbij maximaal rekening met het bekwaamheidsbewijs van het personeelslid.<br>
 <br>
 Als het personeelslid toegewezen wordt als ondersteuning van een instelling die niet tot een scholengemeenschap behoort, doet de inrichtende macht van die instelling aan het personeelslid een voorstel. Daarbij gelden de volgende principes:<br>
 1° het personeelslid dat op basis van dat voorstel een betrekking toegewezen krijgt die als "hetzelfde ambt" kan worden beschouwd, is verplicht die betrekking te aanvaarden;<br>
 2° als een toewijzing in "hetzelfde ambt" niet mogelijk is, kan de inrichtende macht aan het personeelslid een betrekking in dezelfde categorie toewijzen die niet als "hetzelfde ambt" kan worden beschouwd. Het personeelslid kan die toewijzing weigeren. In dat geval wordt het door de inrichtende macht tewerkgesteld als administratieve ondersteuning van de instelling met de daarbij horende prestatie- en vakantieregeling.<br>
 3° de inrichtende macht van de instelling waar het personeelslid is toegewezen, kan in onderling akkoord met het betrokken personeelslid ook een professionaliseringstraject afspreken als vermeld in artikel 47quater.<br>
+4° als het gaat om een personeelslid van een pedagogische begeleidingsdienst, bepaalt de inrichtende macht de voorstellen tot ondersteuning op basis van de behoeften op de klasvloer van haar scholen. Ze houdt daarbij maximaal rekening met het bekwaamheidsbewijs van het personeelslid.<br>
 <br>
 § 2. De personeelsleden die al als administratieve hulp in het basisonderwijs werden tewerkgesteld voor 1 september 2003 of als administratieve ondersteuning werden toegewezen aan een scholengemeenschap in het basisonderwijs voor 1 september 2008, blijven tewerkgesteld in deze functie in afwachting van een eventuele nieuwe toewijzing door de Vlaamse reaffectatiecommissie.<br>
 <br>
