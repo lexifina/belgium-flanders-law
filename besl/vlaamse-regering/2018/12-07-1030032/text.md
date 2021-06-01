@@ -126,7 +126,7 @@ Voor het kind bij wie de gevolgen van de aandoening waaruit de specifieke onders
 1° het kind voldoet aan de voorwaarden, vermeld in artikel 16, § 1, van het decreet van 27 april 2018;<br>
 2° de specifieke ondersteuningsbehoefte, vermeld in artikel 16, § 1 van het decreet van 27 april 2018, is begonnen toen het kind nog rechtgevend was op gezinsbijslagen als vermeld in artikel 8, § 2, van het decreet van 27 april 2018;<br>
 3° het kind oefent geen winstgevende activiteit uit met uitzondering van de winstgevende activiteit die voldoet aan de voorwaarden, vermeld in artikel 14 van het besluit van de Vlaamse Regering van 5 oktober 2018 tot vaststelling van de diverse hoedanigheden van het rechtgevende kind en betreffende de vrijstellingen van de toekenningsvoorwaarden voor de gezinsbijslagen en de startbedragen geboorte en adoptie en de universele participatietoeslagen.<br>
-4° het kind ontvangt geen sociale uitkering als vermeld in artikel 14 van het voormelde besluit.
+4° het kind ontvangt geen sociale uitkering of een inkomensvervangende tegemoetkoming of integratietegemoetkoming als vermeld in artikel 14, § 2, tweede lid, van het voormelde besluit.
 
 ### ART 9.
 
