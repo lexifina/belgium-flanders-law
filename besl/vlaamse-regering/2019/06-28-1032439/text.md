@@ -65,6 +65,7 @@ Besluit :
 In dit besluit wordt verstaan onder:<br>
 1° administrateur-generaal: het hoofd van het agentschap;<br>
 2° agentschap: het intern verzelfstandigd agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+2° /1 BelRAI: BelRAI, vermeld in artikel 2, 5° van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 3° kernactor van het geïntegreerd breed onthaal: een kernactor als vermeld in artikel 1, 5°, van het besluit van de Vlaamse Regering van 30 november 2018 betreffende het lokaal sociaal beleid, vermeld in artikels 2, 9 tot en met 11, 17, 19 en 26 van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid;<br>
 4° kwetsbare personen: personen die om een of andere reden niet zelfredzaam zijn en daardoor onvoldoende kunnen participeren op een of meerdere levensdomeinen. Het kan gaan om mensen met een beperking, chronisch zieken, ouderen, jongeren met gedrags- en emotionele problemen, mensen die in armoede leven, enz., maar ook minder gekende groepen zoals mensen zonder papieren, recent erkende vluchtelingen, gedetineerden, ex-gedetineerden, ROM-zigeuners, allochtone mantelzorgers, radicaliserende jongeren, deradicaliserende jongeren, ... ;<br>
 5° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen, of de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
@@ -1087,9 +1088,9 @@ f)&nbsp;de zorg voor veiligheid en hygiëne in de woning;12° kraamzorg: de zorg
 
 <p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Het begeleidend personeel van de dienst verricht jaarlijks een sociaal onderzoek in het natuurlijk thuismilieu van de gebruiker. Als aan de gebruiker uitsluitend schoonmaakhulp, karweihulp of oppashulp wordt verleend, wordt het sociaal onderzoek tweejaarlijks verricht. Als aan de gebruiker uitsluitend gezinszorg aangeboden wordt in een centrum voor dagopvang, kan het sociaal onderzoek ook in dat centrum verricht worden.</span></span><br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. Als onderdeel van het sociaal onderzoek, vermeld in paragraaf 1, evalueert en objectiveert de dienst, behalve bij kraamzorg, het zelfzorgvermogen van de gebruiker op het vlak van gezinszorg conform artikel 63, §2, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.</span></span><br>
+<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. Als onderdeel van het sociaal onderzoek, vermeld in paragraaf 1, evalueert en objectiveert de dienst, behalve bij kraamzorg, het zelfzorgvermogen van de gebruiker op het vlak van gezinszorg.</span></span><br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het zelfzorgvermogen van de gebruiker wordt ter uitvoering van artikel 12, §1, derde lid, 2°, van het Woonzorgdecreet van 15 februari 2019 vastgesteld aan de hand van de BelRAI screener en de sociale module, eventueel aangevuld, ter uitvoering van artikel 12, §1, eerste lid, 5°, van het Woonzorgdecreet van 15 februari 2019, met de meest aangewezen BelRAI-instrumenten, waaronder de BelRAI Home Care.</span></span><br>
+<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het zelfzorgvermogen van de gebruiker wordt ter uitvoering van artikel 12, §1, derde lid, 2°, van het Woonzorgdecreet van 15 februari 2019 vastgesteld aan de hand van de BelRAI screener en het Sociaal Supplement, eventueel aangevuld, ter uitvoering van artikel 12, §1, eerste lid, 5°, van het Woonzorgdecreet van 15 februari 2019, met de meest aangewezen BelRAI-instrumenten, waaronder de BelRAI Home Care.</span></span><br>
 <br>
 <span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als er al een actuele evaluatie en objectivering van het zelfzorgvermogen van de gebruiker aan de hand van de instrumenten, vermeld in het tweede lid, ter beschikking zijn, worden die gebruikt, tenzij de situatie van de gebruiker intussen gewijzigd is.</span></span><br>
 <br>
@@ -2484,7 +2485,7 @@ Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het
 
 ### ART 10.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als het zelfzorgvermogen van de gebruiker moet worden vastgesteld ter uitvoering van artikel 20, §1, eerste lid, 3°, a), van het Woonzorgdecreet van 15 februari 2019, gebeurt dat aan de hand van de BelRAI screener, eventueel aangevuld, ter uitvoering van artikel 20, §1, eerste lid, 2°, a), b), en c), van het Woonzorgdecreet van 15 februari 2019, met de meest aangewezen BelRAI-instrumenten, waaronder de BelRAI Home Care en de sociale module. </span></span><br>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als het zelfzorgvermogen van de gebruiker moet worden vastgesteld ter uitvoering van artikel 20, §1, eerste lid, 3°, a), van het Woonzorgdecreet van 15 februari 2019, gebeurt dat aan de hand van de BelRAI screener, eventueel aangevuld, ter uitvoering van artikel 20, §1, eerste lid, 2°, a), b), en c), van het Woonzorgdecreet van 15 februari 2019, met de meest aangewezen BelRAI-instrumenten, waaronder de BelRAI Home Care en het Sociaal Supplement. </span></span><br>
 <br>
 <span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als er al een actuele evaluatie en objectivering van het zelfzorgvermogen van de gebruiker aan de hand van de instrumenten, vermeld in het eerste lid, ter beschikking zijn, worden die gebruikt, tenzij de situatie van de gebruiker intussen gewijzigd is.</span></span><br>
 <br>
@@ -3196,6 +3197,10 @@ h)&nbsp;het medicatieschema met de redenen om een geneesmiddel op te starten, te
 <span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de gebruiker of zijn vertegenwoordiger kan altijd inzage vragen in dat deel van het gebruikersdossier inzien dat hem rechtstreeks aanbelangt. Hij kan zelf gegevens noteren op een daarvoor vastgestelde ruimte. Die gegevens kunnen aanzetten tot dialoog en tot aanpassing van het gebruikersdossier;</span></span></span></span><br>
 <span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;het gebruikersdossier en de individuele dossiers van de behandelaars worden bewaard met respect voor de privacy, zodat de personen die daarvoor bevoegd zijn, er toegang toe hebben.</span></span></span></span>
 
+### ART 22/1.
+
+Voorafgaand aan het verblijf van een gebruiker gaat het centrum voor dagverzorging na of recent een BelRAI inschaling is afgenomen voor de gebruiker. Als dat niet het geval is, kan het centrum een BelRAI-screener afnemen of de bestaande aanpassen.
+
 ## Afdeling 3. Voorwaarden voor de organisatie en de werking
 
 ## Onderafdeling 1. De organisatie van de zorg en ondersteuning
@@ -3776,7 +3781,7 @@ De subsidiedossiers van het werkingsjaar 2019 en de voorgaande jaren worden verd
 
 ### ART 8.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Voorafgaand aan het verblijf van een gebruiker gaat het centrum type 1 na of recent een BelRAI inschalingen is afgenomen voor de gebruiker. Als dat niet het geval is, kan het centrum type 1 een BelRAI-screener afnemen of de bestaande aanpassen. </span></span></p>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Voorafgaand aan het verblijf van een gebruiker gaat het centrum type 1 na of recent een BelRAI inschaling is afgenomen voor de gebruiker. Als dat niet het geval is, kan het centrum type 1 een BelRAI-screener afnemen of de bestaande aanpassen. </span></span></p>
 
 ### ART 9.
 
@@ -5471,7 +5476,7 @@ Voorafgaande vergunningen voor groepen van assistentiewoningen die zijn verleend
 <p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">In deze bijlage wordt verstaan onder:</span></span></span><br>
 <span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;afdeling: een groep van woongelegenheden die als een organisatorisch geheel wordt beschouwd en een of meer leefgroepen kan omvatten;</span></span></span></span><br>
 <span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;beheersinstantie: één of meer personen die het woonzorgcentrum vertegenwoordigen en juridisch kunnen verbinden;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;BelRAI: een verzamelterm voor wetenschappelijk onderbouwde beoordelingsinstrumenten, gebaseerd op het internationale interRAI instrumentarium. Het gaat om gevalideerde beoordelingsinstrumenten om de gezondheids- en welzijnssituatie van gebruikers op een gestandaardiseerde en gestructureerde manier in beeld te brengen met als doel een hoogkwalitatieve zorgplanning en kwaliteitsmonitoring te realiseren;</span></span></span></span><br>
+<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;...;</span></span></span></span><br>
 <span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;bewoner: een gebruiker die in het woonzorgcentrum verblijft;</span></span></span></span><br>
 <span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;dagprijs: de prijs per dag die de bewoner of zijn vertegenwoordiger moet betaald worden en die minstens de kostprijselementen omvat voor huisvesting en verzorging van de bewoner, die beschouwd worden als deel van de normale activiteiten van een woonzorgcentrum;</span></span></span></span><br>
 <span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;interdisciplinair team: een team waarin verschillende zorg- en welzijns-georiënteerde disciplines samenwerken met het oog op een gezamenlijk doel, namelijk een kwaliteitsvolle zorg en ondersteuning van de bewoners. De kennis, de competenties en de perspectieven van de diverse disciplines zijn complementair aan elkaar. Ze hanteren daarbij dezelfde gemeenschappelijke taal en zorglogica;</span></span></span></span><br>
@@ -5796,7 +5801,7 @@ n)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de v
 
 ### ART 28.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Uiterlijk één maand na de opname van de bewoner wordt de zorgzwaarte van de bewoner vastgesteld aan de hand van het uniform, BelRAI-specifiek indicatiestellingsinstrument dat afgestemd is op de bewonersdoelgroep van een woonzorgcentrum. Dat instrument maakt integraal deel uit van het woonzorgleefplan, dat ingevuld, regelmatig geëvalueerd en, in voorkomend geval, bijgestuurd wordt.</span></span></span>
+<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Uiterlijk één maand na de opname van de bewoner wordt de zorgzwaarte van de bewoner vastgesteld aan de hand van de BelRAI LTCF. Dat instrument maakt integraal deel uit van het woonzorgleefplan, dat ingevuld, regelmatig geëvalueerd en, in voorkomend geval, bijgestuurd wordt.</span></span></span>
 
 ### ART 29.
 
@@ -6405,6 +6410,10 @@ In afwijking van het eerste lid kan het woonzorgcentrum of het gedeelte van het 
 ### ART 83.
 
 <span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">In afwijking van artikel 82 blijven de woonzorgcentra of de gedeelten van die woonzorgcentra waarvoor een erkennings- of omzettingskalender is verkregen aangemeld tot het kwartaal van de goedgekeurde erkennings- of omzettingskalender.</span></span></span>
+
+### ART 84.
+
+In afwijking van artikel 28 kan de zorgzwaarte van de bewoner tot 1 juni 2023 worden vastgesteld aan de hand van de Katz-schaal, vermeld in artikel 1, 31°, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.
 
 ## Bijlage 12. Verenigingen voor mantelzorgers en gebruikers
 
