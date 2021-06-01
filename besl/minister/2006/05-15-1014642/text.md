@@ -14,15 +14,22 @@ In de OVAM wordt als managementorgaan een directieraad opgericht.<br /><br />
 
 ### ART. 3.
 
-De directieraad is samengesteld uit :<br />1° de managementfunctie van N-Niveau;<br />2° de algemeen directeur;<br />3° de managementfuncties van N-1 niveau.<br />
+De directieraad is samengesteld uit :<br>
+1° de managementfunctie van N-Niveau;<br>
+2° de adjunct-directeur-generaal;<br>
+3° de managementfuncties van N-1 niveau.
 
 ### ART. 4.
 
-De directieraad stelt een huishoudelijk reglement op dat volgende elementen omvat :<br />1° wijze de samenroepen en agendering;<br />2° wijze van beraadslagen;<br />3° een vervangingsregeleling van afwezige leden.<br /><br />
+De directieraad stelt een huishoudelijk reglement op dat volgende elementen omvat :<br>
+1° de wijze van samenroepen en agendering;<br>
+2° de wijze van beraadslagen;<br>
+3° de vervangingsregeling van afwezige leden.<br>
+&nbsp;
 
 ### ART. 5.
 
-§ 1. De directieraad is bevoegd voor de taken die, door of krachtens het besluit van de Vlaamse Regering van 30 juni 2000 houdende de regeling van de rechtspositie van het personeel van sommige Vlaamse openbare instellingen, zoals het werd gewijzigd, aan haar waren opgedragen inzake de administratieve loopbaan of het geldelijk statuut van de personeelsleden.<br /><br />
+De directieraad is bevoegd voor de taken die het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid opdraagt aan het managementorgaan van de entiteit.
 
 ### ART. 6.
 
