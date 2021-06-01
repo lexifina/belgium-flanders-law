@@ -73,11 +73,11 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-Een totaal subsidiebedrag van maximaal 3.071.528 euro (drie miljoen eenenzeventig duizend vijfhonderdachtentwintig euro) wordt vanuit begrotingsartikel SJ0-1SMC2GA-WT toegekend aan de lokale besturen die in het kader van dit besluit bijkomende engagementen opnemen.<br>
+Een totaal subsidiebedrag van maximaal 6.046.534 (zes miljoen zesenveertigduizend vijfhonderdvierendertig) euro wordt vanuit begrotingsartikel SJ0-1SMC2GA-WT toegekend aan de lokale besturen die in het kader van dit besluit bijkomende engagementen opnemen.<br>
 <br>
-Deze subsidie is samengesteld uit een forfaitaire subsidie van maximaal 2.485.928 euro (twee miljoen vierhonderdvijfentachtigduizend negenhonderdachtentwintig euro) voor de opdrachten vermeld in artikel 5 en een variabele subsidie van maximaal 585.600,00 euro (vijfhonderdvijfentachtigduizend zeshonderd euro) voor de lokale besturen die additioneel inzetten op de opdrachten vermeld in artikel 6.<br>
+Deze subsidie is samengesteld uit een forfaitaire subsidie van maximaal 4.143.214 (vier miljoen honderddrieënveertigduizend tweehonderdveertien) euro voor de opdrachten vermeld in artikel 5 en een variabele subsidie van maximaal 1.903.320 (een miljoen negenhonderdendrieduizend driehonderdtwintig) euro voor de lokale besturen die additioneel inzetten op de opdrachten vermeld in artikel 6.<br>
 <br>
-Deze subsidie heeft betrekking op de periode van 1 april 2021 tot en met 30 juni 2021 voor de opdrachten vermeld in artikel 5 en op de periode van 1 april 2021 tot en met 31 mei 2021 voor de lokale besturen die additioneel inzetten op de opdrachten vermeld in artikel 6. Deze periode kan door de Vlaamse Regering maximaal tot en met 31 oktober 2021 verlengd worden of vroegtijdig beëindigd worden, onder meer na een evaluatie van de stand van zaken van de evolutie van de COVID-19-epidemie door de Vlaamse Regering.
+Deze subsidie heeft betrekking op de periode van 1 april 2021 tot en met 31 augustus 2021. Deze periode kan door de Vlaamse Regering maximaal tot en met 31 oktober 2021 verlengd worden of vroegtijdig beëindigd worden, onder meer na een evaluatie van de stand van zaken van de evolutie van de COVID-19-epidemie door de Vlaamse Regering.
 
 ### ART 3.
 
@@ -88,7 +88,7 @@ Deze subsidie heeft betrekking op de periode van 1 april 2021 tot en met 30 juni
 § 2. De lokale besturen die eerder onder toepassing van artikel 3, eerste lid van het besluit van de Vlaamse Regering van 13 november 2020 tot toekenning van een subsidie aan de lokale besturen om de contact- en bronopsporing ter bestrijding van de COVID-19-pandemie te versterken, zich geëngageerd hebben tot optie 1, kunnen zich alleen engageren voor de optie, vermeld in § 1, 1°.<br>
 <br>
 § 3. De lokale besturen die zich eerder onder toepassing van artikel 3, eerste lid van het besluit van de Vlaamse Regering van 13 november 2020 tot toekenning van een subsidie aan de lokale besturen om de contact- en bronopsporing ter bestrijding van de COVID-19-pandemie te versterken, geëngageerd hebben tot optie 2, kunnen, mits addendum conform artikel 10, 2° :<br>
-1° hun engagement voor de optie vermeld in § 1, 2°, verderzetten tot 31 mei, behoudens verlenging conform artikel 2. Na afloop van deze periode kunnen de lokale besturen zich engageren voor de optie vermeld in § 1, 1° ;<br>
+1° hun engagement voor de optie vermeld in § 1, 2°, verderzetten tot 31 augustus 2021, behoudens verlenging conform artikel 2;<br>
 2° zich engageren voor de optie, vermeld in § 1, 1°.<br>
 <br>
 § 4. De lokale besturen die nog niet eerder een engagement in de zin van artikel 3 van het besluit van de Vlaamse Regering van 13 november 2020 tot toekenning van een subsidie aan de lokale besturen om de contact- en bronopsporing ter bestrijding van de COVID-19-pandemie te versterken hebben opgenomen, kunnen zich alleen engageren voor de optie, vermeld in § 1, 1°.<br>
@@ -165,9 +165,10 @@ De lokale besturen voldoen aan de volgende voorwaarden om in aanmerking te komen
 1° de lokale besturen sluiten een samenwerkingsovereenkomst met het Agentschap Zorg en Gezondheid waarin wordt vermeld welke inspanningen door de lokale besturen in de uitvoering van dit besluit geleverd zullen worden. Deze samenwerkingsovereenkomst regelt minstens de volgende elementen:<br>
 a) het opgenomen engagement;<br>
 b) de concretisering van de taken die het lokaal bestuur binnen dit engagement zal opnemen;<br>
-c) de termijn van het engagement, die minstens één maand en maximaal drie opeenvolgende maanden bedraagt voor optie 1, vermeld in artikel 3, § 1, 1°, en minstens één maand en maximaal twee maanden voor optie 2, vermeld in artikel 3, § 1, 2°, tenzij verlengd conform artikel 2, derde lid;<br>
+c) de termijn van het engagement, die minstens één maand bedraagt voor optie 1 en optie 2;<br>
 d) de werkafspraken tussen de verschillende partners, zoals COVID-19-teams of centraal contactcenter;<br>
-2° voor lokale besturen die eerder een engagement hebben opgenomen in de zin van artikel 3 van het besluit van de Vlaamse Regering van 13 november 2020 tot toekenning van een subsidie aan de lokale besturen om de contact- en bronopsporing ter bestrijding van de COVID-19-pandemie te versterken, volstaat het insturen van een addendum aan de samenwerkingsovereenkomst zoals vermeld in artikel 10, 2° van het besluit van de Vlaamse Regering van 13 november 2020 tot toekenning van een subsidie aan de lokale besturen om de contacten bronopsporing ter bestrijding van de COVID-19-pandemie te versterken.<br>
+2° voor lokale besturen die eerder een engagement hebben opgenomen in de zin van artikel 3 van het besluit van de Vlaamse Regering van 13 november 2020 tot toekenning van een subsidie aan de lokale besturen om de contact- en bronopsporing ter bestrijding van de COVID-19-pandemie te versterken, volstaat het insturen van een addendum aan de samenwerkingsovereenkomst zoals vermeld in artikel 10, 2° van het besluit van de Vlaamse Regering van 13 november 2020 tot toekenning van een subsidie aan de lokale besturen om de contacten bronopsporing ter bestrijding van de COVID-19-pandemie te versterken;<br>
+2° /1 De besturen die een samenwerkingsovereenkomst of addendum hebben afgesloten tot 30 juni 2021 voor optie 1 of tot 31 mei 2021 voor optie 2, kunnen deze overeenkomsten bestendigen tot 31 augustus 2021 door het insturen van een nieuw addendum. De lokale besturen sturen deze bestendiging digitaal in;<br>
 3° De lokale besturen en de COVID-19-teams maken taakafspraken zodat deze op efficiënte en kwaliteitsvolle wijze worden uitgevoerd;<br>
 4° Afhankelijk van de aard van de taken zoals bepaald in artikelen 5 en 6 sluiten de lokale besturen een verwerkersovereenkomst en/of protocol met het Agentschap Zorg en Gezondheid;<br>
 5° De lokale besturen die zich verenigd hebben, bestendigen hun gezamenlijke overeenkomst en afsprakenkader.
@@ -181,8 +182,8 @@ De variabele subsidie vermeld in artikel 2, bedraagt voor de lokale besturen die
 Het in aanmerking te nemen inwonersaantal, vermeld in het eerste lid, is het bevolkingsaantal zoals bekendgemaakt in het Belgisch Staatsblad van 27 juli 2020.<br>
 <br>
 § 2. De subsidie wordt uitbetaald:<br>
-1° uiterlijk op 31 juli 2021: een voorschot van 80% van de forfaitaire subsidie, na het digitaal indienen, op uiterlijk 30 april 2021, bij het Agentschap Binnenlands Bestuur, van de ondertekende samenwerkingsovereenkomst, vermeld in artikel 10, eerste lid, 1°, of de addenda, vermeld in artikel 10, eerste lid, 2° ;<br>
-2° uiterlijk vijf maanden na afloop van het project: het saldo van 20% van de forfaitaire subsidie en 100% van de variabele subsidie, als het lokaal bestuur, op uiterlijk 1 september 2021, het evaluatieverslag heeft ingediend waarbij de uitvoering van de engagementen vervat in de samenwerkingsovereenkomst wordt geëvalueerd en de bijkomende inzet wordt gemotiveerd voor de forfaitaire subsidie.<br>
+1° uiterlijk op 31 augustus 2021: een voorschot van 80% van de forfaitaire subsidie, na het digitaal indienen, op uiterlijk 31 mei 2021, bij het Agentschap Binnenlands Bestuur, van de ondertekende samenwerkingsovereenkomst, vermeld in artikel 10, eerste lid, 1°, of de addenda, vermeld in artikel 10, eerste lid, 2° ;<br>
+2° uiterlijk vijf maanden na afloop van het project: het saldo van 20% van de forfaitaire subsidie en 100% van de variabele subsidie, als het lokaal bestuur, op uiterlijk 31 oktober 2021, het evaluatieverslag heeft ingediend waarbij de uitvoering van de engagementen vervat in de samenwerkingsovereenkomst wordt geëvalueerd en de bijkomende inzet wordt gemotiveerd voor de forfaitaire subsidie.<br>
 <br>
 § 3. De volgende kosten zijn ten laste van de lokale besturen:<br>
 1° infrastructurele kosten;<br>
@@ -191,7 +192,7 @@ Het in aanmerking te nemen inwonersaantal, vermeld in het eerste lid, is het bev
 
 ### ART 12.
 
-Het lokaal bestuur dient uiterlijk op 1 september 2021 bij het Agentschap Binnenlands Bestuur een digitale aanvraag in voor het ontvangen van de subsidie.<br>
+Het lokaal bestuur dient uiterlijk op 31 oktober 2021 bij het Agentschap Binnenlands Bestuur een digitale aanvraag in voor het ontvangen van de subsidie.<br>
 <br>
 In de digitale aanvraag bezorgt het lokaal bestuur minstens de volgende informatie:<br>
 1° de identificatiegegevens van het lokaal bestuur;<br>

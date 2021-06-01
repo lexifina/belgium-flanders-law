@@ -2,16 +2,16 @@
   "codex_id": 1035543,
   "title": "Besluit van de Vlaamse Regering van 2021-04-23 tot toekenning van een subsidie aan de lokale besturen om de bronopsporing [... (opgeh. BVR 7 mei 2021, art. 1, I: 1 juni 2021)] en het contactonderzoek [... (opgeh. BVR 7 mei 2021, art. 1, I: 1 juni 2021)] ter bestrijding van de COVID-19-pandemie te versterken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035543/VolledigDocument?datum=2021-04-01",
-  "source_sha256": "e7832b9a2701ebfbe66e35c30810558860a766b0ee4742fc9e1b340404e78024",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035543/VolledigDocument?datum=2021-06-01",
+  "source_sha256": "3797214ebf0a1f9dd4d3d0641412ab2ef413b55b751a9e35beee5286ba726dc6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035543&param=informatie",
-  "as_of": "2021-04-01",
+  "as_of": "2021-06-01",
   "made": "2021-04-23",
   "gazette": "2021-05-12",
   "numac": 2021031467,
   "document_start": "2021-04-01",
   "document_end": null,
-  "in_force": "2021-04-01",
+  "in_force": "2021-06-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2021-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-06-01; future article versions excluded; article text as the API gives it"
 }
