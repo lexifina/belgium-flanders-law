@@ -27,9 +27,40 @@ Na beraadslaging,<br>
 Besluit :<br>
 &nbsp;
 
+### ART 1.
+
+Een werkopdracht van categorie 2 of 3 als vermeld in artikel 8, § 2, 3°, van het GIPOD-decreet van 4 april 2014 wordt uiterlijk drie weken vóór de geplande aanvang van de werkzaamheden ingegeven in het GIPOD.<br>
+<br>
+De termijn, vermeld in het eerste lid, is niet van toepassing als de werken betrekking hebben op:<br>
+1° dringende individuele klantaansluitingen van nutsvoorzieningen die binnen een termijn van drie weken moeten starten;<br>
+2° dringende herstellingen die binnen een termijn van drie weken moeten starten.<br>
+<br>
+In die gevallen wordt de werkopdracht onmiddellijk bij kennisneming van de geplande aanvang in het GIPOD ingegeven.<br>
+&nbsp;
+
+### ART 2.
+
+Elke andere geplande inname als vermeld in artikel 9, § 1, van het GIPOD-decreet van 4 april 2014 wordt uiterlijk twee weken vóór de geplande aanvang van de werkzaamheden ingegeven in het GIPOD. Als de inname een omleiding van het gemotoriseerde verkeer vereist, wordt die inname uiterlijk drie weken vóór de geplande aanvang ingegeven in het GIPOD.<br>
+<br>
+Als de gemeente niet tijdig kennis heeft van elke andere geplande inname als vermeld in artikel 9, § 1, van het GIPOD-decreet van 14 april 2014, wordt die andere geplande inname onmiddellijk bij kennisneming van de geplande aanvangsdatum in het GIPOD ingegeven.<br>
+&nbsp;
+
 ### ART 3.
 
 Een synergie als vermeld in artikel 11, § 3, van het GIPOD-decreet van 4 april 2014 wordt uiterlijk één maand vóór de geplande aanvangsdatum van de synergie in het GIPOD ingegeven.<br>
+&nbsp;
+
+### ART 4.
+
+§ 1. Elke omleiding als vermeld in artikel 12 van het GIPOD-decreet van 4 april 2014 wordt ofwel door de gemeente, ofwel door de natuurlijke persoon of rechtspersoon die de gemeente heeft aangewezen, ingegeven in het GIPOD. Het initiële voorstel van omleiding wordt uiterlijk drie weken vóór de geplande aanvang van de omleiding ingegeven.<br>
+<br>
+De termijn, vermeld in het eerste lid, is niet van toepassing als de geplande werkopdracht of andere inname die de omleiding veroorzaakt, niet bekend is binnen die termijn. In dat geval moet de omleiding onmiddellijk bij kennisneming van de veroorzakende geplande werkopdracht of andere inname worden ingegeven in het GIPOD.<br>
+§ 2. Minstens de volgende informatie over de aangevraagde omleiding moet worden ingegeven in het GIPOD:<br>
+1° het traject;<br>
+2° de richting;<br>
+3° de periode;<br>
+4° een beschrijving;<br>
+5° de weggebruikers die de omleiding moeten volgen.<br>
 &nbsp;
 
 ### ART 5.

@@ -2,16 +2,16 @@
   "codex_id": 1027794,
   "title": "Besluit van de Vlaamse Regering van 2016-12-09 houdende de uitvoering van het decreet van 4 april 2014 houdende de uitwisseling van informatie over een inname van het openbaar domein in het Vlaamse Gewest [en van het decreet van 10 november 2017 inzake maatregelen ter verlaging van de kosten voor de aanleg van elektronische communicatienetwerken met hoge snelheid en tot wijziging van diverse decreten]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027794/VolledigDocument?datum=2021-05-10",
-  "source_sha256": "da9239b27319e032011333f72eeeb75aba3b332bffec07c19000de4171502b46",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027794/VolledigDocument?datum=2021-06-01",
+  "source_sha256": "786feaf7ca492a1fc919eda821091b19255fcf2c7f47c26103004d4f5d885bae",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027794&param=informatie",
-  "as_of": "2021-05-10",
+  "as_of": "2021-06-01",
   "made": "2016-12-09",
   "gazette": "2017-01-27",
   "numac": 2017010315,
   "document_start": "2017-01-01",
   "document_end": null,
-  "in_force": "2021-05-10",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2021-05-10; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2021-06-01; future article versions excluded; article text as the API gives it"
 }
