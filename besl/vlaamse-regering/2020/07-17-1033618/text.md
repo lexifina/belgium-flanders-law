@@ -23,6 +23,10 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In artikel 1 van het besluit van de Vlaamse regering van 29 april 1992 betreffende de verdeling van de betrekkingen, de terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie, de wedertewerkstelling en de toekenning van een wachtgeld of wachtgeldtoelage, vervangen bij het besluit van de Vlaamse Regering van 28 mei 2010, worden de woorden "de personeelsleden van de pedagogische begeleidingsdiensten en de inrichtende machten die deze personeelsleden tewerkstellen en" opgeheven.
+
 ### ART 2.
 
 In artikel 2 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 15 februari 2019, worden de volgende wijzigingen aangebracht:<br>
@@ -39,6 +43,41 @@ In artikel 8, § 1, van hetzelfde besluit, het laatst gewijzigd bij het besluit 
 2° aan punt 4 wordt een punt 18° toegevoegd, dat luidt als volgt:<br>
 "18° Zang opera/muziektheater.".
 
+### ART 4.
+
+Aan titel I, hoofdstuk III, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 15 februari 2019, wordt een afdeling 8, die bestaat uit artikel 10bis, toegevoegd, die luidt als volgt:<br>
+<br>
+"Afdeling 8. De pedagogische begeleidingsdiensten<br>
+<br>
+Art. 10bis. Voor de pedagogische begeleidingsdiensten wordt "hetzelfde ambt" gedefinieerd als de ambten, vermeld in artikel 75 van het besluit van de Vlaamse Regering van 5 februari 2010 tot uitvoering van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs wat de rechtspositie van het personeel van de inspectie en de pedagogische begeleidingsdiensten betreft.".
+
+### ART 5.
+
+Aan artikel 11, § 2, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 15 februari 2019, wordt een tabel toegevoegd, die luidt als volgt:
+<table border="1" style="width:1000px">
+	<tbody>
+		<tr>
+			<td>TERBESCHIKKINGSTELLING</td>
+			<td>WEDERTEWERKSTELLING</td>
+		</tr>
+		<tr>
+			<td>de personeelsleden die ter beschikking gesteld zijn in een pedagogische begeleidingsdienst in het ambt van adviseur-coördinator</td>
+			<td>- het ambt van pedagogisch adviseur - wervingsambten van het bestuurs- en onderwijzend personeel</td>
+		</tr>
+		<tr>
+			<td>de personeelsleden die ter beschikking gesteld zijn in een pedagogische begeleidingsdienst in het ambt van pedagogisch adviseur</td>
+			<td>- het ambt van adviseur-coördinator<br>
+			- wervingsambten van het bestuurs- en onderwijzend personeel</td>
+		</tr>
+	</tbody>
+</table>
+".
+
+### ART 6.
+
+Aan artikel 12, § 3, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 31 augustus 1999 en gewijzigd bij de besluiten van de Vlaamse Regering van 5 december 2003, 17 oktober 2008 en 1 juni 2018, wordt een punt 8° toegevoegd, dat luidt als volgt:<br>
+"8° 24 jaar voor de leden van een pedagogische begeleidingsdienst die een ambt van pedagogisch adviseur of van adviseur-coördinator bekleden.".
+
 ### ART 7.
 
 In artikel 12bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 31 augustus 1999 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 1 juni 2018, worden de volgende wijzigingen aangebracht:<br>
@@ -54,12 +93,31 @@ In artikel 12bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 
 In artikel 12ter, § 2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 31 augustus 1999, vervangen bij het besluit van de Vlaamse Regering van 7 oktober 2011 en gewijzigd bij het besluit van de Vlaamse Regering van 24 oktober 2014, wordt in punt 1°, punt 2°, punt 3° en punt 4° telkens de zin "In tweede instantie worden de wedertewerkstellingen binnen dezelfde categorie gerealiseerd." vervangen door de zin "In tweede instantie worden de wedertewerkstellingen binnen dezelfde categorie gerealiseerd, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin de wedertewerkstellingen ook vanuit andere categorieën worden gerealiseerd.".
 
+### ART 9.
+
+Aan artikel 22, § 2, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 23 september 2005 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 15 februari 2019, wordt een punt 7° toegevoegd, dat luidt als volgt:<br>
+"7° In de pedagogische begeleidingsdiensten wordt onder de personeelsleden die "hetzelfde ambt" uitoefenen, in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft.".
+
+### ART 10.
+
+Aan artikel 25, § 2, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 12 juni 2015, wordt een punt 12 toegevoegd, dat luidt als volgt:<br>
+"12. In de pedagogische begeleidingsdiensten: vanaf 1 juli en voor 15 september.".
+
 ### ART 11.
 
 In artikel 25bis, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 31 augustus 1999 en vervangen bij het besluit van de Vlaamse Regering van 24 oktober 2014, worden de volgende wijzigingen aangebracht:<br>
 1° punt 2° wordt vervangen door wat volgt:<br>
 "2° die tot een scholengemeenschap behoren en in de loop van een zesjaarlijkse periode van de scholengemeenschap worden gesloten en niet worden betrokken bij een herstructurering;";<br>
 2° in punt 3° wordt de zinsnede "op of na 1 september 2014" opgeheven.
+
+### ART 12.
+
+In artikel 25ter van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 31 augustus 1999 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 1 juni 2018, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 4 wordt een punt e) toegevoegd, dat luidt als volgt:<br>
+"e) voor de pedagogische begeleidingsdiensten: in de periode vanaf 1 augustus en in ieder geval voor 15 september.";<br>
+2° paragraaf 6 wordt vervangen door wat volgt:<br>
+" § 6. De inrichtende macht van de instellingen van het gemeenschapsonderwijs, vermeld in paragraaf 1, met uitzondering van de pedagogische begeleidingsdienst, deelt de gegevens, vermeld in paragraaf 2 en 3, mee aan de voorzitter van de reaffectatiecommissie van de scholengroep.<br>
+De inrichtende macht van instellingen van het gesubsidieerd onderwijs, vermeld in paragraaf 1, en van de pedagogische begeleidingsdienst van het gemeenschapsonderwijs deelt de gegevens, vermeld in paragraaf 2 en 3, mee aan de voorzitter van de Vlaamse reaffectatiecommissie.".
 
 ### ART 13.
 
@@ -130,6 +188,29 @@ In artikel 39 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Re
 Aan artikel 40, § 4, van hetzelfde besluit, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 <br>
 "Het eerste lid is niet van toepassing op het personeelslid dat een professionaliseringstraject volgt als vermeld in artikel 47quinquies.".
+
+### ART 19.
+
+Aan titel IV van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 15 februari 2019, wordt een hoofdstuk Vbis, dat bestaat uit een artikel 40bis, toegevoegd, dat luidt als volgt:<br>
+<br>
+"HOOFDSTUK Vbis. De pedagogische begeleidingsdienst<br>
+<br>
+"Art. 40bis. § 1. Elke inrichtende macht is in de volgende volgorde:<br>
+1° verplicht om de personeelsleden die bij haar ter beschikking gesteld zijn in "hetzelfde ambt", in dienst te nemen bij wijze van reaffectatie. Die verplichting is beperkt tot de prestaties waarvoor de terbeschikkingstelling is uitgesproken. Daarbij wordt het personeelslid met de grootste dienstanciënniteit eerst in dienst geroepen. Bij gelijke dienstanciënniteit heeft het personeelslid met de grootste ambtsanciënniteit voorrang;<br>
+2° verplicht om de personeelsleden die bij haar ter beschikking zijn gesteld, bij wijze van wedertewerkstelling in dienst te nemen;<br>
+3° verplicht om personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. Die verplichting geldt niet als de betrekking die moet worden toegewezen, een betrekking van adviseur-coördinator is, op voorwaarde dat de inrichtende macht de betrekking aan een van haar personeelsleden toewijst;<br>
+4° onverminderd de bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, respectievelijk het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991, in de volgende volgorde:<br>
+a) vrij om een mutatie door te voeren;<br>
+b) vrij om een ter beschikking gesteld personeelslid in dienst te nemen;<br>
+c) vrij om een personeelslid aan te stellen dat voldoet aan de voorwaarden, vermeld in artikel 2, § 2, 5°.<br>
+<br>
+§ 2. Als de inrichtende macht voldoet aan de verplichtingen, vermeld in paragraaf 1, kan de inrichtende macht een salaris of salaristoelage krijgen voor een tijdelijk personeelslid dat een betrekking bekleedt die vatbaar is voor reaffectatie of wedertewerkstelling, op voorwaarde dat de betrekking aangegeven is conform de procedure die daarvoor is voorgeschreven. Dat salaris of die salaristoelage wordt verstrekt tot de ingangsdatum van de reaffectatie of wedertewerkstelling.<br>
+<br>
+Als een ter beschikking gesteld personeelslid wordt toegewezen, neemt de inrichtende macht het personeelslid in dienst.<br>
+<br>
+§ 3. De personeelsleden die ter beschikking gesteld zijn wegens ontstentenis van betrekking en die een andere vorm van terbeschikkingstelling hebben of van een verlof of een afwezigheid gebruik maken, moeten, zelfs als ze niet onmiddellijk beschikbaar zijn, gereaffecteerd of wedertewerkgesteld worden.<br>
+<br>
+Het eerste lid is niet van toepassing op het personeelslid dat een professionaliseringstraject volgt als vermeld in artikel 47quinquies.".
 
 ### ART 20.
 
