@@ -34,3 +34,31 @@ Dit artikel is van toepassing op de volgende personeelsleden:<br>
 5° de personeelsleden, vermeld in artikel III.35, § 1, 1° tot en met 3°, en artikel III.36, § 4, van de Codex Hoger Onderwijs van 11 oktober 2013, die effectief in een hogeschool zijn tewerkgesteld.<br>
 <br>
 Als de arbeidsarts oordeelt dat een personeelslid dat tot een risicogroep behoort en dat een vaccin weigert, weer in de school, de instelling of het centrum aan het werk kan, en het personeelslid het werk niet wil hervatten na die beslissing, dan moet het personeelslid een verlof of afwezigheid voor verminderde prestaties opnemen gedurende zijn afwezigheid.
+
+### ART 2.
+
+Tijdens het schooljaar 2020-2021 kunnen in de instellingen van het secundair onderwijs reguliere vervangingen als vermeld in artikel 22/2, 1°, van de Codex Secundair Onderwijs van 17 december 2010 worden toegestaan als de afwezigheid start op 1 juni 2021 of erna:<br>
+1° in een wervingsambt van het bestuurs- en onderwijzend personeel;<br>
+2° in een wervingsambt van het opvoedend hulppersoneel;<br>
+3° in een wervingsambt van het paramedisch personeel;<br>
+4° in een wervingsambt van het orthopedagogisch personeel;<br>
+5° in een wervingsambt van het psychologisch personeel;<br>
+6° in een wervingsambt van het medisch personeel;<br>
+7° in een wervingsambt van het sociaal personeel;<br>
+8° in het ambt van opvoeder van het ondersteunend personeel.<br>
+<br>
+Een vervanging als vermeld in het eerste lid eindigt uiterlijk op 30 juni 2021.
+
+### ART 3.
+
+Tijdens het schooljaar 2020-2021 kunnen in de centra voor volwassenenonderwijs reguliere vervangingen als vermeld in artikel 22/2, 1°, van de Codex Secundair Onderwijs van 17 december 2010 in een wervingsambt van het onderwijzend personeel worden toegestaan als de afwezigheid start op 1 juni 2021 of erna.<br>
+<br>
+Een vervanging als vermeld in het eerste lid eindigt uiterlijk op 30 juni 2021.
+
+### ART 4.
+
+Dit besluit heeft uitwerking met ingang van 1 juni 2021. Artikel 1 heeft uitwerking met ingang van 19 april 2021.
+
+### ART 5.
+
+De Vlaamse minister, bevoegd voor onderwijs en vorming, is belast met de uitvoering van dit besluit.
