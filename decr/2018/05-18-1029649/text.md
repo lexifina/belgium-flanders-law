@@ -951,7 +951,29 @@ Het bedrag, vermeld in het eerste lid, wordt met ingang van het door de Vlaamse 
 <br>
 § 4. De zorgkas kan de beslissing over de tegemoetkoming herzien als zich een wijziging voordoet in de toestand van de gebruiker. De Vlaamse Regering regelt de herzieningsprocedure.<br>
 <br>
-§ 5. De gebruiker of zijn vertegenwoordiger kan administratief beroep aantekenen tegen de beslissing van de zorgkas. De Vlaamse Regering regelt de administratieve beroepsprocedure. Ze kan een multidisciplinair samengestelde administratieve beroepscommissie oprichten of bepalen wie het administratief beroep behandelt. De Vlaamse Regering kan binnen die administratieve beroepscommissie verschillende kamers instellen. Ze kan presentiegelden en vergoedingen bepalen.
+§ 5. De gebruiker of zijn vertegenwoordiger kan administratief beroep aantekenen tegen de beslissing van de zorgkas. De Vlaamse Regering regelt de administratieve beroepsprocedure. Ze kan een multidisciplinair samengestelde administratieve beroepscommissie oprichten of bepalen wie het administratief beroep behandelt. De Vlaamse Regering kan binnen die administratieve beroepscommissie verschillende kamers instellen. Ze kan presentiegelden en vergoedingen bepalen.<br>
+<br>
+§ 6. Elke gebruiker die een administratief beroep indient, is een dossiertaks verschuldigd aan het agentschap op straffe van onontvankelijkheid van het beroep.<br>
+<br>
+De dossiertaks, vermeld in het eerste lid, bedraagt 75 euro.<br>
+<br>
+[... (vernietigd bij arrest Grondwettelijk Hof 2023/112 van 20 juli 2023)]<br>
+<br>
+In afwijking van het eerste lid zijn de volgende gebruikers vrijgesteld van de betaling van een dossiertaks:<br>
+1° de gebruiker die het voorwerp is van een collectieve schuldenregeling, die in staat van faillissement is verklaard of die door een gerechtsdeurwaarder insolvabel is verklaard;<br>
+2° de gebruiker die het voorwerp is van budgetbegeleiding of budgetbeheer door een Openbaar Centrum voor Maatschappelijk Welzijn of door een door de Vlaamse Gemeenschap erkende instelling voor schuldbemiddeling of van een minnelijke schuldbemiddeling, vermeld in artikel 519, § 2, 10°, van het Gerechtelijk Wetboek;<br>
+3° de gebruiker die of een lid van zijn gezin dat recht heeft op een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie;<br>
+4° de gebruiker die of een lid van zijn gezin dat recht heeft op een inkomensvervangende tegemoetkoming als vermeld in de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
+5° de gebruiker die of een lid van zijn gezin dat recht heeft op het minimumdagbedrag van de werkloosheidsuitkering als vermeld in het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering en waarbij het gezinsinkomen van de gebruiker alleen bestaat uit deze uitkering;<br>
+6° de gebruiker die of een lid van zijn gezin dat recht heeft op de inkomensgarantie voor ouderen als vermeld in de wet van 22 maart 2001 tot instelling van een inkomensgarantie voor ouderen<br>
+<br>
+<em>[Commentaar :&nbsp; het vierde lid werd vernietigd bij arrest Grondwettelijk Hof 2023/112 van 20 juli 2023 in zoverre die bepalingen niet voorzien in een volledige vrijstelling van de dossiertaks ten aanzien van rechthebbenden op een verhoogde tegemoetkoming krachtens artikel 37, § 19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, die niet tot de zes categorieën van volledig vrijgestelden behoren)]</em><br>
+<br>
+In de gevallen waarin het administratief beroep gegrond wordt verklaard, wordt de dossiertaks integraal teruggestort<br>
+<br>
+<em>[Commentaar:&nbsp; het vijfde lid werd vernietigd bij arrest Grondwettelijk Hof 2023/112 van 20 juli 2023 in zoverre het niet voorziet in de integrale terugbetaling van de dossiertaks indien de arbeidsrechtbank oordeelt dat in het kader van het administratief beroep ten onrechte werd geoordeeld dat de indiener van het beroep geen recht heeft op het gevraagde zorgbudget of de aanpassing ervan)]</em><br>
+<br>
+De Vlaamse Regering kan nadere regels inzake de dossiertaks bepalen.
 
 ### ART 81.
 
@@ -1048,7 +1070,29 @@ De Vlaamse Regering kan in afwijking van het eerste lid bepalen dat voor de gege
 <br>
 § 2. De zorgkas herziet de beslissing over de tegemoetkoming ambtshalve als nieuwe gegevens aanleiding geven tot een wijziging van het bedrag van de tegemoetkoming. De Vlaamse Regering regelt de herzieningsprocedure.<br>
 <br>
-§ 3. De gebruiker of zijn vertegenwoordiger kan administratief beroep aantekenen tegen de beslissing van de zorgkas. De Vlaamse Regering regelt de administratieve beroepsprocedure. Ze kan een multidisciplinair samengestelde administratieve beroepscommissie oprichten of bepalen wie het administratieve beroep behandelt. De Vlaamse Regering kan binnen die administratieve beroepscommissie verschillende kamers instellen. Ze kan presentiegelden en vergoedingen bepalen.
+§ 3. De gebruiker of zijn vertegenwoordiger kan administratief beroep aantekenen tegen de beslissing van de zorgkas. De Vlaamse Regering regelt de administratieve beroepsprocedure. Ze kan een multidisciplinair samengestelde administratieve beroepscommissie oprichten of bepalen wie het administratieve beroep behandelt. De Vlaamse Regering kan binnen die administratieve beroepscommissie verschillende kamers instellen. Ze kan presentiegelden en vergoedingen bepalen.<br>
+<br>
+§ 4. Elke gebruiker die een administratief beroep indient, is een dossiertaks verschuldigd aan het agentschap op straffe van onontvankelijkheid van het beroep.<br>
+<br>
+De dossiertaks, vermeld in het eerste lid, bedraagt 75 euro.<br>
+<br>
+[... (vernietigd bij arrest Grondwettelijk Hof 2023/112 van 20 juli 2023)]<br>
+<br>
+In afwijking van het eerste lid zijn de volgende gebruikers vrijgesteld van de betaling van een dossiertaks:<br>
+1° de gebruiker die het voorwerp is van een collectieve schuldenregeling, die in staat van faillissement is verklaard of die door een gerechtsdeurwaarder insolvabel is verklaard;<br>
+2° de gebruiker die het voorwerp is van budgetbegeleiding of budgetbeheer door een Openbaar Centrum voor Maatschappelijk Welzijn of door een door de Vlaamse Gemeenschap erkende instelling voor schuldbemiddeling of van een minnelijke schuldbemiddeling, vermeld in artikel 519, § 2, 10°, van het Gerechtelijk Wetboek;<br>
+3° de gebruiker die of een lid van zijn gezin dat recht heeft op een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie;<br>
+4° de gebruiker die of een lid van zijn gezin dat recht heeft op een inkomensvervangende tegemoetkoming als vermeld in de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
+5° de gebruiker die of een lid van zijn gezin dat recht heeft op het minimumdagbedrag van de werkloosheidsuitkering als vermeld in het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering en waarbij het gezinsinkomen van de gebruiker alleen bestaat uit deze uitkering;<br>
+6° de gebruiker die of een lid van zijn gezin dat recht heeft op de inkomensgarantie voor ouderen als vermeld in de wet van 22 maart 2001 tot instelling van een inkomensgarantie voor ouderen&nbsp;(vierde lid<br>
+<br>
+<em>[Commentaar: het vierde lid werd vernietigd bij arrest Grondwettelijk Hof 2023/112 van 20 juli 2023 in zoverre die bepalingen niet voorzien in een volledige vrijstelling van de dossiertaks ten aanzien van rechthebbenden op een verhoogde tegemoetkoming krachtens artikel 37, § 19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, die niet tot de zes categorieën van volledig vrijgestelden behoren)]</em><br>
+<br>
+In de gevallen waarin het administratief beroep gegrond wordt verklaard, wordt de dossiertaks integraal teruggestort.<br>
+<br>
+<em>[Commentaar: het vijfde lid werd vernietigd bij arrest Grondwettelijk Hof 2023/112 van 20 juli 2023 in zoverre het niet voorziet in de integrale terugbetaling van de dossiertaks indien de arbeidsrechtbank oordeelt dat in het kader van het administratief beroep ten onrechte werd geoordeeld dat de indiener van het beroep geen recht heeft op het gevraagde zorgbudget of de aanpassing ervan)]</em><br>
+<br>
+De Vlaamse Regering kan nadere regels inzake de dossiertaks bepalen.
 
 ### ART 89.
 
@@ -1088,7 +1132,29 @@ De beslissing naar aanleiding van de aanvraag, vermeld in het tweede lid, over d
 <br>
 § 4. De zorgkas kan de beslissing over de tegemoetkoming herzien als zich een wijziging voordoet in de toestand van de gebruiker. De Vlaamse Regering regelt de herzieningsprocedure.<br>
 <br>
-§ 5. De gebruiker of zijn vertegenwoordiger kan administratief beroep aantekenen tegen de beslissing van de zorgkas. De Vlaamse Regering regelt de administratieve beroepsprocedure, waarbij ze een aparte en gedifferentieerde administratieve beroepsprocedure kan instellen betreffende de duidelijk vast te stellen behoefte aan zorg en ondersteuning, vermeld in artikel 91, eerste lid. Ze kan een multidisciplinair samengestelde administratieve beroepscommissie oprichten of bepalen wie het administratief beroep behandelt. De Vlaamse Regering kan binnen die administratieve beroepscommissie verschillende kamers instellen. Ze kan presentiegelden en vergoedingen bepalen.
+§ 5. De gebruiker of zijn vertegenwoordiger kan administratief beroep aantekenen tegen de beslissing van de zorgkas. De Vlaamse Regering regelt de administratieve beroepsprocedure, waarbij ze een aparte en gedifferentieerde administratieve beroepsprocedure kan instellen betreffende de duidelijk vast te stellen behoefte aan zorg en ondersteuning, vermeld in artikel 91, eerste lid. Ze kan een multidisciplinair samengestelde administratieve beroepscommissie oprichten of bepalen wie het administratief beroep behandelt. De Vlaamse Regering kan binnen die administratieve beroepscommissie verschillende kamers instellen. Ze kan presentiegelden en vergoedingen bepalen.<br>
+<br>
+§ 6. Elke gebruiker die een administratief beroep indient, is een dossiertaks verschuldigd aan het agentschap op straffe van onontvankelijkheid van het beroep.<br>
+<br>
+De dossiertaks, vermeld in het eerste lid, bedraagt 75 euro.<br>
+<br>
+[... (vernietigd bij arrest Grondwettelijk Hof 2023/112 van 20 juli 2023)]<br>
+<br>
+In afwijking van het eerste lid zijn de volgende gebruikers vrijgesteld van de betaling van een dossiertaks:<br>
+1° de gebruiker die het voorwerp is van een collectieve schuldenregeling, die in staat van faillissement is verklaard of die door een gerechtsdeurwaarder insolvabel is verklaard;<br>
+2° de gebruiker die het voorwerp is van budgetbegeleiding of budgetbeheer door een Openbaar Centrum voor Maatschappelijk Welzijn of door een door de Vlaamse Gemeenschap erkende instelling voor schuldbemiddeling of van een minnelijke schuldbemiddeling, vermeld in artikel 519, § 2, 10°, van het Gerechtelijk Wetboek;<br>
+3° de gebruiker die of een lid van zijn gezin dat recht heeft op een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie;<br>
+4° de gebruiker die of een lid van zijn gezin dat recht heeft op een inkomensvervangende tegemoetkoming als vermeld in de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
+5° de gebruiker die of een lid van zijn gezin dat recht heeft op het minimumdagbedrag van de werkloosheidsuitkering als vermeld in het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering en waarbij het gezinsinkomen van de gebruiker alleen bestaat uit deze uitkering;<br>
+6° de gebruiker die of een lid van zijn gezin dat recht heeft op de inkomensgarantie voor ouderen als vermeld in de wet van 22 maart 2001 tot instelling van een inkomensgarantie voor ouderen<br>
+<br>
+<em>[Commentaar: het vierde lid werd vernietigd bij arrest Grondwettelijk Hof 2023/112 van 20 juli 2023 in zoverre die bepalingen niet voorzien in een volledige vrijstelling van de dossiertaks ten aanzien van rechthebbenden op een verhoogde tegemoetkoming krachtens artikel 37, § 19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, die niet tot de zes categorieën van volledig vrijgestelden behoren)]</em><br>
+<br>
+In de gevallen waarin het administratief beroep gegrond wordt verklaard, wordt de dossiertaks integraal teruggestort.<br>
+<br>
+<em>[Commentaar: het vijfde lid werd vernietigd bij arrest Grondwettelijk Hof 2023/112 van 20 juli 2023 in zoverre het niet voorziet in de integrale terugbetaling van de dossiertaks indien de arbeidsrechtbank oordeelt dat in het kader van het administratief beroep ten onrechte werd geoordeeld dat de indiener van het beroep geen recht heeft op het gevraagde zorgbudget of de aanpassing ervan)]</em><br>
+<br>
+De Vlaamse Regering kan nadere regels inzake de dossiertaks bepalen.
 
 ### ART 93.
 
