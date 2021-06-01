@@ -2,16 +2,16 @@
   "codex_id": 1030005,
   "title": "Besluit van de Vlaamse Regering van 2018-10-05 tot vaststelling van de diverse hoedanigheden van het rechtgevend kind en betreffende de vrijstellingen van de toekenningsvoorwaarden voor de gezinsbijslagen, de startbedragen geboorte en adoptie en de universele participatietoeslagen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030005/VolledigDocument?datum=2020-06-04",
-  "source_sha256": "060bb5b239dba4256901c5b137a5080cf60812dcf7b934b6dc879b095642dd9a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030005/VolledigDocument?datum=2021-06-01",
+  "source_sha256": "408ccdee344589f03fe6839500521a3d57a60f34d5924e445c250c521898dcea",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030005&param=informatie",
-  "as_of": "2020-06-04",
+  "as_of": "2021-06-01",
   "made": "2018-10-05",
   "gazette": "2018-12-18",
   "numac": 2018014824,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2020-06-04",
+  "in_force": "2021-06-01",
   "article_versions": 61,
-  "record_form": "consolidated version as in force on 2020-06-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-06-01; future article versions excluded; article text as the API gives it"
 }
