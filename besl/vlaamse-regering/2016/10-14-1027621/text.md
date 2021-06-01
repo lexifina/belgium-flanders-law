@@ -91,7 +91,11 @@ Het totaalbedrag van de subsidie voor werkingskosten bedraagt de som van de volg
 
 De jaarlijkse subsidie voor werkingskosten is gelijk aan 8.812.536 euro voor alle erkende zorgkassen. Dat bedrag wordt verdeeld onder de zorgkassen conform artikel 9.<br>
 <br>
-Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas vrijwillig haar activiteiten stopzet of haar erkenning verliest, wordt de subsidie pro rata berekend.
+Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas vrijwillig haar activiteiten stopzet of haar erkenning verliest, wordt de subsidie pro rata berekend.<br>
+<br>
+Voor het jaar 2021 wordt het bedrag, vermeld in het eerste lid, zoals geïndexeerd conform artikel 16, eerste lid, verhoogd met 82.031,25 euro.<br>
+<br>
+Vanaf het jaar 2022 wordt het bedrag, vermeld in het eerste lid, zoals geïndexeerd conform artikel 16, eerste lid, verhoogd met 140.625 euro.
 
 ### ART 9.
 
