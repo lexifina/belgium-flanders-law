@@ -548,7 +548,7 @@ Alle bedragen inzake inkomensgrenzen en toelagebedragen gelden voor een volledig
 
 ### ART. 53.
 
-De aanvraag voor een toelage wordt door de aanvrager bij de&nbsp;afdeling Studietoelagen&nbsp;ingediend vanaf 1 augustus en uiterlijk op 1 juni van het academiejaar in kwestie.<br>
+De aanvraag voor een toelage wordt door de aanvrager bij de&nbsp;afdeling Studietoelagen&nbsp;ingediend vanaf&nbsp;2 juni voorafgaand aan het academiejaar waarop de aanvraag betrekking heeft&nbsp;en uiterlijk op 1 juni van het academiejaar in kwestie.<br>
 <br>
 De aanvraag die wordt ingediend na 1 juni van het academiejaar in kwestie wordt niet meer behandeld.<br>
 <br>
@@ -557,15 +557,17 @@ De Vlaamse Regering bepaalt de wijze waarop de aanvraag voor een toelage moet wo
 
 ### ART. 53/1.
 
-Voor de student die het voorgaande academiejaar in aanmerking kwam voor een school- of studietoelage en waarvoor tijdens het lopende academiejaar geen aanvraag werd ingediend, zal de afdeling Studietoelagen zelf het recht op een studietoelage onderzoeken.<br>
+In dit artikel wordt verstaan onder bijna-beursstudent: een bijnabeursstudent als vermeld in artikel I.3, 16°, van de Codex Hoger Onderwijs van 11 oktober 2013.<br>
 <br>
-De afdeling Studietoelagen bepaalt de datum waarop het onderzoek, vermeld in het eerste lid, start. Het onderzoek kan ten vroegste op 1&nbsp;augustus en uiterlijk op 1 meii van het lopende academiejaar starten.<br>
+De afdeling Studietoelagen onderzoekt het recht op een studietoelage voor een academiejaar als de student aan de volgende voorwaarden voldoet:<br>
+1° de aanvrager gaf de toestemming om het recht op een studietoelage te onderzoeken;<br>
+2° de student kwam in het academiejaar vóór het academiejaar waarop de studietoelage betrekking heeft, in aanmerking voor een studietoelage of was bijna-beursstudent.<br>
 <br>
-De afdeling Studietoelagen zal de start van het onderzoek melden aan de wettelijke vertegenwoordiger van de student.<br>
+De afdeling Studietoelagen bepaalt de datum waarop het onderzoek, vermeld in het tweede lid, start. Het onderzoek kan ten vroegste op 1 januari voorafgaand aan het academiejaar waarop de studietoelage betrekking heeft en uiterlijk 1 juni van het academiejaar waarop de studietoelage betrekking heeft, starten. De afdeling Studietoelagen meldt de start van het onderzoek aan de aanvrager.<br>
 <br>
-In afwijking van het eerste lid zal de afdeling Studietoelagen het onderzoek niet starten indien de wettelijke vertegenwoordiger van de student dit weigert.<br>
+De aanvrager kan op elk moment het lopend onderzoek stopzetten.<br>
 <br>
-De wettelijke vertegenwoordiger van de leerling of de student reageert uiterlijk op 1 juni van het lopende schooljaar op de melding van de start van het onderzoek.
+De student die in het academiejaar vóór het academiejaar waarop de studietoelage betrekking heeft, niet in aanmerking kwam voor een studietoelage of de student die geen bijna-beursstudent was, vraagt opnieuw een studietoelage aan conform artikel 53.
 
 ### ART. 53/2.
 
