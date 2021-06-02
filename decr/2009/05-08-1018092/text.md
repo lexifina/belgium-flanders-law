@@ -1069,17 +1069,15 @@ De netbeheerder plaatst een digitale meter bij netgebruikers met een laagspannin
 2° bij verplichte metervervanging;<br>
 3° bij installatie van nieuwe decentrale productie-installaties met een maximaal AC-vermogen van 10 kVa;<br>
 4° bij vervanging van bestaande actieve budgetmeters en plaatsing van nieuwe budgetmeters;<br>
-5° bij bestaande prosumenten;<br>
+5° ...;<br>
 6° bij vervanging van de meters die geplaatst werden in het proefproject slimme meters en in het proefproject digitale budgetmeter van de distributienetbeheerders;<br>
 7° op verzoek van de netgebruiker.<br>
 <br>
-[... <em>(vernietigd bij arrest 5/2021 van het Grondwettelijk Hof van 14 januari 2021)</em>]<br>
-<br>
-Op expliciete vraag van de netgebruiker in de situatie, vermeld in punt 3° en 5°, wordt de productiemeter vervangen door de netbeheerder en desgevallend gekoppeld aan de digitale meter. De netgebruiker staat in voor de kosten van deze productiemeter, de plaatsing en de indienststelling.<br>
+Op expliciete vraag van de netgebruiker in de situatie, vermeld in eerste lid, 3°, wordt de productiemeter vervangen door de netbeheerder en desgevallend gekoppeld aan de digitale meter. De netgebruiker staat in voor de kosten van deze productiemeter, de plaatsing en de indienststelling.<br>
 <br>
 De Vlaamse Regering kan op basis van de kosten-batenanalyse bijkomende gevallen bepalen waarin de netbeheerder een digitale meter met voorrang plaatst.<br>
 <br>
-De Vlaamse Regering bepaalt de timing en de modaliteiten voor het plaatsen van de meters, vermeld in het eerste en vierde lid.
+De Vlaamse Regering bepaalt de timing en de modaliteiten voor het plaatsen van de meters, vermeld in het eerste en derde lid.
 
 ### ART 4.1.22/3.
 
