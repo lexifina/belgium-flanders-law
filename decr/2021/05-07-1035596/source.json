@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035596,
+  "title": "Decreet van 2021-05-07 tot wijziging van artikel 4.1.22/2 van het Energiedecreet van 8 mei 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035596/VolledigDocument?datum=2021-06-02",
+  "source_sha256": "6203669d438f0e29ae65c98f716c44530f1735a5c01bd870474272115c478094",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035596&param=informatie",
+  "as_of": "2021-06-02",
+  "made": "2021-05-07",
+  "gazette": "2021-06-01",
+  "numac": 2021020952,
+  "document_start": "2021-06-02",
+  "document_end": null,
+  "in_force": "2021-06-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-06-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
