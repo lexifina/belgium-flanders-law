@@ -11,7 +11,7 @@
 2° ...<br>
 3° ...<br>
 4° Dirk Conruyt;<br>
-5° Lydia De Cremer;<br>
+5° ...;<br>
 6° Christine De Pus;<br>
 7° Sofie De Wolf;<br>
 8° Els Dobbelaere;<br>
@@ -37,7 +37,7 @@
 28° Inge Snoeck;<br>
 29° ...<br>
 30° Patrick Van Bever;<br>
-31° Dirk Van Bockstal;<br>
+31° ...;<br>
 32° Dirk Van Buylaere;<br>
 33° ...<br>
 34° ...<br>
@@ -69,12 +69,13 @@
 61° Ward Schoenmaekers;<br>
 62° Immanuel Taets;<br>
 63° Jeroen De Corte;<br>
-64° Pieter Verbeeck.<br>
-65° Elke Pukas<br>
-66° Sarah Ricour<br>
-67° Leslie Machtelings<br>
-68° Toon Huybrechts<br>
-69° Lynn Timmerman</p>
+64° Pieter Verbeeck;<br>
+65° Elke Pukas;<br>
+66° Sarah Ricour;<br>
+67° Leslie Machtelings;<br>
+68° Toon Huybrechts;<br>
+69° Lynn Timmerman;<br>
+70° Timothy Van Belle.</p>
 
 ### ART. 2.
 
