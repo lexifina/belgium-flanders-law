@@ -21,7 +21,7 @@ De vergoedingen die ter uitvoering van dit decreet worden uitgekeerd, worden ver
 
 ### ART 3.
 
-In afwijking van de door en krachtens titel IV en titel VI van het Energiedecreet van 8 mei 2009 vastgestelde maatregelen zijn gedurende de periode van de civiele noodsituatie die bepaald is met toepassing van artikel 4, § 1, eerste lid, 1° of 2°, van het decreet van 20 maart 2020, de volgende maatregelen van toepassing:<br>
+In afwijking van de door en krachtens titel IV en titel VI van het Energiedecreet van 8 mei 2009 vastgestelde maatregelen kan de Vlaamse Regering beslissen om gedurende de periode van de civiele noodsituatie die bepaald is met toepassing van artikel 4, § 1, eerste lid, 1° of 2°, van het decreet van 20 maart 2020, de volgende maatregelen van toepassing te maken:<br>
 1° ...;<br>
 2° de distributienetbeheerders gaan, behoudens in geval van een onmiddellijke bedreiging van de veiligheid en zolang die bedreiging aanhoudt, niet over tot het afsluiten van de toevoer van elektriciteit of aardgas bij:<br>
 a) eindafnemers die aangesloten zijn op laagspanning of op een lagedrukleiding;<br>
@@ -29,13 +29,15 @@ b) residentiële eindafnemers die aangesloten zijn op middenspanning of op een m
 
 ### ART 4.
 
-Gedurende de periode van de civiele noodsituatie met betrekking tot de volksgezondheid die bepaald is met toepassing van artikel 4, § 1, eerste lid, 1° of 2°, van het decreet van 20 maart 2020, worden de termijnen, vermeld in artikel 11.1.8 van het Energiedecreet van 8 mei 2009, geschorst.
+De Vlaamse Regering kan beslissen om gedurende de periode van de civiele noodsituatie met betrekking tot de volksgezondheid die bepaald is met toepassing van artikel 4, § 1, eerste lid, 1° of 2°, van het decreet van 20 maart 2020, de termijnen, vermeld in artikel 11.1.8 van het Energiedecreet van 8 mei 2009, te schorsen.
 
 ## HOOFDSTUK 3. Water
 
 ### ART 5.
 
-In afwijking van artikel 2.2.2, § 5 en § 6, en 2.5.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, en de bepalingen die ter uitvoering van die artikelen zijn genomen, gaan gedurende de periode van de civiele noodsituatie die bepaald is met toepassing van artikel 4, § 1, eerste lid, 1° of 2°, van het decreet van 20 maart 2020, de exploitanten van een openbaar waterdistributienetwerk niet over tot het afsluiten of begrenzen van het debiet van de waterlevering bij een abonnee, behoudens in geval van een onmiddellijke bedreiging van de volksgezondheid en zolang die bedreiging aanhoudt.
+In afwijking van artikel 2.2.2, § 5 en § 6, en 2.5.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, en de bepalingen die ter uitvoering van die artikelen zijn genomen, kan de Vlaamse Regering beslissen dat gedurende de periode van de civiele noodsituatie die bepaald is met toepassing van artikel 4, § 1, eerste lid, 1° of 2°, van het decreet van 20 maart 2020 één of meerdere van volgende maatregelen van toepassing te maken:<br>
+1° de exploitanten van een openbaar waterdistributienetwerk gaan niet over tot het afsluiten of begrenzen van het debiet van de waterlevering bij huishoudelijke abonnees, behoudens in geval van een onmiddellijke bedreiging van de volksgezondheid en zolang die bedreiging aanhoudt;<br>
+2° de exploitanten van een openbaar waterdistributienetwerk gaan niet over tot het afsluiten of begrenzen van het debiet van de waterlevering bij abonnees die geen huishoudelijke abonnees zijn, behoudens in geval van een onmiddellijke bedreiging van de volksgezondheid en zolang die bedreiging aanhoudt.
 
 ## HOOFDSTUK 4. Vergoeding van de kosten voor elektriciteitsverbruik, verwarming en waterverbruik tijdens de eerste maand van vergoede tijdelijke werkloosheid ten gevolge van de coronacrisis
 
