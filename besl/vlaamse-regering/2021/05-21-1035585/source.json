@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035585,
+  "title": "Besluit van de Vlaamse Regering van 2021-05-21 over de elektronische aanbieding van bepaalde fiscale documenten en de aangifte voor fiscale rangschikking van automatische ontspanningstoestellen en tot aanwijzing van de dienst, vermeld in artikel 29bis, eerste lid, van het Wetboek van Strafvordering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035585/VolledigDocument?datum=2021-06-06",
+  "source_sha256": "f0573508d6fda635ec9e497a5d5149d7fd232fd0ab6235e88fbf1f61d82518e7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035585&param=informatie",
+  "as_of": "2021-06-06",
+  "made": "2021-05-21",
+  "gazette": "2021-05-27",
+  "numac": 2021041661,
+  "document_start": "2021-06-06",
+  "document_end": null,
+  "in_force": "2021-06-06",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2021-06-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
