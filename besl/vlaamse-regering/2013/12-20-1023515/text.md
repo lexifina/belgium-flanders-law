@@ -883,7 +883,15 @@ Zodra de kohieren uitvoerbaar verklaard zijn, wordt aan de betrokken   belasting
 
 ### ART. 3.3.5.0.1.
 
-Voorbehouden voor toekomstig gebruik.
+§ 1. Als de persoon, vermeld in artikel 3.3.5.0.1, tweede lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013, uitdrukkelijk instemt met de elektronische uitwisseling van aanslagbiljetten of andere documenten over de belasting door de activatie van een elektronisch platform voor de uitwisseling van berichten via elektronische weg, vermeld in artikel II.22 en II.23 van het Bestuursdecreet van 7 december 2018 en artikel 3.3.5.0.1, tweede lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013, heeft dat uitdrukkelijk akkoord tot gevolg dat de documenten exclusief via deze elektronische uitwisseling van berichten worden aangeboden.<br>
+<br>
+§ 2. De persoon, vermeld in paragraaf 1, ontvangt via het elektronisch platform, vermeld in paragraaf 1, een bericht als de bevoegde entiteit van de Vlaamse administratie hem op dat platform een document ter beschikking stelt.<br>
+<br>
+§ 3. Het ter beschikking stellen van de documenten, vermeld in paragraaf 1, wordt beëindigd als de persoon, vermeld in paragaaf 1, zijn instemming met de uitwisseling van documenten via het elektronisch platform intrekt door die elektronische uitwisseling te desactiveren via het elektronisch platform. De bevoegde entiteit van de Vlaamse administratie kan de uitwisseling van documenten via het elektronisch platform ook eenzijdig stopzetten. De desactivering is mogelijk op elk ogenblik en treedt onmiddellijk in werking.<br>
+<br>
+Vanaf het ogenblik van de desactivering, vermeld in het eerste lid, worden de documenten aan de belastingschuldige toegezonden conform artikel 3.3.5.0.1, eerste lid, van de Vlaams Codex Fiscaliteit van 13 december 2013.<br>
+<br>
+§ 4. De documenten, vermeld in artikel 3.3.5.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013, blijven beschikbaar op het elektronisch platform gedurende zes maanden.
 
 ## HOOFDSTUK 4. Betalingen
 
@@ -1306,7 +1314,15 @@ Voorbehouden voor toekomstig gebruik.
 
 ### ART 3.12.4.0.1.
 
-Als de invoerder, de fabrikant of al wie rechtstreeks of onrechtstreeks als dusdanig optreedt, geen aangifte tot rangschikking van een model van automatisch ontspanningstoestel als vermeld in artikel 3.12.4.0.1, tweede lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013, indient bij de federale belastingdiensten, wordt de aangifte behoorlijk ingevuld en ondertekend ingediend bij de bevoegde entiteit van de Vlaamse administratie door middel van een formulier dat wordt uitgereikt door die entiteit.
+§ 1. De invoerder, de fabrikant of al wie rechtstreeks of onrechtstreeks als dusdanig optreedt, dient de aangifte tot rangschikking, vermeld in artikel 3.12.4.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013, volledig ingevuld en ondertekend in bij de bevoegde entiteit van de Vlaamse administratie met een formulier dat die entiteit ter beschikking stelt.<br>
+<br>
+Het formulier, vermeld in het eerste lid, bevat identificatiegegevens van de aangever, fabrikant of invoerder en de gegevens van het model van automatisch ontspanningstoestel die nodig zijn voor de rangschikking, vermeld in artikel 2.13.3.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013.<br>
+<br>
+§ 2. De bevoegde entiteit van de Vlaamse administratie onderzoekt de aangifte. Ze brengt de aangever binnen vijftien dagen na de dag waarop ze het formulier heeft ontvangen op de hoogte van ontbrekende of onduidelijke gegevens.<br>
+<br>
+De bevoegde entiteit van de Vlaamse administratie brengt de aangever schriftelijk op de hoogte van haar beslissing binnen dertig dagen na de dag waarop ze een volledige aangifte heeft ontvangen.<br>
+<br>
+§ 3. De bevoegde entiteit van de Vlaamse administratie houdt de rangschikking van automatische ontspanningstoestellen in de categorieën, vermeld in artikel 2.13.3.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013, bij in een repertorium dat wordt gepubliceerd op haar website.
 
 ## HOOFDSTUK 13. Onderzoek en controle
 
@@ -1380,7 +1396,7 @@ Voorbehouden voor toekomstig gebruik.
 
 ### ART. 3.15.1.0.1.
 
-Voorbehouden voor toekomstig gebruik.
+De bevoegde entiteit van de Vlaamse administratie wordt aangewezen als de dienst die bevoegd is om de aanwijzingen van fraude inzake directe en indirecte belastingen te ontvangen die aan het licht komen in het kader van een strafrechtelijk onderzoek, vermeld in artikel 29bis van het Wetboek van Strafvordering.
 
 ## Afdeling 2. Opsporing van inbreuken
 
