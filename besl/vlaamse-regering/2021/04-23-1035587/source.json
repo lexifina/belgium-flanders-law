@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035587,
+  "title": "Besluit van de Vlaamse Regering van 2021-04-23 tot wijziging van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, het Energiebesluit van 19 november 2010 en van het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035587/VolledigDocument?datum=2021-06-07",
+  "source_sha256": "f2a9cbe1a371da4d24595981f5e2b89810d317787f95898c86f79a6fa0228cff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035587&param=informatie",
+  "as_of": "2021-06-07",
+  "made": "2021-04-23",
+  "gazette": "2021-05-28",
+  "numac": 2021041621,
+  "document_start": "2021-06-07",
+  "document_end": null,
+  "in_force": "2021-06-07",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2021-06-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
