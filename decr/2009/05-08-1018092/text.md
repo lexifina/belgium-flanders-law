@@ -9,9 +9,9 @@ Dit decreet regelt een gewestaangelegenheid.
 ### ART. 1.1.2.
 
 Dit decreet voorziet, voor wat de bevoegdheden van het Vlaamse Gewest betreft, in de omzetting van :<br>
-1° de Richtlijn 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG;<br>
+1° de richtlijn (EU) 2018/2001 van het Europees Parlement en de Raad van 30 oktober 2020 ter bevordering van het gebruik van energie uit hernieuwbare bronnen;<br>
 2° richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen, zoals gewijzigd door richtlijn (EU) 2018/844 van het Europees Parlement en de Raad van 30 mei 2018;<br>
-3° de Richtlijn 2009/72/EG betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot intrekking van richtlijn 2003/54/EG;<br>
+3° de richtlijn (EU) 2019/944 van het Europees Parlement en de Raad van 5 juni 2019 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot wijziging van richtlijn 2012/27/EU;<br>
 4° de Richtlijn 2009/73/EG van 13 juli 2009 betreffende gemeenschappelijke regels voor de interne markt voor aardgas en tot intrekking van Richtlijn 2003/55/EG;<br>
 5° ...<br>
 6° de richtlijn 2012/27/EU van de Europese Unie van 25 oktober 2012 betreffende energie-efficiëntie, tot wijziging van Richtlijnen 2009/125/EG en 2010/30/EU en houdende intrekking van de Richtlijnen 2004/8/EG en 2006/32/EG;<br>
@@ -28,6 +28,7 @@ a) er is een lagedrukleiding aanwezig langs de openbare weg aan dezelfde kant va
 b) de wooneenheid of het gebouw is niet gelegen in een gebied dat bestemd is voor bewoning en er is een lagedrukleiding aanwezig langs de openbare weg ter hoogte van de wooneenheid of het gebouw, al of niet aan dezelfde kant van de wooneenheid of het gebouw;<br>
 c) een middendrukleiding, categorie A of B, is aanwezig langs de openbare weg ter hoogte van de wooneenheid of het gebouw en deze leiding is specifiek aangelegd voor het aansluiten van respectievelijk wooneenheden of gebouwen;<br>
 4° aansluitingsgraad : het aantal aangesloten wooneenheden en gebouwen in verhouding tot het totaal aantal wooneenheden en gebouwen in een bepaald gebied;<br>
+4° /1 aanvrager van flexibiliteit: een natuurlijke persoon of rechtspersoon die flexibiliteit aanvraagt;<br>
 5° aardgas : elke gasvormige brandstof van ondergrondse oorsprong die hoofdzakelijk uit methaan bestaat, met inbegrip van vloeibaar aardgas;<br>
 6° aardgasdistributienet : geheel van onderling verbonden leidingen en de daarmee verbonden hulpmiddelen, die noodzakelijk zijn voor de distributie van aardgas aan afnemers binnen een geografisch afgebakend gebied in het Vlaamse Gewest en dat geen gesloten distributienet, privédistributienet of directe leiding betreft;<br>
 7° aardgasdistributienetbeheerder : beheerder van een aardgasdistributienet, aangewezen overeenkomstig artikel 4.1.1;<br>
@@ -35,6 +36,7 @@ c) een middendrukleiding, categorie A of B, is aanwezig langs de openbare weg te
 8°/1 ACER : het agentschap, opgericht overeenkomstig verordening nr. 713/2009 van het Europees Parlement en de Raad van 13 juli 2009 tot oprichting van een agentschap voor de samenwerking tussen energieregulators.<br>
 8°/2 achterliggende afnemer : de natuurlijke persoon of rechtspersoon die elektriciteit of aardgas afneemt van een gesloten distributienet of een privédistributienet;<br>
 8°/3 achterliggende netgebruiker : natuurlijke persoon of rechtspersoon die elektriciteit of aardgas injecteert op of afneemt van een gesloten distributienet of een privédistributienet;<br>
+8° /4 actieve afnemer: een afnemer die aangesloten is op het elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit, een gesloten distributienet van elektriciteit of een afnemer van thermische energie die aangesloten is op een warmte- of koudenet en die een of meer van de activiteiten, vermeld in artikel 4.4.2, uitoefent, terwijl die activiteiten niet zijn belangrijkste commerciële of professionele activiteit vormen;<br>
 9° actieverplichting : een door de Vlaamse Regering aan de netbeheerders in het kader van een openbaredienstverplichting opgelegde REG-actie;<br>
 9°/1 aerothermische energie : energie die in de vorm van warmte is opgeslagen in de omgevingslucht;<br>
 9° /2 afgeleide persoonsgegevens: persoonsgegevens die afgeleid kunnen worden uit de persoonsgegevens die in het kader van dit decreet verzameld worden;<br>
@@ -43,7 +45,8 @@ c) een middendrukleiding, categorie A of B, is aanwezig langs de openbare weg te
 11° afnemer : elke natuurlijke persoon of rechtspersoon die elektriciteit of aardgas afneemt om te voorzien in zijn eigen behoeftes;<br>
 11° /1 afnemer van thermische energie: elke natuurlijke persoon of rechtspersoon die thermische energie afneemt om te voorzien in zijn eigen behoeftes;<br>
 12° afsluiten : het buiten dienst stellen van de aansluiting of het ontzeggen van de toegang tot het net door de aansluiting af te koppelen van de installaties van de afnemer;<br>
-12/1° aggregator: dienstenverrichter die meerdere capaciteiten voor afname, consumptie, productie of injectie combineert om in georganiseerde energiemarkten te verkopen of te veilen;<br>
+12° /0 aggregatie: een functie van een natuurlijke persoon of rechtspersoon die verschillende energiehoeveelheden voor afname, consumptie, productie of injectie combineert om op een elektriciteitsmarkt aan te kopen, te verkopen of te veilen;<br>
+12° /1 aggregator: een natuurlijke persoon of rechtspersoon die als dienstverrichter verschillende energiehoeveelheden van verschillende afnemers, tussenpersonen en producenten voor afname, consumptie, productie of injectie combineert om op een elektriciteitsmarkt aan te kopen, te verkopen of te veilen;<br>
 12° /2 algemene verordening gegevensbescherming: de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG ("algemene verordening gegevensbescherming" of "AVG");<br>
 13° allocatie : toewijzing van energiehoeveelheden aan de verschillende marktpartijen;<br>
 13° /0 analoge meter: meter die op een elektromechanische manier energiestromen meet en registreert;<br>
@@ -70,25 +73,35 @@ b) 35 euro per warmte-krachtcertificaat voor de berekening van de bandingfactor 
 24° budgetmeter voor aardgas: aardgasmeter met hulpkrediet die toelaat te werken via een systeem van voorafbetaling in het kader van een aan de netbeheerder opgelegde openbaredienstverplichting inzake de bescherming van huishoudelijke afnemers bij wanbetaling;<br>
 25° budgetmeter voor elektriciteit: elektriciteitsmeter met begrenzer en hulpkrediet die toelaat te werken via een systeem van voorafbetaling in het kader van een aan de netbeheerder opgelegde openbaredienstverplichting inzake de bescherming van huishoudelijke afnemers bij wanbetaling;<br>
 25°/1 datum van indienstneming : datum waarop een productie-installatie voor het eerst in dienst werd genomen of datum waarop een warmte-krachtinstallatie ingrijpend gewijzigd werd. Voor groenestroominstallaties is dit de datum waarop de productie-installatie voor het eerst elektriciteit uit een hernieuwbare energiebron produceerde. Voor warmte-krachtinstallaties is dat de datum waarop de eerste gelijktijdige productie van elektriciteit of mechanische energie, en nuttige warmte plaatsvond, of de datum waarop de laatste ingrijpende wijziging voor het eerst gelijktijdig elektriciteit of mechanische energie, en nuttige warmte produceerde;<br>
+25° /1/1 deelnemer aan flexibiliteit: een natuurlijke persoon of rechtspersoon die flexibiliteit aanbiedt aan de dienstverlener van flexibiliteit of in het kader van gereserveerde of niet-gereserveerde technische flexibiliteit aan de aanvrager van flexibiliteit;<br>
+25° /1/2 dienstverlener van flexibiliteit: een natuurlijke persoon of rechtspersoon die als dienstverrichter flexibiliteitsdiensten aan een of meer aanvragers van flexibiliteit levert of die flexibiliteit van zichzelf of van een of meer deelnemers aan flexibiliteit als flexibiliteitsdienst aan een of meer aanvragers van flexibiliteit levert;<br>
 25° /2 digitale meter: een elektronische meter die energiestromen en aanverwante fysische grootheden meet en registreert en die uitgerust is met een tweerichtingscommunicatiemiddel, dat ervoor zorgt dat de gegevens niet alleen lokaal, maar ook op afstand uitgelezen kunnen worden zodat de meter in staat is om op basis van de gegevens die hij lokaal of van op afstand ontvangt bepaalde acties uit te voeren;<br>
 26° directe lijn : een elektriciteitslijn met een nominale spanning die gelijk is aan of minder is dan 70 kilovolt, die een productieinstallatie met een afnemer verbindt;<br>
 27° directe leiding : elke leiding voor aardgasdistributie die geen deel uitmaakt van een aardgasdistributienet;<br>
 28° distributie : de activiteit die erin bestaat elektriciteit via elektrische lijnen met een nominale spanning die gelijk is aan of minder is dan 70 kilovolt, of aardgas via plaatselijke aardgasleidingen te brengen tot bij afnemers, de levering zelf niet inbegrepen;<br>
 29° distributienet : elektriciteitsdistributienet of aardgasdistributienet;<br>
 30° distributienetbeheerder : elektriciteitsdistributienetbeheerder of aardgasdistributienetbeheerder;<br>
+30° /0 dynamisch prijscontract: een contract waarin de prijsvariatie op de spotmarkten van elektriciteit, waaronder de day-ahead- en de intradaymarkten, vermeld in artikel 2 van de verordening (EU) 2017/2195 van de Commissie van 23 november 2017 tot vaststelling van richtsnoeren voor elektriciteitsbalancering, wordt weerspiegeld in intervallen die ten minste overeenkomen met de marktvereffeningsperiode;<br>
 30°/1 eigen site : het kadastrale perceel of de aansluitende kadastrale percelen van dezelfde natuurlijke persoon of rechtspersoon als eigenaar, erfpachter, opstalhouder of concessiehouder;<br>
 30/2° eilandwerking : de situatie waarin, met uitzondering van mobiele installaties,een productie-installatie in normale werking niet gekoppeld is aan :<br>
 a) het elektriciteitsdistributienet of daaraan gekoppelde gesloten distributienetten;<br>
 b) het plaatselijk vervoernet van elektriciteit of daaraan gekoppelde gesloten distributienetten;<br>
 c) het transmissienet;<br>
 31° eindverbruiksector : ondernemingen en particulieren die energie afnemen of produceren om geheel of overwegend in de eigen energiebehoefte te voorzien;<br>
+31° /1 elektriciteitsbedrijf: een natuurlijke persoon of rechtspersoon die ten minste een van de volgende functies vervult: productie, transmissie, distributie, aggregatie, vraagrespons, energieopslag, levering of aankoop van elektriciteit, en die verantwoordelijk is voor de commerciële, technische of onderhoudswerkzaamheden die met die functies verband houden, maar die geen loutere afnemer is;<br>
+31° /2 elektriciteitsderivaat: een financieel instrument met betrekking tot elektriciteit dat valt onder een van de categorieën, vermeld in artikel 2, 1°, e), f) en g), van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten;<br>
 32° elektriciteitsdistributienet : geheel van onderling verbonden elektrische leidingen met een nominale spanning die gelijk is aan of minder is dan 70 kilovolt, en de bijbehorende installaties, die noodzakelijk zijn voor de distributie van elektriciteit aan afnemers binnen een geografisch afgebakend gebied in het Vlaamse Gewest, dat geen gesloten distributienet, privédistributienet of directe lijn is;<br>
 33° elektriciteitsdistributienetbeheerder : beheerder van een elektriciteitsdistributienet, aangewezen overeenkomstig artikel 4.1.1;<br>
+33° /1 elektriciteitsleveringscontract: een contract voor de levering van elektriciteit, elektriciteitsderivaten niet inbegrepen;<br>
+33° /2 elektriciteitsmarkten: markten voor elektriciteit, onder meer over-the-countermarkten en elektriciteitsbeurzen, markten voor de verhandeling van energie, capaciteit, balancerings- en ondersteunende diensten in alle tijdsbestekken, waaronder termijn-, day-ahead- en intradaymarkten;<br>
+33° /3 elektriciteitsopslag: een vorm van energieopslag die erin bestaat het uiteindelijke gebruik van elektriciteit uit te stellen tot een later moment dan het moment waarop de elektriciteit is opgewekt, of elektrische energie om te zetten in een vorm van energie die kan worden opgeslagen, dergelijke energie op te slaan en vervolgens dergelijke energie om te zetten in elektrische energie of in een andere energiedrager;<br>
+33/4° elektriciteitsopslagfaciliteit: een installatie aangesloten aan het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit waar elektriciteitsopslag plaatsvindt;<br>
 34° elektronische meter: een meter die op een digitale manier energiestromen meet en registreert en die al dan niet uitgerust is met een communicatiemiddel dat ervoor zorgt dat de gegevens niet alleen lokaal, maar ook op afstand uitgelezen kunnen worden;<br>
 35° ...<br>
 36° ...<br>
 37° energiebeleidsovereenkomst : iedere overeenkomst tussen het Vlaamse Gewest, vertegenwoordigd door de Vlaamse Regering, en een andere partij, waarbij die andere partij zich engageert om binnen een afgesproken termijn een vooropgestelde verbetering inzake energie-efficiëntie te behalen of te stimuleren, tot de wereldtop inzake energie-efficiëntie in haar sector te behoren of een bepaald percentage van het energieverbruik te dekken met behulp van hernieuwbare energietechnologieën of daarvoor stimulansen te verstrekken;<br>
 38° energieboekhouding : het regelmatig meten, registreren, analyseren en rapporteren van het energiegebruik;<br>
+38° /1 energiedelen: het kosteloos toekennen over één onbalansverrekeningsperiode van het geheel of een deel van de zelfgeproduceerde, en in voorkomend geval opgeslagen, energie die op een elektriciteitsdis- tributienet, het plaatselijk vervoernet van elektriciteit, een gesloten distributienet van elektriciteit geïnjecteerd is, tussen afnemers in de gevallen, vermeld in artikel 7.2.1, § 1, tweede lid, of het uitwisselen van hernieuwbare thermische energie via een warmte- of koudenet tussen afnemers van thermische energie in de gevallen, vermeld in artikel 7.2.1, § 1, tweede lid;<br>
 39° energiedeskundige: de natuurlijke persoon, die onderworpen is aan het sociaal statuut van zelfstandige en die het energieprestatiecertificaat opstelt of energieadvies verstrekt, of de rechtspersoon binnen wiens organisatie het energieprestatiecertificaat opgesteld wordt of energieadvies verstrekt wordt door een zaakvoerder, bestuurder of bezoldigde werknemer;<br>
 39/1° energiedienst: het fysieke voordeel, nut of welzijn dat wordt bereikt met een combinatie van energie met energie-efficiënte technologie of actie, die de bewerkingen, het onderhoud en de controle kan omvatten die nodig zijn voor de levering van de dienst, welke wordt geleverd op basis van een overeenkomst en welke onder normale omstandigheden heeft aangetoond te leiden tot een controleerbare en meetbare of een schatbare verbetering van de energie-efficiëntie of tot controleerbare en meetbare of schatbare primaire energiebesparingen;<br>
 40° energiedrager : kolen en afgeleide producten, petroleumproducten, gas, elektriciteit, hernieuwbare energiebronnen, warmte en nucleaire warmte;<br>
@@ -100,8 +113,10 @@ d) informatie bezorgen die niet consistent of in overeenstemming met de werkelij
 e) informatie bezorgen die niet consistent of in overeenstemming met de werkelijkheid is in het kader van de aanvraag van groenestroomcertificaten of warmte-krachtcertificaten of van de rapportering van meetgegevens die aanleiding geven tot het toekennen van groenestroomcertificaten of warmte-krachtcertificaten;<br>
 f) informatie bezorgen die niet consistent of in overeenstemming met de werkelijkheid is in het kader van subsidie- of premieaanvragen in uitvoering van dit decreet of zijn uitvoeringsbesluiten;<br>
 g) informatie bezorgen die niet consistent of in overeenstemming met de werkelijkheid is in het kader van meldingsverplichtingen die voortvloeien uit de toepassing van dit decreet, de uitvoeringsbesluiten ervan, het aansluitingsreglement, het aansluitingscontract of het technisch reglement;<br>
+40° /1/1 energiegemeenschap van burgers: een rechtspersoon die voldoet aan de vereisten, vermeld in artikel 4.8.1;<br>
 40° /2 energiehuis: de instantie die op het niveau van één of meer gemeenten energiediensten aanbiedt aan de klant;<br>
 41° energiekengetal : het gemiddelde van het energieverbruik in een sector in verhouding tot een parameter die bepalend is voor het energieverbruik in die sector;<br>
+41° /1 energieoverdracht: een activering van de flexibiliteit waarbij een leverancier en een dienstverlener van flexibiliteit betrokken zijn die een afzonderlijke evenwichtsverantwoordelijke hebben of een dienstverlener van flexibiliteit die niet hun leverancier is;<br>
 42° energieplan : een systematische, gedocumenteerde en objectieve evaluatie van het beheer, de organisatie en de uitrusting van de betrokken onderneming, de niet-commerciële instelling of de publiekrechtelijke rechtspersoon op het gebied van energie-efficiëntie, waarbij de mogelijke maatregelen inzake de verbetering van de energie-efficiëntie in kaart worden gebracht;<br>
 42/1° energieprestatie van gebouwen: de berekende of gemeten hoeveelheid energie die nodig is om aan de vraag naar energie te voldoen die verband houdt met een normaal gebruik van het gebouw, waaronder energie die wordt gebruikt voor verwarming, koeling, ventilatie, warmwatervoorziening en verlichting;<br>
 43° energieprestatiecertificaat : een certificaat waarin het resultaat is vermeld van de berekening van de totale energie-efficiëntie van een gebouw, uitgedrukt in een of meer numerieke indicatoren;<br>
@@ -114,7 +129,11 @@ g) informatie bezorgen die niet consistent of in overeenstemming met de werkelij
 49° erkende instelling voor schuldbemiddeling : instelling die erkend is volgens het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling;<br>
 49° /1 ESCO: een natuurlijk persoon of rechtspersoon die in de inrichtingen of gebouwen van een netgebruiker energiediensten of andere maatregelen ter verbetering van de energie-efficiëntie levert waarbij de terugbetaling van de investering gebeurt op basis van de terugverdientijd van de investering;<br>
 50° evenwichtsverantwoordelijke : rechtspersoon die een contract heeft afgesloten met de beheerder van het transmissienet met betrekking tot de transmissie van elektriciteit tussen een of meer injectiepunten en afnamepunten en die voor een geheel van toegangspunten zorg draagt voor het evenwicht tussen de injectie en de afname van elektriciteit op die toegangspunten;<br>
+50° /1 extern signaal: een dynamisch signaal, waaronder een activatiesignaal en een desactivatiesignaal, of een financiële prikkel, zoals een dynamisch prijssignaal, met als doel flexibiliteit in het elektriciteitssysteem te veroorzaken;<br>
 51° federale Elektriciteitswet: de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt;<br>
+51° /1 flexibiliteit: de wijziging van het profiel van productie, injectie, verbruik of afname van elektriciteit door afnemers, producenten of natuurlijke personen of rechtspersonen die elektriciteitsopslagfaciliteiten exploiteren, ten opzichte van hun normale of bestaande verbruiks- of productiepatronen in reactie op een extern signaal of lokaal gemeten netgerelateerde grootheid, zoals de frequentie of de spanning, of in reactie op de aanvaarding van het bod van de eindafnemer of producent, individueel of via aggregatie, enerzijds om vraag- of productievermindering of vraag- of productieverhoging voor een bepaalde prijs te verkopen op een elektriciteitsmarkt, de markt voor lokale congestie of op de georganiseerde markt, vermeld in artikel 2.4 van uitvoeringsverordening (EU) nr. 1348/2014 van de Commissie van 17 december 2014 inzake de informatieverstrekking overeenkomstig artikel 8, leden 2 en 6, van verordening (EU) nr. 1227/2011 van het Europees Parlement en de Raad betreffende de integriteit en transparantie van de groothandelsmarkt voor energie, of anderzijds om een dienst in het energiesysteem te verlenen;<br>
+51° /2 flexibiliteitsactivatieregister: een register met alle toegangspunten of allocatiepunten die deelnemen aan flexibiliteit waarin voor ieder toegangspunt of allocatiepunt de relevante parameters van de activatie van flexibiliteit worden vermeld;<br>
+52° flexibiliteitstoegangsregister: een register met alle toegangspunten of allocatiepunten van het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit die deelnemen aan flexibiliteit, waarin voor ieder toegangspunt of allocatiepunt van het net in kwestie de deelnemer aan flexibiliteit wordt vermeld en op welke dienstverleners van flexibiliteit die deelnemer een beroep doet;<br>
 53° garantie van oorsprong: uniek, verhandelbaar en overdraagbaar elektronisch document dat uitsluitend tot doel heeft om aan de eindafnemer aan te tonen uit welke energiebron een bepaalde hoeveelheid energie geproduceerd is;<br>
 54° gaswinningsinstallatie : installatie waarmee aardgas wordt gewonnen uit de ondergrond of waarin biogas wordt geproduceerd;<br>
 55° gebied bestemd voor bewoning : gebied dat volgens het gewestplan of ruimtelijk uitvoeringsplan één van de volgende bestemmingen heeft :<br>
@@ -125,10 +144,11 @@ d) woongebied met landelijk karakter en culturele, historische of esthetische wa
 e) woonuitbreidingsgebied;<br>
 56° gebouw: voor de toepassing van titels IV/1, X en XI en artikel 1.1.3, 113/1/1°, en artikel 13.4.5 tot en met 13.4.10, elk gebouw in zijn geheel of delen ervan die zijn ontworpen of aangepast om afzonderlijk te worden gebruikt, en waarvoor energie verbruikt wordt om een specifieke binnentemperatuur te verkrijgen;<br>
 56°/1/1 geothermische energie : energie die in de vorm van warmte onder het vaste aardoppervlak is opgeslagen;<br>
+56° /1/2 gereserveerde technische flexibiliteit: de flexibiliteit op verzoek van de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit, waarbij de deelname verplicht is in het kader van de exploitatie van het elektriciteitsdistributienet of plaatselijk vervoernet van elektriciteit onder buitengewone omstandigheden, met een gereguleerde compensatie, vermeld in artikel 4.1.17/5, § 1, eerste lid;<br>
 56/1° gemeenschappelijk deel : elke eenheid van aangrenzende lokalen die door meerdere EPB-eenheden samen gebruikt wordt en die behoort tot het beschermd volume van het gebouw;<br>
 56°/2 gesloten distributienet : een net dat gebruikt wordt voor de distributie van elektriciteit of aardgas binnen een geografisch afgebakende industriële of commerciële locatie of een geografisch afgebakende locatie met gedeelde diensten, dat, behoudens incidenteel, geen huishoudelijke afnemers van elektriciteit of aardgas voorziet, en dat aan een van de volgende vereisten voldoet :<br>
 a) om specifieke technische eisen of veiligheidseisen voorziet het in een geïntegreerde exploitatie of een geïntegreerd productieproces van de verschillende gebruikers van het net;<br>
-b) het distribueert primair elektriciteit of aardgas aan de eigenaar of beheerder van het net of de daarmee verwante bedrijven.<br>
+b) het distribueert primair elektriciteit of aardgas aan de eigenaar of beheerder van het net, of de ondernemingen die daarmee verbonden of geassocieerd zijn.<br>
 56° /3 gezondheidsvoorziening: een organisatie die erkend is door de Vlaamse Gemeenschap en activiteiten uitoefent op het gebied van de zorgverstrekking, de gezondheidsopvoeding en de preventieve gezondheidszorg, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, met uitzondering van de voorzieningen werkzaam op het vlak van de medisch verantwoorde sportbeoefening;<br>
 57° gestrande kosten : de kosten die ondernemingen moeten dragen ten gevolge van verplichtingen die ze in het verleden zijn aangegaan, maar die ze niet langer kunnen nakomen door de liberalisering van de betrokken sector;<br>
 58° groene stroom : elektriciteit die geproduceerd is uit een hernieuwbare energiebron;<br>
@@ -138,7 +158,8 @@ b) het distribueert primair elektriciteit of aardgas aan de eigenaar of beheerde
 62° grote onderneming : onderneming die niet ressorteert onder de categorie kleine of middelgrote onderneming;<br>
 63° haalbaarheidsstudie : studie die de economische, sociale of juridische haalbaarheid van een concreet project onderzoekt;<br>
 64° heffingsjaar : het kalenderjaar waarvoor de heffing, vermeld in titel XIV, is verschuldigd;<br>
-65° hernieuwbare energiebronnen : hernieuwbare niet-fossiele en niet-nucleaire energiebronnen, met name wind, zon, aerothermische, geothermische, hydrothermische energie en energie uit de oceanen, waterkracht, biomassa, stortgas, gas van rioolwaterzuiveringsinstallaties en biogas;<br>
+65° hernieuwbare energiebronnen: hernieuwbare niet-fossiele energiebronnen, namelijk wind, zon, waaronder thermische zonne-energie en fotovoltaïsche energie, geothermie, de omgeving, de getijden, de golfslagen en andere energie uit de oceanen, waterkracht, biomassa, stortgas, gas van rioolzuiveringsinstallaties en biogas;<br>
+65° /1 hernieuwbare-energiegemeenschap: een rechtspersoon die voldoet aan de vereisten, vermeld in artikel 4.8.2;<br>
 66° hernieuwbare energietechnologieën : technologieën die gebruikmaken van hernieuwbare energiebronnen;<br>
 66° /0 hoofdmeter: analoge meter, elektronische meter of digitale meter die energiestromen minstens meet en weergeeft en als eerste meter op een toegangspunt is aangesloten;<br>
 66° /1 hoogspanning: een nominaal spanningsniveau van 30 kilovolt of hoger;<br>
@@ -174,11 +195,13 @@ en dat binnen het scala van prestatieniveaus ligt waar de berekende kosten-baten
 77° /1 laagspanning: een nominaal spanningsniveau van 1000 volt of lager;<br>
 78° leverancier : elke natuurlijke persoon of rechtspersoon die aan afnemers elektriciteit of aardgas verkoopt behoudens indien de verkoop plaatsvindt via een directe lijn, een directe leiding of privédistributienet;<br>
 79° lokale adviescommissie : commissie als vermeld in artikel 7 van het decreet van 20 december 1996 tot regeling van het recht op minimumlevering van elektriciteit, gas en water;<br>
+79° /0 lokale congestie: een situatie waarin een element van het elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of het koppelpunt met het plaatselijk vervoernet van elektriciteit of het transmissienet niet alle fysieke stromen kan opvangen zonder de operationele veiligheid in gevaar te brengen;<br>
 79° /1 lopende projecten : projecten met startdatum tot en met de eerstvolgende hieronder genoemde van toepassing zijnde datum :<br>
 a) 31 juli;<br>
 b) ...;<br>
 80° m3(n) : de hoeveelheid gas die, bij een temperatuur van nul graden Celsius en onder absolute druk van 1,01325 bar, een volume van één kubieke meter inneemt;<br>
-81° marktpartij : producent, aardgasinvoerder, distributienetbeheerder, beheerder van het plaatselijk vervoernet van elektriciteit, beheerder van het transmissienet, de beheerder van het vervoernet, werkmaatschappij, aanbieder van energiediensten, leverancier, tussenpersoon, intermediair bij de aankoop van energie, bevrachter of evenwichtsverantwoordelijke;<br>
+80° /1 marktdeelnemer: een natuurlijke persoon of rechtspersoon die elektriciteit aankoopt, verkoopt of produceert, flexibiliteits- of aggregatiediensten verleent of energieopslagdiensten exploiteert, met inbegrip van het plaatsen van handelsorders op een of meer elektriciteitsmarkten of op de markt voor lokale congestie, inclusief op balanceringsmarkten;<br>
+81° marktpartij : producent, aardgasinvoerder, distributienetbeheerder, beheerder van het plaatselijk vervoernet van elektriciteit, beheerder van het transmissienet, de beheerder van het vervoernet, werkmaatschappij, aanbieder van energiediensten, leverancier, tussenpersoon, intermediair bij de aankoop van energie, energiegemeenschap van burgers, hernieuwbare-energiegemeenschap, bevrachter, dienstverleners van flexibiliteit, aanvrager van flexibiliteit, aggregatoren of evenwichtsverantwoordelijke;<br>
 82° marktintroductieproject : project voor het installeren en monitoren van het gebruik van energiezuinige producten, technieken, systemen of hernieuwbare energietechnologieën die nog niet ruim verspreid zijn in het Vlaamse Gewest, door een particulier, een niet-commerciële instelling, een publiekrechtelijke persoon of een onderneming, die niet de ontwikkelaar, fabrikant of distributeur ervan is;<br>
 82° /1 meetgegevens: gegevens die verkregen worden door of gebaseerd zijn op een telling of meting door middel van een meetinrichting;<br>
 83° melding : de verplichte melding van de handelingen aan het college van burgemeester en schepenen, vermeld in artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009;<br>
@@ -201,6 +224,8 @@ c) beantwoorden aan het zelfstandigheidscriterium;<br>
 91°/1 netgebruiker : een natuurlijke persoon of rechtspersoon die elektriciteit of aardgas injecteert op of afneemt van een distributienet;<br>
 91° /2 netto-afname: de afname op een toegangspunt verminderd met de injectie van een productie-installatie aangesloten op hetzelfde toegangspunt;<br>
 92° niet-commerciële instellingen : scholen, universiteiten, verzorgingsinstellingen en andere gemeenschapsdiensten, verenigingen van mede-eigenaars, kerkfabrieken, verenigingen zonder winstoogmerk en feitelijke verenigingen die een filantropisch, wetenschappelijk, technisch of pedagogisch doel nastreven op het gebied van energie, milieubescherming of bestrijding van sociale uitsluiting;<br>
+92° /1 niet-frequentiegerelateerde ondersteunende dienst: een dienst die wordt gebruikt door een transmissie- of distributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit voor spanningsregeling in stationaire toestand, snelle blindstroominjecties, inertie voor plaatselijke netstabiliteit, kortsluitstroom of inzetbaarheid in eilandbedrijf;<br>
+92° /1/0 niet-gereserveerde technische flexibiliteit: onmiddellijke, als alle commerciële middelen en gereserveerde technische flexibiliteit zijn uitgeput, flexibiliteit op verzoek van de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit, waarbij de deelname verplicht is in het kader van de exploitatie van het elektriciteitsdistributienet of plaatselijk vervoernet van elektriciteit onder onvoorziene uitzonderlijke netuitbatingsomstandigheden, al dan niet met een gereguleerde compensatie als vermeld in artikel 4.1.17/5, § 2, eerste lid;<br>
 92° /1/1 nieuwe groenestroominstallatie: een nieuw opgerichte installatie die volledig zelfstandig en onafhankelijk elektriciteit uit hernieuwbare energiebronnen opwekt, en waarbij de noodzakelijke onderdelen van de installatie nog niet eerder gebruikt zijn in een groenestroominstallatie;<br>
 92° /1/2 nieuwe productie-installatie: een nieuwe groenestroominstallatie of een nieuwe warmte-krachtinstallatie;<br>
 92° /2 nieuwe projecten : projecten met startdatum na de eerstvolgende hieronder genoemde van toepassing zijnde datum :<br>
@@ -209,6 +234,7 @@ b) ...;<br>
 92° /2/1 nieuwe warmtekracht-installatie: een nieuw opgerichte installatie die volledig zelfstandig en onafhankelijk in één proces thermische warmte en elektrische of mechanische energie opwekt, en waarbij de noodzakelijke onderdelen van de installatie nog niet eerder gebruikt zijn in een warmtekracht-installatie;<br>
 92° /3 noodgroep: generatoren die uitsluitend tot bedoeling hebben om kritische belasting te voeden bij netuitval, en die verder enkel netgekoppeld worden om te testen of om een aanzienlijk of systematisch onevenwicht in de Belgische regelzone op te vangen zoals onder de tertiaire reserve omschreven in het koninklijk besluit van 19 december 2002 houdende een technisch reglement voor het beheer van het transmissienet van elektriciteit en de toegang ertoe;<br>
 92°/4 ombudsdienst voor energie : de ombudsdienst, vermeld in artikel 27 van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt;<br>
+92° /5 onafhankelijke dienstverlener van flexibiliteit: een dienstverlener van flexibiliteit die niet is aangesloten bij de leverancier van de afnemer of die een afzonderlijke evenwichtsverantwoordelijke heeft die geen evenwichtsverantwoordelijke van de afnemer is;<br>
 93° ondernemingen : elke natuurlijke persoon die koopman is of een zelfstandig beroep uitoefent, de vennootschappen die de rechtsvorm van een handelsvennootschap hebben aangenomen, de Europese economische samenwerkingsverbanden en de economische samenwerkingsverbanden die beschikken over een exploitatiezetel in het Vlaamse Gewest of die zich ertoe verbinden in het Vlaamse Gewest een exploitatiezetel te vestigen;<br>
 93° /1 onderneming in moeilijkheden: een onderneming die zich in één van de volgende situaties bevindt:<br>
 a) in het geval van een vennootschap met beperkte aansprakelijkheid: meer dan de helft van haar geplaatste aandelenkapitaal is verdwenen door de opgebouwde verliezen. Dit is het geval wanneer het in mindering brengen van de opgebouwde verliezen op de reserves en alle andere elementen die doorgaans worden beschouwd als een onderdeel van het eigen vermogen van de onderneming, een negatief cumulatief bedrag oplevert dat hoger is dan de helft van het geplaatste aandelenkapitaal;<br>
@@ -218,11 +244,12 @@ d) wanneer de onderneming reddingssteun heeft ontvangen en de lening nog niet he
 e) in het geval van een onderneming die geen kmo is: wanneer de afgelopen twee jaar:<br>
 1) de verhouding tussen de schulden en het eigen vermogen van de onderneming meer dan 7,5 bedroeg; en<br>
 2) de op basis van de EBITDA bepaalde rentedekkingsgraad van de onderneming lager lag dan 1,0;<br>
-94° ondersteunende dienst: een dienst die nodig is voor de exploitatie van een transmissie- of distributienet;<br>
+94° ondersteunende dienst: een dienst die nodig is voor de exploitatie van een transmissie- of distributienet, voor de elektriciteitsmarkt, met inbegrip van balanceringsdiensten en niet-frequentiegerelateerde ondersteunende diensten, maar uitgezonderd congestiebeheer;<br>
 94° /1 onderwijsinstelling: alle scholen, internaten, centra voor volwassenenonderwijs en voor basiseducatie, centra voor leerlingenbegeleiding, hogescholen en universiteiten, die gefinancierd, gesubsidieerd of erkend zijn door het Vlaams Ministerie van Onderwijs en Vorming;<br>
 95° onrendabele top : het productieafhankelijk gedeelte van de inkomsten dat nodig is om de netto contante waarde van een investering op nul te doen uitkomen en die berekend wordt aan de hand van een cashflowberekening;<br>
 96° ...<br>
 97° openbaredienstverplichting : verplichting die betrekking heeft op de sociaaleconomische, ecologische of technische aspecten van de energievoorziening;<br>
+97° /0 peer-to-peerhandel in hernieuwbare energie: de verkoop van hernieuwbare energie tussen actieve afnemers door een overeenkomst met vooraf bepaalde voorwaarden voor de automatische uitvoering en afwikkeling van de transactie, rechtstreeks tussen deelnemers of indirect via een derde marktdeelnemer, zoals een aggregator;<br>
 97° /1 peil van de energetische prestatie van de schil (of S-peil): peil dat de energetische prestatie van de schil van de EPB-eenheid weergeeft zoals vastgelegd door de Vlaamse Regering;<br>
 98° peil van globale warmte-isolatie (of K-peil) : peil van de globale warmte-isolatie zoals dat gedefinieerd is volgens de Belgische norm of de door de Vlaamse overheid vastgelegde specificaties;<br>
 99° peil van primair energieverbruik (of E-peil) : peil dat de globale energetische prestatie weergeeft en uitgedrukt wordt door de verhouding van het karakteristiek jaarlijks primair energieverbruik tot een referentiewaarde;<br>
@@ -258,6 +285,7 @@ c) er zijn voor installaties op basis van zonne-energie minstens twaalf maanden 
 114° startverklaring : een schriftelijke verklaring met de startdatum van de werkzaamheden en het overzicht van de prestaties inzake EPB-eisen die voor het gebouw worden nagestreefd;<br>
 114/1° ...;<br>
 114° /2 storing : elke overschrijding van de norm NBN EN 50160 in de elektriciteitstoevoer of elke afwijking van de toegelaten drukniveaus van het aardgasdistributienet;<br>
+114° /2/1 stroomafnameovereenkomst: een overeenkomst waarbij een natuurlijke persoon of rechtspersoon zich ertoe verbindt om elektriciteit of hernieuwbare energie rechtstreeks van een energieproducent af te nemen;<br>
 114° /3 submeter: meter die stroomafwaarts van de hoofdmeter opgesteld is en energiestromen in een beperkt deel van een energienetwerk kan meten en registreren;<br>
 115° subsidieovereenkomst : een overeenkomst waarin de rechten en de verplichtingen van de Vlaamse Regering en van de begunstigde van de subsidie worden geregeld;<br>
 115/1° systeemeisen : eisen in verband met de totale energieprestatie, het adequaat installeren, dimensioneren, afstellen en controleren van de technische bouwsystemen die in nieuwe gebouwen worden geïnstalleerd of in bestaande gebouwen nieuw worden geïnstalleerd, vervangen of verbeterd;<br>
@@ -287,6 +315,7 @@ c) er zijn voor installaties op basis van zonne-energie minstens twaalf maanden 
 126/2° vergunningverlenend bestuursorgaan : het bestuursorgaan dat de omgevingsvergunning voor stedenbouwkundige handelingen aflevert;<br>
 126° /3 verordening 2016/631/EU: verordening 2016/631/EU van de Commissie van 14 april 2016 tot vaststelling van een netcode betreffende eisen voor de aansluiting van elektriciteitsproducenten op het net;<br>
 126° /4 verordening 2016/1388/EU: verordening 2016/1388/EU van de Commissie van 17 augustus 2016 tot vaststelling van een netcode voor aansluiting van verbruikers;<br>
+126° /5 verordening (EU) 2019/943: verordening (EU) 2019/943 van het Europees Parlement en de Raad van 5 juni 2019 betreffende de interne markt voor elektriciteit;<br>
 127° verslaggever: de natuurlijke persoon of de rechtspersoon die in het kader van de energieprestatieregelgeving energieadvies aan de aangifteplichtige verstrekt en die instaat voor de decretaal verplichte rapporteringen, vermeld in titel XI, hoofdstuk I;<br>
 128° vervoersnet : het vervoersnet, vermeld in artikel 1, 10°, van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen;<br>
 129° vervoeronderneming : vervoeronderneming, vermeld in artikel 1, 9°, van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen;<br>
@@ -296,7 +325,8 @@ c) er zijn voor installaties op basis van zonne-energie minstens twaalf maanden 
 131/2° vollasturen :<br>
 a) voor groenestroomproductie is dit de netto groenestroomproductie over een bepaalde periode die in aanmerking komt voor groenestroomcertificaten, gedeeld door het nominaal vermogen uit hernieuwbare energiebronnen, rekening houdend met de groenfactor;<br>
 b) voor warmte-krachtbesparing is dit de netto warmte-krachtbesparing over een bepaalde periode die in aanmerking komt voor warmte-krachtcertificaten, gedeeld door het theoretisch vermogen aan warmte-krachtbesparing, dat berekend wordt op basis van de constructeursgegevens zoals die gebruikt werden voor het berekenen van de RPE die werd vastgelegd in de beslissing van de VREG;<br>
-131/3° vraagzijdebeheer: een algemene of geïntegreerde aanpak die erop gericht is de omvang en de timing van het elektriciteitsverbruik te beïnvloeden teneinde het primaire energieverbruik en piekbelastingen te verminderen door voorrang te geven aan investeringen in energie-efficiëntiebevorderende maatregelen of andere maatregelen, zoals onderbreekbare leveringscontracten, in plaats van aan investeringen om de productiecapaciteit te verhogen, indien de eerstgenoemde maatregelen de doelmatigste en meest economische optie vormen, mede gelet op het positieve milieueffect van een lager energieverbruik en de daarmee verband houdende aspecten met betrekking tot de voorzieningszekerheid en de distributiekosten;<br>
+131° /3 volledig geïntegreerde netwerkcomponenten: netwerkcomponenten die in het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit, met inbegrip van elektriciteitsopslagfaciliteiten, geïntegreerd zijn en die uitsluitend gebruikt worden om een veilig en betrouwbaar beheer van het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit te waarborgen, en niet voor balancerings- of congestiebeheer;<br>
+131° /4 vraagrespons: een vorm van flexibiliteit, namelijk de wijziging van het profiel van verbruik of de afname van elektriciteit door afnemers ten opzichte van hun normale of bestaande verbruikspatronen, in reactie op de externe signalen of lokaal gemeten netgerelateerde grootheden, of in reactie op de aanvaarding van het bod van de eindafnemer, individueel of via aggregatie, enerzijds om vraagvermindering of -verhoging voor een bepaalde prijs te verkopen op een elektriciteitsmarkt, de markt voor lokale congestie of op de georganiseerde markt, vermeld in artikel 2.4 van uitvoeringsverordening (EU) nr. 1348/2014 van de Commissie van 17 december 2014 inzake de informatieverstrekking overeenkomstig artikel 8, leden 2 en 6, van verordening (EU) nr. 1227/2011 van het Europees Parlement en de Raad betreffende de integriteit en transparantie van de groothandelsmarkt voor energie, of anderzijds om een dienst in het energiesysteem te verlenen;<br>
 132° VREG : autonome dienst met rechtspersoonlijkheid, die overeenkomstig artikel 3.1.1 wordt opgericht;<br>
 133° wanbetaling : de niet-betaling of onvolledige betaling van minstens één elektriciteits- of aardgasfactuur;<br>
 133° /1 warmte- of koudeleverancier: elke natuurlijke persoon of rechtspersoon die aan afnemers thermische energie via een warmte- of koudenet verkoopt;<br>
@@ -313,8 +343,9 @@ b) voor warmte-krachtbesparing is dit de netto warmte-krachtbesparing over een b
 137° /2 welzijnsvoorziening: een organisatie die erkend is door de Vlaamse Gemeenschap en activiteiten uitoefent op het gebied van het gezin, het maatschappelijk welzijn, het onthaal en de integratie van inwijkelingen, de mindervaliden, de bejaarden, de jeugdbescherming en de sociale hulpverlening aan gedetineerden met het oog op hun sociale re-integratie, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
 138° werkmaatschappij : de privaatrechtelijke vennootschap waarin de distributienetbeheerder participeert of de publiekrechtelijke rechtspersoon die participeert in de distributienetbeheerder, die in naam en voor rekening van de distributienetbeheerder belast is met de exploitatie van zijn net en de toepassing van openbaredienstverplichtingen;<br>
 138/1° Woningbouwwet: de wet van 9 juli 1971 tot regeling van de woningbouw en de verkoop van te bouwen of in aanbouw zijnde woningen;<br>
-139° wooneenheid : elke eenheid in een woongebouw die over de nodige woonvoorzieningen beschikt om autonoom te kunnen functioneren.<br>
-140° zorgwoning: gebouweenheid die voldoet aan de voorwaarden, vermeld in artikel 4.1.1, 18°, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009;
+139° wooneenheid : elke eenheid in een woongebouw die over de nodige woonvoorzieningen beschikt om autonoom te kunnen functioneren;<br>
+139° /1 zelfverbruik van energie: het zelf produceren en vervolgens momentaan verbruiken of opslaan van energie zonder dat de energie in het elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit, een gesloten distributienet van elektriciteit of een warmtenet of koudenet geïnjecteerd wordt;<br>
+140° zorgwoning: gebouweenheid die voldoet aan de voorwaarden, vermeld in artikel 4.1.1, 18°, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.
 
 ## TITEL II. DOELSTELLINGEN
 
@@ -348,7 +379,7 @@ Alle officiële akten, officiële aankondigingen of andere officiële stukken di
 <br>
 § 3. Het Vlaams Parlement kan de vestigingsplaats van de zetel van de VREG bepalen.<br>
 <br>
-§ 4. De VREG fungeert voor het Vlaamse Gewest en voor de gewestelijke bevoegdheden inzake elektriciteit en aardgas als de regulerende instantie, vermeld in artikel 35, tweede lid, van de richtlijn 2009/72/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot intrekking van richtlijn 2003/54/EG en artikel 39, tweede lid, van de richtlijn 2009/73/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende gemeenschappelijke regels voor de interne markt voor aardgas en tot intrekking van richtlijn 2003/55/EG.<br>
+§ 4. De VREG fungeert voor het Vlaamse Gewest en voor de gewestelijke bevoegdheden inzake elektriciteit en aardgas als de regulerende instantie, vermeld in artikel 57, tweede lid, van de richtlijn (EU) 2019/944 van het Europees Parlement en de Raad van 5 juni 2019 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot wijziging van richtlijn 2012/27/EU en artikel 39, tweede lid, van de richtlijn 2009/73/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende gemeenschappelijke regels voor de interne markt voor aardgas en tot intrekking van richtlijn 2003/55/EG.<br>
 <br>
 Bij de uitoefening van zijn taken en bevoegdheden als regulator vraagt of ontvangt de VREG, noch zijn bestuurders, noch zijn personeelsleden, instructies van de Vlaamse Regering, van het Vlaams Parlement of van een andere publieke of particuliere entiteit.<br>
 <br>
@@ -366,23 +397,40 @@ Om&nbsp;zijn missie waar te maken, vervult de VREG de volgende taken :<br>
 1° toezichthoudende en controlerende taken :<br>
 a) het toezicht en de controle op de naleving van de bepalingen van titels IV,&nbsp;VI en hoofdstuk I tot en met IV van titel VII van dit decreet, evenals de bijbehorende uitvoeringsbepalingen;<br>
 b) het toezicht en de controle op de naleving van de technische reglementen;<br>
-c) het toezicht houden op de doeltreffendheid van de vrijmaking van de elektriciteits- en gasmarkt in het Vlaamse Gewest, inclusief de opvolging van de overstap- en afsluitingspercentages en de elektriciteits- en gasprijzen van huishoudelijke afnemers;<br>
+c) het toezicht houden op de doeltreffendheid van de vrijmaking van de elektriciteits- en gasmarkt in het Vlaamse Gewest, inclusief de opvolging van de overstap- en afsluitingspercentages en de elektriciteits- en gasprijzen van huishoudelijke afnemers, de impact van contracten op basis van een dynamische elektriciteitsprijs, het gebruik van digitale meters, het verband tussen huishoudelijke en groothandelsprijzen, en ook het toezicht houden op vervalsing of beperking van de mededinging, onder andere door toepasselijke informatie te verstrekken en relevante gevallen aan de bevoegde mededingingsautoriteit voor te leggen;<br>
 d) het toezicht houden op de kwaliteit van de dienstverlening van de elektriciteits- en aardgasleveranciers, inclusief hun systemen van vooruitbetaling en de klachten van huishoudelijke afnemers;<br>
-e) het toezicht houden op de zekerheid en betrouwbaarheid van de distributie netten en het plaatselijk vervoersnet van elektriciteit, alsook de kwaliteit van de dienstverlening van de netbeheerders, onder meer bij de uitvoering van herstellingen en onderhoud en op het vlak van de tijd die de beheerders van de netten nodig hebben om aansluitingen en herstellingen uit te voeren;<br>
+e) het toezicht houden op de zekerheid en betrouwbaarheid van de distributie netten en het plaatselijk vervoersnet van elektriciteit, alsook de kwaliteit van de dienstverlening van de netbeheerders,&nbsp;en de klachten van de huishoudelijke afnemers hierover onder meer bij de uitvoering van herstellingen en onderhoud en op het vlak van de kosten en de tijd die gepaard gaan met aansluitingen en herstellingen uit te voeren;<br>
 f) het toezicht houden op de uitvoering van regels betreffende de taken en verantwoordelijkheden van de distributienetbeheerders, leveranciers, afnemers en andere marktpartijen die actief zijn in het Vlaamse Gewest;<br>
-g) het toezicht houden op de vrije toegang voor de afnemer tot zijn verbruiksgegevens;<br>
+g) het toezicht houden op de vrije toegang voor de afnemer tot zijn verbruiksgegevens en het verstrekken op het niveau van het Vlaamse Gewest, voor facultatief gebruik, van een gemakkelijk te begrijpen geharmoniseerd formaat van de verbruiksgegevens en andere gegevens van de afnemer over de aansluiting en toegang tot het distributienet en het plaatselijk vervoernet van elektriciteit en de onmiddellijke toegang van de afnemer tot die gegevens;<br>
 h) het toezicht en de controle op de naleving van de bepalingen van titel IV/1 van dit decreet, alsook van de bijbehorende uitvoeringsbepalingen;<br>
 i) het toezicht en de controle op de naleving van een eventueel technisch reglement voor warmte- of koudenetten;<br>
 j) het toezicht op de kwaliteit van de dienstverlening van de warmte- of koudeleveranciers, inclusief hun systemen van vooruitbetaling en de klachten van huishoudelijke afnemers van thermische energie;<br>
 k) het toezicht op de zekerheid en betrouwbaarheid van de warmte- of koudenetten, alsook op de kwaliteit van de dienstverlening van de warmte- of koudenetbeheerders, onder meer bij de uitvoering van herstellingen en onderhoud en op het vlak van de tijd die de warmte- of koudenetbeheerders nodig hebben om aansluitingen en herstellingen uit te voeren;<br>
 l) het toezicht op de uitvoering van regels voor de taken en verantwoordelijkheden van de koude- of warmtenetbeheerders, de warmte- of koudeleveranciers, de warmte- of koudeafnemers en andere marktpartijen inzake stadsverwarming of -koeling, die actief zijn in het Vlaamse Gewest;<br>
 m) het toezicht op de vrije toegang voor de warmte- of koudeafnemer tot zijn verbruiksgegevens;<br>
-2° regulerende taken: de regulering van toegang tot en de werking van de elektriciteits- en gasmarkt, inclusief de distributienettarieven voor elektriciteit en aardgas of overgangsmaatregelen hierover, overeenkomstig de bepalingen van dit decreet;<br>
+n) ervoor zorgen dat de distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit, de elektriciteitsbedrijven en andere marktdeelnemers die actief zijn in het Vlaamse Gewest, de volgende elementen naleven:<br>
+1) hun verplichtingen conform titel IV van dit decreet, verordening (EU) 2019/943 en de netcodes en richtsnoeren die conform artikel 59, 60 en 61 van de voormelde verordening (EU) 2019/943 zijn vastgesteld;<br>
+2) ander toepasselijk recht van de Europese Unie dan de bepalingen, vermeld in punt 1), waaronder rechtsbepalingen over grensoverschrijdende kwesties;<br>
+3) de besluiten van ACER;<br>
+o) goedkeuren van producten en aanbestedingsprocedures voor niet-frequentiegerelateerde ondersteunende diensten van de distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit;<br>
+p) doen naleven en uitvoeren van de netcodes en richtsnoeren die conform artikel 59, 60 en 61 van de voormelde verordening (EU) 2019/943 zijn vastgesteld en die van toepassing zijn op de distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit;<br>
+q) alle wettelijk bindende besluiten van de Europese Commissie en ACER die van toepassing zijn op de distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit naleven en uitvoeren;<br>
+r) erover waken dat er geen sprake is van kruissubsidiëring tussen activiteiten van de distributienetbeheerders en de beheerder van het plaatselijk voernet van elektriciteit voor transmissie, distributie en levering of andere activiteiten die al dan niet met het elektriciteitsgebied te maken hebben;<br>
+s) toezicht houden op en beoordelen van de prestaties van de distributienetbeheerders en de beheerder van het plaatselijk vervoerset van elektriciteit wat betreft de ontwikkeling van een slim netwerk dat gericht is op energie-efficiëntie en de integratie van energie uit hernieuwbare bronnen op basis van een beperkte reeks indicatoren. De VREG publiceert minstens om de twee jaar een rapport met aanbevelingen daarover;<br>
+t) samen met andere betrokken instanties helpen waarborgen dat de maatregelen ter bescherming van de afnemers die aangesloten zijn op het distributienet of het plaatselijk vervoernet van elektriciteit, doeltreffend zijn en gehandhaafd worden;<br>
+u) toezicht houden op het wegnemen van de ongerechtvaardigde belemmeringen en beperkingen op het distributienet of het plaatselijk vervoernet van elektriciteit voor het verbruik van zelfopgewekte elektriciteit en voor energiegemeenschappen;<br>
+2° regulerende taken:<br>
+a) de regulering van de toegang tot en de werking van de elektriciteits- en gasmarkt, inclusief de distributienettarieven voor elektriciteit en aardgas of overgangsmaatregelen daarover, overeenkomstig de bepalingen van dit decreet;<br>
+b) de goedkeuring van de voorwaarden voor de aansluiting op en de toegang tot het distributienet en het plaatselijk vervoernet van elektriciteit en voor de verstrekking van ondersteunende diensten en flexibiliteitsdiensten, voor het beheer van lokale congestie binnen hun dekkingsgebied. Die ondersteunende diensten en flexibiliteitsdiensten voldoen aan de volgende voorwaarden:<br>
+i) ze worden zo economisch mogelijk uitgevoerd en bieden passende stimuleringsmaatregelen voor netgebruikers om hun input en output op elkaar af te stemmen;<br>
+ii) ze worden op billijke en niet-discriminerende wijze verstrekt en zijn gebaseerd op objectieve criteria;<br>
 3° taken in verband met bemiddeling en beslechting van geschillen :<br>
 a) het bemiddelen in geschillen met betrekking tot de verplichtingen van een netbeheerder of beheerder van een gesloten distributienet, vermeld in de titels IV, V, VI en de hoofdstukken I tot en met IV van titel VII van dit decreet en haar uitvoeringsbepalingen;<br>
 b) het beslechten van geschillen met betrekking tot de verplichtingen van een netbeheerder of beheerder van een gesloten distributienet, vermeld in de titels IV, V, VI en de hoofdstukken I tot en met IV van titel VII van dit decreet en haar uitvoeringsbepalingen;<br>
 c) het bemiddelen in geschillen tegen een warmte- of koudenetbeheerder met betrekking tot zijn verplichtingen, vermeld in titel IV/1 en VI van dit decreet en in de uitvoeringsbepalingen ervan;<br>
 d) het beslechten van geschillen tegen een warmte- of koudenetbeheerder met betrekking tot zijn verplichtingen, vermeld in titel IV/1 en VI van dit decreet en in de uitvoeringsbepalingen ervan;<br>
+e) het bemiddelen in geschillen met betrekking tot de verplichtingen van de dienstverleners van flexibiliteit en aggregatoren, vermeld in titel IV, afdeling V/1, van dit decreet en de uitvoeringsbepalingen ervan;<br>
+f) het beslechten van geschillen met betrekking tot de verplichtingen van de dienstverleners van flexibiliteit en aggregatoren, vermeld in titel IV, afdeling V/1, van dit decreet en haar uitvoeringsbepalingen;<br>
 4° informerende taken :<br>
 a) het informeren van de marktactoren en de afnemers van elektriciteit en aardgas over de werking van de elektriciteits- en aardgasmarkt;<br>
 b) het informeren van de afnemers van elektriciteit en aardgas over de prijzen en voorwaarden die de leveranciers hanteren, met inbegrip van het aanbieden of laten aanbieden van een objectieve vergelijking van die prijzen en voorwaarden;<br>
@@ -399,7 +447,9 @@ h) het informeren van de warmte- of koudeafnemers over de prijzen en voorwaarden
 i) het opstellen en publiceren van statistieken en gegevens over de werking van de warmte- of koudenetten;<br>
 j) het jaarlijks voor 15 mei publiceren van een in samenwerking met de federale energieregulator, en eventueel de andere gewestelijke energieregulatoren, opgestelde studie rond de verschillende componenten van de energiekost die minstens een benchmark met de buurlanden bevat.<br>
 k) een vijfjaarlijkse evaluatie van de activiteiten inzake databeheer op het distributienet&nbsp;door de netbeheerder, met inbegrip van een studie over het aanbieden van de specifieke activiteiten en het opnemen van taken en verplichtingen met betrekking tot activiteiten inzake databeheer in de andere gewesten en in de ons omliggende landen;<br>
-l) tweejaarlijks rapporteren aan de Vlaamse Regering over de naleving van de voorwaarden waaraan de netbeheerders zijn gebonden bij de uitoefening van hun activiteiten inzake databeheer op het distributienet, met inbegrip van de resultaten van de vijfjaarlijkse evaluatie.<br>
+l) tweejaarlijks rapporteren aan de Vlaamse Regering over de naleving van de voorwaarden waaraan de netbeheerders zijn gebonden bij de uitoefening van hun activiteiten inzake databeheer op het distributienet, met inbegrip van de resultaten van de vijfjaarlijkse evaluatie;<br>
+m) jaarlijks rapporteren over de voornaamste ontwikkelingen op het vlak van dynamische prijscontracten in het Vlaamse Gewest, met inbegrip van het aanbod op de markt en de effecten op de facturen van de consument en, specifiek, de prijsvolatiliteit ervan;<br>
+n) jaarlijks rapporteren in welke mate het decretale kader rond flexibiliteit en energiegemeenschappen en de verdere uitwerking ervan zorgt voor een flexibeler gebruik van het bestaande net en een versnelling van een duurzame energietransitie waarin de burger centraal staat. De aspecten die hierin worden opgenomen, worden verder door de Vlaamse Regering bepaald.<br>
 5° adviserende taken :<br>
 a) het op verzoek of op eigen initiatief verlenen van adviezen met betrekking tot de elektriciteits- en gasmarkt aan het Vlaams Parlement, de minister of de Vlaamse Regering;<br>
 b) het uitvoeren van studies of onderzoeken betreffende de elektriciteits- en gasmarkt, op eigen initiatief of op verzoek van het Vlaams Parlement, de minister of de Vlaamse Regering;<br>
@@ -432,7 +482,19 @@ De VREG kan door&nbsp;het Vlaams Parlement&nbsp;worden belast met bijzondere opd
 
 ### ART. 3.1.4/1.
 
-Bij de uitoefening van haar taken en bevoegdheden neemt de VREG alle   redelijke maatregelen om de volgende doelstellingen te bereiken, indien nodig in   overleg met andere betrokken en bevoegde instanties :<BR>1° de bevordering, in   nauwe samenwerking met ACER, de regulerende instanties van andere Belgische   overheden en Europese lidstaten en de Europese Commissie, van een door   concurrentie gekenmerkte, zekere en vanuit milieuoogpunt duurzame Europese   interne markt voor elektriciteit en gas, en van een daadwerkelijke openstelling   van de markt voor alle afnemers en Europese leveranciers, en een waarborging dat   elektriciteits- en aardgas-distributienetten op een doeltreffende en betrouwbare   manier werken, rekening houdend met doelstellingen op lange termijn;<BR>2° de   ontwikkeling van door concurrentie gekenmerkte en goed functionerende regionale   markten binnen de Europese Gemeenschap met het oog op het bereiken van de onder   1° genoemde doelstelling;<BR>3° het opheffen van alle beperkingen voor handel in   elektriciteit en aardgas tussen de lidstaten, inclusief de ontwikkeling van   afdoende grensoverschrijdende transmissiecapaciteit om aan de vraag te voldoen   en de integratie van nationale markten te versterken, hetgeen de elektriciteits-   en gasstromen in de Europese Gemeenschap kan faciliteren;<BR>4° de ontwikkeling,   op de meest kosteneffectieve manier, van veilige, betrouwbare en efficiënte   niet-discriminerende netten die klantgericht zijn, de adequaatheid van die   netten bevorderen, alsook, aansluitend bij de doelstellingen van het algemene   energiebeleid, energie-efficiëntie en de integratie van groot- en kleinschalige   productie van elektriciteit uit hernieuwbare energiebronnen en gedistribueerde   productie in distributienetten en het plaatselijk vervoersnet van   elektriciteit;<BR>5° de toegang van nieuwe productiecapaciteit tot het net   vergemakkelijken, namelijk door belemmeringen voor de toegang van nieuwkomers op   de markt en van elektriciteit uit hernieuwbare energiebronnen weg te   nemen;<BR>6° ervoor zorgen dat de netbeheerders en -gebruikers de nodige   stimulansen krijgen, zowel op korte als op lange termijn, om de efficiëntie van   netprestaties te verbeteren en de marktintegratie te versterken;<BR>7° ervoor   zorgen dat afnemers de vruchten dragen van een efficiënte werking van de Vlaamse   elektriciteits- en gasmarkt, het bevorderen van daadwerkelijke mededinging en   het bijdragen tot het waarborgen van consumentenbescherming;<BR>8° het bereiken   van een hoog niveau van universele en openbare dienstverlening bij het leveren   van elektriciteit en aardgas, tot de bescherming van kwetsbare afnemers en tot   de compatibiliteit van de processen voor de uitwisseling van gegevens die nodig   zijn voor het veranderen van leverancier;<BR>9° het geven van prikkels voor de   deelname van vraagzijdemiddelen aan het aanbod op de Vlaamse elektriciteits- en   gasmarkt.
+Bij de uitoefening van haar taken en bevoegdheden neemt de VREG alle redelijke maatregelen om de volgende doelstellingen te bereiken, indien nodig in overleg met andere betrokken en bevoegde instanties :<br>
+1° de bevordering, in nauwe samenwerking met ACER, de regulerende instanties van andere Belgische overheden en Europese lidstaten en de Europese Commissie, van een door concurrentie gekenmerkte, flexibele, zekere en vanuit milieuoogpunt duurzame Europese interne markt voor elektriciteit en gas, en van een daadwerkelijke openstelling van de markt voor alle afnemers en Europese leveranciers, en een waarborging dat elektriciteits- en aardgas-distributienetten op een doeltreffende en betrouwbare manier werken, rekening houdend met doelstellingen op lange termijn;<br>
+2° de ontwikkeling van door concurrentie gekenmerkte en goed functionerende regionale, grensoverschrijdende markten binnen de Europese Unie met het oog op het bereiken van de onder 1° genoemde doelstelling;<br>
+3° het opheffen van alle beperkingen voor handel in elektriciteit en aardgas tussen de lidstaten, inclusief de ontwikkeling van afdoende grensoverschrijdende transmissiecapaciteit om aan de vraag te voldoen en de integratie van nationale markten te versterken, hetgeen de elektriciteits- en gasstromen in de Europese Unie kan faciliteren;<br>
+4° de ontwikkeling, op de meest kosteneffectieve manier, van veilige, betrouwbare en efficiënte niet-discriminerende netten die klantgericht zijn, en met betrekking tot deze netten:<br>
+a) het bevorderen van de adequaatheid;<br>
+b) aansluitend bij de doelstellingen van het algemene energiebeleid, het bevorderen van de energie-efficiëntie, de integratie van groot- en kleinschalige productie van elektriciteit uit hernieuwbare energiebronnen en gedistribueerde productie in distributienetten en het plaatselijk vervoernet van elektriciteit;<br>
+c) het vergemakkelijken van het beheer met betrekking tot andere energienetwerken voor gas of warmte;<br>
+5° de toegang van nieuwe productiecapaciteit&nbsp;en elektriciteitsopslagfaciliteiten tot het net vergemakkelijken, namelijk door belemmeringen voor de toegang van nieuwkomers op de markt en van elektriciteit uit hernieuwbare energiebronnen weg te nemen;<br>
+6° ervoor zorgen dat de netbeheerders en -gebruikers de nodige stimulansen krijgen, zowel op korte als op lange termijn, om de efficiëntie, en in het bijzonder de energie-efficiëntie, van netprestaties te verbeteren en de marktintegratie te versterken;<br>
+7° ervoor zorgen dat afnemers de vruchten dragen van een efficiënte werking van de Vlaamse elektriciteits- en gasmarkt, het bevorderen van daadwerkelijke mededinging en het bijdragen tot het waarborgen van&nbsp;een hoog niveau van consumentenbescherming in nauwe samenwerking met de consumentenbeschermingsautoriteiten in kwestie;<br>
+8° het bereiken van een hoog niveau van universele en openbare dienstverlening bij het leveren van elektriciteit en aardgas, tot de bescherming van kwetsbare afnemers en tot de compatibiliteit van de processen voor de uitwisseling van gegevens die nodig zijn voor het veranderen van leverancier;<br>
+9° het geven van prikkels voor de deelname van&nbsp;vraagrespons, respectievelijk vraagzijdemiddelen aan het aanbod op de Vlaamse elektriciteits- en gasmarkt.
 
 ### ART. 3.1.4/2.
 
@@ -458,11 +520,13 @@ De organen van de VREG zijn de raad van bestuur en de algemeen directeur.
 
 ### ART. 3.1.5.
 
-§ 1. De VREG wordt bestuurd door een raad van bestuur die uit zeven leden bestaat.<br>
+§ 1. De VREG wordt bestuurd door een raad van bestuur die maximaal uit zeven leden bestaat.<br>
 <br>
-De leden van de raad van bestuur worden aangewezen door het Vlaams Parlement voor een eenmalig hernieuwbare termijn van vijf jaar. De raad van bestuur kiest onder zijn leden een voorzitter.<br>
+Het Vlaams Parlement stelt de leden van de raad van bestuur aan op grond van objectieve, transparante en bekendgemaakte criteria, volgens een onafhankelijke en onpartijdige procedure, en met inachtneming van een roulatieschema. Zo wordt gegarandeerd dat de kandidaten voor de relevante positie over de vereiste vaardigheden en ervaring beschikken.<br>
 <br>
-Alle leden van de raad van bestuur moeten beantwoorden aan artikel 3.1.7 van het Energiedecreet.<br>
+De bestuurders worden aangesteld voor een eenmalig hernieuwbare termijn van vijf jaar.<br>
+<br>
+De raad van bestuur kiest onder zijn leden een voorzitter..<br>
 <br>
 § 2. Ten hoogste twee derde van de leden is van hetzelfde geslacht.<br>
 <br>
@@ -662,6 +726,47 @@ De raad van bestuur evalueert de interne controlesystemen van de VREG, gaat na o
 
 ## [Afdeling VII. Vergelijkingsinstrument (ing. decr. 2 april 2021, art. 8, I: 7 juni 2021)]
 
+### ART 3.1.16.
+
+De VREG stelt op zijn website een vergelijkingsinstrument ter beschikking waarmee door huishoudelijke afnemers en kleinzakelijke afnemers, aangesloten op het laagspanningsdistributienet en met een verwacht jaarlijks elektriciteitsverbruik van minder dan 100.000 kWh, het aanbod van de leveranciers aan huishoudelijke afnemers en ondernemingen met een verwacht jaarlijks elektriciteitsverbruik van minder dan 100.000 kWh gratis vergeleken kan worden. Dat instrument bestrijkt de hele markt in het Vlaamse Gewest en alle aanbiedingen van leveranciers die daarin publiek beschikbaar zijn, waaronder aanbiedingen voor dynamische prijscontracten en teruglevercontracten.<br>
+<br>
+Het vergelijkingsinstrument, vermeld in het eerste lid, voldoet aan al de volgende vereisten:<br>
+1° leveranciers worden gelijk behandeld in de zoekresultaten;<br>
+2° er worden objectieve criteria gebruikt als basis voor de vergelijking en die criteria worden duidelijk vermeld op de website;<br>
+3° er wordt gebruikgemaakt van duidelijke en ondubbelzinnige bewoordingen;<br>
+4° het geeft nauwkeurige en geactualiseerde informatie, met vermelding van het tijdstip van de meest recente actualisering;<br>
+5° er is een doeltreffende procedure om onjuiste informatie over gepubliceerde aanbiedingen te melden;<br>
+6° er worden vergelijkingen aangeboden waarbij de opgevraagde persoonlijke gegevens beperkt blijven tot gegevens die noodzakelijk zijn voor de gevraagde vergelijking.<br>
+<br>
+De leveranciers bezorgen de VREG nauwkeurige en geactualiseerde informatie over de prijzen en voorwaarden, inclusief de aangeboden diensten, van de producten die ze publiek aanbieden in het Vlaamse Gewest aan huishoudelijke afnemers en ondernemingen met een verwacht jaarlijks elektriciteitsverbruik van minder dan 100.00 kWh, met het oog op de opname daarvan in het vergelijkingsinstrument, vermeld in het eerste lid. De VREG legt na overleg met de betrokken stakeholders de methode en procedure vast voor de voormelde informatieoverdracht.
+
+### ART 3.1.17.
+
+De volgende persoonsgegevens of categorieën van persoonsgegevens kunnen opgevraagd en verwerkt worden in het kader van het gebruik en het beheer van het vergelijkingsinstrument, vermeld in artikel 3.1.16:<br>
+1° het energietype;<br>
+2° de adres- en contactgegevens;<br>
+3° de gegevens over de aansluiting en de meter;<br>
+4° de meetgegevens;<br>
+5° de gegevens over aanwezige decentrale productie-installaties;<br>
+6° de contractvoorkeuren;<br>
+7° de huidige leveringsvoorwaarden;<br>
+8° het profiel, vermeld in het derde lid;<br>
+9° de identificatiegegevens, vermeld in het vierde lid.<br>
+<br>
+Na toestemming van de betrokkene conform artikel 4, 11), van de algemene verordening gegevensbescherming kan de VREG de persoonsgegevens, vermeld in het eerste lid, 1° tot en met 5°, automatisch laten verwerken via een koppeling met de databanken van de distributienetbeheerder of zijn werkmaatschappij. Via die koppeling verleent de netbeheerder of zijn werkmaatschappij de VREG toegang tot de gegevens, vermeld in het eerste lid, 1° tot en met 5°, waartoe de betrokkene toegang heeft in zijn databanken.<br>
+<br>
+Na toestemming van de betrokkene conform artikel 4, 11), van de algemene verordening gegevensbescherming kunnen de persoonsgegevens, vermeld in het eerste lid, in een profiel worden bijgehouden met het oog op het gebruik en het beheer van het vergelijkingsinstrument, vermeld in het eerste lid. Het profiel wordt maximaal bewaard tot vijf jaar nadat de betrokkene daarvoor zijn toestemming heeft verleend.<br>
+<br>
+Voor de unieke identificatie van de betrokkene kan het ondernemingsnummer, het rijksregisternummer of het vreemdelingennummer opgevraagd en verwerkt worden in het kader van:<br>
+1° de automatische verwerking van de gegevens, vermeld in het tweede lid;<br>
+2° de aanmaak en het beheer van het profiel, vermeld in het derde lid.<br>
+<br>
+De VREG kan de verwerkte gegevens en de resultaten van de uitgevoerde vergelijkingen gedurende twaalf maanden na de uitvoering van de vergelijking geanonimiseerd bewaren met het oog op het gebruik voor monitoring, evaluatie en onderzoek.<br>
+<br>
+Voor de verwerkingen van persoonsgegevens in het kader van het gebruik en het beheer van het vergelijkingsinstrument, vermeld in artikel 3.1.16 van dit decreet, is de VREG de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+<br>
+De VREG neemt passende maatregelen opdat de betrokkene overeenkomstig artikel 12 van de algemene verordening gegevensbescherming in een beknopte, transparante, begrijpelijke en gemakkelijk toegankelijke vorm en in duidelijke en eenvoudige taal toegang heeft tot de noodzakelijke informatie en communicatie in verband met de verwerking van zijn persoonsgegevens.
+
 ## HOOFDSTUK II. Het Energiefonds
 
 ### ART. 3.2.1.
@@ -703,7 +808,7 @@ De aanwijzing, vermeld in artikel 4.1.1 en artikel 4.1.2, tweede lid, is geldig 
 1° de technische, organisatorische en financiële capaciteit van de (kandidaat-)netbeheerder;<br>
 2° de professionele betrouwbaarheid van de (kandidaat-)netbeheerder;<br>
 3° het exploitatie- of gebruiksrecht van de (kandidaat-)netbeheerder over het distributienet in kwestie;<br>
-4° de beheersmatige en juridische onafhankelijkheid van de (kandidaat-)elektriciteitsdistributienetbeheerder ten aanzien van de leveranciers, tussenpersonen, aanbieders van energiediensten, ESCO's, aggregatoren&nbsp;en producenten die actief zijn in het Vlaamse Gewest, en de met deze ondernemingen verbonden en geassocieerde ondernemingen en de beheersmatige en juridische onafhankelijkheid van de (kandidaat-)aardgasdistributienetbeheerder ten aanzien van de leveranciers, tussenpersonen en aardgasinvoerders die actief zijn in het Vlaamse Gewest.<br>
+4° de beheersmatige en juridische onafhankelijkheid van de (kandidaat-)elektriciteitsdistributienetbeheerder ten aanzien van de leveranciers, tussenpersonen, aanbieders van energiediensten, ESCO's, aggregatoren, dienstverleners van flexibiliteit&nbsp;en producenten die actief zijn in het Vlaamse Gewest, en de met deze ondernemingen verbonden en geassocieerde ondernemingen en de beheersmatige en juridische onafhankelijkheid van de (kandidaat-)aardgasdistributienetbeheerder ten aanzien van de leveranciers, tussenpersonen en aardgasinvoerders die actief zijn in het Vlaamse Gewest.<br>
 5° de capaciteit om bij de uitoefening van zijn activiteiten inzake databeheer, zoals vermeld in artikel 4.1.8/2, te voldoen aan de vereisten van de algemene verordening gegevensbescherming;<br>
 6° de capaciteit om de uniforme voorwaarden na te leven voor een continu risicobeheersingssysteem met betrekking tot de waarschijnlijkheid en ernst van de uiteenlopende risico's voor de rechten en vrijheden van natuurlijke personen.<br>
 <br>
@@ -765,7 +870,11 @@ De jaarlijkse bezoldiging van de gedelegeerd bestuurder, de CEO en de leden van 
 8° het verlenen van nettoegang;<br>
 9° het verstrekken van de nodige inlichtingen aan de beheerders van de netten waarmee zijn net in kwestie verbonden is, om een veilige en efficiënte uitbating, een gecoördineerde ontwikkeling en een goede wisselwerking tussen de netten te waarborgen;<br>
 10° als elektriciteitsdistributienetbeheerder transparante, niet-discriminerende en op de markt gebaseerde procedures hanteren bij de aankoop van elektriciteit;<br>
-11° alle vormen van energiefraude, gerelateerd aan hun activiteiten, actief detecteren en vaststellen, en maatregelen nemen om energiefraude te vermijden.<br>
+11° alle vormen van energiefraude, gerelateerd aan hun activiteiten, actief detecteren en vaststellen, en maatregelen nemen om energiefraude te vermijden;<br>
+12° als neutrale marktfacilitator fungeren door de energie in te kopen die ze gebruiken om energieverliezen te dekken, en door in de niet-frequentiegerelateerde ondersteunende diensten in hun net te voorzien, volgens transparante, niet-discriminerende en marktgebaseerde procedures;<br>
+13° flexibiliteitsdiensten aankopen, voor het beheer van lokale congestie binnen het dekkingsgebied of voor redispatching, waarvoor de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit de aanvrager van flexibiliteit is, in de vorm van producten die gevaloriseerd worden, met het oog op het efficiëntere beheer en de efficiënte ontwikkeling van het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit;<br>
+14° als dat van toepassing is, de referentiecurve van het elektriciteitsafname- en injectieprofiel bepalen, in onderling overleg met de relevante marktpartijen;<br>
+15° voor de toepassing van artikel 4.1.17/4, 4.1.17/5 en 4.1.17/6 de specificaties bepalen om het flexibiliteitsvolume te berekenen, in overleg met relevante marktpartijen.<br>
 <br>
 § 2. Het beheer van het distributienet omvat bovendien het ter beschikking stellen, de plaatsing, de activering, de desactivering, het onderhoud, het herstellen en het actief beheren van digitale, elektronische en analoge meters en tellers.<br>
 <br>
@@ -773,7 +882,9 @@ De jaarlijkse bezoldiging van de gedelegeerd bestuurder, de CEO en de leden van 
 1° het beheren van het toegangsregister van zijn net;<br>
 2° het ter beschikking stellen, de plaatsing, de activering, de desactivering, het onderhoud en het herstellen van meters en tellers op de toegangspunten op zijn net;<br>
 3° het aflezen van de meters en tellers op de toegangspunten op zijn net, de bepaling van de injectie en de afname van de producenten en afnemers die aangesloten zijn op zijn net en de verwerking en de bewaring van die gegevens;<br>
-4° het verstrekken van de nodige meetgegevens en andere gegevens aan de distributienetbeheerder, de beheerder van het transmissienet, de vervoeronderneming, de producenten, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers, de afnemers en de VREG.
+4° het verstrekken van de nodige meetgegevens en andere gegevens aan de distributienetbeheerder, de beheerder van het transmissienet, de vervoeronderneming, de producenten, de evenwichtsverantwoordelijken, de deelnemers aan flexibiliteit, de dienstverleners van flexibiliteit, de aanvragers van flexibiliteit, de aggregatoren, de bevrachters, de tussenpersonen, de leveranciers, de afnemers en de VREG;<br>
+5° het verzamelen, berekenen en verwerken van de gegevens in het kader van de flexibiliteitsdiensten of ondersteunende diensten die hij verleent;<br>
+6° het beheer van het flexibiliteitstoegangsregister en het flexibiliteitsactivatieregister voor zijn net.
 
 ### ART 4.1.6/1.
 
@@ -783,7 +894,7 @@ De netbeheerder zorgt met eigen personeel en middelen of via een werkmaatschappi
 3° de boekhouding met betrekking tot het netbeheer;<br>
 4° de uitbesteding van de werkzaamheden voor de aansluiting, het netbeheer en meterbeheer.<br>
 <br>
-De netbeheerder en zijn werkmaatschappij kunnen geen beroep doen op producenten, invoerders van buitenlands aardgas, leveranciers of tussenpersonen of op ondernemingen die ermee verbonden of geassocieerd zijn, voor de uitvoering van de beslissingen over de volgende strategische en vertrouwelijke aangelegenheden voor het netbeheer:<br>
+De netbeheerder en zijn werkmaatschappij kunnen geen beroep doen op producenten, invoerders van buitenlands aardgas,&nbsp;aggregatoren, dienstverleners van flexibiliteit, evenwichtsverantwoordelijken, leveranciers of tussenpersonen of op ondernemingen die ermee verbonden of geassocieerd zijn, voor de uitvoering van de beslissingen over de volgende strategische en vertrouwelijke aangelegenheden voor het netbeheer:<br>
 1° contacten met de in aanmerking komende afnemers over de toegang tot het distributienet of het plaatselijk vervoernet van elektriciteit, de aansluitingsvoorwaarden, de technische voorwaarden en de tarieven;<br>
 2° de boekhouding met betrekking tot het netbeheer.<br>
 <br>
@@ -811,11 +922,38 @@ De maximale tijdsperiode waarbinnen de distributienetbeheerder, zijn werkmaatsch
 
 ### ART. 4.1.8/1.
 
-Een netbeheerder en zijn werkmaatschappij ondernemen geen activiteiten inzake het aanbieden van commerciële energiediensten of het optreden als aggregator.<br>
+Een netbeheerder en zijn werkmaatschappij ondernemen geen activiteiten inzake het aanbieden van commerciële energiediensten of het optreden als aggregator, deelnemer aan flexibiliteit of dienstverlener van flexibiliteit.<br>
 <br>
 Niettegenstaande het eerste lid kan de netbeheerder of zijn werkmaatschappij diensten aanbieden aan aandeelhouders/vennoten of op grond van een openbaredienstverplichting die door dit decreet en zijn uitvoeringsbesluiten worden opgelegd, of die voortvloeien uit de gunning van overheidsopdrachten, uitgeschreven door een andere aanbestedende overheid dan de overheden die aandeelhouder/vennoot zijn en voor zover die gunning betrekking heeft op energiediensten die rechtstreeks ten gunste komen van die aandeelhouders/vennoten.<br>
 <br>
 Met het oog op het aanbieden van energiediensten, vermeld in het tweede lid, kan de netbeheerder en zijn werkmaatschappij samenwerken met het extern verzelfstandigd agentschap NV Vlaams Energiebedrijf voor wat betreft het gezamenlijk ontwikkelen van energieboekhoudingssoftware en het gezamenlijk ontwikkelen van besparingsmaatregelen als onderdeel van energiezorgsystemen. De Vlaamse Regering kan nadere regels bepalen met betrekking tot het gezamenlijk ontwikkelen van energieboekhoudingssoftware. De Vlaamse Regering bepaalt de voorwaarden waaraan die samenwerking op het vlak van het gezamenlijk ontwikkelen van besparingsmaatregelen als onderdeel van energiezorgsystemen moet voldoen.
+
+### ART 4.1.8/1/1.
+
+§ 1. Een netbeheerder en zijn werkmaatschappij mogen geen elektriciteitsopslagfaciliteiten bezitten, ontwikkelen, beheren of exploiteren.<br>
+<br>
+In afwijking van het eerste lid mogen de netbeheerders elektriciteitsopslagfaciliteiten bezitten, ontwikkelen, beheren of exploiteren als het gaat om volledig geïntegreerde netwerkcomponenten en de VREG zijn goedkeuring heeft verleend of als aan elk van de volgende voorwaarden is voldaan:<br>
+1° andere partijen, na een open, transparante en niet-discriminerende aanbestedingsprocedure, die de VREG toetst en goedkeurt, hebben geen recht verworven om dergelijke faciliteiten te bezitten, te ontwikkelen, te beheren of te exploiteren, of kunnen die diensten niet tegen redelijke kosten en binnen een redelijke termijn aanbieden;<br>
+2° dergelijke faciliteiten zijn nodig voor de netbeheerders om hun verplichtingen na te leven in het kader van een efficiënt, betrouwbaar en veilig beheer van het distributiesysteem, vermeld in titel IV van dit decreet. De faciliteiten worden niet gebruikt om elektriciteit op de elektriciteitsmarkten of op de markten voor lokaal congestiebeheer te kopen of te verkopen;<br>
+3° de VREG heeft de noodzaak van een dergelijke afwijking beoordeeld, heeft de aanbestedingsprocedure, waaronder de voorwaarden van die aanbestedingsprocedure, geëvalueerd en heeft zijn goedkeuring verleend.<br>
+<br>
+De VREG kan regels of inkoopbepalingen opstellen voor de aanbestedingsprocedure om de billijkheid van de procedure te garanderen.<br>
+<br>
+§ 2. De VREG houdt regelmatig en minstens elke vijf jaar een openbare raadpleging over de bestaande elektriciteitsopslagfaciliteiten van de netbeheerder om de potentiële beschikbaarheid en belangstelling om in dergelijke faciliteiten te investeren, te evalueren. Als uit die openbare raadpleging blijkt dat derde partijen in staat zijn dergelijke installaties op een kosteneffectieve manier te bezitten, te ontwikkelen, te exploiteren of te beheren, ziet de VREG erop toe dat die activiteiten van de netbeheerders in dit verband binnen achttien maanden worden uitgefaseerd.<br>
+<br>
+De VREG kan toestaan dat de netbeheerders een redelijke vergoeding ontvangen zodat ze de restwaarde van hun investering in die elektriciteitsopslagfaciliteiten kunnen terugverdienen.<br>
+<br>
+Het eerste en het tweede lid zijn niet van toepassing op volledig geïntegreerde netwerkcomponenten of gedurende de gebruikelijke afschrijvingsperiode van nieuwe elektriciteitsopslagfaciliteiten als het over batterijen gaat waarbij een definitieve investeringsbeslissing vóór 4 juli 2019 is genomen, op voorwaarde dat dergelijke batterijopslagfaciliteiten aan al de volgende voorwaarden voldoen:<br>
+1° de batterijopslagfaciliteiten zijn uiterlijk twee jaar na de voormelde investeringsbeslissing met het netwerk verbonden;<br>
+2° de batterijopslagfaciliteiten zijn volledig in het distributiesysteem geïntegreerd;<br>
+3° de batterijopslagfaciliteiten worden uitsluitend gebruikt om de veiligheid van het netwerk reactief onmiddellijk te herstellen in geval van noodgevallen, als een dergelijke herstelmaatregel onmiddellijk van kracht wordt en wordt beëindigd zodra reguliere redispatching in staat is het probleem op te lossen;<br>
+4° de batterijopslagfaciliteiten worden niet gebruikt om elektriciteit te kopen of te verkopen op de elektriciteitsmarkt of de markt voor lokale congestie, met inbegrip van balanceringsmarkten.<br>
+<br>
+§ 3. Paragraaf 1 is niet van toepassing op elektriciteitsopslagfaciliteiten die gebruikt worden in het kader van het energiebeheer van de eigen gebouwen.
+
+### ART 4.1.8/1/2.
+
+Een netbeheerder en zijn werkmaatschappij mogen geen oplaadpunten voor elektrische voertuigen bezitten, ontwikkelen, beheren of exploiteren, behalve als ze zelf particuliere oplaadpunten bezitten die uitsluitend voor eigen gebruik bestemd zijn.
 
 ## [Onderafdeling III. Activiteiten inzake databeheer (ing. decr. 26 april 2019, art. 10, I: 21 juni 2019)]
 
@@ -826,20 +964,27 @@ De activiteiten inzake databeheer op het distributienet&nbsp;omvatten volgende t
 a) allocatie, reconciliatie en facturatie in het kader van de aankoop en verkoop van elektriciteit en aardgas;<br>
 b) het aanbieden van energiediensten door een derde na expliciete en geïnformeerde toestemming van de afnemer;<br>
 c) netbeheer en operationele veiligheid;<br>
+d) verrekeningen die gepaard gaan met peer-to-peerhandel van de hoeveelheden groene stroom door één actieve afnemer aan één andere actieve afnemer en met energiedelen door actieve afnemers, energiegemeenschappen van burgers of hernieuwbare-energiegemeenschappen.<br>
 2° het beheren van het toegangsregister;<br>
 3° het beheren, verwerken, beveiligen en bewaren van de technische, relationele en meetgegevens met betrekking tot de toegangspunten van het distributienet, en het instaan voor de waarachtigheid en nauwkeurigheid ervan;<br>
 4° de bepaling en de validatie van de injectie en de afname van de producenten en afnemers die aangesloten zijn op het distributienet;<br>
 5° het verstrekken van de nodige gegevens aan andere netbeheerders, de beheerder van het transmissienet, de vervoeronderneming en de beheerder van het plaatselijk vervoernet in het kader van netbeheer en operationele veiligheid;<br>
 6° het faciliteren van de ontwikkeling van innovatieve diensten en producten als dat conform de regelgeving met betrekking tot de verwerking van persoonsgegevens is;<br>
-7° het verstrekken van de nodige gegevens aan de producenten, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers, de beheerder van het plaatselijk vervoernet, de transmissienetbeheerder, de aanbieders van energiediensten, de ESCO's, de aggregatoren, de afnemers en de VREG, voor het vervullen van hun taken of om de energiemarkt te faciliteren en dit op een evenwaardige manier;<br>
+7° het verstrekken van de nodige gegevens aan de producenten, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers, de beheerder van het plaatselijk vervoernet, de transmissienetbeheerder, de aanbieders van energiediensten, de ESCO's, de aggregatoren, de deelnemers aan flexibiliteit, de dienstverleners van flexibiliteit, de aanvragers van flexibiliteit, energiegemeenschappen van burgers of hernieuwbare-energiegemeenschappen, de afnemers en de VREG, voor het vervullen van hun taken of om de energiemarkt te faciliteren en dit op een evenwaardige manier;<br>
 8° het verstrekken van de nodige gegevens aan overheden voor het uitoefenen van hun taak;<br>
-9° het verstrekken van geanonimiseerde gegevens voor wetenschappelijk onderzoek.<br>
+9° het verstrekken van geanonimiseerde gegevens voor wetenschappelijk onderzoek;<br>
+10° het verzamelen, berekenen, verwerken en bezorgen aan de betrokken marktpartijen, in overleg met de transmissienetbeheerder waar dat van toepassing is, van de informatie die nodig is om het flexibiliteitsvolume, het geleverde flexibiliteitsvolume per toegangspunt of allocatiepunt en de referentiecurve van het elektriciteitsafnameen injectieprofiel te berekenen conform de regels die voor de betrokken flexibiliteitsdienst of ondersteunende dienst worden bepaald, voor:<br>
+a) de valorisatie van de flexibiliteit die een energieoverdracht met zich meebrengt;<br>
+b) een gereguleerd product van een elektriciteitsdistributienetbeheerder;<br>
+c) de transmissienetbeheerder als hij dat nodig heeft;<br>
+11° het beheer van het flexibiliteitstoegangsregister;<br>
+12° het beheer van het flexibiliteitsactivatieregister.<br>
 <br>
 De netbeheerder is verantwoordelijk voor het verzekeren van het recht van toegang en het recht van verbetering voor wat betreft de gegevens die hij beheert, verwerkt, valideert en bewaart.<br>
 <br>
 De netbeheerder verstrekt de gegevens, vermeld in het eerste lid, 5°, 7°, 8° en 9°, op een transparante, onpartijdige en niet-discriminatoire wijze, zowel ten aanzien van zichzelf als ten aanzien van de partijen, vermeld in het eerste lid, 5°, 7°, 8° en 9°.<br>
 <br>
-De Vlaamse Regering kan, na advies van de VREG, aan de netbeheerder taken en openbaredienstverplichtingen opleggen met betrekking tot zijn dienstverlening aan onder andere netbeheerders, producenten, leveranciers, aanbieders van energiediensten en afnemers, en met betrekking tot zijn dienstverlening op het vlak van submeting.
+De Vlaamse Regering kan, na advies van de VREG, aan de netbeheerder taken en openbaredienstverplichtingen opleggen met betrekking tot zijn dienstverlening aan onder andere netbeheerders, producenten, leveranciers, aanbieders van energiediensten, deelnemers aan flexibiliteit, dienstverleners van flexibiliteit, aanvragers van flexibiliteit, aggregatoren en afnemers, en met betrekking tot zijn dienstverlening op het vlak van submeting.
 
 ### ART 4.1.8/3.
 
@@ -847,7 +992,7 @@ De netbeheerder of zijn werkmaatschappij zorgt met eigen personeel en middelen v
 1° het aflezen van de meters en tellers;<br>
 2° het beheer en de beveiliging van de technische, relationele en meetgegevens.<br>
 <br>
-De netbeheerder of zijn werkmaatschappij kan geen beroep doen op producenten, invoerders van buitenlands aardgas, leveranciers, tussenpersonen, aanbieders van energiediensten, ESCO's, aggregatoren of ondernemingen die met die ondernemingen verbonden of geassocieerd zijn, voor de uitvoering van de beslissingen over de volgende strategische en vertrouwelijke aangelegenheden voor het databeheer, zoals vermeld in artikel 4.1.8/2:<br>
+De netbeheerder of zijn werkmaatschappij kan geen beroep doen op producenten, invoerders van buitenlands aardgas, leveranciers, tussenpersonen, aanbieders van energiediensten, ESCO's, aggregatoren, dienstverleners van flexibiliteit, evenwichtsverantwoordelijken of ondernemingen die met die ondernemingen verbonden of geassocieerd zijn, voor de uitvoering van de beslissingen over de volgende strategische en vertrouwelijke aangelegenheden voor het databeheer, zoals vermeld in artikel 4.1.8/2:<br>
 1° contacten met de afnemers over de toegang tot hun gegevens;<br>
 2° het aflezen van de meters en tellers;<br>
 3° het beheer en de beveiliging van de technische, de relationele en de meetgegevens.<br>
@@ -870,7 +1015,7 @@ De netbeheerder en zijn werkmaatschappij kunnen de gegevens verkregen bij de uit
 
 ### ART. 4.1.9.
 
-De netbeheerder en zijn werkmaatschappij onthouden zich van elke vorm van   discriminatie tussen producenten, aardgasinvoerders,   evenwichtsverantwoordelijken, bevrachters, leveranciers,   tussenpersonen,&nbsp;aanbieders van energiediensten met inbegrip van   aggregatoren, afnemers en categorieën van afnemers.
+De netbeheerder en zijn werkmaatschappij onthouden zich van elke vorm van discriminatie tussen producenten, aardgasinvoerders, evenwichtsverantwoordelijken, bevrachters, leveranciers, tussenpersonen,&nbsp;aanbieders van energiediensten met inbegrip van aggregatoren, deelnemers aan flexibiliteit, dienstverleners van flexibiliteit, aanvragers van flexibiliteit, afnemers en categorieën van afnemers.
 
 ### ART. 4.1.10.
 
@@ -972,11 +1117,155 @@ Iedere aardgasdistributienetbeheerder stelt jaarlijks op zijn website en in zijn
 
 ## [Onderafdeling I. Rechten en plichten van dienstverleners van flexibiliteit en aggregatoren (ing. decr. 2 april 2021, art. 25, I: 7 juni 2021)]
 
+### ART 4.1.17/1.
+
+§ 1. Elke natuurlijke persoon of rechtspersoon die flexibiliteits- of aggregatiediensten aanbiedt aan de aanvrager van flexibiliteit, kan dienstverlener van flexibiliteit of aggregator worden en kan op niet-discriminerende wijze toetreden tot de elektriciteitsmarkt of de markt voor lokale congestie, om flexibiliteits- of aggregatiediensten te leveren, zonder toestemming van andere marktdeelnemers.<br>
+<br>
+Het leveren van flexibiliteitsdiensten kan rechtstreeks plaatsvinden of er kan een beroep worden gedaan op een of meer deelnemers aan flexibiliteit.<br>
+<br>
+Elke dienstverlener van flexibiliteit die geen beroep doet op deelnemers van flexibiliteit of andere dienstverleners van flexibiliteit, kan onafhankelijk van zijn elektriciteitsleveringscontract andere elektriciteitsdiensten dan levering, met inbegrip van flexibiliteitsdiensten, verkopen aan een elektriciteitsbedrijf van zijn keuze.<br>
+<br>
+Iedere afnemer heeft het recht, zonder discriminatie ten aanzien van kosten, moeite en tijd, van dienstverlener van flexibiliteit of aggregator te veranderen.<br>
+<br>
+§ 2. Elke dienstverlener van flexibiliteit en aggregator, vermeld in paragraaf 1, is financieel verantwoordelijk voor de onbalansen die hij in het elektriciteitsnet veroorzaakt. Hij draagt de evenwichtsverantwoordelijkheid van de activering van flexibiliteit of aggregatie, of belast een evenwichtsverantwoordelijke met die verantwoordelijkheid.<br>
+<br>
+§ 3. Elke dienstverlener van flexibiliteit of aggregator, vermeld in paragraaf 1, sluit op basis van voorafgaandelijke commerciële onderhandelingen een overeenkomst met de deelnemer aan flexibiliteit als hij een beroep doet op een deelnemer van flexibiliteit.<br>
+<br>
+De Vlaamse Regering kan, na advies van de VREG, de minimale elementen van een standaardovereenkomst die van toepassing is bij gebreke van akkoord over de commerciële modaliteiten, vermeld in het eerste lid, bepalen.<br>
+<br>
+Elke dienstverlener van flexibiliteit of aggregator informeert de deelnemer aan flexibiliteit volledig over de contractuele voorwaarden van het flexibiliteits- of aggregatiecontract dat hem wordt aangeboden.<br>
+<br>
+§ 4. Elke dienstverlener van flexibiliteit en aggregator, vermeld in paragraaf 1, sluit voorafgaand aan zijn toetreding tot de elektriciteitsmarkt of de markt voor lokale congestie om flexibiliteits- of aggregatiediensten te leveren, een overeenkomst met de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit, respectievelijk voor de toegangspunten die onder het dekkingsgebied van deze netbeheerder vallen.<br>
+<br>
+De Vlaamse Regering kan de minimale inhoud van de overeenkomst, vermeld in het eerste lid, bepalen.<br>
+<br>
+De betrokken netbeheerder meldt de overeenkomst, vermeld in het eerste lid, aan de VREG als de dienstverlener van flexibiliteit of de aggregator een beroep doet op een of meer deelnemers aan flexibiliteit om flexibiliteitsdiensten aan te bieden. De VREG maakt vervolgens de lijst van de dienstverleners van flexibiliteit bekend op zijn website.<br>
+<br>
+De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit maken de lijst van de dienstverleners van flexibiliteit die rechtstreeks flexibiliteit aanbieden aan de aanvrager van flexibiliteit, zonder een beroep te doen op een deelnemer aan flexibiliteit, bekend op hun website.<br>
+<br>
+§ 5. Voor de bemiddeling en beslechting van geschillen tussen dienstverleners van flexibiliteit en aggregatoren enerzijds en andere marktdeelnemers anderzijds is de procedure, vermeld in artikel 3.1.4/3 van overeenkomstige toepassing.
+
+### ART 4.1.17/2.
+
+Op eigen initiatief en na overleg, waaraan de elektriciteitsdistributienetbeheerders, de beheerder van het plaatselijk vervoernet van elektriciteit, de transmissienetbeheerder, de bevoegde federale overheidsinstantie, CREG en de relevante marktdeelnemers worden uitgenodigd om deel te nemen, kan de VREG in het technisch reglement distributie elektriciteit en het technisch reglement plaatselijk vervoer van elektriciteit niet-discriminerende en transparante regels vastleggen als de VREG de noodzaak ervan heeft geïdentificeerd, voor de financiële compensatie voor flexibiliteit met energieoverdracht via een dienstverlener van flexibiliteit in functie van het beheer van lokale congestie, vermeld in artikel 4.1.17/4, of in functie van het leveren van een ondersteunende dienst aan de elek- triciteitsdistributienetbeheerders of de beheerder van het plaatselijk vervoernet van elektriciteit, vermeld in artikel 4.1.17/6.<br>
+<br>
+De regels, vermeld in het eerste lid, bevatten minstens:<br>
+1° een berekeningsmethode voor de financiële compensatie die de onafhankelijke dienstverlener van flexibiliteit betaald heeft aan die marktdeelnemers of aan de evenwichtsverantwoordelijken van die marktdeelnemers, vermeld in het eerste lid. Dit geldt ook voor de omgekeerde transactie;<br>
+2° details over hoe de elektriciteitsmarkt of de markt voor lokale congestie wordt opgevolgd en gemonitord.<br>
+<br>
+De financiële compensatie, vermeld in het eerste lid, voldoet aan de volgende vereisten:<br>
+1° ze creëert geen obstakel voor de markttoegang van de dienstverleners van flexibiliteit;<br>
+2° ze is ertoe beperkt de resulterende kosten te dekken voor de leveranciers van deelnemende afnemers en producenten of voor de evenwichtsverant- woordelijken van de leveranciers tijdens de activatie van flexibiliteit.<br>
+<br>
+Marktdeelnemers kunnen vrijwillig en in onderling overleg afwijken van de berekeningsmethode, vermeld in het tweede lid, 1°, als ze dat melden aan de elektriciteitsdistributienetbeheerders of de beheerder van het plaatselijk vervoernet van elektriciteit. De VREG kan dat proces evalueren.
+
 ## [Onderafdeling II. Rechten en plichten van deelnemers aan flexibiliteit en aggregatie (ing. decr. 2 april 2021, art. 28, I: 7 juni 2021)]
+
+### ART 4.1.17/3.
+
+§ 1. Elke afnemer, producent, tussenpersoon, energiegemeenschap van burgers en hernieuwbare-energiegemeenschap kan deelnemer aan flexibiliteit of aggregatie worden.<br>
+<br>
+Elke afnemer, producent, tussenpersoon, energiegemeenschap van burgers en hernieuwbare-energiegemeenschap kan op niet-discriminerende wijze tot de elektriciteitsmarkt of de markt voor lokale congestie toetreden, naast producenten.<br>
+<br>
+§ 2. De deelnemer aan flexibiliteit of aggregatie kan onafhankelijk van zijn elektriciteitsleveringscontract andere elektriciteitsdiensten dan levering, met inbegrip van flexibiliteitsdiensten en aggregatie, kopen bij een elektriciteitsbedrijf van zijn keuze.<br>
+<br>
+De deelnemer aan flexibiliteit of aggregatie kan onafhankelijk van zijn elektriciteitsleveringscontract deelnemen aan andere elektriciteitsdiensten dan levering, met inbegrip van deelname aan aggregatie en flexibiliteitsdiensten.<br>
+<br>
+§ 3. Elke afnemer of producent kan zijn dienstverlener van flexibiliteit of aggregator vrij kiezen of veranderen, onafhankelijk van zijn elektriciteitsleverancier.<br>
+<br>
+Elke afnemer of producent kan deelnemen aan flexibiliteit of aan aggregatiediensten zonder toestemming van een ander elektriciteitsbedrijf waarop hij een beroep doet.<br>
+<br>
+§ 4. Afnemers en tussenpersonen mogen door hun leverancier niet worden onderworpen aan discriminerende technische en administratieve voorschriften, procedures of kosten omdat ze een contract hebben met een dienstverlener van flexibiliteit of aggregator.<br>
+<br>
+Afnemers die een contract hebben met een onafhankelijke dienstverlener van flexibiliteit mogen door hun leverancier niet onderworpen worden aan buitensporige betalingen, sancties of andere buitensporige contractuele beperkingen.
 
 ## [Onderafdeling III. De aankoop van flexibiliteitsdiensten en ondersteunende diensten door de netbeheerder (ing. decr. 2 april 2021, art. 30, I: 7 juni 2021)]
 
+### ART 4.1.17/4.
+
+§ 1. De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit bepalen de specificaties voor de aankoop van flexibiliteitsdiensten, voor het beheer van lokale congestie binnen hun dekkingsgebied of voor redispatching waarvoor de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit de aanvrager van flexibiliteit is, in de vorm van producten die gevaloriseerd worden, en, als dat van toepassing is, gestandaardiseerde marktproducten voor die diensten, na een transparant en participatief overleg met de transmissienetbeheerder en alle relevante marktdeelnemers. Die specificaties worden, na dit overleg, ter goedkeuring voorgelegd aan de VREG.<br>
+<br>
+De specificaties, vermeld in het eerste lid, waarborgen een effectieve en niet-discriminerende deelname van alle marktdeelnemers, inclusief marktdeelnemers die energie uit hernieuwbare bronnen aanbieden, marktdeelnemers die aan vraagrespons of flexibiliteit doen, exploitanten van elektriciteitsopslagfaciliteiten en marktdeelnemers die aan aggregatie doen.<br>
+<br>
+De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit wisselen alle noodzakelijke informatie uit met alle relevante marktdeelnemers en werken met de transmissienetbeheerder samen voor de volgende doeleinden:<br>
+1° zorgen voor een optimaal gebruik van hulpbronnen;<br>
+2° het veilige en efficiënte beheer van het net waarborgen;<br>
+3° de marktontwikkeling bevorderen.<br>
+<br>
+§ 2. Als de aankoop van flexibiliteitsdiensten de noodzaak tot uitbreiding of vervanging van elektriciteitsnetcapaciteit op kostenefficiënte wijze verlicht en het efficiente en veilige beheer van het elektriciteitsdistributienet ondersteunt, ontvangen de elektriciteitsdistributienetbeheerders een passende vergoeding voor de aankoop van dergelijke diensten, zodat ze ten minste hun overeenkomstige redelijke kosten kunnen terugverdienen, zoals de noodzakelijke uitgaven voor informatie en communicatietechnologie en infrastructuurkosten.
+
+### ART 4.1.17/5.
+
+§ 1. In afwijking van artikel 4.1.17/4 kan de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit onder buitengewone omstandigheden de netgebruikers en de gebruikers die aangesloten zijn op het plaatselijk vervoernet van elektriciteit verplichten om deel te nemen aan flexibiliteit. Deze situatie wordt gereserveerde technische flexibiliteit genoemd.<br>
+<br>
+De Vlaamse Regering bepaalt, na advies van de VREG, op welke categorieën van netgebruikers en gebruikers die aangesloten zijn op het plaatselijk vervoernet van elektriciteit, het eerste lid van toepassing is.<br>
+<br>
+Onder buitengewone omstandigheden als vermeld in het eerste lid, wordt verstaan dat een redelijke en kosteneffectieve netinvestering niet mogelijk is in combinatie met een van de volgende situaties:<br>
+1° de aankoop van flexibiliteit is economisch niet efficiënt;<br>
+2° de aankoop van flexibiliteit leidt tot ernstige marktverstoringen;<br>
+3° de aankoop van flexibiliteit leidt tot meer lokale congestie binnen het dekkingsgebied van de netbeheerder.<br>
+<br>
+De toepassing van gereserveerde technische flexibiliteit door de distributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit moet blijken uit de toepassing van de transparante, niet-discriminerende en eenduidige methodologie en de regels over buitengewone omstandigheden, vermeld in het eerste lid. Die regels worden opgenomen in het technisch reglement distributie elektriciteit en het technisch reglement plaatselijk vervoer van elektriciteit.<br>
+<br>
+De elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit informeert de netgebruikers en de gebruikers die aangesloten zijn op het plaatselijk vervoernet van elektriciteit als gereserveerde technische flexibiliteit wordt toegepast tijdig over de mogelijke impact op hun toegang tot het net. De VREG vermeldt in het technisch reglement distributie elektriciteit en het technisch reglement plaatselijk vervoer van elektriciteit de procedure om de betrokkenen te informeren.<br>
+<br>
+§ 2. In geval van onvoorziene uitzonderlijke netuitbatingsomstandigheden en als alle commerciële middelen en gereserveerde technische flexibiliteit uitgeput zijn, kan de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet de modulatie van productie-installaties verplichten via telecontrole. Deze situatie wordt niet-gereserveerde technische flexibiliteit genoemd.<br>
+<br>
+De Vlaamse Regering bepaalt, na advies van de VREG, op welke productie-installaties en elektriciteitsopslagfaciliteiten het eerste lid van toepassing is.<br>
+<br>
+De nadere regels over de onvoorziene uitzonderlijke netuitbatingsomstandigheden, vermeld in het eerste lid, worden opgenomen in het technisch reglement distributie elektriciteit en het technisch reglement plaatselijk vervoer van elektriciteit.<br>
+<br>
+§ 3. In geval van gereserveerde technische flexibiliteit ontvangen de netgebruiker en de gebruiker die op het plaatselijk vervoernet van elektriciteit aangesloten zijn, ten behoeve van de netbeheerder een kostenreflectieve en transparante compensatie.<br>
+<br>
+De Vlaamse Regering bepaalt, na advies van de VREG, de berekeningswijzen voor de compensatie, vermeld in het eerste lid.<br>
+<br>
+In geval van niet-gereserveerde technische flexibiliteit kunnen de netgebruiker en de gebruiker die aangesloten zijn op het plaatselijk vervoernet van elektriciteit, ten behoeve van de elektriciteitsdistributienetbeheerders of de beheerder van het plaatselijk vervoernet van elektriciteit een kostenreflectieve en transparante compensatie ontvangen.<br>
+<br>
+De Vlaamse Regering bepaalt, na advies van de VREG, de situaties waarin een compensatie wordt verleend en de berekeningswijzen voor de compensatie, vermeld in het derde lid.<br>
+<br>
+§ 4. De elektriciteitsdistributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit maken jaarlijks een rapport op over de situaties waarbij gereserveerde en niet-gereserveerde technische flexibiliteit worden toegepast en geactiveerd, en bezorgen dat aan de VREG. Dat rapport bevat minstens:<br>
+1° een overzicht van de situaties waarbij gereserveerde en niet-gereserveerde technische flexibiliteit zijn toegepast en geactiveerd;<br>
+2° de redenen, de volumes, uitgedrukt in MWh, en het type van aansluiting en productie waarbij gereserveerde en niet-gereserveerde technische flexibiliteit zijn toegepast en geactiveerd;<br>
+3° een overzicht van het totaal aan toegekende compensaties en de toegekende compensaties per situatie waarbij gereserveerde en niet-gereserveerde technische flexibiliteit zijn toegepast en geactiveerd;<br>
+4° de maatregelen die genomen zijn om de behoefte aan gereserveerde en niet-gereserveerde technische flexibiliteit te verminderen, inclusief investeringen in de digitalisering van de netinfrastructuur.<br>
+<br>
+De VREG evalueert op basis van dat rapport of de situaties waarbij gereserveerde en niet-gereserveerde technische flexibiliteit worden toegepast, voldoen aan de voorwaarden waaronder gereserveerde en niet-gereserveerde technische flexibiliteit kunnen worden toegepast. De VREG kan daarvoor alle bijkomende en nodige gegevens opvragen bij de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit om die evaluatie te kunnen maken. De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit bezorgen die gegevens aan de VREG binnen een redelijke termijn.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen omtrent de procedure en de timing van de rapportering door de elektriciteitsdistributienetbeheerder en de beheerder van het plaatselijk vervoernet en de frequentie van deze rapportering.
+
+### ART 4.1.17/6.
+
+§ 1. De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit zijn verantwoordelijk voor de aankoop van producten en diensten, namelijk voor de aankoop van energie voor het dekken van netverliezen en niet-frequentiegerelateerde ondersteunende diensten, die nodig zijn voor een efficiënt, betrouwbaar en veilig beheer van het elektriciteitsdistributienet en plaatselijk vervoernet van elektriciteit, en stellen daarvoor de transparante, objectieve en niet-discriminerende regels op, in een transparant en participatief overleg met de transmissienetbeheerder en alle relevante marktdeelnemers. Die regels worden, na het voormelde overleg, ter goedkeuring voorgelegd aan de VREG.<br>
+<br>
+De VREG stelt de voorwaarden, met inbegrip van de regels en voor de elektriciteitsdistributienetbeheerders ook de vergoedingen, voor het verstrekken van producten en diensten als vermeld in het eerste lid, aan elektriciteitsdistributie-netbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit vast op een niet-discriminerende en kostenreflectieve wijze. Voor de hoogte van de vergoeding gebeurt dat jaarlijks. Die voorwaarden worden bekendgemaakt op de website van de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit.<br>
+<br>
+§ 2. Bij het verrichten van de taken, vermeld in paragraaf 1, kopen de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit de niet-frequentiegerelateerde ondersteunende diensten aan die nodig zijn voor hun net, volgens transparante, niet-discriminerende en marktgerichte procedures, tenzij de VREG van oordeel is dat de marktgebaseerde verlening van niet-frequentiegerelateerde ondersteunende diensten economisch niet efficiënt is en een afwijking heeft toegestaan. De VREG werkt de nadere regels in verband met die afwijking uit in het technisch reglement distributie elektriciteit en het technisch reglement plaatselijk vervoer van elektriciteit.<br>
+<br>
+De verplichting om niet-frequentiegerelateerde ondersteunende diensten in te kopen, is niet van toepassing op volledig geïntegreerde netwerkcomponenten. De VREG bepaalt in de technische reglementen waarvoor die vrijstelling niet geldt.<br>
+<br>
+Bij de aankoop van de diensten, vermeld in het eerste lid, wordt de effectieve deelname gewaarborgd van alle marktdeelnemers, waaronder marktdeelnemers die energie uit hernieuwbare bronnen aanbieden, marktdeelnemers die aan vraagrespons en flexibiliteit doen, exploitanten van elektriciteitsopslagfaciliteiten, dienstverleners van flexibiliteit en marktdeelnemers die aan aggregatie doen.<br>
+<br>
+De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit behandelen de dienstverleners van flexibiliteit en marktdeelnemers die aan aggregatie van vraagrespons doen, met inachtneming van hun technische mogelijkheden, niet-discriminerend ten opzichte van producenten bij het verrichten van de taken, vermeld in paragraaf 1.
+
+### ART 4.1.17/7.
+
+De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit stellen jaarlijks een rapport op over het vermogen, de opslagcapaciteit en het type van de elektriciteitsopslagfaciliteiten die aan het elektriciteitsdistributienet en aan het plaatselijk vervoernet van elektriciteit gekoppeld worden.<br>
+<br>
+Het rapport wordt bekendgemaakt op de website van de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit en ter informatie aan de VREG en de minister bezorgd.<br>
+<br>
+De Vlaamse Regering bepaalt de timing voor de publicatie en het indienen van het rapport.
+
 ## [Onderafdeling IV. Flexibiliteits- en aggregatiegegevens (ing. decr. 2 april 2021, art. 35, I: 7 juni 2021)]
+
+### ART 4.1.17/8.
+
+Elke afnemer behoudt de zeggenschap over zijn gegevens die verbonden zijn aan flexibiliteit of aggregatie die wordt toegepast op de elektriciteitsmarkt of de markt voor lokale congestie.<br>
+<br>
+Elke afnemer kan aan de dienstverlener van flexibiliteit of aan de aggregator van zijn keuze op expliciete en geïnformeerde wijze toestemming verlenen om toegang te krijgen tot de gegevens die nodig zijn om zijn activiteit als dienstverlener van flexibiliteit of aggregator als vermeld in artikel 4.1.17/1, § 1, uit te oefenen.<br>
+<br>
+Elke afnemer kan bij de aggregator of dienstverlener van flexibiliteit, vermeld in artikel 4.1.17/1, § 1, met wie hij een contract heeft gesloten, minstens een keer per factureringsperiode kosteloos alle relevante flexibiliteitsgegevens of gegevens over de verkochte elektriciteit vragen. De voormelde aggregator of dienstverlener van flexibiliteit bezorgt die gegevens zonder discriminatie ten aanzien van kosten, moeite of tijd. De voormelde dienstverlener van flexibiliteit of aggregator brengt de afnemer met wie hij een contract heeft, op de hoogte van dat recht.<br>
+<br>
+Marktdeelnemers die aan aggregatie doen of flexibiliteitsdiensten aanbieden, en andere elektriciteitsbedrijven waarborgen de vertrouwelijkheid van de commercieel gevoelige gegevens die ze onderling uitwisselen en behandelen elke partij op niet-discriminerende wijze bij de uitwisseling van de gegevens.
 
 ## Afdeling VI. Toegang tot een distributienet of het plaatselijk vervoernet van elektriciteit
 
@@ -984,7 +1273,7 @@ Iedere aardgasdistributienetbeheerder stelt jaarlijks op zijn website en in zijn
 
 § 1. Afnemers en producenten hebben recht op toegang tot een distributienet of het plaatselijk vervoernet van elektriciteit voor respectievelijk de afname en injectie van elektriciteit of aardgas.<br>
 <br>
-De technische reglementen bepalen wie door de toegangsgerechtigden, bedoeld in het voorgaande lid, als toegangshouder op een toegangspunt aangeduid kan worden.<br>
+De technische reglementen bepalen wie door de toegangsgerechtigden, bedoeld in het voorgaande lid, als toegangshouder op een toegangspunt aangeduid kan worden.&nbsp;Op elk toegangspunt kan zowel voor de afname als voor de injectie telkens slechts één toegangshouder worden aangeduid.<br>
 <br>
 § 2. Iedere netbeheerder maakt de geldende tarieven en voorwaarden bekend waartegen de toegangshouder toegang tot het distributienet en het plaatselijk vervoernet van elektriciteit kan verkrijgen.<br>
 <br>
@@ -1009,7 +1298,9 @@ De netbeheerder kan de toegang tot zijn net alleen opschorten of beëindigen na 
 
 ### ART. 4.1.18/1.
 
-De netbeheerders stellen, in nauwe samenwerking met aanbieders van   energiediensten, met inbegrip van aggregatoren, en afnemers, en na goedkeuring   door de VREG, technische specificaties op met betrekking tot de toegang tot en   de deelname van vraagzijdebeheer aan de markten inzake balancerings-, en andere   ondersteunende diensten op het distributienet. Deze technische specificaties   zijn gebaseerd op de technische eisen van deze markten en de mogelijkheden die   vraagzijdebeheer biedt.
+De elektriciteitsdistributienetbeheerders werken samen met de transmissienetbeheerder voor de effectieve deelname van marktdeelnemers op de detailhandels-, groothandels- en balanceringsmarkten die aan hun net zijn verbonden. Conform artikel 57 van verordening (EU) 2019/943 van het Europees Parlement en de Raad van 5 juni 2019 betreffende de interne markt voor elektriciteit en artikel 182 van verordening (EU) 2017/1485 van de Commissie van 2 augustus 2017 tot vaststelling van richtsnoeren betreffende het beheer van elektriciteitstransmissiesystemen wordt met de transmissienetbeheerder in kwestie overeenstemming bereikt over de levering van balanceringsdiensten die voortvloeien uit bronnen in het elektriciteitsdistributienet en plaatselijk vervoernet van elektriciteit.<br>
+<br>
+De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit stellen technische specificaties op voor de deelname aan de markten, vermeld in het eerste lid, op basis van de technische kenmerken van die markten en de mogelijkheden van alle marktdeelnemers. Die specificaties worden opgesteld in nauwe samenwerking met alle marktdeelnemers die aangesloten zijn op het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit, of met de marktdeelnemers die een beroep doen op deelnemers aan flexibiliteit die aangesloten zijn op het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit, en ook met de transmissienetbeheerder. Die specificaties worden ter goedkeuring voorgelegd aan de VREG.
 
 ### ART 4.1.18/2.
 
@@ -1019,26 +1310,50 @@ Teneinde de veilige en betrouwbare werking van het net te garanderen, dienen ins
 
 ### ART. 4.1.19.
 
-§ 1. Iedere netbeheerder stelt jaarlijks een indicatief investeringsplan op voor het net dat hij beheert. Het investeringsplan bestrijkt een periode van drie jaar.<br>
+§ 1. De ontwikkeling van het distributienet en plaatselijk vervoernet van elektriciteit wordt gebaseerd op een transparant investeringsplan dat jaarlijks door de distributienetbeheerder en tweejaarlijks door de beheerder van het plaatselijk vervoernet van elektriciteit bij de VREG wordt ingediend, telkens voor het net dat hij beheert.<br>
 <br>
-Het investeringsplan bevat :<br>
-1° een gedetailleerde raming van de capaciteitsbehoeften van het net in kwestie, met aanduiding van de onderliggende hypothesen;<br>
-2° het investeringsprogramma inzake vernieuwing en uitbreiding van het net dat de netbeheerder zal uitvoeren om aan de behoeften te voldoen;<br>
-3° een overzicht en toelichting over de in het afgelopen jaar uitgevoerde investeringen;<br>
-4° de toekomstverwachtingen in verband met decentrale productie.<br>
+Het investeringsplan van de elektriciteitsdistributienetbeheerders bevat al de volgende elementen:<br>
+1° een gedetailleerde raming van de capaciteitsbehoeften van het net in kwestie en de toekomstverwachtingen in verband met decentrale productie voor een periode van drie en tien jaar, met aanduiding van de onderliggende hypothesen;<br>
+2° een investeringsprogramma voor vernieuwing en uitbreiding van het net dat de elektriciteitsdistributienetbeheerders uitvoeren om aan de behoeften te voldoen. Het investeringsprogramma bevat al de volgende elementen:<br>
+a) de concreet geplande investeringen voor een periode van drie jaar en de geplande investeringen voor de langetermijnontwikkeling van het net voor een periode van tien jaar;<br>
+b) de belangrijkste infrastructuur die vereist is voor de aansluiting van nieuwe productiecapaciteit en nieuwe belasting, inclusief oplaadpunten voor elektrische voertuigen en snellaadinfrastructuur;<br>
+c) voorspellingen van de langetermijntrends;<br>
+3° een transparante kwantitatieve en kwalitatieve beschrijving van de flexibiliteitsdiensten of andere hulpbronnen, inclusief de onderliggende parameters, de assumpties en de locaties waar die diensten vereist zijn, waarvoor de elektriciteitsdistributienetbeheerders zelf aanvrager van flexibiliteit zijn, in de vorm van niet-frequentiegerelateerde ondersteunende diensten en het beheer van lokale congestie binnen hun dekkingsgebied die voor een periode van drie jaar enerzijds en voor een periode van tien jaar anderzijds vereist zijn;<br>
+4° een transparante beschrijving van de toepassing van de methodologie, vermeld in artikel 4.2.1, § 2, 14°, waarmee een afweging wordt gemaakt tussen de aankoop van flexibiliteitsdiensten, in functie van het beheer van lokale congestie binnen hun eigen dekkingsgebied, en van niet-frequentiegerelateerde ondersteunende diensten en een netinvestering;<br>
+5° het resultaat van de afweging, vermeld in punt 4° ;<br>
+6° een overzicht van en toelichting bij de investeringen die in het afgelopen jaar uitgevoerd zijn;<br>
+7° de volumerapportering van activaties van flexibiliteitsdiensten op het elektriciteitsdistributienet in de afgelopen twee jaar die voorafgaan aan de indiening van het investeringsplan;<br>
+8° de ontwikkeling van diensten en maatregelen die het gebruik van flexibiliteit op het elektriciteitsdistributienet verhogen.<br>
 <br>
-Voor wat de aardgasdistributienetbeheerders betreft, bevat het investeringsplan ook :<br>
-1° een gedetailleerd plan van het aardgasdistributienet van de aardgasdistributienetbeheerder, met aanduiding per straat (en eventueel huisnummers) van de bestaande aardgasleidingen;<br>
-2° een gedetailleerde lijst van het aardgasdistributienet van de aardgasdistributienetbeheerder, met aanduiding per straat (en eventueel huisnummers) van de aardgasleidingen waarvan de aanleg in de drie daaropvolgende jaren wordt gepland;<br>
-3° het aantal aangesloten en het aantal aansluitbare wooneenheden en gebouwen op 1 januari van het beschouwde jaar.<br>
+Het investeringsplan van de beheerder van het plaatselijk vervoernet van elektriciteit bevat al de volgende elementen:<br>
+1° voor een periode van drie en tien jaar een gedetailleerde raming van de huidige en toekomstige capaciteitsbehoeften van het net in kwestie en van decentrale productie met aanduiding van de onderliggende hypothesen. Het investeringsplan wordt gebaseerd op die ramingen en er wordt rekening gehouden met het potentiële gebruik van vraagrespons, flexibiliteit, elektriciteitsopslagfaciliteiten of andere hulpbronnen die kunnen dienen als alternatieven voor de uitbreiding van het net;<br>
+2° de belangrijkste infrastructuur die de eerstvolgende tien jaar aangelegd of vernieuwd moet worden en alle investeringen die al beslist zijn;<br>
+3° een overzicht van de nieuwe investeringen die de eerstkomende drie jaar gedaan moeten worden met een tijdschema voor alle investeringsprojecten;<br>
+4° efficiënte maatregelen om de doelmatigheid van het systeem te garanderen.<br>
 <br>
-Het technisch reglement kan nader bepalen op welke wijze deze informatie ter beschikking wordt gesteld.<br>
+Het investeringsplan van de aardgasdistributienetbeheerders bevat de volgende elementen:<br>
+1° een gedetailleerde raming van de capaciteitsbehoeften van het net in kwestie en de toekomstverwachtingen in verband met decentrale productie voor een periode van drie en tien jaar, met aanduiding van de onderliggende hypothesen;<br>
+2° de concreet geplande investeringen voor een periode van drie jaar en de geplande investeringen voor de langetermijnontwikkeling van het net voor een periode van tien jaar, waarin rekening wordt gehouden met de langetermijnevoluties;<br>
+3° een gedetailleerd plan van het aardgasdistributienet van de aardgasdistributienetbeheerder, met aanduiding van de bestaande aardgasleidingen per straat en eventueel met vermelding van de huisnummers;<br>
+4° een gedetailleerde lijst van het aardgasdistributienet van de aardgasdistributienetbeheerder, met aanduiding van de aardgasleidingen waarvan de aanleg in de drie daaropvolgende jaren gepland is, per straat en eventueel met vermelding van de huisnummers;<br>
+5° een overzicht van en toelichting bij de investeringen die in het afgelopen jaar uitgevoerd zijn;<br>
+6° het aantal aangesloten en het aantal aansluitbare wooneenheden en gebouwen op 1 januari van het jaar in kwestie.<br>
 <br>
-§ 2. Het investeringsplan wordt jaarlijks ter goedkeu-ring voorgelegd aan de VREG.<br>
+Het technisch reglement kan nader bepalen welke bijkomende informatie kan worden opgevraagd en op welke wijze de informatie ter beschikking wordt gesteld.<br>
 <br>
-Als de VREG, na overleg met de netbeheerder, vaststelt dat de investeringen voorzien in het investeringsplan de netbeheerder niet in de mogelijkheid stellen om op een adequate en doeltreffende manier aan de capaciteitsbehoeften te voldoen, kan de VREG de netbeheerder verplichten om het plan binnen een redelijke termijn aan te passen.<br>
+§ 2. De distributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit consulteren alle relevante netgebruikers en de transmissienetbeheerder over het investeringsplan, vermeld in paragraaf 1.<br>
 <br>
-Bij gebrek aan een beslissing door de VREG binnen drie maanden na de ontvangst ervan wordt het investeringsplan geacht aangenomen te zijn. Als de VREG aan de netbeheerder bijkomende inlichtingen vraagt, wordt die termijn met nog eens drie maanden verlengd.
+De distributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit bezorgen de resultaten van de publieke consultatie, vermeld in het eerste lid, samen met het investeringsplan, vermeld in paragraaf 1, aan de VREG.<br>
+<br>
+§ 3. Het investeringsplan, vermeld in paragraaf 1, wordt ter goedkeuring voorgelegd aan de VREG.<br>
+<br>
+De VREG maakt zijn beslissing binnen negentig dagen na de dag waarop hij het investeringsplan heeft ontvangen bekend of vraagt binnen dezelfde termijn bijkomende inlichtingen aan de netbeheerder. Als de VREG aan de netbeheerder bijkomende inlichtingen vraagt, wordt de termijn om een beslissing te nemen met negentig dagen verlengd, vanaf de dag nadat de bijkomende inlichtingen werden gevraagd.<br>
+<br>
+De VREG kan, na overleg, de netbeheerder verplichten om het investeringsplan binnen een redelijke termijn aan te passen.<br>
+<br>
+Het goedgekeurde investeringsplan wordt op de website van de netbeheerder bekendgemaakt.<br>
+<br>
+§ 4. Het opstellen en indienen van een investeringsplan is niet vereist voor de distributienetbeheerder die minder dan 100.000 aangesloten afnemers bedient, of die kleinschalige netten voor de distributie van elektriciteit of aardgas bedient.
 
 ## Afdeling VIII. Openbaredienstverplichtingen opgelegd aan de netbeheerder
 
@@ -1102,7 +1417,7 @@ De betrokkene behoudt de zeggenschap over zijn persoonsgegevens uit de digitale 
 De netbeheerder of zijn werkmaatschappij verleent, met inachtneming van het tweede lid en hetgeen bepaald is in artikel 4.1.8/2, aan de volgende partijen toegang tot de gegevens verzameld uit de digitale, elektronische of analoge meter:<br>
 1° de overheden voor de gegevens die ze gemachtigd zijn te kennen uit hoofde van een wet, een decreet of een ordonnantie;<br>
 2° de instellingen en de natuurlijke personen of rechtspersonen voor de informatie die ze nodig hebben om de opdrachten van algemeen belang te vervullen die hun zijn toevertrouwd door of krachtens een wet, een decreet of een ordonnantie;<br>
-3° distributienetbeheerders en hun werkmaatschappij, beheerders van een gesloten distributienet, de beheerder van het transmissienet, de vervoeronderneming, de beheerder van het plaatselijk vervoernet, producenten, leveranciers, tussenpersonen, bevrachters, evenwichtsverantwoordelijken en de VREG;<br>
+3° distributienetbeheerders en hun werkmaatschappij, beheerders van een gesloten distributienet, de beheerder van het transmissienet, de vervoeronderneming, de beheerder van het plaatselijk vervoernet, producenten, leveranciers, tussenpersonen, bevrachters,&nbsp;dienstverleners van flexibiliteit, aggregatoren, evenwichtsverantwoordelijken en de VREG;<br>
 4° de netgebruiker en in voorkomend geval de natuurlijke persoon van wie de persoonsgegevens worden verwerkt;<br>
 5° een andere partij, op voorwaarde dat de netgebruiker en in voorkomend geval de natuurlijke persoon van wie de persoonsgegevens worden verwerkt, toestemming heeft gegeven aan die partij;<br>
 6° elke partij voor zover de gegevens die worden verwerkt volledig geanonimiseerd zijn.<br>
@@ -1133,7 +1448,7 @@ Voor de verwerkingen van persoonsgegevens in het kader van de doeleinden, vermel
 
 ### ART 4.1.22/8.
 
-De aanbieders van energiediensten verwerken technische gegevens, relationele gegevens en meetgegevens, waartoe zij via de netbeheerder of zijn werkmaatschappij overeenkomstig artikel 4.1.22/5 toegang hebben, met het oog op klantbeheer en het aanbieden van diensten.<br>
+De aanbieders van energiediensten, dienstverleners van flexibiliteit en aggregatoren verwerken technische gegevens, relationele gegevens en meetgegevens, waartoe zij via de netbeheerder of zijn werkmaatschappij overeenkomstig artikel 4.1.22/5 toegang hebben, met het oog op klantbeheer en het aanbieden van diensten.<br>
 <br>
 Alle technische gegevens, relationele gegevens en meetgegevens, vermeld in het eerste lid, kunnen ook persoonsgegevens zijn.<br>
 <br>
@@ -1290,10 +1605,10 @@ De overlegprocedure, vermeld in het eerste lid, komt tot stand met akkoord van e
 16° de structuur van de tarieven bevordert het rationeel gebruik van energie en het rationeel gebruik van de infrastructuren;<br>
 17° de tarieven zijn een realistische weergave van de kostenvoordelen die kunnen voortvloeien uit de aansluiting op en het gebruik van het distributienet door installaties die gebruikmaken van hernieuwbare-energiebronnen en gedistribueerde opwekking;<br>
 18° de tarieven weerspiegelen de kostenbesparingen in distributienetten die worden behaald vanuit maatregelen die passen binnen het vraagzijdebeheer en kunnen een dynamische prijsstelling voor afnemers ondersteunen;<br>
-19° de tarieven bevatten geen prikkels die de algehele efficiëntie, inclusief de energie-efficiëntie, aantasten van de productie, de distributie en de levering van elektriciteit of die de marktdeelname van de vraagrespons in verband met balancerings- en nevendiensten kunnen belemmeren. De tarieven geven wel prikkels voor de deelname van vraagzijdemiddelen aan het aanbod op georganiseerde elektriciteitsmarkten en voor de levering van ondersteunende diensten;<br>
-20° de tarieven beletten netbeheerders of energiedetailhandelaren niet systeemdiensten beschikbaar te stellen voor vraagresponsmaatregelen, vraagzijdebeheer en gedistribueerde opwekking op georganiseerde elektriciteitsmarkten, met name:<br>
+19° de tarieven bevatten geen prikkels die de algehele efficiëntie, inclusief de energie-efficiëntie, aantasten van de productie, de distributie en de levering van elektriciteit of die de marktdeelname van de vraagrespons in verband met balancerings- en nevendiensten kunnen belemmeren;<br>
+20° de tarieven beletten netbeheerders of energiedetailhandelaren niet systeemdiensten beschikbaar te stellen voor vraagresponsmaatregelen en gedistribueerde opwekking op georganiseerde elektriciteitsmarkten, met name:<br>
 a) verschuiven van de belasting van piekperioden naar dalperioden omdat de eindafnemer rekening houdt met de beschikbaarheid van hernieuwbare energie, energie uit warmte-krachtkoppeling en verspreide opwekking;<br>
-b) energiebesparing vanuit de vraagrespons van verspreide verbruikers door aggregatoren;<br>
+b) energiebesparing vanuit de vraagrespons van verspreide verbruikers door aggregatoren of dienstverleners van flexibiliteit;<br>
 c) vermindering van de vraag resulterend uit energie-efficiëntiemaatregelen die door aanbieders van energiediensten met inbegrip van bedrijven die energiediensten leveren, zijn genomen;<br>
 d) de aansluiting op en verdeling van opwekkingsbronnen op lagere spanningsniveaus;<br>
 e) de aansluiting van opwekkingsbronnen vanuit een locatie dichterbij het verbruik;<br>
@@ -1348,18 +1663,23 @@ De reglementen bevatten telkens de bepalingen van toepassing op de gesloten dist
 <br>
 § 2. De technische reglementen, vermeld in § 1, bevatten voor het beheer, de toegang tot en de aansluiting op het net in ieder geval :<br>
 1° de technische en operationele regels die verbonden zijn aan de taken die behoren tot het beheer van het net, vermeld in artikel 4.1.6;<br>
-2° de verplichtingen die opgelegd zijn aan producenten, evenwichtsverantwoordelijken, bevrachters, leveranciers, aanbieders van energiediensten met inbegrip van exploitanten van noodgroepen, aggregatoren, afnemers,&nbsp;om de netbeheerder in staat te stellen zijn net zo kwaliteitsvol mogelijk te beheren, inclusief de handels- en balanceringsvereisten opgelegd aan iedere leverancier van elektriciteit of aardgas aan afnemers in het Vlaamse Gewest;<br>
-3° de regels voor de uitwisseling van gegevens tussen de beheerder van het transmissienet, de vervoeronderneming, de distributienetbeheerders, de beheerder van het plaatselijke vervoernet van elektriciteit, de beheerder van het gesloten distributienet, de producenten, de aardgasinvoerders, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers, de&nbsp;aanbieders van energiediensten met inbegrip van aggregatorenen de afnemers;<br>
-4° de regels die opgelegd zijn aan leveranciers en netbeheerders bij klant- of leverancierswissels, contractuele wijzigingen op het toegangspunt, de opname en rechtzetting van meterstanden en de allocatie en reconciliatie, inclusief de financiële verrekeningen tussen marktpartijen;<br>
+2° de verplichtingen die opgelegd zijn aan producenten, evenwichtsverantwoordelijken, bevrachters, leveranciers,&nbsp;actieve afnemers, energiegemeenschappen van burgers, hernieuwbare-energiegemeenschappen, aanbieders van energiediensten met inbegrip van exploitanten van noodgroepen, aggregatoren,&nbsp;dienstverleners van flexibiliteit, afnemers,&nbsp;om de netbeheerder in staat te stellen zijn net zo kwaliteitsvol mogelijk te beheren, inclusief de handels- en balanceringsvereisten opgelegd aan iedere leverancier van elektriciteit of aardgas aan afnemers in het Vlaamse Gewest;<br>
+3° de regels voor de uitwisseling van gegevens tussen de beheerder van het transmissienet, de vervoeronderneming, de distributienetbeheerders, de beheerder van het plaatselijke vervoernet van elektriciteit, de beheerder van het gesloten distributienet, de producenten, de aardgasinvoerders, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers,&nbsp;de actieve afnemers, energiegemeenschappen van burgers, de hernieuwbare-energiegemeenschappen, de&nbsp;aanbieders van energiediensten met inbegrip van aggregatorenen de afnemers en de dienstverleners van flexibiliteit;<br>
+4° de regels die opgelegd zijn aan leveranciers en netbeheerders bij klant- of leverancierswissels, contractuele wijzigingen op het toegangspunt, de opname en rechtzetting van meterstanden, energiedelen conform artikel 7.2.1, de peer-to-peerhandel van groene stroom door één actieve afnemer aan een andere afnemer conform artikel 7.2.2 en de allocatie en reconciliatie, inclusief de financiële verrekeningen tussen marktpartijen;<br>
 5° de eventuele technische uitvoeringsregels bij openbaredienstverplichtingen die opgelegd zijn aan leveranciers of netbeheerders op grond van dit decreet;<br>
-6° de informatieverplichtingen of voorafgaande goedkeuring of vaststelling door de VREG van de operationele regels, algemene voorwaarden, typeovereenkomsten, formulieren en procedures die gebruikt worden door de netbeheerder ten aanzien van leveranciers, aanbieders van energiediensten met inbegrip van aggregatoren en afnemers;<br>
+6° de informatieverplichtingen of voorafgaande goedkeuring of vaststelling door de VREG van de operationele regels, algemene voorwaarden, typeovereenkomsten, formulieren en procedures die gebruikt worden door de netbeheerder ten aanzien van leveranciers,&nbsp;actieve afnemers, energiegemeenschappen van burgers, hernieuwbare-energiegemeenschappen, aanbieders van energiediensten met inbegrip van aggregatoren, dienstverleners van flexibiliteit en afnemers;<br>
 7° de prioriteit die moet worden gegeven aan kwalitatieve warmtekrachtinstallaties en aan productie-installaties van groene stroom;<br>
 8° de verplichting voor de netbeheerders tot het verstrekken van informatie aan de VREG over de beoordeling die zij uitvoeren van het potentieel voor energie-efficiëntie van hun gas- en elektriciteitsinfrastructuur, in het bijzonder wat betreft transport, distributie, beheer van de belasting van het net en interoperabiliteit, en de aansluiting op installaties voor energieopwekking, inclusief de toegangsmogelijkheden voor micro-energiegeneratoren;<br>
 9° de vaststelling of goedkeuring van niet-tarifaire toegangs- en aansluitingsvoorwaarden.<br>
-10° de technische en operationele regels die verbonden zijn aan de taken die behoren tot het databeheer, vermeld in artikel 4.1.8/2;<br>
+10° de technische en operationele regels, inclusief de berekeningsregels, die verbonden zijn aan de taken die behoren tot het databeheer, vermeld in artikel 4.1.8/2;<br>
 11° de limitatieve lijst van rubrieken van gegevens die de netbeheerder nodig heeft voor de uitvoering van de taken die hem in of krachtens voorliggend decreet worden opgelegd;<br>
 12° de limitatieve lijst van persoonsgegevens, zoals meetgegevens en afgeleide gegevens, die de distributienetnetbeheerder nodig heeft voor de uitvoering van de taken die hem in of krachtens voorliggend decreet worden opgelegd;<br>
-13° de lijst van gegevens, waaronder ook persoonsgegevens, die in het toegangsregister worden opgenomen.<br>
+13° de lijst van gegevens, waaronder ook persoonsgegevens, die in het toegangsregister worden opgenomen;<br>
+14° de methodologie die gebruikt wordt door de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit bij de aankoop van elektriciteit voor het dekken van netverliezen, de aankoop van niet-frequentiegerelateerde ondersteunende diensten en de aankoop van alle vormen van flexibiliteit, waarvoor de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit de aanvrager van flexibiliteit is, in het bijzonder het beheer van lokale congestie en redispatching binnen hun eigen dekkingsgebied, en de informatieverplichtingen daarover;<br>
+15° de regels die zijn opgelegd in het kader van flexibiliteit aan de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit en de dienstverleners van flexibiliteit;<br>
+16° de lijst van gegevens, waaronder ook persoonsgegevens, die in het flexibiliteitstoegangsregister worden opgenomen;<br>
+17° de lijst van gegevens, waaronder ook persoonsgegevens, die in het flexibiliteitsactivatieregister worden opgenomen;<br>
+18° de gegevens die worden gemeten, berekend, bezorgd en beheerd, en ook de methodieken om energiehoeveelheden voor de allocatie, reconciliatie en facturatie te berekenen, en de aanpassingen aan die berekeningen, die gepaard gaan met de activiteiten van actieve afnemers, energiegemeenschappen van burgers en hernieuwbare-energiegemeenschappen.<br>
 <br>
 § 3. De technische reglementen, vermeld in paragraaf 1, worden na een openbare consultatie goedgekeurd door de raad van bestuur van de VREG.<br>
 <br>
@@ -1412,9 +1732,39 @@ In het geval de VREG de leveringsvergunning van een leverancier, vermeld in arti
 
 ### ART. 4.4.1.
 
-Iedere afnemer heeft de volgende rechten :<br />1° het recht om van elektriciteit of aardgas, naargelang het geval, te kunnen worden voorzien door een leverancier naar keuze;<br />2° het recht om kosteloos van leverancier te veranderen.<br /><br />Als een afnemer wil veranderen van leverancier, met inachtneming van de contractuele voorwaarden van het leveringscontract met zijn leverancier, wordt dat binnen een termijn van drie weken na de ontvangst van dat bericht geregeld door de betrokken netbeheerder.
+Iedere afnemer heeft de volgende rechten :<br>
+1° het recht om van elektriciteit of aardgas, naargelang het geval, te kunnen worden voorzien door een leverancier naar keuze, na toestemming van de leverancier, en ongeacht de lidstaat waar de leverancier is geregistreerd, op voorwaarde dat de leverancier de geldende handels- en balanceringsregels, vermeld in de technische reglementen, toepast;<br>
+2° het recht om, individueel of collectief, zonder discriminatie ten aanzien van moeite en tijd, kosteloos van leverancier te veranderen;<br>
+3° het recht om op hetzelfde moment over meer dan een elektriciteitsleveringscontract te beschikken, op voorwaarde dat de meting en de allocatie en reconciliatie van de energiehoeveelheden conform de technische reglementen worden uitgevoerd;<br>
+4° het recht om, als hij over een digitale meter beschikt, elke leverancier die meer dan 200.000 afnamepunten in het Vlaamse Gewest belevert, te verzoeken om een dynamisch prijscontract af te sluiten.<br>
+<br>
+Als een afnemer wil veranderen van leverancier, aggregator of dienstverlener van flexibiliteit, wordt dat, als hij zich houdt aan de contractuele voorwaarden, geregeld binnen ten hoogste drie weken vanaf de datum van het verzoek van de afnemer aan de leverancier door de betrokken netbeheerder. Vanaf 1 januari 2026 neemt het technische proces van verandering van leverancier niet langer dan 24 uur in beslag en is die verandering op elke werkdag mogelijk. Onder werkdag wordt elke dag van de week verstaan, behalve zaterdag, zondag en wettelijke en decretale feestdagen.
 
 ## [Afdeling II. Actieve afnemers (ing. decr. 2 april 2021, art. 47, I: 7 juni 2021)]
+
+### ART 4.4.2.
+
+§ 1. Iedere afnemer die aangesloten is op een elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit, een gesloten distributienet van elektriciteit, een warmte- of koudenet kan een of meer van de volgende activiteiten ondernemen en daardoor een actieve afnemer worden, op voorwaarde dat die activiteiten niet zijn belangrijkste commerciële of professionele activiteit vormen:<br>
+1° energie produceren, hetzij op zijn eigen verblijfplaats of vestigingseenheid, hetzij via een directe lijn die de grenzen van de eigen site overschrijdt, waarbij de productie-installaties rechtstreeks of onrechtstreeks via de aansluiting van de actieve afnemer zijn aangesloten op een elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit, een gesloten distributienet van elektriciteit of een warmte- of koudenet;<br>
+2° het zelfverbruik van de geproduceerde energie, vermeld in punt 1° ;<br>
+3° energie opslaan;<br>
+4° deelnemen aan energiediensten;<br>
+5° optreden als dienstverlener van flexibiliteit of als deelnemer aan flexibiliteit of aggregatie;<br>
+6° peer-to-peerhandel voeren met de energie, vermeld in punt 1°, conform artikel 7.2.2, ook met een stroomafnameovereenkomst;<br>
+7° de energie, vermeld in punt 1°, verkopen, ook met een stroomafnameovereenkomst;<br>
+8° het energiedelen van de energie, vermeld in punt 1°, overeenkomstig artikel 7.2.1, tweede lid, 1°.<br>
+<br>
+Als dat noodzakelijk is om de activiteiten, vermeld in het eerste lid, 5° tot en met 8°, uit te oefenen, beschikt de actieve afnemer over een meter die de afgenomen energie en de energie die in een elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of een gesloten distributienet van elektriciteit wordt geïnjecteerd, afzonderlijk meet, en waarvan de meetwaarden minstens elke onbalansverrekeningsperiode geregistreerd worden en verwerkt worden bij de allocatie conform de technische reglementen.<br>
+<br>
+Elke actieve afnemer is financieel verantwoordelijk voor de onbalansen die hij in het elektriciteitsnet veroorzaakt. Hij draagt de evenwichtsverantwoordelijkheid van zijn activiteiten, of belast een evenwichtsverantwoordelijke met die verantwoordelijkheid.<br>
+<br>
+§ 2. Een actieve afnemer met een energieopslagfaciliteit heeft de volgende rechten:<br>
+1° de aansluiting van de energieopslagfaciliteit op het net binnen een redelijke termijn, vermeld in de technische reglementen;<br>
+2° het recht om gelijktijdig verschillende energieopslagdiensten te verlenen als dat technisch mogelijk is.<br>
+<br>
+§ 3. Het beheer van de installaties die op het elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit, een gesloten distributienet van elektriciteit of een warmte- of koudenet zijn aangesloten, en die nodig zijn om de activiteiten, vermeld in paragraaf 1, eerste lid, uit te oefenen, kan door de actieve afnemer aan een derde gedelegeerd worden, ook wat betreft de installatie, de exploitatie, de verwerking van gegevens en het onderhoud waarbij de derde niet als actieve afnemer wordt beschouwd.<br>
+<br>
+§ 4. De Vlaamse Regering neemt maatregelen ter bevordering en vergemakkelijking van de ontwikkeling van het zelfverbruik van hernieuwbare energie, vermeld in paragraaf 1, eerste lid, 2°.&nbsp;
 
 ## HOOFDSTUK V. [De aanleg en het beheer van directe lijnen en directe leidingen (verv. decr. 8 juli 2011, art. 30, I: 26 augustus 2011)]
 
@@ -1462,7 +1812,15 @@ De VREG kan de toelating opheffen zodra wordt vastgesteld dat niet meer aan de c
 <br>
 Als door de aanleg van een gesloten distributienet het openbaar domein moet worden doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De procedure kan door de beheerder van het gesloten distributienet pas worden aangevat als de toelating van de VREG, vermeld in het eerste lid, verworven is.<br>
 <br>
-§ 3. De VREG kan de nadere modaliteiten vastleggen voor de melding, de toekenning en de opheffing van de toelating, onverminderd wat bepaald is in paragraaf 2, eerste lid.
+§ 3. De VREG kan de nadere modaliteiten vastleggen voor de melding, de toekenning en de opheffing van de toelating, onverminderd wat bepaald is in paragraaf 2, eerste lid.<br>
+<br>
+§ 4. De VREG kan de beheerders van een gesloten distributienet van elektriciteit ontheffen van de plicht om de volgende taken en verplichtingen te vervullen. Dergelijke ontheffing wordt toegekend indien het gesloten distributienet van elektriciteit voldoet aan de voorwaarden van artikel 1.1.3, 56° /2:<br>
+1° de vereiste om de energie die ze gebruiken om energieverliezen te dekken en om in de niet-frequentiegerelateerde ondersteunende diensten in hun systeem te voorzien, te kopen volgens transparante, niet-discriminerende en marktgebaseerde procedures, vermeld in artikel 4.6.3, eerste lid, 14° ;<br>
+2° de vereiste dat de VREG de tarieven of de methodes om ze te berekenen, vermeld in artikel 4.6.10, tweede lid, goedkeurt vóór ze in werking treden;<br>
+3° de vereiste om flexibiliteitsdiensten te kopen, vermeld in artikel 4.6.3, eerste lid, 15° ;<br>
+4° de vereiste om het gesloten distributienet te ontwikkelen op basis van een investeringsplan, vermeld in artikel 4.6.3, eerste lid, 16° ;<br>
+5° de vereiste om geen oplaadpunten voor elektrische voertuigen te bezitten, te ontwikkelen, te beheren of te exploiteren, vermeld in artikel 4.6.4, derde lid;<br>
+6° de vereiste om geen elektriciteitsopslagfaciliteiten te bezitten, te ontwikkelen, te beheren of te exploiteren, vermeld in artikel 4.6.4, tweede lid.
 
 ### ART. 4.6.2.
 
@@ -1470,15 +1828,37 @@ De gebruikers van een gesloten distributienet van elektriciteit hebben alleen me
 
 ### ART. 4.6.3.
 
-Het beheer van een gesloten distributienet omvat, onder meer, de volgende   taken :<BR>1° het beheer van de elektriciteits- of aardgasstromen op zijn net,   met daarbij het waarborgen van de veiligheid, de betrouwbaarheid en de   efficiëntie van zijn net, en in dat verband, het instaan voor de nodige   ondersteunende diensten;<BR>2° het aanhouden van voldoende netcapaciteit om de   redelijke elektriciteits- en aardgasbehoefte te dekken van de achterliggende   afnemers en om het vervoer van elektriciteit en aardgas van en naar het net   waarmee het gesloten distributienet gekoppeld is, mogelijk te maken;<BR>3° de   uitbreiding van zijn net in het geografisch afgebakende gebied waarvoor hij werd   aangewezen of, als er nog geen net aanwezig is, de aanleg van het net in dit   geografisch afgebakende gebied;<BR>4° de herstelling, het preventieve onderhoud,   de vernieuwing en de verbetering van zijn net en de bijbehorende   installaties;<BR>5° het herstellen van onderbrekingen en storingen bij de   elektriciteits- of aardgastoevoer via zijn net;<BR>6° het opstellen, het bewaren   en ter beschikking houden van de plannen van zijn net aan de bevoegde regulator,   de gebruikers van het gesloten distributienet en de beheerder van het net   waaraan zijn net is gekoppeld;<BR>7° het aansluiten, afsluiten en heraansluiten   van installaties op zijn net en het verzwaren van de aansluitingen op zijn   net;<BR>8° het verlenen van toegang tot zijn net;<BR>9° het beheren van het   toegangsregister van zijn net;<BR>10° het ter beschikking stellen, de plaatsing,   de activering, de desactivering, het onderhoud en het herstellen van meters en   tellers op de toegangspunten op zijn net;<BR>11° het aflezen van de meters en   tellers op de toegangspunten op zijn net, de bepaling van de injectie en de   afname van de achterliggende netgebruikers en de verwerking en de bewaring van   die gegevens;<BR>12° het verstrekken van de nodige meetgegevens en andere   gegevens aan de producenten, de evenwichtsverantwoordelijken, de bevrachters, de   tussenpersonen, de leveranciers, de aanbieders van energiediensten met inbegrip   van aggregatoren,&nbsp;de afnemers en de VREG;<BR>13° het verstrekken van de   nodige inlichtingen aan de beheerders van de netten waaraan zijn net in kwestie   gekoppeld is, om een veilige en efficiënte uitbating, een gecoördineerde   ontwikkeling en een goede wisselwerking tussen de netten te   waarborgen.<BR><BR>De beheerder van een gesloten distributienet kan de taken,   vermeld in de punten 9 tot en met 12 van het vorig lid, uitbesteden aan de   beheerder van het net waaraan zijn net is gekoppeld, waarbij deze laatste de   uitvoering van deze taken niet kan weigeren.
+Het beheer van een gesloten distributienet omvat, onder meer, de volgende taken :<br>
+1° het beheer van de elektriciteits- of aardgasstromen op zijn net, met daarbij het waarborgen van de veiligheid, de betrouwbaarheid en de efficiëntie van zijn net, en in dat verband, het instaan voor de nodige ondersteunende diensten;<br>
+2° het aanhouden van voldoende netcapaciteit om de redelijke elektriciteits- en aardgasbehoefte te dekken van de achterliggende afnemers en om het vervoer van elektriciteit en aardgas van en naar het net waarmee het gesloten distributienet gekoppeld is, mogelijk te maken;<br>
+3° de uitbreiding van zijn net in het geografisch afgebakende gebied waarvoor hij werd aangewezen of, als er nog geen net aanwezig is, de aanleg van het net in dit geografisch afgebakende gebied;<br>
+4° de herstelling, het preventieve onderhoud, de vernieuwing en de verbetering van zijn net en de bijbehorende installaties;<br>
+5° het herstellen van onderbrekingen en storingen bij de elektriciteits- of aardgastoevoer via zijn net;<br>
+6° het opstellen, het bewaren en ter beschikking houden van de plannen van zijn net aan de bevoegde regulator, de gebruikers van het gesloten distributienet en de beheerder van het net waaraan zijn net is gekoppeld;<br>
+7° het aansluiten, afsluiten en heraansluiten van installaties op zijn net en het verzwaren van de aansluitingen op zijn net;<br>
+8° het verlenen van toegang tot zijn net;<br>
+9° het beheren van het toegangsregister van zijn net, het flexibiliteitstoegangsregister en het flexibiliteitsactivatieregister;<br>
+10° het ter beschikking stellen, de plaatsing, de activering, de desactivering, het onderhoud en het herstellen van meters en tellers op de toegangspunten op zijn net;<br>
+11° het aflezen van de meters en tellers op de toegangspunten op zijn net, de bepaling van de injectie en de afname van de achterliggende netgebruikers en de verwerking en de bewaring van die gegevens;<br>
+12° het verstrekken van de nodige meetgegevens en andere gegevens aan de producenten, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers, de aanbieders van energiediensten met inbegrip van aggregatoren en dienstverleners van flexibiliteit,&nbsp;de afnemers en de VREG;<br>
+13° het verstrekken van de nodige inlichtingen aan de beheerders van de netten waaraan zijn net in kwestie gekoppeld is, om een veilige en efficiënte uitbating, een gecoördineerde ontwikkeling en een goede wisselwerking tussen de netten te waarborgen;<br>
+14° het fungeren als neutrale marktfacilitator door de energie in te kopen die ze gebruiken om energieverliezen te dekken en het voorzien in de niet-frequentiegerelateerde ondersteunende diensten in hun net volgens transparante, niet-discriminerende en marktgebaseerde procedures;<br>
+15° de aankoop van flexibiliteitsdiensten, in het bijzonder in geval van lokale congestie binnen hun dekkingsgebied, met het oog op het efficiëntere beheer en de efficiënte ontwikkeling van het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit;<br>
+16° de ontwikkeling van het gesloten distributienet op basis van een transparant investeringsplan dat voldoet aan de vereisten, vermeld in artikel 4.1.19.<br>
+<br>
+De beheerder van een gesloten distributienet kan de taken, vermeld in de punten 9 tot en met 12 van het vorig lid, uitbesteden aan de beheerder van het net waaraan zijn net is gekoppeld, waarbij deze laatste de uitvoering van deze taken niet kan weigeren.
 
 ### ART. 4.6.4.
 
-De beheerder van een gesloten distributienet kan activiteiten inzake levering of productie van elektriciteit en aardgas ondernemen, mits zijn net minder dan 100 000 achterliggende afnemers bedient.
+De beheerder van een gesloten distributienet kan activiteiten inzake levering of productie van elektriciteit en aardgas ondernemen, mits zijn net minder dan 100 000 achterliggende afnemers bedient.<br>
+<br>
+Gesloten distributienetbeheerders mogen geen elektriciteitsopslagfaciliteiten bezitten, ontwikkelen, beheren of exploiteren.<br>
+<br>
+Gesloten distributienetbeheerders mogen geen oplaadpunten voor elektrische voertuigen bezitten, ontwikkelen, beheren of exploiteren, behalve als ze zelf particuliere oplaadpunten bezitten die uitsluitend voor eigen verbruik bestemd zijn.
 
 ### ART. 4.6.5.
 
-De beheerder van het gesloten distributienet onthoudt zich van elke vorm   van discriminatie tussen aardgasinvoerders, evenwichtsverantwoordelijken,   bevrachters, leveranciers, aanbieders van energiediensten met inbegrip van   aggregatoren,&nbsp;tussenpersonen, achterliggende netgebruikers en categorieën   van achterliggende netgebruikers.
+De beheerder van het gesloten distributienet onthoudt zich van elke vorm van discriminatie tussen aardgasinvoerders, evenwichtsverantwoordelijken, bevrachters, leveranciers, aanbieders van energiediensten met inbegrip van aggregatoren en dienstverleners van flexibiliteit,&nbsp;tussenpersonen, achterliggende netgebruikers en categorieën van achterliggende netgebruikers.
 
 ### ART. 4.6.6.
 
@@ -1494,11 +1874,41 @@ Iedere beheerder van het gesloten distributienet maakt de geldende tarieven en v
 
 ### ART. 4.6.9.
 
-§ 1. Achterliggende netgebruikers hebben recht op toegang tot een gesloten   distributienet voor de afname en injectie van elektriciteit of   aardgas.<BR><BR>De technische reglementen bepalen wie door de   toegangsgerechtigden, bedoeld in het voorgaande lid, als toegangshouder op een   toegangspunt aangeduid kan worden.<BR><BR>§ 2. Iedere beheerder van het gesloten   distributienet maakt de geldende tarieven en voorwaarden waartegen de   toegangshouder toegang tot het gesloten distributienet kan verkrijgen bekend aan   de achterliggende netgebruikers op dat gesloten distributienet.<BR><BR>§ 3. Een   beheerder van een gesloten distributienet kan de toegang tot zijn net alleen   weigeren, beëindigen of opschorten in één of meer van onderstaande gevallen :   <BR>1° zijn net beschikt niet over voldoende capaciteit om het vervoer te   verzekeren; <BR>2° de veilige en betrouwbare werking van zijn net komt in het   gedrang;<BR>3° de aanvrager van de toegang tot het net voldoet niet of de   toegangshouder voldoet niet meer aan de voorwaarden voor toegang tot zijn net,   omschreven in het van toepassing zijnde technische reglement, het reglement of   contract van de beheerder van het gesloten distributienet.<BR><BR>Bij een   weigering, beëindiging of opschorting van de toegang tot zijn net stuurt de   beheerder van het gesloten distributienet aan de aanvrager van de toegang tot   zijn net of aan de toegangshouder een schriftelijke en gemotiveerde   verklaring.<BR><BR>De beheerder van het gesloten distributienet kan de toegang   tot zijn net alleen opschorten of beëindigen na voorafgaande toestemming door de   VREG, tenzij in één van de volgende vier gevallen :<BR>1° bij overmacht of een   noodsituatie, zoals omschreven in het van toepassing zijnde technisch reglement;   <BR>2° in geval de toegangshouder geen evenwichtsverantwoordelijke of bevrachter   meer heeft;<BR>3° de beheerder van het gesloten distributienet oordeelt dat er   een ernstig risico bestaat voor de veiligheid van personen of materieel;<BR>4°   voor een individueel toegangspunt, het aansluitingsvermogen op aanzienlijke   wijze overschreden wordt.<BR><BR>§ 4. Tegen een weigering, opschorting of   beëindiging van toegang tot het gesloten distributienet kan overeenkomstig   artikel 3.1.4/3, zonder voorafgaande bemiddeling, een   geschillenbeslechtingsprocedure gevoerd worden bij de VREG.<BR><BR>Als de VREG   oordeelt dat de weigering, opschorting of beëindiging van de toegang onterecht   was, geeft de beheerder van het gesloten distributienet de betrokken persoon   alsnog of opnieuw toegang tot zijn net.<BR><BR>Als de VREG oordeelt dat de   weigering, opschorting of beëindiging van de toegang terecht was, heeft de   betrokken persoon de mogelijkheid zich te wenden tot de beheerder van het net   waaraan het gesloten distributienet gekoppeld is.
+§ 1. Achterliggende netgebruikers hebben recht op toegang tot een gesloten distributienet voor de afname en injectie van elektriciteit of aardgas.<br>
+<br>
+De technische reglementen bepalen wie door de toegangsgerechtigden, bedoeld in het voorgaande lid, als toegangshouder op een toegangspunt aangeduid kan worden.&nbsp;Op elk toegangspunt kan zowel voor de afname als voor de injectie telkens slechts één toegangshouder worden aangeduid.<br>
+<br>
+§ 2. Iedere beheerder van het gesloten distributienet maakt de geldende tarieven en voorwaarden waartegen de toegangshouder toegang tot het gesloten distributienet kan verkrijgen bekend aan de achterliggende netgebruikers op dat gesloten distributienet.<br>
+<br>
+§ 3. Een beheerder van een gesloten distributienet kan de toegang tot zijn net alleen weigeren, beëindigen of opschorten in één of meer van onderstaande gevallen :<br>
+1° zijn net beschikt niet over voldoende capaciteit om het vervoer te verzekeren;<br>
+2° de veilige en betrouwbare werking van zijn net komt in het gedrang;<br>
+3° de aanvrager van de toegang tot het net voldoet niet of de toegangshouder voldoet niet meer aan de voorwaarden voor toegang tot zijn net, omschreven in het van toepassing zijnde technische reglement, het reglement of contract van de beheerder van het gesloten distributienet.<br>
+<br>
+Bij een weigering, beëindiging of opschorting van de toegang tot zijn net stuurt de beheerder van het gesloten distributienet aan de aanvrager van de toegang tot zijn net of aan de toegangshouder een schriftelijke en gemotiveerde verklaring.<br>
+<br>
+De beheerder van het gesloten distributienet kan de toegang tot zijn net alleen opschorten of beëindigen na voorafgaande toestemming door de VREG, tenzij in één van de volgende vier gevallen :<br>
+1° bij overmacht of een noodsituatie, zoals omschreven in het van toepassing zijnde technisch reglement;<br>
+2° in geval de toegangshouder geen evenwichtsverantwoordelijke of bevrachter meer heeft;<br>
+3° de beheerder van het gesloten distributienet oordeelt dat er een ernstig risico bestaat voor de veiligheid van personen of materieel;<br>
+4° voor een individueel toegangspunt, het aansluitingsvermogen op aanzienlijke wijze overschreden wordt.<br>
+<br>
+§ 4. Tegen een weigering, opschorting of beëindiging van toegang tot het gesloten distributienet kan overeenkomstig artikel 3.1.4/3, zonder voorafgaande bemiddeling, een geschillenbeslechtingsprocedure gevoerd worden bij de VREG.<br>
+<br>
+Als de VREG oordeelt dat de weigering, opschorting of beëindiging van de toegang onterecht was, geeft de beheerder van het gesloten distributienet de betrokken persoon alsnog of opnieuw toegang tot zijn net.<br>
+<br>
+Als de VREG oordeelt dat de weigering, opschorting of beëindiging van de toegang terecht was, heeft de betrokken persoon de mogelijkheid zich te wenden tot de beheerder van het net waaraan het gesloten distributienet gekoppeld is.
 
 ### ART. 4.6.10.
 
-Iedere beheerder van een gesloten distributienet past voor de aansluiting,   het gebruik en de ondersteunende diensten die van toepassing zijn op dat net,   tarieven toe die in overeenstemming zijn met de volgende richtsnoeren:<BR>1° de   tarieven zijn niet-discriminerend, gebaseerd op de kosten en een redelijke   winstmarge;<BR>2° de tarieven zijn transparant voor de gebruiker van een   gesloten distributienet;<BR>3° het tarief dat de beheerder van een gesloten   distributienet op de gebruikers van dat net toepast, omvat de kosten voor   aansluiting, gebruik en ondersteunende diensten, alsook in voorkomend geval, de   kosten die verband houden met de extra lasten die het gesloten distributienet   moet dragen om het transmissie- of distributienet of het plaatselijk vervoersnet   voor elektriciteit waarop hij aangesloten is te gebruiken;<BR>4° de beheerder   van het gesloten distributienet kiest de afschrijvingstermijnen en de   winstmarges gekozen binnen de marges tussen de waarden die hij toepast in zijn   belangrijkste bedrijfssector en de marges die in de distributienetten worden   toegepast;<BR>5° de tarieven zijn, wat de aansluiting, de versterking ervan en   de vernieuwing van de uitrusting van het net betreft, afhankelijk van de mate   van socialisering of individualisering van de investeringen die eigen zijn aan   de locatie, rekening houdend met het aantal gebruikers van het gesloten   distributienet.
+Iedere beheerder van een gesloten distributienet past voor de aansluiting, het gebruik en de ondersteunende diensten die van toepassing zijn op dat net, tarieven toe die in overeenstemming zijn met de volgende richtsnoeren:<br>
+1° de tarieven zijn niet-discriminerend, gebaseerd op de kosten en een redelijke winstmarge;<br>
+2° de tarieven zijn transparant voor de gebruiker van een gesloten distributienet;<br>
+3° het tarief dat de beheerder van een gesloten distributienet op de gebruikers van dat net toepast, omvat de kosten voor aansluiting, gebruik en ondersteunende diensten, alsook in voorkomend geval, de kosten die verband houden met de extra lasten die het gesloten distributienet moet dragen om het transmissie- of distributienet of het plaatselijk vervoersnet voor elektriciteit waarop hij aangesloten is te gebruiken;<br>
+4° de beheerder van het gesloten distributienet kiest de afschrijvingstermijnen en de winstmarges gekozen binnen de marges tussen de waarden die hij toepast in zijn belangrijkste bedrijfssector en de marges die in de distributienetten worden toegepast;<br>
+5° de tarieven zijn, wat de aansluiting, de versterking ervan en de vernieuwing van de uitrusting van het net betreft, afhankelijk van de mate van socialisering of individualisering van de investeringen die eigen zijn aan de locatie, rekening houdend met het aantal gebruikers van het gesloten distributienet.<br>
+<br>
+De VREG moet de tarieven of de methodes om de tarieven voor de toegang tot het gesloten distributienet te berekenen, goedkeuren vóór ze in werking kunnen treden, behoudens indien een ontheffing werd toegekend overeenkomstig artikel 4.6.1, § 4, 2°, in welk geval de geldende tarieven of de methoden om de tarieven voor de toegang tot het gesloten distributienet te berekenen, overeenkomstig de richtsnoeren, vermeld in het eerste lid, worden herzien en goedgekeurd op verzoek van een achterliggende afnemer van het gesloten distributienet.
 
 ## [HOOFDSTUK VII. De aanleg en het beheer van een privédistributienet (ing. decr. 8 juli 2011, art. 35, I: 26 augustus 2011)]
 
@@ -1529,6 +1939,76 @@ De beheerder van een privédistributienet heeft geen openbare dienstverplichting
 ## [HOOFDSTUK VII/1. De aanleg en het beheer van een netwerk om propaan of butaan via leidingen te distribueren en leveren (ing. Decr. 18 maart 2022, art. 16, I: 9 april 2022)]
 
 ## [HOOFDSTUK VIII. Energiegemeenschap van burgers en hernieuwbare-energiegemeenschap (ing. decr. 2 april 2021, art. 55, I: 7 juni 2021)]
+
+### ART 4.8.1.
+
+§ 1. In dit artikel wordt verstaan onder zeggenschap: rechten, overeenkomsten of andere middelen die, afzonderlijk of samen, met inachtneming van alle feitelijke of juridische omstandigheden, het mogelijk maken een beslissende invloed uit te oefenen op de activiteiten van een onderneming, namelijk:<br>
+1° eigendoms- of gebruiksrechten op alle activa van een onderneming of delen daarvan;<br>
+2° rechten of overeenkomsten die een beslissende invloed verschaffen op de samenstelling, het stemgedrag of de besluiten van de organen van een onderneming.<br>
+<br>
+Een energiegemeenschap van burgers is een rechtspersoon die gebaseerd is op de open en vrijwillige deelname van zijn vennoten of leden, en die als hoofddoel heeft voordelen op ecologisch, economisch of sociaal gebied te verschaffen voor zijn vennoten, leden of de omgeving waar hij actief is, die geen winstoogmerk heeft of een winstoogmerk dat ondergeschikt is aan het hoofddoel en die de activiteiten kan ontplooien als bedoeld in artikel 4.8.4, § 1.<br>
+<br>
+De vennoten of leden, vermeld in het tweede lid, zijn in hun hoedanigheid van afnemer of afnemer van thermische energie elk aangesloten op een elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit, een gesloten distributienet van elektriciteit of een warmte- of koudenet.<br>
+<br>
+Natuurlijke personen, lokale overheden of kleine ondernemingen die niet betrokken zijn bij grootschalige commerciële activiteiten en voor wie de energiesector niet de belangrijkste economische activiteit vormt, hebben zeggenschap over de activiteiten van de energiegemeenschap van burgers waarvan zij vennoot of lid zijn.<br>
+<br>
+§ 2. De leden of vennoten van dezelfde energiegemeenschap van burgers sluiten elk een overeenkomst met de energiegemeenschap van burgers over hun rechten en verplichtingen. Als er binnen de energiegemeenschap van burgers aan energiedelen wordt gedaan, bevat de overeenkomst de rechten en verplichtingen van de leden of vennoten voor de verdeelsleutel in het kader van energiedelen die van toepassing is. De Vlaamse Regering kan de minimale inhoud van die overeenkomst bepalen.<br>
+<br>
+Elke energiegemeenschap van burgers bepaalt in haar statuten de regels rond zeggenschap van haar leden of vennoten, vermeld in paragraaf 1.
+
+### ART 4.8.2.
+
+§ 1. Een hernieuwbare-energiegemeenschap is een rechtspersoon die gebaseerd is op de open en vrijwillige deelname van zijn vennoten of leden, met als hoofddoel voordelen op ecologisch, economisch of sociaal gebied te verschaffen voor zijn vennoten, leden of de omgeving waar hij actief is, en die geen winstoogmerk heeft of een winstoogmerk dat ondergeschikt is aan het hoofddoel.<br>
+<br>
+De activiteiten van de hernieuwbare-energiegemeenschap inzake productie van energie, zelfverbruik, de verkoop van energie en energiedelen hebben enkel betrekking op energie uit hernieuwbare energiebronnen.<br>
+<br>
+De vennoten of leden van de hernieuwbare-energiegemeenschap zijn natuurlijke personen, lokale overheden of kleine en middelgrote ondernemingen waarvan de deelname aan de energiegemeenschap niet de belangrijkste commerciële of professionele activiteit vormt en die zich bevinden in nabijheid van de hernieuwbare-energieprojecten van de hernieuwbare-energiegemeenschap. De vennoten of leden zijn in hun hoedanigheid van afnemer elk aangesloten op een elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit, een gesloten distributienet van elektriciteit, een warmte- of koudenet. De vennoten of leden hebben controle over de activiteiten van de hernieuwbare-energiegemeenschap. De hernieuwbare-energiegemeenschap is autonoom ten aanzien van de individuele leden en vennoten of andere marktdeelnemers die er via andere middelen, zoals investeringen, in participeren.<br>
+<br>
+Een hernieuwbare-energiegemeenschap begrenst de deelname op basis van technische of geografische nabijheid, rekening houdend met de functie van de doelstellingen of de activiteiten die de hernieuwbare-energiegemeenschap wil verwezenlijken.<br>
+<br>
+De Vlaamse Regering kan criteria bepalen om het begrip technische of geografische nabijheid, vermeld in het vierde lid, in te vullen.<br>
+<br>
+Een hernieuwbare-energiegemeenschap beschikt over de eigendomsrechten van de installaties die ze gebruikt om haar activiteiten te kunnen uitoefenen.<br>
+<br>
+§ 2. De leden of vennoten van dezelfde hernieuwbare-energiegemeenschap sluiten elk een overeenkomst met de hernieuwbare-energiegemeenschap over hun rechten en verplichtingen. Als er binnen de hernieuwbare-energiegemeenschap aan energiedelen wordt gedaan, bevat de overeenkomst de rechten en verplichtingen van de leden of vennoten voor de verdeelsleutel in het kader van energiedelen die van toepassing is. De Vlaamse Regering kan de minimale inhoud van die overeenkomst bepalen.<br>
+<br>
+Elke hernieuwbare-energiegemeenschap bepaalt in haar statuten de regels over de controle van haar leden of vennoten en de autonomie van de hernieuwbare-energiegemeenschap, vermeld in paragraaf 1, derde lid.
+
+### ART 4.8.3.
+
+Iedere energiegemeenschap van burgers en hernieuwbare-energiegemeenschap brengt de VREG op de hoogte van de volgende elementen:<br>
+1° de activiteiten die ze uitoefent en elke wijziging in die activiteiten;<br>
+2° de wijze waarop ze is samengesteld en in voorkomend geval de wijze waarop ze invulling geeft aan het begrip technische of geografische nabijheid, vermeld in artikel 4.8.2, § 1, derde lid.<br>
+<br>
+De VREG maakt deze informatie bekend op zijn website.<br>
+<br>
+De Vlaamse Regering bepaalt de te volgen procedure van de meldingsplicht.
+
+### ART 4.8.4.
+
+§ 1. Iedere energiegemeenschap van burgers kan een of meer van de volgende activiteiten ondernemen:<br>
+1° energie produceren uit een installatie, rechtstreeks aangesloten of onrechtstreeks aangesloten via de aansluiting van vennoten of leden van de energiegemeenschap van burgers op een elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit, een gesloten distributienet van elektriciteit of een warmte- of koudenet, waarbij de energiegemeenschap van burgers de eigenaar is of de gebruiksrechten heeft van de productie-installatie;<br>
+2° het zelfverbruik van de energie, vermeld in punt 1° ;<br>
+3° energie opslaan;<br>
+4° energiediensten aanbieden of eraan deelnemen;<br>
+5° optreden als dienstverlener van flexibiliteit of deelnemer aan flexibiliteit of aggregatie;<br>
+6° de energie, vermeld in punt 1°, verkopen, ook met een stroomafnameovereenkomst;<br>
+7° oplaaddiensten voor elektrische voertuigen aanbieden;<br>
+8° energiedelen, tussen de vennoten of leden, van de energie, vermeld in punt 1°, overeenkomstig artikel 7.2.1, tweede lid.<br>
+<br>
+Iedere hernieuwbare-energiegemeenschap kan de activiteiten, vermeld in het eerste lid, uitoefenen als de energie, vermeld in het eerste lid, 1°, betrekking heeft op groene stroom uit een installatie rechtstreeks of onrechtstreeks aangesloten via de aansluiting van vennoten of leden van de hernieuwbare-energiegemeenschap op een elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit, een gesloten distributienet, of betrekking heeft op hernieuwbare thermische energie uit een installatie aangesloten via een warmte- of koudenet. De hernieuwbare-energiegemeenschap is steeds de eigenaar van de productie-installaties.<br>
+<br>
+Het beheer van de installaties die op het elektriciteitsdistributienet, plaatselijk vervoernet van elektriciteit, gesloten distributienet van elektriciteit, warmte- of koudenet zijn aangesloten, en die nodig zijn om de activiteiten, vermeld in paragraaf 1, eerste lid, uit te oefenen, kan door de energiegemeenschap van burgers of hernieuwbare-energiegemeenschap aan een derde gedelegeerd worden, ook wat betreft de installatie, de exploitatie, de verwerking van gegevens en het onderhoud waarbij de derde niet als energiegemeenschap van burgers of hernieuwbare-energiegemeenschap wordt beschouwd.<br>
+<br>
+Elke energiegemeenschap van burgers en elke hernieuwbare-energiegemeenschap zijn financieel verantwoordelijk voor de onbalansen die ze in het elektriciteitsnet veroorzaken voor zover zij als toegangshouder werden aangeduid op de toegangspunten van hun vennoten of leden. Ze dragen de evenwichtsverantwoordelijkheid van hun activiteiten of belasten een evenwichtsverantwoordelijke met die verantwoordelijkheid.<br>
+<br>
+§ 2. Als dat noodzakelijk is om de activiteiten, vermeld in paragraaf 1, eerste lid, 1° tot en met 3° en 5° tot en met 8°, uit te oefenen, beschikt de vennoot of het lid van de energiegemeenschap van burgers en van de hernieuwbare-energiegemeenschap over een meter die de afgenomen energie en de energie die in het distributienet wordt geïnjecteerd, afzonderlijk meet, en waarvan de meetwaarden minstens elke onbalansverrekeningsperiode geregistreerd en verwerkt worden bij de allocatie conform de technische reglementen.<br>
+<br>
+§ 3. Elke vennoot of elk lid van een energiegemeenschap van burgers en hernieuwbare-energiegemeenschap behoudt zijn rechten als afnemer, huishoudelijke afnemer of actieve afnemer en kan de energiegemeenschap van burgers of de hernieuwbare-energiegemeenschap verlaten. De voorwaarden, vermeld in artikel 4.4.1, tweede lid, zijn in dat geval van overeenkomstige toepassing.<br>
+<br>
+§ 4. De Vlaamse Regering neemt maatregelen om de ontwikkeling van hernieuwbare-energiegemeenschappen en energiegemeenschappen van burgers te bevorderen en te vergemakkelijken. In dat kader vraagt de Vlaamse Regering aan de VREG via een kosten-batenanalyse te onderzoeken in welke mate activiteiten van energiegemeenschappen en actieve afnemers in een gebouw als vermeld in artikel 7.2.1, § 1, tweede lid, 1°, kunnen bijdragen aan de ontlasting van het distributienet, inclusief de vermeden investeringen en kosten in het net, en de relevante vergoedingen en kortingen op nettarieven te onderzoeken die daarvoor desgevallend kunnen worden voorzien ten aanzien van de hernieuwbare-energiegemeenschappen, de energiegemeenschappen van burgers of de actieve afnemers in een gebouw als vermeld in artikel 7.2.1, § 1, tweede lid, 1°.<br>
+<br>
+De Vlaamse Regering kan met het doel innovatieve projecten te stimuleren binnen het kader van regelluwe zones voor energie, vermeld in titel XIV/1, aan energiegemeenschappen van burgers of aan hernieuwbare-energiegemeenschap-pen toestaan om distributienetten binnen hun dekkingsgebied te beheren, evenwel zonder dat dit in strijd is met de geldende regelgeving.
 
 ## [TITEL IV/1. DE ORGANISATIE VAN DE UITBATING VAN WARMTE- EN KOUDENETTEN IN HET VLAAMSE GEWEST (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
 
