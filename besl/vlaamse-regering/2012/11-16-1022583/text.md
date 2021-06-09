@@ -292,6 +292,16 @@ Alle aanpassingen aan dit besluit door de minister op basis van de   delegaties 
 
 ## [HOOFDSTUK 13/1. Terugbetaalbaar voorschot (ing. BVR 30 april 2021, art. 1, I: 9 juni 2021)]
 
+### ART 44/1.
+
+In dit artikel wordt verstaan onder terugbetaalbaar voorschot: het terugbetaalbaar voorschot, vermeld in artikel 2, 21, van de algemene groepsvrijstellingsverordening.<br>
+<br>
+De subsidie kan ook toegekend worden in de vorm van een terugbetaalbaar voorschot.<br>
+<br>
+Als de subsidie wordt toegekend in de vorm van een terugbetaalbaar voorschot, kunnen de maximale steunintensiteiten, vermeld in dit besluit, worden verhoogd conform de voorwaarden, vermeld in artikel 7, lid 5, van de voormelde verordening. De minister bepaalt die maximale verhoogde steunintensiteit.<br>
+<br>
+De subsidie wordt toegekend conform de voorwaarden, vermeld in dit besluit, met uitzondering van de voorwaarden over de procedure, de uitbetaling en de terugvordering. De minister bepaalt de voorwaarden voor de procedure, de uitbetaling, de terugvordering en de terugbetaling van het terugbetaalbaar voorschot.
+
 ## HOOFDSTUK 14. Slotbepalingen
 
 ### ART. 45.
