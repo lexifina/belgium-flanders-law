@@ -35,13 +35,16 @@ In dit besluit wordt verstaan onder:<br>
 14° O&amp;O-project: een project van industrieel onderzoek, van experimentele ontwikkeling of van beide als vermeld in punt 15, cc), van de kaderregeling;<br>
 15° samenwerkingsverband: een combinatie van twee deelprojecten met elk een eigen werkplan, eigen projectdoelstellingen en een eigen budget, die concreet bestaan uit enerzijds een project, uitgevoerd door ondernemingen en gefinancierd als staatssteun, en anderzijds een project, gefinancierd als niet-economische activiteiten, uitgevoerd door een of meer onderzoeksorganisaties conform de kaderregeling, waarbij de activiteiten uit de deelprojecten worden uitgevoerd in een goede onderlinge interactie en het geheel van de activiteiten uit beide deelprojecten gericht is op een gemeenschappelijk doel;<br>
 16° steun: de steun, vermeld in artikel 41ter, § 2, van het decreet van 21 december 2001;<br>
-17° steunpercentage: het brutosteunbedrag, uitgedrukt als percentage van de in aanmerking komende kosten van het project. Als de steun in een andere vorm dan een subsidie wordt verleend, is het steunbedrag het brutosubsidie-equivalent van de steun.
+17° steunpercentage: het brutosteunbedrag, uitgedrukt als percentage van de in aanmerking komende kosten van het project. Als de steun in een andere vorm dan een subsidie wordt verleend, is het steunbedrag het brutosubsidie-equivalent van de steun.<br>
+18° terugbetaalbaar voorschot: het terugbetaalbaar voorschot, vermeld in artikel 2, 21, van de algemene groepsvrijstellingsverordening.
 
 ### ART 2.
 
 Alle steun die toegekend wordt met toepassing van dit besluit en de uitvoeringsbesluiten ervan, wordt verleend binnen de grenzen en de voorwaarden, vermeld in de algemene groepsvrijstellingsverordening. Als de individuele aanmeldingsdrempels, vermeld in artikel 4 van de voormelde verordening, overschreden worden, zal de voorgenomen steun voorafgaandelijk worden aangemeld bij de Europese Commissie.<br>
 <br>
-In afwijking van het eerste lid kan steun worden toegekend binnen de grenzen en de voorwaarden, vermeld in artikel 107 van het Verdrag betreffende de Werking van de Europese Unie, dan wel binnen de grenzen en de voorwaarden, vermeld in de kaderregeling, op voorwaarde dat de steun wordt aangemeld bij de Europese Commissie.
+In afwijking van het eerste lid kan steun worden toegekend binnen de grenzen en de voorwaarden, vermeld in artikel 107 van het Verdrag betreffende de Werking van de Europese Unie, dan wel binnen de grenzen en de voorwaarden, vermeld in de kaderregeling, op voorwaarde dat de steun wordt aangemeld bij de Europese Commissie.<br>
+<br>
+Eveneens in afwijking van het eerste lid kan steun worden toegekend met toepassing van dit besluit en de uitvoeringsbesluiten ervan, binnen de grenzen en de voorwaarden, vermeld in artikel 346 van het Verdrag betreffende de Werking van de Europese Unie. De steuntoekenning gebeurt zonder afbreuk te doen aan de bevoegdheid van de federale overheid inzake de bescherming van de openbare veiligheid. De federale overheid zal geïnformeerd worden inzake de steuntoekenning overeenkomstig dit artikel.
 
 ### ART 3.
 
@@ -81,11 +84,20 @@ Als de Vlaamse Regering beslist een initiatief te lanceren waarbij steun toegeke
 
 ### ART 6.
 
-Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan met toepassing van dit besluit steun toekennen aan ondernemingen voor O&amp;O-projecten of haalbaarheidsstudies als vermeld in artikel 25 van de algemene groepsvrijstellingsverordening. De steunintensiteit per begunstigde bedraagt maximaal de steunpercentages, vermeld in artikel 25 van de voormelde verordening.<br>
+§1. Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan met toepassing van dit besluit steun toekennen aan ondernemingen voor O&amp;O-projecten of haalbaarheidsstudies als vermeld in artikel 25 van de algemene groepsvrijstellingsverordening. De steunintensiteit per begunstigde bedraagt maximaal de steunpercentages, vermeld in artikel 25 van de voormelde verordening.<br>
 <br>
 Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan de kosten voor de O&amp;O-projecten en de haalbaarheidsstudies, vermeld in artikel 25, lid 3 en 4, van de voormelde verordening, in aanmerking nemen.<br>
 <br>
-Het gesteunde deel van het project kan ook haalbaarheidsstudies ter voorbereiding van O&amp;O-activiteiten omvatten. Als een project verschillende soorten opdrachten omvat, wordt elke opdracht in een van de volgende categorieën ingedeeld: industrieel onderzoek, experimentele ontwikkeling of haalbaarheidsstudie.
+Het gesteunde deel van het project kan ook haalbaarheidsstudies ter voorbereiding van O&amp;O-activiteiten omvatten. Als een project verschillende soorten opdrachten omvat, wordt elke opdracht in een van de volgende categorieën ingedeeld: industrieel onderzoek, experimentele ontwikkeling of haalbaarheidsstudie.<br>
+<br>
+§ 2. Als de steun wordt toegekend in de vorm van een terugbetaalbaar voorschot, kunnen de maximale steunintensiteiten, vermeld in dit artikel, conform de voorwaarden, vermeld in artikel 7, lid 5, van de algemene groepsvrijstellingsverordening, worden verhoogd.<br>
+<br>
+De volgende modaliteiten voor de terugbetaalbare voorschotten worden nageleefd :<br>
+a) in het geval van een succesvolle uitkomst wordt het voorschot terugbetaald, vermeerderd met een rente die ten minste gelijk is aan de Europese referentierente;<br>
+b) in het geval van een succes dat verder gaat dan hetgeen als succesvol werd omschreven, wordt het voorschot terugbetaald, vermeerderd met een rente die hoger is dan de Europese referentierente;<br>
+c) ingeval het project mislukt, hoeft het voorschot niet volledig te worden terugbetaald. Bij gedeeltelijk succes dient de terugbetaling evenredig te zijn aan de bereikte mate van succes.<br>
+<br>
+Als de steun wordt verleend in de vorm van een terugbetaalbaar voorschot, bevat de overeenkomst, vermeld in artikel 31, de gedetailleerde modaliteiten van de terugbetaling in geval van welslagen van het project. De definitie van het welslagen van het project, bepaald op basis van een voorzichtige en redelijke veronderstelling, impliceert een identificatie van de technische en commerciële doelstellingen van het project, nog voor de toekenning van de steun.
 
 ## [Afdeling 2. Starterssteun (ing. BVR 14 december 2018, art. 23, I: 1 januari 2019)]
 
@@ -210,7 +222,7 @@ Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen toetst de ontv
 
 ### ART 23.
 
-Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen stelt een of meer externe deskundigen aan bij wie een advies ingewonnen wordt conform de beoordelingsdimensies, vermeld in artikel 25, en, in voorkomend geval, de elementen, vermeld in artikel 28.<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen&nbsp;kan een of meer deskundigen aanstellen&nbsp;bij wie een advies ingewonnen wordt conform de beoordelingsdimensies, vermeld in artikel 25, en, in voorkomend geval, de elementen, vermeld in artikel 28.<br>
 <br>
 De identiteit van de aanvrager wordt bekendgemaakt aan de externe deskundigen, tenzij de aanvrager uitdrukkelijk aangeeft dat hij wil dat de anonimiteit in acht genomen wordt ten aanzien van externe deskundigen. De aanvrager kan om redenen van vertrouwelijkheid het beslissingscomité bij het Fonds voor Innoveren en Ondernemen ook verzoeken om sommige elementen van de aanvraag niet voor te leggen aan de deskundigen.
 
@@ -332,7 +344,7 @@ Als de voorwaarden, vermeld in het decreet van 21 december 2001, de voorwaarden,
 
 ### ART 35.
 
-Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen vordert de steun terug binnen tien jaar na de ontvangst van de steunaanvraag, met behoud van de toepassing van de bepalingen in de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, hoofdstuk 8 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 en de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaringen te doen in verband met subsidies, vergoedingen en toelagen van elke aard, die geheel of gedeeltelijk ten laste zijn van de Staat als:<br>
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen vordert de steun terug, met behoud van de toepassing van de bepalingen in de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, hoofdstuk 8 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 en de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaringen te doen in verband met subsidies, vergoedingen en toelagen van elke aard, die geheel of gedeeltelijk ten laste zijn van de Staat als:<br>
 1° de voorwaarden, vermeld in artikel 41ter, § 2, van het decreet van 21 december 2001, de voorwaarden, vermeld in dit besluit, de voorwaarden, vermeld in de steunbeslissing of in de steunovereenkomst, vermeld in artikel 31 van dit besluit, gedurende de duur van de steunovereenkomst niet worden nageleefd;<br>
 2° de wettelijke informatie- en raadplegingsprocedures bij collectief ontslag binnen vijf jaar na de beëindiging van het project niet worden nageleefd;<br>
 3° de subsidiebegunstigde nalaat gefactureerde en opeisbare financiële verplichtingen ten aanzien van een onderzoeksorganisatie te voldoen.<br>
@@ -349,6 +361,7 @@ De steunaanvragers of de begunstigden van steun kunnen beroep aantekenen bij het
 3° de beslissing tot weigering van de toekenning van de steun;<br>
 4° de beslissing tot ingebrekestelling;<br>
 5° de beslissing tot herziening van de steun;<br>
+5° /1 de beslissing tot niet-aanvaarding van de melding door de begunstigde van niet-terugbetaling van de steun die wordt toegekend als terugbetaalbare voorschotten;<br>
 6° de beslissing tot terugvordering van steun.<br>
 <br>
 Het georganiseerd beroep is niet mogelijk als het beslissingscomité bij het Fonds voor Innoveren en Ondernemen beslist tot ingebrekestelling, herziening of terugvordering van de steun op grond van feiten die direct eenvoudig vastgesteld kunnen worden. Het betreft het niet-tijdig indienen van de verslaggeving of het niet-tijdig storten van de betalingen aan een onderzoeksorganisatie, vermeld in artikelen 28 en 33.
