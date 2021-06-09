@@ -2,16 +2,16 @@
   "codex_id": 1033804,
   "title": "Ministerieel besluit van 2020-11-09 tot vaststelling van de fase van de coronaviruspandemie in het woonbeleid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033804/VolledigDocument?datum=2020-11-12",
-  "source_sha256": "0708a267d7ac7d2fd884b967d83b89e4aa3d115c466fee12fa0310f61c1b1b8d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033804/VolledigDocument?datum=2021-06-09",
+  "source_sha256": "087632dde63583fbbceb85d92de7bcbcd91203b6c661961da650296538c17363",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033804&param=informatie",
-  "as_of": "2020-11-12",
+  "as_of": "2021-06-09",
   "made": "2020-11-09",
   "gazette": "2020-11-12",
   "numac": 2020016004,
   "document_start": "2020-11-12",
   "document_end": "2021-06-08",
-  "in_force": "2020-11-12",
+  "in_force": "2021-06-09",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2020-11-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-06-09; future article versions excluded; article text as the API gives it"
 }
