@@ -253,7 +253,7 @@ Conform artikel 16, eerste lid, wordt een in een andere lidstaat gevestigde dien
 <br>
 Als de betrokken beroepstitel in de lidstaat van vestiging niet bestaat, vermeldt de dienstverrichter zijn opleidingstitel in de officiële taal of in een van de officiële talen van die lidstaat.<br>
 <br>
-§ 5. In geval van gereglementeerde beroepen met implicaties voor de volksgezondheid of de openbare veiligheid kan de bevoegde Vlaamse autoriteit vóór de eerste dienstverrichting de beroepskwalificaties van de dienstverrichter controleren.<br>
+§ 5. In geval van gereglementeerde beroepen met implicaties voor de volksgezondheid of de openbare veiligheid&nbsp;waarop de automatische erkenning op basis van artikel 26, 27, 28, 29, 30, 31, 32, 33 en 34 niet van toepassing is, kan de bevoegde Vlaamse autoriteit vóór de eerste dienstverrichting de beroepskwalificaties van de dienstverrichter controleren.<br>
 <br>
 Een controle vooraf als vermeld in het eerste lid, is alleen mogelijk als de controle bedoeld is om ernstige schade voor de gezondheid of de veiligheid van de afnemer van de dienstverrichting ingevolge een ontoereikende beroepskwalificatie van de dienstverrichter te voorkomen en als de controle niet meer omvat dan voor dat doel noodzakelijk is.<br>
 <br>
@@ -364,7 +364,7 @@ In afwijking van het beginsel, vermeld in paragraaf 2, op grond waarvan de aanvr
 <br>
 Als de houder van een beroepskwalificatie als vermeld in artikel 22, 1°, een verzoek tot erkenning van zijn beroepskwalificaties indient, terwijl de in het Vlaamse Gewest benodigde beroepskwalificatie een beroepskwalificatie is als vermeld in artikel 22, 4°, kan de bevoegde Vlaamse autoriteit zowel een aanpassingsstage als een proeve van bekwaamheid voorschrijven.<br>
 <br>
-§ 4. In dit artikel wordt verstaan onder vakgebieden die wezenlijk verschillen: de vakgebieden waarvan de kennis en de vaardigheden en competenties van essentieel belang zijn voor de uitoefening van het beroep en waarvoor de door de aanvrager ontvangen opleiding qua duur of inhoud wezenlijk afwijkt van de opleiding die in het Vlaamse Gewest vereist is.<br>
+§ 4. In dit artikel wordt verstaan onder vakgebieden die wezenlijk verschillen: de vakgebieden waarvan de kennis en de vaardigheden en competenties van essentieel belang zijn voor de uitoefening van het beroep en waarvoor de door de aanvrager ontvangen opleiding qua inhoud wezenlijk afwijkt van de opleiding die in het Vlaamse Gewest vereist is.<br>
 <br>
 § 5. Paragraaf 1 wordt toegepast met inachtneming van het evenredigheidsbeginsel.<br>
 <br>
