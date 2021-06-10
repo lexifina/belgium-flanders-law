@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK 1. Inleidende bepaling
 
+### ART 1.
+
+Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
+
 ## HOOFDSTUK 2. Wijzigingen van het decreet van 24 februari 2017 tot gedeeltelijke omzetting van richtlijn 2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties
 
 ### ART 2.
@@ -15,6 +19,14 @@ Aan artikel 3, § 1, van hetzelfde decreet worden een punt 22° tot en met 25° 
 23° voorbehouden activiteiten: een vorm van reglementering van een beroep waarbij de toegang tot een beroepsactiviteit of een geheel van beroepsactiviteiten op grond van wettelijke of bestuursrechtelijke bepalingen direct of indirect voorbehouden is aan de beoefenaars van een gereglementeerd beroep die een specifieke beroepskwalificatie bezitten, ook als de activiteit wordt gedeeld met andere gereglementeerde beroepen;<br>
 24° bepalingen voor de reglementering van een beroep: elke wettelijke of bestuursrechtelijke bepaling die de toegang tot of de uitoefening, dan wel een van de wijzen van uitoefening, van een gereglementeerd beroep beperkt, met inbegrip van het voeren van beroepstitels en de beroepsactiviteiten die een dergelijke titel toelaten, en die binnen het toepassingsgebied valt van dit decreet en van de regelgeving onder het toepassingsgebied van de richtlijn;<br>
 25° Vlaamse instantie: de Vlaamse overheid, vermeld in artikel I.3, 1°, van het Bestuursdecreet van 7 december 2018, of elke andere instantie die bevoegd is om krachtens de wetgeving of de reglementering bepalingen voor de reglementering van een beroep aan te nemen in het Vlaamse Gewest.".
+
+### ART 4.
+
+In artikel 18, § 5, eerste lid, van hetzelfde decreet wordt tussen de woorden "openbare veiligheid" en de woorden "kan de bevoegde Vlaamse autoriteit" de zinsnede "waarop de automatische erkenning op basis van artikel 26, 27, 28, 29, 30, 31, 32, 33 en 34 niet van toepassing is," ingevoegd.
+
+### ART 5.
+
+In artikel 25, § 4, van hetzelfde decreet worden de woorden "duur of" opgeheven.
 
 ### ART 6.
 
@@ -197,3 +209,7 @@ In hetzelfde decreet, gewijzigd bij het decreet van 8 juni 2018, wordt in afdeli
 In hetzelfde decreet, gewijzigd bij het decreet van 8 juni 2018, wordt in dezelfde afdeling 5 een artikel 40/10 ingevoegd, dat luidt als volgt:<br>
 <br>
 "Art. 40/10. De Vlaamse Regering deelt aan de Europese Commissie mee welke diensten de informatie, vermeld in artikel 40/9, ontvangen en bezorgen.".
+
+### ART 25.
+
+Artikel 2, 3 en 6 tot en met 24 hebben uitwerking met ingang van 30 juli 2020.
