@@ -2931,7 +2931,9 @@ Het basisbudget dekt de kosten van de bestanddelen, vermeld in bijlage 3, die bi
 
 Het basisbudget voor het dienstjaar dat op 1 januari 2019 begint bestaat uit het budget van financiële middelen, dat is vastgesteld conform het koninklijk besluit van 25 april 2002, zoals van kracht op 31 december 2018, en toegekend op 1 juli 2018, als het de kosten dekt, vermeld in artikel 241 van dit besluit.<br>
 <br>
-Het basisbudget voor het dienstjaar dat op 1 januari 2020 begint, en voor elk van de daarop volgende dienstjaren bestaat uit het basisbudget voor het dienstjaar dat begint op 1 januari 2019, zoals geïndexeerd conform artikel 258.<br>
+Het basisbudget voor het dienstjaar dat op 1 januari 2020 begint, en voor elk van de daarop volgende dienstjaren bestaat uit het basisbudget voor het dienstjaar dat begint op 1 januari 2019,&nbsp;aangevuld met de structurele integratie van de correcties die berekend zijn conform artikel 255, zoals geïndexeerd conform artikel 258.<br>
+<br>
+Het basisbudget, vermeld in het tweede lid, wordt aangevuld met het budget dat tot en met 30 juni 2018 betaald is door de Rijksdienst voor Sociale Zekerheid als premie van het Interdepartementaal Begrotingsfonds ter bevordering van de werkgelegenheid. Het budget wordt geïndexeerd conform artikel 258.<br>
 <br>
 Het basisbudget dat berekend is met toepassing van het tweede lid, wordt vanaf 1 januari 2020 verminderd met 1,3%.
 
@@ -2943,7 +2945,8 @@ Het basisbudget dat berekend is met toepassing van het tweede lid, wordt vanaf 1
 
 Het voorwaardelijke budget bestaat uit de volgende onderdelen:<br>
 1° het bedrag om de kwaliteitsbewaking te bevorderen;<br>
-2° het bedrag om de implementatie van het elektronisch patiëntendossier te bevorderen.
+2° het bedrag om de implementatie van het elektronisch patiëntendossier te bevorderen;<br>
+3° het provisioneel bedrag ter compensatie van de bijkomende kosten voor ziekenvervoer om de COVID-19-pandemie te beheersen.
 
 ## Afdeling 2. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
@@ -3042,6 +3045,10 @@ De voorwaarden, vermeld in paragraaf 2 tot en met 6, zijn gebaseerd op een punte
 § 6. Om voor het dienstjaar 2023 voor de financiering, vermeld paragraaf 1, eerste lid, 2°, in aanmerking te komen, moet het revalidatieziekenhuis achtentwintig punten hebben behaald op 31 juli 2022. Het revalidatieziekenhuis meldt, via een verklaring op erewoord, uiterlijk op 31 augustus 2022, hoeveel punten het heeft behaald.
 
 ## Afdeling 4. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
+
+### ART 249/1.
+
+In het BRZ wordt voor het dienstjaar 2021 een provisioneel bedrag van 600 euro per volledige schijf van vijftien erkende bedden toegekend ter compensatie van de bijkomende kosten voor ziekenvervoer in het kader van de COVID-19-pandemie. De minister bepaalt de nadere voorwaarden in een overeenkomst met de revalidatieziekenhuizen.
 
 ## HOOFDSTUK 4. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
@@ -3183,15 +3190,15 @@ Voor de dienstjaren 2014, 2015 en 2016, waarvoor het bedrag ter compensatie van 
 
 ### ART 252/1.
 
-Om de loonsverhoging ter uitvoering van punt 2.1.1. van het Vijfde Vlaams Intersectoraal akkoord van 8 juni 2018 voor de social/non-profitsectoren voor de periode 2018-2020, te financieren, wordt in het jaarlijks herrekende budget van de private revalidatieziekenhuizen in een budget voorzien.<br>
+Om de loonsverhoging ter uitvoering van punt 2.1.1. van het Vijfde Vlaams Intersectoraal akkoord van 8 juni 2018 voor de social/non-profitsectoren voor de periode 2018-2021, te financieren, wordt in het jaarlijks herrekende budget van de private revalidatieziekenhuizen in een budget voorzien.<br>
 <br>
 Voor het dienstjaar 2019 bedraagt het budget, vermeld in het eerste lid, 199.728 euro.<br>
 <br>
-Voor het dienstjaar 2020 bedraagt het budget, vermeld in het eerste lid, 1.003.426 euro. Dit bedrag van 1.003.426 euro wordt enerzijds verhoogd met een factor die de stijging van de loonkost tot 2020 uitdrukt op basis van de evolutie van de index, van de anciënniteit en van het aantal vte. Datzelfde bedrag wordt anderzijds verminderd met de voorafname zoals bepaald in punt 1.1.1 van het Vijfde Vlaams Intersectoraal akkoord van 8 juni 2018 in het kader van de versterking van de tweede pensioenpijler.<br>
+Voor de dienstjaren 2020 en 2021 bedraagt het budget, vermeld in het eerste lid, 1.003.426 euro. Dit bedrag van 1.003.426 euro wordt enerzijds verhoogd met een factor die de stijging van de loonkost tot 2020, respectievelijk tot 2021 uitdrukt op basis van de evolutie van de index, van de anciënniteit en van het aantal vte. Datzelfde bedrag wordt anderzijds verminderd met de voorafname zoals bepaald in punt 1.1.1 van het Vijfde Vlaams Intersectoraal akkoord van 8 juni 2018 in het kader van de versterking van de tweede pensioenpijler.<br>
 <br>
 Het budget, vermeld in het tweede en derde lid, wordt provisioneel verdeeld over de private revalidatieziekenhuizen, rekening houdend met het aantal voltijdse equivalente personeelsleden per revalidatieziekenhuis dat conform artikel 252 in aanmerking komt voor de berekening van het complement van de attractiviteitspremie.<br>
 <br>
-De definitieve verdeling van het budget, vermeld in het tweede en derde lid, per revalidatieziekenhuis, wordt bepaald op basis van de berekening die de vzw IFIC in oktober 2019, maart 2020 en maart 2021 aan het agentschap meedeelt, ermee rekening houdend dat het budget, vermeld in het tweede en derde lid, niet mag worden overschreden. Hiertoe wordt conform artikel 255, § 3, voorzien in een corrigerend bedrag voor de dienstjaren 2020 en 2021.
+De definitieve verdeling van het budget, vermeld in het tweede en derde lid, per revalidatieziekenhuis, wordt bepaald op basis van de berekening die de vzw IFIC in oktober 2019, maart 2020 , maart 2021 en maart 2022 aan het agentschap meedeelt, ermee rekening houdend dat het budget, vermeld in het tweede en derde lid, niet mag worden overschreden. Hiertoe wordt conform artikel 255, § 3, voorzien in een corrigerend bedrag voor de dienstjaren 2020 , 2021 en 2022.
 
 ## Afdeling 5. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
@@ -3204,7 +3211,8 @@ Het corrigerende budget bestaat uit de volgende onderdelen:<br>
 2° de inhaalbedragen voor een tekort of een teveel aan ontvangsten ten opzichte van het budget voor het lopende dienstjaar of het budget dat vastgesteld is voor een of meer van de vorige dienstjaren, namelijk:<br>
 a) de bedragen, vastgesteld conform artikel 255;<br>
 b) de bedragen, vastgesteld conform artikel 256;<br>
-3° de bedragen in geval van sluiting of opening van ziekenhuisbedden, vastgesteld conform artikel 257.
+3° de bedragen in geval van sluiting of opening van ziekenhuisbedden, vastgesteld conform artikel 257;<br>
+4° de bedragen voor de afrekening van de provisionele bedragen die conform artikel 257/1 zijn vastgesteld.
 
 ### ART 254.
 
@@ -3220,7 +3228,7 @@ Het bedrag, vermeld in het eerste lid, is het verschil tussen het definitieve en
 <br>
 Het bedrag, vermeld in het eerste lid, is het verschil tussen het bedrag dat inbegrepen is in het budget van financiële middelen voor de jaren, vermeld in het eerste lid, en het bedrag dat voor die jaren wordt berekend conform artikel 79bis van het koninklijk besluit van 25 april 2002, zoals van kracht op 31 december 2018, en op basis van de verstrekte inlichtingen voor dat jaar.<br>
 <br>
-§ 3. Om de loonsverhoging door de functieclassificatie, vermeld in artikel 252/1, te financieren voor de dienstjaren 2019 en 2020, wordt een corrigerend bedrag vastgesteld in respectievelijk het corrigerende budget voor het dienstjaren 2020 en 2021.<br>
+§ 3. Om de loonsverhoging door de functieclassificatie, vermeld in artikel 252/1, te financieren voor de dienstjaren 2019, 2020 en 2021, wordt een corrigerend bedrag vastgesteld in respectievelijk het corrigerende budget voor het dienstjaren 2020 en 2021.<br>
 <br>
 Het bedrag, vermeld in het eerste lid, is het verschil tussen het provisionele bedrag dat het revalidatieziekenhuis conform artikel 252/1, vierde lid, ontvangt en het bedrag dat de vzw IFIC voor dat revalidatieziekenhuis conform artikel 252/1, vijfde lid, meedeelt.
 
@@ -3236,6 +3244,12 @@ In geval van een vermeerdering van het aantal erkende ziekenhuisbedden in een re
 1° door de vermindering van het aantal ziekenhuisbedden in een ander revalidatieziekenhuis wordt het basisbudget vermeerderd met het bedrag waarmee het basisbudget van het andere revalidatieziekenhuis is verminderd;<br>
 2° door de vermindering van het aantal ziekenhuisbedden in een ziekenhuis, die voortvloeit uit een samenwerkingsakkoord gesloten tussen de Vlaamse Gemeenschap en de federale overheid conform artikel 47/9, § 5, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten, wordt het basisbudget vermeerderd met een bedrag dat wordt bepaald door de Vlaamse Regering;<br>
 3° wordt in alle andere gevallen, dan de gevallen, vermeld in punt 1° en 2°, 80 % van het basisbudget proportioneel vermeerderd in verhouding tot de vermeerdering van de bedcapaciteit.
+
+### ART 257/1.
+
+Er wordt een bedrag ter beschikking gesteld in het corrigerende budget voor de afrekening van provisioneel toegekende bedragen.<br>
+<br>
+Voor het dienstjaar 2022 wordt een bedrag ter beschikking gesteld dat berekend wordt als het verschil tussen het provisioneel toegekende bedrag, vermeld in artikel 249/1, en de werkelijke kosten van het ziekenvervoer om de COVID-19 pandemie te beheersen. De minister bepaalt de manier waarop het revalidatieziekenhuis de werkelijke kosten moet staven in de overeenkomst, vermeld in artikel 249/1. Indien de werkelijke kosten minder bedragen dan het ter beschikking gestelde bedrag, kan het verschil teruggevorderd worden
 
 ## HOOFDSTUK 6. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
