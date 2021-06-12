@@ -18,7 +18,19 @@ Een   huisartsenkring is een vereniging die alle vrijwillig toegetreden   prakti
 
 ### ART. 3.
 
-<P>De   Vlaamse minister, bevoegd voor het gezondheidsbeleid, bepaalt welke gemeente(n)   een huisartsenzone vormen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Huisartsenkringen   kunnen in onderling overleg voorstellen om de huisartsenzone te wijzigen door   een of meer gemeenten, of een of meer delen van een gemeente in de grote   agglomeraties van Antwerpen en Gent, toe te wijzen aan een andere   huisartsenkring. In dat geval moeten die aanvragen uiterlijk op 31 juli bezorgd   worden aan het Agentschap Zorg en Gezondheid. De Vlaamse minister, bevoegd voor   het gezondheidsbeleid, beslist over de aanvragen. Na goedkeuring gaan de   wijzigingen of aanpassingen in op 1 januari van het jaar dat volgt op de   aanvraag.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De Vlaamse minister, bevoegd voor het gezondheidsbeleid, bepaalt welke gemeente(n) een huisartsenzone vormen.</p>
+
+<p>Huisartsenkringen kunnen in onderling overleg voorstellen om de huisartsenzone te wijzigen door een of meer gemeenten, of een of meer delen van een gemeente in de grote agglomeraties van Antwerpen en Gent, toe te wijzen aan een andere huisartsenkring. In dat geval moeten die aanvragen uiterlijk op 31 juli bezorgd worden aan het Agentschap Zorg en Gezondheid. De Vlaamse minister, bevoegd voor het gezondheidsbeleid, beslist over de aanvragen. Na goedkeuring gaan de wijzigingen of aanpassingen in op 1 januari van het jaar dat volgt op de aanvraag.<br>
+<br>
+Het aantal huisartsenzones in een eerstelijnszone kan niet meer bedragen dan het aantal huisartsenzones in diezelfde eerstelijnszone op 1 januari 2021.<br>
+<br>
+Bij elk voorstel tot wijziging van een huisartsenzone conform het tweede lid, waarbij de grenzen van een eerstelijnszone worden overschreden, winnen de huisartsenkringen in kwestie voorafgaand aan de aanvraag tot wijziging van de huisartsenzone het advies in van de zorgraden van de eerstelijnszones in kwestie.<br>
+<br>
+Het advies, vermeld in het vierde lid, heeft betrekking op de impact van het voorstel tot wijziging van de huisartsenzone op de continuïteit, de kwaliteit en de toegankelijkheid van de zorg. Het advies wordt door de zorgraden uitgebracht binnen zestig dagen na de dag waarop de zorgraden in kwestie de adviesaanvraag, vermeld in het vierde lid, hebben ontvangen.<br>
+<br>
+Het advies, vermeld in het vierde lid, wordt bij de aanvraag tot wijziging van de huisartsenzone gevoegd, tenzij binnen de termijn, vermeld in het vijfde lid, geen advies door de zorgraden is uitgebracht.<br>
+<br>
+In het vierde tot en met het zesde lid wordt verstaan onder zorgraad : een zorgraad als vermeld in artikel 9 van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders.</p>
 
 ## HOOFDSTUK 3 Erkenning
 
@@ -44,7 +56,14 @@ Een   huisartsenkring is verplicht om elke huisarts, die wenst toe te treden tot
 
 ### ART. 8.
 
-&nbsp;Een huisartsenkring treedt op als   vertegenwoordiger van de huisartsen van de huisartsenzone en is het lokale   aanspreekpunt voor de huisartsen en voor het lokale beleid bij de implementatie   van het lokale gezondheidsbeleid. Daarvoor :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   neemt een huisartsenkring initiatieven voor de bekendmaking van de   eerstelijnsgezondheidszorg in het algemeen en van de huisartsenwerking in het   bijzonder;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   neemt een huisartsenkring initiatieven voor de optimalisatie van de   multidisciplinaire samenwerking tussen de eerstelijnszorgverstrekkers;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   sluit een huisartsenkring samenwerkingsovereenkomsten af met ziekenhuizen om de   continuïteit van de patiëntenzorg te waarborgen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   optimaliseert een huisartsenkring de toegankelijkheid van de huisartsgeneeskunde   voor alle patiënten van de huisartsenzone;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   stimuleert en optimaliseert een huisartsenkring gegevensuitwisseling die   noodzakelijk is om de continuïteit en de kwaliteit van de zorgverlening te   verzekeren tussen de huisartsen onderling en tussen de huisartsen en   organisaties, diensten en personen met een meer gespecialiseerd   zorgaanbod;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   organiseert een huisartsenkring de huisartspraktijkpermanentie : de   huisartsgeneeskunde is beschikbaar voor de patiënten van één of meer   praktijken.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+&nbsp;Een huisartsenkring treedt op als vertegenwoordiger van de huisartsen van de huisartsenzone en is het lokale aanspreekpunt voor de huisartsen en voor het lokale beleid bij de implementatie van het lokale gezondheidsbeleid. Daarvoor :<br>
+1° neemt een huisartsenkring initiatieven voor de bekendmaking van de eerstelijnsgezondheidszorg in het algemeen en van de huisartsenwerking in het bijzonder;<br>
+2° neemt een huisartsenkring initiatieven voor de optimalisatie van de multidisciplinaire samenwerking tussen de eerstelijnszorgverstrekkers;<br>
+3° sluit een huisartsenkring samenwerkingsovereenkomsten af met ziekenhuizen om de continuïteit van de patiëntenzorg te waarborgen;<br>
+4° optimaliseert een huisartsenkring de toegankelijkheid van de huisartsgeneeskunde voor alle patiënten van de huisartsenzone;<br>
+5° stimuleert en optimaliseert een huisartsenkring gegevensuitwisseling die noodzakelijk is om de continuïteit en de kwaliteit van de zorgverlening te verzekeren tussen de huisartsen onderling en tussen de huisartsen en organisaties, diensten en personen met een meer gespecialiseerd zorgaanbod;<br>
+6° organiseert een huisartsenkring de huisartspraktijkpermanentie : de huisartsgeneeskunde is beschikbaar voor de patiënten van één of meer praktijken;<br>
+7° werkt een huisartsenkring mee aan de organisatie binnen de eerstelijnszones van de profylaxe tegen besmettelijke aandoeningen, zowel binnen de reguliere zorg als in het kader van een pandemie die afgekondigd is door de Wereldgezondheidsorganisatie.
 
 ## Onderafdeling 2 Voorwaarden om erkend te blijven
 
@@ -96,13 +115,25 @@ Als een huisartsenkring voor de gehele bevolking van de huisartsenzone een syste
 
 Bij ontstentenis van een systeem van centraal oproepnummer kan een huisartsenkring aanspraak maken op een aanvullende forfaitaire financiering van 0,1334 euro per inwoner van een gemeente binnen de huisartsenzone in kwestie waarvan de bevolkingsdensiteit onder de 125 inwoners per km<sup>2</sup>&nbsp;ligt.
 
+### ART 18/1.
+
+Aan de erkende huisartsenkring die actief is in het tweetalige gebied Brussel-Hoofdstad wordt een aanvullende subsidie van 200.000 euro toegekend ter versterking van de huisartsen die lid zijn van een huisartsenkring, die hun huisartsenactiviteit uitoefenen en die in het tweetalige gebied Brussel-Hoofdstad gevestigd zijn. Die aanvullende subsidie dient om de toegankelijkheid tot de huisartsengeneeskunde voor de Nederlandstalige persoon met een zorg- en ondersteuningsvraag te verbeteren.<br>
+<br>
+Om de subsidie, vermeld in het eerste lid, te krijgen stelt de huisartsenkring een beleidsplan op met operationele doelstellingen dat ter goedkeuring wordt voorgelegd aan het agentschap. Die operationele doelstellingen worden uitgewerkt in een jaarlijks actieplan dat wordt bezorgd aan het agentschap uiterlijk zestig dagen voor de eerste dag van een nieuw werkingsjaar.<br>
+<br>
+De Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, kan de nadere vorm en inhoud van het beleidsplan en actieplan bepalen.
+
+### ART 18/2.
+
+De Vlaamse Regering kan een bijkomende subsidie toekennen aan de huisartsenkringen voor het uitvoeren van de opdracht, vermeld in artikel 8, 7°, in het kader van een pandemie die door de Wereldgezondheidsorganisatie werd afgekondigd voor een specifieke besmettelijke aandoening.
+
 ### ART. 19.
 
 Vanaf het werkingsjaar 2021 worden alle subsidiebedragen, vermeld in dit besluit, jaarlijks aangepast op grond van de evolutie, tussen 30 juni van het voorlaatste jaar en 30 juni van het vorige jaar, van de waarde van de gezondheidsindex, vermeld in artikel 1 van het koninklijk besluit van 8 december 1997 tot bepaling van de toepassingsmodaliteiten voor de indexering van de prestaties in de regeling van de verplichte verzekering voor geneeskundige verzorging.
 
 ### ART. 20.
 
-Het   volledige bedrag van de toegekende subsidie wordt één keer per jaar aan iedere   huisartsenkring uitbetaald.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+De subsidie wordt uitbetaald in een voorschot van 90% en een saldo van 10%. Het voorschot wordt uitbetaald voor het einde van de maand mei van het werkingsjaar. Het saldo wordt uitbetaald voor het einde van de maand september in het jaar dat volgt op het subsidiejaar in kwestie en na de indiening en goedkeuring van de financiële verantwoording van het werkingsjaar in kwestie.
 
 ### ART. 21.
 
