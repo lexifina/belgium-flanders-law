@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035617,
+  "title": "Besluit van de Vlaamse Regering van 2021-01-29 tot erkenning van de beroepskwalificatie supported employment coach",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035617/VolledigDocument?datum=2021-06-13",
+  "source_sha256": "333cbaaacd680c12695215911d22e270ab815d202d2618d577bc60b71cf4d977",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035617&param=informatie",
+  "as_of": "2021-06-13",
+  "made": "2021-01-29",
+  "gazette": "2021-06-03",
+  "numac": 2021041579,
+  "document_start": "2021-06-13",
+  "document_end": null,
+  "in_force": "2021-06-13",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-06-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
