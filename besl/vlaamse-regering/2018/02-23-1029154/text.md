@@ -35,16 +35,23 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE
 
-<span style="font-size:medium"><span style="color:#000000"><span>Lijst van de bacheloropleidingen waarvoor deelname aan een niet-bindende toelatingsproef een voorwaarde voor inschrijving is, als vermeld in artikel 1</span></span></span>
-<table style="letter-spacing:normal; text-transform:none; width:1000px">
+<span style="font-size:medium"><span style="color:#000000">Lijst van de bacheloropleidingen waarvoor deelname aan een niet-bindende toelatingsproef een voorwaarde voor inschrijving is, als vermeld in artikel 1</span></span>
+<table border="1" class="Table" style="width:1000px">
 	<tbody>
 		<tr>
-			<td>Bacheloropleidingen - Graad en kwalificatie van de graad</td>
-			<td>Verplichte, niet-bindende toelatingsproef</td>
-			<td>Inwerkingtreding verplichting</td>
+			<td>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">Bacheloropleidingen - Graad en kwalificatie van de graad </span></span></span></p>
+			</td>
+			<td>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">Verplichte, niet-bindende toelatingsproef </span></span></span></p>
+			</td>
+			<td>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">Inwerkingtreding verplichting</span></span></span></p>
+			</td>
 		</tr>
 		<tr>
-			<td>bachelor of Science in de ingenieurswetenschappen<br>
+			<td>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">bachelor of Science in de ingenieurswetenschappen<br>
 			(met inbegrip van:<br>
 			- bachelor of Science in de ingenieurswetenschappen: bouwkunde;<br>
 			- bachelor of Science in de ingenieurswetenschappen: chemische technologie en materiaalkunde;<br>
@@ -52,8 +59,10 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 			- bachelor of Science in de ingenieurswetenschappen: elektrotechniek;<br>
 			- bachelor of Science in de ingenieurswetenschappen: toegepaste natuurkunde;<br>
 			- bachelor of Science in de ingenieurswetenschappen: werktuigkunde-elektrotechniek.)<br>
-			bachelor of Science in de ingenieurswetenschappen: architectuur</td>
-			<td>ingenieurswetenschappen<br>
+			bachelor of Science in de ingenieurswetenschappen: architectuur </span></span></span></p>
+			</td>
+			<td>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">ingenieurswetenschappen<br>
 			of<br>
 			ingenieurswetenschappen: architectuur<br>
 			of<br>
@@ -77,56 +86,89 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 			of<br>
 			logopedische en audiologische wetenschappen<br>
 			of<br>
-			diergeneeskunde</td>
-			<td>15 maart 2018<br>
-			(voor inschrijvingen vanaf academiejaar 2018-2019)</td>
+			diergeneeskunde </span></span></span></p>
+			</td>
+			<td>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">15 maart 2018<br>
+			(voor inschrijvingen vanaf academiejaar 2018-2019)</span></span></span></p>
+			</td>
 		</tr>
 		<tr>
-			<td>educatieve bachelor in het lager onderwijs</td>
-			<td>lerarenopleiding lager onderwijs</td>
-			<td>15 maart 2019<br>
-			(voor inschrijvingen vanaf academiejaar 2019-2020)</td>
+			<td>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">bachelor in het onderwijs: lager onderwijs </span></span></span></p>
+			</td>
+			<td>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">lerarenopleiding lager onderwijs </span></span></span></p>
+			</td>
+			<td>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">15 maart 2018<br>
+			(voor inschrijvingen vanaf academiejaar 2018-2019)</span></span></span></p>
+			</td>
 		</tr>
 		<tr>
-			<td>educatieve bachelor in het kleuteronderwijs<br>
-			educatieve bachelor in het secundair onderwijs</td>
-			<td>lerarenopleiding kleuteronderwijs<br>
+			<td>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">bachelor in het onderwijs: kleuteronderwijs<br>
+			bachelor in het onderwijs: secundair onderwijs </span></span></span></p>
+			</td>
+			<td>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">lerarenopleiding kleuteronderwijs<br>
 			of<br>
 			lerarenopleiding lager onderwijs<br>
 			of<br>
-			lerarenopleiding secundair onderwijs</td>
-			<td>15 maart 2019<br>
-			(voor inschrijvingen vanaf academiejaar 2019-2020)</td>
+			lerarenopleiding secundair onderwijs </span></span></span></p>
+			</td>
+			<td>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">15 maart 2018<br>
+			(voor inschrijvingen vanaf academiejaar 2018-2019)</span></span></span></p>
+			</td>
 		</tr>
 		<tr>
-			<td>bachelor of Science in de diergeneeskunde</td>
-			<td>diergeneeskunde<br>
+			<td>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">bachelor of Science in de industriële wetenschappen<br>
+			bachelor of Science in de bio-industriële wetenschappen<br>
+			bachelor of Science in de biowetenschappen<br>
+			Bachelor of Science in Engineering Technology</span></span></span></p>
+			</td>
+			<td>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">industriële wetenschappen<br>
+			of<br>
+			biowetenschappen<br>
+			of<br>
+			bio-industriële wetenschappen<br>
 			of<br>
 			ingenieurswetenschappen<br>
 			of<br>
 			ingenieurswetenschappen: architectuur<br>
 			of<br>
-			wiskunde, informatica, fysica<br>
-			of bio-ingenieurswetenschappen<br>
+			bio-ingenieurswetenschappen<br>
 			of<br>
-			chemie, biologie, biochemie, biotechnologie, geologie en geografie<br>
+			toegepaste/sociaal-economische wetenschappen<br>
 			of<br>
-			farmaceutische wetenschappen<br>
-			of<br>
-			(toegepaste) economische wetenschappen<br>
-			of<br>
-			toegepaste economische wetenschappen: handelsingenieur (in de beleidsinformatica)<br>
+			handelsingenieur<br>
 			of<br>
 			handelswetenschappen<br>
 			of<br>
-			industriële wetenschappen<br>
+			farmaceutische wetenschappen<br>
+			of<br>
+			logopedische en audio-logische wetenschappen<br>
 			of<br>
 			biomedische wetenschappen<br>
 			of<br>
-			logopedische en audiologische wetenschappen</td>
-			<td>15 maart 2019 (voor inschrijvingen vanaf academiejaar 2019-2020)</td>
+			chemie, biochemie en bio-technologie, biologie, geologie en geografie en geomatica<br>
+			of<br>
+			wiskunde, fysica en infomatica of<br>
+			diergeneeskunde</span></span></span></p>
+			</td>
+			<td>
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">15 juni 2021<br>
+			(voor inschrijvingen vanaf academiejaar 2021-2022)</span></span></span></p>
+			</td>
 		</tr>
 	</tbody>
 </table>
+<br>
+<br>
+<br>
+<br>
 <br>
 &nbsp;
