@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035730,
+  "title": "Besluit van de Vlaamse Regering van 2021-05-28 tot bepaling van de datum van de inwerkingtreding van artikel 7.1 van het Besluit Vlaamse Codex Wonen van 2021",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035730/VolledigDocument?datum=2021-06-15",
+  "source_sha256": "93f688b4dbdc1bdcd33f5d03f63243a68baa8df81579f9b09a56351cac8850c4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035730&param=informatie",
+  "as_of": "2021-06-15",
+  "made": "2021-05-28",
+  "gazette": "2021-06-23",
+  "numac": 2021042164,
+  "document_start": "2021-06-15",
+  "document_end": null,
+  "in_force": "2021-06-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-06-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
