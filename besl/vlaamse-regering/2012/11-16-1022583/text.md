@@ -282,7 +282,13 @@ Alle aanpassingen aan dit besluit door de minister op basis van de   delegaties 
 
 ### ART. 43.
 
-<P>Het Agentschap Innoveren en Ondernemen kan vanaf het ogenblik dat de   subsidieaanvraag is ingediend, controleren of de voorwaarden van het decreet van   16 maart 2012, van dit besluit en van de uitvoeringsbesluiten worden   nageleefd.<BR></P>  <P>Die controle kan, afhankelijk van het feit of de steun al dan niet werd   toegekend, het volgende tot gevolg hebben : <BR>1° beslissing tot weigering van   de subsidie;<BR>2° niet-uitbetaling of terugvordering van de toegekende   subsidie.</P>
+<p>Het Agentschap Innoveren en Ondernemen kan vanaf het ogenblik dat de subsidieaanvraag is ingediend, controleren of de voorwaarden van het decreet van 16 maart 2012, van dit besluit en van de uitvoeringsbesluiten worden nageleefd.</p>
+
+<p>Die controle kan, afhankelijk van het feit of de steun al dan niet werd toegekend, het volgende tot gevolg hebben :<br>
+1° beslissing tot weigering van de subsidie;<br>
+2° niet-uitbetaling of terugvordering van de toegekende subsidie.<br>
+<br>
+Als uit een controle blijkt dat de onderneming een steunaanvraag heeft ingediend op basis van onjuiste verklaringen of foutieve informatie en die niet spontaan heeft gecorrigeerd, komt die onderneming gedurende een periode van vijf jaar, vanaf het moment van de kennisgeving van de voormelde vaststelling, niet in aanmerking voor steun als vermeld in artikel 3, 5°, van het decreet van 16 maart 2012, artikel 4, eerste en vijfde lid, van het decreet van 15 juli 2016 houdende toekenning van een hinderpremie aan kleine ondernemingen die ernstige hinder ondervinden van openbare werken in het Vlaamse Gewest, en artikel 41ter, § 2, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002.</p>
 
 ## HOOFDSTUK 13. Strategische ecologie-investeringen met een bijzondere impact voor de Vlaamse economie
 
