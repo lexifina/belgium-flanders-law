@@ -2,16 +2,16 @@
   "codex_id": 1035859,
   "title": "Samenwerkingsakkoord van 2021-07-14 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot het digitaal EU-COVID-certificaat, het COVID Safe Ticket, het PLF, de verwerking van persoonsgegevens van in het buitenland wonende of verblijvende werknemers en zelfstandigen die activiteiten uitvoeren in België",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035859/VolledigDocument?datum=2020-07-10",
-  "source_sha256": "f48ca71eeff62bee2e9e71180b2cf5f534a8ac5ed2e1bbfb96374e14d3ba4b05",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035859/VolledigDocument?datum=2021-06-16",
+  "source_sha256": "f1b117400dc2bbb3d3ed42e9efc7d79f796f644232d38a87984924f05e6921df",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035859&param=informatie",
-  "as_of": "2020-07-10",
+  "as_of": "2021-06-16",
   "made": "2021-07-14",
   "gazette": "2021-07-23",
   "numac": 2021021533,
   "document_start": "2021-06-16",
   "document_end": null,
-  "in_force": "2020-07-10",
-  "article_versions": 13,
-  "record_form": "consolidated version as in force on 2020-07-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-06-16",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2021-06-16; future article versions excluded; article text as the API gives it"
 }

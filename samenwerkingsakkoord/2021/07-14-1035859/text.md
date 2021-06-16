@@ -1,5 +1,201 @@
 # Samenwerkingsakkoord van 2021-07-14 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot het digitaal EU-COVID-certificaat, het COVID Safe Ticket, het PLF, de verwerking van persoonsgegevens van in het buitenland wonende of verblijvende werknemers en zelfstandigen die activiteiten uitvoeren in België
 
+### Algemene toelichting
+
+ALGEMENE TOELICHTING<br>
+<br>
+Op 11 maart 2020 heeft de Wereldgezondheidsorganisatie (WGO) de uitbraak van het SARS-CoV-2-virus, dat de ziekte COVID-19 veroorzaakt, uitgeroepen tot een pandemie.<br>
+Ook België blijft niet gespaard van deze pandemie. In het kader van de COVID-19-gezondheidscrisis en om een verdere verspreiding van het SARS-CoV-2-virus (hierna "coronavirus COVID-19") tegen te gaan, werd de Nationale Veiligheidsraad, waarin naast de vertegenwoordigers van de federale overheid, vertegenwoordigers van de gefedereerde entiteiten zetelen, belast om op elkaar afgestemde maatregelen te nemen teneinde de verdere verspreiding van het coronavirus COVID-19 te beperken.<br>
+<br>
+Algemene doelstellingen van dit samenwerkingsakkoord<br>
+<br>
+Niettegenstaande het essentieel is de verdere verspreiding van het coronavirus COVID-19 te beperken, moet eveneens rekening worden gehouden met de heropstart van de activiteiten van de burgers zoals deze werden uitgeoefend voor de COVID-19-pandemie, waaronder de mogelijkheid om te reizen binnen de Europese Unie en culturele en andere evenementen en activiteiten te bij te wonen. Eveneens moet volop ingezet worden op het herstel na de COVID-19-pandemie.<br>
+<br>
+Aangezien een uniforme regelgeving omtrent de vrijheid voor EU-burgers om te reizen en te verblijven op het grondgebied van de lidstaten, aangewezen is, heeft de Europese Unie voorzien in een wetgevend kader, bestaande uit enerzijds de Verordening (EU) 2021/953 van 14 juni 2021 van het Europees Parlement en de Raad betreffende een kader voor de afgifte, verificatie en aanvaarding van interoperabele COVID19-vaccinatie-, test- en herstelcertificaten (digitaal EU-COVID-certificaat) teneinde het vrije verkeer tijdens de COVID-19-pandemie te faciliteren ( "Verordening digitaal EU COVID-certificaat") en de Verordening (EU) 2021/954 van het Europees Parlement en de Raad van 14 juni 2021 betreffende een kader voor de afgifte, verificatie en aanvaarding van interoperabele COVID19-vaccinatie-, test- en herstelcertificaten (digitaal EU-COVID-certificaat) ten aanzien van onderdanen van derde landen die legaal op het grondgebied van de lidstaten verblijven of wonen tijdens de COVID-19-pandemie ("Verordening digitaal EU COVID-certificaat").<br>
+<br>
+De reisbeperkingen die gelden op basis van de lijst met `variants of concern' worden onverlet gelaten door de bepalingen omtrent het digitaal EU-COVID-certificaat en het COVID Safe Ticket zoals opgenomen in dit samenwerkingsakkoord.<br>
+<br>
+Deze verordeningen treden echter pas op 1 juli in werking. Gelet op de urgentie om het vrij verkeer van personen binnen de lidstaten ten volle te faciliteren, heeft België ervoor gekozen om het digitaal EU-COVID-certificaat vanaf 16 juni 2021 reeds beschikbaar te stellen aan haar burgers.<br>
+<br>
+De Verordening digitaal EU-COVID-certificaat laat tevens verder binnenlands gebruik van het digitaal EU-COVID-certificaat toe, voor zover dit binnenlands gebruik gestoeld is op een wettelijke basis. Dit samenwerkingsakkoord bepaalt onder andere deze wettelijke basis.<br>
+<br>
+Conform de Notificaties van het Overlegcomité 11 mei en 4 juni 2021 werd beslist om vanaf de inwerkingtreding van dit samenwerkingsakkoord, de toegang tot proef- en pilootprojecten en vanaf 13 augustus 2021 de toegang tot massa-evenementen te regelen op grond van het COVID Safe Ticket.<br>
+<br>
+Het COVID Safe Ticket is het resultaat van de lezing van het digitaal EU-COVID-certificaat middels de COVIDScan-applicatie teneinde de toegang tot een proef- en pilootproject of massa-evenement in de context van de COVID-19-pandemie te regelen. Het COVID Safe Ticket maakt aldus het binnenlands gebruik van het digitaal EU-COVID-certificaat mogelijk.<br>
+<br>
+Teneinde het digitaal EU-COVID-certificaat op een gebruiksvriendelijke en toegankelijke wijze ter beschikking te stellen aan de burgers, worden (minstens) twee applicatie ontwikkeld, met name de COVIDSafe-applicatie en de COVIDScan-applicatie. De COVIDSafe-applicatie heeft als doel de houder van het digitaal EU-COVID-certificaat toe te laten dit op te vragen en de streepjescode te laten inscannen. Ook kan men desgevallend het COVID Safe Ticket op de COVIDSafe application genereren. De COVIDScan-applicatie laat toe om via het scannen van de streepjescode van het digitaal EU-COVID-certificaat de echtheid en geldigheid van het digitaal EU-COVID-certificaat te valideren en desgevallend het COVID Safe Ticket te genereren. Deze streepjescode kan ook een tweedimensionale streepjescode, met name een QR-code, uitmaken.<br>
+<br>
+De COVIDSafe-applicatie wordt vanaf 16 juni 2021 ter beschikking gesteld aan de burgers en kan vanaf 1 juli 2021 gebruikt worden voor het reizen binnen de Europese Unie.<br>
+<br>
+Vanaf de inwerkingtreding van dit samenwerkingsakkoord, kan het COVID Safe Ticket via de COVIDScan-applicatie of desgevallend via de COVIDSafe applicatie gegenereerd worden voor binnenlands gebruik, meer bepaald voor proef- of pilootprojecten vanaf de inwerkingtreding van dit samenwerkingsakkoord, en voor massa-evenementen vanaf 13 augustus 2021 die worden georganiseerd in het geldende besluit houdende de maatregelen van bestuurlijke politie om de verspreiding van het coronavirus COVID-19 te beperken.<br>
+<br>
+De bewaartermijnen van de persoonsgegevens die worden verwerkt ten behoeve van het digitaal EU-COVID-certificaat, worden strikt begrensd tot het doel van het digitaal EU-COVID-certificaat of tot wanneer het digitaal EU-COVID-certificaat niet langer gebruikt mag worden om het recht van vrij verkeer uit te oefenen, zoals bepaald door de Verordening digitaal EU-COVID-certificaat.<br>
+<br>
+Er wordt rekening gehouden met de vroegere inwerkingtreding van het samenwerkingsakkoord en de weerslag die dit heeft op de bewarings- en geldigheidstermijnen. De persoonsgegevens verwerkt bij het inlezen het COVID Safe Ticket, worden onmiddellijk verwijderd na verwerking.<br>
+<br>
+Betreffende de vaccinatie-, test, herstelcertificaten en het digitaal EU-COVID-certificaat<br>
+<br>
+Iedere burger van de Unie heeft het recht vrij op het grondgebied van de lidstaten te reizen en te verblijven, onder voorbehoud van de beperkingen en voorwaarden die bij de Verdragen en de bepalingen ter uitvoering daarvan zijn vastgesteld.<br>
+<br>
+In dit samenwerkingsakkoord, wordt allereerst een rechtsgrond voorzien voor de verwerking van persoonsgegevens die nodig zijn voor de opmaak en afgifte van interoperabele vaccinatie-, test- en herstelcertificaten inzake COVID-19. Deze interoperabele vaccinatie-, test- en herstelcertificaten worden gebruikt voor de opmaak en afgifte van het digitaal EU-COVID-certificaat, teneinde het vrije verkeer tijdens de COVID-19-pandemie te faciliteren. Het faciliteren van het vrije verkeer is immers een van de belangrijkste voorwaarden voor een economisch herstel.<br>
+<br>
+Personen die gevaccineerd zijn of een recente negatieve diagnosetest hebben ondergaan, of personen die in de afgelopen zes maanden hersteld zijn van COVID-19, lijken volgens de huidige wetenschappelijke kennis, die nog evolueert, een kleiner risico te lopen mensen met SARS-CoV-2 te besmetten. Het vrije verkeer van personen die op basis van deugdelijk wetenschappelijk bewijs geen significant risico voor de volksgezondheid vormen, bijvoorbeeld omdat zij immuun zijn voor SARS-CoV-2 en dit niet kunnen overdragen, mag dan ook niet worden beperkt, aangezien dergelijke beperkingen niet nodig zouden zijn om het nagestreefde doel te bereiken.<br>
+<br>
+Artikel 3, § 2, van dit samenwerkingsakkoord bepaalt dat de vaccinatie-, test- en herstelcertificaten inzake COVID-19 worden afgegeven in digitale vorm of op papier, of in beide vormen. De kandidaat-houders hebben het recht de certificaten te ontvangen in het door hen gekozen formaat.<br>
+<br>
+Ingevolge artikel 3, § 3 van dit samenwerkingsakkoord heeft de houder van een vaccinatie-, test- of herstelcertificaat het recht te verzoeken om afgifte van een nieuw certificaat indien de persoonsgegevens in het certificaat niet of niet meer nauwkeurig of actueel zijn, waaronder met betrekking tot de vaccinatie-, test- of herstelstatus van de houder, of indien de houder niet meer over het certificaat beschikt.<br>
+<br>
+Artikel 3, § 6 van dit samenwerkingsakkoord stipuleert dat de in artikel 9, §§ 1 tot en met 3 van dit samenwerkingsakkoord bedoelde certificaten op dezelfde wijze worden behandeld en er geen onderscheid bestaat tussen de certificaten onderling. Deze bepaling is in overeenstemming met de beslissing die werd genomen in de Verordening digitaal EU-COVID-certificaat en de Verordening digitaal EU-COVID-certificaat voor onderdanen derde landen op basis van wetenschappelijke studies die door de Europese Unie zijn uitgevoerd. Bijkomend bewaakt deze bepaling dat er op grond van het digitaal EU-COVID-certificaat en/of het COVID Safe Ticket geen discriminatie ontstaat ten aanzien van personen die zich niet kunnen of willen laten vaccineren.<br>
+<br>
+Artikel 3, § 7 van dit samenwerkingsakkoord beoogt niet elke andere vorm van bewijs van vaccinatie, test of herstel na 16 juni 2021 uit te sluiten. Het zal immers nog altijd mogelijk zijn om vaccinatie-, test- of herstelcertificaten te verschaffen aan de betrokkene voor doeleinden andere dan deze worden geregeld binnen het samenwerkingsakkoord en/of Verordening digitaal EU-COVID-certificaat en de Verordening digitaal EU-COVID-certificaat voor onderdanen derde landen<br>
+<br>
+De instanties die verantwoordelijk zijn voor de afgifte van de certificaten, worden beschouwd als verwerkingsverantwoordelijken in de zin van artikel 4, lid 7, van Verordening (EU) 2016/679 (algemene verordening gegevensbescherming).<br>
+<br>
+Het samenwerkingsakkoord van 12 maart 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot vaccinaties tegen COVID-19, hierna het samenwerkingsakkoord van 12 maart 2021, regelt het gemeenschappelijke informatiesysteem dat is opgezet voor de uitnodiging van personen voor vaccinatie, voor de organisatie van de vaccinatie en voor de registratie van de vaccinatie. Door de gefedereerde entiteiten en de federale overheid werd de instelling van een gemeenschappelijk informatiesysteem hiertoe als een cruciale vereiste geformuleerd. Voor de ondersteuning van de uitnodiging van personen voor vaccinatie en de organisatie van de vaccinatie was immers een gemeenschappelijk informatiesysteem nodig om te vermijden dat personen ongecoördineerd worden uitgenodigd of dat reeds gevaccineerde personen opnieuw worden uitgenodigd. Daarnaast maakt het systeem het mogelijk om het geschikt doseringsschema te bepalen, onder meer wat de verschillende doses van een toe te dienen vaccin betreft (juiste interval in geval van vaccin met meerdere dosissen) en ervoor zorgen dat de vaccinatie goed georganiseerd verloopt in functie van de beschikbaarheid van het daartoe benodigde materiaal en (medisch) personeel. De registratie van vaccinaties in een gemeenschappelijk informatiesysteem (Vaccinnet) door zowel Vlaamse, Brusselse, Waalse als Duitstalige vaccinatoren, was dan ook noodzakelijk. Die databank wordt in heel nauwe samenwerking tussen de gefedereerde entiteiten en de Federale Staat uitgewerkt en beheerd. Daarom is het ook aangewezen om ook voor de uitreiking van de certificaten aan de hand van eenzelfde operationeel systeem te werken.<br>
+<br>
+Artikel 7 van het voornoemd samenwerkingsakkoord van 12 maart 2021 bepaalt dat de bevoegde gefedereerde entiteiten of de door de bevoegde gefedereerde entiteiten aangeduide agentschappen, en de federale overheid, ieder voor hun bevoegdheid, optreden als verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens bedoeld in voornoemd samenwerkingsakkoord.<br>
+<br>
+Het gaat meer bepaald over de volgende entiteiten of agentschappen:<br>
+1° voor de personen die gevaccineerd worden op het grondgebied van het Vlaams Gewest of in een instelling in het tweetalige gebied Brussel-Hoofdstad die wegens zijn organisatie moet worden beschouwd als een instelling die uitsluitend behoort tot de Vlaamse Gemeenschap: het Agentschap Zorg en Gezondheid;<br>
+2° voor de personen waarvoor de Franse Gemeenschap bevoegd is: l'Office de la Naissance et de l'Enfance;<br>
+3° voor de personen waarvoor het Waals Gewest bevoegd is: l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles;<br>
+4° voor de personen waarvoor de Gemeenschappelijke Gemeenschapscommissie van Brussel-Hoofdstad bevoegd is: de Gemeenschappelijke Gemeenschapscommissie;<br>
+5° voor de personen waarvoor de Franse Gemeenschapscommissie van Brussel-Hoofdstad bevoegd is: de Franse Gemeenschapscommissie;<br>
+6° voor de personen waarvoor de Duitstalige Gemeenschap bevoegd is: Ministerium der Deutschsprachigen Gemeinschaft;<br>
+7° voor de personen waarvoor de federale overheid bevoegd is: Sciensano.<br>
+<br>
+De entiteiten, vernoemd in voornoemd artikel 7, 1° tot en met 6°, die ieder voor wat hun bevoegdheid betreft, de verwerkingsverantwoordelijken zijn voor de gegevensverwerkingen in het kader van de vaccinatiegegevens in Vaccinnet, zijn verantwoordelijk voor de afgifte van de vaccinatiecertificaten, vermeld in artikel 3, § 1, 1° van dit samenwerkingsakkoord. Ingevolge artikel 15, § 1, van dit samenwerkingsakkoord zijn diezelfde entiteiten de verwerkingsverantwoordelijken voor de gegevensverwerkingen in het kader van de vaccinatiecertificaten.<br>
+<br>
+Artikel 2, § 4, van het samenwerkingsakkoord van 25 augustus 2020 tussen de Federale staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de gezamenlijke gegevensverwerking door Sciensano en de door de bevoegde gefedereerde entiteiten of door de bevoegde agentschappen aangeduide contactcentra, gezondheidsinspecties en mobiele teams in het kader van een contactonderzoek bij personen die (vermoedelijk) met het coronavirus COVID-19 besmet zijn op basis van een gegevensbank bij Sciensano bepaalt dat Sciensano de verwerkingsverantwoordelijke is van de Gegevensbank I, vermeld in artikel 6 van voornoemd samenwerkingsakkoord. Sciensano is verantwoordelijk voor de afgifte van de test- en herstelcertificaten, vermeld in artikel 3, § 1, 2° en 3°, van dit samenwerkingsakkoord. Ingevolge artikel 15, § 1, van dit samenwerkingsakkoord is Sciensano de verwerkingsverantwoordelijke voor de gegevensverwerkingen in het kader van de test- en herstelcertificaten.<br>
+<br>
+Voor de operationele uitvoering van de voornoemde verordening door de instanties die verantwoordelijk zijn voor de afgifte van de respectieve certificaten beroep gedaan op het agentschap Digitaal Vlaanderen, opgericht bij besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen. Dat agentschap staat in voor de aanmaak en de terbeschikkingstelling van de betreffende certificaten en de ontwikkeling van een app overeenkomstig de modaliteiten die in de voornoemde verordening zijn vastgelegd. Zodoende gebeurt de afgifte van alle certificaten op operationeel niveau via eenzelfde systeem.<br>
+<br>
+Aangezien de certificaten onmiddellijk moeten kunnen worden uitgereikt, hebben alle betreffende instanties, verantwoordelijk voor de afgifte van certificaten, beslist beroep te doen op het agentschap Digitaal Vlaanderen. Dit betekent echter niet dat het agentschap Digitaal Vlaanderen beslist over welke toepassing ter beschikking wordt gesteld aan de burger, noch over de modaliteiten en het tijdstip van de-activering van de COVIDSafe- en COVIDScan-applicatie. Het agentschap Digitaal Vlaanderen handelt enkel op instructies van het e-Health-platform en treedt op als verwerker.<br>
+<br>
+Er wordt tevens voorzien in een opdracht aan het agentschap Digitaal Vlaanderen om de betrokkene inzage en toegang te geven tot de officiële versie van zijn vaccinatie- en testgegevens in afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat.<br>
+<br>
+Voor de opmaak en afgifte van het digitaal EU-COVID-certificaat, worden allereerst de categorieën van persoonsgegevens verwerkt zoals bepaald in artikel 9 van het samenwerkingsakkoord. Deze gegevens worden wat betreft de houders van een vaccinatiecertificaat geput uit Vaccinnet en voor wat betreft de houders van een test- of herstelcertificaat uit Gegevensbank I opgericht door het samenwerkingsakkoord van 25 augustus 2020. Daarnaast is het voor de opmaak en afgifte van het digitaal EU-COVID-certificaat noodzakelijk om het rijksregisternummer van de houder en zijn (adres van de) hoofdverblijfplaats te verwerken. Het verwerken van de hoofdverblijfplaats maakt het mogelijk om het digitaal EU-COVID-certificaat - wanneer werd geopteerd om het digitaal EU-COVID-certificaat op papier te verkrijgen - per post te ontvangen. De hoofdverblijfplaats wordt enkel verwerkt indien werd geopteerd om het digitaal EU-COVID-certificaat per post te ontvangen. De hoofdverblijfplaats wordt bekomen vanuit het Rijksregister, op basis van het rijksregisternummer. Omwille van deze reden is het eveneens noodzakelijk om het rijksregisternummer van de houder te verwerken. Het rijksregisternummer wordt voor wat betreft de houders van een vaccinatiecertificaat geput uit Vaccinnet, en voor wat betreft de houders van een test- of herstelcertificaat uit Gegevensbank I opgericht door het samenwerkingsakkoord van 25 augustus 2020. Het rijksregisternummer wordt niet opgenomen in het digitaal EU-COVID-certificaat.<br>
+<br>
+Het is geenszins de bedoeling om andere dan de in Bijlage `Datasets voor de certificaten' bij de Verordening digitaal EU-COVID-certificaat genoemde gegevens op te nemen op het digitaal EU-COVID-certificaat.<br>
+<br>
+Het digitaal EU-COVID-certificaat wordt gegenereerd op grond van het `Trust Framework' zoals werd voorzien in Verordening digitaal EU-COVID-certificaat en Verordening digitaal EU-COVID-certificaat voor onderdanen derde landen. Dit kader garandeert dat de vaccinatie-, test- en herstelcertificaten niet vervalst kunnen worden.<br>
+<br>
+Dit samenwerkingsakkoord voorziet in de mogelijkheid voor de medewerkers van de door de bevoegde gefedereerde entiteiten of door de agentschappen aangeduide contactcentra om de houders van test- en/of herstelcertificaten bepaalde informatie te verstrekken. Dit teneinde de door de bevoegde gefedereerde entiteiten of door de agentschappen aangeduide contactcentra vragen van houders van de test-en herstelcertificaten te laten beantwoorden. In dit kader zullen passende technische en organisatorische maatregelen worden getroffen, waaronder logging van de toegang tot de gegevens door de medewerkers van de door de bevoegde gefedereerde entiteiten of door de agentschappen aangeduide contactcentra.<br>
+<br>
+Betreffende het COVID Safe Ticket<br>
+<br>
+Het COVID Safe Ticket is het digitaal EU-COVID-certificaat, maar dan in een andere (verschijnings)vorm die in de front-end minder persoonsgegevens bevat. Op deze manier worden de principes van proportionaliteit, confidentialiteit en integriteit van de onderliggende gegevens van het digitaal EU-COVID-certificaat gewaarborgd. Het COVID Safe Ticket mag enkel met de COVIDScan-applicatie worden ingelezen bij de ingang van het proef- en pilootproject of het massa-evenement. De COVIDScan-applicatie voldoet aan het `Trust Framework' voorzien in de Verordening digitaal EU-COVID-certificaat en Verordening digitaal EU-COVID-certificaat voor onderdanen derde landen.<br>
+<br>
+Het moet onderstreept worden dat het geenszins de bedoeling is of kan zijn om middels het COVID Safe Ticket of middels dit samenwerkingsakkoord enige gewenning te creëren als zou het toegang verkrijgen tot bepaalde plaatsen afhankelijk dienen te worden gesteld van het overleggen van bewijzen of certificaten. Het toepassingsgebied van het COVID Safe Ticket dient te worden beperkt tot hetgeen in dit samenwerkingsakkoord voorkomt, hetgeen kadert in een uitzonderlijke situatie. Zolang de COVID-19-pandemie dient te worden bestreden en mits het respecteren van redelijke bewaartermijn en beperking in gebruik met betrekking tot de duur ervan, is het COVID Safe Ticket een proportioneel instrument om de verspreiding van het coronavirus COVID-19 te stoppen.<br>
+<br>
+Bijkomend is het COVID Safe Ticket het meest aangewezen instrument om data minimalisatie te bekomen. Wanneer organisatoren van evenementen immers het digitaal EU-COVID-certificaat zouden kunnen inscannen en lezen, zouden zij diverse gezondheidsgegevens van de houder ontvangen, hetgeen geenszins wenselijk zou zijn en in strijd is met het proportionaliteitsbeginsel in de Algemene Verordening Gegevensbescherming. Met het COVID Safe Ticket wordt enkel een streepjescode, de geldigheidsduur en een naam weergegeven. Bovendien wordt het COVID Safe Ticket gegenereerd voor mensen die gevaccineerd zijn tegen het coronavirus COVID-19, een negatieve erkende NAAT-test of erkende snelle antigeentest hebben ondergaan, of recent hersteld zijn van een coronavirus COVID-19-besmetting. Het is wetenschappelijk aangetoond dat mensen die zich in een van deze situaties bevinden, veel minder kans hebben om een andere persoon te besmetten met het coronavirus COVID-19.<br>
+<br>
+Deze werkwijze is data minimaliserend, proportioneel en beduidend minder invasief dan het gebruik van het digitaal EU-COVID-certificaat of het continue ter plaatse testen van alle bezoekers van een massa-evenement of proef- en pilootproject. Verder kan niet ontkend worden dat het op massa-evenementen en proef-en pilootprojecten bijzonder moeilijk te controleren valt dat alle bezoekers de voorgeschreven veiligheidsmaatregelen en coronamaatregelen respecteren. Inderdaad, des te groter het massa-evenement of het proef- en pilootproject, des te moeilijker deze praktische maatregelen zijn te implementeren. En zelfs in het geval alle bezoekers deze regels (zoals dragen mondmasker, veilige afstand houden, ...) perfect zouden naleven (hetgeen niet haalbaar is), dan nog biedt deze methode niet dezelfde garanties als deze op grond van de vaccinatie- en testingstrategie. Het COVID Safe Ticket biedt een doeltreffende en proportionele oplossing om het culturele en sociale leven terug plaats te laten vinden, die tevens als noodzakelijk kan worden gekwalificeerd nu er voor de in dit samenwerkingsakkoord bedoelde evenementen geen minder intrusieve methodes bestaan om de veiligheid en gezondheid van de bezoekers en personeel van dergelijke evenementen te garanderen.<br>
+<br>
+Het faciliteren van de toegang tot massa-evenementen en proef- en pilootprojecten vindt plaats via het COVID Safe Ticket voor massa-evenementen die voldoen aan de definitie vastgelegd in verdere uitvoerende bepalingen en voor proef- en pilootprojecten die hiervoor de vereiste goedkeuring krijgen vanwege de bevoegde overheidsinstanties. Wanneer bezoekers voor de coronavirus COVID-19-pandemie dergelijke evenementen bezochten, moesten zij reeds de organisatoren toegang geven tot verschillende persoonsgegevens, om bijvoorbeeld een identiteitscontrole uit te voeren, contact op te nemen via een e-mailadres of om de consumptie van de bezoeker in kaart te kunnen brengen. Met het COVID Safe Ticket wordt enkel noodzakelijke informatie van de bezoeker beschikbaar voor de organisator, wat in overeenstemming is met het principe van data minimalisatie.<br>
+<br>
+Teneinde de toegang voor bezoekers tot een massa-evenement of proef- en pilootproject te regelen wordt ofwel het door de houder gegeneerde COVID Safe Ticket gelezen, ofwel wordt het digitaal EU-COVID-certificaat gelezen, waarbij het COVID Safe Ticket wordt gegenereerd, en dit middels de CST-module van de COVID-Scan-applicatie. Om het COVID Safe Ticket te lezen en, desgevallend, te genereren, worden de categorieën van persoonsgegevens in het digitaal EU-COVID-certificaat verwerkt. De uitkomst hiervan vormt het COVID Safe Ticket, dat de aanduiding bevat of de houder de toegang mag worden toegelaten of dient te worden geweigerd tot het massa-evenement of proef- en pilootproject, samen met de naam en voornaam van de houder.<br>
+<br>
+Zowel het digitaal EU-COVID-certificaat teneinde het COVID Safe Ticket te genereren als het door de houder gegenereerde COVID Safe Ticket mogen enkel worden gelezen om te kunnen controleren en verifiëren:<br>
+Of de houder voldoet aan de voorwaarden om toegang te verkrijgen tot het massa-evenement of proef- en pilootproject; en<br>
+Of de identiteit van de persoon die toegang wil verkrijgen tot het massa-evenement of proef- en pilootproject, overeenstemt met de naam en voornaam op het COVID Safe Ticket.<br>
+<br>
+En dit door:<br>
+De personen die instaan voor de toegangscontrole van het massa-evenement of het proef- en pilootproject;<br>
+Het personeel van een bewakingsonderneming of interne bewakingsdienst.<br>
+<br>
+Enkel deze personen mogen op basis van de COVID Safe Ticket de toegang tot een massa-evenement of proef- en pilootproject weigeren, tenzij de houder bijkomende maatregelen ondergaat, voor zover deze voorzien zijn door de organisator van deze evenementen. Zij mogen dit slechts doen door gebruik te maken van de CST-module van de COVIDScan-applicatie.<br>
+<br>
+De organisatoren zullen een lijst aanleggen van deze personen.<br>
+<br>
+Indien de organisatoren van massa-evenementen of proef- en pilootprojecten enkel gebruik maken van het COVID Safe Ticket teneinde de toegang tot het evenement te regelen en niet voorzien in bijkomende maatregelen (zoals een ter plekke afgenomen erkende snelle antigeentest) teneinde de toegang tot het evenement te regelen, dient de organisator daar op voorhand ten aanzien van de bezoekers voldoende duidelijk over te communiceren. De reden hiervoor is dat het voor de bezoeker duidelijk dient te zijn indien toegang tot het massa-evenement of proef- en pilootproject enkel mogelijk is op basis van het COVID Safe Ticket.<br>
+<br>
+Dit samenwerkingsakkoord neemt uiteraard niet weg dat de organisatoren van massa-evenementen en proef-en pilootprojecten de nodige passende en/of geldende sanitaire maatregelen dienen te nemen alsook deze dienen op te leggen aan hun medewerkers, vrijwilligers, personeel en genodigden die geen bezoekers van het evenement of project uitmaken.<br>
+<br>
+Het is personen strikt verboden om het COVID Safe Ticket te genereren en in te lezen voor andere doeleinden dan deze gestipuleerd in dit samenwerkingsakkoord. Personen die het COVID Safe Ticket genereren of inlezen voor doeleinden die niet voorzien zijn in dit samenwerkingsakkoord, worden gestraft met gemeenrechtelijke sancties, inclusief strafrechtelijke sancties.<br>
+<br>
+Dit geldt bijvoorbeeld voor het gebruik van het COVID Safe Ticket teneinde de toegang te regelen tot andere evenementen, horecavoorzieningen en werkplaatsen. De gemeenrechtelijke sancties zijn niet van toepassing wanneer het COVID Safe Ticket wordt gegenereerd of ingelezen door een persoon bij de uitoefening van een zuiver persoonlijke of huishoudelijke activiteit.<br>
+<br>
+Het is organisatoren van massa-evenementen en proef- en pilootprojecten strikt verboden de persoonsgegevens die zij inlezen door middel van het COVID Safe Ticket, op te slaan of verder te verwerken, behalve de geldigheidsduur van het COVID Safe Ticket.<br>
+<br>
+Het COVID Safe Ticket mag worden gegenereerd voor personen vanaf 12 jaar. Dit betekent echter niet dat personen onder de 12 jaar geen toegang kunnen krijgen tot massa-evenementen of proef- en pilootprojecten. Deze keuze werd enerzijds gemaakt, omdat deze groep niet over een vaccinatiecertificaat kan beschikken. Het Europees Geneesmiddelen Agentschap heeft namelijk een wetenschappelijk onderbouwd advies gepubliceerd waaruit blijkt dat onderzoek aantoont dat het Pfizer vaccin geschikt is voor jongeren vanaf 12 jaar. De Hoge Gezondheidsraad heeft dit vervolgens ook onderzocht en kwam tot dezelfde conclusie. Op basis van deze wetenschappelijke adviezen heeft de Interministeriële Conferentie Volksgezondheid dan de beslissing genomen om vaccinatie vanaf 12 jaar mogelijk te maken. Anderzijds, zal deze groep van personen onder de 12 jaar begeleid worden door hun ouders of andere begeleiders op massa-evenementen of proef- en pilootprojecten. Om de eenheid van het gezin te garanderen, zal de toegang tot het massa-evenement of proef- en pilotproject dan ook niet geweigerd worden voor deze groep op basis van het ontbreken van een COVID Safe Ticket.<br>
+<br>
+Betreffende de COVIDSafe-applicatie en de COVIDScan-applicatie<br>
+<br>
+Door middel van de COVIDScan-applicatie, kan de streepjescode van het digitaal EU-COVID-certificaat of het door de houder gegeneerde COVID Safe Ticket worden gelezen. Dit laat toe de echtheid en geldigheid van de verschillende certificaten te valideren en, desgevallend, het COVID Safe Ticket te genereren.<br>
+<br>
+De COVIDScan-applicatie bestaat uit twee uitvoeringsmodaliteiten:<br>
+1° een module voor de uitoefening van het recht van vrij verkeer binnen de Unie tijdens de COVID-19-pandemie te faciliteren; en<br>
+2° een module voor het lezen en, desgevallend, genereren van het COVID Safe Ticket conform de bepalingen van artikel 12 en 13 van dit samenwerkingsakkoord (CST-module).<br>
+<br>
+Afhankelijk van de technische mogelijkheden kunnen deze twee uitvoeringsmodaliteiten in één of twee afzonderlijke (versies van de (mobiele)applicaties) worden ontwikkeld.<br>
+<br>
+De COVIDScan-applicatie kan vrijwillig door burgers worden gebruikt. Voor de personen die instaan voor de verificatie van het digitaal EU-COVID-certificaat teneinde de uitoefening van het recht van vrij verkeer binnen de Unie tijdens de COVID-19-pandemie te faciliteren en eventuele beperkingen te handhaven en voor de personen die instaan voor de toegangscontrole van een massa-evenement of proef- en pilootproject en het personeel van een bewakingsonderneming of interne bewakingsdienst (in het kader van een massa-evenement of proef- en pilootproject) dient de COVIDScan-app verplicht te worden gebruikt. Buiten deze uitzonderingen, mag het installeren, gebruiken en de-installeren van de COVIDScan-applicatie uitsluitend gebeuren op vrijwillige basis en kan op geen enkele manier aanleiding geven tot enige burgerrechtelijke of strafrechtelijke maatregel, enige discriminatie of enig voor- of nadeel.<br>
+<br>
+Ook het installeren, gebruiken en de-installeren van de COVIDSafe-applicatie gebeurt uitsluitend op vrijwillige basis en kan op geen enkele manier aanleiding geven tot enige burgerrechtelijke of strafrechtelijke maatregel, enige discriminatie of enig voor- of nadeel.<br>
+<br>
+Zo mag een werkgever bijvoorbeeld zijn werknemers niet verplichten om de COVIDScan-applicatie en/of de COVIDSafe-applicatie te installeren. Dit mag op geen enkele wijze geschieden, en aldus ook niet door bepaalde voor- of nadelen te koppelen aan het al dan niet installeren van de COVIDScan-applicatie en/of de COVIDSafe-applicatie. Zo zal het niet toegelaten zijn om een werknemer een bonus te geven voor het installeren van de COVIDScan-applicatie en/of de COVIDSafe-applicatie, een deel van het loon in te houden ten gevolge van het niet installeren ervan, of werknemers de toegang tot de gebouwen te ontzeggen bij niet-gebruik van de COVIDScan-applicatie en/of de COVIDSafe-applicatie.<br>
+<br>
+Leveranciers van goederen en diensten mogen het gebruik of niet-gebruik van de COVIDSafe-applicatie niet linken aan hun goederen of diensten of een voorwaarde maken voor het verkrijgen van hun goederen en/of diensten. Bijvoorbeeld kortingen aanbieden bij gebruik van de COVIDSafe-applicatie, toegang weigeren bij niet-gebruik van de COVIDSafe-applicatie (bioscoop, luchthaven, winkel, openbaar vervoer, taxi, vliegtuig, horeca, enz.).<br>
+<br>
+Het opleggen door een overheid, bedrijf of individu aan een ander individu tot het verplicht installeren, gebruiken en de-installeren van de COVIDScan-applicatie en COVIDSafe-applicatie zal bestraft worden op grond van de gemeenrechtelijke straffen (verbod op discriminerende handelingen, verbod op onrechtmatige gegevensverwerking,...).<br>
+<br>
+De verdere werking van de COVIDScan-applicatie zal worden vastgelegd in een uitvoerend samenwerkingsakkoord.<br>
+<br>
+Betreffende het PLF<br>
+<br>
+Uit de moleculaire surveillance van SARS-COV-2, waarover in het wekelijks epidemiologisch rapport van Sciensano wordt gerapporteerd, blijkt dat varianten vaak België binnenkomen via reizigers uit het buitenland. Deze varianten zijn meestal besmettelijker dan de varianten die reeds aanwezig zijn in België.<br>
+<br>
+Het Ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken bevat momenteel een bepaling op grond waarvan reizigers een PLF-formulier moeten invullen alvorens naar België te reizen. Dit samenwerkingsakkoord zal eveneens van toepassing zijn in geval van eventuele toekomstige besluiten die dezelfde maatregel van bestuurlijke politie bevatten.<br>
+<br>
+Op 24 maart 2021 hebben de Federale Staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie een samenwerkingsakkoord afgesloten betreffende de gegevensoverdracht van noodzakelijke gegevens naar de gefedereerde entiteiten, de lokale overheden of politiediensten met als doel het handhaven van de verplichte quarantaine en testing van de reizigers komende van buitenlandse zones bij wie een quarantaine of testing verplicht is bij aankomst in België. Dit samenwerkingsakkoord beoogt de doorstroming te faciliteren van passagiersgegevens van reizigers afkomstig uit het buitenland, zoals opgenomen in het Passagier Lokalisatie Formulier (hierna: PLF), met het oog op de handhaving door de gefedereerde entiteiten, lokale overheden of politie van de verplichting voor bepaalde van deze reizigers om zich te laten testen op besmetting met COVID-19 en/of om in quarantaine te gaan.<br>
+<br>
+Op 31 mei 2021, hebben de Federale Staat, de Vlaamse Gemeenschap, de Duitstalige Gemeenschap, het Waalse Gewest en de Gemeenschappelijke Gemeenschapscommissie een samenwerkingsakkoord afgesloten betreffende bijzondere verwerkingen van persoonsgegevens met het oog op het opsporen en onderzoeken van clusters en collectiviteiten, met het oog op handhaving van de verplichte quarantaine en testing en met het oog op het toezicht op de naleving door de bevoegde sociaal inspecteurs van de maatregelen om de verspreiding van het coronavirus COVID-19 tegen te gaan op de arbeidsplaatsen. Het samenwerkingsakkoord wil in een juridische basis voorzien voor drie types van verwerking van persoonsgegevens. Een eerste type van verwerking kan gebeuren met het oog op het ondersteunen van het opsporen en onderzoeken van clusters en collectiviteiten, en betreft de verrijking door de Rijksdienst voor Sociale Zekerheid die in de hoedanigheid van verwerker ten behoeve van de bevoegde gefedereerde entiteiten, drie persoonsgegevens uit Gegevensbank I (het INSZ-nummer, de datum van de coronavirus COVID-19-test, de postcode) van Personen Categorie II voor zover de coronavirus COVID-19-test uitwees dat ze besmet zijn, kan verwerken, samenvoegen en vergelijken met identificatie-, contact-, tewerkstellings- en verblijfsgegevens. Twee van deze verwerkingen hebben betrekking op gegevens uit de PLF-gegevensbank. De eerste van deze verwerking wordt uitgevoerd door de Rijksdienst voor Sociale Zekerheid die in de hoedanigheid van verwerker ten behoeve van de bevoegde gefedereerde entiteiten, bepaalde persoonsgegevens afkomstig uit de PLF-gegevensbank van de in het buitenland wonende of verblijvende werknemers en zelfstandigen die werkzaamheden uitoefenen in België, kan verwerken, samenvoegen en vergelijken met identificatie-, contact-, tewerkstellings- en verblijfsgegevens, met het oog op het ondersteunen van het opsporen en onderzoeken van clusters en collectiviteiten en met het oog op het handhaven van de verplichte quarantaine en testing. De tweede verwerking waarbij PLF-gegevens worden gebruikt wordt eveneens uitgevoerd door de Rijksdienst voor Sociale Zekerheid die in de hoedanigheid van verwerkingsverantwoordelijke, een selectie van bepaalde persoonsgegevens uit de PLF-gegevensbank mag verwerken, samenvoegen en vergelijken met identificatie-, contact-, en tewerkstellingsgegevens, met het oog op het toezicht op de arbeidsplaatsen door de sociaal inspecteurs.<br>
+<br>
+De twee bovengenoemde samenwerkingsovereenkomsten regelen dus bepaalde overdrachten en verwerkingen van gegevens uit het PLF. Uit verschillende adviezen van de afdeling Wetgeving van de Raad van State is evenwel gebleken dat er nood is aan een wet of samenwerkingsakkoord waarbij het PLF als `norm' wordt geregeld zodat er een globaal overzicht is van de PLF-gegevens. Er wordt geopteerd voor een samenwerkingsakkoord omdat heel wat van de PLF-gegevens gebruikt worden door de deelstaten. Deze werkwijze is conform aan het legaliteitsbeginsel zoals de Raad van State en de Gegevensbeschermingsautoriteit dit voorhouden. De creatie van dit samenwerkingsakkoord doet geen afbreuk aan de reeds bestaande samenwerkingsakkoorden waarin de overdracht van gegevens wordt geregeld.<br>
+<br>
+De federale overheid is betrokken bij dit samenwerkingsakkoord op grond van haar residuaire bevoegdheden waarbij ze voorwaarden kan opleggen in verband met de toegang tot het grondgebied, zoals het invullen van het PLF voor de afreis naar België en het bij zich houden van dat PLF tijdens de afreis naar België (cfr. ook bovenvermeld advies van de Raad van State n° 68978/VR van 16 maart 2021).<br>
+<br>
+De federale overheid beschikt overigens over bevoegdheden die het haar mogelijk maken de verwerking van gegevens te organiseren in het kader van de strijd tegen de verspreiding van COVID-19. Daartoe kan de federale overheid, in de uitoefening van haar bevoegdheden, een databank oprichten (cfr. advies n° 67.482/3 van 3 juni 2020 over `een amendement op bij het wetsvoorstel `tot oprichting van een databank bij Sciensano in het kader van de strijd tegen de verspreiding van het coronavirus COVID19'). Anderzijds is de samenwerking met de deelstaten in dit akkoord belangrijk omwille van hun bevoegdheden op het vlak van contacttracing en quarantaine en testing.<br>
+<br>
+De afdeling Wetgeving van de Raad van State heeft in haar advies n° 68.936/AG van 7 april 2021 over een voorontwerp van wet `betreffende de maatregelen van bestuurlijke politie tijdens een epidemische noodsituatie' eveneens opgemerkt dat in de strijd tegen een epidemische noodsituatie de federale overheid maatregelen kan nemen in het kader van haar residuaire bevoegdheden inzake de handhaving van de openbare orde, meer bepaald de handhaving van de gezondheid in het openbaar (sanitaire politie), traditioneel gedefinieerd als "de afwezigheid van ziekten of besmettingen" in de publieke ruimten.<br>
+<br>
+De PLF-gegevensbank in zijn geheel vindt zijn oorsprong in het artikel 23 van de International Health Regulations (IHR) van de WGO. De International Health Regulations van de WGO behoren tot het Belgisch positief recht en zijn gepubliceerd in het Belgisch Staatsblad van 18 juni 2007.<br>
+<br>
+Artikel 23 van de International Health Regulations bepaalt :<br>
+"Gezondheidsmaatregelen bij aankomst en vertrek<br>
+1. Met inachtneming van toepasselijke internationale overeenkomsten en relevante artikelen van deze Regeling kan een Staat die Partij is ten behoeve van de volksgezondheid bij aankomst of vertrek het volgende verlangen :<br>
+a) ten aanzien van reizigers:<br>
+i) informatie betreffende de bestemming van de reiziger zodat met hem of haar contact kan worden opgenomen;<br>
+ii) informatie betreffende de reisroute van de reiziger teneinde vast te stellen of deze in of in de nabijheid van een getroffen gebied heeft gereisd of mogelijk andere contacten met een infectie- of besmettingsbron heeft gehad voorafgaande aan de aankomst, alsmede controle van de gezondheidsdocumenten van de reiziger indien deze ingevolge deze Regeling vereist zijn".<br>
+<br>
+Voor de uitvoering daarvan is binnen de WGO een standaarddocument uitgewerkt: de Passenger Locator Form. Het PLF is op dat model gebaseerd. Het PLF wordt in een breder kader gebruikt dan enkel bij COVID-19. Het is een middel voorgeschreven door de WGO om in het kader van epidemieën of pandemieën voldoende informatie te hebben om de verspreiding via reizigers te kunnen beperken.<br>
+<br>
+Daarnaast beveelt de Raad van de Europese Unie ook aan dat ten behoeve van de opsporing van contacten het PLF-instrument ook zou worden gebruikt om gegevens uit te wisselen over gevallen van COVID-19 die bij aankomst van een persoon op het grondgebied van een lidstaat worden ontdekt. Deze uitwisseling gebeurt in het kader van het systeem voor vroegtijdige waarschuwing en reactie (EWRS), dat is ingesteld bij artikel 8 van Besluit nr. 1082/2013/EU en door het Europees Centrum voor ziektepreventie en-bestrijding (ECDC) wordt geëxploiteerd (cfr. de Aanbeveling (EU) 2020/1475 van de Raad van 13 oktober 2020 betreffende een gecoördineerde aanpak van de beperking van het vrije verkeer in reactie op de COVID-19-pandemie, paragraaf 23). Aangezien de huidige technische EWRS-infrastructuur nog niet afgesteld is om het volume PLF-gegevens dat wordt gegenereerd door het systematische en grootschalige gebruik van PLF's, te verwerken, heeft de Europese Commissie beslist om een technische infrastructuur - het PLF-uitwisselingsplatform - op te zetten om een veilige, tijdige en doeltreffende uitwisseling van gegevens tussen de voor het EWRS bevoegde autoriteiten van de lidstaten mogelijk te maken. De doorstroming van informatie gebeurt op interoperabele en automatische wijze uit de bestaande nationale digitale PLF-systemen aan andere voor het EWRS bevoegde autoriteiten (cfr. Uitvoeringsbesluit (EU) 2021/858 van de Commissie van 27 mei 2021 tot wijziging van Uitvoeringsbesluit (EU) 2017/253 wat betreft alarmmeldingen als gevolg van ernstige grensoverschrijdende bedreigingen van de gezondheid en voor de opsporing van contacten van passagiers die zijn geïdentificeerd met behulp van traceringsformulieren voor passagiers). Zodoende wenst de Europese Commissie dat de Europese lidstaten via hun nationale PLF's een gemeenschappelijk minimumpakket van PLF-gegevens verzamelen voor een doeltreffende grensoverschrijdende tracing van contacten op basis van PLF-gegevens.<br>
+<br>
+De afdeling Wetgeving van de Raad van State heeft er in haar advies n° 69.336/VR van 17 mei 2021, verwijzend naar advies n° 68.936/AG van 7 april 2021, aan herinnerd dat de essentiële elementen in verband met de gegevensverwerking waarvan er vijf zijn, hetzij in een federale wet, hetzij in een samenwerkingsakkoord waaraan instemming wordt verleend, moeten worden vastgesteld (cfr. punt 6):<br>
+"Krachtens artikel 22 van de Grondwet geldt voor elke verwerking van persoonsgegevens en, meer in het algemeen, voor elke schending van het recht op het privéleven, dat het formeel legaliteitsbeginsel dient te worden nageleefd.<br>
+<br>
+Doordat artikel 22 van de Grondwet aan de bevoegde wetgever de bevoegdheid voorbehoudt om vast te stellen in welke gevallen en onder welke voorwaarden afbreuk kan worden gedaan aan het recht op eerbiediging van het privéleven, waarborgt het aan elke burger dat geen enkele inmenging in dat recht kan plaatsvinden dan krachtens regels die zijn aangenomen door een democratisch verkozen beraadslagende vergadering. Een delegatie aan een andere macht is evenwel niet in strijd met het wettelijkheidsbeginsel voor zover de machtiging voldoende nauwkeurig is omschreven en betrekking heeft op de tenuitvoerlegging van maatregelen waarvan de `essentiële elementen' voorafgaandelijk door de wetgever vastgesteld zijn.<br>
+<br>
+Bijgevolg moeten de `essentiële elementen' van de verwerking van persoonsgegevens in de wet zelf worden vastgelegd. In dat verband is de afdeling Wetgeving van oordeel dat ongeacht de aard van de betrokken aangelegenheid, de volgende elementen in beginsel `essentiële elementen' uitmaken: 1° ) de categorie van verwerkte gegevens; 2° ) de categorie van betrokken personen; 3° ) de met de verwerking nagestreefde doelstelling; 4° ) de categorie van personen die toegang hebben tot de verwerkte gegevens; en 5° ) de maximumtermijn voor het bewaren van de gegevens (cfr. advies van de afdeling Wetgeving van de Raad van State n° 69.336/VR van 17 mei 2021 over een voorontwerp van wet `houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, de Vlaamse Gemeenschap, de Duitstalige Gemeenschap, het Waalse Gewest en de Gemeenschappelijke Gemeenschapscommissie betreffende bijzondere verwerkingen van persoonsgegevens met het oog op het opsporen en onderzoeken van clusters en collectiviteiten, met het oog op de handhaving van de verplichte quarantaine en testing en met het oog op het toezicht op de naleving door de bevoegde sociaal inspecteurs van de maatregelen om de verspreiding van het coronavirus COVID-19 tegen te gaan op de arbeidsplaatsen').<br>
+<br>
+Verwerking van persoonsgegevens van in het buitenland wonende of verblijvende werknemers en zelfstandigen die activiteiten uitvoeren in België<br>
+<br>
+De bepalingen van deze titel beogen een duurzaam juridisch kader te voorzien voor de verwerking van persoonsgegevens van de in het buitenland wonende of verblijvende werknemers en zelfstandigen die activiteiten uitoefenen in België, met respect voor het legaliteitsbeginsel en rechtszekerheidsbeginsel in de vorm van een samenwerkingsakkoord. Deze verwerkingen zijn sedert eind december 2020 - midden januari 2021 tot heden voorzien bij artikel 3 van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. De bewoordingen van kwestieuze bepalingen werden grotendeels hernomen, met dien verstande dat enkele elementen werden gepreciseerd en verfijnd.<br>
+<br>
+Wat de bevoegdheden betreft, is het centrale uitgangspunt dat elke overheid verantwoordelijk is voor de bestrijding van een volksgezondheidscrisis binnen de grenzen van haar eigen materiële bevoegdheden.<br>
+<br>
+De mogelijke bestemmelingen van de persoonsgegevens verwerkt in uitvoering van deze Titel betreffen zowel de gefedereerde actoren bevoegd inzake contactonderzoek, als de federale sociaal inspecteurs die bevoegd zijn voor het toezicht op de naleving van de maatregelen om de verspreiding van het coronavirus COVID-19 te beperken.<br>
+<br>
+Wat het contactonderzoek betreft, zijn de gemeenschappen en het Waals gewest bevoegd voor de opsporing en de strijd tegen de besmettelijke en sociale ziekten als een onderdeel van hun bevoegdheden inzake preventieve gezondheidszorg (art. 5, § 1, 1, eerste lid, 8° BWHI).<br>
+<br>
+Voor wat betreft het toezicht door de bevoegde sociaal inspecteurs op de naleving van de maatregelen om de verspreiding van het coronavirus COVID-19 tegen te gaan op de arbeidsplaatsen, wordt voor de relevante federale bevoegdheden in het bijzonder verwezen naar artikel 17, § 2, en artikel 238 van het Sociaal Strafwetboek.<br>
+<br>
+Deze titel regelt derhalve aangelegenheden die zowel tot de bevoegdheden van de federale staat als tot de bevoegdheden van de gefedereerde entiteiten behoren.<br>
+<br>
+De categorieën van betrokkenen wiens persoonsgegevens worden verwerkt betreffen de in het buitenland wonende of verblijvende werknemers en zelfstandigen die werkzaamheden uitoefenen in België. Deze categorie van personen verplaatst zich in het algemeen meer naar het buitenland (grotendeels verplaatsingen naar hun thuisland) en verblijft soms in omstandigheden die een potentieel gezondheidsrisico kunnen vormen. De bevoegde gefedereerde entiteiten beschikken bovendien in het algemeen over minder kwalitatieve contactgegevens van deze categorie van personen. Deze omstandigheden maken dat bijzondere aandacht wordt besteed aan deze categorie van betrokkenen in de strijd tegen de verspreiding van het coronavirus COVID-19.
+
 ### Artikelsgewijze toelichting
 
 ARTIKELSGEWIJZE TOELICHTING<br>
@@ -236,17 +432,250 @@ WORDT HET VOLGENDE OVEREENGEKOMEN:
 
 ## Titel I: Algemeen
 
+### ART 1.
+
+§ 1. Voor de toepassing van dit samenwerkingsakkoord wordt verstaan onder:<br>
+1° samenwerkingsakkoord: een samenwerkingsakkoord zoals bedoeld in artikel 92bis van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
+2° het samenwerkingsakkoord van 25 augustus 2020: het samenwerkingsakkoord van 25 augustus 2020 tussen de Federale staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de gezamenlijke gegevensverwerking door Sciensano en de door de bevoegde gefedereerde entiteiten of door de bevoegde agentschappen aangeduide contactcentra, gezondheidsinspecties en mobiele teams in het kader van een contactonderzoek bij personen die (vermoedelijk) met het coronavirus COVID-19 besmet zijn op basis van een gegevensbank bij Sciensano;<br>
+3° het samenwerkingsakkoord van 12 maart 2021: het samenwerkingsakkoord van 12 maart 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot vaccinaties tegen COVID-19;<br>
+4° COVID Safe Ticket: het resultaat van de lezing van het digitaal EU-COVID-certificaat middels de applicatie bedoeld in artikel 17 teneinde de toegang tot een proef- en pilootproject of massa-evenement in de context van de COVID-19-pandemie te regelen;<br>
+5° vaccinatiecertificaat: een certificaat met de bevestiging en datum van de aan de houder toegediende vaccinatie tegen COVID-19;<br>
+6° testcertificaat: een certificaat met het resultaat en de datum van de door de houder ondergane coronavirus COVID-19 test;<br>
+7° herstelcertificaat: een certificaat met de bevestiging dat de houder is hersteld van een coronavirus COVID-19 infectie na een coronavirus COVID-19 test die uitwees dat de houder besmet was en waarbij de coronavirus COVID-19 test niet ouder is dan 180 dagen, waarna het herstelcertificaat ten vroegste op de elfde dag nadat de betrokkene het resultaat op de coronavirus COVID-19 test heeft ontvangen, kan worden verleend;<br>
+8° het agentschap Digitaal Vlaanderen: het agentschap Digitaal Vlaanderen, opgericht bij besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen;<br>
+9° Vaccinnet: het registratiesysteem bedoeld in artikel 9 van het besluit van de Vlaamse Regering van 16 mei 2014 houdende diverse bepalingen ter uitvoering van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid en tot wijziging van uitvoeringsbesluiten van dit decreet;<br>
+10° e-Health Platform: een openbare instelling van sociale zekerheid in de zin van het koninklijk besluit van 3 april 1997 houdende maatregelen met het oog op de responsabilisering van de openbare instellingen van sociale zekerheid, met toepassing van artikel 47 van de wet van 26 juli 1996 tot modernisering van de sociale zekerheid en tot vrijwaring van de leefbaarheid van de wettelijke pensioenstelsels, vermeld in de wet van 21 augustus 2008 houdende oprichting en organisatie van het eHealth-platform en diverse bepalingen.<br>
+11° massa-evenement: een evenement van een zekere omvang dat plaatsvindt overeenkomstig de bijzondere modaliteiten betreffende hun organisatie en de te nemen veiligheidsmaatregelen zoals bepaald in het geldende besluit houdende de maatregelen van bestuurlijke politie om de verspreiding van het coronavirus COVID-19 te beperken en waarbij de toegang zal worden geregeld op grond van een COVID Safe Ticket of op grond van bijkomende maatregelen;<br>
+12° proef- en pilootproject: een activiteit met een bepaalde risicograad waarbij wordt afgeweken van de regels bepaald in het geldende besluit houdende de maatregelen van bestuurlijke politie om de verspreiding van het coronavirus COVID-19 te beperken, die bijdraagt tot het oefenen van modaliteiten en protocollen en die een onderzoeksgericht experiment uitmaakt om bijkomende kennis te verwerven over veilige modaliteiten en besmettingsrisico's bij een gelijkaardige activiteit en waarbij de toegang zal worden geregeld op grond van een COVID Safe Ticket of op grond van bijkomende maatregelen;<br>
+13° COVIDSafe-applicatie: de applicatie met als doel om de houder van een vaccinatie-, test- en/of herstelcertificaat toe te laten een certificaat op te vragen en te tonen aan de hand van een streepjescode;<br>
+14° COVIDScan-applicatie: de applicatie die toelaat om via het scannen van de streepjescode van het digitaal EU-COVID-certificaat de echtheid en de geldigheid van een vaccinatie-, test- en/of herstelcertificaat te valideren en het COVID Safe Ticket te lezen en, desgevallend, te generen ;<br>
+15° CST-module: de uitvoeringsmodaliteit van de COVIDScan-applicatie om het COVID Safe Ticket te genereren.<br>
+16° Rijksregister: het Rijksregister van de natuurlijke personen bedoeld in de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen;<br>
+17° Algemene Verordening Gegevensbescherming: de Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG;<br>
+18° Verordening digitaal EU-COVID-certificaat: Verordening (EU) 2021/953 van het Europees Parlement en de Raad van 14 juni 2021 betreffende een kader voor de afgifte, verificatie en aanvaarding van interoperabele vaccinatie-, test- en herstelcertificaten teneinde het vrije verkeer tijdens de COVID-19-pandemie te faciliteren;<br>
+19° Verordening digitaal EU-COVID-certificaat voor onderdanen derde landen: Verordening (EU) 2021/954 van het Europees Parlement en de Raad van 14 juni 2021 betreffende een kader voor de afgifte, verificatie en aanvaarding van interoperabele COVID19-vaccinatie-, test- en herstelcertificaten (digitaal EU-COVID-certificaat) ten aanzien van onderdanen van derde landen die legaal op het grondgebied van de staten verblijven of wonen tijdens de COVID-19-pandemie;<br>
+20° identiteitsbewijs: een officieel document dat biometrische gegevens bevat, uitgereikt door een officiële instantie waarmee een natuurlijk persoon zijn identiteit kan bewijzen.<br>
+<br>
+§ 2. Voor de toepassing van dit samenwerkingsakkoord wordt overeenkomstig Verordening digitaal EU-COVID-certificaat verstaan onder:<br>
+1° houder: een persoon aan wie overeenkomstig Verordening digitaal EU-COVID-certificaat een interoperabel certificaat is afgegeven dat informatie bevat over zijn of haar COVID-19-vaccinatie, -testresultaat of -herstel;<br>
+2° digitaal EU-COVID-certificaat: een interoperabel certificaat op een papieren drager of een digitale drager met informatie over de vaccinatie-, test- en/of herstelstatus van de houder, afgegeven in de context van de COVID-19-pandemie;<br>
+3° NAAT-test: een moleculaire nucleïnezuuramplificatietest, op basis van technieken zoals reverse transcription polymerase chain reaction (RT-PCR), loop-mediated isothermal amplification (LAMP) en transcription-mediated amplification (TMA), die wordt gebruikt om de aanwezigheid van het ribonucleïnezuur (RNA) van SARS-CoV-2 te detecteren;<br>
+4° streepjescode: een methode voor het opslaan en weergeven van gegevens in een visueel machine leesbaar formaat;<br>
+5° unieke certificaatidentificatiecode: een unieke identificatiecode die overeenkomstig een gemeenschappelijke structuur aan elk overeenkomstig Verordening digitaal EU-COVID-certificaat afgegeven certificaat wordt toegekend;<br>
+6° erkende snelle antigeentest: een snelle antigeentest die voorkomt op de lijst opgenomen in de Aanbeveling 1475 van de Europese Raad betreffende een gemeenschappelijk kader voor het gebruik en de validering van snelle antigeentests en de wederzijdse erkenning van COVID-19-testresultaten in de EU en de Beslissing van de Europese Commissie van 17 februari 2021 waarin een lijst wordt opgenomen van de erkende snelle antigeentesten;<br>
+7° snelle antigeentest: ook wel RAT genoemd, een test die berust op de detectie van virale eiwitten (antigenen) met behulp van een lateral flow immunoassay die resultaten geeft in minder dan 30 minuten.
+
+### ART 2.
+
+§ 1. Dit samenwerkingsakkoord voorziet in de rechtsgrond voor de verwerking van persoonsgegevens, die nodig zijn voor:<br>
+1° de gegevensstromen met betrekking tot de opmaak en de afgifte van de vaccinatie-, test- en herstelcertificaten voor de opmaak en afgifte van het digitaal EU-COVID-certificaat;<br>
+2° de opmaak en afgifte van het digitaal EU-COVID-certificaat teneinde het vrije verkeer tijdens de COVID-19-pandemie te faciliteren voor de periode van 16 juni tot 30 juni 2021;<br>
+3° het generen van het COVID Safe Ticket op basis van het digitaal EU-COVID-certificaat.<br>
+<br>
+§ 2. Dit samenwerkingsakkoord bevat tevens een aantal aanvullende bepalingen inzake de verwerking van PLF-gegevens (zie Titel VIII) en regelt tevens de verwerking van persoonsgegevens van in het buitenland wonende of verblijvende werknemers en zelfstandigen die activiteiten uitvoeren in België (zie Titel IX).<br>
+<br>
+§ 3. De partijen treffen, ieder binnen hun bevoegdheidssfeer, de maatregelen die vereist zijn om de bepalingen van dit samenwerkingsakkoord uit te voeren en om de bestaande Gemeenschaps-, Gewest- en federale initiatieven hiermee in overeenstemming te brengen.
+
 ## Titel II: Vaccinatie-, test- en herstelcertificaten en de onderliggende gegevensstromen
+
+### ART 3.
+
+§ 1. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat en overeenkomstig artikel 3, § 1 van die verordening, maakt het digitaal EU- COVID-certificaat de afgifte, de grensoverschrijdende verificatie en aanvaarding van de volgende certificaten mogelijk:<br>
+1° vaccinatiecertificaat;<br>
+2° testcertificaat;<br>
+3° herstelcertificaat;<br>
+<br>
+§ 2. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat en overeenkomstig artikel 3, § 2 van die verordening, worden de in § 1 bedoelde certificaten afgegeven in een beveiligd en interoperabel formaat, in digitale vorm, middels de COVIDSafe-applicatie en/of op papier en bevatten een streepjescode en naam aan de hand waarvan de echtheid, geldigheid en integriteit van het certificaat kunnen worden geverifieerd. De aspirant-houders hebben het recht de certificaten te ontvangen in de vorm van hun keuze. De informatie in de certificaten wordt ook in voor mensen leesbare vorm weergegeven. De streepjescode voldoet aan de technische specificaties zoals bepaald in een uitvoerend samenwerkingsakkoord.<br>
+<br>
+§ 3. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat en overeenkomstig artikel 3, § 4 van die verordening, worden de in § 1 bedoelde certificaten kosteloos verstrekt. De houder heeft het recht te verzoeken om afgifte van een nieuw certificaat indien de persoonsgegevens in het certificaat niet of niet meer nauwkeurig of actueel zijn, of indien de houder niet meer over het certificaat beschikt.<br>
+<br>
+§ 4. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat en overeenkomstig artikel 3, § 5 van die verordening, wordt op de in § 1 bedoelde certificaten de volgende tekst aangebracht:<br>
+"Dit certificaat is geen reisdocument. Het wetenschappelijk bewijs met betrekking tot COVID-19-vaccinaties, -tests en -herstel blijft zich verder ontwikkelen, ook met betrekking tot nieuwe zorgwekkende varianten. Gelieve alvorens een reis te maken, te controleren welke volksgezondheidsmaatregelen en bijbehorende beperkingen op de plaats van bestemming van toepassing zijn.".<br>
+<br>
+§ 5. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat en overeenkomstig artikel 3, § 6 van die verordening, is het bezit van de in § 1 bedoelde certificaten is geen voorwaarde voor het uitoefenen van het recht van vrij verkeer.<br>
+<br>
+§ 6. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat en overeenkomstig artikel 3, § 7 van die verordening, leidt de afgifte van de certificaten op grond van § 1 van dit artikel niet tot discriminatie op basis van het bezit van een specifieke categorie certificaten als bedoeld in artikel 9, §§ 1, 2 en 3.<br>
+<br>
+§ 7. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat en overeenkomstig artikel 3, § 8 van die verordening, doet de afgifte van de in § 1 bedoelde certificaten geen afbreuk aan de geldigheid van andere vaccinatie-, testresultaat- of herstelbewijzen die vóór 16 juni 2021 of voor andere -met name medische - doeleinden zijn afgegeven.
+
+### ART 4.
+
+De bevoegde gefedereerde entiteiten of de door de bevoegde gefedereerde entiteiten aangeduide agentschappen, vermeld in artikel 7, § 1, tweede lid, 1° tot en met 6°, van het samenwerkingsakkoord van 12 maart 2021, zijn verantwoordelijk voor de opmaak en afgifte van de vaccinatiecertificaten, zoals bedoeld in artikel 1, § 1, 5° van dit samenwerkingsakkoord.
+
+### ART 5.
+
+Sciensano, vermeld in artikel 2, § 4, van het samenwerkingsakkoord van 25 augustus 2020, is de instantie verantwoordelijk voor de opmaak en afgifte van de test- en herstelcertificaten, zoals bedoeld in artikel 1, § 1, 6° en 7° van dit samenwerkingsakkoord.
+
+### ART 6.
+
+§ 1. Het agentschap Digitaal Vlaanderen wordt ermee belast de operationele diensten te leveren ter uitvoering van dit samenwerkingsakkoord teneinde de entiteiten, vermeld in artikel 4 en 5, in staat te stellen de certificaten af te geven zoals bedoeld in artikel 1, § 1, 5° tem 7°, af te geven, waarbij het agentschap Digitaal Vlaanderen optreedt als verwerker.<br>
+<br>
+§ 2. Het agentschap Digitaal Vlaanderen wordt op vraag van het e-Health-platform, ermee belast de operationele diensten te leveren voor de ontwikkeling van de COVIDSafe-applicatie en de COVIDScan-applicatie, vermeld in artikel 17 van dit samenwerkingsakkoord, aan de hand waarvan de respectieve certificaten digitaal leesbaar zijn conform dit samenwerkingsakkoord, waarbij het agentschap Digitaal Vlaanderen optreedt als onderaannemer en verwerker. Het agentschap Digitaal Vlaanderen beslist noch over welke toepassing ter beschikking wordt gesteld aan de burger, noch over de modaliteiten en het tijdstip van de de-activering van de COVIDSafe- en COVIDScan-applicatie. Het agentschap Digitaal Vlaanderen handelt enkel op instructies van het e-Health-platform.<br>
+<br>
+§ 3. De Vlaamse Gemeenschap kan als aankoopcentrale in de zin van artikel 2, 6°, a), van de wet van 17 juni 2016 inzake overheidsopdrachten gecentraliseerde aankoopactiviteiten en aanvullende aankoopactiviteiten verrichten die bestemd zijn voor de partijen bij dit samenwerkingsakkoord en dienen voor de operationele uitvoering van de opdrachten, vermeld in §§ 1 en 2.
+
+### ART 7.
+
+§ 1. In afwachting van de inwerkingtreding van de verordening EU Digitaal COVID Certificaat en voor de periode van 16 juni tot en met 30 juni 2021, geven de entiteiten, vermeld in artikel 4 en 5, aan het agentschap Digitaal Vlaanderen de opdracht om de betrokkene inzage en toegang te geven in een officiële vorm tot zijn vaccinatiegegevens, vermeld in artikel 3, § 2, van het samenwerkingsakkoord van 12 maart 2021, en testgegevens, vermeld in artikel 6 van het samenwerkingsakkoord van 25 augustus 2020.<br>
+<br>
+§ 2. De Vlaamse Gemeenschap kan als aankoopcentrale in de zin van artikel 2, 6°, a), van de wet van 17 juni 2016 inzake overheidsopdrachten gecentraliseerde aankoopactiviteiten en aanvullende aankoopactiviteiten verrichten die bestemd zijn voor de partijen bij dit samenwerkingsakkoord en dienen voor de operationele uitvoering van de opdrachten, vermeld in § 1.
+
+### ART 8.
+
+§ 1. De verwerking en de gegevensstromen van de persoonsgegevens bedoeld in artikel 9, §§ 1, 2 en 3 beoogt in het kader van het digitaal EU-COVID-certificaat de opmaak en afgifte van de vaccinatie-, test- en/of herstelcertificaten met het oog op de opmaak en afgifte van het digitaal EU-COVID-certificaat tussen de periode van 16 juni 2021 tot de buitenwerkingtreding van dit samenwerkingsakkoord.<br>
+<br>
+§ 2. De in dit artikel opgenomen verwerkingsdoeleinden en gegevensstromen zijn niet enkel van toepassing op Belgische onderdanen maar tevens op onderdanen van de Europese Unie en onderdanen van derde landen die legaal op het Belgische grondgebied verblijven of wonen.<br>
+<br>
+§ 3. Teneinde de door de bevoegde gefedereerde entiteiten of door de agentschappen aangeduide contactcentra vragen van houders van de test- en herstelcertificaten te laten beantwoorden, zullen de medewerkers van de door de bevoegde gefedereerde entiteiten of door de agentschappen aangeduide contactcentra kunnen verifiëren of er voor een houder een test-of herstelcertificaat voorhanden is en of dit test-of herstelcertificaat reeds aan de houder werd bezorgd conform de in dit samenwerkingsakkoord benoemde modaliteiten. Deze paragraaf doet geen afbreuk aan de afspraken met betrekking tot de helpdeskfuncties.
+
+### ART 9.
+
+§ 1. Overeenkomstig artikel 5, § 2 van de Verordening digitaal EU-COVID-certificaat, bevat een vaccinatiecertificaat zoals bedoeld in artikel 1, § 1, 5°, de volgende categorieën van persoonsgegevens van de houders ervan:<br>
+1° identiteit van de houder;<br>
+2° informatie over het aan de houder toegediende COVID-19-vaccin en over het aantal toegediende doses;<br>
+3° metagegevens van het certificaat, zoals de afgever van het certificaat of een unieke certificaatidentificatiecode.<br>
+<br>
+§ 2. Overeenkomstig artikel 6, § 2 van de Verordening digitaal EU-COVID-certificaat bevat een testcertificaat zoals bedoeld in artikel 1, § 1, 6°, de volgende categorieën van persoonsgegevens van de houders ervan:<br>
+1° de identiteit van de houder;<br>
+2° informatie over de erkende NAAT-test of de erkende snelle antigeentest die de houder heeft ondergaan;<br>
+3° metagegevens van het certificaat, zoals de afgever van het certificaat of een unieke certificaatidentificatiecode.<br>
+<br>
+§ 3. Overeenkomstig artikel 7, § 2 van de Verordening digitaal EU-COVID-certificaat bevat een herstelcertificaat zoals bedoeld in artikel 1, § 1, 7°, de volgende categorieën van persoonsgegevens van de houders ervan:<br>
+1° de identiteit van de houder;<br>
+2° informatie over de voorbije SARS-CoV-2-infectie van de houder na een positief testresultaat, dat evenwel niet ouder is dan 180 dagen;<br>
+3° metagegevens van het certificaat, zoals de afgever van het certificaat of een unieke certificaatidentificatiecode.<br>
+<br>
+§ 4. Teneinde de in artikel 8, § 3, genoemde doeleinden te bereiken, hebben medewerkers van de door de bevoegde gefedereerde entiteiten of door de agentschappen aangeduide contactcentra toegang tot en mogen zij de volgende gegevens verwerken tussen de periode van 16 juni 2021 tot de datum van de buitenwerkingtreding van dit samenwerkingsakkoord:<br>
+1° het bestaan van een test-of herstelcertificaat;<br>
+2° het feit of een test-of herstelcertificaat werd bezorgd.<br>
+<br>
+§ 5. Overeenkomstig artikel 5, § 3 van de Verordening digitaal EU-COVID-certificaat wordt het vaccinatiecertificaat na de toediening van elke dosis afgegeven in een beveiligd en interoperabel formaat in overeenstemming met artikel 3, § 2, en vermeldt duidelijk of de vaccinatiecyclus al dan niet voltooid is.
 
 ## Titel III: Opmaken, afgeven, verifiëren van het digitaal EU-COVID-certificaat
 
+### ART 10.
+
+§ 1. Overeenkomstig artikel 3, § 1 van de Verordening digitaal EU-COVID-certificaat, beoogt de verwerking van de persoonsgegevens bedoeld in artikel 11, § 1 de opmaak, de afgifte en verificatie van het digitaal EU-COVID-certificaat met het oog op de toegang tot en de verificatie van de in het certificaat opgenomen informatie, teneinde de uitoefening van het recht van vrij verkeer binnen de Unie tijdens de COVID-19-pandemie te faciliteren.<br>
+<br>
+§ 2. Met uitzondering van hetgeen bepaald in artikel 12 van dit samenwerkingsakkoord, worden de categorieën van persoonsgegevens in de certificaten, zoals bepaald in artikel 1, § 1, 5°, 6° en 7° en artikel 1, § 2, 2°, van dit samenwerkingsakkoord en overeenkomstig artikel 10, § 2 van de Verordening digitaal EU-COVID-certificaat uitsluitend verwerkt met het oog op de toegang tot en de verificatie van de in het certificaat opgenomen informatie, teneinde de uitoefening van het recht van vrij verkeer binnen de Unie tijdens de COVID-19-pandemie te faciliteren.<br>
+<br>
+§ 3. Overeenkomstig artikel 1 van de Verordening digitaal EU-COVID-certificaat voor onderdanen derde landen, zijn de in dit artikel opgenomen verwerkingsdoeleinden niet enkel van toepassing op onderdanen van de Unie maar tevens op onderdanen van derde landen die legaal op het grondgebied van een lidstaat van de EU verblijven of wonen en overeenkomstig het Unierecht het recht hebben naar andere landen te reizen.<br>
+<br>
+§ 4. De desgevallende verificatie teneinde de uitoefening van het recht van vrij verkeer binnen de Unie tijdens de COVID-19-pandemie te faciliteren en eventuele beperkingen te handhaven, gebeurt door de politiediensten bedoeld in artikel 3, 7°, van de wet op het politieambt en de exploitanten van grensoverschrijdende personenvervoersdiensten en vervoersinfrastructuur, bedoeld in artikel 3, 9 van de Verordening digitaal EU-COVID-certificaat.
+
+### ART 11.
+
+§ 1. Met het oog op de verificatie en voor het opmaken en afgeven van het digitaal EU-COVID-certificaat aan de houders van een vaccinatiecertificaat, testcertificaat of herstelcertificaat, worden de volgende categorieën van persoonsgegevens verwerkt:<br>
+1° de categorieën van persoonsgegevens in artikel 9, §§ 1, 2 of 3;<br>
+2° het identificatienummer bedoeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid; en<br>
+3° de hoofdverblijfplaats, bedoeld in artikel 3, eerste lid, 5°, van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen.<br>
+<br>
+§ 2. De categorieën van persoonsgegevens vermeld in § 1 worden bekomen vanuit de volgende gegevensbanken:<br>
+1° het Rijksregister: voor wat betreft de hoofdverblijfplaats bedoeld in § 1, 3°, op basis van het identificatienummer bedoeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2° Vaccinnet: voor wat betreft het identificatienummer bedoeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid en de categorieën van persoonsgegevens in het vaccinatiecertificaat, omschreven in artikel 9, § 1;<br>
+3° Gegevensbank I opgericht door het samenwerkingsakkoord van 25 augustus 2020: voor wat betreft het identificatienummer bedoeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid en de categorieën van persoonsgegevens in het testcertificaat en herstelcertificaat, omschreven in artikel 9, §§ 2 en 3.<br>
+<br>
+§ 3. Voor zover noodzakelijk voor het opmaken en afgeven van het digitaal EU-COVID-certificaat bedoeld in artikel 1, § 2, 2°, aan de houders van een vaccinatiecertificaat, testcertificaat of herstelcertificaat, hebben de verwerkingsverantwoordelijken, voor de uitoefening van hun wettelijke opdrachten in dit samenwerkingsakkoordakkoord bepaald, toegang tot de gegevens bedoeld in artikel 3, eerste lid, 1° en 5° en tweede lid en de geboortedatum bedoeld in artikel 3, eerste lid, 2°, van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen, onder voorbehoud van het verkrijgen van een machtiging bedoeld in artikel 5, zelfde wet.<br>
+<br>
+§ 4. In afwijking van artikel 3, § 1, van het samenwerkingsakkoord van 25 augustus 2020 en artikel 4, § 2, van het samenwerkingsakkoord van 12 maart 2021, mogen de persoonsgegevens bedoeld in § 1, voor het in artikel 10 bedoelde verwerkingsdoeleinde worden verwerkt door de verwerkingsverantwoordelijken, voor de uitoefening van hun wettelijke opdrachten in dit samenwerkingsakkoordakkoord bepaald, de gefedereerde entiteiten en Sciensano.
+
 ## Titel IV: COVID Safe Ticket
+
+### ART 12.
+
+§ 1. In afwijking van hetgeen bepaald in artikel 10, beoogt, voor wat betreft de bezoekers van massa-evenementen of proef-en pilootprojecten, de verwerking van persoonsgegevens van het digitaal EU-COVID-certificaat het lezen en, desgevallend, het genereren van het COVID Safe Ticket middels de CST-module van de COVIDScan-applicatie, teneinde het volgende te controleren en verifiëren:<br>
+het feit of de houder van het digitaal EU-COVID-certificaat voldoet aan de voorwaarden om toegang te verkrijgen tot een massa-evenement of proef- en pilootproject;<br>
+aan de hand van een identiteitsbewijs, de identiteit van de houder van een digitaal EU-COVID-certificaat.<br>
+<br>
+Het COVID Safe Ticket kan ofwel door de gebruiker gegeneerd worden op de COVIDSafe-applicatie, ofwel op de COVIDScan-applicatie door het digitaal EU-COVID-certificaat te lezen.<br>
+<br>
+§ 2. De organisatoren, bij hoofde van de personen bedoeld in artikel 13, § 3 van dit samenwerkingsakkoord, zijn verplicht om ofwel (i) het digitaal EU-COVID-certificaat in digitale vorm of op papier ofwel (ii) het door de gebruiker gegenereerde COVID Safe Ticket op de COVIDSafe-applicatie in te lezen. Het lezen en, desgevallend, het generen van het COVID Safe Ticket middels de COVIDScan-applicatie dient voor de verwerkingsdoeleinden bepaald in artikel 12 en 13 van dit samenwerkingsakkoord verplicht te gebeuren middels de CST-module van deze applicatie. Indien het resultaat van de lezing in § 1 negatief is of de identiteit van de houder niet kan worden geverifieerd of bevestigd, dient men de houder de toegang tot het massa-evenement of proef- en pilootproject te weigeren; tenzij de houder bijkomende maatregelen ondergaat zoals bepaald in een uitvoerend samenwerkingsakkoord zoals bedoeld bij artikel 92bis, § 1, derde lid, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en voor zover deze voorzien zijn door de organisator van deze evenementen.<br>
+<br>
+§ 3. Met uitzondering van hetgeen bepaald in artikel 10 van dit samenwerkingsakkoord, worden de categorieën van persoonsgegevens in de certificaten, zoals bepaald in artikel 1, § 1, 5°, 6° en 7° en § 2, 2° van dit samenwerkingsakkoord, uitsluitend verwerkt met het oog op het regelen van de toegang tot proef-en pilootprojecten en massa-evenementen en de verificatie van de op het COVID Safe Ticket getoonde gegevens. Na het einde van de toepassingsduur zoals bepaald in dit samenwerkingsakkoord, conform artikel 33, § 1, 3° van dit samenwerkingsakkoord worden de gegevens niet langer verwerkt.<br>
+<br>
+§ 4. De verwerking waarbij het digitaal EU-COVID-certificaat of het door de houder gegenereerde COVID Safe Ticket wordt gelezen teneinde de toegang tot massa-evenementen en proef-en pilootprojecten te regelen is maar rechtmatig voor houders van een digitaal EU-COVID-certificaat met de leeftijd van 12 en ouder, zonder dat hierdoor de toegang tot het massa-evenement of proef-en pilootproject kan worden ontzegd aan personen onder de 12 jaar.
+
+### ART 13.
+
+§ 1. Voor het genereren van COVID Safe Ticket worden de categorieën persoonsgegevens van het digitaal EU-COVID-certificaat verwerkt.<br>
+<br>
+§ 2. Het COVID Safe Ticket bevat en geeft slechts volgende gegevens weer:<br>
+1° de aanduiding of de houder, in zijn hoedanigheid van bezoeker van een massa-evenement of een proef-of pilootproject, de toegang tot het massa-evenement of proef- en pilootproject mag worden toegestaan of dient te worden geweigerd;<br>
+2° identiteitsgegevens van de houder, namelijk de naam en voornaam;<br>
+3° de geldigheidsduur van het COVID Safe Ticket.<br>
+<br>
+§ 3. Voor de in artikel 12 bepaalde doeleinden, mag het digitaal EU-COVID-certificaat of het door de houder gegenereerde COVID Safe Ticket uitsluitend worden gelezen door middel van de CST-module van het COVIDScan-applicatie zoals bedoeld in artikel 17 en dit door de volgende personen:<br>
+1° de personen die instaan voor de toegangscontrole van het massa-evenement;<br>
+2° de personen die instaan voor de toegangscontrole van het proef- en pilootproject;<br>
+3° het personeel van een bewakingsonderneming of interne bewakingsdienst zoals bedoeld in de wet van 2 oktober 2017 tot regeling van de private en bijzondere veiligheid.<br>
+<br>
+§ 4. Met als uitsluitende doeleinden zoals bepaald in artikel 12, § 1 en § 2, kunnen bewakingsagenten in afwijking van artikel 106 van de wet van 2 oktober 2017 tot regeling van de private en bijzondere veiligheid identiteitsdocumenten, alsook een COVID Safe Ticket laten voorleggen op verzoek van de opdrachtgever.<br>
+<br>
+§ 5. De voorwaarden waarbij toegang tot een massa-evenement of proef- en pilootproject kan worden verkregen op basis van een digitaal EU-COVID-certificaat of op basis van andere maatregelen, op voorwaarde dat deze kunnen worden verantwoord in het kader van het algemeen belang op het gebied van de volksgezondheid en de bestrijding van de COVID-19 pandemie, worden vastgelegd in een uitvoerend samenwerkingsakkoord zoals bedoeld bij artikel 92bis, § 1, derde lid, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen of enig ander uitvoerend wettelijk instrument .<br>
+<br>
+§ 6. Het is de personen bedoeld in artikel 13, § 3 uitdrukkelijk verboden het digitaal EU-COVID-certificaat of het door de houder gegeneerde COVID Safe Ticket teneinde het COVID Safe Ticket te lezen en desgevallend te genereren met een andere applicatie of module dan de CST module van de COVIDScan-applicatie. De organisatoren zullen een lijst aanleggen van de personen bedoeld in artikel 13, § 3.<br>
+<br>
+§ 7. Indien de organisatoren van massa-evenementen of proef- en pilootprojecten naast het COVID Safe Ticket niet voorzien in bijkomende maatregelen teneinde de toegang tot het evenement te regelen, dient de organisator daar op voorhand ten aanzien van de bezoekers voldoende duidelijk over te communiceren.<br>
+<br>
+§ 8. Wanneer het COVID Safe Ticket van de houder niet kan worden gegenereerd of gelezen door de personen bedoeld in artikel 13, § 3 omwille van op dat ogenblik bestaande technische problemen, moet de houder de toegang tot het massa-evenement of het proef- en pilootproject geweigerd worden, met behoud van de mogelijkheid tot het opleggen van bijkomende maatregelen of het naleven van de modaliteiten van toepassing op evenementen die geen massa-evenement of proef- en pilootproject zijn.
 
 ## Titel V: Bewaartermijnen
 
+### ART 14.
+
+§ 1. Overeenkomstig artikel 10, § 4 van de Verordening digitaal EU-COVID-certificaat; worden de persoonsgegevens vermeld in artikel 9, §§ 1, 2 en 3, die met het oog op de afgifte van het digitaal EU-COVID-certificaat, met inbegrip van de afgifte van een nieuw digitaal EU-COVID-certificaat, worden verwerkt, door de afgever niet langer bewaard dan strikt noodzakelijk is voor het doel ervan en in geen geval langer dan de periode waarin het digitaal EU-COVID-certificaat mag worden gebruikt om het recht van vrij verkeer uit te oefenen.<br>
+<br>
+Niettegenstaande de bepalingen in § 1, zal de geldigheidstermijn van een herstelcertificaat niet de termijn van 180 dagen overschrijden.<br>
+<br>
+§ 2. De gegevens bedoeld in artikel 13, § 2 worden onmiddellijk verwijderd na de verwerking bedoeld in artikel 13, § 1.<br>
+<br>
+§ 3. De uitlezing van de gegevens zoals bepaald in artikelen 12 en 13 van dit samenwerkingsakkoord mogen maar uitgevoerd worden tot en met 30 september 2021.<br>
+<br>
+§ 4. De bewaartermijnen vermeld in §§ 1, 2 en 3 doen geen afbreuk aan de bewaartermijnen bepaald in het samenwerkingsakkoord van 25 augustus 2020 en het samenwerkingsakkoord van 12 maart 2021.<br>
+<br>
+§ 5. Gelet op de geldigheid van 180 dagen voor het herstelcertificaat zoals bepaald in de Verordening digitaal EU-COVID-certificaat en de bewaartermijnen vermeld in artikel 15 § 1 van het Samenwerkingsakkoord van 25 augustus 2020 en artikel 6 van het Samenwerkingsakkoord van 12 maart 2021 krijgt Sciensano het recht om de gepseudonimiseerde persoonsgegevens van personen die tussen 18 december en 22 januari 2021 een positieve test hebben afgelegd uit Gegevensbank II van het Samenwerkingsakkoord van 25 augustus 2020 te re-identificeren conform hetgeen bepaald in artikel 4, (5) van de Algemene Verordening Gegevensbescherming. Deze re-identificatie heeft tot doel de herstelcertificaten aan gerechtigde houders te kunnen bezorgen.
+
 ## Titel VI: Verwerkingsverantwoordelijken
 
+### ART 15.
+
+§ 1. De bevoegde gefedereerde entiteiten of de door de bevoegde gefedereerde entiteiten aangeduide agentschappen, en Sciensano treden, ieder voor hun bevoegdheid, op als verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens bedoeld in dit samenwerkingsakkoord.<br>
+<br>
+§ 2. De bevoegde gefedereerde entiteiten, door de bevoegde gefedereerde entiteiten aangeduide agentschappen en Sciensano, ieder binnen diens bevoegdheidssfeer, bepalen op transparante wijze hun respectieve verantwoordelijkheden, met name wat betreft de uitoefening van de rechten van de betrokkene en het verstrekken van informatie. Hiertoe maken de bevoegde gefedereerde entiteiten en door de bevoegde gefedereerde entiteiten aangeduide agentschappen de nodige afspraken waarin in het algemeen de verplichtingen eigen aan de verwerkingsverantwoordelijken en in het bijzonder de respectieve rollen en relaties van de verwerkingsverantwoordelijken ten opzichte van de betrokkenen bepaald worden.<br>
+<br>
+§ 3. Dit samenwerkingsakkoord laat artikel 13 van het samenwerkingsakkoord van 25 augustus 2020 en artikel 7 van het samenwerkingsakkoord van 12 maart en de daarin aangeduide verwerkingsverantwoordelijken onverlet.
+
+### ART 16.
+
+§ 1. De bevoegde gefedereerde entiteiten of de door de bevoegde gefedereerde entiteiten aangeduide agentschappen en Sciensano nemen, wat betreft het opmaken en de afgifte van de certificaten zoals bedoeld in artikel 9 passende technische en organisatorische maatregelen overeenkomstig artikel 32 van de Algemene Verordening Gegevensbescherming om een op het risico afgestemd beveiligingsniveau te waarborgen. Deze maatregelen worden nader bepaald door middel van een verwerkersovereenkomst.<br>
+<br>
+§ 2. De bevoegde gefedereerde entiteiten of de door de bevoegde gefedereerde entiteiten aangeduide agentschappen en Sciensano zullen, wat betreft het COVID Safe Ticket, voldoen aan de principes van gegevensbescherming door ontwerp en door standaardinstellingen overeenkomstig artikel 25 van de Algemene Verordening Gegevensbescherming. Deze principes zullen nader worden uitgewerkt door middel van een verwerkingsovereenkomst.
+
 ## Titel VII: De COVIDScan-applicatie
+
+### ART 17.
+
+§ 1. De COVIDScan-applicatie laat toe om via het scannen van de streepjescode van het digitaal EU-COVID-certificaat de echtheid en de geldigheid van een vaccinatie-, test- en/of herstelcertificaat te valideren en, desgevallend, het COVID Safe Ticket te generen door het scannen van de streepjescode van het digitaal EU-COVID-certificaat.<br>
+<br>
+§ 2. De COVIDScan-applicatie zal beschikbaar zijn in twee uitvoeringsmodaliteiten:<br>
+1° een module voor de uitoefening van het recht van vrij verkeer binnen de Unie tijdens de COVID-19-pandemie te faciliteren; en<br>
+2° een module voor het lezen en, desgevallend, het genereren van het COVID Safe Ticket conform de bepalingen van artikel 12 en 13 van dit samenwerkingsakkoord (CST-module).<br>
+<br>
+Afhankelijk van de technische mogelijkheden kunnen deze twee uitvoeringsmodaliteiten in één of twee afzonderlijke (versies van de) (mobiele) applicaties worden ontwikkeld.<br>
+<br>
+§ 3. De COVIDScan-applicatie en diens modules respecteren de principes overeenkomstig de artikelen 5 en 25 van de Algemene Verordening Gegevensbescherming.<br>
+<br>
+Enkel gegevens die noodzakelijk zijn om de echtheid en geldigheid van het certificaat te kunnen valideren, kunnen worden verwerkt, hierbij rekening houdend met de principes van gegevensbescherming door ontwerp en door standaardinstellingen. Deze categorieën van persoonsgegevens zijn limitatief opgesomd in artikel 11, § 1 van dit samenwerkingsakkoord. Voor wat betreft de CST-module, zal deze voldoen aan hetgeen bepaald in artikel 13, § 2 van dit samenwerkingsakkoord.<br>
+<br>
+§ 4. Behoudens voor de personen bedoeld in artikel 10, § 4, en in artikel 13, § 3, gebeurt het installeren, het gebruiken en het de-installeren van de COVIDScan-applicatie bedoeld in § 1 door een gebruiker uitsluitend op vrijwillige basis. Het al dan niet installeren, het al dan niet gebruiken en het al dan niet de-installeren van de applicatie bedoeld in § 1 kan geen aanleiding geven tot enige burgerrechtelijke of strafrechtelijke maatregel, tot enige discriminerende handeling of tot enig voordeel of nadeel, behoudens voor de doeleinden zoals bepaald in artikel 10, § 4 en artikel 12 en voor de personen bedoeld in artikel 10, § 4 en artikel 13, § 3. Een schending van deze principes of het opleggen door een overheid, bedrijf of individu aan een ander individu tot het verplicht installeren, gebruiken en de-installeren van de applicatie bedoeld in § 1 zal bestraft worden op grond van de gemeenrechtelijke regels.<br>
+<br>
+§ 5. De verdere werking van de COVIDScan-applicatie en de in dat kader noodzakelijke gegevensverwerkingen worden geregeld bij een uitvoerend samenwerkingsakkoord als bedoeld bij artikel 92bis, § 1, derde lid, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen. De noodzakelijke gegevensverwerkingen zijn evenwel beperkt tot het verwerken van de gegevens bedoeld in artikel 13, § 1, teneinde de gegevens bedoeld in artikel 13, § 2, weer te geven voor het doeleinde zoals bepaald in artikel 12, § 1.<br>
+<br>
+§ 6. De gebruikers worden, bij de installatie en voor het gebruik van de COVIDScan-applicatie bedoeld in § 1, geïnformeerd over de werking van de applicatie.<br>
+<br>
+Hiertoe wordt op de website www.COVIDsafe.be alle nuttige informatie over de applicaties gepubliceerd, onder meer de functionaliteiten, de werking, de privacyverklaring en de gegevensbeschermingseffectbeoordeling. De applicatie zelf bevat ook verwijzingen naar informatie over de functionaliteiten, de werking en de privacyverklaring.<br>
+<br>
+§ 7. Het installeren, het gebruiken en het de-installeren van de COVIDSafe-applicatie door een gebruiker gebeurt uitsluitend op vrijwillige basis. Het al dan niet installeren, het al dan niet gebruiken en het al dan niet de-installeren van de COVIDSafe-applicatie kan geen aanleiding geven tot enige burgerrechtelijke of strafrechtelijke maatregel, tot enige discriminerende handeling of tot enig voordeel of nadeel. Een schending van deze principes of het opleggen door een overheid, bedrijf of individu aan een ander individu tot het verplicht installeren, gebruiken en de-installeren van de COVIDSafe-applicatie zal bestraft worden op grond van de gemeenrechtelijke straffen.
 
 ## Titel VIII: Verwerking van PLF gegevens
 
@@ -313,6 +742,18 @@ De personeelsleden van Saniport dienen te beschikken over een legitimatiebewijs 
 ## Titel IX: Verwerking van persoonsgegevens van in het buitenland wonende of verblijvende werknemers en zelfstandigen die activiteiten uitvoeren in België
 
 ## Titel X: Slotbepalingen
+
+### ART 31.
+
+De geschillen tussen de partijen bij dit samenwerkingsakkoord met betrekking tot de interpretatie of de uitvoering van dit samenwerkingsakkoord worden voorgelegd aan een samenwerkingsgerecht, in de zin van artikel 92bis, § 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.<br>
+<br>
+De leden van dit rechtscollege worden respectievelijk aangeduid door de Ministerraad, de Vlaamse regering, de regering van de Franse Gemeenschap, de regering van de Duitstalige Gemeenschap, het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie, de Waalse regering en het College van de Franse Gemeenschapscommissie.<br>
+<br>
+De werkingskosten van het rechtscollege worden gelijk verdeeld over de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waals Gewest en de Franse Gemeenschapscommissie.
+
+### ART 32.
+
+Het Overlegcomité houdt toezicht op de uitvoering en naleving van dit samenwerkingsakkoord en legt, indien nodig, voorstellen tot aanpassing voor. Eveneens oefent het Overlegcomité een bemiddelingsfunctie uit in het kader van dit samenwerkingsakkoord alvorens geschillen worden voorgelegd aan een samenwerkingsgerecht zoals bepaald in artikel 31.
 
 ### ART 33.
 
