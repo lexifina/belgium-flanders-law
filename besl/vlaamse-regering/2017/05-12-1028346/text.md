@@ -311,6 +311,8 @@ Die controle kan, afhankelijk van het feit of de onderneming al dan niet werd ge
 1° beslissing tot niet-selectie van de onderneming;<br>
 2° beslissing tot weigering van de hinderpremie;<br>
 3° beslissing tot niet-uitbetaling of terugvordering van de hinderpremie.<br>
+<br>
+Als uit een controle blijkt dat de onderneming een steunaanvraag heeft ingediend op basis van onjuiste verklaringen of foutieve informatie en die niet spontaan heeft gecorrigeerd, komt die onderneming gedurende een periode van vijf jaar, vanaf het moment van de kennisgeving van de voormelde vaststelling, niet in aanmerking voor steun als vermeld in artikel 3, 5°, van het decreet van 16 maart 2012, artikel 4, eerste en vijfde lid, van het decreet van 15 juli 2016 houdende toekenning van een hinderpremie aan kleine ondernemingen die ernstige hinder ondervinden van openbare werken in het Vlaamse Gewest, en artikel 41ter, § 2, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002.<br>
 &nbsp;
 
 ## HOOFDSTUK 6. Terugvordering
