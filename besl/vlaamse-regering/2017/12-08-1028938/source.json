@@ -2,16 +2,16 @@
   "codex_id": 1028938,
   "title": "Besluit van de Vlaamse Regering van 2017-12-08 tot toekenning van steun aan audiovisuele werken van het type lange fictie-, documentaire of animatiefilm, of animatiereeksen [...] (citeeropschrift: \"het Besluit Screen Flanders van 8 december 2017\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028938/VolledigDocument?datum=2021-03-01",
-  "source_sha256": "353e73de70ce40e3de88dd0f58f648df1240ba706cc0c9d26cdeb629da17fec2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028938/VolledigDocument?datum=2021-06-16",
+  "source_sha256": "eade2c34b0087612490e98a2b6429a1eb857a38c3d9ee7e9132646380daf42bf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028938&param=informatie",
-  "as_of": "2021-03-01",
+  "as_of": "2021-06-16",
   "made": "2017-12-08",
   "gazette": "2018-01-30",
   "numac": 2018010067,
   "document_start": "2018-02-23",
   "document_end": null,
-  "in_force": "2021-03-01",
+  "in_force": "2021-06-16",
   "article_versions": 58,
-  "record_form": "consolidated version as in force on 2021-03-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-06-16; future article versions excluded; article text as the API gives it"
 }
