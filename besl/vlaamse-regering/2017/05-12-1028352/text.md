@@ -373,7 +373,9 @@ Als de voorwaarden, vermeld in het decreet van 21 december 2001, in dit besluit,
 2° de uitbetaling van de steun opschorten voor alle projecten waarvoor steun is toegekend door het beslissingscomité bij het Fonds voor Innoveren en Ondernemen;<br>
 3° de steun niet uitbetalen;<br>
 4° de steun herzien;<br>
-5° bijkomende voorwaarden opleggen.
+5° bijkomende voorwaarden opleggen.<br>
+<br>
+Als uit een controle blijkt dat de onderneming een steunaanvraag heeft ingediend op basis van onjuiste verklaringen of foutieve informatie en die niet spontaan heeft gecorrigeerd, komt die onderneming gedurende een periode van vijf jaar, vanaf het moment van de kennisgeving van de voormelde vaststelling, niet in aanmerking voor steun als vermeld in artikel 3, 5°, van het decreet van 16 maart 2012, artikel 4, eerste en vijfde lid, van het decreet van 15 juli 2016 houdende toekenning van een hinderpremie aan kleine ondernemingen die ernstige hinder ondervinden van openbare werken in het Vlaamse Gewest, en artikel 41ter, § 2, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002.
 
 ### ART 37.
 
