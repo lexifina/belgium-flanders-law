@@ -2,16 +2,16 @@
   "codex_id": 1033655,
   "title": "Besluit van de Vlaamse Regering van 2020-09-04 tot instellen van een terugbetaalbaar voorschot ter ondersteuning van de opstart van de evenementensector",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033655/VolledigDocument?datum=2021-02-23",
-  "source_sha256": "954bb7a7c06baa743cc994fa40df38134d01d6a7b691455b8de3a2b6255074e7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033655/VolledigDocument?datum=2021-06-16",
+  "source_sha256": "d42757164d00835545cb2a44c0f63e266c4ad3829c857570a659a17542c3a3e9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033655&param=informatie",
-  "as_of": "2021-02-23",
+  "as_of": "2021-06-16",
   "made": "2020-09-04",
   "gazette": "2020-09-17",
   "numac": 2020015506,
   "document_start": "2020-09-17",
   "document_end": null,
-  "in_force": "2021-02-23",
+  "in_force": "2021-06-16",
   "article_versions": 43,
-  "record_form": "consolidated version as in force on 2021-02-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-06-16; future article versions excluded; article text as the API gives it"
 }

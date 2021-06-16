@@ -285,7 +285,9 @@ Het Agentschap Innoveren en Ondernemen kan vanaf het ogenblik dat de steunaanvra
 <br>
 De controle, vermeld in het eerste lid, kan, afhankelijk van het feit of de steun al dan niet is toegekend, het volgende tot gevolg hebben:<br>
 1° beslissing tot weigering van de steun;<br>
-2° gehele of gedeeltelijke niet-uitbetaling of terugvordering van de toegekende steun.
+2° gehele of gedeeltelijke niet-uitbetaling of terugvordering van de toegekende steun.<br>
+<br>
+Als uit een controle blijkt dat de onderneming een steunaanvraag heeft ingediend op basis van onjuiste verklaringen of foutieve informatie en die niet spontaan heeft gecorrigeerd, komt die onderneming gedurende een periode van vijf jaar, vanaf het moment van de kennisgeving van de voormelde vaststelling, niet in aanmerking voor steun als vermeld in artikel 3, 5°, van het decreet van 16 maart 2012, artikel 4, eerste en vijfde lid, van het decreet van 15 juli 2016 houdende toekenning van een hinderpremie aan kleine ondernemingen die ernstige hinder ondervinden van openbare werken in het Vlaamse Gewest, en artikel 41ter, § 2, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002.
 
 ### ART 36.
 
