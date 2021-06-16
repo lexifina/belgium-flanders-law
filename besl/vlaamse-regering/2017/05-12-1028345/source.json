@@ -2,16 +2,16 @@
   "codex_id": 1028345,
   "title": "Besluit van de Vlaamse Regering van 2017-05-12 tot regeling van steun aan ondernemingen voor onderzoek en ontwikkeling met een kennisintensief karakter in Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028345/VolledigDocument?datum=2021-06-09",
-  "source_sha256": "aab2e964615796f8163fff0509893a913da23c30604549cc3a4dcf0d0ed67af7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028345/VolledigDocument?datum=2021-06-16",
+  "source_sha256": "91e8d5187b1ad6950d08fca4a194603cfed678b50e417d2ad65de00efd5d0ff1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028345&param=informatie",
-  "as_of": "2021-06-09",
+  "as_of": "2021-06-16",
   "made": "2017-05-12",
   "gazette": "2017-06-20",
   "numac": 2017012600,
   "document_start": "2017-10-01",
   "document_end": null,
-  "in_force": "2021-06-09",
+  "in_force": "2021-06-16",
   "article_versions": 49,
-  "record_form": "consolidated version as in force on 2021-06-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-06-16; future article versions excluded; article text as the API gives it"
 }
