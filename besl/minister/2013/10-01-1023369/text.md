@@ -68,7 +68,9 @@ Het Agentschap Ondernemen betekent schriftelijk de beslissing over de niet   toe
 
 ### ART. 11.
 
-Het Agentschap Ondernemen is belast met de controle op de dossiers, met   behoud van de toepassing van de bevoegdheden van het Rekenhof.
+Het Agentschap Ondernemen is belast met de controle op de dossiers, met behoud van de toepassing van de bevoegdheden van het Rekenhof.<br>
+<br>
+Als uit een controle blijkt dat de onderneming een steunaanvraag heeft ingediend op basis van onjuiste verklaringen of foutieve informatie en die niet spontaan heeft gecorrigeerd, komt die onderneming gedurende een periode van vijf jaar, vanaf het moment van de kennisgeving van de voormelde vaststelling, niet in aanmerking voor steun als vermeld in artikel 3, 5°, van het decreet van 16 maart 2012, artikel 4, eerste en vijfde lid, van het decreet van 15 juli 2016 houdende toekenning van een hinderpremie aan kleine ondernemingen die ernstige hinder ondervinden van openbare werken in het Vlaamse Gewest, en artikel 41ter, § 2, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002.
 
 ## [HOOFDSTUK 6/1. Terugbetaalbaar voorschot (ing. MB 14 september 2022, art. 3, I: 3 oktober 2022)]
 
