@@ -1392,7 +1392,9 @@ Op expliciete vraag van de netgebruiker in de situatie, vermeld in eerste lid, 3
 <br>
 De Vlaamse Regering kan op basis van de kosten-batenanalyse bijkomende gevallen bepalen waarin de netbeheerder een digitale meter met voorrang plaatst.<br>
 <br>
-De Vlaamse Regering bepaalt de timing en de modaliteiten voor het plaatsen van de meters, vermeld in het eerste en derde lid.
+De Vlaamse Regering bepaalt de timing en de modaliteiten voor het plaatsen van de meters, vermeld in het eerste en derde lid.<br>
+<br>
+In afwijking van het eerste lid kan de distributienetbeheerder, in afwachting van de beschikbaarheid van een digitale meter die met de distributienetbeheerder via bekabeling communiceert, op vraag van de netgebruiker voorlopig een elektronische meter zonder communicatiemiddel plaatsen.
 
 ### ART 4.1.22/3.
 
@@ -1589,6 +1591,7 @@ De overlegprocedure, vermeld in het eerste lid, komt tot stand met akkoord van e
 § 1. De VREG stelt de tariefmethodologie op met inachtneming van de volgende richtsnoeren:<br>
 1° de tariefmethodologie is volledig en transparant, zodat het voor de distributienetbeheerders mogelijk is om hun tariefvoorstellen op basis van de tariefmethodologie op te stellen. Ze bevat de elementen die verplicht zijn in het tariefvoorstel. Ze definieert rapporteringsmodellen die de distributienetbeheerders moeten gebruiken;<br>
 2° onverminderd de mogelijkheid om conform artikel 4.1.33, § 4, de tariefmethodologie tussentijds te herzien, stelt de tariefmethodologie het aantal jaren vast van de reguleringsperiode die aanvangt op 1 januari van het jaar dat volgt op het jaar waarin de VREG de tariefmethodologie heeft vastgesteld;<br>
+2° /1 de tariefmethodologie zorgt ervoor dat het niet mogelijk is dat meermaals aardgas- of elektriciteitsdistributienettarieven worden aangerekend voor hetzelfde gebruik van het aardgasdistributienet of elektriciteitsdistributienet;<br>
 3° de criteria voor de verwerping van kosten zijn niet-discriminerend en transparant;<br>
 4° de tarieven zijn niet-discriminerend en proportioneel;<br>
 5° de tarieven zijn een afspiegeling van de werkelijk gemaakte kosten, voor zover deze overeenkomen met die van een efficiënte vergelijkbare entiteit of activiteit;<br>
@@ -3045,7 +3048,7 @@ De Vlaamse Regering kan bij het verstrekken van de leningen, vermeld in het eers
 
 ### ART. 8.7.1.
 
-De Vlaamse Regering bepaalt de hoogte van de tegemoetkomingen en de in aanmerking komende kosten, vermeld in deze titel, en de nadere regels voor de aanvraag, de beoordeling van de aanvragen en het toekennen van de tegemoetkomingen.&nbsp;<br>
+De Vlaamse Regering bepaalt de hoogte van de tegemoetkomingen en de in aanmerking komende kosten, vermeld in deze titel, en de nadere regels voor de aanvraag, de beoordeling van de aanvragen en het toekennen van de tegemoetkomingen.&nbsp;De Vlaamse Regering kan daarvoor aanvullende voorwaarden opleggen die losstaan van de doelstellingen van de steunregelingen, vermeld in deze titel.<br>
 <br>
 De tegemoetkomingen, vermeld in het vorige lid, kunnen de vorm aannemen van een subsidie, een lening tegen een verlaagde rentevoet, een voorschot of een ander geldelijk voordeel.
 
@@ -4437,6 +4440,10 @@ Voor projecten die op 20 maart 2020 over een geldige startdatum beschikken en wa
 In afwijking van het eerste lid kan de Vlaamse Regering, op aanvraag van de projectontwikkelaar, voor projecten die op 20 maart 2020 over een geldige startdatum beschikken en waarvan die startdatum vanaf 1 januari 2022 vervalt, de geldigheidsduur van de startdatum die op het project van toepassing is, schorsen voor de periode van 20 maart 2020 tot en met 17 juli 2020, op voorwaarde dat de projectontwikkelaar kan aantonen dat het project niet binnen die geldigheidsduur kan worden verwezenlijkt wegens een overmachtsituatie die te wijten is aan COVID-19.<br>
 <br>
 Als de Vlaamse Regering beslist om de schorsing van de geldigheidsduur van de startdatum, overeenkomstig het eerste lid, tweede zin, te verlengen, dan wordt de schorsing, toegekend overeenkomstig het tweede lid, met dezelfde termijn verlengd.
+
+### ART 15.3.5/23.
+
+In afwijking van artikel 4.1.30, § 4, kan de VREG eenmalig de tariefmethodologie en de elektriciteitsdistributietarieven met terugwerkende kracht aanpassen om te verhinderen dat aan prosumenten tweemaal elektriciteits- distributienettarieven worden aangerekend voor hetzelfde gebruik van het elektriciteitsdistributienet, zoals is ontstaan als gevolg van arrest nr. 5/2021 van 14 januari 2021 van het Grondwettelijk Hof.
 
 ### ART. 15.3.6.
 
