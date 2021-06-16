@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035690,
+  "title": "Besluit van de Vlaamse Regering van 2021-06-04 tot wijziging van diverse besluiten houdende steunmaatregelen van het Agentschap Innoveren en Ondernemen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035690/VolledigDocument?datum=2021-06-16",
+  "source_sha256": "0b789ae5f3a8741cc41e260125021d02f42efaac02f84a3e321fb917d20ac170",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035690&param=informatie",
+  "as_of": "2021-06-16",
+  "made": "2021-06-04",
+  "gazette": "2021-06-16",
+  "numac": 2021021083,
+  "document_start": "2021-06-16",
+  "document_end": null,
+  "in_force": "2021-06-16",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2021-06-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
