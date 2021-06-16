@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035672,
+  "title": "Samenwerkingsakkoord van 2021-06-11 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de operationalisering van de Verordening (EU) van het Europees Parlement en de Raad betreffende een kader voor de afgifte, verificatie en aanvaarding van interoperabele vaccinatie-, test- en herstelcertificaten teneinde het vrije verkeer tijdens de COVID-19-pandemie te vergemakkelijken (EU Digitaal COVID Certificaat)",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035672/VolledigDocument?datum=2021-06-16",
+  "source_sha256": "46291460f4b77110d149c7c842c2e0efca63e618716e5a750fb87c07bfdde1d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035672&param=informatie",
+  "as_of": "2021-06-16",
+  "made": "2021-06-11",
+  "gazette": "2021-06-14",
+  "numac": 2021042139,
+  "document_start": "2021-06-16",
+  "document_end": null,
+  "in_force": "2021-06-16",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2021-06-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
