@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035630,
+  "title": "Besluit van de Vlaamse Regering van 2021-04-23 tot erkenning van het graduaat in het systeem- en netwerkbeheer als nieuwe opleiding van Odisee",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035630/VolledigDocument?datum=2021-06-17",
+  "source_sha256": "2d3a5544c7d71d620cafeaacd014dc2011e50ecb05d74b14eed9786bdc57d5f8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035630&param=informatie",
+  "as_of": "2021-06-17",
+  "made": "2021-04-23",
+  "gazette": "2021-06-07",
+  "numac": 2021041623,
+  "document_start": "2021-06-17",
+  "document_end": null,
+  "in_force": "2021-06-17",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-06-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
