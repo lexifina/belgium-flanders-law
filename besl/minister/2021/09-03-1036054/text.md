@@ -15,6 +15,11 @@ De volgende vormvereisten zijn vervuld:<br>
 <br>
 DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID, GEZIN EN ARMOEDEBESTRIJDING BESLUIT:
 
+### ART 1.
+
+Aan artikel 3, eerste lid, 2°, h), van het ministerieel besluit van 15 mei 2019 betreffende de uitvoering van de Vlaamse sociale bescherming, wat betreft de tegemoetkoming voor zorg in een woonzorgcentrum, centrum voor kortverblijf of dagverzorgingscentrum wordt een punt 3) toegevoegd, dat luidt als volgt:<br>
+"3) de reden voor het einde van de verblijfsovereenkomst.".
+
 ### ART 2.
 
 In artikel 50 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 24 september 2019, wordt de datum "31 december 2020" vervangen door de datum "31 december 2022".
