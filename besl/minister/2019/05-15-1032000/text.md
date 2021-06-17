@@ -67,7 +67,8 @@ g) gegevens over het einde van de opname:<br>
 3) de reden voor het einde van de opname;<br>
 h) gegevens over het einde van de verblijfsovereenkomst:<br>
 1) de datum van het einde van de verblijfsovereenkomst;<br>
-2) het tijdstip van het einde van de verblijfsovereenkomst.<br>
+2) het tijdstip van het einde van de verblijfsovereenkomst;<br>
+3) de reden voor het einde van de verblijfsovereenkomst.<br>
 <br>
 De gegevens, vermeld in het eerste lid, worden beschouwd als verblijfsgegevens als vermeld in artikel 104, § 1, van het besluit van 30 november 2018.<br>
 <br>
