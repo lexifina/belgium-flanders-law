@@ -2,16 +2,16 @@
   "codex_id": 1029679,
   "title": "Besluit van de Vlaamse Regering van 2018-06-15 betreffende het welzijn van in gevangenschap gehouden roofvogels",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029679/VolledigDocument?datum=2018-09-09",
-  "source_sha256": "594522a926ef878f2833f1db35b471426030149f0c716ea901fc77fd134fda20",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029679/VolledigDocument?datum=2021-06-18",
+  "source_sha256": "b8cd46fe08647f3affb5eb03c23a536f65be04be33b1f4b22e762b49c3626a82",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029679&param=informatie",
-  "as_of": "2018-09-09",
+  "as_of": "2021-06-18",
   "made": "2018-06-15",
   "gazette": "2018-08-30",
   "numac": 2018013374,
   "document_start": "2018-09-09",
   "document_end": null,
-  "in_force": "2018-09-09",
+  "in_force": "2021-06-18",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2018-09-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-06-18; future article versions excluded; article text as the API gives it"
 }

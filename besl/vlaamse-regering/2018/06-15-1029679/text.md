@@ -16,10 +16,10 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° roofvogel : vogel die behoort tot de familie Accipitridae, Pandionidae, Sagittariidae, Cathartidae, Falconidae, Strigidae of Tytonidae;<br>
+1° roofvogel : vogel die behoort tot de familie Accipitridae, Pandionidae, Sagittariidae, Cathartidae, Falconidae, Strigidae of Tytonidae en die in gevangenschap gehouden worden;<br>
 2° dierenverblijf : een afgesloten ruimte, kooi of volière, ingericht voor het huisvesten van de roofvogels;<br>
-3° roofvogel : de in gevangenschap gehouden roofvogel;<br>
-4° roofvogeldemonstraties : het dragen, het vrij laten uitvliegen, het tentoonstellen van een roofvogel tot vermaak van publiek;<br>
+3° ...;<br>
+4° roofvogeldemonstraties : het dragen, het vrij laten uitvliegen, het tonen van een roofvogel of roofvogels tot vermaak van publiek;<br>
 5° verantwoordelijke : de natuurlijke persoon, eigenaar of houder van een roofvogel, die er gewoonlijk een onmiddellijk beheer of toezicht op uitoefent;<br>
 6° dienst : de door de Vlaamse Regering aangewezen dienst die bevoegd is voor het dierenwelzijn.
 
@@ -53,7 +53,7 @@ Gewonde roofvogels of roofvogels met gezondheidsproblemen worden onmiddellijk be
 
 ### ART 7.
 
-Met behoud van de toepassing van artikel 11 worden de roofvogels uitsluitend gehouden in dierenverblijven die geplaatst zijn in de openlucht. Die verblijven zijn zo gebouwd dat ze de mogelijkheid bieden om te vliegen zonder risico op verwondingen en dat ontsnappen onmogelijk is.<br>
+Elke roofvogel wordt gehouden in een dierenverblijf. Met behoud van de toepassing van artikel 11 worden de roofvogels uitsluitend gehouden in dierenverblijven die geplaatst zijn in de openlucht. Die verblijven zijn zo gebouwd dat ze de mogelijkheid bieden om te vliegen zonder risico op verwondingen en dat ontsnappen onmogelijk is.<br>
 <br>
 De dierenverblijven voldoen aan de minimumnormen, vermeld in bijlage 1 die bij dit besluit is gevoegd.
 
@@ -77,7 +77,7 @@ Elk dierenverblijf is voorzien van een waterbad.
 
 ### ART 10.
 
-Er wordt bij de huisvesting van de dieren op toegezien dat er zich geen schadelijke interactie voordoet binnen een diergroep.
+Er wordt bij de huisvesting van de dieren op toegezien dat er zich geen schadelijke interactie voordoet binnen een diergroep.&nbsp;De verantwoordelijke kan, bij controle door een bevoegd persoon als vermeld in artikel 34, § 1, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, de ongehinderde samenhuizing van deze diergroep aantonen.
 
 ### ART 11.
 
@@ -86,16 +86,18 @@ De koudegevoelige roofvogels beschikken over een voldoende bescherming tegen de 
 ### ART 12.
 
 In volgende gevallen mogen roofvogels gehouden worden in dierenverblijven die niet beantwoorden aan de afmetingen, vermeld in de bijlage die bij dit besluit is gevoegd :<br>
-1° tijdens revalidatie of medische behandeling van de roofvogel. In dat geval mag als dat nodig is het dierenverblijf geheel of gedeeltelijk verduisterd worden;<br>
-2° bij jonge roofvogels tot ze zelfstandig eten.
+1° tijdens revalidatie of medische behandeling van de roofvogel gestaafd door een attest van een dierenarts. In dat geval mag als dat nodig is het dierenverblijf geheel of gedeeltelijk verduisterd worden;<br>
+2° bij jonge roofvogels tot ze zelfstandig zijn en klaar om uit te vliegen van het nest.
 
 ### ART 13.
 
-Uitsluitend in de volgende gevallen mogen roofvogels aangebonden gehuisvest worden, al dan niet in een dierenverblijf :<br>
+Uitsluitend in de volgende gevallen mogen roofvogels tijdelijk aangebonden gehuisvest worden, al dan niet in een dierenverblijf :<br>
 1° tijdens roofvogeldemonstraties;<br>
 2° tijdens de periode van training voor de jacht en vrije vluchten;<br>
 3° tijdens het vervoer van roofvogels;<br>
-4° tijdens revalidatie of medische behandeling van roofvogels.
+4° tijdens revalidatie of medische behandeling van roofvogels.<br>
+<br>
+De verantwoordelijke die een roofvogel tijdelijk aangebonden huisvest tijdens de training voor jacht of vrije vluchten, voert op regelmatige basis vrije vluchten uit met de roofvogels. Hij toont dat aan door een vliegdemonstratie met de roofvogel tijdens de controle door de bevoegde personen, vermeld in artikel 34, § 1 van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren.
 
 ### ART 14.
 
@@ -107,31 +109,11 @@ Voor elke roofvogel die wordt aangebonden, moet een dierenverblijf aanwezig zijn
 
 ### ART 16.
 
-De verantwoordelijke die een roofvogel houdt en verzorgt die tot vermaak van het publiek wordt gebruikt en die een roofvogel aangebonden huisvest tijdens training voor jacht en vrije vluchten, beschikt vanaf 1 juli 2021 over een bekwaamheidsattest. Hij voert op regelmatige basis vrije vluchten uit met de roofvogels. Hij toont dat aan door een vliegdemonstratie met de roofvogel tijdens de controle door de bevoegde personen, vermeld in artikel 34 van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren.<br>
-<br>
-Het bekwaamheidsattest, vermeld in het eerste lid, is niet vereist voor verantwoordelijken afkomstig van buiten het Vlaams Gewest die ten hoogste vijftien dagen met hun roofvogel op Vlaams grondgebied verblijven.
+...
 
 ### ART 17.
 
-§ 1. Het bekwaamheidsattest, bedoeld in artikel 16, wordt afgeleverd door een erkende vereniging, na afleggen van een examen. Om erkend te worden :<br>
-1° dient de vereniging bij de dienst een erkenningsaanvraag in die volgende gegevens bevat :<br>
-a) de naam en het adres van de vereniging;<br>
-b) de gegevens van de persoon die de aanvraag indient in naam van de vereniging;<br>
-c) een beschrijving van de verschillende thema's die in het examen aan bod zullen komen;<br>
-d) het eventuele bedrag voor deelname aan het examen, waarbij geen onderscheid gemaakt wordt naargelang de deelnemer al dan niet lid is van de vereniging.<br>
-2° heeft de vereniging een maatschappelijk doel dat de bevordering van het welzijn van in gevangenschap gehouden roofvogels omvat.<br>
-<br>
-§ 2. De erkende vereniging organiseert ten minste jaarlijks een examen. Dit examen peilt naar de kennis van de deelnemers over het welzijn van roofvogels in gevangenschap en behandelt ten minste volgende punten :<br>
-1° de regelgeving;<br>
-2° het aankleden van roofvogels met schoentjes;<br>
-3° het aangelijnd of aangebonden houden van een roofvogel aan een blok, boog, sprengel of andere installatie;<br>
-4° het dragen, wandelen en het vrij laten uitvliegen van een roofvogel.<br>
-<br>
-De erkende vereniging kan voor de organisatie van het examen een beroep doen op een opleidingsverstrekker.<br>
-<br>
-§ 3. De dienst kan de erkenning intrekken als de vereniging niet langer voldoet aan de voorwaarden van dit besluit.<br>
-<br>
-§ 4. De dienst kan het bekwaamheidsattest intrekken als blijkt dat de houder ervan niet voldoet aan de bepalingen van dit besluit.
+...
 
 ## HOOFDSTUK 3. Roofvogeldemonstraties
 
@@ -147,7 +129,7 @@ De roofvogeldemonstraties moeten een educatieve en informatieve waarde hebben. E
 
 ### ART 19.
 
-De organisator van een roofvogeldemonstratie brengt de gemeente hiervan ten minste vier weken op voorhand op de hoogte, met vermelding van volgende gegevens :<br>
+De persoon die de roofvogeldemonstratie verzorgt, brengt de gemeente daarvan ten minste drie weken op voorhand op de hoogte, met vermelding van volgende gegevens :<br>
 1° de naam en de contactgegevens van de organisator van de roofvogeldemonstratie;<br>
 2° de datum waarop de roofvogeldemonstratie zal plaatsvinden;<br>
 3° het begin- en einduur van de roofvogeldemonstratie;<br>
@@ -189,16 +171,20 @@ De Vlaamse minister, bevoegd voor het dierenwelzijn, is belast met de uitvoering
 
 ### BIJLAGE
 
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Afmetingen van de dierenverblijven voor roofvogels</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000">Afmetingen van de dierenverblijven voor roofvogels</span></span><br>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">De hieronder vermelde afmetingen zijn van toepassing voor één of twee vogels. Als er meer dan twee vogels worden gehouden in een volière, moet de hieronder vermelde oppervlakte vergroot worden met 15% per bijkomende vogel.</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000">De hieronder vermelde afmetingen zijn van toepassing voor één of twee vogels. Als er meer dan twee vogels worden gehouden in een volière, moet de hieronder vermelde oppervlakte vergroot worden met 15% per bijkomende vogel.</span></span><br>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Als roofvogels waarvoor verschillende minimale afmetingen gelden, samen worden gehouden, moeten de afmetingen van het dierenverblijf beantwoorden aan de afmetingen voor de soort(en) waarvoor de grootste oppervlaktenormen gelden, waarbij de oppervlakte per bijkomend dier van een soort waarvoor kleinere oppervlaktenormen gelden, vermeerderd wordt met 15% van de vereiste oppervlakte voor die soort.</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000">Als roofvogels waarvoor verschillende minimale afmetingen gelden, samen worden gehouden, moeten de afmetingen van het dierenverblijf beantwoorden aan de afmetingen voor de soort(en) waarvoor de grootste oppervlaktenormen gelden, waarbij de oppervlakte per bijkomend dier van een soort waarvoor kleinere oppervlaktenormen gelden, vermeerderd wordt met 15% van de vereiste oppervlakte voor die soort.</span></span><br>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Wanneer het verblijf uitzonderlijk verrijkt is en ontworpen om meer mogelijkheden tot vliegen te bieden, mogen onderstaande afmetingen verminderd worden tot 90%.</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000">Wanneer het verblijf uitzonderlijk verrijkt is en ontworpen om meer mogelijkheden tot vliegen te bieden, mogen onderstaande afmetingen verminderd worden tot 90%.<br>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Tabel 1. Dagroofvogels</span></span></span>
-<table border="1" style="-webkit-text-stroke-width:0px; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; width:700px; word-spacing:0px">
+Als een roofvogelsoort niet in de volgende tabellen is vermeld, wordt voldaan aan de afmetingen van een vergelijkbare roofvogelsoort met vergelijkbare grootte en spanwijdte.<br>
+<br>
+Bij een hybride beantwoorden de afmetingen van het dierenverblijf aan de afmetingen voor de oudersoort(en), waarbij de grootste oppervlaktenormen gelden.</span></span><br>
+<br>
+<span style="font-size:medium"><span style="color:#000000">Tabel 1. Dagroofvogels</span></span>
+<table border="1" style="-webkit-text-stroke-width:0px">
 	<tbody>
 		<tr>
 			<td colspan="" rowspan="2>">soort</td>
@@ -489,9 +475,9 @@ De Vlaamse minister, bevoegd voor het dierenwelzijn, is belast met de uitvoering
 	</tbody>
 </table>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Tabel 2. Nachtroofvogels</span></span></span>
+<span style="font-size:medium"><span style="color:#000000">Tabel 2. Nachtroofvogels</span></span>
 
-<table border="1" style="-webkit-text-stroke-width:0px; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; width:700px; word-spacing:0px">
+<table border="1" style="-webkit-text-stroke-width:0px">
 	<tbody>
 		<tr>
 			<td colspan="" rowspan="2>">soort</td>
