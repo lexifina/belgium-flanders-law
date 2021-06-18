@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035646,
+  "title": "Besluit van de Vlaamse Regering van 2021-05-21 tot wijziging van het besluit van de Vlaamse Regering van 15 juni 2018 betreffende het welzijn van in gevangenschap gehouden roofvogels",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035646/VolledigDocument?datum=2021-06-18",
+  "source_sha256": "20fd7839dfce36471fff344144a5983667ed4d0b1acfa9bfd183faab5979d70b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035646&param=informatie",
+  "as_of": "2021-06-18",
+  "made": "2021-05-21",
+  "gazette": "2021-06-08",
+  "numac": 2021031615,
+  "document_start": "2021-06-18",
+  "document_end": null,
+  "in_force": "2021-06-18",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2021-06-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
