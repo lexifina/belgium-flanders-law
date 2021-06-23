@@ -276,11 +276,7 @@ De maximale termijn, vermeld in artikel 6.14, tweede lid, 1°, van het Besluit V
 
 ### ART 35.
 
-Als de actualisering van de inschrijvingsregisters, vermeld in artikel 6.6 van het Besluit Vlaamse Codex Wonen van 2021, nog niet gestart is op het moment dat fase rood van toepassing wordt in het gebied waar het kantoor van de verhuurder ligt, wordt de actualisering pas opgestart na de beëindiging van fase rood.<br>
-<br>
-Als de actualisering van de inschrijvingsregisters, vermeld in artikel 6.6 van het Besluit Vlaamse Codex Wonen van 2021, al gestart is op het moment dat fase rood van toepassing wordt in het gebied waar het kantoor van de verhuurder ligt, begint de reglementair bepaalde reactietermijn te lopen op de dag die volgt op de beëindiging van fase rood.<br>
-<br>
-Als bij actualisering een kandidaat-huurder niet reageert binnen de reglementair bepaalde termijn, gaat de verhuurder na of de kandidaat-huurder woont in een gebied waarvoor fase rood geldt. Als dat het geval is, begint de reglementair bepaalde reactietermijn te lopen op de dag die volgt op de beëindiging van fase rood.
+...
 
 ### ART 36.
 
