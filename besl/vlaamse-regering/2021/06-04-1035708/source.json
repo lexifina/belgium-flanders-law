@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035708,
+  "title": "Besluit van de Vlaamse Regering van 2021-06-04 tot vaststelling van specifieke regels voor de actualisering van het inschrijvingsregister, vermeld in artikel 6.5 van de Vlaamse Codex Wonen van 2021, voor het jaar 2021 en 2022",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035708/VolledigDocument?datum=2021-06-23",
+  "source_sha256": "cf3011c3f7f815c4e0a8d62e9bd8b8add5bcd3a05029156698a6e05fbede4a1f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035708&param=informatie",
+  "as_of": "2021-06-23",
+  "made": "2021-06-04",
+  "gazette": "2021-06-22",
+  "numac": 2021042181,
+  "document_start": "2021-06-23",
+  "document_end": null,
+  "in_force": "2021-06-23",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2021-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
