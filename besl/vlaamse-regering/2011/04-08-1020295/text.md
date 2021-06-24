@@ -53,13 +53,12 @@ g) persoon die geniet van een tegemoetkoming toegekend door een openbaar centrum
 h) persoon die geniet van een tegemoetkoming aan gehandicapten ingevolge een blijvende arbeidsongeschiktheid van ten minste 65 procent, overeenkomstig de wet van 27 juni 1969 betreffende de tegemoetkoming aan gehandicapten;<br>
 i) persoon die geniet van een tegemoetkoming voor hulp aan bejaarde gehandicapten, overeenkomstig de artikelen 127 en volgende van de programmawet van 22 december 1989;<br>
 j) persoon die geniet van een tegemoetkoming voor hulp van derden, overeenkomstig de wet van 27 juni 1969 betreffende de tegemoetkoming aan gehandicapten.<br>
-24° toezichthoudende ambtenaar Leefmilieu : de ambtenaar, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 13 mei 2011 tot uitvoering van diverse bepalingen van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending, en tot wijziging van het besluit van de Vlaamse Regering van 13 december 2002 houdende reglementering inzake de kwaliteit en levering van water, bestemd voor menselijke consumptie.<br>
+24° toezichthoudende ambtenaar Leefmilieu : een personeelslid van de Vlaamse Milieumaatschappij als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 13 mei 2011 tot uitvoering van diverse bepalingen van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending, en tot wijziging van het besluit van de Vlaamse Regering van 13 december 2002 houdende reglementering inzake de kwaliteit en levering van water, bestemd voor menselijke consumptie.<br>
 25° onderneming : een onderneming als vermeld in artikel 2, 3°, van de wet van 16 januari 2003 tot oprichting van een Kruispuntbank van Ondernemingen, tot modernisering van het handelsregister, tot oprichtingen van erkende ondernemingsloketten en houdende diverse bepalingen;<br>
 26° installatie voor tweedecircuitwater : het geheel van systemen en leidingen voor de winning, opvang of productie van tweedecircuitwater en voor de opslag en het gebruik ervan;<br>
 27° niet-aangesloten binneninstallatie : een huishoudelijk leidingnet als vermeld in artikel 2.1.2, 17°, van het decreet van 18 juli 2003, en alle systemen en toestellen die ermee verbonden zijn, dat niet verbonden is met het openbaar waterdistributienetwerk.<br>
 <br>
-De definities, vermeld in artikel 2.1.2 van het decreet van 18 juli 2003 en de definities vermeld in artikel 1 van het besluit van de Vlaamse Regering van 13 december 2002 zijn van toepassing in dit besluit.<br>
-&nbsp;
+De definities, vermeld in artikel 2.1.2 van het decreet van 18 juli 2003 en de definities vermeld in artikel 1 van het besluit van de Vlaamse Regering van 13 december 2002 zijn van toepassing in dit besluit.
 
 ## HOOFDSTUK 2 Levering van water, bestemd voor menselijke consumptie
 
