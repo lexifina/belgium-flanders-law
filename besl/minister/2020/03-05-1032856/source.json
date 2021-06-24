@@ -2,16 +2,16 @@
   "codex_id": 1032856,
   "title": "Ministerieel besluit van 2020-03-05 tot aanwijzing van gewestelijke toezichthouders, gewestelijke milieuopsporingsambtenaren en gemachtigde ambtenaren bij het Agentschap voor Natuur en Bos overeenkomstig het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032856/VolledigDocument?datum=2020-04-24",
-  "source_sha256": "b793cd2f87ae1cea3a6aa2876b1d191533976ce87357dcbe2cd556f40a83ffff",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032856/VolledigDocument?datum=2021-06-24",
+  "source_sha256": "29771660aefea75e34b7ed60eee1dd1ada2b3793460586664bc329bc7e0ca0cd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032856&param=informatie",
-  "as_of": "2020-04-24",
+  "as_of": "2021-06-24",
   "made": "2020-03-05",
   "gazette": "2020-04-14",
   "numac": 2020030548,
   "document_start": "2020-04-24",
   "document_end": "2021-06-23",
-  "in_force": "2020-04-24",
+  "in_force": "2021-06-24",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2020-04-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-06-24; future article versions excluded; article text as the API gives it"
 }
