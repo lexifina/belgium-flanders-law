@@ -8,7 +8,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 1° de minister: de Vlaamse minister, bevoegd voor het Leefmilieu en het Waterbeleid;<br>
 2° nieuwe inrichtingen en waterdistributienetwerken: inrichtingen en waterdistributienetwerken die aangelegd of gewijzigd worden na het inwerking treden van dit besluit;<br>
 3° het decreet: het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
-4° de bevoegde entiteit Leefmilieu : de afdeling, bevoegd voor operationeel waterbeheer, van de Vlaamse Milieumaatschappij;<br>
+4° de bevoegde entiteit Leefmilieu: de personeelsleden van de Vlaamse Milieumaatschappij die de leidend ambtenaar aanstelt;<br>
 5° de bevoegde entiteit Volksgezondheid : de afdeling, bevoegd voor het toezicht op de volksgezondheid, van het Vlaams Agentschap Zorg en Gezondheid;<br>
 6° nooddrinkwatervoorziening: de levering door de exploitant van het openbaar waterdistributienetwerk van water, bestemd voor menselijke consumptie, tijdens een geplande of ongeplande onderbreking van de levering via het openbaar waterdistributienetwerk van water, bestemd voor menselijke consumptie;<br>
 7° noodwatervoorziening: de levering door de exploitant van het openbaar waterdistributienetwerk van water, uitsluitend voor sanitaire doeleinden, tijdens een geplande of ongeplande onderbreking van de levering via het openbaar waterdistributienetwerk van water, bestemd voor menselijke consumptie.<br>
