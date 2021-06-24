@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035660,
+  "title": "Decreet van 2021-05-21 tot wijziging van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges, wat betreft de optimalisatie van de procedures",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035660/VolledigDocument?datum=2021-06-24",
+  "source_sha256": "110b59656bccf5e068bad2f555435c0a2c7e9b12f61c3df06fe89825a724b171",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035660&param=informatie",
+  "as_of": "2021-06-24",
+  "made": "2021-05-21",
+  "gazette": "2021-06-14",
+  "numac": 2021042066,
+  "document_start": "2021-06-24",
+  "document_end": null,
+  "in_force": "2021-06-24",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2021-06-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
