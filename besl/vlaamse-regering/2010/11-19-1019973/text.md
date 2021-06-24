@@ -58,9 +58,9 @@ De minister kan de bijlagen bij dit besluit wijzigen, met uitzondering van bijla
 35° het compendium bemonsterings- en analysemethodes in het kader van het Mestdecreet : het methodenboek met bemonsterings- en analysemethodes voor meststoffen, bodem en diervoeders in het kader van het Mestdecreet, vermeld in artikel 61, § 8, eerste lid, van het Mestdecreet;<br>
 36° het referentielaboratorium van het Vlaamse Gewest : de Vlaamse Instelling voor Technologisch Onderzoek;<br>
 37° VMM : Vlaamse Milieumaatschappij;<br>
-38° de afdeling, bevoegd voor grondwater : de afdeling Operationeel Waterbeheer van de VMM;<br>
-39° de afdeling, bevoegd voor operationeel waterbeheer : de afdeling Operationeel Waterbeheer van de VMM;<br>
-40° de afdeling, bevoegd voor het ecologisch toezicht : de afdeling Ecologisch Toezicht van de VMM;<br>
+38° ...;<br>
+39° ...;<br>
+40° ...;<br>
 41°&nbsp;...<br>
 42° agentschap Onroerend Erfgoed : het agentschap Onroerend Erfgoed van het beleidsdomein Omgeving;<br>
 43° bevoegde afdeling :<br>
@@ -69,7 +69,7 @@ b) voor de erkenning, vermeld in artikel 6, 1°, f), 2°, a) tot en met c) en e)
 c) voor de erkenning, vermeld in artikel 6, 5°, d) : de Mestbank;<br>
 d) voor de erkenning, vermeld in artikel 6, 5°, e) : de afdeling, bevoegd voor afval- en materialenbeheer;<br>
 e) voor de erkenning, vermeld in artikel 6, 4°, g), 5°, f), en 6° : de afdeling, bevoegd voor bodembeheer;<br>
-f) voor de erkenning,&nbsp;vermeld in artikel 6, 7°, a) : de afdeling, bevoegd voor grondwater;<br>
+f) voor de erkenning,&nbsp;vermeld in artikel 6, 7°, a) : de entiteit binnen de VMM die bevoegd is voor de erkenning van boorbedrijven;<br>
 g) voor de registratie als monsternemer in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid: het departement;<br>
 h) voor de registratie als monsternemer in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan: de Mestbank;<br>
 44° ...<br>
@@ -565,9 +565,9 @@ c) bodem: deeldomeinen:<br>
 1) pedologie: de personeelsleden van het departement die deskundig zijn op het vlak van bodembescherming, en aan de afdeling, bevoegd voor bodembeheer;<br>
 2) geologie: de personeelsleden van het departement die deskundig zijn op het vlak van natuurlijke rijkdommen, en aan de afdeling, bevoegd voor bodembeheer;<br>
 d) water, deeldomeinen:<br>
-1) geohydrologie: de personeelsleden van het departement die deskundig zijn op het vlak van natuurlijke rijkdommen, aan de afdeling, bevoegd voor operationeel waterbeheer, en aan de afdeling, bevoegd voor bodembeheer;<br>
-2) oppervlakte- en afvalwater: de afdeling, bevoegd voor operationeel waterbeheer, en aan de afdeling, bevoegd voor het ecologisch toezicht;<br>
-3) mariene waters: de afdeling, bevoegd voor het ecologisch toezicht;<br>
+1) geohydrologie: de personeelsleden van het departement die deskundig zijn op het vlak van natuurlijke rijkdommen, de personeelsleden van de VMM die deskundig zijn op het vlak van grondwaterhydrologie, en aan de afdeling, bevoegd voor bodembeheer;<br>
+2) oppervlakte- en afvalwater: de personeelsleden van de VMM die deskundig zijn op het vlak van oppervlaktewaterbeheer, en de personeelsleden van de VMM die deskundig zijn op het vlak van oppervlaktewaterverontreiniging;<br>
+3) mariene waters: de personeelsleden van de VMM die deskundig zijn op het vlak van oppervlaktewaterverontreiniging;<br>
 e) lucht, deeldomeinen:<br>
 1) geur: de personeelsleden van de Vlaamse Milieumaatschappij die deskundig zijn op het vlak van luchtverontreiniging;<br>
 2) luchtverontreiniging: de personeelsleden van de Vlaamse Milieumaatschappij die deskundig zijn op het vlak van luchtverontreiniging;<br>
