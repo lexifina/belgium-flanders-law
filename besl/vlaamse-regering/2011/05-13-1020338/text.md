@@ -11,7 +11,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 5 april 1995, houdende 
 In dit besluit wordt verstaan onder :<br>
 1° het decreet van 18 juli 2003: het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 2° toezichthoudende ambtenaar Volksgezondheid : het afdelingshoofd van de afdeling, bevoegd voor het toezicht op de volksgezondheid, van het Vlaams Agentschap Zorg en Gezondheid, of de door hem aangestelde van de afdeling;<br>
-3° toezichthoudende ambtenaar Leefmilieu : het afdelingshoofd van de afdeling, bevoegd voor het operationeel waterbeheer, van de Vlaamse Milieumaatschappij, of de door hem aangestelde van de afdeling.
+3° toezichthoudende ambtenaar Leefmilieu: de personeelsleden van de Vlaamse Milieumaatschappij die de leidend ambtenaar aanstelt.
 
 ## HOOFDSTUK 2. Toezicht, dwang- en veiligheidsmaatregelen
 
@@ -48,13 +48,13 @@ Het beroepschrift moet voldoen aan de volgende voorwaarden :<br>
 
 ### ART. 4.
 
-Het afdelingshoofd van de afdeling, bevoegd voor rapportering water, van de Vlaamse Milieumaatschappij, of de door hem aangestelde van de afdeling, wordt aangewezen als controleambtenaar als vermeld in artikel 2.4.1 van het decreet van 18 juli 2003.
+Het afdelingshoofd van de entiteit die bevoegd is voor monitoring van water, van de Vlaamse Milieumaatschappij, of de door hem aangestelde van de afdeling, wordt aangewezen als controleambtenaar als vermeld in artikel 2.4.1 van het decreet van 18 juli 2003.
 
 ## HOOFDSTUK 4. Inning van administratieve geldboetes
 
 ### ART. 5.
 
-§ 1. Het afdelingshoofd van de afdeling, bevoegd voor het operationeel waterbeheer, van de Vlaamse Milieumaatschappij brengt de overtreder met een ter post aangetekende brief met bericht van ontvangst op de hoogte van het voornemen om een administratieve geldboete op te leggen, als vermeld in artikel 5.3.1 van het decreet van 18 juli 2003.<br>
+§ 1. De toezichthoudende ambtenaar Leefmilieu brengt de overtreder met een ter post aangetekende brief met bericht van ontvangst op de hoogte van het voornemen om een administratieve geldboete op te leggen, als vermeld in artikel 5.3.1 van het decreet van 18 juli 2003.<br>
 <br>
 § 2. De hoorzitting, vermeld in artikel 5.3.1, § 3, van het decreet, wordt ten minste vijftien dagen na het versturen van de kennisgeving, vermeld in paragraaf 1, georganiseerd.<br>
 <br>
@@ -62,7 +62,7 @@ De overtreder kan afzien van zijn aanwezigheid op de hoorzitting en zijn verweer
 <br>
 § 3. De hoorzitting wordt voorgezeten door de administrateur-generaal van de Vlaamse Milieumaatschappij, of het daartoe aangestelde personeelslid van de Vlaamse Milieumaatschappij.<br>
 <br>
-Naast het personeelslid, vermeld in paragraaf 1, is het afdelingshoofd van de afdeling, bevoegd voor rapportering water, van de Vlaamse Milieumaatschappij of hun aangestelde aanwezig op de hoorzitting.<br>
+Naast het personeelslid, vermeld in paragraaf 1, is de controleambtenaar, vermeld in artikel 4, aanwezig op de hoorzitting.<br>
 <br>
 De personeelsleden, vermeld in het tweede lid, worden bijgestaan door een daartoe aangesteld personeelslid van de Vlaamse Milieumaatschappij, dat belast is met de verslaggeving.<br>
 <br>
