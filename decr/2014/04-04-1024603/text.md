@@ -22,7 +22,9 @@ c) de Raad voor Verkiezingsbetwistingen, opgericht bij artikel 202 van het Lokaa
 8° beveiligde zending: een van de volgende betekeningswijzen:<br>
 a) een aangetekend schrijven;<br>
 b) een afgifte tegen ontvangstbewijs;<br>
-c) elke andere door de Vlaamse Regering toegestane betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld.
+c) elke andere door de Vlaamse Regering toegestane betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld.<br>
+9° vergunninghouder: de vergunninghouder, vermeld in artikel 105, § 2, eerste lid, 1°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
+10° de persoon die de melding heeft verricht: de persoon die de melding heeft verricht, vermeld in artikel 105, § 2, eerste lid, 1°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning.
 
 ### ART. 3.
 
@@ -196,7 +198,7 @@ De bewijsstukken worden bezorgd binnen een termijn van acht dagen, die ingaat de
 <br>
 Bij het niet-tijdig bezorgen van de bewijsstukken, vermeld in het vierde lid, wordt de verzoekende of tussenkomende partij geacht afstand te doen van haar vraag tot vrijstelling van het rolrecht.<br>
 <br>
-De ontoereikendheid van de inkomsten wordt beoordeeld conform het koninklijk besluit van 18 december 2003 tot vaststelling van de voorwaarden van de volledige of gedeeltelijke kosteloosheid van de juridische tweedelijnsbijstand en de rechtsbijstand.<br>
+De ontoereikendheid van de inkomsten wordt beoordeeld conform artikel 508/13/1 tot en met 508/13/4 van het Gerechtelijk Wetboek.<br>
 <br>
 § 4. Collectieve verzoekschriften geven aanleiding tot het betalen van zoveel malen het recht als er verzoekende partijen zijn.<br>
 <br>
@@ -321,7 +323,7 @@ De bewijsstukken worden bezorgd binnen een termijn van acht dagen, die ingaat de
 <br>
 Als de bewijsstukken niet worden bezorgd binnen de termijn, vermeld in het vierde lid, wordt de verzoekende partij geacht afstand te doen van haar vraag tot vrijstelling van het rolrecht.<br>
 <br>
-De ontoereikendheid van de inkomsten wordt beoordeeld conform het koninklijk besluit van 18 december 2003 tot vaststelling van de voorwaarden van de volledige of gedeeltelijke kosteloosheid van de juridische tweedelijnsbijstand en de rechtsbijstand.<br>
+De ontoereikendheid van de inkomsten wordt beoordeeld conform artikel 508/13/1 tot en met 508/13/4 van het Gerechtelijk Wetboek.<br>
 <br>
 § 3. Collectieve verzoekschriften geven aanleiding tot het betalen van zoveel keer het recht als er verzoekende partijen zijn.<br>
 <br>
@@ -408,7 +410,10 @@ Als een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), he
 <br>
 In zijn arrest beslecht een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), alle aangevoerde middelen, waarvan het oordeelt dat de beoordeling nuttig kan zijn in geval van een nieuwe beslissing of een andere handeling van het bestuur.<br>
 <br>
-Een onwettigheid geeft alleen aanleiding tot een vernietiging, als de partij die ze aanvoert, wordt benadeeld door de ingeroepen onwettigheid.
+Zonder afbreuk te doen aan de mogelijkheid om de schending aan te voeren van regels die de openbare orde aanbelangen, kan de schending van een norm of algemeen rechtsbeginsel in elk van de volgende gevallen geen aanleiding geven tot een vernietiging:<br>
+1° als de partij die de schending aanvoert, niet wordt benadeeld door de ingeroepen onwettigheid. De omstandigheid dat de aangevoerde schending een onwettigheid uitmaakt die mogelijk aanleiding kan geven tot vernietiging, maakt op zich niet dat de partij benadeeld wordt door de ingeroepen onwettigheid;<br>
+2° [... <em>(vernietigd bij arrest 2023/59 van het Grondwettelijk Hof van 11 april 2023)</em>];<br>
+3° [... <em>(vernietigd bij arrest 2023/59 van het Grondwettelijk Hof van 11 april 2023)</em>];
 
 ### ART. 36.
 
@@ -425,7 +430,9 @@ Een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), verbin
 <br>
 De ordetermijn, vermeld in het tweede lid, wordt geschorst zolang een cassatieberoep, gericht tegen het arrest van het Vlaams bestuursrechtscollege dat dit bevel bevat, aanhangig is bij de Raad van State.<br>
 <br>
-§ 2. Het Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, b), kan, als de nieuw te nemen beslissing, bevolen conform paragraaf 1, eerste lid, het gevolg is van een gebonden bevoegdheid van de verwerende partij, het arrest in de plaats stellen van die beslissing.
+§ 2. Het Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, b), kan, als de nieuw te nemen beslissing, bevolen conform paragraaf 1, eerste lid, het gevolg is van een gebonden bevoegdheid van de verwerende partij, het arrest in de plaats stellen van die beslissing.<br>
+<br>
+Onder het geval, vermeld in het eerste lid, worden ook de gevallen van feitelijke of naderhand gebonden bevoegdheid verstaan die volgen uit de toepassing van de regelgeving in het licht van de concrete gegevens en omstandigheden van het dossier.
 
 ### ART. 38.
 
