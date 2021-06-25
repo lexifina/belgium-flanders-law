@@ -2,16 +2,16 @@
   "codex_id": 1026847,
   "title": "Besluit van de Vlaamse Regering van 2016-04-22 betreffende de regeling van projectsubsidies in het kader van de regularisatie van arbeidsplaatsen van gesubsidieerde contractuelen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026847/VolledigDocument?datum=2016-07-01",
-  "source_sha256": "b48cafd24ae018f64c6bf05ff631c82d3bb973429af858ac484580da3b710687",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026847/VolledigDocument?datum=2021-06-25",
+  "source_sha256": "7c44d3db3fb97c4727c72932cd7e85a653fb35e3bf6265596d427d675c18e86e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026847&param=informatie",
-  "as_of": "2016-07-01",
+  "as_of": "2021-06-25",
   "made": "2016-04-22",
   "gazette": "2016-05-26",
   "numac": 2016035802,
   "document_start": "2016-07-01",
   "document_end": null,
-  "in_force": "2016-07-01",
+  "in_force": "2021-06-25",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2016-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-06-25; future article versions excluded; article text as the API gives it"
 }

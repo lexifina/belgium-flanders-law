@@ -18,7 +18,7 @@ De   organisaties moeten de subsidie, vermeld in artikel 1, aanwenden om de   ar
 
 ### ART. 4.
 
-De   subsidie, vermeld in artikel 1, heeft betrekking op de periode van 1 juli 2016   tot en met 30 juni 2021.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+De subsidie, vermeld in artikel 1, heeft betrekking op de periode van 1 juli 2016 tot en met 31 december 2021.
 
 ### ART. 5.
 
