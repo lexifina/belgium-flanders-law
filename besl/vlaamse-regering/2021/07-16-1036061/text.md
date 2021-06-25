@@ -103,6 +103,10 @@ In de rubriek "Onderrichtingen voor het invullen" van bijlage 2 van hetzelfde be
 
 ## HOOFDSTUK 12. Wijziging van het besluit van de Vlaamse Regering van 22 april 2016 betreffende de regeling van projectsubsidies in het kader van de regularisatie van arbeidsplaatsen van gesubsidieerde contractuelen
 
+### ART 63.
+
+In artikel 4 van het besluit van de Vlaamse Regering van 22 april 2016 betreffende de regeling van projectsubsidies in het kader van de regularisatie van arbeidsplaatsen van gesubsidieerde contractuelen wordt de datum "30 juni 2021" vervangen door de datum "31 december 2021".
+
 ## HOOFDSTUK 13. Wijzigingen van het besluit van de Vlaamse Regering van 4 mei 2018 betreffende curriculumdossiers en leerplannen in het onderwijs
 
 ## HOOFDSTUK 14. Wijzigingen van het besluit van de Vlaamse Regering van 1 juni 2018 houdende sommige maatregelen betreffende de modernisering van het secundair onderwijs
