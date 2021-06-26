@@ -8,7 +8,26 @@
 
 ### ART. 1.
 
-In   dit besluit wordt verstaan onder :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   activiteiten met betrekking tot landbouwverbreding : de activiteiten met   betrekking tot hoevetoerisme, dagrecreatie, verwerking van zelf geteelde of   gekweekte landbouwproducten tot producten die niet opgenomen zijn in bijlage 1   van het Verdrag, rechtstreekse verkoop van eigen hoeveproducten, verkoop van   niet zelf geteelde, gekweekte of artisanaal verwerkte hoeveproducten via de   korte keten, productie van hernieuwbare energie voor eigen verbruik,   paardenpension, landschapsbeheer en zorgboerderij;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   bedrijfsleider : de natuurlijke persoon, landbouwer die de leiding heeft van het   landbouwbedrijf en de vennoten van de maatschap die het landbouwbedrijf   exploiteert of de beherende vennoten, zaakvoerders of bestuurders van de   rechtspersoon, landbouwer die het landbouwbedrijf exploiteert;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams   Ministerie van Landbouw en Visserij;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   blokperiode : een periode van maximaal drie maanden waarbinnen aanvragen voor   niet-productieve investeringen of voor de ontwikkeling van kleine   landbouwbedrijven ingediend kunnen worden;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   brutobedrijfsresultaat : het verschil tussen de bedrijfsopbrengsten en de   operationele kosten bepaald op de wijze die wordt beschreven in de bijlage bij   het ministerieel besluit van 1 oktober 2007 betreffende bepalingen en   minimumstandaard voor bedrijfseconomische boekhouding in de landbouw, dienstig   als basis voor de door de Vlaamse overheid gesteunde adviseringssystemen. Het   brutobedrijfsresultaat wordt ofwel vereenvoudigd berekend door de oppervlakte   van de teelten en de aantallen dieren te vermenigvuldigen met een gemiddeld   brutobedrijfsresultaat per eenheid en het resultaat te verhogen met   inkomensvervangende steun, ofwel met controleerbare boekhoudkundige gegevens van   het laatste volledige boekjaar;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   e-loket : het elektronisch loket voor het aanvragen van steun dat ontwikkeld en   beheerd wordt door de bevoegde entiteit;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   klein landbouwbedrijf : een bedrijf waarvan het brutobedrijfsresultaat van de   activiteiten inzake landbouw en landbouwverbreding minimaal 20.000 euro en   maximaal 39.999 euro bedraagt. Het brutobedrijfsresultaat van de activiteiten   inzake landbouw is groter dan dat van de activiteiten inzake   landbouwverbreding;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">8°   landbouwbedrijf : een bedrijf dat activiteiten met betrekking tot landbouw   uitvoert, namelijk het kweken, telen, artisanaal be- en verwerken en   commercialiseren van landbouwproducten die opgenomen zijn in bijlage 1 van het   Verdrag, uitgezonderd producten van de visserij en de viskweek, en activiteiten   met betrekking tot landbouwverbreding met een voldoende brutobedrijfsresultaat.   Het brutobedrijfsresultaat van de activiteiten met betrekking tot landbouw is   groter dan dat van de activiteiten met betrekking tot   landbouwverbreding;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">9°   landbouwer : de natuurlijke persoon of de rechtspersoon die een landbouwbedrijf   exploiteert, die geïdentificeerd is door het Departement Landbouw en Visserij,   en die voldoet aan de voorwaarden om een natuurlijke persoon, landbouwer of een   rechtspersoon, landbouwer te zijn;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">10°   korte keten : een duurzaam afzetsysteem waarbij een rechtstreekse relatie   bestaat tussen de producent en de consument. In de korte keten verkoopt de   producent rechtstreeks, via andere landbouwers of in een samenwerkingsverband   aan de consument;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">11°   maatschap : de vennootschap, vermeld in artikel 2, § 1, van het Wetboek van   Vennootschappen die de exploitatie van een landbouwbedrijf en de   commercialisatie van de voortgebrachte producten als doelstelling   heeft;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">12°   minister : de Vlaamse minister, bevoegd voor de landbouw;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">13°   natuurlijke persoon, landbouwer : de natuurlijke persoon die de exploitatie van   een landbouwbedrijf en de commercialisatie van de voortgebrachte producten als   beroepsactiviteit heeft;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">14°   rechtspersoon, landbouwer :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   de handelsvennootschap, vermeld in artikel 2, § 2, van het Wetboek van   Vennootschappen, met uitzondering van het economisch samenwerkingsverband, die   de exploitatie van een landbouwbedrijf en de commercialisatie van de   voortgebrachte producten als doelstelling heeft en waarin de zaakvoerders of   bestuurders die de landbouwactiviteit uitoefenen, elk minstens 25% van de   aandelen bezitten;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   de landbouwvennootschap, vermeld in artikel 2, § 3, van het Wetboek van   Vennootschappen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">c)   de vereniging zonder winstoogmerk met een maatschappelijke of sociale   doelstelling die de exploitatie van een landbouwbedrijf en de commercialisatie   van de voortgebrachte producten als doelstelling heeft;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">15°   Verdrag : het verdrag betreffende werking van de Europese Unie;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">16°   verzamelaanvraag : de verzamelaanvraag, vermeld in artikel 11 van gedelegeerde   verordening (EU) nr. 640/2014 en in artikel 4 van het besluit van de Vlaamse   Regering van 9 februari 2007 houdende bepalingen tot inrichting van een   gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond   in het kader van het meststoffenbeleid en van het landbouwbeleid.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+In dit besluit wordt verstaan onder :<br>
+1° activiteiten met betrekking tot landbouwverbreding : de activiteiten met betrekking tot hoevetoerisme, dagrecreatie, verwerking van zelf geteelde of gekweekte landbouwproducten tot producten die niet opgenomen zijn in bijlage 1 van het Verdrag, rechtstreekse verkoop van eigen hoeveproducten, verkoop van niet zelf geteelde, gekweekte of artisanaal verwerkte hoeveproducten via de korte keten, productie van hernieuwbare energie voor eigen verbruik, paardenpension, landschapsbeheer en zorgboerderij;<br>
+2° bedrijfsleider : de natuurlijke persoon, landbouwer die de leiding heeft van het landbouwbedrijf en de vennoten van de maatschap die het landbouwbedrijf exploiteert of de beherende vennoten, zaakvoerders of bestuurders van de rechtspersoon, landbouwer die het landbouwbedrijf exploiteert;<br>
+3° bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+4° blokperiode : een periode van maximaal drie maanden waarbinnen aanvragen voor niet-productieve investeringen of voor de ontwikkeling van kleine landbouwbedrijven ingediend kunnen worden;<br>
+5° brutobedrijfsresultaat : het verschil tussen de bedrijfsopbrengsten en de operationele kosten bepaald op de wijze die wordt beschreven in de bijlage bij het ministerieel besluit van 1 oktober 2007 betreffende bepalingen en minimumstandaard voor bedrijfseconomische boekhouding in de landbouw, dienstig als basis voor de door de Vlaamse overheid gesteunde adviseringssystemen. Het brutobedrijfsresultaat wordt ofwel vereenvoudigd berekend door de oppervlakte van de teelten en de aantallen dieren te vermenigvuldigen met een gemiddeld brutobedrijfsresultaat per eenheid en het resultaat te verhogen met inkomensvervangende steun, ofwel met controleerbare boekhoudkundige gegevens van het laatste volledige boekjaar;<br>
+6° e-loket : het elektronisch loket voor het aanvragen van steun dat ontwikkeld en beheerd wordt door de bevoegde entiteit;<br>
+7° klein landbouwbedrijf : een bedrijf waarvan het brutobedrijfsresultaat van de activiteiten inzake landbouw en landbouwverbreding minimaal 20.000 euro en maximaal 39.999 euro bedraagt. Het brutobedrijfsresultaat van de activiteiten inzake landbouw is groter dan dat van de activiteiten inzake landbouwverbreding;<br>
+8° landbouwbedrijf: een bedrijf met ondernemingsnummer dat activiteiten met betrekking tot landbouw uitvoert, namelijk het kweken, telen, artisanaal bewerken en verwerken en commercialiseren van landbouwproducten die opgenomen zijn in bijlage I van het Verdrag, met uitzondering van de producten van de visserij en de viskweek, en activiteiten met betrekking tot landbouwverbreding;<br>
+9° landbouwer : de natuurlijke persoon of de rechtspersoon die een landbouwbedrijf exploiteert, die geïdentificeerd is door het Departement Landbouw en Visserij, en die voldoet aan de voorwaarden om een natuurlijke persoon, landbouwer of een rechtspersoon, landbouwer te zijn;<br>
+10° korte keten : een duurzaam afzetsysteem waarbij een rechtstreekse relatie bestaat tussen de producent en de consument. In de korte keten verkoopt de producent rechtstreeks, via andere landbouwers of in een samenwerkingsverband aan de consument;<br>
+11° maatschap : de vennootschap, vermeld in artikel 1:5, § 1, van het Wetboek van vennootschappen en verenigingen,&nbsp;die de exploitatie van een landbouwbedrijf en de commercialisatie van de voortgebrachte producten als doelstelling heeft;<br>
+12° minister : de Vlaamse minister, bevoegd voor de landbouw;<br>
+13° natuurlijke persoon, landbouwer : de natuurlijke persoon die de exploitatie van een landbouwbedrijf en de commercialisatie van de voortgebrachte producten als beroepsactiviteit heeft;<br>
+14° rechtspersoon, landbouwer :<br>
+a) de vennootschap, vermeld in artikel 1:5, § 2, van het Wetboek van vennootschappen en verenigingen, die de exploitatie van een landbouwbedrijf en de commercialisatie van de voortgebrachte producten als doelstelling heeft en waarin de zaakvoerders of bestuurders die de landbouwactiviteit uitoefenen, elk minstens 25% van de aandelen bezitten;<br>
+b) de erkende landbouwonderneming, vermeld in artikel 8:2 van het Wetboek van Vennootschappen en verenigingen;<br>
+c) de vereniging zonder winstoogmerk met een maatschappelijke of sociale doelstelling die de exploitatie van een landbouwbedrijf en de commercialisatie van de voortgebrachte producten als doelstelling heeft;<br>
+15° Verdrag : het verdrag betreffende werking van de Europese Unie;<br>
+16° verzamelaanvraag : de verzamelaanvraag, vermeld in artikel 11 van gedelegeerde verordening (EU) nr. 640/2014 en in artikel 4 van het besluit van de Vlaamse Regering van 9 februari 2007 houdende bepalingen tot inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid.
 
 ### ART. 2.
 
@@ -18,7 +37,7 @@ In   dit besluit wordt verstaan onder :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: n
 
 ### ART. 3.
 
-<p>De landbouwer die de wettelijke normen over leefmilieu, natuur, ruimtelijke ordening en onroerend erfgoed respecteert, en die niet-productieve investeringen uitvoert die de naleving van die normen niet in het gedrang brengen, kan daarvoor investeringssteun verkrijgen die in aanmerking komt voor cofinanciering uit het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO).</p>
+<p>De landbouwer die de wettelijke normen over leefmilieu, natuur, ruimtelijke ordening en onroerend erfgoed respecteert, en die de niet-productieve investeringen die zijn opgenomen in bijlage 1, die bij dit besluit is gevoegd, uitvoert die de naleving van die normen niet in het gedrang brengen, kan daarvoor investeringssteun verkrijgen die in aanmerking komt voor cofinanciering uit het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO).</p>
 
 <p>De naleving van de wettelijke normen inzake leefmilieu, natuur, ruimtelijke ordening en onroerend erfgoed kan aangetoond worden met een van de volgende documenten :<br>
 1° een omgevingsvergunning bij het uitvoeren van investeringen in onroerende staat waarvoor een omgevingsvergunning vereist is en die de uitoefening van alle bestaande en nieuw geplande bedrijfsactiviteiten, die onderworpen zijn aan het bezit van een omgevingsvergunning, toelaat op het landbouwbedrijf waar de investering uitgevoerd wordt dan wel een melding van handelingen in of aan gebouwen. De uitvoering van de werkzaamheden, de bestemming en de exploitatie van het vergunde bedrijfsgebouw of de vergunde installaties zijn in overeenstemming met de omgevingsvergunning of met de melding, in het bijzonder wat betreft bijzondere voorwaarden die worden opgelegd ter voorkoming van schade aan de natuur;<br>
@@ -29,15 +48,67 @@ In   dit besluit wordt verstaan onder :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: n
 
 ### ART. 4.
 
-<P>De   investering moet verantwoord zijn in het licht van de geografische ligging van   het perceel landbouwgrond waarop of waarnaast de investering uitgevoerd wordt,   en moet passen in de bestaande visies op landinrichting voor het gebied waar het   perceel landbouwgrond ligt.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   verantwoord zijn van de investering kan aangetoond worden met een van de   volgende attesten :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   een attest afgeleverd door de Vlaamse Landmaatschappij voor investeringen in   kleine landschapselementen, poelen en het herstel van aanplantingen langs holle   en trage wegen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   een attest van de Dienst Land- en Bodembescherming van het Departement   Leefmilieu, Natuur en Energie van de Vlaamse Overheid voor investeringen in   erosiedammen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   een attest van de van de Vlaamse Milieumaatschappij voor investeringen in   kleinschalige waterinfrastructuur.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Op   basis van de bestaande visies op landinrichting voor het gebied waar het perceel   landbouwgrond waarop of waarnaast de investering uitgevoerd wordt ligt, kunnen   er op het attest specifieke voorwaarden vermeld worden voor de uitvoering van de   investering.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De niet-productieve investeringen die zijn opgenomen in bijlage 2, die bij dit besluit is gevoegd, komen alleen voor de investeringssteun, vermeld in artikel 3 in aanmerking als de landbouwer voor de uitvoering van de niet-productieve investeringen door private of publieke organisaties die actief zijn rond agrarisch landschaps- en natuurbeheer, een technisch verantwoordingsadvies laat opmaken.<br>
+<br>
+In afwijking van het eerste lid komen niet-productieve investeringen die zijn opgenomen in bijlage 2, die bij dit besluit is gevoegd, voor investeringssteun in aanmerking zonder technisch verantwoordingsadvies, als de investering het voorwerp uitmaakt van een vergunning die een gelijkwaardige verantwoording biedt.<br>
+<br>
+De minister bepaalt welke vergunningen een gelijkwaardige verantwoording bieden.<br>
+<br>
+Het technische verantwoordingsadvies, vermeld in het eerste lid, bevat de volgende elementen:<br>
+1° een verantwoording van de omvang en de geografische locatie van de niet-productieve investering;<br>
+2° een milieukundige, natuurkundige en landschappelijke verantwoording;<br>
+3° specifieke voorwaarden rond de inzetbaarheid van de investering.<br>
+<br>
+De minister kan de elementen, vermeld in het vierde lid, nader bepalen en vormelijke regels vaststellen waaraan het technische verantwoordingsadvies, vermeld in het eerste lid, moet voldoen.</p>
 
 ### ART. 5.
 
-<P>De   investeringssteun heeft de vorm van een investeringspremie.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   steunintensiteit bedraagt maximaal 100% van de aanvaardbare   investeringskosten.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   investeringspremie wordt betaald na aangifte van de investering via de   verzamelaanvraag en na een controle op de voorwaarden voor het verkrijgen van de   steun.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De investeringssteun heeft de vorm van een investeringspremie.</p>
+
+<p>De steunintensiteit is afhankelijk van de mate waarin de investering opbrengst verhogend of kostenbesparend is, en bedraagt maximaal:<br>
+1° 100% voor de investeringen met een verwaarloosbaar productief karakter, vermeld in bijlage 3, die bij dit besluit is gevoegd;<br>
+2° 75% voor de investeringen waarvoor een secundair positief effect op de productie bewezen is of waarbij een secundair negatief effect van de productie vermeden wordt, vermeld in bijlage 3, die bij dit besluit is gevoegd;<br>
+<br>
+De investeringspremie wordt betaald nadat de aanvrager de betalingsaanvraag heeft ingediend en nadat de bevoegde entiteit de voorwaarden voor het verkrijgen van de steun heeft gecontroleerd.<br>
+<br>
+Bij de betalingsaanvraag, vermeld in het derde lid, worden de volgende documenten gevoegd:<br>
+1° het technische verantwoordingsadvies, vermeld in artikel 4;<br>
+2° alle facturen voor de investering.<br>
+<br>
+De minister kan in bijkomende documenten voorzien die bij de betalingsaanvraag moeten worden gevoegd.<br>
+<br>
+De aanvaardbare investeringskosten bestaan voor maximaal 10% uit kosten voor het technische verantwoordingsadvies, vermeld in artikel 4.</p>
 
 ### ART. 6.
 
-<P>§   1. De steunregeling, vermeld in artikel 5, kan betrekking hebben op   investeringen in materiële activa die een bijdrage leveren aan de realisatie van   doelstellingen over biodiversiteit, verminderde erosie, waterbeheer en de   landschappelijke integratie van bedrijfsgebouwen. De volgende types   investeringen kunnen in aanmerking komen voor steun :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de aanleg en de heraanleg van kleine landschapselementen, zoals hagen, heggen,   houtkanten en bomenrijen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de aanleg en de heraanleg van poelen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de aanleg en de heraanleg van dammen op erosiestroken;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de aanleg van kleinschalige waterinfrastructuur, zoals regelbare stuwtjes,   grond- en stenen dammen, knijpconstructies en peilbuizen voor regelbare   stuwtjes, een retentiebekken, een wetland om water vast te houden of vertraagd   af te voeren, het aanpassen van een slootprofiel en het herstel van een   gracht;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   de heraanleg van kleinschalige waterinfrastructuur, zoals regelbare stuwtjes, de   aanpassing van een slootprofiel en het herstel van een gracht, om water vast te   houden of vertraagd af te voeren;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   het herstel van aanplantingen langs holle en publiek toegankelijke trage   wegen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Om   in aanmerking te kunnen komen voor de steun, vermeld in dit besluit, mag de   investering uitsluitend uitgevoerd worden op of langs landbouwgronden die   geregistreerd zijn in het geïntegreerd beheers- en controlesysteem, vermeld in   artikel 2, 14°, van het decreet van 22 december 2006 houdende inrichting van een   gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond   in het kader van het meststoffenbeleid en van het landbouwbeleid. Bij de   indiening van de eerste verzamelaanvraag die volgt op de uitvoering van de   investering, duidt de landbouwer de landbouwgronden aan waarop of waarlangs de   investering waarvoor de steun aangevraagd is, uitgevoerd is.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   het verkrijgen van investeringssteun gelden de volgende voorwaarden :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de investering mag niet opbrengstverhogend zijn voor de landbouwer;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het plantgoed voor een haag, heg, houtkant of een bomenrij bestaat uitsluitend   uit soorten opgenomen in bijlage 1 die bij dit besluit is gevoegd en mag alleen   mechanisch beschermd worden tegen vraat;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   een haag is minimaal 25 meter lang, heeft minimaal vier planten per meter, is   aangelegd met plantgoed dat minimaal 40 centimeter hoog is en wordt aangeplant   tussen 15 oktober en 31 maart. Indien uitsluitend autochtoon plantgoed gebruikt   wordt, moet dit met een attest aangetoond worden. Dode planten worden door   geschikte soorten vervangen. Indien noodzakelijk wordt de haag met een   afrastering beschermd tegen het vee;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   een heg is minimaal 25 meter lang, heeft minimaal 1 plant per meter, is   aangelegd met plantgoed dat minimaal 40 centimeter hoog is en wordt aangeplant   tussen 15 oktober en 31 maart. Indien uitsluitend autochtoon plantgoed gebruikt   wordt, moet dit met een attest aangetoond worden. Dode planten worden door   geschikte soorten vervangen. Indien noodzakelijk wordt de heg met een   afrastering beschermd tegen het vee;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   een houtkant heeft een oppervlakte van minimaal 1 are en een breedte van   maximaal 10 meter, is aangelegd met plantgoed dat minimaal 40 centimeter hoog is   en wordt aangeplant tussen 15 oktober en 31 maart. De aanplant gebeurt in   driehoeksverband met een maximale plantafstand van 1,5 meter. Indien uitsluitend   autochtoon plantgoed gebruikt wordt, moet dit met een attest aangetoond worden.   Dode planten worden door geschikte soorten vervangen. Indien noodzakelijk wordt   de houtkant met een afrastering beschermd tegen het vee;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   een bomenrij bestaat uit minimaal 10 loofbomen van dezelfde soort, is aangelegd   met plantgoed met minimale stammaat 8/10 en wordt aangeplant tussen 15 oktober   en 31 maart. De plantafstand bedraagt 5 tot 15 meter. Indien uitsluitend   aangeplant met autochtoon plantgoed wordt dit met een attest aangetoond. Dode   planten worden door geschikte soorten vervangen. Indien noodzakelijk wordt de   bomenrij met een afrastering beschermd tegen het vee;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   een poel is altijd aangelegd op een perceel grasland, heeft een oppervlakte van   minimaal 25 m² en maximaal 500 m², is tussen 0,5 en 1,5 meter diep, heeft een   glooiende oever en er zijn geen waterplanten in aangebracht. In de poel mogen   geen vissen of watervogels worden uitgezet. Wanneer het water van de poel   gebruikt wordt als drinkwater voor vee moet die beschermd worden tegen   vertrappeling;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">8°   een erosiedam heeft, tenzij er stroomopwaarts erosiebeperkende maatregelen   werden genomen, een afstromingsgebied van maximaal 5 ha, wordt dwars op de   afstromingsrichting geplaatst, hetzij lineair hetzij in een hoek. Stroomopwaarts   van de dam wordt aansluitend geen uitgegraven zone of erosiepoel aangelegd. De   dammen worden verankerd met palen in hout van duurzaamheidsklasse I of II met   een diameter van minstens 10 centimeter en maximaal 1 meter van elkaar in de   rij. De dammen worden minimaal 20 centimeter ingegraven. Een houthakseldam wordt   verankerd met een dubbele palenrij waaraan gegalvaniseerde gaasdraad bevestigd   wordt met een minimale diameter van 2 millimeter en een maximale gaaswijdte van   2,5 centimeter. De houthakseldam is minimaal één meter breed en opgevuld met   wortelhout. Een lage houthakseldam is minimaal 50 en maximaal 75 centimeter   hoog. Een hoge houthakseldam is hoger dan 75 centimeter. Een gewone   wilgentenendam wordt verankerd met een dubbele palenrij waartussen bussels   wilgentenen horizontaal worden geschrankt. De bussels worden aangedrukt en door   een draad of lat op hun plaats gehouden. De dam is minimaal 50 centimeter breed   en komt minimaal 50 centimeter boven het maaiveld. Bij een levende   wilgentenendam wordt een gewone wilgentenendam gecombineerd met een aanplanting   van een enkele of een dubbele rij levende wilgentenen. De afstand tussen levende   wilgentenen bedraagt maximaal 20 centimeter. Een enkele rij wordt aan de   stroomafwaartse zijde van de dam aangeplant;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">9°   het plaatsen of herstellen van een regelbare stuw, het plaatsen van gronddammen   of stenen dammen, het plaatsen van een knijpconstructie, de aanleg van een   retentiebekken of wetland en het herstellen van een gracht zorgt voor een beter   vasthouden van het water in stroomopwaarts gebied. Peilbuizen moeten toelaten de   stuurbare inrichtingsmaatregel af te stemmen op de grondwaterstand. Een   retentiebekken of wetland wordt niet voor landbouwkundige doeleinden gebruikt.   Het retentiebekken of wetland wordt in verbinding met een niet-gecategoriseerde   waterloop aangelegd. De aanpassing van het slootprofiel moet de bufferende   werking en wateropslagcapaciteit in het landbouwperceel verhogen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">10°   de investering wordt uitgevoerd met inachtneming van de mogelijke specifieke   voorwaarden vermeld op het attest als bedoeld in artikel vier, tweede   lid.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De volgende investeringen komen niet in aanmerking voor investeringssteun als   vermeld in artikel 5 van dit besluit :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   irrigatiewerken;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   investeringen die voortvloeien uit een wettelijke verplichting;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   een haag, heg, houtkant of bomenrij die deel uitmaakt van een tuin of kan   beschouwd worden als erfbeplanting of een windscherm;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de aanleg van een houtachtig windscherm rond een teelt;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   kleinschalige waterinfrastructuur die geplaatst wordt op een gecategoriseerde   waterloop of die rechtstreeks in verbinding staat met een gecategoriseerde   waterloop.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. De steunregeling, vermeld in artikel 5, kan betrekking hebben op investeringen in materiële en immateriële activa, die een bijdrage leveren aan de realisatie van minstens een van de volgende doelstellingen:<br>
+1° bevordering van biodiversiteit;<br>
+2° habitatbescherming;<br>
+3° erosievermindering;<br>
+4° verbetering van bodemkwaliteit;<br>
+5° verbetering van waterbeheer;<br>
+6° verbetering van waterkwaliteit;<br>
+7° landschappelijke ontwikkeling;<br>
+8° landschappelijke integratie van bedrijfsgebouwen.<br>
+<br>
+De volgende types investeringen kunnen in aanmerking komen voor steun:<br>
+1° de aanleg en de heraanleg van kleine landschapselementen, zoals hagen, heggen, houtkanten en bomenrijen;<br>
+2° de aanleg en de heraanleg van poelen;<br>
+3° de aanleg en de heraanleg van plantaardige erosiedammen;<br>
+4° de aanleg van kleinschalige waterinfrastructuur, zoals regelbare stuwtjes, gronddammen en stenen dammen, knijpconstructies en peilbuizen voor regelbare stuwtjes, een retentiebekken, een wetland om water vast te houden of vertraagd af te voeren;<br>
+5° de aanleg van wateropslagsystemen: een spaar- en bufferbekken en een waterreservoir of -bassin;<br>
+6° de aanleg van infiltratiesystemen, zoals een infiltratiebekken en een waterinfiltrerende erfverharding;<br>
+7° investeringen die de verspreiding van gewasbeschermingsmiddelen in het milieu voorkomen, zoals mechanische onkruidbestrijding;<br>
+8° investeringen die de biodiversiteit op en rond het bedrijf vergroten, zoals nest- en bijenkasten en wildredders;<br>
+9° investeringen ter preventie van schade aan dieren en teelten die door wolven veroorzaakt is;<br>
+10° landschappelijke integratie van bedrijfsgebouwen, zoals gevelbegroeiing en groendaken;<br>
+11° investeringen die de bodemkwaliteit verbeteren, zoals graslandwoeler en compostkeerder.<br>
+<br>
+§ 2. De volgende investeringen komen niet in aanmerking voor investeringssteun als vermeld in artikel 5:<br>
+1° irrigatiewerken;<br>
+2° investeringen die het gevolg zijn van wettelijke verplichtingen of het gevolg zijn van lasten of voorwaarden die gesteld worden om een omgevingsvergunning te bekomen;<br>
+3° kleinschalige waterinfrastructuur die geplaatst wordt op een gecategoriseerde waterloop of die rechtstreeks in verbinding staat met een gecategoriseerde waterloop;<br>
+4° tweedehandsmateriaal.</p>
 
 ### ART. 7.
 
@@ -45,22 +116,29 @@ De   totale omvang van de subsidiabele investeringen bedraagt per aanvraag voor 
 
 ### ART. 8.
 
-<P>De   landbouwer of de groepering van landbouwers die de investeringssteun, vermeld in   artikel 5, wil verkrijgen, dient daarvoor een aanvraag in bij de bevoegde   entiteit.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   het eerste lid wordt verstaan onder groepering van landbouwers : een vereniging   van ten minste twee landbouwers die elk een landbouwbedrijf   exploiteren.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   diensten en agentschappen die afhangen van het Vlaamse Gewest, de besturen,   alsook de publiekrechtelijke en privaatrechtelijke rechtspersonen die in het   Vlaamse Gewest belast zijn met taken van openbaar nut, en de erkende   terreinbeherende natuurverenigingen, vermeld in het Natuurdecreet, kunnen geen   aanvraag voor steun indienen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Een   aanvraag wordt uitsluitend ingediend via het e-loket. Het investeringsproject   wordt beschreven aan de hand van een selectie van de voorgenomen investeringen   uit de limitatieve lijst van subsidiabele investeringen. Per kalenderjaar kunnen   maximaal twee aanvragen voor investeringssteun per bedrijf ingediend   worden.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   aanvraag verschaft informatie over de geraamde investeringsbedragen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Per   blokperiode worden de investeringen waarvoor de steun aangevraagd is,   gerangschikt van hoog naar laag volgens de mate waarin ze bijdragen aan de   verhoging van de biodiversiteit, de vermindering van erosie, het waterbeheer en   de landschappelijke integratie van bedrijfsgebouwen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   mate waarin een investering bijdraagt aan de realisatie van de doelstellingen   wordt uitgedrukt in een doelmatigheidsscore als een som van drie scores die   resulteren uit een beoordeling van de investering op basis van de volgende   criteria :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   een criterium dat uitdrukt in welke mate de investering bijdraagt aan de   realisatie van de doelstellingen inzake biodiversiteit en van landschappelijke   waarde is;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   een criterium dat uitdrukt in welke mate de investering bijdraagt aan een   verbetering van het waterbeheer;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   een criterium dat uitdrukt in welke mate de investering bijdraagt aan een   verbetering van het bodembeheer.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   scores worden vastgesteld door de bevoegde entiteit op basis van actuele kennis   over het effect van de investeringen en blijven onveranderd gedurende een   lopende blokperiode.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De landbouwer of de groepering van landbouwers die de investeringssteun, vermeld in artikel 5, wil verkrijgen, dient daarvoor een aanvraag in bij de bevoegde entiteit.</p>
+
+<p>In het eerste lid wordt verstaan onder groepering van landbouwers : een vereniging van ten minste twee landbouwers die elk een landbouwbedrijf exploiteren.</p>
+
+<p>De diensten en agentschappen die afhangen van het Vlaamse Gewest, de besturen, alsook de publiekrechtelijke en privaatrechtelijke rechtspersonen die in het Vlaamse Gewest belast zijn met taken van openbaar nut, en de erkende terreinbeherende natuurverenigingen, vermeld in het Natuurdecreet, kunnen geen aanvraag voor steun indienen.</p>
+
+<p>Een aanvraag wordt uitsluitend ingediend via het e-loket. Het investeringsproject wordt beschreven aan de hand van een selectie van de voorgenomen investeringen uit de limitatieve lijst van subsidiabele investeringen.&nbsp;</p>
+
+<p>De aanvraag verschaft informatie over de geraamde investeringsbedragen.</p>
+
+<p>Per blokperiode worden de investeringen waarvoor steun aangevraagd is, gerangschikt van hoog naar laag volgens de mate waarin ze bijdragen aan de realisatie van de doelstellingen, vermeld in artikel 6, § 1, eerste lid.</p>
+
+<p>De scores worden vastgesteld door de bevoegde entiteit op basis van actuele kennis over het effect van de investeringen en blijven onveranderd gedurende een lopende blokperiode.</p>
 
 ### ART. 9.
 
 <p>Binnen het beschikbare budget worden de hoogst gerangschikte investeringen in aanmerking genomen voor het verkrijgen van steun, op voorwaarde dat de investering bijdraagt aan de realisatie van de doelstellingen, wat blijkt uit het behalen van een minimaal noodzakelijke doelmatigheidsscore.</p>
 
-<p>Een aanvraag die in aanmerking komt voor steun moet aansluitend binnen maximumtermijnen vervolledigd worden met gegevens en documenten die noodzakelijk zijn voor de afhandeling van het dossier, als de bevoegde entiteit daarom verzoekt. De maximumtermijnen zijn :<br>
-1° twee jaar na het afsluiten van de blokperiode waarin de aanvraag geregistreerd werd voor de eventueel noodzakelijke vergunningen of de noodzakelijke toelating, vermeld in artikel 3, tweede lid;<br>
-2° drie jaar na afsluiten van de blokperiode waarin de aanvraag geregistreerd werd voor wat betreft het voorleggen van investerings- en betalingsbewijzen;<br>
-3° de termijn zoals bepaald bij de individuele beslissing voor specifieke en individuele voorwaarden.</p>
-
-<p>Het subsidiabel bedrag van de investering waarvoor de steun gevraagd wordt kan beperkt worden op basis van maximale subsidiabele investeringsbedragen per oppervlakte- of lengte-eenheid of per stuk. De maximale subsidiabele investeringsbedragen zijn opgenomen in bijlage 2 die bij dit besluit is gevoegd.</p>
-
-<p>De steun, vermeld in artikel 5, kan enkel verkregen worden voor investeringen die van start gegaan zijn nadat het aangemelde investeringsproject principieel aanvaard is op basis van de selectieprocedure, vermeld in artikel 8, zesde lid. Een investering is van start gegaan op het tijdstip dat de landbouwer zich contractueel verbonden heeft tot de realisatie ervan. Die verbintenis blijkt uit een ondertekende overeenkomst, de instemming met een offerte, een verkoopovereenkomst of gelijksoortige documenten. De datum van de eerste factuur die betrekking heeft op de investeringen waarvoor steun gevraagd wordt, is de uiterste startdatum. Voorbereidende acties zoals de aankoop van grond, de aanvraag van een stedenbouwkundige vergunning of een milieuvergunning of de aanvraag van advies of een prijsofferte, worden niet beschouwd als de start van de investering.</p>
-
-<p>De investeringen moeten beëindigd worden binnen twee jaar na de beslissing over de principiële aanvaarding van het aangemelde investeringsproject op basis van de selectieprocedure, vermeld in artikel 8, zesde lid. De uitvoering wordt aangetoond met investerings- en betalingsbewijzen. Het einde van de investeringen wordt bepaald als de datum van de laatste factuur.</p>
+<p>De betalingsaanvraag, vermeld in artikel 5, derde lid, wordt uiterlijk ingediend op de laatste dag van de dertigste maand na de laatste maand van de blokperiode waarin de aanvraag, vermeld in artikel 8, eerste lid, is ingediend.<br>
+<br>
+Het subsidiabele bedrag van de investering waarvoor de steun gevraagd wordt, kan door de minister beperkt worden op basis van maximale subsidiabele investeringsbedragen per oppervlakte-eenheid, per lengte-eenheid, per volume-eenheid of per stuk. Daarnaast kan de minister voor investeringen bijkomende voorwaarden opleggen.<br>
+<br>
+De investeringen waarvoor geen verantwoordingsadvies, vermeld in artikel 3, eerste lid, vereist is, komen enkel in aanmerking voor de steun, vermeld in artikel 5, als ze van start gegaan zijn nadat het aangemelde investeringsproject principieel aanvaard is op basis van de selectieprocedure, vermeld in artikel 8, zesde lid. De investeringen waarvoor wel een technisch verantwoordingsadvies, vermeld in artikel 3, eerste lid, vereist is, komen enkel in aanmerking voor de steun, vermeld in artikel 5, als ze van start gegaan zijn nadat het aangemelde investeringsproject principieel aanvaard is op basis van de selectieprocedure, vermeld in artikel 8, zesde lid en nadat het technisch verantwoordingsadvies, vermeld in artikel 3, eerste lid, opgemaakt werd. Een investering is van start gegaan op het tijdstip dat de landbouwer zich contractueel verbonden heeft tot de realisatie ervan. Die verbintenis blijkt uit een ondertekende overeenkomst, de instemming met een offerte, een verkoopovereenkomst of gelijksoortige documenten. De datum van de eerste factuur die betrekking heeft op de investeringen waarvoor steun gevraagd wordt, is de uiterste startdatum. Voorbereidende acties zoals de aankoop van grond, de aanvraag van een stedenbouwkundige vergunning, een milieuvergunning, een omgevingsvergunning of de aanvraag van advies of een prijsofferte, worden niet beschouwd als de start van de investering.</p>
 
 ## HOOFDSTUK 3 Aanloopsteun voor de ontwikkeling van kleine landbouwbedrijven
 
@@ -176,8 +254,532 @@ De Vlaamse minister, bevoegd voor de landbouw, is belast met de uitvoering   van
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/12/20_2.pdf#page=91">Bijlage 1</a>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;"><u>Niet-productieve investeringen als vermeld in artikel 3, eerste lid</u></span></span></span><br>
+&nbsp;
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>thema</td>
+			<td>naam niet-productieve investering</td>
+		</tr>
+		<tr>
+			<td>biodiversiteit</td>
+			<td>aankoop wildredder (akoestisch of schrikbar)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;arenstripper binnen een afgelijnd geografisch gebied</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;behoud van solitaire bijen, kleine bijenkast - bijenhotel</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;nestkasten</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;huiszwaluwtil</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;wolfproof maken van omheining binnen een afgelijnd geografisch gebied</td>
+		</tr>
+		<tr>
+			<td>landschap</td>
+			<td>aanleg bomenrij (streekeigen, top-up indien autochtoon)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg bomenrij autochtoon NAT2000*</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg haag (streekeigen, top-up indien autochtoon)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg haag autochtoon NAT2000*</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg heg (streekeigen, top-up indien autochtoon)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg heg autochtoon NAT2000*</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg houtkant (streekeigen, top-up indien autochtoon)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg houtkant autochtoon NAT2000*</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg poel van minimaal 50m<sup>2</sup>&nbsp;(bedrag per m<sup>2</sup>)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg poel (min. 50m<sup>2</sup>) met bescherming tegen vee (bedrag per m<sup>2</sup>)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;bomen aanplant (vrijstaande, schaduw) met maximum 29 bomen per hectare</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;boombescherming - boomkokers</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;boombescherming - houten palen en boomband</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;plantbescherming (voor hagen, heggen, houtkanten)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;dakbegroening van bedrijfsgebouwen</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;gevelbegroening van bedrijfsgebouwen</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;landschappelijke integratie van bedrijfsgebouwen</td>
+		</tr>
+		<tr>
+			<td>water - infiltratiesystemen</td>
+			<td>aanleg natuurvriendelijke oevers</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;elektronische waterpeilmeters (+peilbuis)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;infiltratiesystemen (WADI en andere)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;ondergrondse infiltratiesystemen</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;waterinfiltrerende erfverharding</td>
+		</tr>
+		<tr>
+			<td>wateropslag met infiltratie</td>
+			<td>grond- en stenen dammen</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;knijpconstructies</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;omvorming van gewone drainage naar peilgestuurde drainage; infiltratie drainagesysteem of onderwaterdrainage of drukdrainage</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;plaatsen plas-dras pomp</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;plaatsen regelbare stuw</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;wetland</td>
+		</tr>
+		<tr>
+			<td>wateropslagsystemen</td>
+			<td>buffer- en spaarbekken (met ecologische inrichting)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;wateropslag voor regenwater</td>
+		</tr>
+		<tr>
+			<td>waterkwaliteit</td>
+			<td>machines voor mechanische onkruidbestrijding en loofverwijdering</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;weerstation voor gebruik binnen waarnemings- en waarschuwingssysteem met als doel de toepassing van geïntegreerde gewasbescherming</td>
+		</tr>
+		<tr>
+			<td>erosie - bodem</td>
+			<td>hoge houthakseldam (&gt;75 cm)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;lage houthakseldam (50-75 cm)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;hoge kokosbalendam (3 balen)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;lage kokosbalendam (2 balen)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;levende wilgentenendam (min. 50 cm)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;wilgentenendam (min. 50 cm)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;compostkeerder</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;drempelmachine</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;graslandwoeler</td>
+		</tr>
+	</tbody>
+</table>
 
 ### BIJLAGE 2
 
-Overzicht   van in aanmerking te nemen maximale subsidiabele investeringsbedragen per   oppervlakte- of lengte-eenheid of per stuk in euro zonder btw als vermeld in   artikel 9, derde lid&nbsp;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>aard van het klein landschapselement</TD>      <TD>normeenheid</TD>      <TD>normbedrag&nbsp;<BR></TD></TR>    <TR>      <TD>a) aanleg haag</TD>      <TD>euro per m</TD>      <TD>4,76&nbsp;<BR></TD></TR>    <TR>      <TD>b) aanleg haag autochtoon</TD>      <TD>euro per m</TD>      <TD>5,24&nbsp;<BR></TD></TR>    <TR>      <TD>c) aanleg haag met bescherming tegen vee</TD>      <TD>euro per m</TD>      <TD>7,01&nbsp;<BR></TD></TR>    <TR>      <TD>d) aanleg haag autochtoon met bescherming tegen vee</TD>      <TD>euro per m</TD>      <TD>7,49&nbsp;<BR></TD></TR>    <TR>      <TD>e) aanleg heg</TD>      <TD>euro per m</TD>      <TD>1,21&nbsp;<BR></TD></TR>    <TR>      <TD>f) aanleg heg autochtoon</TD>      <TD>euro per m</TD>      <TD>1,33&nbsp;<BR></TD></TR>    <TR>      <TD>g) aanleg heg met bescherming tegen vee</TD>      <TD>euro per m</TD>      <TD>3,46&nbsp;<BR></TD></TR>    <TR>      <TD>h) aanleg heg autochtoon met bescherming tegen vee</TD>      <TD>euro per m</TD>      <TD>3,58&nbsp;<BR></TD></TR>    <TR>      <TD>i) aanleg houtkant</TD>      <TD>euro per are</TD>      <TD>56,12&nbsp;<BR></TD></TR>    <TR>      <TD>j) aanleg houtkant autochtoon</TD>      <TD>euro per are</TD>      <TD>61,79&nbsp;<BR></TD></TR>    <TR>      <TD>k) aanleg houtkant met bescherming tegen vee</TD>      <TD>euro per are</TD>      <TD>78,62&nbsp;<BR></TD></TR>    <TR>      <TD>l) aanleg houtkant autochtoon met bescherming tegen vee</TD>      <TD>euro per are</TD>      <TD>84,29&nbsp;<BR></TD></TR>    <TR>      <TD>m) aanleg bomenrij</TD>      <TD>euro per boom</TD>      <TD>30,51&nbsp;<BR></TD></TR>    <TR>      <TD>n) aanleg bomenrij met bescherming tegen vee</TD>      <TD>euro per boom</TD>      <TD>53,01&nbsp;<BR></TD></TR>    <TR>      <TD>o) aanleg poel met oppervlakte tussen 25 m² en 100 m²</TD>      <TD>euro per poel</TD>      <TD>1158,00&nbsp;<BR></TD></TR>    <TR>      <TD>p) aanleg poel met oppervlakte tussen 25 m² en 100 m² met bescherming         tegen vee</TD>      <TD>euro per poel</TD>      <TD>1295,00&nbsp;<BR></TD></TR>    <TR>      <TD>q) aanleg poel met oppervlakte tussen 101 m² en 300 m²</TD>      <TD>euro per poel</TD>      <TD>2385,00&nbsp;<BR></TD></TR>    <TR>      <TD>r) aanleg poel met oppervlakte tussen 101 m² en 300 m² met bescherming         tegen vee</TD>      <TD>euro per poel</TD>      <TD>2621,00&nbsp;<BR></TD></TR>    <TR>      <TD>s) aanleg poel met oppervlakte tussen 301 m² en 500 m²</TD>      <TD>euro per poel</TD>      <TD>2518,00&nbsp;<BR></TD></TR>    <TR>      <TD>t) aanleg poel met oppervlakte tussen 301 m² en 500 m² met bescherming         tegen vee</TD>      <TD>euro per poel</TD>      <TD>2724,00&nbsp;<BR></TD></TR>    <TR>      <TD>u) lage houthakseldam</TD>      <TD>euro per m</TD>      <TD>140,00&nbsp;<BR></TD></TR>    <TR>      <TD>v) hoge houthakseldam</TD>      <TD>euro per m</TD>      <TD>155,00&nbsp;<BR></TD></TR>    <TR>      <TD>w) wilgentenendam</TD>      <TD>euro per m</TD>      <TD>80,00&nbsp;<BR></TD></TR>    <TR>      <TD>x) levende wilgentenendam</TD>      <TD>euro per m</TD>      <TD>85,00&nbsp;<BR></TD></TR>    <TR>      <TD>y) plaatsen regelbare stuw</TD>      <TD>euro per stuk</TD>      <TD>2350,00&nbsp;<BR></TD></TR>    <TR>      <TD>z) herstel regelbare stuw</TD>      <TD>euro per stuk</TD>      <TD>500,00&nbsp;<BR></TD></TR>    <TR>      <TD>aa) grond- en stenen dam</TD>      <TD>euro per stuk</TD>      <TD>650,00&nbsp;<BR></TD></TR>    <TR>      <TD>ab) knijpconstructie</TD>      <TD>euro per stuk</TD>      <TD>1500,00&nbsp;<BR></TD></TR>    <TR>      <TD>ac) peilbuis</TD>      <TD>euro per stuk</TD>      <TD>500,00&nbsp;<BR></TD></TR>    <TR>      <TD>ad) retentiebekken of wetland</TD>      <TD>euro per m²</TD>      <TD>2,10&nbsp;<BR></TD></TR>    <TR>      <TD>ae) aanpassen slootprofiel</TD>      <TD>euro per m® grondverzet</TD>      <TD>8,00&nbsp;<BR></TD></TR>    <TR>      <TD>af) herstel van gracht</TD>      <TD>euro per m® grondverzet</TD>      <TD>5,00<BR></TD></TR></TBODY></TABLE><BR   class=Apple-interchange-newline>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;"><u>Niet-productieve investeringen als vermeld in artikel 4, eerste lid</u></span></span></span><br>
+&nbsp;
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>thema</td>
+			<td>naam niet-productieve investering</td>
+		</tr>
+		<tr>
+			<td>landschap</td>
+			<td>aanleg bomenrij (streekeigen, top-up indien autochtoon)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg bomenrij autochtoon NAT2000*</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg haag (streekeigen, top-up indien autochtoon)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg haag autochtoon NAT2000*</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg heg (streekeigen, top-up indien autochtoon)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg heg autochtoon NAT2000*</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg houtkant (streekeigen, top-up indien autochtoon)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg houtkant autochtoon NAT2000*</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg poel van minimaal 50 m<sup>2</sup>&nbsp;(bedrag per m<sup>2</sup>)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg poel (min. 50 m<sup>2</sup>) met bescherming tegen vee (bedrag per m<sup>2</sup>)</td>
+		</tr>
+		<tr>
+			<td>water - infiltratiesystemen</td>
+			<td>aanleg natuurvriendelijke oevers</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;infiltratiesystemen (WADI en andere)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;ondergrondse infiltratiesystemen</td>
+		</tr>
+		<tr>
+			<td>wateropslag met infiltratie</td>
+			<td>grond- en stenen dammen</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;knijpconstructies</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;omvorming van gewone drainage naar peilgestuurde drainage; infiltratie drainagesysteem of onderwaterdrainage of drukdrainage</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;plaatsen plas-dras pomp</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;plaatsen regelbare stuw</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;wetland</td>
+		</tr>
+		<tr>
+			<td>wateropslagsystemen</td>
+			<td>buffer- en spaarbekken (met ecologische inrichting)</td>
+		</tr>
+		<tr>
+			<td>erosie - bodem</td>
+			<td>hoge houthakseldam (&gt;75 cm)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;lage houthakseldam (50-75 cm)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;hoge kokosbalendam (3 balen)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;lage kokosbalendam (2 balen)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;levende wilgentenendam (min. 50 cm)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;wilgentenendam (min. 50 cm)</td>
+		</tr>
+	</tbody>
+</table>
+
+### Bijlage 3
+
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;"><u>Maximale steunintensiteit als vermeld in artikel 5, tweede lid</u></span></span></span><br>
+&nbsp;
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>thema</td>
+			<td>naam niet-productieve investering (gerangschikt volgens steunintensiteit)</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>biodiversiteit</td>
+			<td>huiszwaluwtil</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;nestkasten</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;behoud van solitaire bijen, kleine bijenkast - bijenhotel</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aankoop wildredder (akoestisch of schrikbar)</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;arenstripper binnen een afgelijnd geografisch gebied</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;wolfproof maken van omheining binnen een afgelijnd geografisch gebied</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>landschap</td>
+			<td>aanleg bomenrij (streekeigen, top-up indien autochtoon)</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg bomenrij autochtoon NAT2000*</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg haag (streekeigen, top-up indien autochtoon)</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg haag autochtoon NAT2000*</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg heg (streekeigen, top-up indien autochtoon)</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg heg autochtoon NAT2000*</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg houtkant (streekeigen, top-up indien autochtoon)</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg houtkant autochtoon NAT2000*</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;bomen aanplant (vrijstaande, schaduw) met maximum 29 bomen per hectare</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;boombescherming - boomkokers</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;boombescherming - houten palen en boomband</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;plantbescherming (voor hagen, heggen, houtkanten)</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg poel van minimaal 50 m<sup>2</sup>&nbsp;(bedrag per m<sup>2</sup>)</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;aanleg poel (min. 50 m<sup>2</sup>) met bescherming tegen vee (bedrag per m<sup>2</sup>)</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;dakbegroening van bedrijfsgebouwen</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;gevelbegroening van bedrijfsgebouwen</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;landschappelijke integratie van bedrijfsgebouwen</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>water - infiltratiesystemen</td>
+			<td>aanleg natuurvriendelijke oevers</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;infiltratiesystemen (wadi en andere)</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;ondergrondse infiltratiesystemen</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;waterinfiltrerende erfverharding</td>
+			<td>75%</td>
+		</tr>
+		<tr>
+			<td>water - wateropslag met infiltratie</td>
+			<td>wetland</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;plaatsen plas-dras pomp</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;plaatsen regelbare stuw</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;grond- en stenen dammen</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;knijpconstructies</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;omvorming van gewone drainage naar peilgestuurde drainage; infiltratie drainagesysteem of onderwaterdrainage of drukdrainage</td>
+			<td>75%</td>
+		</tr>
+		<tr>
+			<td>water - wateropslagsystemen</td>
+			<td>buffer- en spaarbekken (met ecologische inrichting)</td>
+			<td>75%</td>
+		</tr>
+		<tr>
+			<td>erosie/bodem</td>
+			<td>hoge houthakseldam (&gt;75 cm)</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;lage houthakseldam (50-75 cm)</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;hoge kokosbalendam (3 balen)</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;lage kokosbalendam (2 balen)</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;levende wilgentenendam (min. 50 cm)</td>
+			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;wilgentenendam (min. 50 cm)</td>
+			<td>100%</td>
+		</tr>
+	</tbody>
+</table>
