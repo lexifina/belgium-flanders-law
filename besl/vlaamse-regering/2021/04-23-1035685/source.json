@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035685,
+  "title": "Besluit van de Vlaamse Regering van 2021-04-23 tot de verdeling van de overgedragen provinciale investeringsmiddelen voor het begrotingsjaar 2021",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035685/VolledigDocument?datum=2021-06-26",
+  "source_sha256": "aa8e2b460d3e11d04fec7f6541f3a2f0927d94d9138b100318f8d9460ce82cc3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035685&param=informatie",
+  "as_of": "2021-06-26",
+  "made": "2021-04-23",
+  "gazette": "2021-06-16",
+  "numac": 2021031446,
+  "document_start": "2021-06-26",
+  "document_end": null,
+  "in_force": "2021-06-26",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2021-06-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
