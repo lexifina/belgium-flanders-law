@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035741,
+  "title": "Besluit van de Vlaamse Regering van 2021-06-18 houdende vaststelling van een civiele noodsituatie met betrekking tot de volksgezondheid, zoals vermeld in het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid, naar aanleiding van de uitrol van de vaccinatiestrategie in het kader van het COVID-19 virus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035741/VolledigDocument?datum=2021-06-27",
+  "source_sha256": "4ac8fb255264c3356515a94c262b4705be68e11f50da2580915536a522a09906",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035741&param=informatie",
+  "as_of": "2021-06-27",
+  "made": "2021-06-18",
+  "gazette": "2021-06-25",
+  "numac": 2021042358,
+  "document_start": "2021-06-27",
+  "document_end": null,
+  "in_force": "2021-06-27",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-06-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
