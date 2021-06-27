@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036363,
+  "title": "Besluit van de Vlaamse Regering van 2021-12-03 tot wijziging van artikel 1 van het besluit van de Vlaamse Regering van 18 juni 2021 tot bepaling van afwijkingen van de administratieve procedures en de termijnen in de regelgeving van het beleidsdomein Welzijn, Volksgezondheid en Gezin door de uitbraak van COVID-19 en tot wijziging van diverse besluiten van de Vlaamse Regering van het beleidsdomein Welzijn, Volksgezondheid en Gezin",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036363/VolledigDocument?datum=2021-06-27",
+  "source_sha256": "5999beb5987d240067aa622a7cbf130e6e2bba12399b5e29888ee8c96ac9e253",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036363&param=informatie",
+  "as_of": "2021-06-27",
+  "made": "2021-12-03",
+  "gazette": "2021-12-24",
+  "numac": 2021022751,
+  "document_start": "2021-06-27",
+  "document_end": null,
+  "in_force": "2021-06-27",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-06-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
