@@ -201,6 +201,7 @@ Binnen een gemeente is er één lokaal loket kinderopvang met de volgende opdrac
 2° gezinnen binnen een redelijke termijn informeren over beschikbare kinderopvangplaatsen en hen zo nodig in contact brengen met de kinderopvanglocaties, met aandacht voor maatschappelijk kwetsbare gezinnen;<br>
 3° samenwerken met alle kinderopvanglocaties binnen het werkingsgebied, met instanties die werken met gezinnen die kinderopvangvragen kunnen hebben, en met andere lokale loketten kinderopvang in functie van de opdrachten, vermeld in punt 1° en 2° ;<br>
 4° het lokaal bestuur of de lokale besturen, de organisatoren van kinderopvang en&nbsp;het agentschap informeren over de vragen naar kinderopvangplaatsen.<br>
+5° ondersteuning bieden aan de gezinnen, bij het aanvragen van het inkomenstarief als bedoeld in artikel 8;<br>
 <br>
 Het lokaal loket kinderopvang krijgt gestalte doordat binnen het Lokaal Overleg Kinderopvang, dit is de gemeentelijke adviesraad inzake kinderopvang, ter uitvoering van artikel 6, § 3, van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, een initiatiefnemer wordt aangewezen of een structuur wordt gecreëerd om het lokaal loket kinderopvang te organiseren. Elke lokale actor die relevant is voor kinderopvang, kan de organisatie op zich nemen. Als er geen initiatiefnemer wordt aangewezen of als er geen structuur wordt gecreëerd en een operationeel werkend lokaal loket kinderopvang ontbreekt, neemt het lokaal bestuur de organisatie ervan op zich.<br>
 <br>
@@ -371,7 +372,7 @@ b) de gegevens over de behandeling van klachten over de kinderopvanglocatie;<br>
 <br>
 De toezichthouder verwerkt ter uitvoering van dit decreet en de uitvoeringsbesluiten ervan, minstens de persoonsgegevens, vermeld in het eerste en tweede lid, in het kader van het toezicht op de vergunnings- en subsidievoorwaarden.<br>
 <br>
-Het lokaal loket kinderopvang verwerkt ter uitvoering van dit decreet en de uitvoeringsbesluiten ervan minstens de persoonsgegevens van het kind en van het gezin van het kind, meer bepaald de identificatiegegevens, gegevens over de vraag naar kinderopvang en gegevens over de maatschappelijke kwetsbaarheid van het kind en het gezin van het kind in het kader van de opdracht van het lokaal loket kinderopvang.<br>
+Het lokaal loket kinderopvang verwerkt ter uitvoering van dit decreet en de uitvoeringsbesluiten ervan minstens de persoonsgegevens van het kind en van het gezin van het kind, meer bepaald de identificatiegegevens, de financiële gegevens en de gegevens over de gezinssituatie, gegevens over de vraag naar kinderopvang en gegevens over de maatschappelijke kwetsbaarheid van het kind en het gezin van het kind in het kader van de opdracht van het lokaal loket kinderopvang.<br>
 <br>
 De bewaartermijn is tien jaar voor de gegevens over de klachten en crisissituaties, en vijf jaar voor de andere gegevens, vermeld in het eerste lid tot en met het vierde lid. Voor de gegevens over de verantwoordelijken, de kinderbegeleiders en de eventuele andere medewerkers begint de termijn te lopen vanaf het einde van hun tewerkstelling.
 
