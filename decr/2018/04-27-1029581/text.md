@@ -6,6 +6,10 @@
 
 Dit decreet regelt een gemeenschapsaangelegenheid, met uitzondering van artikel 6 dat een gemeenschaps- en een gewestaangelegenheid regelt.
 
+### ART 1/1.
+
+Dit decreet wordt aangehaald als: het Groeipakketdecreet van 2018.
+
 ### ART 2.
 
 Dit decreet is van toepassing onder voorbehoud van de toepassing van de samenwerkingsakkoorden, vermeld in artikel 92bis van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en de bepalingen van het Unierecht, internationale verdragen en protocollen.<br>
@@ -797,6 +801,7 @@ Een kleutertoeslag van 130 euro wordt toegekend aan een rechthebbende leerling a
 3° de aanwezige ouder als ten aanzien van één ouder een vermoeden van afwezigheid als vermeld in artikel 112 van het Burgerlijk Wetboek, is vastgesteld door de vrederechter;<br>
 4° de niet uit de ouderlijke macht ontzette ouder als een van de ouders uit de ouderlijke macht is ontzet;<br>
 5° de bekende ouder als één ouder niet bekend is.<br>
+6° de ouder die de bevoegde rechtbank daarvoor aanwijst in het belang van het kind.<br>
 <br>
 § 3. Het rechtgevende kind is de begunstigde van de gezinsbijslagen, vermeld in deel 1 van boek 2:<br>
 1° als het gehuwd is;<br>
@@ -900,7 +905,7 @@ De wijziging van bankrekening gaat ten laatste in vanaf de maand die volgt op de
 <br>
 Indien de begunstigden niet binnen de in het eerste lid vermelde periode een keuze voor een uitbetalingsactor hebben gemaakt, worden de begunstigden van rechtswege aangesloten bij het agentschap. De aansluiting van rechtswege heeft dezelfde gevolgen als vermeld in paragraaf 2, tweede lid.<br>
 <br>
-Als beide begunstigden niet bepalen op welke bankrekening de toelagen, vermeld in paragraaf 1, aan hen moeten worden uitbetaald vóór de eerste van de maand die volgt op de maand waarin het recht is ontstaan, of als een van beide begunstigden zijn toestemming intrekt, worden de toelagen uitbetaald aan de jongste onder hen. De begunstigde kan een uitbetalingsactor van zijn keuze aanduiden, onder voorbehoud van het bepaalde inzake de minimale aansluiting van één jaar in paragraaf 2, tweede lid, van dit artikel. De begunstigde kan daarentegen wel degelijk een nieuw bankrekeningnummer kiezen onder toepassing van paragraaf 2, derde lid.<br>
+Als beide begunstigden niet bepalen op welke bankrekening de toelagen, vermeld in paragraaf 1, aan hen moeten worden uitbetaald vóór de eerste van de maand die volgt op de maand waarin het recht is ontstaan, of als een van beide begunstigden zijn toestemming intrekt, worden de toelagen uitbetaald aan de jongste onder hen.&nbsp;De voormelde jongste begunstigde kan een uitbetalingsactor van zijn keuze aanduiden, onder voorbehoud van het bepaalde inzake de minimale aansluiting van één jaar in paragraaf 2, tweede lid, van dit artikel.De voormelde jongste begunstigde kan daarentegen wel degelijk een nieuw bankrekeningnummer kiezen onder toepassing van paragraaf 2, derde lid.<br>
 <br>
 In afwijking daarvan en met behoud van de toepassing van artikel 67 wordt, als een van de werkelijke opvoeders een pleegzorger is als vermeld in artikel 59, § 2, de toelage, vermeld in paragraaf 1, altijd uitbetaald aan de pleegzorger.<br>
 <br>
@@ -996,7 +1001,7 @@ De wijziging van bankrekening gaat ten laatste in vanaf de maand die volgt op de
 <br>
 Indien de ouders of werkelijke opvoeders niet binnen de in het eerste lid vermelde periode een keuze voor een uitbetalingsactor hebben gemaakt, wordt de begunstigde van rechtswege aangesloten bij het agentschap. De aansluiting van rechtswege heeft dezelfde gevolgen als vermeld in paragraaf 2, tweede lid.<br>
 <br>
-Als beide ouders of de werkelijke opvoeders niet bepalen op welke bankrekening de selectieve participatietoeslagen leerling en de andere toelagen aan hen moeten worden uitbetaald vóór de eerste van de maand die volgt op de maand waarin het recht is ontstaan, of als een van beide ouders of werkelijke opvoeders zijn toestemming intrekt, worden de selectieve participatietoeslagen leerling en de andere toelagen uitbetaald aan de jongste onder hen.<br>
+Als beide ouders of de werkelijke opvoeders niet bepalen op welke bankrekening de selectieve participatietoeslagen leerling en de andere toelagen aan hen moeten worden uitbetaald vóór de eerste van de maand die volgt op de maand waarin het recht is ontstaan, of als een van beide ouders of werkelijke opvoeders zijn toestemming intrekt, worden de selectieve participatietoeslagen leerling en de andere toelagen uitbetaald aan de jongste onder hen.&nbsp;De voormelde jongste ouder of werkelijke opvoeder kan een uitbetalingsactor van zijn keuze aanwijzen, onder voorbehoud van de bepaling over de minimale aansluiting van één jaar in paragraaf 2, tweede lid. De voormelde jongste ouder of werkelijke opvoeder kan daarentegen een nieuw bankrekeningnummer kiezen conform paragraaf 2, derde lid.<br>
 <br>
 In afwijking daarvan worden, als een van de werkelijke opvoeders een pleegzorger is als vermeld in artikel 59, § 2, de toelagen, vermeld in paragraaf 1, altijd uitbetaald aan de pleegzorger.<br>
 <br>
