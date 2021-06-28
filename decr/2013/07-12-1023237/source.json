@@ -2,16 +2,16 @@
   "codex_id": 1023237,
   "title": "Decreet van 2013-07-12 betreffende de integrale jeugdhulp",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023237/VolledigDocument?datum=2020-08-22",
-  "source_sha256": "d55f81f16417eb3e2e0771dd01cb7fc15eec58535a1b440540f906a41c818993",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023237/VolledigDocument?datum=2021-06-28",
+  "source_sha256": "3ed9195a656346fe7e35f53f511a0e7143c948415af8060ea1c296f65ca312e0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023237&param=informatie",
-  "as_of": "2020-08-22",
+  "as_of": "2021-06-28",
   "made": "2013-07-12",
   "gazette": "2013-09-13",
   "numac": 2013035791,
   "document_start": "2014-03-01",
   "document_end": null,
-  "in_force": "2020-08-22",
+  "in_force": "2021-06-28",
   "article_versions": 121,
-  "record_form": "consolidated version as in force on 2020-08-22; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-06-28; future article versions excluded; article text as the API gives it"
 }
