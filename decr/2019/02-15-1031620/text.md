@@ -29,7 +29,7 @@ In dit decreet wordt verstaan onder:<br>
 18° rechtspleging ten gronde: de rechtspleging met het oog op de toepassing van een van de sancties, vermeld in hoofdstuk 4, afdeling 3;<br>
 19° sanctie: het maatschappelijk antwoord op een jeugddelict tijdens de rechtspleging ten gronde, met uitsluiting van het herstelrechtelijk aanbod, de uithandengeving en het toevertrouwen van een minderjarige aan een afdeling van een jeugdpsychiatrische dienst als vermeld in artikel 39;<br>
 20° slachtoffer: de persoon die verklaart morele of materiële schade te hebben geleden die veroorzaakt is door een jeugddelict;<br>
-21° sociale dienst: de Sociale Dienst voor Gerechtelijke Jeugdhulpverlening, vermeld in artikel 56 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
+21° sociale dienst: de Sociale Dienst Jeugdrechtbank, vermeld in artikel 56 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
 22° voorbereidende rechtspleging: de rechtspleging met het oog op de toepassing van een van de maatregelen, vermeld in hoofdstuk 4, afdeling 2;<br>
 23° wet van 8 april 1965: de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade.
 
@@ -284,15 +284,17 @@ Uit de genomen beslissing blijkt duidelijk op welke wijze met de factoren rekeni
 <br>
 § 2. De jeugdrechter of jeugdrechtbank kan te allen tijde, ambtshalve of op vordering van het openbaar ministerie, de opgelegde maatregelen of sancties ten aanzien van de minderjarige verdachte of delictpleger herzien, door deze in te trekken of te wijzigen in een minder strenge of ingrijpende maatregel of sanctie.<br>
 <br>
-De minderjarige verdachte, zijn ouders of zijn opvoedingsverantwoordelijken, kunnen, via gemotiveerd verzoekschrift, de herziening van een opgelegde maatregel vragen. Zij kunnen de vraag, om een minder strenge of ingrijpende maatregel te nemen, stellen na een termijn van drie maanden vanaf de dag waarop de beslissing definitief werd. De griffie bezorgt het openbaar ministerie onverwijld een kopie van het verzoekschrift. De jeugdrechter hoort de minderjarige verdachte en zijn ouders of zijn opvoedingsverantwoordelijken, alsmede het openbaar ministerie ingeval het erom verzoekt. De verzoeker mag geen nieuw verzoekschrift indienen dat hetzelfde voorwerp heeft alvorens een termijn van drie maanden is verstreken vanaf de datum van de laatste beslissing houdende verwerping van zijn verzoek.<br>
+De minderjarige verdachte, zijn ouders of zijn opvoedingsverantwoordelijken, kunnen, via gemotiveerd verzoekschrift, de herziening van een opgelegde maatregel vragen. Zij kunnen de vraag, om een minder strenge of ingrijpende maatregel te nemen, stellen na een termijn van drie maanden vanaf de dag waarop de beslissing definitief werd. De griffie bezorgt het openbaar ministerie onverwijld een kopie van het verzoekschrift. De verzoeker mag geen nieuw verzoekschrift indienen dat hetzelfde voorwerp heeft alvorens een termijn van drie maanden is verstreken vanaf de datum van de laatste beslissing houdende verwerping van zijn verzoek.<br>
 <br>
 De minderjarige delictpleger, zijn ouders of zijn opvoedingsverantwoordelijken, kunnen, via gemotiveerd verzoekschrift, de herziening van een opgelegde sanctie vragen. Zij kunnen de vraag, om een minder strenge of ingrijpende sanctie te nemen, stellen na een termijn van zes maanden vanaf de dag waarop de beslissing definitief werd. Indien dit verzoekschrift wordt afgewezen, kan het niet worden hernieuwd voordat zes maanden verstreken zijn sedert de dag waarop de afwijzende beslissing definitief is geworden.<br>
 <br>
+De jeugdrechter of jeugdrechtbank hoort bij elke procedure tot herziening de minderjarige verdachte of delictpleger en zijn ouders of zijn opvoedingsverantwoordelijken. Ook het Openbaar Ministerie wordt gehoord als het daarom verzoekt.<br>
+<br>
 In het geval van uitvoering van een akkoord dat werd bereikt binnen het herstelrechtelijk aanbod als vermeld in artikel 30, geldt de wachttermijn van zes maanden voor het herzien van de sanctie. Ingeval de uitvoering van het akkoord volgens de daarin bepaalde regels plaatsvindt na de uitspraak van het vonnis, kan de zaak te allen tijde bij de jeugdrechtbank aanhangig worden gemaakt om de aan de minderjarige delictpleger opgelegde sanctie te herzien door deze in te trekken of te wijzigingen in een minder strenge of ingrijpende sanctie.<br>
 <br>
-Iedere sanctie zoals bedoeld in artikel 29, § 2, moet, voor zover geen bijzondere bepalingen voorzien zijn, opnieuw worden onderzocht, ten einde te worden bevestigd, ingetrokken of gewijzigd vóór het verstrijken van een termijn van één jaar te rekenen van de dag waarop de beslissing definitief is geworden. Deze procedure wordt ingeleid door het openbaar ministerie overeenkomstig de in artikel 45, 2°, b) en c), genoemde vormvereisten.<br>
+Iedere sanctie zoals bedoeld in artikel 29, § 2, moet, voor zover geen bijzondere bepalingen voorzien zijn, opnieuw worden onderzocht, ten einde te worden bevestigd, ingetrokken of gewijzigd vóór het verstrijken van een termijn van één jaar te rekenen van de dag waarop de beslissing definitief is geworden. Deze procedure wordt ingeleid door het openbaar ministerie overeenkomstig de vormvereisten, vermeld in artikel 45, 2, b) en c), van de wet van 8 april 1965.<br>
 <br>
-De bevoegde dienst die instaat voor de opvolging van de sanctie stuurt om de drie maanden aan de jeugdrechtbank een evaluatieverslag.<br>
+De bevoegde dienst die instaat voor de opvolging van de reactie, stuurt om de drie maanden een evaluatieverslag naar de jeugdrechter of de jeugdrechtbank.<br>
 <br>
 De jeugdrechter of jeugdrechtbank houdt er bij de herziening rekening mee dat het herstelgericht karakter van de maatregel of sanctie gevrijwaard blijft. Bij de herziening van een sanctie moet de jeugdrechtbank bijkomend de belangen van het slachtoffer in overweging nemen voordat zij een beslissing neemt. Indien nodig kan zij hiertoe een maatschappelijk onderzoek laten uitvoeren.<br>
 <br>
@@ -336,7 +338,7 @@ Als bij de jeugdrechter de zaak aanhangig is van een minderjarige verdachte kan 
 
 § 1. De jeugdrechter kan aan de minderjarige verdachte, een herstelrechtelijk aanbod doen van bemiddeling of herstelgericht groepsoverleg.<br>
 <br>
-In eerste instantie verdient een herstelrechtelijk aanbod de voorkeur. Als de jeugdrechter geen herstelrechtelijk aanbod doet, motiveert hij daaromtrent specifiek zijn beslissing.<br>
+Een herstelrechtelijk aanbod verdient de voorkeur.&nbsp;Als de jeugdrechter geen herstelrechtelijk aanbod doet, motiveert hij daaromtrent specifiek zijn beslissing.<br>
 <br>
 § 2. De jeugdrechter kan, in voorkomend geval op cumulatieve wijze, in opgaande graad van het ingrijpende karakter van de maatregel en altijd in combinatie met een ondertoezichtstelling door de sociale dienst, de volgende maatregelen opleggen:<br>
 1° een positief project van ten hoogste zestig uur;<br>
@@ -348,7 +350,7 @@ In eerste instantie verdient een herstelrechtelijk aanbod de voorkeur. Als de je
 <br>
 De maatregelen, vermeld in het eerste lid, 1° tot en met 3° /1, verdienen de voorkeur boven het toevertrouwen van de minderjarige aan een afdeling binnen een gemeenschapsinstelling, ingericht voor personen die een reactie opgelegd krijgen met toepassing van dit decreet.<br>
 <br>
-Als de jeugdrechter een maatregel als vermeld in het eerste lid, 1° tot en met 5°, uitspreekt, bepaalt hij de maximumduur ervan. De duur van een maand, vermeld in het eerste lid, 4° en 5°, is dertig dagen. De maatregel als vermeld in het eerste lid, 5°, kan worden opgeheven voor hij zijn einddatum bereikt wanneer blijkt dat er voor de minderjarige verdachte geen behoefte aan gesloten begeleiding meer aanwezig is. De jeugdrechter kan ambtshalve, of op vordering van het openbaar ministerie, de opgelegde maatregel opheffen.<br>
+Als de jeugdrechter een maatregel als vermeld in het eerste lid, 1° tot en met 5°, uitspreekt, bepaalt hij de maximumduur ervan. De duur van een maand, vermeld in het eerste lid, 4° en 5°, is dertig dagen.&nbsp;<br>
 <br>
 Alle maatregelen, vermeld in het eerste lid, betrekken op een actieve wijze de ouders of de opvoedingsverantwoordelijken en andere relevante personen uit de leefomgeving van de minderjarige verdachte.<br>
 <br>
@@ -358,9 +360,9 @@ De Vlaamse Regering bepaalt de nadere regels en modaliteiten waaraan de maatrege
 
 § 1. De duur van de voorbereidende rechtspleging is beperkt tot negen maanden vanaf de vordering, vermeld in artikel 14, tot en met het vonnis van de jeugdrechtbank.<br>
 <br>
-Als de termijn van de voorbereidende rechtspleging, vermeld in het eerste lid, wordt overschreden, kan een opgelegde maatregel alleen nog blijven doorlopen, verlengd worden of herzien worden overeenkomstig artikel 16, § 2, in de gevallen, vermeld in paragraaf 4 en 5.<br>
+Als de termijn van de voorbereidende rechtspleging, vermeld in het eerste lid, wordt overschreden, kan een opgelegde maatregel alleen nog blijven doorlopen, verlengd worden of herzien worden overeenkomstig artikel 16, § 2, in de gevallen, vermeld in paragraaf 4 tot en met 6.<br>
 <br>
-De termijn van de voorbereidende rechtspleging, vermeld in het eerste lid, wordt geschorst:<br>
+De termijn van de voorbereidende rechtspleging wordt geschorst:<br>
 1° tussen de datum van neerlegging van de akte van hoger beroep en de datum van de uitspraak van het arrest;<br>
 2° tijdens de duur van het uitstel tussen de inleidende zitting en het moment waarop de zaak in beraad wordt genomen.<br>
 <br>
@@ -512,7 +514,7 @@ Om de drie maanden brengen de diensten, vermeld in het eerste lid, en verder tel
 <br>
 De Vlaamse Regering bepaalt de wijze van erkenning van de diensten die instaan voor uitvoering, ondersteuning en naleving van de voorwaarden en bepaalt de nadere regels voor de organisatie, de samenstelling, de werking, de subsidiëring, alsook de wijze waarop hun werking en de kwaliteit van hun dienstverlening worden geëvalueerd.<br>
 <br>
-§ 7. Als de jeugdrechter van oordeel is dat een aanpassing van de voorwaarden aan de orde is, kan dat pas als de minderjarige, vermeld in paragraaf 1, eerste lid, gehoord is. De jeugdrechter kan ook de ouders, of de opvoedingsverantwoordelijken, alsook het openbaar ministerie horen.<br>
+§ 7. ...<br>
 <br>
 § 8. De maatregel om voorwaarden op te leggen, kan worden herroepen wanneer er tijdens de looptijd van de voorwaarden voldoende ernstige aanwijzingen zijn dat verder onderzoek noodzakelijk is naar de betrokkenheid van de minderjarige, vermeld in paragraaf 1, eerste lid, bij het plegen van een nieuw jeugddelict. De voormelde maatregel kan worden herroepen als de minderjarige verdachte de opgelegde voorwaarden niet naleeft en de jeugdrechter de niet-naleving voldoende ernstig acht.<br>
 <br>
@@ -546,7 +548,7 @@ Er kan geen sanctie meer worden opgelegd wanneer de persoon de leeftijdsgrenzen 
 
 § 1. De jeugdrechtbank kan aan een minderjarige delictpleger een herstelrechtelijk aanbod doen van bemiddeling of herstelgericht groepsoverleg.<br>
 <br>
-In eerste instantie verdient een herstelrechtelijk aanbod de voorkeur. Als de jeugdrechtbank geen herstelrechtelijk aanbod doet, motiveert ze haar beslissing.<br>
+Een herstelrechtelijk aanbod verdient de voorkeur.. Als de jeugdrechtbank geen herstelrechtelijk aanbod doet, motiveert ze haar beslissing.<br>
 <br>
 § 2. De jeugdrechtbank kan, in voorkomend geval op cumulatieve wijze, in opgaande graad van het ingrijpende karakter van de sanctie de volgende sancties opleggen:<br>
 1° berispen;<br>
