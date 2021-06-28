@@ -146,7 +146,8 @@ De Vlaamse Regering kent tegemoetkomingen voor bijzondere kosten toe aan pleegzo
 
 ### ART. 18.
 
-De Vlaamse Regering kan regels bepalen voor het innen, per opvangdag, van   een bijdrage van de ouders van pleegkinderen en van de   pleeggasten.<BR><BR>
+De Vlaamse Regering kan regels bepalen voor het innen, per opvangdag, van een bijdrage van de ouders van pleegkinderen, van de pleeggasten en van meerderjarige pleegkinderen.<br>
+&nbsp;
 
 ## HOOFDSTUK 5 Partnerorganisatie
 
