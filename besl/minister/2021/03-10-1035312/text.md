@@ -323,4 +323,4 @@ Dit besluit treedt in werking op 15 maart 2021.
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/03/16_2.pdf#page=276">De sectoren, vermeld in artikel 2, eerste lid.</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/06/28_1.pdf#page=223">De sectoren vermeld in artikel 2.</a>
