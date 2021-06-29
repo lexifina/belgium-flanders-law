@@ -33,108 +33,19 @@ Overeenkomstig artikel 34/1, tweede lid, van het decreet van 21 december 2003 wo
 
 ### ART 3.
 
-De termijn van de tijdelijke afzondering, vermeld in artikel 47/1, § 1, eerste lid, van het decreet van 21 november 2003, is:<br>
-1° minimaal&nbsp;tien dagen na aanvang van de symptomen en tot ten minste drie dagen zonder koorts en met verbetering van de respiratoire symptomen, als er symptomen van COVID-19 zijn;<br>
-2°&nbsp;tien dagen vanaf de datum van de COVID-19-test, als er geen symptomen van COVID-19 zijn.<br>
-<br>
-De tijdelijke afzondering, vermeld in artikel 47/1, § 2, eerste lid, van het voormelde decreet, duurt tien dagen vanaf de laatste dag dat de persoon in kwestie in een hoogrisicogebied is geweest, tenzij die persoon een negatieve COVID-19-test heeft ondergaan vanaf de zevende dag van de tijdelijke afzondering.<br>
-<br>
-De tijdelijke afzondering, vermeld in artikel 47/1, § 3, eerste lid, van hetzelfde decreet, duurt tien dagen vanaf het laatste contact dat heeft geleid tot een verhoogd risico op COVID-19, tenzij de persoon een negatieve COVID-19-test heeft ondergaan vanaf de zevende dag van die tijdelijke afzondering.<br>
-<br>
-In afwijking van het tweede en derde lid kan de termijn van de tijdelijke afzondering, vermeld in artikel 47/1, § 2, eerste lid, en § 3, eerste lid, tijdelijk worden opgeheven om volgende noodzakelijke activiteiten die niet kunnen worden uitgesteld tot na het verstrijken van de termijn van de tijdelijke afzondering te vervullen, en mits het extra aandacht besteden aan hygiënische maatregelen, het afstand bewaren met andere personen en het dragen van een (chirurgisch) mondneusmasker :<br>
-1° verplaatsingen met betrekking tot dringende medische zorgen en toegang tot geneesmiddelen;<br>
-2° verplaatsingen met betrekking tot de aankoop van noodzakelijke basisbenodigdheden, zoals voedsel, maar alleen als niemand anders hiervoor kan zorgen, en per uitzondering;<br>
-3° verplaatsingen in het kader van dringende juridische of financiële aangelegenheden en ouderlijk gezag, mits staving;<br>
-4° verplaatsingen in het kader van de dringende en noodzakelijke zorg voor (huis)dieren, als niemand anders hiervoor kan zorgen;<br>
-5° verplaatsingen in het kader van een begrafenis.<br>
-<br>
-In afwijking van het tweede lid wordt de termijn van de tijdelijke afzondering, vermeld in artikel 47/1, § 2, eerste lid, tijdelijk worden opgeheven voor :<br>
-1° leerlingen, studenten en stagairs in het kader van een examen of een verplichte taak;<br>
-2° gezondheidswerkers, onderzoekers op het gebied van gezondheid en beroepskrachten uit de ouderenzorg. Op deze uitzondering kan alleen beroep worden gedaan door personeel dat nodig is om een minimum aan basiszorg te waarborgen. Voor het ziekenhuispersoneel wordt de beslissing genomen in overleg met de ziekenhuisdirectie en de dienst hygiëne van het ziekenhuis. Voor het zorgpersoneel in de eerstelijnszorg, zoals huisartsen, wordt het besluit genomen in overleg met de wachtkring;<br>
-3° leden van de diplomatieke en consulaire gemeenschap, titularissen van een functie, verkozenen en officiële vertegenwoordigers van de internationale organisaties en instellingen gevestigd in België, in het kader van een essentiële activiteit die niet op afstand kan worden verricht, noch per videoconferentie;<br>
-4° staatshoofden en regeringshoofden, regeringsleden, parlementariërs en hoge ambtenaren, diplomatiek, consulair en technisch personeel op professionele zending, in het kader van een essentiële activiteit die niet op afstand kan worden verricht, noch per videoconferentie;<br>
-5° personeelsleden van een internationale organisatie of personen die door een dergelijke organisatie zijn uitgenodigd en van wie de fysieke aanwezigheid vereist is voor de goede werking van die organisatie, inclusief inspecteurs van nucleaire installaties;<br>
-6° seizoensarbeiders;<br>
-7° personeel van de politiediensten, migratiediensten en douane;<br>
-8° personen die reizen om dwingende gezinsredenen (ernstige ziekte met hospitalisatie, preterminale situatie, overlijden) voor zover nodig om deze gezinsredenen uit te oefenen;<br>
-9° hooggekwalificeerde personen, als hun werk vanuit economisch standpunt noodzakelijk is en niet kan worden uitgesteld (voor zover relevant bepaald door de werkgever in overleg met de bedrijfsarts - aangezien deze laatste op de hoogte moet zijn van de mogelijke risico's op de werkplek). Daaronder worden ook beroepssporters, professionelen uit de cultuursector en wetenschappelijke onderzoekers begrepen die zich verplaatsen bij de uitoefening van hun professionele activiteit;<br>
-10° journalisten bij het uitoefenen van hun taken;<br>
-11° passagiers op doorreis die minder dan 48 u in België verblijven;<br>
-12° patiënten die reizen om dwingende medische redenen of de verderzetting van een dringende medische behandeling;<br>
-13° personen die reizen om bijstand of zorg te verlenen aan een oudere, minderjarige, gehandicapte of kwetsbare persoon.<br>
-De personen, vermeld in dit lid, moeten aan de volgende voorwaarden voldoen :<br>
-1° in algemene zin, geen symptomen hebben;<br>
-2° geen hoogrisicocontact zijn van iemand bij wie de diagnose van COVID-19 infectie werd bevestigd die onder hetzelfde dak woont;<br>
-3° niet positief getest zijn op COVID-19;<br>
-4° het contact met het publiek tot het strikte minimum beperken;<br>
-5° waar mogelijk geen gebruikmaken van het openbaar vervoer;<br>
-6° niet in staat zijn om te telewerken;<br>
-7° respecteren van afstandsregels en altijd dragen van (chirurgisch) mondneusmasker op de juiste manier op de werkplek;<br>
-8° beperking van het contact met andere medewerkers : in de praktijk betekent dit zoveel mogelijk gescheiden in- en uitgangen, gescheiden kleedkamers en gescheiden pauze- en eetruimten.<br>
-<br>
-In afwijking van het tweede en derde lid wordt de termijn van de tijdelijke afzondering, vermeld in artikel 47/1, § 2, eerste lid en § 3, eerste lid, tijdelijk worden opgeheven voor :<br>
-1° (mits attest van de werkgever voor zover relevant) Hoogst uitzonderlijk, asymptomatische personen die een essentiële functie of opdracht uitvoeren en die :<br>
-a) gezondheidsbeoefenaars of beroepsbeoefenaars zijn die bijstand en zorg verlenen aan kwetsbare personen;<br>
-b) op voorwaarde dat de uitoefening van hun functie absoluut noodzakelijk is om een minimale basiszorg te kunnen garanderen;<br>
-c) op voorwaarde van :<br>
-1) dragen (chirurgisch) mondneusmasker;<br>
-2) naleving hygiënevoorschriften;<br>
-3) actieve controle lichaamstemperatuur en symptomen COVID-19;<br>
-4) houden van minimum 1,5 meter met personeel;<br>
-5) beperking van sociale contacten buiten het werk;<br>
-6) geen gebruik maken van het openbaar vervoer;<br>
-7) reisverbod;<br>
-2° (mits attest van de werkgever voor zover relevant) Werknemers die door de aard van hun functie in laboratoria in contact komen met het virus dat COVID-19 veroorzaakt;<br>
-3° personen tewerkgesteld in een essentiële sector in de zin van bijlage 1 van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, wanneer hun werk voldoet aan de volgende cumulatieve criteria :<br>
-a) dringende vraag (bepaald door de werkgever in overleg met de bedrijfsarts - aangezien deze laatste op de hoogte moet zijn van de mogelijke risico's op de werkplek);<br>
-b) noodzakelijke situatie (bepaald door de werkgever in overleg met de bedrijfsarts - aangezien deze laatste op de hoogte moet zijn van de mogelijke risico's op de werkplek);<br>
-c) onmisbare en onvervangbare functie die beschreven staat in het continuïteitsplan van het bedrijf. De werknemers van bedrijven die niet over een Business ContinuityPlan beschikken zullen nooit van deze quarantaine-uitzondering kunnen genieten;<br>
-d) de continuïteit van de essentiële dienstverlening van het bedrijf wordt op korte termijn (duur van de quarantaine) bedreigd;<br>
-e) alle andere alternatieven tot oplossing werden overwogen en zijn ontoereikend.<br>
-De werkgever bezorgt aan het Comité Preventie en Bescherming op het Werk en aan de bedrijfsarts een lijst van de personen waarvan sprake. Na goedkeuring door het Comité Preventie en Bescherming op het Werk van het bedrijf wordt de uitzondering op de quarantaine geattesteerd en wordt er op dagelijkse basis een nominatieve lijst bijgehouden van de betreffende personen.<br>
-De personen, vermeld in dit lid, moeten aan de volgende voorwaarden voldoen :<br>
-1° in algemene zin, geen symptomen hebben;<br>
-2° geen hoogrisicocontact zijn van iemand bij wie de diagnose van COVID-19 infectie werd bevestigd die onder hetzelfde dak woont;<br>
-3° niet positief getest zijn op COVID-19;<br>
-4° het contact met het publiek tot het strikte minimum beperken;<br>
-5° waar mogelijk geen gebruikmaken van het openbaar vervoer;<br>
-6° niet in staat zijn om te telewerken;<br>
-7° respecteren van afstandsregels en altijd dragen van (chirurgisch) mondneusmasker op de juiste manier op de werkplek;<br>
-8° beperking van het contact met andere medewerkers : in de praktijk betekent dit zoveel mogelijk gescheiden in- en uitgangen, gescheiden kleedkamers en gescheiden pauze- en eetruimten.
+...
 
 ### ART 4.
 
-In artikel 47/1, § 2, vierde lid, 1°, van het decreet van 21 november 2003 wordt onder een beperkte duur minder dan 48 uur verstaan.&nbsp;De tijdelijke afzondering, vermeld in artikel 47/1, § 2, eerste lid, van het decreet van 21 november 2003 of de verplichting om zich bij een COVID-19 testcentrum, een triagecentrum of hun behandelende arts te melden, vermeld in artikel 47/1, § 2, tweede lid, van hetzelfde decreet, geldt niet voor personen die voor die beperkte duur in een hoogrisicogebied dat niet Zuid-Afrika, Zuid-Amerika, het Verenigd Koninkrijk&nbsp;en India is, zijn geweest of voor personen die voor die beperkte duur in België verblijven, tenzij na aankomst uit Zuid-Afrika, Zuid-Amerika, het Verenigd Koninkrijk en India.<br>
-<br>
-De inschatting van de kans op besmetting, vermeld in artikel 47/1, § 2, vierde lid, 2°, van het voormelde decreet gebeurt via een zelfevaluatie die is opgenomen in het Passagier Lokalisatie Formulier van de bevoegde federale dienst.&nbsp;De tijdelijke afzondering, vermeld in artikel 47/1, § 2, eerste lid, van het decreet van 21 november 2003 of de verplichting om zich bij een COVID-19 testcentrum, een triagecentrum of hun behandelende arts te melden, vermeld in artikel 47/1, § 2, tweede lid, van hetzelfde decreet, geldt niet voor personen bij wie de kans op besmetting door hun gedrag in een hoogrisicogebied laag wordt ingeschat.<br>
-<br>
-De essentiële redenen, vermeld in artikel 47/1, § 2, vierde lid, 3°, van het voormelde decreet van 21 november 2003 waarvoor de tijdelijke afzondering, vermeld in artikel 47/1, § 2, eerste lid, van het decreet van 21 november 2003 niet geldt, zijn :<br>
-1° grensbewoners of grensarbeiders die reizen in deze hoedanigheid;<br>
-2° vervoerspersoneel dat belast is met goederenvervoer en ander vervoerspersoneel die reizen voor de uitoefening van hun functie;<br>
-3° zeevarenden, de sleepbootbemanning, de loodsen en het industrieel personeel tewerkgesteld in de offshore windmolenparken;<br>
-4° personen die reizen in het kader van grensoverschrijdend co-ouderschap;<br>
-5° leerlingen, studenten en stagairs die zich dagelijks of wekelijks naar het buitenland verplaatsen in het kader van hun studies of een grensoverschrijdende stage;<br>
-6° grensscholieren die reizen in het kader van leerplichtonderwijs of in het kader van hoger onderwijs en het volwassenonderwijs naar en van de locatie waar ze het onderwijs genieten;<br>
-7° de "Border Force Officers" van het Verenigd Koninkrijk.<br>
-<br>
-De essentiële redenen, vermeld in artikel 47/1, § 2, vierde lid, 3°, van het voormelde decreet van 21 november 2003 waarvoor de verplichting om zich bij een COVID-19 testcentrum, een triagecentrum of hun behandelende arts te melden, vermeld in artikel 47/1, § 2, tweede lid, van hetzelfde decreet, niet geldt, zijn :<br>
-1° grensbewoners of grensarbeiders die reizen in deze hoedanigheid;<br>
-2° vervoerspersoneel dat belast is met goederenvervoer en ander vervoerspersoneel die reizen voor de uitoefening van hun functie;<br>
-3° zeevarenden, de sleepbootbemanning, de loodsen en het industrieel personeel tewerkgesteld in de offshore windmolenparken;<br>
-4° personen die reizen in het kader van grensoverschrijdend co-ouderschap;<br>
-5° leerlingen, studenten en stagairs die zich dagelijks of wekelijks naar het buitenland verplaatsen in het kader van hun studies of een grensoverschrijdende stage;<br>
-6° grensscholieren die reizen in het kader van leerplichtonderwijs of in het kader van hoger onderwijs en het volwassenonderwijs naar en van de locatie waar ze het onderwijs genieten;<br>
-7° De "Border Force Officers" van het Verenigd Koninkrijk.<br>
-<br>
-Een persoon die conform artikel 47/1, § 2, vierde lid, 3°, van het voormelde decreet, vrijgesteld is van de tijdelijke afzondering, vermeld in artikel 47/1, § 2, eerste lid, van het voormelde decreet, en van de verplichting om zich bij een COVID-19-testcentrum, een triagecentrum of zijn behandelende arts te melden, vermeld in artikel 47/1, § 2, tweede lid, van het voormelde decreet, legt het bewijs daarvan voor in het kader van de handhaving van de maatregel, vermeld in artikel 47/1 van het voormelde decreet.
+...
 
 ### ART 5.
 
-De personen, vermeld in artikel 47/1, § 3, eerste lid, van het decreet van 21 november 2003, worden via het centrale contactcentrum, via een lokaal contactcentrum of via een arts op de hoogte gebracht van het feit dat ze een verhoogd risico op COVID-19 hebben.
+...
 
 ### ART 6.
 
-Er is een verhoogd risico op COVID-19 als vermeld in artikel 47/1, § 3, eerste lid, van het decreet van 21 november 2003, als dat door het centrale contactcentrum, een lokaal contactcentrum of een arts wordt vastgesteld conform de richtlijnen van de bevoegde federale dienst overeenkomstig artikel 47/1, § 3, vijfde lid, van het voormelde decreet.
+...
 
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering van 12 juni 2020 tot uitvoering van het decreet van 29 mei 2020 tot organisatie van de meldingsplicht en het contactonderzoek in het kader van COVID-19
 
