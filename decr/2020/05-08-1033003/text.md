@@ -107,7 +107,7 @@ In afwijking van artikel 28 van het decreet van 15 juni 2007 betreffende het vol
 
 ### ART 19.
 
-In afwijking van artikel 215, § 2, tweede lid, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs geldt de termijn van negentig kalenderdagen in de periode van 16 maart 2020 tot en met 30 juni 2021 niet voor instellingen en CLB's die een nieuwe doorlichting zouden krijgen. De onderwijsinspectie bepaalt in overleg met de betrokken instelling of het betrokken CLB een datum voor de nieuwe doorlichting, die volgt na de periode van opschorting van de procedure tot intrekking van de erkenning die de Vlaamse Regering aan het bestuur heeft meegedeeld. De doorlichting vindt uiterlijk plaats op 30 juni 2021.
+In afwijking van artikel 215, § 2, tweede lid, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs geldt de termijn van negentig kalenderdagen in de periode van 16 maart 2020 tot en met 30 juni 2022 niet voor instellingen en CLB's die een nieuwe doorlichting zouden krijgen. De onderwijsinspectie bepaalt in overleg met de betrokken instelling of het betrokken CLB een datum voor de nieuwe doorlichting, die volgt na de periode van opschorting van de procedure tot intrekking van de erkenning die de Vlaamse Regering aan het bestuur heeft meegedeeld. De doorlichting vindt uiterlijk plaats op 30 juni 2022.
 
 ## HOOFDSTUK 7 . Afwijking van de Codex Secundair Onderwijs van 17 december 2010
 
