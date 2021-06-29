@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035759,
+  "title": "Decreet van 2021-06-25 tot wijziging van artikel 47/1 van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid in het kader van COVID-19 in de zomer van 2021",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035759/VolledigDocument?datum=2021-06-29",
+  "source_sha256": "f2f114e135caba6e4e111818f71f6d2ea47f2035a17b86780dbd56ae1623d5bb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035759&param=informatie",
+  "as_of": "2021-06-29",
+  "made": "2021-06-25",
+  "gazette": "2021-06-29",
+  "numac": 2021042460,
+  "document_start": "2021-06-29",
+  "document_end": null,
+  "in_force": "2021-06-29",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
