@@ -393,15 +393,23 @@ De Vlaamse Regering bepaalt de termijn van de tijdelijke afzondering, vermeld in
 <br>
 § 2. [... (vernietigd bij&nbsp;<a href="https://www.const-court.be/public/n/2023/2023-026n.pdf">arrest Grondwettelijk Hof 2023/026 van 16 februari 2023</a>&nbsp;].<br>
 <br>
-§ 3. In afwijking van artikel 47, § 1, 1°, gaat iedere andere persoon dan de per- sonen, vermeld in paragraaf 1 en 2, die een verhoogd risico heeft op COVID-19, onmiddellijk in tijdelijke afzondering als hij op de hoogte is gebracht van het feit dat hij een verhoogd risico heeft op COVID-19, hetzij op zijn hoofdverblijfplaats, hetzij op een andere aangepaste plaats.<br>
+§ 3. In afwijking van artikel 47, § 1, 1°, gaat iedere andere persoon dan de personen, vermeld in paragraaf 1 en 2, die&nbsp;na een contact met een persoon als vermeld in paragraaf 1, eerste lid, een verhoogd risico heeft op COVID-19, onmiddellijk in tijdelijke afzondering als hij op de hoogte is gebracht van het feit dat hij een verhoogd risico heeft op COVID-19, hetzij op zijn hoofdverblijfplaats, hetzij op een andere aangepaste plaats.<br>
 <br>
-De persoon, vermeld in het eerste lid, is verplicht om zich onmiddellijk nadat hij kennis heeft genomen van het feit dat hij een verhoogd risico heeft op COVID- 19, te melden bij een COVID-19-testcentrum, bij een triagecentrum of bij zijn behandelend arts, zodat hij een COVID-19-test kan ondergaan.<br>
+De persoon, vermeld in het eerste lid, is verplicht om zich onmiddellijk nadat hij kennis heeft genomen van het feit dat hij een verhoogd risico heeft op COVID- 19, te melden bij een COVID-19-testcentrum, bij een triagecentrum of bij zijn behandelend arts, zodat hij een COVID-19-test kan ondergaan.&nbsp;De Vlaamse Regering kan bepalen of en wanneer die persoon zich opnieuw bij een COVID-19-testcentrum, bij een triagecentrum of bij zijn behandelend arts moet melden, zodat hij nog een COVID-19-test kan ondergaan.<br>
 <br>
-De Vlaamse Regering bepaalt de termijn van de tijdelijke afzondering, vermeld in het eerste lid, op basis van de wetenschappelijke inzichten over de incubatietijd van COVID-19. De termijn van tijdelijke afzondering loopt af als uit een onderzoek blijkt dat de persoon geen gevaar vormt voor de volksgezondheid.<br>
+De Vlaamse Regering bepaalt:<br>
+1° de termijn van de tijdelijke afzondering, vermeld in het eerste lid, op basis van de wetenschappelijke inzichten over de incubatietijd van COVID-19;<br>
+2° de activiteiten waarvoor en de voorwaarden waaronder een tijdelijke opheffing van de tijdelijke afzondering, vermeld in het eerste lid, kan gelden. De Vlaamse Regering houdt daarbij rekening met het noodzakelijke karakter van de activiteit en het risico op een verdere verspreiding van COVID-19.<br>
+<br>
+De termijn van tijdelijke afzondering loopt af als uit een onderzoek blijkt dat de persoon geen gevaar vormt voor de volksgezondheid.<br>
 <br>
 De Vlaamse Regering bepaalt nader op welke manier de persoon, vermeld in het eerste lid, op de hoogte wordt gebracht van het feit dat hij een verhoogd risico heeft op COVID-19.<br>
 <br>
-Het verhoogde risico op COVID-19, vermeld in het eerste lid, wordt door de Vlaamse Regering vastgesteld op basis van de richtlijnen van de bevoegde federale dienst.
+Het verhoogde risico op COVID-19, vermeld in het eerste lid, wordt door de Vlaamse Regering vastgesteld op basis van de richtlijnen van de bevoegde federale dienst.<br>
+<br>
+In afwijking van het eerste lid kan de Vlaamse Regering bepalen dat er een vrijstelling geldt van de tijdelijke afzondering of van de verplichting om zich bij een COVID-19-testcentrum, triagecentrum of behandelend arts te melden, vermeld in het tweede lid, voor een persoon bij wie de kans op besmetting na een hoogrisicocontact laag wordt ingeschat. De Vlaamse Regering bepaalt de nadere regels van die afwijking en bepaalt de manier waarop de kans op besmetting wordt ingeschat.<br>
+<br>
+§ 4. In afwijking van paragraaf 2, eerste lid, en van paragraaf 3, eerste lid, kan de Vlaamse Regering op basis van wetenschappelijke inzichten bepalen dat de tijdelijke afzondering of de verplichting om zich bij een COVID-19-testcentrum, triagecentrum of behandelend arts te melden, vermeld in paragraaf 2, tweede lid, en in paragraaf 3, tweede lid, niet geldt voor personen die behoren tot een leeftijdscategorie die de Vlaamse Regering bepaalt. De Vlaamse Regering bepaalt ook de voorwaarden waaronder die afwijking geldt.
 
 ### ART. 48.
 
