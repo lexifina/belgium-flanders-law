@@ -114,6 +114,10 @@ In artikel 3.1.52, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de
 In artikel 5.6.2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 7 september 2012, wordt punt 2° vervangen door wat volgt:<br>
 "2° de meteropname minstens jaarlijks te organiseren waarbij maximaal gebruik gemaakt wordt van digitale kanalen;".
 
+### ART 12.
+
+In artikel 6.1.16, § 1/1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 8 april 2011, vervangen bij het besluit van de Vlaamse Regering van 12 mei 2017 en gewijzigd bij het besluit van de Vlaamse Regering van 30 november 2018, wordt het vijfde lid opgeheven.
+
 ### ART 13.
 
 In artikel 6.2/1.4, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 21 december 2012 en gewijzigd bij de besluiten van de Vlaamse Regering van 29 mei 2015, 12 mei 2017 en 10 juli 2020, worden de volgende wijzigingen aangebracht:<br>
