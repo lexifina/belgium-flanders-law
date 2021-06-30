@@ -51,6 +51,10 @@ In afwijking van artikel 7, § 1, eerste lid, 1° en 2° van het Woonzorgdecreet
 <br>
 Het administratief basisdossier en het financieel plan wordt in het geval, vermeld in het eerste lid, uiterlijk op 1 januari 2023 aan het agentschap Zorg en Gezondheid bezorgd.
 
+### ART 3.
+
+In afwijking van artikel 94, eerste en tweede lid, van het Woonzorgdecreet van 15 februari 2019 wordt het administratief basisdossier uiterlijk op 1 januari 2023 aan het agentschap Zorg en Gezondheid bezorgd.
+
 ## Afdeling 2. Koninklijk besluit van 6 november 1979 tot vaststelling van de normen inzake beveiliging tegen brand en paniek waaraan ziekenhuizen moeten voldoen
 
 ### ART 5.
