@@ -17,6 +17,10 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In afwijking van artikel 11 van het besluit van de Vlaamse regering van 24 november 1998 betreffende de regels voor het uitreiken van het getuigschrift van basisonderwijs en het vastleggen van de vorm ervan, wordt in het schooljaar 2020-2021 het getuigschrift basisonderwijs uiterlijk op 31 augustus 2021 aan de deelnemers uitgereikt.
+
 ### ART 2.
 
 In afwijking van artikel 7, § 2, eerste lid, van het besluit van de Vlaamse Regering van 19 september 2011 houdende de subsidiëring van studenttutoring in het onderwijs in Vlaanderen wordt de uiterlijke indieningsdatum voor de studenttutoringsprojecten die van start gaan in het schooljaar 2021-2022, in de oproep bepaald.
