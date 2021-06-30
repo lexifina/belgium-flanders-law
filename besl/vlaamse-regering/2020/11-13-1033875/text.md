@@ -392,7 +392,7 @@ In artikel 24, tweede lid, van hetzelfde besluit wordt de zinsnede "Artikel 11 h
 
 Dit besluit heeft uitwerking met ingang van 1 november 2020.<br>
 <br>
-Artikel 1 tot en met 24 van dit besluit houden op uitwerking te hebben op 30 juni 2021.
+Artikel 1 tot en met 24 van dit besluit houden op uitwerking te hebben op 31 augustus 2021.
 
 ### ART 30.
 
