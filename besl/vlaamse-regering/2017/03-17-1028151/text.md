@@ -120,6 +120,10 @@ Een organisator groepsopvang met een subsidie voor inkomenstarief T2b die geen o
 
 Een organisator groepsopvang met een subsidie voor inkomenstarief T2a of T2b die een openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering van 45,78 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie voor inkomenstarief T2a of T2b ontvangt.
 
+### ART 9/1.
+
+Een organisator groepsopvang met een basissubsidie voor groepsopvang als vermeld in artikel 12 van het Subsidiebesluit van 22 november 2013, die een openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt 384,04 euro per gesubsidieerde kinderopvangplaats.
+
 ## Afdeling 2 Gezinsopvang
 
 ### ART 10.
@@ -310,6 +314,14 @@ Een organisator met een subsidie voor ex-generatiepact, die geen openbaar bestuu
 In het eerste lid wordt verstaan onder subsidie voor ex-generatiepact: een subsidie voor buitenschoolse opvang als vermeld in artikel 89/1 tot en met 91 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014.
 
 ## [Afdeling 7. Koopkrachtondersteuning voor organisatoren buitenschoolse opvang die een lokaal of openbaar bestuur zijn (ing. BVR 3 juni 2022, art. 3, I: 1 juli 2021)]
+
+### ART 32/2.
+
+Een organisator met een attest van toezicht voor groepsopvang als vermeld in artikel 3 van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014, die een lokaal bestuur is, en die vanaf 1 januari 2022 beschikt over een kwaliteitslabel als vermeld in het besluit van de Vlaamse regering van 16 oktober 2020 tot toekenning van een kwaliteitslabel aan organisatoren van kleuteropvang, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt 168,77 euro per geattesteerde opvangplaats.
+
+### ART 32/3.
+
+Een organisator met een subsidie voor initiatief voor buitenschoolse opvang, een organisator met een subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte en een organisator met een subsidie voor lokale diensten die een openbaar bestuur zijn, ontvangen van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt 168,77 euro per erkende opvangplaats.
 
 ## [HOOFDSTUK 4 Flexibele opvangpool (verv. BVR 7 februari 2020, art. 36, I: 1 oktober 2019)]
 
