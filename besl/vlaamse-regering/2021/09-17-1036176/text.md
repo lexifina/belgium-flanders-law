@@ -30,6 +30,10 @@ Ter uitvoering van artikel 49, tweede lid, van bijlage 2 bij het besluit van de 
 
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers
 
+### ART 2.
+
+In artikel 21, tweede lid, van het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers wordt de zin "Om het prioriteitenschema vast te stellen als vermeld in het eerste lid, baseert de minister zich op de lokale dienstencentra, de diensten voor gastopvang, de centra voor dagopvang, de centra voor kortverblijf type 2 en type 3 en de verenigingen waarvan de datum van de erkenningsbeslissing valt vóór 1 juli van het desbetreffende jaar en de centra voor dagverzorging waarvan de datum van de erkenningsbeslissing valt vóór 1 januari van het desbetreffende jaar, maar die niet gesubsidieerd zijn." vervangen door de zin "Om het prioriteitenschema vast te stellen als vermeld in het eerste lid, baseert de minister zich op de lokale dienstencentra, de diensten voor gastopvang, de centra voor kortverblijf type 2 en type 3 en de verenigingen waarvan de datum van de erkenningsbeslissing valt vóór 1 juli van het jaar in kwestie, en de centra voor dagverzorging en de centra voor dagopvang waarvan de ingangsdatum van de erkenning valt op ten laatste 1 januari van het jaar in kwestie, maar die niet gesubsidieerd zijn.".
+
 ### ART 3
 
 In artikel 22 van hetzelfde besluit wordt de zinsnede ", een centrum voor dagopvang" opgeheven.
