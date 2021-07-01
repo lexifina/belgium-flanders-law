@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035790,
+  "title": "Besluit van de Vlaamse Regering van 2021-06-18 tot wijziging van het Subsidiebesluit van 22 november 2013, wat betreft de ondersteuning van gezinnen door lokale loketten kinderopvang bij de aanvraag van het inkomenstarief",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035790/VolledigDocument?datum=2021-07-01",
+  "source_sha256": "5c949c4e66c73957bc0735f7b3c468a71fd2f7f96c23268d1efb19c713ab7a22",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035790&param=informatie",
+  "as_of": "2021-07-01",
+  "made": "2021-06-18",
+  "gazette": "2021-07-12",
+  "numac": 2021042586,
+  "document_start": "2021-07-01",
+  "document_end": null,
+  "in_force": "2021-07-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
