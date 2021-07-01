@@ -6,7 +6,7 @@ De volgende personen worden aangeduid als effectieve leden van de beheerscommiss
 1° de leidend ambtenaar of een personeelslid van het agentschap Digitaal Vlaanderen, die de beheerscommissie voorzit: mevrouw Barbara Van Den Haute;<br>
 2° ...;<br>
 3° de leidend ambtenaar van de Vlaamse Landmaatschappij: de heer Toon Denys;<br>
-4° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de financiën en de begrotingen: mevrouw Lotte Baeten;<br>
+4° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de financiën en de begrotingen: mevrouw Natacha Huyghe;<br>
 5° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de digitalisering: de heer Jan Smedts;<br>
 6° een vertegenwoordiger van de beheerders van een netwerk van water, elektriciteit, gas, telecommunicatie, teledistributie en rioleringen in Vlaanderen: mevrouw Hilde Beeckmans.
 

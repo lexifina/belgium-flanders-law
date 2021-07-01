@@ -2,16 +2,16 @@
   "codex_id": 1037138,
   "title": "Ministerieel besluit van 2020-01-24 tot aanduiding van de leden van de beheerscommissie van het Eigen Vermogen [Digitaal] Vlaanderen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037138/VolledigDocument?datum=2021-05-10",
-  "source_sha256": "c885b1b7c3fa2bcd87126e4d593f03faedba82d18780ff37e3ab76e1300b8a35",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037138/VolledigDocument?datum=2021-07-01",
+  "source_sha256": "d9e4802e791b325ac91322de8ba9b88a38e05b1fec9818e7aaf561c17454a51f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037138&param=informatie",
-  "as_of": "2021-05-10",
+  "as_of": "2021-07-01",
   "made": "2020-01-24",
   "gazette": "2020-02-12",
   "numac": 2020040244,
   "document_start": "2019-12-18",
   "document_end": "2024-11-30",
-  "in_force": "2021-05-10",
+  "in_force": "2021-07-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2021-05-10; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-07-01; future article versions excluded; article text as the API gives it"
 }
