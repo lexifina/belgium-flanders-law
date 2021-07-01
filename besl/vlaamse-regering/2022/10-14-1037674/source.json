@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037674,
+  "title": "Besluit van de Vlaamse Regering van 2022-10-14 tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming en het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, wat betreft bijkomende flexibiliteit in de personeelsinzet in woonzorgcentra en centra voor kortverblijf",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037674/VolledigDocument?datum=2021-07-01",
+  "source_sha256": "b56f4b623e4922d539d8d7f3cc733f1f26fa6cad9b1b3c775add601989c5dc60",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037674&param=informatie",
+  "as_of": "2021-07-01",
+  "made": "2022-10-14",
+  "gazette": "2022-12-21",
+  "numac": 2022042835,
+  "document_start": "2021-07-01",
+  "document_end": null,
+  "in_force": "2021-07-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2021-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
