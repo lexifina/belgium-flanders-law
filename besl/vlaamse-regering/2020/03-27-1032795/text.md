@@ -30,20 +30,16 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-In afwijking van artikel 13, derde lid, van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging, kunnen tot en met 30 juni 2021, meerdere niet-gecremeerde stoffelijke overschotten gezamenlijk vervoerd worden.
+...
 
 ### ART 2.
 
-In afwijking van artikel 19, § 1, 3°, van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging moet tot en met 30 juni 2021, het verslag van een beëdigd geneesheer uit de eigen gemeente of een andere gemeente van het Vlaamse Gewest die door de ambtenaar van de burgerlijke stand of door zijn gemachtigde beambten van het gemeentebestuur is aangesteld om de doodsoorzaken na te gaan, niet meer worden bijgevoegd.<br>
-<br>
-De afwijking, vermeld in het eerste lid, is uitsluitend mogelijk:<br>
-1° als het overlijden plaatsvindt in het ziekenhuis of in een woonzorgcentrum van het Vlaams gewest;<br>
-2° als het overlijden plaatsvindt buiten het ziekenhuis of buiten een woonzorgcentrum van het Vlaams gewest en de behandelende geneesheer of de geneesheer die het overlijden vaststelt, bevestigt dat het overlijden te wijten is aan de infectieziekte, ten gevolge waarvan de voormelde civiele noodsituatie met betrekking tot de volksgezondheid is afgekondigd.
+...
 
 ### ART 3.
 
-Dit besluit treedt in werking op de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad.
+...
 
 ### ART 4.
 
-De Vlaamse minister, bevoegd voor het binnenlands bestuur en het stedenbeleid, is belast met de uitvoering van dit besluit.
+...
