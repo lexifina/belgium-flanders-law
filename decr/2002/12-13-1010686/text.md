@@ -106,15 +106,22 @@ Op voorstel van BAM bepaalt de Vlaamse Regering voorwaarden voor het vaststellen
 
 ### ART. 18.
 
-BAM mag leningen aangaan, kredieten opnemen en schuldeffecten uitgeven binnen de door de Vlaamse regering vastgestelde grenzen. De Vlaamse regering kan er de waarborg van het Vlaamse Gewest aan verlenen.<br>
+BAM mag leningen aangaan, kredieten opnemen en schuldeffecten uitgeven binnen de door de Vlaamse Regering vastgestelde grenzen.<br>
 <br>
-Het Vlaamse Gewest machtigt de Vlaamse Regering om alle verbintenissen te waarborgen die Tunnel Liefkenshoek NV ten aanzien van derden is aangegaan of zal aangaan, dit voor zover het maatschappelijk doel van Tunnel Liefkenshoek NV beperkt is en blijft tot de financiering, de realisatie, het beheer en de exploitatie van betolde Scheldeoeververbindingen in de Antwerpse regio. Deze waarborg maakt een onvoorwaardelijke, onherroepelijke, abstracte waarborg uit, afroepbaar op eerste verzoek die van kracht blijft tot al deze verbintenissen van Tunnel Liefkenshoek NV ten aanzien van derden volledig zijn voldaan.<br>
+Het Vlaamse Gewest machtigt de Vlaamse Regering om waarborgen te verstrekken voor de verbintenissen die BAM is aangegaan of aangaat alsook voor aansprakelijkheden die BAM of een bij het project betrokken bouwpartij in het kader van dat project heeft opgelopen of oploopt. Die waarborgen kunnen slechts door de Vlaamse Regering worden verstrekt:<br>
+1° als die verbintenissen en aansprakelijkheden niet geheel verzekerd of verzekerbaar zijn door een verzekeraar op de private markt omwille van te hoge premievergoedingen op die private markt of een gebrek aan offertes uit die private markt;<br>
+2° als BAM voor die aansprakelijkheden van de betrokken bouwpartijen minimaal gedeeltelijk een verzekeringsovereenkomst afsloot bij een verzekeraar op de private markt;<br>
+3° voor de economische levensduur van het onderliggende actief of project;<br>
+4° voor een maximaal bedrag dat jaarlijks wordt vastgelegd in de uitgavenbegroting van de Vlaamse Gemeenschap;<br>
+5° als, bij voorzichtige inschatting, geen gehele of gedeeltelijke uitwinning van de waarborg te verwachten valt.<br>
 <br>
-Het vorige lid geldt enkel van zodra BAM een deel of het geheel van de financiering, de realisatie, het beheer en de exploitatie van de Oosterweelverbinding overeenkomstig artikel 6, § 1, aan Tunnel Liefkenshoek NV heeft toevertrouwd door middel van een in toepassing van die bepaling afgesloten langetermijnovereenkomst.<br>
+Die waarborgen kunnen een onherroepelijke en abstracte waarborg uitmaken, en zijn afroepbaar op het eerste verzoek en totdat die verbintenissen en aansprakelijkheden ten aanzien van derden volledig zijn voldaan.<br>
 <br>
-De Vlaamse Regering kan van de Tunnel Liefkenshoek NV een eenmalige of periodieke vergoeding vorderen in ruil voor de in dit artikel bedoelde waarborg. Die vergoeding kan variëren in functie van de omvang van de waarborg of op grond van andere relevante parameters. Het niet of laattijdig betalen van de vergoeding door de Tunnel Liefkenshoek NV doet op geen enkele wijze afbreuk aan de rechtsgeldigheid of aan het onvoorwaardelijk, onherroepelijk en abstract karakter van de waarborg.<br>
+BAM betaalt een vergoeding voor de verlening van een waarborg door de Vlaamse Gemeenschap. De Vlaamse Regering kan de vergoeding eenmalig of periodiek vorderen en bepaalt de vergoeding in functie van de omvang van de waarborg of op grond van andere relevante parameters. Het niet of laattijdig betalen van de vergoeding door BAM doet op geen enkele wijze afbreuk aan de rechtsgeldigheid of aan het onherroepelijk en abstract karakter of de afroepbaarheid van de waarborg.<br>
 <br>
-De in dit artikel bedoelde waarborg is niet onderworpen aan de bepalingen van hoofdstuk 10, afdeling 4, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
+De Vlaamse Regering kan de modaliteiten van de waarborgen, vermeld in dit artikel, nader bepalen.<br>
+<br>
+De in dit artikel bedoelde waarborgen zijn niet onderworpen aan de bepalingen van hoofdstuk 10, afdeling 4, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
 ### ART. 19.
 
