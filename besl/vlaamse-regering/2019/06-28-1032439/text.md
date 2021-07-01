@@ -296,7 +296,7 @@ De initiatiefnemer voert een gezond financieel beleid, besteedt subsidies doelma
 
 Jaarlijks bepaalt de minister voor de lokale dienstencentra, de diensten voor gastopvang, de centra voor dagopvang, de centra voor dagverzorging, de centra voor kortverblijf type 2 en type 3 en de verenigingen het prioriteitenschema voor de toekenning van de subsidie.<br>
 <br>
-Om het prioriteitenschema vast te stellen als vermeld in het eerste lid, baseert de minister zich op de lokale dienstencentra, de diensten voor gastopvang, de centra voor dagopvang, de centra voor kortverblijf type 2 en type 3 en de verenigingen waarvan de datum van de erkenningsbeslissing valt vóór 1 juli van het desbetreffende jaar en de centra voor dagverzorging waarvan de datum van de erkenningsbeslissing valt vóór 1 januari van het desbetreffende jaar, maar die niet gesubsidieerd zijn. Het prioriteitenschema houdt minstens rekening met de bepalingen, vermeld in bijlage 1, 2, 6, 7, 8 en 12, die bij dit besluit zijn gevoegd.<br>
+Om het prioriteitenschema vast te stellen als vermeld in het eerste lid, baseert de minister zich op de lokale dienstencentra, de diensten voor gastopvang, de centra voor kortverblijf type 2 en type 3 en de verenigingen waarvan de datum van de erkenningsbeslissing valt vóór 1 juli van het jaar in kwestie, en de centra voor dagverzorging en de centra voor dagopvang waarvan de ingangsdatum van de erkenning valt op ten laatste 1 januari van het jaar in kwestie, maar die niet gesubsidieerd zijn. Het prioriteitenschema houdt minstens rekening met de bepalingen, vermeld in bijlage 1, 2, 6, 7, 8 en 12, die bij dit besluit zijn gevoegd.<br>
 <br>
 De lokale dienstencentra, de diensten voor gastopvang, de centra voor dagopvang, de centra voor dagverzorging, de centra voor kortverblijf type 2 en type 3 en de verenigingen die in het voorgaande jaar al gesubsidieerd zijn en nog erkend zijn, worden opnieuw gesubsidieerd als ze voldoen aan de subsidiëringsvoorwaarden, vermeld in bijlage 1, 2, 6, 7, 8 en 12, die bij dit besluit zijn gevoegd.
 
@@ -3831,7 +3831,9 @@ De subsidiedossiers van het werkingsjaar 2019 en de voorgaande jaren worden verd
 
 ### ART 13.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Wat de organisatie van de zorg en ondersteuning betreft, zijn artikel 32, 33, 38, 39 en 40 van bijlage 11 van overeenkomstige toepassing op het centrum type 1.</span></span></p>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Wat de organisatie van de zorg en ondersteuning betreft, zijn artikel 32, 33, 38, 39 en 40 van bijlage 11 van overeenkomstige toepassing op het centrum type 1.<br>
+<br>
+Op de centrum type 1, dat wordt uitgebaat in lokalen van een woonzorgcentrum die daarvoor bestemd zijn, is artikel 33/1 van bijlage 11 van overeenkomstige toepassing.</span></span></p>
 
 ## Onderafdeling 2. De collectieve inspraak van de gebruikers en de klachtenbehandeling
 
@@ -4074,15 +4076,21 @@ De subsidiedossiers van het werkingsjaar 2019 en de voorgaande jaren worden verd
 
 ### ART 39.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Centra voor kortverblijf die op 31 december 2019 erkend zijn, worden van rechtswege geacht erkend te zijn als centrum type 1. Ze beantwoorden uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden van een centrum type 1, vermeld in artikel 38 van het Woonzorgdecreet van 15 februari 2019, artikel 4 van dit besluit en deel 2, hoofdstuk 2 van deze bijlage.</span></span></p>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Centra voor kortverblijf die op 31 december 2019 erkend zijn, worden van rechtswege geacht erkend te zijn als centrum type 1. Ze beantwoorden uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden van een centrum type 1, vermeld in artikel 38 van het Woonzorgdecreet van 15 februari 2019, artikel 4 van dit besluit en deel 2, hoofdstuk 2 van deze bijlage.<br>
+<br>
+In afwijking van het eerste lid voldoen de centra voor kortverblijf type 1 die worden uitgebaat in lokalen van een woonzorgcentrum die daarvoor bestemd zijn en op 1 januari 2020 erkend zijn, uiterlijk op 1 juli 2021 aan de erkenningsvoorwaarde, vermeld in artikel 33/1 van bijlage 11.</span></span></p>
 
 ### ART 40.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als over een aanvraag tot erkenning van een centrum voor kortverblijf op 31 december 2019 nog geen beslissing is genomen, wordt de aanvraag verder behandeld met toepassing van de erkenningsvoorwaarden die op 31 december 2019 van toepassing zijn. In geval van erkenning beantwoordt het centrum uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden van een centrum type 1, vermeld in <span style="color:black">artikel 38 van het Woonzorgdecreet van 15 februari 2019, </span>artikel 4 van dit besluit<span style="color:black"> en deel 2, hoofdstuk 2 van deze bijlage.</span></span></span></p>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als over een aanvraag tot erkenning van een centrum voor kortverblijf op 31 december 2019 nog geen beslissing is genomen, wordt de aanvraag verder behandeld met toepassing van de erkenningsvoorwaarden die op 31 december 2019 van toepassing zijn. In geval van erkenning beantwoordt het centrum uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden van een centrum type 1, vermeld in <span style="color:black">artikel 38 van het Woonzorgdecreet van 15 februari 2019, </span>artikel 4 van dit besluit<span style="color:black"> en deel 2, hoofdstuk 2 van deze bijlage.<br>
+<br>
+In afwijking van het eerste lid voldoen de centra voor kortverblijf type 1 die worden uitgebaat in lokalen van een woonzorgcentrum die daarvoor bestemd zijn en op basis van het eerste lid erkend zijn, uiterlijk op 1 juli 2021 aan de erkenningsvoorwaarde, vermeld in artikel 33/1 van bijlage 11.</span></span></span></p>
 
 ### ART 41.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De centra voor kortverblijf, die op 31 december 2019 voorafgaand vergund zijn, kunnen vervolgens worden erkend met toepassing van de erkenningsvoorwaarden die van toepassing zijn op 31 december 2019 en worden van rechtswege geacht erkend te zijn als centrum type 1. Ze beantwoorden uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden van een centrum type 1, vermeld in <span style="color:black">artikel 38 van het Woonzorgdecreet van 15 februari 2019, </span>artikel 4 van dit besluit<span style="color:black"> en hoofdstuk 2 van deze bijlage.</span></span></span><br>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De centra voor kortverblijf, die op 31 december 2019 voorafgaand vergund zijn, kunnen vervolgens worden erkend met toepassing van de erkenningsvoorwaarden die van toepassing zijn op 31 december 2019 en worden van rechtswege geacht erkend te zijn als centrum type 1. Ze beantwoorden uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden van een centrum type 1, vermeld in <span style="color:black">artikel 38 van het Woonzorgdecreet van 15 februari 2019, </span>artikel 4 van dit besluit<span style="color:black"> en hoofdstuk 2 van deze bijlage.<br>
+<br>
+In afwijking van het eerste lid voldoen de centra voor kortverblijf die worden uitgebaat in lokalen van een woonzorgcentrum die daarvoor bestemd zijn en op basis van het eerste lid erkend zijn, uiterlijk op 1 juli 2021 aan de erkenningsvoorwaarde, vermeld in artikel 33/1 van bijlage 11.</span></span></span><br>
 <br>
 <span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In afwijking van het eerste lid kan het centrum voor kortverblijf type 1 onmiddellijk erkend worden met toepassing van de erkenningsvoorwaarden, vermeld in <span style="color:black">artikel 38 van het Woonzorgdecreet van 15 februari 2019, </span>artikel 4 van dit besluit<span style="color:black"> en hoofdstuk 2 van deze bijlage, </span>als de beheersinstantie van het centrum voor kortverblijf type 1 dat uitdrukkelijk vraagt bij het insturen van de erkenningsaanvraag.</span></span></p>
 
@@ -5646,7 +5654,7 @@ n)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de v
 
 <p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">De initiatiefnemer ontslaat een bewoner niet tenzij wegens overmacht of om redenen en volgens de procedure, vermeld in de schriftelijke opnameovereenkomst.</span></span></span><br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Als de initiatiefnemer een bewoner ontslaat omdat zijn gedragingen ernstig storend zijn voor de medebewoners of voor de werking van het woonzorgcentrum, of omdat zijn gezondheidstoestand van dien aard is, dat een overplaatsing naar een meer passende voorziening noodzakelijk is, wordt altijd het oordeel van de behandelende arts ingewonnen, in voorkomend geval, van de coördinerende en raadgevende arts, en van het interdisciplinaire team dat die bewoner verzorgt. Als dat wenselijk is, kan ook externe experten om advies worden verzocht.</span></span></span><br>
+<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Als de initiatiefnemer een bewoner ontslaat omdat zijn gedragingen ernstig storend zijn voor de medebewoners of voor de werking van het woonzorgcentrum, of omdat zijn gezondheidstoestand van dien aard is, dat een overplaatsing naar een meer passende voorziening noodzakelijk is, wordt altijd het oordeel ingewonnen van de behandelende arts, van de coördinerend en raadgevend arts, en van het interdisciplinaire team dat die bewoner verzorgt. Als dat wenselijk is, kan ook externe experten om advies worden verzocht.</span></span></span><br>
 <br>
 <span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">De initiatiefnemer zorgt in overleg met de gebruiker, zijn vertegenwoordiger of mantelzorger voor de toeleiding van de gebruiker naar een passend verblijf en verlengt de opzeggingstermijn tot er een passend verblijf is gevonden.</span></span></span></p>
 
@@ -5891,6 +5899,48 @@ Daarbij worden de keuzevrijheid en een maximale persoonlijke autonomie en zelfve
 <span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;het beschikt over een uitgeschreven visie met betrekking tot de begeleiding wonen en leven in het woonzorgcentrum. Die visie wordt geconsolideerd door de beheersorganen, die ook de strategische keuzes bepalen om die visie operationeel te realiseren. In die visie gaat bijzondere aandacht naar een integrale benadering van de begeleiding wonen en leven in het woonzorgcentrum en een specifiek vormingsaanbod rond de begeleiding wonen en leven voor alle personeelsleden. Bovendien blijkt uit die visie dat het woonzorgcentrum emanciperend omgaat met bewoners en familieleden. Als een initiatiefnemer naast een woonzorgcentrum ook een centrum voor kortverblijf type 1 uitbaat, volstaat één gezamenlijke visie. </span></span></span><br>
 <span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">2° het woonzorgcentrum maakt een jaarplan op over de activiteiten die het ontplooit om de begeleiding wonen en leven kwaliteitsvol uit te voeren. Als een initiatiefnemer naast een woonzorgcentrum ook een centrum voor kortverblijf type 1 uitbaat, volstaat één gezamenlijk jaarplan. De minister kan over de vorm en de inhoud van het plan specifieke regels bepalen.</span></span></span></p>
 
+### ART 33/1.
+
+§ 1. In elk woonzorgcentrum, al dan niet met bijbehorend centrum voor kortverblijf type 1, wijst de initiatiefnemer een coördinerend en raadgevend arts aan die een erkende huisarts is en die uiterlijk vier jaar na zijn aanwijzing houder is van een attest dat toegang verleent tot de functie van coördinerend en raadgevend arts. Dat attest kan worden verkregen nadat een opleidingscyclus van minstens 24 uur, die erkend is door het agentschap, met vrucht afgerond is.<br>
+<br>
+De coördinerend en raadgevend arts is verbonden aan het woonzorgcentrum, al dan niet met bijbehorend centrum voor kortverblijf type 1, met een ondernemingscontract. Het agentschap kan een exemplaar van dat contract opvragen.<br>
+<br>
+Het ondernemingscontract vermeldt de rechten en plichten van beide partijen, waaronder minstens de te leveren prestaties en de vergoeding. De te leveren prestaties omvatten minstens de prestaties vermeldt onder § 4 van dit artikel.<br>
+<br>
+De vergoeding is minstens gelijk aan het bedrag waarvoor het woonzorgcentrum een tegemoetkoming ontvangt in het kader van artikel 500 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
+<br>
+De prestaties van de coördinerend en raadgevend arts bedragen gemiddeld minstens twee uur en twintig minuten per week per dertig bewoners.<br>
+<br>
+§ 2. De opleidingscyclus, vermeld in paragraaf 1, behandelt de organisatie van een Vlaams woonzorgcentrum en centrum voor kortverblijf type 1 en de zorg binnen een Vlaams woonzorgcentrum en een centrum voor kortverblijf type 1, met verwijzing naar de regelgeving die van toepassing is op het woonzorgcentrum en het centrum voor kortverblijf type 1 in kwestie. De organisatie die de opleidingscyclus aanbiedt, heeft minstens een samenwerkingsverband met een van de academische huisartsencentra van de Vlaamse universiteiten gesloten.<br>
+<br>
+De Vlaamse Regering kan bijkomende kwaliteitscriteria voor de opleidingscyclus bepalen, alsook de voorwaarden voor de Continue Professionele Educatie, CPE, die jaarlijks onderhouden wordt.<br>
+<br>
+Die opleidingscyclus omvat minstens de volgende onderdelen:<br>
+1° de organisatie van en de regelgeving over woonzorgcentra en centra voor kortverblijf type 1, inclusief de kwaliteit van zorg;<br>
+2° de specificiteit van de geriatrische geneeskunde, inclusief palliatieve zorg, levenseindezorg en farmaceutische zorg;<br>
+3° het voorkomen en het beheersen van uitbraken van infecties, en het beheer van de antibiotherapie;<br>
+4° de communicatietechnieken, inclusief de communicatie met bewoners met mentale of cognitieve beperkingen en de communicatie over de wensen en voorkeuren van de bewoners.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure om de erkenning van de opleidingscyclus te verkrijgen, en de regels voor de evaluatie van de opleidingscyclus, vermeld in paragraaf 1, eerste lid, en kan ook bijkomend regels vaststellen voor de duur van de erkenning en de weigering, wijziging of intrekking van de erkenning. De minister kan de onderdelen, vermeld in het derde lid, nader bepalen.<br>
+<br>
+Het toezicht op de opleidingscyclus, vermeld in het eerste lid, wordt uitgeoefend met inachtneming van het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid waarbij de opleidingsinstantie wordt behandeld als een actor in de zorg.<br>
+<br>
+§ 3. De kandidaten coördinerend en raadgevend arts worden voorgedragen door de huisartsenkring die actief is in de gemeente waarin het woonzorgcentrum, al dan niet met bijbehorende centrum voor kortverblijf type 1, zich bevindt. De initiatiefnemer behoudt het recht om onder de voorgedragen kandidaten autonoom een keuze te maken.<br>
+<br>
+§ 4. In samenspraak met de directeur, de hoofdverpleegkundige(n) of, in voorkomend geval, de teamverantwoordelijke(n) staat de coördinerend en raadgevend arts in voor al de volgende taken:<br>
+1° in relatie met het medische korps:<br>
+a) op geregelde tijdstippen, individuele en collectieve overlegvergaderingen met de behandelende artsen organiseren;<br>
+b) de continuïteit van de medische zorg coördineren en organiseren;<br>
+c) de opmaak en het up-to-date houden van de dossiers van de bewoners die de behandelende artsen bijhouden, coördineren;<br>
+d) de medische activiteiten bij ziektetoestanden die gevaar opleveren voor de bewoners of het personeel, coördineren;<br>
+e) het farmaceutische zorgbeleid coördineren in overleg met de behandelende artsen en de apotheker die de geneesmiddelen levert voor de bewoners in het woonzorgcentrum, of, in voorkomend geval, de coördinerende en adviserende apotheker. Dat omvat voor de geneesmiddelen ten minste het opstellen en het gebruik van een geneesmiddelenformularium omvat, alsook het oordeelkundige gebruik van specifieke geneesmiddelenklassen en de alternatieve niet-farmacologische aanpak bij de bewoners van het woonzorgcentrum;<br>
+f) huisartsen die in het woonzorgcentrum werken, actief informeren over het beleid van het woonzorgcentrum met betrekking tot het rationeel voorschrijven van geneesmiddelen;<br>
+2° bijscholing en vorming: meewerken aan de organisatie van activiteiten in het kader van bijscholing en vorming in het domein van de gezondheidszorg voor het personeel van het woonzorgcentrum, al dan niet met bijbehorend centrum voor kortverblijf type 1, en voor de betrokken behandelende artsen.<br>
+<br>
+De minister kan de taken, vermeld in het eerste lid, 1°, nader bepalen en kan bepalen welke vormingsactiviteiten voor de bijscholing en vorming, vermeld in het eerste lid, 2°, in aanmerking komen.<br>
+<br>
+§ 5. De aanstelling van een coördinerend en raadgevend arts mag niet leiden tot een feitelijke beperking van de vrije keuze van de huisarts.
+
 ### ART 34.
 
 <p><span style="color:black">Wat betreft de organisatie van de vroegtijdige zorgplanning, de palliatieve zorg en de levenseindezorg beschikt het woonzorgcentrum over een interdisciplinair team. Minstens de coördinerende en raadgevende arts en de door de initiatiefnemer aangestelde verantwoordelijke met een specifieke opleiding op het vlak van vroegtijdige zorgplanning, palliatieve zorg en levenseindezorg maken deel uit van dat interdisciplinair team. Dit interdisciplinair team wordt belast met:<br>
@@ -5904,7 +5954,7 @@ Daarbij worden de keuzevrijheid en een maximale persoonlijke autonomie en zelfve
 <p><span style="color:black">Voor de organisatie van het medische beleid beschikt de initiatiefnemer over een algemeen reglement van de medische activiteit met de rechten en plichten van de behandelende artsen die actief zijn in het woonzorgcentrum. Dat reglement wordt overhandigd aan elke behandelende arts. Door dat reglement te ondertekenen verbindt elke behandelende arts zich ertoe om zo efficiënt mogelijk samen te werken aan de medische organisatie en de medische zorg van het woonzorgcentrum.<br>
 <br>
 Het algemeen reglement van de medische activiteit beschrijft minstens de volgende punten:<br>
-1° het engagement van de behandelende artsen om aan te sluiten bij een coherent medisch beleid binnen het woonzorgcentrum, onder andere met betrekking tot het voorschrijven en opvolgen van medicatie en specifiek antibiotica<strong>,</strong> het verlenen van kwaliteitsvolle zorg, het interdisciplinair overleg, het overleg met de toeleverende apotheker(s), en, in voorkomend geval, het overleg met de coördinerende en raadgevende arts en de coördinerende en adviserende apotheker;<br>
+1° het engagement van de behandelende artsen om aan te sluiten bij een coherent medisch beleid binnen het woonzorgcentrum, onder andere met betrekking tot het voorschrijven en opvolgen van medicatie en specifiek antibiotica<strong>,</strong> het verlenen van kwaliteitsvolle zorg, het interdisciplinair overleg, het overleg met de toeleverende apotheker(s), en het overleg met de coördinerend en raadgevend arts en, in voorkomend geval, de coördinerende en adviserende apotheker;<br>
 2° de normale openings- en bezoektijden behalve in noodgeval;<br>
 3° de contacten met familie;<br>
 4° de overlegvergaderingen in het woonzorgcentrum;<br>
@@ -5923,7 +5973,7 @@ Het algemeen reglement van de medische activiteit beschrijft minstens de volgend
 4° in voorkomend geval, de coördinerende en adviserende arts bijstaan bij het bepalen van het geneesmiddelenbeleid van het woonzorgcentrum;<br>
 5°&nbsp;meewerken aan de implementatie van een digitaal gedeeld medisch-&nbsp;farmaceutische luik, als onderdeel van het woonzorgleefplan.</span><br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Op initiatief van de artsen en apothekers actief in het woonzorgcentrum, en in voorkomend geval de coördinerend en raadgevend arts en de coördinerend en adviserend apotheker, kan het woonzorgcentrum in overleg een beleid van het voorgeschreven medicatiegebruik ontwikkelen en uitvoeren. </span></span></span></p>
+<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Op initiatief van de artsen en apothekers actief in het woonzorgcentrum, en de coördinerend en raadgevend arts en,in voorkomend geval, de coördinerende en adviserende apotheker, kan het woonzorgcentrum in overleg een beleid van het voorgeschreven medicatiegebruik ontwikkelen en uitvoeren. </span></span></span></p>
 
 ### ART 37.
 
@@ -6065,7 +6115,7 @@ In geval van deeltijds werk of een ander arbeidsregeling, en in geval van nieuwe
 15°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">als de waarschuwingsfase van het Vlaams Warmteactieplan wordt opgestart, wordt een geklimatiseerde ruimte beschikbaar gemaakt die voldoende groot is voor alle bewoners van wie de verblijfsruimten de vereiste temperaturen niet halen;<br>
 16°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">aangepaste zonnewering waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, wordt, waar nodig, aangebracht. </span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">Zonnewering wordt als aangepast beschouwd als het zicht op de buitenwereld niet wordt verstoord, en oververhitting en verblinding door direct zonlicht van de bewoners worden vermeden</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">;<br>
 17°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">in alle ruimten die voor de bewoners toegankelijke zijn, worden niveauverschillen, zoals treden, trappen en andere hindernissen, vermeden. Als die niveauverschillen niet vermeden kunnen worden, worden ze ondervangen conform de bepalingen in de stedenbouwkundige verordening toegankelijkheid en worden ze duidelijk gesignaleerd;<br>
-18°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">om zich te verplaatsen in het gebouw kunnen de bewoners zich behelpen met leuningen en handgrepen. In gangen worden aan beide kanten leuningen aangebracht</span><em style="color:black; font-family:Verdana,sans-serif; font-size:10pt">.</em><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt"> Ook in de sanitaire ruimten zijn leuningen en handgrepen aangebracht;<br>
+18°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">om zich te verplaatsen in het gebouw kunnen de bewoners zich behelpen met leuningen en handgrepen. In gangen worden aan beide kanten leuningen aangebracht</span><em>.</em><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt"> Ook in de sanitaire ruimten zijn leuningen en handgrepen aangebracht;<br>
 19°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">alle gangen die voor de bewoners toegankelijk zijn, beschikken over de nodige rustpunten. Een rustpunt is een plek waar de bewoner kan zitten;<br>
 20°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">elke bewoner kan altijd in alle ruimten die voor de bewoners toegankelijke zijn, een aangepast oproepsysteem gebruiken. In elke sanitaire cel is permanent een oproepsysteem aanwezig dat gemakkelijk bereikbaar is voor de bewoners. De ruimte waaruit de noodoproep komt, moet identificeerbaar zijn. Draagbare oproepsystemen zijn betrouwbaar en regelmatig gecontroleerd te worden. Als de voorziening van oordeel is dat het beschikken over een oproepsysteem niet nuttig is of een gevaar inhoudt voor de bewoner wordt dit, na overleg, geregeld, beargumenteerd en opgevolgd in het woonzorgleefplan. Elk oproepsysteem is inbegrepen in de dagprijs. Als er zowel een vast oproepsysteem als een draagbaar oproepsysteem is, zijn beide inbegrepen in de dagprijs;&nbsp;<br>
 21°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de bewoner heeft vanaf zijn bed de mogelijkheid om het licht te bedienen dat aangepast is aan de plaatselijke omstandigheden;<br>
@@ -6075,10 +6125,10 @@ In geval van deeltijds werk of een ander arbeidsregeling, en in geval van nieuwe
 25°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">er is ten minste één uitgeruste zaal voor de kinesitherapie- en ergotherapie oefeningen en voor de begeleiding wonen en leven in groep;<br>
 26°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">alle ruimten die voor de bewoners toegankelijke zijn, zijn ruim genoeg zodat rolstoelgebruikers er zich gemakkelijk kunnen verplaatsen;<br>
 27°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">’s nachts zijn de woongelegenheden en gangen zo verlicht dat de bewoners zich veilig kunnen verplaatsen;<br>
-28°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">het woonzorgcentrum beschikt ten minste over een verpleeg-, een verzorgings- en een onderzoekslokaal</span><em style="color:black; font-family:Verdana,sans-serif; font-size:10pt">;<br>
+28°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">het woonzorgcentrum beschikt ten minste over een verpleeg-, een verzorgings- en een onderzoekslokaal</span><em>;<br>
 29°&nbsp;</em><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">ten minste de helft van de bedden is in de hoogte verstelbaar;<br>
-30°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">er zijn voldoende rolstoelen en er is voldoende en aangepast materiaal om doorligwonden te voorkomen;<br>
-31°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">in voorkomend geval wordt aan de coördinerende en raadgevende arts een werkruimte ter beschikking gesteld.</span></p>
+30°&nbsp;er zijn voldoende rolstoelen en er is voldoende en aangepast materiaal om doorligwonden te voorkomen;<br>
+31° aan de coördinerend en raadgevend arts wordt een werkruimte met de nodige uitrusting ter beschikking gesteld.</span></p>
 
 ### ART 52.
 
@@ -6218,36 +6268,46 @@ Het maximale aantal te erkennen woongelegenheden erkend als woonzorgcentrum met 
 ### ART 62.
 
 <p><span style="color:black">De personeelsnorm wordt per dertig bewoners in een woongelegenheid woonzorgcentrum met een bijkomende erkenning, op de volgende wijze vastgesteld:<br>
-1°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">ten minste vijf voltijds equivalenten van de verpleegkundigen. Het woonzorgcentrum beschikt hetzij binnen dit aantal over een hoofdverpleegkundige hetzij bovenop dit aantal over een teamverantwoordelijke die in het bezit is van ten minste een bachelordiploma in een zorg- of welzijnsdomein. Boven de eerste dertig bewoners is een bijkomende hoofdverpleegkundige of teamverantwoordelijke verplicht bij overschrijding van de helft van elke nieuwe schijf van dertig bewoners in een woongelegenheid woonzorgcentrum met een bijkomende erkenning.<br>
-2°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">ten minste vijf voltijds equivalenten zorgkundigen;<br>
-3°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">één voltijdsequivalent kinesitherapeut, ergotherapeut of logopedist, waarbij de eerste twee disciplines in ieder geval voldoende vertegenwoordigd zijn in het woonzorgcentrum en dat ze hetzij in loondienst hetzij vastbenoemd zijn. Logopedie wordt aangeboden in functie van de behoeften van de bewoners;<br>
-4°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">0,10 voltijdsequivalent personeelslid voor reactivering dat een bekwaming heeft in vroegtijdige zorgplanning, palliatieve zorg en levenseindezorg, ter ondersteuning van de verzorging van de bewoner die zich in levenseindefase bevindt en dat over een van de volgende kwalificaties beschikt:<br>
-&nbsp; a)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat, licentiaat of master kinesitherapie;&nbsp;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat, bachelor, licentiaat of master logopedie;&nbsp;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat of bachelor ergotherapie;&nbsp;<br>
-&nbsp; d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat of bachelor arbeidstherapie;&nbsp;<br>
-&nbsp; e)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat of bachelor readaptatiewetenschappen;&nbsp;<br>
-&nbsp; f)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat of bachelor dieetleer;&nbsp;<br>
-&nbsp; g)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat, bachelor, licentiaat of master orthopedagogie;<br>
-&nbsp; h)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat, bachelor, postgraduaat of master psychomotoriek;&nbsp;<br>
-&nbsp; i)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">licentiaat of master psychologie;&nbsp;<br>
-&nbsp; j)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat of bachelor psychologisch assistent en gelijkgestelden;&nbsp;</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">&nbsp; k) graduaat of bachelor sociaal werker, sociale gezondheidszorg, maatschappelijk verpleegkundige of "infirmière spécialisée en santé communautaire";&nbsp;<br>
-&nbsp; l)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat of bachelor gezinswetenschappen;&nbsp;<br>
-&nbsp; m)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">licentiaat of master gerontologie;&nbsp;<br>
-&nbsp; n)</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat of bachelor opvoeder;<br>
-&nbsp; o)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat, bachelor of master in de verpleegkunde;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5° een voltijds equivalent verpleegkundige, naar rato maximaal één voltijds equivalent per dertig bewoners, mag, voor zover de permanentie, vermeld in artikel 48 wordt gerespecteerd, worden vervangen door een persoon die bij voorkeur een van de volgende kwalificaties heeft:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat, bachelor, licentiaat of master kinesitherapie;&nbsp;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat, bachelor, licentiaat of master logopedie;&nbsp;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat of bachelor ergotherapie;&nbsp;<br>
-&nbsp; d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat of bachelor arbeidstherapie; graduaat of bachelor readaptatieweten-schappen;&nbsp;<br>
-&nbsp; e)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat of bachelor dieetleer; graduaat, bachelor, licentiaat of master orthopedagogie;&nbsp;<br>
-&nbsp; f)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat, bachelor, postgraduaat of master psychomotoriek; licentiaat of master psychologie;&nbsp;<br>
-&nbsp; g)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat of bachelor psychologisch assistent en gelijkstelden, graduaat of bachelor sociaal werker, sociale gezondheidszorg;&nbsp;<br>
-&nbsp; h)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">maatschappelijke verpleegkundige of "infirmière spécialisée en santé communautaire";&nbsp;<br>
-&nbsp; i)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">graduaat of bachelor gezinswetenschappen; licentiaat of master gerontologie; graduaat of bachelor opvoeder of, bij gebrek eraan, door zorgkundigen;<br>
-&nbsp; j)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">bachelor in de mondzorg.</span></p>
+1° ten minste vijf voltijds equivalenten verpleegkundigen. Het woonzorgcentrum beschikt binnen dat aantal over een hoofdverpleegkundige. Boven de eerste dertig bewoners is bij overschrijding van de helft van elke nieuwe schijf van dertig bewoners in een woongelegenheid woonzorgcentrum met een bijkomende erkenning, hetzij binnen het aantal vereiste verpleegkundigen een bijkomende hoofdverpleegkundige, hetzij bovenop dat aantal een teamverantwoordelijke die in het bezit is van ten minste een bachelordiploma in een zorg- of welzijnsdomein, verplicht;</span><br>
+<span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">2°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">ten minste vijf voltijds equivalenten zorgkundigen;<br>
+3°&nbsp;één voltijdsequivalent kinesitherapeut, ergotherapeut of logopedist, waarbij de eerste twee disciplines in ieder geval voldoende vertegenwoordigd zijn in het woonzorgcentrum en dat ze hetzij in loondienst hetzij vastbenoemd zijn. Logopedie wordt aangeboden in functie van de behoeften van de bewoners;<br>
+4° 0,10 voltijdsequivalent personeelsleden voor reactivering die aantoonbare ervaring hebben met betrekking tot vroegtijdige zorgplanning, palliatieve zorg en levenseindezorg, ter ondersteuning van de verzorging van de bewoner die zich in de levenseindefase bevindt, en die over een van de volgende kwalificaties beschikken:<br>
+a) graduaat of licentiaat of master in de kinesitherapie;<br>
+b) graduaat of bachelor of licentiaat of master in de logopedie;<br>
+c) graduaat of bachelor in de ergotherapie;<br>
+d) graduaat of bachelor in de arbeidstherapie;<br>
+e) graduaat of bachelor in de readaptatiewetenschappen;<br>
+f) graduaat of bachelor in de dieetleer;<br>
+g) graduaat of bachelor of licentiaat of master in de pedagogie of de orthopedagogiek;<br>
+h) graduaat of bachelor of postgraduaat of master in de psychomotoriek;<br>
+i) licentiaat of master in de psychologie;<br>
+j) graduaat of bachelor psychologisch assistent;<br>
+k) graduaat of bachelor sociaal werker of sociale gezondheidszorg of sociaal verpleegkundige of verpleegkundige gespecialiseerd in de sociale gezondheidszorg;<br>
+l) bachelor of master in het sociaal werk;<br>
+m) graduaat of bachelor in de gezinswetenschappen;<br>
+n) licentiaat of master in de gerontologie;<br>
+o) graduaat of bachelor opvoeder;<br>
+p) bachelor-na-bacheloropleiding psychosociale gerontologie;<br>
+q) bachelor in de mondzorg</span><span style="font-family:Verdana,sans-serif; font-size:10pt">;</span><span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5° maximaal 20% van de verpleegkundigen, vermeld in 1°, mag als de permanentie, vermeld in artikel 48, wordt gerespecteerd, worden vervangen door een persoon die bij voorkeur een van de volgende kwalificaties heeft:<br>
+a) graduaat of licentiaat of master in de kinesitherapie;<br>
+b) graduaat of bachelor of licentiaat of master in de logopedie;<br>
+c) graduaat of bachelor in de ergotherapie;<br>
+d) graduaat of bachelor in de arbeidstherapie;<br>
+e) graduaat of bachelor in de readaptatiewetenschappen;<br>
+f) graduaat of bachelor in de dieetleer;<br>
+g) graduaat of bachelor of licentiaat of master in de pedagogie of de orthopedagogiek;<br>
+h) graduaat of bachelor of postgraduaat of master in de psychomotoriek;<br>
+i) licentiaat of master in de psychologie;<br>
+j) graduaat of bachelor psychologisch assistent;<br>
+k) graduaat of bachelor sociaal werker of sociale gezondheidszorg of sociaal verpleegkundige of verpleegkundige gespecialiseerd in de sociale gezondheidszorg;<br>
+l) bachelor of master in het sociaal werk;<br>
+m) graduaat of bachelor in de gezinswetenschappen;<br>
+n) licentiaat of master in de gerontologie;<br>
+o) graduaat of bachelor opvoeder;<br>
+p) bachelor-na-bacheloropleiding psychosociale gerontologie;<br>
+q) bachelor in de mondzorg.<br>
+Bij gebrek aan een van de kwalificaties, vermeld in punt a) tot en met q), mag maximaal 20% van de verpleegkundigen door zorgkundigen vervangen worden;<br>
+6° het percentage van 20%, vermeld in punt 5°, kan verhoogd worden tot 30% in de woonzorgcentra, in voorkomend geval met bijbehorende centra voor kortverblijf, waar minstens zeven voltijds equivalenten verpleegkundigen werken.</span></span></span></span></p>
 
 ## Onderafdeling 3. [... (opgeh. BVR 20 januari 2023, art. 52, I: 1 januari 2023)]
 
@@ -6266,37 +6326,7 @@ Het maximale aantal te erkennen woongelegenheden erkend als woonzorgcentrum met 
 
 ### ART 65.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">§1. In elk woonzorgcentrum met bijkomende erkenning wijst de initiatiefnemer een coördinerend en raadgevend arts aan, die een erkend huisarts is, en die uiterlijk vier jaar na zijn aanwijzing houder is van een attest dat toegang verleent tot de functie van coördinerend en raadgevend arts. Dat attest kan worden verkregen nadat een opleidingscyclus van minstens 24 uur, die erkend is door het intern verzelfstandigd agentschap Zorg en Gezondheid, met vrucht afgerond is. </span></span></span><br>
-<br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">In het eerste lid wordt verstaan onder intern verzelfstandigd agentschap Zorg en Gezondheid: het agentschap, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap “Zorg en Gezondheid”. </span></span></span><br>
-<br>
-<span style="color:black">De opleidingscyclus, vermeld in het eerste lid, behandelt de organisatie van een Vlaams woonzorgcentrum en de zorg binnen een Vlaams woonzorgcentrum, met verwijzing naar de regelgeving die van toepassing is op het woonzorgcentrum in kwestie. De organisatie die de opleidingscyclus aanbiedt, heeft minstens een samenwerkingsverband met een van de academische huisartsencentra van de Vlaamse universiteiten afgesloten. De minister kan bijkomende kwaliteitscriteria voor de opleidingscyclus bepalen, alsook de voorwaarden voor de Continue Professionele Educatie, CPE, die jaarlijks onderhouden wordt.<br>
-<br>
-§2. Die opleidingscyclus omvat minstens de volgende onderdelen:<br>
-1°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de organisatie van en de regelgeving over woonzorgcentra, inclusief de kwaliteit van zorg;<br>
-2°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de specificiteit van de geriatrische geneeskunde, inclusief palliatieve zorg, levenseindezorg en farmaceutische zorg;<br>
-3°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">het voorkomen van infecties en het beheer van de antibiotherapie;<br>
-4°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de communicatietechnieken, inclusief de communicatie met bewoners met mentale of cognitieve beperkingen en de communicatie over de wensen en voorkeuren van de bewoners.</span><br>
-<br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">De minister bepaalt de procedure voor het bekomen van de erkenning van de opleidingscyclus en de regels voor de evaluatie van de opleidingscyclus, vermeld in paragraaf 1, eerste lid, en kan de onderdelen, vermeld in het eerste lid, nader bepalen. De minister kan ook bijkomend regels vaststellen met betrekking tot de duur van de erkenning en de weigering, wijziging of intrekking van de erkenning. </span></span></span><br>
-<br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Het toezicht op de opleidingscyclus, vermeld in het eerste lid, wordt uitgeoefend met inachtneming van het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid waarbij de opleidingsinstantie wordt behandeld als een actor in de zorg.</span></span></span><br>
-<br>
-<span style="color:black">§3. De kandidaat coördinerende en raadgevende artsen worden voorgedragen door de huisartsenkring die actief is in de gemeente waarin het woonzorgcentrum zich bevindt. De initiatiefnemer behoudt het recht om binnen de voorgedragen kandidaten autonoom een keuze te maken.<br>
-<br>
-§4. In samenspraak met de directeur, de hoofdverpleegkundige(n) of in voorkomend geval de teamverantwoordelijken staat de coördinerend en raadgevend arts in voor al de volgende taken:&nbsp;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1° in relatie met het medische korps:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">op geregelde tijdstippen, individuele en collectieve overlegvergaderingen met de behandelende artsen organiseren;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de continuïteit van de medische zorg coördineren en organiseren;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de coördinatie van het opmaken en up to date houden van de dossiers van de bewoners die door de behandelende artsen bijgehouden worden;<br>
-&nbsp; d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de medische activiteiten bij ziektetoestanden die gevaar opleveren voor de bewoners of het personeel coördineren;<br>
-&nbsp; e)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">het farmaceutische zorgbeleid coördineren in overleg met de behandelende artsen en de apotheker die de toelevering van de geneesmiddelen doet aan de bewoners in het woonzorgcentrum, of, in voorkomend geval de coördinerende en adviserende apotheker, wat voor de geneesmiddelen ten minste het opstellen en het gebruik van een geneesmiddelenformularium omvat, alsook het oordeelkundige gebruik van specifieke geneesmiddelenklassen en de alternatieve niet-farmacologische aanpak bij de bewoners van het woonzorgcentrum;<br>
-&nbsp; f)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">huisartsen die in het woonzorgcentrum werken, actief informeren over het beleid van het woonzorgcentrum met betrekking tot het rationeel voorschrijven van geneesmiddelen;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;bijscholing en vorming: meewerken aan de organisatie van activiteiten voor bijscholing en vorming in het domein van de gezondheidszorg voor het personeel van het woonzorgcentrum, en voor de betrokken behandelende artsen.</span></span></span></span><br>
-<br>
-<span style="color:black">De minister kan de taken, vermeld in het eerste lid, 1°, nader bepalen en kan bepalen welke vormingsactiviteiten voor de bijscholing en vorming, vermeld in het eerste lid, 2°, in aanmerking komen.<br>
-<br>
-§5. De aanstelling van een coördinerende en raadgevende arts mag niet leiden tot een feitelijke beperking van de vrije keuze van de huisarts.</span></p>
+<p>...</p>
 
 ## Hoofdstuk 6. [Bijkomende erkenningen voor gespecialiseerde zorg en ondersteuning aan specifieke doelgroepen (verv. BVR 20 januari 2023, art. 53, I: 1 januari 2023)]
 
@@ -6381,15 +6411,21 @@ Het maximale aantal te erkennen woongelegenheden erkend als woonzorgcentrum met 
 
 ### ART 77.
 
-<p><span style="color:black">De woonzorgcentra of gedeelten van woonzorgcentra die op 1 januari 2020 erkend zijn, behouden hun erkenning volgens de regels die op 31 december 2019 van toepassing zijn. Ze beantwoorden uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden, vermeld in </span><span style="color:black">artikel 38 van het Woonzorgdecreet van 15 februari 2019, artikel 4 van dit besluit en hoofdstuk 3 van deze bijlage.</span></p>
+<p><span style="color:black">De woonzorgcentra of gedeelten van woonzorgcentra die op 1 januari 2020 erkend zijn, behouden hun erkenning volgens de regels die op 31 december 2019 van toepassing zijn. Ze beantwoorden uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden, vermeld in artikel 38 van het Woonzorgdecreet van 15 februari 2019, artikel 4 van dit besluit en hoofdstuk 3 van deze bijlage.<br>
+<br>
+In afwijking van het eerste lid voldoen de woonzorgcentra of gedeelten van woonzorgcentra die op 1 januari 2020 erkend zijn, uiterlijk op 1 juli 2021 aan de erkenningsvoorwaarde, vermeld in artikel 33/1 en artikel 62.</span></p>
 
 ### ART 78.
 
-<span style="color:black">Als over een aanvraag tot erkenning van een woonzorgcentrum of een gedeelte van een woonzorgcentrum op 31 december 2019 nog geen beslissing is genomen, wordt de aanvraag verder behandeld met toepassing van de erkenningsvoorwaarden die op 31 december 2019 van toepassing zijn. In geval van erkenning beantwoordt het woonzorgcentrum of het gedeelte van het woonzorgcentrum uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden, vermeld in </span><span style="color:black">artikel 38 van het Woonzorgdecreet van 15 februari 2019, artikel 4 van dit besluit en hoofdstuk 3 van deze bijlage.</span>
+<span style="color:black">Als over een aanvraag tot erkenning van een woonzorgcentrum of een gedeelte van een woonzorgcentrum op 31 december 2019 nog geen beslissing is genomen, wordt de aanvraag verder behandeld met toepassing van de erkenningsvoorwaarden die op 31 december 2019 van toepassing zijn. In geval van erkenning beantwoordt het woonzorgcentrum of het gedeelte van het woonzorgcentrum uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden, vermeld in artikel 38 van het Woonzorgdecreet van 15 februari 2019, artikel 4 van dit besluit en hoofdstuk 3 van deze bijlage.<br>
+<br>
+In afwijking van het eerste lid voldoen de woonzorgcentra of gedeelten van woonzorgcentra die op basis van het eerste lid erkend zijn, uiterlijk op 1 juli 2021 aan de erkenningsvoorwaarde, vermeld in artikel 33/1 en artikel 62.</span>
 
 ### ART 79.
 
-<p><span style="color:black">De woonzorgcentra of gedeelten van woonzorgcentra die op 31 december 2019 voorafgaand vergund zijn,</span><span style="color:black"> kunnen worden erkend met toepassing van de erkenningsvoorwaarden die op 31 december 2019 van toepassing zijn. Zij beantwoorden uiterlijk op </span><span style="color:black">31 december 2022 </span><span style="color:black">aan de </span><span style="color:black">erkenningsvoorwaarden, vermeld in </span><span style="color:black">artikel 38 van het Woonzorgdecreet van 15 februari 2019, artikel 4 van dit besluit en hoofdstuk 3 van deze bijlage.<br>
+<p><span style="color:black">De woonzorgcentra of gedeelten van woonzorgcentra die op 31 december 2019 voorafgaand vergund zijn,</span><span style="color:black"> kunnen worden erkend met toepassing van de erkenningsvoorwaarden die op 31 december 2019 van toepassing zijn. Zij beantwoorden uiterlijk op </span><span style="color:black">31 december 2022 </span><span style="color:black">aan de </span><span style="color:black">erkenningsvoorwaarden, vermeld in artikel 38 van het Woonzorgdecreet van 15 februari 2019, artikel 4 van dit besluit en hoofdstuk 3 van deze bijlage.<br>
+<br>
+In afwijking van het eerste lid voldoen de woonzorgcentra of gedeelten van woonzorgcentra die op basis van het eerste lid erkend zijn, uiterlijk op 1 juli 2021 aan de erkenningsvoorwaarde, vermeld in artikel 33/1 en artikel 62.<br>
 <br>
 In afwijking van het eerste lid kan het woonzorgcentrum of het gedeelte van het woonzorgcentrum onmiddellijk erkend worden met toepassing van de erkenningsvoorwaarden, vermeld in artikel 38 van het Woonzorgdecreet van 15 februari 2019, artikel 4 van dit besluit en hoofdstuk 3 van deze bijlage, als de initiatiefnemer van het woonzorgcentrum dat uitdrukkelijk vraagt bij het insturen van de erkenningsaanvraag.</span></p>
 
