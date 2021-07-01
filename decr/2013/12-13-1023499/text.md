@@ -3434,6 +3434,12 @@ In geval van legaat van een geldsom of van legaat van een periodieke rente   of 
 
 Voor de inning van het successierecht worden andere schuldvorderingen dan de schuldvorderingen, vermeld in artikel 2.7.3.2.7, die voortkomen uit de toepassing van een beding in een huwelijksovereenkomst dat door de erflater en zijn partner is overeengekomen en dat betrekking heeft op de vereffening van hun huwelijksvermogensstelsel, niet in aanmerking genomen.
 
+### ART 2.7.3.2.15.
+
+Als er zich onder de erfgenamen, legatarissen of begiftigden een of meer legatarissen bevinden van wie het legaat onder de toepassing van artikel 2.7.4.2.1 valt, wordt om de rechten te berekenen:<br>
+1° voor de legatarissen, vermeld in artikel 2.7.4.2.1, het eventuele bedrag om de erfbelasting van andere erfgenamen, legatarissen of begiftigden te voldoen, gedeeld door (1 - het marginale tarief dat is toegepast om dat bedrag te berekenen) en begrensd tot het legaat zelf, niet in aanmerking genomen voor de belastbare grondslag;<br>
+2° voor de andere erfgenamen, legatarissen of begiftigden, vermeld in punt 1°, het eventuele bedrag, vermeld in punt 1°, in aanmerking genomen voor de belastbare grondslag.
+
 ## [Onderafdeling 3. Waardering van het actief (ing. Decr.19 december 2014, art. 34, I: 1 januari 2015)]
 
 ### ART. 2.7.3.3.1.
@@ -3633,7 +3639,7 @@ Het toe te passen tarief is het tarief dat van kracht is op de dag van het   ove
 
 ### ART. 2.7.4.2.1.
 
-In afwijking van artikel 2.7.4.1.1 bedraagt het tarief van de erfbelasting 8,5 % voor de legaten aan :<br>
+In afwijking van artikel 2.7.4.1.1 bedraagt het tarief van de erfbelasting 0 % voor de legaten aan :<br>
 1° het Vlaamse Gewest en de Vlaamse Gemeenschap;<br>
 2° de Vlaamse, de Franse en de Gemeenschappelijke Gemeenschapscommissie;<br>
 3° de Franse en de Duitstalige Gemeenschap en aan het Waalse en het Brusselse Hoofdstedelijke Gewest;<br>
@@ -3643,10 +3649,12 @@ In afwijking van artikel 2.7.4.1.1 bedraagt het tarief van de erfbelasting 8,5 %
 7° erkende sociale huisvestingsmaatschappijen als vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
 8° het Vlaams Woningfonds;<br>
 9° dienstverlenende en opdrachthoudende verenigingen als vermeld in artikel 12, § 2, 2° en 3°, van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br>
-10° verenigingen zonder winstoogmerk, ziekenfondsen en landsbonden van ziekenfondsen, beroepsverenigingen, internationale verenigingen zonder winstoogmerk, private stichtingen en stichtingen van openbaar nut;<br>
+10° verenigingen zonder winstoogmerk, ziekenfondsen en landsbonden van ziekenfondsen, internationale verenigingen zonder winstoogmerk en stichtingen van openbaar nut;<br>
 11° openbare centra voor maatschappelijk welzijn.<br>
 <br>
-Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijksoortige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een andere staat van de Europese Economische Ruimte, en die bovendien hun zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.
+In afwijking van artikel 2.7.4.1.1 bedraagt het tarief van de erfbelasting 8,5% voor de legaten aan beroepsverenigingen en private stichtingen.<br>
+<br>
+Het verlaagde tarief, vermeld in het eerste&nbsp;en het tweede lid, is ook van toepassing op gelijksoortige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een andere staat van de Europese Economische Ruimte, en die bovendien hun&nbsp; zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.
 
 ### ART. 2.7.4.2.2.
 
@@ -3736,6 +3744,25 @@ Als het actief van de nalatenschap van een rijksinwoner onroerende   goederen be
 ### ART. 2.7.5.0.5.
 
 Het verkooprecht en het verdeelrecht dat geheven wordt bij de registratie   van de akte van verkoop of van afstand, en, in voorkomend geval, het   overschrijvingsrecht, of een soortgelijke belasting die geheven wordt in een   staat van de Europese Economische Ruimte, worden afgetrokken van de erfbelasting   als de voormelde belastingen opeisbaar zijn krachtens artikel 2.7.1.0.9 en   artikel 2.7.3.3.5, eventueel gecombineerd met artikel 2.7.3.2.11.
+
+### ART 2.7.5.0.6.
+
+De erfbelasting, verschuldigd door natuurlijke personen van wie de verkrijging onderworpen is aan het tarief, vermeld in tabel II van artikel 2.7.4.1.1, en die voldoen aan de hierna gestelde voorwaarden, wordt verminderd met een bedrag dat verkregen wordt door toepassing van de volgende formule: X = a x (b - c).<br>
+<br>
+De parameters, vermeld in het eerste lid, worden gedefinieerd als volgt:<br>
+1° a = de som van de nettoverkrijgingen tot een totaal maximumbedrag van 15.000 euro, aan de natuurlijke personen, vermeld in het eerste lid, die belast zijn volgens het tarief, vermeld in tabel II van artikel 2.7.4.1.1;<br>
+2° b = het laagste tarief, vermeld in tabel II van het voormelde artikel;<br>
+3° c = het laagste tarief, vermeld in tabel I van het voormelde artikel.<br>
+<br>
+De vermindering, vermeld in het eerste lid, wordt alleen toegekend aan de natuurlijke personen die de erflater in een niet-herroepen testament op ondubbelzinnige wijze heeft aangewezen als diegenen die de toepassing van de vermindering, vermeld in het eerste lid, mogen vragen.<br>
+<br>
+De vermindering, vermeld in het eerste lid, wordt toegepast op de erfbelasting, verschuldigd door de verkrijgers die zijn aangewezen overeenkomstig het derde lid, na de toepassing van alle andere vrijstellingen en verminderingen waarop de voormelde verkrijgers aanspraak kunnen maken.<br>
+<br>
+Als er slechts één natuurlijke persoon is aangewezen overeenkomstig het derde lid, wordt de vermindering, vermeld in het eerste lid, exclusief toegekend aan deze persoon.<br>
+<br>
+Als er meer dan één natuurlijke persoon is aangewezen overeenkomstig het derde lid, wordt de vermindering, vermeld in het eerste lid, onder deze personen verdeeld naar verhouding van hun persoonlijke nettoverkrijging ten opzichte van de samengenomen nettoverkrijgingen van al deze personen, tenzij de erflater een andere verdeling heeft bepaald.<br>
+<br>
+De vermindering die conform dit artikel wordt toegepast, levert in geen geval grond voor een teruggave op.
 
 ## [Afdeling 6. Vrijstelling (ing. Decr. 19 december 2014, art. 68, I: 1 januari 2015)]
 
@@ -3996,7 +4023,7 @@ TABEL II<br>
 <br>
 Dat tarief is niet van toepassing op de schenkingen onder de levenden van roerende goederen die met legaten worden gelijkgesteld met toepassing van artikel 2.7.1.0.3, 3°.<br>
 <br>
-§ 3. In afwijking van paragraaf 1 en 2 bedraagt het tarief van de schenkbelasting 5,5 % voor schenkingen, inclusief inbrengen om niet, aan :<br>
+§ 3. In afwijking van paragraaf 1 en 2 bedraagt het tarief van de schenkbelasting 0 % voor schenkingen, inclusief inbrengen om niet, aan :<br>
 1° het Vlaamse Gewest en de Vlaamse Gemeenschap;<br>
 2° de Vlaamse, de Franse en de Gemeenschappelijke Gemeenschapscommissie;<br>
 3° de Franse en de Duitstalige Gemeenschap en aan het Waalse en het Brusselse Hoofdstedelijke Gewest;<br>
@@ -4006,12 +4033,14 @@ Dat tarief is niet van toepassing op de schenkingen onder de levenden van roeren
 7° erkende sociale huisvestingsmaatschappijen als vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
 8° het Vlaams Woningfonds;<br>
 9° dienstverlenende en opdrachthoudende verenigingen als vermeld in artikel 12, § 2, 2° en 3°, van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br>
-10° verenigingen zonder winstoogmerk, ziekenfondsen en landsbonden van ziekenfondsen, beroepsverenigingen, internationale verenigingen zonder winstoogmerk, private stichtingen en stichtingen van openbaar nut;<br>
+10° verenigingen zonder winstoogmerk, ziekenfondsen en landsbonden van ziekenfondsen, internationale verenigingen zonder winstoogmerk en stichtingen van openbaar nut;<br>
 11° openbare centra voor maatschappelijk welzijn.<br>
 <br>
-In afwijking van het eerste lid wordt de schenkbelasting, vermeld in paragraaf 1 en 2, gebracht op 100 euro voor de schenkingen, inclusief inbrengen om niet, gedaan aan rechtspersonen als vermeld in het eerste lid, 10°, als de schenker zelf een rechtspersoon als vermeld in het eerste lid, 10°, is.<br>
+In afwijking van paragraaf 1 en 2 bedraagt het tarief van de schenkbelasting 5,5% voor schenkingen, inclusief inbrengen om niet, aan beroepsverenigingen en private stichtingen.<br>
 <br>
-Het tarief, vermeld in het eerste en tweede lid, is ook van toepassing op gelijksoortige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een andere staat van de Europese Economische Ruimte, en die bovendien hun&nbsp; zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.
+In afwijking van het eerste lid wordt de schenkbelasting, vermeld in paragraaf 1 en 2, gebracht op 100 euro voor de schenkingen, inclusief inbrengen om niet, gedaan aan rechtspersonen als vermeld in het tweede lid, als de schenker zelf een rechtspersoon als vermeld in het tweede lid, is.<br>
+<br>
+Het tarief, vermeld in het eerste, tweede en derde lid, is ook van toepassing op gelijksoortige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een andere staat van de Europese Economische Ruimte, en die bovendien hun&nbsp; zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.
 
 ### ART. 2.8.4.1.2.
 
@@ -4144,9 +4173,9 @@ Het teruggegeven bedrag, vermeld in het tweede lid, wordt teruggevorderd als de 
 <br>
 Bij niet-nakoming van de verbintenissen, vermeld in het derde lid, zijn de begiftigden elk gehouden tot betaling van de teruggegeven schenkbelasting over hun eigen aandeel in de schenking. De teruggegeven schenkbelasting is niet verschuldigd als de niet-nakoming van de aangegane verbintenis het gevolg is van overmacht.<br>
 <br>
-§ 3. In afwijking van artikel 2.8.4.1.1, § 3, bedraagt het tarief van de schenkbelasting 3% voor een schenking van een onroerend goed gelegen in het Vlaamse Gewest als de begiftigde voldoet aan de voorwaarden, vermeld in het eerste lid van hetzij paragraaf 1, hetzij paragraaf 2.<br>
+§ 3. In afwijking van artikel 2.8.4.1.1, § 3,&nbsp;tweede lid, bedraagt het tarief van de schenkbelasting 3% voor een schenking van een onroerend goed gelegen in het Vlaamse Gewest als de begiftigde voldoet aan de voorwaarden, vermeld in het eerste lid van hetzij paragraaf 1, hetzij paragraaf 2.<br>
 <br>
-Het verschil tussen de schenkbelasting, berekend overeenkomstig het artikel 2.8.4.1.1, § 3, en de schenkbelasting, berekend overeenkomstig het eerste lid, wordt teruggegeven overeenkomstig de bepalingen van artikel 3.6.0.0.6, § 1/1, of § 1/2.<br>
+Het verschil tussen de schenkbelasting, berekend overeenkomstig het artikel 2.8.4.1.1, § 3,&nbsp;tweede lid, en de schenkbelasting, berekend overeenkomstig het eerste lid, wordt teruggegeven overeenkomstig de bepalingen van artikel 3.6.0.0.6, § 1/1, of § 1/2.<br>
 <br>
 § 4. Als in dezelfde akte of in een andere akte van dezelfde datum naast het goed waarvoor de teruggave overeenkomstig paragraaf 1 of paragraaf 2 wordt gevraagd, nog andere onroerende goederen werden geschonken, wordt de schenking van het goed waarop de teruggave betrekking heeft, geacht vóór de schenking van de andere goederen geregistreerd te zijn of verplicht registreerbaar te zijn geworden.<br>
 <br>
@@ -4164,9 +4193,9 @@ Het verschil tussen de schenkbelasting, berekend conform de tabellen van artikel
 <br>
 § 2. Het bedrag, vermeld in paragraaf 1, eerste lid, 1°, is exclusief btw.<br>
 <br>
-§ 3. In afwijking van artikel 2.8.4.1.1, § 3, bedraagt het tarief van de schenkbelasting 3% voor een schenking van een onroerend goed in het Vlaamse Gewest als de begiftigde voldoet aan de voorwaarden, vermeld in paragraaf 1, eerste lid.<br>
+§ 3. In afwijking van artikel 2.8.4.1.1, § 3, tweede lid, bedraagt het tarief van de schenkbelasting 3% voor een schenking van een onroerend goed in het Vlaamse Gewest als de begiftigde voldoet aan de voorwaarden, vermeld in paragraaf 1, eerste lid.<br>
 <br>
-Het verschil tussen de schenkbelasting, berekend conform artikel 2.8.4.1.1, § 3, en de schenkbelasting, berekend conform het eerste lid, wordt teruggegeven conform de bepalingen van artikel 3.6.0.0.6, § 1/3.<br>
+Het verschil tussen de schenkbelasting, berekend conform artikel 2.8.4.1.1, § 3,&nbsp;tweede lid, en de schenkbelasting, berekend conform het eerste lid, wordt teruggegeven conform de bepalingen van artikel 3.6.0.0.6, § 1/3.<br>
 <br>
 § 4. Als in dezelfde akte of in een andere akte van dezelfde datum naast het goed waarvoor de teruggave, vermeld in paragraaf 1, wordt gevraagd, nog andere onroerende goederen zijn geschonken, wordt de schenking van het goed waarop de teruggave betrekking heeft, geacht vóór de schenking van de andere goederen geregistreerd te zijn of verplicht registreerbaar te zijn geworden.<br>
 <br>
@@ -5419,7 +5448,7 @@ Met behoud van de toepassing van artikel 3.18.0.0.6, § 2, kan de   aangifteterm
 8° de nauwkeurige aanduiding en raming van elk goed afzonderlijk dat deel uitmaakt van het belastbare actief, alsook de vermelding van de kadastrale afdeling, het kadastraal perceel en de ligging als het een onroerend goed betreft. Als de erfgenamen, algemene legatarissen en begiftigden en iedereen die ertoe gehouden is een aangifte van nalatenschap in te dienen met toepassing van artikel 3.3.1.0.9/1, een schatter-expert aanstellen om een schatting te maken van het geheel of een deel van de onroerende goederen die zich in België bevinden en die voor hun verkoopwaarde moeten of kunnen worden aangegeven, wordt het deskundige schattingsverslag bij de aangifte van nalatenschap gevoegd;<br>
 9° voor alle polissen die op de dag van het overlijden van kracht waren met betrekking tot lichamelijke roerende goederen : de naam of de firma en het domicilie van de verzekeraar, de datum van de polis en het nummer ervan, alsook de verzekerde goederen en de verzekerde waarde als de door de erflater nagelaten lichamelijk roerende goederen verzekerd waren tegen brand, diefstal of een ander risico. Er moet ook uitdrukkelijk bevestigd worden dat, voor zover de aangevers weten, de goederen niet het voorwerp van andere polissen uitmaakten. Als de goederen in kwestie niet verzekerd waren op de dag van het overlijden, moet dat uitdrukkelijk in de aangifte bevestigd worden;<br>
 10° behoudens als toepassing wordt gemaakt van artikel 2.7.3.4.2, eerste lid, de aanduiding van iedere schuld die in mindering van het belastbare actief toegelaten kan worden, met opgave van de voornamen, de achternaam en het domicilie van de schuldeiser, van de oorzaak van de schuld en van de datum van de akte, als er een bestaat. Als de afwijking, vermeld in artikel 2.7.4.1.1, § 2, derde lid, van toepassing is, moet bij de schulden die specifiek zijn aangegaan om de gezinswoning te verwerven of te behouden, uitdrukkelijk worden vermeld dat ze met dat doel zijn aangegaan;<br>
-11°...;<br>
+11° ...;<br>
 12° de begunstigde persoon, alsook de datum van de akten of aangiften, en de grondslag waarop het registratierecht is of moet worden geheven als de erflater ten bate van zijn erfgenamen, legatarissen of begiftigden schenkingen heeft gedaan die vastgesteld zijn door akten, die dagtekenen van minder dan drie jaar vóór de datum van het overlijden en die vóór dezelfde datum tot de formaliteit van de registratie aangeboden zijn of verplicht registreerbaar geworden zijn. Ongeacht de datum van de akte geldt deze regel ook als de schenking gedaan is onder een opschortende voorwaarde die vervuld is ingevolge het overlijden van de schenker of minder dan drie jaar vóór dat overlijden;<br>
 13° als de erflater het vruchtgebruik van goederen gehad heeft of met fideï-commis bezwaarde goederen verkregen heeft : welke die goederen zijn, met aanduiding van de personen die tot het genot van de volle eigendom zijn gekomen of voordeel getrokken hebben uit het fideï-commis ten gevolge van het overlijden van de erflater;<br>
 14° met aanduiding van de betrokken persoon of de betrokken goederen, de vraag tot toepassing van :<br>
@@ -5441,6 +5470,7 @@ h) ...;<br>
 i) de vrijstelling, vermeld in artikel 2.7.6.0.4;<br>
 j) de vrijstelling, vermeld in artikel 2.7.4.1.1, § 2, derde lid;<br>
 k) de vrijstelling, vermeld in artikel 2.7.6.0.5. In voorkomend geval moeten de verzoekers in de aangifte verklaren dat ze kennis hebben van het bepaalde in artikel 16septiesdecies, eerste lid, 1°, en het tweede tot en met het vierde lid van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu. In voorkomend geval wordt hetzij een afschrift van de beslissing tot goedkeuring van het natuurbeheerplan, vermeld in artikel 16octies, § 1, eerste lid, 5°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, hetzij een afschrift van de overeenkomst, vermeld in artikel 2.7.6.0.5, § 2, tweede lid, gevoegd bij de aangifte;<br>
+l) de vermindering, vermeld in artikel 2.7.5.0.6 van deze codex;<br>
 m) de vrijstelling, vermeld in artikel 2.7.6.0.6, § 1;<br>
 15° in voorkomend geval de erfovereenkomst, vermeld in artikel 1100/7 van het Burgerlijk Wetboek. In dat geval wordt een kopie van die notariële erfovereenkomst bij de aangifte gevoegd;<br>
 16° in voorkomend geval de verkrijgingen van vruchtgebruik met toepassing van artikel 858bis van het Burgerlijk Wetboek. In dat geval wordt een kopie van de akte van schenking bij de aangifte gevoegd. In geval van verzaking aan het vruchtgebruik op een ander tijdstip wordt het stuk gevoegd waaruit die verzaking blijkt;<br>
