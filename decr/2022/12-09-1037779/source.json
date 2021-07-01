@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037779,
+  "title": "Decreet van 2022-12-09 tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037779/VolledigDocument?datum=2021-07-01",
+  "source_sha256": "cf232367e09ca9db8d197fc69582956d65cf6d83ce2b147cd55f35b70385ad12",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037779&param=informatie",
+  "as_of": "2021-07-01",
+  "made": "2022-12-09",
+  "gazette": "2022-12-20",
+  "numac": 2022034677,
+  "document_start": "2022-12-30",
+  "document_end": null,
+  "in_force": "2021-07-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
