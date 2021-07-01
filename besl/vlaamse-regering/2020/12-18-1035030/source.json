@@ -2,16 +2,16 @@
   "codex_id": 1035030,
   "title": "Besluit van de Vlaamse Regering van 2020-12-18 tot vaststelling van maatregelen om de ondersteuning van personen met een handicap te continueren in periodes van opflakkering van COVID-19",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035030/VolledigDocument?datum=2021-03-31",
-  "source_sha256": "f56f5497d1f1f852b719cad834655d0282400ea8dfc382c328d95052fb2943ea",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035030/VolledigDocument?datum=2021-07-01",
+  "source_sha256": "b472ab5f4ecf671fe068c4d717dde65921c6d1a68f087bbff6a7e18a0c4da46b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035030&param=informatie",
-  "as_of": "2021-03-31",
+  "as_of": "2021-07-01",
   "made": "2020-12-18",
   "gazette": "2021-01-12",
   "numac": 2021020031,
   "document_start": "2020-10-01",
   "document_end": "2021-06-30",
-  "in_force": "2021-03-31",
+  "in_force": "2021-07-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2021-03-31; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-07-01; future article versions excluded; article text as the API gives it"
 }
