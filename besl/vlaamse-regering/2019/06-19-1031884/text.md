@@ -44,7 +44,10 @@ De bevoegde entiteit erkent de standaardpolis van de brede weersverzekering van 
 3° de schade van de landbouwer wordt gedekt als die groter is dan 20% van zijn gemiddelde jaarproductie van de beschadigde teelt in de laatste drie jaar of van de gemiddelde productie van drie van de laatste vijf jaar, waarbij de hoogste en laagste productie van die vijf jaar niet wordt meegerekend;<br>
 4° de vergoedingsvoorwaarden worden door de verzekeraar niet gekoppeld aan voorwaarden over de aard of de hoeveelheid van de toekomstige productie;<br>
 5° als de verzekeraar een index of rekenmodellen hanteert voor de schadebepaling, toont hij aan dat de index of de uitkomsten van het rekenmodel vergelijkbaar zijn met een schadebeoordeling door een expert. Het rekenmodel bevat de noodzakelijke gegevens om de schade te kunnen vaststellen aan de hand van bedrijfsspecifieke gegevens, zoals onder meer de teelt en de grondsoort op perceelsniveau, samen met de specifieke weersomstandigheden. De verzekeraar staaft het gebruik van de index of het rekenmodel aan de hand van een steekproef. De verzekeraar houdt de resultaten daarvan ter beschikking van de bevoegde entiteit;<br>
-6° de verzekering wordt aangegaan voor een periode van 12 maanden.<br>
+6° de verzekering wordt aangegaan voor een periode van 12 maanden;<br>
+7° de standaardpolis bepaalt dat:<br>
+a) de verzekeraar de verplichting heeft om de landbouwer onmiddellijk in kennis te stellen van de intrekking van de erkenning in toepassing van artikel 6 of de beslissing tot niet-verlenging van de erkenning in uitvoering van artikel 5, tweede lid;<br>
+b) de verzekeringnemer na de kennisgeving, vermeld in punt a), over een termijn van drie maanden beschikt om de verzekeringsovereenkomst op te zeggen.<br>
 <br>
 In afwijking van het eerste lid, 3°, kan de verzekering ook tussenkomen bij een schade van die kleiner is dan of gelijk is aan het percentage, vermeld in het eerste lid, 3°, of voor percelen buiten het Vlaamse gewest. De subsidie wordt dan maar berekend op basis van het deel van de premie dat :<br>
 1° betrekking heeft op de schade die groter is dan het percentage, vermeld in het eerste lid, 3° ;<br>
@@ -54,17 +57,17 @@ De verzekeraar geeft duidelijk aan welk deel van de premie betrekking heeft op d
 
 ### ART 4.
 
-Om als subsidiabel erkend te kunnen worden, wordt de erkenningsaanvraag bij de bevoegde entiteit ingediend voor 1 juli van het jaar dat voorafgaat aan het jaar van de aanvang van de erkenning en wordt bij de aanvraag de standaardpolis van de brede weersverzekering gevoegd alsook de onderbouwing van de berekening van de premies en eventuele andere verzekeringsvoorwaarden.<br>
+Om als subsidiabel erkend te kunnen worden, wordt de erkenningsaanvraag bij de bevoegde entiteit ingediend voor 1 november van het jaar dat voorafgaat aan het jaar van de aanvang van de erkenning en wordt bij de aanvraag de standaardpolis van de brede weersverzekering gevoegd alsook de onderbouwing van de berekening van de premies en eventuele andere verzekeringsvoorwaarden.<br>
 <br>
-De bevoegde entiteit beslist uiterlijk op 30 september van het jaar van de erkenningsaanvraag van de brede weersverzekering, vermeld in het eerste lid, of ze subsidiabel is. De erkenning geldt voor een kalenderjaar en kan elk jaar verlengd worden onder de voorwaarden, vermeld in artikel 5.<br>
+De bevoegde entiteit beslist uiterlijk op 15 december van het jaar van de erkenningsaanvraag van de brede weersverzekering, vermeld in het eerste lid, of ze subsidiabel is. De erkenning geldt voor een kalenderjaar en kan elk jaar verlengd worden onder de voorwaarden, vermeld in artikel 5.<br>
 <br>
 De minister kan de uiterste indieningsdatum van de erkenningsaanvraag, vermeld in het eerste lid, en de duur van de beslissingstermijn, vermeld in het tweede lid, wijzigen.
 
 ### ART 5.
 
-De verzekeraars dienen elk jaar voor 21 juli bij de bevoegde entiteit een aanvraag in tot verlenging in het daaropvolgende jaar van de erkenning, vermeld in artikel 4, tweede lid, als het standaardmodel van de verzekeringspolis en eventuele andere verzekeringsvoorwaarden ongewijzigd blijven of als de wijzigingen geen betrekking hebben op de voorwaarden, vermeld in artikel 3 van dit besluit. De verzekeraars bezorgen de bevoegde entiteit daarbij een exhaustieve lijst van alle aangebrachte wijzigingen.<br>
+De verzekeraars dienen elk jaar voor 1 november bij de bevoegde entiteit een aanvraag in tot verlenging in het daaropvolgende jaar van de erkenning, vermeld in artikel 4, tweede lid, als het standaardmodel van de verzekeringspolis en eventuele andere verzekeringsvoorwaarden ongewijzigd blijven of als de wijzigingen geen betrekking hebben op de voorwaarden, vermeld in artikel 3 van dit besluit. De verzekeraars bezorgen de bevoegde entiteit daarbij een exhaustieve lijst van alle aangebrachte wijzigingen.<br>
 <br>
-De bevoegde entiteit beslist uiterlijk op 23 september van het jaar van de aanvraag tot verlenging van de erkenning van de brede weersverzekering of ze subsidiabel is.<br>
+De bevoegde entiteit beslist uiterlijk op 15 december van het jaar van de aanvraag tot verlenging van de erkenning van de brede weersverzekering of ze subsidiabel is.<br>
 <br>
 De minister kan de uiterste indieningsdatum van de verlengingsaanvraag, vermeld in het eerste lid, en de duur van de beslissingstermijn, vermeld in het tweede lid, wijzigen.
 
@@ -77,7 +80,7 @@ De bevoegde entiteit kan beslissen dat de erkenning van de brede weersverzekerin
 <br>
 De bevoegde entiteit brengt de betrokken partijen op de hoogte van de vaststelling van de inbreuken, vermeld in het eerste lid. De afwijkende bepalingen als gevolg van de inbreuken, vermeld in het eerste lid, 1° en 2°, worden door elke betrokken partij als ongeschreven beschouwd. Om uitsluiting van erkenning te vermijden, brengt de verzekeraar de voorwaarden van de standaard- of individuele polis onmiddellijk weer in overeenstemming met de voorwaarden, vermeld in artikel 3 van dit besluit, of met de bepalingen in de standaardpolis.<br>
 <br>
-De verzekeraar brengt zijn verzekeringsnemers onmiddellijk op de hoogte van een uitsluiting van erkenning.
+De verzekeraar die nalaat om uitvoering te geven aan de bepalingen in de verzekeringsovereenkomst, vermeld in artikel 3, eerste lid, punt 7°, komt gedurende een periode van twee jaar niet in aanmerking voor de indiening van een aanvraag als vermeld in artikel 4 of 5.
 
 ### ART 7.
 
