@@ -382,6 +382,65 @@ De voorziening die weigert zich aan de controle van het agentschap te onderwerpe
 
 ## [HOOFDSTUK 3/4. Financiering functieclassificatie ter uitvoering van het Vijfde Vlaams Intersectoraal akkoord van 8 juni 2018 en het Zesde Vlaams Intersectoraal akkoord van 30 maart 2021 voor de social/non-profitsectoren (ing. BVR 16 juli 2021, art.1, I: 1 juli 2021)]
 
+### ART 16/10.
+
+In dit hoofdstuk wordt verstaan onder voorzieningen:<br>
+1° psychiatrische verzorgingstehuizen;<br>
+2° woonzorgcentra;<br>
+3° dagverzorgingscentra;<br>
+4° centra voor kortverblijf;<br>
+5° revalidatievoorzieningen;<br>
+6° initiatieven voor beschut wonen;<br>
+7° multidisciplinaire begeleidingsequipes voor palliatieve zorg;<br>
+8° de lokale dienstencentra die vallen onder het paritair comité 330 en die voldoen aan de subsidievoorwaarden, vermeld in artikel 17, 20, 21 en 24 van het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers;<br>
+9° de diensten voor oppashulp die vallen onder het paritair comité 330 en die voldoen aan de subsidievoorwaarden, vermeld in artikel 17, 20 en 24 van het voormelde besluit.<br>
+<br>
+De voorzieningen, vermeld in het eerste lid, betreffen alleen de voorzieningen uit de private sector.
+
+### ART 16/11.
+
+In juli 2021 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10, een bedrag ter compensatie van de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2021.<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt in juni 2021 aan het agentschap meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+<br>
+Het totaal van de bedragen die aan de voorzieningen worden gestort, is niet hoger dan het hiervoor op basis van het vijfde en zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2021.
+
+### ART 16/12.
+
+In juni 2022 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10, een bedrag ter compensatie van de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2021.<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt berekend door het bedrag dat de voorziening in 2021 heeft ontvangen in het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf, af te trekken van het bedrag dat in mei 2022 aan het agentschap wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+<br>
+Een bedrag dat moet worden teruggevorderd, brengt het agentschap in mindering op de rechten 2022, vermeld in artikel 16/14.<br>
+<br>
+Het totaal van de bedragen die aan de voorzieningen worden gestort conform dit artikel en artikel 16/11, is niet hoger dan het hiervoor op basis van het vijfde en zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2021.
+
+### ART 16/13.
+
+In januari 2022 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10, een bedrag ter compensatie van de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2022.<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, is gelijk aan twee derden van het bedrag dat aan de voorzieningen is betaald met toepassing van artikel 16/11.
+
+### ART 16/14.
+
+In juli 2022 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10, een bedrag ter compensatie van de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2022.<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, bedraagt maximaal de helft van het bedrag dat in juni 2022 aan het agentschap wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+<br>
+Het totaal van de bedragen die aan de voorzieningen worden gestort conform dit artikel en artikel 16/14, is niet hoger dan het hiervoor op basis van het vijfde en zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2022. In dit bedrag wordt ook de opbrengst van het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf zoals bedoeld in artikel 16/12, tweede lid opgenomen.
+
+### ART 16/15.
+
+In juni 2023 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10, een bedrag ter compensatie van de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2022.<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt in mei 2023 aan het agentschap meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+<br>
+Het totaal van de bedragen die aan de voorzieningen worden gestort met toepassing van dit artikel en artikel 16/13 en 16/14, is niet hoger dan het hiervoor op basis van het vijfde en zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2022. In dit bedrag wordt ook de opbrengst van het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf zoals bedoeld in artikel 16/12, tweede lid opgenomen.
+
+### ART 16/16.
+
+De voorziening die weigert zich aan de controle van het agentschap te onderwerpen, verliest de rechten, vermeld in dit hoofdstuk.
+
 ## [HOOFDSTUK 3/5. Financiering van de functieclassificatie in ouderenvoorzieningen ter uitvoering van het Zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren: openbare sector (ing. BVR 16 september 2022, art. 8, I: 16 september 2022)]
 
 ## HOOFDSTUK 4. Wijzigingsbepalingen
@@ -405,6 +464,14 @@ De koppeling aan het indexcijfer, vermeld in het eerste lid, wordt berekend en t
 De bedragen vermeld in dit besluit en in de bijlage die bij dit besluit is gevoegd zijn de bedragen die gelden op 1 juni 2017, tegen spilindexcijfer 103,04, waarbij basis 2013 = 100.
 
 ## HOOFDSTUK 6. Slotbepalingen
+
+### ART 19.
+
+In afwijking van artikel 5, §2, derde lid, gaat het agentschap, nadat de referentieperiode van 1 juli 2021 tot en met 30 juni 2022 is afgelopen, op 17 oktober 2022 na of voor alle trimesters de elektronische vragenlijst is bezorgd. Als de gegevens, vermeld in paragraaf 1, op uiterlijk 30 oktober 2022 nog altijd niet zijn bezorgd, kan het agentschap de terugbetaling eisen van de voorlopige tegemoetkomingen, vermeld in artikel 8.
+
+### ART 19/1.
+
+In afwijking van artikel 8, §3, eerste lid, geldt voor het meedelen van de gegevens voor de referentieperiode van 1 juli 2021 tot en met 30 juni 2022 dat als de voorziening de gegevens, vermeld in artikel 5, §1, heeft meegedeeld, de voorziening die gegevens nog kan wijzigen tot dertig dagen na de dag waarop de voorziening van het agentschap de berekening heeft ontvangen. Het agentschap bezorgt de berekening aan de voorziening tussen 31 oktober 2022 en 14 november 2022.
 
 ### ART 19/2.
 
