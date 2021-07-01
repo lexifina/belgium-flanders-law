@@ -31,6 +31,17 @@ Bij het verstrekken van de zorg, vermeld in paragraaf 1, worden respect voor de 
 
 ## HOOFDSTUK 3 Het niet-dringend liggend ziekenvervoer
 
+### ART 4.
+
+Een dienst voor niet-dringend liggend ziekenvervoer die ofwel gevestigd is in het Nederlandse taalgebied ofwel in het tweetalige gebied Brussel-Hoofdstad en die wegens zijn organisatie moet worden beschouwd uitsluitend te behoren tot de Vlaamse Gemeenschap, mag alleen niet-dringend liggend ziekenvervoer uitvoeren als die dienst daartoe is vergund, overeenkomstig artikel 6.<br>
+<br>
+Een dienst voor niet-dringend liggend ziekenvervoer die elders binnen België is gevestigd en die beschikt over een vergunning, verleend door een andere bevoegde overheid binnen België, of een gelijkaardige titel, mag ook niet-dringend liggend ziekenvervoer uitvoeren.<br>
+<br>
+Een dienst voor niet-dringend liggend ziekenvervoer die in een andere lidstaat van de Europese Unie, in een land binnen de Europese Economische Ruimte of in een ander derde land waartoe door of krachtens een handels- of associatieakkoord het vrij verkeer van diensten werd uitgebreid, is gevestigd, en die beschikt over een vergunning die werd verleend door de bevoegde overheid in zijn thuisstaat, of een gelijkaardige titel, mag ook niet-dringend liggend ziekenvervoer uitvoeren.<br>
+<br>
+Een dienst voor niet-dringend liggend ziekenvervoer die in een andere lidstaat van de Europese Unie, in een land binnen de Europese Economische Ruimte of in een ander derde land waartoe door of krachtens een handels- of associatie-akkoord het vrij verkeer van diensten werd uitgebreid, is gevestigd, en die door de bevoegde overheid in zijn thuisstaat is gereglementeerd, maar niet is onder-worpen aan een vergunning of een gelijkaardige titel, mag ook niet-dringend liggend zieken-vervoer uitvoeren, als hij niet-dringend liggend ziekenvervoer mag uitvoeren in zijn thuisstaat.<br>
+&nbsp;
+
 ### ART 5.
 
 § 1. De Vlaamse Regering richt een onafhankelijke commissie op. De commissie heeft een adviserende opdracht ten behoeve van de Vlaamse minister, bevoegd voor het gezondheidsbeleid, met betrekking tot:<br>
