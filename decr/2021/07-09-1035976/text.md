@@ -30,6 +30,26 @@ In artikel 145<sup>46/1</sup>&nbsp;van het Wetboek van de Inkomstenbelastingen 1
 
 ## HOOFDSTUK 6. Mobiliteit en Openbare Werken
 
+### ART 12.
+
+Artikel 18 van het decreet van 13 december 2002 houdende de oprichting van de naamloze vennootschap van publiek recht Beheersmaatschappij Antwerpen Mobiel (BAM), laatst gewijzigd bij decreet van 29 maart 2019, wordt vervangen door wat volgt:<br>
+"Art. 18. BAM mag leningen aangaan, kredieten opnemen en schuldeffecten uitgeven binnen de door de Vlaamse Regering vastgestelde grenzen.<br>
+<br>
+Het Vlaamse Gewest machtigt de Vlaamse Regering om waarborgen te verstrekken voor de verbintenissen die BAM is aangegaan of aangaat alsook voor aansprakelijkheden die BAM of een bij het project betrokken bouwpartij in het kader van dat project heeft opgelopen of oploopt. Die waarborgen kunnen slechts door de Vlaamse Regering worden verstrekt:<br>
+1° als die verbintenissen en aansprakelijkheden niet geheel verzekerd of verzekerbaar zijn door een verzekeraar op de private markt omwille van te hoge premievergoedingen op die private markt of een gebrek aan offertes uit die private markt;<br>
+2° als BAM voor die aansprakelijkheden van de betrokken bouwpartijen minimaal gedeeltelijk een verzekeringsovereenkomst afsloot bij een verzekeraar op de private markt;<br>
+3° voor de economische levensduur van het onderliggende actief of project;<br>
+4° voor een maximaal bedrag dat jaarlijks wordt vastgelegd in de uitgavenbegroting van de Vlaamse Gemeenschap;<br>
+5° als, bij voorzichtige inschatting, geen gehele of gedeeltelijke uitwinning van de waarborg te verwachten valt.<br>
+<br>
+Die waarborgen kunnen een onherroepelijke en abstracte waarborg uitmaken, en zijn afroepbaar op het eerste verzoek en totdat die verbintenissen en aansprakelijkheden ten aanzien van derden volledig zijn voldaan.<br>
+<br>
+BAM betaalt een vergoeding voor de verlening van een waarborg door de Vlaamse Gemeenschap. De Vlaamse Regering kan de vergoeding eenmalig of periodiek vorderen en bepaalt de vergoeding in functie van de omvang van de waarborg of op grond van andere relevante parameters. Het niet of laattijdig betalen van de vergoeding door BAM doet op geen enkele wijze afbreuk aan de rechtsgeldigheid of aan het onherroepelijk en abstract karakter of de afroepbaarheid van de waarborg.<br>
+<br>
+De Vlaamse Regering kan de modaliteiten van de waarborgen, vermeld in dit artikel, nader bepalen.<br>
+<br>
+De in dit artikel bedoelde waarborgen zijn niet onderworpen aan de bepalingen van hoofdstuk 10, afdeling 4, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.".
+
 ## HOOFDSTUK 7. Omgeving
 
 ## Afdeling 1. Wijziging van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018: VMM-heffingen
