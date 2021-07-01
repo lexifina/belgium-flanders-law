@@ -456,14 +456,7 @@ WORDT HET VOLGENDE OVEREENGEKOMEN:
 19° Verordening digitaal EU-COVID-certificaat voor onderdanen derde landen: Verordening (EU) 2021/954 van het Europees Parlement en de Raad van 14 juni 2021 betreffende een kader voor de afgifte, verificatie en aanvaarding van interoperabele COVID19-vaccinatie-, test- en herstelcertificaten (digitaal EU-COVID-certificaat) ten aanzien van onderdanen van derde landen die legaal op het grondgebied van de staten verblijven of wonen tijdens de COVID-19-pandemie;<br>
 20° identiteitsbewijs: een officieel document dat biometrische gegevens bevat, uitgereikt door een officiële instantie waarmee een natuurlijk persoon zijn identiteit kan bewijzen.<br>
 <br>
-§ 2. Voor de toepassing van dit samenwerkingsakkoord wordt overeenkomstig Verordening digitaal EU-COVID-certificaat verstaan onder:<br>
-1° houder: een persoon aan wie overeenkomstig Verordening digitaal EU-COVID-certificaat een interoperabel certificaat is afgegeven dat informatie bevat over zijn of haar COVID-19-vaccinatie, -testresultaat of -herstel;<br>
-2° digitaal EU-COVID-certificaat: een interoperabel certificaat op een papieren drager of een digitale drager met informatie over de vaccinatie-, test- en/of herstelstatus van de houder, afgegeven in de context van de COVID-19-pandemie;<br>
-3° NAAT-test: een moleculaire nucleïnezuuramplificatietest, op basis van technieken zoals reverse transcription polymerase chain reaction (RT-PCR), loop-mediated isothermal amplification (LAMP) en transcription-mediated amplification (TMA), die wordt gebruikt om de aanwezigheid van het ribonucleïnezuur (RNA) van SARS-CoV-2 te detecteren;<br>
-4° streepjescode: een methode voor het opslaan en weergeven van gegevens in een visueel machine leesbaar formaat;<br>
-5° unieke certificaatidentificatiecode: een unieke identificatiecode die overeenkomstig een gemeenschappelijke structuur aan elk overeenkomstig Verordening digitaal EU-COVID-certificaat afgegeven certificaat wordt toegekend;<br>
-6° erkende snelle antigeentest: een snelle antigeentest die voorkomt op de lijst opgenomen in de Aanbeveling 1475 van de Europese Raad betreffende een gemeenschappelijk kader voor het gebruik en de validering van snelle antigeentests en de wederzijdse erkenning van COVID-19-testresultaten in de EU en de Beslissing van de Europese Commissie van 17 februari 2021 waarin een lijst wordt opgenomen van de erkende snelle antigeentesten;<br>
-7° snelle antigeentest: ook wel RAT genoemd, een test die berust op de detectie van virale eiwitten (antigenen) met behulp van een lateral flow immunoassay die resultaten geeft in minder dan 30 minuten.
+§ 2. ....
 
 ### ART 2.
 
@@ -480,23 +473,7 @@ WORDT HET VOLGENDE OVEREENGEKOMEN:
 
 ### ART 3.
 
-§ 1. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat en overeenkomstig artikel 3, § 1 van die verordening, maakt het digitaal EU- COVID-certificaat de afgifte, de grensoverschrijdende verificatie en aanvaarding van de volgende certificaten mogelijk:<br>
-1° vaccinatiecertificaat;<br>
-2° testcertificaat;<br>
-3° herstelcertificaat;<br>
-<br>
-§ 2. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat en overeenkomstig artikel 3, § 2 van die verordening, worden de in § 1 bedoelde certificaten afgegeven in een beveiligd en interoperabel formaat, in digitale vorm, middels de COVIDSafe-applicatie en/of op papier en bevatten een streepjescode en naam aan de hand waarvan de echtheid, geldigheid en integriteit van het certificaat kunnen worden geverifieerd. De aspirant-houders hebben het recht de certificaten te ontvangen in de vorm van hun keuze. De informatie in de certificaten wordt ook in voor mensen leesbare vorm weergegeven. De streepjescode voldoet aan de technische specificaties zoals bepaald in een uitvoerend samenwerkingsakkoord.<br>
-<br>
-§ 3. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat en overeenkomstig artikel 3, § 4 van die verordening, worden de in § 1 bedoelde certificaten kosteloos verstrekt. De houder heeft het recht te verzoeken om afgifte van een nieuw certificaat indien de persoonsgegevens in het certificaat niet of niet meer nauwkeurig of actueel zijn, of indien de houder niet meer over het certificaat beschikt.<br>
-<br>
-§ 4. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat en overeenkomstig artikel 3, § 5 van die verordening, wordt op de in § 1 bedoelde certificaten de volgende tekst aangebracht:<br>
-"Dit certificaat is geen reisdocument. Het wetenschappelijk bewijs met betrekking tot COVID-19-vaccinaties, -tests en -herstel blijft zich verder ontwikkelen, ook met betrekking tot nieuwe zorgwekkende varianten. Gelieve alvorens een reis te maken, te controleren welke volksgezondheidsmaatregelen en bijbehorende beperkingen op de plaats van bestemming van toepassing zijn.".<br>
-<br>
-§ 5. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat en overeenkomstig artikel 3, § 6 van die verordening, is het bezit van de in § 1 bedoelde certificaten is geen voorwaarde voor het uitoefenen van het recht van vrij verkeer.<br>
-<br>
-§ 6. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat en overeenkomstig artikel 3, § 7 van die verordening, leidt de afgifte van de certificaten op grond van § 1 van dit artikel niet tot discriminatie op basis van het bezit van een specifieke categorie certificaten als bedoeld in artikel 9, §§ 1, 2 en 3.<br>
-<br>
-§ 7. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat en overeenkomstig artikel 3, § 8 van die verordening, doet de afgifte van de in § 1 bedoelde certificaten geen afbreuk aan de geldigheid van andere vaccinatie-, testresultaat- of herstelbewijzen die vóór 16 juni 2021 of voor andere -met name medische - doeleinden zijn afgegeven.
+...
 
 ### ART 4.
 
@@ -530,36 +507,17 @@ Sciensano, vermeld in artikel 2, § 4, van het samenwerkingsakkoord van 25 augus
 
 ### ART 9.
 
-§ 1. Overeenkomstig artikel 5, § 2 van de Verordening digitaal EU-COVID-certificaat, bevat een vaccinatiecertificaat zoals bedoeld in artikel 1, § 1, 5°, de volgende categorieën van persoonsgegevens van de houders ervan:<br>
-1° identiteit van de houder;<br>
-2° informatie over het aan de houder toegediende COVID-19-vaccin en over het aantal toegediende doses;<br>
-3° metagegevens van het certificaat, zoals de afgever van het certificaat of een unieke certificaatidentificatiecode.<br>
-<br>
-§ 2. Overeenkomstig artikel 6, § 2 van de Verordening digitaal EU-COVID-certificaat bevat een testcertificaat zoals bedoeld in artikel 1, § 1, 6°, de volgende categorieën van persoonsgegevens van de houders ervan:<br>
-1° de identiteit van de houder;<br>
-2° informatie over de erkende NAAT-test of de erkende snelle antigeentest die de houder heeft ondergaan;<br>
-3° metagegevens van het certificaat, zoals de afgever van het certificaat of een unieke certificaatidentificatiecode.<br>
-<br>
-§ 3. Overeenkomstig artikel 7, § 2 van de Verordening digitaal EU-COVID-certificaat bevat een herstelcertificaat zoals bedoeld in artikel 1, § 1, 7°, de volgende categorieën van persoonsgegevens van de houders ervan:<br>
-1° de identiteit van de houder;<br>
-2° informatie over de voorbije SARS-CoV-2-infectie van de houder na een positief testresultaat, dat evenwel niet ouder is dan 180 dagen;<br>
-3° metagegevens van het certificaat, zoals de afgever van het certificaat of een unieke certificaatidentificatiecode.<br>
-<br>
-§ 4. Teneinde de in artikel 8, § 3, genoemde doeleinden te bereiken, hebben medewerkers van de door de bevoegde gefedereerde entiteiten of door de agentschappen aangeduide contactcentra toegang tot en mogen zij de volgende gegevens verwerken tussen de periode van 16 juni 2021 tot de datum van de buitenwerkingtreding van dit samenwerkingsakkoord:<br>
-1° het bestaan van een test-of herstelcertificaat;<br>
-2° het feit of een test-of herstelcertificaat werd bezorgd.<br>
-<br>
-§ 5. Overeenkomstig artikel 5, § 3 van de Verordening digitaal EU-COVID-certificaat wordt het vaccinatiecertificaat na de toediening van elke dosis afgegeven in een beveiligd en interoperabel formaat in overeenstemming met artikel 3, § 2, en vermeldt duidelijk of de vaccinatiecyclus al dan niet voltooid is.
+...
 
 ## Titel III: Opmaken, afgeven, verifiëren van het digitaal EU-COVID-certificaat
 
 ### ART 10.
 
-§ 1. Overeenkomstig artikel 3, § 1 van de Verordening digitaal EU-COVID-certificaat, beoogt de verwerking van de persoonsgegevens bedoeld in artikel 11, § 1 de opmaak, de afgifte en verificatie van het digitaal EU-COVID-certificaat met het oog op de toegang tot en de verificatie van de in het certificaat opgenomen informatie, teneinde de uitoefening van het recht van vrij verkeer binnen de Unie tijdens de COVID-19-pandemie te faciliteren.<br>
+§ 1. ...<br>
 <br>
-§ 2. Met uitzondering van hetgeen bepaald in artikel 12 van dit samenwerkingsakkoord, worden de categorieën van persoonsgegevens in de certificaten, zoals bepaald in artikel 1, § 1, 5°, 6° en 7° en artikel 1, § 2, 2°, van dit samenwerkingsakkoord en overeenkomstig artikel 10, § 2 van de Verordening digitaal EU-COVID-certificaat uitsluitend verwerkt met het oog op de toegang tot en de verificatie van de in het certificaat opgenomen informatie, teneinde de uitoefening van het recht van vrij verkeer binnen de Unie tijdens de COVID-19-pandemie te faciliteren.<br>
+§ 2. ...<br>
 <br>
-§ 3. Overeenkomstig artikel 1 van de Verordening digitaal EU-COVID-certificaat voor onderdanen derde landen, zijn de in dit artikel opgenomen verwerkingsdoeleinden niet enkel van toepassing op onderdanen van de Unie maar tevens op onderdanen van derde landen die legaal op het grondgebied van een lidstaat van de EU verblijven of wonen en overeenkomstig het Unierecht het recht hebben naar andere landen te reizen.<br>
+§ 3. ...<br>
 <br>
 § 4. De desgevallende verificatie teneinde de uitoefening van het recht van vrij verkeer binnen de Unie tijdens de COVID-19-pandemie te faciliteren en eventuele beperkingen te handhaven, gebeurt door de politiediensten bedoeld in artikel 3, 7°, van de wet op het politieambt en de exploitanten van grensoverschrijdende personenvervoersdiensten en vervoersinfrastructuur, bedoeld in artikel 3, 9 van de Verordening digitaal EU-COVID-certificaat.
 
@@ -623,9 +581,7 @@ Het COVID Safe Ticket kan ofwel door de gebruiker gegeneerd worden op de COVIDSa
 
 ### ART 14.
 
-§ 1. Overeenkomstig artikel 10, § 4 van de Verordening digitaal EU-COVID-certificaat; worden de persoonsgegevens vermeld in artikel 9, §§ 1, 2 en 3, die met het oog op de afgifte van het digitaal EU-COVID-certificaat, met inbegrip van de afgifte van een nieuw digitaal EU-COVID-certificaat, worden verwerkt, door de afgever niet langer bewaard dan strikt noodzakelijk is voor het doel ervan en in geen geval langer dan de periode waarin het digitaal EU-COVID-certificaat mag worden gebruikt om het recht van vrij verkeer uit te oefenen.<br>
-<br>
-Niettegenstaande de bepalingen in § 1, zal de geldigheidstermijn van een herstelcertificaat niet de termijn van 180 dagen overschrijden.<br>
+§ 1. ...<br>
 <br>
 § 2. De gegevens bedoeld in artikel 13, § 2 worden onmiddellijk verwijderd na de verwerking bedoeld in artikel 13, § 1.<br>
 <br>
