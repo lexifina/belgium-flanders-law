@@ -29,6 +29,10 @@ Aan artikel X 98, § 1 van het Vlaams personeelsstatuut van 13 januari 2006, ing
 <br>
 " De annulering van een tijdens de Paasvakantie georganiseerde activiteit voor kinderen en jongeren wordt gelijkgesteld met een sluiting van een school. Een personeelslid dat gebruik wenst te maken van het verlof als bedoeld in het eerste lid, stelt zijn lijnmanager onmiddellijk op de hoogte en dient een attest in waaruit de annulering van het kamp wegens corona blijkt.".
 
+### ART 2.
+
+Artikel X 98 van hetzelfde besluit wordt opgeheven.
+
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering van 26 februari 2021 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006 en het besluit van de Vlaamse Regering van 11 december 2020 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006 wat betreft de invoering van een tijdelijk verlof bij sluiting van de school, opvang of centrum voor opvang voor personen met een handicap als gevolg van een maatregel om de verspreiding van het coronavirus SARS-CoV-2 te beperken
 
 ### ART 3.
