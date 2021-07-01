@@ -2911,7 +2911,9 @@ De verzekeringsinstelling vervolledigt de nieuwe aanvraag, vermeld in het eerste
 
 De minister bepaalt jaarlijks het budget voor elk revalidatieziekenhuis voor een dienstjaar. Dat budget wordt op 1 januari van elk jaar vastgesteld.<br>
 <br>
-In afwijking van het eerste lid wordt het budget verhoogd vanaf de eerste dag van de maand die volgt op de maand waarin de spilindex is overschreden, conform artikel 258.
+In afwijking van het eerste lid wordt het budget verhoogd vanaf de eerste dag van de maand die volgt op de maand waarin de spilindex is overschreden, conform artikel 258.<br>
+<br>
+In afwijking van het eerste lid wordt het budget voor het dienstjaar 2021 op 1 januari 2021 en op 1 juli 2021 vastgesteld.
 
 ### ART 240.
 
@@ -2936,6 +2938,20 @@ Het basisbudget voor het dienstjaar dat op 1 januari 2020 begint, en voor elk va
 Het basisbudget, vermeld in het tweede lid, wordt aangevuld met het budget dat tot en met 30 juni 2018 betaald is door de Rijksdienst voor Sociale Zekerheid als premie van het Interdepartementaal Begrotingsfonds ter bevordering van de werkgelegenheid. Het budget wordt geïndexeerd conform artikel 258.<br>
 <br>
 Het basisbudget dat berekend is met toepassing van het tweede lid, wordt vanaf 1 januari 2020 verminderd met 1,3%.
+
+### ART 242/1.
+
+Om de kwalitatieve verbeteringen van de arbeidsvoorwaarden van het personeel ter uitvoering van punt 2.2.1.A. van deel III van luik III van het zesde Vlaams Intersectoraal akkoord van 30 maart 2021 voor de social/non-profitsectoren voor het jaar 2021 te financieren, wordt in het basisbudget van de private revalidatieziekenhuizen in een budget voorzien.<br>
+<br>
+Het budget, vermeld in het eerste lid, bedraagt 726.641,23 euro.<br>
+<br>
+Het budget, vermeld in het eerste lid, wordt verdeeld over de private revalidatieziekenhuizen, op basis van het aantal erkende bedden, rekening houdend met het relatief gewicht, waarbij het gewicht van een bed met kenletter G 88,24% is van het gewicht van een bed met kenletter SP.<br>
+<br>
+Voor de vaststelling van het aantal erkende bedden wordt rekening gehouden met het aantal erkende bedden, zoals dat bij het agentschap bekend is op 1 januari 2021.<br>
+<br>
+De middelen, toegekend volgens het derde lid, worden vanaf 1 mei 2021 ingezet voor het zorgpersoneel, het ondersteunend personeel of het paramedisch personeel, zowel aan het bed als voor de revalidatie van de patiënt. Elk revalidatieziekenhuis verduidelijkt aan het agentschap de invulling van het bijkomend personeel in functie van lokale behoeften of noden, na intern sociaal overleg conform de bepalingen van luik II, deel I, punt 11.2.1. van het in het eerste lid vermelde Intersectoraal akkoord.<br>
+<br>
+De onbenutte middelen, toegekend volgens het derde lid, die het gevolg zijn van een latere start dan 1 mei 2021 van de implementatie van de structurele bestemming, zijn in 2021 een compensatie voor tijdelijke bijkomende tewerkstelling om eenmalig de extra gepresteerde uren omwille van de COVID-crisis te compenseren.
 
 ## HOOFDSTUK 3. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
@@ -3059,7 +3075,8 @@ In het BRZ wordt voor het dienstjaar 2021 een provisioneel bedrag van 600 euro p
 Het jaarlijks herrekende budget bestaat uit de volgende onderdelen:<br>
 1° het bedrag ter compensatie van de eindeloopbaanmaatregelen;<br>
 2° het bedrag ter compensatie van het complement van de attractiviteitspremie;<br>
-3° het bedrag ter compensatie van de functiekwalificatie ter uitvoering van het Vijfde Vlaams Intersectoraal akkoord van 8 juni 2018 voor de social/nonprofitsectoren voor de periode 2018-2020.
+3° het bedrag ter compensatie van de functiekwalificatie ter uitvoering van het Vijfde Vlaams Intersectoraal akkoord van 8 juni 2018 voor de social/nonprofitsectoren voor de periode 2018-2021.<br>
+4° het bedrag ter compensatie van de functiekwalificatie ter uitvoering van het Zesde Vlaams Intersectoraal akkoord van 30 maart 2021 voor de social/non-profitsectoren voor het jaar 2021.
 
 ## Afdeling 2. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
@@ -3201,6 +3218,16 @@ Het budget, vermeld in het tweede en derde lid, wordt provisioneel verdeeld over
 De definitieve verdeling van het budget, vermeld in het tweede en derde lid, per revalidatieziekenhuis, wordt bepaald op basis van de berekening die de vzw IFIC in oktober 2019, maart 2020 , maart 2021 en maart 2022 aan het agentschap meedeelt, ermee rekening houdend dat het budget, vermeld in het tweede en derde lid, niet mag worden overschreden. Hiertoe wordt conform artikel 255, § 3, voorzien in een corrigerend bedrag voor de dienstjaren 2020 , 2021 en 2022.
 
 ## Afdeling 5. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
+
+### ART 252/2.
+
+Om de loonsverhoging ter uitvoering van punt 1.1. van deel III van luik III van het zesde Vlaams Intersectoraal akkoord van 30 maart 2021 voor de social/non-profitsectoren voor het jaar 2021 te financieren, wordt in het jaarlijks herrekende budget van de private revalidatieziekenhuizen in een budget voorzien.<br>
+<br>
+Het budget, vermeld in het eerste lid, bedraagt 4.016.190,49 euro.<br>
+<br>
+Het budget, vermeld in het eerste lid, wordt provisioneel verdeeld over de private revalidatieziekenhuizen, rekening houdend met het aantal voltijdsequivalent personeelsleden per revalidatieziekenhuis dat conform artikel 252 in aanmerking komt voor de berekening van het complement van de attractiviteitspremie.<br>
+<br>
+De definitieve verdeling van het budget, vermeld in het eerste lid, per revalidatieziekenhuis, wordt bepaald op basis van de berekening die de vzw IFIC in juni 2022 aan het agentschap meedeelt. Daarbij wordt ermee rekening gehouden dat het bedrag, vermeld in het tweede lid, niet mag worden overschreden. Hiertoe wordt conform artikel 255, § 3, voorzien in een corrigerend bedrag voor het dienstjaar 2022.
 
 ## HOOFDSTUK 5. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
