@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035701,
+  "title": "Ministerieel besluit van 2021-05-31 tot vaststelling van het bedrag dat de gebruiker aan het afstammingscentrum betaalt voor de afname en verwerking van een DNA-staal en de opmaak en matching van het DNA-profiel bij het centrum voor menselijke erfelijkheid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035701/VolledigDocument?datum=2021-07-01",
+  "source_sha256": "ca3663ed9d0302f0dd19160a6c1caae9f85cc8fc045692cd006c4efdd8f33a18",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035701&param=informatie",
+  "as_of": "2021-07-01",
+  "made": "2021-05-31",
+  "gazette": "2021-06-21",
+  "numac": 2021042116,
+  "document_start": "2021-07-01",
+  "document_end": "2023-03-31",
+  "in_force": "2021-07-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
