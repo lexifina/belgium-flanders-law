@@ -488,11 +488,11 @@ Na de hoorzitting, ongeacht of die is bijgewoond, kan de minister of zijn gemach
 
 ### ART 54.
 
-De personeelsleden van niveau A, B en C van de cel Rijopleiding en Vakbekwaamheid van de afdeling Vlaams Huis voor de Verkeersveiligheid van het Departement Mobiliteit en Openbare Werken treden op als toezichthouders als vermeld in artikel 10, § 1, eerste lid, van het decreet van 9 maart 2018.
+De personeelsleden die het hoofd van het bestuur aanwijst, oefenen de functie van toezichthouders of handhavingsinstantie uit, vermeld in artikel 10, § 1, van het decreet van 9 maart 2018.
 
 ### ART 55.
 
-Het afdelingshoofd van de afdeling Vlaams Huis voor de Verkeersveiligheid van het Departement Mobiliteit en Openbare Werken treedt op als handhavingsinstantie als vermeld in artikel 10, § 1, eerste lid, van het decreet van 9 maart 2018.
+...
 
 ### ART 55/1.
 
