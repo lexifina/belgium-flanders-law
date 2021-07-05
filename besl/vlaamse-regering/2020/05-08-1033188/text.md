@@ -202,7 +202,7 @@ b) er is voldaan aan de vergunningsvoorwaarden, vermeld in artikel 6 van het voo
 a) er is een ontvankelijke aanvraag ingediend;<br>
 b) er is voldaan aan de vergunningsvoorwaarden, vermeld in artikel 10 van het voormelde decreet.<br>
 <br>
-Als er meer dan één ontvankelijke vergunningsaanvraag is die aan de vergunningsvoorwaarden voldoet, wordt de vergelijkende procedure toegepast, vermeld in artikel 17, tweede lid, waarbij de aanvragen vergeleken worden op basis van vergelijkingscriteria en de vergunning alleen aan de hoogst gerangschikte aanvraag wordt toegekend.<br>
+Als er meer dan één ontvankelijke vergunningsaanvraag is die aan de vergunningsvoorwaarden voldoet, wordt de vergelijkende procedure toegepast, waarbij de aanvragen vergeleken worden op basis van vergelijkingscriteria en de vergunning alleen aan de hoogst gerangschikte aanvraag wordt toegekend.<br>
 <br>
 De vergelijkingscriteria, vermeld in het tweede lid hebben, wat het afstammingscentrum betreft, betrekking op :<br>
 1° de uitgewerkte visie en beleidsplan;<br>
