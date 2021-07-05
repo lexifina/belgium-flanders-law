@@ -2566,4 +2566,20 @@ In artikel 1 van het besluit van de Vlaamse Regering van 5 april 2019 betreffend
 
 ## HOOFDSTUK 46. Wijziging van het besluit van de Vlaamse Regering van 8 mei 2020 tot uitvoering van het decreet van 26 april 2019 houdende de oprichting van een afstammingscentrum en een DNA-databank
 
+### ART 539.
+
+In artikel 17, tweede lid, van het besluit van de Vlaamse Regering van 8 mei 2020 tot uitvoering van het decreet van 26 april 2019 houdende de oprichting van een afstammingscentrum en een DNA-databank wordt de zinsnede ", vermeld in artikel 17, tweede lid" opgeheven.
+
 ## HOOFDSTUK 47. Slotbepalingen
+
+### ART 540.
+
+Artikel 1 tot en met 50, artikel 52 tot en met artikel 136, artikel 137, 2°, artikel 138 tot en met 538 hebben uitwerking met ingang van 18 april 2019.<br>
+<br>
+Artikel 51 heeft uitwerking met ingang van 1 januari 2020. De rapporten, bedoeld in 361-2/1 van het Oud Burgerlijk Wetboek die in de periode tussen 1 januari 2020 en de datum van inwerkingtreding van de laatste akte tot instemming met het samenwerkingsakkoord van 18 februari 2020 tot wijziging van het samenwerkingsakkoord van 12 december 2005 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie inzake de tenuitvoerlegging van de wet van 24 april 2003 tot hervorming van de adoptie worden opgemaakt door het Vlaams Centrum voor Adoptie, worden gelijkgesteld met de rapporten die door de adoptiedienst overeenkomstig artikel 15, § 2, 10° van decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen worden opgemaakt;<br>
+<br>
+Artikel 137, 1°, 3° en 4°, heeft uitwerking met ingang van 1 januari 2021.
+
+### ART 541.
+
+De Vlaamse minister, bevoegd voor de sociale economie, de Vlaamse minister, bevoegd voor opgroeien, en de Vlaamse minister, bevoegd voor het budgettair beleid, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
