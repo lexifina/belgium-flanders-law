@@ -53,6 +53,16 @@ In artikel 4bis van dezelfde wet, ingevoegd bij het decreet van 28 februari 2014
 3° aan paragraaf 3 wordt een punt 4° toegevoegd, dat luidt als volgt:<br>
 "4° de betrokken polders en wateringen als het gaat om wijzigingen binnen de werkingsgebieden van deze besturen.".
 
+### ART 6.
+
+Artikel 5 van dezelfde wet, gewijzigd bij het decreet van 28 februari 2014, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5. De Vlaamse Milieumaatschappij wordt ermee belast de digitale atlas van de gerangschikte onbevaarbare waterlopen en de publieke grachten op te maken en te actualiseren. De provincies leveren digitaal de gevalideerde informatie aan voor de waterlopen van de tweede en de derde categorie en de publieke grachten.<br>
+<br>
+De Vlaamse Regering bepaalt de inhoud van de digitale atlas, de modaliteiten voor de opmaak en de bekendmaking ervan. De digitale atlas van de gerangschikte waterlopen en de publieke grachten vervangt bij bekendmaking ervan de tot dan geldende beschrijvende tabellen van de onbevaarbare waterlopen.<br>
+<br>
+In afwijking van de procedure, bepaald in artikel 23ter, zullen de grachten gelegen binnen het werkingsgebied van de polders en wateringen en die overeenkomstig de wet van 3 juni 1957 betreffende de polders respectievelijk overeenkomstig de wet van 5 juli 1956 betreffende de wateringen aangeduid zijn als polder- of wateringgracht, op het tijdstip dat de digitale atlas, vermeld in het eerste lid, opgemaakt en bekendgemaakt is, het statuut van publieke gracht hebben.".
+
 ### ART 7.
 
 Het opschrift van hoofdstuk II. Gewone ruimings-, onderhouds- en herstellingswerken van dezelfde wet wordt vervangen door het opschrift "Onderhoud".
