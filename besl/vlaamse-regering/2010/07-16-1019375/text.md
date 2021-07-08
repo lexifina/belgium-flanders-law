@@ -74,7 +74,7 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de
 6° toegangspoorten en open afsluitingen tot een hoogte van twee meter;<br>
 7° gesloten afsluitingen tot een hoogte van 1 meter in de voortuin;<br>
 8° de plaatsing van niet-overdekte constructies in zijtuin en achtertuin, ingeplant tot op 1 meter van de perceelsgrens of tot tegen een bestaande scheidingsmuur, voor zover de gezamenlijke oppervlakte van dergelijke constructies, met inbegrip van alle bestaande niet-overdekte constructies in zijtuin en achtertuin, 80 vierkante meter niet overschrijdt;<br>
-9° de strikt noodzakelijke toegangen tot en opritten naar het gebouw of de gebouwen;<br>
+9° de strikt noodzakelijke toegangen tot en opritten naar het gebouw of de gebouwen. Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten;;<br>
 10° de plaatsing van allerhande kleine tuinconstructies zoals tuinornamenten, brievenbussen, barbecues en speeltoestellen;<br>
 11° van het hoofdgebouw vrijstaande niet voor verblijf bestemde bijgebouwen, met inbegrip van carports, in de zijtuin tot op 3 meter van de perceelsgrenzen of in de achtertuin tot op 1 meter van de perceelsgrenzen. De vrijstaande bijgebouwen kunnen in de achtertuin ook op of tegen de perceelsgrens geplaatst worden als ze tegen een bestaande scheidingsmuur opgericht worden en als de bestaande scheidingsmuur niet gewijzigd wordt. De totale oppervlakte blijft beperkt tot maximaal 40 vierkante meter per goed, met inbegrip van alle bestaande vrijstaande bijgebouwen. De maximale hoogte is beperkt tot 3,5 meter;<br>
 12° het opslaan van allerhande bij de woning horende materialen en materieel met een totaal maximaal volume van 10 kubieke meter, niet zichtbaar vanaf de openbare weg;<br>
@@ -107,7 +107,7 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de
 6° toegangspoorten en open afsluitingen tot een hoogte van twee meter;<br>
 7° gesloten afsluitingen tot een hoogte van 1 meter in de voortuin;<br>
 7° /1. open afsluitingen en toegangspoorten tot een hoogte van drie meter in een afgebakend zeehavengebied;<br>
-8° de strikt noodzakelijke toegangen tot en opritten naar het gebouw of de gebouwen;<br>
+8° de strikt noodzakelijke toegangen tot en opritten naar het gebouw of de gebouwen. Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten;<br>
 9° de plaatsing van seizoensgebonden, niet-overdekte terrassen bij horecazaken.<br>
 10° gebruikelijke constructies zoals ventilatiebuizen, airco's, schoorsteenpijpen, schoorstenen, dakgoten en hemelwaterafvoerbuizen aan of op een gebouw, op voorwaarde dat ze niet meer dan drie meter boven de nok van het gebouw uitsteken;<br>
 11° de plaatsing van allerhande kleine tuinconstructies zoals tuinornamenten, brievenbussen en barbecues;<br>
@@ -211,7 +211,7 @@ b) de drainagewerken worden niet uitgevoerd in de volgende gebieden of zones :<b
 2) de Ramsargebieden;<br>
 3) ruimtelijk kwetsbare gebieden of een effectief&nbsp;overstromingsgevoelig gebied, of op minder dan 50 meter van die gebieden;<br>
 c) voor de drainagewerken is geen milieueffectrapport vereist;<br>
-3° de strikt noodzakelijke toegangen tot en opritten naar de agrarische bedrijfsgebouwen, inclusief de bedrijfswoning;<br>
+3° de strikt noodzakelijke toegangen tot en opritten naar de agrarische bedrijfsgebouwen, inclusief de bedrijfswoning. Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten;<br>
 4° bijenstallen of bijenkorven;<br>
 5° jachtkansels.<br>
 6° sleufsilo's op voorwaarde dat ze worden opgericht binnen een straal van vijftig meter van het gebouwencomplex van het landbouwbedrijf en er geen afvoer wordt voorzien naar de openbare riolering;<br>
@@ -256,8 +256,8 @@ b) de hoogstammige bomen zijn hoger dan de afstand tussen de voet van de boom en
 ### ART. 6.2.
 
 Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor volgende handelingen:<br>
-1° het aanleggen of herinrichten van perceelsopritten en perceelsovergangen, inclusief de eventueel hiervoor strikt noodzakelijke inbuizing van grachten;<br>
-2° het aanleggen, inbuizen, openleggen, herprofileren of geheel of gedeeltelijk dempen van grachten voor de detailontwatering van een gebied, voor zover de bodem van de aan te leggen grachten niet dieper is dan 1,5 meter, gemeten vanaf het maaiveld;<br>
+1° het aanleggen of herinrichten van perceelsopritten en perceelsovergangen. Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten;<br>
+2° ...;<br>
 3° het uitvoeren van reliëfwijzigingen van minder dan een meter;<br>
 4° het plaatsen of herinrichten van kleinschalige toeristisch-recreatieve infrastructuur zoals zitbanken, picknicktafels, vuilbakken, fietsenrekken, speeltoestellen, infopanelen en infokiosken;<br>
 5° het plaatsen of herinrichten van kleinschalige faunavoorzieningen;<br>
@@ -445,7 +445,8 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor 
 
 ### ART. 11.7.
 
-Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor de aanleg van de strikt noodzakelijke toegangen tot en opritten naar   installaties van algemeen belang.<BR><BR>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de aanleg van de strikt noodzakelijke toegangen tot en opritten naar installaties van algemeen belang.&nbsp;Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten.<br>
+&nbsp;
 
 ### ART. 11.8.
 
