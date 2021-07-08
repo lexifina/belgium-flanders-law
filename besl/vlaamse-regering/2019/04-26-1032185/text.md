@@ -40,4 +40,4 @@ Besluit :
 
 ### ART 23.
 
-Dit besluit treedt in werking op 1 juli 2021.
+Dit besluit treedt in werking op 1 april 2022.
