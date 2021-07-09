@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035830,
+  "title": "Besluit van de Vlaamse Regering van 2021-07-09 tot wijziging van artikel 3 en 13 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie en tot wijziging van artikel 13/1 van het besluit van de Vlaamse Regering van 25 juli 2014 tot delegatie van beslissingsbevoegdheden aan de leden van de Vlaamse Regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035830/VolledigDocument?datum=2021-07-09",
+  "source_sha256": "726d63e34eab4f7a14af02057d39f186f01292222c92acfd1543749a515a6d96",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035830&param=informatie",
+  "as_of": "2021-07-09",
+  "made": "2021-07-09",
+  "gazette": "2021-07-15",
+  "numac": 2021031866,
+  "document_start": "2021-07-09",
+  "document_end": null,
+  "in_force": "2021-07-09",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2021-07-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
