@@ -180,7 +180,9 @@ De leden van de Vlaamse Regering hebben delegatie om onteigeningsmachtigingen te
 
 ### ART 13/1.
 
-De Vlaamse minister, bevoegd voor de weginfrastructuur en het beleid, heeft delegatie om te beslissen over de beroepen inzake gemeentelijke rooilijnplannen of opheffing van gemeentewegen, vermeld in artikel 24 van het decreet van 3 mei 2019 houdende de gemeentewegen en over de beroepen inzake aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg, vermeld in artikel 31/1 van het decreet van 25 april 2014 betreffende de omgevingsvergunning.
+De Vlaamse minister, bevoegd voor de weginfrastructuur en het beleid, heeft delegatie om te beslissen over de beroepen inzake gemeentelijke rooilijnplannen of opheffing van gemeentewegen, vermeld in artikel 24 van het decreet van 3 mei 2019 houdende de gemeentewegen en over de beroepen inzake aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg, vermeld in artikel 31/1 van het decreet van 25 april 2014 betreffende de omgevingsvergunning.<br>
+<br>
+De Vlaamse minister, bevoegd voor de weginfrastructuur en het beleid, heeft delegatie om, conform artikel 295 van het decreet over het lokaal bestuur van 22 december 2017, bestaande gewestwegen of gedeelten van gewestwegen in te delen bij de gemeentewegen, op voorwaarde dat de gemeenteraad daarmee instemt.
 
 ### ART 13/2.
 
