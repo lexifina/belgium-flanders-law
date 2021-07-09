@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035787,
+  "title": "Besluit van de Vlaamse Regering van 2021-06-04 tot het openstellen van en het verlenen van steun binnen de oproep City of Things 2021",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035787/VolledigDocument?datum=2021-07-09",
+  "source_sha256": "216d8baa89c6e1a454f80214d0d6b1209421dc52dbf6ac72bd16dc510590ec54",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035787&param=informatie",
+  "as_of": "2021-07-09",
+  "made": "2021-06-04",
+  "gazette": "2021-07-09",
+  "numac": 2021021165,
+  "document_start": "2021-07-09",
+  "document_end": null,
+  "in_force": "2021-07-09",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2021-07-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
