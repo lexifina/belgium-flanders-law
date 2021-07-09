@@ -67,7 +67,7 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 ### ART. 3.
 
 <br>
-<span style="font-size:medium"><span style="color:#000000">§ 1. Het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie omvat de volgende beleidsvelden en bevoegdheden:</span></span>
+§ 1. Het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie omvat de volgende beleidsvelden en bevoegdheden:
 <table border="1" style="letter-spacing:normal; text-transform:none">
 	<tbody>
 		<tr>
@@ -95,7 +95,7 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 			a) de algemene leiding van de relaties van Vlaanderen met buitenlandse overheden, de Europese Unie en internationale organisaties<br>
 			b) de coördinatie en coherentiebewaking van het internationale en Europese optreden van Vlaanderen<br>
 			c) het verdedigen van de Vlaamse standpunten over horizontale beleidsthema's op internationale en Europese fora<br>
-			d) de algemene rapportering over het Vlaamse beleid aan internationale instanties<br>
+			d) de algemene rapportering over het Vlaamse beleid aan internationale instanties, met inbegrip van de rapportering in het kader van mensenrechtenverdragen<br>
 			e) de institutionele aspecten van de Europese Unie<br>
 			f) het Europese gemeenschappelijke handelsbeleid<br>
 			g) het Europese meerjarig financieel kader (MFK) en het Europese cohesiebeleid<br>
@@ -178,8 +178,7 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 	</tbody>
 </table>
 <br>
-<span style="font-size:medium"><span style="color:#000000">§ 2. Het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie omvat de volgende inhoudelijke structuurelementen:</span></span>
-
+§ 2. Het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie omvat de volgende inhoudelijke structuurelementen:
 <table border="1" style="letter-spacing:normal; text-transform:none">
 	<tbody>
 		<tr>
@@ -924,7 +923,7 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>dierenwelzijn</td>
-			<td>het dierenwelzijn, vermeld in artikel 6, § 1, XI, van de bijzondere wet</td>
+			<td>het dierenwelzijn, vermeld in artikel 6, § 1, XI, van de bijzondere wet, met inbegrip van de fokkerijreglementering van katten en honden</td>
 		</tr>
 		<tr>
 			<td>wonen</td>
