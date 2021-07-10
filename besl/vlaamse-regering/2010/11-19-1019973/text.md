@@ -436,7 +436,7 @@ b) hetzij een gunstige beoordeling van het referentielaboratorium van het Vlaams
 <br>
 In de volgende gevallen is het laboratorium vrijgesteld van de erkenningsvoorwaarde, vermeld in het eerste lid, 2° en 3°, a), op voorwaarde dat het beschikt over een gunstige beoordeling van het referentielaboratorium van het Vlaamse Gewest over de toepassing van ISO/IEC 17025 voor de te volgen methoden, vermeld in artikel 45 :<br>
 1° een laboratorium als vermeld in artikel 6, 5°, a), dat alleen erkend wil worden voor het pakket W.1, vermeld in bijlage 3, 1°, die bij dit besluit is gevoegd;<br>
-2° een laboratorium als vermeld in artikel 6, 5°, b), dat alleen erkend wil worden voor het pakket L.11.1, L.11.2 of L.18, vermeld in bijlage 3, 2°, die bij dit besluit is gevoegd;<br>
+2° een laboratorium als vermeld in artikel 6, 5°, b), dat alleen erkend wil worden voor het pakket L.11.1, L.11.2, L.11.3 of L.18, vermeld in bijlage 3, 2°, die bij dit besluit is gevoegd;<br>
 3° een laboratorium als vermeld in artikel 6, 5°, d), dat alleen erkend wil worden voor het pakket M-M1, M-M3, M-M5 of M-M6, vermeld in bijlage 3, 4°, die bij dit besluit is gevoegd;<br>
 4° een laboratorium als vermeld in artikel 6, 5°, e), dat alleen erkend wil worden voor het pakket MA.1, MA.2, MA.3, MA.4, MA.5, MA.6, MA.7.1 of MA.7.2, vermeld in bijlage 3, 5°, die bij dit besluit is gevoegd.<br>
 <br>
@@ -1335,13 +1335,13 @@ Het erkende laboratorium beschikt voor ten minste één parameter per discipline
 <br>
 In de volgende gevallen is het laboratorium vrijgesteld van de gebruikseis, vermeld in het eerste lid, op voorwaarde dat het ISO/IEC 17025 met betrekking tot de te volgen methoden, vermeld in artikel 45, toepast :<br>
 1° een laboratorium als vermeld in artikel 6, 5°, a), dat alleen erkend is voor het pakket W.1, vermeld in bijlage 3, 1°, die bij dit besluit is gevoegd;<br>
-2° een laboratorium als vermeld in artikel 6, 5°, b), dat alleen erkend is voor het pakket L.11.1, L.11.2 of L.18, vermeld in bijlage 3, 2°, die bij dit besluit is gevoegd;<br>
+2° een laboratorium als vermeld in artikel 6, 5°, b), dat alleen erkend is voor het pakket L.11.1, L.11.2, L.11.3 of L.18, vermeld in bijlage 3, 2°, die bij dit besluit is gevoegd;<br>
 3° een laboratorium als vermeld in artikel 6, 5°, d), dat alleen erkend is voor het pakket M-M1, M-M3, M-M5 of M-M6, vermeld in bijlage 3, 4°, die bij dit besluit is gevoegd;<br>
 4° een laboratorium als vermeld in artikel 6, 5°, e), dat alleen erkend is voor het pakket MA.1, MA.2, MA.3, MA.4, MA.5, MA.6, MA.7.1 of MA.7.2, vermeld in bijlage 3, 5°, die bij dit besluit is gevoegd.
 
 ### ART. 49.
 
-<p>Op de verslagen en andere documenten die afgeleverd worden door een erkend laboratorium, wordt een erkenningslogo aangebracht en wordt duidelijk vermeld voor welke uitgevoerde monsternemingen, metingen, beproevingen en analyses het laboratorium erkend is en voor welke niet. Het erkenningslogo kan door de minister vastgesteld worden. De verslagen en andere documenten worden gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en het referentielaboratorium van het Vlaamse Gewest.</p>
+<p>Op de verslagen en andere documenten die afgeleverd worden door een erkend laboratorium, wordt een erkenningslogo aangebracht en wordt duidelijk vermeld voor welke uitgevoerde monsternemingen, metingen, beproevingen en analyses het laboratorium erkend is en voor welke niet. Het erkenningslogo kan door de minister vastgesteld worden in de compendia, vermeld in artikel 45, § 1. De verslagen en andere documenten worden gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en het referentielaboratorium van het Vlaamse Gewest.</p>
 
 ### ART. 50.
 
@@ -1379,13 +1379,13 @@ Voor de gevallen, vermeld in punt 3° en 4°, is het erkende laboratorium verant
 
 ### ART. 53/1.
 
-§ 1. Voor bepaalde door de minister vastgestelde monsternemingen en analyses die uitgevoerd worden in het kader van het Mestdecreet of de uitvoeringsbesluiten ervan, wordt een aanmelding gedaan door het erkende laboratorium, vermeld in artikel 6, 5°, d), aan de Mestbank via een webapplicatie die de Mestbank ter beschikking stelt. De minister bepaalt de nadere regels voor de aanmelding en de webapplicatie. Alleen de analyseresultaten van de monsternemingen die voorafgaand zijn aangemeld bij de Mestbank, kunnen gebruikt worden om bepaalde rechten te verkrijgen in het kader van het Mestdecreet of om te voldoen aan bepaalde verplichtingen in het kader van het Mestdecreet.<br>
+§ 1. Voor bepaalde door de minister vastgestelde monsternemingen en analyses die uitgevoerd worden in het kader van het Mestdecreet of de uitvoeringsbesluiten ervan, wordt een aanmelding gedaan door het erkende laboratorium, vermeld in artikel 6, 5°, d), aan de Mestbank via een webapplicatie die de Mestbank ter beschikking stelt. De minister bepaalt de nadere regels voor de aanmelding en de webapplicatie in het BAM. Alleen de analyseresultaten van de monsternemingen die voorafgaand zijn aangemeld bij de Mestbank, kunnen gebruikt worden om bepaalde rechten te verkrijgen in het kader van het Mestdecreet of om te voldoen aan bepaalde verplichtingen in het kader van het Mestdecreet.<br>
 <br>
-§ 2. Het erkende laboratorium, vermeld in artikel 6, 5°, d), bezorgt van elke aangemelde monsterneming de analyseresultaten aan de Mestbank. De minister bepaalt de procedure voor die gegevensoverdracht.<br>
+§ 2. Het erkende laboratorium, vermeld in artikel 6, 5°, d), bezorgt van elke aangemelde monsterneming de analyseresultaten aan de Mestbank. De minister bepaalt de procedure voor die gegevensoverdracht in het BAM.<br>
 <br>
 § 3. Het erkende laboratorium, vermeld in artikel 6, 5°, d), zorgt dat er een gps-datalogger gebruikt wordt bij de monsternemingen.<br>
 <br>
-Voor bepaalde door de minister vastgestelde monsternemingen worden de dataloggegevens in gps exchange format (gpx) bezorgd aan de Mestbank via een webapplicatie die de Mestbank ter beschikking stelt. De minister bepaalt de nadere regels voor het gebruik van de gps-datalogger en de procedure voor de overdracht van het gpx-bestand met de dataloggegevens.<br>
+Voor bepaalde door de minister vastgestelde monsternemingen worden de dataloggegevens in gps exchange format (gpx) bezorgd aan de Mestbank via een webapplicatie die de Mestbank ter beschikking stelt. De minister bepaalt de nadere regels voor het gebruik van de gps-datalogger en de procedure voor de overdracht van het gpx-bestand met de dataloggegevens in het BAM.<br>
 <br>
 § 4. Het erkende laboratorium, vermeld in artikel 6, 5°, d), bewaart de resultaten van de kwaliteitscontrole als vermeld in het BAM gedurende ten minste vijf jaar en houdt ze ter beschikking van de Mestbank en het referentielaboratorium van het Vlaamse Gewest.<br>
 <br>
@@ -1405,11 +1405,11 @@ Als het erkende laboratorium een monsternemer die het geregistreerd heeft, niet 
 
 ### ART. 53/2.
 
-§ 1. Voor alle monsternemingen die uitgevoerd worden in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid doet het erkende laboratorium, vermeld in artikel 6, 5°, c), een aanmelding bij de subentiteit van het departement Omgeving, bevoegd voor bodembescherming. De aanmelding wordt gedaan via een webapplicatie. De minister bepaalt de nadere regels voor de aanmelding en de webapplicatie. Alleen de analyseresultaten van de monsternemingen die voorafgaand zijn aangemeld bij de subentiteit van het departement Omgeving, bevoegd voor bodembescherming, kunnen gebruikt worden in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid.<br>
+§ 1. Voor alle monsternemingen die uitgevoerd worden in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid doet het erkende laboratorium, vermeld in artikel 6, 5°, c), een aanmelding bij de subentiteit van het departement Omgeving, bevoegd voor bodembescherming. De aanmelding wordt gedaan via een webapplicatie. De minister bepaalt de nadere regels voor de aanmelding en de webapplicatie in het BOC. Alleen de analyseresultaten van de monsternemingen die voorafgaand zijn aangemeld bij de subentiteit van het departement Omgeving, bevoegd voor bodembescherming, kunnen gebruikt worden in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid.<br>
 <br>
 § 2. Het erkende laboratorium, vermeld in artikel 6, 5°, c), zorgt dat er een gps-datalogger gebruikt wordt bij de monsternemingen.<br>
 <br>
-Het gpx-bestand met de dataloggegevens wordt bezorgd aan de subentiteit van het departement Omgeving, bevoegd voor bodembescherming, via een webapplicatie. De minister bepaalt de nadere regels voor het gebruik van de gps-datalogger en de procedure voor de overdracht van het gpx-bestand met de dataloggegevens.<br>
+Het gpx-bestand met de dataloggegevens wordt bezorgd aan de subentiteit van het departement Omgeving, bevoegd voor bodembescherming, via een webapplicatie. De minister bepaalt de nadere regels voor het gebruik van de gps-datalogger en de procedure voor de overdracht van het gpx-bestand met de dataloggegevens in het BOC.<br>
 <br>
 § 3. Het erkende laboratorium, vermeld in artikel 6, 5°, c), bewaart de resultaten van de kwaliteitscontrole als vermeld in het BOC gedurende ten minste vijf jaar en houdt ze ter beschikking van het departement en het referentielaboratorium van het Vlaamse Gewest.<br>
 <br>
@@ -1766,7 +1766,7 @@ Een geregistreerde monsternemer moet voldoen aan de volgende gebruikseisen:<br>
 2° het BOC toepassen bij de monsternemingen van de bodem die uitgevoerd worden in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid;<br>
 3° het BAM toepassen bij de monsternemingen van de bodem die uitgevoerd worden in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan;<br>
 4° beschikken over het nodige materiaal, vermeld in het BOC of BAM, om de monsternemingen correct uit te voeren;<br>
-5° gebruikmaken van een gps-datalogger voor alle monsternemingen die uitgevoerd worden. De minister bepaalt de nadere regels voor het gebruik van de gps-datalogger;<br>
+5° gebruikmaken van een gps-datalogger voor alle monsternemingen die uitgevoerd worden. De minister bepaalt de nadere regels voor het gebruik van de gps-datalogger in het BAM of het BOC;<br>
 6° het bodemmonster, het bestand met de dataloggegevens en het monsternameformulier bezorgen aan het erkende laboratorium in opdracht waarvan hij de monstername uitgevoerd heeft;<br>
 7° elke wijziging in de identificatiegegevens, elke wijziging van de gegevens waardoor hij niet meer voldoet aan de gebruikseisen, of de definitieve stopzetting van het gebruik van de registratie onverwijld meedelen aan de Mestbank;<br>
 8° aan de bevoegde afdeling en het referentielaboratorium van het Vlaamse Gewest alle inlichtingen en documenten ter beschikking stellen waar ze met betrekking tot de monstername om verzoeken en zich richten naar de instructies die de bevoegde afdeling en de toezichthouders geven;<br>
@@ -2828,25 +2828,25 @@ De overgangscursussen van het tweede niveau naar het eerste niveau zijn zo opgev
 
 ### BIJLAGE 3
 
-<p style="text-align: justify;">Lijst met pakketten voor de laboratoria, vermeld in artikel 6, 5°, van dit besluit</p>
+<p style="text-align:justify">Lijst met pakketten voor de laboratoria, vermeld in artikel 6, 5°, van dit besluit</p>
 
-<p style="text-align: justify;"><u>1° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, a):</u></p>
+<p style="text-align:justify"><u>1° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, a):</u></p>
 
-<p style="text-align: justify;">W.1 monsternemingen, inclusief conservering, transport en metingen ter plaatse:</p>
+<p style="text-align:justify">W.1 monsternemingen, inclusief conservering, transport en metingen ter plaatse:</p>
 
-<p style="text-align: justify;">W.1.1 ogenblikkelijke staalname (aan kraan) van water:</p>
+<p style="text-align:justify">W.1.1 ogenblikkelijke staalname (aan kraan) van water:</p>
 
-<p style="text-align: justify;">W.1.1 .1 voor chemische analyses</p>
+<p style="text-align:justify">W.1.1 .1 voor chemische analyses</p>
 
-<p style="text-align: justify;">W.1.1.2 voor bacteriologische analyses</p>
+<p style="text-align:justify">W.1.1.2 voor bacteriologische analyses</p>
 
-<p style="text-align: justify;">Pakket W.1.1 is een uitbreiding van pakket W.1.5.1.</p>
+<p style="text-align:justify">Pakket W.1.1 is een uitbreiding van pakket W.1.5.1.</p>
 
-<p style="text-align: justify;">W.1.2 ogenblikkelijke staalname (schepstaal) van water</p>
+<p style="text-align:justify">W.1.2 ogenblikkelijke staalname (schepstaal) van water</p>
 
-<p style="text-align: justify;">W.1.3 tijds- en/of debietsgebonden staalname</p>
+<p style="text-align:justify">W.1.3 tijds- en/of debietsgebonden staalname</p>
 
-<p style="text-align: justify;">W.1.4 staalname van water uit peilbuizen:<br>
+<p style="text-align:justify">W.1.4 staalname van water uit peilbuizen:<br>
 <br>
 W.1.4.1 met ondiepe &lt;30 m) waterstand<br>
 <br>
@@ -2854,71 +2854,71 @@ W.1.4.2 met diepe (≥ 30 m) waterstand<br>
 <br>
 De pakketten onder W.1.4 zijn telkens een uitbreiding van pakket W.1.5.1 en W.1.5.2.</p>
 
-<p style="text-align: justify;">W.1.5 meting ter plaatse van de volgende parameters:</p>
+<p style="text-align:justify">W.1.5 meting ter plaatse van de volgende parameters:</p>
 
-<p style="text-align: justify;">W.1.5.1 temperatuur</p>
+<p style="text-align:justify">W.1.5.1 temperatuur</p>
 
-<p style="text-align: justify;">W.1.5.2 zuurtegraad en elektrische geleidbaarheid</p>
+<p style="text-align:justify">W.1.5.2 zuurtegraad en elektrische geleidbaarheid</p>
 
-<p style="text-align: justify;">W.1.6 meting ter plaatse van opgeloste zuurstof</p>
+<p style="text-align:justify">W.1.6 meting ter plaatse van opgeloste zuurstof</p>
 
-<p style="text-align: justify;">W.1. 7 meting ter plaatse van vrije chloor en gebonden chloor</p>
+<p style="text-align:justify">W.1. 7 meting ter plaatse van vrije chloor en gebonden chloor</p>
 
-<p style="text-align: justify;">W.1.8 afmeting zwevende stoffen"</p>
+<p style="text-align:justify">W.1.8 afmeting zwevende stoffen"</p>
 
-<p style="text-align: justify;">W.1.9 ...</p>
+<p style="text-align:justify">W.1.9 ...</p>
 
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align: justify;">W.2 organoleptische parameters in water, bestemd voor menselijke consumptie:<br>
+<p style="text-align:justify">W.2 organoleptische parameters in water, bestemd voor menselijke consumptie:<br>
 <br>
 W.2.1 kleur, troebelingsgraad en de kwalitatieve bepaling van reuk en smaak<br>
 <br>
 W.2.2 de kwantitatieve bepaling van reuk en smaak</p>
 
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align: justify;">W.3 anorganische fysicochemische parameters:</p>
+<p style="text-align:justify">W.3 anorganische fysicochemische parameters:</p>
 
-<p style="text-align: justify;">W.3.1 chloride, sulfaat, nitraat, nitriet, totaal orthofosfaat, opgelost fluoride en ammonium</p>
+<p style="text-align:justify">W.3.1 chloride, sulfaat, nitraat, nitriet, totaal orthofosfaat, opgelost fluoride en ammonium</p>
 
-<p style="text-align: justify;">W.3.2 natrium, calcium, kalium, magnesium en totale hardheid</p>
+<p style="text-align:justify">W.3.2 natrium, calcium, kalium, magnesium en totale hardheid</p>
 
-<p style="text-align: justify;">W.3.3 zuurtegraad en elektrische geleidbaarheid</p>
+<p style="text-align:justify">W.3.3 zuurtegraad en elektrische geleidbaarheid</p>
 
-<p style="text-align: justify;">W.3.6 alkaliniteit</p>
+<p style="text-align:justify">W.3.6 alkaliniteit</p>
 
-<p style="text-align: justify;">W.3.7 totaal anorganisch gebonden fluoride<br>
+<p style="text-align:justify">W.3.7 totaal anorganisch gebonden fluoride<br>
 <br>
 W.3.8. saturatie-index</p>
 
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align: justify;">W.4 metalen:</p>
+<p style="text-align:justify">W.4 metalen:</p>
 
-<p style="text-align: justify;">W.4.1 standaardreeks:<br>
+<p style="text-align:justify">W.4.1 standaardreeks:<br>
 <br>
 W.4.1.1 kwik<br>
 <br>
 W.4.1.2 cadmium, lood, arseen, chroom, nikkel, koper, zink, antimoon, seleen, mangaan, ijzer en aluminium</p>
 
-<p style="text-align: justify;">W.4.2 aanvullende elementen:</p>
+<p style="text-align:justify">W.4.2 aanvullende elementen:</p>
 
-<p style="text-align: justify;">W.4.2.1 zilver</p>
+<p style="text-align:justify">W.4.2.1 zilver</p>
 
-<p style="text-align: justify;">W.4.2.2 vanadium</p>
+<p style="text-align:justify">W.4.2.2 vanadium</p>
 
-<p style="text-align: justify;">W.4.2.3 barium</p>
+<p style="text-align:justify">W.4.2.3 barium</p>
 
-<p style="text-align: justify;">W.4.2.4 molybdeen</p>
+<p style="text-align:justify">W.4.2.4 molybdeen</p>
 
-<p style="text-align: justify;">W.4.2.5 tin</p>
+<p style="text-align:justify">W.4.2.5 tin</p>
 
-<p style="text-align: justify;">W.4.2.6 titanium</p>
+<p style="text-align:justify">W.4.2.6 titanium</p>
 
-<p style="text-align: justify;">W.4.2.7 kobalt</p>
+<p style="text-align:justify">W.4.2.7 kobalt</p>
 
-<p style="text-align: justify;">W.4.2.8 boor<br>
+<p style="text-align:justify">W.4.2.8 boor<br>
 <br>
 W.4.2.9 tin inclusief tindioxide<br>
 <br>
@@ -2930,129 +2930,129 @@ W.4.2.12 aluminium inclusief dialuminiumtrioxide<br>
 <br>
 W.4.2.13 cerium inclusief ceriumdioxide</p>
 
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align: justify;">W.5 algemene verontreinigingsparameters:</p>
+<p style="text-align:justify">W.5 algemene verontreinigingsparameters:</p>
 
-<p style="text-align: justify;">W.5.1 BZV, CZV, Kjeldahlstikstof, bezinkbare stoffen, zwevende stoffen, (totaal) fosfor en totaal stikstof</p>
+<p style="text-align:justify">W.5.1 BZV, CZV, Kjeldahlstikstof, bezinkbare stoffen, zwevende stoffen, (totaal) fosfor en totaal stikstof</p>
 
-<p style="text-align: justify;">W.5.2 minerale olie met gaschromatografie (met vlamionisatiedetectie)</p>
+<p style="text-align:justify">W.5.2 minerale olie met gaschromatografie (met vlamionisatiedetectie)</p>
 
-<p style="text-align: justify;">W.5.3 perchloorethyleenextraheerbare stoffen en perchloorethyleenextraheerbare apolaire stoffen (infraroodspectrometrische bepaling)</p>
+<p style="text-align:justify">W.5.3 perchloorethyleenextraheerbare stoffen en perchloorethyleenextraheerbare apolaire stoffen (infraroodspectrometrische bepaling)</p>
 
-<p style="text-align: justify;">W.5.4 petroleumetherextraheerbare stoffen (gravimetrische bepaling)</p>
+<p style="text-align:justify">W.5.4 petroleumetherextraheerbare stoffen (gravimetrische bepaling)</p>
 
-<p style="text-align: justify;">W.5.5 TOC als verschilmeting (TOC = TC-TIC)</p>
+<p style="text-align:justify">W.5.5 TOC als verschilmeting (TOC = TC-TIC)</p>
 
-<p style="text-align: justify;">W.5.6 TOC als sommeting (TOC = POC + NPOC)</p>
+<p style="text-align:justify">W.5.6 TOC als sommeting (TOC = POC + NPOC)</p>
 
-<p style="text-align: justify;">W.5.7 NPOC</p>
+<p style="text-align:justify">W.5.7 NPOC</p>
 
-<p style="text-align: justify;">W.5.8 totaal cyanide</p>
+<p style="text-align:justify">W.5.8 totaal cyanide</p>
 
-<p style="text-align: justify;">W.5.9 vrije cyanide</p>
+<p style="text-align:justify">W.5.9 vrije cyanide</p>
 
-<p style="text-align: justify;">W.5.10 opgelost sulfide en in zuur milieu oplosbaar sulfide</p>
+<p style="text-align:justify">W.5.10 opgelost sulfide en in zuur milieu oplosbaar sulfide</p>
 
-<p style="text-align: justify;">W.5.11 fenolindex</p>
+<p style="text-align:justify">W.5.11 fenolindex</p>
 
-<p style="text-align: justify;">W.5.12 chroom VI</p>
+<p style="text-align:justify">W.5.12 chroom VI</p>
 
-<p style="text-align: justify;">W.5.13 ...</p>
+<p style="text-align:justify">W.5.13 ...</p>
 
-<p style="text-align: justify;">W.5.14 ...</p>
+<p style="text-align:justify">W.5.14 ...</p>
 
-<p style="text-align: justify;">W.5.15 ...</p>
+<p style="text-align:justify">W.5.15 ...</p>
 
-<p style="text-align: justify;">W.5.16 oxideerbaarheid</p>
+<p style="text-align:justify">W.5.16 oxideerbaarheid</p>
 
-<p style="text-align: justify;">W.5.17 ureum</p>
+<p style="text-align:justify">W.5.17 ureum</p>
 
-<p style="text-align: justify;">W.5.18 bromaat</p>
+<p style="text-align:justify">W.5.18 bromaat</p>
 
-<p style="text-align: justify;">W.5.19 kleur van afvalwater</p>
+<p style="text-align:justify">W.5.19 kleur van afvalwater</p>
 
-<p style="text-align: justify;">.6 organische groepsparameters :<br>
+<p style="text-align:justify">.6 organische groepsparameters :<br>
 W.6.1 extraheerbare organische halogeenverbindingen (EOX)<br>
 W.6.2 adsorbeerbare organische halogeenverbindingen (AOX)<br>
 W.6.3 purgeerbare organische halogeenverbindingen (POX)<br>
 &nbsp;</p>
 
-<p style="text-align: justify;">W. 7 specifieke organische stoffen:</p>
+<p style="text-align:justify">W. 7 specifieke organische stoffen:</p>
 
-<p style="text-align: justify;">W.7.1 vluchtige organische halogeenverbindingen en monocyclische aromatische koolwaterstoffen</p>
+<p style="text-align:justify">W.7.1 vluchtige organische halogeenverbindingen en monocyclische aromatische koolwaterstoffen</p>
 
-<p style="text-align: justify;">W.7.2 matig vluchtige organische halogeenverbindingen, uitgezonderd polychloorbifenylen en organochloorpesticiden</p>
+<p style="text-align:justify">W.7.2 matig vluchtige organische halogeenverbindingen, uitgezonderd polychloorbifenylen en organochloorpesticiden</p>
 
-<p style="text-align: justify;">W.7.3 fenolen</p>
+<p style="text-align:justify">W.7.3 fenolen</p>
 
-<p style="text-align: justify;">W.7.5 polychloorbifenylen</p>
+<p style="text-align:justify">W.7.5 polychloorbifenylen</p>
 
-<p style="text-align: justify;">W.7.6 polycyclische aromatische koolwaterstoffen</p>
+<p style="text-align:justify">W.7.6 polycyclische aromatische koolwaterstoffen</p>
 
-<p style="text-align: justify;">W.7.7 polychloordibenzodioxines en polychloordibenzofuranen</p>
+<p style="text-align:justify">W.7.7 polychloordibenzodioxines en polychloordibenzofuranen</p>
 
-<p style="text-align: justify;">W.7.8 gebromeerde brandvertragers</p>
+<p style="text-align:justify">W.7.8 gebromeerde brandvertragers</p>
 
-<p style="text-align: justify;">W.7.9 organofluorverbindingen</p>
+<p style="text-align:justify">W.7.9 organofluorverbindingen</p>
 
-<p style="text-align: justify;">W. 7.10 organotinverbindingen</p>
+<p style="text-align:justify">W. 7.10 organotinverbindingen</p>
 
-<p style="text-align: justify;">W.7.11 organochloorpesticiden</p>
+<p style="text-align:justify">W.7.11 organochloorpesticiden</p>
 
-<p style="text-align: justify;">W. 7. 12 organofosforpesticiden</p>
+<p style="text-align:justify">W. 7. 12 organofosforpesticiden</p>
 
-<p style="text-align: justify;">W. 7 .13 triazinetype herbiciden</p>
+<p style="text-align:justify">W. 7 .13 triazinetype herbiciden</p>
 
-<p style="text-align: justify;">W. 7.14 uronen (fenylurea), carbamaten en anilides</p>
+<p style="text-align:justify">W. 7.14 uronen (fenylurea), carbamaten en anilides</p>
 
-<p style="text-align: justify;">W. 7 .15 zure herbiciden</p>
+<p style="text-align:justify">W. 7 .15 zure herbiciden</p>
 
-<p style="text-align: justify;">W.7.16 glyfosaat en AMPA</p>
+<p style="text-align:justify">W.7.16 glyfosaat en AMPA</p>
 
-<p style="text-align: justify;">W.7.17 pesticiden, opgenomen in WAC/IV/A/027 of WAC/IV/A/028, die niet behoren tot de overige pakketten onder W. 7.</p>
+<p style="text-align:justify">W.7.17 pesticiden, opgenomen in WAC/IV/A/027 of WAC/IV/A/028, die niet behoren tot de overige pakketten onder W. 7.</p>
 
-<p style="text-align: justify;">W. 7. 19 ...<br>
+<p style="text-align:justify">W. 7. 19 ...<br>
 <br>
 W.7.20 ftalaten</p>
 
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align: justify;">W.8 bacteriologische parameters:</p>
+<p style="text-align:justify">W.8 bacteriologische parameters:</p>
 
-<p style="text-align: justify;">W.8.1 totaal kiemgetal (22 ° C, 36 ° C), coliformen, Escherichia coli en enterokokken</p>
+<p style="text-align:justify">W.8.1 totaal kiemgetal (22 ° C, 36 ° C), coliformen, Escherichia coli en enterokokken</p>
 
-<p style="text-align: justify;">W.8.2 Salmonella</p>
+<p style="text-align:justify">W.8.2 Salmonella</p>
 
-<p style="text-align: justify;">W.8.3 <em>Legionella pneumophila</em> en <em>Legionella species</em></p>
+<p style="text-align:justify">W.8.3 <em>Legionella pneumophila</em> en <em>Legionella species</em></p>
 
-<p style="text-align: justify;">W.8.4 Coagulase positieve stafylokokken</p>
+<p style="text-align:justify">W.8.4 Coagulase positieve stafylokokken</p>
 
-<p style="text-align: justify;">W.8.5 <em>Clostridium perfringens</em></p>
+<p style="text-align:justify">W.8.5 <em>Clostridium perfringens</em></p>
 
-<p style="text-align: justify;">W.8.6 <em>Pseudomonas aeruginosa</em></p>
+<p style="text-align:justify">W.8.6 <em>Pseudomonas aeruginosa</em></p>
 
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align: justify;">W.9 hydrobiologische parameters:</p>
+<p style="text-align:justify">W.9 hydrobiologische parameters:</p>
 
-<p style="text-align: justify;">W.9.1 biodiversiteitsindexen: Belgische biotische index (BBI) en multimetrische macro-invertebratenindex Vlaanderen (MMIF)</p>
+<p style="text-align:justify">W.9.1 biodiversiteitsindexen: Belgische biotische index (BBI) en multimetrische macro-invertebratenindex Vlaanderen (MMIF)</p>
 
-<p style="text-align: justify;">W.9.2 ecotoxiciteit:</p>
+<p style="text-align:justify">W.9.2 ecotoxiciteit:</p>
 
-<p style="text-align: justify;">W.9.2.1 acute toxiciteit voor watervlooien</p>
+<p style="text-align:justify">W.9.2.1 acute toxiciteit voor watervlooien</p>
 
-<p style="text-align: justify;">W.9.2.2 acute toxiciteit voor vissen</p>
+<p style="text-align:justify">W.9.2.2 acute toxiciteit voor vissen</p>
 
-<p style="text-align: justify;">W.9.2.3 groei-inhibitie voor eencellige algen</p>
+<p style="text-align:justify">W.9.2.3 groei-inhibitie voor eencellige algen</p>
 
-<p style="text-align: justify;">W.9.2.4 inhibitie van de bioluminescentie in <em>Vibrio fischeri</em><br>
+<p style="text-align:justify">W.9.2.4 inhibitie van de bioluminescentie in <em>Vibrio fischeri</em><br>
 <br>
 W.9.2.5 elimineerbaarheid via de Zahn-Wellens test</p>
 
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align: justify;">W.10 andere monsternemingen, analyses, metingen of beproevingen :<br>
+<p style="text-align:justify">W.10 andere monsternemingen, analyses, metingen of beproevingen :<br>
 W.10.1 chlorofyl A<br>
 W.10.2 kwalitatieve karakterisatie van minerale olie met GC-MS<br>
 W.10.3 oppervlakteactieve stoffen<br>
@@ -3060,345 +3060,345 @@ W.10.3.1 kationische oppervlakteactieve stoffen<br>
 W.10.3.2 anionische oppervlakteactieve stoffen<br>
 W.10.3.3 niet-ionogene oppervlakteactieve stoffen</p>
 
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align: justify;"><u>2° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, b):</u></p>
+<p style="text-align:justify"><u>2° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, b):</u></p>
 
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align: justify;">L.1 monsterneming en analyse met testbuisjes van afgassen (emissie) en omgevingslucht (immissie) in daartoe geëigende situaties</p>
+<p style="text-align:justify">L.1 monsterneming en analyse met testbuisjes van afgassen (emissie) en omgevingslucht (immissie) in daartoe geëigende situaties</p>
 
-<p style="text-align: justify;">L.2 emissiemetingen - basispakket: rookgastemperatuur, druk, watergehalte, gassnelheid, gasdebiet, stofgehalte in een gaskanaal en een continue meting van zwaveldioxide, stikstofoxide, zuurstof, koolstofdioxide, koolstofmonoxide en vluchtige organische componenten als totaal organische koolstof</p>
+<p style="text-align:justify">L.2 emissiemetingen - basispakket: rookgastemperatuur, druk, watergehalte, gassnelheid, gasdebiet, stofgehalte in een gaskanaal en een continue meting van zwaveldioxide, stikstofoxide, zuurstof, koolstofdioxide, koolstofmonoxide en vluchtige organische componenten als totaal organische koolstof</p>
 
-<p style="text-align: justify;">L.3 emissiemetingen - stookinstallaties tot 10 MW: rookgastemperatuur, druk, watergehalte, gassnelheid, gasdebiet, stofgehalte in een gaskanaal en een continue meting van zwaveldioxide, stikstofoxide, zuurstof, koolstofdioxide en koolstofmonoxide</p>
+<p style="text-align:justify">L.3 emissiemetingen - stookinstallaties tot 10 MW: rookgastemperatuur, druk, watergehalte, gassnelheid, gasdebiet, stofgehalte in een gaskanaal en een continue meting van zwaveldioxide, stikstofoxide, zuurstof, koolstofdioxide en koolstofmonoxide</p>
 
-<p style="text-align: justify;">L.4 emissiemetingen - monsterneming en analyse van zware metalen:</p>
+<p style="text-align:justify">L.4 emissiemetingen - monsterneming en analyse van zware metalen:</p>
 
-<p style="text-align: justify;">L.4.1 Cd, Tl, As, Sb, Pb, Cr, Co, Cu, Mn, Ni, V, Se, Sn en Hg als totaalgehalte (als som van stof- en gasvormig) en als gehalte stofvormig</p>
+<p style="text-align:justify">L.4.1 Cd, Tl, As, Sb, Pb, Cr, Co, Cu, Mn, Ni, V, Se, Sn en Hg als totaalgehalte (als som van stof- en gasvormig) en als gehalte stofvormig</p>
 
-<p style="text-align: justify;">L.4.2 andere metalen, als totaalgehalte (als som van stof- en gasvormig):</p>
+<p style="text-align:justify">L.4.2 andere metalen, als totaalgehalte (als som van stof- en gasvormig):</p>
 
-<p style="text-align: justify;">L.4.2.1 Be</p>
+<p style="text-align:justify">L.4.2.1 Be</p>
 
-<p style="text-align: justify;">L.4.2.2 Ti</p>
+<p style="text-align:justify">L.4.2.2 Ti</p>
 
-<p style="text-align: justify;">L.4.2.3 In</p>
+<p style="text-align:justify">L.4.2.3 In</p>
 
-<p style="text-align: justify;">L.4.2.4 Mo</p>
+<p style="text-align:justify">L.4.2.4 Mo</p>
 
-<p style="text-align: justify;">De pakketten onder L.4.2 zijn telkens een uitbreiding van pakket L.4.1.</p>
+<p style="text-align:justify">De pakketten onder L.4.2 zijn telkens een uitbreiding van pakket L.4.1.</p>
 
-<p style="text-align: justify;">L 4.3 Pt (gehalte stofvormig)</p>
+<p style="text-align:justify">L 4.3 Pt (gehalte stofvormig)</p>
 
-<p style="text-align: justify;">Pakket L.4.3 is een uitbreiding van pakket L.4.1.</p>
+<p style="text-align:justify">Pakket L.4.3 is een uitbreiding van pakket L.4.1.</p>
 
-<p style="text-align: justify;">L.4.4 specifieke metaalverbindingen:</p>
+<p style="text-align:justify">L.4.4 specifieke metaalverbindingen:</p>
 
-<p style="text-align: justify;">L.4.4.1 arseenwaterstof</p>
+<p style="text-align:justify">L.4.4.1 arseenwaterstof</p>
 
-<p style="text-align: justify;">L.4.4.2 Cr(Vl)-verbindingen zoals calciumchromaat</p>
+<p style="text-align:justify">L.4.4.2 Cr(Vl)-verbindingen zoals calciumchromaat</p>
 
-<p style="text-align: justify;">L.4.4.3 Cr(lll)-chromaat, zinkchromaat en strontiumchromaat</p>
+<p style="text-align:justify">L.4.4.3 Cr(lll)-chromaat, zinkchromaat en strontiumchromaat</p>
 
-<p style="text-align: justify;">L.4.4.4 arseentrioxide en arseenpentoxide</p>
+<p style="text-align:justify">L.4.4.4 arseentrioxide en arseenpentoxide</p>
 
-<p style="text-align: justify;">L.4.4.5 arseenzuren en hun zouten</p>
+<p style="text-align:justify">L.4.4.5 arseenzuren en hun zouten</p>
 
-<p style="text-align: justify;">De pakketten onder L.4.4 zijn telkens een uitbreiding van pakket L.4.1.</p>
+<p style="text-align:justify">De pakketten onder L.4.4 zijn telkens een uitbreiding van pakket L.4.1.</p>
 
-<p style="text-align: justify;">L.5 emissiemetingen - monsterneming en analyse van anorganische stoffen:</p>
+<p style="text-align:justify">L.5 emissiemetingen - monsterneming en analyse van anorganische stoffen:</p>
 
-<p style="text-align: justify;">L.5.1 gasvormige anorganische chloorverbindingen als HCl";</p>
+<p style="text-align:justify">L.5.1 gasvormige anorganische chloorverbindingen als HCl";</p>
 
-<p style="text-align: justify;">L.5.2 natchemische bepaling van zwaveloxiden SOx</p>
+<p style="text-align:justify">L.5.2 natchemische bepaling van zwaveloxiden SOx</p>
 
-<p style="text-align: justify;">L.5.3 chloor</p>
+<p style="text-align:justify">L.5.3 chloor</p>
 
-<p style="text-align: justify;">L.5.4 NH<sub>3</sub></p>
+<p style="text-align:justify">L.5.4 NH<sub>3</sub></p>
 
-<p style="text-align: justify;">L.5.5 waterstofsulfide</p>
+<p style="text-align:justify">L.5.5 waterstofsulfide</p>
 
-<p style="text-align: justify;">L.5.6 broom en zijn damp- of gasvormige verbindingen, uitgedrukt als HBr</p>
+<p style="text-align:justify">L.5.6 broom en zijn damp- of gasvormige verbindingen, uitgedrukt als HBr</p>
 
-<p style="text-align: justify;">L.5.7 cyaanwaterstof</p>
+<p style="text-align:justify">L.5.7 cyaanwaterstof</p>
 
-<p style="text-align: justify;">L.5.8 N<sub>2</sub>0</p>
+<p style="text-align:justify">L.5.8 N<sub>2</sub>0</p>
 
-<p style="text-align: justify;">L.5.9 bemonstering van stofdeeltjes met specifieke grootte (PM10 en PM2,5)</p>
+<p style="text-align:justify">L.5.9 bemonstering van stofdeeltjes met specifieke grootte (PM10 en PM2,5)</p>
 
-<p style="text-align: justify;">L.5.10 chloorcyaan</p>
+<p style="text-align:justify">L.5.10 chloorcyaan</p>
 
-<p style="text-align: justify;">L.5.11 fosgeen</p>
+<p style="text-align:justify">L.5.11 fosgeen</p>
 
-<p style="text-align: justify;">L.5.12 fosforwaterstof</p>
+<p style="text-align:justify">L.5.12 fosforwaterstof</p>
 
-<p style="text-align: justify;">L.5.13 hydrazine</p>
+<p style="text-align:justify">L.5.13 hydrazine</p>
 
-<p style="text-align: justify;">L.5.14 natchemische bepaling van zwaveltrioxide SO<sub><span style="font-size: small;">3</span></sub>:<br>
+<p style="text-align:justify">L.5.14 natchemische bepaling van zwaveltrioxide SO<sub><span style="font-size:small">3</span></sub>:<br>
 L.5.14.1: voor procesemissies<br>
 L.5.14.2: voor verbrandingsgassen</p>
 
-<p style="text-align: justify;">L.5.15 gasvormige anorganische fluorverbindingen als HF<br>
+<p style="text-align:justify">L.5.15 gasvormige anorganische fluorverbindingen als HF<br>
 <br>
 L.6. emissiemetingen - monsterneming en analyse van vluchtige organische stoffen (VOS) - basispakket VOS: aromatische koolwaterstoffen, paraffinische koolwaterstoffen, alifatische halogeenkoolwaterstoffen, esters, ketonen, alcoholen en ethers</p>
 
-<p style="text-align: justify;">L.7. emissiemetingen - monsterneming en analyse van organische stoffen:</p>
+<p style="text-align:justify">L.7. emissiemetingen - monsterneming en analyse van organische stoffen:</p>
 
-<p style="text-align: justify;">L. 7 .1 olefinische koolwaterstoffen</p>
+<p style="text-align:justify">L. 7 .1 olefinische koolwaterstoffen</p>
 
-<p style="text-align: justify;">L. 7 .2 glycolethers</p>
+<p style="text-align:justify">L. 7 .2 glycolethers</p>
 
-<p style="text-align: justify;">L. 7 .3 chloorbenzenen en chloortoluenen</p>
+<p style="text-align:justify">L. 7 .3 chloorbenzenen en chloortoluenen</p>
 
-<p style="text-align: justify;">L. 7.4 methylmethacrylaat</p>
+<p style="text-align:justify">L. 7.4 methylmethacrylaat</p>
 
-<p style="text-align: justify;">L.7.5 naftaleen</p>
+<p style="text-align:justify">L.7.5 naftaleen</p>
 
-<p style="text-align: justify;">L.7.6 dimethylformamide</p>
+<p style="text-align:justify">L.7.6 dimethylformamide</p>
 
-<p style="text-align: justify;">L. 7. 7 pinenen</p>
+<p style="text-align:justify">L. 7. 7 pinenen</p>
 
-<p style="text-align: justify;">L.7.8 N-methylpyrrolidon</p>
+<p style="text-align:justify">L.7.8 N-methylpyrrolidon</p>
 
-<p style="text-align: justify;">De pakketten onder L.7 zijn telkens een uitbreiding van pakket L.6.</p>
+<p style="text-align:justify">De pakketten onder L.7 zijn telkens een uitbreiding van pakket L.6.</p>
 
-<p style="text-align: justify;">L.8. emissiemetingen - monsterneming en analyse van zeer vluchtige organische stoffen (ZVOS):</p>
+<p style="text-align:justify">L.8. emissiemetingen - monsterneming en analyse van zeer vluchtige organische stoffen (ZVOS):</p>
 
-<p style="text-align: justify;">L.8.1 ZVOS met uitzondering van methaan, ethyleenoxide en vinylchloride</p>
+<p style="text-align:justify">L.8.1 ZVOS met uitzondering van methaan, ethyleenoxide en vinylchloride</p>
 
-<p style="text-align: justify;">L.8.2 methaan</p>
+<p style="text-align:justify">L.8.2 methaan</p>
 
-<p style="text-align: justify;">L.8.3 ethyleenoxide</p>
+<p style="text-align:justify">L.8.3 ethyleenoxide</p>
 
-<p style="text-align: justify;">L.8.4 vinylchloride</p>
+<p style="text-align:justify">L.8.4 vinylchloride</p>
 
-<p style="text-align: justify;">L.9. emissiemetingen - monsterneming en analyse van weinig vluchtige organische stoffen:</p>
+<p style="text-align:justify">L.9. emissiemetingen - monsterneming en analyse van weinig vluchtige organische stoffen:</p>
 
-<p style="text-align: justify;">L.9.1 dioxines (PCDD's en PCDF's)</p>
+<p style="text-align:justify">L.9.1 dioxines (PCDD's en PCDF's)</p>
 
-<p style="text-align: justify;">L.9.2 dioxineachtige PCB's</p>
+<p style="text-align:justify">L.9.2 dioxineachtige PCB's</p>
 
-<p style="text-align: justify;">L.9.3 PCB's</p>
+<p style="text-align:justify">L.9.3 PCB's</p>
 
-<p style="text-align: justify;">L.9.4 polyaromatische koolwaterstoffen (PAK's)</p>
+<p style="text-align:justify">L.9.4 polyaromatische koolwaterstoffen (PAK's)</p>
 
-<p style="text-align: justify;">De pakketten onder L.9 zijn telkens een uitbreiding van pakket L.2.</p>
+<p style="text-align:justify">De pakketten onder L.9 zijn telkens een uitbreiding van pakket L.2.</p>
 
-<p style="text-align: justify;">L.10. emissiemetingen - monsterneming en analyse van reactieve organische stoffen:</p>
+<p style="text-align:justify">L.10. emissiemetingen - monsterneming en analyse van reactieve organische stoffen:</p>
 
-<p style="text-align: justify;">L.10.1 formaldehyde</p>
+<p style="text-align:justify">L.10.1 formaldehyde</p>
 
-<p style="text-align: justify;">L.10.2 andere aldehydes dan formaldehyde</p>
+<p style="text-align:justify">L.10.2 andere aldehydes dan formaldehyde</p>
 
-<p style="text-align: justify;">L.10.3 fenol</p>
+<p style="text-align:justify">L.10.3 fenol</p>
 
-<p style="text-align: justify;">L.10.4 alifatische amines</p>
+<p style="text-align:justify">L.10.4 alifatische amines</p>
 
-<p style="text-align: justify;">L.10.5 zwavelkoolstof</p>
+<p style="text-align:justify">L.10.5 zwavelkoolstof</p>
 
-<p style="text-align: justify;">L.10.6 carbonzuren</p>
+<p style="text-align:justify">L.10.6 carbonzuren</p>
 
-<p style="text-align: justify;">L.10. 7 isocyanaten</p>
+<p style="text-align:justify">L.10. 7 isocyanaten</p>
 
-<p style="text-align: justify;">L.10.8 maleïnezuuranhydride</p>
+<p style="text-align:justify">L.10.8 maleïnezuuranhydride</p>
 
-<p style="text-align: justify;">L.10.9 thio-alcoholen (mercaptanen) en thio-ethers</p>
+<p style="text-align:justify">L.10.9 thio-alcoholen (mercaptanen) en thio-ethers</p>
 
-<p style="text-align: justify;">L.11. bepaling van niet-geleide emissies:</p>
+<p style="text-align:justify">L.11. bepaling van niet-geleide emissies:</p>
 
-<p style="text-align: justify;">L.11.1 uitvoeren van lekdetectieprogramma's (LDAR) en emissiebepaling</p>
+<p style="text-align:justify">L.11.1 uitvoeren van lekdetectieprogramma's (LDAR) en emissiebepaling</p>
 
-<p style="text-align: justify;">L.11.2 meting van andere diffuse bronnen: te specificeren</p>
+<p style="text-align:justify">L.11.2 meting van andere diffuse bronnen: te specificeren</p>
 
-<p style="text-align: justify;">Pakket L.11.2 is een uitbreiding van een pakket onder L.4, L.5, L.6, L.7, L.8, L.9, L.10, L.15 en L.17.<br>
+<p style="text-align:justify">Pakket L.11.2 is een uitbreiding van een pakket onder L.4, L.5, L.6, L.7, L.8, L.9, L.10, L.15 en L.17.<br>
 <br>
 L.11.3 gebruik van Optical Gas Imaging bij lekdetectie</p>
 
-<p style="text-align: justify;">L.12. immissiemetingen:</p>
+<p style="text-align:justify">L.12. immissiemetingen:</p>
 
-<p style="text-align: justify;">L.12.1 de continue meting van zwaveldioxide, stikstofoxiden, koolstofmonoxide, ozon en zwevend stof met specifieke groottekarakteristiek PM10 en PM2,s</p>
+<p style="text-align:justify">L.12.1 de continue meting van zwaveldioxide, stikstofoxiden, koolstofmonoxide, ozon en zwevend stof met specifieke groottekarakteristiek PM10 en PM2,s</p>
 
-<p style="text-align: justify;">L.12.2 bepaling van neervallend stof</p>
+<p style="text-align:justify">L.12.2 bepaling van neervallend stof</p>
 
-<p style="text-align: justify;">L.12.3 bepaling van de volgende metalen in neervallend stof en zwevend stof: Cd, Tl, As, Sb, Pb, Cr, Co, Cu, Mn, Ni, V, Se, Sn en Hg</p>
+<p style="text-align:justify">L.12.3 bepaling van de volgende metalen in neervallend stof en zwevend stof: Cd, Tl, As, Sb, Pb, Cr, Co, Cu, Mn, Ni, V, Se, Sn en Hg</p>
 
-<p style="text-align: justify;">L.12.4 bepaling van gasvormig kwik in omgevingslucht</p>
+<p style="text-align:justify">L.12.4 bepaling van gasvormig kwik in omgevingslucht</p>
 
-<p style="text-align: justify;">L.13. immissiemetingen - monsterneming en analyse van vluchtige en zeer vluchtige stoffen ((Z)VOS) in omgevingslucht:</p>
+<p style="text-align:justify">L.13. immissiemetingen - monsterneming en analyse van vluchtige en zeer vluchtige stoffen ((Z)VOS) in omgevingslucht:</p>
 
-<p style="text-align: justify;">L. 13. 1 benzeen</p>
+<p style="text-align:justify">L. 13. 1 benzeen</p>
 
-<p style="text-align: justify;">L.13.2 vinylchloride</p>
+<p style="text-align:justify">L.13.2 vinylchloride</p>
 
-<p style="text-align: justify;">L.14. immissiemetingen - monsterneming en analyse van organische stoffen en andere stoffen:</p>
+<p style="text-align:justify">L.14. immissiemetingen - monsterneming en analyse van organische stoffen en andere stoffen:</p>
 
-<p style="text-align: justify;">L.14.1 vluchtige polycyclische aromatische koolwaterstoffen (PAK's) naftaleen, acenafteen, acenaftyleen, fenantheen, antraceen en fluoreen</p>
+<p style="text-align:justify">L.14.1 vluchtige polycyclische aromatische koolwaterstoffen (PAK's) naftaleen, acenafteen, acenaftyleen, fenantheen, antraceen en fluoreen</p>
 
-<p style="text-align: justify;">L.14.2 niet-vluchtige polycyclische aromatische koolwaterstoffen (PAK's):</p>
+<p style="text-align:justify">L.14.2 niet-vluchtige polycyclische aromatische koolwaterstoffen (PAK's):</p>
 
-<p style="text-align: justify;">fluorantheen, pyreen, benzo(a)antraceen, chryseen, benzo(b)fluorantheen, benzo(k)fluorantheen, benzo(a)pyreen,</p>
+<p style="text-align:justify">fluorantheen, pyreen, benzo(a)antraceen, chryseen, benzo(b)fluorantheen, benzo(k)fluorantheen, benzo(a)pyreen,</p>
 
-<p style="text-align: justify;">benzo(g,h,i)peryleen, indeno(1,2,3,c,d)pyreen en dibenzo( a, h )anthraceen</p>
+<p style="text-align:justify">benzo(g,h,i)peryleen, indeno(1,2,3,c,d)pyreen en dibenzo( a, h )anthraceen</p>
 
-<p style="text-align: justify;">L.14.3 dioxines (PCDD's en PCDF's):</p>
+<p style="text-align:justify">L.14.3 dioxines (PCDD's en PCDF's):</p>
 
-<p style="text-align: justify;">L.14.3.1 gesuspendeerd in omgevingslucht of als gas</p>
+<p style="text-align:justify">L.14.3.1 gesuspendeerd in omgevingslucht of als gas</p>
 
-<p style="text-align: justify;">L.14.3.2 als depositie in neerslagkruik</p>
+<p style="text-align:justify">L.14.3.2 als depositie in neerslagkruik</p>
 
-<p style="text-align: justify;">L.14.4 PCB's</p>
+<p style="text-align:justify">L.14.4 PCB's</p>
 
-<p style="text-align: justify;">L.14.5 dioxineachtige PCB's</p>
+<p style="text-align:justify">L.14.5 dioxineachtige PCB's</p>
 
-<p style="text-align: justify;">L.14.6 BTEX: veldmeting met automatische monitoren</p>
+<p style="text-align:justify">L.14.6 BTEX: veldmeting met automatische monitoren</p>
 
-<p style="text-align: justify;">L.14.7 HFenHCI</p>
+<p style="text-align:justify">L.14.7 HFenHCI</p>
 
-<p style="text-align: justify;">L.14.8 S0<sub>2</sub>, N0<sub>2</sub>, O<sub>3</sub> en BTEX door middel van passieve samplers en</p>
+<p style="text-align:justify">L.14.8 S0<sub>2</sub>, N0<sub>2</sub>, O<sub>3</sub> en BTEX door middel van passieve samplers en</p>
 
-<p style="text-align: justify;">analyse</p>
+<p style="text-align:justify">analyse</p>
 
-<p style="text-align: justify;">L.14.9 NH<sub>3</sub></p>
+<p style="text-align:justify">L.14.9 NH<sub>3</sub></p>
 
-<p style="text-align: justify;">L.15 bepaling van de belasting aan asbestvezels en andere vezels in omgevingslucht met behulp van elektronenmicroscopie</p>
+<p style="text-align:justify">L.15 bepaling van de belasting aan asbestvezels en andere vezels in omgevingslucht met behulp van elektronenmicroscopie</p>
 
-<p style="text-align: justify;">L.16 keuring en kalibratie van vast opgestelde apparatuur voor de volgende metingen en bemonsteringen in emissies:</p>
+<p style="text-align:justify">L.16 keuring en kalibratie van vast opgestelde apparatuur voor de volgende metingen en bemonsteringen in emissies:</p>
 
-<p style="text-align: justify;">L.16.1 anorganische gasvormige componenten:</p>
+<p style="text-align:justify">L.16.1 anorganische gasvormige componenten:</p>
 
-<p style="text-align: justify;">L.16.1.1 O<sub>2</sub></p>
+<p style="text-align:justify">L.16.1.1 O<sub>2</sub></p>
 
-<p style="text-align: justify;">L.16.1.2 CO</p>
+<p style="text-align:justify">L.16.1.2 CO</p>
 
-<p style="text-align: justify;">L.16.1.3 NO<sub>x</sub></p>
+<p style="text-align:justify">L.16.1.3 NO<sub>x</sub></p>
 
-<p style="text-align: justify;">L.16.1.4 S0<sub>2</sub></p>
+<p style="text-align:justify">L.16.1.4 S0<sub>2</sub></p>
 
-<p style="text-align: justify;">L.16.1.5 HCl</p>
+<p style="text-align:justify">L.16.1.5 HCl</p>
 
-<p style="text-align: justify;">L.16.1.6 HF</p>
+<p style="text-align:justify">L.16.1.6 HF</p>
 
-<p style="text-align: justify;">L.16.1.7 NH<sub>3</sub></p>
+<p style="text-align:justify">L.16.1.7 NH<sub>3</sub></p>
 
-<p style="text-align: justify;">L.16.1.8 N<sub>2</sub>O</p>
+<p style="text-align:justify">L.16.1.8 N<sub>2</sub>O</p>
 
-<p style="text-align: justify;">L.16.1.9 Hg</p>
+<p style="text-align:justify">L.16.1.9 Hg</p>
 
-<p style="text-align: justify;">L.16.1.10 Cl<sub>2</sub></p>
+<p style="text-align:justify">L.16.1.10 Cl<sub>2</sub></p>
 
-<p style="text-align: justify;">L.16.2 stof</p>
+<p style="text-align:justify">L.16.2 stof</p>
 
-<p style="text-align: justify;">L.16.3 organische gasvormige componenten:</p>
+<p style="text-align:justify">L.16.3 organische gasvormige componenten:</p>
 
-<p style="text-align: justify;">L.16.3.1 TOC via FID</p>
+<p style="text-align:justify">L.16.3.1 TOC via FID</p>
 
-<p style="text-align: justify;">L.16.3.2 fosgeen</p>
+<p style="text-align:justify">L.16.3.2 fosgeen</p>
 
-<p style="text-align: justify;">L.16.4 langetermijnbemonstering van dioxines en PCB's</p>
+<p style="text-align:justify">L.16.4 langetermijnbemonstering van dioxines en PCB's</p>
 
-<p style="text-align: justify;">De pakketten onder L.16 zijn telkens een uitbreiding van pakket L.2 en van een pakket dat de desbetreffende parameter bevat.</p>
+<p style="text-align:justify">De pakketten onder L.16 zijn telkens een uitbreiding van pakket L.2 en van een pakket dat de desbetreffende parameter bevat.</p>
 
-<p style="text-align: justify;">L.17 nemen van geurmonsters en uitvoeren van geuranalyses door middel van olfactometrie</p>
+<p style="text-align:justify">L.17 nemen van geurmonsters en uitvoeren van geuranalyses door middel van olfactometrie</p>
 
-<p style="text-align: justify;">L.18 bepaling van geurverspreiding door middel van snuffelploegmetingen</p>
+<p style="text-align:justify">L.18 bepaling van geurverspreiding door middel van snuffelploegmetingen</p>
 
-<p style="text-align: justify;">L.19 meting van het NH3-verwijderingsrendement van gaswassers, opgenomen in de lijst van ammoniakemissiearme stalsystemen<br>
+<p style="text-align:justify">L.19 meting van het NH3-verwijderingsrendement van gaswassers, opgenomen in de lijst van ammoniakemissiearme stalsystemen<br>
 <br>
 L.20 monsterneming en analyse van trichlooramine in zwembadlucht<br>
 <br>
 L.21 monsterneming en analyse van tetrachlooretheen in de lucht van textielreinigingsmachines die gebruikmaken van tetrachlooretheen als reinigingsmiddel<br>
 <br>
-L.22 bepaling van het geurverwijderingsrendement van gaswassers en biofilters bij stallen</p>
+L.22 bepaling van het geurverwijderingsrendement van gaswassers en biofilters bij stallen. Het pakket L.22 is een uitbreiding van het pakket L.17.</p>
 
-<p style="text-align: justify;"><br>
+<p style="text-align:justify"><br>
 <u>3° pakket voor een laboratorium als vermeld in artikel 6, 5°, c): uitvoering van de volgende monsternemingen en bodemanalyses:</u></p>
 
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align: justify;">a) monsterneming en analyse van het organische koolstofgehalte(% OC) van de</p>
+<p style="text-align:justify">a) monsterneming en analyse van het organische koolstofgehalte(% OC) van de</p>
 
-<p style="text-align: justify;">bodem</p>
+<p style="text-align:justify">bodem</p>
 
-<p style="text-align: justify;">b) monsterneming en analyse van de zuurtegraad (pH) van de bodem</p>
+<p style="text-align:justify">b) monsterneming en analyse van de zuurtegraad (pH) van de bodem</p>
 
-<p style="text-align: justify;">c) bepaling van de bodemtextuur op een van de volgende manieren:</p>
+<p style="text-align:justify">c) bepaling van de bodemtextuur op een van de volgende manieren:</p>
 
-<p style="text-align: justify;">1) volgens de handmatige bepaling;</p>
+<p style="text-align:justify">1) volgens de handmatige bepaling;</p>
 
-<p style="text-align: justify;">2) volgens de granulometrische bepaling;</p>
+<p style="text-align:justify">2) volgens de granulometrische bepaling;</p>
 
-<p style="text-align: justify;">3) volgens de handmatige en de granulometrische bepaling.</p>
+<p style="text-align:justify">3) volgens de handmatige en de granulometrische bepaling.</p>
 
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align: justify;">4° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, d):</p>
+<p style="text-align:justify">4° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, d):</p>
 
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align: justify;">M-B1. pakket bodem-stikstof, voor het nemen van bodemmonsters en het uitvoeren</p>
+<p style="text-align:justify">M-B1. pakket bodem-stikstof, voor het nemen van bodemmonsters en het uitvoeren</p>
 
-<p style="text-align: justify;">van de volgende analyses op de bodem:</p>
+<p style="text-align:justify">van de volgende analyses op de bodem:</p>
 
-<p style="text-align: justify;">a) bepaling van het vochtgehalte;</p>
+<p style="text-align:justify">a) bepaling van het vochtgehalte;</p>
 
-<p style="text-align: justify;">b) bepaling van nitraatstikstof;</p>
+<p style="text-align:justify">b) bepaling van nitraatstikstof;</p>
 
-<p style="text-align: justify;">c) bepaling van ammoniumstikstof.</p>
+<p style="text-align:justify">c) bepaling van ammoniumstikstof.</p>
 
-<p style="text-align: justify;">M-B2. pakket snel vrijkomende organische stikstof, voor het nemen van monsters,</p>
+<p style="text-align:justify">M-B2. pakket snel vrijkomende organische stikstof, voor het nemen van monsters,</p>
 
-<p style="text-align: justify;">het uitvoeren van incubatieproeven en het uitvoeren van de volgende analyses voor</p>
+<p style="text-align:justify">het uitvoeren van incubatieproeven en het uitvoeren van de volgende analyses voor</p>
 
-<p style="text-align: justify;">het bepalen van de stikstofmineralisatie uit organische meststoffen:</p>
+<p style="text-align:justify">het bepalen van de stikstofmineralisatie uit organische meststoffen:</p>
 
-<p style="text-align: justify;">a) bepaling van het vochtgehalte van de bodem;</p>
+<p style="text-align:justify">a) bepaling van het vochtgehalte van de bodem;</p>
 
-<p style="text-align: justify;">b) ...;</p>
+<p style="text-align:justify">b) ...;</p>
 
-<p style="text-align: justify;">c) bepaling van ammoniumstikstof in de bodem;</p>
+<p style="text-align:justify">c) bepaling van ammoniumstikstof in de bodem;</p>
 
-<p style="text-align: justify;">d) bepaling van nitraatstikstof in de bodem.</p>
+<p style="text-align:justify">d) bepaling van nitraatstikstof in de bodem.</p>
 
-<p style="text-align: justify;">Dit pakket is een uitbreiding van pakket M-B1.</p>
+<p style="text-align:justify">Dit pakket is een uitbreiding van pakket M-B1.</p>
 
-<p style="text-align: justify;">M-B3. pakket bodem-fosfor, voor het nemen van bodemmonsters en het uitvoeren van de volgende analyses op de bodem:</p>
+<p style="text-align:justify">M-B3. pakket bodem-fosfor, voor het nemen van bodemmonsters en het uitvoeren van de volgende analyses op de bodem:</p>
 
-<p style="text-align: justify;">a) bepaling van oxalaatextraheerbaar fosfaatgehalte (Pox);</p>
+<p style="text-align:justify">a) bepaling van oxalaatextraheerbaar fosfaatgehalte (Pox);</p>
 
-<p style="text-align: justify;">b) bepaling van fosfaatbindend vermogen;</p>
+<p style="text-align:justify">b) bepaling van fosfaatbindend vermogen;</p>
 
-<p style="text-align: justify;">c) bepaling van fosfaat in grond, extraheerbaar met een ammoniumlactaatazijnzuurbuffer (P-AL).</p>
+<p style="text-align:justify">c) bepaling van fosfaat in grond, extraheerbaar met een ammoniumlactaatazijnzuurbuffer (P-AL).</p>
 
-<p style="text-align: justify;">M-B4. pakket bodem-overige parameters, voor het nemen van bodemmonsters en het uitvoeren van de volgende analyses op de bodem:</p>
+<p style="text-align:justify">M-B4. pakket bodem-overige parameters, voor het nemen van bodemmonsters en het uitvoeren van de volgende analyses op de bodem:</p>
 
-<p style="text-align: justify;">a) bepaling van het organische koolstofgehalte.</p>
+<p style="text-align:justify">a) bepaling van het organische koolstofgehalte.</p>
 
-<p style="text-align: justify;">M-M1 pakket meststoffen - voor het nemen van monsters met het oog op de analyse van anorganische parameters, van volgende meststoffen:<br>
+<p style="text-align:justify">M-M1 pakket meststoffen - voor het nemen van monsters met het oog op de analyse van anorganische parameters, van volgende meststoffen:<br>
 a) vloeibare mest uit mestkelders;<br>
 b) vloeibare mest bij simulatie van mesttransport;<br>
 c) vaste mest.</p>
 
-<p style="text-align: justify;">M-M2. pakket meststoffen-anorganische parameters, voor het uitvoeren van de volgende anorganische analyses op meststoffen:</p>
+<p style="text-align:justify">M-M2. pakket meststoffen-anorganische parameters, voor het uitvoeren van de volgende anorganische analyses op meststoffen:</p>
 
-<p style="text-align: justify;">a) bepaling van drogestofgehalte;</p>
+<p style="text-align:justify">a) bepaling van drogestofgehalte;</p>
 
-<p style="text-align: justify;">b) bepaling van totale fosfor;</p>
+<p style="text-align:justify">b) bepaling van totale fosfor;</p>
 
-<p style="text-align: justify;">c) bepaling van ammoniumstikstof;</p>
+<p style="text-align:justify">c) bepaling van ammoniumstikstof;</p>
 
-<p style="text-align: justify;">d) bepaling van totale stikstof.</p>
+<p style="text-align:justify">d) bepaling van totale stikstof.</p>
 
-<p style="text-align: justify;">M-M3. pakket meststoffen-bemonstering voor microbiologische parameters, voor het nemen van monsters van meststoffen met het oog op het uitvoeren van microbiologische analyses.</p>
+<p style="text-align:justify">M-M3. pakket meststoffen-bemonstering voor microbiologische parameters, voor het nemen van monsters van meststoffen met het oog op het uitvoeren van microbiologische analyses.</p>
 
-<p style="text-align: justify;">M-M4. pakket meststoffen-microbiologische parameters, voor het uitvoeren van de volgende microbiologische analyses op meststoffen:</p>
+<p style="text-align:justify">M-M4. pakket meststoffen-microbiologische parameters, voor het uitvoeren van de volgende microbiologische analyses op meststoffen:</p>
 
-<p style="text-align: justify;">a) detectie van <em>Escherichia coli;</em></p>
+<p style="text-align:justify">a) detectie van <em>Escherichia coli;</em></p>
 
-<p style="text-align: justify;">b) detectie van <em>Enterococcacea;</em></p>
+<p style="text-align:justify">b) detectie van <em>Enterococcacea;</em></p>
 
-<p style="text-align: justify;">c) detectie van <em>Salmonella;</em></p>
+<p style="text-align:justify">c) detectie van <em>Salmonella;</em></p>
 
-<p style="text-align: justify;">d) detectie van <em>Clostridium perfringens.</em><br>
+<p style="text-align:justify">d) detectie van <em>Clostridium perfringens.</em><br>
 <br>
 M-M5 pakket meststoffen - voor het nemen van monsters met het oog op de analyse van anorganische parameters, van volgende meststoffen:<br>
 a) behandelde mest;<br>
@@ -3406,17 +3406,17 @@ b) vloeibare mest uit een mestopslag andere dan een mestkelder.<br>
 <br>
 M-M6 pakket meststoffen - voor het nemen van monsters met het oog op de analyse van anorganische parameters, van vloeibare mest bij mesttransport.</p>
 
-<p style="text-align: justify;">M-D1. pakket diervoeders, voor het nemen van monsters van diervoeders en het</p>
+<p style="text-align:justify">M-D1. pakket diervoeders, voor het nemen van monsters van diervoeders en het</p>
 
-<p style="text-align: justify;">uitvoeren van de volgende analyses op diervoeders:</p>
+<p style="text-align:justify">uitvoeren van de volgende analyses op diervoeders:</p>
 
-<p style="text-align: justify;">a) bepaling van drogestofgehalte;</p>
+<p style="text-align:justify">a) bepaling van drogestofgehalte;</p>
 
-<p style="text-align: justify;">b) bepaling van totale fosfor;</p>
+<p style="text-align:justify">b) bepaling van totale fosfor;</p>
 
-<p style="text-align: justify;">c) bepaling van ruw eiwit.</p>
+<p style="text-align:justify">c) bepaling van ruw eiwit.</p>
 
-<p style="text-align: justify;"><u>5° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, e) :</u><br>
+<p style="text-align:justify"><u>5° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, e) :</u><br>
 <br>
 MA. monsternemingen van afvalstoffen en andere materialen en monstervoorbehandeling ter plaatse<br>
 MA.2 gebruik als meststof/bodemverbeterend middel<br>
