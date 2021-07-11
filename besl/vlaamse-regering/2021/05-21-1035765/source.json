@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035765,
+  "title": "Besluit van de Vlaamse Regering van 2021-05-21 tot wijziging van het besluit van de Vlaamse Regering van 20 juli 1994 tot uitvoering van het decreet van 14 juli 1993 tot oprichting van het Grindfonds en tot regeling van de grindwinning, wat betreft de hervorming van het grindcomité en de opheffing van de grindheffing",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035765/VolledigDocument?datum=2021-07-11",
+  "source_sha256": "4dad2fd2df543f642349dc4de782283a1e702403602e023951d86d718beb3517",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035765&param=informatie",
+  "as_of": "2021-07-11",
+  "made": "2021-05-21",
+  "gazette": "2021-07-01",
+  "numac": 2021042398,
+  "document_start": "2021-07-11",
+  "document_end": null,
+  "in_force": "2021-07-11",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2021-07-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
