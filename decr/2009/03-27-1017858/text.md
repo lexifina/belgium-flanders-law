@@ -2148,6 +2148,28 @@ Met een gevangenisstraf van acht dagen tot vijf jaar en met een geldboete van 25
 
 Alle bepalingen van het eerste boek van het Strafwetboek, hoofdstuk VII en artikel 85 niet uitgezonderd, zijn van toepassing op de misdrijven, vermeld in artikel 236.
 
+### ART 237/2.
+
+De administratie treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het behandelen van aanvragen tot erkenning als vermeld in artikel 132.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° contactpersonen van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
+2° bestuurders van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
+3° aandeelhouders van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
+4° personeelsleden van landelijke, netwerk- en lokale radio-omroeporganisaties.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid;<br>
+5°&nbsp;&nbsp; &nbsp;gegevens over technische, commerciële, administratieve en radio-eigen competenties;<br>
+6°&nbsp;&nbsp; &nbsp;gegevens over de tewerkstelling.<br>
+<br>
+De administratie wisselt persoonsgegevens, verwerkt in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, uit met de Vlaamse Regulator voor de Media om toe te zien op de naleving van de erkenningsvoorwaarden.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de administratie worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
 ## DEEL IX. Overgangs- en slotbepalingen
 
 ### ART. 238.
