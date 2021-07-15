@@ -6,8 +6,8 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 27 maart 2009 betreffen
 
 ### ART. 1.
 
-De erkenning als regionale televisieomroeporganisatie van de VZW Regionale Televisie Vlaams-Brabant, Halle-Vilvoorde, gevestigd te Luchthavenlaan 22, 1800 Vilvoorde, wordt verlengd van 15 juli 2012 tot en met 14 juli 2021.
+...
 
 ### ART. 2.
 
-De Vlaamse minister, bevoegd voor het mediabeleid, is belast met de uitvoering van dit besluit.
+...

@@ -2,16 +2,16 @@
   "codex_id": 1021772,
   "title": "Besluit van de Vlaamse Regering van 2012-05-04 houdende verlenging van de erkenning als regionale televisieomroeporganisatie van de VZW Regionale Televisie Vlaams-Brabant, Halle-Vilvoorde",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021772/VolledigDocument?datum=2012-07-15",
-  "source_sha256": "54beb2990e0150255f45608304eb941298a2dbca3871225153e9b242ddebd34f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021772/VolledigDocument?datum=2021-07-15",
+  "source_sha256": "146758d22acdb40ba527e34fd231ded060da7770cdbe2d92311627bc95a50fcd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021772&param=informatie",
-  "as_of": "2012-07-15",
+  "as_of": "2021-07-15",
   "made": "2012-05-04",
   "gazette": "2012-05-25",
   "numac": 2012035540,
   "document_start": "2012-07-15",
   "document_end": "2021-07-14",
-  "in_force": "2012-07-15",
+  "in_force": "2021-07-15",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2012-07-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-07-15; future article versions excluded; article text as the API gives it"
 }
