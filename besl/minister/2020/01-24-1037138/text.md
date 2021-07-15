@@ -3,7 +3,7 @@
 ### ART 1.
 
 De volgende personen worden aangeduid als effectieve leden van de beheerscommissie van het Eigen Vermogen Digitaal Vlaanderen:<br>
-1° de leidend ambtenaar of een personeelslid van het agentschap Digitaal Vlaanderen, die de beheerscommissie voorzit: mevrouw Barbara Van Den Haute;<br>
+1° de leidend ambtenaar of een personeelslid van het agentschap Digitaal Vlaanderen, die de beheerscommissie voorzit: de heer Frank Geets;<br>
 2° ...;<br>
 3° de leidend ambtenaar van de Vlaamse Landmaatschappij: de heer Toon Denys;<br>
 4° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de financiën en de begrotingen: mevrouw Natacha Huyghe;<br>
