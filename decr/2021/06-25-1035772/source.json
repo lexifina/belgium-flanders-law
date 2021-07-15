@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035772,
+  "title": "Decreet van 2021-06-25 tot bekrachtiging van de besluiten van de Vlaamse Regering inzake de noodfondsen cultuur, jeugd, sport en media naar aanleiding van de COVID-19-pandemie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035772/VolledigDocument?datum=2021-07-15",
+  "source_sha256": "6460355dd86e18b25a66794b564458433bdc07b8b387011bd6bcbe754140e8d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035772&param=informatie",
+  "as_of": "2021-07-15",
+  "made": "2021-06-25",
+  "gazette": "2021-07-05",
+  "numac": 2021042581,
+  "document_start": "2021-07-15",
+  "document_end": null,
+  "in_force": "2021-07-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-07-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
