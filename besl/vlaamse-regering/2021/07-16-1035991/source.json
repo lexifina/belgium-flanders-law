@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035991,
+  "title": "Besluit van de Vlaamse Regering van 2021-07-16 tot herverdeling van het provisionele krediet ingeschreven onder begrotingsartikel FC0-1FBD2AA-PR basisallocatie 1FB101 van de algemene uitgavenbegroting van de Vlaamse gemeenschap voor het begrotingsjaar 2021",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035991/VolledigDocument?datum=2021-07-16",
+  "source_sha256": "243dc142649e8f2975c71028f06af72fefeab8a7dc64184ac722e3b91dc0280b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035991&param=informatie",
+  "as_of": "2021-07-16",
+  "made": "2021-07-16",
+  "gazette": "2021-08-24",
+  "numac": 2021032394,
+  "document_start": "2021-07-16",
+  "document_end": null,
+  "in_force": "2021-07-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+}

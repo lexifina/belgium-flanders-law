@@ -1,0 +1,460 @@
+# Besluit van de Vlaamse Regering van 2021-07-16 tot herverdeling van het provisionele krediet ingeschreven onder begrotingsartikel FC0-1FBD2AA-PR basisallocatie 1FB101 van de algemene uitgavenbegroting van de Vlaamse gemeenschap voor het begrotingsjaar 2021
+
+### Aanhef
+
+Rechtsgronden :<br>
+Dit besluit is gebaseerd op:<br>
+- het decreet van 29 maart 2019 houdende de Vlaamse Codex Overheidsfinanciën inzonderheid artikel 21 en 22;<br>
+- Besluit van de Vlaamse Regering ter uitvoering van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, inzonderheid artikel 7 en 8;<br>
+- Het decreet van 18 december 2020 houdende de algemene uitgavenbegroting van de Vlaamse gemeenschap voor het jaar 2021;<br>
+- het besluit van de Vlaamse Regering van 2 oktober 2019 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering.<br>
+<br>
+Vormvereiste(n)<br>
+De volgende vormvereisten zijn vervuld:<br>
+- Inspectie van Financiën heeft advies gegeven op 25 juni 2021.<br>
+- de Vlaamse minister, bevoegd voor Financiën en Begroting, heeft begrotingsakkoord gegeven op 16 juli 2021;<br>
+<br>
+Motivering<br>
+Dit besluit is gebaseerd op het volgende motief:<br>
+- herverdeling van 3.500 keuro voor de pedagogische begeleidingsdiensten. Deze middelen kaderen in de kerntaak ondersteuning fase 0 en fase 1 in aanloop naar het nieuwe decreet Leersteun.<br>
+- Daarnaast wordt een budget van 5.941 keuro herverdeeld in het kader van de inloopstages conform het BVR van 11 december 2020.<br>
+- Herverdeling van de provisionele middelen voor de vervanging van ondersteuners tijdens periode van professionalisering (1.433 keuro)<br>
+- Herverdeling voor de middelen van de onderzoeksopdrachtopdracht: "Ontwikkeling van een onderbouwde inspiratiegids over job shadowing voor leiderschap voor schoolbesturen en kandidaat- leidinggevenden". (29 keuro)<br>
+- Herverdeling van middelen voor internaten (1,5 mio euro). Het betreft middelen voor volgende initiatieven: ondersteuning voor uit huis geplaatste kinderen (401 keuro), voor kinderen in een verontrustende opvoedingssituatie (112 keuro), transitie voor de internaten van Kuurne en IBIS (778 keuro), 209 keuro voor het begeleiden van de fusie-operaties.<br>
+- Voor de programmaties van ziekenhuisscholen wordt in totaal 228 keuro herverdeeld (122 keuro voor secundair en 106 keuro voor basisonderwijs).<br>
+- Voor leesoffensief en taalstimulerende activiteiten: 1.378 keuro<br>
+- Voor taalscreening bij de kleuters: 4.000 keuro, via de loonallocaties van het gewoon basisonderwijs.<br>
+<br>
+Initiatiefnemer<br>
+Dit besluit wordt voorgesteld door de Viceminister-president van de Vlaamse minister en de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand.<br>
+<br>
+Na beraadslaging,<br>
+<br>
+DE VLAAMSE REGERING BESLUIT:
+
+### ART 1.
+
+Binnen de perken van de kredieten voor het begrotingsjaar 2021 wordt de volgende herverdeling doorgevoerd (bedragen in keuro):
+<table border="1" style="width:800px">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="2">Begrotingsartikel</td>
+			<td rowspan="2">Ent.</td>
+			<td rowspan="2">Basisall.</td>
+			<td rowspan="2">ESR</td>
+			<td colspan="2">Van</td>
+			<td colspan="2">Naar</td>
+		</tr>
+		<tr>
+			<td>VAK</td>
+			<td>VEK</td>
+			<td>VAK</td>
+			<td>VEK</td>
+		</tr>
+		<tr>
+			<td>FC0-1FBD2AA-PR</td>
+			<td>FC0</td>
+			<td>1FB101</td>
+			<td>0100</td>
+			<td>18.009</td>
+			<td>18.009</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DA-WT</td>
+			<td>FC0</td>
+			<td>1FD101</td>
+			<td>4410</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>1.293</td>
+			<td>1.293</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DA-WT</td>
+			<td>FC0</td>
+			<td>1FD102</td>
+			<td>4324</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>1.733</td>
+			<td>1.733</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DA-WT</td>
+			<td>FC0</td>
+			<td>1FD103</td>
+			<td>4410</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>3.925</td>
+			<td>3.925</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DA-WT</td>
+			<td>FC0</td>
+			<td>1FD104</td>
+			<td>4410</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>157</td>
+			<td>157</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DA-WT</td>
+			<td>FC0</td>
+			<td>1FD105</td>
+			<td>4324</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>71</td>
+			<td>71</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DA-WT</td>
+			<td>FC0</td>
+			<td>1FD106</td>
+			<td>4410</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>397</td>
+			<td>397</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DD-WT</td>
+			<td>FC0</td>
+			<td>1FD107</td>
+			<td>4410</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>388</td>
+			<td>388</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DD-WT</td>
+			<td>FC0</td>
+			<td>1FD108</td>
+			<td>4324</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>164</td>
+			<td>164</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DD-WT</td>
+			<td>FC0</td>
+			<td>1FD109</td>
+			<td>4410</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>1271</td>
+			<td>1271</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DD-WT</td>
+			<td>FC0</td>
+			<td>1FD110</td>
+			<td>4410</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>66</td>
+			<td>66</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DD-WT</td>
+			<td>FC0</td>
+			<td>1FD111</td>
+			<td>4324</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>30</td>
+			<td>30</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DD-WT</td>
+			<td>FC0</td>
+			<td>1FD112</td>
+			<td>4410</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>274</td>
+			<td>274</td>
+		</tr>
+		<tr>
+			<td>FC0-1FFD2CA-WT</td>
+			<td>FC0</td>
+			<td>1FF101</td>
+			<td>4410</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>12</td>
+			<td>12</td>
+		</tr>
+		<tr>
+			<td>FC0-1FFD2CA-WT</td>
+			<td>FC0</td>
+			<td>1FF102</td>
+			<td>4324</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>125</td>
+			<td>125</td>
+		</tr>
+		<tr>
+			<td>FC0-1FFD2CA-WT</td>
+			<td>FC0</td>
+			<td>1FF115</td>
+			<td>4410</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>3</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>FC0-1FGD2GC-WT</td>
+			<td>FC0</td>
+			<td>1FG104</td>
+			<td>4410</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>31</td>
+			<td>31</td>
+		</tr>
+		<tr>
+			<td>FC0-1FGD2GC-WT</td>
+			<td>FC0</td>
+			<td>1FG105</td>
+			<td>4324</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>12</td>
+			<td>12</td>
+		</tr>
+		<tr>
+			<td>FC0-1FGD2GC-WT</td>
+			<td>FC0</td>
+			<td>1FG106</td>
+			<td>4410</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>91</td>
+			<td>91</td>
+		</tr>
+		<tr>
+			<td>FD0-1FFD2FA-WT</td>
+			<td>FD0</td>
+			<td>1FF201</td>
+			<td>4410</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>36</td>
+			<td>36</td>
+		</tr>
+		<tr>
+			<td>FD0-1FFD2FA-WT</td>
+			<td>FD0</td>
+			<td>1FF202</td>
+			<td>4324</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>27</td>
+			<td>27</td>
+		</tr>
+		<tr>
+			<td>FD0-1FFD2FA-WT</td>
+			<td>FD0</td>
+			<td>1FF203</td>
+			<td>4410</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>38</td>
+			<td>38</td>
+		</tr>
+		<tr>
+			<td>FD0-1FFD2FA-WT</td>
+			<td>FD0</td>
+			<td>1FF204</td>
+			<td>4410</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>25</td>
+			<td>25</td>
+		</tr>
+		<tr>
+			<td>FC0-1FGD2GB-WT</td>
+			<td>FC0</td>
+			<td>1FG107</td>
+			<td>4430</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>731</td>
+			<td>731</td>
+		</tr>
+		<tr>
+			<td>FC0-1FGD2GB-WT</td>
+			<td>FC0</td>
+			<td>1FG108</td>
+			<td>4326</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>657</td>
+			<td>657</td>
+		</tr>
+		<tr>
+			<td>FC0-1FGD2GB-WT</td>
+			<td>FC0</td>
+			<td>1FG109</td>
+			<td>4430</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>2112</td>
+			<td>2112</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DC-WT</td>
+			<td>FC0</td>
+			<td>1FD124</td>
+			<td>4430</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>185</td>
+			<td>185</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DC-WT</td>
+			<td>FC0</td>
+			<td>1FD125</td>
+			<td>4326</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>161</td>
+			<td>161</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DC-WT</td>
+			<td>FC0</td>
+			<td>1FD126</td>
+			<td>4430</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>611</td>
+			<td>611</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DF-WT</td>
+			<td>FC0</td>
+			<td>1FD130</td>
+			<td>4430</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>105</td>
+			<td>105</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DF-WT</td>
+			<td>FC0</td>
+			<td>1FD131</td>
+			<td>4326</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>76</td>
+			<td>76</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DF-WT</td>
+			<td>FC0</td>
+			<td>1FD132</td>
+			<td>4430</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>295</td>
+			<td>295</td>
+		</tr>
+		<tr>
+			<td>FB0-1FGD2GN-WT</td>
+			<td>FB0</td>
+			<td>1FG031</td>
+			<td>4430</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>29</td>
+			<td>29</td>
+		</tr>
+		<tr>
+			<td>FB0-1FGD2GE-WT</td>
+			<td>FB0</td>
+			<td>1FG059</td>
+			<td>1221</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>890</td>
+			<td>890</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DH-WT</td>
+			<td>FC0</td>
+			<td>1FD133</td>
+			<td>4430</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>80</td>
+			<td>80</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DH-WT</td>
+			<td>FC0</td>
+			<td>1FD134</td>
+			<td>4326</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>11</td>
+			<td>11</td>
+		</tr>
+		<tr>
+			<td>FC0-1FDD2DH-WT</td>
+			<td>FC0</td>
+			<td>1FD135</td>
+			<td>4430</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>310</td>
+			<td>310</td>
+		</tr>
+		<tr>
+			<td>FB0-1FGD2GF-WT</td>
+			<td>FB0</td>
+			<td>1FG023</td>
+			<td>4430</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>209</td>
+			<td>209</td>
+		</tr>
+		<tr>
+			<td>FB0-1FGD2GE-WT</td>
+			<td>FB0</td>
+			<td>1FG093</td>
+			<td>3300</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>1.378</td>
+			<td>1.378</td>
+		</tr>
+		<tr>
+			<td colspan="4">Totaal</td>
+			<td>18.009</td>
+			<td>18.009</td>
+			<td>18.009</td>
+			<td>18.009</td>
+		</tr>
+	</tbody>
+</table>
+
+### ART 2.
+
+Dit besluit treedt in werking na ondertekening ervan.
+
+### ART 3.
+
+De Vlaamse minister bevoegd voor Financiën en begroting is bevoegd voor de uitvoering van dit besluit.
