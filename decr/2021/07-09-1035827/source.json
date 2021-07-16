@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035827,
+  "title": "Decreet van 2021-07-09 tot wijziging van het Energiedecreet van 8 mei 2009, wat het invoeren van een databank voor premies en subsidies betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035827/VolledigDocument?datum=2021-07-16",
+  "source_sha256": "2a69122091744debefa470ba1cee0afa84bced86561424d5e6aaeb609c3a0ccf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035827&param=informatie",
+  "as_of": "2021-07-16",
+  "made": "2021-07-09",
+  "gazette": "2021-07-15",
+  "numac": 2021031818,
+  "document_start": "2021-07-16",
+  "document_end": null,
+  "in_force": "2021-07-16",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
