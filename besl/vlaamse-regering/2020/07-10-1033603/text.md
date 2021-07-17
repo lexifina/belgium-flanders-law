@@ -27,6 +27,12 @@ DE VLAAMSE REGERING BESLUIT:
 In artikel 1.1.1, § 1 van het Energiebesluit van 19 november 2010, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 3 april 2020, wordt een punt 65° /1 ingevoegd, dat luidt als volgt:<br>
 "65° /1° marginale gronden: bermen en gesloten stortgebieden niet bestemd als natuurgebied of landbouwgebied, onverminderd andere verplichtingen ter zake;".
 
+### ART 2.
+
+In artikel 6.2/1.2 van het Energiebesluit van 19 november 2010, ingevoegd bij het besluit van de Vlaamse Regering van 21 december 2012 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 30 november 2018, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt punt 1° opgeheven;<br>
+2° in het derde lid wordt de zin "Daarbij kunnen in het bijzonder twee of meerdere installaties met betrekking tot zonne-energie met een maximaal AC-vermogen van de omvormer(s) kleiner of gelijk aan 10 kW niet als één project worden beschouwd." opgeheven.
+
 ### ART 3.
 
 In artikel 6.2/1.7, § 1, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 21 december 2012 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 28 juni 2019, worden de volgende wijzigingen aangebracht:<br>
@@ -280,6 +286,13 @@ Bij elke melding van een wijziging als vermeld in het derde lid, 2°, legt de na
 Een installatie mag voorafgaand aan de uitbetaling van de steun niet worden vervreemd of ten bezwarende titel worden belast.<br>
 <br>
 § 7. De minister kan nadere regels vastleggen over de voorwaarden en de modaliteiten voor de procedure tot het aanvragen van de uitbetaling.".
+
+### ART 14.
+
+In bijlage III/1 bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 21 december 2012 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 20 december 2019, worden de volgende wijzigingen aangebracht<br>
+1° in punt 1.1 wordt de zinsnede ", voor zon steeds over de constructieperiode + een exploitatieperiode van 15 jaar" opgeheven;<br>
+2° in punt 3 wordt punt 1° opgeheven;<br>
+3° in punt 3 worden in de tabel de kolommen "cat. 2a" tot en met "cat. 3b" opgeheven.
 
 ### ART 15.
 
