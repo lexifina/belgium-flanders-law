@@ -2,16 +2,16 @@
   "codex_id": 1021327,
   "title": "Besluit van de Vlaamse Regering van 2011-12-09 tot vaststelling van de specifieke brandveiligheidsnormen waaraan [lokale dienstencentra, centra voor dagverzorging, centra voor dagopvang, centra voor kortverblijf, centra voor herstelverblijf, groepen van assistentiewoningen en woonzorgcentra (verv. BVR 28 juni 2019, art. 33, I: 1 januari 2020)] moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021327/VolledigDocument?datum=2021-03-31",
-  "source_sha256": "1c730c3e4ef3707c50e4694aa8b256920b83df2183db01241755eeddbc81627b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021327/VolledigDocument?datum=2021-07-17",
+  "source_sha256": "ae8aa4db9580485f9ba948b2fac6d70f0f27e804ca75b68a4cb9580bb446716e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021327&param=informatie",
-  "as_of": "2021-03-31",
+  "as_of": "2021-07-17",
   "made": "2011-12-09",
   "gazette": "2012-03-09",
   "numac": 2012035247,
   "document_start": "2012-07-01",
   "document_end": "2024-06-30",
-  "in_force": "2021-03-31",
+  "in_force": "2021-07-17",
   "article_versions": 66,
-  "record_form": "consolidated version as in force on 2021-03-31; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-07-17; future article versions excluded; article text as the API gives it"
 }

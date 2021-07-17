@@ -222,23 +222,23 @@ Artikel 18 van de decreten inzake de voorzieningen voor ouderen, gecoördineerd 
 
 ### ART 17/1.
 
-Voor de groepen van assistentiewoningen die vóór 1 oktober 2018 erkend zijn, of waarvoor vóór 1 oktober 2018 een erkenningsaanvraag is ingediend, gelden de overgangsbepalingen, vermeld in het tweede tot en met het vierde lid.<br>
+Voor de groepen van assistentiewoningen die vóór 1 oktober 2018 erkend zijn, of waarvoor vóór 1 oktober 2018 een erkenningsaanvraag is ingediend, gelden de overgangsbepalingen, vermeld in het tweede tot en met het zesde lid.<br>
 <br>
-De erkenningsnormen voor de brandveiligheid die vóór 1 oktober 2018 van toepassing waren, blijven nog tot 1 oktober 2021 gelden.<br>
+De erkenningsnormen voor de brandveiligheid die vóór 1 oktober 2018 van toepassing waren, blijven nog tot 1 oktober 2022 gelden.<br>
 <br>
 Met toepassing van artikel 4, § 1, eerste lid, 6°, van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers is een erkenningsaanvraag die ingediend wordt gedurende de overgangsperiode, vermeld in het tweede lid, ontvankelijk op voorwaarde dat een bewijs wordt voorgelegd dat de groep van assistentiewoningen voldoet aan de toepasselijke erkenningsnormen voor de brandveiligheid, vermeld in het tweede lid.<br>
 <br>
-Het bewijs dat de groep van assistentiewoningen voldoet aan de nieuwe brandveiligheidsreglementering moet uiterlijk op 1 oktober 2021 bij het agentschap aankomen.<br>
+Het bewijs dat de groep van assistentiewoningen voldoet aan de nieuwe brandveiligheidsreglementering moet uiterlijk op 1 oktober 2022 bij het agentschap aankomen.<br>
 <br>
-Uiterlijk op 31 maart 2022 bezorgt de voorziening in kwestie een aanvraag aan de burgemeester om een onderzoek te laten uitvoeren door de hulpverleningszone, als dat voor die datum nog niet gebeurd is. Daarbij worden in voorkomend geval een geactualiseerde stand van zaken van de nog uit te voeren werken en een verdere planning meegestuurd.<br>
-<br>
+Uiterlijk op 31 maart 2022 bezorgt de voorziening in kwestie een aanvraag aan de burgemeester om een onderzoek te laten uitvoeren door de hulpverleningszone, als dat voor die datum nog niet gebeurd is.<br>
+&nbsp;<br>
 In afwijking van artikel 7, tweede lid, artikel 8, § 1, tweede lid, en § 4, tweede lid, en artikel 9, tweede lid, bezorgt de burgemeester het attest met het bijbehorende verslag uiterlijk op 1 september 2022.
 
 ### ART 17/2.
 
-Voor de lokale dienstencentra die vóór 1 oktober 2018 erkend zijn, of waarvoor vóór 1 oktober 2018 een erkenningsaanvraag is ingediend, moet het bewijs dat het lokaal dienstencentrum voldoet aan de nieuwe brandveiligheidsreglementering uiterlijk op 1 oktober 2021 bij het agentschap aankomen.<br>
+Voor de lokale dienstencentra die vóór 1 oktober 2018 erkend zijn, of waarvoor vóór 1 oktober 2018 een erkenningsaanvraag is ingediend, moet het bewijs dat het lokaal dienstencentrum voldoet aan de nieuwe brandveiligheidsreglementering uiterlijk op 1 oktober 2022 bij het agentschap aankomen.<br>
 <br>
-Uiterlijk op 31 maart 2022 bezorgt de voorziening in kwestie een aanvraag aan de burgemeester om een onderzoek te laten uitvoeren door de hulpverleningszone, als dat voor die datum nog niet gebeurd is. Daarbij worden in voorkomend geval een geactualiseerde stand van zaken van de nog uit te voeren werken en een verdere planning meegestuurd.<br>
+Uiterlijk op 31 maart 2022 bezorgt de voorziening in kwestie een aanvraag aan de burgemeester om een onderzoek te laten uitvoeren door de hulpverleningszone, als dat voor die datum nog niet gebeurd is.&nbsp;<br>
 <br>
 In afwijking van artikel 7, tweede lid, artikel 8, § 1, tweede lid, en § 4, tweede lid, en artikel 9, tweede lid, bezorgt de burgemeester het attest met het bijbehorende verslag uiterlijk op 1 september 2022.
 
