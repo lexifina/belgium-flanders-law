@@ -41,6 +41,13 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## HOOFDSTUK 1. Definities
 
+### ART 1.
+
+In dit besluit wordt verstaan onder:<br>
+1° agentschap Zorg en Gezondheid: het agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+2° agentschap Opgroeien regie: het intern verzelfstandigd agentschap met rechtspersoonlijkheid dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
+3° periode van civiele noodsituatie: de periode van civiele noodsituatie, vastgesteld conform artikel 1 van het besluit van de Vlaamse Regering van 30 oktober 2020 houdende vaststelling van een civiele noodsituatie met betrekking tot de volksgezondheid, zoals vermeld in het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid, naar aanleiding van de heropleving van het COVID-19-virus, in voorkomend geval met inbegrip van een eventuele verlenging van die periode door de Vlaamse Regering conform artikel 4, § 1, eerste lid, 2°, en derde lid, van het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid en de periode van civiele noodsituatie, vastgesteld conform artikel 1 van het besluit van de Vlaamse Regering van 18 juni 2021 houdende vaststelling van een civiele noodsituatie met betrekking tot de volksgezondheid, zoals vermeld in het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid, naar aanleiding van de uitrol van de vaccinatiestrategie in het kader van het COVID-19-virus, in voorkomend geval met inbegrip van een eventuele verlenging van die periode door de Vlaamse Regering conform artikel 4, § 1, eerste lid, 2°, en derde lid, van het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid.
+
 ## HOOFDSTUK 2. Zorg en Gezondheid
 
 ## Afdeling 1. Woonzorgdecreet van 15 februari 2019
@@ -56,6 +63,10 @@ Het administratief basisdossier en het financieel plan wordt in het geval, verme
 In afwijking van artikel 94, eerste en tweede lid, van het Woonzorgdecreet van 15 februari 2019 wordt het administratief basisdossier uiterlijk op 1 januari 2023 aan het agentschap Zorg en Gezondheid bezorgd.
 
 ## Afdeling 2. Koninklijk besluit van 6 november 1979 tot vaststelling van de normen inzake beveiliging tegen brand en paniek waaraan ziekenhuizen moeten voldoen
+
+### ART 4.
+
+In deze afdeling wordt verstaan onder koninklijk besluit van 6 november 1979: het koninklijk besluit van 6 november 1979 tot vaststelling van de normen inzake beveiliging tegen brand en paniek waaraan ziekenhuizen moeten voldoen.
 
 ### ART 5.
 
@@ -81,6 +92,10 @@ De termijnen, vermeld in artikel 7, § 1 en § 2, van het voormelde besluit, wor
 
 ## Afdeling 4. Besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers
 
+### ART 8.
+
+In deze afdeling wordt verstaan onder het besluit van 5 juni 2009: het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers.
+
 ### ART 9.
 
 In afwijking van artikel 4, § 1, eerste lid, 6°, van het besluit van 5 juni 2009 leidt het gebrek aan bewijs dat de voorziening voldoet aan de toepasselijke brandveiligheidsreglementering, niet tot de onontvankelijkheid van erkenningsaanvragen die zijn ingediend in de periode van 1 januari 2021 tot en met 30 september 2021.<br>
@@ -103,6 +118,10 @@ Voor de toepassing van artikel 18, derde lid, van het voormelde besluit, gelden 
 
 ## Afdeling 5. Besluit van de Vlaamse Regering van 9 december 2011 tot vaststelling van de specifieke brandveiligheidsnormen waaraan lokale dienstencentra, centra voor dagverzorging, centra voor dagopvang, centra voor kortverblijf, centra voor herstelverblijf, groepen van assistentiewoningen en woonzorgcentra moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen
 
+### ART 12.
+
+In deze afdeling wordt verstaan onder besluit van 9 december 2011: het besluit van de Vlaamse Regering van 9 december 2011 tot vaststelling van de specifieke brandveiligheidsnormen waaraan lokale dienstencentra, centra voor dagverzorging, centra voor dagopvang, centra voor kortverblijf, centra voor herstelverblijf, groepen van assistentiewoningen en woonzorgcentra moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen.
+
 ### ART 13.
 
 § 1. De geldigheidsduur van de attesten A die vóór 1 januari 2022 om een andere reden dan de uitreiking van een nieuw attest voor dezelfde voorziening van rechtswege vervallen zijn of vervallen conform artikel 4, eerste lid, van het besluit van 9 december 2011, of artikel 5 van het voormelde besluit van 9 december 2011, wordt verlengd tot en met 31 maart 2022, ook als de geldigheidsduur door die verlenging langer dan acht jaar is.<br>
@@ -124,6 +143,10 @@ In afwijking van het eerste lid worden de attesten maar verlengd tot de datum va
 De termijnen, vermeld in artikel 7, tweede en derde lid, artikel 8, § 1, tweede en derde lid, § 2, eerste lid, § 4, tweede en derde lid, en § 5, tweede en derde lid, artikel 9, tweede en derde lid, en artikel 10, § 2, derde lid, en § 3, derde lid, van het besluit van 9 december 2011, worden geschorst gedurende de periode van civiele noodsituatie.
 
 ## Afdeling 6. Besluit van de Vlaamse Regering van 25 april 2014 tot vaststelling van de procedures voor de gezondheidszorgvoorzieningen
+
+### ART 15.
+
+In deze afdeling wordt verstaan onder besluit van 25 april 2014: het besluit van de Vlaamse Regering van 25 april 2014 tot vaststelling van de procedures voor de gezondheidszorgvoorzieningen.
 
 ### ART 16.
 
@@ -168,6 +191,10 @@ Artikel 13 en 14 van het besluit van de Vlaamse Regering van 28 juni 2019 betref
 De initiatiefnemer meldt uiterlijk op 31 januari 2023 aan het agentschap Zorg en Gezondheid belangrijke strategische beslissingen als vermeld in artikel 14 van het voormelde besluit, die in de periode, vermeld in het eerste lid, goedgekeurd worden.
 
 ## Afdeling 8. Besluit van de Vlaamse Regering van 18 december 2020 tot vastlegging van de procedure voor het verlenen van voorafgaande vergunningen en planningsvergunningen voor lokale dienstencentra, centra voor dagopvang van een dienst voor gezinszorg, centra voor dagverzorging, centra voor kortverblijf, centra voor herstelverblijf of woonzorgcentra, en tot bepaling van de elementen van de globale zorgstrategische visie voor deze voorafgaande vergunningen
+
+### ART 22.
+
+In deze afdeling wordt verstaan onder besluit van 18 december 2020: het besluit van de Vlaamse Regering van 18 december 2020 tot vastlegging van de procedure voor het verlenen van voorafgaande vergunningen en planningsvergunningen voor lokale dienstencentra, centra voor dagopvang van een dienst voor gezinszorg, centra voor dagverzorging, centra voor kortverblijf, centra voor herstelverblijf of woonzorgcentra, en tot bepaling van de elementen van de globale zorgstrategische visie voor deze voorafgaande vergunningen.
 
 ### ART 23.
 
@@ -251,6 +278,25 @@ In de gevallen, vermeld in het eerste lid, gebeurt de beraadslaging en de stemmi
 
 ## Afdeling 1. Wijzigingen van het besluit van de Vlaamse Regering van 9 december 2011 tot vaststelling van de specifieke brandveiligheidsnormen waaraan lokale dienstencentra, centra voor dagverzorging, centra voor dagopvang, centra voor kortverblijf, centra voor herstelverblijf, groepen van assistentiewoningen en woonzorgcentra moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen
 
+### ART 32.
+
+In artikel 17/1 van het besluit van de Vlaamse Regering van 9 december 2011 tot vaststelling van de specifieke brandveiligheidsnormen waaraan lokale dienstencentra, centra voor dagverzorging, centra voor dagopvang, centra voor kortverblijf, centra voor herstelverblijf, groepen van assistentiewoningen en woonzorgcentra moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen, ingevoegd bij het besluit van de Vlaamse Regering van 13 juli 2018 en gewijzigd bij het besluit van de Vlaamse Regering van 8 mei 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "tot en met het vierde lid" vervangen door de woorden "tot en met het zesde lid";<br>
+2° in het tweede en vierde lid wordt de datum "1 oktober 2021" vervangen door de datum "1 oktober 2022";<br>
+3° in het vijfde lid wordt de datum "31 maart 2021" vervangen door de datum "31 maart 2022";<br>
+4° in het vijfde lid wordt de zin "Daarbij worden in voorkomend geval een geactualiseerde stand van zaken van de nog uit te voeren werken en een verdere planning meegestuurd." opgeheven;<br>
+5° er wordt een zesde lid toegevoegd, dat luidt als volgt:<br>
+"In afwijking van artikel 7, tweede lid, artikel 8, § 1, tweede lid, en § 4, tweede lid, en artikel 9, tweede lid, bezorgt de burgemeester het attest met het bijbehorende verslag uiterlijk op 1 september 2022.".
+
+### ART 33.
+
+In artikel 17/2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 13 juli 2018 en gewijzigd bij het besluit van de Vlaamse Regering van 8 mei 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de datum "1 oktober 2021" vervangen door de datum "1 oktober 2022";<br>
+2° in het tweede lid wordt de datum "31 maart 2021" vervangen door de datum "31 maart 2022";<br>
+3° in het tweede lid wordt de zin "Daarbij worden in voorkomend geval een geactualiseerde stand van zaken van de nog uit te voeren werken en een verdere planning meegestuurd." opgeheven;<br>
+4° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"In afwijking van artikel 7, tweede lid, artikel 8, § 1, tweede lid, en § 4, tweede lid, en artikel 9, tweede lid, bezorgt de burgemeester het attest met het bijbehorende verslag uiterlijk op 1 september 2022.".
+
 ## Afdeling 2. Wijzigingen van het besluit van de Vlaamse Regering van 8 mei 2020 tot aanpassing van administratieve procedures en termijnen in de regelgeving van het beleidsdomein Welzijn, Volksgezondheid en Gezin door de uitbraak van COVID-19 en tot wijziging van diverse besluiten van de Vlaamse Regering van dat beleidsdomein
 
 ### ART 34.
@@ -258,3 +304,15 @@ In de gevallen, vermeld in het eerste lid, gebeurt de beraadslaging en de stemmi
 In artikel 15, § 1, tweede lid, § 2 en § 3, tweede lid, en artikel 19, tweede lid, van het besluit van de Vlaamse Regering van 8 mei 2020 tot aanpassing van administratieve procedures en termijnen in de regelgeving van het beleidsdomein Welzijn, Volksgezondheid en Gezin door de uitbraak van COVID-19 en tot wijziging van diverse besluiten van de Vlaamse Regering van dat beleidsdomein, wordt de datum "31 maart 2021" vervangen door de datum "31 december 2021".
 
 ## HOOFDSTUK 6. Slotbepalingen
+
+### ART 35.
+
+Artikel 2, 10, 16, 17, 18, 19, 20, 21, 25, 27, 28, 30, 32, 5° en artikel 33, 4°, hebben uitwerking met ingang van 20 maart 2020.<br>
+Artikel 6, 7, 11, 14, 23, 26, 29 en 31 hebben uitwerking met ingang van 30 oktober 2020.<br>
+Artikel 5, 9, 13 en 24 hebben uitwerking met ingang van 1 januari 2021.<br>
+Artikel 32, 3°, artikel 33, 2° en artikel 34 hebben uitwerking met ingang van 31 maart 2021.<br>
+Artikel 3 heeft uitwerking met ingang van 30 juni 2021.
+
+### ART 36.
+
+De Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, de Vlaamse minister, bevoegd voor de sociale bescherming, de Vlaamse minister, bevoegd voor personen met een beperking, en de Vlaamse minister, bevoegd voor opgroeien, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
