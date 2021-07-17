@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035777,
+  "title": "Besluit van de Vlaamse Regering van 2021-05-28 tot wijziging van artikel 1/1 van het besluit van de Vlaamse regering van 23 mei 2003 tot bepaling van de handelingen die vrijgesteld zijn van de medewerking van de architect",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035777/VolledigDocument?datum=2021-07-17",
+  "source_sha256": "8941322cd8247a6c678e1b0f77104b1869fe56ec16083916f69c6c76ecf8736e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035777&param=informatie",
+  "as_of": "2021-07-17",
+  "made": "2021-05-28",
+  "gazette": "2021-07-07",
+  "numac": 2021021093,
+  "document_start": "2021-07-17",
+  "document_end": null,
+  "in_force": "2021-07-17",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-07-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
