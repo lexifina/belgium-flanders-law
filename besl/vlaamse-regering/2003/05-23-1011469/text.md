@@ -24,6 +24,7 @@ c) een serre;<br>
 d) een veranda of een soortgelijke constructie die bestaat uit minstens 75 % glas of doorzichtig materiaal of een overdekt terras;<br>
 e) een technische cabine.<br>
 met een maximumoppervlakte van 40 vierkante meter per gebouw of constructie, een kroonlijsthoogte die beperkt is tot 3 meter en een nokhoogte tot 4,50 meter. Als aan een bestaand gebouw wordt aangebouwd, dan mogen de bouwwerken noch de oplossing van een constructieprobleem met zich meebrengen, noch de stabiliteit van de aanpalende gebouwen wijzigen;<br>
+3° /1 het plaatsen van een niet-gestapelde, verplaatsbare voorgemonteerde of modulaire constructie, met een maximale oppervlakte van 50 vierkante meter en een maximale hoogte van 3,5 meter. Als aan een bestaand gebouw wordt aangebouwd, dan mogen de bouwwerken noch de oplossing van een constructieprobleem met zich meebrengen, noch de stabiliteit van de aanpalende gebouwen wijzigen;<br>
 4° de volgende handelingen:<br>
 a) het plaatsen van antennes;<br>
 b) het aanleggen of wijzigen van verhardingen, wegen, opritten of parkeerplaatsen;<br>
