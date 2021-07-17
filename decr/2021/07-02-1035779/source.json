@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035779,
+  "title": "Decreet van 2021-07-02 tot wijziging van het Bestuursdecreet van 7 december 2018",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035779/VolledigDocument?datum=2021-07-17",
+  "source_sha256": "c94f8aa46d0163ea6d3d38182c6b7125a8d842237253b1c50390dc23d6fbc4e9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035779&param=informatie",
+  "as_of": "2021-07-17",
+  "made": "2021-07-02",
+  "gazette": "2021-07-08",
+  "numac": 2021021275,
+  "document_start": "2021-07-18",
+  "document_end": null,
+  "in_force": "2021-07-17",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2021-07-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
