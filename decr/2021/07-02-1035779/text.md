@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK 1. Inleidende bepaling
 
+### ART 1.
+
+Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
+
 ## HOOFDSTUK 2. Wijzigingsbepalingen
 
 ## Afdeling 1. Wijzigingen van de inleidende bepalingen en de definities, vermeld in titel I van het Bestuursdecreet
@@ -23,9 +27,102 @@ c) de Vlaamse of lokale overheden kunnen direct of indirect meer dan de helft va
 
 ## Afdeling 2. Wijzigingen van onderafdeling 2 van afdeling 2 van hoofdstuk 2 van titel II, wat betreft de elektronische uitwisseling van berichten
 
+### ART 4.
+
+In artikel II.22 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt het eerste lid vervangen door wat volgt:<br>
+"Overheidsinstanties als vermeld in artikel II.18, kunnen voor een procedure voorzien in een of meer elektronische wegen om berichten uit te wisselen met gebruikers, ook als de toepasselijke regelgeving alleen voorziet in de uitwisseling via analoge weg of als de regelgeving al in een bepaalde elektronische weg voorziet, vanaf het moment waarop de overheidsinstantie de beschikbare elektronische wegen voor de procedure heeft bekendgemaakt.";<br>
+2° paragraaf 2 wordt vervangen door wat volgt:<br>
+" § 2. In geval van toepassing van paragraaf 1 worden de volgende voorwaarden nageleefd voor de elektronische uitwisseling met burgers of externe overheden:<br>
+1° de overheidsinstanties, vermeld in artikel II.18, informeren burgers en externe overheden vooraf over:<br>
+a) de stappen die gevolgd moeten worden;<br>
+b) de technieken die worden gebruikt;<br>
+c) de rechtsgevolgen van de elektronische uitwisseling;<br>
+2° de natuurlijke personen, niet in hun hoedanigheid van ondernemer, stemmen vooraf uitdrukkelijk in met de uitwisseling van berichten via elektronische weg;<br>
+3° de natuurlijke personen, niet in hun hoedanigheid van ondernemer, kunnen de instemming, vermeld in punt 2°, op elk moment intrekken.";<br>
+3° in paragraaf 3, tweede lid, worden de woorden "op analoge dragers" vervangen door de woorden "waarin in de toepasselijke regelgeving is voorzien";<br>
+4° in paragraaf 4 worden de woorden "via elektronische weg dezelfde rechtsgevolgen tot stand als de uitwisseling op analoge dragers" vervangen door de zinsnede "die mogelijk wordt gemaakt met toepassing van paragraaf 1, dezelfde rechtsgevolgen tot stand als de uitwisseling waarin in de toepasselijke regelgeving is voorzien.".
+
+### ART 5.
+
+Aan artikel II.23 van hetzelfde decreet wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"In het eerste en het derde lid wordt verstaan onder hetzelfde informatiesysteem: een informatiesysteem of een combinatie van informatiesystemen waarbij de overheidsinstantie voldoende controle heeft over de logging van het tijdstip van verzending en ontvangst van een bericht.".
+
+### ART 6.
+
+In hetzelfde decreet, gewijzigd bij het besluit van de Vlaamse Regering van 19 juli 2019, bekrachtigd bij het decreet van 3 juli 2020, wordt een artikel II.23/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. II.23/1. § 1. In dit artikel wordt verstaan onder eBox: de eBox, vermeld in artikel 2, 3°, van de wet van 27 februari 2019 inzake elektronische uitwisseling van berichten via de eBox.<br>
+<br>
+§ 2. Overheidsinstanties als vermeld in artikel II.18, kunnen de eBox gebruiken voor de elektronische uitwisseling van berichten.<br>
+<br>
+De uitwisseling van berichten via de eBox geldt als een uitwisseling binnen hetzelfde informatiesysteem, vermeld in artikel II.23, derde en vierde lid.<br>
+<br>
+Als een systeemfout verhindert dat een bericht wordt verzonden of ontvangen, geldt de informatie die daarover, met toepassing van artikel 4, tweede lid, van de wet van 27 februari 2019 inzake de elektronische uitwisseling van berichten via de eBox, ter beschikking is gesteld, als bewijs van de systeemfout die kan worden ingeroepen als bewijs van overmacht.<br>
+<br>
+§ 3. Als de uitwisseling van berichten via de eBox niet mogelijk is op grond van de toepasselijke regelgeving, gelden de voorwaarden, vermeld in artikel II.22, § 2.<br>
+<br>
+Onder de voorwaarden, vermeld in het eerste lid, brengt de uitwisseling via de eBox dezelfde rechtsgevolgen tot stand als de uitwisseling waarin in de toepasselijke regelgeving is voorzien.".
+
 ## Afdeling 3. Wijziging van afdeling 3 van hoofdstuk 2 van titel II, wat betreft de bestuurshandelingen in elektronische vorm
 
+### ART 7.
+
+In artikel II.24 van hetzelfde decreet wordt een paragraaf 2/2 ingevoegd, die luidt als volgt:<br>
+<br>
+" § 2/2. Een bestuursdocument dat op elektronische wijze ondertekend is, kan worden gematerialiseerd in een equivalent dat de authenticiteit en de integriteit van de gegevens waarborgt.".
+
 ## Afdeling 4. Wijzigingen van hoofdstuk 3 van titel II van het Bestuursdecreet, wat betreft de toegang tot bestuursdocumenten
+
+### ART 8.
+
+Aan artikel II.33 van hetzelfde decreet wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
+<br>
+"3° als de aanvraag betrekking heeft op interne communicatie.".
+
+### ART 9.
+
+In artikel II.34 van hetzelfde decreet wordt punt 4° vervangen door wat volgt:<br>
+<br>
+"4° het om bestuursdocumenten gaat die uitsluitend ten behoeve van de strafvordering of de vordering van een administratieve sanctie zijn opgesteld, zolang de mogelijkheid blijft bestaan om een strafsanctie of een administratieve sanctie op te leggen;".
+
+### ART 10.
+
+In artikel II.36, § 1, tweede lid, van hetzelfde decreet wordt punt 3° vervangen door wat volgt:<br>
+<br>
+"3° het vertrouwelijke karakter van bestuursdocumenten die uitsluitend ten behoeve van de strafvordering of de vordering van een administratieve sanctie zijn opgesteld, zolang de mogelijkheid blijft bestaan om een strafsanctie of een administratieve sanctie op te leggen;".
+
+### ART 11.
+
+In artikel II.44 van hetzelfde decreet wordt paragraaf 3 vervangen door wat volgt:<br>
+<br>
+" § 3. De aanvrager die een afschrift van een bestuursdocument ontvangt, kan het afschrift gebruiken om zijn rechten en belangen te beschermen, en om zijn vrijheid van meningsuiting en van informatie uit te oefenen.<br>
+<br>
+De toepassing van het eerste lid mag niet tot gevolg hebben dat informatie van persoonlijke aard toegankelijk wordt voor personen die niet voldoen aan de voorwaarden van artikel II.40, § 3, tweede lid, behoudens wanneer dit nodig is om zijn rechten en belangen te beschermen.<br>
+<br>
+De overheidsinstantie die een aanvraag tot openbaarmaking inwilligt, vermeldt in de beslissing dat die inwilliging geen toestemming inhoudt om de gevraagde bestuursdocumenten te hergebruiken als vermeld in hoofdstuk 4.".
+
+### ART 12.
+
+In artikel II.48 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt het derde lid vervangen door wat volgt:<br>
+"De aanvrager dient het beroep in met een brief, met een e-mail of, in voorkomend geval, met een webformulier binnen een termijn van dertig kalenderdagen die ingaat op een van de volgende dagen:<br>
+1° als de aanvraag is afgewezen: op de dag nadat de beslissing verstuurd is;<br>
+2° als de aanvraag volledig of gedeeltelijk is ingewilligd, maar niet is uitge voerd binnen de termijnen, vermeld in artikel II.44, § 1: op de dag nadat de termijn, vermeld in artikel II.44, § 1, verstreken is.";<br>
+2° paragraaf 2 wordt vervangen door wat volgt:<br>
+" § 2. Het beroep bevat al de volgende informatie:<br>
+1° de voor- en achternaam van de indiener;<br>
+2° het adres van de indiener;<br>
+3° een afschrift van de oorspronkelijke aanvraag;<br>
+4° een afschrift van de beslissing van de betrokken overheidsinstantie waartegen beroep wordt ingesteld, als er een beslissing is genomen.<br>
+Als het beroep onvolledig is, wordt de behandelingstermijn, vermeld in artikel II.50, § 1, opgeschort tot de beroepsinstantie in het bezit is van de vereiste informatie.".
+
+### ART 13.
+
+In artikel II.50, § 1, van hetzelfde decreet wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"Als de oorspronkelijke aanvraag tot openbaarmaking is afgewezen omdat ze kennelijk onredelijk is of op een te algemene wijze is geformuleerd, zonder dat de overheidsinstantie om specificatie of vervollediging heeft gevraagd, beschikt de beroepsinstantie zelf over de mogelijkheid om de aanvrager te verzoeken om zijn aanvraag te specificeren of te vervolledigen. De termijn van dertig kalenderdagen, vermeld in artikel II.50, § 1, begint in dat geval te lopen vanaf het moment dat de aanvrager zijn aanvraag gespecificeerd of vervolledigd heeft.".
 
 ## Afdeling 5. Wijzigingen van hoofdstuk 4 van titel II van het Bestuursdecreet, wat betreft open data en hergebruik van overheidsinformatie
 
@@ -297,18 +394,184 @@ In artikel II.71 van hetzelfde decreet worden de volgende wijzigingen aangebrach
 
 ## Afdeling 6. Wijzigingen van afdeling 5 van hoofdstuk 2 van titel III van het Bestuursdecreet, wat betreft de vrijwaring van de strategische belangen van de Vlaamse Gemeenschap en het Vlaamse Gewest
 
+### ART 45.
+
+In artikel III.59, 3°, c), van hetzelfde decreet wordt punt 1) opgeheven.
+
+### ART 46.
+
+In artikel III.60, eerste lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "buitenlandse natuurlijke personen of rechtspersonen" worden vervangen door de zinsnede "natuurlijke personen of rechtspersonen die niet gevestigd zijn in een lidstaat van de Europese Unie of in een andere staat van de Europese Economische Ruimte,";<br>
+2° de woorden "nietig verklaren of buiten toepassing verklaren" worden vervangen door de zinsnede "nietig verklaren, schorsen of buiten toepassing verklaren".
+
 ## Afdeling 7. Wijzigingen van afdeling 3 van hoofdstuk 3 van titel III van het Bestuursdecreet, wat betreft het elektronisch bestuurlijk gegevensverkeer
+
+### ART 47.
+
+In artikel III.68 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden tussen de zinsnede "artikel III.65, § 2," en het woord "moeten" de woorden "van dit decreet" ingevoegd;<br>
+2° in het eerste lid wordt tussen de zinsnede "rusten," en het woord "opvragen" de zinsnede "via de tussenkomst van de Vlaamse dienstenintegrator, vermeld in artikel 3, § 1, van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator," ingevoegd;<br>
+3° in het eerste lid worden tussen de zinsnede "artikel III.66, § 1." en de woorden "De Vlaamse Regering" de zinsnede ", van dit decreet" ingevoegd;<br>
+4° in het tweede lid wordt tussen de zinsnede "die op hen rusten." en de woorden "De Vlaamse Regering" de zin "In dat geval doen de overheidsinstanties, vermeld in artikel III.65, § 2, een beroep op de tussenkomst van de Vlaamse dienstenintegrator, vermeld in het eerste lid." ingevoegd.
 
 ## Afdeling 8. Wijziging van afdeling 4 van hoofdstuk 3 van titel III van het Bestuursdecreet, wat betreft het stuurorgaan Vlaams Informatie- en ICT-beleid
 
+### ART 48.
+
+In artikel III.75, tweede lid, 6°, van hetzelfde decreet wordt het woord "door" opgeheven.
+
+### ART 49.
+
+In artikel III.77 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede ", met uitzondering van de externe innovators, vermeld in artikel III.76, eerste lid, 5°, die voor een termijn van twee jaar worden benoemd" wordt opgeheven;<br>
+2° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"Het stuurorgaan kan personeelsleden van de Vlaamse overheid en van de lokale overheden omwille van hun expertise uitnodigen om voor een termijn van een jaar als waarnemend lid met raadgevende stem deel te nemen aan de werkzaamheden van het stuurorgaan.".
+
 ## Afdeling 9. Wijzigingen van afdeling 8 van hoofdstuk 3 van titel III van het Bestuursdecreet, wat betreft de organisatie van het statistiekbeleid
+
+### ART 50.
+
+In artikel III.107, § 1, van hetzelfde decreet worden de woorden "Deze afdeling is" vervangen door de zinsnede "Tenzij het anders is vermeld, is deze afdeling".
+
+### ART 51.
+
+Aan artikel III.110 van hetzelfde decreet wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"De Vlaamse Statistische Autoriteit voert ook zelf statistisch en wetenschappelijk onderzoek uit ter uitvoering van het statistische programma op basis van steekproefenquêtes, van administratieve registers en van organische data.".
+
+### ART 52.
+
+In artikel III.111, eerste lid, van hetzelfde decreet wordt het woord "jaarlijks" vervangen door het woord "periodiek".
+
+### ART 53.
+
+In artikel III.113 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° voor het bestaande lid, dat paragraaf 2 wordt, wordt een paragraaf 1 ingevoegd, die luidt als volgt:<br>
+" § 1. In dit artikel wordt verstaan onder individuele gegevens: informatie over een geïdentificeerde of identificeerbare observatie- of meeteenheid, met inbegrip van persoonsgegevens.";<br>
+2° er worden een paragraaf 3 en 4 toegevoegd, die luiden als volgt:<br>
+" § 3. Om de opdrachten, vermeld in artikel III.110 tot en met III.112, te kunnen uitoefenen, gebruikt de Vlaamse Statistische Autoriteit de mededeling van, met inbegrip van de toegang tot, individuele gegevens van de instanties van de Vlaamse overheid, de lokale overheden, de instellingen met een publieke taak, de milieu-instanties en de externe overheden.<br>
+De Vlaamse Statistische Autoriteit gebruikt voor de uitvoering van haar opdrachten, de persoonsgegevens uit de volgende authentieke gegevensbronnen:<br>
+1° het Rijksregister;<br>
+2° de Kruispuntbank van de Sociale Zekerheid en de sociale gegevensbanken.<br>
+De mededeling van individuele gegevens kan alleen met respect voor de statistische geheimhouding en binnen de grenzen van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is gespecificeerd.<br>
+§ 4. De Vlaamse Statistische Autoriteit kan, met het oog op de uitvoering van de opdrachten, vermeld in artikel III.110 tot en met III.112, of met het oog op een latere verwerking voor statistische of wetenschappelijke doeleinden:<br>
+1° gegevensbanken samenstellen;<br>
+2° optreden als vertrouwde derde partij bij de verwerking van individuele gegevens.<br>
+Bij de uitvoering van het eerste lid kan de Vlaamse Statistische Autoriteit:<br>
+1° verschillende externe databanken koppelen;<br>
+2° externe databanken aan haar databanken koppelen;<br>
+3° haar databanken koppelen.<br>
+De Vlaamse Statistische Autoriteit gebruikt daarbij de volgende gegevens:<br>
+1° het rijksregisternummer, als de gegevens betrekking hebben op een natuurlijke persoon die in het Rijksregister is opgenomen;<br>
+2° het identificatienummer van de Kruispuntbank van de Sociale Zekerheid, als de gegevens betrekking hebben op een natuurlijke persoon die niet in het Rijksregister is opgenomen.<br>
+De Vlaamse Statistische Autoriteit staat, onder toezicht van de functionaris voor gegevensbescherming, vermeld in artikel 9 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, in voor de productie van gepseudonimiseerde gegevens, op verzoek van de overheidsinstanties, vermeld in artikel III.107, § 1, van dit decreet, of op verzoek van universiteiten, hogescholen of erkende onderzoeksinstellingen. De functionaris voor gegevensbescherming controleert het gebruik van alle logische sleutels.<br>
+De Vlaamse Statistische Autoriteit voert de verwerkingen op een transparante manier uit. Ze registreert alle koppelingen die op verzoek van derden zijn uitgevoerd.<br>
+De Vlaamse Regering kan de algemene organisatorische en technische maatregelen bepalen die genomen moeten worden om de kwaliteit, de vertrouwelijkheid en de veiligheid van de gegevens en het statistische geheim te garanderen.".
 
 ## Afdeling 10. Verwerking van persoonsgegevens voor beleidsondersteunende taken
 
+### ART 54.
+
+In titel III, hoofdstuk 3, van hetzelfde decreet, gewijzigd bij het besluit van de Vlaamse Regering van 19 juli 2019, bekrachtigd bij het decreet van 3 juli 2020, wordt een afdeling 8/1 ingevoegd, die luidt als volgt:<br>
+<br>
+"Afdeling 8/1. Verwerking van persoonsgegevens voor beleidsondersteunende taken".
+
+### ART 55.
+
+In hetzelfde decreet, gewijzigd bij het besluit van de Vlaamse Regering van 19 juli 2019, bekrachtigd bij het decreet van 3 juli 2020, wordt in afdeling 8/1, ingevoegd bij artikel 59, een artikel III.113/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. III.113/1. § 1. De toegang tot, de mededeling van en de verwerking van persoonsgegevens voor de volgende beleidsondersteunende taken in het kader van de bevoegdheden van de Vlaamse Gemeenschap of het Vlaamse Gewest, met het oog op de voorbereiding of evaluatie van het beleid en de opvolging van de beleidsuitvoering verlopen conform de bepalingen in deze afdeling:<br>
+1° statistisch onderzoek;<br>
+2° bevragingen;<br>
+3° beleidsmonitoring systemen;<br>
+4° wetenschappelijk en historisch beleidsonderzoek;<br>
+5° simulaties;<br>
+6° koppeling van data uit verschillende gegevensbronnen.<br>
+<br>
+De Vlaamse Regering kan de beleidsondersteunende taken, vermeld in het eerste lid, nader bepalen.<br>
+<br>
+§ 2. Deze afdeling is van toepassing op de volgende instanties van de Vlaamse administratie:<br>
+1° de departementen;<br>
+2° de intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid;<br>
+3° de intern verzelfstandigde agentschappen met rechtspersoonlijkheid;<br>
+4° de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen.<br>
+<br>
+Naast de instanties, vermeld in het eerste lid, is deze afdeling van toepassing op de instellingen die in opdracht van de voormelde instanties beleidsondersteunende taken als vermeld in paragraaf 1, verrichten.".
+
+### ART 56.
+
+In hetzelfde decreet, gewijzigd bij het besluit van de Vlaamse Regering van 19 juli 2019, bekrachtigd bij het decreet van 3 juli 2020, wordt in dezelfde afdeling 8/1 een artikel III.113/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. III.113/2. Met toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is gespecificeerd, gebruiken de instanties voor de uitvoering van de beleidsondersteunende taken, vermeld in artikel III.113/1, § 1, de toegang tot of de mededeling van persoonsgegevens van de instanties van de Vlaamse overheid en van de lokale overheden, de instellingen met een publieke taak, de milieu-instanties en de externe overheden.<br>
+<br>
+De instanties gebruiken de volgende gegevens om de natuurlijke personen te identificeren:<br>
+1° het rijksregisternummer, als de gegevens betrekking hebben op een natuurlijke persoon die in het Rijksregister is opgenomen;<br>
+2° het identificatienummer van de Kruispuntbank van de Sociale Zekerheid, als de gegevens betrekking hebben op een natuurlijke persoon die niet in het Rijksregister is opgenomen.<br>
+<br>
+De instanties kunnen andere identificatienummers gebruiken als bepaalde gegevens die betrekking hebben op een natuurlijke persoon via een andere manier aan een unieke identificator worden gelinkt.".
+
+### ART 57.
+
+In hetzelfde decreet, gewijzigd bij het besluit van de Vlaamse Regering van 19 juli 2019, bekrachtigd bij het decreet van 3 juli 2020, wordt in dezelfde afdeling 8/1 een artikel III.113/3 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. III.113/3. De Vlaamse Regering kan per beleidsdomein een departement, een intern verzelfstandigd agentschap of een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap belasten met de uitbouw en het beheer van een databank beleidsinformatie die informatie bevat over het beleidsdomein in kwestie of over een of meerdere onderdelen van het beleidsdomein in kwestie.<br>
+<br>
+Die databank heeft een of meer van de volgende doelstellingen:<br>
+1° de voorbereiding en evaluatie ondersteunen van het beleid in kwestie van het beleidsdomein in kwestie;<br>
+2° data aanleveren voor wetenschappelijk onderzoek rond het beleid in kwestie van het beleidsdomein in kwestie;<br>
+3° vragen om informatie beantwoorden over het beleid in kwestie dat onder het beleidsdomein in kwestie ressorteert, die door derden worden gesteld;<br>
+4° statistieken voor historische en beleidsdoeleinden genereren.<br>
+<br>
+Om de doelstellingen, vermeld in het tweede lid, te bereiken, bepaalt de Vlaamse Regering welke categorieën van gegevens in de databank beleidsinformatie worden verzameld over het beleid in kwestie dat ressorteert onder het beleidsdomein in kwestie. De Vlaamse Regering kan per beleidsdatabank bijkomende doelstellingen rond het beleid in kwestie vastleggen.<br>
+<br>
+De entiteiten van het beleidsdomein in kwestie en, in voorkomend geval, van andere beleidsdomeinen, lokale overheden of externe overheden verstrekken daarvoor de gegevens waarover ze beschikken en die voor het beleid in kwestie noodzakelijk zijn, met toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is gespecificeerd.<br>
+<br>
+De entiteit die door de Vlaamse Regering wordt belast met de uitbouw en het beheer van een databank beleidsinformatie, vermeld in het eerste lid, is verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+<br>
+De gepseudonimiseerde persoonsgegevens kunnen onder contractuele voorwaarden ook doorgegeven worden met het oog op wetenschappelijk onderzoek.<br>
+<br>
+Met het oog op statistische verwerkingen die de tijdsevolutie van het beleid in kwestie in Vlaanderen weergeven, worden een aantal gegevens permanent bewaard. De Vlaamse Regering kan daartoe specifieke regels en criteria vastleggen. Gegevens die niet langer nuttig zijn voor de voormelde doeleinden, worden verwijderd.<br>
+<br>
+De Vlaamse Regering kan de voorwaarden voor de raadpleging, het gebruik en de verwerving van de verwerkte gegevens bepalen. Ze kan ook de algemene organisatorische en technische maatregelen bepalen die genomen moeten worden om de kwaliteit, de vertrouwelijkheid en de veiligheid van de gegevens te garanderen.".
+
 ## Afdeling 11. Wijzigingen van afdeling 9 van hoofdstuk 3 van titel III van het Bestuursdecreet, wat betreft organisatiebeheersing en interne audit
+
+### ART 58.
+
+In artikel III.115, § 5, van hetzelfde decreet wordt de zinsnede "artikel 27 van de wet van 22 juli 1953 houdende oprichting van een Instituut van de Bedrijfsrevisoren en tot organisatie van het publiek toezicht op het beroep van bedrijfsrevisor" vervangen door de zinsnede "artikel 86 van de wet van 7 december 2016 tot organisatie van het beroep van en het publiek toezicht op de bedrijfsrevisoren".
 
 ## Afdeling 12. Wijzigingen van afdeling 10 van hoofdstuk 3 van titel III van het Bestuursdecreet, wat betreft de rapportering aan het Vlaams Parlement
 
+### ART 59.
+
+Artikel III.116 van hetzelfde decreet wordt opgeheven.
+
+### ART 60.
+
+Artikel III.117 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. III.117. Om de drie jaar brengt de Vlaamse Regering aan het Vlaams Parlement verslag uit over:<br>
+1° de mate waarin websites en mobiele applicaties van overheidsinstanties voldoen aan de toegankelijkheidsnormen, vermeld in artikel II.16;<br>
+2° de resultaten van het toezicht op de naleving van artikel II.16, met inbegrip van de meetgegevens en informatie over de handhavingsprocedures.<br>
+<br>
+Het verslag, vermeld in het eerste lid, wordt telkens ook aan de Europese Commissie bezorgd.".
+
 ## Afdeling 13. Wijzigingen van hoofdstuk 4 van titel III van het Bestuursdecreet, wat betreft experimentregelgeving en regelluwe zones
 
+### ART 61.
+
+In artikel III.119, eerste lid, van hetzelfde decreet worden de woorden "deze afdeling" vervangen door de woorden "dit hoofdstuk".
+
+### ART 62.
+
+In artikel III.121, § 2, van hetzelfde decreet wordt punt 4° opgeheven.
+
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 63.
+
+In afwijking van artikel III.77 van het Bestuursdecreet, blijft de benoeming van de externe innovators, vermeld in artikel III.76, eerste lid, 5°, zoals van kracht op de datum van inwerkingtreding van dit decreet, gelden tot 26 september 2022.
+
+### ART 64.
+
+Artikel 2 en 3 en 14 tot en met 44 treden in werking op 17 juli 2021.
