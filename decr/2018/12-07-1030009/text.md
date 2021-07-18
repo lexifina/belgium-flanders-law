@@ -334,24 +334,27 @@ Als de kennisgeving niet voldoet aan de bepalingen van het eerste lid, start de 
 
 ### ART II.22.
 
-§ 1. Overheidsinstanties als vermeld in artikel II.18, voorzien voor een procedure in een elektronische weg om berichten uit te wisselen met gebruikers, ook als de toepasselijke regelgeving alleen voorziet in de uitwisseling via analoge weg, vanaf het moment waarop de overheidsinstantie de beslissing dat elektronische uitwisseling mogelijk is voor de procedure, heeft bekendgemaakt.<br>
+§ 1. Overheidsinstanties als vermeld in artikel II.18, kunnen voor een procedure voorzien in een of meer elektronische wegen om berichten uit te wisselen met gebruikers, ook als de toepasselijke regelgeving alleen voorziet in de uitwisseling via analoge weg of als de regelgeving al in een bepaalde elektronische weg voorziet, vanaf het moment waarop de overheidsinstantie de beschikbare elektronische wegen voor de procedure heeft bekendgemaakt.<br>
 <br>
 De overheidsinstanties, vermeld in artikel II.18, kunnen beperkingen en technische eisen opleggen aan de uitwisseling via elektronische weg.<br>
 <br>
 De Vlaamse Regering kan overheidsinstanties als vermeld in artikel II.18, verplichten om in procedures uitwisseling van berichten via elektronische weg mogelijk te maken.<br>
 <br>
-§ 2. Als de toepasselijke regelgeving niet voorziet in elektronische uitwisseling van berichten, gelden de volgende voorwaarden voor de elektronische uitwisseling met burgers of externe overheden:<br>
-1° de overheidsinstanties, vermeld in artikel II.18, moeten burgers en externe overheden vooraf informeren over de te volgen procedures en over de rechtsgevolgen die de elektronische uitwisseling heeft;<br>
-2° de burgers of externe overheden moeten vooraf uitdrukkelijk ingestemd hebben met de uitwisseling van berichten via elektronische weg;<br>
-3° de burgers en externe overheden moeten die instemming op elk moment kunnen intrekken.<br>
+§ 2. In geval van toepassing van paragraaf 1 worden de volgende voorwaarden nageleefd voor de elektronische uitwisseling met burgers of externe overheden:<br>
+1° de overheidsinstanties, vermeld in artikel II.18, informeren burgers en externe overheden vooraf over:<br>
+a) de stappen die gevolgd moeten worden;<br>
+b) de technieken die worden gebruikt;<br>
+c) de rechtsgevolgen van de elektronische uitwisseling;<br>
+2° de natuurlijke personen, niet in hun hoedanigheid van ondernemer, stemmen vooraf uitdrukkelijk in met de uitwisseling van berichten via elektronische weg;<br>
+3° de natuurlijke personen, niet in hun hoedanigheid van ondernemer, kunnen de instemming, vermeld in punt 2°, op elk moment intrekken.<br>
 <br>
 § 3. De overheidsinstanties, vermeld in artikel II.18, die berichten via elektronische weg uitwisselen, garanderen voor de elektronische communicatie een voldoende graad van informatieveiligheid en onweerlegbaarheid.<br>
 <br>
-Ze stellen maatregelen vast die aangepast zijn aan de omstandigheden en die gelijkwaardige garanties bieden voor informatieveiligheid en onweerlegbaarheid als de uitwisseling op analoge dragers. Die maatregelen worden bekendgemaakt.<br>
+Ze stellen maatregelen vast die aangepast zijn aan de omstandigheden en die gelijkwaardige garanties bieden voor informatieveiligheid en onweerlegbaarheid als de uitwisseling waarin in de toepasselijke regelgeving is voorzien. Die maatregelen worden bekendgemaakt.<br>
 <br>
 De Vlaamse Regering kan de minimumnormen bepalen waaraan de maatregelen, vermeld in het tweede lid, moeten voldoen.<br>
 <br>
-§ 4. Onder de voorwaarden, vermeld in paragraaf 1, 2 en 3, brengt de uitwisseling via elektronische weg dezelfde rechtsgevolgen tot stand als de uitwisseling op analoge dragers.
+§ 4. Onder de voorwaarden, vermeld in paragraaf 1, 2 en 3, brengt de uitwisseling die mogelijk wordt gemaakt met toepassing van paragraaf 1, dezelfde rechtsgevolgen tot stand als de uitwisseling waarin in de toepasselijke regelgeving is voorzien.
 
 ### ART II.23.
 
@@ -359,7 +362,23 @@ Tenzij het anders voorzien is in de toepasselijke regelgeving, geldt als tijdsti
 <br>
 Tenzij het anders voorzien is in de toepasselijke regelgeving, geldt als tijdstip waarop een bericht elektronisch is ontvangen door een overheidsinstantie als vermeld in artikel II.18, het tijdstip waarop het bericht het informatiesysteem dat die overheidsinstantie gebruikt, bereikt.<br>
 <br>
-Als de overheidsinstantie, vermeld in artikel II.18, en de geadresseerde gebruikmaken van hetzelfde informatiesysteem geldt een elektronisch bericht als aangetekende zending.
+Als de overheidsinstantie, vermeld in artikel II.18, en de geadresseerde gebruikmaken van hetzelfde informatiesysteem geldt een elektronisch bericht als aangetekende zending.<br>
+<br>
+In het eerste en het derde lid wordt verstaan onder hetzelfde informatiesysteem: een informatiesysteem of een combinatie van informatiesystemen waarbij de overheidsinstantie voldoende controle heeft over de logging van het tijdstip van verzending en ontvangst van een bericht.
+
+### ART II.23/1
+
+§ 1. In dit artikel wordt verstaan onder eBox: de eBox, vermeld in artikel 2, 3°, van de wet van 27 februari 2019 inzake elektronische uitwisseling van berichten via de eBox.<br>
+<br>
+§ 2. Overheidsinstanties als vermeld in artikel II.18, kunnen de eBox gebruiken voor de elektronische uitwisseling van berichten.<br>
+<br>
+De uitwisseling van berichten via de eBox geldt als een uitwisseling binnen hetzelfde informatiesysteem, vermeld in artikel II.23, derde en vierde lid.<br>
+<br>
+Als een systeemfout verhindert dat een bericht wordt verzonden of ontvangen, geldt de informatie die daarover, met toepassing van artikel 4, tweede lid, van de wet van 27 februari 2019 inzake de elektronische uitwisseling van berichten via de eBox, ter beschikking is gesteld, als bewijs van de systeemfout die kan worden ingeroepen als bewijs van overmacht.<br>
+<br>
+§ 3. Als de uitwisseling van berichten via de eBox niet mogelijk is op grond van de toepasselijke regelgeving, gelden de voorwaarden, vermeld in artikel II.22, § 2.<br>
+<br>
+Onder de voorwaarden, vermeld in het eerste lid, brengt de uitwisseling via de eBox dezelfde rechtsgevolgen tot stand als de uitwisseling waarin in de toepasselijke regelgeving is voorzien.
 
 ## Afdeling 3. Bestuurshandelingen in elektronische vorm
 
@@ -370,6 +389,8 @@ Als de overheidsinstantie, vermeld in artikel II.18, en de geadresseerde gebruik
 § 2. Als een bestuursdocument moet worden ondertekend om rechtsgevolgen tot stand te brengen, kan aan die vereiste worden voldaan door een elektronische procedure die op een aantoonbare wijze, die is aangepast aan de omstandigheden, de authenticiteit en de integriteit van de gegevens waarborgt.<br>
 <br>
 Deze procedure wordt door de overheidsinstantie zelf vastgesteld.<br>
+<br>
+§ 2/2. Een bestuursdocument dat op elektronische wijze ondertekend is, kan worden gematerialiseerd in een equivalent dat de authenticiteit en de integriteit van de gegevens waarborgt.<br>
 <br>
 § 3. De Vlaamse Regering kan standaarden opleggen voor en nadere regels bepalen met betrekking tot de opmaak van bestuursdocumenten op een elektronische drager als vermeld in paragraaf 1, en met betrekking tot de vaststelling van de procedures, vermeld in paragraaf 2, tweede lid.
 
@@ -446,7 +467,8 @@ Bij het Vlaams Parlement wordt met het begrip personeelslid als vermeld in het e
 
 Tenzij het belang van de openbaarheid primeert, mogen de overheidsinstanties, vermeld in artikel II.28, § 1, een aanvraag afwijzen:<br>
 1° als de aanvraag kennelijk onredelijk blijft of op een te algemene wijze geformuleerd blijft, na een verzoek van de betrokken instantie tot herformulering van de eerste aanvraag als vermeld in artikel II.42;<br>
-2° als de aanvraag betrekking heeft op bestuursdocumenten die niet af of onvolledig zijn.
+2° als de aanvraag betrekking heeft op bestuursdocumenten die niet af of onvolledig zijn;<br>
+3° als de aanvraag betrekking heeft op interne communicatie.
 
 ### ART II.34.
 
@@ -454,7 +476,7 @@ Tenzij de aanvraag betrekking heeft op milieu-informatie, wijzen de overheidsins
 1° de openbaarmaking afbreuk doet aan een geheimhoudingsverplichting, vastgesteld in een aangelegenheid waarvoor de Vlaamse Gemeenschap of het Vlaamse Gewest bevoegd is;<br>
 2° de openbaarmaking afbreuk doet aan de bescherming van de persoonlijke levenssfeer, tenzij de betrokken persoon met de openbaarmaking instemt;<br>
 3° de openbaarmaking afbreuk doet aan het geheim van de beraadslagingen van de organen van de Vlaamse overheid, van de organen van de lokale overheden, van de organen van de instellingen met een publieke taak en van de organen van de milieu-instanties;<br>
-4° het om bestuursdocumenten gaat die uitsluitend ten behoeve van de strafvordering of de vordering van een administratieve sanctie werden opgesteld;<br>
+4° het om bestuursdocumenten gaat die uitsluitend ten behoeve van de strafvordering of de vordering van een administratieve sanctie zijn opgesteld, zolang de mogelijkheid blijft bestaan om een strafsanctie of een administratieve sanctie op te leggen;<br>
 5° het om bestuursdocumenten gaat die uitsluitend ten behoeve van de mogelijke toepassing van tuchtmaatregelen zijn opgesteld, zolang de mogelijkheid om een tuchtmaatregel te nemen blijft bestaan;<br>
 6° het om bestuursdocumenten gaat die informatie bevatten die door een derde is verstrekt zonder dat hij daartoe verplicht is en die hij uitdrukkelijk als vertrouwelijk heeft bestempeld, tenzij die persoon met de openbaarmaking instemt.
 
@@ -475,7 +497,7 @@ Tenzij de aanvraag betrekking heeft op milieu-informatie, wijzen de overheidsins
 De overheidsinstanties, vermeld in artikel II.28, § 1, wijzen de aanvraag tot openbaarmaking af als ze van oordeel zijn dat het belang van de openbaarheid niet opweegt tegen de bescherming van een van de volgende belangen:<br>
 1° de bescherming van de persoonlijke levenssfeer, tenzij de betrokken persoon met de openbaarmaking instemt;<br>
 2° het geheim van de beraadslagingen van de organen van de Vlaamse overheid, van de organen van de lokale overheden, van de organen van de instellingen met een publieke taak en van de organen van de milieu-instanties;<br>
-3° het vertrouwelijke karakter van bestuursdocumenten die uitsluitend ten behoeve van de strafvordering of de vordering van een administratieve sanctie zijn opgesteld;<br>
+3° het vertrouwelijke karakter van bestuursdocumenten die uitsluitend ten behoeve van de strafvordering of de vordering van een administratieve sanctie zijn opgesteld, zolang de mogelijkheid blijft bestaan om een strafsanctie of een administratieve sanctie op te leggen;<br>
 4° het vertrouwelijke karakter van bestuursdocumenten die uitsluitend ten behoeve van de mogelijke toepassing van tuchtmaatregelen werden opgesteld, zolang de mogelijkheid om een tuchtmaatregel te nemen blijft bestaan;<br>
 5° de bescherming van de informatie die een derde heeft verstrekt zonder dat hij daartoe verplicht is, en die hij uitdrukkelijk als vertrouwelijk heeft bestempeld, tenzij die persoon met de openbaarmaking instemt;<br>
 6° het vertrouwelijke karakter van de internationale betrekkingen van het Vlaamse Gewest of de Vlaamse Gemeenschap en van de betrekkingen van het Vlaamse Gewest of de Vlaamse Gemeenschap met de supranationale instellingen, met de federale overheid en met andere gemeenschappen en gewesten;<br>
@@ -583,7 +605,11 @@ Als de overheidsinstantie oordeelt dat ze de gevraagde informatie moeilijk tijdi
 <br>
 § 2. Als de aanvrager wil gebruikmaken van zijn recht op inzage, stelt de overheidsinstantie die het bestuursdocument bezit, in overleg met de aanvrager de plaats, de datum en het tijdstip van inzage vast. De aanvrager moet het bestuursdocument onder redelijke omstandigheden kunnen inkijken en moet daarvoor ook voldoende tijd krijgen. De overheidsinstanties kunnen nadere regels vaststellen voor de wijze waarop het inzagerecht kan worden uitgevoerd.<br>
 <br>
-§ 3. De overheidsinstantie die een aanvraag tot openbaarmaking inwilligt, vermeldt in voorkomend geval in de beslissing dat die inwilliging geen toestemming inhoudt om de gevraagde bestuursdocumenten te hergebruiken als vermeld in hoofdstuk 4.
+§ 3. De aanvrager die een afschrift van een bestuursdocument ontvangt, kan het afschrift gebruiken om zijn rechten en belangen te beschermen, en om zijn vrijheid van meningsuiting en van informatie uit te oefenen.<br>
+<br>
+De toepassing van het eerste lid mag niet tot gevolg hebben dat informatie van persoonlijke aard toegankelijk wordt voor personen die niet voldoen aan de voorwaarden van artikel II.40, § 3, tweede lid, behoudens wanneer dit nodig is om zijn rechten en belangen te beschermen.<br>
+<br>
+De overheidsinstantie die een aanvraag tot openbaarmaking inwilligt, vermeldt in de beslissing dat die inwilliging geen toestemming inhoudt om de gevraagde bestuursdocumenten te hergebruiken als vermeld in hoofdstuk 4.
 
 ### ART II.45.
 
@@ -636,15 +662,21 @@ Als de overheidsinstantie de verbetering of aanvulling onmogelijk binnen twintig
 <br>
 Hij stelt dat beroep in bij de beroepsinstantie, vermeld in artikel III.90.<br>
 <br>
-De aanvrager dient het beroep per brief, per e-mail of, in voorkomend geval, per webformulier in binnen een termijn van dertig kalenderdagen die, naargelang het geval, ingaat op de dag nadat de beslissing verstuurd is, of op de dag nadat de termijn, vermeld in artikel II.44, § 1, verstreken is.<br>
+De aanvrager dient het beroep in met een brief, met een e-mail of, in voorkomend geval, met een webformulier binnen een termijn van dertig kalenderdagen die ingaat op een van de volgende dagen:<br>
+1° als de aanvraag is afgewezen: op de dag nadat de beslissing verstuurd is;<br>
+2° als de aanvraag volledig of gedeeltelijk is ingewilligd, maar niet is uitge voerd binnen de termijnen, vermeld in artikel II.44, § 1: op de dag nadat de termijn, vermeld in artikel II.44, § 1, verstreken is.<br>
 <br>
 Als de kennisgeving van de beslissing niet voldoet aan de bepalingen van artikel II.43, § 1, derde lid, start de termijn om een beroep in te dienen pas vier maanden na de kennisgeving.<br>
 <br>
 De termijn om een beroep in te stellen neemt geen aanvang bij ontstentenis van een beslissing.<br>
 <br>
-§ 2. De aanvrager bezorgt aan de beroepsinstantie een afschrift van zijn oorspronkelijke aanvraag en de beslissing van de betrokken overheidsinstantie waartegen beroep wordt ingesteld, als er een beslissing is genomen.<br>
+§ 2. Het beroep bevat al de volgende informatie:<br>
+1° de voor- en achternaam van de indiener;<br>
+2° het adres van de indiener;<br>
+3° een afschrift van de oorspronkelijke aanvraag;<br>
+4° een afschrift van de beslissing van de betrokken overheidsinstantie waartegen beroep wordt ingesteld, als er een beslissing is genomen.<br>
 <br>
-Als de voormelde documenten ontbreken, dan wordt de behandelingstermijn, vermeld in artikel II.50, § 1, opgeschort, tot de beroepsinstantie in het bezit is van de vereiste documenten.
+Als het beroep onvolledig is, wordt de behandelingstermijn, vermeld in artikel II.50, § 1, opgeschort tot de beroepsinstantie in het bezit is van de vereiste informatie.
 
 ### ART II.49.
 
@@ -659,6 +691,8 @@ De beroepsinstantie brengt de betrokken overheidsinstantie onmiddellijk op de ho
 Als de beroepsinstantie oordeelt dat ze de aanvraag moeilijk tijdig kan toetsen aan de uitzonderingsgronden, vermeld in dit hoofdstuk, deelt ze aan de indiener van het beroep mee dat de termijn van dertig kalenderdagen verlengd wordt tot een termijn van vijfenveertig kalenderdagen. De verlengingsbeslissing vermeldt de reden of de redenen voor het uitstel.<br>
 <br>
 Als de aanvraag tot openbaarmaking wordt afgewezen op grond van artikel II.34, 2° of 6°, artikel II.35, 3°, of artikel II.36, § 1, tweede lid, 1°, 5° of 7°, neemt de beroepsinstantie contact op met de betrokkene en vraagt ze of de aanvrager toestemming krijgt om alsnog toegang te krijgen tot het gevraagde bestuursdocument, als die toestemming nog niet is gevraagd door de betrokken overheidsinstantie.<br>
+<br>
+Als de oorspronkelijke aanvraag tot openbaarmaking is afgewezen omdat ze kennelijk onredelijk is of op een te algemene wijze is geformuleerd, zonder dat de overheidsinstantie om specificatie of vervollediging heeft gevraagd, beschikt de beroepsinstantie zelf over de mogelijkheid om de aanvrager te verzoeken om zijn aanvraag te specificeren of te vervolledigen. De termijn van dertig kalenderdagen, vermeld in artikel II.50, § 1, begint in dat geval te lopen vanaf het moment dat de aanvrager zijn aanvraag gespecificeerd of vervolledigd heeft.<br>
 <br>
 § 2. Als de beroepsinstantie het beroep inwilligt, staat zij de openbaarmaking of de verbetering of aanvulling toe.<br>
 <br>
@@ -1652,13 +1686,13 @@ Deze afdeling is van toepassing op de volgende overheidsinstanties:<br>
 3° de instellingen die niet onder punt 1° of 2° vallen, maar die voldoen aan al de volgende kenmerken:<br>
 a) ze zijn opgericht met het specifieke doel te voorzien in behoeften van algemeen belang;<br>
 b) ze bezitten rechtspersoonlijkheid;<br>
-c) 1) ofwel worden ze voor meer dan de helft gefinancierd door een instantie die onder het toepassingsgebied van deze afdeling valt;<br>
+c) 1) ...;<br>
 2) ofwel heeft een instantie die onder het toepassingsgebied van deze afdeling valt meer dan de helft van de stemmen in de raad van bestuur;<br>
 3) ofwel staat hun beheer onder het toezicht van een instantie die onder het toepassingsgebied van deze afdeling valt.
 
 ### ART III.60.
 
-Als een rechtshandeling van een overheidsinstantie als vermeld in artikel III.59, tot gevolg heeft dat buitenlandse natuurlijke personen of rechtspersonen zeggenschap of beslissingsmacht krijgen in die overheidsinstantie, en als daardoor de strategische belangen van de Vlaamse Gemeenschap of het Vlaamse Gewest bedreigd worden, met name als de continuïteit van vitale processen in het gedrang komt, als bepaalde strategische of gevoelige kennis in buitenlandse handen dreigt te vallen of als de strategische onafhankelijkheid van de Vlaamse Gemeenschap of het Vlaamse Gewest in het gedrang komt, kan de Vlaamse Regering die rechtshandeling nietig verklaren of buiten toepassing verklaren.<br>
+Als een rechtshandeling van een overheidsinstantie als vermeld in artikel III.59, tot gevolg heeft dat natuurlijke personen of rechtspersonen die niet gevestigd zijn in een lidstaat van de Europese Unie of in een andere staat van de Europese Economische Ruimte, zeggenschap of beslissingsmacht krijgen in die overheidsinstantie, en als daardoor de strategische belangen van de Vlaamse Gemeenschap of het Vlaamse Gewest bedreigd worden, met name als de continuïteit van vitale processen in het gedrang komt, als bepaalde strategische of gevoelige kennis in buitenlandse handen dreigt te vallen of als de strategische onafhankelijkheid van de Vlaamse Gemeenschap of het Vlaamse Gewest in het gedrang komt, kan de Vlaamse Regering die rechtshandeling nietig verklaren, schorsen of buiten toepassing verklaren.<br>
 <br>
 De Vlaamse Regering kan alleen toepassing maken van het eerste lid als ze kan aantonen dat ze gepoogd heeft de vrijwaring van de strategische belangen te realiseren met instemming van de betrokken overheidsinstantie.
 
@@ -1759,9 +1793,9 @@ Onder gegevensinitiator wordt verstaan een overheidsinstantie, vermeld in artike
 
 ### ART III.68.
 
-De overheidsinstanties, vermeld in artikel III.65, § 2, moeten de gegevens die ze nodig hebben voor de uitvoering van de taken van algemeen belang waarmee ze zijn belast of voor de uitvoering van de verplichtingen die op hen rusten, opvragen bij gegevensbronnen als vermeld in artikel III.66, § 1. De Vlaamse Regering kan daarbij per voormelde gegevensbron en per overheidsinstantie of groep van overheidsinstanties een tijdschema vastleggen na advies van het stuurorgaan.<br>
+De overheidsinstanties, vermeld in artikel III.65, § 2,&nbsp;van dit decreet moeten de gegevens die ze nodig hebben voor de uitvoering van de taken van algemeen belang waarmee ze zijn belast of voor de uitvoering van de verplichtingen die op hen rusten,&nbsp;via de tussenkomst van de Vlaamse dienstenintegrator, vermeld in artikel 3, § 1, van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator, opvragen bij gegevensbronnen als vermeld in artikel III.66, § 1, van dit decreet. De Vlaamse Regering kan daarbij per voormelde gegevensbron en per overheidsinstantie of groep van overheidsinstanties een tijdschema vastleggen na advies van het stuurorgaan.<br>
 <br>
-De Vlaamse Regering stelt vast, op voorstel van het stuurorgaan, welke gegevensbronnen die een externe overheid beheert, de overheidsinstanties, vermeld in artikel III.65, § 2, moeten raadplegen voor de uitvoering van de taken van algemeen belang waarmee ze zijn belast, of voor de uitvoering van de verplichtingen die op hen rusten. De Vlaamse Regering kan daarbij per voormelde gegevensbron en per overheidsinstantie of groep van overheidsinstanties een tijdschema vastleggen na advies van het stuurorgaan.<br>
+De Vlaamse Regering stelt vast, op voorstel van het stuurorgaan, welke gegevensbronnen die een externe overheid beheert, de overheidsinstanties, vermeld in artikel III.65, § 2, moeten raadplegen voor de uitvoering van de taken van algemeen belang waarmee ze zijn belast, of voor de uitvoering van de verplichtingen die op hen rusten.&nbsp;In dat geval doen de overheidsinstanties, vermeld in artikel III.65, § 2, een beroep op de tussenkomst van de Vlaamse dienstenintegrator, vermeld in het eerste lid. De Vlaamse Regering kan daarbij per voormelde gegevensbron en per overheidsinstantie of groep van overheidsinstanties een tijdschema vastleggen na advies van het stuurorgaan.<br>
 <br>
 De Vlaamse Regering kan met de externe overheden de nodige akkoorden sluiten zodat de gegevens die in die voormelde gegevensbronnen opgenomen zijn, kunnen worden gebruikt.
 
@@ -1829,7 +1863,7 @@ Het stuurorgaan brengt advies uit over:<br>
 3° de optimalisering binnen de Vlaamse overheid en de lokale overheden van de aanmaak, het gebruik, het beheer van en de uitwisseling tussen gegevensbronnen en authentieke gegevensbronnen;<br>
 4° een gestructureerde aanpak bij de uitbouw van een stelsel van Vlaamse authentieke gegevensbronnen, met inbegrip van het promoten, begeleiden en coördineren van Vlaamse authentieke gegevensbronnen bij de Vlaamse overheid en de lokale overheden;<br>
 5° het gebruik van verwijzingen naar het gegeven in de gegevensbron of de authentieke gegevensbron voor gegevens die geheel of gedeeltelijk overlappen met een authentiek gegeven in een authentieke gegevensbron;<br>
-6° het vastleggen van regels voor de gegevensbron of de authentieke gegevensbron inzake de voorwaarden voor raadpleging door of mededeling van bepaalde gegevens.
+6° het vastleggen van regels voor de gegevensbron of de authentieke gegevensbron inzake de voorwaarden voor raadpleging of mededeling van bepaalde gegevens.
 
 ### ART III.76.
 
@@ -1854,7 +1888,9 @@ De Vlaamse Regering kan de leden van het stuurorgaan ontslaan op eigen verzoek o
 
 ### ART III.77.
 
-De Vlaamse Regering bepaalt de werking van het secretariaat dat belast is met de administratieve ondersteuning en de organisatie van het stuurorgaan en zijn werkgroepen, omschrijft, zo nodig, nader zijn bevoegdheden, bepaalt de nadere regels voor de werking en benoemt de voorzitter en de leden voor een termijn van vijf jaar, met uitzondering van de externe innovators, vermeld in artikel III.76, eerste lid, 5°, die voor een termijn van twee jaar worden benoemd.
+De Vlaamse Regering bepaalt de werking van het secretariaat dat belast is met de administratieve ondersteuning en de organisatie van het stuurorgaan en zijn werkgroepen, omschrijft, zo nodig, nader zijn bevoegdheden, bepaalt de nadere regels voor de werking en benoemt de voorzitter en de leden voor een termijn van vijf jaar.<br>
+<br>
+Het stuurorgaan kan personeelsleden van de Vlaamse overheid en van de lokale overheden omwille van hun expertise uitnodigen om voor een termijn van een jaar als waarnemend lid met raadgevende stem deel te nemen aan de werkzaamheden van het stuurorgaan.
 
 ### ART III.78.
 
@@ -2139,7 +2175,7 @@ Een strategische adviesraad brengt jaarlijks verslag uit van zijn werkzaamheden 
 
 ### ART III.107.
 
-§ 1. Deze afdeling is van toepassing op de volgende overheidsinstanties:<br>
+§ 1. Tenzij het anders is vermeld, is deze afdeling van toepassing op de volgende overheidsinstanties:<br>
 1° de departementen;<br>
 2° de intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid;<br>
 3° de intern verzelfstandigde agentschappen met rechtspersoonlijkheid;<br>
@@ -2171,11 +2207,13 @@ De ontwikkeling, productie en verspreiding mogen geen onevenredige lasten met zi
 
 De Vlaamse Statistische Autoriteit draagt er zorg voor dat de Vlaamse openbare statistieken worden ontwikkeld, geproduceerd en verspreid conform artikel III.109.<br>
 <br>
-De Vlaamse Statistische Autoriteit voert een grondige en systematische kwaliteitsmonitoring uit op de ontwikkeling, productie en verspreiding van de Vlaamse openbare statistieken en kan methodologische aanbevelingen geven.
+De Vlaamse Statistische Autoriteit voert een grondige en systematische kwaliteitsmonitoring uit op de ontwikkeling, productie en verspreiding van de Vlaamse openbare statistieken en kan methodologische aanbevelingen geven.<br>
+<br>
+De Vlaamse Statistische Autoriteit voert ook zelf statistisch en wetenschappelijk onderzoek uit ter uitvoering van het statistische programma op basis van steekproefenquêtes, van administratieve registers en van organische data.
 
 ### ART III.111.
 
-De Vlaamse Regering stelt jaarlijks het statistische programma vast waarin de planning en afspraken worden vastgelegd voor de ontwikkeling, productie en verspreiding van de Vlaamse openbare statistieken. De Vlaamse Statistische Autoriteit coördineert het proces van de voorbereiding en opvolging van het statistische programma.<br>
+De Vlaamse Regering stelt&nbsp;periodiek het statistische programma vast waarin de planning en afspraken worden vastgelegd voor de ontwikkeling, productie en verspreiding van de Vlaamse openbare statistieken. De Vlaamse Statistische Autoriteit coördineert het proces van de voorbereiding en opvolging van het statistische programma.<br>
 <br>
 De Vlaamse Regering bepaalt de wijze waarop het statistische programma voor de Vlaamse openbare statistieken wordt opgesteld.
 
@@ -2185,12 +2223,93 @@ De Vlaamse Statistische Autoriteit bereidt met de overheidsinstanties, vermeld i
 
 ### ART III.113.
 
-Om de opdrachten, vermeld in artikel III.110 tot en met III.112, te kunnen uitoefenen, is de Vlaamse Statistische Autoriteit bevoegd om:<br>
+§ 1. In dit artikel wordt verstaan onder individuele gegevens: informatie over een geïdentificeerde of identificeerbare observatie- of meeteenheid, met inbegrip van persoonsgegevens.<br>
+<br>
+§ 2. Om de opdrachten, vermeld in artikel III.110 tot en met III.112, te kunnen uitoefenen, is de Vlaamse Statistische Autoriteit bevoegd om:<br>
 1° de overheidsinstanties, vermeld in artikel III.107, § 1, te verplichten mee te werken aan het opstellen van het statistische programma en de statistieken te ontwikkelen, te produceren en te verspreiden ter uitvoering van het statistische programma voor de Vlaamse openbare statistieken;<br>
 2° natuurlijke personen of rechtspersonen, als dat nodig is, te verplichten deel te nemen aan statistische onderzoekingen ter uitvoering van het statistische programma;<br>
-3° toegang te krijgen tot alle informatie en documenten, ongeacht de drager ervan, waarover de overheidsinstanties, vermeld in artikel III.107, § 1, beschikken voor de ontwikkeling, productie en verspreiding van de Vlaamse openbare statistieken.
+3° toegang te krijgen tot alle informatie en documenten, ongeacht de drager ervan, waarover de overheidsinstanties, vermeld in artikel III.107, § 1, beschikken voor de ontwikkeling, productie en verspreiding van de Vlaamse openbare statistieken.<br>
+<br>
+§ 3. Om de opdrachten, vermeld in artikel III.110 tot en met III.112, te kunnen uitoefenen, gebruikt de Vlaamse Statistische Autoriteit de mededeling van, met inbegrip van de toegang tot, individuele gegevens van de instanties van de Vlaamse overheid, de lokale overheden, de instellingen met een publieke taak, de milieu-instanties en de externe overheden.<br>
+<br>
+De Vlaamse Statistische Autoriteit gebruikt voor de uitvoering van haar opdrachten, de persoonsgegevens uit de volgende authentieke gegevensbronnen:<br>
+1° het Rijksregister;<br>
+2° de Kruispuntbank van de Sociale Zekerheid en de sociale gegevensbanken.<br>
+<br>
+De mededeling van individuele gegevens kan alleen met respect voor de statistische geheimhouding en binnen de grenzen van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is gespecificeerd.<br>
+<br>
+§ 4. De Vlaamse Statistische Autoriteit kan, met het oog op de uitvoering van de opdrachten, vermeld in artikel III.110 tot en met III.112, of met het oog op een latere verwerking voor statistische of wetenschappelijke doeleinden:<br>
+1° gegevensbanken samenstellen;<br>
+2° optreden als vertrouwde derde partij bij de verwerking van individuele gegevens.<br>
+<br>
+Bij de uitvoering van het eerste lid kan de Vlaamse Statistische Autoriteit:<br>
+1° verschillende externe databanken koppelen;<br>
+2° externe databanken aan haar databanken koppelen;<br>
+3° haar databanken koppelen.<br>
+<br>
+De Vlaamse Statistische Autoriteit gebruikt daarbij de volgende gegevens:<br>
+1° het rijksregisternummer, als de gegevens betrekking hebben op een natuurlijke persoon die in het Rijksregister is opgenomen;<br>
+2° het identificatienummer van de Kruispuntbank van de Sociale Zekerheid, als de gegevens betrekking hebben op een natuurlijke persoon die niet in het Rijksregister is opgenomen.<br>
+<br>
+De Vlaamse Statistische Autoriteit staat, onder toezicht van de functionaris voor gegevensbescherming, vermeld in artikel 9 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, in voor de productie van gepseudonimiseerde gegevens, op verzoek van de overheidsinstanties, vermeld in artikel III.107, § 1, van dit decreet, of op verzoek van universiteiten, hogescholen of erkende onderzoeksinstellingen. De functionaris voor gegevensbescherming controleert het gebruik van alle logische sleutels.<br>
+<br>
+De Vlaamse Statistische Autoriteit voert de verwerkingen op een transparante manier uit. Ze registreert alle koppelingen die op verzoek van derden zijn uitgevoerd.<br>
+<br>
+De Vlaamse Regering kan de algemene organisatorische en technische maatregelen bepalen die genomen moeten worden om de kwaliteit, de vertrouwelijkheid en de veiligheid van de gegevens en het statistische geheim te garanderen.
 
 ## [Afdeling 8/1. Verwerking van persoonsgegevens voor beleidsondersteunende taken (ing. decr. 2 juli 2021, art. 54, I: 18 juli 2021)]
+
+### ART III.113/1.
+
+§ 1. De toegang tot, de mededeling van en de verwerking van persoonsgegevens voor de volgende beleidsondersteunende taken in het kader van de bevoegdheden van de Vlaamse Gemeenschap of het Vlaamse Gewest, met het oog op de voorbereiding of evaluatie van het beleid en de opvolging van de beleidsuitvoering verlopen conform de bepalingen in deze afdeling:<br>
+1° statistisch onderzoek;<br>
+2° bevragingen;<br>
+3° beleidsmonitoring systemen;<br>
+4° wetenschappelijk en historisch beleidsonderzoek;<br>
+5° simulaties;<br>
+6° koppeling van data uit verschillende gegevensbronnen.<br>
+<br>
+De Vlaamse Regering kan de beleidsondersteunende taken, vermeld in het eerste lid, nader bepalen.<br>
+<br>
+§ 2. Deze afdeling is van toepassing op de volgende instanties van de Vlaamse administratie:<br>
+1° de departementen;<br>
+2° de intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid;<br>
+3° de intern verzelfstandigde agentschappen met rechtspersoonlijkheid;<br>
+4° de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen.<br>
+<br>
+Naast de instanties, vermeld in het eerste lid, is deze afdeling van toepassing op de instellingen die in opdracht van de voormelde instanties beleidsondersteunende taken als vermeld in paragraaf 1, verrichten.
+
+### ART III.113/2.
+
+Met toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is gespecificeerd, gebruiken de instanties voor de uitvoering van de beleidsondersteunende taken, vermeld in artikel III.113/1, § 1, de toegang tot of de mededeling van persoonsgegevens van de instanties van de Vlaamse overheid en van de lokale overheden, de instellingen met een publieke taak, de milieu-instanties en de externe overheden.<br>
+<br>
+De instanties gebruiken de volgende gegevens om de natuurlijke personen te identificeren:<br>
+1° het rijksregisternummer, als de gegevens betrekking hebben op een natuurlijke persoon die in het Rijksregister is opgenomen;<br>
+2° het identificatienummer van de Kruispuntbank van de Sociale Zekerheid, als de gegevens betrekking hebben op een natuurlijke persoon die niet in het Rijksregister is opgenomen.<br>
+<br>
+De instanties kunnen andere identificatienummers gebruiken als bepaalde gegevens die betrekking hebben op een natuurlijke persoon via een andere manier aan een unieke identificator worden gelinkt.
+
+### ART III.113/3.
+
+De Vlaamse Regering kan per beleidsdomein een departement, een intern verzelfstandigd agentschap of een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap belasten met de uitbouw en het beheer van een databank beleidsinformatie die informatie bevat over het beleidsdomein in kwestie of over een of meerdere onderdelen van het beleidsdomein in kwestie.<br>
+<br>
+Die databank heeft een of meer van de volgende doelstellingen:<br>
+1° de voorbereiding en evaluatie ondersteunen van het beleid in kwestie van het beleidsdomein in kwestie;<br>
+2° data aanleveren voor wetenschappelijk onderzoek rond het beleid in kwestie van het beleidsdomein in kwestie;<br>
+3° vragen om informatie beantwoorden over het beleid in kwestie dat onder het beleidsdomein in kwestie ressorteert, die door derden worden gesteld;<br>
+4° statistieken voor historische en beleidsdoeleinden genereren.<br>
+<br>
+Om de doelstellingen, vermeld in het tweede lid, te bereiken, bepaalt de Vlaamse Regering welke categorieën van gegevens in de databank beleidsinformatie worden verzameld over het beleid in kwestie dat ressorteert onder het beleidsdomein in kwestie. De Vlaamse Regering kan per beleidsdatabank bijkomende doelstellingen rond het beleid in kwestie vastleggen.<br>
+<br>
+De entiteiten van het beleidsdomein in kwestie en, in voorkomend geval, van andere beleidsdomeinen, lokale overheden of externe overheden verstrekken daarvoor de gegevens waarover ze beschikken en die voor het beleid in kwestie noodzakelijk zijn, met toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is gespecificeerd.<br>
+<br>
+De entiteit die door de Vlaamse Regering wordt belast met de uitbouw en het beheer van een databank beleidsinformatie, vermeld in het eerste lid, is verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+<br>
+De gepseudonimiseerde persoonsgegevens kunnen onder contractuele voorwaarden ook doorgegeven worden met het oog op wetenschappelijk onderzoek.<br>
+<br>
+Met het oog op statistische verwerkingen die de tijdsevolutie van het beleid in kwestie in Vlaanderen weergeven, worden een aantal gegevens permanent bewaard. De Vlaamse Regering kan daartoe specifieke regels en criteria vastleggen. Gegevens die niet langer nuttig zijn voor de voormelde doeleinden, worden verwijderd.<br>
+<br>
+De Vlaamse Regering kan de voorwaarden voor de raadpleging, het gebruik en de verwerving van de verwerkte gegevens bepalen. Ze kan ook de algemene organisatorische en technische maatregelen bepalen die genomen moeten worden om de kwaliteit, de vertrouwelijkheid en de veiligheid van de gegevens te garanderen.
 
 ## Afdeling 9. Organisatiebeheersing en interne audit
 
@@ -2249,7 +2368,7 @@ Buiten de gevallen van kwade trouw, persoonlijk voordeel of valse aangifte die e
 <br>
 De auditcomités staan in voor de aansturing en opvolging van, en de controle en het toezicht op Audit Vlaanderen. Beide auditcomités worden voorgezeten door een onafhankelijke deskundige.<br>
 <br>
-§ 5. Buiten de uitzonderingen op de geheimhoudingsplicht waarin artikel 27 van de wet van 22 juli 1953 houdende oprichting van een Instituut van de Bedrijfsrevisoren en tot organisatie van het publiek toezicht op het beroep van bedrijfsrevisor voorziet, geldt deze plicht tevens niet voor:<br>
+§ 5. Buiten de uitzonderingen op de geheimhoudingsplicht waarin artikel 86 van de wet van 7 december 2016 tot organisatie van het beroep van en het publiek toezicht op de bedrijfsrevisoren voorziet, geldt deze plicht tevens niet voor:<br>
 1° de informatie-uitwisseling over de auditstrategie en -planning, de monitoring en risicoanalyse, de controle en rapportering en de controlemethodieken door de bedrijfsrevisor aan het Rekenhof en Audit Vlaanderen inzake de lokale en provinciale besturen die zij gemeenschappelijk hebben als controledomein;<br>
 2° de overdracht aan het Rekenhof en Audit Vlaanderen van informatie uit werkdocumenten van de bedrijfsrevisor inzake lokale en provinciale besturen die zij gemeenschappelijk hebben als controledomein.
 
@@ -2257,15 +2376,15 @@ De auditcomités staan in voor de aansturing en opvolging van, en de controle en
 
 ### ART III.116.
 
-De Vlaamse Regering brengt jaarlijks verslag uit aan het Vlaams Parlement over de toepassing van de bepalingen over de toegang tot bestuursdocumenten en over de beroepen die werden ingesteld bij de beroepsinstantie openbaarheid van bestuur en hergebruik van overheidsinformatie.
+...
 
 ### ART III.117.
 
 Om de drie jaar brengt de Vlaamse Regering aan het Vlaams Parlement verslag uit over:<br>
-1° de beschikbaarheid van overheidsinformatie voor hergebruik, de voorwaarden waaronder de overheidsinformatie beschikbaar wordt gesteld, de praktijk op het vlak van rechtsmiddelen en in het bijzonder de toepassing van artikel II.59, namelijk met betrekking tot vergoedingen die de marginale kosten overstijgen;<br>
-2° de mate waarin websites en mobiele applicaties van overheidsinstanties voldoen aan de toegankelijkheidseisen, vermeld in artikel II.16, de resultaten van het toezicht daarop, met inbegrip van de meetgegevens en informatie over de handhavingsprocedures.<br>
+1° de mate waarin websites en mobiele applicaties van overheidsinstanties voldoen aan de toegankelijkheidsnormen, vermeld in artikel II.16;<br>
+2° de resultaten van het toezicht op de naleving van artikel II.16, met inbegrip van de meetgegevens en informatie over de handhavingsprocedures.<br>
 <br>
-Deze verslagen worden telkens ook aan de Europese Commissie bezorgd.
+Het verslag, vermeld in het eerste lid, wordt telkens ook aan de Europese Commissie bezorgd.
 
 ### ART III.118.
 
@@ -2281,7 +2400,7 @@ Deze paragraaf is niet van toepassing op de overheidsinstanties, vermeld in arti
 
 ### ART III.119.
 
-De Vlaamse Regering kan experimentregelgeving en regelluwe zones invoeren onder de voorwaarden die bepaald zijn in deze afdeling.<br>
+De Vlaamse Regering kan experimentregelgeving en regelluwe zones invoeren onder de voorwaarden die bepaald zijn in dit hoofdstuk.<br>
 <br>
 In dit hoofdstuk wordt verstaan onder:<br>
 1° experimentregelgeving: tijdelijke regelgeving met een geldingsduur van maximaal tien jaar, die geldt voor een specifieke ruimte of voor een specifieke doelgroep of in een specifieke situatie, en die bij wijze van experiment wordt ingevoerd;<br>
@@ -2310,7 +2429,7 @@ In dat geval wijst de Vlaamse Regering per experiment of regelluwe zone de decre
 1° bepalingen die betrekking hebben op de verweermogelijkheden en beroepsmogelijkheden;<br>
 2° bepalingen die de grondrechten van de burgers beschermen;<br>
 3° bepalingen die betrekking hebben op de veiligheid en gezondheid van de burgers;<br>
-4° bepalingen die Europese richtlijnen omzetten of Europese verordeningen uitvoeren.<br>
+4° ....<br>
 <br>
 § 3. Als de experimentregelgeving of regelluwe zone afwijkt van bestaande wettelijke of decretale bepalingen, bevat de afwijkende regeling in elk geval een gelijkwaardige rechtssituatie voor de rechtssubjecten als de bestaande, en laat ze definitief verworven rechten onaangetast.
 
