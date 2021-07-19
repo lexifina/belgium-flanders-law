@@ -152,6 +152,56 @@ De premie wordt berekend op basis van de geïnstalleerde capaciteit van de stati
 17° aan paragraaf 4 wordt een lid toegevoegd, dat luidt als volgt:<br>
 "In afwijking van het eerste lid kunnen aanvragen vanaf 1 april 2021 tot en met 31 december 2021 worden ingediend uiterlijk negen maanden na de factuurdatum of de datum waarop het leasecontract is gesloten.".
 
+### ART 11.
+
+Aan titel VII van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 18 december 2020, wordt een hoofdstuk XVI, dat bestaat uit artikel 7.16.1, toegevoegd, dat luidt als volgt:<br>
+<br>
+"Hoofdstuk XVI. Retroactieve investeringspremie voor decentrale productie-installaties met een nominaal vermogen van maximaal 10 kVA die in dienst zijn genomen voor 1 januari 2021<br>
+<br>
+Art. 7.16.1. § 1. Het Vlaamse Gewest verleent een retroactieve investeringspremie aan de eigenaars van decentrale productie-installaties met een nominaal vermogen van maximaal 10 kVA die in dienst zijn genomen in de periode van 1 januari 2006 tot en met 31 december 2020. De retroactieve investeringspremie wordt verleend binnen de perken van de middelen die daarvoor beschikbaar zijn op de uitgavenbegroting van de Vlaamse Gemeenschap of de middelen die de minister daarvoor, na beslissing van de Vlaamse Regering, in het Energiefonds worden gereserveerd.<br>
+<br>
+§ 2. Een aanvrager komt in aanmerking voor de retroactieve investeringspremie, vermeld in paragraaf 1, als al de volgende voorwaarden zijn vervuld:<br>
+1° de decentrale productie-installatie heeft een nominaal omvormersvermogen van maximaal 10 kVA en is in dienst genomen in de periode van 1 januari 2006 tot en met 31 december 2020;<br>
+2° de decentrale productie-installatie is aangesloten op het elektriciteitsdistributienet en de omvormer van de decentrale productie-installatie is in staat zijn elektriciteit te injecteren op het elektriciteitsdistributienet en heeft dat gedurende de laatste twaalf maanden nog gedaan;<br>
+3° de decentrale productie-installatie genoot op de datum van de uitspraak van het arrest nr. 5/2021 van 14 januari 2021 van het Grondwettelijk Hof van de regeling met betrekking tot de compensatie van injectie en afname, vermeld in artikel 15.3.5/12 van het Energiedecreet van 8 mei 2009, vernietigd bij arrest nr. 5/2021 van 14 januari 2021 van het Grondwettelijk Hof;<br>
+4° de decentrale productie-installatie is uiterlijk op 1 oktober 2021 aangemeld bij de elektriciteitsdistributienetbeheerder van het elektriciteitsdistributienet waarop de installatie aangesloten is;<br>
+5° er is voor het toegangspunt in kwestie door de netbeheerder een digitale meter geplaatst of een andere meter geplaatst die de injectie en afname afzonderlijk kan meten;<br>
+6° de eigenaar of de gebruiker van de decentrale productie-installatie heeft de netbeheerder vanaf 1 januari 2025 voor de plaatsing van een digitale meter niet de toegang geweigerd tot de ruimte waarin de elektriciteits- of aardgasmeter is opgesteld en waarover hij het eigendoms- of gebruiksrecht heeft;<br>
+7° de aanvrager doet uitdrukkelijk afstand van iedere rechtsvordering ten aanzien van het Vlaamse Gewest tot vergoeding van enige vermeende directe of indirecte schade ten gevolge van het arrest nr. 5/2021 van 14 januari 2021 van het Grondwettelijk Hof. Deze afstand geschiedt onder de opschortende voorwaarde van het ontvangen van de premie.<br>
+<br>
+§ 3. De aanvrager komt in aanmerking voor de retroactieve investeringspremie, als hij zich, op straffe van onontvankelijkheid van de aanvraag, uiterlijk zes maanden na de plaatsing van de digitale meter en niet later dan 31 december 2025 aanmeldt via een webapplicatie die de elektriciteitsdistributienetbeheerder of zijn werkmaatschappij ter beschikking stelt. De aanmelding bevat minstens al de volgende gegevens:<br>
+1° de unieke identificatie, het rijksregisternummer, bis-nummer of ondernemingsnummer, en de contactgegevens van de aanvrager van de retroactieve investeringspremie;<br>
+2° het rekeningnummer waarop de retroactieve investeringspremie wordt uitbetaald;<br>
+3° de identificatie van de decentrale productie-installatie aan de hand van het EAN-nummer van het toegangspunt;<br>
+4° de datum van indienstneming van de decentrale productie-installatie;<br>
+5° het geïnstalleerd vermogen van de decentrale productie-installatie uitgedrukt in kWp;<br>
+6° de datum van de plaatsing van de digitale meter.<br>
+<br>
+In afwijking van het eerste lid kan voor decentrale productie-installaties, vermeld in paragraaf 1, waar vóór de datum van de inwerkingtreding van dit artikel door de netbeheerder al een digitale meter is geïnstalleerd of een andere meter geplaatst die de injectie en afname afzonderlijk kan meten, en waarbij de eigenaar geen afstand heeft gedaan van de regeling met betrekking tot de compensatie van injectie en afname conform artikel 15.3.5/12, vierde lid, van het Energiedecreet van 8 mei 2009, vernietigd bij arrest nr. 5/2021 van 14 januari 2021 van het Grondwettelijk Hof, op straffe van onontvankelijkheid, een aanvraag worden ingediend binnen zes maanden vanaf de dag van de inwerkingtreding van dit artikel.<br>
+<br>
+Voor de verwerkingen van persoonsgegevens is het VEKA de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming. Het VEKA doet voor de administratieve behandeling van de dossiers en voor de voorbereiding van de uitbetaling ook een beroep op de diensten van de elektriciteitsdistributienetbeheerder of zijn werkmaatschappij. De elektriciteitsdistributienetbeheerder of zijn werkmaatschappij bezorgt wekelijks in 2021 en vanaf 2022 minstens maandelijks aan het VEKA een lijst van de besliste dossiers die in aanmerking komen voor de retroactieve investeringspremie. Die lijst bevat de naam- en adresgegevens van de personen die in aanmerking komen, het rijksregisternummer, bis-nummer of ondernemingsnummer, hun rekeningnummer en het respectievelijke bedrag van de retroactieve investeringspremie. Het VEKA kan het format bepalen waaronder die lijst wordt doorgestuurd.<br>
+<br>
+Het VEKA kan ter bestrijding van energiefraude op eenvoudig verzoek bij de elektriciteitsdistributienetbeheerder van het net waarop de decentrale productie-installatie is aangesloten of diens werkmaatschappij de nodige inlichtingen opvragen over de correctheid van de gegevens uit de aanvraag van de retroactieve investeringspremie.<br>
+<br>
+De verwerkte gegevens over de aanvragen voor de retroactieve investeringspremie worden tot vijftien jaar na de beslissing tot weigering of tot uitbetaling van de tegemoetkoming bewaard.<br>
+<br>
+§ 4. De hoogte van de retroactieve investeringspremie is vastgelegd in de tabel die is opgenomen in bijlage IV/2, die bij dit besluit is gevoegd, en wordt rekening houdende met artikel 7.13.1, eerste lid, berekend per EAN-nummer.<br>
+<br>
+Voor het bepalen van de hoogte van de retroactieve investeringspremie wordt in het geval van decentrale productie-installaties op zonne-energie het piekvermogen van de zonnepanelen gebruikt dat op 28 februari 2021 op het EAN-nummer is aangesloten. Het maximaal piekvermogen wordt echter beperkt tot 10 kilowattpiek. Dit piekvermogen wordt aangetoond op basis van een installatiefactuur of een AREI-keuringsattest. Indien dit piekvermogen niet aangetoond kan worden, wordt het aantal kilowattpiek gelijkgesteld aan het vermogen van de omvormer en dit beperkt tot 10 kilowattpiek.<br>
+<br>
+§ 5. Als de eigenaar vanaf de dag van de inwerkingtreding van dit artikel zelf op eigen initiatief aan de elektriciteitsdistributienetbeheerder vraagt om een digitale meter te installeren vóór 31 december 2023, wordt de retroactieve investeringspremie die conform paragraaf 4 is vastgesteld, verhoogd met 100 euro.<br>
+<br>
+§ 6. De retroactieve investeringspremie wordt uitbetaald na de aanvraag van uitbetaling en op voorwaarde dat is voldaan aan al de voorwaarden, vermeld in dit artikel.<br>
+<br>
+§ 7. De retroactieve investeringspremie moet worden teruggestort als na het verkrijgen van de retroactieve investeringspremie:<br>
+1° niet meer aan de voorwaarden uit dit artikel is voldaan;<br>
+2° de decentrale productie-installatie wordt verplaatst naar een ander perceel, en dit binnen een termijn van vijftien jaar volgende op de datum van de indienstneming van de decentrale productie-installatie;<br>
+3° geen vijf jaar operationeel blijft.".
+
+### ART 12.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 23 april 2021, wordt een bijlage IV/2 ingevoegd, die bij dit besluit is gevoegd.
+
 ### ART 13.
 
 Dit besluit treedt in werking op de datum van de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 11 en artikel 12 die in werking treden op 19 juli 2021.<br>
