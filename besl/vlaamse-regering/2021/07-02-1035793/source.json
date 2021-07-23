@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035793,
+  "title": "Besluit van de Vlaamse Regering van 2021-07-02 waarbij de ernstige droogte die heeft plaatsgevonden van 15 maart tot 15 september 2020 als een ramp wordt beschouwd en waarbij de geografische uitgestrektheid van die ramp wordt afgebakend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035793/VolledigDocument?datum=2021-07-23",
+  "source_sha256": "f7615a27f0580474ca79d2f5ec3b554054da684bf5ec73ead21fe725cebfca04",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035793&param=informatie",
+  "as_of": "2021-07-23",
+  "made": "2021-07-02",
+  "gazette": "2021-07-13",
+  "numac": 2021021410,
+  "document_start": "2021-07-23",
+  "document_end": null,
+  "in_force": "2021-07-23",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2021-07-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
