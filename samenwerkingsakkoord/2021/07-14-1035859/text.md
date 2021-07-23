@@ -697,6 +697,42 @@ De personeelsleden van Saniport dienen te beschikken over een legitimatiebewijs 
 
 ## Titel IX: Verwerking van persoonsgegevens van in het buitenland wonende of verblijvende werknemers en zelfstandigen die activiteiten uitvoeren in België
 
+### ART 28.
+
+Voor de toepassing van deze titel wordt verstaan onder:<br>
+1° het INSZ-nummer: het identificatienummer bedoeld in artikel 8, § 1, 1° of 2°, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid.<br>
+2° gebruiker: iedere natuurlijke persoon of rechtspersoon bij wie of voor wie door personen bedoeld in artikel 19 rechtstreeks of in onderaanneming werkzaamheden worden verricht;<br>
+3° grensarbeider: een werknemer die arbeid in loondienst verricht in een Lidstaat maar in een andere Lidstaat zijn woonplaats heeft waarnaar die werknemer in de regel dagelijks of ten minste éénmaal per week terugkeert;<br>
+<br>
+§ 2. Iedere werkgever of gebruiker die tijdelijk een beroep doet op een in het buitenland wonende of verblijvende werknemer of zelfstandige voor het uitvoeren van werkzaamheden in België, met uitzondering van de natuurlijke persoon bij wie of voor wie de werkzaamheden voor strikt persoonlijke doeleinden geschieden, is verplicht om, vanaf het begin van de werkzaamheden tot en met de veertiende dag na het einde ervan, een geactualiseerd register bij te houden met volgende persoonsgegevens:<br>
+1° volgende identificatiegegevens van de in het buitenland wonende of verblijvende werknemer of zelfstandige:<br>
+a) de naam en voornamen;<br>
+b) de geboortedatum;<br>
+c) het INSZ-nummer;<br>
+2° de verblijfplaats van de werknemer of zelfstandige gedurende zijn werkzaamheden in België;<br>
+3° het telefoonnummer waarop de werknemer of zelfstandige kan worden gecontacteerd;<br>
+4° in voorkomend geval, de aanduiding van de personen waarmee de werknemer of zelfstandige tijdens zijn werkzaamheden in België samenwerkt.<br>
+<br>
+De verplichting tot registratie is niet van toepassing op de tewerkstelling van grensarbeiders en geldt evenmin wanneer het verblijf van de in het buitenland wonende of verblijvende werknemer of zelfstandige in België minder dan 48 uur duurt.<br>
+<br>
+De persoonsgegevens bedoeld in het eerste lid mogen uitsluitend worden gebruikt voor het opsporen en opvolgen van clusters en collectiviteiten op eenzelfde adres in het kader van de strijd tegen de verspreiding van het coronavirus COVID-19.<br>
+<br>
+Het register bedoeld in het eerste lid wordt ter beschikking gehouden van de sociaal inspecteurs bedoeld in artikel 17, § 2, tweede lid, van het Sociaal Strafwetboek alsook van de gefedereerde entiteiten en de door de bevoegde gefedereerde entiteiten aangewezen agentschappen die bevoegd zijn inzake contactonderzoek.<br>
+<br>
+De persoonsgegevens vervat in het register bedoeld in het eerste lid worden door de werkgever of gebruiker vernietigd na veertien kalenderdagen rekenen vanaf de datum van het einde van de betreffende werkzaamheden.
+
+### ART 29.
+
+Indien de in het buitenland wonende of verblijvende werknemer of zelfstandige die werkzaamheden uitvoert in België ertoe gehouden is het PLF in te vullen, dan dient de werkgever of gebruiker die tijdelijk op hem een beroep doet voor de uitvoering van werkzaamheden in België, met uitzondering van de natuurlijke persoon bij wie of voor wie de werkzaamheden voor strikt persoonlijke doeleinden geschieden, vóór de aanvang van de werkzaamheden na te gaan of het PLF effectief werd ingevuld.<br>
+<br>
+Bij gebrek aan bewijs dat dit formulier werd ingevuld, dient de werkgever of gebruiker erover te waken dat het PLF ingevuld is uiterlijk op het moment waarop de in het buitenland wonende of verblijvende werknemer of zelfstandige de werkzaamheden in België aanvat.
+
+### ART 30.
+
+Indien de in het buitenland wonende of verblijvende werknemer of zelfstandige die werkzaamheden uitvoert in België ertoe gehouden is te beschikken over een negatief resultaat van een test die voorafgaand aan de aankomst op Belgisch grondgebied werd afgenomen, dan dient de betrokkene het bewijs van dit negatief testresultaat bij zich te houden tot en met de veertiende kalenderdag na de datum van aankomst op het Belgisch grondgebied.<br>
+<br>
+Met het oog op de strijd tegen de verspreiding van het coronavirus COVID-19, kan dit negatief testresultaat worden gecontroleerd door de preventieadviseurs-arbeidsartsen en door de sociaal inspecteurs bedoeld in artikel 17, § 2, tweede lid, van het Sociaal Strafwetboek.
+
 ## Titel X: Slotbepalingen
 
 ### ART 31.
