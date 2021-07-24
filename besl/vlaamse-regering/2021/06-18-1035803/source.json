@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035803,
+  "title": "Besluit van de Vlaamse Regering van 2021-06-18 houdende indeling bij de gemeentewegen van de gewestweg N343-Muizelstraat tussen kilometerpunt 2,120 en 2,495, inclusief rotonde, op het grondgebied van de gemeente Wevelgem",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035803/VolledigDocument?datum=2021-07-24",
+  "source_sha256": "feba0a8c91168c0afb986bbc9a52849b69806a2105e67d98e04c9cda35976194",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035803&param=informatie",
+  "as_of": "2021-07-24",
+  "made": "2021-06-18",
+  "gazette": "2021-07-14",
+  "numac": 2021021240,
+  "document_start": "2021-07-24",
+  "document_end": null,
+  "in_force": "2021-07-24",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-07-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
