@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035800,
+  "title": "Decreet van 2021-06-18 tot instemming met de overeenkomst tussen de regering van het Koninkrijk België en de regering van de Republiek Congo betreffende het luchtvervoer, ondertekend te Brussel op 12 juni 2018",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035800/VolledigDocument?datum=2021-07-24",
+  "source_sha256": "7de284c7c285000c30581bbe2f67e7a9b06dcc992a979f90502f34b0baee54aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035800&param=informatie",
+  "as_of": "2021-07-24",
+  "made": "2021-06-18",
+  "gazette": "2021-07-14",
+  "numac": 2021021323,
+  "document_start": "2021-07-24",
+  "document_end": null,
+  "in_force": "2021-07-24",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-07-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
