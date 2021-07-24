@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035801,
+  "title": "Decreet van 2021-06-18 tot instemming met de overeenkomst tussen de regering van het Koninkrijk België en de regering van de Republiek Togo betreffende het luchtvervoer, ondertekend te Lomé op 13 juni 2019",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035801/VolledigDocument?datum=2021-07-24",
+  "source_sha256": "8680024bf6e8343400ed2c9682fa20aeb9d755d9644c2de90a15ee1deb349603",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035801&param=informatie",
+  "as_of": "2021-07-24",
+  "made": "2021-06-18",
+  "gazette": "2021-07-14",
+  "numac": 2021021320,
+  "document_start": "2021-07-24",
+  "document_end": null,
+  "in_force": "2021-07-24",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-07-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
