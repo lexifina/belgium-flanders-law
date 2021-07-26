@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035832,
+  "title": "Besluit van de Vlaamse Regering van 2021-06-18 tot wijziging van artikel 5 van het besluit van de Vlaamse Regering van 19 september 2014 tot het verlenen van subsidies voor beheerovereenkomsten met toepassing van Verordening (EU) nr. 1305/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor plattelandsontwikkeling, wat betreft de kortlopende beheerovereenkomsten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035832/VolledigDocument?datum=2021-07-26",
+  "source_sha256": "32a3ae63465fc3a5920cb24a96bc22502b5f2d40ccc6360d5fd43e0af4562c24",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035832&param=informatie",
+  "as_of": "2021-07-26",
+  "made": "2021-06-18",
+  "gazette": "2021-07-16",
+  "numac": 2021021391,
+  "document_start": "2021-07-26",
+  "document_end": null,
+  "in_force": "2021-07-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-07-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
