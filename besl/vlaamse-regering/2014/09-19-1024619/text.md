@@ -79,7 +79,9 @@ De diensten en agentschappen die afhangen van het Vlaamse Gewest, de   besturen,
 
 ### ART. 5.
 
-<P>Elke beheerovereenkomst wordt gesloten voor een periode van vijf opeenvolgend   jaren. De looptijd van de beheerovereenkomst kan verlengd worden met telkens een   jaar als de verlenging nodig is om de nagestreefde milieuvoordelen te bereiken   of te behouden. De minister stelt nadere regels vast voor de procedure en de   voorwaarden waaronder de verlenging mogelijk is.<BR></P>  <P>Nieuwe beheerovereenkomsten die onmiddellijk op de periode van de eerste   beheerovereenkomst aansluiten, kunnen gesloten worden voor een periode die   korter is dan vijf jaar. De minister stelt nadere regels vast voor de procedure   en de voorwaarden waaronder die nieuwe beheerovereenkomst gesloten kan   worden.<BR></P>
+<p>Elke beheerovereenkomst wordt gesloten voor een periode van vijf opeenvolgend jaren. De looptijd van de beheerovereenkomst kan verlengd worden met telkens een jaar als de verlenging nodig is om de nagestreefde milieuvoordelen te bereiken of te behouden. De minister stelt nadere regels vast voor de procedure en de voorwaarden waaronder de verlenging mogelijk is.</p>
+
+<p>Nieuwe beheerovereenkomsten die onmiddellijk op de periode van de eerste beheerovereenkomst aansluiten,&nbsp;of nieuwe beheerovereenkomsten die liggen binnen de beheergebieden voor de beheerdoelstelling soortenbescherming, vermeld in artikel 21, § 2, tweede lid, kunnen gesloten worden voor een periode die korter is dan vijf jaar. De minister stelt nadere regels vast voor de procedure en de voorwaarden waaronder die nieuwe beheerovereenkomst gesloten kan worden.</p>
 
 ### ART. 6.
 
