@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035837,
+  "title": "Besluit van de Vlaamse Regering van 2021-06-25 houdende indeling bij de gemeentewegen van de gewestweg N614a Koninksemsteenweg en Koninksemstraat tussen kilometerpunt 0,000 en 2,978 op het grondgebied van de stad Tongeren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035837/VolledigDocument?datum=2021-07-29",
+  "source_sha256": "f39b13914f574ef09933427a49488016e22ce7008c56d37e2081e975111fb574",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035837&param=informatie",
+  "as_of": "2021-07-29",
+  "made": "2021-06-25",
+  "gazette": "2021-07-19",
+  "numac": 2021021449,
+  "document_start": "2021-07-29",
+  "document_end": null,
+  "in_force": "2021-07-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-07-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
