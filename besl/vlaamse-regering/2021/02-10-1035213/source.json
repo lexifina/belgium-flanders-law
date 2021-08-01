@@ -2,16 +2,16 @@
   "codex_id": 1035213,
   "title": "Besluit van de Vlaamse Regering van 2021-02-10 tot toekenning van een subsidie voor collectief transport naar een vaccinatiecentrum",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035213/VolledigDocument?datum=2021-02-12",
-  "source_sha256": "9e3af4104d457b4a62afc681081dce0fb08ebfbea972ec11b9a03934dc04401a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035213/VolledigDocument?datum=2021-08-01",
+  "source_sha256": "90f2e6058341ce7f7abcabe1c00b1c4e35ad745d696722bbda291bfe342ee521",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035213&param=informatie",
-  "as_of": "2021-02-12",
+  "as_of": "2021-08-01",
   "made": "2021-02-10",
   "gazette": "2021-02-15",
   "numac": 2021030317,
   "document_start": "2021-02-12",
   "document_end": "2021-07-31",
-  "in_force": "2021-02-12",
+  "in_force": "2021-08-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2021-02-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-08-01; future article versions excluded; article text as the API gives it"
 }

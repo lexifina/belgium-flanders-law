@@ -37,54 +37,44 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-De Vlaamse Regering kent vanuit begrotingsartikel SJ0-1SMC2GA-WT een subsidie toe voor het collectief transport van en naar operationele vaccinatiecentra.
+...
 
 ### ART 2.
 
-De subsidie wordt toegekend aan iedere gemeente die als penhoudende gemeente is aangeduid voor het vaccinatiecentrum, zoals vermeld in bijlage bij het besluit van de Vlaamse Regering van 22 januari 2021 tot toekenning van een subsidie voor infrastructuur en uitbating van een vaccinatiecentrum.
+...
 
 ### ART 3.
 
-De subsidie heeft initieel betrekking op de periode van 1 februari 2021 tot en met 31 juli 2021, en kan door de minister maximaal tot en met 31 oktober 2021 verlengd worden, na evaluatie van de stand van zaken van de vaccinatiecampagne door de Vlaamse Regering.
+...
 
 ### ART 4.
 
-De subsidie heeft tot doel het collectief transport naar de vaccinatiecentra te financieren, ter versterking van het openbaar vervoer.
+...
 
 ### ART 5.
 
-De subsidie bedraagt 0,143 euro per inwoner per maand. Die subsidie wordt verdeeld op basis van het totale inwonersaantal van de gemeenten die het vaccinatiecentrum bedient.<br>
-<br>
-Voor het aantal inwoners van de gemeente, vermeld in het eerste lid, wordt het aantal inwoners op 1 januari 2020 in aanmerking genomen, dat in het Belgisch Staatsblad van 27 juli 2020 werd bekendgemaakt.<br>
-<br>
-De subsidie berekend met toepassing van het eerste lid wordt afgerond tot het hogere honderdtal.<br>
-<br>
-De subsidiebedragen voor elke penhoudende gemeente worden vastgesteld in de bijlage die bij dit besluit is gevoegd.
+...
 
 ### ART 6.
 
-De subsidiebedragen, vermeld in artikel 5, worden tijdens de initiële periode, vermeld in artikel 3, uitbetaald per 2 maanden.<br>
-<br>
-Bij een eventuele verlenging van de subsidieperiode wordt de subsidie uiterlijk de laatste werkdag van de maand uitbetaald.<br>
-<br>
-Als blijkt dat een vaccinatiecentrum niet langer actief is, wordt de subsidie stopgezet.
+...
 
 ### ART 7.
 
-Deze subsidie is voor de penhoudende gemeente een algemene werkingssubsidie. De penhoudende gemeente rapporteert over de uitgaven die gebeurd zijn voor het vaccinatiecentrum door ze in de jaarrekening te koppelen aan de code ABB-VC-PEN.
+...
 
 ### ART 8.
 
-Er is bij de toekenning van de subsidie geen voorafgaande controle vereist.
+...
 
 ### ART 9.
 
-Dit besluit treedt in werking op 12 februari 2021.
+...
 
 ### ART 10.
 
-De Vlaamse minister, bevoegd voor het binnenlands bestuur is belast met de uitvoering van dit besluit.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/02/15_2.pdf#page=87">Bijlage</a>
+...
