@@ -1031,12 +1031,14 @@ De Vlaamse Regering bepaalt wat moet worden verstaan onder gezin als vermeld in 
 
 ### ART 86.
 
-Het bedrag van het zorgbudget voor ouderen met een zorgnood varieert op de volgende wijze volgens de graad van zelfredzaamheid en volgens de categorie waartoe de gebruiker behoort:<br>
-1° de gebruiker van wie de graad van zelfredzaamheid op 7 of 8 punten wordt vastgesteld, behoort tot de categorie 1. Hij ontvangt een zorgbudget voor ouderen met een zorgnood dat gelijk is aan een jaarbedrag van 1021,34 euro;<br>
-2° de gebruiker van wie de graad van zelfredzaamheid op 9 tot 11 punten wordt vastgesteld, behoort tot de categorie 2. Hij ontvangt een zorgbudget voor ouderen met een zorgnood dat gelijk is aan een jaarbedrag van 3898,70 euro;<br>
-3° de gebruiker van wie de graad van zelfredzaamheid op 12 tot 14 punten wordt vastgesteld, behoort tot de categorie 3. Hij ontvangt een zorgbudget voor ouderen met een zorgnood dat gelijk is aan een jaarbedrag van 4740,17 euro;<br>
-4° de gebruiker van wie de graad van zelfredzaamheid op 15 of 16 punten wordt vastgesteld, behoort tot de categorie 4. Hij ontvangt een zorgbudget voor ouderen met een zorgnood dat gelijk is aan een jaarbedrag van 5581,42 euro;<br>
-5° de gebruiker van wie de graad van zelfredzaamheid op ten minste 17 punten wordt vastgesteld, behoort tot de categorie 5. Hij ontvangt een zorgbudget voor ouderen met een zorgnood dat gelijk is aan een jaarbedrag van 6855,99 euro.<br>
+Het bedrag van het zorgbudget voor ouderen met een zorgnood varieert op de volgende wijze volgens de categorie waartoe de gebruiker behoort:<br>
+1° de gebruiker die tot de categorie 1 behoort, ontvangt een zorgbudget voor ouderen met een zorgnood dat gelijk is aan een jaarbedrag van 1.062,60 euro;<br>
+2° de gebruiker die tot de categorie 2 behoort, ontvangt een zorgbudget voor ouderen met een zorgnood dat gelijk is aan een jaarbedrag van 4.056,21 euro;<br>
+3° de gebruiker die tot de categorie 3 behoort, ontvangt een zorgbudget voor ouderen met een zorgnood dat gelijk is aan een jaarbedrag van 4.931,67 euro;<br>
+4° de gebruiker die tot de categorie 4 behoort, ontvangt een zorgbudget voor ouderen met een zorgnood dat gelijk is aan een jaarbedrag van 5.806,91 euro;<br>
+5° de gebruiker die tot de categorie 5 behoort, ontvangt een zorgbudget voor ouderen met een zorgnood dat gelijk is aan een jaarbedrag van 7.132,97 euro.<br>
+<br>
+De Vlaamse Regering bepaalt tot welke categorie de gebruiker behoort en houdt daarbij rekening met de vermindering van de zelfredzaamheid van de gebruiker.<br>
 <br>
 De bedragen, vermeld in het eerste lid, worden gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen conform de bepalingen van de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarmee rekening dient gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der werknemers, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen aan het indexcijfer van de consumptieprijzen worden gekoppeld.<br>
 <br>
