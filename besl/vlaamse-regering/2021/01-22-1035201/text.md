@@ -45,71 +45,48 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-De Vlaamse Regering kent vanuit begrotingsartikel SJ0-1SMC2GA-WT een subsidie toe voor de infrastructuur en uitbating van operationele vaccinatiecentra.
+...
 
 ### ART 2.
 
-De subsidie wordt toegekend aan iedere gemeente die als penhoudende gemeente is aangeduid voor het vaccinatiecentrum, zoals vermeld in bijlage 1 bij dit besluit.
+...
 
 ### ART 3.
 
-De subsidie heeft initieel betrekking op de periode van 1 februari 2021 tot en met 31 juli 2021, en kan door de minister maximaal tot en met 31 oktober 2021 verlengd worden, na evaluatie van de stand van zaken van de vaccinatiecampagne door de Vlaamse Regering.
+...
 
 ### ART 4.
 
-De subsidie heeft tot doel de infrastructurele en uitbatingskosten van vaccinatiecentra te financieren. Deze kosten omvatten onder andere:<br>
-1° de huurprijs voor de accommodatie<br>
-2° de energiekosten (met inbegrip van water en telefonie)<br>
-3° de kosten voor onderhoud en schoonmaak;<br>
-4° de uitbatingskosten (bewaking, ICT, kantoormateriaal en varia);<br>
-5° de kosten voor niet-medisch personeel (onthaal, stewards, centrumverantwoordelijke, callcenter, en andere);<br>
-6° de kosten verbonden aan het organiseren van vervoer voor minder mobiele personen<br>
-7° de inrichtingskosten (op- en afbouw en afbraak).
+...
 
 ### ART 5.
 
-§ 1. Voor de kosten, vermeld in artikel 4, 1° tot en met 6°, bedraagt de subsidie 1,533 euro per inwoner per maand. Die subsidie wordt verdeeld op basis van het totale inwonersaantal van de gemeenten die het vaccinatiecentrum bedient.<br>
-<br>
-Voor het aantal inwoners van de gemeente, vermeld in het eerste lid, wordt het aantal inwoners op 1 januari 2020 in aanmerking genomen, dat in het Belgisch Staatsblad van 27 juli 2020 werd bekendgemaakt.<br>
-<br>
-De subsidie berekend met toepassing van het eerste lid wordt afgerond tot het hogere honderdtal.<br>
-<br>
-§ 2. Voor de kosten vermeld in artikel 4, 7°, wordt een eenmalige bijkomende forfaitaire subsidie toegekend aan iedere penhoudende gemeente. Die forfaitaire subsidie bedraagt 15.000 euro voor een vaccinatiecentrum dat samen met een ander vaccinatiecentrum een eerstelijnszone bedient en 30.000 euro voor een vaccinatiecentrum dat heel de eerstelijnszone bedient. Als een vaccinatiecentrum meerdere eerstelijnszones bedient, dan wordt het bedrag van 30.000 euro verhoudingsgewijs aangepast.<br>
-<br>
-§ 3. Aan de dertien centrumsteden wordt voor de kosten vermeld in artikel 4, 1°, een bijkomende forfaitaire subsidie van 24.000 euro per maand toegekend.<br>
-<br>
-§ 4. De subsidiebedragen voor elke penhoudende gemeente worden vastgesteld in bijlage 2 die bij dit besluit is gevoegd.
+...
 
 ### ART 6.
 
-De subsidiebedragen, vermeld in artikel 5, § 1 en § 3, worden tijdens de initiële periode, vermeld in artikel 3, uitbetaald per 2 maanden, met aanvang op 15 februari 2021.<br>
-<br>
-De eenmalige forfaitaire subsidie, vermeld in artikel 5, § 2, wordt samen met de eerste subsidieschijf uitbetaald.<br>
-<br>
-Bij een eventuele verlenging van de subsidieperiode wordt de subsidie uiterlijk de laatste werkdag van de maand uitbetaald.<br>
-<br>
-Als blijkt dat een vaccinatiecentrum niet langer actief is, wordt de subsidie stopgezet.
+...
 
 ### ART 7.
 
-Deze subsidie is voor de penhoudende gemeente een algemene werkingssubsidie. De penhoudende gemeente rapporteert over de uitgaven die gebeurd zijn voor het vaccinatiecentrum door ze in de jaarrekening te koppelen aan de code ABB-VC-PEN.
+...
 
 ### ART 8.
 
-Er is bij de toekenning van de subsidie geen voorafgaande controle vereist.
+...
 
 ### ART 9.
 
-Dit besluit treedt in werking op 1 februari 2021.
+...
 
 ### ART 10.
 
-De Vlaamse minister, bevoegd voor het binnenlands bestuur is belast met de uitvoering van dit besluit.
+...
 
 ### Bijlage 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/02/10_1.pdf#page=121">Bijlage 1. Lijst gemeenten die als penhoudende gemeente is aangeduid voor het vaccinatiecentrum</a>
+...
 
 ### Bijlage 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/02/10_1.pdf#page=125">Bijlage 2. Subsidiebedragen voor elke penhoudende gemeente</a>
+...
