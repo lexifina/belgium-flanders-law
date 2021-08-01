@@ -2,16 +2,16 @@
   "codex_id": 1036150,
   "title": "Besluit van de Vlaamse Regering van 2021-07-16 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de geldelijke maatregelen en andere bepalingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036150/VolledigDocument?datum=2021-02-01",
-  "source_sha256": "b20a72624dd3aecdbb1796edbfe13a6aab756e303766e7781aaf32fa7e4e2e69",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036150/VolledigDocument?datum=2021-08-01",
+  "source_sha256": "e1c2ab9907836612cf3af89ca2faedd61e824239ad53867f5b67162e01d29560",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036150&param=informatie",
-  "as_of": "2021-02-01",
+  "as_of": "2021-08-01",
   "made": "2021-07-16",
   "gazette": "2021-10-18",
   "numac": 2021022062,
   "document_start": "2021-08-01",
   "document_end": null,
-  "in_force": "2021-02-01",
-  "article_versions": 8,
-  "record_form": "consolidated version as in force on 2021-02-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-08-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2021-08-01; future article versions excluded; article text as the API gives it"
 }
