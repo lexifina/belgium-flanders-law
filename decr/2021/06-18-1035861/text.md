@@ -105,6 +105,19 @@ In de gevallen waarin het administratief beroep gegrond wordt verklaard, wordt d
 <br>
 De Vlaamse Regering kan nadere regels inzake de dossiertaks bepalen.".
 
+### ART 45.
+
+In artikel 86 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"Het bedrag van het zorgbudget voor ouderen met een zorgnood varieert op de volgende wijze volgens de categorie waartoe de gebruiker behoort:<br>
+1° de gebruiker die tot de categorie 1 behoort, ontvangt een zorgbudget voor ouderen met een zorgnood dat gelijk is aan een jaarbedrag van 1.062,60 euro;<br>
+2° de gebruiker die tot de categorie 2 behoort, ontvangt een zorgbudget voor ouderen met een zorgnood dat gelijk is aan een jaarbedrag van 4.056,21 euro;<br>
+3° de gebruiker die tot de categorie 3 behoort, ontvangt een zorgbudget voor ouderen met een zorgnood dat gelijk is aan een jaarbedrag van 4.931,67 euro;<br>
+4° de gebruiker die tot de categorie 4 behoort, ontvangt een zorgbudget voor ouderen met een zorgnood dat gelijk is aan een jaarbedrag van 5.806,91 euro;<br>
+5° de gebruiker die tot de categorie 5 behoort, ontvangt een zorgbudget voor ouderen met een zorgnood dat gelijk is aan een jaarbedrag van 7.132,97 euro.";<br>
+2° tussen het eerste en het tweede lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"De Vlaamse Regering bepaalt tot welke categorie de gebruiker behoort en houdt daarbij rekening met de vermindering van de zelfredzaamheid van de gebruiker.".
+
 ### ART 46.
 
 Aan artikel 88 van hetzelfde decreet wordt een paragraaf 4 toegevoegd, die luidt als volgt:<br>
