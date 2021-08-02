@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035855,
+  "title": "Besluit van de Vlaamse Regering van 2021-07-02 tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2021 in het kader van het Impulsprogramma Ruimtevaarteconomie (element ESA BIC imec.istart)",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035855/VolledigDocument?datum=2021-08-02",
+  "source_sha256": "c9e6f0927071f7ffc7e85629babb8ab891dd0eb2e645b2ce85d7be87dcc0f571",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035855&param=informatie",
+  "as_of": "2021-08-02",
+  "made": "2021-07-02",
+  "gazette": "2021-07-23",
+  "numac": 2021031776,
+  "document_start": "2021-08-02",
+  "document_end": null,
+  "in_force": "2021-08-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-08-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
