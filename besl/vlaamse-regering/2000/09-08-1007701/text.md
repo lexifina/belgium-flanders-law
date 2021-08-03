@@ -488,7 +488,13 @@ De minister erkent een Vlaams participatiefonds voor de sociale economie.
 
 ### ART. 84.
 
-Om als Vlaams participatiefonds voor de sociale economie te worden erkend,   dient aan volgende voorwaarden te worden voldaan:<BR>1° het fonds neemt een   vennootschapsvorm aan;<BR>2° het doel van het fonds is kleine en middelgrote   ondernemingen binnen de meerwaardeneconomie een optimale kans te geven om een   onderneming op te starten of verder uit te bouwen door hen tijdelijk een eigen   vermogen ter beschikking te stellen gekoppeld aan een actieve   bestuurdersrol;<BR>3° het fonds stelt risicokapitaal ter beschikking in de vorm   van tijdelijke minderheidsparticipaties en achtergestelde financieringen;<BR>4°   In het fonds participeren zowel actoren van de sociale economie, de privésector   als de Vlaamse overheid. De overheid participeert voor maximaal één derde van   het kapitaal ten belope van maximaal € 1.000.000;<BR>5° het fonds heeft een   regionale inbedding via regionale ankerpunten. Dit kan zich vertalen in een   gestructureerde samenwerking met regionale incubatiecentra en andere regionale   actoren of overheden;<BR>6° de nodige deskundigheid is aanwezig voor het   management en financieel beheer van het fonds;
+Om als Vlaams participatiefonds voor de sociale economie te worden erkend, dient aan volgende voorwaarden te worden voldaan:<br>
+1° het fonds neemt een vennootschapsvorm aan;<br>
+2° het doel van het fonds is kleine en middelgrote ondernemingen binnen de meerwaardeneconomie een optimale kans te geven om een onderneming op te starten of verder uit te bouwen door hen tijdelijk een eigen vermogen ter beschikking te stellen gekoppeld aan een actieve bestuurdersrol;<br>
+3° het fonds stelt risicokapitaal ter beschikking in de vorm van tijdelijke minderheidsparticipaties en achtergestelde financieringen;<br>
+4° In het fonds participeren zowel actoren van de sociale economie, de privésector als de Vlaamse overheid. De overheid participeert voor maximaal één derde van het kapitaal ten belope van maximaal € 2.000.000;<br>
+5° het fonds heeft een regionale inbedding via regionale ankerpunten. Dit kan zich vertalen in een gestructureerde samenwerking met regionale incubatiecentra en andere regionale actoren of overheden;<br>
+6° de nodige deskundigheid is aanwezig voor het management en financieel beheer van het fonds;
 
 ### ART. 85.
 
