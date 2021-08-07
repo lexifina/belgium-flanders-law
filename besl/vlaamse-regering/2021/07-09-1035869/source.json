@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035869,
+  "title": "Besluit van de Vlaamse Regering van 2021-07-09 tot vaststelling van de regels voor de thematische oproep voor de bio-economie bij het Fonds Wetenschappelijk Onderzoek - Vlaanderen (FWO)",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035869/VolledigDocument?datum=2021-08-07",
+  "source_sha256": "9709962dcac4b58790c58a35a86ced89f96c6a116482bb2c8a8ce21db1cb330e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035869&param=informatie",
+  "as_of": "2021-08-07",
+  "made": "2021-07-09",
+  "gazette": "2021-07-28",
+  "numac": 2021031932,
+  "document_start": "2021-08-07",
+  "document_end": null,
+  "in_force": "2021-08-07",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2021-08-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
