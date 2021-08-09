@@ -15,8 +15,8 @@ Besluit :<br>
 
 ### ART. 1.
 
-Ter uitvoering van artikel 27, § 1, eerste lid, van het besluit van de Vlaamse Regering van 14 januari 2011 betreffende de erkenning van laboratoria in het kader van het Mestdecreet, moeten de nitraatresidustaalnames en nitraatresiduanalyses die worden gedaan ter uitvoering van artikel 13, § 5, § 12 en § 13, 14, § 2, eerste lid, tweede lid en vierde lid, § 3 en § 4, en artikel 42 van het Mestdecreet van 22 december 2006, aangemeld worden via het door de Mestbank beschikbaar gestelde internetloket.<br /><br />De nitraatresidustaalnames, vermeld in het eerste lid, moeten door het erkende laboratorium dat de staalname uitvoert, uiterlijk de werkdag voor de staalname aangemeld worden via het door de Mestbank ter beschikking gestelde internetloket. Bij die aanmelding meldt het erkende laboratorium de datum van staalname, alsook de identiteit van de staalnemer.<br /><br />De nitraatresiduanalyses, vermeld in het eerste lid, moeten door het erkende laboratorium dat de analyse uitvoert, uiterlijk de veertiende kalenderdag na de staalname aangemeld worden via het door de Mestbank ter beschikking gestelde internetloket. Bij die aanmelding voegt het erkende laboratorium het analyseverslag, alsook de bijbehorende gps-dataloggegevens.<br /><br />
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br /><br />
+...

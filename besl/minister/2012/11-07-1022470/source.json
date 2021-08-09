@@ -2,16 +2,16 @@
   "codex_id": 1022470,
   "title": "Ministerieel besluit van 2012-11-07 tot vaststelling van de monsternemingen en analyses, uitgevoerd in het kader van het Mestdecreet, waarvoor een aanmelding moet gebeuren via het door de Mestbank beschikbaar gesteld internetloket en tot bepaling van de nadere regels voor de aanmelding en het internetloket",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022470/VolledigDocument?datum=2012-11-20",
-  "source_sha256": "c93a9f5327c651ca1a50ababa32e5cf8e439cb6db2068f0e773e386de5a60f50",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022470/VolledigDocument?datum=2021-08-09",
+  "source_sha256": "14bfd83c8dbb49d7df93da6cfb4fd60f524730649b230abfaaec2f467087c5d5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022470&param=informatie",
-  "as_of": "2012-11-20",
+  "as_of": "2021-08-09",
   "made": "2012-11-07",
   "gazette": "2012-11-20",
   "numac": 2012036184,
   "document_start": "2012-11-20",
   "document_end": "2021-08-08",
-  "in_force": "2012-11-20",
+  "in_force": "2021-08-09",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2012-11-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-08-09; future article versions excluded; article text as the API gives it"
 }
