@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035880,
+  "title": "Ministerieel besluit van 2021-07-16 tot goedkeuring van het compendium bemonsterings- en analysemethodes in het kader van het Mestdecreet (BAM)",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035880/VolledigDocument?datum=2021-08-09",
+  "source_sha256": "24aa33ff5fe705a8020461722fb18cde08e36f9057ec16e77026d38cafec4c85",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035880&param=informatie",
+  "as_of": "2021-08-09",
+  "made": "2021-07-16",
+  "gazette": "2021-07-30",
+  "numac": 2021021601,
+  "document_start": "2021-08-09",
+  "document_end": null,
+  "in_force": "2021-08-09",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2021-08-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
