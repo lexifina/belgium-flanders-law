@@ -12,7 +12,15 @@ Het schooljaar begint op 1 september en eindigt op 31 augustus.
 
 ### ART. 3.
 
-§ 1. De lessen worden in aantal gelijkmatig gespreid over vijf dagen, van maandag tot en met vrijdag. De lessen vangen ten vroegste aan om 8 uur en eindigen ten vroegste om 15 uur en ten laatste om 17 uur. De woensdagnamiddag is vrij. Er is een middagpauze van tenminste één uur. [ <span class="reference">(verv. B.V.R. 31 augustus 2001, art. 14, I: 1 september 2001)</span> ]<br /><br />§ 2. [...  <span class="reference">(opgeh. B.V.R. 31 augustus 2001, art. 14, I: 1 september 2001)</span> ]<br /><br />§ 3. De lessen kunnen voor alle leerlingen of voor een leerlingengroep één dag per schooljaar geschorst worden voor het houden van pedagogische studiedagen voor de leraars. In het basisonderwijs kunnen de lessen hiervoor bijkomend één halve dag geschorst worden.<br /><br />§ 4. [...  <span class="reference">(opgeh. B.V.R. 31 augustus 2001, art. 14, I: 1 september 2001)</span> ]<br /><br />§ 5. De lessen kunnen voor de leerlingen van het basisonderwijs de laatste schooldag vóór de zomervakantie één halve dag geschorst worden om de instelling in staat te stellen opdrachten verbonden aan het einde van het schooljaar, zoals oudercontacten, te realiseren.
+§ 1. De lessen worden in aantal gelijkmatig gespreid over vijf dagen, van maandag tot en met vrijdag. De lessen vangen ten vroegste aan om 8 uur en eindigen ten vroegste om 15 uur en ten laatste om 17 uur. De woensdagnamiddag is vrij. Er is een middagpauze van tenminste één uur.&nbsp;<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. De lessen kunnen voor alle leerlingen of voor een leerlingengroep anderhalve dag per schooljaar geschorst worden om pedagogische studiedagen voor de leerkrachten te houden. Die anderhalve dag kan in halve dagen gesplitst worden.<br>
+<br>
+§ 4. ...&nbsp;<br>
+<br>
+§ 5. De lessen kunnen voor de leerlingen van het basisonderwijs de laatste schooldag vóór de zomervakantie één halve dag geschorst worden om de instelling in staat te stellen opdrachten verbonden aan het einde van het schooljaar, zoals oudercontacten, te realiseren.
 
 ### ART. 4.
 
