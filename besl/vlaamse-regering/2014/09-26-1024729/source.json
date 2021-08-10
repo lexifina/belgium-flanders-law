@@ -2,16 +2,16 @@
   "codex_id": 1024729,
   "title": "Besluit van de Vlaamse Regering van 2014-09-26 betreffende de bepaling van de regels voor de aanvraag en de toekenning van de subsidie voor de Rijdende kleuterschool Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024729/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "432c789c2256429f15e46af8269b69147296814a6cc60cd3129d089b5b3dbb85",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024729/VolledigDocument?datum=2021-08-10",
+  "source_sha256": "cafb8f2410eb4d533f9067c9928cc686a08f765d7e72487756596db593177aee",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024729&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2021-08-10",
   "made": "2014-09-26",
   "gazette": "2014-11-03",
   "numac": 2014036727,
   "document_start": "2015-01-01",
   "document_end": null,
-  "in_force": "2015-01-01",
+  "in_force": "2021-08-10",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-08-10; future article versions excluded; article text as the API gives it"
 }

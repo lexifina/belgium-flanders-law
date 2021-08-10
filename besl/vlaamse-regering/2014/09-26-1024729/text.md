@@ -18,11 +18,15 @@ Om in aanmerking te komen voor de subsidie en het verlof wegens bijzondere   opd
 
 ### ART. 3.
 
-De aanvraag voor de Rijdende kleuterschool Vlaanderen, zoals vermeld in   artikel 2, bevat minstens de volgende elementen:<BR>1° de statuten van de   vereniging;<BR>2° de vermelding van de wijze waarop de vereniging aan de   voorwaarden, vermeld in artikel 168 van het decreet van 25 februari 1997, zal   voldoen;<BR>3° de doelstellingen die ze heeft geformuleerd of de actieplannen   die ze heeft opgemaakt voor de uitwerking van de Rijdende kleuterschool   Vlaanderen en de wijze waarop de Rijdende kleuterschool Vlaanderen uitgevoerd   zal worden gedurende de periode van vijf schooljaren, vermeld in artikel 169, §   5, van het decreet van 25 februari 1997, waarbij onder andere de tocht van de   kermissen die gevolgd worden, en een inschatting van het aantal kleuters dat   bereikt zal worden, worden toegelicht;<BR>4° een sluitende begroting voor de   vijfjaarlijkse periode, met vermelding van de inkomsten en de uitgaven en met   bijzondere aandacht voor cofinanciering.<BR>
+De aanvraag voor de Rijdende kleuterschool Vlaanderen, zoals vermeld in artikel 2, bevat minstens de volgende elementen:<br>
+1° de statuten van de vereniging;<br>
+2° de vermelding van de wijze waarop de vereniging aan de voorwaarden, vermeld in artikel 168 van het decreet van 25 februari 1997, zal voldoen;<br>
+3° de doelstellingen die ze heeft geformuleerd of de actieplannen die ze heeft opgemaakt voor de uitwerking van de Rijdende kleuterschool Vlaanderen en de wijze waarop de Rijdende kleuterschool Vlaanderen uitgevoerd zal worden gedurende de periode van vijf kalenderjaren, vermeld in artikel 169, § 5, van het decreet van 25 februari 1997, waarbij onder andere de tocht van de kermissen die gevolgd worden, en een inschatting van het aantal kleuters dat bereikt zal worden, worden toegelicht;<br>
+4° een sluitende begroting voor de vijfjaarlijkse periode, met vermelding van de inkomsten en de uitgaven en met bijzondere aandacht voor cofinanciering.
 
 ### ART. 4.
 
-De aanvraag wordt ingediend voor een periode van vijf schooljaren   overeenkomstig artikel 169, § 5, van het decreet van 25 februari 1997. Uiterlijk   op 1 april voorafgaand aan de start van de periode van vijf schooljaren waarop   de aanvraag betrekking heeft, moet het aanvraagdossier worden ingediend bij het   Vlaams Ministerie van Onderwijs en Vorming, Departement Onderwijs en Vorming,   afdeling Basisonderwijs en Deeltijds Kunstonderwijs, Koning Albert II-laan 15,   1210 Brussel.<BR>
+De aanvraag wordt ingediend voor een periode van vijf kalenderjaren overeenkomstig artikel 169, § 5, van het decreet van 25 februari 1997. Uiterlijk op 1 oktober van het jaar dat voorafgaat aan de start van de periode van vijf kalenderjaren waarop de aanvraag betrekking heeft, moet het aanvraagdossier worden ingediend bij het Vlaams Ministerie van Onderwijs en Vorming, Departement Onderwijs en Vorming, afdeling Basisonderwijs en Deeltijds Kunstonderwijs, Koning Albert II-laan 15, 1210 Brussel.
 
 ## HOOFDSTUK 3 Kwaliteitsbeoordeling en toekenning van de subsidie en een verlof wegens bijzondere opdracht
 
@@ -36,11 +40,15 @@ De aanvraagdossiers worden beoordeeld door een commissie die is   samengesteld u
 
 ### ART. 7.
 
-De commissie brengt uiterlijk op 30 april voorafgaand aan het schooljaar   een advies uit aan de Vlaamse minister, bevoegd voor het   onderwijs.<BR>
+De commissie brengt uiterlijk op 30 november voorafgaand aan het kalenderjaar een advies uit aan de Vlaamse minister, bevoegd voor het onderwijs.
 
 ### ART. 8.
 
-<P>Op basis van het gemotiveerde advies van de commissie selecteert de Vlaamse   minister, bevoegd voor het onderwijs, een vereniging die voor de periode van   vijf schooljaren, vermeld in artikel 169, § 5, van het decreet van 25 februari   1997, de Rijdende kleuterschool zal organiseren.<BR></P>  <P>Vanaf het schooljaar 2015-2016 wordt voor de periode van vijf schooljaren een   verlof wegens bijzondere opdracht voor één kleuteronderwijzer toegekend   overeenkomstig artikel 169, § 4, van het decreet van 25 februari 1997.<BR></P>  <P>De subsidie, vermeld in artikel 169, § 1, van het decreet van 25 februari   1997, wordt gedurende de vijfjaarlijkse periode in kwestie via jaarlijks   ministerieel besluit toegekend aan de betrokken   vereniging.<BR></P>
+<p>Op basis van het gemotiveerde advies van de commissie selecteert de Vlaamse minister, bevoegd voor het onderwijs, een vereniging die voor de periode van vijf kalenderjaren, vermeld in artikel 169, § 5, van het decreet van 25 februari 1997, de Rijdende kleuterschool zal organiseren.</p>
+
+<p>Vanaf het schooljaar 2015-2016 wordt voor de periode van vijf schooljaren een verlof wegens bijzondere opdracht voor één kleuteronderwijzer toegekend overeenkomstig artikel 169, § 4, van het decreet van 25 februari 1997.</p>
+
+<p>De subsidie, vermeld in artikel 169, § 1, van het decreet van 25 februari 1997, wordt gedurende de vijfjaarlijkse periode in kwestie via jaarlijks ministerieel besluit toegekend aan de betrokken vereniging.</p>
 
 ## HOOFDSTUK 4 Slotbepalingen
 
