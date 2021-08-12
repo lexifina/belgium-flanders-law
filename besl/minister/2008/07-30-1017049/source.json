@@ -2,16 +2,16 @@
   "codex_id": 1017049,
   "title": "Ministerieel besluit van 2008-07-30 tot bepaling van nadere regels voor het vaststellen, de wijze van bijhouden, de inhoud en het actualiseren van het inschrijvingsregister voor kandidaat-huurders",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017049/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "37f20935703ca16086d9ee3ec0427bf901d0bfcc1155b68a49ebaf7e81c8fa48",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017049/VolledigDocument?datum=2021-08-12",
+  "source_sha256": "6aa6fe4f7c215f2a9491d64e929a84fa6f4eb287ec929f7216453b41a505035a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017049&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2021-08-12",
   "made": "2008-07-30",
   "gazette": "2008-09-10",
   "numac": 2008203158,
   "document_start": "2008-01-01",
   "document_end": "2023-12-31",
-  "in_force": "2021-01-01",
+  "in_force": "2021-08-12",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-08-12; future article versions excluded; article text as the API gives it"
 }
