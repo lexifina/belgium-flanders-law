@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035890,
+  "title": "Ministerieel besluit van 2021-07-22 tot wijziging van het ministerieel besluit van 24 maart 2020 houdende noodmaatregelen inzake mobiliteit en openbare werken",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035890/VolledigDocument?datum=2021-08-13",
+  "source_sha256": "240ca085c9da46d075fc629998e5e43839241af46ba3c8c771f2b9d225f44625",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035890&param=informatie",
+  "as_of": "2021-08-13",
+  "made": "2021-07-22",
+  "gazette": "2021-08-03",
+  "numac": 2021032090,
+  "document_start": "2021-08-13",
+  "document_end": null,
+  "in_force": "2021-08-13",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2021-08-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
