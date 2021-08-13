@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035888,
+  "title": "Besluit van de Vlaamse Regering van 2021-07-02 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de aanpassing van de call-regeling voor de ondersteuning van groene warmte, restwarmte en biomethaan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035888/VolledigDocument?datum=2021-08-13",
+  "source_sha256": "3966901cd09026e134c1263472a664cf36b2817ab75b33ec4dc615e10ac536c4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035888&param=informatie",
+  "as_of": "2021-08-13",
+  "made": "2021-07-02",
+  "gazette": "2021-08-03",
+  "numac": 2021032063,
+  "document_start": "2021-08-13",
+  "document_end": null,
+  "in_force": "2021-08-13",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2021-08-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
