@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035887,
+  "title": "Decreet van 2021-07-16 tot wijziging van de Vlaamse Codex Wonen van 2021, wat betreft de gemeentelijke verordening waarbij het conformiteitsattest verplicht wordt",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035887/VolledigDocument?datum=2021-08-13",
+  "source_sha256": "ba0b62dd67e5f2abe77e6e7b7e94f4cba7afb1cd1460acb2a193dc655d62b19f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035887&param=informatie",
+  "as_of": "2021-08-13",
+  "made": "2021-07-16",
+  "gazette": "2021-08-03",
+  "numac": 2021042661,
+  "document_start": "2021-08-13",
+  "document_end": null,
+  "in_force": "2021-08-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2021-08-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
