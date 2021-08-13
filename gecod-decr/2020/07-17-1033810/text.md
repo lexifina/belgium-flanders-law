@@ -757,15 +757,15 @@
 
 ### ART 3.2.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De gemeenteraad kan bij verordening:</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">1° het conformiteitsattest, vermeld in artikel 3.6, verplicht stellen;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">2° strengere veiligheids- en kwaliteitsnormen voor kamers opleggen dan vastgesteld door de Vlaamse Regering met toepassing van artikel 3.1, §2;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">3° het verhuren of ter beschikking of te huur stellen van kamers aan een voorafgaande vergunning onderwerpen met het oog op de naleving van de normen, vermeld in punt 2°;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">4° opleggen dat kamers in hetzelfde gebouw hetzij aan studenten, hetzij aan niet-studenten worden verhuurd.</span></span></span></span><br>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De gemeenteraad kan bij verordening:</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° het conformiteitsattest, vermeld in artikel 3.6, verplicht stellen en bepalen dat zolang niet aan die verplichting is voldaan, een jaarlijks terugkerende verplichting wordt opgelegd om dat attest aan te vragen;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° strengere veiligheids- en kwaliteitsnormen voor kamers opleggen dan vastgesteld door de Vlaamse Regering met toepassing van artikel 3.1, §2;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">3° het verhuren of ter beschikking of te huur stellen van kamers aan een voorafgaande vergunning onderwerpen met het oog op de naleving van de normen, vermeld in punt 2°;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">4° opleggen dat kamers in hetzelfde gebouw hetzij aan studenten, hetzij aan niet-studenten worden verhuurd.</span></span></span><br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Een gemeentelijke verordening als vermeld in het eerste lid geldt pas vanaf de goedkeuring door de Vlaamse Regering en tot ze herzien of vervangen wordt met toepassing van dezelfde procedure. Als een goedgekeurde verordening opgeheven wordt, brengt de gemeente de Vlaamse Regering daarvan op de hoogte.</span></span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Een gemeentelijke verordening als vermeld in het eerste lid geldt pas vanaf de goedkeuring door de Vlaamse Regering en tot ze herzien of vervangen wordt met toepassing van dezelfde procedure. Als een goedgekeurde verordening opgeheven wordt, brengt de gemeente de Vlaamse Regering daarvan op de hoogte.</span></span></span><br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering kan nadere regels bepalen voor de gemeentelijke verordeningen, vermeld in het eerste lid.</span></span></span></span></p>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De Vlaamse Regering kan nadere regels bepalen voor de gemeentelijke verordeningen, vermeld in het eerste lid.</span></span></span></p>
 
 ## Deel 2. Conformiteitsonderzoek
 
