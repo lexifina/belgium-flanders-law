@@ -110,7 +110,14 @@ Binnen honderdtwintig dagen na publicatie van de oproep, vermeld in artikel 7, d
 
 ### ART. 17.
 
-De licentie en de bijbehorende zendvergunning of zendvergunningen en/of transportvergunning worden uitgereikt voor een termijn van 15 jaar, die verlengd kan worden met maximaal één opeenvolgende termijn van 15 jaar.<br /><br />De verlenging van de licentie en de bijbehorende zendvergunning of zendvergunningen wordt toegestaan, op voorwaarde dat de aanvrager één jaar voor het verstrijken van de eerste termijn een aanvraag tot verlenging van zijn licentie indient. Deze aanvraag tot verlenging bevat de gegevens, vermeld in de bij dit besluit gevoegde bijlage.<br /><br />De Regulator beoordeelt de aanvraag tot verlenging op basis van de criteria vermeld in artikel 6 van dit besluit, en doet uitspraak binnen 60 dagen na het indienen van het verzoek tot verlenging.<br /><br />
+De licentie en de bijbehorende zendvergunning of zendvergunningen en/of transportvergunning worden uitgereikt voor een termijn van 15 jaar, die verlengd kan worden met maximaal één opeenvolgende termijn van 15 jaar.<br>
+<br>
+De verlenging van de licentie en de bijbehorende zendvergunning of zendvergunningen wordt toegestaan, op voorwaarde dat de aanvrager één jaar voor het verstrijken van de eerste termijn een aanvraag tot verlenging van zijn licentie indient. Deze aanvraag tot verlenging bevat de gegevens, vermeld in de bij dit besluit gevoegde bijlage.<br>
+<br>
+De Regulator beoordeelt de aanvraag tot verlenging op basis van de criteria vermeld in artikel 6 van dit besluit, en doet uitspraak binnen 60 dagen na het indienen van het verzoek tot verlenging.<br>
+<br>
+De verlengingsmogelijkheid, vermeld in het eerste tot en met het derde lid, geldt niet voor licenties die uitgereikt worden voor het aanbieden van een radio-omroepnetwerk.<br>
+&nbsp;
 
 ### ART. 18.
 
