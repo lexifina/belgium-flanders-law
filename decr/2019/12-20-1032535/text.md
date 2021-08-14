@@ -160,7 +160,17 @@ In 2020, 2021, 2022, 2023 en 2024 bedraagt de werkingssubsidie respectievelijk 2
 
 De algemene werkingssubsidie wordt onder de gemeenten verdeeld op basis van de gegevens over de gekadastreerde oppervlakte bos, tuinen en parken, woeste gronden, wateren, akkerland, grasland, recreatiegebieden en boomgaarden, zoals gehanteerd voor de definitieve verdeling van het Gemeentefonds voor het voorgaande jaar.<br>
 <br>
-De steden, vermeld in artikel 22, tweede lid, zijn uitgesloten van de subsidie. Het aandeel van de steden en gemeenten, vermeld in artikel 6, § 1, 1°, e) en f), van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, in de subsidie bedraagt maximaal 6 % van hun aandeel in de definitieve verdeling van het Gemeente-fonds voor het voorgaande jaar, verhoogd met 3,5 %. Voor de andere gemeenten bedraagt hun aandeel in de subsidie maximaal 13 % van hun aandeel in de definitieve verdeling van het Gemeentefonds voor het voorgaande jaar, verhoogd met 3,5 %.
+De steden, vermeld in artikel 22, tweede lid, zijn uitgesloten van de subsidie. Het aandeel van de steden en gemeenten, vermeld in artikel 6, § 1, 1°, e) en f), van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, in de subsidie bedraagt maximaal 6 % van hun aandeel in de definitieve verdeling van het Gemeente-fonds voor het voorgaande jaar, verhoogd met 3,5 %. Voor de andere gemeenten bedraagt hun aandeel in de subsidie maximaal 13 % van hun aandeel in de definitieve verdeling van het Gemeentefonds voor het voorgaande jaar, verhoogd met 3,5 %.<br>
+<br>
+Bij een samenvoeging van gemeenten worden de gegevens over de gekadastreerde oppervlakte open ruimte, vermeld in het eerste lid, en de aandelen in de definitieve verdeling van het Gemeentefonds voor het voorgaande jaar van de samen te voegen gemeenten opgeteld. Als de samenvoeging gepaard gaat met de opsplitsing van een of meer gemeenten, worden de gegevens over de gekadastreerde oppervlakte open ruimte en de aandelen in de definitieve verdeling van het Gemeentefonds van het voorgaande jaar van de op te splitsen gemeenten ook opgesplitst, in dezelfde verhouding als respectievelijk het aandeel gekadastreerde oppervlakte open ruimte en de inwonersaantallen van de opgesplitste delen.
+
+### ART 23/1.
+
+Bij een samenvoeging van gemeenten mogen de nieuwe gemeenten niet minder ontvangen dan de som van de aandelen van de samen te voegen gemeenten of delen van gemeenten in het jaar dat voorafgaat aan de samenvoeging. Als de samenvoeging gepaard gaat met de opsplitsing van een of meer gemeenten wordt om de gewaarborgde ontvangst van de nieuwe gemeenten te berekenen, het aandeel van de op te splitsen gemeenten in het jaar dat voorafgaat aan de samenvoeging, ook opgesplitst, in dezelfde verhouding als de inwonersaantallen van de opgesplitste delen.<br>
+<br>
+De gewaarborgde ontvangst voor de nieuwe gemeenten, vermeld in het eerste lid, wordt, met ingang van het jaar van de samenvoeging, elk jaar geïndexeerd met 3,5%. De indexatie is cumulatief.<br>
+<br>
+In afwijking van artikel 23, tweede lid, zijn de bepalingen, vermeld in het eerste en tweede lid, ook van toepassing in geval van een samenvoeging met een stad zoals vermeld in artikel 6, § 1, 1°, a), b), c) of d), van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds.
 
 ### ART 24.
 
