@@ -123,7 +123,30 @@ In afwijking van artikel 134, eerste lid, van het Lokaal en Provinciaal Kiesdecr
 
 ### ART. 16.
 
-§ 1. In afwijking van artikel 138, § 1, eerste lid, van het Lokaal en Provinciaal Kiesdecreet ontvangt de kiezer van de voorzitter van het stembureau of van een aangewezen bijzitter een chipkaart die de voorzitter of de bijzitter vooraf geïnitieerd heeft en die toelaat eenmaal te stemmen per verkiezing waarvoor de kiezer opgeroepen is.<br /><br />§ 2. Om zijn stem uit te brengen, steekt de kiezer eerst de chipkaart in de stemcomputer.<br /><br />Als verschillende verkiezingen tegelijk plaatsvinden, verschijnen ze in de volgende volgorde op de stemcomputer : <br />1° de verkiezing van de gemeenteraad;<br />2° in voorkomend geval : de verkiezing van de stadsdistrictsraad of de raad voor maatschappelijk welzijn;<br />3° de verkiezing van de provincieraad.<br /><br />Als de kiezer, krachtens de wetten op het gebruik van de talen in bestuurszaken, gecoordineerd op 18 juli 1966, de taal van de stemverrichtingen kan kiezen, wordt hij eerst verzocht die keuze te maken. Die keuze is, na bevestiging ervan, definitief voor alle stemverrichtingen.<br /><br />§ 3. Voor elke verkiezing verschijnen het volgnummer en de lijstnaam van alle kandidatenlijsten op het scherm.<br /><br />De kiezer wijst op het aanraakscherm de lijst van zijn keuze aan of stemt blanco.<br /><br />Nadat de kiezer een lijst heeft aangeduid, verschijnen voor die lijst het volgnummer, de naam en één voornaam of de roepnaam van de kandidaten op het beeldscherm.<br /><br />De kiezer brengt zijn stem uit door het aanraakscherm aan te raken : <br />1° op het stemvak bovenaan de lijst als hij zich kan verenigen met de volgorde van de voordracht van de kandidaten;<br />2° op het stemvak met de naam van een of meer kandidaten van dezelfde lijst, of op het stemvak bovenaan de lijst in combinatie met het stemvak van een of meer kandidaten binnen dezelfde lijst als hij de volgorde waarin de kandidaten op die lijst voorkomen, wil wijzigen.<br /><br />§ 4. Nadat de kiezer zijn stem heeft uitgebracht overeenkomstig paragraaf 3, wordt hij verzocht die te bevestigen. Zolang de stem niet is bevestigd, kan de kiezer de stemverrichting voor de verkiezing herbeginnen.<br /><br />§ 5. In voorkomend geval wordt de kiezer vervolgens, door middel van een instructie die op het beeldscherm verschijnt, verzocht volgens dezelfde procedure te stemmen voor de volgende verkiezing.
+§ 1. In afwijking van artikel 138, § 1, eerste lid, van het Lokaal en Provinciaal Kiesdecreet ontvangt de kiezer van de voorzitter van het stembureau of van een aangewezen bijzitter een chipkaart die de voorzitter of de bijzitter vooraf geïnitieerd heeft en die toelaat eenmaal te stemmen per verkiezing waarvoor de kiezer opgeroepen is.<br>
+<br>
+§ 2. Om zijn stem uit te brengen, steekt de kiezer eerst de chipkaart in de stemcomputer.<br>
+<br>
+Als verschillende verkiezingen tegelijk plaatsvinden, verschijnen ze in de volgende volgorde op de stemcomputer :<br>
+1° de verkiezing van de gemeenteraad;<br>
+2° in voorkomend geval : de verkiezing van de stadsdistrictsraad of de raad voor maatschappelijk welzijn;<br>
+3° de verkiezing van de provincieraad.<br>
+<br>
+Als de kiezer, krachtens de wetten op het gebruik van de talen in bestuurszaken, gecoordineerd op 18 juli 1966, de taal van de stemverrichtingen kan kiezen, wordt hij eerst verzocht die keuze te maken. Die keuze is, na bevestiging ervan, definitief voor alle stemverrichtingen.<br>
+<br>
+§ 3. Voor elke verkiezing verschijnen het volgnummer en de lijstnaam van alle kandidatenlijsten op het scherm.<br>
+<br>
+De kiezer wijst op het aanraakscherm de lijst van zijn keuze aan of stemt blanco.<br>
+<br>
+Nadat de kiezer een lijst heeft aangeduid, verschijnen voor die lijst het volgnummer, de naam en één voornaam of de roepnaam van de kandidaten op het beeldscherm.<br>
+<br>
+De kiezer brengt zijn stem uit door het aanraakscherm aan te raken :<br>
+1° op het stemvak bovenaan de lijst;<br>
+2° op het stemvak met de naam van een of meer kandidaten van dezelfde lijst, of op het stemvak bovenaan de lijst in combinatie met het stemvak van een of meer kandidaten binnen dezelfde lijst.<br>
+<br>
+§ 4. Nadat de kiezer zijn stem heeft uitgebracht overeenkomstig paragraaf 3, wordt hij verzocht die te bevestigen. Zolang de stem niet is bevestigd, kan de kiezer de stemverrichting voor de verkiezing herbeginnen.<br>
+<br>
+§ 5. In voorkomend geval wordt de kiezer vervolgens, door middel van een instructie die op het beeldscherm verschijnt, verzocht volgens dezelfde procedure te stemmen voor de volgende verkiezing.
 
 ### ART. 17.
 
