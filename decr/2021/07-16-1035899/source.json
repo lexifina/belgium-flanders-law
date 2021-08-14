@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035899,
+  "title": "Decreet van 2021-07-16 tot wijziging van diverse decreten, wat betreft versterking van de lokale democratie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035899/VolledigDocument?datum=2021-08-14",
+  "source_sha256": "009d4359b4a1d05332b9ed9e4bb93088b179ad3a9e991342de12120493a97983",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035899&param=informatie",
+  "as_of": "2021-08-14",
+  "made": "2021-07-16",
+  "gazette": "2021-08-04",
+  "numac": 2021021648,
+  "document_start": "2021-08-14",
+  "document_end": null,
+  "in_force": "2021-08-14",
+  "article_versions": 88,
+  "record_form": "consolidated version as in force on 2021-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
