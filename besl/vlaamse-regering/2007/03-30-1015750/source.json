@@ -2,16 +2,16 @@
   "codex_id": 1015750,
   "title": "Besluit van de Vlaamse Regering van 2007-03-30 betreffende de procedure en de aanvullende kwalificatiecriteria en voorwaarden voor de erkenning van particuliere landelijke, [en regionale (verv. BVR 21 april 2017, art 43, I: 9 mei 2017)][radio-omroeporganisaties (verv. BVR 16 juli 2010, art. 1)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015750/VolledigDocument?datum=2017-05-09",
-  "source_sha256": "3a28c5a56ca9209260053e2e258ae08b022a1be1037ef5bec500b98e98f5b5a6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015750/VolledigDocument?datum=2021-08-14",
+  "source_sha256": "a51e78de810d33cc5366a5fbb99f30c179bc210589b7120da2e892cf1ca64003",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015750&param=informatie",
-  "as_of": "2017-05-09",
+  "as_of": "2021-08-14",
   "made": "2007-03-30",
   "gazette": "2007-05-04",
   "numac": 2007035603,
   "document_start": "2007-05-14",
   "document_end": "2021-08-13",
-  "in_force": "2017-05-09",
+  "in_force": "2021-08-14",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2017-05-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-08-14; future article versions excluded; article text as the API gives it"
 }
