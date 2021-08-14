@@ -2,16 +2,16 @@
   "codex_id": 1030513,
   "title": "Besluit van de Vlaamse Regering van 2019-03-29 houdende bepaling van het aantal particuliere landelijke [... (opgeh. BVR 2 juli 2021, art. 1, I: 1 januari 2023)], netwerk- en lokale radio-omroeporganisaties dat kan worden erkend en houdende de opstelling van het frequentieplan en de vaststelling van de frequentiepakketten die ter beschikking worden gesteld van de particuliere landelijke [... (opgeh. BVR 2 juli 2021, art. 1, I: 1 januari 2023)], netwerk- en lokale radio-omroeporganisaties",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030513/VolledigDocument?datum=2020-10-24",
-  "source_sha256": "78b222cc07f778b555758c8be8db51585caa52505bdb2abd727a2e2b79622a1e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030513/VolledigDocument?datum=2021-08-14",
+  "source_sha256": "aaf9ba9926c51648aa91b1464435b469730882e4d70c55b63709dfd82ba04cac",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030513&param=informatie",
-  "as_of": "2020-10-24",
+  "as_of": "2021-08-14",
   "made": "2019-03-29",
   "gazette": "2019-04-04",
   "numac": 2019011540,
   "document_start": "2019-04-04",
   "document_end": null,
-  "in_force": "2020-10-24",
+  "in_force": "2021-08-14",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2020-10-24; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-08-14; future article versions excluded; article text as the API gives it"
 }

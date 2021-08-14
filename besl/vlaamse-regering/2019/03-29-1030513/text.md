@@ -162,8 +162,8 @@ De Vlaamse minister, bevoegd voor het mediabeleid, is belast met de uitvoering v
 * Bij besluit van de Vlaamse Regering van 18 september 2020, BS 14 oktober 2020, werden met ingang van 24 oktober 2020 volgende wijzigingen aangebracht aan bijlage 1:<br>
 <br>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">"1° in de tabel wordt tussen de rij van punt 80 en de rij van punt 81 de volgende rij ingevoegd:</span></span></span>
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; word-spacing:0px">
+<span style="font-size:medium"><span style="color:#000000">"1° in de tabel wordt tussen de rij van punt 80 en de rij van punt 81 de volgende rij ingevoegd:</span></span>
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
 	<tbody>
 		<tr>
 			<td>80/1.</td>
@@ -175,9 +175,9 @@ De Vlaamse minister, bevoegd voor het mediabeleid, is belast met de uitvoering v
 	</tbody>
 </table>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">2° in de tabel wordt tussen de rij van punt 292 en de rij van punt 293 de volgende rij ingevoegd:</span></span></span>
+<span style="font-size:medium"><span style="color:#000000">2° in de tabel wordt tussen de rij van punt 292 en de rij van punt 293 de volgende rij ingevoegd:</span></span>
 
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; word-spacing:0px">
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
 	<tbody>
 		<tr>
 			<td>292/1.</td>
@@ -189,15 +189,121 @@ De Vlaamse minister, bevoegd voor het mediabeleid, is belast met de uitvoering v
 	</tbody>
 </table>
 "<br>
+* Bij besluit van de Vlaamse Regering van 2 juli 2021, BS 4 augustus 2021, worden met ingang van 14 augustus 2021 volgende wijzigingen aangebracht aan bijlage 1:<br>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">1° in de tabel wordt de rij van punt 113 vervangen door wat volgt;</span></span></span>
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>113.</td>
+			<td>Geel</td>
+			<td>104.6</td>
+			<td>1995</td>
+			<td>D</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">2° in de tabel wordt de rij van punt 252 vervangen door wat volgt;</span></span></span>
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>252.</td>
+			<td>Oudsbergen</td>
+			<td>93.5</td>
+			<td>2512</td>
+			<td>D</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">3° in de tabel wordt de rij van punt 253 vervangen door wat volgt;</span></span></span>
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>253.</td>
+			<td>Oudsbergen</td>
+			<td>106.3</td>
+			<td>100</td>
+			<td>D</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">4° in de tabel wordt de rij van punt 307 vervangen door wat volgt;</span></span></span>
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>307.</td>
+			<td>Schoten</td>
+			<td>102.9</td>
+			<td>125.893</td>
+			<td>D</td>
+		</tr>
+	</tbody>
+</table>
+<br>
 &nbsp;
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/04/04_1.pdf#page=393">Bijlage 2</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/04/04_1.pdf#page=393">Bijlage 2</a><br>
+<br>
+* Bij besluit van de Vlaamse Regering van 2 juli 2021, BS 4 augustus 2021, worden met ingang van 14 augustus 2021 de volgende wijzigingen aangebracht aan bijlage 2:<br>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">in de tabel wordt de rij van punt 18 vervangen door wat volgt;</span></span></span>
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>18.</td>
+			<td>Oudsbergen</td>
+			<td>93.5</td>
+			<td>2512</td>
+			<td>D</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/04/04_1.pdf#page=395">Bijlage 3</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/04/04_1.pdf#page=395">Bijlage 3</a><br>
+<br>
+* Bij besluit van de Vlaamse Regering van 2 juli 2021, BS 4 augustus 2021, worden met ingang van 14 augustus 2021 de volgende wijzigingen aangebracht aan bijlage 3:<br>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">1° in de tabel met als titel "Frequentiepakket regionaal net Antwerpen" wordt de rij van punt 1 vervangen door wat volgt;</span></span></span>
+<table style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Geel</td>
+			<td>104.6</td>
+			<td>1995</td>
+			<td>D</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">2° in de tabel met als titel "Frequentiepakket regionaal net Antwerpen" wordt de rij van punt 4 vervangen door wat volgt;</span></span></span>
+
+<table style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>4.</td>
+			<td>Schoten</td>
+			<td>102.9</td>
+			<td>125.893</td>
+			<td>D</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
 
 ### BIJLAGE
 
@@ -238,4 +344,22 @@ De Vlaamse minister, bevoegd voor het mediabeleid, is belast met de uitvoering v
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/04/04_1.pdf#page=399">Bijlage 5</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/04/04_1.pdf#page=399">Bijlage 5</a><br>
+<br>
+* Bij besluit van de Vlaamse Regering van 2 juli 2021, BS 4 augustus 2021, wordt met ingang van 14 augustus 2021, de volgende wijziging aangebracht aan bijlage 5:<br>
+<br>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">In bijlage 5, frequentiepakket 79 van hetzelfde besluit wordt in de tabel de rij van punt 2 vervangen door wat volgt;</span></span></span>
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>18.</td>
+			<td>Oudsbergen</td>
+			<td>106.3</td>
+			<td>100</td>
+			<td>D</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
