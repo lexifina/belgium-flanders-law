@@ -278,11 +278,11 @@ Bij een verplichte bijeenroeping als vermeld in het tweede en het derde lid roep
 
 ### ART 20.
 
-Behalve in spoedeisende gevallen en behalve in geval van toepassing van artikel 6, § 1, wordt de oproeping ten minste acht dagen voor de dag van de vergadering aan het raadslid bezorgd.<br>
+Behalve in spoedeisende gevallen wordt de oproeping ten minste acht dagen voor de dag van de vergadering aan het raadslid bezorgd.<br>
 <br>
 De oproeping vermeldt in elk geval de plaats, de dag, het tijdstip en de agenda van de vergadering en bevat een toegelicht voorstel van beslissing. De agendapunten moeten voldoende duidelijk omschreven zijn. Voor elk agendapunt wordt het dossier dat erop betrekking heeft, ter beschikking van de raadsleden gesteld vanaf de verzending van de agenda. Als een raadslid daarom verzoekt, wordt een dossier elektronisch ter beschikking gesteld.<br>
 <br>
-Het huishoudelijk reglement bepaalt de wijze waarop de oproeping van de raadsleden wordt verzonden en de wijze waarop het dossier dat op de agenda betrekking heeft, ter beschikking wordt gesteld. Het huishoudelijk reglement kan ook de gezamenlijke oproeping van de gemeenteraad en de raad voor maatschappelijk welzijn regelen.<br>
+Het huishoudelijk reglement bepaalt de wijze waarop de oproeping van de raadsleden wordt verzonden en de wijze waarop het dossier dat op de agenda betrekking heeft, ter beschikking wordt gesteld. Het huishoudelijk reglement kan ook de gezamenlijke oproeping van de gemeenteraad en de raad voor maatschappelijk welzijn regelen.&nbsp;De vergadering van de gemeenteraad vindt plaats in het gemeentehuis of op de fysieke plaats door de gemeenteraad bepaald. Het huishoudelijk reglement bepaalt of de gemeenteraad of de gemeenteraadscommissies, vermeld in artikel 37, digitaal of hybride kunnen vergaderen en de wijze waarop. De gemeenteraad kan enkel digitaal vergaderen onder de uitzonderlijke omstandigheden, vermeld in het huishoudelijk reglement. De gemeenteraad kan enkel hybride vergaderen onder de uitzonderlijke omstandigheden, vermeld in het huishoudelijk reglement. De Vlaamse Regering kan de minimale voorwaarden voor digitale en hybride vergaderingen bepalen.<br>
 <br>
 De algemeen directeur of de door hem aangewezen personeelsleden verstrekken aan de raadsleden die erom verzoeken, technische inlichtingen over stukken die in het dossier voorkomen. Het huishoudelijk reglement bepaalt de wijze waarop die inlichtingen worden verstrekt.
 
@@ -312,7 +312,7 @@ De voorzitter zit de vergaderingen van de gemeenteraad voor, en opent en sluit d
 
 ### ART 25.
 
-De voorzitter is belast met de handhaving van de orde in de vergadering. Hij kan, na een voorafgaande waarschuwing, elke toehoorder die openlijk tekens van goedkeuring of van afkeuring geeft of die op enigerlei wijze wanorde veroorzaakt, uit de zaal laten verwijderen.<br>
+De voorzitter is belast met de handhaving van de orde in de vergadering. Hij kan, na een voorafgaande waarschuwing, elke toehoorder die openlijk tekens van goedkeuring of van afkeuring geeft of die op enigerlei wijze wanorde veroorzaakt, uit de vergadering laten verwijderen.<br>
 <br>
 De voorzitter kan bovendien een proces-verbaal opmaken tegen die persoon en dat proces-verbaal bezorgen aan het openbaar ministerie met het oog op de eventuele vervolging van de betrokkene.
 
@@ -483,7 +483,10 @@ De gemeenteraad stelt bij de aanvang van de zittingsperiode een huishoudelijk re
 7° de nadere regels voor de samenstelling en de werking van de commissies en de fracties;<br>
 8° de wijze waarop en de persoon door wie de stukken van de gemeente, vermeld in artikel 279, worden ondertekend;<br>
 9° de nadere voorwaarden waaronder het recht om verzoekschriften in te dienen, wordt uitgeoefend, en de wijze waarop de verzoekschriften worden behandeld;<br>
-10° de wijze van het ter kennis brengen van de beslissingen, vermeld in artikel 50, vijfde lid.<br>
+10° de wijze van het ter kennis brengen van de beslissingen, vermeld in artikel 50, vijfde lid;<br>
+11° de keuze om digitaal of hybride te vergaderen en de wijze waarop;<br>
+12° de uitzonderlijke omstandigheden waaronder de gemeenteraad digitaal kan vergaderen, als het huishoudelijk reglement de mogelijkheid van digitaal vergaderen opneemt;<br>
+13° de uitzonderlijke omstandigheden waaronder de gemeenteraad hybride kan vergaderen, als het huishoudelijk reglement de mogelijkheid van hybride vergaderen opneemt.<br>
 <br>
 De gemeenteraad kan het huishoudelijk reglement op elk moment wijzigen.
 
@@ -623,19 +626,37 @@ Artikel 9, 10 en 11, tweede en derde lid, zijn van overeenkomstige toepassing op
 
 ### ART 46.
 
-De gemeenteraad kan, bij volstrekte meerderheid van stemmen de structurele onbestuurbaarheid van de gemeente vaststellen en brengt de Vlaamse Regering daarvan op de hoogte.<br>
+§ 1. De gemeenteraad kan een collectieve constructieve motie van wantrouwen aannemen tegen alle leden van het college van burgemeester en schepenen, met uitzondering van de schepen, vermeld in artikel 42, § 1, derde lid.<br>
 <br>
-Op grond van die kennisgeving geeft de Vlaamse Regering aan de provinciegouverneur een bemiddelingsopdracht. De provinciegouverneur brengt de Vlaamse Regering op de hoogte van het resultaat van de bemiddeling.<br>
+De gemeenteraad kan een individuele constructieve motie van wantrouwen aannemen tegen een of meer schepenen, met uitzondering van de schepen, vermeld in artikel 42, § 1, derde lid.<br>
 <br>
-Als de Vlaamse Regering vaststelt dat de bemiddeling van de gouverneur mislukt is en er zich geen oplossing aandient, brengt ze de gemeenteraad daarvan op de hoogte.<br>
+§ 2. De constructieve motie van wantrouwen voldoet aan al de volgende voorwaarden:<br>
+1° ze is ondertekend door de meerderheid van de raadsleden;<br>
+2° ze is ondertekend door ten minste twee derde van de raadsleden van elke fractie die de motie ondersteunt. Als een fractie slechts uit twee verkozenen bestaat, volstaat de handtekening van één van hen;<br>
+3° in geval van een individuele motie, is ze ondertekend door twee derde van de raadsleden van de fractie waartoe de schepen tegen wie de individuele motie gericht is, behoort;<br>
+4° ze vermeldt tegen welke leden van het college van burgemeester en schepenen ze gericht is;<br>
+5° ze draagt voor elk van de schepenen een kandidaat-opvolger voor. Zetelende leden kunnen opnieuw voorgedragen worden;<br>
+6° in geval van een individuele motie gericht tegen een of meer schepenen, zijn er een of meer ontvankelijke akten van voordracht bijgevoegd als vermeld in artikel 49. In geval van een collectieve motie is er een gezamenlijke akte van voordracht bijgevoegd als vermeld in artikel 43. Als een lijst in twee fracties is opgesplitst, wordt, in afwijking van artikel 43 of 49, de akte van voordracht van de kandidaat-schepen ondertekend door de meerderheid van de gemeenteraadsleden die deel uitmaken van de fractie van de kandidaat- schepen. Als de fractie van de kandidaat-schepen slechts twee verkozenen telt, volstaat de handtekening van een van hen;<br>
+7° ze is uiterlijk acht dagen voor de gemeenteraadszitting aan de algemeen directeur bezorgd.<br>
 <br>
-In dat geval kan de gemeenteraad vervolgens de procedure starten voor de aanstelling van een nieuw college van burgemeester en schepenen. De gemeenteraad brengt de Vlaamse Regering daarvan onmiddellijk op de hoogte, waarna de Vlaamse Regering de burgemeester ontslaat. De Vlaamse Regering stelt de gemeenteraad hiervan in kennis. De nieuwe burgemeester wordt benoemd overeenkomstig artikel 58 en 59. De aftredende burgemeester blijft in functie tot de installatie van de nieuwe burgemeester heeft plaatsgevonden. De verkiezing en installatie van de nieuwe schepenen, met uitzondering van de schepen, vermeld in artikel 42, § 1, derde lid, gebeurt op basis van een gezamenlijke akte van voordracht, met toepassing van artikel 42 tot en met 44. De uittredende schepenen blijven in functie tot de installatie van de nieuwe schepenen heeft plaatsgevonden. In het geval er geen gezamenlijke akte van voordracht wordt ingediend, overeenkomstig artikel 43, § 1 en § 2, blijven de uittredende schepenen in functie. Het aantal schepenen, zoals bepaald bij de volledige vernieuwing van de gemeenteraad, blijft evenwel behouden.<br>
+De constructieve motie van wantrouwen kan niet bij spoedeisendheid in bespreking worden gebracht als vermeld in artikel 23.<br>
 <br>
-De gemeenteraad stelt de raad voor maatschappelijk welzijn in kennis van het feit dat overgegaan wordt tot de installatie van de nieuwe schepenen en de benoeming van de nieuwe burgemeester.<br>
+De constructieve motie van wantrouwen kan niet worden ingediend op de volgende momenten:<br>
+1° in de periode van één jaar na de installatie van de gemeenteraad;<br>
+2° in de periode van twaalf maanden voor de dag van de verkiezingen voor de volledige vernieuwing van de gemeenteraden;<br>
+3° als een collectieve constructieve motie van wantrouwen door de gemeenteraad is aangenomen, voor een termijn van één jaar vervallen is.<br>
 <br>
-De vaststelling van de structurele onbestuurbaarheid en de aanstelling van een nieuw college van burgemeester en schepenen in toepassing daarvan, kan niet gebeuren in spoedeisende gevallen zoals vermeld in artikel 23 en evenmin in de periode van twaalf maanden voor de dag van de verkiezingen voor de volledige vernieuwing van de gemeenteraden.<br>
+De algemeen directeur bezorgt de constructieve motie van wantrouwen met bijgevoegde akte of akten van voordracht aan de voorzitter van de gemeenteraad.<br>
 <br>
-De aanstelling van een nieuw college van burgemeester en schepenen na vaststelling van de structurele onbestuurbaarheid kan slechts eenmaal per bestuursperiode gebeuren.
+§ 3. Voor er kan worden gestemd, onderzoekt de voorzitter van de gemeenteraad of de constructieve motie van wantrouwen voldoet aan de voorwaarden, vermeld in paragraaf 1 en 2. Als hij vaststelt dat niet aan alle voorwaarden is voldaan, verklaart hij de motie zonder voorwerp.<br>
+<br>
+§ 4. Als de gemeenteraad de motie van wantrouwen aanneemt, wordt het lid of worden de leden tegen wie de motie gericht is, ontslagen onder voorbehoud van de toepassing van paragraaf 6. De voorgedragen kandidaat-schepen, in voorkomend geval de voorgedragen kandidaat-schepenen worden verkozen verklaard. Vanaf de aanname van de collectieve motie draagt het raadslid, waarvan sprake in artikel 58, § 1 of § 2, de titel van `aangewezen-burgemeester' en oefent alle functies uit die aan de burgemeester worden toevertrouwd. Voor hij zijn mandaat aanvaardt, legt de aangewezen-burgemeester de eed af, vermeld in artikel 58, § 1, derde lid.<br>
+<br>
+De Vlaamse Regering benoemt de burgemeester overeenkomstig de procedure, vermeld in artikel 58.<br>
+<br>
+§ 5. Indien een collectieve motie wordt aangenomen, worden de ingediende collectieve motie en de beslissing van de gemeenteraad hierover ter kennis gebracht aan de Vlaamse Regering.<br>
+<br>
+§ 6. Een motie tegen een lid van het college van burgemeester en schepenen dat als lid van het vast bureau verkozen is tot voorzitter van het bijzonder comité voor de sociale dienst, heeft alleen gevolgen als tegelijk een constructieve motie van wantrouwen als vermeld in artikel 104, ingediend is en aangenomen wordt.
 
 ### ART 47.
 
@@ -712,7 +733,9 @@ In afwijking van het eerste lid is het voorstel, in geval van staking van stemme
 
 ### ART 54.
 
-Het college van burgemeester en schepenen neemt bij de aanvang van de zittingsperiode een huishoudelijk reglement aan waarin het nadere regels vaststelt over zijn werking.
+Het college van burgemeester en schepenen neemt bij de aanvang van de zittingsperiode een huishoudelijk reglement aan waarin het nadere regels vaststelt over zijn werking.<br>
+<br>
+Het huishoudelijk reglement regelt minstens of het college van burgemeester en schepenen digitaal of hybride kan vergaderen en de wijze waarop. De Vlaamse Regering kan de minimale voorwaarden voor digitale en hybride vergaderingen bepalen.
 
 ### ART 55.
 
@@ -805,7 +828,7 @@ De burgemeester die ontslag wil nemen, deelt dat schriftelijk mee aan de Vlaamse
 
 ### ART 62.
 
-In de volgende gevallen wordt een nieuwe burgemeester benoemd overeenkomstig artikel 58 en 59:<br>
+In de volgende gevallen wordt een nieuwe burgemeester benoemd overeenkomstig artikel 58 en 59, waarbij "de installatievergadering" wordt gelezen als "de eerstvolgende vergadering van de gemeenteraad, volgend op de benoeming van de nieuwe burgemeester":<br>
 1° als de kandidaat-burgemeester het burgemeestersmandaat niet aanvaardt;<br>
 2° als de burgemeester:<br>
 a) van zijn mandaat vervallen wordt verklaard;<br>
@@ -817,7 +840,7 @@ In de gevallen waarin de burgemeester van zijn mandaat vervallen wordt verklaard
 <br>
 Met behoud van de toepassing van de nationaliteitsvereiste, vermeld in artikel 14 van de Nieuwe Gemeentewet, wordt de burgemeester die om andere redenen dan de redenen, vermeld in het tweede lid, tijdelijk afwezig is, vervangen door een van de schepenen in volgorde van hun rang, tenzij de burgemeester zijn bevoegdheid aan een andere schepen heeft opgedragen.<br>
 <br>
-Een voorgedragen kandidaat-burgemeester die niet is benoemd kan in dezelfde bestuursperiode het ambt van burgemeester niet waarnemen. Hij kan noch door de gemeenteraad, overeenkomstig artikel 14, tweede lid, van de Nieuwe Gemeentewet, noch door de burgemeester, overeenkomstig het derde lid, worden aangewezen om het ambt van burgemeester waar te nemen.<br>
+De beslissing van de Vlaamse Regering tot niet-benoeming van de burgemeester heeft tot gevolg dat betrokkene tijdens dezelfde bestuursperiode het ambt van burgemeester niet kan waarnemen. Hij kan daartoe noch door de gemeenteraad, noch door de burgemeester worden aangewezen.<br>
 <br>
 De burgemeester die als verhinderd wordt beschouwd, die geschorst is of tijdelijk afwezig is, wordt vervangen zolang hij verhinderd, geschorst of tijdelijk afwezig is. De gemeenteraad neemt akte van de verhindering of schorsing, en van de beëindiging van de periode van verhindering of schorsing.<br>
 <br>
@@ -963,7 +986,9 @@ b) de raad de plaatsingsprocedure en het vaststellen van de voorwaarden voor die
 14° de beslissingen als vermeld in artikel 297 en 298;<br>
 15° het aangaan van andere dadingen dan dadingen met personeelsleden naar aanleiding van een beëindiging van het dienstverband, die de gevolgen van de beëindiging van het dienstverband als voorwerp hebben;<br>
 16° de bevoegdheden van de raad voor maatschappelijk welzijn, vermeld in artikel 263 en artikel 273 juncto artikel 265, 266, 267 en 269;<br>
-17° het vaststellen van subsidiereglementen en het toekennen van nominatieve subsidies.
+17° het vaststellen van subsidiereglementen en het toekennen van nominatieve subsidies;<br>
+18° de bevoegdheid van de raad voor maatschappelijk welzijn, vermeld in artikel 104.<br>
+&nbsp;
 
 ## HOOFDSTUK 5. Het vast bureau
 
@@ -1235,11 +1260,29 @@ Het lid of de voorzitter van het bijzonder comité voor de sociale dienst dat on
 
 ### ART 104.
 
-Nadat de gemeenteraad de raad voor maatschappelijk welzijn in kennis gesteld heeft van het feit dat overgegaan wordt tot de installatie van de nieuwe schepenen en de benoeming van de nieuwe burgemeester, met toepassing van artikel 46, kan de raad voor maatschappelijk welzijn overgaan tot de verkiezing van een nieuwe voorzitter van het bijzonder comité voor de sociale dienst, met toepassing van artikel 90.<br>
+§ 1. De raad voor maatschappelijk welzijn kan een constructieve motie van wantrouwen aannemen tegen de voorzitter van het bijzonder comité voor de sociale dienst.<br>
 <br>
-Artikel 42, § 1, derde lid, is dan eveneens van toepassing.<br>
+§ 2. De constructieve motie van wantrouwen voldoet aan al de volgende voorwaarden:<br>
+1° ze is ondertekend door de meerderheid van de raadsleden;<br>
+2° ze is ondertekend door ten minste twee derde van de raadsleden van elk van de fracties waartoe de raadsleden in de gemeenteraad behoren die de motie ondersteunen. Als een fractie maar uit twee verkozenen bestaat, volstaat de handtekening van een van hen;<br>
+3° ze is ondertekend door twee derde van de raadsleden van de fractie waartoe de voorzitter van het bijzonder comité voor de sociale dienst in de gemeenteraad behoort;<br>
+4° ze draagt een kandidaat-opvolger voor;<br>
+5° er is een ontvankelijke akte van voordracht bijgevoegd als vermeld in artikel 90. Als een lijst in twee fracties is opgesplitst, wordt, in afwijking van artikel 90, de akte van voordracht van de kandidaat-voorzitter ondertekend door de meerderheid van de raadsleden die deel uitmaken van de fractie van de kandidaat-voorzitter. Als de fractie van de kandidaat-voorzitter maar twee verkozenen telt, volstaat de handtekening van een van hen;<br>
+6° ze is uiterlijk acht dagen voor de zitting van de raad voor maatschappelijk welzijn aan de algemeen directeur bezorgd.<br>
 <br>
-De voorzitter van het bijzonder comité voor de sociale dienst blijft dan in functie tot de installatie van de nieuwe voorzitter van het bijzonder comité voor de sociale dienst heeft plaatsgevonden.
+De voorwaarde, vermeld in het eerste lid, 3°, is niet van toepassing in geval de gemeenteraad een collectieve motie heeft aangenomen.<br>
+<br>
+De constructieve motie van wantrouwen kan niet bij spoedeisendheid in bespreking worden gebracht als vermeld in artikel 74 samen gelezen met artikel 23.<br>
+<br>
+De constructieve motie van wantrouwen kan niet worden ingediend op de volgende momenten:<br>
+1° in de periode van één jaar na de installatie van het bijzonder comité voor de sociale dienst;<br>
+2° in de periode van twaalf maanden voor de dag van de verkiezingen voor de volledige vernieuwing van de gemeenteraden.<br>
+<br>
+De algemeen directeur bezorgt de constructieve motie van wantrouwen met de bijgevoegde akte van voordracht van de kandidaat-voorzitter aan de voorzitter van de raad voor maatschappelijk welzijn.<br>
+<br>
+§ 3. Voor er kan worden gestemd, onderzoekt de voorzitter van de raad voor maatschappelijk welzijn of de constructieve motie van wantrouwen voldoet aan de voorwaarden, vermeld in paragraaf 2. Als hij vaststelt dat niet aan alle voorwaarden is voldaan, verklaart hij de motie zonder voorwerp.<br>
+<br>
+§ 4. Als de raad voor maatschappelijk welzijn de constructieve motie van wantrouwen aanneemt, is de voorzitter ontslagen. De voorgedragen kandidaat-voorzitter wordt verkozen verklaard.
 
 ### ART 105.
 
@@ -1306,7 +1349,8 @@ Artikel 20, 21, 23, 24, 26, 27, 29, 32, 33, 34, eerste lid, en artikel 75, met u
 4° "de gemeenteraad" als "het bijzonder comité voor de sociale dienst";<br>
 5° "de gemeente" als "het openbaar centrum voor maatschappelijk welzijn";<br>
 6° "een gemeentelijk extern verzelfstandigd agentschap" als "de verenigingen of vennootschappen, vermeld in deel 3, titel 4";<br>
-7° "artikel 16 en 155" als "artikel 108".<br>
+7° "artikel 16 en 155" als "artikel 108";<br>
+8° "de gemeenteraadscommissies, vermeld in artikel 37" als "de subcomités, vermeld in artikel 89".<br>
 <br>
 Het bijzonder comité voor de sociale dienst kan in afwijking van artikel 20 in een huishoudelijk reglement bepalen dat de agenda van het bijzonder comité voor de sociale dienst pas vijf dagen voor de vergadering moet worden bezorgd. In dat geval bepaalt het bijzonder comité voor de sociale dienst in zijn huishoudelijk reglement binnen welke termijn de agendapunten, vermeld in artikel 21, kunnen worden toegevoegd. Het bijzonder comité voor de sociale dienst stelt de notulen van de vorige vergadering ter beschikking van zijn leden. De notulen die betrekking hebben op de persoonlijke levenssfeer van cliënten van het openbaar centrum voor maatschappelijk welzijn of hun onderhoudsplichtigen, worden alleen ter beschikking gesteld van de leden volgens de regels, vastgesteld overeenkomstig artikel 20, derde lid.<br>
 <br>
@@ -1321,7 +1365,10 @@ Bij de aanvang van de zittingsperiode neemt het bijzonder comité voor de social
 2° de wijze van verzending van de oproeping en het ter beschikking stellen van het dossier aan de leden van het bijzonder comité voor de sociale dienst, alsook de wijze waarop de algemeen directeur of de door hem aangewezen personeelsleden aan de leden van het bijzonder comité voor de sociale dienst die erom verzoeken, technische inlichtingen verschaffen over die stukken;<br>
 3° de wijze waarop het bijzonder comité voor de sociale dienst stemt;<br>
 4° de wijze van het ter kennis brengen van de beslissingen van het bijzonder comité voor de sociale dienst;<br>
-5° de perken waarbinnen de voorzitter van het bijzonder comité voor de sociale dienst zijn bevoegdheden als vermeld in artikel 114, kan uitoefenen.<br>
+5° de perken waarbinnen de voorzitter van het bijzonder comité voor de sociale dienst zijn bevoegdheden als vermeld in artikel 114, kan uitoefenen;<br>
+6° de keuze om digitaal of hybride te vergaderen en de wijze waarop;<br>
+7° de uitzonderlijke omstandigheden waaronder het bijzonder comité voor de sociale dienst digitaal kan vergaderen, als het huishoudelijk reglement de mogelijkheid van digitaal vergaderen opneemt;<br>
+8° de uitzonderlijke omstandigheden waaronder het bijzonder comité voor de sociale dienst hybride kan vergaderen, als het huishoudelijk reglement de mogelijkheid van hybride vergaderen opneemt.<br>
 <br>
 Het bijzonder comité voor de sociale dienst kan het huishoudelijk reglement op elk moment wijzigen.
 
@@ -1422,6 +1469,36 @@ In de gevallen dat de districtsburgemeester van zijn mandaat vervallen wordt ver
 Met behoud van de toepassing van de nationaliteitsvereiste, vermeld in artikel 14 juncto 332 van de Nieuwe Gemeentewet, wordt de voorzitter, die om een andere reden dan de redenen, vermeld in het eerste lid, tijdelijk afwezig is, vervangen door een districtsschepen in volgorde van hun rang, tenzij de districts-burgemeester zijn bevoegdheid aan een andere districtsschepen heeft opgedragen.<br>
 <br>
 De districtsburgemeester die als verhinderd wordt beschouwd, die geschorst is of tijdelijk afwezig is, wordt vervangen zolang hij verhinderd, geschorst of tijdelijk afwezig is. De districtsraad neemt akte van de verhindering of schorsing, en van de beëindiging van de periode van verhindering of schorsing.
+
+### ART 124/1.
+
+§ 1. De districtsraad kan een collectieve constructieve motie van wantrouwen aannemen tegen alle leden van het districtscollege.<br>
+<br>
+De districtsraad kan een individuele constructieve motie van wantrouwen aannemen tegen een of meer districtsschepenen.<br>
+<br>
+§ 2. De constructieve motie van wantrouwen voldoet aan al de volgende voorwaarden:<br>
+1° ze is ondertekend door de meerderheid van de districtsraadsleden;<br>
+2° ze is ondertekend door ten minste twee derde van de districtsraadsleden van elke fractie die de motie ondersteunt. Als een fractie slechts uit twee verkozenen bestaat, volstaat de handtekening van een van hen;<br>
+3° in geval van een individuele motie, is ze ondertekend door twee derde van de districtsraadsleden van de fractie waartoe de districtsschepen tegen wie de individuele motie gericht is, behoort;<br>
+4° ze vermeldt tegen welke leden van het districtscollege ze gericht is;<br>
+5° ze draagt voor elk van de districtsschepenen tegen wie ze is gericht, een kandidaat-opvolger voor. Zetelende leden kunnen opnieuw voorgedragen worden;<br>
+6° in geval van een individuele motie gericht tegen een of meer districtsschepenen, zijn er, met toepassing van in artikel 49 juncto artikel 122, een of meer ontvankelijke akten van voordracht bijgevoegd. In geval van een collectieve motie is er, met toepassing van artikel 43 juncto artikel 122, een gezamenlijke akte van voordracht bijgevoegd. Als een lijst in twee fracties is opgesplitst, wordt, in afwijking van artikel 43 juncto artikel 122 of artikel 49 juncto artikel 122, de akte van voordracht van de kandidaat-districtsschepen ondertekend door de meerderheid van de districtsraadsleden die deel uitmaken van de fractie van de kandidaat-districtsschepen. Als de fractie van de kandidaat- districtsschepen slechts twee verkozenen telt, volstaat de handtekening van één van hen;<br>
+7° ze is uiterlijk acht dagen voor de districtsraadszitting aan de districtssecretaris bezorgd.<br>
+<br>
+De constructieve motie van wantrouwen kan niet bij spoedeisendheid in bespreking worden gebracht als vermeld in artikel 23 juncto artikel 126.<br>
+<br>
+De constructieve motie van wantrouwen kan niet worden ingediend op de volgende momenten:<br>
+1° in de periode van één jaar na de installatie van de districtsraad;<br>
+2° in de periode van twaalf maanden voor de dag van de verkiezingen voor de volledige vernieuwing van de districtsraden;<br>
+3° als een collectieve constructieve motie van wantrouwen door de districtsraad is aangenomen, voor een termijn van één jaar vervallen is.<br>
+<br>
+De districtssecretaris bezorgt de constructieve motie van wantrouwen met bijgevoegde akte of akten van voordracht aan de voorzitter van de districtsraad.<br>
+<br>
+§ 3. Voor er kan worden gestemd, onderzoekt de voorzitter van de districtsraad of de constructieve motie van wantrouwen voldoet aan de voorwaarden, vermeld in paragraaf 1 en 2. Als hij vaststelt dat niet aan alle voorwaarden is voldaan, verklaart hij de motie zonder voorwerp.<br>
+<br>
+§ 4. Als de districtsraad de motie van wantrouwen aanneemt, wordt het lid of worden de leden tegen wie de motie gericht is, ontslagen. De voorgedragen kandidaat-districtsschepen, in voorkomend geval de voorgedragen kandidaat- districtsschepenen worden verkozen verklaard. Vanaf de aanname van de collectieve motie is het raadslid, waarvan sprake in artikel 123, § 1 of § 2, districtsburgemeester. Voor hij zijn mandaat aanvaardt, legt de districtsburgemeester de eed af, vermeld in artikel 123, § 1, derde lid.<br>
+<br>
+§ 5. Indien een collectieve motie wordt aangenomen, wordt de ingediende collectieve motie en de beslissing van de districtsraad hierover ter kennis gebracht aan de Vlaamse Regering.
 
 ## Afdeling 4. De districtssecretaris
 
@@ -1667,9 +1744,9 @@ De Vlaamse Regering bepaalt de nadere regels voor de terugbetalingen, vermeld in
 
 ### ART 153.
 
-De burgemeester en de schepenen mogen, naast de vergoedingen, vermeld in artikel 149, 150, 151, 152 en 154, geen aanvullende vergoedingen, wedden en presentiegelden krijgen ten laste van de gemeente, de extern verzelfstandigde agentschappen van de gemeente en hun filialen, het openbaar centrum voor maatschappelijk welzijn dat de gemeente bedient, en de verenigingen of vennootschappen, vermeld in deel 3, titel 4, om welke reden of onder welke benaming ook.<br>
+De burgemeester en de schepenen mogen, naast de vergoedingen, vermeld in artikel 149, 150, 151, 152 en 154, geen aanvullende vergoedingen, wedden en presentiegelden krijgen ten laste van de gemeente, de extern verzelfstandigde agentschappen van de gemeente en hun filialen, en het openbaar centrum voor maatschappelijk welzijn dat de gemeente bedient, om welke reden of onder welke benaming ook.<br>
 <br>
-De voorzitter van het bijzonder comité voor de sociale dienst, vermeld in artikel 42, § 1, derde lid, mag, buiten de vergoedingen, vermeld in artikel 149, 150, 151, 152 en 154, geen aanvullende vergoedingen, wedden en presentiegelden krijgen ten laste van het openbaar centrum voor maatschappelijk welzijn, de verenigingen of vennootschappen, vermeld in deel 3, titel 4, en de gemeente die het openbaar centrum voor maatschappelijk welzijn bedient, de extern verzelfstandigde agentschappen van de gemeente en hun filialen, om welke reden of onder welke benaming ook.<br>
+De voorzitter van het bijzonder comité voor de sociale dienst, vermeld in artikel 42, § 1, derde lid, mag, buiten de vergoedingen, vermeld in artikel 149, 150, 151, 152 en 154, geen aanvullende vergoedingen, wedden en presentiegelden krijgen ten laste van het openbaar centrum voor maatschappelijk welzijn, en de gemeente die het openbaar centrum voor maatschappelijk welzijn bedient, de extern verzelfstandigde agentschappen van de gemeente en hun filialen, om welke reden of onder welke benaming ook.<br>
 <br>
 In afwijking van het eerste en het tweede lid, worden de persoonlijke bijdragen voor de sociale zekerheid en de pensioenen van de mandatarissen, vermeld in artikel 37quater van de wet van 29 juni 1981 houdende de algemene beginselen van de sociale zekerheid voor werknemers, gecompenseerd door de gemeente of het openbaar centrum waar zij hun mandaat bekleden. De Vlaamse Regering bepaalt de grenzen en nadere voorwaarden voor de toepassing van dit lid.
 
@@ -1683,7 +1760,7 @@ In deze paragraaf wordt verstaan onder vergoedingen, wedden en presentiegelden d
 1° lid van de Kamer van Volksvertegenwoordigers, de Senaat, het Vlaams Parlement of het Europees Parlement;<br>
 2° lid van een provincieraad of als lid van een bestuursorgaan van een provinciaal extern verzelfstandigd agentschap of een filiaal ervan;<br>
 3° mandataris van een openbaar centrum voor maatschappelijk welzijn, als lid van een bestuursorgaan van een gemeentelijk extern verzelfstandigd agentschap of een filiaal ervan;<br>
-4° lid van een bestuursorgaan van een intergemeentelijk samenwerkingsverband als vermeld in deel 3, titel 3, van dit decreet;<br>
+4° lid van een bestuursorgaan van een intergemeentelijk samenwerkingsverband als vermeld in deel 3, titel 3, of van een vereniging of vennootschap voor maatschappelijk welzijn als vermeld in deel 3, titel 4, van dit decreet;<br>
 5° lid van een bestuursorgaan van een sociale huisvestingsmaatschappij als vermeld in de Vlaamse Codex Wonen van 2021;<br>
 6° lid van een bestuursorgaan van een rechtspersoon als vermeld in artikel 386 van dit decreet;<br>
 7° lid van een bestuursorgaan van een rechtspersoon als vermeld in artikel 188 van het Provinciedecreet van 9 december 2005;<br>
@@ -2054,7 +2131,10 @@ De personeelsleden mogen geen vergoedingen, wedden, toelagen, presentiegelden of
 <br>
 § 2. De hoedanigheid van personeelslid, met inbegrip van de personen, vermeld in het koninklijk besluit nr. 78 van 10 november 1967 betreffende de uitoefening van de gezondheidszorgberoepen, die ingevolge een beslissing van een van de organen van de gemeente of van het openbaar centrum voor maatschappelijk welzijn hun werkzaamheden uitoefenen in een van de instellingen van de gemeente of van het openbaar centrum voor maatschappelijk welzijn is onverenigbaar met het mandaat van voorzitter van de gemeenteraad, voorzitter van de raad voor maatschappelijk welzijn, burgemeester of schepen, voorzitter van het vast bureau in de gemeente waar de instelling gevestigd is.<br>
 <br>
-§ 3. Artikel 27, § 1 en § 2, met uitzondering van punt 4°, en artikel 29, § 4, zijn ook van toepassing op de personeelsleden van de gemeente en van het openbaar centrum voor maatschappelijk welzijn.
+§ 3. Artikel 27, § 1 en § 2, met uitzondering van punt 4°, en artikel 29, § 4, zijn ook van toepassing op de personeelsleden van de gemeente en van het openbaar centrum voor maatschappelijk welzijn, met dien verstande dat in de voormelde bepalingen de volgende woorden worden gelezen als volgt:<br>
+1° "de gemeente" als "de gemeente of het openbaar centrum voor maatschappelijk welzijn";<br>
+2° "gemeenteraadslid" als "personeelslid van de gemeente of het openbaar centrum voor maatschappelijk welzijn";<br>
+3° "gemeentelijk extern verzelfstandigd agentschap" als "gemeentelijk extern verzelfstandigd agentschap of de verenigingen of de vennootschappen, vermeld in deel 3, titel 4".
 
 ### ART 192.
 
@@ -2522,12 +2602,12 @@ De deelname is onderworpen aan de voorwaarde dat aan het autonoom gemeentebedrij
 
 ### ART 241.
 
-Artikel 221 tot en met 223 en de bepalingen van titel 4 zijn van toepassing op de autonome gemeentebedrijven, met uitzondering van hoofdstuk 3 en artikel 249, § 3, artikel 256, 260, derde lid, artikel 262, § 1, tweede lid, en artikel 264, tweede lid, en met dien verstande dat de volgende woorden worden gelezen als volgt:<br>
+Artikel 221 tot en met 223 en de bepalingen van titel 4 zijn van toepassing op de autonome gemeentebedrijven, met uitzondering van artikel 249, § 3 en § 4, artikel 256, artikel 260, derde lid, artikel 262, § 1, tweede lid, artikel 264, tweede lid, en hoofdstuk 3 en 4, en met dien verstande dat de volgende woorden worden gelezen als volgt:<br>
 1° "de gemeente" als "het autonoom gemeentebedrijf";<br>
 2° "de gemeente en het openbaar centrum voor maatschappelijk welzijn" als "het autonoom gemeentebedrijf";<br>
 3° "elke gemeente en elk openbaar centrum voor maatschappelijk welzijn" als "elk autonoom gemeentebedrijf";<br>
 4° "in elke gemeente en in elk openbaar centrum voor maatschappelijk welzijn" als "in elk autonoom gemeentebedrijf";<br>
-5° "de gemeenteraad" en "de gemeenteraad of de raad voor maatschappelijk welzijn" als "de raad van bestuur";<br>
+5° "de gemeenteraad" , "de gemeenteraad en de raad voor maatschappelijk welzijn" en "de gemeenteraad of de raad voor maatschappelijk welzijn" als "de raad van bestuur";<br>
 6° "raadsleden" als "leden van de raad van bestuur";<br>
 7° "het college van burgemeester en schepenen" als "de raad van bestuur".<br>
 <br>
@@ -2539,11 +2619,19 @@ De boekhouding wordt gevoerd onder de verantwoordelijkheid en het toezicht van d
 <br>
 De raad van bestuur stelt het meerjarenplan en de aanpassingen ervan vast en legt ze ter goedkeuring voor aan de gemeenteraad.<br>
 <br>
+De raad van bestuur stemt telkens over het hele meerjarenplan en de aanpassingen ervan.<br>
+<br>
+In afwijking van het derde lid kan elk lid van de raad van bestuur de afzonderlijke stemming eisen over een of meer onderdelen die hij aanwijst. In dat geval mag de raad van bestuur pas over het hele meerjarenplan en de aanpassingen ervan stemmen na de afzonderlijke stemming. Als die afzonderlijke stemming tot gevolg heeft dat het ontwerp van het meerjarenplan of de aanpassing ervan moet worden gewijzigd, wordt de stemming over het hele meerjarenplan verdaagd tot een volgende vergadering van de raad van bestuur.<br>
+<br>
 De ramingen voor de exploitatie, de investeringen en de financiering in het eerste jaar van de financiële nota van het meerjarenplan omvatten ook de kredieten voor dat boekjaar.
 
 ### ART 243.
 
 § 1. De raad van bestuur spreekt zich uit over de vaststelling van de jaarrekening voor 30 juni van het boekjaar dat volgt op het boekjaar waarop de rekening betrekking heeft.<br>
+<br>
+De raad van bestuur stemt telkens over de hele jaarrekening.<br>
+<br>
+In afwijking van het tweede lid kan elk lid van de raad van bestuur de afzonderlijke stemming eisen over een of meer onderdelen die hij aanwijst. In dat geval mag de raad van bestuur pas over de hele jaarrekening stemmen na de afzonderlijke stemming. Als die afzonderlijke stemming tot gevolg heeft dat de jaarrekening moet worden gewijzigd, wordt de stemming over de hele jaarrekening verdaagd tot een volgende vergadering van de raad van bestuur.<br>
 <br>
 § 2. De gemeenteraad brengt advies uit bij de jaarrekening van het autonoom gemeentebedrijf, tenzij de gemeenteraad ervoor gekozen heeft om alle leden van de gemeenteraad te benoemen als lid van de raad van bestuur.<br>
 <br>
@@ -2569,13 +2657,13 @@ De gemeente waarborgt de rechten die het autonoom gemeentebedrijf op het ogenbli
 
 ### ART 245.
 
-§ 1. De gemeente is gemachtigd om onder de voorwaarden, vermeld in dit hoofdstuk, een vennootschap als vermeld in het Wetboek van Vennootschappen, of een vereniging of stichting als vermeld in de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen, op te richten en te belasten met welbepaalde beleidsuitvoerende taken van gemeentelijk belang. Vanuit hun taak voor de beleidsuitvoering kunnen de gemeentelijke extern verzelfstandigde agentschappen in privaatrechtelijke vorm ook betrokken worden bij de beleidsvoorbereiding.<br>
+§ 1. De gemeente is gemachtigd om onder de voorwaarden, vermeld in dit hoofdstuk, een vennootschap, een vereniging of een stichting als vermeld in het Wetboek van vennootschappen en verenigingen&nbsp;op te richten en te belasten met welbepaalde beleidsuitvoerende taken van gemeentelijk belang. Vanuit hun taak voor de beleidsuitvoering kunnen de gemeentelijke extern verzelfstandigde agentschappen in privaatrechtelijke vorm ook betrokken worden bij de beleidsvoorbereiding.<br>
 <br>
 De gemeentelijke extern verzelfstandigde agentschappen, vermeld in het eerste lid, worden opgericht in overeenstemming met het gelijkheidsbeginsel, de regelgeving over de mededinging en de staatssteun.<br>
 <br>
 Naast de gemeente mogen in de oprichting van die gemeentelijke vennootschap, vereniging of stichting andere personen deelnemen, met uitzondering van andere gemeenten, gemeentelijke extern verzelfstandigde agentschappen van andere gemeenten, intergemeentelijke samenwerkingsverbanden, provincies, provinciale extern verzelfstandigde agentschappen, de Vlaamse Gemeenschap en het Vlaamse Gewest.<br>
 <br>
-De gemeente is gemachtigd om onder dezelfde voorwaarden deel te nemen in een vennootschap als vermeld in het Wetboek van Vennootschappen, of in een vereniging als vermeld in de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen.<br>
+De gemeente is gemachtigd om onder dezelfde voorwaarden deel te nemen in een vennootschap of in een vereniging als vermeld in het Wetboek van vennootschappen en verenigingen.<br>
 <br>
 De openbare centra voor maatschappelijk welzijn mogen deelnemen in een gemeentelijk extern verzelfstandigd agentschap in privaatrechtelijke vorm van de gemeente die door het openbaar centrum voor maatschappelijk welzijn wordt bediend. Ze hoeven in dat geval niet te voldoen aan de voorwaarden, vermeld in deel 3, titel 4.<br>
 <br>
@@ -2984,7 +3072,7 @@ De algemeen directeur brengt de raad voor maatschappelijk welzijn, het vast bure
 <br>
 § 2. De voorzitter van het vast bureau maakt via de webtoepassing van de gemeente een lijst bekend met de besluiten van:<br>
 1° de raad voor maatschappelijk welzijn;<br>
-2° de algemene vergadering en de raad van bestuur van de welzijnsvereniging waarvan de maatschappelijke zetel zich in de gemeente bevindt;<br>
+2° de algemene vergadering en de raad van bestuur van de welzijnsvereniging&nbsp;en van de autonome verzorgingsinstelling waarvan de maatschappelijke zetel zich in de gemeente bevindt;<br>
 3° het vast bureau;<br>
 4° de voorzitter van het vast bureau.<br>
 <br>
@@ -3011,7 +3099,7 @@ De besluiten van het bijzonder comité voor de sociale dienst worden niet bekend
 1° de reglementen van de raad voor maatschappelijk welzijn en van het vast bureau;<br>
 2° de afwijkingen van de rechtspositieregeling van het personeel overeenkomstig artikel 186, § 2, en de wijzigingen ervan;<br>
 3° de oprichtingsakte van de verenigingen en vennootschappen voor maatschappelijk welzijn die het openbaar centrum voor maatschappelijk welzijn heeft opgericht of mede opgericht;<br>
-4° de statuten van de verenigingen voor maatschappelijk welzijn waarvan het openbaar centrum voor maatschappelijk welzijn deelgenoot is;<br>
+4° de statuten van de verenigingen&nbsp;en vennootschappen voor maatschappelijk welzijn waarvan het openbaar centrum voor maatschappelijk welzijn deelgenoot is;<br>
 5° de beleidsrapporten van de welzijnsverenigingen waarvan de maatschappelijke zetel zich in de gemeente bevindt.<br>
 <br>
 § 3. Met behoud van de bepalingen van dit decreet, kan de Vlaamse Regering bepalen welke andere besluiten en andere stukken moeten worden bekendgemaakt, en voor alle besluiten en stukken, vermeld in dit artikel, hoe lang ze minimaal via de webtoepassing van de gemeente raadpleegbaar moeten blijven.
@@ -3563,11 +3651,29 @@ De oorspronkelijke gemeenten worden bij samenvoeging opgeheven.
 
 De gemeenteraden maken met een gemotiveerde principiële beslissing hun gezamenlijke intentie tot samenvoeging kenbaar aan de Vlaamse Regering. De voormelde beslissing bevat ook de beoogde datum van samenvoeging.
 
+### ART 345/1.
+
+De gemeenteraden kunnen in onderling overleg een transitiemanager aanwijzen die de samenvoegingsoperatie op ambtelijk niveau begeleidt.<br>
+<br>
+Indien geen transitiemanager wordt aangewezen, begeleidt de algemeen directeur-coördinator de samenvoegingsoperatie op ambtelijk niveau en begeleidt de financieel directeur-coördinator de samenvoegingsoperatie op ambtelijk niveau wat betreft de coördinatie van de financiële aspecten. De algemeen directeurs respectievelijk financieel directeurs van de andere betrokken gemeenten staan hen daarin bij.
+
 ### ART 346.
 
-De gemeenteraden wijzen in onderling overleg een van de algemeen directeurs aan die optreedt als algemeen directeur-coördinator van de samenvoegingsoperatie op ambtelijk niveau en die ook de opdrachten uitvoert die hem worden toegewezen in dit decreet. De algemeen directeurs van de andere betrokken gemeenten staan hem daarin bij.<br>
+De gemeenteraden wijzen in onderling overleg een van de algemeen directeurs aan die optreedt als algemeen directeur-coördinator&nbsp; die de opdrachten uitvoert die hem worden toegewezen in dit decreet. De algemeen directeurs van de andere betrokken gemeenten staan hem daarin bij.<br>
 <br>
-De gemeenteraden wijzen in onderling overleg een van de financieel directeurs of gewestelijke ontvangers aan die optreedt als financieel directeur-coördinator van de samenvoegingsoperatie op ambtelijk niveau voor de coördinatie van de financiële aspecten van de samenvoeging en die ook de opdrachten uitvoert die hem worden toegewezen in dit decreet. De financieel directeurs van de andere betrokken gemeenten staan hem daarin bij.
+De gemeenteraden wijzen in onderling overleg een van de financieel directeurs of gewestelijke ontvangers aan die optreedt als financieel directeur-coördinator die de opdrachten uitvoert die hem worden toegewezen in dit decreet. De financieel directeurs van de andere betrokken gemeenten staan hem daarin bij.<br>
+<br>
+Bij een samenvoeging als vermeld in artikel 344, eerste lid, 2°, komt het aantal aan te wijzen algemeen directeurs-coördinatoren en financieel directeurs-coördinatoren overeen met het aantal nieuwe gemeenten.
+
+### ART 346/1.
+
+Als er, in geval van een samenvoeging als vermeld in artikel 344, eerste lid, 1°, op de datum van de indiening van het gezamenlijke voorstel tot samenvoeging bij de Vlaamse Regering geen algemeen directeur-coördinator is aangewezen als vermeld in artikel 346, eerste lid, wordt met ingang van de voormelde datum de algemeen directeur van de gemeente met het hoogste aantal inwoners van rechtswege aangewezen als algemeen directeur-coördinator.<br>
+<br>
+Als er, in geval van een samenvoeging als vermeld in artikel 344, eerste lid, 2°, op de datum van de indiening van het gezamenlijke voorstel tot samenvoeging bij de Vlaamse Regering geen algemeen directeur-coördinator is aangewezen als vermeld in artikel 346, eerste lid, voor een of meer van de nieuw begrensde gemeenten, wordt met ingang van de voormelde datum voor elk van de voormelde gemeenten een algemeen directeur-coördinator van rechtswege aangewezen. Daarbij wordt telkens de algemeen directeur van de gemeente met het hoogste aantal inwoners, die nog niet eerder is aangewezen als algemeen directeur-coördinator in een van de andere nieuw begrensde gemeenten, van rechtswege aangewezen als algemeen directeur-coördinator.<br>
+<br>
+Als er, in geval van een samenvoeging als vermeld in artikel 344, eerste lid, 1°, op de datum van de indiening van het gezamenlijke voorstel tot samenvoeging bij de Vlaamse Regering geen financieel directeur-coördinator is aangewezen als vermeld in artikel 346, tweede lid, wordt met ingang van de voormelde datum de financieel directeur of gewestelijke ontvanger van de gemeente met het hoogste aantal inwoners van rechtswege aangewezen als financieel directeur-coördinator.<br>
+<br>
+Als er, in geval van een samenvoeging als vermeld in artikel 344, eerste lid, 2°, op de datum van indiening van het gezamenlijke voorstel tot samenvoeging bij de Vlaamse Regering, geen financieel directeur-coördinator is aangewezen als vermeld in artikel 346, tweede lid, voor een of meer van de nieuw begrensde gemeenten, wordt met ingang van de voormelde datum voor elk van die gemeenten een financieel directeur-coördinator van rechtswege aangewezen. Daarbij wordt telkens de financieel directeur van de gemeente met het hoogste aantal inwoners, die nog niet eerder aangewezen is als financieel directeur-coördinator in een van de andere nieuw begrensde gemeenten, van rechtswege aangewezen als financieel directeur-coördinator
 
 ## Onderafdeling 2. Gezamenlijk voorstel tot samenvoeging
 
@@ -3599,21 +3705,14 @@ Bij onenigheid tussen de gemeenteraden wordt het geschil door de Raad van State 
 
 ### ART 350.
 
-&nbsp;§ 1. Alle roerende goederen van de samengevoegde gemeenten worden op de samenvoegingsdatum van rechtswege overgedragen aan de nieuwe gemeente.<br>
+Bij een samenvoeging als vermeld in artikel 344, eerste lid, 1°, gelden de volgende algemene principes:<br>
+1° alle roerende goederen van de samengevoegde gemeenten worden op de samenvoegingsdatum van rechtswege overgedragen aan de nieuwe gemeente. De goederen worden overgedragen in de staat waarin ze zich bevinden, met inbegrip van de lasten en de verplichtingen die eigen zijn aan de goederen. De nieuwe gemeente treedt op de samenvoegingsdatum in de rechten en plichten van de samengevoegde gemeenten voor de roerende goederen die aan haar zijn overgedragen, met inbegrip van de rechten en plichten die voortvloeien uit de hangende en toekomstige gerechtelijke procedures;<br>
+2° de onroerende goederen van de samengevoegde gemeenten worden op de samenvoegingsdatum van rechtswege overgedragen aan de nieuwe gemeente. De nieuwe gemeente neemt de rechten, plichten en lasten over van de onroerende goederen die aan haar zijn overgedragen;<br>
+3° de nieuwe gemeente neemt op de samenvoegingsdatum van rechtswege de rechten, plichten en lasten over die voortvloeien uit overeenkomsten van de samengevoegde gemeenten;<br>
+4° elke overheidsopdracht voor aanneming van werken, leveringen en diensten van een van de samengevoegde gemeenten wordt van rechtswege voortgezet door de nieuwe gemeente vanaf de samenvoegingsdatum;<br>
+5° de nieuwe gemeente is de rechtsopvolger van de samengevoegde gemeenten en neemt op de samenvoegingsdatum alle rechten, plichten en lasten over van de samengevoegde gemeenten.<br>
 <br>
-De goederen worden overgedragen in de staat waarin ze zich bevinden, met inbegrip van de lasten en de verplichtingen die eigen zijn aan de goederen.<br>
-<br>
-De nieuwe gemeente treedt op de samenvoegingsdatum in de rechten en plichten van de samengevoegde gemeenten voor de roerende goederen die aan haar zijn overgedragen, met inbegrip van de rechten en plichten die voortvloeien uit de hangende en toekomstige gerechtelijke procedures.<br>
-<br>
-§ 2. De onroerende goederen van de samengevoegde gemeenten worden op de samenvoegingsdatum van rechtswege overgedragen aan de nieuwe gemeente. De nieuwe gemeente neemt de rechten, plichten en lasten over van de onroerende goederen die aan haar zijn overgedragen.<br>
-<br>
-§ 3. De nieuwe gemeente neemt op de samenvoegingsdatum van rechtswege de rechten, plichten en lasten over die voortvloeien uit overeenkomsten van de samengevoegde gemeenten.<br>
-<br>
-§ 4. Elke uitvoering van overheidsopdrachten voor aanneming van werken, leveringen en diensten, gegund door een van de samengevoegde gemeenten, wordt van rechtswege voortgezet door de nieuwe gemeente vanaf de samenvoegingsdatum.<br>
-<br>
-§ 5. In geval van een samenvoeging als vermeld in artikel 344, eerste lid, 2°, wordt de overdracht, vermeld in paragraaf 1 tot en met 3, aan de nieuwe gemeente, en de voortzetting, vermeld in paragraaf 4, door de nieuwe gemeente, uitgevoerd op basis van een overeenkomst tussen de oorspronkelijke gemeenten, die door hun gemeenteraden wordt bekrachtigd.<br>
-<br>
-§ 6. De nieuwe gemeente is de rechtsopvolger van de samengevoegde gemeenten en neemt op de samenvoegingsdatum alle rechten, plichten en lasten over van de samengevoegde gemeenten.
+Bij een samenvoeging als vermeld in artikel 344, eerste lid, 2°, wordt de overdracht aan de nieuwe gemeente, vermeld in het eerste lid, 1° tot en met 3°, en de voortzetting door de nieuwe gemeente, vermeld in het eerste lid, 4°, uitgevoerd op basis van een overeenkomst tussen de oorspronkelijke gemeenten, die door hun gemeenteraden wordt bekrachtigd.
 
 ### ART 351.
 
@@ -3624,6 +3723,10 @@ Behalve in geval van andersluidende bepalingen in dit hoofdstuk blijven in de sa
 Na de gemeenteraadsverkiezingen blijven de aftredende burgemeesters van de samengevoegde gemeenten, elk wat hem of haar betreft, voor het grondgebied van de samengevoegde gemeente waarin ze als burgemeester hun bevoegdheden hebben uitgeoefend, in functie tot de burgemeester van de nieuwe gemeente is geïnstalleerd.<br>
 <br>
 Tot aan de verkiezing van de voorzitter van het bijzonder comité voor de sociale dienst van de nieuwe gemeente blijven de uittredende voorzitters van het bijzonder comité voor de sociale dienst van de samengevoegde gemeenten, elk wat hem of haar betreft, voor het grondgebied van de samengevoegde gemeente waarin ze als voorzitter van het bijzonder comité voor de sociale dienst hun bevoegdheden hebben uitgeoefend, de maatregelen, vermeld in artikel 114, nemen.
+
+### ART 351/2.
+
+De nieuwe gemeente is gemachtigd de titel van stad te voeren als aan een van de oorspronkelijke gemeenten de titel van stad is verleend.
 
 ## Afdeling 5. Verkiezing en installatie van de gemeenteraad van de nieuwe gemeente
 
@@ -3643,30 +3746,47 @@ Voor de organisatie van de buitengewone verkiezing van de eerste gemeenteraad va
 9° wordt in artikel 191, § 4, van hetzelfde decreet de zinsnede "vastgesteld overeenkomstig artikel 16" gelezen als de zinsnede "vastgesteld door optelling van de aantallen kiezers in de samengevoegde gemeenten, vastgesteld overeenkomstig artikel 16";<br>
 10° wordt in artikel 8 van het Digitaal Kiesdecreet van 25 mei 2012 de zin "Het gemeentebestuur en het stadsdistrictsbestuur voorzien respectievelijk de gemeentelijke hoofdbureaus en de stadsdistrictshoofdbureaus van de apparatuur voor het kandidatenbeheer en het resultatenbeheer." gelezen als de zin "Het gemeentebestuur van de gemeente waarvan de algemeen directeur aangewezen is als coördinator overeenkomstig artikel 346, voorziet het gemeentelijk hoofdbureau van de apparatuur voor het kandidatenbeheer en het resultatenbeheer.".
 
+### ART 352/1.
+
+In afwijking van artikel 5, § 3, gelden de volgende bepalingen:<br>
+1° de verkozene voor de gemeenteraad die het initiatiefrecht heeft, kan afstand doen van dat recht door een verklaring van afstand in te dienen bij de algemeen directeur-coördinator;<br>
+2° de algemeen directeur-coördinator maakt de volgende elementen, nadat ze zich voordoen, onmiddellijk bekend op de webtoepassing van de samengevoegde gemeenten en de eventuele webtoepassing van de nieuwe gemeente:<br>
+a) de indiening van een gezamenlijke akte van voordracht door de verkozene voor de gemeenteraad die op dat moment het initiatiefrecht heeft;<br>
+b) het ontbreken van een gezamenlijke akte van voordracht op de derde dag voor de installatievergadering;<br>
+c) de uitputting van het initiatiefrecht door alle houders van het initiatiefrecht;<br>
+d) de indiening van een verklaring van afstand;<br>
+e) het ontbreken van een gezamenlijke akte van voordracht, ingediend door de verkozene voor de gemeenteraad die op dat moment het initiatiefrecht heeft, na de periode van veertien dagen.
+
 ### ART 353.
 
 § 1. In afwijking van artikel 6, § 1:<br>
 1° worden de verkozen gemeenteraadsleden, voor de goede orde, door de algemeen directeur-coördinator, vermeld in artikel 346, ten minste acht dagen voor de installatievergadering van de gemeenteraad op de hoogte gebracht van de datum, het uur en de plaats van de installatievergadering;<br>
 2° vindt de installatievergadering van de gemeenteraad van rechtswege plaats om 20 uur, op de eerste werkdag van januari. Behalve als er een andere afspraak tussen de samengevoegde gemeenten is, vindt de installatievergadering plaats in het gemeentehuis van de gemeente waarvan de algemeen directeur aangewezen is als coördinator overeenkomstig artikel 346;<br>
-3° worden, als er bezwaar is ingediend tegen de verkiezing en als die vervolgens toch geldig is verklaard, de nieuw verkozen raadsleden door de uittredende voorzitter van de gemeenteraad van de gemeente waarvan de algemeen directeur aangewezen is als coördinator overeenkomstig artikel 346, bijeengeroepen op de installatievergadering binnen tien dagen na de dag waarop de uitslag van de verkiezing definitief is;<br>
-4° worden, als er bezwaar is ingediend tegen de verkiezing en als die verkiezing vervolgens ongeldig is verklaard en er een nieuwe verkiezing moet worden gehouden, de nieuw verkozen raadsleden door de uittredende voorzitter van de gemeenteraad van de gemeente waarvan de algemeen directeur aangewezen is als coördinator overeenkomstig artikel 346, bijeengeroepen op de installatievergadering binnen tien dagen na de dag waarop de uitslag van de nieuwe verkiezing definitief is;<br>
+3° worden, als er bezwaar is ingediend tegen de verkiezing en als die vervolgens toch geldig is verklaard, de nieuw verkozen raadsleden door de uittredende voorzitter van de gemeenteraad van de gemeente waarvan de algemeen directeur aangewezen is als coördinator overeenkomstig artikel 346, bijeengeroepen op de installatievergadering binnen vijftien dagen na de dag waarop de uitslag van de verkiezing definitief is, maar ten vroegste op de eerste werkdag van januari;<br>
+4° worden, als er bezwaar is ingediend tegen de verkiezing en als die verkiezing vervolgens ongeldig is verklaard en er een nieuwe verkiezing moet worden gehouden, de nieuw verkozen raadsleden door de uittredende voorzitter van de gemeenteraad van de gemeente waarvan de algemeen directeur aangewezen is als coördinator overeenkomstig artikel 346, bijeengeroepen op de installatievergadering binnen vijftien dagen na de dag waarop de uitslag van de nieuwe verkiezing definitief is;<br>
 5° gebeurt, als de nieuw verkozen raadsleden niet zijn bijeengeroepen overeenkomstig de voormelde bepalingen, de bijeenroeping door een uittredend lid van het college van burgemeester en schepenen van de gemeente waarvan de algemeen directeur aangewezen is als coördinator overeenkomstig artikel 346, volgens hun rangorde, waarbij de burgemeester wordt geacht een hogere rang in te nemen dan een schepen.<br>
 <br>
 § 2. In afwijking van artikel 6, § 2, zit de uittredende voorzitter van de gemeenteraad van de gemeente waarvan de algemeen directeur aangewezen is als coördinator overeenkomstig artikel 346, de installatievergadering voor. Hij blijft voorzitter van de gemeenteraad tot een nieuwe voorzitter verkozen is. Als de uittredende voorzitter van de gemeenteraad van de gemeente waarvan de algemeen directeur aangewezen is als coördinator overeenkomstig artikel 346 de installatievergadering niet kan voorzitten, wordt ze voorgezeten door een uittredend lid van het college van burgemeester en schepenen van de gemeente waarvan de algemeen directeur aangewezen is als coördinator overeenkomstig artikel 346, in volgorde van hun rang.<br>
 <br>
 In afwijking van het eerste lid kunnen de samengevoegde gemeenten in onderlinge afspraak een van de andere voorzitters van de gemeenteraden van de samengevoegde gemeenten aanwijzen om de installatievergadering voor te zitten.<br>
 <br>
-§ 3. In afwijking van artikel 7, § 1, derde lid, wordt de akte uiterlijk acht dagen voor de installatievergadering van de gemeenteraad overhandigd aan de algemeen directeur-coördinator, vermeld in artikel 346.<br>
+§ 2/1. In afwijking van artikel 8 brengt een verkozen gemeenteraadslid dat voor zijn installatie afstand wil doen van zijn mandaat, de uittredende voorzitter van de gemeenteraad van de gemeente waarvan de algemeen directeur aangewezen is als coördinator conform artikel 346, daarvan schriftelijk op de hoogte.<br>
 <br>
-In afwijking van artikel 43, § 1, derde lid, wordt de akte uiterlijk acht dagen voor de installatievergadering van de gemeenteraad overhandigd aan de algemeen directeur-coördinator, vermeld in artikel 346.<br>
+§ 3. In afwijking van artikel 7, § 1, vierde lid, wordt de akte uiterlijk acht dagen voor de installatievergadering van de gemeenteraad bezorgd aan de algemeen directeur-coördinator, vermeld in artikel 346.<br>
 <br>
-In afwijking van artikel 90, § 1, vierde lid, wordt de akte uiterlijk acht dagen voor de installatievergadering van de gemeenteraad overhandigd aan de algemeen directeur-coördinator, vermeld in artikel 346.<br>
+In afwijking van artikel 43, § 1, vierde lid, wordt de akte uiterlijk acht dagen voor de installatievergadering van de gemeenteraad bezorgd aan de algemeen directeur-coördinator, vermeld in artikel 346.<br>
 <br>
-In afwijking van artikel 92, tweede lid, wordt de akte uiterlijk acht dagen voor de installatievergadering van de gemeenteraad overhandigd aan de algemeen directeur-coördinator, vermeld in artikel 346.<br>
+In afwijking van artikel 90, § 1, zesde lid, wordt de akte uiterlijk acht dagen voor de installatievergadering van de gemeenteraad bezorgd aan de algemeen directeur-coördinator, vermeld in artikel 346.<br>
 <br>
-§ 4. Het gemeentehuis van de gemeente waarvan de algemeen directeur aangewezen is als coördinator overeenkomstig artikel 346, doet dienst als gemeentehuis van de nieuwe gemeente zolang de gemeenteraad geen ander gebouw als gemeentehuis heeft gekozen.<br>
+In afwijking van artikel 92, tweede lid, wordt de akte uiterlijk acht dagen voor de installatievergadering van de gemeenteraad bezorgd aan de algemeen directeur-coördinator, vermeld in artikel 346.<br>
 <br>
-§ 5. In afwijking van artikel 36, § 2, eerste lid, 8°, kunnen de kandidaat-gemeenteraadsleden die op dezelfde lijst zijn verkozen, twee fracties vormen, als aan de algemeen directeur van de gemeente waarvan de algemeen directeur aangewezen is als coördinator overeenkomstig artikel 346, tegen ontvangstbewijs een afschrift van de akte inzake fractievorming overhandigd wordt uiterlijk de eerste werkdag na de dag waarop de voordrachtsakte of de verbeteringsakte bij de voorzitter van het gemeentelijk hoofdbureau is ingediend.
+In afwijking van artikel 91, § 1, eerste lid, wordt de verklaring van lijstenverbinding bezorgd aan de algemeen directeur-coördinator, vermeld in artikel 346, binnen twee werkdagen voor de uiterste dag van het indienen van de akten van voordracht.<br>
+<br>
+In afwijking van artikel 91, § 2, derde lid, gaat de algemeen directeur- coördinator, vermeld in artikel 346, uiterlijk de dag na de uiterste datum om een verklaring van lijstenverbinding in te dienen, na hoeveel zetels in het bijzonder comité voor de sociale dienst aan de verschillende lijsten toekomen, met toepassing van artikel 91, § 2, eerste en tweede lid. Hij maakt op dezelfde dag die zetelverdeling bekend op de webtoepassing van de samengevoegde gemeenten en de eventuele webtoepassing van de nieuwe gemeente.<br>
+<br>
+§ 4. Behalve als er tussen de samengevoegde gemeenten een andere afspraak is gemaakt, doet het gemeentehuis van de gemeente waarvan de algemeen directeur aangewezen is als coördinator conform artikel 346, dienst als gemeentehuis van de nieuwe gemeente zolang de gemeenteraad geen ander gebouw als gemeentehuis heeft gekozen.<br>
+<br>
+§ 5. In afwijking van artikel 36, § 2, eerste lid, 8°, kunnen de kandidaat-gemeenteraadsleden die op dezelfde lijst zijn verkozen, twee fracties vormen, als aan de algemeen directeur van de gemeente waarvan de algemeen directeur aangewezen is als coördinator overeenkomstig artikel 346, tegen ontvangstbewijs een afschrift van de akte inzake fractievorming bezorgd wordt uiterlijk de eerste werkdag na de dag waarop de voordrachtsakte of de verbeteringsakte bij de voorzitter van het gemeentelijk hoofdbureau is ingediend.
 
 ### ART 354.
 
@@ -3706,6 +3826,37 @@ Als het ambt van algemeen directeur respectievelijk financieel directeur bij een
 
 ## Onderafdeling 2. Personeel na de samenvoegingsdatum
 
+### ART 356/1.
+
+Vanaf de datum van de principiële beslissing tot samenvoeging kan elk van de samen te voegen gemeenten een vacature vervullen op een van de volgende manieren:<br>
+1° door te putten uit een bestaande wervings- of bevorderingsreserve;<br>
+2° door een aanwervingsprocedure;<br>
+3° door een bevorderingsprocedure;<br>
+4° door een procedure van interne personeelsmobiliteit;<br>
+5° door een procedure van externe mobiliteit;<br>
+6° door een samenvoegingsmobiliteit als vermeld in artikel 356/2;<br>
+7° door een combinatie van de procedures, vermeld in punt 2°, 3° en 4°.<br>
+<br>
+Als de samen te voegen gemeente geen wervings- of bevorderingsreserve heeft aangelegd, kan ze voor de toepassing van het eerste lid putten uit de wervings- of bevorderingsreserve van de andere samen te voegen gemeente of gemeenten en van de samen te voegen openbare centra voor maatschappelijk welzijn die werd aangelegd voor een vergelijkbare functie.
+
+### ART 356/2.
+
+§ 1. Vanaf de datum van de principiële beslissing tot samenvoeging kunnen de bevoegde organen van de samen te voegen gemeenten elk in hun eigen rechtspositieregeling een samenvoegingsmobiliteit vaststellen die betrekking heeft op de personeelsmobiliteit tussen de gemeenten die worden samengevoegd en de openbare centra voor maatschappelijk welzijn die worden samengevoegd. Die samenvoegingsmobiliteit geldt tussen de gemeenten en de openbare centra voor maatschappelijk welzijn in kwestie.<br>
+<br>
+§ 2. De samenvoegingsmobiliteit kan op een van de volgende wijzen verwezenlijkt worden:<br>
+1° door deelname van personeelsleden van een samen te voegen gemeente of van een samen te voegen openbaar centrum voor maatschappelijk welzijn aan de procedure voor interne personeelsmobiliteit bij een andere samen te voegen gemeente;<br>
+2° door deelname van personeelsleden van een samen te voegen gemeente of van een samen te voegen openbaar centrum voor maatschappelijk welzijn aan de bevorderingsprocedure bij een andere samen te voegen gemeente.<br>
+<br>
+§ 3. Bij de toepassing van de samenvoegingsmobiliteit worden de personeelsleden van alle samen te voegen gemeenten en alle samen te voegen openbare centra voor maatschappelijk welzijn in kwestie uitgenodigd om zich kandidaat te stellen voor de vacante betrekking bij de samen te voegen gemeente.<br>
+<br>
+§ 4. De volgende personeelsleden kunnen zich, ongeacht hun administratieve toestand, kandidaat stellen om deel te nemen aan een procedure van samenvoegingsmobiliteit:<br>
+1° de vast aangestelde statutaire personeelsleden van de samen te voegen gemeenten en de samen te voegen openbare centra voor maatschappelijk welzijn in kwestie;<br>
+2° de contractuele personeelsleden van de samen te voegen gemeenten en de samen te voegen openbare centra voor maatschappelijk welzijn in kwestie, die aan de voorwaarden voldoen en die bij de eigen overheid zijn aangeworven na een externe bekendmaking van de vacature en een gelijkwaardige selectieprocedure als de procedure die van toepassing is op vacatures in statutaire betrekkingen hebben doorlopen.<br>
+<br>
+De samenvoegingsmobiliteit tussen de samen te voegen gemeenten en de samen te voegen openbare centra voor maatschappelijk welzijn is niet van toepassing op de betrekkingen van algemeen directeur, adjunct-algemeen directeur, financieel directeur en adjunct-financieel directeur.<br>
+<br>
+§ 5. De bevoegde organen van de samen te voegen gemeenten stellen de nadere procedure en modaliteiten vast voor de toepassing van de samenvoegingsmobiliteit.
+
 ### ART 357.
 
 Vanaf de samenvoegingsdatum tot aan de aanstelling van een nieuwe algemeen directeur neemt de algemeen directeur-coördinator, vermeld in artikel 346, eerste lid, het ambt van algemeen directeur van de nieuwe gemeente waar.<br>
@@ -3714,17 +3865,23 @@ De gemeenteraad van de nieuwe gemeente kan een waarnemingstoelage toekennen. Die
 
 ### ART 358.
 
-Binnen zes maanden na de samenvoegingsdatum stelt de gemeenteraad van de nieuwe gemeente een nieuwe algemeen directeur aan onder de algemeen directeurs van de samengevoegde gemeenten die zich na een oproep kandidaat hebben gesteld.<br>
+Onverminderd artikel 167 stelt de gemeenteraad van de nieuwe gemeente een nieuwe algemeen directeur aan binnen zes maanden na de samenvoegingsdatum.<br>
+<br>
+De algemeen directeur van de nieuwe gemeente wordt gekozen op basis van een systematische vergelijking van de titels en verdiensten van de kandidaten in het licht van de functiebeschrijving met functieprofiel en competentievereisten en, in voorkomend geval, van de toetsing aan de voorwaarden.
+
+### ART 358/1.
+
+De gemeenteraad van de nieuwe gemeente kan de titularissen van het ambt van algemeen directeur van de samengevoegde gemeenten oproepen om zich binnen dertig dagen kandidaat te stellen voor het ambt van algemeen directeur van de nieuwe gemeente. Na het verstrijken van de termijn stelt het college van burgemeester en schepenen van de nieuwe gemeente vast wie zich tijdig en ontvankelijk kandidaat heeft gesteld.<br>
 <br>
 De gemeenteraad van de nieuwe gemeente kan voorwaarden voor het ambt van algemeen directeur vaststellen.<br>
 <br>
-De algemeen directeur van de nieuwe gemeente wordt gekozen op basis van een systematische vergelijking van de titels en verdiensten van de kandidaten in het licht van de functiebeschrijving met functieprofiel en competentievereisten en, in voorkomend geval, van de toetsing aan de voorwaarden.<br>
+De gemeenteraad van de nieuwe gemeente stelt een nieuwe algemeen directeur aan met behoud van zijn dienstverband onder de algemeen directeurs van de samengevoegde gemeenten die zich na vermelde oproep kandidaat hebben gesteld.<br>
 <br>
 De gewezen algemeen directeur, die als algemeen directeur van de nieuwe gemeente wordt aangesteld, wordt met de verworven geldelijke anciënniteit ingeschaald in de salarisschaal overeenkomstig de reglementaire bepalingen ter zake.
 
 ### ART 359.
 
-Als er na de oproep geen kandidaten zijn voor het ambt van algemeen directeur of, in voorkomend geval, als geen enkele kandidaat aan de gestelde voorwaarden voldoet, vervult de gemeenteraad van de nieuwe gemeente het ambt van algemeen directeur van de nieuwe gemeente door aanwerving en/of bevordering.
+Als er na de oproep, vermeld in artikel 358/1, geen kandidaten zijn voor het ambt van algemeen directeur of, in voorkomend geval, als geen enkele kandidaat aan de gestelde voorwaarden voldoet of als de gemeenteraad van de nieuwe gemeente geen gebruik heeft gemaakt van de mogelijkheid, vermeld in artikel 358/1, vult de gemeenteraad van de nieuwe gemeente het ambt in door aanwerving en/of bevordering. De gemeenteraad van de nieuwe gemeente stelt de voorwaarden vast voor het ambt van algemeen directeur en stelt de selectieprocedure vast.
 
 ### ART 360.
 
@@ -3734,17 +3891,23 @@ De gemeenteraad van de nieuwe gemeente kan een waarnemingstoelage toekennen. Die
 
 ### ART 361.
 
-Binnen zes maanden na de samenvoegingsdatum stelt de gemeenteraad van de nieuwe gemeente een nieuwe financieel directeur aan onder de financieel directeurs van de samengevoegde gemeenten die zich na een oproep kandidaat hebben gesteld.<br>
+Onverminderd artikel 167 stelt de gemeenteraad van de nieuwe gemeente een nieuwe financieel directeur aan binnen zes maanden na de samenvoegingsdatum.<br>
+<br>
+De financieel directeur van de nieuwe gemeente wordt gekozen op basis van een systematische vergelijking van de titels en verdiensten van de kandidaten in het licht van de functiebeschrijving met functieprofiel en competentievereisten en, in voorkomend geval, van de toetsing aan de voorwaarden.
+
+### ART 361/1.
+
+De gemeenteraad van de nieuwe gemeente kan de titularissen van het ambt van financieel directeur van de samengevoegde gemeenten oproepen om zich binnen dertig dagen kandidaat te stellen voor het ambt van financieel directeur van de nieuwe gemeente. Na het verstrijken van de termijn stelt het college van burgemeester en schepenen van de nieuwe gemeente vast wie zich tijdig en ontvankelijk kandidaat heeft gesteld.<br>
 <br>
 De gemeenteraad van de nieuwe gemeente kan voorwaarden voor het ambt van financieel directeur vaststellen.<br>
 <br>
-De nieuwe financieel directeur wordt gekozen op basis van een systematische vergelijking van de titels en verdiensten van de kandidaten in het licht van de functiebeschrijving met functieprofiel en competentievereisten en, in voorkomend geval, van de toetsing aan de voorwaarden.<br>
+De gemeenteraad van de nieuwe gemeente stelt een nieuwe financieel directeur aan met behoud van zijn dienstverband onder de financieel directeurs van de samengevoegde gemeenten die zich na vermelde oproep kandidaat hebben gesteld.<br>
 <br>
-De gewezen financieel directeur van de gemeente, die als financieel directeur van de nieuwe gemeente wordt aangesteld, wordt met de verworven geldelijke anciënniteit ingeschaald in de salarisschaal overeenkomstig de reglementaire bepalingen ter zake.
+De gewezen financieel directeur, die als financieel directeur van de nieuwe gemeente wordt aangesteld, wordt met de verworven geldelijke anciënniteit ingeschaald in de salarisschaal overeenkomstig de reglementaire bepalingen ter zake.
 
 ### ART 362.
 
-Als er na de oproep geen kandidaatstellingen zijn voor het ambt van financieel directeur of, in voorkomend geval, als geen enkele kandidaat aan de gestelde voorwaarden voldoet, vervult de gemeenteraad van de nieuwe gemeente het ambt van financieel directeur van de nieuwe gemeente door aanwerving en/of bevordering.
+Als er na de oproep, vermeld in artikel 361/1, geen kandidaten zijn voor het ambt van financieel directeur of, in voorkomend geval, als geen enkele kandidaat aan de gestelde voorwaarden voldoet of als de gemeenteraad van de nieuwe gemeente geen gebruik heeft gemaakt van de mogelijkheid, vermeld in artikel 361/1, vult de gemeenteraad van de nieuwe gemeente het ambt in door aanwerving en/of bevordering. De gemeenteraad van de nieuwe gemeente stelt de voorwaarden vast voor het ambt van financieel directeur en stelt de selectieprocedure vast.
 
 ### ART 363.
 
@@ -3776,19 +3939,21 @@ Binnen een jaar na de samenvoegingsdatum stelt de gemeenteraad van de nieuwe gem
 
 ### ART 368.
 
-De bepalingen, vermeld in titel 4, zijn vanaf de samenvoegingsdatum van toepassing op de nieuwe gemeente.<br>
+De bepalingen, vermeld in titel 4, zijn vanaf de samenvoegingsdatum van toepassing op de nieuwe gemeente en het nieuwe OCMW.<br>
 <br>
-In afwijking van artikel 260, tweede lid, is de beleidsevaluatie in die jaarrekeningen van de samengevoegde gemeenten over het boekjaar dat voorafgaat aan dat van de samenvoegingsdatum facultatief.<br>
+In afwijking van het eerste lid is artikel 254 niet van toepassing gedurende de eerste bestuursperiode. Voor het einde van het eerste kwartaal van de eerste bestuursperiode wordt een eenjarig meerjarenplan vastgesteld voor het eerste jaar van die bestuursperiode. Voor het einde van het jaar dat volgt op de gemeenteraadsverkiezingen wordt een meerjarenplan vastgesteld dat start in het tweede jaar dat volgt op de gemeenteraadsverkiezingen en afloopt op het einde van het jaar na het jaar van de daaropvolgende gemeenteraadsverkiezingen. Elk van die meerjarenplannen bestaat uit een strategische nota, een financiële nota en een toelichting die conform artikel 255 zijn opgemaakt.<br>
 <br>
-In afwijking van het eerste lid is artikel 265 niet van toepassing gedurende het eerste kwartaal van de eerste bestuursperiode.<br>
+In afwijking van het eerste lid is artikel 265 niet van toepassing gedurende het eerste kwartaal van het eerste jaar van de eerste bestuursperiode. Tot de definitieve vaststelling van het eenjarige meerjarenplan en uiterlijk tot en met 31 maart van het eerste jaar van de eerste bestuursperiode mogen, door middel van voorlopige kredieten, verbintenissen voor de exploitatie, de investeringen en de financiering worden aangegaan tot maximaal drie twaalfde van de som van de kredieten van het vorige boekjaar.<br>
 <br>
-In afwijking van het eerste lid kan de nieuwe gemeente ervoor kiezen om een eenjarig meerjarenplan vast te stellen voor het eerste jaar van die eerste bestuursperiode. Ze doet dat dan in het eerste kwartaal van de eerste bestuursperiode. Dat meerjarenplan bestaat uit een strategische nota, een financiële nota en een toelichting, opgemaakt overeenkomstig artikel 255.
+In afwijking van artikel 260, tweede lid, is de beleidsevaluatie over het boekjaar dat voorafgaat aan dat van de samenvoegingsdatum facultatief in de jaarrekeningen van de samengevoegde gemeenten en OCMW's en in de jaarrekening van de autonome gemeentebedrijven van de samengevoegde gemeenten.
 
 ### ART 369.
 
-Alle reglementen over de gemeentelijke belastingen of retributies, goedgekeurd door de gemeenteraden van de samengevoegde gemeenten, behouden hun rechtskracht voor het grondgebied van de samengevoegde gemeenten waarvoor de respectieve reglementen zijn goedgekeurd, tot op de dag dat ze door de gemeenteraad van de nieuwe gemeente worden opgeheven. In elk geval worden die reglementen van rechtswege opgeheven een jaar na de samenvoegingsdatum.<br>
+§1. Alle reglementen over de gemeentelijke belastingen en retributies, goedgekeurd door de gemeenteraden van de samengevoegde gemeenten, behouden hun rechtskracht voor het grondgebied van de samengevoegde gemeenten waarvoor de respectieve reglementen zijn goedgekeurd, tot op de dag dat ze door de gemeenteraad van de nieuwe gemeente worden opgeheven. In elk geval worden die reglementen van rechtswege opgeheven een jaar na de samenvoegingsdatum.<br>
 <br>
-Alle besluiten van de colleges van burgemeester en schepenen over retributies, goedgekeurd ter uitvoering van een delegatiebesluit van de gemeenteraden van de samengevoegde gemeenten, behouden hun rechtskracht voor het grondgebied van de samengevoegde gemeenten waarvoor de respectieve besluiten zijn goedgekeurd, tot op de dag dat ze door het college van burgemeester en schepenen van de nieuwe gemeente worden opgeheven. In elk geval worden die besluiten van rechtswege opgeheven een jaar na de samenvoegingsdatum.
+Alle besluiten van de colleges van burgemeester en schepenen over retributies, goedgekeurd ter uitvoering van een delegatiebesluit van de gemeenteraden van de samengevoegde gemeenten, behouden hun rechtskracht voor het grondgebied van de samengevoegde gemeenten waarvoor de respectieve besluiten zijn goedgekeurd, tot op de dag dat ze door het college van burgemeester en schepenen van de nieuwe gemeente worden opgeheven. In elk geval worden die besluiten van rechtswege opgeheven een jaar na de samenvoegingsdatum.<br>
+<br>
+&nbsp;§ 2. In afwijking van paragraaf 1 stelt de gemeenteraad nieuwe reglementen vast voor de heffing van aanvullende belastingen op het grondgebied conform de toepasselijke federale en Vlaamse regelgeving.
 
 ### ART 370.
 
@@ -3830,6 +3995,16 @@ Artikel 351 is van toepassing op de samengevoegde OCMW's, met dien verstande dat
 
 Artikel 356, eerste lid, is van toepassing op de samen te voegen OCMW's met dien verstande dat "gemeenten" wordt gelezen als "openbare centra voor maatschappelijk welzijn".
 
+### ART 376/1.
+
+Artikel 356/1 is van toepassing op de samen te voegen openbare centra voor maatschappelijk welzijn, met dien verstande dat "de samen te voegen gemeenten" wordt gelezen als "de samen te voegen openbare centra voor maatschappelijk welzijn", "de samen te voegen gemeente" wordt gelezen als "het samen te voegen openbaar centrum voor maatschappelijk welzijn", "de andere samen te voegen gemeenten" wordt gelezen als "de andere samen te voegen openbare centra voor maatschappelijk welzijn" en "de samen te voegen openbare centra voor maatschappelijk welzijn" wordt gelezen als "de samen te voegen gemeenten".<br>
+<br>
+Artikel 356/2 is, met uitzondering van paragraaf 4, tweede lid, van toepassing op de samen te voegen openbare centra voor maatschappelijk welzijn, met dien verstande dat:<br>
+1° in paragraaf 1 "de bevoegde organen van de samen te voegen gemeenten" wordt gelezen als "de bevoegde organen van de samen te voegen openbare centra voor maatschappelijk welzijn";<br>
+2° in paragraaf 2, 1° en 2°, "bij een andere samen te voegen gemeente" wordt gelezen als "bij een ander samen te voegen openbaar centrum voor maatschappelijk welzijn";<br>
+3° in paragraaf 3 "bij de samen te voegen gemeente" wordt gelezen als "bij het samen te voegen openbaar centrum voor maatschappelijk welzijn";<br>
+4° in paragraaf 4, derde lid, "De bevoegde organen van de samen te voegen gemeenten" wordt gelezen als "De bevoegde organen van de samen te voegen openbare centra voor maatschappelijk welzijn".
+
 ## Onderafdeling 2. Personeel na de samenvoegingsdatum
 
 ### ART 377.
@@ -3854,13 +4029,18 @@ Artikel 367 is van toepassing op het nieuwe OCMW.
 
 ### ART 381.
 
-Artikel 368 is van toepassing op het nieuwe OCMW, met dien verstande dat in het eerste en het vierde lid "de nieuwe gemeente" wordt gelezen als "het nieuwe OCMW" en in het tweede lid "de samengevoegde gemeenten" wordt gelezen als "de samengevoegde OCMW's".
+...
 
 ## HOOFDSTUK 4. Diverse bepalingen
 
 ### ART 382.
 
-Een gewezen algemeen directeur of een gewezen financieel directeur van een samengevoegde gemeente, die niet als algemeen directeur respectievelijk financieel directeur van de nieuwe gemeente is aangesteld, wordt met behoud van zijn geldelijke anciënniteit aangesteld hetzij als adjunct-algemeen directeur respectievelijk adjunct-financieel directeur bij de gemeente, hetzij in een passende functie van niveau A in de nieuwe gemeente.<br>
+Een gewezen algemeen directeur of een gewezen financieel directeur van een samengevoegde gemeente, die niet als algemeen directeur respectievelijk financieel directeur van de nieuwe gemeente is aangesteld, wordt met behoud van zijn geldelijke anciënniteit aangesteld hetzij als adjunct-algemeen directeur respectievelijk adjunct-financieel directeur bij de gemeente, hetzij in een passende functie van niveau A in:<br>
+1° de nieuwe gemeente;<br>
+2° het openbaar centrum voor maatschappelijk welzijn dat de nieuwe gemeente bedient;<br>
+3° een verzelfstandigde entiteit van de nieuwe gemeente;<br>
+4° een vereniging of vennootschap voor maatschappelijk welzijn van het openbaar centrum voor maatschappelijk welzijn dat de nieuwe gemeente bedient;<br>
+5° een intergemeentelijk samenwerkingsverband zoals bedoeld in deel 3, titel 3, waarvan de nieuwe gemeente een deelnemende gemeente is.<br>
 <br>
 De gewezen algemeen directeur of gewezen financieel directeur wordt ingeschaald in de salarisschaal die verbonden is aan de passende functie. Hij behoudt de salarisschaal die hij genoot als algemeen directeur of financieel directeur in zijn oorspronkelijke gemeente, zolang het salaris op basis daarvan gunstiger is dan het salaris dat hij zou genieten na de inschaling.<br>
 <br>
@@ -3898,9 +4078,9 @@ Als er geschillen ontstaan over rechten die voortvloeien uit titels of bezit wor
 
 ### ART 386.
 
-&nbsp;§ 1. Met behoud van de toepassing van titel 3 van dit deel, kunnen de gemeenten verenigingen, stichtingen en vennootschappen met sociaal oogmerk oprichten, erin deelnemen of zich erin laten vertegenwoordigen als die verenigingen, stichtingen en vennootschappen met sociaal oogmerk niet belast worden met de verwezenlijking van welbepaalde taken van gemeentelijk belang.<br>
+&nbsp;§ 1. Met behoud van de toepassing van titel 3 van dit deel, kunnen de gemeenten verenigingen, stichtingen en sociale ondernemingen oprichten, erin deelnemen of zich erin laten vertegenwoordigen als die verenigingen, stichtingen en sociale ondernemingen niet belast worden met de verwezenlijking van welbepaalde taken van gemeentelijk belang.<br>
 <br>
-Onder dezelfde voorwaarden kunnen de gemeenten een andere vennootschap als vermeld in het Wetboek van Vennootschappen oprichten, erin deelnemen of zich erin laten vertegenwoordigen als die vennootschap uitsluitend de realisatie van lokale pps-projecten als vermeld in het decreet van 18 juli 20013 betreffende publiek-private samenwerking als doelstelling heeft.<br>
+Onder dezelfde voorwaarden kunnen de gemeenten een andere vennootschap als vermeld in het Wetboek van vennootschappen en verenigingen oprichten, erin deelnemen of zich erin laten vertegenwoordigen als die vennootschap uitsluitend de realisatie van lokale pps-projecten als vermeld in het decreet van 18 juli 2003 betreffende publiek-private samenwerking als doelstelling heeft.<br>
 <br>
 § 2. Met behoud van de toepassing van artikel 185 mag deze oprichting, deelname of vertegenwoordiging, vermeld in paragraaf 1, niet gepaard gaan met de overdracht van gemeentelijke infrastructuur, noch met de overdracht of terbeschikkingstelling van personeel.<br>
 <br>
@@ -3978,7 +4158,7 @@ De afgevaardigden voor de deelnemende gemeenten worden aangewezen onder de gemee
 
 § 1. Twee of meer gemeenten kunnen een samenwerkingsverband met rechtspersoonlijkheid tot stand brengen om doelstellingen te verwezenlijken die behoren tot een of meer beleidsdomeinen.<br>
 <br>
-Met behoud van de toepassing van andersluidende decretale bepalingen kunnen, naast gemeenten, aan het samenwerkingsverband met rechtspersoonlijkheid uitsluitend autonome gemeentebedrijven, openbare centra voor maatschappelijk welzijn en de publiekrechtelijke verenigingen ervan, andere samenwerkingsverbanden, gevormd krachtens deze titel, politiezones en hulpverleningszones deelnemen.<br>
+Met behoud van de toepassing van andersluidende decretale bepalingen kunnen, naast gemeenten, aan het samenwerkingsverband met rechtspersoonlijkheid uitsluitend autonome gemeentebedrijven, openbare centra voor maatschappelijk welzijn en de publiekrechtelijke verenigingen ervan, andere samenwerkingsverbanden, gevormd krachtens deze titel, politiezones en hulpverleningszones deelnemen.&nbsp;Daarnaast kan een Benelux Groepering voor Territoriale Samenwerking, opgericht in toepassing van het Benelux-Verdrag inzake grensoverschrijdende en interterritoriale samenwerking, gedaan te `s-Gravenhage op 20 februari 2014 deelnemen aan het voormelde samenwerkingsverband, indien die deelname strekt tot het mogelijk maken van een publieke dienstverlening en de deelname in overeenstemming is met het voormelde verdrag.<br>
 <br>
 De zetel van het samenwerkingsverband met rechtspersoonlijkheid is altijd gevestigd op het grondgebied van een deelnemende gemeente in een gebouw dat toebehoort aan het samenwerkingsverband zelf of aan een deelnemende gemeente.<br>
 <br>
@@ -3990,9 +4170,7 @@ De zetel van het samenwerkingsverband met rechtspersoonlijkheid is altijd gevest
 
 Het samenwerkingsverband met rechtspersoonlijkheid is een publiekrechtelijke rechtspersoon met een rechtsvorm waarvan de kenmerken vastgesteld zijn krachtens de bepalingen van deze titel.<br>
 <br>
-Ongeacht de doelstellingen van het samenwerkingsverband hebben zijn verbintenissen geen handelskarakter.<br>
-<br>
-Voor alles wat niet uitdrukkelijk geregeld is in deze titel zijn op het samenwerkingsverband met rechtspersoonlijkheid de bepalingen van het Wetboek van Vennootschappen van toepassing die gelden voor de vennootschapsvorm van de coöperatieve vennootschap met beperkte aansprakelijkheid.
+Voor alles wat niet uitdrukkelijk geregeld is in deze titel zijn op het samenwerkingsverband met rechtspersoonlijkheid de bepalingen van het Wetboek van vennootschappen en verenigingen van toepassing die gelden voor de vennootschapsvorm van de coöperatieve vennootschap.
 
 ### ART 398.
 
@@ -4032,7 +4210,9 @@ De projectvereniging kan opeenvolgende keren verlengd worden voor een termijn di
 <br>
 Projectverenigingen kunnen niet worden opgericht in de loop van het jaar waarin verkiezingen voor een algehele vernieuwing van de gemeenteraden worden georganiseerd.<br>
 <br>
-In afwijking van het tweede lid kan een samengevoegde gemeente waarin dezelfde activiteit van gemeentelijk belang als vermeld in artikel 389 aan verschillende projectverenigingen is toevertrouwd, beslissen om die activiteit, voor haar gehele grondgebied, toe te vertrouwen aan een daarvan, op voorwaarde dat een gewone meerderheid van de andere deelnemende gemeenten daarmee instemt. De gemeente die uittreedt, vergoedt de schade die haar uittreding berokkent aan de projectvereniging en aan de andere vennoten.
+In afwijking van het tweede lid kan een nieuwe gemeente&nbsp;als vermeld in artikel 343, 2°, waarin dezelfde activiteit van gemeentelijk belang als vermeld in artikel 389 aan verschillende projectverenigingen is toevertrouwd, beslissen om die activiteit, voor haar gehele grondgebied, toe te vertrouwen aan een daarvan, op voorwaarde dat een gewone meerderheid van de andere deelnemende gemeenten daarmee instemt. De gemeente die uittreedt, vergoedt de schade die haar uittreding berokkent aan de projectvereniging en aan de andere vennoten.<br>
+<br>
+Een nieuwe gemeente kan onder de voorwaarden, vermeld in het vijfde lid, beslissen om uit te treden om de activiteiten voor haar hele grondgebied in eigen beheer te nemen.
 
 ### ART 402.
 
@@ -4103,10 +4283,6 @@ De leden van de raad van bestuur kunnen per bijgewoonde vergadering een presenti
 ### ART 410.
 
 Het is niet verplicht om een maatschappelijk kapitaal te vormen.<br>
-<br>
-Als dat wel statutair is vastgelegd, wordt het vast kapitaal bij de oprichting door de deelnemers volledig in speciën volgestort.<br>
-<br>
-Het kapitaal wordt niet geïndexeerd en wordt vertegenwoordigd door aandelen waarvan de waarde en de rechten statutair zijn bepaald.<br>
 <br>
 Immateriële inbrengen ter vertegenwoordiging van vermogensbestanddelen die niet naar economische maatstaven kunnen worden gewaardeerd, en inbrengen in natura, worden gewaardeerd op grond van een verslag van de accountant en worden vertegenwoordigd door respectievelijk winstbewijzen en aandelen waarvan de waarde en de rechten statutair zijn bepaald.<br>
 <br>
@@ -4204,13 +4380,15 @@ Aan een toetreding of uitbreiding van aansluiting kan geen terugwerkende kracht 
 
 ### ART 422.
 
-Tijdens de bij de oprichting van een dienstverlenende of opdrachthoudende vereniging vastgestelde duur die, onder voorbehoud van artikel 424, niet meer mag bedragen dan achttien jaar, is geen uittreding mogelijk.<br>
+Tijdens de duur die bij de oprichting van een dienstverlenende of opdrachthoudende vereniging is vastgesteld en die, onder voorbehoud van artikel 424, niet meer mag bedragen dan achttien jaar, is een beslissing tot uittreding van een deelnemer alleen mogelijk als drie vierde van het aantal deelnemende gemeenten vóór de algemene vergadering waarop over de uittreding wordt beslist, daarmee instemt. Voor die beslissing is een drievierdemeerderheid van het aantal stemmen vereist van het geheel van de geldig uitgebrachte stemmen en van de geldig uitgebrachte stemmen van de vertegenwoordigde gemeenten. De deelnemer die uittreedt, vergoedt de schade die zijn uittreding berokkent aan de dienstverlenende of opdrachthoudende vereniging en aan de andere deelnemers.<br>
 <br>
 Binnen de opdrachthoudende verenigingen die overeenkomstig artikel 4.1.1 van het Energiedecreet van 8 mei 2009, zijn aangewezen als distributienetbeheerder of die een opdracht hebben verkregen die een onderdeel vormt van het beheer van de waterketen zoals bedoeld in het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending, is uittreding ten gevolge van een gebiedsuitwisseling evenwel mogelijk als de gemeente en de betrokken opdrachthoudende verenigingen daarmee instemmen en afspraken hebben over de modaliteiten voor de uitvoering ervan.<br>
 <br>
 Een deelnemer kan door de algemene vergadering worden uitgesloten op de wijze die is bepaald in de statuten wegens behoorlijk vastgestelde niet-naleving van de verbintenissen ten opzichte van de dienstverlenende of opdrachthoudende vereniging.<br>
 <br>
-In afwijking van het eerste lid kan een samengevoegde gemeente waarin dezelfde activiteit van gemeentelijk belang als vermeld in artikel 389 aan verschillende dienstverlenende of opdrachthoudende verenigingen is toevertrouwd, beslissen om die activiteit, voor haar gehele grondgebied, toe te vertrouwen aan één daarvan, op voorwaarde dat een gewone meerderheid van de andere deelnemende gemeenten daarmee instemt. De gemeente die uittreedt, vergoedt de schade die haar uittreding berokkent aan de dienstverlenende of opdrachthoudende verenigingen en aan de andere vennoten.
+In afwijking van het eerste lid kan een nieuwe gemeente&nbsp;als vermeld in artikel 343, 2°, waarin dezelfde activiteit van gemeentelijk belang als vermeld in artikel 389 aan verschillende dienstverlenende of opdrachthoudende verenigingen is toevertrouwd, beslissen om die activiteit, voor haar gehele grondgebied, toe te vertrouwen aan één daarvan, op voorwaarde dat een gewone meerderheid van de andere deelnemende gemeenten daarmee instemt. De gemeente die uittreedt, vergoedt de schade die haar uittreding berokkent aan de dienstverlenende of opdrachthoudende verenigingen en aan de andere vennoten.<br>
+<br>
+Een nieuwe gemeente kan onder de voorwaarden, vermeld in het vierde lid, beslissen om volledig of gedeeltelijk uit te treden om de activiteiten voor haar hele grondgebied in eigen beheer te nemen.
 
 ### ART 423.
 
@@ -4249,7 +4427,7 @@ De statuten van de dienstverlenende of opdrachthoudende verenigingen vermelden t
 2° de maatschappelijke doelstellingen, die duidelijk en beperkend omschreven zijn;<br>
 3° de maatschappelijke zetel;<br>
 4° de duur en de wijze van de verlenging;<br>
-5° de nauwkeurige aanduiding van de deelnemers, hun inbreng en hun verbintenissen en eventueel het vast kapitaal;<br>
+5° de nauwkeurige aanduiding van de deelnemers, hun inbreng en hun verbintenissen;<br>
 6° de samenstelling, de vergaderwijze en de bevoegdheden van alle organen van de dienstverlenende of opdrachthoudende vereniging;<br>
 7° de wijze waarop de rekeningen zijn opgemaakt en het resultaat is verdeeld;<br>
 8° de wijze van toetreding, ontbinding en vereffening;<br>
@@ -4427,7 +4605,7 @@ De regionale bestuurscomités zijn bestuursorganen als vermeld in artikel 461.
 
 ### ART 443.
 
-Er zijn geen andere organen mogelijk dan deze vermeld in dit decreet.<br>
+Er zijn geen andere organen mogelijk dan deze vermeld in deze titel.<br>
 <br>
 De leden van de regionale bestuurscomités, het algemeen comité en de adviescomités van de dienstverlenende en opdrachthoudende verenigingen worden, bij geheime stemming, benoemd door de algemene vergadering op voordracht van de deelnemers. Zij ontvangen geen vergoeding onder welke vorm dan ook voor hun prestaties in dat comité.<br>
 <br>
@@ -4467,11 +4645,15 @@ Het mandaat van vertegenwoordiger op de algemene vergadering is onverenigbaar me
 
 ### ART 448.
 
-De leden van de bestuursorganen van de dienstverlenende of opdrachthoudende vereniging, kunnen per bijgewoonde vergadering een presentiegeld ontvangen dat ten hoogste gelijk is aan het hoogste bedrag dat uitkeerbaar is aan een gemeenteraadslid voor een gemeenteraadszitting in een van de deelnemende gemeenten. De algemene vergadering bepaalt het presentiegeld en, binnen de perken en overeenkomstig de toekenningsvoorwaarden die vastgesteld zijn door de Vlaamse Regering, de andere vergoedingen die in het kader van de bestuurlijke werking van de dienstverlenende of de opdrachthoudende vereniging kunnen worden toegekend.<br>
+De leden van de raad van bestuur van de dienstverlenende of opdrachthoudende vereniging en de vertrouwenspersonen die hen bijstaan conform artikel 16 en 155, kunnen per bijgewoonde vergadering een presentiegeld ontvangen.<br>
+<br>
+Het presentiegeld voor het bijwonen van de raad van bestuur is ten hoogste gelijk aan het hoogste bedrag dat uitkeerbaar is aan een gemeenteraadslid voor een gemeenteraadszitting in een van de deelnemende gemeenten. Aan de voorzitter van de raad van bestuur en aan de voormelde vertrouwenspersonen kan maximaal een dubbel presentiegeld worden toegekend. Bij een cumulatie van mandaten, waaraan een dubbel presentiegeld verbonden is in meerdere dienstverlenende of opdrachthoudende verenigingen, bepaalt het lid van de raad van bestuur in welke vereniging het dubbel presentiegeld wordt toegekend. In elk van de andere verenigingen ontvangt dit lid een enkel presentiegeld. De toekenning van een dubbel presentiegeld is slechts mogelijk nadat de betrokkene een verklaring op erewoord heeft ingediend waaruit blijkt dat hij geen dubbel presentiegeld geniet in een andere dienstverlenende of opdrachthoudende vereniging.<br>
+<br>
+De algemene vergadering bepaalt het presentiegeld en, binnen de perken en overeenkomstig de toekenningsvoorwaarden die de Vlaamse Regering vaststelt, de andere vergoedingen die in het kader van de bestuurlijke werking van de dienstverlenende of de opdrachthoudende vereniging kunnen worden toegekend.<br>
 <br>
 Jaarlijks wordt een per mandataris geïndividualiseerd overzicht van de vergoedingen en presentiegelden die in het in het voorbije boekjaar zijn ontvangen, bij de documenten gevoegd die aan de deelnemende gemeenten worden bezorgd, overeenkomstig artikel 454. Dat overzicht bevat, in voorkomend geval, ook de vergoedingen en presentiegelden die werden ontvangen vanwege de publiekrechtelijke of privaatrechtelijke rechtspersonen waarin de dienstverlenende of opdrachthoudende vereniging rechtstreeks of onrechtstreeks deelneemt, overeenkomstig artikel 472.<br>
 <br>
-De overzichten, vermeld in het tweede lid, worden ook bezorgd aan de toezichthoudende overheid, vermeld in artikel 461.
+De overzichten, vermeld in het vierde lid, worden ook bezorgd aan de toezichthoudende overheid, vermeld in artikel 461.
 
 ### ART 449.
 
@@ -4489,15 +4671,15 @@ De dienstverlenende of de opdrachthoudende vereniging kan gemachtigd worden om i
 
 ### ART 451.
 
-Het vaste gedeelte van het maatschappelijk kapitaal mag niet lager zijn dan het bedrag dat daarvoor voorgeschreven is voor de coöperatieve vennootschappen met beperkte aansprakelijkheid, en wordt voor een derde volgestort.<br>
-<br>
-Het kapitaal wordt niet geïndexeerd en wordt vertegenwoordigd door aandelen waarvan de waarde en de rechten statutair zijn bepaald.<br>
+De dienstverlenende en opdrachthoudende verenigingen zien erop toe dat ze over een eigen vermogen beschikken dat, mede gelet op andere financieringsbronnen, toereikend is in het licht van hun bedrijvigheid.<br>
 <br>
 Immateriële inbrengen ter vertegenwoordiging van vermogensbestanddelen die niet volgens economische maatstaven kunnen worden gewaardeerd, en inbrengen in natura worden gewaardeerd op grond van een verslag van de revisor en worden vertegenwoordigd door respectievelijk winstbewijzen en aandelen waarvan de waarde en de rechten statutair zijn bepaald.<br>
 <br>
 De deelnemers kunnen uitsluitend worden vergoed voor hun inbreng en zijn alleen aansprakelijk voor hun inbreng.<br>
 <br>
-Bij de statuten wordt een register gevoegd waarop iedere deelnemer is vermeld, met aanduiding van de aandelen en de winstbewijzen die aan hem zijn toegekend.
+Bij de statuten wordt een register gevoegd waarop iedere deelnemer is vermeld, met aanduiding van de aandelen en de winstbewijzen die aan hem zijn toegekend.<br>
+<br>
+Tenzij het in de statuten anders is bepaald, worden alle inbrengen bij aanvang volledig gestort.
 
 ### ART 452.
 
@@ -4522,17 +4704,19 @@ Als de jaarrekeningen niet worden vastgesteld overeenkomstig artikel 454, eerste
 
 ### ART 456.
 
-De jaarrekeningen worden, binnen een termijn van dertig dagen nadat de algemene vergadering ze heeft vastgesteld, door de bestuurders neergelegd bij de Nationale Bank van België, met de vermelding dat ze nog onderworpen zijn aan het bestuurlijk toezicht.<br>
-<br>
-Binnen een termijn van dertig dagen wordt de Nationale Bank van België op de hoogte gebracht van het verstrijken van de termijn, vermeld in het eerste lid.
+De jaarrekeningen worden, binnen een termijn van dertig dagen nadat de algemene vergadering ze heeft vastgesteld, door de bestuurders neergelegd bij de Nationale Bank van België.
 
 ### ART 457.
 
-Als ten gevolge van geleden verlies het nettoactief van de dienstverlenende of opdrachthoudende vereniging gedaald is tot minder dan de helft van het vaste gedeelte van het kapitaal, komt de algemene vergadering bijeen binnen een termijn van ten hoogste zestig dagen nadat het verlies is vastgesteld, om te beraadslagen en te beslissen over een saneringsplan dat de raad van bestuur heeft opgesteld.<br>
+Behoudens strengere bepalingen in de statuten roept de raad van bestuur, als het netto actief van de vereniging negatief dreigt te worden of is geworden, de algemene vergadering op om te vergaderen. Die vergadering heeft plaats binnen ten hoogste zestig dagen na de datum waarop de voormelde toestand is vastgesteld of had moeten worden vastgesteld krachtens de wettelijke of statutaire bepalingen. De algemene vergadering neemt een van de volgende beslissingen:<br>
+1° de ontbinding van de vereniging;<br>
+2° de invoering van de maatregelen om de continuïteit van de vereniging te vrijwaren, die in de agenda zijn aangekondigd.<br>
 <br>
-De raad van bestuur verantwoordt zijn voorstellen in dat saneringsplan dat uiterlijk drie weken voor de algemene vergadering aan alle deelnemers en aan de toezichthoudende overheid wordt voorgelegd, samen met de oproepingsbrief en alle bijbehorende documenten waaruit de noodzaak van het saneringsplan blijkt.<br>
+Tenzij de raad van bestuur de ontbinding van de vereniging voorstelt, zet hij in een bijzonder plan uiteen welke maatregelen hij voorstelt om de continuïteit van de vereniging te vrijwaren.<br>
 <br>
-De algemene vergadering beslist onder de voorwaarden, vermeld in artikel 427. Als het saneringsplan niet of in onvoldoende mate wordt aanvaard, kan artikel 470 worden toegepast.
+De raad van bestuur verantwoordt zijn voorstellen in dat plan dat uiterlijk drie weken voor de algemene vergadering aan alle deelnemers en aan de toezichthoudende overheid wordt voorgelegd, samen met de oproepingsbrief en alle bijbehorende documenten waaruit de noodzaak van het plan blijkt.<br>
+<br>
+De algemene vergadering beslist onder de voorwaarden, vermeld in artikel 427. Als het plan niet of in onvoldoende mate wordt aanvaard, kan artikel 470 worden toegepast.
 
 ### ART 458.
 
@@ -4597,20 +4781,22 @@ De webtoepassing van de dienstverlenende en opdrachthoudende vereniging vermeldt
 2° de datum van bekendmaking van de lijst, vermeld in het eerste lid;<br>
 3° de mogelijkheid om klacht in te dienen bij de toezichthoudende overheid.<br>
 <br>
-Als de toezichthoudende overheid een besluit heeft vernietigd, wordt ook van die vernietiging melding gemaakt.
+Als de toezichthoudende overheid een besluit heeft vernietigd, wordt ook van die vernietiging melding gemaakt.<br>
+<br>
+Op dezelfde dag als de dag waarop de dienstverlenende of de opdrachthoudende vereniging de lijst, vermeld in het eerste lid, bekendmaakt op haar webtoepassing, brengt de dienstverlenende of de opdrachthoudende vereniging de toezichthoudende overheid op de hoogte van de bekendmaking ervan.
 
 ### ART 467.
 
 De voorzitter van de raad van bestuur van de dienstverlenende of opdrachthoudende vereniging maakt de volgende besluiten en de inhoud ervan bekend via de webtoepassing van de vereniging:<br>
 1° de besluiten van de dienstverlenende en opdrachthoudende verenigingen betreffende de rechtspositieregeling van het personeel, vermeld in artikel 458;<br>
-2° de voorstellen van de raad van bestuur van de dienstverlenende en opdrachthoudende verenigingen in verband met het saneringsplan overeenkomstig artikel 457;<br>
+2° de voorstellen van de raad van bestuur van de dienstverlenende en opdrachthoudende verenigingen in verband met het plan overeenkomstig artikel 457;<br>
 3° de code van goed bestuur, na goedkeuring door de algemene vergadering van de dienstverlenende en opdrachthoudende verenigingen.<br>
 <br>
 De bekendmaking, vermeld in het eerste lid, vindt plaats binnen tien dagen nadat het besluit genomen is.<br>
 <br>
 Met behoud van de bepalingen van dit decreet, kan de Vlaamse Regering bepalen welke andere besluiten en stukken bekendgemaakt moeten worden en voor alle besluiten en stukken hoe lang ze minimaal via de webtoepassing van de dienstverlenende of opdrachthoudende vereniging raadpleegbaar moeten blijven.<br>
 <br>
-Op dezelfde dag als de bekendmaking op de webtoepassing van de dienstverlenende of de opdrachthoudende vereniging brengt de dienstverlenende of de opdrachthoudende vereniging de toezichthoudende overheid op de hoogte van de bekendmaking.
+Op dezelfde dag als de bekendmaking op de webtoepassing van de dienstverlenende of de opdrachthoudende vereniging brengt de dienstverlenende of de opdrachthoudende vereniging de toezichthoudende overheid op de hoogte van de bekendmaking ervan.
 
 ### ART 468.
 
@@ -4671,9 +4857,9 @@ Tot de deelneming kan pas worden overgegaan nadat de beslissing van de algemene 
 <br>
 De deelneming is onderworpen aan de voorwaarde dat aan de dienstverlenende of opdrachthoudende vereniging minstens een mandaat van bestuurder wordt toegekend. Voor dat mandaat komt uitsluitend een bestuurder die benoemd is op voordracht van de gemeenten, in aanmerking.<br>
 <br>
-§ 2. De beslissing van de algemene vergadering tot deelneming wordt samen met het verslag, vermeld in paragraaf 1, tweede lid, binnen dertig dagen naar de Vlaamse Regering verstuurd. De Vlaamse Regering keurt de beslissing al dan niet goed.<br>
+§ 2. De beslissing van de algemene vergadering tot deelneming wordt samen met het verslag, vermeld in paragraaf 1, tweede lid, binnen een termijn van dertig dagen na de dagtekening ervan aan de toezichthoudende overheid voorgelegd. De Vlaamse Regering keurt de beslissing al dan niet goed.<br>
 <br>
-Als de Vlaamse Regering binnen een termijn van honderd dagen hierover geen besluit heeft verstuurd naar de dienstverlenende of opdrachthoudende vereniging, wordt ze geacht de beslissing tot deelneming goed te keuren.<br>
+Als de Vlaamse Regering binnen een termijn van negentig dagen hierover geen besluit heeft verstuurd naar de dienstverlenende of opdrachthoudende vereniging, wordt ze geacht de beslissing tot deelneming goed te keuren.&nbsp;De voormelde termijn gaat in op de dag na de verzending, vermeld in het eerste lid.<br>
 <br>
 § 3. De vertegenwoordigers van de dienstverlenende of opdrachthoudende vereniging brengen verslag uit in hun raad van bestuur.<br>
 <br>
@@ -4693,7 +4879,7 @@ Voor lokale pps-projecten als vermeld in het decreet van 18 juli 2013 betreffend
 
 ### ART 474.
 
-§ 1. Een openbaar centrum voor maatschappelijk welzijn kan een samenwerkingsverband oprichten met een of meer andere openbare centra voor maatschappelijk welzijn, met andere openbare besturen of met andere rechtspersonen dan rechtspersonen die winstoogmerk hebben. Het openbaar centrum voor maatschappelijk welzijn kan ook toetreden tot die samenwerkingsverbanden.<br>
+§ 1. Een openbaar centrum voor maatschappelijk welzijn kan een samenwerkingsverband oprichten met een of meer andere openbare centra voor maatschappelijk welzijn, met andere openbare besturen, met andere rechtspersonen die zonder winstoogmerk een belangeloos doel nastreven of met rechtspersonen die erkend zijn als een sociale onderneming als vermeld in het Wetboek van vennootschappen en verenigingen. Het openbaar centrum voor maatschappelijk welzijn kan ook toetreden tot die samenwerkingsverbanden.<br>
 <br>
 De samenwerkingsverbanden, vermeld in het eerste lid, zijn verenigingen of vennootschappen voor maatschappelijk welzijn.<br>
 <br>
@@ -4704,19 +4890,19 @@ Er bestaan vijf vormen van verenigingen of vennootschappen voor maatschappelijk 
 4° de vereniging voor sociale dienstverlening of de vennootschap voor sociale dienstverlening;<br>
 5° de woonzorgvereniging of de woonzorgvennootschap.<br>
 <br>
-§ 2. De leden van de raad van bestuur en de algemene vergadering van de welzijnsverenigingen en de autonome verzorgingsinstellingen kunnen per bijgewoonde vergadering een presentiegeld ontvangen dat ten hoogste gelijk is aan het hoogste bedrag dat uitkeerbaar is aan een lid van de raad voor maatschappelijk welzijn voor een zitting van de raad voor maatschappelijk welzijn van een deelnemend openbaar centrum voor maatschappelijk welzijn.<br>
+§ 2. De leden van de raad van bestuur en de algemene vergadering van de welzijnsverenigingen en de autonome verzorgingsinstellingen en de vertrouwenspersonen die hen bijstaan conform artikel 16 en artikel 155 kunnen per bijgewoonde vergadering een presentiegeld ontvangen dat ten hoogste gelijk is aan het hoogste bedrag dat uitkeerbaar is aan een lid van de raad voor maatschappelijk welzijn voor een zitting van de raad voor maatschappelijk welzijn van een deelnemend openbaar centrum voor maatschappelijk welzijn. Aan de voorzitter van de raad van bestuur en aan de voormelde vertrouwenspersonen kan maximaal een dubbel presentiegeld worden toegekend. Bij een cumulatie van mandaten, waaraan een dubbel presentiegeld verbonden is in meerdere welzijnsverenigingen of autonome verzorgingsinstellingen, bepaalt het lid van de raad van bestuur in welke vereniging het dubbel presentiegeld wordt toegekend. In elk van de andere verenigingen ontvangt dit lid een enkel presentiegeld. De toekenning van een dubbel presentiegeld is slechts mogelijk nadat de betrokkene een verklaring op erewoord heeft ingediend waaruit blijkt dat hij geen dubbel presentiegeld geniet in een andere welzijnsvereniging of autonome verzorgingsinstelling.<br>
 <br>
 De algemene vergadering bepaalt het presentiegeld en, binnen de perken en overeenkomstig de toekenningsvoorwaarden die vastgesteld zijn door de Vlaamse Regering, de andere vergoedingen die in het kader van de bestuurlijke werking van de welzijnsverenigingen en de autonome verzorgingsinstellingen kunnen worden toegekend.<br>
 <br>
 De leden van eventuele andere statutair opgerichte organen van de welzijnsverenigingen en de autonome verzorgingsinstellingen ontvangen geen vergoeding onder welke vorm dan ook voor hun prestaties in die organen.<br>
 <br>
-De beperking van de presentiegelden en vergoedingen, vermeld in het eerste lid, en het verbod op vergoedingen, vermeld in het derde lid, zijn ook van toepassing op de vertegenwoordigers van de openbare centra voor maatschappelijk welzijn of de gemeenten in de bestuursorganen van de ziekenhuisverenigingen, de verenigingen voor sociale dienstverlening, de vennootschappen voor sociale dienstverlening, de woonzorgverenigingen en de woonzorgvennootschappen.<br>
+De beperking van de presentiegelden en vergoedingen, vermeld in het tweede lid, en het verbod op vergoedingen, vermeld in het derde lid, zijn ook van toepassing op de vertegenwoordigers van de openbare centra voor maatschappelijk welzijn of de gemeenten in de bestuursorganen van de ziekenhuisverenigingen, de verenigingen voor sociale dienstverlening, de vennootschappen voor sociale dienstverlening, de woonzorgverenigingen en de woonzorgvennootschappen.<br>
 <br>
 § 3. Indien alle leden van een welzijnsvereniging of alle deelgenoten van een autonome verzorgingsinstelling openbare rechtspersonen zijn, bedraagt het aantal leden van de raad van bestuur van deze samenwerkingsverbanden maximaal vijftien.<br>
 <br>
 Maximaal twee derden van de leden is van hetzelfde geslacht.<br>
 <br>
-§ 4. De welzijnsvereniging als vermeld in paragraaf 1, derde lid, 1°, en de autonome verzorgingsinstelling als vermeld in paragraaf 1, derde lid, 2°, die een ziekenhuis uitbaten evenals de ziekenhuisvereniging als vermeld in paragraaf 1, derde lid, 3°, zijn in het kader van of ter ondersteuning van hun wettelijke opdrachten, met instemming van hun leden, gerechtigd lid te worden van een andere vereniging of vennootschap voor maatschappelijk welzijn of van rechtspersonen andere dan die welke winstoogmerk hebben. Met behoud van andersluidende decretale of wettelijke bepalingen kan dit gepaard gaan met de overdracht of terbeschikkingstelling van infrastructuur en van personeel.<br>
+§ 4. De autonome verzorgingsinstelling, vermeld in paragraaf 1, derde lid, 2°, die een ziekenhuis uitbaat en de ziekenhuisvereniging als vermeld in paragraaf 1, derde lid, 3°, zijn in het kader van of ter ondersteuning van hun wettelijke opdrachten, met instemming van hun leden, gerechtigd lid te worden van een andere vereniging of vennootschap voor maatschappelijk welzijn of van rechtspersonen andere dan die welke winstoogmerk hebben. Met behoud van andersluidende decretale of wettelijke bepalingen kan dit gepaard gaan met de overdracht of terbeschikkingstelling van infrastructuur en van personeel.<br>
 <br>
 § 5. Voor de beslissingen die overeenkomstig deze titel aan de goedkeuring van de toezichthoudende overheid onderworpen zijn, geldt dat de toezichthoudende overheid geacht wordt een goedkeuring te hebben verleend als er uiterlijk op de laatste dag van de termijn, bepaald bij dit decreet, geen beslissing is verstuurd.
 
@@ -4775,9 +4961,9 @@ De databank, vermeld in artikel 301, bevat ook de gegevens over de leidend ambte
 
 ### ART 482.
 
-Elke beslissing tot wijziging van de statuten, tot verlenging van de duur van de welzijnsvereniging of tot vrijwillige ontbinding ervan, is onderworpen aan het goedkeuringstoezicht, vermeld in artikel 476.<br>
+Elke beslissing van de vereniging tot wijziging van de statuten, tot verlenging van de duur van de welzijnsvereniging of tot vrijwillige ontbinding ervan, is onderworpen aan het goedkeuringstoezicht, vermeld in artikel 476.<br>
 <br>
-Die beslissingen, alsook de beslissing tot de toelating van deelgenoten, kunnen alleen genomen worden als alle deelgenoten daarmee vooraf instemmen. Bij een statutenwijziging is die instemming alleen vereist voor wijzigingen die een verzwaring van de verplichtingen of de vermindering van de rechten van de deelgenoten teweegbrengen.
+Die beslissingen, alsook de beslissing tot de toelating van deelgenoten, kunnen alleen genomen worden als alle deelgenoten daarmee vooraf instemmen. Bij een statutenwijziging is die instemming alleen vereist voor wijzigingen die een verzwaring van de verplichtingen of een vermindering van de rechten van de deelgenoten teweegbrengen.
 
 ### ART 483.
 
@@ -4791,7 +4977,7 @@ De deelgenoot, vermeld in het eerste lid, zal de tegenwaarde ontvangen van zijn 
 <br>
 De leden, vermeld in het eerste lid, worden door de raad voor maatschappelijk welzijn aangewezen bij geheime stemming en in één enkele stemronde. Elk lid van de raad voor maatschappelijk welzijn beschikt daarbij over één stem. Bij staking van stemmen is de jongste kandidaat in jaren verkozen.<br>
 <br>
-Als het mandaat van afgevaardigde in de bestuursorganen een einde neemt of bij een verhindering kunnen de leden van de raad voor maatschappelijk welzijn van de lijst die het betreffende lid heeft voorgedragen, samen een kandidaat-lid aanwijzen, behalve als de vertegenwoordiger in de bestuursorganen van de vereniging was verkozen als jongste in jaren bij staking van stemmen.<br>
+Het mandaat van de vertegenwoordigende leden van de raad voor maatschappelijk welzijn eindigt van rechtswege op de eerste algemene vergadering die plaatsvindt nadat de raden voor maatschappelijk welzijn van de openbare centra voor maatschappelijk welzijn die lid zijn van de vereniging, conform artikel 68, § 1, geïnstalleerd zijn. Als het mandaat van afgevaardigde in de bestuursorganen een einde neemt of bij een verhindering kunnen de leden van de raad voor maatschappelijk welzijn van de lijst van de betrokken vertegenwoordiger, samen een vertegenwoordiger aanwijzen, behalve als de vertegenwoordiger in de bestuursorganen van de vereniging was verkozen als jongste in jaren bij staking van stemmen.<br>
 <br>
 Als de vervanging, vermeld in het derde lid, niet kan plaatsvinden of niet plaatsvindt binnen zestig dagen, wordt in de vervanging voorzien, overeenkomstig het tweede lid.<br>
 <br>
@@ -4806,7 +4992,7 @@ De algemene vergadering stelt een onafhankelijk bestuurder aan op voordracht van
 <br>
 In geval van ernstige redenen kunnen de onafhankelijke bestuurders te allen tijde worden ontslagen door de algemene vergadering, op voordracht van de raad van bestuur.<br>
 <br>
-§ 3. De raad van bestuur van de welzijnsverenging kan zich laten bijstaan door deskundigen die na gezamenlijk overleg worden voorgedragen door de raad van bestuur. De algemene vergadering benoemt deze deskundigen, die met raadgevende stem zetelen in de raad van bestuur.<br>
+§ 3. De raad van bestuur van de welzijnsvereniging kan zich laten bijstaan door deskundigen die na gezamenlijk overleg worden voorgedragen door de raad van bestuur. De algemene vergadering benoemt deze deskundigen, die met raadgevende stem zetelen in de raad van bestuur.<br>
 <br>
 § 4. Het huishoudelijk reglement van het bevoegde orgaan van het openbaar centrum voor maatschappelijk welzijn bepaalt op welke wijze het de beslissingen van de welzijnsvereniging bespreekt.
 
@@ -4840,7 +5026,7 @@ Er kan niet afgeweken worden van de tuchtregeling, vermeld in deel 2, titel 2, h
 <br>
 Behalve in geval van gemotiveerde afwijking, kan aan geen enkel personeelslid van de welzijnsvereniging een jaarsalaris worden toegekend dat gelijk is aan of hoger is dan het jaarsalaris van de algemeen directeur van de gemeente met het hoogste aantal inwoners van de gemeenten die bediend worden door de deelnemende openbare centra voor maatschappelijk welzijn.<br>
 <br>
-§ 2. Personeelsleden van een openbaar centrum voor maatschappelijk welzijn en personeelsleden van een welzijnsvereniging of van een autonome verzorgingsinstelling als vermeld in titel 4, hoofdstuk 2 en 3, die deelgenoot zijn van een vereniging als vermeld in titel 4, hoofdstuk 2 of 3, kunnen door die vereniging overgenomen worden.<br>
+§ 2. Personeelsleden van een openbaar centrum voor maatschappelijk welzijn of een gemeente en personeelsleden van een welzijnsvereniging of van een autonome verzorgingsinstelling als vermeld in titel 4, hoofdstuk 2 en 3, die deelgenoot zijn van een vereniging als vermeld in titel 4, hoofdstuk 2 of 3, kunnen door die vereniging overgenomen worden.<br>
 <br>
 Ongeacht de regels die van toepassing zijn bij bevorderingen, worden die personeelsleden met hun graad of met een gelijkwaardige graad en in hun hoedanigheid overgeplaatst. Ze behouden de bezoldiging en de geldelijke anciënniteit die zij hadden of verkregen zouden hebben op grond van de rechtspositieregeling die van toepassing is op het ogenblik van de overname als ze in hun dienst van herkomst het ambt dat ze bij hun overplaatsing bekleedden, verder hadden uitgeoefend.<br>
 <br>
@@ -4848,7 +5034,7 @@ De Vlaamse Regering kan de algemene regels tot vaststelling van de administratie
 <br>
 Op verzoek van het openbaar centrum voor maatschappelijk welzijn, van de welzijnsvereniging of van het betrokken personeelslid doet de provinciegouverneur die krachtens artikel 485 bevoegd is, uitspraak over elke betwisting betreffende de toepassing van deze paragraaf.<br>
 <br>
-§ 3. De personeelsleden van een welzijnsvereniging kunnen door een openbaar centrum voor maatschappelijk welzijn dat deelgenoot is van die welzijnsvereniging als vermeld in dit hoofdstuk overgenomen worden.<br>
+§ 3. Een openbaar centrum voor maatschappelijk welzijn of een gemeente die deelgenoot is van een welzijnsvereniging als vermeld in dit hoofdstuk, kan de personeelsleden van die welzijnsvereniging overnemen.<br>
 <br>
 Bij de overname van personeel dat in dienst is van een deelgenoot van de privésector, kan bedongen worden dat het personeel in dezelfde toestand behouden blijft wat betreft bezoldiging, anciënniteit, sociale zekerheid en verworven rechten.<br>
 <br>
@@ -4862,7 +5048,7 @@ De aanstellende overheid beslist, in overeenstemming met de rechtspositieregelin
 
 ### ART 489.
 
-De bepalingen van deel 2, titel 4, zijn van toepassing op de welzijnsverenigingen, met uitzondering van hoofdstuk 3 en artikel 249, § 2 en § 3, artikel 256, 260, derde lid, artikel 262, § 1, tweede lid, artikel 263 en artikel 264, tweede lid, met dien verstande dat de volgende woorden worden gelezen als volgt:<br>
+Artikel 221 tot en met 223 en de bepalingen van deel 2, titel 4, zijn van toepassing op de welzijnsverenigingen, met uitzondering van artikel 249, § 2, § 3 en § 4, artikel 256, artikel 260, derde lid, artikel 262, § 1, tweede lid, artikel 263, artikel 264, tweede lid, en hoofdstuk 3 en 4, met dien verstande dat de volgende woorden worden gelezen als volgt:<br>
 1° "gemeente" als "welzijnsvereniging";<br>
 2° "gemeente en openbaar centrum voor maatschappelijk welzijn" als "welzijnsvereniging";<br>
 3° "elke gemeente en elk openbaar centrum voor maatschappelijk welzijn" als "elke welzijnsvereniging";<br>
@@ -4879,6 +5065,10 @@ De Vlaamse Regering bepaalt de nadere voorwaarden voor de toepassing van het eer
 § 1. De boekhouding wordt gevoerd onder de verantwoordelijkheid en het toezicht van de raad van bestuur.<br>
 <br>
 De raad van bestuur stelt het meerjarenplan en de aanpassingen ervan vast en legt ze ter goedkeuring voor aan de algemene vergadering van de welzijnsvereniging. De ramingen voor de exploitatie, de investeringen en de financiering in het eerste jaar van de financiële nota van het meerjarenplan omvatten ook de kredieten voor dat boekjaar.<br>
+<br>
+De raad van bestuur stemt telkens over het hele meerjarenplan en de aanpassingen ervan en over de hele jaarrekening.<br>
+<br>
+In afwijking van het derde lid kan elk lid van de raad van bestuur de afzonderlijke stemming eisen over een of meer onderdelen die hij aanwijst. In dat geval mag de raad van bestuur pas over het hele meerjarenplan en de aanpassingen ervan en over de hele jaarrekening stemmen na de afzonderlijke stemming. Als die afzonderlijke stemming tot gevolg heeft dat het ontwerp van het meerjarenplan en de aanpassingen ervan of de jaarrekening gewijzigd moeten worden, wordt de stemming over het geheel verdaagd tot de volgende vergadering van de raad van bestuur.<br>
 <br>
 § 2. De algemene vergadering van de welzijnsvereniging spreekt zich uit over de vaststelling van de jaarrekening voor 30 juni van het boekjaar dat volgt op het boekjaar waarop de rekening betrekking heeft.<br>
 <br>
@@ -4950,13 +5140,13 @@ Het bevoegde orgaan van de vereniging stelt de afwijkingen van de rechtspositier
 
 ### ART 500.
 
-De bepalingen van hoofdstuk 2 van deze titel zijn van toepassing op de autonome verzorgingsinstelling, met uitzondering van artikel 485, tweede lid, voor de beleidsrapporten, en artikel 485, derde lid, artikel 489 en artikel 490, met dien verstande dat het woord "welzijnsvereniging" wordt gelezen als "autonome verzorgingsinstelling".
+De bepalingen van dit decreet met betrekking tot de welzijnsvereniging zijn van toepassing op de autonome verzorgingsinstelling, met uitzondering van artikel 286, § 2, 5°, artikel 485, derde lid, artikel 489 en artikel 490, met dien verstande dat het woord "welzijnsvereniging" wordt gelezen als "autonome verzorgingsinstelling".
 
 ## HOOFDSTUK 4. Verenigingen van privaat recht met het oog op de gehele of gedeeltelijke exploitatie van een ziekenhuis of van ziekenhuisgebonden activiteiten: de ziekenhuisvereniging
 
 ### ART 501.
 
-Om een ziekenhuis of ziekenhuisgebonden activiteiten geheel of gedeeltelijk te exploiteren, kan een openbaar centrum voor maatschappelijk welzijn een vereniging zonder winstoogmerk als vermeld in de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen, oprichten, al dan niet met een of meer andere openbare centra voor maatschappelijk welzijn, gemeenten, of verenigingen, opgericht overeenkomstig hoofdstuk 2 of 3 van deze titel, of andere openbare besturen, samen met een of meer andere rechtspersonen dan rechtspersonen die een winstoogmerk hebben.<br>
+Om een ziekenhuis of ziekenhuisgebonden activiteiten geheel of gedeeltelijk te exploiteren, kan een openbaar centrum voor maatschappelijk welzijn een vzw als vermeld in het Wetboek van vennootschappen en verenigingen oprichten, al dan niet met een of meer andere openbare centra voor maatschappelijk welzijn, gemeenten, of verenigingen, opgericht overeenkomstig hoofdstuk 2 of 3 van deze titel, of andere openbare besturen, samen met een of meer andere rechtspersonen die zonder winstoogmerk een belangeloos doel nastreven of met rechtspersonen erkend als een sociale onderneming als vermeld in het Wetboek van vennootschappen en verenigingen.<br>
 <br>
 De oprichting van de vereniging om een ziekenhuis geheel te exploiteren, vermeld in het eerste lid, is alleen mogelijk als voldaan wordt aan een van de volgende voorwaarden:<br>
 1° het ziekenhuis dat uitgebaat wordt door het openbaar centrum voor maatschappelijk welzijn, voldoet niet meer aan de voorwaarden die gesteld zijn om erkend te kunnen blijven als ziekenhuis;<br>
@@ -4967,7 +5157,7 @@ De voorwaarde, vermeld in het tweede lid, 2°, blijkt ten minste uit de noodzaak
 2° een voldoende schaalgrootte te bereiken om de vereiste ervaring en deskundigheid te garanderen binnen een bedrijfseconomisch efficiënte omgeving en met een optimale inzet van personele middelen en van deskundig beheer;<br>
 3° een multidisciplinaire aanpak mogelijk te maken die aansluit bij de intensifiëring van de zorgverlening en inzonderheid het toenemende technologische karakter ervan.<br>
 <br>
-Het openbaar centrum voor maatschappelijk welzijn kan om exploitatie van ziekenhuisdiensten of ziekenhuisgebonden activiteiten te exploiteren ook beslissen om lid te worden van een vereniging als vermeld in het eerste lid. In dat geval moet voldaan worden aan de procedure en de voorwaarden, vermeld in artikel 502, § 1, eerste lid, artikel 503, 2° tot en met 11°, artikel 504, § 1, artikel 505 en 506. De statuten van de vereniging vermelden dat ze aan iedereen die zich aanmeldt, de haar opgedragen dienstverlening verstrekt met respect voor zijn ideologische, filosofische of godsdienstige overtuiging en ongeacht de inkomens-, verzekerbaarheids- of vermogenstoestand van de betrokkene, ofwel alleen goederen of diensten levert aan de deelgenoten. In dat geval wordt in artikel 503, 7°, "het ingebrachte ziekenhuis" gelezen als "de ziekenhuisdienst in kwestie of de ziekenhuisgebonden activiteit".
+Het openbaar centrum voor maatschappelijk welzijn kan voor de exploitatie van ziekenhuisdiensten of van ziekenhuisgebonden activiteiten ook beslissen om lid te worden van een vereniging als vermeld in het eerste lid. In dat geval moet voldaan worden aan de procedure en de voorwaarden, vermeld in artikel 502, § 1, eerste lid, artikel 503, 2° tot en met 11°, artikel 504, § 1, artikel 505 en 506. De statuten van de vereniging vermelden dat ze aan iedereen die zich aanmeldt, de haar opgedragen dienstverlening verstrekt met respect voor zijn ideologische, filosofische of godsdienstige overtuiging en ongeacht de inkomens-, verzekerbaarheids- of vermogenstoestand van de betrokkene, ofwel alleen goederen of diensten levert aan de deelgenoten. In dat geval wordt in artikel 503, 7°, "het ingebrachte ziekenhuis" gelezen als "de ziekenhuisdienst in kwestie of de ziekenhuisgebonden activiteit".
 
 ### ART 502.
 
@@ -4987,7 +5177,7 @@ Uit het dossier dat wordt overgelegd om de goedkeuring te krijgen, moet blijken:
 
 ### ART 503.
 
-Met behoud van de toepassing van de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen, vermelden de statuten:<br>
+Met behoud van de toepassing van het Wetboek van vennootschappen en verenigingen, vermelden de statuten:<br>
 1° dat de vereniging tot doel heeft een ziekenhuis of een deel van een ziekenhuis te exploiteren of tot die exploitatie bij te dragen, waarin eenieder die zich aanmeldt, de nodige kwaliteitsverzorging tegen de beste kostprijs krijgt, met respect voor zijn ideologische, filosofische of godsdienstige overtuiging en ongeacht de inkomens-, verzekerbaarheids- of vermogenstoestand van de betrokkene;<br>
 2° dat de vereniging wordt opgericht voor een periode die, behalve na een voorafgaande verlenging, niet langer mag zijn dan dertig jaar;<br>
 3° dat de toetreding, een statutenwijziging, een verlenging van de duur van de vereniging of de vrijwillige ontbinding van de vereniging alleen mogelijk is op voorwaarde dat alle deelgenoten daarmee vooraf instemmen en dat een beslissing over de algemene financiële regeling met de geneesheren, vermeld in artikel 130, § 3, 4°, van de gecoördineerde wet op de ziekenhuizen van 7 augustus 1987, over de kosten ten laste van de patiënt of over de toegankelijkheid, vermeld in punt 1°, alleen mogelijk is als het voorstel drie vierde van de uitgebrachte stemmen krijgt;<br>
@@ -4995,7 +5185,7 @@ Met behoud van de toepassing van de wet van 27 juni 1921 betreffende de verenigi
 5° dat een openbaar centrum voor maatschappelijk welzijn zich in de algemene vergadering alleen kan laten vertegenwoordigen door leden van de raad voor maatschappelijk welzijn, die elk maar één stem mogen uitbrengen, ongeacht de mogelijkheid om, als vertegenwoordigend lid van de raad voor maatschappelijk welzijn, voor bepaalde aangewezen zittingen een volmacht te verlenen aan een ander lid van de raad voor maatschappelijk welzijn dat nog niet stemgerechtigd is;<br>
 6° dat de personen die in de algemene vergadering zitting hebben of die als bestuurders zitting hebben in de raad van bestuur van de vereniging zonder winstoogmerk, geen persoonlijke, familiale of zakelijke belangen mogen hebben die ingaan tegen het belang van de vereniging zonder winstoogmerk;<br>
 7° dat het stemmenaantal in de algemene vergadering en in de andere beheersorganen waarover elke deelgenoot beschikt, wordt bepaald in verhouding tot het aantal bedden of de omzet van het ingebrachte ziekenhuis in de vereniging en dat maximaal een derde van de door het openbaar centrum voor maatschappelijk welzijn aan te wijzen stemgerechtigde bestuurders deskundigen kunnen zijn die geen lid zijn van de raad voor maatschappelijk welzijn. De verdeling van het stemmenaantal wordt in de statuten ingeschreven;<br>
-8° dat het mandaat van al de bestuurders beperkt is in duur en telkens van rechtswege eindigt op de eerste algemene vergadering van de vereniging die plaatsvindt nadat al de raden voor maatschappelijk welzijn van de openbare centra voor maatschappelijk welzijn die lid zijn van de vereniging, geïnstalleerd zijn;<br>
+8° dat het mandaat van al de bestuurders beperkt is in duur en telkens van rechtswege eindigt op de eerste algemene vergadering van de vereniging die plaatsvindt nadat al de raden voor maatschappelijk welzijn van de openbare centra voor maatschappelijk welzijn die lid zijn van de vereniging,&nbsp;conform artikel 68, § 1, geïnstalleerd zijn;<br>
 9° dat een mandaat van bestuurder altijd hernieuwbaar is;<br>
 10° dat in geval van ontbinding van de vereniging of van ontslag van een of meer leden, de uittredende leden recht hebben op teruggave van wat er door elk van hen is ingebracht, in voorkomend geval in natura en in verhouding tot de inbreng;<br>
 11° dat elke deelgenoot het recht heeft de algemene vergadering samen te roepen.
@@ -5032,9 +5222,9 @@ Een vereniging, opgericht overeenkomstig hoofdstuk 2 of 3 van deze titel, is met
 
 ### ART 508.
 
-§ 1. Een openbaar centrum voor maatschappelijk welzijn kan om sociale doeleinden te vervullen, met uitsluiting van de gehele of gedeeltelijke exploitatie van een ziekenhuis of van ziekenhuisgebonden activiteiten, lid worden van een vereniging zonder winstoogmerk als vermeld in de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen.<br>
+§ 1. Een openbaar centrum voor maatschappelijk welzijn kan om sociale doeleinden te vervullen, met uitsluiting van de gehele of gedeeltelijke exploitatie van een ziekenhuis of van ziekenhuisgebonden activiteiten, lid worden van een vzw als vermeld in het Wetboek van vennootschappen en verenigingen.<br>
 <br>
-Van die vereniging zijn minstens een of meer private rechtspersonen die geen winst nastreven, lid. Van de vereniging kunnen al dan niet een of meer andere openbare centra voor maatschappelijk welzijn, gemeenten, verenigingen opgericht overeenkomstig hoofdstuk 2 of 3 van deze titel, of andere openbare besturen lid zijn.<br>
+Van die vereniging zijn minstens een of meer private rechtspersonen die zonder winstoogmerk een belangeloos doel nastreven of rechtspersonen erkend als een sociale onderneming als vermeld in het Wetboek van vennootschappen en verenigingen, lid. Van de vereniging kunnen al dan niet een of meer andere openbare centra voor maatschappelijk welzijn, gemeenten, verenigingen opgericht overeenkomstig hoofdstuk 2 of 3 van deze titel, of andere openbare besturen lid zijn.<br>
 <br>
 Het lidmaatschap bij wijze van oprichting of toetreding van de vereniging, vermeld in het eerste lid, is alleen mogelijk als aan een van de volgende voorwaarden is voldaan:<br>
 1° de rechtsvorm is een bij decreet of besluit van de Vlaamse Regering opgelegde voorwaarde voor de gehele of gedeeltelijke erkenning, vergunning of subsidiëring. In dat geval kan afgeweken worden van de voorwaarde dat minstens een of meer private rechtspersonen lid moeten zijn;<br>
@@ -5059,7 +5249,7 @@ De statuten bepalen het stemmenaantal waarover elke deelgenoot beschikt in de ve
 
 ### ART 511.
 
-§ 1. De statuten van de vereniging bepalen op welke wijze het openbaar centrum voor maatschappelijk welzijn op de hoogte wordt gebracht van de agenda en de beslissingen van de beheersorganen van de vereniging en van het jaar-verslag, de begroting en de rekeningen van de vereniging. De raad voor maatschappelijk welzijn regelt, overeenkomstig de statuten van de vereniging, de eventuele overname of terbeschikkingstelling van het personeel met behoud van bezoldiging en geldelijke anciënniteit.<br>
+§ 1. De statuten van de vereniging bepalen op welke wijze het openbaar centrum voor maatschappelijk welzijn op de hoogte wordt gebracht van de agenda en de beslissingen van de bestuursorganen van de vereniging en van het jaarverslag, de begroting en de rekeningen van de vereniging. De raad voor maatschappelijk welzijn regelt, overeenkomstig de statuten van de vereniging, de eventuele overname of terbeschikkingstelling van het personeel met behoud van bezoldiging en geldelijke anciënniteit.<br>
 <br>
 § 2. Het openbaar centrum voor maatschappelijk welzijn kan in de organen van de vereniging alleen vertegenwoordigd zijn door leden van de raad voor maatschappelijk welzijn, die handelen volgens de instructies van de raad voor maatschappelijk welzijn door wie ze zijn aangewezen, en door deskundigen.<br>
 <br>
@@ -5069,15 +5259,15 @@ Het mandaat van de vertegenwoordigende leden van de raad voor maatschappelijk we
 
 ### ART 512.
 
-Het openbaar centrum voor maatschappelijk welzijn kan onder dezelfde voorwaarden als de voorwaarden, vermeld in artikel 508 tot en met 511, ook lid worden van een vennootschap met sociaal oogmerk.
+Het openbaar centrum voor maatschappelijk welzijn kan onder dezelfde voorwaarden als de voorwaarden, vermeld in artikel 508 tot en met 511, ook toetreden tot een sociale onderneming als vermeld in het Wetboek van vennootschappen en verenigingen.
 
 ## HOOFDSTUK 6. Verenigingen of vennootschappen van privaatrecht van woon- en zorgcentra De woonzorgvereniging of de woonzorgvennootschap
 
 ### ART 513.
 
-Een openbaar centrum voor maatschappelijk welzijn kan met betrekking tot woon- en zorgcentra, in afwijking van hoofdstuk 5 van deze titel, en met uitsluiting van de gehele of gedeeltelijke exploitatie van een ziekenhuis of van ziekenhuisgebonden activiteiten, lid worden van een vereniging zonder winstoogmerk als vermeld in de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen.<br>
+Een openbaar centrum voor maatschappelijk welzijn kan met betrekking tot woon- en zorgcentra, in afwijking van hoofdstuk 5 van deze titel, en met uitsluiting van de gehele of gedeeltelijke exploitatie van een ziekenhuis of van ziekenhuisgebonden activiteiten, lid worden van een vzw als vermeld in het Wetboek van vennootschappen en verenigingen.<br>
 <br>
-Van een vereniging zonder winstoogmerk, als vermeld in het eerste lid, moeten minstens een of meer private rechtspersonen die geen winst nastreven, lid zijn. Van die vereniging kunnen al dan niet één of meer andere openbare centra voor maatschappelijk welzijn, gemeenten, verenigingen opgericht overeenkomstig deel 3, titel 4, hoofdstuk 2 of 3, andere openbare besturen of private rechtspersonen die geen winst nastreven, lid zijn.
+Van een vzw zoals vermeld in het eerste lid, moeten minstens een of meer private rechtspersonen die zonder winstoogmerk een belangeloos doel nastreven of erkend zijn als een sociale onderneming als vermeld in het Wetboek van vennootschappen en verenigingen, lid zijn. Van die vereniging kunnen daarnaast al dan niet een of meer andere openbare centra voor maatschappelijk welzijn, gemeenten, verenigingen opgericht overeenkomstig deel 3, titel 4, hoofdstuk 2 of 3, of andere openbare besturen, lid zijn.
 
 ### ART 514.
 
